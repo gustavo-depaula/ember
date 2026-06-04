@@ -1,5 +1,7 @@
 # Proposition 4
 
+***37. Prima rerum creatarum est esse, et non est ante ipsum creatum aliud.***
+
 > 38. Quod est, quia esse est supra sensum et supra animam et supra intelligentiam, et non est post causam primam latius neque prius creatum ipso.
 
 > 39. Propter illud ergo factum est superius creatis rebus omnibus et vehementius unitum.

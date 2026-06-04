@@ -1,8 +1,10 @@
 # Chapter 3
 
+***Term 1***
+
 ***The Conceited Man***
 
-***The conceited man thinks himself worthy of great things, but is unworthy of them.***
+The conceited man thinks himself worthy of great things, but is unworthy of them.  
 
 The conceited man is excessive with regard to himself, but the magnanimous man is not.  
 
@@ -12,7 +14,7 @@ Term 2
 
 ***Dogs***
 
-***Dogs do not take pleasure in the scent of hares, but in eating them, and dogs know them by their scent.***
+Dogs do not take pleasure in the scent of hares, but in eating them, and dogs know them by their scent.  
 
 Term 3  
 
@@ -24,7 +26,7 @@ Term 4
 
 ***Calipso***
 
-***Calipso's warning was this: keep your ship out of the surf and spray. Homer, *Odyssey* 12.219.***
+Calipso's warning was this: keep your ship out of the surf and spray. Homer, *Odyssey* 12.219.  
 
 Term 5  
 
@@ -36,31 +38,31 @@ Term 6
 
 ***The Harpist***
 
-***Just as one becomes a harpist by playing the harp, so it is by doing just things that a man becomes just, and so with other things.***
+Just as one becomes a harpist by playing the harp, so it is by doing just things that a man becomes just, and so with other things.  
 
 Term 7  
 
 ***The Blind Man***
 
-***No one would reproach a man blind naturally by sickness or plague, but would even more pity him. All would certainly reproach a man, however, made blind by drinking wine or some other incontinence.***
+No one would reproach a man blind naturally by sickness or plague, but would even more pity him. All would certainly reproach a man, however, made blind by drinking wine or some other incontinence.  
 
 Term 8  
 
 ***The Mad-bellied***
 
-***They are called mad-bellied who stuff their bellies beyond need and take up for themselves more than their share. Such men become very brutish.***
+They are called mad-bellied who stuff their bellies beyond need and take up for themselves more than their share. Such men become very brutish.  
 
 Term 9  
 
 ***Key***
 
-***Key is said equivocally, both as the collar-bone, clavical (*clavicula),* below the neck of an animal, and what is used to close gates.***
+Key is said equivocally, both as the collar-bone, clavical (*clavicula),* below the neck of an animal, and what is used to close gates.  
 
 Term 10  
 
 ***Delight in Food***
 
-***Delight in food is common and natural, since it comes from our shared nature. Every man seeks after food whenever he is hungry, and after drink when he thirsts, and sometimes both.***
+Delight in food is common and natural, since it comes from our shared nature. Every man seeks after food whenever he is hungry, and after drink when he thirsts, and sometimes both.  
 
 Term 11  
 
@@ -84,7 +86,7 @@ Term 14
 
 ***Regarding Comparison***
 
-***Concerning the comparison of the mean to its extremes, and of the extremes to one other.***
+Concerning the comparison of the mean to its extremes, and of the extremes to one other.  
 
 Term 15  
 
@@ -112,7 +114,7 @@ Term 16
 
 ***Counsel***
 
-***No one takes counsel regarding eternal things, such as whether the world is eternal, nor of sides and angles, neither of things in motion, which are always in the same state.***
+No one takes counsel regarding eternal things, such as whether the world is eternal, nor of sides and angles, neither of things in motion, which are always in the same state.  
 
 Counsel regards actions in our power.  
 
@@ -158,7 +160,7 @@ Term 17
 
 ***The Counsel-giver***
 
-***A good counsel-giver is one who can by reasoning, make best conjectures of what the best man would do in a given situation.***
+A good counsel-giver is one who can by reasoning, make best conjectures of what the best man would do in a given situation.  
 
 Term 18  
 
@@ -170,7 +172,7 @@ Term 19
 
 ***Political Science***
 
-***Political science is what dictates which of the sciences ought to be studdied and who should pursue them.***
+Political science is what dictates which of the sciences ought to be studdied and who should pursue them.  
 
 Under political science are three most valuable arts, namely, military strategy, economics, and rhetoric.  
 
@@ -186,19 +188,19 @@ Term 20
 
 ***Agreement***
 
-***Concerning the agreement of the speculative and practial parts of the intellect. Each of them deals with ultimates, but neither is reasoning.***
+Concerning the agreement of the speculative and practial parts of the intellect. Each of them deals with ultimates, but neither is reasoning.  
 
 Term 21  
 
 ***Continuous***
 
-***In everything that is continuous and divisible, one can take something smaller, lesser, or equal amount.***
+In everything that is continuous and divisible, one can take something smaller, lesser, or equal amount.  
 
 Term 22  
 
 ***The Continent Man***
 
-***When the continent man acts, he does so within the bounds of reason, the incontinent without.***
+When the continent man acts, he does so within the bounds of reason, the incontinent without.  
 
 The continent man restrains himself on account of reason from the sensual pleasures which he knows to be wicked, but the incontinent man is overcome by passion.  
 
@@ -232,7 +234,7 @@ Term 24
 
 ***Eating Coals***
 
-***Eating coals and dirt and lying with men both occur because of wicked nature and habit, and these do not belong to continence because they are not delights in themselves proper to human nature.***
+Eating coals and dirt and lying with men both occur because of wicked nature and habit, and these do not belong to continence because they are not delights in themselves proper to human nature.  
 
 Term 25  
 
@@ -244,7 +246,7 @@ Term 26
 
 ***Habit habituation***
 
-***Habit is a difficult thing to change, since it resembles a kind of nature. Hence, after a long effort, it finally becomes fully engrained in man's nature.***
+Habit is a difficult thing to change, since it resembles a kind of nature. Hence, after a long effort, it finally becomes fully engrained in man's nature.  
 
 Term 27  
 
@@ -256,7 +258,7 @@ Term 28
 
 ***Contemplation***
 
-***The contemplation of wisdom is esteemed soley for its own sake, because it accomplishes no other deed or reckoning. In practical matters, however, we seek something beyond merely what we accomplish by some action we do.***
+The contemplation of wisdom is esteemed soley for its own sake, because it accomplishes no other deed or reckoning. In practical matters, however, we seek something beyond merely what we accomplish by some action we do.  
 
 The contemplative man is the happiest.  
 

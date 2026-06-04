@@ -1,6 +1,8 @@
 # Pr. - Acts 9:15
 
-***^9:15^ And the Lord said to him: go your way; for this man is to me a vessel of election, to carry my name before the gentiles, and kings, and the children of Israel.***
+***Acts 9:15***
+
+^9:15^ And the Lord said to him: go your way; for this man is to me a vessel of election, to carry my name before the gentiles, and kings, and the children of Israel.  
 
 > **1**. In Sacred Scripture men are compared to vessels from four viewpoints: their construction, contents, use, and fruit.
 

@@ -1,6 +1,8 @@
 # A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead
 
-***The death of Christ was the separation of his soul from his body as it is with other men.Parallel texts: *ST* III.52.1, 5, 6, 7; *In III Sent*. 22.2.1, qa. 1, 2; 22.2.2, qa. 1, 3; *Compendium theologiae*, ch. 235; *Commentary on Ephesians*, ch. 4, lect. 3. But the divinity was so indissolubly conjoined to Christ the man that although his soul and body were disunited, his divinity was always most perfectly united to both the soul and body. Therefore, in the sepulcher his body was together with the Son of God, and he descended with his soul to the underworld.***
+***He Descended into Hell; on the Third Day He Arose Again from the Dead***
+
+The death of Christ was the separation of his soul from his body as it is with other men.Parallel texts: *ST* III.52.1, 5, 6, 7; *In III Sent*. 22.2.1, qa. 1, 2; 22.2.2, qa. 1, 3; *Compendium theologiae*, ch. 235; *Commentary on Ephesians*, ch. 4, lect. 3. But the divinity was so indissolubly conjoined to Christ the man that although his soul and body were disunited, his divinity was always most perfectly united to both the soul and body. Therefore, in the sepulcher his body was together with the Son of God, and he descended with his soul to the underworld.  
 
 There are four reasons why Christ together with his soul descended to the underworld.  
 

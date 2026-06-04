@@ -1,5 +1,7 @@
 # Proposition 8
 
+72. Omnis intelligentia scit, quod est supra se et quod est sub se; verumtamen scit, quod est sub se, quoniam est causa ei, et scit, quod est supra se, quoniam acquirit bonitates ab eo.  
+
 > 73. Et intelligentia quidem est substantia intellectibilis; ergo secundum modum suae substantiae scit res, quas acquirit desuper, et res, quibus est causa.
 
 > 74. Ergo ipsa discernit, quod est supra eam et quod est sub ea, et scit, quod illud, quod est supra se, est causa ei et quod est sub ea, est causatum ab ea; et cognoscit causam suam et causatum suum per modum, qui est causa eius, scilicet per modum suae substantiae.

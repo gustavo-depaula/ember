@@ -1,10 +1,12 @@
 # C. 19 - Analogy of the broken pot
 
+***Analogy of the broken pot***
+
 ***Lecture 1***
 
 ***Warnings at the clay gate***
 
-***^19:1^ Thus says the Lord: go and take a potter’s earthen vessel from the elders of the people and from the elders of the priests,***
+^19:1^ Thus says the Lord: go and take a potter’s earthen vessel from the elders of the people and from the elders of the priests,  
 
 > ^19:2^ And go out to the valley of the sons of Hinnom, which is near the entrance of the clay gate:Heb. שַ֣עַר הַחֲרָסוּת: *gate of the potsherds*, probably from the fact that they were thrown there. and you shall preach there the words which I shall speak to you.
 
@@ -60,7 +62,7 @@ Lecture 2
 
 ***The broken vessel***
 
-***^19:10^ And you shall break the jar in the sight of the men who will go with you.***
+^19:10^ And you shall break the jar in the sight of the men who will go with you.  
 
 > ^19:11^ And you will say to them: thus says the Lord of hosts: thus shall I destroy this people, and this city, as an earthen vessel is destroyed, which cannot be fit together again, and they shall be buried in Tophet, because there shall be no other place for burying.
 
@@ -86,7 +88,7 @@ Lecture 3
 
 ***Warning in the temple***
 
-***^19:14^ Now Jeremiah came from Tophet, where the Lord had sent him to prophecy, and he stood in the atrium of the house of the Lord, and said to all the people:***
+^19:14^ Now Jeremiah came from Tophet, where the Lord had sent him to prophecy, and he stood in the atrium of the house of the Lord, and said to all the people:  
 
 > ^19:15^ thus says the Lord of hosts, the God of Israel: behold, I will bring upon this city, and upon all the cities thereof, all the evils which I have spoken against her, for they have stiffened their necks, that they might not hear my words.
 

@@ -1,5 +1,7 @@
 # D. 34 - Gifts of the Holy Spirit: fear, fortitude, and piety
 
+***Gifts of the Holy Spirit: fear, fortitude, and piety***
+
 ***Division of the text***
 
 ***Having considered the virtues, here the Master begins to consider the gifts.***
@@ -52,7 +54,7 @@ Article 1
 
 ***Whether the gifts are virtues***
 
-***To the first we proceed thus.Parallels: *ST* I-II.68.1; *Super Isaiam* 11; *Super Gal.* 5, lect. 6. It appears that the gifts are virtues.***
+To the first we proceed thus.Parallels: *ST* I-II.68.1; *Super Isaiam* 11; *Super Gal.* 5, lect. 6. It appears that the gifts are virtues.  
 
 Obj. 1: For Gregory says in the *Morals on the Book of Job*Gregory the Great, *Moralia in Iob*, bk. 1, para. 27, (CCSL 143; PL 75:544). that by Job’s seven sons are understood seven virtues—namely, wisdom, understanding, knowledge, counsel, and the rest. Now, these are called the seven gifts of the Holy Spirit. Therefore the gifts are virtues.  
 
@@ -114,7 +116,7 @@ Article 2
 
 ***Whether there should be more than seven gifts***
 
-***To the second we proceed as follows.Parallels: *ST* I-II.68.4; II-II.8.6; *Super Isaiam* 11. It seems that there should be more than seven gifts.***
+To the second we proceed as follows.Parallels: *ST* I-II.68.4; II-II.8.6; *Super Isaiam* 11. It seems that there should be more than seven gifts.  
 
 Obj. 1: For the gifts perfect one according to a mode higher than virtue. Therefore the individual gifts should correspond to the individual virtues. But among the theological virtues, only to faith do any of the gifts seem to correspond, namely, understanding and wisdom. Therefore it appears that there should be gifts that correspond to hope and love.  
 
@@ -176,7 +178,7 @@ Article 3
 
 ***Whether the gifts remain in heaven***
 
-***To the third we proceed thus.Parallel: *ST* II-II.68.6. It appears that the gifts do not remain in heaven.***
+To the third we proceed thus.Parallel: *ST* II-II.68.6. It appears that the gifts do not remain in heaven.  
 
 Obj. 1: For the gift of fortitude appears to be ordered against difficulties. But in heaven there will be no difficulties. Therefore the gift of fortitude will not be there.  
 
@@ -208,7 +210,7 @@ Article 4
 
 ***Whether the beatitudes correspond to the individual gifts***
 
-***To the fourth we proceed thus.Parallels: *ST* I-II.69.1; II-II.8.7; 9.4; 19.12; 52.4; 121.2; 139.2; *Super Isaiam* 11; *Super Matth*. 5. It appears that the beatitudes do not correspond to the individual gifts.***
+To the fourth we proceed thus.Parallels: *ST* I-II.69.1; II-II.8.7; 9.4; 19.12; 52.4; 121.2; 139.2; *Super Isaiam* 11; *Super Matth*. 5. It appears that the beatitudes do not correspond to the individual gifts.  
 
 Obj. 1: For as was said above, the individual gifts do not correspond to the individual virtues. But the beatitudes are virtues, as a Gloss says: *in the Lord’s sermon seven virtues are spoken of, and they are called 'beatitudes' because they make men perfect and good*. Therefore the beatitudes and gifts do not correspond to each other.  
 
@@ -260,7 +262,7 @@ Article 5
 
 ***Whether the fruits correspond to the gifts***
 
-***To the fifth we proceed thus.Parallels: *ST* I-II.70.3; II-II.8.8; *Super Gal.* 5, lect. 6. It appears that the fruits do not correspond to the gifts.***
+To the fifth we proceed thus.Parallels: *ST* I-II.70.3; II-II.8.8; *Super Gal.* 5, lect. 6. It appears that the fruits do not correspond to the gifts.  
 
 Obj. 1: For, as Ambrose says,Ambrose, *De spiritu sancto*, bk. 1, ch. 16, para. 158 (CSEL 79:82; PL 16:740). the virtues are called “fruits” because they refresh their possessors with a holy and sincere delight. But the virtues do not correspond to the gifts, but come before them. Therefore neither do the fruits.  
 
@@ -304,7 +306,7 @@ Article 6
 
 ***Whether the petitions [in the Lord’s Prayer] correspond to the gifts***
 
-***To the sixth we proceed thus.Parallels: *ST* II-II.83.9; *Compendium theol.*, part 2, ch. 4; *In orationem dominicam; Super Matth.* 6. It appears that the petitions do not correspond to the gifts.***
+To the sixth we proceed thus.Parallels: *ST* II-II.83.9; *Compendium theol.*, part 2, ch. 4; *In orationem dominicam; Super Matth.* 6. It appears that the petitions do not correspond to the gifts.  
 
 Obj. 1: For Augustine says in the *Enchiridion on Faith, Hope, and Charity*Augustine, *Enchiridion de fide, spe et caritate*, ch. 115, para. 30 (CCSL 46; PL 40:285) . that we beg for eternal things in the first three petitions, but for temporal things in the remaining four. But each of the gifts pertains to the present life, wherein we live in time, and to the future, wherein we attain eternity, as is clear from things said. Therefore the petitions do not correspond to the gifts.  
 
@@ -360,7 +362,7 @@ Reply Obj. 7: Because in the resurrection of the body we will be chiefly and tot
 
 Exposition of the text  
 
-****The spirit of wisdom and understanding . .* .*Sent.* III, 34.2(124).1, quoting Isaiah 11:2. The notion of the order is clear from what has been said before. However, the reason for the pairing is that two gifts are combined together when one of them directs the other, just as wisdom directs understanding, properly speaking, and counsel directs fortitude through a certain appropriation, since just as we need counsel chiefly in supererogatory activities, so too we need it in fortitude, and knowledge directs piety since both indicate what everyone is bound to do. However, fear, because it is a drawing back from evil, does not need anything of its own to direct it, as is clear from what has been said; yet, properly speaking, counsel and knowledge are directive in all three of the performative gifts.***
+*The spirit of wisdom and understanding . .* .*Sent.* III, 34.2(124).1, quoting Isaiah 11:2. The notion of the order is clear from what has been said before. However, the reason for the pairing is that two gifts are combined together when one of them directs the other, just as wisdom directs understanding, properly speaking, and counsel directs fortitude through a certain appropriation, since just as we need counsel chiefly in supererogatory activities, so too we need it in fortitude, and knowledge directs piety since both indicate what everyone is bound to do. However, fear, because it is a drawing back from evil, does not need anything of its own to direct it, as is clear from what has been said; yet, properly speaking, counsel and knowledge are directive in all three of the performative gifts.  
 
 *The spirit of fear*.*Sent*. III, 34.2(124).1, quoting Isaiah 11:3. This is said to have filled Christ in a special way, because, on account of its own imperfection, it seemed to be in him less. Therefore it filled him because he principally came to suffer, which was completed through his humility, which latter pertains to the gift of the fear of the Lord.  
 
@@ -368,7 +370,7 @@ Exposition of the text
 
 Prologue to the Second Part of the Distinction  
 
-***After having considered the gifts generally, here he considers the gift of fear, which holds a special difficulty, on account of its manifold senses.***
+After having considered the gifts generally, here he considers the gift of fear, which holds a special difficulty, on account of its manifold senses.  
 
 Now, this part is divided into two: first, he considers fear in general; second, he considers specifically Christ’s fear, at *but since there was in Christ fear of pain, it is asked whether this fear was worldly, or servile, or initial*.*Sent*. III, 34.9(131).1.  
 
@@ -404,7 +406,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus. It appears that Damascene unfittingly defines fear in saying, *fear is a desire that moves one to draw into oneself*.John Damascene, *On the Orthodox Faith*, bk. 3, ch. 23 (PG 94:1087); parallel: *ST* I-II.44.1.***
+To the first we proceed thus. It appears that Damascene unfittingly defines fear in saying, *fear is a desire that moves one to draw into oneself*.John Damascene, *On the Orthodox Faith*, bk. 3, ch. 23 (PG 94:1087); parallel: *ST* I-II.44.1.  
 
 Obj. 1: For desire pertains to the concupiscible part of the soul, but fear is in the irascible part. Therefore fear is not a desire.  
 
@@ -416,7 +418,7 @@ Obj. 4: Furthermore, to draw into oneself is to contract. But since contraction 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the Master distinguishes the parts of fear badly here.Parallels: *ST* II-II.19.2; *Super Rom*. 8, lect. 3. For according to the Philosopher,Aristotle, *Topics* 1.15, 107a34. if one member of a pair of opposites is spoken of in many ways, so is the other. But fear and hope are opposites. Therefore, since hope is not spoken of in many ways, neither should fear be so distinguished.***
+Obj. 1: Moreover, it appears that the Master distinguishes the parts of fear badly here.Parallels: *ST* II-II.19.2; *Super Rom*. 8, lect. 3. For according to the Philosopher,Aristotle, *Topics* 1.15, 107a34. if one member of a pair of opposites is spoken of in many ways, so is the other. But fear and hope are opposites. Therefore, since hope is not spoken of in many ways, neither should fear be so distinguished.  
 
 Obj. 2: Furthermore, emotions and acts and habits are distinguished in reference to their objects. But the object of worldly fear, servile fear, and initial fear is the same thing: punishment. Therefore it appears that they should not be distinguished from each other.  
 
@@ -430,7 +432,7 @@ Furthermore (6), Damascene, in *Orthodox Faith* 2,John Damascene, *On the Orthod
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that fear should not be counted among the gifts.Parallels: below, 2nd exposition of the text; *ST* II-II.19.3, 9; *Super Rom*. 8, lect. 3. For fear is one of the four principal emotions. But none of the others is asserted to be a gift; in fact, hope is asserted to be a virtue, and joy a fruit, and pain is asserted to be a part of penitence, namely, contrition. Therefore in the same way fear should not be listed as a gift.***
+Obj. 1: Moreover, it appears that fear should not be counted among the gifts.Parallels: below, 2nd exposition of the text; *ST* II-II.19.3, 9; *Super Rom*. 8, lect. 3. For fear is one of the four principal emotions. But none of the others is asserted to be a gift; in fact, hope is asserted to be a virtue, and joy a fruit, and pain is asserted to be a part of penitence, namely, contrition. Therefore in the same way fear should not be listed as a gift.  
 
 Obj. 2: Furthermore, the gifts are given to us as aids against human weakness. But fear itself indicates weakness. Therefore it should not be said to be a gift.  
 
@@ -442,7 +444,7 @@ Furthermore, the principle of salvation is not from us, but is a gift of God, as
 
 Response to Quaestiuncula 1  
 
-***I answer that the definition given by Damascene befits every fear. But because the names of the emotions are extended from emotions of the sensitive part [of the soul] to the activities of the superior part, as has been said above, therefore let us see first how the definition stated belongs to the fear that is an emotion of the sensitive part.***
+I answer that the definition given by Damascene befits every fear. But because the names of the emotions are extended from emotions of the sensitive part [of the soul] to the activities of the superior part, as has been said above, therefore let us see first how the definition stated belongs to the fear that is an emotion of the sensitive part.  
 
 Now, every emotion pertains to the sensitive part, but among them there is a difference, according to Avicenna,Avicenna, *De naturalibus*, bk. 6, ch. 7. because the dispositions of the heart in some emotions are in a sense active, but in others they are in a sense passive. But an active disposition of the heart occurs either in virtue of a perfection of the heart in itself, such as the fullness and dilation of the heart—which occurs in joy—or also in virtue of a perfection of the heart relative to doing, suffering, or obtaining something—as is the fortitude of the heart that is required in daring and hope. However, a passive disposition of the heart is the opposite of this, either in virtue of a defect of the heart in itself, which is called its “restriction”—which is required in grief—or according to its defect in its relation toward doing something, which is called “weakness of heart”—which is required in fear and desperation. Now, “compression” signifies a thing’s motion arising from another due to which it is withdrawn into itself, where it is in a way drawn together; and therefore it indicates a disposition of the heart that is a weakness, through which it falls short of certain things due to something else, and stays within its very self.  
 
@@ -458,7 +460,7 @@ Reply Obj. 4: In spiritual things there is a contraction by way of likeness, as 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that fear is here being distinguished according to the order of fear relative to God, whom one approaches or is distant through one fear more than through another. For since fear consists in a flight from evil, and evil is either a punishment or a fault, there will be a fear that consists in the flight from the evil of fault alone, through which a man is separated from God—and this is chaste, or filial fear—but another that consists in the flight from the evil of punishment.***
+To the second question, it should be said that fear is here being distinguished according to the order of fear relative to God, whom one approaches or is distant through one fear more than through another. For since fear consists in a flight from evil, and evil is either a punishment or a fault, there will be a fear that consists in the flight from the evil of fault alone, through which a man is separated from God—and this is chaste, or filial fear—but another that consists in the flight from the evil of punishment.  
 
 Now, punishment is of two sorts. One punishment someone might sometimes commit a sin to avoid, such as temporal punishments; and worldly, or human fear flees this punishment. The other someone never sins in trying to avoid; rather, in it sin itself is being avoided, such as the punishment that will be after this life. And servile fear flees this.  
 
@@ -478,7 +480,7 @@ Reply Sed Contra 6: Those parts of fear are assigned in reference to their objec
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that worldly and human fear, since they are disordered, cannot be gifts of the Holy Spirit. Rather, they are either emotions, or choices resembling emotions, or even habits, insofar as habits are named by the name of their activities or emotions. Likewise also servile fear does not reach the perfection of the gift, just as neither does unformed faith reach the perfect notion of the virtue. For, according to the Philosopher,Aristotle, *Nicomachean Ethics* 3.8, 1116a28; 4.9, 1128b28. in every virtue this is common: the virtuous man acts for the sake of the good, or for the sake of avoiding the base. Now, servile fear does the good but not for the sake of fleeing the base, but for the sake of fleeing grief. Whence it falls short of the perfection of virtue, and much more from the perfection of a gift, which is more perfect than a virtue.***
+To the third question, it should be said that worldly and human fear, since they are disordered, cannot be gifts of the Holy Spirit. Rather, they are either emotions, or choices resembling emotions, or even habits, insofar as habits are named by the name of their activities or emotions. Likewise also servile fear does not reach the perfection of the gift, just as neither does unformed faith reach the perfect notion of the virtue. For, according to the Philosopher,Aristotle, *Nicomachean Ethics* 3.8, 1116a28; 4.9, 1128b28. in every virtue this is common: the virtuous man acts for the sake of the good, or for the sake of avoiding the base. Now, servile fear does the good but not for the sake of fleeing the base, but for the sake of fleeing grief. Whence it falls short of the perfection of virtue, and much more from the perfection of a gift, which is more perfect than a virtue.  
 
 However, chaste fear, and initial fear insofar as it participates in chaste fear, has the notion of the gift—the notion of which is that it measures its acts by a higher measure than is human. For the measure of human deeds is the good of reason. Whence the virtuous man abstains from evils, fleeing and fearing what is unsuitable to reason, which is the base, and this fear is connected to every virtue. But the fear that is the gift makes one abstain from evils for the sake of fleeing the unsuitability of separation from God; this is why it has God as the measure of its activity. And because the mode is caused by the measure, therefore it works above the human mode, and on account of this it is a gift.  
 
@@ -494,7 +496,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* II-II.19.4; *Super Rom*. 8, lect. 3. It seems that servile fear is not from the Holy Spirit.***
+To the second we proceed as follows.Parallels: *ST* II-II.19.4; *Super Rom*. 8, lect. 3. It seems that servile fear is not from the Holy Spirit.  
 
 Obj. 1: For whatever is from the Holy Spirit can be together with him. But servile fear is not possessed together with the Holy Spirit, since he is not had without charity, with which there is no servile fear. Therefore servile fear is not from the Holy Spirit.  
 
@@ -508,7 +510,7 @@ Furthermore, it is not smaller thing to fear God than to believe him. But even u
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that it is not good to make use of servile fear.Parallels: *ST* II-II.19.4; *Super Rom*. 8, lect. 3. For a good use is that by which a good thing is done, and done well. But according to Augustine on Rom 8:15, *you did not receive the spirit of slavery*,Although formerly attributed to Augustine, now attributed to Prosper of Aquitane, *Liber Sententiarum*, bk. 1, ch. 173 (CCSL 68A; PL 45:1873). when one has servile fear, even if one does something good, still it is not done well. Therefore making use of it is bad.***
+Obj. 1: Moreover, it appears that it is not good to make use of servile fear.Parallels: *ST* II-II.19.4; *Super Rom*. 8, lect. 3. For a good use is that by which a good thing is done, and done well. But according to Augustine on Rom 8:15, *you did not receive the spirit of slavery*,Although formerly attributed to Augustine, now attributed to Prosper of Aquitane, *Liber Sententiarum*, bk. 1, ch. 173 (CCSL 68A; PL 45:1873). when one has servile fear, even if one does something good, still it is not done well. Therefore making use of it is bad.  
 
 Obj. 2: Every act of fear comes from a love. But the act of servile fear does not come from a love of charity. Therefore it comes from a licentious love, so it is bad.  
 
@@ -520,7 +522,7 @@ Furthermore, using servile fear is abstaining from sin and leads one to wisdom. 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that servile fear is not taken away upon the arrival of charity.Parallels: *ST* II-II.19.6; 19.8.ad 2, ad 10; *De veritate*, q. 14, a. 7, ad 2; q. 28, a. 4, ad 3. For servile fear arises from an unformed faith. But unformed faith remains according to the habit’s substance, and is formed by the charity that comes to it. Therefore fear too is not expelled at the arrival of charity.***
+Obj. 1: Moreover, it appears that servile fear is not taken away upon the arrival of charity.Parallels: *ST* II-II.19.6; 19.8.ad 2, ad 10; *De veritate*, q. 14, a. 7, ad 2; q. 28, a. 4, ad 3. For servile fear arises from an unformed faith. But unformed faith remains according to the habit’s substance, and is formed by the charity that comes to it. Therefore fear too is not expelled at the arrival of charity.  
 
 Obj. 2: Furthermore, only sin is taken away upon the arrival of charity, and what is introduced by sin. Now, servile fear is not such a thing, since it is from God. Therefore it is not expelled on the arrival of charity.  
 
@@ -534,7 +536,7 @@ Furthermore, no one principally fearing punishment has charity. But whoever has 
 
 Response to Quaestiuncula 1  
 
-***I answer that, according to the Philosopher in the *Metaphysics* 1,Aristotle, *Metaphysics* 1.2, 982b26; Aquinas, *In Metaph.,* bk. 1, lect. 3, n. 58. the free man is he who is for his own sake, whereas the servant should be understood in the contrary way, as he who is for the sake of another, and not his own. Now, we are for the sake of the things that pertain to us through our will. Whence someone is said to do something freely which he does with a spontaneous will, whereas that which he lacks the will to do he does in a servile way; moreover, he does it as coerced by the violence of another or by fear, and therefore he does it with grief, since every coercion is against one’s will, and sad, as is said in the *Metaphysics* 5.Aristotle, *Metaphysics* 5.5, 1015a28.***
+I answer that, according to the Philosopher in the *Metaphysics* 1,Aristotle, *Metaphysics* 1.2, 982b26; Aquinas, *In Metaph.,* bk. 1, lect. 3, n. 58. the free man is he who is for his own sake, whereas the servant should be understood in the contrary way, as he who is for the sake of another, and not his own. Now, we are for the sake of the things that pertain to us through our will. Whence someone is said to do something freely which he does with a spontaneous will, whereas that which he lacks the will to do he does in a servile way; moreover, he does it as coerced by the violence of another or by fear, and therefore he does it with grief, since every coercion is against one’s will, and sad, as is said in the *Metaphysics* 5.Aristotle, *Metaphysics* 5.5, 1015a28.  
 
 And in virtue of this, someone is said to do something from a “free spirit” because he does it with delight, with his will being well-pleased, but he does it with a servile fear if he does it while coerced by a fear of punishment, and consequently with grief. For he would prefer not to do it, had he not been made afraid by the penalty. Therefore it is clear that servility follows on fear insofar as it inclines one toward doing something or setting it aside.  
 
@@ -548,7 +550,7 @@ Reply Obj. 3: Gregory is speaking about fear by reason of its servility, that is
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that whatever belongs to the substance of a habit must shine forth in its act, insofar as the sorts of habit they are make the acts be the sort of thing they are, as is said in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.1, 1103b21. Now, it is not necessary that everything incidental to some habit is always manifested in its act—just as having something repugnant to charity is accidental to unformed faith, yet it is not necessary that something repugnant to charity is always found in its act.***
+To the second question, it should be said that whatever belongs to the substance of a habit must shine forth in its act, insofar as the sorts of habit they are make the acts be the sort of thing they are, as is said in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.1, 1103b21. Now, it is not necessary that everything incidental to some habit is always manifested in its act—just as having something repugnant to charity is accidental to unformed faith, yet it is not necessary that something repugnant to charity is always found in its act.  
 
 Therefore, since servility is incidental to the habit of fear, due to the subject’s imperfection, as is clear from things said, it is not necessary that its act always have in itself the conditions of servility. Rather, the act will possess goodness in proportion to the substance of its habit—that is, not a meritorious goodness, just as the habit does not possess a gratuitous goodness. And because the habit does not have the perfect notion of goodness, therefore the lack of any appropriate goodness, or any disorder, in the act is not repugnant to the substance of the habit, whereas every disordered act is repugnant to the habit of a virtue, which possesses perfect goodness. And on account of this, the use of a virtue is always good, but the use of a sin is always bad—whereas an act of servile fear can be both good and bad.  
 
@@ -560,7 +562,7 @@ Reply Obj. 3: Fearing in a servile way is not always an act of servile fear, as 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that servile fear remains upon the arrival of charity as regards is substance, but not as regards its servility. For it is certain that a man who possesses charity fears eternal punishments, which were its proper object as regards the substance of the habit. For that he fears this more than anything else is not by reason of the habit, but by reason of its servility.***
+To the third question, it should be said that servile fear remains upon the arrival of charity as regards is substance, but not as regards its servility. For it is certain that a man who possesses charity fears eternal punishments, which were its proper object as regards the substance of the habit. For that he fears this more than anything else is not by reason of the habit, but by reason of its servility.  
 
 Reply Obj. 1–3, Sed Contra: And through this, the solution to each part of the arguments is clear.  
 
@@ -570,7 +572,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallel: *ST* II-II.19.5. It appears that chaste fear is the same in substance as servile fear.***
+To the third we proceed thus.Parallel: *ST* II-II.19.5. It appears that chaste fear is the same in substance as servile fear.  
 
 Obj. 1: For servile fear stands to unformed faith just as chaste fear stands to formed faith. Therefore, alternately, unformed faith stands to formed faith just as servile fear stands to chaste fear. But formed faith is the same in substance as unformed faith. Therefore so is chaste fear the same in substance as servile fear.  
 
@@ -584,7 +586,7 @@ Furthermore, habits are divided through their acts and objects. But the dishonor
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that initial fear differs in substance from chaste fear.Parallel: *ST* II-II.19.8. For initial fear includes servile fear, since it fears punishment. But servile fear, according to the habit’s substance, differs from chaste fear. Therefore so too does initial fear.***
+Obj. 1: Moreover, it appears that initial fear differs in substance from chaste fear.Parallel: *ST* II-II.19.8. For initial fear includes servile fear, since it fears punishment. But servile fear, according to the habit’s substance, differs from chaste fear. Therefore so too does initial fear.  
 
 Obj. 2: Furthermore, the same thing is not divided against its very self. But chaste fear is divided against initial fear in the text.*Sent*. III, 34.4(126).1. Therefore they are not the same in substance.  
 
@@ -596,7 +598,7 @@ Furthermore, habits are distinguished through their acts and objects. But the ob
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that chaste fear diminishes as charity increases.Parallel: *ST* II-II.19.10. For initial fear and chaste fear are the same in substance, as has been shown. But initial fear diminishes as charity increases, as is said in the text.*Sent*. III, 34.4(126).1. Therefore so does chaste fear.***
+Obj. 1: Moreover, it appears that chaste fear diminishes as charity increases.Parallel: *ST* II-II.19.10. For initial fear and chaste fear are the same in substance, as has been shown. But initial fear diminishes as charity increases, as is said in the text.*Sent*. III, 34.4(126).1. Therefore so does chaste fear.  
 
 Obj. 2: Furthermore, every fear has a punishment, as is said in 1 John 4:18. But perfect charity has no punishment. Therefore insofar as charity grows so does every fear decrease.  
 
@@ -608,7 +610,7 @@ Furthermore, love is the cause of fear. But when the cause increases, the effect
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it appears that fear is emptied out at the coming of glory.Parallels: *ST* I-II.67.4.ad 2; II-II.19.11; *De spe*, a. 4, ad 2. For the reason for fearing is the possibility of an evil. But with those who are in glory, there is no possibility of evil, which is fear’s object. Therefore there will be no fear there.***
+Obj. 1: Moreover, it appears that fear is emptied out at the coming of glory.Parallels: *ST* I-II.67.4.ad 2; II-II.19.11; *De spe*, a. 4, ad 2. For the reason for fearing is the possibility of an evil. But with those who are in glory, there is no possibility of evil, which is fear’s object. Therefore there will be no fear there.  
 
 Obj. 2: Furthermore, hope appears to be more perfect than fear, since hope is perfected through the fortitude of the heart, whereas fear occurs through a weakness of it, as was said. But hope does not remain in heaven. Therefore much less does fear.  
 
@@ -620,7 +622,7 @@ Furthermore, fear is owed to the highest majesty: *if I am a master, where is my
 
 Response to Quaestiuncula 1  
 
-***I answer that, evil is of two sorts: one that consists in the will of the one it is in, which is called the “evil of fault,” and the other that is an evil against the will of the one it is in, which is called the “evil of punishment.”***
+I answer that, evil is of two sorts: one that consists in the will of the one it is in, which is called the “evil of fault,” and the other that is an evil against the will of the one it is in, which is called the “evil of punishment.”  
 
 Now, someone abhors the evil of fault either because it deviates from the rectitude of reason—and in this way this is fear of its dishonorable contrary, a fear implanted in every virtue—or because it causes one to deviate from God himself—and in this way it pertains to the gift of fear. However, an abhorrence of deviation from any rule is due to a love for that rule. Whence the fear that is the gift is caused by the love of God, and therefore it is called “friendly fear” or “filial fear,” inasmuch as God is said to be our Father, or it is even called “chaste fear” insofar as God is metaphorically said to be the Spouse of our souls.  
 
@@ -634,7 +636,7 @@ Reply Obj. 3: Whatever is the reason for another thing, as formally completing t
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in all of the fears spoken about one should consider two acts, one the principal act, which a fear elicits—namely, flight from this or that evil—and the other the secondary act, which is what a fear commands—namely, to do or refrain from doing this or that for the sake of the flight from that evil that one fears.***
+To the second question, it should be said that in all of the fears spoken about one should consider two acts, one the principal act, which a fear elicits—namely, flight from this or that evil—and the other the secondary act, which is what a fear commands—namely, to do or refrain from doing this or that for the sake of the flight from that evil that one fears.  
 
 Therefore initial fear, in reference to the first act, does not differ from chaste fear, since to fear eternal punishments is not the act of initial fear; rather, it comes with that act, as does chaste fear as well. But the act of initial fear is to fear the separation [from God], as is also that of chaste fear, although not as perfectly. But in its second act, chaste fear differs from initial fear. For initial fear commands some act or refraining from some act for the sake of [flight] not only from the separation, but also from the punishment, which does not occur in chaste fear, which has its eye only on the separation.  
 
@@ -648,7 +650,7 @@ Reply Obj. 3: Servile fear differs from initial fear in its object, and conseque
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in these fears there are two acts, as was said.***
+To the third question, it should be said that in these fears there are two acts, as was said.  
 
 Therefore if we are speaking of the elicited act, then one should speak in one way of servile fear and in another of initial and chaste fear. For the act elicited by initial and chaste fears is the fearing of separation, for which two things are required: one on the part of the subject, which belongs to an imperfection—namely, the possibility of separation, since one does not fear the impossible—and the other on the part of the object, namely, the love of that from which one fears to be separated; for one does not care whether he is separated from what he does not love. And this belongs to its perfection.  
 
@@ -662,7 +664,7 @@ To the third, the solution is clear from what was said in the body.
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that fear, properly speaking, has evil for its object—but not every evil, but the evil that consists in being arduous; otherwise it would not be in the irascible [part of the soul]. Now, we do not fear an evil that can be easily overcome or avoided; rather, we only hate it. But the evil of separation from God consists in the most arduous thing there is; whence, when the possibility for this evil is taken away, [only] man’s relation to God as arduous will still remain. And therefore fear is taken away as regards the act that is the fearing of separation, but it will remain as regards the act that is being in awe of and revering him as arduous; and this latter occurs when a man shrinks into his own smallness from a consideration of so great a height.***
+To the fourth question, it should be said that fear, properly speaking, has evil for its object—but not every evil, but the evil that consists in being arduous; otherwise it would not be in the irascible [part of the soul]. Now, we do not fear an evil that can be easily overcome or avoided; rather, we only hate it. But the evil of separation from God consists in the most arduous thing there is; whence, when the possibility for this evil is taken away, [only] man’s relation to God as arduous will still remain. And therefore fear is taken away as regards the act that is the fearing of separation, but it will remain as regards the act that is being in awe of and revering him as arduous; and this latter occurs when a man shrinks into his own smallness from a consideration of so great a height.  
 
 Reply Obj. 1: And through this, the reply to the first objection is clear.  
 
@@ -686,7 +688,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallel: *ST* II-II.139.1. It appears that the fortitude that is a gift does not differ from the fortitude that is a virtue.***
+To the first we proceed thus.Parallel: *ST* II-II.139.1. It appears that the fortitude that is a gift does not differ from the fortitude that is a virtue.  
 
 Obj. 1: For according to Dionysius, in the *Celestial Hierarchy*,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 1 (PG 3:206). we must receive the properties of spiritual things from their names. But the habits of the virtue and the gift agree in the name “fortitude.” Therefore they share in their property, and thus they appear to be the same in reality.  
 
@@ -700,7 +702,7 @@ Furthermore, in the *Book on the Spirit and the Soul**Liber de spiritu et anima*
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it is asked what is its act on the path of this life. And it appears that it does not have a unified act. For, as is commonly said, fortitude is performed in things that not all men are bound toward, and where counsel gives direction, as are the deeds of supererogation. But this cannot be traced back to one species of act, since deeds of this sort are found in nearly all the virtues. Therefore fortitude does not have an act that is one in species.***
+Obj. 1: Moreover, it is asked what is its act on the path of this life. And it appears that it does not have a unified act. For, as is commonly said, fortitude is performed in things that not all men are bound toward, and where counsel gives direction, as are the deeds of supererogation. But this cannot be traced back to one species of act, since deeds of this sort are found in nearly all the virtues. Therefore fortitude does not have an act that is one in species.  
 
 Obj. 2: Furthermore, Gregory sayssource that the spirit of fortitude is to shine in miracles and teaching. But these two are diverse genera, both relative to each other, and relative to the different acts that are assigned to the gift of fortitude. Therefore the same as before.  
 
@@ -712,7 +714,7 @@ Furthermore, a gift is simpler than a virtue, since it is more sublime. But fort
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, one asks about the act of fortitude in heaven. And it appears that it has no act there. For what pertains to being filled up, in reference to the state of glory, is placed in the fourth beatitude. But this does not signify any act. Therefore, since the fourth beatitude is adapted to the gift of fortitude, it appears that it does not have any act in heaven.***
+Obj. 1: Moreover, one asks about the act of fortitude in heaven. And it appears that it has no act there. For what pertains to being filled up, in reference to the state of glory, is placed in the fourth beatitude. But this does not signify any act. Therefore, since the fourth beatitude is adapted to the gift of fortitude, it appears that it does not have any act in heaven.  
 
 Obj. 2: Furthermore, to endure difficulties appears to be proper to fortitude. But in heaven every difficulty is taken away, otherwise the highest delight would not be found there. Therefore no act of fortitude will be found there.  
 
@@ -724,7 +726,7 @@ Furthermore, a habit without its act is like sleeping, according to the Philosop
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the gifts differ from the virtues, as was said, insofar as the gifts operate in a higher mode. And one should take the difference between the gift of fortitude and the virtue of fortitude in reference to this. Now, the mode of each thing is established by its proper measure, as was said before.***
+To the first question, I answer that the gifts differ from the virtues, as was said, insofar as the gifts operate in a higher mode. And one should take the difference between the gift of fortitude and the virtue of fortitude in reference to this. Now, the mode of each thing is established by its proper measure, as was said before.  
 
 Whence one should note that the virtue of fortitude has human strength as the measure of its acts; this is why things that go beyond a man’s strength he neither attempts nor endures. Whence the Philosopher in the *Ethics* 3Aristotle, *Nicomachean Ethics* 3.7, 1115b11. says that man of fortitude is as dauntless as a man can be in such things, namely, things that are terrible in reference to man. But the gift of fortitude has as the measure of its own acts the divine power, in whose help it confides, as is said in Psalm 18:29, *by my God I can leap over a wall,* that is, all things that can be an obstacle to human weakness.  
 
@@ -736,7 +738,7 @@ Reply Obj. 3: The virtue of fortitude is about the difficulties according to its
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that to the degree that a power is higher, it extends to more things. And because human capacity is weak relative to the divine capacity, therefore diverse human capacities are ordered to diverse difficulties, and sometimes they are separate from each other. For one man has the capacity for being able to overcome easily the difficulties found in delights, who nonetheless cannot easily overcome the difficulties found in suffering assaults, and so on for other things. But the divine capacity is one and the same with respect to all of the described difficulties.***
+To the second question, it should be said that to the degree that a power is higher, it extends to more things. And because human capacity is weak relative to the divine capacity, therefore diverse human capacities are ordered to diverse difficulties, and sometimes they are separate from each other. For one man has the capacity for being able to overcome easily the difficulties found in delights, who nonetheless cannot easily overcome the difficulties found in suffering assaults, and so on for other things. But the divine capacity is one and the same with respect to all of the described difficulties.  
 
 And therefore, because the virtue of fortitude rests upon a human capacity, it is not related to all difficulties, but only to those that are the greatest in the genus of human affairs. This is why it has the name “fortitude” or “strength” in a more excellent way, whereas other virtues, which are also certain capacities, are ordered to the other difficulties. But the gift of fortitude uses the divine will as its own, as Psalm 18:1 says: *I love thee, O Lord, my strength*. And therefore the one gift of fortitude extends to all the difficulties that can occur in human affairs, even those above human capacity, as the Apostle said to the Philippians: *I can do all things in him who strengthens me* (Phil 4:13). And therefore one must take the act of fortitude as regarding all difficulties, analogous with the act of the virtue of fortitude as regarding certain difficulties.  
 
@@ -752,7 +754,7 @@ Reply Obj. 3: Although they pertain to diverse virtues, they can nonetheless per
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that whoever acts according to a measure must have some act according to which he looks to that measure, and some act according to which he looks to what is measured by it. Whence, since fortitude measures its act concerning difficulties by the divine power, it has one act in relation to the difficulties that it endures or confronts, and another act in its comparison to the divine power, on which it leans. And the first act will not exist in heaven, where there will be no difficulty, whereas the second will be there, since one will lean most perfectly on the divine power.***
+To the third question, it should be said that whoever acts according to a measure must have some act according to which he looks to that measure, and some act according to which he looks to what is measured by it. Whence, since fortitude measures its act concerning difficulties by the divine power, it has one act in relation to the difficulties that it endures or confronts, and another act in its comparison to the divine power, on which it leans. And the first act will not exist in heaven, where there will be no difficulty, whereas the second will be there, since one will lean most perfectly on the divine power.  
 
 Reply Obj. 1: Even in bodily things “fullness” does not name any act, yet it does presuppose one, namely, the eating of food. And thus this fullness that is placed here, which is the filling up with all things, from the lack of which a difficulty was possible, presupposes a certain spiritual food. In virtue of such food, a man takes in the good described from the divine power itself, being supported by it.  
 
@@ -766,7 +768,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallel: *ST* II-II.121.1. It seems that piety is not a gift.***
+To the second we proceed as follows.Parallel: *ST* II-II.121.1. It seems that piety is not a gift.  
 
 Obj. 1: For a gift more immediately orders one to God than does a virtue. But the piety that is a virtue immediately orders one to God, since, according to Augustine in the *City of God*,Augustine, *The City of God*, bk. 10, ch. 1 (CCSL 47; PL 41:279). piety is customarily understood as properly the devotion to God, which the Greeks call “theosebia.” Therefore piety is not a gift, since it does not join one to God more immediately than does the virtue of piety.  
 
@@ -780,7 +782,7 @@ Furthermore, piety appears to be the most excellent thing in the entire Christia
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, one asks about the act that piety has in this life. And it appears that it does not have an act that is one in species. For Augustine says in *On Christian Doctrine*Augustine, *On Christian Doctrine*, bk. 2, ch. 7 (CCSL 32; PL 34:39). that it belongs to piety to honor the saints, [and] not to contradict the Scriptures, whether understood or not. And here he is speaking of the gift of piety; this is clear from the things he says in a sermon on the Trinity,source wherein he attributes this same act to the piety according to which one ascends to the second place among the gifts. However, Gregory assigns being steadfast in works of mercy as its action. Therefore, because these two actions do not trace back to the same genus, it appears that the acts of piety are not the same in species.***
+Obj. 1: Moreover, one asks about the act that piety has in this life. And it appears that it does not have an act that is one in species. For Augustine says in *On Christian Doctrine*Augustine, *On Christian Doctrine*, bk. 2, ch. 7 (CCSL 32; PL 34:39). that it belongs to piety to honor the saints, [and] not to contradict the Scriptures, whether understood or not. And here he is speaking of the gift of piety; this is clear from the things he says in a sermon on the Trinity,source wherein he attributes this same act to the piety according to which one ascends to the second place among the gifts. However, Gregory assigns being steadfast in works of mercy as its action. Therefore, because these two actions do not trace back to the same genus, it appears that the acts of piety are not the same in species.  
 
 Obj. 2: Furthermore, as is commonly said, what knowledge directs one toward, piety performs. But knowledge directs all human acts, since it teaches one how to interact without giving offense in the midst of a depraved and perverse nation. Therefore piety too is concerned with all human acts, and thus it does not have an act that is of only one species.  
 
@@ -790,7 +792,7 @@ On the contrary, it is one habit, so it has one principal act.
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, one asks about its act in heaven. And it appears there it has no act there. For piety consists in interactions that occur relative to others. But such interactions will not occur in heaven, since there all will receive fullness from God; for interactions among us are introduced because each of us is insufficient by himself, as is clear from the Philosopher in the *Ethics* 5.Aristotle, *Nicomachean Ethics* 5.6, 1134a27. Therefore the act of piety will not occur there.***
+Obj. 1: Moreover, one asks about its act in heaven. And it appears there it has no act there. For piety consists in interactions that occur relative to others. But such interactions will not occur in heaven, since there all will receive fullness from God; for interactions among us are introduced because each of us is insufficient by himself, as is clear from the Philosopher in the *Ethics* 5.Aristotle, *Nicomachean Ethics* 5.6, 1134a27. Therefore the act of piety will not occur there.  
 
 Obj. 2: Furthermore, it pertains to piety to perform works of mercy, as was said in the authority of Gregory.See qa. 1, obj. 2. But works of mercy will not be present where there will be no misery. Therefore no act of piety will be present in heaven.  
 
@@ -802,7 +804,7 @@ Furthermore, in heaven there will be nothing idle and pointless. But a habit wou
 
 Response to Quaestiuncula 1  
 
-***I answer that the entire matter of morality is divided into three parts: namely, things that are delightful, which one’s carnal affection seeks; things that are difficult, which it flees; and things that can be shared, which are related to others, which consist more in action than in being acted upon. Therefore both a gift and a virtue direct one in each of these things, but in different ways. For a virtue gives direction in them while receiving something human as its rule, whereas a gift does so while receiving as its rule something divine. Therefore in delights we are directed by virtue as by the dignity of our human nature, whose disturbance through temporal delights we flee; but we are directed by a gift as by its rule the divine dignity itself, the separation from which, due to the pollution of goods of this sort, we flee. This pertains to [the gift of] fear. Similarly, it is clear from the things said,Above, d. 34, q. 3, a. 1, resp. 1. that the gift of fortitude directs us in a different way than do the virtues, which are ordered to enduring or confronting difficulties. Something similar happens in interactions towards others, since the virtues give direction in these things, taking for their measure something human, such as the observance of what is becoming, or the obligation of one who is involved in the interactions. On the other hand, the gift in these things receives as its rule God himself, as was said, such that in fortitude a man confronts difficult matters with the aid of the divine power, through a confidence in it as though it were his own; in this way one interacts with another treating God as if he were himself—namely, such that the things that are becoming in these interactions he performs as if he were united to God. Whence in Matthew 5:45 the Lord praises the beneficence of the heavenly Father, who makes his sun rise on both the good and the evil. And because the interaction relative to divine things has the name “piety,” this is also why the gift that holds the divine measure in its interactions is named “piety.”***
+I answer that the entire matter of morality is divided into three parts: namely, things that are delightful, which one’s carnal affection seeks; things that are difficult, which it flees; and things that can be shared, which are related to others, which consist more in action than in being acted upon. Therefore both a gift and a virtue direct one in each of these things, but in different ways. For a virtue gives direction in them while receiving something human as its rule, whereas a gift does so while receiving as its rule something divine. Therefore in delights we are directed by virtue as by the dignity of our human nature, whose disturbance through temporal delights we flee; but we are directed by a gift as by its rule the divine dignity itself, the separation from which, due to the pollution of goods of this sort, we flee. This pertains to [the gift of] fear. Similarly, it is clear from the things said,Above, d. 34, q. 3, a. 1, resp. 1. that the gift of fortitude directs us in a different way than do the virtues, which are ordered to enduring or confronting difficulties. Something similar happens in interactions towards others, since the virtues give direction in these things, taking for their measure something human, such as the observance of what is becoming, or the obligation of one who is involved in the interactions. On the other hand, the gift in these things receives as its rule God himself, as was said, such that in fortitude a man confronts difficult matters with the aid of the divine power, through a confidence in it as though it were his own; in this way one interacts with another treating God as if he were himself—namely, such that the things that are becoming in these interactions he performs as if he were united to God. Whence in Matthew 5:45 the Lord praises the beneficence of the heavenly Father, who makes his sun rise on both the good and the evil. And because the interaction relative to divine things has the name “piety,” this is also why the gift that holds the divine measure in its interactions is named “piety.”  
 
 Reply Obj. 1: The gift orders one more immediately to God in its mode of acting, or the measure of its act, than does the virtue—but not as regards its object or end. Therefore although piety the virtue, which is called “latria,” is shown to God himself, still in this it receives something human as its measure—that is, a benefit received from God, by reason of which one is in debt to him. But the piety that is the gift receives therein something divine as its measure—that is, that he honors God not because he is in debt to him, but because God is worthy of honor, in the way that God himself is to be honored even by himself.  
 
@@ -812,7 +814,7 @@ Reply Obj. 3: Even in parents there is something of the divine, relative to one�
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that piety the gift in one and the same way gives direction in all interactions relative to others, yet it receives a difference measure than the virtues. Therefore by this measure, because it is one and simple, piety is one habit; and from its relation to this measure its every act is specified.***
+To the second question, it should be said that piety the gift in one and the same way gives direction in all interactions relative to others, yet it receives a difference measure than the virtues. Therefore by this measure, because it is one and simple, piety is one habit; and from its relation to this measure its every act is specified.  
 
 Reply Obj. 1: The gift of piety is active in both the matter of latria and the matter of mercy, although in a mode that is different from their own. And therefore it is not unfitting if those two pertain to piety, for to show reverence to Sacred Scripture and other divine things appears to pertain to latria.  
 
@@ -822,7 +824,7 @@ Reply Obj. 3: Anger also disturbs a man in his very self, and moves him against 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that more of the act of piety can remain in heaven than can remain of the act of fortitude. For not only can its act in its relation to the measure that piety the gift follows remain—namely, the adhering to God himself—but so can its act in relation to those to whom one was disposed, in his affect, to offer benefits. Namely, one would remain good-willed to them, and would rejoice with them about their goods, and would even bestow them, according to the mode of this life, from what is one’s own; insofar as superiors pour something into their inferiors, according to the teaching of Dionysius.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 8, para. 1 (PG 3:238).***
+To the third question, it should be said that more of the act of piety can remain in heaven than can remain of the act of fortitude. For not only can its act in its relation to the measure that piety the gift follows remain—namely, the adhering to God himself—but so can its act in relation to those to whom one was disposed, in his affect, to offer benefits. Namely, one would remain good-willed to them, and would rejoice with them about their goods, and would even bestow them, according to the mode of this life, from what is one’s own; insofar as superiors pour something into their inferiors, according to the teaching of Dionysius.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 8, para. 1 (PG 3:238).  
 
 Reply Obj. 1: There will be no interaction as regards supplying for someone’s needs, but there will be as regards augmenting one’s joy.  
 
@@ -832,7 +834,7 @@ Reply Obj. 3: The possession of the earth presupposes drawing one’s fullness f
 
 Exposition of the text  
 
-****This fear is an evil one*.*Sent.* III, 34.4(126).1. For not just whenever danger to one’s flesh is feared is it called “human fear,” nor whenever losing a temporal good is feared is it called “worldly fear,” but only when such fear is inordinate. And therefore this always rings of something evil.***
+*This fear is an evil one*.*Sent.* III, 34.4(126).1. For not just whenever danger to one’s flesh is feared is it called “human fear,” nor whenever losing a temporal good is feared is it called “worldly fear,” but only when such fear is inordinate. And therefore this always rings of something evil.  
 
 *Although Bede said above that there are two*.*Sent*. III, 34.4(126).2. Bede distinguished fears insofar as they draw back from the evil of fault, and he distinguished them according to things that draw one back—which are two: future punishment, and separation from God. But the Master has distinguished fears according to inclinations toward the evil and according to their drawing one back not only as regards the motives, but even as regards the states.  
 

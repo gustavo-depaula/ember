@@ -1,5 +1,7 @@
 # Chapter 60
 
+^60:1^ Arise, be enlightened, O Jerusalem: for your light is come, and the glory of the Lord is risen upon you.  
+
 > ^60:2^ For behold darkness shall cover the earth, and a mist the peoples:*Populos*. DR: “people.” but the Lord shall arise upon you, and his glory shall be seen upon you.
 
 > ^60:3^ And the Gentiles shall walk in your light, and kings in the brightness of your rising.

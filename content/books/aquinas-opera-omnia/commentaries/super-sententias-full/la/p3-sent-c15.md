@@ -1,8 +1,10 @@
 # D. 14 - Work of distinction of the second and third days
 
+***De opere distinctionis secundae diei et tertiae diei***
+
 ***Divisio textus***
 
-***Determinato primo opere distinctionis, quod lux formata est, hic determinat de opere secundae distinctionis, quod secundae diei competit, in qua firmamentum esse factum describitur. Dividitur autem haec pars in partes duas:***
+Determinato primo opere distinctionis, quod lux formata est, hic determinat de opere secundae distinctionis, quod secundae diei competit, in qua firmamentum esse factum describitur. Dividitur autem haec pars in partes duas:  
 
 in prima ostendit distinctionem secundo die factam;  
 
@@ -92,7 +94,7 @@ Articulus 2
 
 ***Utrum firmamentum sit de natura inferiorum corporum***
 
-***Ad secundum sic proceditur. Videtur quod firmamentum sit de natura inferiorum corporum.***
+Ad secundum sic proceditur. Videtur quod firmamentum sit de natura inferiorum corporum.  
 
 Dicit enim Basilius in *Hexameron*, quod est de natura ignis; in littera etiam dicitur quod estMandonnet adds *de*; PLE omits. aqua in modum chrystalli congelata: quae duo constat esse de natura inferiorum corporum. Ergo et firmamentum.  
 
@@ -128,7 +130,7 @@ Articulus 3
 
 ***Utrum motus caeli sit ab intelligentia***
 
-***Ad tertium sic proceditur. Videtur quod motus caeli non sit ab anima vel intelligentia.***
+Ad tertium sic proceditur. Videtur quod motus caeli non sit ab anima vel intelligentia.  
 
 Motus enim caeli est motus naturalis, ut in 1 *Caeli et mundi*, dicit Philosophus. Sed motus naturalis est cujus principium est forma corporis naturalis. Ergo videtur quod motus caeli sit a forma naturali ejus, et non ab aliquo movente per apprehensionem.  
 
@@ -166,7 +168,7 @@ Articulus 4
 
 ***Utrum numerus caelorum convenienter assignetur a Rabano***
 
-***Ad quartum sic proceditur. Videtur quod inconvenienter a Rabano numerus caelorum assignetur.***
+Ad quartum sic proceditur. Videtur quod inconvenienter a Rabano numerus caelorum assignetur.  
 
 Ponit enim septem caelos, scilicet empyreum, chrystallinum, sidereum, igneum, olympium, aethereum et aereum. Est enim caelum sanctae Trinitatis, in quod Lucifer ascendere voluit, ut supra dictum est. Hoc autem ab omnibus enumeratis differt. Ergo insufficienter videntur caeli enumerari.  
 
@@ -196,7 +198,7 @@ Articulus 5
 
 ***Utrum opus tertiae diei convenienter describatur***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter opus tertiae diei describatur.***
+Ad quintum sic proceditur. Videtur quod inconvenienter opus tertiae diei describatur.  
 
 In tertia enim die facta est distinctio medii elementi ab ultimo. Sed sub medio elemento includitur ignis, aer et aqua, ut dictum est. Cum ergo ignis et aer sint nobiliora quam aqua, videtur quod inconvenienter eorum mentionem praetermisit.  
 
@@ -236,7 +238,7 @@ Ad octavum dicendum, quod generatio mineralium est occulta in visceribus terrae;
 
 Expositio textus  
 
-****Quod de aquis factum esse credi potest*. Hoc intelligendum est quantum ad proprietatem perspicuitatis, et non quantum ad naturam corporis elementaris; sed hoc etiam credi potest, quia contra fidem non est.***
+*Quod de aquis factum esse credi potest*. Hoc intelligendum est quantum ad proprietatem perspicuitatis, et non quantum ad naturam corporis elementaris; sed hoc etiam credi potest, quia contra fidem non est.  
 
 *Sed Spiritus Sanctus, quamvis auctores nostri sciverint, per eos dicere noluit nisi quod prosit saluti*. Notandum quod hic auctores nostros nominat eos qui libros canonicos ediderunt, scilicet apostolos et prophetas, qui haec scribere non curaverunt; sed ab aliis sanctis asseritur et a philosophis probatur caelum esse sphaericae figurae, quod rationibus naturalibus et etiam mathematicis demonstratur.  
 

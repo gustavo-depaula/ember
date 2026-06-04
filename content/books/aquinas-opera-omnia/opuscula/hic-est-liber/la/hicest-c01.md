@@ -1,10 +1,12 @@
 # This is the Book
 
-***Hic est liber mandatorum Dei, et lex quae est in aeternum: omnes qui tenent eam pervenient ad vitam: qui autem dereliquerunt eam, in mortem (Bar 4:1).***
+***Baruch 4:1***
+
+Hic est liber mandatorum Dei, et lex quae est in aeternum: omnes qui tenent eam pervenient ad vitam: qui autem dereliquerunt eam, in mortem (Bar 4:1).  
 
 > Commendatio Sacrae Scripturae
 
-***Secundum Augustinum, in IV De doctrina christiana, eruditus *eloquens ita eloqui debet ut doceat, ut delectet, ut flectat*: ut doceat ignaros; ut delectet tediosos; ut flectat tardos. Haec tria completissime Sacrae Scripturae eloquium.***
+Secundum Augustinum, in IV De doctrina christiana, eruditus *eloquens ita eloqui debet ut doceat, ut delectet, ut flectat*: ut doceat ignaros; ut delectet tediosos; ut flectat tardos. Haec tria completissime Sacrae Scripturae eloquium.  
 
 Docet enim firmiter aeterna sua veritate, Psalm.: *in aeternum, Domine, permanet verbum tuum*.  
 
@@ -38,7 +40,7 @@ Et hoc necesse est quia omnes habuerunt unum magistrum, Matth. XXIII: *unus est 
 
 Veritas Sacrae Scripturae  
 
-***Veritas Scripturae huius doctrinae est immutabilis et aeterna. Unde sequitur: ***et lex quae est in aeternum***. Luc. XXI: *caelum et terra transibunt; verba autem mea non transibunt*.Estler: *transient*.***
+Veritas Scripturae huius doctrinae est immutabilis et aeterna. Unde sequitur: ***et lex quae est in aeternum***. Luc. XXI: *caelum et terra transibunt; verba autem mea non transibunt*.Estler: *transient*.  
 
 Permanet autem in aeternum haec lex propter tria.  
 
@@ -50,7 +52,7 @@ Tertio, propter legis veritatem, Psal.: *omnia mandata tua veritas*. Prov. XII: 
 
 Utilitas Sacrae Scripturae  
 
-***Utilitas autem huius Scripturae est maxima, Isai. XLVIII: *ego Dominus Deus tuus docens te utilia*. Unde sequitur: ***omnes qui tenent eam pervenient ad vitam***; quae quidem triplex est.***
+Utilitas autem huius Scripturae est maxima, Isai. XLVIII: *ego Dominus Deus tuus docens te utilia*. Unde sequitur: ***omnes qui tenent eam pervenient ad vitam***; quae quidem triplex est.  
 
 Prima est vita gratiae, ad quam Sacra Scriptura disponit, Ioan. VI: *verba quae ego locutus sum vobis, spiritus et vita sunt*. Per hanc enim vitam spiritus Deo vivit, Gal. II: *vivo autem, iam non ego: vivit vero in me Christus*.  
 
@@ -60,7 +62,7 @@ Tertia est vita gloriae, quam Sacra Scriptura promittit et ad eam perducit, Ioan
 
 Partitio Sacrae Scripturae  
 
-***Ad hanc autem vitam Sacra Scriptura perducit dupliciter: scilicet, praecipiendo et adiuvando.***
+Ad hanc autem vitam Sacra Scriptura perducit dupliciter: scilicet, praecipiendo et adiuvando.  
 
 Praecipiendo per mandata quae proponit, quod pertinet ad Vetus Testamentum, Eccli. XXIV: *legem mandavit nobis Moyses*.  
 
@@ -70,7 +72,7 @@ Unde tota Sacra Scriptura in duas partes principaliter dividitur, scilicet, in V
 
 Vetus Testamentum  
 
-***Vetus autem Testamentum dividitur secundum doctrinam mandatorum, est enim duplex mandatum, scilicet coactorium et monitorium.***
+Vetus autem Testamentum dividitur secundum doctrinam mandatorum, est enim duplex mandatum, scilicet coactorium et monitorium.  
 
 Coactorium est mandatum regis qui potest transgressores punire, Prov. XX: *sicut rugitus leonis, ita et terror regis*.  
 
@@ -94,7 +96,7 @@ Ponit tamen Hieronymus quartum librorum ordinem, scilicet, apocryphos: et dicunt
 
 Lex  
 
-***Prima autem pars, quae legem continet, in duas partes dividitur; secundum quod duplex est lex, scilicet, publica et privata.***
+Prima autem pars, quae legem continet, in duas partes dividitur; secundum quod duplex est lex, scilicet, publica et privata.  
 
 Privata lex est quae uni personae vel familiae imponitur observanda.Estler: adds *[Et talis lex est quae uni persone vel familie imponitur observanda]*. Et talis lex in Genesi continetur, ut patet de primo praecepto homini dato, Gen. II 17: *de ligno scientiae boni et mali ne comedas*; et Noe, Gen. IX 4: *carnem cum sanguine non comedetis*; et Abrahae: Gen. XVII 9: *custodies pactum meum et semen tuum post te in generationibus suis*.  
 
@@ -116,7 +118,7 @@ tertio in officiis, quantum ad rei publicae administrationem, et hoc fit in libr
 
 Prophetae  
 
-***Secunda autem pars, quae est prophetarum, dividitur in duas partes, secundum quod nuntius duo debet facere: debet enim exponere regis beneficium ut inclinentur homines ad obediendum; et debet proponere legis edictum.***
+Secunda autem pars, quae est prophetarum, dividitur in duas partes, secundum quod nuntius duo debet facere: debet enim exponere regis beneficium ut inclinentur homines ad obediendum; et debet proponere legis edictum.  
 
 Triplex autem beneficium divinum prophetae populo exposuerunt:  
 
@@ -140,7 +142,7 @@ PotestEstler: *possunt*. tamen aliter distingui, ut dicatur quod Isaias praenunc
 
 Agiographa et Apocrypha  
 
-***Tertia autem pars, quae continet agiographos et apocryphos libros, in duo distinguitur, secundum duo quibus patres instruunt filios ad virtutem, scilicet verbo et facto; quia exempla in moralibus non minus valent quam verba. Quaedam autem instruunt facto tantum; quaedam verbo tantum; quaedam verbo et facto.***
+Tertia autem pars, quae continet agiographos et apocryphos libros, in duo distinguitur, secundum duo quibus patres instruunt filios ad virtutem, scilicet verbo et facto; quia exempla in moralibus non minus valent quam verba. Quaedam autem instruunt facto tantum; quaedam verbo tantum; quaedam verbo et facto.  
 
 Facto autem dupliciter.  
 
@@ -180,7 +182,7 @@ Verbo autem simul et facto instruit Ecclesiasticus. Unde praecepta sapientiae qu
 
 Novum Testamentum  
 
-***Novum autem Testamentum, quod ad vitam aeternam ordinat, non solum per praecepta, sed per gratiae dona, dividitur in tres partes.***
+Novum autem Testamentum, quod ad vitam aeternam ordinat, non solum per praecepta, sed per gratiae dona, dividitur in tres partes.  
 
 In prima agitur de gratiae origine: et hoc in Evangeliis.  
 
@@ -190,7 +192,7 @@ In tertia agitur de virtutis praedictae executione: et hoc in reliquis libris No
 
 Evangelii  
 
-***Origo autem gratiae Christus est, Ioan. I: *de plenitudine eius omnes accepimus, gratiam pro gratia, quia lex per Moysen data est, gratia et veritas per Iesum Christum facta est*.***
+Origo autem gratiae Christus est, Ioan. I: *de plenitudine eius omnes accepimus, gratiam pro gratia, quia lex per Moysen data est, gratia et veritas per Iesum Christum facta est*.  
 
 In Christo autem est considerare duplicem naturam, scilicet:  
 
@@ -208,7 +210,7 @@ Vel aliter, ut dicatur quod Matthaeus determinat de Christo principaliter quantu
 
 Reliqui libri Novi Testamenti  
 
-***Executio autem virtutis gratiae ostenditur in progressu Ecclesiae, in quo est tria considerare.***
+Executio autem virtutis gratiae ostenditur in progressu Ecclesiae, in quo est tria considerare.  
 
 Primo Ecclesiae initium; et de hoc agitur in Actibus Apostolorum; unde dicit Hieronymus: *Actus Apostolorum nudam videntur sonare historiam et nascentis Ecclesiae infantiam texere*.  
 

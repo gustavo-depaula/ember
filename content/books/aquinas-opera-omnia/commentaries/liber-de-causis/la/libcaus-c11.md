@@ -1,5 +1,7 @@
 # Proposition 10
 
+92. Omnis intelligentia plena est formis; verumtamen ex intelligentiis sunt, quae continent formas minus universales, et ex eis sunt, quae continent formas plus universales.  
+
 > 93. Quod est, quoniam formae, quae sunt in intelligentiis secundis inferioribus per modum particularem, sunt in intelligentiis primis per modum universalem; et formae, quae sunt in intelligentiis primis per modum universalem, sunt in intelligentiis secundis per modum particularem.
 
 > 94. Et primis intelligentiis est virtus magna, quoniam sunt vehementioris unitatis quam intelligentiae secundae inferiores; et intelligentiis secundis inferioribus sunt virtutes debiles, quoniam sunt minoris unitatis et pluris multiplicitatis.

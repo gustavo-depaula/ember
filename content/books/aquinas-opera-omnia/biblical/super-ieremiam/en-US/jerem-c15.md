@@ -1,10 +1,12 @@
 # C. 13 - Allegory of the girdle
 
+***Allegory of the girdle***
+
 ***Lecture 1***
 
 ***Jeremiah’s girdle***
 
-***^13:1^ Thus says the Lord to me: go and acquire for yourself a linen girdle, and put it upon your loins, and you shall not put it in water.***
+^13:1^ Thus says the Lord to me: go and acquire for yourself a linen girdle, and put it upon your loins, and you shall not put it in water.  
 
 > ^13:2^ And I acquired a girdle according to the word of the Lord, and I put it upon my loins.
 
@@ -154,6 +156,6 @@ Finally, he wonders at their obstinacy: ***woe to you***. ***How long yet after 
 
 Collations  
 
-***Note that mystically sometimes ***wine*** (Jer 13:12) is good, and sometimes bad. For there is the good wine of the wisdom of contemplation: *drink the wine which I have mixed for you* (Prov 9:5). Of divine love: *I will give you a drink of spiced wine, and the juice of my pomegranates* (Song 8:2). Of compunction: *you have given us to drink of the wine of compunction* (Ps 59:3). There is the bad wine of fraudulent deception: *their wine is the bile of dragons, the incurable venom of asps* (Deut 32:33). Of carnal delight: *all nations have drunk from the wine of the wrath of her fornication, and the kings of the earth have fornicated with her* (Rev 18:3). Of divine indignation: *if anyone shall have worshiped the beast, and his image, and received his mark on his forehead, or on his hand, he shall drink of the wine of the wrath of God, which is mixed with pure wine in the cup of his wrath* (Rev 14:10).***
+Note that mystically sometimes ***wine*** (Jer 13:12) is good, and sometimes bad. For there is the good wine of the wisdom of contemplation: *drink the wine which I have mixed for you* (Prov 9:5). Of divine love: *I will give you a drink of spiced wine, and the juice of my pomegranates* (Song 8:2). Of compunction: *you have given us to drink of the wine of compunction* (Ps 59:3). There is the bad wine of fraudulent deception: *their wine is the bile of dragons, the incurable venom of asps* (Deut 32:33). Of carnal delight: *all nations have drunk from the wine of the wrath of her fornication, and the kings of the earth have fornicated with her* (Rev 18:3). Of divine indignation: *if anyone shall have worshiped the beast, and his image, and received his mark on his forehead, or on his hand, he shall drink of the wine of the wrath of God, which is mixed with pure wine in the cup of his wrath* (Rev 14:10).  
 
 It is also to be noted that the Holy Spirit is called ***south*** (Jer 13:19) because of his heat: *are your clothes not hot, when the south wind has blown through them* (Job 37:17); because of his splendor: *God will come from the south,Teman, a region in southern Edom. and the holy one from mount Paran. He has covered the heavens with his glory* (Hab 3:3); because of the height of his flight: *does not the hawk grow feathers through your wisdom, stretching his wings to the south* (Job 39:26); because of the multiplication of the rains: *turn, O Lord, our captivity, as the torrent in the southNegev, a desert region in the south of Israel.* (Ps 125:4); because of the fruiting of trees: *come, south wind, blow upon my garden, and its fragrances will spread abroad* (Song 4:16).

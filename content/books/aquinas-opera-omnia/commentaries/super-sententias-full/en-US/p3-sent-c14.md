@@ -1,8 +1,10 @@
 # D. 13 - Work of distinction of the first day
 
+***Work of distinction of the first day***
+
 ***Division of the text***
 
-***Having spoken of the work of creation, here he proceeds to the work of distinction. And this is divided into three parts.***
+Having spoken of the work of creation, here he proceeds to the work of distinction. And this is divided into three parts.  
 
 In the first, he examines the work of the first day.  
 
@@ -82,7 +84,7 @@ Article 1
 
 ***Whether the work of distinction was necessary after the work of creation***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.47.1; *SCG* II.39–45; III.97; *On the Power of God*, q. 3, a. 1, ad 9; a. 16; *Compendium theologiae*, cc. 71–72, 102; *Commentary on Aristotle’s Metaphysics*, bk. 12, lect. 2; *Commentary on the Book of Causes*, lect. 24. It seems that after the work of creation, the work of distinction was not necessary.***
+To the first we proceed as follows.Parallel texts: *ST* I.47.1; *SCG* II.39–45; III.97; *On the Power of God*, q. 3, a. 1, ad 9; a. 16; *Compendium theologiae*, cc. 71–72, 102; *Commentary on Aristotle’s Metaphysics*, bk. 12, lect. 2; *Commentary on the Book of Causes*, lect. 24. It seems that after the work of creation, the work of distinction was not necessary.  
 
 Obj. 1: For distinction belongs only to what was first confused and combined. Therefore, since the distinction of things took place after creation, things must first have been created as mixed. In this case, the opinion of Anaxagoras and AnaximanderAristotle, *Metaphysics* 12.2, 1069b20–25. will return, that things are made through extraction from a single confused and mixed thing.  
 
@@ -112,7 +114,7 @@ Article 2
 
 ***Whether light is found properly in spiritual things***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.67.1; *Commentary on John*, ch. 1, lect. 3. It seems that light is found properly in spiritual things.***
+To the second we proceed as follows.Parallel texts: *ST* I.67.1; *Commentary on John*, ch. 1, lect. 3. It seems that light is found properly in spiritual things.  
 
 Obj. 1: This is first from what John 1:9 says: *the true light that enlightens every man was coming into the world*. This refers to God, who is maximally spiritual. Therefore, it seems that light is properly found in spiritual substances.  
 
@@ -146,7 +148,7 @@ Article 3
 
 ***Whether light is an accident***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.67.2; *Commentary on Aristotle’s On the Soul*, bk. 2, lect. 14. It seems that light is not an accident.***
+To the third we proceed as follows.Parallel texts: *ST* I.67.2; *Commentary on Aristotle’s On the Soul*, bk. 2, lect. 14. It seems that light is not an accident.  
 
 Obj. 1: First, by the authority of Augustine, who saysAugustine, *On the Free Choice of the Will*, bk. 3, ch. 5 (CCSL 29; PL 32:1276). that light holds the first place among bodily things, and he says many such things in his books. But no body is an accident. Therefore, and so on.  
 
@@ -220,7 +222,7 @@ Article 4
 
 ***Whether the production of light is fittingly recounted***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.67.4; 69.1. It seems that the production of light is unfittingly recounted.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.67.4; 69.1. It seems that the production of light is unfittingly recounted.  
 
 Obj. 1: For since God is light, it is not seemly for him to begin his works from darkness. But before light there was darkness. Therefore, it seems that light should be among the first created things, pertaining not to the work of distinction, but to the work of creation.  
 
@@ -254,7 +256,7 @@ Article 5
 
 ***Whether the Father does all things through the Son***
 
-***To the fifth we proceed as follows. It seems that the Father does not do all things through the Son.***
+To the fifth we proceed as follows. It seems that the Father does not do all things through the Son.  
 
 Obj. 1: For that through which something is done is related more immediately to the effect than the one who does the work through it. But the Son is not more immediately the principle of things than the Father, since both work equally immediately. Therefore, it does not seem that the Father works through the Son.  
 
@@ -284,7 +286,7 @@ Reply Obj. 4: The “first” is said to be that than which there is not somethi
 
 Exposition of the text  
 
-****Here it is to be noted that day is taken in different ways in Scripture*.*Sent*. II, 13.4(67).1. Here he lays out the ways of taking “day.” One is as we speak of a natural day having twenty-four hours. This is the way in which we take: *and there was evening and there was morning, one day* (Gen 1:5). In another way, we speak of an artificial day, that is, the time when the sun is illuminating our hemisphere. And it is taken in this way when it is said that he called the light day and the darkness night (Gen 1:5).***
+*Here it is to be noted that day is taken in different ways in Scripture*.*Sent*. II, 13.4(67).1. Here he lays out the ways of taking “day.” One is as we speak of a natural day having twenty-four hours. This is the way in which we take: *and there was evening and there was morning, one day* (Gen 1:5). In another way, we speak of an artificial day, that is, the time when the sun is illuminating our hemisphere. And it is taken in this way when it is said that he called the light day and the darkness night (Gen 1:5).  
 
 *This day began not from dawn, but from a full light*.*Sent*. II, 13.4(67).2. It seems that this is false. For from full light, which is at noontime, up till the morning of the second day, there are not twenty-four hours. Thus, the first day would not have had as many hours as is said in the text.*Sent*. II, 13.4(67)–5(68).4.  
 

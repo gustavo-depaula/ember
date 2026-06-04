@@ -1,10 +1,12 @@
 # Lauds
 
+***{image-229}***
+
 *Antiphona*. Memoriam fecit mirabilium suorum, misericors et miserator Dominus. Escam se dedit timentibus se, alleluia.  
 
 Psalmus 92  
 
-***Dominus regnavit, decorem indutus est: * indutus est Dominus fortitudinem, et praecinxit se, etc.***
+Dominus regnavit, decorem indutus est: * indutus est Dominus fortitudinem, et praecinxit se, etc.  
 
 > {image-230}
 
@@ -20,7 +22,7 @@ Psalmus 99
 
 Psalmus 21  
 
-***Deus, Deus meus, respice in me: quare me dereliquisti? * Longe a salute mea verba delictorum meorum.***
+Deus, Deus meus, respice in me: quare me dereliquisti? * Longe a salute mea verba delictorum meorum.  
 
 > Benedicite
 
@@ -38,7 +40,7 @@ Psalmi 148–150
 
 > Capitulum
 
-***Omnis pontifex ex hominibus assumptus pro hominibus constituitur in his quae sunt ad Deum ut offerat dona et sacrificia pro peccatis.***
+Omnis pontifex ex hominibus assumptus pro hominibus constituitur in his quae sunt ad Deum ut offerat dona et sacrificia pro peccatis.  
 
 > Hymnus
 

@@ -1,10 +1,12 @@
 # C. 21 - Threat against the kings
 
+***Threat against the kings***
+
 ***Lecture 1***
 
 ***Response to King Zedekiah***
 
-***^21:1^ The word which came to Jeremiah from the Lord, when king Zedekiah sent to him Pashhur, the son of Milchiah, and Zephaniah, the son of Maasiah the priest, saying,***
+^21:1^ The word which came to Jeremiah from the Lord, when king Zedekiah sent to him Pashhur, the son of Milchiah, and Zephaniah, the son of Maasiah the priest, saying,  
 
 > ^21:2^ ‘Inquire of the Lord and pray for us, because Nebuchadnezzar, king of Babylon, makes war against us, if perhaps the Lord will act according to all his wondrous deeds, and he will depart from us.’
 

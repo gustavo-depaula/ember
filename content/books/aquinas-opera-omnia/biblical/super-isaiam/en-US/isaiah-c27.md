@@ -1,5 +1,7 @@
 # Chapter 25
 
+^25:1^ O Lord, you are my God, I will exalt you, and confess*Confitebor*. DR: “give glory to.” your name: for you have done wonderful things, your designs of old faithful, amen.  
+
 > ^25:2^ For you have reduced the city to a heap, the strong city to ruin, the house of strangers, to be no city, and to be no more built up for ever.
 
 > ^25:3^ Therefore shall a strong people praise you, the city of mighty nations shall fear you.

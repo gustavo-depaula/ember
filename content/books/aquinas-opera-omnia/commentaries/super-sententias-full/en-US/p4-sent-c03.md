@@ -1,8 +1,10 @@
 # D. 23 - Divine permission of the first sin
 
+***Divine permission of the first sin***
+
 ***Division of the text***
 
-***After the Master has determined the principle of man’s perdition both on the part of the temptation and on the part of the one committing the sin, in this part he addresses the divine permission, which is in a certain way called the “principle of sin” as a cause *sine qua non*. For if God had not permitted it, man would not have sinned.***
+After the Master has determined the principle of man’s perdition both on the part of the temptation and on the part of the one committing the sin, in this part he addresses the divine permission, which is in a certain way called the “principle of sin” as a cause *sine qua non*. For if God had not permitted it, man would not have sinned.  
 
 It is divided into five parts, in accord with the five questions he raises.  
 
@@ -64,7 +66,7 @@ Article 1
 
 ***Whether a natural inability to sin could have been conferred on a created nature***
 
-***To the first we proceed as follows. It seems that a natural inability to sin could have been conferred on a created nature.***
+To the first we proceed as follows. It seems that a natural inability to sin could have been conferred on a created nature.  
 
 Obj. 1: This is first because of what Augustine says in the text,*Sent*. II, 23.1(136).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 11, ch. 7 (CSEL 28.1:340; PL 34:413). namely, that the nature that cannot sin is that of the holy angels, while the nature that can sin is that of men. Nor can it be said that this belongs to the angelic nature through grace, since in this respect they would not differ from man, to whom this also belongs through grace. Therefore, it seems that the angels possess the property of not being able to sin through the constitution of their nature.  
 
@@ -98,7 +100,7 @@ Article 2
 
 ***Whether God should have permitted man to be tempted or to sin***
 
-***To the second we proceed as follows. It seems that God should not have permitted man to sin or to be tempted.***
+To the second we proceed as follows. It seems that God should not have permitted man to sin or to be tempted.  
 
 Obj. 1: For it is characteristic of a wise artisan to make each thing, to whatever extent he is able, adequate for its end. But man was made for beatitude as for an end. Therefore, since he would have been made more adequate for beatitude without sin, it seems that God should not have permitted him to fall into sin.  
 
@@ -132,7 +134,7 @@ Question 2
 
 ***The knowledge of man in his original state***
 
-***Then the question of the knowledge that man in his first state had is asked. Concerning this three questions are asked:***
+Then the question of the knowledge that man in his first state had is asked. Concerning this three questions are asked:  
 
 first, whether he saw God in his essence;  
 
@@ -144,7 +146,7 @@ Article 1
 
 ***Whether Adam saw God in his essence***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.94.1; *Disputed Questions on Truth*, q. 18, aa. 1–2. It seems that Adam saw God in his essence.***
+To the first we proceed as follows.Parallel texts: *ST* I.94.1; *Disputed Questions on Truth*, q. 18, aa. 1–2. It seems that Adam saw God in his essence.  
 
 Obj. 1: For the vision of God in his essence is called the “immediate vision of God.” But Adam in his first state saw God without a medium, as the Master says.Peter Lombard, *In IV Sent*., d. 1: *homo enim, qui ante peccatum sine medio Deum videbat, per peccadum a Deo habuit ut nequeat divina capere, nisi humanis exercitatus*. Therefore, it seems that he saw God in his essence.  
 
@@ -188,7 +190,7 @@ Article 2
 
 ***Whether Adam had perfect knowledge of things from his creation***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.94.3; *On Truth*, q. 18, a. 4. It seems that Adam did not have perfect knowledge of things from creation.***
+To the second we proceed as follows.Parallel texts: *ST* I.94.3; *On Truth*, q. 18, a. 4. It seems that Adam did not have perfect knowledge of things from creation.  
 
 Obj. 1: For, according to Anselm,Anselm, *On the Virginal Conception and Original Sin*, ch. 2 (PL 158:434). Adam would have generated children such as he himself was in the first state. But it was said above that children would not have been born perfect in knowledge, according to one opinion, to which the Master seemed to assent.*Sent*. II, 20.5(120).1–2. Therefore, neither would Adam have been made perfect in knowledge.  
 
@@ -222,7 +224,7 @@ Article 3
 
 ***Whether in the first state man could be deceived***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.94.4; *On Truth*, q. 18, a. 6. It seems that man in the first state could be deceived.***
+To the third we proceed as follows.Parallel texts: *ST* I.94.4; *On Truth*, q. 18, a. 6. It seems that man in the first state could be deceived.  
 
 Obj. 1: For, as the Apostle says (1 Tim 2:14), *the woman was seduced*. But Adam, though he was not seduced in the same way as the woman, was in a way seduced, in that he believed that what was deadly would be venial, as was said in the preceding distinction. Therefore, in the state of innocence he was able to be deceived.  
 
@@ -248,7 +250,7 @@ Reply Obj. 4: Even if his senses had represented something to him in a way other
 
 Exposition of the text  
 
-****But it would not be praiseworthy for human beings, if they could live well only because none would persuade them to live evilly*.*Sent*. II, 23.1(136).1. This seems to be false. For in that case, if neither angels nor man had sinned, man’s act would not have been praiseworthy, since then there would be no one persuading him to evil.***
+*But it would not be praiseworthy for human beings, if they could live well only because none would persuade them to live evilly*.*Sent*. II, 23.1(136).1. This seems to be false. For in that case, if neither angels nor man had sinned, man’s act would not have been praiseworthy, since then there would be no one persuading him to evil.  
 
 But it should be said that this is not to be understood in such a way that praise for a human act depends on persuasion to evil, but rather on the power of resisting the one so persuading. This power could have been manifested if he had been tempted and overcome it. Hence it is said as a sign of this: *if they could live well only because none would persuade them to live evilly*, as though the fact that there is no one persuading them to live evilly is shown as the cause of their living well.  
 

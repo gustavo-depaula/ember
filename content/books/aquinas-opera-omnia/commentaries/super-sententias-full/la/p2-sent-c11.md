@@ -1,8 +1,10 @@
 # D. 31 - Appropriations of the divine persons
 
+***De appropriatis divinarum personarum***
+
 ***Divisio textus***
 
-***Postquam determinavit de propriis personarum, hic determinat de appropriatis ipsarum; et dividitur in partes duas: in prima determinat appropriata personarum; in secunda inquirit quomodo secundum illa appropriata divinae personae ad invicem comparentur, 32 distinct.: *hic oritur quaestio*.***
+Postquam determinavit de propriis personarum, hic determinat de appropriatis ipsarum; et dividitur in partes duas: in prima determinat appropriata personarum; in secunda inquirit quomodo secundum illa appropriata divinae personae ad invicem comparentur, 32 distinct.: *hic oritur quaestio*.  
 
 Prima in duas: in prima determinat significationes quorumdam nominum quae personis divinis appropriantur; in secunda prosequitur diversas sanctorum appropriationes, ibi: *non est igitur hic praetermittendum*.  
 
@@ -36,7 +38,7 @@ Quaestio 1
 
 ***Utrum aequalitas ponat aliquid in divinis***
 
-***Circa primum, suppositis his quae supra de aequalitate dicta sunt, quaeritur, utrum aequalitas in divinis aliquid ponat; et videtur quod sic.***
+Circa primum, suppositis his quae supra de aequalitate dicta sunt, quaeritur, utrum aequalitas in divinis aliquid ponat; et videtur quod sic.  
 
 Quidquid enim est in Deo et in creaturis, nobilius est in Deo quam in creaturis. Sed aequalitas et similitudo in creatura aliquid ponunt. Ergo et in Deo.  
 
@@ -68,7 +70,7 @@ Articulus 2
 
 ***Utrum attributa essentialia hujusmodi debeant appropriari divinis personis***
 
-***Ad secundum sic proceditur. Videtur quod hujusmodi essentialia attributa personis divinis appropriari non debeant.***
+Ad secundum sic proceditur. Videtur quod hujusmodi essentialia attributa personis divinis appropriari non debeant.  
 
 Quod enim pluribus commune est, nulli eorum debet appropriari. Sed omnia attributa sunt communia tribus personis. Ergo, etc.  
 
@@ -108,7 +110,7 @@ secundo de expositione Augustini quantum ad hoc quod dicit, quod imago coaequatu
 
 Articulus 1  
 
-***Utrum Hilarius convenienter appropriet aeternitatem Patri, speciem Filio, usum Spiritui Sancto***
+Utrum Hilarius convenienter appropriet aeternitatem Patri, speciem Filio, usum Spiritui Sancto  
 
 ***Ad primum sic proceditur. Videtur quod appropriatio Hilarii sit incompetens.***
 
@@ -158,7 +160,7 @@ secundo de hoc quod dicit quod omnia sunt unum propter Patrem.
 
 Articulus 1  
 
-***Utrum Augustinus convenienter appropriet unitatem Patri, aequalitatem Filio, nexum Spiritui Sancto***
+Utrum Augustinus convenienter appropriet unitatem Patri, aequalitatem Filio, nexum Spiritui Sancto  
 
 ***Ad primum sic proceditur. Videtur quod appropriatio Augustini sit incompetens.***
 
@@ -214,7 +216,7 @@ Et per hoc etiam patet responsio ad tertium. Non enim dicuntur omnia esse aequal
 
 Expositio textus  
 
-****Praeterea considerari oportet*. Tria quaerit de aequalitate. Primo utrum dicatur relative, vel absolute. Ad hoc respondet, quod relative, ibi: *ad quod dicimus*. Secundo quaerit secundum quid attendatur aequalitas, utrum secundum unitatem essentiae, vel secundum unitatem relationis; et ostendit quod secundum unitatem essentiae, et ideo aequalitas secundum essentiam dicitur; et hoc ibi: *est tamen aequalis Patri Filius*. Tertio quaerit quid sit aequalitas, et ad hoc respondet, quod est relatio in Deo secundum nomen tantum, ibi: *et appellatio tantum relativa est*.***
+*Praeterea considerari oportet*. Tria quaerit de aequalitate. Primo utrum dicatur relative, vel absolute. Ad hoc respondet, quod relative, ibi: *ad quod dicimus*. Secundo quaerit secundum quid attendatur aequalitas, utrum secundum unitatem essentiae, vel secundum unitatem relationis; et ostendit quod secundum unitatem essentiae, et ideo aequalitas secundum essentiam dicitur; et hoc ibi: *est tamen aequalis Patri Filius*. Tertio quaerit quid sit aequalitas, et ad hoc respondet, quod est relatio in Deo secundum nomen tantum, ibi: *et appellatio tantum relativa est*.  
 
 *Imago enim si perfecte implet illud cujus imago est, ipsa coaequatur ei, non illud imagini suae*. Ex hoc videtur quod in divinis non sit mutua aequalitas, si Pater suae imagini non coaequatur. Sed dicendum, quod sicut Filius est aequalis Patri, ita et Pater Filio, cum quantitas virtualis perfecte sit in utroque. Sed coaequare dicit motum ad coaequalitatem; et quamvis in divinis non sit motus, est tamen ibi acceptio aequalitatis; et quia Filius accipit aequalitatem a Patre et non e converso, ideo Filius coaequatur Patri et non e converso.  
 

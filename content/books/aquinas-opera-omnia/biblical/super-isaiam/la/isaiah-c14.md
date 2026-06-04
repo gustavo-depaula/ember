@@ -1,5 +1,7 @@
 # Chapter 12
 
+^12:1^ Et dices in illa die: confitebor tibi Domine quoniam iratus es mihi; conversus est furor tuus, et consolatus es me.  
+
 > ^12:2^ Ecce Deus salvator meus: fiducialiter agam et non timebo, quia fortitudo mea et laus mea Dominus Deus, et factus est mihi in salutem.
 
 > ^12:3^ Haurietis aquas in gaudio de fontibus salvatoris.

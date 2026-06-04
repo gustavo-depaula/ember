@@ -1,8 +1,10 @@
 # D. 33 - Number of original sin
 
+***Number of original sin***
+
 ***Division of the text***
 
-***After he has examined original sin as regards its principle and its term, showing how it is contracted from the parents and remitted through baptism, here he examines it as regards its number, inquiring whether original sin is one or many. This is divided into two parts.***
+After he has examined original sin as regards its principle and its term, showing how it is contracted from the parents and remitted through baptism, here he examines it as regards its number, inquiring whether original sin is one or many. This is divided into two parts.  
 
 In the first, he inquires if original sin is one, being caused and introduced by a single sin, or whether it is many, being left from the sins of all previous ancestors.  
 
@@ -98,7 +100,7 @@ Article 1
 
 ***Whether one contracts the stain from his immediate parents***
 
-***To the first we proceed as follows.Parallel texts: *ST* I-II.81.1, 2; *SCG* IV.52; *On Evil*, q. 4, a. 8; *Compendium theologiae*, ch. 197; *Commentary on Romans*, ch. 5, lect. 3. It seems that one contracts the stain by way of origin from his immediate parents.***
+To the first we proceed as follows.Parallel texts: *ST* I-II.81.1, 2; *SCG* IV.52; *On Evil*, q. 4, a. 8; *Compendium theologiae*, ch. 197; *Commentary on Romans*, ch. 5, lect. 3. It seems that one contracts the stain by way of origin from his immediate parents.  
 
 Obj. 1: For in successive human generation, to the degree that a begetter is more immediate, the more effectively does it introduce its own likeness in the offspring. Hence children resemble their fathers more than their grandfathers, great-grandfathers, and so forth. But the passing-down of original sin is according to the likening of the begetter to the begotten. For one born in original sin also begets in original sin. Therefore, the child contracts original sin more through that of his proximate parent than through Adam’s sin.  
 
@@ -134,9 +136,9 @@ Reply Obj. 5: We can understand the principle of a nature in two ways. Either it
 
 Article 2  
 
-***Whether the fault of the immediate parents redounds to their children as far as punishment is concerned***
+Whether the fault of the immediate parents redounds to their children as far as punishment is concerned  
 
-***To the second we proceed as follows.Parallel text: *ST* I-II.81.2. It seems that the immediate parents’ fault redounds to their children as regards punishment.***
+To the second we proceed as follows.Parallel text: *ST* I-II.81.2. It seems that the immediate parents’ fault redounds to their children as regards punishment.  
 
 Obj. 1: This is, first, because of Exodus 20:5: *I am a jealous God, visiting the iniquity of the fathers upon the children*. And here it is speaking of the visitation of correction that takes place through punishment. Therefore, children are punished for the sins of their parents.  
 
@@ -172,7 +174,7 @@ Article 3
 
 ***Whether original sin is only one***
 
-***To the third we proceed as follows.Parallel texts: below, exposition of the text; *ST* I-II.82.2; *On Evil*, q. 4, a. 8, ad 1; *Commentary on Psalms*, Psalm 31, Psalm 50; *Commentary on Romans*, ch. 4, lect. 1; ch. 5, lect. 3. It seems that original sin is not only one.***
+To the third we proceed as follows.Parallel texts: below, exposition of the text; *ST* I-II.82.2; *On Evil*, q. 4, a. 8, ad 1; *Commentary on Psalms*, Psalm 31, Psalm 50; *Commentary on Romans*, ch. 4, lect. 1; ch. 5, lect. 3. It seems that original sin is not only one.  
 
 Obj. 1: For what is signified in the plural cannot be only one. But when the saints speak of original sin, they signify it in the plural, as when Rabanus saysSee *Decretum magistri Gratiani*, d. 6, “De Poenitentia,” ch. 1 (col. 1618), from Rabanus’s Gloss on Matthew 28:34. that a man who goes back to sin has not only the sins that he performed after baptism imputed to him for punishment, but also the original sins that were forgiven him in baptism.*See Sent*. IV, 22.1(125).3. Therefore, original sin is not only one.  
 
@@ -206,7 +208,7 @@ Question 2
 
 ***The punishment of original sin***
 
-***Then the question is asked of original sin’s punishment. And concerning this two questions are asked:***
+Then the question is asked of original sin’s punishment. And concerning this two questions are asked:  
 
 first, whether original sin is due a sensible punishment after death in those who die in original sin alone;  
 
@@ -216,7 +218,7 @@ Article 1
 
 ***Whether a sensible punishment is due to original sin in itself***
 
-***To the first we proceed as follows. It seems that a sensible punishment is due original sin in itself.***
+To the first we proceed as follows. It seems that a sensible punishment is due original sin in itself.  
 
 Obj. 1: For Augustine says: *hold most firmly and in no way doubt that little children who have passed from this world without the sacrament of baptism will be punished with eternal pain*.Rather: Fulgentius, *De fide ad Petrum*, ch. 27 (CCSL 91A; PL 40:774). But “pain” denotes a sensible punishment. Therefore, little children who will be punished for original sin alone will undergo a sensible punishment.  
 
@@ -248,7 +250,7 @@ Article 2
 
 ***Whether unbaptized children feel spiritual affliction in their soul***
 
-***To the second we proceed as follows. It seems that unbaptized children feel spiritual affliction in their soul.***
+To the second we proceed as follows. It seems that unbaptized children feel spiritual affliction in their soul.  
 
 Obj. 1: For, just as Chrysostom says,John Chrysostom, *Homiliae XC in Matthaeum*, homily 23 (PG 57:307). in the damned, the fact that they will lack the vision of God will be a more serious punishment than the fact that they will be burned by the fire below. But children will lack the vision of God. Therefore, they will feel spiritual affliction from this.  
 
@@ -290,7 +292,7 @@ Reply Obj. 5: Even though unbaptized children are separated from God as far as t
 
 Exposition of the text  
 
-****But Augustine, in the* Enchiridion*, indicates that many sins can be identified in the actual sin of Adam*.*Sent*. II, 33.2(222).1, quoting Augustine, *Enchiridion de fide, spe et caritate*, ch. 47 (CCSL 46; PL 40:255). Therefore, it should be known that in a given sin we can identify the deformities of more than one sin in two ways: either properly, and in this way the deformities of pride, gluttony, disobedience, and so forth, appear in Adam’s sin; or else, as it were, metaphorically. And in this latter way, we see in it the deformity of homicide, since he spiritually killed himself, and of fornication, since he spiritually committed fornication by withdrawing from God. Yet, there is only one single sin possessing these deformities from the different circumstances while retaining the species of sin from its last end. Thus, the original sin caused by it also does not need to be many.***
+*But Augustine, in the* Enchiridion*, indicates that many sins can be identified in the actual sin of Adam*.*Sent*. II, 33.2(222).1, quoting Augustine, *Enchiridion de fide, spe et caritate*, ch. 47 (CCSL 46; PL 40:255). Therefore, it should be known that in a given sin we can identify the deformities of more than one sin in two ways: either properly, and in this way the deformities of pride, gluttony, disobedience, and so forth, appear in Adam’s sin; or else, as it were, metaphorically. And in this latter way, we see in it the deformity of homicide, since he spiritually killed himself, and of fornication, since he spiritually committed fornication by withdrawing from God. Yet, there is only one single sin possessing these deformities from the different circumstances while retaining the species of sin from its last end. Thus, the original sin caused by it also does not need to be many.  
 
 *‘Yet it is not to be held to have been graver than the sin against the Holy Spirit*.’*Sent*. II, 33.3(223).4, quoting Augustine, *The City of God*, bk. 14, ch. 12 (CCSL 48; PL 41:420). The first man had less inducing him to sin than subsequent human beings. But the less the temptation under which one falls, the more gravely he sins. Therefore, the first man sinned more gravely than other subsequent human beings.  
 

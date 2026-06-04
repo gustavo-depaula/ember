@@ -1,5 +1,7 @@
 # Sermon
 
+******A light has gone up for the just***.Psalm 97:11.***
+
 This is a short saying, but it holds a manifold meaning. We find it in Psalm 97:11.  
 
 **1**. We read that the birth of the Blessed Virgin is shown beforehand by many figures in the Old Testament.In the figurative reading of the Old Testament, things and events are seen as referring to the Christ event to come; cf. also the law (*ST* I-II.101.2; I-II.102.2; I-II.103.3; I-II.104.2) and the Eucharist (*ST* III.73.6). Among other figures it is pointed to by three figures in particular, namely, (1.1) in the ascent of dawn, (1.2) in the rising of the morning star, and (1.3) in the sprouting of a twig from the root. In the dawn her birth is designated insofar as her sanctification is concerned. In the rising of the star we find a prefiguration insofar as it concerns the integrity of her virginity. In the sprouting of a twig her elevation and great contemplation are prefigured.  

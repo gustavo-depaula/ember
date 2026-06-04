@@ -1,6 +1,8 @@
 # Chapter 7
 
-***^7:1^ Et factum est in diebus Achaz filii Joathan filii Oziæ regis Juda, ascendit Rasin rex Syriæ et Phacee filius Romeliæ rex Israel in Jerusalem ad præliandum contra eam, et non potuerunt debellare eam.***
+***Lectio 1***
+
+^7:1^ Et factum est in diebus Achaz filii Joathan filii Oziæ regis Juda, ascendit Rasin rex Syriæ et Phacee filius Romeliæ rex Israel in Jerusalem ad præliandum contra eam, et non potuerunt debellare eam.  
 
 > ^7:2^ Et nuntiaverunt domui David dicentes: requievit Syria super Ephraim. Et commotum est cor ejus et cor populi ejus sicut moventur ligna silvarum a facie venti.
 

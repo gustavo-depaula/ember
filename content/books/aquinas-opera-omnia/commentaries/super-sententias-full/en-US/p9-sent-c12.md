@@ -1,6 +1,8 @@
 # D. 37 - On holy orders and uxoricide
 
-***After the Master has dealt with impediments that make persons something in between wholly eligible and wholly ineligible, here he considers the impediments that make persons wholly ineligible; and this is divided into two parts: in the first, he considers the impediments which make persons wholly ineligible with regard to any other person; in the second part he considers impediments which make persons ineligible with regard to certain persons, but not with respect to all, in Distinction 39, at: *after these matters, we must look at disparity of cult*.*Sententiae* IV, 39.1 (217). 1.***
+***On holy orders and uxoricide***
+
+After the Master has dealt with impediments that make persons something in between wholly eligible and wholly ineligible, here he considers the impediments that make persons wholly ineligible; and this is divided into two parts: in the first, he considers the impediments which make persons wholly ineligible with regard to any other person; in the second part he considers impediments which make persons ineligible with regard to certain persons, but not with respect to all, in Distinction 39, at: *after these matters, we must look at disparity of cult*.*Sententiae* IV, 39.1 (217). 1.  
 
 The first is divided into two: first, he addresses the impediment of holy orders; second, he addresses the impediment of the religious vow, in Distinction 38, at: *now let us examine the vow*.*Sent*. IV, 38.1 (214). 1.  
 
@@ -21,7 +23,7 @@ first, whether pre-existing holy orders impedes marriage;
 
 ***Whether pre-existing holy orders impedes marriage***
 
-***Obj. 1: To the first question, we proceed thus. It seems that holy orders does not impede matrimony. For nothing is impeded unless by its contrary. But orders is not the contrary of marriage, since both are sacraments. Therefore, it cannot impede it.***
+Obj. 1: To the first question, we proceed thus. It seems that holy orders does not impede matrimony. For nothing is impeded unless by its contrary. But orders is not the contrary of marriage, since both are sacraments. Therefore, it cannot impede it.  
 
 Obj. 2: Furthermore, we have the same holy orders as the Eastern church. But holy orders does not impede marriage in the Eastern church. Therefore, neither should it in the western church.  
 
@@ -51,7 +53,7 @@ Article 2
 
 ***Whether holy orders should be allowed to follow pre-existing marriage***
 
-***Obj. 1: To the second question, we proceed thus. It seems that holy orders cannot be received after marriage. For the stronger prejudices the rights of the less strong. But the spiritual bond is stronger than the corporeal. Therefore, if someone joined in marriage should receive orders, a prejudice would be generated to the wife, that she could not demand the debt,Married clergy in the Eastern rites must abstain from the marital act when celebrating the sacred mysteries. since orders is a spiritual bond, and marriage a corporeal one; and thus it seems that someone could not receive holy orders after having consummated his marriage.***
+Obj. 1: To the second question, we proceed thus. It seems that holy orders cannot be received after marriage. For the stronger prejudices the rights of the less strong. But the spiritual bond is stronger than the corporeal. Therefore, if someone joined in marriage should receive orders, a prejudice would be generated to the wife, that she could not demand the debt,Married clergy in the Eastern rites must abstain from the marital act when celebrating the sacred mysteries. since orders is a spiritual bond, and marriage a corporeal one; and thus it seems that someone could not receive holy orders after having consummated his marriage.  
 
 Obj. 2: Furthermore, after the marriage has been consummated, one spouse cannot vow continence without the consent of the other spouse. But holy orders has a vow of continence attached to it. Therefore, if a man received holy orders against his wife’s will, the unwilling wife would be forced to keep continence, for it would not be possible to marry another while her husband was living.  
 
@@ -81,7 +83,7 @@ Question 2
 
 ***The impediment of uxoricide***
 
-***Here uxoricide, or wife-murder, is to be considered. Concerning this, two questions arise:***
+Here uxoricide, or wife-murder, is to be considered. Concerning this, two questions arise:  
 
 first, whether in any case it could be licit to kill one’s wife;  
 
@@ -90,7 +92,7 @@ first, whether in any case it could be licit to kill one’s wife;
 
 ***Whether in any case it could be licit to kill one’s wife***
 
-***Obj. 1: To the first question, we proceed thus. It seems that it would be licit for a man, apprehending his wife in the act of adultery, to kill her. For divine law commanded that adulterous women be stoned.Leviticus 20:10; Deuteronomy 22:22; cf. John 8:5. But the person who carries out the divine law does not sin. Therefore, neither does someone sin by killing his own wife, if she be an adulterer.***
+Obj. 1: To the first question, we proceed thus. It seems that it would be licit for a man, apprehending his wife in the act of adultery, to kill her. For divine law commanded that adulterous women be stoned.Leviticus 20:10; Deuteronomy 22:22; cf. John 8:5. But the person who carries out the divine law does not sin. Therefore, neither does someone sin by killing his own wife, if she be an adulterer.  
 
 Obj. 2: Furthermore, what is permitted to the law, is permitted to the one to whom the law entrusts it. But it is permitted for the law to kill an adulterous woman, or any person who is condemned to death. Since, therefore, the lawSee *Digests*, Bk. 48, tit. 5, leg. 39, ‘Si adulterium.’ has committed to a man the killing of a wife caught in the act of adultery, it seems that it permits him to do this.  
 
@@ -116,7 +118,7 @@ Article 2
 
 ***Whether uxoricide impedes matrimony***
 
-***Obj. 1: To the second question, we proceed thus.Parallel: above, d. 35, expos. text.; *Quodl.* V, q. 8, a. 1, ad 1. It seems that uxoricide does not impede matrimony. For adultery is more directly opposed to marriage than homicide. But adultery does not impede marriage. Therefore, neither does the homicide of one’s wife.***
+Obj. 1: To the second question, we proceed thus.Parallel: above, d. 35, expos. text.; *Quodl.* V, q. 8, a. 1, ad 1. It seems that uxoricide does not impede matrimony. For adultery is more directly opposed to marriage than homicide. But adultery does not impede marriage. Therefore, neither does the homicide of one’s wife.  
 
 Obj. 2: Furthermore, it is a graver sin to kill one’s mother than to kill one’s wife, for it is never permitted to strike one’s mother, but it is permitted to strike one’s wife. But killing one’s mother does not impede marriage. Therefore, neither does killing one’s wife.  
 
@@ -140,6 +142,6 @@ Reply Obj. 4: It is not necessary that when guilt is blotted out, all penalty is
 
 Exposition of the Text  
 
-****“A virgin wife*.”*Sententiae*. IV, 37.1 (212). 2, Humbert of Silva Candida, legate of Leo IX, *Responsio contra libellum Nicetae abbatis*, n32. This is understood as a hypothesis; that is, if a man about to advance to the priesthood desires to return to the clerical state.***
+*“A virgin wife*.”*Sententiae*. IV, 37.1 (212). 2, Humbert of Silva Candida, legate of Leo IX, *Responsio contra libellum Nicetae abbatis*, n32. This is understood as a hypothesis; that is, if a man about to advance to the priesthood desires to return to the clerical state.  
 
 *“The holy Church of God is never bound by worldly laws, and has no sword apart from the spiritual one*.”*Sententiae* IV, 37.2 (213). 2, Nicholas I, *Epistola 26 (ad Carolum, Moguntinum archiepiscopum, vel Albinum archiepiscopum)*. Against this is what Bernard says to Eugene, that the Church has both swords. And it should be said that the Church has only the spiritual sword with regard to what must be done by her own hand; but she also has the temporal sword as regards command over it: for at her bidding it must be unsheathed, as Bernard says.Bernard of Clairvaux, *De consideratione*, Bk. 4, par. 7 (*Bernardi Opera*, ed. Leclercq and Rochais, 3:454).

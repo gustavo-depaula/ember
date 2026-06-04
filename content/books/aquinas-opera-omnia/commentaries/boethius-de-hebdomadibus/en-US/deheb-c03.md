@@ -1,5 +1,7 @@
 # L. 2 - Commentary on the Rules
 
+***Commentary on the Rules***
+
 ***Being and that which is are different.***
 
 > For being itself is not yet, whereas what has taken on the form of being is and exists.

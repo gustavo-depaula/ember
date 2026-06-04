@@ -1,10 +1,12 @@
 # Q. 9 - On vainglory
 
+***De inani gloria***
+
 ***Articulus 1***
 
 ***Utrum inanis gloria sit peccatum***
 
-***Quaestio est de inani gloria. Et primo quaeritur utrum inanis gloria sit peccatum.***
+Quaestio est de inani gloria. Et primo quaeritur utrum inanis gloria sit peccatum.  
 
 Et videtur quod non. Consistit enim inanis gloria in eo quod aliquis velit bona sua aliis apparere. Sed hoc non est peccatum, sed laudabile; dicitur enim Matth., V, 16; *sic luceat lux vestra coram hominibus, ut videant opera vestra bona*. Ergo inanis gloria non est peccatum.  
 
@@ -128,7 +130,7 @@ Articulus 3
 
 ***De filiabus inanis gloriae***
 
-***Tertio quaeritur de filiabus inanis gloriae quae sunt inobedientia, iactantia, hypocrisis, contentio, pertinacia, discordia, novitatum praesumptio.***
+Tertio quaeritur de filiabus inanis gloriae quae sunt inobedientia, iactantia, hypocrisis, contentio, pertinacia, discordia, novitatum praesumptio.  
 
 Et videtur quod inconvenienter assignantur. Haec enim omnia videntur ad superbiam pertinere, cuius filia est et ipsa inanis gloria. Ergo huiusmodi vitia non debent poni filiae inanis gloriae, sed simul cum inani gloria debent poni filiae superbiae.  
 

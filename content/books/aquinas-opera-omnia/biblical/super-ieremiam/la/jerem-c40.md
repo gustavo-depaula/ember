@@ -1,6 +1,8 @@
 # C. 38 - Jeremiah persecuted by the princes
 
-***^38:1^ Audivit autem Saphatias filius Mathan, et Gedelias filius Phassur, et Juchal filius Selemiae, et Phassur filius Melchiae sermones quos Jeremias loquebatur ad omnem populum, dicens:***
+***Lectio 1***
+
+^38:1^ Audivit autem Saphatias filius Mathan, et Gedelias filius Phassur, et Juchal filius Selemiae, et Phassur filius Melchiae sermones quos Jeremias loquebatur ad omnem populum, dicens:  
 
 > ^38:2^ haec dicit Dominus: quicumque manserit in civitate hac, morietur gladio et fame et peste; qui autem profugerit ad Chaldaeos, vivet, et erit anima ejus sospes, et vivens.
 
@@ -62,7 +64,7 @@ Quarto ponitur executio: ***assumptis ergo Abdemelech secum viris ingressus est 
 
 Lectio 2  
 
-***^38:14^ Et misit rex Sedecias, et tulit ad se Jeremiam prophetam ad ostium tertium, quod erat in domo Domini. Et dixit rex ad Jeremiam: interrogo ego te sermonem, ne abscondas a me aliquid.***
+^38:14^ Et misit rex Sedecias, et tulit ad se Jeremiam prophetam ad ostium tertium, quod erat in domo Domini. Et dixit rex ad Jeremiam: interrogo ego te sermonem, ne abscondas a me aliquid.  
 
 > ^38:15^ Dixit autem Jeremias ad Sedeciam: si annuntiavero tibi, numquid non interficies me? Et si consilium dedero tibi, non me audies.
 
@@ -132,6 +134,6 @@ Tertio ponitur petitionis complementum: ***venerunt ergo omnes principes ad Jere
 
 Lectio 3  
 
-***^38:28^ Mansit vero Jeremias in vestibulo carceris usque ad diem quo capta est Jerusalem. Et factum est ut caperetur Jerusalem.***
+^38:28^ Mansit vero Jeremias in vestibulo carceris usque ad diem quo capta est Jerusalem. Et factum est ut caperetur Jerusalem.  
 
 > **203**. Hic ponitur petitionis observatio, ***in vestibulo*** non missus in lacum, secundum petitionem suam.

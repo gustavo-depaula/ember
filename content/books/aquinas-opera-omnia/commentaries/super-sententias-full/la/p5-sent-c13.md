@@ -1,6 +1,8 @@
 # D. 12 - Defects of Christ's human nature as created
 
-****Post praedicta quaeritur etc*. Postquam ostendit Magister quod nomen creaturae non praedicatur de Christo simpliciter, sed cum determinatione, hic inquirit de defectibus qui consequuntur naturam humanam, secundum quod creatura est. Et dividitur in partes duas.***
+***Divisio textus***
+
+*Post praedicta quaeritur etc*. Postquam ostendit Magister quod nomen creaturae non praedicatur de Christo simpliciter, sed cum determinatione, hic inquirit de defectibus qui consequuntur naturam humanam, secundum quod creatura est. Et dividitur in partes duas.  
 
 Primo inquirit de defectu qui communiter consequitur omnem creaturam, scilicet incipere esse.  
 
@@ -116,7 +118,7 @@ Articulus 2
 
 ***Utrum incepit esse Deus***
 
-***Ad secundum sciendumAll editions read *Ad septimum dicendum*, and there is not a second article. The Brussels manuscript begins *Et propterea ad secundum sciendum est quod*; Bruges, Paris (841, 842, and 843), and Angers manuscripts read as above. quod idem judicium est de ista: "homo incepit esse Deus," et "homo factus est Deus," et eaedem rationes utrobique fieri possunt. Et ideo requiraturEd. read *requiritur*. supra, d. 7, ubi inquisitum est: "utrum homo factus sit Deus."What the Latin text includes as the reply to the seventh objection (*Ad septimum..*.), the PLE includes as the entirety of article 2 (*Ad secundum*...), which latter is absent from the Latin text. We are following the PLE.***
+Ad secundum sciendumAll editions read *Ad septimum dicendum*, and there is not a second article. The Brussels manuscript begins *Et propterea ad secundum sciendum est quod*; Bruges, Paris (841, 842, and 843), and Angers manuscripts read as above. quod idem judicium est de ista: "homo incepit esse Deus," et "homo factus est Deus," et eaedem rationes utrobique fieri possunt. Et ideo requiraturEd. read *requiritur*. supra, d. 7, ubi inquisitum est: "utrum homo factus sit Deus."What the Latin text includes as the reply to the seventh objection (*Ad septimum..*.), the PLE includes as the entirety of article 2 (*Ad secundum*...), which latter is absent from the Latin text. We are following the PLE.  
 
 Quaestio 2  
 
@@ -234,7 +236,7 @@ Praeterea, *quod est inassumptibile, est incurabile,* ut dicit Damascenus. Sed s
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod debuit assumere femineum. Reparatio enim respondet ruinae. Sed prima ruina fuit per feminam. Ergo et principium reparationis debuit esse per feminam. Hoc autem est Christus. Ergo, etc.***
+Ulterius, videtur quod debuit assumere femineum. Reparatio enim respondet ruinae. Sed prima ruina fuit per feminam. Ergo et principium reparationis debuit esse per feminam. Hoc autem est Christus. Ergo, etc.  
 
 Praeterea, Christus assumpsit defectus nostrae naturae. Sed fragilitas sexus feminei est quidam defectus. Ergo debuit assumere ipsum.  
 
@@ -246,7 +248,7 @@ Praeterea, Christus, ut esset doctor Ecclesiae, promittitur Joel. Sed mulieri no
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem quod Christus venit ad reparandam humanam naturam quam per assumptionem reparavit. Et ideo oportuit quod quidquid per se consequitur ad humanam naturam assumeret, scilicetBruges manuscript reads *secundum*. omnes proprietates et partes humanae naturae, inter quas est etiam sexus. Et ideo decuit quod sexum assumeret.***
+Respondeo ad primam quaestionem quod Christus venit ad reparandam humanam naturam quam per assumptionem reparavit. Et ideo oportuit quod quidquid per se consequitur ad humanam naturam assumeret, scilicetBruges manuscript reads *secundum*. omnes proprietates et partes humanae naturae, inter quas est etiam sexus. Et ideo decuit quod sexum assumeret.  
 
 Ad primum ergo dicendum quod in corpore mystico nonEd. omit *non*. dicitur non esse masculus etEd. read *aut*. femina,Ed. add *non*.. quia non sit sexuum differentia, sed quia indifferenter se habet ad ipsum corpus mysticum uterque sexus; quia corpus mysticum non est una persona, sicut estBruges manuscript reads *et*. ipse Christus. Unde in eo non potuit esse uterque sexus, quia hoc esset monstruosum et innaturale.  
 
@@ -256,7 +258,7 @@ Ad tertium dicendum quod aequaliter se habet quantum ad potentiam, sed non quant
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod non loquimur hic de potentia Dei, quia ipse potuit assumere quale corpus voluit. De congruitate autem loquendo, quia Christus venit ut doctor et rectorBruges manuscript omits *et rector*; the Brussels manuscript omits *et*. et propugnator humani generis: quae mulieri non competunt; ideo nec competens fuit quod sexum femineum assumeret.***
+Ad secundam quaestionem dicendum quod non loquimur hic de potentia Dei, quia ipse potuit assumere quale corpus voluit. De congruitate autem loquendo, quia Christus venit ut doctor et rectorBruges manuscript omits *et rector*; the Brussels manuscript omits *et*. et propugnator humani generis: quae mulieri non competunt; ideo nec competens fuit quod sexum femineum assumeret.  
 
 Ad primum ergo dicendum quod reparatio debet respondere ruinae per oppositum. Unde sicut principium perditionis fuit natura fragilior; ita principium reparationis debet esse natura fortior, sicut sanatio in corpore hominis est per cordis virtutem quod habet fortiorem sanitatem. Vel dicendum quod per mulierem non intravit peccatum originale in mundum, sed per virum, sicut in lib. 2 dictum est, quamvis a muliere initium habuit peccatum; ita etiam per virum habuit perfici opus salutis nostrae, quod aliquo modo initiatum est per mulierem, scilicet perEd. omit *per*. Beatam Virginem.  
 
@@ -284,7 +286,7 @@ Praeterea, sequeretur quod Christus haberet duos patres, quod nusquam invenitur.
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod debuit assumere corpus de viro tantum. Quia reparatio debet respondere conditioni. Sed in conditione humani generis est aliquid formatum ex viro tantum. Ergo et sic debuit esse in reparatione.***
+Ulterius, videtur quod debuit assumere corpus de viro tantum. Quia reparatio debet respondere conditioni. Sed in conditione humani generis est aliquid formatum ex viro tantum. Ergo et sic debuit esse in reparatione.  
 
 Praeterea, Generans est simile generato. Sed Christus debuit esse masculini sexus. Ergo de masculo debuit corpus ejus assumi.  
 
@@ -292,7 +294,7 @@ Sed contra, Christus venit utrumque sexum salvare. Sed ipse fuit vir. Ergo debui
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod nullo modoThe Vivès edition omits *modo*. congruebat quod per commixtionem sexuum carnem assumeret. Primo, propter dignitatem matris, ut purissima esset et ita virgo. Secundo, propter dignitatem Patris, ut non esset alius pater sui Filii. Tertio, propter dignitatem concepti, quia non decuit ut illa caro formaretur nisi a Spiritu Sancto. Quarto, propter unitatem personae, ad quam caro illa assumpta est. Unde decuit ut sicut per virtutem infinitam assumpta est; ita etiamEd. omit *etiam*. formaretur per virtutem infinitam. Hoc autem esse non potuisset, si per commixtionem sexus concepta fuisset, quia vel semen viri fuisset ibi pro nihilo vel fuisset agens in conceptione.***
+Respondeo dicendum ad primam quaestionem quod nullo modoThe Vivès edition omits *modo*. congruebat quod per commixtionem sexuum carnem assumeret. Primo, propter dignitatem matris, ut purissima esset et ita virgo. Secundo, propter dignitatem Patris, ut non esset alius pater sui Filii. Tertio, propter dignitatem concepti, quia non decuit ut illa caro formaretur nisi a Spiritu Sancto. Quarto, propter unitatem personae, ad quam caro illa assumpta est. Unde decuit ut sicut per virtutem infinitam assumpta est; ita etiamEd. omit *etiam*. formaretur per virtutem infinitam. Hoc autem esse non potuisset, si per commixtionem sexus concepta fuisset, quia vel semen viri fuisset ibi pro nihilo vel fuisset agens in conceptione.  
 
 Ad primum ergo dicendum quod debuit fratribus assimilari in his quae non derogant dignitati ejus vel perfectioni naturae assumptae, vel quae faciunt ad opus redemptionis. Sed hoc non est hujusmodi.  
 
@@ -302,7 +304,7 @@ Ad tertium dicendum quod sicut Christus per suam innocentiam nostram culpam abst
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod decuit ut de muliere carnem assumeret. Primo, ut uterque sexus glorificaretur Christi Incarnatione, ut in objectione tactum est. Secundo, ad completionem universi; quia generatio viri de muliere tantum nunquamEd. read *nusquam*. fuerat; sed mulieris de viro fuerat, scilicet in Eva; et viri de utroque, sicut in Abel et aliis; et viri de neutro, sicut in Adam. Tertio, ut naturalem habitudinem haberet ad genus humanum. Si enim ex viro fuisset non per actionem viri, filius ejus non esset, nec naturalis nepos Abrahae; sicut est naturalis filius Virginis ex hoc solo quod carnem ab ea sumpsit.Bruges manuscript reads *assumpsit*.***
+Ad secundam quaestionem dicendum quod decuit ut de muliere carnem assumeret. Primo, ut uterque sexus glorificaretur Christi Incarnatione, ut in objectione tactum est. Secundo, ad completionem universi; quia generatio viri de muliere tantum nunquamEd. read *nusquam*. fuerat; sed mulieris de viro fuerat, scilicet in Eva; et viri de utroque, sicut in Abel et aliis; et viri de neutro, sicut in Adam. Tertio, ut naturalem habitudinem haberet ad genus humanum. Si enim ex viro fuisset non per actionem viri, filius ejus non esset, nec naturalis nepos Abrahae; sicut est naturalis filius Virginis ex hoc solo quod carnem ab ea sumpsit.Bruges manuscript reads *assumpsit*.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo*. dicendum quod non oportet quod per omnia reparatio similis sit conditioni, sed quantum attinet ad finem reparationis.  
 
@@ -310,7 +312,7 @@ Ad secundum dicendum quod non oportet quod assimiletur sexu generans genito,Brug
 
 Expositio textus  
 
-****Hic distinctione opus est*. Hoc non dicit Magister, quinThe Vivès edition reads *quia*. locutio sit simpliciter falsa, sed ut ostendat quantum potest habere de veritate.***
+*Hic distinctione opus est*. Hoc non dicit Magister, quinThe Vivès edition reads *quia*. locutio sit simpliciter falsa, sed ut ostendat quantum potest habere de veritate.  
 
 *An de ea secundum quod esse potuit, et non unita Verbo*. Patet quod hoc quod potuit esse aliter, non mutat aliquid de veritate ejus quod est; nec ista consideratio naturae humanae, ut non unitae, est in re, sed in intellectu tantum.  
 

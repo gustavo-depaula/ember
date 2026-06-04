@@ -1,5 +1,7 @@
 # C. 18 - The potter’s clay
 
+***Lectio 1***
+
 ***^18:1^ Verbum quod factum est ad Jeremiam a Domino, dicens:***
 
 > ^18:2^ surge et descende in domum figuli, et ibi audies verba mea.
@@ -50,7 +52,7 @@ Secundo responsio: ***ecce sicut lutum***: Sapien. 7: *in manu ipsius et nos, et
 
 Lectio 2  
 
-***^18:7^ Repente loquar adversum gentem, et adversus regnum, ut eradicem, et destruam, et disperdam illud.***
+^18:7^ Repente loquar adversum gentem, et adversus regnum, ut eradicem, et destruam, et disperdam illud.  
 
 > ^18:8^ Si poenitentiam egerit gens illa a malo suo quod locutus sum adversus eam agam et ego poenitentiam super malo quod cogitavi ut facerem ei.
 
@@ -84,7 +86,7 @@ Secundo concludit poenitentiam: ***revertatur unusquisque a via sua mala, et via
 
 Lectio 3  
 
-***^18:12^ Qui dixerunt: desperavimus: post cogitationes enim nostras ibimus, et unusquisque pravitatem cordis sui mali faciemus.***
+^18:12^ Qui dixerunt: desperavimus: post cogitationes enim nostras ibimus, et unusquisque pravitatem cordis sui mali faciemus.  
 
 > ^18:13^ Ideo haec dicit Dominus: interrogate gentes. Quis audivit talia horribilia, quae fecit nimis virgo Israel?
 
@@ -118,7 +120,7 @@ Tertio divini auxilii cessionem. ***Dorsum***, ad modum hominis irati. Deut. 32:
 
 Lectio 4  
 
-***^18:18^ Et dixerunt: venite, et cogitemus contra Jeremiam cogitationes: non enim peribit lex a sacerdote, neque consilium a sapiente, nec sermo a propheta. Venite, et percutiamus eum lingua, et non attendamus ad universos sermones ejus.***
+^18:18^ Et dixerunt: venite, et cogitemus contra Jeremiam cogitationes: non enim peribit lex a sacerdote, neque consilium a sapiente, nec sermo a propheta. Venite, et percutiamus eum lingua, et non attendamus ad universos sermones ejus.  
 
 > ^18:19^ Attende, Domine, ad me, et audi vocem adversariorum meorum.
 
@@ -152,7 +154,7 @@ Secundo excludit sententiae revocationem, excludens misericordiam: ***de propiti
 
 Collationes  
 
-***Notandum, quod est quidam ***sibilus*** bonus divinae inspirationis. Zech. 10: *sibilabo eis, et congregabo illos quia redemi eos*. Humilis confirmationis. 3 Reg. 19: *post ignem sibilus aurae tenuis*. Compassionis. Infra 49: ***omnis qui transibit per eam stupebit, et sibilabit super omnes plagas ejus***.***
+Notandum, quod est quidam ***sibilus*** bonus divinae inspirationis. Zech. 10: *sibilabo eis, et congregabo illos quia redemi eos*. Humilis confirmationis. 3 Reg. 19: *post ignem sibilus aurae tenuis*. Compassionis. Infra 49: ***omnis qui transibit per eam stupebit, et sibilabit super omnes plagas ejus***.  
 
 Item est ***sibilus*** malus iniquae persuasionis. Sapient. 17: *serpentum sibilatione commoti, tremebundi peribant*. Insultationis. Thren. 2: *omnes transeuntes per viam sibilaverunt, et moverunt capita sua super filiam Jerusalem: haeccine est urbs, dicentes, perfecti decoris, gaudium universae terrae?* Et stuporis. Infra 25: ***ponam eos in stuporem, et sibilum in solitudines sempiternas***.  
 

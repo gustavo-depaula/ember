@@ -1,8 +1,10 @@
 # D. 16 - Visible sending of the Holy Spirit
 
+***Visible sending of the Holy Spirit***
+
 ***Division of the text***
 
-***After having considered the temporal procession of the Holy Spirit in common, here he descends to his specific modes of sending. And this is divided into two parts: in the first, he considers his visible sending; in the second, the invisible (Distinction 17), at *let us now proceed to set out the sending of the Holy Spirit, by which he is invisibly sent into the hearts of the faithful*.*Sent*. I, 16.1(58).1; I, 17.***
+After having considered the temporal procession of the Holy Spirit in common, here he descends to his specific modes of sending. And this is divided into two parts: in the first, he considers his visible sending; in the second, the invisible (Distinction 17), at *let us now proceed to set out the sending of the Holy Spirit, by which he is invisibly sent into the hearts of the faithful*.*Sent*. I, 16.1(58).1; I, 17.  
 
 The first is divided into two: in the first, he distinguishes two modes of temporal procession of the Holy Spirit; in the second, he manifests its difference from the visible sending of the Son, at *but first it must be asked*.*Sent*. I, 16.1(58).3.  
 
@@ -28,7 +30,7 @@ Article 1
 
 ***Whether a visible sending befits a divine person***
 
-***To the first we proceed as follows. It seems that a visible sending does not befit a divine person.***
+To the first we proceed as follows. It seems that a visible sending does not befit a divine person.  
 
 Obj. 1: For sending occurs insofar as a divine person is present in someone in a new way that he was not before.Above, d. 15, q. 1, a. 1. But in no visible creature can he be present in a way that he was not present before, for he is in all created things by his essence, power, and presence; and besides this, he is in the minds of the holy through grace, in which way he cannot be present by any visible body. Therefore it seems that there is no visible sending.  
 
@@ -62,9 +64,9 @@ Reply Obj. 6: Although one visible creature is not enough to lead one to the kno
 
 Article 2  
 
-***Whether the visible sending should have been made to the fathers of the Old Testament***
+Whether the visible sending should have been made to the fathers of the Old Testament  
 
-***To the second we proceed as follows. It seems that the visible sending should have been made also to the fathers of the Old Testament.***
+To the second we proceed as follows. It seems that the visible sending should have been made also to the fathers of the Old Testament.  
 
 Obj. 1: For the visible sending is a sign of the invisible sending. But the invisible sending did happen to the fathers of the Old Testament, as was said above.Above, d. 15, q. 5, a. 2. Therefore it seems that the visible one should have happened as well.  
 
@@ -94,7 +96,7 @@ Article 3
 
 ***Whether the visible sending occurs only by means of a bodily appearance***
 
-***To the third we proceed as follows. It seems that the visible sending occurs not merely in a bodily appearance.***
+To the third we proceed as follows. It seems that the visible sending occurs not merely in a bodily appearance.  
 
 Obj. 1: For there are three kinds of sending: bodily, imaginary, and intellectual, as is said in a Gloss of Isaiah.Three kinds of vision (*genera visionis*) are noted in the *Glossa Ordinaria*, at Isaiah 1:1, 4.9 (PL 113:1231). The Latin of the Parma edition refers to a “Gloss of Isidore” rather than “of Isaiah,” and Isidore does enumerate the three kinds of vision in his own work: *The Etymologies*, bk. 7, ch. 8, paras. 36–40 (PL 82:286). Now, a manifestation of divine things can occur in each of these. Therefore it seems that just as there is a certain sending that happens according to intellectual vision, that is, through invisible grace, and another that happens according to bodily vision, that is, according to bodily appearances, so too there is one that happens according to an imaginary vision, through imaginary appearances.  
 
@@ -136,7 +138,7 @@ Article 4
 
 ***Whether the visible appearances were formed by the ministry of the angels***
 
-***To the fourth we proceed as follows. It seems that those visible appearances were not formed by the ministry of the angels.***
+To the fourth we proceed as follows. It seems that those visible appearances were not formed by the ministry of the angels.  
 
 Obj. 1: For Augustine saysAugustine, *On the Trinity*, bk. 3, ch. 11 (CCSL 50; PL 42:882). that God’s locutions were not performed by means of angels in the New Testament, but by God himself. Therefore that voice or the sound that was made in the New Testament in Matthew 17:5—*this is my beloved Son*—was not formed by angels. And for the same reason none of the others that pertain to the visible sending were.  
 
@@ -166,7 +168,7 @@ Reply Sed Contra 5: Dionysius’s statement holds true in the effects that can c
 
 Exposition of the text  
 
-****And even ‘was made a little lower than the angels.’**Sent*. I, 16.2(59).3, quoting Alypius and Augustine, *Epistulae*, letter 170 (CSEL 44:629; PL 33:750), and Hebrews 2:9. But on the contrary, in a Gloss on Hebrews 5, it is said that *there is nothing better than the human nature that the Son of God assumed, other than God alone*.This seems to be a reference to *Glossa ordinaria*, at Hebrews 2:9, 6.813 (PL 114:647). But it should be said in response that he is called “less” only in a certain respect, that is, on account of the suffering of the body, but not on account of the inferiority of the nature assumed with regard to that individual in whom it was assumed. Although, it is not universally true of human nature that it is not inferior to the angels.***
+*And even ‘was made a little lower than the angels.’**Sent*. I, 16.2(59).3, quoting Alypius and Augustine, *Epistulae*, letter 170 (CSEL 44:629; PL 33:750), and Hebrews 2:9. But on the contrary, in a Gloss on Hebrews 5, it is said that *there is nothing better than the human nature that the Son of God assumed, other than God alone*.This seems to be a reference to *Glossa ordinaria*, at Hebrews 2:9, 6.813 (PL 114:647). But it should be said in response that he is called “less” only in a certain respect, that is, on account of the suffering of the body, but not on account of the inferiority of the nature assumed with regard to that individual in whom it was assumed. Although, it is not universally true of human nature that it is not inferior to the angels.  
 
 *Hilary appears to say that the Father is greater than the Son, and yet the Son is not less than the Father*.*Sent*. I, 16.2(59).4. This seems impossible, since more and less are spoken of relative to each other, so if the Father is greater, then the Son is lesser. To this some say that the Father is said to be greater than the Son because he has more notions, but neither is the Son less, since one of the Father’s notions, that is, innascibility, does not have a corresponding notion in the Son, based on which the Son could be called lesser.On the five notions (*notiones*) in the Trinity (namely: *innascibilitas*, *paternitas*, *filiatio*, *communis spiratio*, and *processio*), see *In I Sent*., d. 26, q. 2, a. 3; d. 28, q. 1, a. 1. But proper usage does not admit this. For equality or inequality is not considered in reference to relations, as will be shown below based on the words of Augustine.Below, d. 19, q. 1, a. 1. Further, nothing is called greater based on more properties, but only based on greater quantity. And this is also outside Hilary’s intention, as the subsequent words show.*Sent*. I, 16.2(59).4, quoting Hilary, *On the Trinity*, bk. 9, ch. 54 (CCSL 62A; PL 10:325).  
 

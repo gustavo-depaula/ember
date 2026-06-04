@@ -1,5 +1,7 @@
 # Proposition 26
 
+***187. Omnis substantia stans per se ipsam est non cadens sub corruptione.***
+
 > 188. Si autem aliquis dicat: possibile est, ut substantia stans per se ipsam cadat sub corruptione, dicemus: si possibile est, ut substantia stans per se ipsam cadat sub corruptione, possibile est, ut separetur eius essentia et sit fixa, stans per essentiam suam sine essentia sua. Et hoc est inconveniens et impossibile, quoniam, propterea quod est una, simplex, non composita, est ipsa causa et causatum simul. Omnis autem cadentis sub corruptione non fit corruptio nisi propter separationem suam a causa sua; dum vero permanet res pendens per causam suam retinentem eam et servantem eam, non perit neque destruitur. Si ergo hoc ita est, substantiae stantis per essentiam suam non separatur causa semper, quoniam est inseparabilis ab essentia sua, propterea quod causa eius est ipsa in formatione sui.
 
 > 189. Et non fit causa sui ipsius nisi propter relationem suam ad causam suam; et illa relatio est formatio eius. Et propterea, quia est semper relata ad causam suam et ipsa est causa illius relationis, est ipsa causa sui ipsius per modum, quem diximus, quia non perit neque etiam destruitur, quoniam est causa et causatum simul, sicut ostendimus nuper.

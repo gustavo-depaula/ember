@@ -1,5 +1,7 @@
 # Chapter 33
 
+^33:1^ Woe to you that spoils, shall not you yourself also be spoiled? And you that despises, shall not yourself also be despised? When you shall have made an end of spoiling, you shall be spoiled: when being wearied you shall cease to despise, you shall be despised.  
+
 > ^33:2^ O Lord, have mercy on us: for we have waited for you: be you our arm in the morning, and our salvation in the time of trouble.
 
 > ^33:3^ At the voice of the angel the people fled, and at the lifting up yourself the nations are scattered.

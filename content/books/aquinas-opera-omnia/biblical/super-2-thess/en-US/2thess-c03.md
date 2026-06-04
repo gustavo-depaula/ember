@@ -1,10 +1,12 @@
 # C. 2 - The End Times
 
+***The End Times***
+
 ***Lecture 1***
 
 ***The dangers to the Church***
 
-***^2:1^ And we beseech you, brethren, by the coming of our Lord Jesus Christ and of our gathering together unto him: [n. 27]***
+^2:1^ And we beseech you, brethren, by the coming of our Lord Jesus Christ and of our gathering together unto him: [n. 27]  
 
 > ^2:2^ That you be not easily moved from your sense nor be terrified, neither by spirit nor by word nor by epistle as sent from us, as if the day of the Lord were at hand. [n. 29]
 
@@ -126,7 +128,7 @@ Lecture 2
 
 ***The Antichrist***
 
-***^2:6^ And now you know what withholds, that he may be revealed in his time. [n. 42]***
+^2:6^ And now you know what withholds, that he may be revealed in his time. [n. 42]  
 
 > ^2:7^ For the mystery of iniquity is already at work: only so that he who now holds, should hold until he be taken out of the way. [n. 44]
 
@@ -202,7 +204,7 @@ Lecture 3
 
 ***Stand fast in the faith***
 
-***^2:10^ And in all seduction of iniquity to those who perish: [n. 51] because they do not receive the love of the truth, that they might be saved. [n. 52]***
+^2:10^ And in all seduction of iniquity to those who perish: [n. 51] because they do not receive the love of the truth, that they might be saved. [n. 52]  
 
 > ^2:11^ Therefore God shall send them the operation of error, to believe lying:
 

@@ -1,5 +1,7 @@
 # About Spiritual Substances
 
+***Quaestio 1***
+
 ***De cognitione earum***
 
 ***De tribus quaesitum est:***
@@ -32,7 +34,7 @@ Articulus 1
 
 ***Utrum aliquis intellectus creatus possit divinam essentiam videre immediate***
 
-***Ad primum sic proceditur. Videtur quod nullus intellectus creatus possit essentiam divinam immediate videre.***
+Ad primum sic proceditur. Videtur quod nullus intellectus creatus possit essentiam divinam immediate videre.  
 
 Intellectus enim creatus, cum indifferenter se habeat ad omnia intelligibilia, cognoscere non potest aliquid determinate nisi per obiectum suum determinetur; sed essentia divina non est obiectum quod possit intellectum determinare, quia est summum in entibus et maximae generalitatis nullo modo determinatum; ergo intellectus creatus ipsam videre non potest.  
 
@@ -66,7 +68,7 @@ Articulus 2
 
 ***Utrum intellectus creatus possit simul plura intelligere***
 
-***Ad secundum sic proceditur. Videtur quod intellectus creatus possit simul plura intelligere.***
+Ad secundum sic proceditur. Videtur quod intellectus creatus possit simul plura intelligere.  
 
 Potentia enim sensitiva, cum sit materialis, est magis contracta quam intellectiva; sed sensus potest simul plura sentire, sicut sensus communis simul sentit album et dulce dum eorum differentiam cognoscit; ergo intellectus multo fortius potest simul plura intelligere.  
 
@@ -104,7 +106,7 @@ Articulus 3
 
 ***Utrum intellectus angelicus possit cognoscere singularia***
 
-***Ad tertium sic proceditur. Videtur quod intellectus angelicus non possit cognoscere singularia.***
+Ad tertium sic proceditur. Videtur quod intellectus angelicus non possit cognoscere singularia.  
 
 Si enim cognoscit, aut cognoscit per speciem acquisitam, aut per concreatam; sed non per speciem acquisitam, quia illa species vel esset particularis et per consequens materialis et ita in intellectu angeli immateriali esse non posset, vel esset universalis et sic per eam singulare cognosci non posset; similiter nec per speciem concreatam, quia species concreata angelo, a principio suae creationis fuit in ipso, ad cognitionem autem alicuius sufficit quod species eius sit in intellectu et ita, si per speciem concreatam posset aliquod particulare cognosci dum est praesens, a principio creationis suae illud cognovisset quando adhuc erat futurum, quod non potest esse, quia futura cognoscere solius Dei est, Isaiae XLI: *annuntiate quae ventura sunt in futurum et sciemus quia dii estis vos*; ergo angelus singularia cognoscere non potest.  
 
@@ -144,7 +146,7 @@ Articulus 4
 
 ***Utrum notitia quam Augustinus dicit prolem mentis sit accidens vel non***
 
-***Ad quartum sic proceditur. Videtur quod notitia quae ab Augustino ponitur proles mentis non sit in mente sicut accidens in subiecto.***
+Ad quartum sic proceditur. Videtur quod notitia quae ab Augustino ponitur proles mentis non sit in mente sicut accidens in subiecto.  
 
 Nullum enim accidens excedit suum subiectum; sed notitia excedit mentem, quia mens non solum se ipsam, sed et alia per notitiam novit; ergo notitia non est accidens mentis.  
 
@@ -166,7 +168,7 @@ Quaestio 2
 
 ***De fruitione animae Christi in passione***
 
-***Deinde quaeritur de fruitione animae Christi in passione. Et videtur quod illa fruitio pervenerit usque ad essentiam animae.***
+Deinde quaeritur de fruitione animae Christi in passione. Et videtur quod illa fruitio pervenerit usque ad essentiam animae.  
 
 Anima enim Christi perfecte fruebatur; sed non esset perfecta fruitio si ad essentiam animae non perveniret, sed consisteret in una tantum potentia, scilicet superiori ratione; ergo pervenit usque ad essentiam animae.  
 
@@ -184,7 +186,7 @@ Quaestio 3
 
 ***De pluralitate in substantiis spiritualibus inventa***
 
-***Deinde quaeritur de pluralitate in substantiis spiritualibus inventa. Et circa hoc quaeruntur duo:***
+Deinde quaeritur de pluralitate in substantiis spiritualibus inventa. Et circa hoc quaeruntur duo:  
 
 primo, utrum immensitas divina excludat pluralitatem personarum;  
 
@@ -194,7 +196,7 @@ Articulus 1
 
 ***Utrum immensitas divina excludat pluralitatem personarum***
 
-***Ad primum sic proceditur. Videtur quod immensitas divina excludat pluralitatem personarum.***
+Ad primum sic proceditur. Videtur quod immensitas divina excludat pluralitatem personarum.  
 
 Omne enim immensum, cum sit indeterminatum, stat in uno; sed quidquid est in divinis, est immensum; cum ergo persona sit in divinis, stabit in uno, ita quod non erunt ibi plures personae.  
 
@@ -216,7 +218,7 @@ Articulus 2
 
 ***Utrum angelica simplicitas patiatur compositionem ex accidente et subiecto***
 
-***Ad secundum sic proceditur. Videtur quod in angelis non sit compositio accidentis et subiecti.***
+Ad secundum sic proceditur. Videtur quod in angelis non sit compositio accidentis et subiecti.  
 
 Quia esse accidentale causatur ab esse substantiali, ergo et compositio accidentalis a substantiali; sed in angelis non est compositio substantialis, quia sunt substantiae simplices, ut dicit Dionysius; ergo nec compositio accidentalis.  
 

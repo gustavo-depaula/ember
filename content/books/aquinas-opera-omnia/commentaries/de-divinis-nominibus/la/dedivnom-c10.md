@@ -1,10 +1,12 @@
 # C. 9 - On Small, Great, Same, Other, Like, Unlike, Station, Session, Motion, Equality
 
+De parvo, magno, eodem, altero, simili, dissimili, statione, sessione, motu, aequalitate  
+
 ***Lectio 1***
 
 ***De magno et parvo; secundum quam rationem de Deo dicantur***
 
-***C. IX, § 1. 357. Quoniam autem et magnum et parvum attributum est omnium causae et idem et alterum et simile et dissimile et status et motus, age et horum insignium in quibus Deus nominatur, quaecumque sunt nobis manifesta, contemplemur.***
+C. IX, § 1. 357. Quoniam autem et magnum et parvum attributum est omnium causae et idem et alterum et simile et dissimile et status et motus, age et horum insignium in quibus Deus nominatur, quaecumque sunt nobis manifesta, contemplemur.  
 
 > 358. Igitur magnus quidem in eloquiis Deus laudatus est et in magnitudine et in aura subtili, divinam manifestante parvitatem; et idem, quando dicunt eloquia: *tu autem idem ipse es*; et alter, quando sicut multae figurae et multae formae ab eisdem eloquiis componitur; et similis, sicut similium et similitudinis substantificator; et dissimilis omnibus, sicut quod non sit Ipsi simile; et stans et immobilis et sedens in saecula; et motus, sicut ad omnia ambulans; et quaecumque aliae istis aequipollentes Dei nominationes ab eloquiis laudantur.
 
@@ -156,7 +158,7 @@ Lectio 2
 
 ***De eodem et altero, quomodo Deo attribuantur***
 
-***§4. 366. Idem autem est supersubstantialiter aeternum et inconversibile in seipso manens, semper secundum eadem et eodem modo habens, omnibus eodem modo praesens,***
+§4. 366. Idem autem est supersubstantialiter aeternum et inconversibile in seipso manens, semper secundum eadem et eodem modo habens, omnibus eodem modo praesens,  
 
 > 367. et ipsum, secundum seipsum, in seipso, firme et incontaminate in optimis finibus abundantis identitatis collocatum,
 
@@ -288,7 +290,7 @@ Lectio 3
 
 ***De simili et dissimili, quomodo Deo attribuantur***
 
-***§ 6. 373. Similem autem Deum si dicat aliquis quidem ut eumdem, sicut totum per totum sibi ipsi singulariter et indivisibiliter existentem similem, non est improbanda nobis similis Dei nominatio.***
+§ 6. 373. Similem autem Deum si dicat aliquis quidem ut eumdem, sicut totum per totum sibi ipsi singulariter et indivisibiliter existentem similem, non est improbanda nobis similis Dei nominatio.  
 
 > 374. Theologi autem existentem super omnia Deum, secundum quod ipse est, nulli dicunt esse similem; ipsum autem similitudinem divinam dare his qui ad ipsum existentem super omnem diffinitionem et rationem convertuntur secundum virtutem imitatione; et est divinae similitudinis virtus quae advenientia omnia ad causam convertit. Ista igitur dicere convenit similia Deo et ea secundum divinam imaginem et assimilationem; neque enim ipsis Deum esse similem, quoniam neque proprie homo imagini est similis. Etenim in coordinatis quidem possibile est et similia ipsa sibi invicem esse et convertere ad alterutra, similitudine et esse ambo sibi invicem similia secundum praecedentem similis speciem; in causa autem et causatis non recipiemus conversionem: non enim solis istis vel istis, simile esse donatum est.
 
@@ -340,7 +342,7 @@ Lectio 4
 
 ***De statione et sessione; de motu; de aequalitate quomodo Deo attribuantur***
 
-***§ 8. 377. Quid autem et de divina statione aut sessione dicimus? Quid autem aliud quidem praeter hoc quod manet in seipso ipse Deus et immobili identitate singulariter est fixus et supercollocatus; et quod secundum eadem et circa idem et eodem modo operatur; et secundum quod ipse intransmutabilis est ex seipso omnino; et quod non potest ipse in contrarium moveri et totaliter est immobilis;***
+§ 8. 377. Quid autem et de divina statione aut sessione dicimus? Quid autem aliud quidem praeter hoc quod manet in seipso ipse Deus et immobili identitate singulariter est fixus et supercollocatus; et quod secundum eadem et circa idem et eodem modo operatur; et secundum quod ipse intransmutabilis est ex seipso omnino; et quod non potest ipse in contrarium moveri et totaliter est immobilis;  
 
 > 378. Et hoc supersubstantialiter: ipse enim est omnium stationis et sedis causa, qui est super omnem sedem et stationem *et in ipso cuncta consistunt* ex propriorum bonorum statione incommota custodita.
 

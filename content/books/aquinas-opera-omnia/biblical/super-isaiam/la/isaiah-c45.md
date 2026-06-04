@@ -1,5 +1,7 @@
 # Chapter 43
 
+^43:1^ Et nunc hæc dicit Dominus creans te Jacob et formans te Israel: noli timere, quia redemi te et vocavi te nomine tuo; servus meus es tu.  
+
 > ^43:2^ Cum transieris per aquas tecum ero et flumina non operient te, cum ambulaveris in igne non combureris et flamma non ardebit in te;
 
 > ^43:3^ quia ego Dominus Deus tuus, Sanctus Israel, salvator tuus. Dedi propitiationem tuam Ægyptum, Æthopiam et Saba pro te.

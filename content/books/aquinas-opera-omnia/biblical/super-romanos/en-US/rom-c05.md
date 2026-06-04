@@ -1,10 +1,12 @@
 # C. 4 - Abraham’s Justification
 
+***Abraham’s Justification***
+
 ***Lecture 1***
 
 ***Abraham not justified by circumcision***
 
-***^4:1^ What shall we say then that Abraham has found, who is our father according to the flesh? [n. 322]***
+^4:1^ What shall we say then that Abraham has found, who is our father according to the flesh? [n. 322]  
 
 > ^4:2^ For if Abraham were justified by works, he has glory, but not before God. [n. 323]
 
@@ -156,7 +158,7 @@ Lecture 2
 
 ***Circumcision the seal of faith’s justice***
 
-***^4:11^ And he received the sign of circumcision, a seal of the justice of the faith which is in uncircumcision: that he might be the father of all those who believe, being uncircumcised: that unto them also it may be reputed to justice: [n. 341]***
+^4:11^ And he received the sign of circumcision, a seal of the justice of the faith which is in uncircumcision: that he might be the father of all those who believe, being uncircumcised: that unto them also it may be reputed to justice: [n. 341]  
 
 > ^4:12^ And he might be the father of circumcision; not to those only who are of the circumcision, but to those also who follow the steps of the faith that is in the uncircumcision of our father Abraham.
 
@@ -286,7 +288,7 @@ Lecture 3
 
 ***Abraham’s faith in the promise***
 
-***^4:16^ Therefore is it of faith, that according to grace the promise might be firm to all the seed: not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all, [n. 359]***
+^4:16^ Therefore is it of faith, that according to grace the promise might be firm to all the seed: not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all, [n. 359]  
 
 > ^4:17^ (As it is written: *I have made you a father of many nations*), before God, whom he believed: who quickens the dead and calls those things that are not, as those that are.
 

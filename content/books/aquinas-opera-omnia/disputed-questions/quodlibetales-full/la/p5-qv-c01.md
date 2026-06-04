@@ -1,5 +1,7 @@
 # On God
 
+***Quantum ad naturam divinam***
+
 ***Quaestio 1***
 
 ***De scientia Dei***
@@ -20,7 +22,7 @@ Articulus 1
 
 ***Utrum Deus sciat primum instans in quo potuit creare mundum***
 
-***Ad primum sic proceditur. Videtur quod Deus sciat primum instans in quo potuit mundum creare.***
+Ad primum sic proceditur. Videtur quod Deus sciat primum instans in quo potuit mundum creare.  
 
 Deus enim potuit creare mundum ante quam creaverit; non autem potuit creare ipsum in infinitum ante, quia sic esset ei coaeternus; ergo est dare aliquod instans in quo primo potuit creare mundum; sed Deus sua scientia totum comprehendit; ergo Deus scit primum instans in quo potuit creare mundum.  
 
@@ -82,7 +84,7 @@ Articulus 2
 
 ***Utrum Deus possit peccare, si vult***
 
-***Ad secundum sic proceditur. Videtur quod haec sit falsa: *Deus potest peccare, si vult*.***
+Ad secundum sic proceditur. Videtur quod haec sit falsa: *Deus potest peccare, si vult*.  
 
 De quocumque enim possum dicere quod homo potest facere illud si vult, potest etiam dici simpliciter quod homo potest facere illud; si igitur haec propositio est vera: *Deus potest peccare, si vult*, sequitur quod haec sit vera: *Deus potest peccare*; sed hoc est erroneum; ergo et primum.  
 
@@ -108,9 +110,9 @@ secundo, in quo Christus nobis magis signum dilectionis exhibuerit, utrum in hoc
 
 Articulus 1  
 
-***Utrum totus sanguis quem Christus in sua passione effudit, in resurrectione ad corpus eius redierit***
+Utrum totus sanguis quem Christus in sua passione effudit, in resurrectione ad corpus eius redierit  
 
-***Ad primum sic proceditur. Videtur quod totus sanguis Christi qui est in passione eius effusus, ad corpus eius in resurrectione redierit.***
+Ad primum sic proceditur. Videtur quod totus sanguis Christi qui est in passione eius effusus, ad corpus eius in resurrectione redierit.  
 
 Resurrectio enim nostra conformis erit resurrectioni Christi, secundum illud Philippensium III: *reformabit corpus humilitatis nostrae configuratum corpori claritatis suae*; sed ad corpus nostrum in resurrectione redibit totum quod fuit de veritate humanae naturae; sanguis autem Christi in passione effusus fuit de veritate humanae naturae, et sacer dicitur secundum illud: *quem sacer cruor perunxit fusus agni corpore*; ergo videtur quod ille sanguis Christi in passione effusus, in resurrectione ad corpus eius redierit.  
 
@@ -128,9 +130,9 @@ Et per hoc patet responsio ad obiecta.
 
 Articulus 2  
 
-***In quo Christus nobis magis signum dilectionis exhibuerit, utrum in hoc quod Christus passus est pro nobis, vel in hoc quod corpus suum dedit nobis sub sacramento in cibo***
+In quo Christus nobis magis signum dilectionis exhibuerit, utrum in hoc quod Christus passus est pro nobis, vel in hoc quod corpus suum dedit nobis sub sacramento in cibo  
 
-***Ad secundum sic proceditur. Videtur quod Christus maius dilectionis signum nobis ostendit tradendo corpus suum in cibum quam patiendo pro nobis.***
+Ad secundum sic proceditur. Videtur quod Christus maius dilectionis signum nobis ostendit tradendo corpus suum in cibum quam patiendo pro nobis.  
 
 Caritas enim patriae perfectior est quam caritas viae; sed beneficium illud quod nobis Christus contulit corpus suum dans nobis in cibum, magis assimulatur patriae caritati, in qua plene fruemur Deo; passio autem quam pro nobis subiit, magis assimilatur caritati viae, in qua nobis pro Christo imminet patiendum; ergo maius est dilectionis signum quod Christus corpus suum tradidit nobis in cibum quam quod passus est pro nobis.  
 

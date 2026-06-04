@@ -1,10 +1,12 @@
 # C. 4 - Endurance at the End
 
+***Patientia in Fine***
+
 ***Lectio 1***
 
 ***Instructiones de doctrina***
 
-***^4:1^ Testificor coram Deo, et Jesu Christo, qui judicaturus est vivos et mortuos, per adventum ipsius, et regnum ejus: [n. 129]***
+^4:1^ Testificor coram Deo, et Jesu Christo, qui judicaturus est vivos et mortuos, per adventum ipsius, et regnum ejus: [n. 129]  
 
 > ^4:2^ praedica verbum, insta opportune, importune: argue, obsecra, increpa in omni patientia, et doctrina.
 
@@ -180,7 +182,7 @@ Lectio 3
 
 ***Valete***
 
-***^4:8^ In reliquo reposita est mihi corona justitiae, quam reddet mihi Dominus in illa die, justus judex: non solum autem mihi, sed et iis, qui diligunt adventum ejus. [n. 158]***
+^4:8^ In reliquo reposita est mihi corona justitiae, quam reddet mihi Dominus in illa die, justus judex: non solum autem mihi, sed et iis, qui diligunt adventum ejus. [n. 158]  
 
 > ^4:9^ Festina ad me venire cito. [n. 154]
 

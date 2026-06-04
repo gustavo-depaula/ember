@@ -1,6 +1,8 @@
 # D. 8 - What belongs to the divine nature on account of the union
 
-****Post praedicta inquiri debet etc*. Postquam determinavit Magister de his quae conveniunt Deo incarnato, quasi exprimentia unionem, hic determinat de his quae conveniunt ei consequentia unionem.***
+***Divisio textus***
+
+*Post praedicta inquiri debet etc*. Postquam determinavit Magister de his quae conveniunt Deo incarnato, quasi exprimentia unionem, hic determinat de his quae conveniunt ei consequentia unionem.  
 
 Et dividitur in duas partes.  
 
@@ -44,7 +46,7 @@ Articulus 1
 
 ***Utrum solummodo viventium debeat dici nativitas***
 
-***Ad primum sic proceditur. Videtur quod non solummodo viventium debeat dici nativitas.***
+Ad primum sic proceditur. Videtur quod non solummodo viventium debeat dici nativitas.  
 
 Natum enim idem videtur quod genitum. Sed generatio invenitur in omnibus corporibus a lunari globo inferius, quae non omnia vivunt. Ergo non solum viventium videtur quod sit nativitas.  
 
@@ -120,7 +122,7 @@ Articulus 3
 
 ***Utrum natura divina in Christo sit nata de Virgine***
 
-***Ad tertium sic proceditur. Videtur quod natura divina in Christo sit nata de Virgine.***
+Ad tertium sic proceditur. Videtur quod natura divina in Christo sit nata de Virgine.  
 
 Filius enim Dei non dicitur natus de Virgine, nisi inquantum est incarnatus. Sed natura divina dicitur incarnata, ut supra d. 5 dictum est. Ergo ipsa debet dici nata de Virgine.  
 
@@ -150,7 +152,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod non sint ponendae duae Christi nativitates.***
+Ad quartum sic proceditur. Videtur quod non sint ponendae duae Christi nativitates.  
 
 Nasci enim non est naturae, sed personae. Sed in Christo est tantum una persona. Ergo et una nativitas.  
 
@@ -162,7 +164,7 @@ Sed contra, nullus dicitur filius alicujus nisi ratione alicujus nativitatis. Se
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod Christus non debeatEd. read *debet*. dici bis natus. Ratione enim ejus quod advenit alicui post esse completum, non dicitur aliquis natus; sicut homo non dicitur nasci quamvis eiEd. omit *ei*. capillus per aliquam nativitatem adveniat. Sed humanitas Christi advenit Filio Dei post esse completum. Ergo propter hoc non debet ipse dici natus, quod humanam naturam accepit.Ed. read *acceperit*.***
+Ulterius, videtur quod Christus non debeatEd. read *debet*. dici bis natus. Ratione enim ejus quod advenit alicui post esse completum, non dicitur aliquis natus; sicut homo non dicitur nasci quamvis eiEd. omit *ei*. capillus per aliquam nativitatem adveniat. Sed humanitas Christi advenit Filio Dei post esse completum. Ergo propter hoc non debet ipse dici natus, quod humanam naturam accepit.Ed. read *acceperit*.  
 
 Praeterea, hoc adverbium "bis" importat successionem actuum. Sed generationi aeternae non succedit temporalis, quia aeterna semper est; unde est simul cum temporali. Ergo ratione duplicis nativitatis non debet dici bis natus.  
 
@@ -172,7 +174,7 @@ Sed contra, hoc adverbium "bis" numerat actum cui adjungitur. Sed duplex est Chr
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod Christus processit a Patre aeternaliter, et a matre temporaliter; et utraque processio habet rationem nativitatis. Secundum enim processionem aeternam Filius est de substantia Patris, et exit ab eo in personam distinctam; et tamen est conjunctus Patri propter indivisionem substantiae, quia *Verbum apud Deum est.* Unde patet quod salvantur suo modo illa tria quae dicebantur supra esse de ratione nativitatis; et propter hoc dicitur oriri et gigni et nasci. Sed processio ejus temporalis qua procedit a matre, habet nativitatis rationem, sicut cujuslibet alterius qui ex matre sua nascitur. Unde sicut duae sunt ejus processiones, ut dictum est in 1 libro, ita etiam sunt duae nativitates.***
+Respondeo dicendum ad primam quaestionem quod Christus processit a Patre aeternaliter, et a matre temporaliter; et utraque processio habet rationem nativitatis. Secundum enim processionem aeternam Filius est de substantia Patris, et exit ab eo in personam distinctam; et tamen est conjunctus Patri propter indivisionem substantiae, quia *Verbum apud Deum est.* Unde patet quod salvantur suo modo illa tria quae dicebantur supra esse de ratione nativitatis; et propter hoc dicitur oriri et gigni et nasci. Sed processio ejus temporalis qua procedit a matre, habet nativitatis rationem, sicut cujuslibet alterius qui ex matre sua nascitur. Unde sicut duae sunt ejus processiones, ut dictum est in 1 libro, ita etiam sunt duae nativitates.  
 
 Ad primum ergo dicendum quod quamvis nasci sit personae, est tamen ejus ratione naturae. Unde secundum duas naturas quas per generationem accipit,Ed. read *accepit*. habet duas nativitates.  
 
@@ -182,7 +184,7 @@ Ad tertium dicendum quod quamvis non sit una ratio per univocationem aeternae et
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod "bis," cum sit adverbium, ponit numerum circa actum. Cum autem motus et actus numerentur tripliciter:—scilicet ex subjecto, quia est alius et alius agens; et ex terminis, quia est aliud et aliud quod agitur; et ex mensura actus, quia nunc et tunc agit,—hoc adverbium "bis" non importat numerum, nisi qui causatur ex diversa mensura. Unde non dicitur bis lectum esse, si duo simulEd. omit *simul*. legant nequeEd. read *nec*. si duoPLE: *duo simul*. libri simul legantur; sed quando diversis horis legitur.***
+Ad secundam quaestionem dicendum quod "bis," cum sit adverbium, ponit numerum circa actum. Cum autem motus et actus numerentur tripliciter:—scilicet ex subjecto, quia est alius et alius agens; et ex terminis, quia est aliud et aliud quod agitur; et ex mensura actus, quia nunc et tunc agit,—hoc adverbium "bis" non importat numerum, nisi qui causatur ex diversa mensura. Unde non dicitur bis lectum esse, si duo simulEd. omit *simul*. legant nequeEd. read *nec*. si duoPLE: *duo simul*. libri simul legantur; sed quando diversis horis legitur.  
 
 Quia autem in his quae aguntur in tempore non est alia mensura nisi tempus, et hoc non est aliud et aliud, nisi quandoPLE: *in quantum*. discontinuatur; ideo bis dicitur factum esse, quando aliquid cum interruptione factum est. Aeternitas autem et tempus sunt diversae mensurae secundum diversam naturam et non per discontinuationem. Unde quod fit in aeternitate et inEd. omit *in*. tempore, potest dici bis factum esse; quamvis id quod aeternum est, non interrumpatur nec cesset.  
 
@@ -244,4 +246,4 @@ Ad sextum dicendum quod si Pater carnem assumpsisset de Virgine, esset filius Vi
 
 Expositio textus  
 
-****Hoc est Deum nasci de Virgine*. Verum est, si humana natura dicatur homo; et si assumere dicatur ad se sumere etPLE: *et*. The other editions read *vel*. in se: quod divinae naturae non convenit.***
+*Hoc est Deum nasci de Virgine*. Verum est, si humana natura dicatur homo; et si assumere dicatur ad se sumere etPLE: *et*. The other editions read *vel*. in se: quod divinae naturae non convenit.

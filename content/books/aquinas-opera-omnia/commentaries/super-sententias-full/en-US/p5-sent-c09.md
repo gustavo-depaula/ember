@@ -1,8 +1,10 @@
 # D. 8 - What belongs to the divine nature on account of the union
 
+***What belongs to the divine nature on account of the union***
+
 ***Division of the text***
 
-***After the Master has considered what that belongs to God incarnate as expressing the union, here he considers what belongs to him consequent on the union.***
+After the Master has considered what that belongs to God incarnate as expressing the union, here he considers what belongs to him consequent on the union.  
 
 It is divided into two parts.  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Whether there is birth only among living things***
 
-***To the first we proceed as follows.Parallel: *ST* I.27.2. It appears that “birth” need not be said only of living things.***
+To the first we proceed as follows.Parallel: *ST* I.27.2. It appears that “birth” need not be said only of living things.  
 
 Obj. 1: For it appears that being born is the same as being begotten or generated. But generation is found in all bodies beneath the sphere of the moon, and not all of them are alive. Therefore it appears that birth is not only something belonging to living things.  
 
@@ -90,7 +92,7 @@ Article 2
 
 ***Whether the human nature in Christ was born***
 
-***To the second we proceed as follows.Parallel: *ST* III.35.1. It appears that the human nature in Christ was born.***
+To the second we proceed as follows.Parallel: *ST* III.35.1. It appears that the human nature in Christ was born.  
 
 Obj. 1: For, as was said above, the things that are said of the person or supposit, and not of the nature, belong only to what exists through itself, such as “hypostasis,” “thing of a nature,” and the like. But being born does not belong only to things existing through themselves, since it also belongs to its parts, for above it was noted that hair too is born.Above, d. 4, exposition of the text; also above*,* d. 8, a. 1, ad 5. Therefore being born belongs not only to the person or supposit alone, but even to a nature.  
 
@@ -124,7 +126,7 @@ Article 3
 
 ***Whether the divine nature in Christ was born of the Virgin***
 
-***To the third we proceed as follows. It appears that the divine nature in Christ was born of the Virgin.***
+To the third we proceed as follows. It appears that the divine nature in Christ was born of the Virgin.  
 
 Obj. 1: For the Son of God is said to be “born of the Virgin” only insofar as he is incarnate. But the divine nature is said to be incarnate, as was said above.Above, d. 5, q. 2, a. 2, ad 4. Therefore it should be said to be “born of the Virgin.”  
 
@@ -154,7 +156,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed as follows.Parallels: *ST* III.35.2; *De unione Verbi,* a. 2, ad 16; *Compend. theol.*, ch. 212. It appears that one should not assert two births of Christ.***
+To the fourth we proceed as follows.Parallels: *ST* III.35.2; *De unione Verbi,* a. 2, ad 16; *Compend. theol.*, ch. 212. It appears that one should not assert two births of Christ.  
 
 Obj. 1: For being born does not belong to a nature but to a person. But in Christ there is only one person. Therefore also one birth.  
 
@@ -166,7 +168,7 @@ On the contrary, no one is called a “son” except by reason of some birth. Bu
 
 Quaestiuncula 2  
 
-***Obj. 1: Further, it appears that Christ should not be said to be “born twice.” For someone is not said to be born by reason of what comes to him after complete existence does. For example, although hair comes to him through a certain birth, the man is not said to be “born” thereby. But Christ’s humanity comes to the Son of God after complete existence. Therefore he should not be said to be “born” on account of his receiving a human nature.***
+Obj. 1: Further, it appears that Christ should not be said to be “born twice.” For someone is not said to be born by reason of what comes to him after complete existence does. For example, although hair comes to him through a certain birth, the man is not said to be “born” thereby. But Christ’s humanity comes to the Son of God after complete existence. Therefore he should not be said to be “born” on account of his receiving a human nature.  
 
 Obj. 2: Furthermore, this adverb “twice” imports a succession of acts. But the temporal generation does not succeed the eternal, since the eternal is always, and so it is simultaneous with the temporal. Therefore he should not be said to be “born twice” by reason of a double birth.  
 
@@ -176,7 +178,7 @@ On the contrary, this adverb “twice” numbers the act to which it is joined. 
 
 Response to Quaestiuncula 1  
 
-***I answer that Christ has proceeded from the Father eternally and from his mother temporally, and each procession has the notion of a birth. For according to the eternal procession the Son is of the substance of the Father, and he goes forth from him unto a distinct person, and yet he is joined to the Father on account of their substance’s undividedness, since *the Word is with God*. Whence it is clear that the three things that earlierSee above, a. 1. were said to belong to the notion of “birth” are preserved here, in their own way, and on account of this he is said to “arise,” to be “brought forth,” and to be “born.” But his temporal procession, by which he proceeds from his mother, has the notion of “birth” as does that of anyone else who is born from his mother. This is why, just as his processions are two, as was said in Book I,*In I Sent.*, d. 14, q. 1, a. 2. so too his births are two.***
+I answer that Christ has proceeded from the Father eternally and from his mother temporally, and each procession has the notion of a birth. For according to the eternal procession the Son is of the substance of the Father, and he goes forth from him unto a distinct person, and yet he is joined to the Father on account of their substance’s undividedness, since *the Word is with God*. Whence it is clear that the three things that earlierSee above, a. 1. were said to belong to the notion of “birth” are preserved here, in their own way, and on account of this he is said to “arise,” to be “brought forth,” and to be “born.” But his temporal procession, by which he proceeds from his mother, has the notion of “birth” as does that of anyone else who is born from his mother. This is why, just as his processions are two, as was said in Book I,*In I Sent.*, d. 14, q. 1, a. 2. so too his births are two.  
 
 Reply Obj. 1: Although being born belongs to the person, nonetheless this is so by reason of his nature. Whence according to the two natures that he receives through generation he has two births.  
 
@@ -186,7 +188,7 @@ Reply Obj. 3: Although it is not one notion by a univocal use of “birth” for
 
 Response to Quaestiuncula 2  
 
-***To the second question it should be said that “twice,” since it is an adverb, asserts the number of an act. However, motion and act are numbered in three ways: namely, from its subject, when there is one agent and then another, and from its termini, when different things are done, and from the measure of the act, when one acts now and then later. Therefore this adverb “twice” brings in only the number that is caused by its diverse measure. This is why something is not said to be read “twice” if two people read it at the same time, or if two books are read simultaneously, but only when it is read at diverse hours.***
+To the second question it should be said that “twice,” since it is an adverb, asserts the number of an act. However, motion and act are numbered in three ways: namely, from its subject, when there is one agent and then another, and from its termini, when different things are done, and from the measure of the act, when one acts now and then later. Therefore this adverb “twice” brings in only the number that is caused by its diverse measure. This is why something is not said to be read “twice” if two people read it at the same time, or if two books are read simultaneously, but only when it is read at diverse hours.  
 
 However, in things that are done in time the only measure is time, and they are different only insofar as there is a discontinuity. And this is why something is said to be “done twice” when it is done with an intervening time. However, eternity and time are diverse measures by their diverse natures, and not by a discontinuity. Whence what happens in eternity and in time can be said to be “done twice,” although what is eternal is not interrupted, nor does it cease.  
 
@@ -200,7 +202,7 @@ Article 5
 
 ***Whether in Christ there are two filiations***
 
-***To the fifth we proceed as follows.Parallels: *ST* III.35.5; *Quodl.* I, q. 2, a. 1; IX, q. 2, a. 3; *Compendium theol.,* ch. 212. It appears that in Christ there are two filiations.***
+To the fifth we proceed as follows.Parallels: *ST* III.35.5; *Quodl.* I, q. 2, a. 1; IX, q. 2, a. 3; *Compendium theol.,* ch. 212. It appears that in Christ there are two filiations.  
 
 Obj. 1: For if a cause is multiplied, its effect is multiplied. But birth is the cause of filiation. Therefore since there are two births in Christ, there will be two filiations in him.  
 
@@ -248,4 +250,4 @@ Reply Obj. 6: If the Father were to have assumed flesh from the Virgin, he would
 
 Exposition of the text  
 
-****For God to be born of the Virgin is this: namely to take on human form*.*Sent.* III, 8.1(26).1. This is true if the human nature is being called a “man,”Although the Silano translation says “human form,” the Latin literally says “man” (*hominem*) here. and if “taking on” means taking to oneself and into oneself what does not belong to the divine nature.***
+*For God to be born of the Virgin is this: namely to take on human form*.*Sent.* III, 8.1(26).1. This is true if the human nature is being called a “man,”Although the Silano translation says “human form,” the Latin literally says “man” (*hominem*) here. and if “taking on” means taking to oneself and into oneself what does not belong to the divine nature.

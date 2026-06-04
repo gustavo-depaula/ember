@@ -1,5 +1,7 @@
 # Chapter 55
 
+^54:17b^ Hæc est hæreditas servorum Domini et justitia eorum apud me, dicit Dominus.  
+
 > ^55:1^ Omnes sitientes venite ad aquas, et qui non habetis argentum properate, emite et comedite; venite, emite absque argento et absque ulla commutatione vinum et lac.
 
 > ^55:2^ Quare appenditis argentum non in panibus et laborem vestrum non in saturitate? Audite audientes me et comedite bonum, et delectabitur in crassitudine anima vestra.

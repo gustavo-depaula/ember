@@ -1,5 +1,7 @@
 # Evening Collation
 
+***Ask, and you will receive*** (John 16:24). In the first sermon it was mentioned what those things are that move us to pray, for, as was said, there are four: our necessity, Christ’s generosity, the favorable time, and the surety of obtaining it.This is the only connection with the *Sermon*; the steps announced there are not taken in the *Evening Collation* (*Collatio in sero*). It seems that a completely different evening collation is added to the *Sermon*.  
+
 It is true that there are many hindrances because of which our prayer is frustrated. Therefore, we can put forward seven hindrances in this homily, by reason of which our asking is frustrated and our prayer is not heard by God.Some of these are also discussed by Thomas, in *SCG* III.95–96, but there in the context of the friendship between God and us (*amicitia*).  
 
 The first hindrance is due to the indiscretion of the asking;  

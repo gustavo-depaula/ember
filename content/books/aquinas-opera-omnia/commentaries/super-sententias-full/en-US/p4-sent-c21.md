@@ -1,8 +1,10 @@
 # D. 41 - The act of sin in comparison to the intention and the will
 
+***The act of sin in comparison to the intention and the will***
+
 ***Division of the text***
 
-***Having shown that the external act possesses malice or goodness from the simple intention or will, here he addresses a certain question concerning what was previously settled. And it is divided into two parts.***
+Having shown that the external act possesses malice or goodness from the simple intention or will, here he addresses a certain question concerning what was previously settled. And it is divided into two parts.  
 
 In the first, he inquires about the act of sin in comparison to intention.  
 
@@ -58,7 +60,7 @@ Article 1
 
 ***Whether faith universally has the property of directing intention***
 
-***To the first we proceed as follows. It seems that universally directing intention does not belong to faith.***
+To the first we proceed as follows. It seems that universally directing intention does not belong to faith.  
 
 Obj. 1: For things differing in species possess different rules and measures, as is clear from the *Metaphysics* 10.Aristotle, *Metaphysics* 10.1, 1052b18–1053a24. For the measure is homogeneous to what is measured. But the virtues are different in species. Therefore, faith cannot be directive in the activities of all the virtues.  
 
@@ -98,7 +100,7 @@ Article 2
 
 ***Whether any act of a faithless man can be good***
 
-***To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 39, q. 1, a. 2, ad 5; *ST* II-II.10.4; 23.7, ad 1; *On Evil*, q. 2, a. 5, ad 7; *Commentary on Romans*, ch. 14, lect. 3; *Commentary on Titus*, ch. 1, lect. 4. It seems that an act of a faithless man cannot be good.***
+To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 39, q. 1, a. 2, ad 5; *ST* II-II.10.4; 23.7, ad 1; *On Evil*, q. 2, a. 5, ad 7; *Commentary on Romans*, ch. 14, lect. 3; *Commentary on Titus*, ch. 1, lect. 4. It seems that an act of a faithless man cannot be good.  
 
 Obj. 1: For, as it says in a Gloss on Romans 10,Prosper of Aquitaine (ca. 390–455 AD), *Sententiae ex Augustino*, sent. 106 (CCSL 68A; PL 45:1860). the whole life of the faithless is a sin. But a sin and a good act cannot exist simultaneously. Therefore, no act of the faithless is good.  
 
@@ -132,7 +134,7 @@ Question 2
 
 ***The act of sin in comparison with the will***
 
-***Then the question is asked about the comparison of sin to the will. Concerning this two questions are asked:***
+Then the question is asked about the comparison of sin to the will. Concerning this two questions are asked:  
 
 first, whether every sin is voluntary;  
 
@@ -142,7 +144,7 @@ Article 1
 
 ***Whether sin is voluntary***
 
-***To the first we proceed as follows.Parallel text: *ST* I-II.74.1. It seems that sin is not voluntary.***
+To the first we proceed as follows.Parallel text: *ST* I-II.74.1. It seems that sin is not voluntary.  
 
 Obj. 1: For evil, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 32 (PG 3:731). is apart from the will. For the will’s object is the good. But every sin is an evil. Therefore, sin is not voluntary.  
 
@@ -178,7 +180,7 @@ Article 2
 
 ***Whether every sin is in the will***
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.74.2; II-II.10.2; *On Evil*, q. 7, a. 6. It seems that not every sin is in the will.***
+To the second we proceed as follows.Parallel texts: *ST* I-II.74.2; II-II.10.2; *On Evil*, q. 7, a. 6. It seems that not every sin is in the will.  
 
 Obj. 1: For sin and virtue are in the same subject. But virtue is in the reason, as it says in the *Ethics* 1.Aristotle, *Nicomachean Ethics* 1.13, 1103a4–10. Therefore, since the will is a power distinct from the reason, it seems that sin is not in the will.  
 
@@ -208,7 +210,7 @@ Reply Obj. 5: Even though man can be punished in all his parts, he is only liabl
 
 Exposition of the text  
 
-****For if faith directs the intention and the intention makes a work good, where there is no faith, it appears that there is neither good intention nor good work*.*Sent*. II, 41.1(253).1. This argument was resolved in question 1, article 2.***
+*For if faith directs the intention and the intention makes a work good, where there is no faith, it appears that there is neither good intention nor good work*.*Sent*. II, 41.1(253).1. This argument was resolved in question 1, article 2.  
 
 *This is not unreasonably concluded by some people*.*Sent*. II, 41.1(253).2. If we understand this to mean that every action is evil and a sin, the opinion is unreasonable. But if we understand it to mean that, whatever they do, they remain in sin as long as they are without faith, the opinion is reasonable.  
 

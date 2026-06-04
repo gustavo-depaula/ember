@@ -1,10 +1,12 @@
 # C. 6 - Dying and Rising with Christ
 
+***Dying and Rising with Christ***
+
 ***Lecture 1***
 
 ***Baptism into death***
 
-***^6:1^ What shall we say, then? Shall we continue in sin, that grace may abound? [n. 468]***
+^6:1^ What shall we say, then? Shall we continue in sin, that grace may abound? [n. 468]  
 
 > ^6:2^ God forbid! For we that are dead to sin, how shall we live any longer therein? [n. 470]
 
@@ -82,7 +84,7 @@ Lecture 2
 
 ***Christ’s triumph over death***
 
-***^6:6^ Knowing this, that our old man is crucified with him, that the body of sin may be destroyed, to the end that we may serve sin no longer. [n. 478]***
+^6:6^ Knowing this, that our old man is crucified with him, that the body of sin may be destroyed, to the end that we may serve sin no longer. [n. 478]  
 
 > ^6:7^ For he that is dead is justified from sin. [n. 482]
 
@@ -176,7 +178,7 @@ Lecture 3
 
 ***Servants not of sin but of justice***
 
-***^6:12^ Let not sin therefore reign in your mortal body, so as to obey the lusts thereof. [n. 492]***
+^6:12^ Let not sin therefore reign in your mortal body, so as to obey the lusts thereof. [n. 492]  
 
 > ^6:13^ Neither yield your members as instruments of iniquity unto sin: but yield yourselves to God, as those that are alive from the dead; and your members as instruments of justice unto God.
 
@@ -266,7 +268,7 @@ Lecture 4
 
 ***The grace of God is life eternal***
 
-***^6:19^ I speak a human thing, because of the infirmity of your flesh. For as you have yielded your members to serve uncleanness and iniquity, unto iniquity: so now yield your members to serve justice, unto sanctification. [n. 504]***
+^6:19^ I speak a human thing, because of the infirmity of your flesh. For as you have yielded your members to serve uncleanness and iniquity, unto iniquity: so now yield your members to serve justice, unto sanctification. [n. 504]  
 
 > ^6:20^ For when you were the servants of sin, you were free men to justice. [n. 507]
 

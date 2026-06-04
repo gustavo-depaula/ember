@@ -1,6 +1,8 @@
 # L. 4 - Commentary on the Solution
 
-***For this problem a solution of the following kind can be used. There are many things that, while they cannot be actually separated, are yet separated in the mind and in thought. For example, while no one actually separates a triangle (or other geometrical figures) from the underlying matter, still, removing it by the mind, we speculate upon the triangle itself and upon its distinctive feature apart from matter.***
+***Commentary on the Solution***
+
+For this problem a solution of the following kind can be used. There are many things that, while they cannot be actually separated, are yet separated in the mind and in thought. For example, while no one actually separates a triangle (or other geometrical figures) from the underlying matter, still, removing it by the mind, we speculate upon the triangle itself and upon its distinctive feature apart from matter.  
 
 > Therefore, let us put the presence of the first good out of our mind for a while. (It certainly exists: this can be known from the view of all the learned and the unlearned, and from the religions of the barbarian peoples!)
 

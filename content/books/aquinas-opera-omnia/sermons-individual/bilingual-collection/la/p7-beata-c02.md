@@ -1,5 +1,7 @@
 # Sermon
 
+***Beata gens*** etc. Inditum est communiter animis hominum ut delectabiliter audiant laudes patriae sue et parentum suorum: laudes patriae, ut ad eam redire festinent; laudes parentum, ut eos imitando non sint degeneres.  
+
 Sed quae est patria nostra? Patria ad quam tendimus est caelestis patria, unde Apostolus: *non habemus hic manentem civitatem, sed futuram inquirimus*. Parentes nostri sunt spirituales viri qui nos docuerunt, nos instruxerunt, exemplum recte vivendi nobis prebuerunt. Isti sunt sancti in patria quorum solemnia hodie celebramus; et ideo ipsorum laudibus debemus cum iocunditate insistere, unde in Ecclesiastico: *laudemus viros gloriosos parentes nostros in generatione sua*.  
 
 Videte: Spiritus Sanctus per os David collegium illud sanctorum commendat quadrupliciter: primo ex eorum dignitate, secundo ex eorum rectore, tertio ex eorum dispositione, et quarto ex ipsorum electione. Ex eorum dignitate commendat collegium illud sanctorum, ibi: ***beata gens***; ex eorum rectore, ibi: ***cuius Dominus Deus eius***; ex ipsorum dispositione nominat populum, cum dicit: ***populus***; ex eorum electione dicit: ***quem elegit Dominus*** etc.  

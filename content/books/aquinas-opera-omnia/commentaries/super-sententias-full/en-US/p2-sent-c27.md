@@ -1,8 +1,10 @@
 # D. 47 - Efficacy of the will of God
 
+***Efficacy of the will of God***
+
 ***Division of the text***
 
-***Having removed certain things whereby it seemed that the efficacy of the divine will was taken away, here he manifests its efficacy. And this is divided into two parts: in the first, he shows that the divine will is always efficaciously fulfilled; in the second, he explains certain doubts found in the authority whereby he proved what he proposed, at *but diligent attention must be paid to how it is said above that something is done against God’s will, but not apart from it*.*Sent*. I, 47.1(204).3.***
+Having removed certain things whereby it seemed that the efficacy of the divine will was taken away, here he manifests its efficacy. And this is divided into two parts: in the first, he shows that the divine will is always efficaciously fulfilled; in the second, he explains certain doubts found in the authority whereby he proved what he proposed, at *but diligent attention must be paid to how it is said above that something is done against God’s will, but not apart from it*.*Sent*. I, 47.1(204).3.  
 
 In the latter he does three things: first, he presents the doubt; second he presents its solution, at *but as we said above, God’s will is taken in different ways*;*Sent*. I, 47.1(204).4. third, he concludes the proposed matter, at *from what is said above, it is clear that the will of God which is himself is always invincible*.*Sent*. I, 47.3(206).1.  
 
@@ -24,7 +26,7 @@ Article 1
 
 ***Whether the divine will is always fulfilled efficaciously***
 
-***To the first we proceed as follows.Parallel texts: below, a. 3; above, d. 46, a. 1; *ST* I.19.6; *On Truth*, q. 23, a. 2; *Commentary on 1 Timothy*, ch. 2, lect. 1. It seems that the divine will is not always fulfilled efficaciously.***
+To the first we proceed as follows.Parallel texts: below, a. 3; above, d. 46, a. 1; *ST* I.19.6; *On Truth*, q. 23, a. 2; *Commentary on 1 Timothy*, ch. 2, lect. 1. It seems that the divine will is not always fulfilled efficaciously.  
 
 Obj. 1: For a cause that stands open to each option is not efficacious in producing its effect. But the divine will is open to each option, for it can will and can not-will. Therefore and so on.  
 
@@ -56,7 +58,7 @@ Article 2
 
 ***Whether nothing occurs outside God’s will***
 
-***To the second we proceed as follows. It seems that nothing occurs outside God’s will.***
+To the second we proceed as follows. It seems that nothing occurs outside God’s will.  
 
 Obj. 1: For the Lord says, *he who is not with me is against me* (Matt 12:30). Therefore what is outside God’s will is against it. But nothing occurs against God’s will; otherwise God’s will would be overcome. Therefore also nothing occurs outside it.  
 
@@ -88,7 +90,7 @@ Article 3
 
 ***Whether what occurs against the will of God is accommodated to his will***
 
-***To the third we proceed as follows.Parallel texts: above, a. 1; d. 46, a. 1; *ST* I.19.6; I.22.2; *On Truth*, q. 23, a. 2; *Commentary on 1 Timothy*, ch. 2, lect. 1. It seems that what is against God’s will is accommodated to his will.***
+To the third we proceed as follows.Parallel texts: above, a. 1; d. 46, a. 1; *ST* I.19.6; I.22.2; *On Truth*, q. 23, a. 2; *Commentary on 1 Timothy*, ch. 2, lect. 1. It seems that what is against God’s will is accommodated to his will.  
 
 Obj. 1: For his consequent will is not contrary to his antecedent will. But the evil that is outside the divine will is against the antecedent will. Therefore it is not accommodated to his consequent will either.  
 
@@ -120,7 +122,7 @@ Article 4
 
 ***Whether what is outside the will of God is not subject to God’s command***
 
-***To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 37, a. 4; *ST* I.103.8; I-II.94.5, ad 2; I-II.100.8; II-II.104.5, ad 2; *On Evil*, q. 3, a. 1, ad 17; q. 15, a. 1, ad 8. It seems that what is outside God’s will, and especially sin, is not subject to his command.***
+To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 37, a. 4; *ST* I.103.8; I-II.94.5, ad 2; I-II.100.8; II-II.104.5, ad 2; *On Evil*, q. 3, a. 1, ad 17; q. 15, a. 1, ad 8. It seems that what is outside God’s will, and especially sin, is not subject to his command.  
 
 Obj. 1: For a command is indicative of the divine will. But whoever presents himself as willing what he does not will is a deceiver—which is far from God. Therefore it seems that he commands nothing that is against his will or outside it.  
 
@@ -154,7 +156,7 @@ Reply Obj. 4: The account is not alike for all sins, as is clear from things sai
 
 Exposition of the text  
 
-****Whom he justly predestined to punishment*.*Sent*. I, 47.1(204).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 100, para. 26 (CCSL 46; PL 40:279). On the contrary, it was said earlierAbove, d. 40, q. 1, a. 2. that predestination is only about salutary goods, and therefore it is not about punishment. To this one should say that, when something is called “predestined” in an absolute way, its direction to the end is understood, which is eternal salvation. But if anything be added to it, then it can be directed to anything whatsoever, and in a certain respect and less properly it can be said to be “predestined” to that.***
+*Whom he justly predestined to punishment*.*Sent*. I, 47.1(204).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 100, para. 26 (CCSL 46; PL 40:279). On the contrary, it was said earlierAbove, d. 40, q. 1, a. 2. that predestination is only about salutary goods, and therefore it is not about punishment. To this one should say that, when something is called “predestined” in an absolute way, its direction to the end is understood, which is eternal salvation. But if anything be added to it, then it can be directed to anything whatsoever, and in a certain respect and less properly it can be said to be “predestined” to that.  
 
 *But not apart from his permission, which is not God himself*.*Sent*. I, 47.2(205).1. On the contrary, the divine permission is his activity, but the divine activity is his essence, therefore and so on. To this one should say that “permission” here is being taken not for the divine activity, but for its effect, in the way that even “creation” names the undergoing of creation.  
 

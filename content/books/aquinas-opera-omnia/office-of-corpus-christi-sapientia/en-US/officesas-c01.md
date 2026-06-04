@@ -10,13 +10,13 @@ Psalm 109 (110)
 
 Psalm 110 (111)  
 
-***I will praise you, O Lord, with my whole heart; * in the council of the just: and in the congregation, etc.***
+I will praise you, O Lord, with my whole heart; * in the council of the just: and in the congregation, etc.  
 
 *Antiphon*. The entire multitude of the sons of Israel shall kill the lamb. And they shall take its blood, and place it on doorposts and lintels of the houses in which it is eaten. [Exod 12:6–7]  
 
 Psalm 115 (116:10–19)  
 
-***I have believed, therefore I have spoken; * but I have been humbled exceedingly, etc.***
+I have believed, therefore I have spoken; * but I have been humbled exceedingly, etc.  
 
 *Antiphon*. And they shall eat flesh on that night roasted over fire and unleavened bread with bitter herbs; do not eat any of it raw or boiled in water, but over fire. [Exod 12:8–9]  
 
@@ -34,7 +34,7 @@ Psalm 147 (147:12–20)
 
 ***1 Corinthians 11:23–24***
 
-***The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat; this is my body, which will be given up for you. Do this in my memory.***
+The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat; this is my body, which will be given up for you. Do this in my memory.  
 
 > Responsory
 
@@ -69,4 +69,4 @@ My soul * doth magnify the Lord, etc.
 
 > Collect
 
-***God, who has left us, in a wonderful sacrament, a memorial of your Passion, grant, we pray, that we may venerate the mystery of your body and blood, so that we may always feel within ourselves the fruit of your redemption. Who lives and reigns God, [world without end. Amen.]***
+God, who has left us, in a wonderful sacrament, a memorial of your Passion, grant, we pray, that we may venerate the mystery of your body and blood, so that we may always feel within ourselves the fruit of your redemption. Who lives and reigns God, [world without end. Amen.]

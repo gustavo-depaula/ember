@@ -1,10 +1,12 @@
 # C. 14 - Avoidance of Scandal
 
+***Avoidance of Scandal***
+
 ***Lecture 1***
 
 ***The Lord is the only judge***
 
-***^14:1^ Now him who is weak in faith, take unto you: not in disputes about thoughts. [n. 1081]***
+^14:1^ Now him who is weak in faith, take unto you: not in disputes about thoughts. [n. 1081]  
 
 > ^14:2^ For one believes that he may eat all things: but he who is weak, let him eat herbs. [n. 1083]
 
@@ -224,7 +226,7 @@ Lecture 2
 
 ***Mercy towards the weak***
 
-***^14:13^ But judge this rather, that you put not a stumbling block or a scandal in your brother’s way. [n. 1115]***
+^14:13^ But judge this rather, that you put not a stumbling block or a scandal in your brother’s way. [n. 1115]  
 
 > ^14:14^ I know, and am confident in the Lord Jesus, that nothing is common of itself: but to him who esteems any thing to be common, to him it is common. [n. 1117]
 
@@ -334,7 +336,7 @@ Lecture 3
 
 ***Clean and unclean food***
 
-***^14:20^ All things indeed are clean: but it is evil for that man who eats with offense. [n. 1132]***
+^14:20^ All things indeed are clean: but it is evil for that man who eats with offense. [n. 1132]  
 
 > ^14:21^ It is good not to eat flesh and not to drink wine: nor any thing whereby your brother is offended or scandalized or made weak. [n. 1134]
 

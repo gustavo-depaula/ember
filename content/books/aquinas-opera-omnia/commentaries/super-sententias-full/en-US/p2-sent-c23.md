@@ -1,8 +1,10 @@
 # D. 43 - Whether the power of God is limited to realities that occur
 
+***Whether the power of God is limited to realities that occur***
+
 ***Division of the text***
 
-***Here the Master excludes the error of certain ones who, opposed to the things determined above, limited God’s power, saying God’s power is not simply speaking over all things. And this is divided into two parts: in the first, he disproves their error insofar as it limited God’s power with respect to the realities that occur; in the second, he does this insofar as they limited it with respect to their qualities, for they said God was not able to do different things nor better things than he did, at *now it remains to be discussed whether God can do anything better than he does*.*Sent*. I, 44.1(188).1.***
+Here the Master excludes the error of certain ones who, opposed to the things determined above, limited God’s power, saying God’s power is not simply speaking over all things. And this is divided into two parts: in the first, he disproves their error insofar as it limited God’s power with respect to the realities that occur; in the second, he does this insofar as they limited it with respect to their qualities, for they said God was not able to do different things nor better things than he did, at *now it remains to be discussed whether God can do anything better than he does*.*Sent*. I, 44.1(188).1.  
 
 The first part is divided into three: in the first, he reports their position; in the second, he presents their proofs, and answers them, at *they strive to fortify this opinion of theirs with plausible arguments and imagined causes and even by the witnesses of sacred authorities*;*Sent*. I, 43.1(187).1. in the third, he brings in authorities to prove the truth, at *and so let us profess that God can do many things which he does not will, and can leave undone many things which he does*.*Sent*. I, 43.1(187).8.  
 
@@ -28,7 +30,7 @@ Article 1
 
 ***Whether God’s power is infinite***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.7.1; I.25.2; III.10.3, ad 1; *SCG* I.43; *On the Power of God*, q. 1, a. 2; *Compendium theologiae*, cc. 18‒20; *Quodl. III*, q. 1, a. 1; *Commentary on Aristotle’s Physics*, bk. 8, lect. 23; *Commentary on the Metaphysics*, bk. 12, lect. 8. It seems that God’s power is not infinite.***
+To the first we proceed as follows.Parallel texts: *ST* I.7.1; I.25.2; III.10.3, ad 1; *SCG* I.43; *On the Power of God*, q. 1, a. 2; *Compendium theologiae*, cc. 18‒20; *Quodl. III*, q. 1, a. 1; *Commentary on Aristotle’s Physics*, bk. 8, lect. 23; *Commentary on the Metaphysics*, bk. 12, lect. 8. It seems that God’s power is not infinite.  
 
 Obj. 1: For, as the Philosopher says,Aristotle, *Physics* 3.6, 207a27. the infinite holds the account of a part, and of matter, and thus, of the imperfect. But God’s power is most perfect. Therefore it should not be called infinite.  
 
@@ -64,7 +66,7 @@ Article 2
 
 ***Whether God’s omnipotence can be communicated to what is created***
 
-***To the second we proceed as follows.Parallel text: *In III Sent*., d. 14, q. 1, a. 4. It seems that God’s omnipotence could be communicated to something created.***
+To the second we proceed as follows.Parallel text: *In III Sent*., d. 14, q. 1, a. 4. It seems that God’s omnipotence could be communicated to something created.  
 
 Obj. 1: For God’s omnipotence is not of greater dignity than his goodness. But his goodness can be communicated to created things. Therefore so too his omnipotence.  
 
@@ -92,7 +94,7 @@ Question 2
 
 ***The necessity of the divine activity***
 
-***Next, we ask about the necessity of the divine activity. And about this two things are asked:***
+Next, we ask about the necessity of the divine activity. And about this two things are asked:  
 
 first, whether he acts out of a necessity of nature;  
 
@@ -102,7 +104,7 @@ Article 1
 
 ***Whether God acts by a necessity of his nature***
 
-***To the first we proceed as follows.Parallel texts: below, d. 45, a. 3; *ST* I.19.3‒4; *SCG* I.80‒87; *On Truth*, q. 23, a. 4; *On the Power of God*, q. 1, a. 5; q. 10, a. 2, ad 6. It seems that God acts by a necessity of nature.***
+To the first we proceed as follows.Parallel texts: below, d. 45, a. 3; *ST* I.19.3‒4; *SCG* I.80‒87; *On Truth*, q. 23, a. 4; *On the Power of God*, q. 1, a. 5; q. 10, a. 2, ad 6. It seems that God acts by a necessity of nature.  
 
 Obj. 1: For Dionysius says, *just as our sun, without reasoning or choosing, diffuses its rays on all bodies, so too the divine goodness does on all beings*.Pseudo-Dionysius, *On the Divine Names*, ch. 4, para. 1 (PG 3:694). But to act without reasoning and choice is to act by a necessity of nature. Therefore God acts by a necessity of nature.  
 
@@ -136,7 +138,7 @@ Article 2
 
 ***Whether God acts out of a necessity of justice***
 
-***To the second we proceed as follows. It seems that God acts from a necessity of justice.***
+To the second we proceed as follows. It seems that God acts from a necessity of justice.  
 
 Obj. 1: For on 2 Timothy 2:13, which says, *he cannot deny himself*, a Gloss says*Glossa ordinaria*, at 2 Timothy 2:13, 6.740. that he would deny his very self if he were to set aside his justice, which he himself is. Therefore, since it is necessary that God not deny his very self, it seems that he acts out of a necessity of justice.  
 
@@ -170,6 +172,6 @@ Reply Sed Contra 6: God is said to be unable to act unjustly not on account of a
 
 Exposition of the text  
 
-****But we respond to them by disclosing the double meaning of the words*.*Sent*. I, 43.1(187).2. The Master’s solution consists in the following: when one says, “God cannot do anything but what is just,” what I am calling “just” can be understood to be joined with the verb “is,” by which it is restricted to standing for things present, prior to being joined with the verb “can.” And understood this way, it is false. For the meaning then is, “God cannot do anything but what is now just.” And that is false. For he can do certain things that now are nothing.***
+*But we respond to them by disclosing the double meaning of the words*.*Sent*. I, 43.1(187).2. The Master’s solution consists in the following: when one says, “God cannot do anything but what is just,” what I am calling “just” can be understood to be joined with the verb “is,” by which it is restricted to standing for things present, prior to being joined with the verb “can.” And understood this way, it is false. For the meaning then is, “God cannot do anything but what is now just.” And that is false. For he can do certain things that now are nothing.  
 
 Or “just” can be understood to be joined with the verb “can,” as possessing the force of fulfilling, before being joined with the verb “is.” And in this sense, it is true. For in this sense, the name “just” stands for the confused present without reference to any determinate time. And then the meaning is, “God cannot do anything that is not just, at whatever time he be asserted to do it.” And all the objections proceed in this way.

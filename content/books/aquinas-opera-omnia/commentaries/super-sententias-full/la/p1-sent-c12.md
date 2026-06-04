@@ -1,8 +1,10 @@
 # D. 11 - Procession of the Holy Spirit from the Father and the Son
 
+***De processione Spiritus Sancti a Patre et Filio***
+
 ***Divisio textus***
 
-***Hic determinat de processione Spiritus Sancti quantum ad suum principium; et dividitur in duas partes: in prima ostendit Spiritum Sanctum procedere a Patre et Filio; in secunda inquiritur utrum aequaliter ab utroque procedat, 12 dist.: *item quaeritur, cum Spiritus Sanctus a Patre procedat et a Filio, utrum prius vel magis processerit a Patre quam a Filio*.***
+Hic determinat de processione Spiritus Sancti quantum ad suum principium; et dividitur in duas partes: in prima ostendit Spiritum Sanctum procedere a Patre et Filio; in secunda inquiritur utrum aequaliter ab utroque procedat, 12 dist.: *item quaeritur, cum Spiritus Sanctus a Patre procedat et a Filio, utrum prius vel magis processerit a Patre quam a Filio*.  
 
 Prima in duas: in prima probat veritatem; in secunda excludit errorem, ibi: *Graeci tamen dicunt Spiritum Sanctum procedere tantum a Patre et non a Filio*.  
 
@@ -30,7 +32,7 @@ Articulus 1
 
 ***Utrum Spiritus Sanctus procedat a Patre et Filio***
 
-***Ad primum sic proceditur. Videtur quod Spiritus Sanctus non procedat a Filio, sed tantum a Patre.***
+Ad primum sic proceditur. Videtur quod Spiritus Sanctus non procedat a Filio, sed tantum a Patre.  
 
 Dionysius, *De divin. nomin*., cap. 2: *quod Pater quidem est fontana Deitas, Filius et Spiritus Sanctus deigenae Deitatis, si ita oportet dicere, pullulationes sunt, et sicut flores divinae naturae, et sicut divina lumina a sanctis eloquiis accepimus*.Al.: *dicitur quidem, est fontana deitas*, etc. Nicolaï, however, reads as follows: *quod Pater sit fontana deitas, Jesus autem, sive Filius Dei, et Spiritus Sanctus divino fecundae deitatis divinitus edita sunt germina, vel pullulationes divinae, si fas est ita loqui, et velut flores, ac supersubstantialia lumina, quae essentiam superant, a sanctis eloquiis accepimus*, “we have received from the holy elocutions that the Father is the fontlike Godhead, whereas Jesus, or the Son of God, and the Holy Spirit are divine shoots of the fruitful deity, sprouting forth from the divine, or, if it is right to speak this way, divine germinations, and like flowers and supersubstantial lights, which rise up from the essence.” Sed pullulatio non est a pullulatione, nec flos a flore. Ergo nec Spiritus Sanctus a Filio.  
 
@@ -80,7 +82,7 @@ Articulus 2
 
 ***Utrum Spiritus Sanctus procedat a Patre et Filio inquantum sunt unum***
 
-***Ad secundum sic proceditur. Videtur quod Spiritus Sanctus procedit a Patre et Filio, non inquantum sunt unum.***
+Ad secundum sic proceditur. Videtur quod Spiritus Sanctus procedit a Patre et Filio, non inquantum sunt unum.  
 
 Spiritus Sanctus enim procedit ab eis ut nexus vel unio quaedam. Sed nexus est distinctorum. Ergo procedit ab eis, ut distincti sunt.  
 
@@ -100,7 +102,7 @@ Articulus 3
 
 ***Utrum Spiritus Sanctus procedat a Patre et Filio inquantum sunt unum in natura***
 
-***Ad tertium sic proceditur. Videtur quod Spiritus Sanctus procedat a Patre et Filio, inquantum sunt unum in natura.***
+Ad tertium sic proceditur. Videtur quod Spiritus Sanctus procedat a Patre et Filio, inquantum sunt unum in natura.  
 
 Natura enim non communicatur nisi per actum naturae. Sed Spiritus Sanctus procedendo accipit totam naturam divinam sicut Filius nascendo. Ergo principium actus, quo communicatur sibi natura divina, est natura. Ergo, etc. Et hoc idem videtur per Anselmum, in *Tract. de process. Spiritus sancti*, cap. 6, qui dicit, quod ridiculum est dicere, quod propter relationem tota essentia Patris et Filii sit in Spiritu Sancto, et non potius propter essentiam.  
 
@@ -152,7 +154,7 @@ Ad tertium dicendum, quod principium non nominat aliquem actum, sed tantum relat
 
 Expositio textus  
 
-****Misit Deus Spiritum Filii sui in corda nostra*. Haec probatio non videtur sufficiens: quia Graeci confitentur Spiritum Sanctum esse Filii, sed non a Filio. Sed dicendum, quod cum oporteat genitivum in aliqua habitudine construi, non potest alia inveniri nisi habitudo originis, quia sola talis relatio personas distinguit; et ideo oportet concedere, quod Spiritus Sanctus a Filio oriatur.***
+*Misit Deus Spiritum Filii sui in corda nostra*. Haec probatio non videtur sufficiens: quia Graeci confitentur Spiritum Sanctum esse Filii, sed non a Filio. Sed dicendum, quod cum oporteat genitivum in aliqua habitudine construi, non potest alia inveniri nisi habitudo originis, quia sola talis relatio personas distinguit; et ideo oportet concedere, quod Spiritus Sanctus a Filio oriatur.  
 
 *Quem ego mittam vobis a Patre*. Videtur etiam haec probatio insufficiens: quia hic loquitur de temporali processione Spiritus Sancti, quam Graeci a Filio esse concedunt, non autem aeternam. Sed dicendum, quod cum temporalis processio includat aeternam, ut infra dicetur, oportet quod a quo procedit temporaliter, etiam ab aeterno procedat.  
 

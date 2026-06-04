@@ -1,5 +1,7 @@
 # Proposition 8
 
+72. Every intelligence knows that which is above it and that which is below it; however, it knows what is below it because it is the cause for it, and it knows what is above it because it acquires its qualities from it.  
+
 > **73**. And moreover intelligence is an intellectual substance; therefore, according to the manner of its substance it knows things which it acquires from above and things for which it is the cause.
 
 > 74. Therefore, it discerns what is above it and what is below it, and it knows that that which is above it is the cause for it and that which is below it is caused by it; and it recognizes both its cause and its effect through the mode which is its cause; that is to say, by the mode of its substance.

@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Emitte Spiritum tuum*** etc.***
+
 Hodie diximus in mane aliqua pro modulo nostro de proprietate Spiritus sancti et de eius missione. Nunc restat dicere de effectibus Spiritus sancti et cui competat recipere istos effectus.  
 
 **3.** Et quantum in verbis propositis est, duplex datur intelligi effectus Spiritus sancti, scilicet creationis et renovationis cum dicitur: ***et creabuntur et renovabis***.  

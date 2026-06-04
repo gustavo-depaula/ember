@@ -1,8 +1,10 @@
 # D. 22 - Division of the divine names
 
+***De divisione nominum divinorum***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister de his quae pertinent ad unitatem essentiae et Trinitatem personarum, hic determinat de nominibus quibus et essentiae unitas et personarum pluralitas designatur. Dividitur autem in partes duas: in prima ponit divisionem divinorum nominum, ut ostendat quid pluraliter et quid singulariter de divinis personis praedicetur; in secunda ostendit qualiter unitas et pluralitas in divinis accipiatur, 24 distinct., ibi: *hic diligenter inquiri oportet*.***
+Postquam determinavit Magister de his quae pertinent ad unitatem essentiae et Trinitatem personarum, hic determinat de nominibus quibus et essentiae unitas et personarum pluralitas designatur. Dividitur autem in partes duas: in prima ponit divisionem divinorum nominum, ut ostendat quid pluraliter et quid singulariter de divinis personis praedicetur; in secunda ostendit qualiter unitas et pluralitas in divinis accipiatur, 24 distinct., ibi: *hic diligenter inquiri oportet*.  
 
 Prima in duas: in prima ponit universalem distinctionem divinorum nominum; in secunda agit de quodam nomine quod specialem difficultatem affert, scilicet de hoc nomine “persona,” quod non videtur aliorum naturam sequi, 23 dist., ibi: *praedictis adjiciendum est*.  
 
@@ -56,7 +58,7 @@ Articulus 2
 
 ***Utrum aliquod nomen possit dici proprie de Deo***
 
-***Ad secundum sic proceditur. Videtur quod nullum nomen de Deo proprie dici possit.***
+Ad secundum sic proceditur. Videtur quod nullum nomen de Deo proprie dici possit.  
 
 Nihil enim proprie dicitur de aliquo quod verius negetur de ipso quam affirmetur. Sed, secundum Dionysium, 2 cap. *Caelest. hierarch*., verius omnia nomina quae de Deo dicuntur, de ipso negantur quam affirmantur; unde dicit quod negationes in divinis sunt verae, affirmationes incompactae. Ergo, etc.  
 
@@ -122,7 +124,7 @@ Articulus 4
 
 ***Utrum divisio nominum Dei posita ab Ambrosio sit insufficiens***
 
-***Ad quartum sic proceditur. Videtur quod divisio Ambrosii, in littera Magistri, sit insufficiens.***
+Ad quartum sic proceditur. Videtur quod divisio Ambrosii, in littera Magistri, sit insufficiens.  
 
 Trinitas enim et persona sunt quaedam divina nomina, quae nec pertinent ad unitatem majestatis, nec proprie alicui personae conveniunt, nec translative de Deo dicuntur. Ergo, etc.  
 
@@ -150,7 +152,7 @@ Magister autem in tribus differentiis quas addit, specificat divisionem Ambrosii
 
 Expositio textus  
 
-****Disserendum nobis videtur de nominum diversitate*. Videtur quod hoc ad ipsum non pertineat, quia non est ejusdem scientiae considerare res et nomina. Sed dicendum quod, ut supra dictum est, theologia, inquantum est principalis omnium scientiarum, aliquid in se habet de omnibus scientiis; et ideo non solum res, sed nominum significationes pertractat: quia ad salutem consequendam non solum est necessaria fides de veritate rerum, sed etiam vocalis confessio per nomina. Rom. 10:10: *corde creditur ad justitiam; ore autem confessio fit ad salutem*.***
+*Disserendum nobis videtur de nominum diversitate*. Videtur quod hoc ad ipsum non pertineat, quia non est ejusdem scientiae considerare res et nomina. Sed dicendum quod, ut supra dictum est, theologia, inquantum est principalis omnium scientiarum, aliquid in se habet de omnibus scientiis; et ideo non solum res, sed nominum significationes pertractat: quia ad salutem consequendam non solum est necessaria fides de veritate rerum, sed etiam vocalis confessio per nomina. Rom. 10:10: *corde creditur ad justitiam; ore autem confessio fit ad salutem*.  
 
 *Similitudinis vero, splendor, character, speculum et hujusmodi*. Videtur hoc esse falsum: quia, secundum Augustinum, *Sup. Gen. ad litt*., lib. 4, cap. 28, lux magis proprie dicitur in spiritualibus quam in corporalibus; et ita splendor non continetur inter metaphorica. Sed dicendum quod lux quantum ad rem significatam proprie est in corporalibus, nec in spiritualibusAl. omit *nec in spiritualibus*. nisi metaphorice dicitur; sed quantum ad rationem a qua nomen imponitur, quae consistit in manifestatione, magis proprie est in spiritualibus. Sed hoc melius dicetur in 2.  
 

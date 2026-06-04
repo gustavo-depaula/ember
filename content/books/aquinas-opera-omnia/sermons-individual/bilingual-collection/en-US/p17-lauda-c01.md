@@ -1,5 +1,7 @@
 # Sermon
 
+It is as St. Bernard says: *while I often think of the burning desire of the fathers who expected Christ’s coming, I feel shame in myself*.Bernard of Clairvaux, *Sermons on the Song of Songs*, sermon 2, para. 1 (PL 183:789D–790A). For someone who considers the sighs of those who were imploring, the desires of those who were expectant, and the joy of those who announced the coming of the Savior, can well become aware of his own tepidity in respect of the benefit already received that proceeds from his coming (cf. Rev 1:7, 3:16).  
+
 Isaiah implored this coming with a frequent sigh, in Isaiah 16:1 (Vg): *send out the lamb, Lord, the ruler of the world*, and elsewhere: *O may you rend your heavens and come down* (Isa 64:1). Jeremiah expected him with great desire: *the Lord will make something new upon the earth: a woman will encompass a man* (Jer 31:22). Zechariah preached with tremendous joy, as is clear from the saying mentioned at the beginning.  
 
 Here the prophet does three things:  

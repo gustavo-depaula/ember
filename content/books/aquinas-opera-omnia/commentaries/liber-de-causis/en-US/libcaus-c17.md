@@ -1,5 +1,7 @@
 # Proposition 16
 
+129. All powers which have no end are depending on the first infinite thing which is the power of powers, not because it is self-acquired, fixed, and stable among things that are, but rather because it is the power for existing things that have constancy, stability.  
+
 > 130. Because if someone should say that the first created being, that is to say, intelligence, is the power which has no end, we would say that created being is not a power, but rather that it has a certain power.
 
 > 131. And moreover its power is only infinite in an inferior way, not in a superior way, since it is not pure power which is not power except because it is power, and it is a thing which does not end in an inferior, not a superior way. Yet, being which is created first, that is to say intelligence, has an end and its power has a limit, according to which it remains its cause.

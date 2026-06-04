@@ -1,5 +1,7 @@
 # Proposition 17
 
+***138. Omnis virtus unita plus est infinita quam virtus multiplicata.***
+
 > 139. Quod est, quia infinitum primum, quod est intelligentia, est propinquum uni puro vero. Propter illud ergo factum est, quod in omni virtute propinqua uni vero est infinitas plus quam in virtute longinqua ab eo.
 
 > 140. Quod est, quia virtus, quando incipit multiplicari, tunc destruitur unitas eius, et quando destruitur eius unitas, destruitur eius infinitas. Et non destruitur infinitas eius, nisi quia dividitur.

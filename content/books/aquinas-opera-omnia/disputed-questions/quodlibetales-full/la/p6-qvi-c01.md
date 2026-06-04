@@ -1,5 +1,7 @@
 # On God
 
+***Quaestio 1***
+
 ***De Deo***
 
 ***Quaesitum est de Deo, de angelo, de homine, et de creaturis pure corporalibus.***
@@ -8,7 +10,7 @@ Articulus unicus
 
 ***Utrum scilicet unitas essentiae ponat in numerum cum unitate personae***
 
-***Circa Deum quaesitum est unum, utrum scilicet unitas essentiae ponat in numerum cum unitate persone. Et videtur quod non.***
+Circa Deum quaesitum est unum, utrum scilicet unitas essentiae ponat in numerum cum unitate persone. Et videtur quod non.  
 
 Sunt enim tres personae divinae; si igitur unitas essentiae poneret in numerum cum unitate personae, sequeretur quod in Deo esset quaternitas, quod est haereticum; non ergo unitas essentiae ponit in numerum cum unitate personae.  
 

@@ -1,8 +1,10 @@
 # D. 35 - Evil of fault
 
+***De malo culpae***
+
 ***Divisio textus***
 
-***Quia in peccato actuali duo considerantur, scilicet defectus, ex quo rationem mali habet, et substantia actus, secundum quam actuale peccatum dicitur; determinato de peccato actuali, secundum quod habet rationem mali, hic incipit determinare de eo quantum ad substantiam actus, in qua defectus fundatur, secundum quem malum dicitur;***
+Quia in peccato actuali duo considerantur, scilicet defectus, ex quo rationem mali habet, et substantia actus, secundum quam actuale peccatum dicitur; determinato de peccato actuali, secundum quod habet rationem mali, hic incipit determinare de eo quantum ad substantiam actus, in qua defectus fundatur, secundum quem malum dicitur;  
 
 et dividitur in partes duas:  
 
@@ -116,7 +118,7 @@ Articulus 1
 
 ***Utrum malum dividatur sufficienter per malum culpae et poenae***
 
-***Ad primum sic proceditur. Videtur quod non sufficienter malum per culpam et poenam dividatur.***
+Ad primum sic proceditur. Videtur quod non sufficienter malum per culpam et poenam dividatur.  
 
 Malum enim nihil aliud est quam defectus boni. Sed omne quod invenitur alio minus bonum non est sine defectu alicujus boni. Ergo omne quod est minus bonum est etiam malum. Sed omnia creata sunt minus bona. Cum ergo multae creaturae sint in quibus non est poena neque culpa, videtur quod malum non sufficienter per poenam et culpam dividatur.  
 
@@ -160,7 +162,7 @@ Articulus 2
 
 ***Utrum definitiones peccati hic positae sint convenientes***
 
-***Ad secundum sic proceditur. Videtur quod peccatum inconvenienter in proposito definiatur.***
+Ad secundum sic proceditur. Videtur quod peccatum inconvenienter in proposito definiatur.  
 
 Illud enim quod definitur, oportet aliquid esse: quia quaestio an est praecedit quaestionem quid est; et iterum omne quod definitur essentiam habet, cum definitio essentiam rei significet. Sed secundum Augustinum, *Super Joan*., cap. 1, peccatum nihil est, et nihil fiunt homines cum peccant. Ergo definiri non potest.  
 
@@ -196,7 +198,7 @@ Articulus 3
 
 ***Utrum in omni peccato sit aliquis actus***
 
-***Ad tertium sic proceditur. Videtur quod omne peccatum in actu consistat, etiam peccatum omissionis.***
+Ad tertium sic proceditur. Videtur quod omne peccatum in actu consistat, etiam peccatum omissionis.  
 
 Peccatum enim est *dictum, vel factum, vel concupitum contra legem Dei*, ut dictum est. Sed in hoc quod dicitur: *dictum vel factum vel concupitum*, tangitur aliquis actus. Ergo etiam peccatum omissionis in aliquo actu consistit.  
 
@@ -238,7 +240,7 @@ Articulus 4
 
 ***Utrum in actu exteriori sit peccatum***
 
-***Ad quartum sic proceditur. Videtur quod peccatum non consistat in actu exteriori.***
+Ad quartum sic proceditur. Videtur quod peccatum non consistat in actu exteriori.  
 
 Quia, ut in lib. *De somno et vigil*., cap. 1, dicitur, cujus est potentia, ejus est actus; et eadem ratione cujus est habitus, ejus est actus. Sed habitus virtutis vel vitii non est in corpore, sed in anima. Ergo nec actus peccati erit actus corporis, sed animae.  
 
@@ -280,7 +282,7 @@ Articulus 5
 
 ***Utrum potentiae animae aliqualiter corrumpantur per peccatum***
 
-***Ad quintum sic proceditur. Videtur quod per peccatum nulla corruptio in potentiis animae fiat.***
+Ad quintum sic proceditur. Videtur quod per peccatum nulla corruptio in potentiis animae fiat.  
 
 Primo per illud quod dicit Dionysius, 4 cap. *De div. nom*., quod data naturalia in angelis peccantibus integra manent. Sed quod corrumpitur, non est integrum. Cum ergo peccatum hominis non sit majus peccato angeli, videtur quod etiam in nobis nulla corruptio potentiarum naturalium per peccatum fiat.  
 
@@ -316,7 +318,7 @@ Ad sextum dicendum, quod peccatum corrumpit animam non quantum ad esse primum, s
 
 Expositio textus  
 
-****Voluntas retinendi vel consequendi quod justitia vetat*. Videtur hoc non esse in quolibet peccato commune. Aliquod enim peccatum est quod est ad corrumpendum, et non ad aliquid acquirendum, ut patet in homicidio et invidia, et hujusmodi.***
+*Voluntas retinendi vel consequendi quod justitia vetat*. Videtur hoc non esse in quolibet peccato commune. Aliquod enim peccatum est quod est ad corrumpendum, et non ad aliquid acquirendum, ut patet in homicidio et invidia, et hujusmodi.  
 
 SedPLE: *et*. dicendum quod intentio sive voluntatis sive naturae nunquam per se terminatur ad non esse vel ad corruptionem, sed semper ad aliquod bonum ipsi intendenti, quamvis praeter intentionem sequatur malum vel corruptio, sine qua bonum intentum esse non potest; ut patet in igne, qui intendit formam suam in materiam inducere, ad quam sequitur corruptio aeris; similiter etiam voluntas intendit aliquod bonum ipsi volenti, quod sine corruptione alterius non est, sicut vult quietem suam quam suspicatur esse non posse sine morte adversarii vel aliquid hujusmodi.  
 

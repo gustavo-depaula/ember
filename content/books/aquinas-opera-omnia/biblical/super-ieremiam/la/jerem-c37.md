@@ -1,6 +1,8 @@
 # C. 35 - The Rechabites’ commandment
 
-***^35:1^ Verbum quod factum est ad Jeremiam a Domino in diebus Joakim filii Josiae regis Juda, dicens:***
+***Lectio 1***
+
+^35:1^ Verbum quod factum est ad Jeremiam a Domino in diebus Joakim filii Josiae regis Juda, dicens:  
 
 > ^35:2^ vade ad domum Rechabitarum, et loquere eis, et introduces eos in domum Domini in unam exedram thesaurorum, et dabis eis bibere vinum.
 

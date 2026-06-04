@@ -1,8 +1,10 @@
 # D. 13 - Work of distinction of the first day
 
+***De opere distinctionis primae diei***
+
 ***Divisio textus***
 
-***Dicto de opere creationis, hic prosequitur distinctionis opus; et dividitur in partes tres:***
+Dicto de opere creationis, hic prosequitur distinctionis opus; et dividitur in partes tres:  
 
 in prima determinat de opere primae diei;  
 
@@ -82,7 +84,7 @@ Articulus 1
 
 ***Utrum opus distinctionis fuerit necessarium post opus creationis***
 
-***Ad primum sic proceditur. Videtur quod post opus creationis distinctionis opus necessarium non fuerit.***
+Ad primum sic proceditur. Videtur quod post opus creationis distinctionis opus necessarium non fuerit.  
 
 Distinctio enim non est nisi prius confusorum et commixtorum. Si ergo post creationem facta est rerum distinctio, oportet res prius mixtas fore creatas; et sic redibit opinio Anaxagorae et Anaximandri ex 12 *Metaph*., quod res fiant per extractionem ex uno confuso et mixto.  
 
@@ -112,7 +114,7 @@ Articulus 2
 
 ***Utrum lux proprie inveniatur in spiritualibus***
 
-***Ad secundum sic proceditur. Videtur quod lux proprie in spiritualibus inveniatur.***
+Ad secundum sic proceditur. Videtur quod lux proprie in spiritualibus inveniatur.  
 
 Primo per id quod dicitur Joan. 1:9: *erat lux vera quae illuminat omnem hominem venientem in hunc mundum*; quod de Deo intelligitur, qui maxime spiritualis est. Ergo videtur quod lux proprie in spiritualibus substantiis inveniatur.  
 
@@ -220,7 +222,7 @@ Articulus 4
 
 ***Utrum productio lucis convenienter recitetur***
 
-***Ad quartum sic proceditur. Videtur quod inconvenienter lucis productio recitetur.***
+Ad quartum sic proceditur. Videtur quod inconvenienter lucis productio recitetur.  
 
 Cum enim Deus lux sit, non decet eum ut tenebris opera sua inchoet. Sed ante lucem tenebrae fuerunt. Ergo videtur quod lux debeat esse de primo creatis, non ad opus distinctionis, sed ad opus creationis pertinens.  
 
@@ -284,7 +286,7 @@ Ad quartum dicendum, quod primum dicitur quo non est aliquid prius. Illa autem a
 
 Expositio textus  
 
-****Hic notandum est, quod dies diversis modis accipitur in Scriptura*. Hic ponit acceptiones diei. Una est secundum quod dicimus diem naturalem qui habet viginti quattuor horas, et sic sumitur quod habetur Gen. 1:5: *factum est vespere et mane dies unus*. Alio modo secundum quod dicitur artificialis, scilicet tempus quo sol nostrum hemisphaerium illuminat, et hoc modo sumitur cum dicitur, ibid., quod tenebras appellavit noctem et lucem diem.***
+*Hic notandum est, quod dies diversis modis accipitur in Scriptura*. Hic ponit acceptiones diei. Una est secundum quod dicimus diem naturalem qui habet viginti quattuor horas, et sic sumitur quod habetur Gen. 1:5: *factum est vespere et mane dies unus*. Alio modo secundum quod dicitur artificialis, scilicet tempus quo sol nostrum hemisphaerium illuminat, et hoc modo sumitur cum dicitur, ibid., quod tenebras appellavit noctem et lucem diem.  
 
 *Qui non ab aurora, sed a plena luce inchoavit*. Videtur hoc esse falsum: quia a plena luce, quae est in meridie, usque in mane alterius diei non sunt viginti quattuor horae; et ita primus dies non habuisset tot horas, sicut in littera dicitur.  
 

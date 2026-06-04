@@ -1,8 +1,10 @@
 # D. 14 - Work of distinction of the second and third days
 
+***Work of distinction of the second and third days***
+
 ***Division of the text***
 
-***Having addressed the first work of distinction, whereby the light was formed, here he addresses the work of the second distinction, which belongs to the second day, on which the firmament is described as having been made. Now, this part is divided into two parts.***
+Having addressed the first work of distinction, whereby the light was formed, here he addresses the work of the second distinction, which belongs to the second day, on which the firmament is described as having been made. Now, this part is divided into two parts.  
 
 In the first, he shows the distinction made on the second day.  
 
@@ -54,7 +56,7 @@ Article 1
 
 ***Whether there are waters above the heavens***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.68.2; *On the Power of God*, q. 4, a. 1, ad 5; *Quodl*. IV, q. 2, a. 2. It seems that there are waters above the heavens.***
+To the first we proceed as follows.Parallel texts: *ST* I.68.2; *On the Power of God*, q. 4, a. 1, ad 5; *Quodl*. IV, q. 2, a. 2. It seems that there are waters above the heavens.  
 
 Obj. 1: For, as Augustine says,Augustine, *On the Literal Interpretation of Genesis*, bk. 2, ch. 5 (CSEL 28.1:39; PL 34:267). the authority of Sacred Scripture is greater than all the perspicacity of human intelligence. But Scripture mentions that there are waters above the heavens in several places. Therefore, it seems that there can be no reason to deny it.  
 
@@ -92,7 +94,7 @@ Article 2
 
 ***Whether the firmament is of the nature of the lower bodies***
 
-***To the second we proceed as follows. It seems that the firmament has the same nature as the lower bodies.***
+To the second we proceed as follows. It seems that the firmament has the same nature as the lower bodies.  
 
 Obj. 1: For Basil saysBasil the Great, *Homiliae in Hexaemeron*, homily 3 (PG 29:51). that it has the nature of fire. In the text,*Sent*. II, 14.3(73).1, 4(74).1. it is also said that it is water frozen together after the manner of crystal. It is obvious that these two things have the nature of the lower bodies. Therefore, so does the firmament.  
 
@@ -128,7 +130,7 @@ Article 3
 
 ***Whether the motion of the heavens is from an intelligence***
 
-***To the third we proceed as follows. It seems that the motion of the heavens is not from a soul or intelligence.***
+To the third we proceed as follows. It seems that the motion of the heavens is not from a soul or intelligence.  
 
 Obj. 1: For the motion of the heavens is a natural motion, as the Philosopher says in *On the Heavens* 1.Aristotle, *On the Heavens* 1.8, 276b5. But that motion is natural whose principle is the form of a natural body. Therefore, it seems that the motion of the heavens is from its natural form and not from something that moves it through an apprehension.  
 
@@ -166,7 +168,7 @@ Article 4
 
 ***Whether the number of heavens is fittingly assigned by Rabanus***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.68.4; *Commentary on John*, ch. 6, lect. 4; *Commentary on 2 Corinthians*, ch. 12, lect. 1. It seems that the number of heavens is unfittingly assigned by Rabanus.Bede cites Rabanus in his *Commentarii in Pentateuchum, On Genesis*, tr. 2 (PL 91:192); *Glossa ordinaria*, at Genesis 1:1, 1.4–5 (PL 113:68–69), but Peter Lombard gathers the number of the heavens from multiple sources.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.68.4; *Commentary on John*, ch. 6, lect. 4; *Commentary on 2 Corinthians*, ch. 12, lect. 1. It seems that the number of heavens is unfittingly assigned by Rabanus.Bede cites Rabanus in his *Commentarii in Pentateuchum, On Genesis*, tr. 2 (PL 91:192); *Glossa ordinaria*, at Genesis 1:1, 1.4–5 (PL 113:68–69), but Peter Lombard gathers the number of the heavens from multiple sources.  
 
 Obj. 1: For he posits seven heavens: the empyrean, the crystalline, the starry, the fiery, the Olympian, the aethereal, and the airy. But there is the heaven of the holy Trinity, into which Lucifer wished to ascend, as was said above,Above: d. 2, exposition of the text; cf. *Sent*. II, 2.6(12).1. and this differs from all those listed. Therefore, it seems that the heavens are insufficiently enumerated.  
 
@@ -196,7 +198,7 @@ Article 5
 
 ***Whether the work of the third day is fittingly described***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.69.1; *On the Power of God*, q. 4, a. 1, ad 17 and following. It seems that the work of the third day is unfittingly described.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.69.1; *On the Power of God*, q. 4, a. 1, ad 17 and following. It seems that the work of the third day is unfittingly described.  
 
 Obj. 1: For on the third day the distinction of the middle element from the last was made. But under this middle element is included fire, air, and water, as has been said.Above: d. 13, q. 1, a. 1, resp. Therefore, since fire and air are more noble than water, it seems unfitting to omit mentioning them.  
 
@@ -236,7 +238,7 @@ Reply Obj. 8: The generation of minerals is hidden in the bowels of the earth, a
 
 Exposition of the text  
 
-****‘This can be believed to be made of waters*.’*Sent*. II, 14.3(73), quoting Bede, *Libri quatuor in principium Genesis*, bk. 1, at 1:6–8 (CCSL 118A; PL 91:18–20). This should be understood with regard to the property of translucency and not with regard to the nature of the elemental body. But even the latter may be believed, since it is not contrary to the faith.***
+*‘This can be believed to be made of waters*.’*Sent*. II, 14.3(73), quoting Bede, *Libri quatuor in principium Genesis*, bk. 1, at 1:6–8 (CCSL 118A; PL 91:18–20). This should be understood with regard to the property of translucency and not with regard to the nature of the elemental body. But even the latter may be believed, since it is not contrary to the faith.  
 
 *‘But although our authors knew it, the Holy Spirit did not wish to say more through them than is profitable for our salvation*.’*Sent*. II, 14.5(75).1, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 2, ch. 9 (CSEL 28.1:45; PL 34:270). It should be noted that here he refers to “our authors” as those who published the canonical books, namely, the apostles and prophets, who did not trouble about writing these things. But it is asserted by other saints and proved by philosophers that the heavens is of a spherical shape, which is demonstrated by natural as well as mathematical arguments.  
 

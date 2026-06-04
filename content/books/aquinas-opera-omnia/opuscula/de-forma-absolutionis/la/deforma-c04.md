@@ -1,6 +1,8 @@
 # C. 4 - That the imposition of the hand of the priest is not a necessary part of this sacrament
 
-***Ulterius autem non minus temerarie asserere praesumit quod impositio manus sit de necessitate huius sacramenti. Primo quidem propter hoc quod Act. VIII, 17, dicitur: *imponebant manus super illos et accipiebant spiritum sanctum*. Illa autem impositio fuit loco sacramenti confirmationis, quod datur per maiores ministros.***
+***Quod impositio manus sacerdotis non est de necessitate huius sacramenti***
+
+Ulterius autem non minus temerarie asserere praesumit quod impositio manus sit de necessitate huius sacramenti. Primo quidem propter hoc quod Act. VIII, 17, dicitur: *imponebant manus super illos et accipiebant spiritum sanctum*. Illa autem impositio fuit loco sacramenti confirmationis, quod datur per maiores ministros.  
 
 Secundo obicit quod Marc. ult. dicitur: *super aegros manus imponent*. Sed hoc est ridiculum, quia non loquitur de impositione sacramentali, sed de signis faciendis.  
 

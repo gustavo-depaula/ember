@@ -1,5 +1,7 @@
 # Proposition 12
 
+103. Primorum omnium quaedam sunt in quibusdam per modum, quo licet, ut sit unum eorum in alio.  
+
 > 104. Quod est, quia in esse sunt vita et intelligentia, et in vita sunt esse et intelligentia, et in intelligentia sunt esse et vita.
 
 > 105. Verumtamen esse et vita in intelligentia sunt duae alachili, id est intelligentiae, et esse et intelligentia in vita sunt duae vitae, et intelligentia et vita in esse sunt duo esse.

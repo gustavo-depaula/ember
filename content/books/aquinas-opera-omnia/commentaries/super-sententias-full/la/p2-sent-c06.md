@@ -1,8 +1,10 @@
 # D. 26 - The personal properties of the divine persons
 
+***De personalibus proprietatibus divinarum personarum***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister de essentia et personis, hic determinat de proprietatibus quibus personae distinguuntur. Dividitur autem in partes duas: in prima determinat de proprietatibus propriis personarum; in secunda de appropriatis personis, 31 dist., ibi: *praeterea considerari oportet*.***
+Postquam determinavit Magister de essentia et personis, hic determinat de proprietatibus quibus personae distinguuntur. Dividitur autem in partes duas: in prima determinat de proprietatibus propriis personarum; in secunda de appropriatis personis, 31 dist., ibi: *praeterea considerari oportet*.  
 
 Prima in duas: in prima determinat de proprietatibus personalibus; in secunda de proprietatibus personarum quae non sunt personales, 28 dist.  
 
@@ -40,7 +42,7 @@ Articulus 1
 
 ***Utrum “hypostasis” proprie dicatur in divinis***
 
-***Ad primum sic proceditur. Videtur quod hypostasis non sit in divinis proprie loquendo.Parma: *dicenda*.***
+Ad primum sic proceditur. Videtur quod hypostasis non sit in divinis proprie loquendo.Parma: *dicenda*.  
 
 Primo per hoc quod Hieronymus dicit in littera, quod hoc nomen non est bonae suspicionis, et quod venenum sub melle latet.  
 
@@ -78,7 +80,7 @@ Articulus 2
 
 ***Utrum, remotis relationibus per intellectum, hypostases remaneant distinctae***
 
-***Ad secundum sic proceditur. Videtur quod, remotis relationibus per intellectum, remaneant hypostases distinctae.***
+Ad secundum sic proceditur. Videtur quod, remotis relationibus per intellectum, remaneant hypostases distinctae.  
 
 Sicut enim dicit Augustinus 5 *De Trinitate*, cap. 5, in omni quod ad alterum dicitur, est accipere aliquid quod per se dicitur; quia relatum, non est relatum tantum, sed etiam est aliquid. Si igitur hypostasis secundum relationem ad aliquid dicitur, videtur quod praeter intellectum relationis, sit aliquid intelligibile subsistens;Parma: *sit aliquid intelligere subsistens*, “one understands something subsisting.” et ita remotis proprietatibus relativis per intellectum, videtur quod remaneant ipsae hypostases subsistentes.  
 
@@ -162,7 +164,7 @@ Articulus 2
 
 ***Utrum relationes originis distinguant hypostases***
 
-***Ad secundum sic proceditur. Videtur quod relationes originis non distinguant hypostases.***
+Ad secundum sic proceditur. Videtur quod relationes originis non distinguant hypostases.  
 
 Quod enim secundum intellectum sequitur substantiam, non potest esse principium alicujus distinctionis in substantiis. Sed relatio est de assequentibus substantiam in Deo, saltem secundum intellectum, sicut bonitas et sapientia, ut dicit Damascenus. Cum igitur hypostasis sit substantia, videtur quod distinctionem hypostasum relatio non facit.  
 
@@ -234,7 +236,7 @@ Ad sextum dicendum, quod quaelibet proprietas in divinis, et quidquid est ibi, e
 
 Expositio textus  
 
-****Nihil quidem secundum accidens dicitur*. Videtur ratio haec non valere; quia multa sunt accidentia inseparabilia, quae semper consequuntur subjectum inamissibiliter. Ad quod dicendum, quod omne subjectum accidentis potest intelligi sine accidente, quamvis quandoque accidens inseparabiliter sequatur subjectum; et ideo, quia ipsum suppositum relationis non potest intelligi sine relatione, cum ipsa relatio sit suppositum subsistens, non potest esse accidens. In omni enim accidente quod advenit, est quaedam compositio subjecti ad accidens, propter quod sine eo intelligi potest; et ubi est compositio, est mutabilitas quantum ad naturam compositionis, quia omne quod compositum est, divisibile est, nisi aliqua causa impediatur.***
+*Nihil quidem secundum accidens dicitur*. Videtur ratio haec non valere; quia multa sunt accidentia inseparabilia, quae semper consequuntur subjectum inamissibiliter. Ad quod dicendum, quod omne subjectum accidentis potest intelligi sine accidente, quamvis quandoque accidens inseparabiliter sequatur subjectum; et ideo, quia ipsum suppositum relationis non potest intelligi sine relatione, cum ipsa relatio sit suppositum subsistens, non potest esse accidens. In omni enim accidente quod advenit, est quaedam compositio subjecti ad accidens, propter quod sine eo intelligi potest; et ubi est compositio, est mutabilitas quantum ad naturam compositionis, quia omne quod compositum est, divisibile est, nisi aliqua causa impediatur.  
 
 Item *omnes enim homines filii Dei sunt factura*, id est creatione; non tamen omnis creatura habet nomen filiationis, sed solum illa quae ad imaginem est. Vel melius. Homo dicitur filius factura etiam per adoptionem, quia cum prius non esset filius, factus est filius; et non habet hoc ex origine nativitatis suae quod sit filius Dei, sicut habet aeternus Filius. Et haec expositio consonat sequentibus. De hac filiatione adoptionis dicetur in 3.  
 

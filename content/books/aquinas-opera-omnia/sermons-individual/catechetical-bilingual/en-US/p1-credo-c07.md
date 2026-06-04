@@ -1,6 +1,8 @@
 # A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty
 
-***Besides the Resurrection of Christ, we must also believe in his Ascension; for he ascended into heaven on the fortieth day.Parallel texts: *ST* III.57.1, 3; *In III Sent*. 22.3.1; *Compendium theologiae*, ch. 240. Hence, the Creed says: ***he ascended into heaven***.***
+***He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty***
+
+Besides the Resurrection of Christ, we must also believe in his Ascension; for he ascended into heaven on the fortieth day.Parallel texts: *ST* III.57.1, 3; *In III Sent*. 22.3.1; *Compendium theologiae*, ch. 240. Hence, the Creed says: ***he ascended into heaven***.  
 
 Concerning this we should observe three things, namely that it was sublime, reasonable, and beneficial.  
 

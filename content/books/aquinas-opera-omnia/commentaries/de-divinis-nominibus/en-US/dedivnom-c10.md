@@ -1,10 +1,12 @@
 # C. 9 - On Small, Great, Same, Other, Like, Unlike, Station, Session, Motion, Equality
 
+***On Small, Great, Same, Other, Like, Unlike, Station, Session, Motion, Equality***
+
 ***Lectio 1***
 
 ***On Great and Small; According to What Ratio They Are Said of God***
 
-***C. IX, § 1. 357. Yet because both great and small have been attributed to the cause of all things, and same and other and like and unlike and status and motion, come, let us contemplate also whatever are manifest to us of these signs in which God is named.***
+C. IX, § 1. 357. Yet because both great and small have been attributed to the cause of all things, and same and other and like and unlike and status and motion, come, let us contemplate also whatever are manifest to us of these signs in which God is named.  
 
 > 358. Therefore in the eloquences God is praised as great indeed and in greatness; and in the subtle breeze, manifesting the divine smallness; and same, when the eloquences say: *yet you yourself are the same* (Ps 102:27); and other, when by the same eloquences he is composed as many figures and many forms; and like, as the substantifier of like things and of likeness; and unlike all things, as that there is nothing like him; and standing and immobile and sitting unto the ages; and moved, as walking to all things; and whatever other namings of God equivalent to these are praised by the eloquences.
 
@@ -156,7 +158,7 @@ Lectio 2
 
 ***On Same and Other, How They Are Attributed to God***
 
-***§4. 366. Yet the same is supersubstantially eternal and unconvertible remaining in itself, always according to the same and having in the same way, present in the same way to all things,***
+§4. 366. Yet the same is supersubstantially eternal and unconvertible remaining in itself, always according to the same and having in the same way, present in the same way to all things,  
 
 > 367. and this, according to itself, in itself, firmly and uncontaminatedly gathered in the best ends of abundant identity,
 
@@ -288,7 +290,7 @@ Lectio 3
 
 ***On Like and Unlike, How They Are Attributed to God***
 
-***§ 6. 373. Yet if someone indeed should call God like as the same, as whole through whole singularly and indivisibly existing like himself, this naming of God as like must not be rejected by us.***
+§ 6. 373. Yet if someone indeed should call God like as the same, as whole through whole singularly and indivisibly existing like himself, this naming of God as like must not be rejected by us.  
 
 > 374. Yet the theologians say that God, existing above all things according as he is, is like none; yet that he gives the divine likeness to those who are converted to him existing above every definition and reason according to virtue by imitation; and it is the virtue of the divine likeness which converts all things coming to the cause. Therefore it is fitting to call those things like God and them according to the divine image and assimilation; for not that God is like them, because neither is man properly like an image. For in coordinates indeed it is possible both to be like one another and to convert to each other by likeness and to be both like one another according to the preceding species of like; yet in a cause and things caused we shall not receive conversion: for to be like is given not only to those or those.
 
@@ -340,7 +342,7 @@ Lectio 4
 
 ***On Station and Session; On Motion; On Equality; How They Are Attributed to God***
 
-***§ 8. 377. Yet what do we say also concerning the divine station or session? Yet what else indeed beyond this: that God himself remains in himself and is fixed singularly by immobile identity and super-gathered; and that he operates according to the same and around the same and in the same mode; both according as he is altogether unchangeable from himself; and according as he cannot be moved into the contrary and is totally immobile;***
+§ 8. 377. Yet what do we say also concerning the divine station or session? Yet what else indeed beyond this: that God himself remains in himself and is fixed singularly by immobile identity and super-gathered; and that he operates according to the same and around the same and in the same mode; both according as he is altogether unchangeable from himself; and according as he cannot be moved into the contrary and is totally immobile;  
 
 > 378. and this supersubstantially: for he is the cause of the station and seat of all things, who is above every seat and station *and in him all things consist* (Col 1:17) from the station of their proper goods guarded undisturbed.
 

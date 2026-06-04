@@ -1,10 +1,12 @@
 # C. 37 - Jeremiah falsely suspected
 
+***Jeremiah falsely suspected***
+
 ***Lecture 1***
 
 ***The king asks for prayers***
 
-***^37:1^ And king Zedekiah, the son of Josiah, reigned in the stead of Jekoniah, the son of Jehoiakim, whom Nebuchadnezzar, the king of Babylon, had established as king in the land of Judah.***
+^37:1^ And king Zedekiah, the son of Josiah, reigned in the stead of Jekoniah, the son of Jehoiakim, whom Nebuchadnezzar, the king of Babylon, had established as king in the land of Judah.  
 
 > ^37:2^ And he and his servants and the people of the land did not obey the words of the Lord, which he spoke by the hand of Jeremiah the prophet.
 
@@ -76,7 +78,7 @@ Lecture 3
 
 ***Jeremiah goes to divide his property***
 
-***^37:10^ Therefore, when the army of the Chaldeans departed from Jerusalem because of the army of pharaoh,***
+^37:10^ Therefore, when the army of the Chaldeans departed from Jerusalem because of the army of pharaoh,  
 
 > ^37:11^ Jeremiah went out from Jerusalem that he should go to the land of Benjamin, and there divide his property in the sight of the people.
 
@@ -86,7 +88,7 @@ Lecture 4
 
 ***Guards await Jeremiah***
 
-***^37:12a^ And when he had arrived to the gate of Benjamin, there were guards there by turns, by the name of Jeriah, the son of Shelemiah, the son of Hananiah.***
+^37:12a^ And when he had arrived to the gate of Benjamin, there were guards there by turns, by the name of Jeriah, the son of Shelemiah, the son of Hananiah.  
 
 > **199**. Here, the false suspicion is given. *False witnesses have risen up against me, and iniquity has lied to itself* (Ps 26:12).
 
@@ -94,7 +96,7 @@ Lecture 5
 
 ***Jeremiah cast into prison***
 
-***^37:12b^ And they seized Jeremiah the prophet, saying, ‘Are you are fleeing to the Chaldeans?’***
+^37:12b^ And they seized Jeremiah the prophet, saying, ‘Are you are fleeing to the Chaldeans?’  
 
 > ^37:13^ And Jeremiah answered, ‘It is false. I am not fleeing to the Chaldeans.’ And they did not listen to him, but Jeriah seized Jeremiah, and brought him to the princes.
 

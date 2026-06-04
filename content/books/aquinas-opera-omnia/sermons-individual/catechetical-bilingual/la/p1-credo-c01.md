@@ -1,5 +1,7 @@
 # Prologue
 
+Primum quod est necessarium Christiano, est fides, sine qua nullus dicitur fidelis Christianus. Fides autem facit *quatuor* bona.  
+
 Primum est quod per fidem anima coniungitur Deo: nam per fidem anima Christiana facit quasi quoddam matrimonium cum Deo: Oseae II, 20: *sponsabo te mihi in fide*. Et inde est quod quando homo baptizatur, primo confitetur fidem, cum dicitur ei, *credis in Deum?*: quia baptismus est primum sacramentum fidei. Et ideo dicit Dominus, Marc. ult., 16: *qui crediderit et baptizatus fuerit, salvus erit*. Baptismus enim sine fide non prodest. Et ideo sciendum est, quod nullus est acceptus Deo sine fide: Heb. XI, 6: *sine fide autem impossibile est placere Deo*. Et ideo dicit Augustinus super illud Rom. XIV, 23: *omne autem quod non est ex fide, peccatum est: ubi non est aeternae et incommutabilis veritatis agnitio, falsa est virtus etiam in optimis moribus*.  
 
 Secundo, quia per fidem inchoatur in nobis vita aeterna: nam vita aeterna nihil aliud est quam cognoscere Deum: unde dicit Dominus, Ioan. XVII, 3: *haec est vita aeterna, ut cognoscant te solum verum Deum*. Haec autem cognitio Dei incipit hic per fidem, sed perficitur in vita futura, in qua cognoscemus eum sicuti est: et ideo dicitur Hebr. XI, 1: *fides est substantia sperandarum rerum*. Nullus ergo potest pervenire ad beatitudinem, quae est vera cognitio Dei, nisi primo cognoscat per fidem: Ioan. XX, 29: *beati qui non viderunt et crediderunt*.  

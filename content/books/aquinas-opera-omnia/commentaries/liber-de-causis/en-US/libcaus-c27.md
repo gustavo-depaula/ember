@@ -1,5 +1,7 @@
 # Proposition 26
 
+187. Every substance that stands in and of itself does not fall under corruption.  
+
 > 188. But if someone says: it is possible that a substance which stands in and of itself fall under corruption, we say: if it is possible that a substance that stands in and of itself falls under corruption, it is possible that it be separated from its essence and be fixed, subsisting through its own essence without its own essence. And this is inappropriate and impossible since, because it is one, simple, non-composite, it itself is cause and that which is caused at the same time. But every corruption of that which falls under corruption takes place only because of its separation from its cause; but while a thing persists depending on its own cause which conserves and preserves it, it does not perish nor is it destroyed. Thus if it is such, the cause of a substance which stands through its own essence is not ever separated, since it is inseparable from its essence, because its cause is itself in its own formation.
 
 > 189. And it is only its own cause because of its relation to its cause; and that relation is its formation. And therefore, because it is always related to its cause and it is the cause of that relation, it is the cause of itself according to the mode which we have said, that it does not perish nor is it destroyed, since it is the cause and that which is caused at the same time, as we have recently shown.

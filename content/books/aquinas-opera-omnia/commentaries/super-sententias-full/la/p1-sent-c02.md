@@ -1,8 +1,10 @@
 # D. 1 - Enjoyment and use
 
+***De uti et frui***
+
 ***Divisio textus***
 
-***Finito prooemio, hoc est initium praesentis operis in quo Magister divinorum nobis doctrinam tradere intendit quantum ad inquisitionem veritatis et destructionem erroris: unde et argumentativo modo procedit in toto opere: et praecipue argumentis ex auctoritatibus sumptis. Dividitur autem in duas partes: in quarum prima inquirit ea de quibus agendum est, et ordinem agendi; in secunda prosequitur suam intentionem: et in duas partes dividitur. Secunda ibi: *hic considerandum est utrum virtutibus sit utendum, an fruendum*.***
+Finito prooemio, hoc est initium praesentis operis in quo Magister divinorum nobis doctrinam tradere intendit quantum ad inquisitionem veritatis et destructionem erroris: unde et argumentativo modo procedit in toto opere: et praecipue argumentis ex auctoritatibus sumptis. Dividitur autem in duas partes: in quarum prima inquirit ea de quibus agendum est, et ordinem agendi; in secunda prosequitur suam intentionem: et in duas partes dividitur. Secunda ibi: *hic considerandum est utrum virtutibus sit utendum, an fruendum*.  
 
 Ea autem de quibus in hac doctrina considerandum est, cadunt in considerationem hujus doctrinae, secundum quod ad aliquid unum referuntur, scilicet Deum, a quo et ad quem sunt. Et ideo ea de quibus agendum est dividit per absolutum et relatum: unde dividitur in partes duas. In prima ponit divisionem eorum de quibus agendum est per absolutum et relatum secundum cognitionem, in secunda secundum desiderium, ibi: *id ergo in rebus considerandum*.  
 
@@ -190,7 +192,7 @@ Quaestio 3
 
 ***Utrum utendum sit omnibus aliis a Deo***
 
-***Deinde quaeritur de utibilibus, utrum omnibus aliis praeter Deum sit utendum. Et videtur quod non.***
+Deinde quaeritur de utibilibus, utrum omnibus aliis praeter Deum sit utendum. Et videtur quod non.  
 
 Uti enim est assumere aliquid in facultatem voluntatis. Illud autem tantum est hoc modo assumptum quod nostrae operationi subjacet. Non autem omnia creata sunt talia, sicut caelum et angeli, quae non sunt operabilia a nobis. Ergo non possumus omnibus uti.  
 
@@ -286,7 +288,7 @@ Aliud concedimus.
 
 Expositio textus  
 
-***Circa litteram quaeritur de hoc quod dicitur: *innotuit, sacrae paginae tractatores circa res vel signa praecipue versari*. Videtur enim divisio esse incompetens: eo quod contingit idem signum esse et rem; sicut corpus Christi verum et character in baptismo. Praeterea, ipsemet dicit quod omne signum res est; et ita videtur quod divisio non sit per opposita. Item, creaturae omnes sunt signum divinae bonitatis; et ita videtur quod fere omnia quae in hac doctrina traduntur sunt signa. Ad quod dicendum, quod ista divisio non est data per oppositas res, sed per oppositas rationes secundum absolutum et relatum. Signum enim est quod est institutum ad aliudParma: *aliquid*. significandum: res autem est quae habet absolutam significationem non ad aliud relatam. Unde non est inconveniens quod idem sit signum et res respectu diversorum; sicut etiam idem homo est pater et filius. Unde patet solutio ad primum. Ad secundum dicendum, quod res dupliciter sumitur in processu hujus locutionis; sumitur enim communiter pro omni ente; et sic omne signum est res: sumitur etiam magis stricte pro eo quod est res tantum et non signum, et sic contra signum dividitur. Ad tertium dicendum, quod quamvis creaturae sint signum alicujus, nihilominus tamen ad hoc principaliter non sunt institutae: et ideo non continentur sub signis, nisi secundum quid.***
+Circa litteram quaeritur de hoc quod dicitur: *innotuit, sacrae paginae tractatores circa res vel signa praecipue versari*. Videtur enim divisio esse incompetens: eo quod contingit idem signum esse et rem; sicut corpus Christi verum et character in baptismo. Praeterea, ipsemet dicit quod omne signum res est; et ita videtur quod divisio non sit per opposita. Item, creaturae omnes sunt signum divinae bonitatis; et ita videtur quod fere omnia quae in hac doctrina traduntur sunt signa. Ad quod dicendum, quod ista divisio non est data per oppositas res, sed per oppositas rationes secundum absolutum et relatum. Signum enim est quod est institutum ad aliudParma: *aliquid*. significandum: res autem est quae habet absolutam significationem non ad aliud relatam. Unde non est inconveniens quod idem sit signum et res respectu diversorum; sicut etiam idem homo est pater et filius. Unde patet solutio ad primum. Ad secundum dicendum, quod res dupliciter sumitur in processu hujus locutionis; sumitur enim communiter pro omni ente; et sic omne signum est res: sumitur etiam magis stricte pro eo quod est res tantum et non signum, et sic contra signum dividitur. Ad tertium dicendum, quod quamvis creaturae sint signum alicujus, nihilominus tamen ad hoc principaliter non sunt institutae: et ideo non continentur sub signis, nisi secundum quid.  
 
 Deinde quaeritur de hoc quod dicitur: *et primo de rebus, postea de signis disseremus*. Videtur enim quod prius agendum est de signis. Res enim per signa discuntur, ut in littera dicitur. Ergo per cognitionem signorum devenimus in cognitionem rerum. Ad quod dicendum, quod hoc sequitur, quando signa et res sunt ejusdem ordinis, scilicet quod prius determinandum est de signis quam de rebus quae per illa signa significantur. Sic autem non se habent signa sacramentalia ad ea de quibus in primis tribus libris agitur. Vel dicendum, quod alius est ordo servandus in accipiendo cognitionem et tradendo. Accipiens enim cognitionem procedit de signis ad signata, quasi modo resolutorio, quia signa magis sunt nota quo ad ipsum; sed tradens cognitionem signorum, oportet quod res ante signa manifestet, eo quod signa sumuntur per similitudinem ad res: unde oportet praecognoscere ad cognitionem signorumParma: *praecognoscere res ad cognitionem*. res ad quarum similitudinem sumuntur.  
 

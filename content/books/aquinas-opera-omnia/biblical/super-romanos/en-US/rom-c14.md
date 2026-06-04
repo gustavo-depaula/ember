@@ -1,10 +1,12 @@
 # C. 13 - Obedience and Love
 
+***Obedience and Love***
+
 ***Lecture 1***
 
 ***Obedience to hierarchical power***
 
-***^13:1^ Let every soul be subject to higher powers. For there is no power except from God, and those who are ordained of God. [n. 1016]***
+^13:1^ Let every soul be subject to higher powers. For there is no power except from God, and those who are ordained of God. [n. 1016]  
 
 > ^13:2^ Therefore, he who resists the power resists the ordinance of God. And they who resist purchase to themselves damnation. [n. 1025]
 
@@ -182,7 +184,7 @@ Lecture 2
 
 ***Love the fulfillment of the law***
 
-***^13:8^ Owe no one anything, except to love one another. For he who loves his neighbor has fulfilled the law. [n. 1044]***
+^13:8^ Owe no one anything, except to love one another. For he who loves his neighbor has fulfilled the law. [n. 1044]  
 
 > ^13:9^ For: you shall not commit adultery: you shall not kill: you shall not steal: you shall not bear false witness: you shall not covet. And if there be any other commandment, it is comprised in this word: you shall love your neighbor as yourself. [n. 1050]
 
@@ -274,7 +276,7 @@ Lecture 3
 
 ***Exhortation to put on the Lord Jesus Christ***
 
-***^13:11^ And knowing this time, because it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed. [n. 1060]***
+^13:11^ And knowing this time, because it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed. [n. 1060]  
 
 > ^13:12^ The night is passed, but the day is at hand. [n. 1066] Let us, therefore, cast off the works of darkness and put on the armor of light. [n. 1070]
 

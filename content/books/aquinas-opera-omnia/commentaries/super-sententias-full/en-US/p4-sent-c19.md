@@ -1,8 +1,10 @@
 # D. 39 - How sin can be in the will
 
+***How sin can be in the will***
+
 ***Division of the text***
 
-***Having shown that rectitude and perversity of the will is from the end, here he inquires whether there can be perversity and sin in the will. This is divided into two parts.***
+Having shown that rectitude and perversity of the will is from the end, here he inquires whether there can be perversity and sin in the will. This is divided into two parts.  
 
 In the first, he shows how sin can be in the will.  
 
@@ -50,7 +52,7 @@ Article 1
 
 ***Whether the will can be perverted by sin***
 
-***To the first we proceed as follows.Parallel text: *ST* I-II.74.1. It seems that the will cannot be perverted by sin.***
+To the first we proceed as follows.Parallel text: *ST* I-II.74.1. It seems that the will cannot be perverted by sin.  
 
 Obj. 1: For the will pertains to the image of God not only, so it seems, as a power, but also by reason of its act, since as was said,*In I Sent*., d. 3, q. 4, a. 2. the perfect account of the image is preserved in regard to certain objects in three powers. Now, a power is only compared to an object by means of its act. Therefore, since the goodness of the image is not taken away by sin because it says that *in the image, man passes* (Ps 39:6 [38:7]),RSV reads *surely man goes about as a shadow*. it seems that there cannot be sin in the will.  
 
@@ -82,9 +84,9 @@ Reply Obj. 5: Error or falsity is called “proper to the fantasy” not because
 
 Article 2  
 
-***Whether there can be sin in the act of the intellect and powers other than the will***
+Whether there can be sin in the act of the intellect and powers other than the will  
 
-***To the second we proceed as follows.Parallel texts: below, d. 41, q. 2, a. 2; *ST* I-II.74.2; II-II.10.2; *On Evil*, q. 7, a. 6. It seems that there can be sin in the acts of other powers, particularly the act of the intellect.***
+To the second we proceed as follows.Parallel texts: below, d. 41, q. 2, a. 2; *ST* I-II.74.2; II-II.10.2; *On Evil*, q. 7, a. 6. It seems that there can be sin in the acts of other powers, particularly the act of the intellect.  
 
 Obj. 1: For thinking is the act of the intellect. But it is the case that one can sin by thinking. Therefore, it is possible for there to be sin in the act of the intellect.  
 
@@ -122,7 +124,7 @@ Question 2
 
 ***How man naturally wills the good***
 
-***Then the question is asked of how man naturally wills the good. Concerning this, two questions are asked:***
+Then the question is asked of how man naturally wills the good. Concerning this, two questions are asked:  
 
 first, whether man wills the good naturally;  
 
@@ -132,7 +134,7 @@ Article 1
 
 ***Whether man naturally wills the good***
 
-***To the first we proceed as follows. It seems that man does not naturally will the good.***
+To the first we proceed as follows. It seems that man does not naturally will the good.  
 
 Obj. 1: For what is natural is the same for all. But not all men will the good. Therefore, willing the good is not natural to them.  
 
@@ -164,9 +166,9 @@ Reply Obj. 5: The natural inclination is never taken away by sin, even though th
 
 Article 2  
 
-***Whether the will whereby man naturally wills good is the same as that whereby he wills evil***
+Whether the will whereby man naturally wills good is the same as that whereby he wills evil  
 
-***To the second we proceed as follows. It seems that it is the same will whereby man naturally wills the good and whereby he wills evil.***
+To the second we proceed as follows. It seems that it is the same will whereby man naturally wills the good and whereby he wills evil.  
 
 Obj. 1: For a rational power is situated in relation to opposites. But the will is a rational power. Therefore, it relates to opposites. Therefore, it is the same for good and for evil.  
 
@@ -204,7 +206,7 @@ Question 3
 
 ***The higher spark of reason***
 
-***Then the question is asked about the higher spark of reason. Concerning this three questions are asked:***
+Then the question is asked about the higher spark of reason. Concerning this three questions are asked:  
 
 first, whether the higher spark of reason can be extinguished;  
 
@@ -216,7 +218,7 @@ Article 1
 
 ***Whether the higher spark of reason can be extinguished***
 
-***To the first we proceed as follows. It seems that the higher spark of reason can be extinguished.***
+To the first we proceed as follows. It seems that the higher spark of reason can be extinguished.  
 
 Obj. 1: For an error of reason is called its being “extinguished,” since it is compared with darkness. But it can happen that this spark of reason errs, as is clear in a gloss of Jerome on Ezekiel 1, where besides the words quoted in the text, it adds a little later on: *now we see that this conscience is often cast down*.Jerome, *Commentary on Ezekiel*, bk. 1, ch. 1 (CCSL 75; PL 25:22); see *Sent*. II, 39.3(251).3. Therefore, the higher spark of reason can be extinguished.  
 
@@ -256,7 +258,7 @@ Article 2
 
 ***Whether conscience ever errs***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.79.12, ad 3; *On Truth*, q. 16, a. 1. It seems that conscience never errs.***
+To the second we proceed as follows.Parallel texts: *ST* I.79.12, ad 3; *On Truth*, q. 16, a. 1. It seems that conscience never errs.  
 
 Obj. 1: For in order for a judgment to be certain, there must be certain truth in the statements of the witnesses. But in divine judgment, which is most certain and which never strays from justice, conscience holds the place of a witness, as is clear in Romans 2:15: *while their conscience also bears witness*. Therefore, conscience possesses infallible truth and thus does not err.  
 
@@ -290,7 +292,7 @@ Article 3
 
 ***Whether an erring conscience binds***
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.19.5; *On Truth*, q. 17, a. 4; *Quodl*. III, q. 12, a. 2; VIII, q. 6, a. 3; IX, q. 7, a. 2; *Commentary on Romans*, ch. 14, lect. 2; *Commentary on Galatians*, ch. 5, lect. 1. It seems that an erring conscience does not bind.***
+To the third we proceed as follows.Parallel texts: *ST* I-II.19.5; *On Truth*, q. 17, a. 4; *Quodl*. III, q. 12, a. 2; VIII, q. 6, a. 3; IX, q. 7, a. 2; *Commentary on Romans*, ch. 14, lect. 2; *Commentary on Galatians*, ch. 5, lect. 1. It seems that an erring conscience does not bind.  
 
 Obj. 1: For whoever does not do what he is bound to do sins. But sin, as was said above, is a word, act, or desire contrary to the law of God.Augustine, *Contra Faustum*, bk. 22, ch. 28 (CSEL 25:621; PL 42:418). Therefore, since erring conscience does not accord with God’s law, it seems that it does not bind.  
 
@@ -334,7 +336,7 @@ Reply Obj. 6: Conscience, as has been said,Ad 3. binds by virtue of divine comma
 
 Exposition of the text  
 
-****Although they become clouded and corrupted by vices and sins, they are nevertheless goods*.*Sent*. II, 39.1(249).1. This clouding and corruption of the intellect is not understood as regards the proper act of the intellect considered in itself, since very acute intellectual talents are found in many sinners, but instead is understood with reference to fitness for grace, virtue, and good work, as it is also said that every wicked person is ignorant. However, there are certain sins that also cloud the intellect’s contemplation inasmuch as man is disturbed and distracted through them by his passions and impeded from the act of contemplation, as is especially clear in sins of the flesh. Hence, too, the Commentator says on the *Physics* 7Averroes, *Commentary on the Physics*, bk. 7, comm. 20. that the moral virtues give perfection in regard to the sciences, especially the virtue of chastity.***
+*Although they become clouded and corrupted by vices and sins, they are nevertheless goods*.*Sent*. II, 39.1(249).1. This clouding and corruption of the intellect is not understood as regards the proper act of the intellect considered in itself, since very acute intellectual talents are found in many sinners, but instead is understood with reference to fitness for grace, virtue, and good work, as it is also said that every wicked person is ignorant. However, there are certain sins that also cloud the intellect’s contemplation inasmuch as man is disturbed and distracted through them by his passions and impeded from the act of contemplation, as is especially clear in sins of the flesh. Hence, too, the Commentator says on the *Physics* 7Averroes, *Commentary on the Physics*, bk. 7, comm. 20. that the moral virtues give perfection in regard to the sciences, especially the virtue of chastity.  
 
 *They answer more briefly, saying that an action of the will is not among the natural gifts*.*Sent*. II, 39.2(250).2. This response can be common to both opinions, particularly as regards the evil act to which the will is not naturally ordered.  
 

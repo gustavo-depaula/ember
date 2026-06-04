@@ -1,8 +1,10 @@
 # D. 12 - Purely bodily creation
 
+***Purely bodily creation***
+
 ***Division of the text***
 
-***In the preceding part the Master examined the purely spiritual creation. In this part, he considers the purely bodily creation, insofar as this pertains to a theologian’s consideration, that is, according as it was first established by God in the works of the six days.***
+In the preceding part the Master examined the purely spiritual creation. In this part, he considers the purely bodily creation, insofar as this pertains to a theologian’s consideration, that is, according as it was first established by God in the works of the six days.  
 
 This is divided into three parts.  
 
@@ -74,7 +76,7 @@ Article 1
 
 ***Whether the same matter belongs to all bodily things***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.66.2; *SCG* II.16; *Commentary on Aristotle’s On the Heavens*, bk. 1 lect. 6. It seems that all bodily things have a single matter.***
+To the first we proceed as follows.Parallel texts: *ST* I.66.2; *SCG* II.16; *Commentary on Aristotle’s On the Heavens*, bk. 1 lect. 6. It seems that all bodily things have a single matter.  
 
 Obj. 1: For whatever things have a form of the same account also have one common matter, due to the fact that proper act comes about in proper potency, as the Philosopher says.Aristotle, *On the Soul* 2.2, 414a26. But the form of corporeality has a single account in all bodily things. Therefore, it seems that higher and lower bodies have a single matter.  
 
@@ -112,7 +114,7 @@ Article 2
 
 ***Whether all things were created simultaneously and distinct by species***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.74.2; *On Truth*, q. 8, a. 16; *On the Power of God*, q. 4, a. 2; *Commentary on Hebrews*, ch. 4, lect. 1. It seems that all things were created simultaneously and distinct by species.***
+To the second we proceed as follows.Parallel texts: *ST* I.74.2; *On Truth*, q. 8, a. 16; *On the Power of God*, q. 4, a. 2; *Commentary on Hebrews*, ch. 4, lect. 1. It seems that all things were created simultaneously and distinct by species.  
 
 Obj. 1: This is first because Sirach 18:1 says, *he who lives forever created all things at once*.RSV reads *he who lives forever created the whole universe*.  
 
@@ -160,7 +162,7 @@ Article 3
 
 ***Whether Augustine’s explanation preserves the distinction of days***
 
-***To the third we proceed as follows. It seems that Augustine’s explanation does not preserve the distinction of days.Augustine, *On the Literal Interpretation of Genesis*, bk. 4, ch. 33 (CSEL 28.1:131; PL 34:317).***
+To the third we proceed as follows. It seems that Augustine’s explanation does not preserve the distinction of days.Augustine, *On the Literal Interpretation of Genesis*, bk. 4, ch. 33 (CSEL 28.1:131; PL 34:317).  
 
 Obj. 1: For “day” refers to a time. But in the formation of things, according to Augustine, there was no succession of time. Therefore, the distinction of days has not been preserved either.  
 
@@ -220,7 +222,7 @@ Article 4
 
 ***Whether the first matter was formless***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.66.1; *On the Power of God*, q. 4, a. 1. It seems that the first matter was formless.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.66.1; *On the Power of God*, q. 4, a. 1. It seems that the first matter was formless.  
 
 Obj. 1: For that matter was common to all the elements, since all things were made out of it. But the elements do not agree in anything except formless matter. Therefore, the first matter was altogether formless.  
 
@@ -264,7 +266,7 @@ Article 5
 
 ***Whether the four coevals are fittingly assigned***
 
-***To the fifth we proceed as follows. It seems that the four coevals are unfittingly assigned as the empyrean heaven, the angelic nature, the matter of the four elements, and time.***
+To the fifth we proceed as follows. It seems that the four coevals are unfittingly assigned as the empyrean heaven, the angelic nature, the matter of the four elements, and time.  
 
 Obj. 1: For place follows on the generation of things just as time does. But there is no mention of place among the first created things. Therefore, neither should there be mention of time.  
 
@@ -298,7 +300,7 @@ Reply Obj. 5: “Word,” properly speaking, indicates the account of exemplary 
 
 Exposition of the text  
 
-****As Augustine says, in* Against the Manichees*, Moses called this matter earth, ‘because the earth is the least beautiful of all the elements.’**Sent*. II, 12.3(60).2, quoting Augustine, *De Genesi contra Manichaeos*, bk. 1, ch. 7 (PL 34:179). It should be known that, according to Augustine, who does not posit an order of time in the distinction of things, prime matter should be understood as altogether formless, as has been said.Above: a. 4. In this case, it will be called by the name “water” or “earth” due to likeness alone, so that it is called “earth” because of its lack of form (for among all the elements earth partakes less of species, since it is the grossest element) or “water” because of its receptivity to forms, since what is moist is quite receptive and terminable. But the abyss takes its name from the fact that it is ugly incidentally, as is said in the *Physics* 1,See Aristotle, *Physics* 1.9, 192a18–25. for “abyss” is derived from *a-*, that is “without,” and -*byssus*, which is a very bright white type of flax, and so it means “without brightness.” This belongs to the matter incidentally by reason of privation. Or “abyss” is so named as being “without bottom,” meaning a great depth, especially one of waters, according to Augustine.Augustine, *Against Faustus the Manichee*, bk. 22, ch. 11 (CSEL 25.1:599; PL 42:405): *abyssus est aquarum inaestimabilis profunditas*; *Against Enemies of the Law and the Prophets*, bk. 1, ch. 13 (PL 41:612; CCSL 49): *potest intelligi quod informis illa materies aquae vel abyssi vocabulo insinuata sit*; see also: *On the Literal Interpretation of Genesis*, bk. 1, ch. 1, para. 3 (PL 34:247; CSEL 28.1:3): *verbo tenebrosam abyssum intelligamus naturam vitae informem*. Similarly, prime matter is called an “abyss” inasmuch as it is deprived of the form through which it receives substantifying being. But, according to other saints, we may say that in the literal sense it was under the substantial form of earth or water.***
+*As Augustine says, in* Against the Manichees*, Moses called this matter earth, ‘because the earth is the least beautiful of all the elements.’**Sent*. II, 12.3(60).2, quoting Augustine, *De Genesi contra Manichaeos*, bk. 1, ch. 7 (PL 34:179). It should be known that, according to Augustine, who does not posit an order of time in the distinction of things, prime matter should be understood as altogether formless, as has been said.Above: a. 4. In this case, it will be called by the name “water” or “earth” due to likeness alone, so that it is called “earth” because of its lack of form (for among all the elements earth partakes less of species, since it is the grossest element) or “water” because of its receptivity to forms, since what is moist is quite receptive and terminable. But the abyss takes its name from the fact that it is ugly incidentally, as is said in the *Physics* 1,See Aristotle, *Physics* 1.9, 192a18–25. for “abyss” is derived from *a-*, that is “without,” and -*byssus*, which is a very bright white type of flax, and so it means “without brightness.” This belongs to the matter incidentally by reason of privation. Or “abyss” is so named as being “without bottom,” meaning a great depth, especially one of waters, according to Augustine.Augustine, *Against Faustus the Manichee*, bk. 22, ch. 11 (CSEL 25.1:599; PL 42:405): *abyssus est aquarum inaestimabilis profunditas*; *Against Enemies of the Law and the Prophets*, bk. 1, ch. 13 (PL 41:612; CCSL 49): *potest intelligi quod informis illa materies aquae vel abyssi vocabulo insinuata sit*; see also: *On the Literal Interpretation of Genesis*, bk. 1, ch. 1, para. 3 (PL 34:247; CSEL 28.1:3): *verbo tenebrosam abyssum intelligamus naturam vitae informem*. Similarly, prime matter is called an “abyss” inasmuch as it is deprived of the form through which it receives substantifying being. But, according to other saints, we may say that in the literal sense it was under the substantial form of earth or water.  
 
 *And the earth was void and empty*.*Sent*. II, 12.3(60).2; Silano translates the Latin as *waste and disordered*. If by “earth” formless matter is understood, then we must explain the receptivity of matter as being in a certain way like the receptivity of place, inasmuch as different forms successively come into a single remaining matter, just as different bodies come successively into a single place. For this reason, Plato said that place and matter are the same thing, as is said in the *Physics* 4.Aristotle, *Physics* 4.2, 209b12. Thus, by way of likeness we predicate of matter what belongs to place. And so, matter is called *void* and *empty* with reference to its lack of form. Here it is *empty* inasmuch as form fulfills the capacity of matter, and it is *void* inasmuch as form is the end to which the appetite of the matter tends.  
 

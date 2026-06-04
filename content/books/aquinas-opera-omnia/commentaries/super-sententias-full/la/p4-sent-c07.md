@@ -1,8 +1,10 @@
 # D. 27 - Virtue
 
+***De virtute***
+
 ***Divisio textus***
 
-***Postquam distinxit gratiam in operantem et cooperantem, hic quaerit ad quod genus reducatur, utrum scilicet sit actus vel qualitas mentis; ponens eamdem quaestionem de gratia et virtute: vel quia eadem ratio est de utroque, vel forte quia hujusmodi opinionis fuit quod gratia a virtute non differt.***
+Postquam distinxit gratiam in operantem et cooperantem, hic quaerit ad quod genus reducatur, utrum scilicet sit actus vel qualitas mentis; ponens eamdem quaestionem de gratia et virtute: vel quia eadem ratio est de utroque, vel forte quia hujusmodi opinionis fuit quod gratia a virtute non differt.  
 
 Dividitur autem in partes duas:  
 
@@ -138,7 +140,7 @@ Articulus 2
 
 ***Utrum definitio virtutis posita ab Augustino sit conveniens***
 
-***Ad secundum sic proceditur. Videtur quod Augustinus inconvenienter virtutem definiat.***
+Ad secundum sic proceditur. Videtur quod Augustinus inconvenienter virtutem definiat.  
 
 Sicut enim in 2 *Topic*., cap. 2, dicitur, nullum genus denominative praedicatur de sua specie. Sed bonitas est genus virtutis; est enim virtus, ut Philosophus in 1 *Ethic*., cap. 10 dicit, qua quis bonus est et quae opus bonum reddit. Ergo inconvenienter dicitur virtus bona qualitas.  
 
@@ -182,7 +184,7 @@ Articulus 3
 
 ***Utrum aliquis possit mereri ex condigno vitam aeternam per actus virtutis***
 
-***Ad tertium sic proceditur. Videtur quod aliquis non possit ex condigno vitam aeternam mereri per actus virtutis.***
+Ad tertium sic proceditur. Videtur quod aliquis non possit ex condigno vitam aeternam mereri per actus virtutis.  
 
 Primo per id quod habetur ad Rom. 8:18: *non sunt condignae passiones hujus temporis ad futuram gloriam quae revelabitur in nobis*. Sed per passiones quas sancti sustinent maxime merentur. Ergo videtur quod nullus ex condigno vitam aeternamParma and PLE: *vitam aeternam*; Madnonnet omits *aeternam*. mereatur.  
 
@@ -252,7 +254,7 @@ Articulus 5
 
 ***Utrum aliquis possit mereri augmentum gratiae***
 
-***Ad quintum sic proceditur. Videtur quod aliquis non possit gratiae augmentum mereri.***
+Ad quintum sic proceditur. Videtur quod aliquis non possit gratiae augmentum mereri.  
 
 Efficacia enim merendi attenditur secundum quantitatem radicis. Sed si aliquis per actum minoris gratiae majorem gratiam meretur, efficacia merendi excederet radicem gratiae. Ergo non contingit augmentum gratiae mereri.  
 
@@ -286,7 +288,7 @@ Articulus 6
 
 ***Utrum aliquis possit mereri alteri primam gratiam***
 
-***Ad sextum sic proceditur. Videtur quod unus non possit alteri primam gratiam promereri.***
+Ad sextum sic proceditur. Videtur quod unus non possit alteri primam gratiam promereri.  
 
 Accidens enim non extendit se ultra suum subjectum. Sed gratia, quae principium merendi est, accidens est. Ergo efficacia merendi in alium non transit, ut scilicet unus alteri gratiam mereri possit.  
 
@@ -322,7 +324,7 @@ Ad quintum dicendum, quod frequenter contingit quod per orationem sanctorum homi
 
 Expositio textus  
 
-****Praemittendum est tria esse genera bonorum*. Sciendum est quod ista divisio boni est secundum quantitatem ipsius non absolutam, sed in comparatione ad hominem: unde contingit quod idem secundum diversas comparationesPLE: *considerationes*. sub diversis membris cadat; potentiae enim naturales hominis comparatae ad ipsum cujus sunt media, bonae sunt, quia sine eis non recte vivitur: contingit tamen eis recte non uti; comparatae vero ad alium cadunt sub minimis bonis, quia sine auxilio alterius hominis homo potest bene vivere.***
+*Praemittendum est tria esse genera bonorum*. Sciendum est quod ista divisio boni est secundum quantitatem ipsius non absolutam, sed in comparatione ad hominem: unde contingit quod idem secundum diversas comparationesPLE: *considerationes*. sub diversis membris cadat; potentiae enim naturales hominis comparatae ad ipsum cujus sunt media, bonae sunt, quia sine eis non recte vivitur: contingit tamen eis recte non uti; comparatae vero ad alium cadunt sub minimis bonis, quia sine auxilio alterius hominis homo potest bene vivere.  
 
 Sumitur divisio ista secundum diversos gradus in approximatione ad ultimam perfectionem hominis, quae consistit in operatione perfecta, secundum quam contingit recte vivere; ad quam homo quibusdam juvatur quasi organice et instrumentaliter, ut Philosophus dicit in 1 *Ethic*., sicut sunt bona fortunae, quae quidem non pertinent ad necessitatem recte vivendi, cum sine eis recta vita esse possit; sed tamenPLE: *tamen*; Mandonnet: *tunc*; Parma omits. sunt sicut expedientia ad rectam vitam, ut homo facilius operetur, his quasi adminiculis sustentatus. Quaedam vero sunt quae per se conferunt ad rectam vitam sicut ministrantia substantiam actus; et hujusmodi computantur inter media bona, sine quibus nullus recte vivit, quibus tamen aliquis potest etiam perverse vivere. Aliqua vero sunt quae conferunt ad rectam vitam, quasi dantia perfectionem ipsi actui rectoParma: *actus, recte*. informando ipsum, sicut sunt habitus virtutum et gratiarum; et haec magna bona dicuntur, quia propinquissima sunt operationi perfectae in qua est ultima hominis perfectio.  
 

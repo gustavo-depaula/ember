@@ -1,5 +1,7 @@
 # Chapter 38
 
+^38:1^ In diebus illis ægrotavit Ezechias usque ad mortem, et introivit ad eum Isaias filius Amos prophetae et dixit ei: hæc dicit Dominus: dispone domui tuæ quia morieris tu et non vives.  
+
 > ^38:2^ Et convertit Ezechias faciem suam ad parietem et oravit ad Dominum
 
 > ^38:3^ et dixit: obsecro Domine, memento, quæso, quomodo ambulaverim coram te in veritate et in corde perfecto et quod bonum est in oculis tuis fecerim. Et flevit Ezechias fletu magno.

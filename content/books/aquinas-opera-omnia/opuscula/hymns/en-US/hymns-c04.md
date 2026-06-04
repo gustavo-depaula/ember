@@ -1,5 +1,8 @@
 # Praise, O Zion
 
+***Sequence from the Mass***
+***[translated by St. Robert Southwell, sj (1561–1595)]***
+
 ***Praise, O Zion! Praise thy Savior,***
 ***praise thy captain and thy pastor,***
 ***with hymns and solemn harmony.***

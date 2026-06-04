@@ -1,6 +1,8 @@
 # Chapter 8
 
-***^8:1^ And the Lord said to me: take you a great book, and write in it with a man’s pen. Take away the spoils with speed, quickly take the prey.***
+***Lecture 1***
+
+^8:1^ And the Lord said to me: take you a great book, and write in it with a man’s pen. Take away the spoils with speed, quickly take the prey.  
 
 > ^8:2^ And I took unto me faithful witnesses, Urias the priest, and Zachariah the son of Barachias.
 
@@ -106,7 +108,7 @@ Seventh, it is ***life-giving***, as to its fruit: *all these things are the boo
 
 Lecture 2  
 
-***^8:4^ For before the child know to call his father and his mother, the strength of Damascus, and the spoils of Samaria shall be taken away before the king of the Assyrians.***
+^8:4^ For before the child know to call his father and his mother, the strength of Damascus, and the spoils of Samaria shall be taken away before the king of the Assyrians.  
 
 > ^8:5^ And the Lord spoke to me again, saying:
 
@@ -262,7 +264,7 @@ third, crowning: *they shall receive a kingdom of glory, and a crown of beauty a
 
 Lecture 3  
 
-***^8:14^ And he shall be a sanctification to you. But for a stone of offense,*Offensionis*. DR: “stumbling.” and for a rock of scandal*Scandali*. DR: “offense.” to the two houses of Israel, for a snare and a ruin to the inhabitants of Jerusalem.***
+^8:14^ And he shall be a sanctification to you. But for a stone of offense,*Offensionis*. DR: “stumbling.” and for a rock of scandal*Scandali*. DR: “offense.” to the two houses of Israel, for a snare and a ruin to the inhabitants of Jerusalem.  
 
 > ^8:15^ And very many of them shall stumble and fall, and shall be broken in pieces, and shall be snared, and taken.
 

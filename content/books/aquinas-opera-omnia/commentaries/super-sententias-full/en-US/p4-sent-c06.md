@@ -1,8 +1,10 @@
 # D. 26 - Grace
 
+***Grace***
+
 ***Division of the text***
 
-***Having shown what knowledge and power man had in the first state, here he shows what grace he received. This is divided into two parts.***
+Having shown what knowledge and power man had in the first state, here he shows what grace he received. This is divided into two parts.  
 
 In the first, he addresses grace in itself.  
 
@@ -86,7 +88,7 @@ Article 1
 
 ***Whether grace is something created in the soul***
 
-***To the first we proceed as follows.Parallel texts: *ST* I-II.110.1; *SCG* III.150; *On Truth*, q. 27, a. 1. It seems that grace entails nothing created in the soul.“Entail” here translates the verb *ponere* (literally, “to put”); the question is both whether grace is a real characteristic in the soul and whether the word “grace” in theological contexts asserts the presence of this characteristic.***
+To the first we proceed as follows.Parallel texts: *ST* I-II.110.1; *SCG* III.150; *On Truth*, q. 27, a. 1. It seems that grace entails nothing created in the soul.“Entail” here translates the verb *ponere* (literally, “to put”); the question is both whether grace is a real characteristic in the soul and whether the word “grace” in theological contexts asserts the presence of this characteristic.  
 
 Obj. 1: For grace entails a kind of reception*Acceptatio* can be translated most generically as “reception” but also more narrowly as “acceptance” or “welcome.” The word “acceptance” seems somewhat sterile and might connote mere tolerance, but the word “welcome” might be susceptible to a more Pelagian interpretation; hence, here and in subsequent articles, we have settled on the less determinate “reception.” in the one who is said to have grace, namely, his being receptive to the one in whose good graces he is.This objection arises because of an ambiguity in the meaning of the Latin word *gratia*; in particular, the phrase *gratiam habere* (“to have grace”) can mean both to possess something that is a quality of oneself and to possess the favor of another, that is, “to be in his good graces.” But the fact that someone is said to be receptive to someone else does not entail anything in the one who is received, but instead in the one receiving. Therefore, man’s being said to have the grace of God does not entail anything in man.  
 
@@ -122,7 +124,7 @@ Article 2
 
 ***Whether grace is an accident***
 
-***To the second we proceed as follows.Parallel texts: below, a. 4, ad 1; *ST* I-II.110.2; *SCG* III.150; *On Truth*, q. 27, a. 2, ad 7. It seems that grace is not an accident.***
+To the second we proceed as follows.Parallel texts: below, a. 4, ad 1; *ST* I-II.110.2; *SCG* III.150; *On Truth*, q. 27, a. 2, ad 7. It seems that grace is not an accident.  
 
 Obj. 1: For an accident does not pass from subject to subject since it possesses individuation from the subject. But grace passes from subject to subject, as it is said: *I will take some of the spirit which is upon you and put it upon them* (Num 11:17). And again: *the spirit of Elijah rests on Elisha* (2 Kgs 2:15). Therefore, it seems that grace is not an accident.  
 
@@ -156,7 +158,7 @@ Article 3
 
 ***Whether grace is in a power of the soul as in a subject***
 
-***To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 4, q. 1, a. 3, resp. and ad 1; *ST* I-II.110.4; *On Truth*, q. 27, a. 6. It seems that grace is in a power of the soul as in a subject.***
+To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 4, q. 1, a. 3, resp. and ad 1; *ST* I-II.110.4; *On Truth*, q. 27, a. 6. It seems that grace is in a power of the soul as in a subject.  
 
 Obj. 1: For that which is superadded to natural endowments does not fall as a mean between natural cause and effect. But grace is superadded to natural endowments. Therefore, since a power is a natural effect of the essence itself, it seems that grace does not fall as a mean between the essence and the power. Thus, it is not in the essence as in a subject, but rather in a power.  
 
@@ -194,7 +196,7 @@ Article 4
 
 ***Whether grace is a virtue***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I-II.110.3; *On Truth*, q. 27, a. 2. It seems that grace is a virtue.***
+To the fourth we proceed as follows.Parallel texts: *ST* I-II.110.3; *On Truth*, q. 27, a. 2. It seems that grace is a virtue.  
 
 Obj. 1: For since it is in the genus of accident, it can only be traced back to the genus of quality, and among the species of quality, only to the first, as is clear by going through them individually. Therefore, grace will be either a science or a virtue, for it is not reckoned among bodily habits or dispositions. But it is obvious that grace is not a science. Therefore, it is necessarily a virtue.  
 
@@ -232,7 +234,7 @@ Article 5
 
 ***Whether grace is fittingly distinguished into operating and cooperating grace***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I-II.111.2, 3; *On Truth*, q. 27, a. 5, ad 1, 2; *Commentary on 2 Corinthians*, ch. 6, lect. 1. It seems that grace is unfittingly distinguished into operating and cooperating.***
+To the fifth we proceed as follows.Parallel texts: *ST* I-II.111.2, 3; *On Truth*, q. 27, a. 5, ad 1, 2; *Commentary on 2 Corinthians*, ch. 6, lect. 1. It seems that grace is unfittingly distinguished into operating and cooperating.  
 
 Obj. 1: For, as has been said,Above: a. 3. grace does not regard action through itself. But each thing should be distinguished in accord with what befits it through itself, as is said in the *Metaphysics* 7.Aristotle, *Metaphysics* 7.12, 1038a29. Therefore, it seems that since we speak of operating and cooperating with respect to action, grace is unfittingly distinguished by way of these two.  
 
@@ -264,7 +266,7 @@ Article 6
 
 ***Whether grace in the soul is manifold***
 
-***To the sixth we proceed as follows. It seems that grace in the soul is multiplied.***
+To the sixth we proceed as follows. It seems that grace in the soul is multiplied.  
 
 Obj. 1: For *there are divisions of graces*, as is said in 1 Corinthians 12:4. But division is the cause of number and multitude. Hence, according to Isidore, “number” is said as if indicating *nutus memeris*, the command of division.This definition does not seem to be in Isidore, but see his *The Etymologies*, bk. 3, ch. 3 (PL 82:155) for his discussion of number. Therefore, it seems that in one soul many graces are found.  
 
@@ -306,7 +308,7 @@ Reply Obj. 5: In different sacraments grace is given to different effects insofa
 
 Exposition of the text  
 
-****This is operating and co-operating grace*,*Sent*. II, 26.1(162).1. namely, that which he mentioned above when he said: *grace comes before that we may live faithfully and follows after that we may live forever with him*.Augustine, *De natura et gratia*, ch. 31, para. 35 (CSEL 60:259; PL 44:263).***
+*This is operating and co-operating grace*,*Sent*. II, 26.1(162).1. namely, that which he mentioned above when he said: *grace comes before that we may live faithfully and follows after that we may live forever with him*.Augustine, *De natura et gratia*, ch. 31, para. 35 (CSEL 60:259; PL 44:263).  
 
 *‘The will is a movement of the spirit, without the compulsion of anyone, toward not committing something or toward gaining it.’**Sent*. II, 26.2(163).1, quoting Augustine, *De duabus animabus*, para. 14 (CSEL 25:68; PL 42:104). Note that here he is not defining the will that is a power, but the will that is an act. For it is common that in nearly all the soul’s powers, the power and act are called by the same name. This is the way in which “will” is taken almost throughout.  
 

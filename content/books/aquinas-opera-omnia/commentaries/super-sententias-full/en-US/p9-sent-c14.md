@@ -1,6 +1,8 @@
 # D. 39 - On mixed marriages
 
-***After the Master has considered impediments to marriage that make a person ineligible for marriage simply speaking with respect to any other person, here he determines the impediment that makes someone ineligible for marriage with respect to certain persons, and not with respect to all. And this is divided into two parts. In the first he considers the impediment that makes a person ineligible in relation to some other person because of distance from her, namely, disparity of cult;In canon law, the impediment to marriage between a baptized and non-baptized person is called “disparity of cult.” A mixed marriage is technically a marriage between a Catholic and baptized Christian of some other denomination, which is addressed in D39.Q1.A1, objection 5. Disparity of cult prevents a marriage from being contracted, while a mixed marriage is not permitted to be contracted, but once contracted remains valid. in the second he considers the impediment that makes a person ineligible in relation to another person because of closeness to her, Distinction 40, where he says: *now it remains to say something about relationship*.*Sententiae* IV, 40.1 (224). 1.***
+***On mixed marriages***
+
+After the Master has considered impediments to marriage that make a person ineligible for marriage simply speaking with respect to any other person, here he determines the impediment that makes someone ineligible for marriage with respect to certain persons, and not with respect to all. And this is divided into two parts. In the first he considers the impediment that makes a person ineligible in relation to some other person because of distance from her, namely, disparity of cult;In canon law, the impediment to marriage between a baptized and non-baptized person is called “disparity of cult.” A mixed marriage is technically a marriage between a Catholic and baptized Christian of some other denomination, which is addressed in D39.Q1.A1, objection 5. Disparity of cult prevents a marriage from being contracted, while a mixed marriage is not permitted to be contracted, but once contracted remains valid. in the second he considers the impediment that makes a person ineligible in relation to another person because of closeness to her, Distinction 40, where he says: *now it remains to say something about relationship*.*Sententiae* IV, 40.1 (224). 1.  
 
 The first part is in two parts: in the first he considers the marriage that exists in the disparity of cult between a member of the faithful and an unbeliever; in the second, the marriage that is between two unbelievers, saying there: *yet there are some who say that there is no marriage between infidels*.*Sent*. IV, 39.6 (222). 1.  
 
@@ -27,7 +29,7 @@ first, whether a member of the faithful may contract marriage with an unbeliever
 
 ***Whether a member of the faithful may contract marriage with an unbeliever***
 
-***Obj. 1: To the first question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 2. It seems that a member of the faithful may contract marriage with an unbeliever. For Joseph contracted with an Egyptian woman, and Esther with Assuerus.See Genesis 41:45 and Esther 2:16–18. But in both marriages there was disparity of cult: for one was a believer, the other an unbeliever. Therefore, disparity of cult preceding marriage does not impede it.***
+Obj. 1: To the first question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 2. It seems that a member of the faithful may contract marriage with an unbeliever. For Joseph contracted with an Egyptian woman, and Esther with Assuerus.See Genesis 41:45 and Esther 2:16–18. But in both marriages there was disparity of cult: for one was a believer, the other an unbeliever. Therefore, disparity of cult preceding marriage does not impede it.  
 
 Obj. 2: Furthermore, the same faith is taught by the Old Law and the New Law. But according to the Old Law, a marriage could exist between a believer and an unbeliever, as is clear from Deuteronomy 21:10–13: *if, having gone out to war against your enemies . . . you see a beautiful woman among the captives, and you fall in love with her . . . you may go into her and sleep with her, and she will be your wife*. Therefore, it is also allowed in the New Law.  
 
@@ -57,7 +59,7 @@ Article 2
 
 ***Whether marriage exists between unbelievers***
 
-***Obj. 1: To the second question, we proceed thus. It seems that there can be no marriage between unbelievers. For marriage is a sacrament of the Church. But baptism is the door to the sacraments. Therefore, unbelievers, who have not been baptized, cannot contract marriage, as neither can they receive the other sacraments.***
+Obj. 1: To the second question, we proceed thus. It seems that there can be no marriage between unbelievers. For marriage is a sacrament of the Church. But baptism is the door to the sacraments. Therefore, unbelievers, who have not been baptized, cannot contract marriage, as neither can they receive the other sacraments.  
 
 Obj. 2: Furthermore, two evils impede the good more than one. But unbelief in only one party impedes the good of marriage. Therefore, the unbelief of both is even stronger; and thus there can be no marriage among unbelievers.  
 
@@ -85,9 +87,9 @@ Reply Obj. 5: An unbeliever who knows his wife does not sin, if, for the sake of
 
 Article 3  
 
-***If one of two unbelieving spouses should convert to the faith without the other, whether he may remain in the same marriage***
+If one of two unbelieving spouses should convert to the faith without the other, whether he may remain in the same marriage  
 
-***Obj. 1: To the third question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 2. It seems that a husband who has converted to the faith cannot remain with an unbelieving wife who does not wish to convert, with whom he contracted during his unbelief. For where there is the same danger, the same precautions should be applied. But because of the danger of subversion of the faith, it is forbidden that a member of the faithful should contract with an unbeliever. Therefore, since there is the same danger if a member of the faithful remains with an unbeliever with whom he contracted before, and even more so, since neophytes are more easily subverted than those who are nourished in the faith; it seems that a member of the faithful cannot remain with an unbelieving wife after his conversion.***
+Obj. 1: To the third question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 2. It seems that a husband who has converted to the faith cannot remain with an unbelieving wife who does not wish to convert, with whom he contracted during his unbelief. For where there is the same danger, the same precautions should be applied. But because of the danger of subversion of the faith, it is forbidden that a member of the faithful should contract with an unbeliever. Therefore, since there is the same danger if a member of the faithful remains with an unbeliever with whom he contracted before, and even more so, since neophytes are more easily subverted than those who are nourished in the faith; it seems that a member of the faithful cannot remain with an unbelieving wife after his conversion.  
 
 Obj. 2: Furthermore, in Case 28, Question 1, it says, *an unbeliever cannot remain in a union with a woman who has already converted to the Christian faith*.Gratian, *Decretals*, pt. 2, cause 28, q. 1, can. 10. Therefore, a member of the faithful must necessarily send away an unbelieving wife.  
 
@@ -117,7 +119,7 @@ Article 4
 
 ***Whether one may leave an unbelieving wife***
 
-***Obj. 1: To the fourth question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 2. It seems that a believer who has converted may not send away an unbelieving wife who wishes to live together without offense to the Creator. For the bond of a man to his wife is greater than that of a slave to his master. But a slave who has converted is not absolved of the bond of his servitude, as is clear from 1 Corinthians 7:21 and 1 Timothy 6. Therefore, neither can a believing man send away his unbelieving wife.***
+Obj. 1: To the fourth question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 2. It seems that a believer who has converted may not send away an unbelieving wife who wishes to live together without offense to the Creator. For the bond of a man to his wife is greater than that of a slave to his master. But a slave who has converted is not absolved of the bond of his servitude, as is clear from 1 Corinthians 7:21 and 1 Timothy 6. Therefore, neither can a believing man send away his unbelieving wife.  
 
 Obj. 2: Furthermore, no one can prejudice the good of another without that person’s consent. But an unbelieving wife had the right to the body of her unbelieving husband. Therefore, if by the fact that her husband converted to the faith the wife could suffer detriment, such that she might freely be sent away, then a man could not convert to the faith without his wife’s consent, as neither can he be ordained, or vow continence, without his wife’s consent.  
 
@@ -147,7 +149,7 @@ Article 5
 
 ***Whether, having put his wife away, one may marry another***
 
-***Obj. 1: To the fifth question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 3. It seems that a believer who leaves his unbelieving wife may not take another wife. For the indissolubility of marriage comes from its very nature, since the divorce of one’s wife is against the law of nature, as was said above in Distinction 33, Question 1, Article 1. But between unbelievers there was a valid marriage. Therefore, in no way can that marriage be dissolved. But as long as the bond of marriage to one person remains, a person cannot contract with another. Therefore, a believer who leaves cannot contract with another.***
+Obj. 1: To the fifth question, we proceed thus.Parallel: *Super I Cor.* 7, lec. 3. It seems that a believer who leaves his unbelieving wife may not take another wife. For the indissolubility of marriage comes from its very nature, since the divorce of one’s wife is against the law of nature, as was said above in Distinction 33, Question 1, Article 1. But between unbelievers there was a valid marriage. Therefore, in no way can that marriage be dissolved. But as long as the bond of marriage to one person remains, a person cannot contract with another. Therefore, a believer who leaves cannot contract with another.  
 
 Obj. 2: Furthermore, crime happening during the marriage does not dissolve marriage. But if the wife wishes to live together without affront to the Creator, the bond of marriage is not dissolved; for the man cannot take another wife. Therefore, the sin of the wife who does not wish to live together without affront to the Creator does not dissolve marriage such that a man might take another wife.  
 
@@ -177,7 +179,7 @@ Article 6
 
 ***Whether a man may put away his wife because of other sins, as for unbelief***
 
-***Obj. 1: To the sixth question, we proceed thus.Parallel: above, d. 35, q. 1, ad 3. It seems that other vices dissolve marriage, just as unbelief does. For adultery seems to be more directly opposed to marriage than unbelief. But unbelief in some cases dissolves the marriage, such that one is permitted to enter upon another marriage. Therefore, adultery also does the same thing.***
+Obj. 1: To the sixth question, we proceed thus.Parallel: above, d. 35, q. 1, ad 3. It seems that other vices dissolve marriage, just as unbelief does. For adultery seems to be more directly opposed to marriage than unbelief. But unbelief in some cases dissolves the marriage, such that one is permitted to enter upon another marriage. Therefore, adultery also does the same thing.  
 
 Obj. 2: Furthermore, just as unbelief is a spiritual fornication,Gratian, *Decretals*, pt. 2, cause 28, q. 1, can. 5. so is any other kind of sin. Therefore, if unbelief, which is a spiritual fornication, dissolves marriage on this account, any other sin would dissolve marriage by the same reasoning.  
 
@@ -205,6 +207,6 @@ Reply Obj. 5: The words of the master are to be taken as concerning betrothed co
 
 Exposition of the Text  
 
-****“Or a foreigner, that is, a heretic*.”*Sententiae* IV, 39.1 (217). 3, Ambrose, *De Abraham patriarcha*, bk 1 c9 n84. The sin of heresy always impedes marriage from being contracted, but it does not invalidate the contract, unless she were a heretic of such a kind that she did not accept the sacrament of baptism, or was not baptized in the form of the Church.***
+*“Or a foreigner, that is, a heretic*.”*Sententiae* IV, 39.1 (217). 3, Ambrose, *De Abraham patriarcha*, bk 1 c9 n84. The sin of heresy always impedes marriage from being contracted, but it does not invalidate the contract, unless she were a heretic of such a kind that she did not accept the sacrament of baptism, or was not baptized in the form of the Church.  
 
 *“But if both should believe, their marriage is approved by their acknowledgment of God*.”*Sent*. IV, 39.5 (221). 3, Ambrosiaster, *In Epistolas sancti Pauli*, 1 Cor. 7, 15. But to the contrary. If a woman had fornicated before her conversion, her husband is bound to take her back, if he also wanted to convert, as it seems. And it must be said that if a woman who has converted seeks out her husband, who has converted, the man cannot hold it against her that she had formerly committed fornication, if he himself gave her the occasion for fornicating; for example, if he refused to live together with her, and she wanted to live together without affront to the Creator. Otherwise he could take exception; and nevertheless the marriage is ratified, so that it may no longer be dissolved on the part of the bond, such that the man would be allowed to take another wife, although it might be dissolved as to the act.

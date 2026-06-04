@@ -1,6 +1,6 @@
 # D. 13 - Minister of the Eucharist
 
-***Postquam determinavit Magister de sacramento Eucharistiae, hic determinat de ministris hujus sacramenti; et dividitur in partes duas: in prima determinat propositum; in secunda epilogat, ibi: *de hoc caelesti mysterio aliqua perstrinximus, a Catholicis fideliter tenenda*.***
+Postquam determinavit Magister de sacramento Eucharistiae, hic determinat de ministris hujus sacramenti; et dividitur in partes duas: in prima determinat propositum; in secunda epilogat, ibi: *de hoc caelesti mysterio aliqua perstrinximus, a Catholicis fideliter tenenda*.  
 
 Prima in duas: in prima ostendit quis possit consecrare et dispensare hujusmodi sacramentum; in secunda quis possit sumere, ibi: *illud etiam sane dici potest*.  
 
@@ -28,7 +28,7 @@ primo, quis possit consecrare;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod etiam laicus possit consecrare. Consecrare enim sacerdotis est. Sed omnis laicus, si sit bonus, sacerdos est; quia, ut dicit Chrysostomus, *omnis sanctus, sacerdos est*; et omnibus fidelibus dictum est, 1 Petr. 2, 9: *vos estis genus electum, regale sacerdotium*. Ergo bonus laicus potest consecrare.***
+Ad primum sic proceditur. Videtur quod etiam laicus possit consecrare. Consecrare enim sacerdotis est. Sed omnis laicus, si sit bonus, sacerdos est; quia, ut dicit Chrysostomus, *omnis sanctus, sacerdos est*; et omnibus fidelibus dictum est, 1 Petr. 2, 9: *vos estis genus electum, regale sacerdotium*. Ergo bonus laicus potest consecrare.  
 
 Praeterea, homo non potest consecrare virtute propria, sed virtute Dei. Sed bonus laicus magis est particeps divinae virtutis quam malus sacerdos. Ergo magis potest bonus laicus consecrare quam malus sacerdos.  
 
@@ -40,7 +40,7 @@ Praeterea, bonitas virtutis non est manifesta, quia nemo scit utrum sit dignus o
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod solus episcopus possit consecrare. Quia in qualibet republica principi debetur actus nobilissimus, sicut etiam Commentator dicit in 11 *Metaphysica*. Sed summus in nostra hierarchia est episcopus, ut dicit Dionysius. Ergo cum consecrare sit summus actus nostrae hierarchiae, hic actus sibi soli debebitur.***
+Ulterius. Videtur quod solus episcopus possit consecrare. Quia in qualibet republica principi debetur actus nobilissimus, sicut etiam Commentator dicit in 11 *Metaphysica*. Sed summus in nostra hierarchia est episcopus, ut dicit Dionysius. Ergo cum consecrare sit summus actus nostrae hierarchiae, hic actus sibi soli debebitur.  
 
 Praeterea, secundum Dionysium, loco cit., perficere est tantum episcopi. Sed secundum ipsum, Eucharistia est perfectivam habens virtutem. Ergo solus episcopus potest consecrare.  
 
@@ -50,7 +50,7 @@ Sed contra est communis usus ecclesiae, et canonum institutio, qui docent potest
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod haeretici et schismatici et excommunicati consecrare non possint. Quia, sicut dicit canon 24, qu. 1, cap. *audivimus, quicumque fuerit ab unitate ecclesiae alienus, exercere potest, consecrare non valet*. Augustinus etiam dicit, quod extra ecclesiam non est locus veri sacrificii. Sed omnes praedicti sunt extra ecclesiam. Ergo non possunt consecrare.***
+Ulterius. Videtur quod haeretici et schismatici et excommunicati consecrare non possint. Quia, sicut dicit canon 24, qu. 1, cap. *audivimus, quicumque fuerit ab unitate ecclesiae alienus, exercere potest, consecrare non valet*. Augustinus etiam dicit, quod extra ecclesiam non est locus veri sacrificii. Sed omnes praedicti sunt extra ecclesiam. Ergo non possunt consecrare.  
 
 Praeterea, hoc sacramentum pollui non potest. Sed secundum Hieronymum, haeretici panem pollutum comedunt. Ergo verum sacrificium*sacrificium.—sacramentum* PLE. non habent; ergo non consecrant.  
 
@@ -62,7 +62,7 @@ Praeterea, qualitas personae non exigitur nisi ad actum proprium personae. Sed c
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod degradatus non possit consecrare. Nullus enim consecrare potest qui non habet potestatem consecrandi. Sed degradatus non habet potestatem consecrandi, quamvis habeat potestatem baptizandi, ut dicit canon. Ergo non potest consecrare.***
+Ulterius. Videtur quod degradatus non possit consecrare. Nullus enim consecrare potest qui non habet potestatem consecrandi. Sed degradatus non habet potestatem consecrandi, quamvis habeat potestatem baptizandi, ut dicit canon. Ergo non potest consecrare.  
 
 Praeterea, *ex eisdem fit res et corrumpitur*, secundum Philosophum in 2 *Ethic*. Sed aliquis ex potestate episcopi accipit posse consecrare. Ergo quando ab ipso degradatur, videtur quod hoc posse amittat.  
 
@@ -74,7 +74,7 @@ Praeterea, hoc idem probatur per indelebilitatem characteris, ut supra. Utrum au
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod Missa mali sacerdotis non minus valeat quam boni. Quia, sicut dicit Augustinus in Lib. *de Corpore Christi*, *in mysterio corporis et sanguinis Domini nihil a bono majus, nihil a malo minus perficitur sacerdote*.***
+Ulterius. Videtur quod Missa mali sacerdotis non minus valeat quam boni. Quia, sicut dicit Augustinus in Lib. *de Corpore Christi*, *in mysterio corporis et sanguinis Domini nihil a bono majus, nihil a malo minus perficitur sacerdote*.  
 
 Praeterea, baptismus datus a bono ministro nihil melius valet quam datus a malo. Ergo nec Missa a bono sacerdote vel malo dicta.  
 
@@ -82,7 +82,7 @@ Sed contra, melius est quod est fructuosius. Sed Missa boni sacerdotis est fruct
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ordo ecclesiae derivatus est ab ordine caelestis hierarchiae; unde sicut in angelis diversis ordinibus diversi actus debentur, ita et in ecclesia militante ad diversos actus diversi ordines applicantur, sicut etiam et in corpore diversa membra diversa habent officia, cui corpus mysticum similatur, ut patet 1 Corinth. 12. Ordines autem ecclesiae distingui non possunt per diversitatem interioris bonitatis, quia ignota est, et indeterminati sunt gradus ejus. Et quia bonitas vel virtus alicujus non ordinatur ad hoc quod aliquis aliquid possit, sed ad hoc quod bene faciat illud quod potest; habitus enim virtutum non sunt potentia, sicut Philosophus probat; ideo quod unus possit actum quem alius non potest, non contingit ex diversitate bonitatis vel malitiae, sed ex potestate suscepta, quam habet unus, et non alius; et ideo, quia laicus potestatem consecrandi non accipit, sua bonitas quantacumque sit, non juvat eum ad hoc quod consecrare possit.***
+Respondeo dicendum ad primam quaestionem, quod ordo ecclesiae derivatus est ab ordine caelestis hierarchiae; unde sicut in angelis diversis ordinibus diversi actus debentur, ita et in ecclesia militante ad diversos actus diversi ordines applicantur, sicut etiam et in corpore diversa membra diversa habent officia, cui corpus mysticum similatur, ut patet 1 Corinth. 12. Ordines autem ecclesiae distingui non possunt per diversitatem interioris bonitatis, quia ignota est, et indeterminati sunt gradus ejus. Et quia bonitas vel virtus alicujus non ordinatur ad hoc quod aliquis aliquid possit, sed ad hoc quod bene faciat illud quod potest; habitus enim virtutum non sunt potentia, sicut Philosophus probat; ideo quod unus possit actum quem alius non potest, non contingit ex diversitate bonitatis vel malitiae, sed ex potestate suscepta, quam habet unus, et non alius; et ideo, quia laicus potestatem consecrandi non accipit, sua bonitas quantacumque sit, non juvat eum ad hoc quod consecrare possit.  
 
 Ad primum ergo dicendum, quod omnis bonus homo dicitur esse sacerdos mystice, quia scilicet mysticum sacrificium Deo offert seipsum, scilicet *hostiam viventem Deo*, Rom. 12.  
 
@@ -92,7 +92,7 @@ Ad tertium dicendum, quod, quamvis acceptio sacramenti sit major in fructu, tame
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod potestas consecrandi non solum episcopis, sed etiam sacerdotibus collata est; quia ordo sacerdotis est medius inter episcopum et populum. Unde sicut in angelica hierarchia illuminationes ad inferiorem ordinem mediante superiore perveniunt, ita omnia sacramenta quae communiter toti populo dispensantur, per sacerdotes conferuntur; et hujusmodi sunt omnia quae non collocant in aliquo statu vel gradu super alios. Et quia Eucharistia est hujusmodi, ideo non solum per episcopos, sed etiam per sacerdotes dispensatur et consecratur. Est etiam alia ratio, ut sit frequentior memoria Dominicae passionis, et magis subveniatur vivis et mortuis ex majori frequentia sacramenti.***
+Ad secundam quaestionem dicendum, quod potestas consecrandi non solum episcopis, sed etiam sacerdotibus collata est; quia ordo sacerdotis est medius inter episcopum et populum. Unde sicut in angelica hierarchia illuminationes ad inferiorem ordinem mediante superiore perveniunt, ita omnia sacramenta quae communiter toti populo dispensantur, per sacerdotes conferuntur; et hujusmodi sunt omnia quae non collocant in aliquo statu vel gradu super alios. Et quia Eucharistia est hujusmodi, ideo non solum per episcopos, sed etiam per sacerdotes dispensatur et consecratur. Est etiam alia ratio, ut sit frequentior memoria Dominicae passionis, et magis subveniatur vivis et mortuis ex majori frequentia sacramenti.  
 
 Ad primum ergo dicendum, quod, licet iste actus sit maximus in se, tamen non est maximus quantum ad constituendum in ordine ecclesiae; quia per sumptionem hujus sacramenti non constituitur aliquis in gradu vel statu altiori inter membra ecclesiae, sicut fit per ordinem; et ideo non oportet quod ille actus solis episcopis reservetur.  
 
@@ -102,7 +102,7 @@ Ad tertium dicendum, quod illae benedictiones non veniunt in usum totius populi,
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod haeretici ab ecclesia praecisi, et similiter excommunicati et schismatici, quia sunt extra unitatem ecclesiae, non possunt consecrare: et hujus opinionis videtur fuisse Magister in littera. Sed quia omne illud quod per consecrationem datur, est perpetuum; ideo, sicut baptismus, qui per consecrationem datur, nunquam amittitur, quantumcumque aliquis in haeresim labatur vel schisma vel excommunicationem; ita nec sacerdotalis ordo aliquo modo amitti potest, ut Augustinus dicit ad Parmenianum. Et quia potestas consecrandi ordinem sacerdotalem consequitur, ut dictum est, ideo haeretici et schismatici et excommunicati consecrant, quamvis ad suam perniciem, dummodo servetur debita forma et materia et intentio, quae etiam in infidelibus esse possunt, ut supra, dist. 5 de baptismo, dictum est.***
+Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod haeretici ab ecclesia praecisi, et similiter excommunicati et schismatici, quia sunt extra unitatem ecclesiae, non possunt consecrare: et hujus opinionis videtur fuisse Magister in littera. Sed quia omne illud quod per consecrationem datur, est perpetuum; ideo, sicut baptismus, qui per consecrationem datur, nunquam amittitur, quantumcumque aliquis in haeresim labatur vel schisma vel excommunicationem; ita nec sacerdotalis ordo aliquo modo amitti potest, ut Augustinus dicit ad Parmenianum. Et quia potestas consecrandi ordinem sacerdotalem consequitur, ut dictum est, ideo haeretici et schismatici et excommunicati consecrant, quamvis ad suam perniciem, dummodo servetur debita forma et materia et intentio, quae etiam in infidelibus esse possunt, ut supra, dist. 5 de baptismo, dictum est.  
 
 Ad primum ergo dicendum, quod verbum canonis intelligendum est quantum ad illos qui debitam formam non servant, vel quantum ad executionem quam amittunt; non enim jus consecrandi habent; et hoc solum posse dicimur in jure, quod juste possumus. Vel loquitur de consecratione qua ordines conferuntur; quia ad damnationem potius quam ad sanctificationem recipientium cedit. Et similiter quod Augustinus dicit, quod extra ecclesiam non est locus veri sacrificii, intelligendum est quantum ad effectum; vel extra ecclesiam, idest extra formam ecclesiae.  
 
@@ -112,7 +112,7 @@ Ad tertium dicendum, quod inquantum ordinem habet, ad unitatem ecclesiae pertine
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod degradatus, quia ordinem non amittit, potestatem consecrandi retinet; sed jus consecrandi sibi aufertur; et ideo si consecrat, peccat: tamen consecratum est.***
+Ad quartam quaestionem dicendum, quod degradatus, quia ordinem non amittit, potestatem consecrandi retinet; sed jus consecrandi sibi aufertur; et ideo si consecrat, peccat: tamen consecratum est.  
 
 Ad primum ergo dicendum, quod ille canon non loquitur asserendo, sed quasi opponendo, ut ex circumstantia litterae apparet.  
 
@@ -122,7 +122,7 @@ Ad tertium dicendum, quod non est essentiale ordini sacerdotali, quod judicio sa
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod de Missa possumus loqui dupliciter: aut quantum ad id quod est essentiale in ea, scilicet corpus Christi; et sic a quocumque dicatur, aequaliter*aequaliter bonum.—aequaliter bona est quia opus operatum aequaliter bonum* PLE. bonum est et virtuosum: vel quantum ad id quod est annexum sacramento, et quasi secundarium; et sic Missa boni sacerdotis melior est, quia non solum habet efficaciam ex opere operato, sed ex opere operante: et ideo ceteris paribus melius est audire Missam boni sacerdotis quam mali.***
+Ad quintam quaestionem dicendum, quod de Missa possumus loqui dupliciter: aut quantum ad id quod est essentiale in ea, scilicet corpus Christi; et sic a quocumque dicatur, aequaliter*aequaliter bonum.—aequaliter bona est quia opus operatum aequaliter bonum* PLE. bonum est et virtuosum: vel quantum ad id quod est annexum sacramento, et quasi secundarium; et sic Missa boni sacerdotis melior est, quia non solum habet efficaciam ex opere operato, sed ex opere operante: et ideo ceteris paribus melius est audire Missam boni sacerdotis quam mali.  
 
 Et per hoc patet solutio ad utramque partem.  
 
@@ -132,7 +132,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod liceat sacerdoti omnino a consecratione abstinere. Quia de beato Marco narrat Hieronymus quod sibi pollicem amputaverit, ut sacerdotio reprobus haberetur. Nec hoc fecit nisi indignum se reputans tali sacramento. Ergo videtur quod si omnino a celebratione abstineat ex reverentia Dominici corporis et propriae infirmitatis consideratione aliquis sacerdos, non peccet.***
+Ad secundum sic proceditur. Videtur quod liceat sacerdoti omnino a consecratione abstinere. Quia de beato Marco narrat Hieronymus quod sibi pollicem amputaverit, ut sacerdotio reprobus haberetur. Nec hoc fecit nisi indignum se reputans tali sacramento. Ergo videtur quod si omnino a celebratione abstineat ex reverentia Dominici corporis et propriae infirmitatis consideratione aliquis sacerdos, non peccet.  
 
 Praeterea, sicut sacerdotis officium est consecrare, ita et ligare et solvere. Sed non exigitur ut liget et solvat, nisi habeat curam animarum. Ergo etiam a sacerdote qui non habet populum cui teneatur, non exigitur quod consecret; et ita non peccat omnino abstinendo.  
 
@@ -140,7 +140,7 @@ Sed contra est quod Ambrosius dicit: *grave est quod ad mensam tuam mundo corde 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non possint plures simul eamdem hostiam consecrare. Quia plurium agentium sunt plures actiones, maxime quando unusquisque sufficit ad agendum. Sed unus sacerdos tantum potest consecrare. Ergo si plures simul consecrent, sunt plures consecrationes super eamdem hostiam; et ita fit injuria sacramento.***
+Ulterius. Videtur quod non possint plures simul eamdem hostiam consecrare. Quia plurium agentium sunt plures actiones, maxime quando unusquisque sufficit ad agendum. Sed unus sacerdos tantum potest consecrare. Ergo si plures simul consecrent, sunt plures consecrationes super eamdem hostiam; et ita fit injuria sacramento.  
 
 Praeterea, unus dicens verba, virtute verborum consecrat. Sed quod factum est, fieri non potest; quia quod est, non fit. Ergo alii nihil faciunt; ergo superfluum est quod dicunt verba.  
 
@@ -148,7 +148,7 @@ Sed contra est consuetudo quarumdam ecclesiarum, in quibus novi sacerdotes simul
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non debeat quotidie Missa in ecclesia celebrari. Quia in Missa recolitur Dominica passio. Sed ecclesia celebrat memoriam Dominicae passionis semel in anno. Ergo non pluries debet in ecclesia Missa dici.***
+Ulterius. Videtur quod non debeat quotidie Missa in ecclesia celebrari. Quia in Missa recolitur Dominica passio. Sed ecclesia celebrat memoriam Dominicae passionis semel in anno. Ergo non pluries debet in ecclesia Missa dici.  
 
 Praeterea, in die parasceves agitur memoria Dominicae passionis, nec tamen tunc consecratio fit. Ergo multo minus deberet fieri in aliis diebus.  
 
@@ -160,7 +160,7 @@ Praeterea, panis hujus sacramenti dicitur *quotidianus*. Sed non nisi quia quoti
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod hora vespertina debeat Missa celebrari. Quia Christi actio nostra est instructio. Sed ipse Christus hoc sacramentum fecit in coena hora serotina. Ergo et tali hora deberet fieri.***
+Ulterius. Videtur quod hora vespertina debeat Missa celebrari. Quia Christi actio nostra est instructio. Sed ipse Christus hoc sacramentum fecit in coena hora serotina. Ergo et tali hora deberet fieri.  
 
 Praeterea, secundum canones ordines sunt celebrandi circa vespertinam horam. Sed ordines sacri non celebrantur sine Missarum solemniis. Ergo debet Missa vespertina hora celebrari.  
 
@@ -170,7 +170,7 @@ Item videtur quod tantum in hora sexta, quia in illa hora Dominus passus est; cu
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod non oporteat in loco sacro celebrari. Quia sicut hoc sacramentum non est necessitatis, ita nec confirmatio. Sed confirmatio potest conferri in loco non sacro. Ergo et hoc sacramentum non oportet quod in loco sacro conficiatur.***
+Ulterius. Videtur quod non oporteat in loco sacro celebrari. Quia sicut hoc sacramentum non est necessitatis, ita nec confirmatio. Sed confirmatio potest conferri in loco non sacro. Ergo et hoc sacramentum non oportet quod in loco sacro conficiatur.  
 
 Item, videtur quod non oporteat esse altare de lapide. Quia sacrificia veteris legis fuerunt sacrificii hujus figura. Sed ad veteris legis sacrificia altare fiebat de lignis sethim, ut patet Exod. 25, et iterum de auro, ut patet 3 Reg. 7, et iterum de terra, ut patet Exod. 26. Ergo et in nova lege non solum de lapide oportet quod fiat.  
 
@@ -182,7 +182,7 @@ De indumentis autem sacerdotalibus dicetur in tractatu de ordine, dist. 24, qu. 
 
 Quaestiuncula 6  
 
-***Ulterius. Videtur quod aliquo praedictorum omisso non sit consecratio. Quia, sicut dicit Dionysius, *operationes hierarchicae ordinantur secundum divinas leges*. Sed ille qui praetermittit ritum ab ecclesia institutum, non sequitur divinas leges, quae per partes nobis positae sunt. Ergo talis non consecrat, cum consecrare sit actus hierarchicus, quia est actus ordinis.***
+Ulterius. Videtur quod aliquo praedictorum omisso non sit consecratio. Quia, sicut dicit Dionysius, *operationes hierarchicae ordinantur secundum divinas leges*. Sed ille qui praetermittit ritum ab ecclesia institutum, non sequitur divinas leges, quae per partes nobis positae sunt. Ergo talis non consecrat, cum consecrare sit actus hierarchicus, quia est actus ordinis.  
 
 Praeterea, totus ritus sacramenti suam habet significationem. Sed significatio est de essentia sacramenti. Ergo et ritus consecrandi; et ita, si praetermittatur, non erit vera consecratio.  
 
@@ -194,7 +194,7 @@ Praeterea, in baptismo sunt quaedam quae si omittantur, non reputatur sacramentu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod secundum quosdam non peccat qui dimittit celebrationem, nisi populum habeat commissum, vel ex obedientia teneatur celebrare. Sed quia secundum Gregorium, *cum crescunt dona, rationes crescunt donorum*; cum sacerdoti sit data potestas nobilissima, reus negligentiae erit, nisi illa utatur ad honorem Dei et salutem suam, et aliorum vivorum et mortuorum, secundum illud 1 Petr. 4, 10: *unusquisque gratiam quam accepit, in alterutrum illam administrantes*. Nisi forte aliquis ex familiari Spiritus Sancti instinctu dimittat, sicut legitur de quodam sancto patre in *Vitis patrum*, qui ordinatus nunquam postea celebravit.***
+Respondeo dicendum ad primam quaestionem, quod secundum quosdam non peccat qui dimittit celebrationem, nisi populum habeat commissum, vel ex obedientia teneatur celebrare. Sed quia secundum Gregorium, *cum crescunt dona, rationes crescunt donorum*; cum sacerdoti sit data potestas nobilissima, reus negligentiae erit, nisi illa utatur ad honorem Dei et salutem suam, et aliorum vivorum et mortuorum, secundum illud 1 Petr. 4, 10: *unusquisque gratiam quam accepit, in alterutrum illam administrantes*. Nisi forte aliquis ex familiari Spiritus Sancti instinctu dimittat, sicut legitur de quodam sancto patre in *Vitis patrum*, qui ordinatus nunquam postea celebravit.  
 
 Ad primum ergo dicendum, quod ille qui non habet ordinem, potest ordinem refugere. Sed ille qui habet, tenetur ipsum exequi.  
 
@@ -202,7 +202,7 @@ Ad secundum dicendum, quod secundum omnes, alios actus ordinum debet homo non so
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum morem quarumdam ecclesiarum plures sacerdotes episcopo concelebrant, quando ordinantur; ad repraesentandum, quod quando Dominus hoc sacramentum instituit, et potestatem consecrandi discipulis dedit, eis concoenavit, sicut episcopus simul cum ordinatis presbyteris celebrat.***
+Ad secundam quaestionem dicendum, quod secundum morem quarumdam ecclesiarum plures sacerdotes episcopo concelebrant, quando ordinantur; ad repraesentandum, quod quando Dominus hoc sacramentum instituit, et potestatem consecrandi discipulis dedit, eis concoenavit, sicut episcopus simul cum ordinatis presbyteris celebrat.  
 
 Ad primum ergo dicendum, quod quia intentio requiritur ad perfectionem sacramentorum, ideo, cum omnes habeant intentionem unam consecrationem faciendi, non est ibi nisi una tantum consecratio.  
 
@@ -210,7 +210,7 @@ Ad secundum dicendum, quod sicut Innocentius dicit, omnes celebrantes debent int
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod secundum Innocentium, quinque de causis quotidie Missa in ecclesia celebratur. Primo, quia oportet semper esse paratam medicinam contra quotidiana peccata. Secundo, ut lignum vitae semper sit in medio paradisi. Tertio, ut nobis quotidie Christus uniatur sacramentaliter, et nos ei spiritualiter. Quarto, ut sit apud nos vigil memoria passionis. Quinto, ut vero agno loco typici quotidie utamur ad vesperam quem Judaei ad vesperam convertendi esurient, secundum illud Psalm. 58, 15: *convertentur ad vesperam, et famem patientur ut canes*.***
+Ad tertiam quaestionem dicendum, quod secundum Innocentium, quinque de causis quotidie Missa in ecclesia celebratur. Primo, quia oportet semper esse paratam medicinam contra quotidiana peccata. Secundo, ut lignum vitae semper sit in medio paradisi. Tertio, ut nobis quotidie Christus uniatur sacramentaliter, et nos ei spiritualiter. Quarto, ut sit apud nos vigil memoria passionis. Quinto, ut vero agno loco typici quotidie utamur ad vesperam quem Judaei ad vesperam convertendi esurient, secundum illud Psalm. 58, 15: *convertentur ad vesperam, et famem patientur ut canes*.  
 
 Ad primum ergo dicendum, quod passio Christi prout in capite contingit, semel tantum in anno repraesentatur in ecclesia; sed prout in nos ejus effectus provenit, quotidie debet repraesentari, quia ejus effectus in nobis continuus est, et sic repraesentatur in hoc sacramento.  
 
@@ -220,7 +220,7 @@ Ad tertium dicendum, quod omnis nostra actio per Christum perfici debet; et ideo
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod communiter loquendo Missa debet dici in die, et non in nocte; quia hoc sacramentum ad tempus gratiae pertinet, quod per diem significatur. Rom. 13, 12: *nox praecessit, dies autem appropinquavit*. Dies autem judicatur non solum ab ortu solis, sed ex quo incipiunt orituri solis signa manifestari per aliquam aeris illustrationem. Tamen in duabus noctibus Missa decantatur propter privilegium illarum noctium, scilicet in nocte nativitatis, quando Christus natus est, et in nocte resurrectionis circa principium, ut patet ex oratione *Deus qui hanc sacratissimam noctem gloria Dominicae resurrectionis illustras* etc., quamvis hoc non oporteat semper observari. Solemnis autem Missae celebratio tribus horis instituta est fieri; scilicet in tertia diebus festis, in sexta diebus profestis, in nona diebus jejuniorum; quia in Missa recolitur mors Christi, qui quidem hora tertia crucifixus est linguis Judaeorum, hora sexta manibus militum, hora nona expiravit. Sed quando fiunt ordines, Missa potest cantari etiam post nonam, et praecipue in sabbato sancto, quia ordines pertinent ad diem Dominicam; vel etiam ut diligentior fiat praeparatio, differtur quantum differri potest ante prandium; et ideo quando non est dies jejunii, celebratur inter tertiam et sextam, qua hora comeditur communiter; sed in diebus jejunii in nona. Privatae autem Missae possunt dici a mane usque ad tertiam, vel etiam usque ad nonam in diebus jejuniorum.***
+Ad quartam quaestionem dicendum, quod communiter loquendo Missa debet dici in die, et non in nocte; quia hoc sacramentum ad tempus gratiae pertinet, quod per diem significatur. Rom. 13, 12: *nox praecessit, dies autem appropinquavit*. Dies autem judicatur non solum ab ortu solis, sed ex quo incipiunt orituri solis signa manifestari per aliquam aeris illustrationem. Tamen in duabus noctibus Missa decantatur propter privilegium illarum noctium, scilicet in nocte nativitatis, quando Christus natus est, et in nocte resurrectionis circa principium, ut patet ex oratione *Deus qui hanc sacratissimam noctem gloria Dominicae resurrectionis illustras* etc., quamvis hoc non oporteat semper observari. Solemnis autem Missae celebratio tribus horis instituta est fieri; scilicet in tertia diebus festis, in sexta diebus profestis, in nona diebus jejuniorum; quia in Missa recolitur mors Christi, qui quidem hora tertia crucifixus est linguis Judaeorum, hora sexta manibus militum, hora nona expiravit. Sed quando fiunt ordines, Missa potest cantari etiam post nonam, et praecipue in sabbato sancto, quia ordines pertinent ad diem Dominicam; vel etiam ut diligentior fiat praeparatio, differtur quantum differri potest ante prandium; et ideo quando non est dies jejunii, celebratur inter tertiam et sextam, qua hora comeditur communiter; sed in diebus jejunii in nona. Privatae autem Missae possunt dici a mane usque ad tertiam, vel etiam usque ad nonam in diebus jejuniorum.  
 
 Ad primum ergo dicendum, quod eadem ratio est quare Christus hora vespertina consecravit, et quare post coenam; unde sicut non oportet quod imitemur eum in secundo, ita nec in primo.  
 
@@ -232,7 +232,7 @@ Ad quartum dicendum, quod quamvis Christus hora sexta fuerit in cruce positus, t
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod in hoc sacramento continetur ille qui est totius sanctitatis causa; et ideo omnia quae ad consecrationem hujus sacramenti pertinent, etiam consecrata sunt; sicut ipsi sacerdotes consecrantes, et ministri, et vestes, et vasa, et omnia hujusmodi; et ideo etiam debet in altari et in domo consecrata celebrari hoc sacramentum. Si autem necessitas adsit, vel propter destructionem ecclesiarum in aliqua terra, vel in itinere constitutis, licet etiam in locis non consecratis celebrare; dummodo habeant altare portatile consecratum, et alia hujusmodi, quae ad consecrationem hujus mysterii requiruntur; alias non licet, nisi episcopo concedente.***
+Ad quintam quaestionem dicendum, quod in hoc sacramento continetur ille qui est totius sanctitatis causa; et ideo omnia quae ad consecrationem hujus sacramenti pertinent, etiam consecrata sunt; sicut ipsi sacerdotes consecrantes, et ministri, et vestes, et vasa, et omnia hujusmodi; et ideo etiam debet in altari et in domo consecrata celebrari hoc sacramentum. Si autem necessitas adsit, vel propter destructionem ecclesiarum in aliqua terra, vel in itinere constitutis, licet etiam in locis non consecratis celebrare; dummodo habeant altare portatile consecratum, et alia hujusmodi, quae ad consecrationem hujus mysterii requiruntur; alias non licet, nisi episcopo concedente.  
 
 Ad primum ergo dicendum, quod confirmationis sacramentum non continet ipsum Christum; et ideo non requiritur loci sanctificatio, sicut in hoc sacramento.  
 
@@ -244,7 +244,7 @@ Ad quartum dicendum, quod secundum statum ecclesiae calix debet esse tantum de a
 
 Quaestiuncula 6  
 
-***Ad sextam quaestionem dicendum, quod remotis his quae non sunt de essentia rei, nihilominus res manet; unde cum hujusmodi ritus quantum ad determinationem horae vel loci vel indumentorum, non sint de essentia sacramenti, sed de solemnitate, si omittantur, nihilominus consecratum est sacrificium, dummodo adsint ea quae sunt de essentia sacramenti, scilicet ordo et intentio ex parte consecrantis, et materia et forma ex parte consecrati. Tamen graviter peccat qui aliter facit, et degradandus esset.***
+Ad sextam quaestionem dicendum, quod remotis his quae non sunt de essentia rei, nihilominus res manet; unde cum hujusmodi ritus quantum ad determinationem horae vel loci vel indumentorum, non sint de essentia sacramenti, sed de solemnitate, si omittantur, nihilominus consecratum est sacrificium, dummodo adsint ea quae sunt de essentia sacramenti, scilicet ordo et intentio ex parte consecrantis, et materia et forma ex parte consecrati. Tamen graviter peccat qui aliter facit, et degradandus esset.  
 
 Ad primum ergo dicendum, quod leges divinae quae pertinent ad essentialem institutionem sacramenti, si mutentur, nihil fit, ut si alia materia esset vel forma; secus autem est de legibus quae pertinent ad solemnitatem sacramenti.  
 
@@ -258,7 +258,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod laicus potest dispensare corpus Christi. Perfectio enim hujus sacramenti in materiae consecratione consistit, ut supra dictum est, non in usu sacramenti. Sed ordinati, sunt ministri sacramentorum. Ergo etsi consecratio materiae ad solos sacerdotes pertineat, tamen dispensatio debet ad omnes pertinere.***
+Ad tertium sic proceditur. Videtur quod laicus potest dispensare corpus Christi. Perfectio enim hujus sacramenti in materiae consecratione consistit, ut supra dictum est, non in usu sacramenti. Sed ordinati, sunt ministri sacramentorum. Ergo etsi consecratio materiae ad solos sacerdotes pertineat, tamen dispensatio debet ad omnes pertinere.  
 
 Praeterea, ab illis debet dispensari sacramentum qui cum reverentia ipsum tractant. Sed quidam laici sunt majoris reverentiae ad sacramentum quam etiam sacerdotes; et etiam mulieres interdum. Ergo per eos potest hoc sacramentum dispensari.  
 
@@ -270,7 +270,7 @@ Praeterea, ad eosdem pertinet esse ministros ecclesiae, et dispensatores mysteri
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod diaconus possit dispensare. Quia beatus Laurentius diaconus fuit. Sibi autem commissa fuit dispensatio Dominici sanguinis, ut patet in legenda sua. Ergo diaconus potest dispensare.***
+Ulterius. Videtur quod diaconus possit dispensare. Quia beatus Laurentius diaconus fuit. Sibi autem commissa fuit dispensatio Dominici sanguinis, ut patet in legenda sua. Ergo diaconus potest dispensare.  
 
 Praeterea, dispensatio hujus sacramenti ad populi curationem pertinet. Sed diaconus potest habere curam animarum. Ergo et ipse est dispensator hujus sacramenti.  
 
@@ -278,7 +278,7 @@ Sed contra est quod dicit canon dist. 93: *non oportet diaconum panem dare*, ide
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aliquis possit licite recipere dispensationem sacramenti a fornicario vel excommunicato vel haeretico sacerdote. Augustinus enim dicit: *neque in homine bono, neque in homine malo aliquis sacramenta Dei fugiat*. Ergo potest a quolibet sacerdote hoc sacramentum recipere.***
+Ulterius. Videtur quod aliquis possit licite recipere dispensationem sacramenti a fornicario vel excommunicato vel haeretico sacerdote. Augustinus enim dicit: *neque in homine bono, neque in homine malo aliquis sacramenta Dei fugiat*. Ergo potest a quolibet sacerdote hoc sacramentum recipere.  
 
 Praeterea, virtus divina praevalet malitiae humanae. Sed sacramentum divina virtute continet gratiam, et causat. Ergo quantumcumque sit malus ille qui dederit, vel haereticus, consequitur gratiam qui ab eo sacramentum recipit.  
 
@@ -290,7 +290,7 @@ Praeterea, nullus debet recipere sacramentum praeter institutionem ecclesiae; qu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut in corpore naturali sunt quaedam membra principalia, per quae virtutes et operationes vitae a principio vitae ad cetera membra decurrunt; ita et in ecclesia sacerdotes et alii ministri sunt quasi membra principalia quibus mediantibus sacramenta vitae populo dispensari debent; et ita laicis, quantumcumque sanctis, sicut nec consecratio, ita nec dispensatio hujus sacramenti competit.***
+Respondeo dicendum ad primam quaestionem, quod sicut in corpore naturali sunt quaedam membra principalia, per quae virtutes et operationes vitae a principio vitae ad cetera membra decurrunt; ita et in ecclesia sacerdotes et alii ministri sunt quasi membra principalia quibus mediantibus sacramenta vitae populo dispensari debent; et ita laicis, quantumcumque sanctis, sicut nec consecratio, ita nec dispensatio hujus sacramenti competit.  
 
 Ad primum ergo dicendum, quod quamvis in essentia sua sacramentum sit perfectum sine usu sacramenti, tamen perfectionem quantum ad effectum sine usu non habet; et ideo etiam usus sacramenti hujus ad dispensationem ministrorum ecclesiae pertinet.  
 
@@ -300,7 +300,7 @@ Ad tertium dicendum, quod sicut baptismum conferre competit sacerdoti ex officio
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod dispensatio hujus sacramenti proprie ad sacerdotem pertinet, eo quod ipse repraesentat Christum, qui fuit mediator Dei et hominum; unde cum hoc sacramentum sit ad reconciliandum nos Deo, debet per sacerdotem, qui est mediator inter Deum et populum, dispensari. Sed sicut sacerdos, ut dictum est, participat aliquid de virtute perfectiva, quae est episcopi, ita diaconus participat aliquid de dispensatione hujus sacramenti: competit enim ei ex officio sanguinem Domini dispensare, sed non corpus: quia dispensator corporis oportet quod ipsum corpus tangat, non autem dispensator sanguinis: diacono autem non licet corpus Christi tangere, cum non habeat manus consecratas; et ideo non debet corpus dispensare nisi de mandato presbyteri vel episcopi, vel presbytero longe posito in casu necessitatis. Vel ideo dispensat sanguinem et non corpus, quia per sanguinem significatur redemptionis mysterium, quod a capite Christo in membra diffunditur officio ministrorum; unde et sanguini aqua, quae populum significat, admiscetur; sed incarnatio, quam corpus Christi significat, non est humano ministerio facta.***
+Ad secundam quaestionem dicendum, quod dispensatio hujus sacramenti proprie ad sacerdotem pertinet, eo quod ipse repraesentat Christum, qui fuit mediator Dei et hominum; unde cum hoc sacramentum sit ad reconciliandum nos Deo, debet per sacerdotem, qui est mediator inter Deum et populum, dispensari. Sed sicut sacerdos, ut dictum est, participat aliquid de virtute perfectiva, quae est episcopi, ita diaconus participat aliquid de dispensatione hujus sacramenti: competit enim ei ex officio sanguinem Domini dispensare, sed non corpus: quia dispensator corporis oportet quod ipsum corpus tangat, non autem dispensator sanguinis: diacono autem non licet corpus Christi tangere, cum non habeat manus consecratas; et ideo non debet corpus dispensare nisi de mandato presbyteri vel episcopi, vel presbytero longe posito in casu necessitatis. Vel ideo dispensat sanguinem et non corpus, quia per sanguinem significatur redemptionis mysterium, quod a capite Christo in membra diffunditur officio ministrorum; unde et sanguini aqua, quae populum significat, admiscetur; sed incarnatio, quam corpus Christi significat, non est humano ministerio facta.  
 
 Ad primum ergo dicendum, quod quamvis fuerit dispensator sanguinis, non tamen legitur fuisse dispensator corporis; unde et adhuc hodie in quibusdam ecclesiis sanguis per diaconum ministris altaris dispensatur.  
 
@@ -308,7 +308,7 @@ Ad secundum dicendum, quod diaconus potest habere curam animarum quantum ad ea q
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod si aliquis cum peccato ad hoc sacramentum accedit, magis cedit ei in nocumentum quam in profectum. Quicumque autem contra ordinationem ecclesiae accedit, per inobedientiam peccat. Simoniaci autem et schismatici et excommunicati ex statuto ecclesiae a dispensatione hujus sacramenti sunt suspensi: quia sunt extra unitatem ecclesiae, in qua sacramenta conferuntur; et similiter interdictum est concubinariis sacerdotibus propter spiritualitatem maximam quae in hoc sacramento requiritur. Unde si aliquis ab aliquo praedictorum sacramentum suscipiat, peccat, et sic gratiam non consequitur. Tamen differt de fornicariis et aliis praedictis: quia aliis non debet homo communicare in divinis scienter, quantumcumque sint occulti; sed concubinarii sacerdotes non sunt vitandi, nisi sint notorii. Et dicuntur notorii tribus modis: vel propter sententiam, quia convicti sunt; vel per confessionem in jure factam; vel per rei evidentiam, sicut quando est ita manifestum quod nulla potest tergiversatione celari. Ab aliis autem peccatoribus licet sacramenta recipere.***
+Ad tertiam quaestionem dicendum, quod si aliquis cum peccato ad hoc sacramentum accedit, magis cedit ei in nocumentum quam in profectum. Quicumque autem contra ordinationem ecclesiae accedit, per inobedientiam peccat. Simoniaci autem et schismatici et excommunicati ex statuto ecclesiae a dispensatione hujus sacramenti sunt suspensi: quia sunt extra unitatem ecclesiae, in qua sacramenta conferuntur; et similiter interdictum est concubinariis sacerdotibus propter spiritualitatem maximam quae in hoc sacramento requiritur. Unde si aliquis ab aliquo praedictorum sacramentum suscipiat, peccat, et sic gratiam non consequitur. Tamen differt de fornicariis et aliis praedictis: quia aliis non debet homo communicare in divinis scienter, quantumcumque sint occulti; sed concubinarii sacerdotes non sunt vitandi, nisi sint notorii. Et dicuntur notorii tribus modis: vel propter sententiam, quia convicti sunt; vel per confessionem in jure factam; vel per rei evidentiam, sicut quando est ita manifestum quod nulla potest tergiversatione celari. Ab aliis autem peccatoribus licet sacramenta recipere.  
 
 Ad primum ergo dicendum, quod inquantum est malus, non fugitur, sed propter ecclesiae prohibitionem. Vel dicendum, quod Augustinus dicit quod sacramenta non sunt fugienda, quia cognoscendum est etiam ab eis verum perfici sacramentum.  
 
@@ -330,7 +330,7 @@ primo, quid faciat haereticum;
 
 ***Quid faciat haereticum***
 
-***Ad primum sic proceditur. Videtur quod haeresis non dicat perversitatem fidei. *Haeresis enim*, ut dicit Isidorus, *idem est quod divisio*. Divisio autem unioni opponitur; unio autem fit per caritatem, quia amor est unitiva virtus, ut dicit Dionysius. Ergo haeresis non pertinet ad perversitatem fidei, sed magis ad perversitatem odii.***
+Ad primum sic proceditur. Videtur quod haeresis non dicat perversitatem fidei. *Haeresis enim*, ut dicit Isidorus, *idem est quod divisio*. Divisio autem unioni opponitur; unio autem fit per caritatem, quia amor est unitiva virtus, ut dicit Dionysius. Ergo haeresis non pertinet ad perversitatem fidei, sed magis ad perversitatem odii.  
 
 Praeterea, schisma divisionem importat; et ita videntur schismatici haeretici esse. Sed schismatici non semper habent fidei perversitatem. Ergo haeresis non consistit in perversitate fidei.  
 
@@ -376,7 +376,7 @@ Articulus 2
 
 ***Utrum haeresis sit majus peccatum aliis***
 
-***Ad secundum sic proceditur. Videtur quod haeresis non sit maximum peccatum. Maxima enim peccata videntur esse principalia peccata: quia illud est maximum in unoquoque genere quod est principale. Sed haeresis non est principale vitium. Ergo non est maximum.***
+Ad secundum sic proceditur. Videtur quod haeresis non sit maximum peccatum. Maxima enim peccata videntur esse principalia peccata: quia illud est maximum in unoquoque genere quod est principale. Sed haeresis non est principale vitium. Ergo non est maximum.  
 
 Praeterea, secundum Philosophum in 8 *Ethic*., pessimum opponitur optimo. Sed fides cui opponitur haeresis, non est optima virtutum. Ergo nec haeresis est maximum peccatum.  
 
@@ -408,7 +408,7 @@ Articulus 3
 
 ***Utrum haeretici sint tolerandi***
 
-***Ad tertium sic proceditur. Videtur quod haeretici sint sustinendi. Nihil enim debet impugnari, nisi quod est contra amicitiam. Sed diversitas opinionum non est contra concordiam amicitiae, ut Philosophus in 9 *Ethic*. innuit. Ergo non sunt impugnandi.***
+Ad tertium sic proceditur. Videtur quod haeretici sint sustinendi. Nihil enim debet impugnari, nisi quod est contra amicitiam. Sed diversitas opinionum non est contra concordiam amicitiae, ut Philosophus in 9 *Ethic*. innuit. Ergo non sunt impugnandi.  
 
 Praeterea, quod est necessarium, non est impediendum. Sed haeresis est necessaria ecclesiae: 1 Corinth. 11, 19: *necesse est haereses esse, ut qui probati sunt, manifesti fiant*. Ergo non sunt impugnandi.  
 
@@ -438,7 +438,7 @@ Ad quintum dicendum, quod ecclesia non persequitur eos ut per violentiam inducan
 
 Expositio textus  
 
-****Qui intus sunt nomine et sacramento, etsi non vita*. Hoc dicit propter schismaticos et haereticos, qui secundum ipsum non possunt consecrare.***
+*Qui intus sunt nomine et sacramento, etsi non vita*. Hoc dicit propter schismaticos et haereticos, qui secundum ipsum non possunt consecrare.  
 
 *Et quid majus corpore et sanguine?* Videtur quod corpus mysticum quod significatur per ipsum. Et dicendum, quod in his quae sunt tantum ad significandum, verum est quod signatum praevalet signo, non autem in aliis quae ex consequenti significant. Et ideo dicendum, quod corpus Christi mysticum, si accipiatur cum ipso capite, est melius quam corpus Christi verum, si tamen corpus Christi verum accipiatur sine divinitate cui est unitum; alias non; quia Deus et omnes creaturae non sunt aliquid melius quam Deus tantum. Si autem accipiatur corpus Christi mysticum absque capite, sic corpus Christi verum est nobilius.  
 

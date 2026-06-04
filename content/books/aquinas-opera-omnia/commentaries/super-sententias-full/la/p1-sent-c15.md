@@ -1,8 +1,10 @@
 # D. 14 - Temporal procession of the Holy Spirit
 
+***De temporali processione Spiritus Sancti***
+
 ***Divisio textus***
 
-***Hic incipit Magister determinare de temporali processione Spiritus Sancti, et dividitur in partes duas: in prima, determinat processionem temporalem Spiritus Sancti; in secunda, determinat nomen Spiritus Sancti, quod rationem temporalis processionis ostendit, in 18 dist., ibi:Al.: *in XV dist. ibi: hic quaeritur, cum Spiritus Sanctus per quem*, etc. *praeterea diligenter considerandum est, cum Spiritus Sanctus dicatur donum et datum; utrum et eadem ratione utrumque nomen ei conveniat*.***
+Hic incipit Magister determinare de temporali processione Spiritus Sancti, et dividitur in partes duas: in prima, determinat processionem temporalem Spiritus Sancti; in secunda, determinat nomen Spiritus Sancti, quod rationem temporalis processionis ostendit, in 18 dist., ibi:Al.: *in XV dist. ibi: hic quaeritur, cum Spiritus Sanctus per quem*, etc. *praeterea diligenter considerandum est, cum Spiritus Sanctus dicatur donum et datum; utrum et eadem ratione utrumque nomen ei conveniat*.  
 
 Prima in duas: in prima determinat de temporali processione in communi; in secunda, quantum ad speciales modos missionis, in 16 dist.: *nunc de Spiritu Sancto videndum est . . . quae sit ejus temporalis processio*.  
 
@@ -38,7 +40,7 @@ Articulus 1
 
 ***Utrum aliqua processio Spiritus Sancti sit temporalis***
 
-***Ad primum sic proceditur. Videtur quod nulla processio Spiritus Sancti sit temporalis.***
+Ad primum sic proceditur. Videtur quod nulla processio Spiritus Sancti sit temporalis.  
 
 Sicut enim generatio est proprietas aeterna Filii secundum quam distinguitur a Patre, ita processio Spiritus Sancti est proprietas secundum quam distinguitur a Patre et Filio. Sed generatio Filii non dicitur temporalis nisi secundum naturam assumptam. Cum igitur Spiritus Sanctus nullam assumpserit naturam, nec assumet, videtur quod nulla sit ejus processio temporalis.  
 
@@ -72,7 +74,7 @@ Articulus 2
 
 ***Utrum processio temporalis distinguatur realiter ab aeterna***
 
-***Ad secundum sic proceditur. Videtur quod temporalis processio ponat in numerum cum aeterna, ut sit alia et alia processio.***
+Ad secundum sic proceditur. Videtur quod temporalis processio ponat in numerum cum aeterna, ut sit alia et alia processio.  
 
 Aeternum enim et temporale non possunt idem esse in essentia. Sed quae differunt per essentiam, simpliciter multiplicantur et numerantur. Ergo aeterna processio et temporalis, simpliciter sunt duae.  
 
@@ -104,7 +106,7 @@ Quaestio 2
 
 ***Secundum quid Spiritus Sanctus temporaliter procedere dicatur***
 
-***Deinde quaeritur, secundum quid attendatur processio temporalis, et circa hoc duo quaeruntur:***
+Deinde quaeritur, secundum quid attendatur processio temporalis, et circa hoc duo quaeruntur:  
 
 primo utrum ipse Spiritus Sanctus secundum processionem temporalem detur, vel tantum dona ejus, vel utrumque.  
 
@@ -116,7 +118,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod ipse Spiritus Sanctus non procedat temporaliter vel detur.***
+Ad primum sic proceditur. Videtur quod ipse Spiritus Sanctus non procedat temporaliter vel detur.  
 
 Illud enim quod secundum se est ubique non videtur usquam secundum se procedere. Sed Spiritus Sanctus, cum sit Deus, est ubique. Ergo non potest in quemquam procedere.  
 
@@ -132,7 +134,7 @@ Praeterea, amor habet rationem primi doni, quia in ipso omnia ex liberalitate co
 
 Quaestiuncula 2  
 
-***Ulterius quaeritur circa hoc, si utrumque datur, quid per prius datur. Et videtur quod Spiritus Sanctus.***
+Ulterius quaeritur circa hoc, si utrumque datur, quid per prius datur. Et videtur quod Spiritus Sanctus.  
 
 Quia per ipsum dantur alia, et quia habet rationem primi doni.  
 
@@ -140,7 +142,7 @@ Sed e contrario videtur quod dona per prius. Quia dona ipsius disponunt nos ad h
 
 Solutio 1  
 
-***Respondeo dicendum, quod ipsemet Spiritus Sanctus procedit temporali processione, vel datur, et non solum dona ejus. Si enim consideremus processionem Spiritus Sancti ex parte ejus a quo procedit, non est dubium quin secundum illum respectum ipsemet Spiritus Sanctus procedat. Si autem consideremus processionem secundum respectum ad id in quo procedit, tunc, sicut dictum est, respectus iste in Spiritu Sancto ponitur, non quia ipse realiter referatur, sed quia alterum refertur ad ipsum. Cum igitur in acceptione donorum ipsius non solum relatio nostra terminetur ad dona, ut ipsa tantum habeamus, sed etiam ad Spiritum Sanctum, quia aliter ipsum habemus quam prius; non tantum dicentur dona ipsius procedere in nos, sed etiam ipsemet; secundum hoc enim ipse dicitur referri ad nos, secundum quod nos referimur in ipsum. Et ideo procedit ipse in nos et dona ipsius: quia et dona ejus recepimus et per eadem ad ipsum nos aliter habemus, inquantum per dona ejus ipsi Spiritui Sancto conjungimur,Parma adds *vel ille nobis*. per donum nos sibi assimilanti.Parma: *assimilans*.***
+Respondeo dicendum, quod ipsemet Spiritus Sanctus procedit temporali processione, vel datur, et non solum dona ejus. Si enim consideremus processionem Spiritus Sancti ex parte ejus a quo procedit, non est dubium quin secundum illum respectum ipsemet Spiritus Sanctus procedat. Si autem consideremus processionem secundum respectum ad id in quo procedit, tunc, sicut dictum est, respectus iste in Spiritu Sancto ponitur, non quia ipse realiter referatur, sed quia alterum refertur ad ipsum. Cum igitur in acceptione donorum ipsius non solum relatio nostra terminetur ad dona, ut ipsa tantum habeamus, sed etiam ad Spiritum Sanctum, quia aliter ipsum habemus quam prius; non tantum dicentur dona ipsius procedere in nos, sed etiam ipsemet; secundum hoc enim ipse dicitur referri ad nos, secundum quod nos referimur in ipsum. Et ideo procedit ipse in nos et dona ipsius: quia et dona ejus recepimus et per eadem ad ipsum nos aliter habemus, inquantum per dona ejus ipsi Spiritui Sancto conjungimur,Parma adds *vel ille nobis*. per donum nos sibi assimilanti.Parma: *assimilans*.  
 
 Ad primum igitur dicendum, quod cum dicitur Deus esse ubique, importatur quaedam relatio Dei ad creaturam, quae quidem realiter non est in ipso, sed in creatura. Contingit autem ex parte creaturae istas relationes multipliciter etiam diversificari secundum diversos effectus quibus Deo assimilatur; et inde est quod significatur ut aliter se habens ad creaturam quam prius. Et propter hoc Spiritus Sanctus, qui ubique est, secundum relationem aliquamParma omits *aliquam*. creaturae ad ipsum, potest dici de novo esse in aliquo, secundum novam relationem ipsius creaturae ad ipsum.  
 
@@ -154,13 +156,13 @@ Alia duo concedimus.
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum, quod ordo aliquorum secundum naturam potest dupliciter considerari. Aut ex parte recipientis vel materiae, et sic dispositio est prior quam id ad quod disponit: et sic per prius recipimus dona Spiritus Sancti quem ipsum Spiritum, quia per ipsa dona recepta Spiritui Sancto assimilamur. Aut ex parte agentis et finis; et sic quod propinquius erit fini et agenti, dicitur esse prius: et ita per prius recipimus Spiritum Sanctum quam dona ejus, quia et Filius per amorem suum alia nobis donavit. Et hoc est simpliciter esse prius.***
+Ad id quod ulterius quaeritur, dicendum, quod ordo aliquorum secundum naturam potest dupliciter considerari. Aut ex parte recipientis vel materiae, et sic dispositio est prior quam id ad quod disponit: et sic per prius recipimus dona Spiritus Sancti quem ipsum Spiritum, quia per ipsa dona recepta Spiritui Sancto assimilamur. Aut ex parte agentis et finis; et sic quod propinquius erit fini et agenti, dicitur esse prius: et ita per prius recipimus Spiritum Sanctum quam dona ejus, quia et Filius per amorem suum alia nobis donavit. Et hoc est simpliciter esse prius.  
 
 Articulus 2  
 
 ***Utrum processio temporalis Spiritus Sancti attendatur secundum omnia dona***
 
-***Ad secundum sic proceditur. Videtur quod secundum omnia dona processio temporalis Spiritus Sancti attendatur.***
+Ad secundum sic proceditur. Videtur quod secundum omnia dona processio temporalis Spiritus Sancti attendatur.  
 
 Omne enim donum quod creaturae confertur, ex liberalitate divinae voluntatis procedit. Sed ratio conferendi per liberalitatem est amor. Ergo videtur quod secundum quaelibet dona creaturae collata, Spiritus Sanctus detur vel procedat.  
 
@@ -198,7 +200,7 @@ Quaestio 3
 
 ***Utrum Spiritus Sanctus detur a viris sanctis***
 
-***Deinde quaeritur a quo Spiritus Sanctus procedit: et quaeritur hic, utrum Spiritus Sanctus detur a sanctis viris; alia enim quae ad hanc inquisitionem pertinent, infra dicentur. Videtur autem quod sancti viri Spiritum Sanctum dare possunt.***
+Deinde quaeritur a quo Spiritus Sanctus procedit: et quaeritur hic, utrum Spiritus Sanctus detur a sanctis viris; alia enim quae ad hanc inquisitionem pertinent, infra dicentur. Videtur autem quod sancti viri Spiritum Sanctum dare possunt.  
 
 Remissio enim peccatorum non fit nisi per Spiritum Sanctum. Sed sancti viri possunt remittere peccata, Joan. 20:23: *quorum remiseritis peccata, remittuntur eis*. Ergo videtur quod possunt dare Spiritum Sanctum.  
 
@@ -228,7 +230,7 @@ Ad tertium dicendum, quod ille qui dat occasionem damni, videtur damnum fecisse 
 
 Expositio textus  
 
-****Non divisim a Patre in Filium, et a Filio in creaturam*. Videtur sibi contradicere: quia supra dixit, dist. 13, duas esse processiones. Et dicendum, quod non sunt simpliciter duae, ut dictum est, sed una alteram includit; et hoc in verbis istis datur intelligi, et etiam aliud, scilicet quod Pater immediate spirat Spiritum Sanctum sicut Filius, non solum quantum ad virtutem, sed etiam quantum ad suppositum; sicut duo homines aliquid simul operantes.***
+*Non divisim a Patre in Filium, et a Filio in creaturam*. Videtur sibi contradicere: quia supra dixit, dist. 13, duas esse processiones. Et dicendum, quod non sunt simpliciter duae, ut dictum est, sed una alteram includit; et hoc in verbis istis datur intelligi, et etiam aliud, scilicet quod Pater immediate spirat Spiritum Sanctum sicut Filius, non solum quantum ad virtutem, sed etiam quantum ad suppositum; sicut duo homines aliquid simul operantes.  
 
 *Ut eum etiam de se procedere ostenderet*. Videtur quod hoc non sit necessarium: quia Spiritus Sanctus etiam a seipso temporaliter datur et procedit. Non tamen ex hoc ostenditur quod a seipso sit. Dicendum, quod cum dicitur Spiritus Sanctus a se dari, totum hoc refertur ad donum in quo Spiritus Sanctus datur, et non ad ipsam personam procedentem, quia Spiritus Sanctus non est a seipso sicut a principio originante. Sed cum per flatum corporalem Spiritus Sanctus significaretur, ostendebatur quod etiam ipsa persona Spiritus Sancti a Filio procedebat.  
 

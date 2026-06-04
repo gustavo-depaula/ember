@@ -591,7 +591,10 @@ STYLE_AUX = set("yz")
 
 INLINE_RE = re.compile(r"<(/?)(b|i|em|strong|sup|sub|u|small)(?:\s[^>]*)?>", re.IGNORECASE)
 SCRIPTURE_REF_RE = re.compile(r"<n-sh[^>]*></n-sh>", re.IGNORECASE)
+# Hyperlinks (with attributes) → keep inner text only.
 LINK_RE = re.compile(r'<a\s[^>]*>(.*?)</a>', re.IGNORECASE | re.DOTALL)
+# Editorial annotations (bare <a>...</a>) → render as parenthetical italic note.
+ANNOTATION_RE = re.compile(r'<a>(.*?)</a>', re.IGNORECASE | re.DOTALL)
 
 
 def html_to_md(html: str) -> str:
@@ -599,7 +602,11 @@ def html_to_md(html: str) -> str:
         return ""
     # Strip the scripture-section helper spans.
     html = SCRIPTURE_REF_RE.sub("", html)
-    # Drop anchor wrappers; keep the inner text.
+    # Bare <a>...</a> on aquinas.cc is an editorial annotation (translator
+    # credit, edition note, etc.). Render as a parenthetical italic note
+    # so it's visually separated from the main text.
+    html = ANNOTATION_RE.sub(lambda m: " *(" + m.group(1).strip() + ")*", html)
+    # Drop anchor wrappers (with attrs — hyperlinks); keep the inner text.
     html = LINK_RE.sub(r"\1", html)
     # <br> becomes a markdown hard line break (two spaces + newline). Do this
     # BEFORE the general tag-stripping below.
@@ -768,23 +775,53 @@ def render_chapter(
     start_idx = chap.position
     end_idx = max(start_idx, end_position - 1)
 
+    # Optionally skip the first row when it is an incipit-style summary that
+    # duplicates the chapter title (common in hymns: pos N = single-line
+    # incipit, pos N+1 = full multi-line refrain).
+    skip_idx = -1
+    if end_idx - start_idx >= 2 and start_idx < len(rows) and start_idx < len(style_chars):
+        first_style = style_chars[start_idx]
+        first_text = html_to_md(rows[start_idx][1]) if start_idx < len(rows) else ""
+        next_text = html_to_md(rows[start_idx + 1][1]) if start_idx + 1 < len(rows) else ""
+        def _normalize_for_compare(t: str) -> str:
+            t = re.sub(r"[^\w\s]+", " ", t)
+            t = re.sub(r"\s+", " ", t)
+            return t.strip().lower()
+        first_norm = _normalize_for_compare(first_text)
+        next_norm = _normalize_for_compare(next_text)
+        is_incipit_dup = (
+            first_style in STYLE_HEADERS
+            and first_norm
+            and next_norm
+            and (first_norm in next_norm or next_norm.startswith(first_norm))
+        )
+        if is_incipit_dup:
+            skip_idx = start_idx
+
     last_was_blank = True
-    skip_first_header = True
     for pos in range(start_idx, end_idx):
         if pos >= len(rows) or pos >= len(style_chars):
             break
+        if pos == skip_idx:
+            continue
         style = style_chars[pos]
         html = rows[pos][1]
         text = html_to_md(html)
         if not text:
             continue
-        if skip_first_header and (style in STYLE_HEADERS or style in STYLE_NUM_HDR):
-            # The chapter's own header position — already used as the # title
-            # via the outline. Skip duplicating it inside the body.
-            skip_first_header = False
-            continue
-        skip_first_header = False
-        if style in STYLE_NUM_HDR or style in STYLE_HEADERS:
+        is_header_style = style in STYLE_NUM_HDR or style in STYLE_HEADERS
+        if is_header_style:
+            # Sanity check: a true header label is short (usually under ~80
+            # chars per line). When a "header" style is used for a long body
+            # paragraph (Letter-style works use 'i' for the opening prose;
+            # scholastic works use 'j' for objection paragraphs), bold-italic
+            # rendering looks wrong. Fall through to body rendering when the
+            # longest line exceeds the header threshold.
+            split_lines = [ln.strip() for ln in text.split("\n") if ln.strip()]
+            max_line_len = max((len(ln) for ln in split_lines), default=0)
+            if max_line_len > 80:
+                is_header_style = False
+        if is_header_style:
             # Inner structural marker (#Lecture, #Chapter, lecture body opener,
             # etc.). The outline already drives the chapter heading; render
             # each meaningful line as its own bold-italic paragraph so multi-

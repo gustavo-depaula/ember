@@ -1,6 +1,8 @@
 # Pr. (Gen 49:1) - Genesis 49:1
 
-***^49:1^ Vocavit autem Jacob filios suos, et ait eis: congregamini, ut annuntiem quae ventura sunt vobis in diebus novissimis.***
+***Genesis 49:1***
+
+^49:1^ Vocavit autem Jacob filios suos, et ait eis: congregamini, ut annuntiem quae ventura sunt vobis in diebus novissimis.  
 
 > **1**. Haec verba competunt huic epistolae. Duo enim tanguntur quae ei conveniunt, scilicet fructus, et eius materia.
 

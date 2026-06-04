@@ -1,6 +1,8 @@
 # D. 30 - Order of charity as regards merit
 
-****Hic queri solet quid potius sit*. Postquam determinavit Magister de ordine caritatis respectu diversorum diligendorum quantum ad quantitatem dilectionis, hic determinat ordinem quantum ad efficaciam merendi.***
+***Divisio textus***
+
+*Hic queri solet quid potius sit*. Postquam determinavit Magister de ordine caritatis respectu diversorum diligendorum quantum ad quantitatem dilectionis, hic determinat ordinem quantum ad efficaciam merendi.  
 
 Dividitur autem haec pars in duas:  
 
@@ -48,7 +50,7 @@ Articulus 1
 
 ***Utrum omnes teneantur diligere inimicos***
 
-***Ad primum sic proceditur. Videtur quod non omnes teneantur ad diligendum inimicos.***
+Ad primum sic proceditur. Videtur quod non omnes teneantur ad diligendum inimicos.  
 
 Matth. 5: *diligite inimicos vestros*; dicit Glossa: *hoc perfectorum est*. Sed ad ea quae sunt perfectionis non omnes tenentur, ut supra dictum est. Ergo non tenentur omnes inimicos diligere.  
 
@@ -90,7 +92,7 @@ Articulus 2
 
 ***Utrum omnes teneantur ostendere inimicis signa caritatis***
 
-***Ad secundum sic proceditur. Videtur quod omnes teneantur ad ostendendum signa amicitiae inimicis.***
+Ad secundum sic proceditur. Videtur quod omnes teneantur ad ostendendum signa amicitiae inimicis.  
 
 Signa enim amicitiae sunt praecipue beneficia ad amicos. Sed homo tenetur benefacere inimicis: Proverb. 25:21: *si esurierit inimicus tuus, ciba illum*. Ergo tenetur ostendere signa amicitiae ad inimicos.  
 
@@ -134,7 +136,7 @@ Articulus 3
 
 ***Utrum majoris meriti sit diligere amicum vel inimicum***
 
-***Ad tertium sic proceditur. Videtur quod majoris meriti sit diligere inimicum quam amicum.***
+Ad tertium sic proceditur. Videtur quod majoris meriti sit diligere inimicum quam amicum.  
 
 Matth. 5:46, Dominus dicit:The Brussels manuscript reads *dixit*. *si dilexeritis eos qui vos diligunt, quam mercedem habebitis?* Sed meritum dicitur respectu mercedis. Ergo majoris meriti est diligere inimicum quam amicum.  
 
@@ -182,7 +184,7 @@ Articulus 4
 
 ***Utrum diligere proximum sit magis meritorium quam diligere Deum***
 
-***Ad quartum sic proceditur. Videtur quod diligere proximum sit magis meritorium quam diligere Deum.***
+Ad quartum sic proceditur. Videtur quod diligere proximum sit magis meritorium quam diligere Deum.  
 
 Naturalibus enim non meremur. Sed diligere Deum est naturale: quia amor summi boni omnibus naturaliter inest, ut dicit Dionysius. Ergo diligere Deum est minus meritorium quam diligere proximum, quod non est adeo naturale.  
 
@@ -222,7 +224,7 @@ Articulus 5
 
 ***Utrum meritum consistat principaliter in caritate***
 
-***Ad quintum sic proceditur. Videtur quod meritum non consistat in caritate principaliter.***
+Ad quintum sic proceditur. Videtur quod meritum non consistat in caritate principaliter.  
 
 Gratia enim dicitur esseThe Bruges manuscript omits *esse*. principium merendi. Sed caritas non est idem quod gratia. Ergo non consistit meritum principaliter penes caritatem.  
 
@@ -256,7 +258,7 @@ Ad quintum dicendum, quod habitus virtutum quamvis inclinent voluntatem, tamen n
 
 Expositio textus  
 
-****An unus et idem motus sit erga amicum et inimicum*. Hoc est impossibile, nisi unus propter alterum diligatur, et actuali consideratione referatur in illud.***
+*An unus et idem motus sit erga amicum et inimicum*. Hoc est impossibile, nisi unus propter alterum diligatur, et actuali consideratione referatur in illud.  
 
 *Erga amicum ferventior*. Hoc intelligendum respectu ipsius objecti; sed respectu finis, ille qui habet majorem conatum, inquantum hujusmodi, est ferventior.  
 

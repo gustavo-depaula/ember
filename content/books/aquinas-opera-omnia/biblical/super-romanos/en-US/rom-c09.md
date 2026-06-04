@@ -1,10 +1,12 @@
 # C. 8 - Redemption of the Flesh
 
+***Redemption of the Flesh***
+
 ***Lecture 1***
 
 ***We are freed from damnation by grace***
 
-***^8:1^ There is now therefore no condemnation to those who are in Christ Jesus, who do not walk according to the flesh. [n. 595]***
+^8:1^ There is now therefore no condemnation to those who are in Christ Jesus, who do not walk according to the flesh. [n. 595]  
 
 > ^8:2^ For the law of the spirit of life, in Christ Jesus, has delivered me from the law of sin and of death. [n. 600]
 
@@ -162,7 +164,7 @@ Lecture 2
 
 ***Mortification of the flesh by the Spirit***
 
-***^8:7^ Because the wisdom of the flesh is an enemy to God. For it is not subject to the law of God: nor can it be. [n. 619]***
+^8:7^ Because the wisdom of the flesh is an enemy to God. For it is not subject to the law of God: nor can it be. [n. 619]  
 
 > ^8:8^ And they who are in the flesh cannot please God. [n. 624]
 
@@ -278,7 +280,7 @@ Lecture 3
 
 ***The Spirit of adoption***
 
-***^8:14^ For whosoever are led by the Spirit of God, they are the sons of God. [n. 634]***
+^8:14^ For whosoever are led by the Spirit of God, they are the sons of God. [n. 634]  
 
 > ^8:15^ For you have not received the spirit of slavery again in fear: but you have received the spirit of adoption of sons, in whom we cry: Abba, Father. [n. 637]
 
@@ -384,7 +386,7 @@ Lecture 4
 
 ***Creation awaits the revelation of the sons of God***
 
-***^8:18^ For I consider that the sufferings of this time are not worthy to be compared with the glory to come that will be revealed in us. [n. 652]***
+^8:18^ For I consider that the sufferings of this time are not worthy to be compared with the glory to come that will be revealed in us. [n. 652]  
 
 > ^8:19^ For the expectation of the creature waits for the revelation of the sons of God. [n. 656]
 
@@ -502,7 +504,7 @@ Lecture 5
 
 ***Longing for the resurrection***
 
-***^8:23^ And not only it, but ourselves also, who have the first fruits of the spirit: even we ourselves groan inwardly, waiting for the adoption of the sons of God, the redemption of our body. [n. 675]***
+^8:23^ And not only it, but ourselves also, who have the first fruits of the spirit: even we ourselves groan inwardly, waiting for the adoption of the sons of God, the redemption of our body. [n. 675]  
 
 > ^8:24^ For we are saved by hope. But hope that is seen is not hope. For who sees that which he hopes for? [n. 681]
 
@@ -618,7 +620,7 @@ Lecture 6
 
 ***Predestination of the saints***
 
-***^8:28^ And we know that to those who love God all things work together unto good: to such as, according to his purpose, are called to be saints. [n. 695]***
+^8:28^ And we know that to those who love God all things work together unto good: to such as, according to his purpose, are called to be saints. [n. 695]  
 
 > ^8:29^ For whom he foreknew, he also predestined to be made conformed to the image of his Son: that he might be the firstborn among many brethren. [n. 701]
 
@@ -756,7 +758,7 @@ Lecture 7
 
 ***Nothing can separate us from the love of God***
 
-***^8:33^ Who will accuse against the elect of God? God is he who justifies: [n. 715]***
+^8:33^ Who will accuse against the elect of God? God is he who justifies: [n. 715]  
 
 > ^8:34^ Who is he who will condemn? [n. 717] Christ Jesus who died: yea, who is risen also again, who is at the right hand of God, who also intercedes for us. [n. 718]
 

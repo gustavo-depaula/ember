@@ -1,10 +1,12 @@
 # Q. 16 - De daemonibus
 
+***De daemonibus***
+
 ***Articulus 1***
 
 ***Utrum daemones habeant corpora naturaliter sibi unita***
 
-***Quaestio est de daemonibus. Et primo quaeritur utrum daemones habeant corpora naturaliter sibi unita.***
+Quaestio est de daemonibus. Et primo quaeritur utrum daemones habeant corpora naturaliter sibi unita.  
 
 Et videtur quod sic. Dicit enim Augustinus XI super Genes. ad litteram: *in spiritu rationalis creaturae bonum est hoc ipsum, quod vivit et vivificat corpus; sive aereum, sicut ipsius Diaboli, vel Daemonum spiritus; sive terrenum, sicut hominis anima*. Sed corpus quod vivificatur, est naturaliter unitum spiritui vivificanti: quia vita est quoddam naturale. Ergo Daemones habent corpora naturaliter sibi unita.  
 
@@ -320,7 +322,7 @@ Articulus 4
 
 ***Utrum Diabolus peccaverit vel peccare potuerit in primo instanti suae creationis***
 
-***Quarto quaeritur utrum Diabolus peccaverit vel peccare potuerit in primo instanti suae creationis.***
+Quarto quaeritur utrum Diabolus peccaverit vel peccare potuerit in primo instanti suae creationis.  
 
 Et videtur quod sic. Dicitur enim I Ioan., III, 8, quod ab initio Diabolus peccavit. Sed hoc non potest intelligi ab initio quod hominem tentando occidit, quia antea ipse malus erat. Ergo hoc intelligitur ab initio quo ipse conditus fuit.  
 
@@ -440,7 +442,7 @@ Articulus 5
 
 ***Utrum liberum arbitrium in daemonibus possit reverti ad bonum post peccatum***
 
-***Quinto quaeritur utrum liberum arbitrium in daemonibus possit reverti ad bonum post peccatum.***
+Quinto quaeritur utrum liberum arbitrium in daemonibus possit reverti ad bonum post peccatum.  
 
 Et videtur quod sic. Dicit enim Dionysius IV cap. de Divin. Nomin., quod data naturalia in Daemonibus integra permanent post peccatum. Sed ante peccatum poterat Diabolus converti ad bonum. Ergo etiam Diabolus post peccatum poterit reverti ad bonum.  
 
@@ -550,7 +552,7 @@ Articulus 6
 
 ***Utrum intellectus Diaboli post peccatum sit obtenebratus***
 
-***Sexto quaeritur utrum intellectus Diaboli post peccatum sit obtenebratus, ut in eum possit cadere error vel deceptio.***
+Sexto quaeritur utrum intellectus Diaboli post peccatum sit obtenebratus, ut in eum possit cadere error vel deceptio.  
 
 Et videtur quod sic. Dicitur enim de Leviathan, per quem Diabolus intelligitur: *existimabit abyssum quasi senescentem*: quod exponens Gregorius in XXXIV Moral. dicit: *abyssum senescere existimat qui terminari quandoque in suppliciis supernam animadversionem putat*. Hoc autem est falsum. Ergo in Diabolo cadit falsa vel erronea opinio.  
 
@@ -852,7 +854,7 @@ Articulus 9
 
 ***Utrum daemones possint transmutare corpora transmutatione formali***
 
-***Nono quaeritur utrum daemones possint transmutare corpora transmutatione formali.***
+Nono quaeritur utrum daemones possint transmutare corpora transmutatione formali.  
 
 Et videtur quod sic. Dicit enim Augustinus in Lib. LXXXIII quaest.: *omnia quae visibiliter fiunt, etiam per inferiores potestates aeris huius non absurde fieri posse creduntur*. Sed formales transmutationes inferiorum corporum fiunt visibiliter, quandoque quidem naturaliter, quandoque autem miraculose. Ergo fieri possunt per Daemones, qui dicuntur inferiores potestates aeris huius.  
 
@@ -966,7 +968,7 @@ Articulus 11
 
 ***Utrum daemones possint immutare partem animae cognoscitivam***
 
-***Undecimo quaeritur utrum Daemones possint immutare partem animae cognoscitivam, quantum ad vim sensitivam interiorem vel exteriorem.***
+Undecimo quaeritur utrum Daemones possint immutare partem animae cognoscitivam, quantum ad vim sensitivam interiorem vel exteriorem.  
 
 Et videtur quod non. Dicit enim Augustinus, XI de Trinit., quod visio tam corporalis quam imaginaria fit per aliquam formam. Forma autem quae est in sensu vel imaginatione, est nobilior quam forma corporalis, cuius est similitudo; ut patet per Augustinum, III super Genes. ad litteram. Cum igitur Daemones non possint imprimere in materiam corporalem formas corporeas, ut supra ostensum est; multo minus videtur quod possint immutare sensum vel imaginationem ad aliquid cognoscendum.  
 

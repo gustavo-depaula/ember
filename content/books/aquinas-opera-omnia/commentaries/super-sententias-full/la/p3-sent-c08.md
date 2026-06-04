@@ -1,8 +1,10 @@
 # D. 7 - Power of the angels
 
+***De eis quae pertinent ad angelorum potestate et virtute***
+
 ***Divisio textus***
 
-***Determinatis his quae pertinent ad naturae conditionem quantum ad bonos et malos angelos communiter, hic consequenter tractat ea quae pertinent ad eorum potestatem et virtutem; et dividitur in partes duas:***
+Determinatis his quae pertinent ad naturae conditionem quantum ad bonos et malos angelos communiter, hic consequenter tractat ea quae pertinent ad eorum potestatem et virtutem; et dividitur in partes duas:  
 
 in prima determinat eorum potestatem respectu operationum quas in seipsis habent;  
 
@@ -70,7 +72,7 @@ Articulus 1
 
 ***Utrum angeli boni possint peccare***
 
-***Ad primum sic proceditur. Videtur quod angeli boniParma omits *boni*. possint peccare.***
+Ad primum sic proceditur. Videtur quod angeli boniParma omits *boni*. possint peccare.  
 
 Quia, secundum Philosophum, 9 *Metaph*., potestates rationales sunt ad opposita. Sed liberum arbitrium quod in angelis bonis manet, est rationalis potestas, quia est facultas rationis et voluntatis, secundum Augustinum. Ergo videtur quod si possunt bene velle, quod etiam possint peccare.  
 
@@ -104,7 +106,7 @@ Articulus 2
 
 ***Utrum daemones possint bonum facere***
 
-***Ad secundum sic proceditur. Videtur quod daemones possint bonum facere et non sint obstinati in malo.***
+Ad secundum sic proceditur. Videtur quod daemones possint bonum facere et non sint obstinati in malo.  
 
 Natura enim intellectualis ordinata est ad beatitudinem, cujus facta est capax. Sed in daemonibus manet natura post peccatum. Ergo non sunt adeo obstinati quin possint bonum velle et beatitudinem consequi.  
 
@@ -160,7 +162,7 @@ Articulus 1
 
 ***Utrum daemones sint acutae scientiae***
 
-***Ad primum sic proceditur. Videtur quod daemones non sint acuti scientia, sicut in littera dicitur.***
+Ad primum sic proceditur. Videtur quod daemones non sint acuti scientia, sicut in littera dicitur.  
 
 Sicut enim dicit Dionysius, *De div. nom*., cap. 4: *malum daemonis est furor irrationalis, amens concupiscentia, et phantasia proterva*. Haec autem omnia habitudinem cognitionis important. Ergo videtur quod scientiae acumine non polleant.  
 
@@ -186,7 +188,7 @@ Articulus 2
 
 ***Utrum per daemones possit fieri divinatio***
 
-***Ad secundum sic proceditur. Videtur quod per daemones divinatio fieri non possit.***
+Ad secundum sic proceditur. Videtur quod per daemones divinatio fieri non possit.  
 
 Praenuntiatio enim futurorum divinitatis est signum: unde dicitur Isaiae 41:23: *ventura quoque annuntietis, et dicemus quod*Vulg.: *annutiate quae ventura sunt, et sciemus quia*. *dii estis*. Sed daemones sunt omnino divinitatis expertes. Ergo per eos divinatio de futuris fieri non potest.  
 
@@ -246,7 +248,7 @@ Articulus 1
 
 ***Utrum daemones possint inducere in materia corporali verum effectum corporalem***
 
-***Ad primum sic proceditur. Videtur quod daemones verum effectum corporalem inducere nequeant.***
+Ad primum sic proceditur. Videtur quod daemones verum effectum corporalem inducere nequeant.  
 
 Quia dicitur 2 Thess. 2:9, quod Antichristus veniet in signis mendacibus. Sed tunc maximam potestatem daemones habebunt. Ergo videtur quod nullo modo possint aliquem effectum verum inducere.  
 
@@ -282,7 +284,7 @@ Articulus 2
 
 ***Utrum uti auxilio daemonis ad effectus corporales sit malum***
 
-***Ad secundum sic proceditur. Videtur quod uti auxilio daemonum in talibus operationibus non sit malum.***
+Ad secundum sic proceditur. Videtur quod uti auxilio daemonum in talibus operationibus non sit malum.  
 
 Ipse enim Paulus Corinthium fornicarium tradidit *Satanae in interitum carnis*, ut dicitur 1 Corinth. 5:5. Sed in hoc non dicitur peccasse. Ergo uti licet obsequio daemonum.  
 
@@ -308,7 +310,7 @@ Ad quartum dicendum, quod nulla utilitas esse potest pro qua aliquid faciendum s
 
 Expositio textus  
 
-****Boni vero arbitrium*Al.: *boni vero argumentum*. *multo liberius habent post confirmationem quam ante*. Sed contra, liberum arbitrium est quod cogi non potest. Sed negationes non recipiunt magis et minus. Ergo nec liberum arbitrium.***
+*Boni vero arbitrium*Al.: *boni vero argumentum*. *multo liberius habent post confirmationem quam ante*. Sed contra, liberum arbitrium est quod cogi non potest. Sed negationes non recipiunt magis et minus. Ergo nec liberum arbitrium.  
 
 Ad quod dicendum, quod quamvis negatio, secundum illud quod est, magis vel minus non recipiat, tamen dicitur intendi et remitti, quatenus habet causam in subjecto; sicut qui caret substantia oculi, magis dicitur caecus quam ille cujus visus dicitur ab humore aliquo impeditus ad pupillam confluente: et ideo dici potest libertas arbitrii major et minor, secundum modum naturae in qua est.  
 

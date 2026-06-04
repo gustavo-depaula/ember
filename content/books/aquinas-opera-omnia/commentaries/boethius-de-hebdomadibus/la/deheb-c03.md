@@ -1,5 +1,7 @@
 # L. 2 - Commentary on the Rules
 
+***Diversum est esse et id quod est.***
+
 > Ipsum enim esse nondum est. At vero quod est accepta essendi forma est atque consistit.
 
 > Quod est participare aliquo potest, sed ipsum esse nullo modo aliquo participat. Fit enim participatio cum aliquid iam est. Est autem aliquid cum esse susceperit.

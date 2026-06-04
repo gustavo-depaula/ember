@@ -1,5 +1,7 @@
 # On Man
 
+***Quaestio 4***
+
 ***Quantum ad bonum naturae***
 
 ***Deinde quaerebatur de homine.***
@@ -22,7 +24,7 @@ Articulus 1
 
 ***De unione animae ad corpus***
 
-***Ad primum sic procedebatur. Videtur quod per adventum animae non excludantur omnes formae quae prius inerant.***
+Ad primum sic procedebatur. Videtur quod per adventum animae non excludantur omnes formae quae prius inerant.  
 
 Dicitur enim Genesis I: *formavit Deus hominem de limo terrae, et inspiravit in faciem eius spiraculum vitae*; frustra autem formasset corpus si, inspirando animam, forma quam formando indiderat excluderetur; non ergo adveniente anima tolluntur omnes formae praecedentes.  
 
@@ -58,7 +60,7 @@ Articulus 2
 
 ***De potestate liberi arbitrii***
 
-***Ad secundum sic procedebatur. Videtur quod homo absque gratia per solam naturalem arbitrii libertatem possit se ad gratiam praeparare.***
+Ad secundum sic procedebatur. Videtur quod homo absque gratia per solam naturalem arbitrii libertatem possit se ad gratiam praeparare.  
 
 Quia, ut dicitur Proverbiorum XVI: *hominis est praeparare animum*; hoc autem dicitur esse alicuius quod est in eius potestate constitutum; ergo in potestate hominis constitutum est quod possit se ad gratiam praeparare; non ergo indiget ad hoc auxilio gratiae.  
 
@@ -90,7 +92,7 @@ Articulus 3
 
 ***De dilectione naturali***
 
-***Ad tertium sic proceditur. Videtur quod primus homo in statu innocentiae non dilexerit Deum super omnia et plus quam se ipsum.***
+Ad tertium sic proceditur. Videtur quod primus homo in statu innocentiae non dilexerit Deum super omnia et plus quam se ipsum.  
 
 Sic enim diligere Deum est maxime meritorium; sed primus homo in statu illo non habuit unde posset *proficere* per meritum, ut dicitur in XXIV distinctione II libri *Sententiarum*; ergo primus homo in statu illo non dilexit Deum plus quam se ipsum et super omnia.  
 
@@ -148,7 +150,7 @@ Articulus unicus
 
 ***Utrum contritus teneatur velle magis esse in inferno quam peccare***
 
-***Ad primum sic proceditur. Videtur quod contritus non debeat magis velle esse in inferno quam peccare.***
+Ad primum sic proceditur. Videtur quod contritus non debeat magis velle esse in inferno quam peccare.  
 
 Poena enim inferni est aeterna et irremediabilis; de peccato autem potest liberari per poenitentiam; ergo magis debet velle peccare quam in inferno esse.  
 
@@ -178,9 +180,9 @@ tertio, utrum presbyter parochialis debeat credere suo parochiano dicenti se ess
 
 Articulus 1  
 
-***Utrum sufficiat quod aliquis scripto confiteatur an oporteat quod confiteatur verbo***
+Utrum sufficiat quod aliquis scripto confiteatur an oporteat quod confiteatur verbo  
 
-***Ad primum sic procedebatur. Videtur quod sufficiat si aliquis confitetur scripto.***
+Ad primum sic procedebatur. Videtur quod sufficiat si aliquis confitetur scripto.  
 
 Confessio enim requiritur ad manifestationem peccati; sed peccatum manifestari potest scripto sicut et verbo; ergo sufficit si confiteatur scripto.  
 
@@ -198,9 +200,9 @@ Rationes autem quae ad utramque partem inducuntur, non multum cogunt: nam neque 
 
 Articulus 2  
 
-***An aliquis teneatur statim confiteri habita opportunitate, vel possit expectare usque ad quadragesimam***
+An aliquis teneatur statim confiteri habita opportunitate, vel possit expectare usque ad quadragesimam  
 
-***Ad secundum sic proceditur. Videtur quod aliquis possit differre confessionem usque ad quadragesimam.***
+Ad secundum sic proceditur. Videtur quod aliquis possit differre confessionem usque ad quadragesimam.  
 
 Quicumque enim servat praeceptum Ecclesiae, non delinquit; sed Ecclesia statuit quod semel in anno homines propria peccata confiteantur; ergo si aliquis expectat usque ad terminum ab Ecclesia constitutum, non peccat.  
 
@@ -224,9 +226,9 @@ Ad illud vero quod in contrarium obiicitur, dicendum quod morbus corporalis, nis
 
 Articulus 3  
 
-***Utrum presbyter parochialis debeat credere suo parochiano dicenti se esse alteri confessum et dare ei eucharistiam, vel non***
+Utrum presbyter parochialis debeat credere suo parochiano dicenti se esse alteri confessum et dare ei eucharistiam, vel non  
 
-***Ad tertium sic proceditur. Videtur quod sacerdos parochialis non debeat credere suo subdito dicenti se alteri esse confessum, ut propter hoc ei Eucharistiam det.***
+Ad tertium sic proceditur. Videtur quod sacerdos parochialis non debeat credere suo subdito dicenti se alteri esse confessum, ut propter hoc ei Eucharistiam det.  
 
 Frequenter enim in ipsa confessione aliqui conterentur, qui prius contriti non fuerunt; sed sacerdos debet subditum suum, quantum potest, ad bonum inducere; ergo videtur quod omnino ab eo expetere debeat quod sibi confiteatur.  
 
@@ -254,7 +256,7 @@ Articulus 1
 
 ***De officio ecclesiae***
 
-***Ad primum sic procedebatur. Videtur quod aliquis in tali casu debeat utrumque officium dicere.***
+Ad primum sic procedebatur. Videtur quod aliquis in tali casu debeat utrumque officium dicere.  
 
 Onus enim debet respondere emolumento; ille ergo qui habet emolumentum praebendae in duabus ecclesiis, debet onus sufferre utriusque, ut scilicet utriusque ecclesiae officium dicat.  
 
@@ -276,7 +278,7 @@ Articulus 2
 
 ***De studio theologiae***
 
-***Ad secundum sic procedebatur. Videtur quod aliquis qui potest saluti animarum curam impendere, peccet, si circa studium tempus occupat.***
+Ad secundum sic procedebatur. Videtur quod aliquis qui potest saluti animarum curam impendere, peccet, si circa studium tempus occupat.  
 
 Dicitur enim ad Galatarum ultimo: *dum tempus habemus, operemur bonum*; nulla etiam est gravior *iactura* quam *temporis*; non debet ergo aliquis tenere tempus in studio, differens saluti animarum curam impendere.  
 
@@ -320,9 +322,9 @@ secundo, utrum teneatur sibi obedire ut revelet occultam culpam fratris quam nov
 
 Articulus 1  
 
-***Utrum religiosus teneatur obedire suo praelato ut revelet sibi aliquod secretum quod fidei suae est commissum***
+Utrum religiosus teneatur obedire suo praelato ut revelet sibi aliquod secretum quod fidei suae est commissum  
 
-***Ad primum sic procedebatur. Videtur quod religiosus teneatur secretum fidei suae commissum revelare praelato praecipienti.***
+Ad primum sic procedebatur. Videtur quod religiosus teneatur secretum fidei suae commissum revelare praelato praecipienti.  
 
 Ad obediendum enim praelato obligavit se religiosus professione sollemni, ad tenendum autem secretum obligavit se simplici promissione; ergo magis debet obedire praelato quam servare secretum.  
 
@@ -340,7 +342,7 @@ Articulus 2
 
 ***Utrum teneatur sibi obedire ut revelet occultam culpam fratris quam novit***
 
-***Ad secundum sic procedebatur. Videtur quod subditus debeat praelato praecipienti revelare culpam occultam alterius fratris.***
+Ad secundum sic procedebatur. Videtur quod subditus debeat praelato praecipienti revelare culpam occultam alterius fratris.  
 
 Quia, ut Hieronymus dicit, non debet occultari culpa unius in praeiudicium multorum; sed praesumendum est quod praelatus culpam unius cognoscere velit propter multitudinis bonum; ergo praelato praecipienti debet culpa alterius revelari.  
 
@@ -392,7 +394,7 @@ Articulus 2
 
 ***Utrum periurium sit gravius peccatum quam homicidium***
 
-***Ad secundum sic procedebatur. Videtur quod periurium sit gravius peccatum quam homicidium.***
+Ad secundum sic procedebatur. Videtur quod periurium sit gravius peccatum quam homicidium.  
 
 Dicit enim Bernardus quod contra praecepta primae tabulae non potest dispensare nec Deus nec homo, contra praecepta autem secundae tabulae potest dispensare Deus, sed non homo; ex quo potest accipi quod gravius sit peccare contra praecepta primae tabulae quam contra praecepta secundae; sed periurium est contra praeceptum primae tabulae, quod est: *non assumes nomen Dei tui in vanum*, homicidium autem contra praeceptum secundae tabulae: *non occides*; ergo gravius peccatum est periurium quam homicidium.  
 
@@ -410,7 +412,7 @@ Articulus 3
 
 ***Utrum peccet qui propter ignorantiam constitutionem Papae non servat***
 
-***Ad tertium sic procedebatur. Videtur quod qui facit contra constitutionem papae per ignorantiam, non peccet.***
+Ad tertium sic procedebatur. Videtur quod qui facit contra constitutionem papae per ignorantiam, non peccet.  
 
 Ut enim Augustinus dicit, *peccatum adeo est voluntarium, quod si non sit voluntarium, non est peccatum*; sed ignorantia causat involuntarium, ut dicitur in III *Ethicorum*; ergo quod fit per ignorantiam, non est peccatum.  
 
@@ -426,7 +428,7 @@ Articulus 4
 
 ***Utrum monachus peccet mortaliter comedendo carnes***
 
-***Ad quartum sic proceditur. Videtur quod monachus peccet mortaliter comedendo carnes.***
+Ad quartum sic proceditur. Videtur quod monachus peccet mortaliter comedendo carnes.  
 
 Dicit enim canon “De consecratione” quod monachi non debent comedere carnes et, si contra fecerint, debent incarcerari; sed talis poena non infligitur nisi pro peccato mortali; ergo monachi comedentes carnes peccant mortaliter.  
 
@@ -462,9 +464,9 @@ secundo, utrum hoc fieri possit miraculo.
 
 Articulus 1  
 
-***Utrum corpus gloriosum naturaliter possit esse cum alio corpore non glorioso in eodem loco***
+Utrum corpus gloriosum naturaliter possit esse cum alio corpore non glorioso in eodem loco  
 
-***Ad primum sic procedebatur. Videtur quod corpus gloriosum naturaliter possit esse cum alio corpore in eodem loco.***
+Ad primum sic procedebatur. Videtur quod corpus gloriosum naturaliter possit esse cum alio corpore in eodem loco.  
 
 Si enim prohibetur esse cum alio corpore in eodem loco, aut est propter grossitiem seu corpulentiam, aut propter dimensiones; sed non propter grossitiem seu corpulentiam, quia corpus gloriosum erit *spirituale*, secundum Apostolum, I ad Corinthios XV; similiter nec propter dimensiones, quia, cum tangentia sint *quorum ultima* sunt *simul*, necesse est quod punctum unius corporis naturalis sit simul cum puncto alterius, et linea cum linea, et superficies cum superficie; pari ergo ratione et corpus cum corpore; non ergo prohibetur corpus gloriosum quin naturaliter possit esse simul cum alio corpore in eodem loco.  
 
@@ -494,7 +496,7 @@ Articulus 2
 
 ***Utrum hoc fieri possit miraculo***
 
-***Ad secundum sic procedebatur. Videtur quod corpus gloriosum nullo modo possit esse simul cum alio corpore in eodem loco.***
+Ad secundum sic procedebatur. Videtur quod corpus gloriosum nullo modo possit esse simul cum alio corpore in eodem loco.  
 
 Sicut enim se habet corpus unum ad unum locum, ita duo corpora ad duo loca; ergo, commutatim, sicut unum corpus ad duo loca, ita duo corpora ad unum locum; sed unum corpus nullo modo potest esse in duobus locis; ergo nec duo corpora in uno loco.  
 

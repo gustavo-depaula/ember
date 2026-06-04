@@ -1,8 +1,10 @@
 # D. 6 - The mode of union
 
+***The mode of union***
+
 ***Division of the text***
 
-***After the Master has studied the Incarnation of God, here he begins to examine the conditions of God incarnate.***
+After the Master has studied the Incarnation of God, here he begins to examine the conditions of God incarnate.  
 
 Now, this part is divided into two parts:  
 
@@ -122,7 +124,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *ST* III.2.3; *SCG* IV.38; *De unione Verbi*, a. 2; *Contra errores Graecororum,* cc. 20–21; *De rationibus fidei,* ch. 6; *Compend. theol.,* cc. 210–211; *Quodl.* IX, q. 2, a. 1; *Super Ioan*. 1, lect. 7. It appears that in Christ there are two hypostases.***
+To the first we proceed thus.Parallels: *ST* III.2.3; *SCG* IV.38; *De unione Verbi*, a. 2; *Contra errores Graecororum,* cc. 20–21; *De rationibus fidei,* ch. 6; *Compend. theol.,* cc. 210–211; *Quodl.* IX, q. 2, a. 1; *Super Ioan*. 1, lect. 7. It appears that in Christ there are two hypostases.  
 
 Obj. 1: For as Boethius says,Boethius, *Contra Eutychen et Nestorium, de Duabis Naturis*, ch. 2 (PL 64:1343). in the proper sense of the word, every particular substance can be called a “hypostasis,” although in common usage it is said only of nobler substances. But in Christ, as all concede, there are several substances, and they are not universals but particulars. Therefore in Christ there are several substances.  
 
@@ -136,7 +138,7 @@ Furthermore, according to Boethius,Boethius, *Contra Eutychen et Nestorium, de D
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it is asked whether there are two supposits in Christ. It appears so. For “supposit” indicates a reference to a common nature. But in Christ there are two natures. Therefore there are two supposits.***
+Obj. 1: Furthermore, it is asked whether there are two supposits in Christ. It appears so. For “supposit” indicates a reference to a common nature. But in Christ there are two natures. Therefore there are two supposits.  
 
 Obj. 2: Furthermore, “supposit” indicates, as it were, “what is placed under another.” But it is strange to say that the divine person is “placed under” the human nature. Therefore the supposit of the human nature must be different than the divine person. But a divine person is a supposit of the divine nature. Therefore there are two supposits in Christ.  
 
@@ -146,7 +148,7 @@ On the contrary, that which is united to something of a greater dignity does not
 
 Quaestiuncula 3  
 
-***Obj. 1: Next, it appears that in Christ there are two individuals. For, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 11 (PG 94:1023). the Son of God assumed human nature as something undivided, that is, as an individual. But because the assumed nature is in Christ, we say that the natures are two. Therefore we can also say that in Christ there are two individuals.***
+Obj. 1: Next, it appears that in Christ there are two individuals. For, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 11 (PG 94:1023). the Son of God assumed human nature as something undivided, that is, as an individual. But because the assumed nature is in Christ, we say that the natures are two. Therefore we can also say that in Christ there are two individuals.  
 
 Obj. 2: Furthermore, everything that exists is either universal or particular. But a human nature exists in Christ. Therefore, since it is not a universal, it will be a particular. But every particular is an individual. Therefore there are two individuals there.  
 
@@ -156,7 +158,7 @@ On the contrary, a person is nothing other than an *individual of a rational nat
 
 Quaestiuncula 4  
 
-***Obj. 1: Next, it appears that there are two things of nature here. For a thing of a nature is what is constituted by the nature. But the divine person is not constituted by the human nature. Therefore in Christ the person of the Word is not a thing of the human nature. Therefore in Christ there are two things of nature.***
+Obj. 1: Next, it appears that there are two things of nature here. For a thing of a nature is what is constituted by the nature. But the divine person is not constituted by the human nature. Therefore in Christ the person of the Word is not a thing of the human nature. Therefore in Christ there are two things of nature.  
 
 Obj. 2: Furthermore, a thing of a nature appears to be the same thing as a natural thing. But, as is said in the *Physics* 2,Aristotle, *Physics* 2.1, 192b33; Aquinas, *In Physic.*, bk. 2, lect. 1, n. 4. a natural thing is either a property caused by a nature’s principles or the composite of the natural principles. But neither of these fits the divine person. Therefore the divine person is not a thing of the human nature. And thus the same thing follows as before.  
 
@@ -164,7 +166,7 @@ On the contrary, a thing of a nature is something complete subsisting in the nat
 
 Response to Quaestiuncula 1  
 
-***I answer that, since every particular carries a reference to a common nature and to its own properties, it can be named in reference to either, by a name of first imposition and by a name of second intention. For the name “thing of a nature” names a first imposition, one that signifies a particular in reference to its common nature. But this name “supposit” names a second imposition, one signifying the very way the particular relates to its common nature, insofar as it subsists in it, but it is particular insofar as that nature is broader than it.***
+I answer that, since every particular carries a reference to a common nature and to its own properties, it can be named in reference to either, by a name of first imposition and by a name of second intention. For the name “thing of a nature” names a first imposition, one that signifies a particular in reference to its common nature. But this name “supposit” names a second imposition, one signifying the very way the particular relates to its common nature, insofar as it subsists in it, but it is particular insofar as that nature is broader than it.  
 
 But because accidents follow upon a nature, every name designating a particular in reference to its properties also designates it in reference to its common nature. This can happen in two ways: either by a name of a first imposition—and in this way “hypostasis” is common to all substances, but “person” to all rational substances—or by a name of a second imposition—and in this way something is an “individual*“* insofar as in itself it is not divided, but a “singular*“* insofar as it is divided from others. This is why the “singular*“* is the same thing as the “divided.”  
 
@@ -192,7 +194,7 @@ Reply Sed Contra: We grant the things objected on the contrary. Yet one should k
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in Christ there is only one supposit, for the reason already stated—unless one means that it is just a supposit of speech, but in this sense anything about which one can speak is a supposit.***
+To the second question, it should be said that in Christ there is only one supposit, for the reason already stated—unless one means that it is just a supposit of speech, but in this sense anything about which one can speak is a supposit.  
 
 Reply Obj. 1: However, although there are two natures there, still it is one thing that has reference to the two natures. And therefore there is one supposit there.  
 
@@ -202,7 +204,7 @@ Reply Obj. 3: A part does not properly have a genus or a species. Whence it does
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in Christ there are two individuals, yet not individuals subsisting through themselves; and Christ himself is one subsisting individual, as was said.***
+To the third question, it should be said that in Christ there are two individuals, yet not individuals subsisting through themselves; and Christ himself is one subsisting individual, as was said.  
 
 Reply Obj. 1: Damascene intends to say that [the Word] assumed a particular human nature, not a subsisting one, but rather, one that the divine person subsists in.  
 
@@ -214,7 +216,7 @@ Reply Obj. 4: In Christ there is something individual that is not an individual 
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that in Christ there are not two things of a nature, but rather that he himself is one thing of two natures.***
+To the fourth question, it should be said that in Christ there are not two things of a nature, but rather that he himself is one thing of two natures.  
 
 Reply Obj. 1: Although by the human nature the Word is not constituted to be, simply, yet by the human nature it is constituted to be a man.  
 
@@ -224,7 +226,7 @@ Article 2
 
 ***Whether the Son of God assumed a man***
 
-***To the second we proceed as follows.Parallels: *ST* III.2.6; III.4.3; *Contra errores Graecorum,* ch. 20; *Compend. theol.*, ch. 210; *Super Rom*. 1, lect. 3; *Super Philip*. 2, lect. 2. It appears that the Son of God assumed a man.***
+To the second we proceed as follows.Parallels: *ST* III.2.6; III.4.3; *Contra errores Graecorum,* ch. 20; *Compend. theol.*, ch. 210; *Super Rom*. 1, lect. 3; *Super Philip*. 2, lect. 2. It appears that the Son of God assumed a man.  
 
 Obj. 1: Psalm 65:4: *Blessed is he whom you have chosen and assumed*; this is speaking about Christ the man. Therefore the man was assumed.  
 
@@ -258,7 +260,7 @@ Article 3
 
 ***Whether “man” here signifies the composite of only the two substances***
 
-***To the third we proceed as follows. It appears that “man” signifies only the composite of the two substances.***
+To the third we proceed as follows. It appears that “man” signifies only the composite of the two substances.  
 
 Obj. 1: For “man” is predicated of Christ and Peter, and it is not said of them equivocally. But when it is said of Peter, only the composite of the two natures or substances is being predicated. Therefore so too when it is said of Christ.  
 
@@ -286,7 +288,7 @@ Question 2
 
 ***The second opinion***
 
-***Next, we inquire about things that pertain to the second opinion. Three things are asked:***
+Next, we inquire about things that pertain to the second opinion. Three things are asked:  
 
 first, whether Christ is one thing;  
 
@@ -298,7 +300,7 @@ Article 1
 
 ***Whether Christ is two [things], in the neuter***
 
-***To the first we proceed as follows. It appears that Christ is two [things], taken in the neuter.***
+To the first we proceed as follows. It appears that Christ is two [things], taken in the neuter.  
 
 Obj. 1: For Isidore says, *the mediator of God and men, the man Jesus Christ, although he is one [thing] as regards the Father and another [thing] as regards the Virgin, nonetheless he is not another [one]*.Isidore of Seville, *Sententiae*, bk. 1, ch. 14, n. 4 (PL 83:565). But wherever a thing is one [thing] and another, they are two [things]. Therefore Christ is two [things].  
 
@@ -344,7 +346,7 @@ Article 2
 
 ***Whether in Christ there is not only one existence***
 
-***To the second we proceed as follows.Parallels: Above, d. 4, q. 1, a. 2; below, d. 14, a. 1, resp. 1; *ST* III.17.2; *De unione Verbi*, a. 1, ad 10; *Quodl. IX,* q. 2, a. 2; *Compend. theol.,* ch. 212. It appears that in Christ there is not only one existence.***
+To the second we proceed as follows.Parallels: Above, d. 4, q. 1, a. 2; below, d. 14, a. 1, resp. 1; *ST* III.17.2; *De unione Verbi*, a. 1, ad 10; *Quodl. IX,* q. 2, a. 2; *Compend. theol.,* ch. 212. It appears that in Christ there is not only one existence.  
 
 Obj. 1: For every substantial form gives existence. But the soul is a substantial form, so it gives existence. But it does not give existence to the divine person, since this is eternal. Therefore it gives another existence. Therefore in Christ there is not only one existence.  
 
@@ -382,7 +384,7 @@ Article 3
 
 ***Whether after the Incarnation the person of the Word is composite***
 
-***To the third we proceed as follows.Parallel: *ST* III.2.4. It appears that the person of the Word is not composite after the Incarnation.***
+To the third we proceed as follows.Parallel: *ST* III.2.4. It appears that the person of the Word is not composite after the Incarnation.  
 
 Obj. 1: For every composite is better than its components. For a good added to a good constitutes a greater good. But nothing can be better than the divinity. Therefore a single composite person cannot arise from the divinity and the humanity.  
 
@@ -428,7 +430,7 @@ Question 3
 
 ***The third opinion***
 
-***Next, one asks about those things that pertain to the third opinion, and two things are asked about this:***
+Next, one asks about those things that pertain to the third opinion, and two things are asked about this:  
 
 first, whether there was something composed of Christ’s soul and body;  
 
@@ -438,7 +440,7 @@ Article 1
 
 ***Whether in Christ there was any composition of soul and body***
 
-***To the first we proceed as follows.Parallels: above, d. 2, q. 1, a. 3; *ST* III.2.5; *SCG* IV.37, 41; *Compend. theol.*, ch. 209. It appears that there was no composition of soul and body in Christ.***
+To the first we proceed as follows.Parallels: above, d. 2, q. 1, a. 3; *ST* III.2.5; *SCG* IV.37, 41; *Compend. theol.*, ch. 209. It appears that there was no composition of soul and body in Christ.  
 
 Obj. 1: For above in Distinction 2,*Sent*. III, 2.1(4).1. the Master proved that in the expression “human nature” the soul and body are understood, nor is this taken in Christ the way it is in other men. Therefore since in other men “human nature” is taken for what is composed of soul and body, it appears that in Christ it is taken for these parts as uncomposed.  
 
@@ -468,7 +470,7 @@ Article 2
 
 ***Whether the human nature is united to the Word accidentally***
 
-***To the second we proceed as follows.Parallels: *ST* III.2.6; *SCG* IV.34, 37, 41, 49; *De unione Verbi*, a. 1; *Compend. theol.*, cc. 203, 209, 210; *Super Rom*. 1, lect. 2; *Super Philip*. 2, lect. 21. It appears that the human nature is united to the Word accidentally.***
+To the second we proceed as follows.Parallels: *ST* III.2.6; *SCG* IV.34, 37, 41, 49; *De unione Verbi*, a. 1; *Compend. theol.*, cc. 203, 209, 210; *Super Rom*. 1, lect. 2; *Super Philip*. 2, lect. 21. It appears that the human nature is united to the Word accidentally.  
 
 Obj. 1: According to Philippians 2:7, *having been found in condition as a man*. Therefore, since a condition is a kind of accident, it appears that God was a man accidentally.  
 
@@ -500,7 +502,7 @@ Reply Obj. 4: The response is the same as that to the second.
 
 Exposition of the text  
 
-****It is asked whether by these expressions: ‘God was made man,’ . . . God is said to be made something*.*Sent*. III, 6.1(17).1. Here he lists three questions.***
+*It is asked whether by these expressions: ‘God was made man,’ . . . God is said to be made something*.*Sent*. III, 6.1(17).1. Here he lists three questions.  
 
 The first is whether “man” predicates something of Christ. And according to the first and second opinions, it does predicate something, since it predicates of him what he is, since the union is substantial; but according to the third opinion it does not predicate something, but predicates in what manner he is existing.  
 

@@ -1,8 +1,10 @@
 # D. 41 - Causality of predestination
 
+***Causality of predestination***
+
 ***Division of the text***
 
-***Here the Master considers the causality of predestination and reprobation, excluding the error of those who assigned the cause of each as being on our side. And this is divided into two parts: in the first, he shows that the cause of both is not on our side; in the second, he shows that God’s knowledge is never diminished, at *moreover, it needs to be considered whether all things which God once knows or foreknows, he always knows and knew and foreknows and foreknew*.*Sent*. I, 41.3(183).1.***
+Here the Master considers the causality of predestination and reprobation, excluding the error of those who assigned the cause of each as being on our side. And this is divided into two parts: in the first, he shows that the cause of both is not on our side; in the second, he shows that God’s knowledge is never diminished, at *moreover, it needs to be considered whether all things which God once knows or foreknows, he always knows and knew and foreknows and foreknew*.*Sent*. I, 41.3(183).1.  
 
 The first is divided into two parts: in the first, he presents the truth; in the second, he excludes an error, at *but some have held the opinion that God elected Jacob because he foreknew that he would be such as to believe in him*.*Sent*. I, 41.2(182).1.  
 
@@ -36,7 +38,7 @@ Article 1
 
 ***Whether choice is in God***
 
-***To the first we proceed as follows.Parallel texts: *In II Sent*., d. 25, q. 1, a. 1; *ST* I.19.10; I.2.4; *SCG* I.88; *On Truth*, q. 24, a. 3; *On Evil*, q. 16, a. 5. It seems that choice is not at all in God from eternity.***
+To the first we proceed as follows.Parallel texts: *In II Sent*., d. 25, q. 1, a. 1; *ST* I.19.10; I.2.4; *SCG* I.88; *On Truth*, q. 24, a. 3; *On Evil*, q. 16, a. 5. It seems that choice is not at all in God from eternity.  
 
 Obj. 1: For choice, according to the Philosopher,Aristotle, *Nicomachean Ethics* 3.3, 1112b11‒1113a8; 3.2, 1112a13‒17. follows on deliberation as its conclusion. But deliberation, as he says in the same place,Aristotle, *Nicomachean Ethics* 3.3, 1112b23. is a certain inquiry. Therefore, since inquisitive cognition does not belong to God, it seems that choice does not belong to God.  
 
@@ -64,7 +66,7 @@ Article 2
 
 ***Whether choice precedes predestination according to account***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.23.4; *On Truth*, q. 6, a. 2; *Commentary on Romans*, ch. 9, lect. 2. It seems that choice does not precede predestination according to account.***
+To the second we proceed as follows.Parallel texts: *ST* I.23.4; *On Truth*, q. 6, a. 2; *Commentary on Romans*, ch. 9, lect. 2. It seems that choice does not precede predestination according to account.  
 
 Obj. 1: For choice adds something over and above foreknowledge; otherwise choice would be even of evils. Now, it adds the act of the will, as is clear from the Philosopher.Aristotle, *Nicomachean Ethics* 3.2, 1111b4‒30; 1112a13‒17; 3.5, 1111b31‒35; 6.2, 1139a21‒30. Therefore, since predestination adds nothing over and above foreknowledge besides the willing of salvation for certain ones, it seems that choice does not precede predestination according to its account; rather, it is the same thing as it.  
 
@@ -88,7 +90,7 @@ Article 3
 
 ***Whether the foreknowledge of merits is the cause of predestination***
 
-***Next it is asked whether the foreknowledge of merits is the cause of predestination.Parallel texts: *ST* I.23.5; *SCG* III.163; *On Truth*, q. 6, a. 2; *Commentary on John*, ch. 15, lect. 3; *Commentary on Romans*, ch. 1, lect. 3; ch. 8, lect. 6; ch. 9, lect. 3; *Commentary on Ephesians*, ch. 1, lect. 1, 4. And it appears that this is the case.***
+Next it is asked whether the foreknowledge of merits is the cause of predestination.Parallel texts: *ST* I.23.5; *SCG* III.163; *On Truth*, q. 6, a. 2; *Commentary on John*, ch. 15, lect. 3; *Commentary on Romans*, ch. 1, lect. 3; ch. 8, lect. 6; ch. 9, lect. 3; *Commentary on Ephesians*, ch. 1, lect. 1, 4. And it appears that this is the case.  
 
 Obj. 1: It appears that this is the case, first, because of Ambrose’s Gloss on Romans 9, where he proposes the following words in the person of God, *I will give grace to the one whom, after wandering, I know is going to return to me with his whole heart*.Ambrose, *Commentaria in epistolam ad Romanos*, ch. 9, verse 15 (PL 17:136). But the plan for giving grace is called “predestination.” Therefore it seems that it presupposes the foreknowledge of merits.  
 
@@ -128,7 +130,7 @@ Article 4
 
 ***Whether predestination is aided by any human deed***
 
-***Fourth, it is asked whether predestination is aided by any human deed.Parallel texts: *In III Sent*., d. 17, a. 3, qa. 1, ad 3; *ST* I.23.8; *On Truth*, q. 6, a. 6. And it appears that it is not.***
+Fourth, it is asked whether predestination is aided by any human deed.Parallel texts: *In III Sent*., d. 17, a. 3, qa. 1, ad 3; *ST* I.23.8; *On Truth*, q. 6, a. 6. And it appears that it is not.  
 
 Obj. 1: For a cause that through itself brings forth its effect without the aid of another is more perfect than one that is aided to bring forth its effect. But predestination is the most perfect cause. Therefore it is not aided by anything for its effect.  
 
@@ -154,7 +156,7 @@ Article 5
 
 ***Whether whatever God knew once, he knows now***
 
-***Fifth, it is asked whether whatever God knew at one time he knows now.Parallel texts: above, d. 38, a. 2; d. 39, q. 1, aa. 1, 2; *ST* I.14.15; *On Truth*, q. 2, a. 5, ad 11; a. 13. It seems that this is so.***
+Fifth, it is asked whether whatever God knew at one time he knows now.Parallel texts: above, d. 38, a. 2; d. 39, q. 1, aa. 1, 2; *ST* I.14.15; *On Truth*, q. 2, a. 5, ad 11; a. 13. It seems that this is so.  
 
 Obj. 1: For God’s knowledge, as has been said, is invariable. But all knowledge that ceases to exist about a thing that it before was about is varying. Therefore it seems that whatever God knew once, he knows now.  
 
@@ -192,6 +194,6 @@ Reply Obj. 5: The argument follows if one takes the statement insofar as it is a
 
 Exposition of the text  
 
-****But this is frivolous*.*Sent*. I, 41.2(182).5. He says this inasmuch as that interpretation is too strained,Reading *extorta* for *exorta*. to the point that they are being called worthy of grace because they are not as unworthy as others.***
+*But this is frivolous*.*Sent*. I, 41.2(182).5. He says this inasmuch as that interpretation is too strained,Reading *extorta* for *exorta*. to the point that they are being called worthy of grace because they are not as unworthy as others.  
 
 *Similarly, the ancient fathers of the Old Testament believed that Christ would be born and would die, but we believe that he has already been born and died*.*Sent*. I, 41.3(183).4. The diversity of the statements does not impede the unity of the reality being believed. For either the object of the faith is the reality and not the statement, as some say, or it is also the statement insofar as it abstracts from every difference of time; and the determined time is not of the substance of the faith, but accrues to the faith insofar as it is made determinate through teaching, insofar as faith comes from hearing.

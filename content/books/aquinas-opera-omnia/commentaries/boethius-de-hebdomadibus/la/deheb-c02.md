@@ -1,5 +1,7 @@
 # L. 1 - Boethius' Preface
 
+Postulas ut ex ebdomadibus nostris eius quaestionis obscuritatem quae continet modum quo substantiae in eo quod sint bonae sint cum non sint substantialia bona digeram et paulo evidentius monstrem.  
+
 > Idque eo dicis esse faciendum quod non sit omnibus notum iter huiusmodi scriptionum. Tuus vero testis ipse sum quam haec vivaciter fueris ante complexus.
 
 > Ebdomadas vero ego mihi ipse commentor, potius que ad memoriam meam speculata conservo quam cuiquam participo quorum lasciuia ac petulantia nihil a ioco risuque patitur esse coniunctum.

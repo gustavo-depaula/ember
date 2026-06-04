@@ -1,8 +1,10 @@
 # D. 29 - The name “principle”
 
+***The name “principle”***
+
 ***Division of the text***
 
-***After having considered innascibility, which is a person’s property, though not a personal property, here he considers the other notion, one that is neither a person’s property—since it does not belong to only one person—nor a personal property—since it does not constitute a person—namely, common spiration. This is designated when one says, “the Father and the Son are the principle of the Holy Spirit.” And this is divided into two parts: in the first, he shows how the name “principle” is said of God; and because “principle” is sometimes said in reference to time, and sometimes from eternity, therefore, in the second, he shows how something can be said of God in reference to time, at *for there are some things which are said of God in time*.*Sent*. I, 30.1(129).1.***
+After having considered innascibility, which is a person’s property, though not a personal property, here he considers the other notion, one that is neither a person’s property—since it does not belong to only one person—nor a personal property—since it does not constitute a person—namely, common spiration. This is designated when one says, “the Father and the Son are the principle of the Holy Spirit.” And this is divided into two parts: in the first, he shows how the name “principle” is said of God; and because “principle” is sometimes said in reference to time, and sometimes from eternity, therefore, in the second, he shows how something can be said of God in reference to time, at *for there are some things which are said of God in time*.*Sent*. I, 30.1(129).1.  
 
 As regards the first, he does two things: first, he shows in how many ways God is called a “principle”; second, he treats the parts of the division, at *and the Father is the Son’s beginning from eternity*.*Sent*. I, 29.2(126).1.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether one person is the principle of another***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 12, a. 2, ad 1; *In III Sent*., d. 11, a. 1, ad 5; *ST* I.33.1; *On the Power of God*, q. 10, a. 1, ad 8–17; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 1. It seems that one person is not the principle of another.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 12, a. 2, ad 1; *In III Sent*., d. 11, a. 1, ad 5; *ST* I.33.1; *On the Power of God*, q. 10, a. 1, ad 8–17; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 1. It seems that one person is not the principle of another.  
 
 Obj. 1: For the name “principle” is imposed from priority, as the name even sounds. But in the divine persons there is no prior and posterior, as was said earlier.*In I Sent*., d. 9, q. 2, a. 1. Therefore one person is not the principle of another.  
 
@@ -58,11 +60,11 @@ Reply Obj. 3: Because making and production are always terminated at the existen
 
 Article 2  
 
-***Whether “principle” is said univocally of God insofar as he is called a principle of a divine person and of something created, and how it is said with priority***
+Whether “principle” is said univocally of God insofar as he is called a principle of a divine person and of something created, and how it is said with priority  
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallel text: *ST* I.33.3. It seems that “principle” is said univocally insofar as God is called a principle of a divine person and that of something created.***
+To the second we proceed as follows.Parallel text: *ST* I.33.3. It seems that “principle” is said univocally insofar as God is called a principle of a divine person and that of something created.  
 
 Obj. 1: For as Basil says,Basil the Great, *Homiliae et Sermones*, homily 15, “De fide,” para. 2 (PG 31:467). receiving existence from the Father is what the Son has in common with everything created, but having it by nature is proper to the Son. But the account of a principle is founded upon the origin of one thing from another, as was said before. Therefore “principle” is said univocally with respect to the divine person and what is created.  
 
@@ -74,7 +76,7 @@ Furthermore (4), the Father is the principle of the Son through generation, of t
 
 Quaestiuncula 2  
 
-***Moreover, one asks how it is said with priority. For it seems to be with priority insofar as it signifies reference to the created.***
+Moreover, one asks how it is said with priority. For it seems to be with priority insofar as it signifies reference to the created.  
 
 Obj. 1: For the essential is prior to the notional, according to concept, and the common is prior to the proper. But to be a principle of the created is essential and common to the entire Trinity, whereas to be the principle of a divine person is notional and is proper. Therefore and so on.  
 
@@ -82,7 +84,7 @@ On the contrary, the eternal is prior to the temporal. But “principle” is sa
 
 Response to Quaestiuncula 1  
 
-***I answer that the judgment about “principle” is the same as that about “origin,” on which the account of a principle is founded. Now, an origin can be considered in two ways. The first is according to the common account of origin, which is something being from something else; and in this way there is one account common to the origin of the persons and the origin of created things, but not according to a commonness of univocation, but rather, one of analogy. And so it is also for the name “principle.” But it can also be considered according to the determinate mode of origin, and then there are diverse specific accounts of origin and principle. But this does not cause equivocation, since even in this way the account for each animal is different, according to the Philosopher.Aristotle, *On the Soul* 2.2, 415a13.***
+I answer that the judgment about “principle” is the same as that about “origin,” on which the account of a principle is founded. Now, an origin can be considered in two ways. The first is according to the common account of origin, which is something being from something else; and in this way there is one account common to the origin of the persons and the origin of created things, but not according to a commonness of univocation, but rather, one of analogy. And so it is also for the name “principle.” But it can also be considered according to the determinate mode of origin, and then there are diverse specific accounts of origin and principle. But this does not cause equivocation, since even in this way the account for each animal is different, according to the Philosopher.Aristotle, *On the Soul* 2.2, 415a13.  
 
 Reply Obj. 1: “Principle” is common with a commonness of analogy, not one of univocation.  
 
@@ -94,15 +96,15 @@ Reply Sed Contra 4: That argument follows in reference to the specific accounts 
 
 Response to Quaestiuncula 2  
 
-***To what is further asked, one should say that the procession of created things has as its exemplar the procession of the divine persons. Whence, speaking absolutely, “principle” is said with priority in reference to the person over the reference to the created. But nonetheless one should know that in a principle, insofar as it is said in reference to the created, one must consider the orientation itself, which is temporal, and that on which this orientation is founded, the divine power and action. Yet the account of a principle is in these latter only, as it were, habitually. And thus, in considering “principle” in the second way, insofar as one speaks of the principle of the created, this is prior to being the principle of the divine person, which is founded in a personal property, in the way in which the essential is said to be prior in understanding to the notional. But this is prior only in a certain respect.***
+To what is further asked, one should say that the procession of created things has as its exemplar the procession of the divine persons. Whence, speaking absolutely, “principle” is said with priority in reference to the person over the reference to the created. But nonetheless one should know that in a principle, insofar as it is said in reference to the created, one must consider the orientation itself, which is temporal, and that on which this orientation is founded, the divine power and action. Yet the account of a principle is in these latter only, as it were, habitually. And thus, in considering “principle” in the second way, insofar as one speaks of the principle of the created, this is prior to being the principle of the divine person, which is founded in a personal property, in the way in which the essential is said to be prior in understanding to the notional. But this is prior only in a certain respect.  
 
 Reply Obj. 1, Sed Contra: And thereby the reply to each objection is clear.  
 
 Article 3  
 
-***Whether by a single property the Father and the Son are the principle of the Holy Spirit***
+Whether by a single property the Father and the Son are the principle of the Holy Spirit  
 
-***To the third we proceed as follows.Parallel Text: *ST* I.36.4. It seems that there is not a single property of the Father and Son according to which they are called the principle of the Holy Spirit.***
+To the third we proceed as follows.Parallel Text: *ST* I.36.4. It seems that there is not a single property of the Father and Son according to which they are called the principle of the Holy Spirit.  
 
 Obj. 1: For a property draws its unity or multiplicity from its supposits. But the Father and the Son are not one supposit. Therefore neither do they have just one property.  
 
@@ -132,7 +134,7 @@ Article 4
 
 ***Whether the Father and the Son are one principle of the Holy Spirit***
 
-***To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 11, aa. 2, 4; *ST* I.36.4; *SCG* IV.25. It seems that the Father and the Son are not one principle of the Holy Spirit.***
+To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 11, aa. 2, 4; *ST* I.36.4; *SCG* IV.25. It seems that the Father and the Son are not one principle of the Holy Spirit.  
 
 Obj. 1: For if they are one principle, either they are the one that is the Father, or they are the one that is not the Father. If they are the one that is the Father, then the Son is the Father—which is false; but if they are the one that is not the Father, then the Father is not the Father—which again is false. Therefore in no way are they one principle.  
 
@@ -160,7 +162,7 @@ Reply Obj. 3: It is not commonly conceded that they are the same principle, sinc
 
 Exposition of the text  
 
-****The Father is the beginning of the whole divinity*.*Sent*. I, 29.1(125).2, quoting Augustine, *On the Trinity*, bk. 4, ch. 20, para. 29 (CCSL 50; PL 42:908). This seems to be false, since “divinity” is being taken either for the divine essence or for the persons. If it is taken for the persons, then he is not the principle of the whole divinity—that is, of all the persons—since he is not the principle of his very self. If it is taken for the essence, it seems false because he is not the principle of the essence. And furthermore, “wholeness” requires some distinction in parts, whereas there is no distinction in the essence. I answer that it can be taken in either way. For if it is taken for the essence, then “whole” does not signify an integration of parts, but the perfection of a nature, and he is said to be the principle of the whole divinity not because he generates or spirates, but because by generating or spirating he communicates the divinity. In this way, the meaning of “principle of the divinity” is “principle of having the Godhead.” But in this way the Son also could be called the principle of the whole divinity, since perfect divinity is in the Holy Spirit from him—except insofar as this is not so according to every way in which it can be communicated, and not through generation. However, if it is taken for all the persons, then it is more plain, since then he is called the principle of the whole divinity insofar as in all the divine persons he himself is, as it were, the principle from which the other persons flow, just as a point is said to be the principle of the whole line, even though it is not a principle of its very self.***
+*The Father is the beginning of the whole divinity*.*Sent*. I, 29.1(125).2, quoting Augustine, *On the Trinity*, bk. 4, ch. 20, para. 29 (CCSL 50; PL 42:908). This seems to be false, since “divinity” is being taken either for the divine essence or for the persons. If it is taken for the persons, then he is not the principle of the whole divinity—that is, of all the persons—since he is not the principle of his very self. If it is taken for the essence, it seems false because he is not the principle of the essence. And furthermore, “wholeness” requires some distinction in parts, whereas there is no distinction in the essence. I answer that it can be taken in either way. For if it is taken for the essence, then “whole” does not signify an integration of parts, but the perfection of a nature, and he is said to be the principle of the whole divinity not because he generates or spirates, but because by generating or spirating he communicates the divinity. In this way, the meaning of “principle of the divinity” is “principle of having the Godhead.” But in this way the Son also could be called the principle of the whole divinity, since perfect divinity is in the Holy Spirit from him—except insofar as this is not so according to every way in which it can be communicated, and not through generation. However, if it is taken for all the persons, then it is more plain, since then he is called the principle of the whole divinity insofar as in all the divine persons he himself is, as it were, the principle from which the other persons flow, just as a point is said to be the principle of the whole line, even though it is not a principle of its very self.  
 
 *Or, if it is better said, of the whole deity*.*Sent*. I, 29.1(125).2, quoting Augustine, *On the Trinity*, bk. 4, ch. 20, para. 29 (CCSL 50; PL 42:908). This is better insofar as “deity” is said from “God” (*Deus*), which signifies through itself and essentially one who has divinity. But “divinity” is said from “divine,” which is denominative, so it can also signify a participation of divinity, insofar as even the perpetuity of species is said to be divine, according to the philosophers.Aristotle, *On the Soul* 2.4, 415a30; Averroes, *Commentary on Aristotle’s On the Soul*, bk. 2, text. 35. Whence to designate the singularity of the excellence, the name “deity” is more congruent than “divinity.”  
 

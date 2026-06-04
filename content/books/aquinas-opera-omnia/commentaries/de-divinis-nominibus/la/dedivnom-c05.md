@@ -1,10 +1,12 @@
 # C. 4 - On the Good, Light, the Beautiful, Love, Ecstasy, and Zeal; And that Evil Is Not Existing, Nor of an Existing Thing, Nor in Existing Things
 
+De bono, lumine, pulchro, amore, extasi et zelo; et quod malum neque existens, neque ex existenti, neque in existentibus est  
+
 ***Lectio 1***
 
-***Qualiter bonum sit in Deo et qualiter communicetur angelis et animabus rationalibus***
+Qualiter bonum sit in Deo et qualiter communicetur angelis et animabus rationalibus  
 
-***C. IV, § 1. 95. Si igitur oportet, iam sermone ad ipsam eamus boni nominationem, quam excellenter attribuunt theologi superdeae deitati et ab omnibus determinant ipsam, sicut reor, thearchicam essentiam, bonitatem dicentes; et quoniam ea quae est bonum ut substantiale bonum, ad omnia existentia extendit bonitatem.***
+C. IV, § 1. 95. Si igitur oportet, iam sermone ad ipsam eamus boni nominationem, quam excellenter attribuunt theologi superdeae deitati et ab omnibus determinant ipsam, sicut reor, thearchicam essentiam, bonitatem dicentes; et quoniam ea quae est bonum ut substantiale bonum, ad omnia existentia extendit bonitatem.  
 
 > 96. Etenim sicut noster sol, non ratiocinans aut praeeligens, sed per ipsum esse illuminat omnia, participare lumine ipsius secundum propriam rationem valentia, ita quidem et bonum, super solem, sicut super obscuram imaginem segregate archetypum, per ipsam essentiam omnibus existentibus proportionaliter immittit totius bonitatis radios.
 
@@ -214,7 +216,7 @@ Lectio 2
 
 ***Qualiter bonum inveniatur in aliis creaturis corruptibilibus***
 
-***108. Sed et de ipsis irrationalibus animabus aut animalibus, si oportet dicere, quaecumque aera secant et quaecumque in terra vadunt et quaecumque in terra extenduntur et in aquis vitam aut ambigue sortita; et quaecumque sub terra cooperta vivunt et pulvere affecta et simpliciter quaecumque sensibilem habent animam aut vitam et haec omnia propter bonum animata sunt et vivificata;***
+108. Sed et de ipsis irrationalibus animabus aut animalibus, si oportet dicere, quaecumque aera secant et quaecumque in terra vadunt et quaecumque in terra extenduntur et in aquis vitam aut ambigue sortita; et quaecumque sub terra cooperta vivunt et pulvere affecta et simpliciter quaecumque sensibilem habent animam aut vitam et haec omnia propter bonum animata sunt et vivificata;  
 
 > 109. et plantae omnes nutritivam et motivam habent vitam ex bono;
 
@@ -268,7 +270,7 @@ Lectio 3
 
 ***De lumine sensibili***
 
-***113. Quid dicat quidem aliquis de seipso, secundum se, solari radio? Ex bono enim est illud lumen et imago bonitatis; propter quod et luminis nominatione laudatur bonum, sicut in imagine archetypum manifestatum.***
+113. Quid dicat quidem aliquis de seipso, secundum se, solari radio? Ex bono enim est illud lumen et imago bonitatis; propter quod et luminis nominatione laudatur bonum, sicut in imagine archetypum manifestatum.  
 
 > 114. Sicut enim super omnia existentis bonitas divinitatis, a supremis et provectissimis substantiis usque ad ultimas transit et adhuc super omnes est neque superioribus pertingentibus ad ipsius excessum neque inferioribus ambitum transeuntibus;
 
@@ -360,7 +362,7 @@ Lectio 4
 
 ***De lumine intelligibili***
 
-***§ 5. 125. Sed haec quidem in *Symbolica theologia*, nunc autem intelligibilem boni luminis nominationem laudare nos convenit.***
+§ 5. 125. Sed haec quidem in *Symbolica theologia*, nunc autem intelligibilem boni luminis nominationem laudare nos convenit.  
 
 > 126. Et dicendum quod lumen intelligibile Bonus dicitur, propter hoc quod omnem quidem supercoelestem mentem implet intelligibili lumine,
 
@@ -456,7 +458,7 @@ Lectio 5
 
 ***De pulchro et quomodo Deo attribuatur***
 
-***§ 7. 132. Hoc bonum laudatur a sanctis theologis et sicut pulchrum et sicut pulchritudo et sicut dilectio et sicut diligibile et quaecumque aliae convenientes sunt pulchrificae et gratiose habitae pulchritudinis nominationes.***
+§ 7. 132. Hoc bonum laudatur a sanctis theologis et sicut pulchrum et sicut pulchritudo et sicut dilectio et sicut diligibile et quaecumque aliae convenientes sunt pulchrificae et gratiose habitae pulchritudinis nominationes.  
 
 > 133. Pulchrum autem et pulchritudo non sunt dividenda in causa quae in uno tota comprehendit.
 
@@ -570,7 +572,7 @@ Lectio 6
 
 ***De causalitate pulchri, quantum ad diversitatem causatorum***
 
-***142. Hoc unum, bonum et pulchrum singulariter est omnium multorum pulchrorum et bonorum causa.***
+142. Hoc unum, bonum et pulchrum singulariter est omnium multorum pulchrorum et bonorum causa.  
 
 > 143. Ex hoc, omnes existentium substantiales essentiae;
 
@@ -638,7 +640,7 @@ Lectio 7
 
 ***Quales sint motus divinarum mentium et animarum***
 
-***§8. 147. Et moveri quidem dicuntur divinae mentes circulariter, quidem, unite sine principiis et interminabilibus illuminationibus pulchri et boni; in directum autem, quando procedunt ad subiectorum providentiam, recte omnia transeuntes; oblique autem, quando et providentes minus habentibus inegressibiliter manent in identitate circa identitatis causam pulchrum et bonum, indesinenter circum chorum agentes.***
+§8. 147. Et moveri quidem dicuntur divinae mentes circulariter, quidem, unite sine principiis et interminabilibus illuminationibus pulchri et boni; in directum autem, quando procedunt ad subiectorum providentiam, recte omnia transeuntes; oblique autem, quando et providentes minus habentibus inegressibiliter manent in identitate circa identitatis causam pulchrum et bonum, indesinenter circum chorum agentes.  
 
 > § 9. 148. Animae autem motus circularis quidem est ad seipsam introitus ab exterioribus et intellectualium ipsius virtutum uniformis convolutio, sicut in quodam circulo, non errare ipsi largiens et a multis exterioribus ipsam convertens et congregans: primum, ad seipsam; deinde, sic uniformem factam, uniens unitive unitis virtutibus, et ita ad pulchrum et bonum manuducens quod est super omnia existentia et unum et idem et sine principio et interminabile.
 
@@ -686,9 +688,9 @@ Sic ergo motus obliquus ex uniformitate et difformitate compositus, in anima att
 
 Lectio 8  
 
-***De causalitate pulchri et boni respectu tam horum quam omnium aliorum motuum et quietum***
+De causalitate pulchri et boni respectu tam horum quam omnium aliorum motuum et quietum  
 
-***§10. 151. Igitur, istarum et sensibilium trium motionum in hoc omni et multo prius uniuscuiusque mansionum et stationum et collocationum causa est et contentiva et finis, pulchrum et bonum quod est super omnem stationem et motum, propter quod omnis statio et motus et ex quo et in quo et ad quod et cuius gratiae.***
+§10. 151. Igitur, istarum et sensibilium trium motionum in hoc omni et multo prius uniuscuiusque mansionum et stationum et collocationum causa est et contentiva et finis, pulchrum et bonum quod est super omnem stationem et motum, propter quod omnis statio et motus et ex quo et in quo et ad quod et cuius gratiae.  
 
 > 152. Etenim ex ipso et per ipsum et substantia et vita omnis et mentis et animae; et omnis naturae et parvitates et aequalitates, magnitudines, mensurae omnes, existentium proportiones et harmoniae et concretiones, totalitatis partes; omne unum et multitudo, coniunctiones partium, omnis multitudinis unitiones, perfectiones totalitatum; quale, quantum, quotum, infinitum, comparationes, discretiones; omnis infinitas, omnis finis, diffinitiones omnes, ordines, excessus, elementa, formae; omnis substantia, omnis virtus, omnis operatio, omnis habitus, omnis sensus, omne verbum, omne factum, omnis tactus, omnis scientia, omnis unitio;
 
@@ -894,7 +896,7 @@ Lectio 10
 
 ***De extasi et de zelo***
 
-***§13. 168. Est autem et faciens extasim divinus amor, non dimittens sui ipsorum esse amatores, sed amatorum.***
+§13. 168. Est autem et faciens extasim divinus amor, non dimittens sui ipsorum esse amatores, sed amatorum.  
 
 > 169. Et monstrant quidem superiora providentiae facta minus habentium et coordinata sui invicem continentiae et subiecta divinioris conversionis ad prima.
 
@@ -956,7 +958,7 @@ Lectio 11
 
 ***Quomodo Deus et amor et amabilis dicatur***
 
-***§14. 173. Quid autem totaliter theologi volentes aliquando quidem amorem et dilectionem ipsum dicunt, aliquando autem amabilem et diligibilem?***
+§14. 173. Quid autem totaliter theologi volentes aliquando quidem amorem et dilectionem ipsum dicunt, aliquando autem amabilem et diligibilem?  
 
 > 174. Huius enim est quidem causa et sicut emissor et sicut progenitor; hoc autem ipse est. Et hoc quidem movetur, illud autem movet aut quoniam ipse sui ipsius et sibi ipsi est adductivus et motivus.
 
@@ -1020,7 +1022,7 @@ Lectio 12
 
 ***Verba Hierothei de amore***
 
-***179. Haec et nobilis noster sanctitatis perfector a Deo motus recitavit in amativis hymnis, quos non inconveniens est memorare et sicut sanctum quoddam caput imponere sermoni de amore:***
+179. Haec et nobilis noster sanctitatis perfector a Deo motus recitavit in amativis hymnis, quos non inconveniens est memorare et sicut sanctum quoddam caput imponere sermoni de amore:  
 
 > §15. 180. Amorem, sive divinum sive angelicum sive intellectualem sive animalem sive naturalem dicamus, unitivam quamdam et concretivam intelligimus virtutem, superiora quidem moventem ad providentiam minus habentium, coordinata autem rursum ad communicativam alternam habitudinem in extremis, subiecta ad meliorum et superpositorum conversionem.
 
@@ -1070,7 +1072,7 @@ Lectio 13
 
 ***Dubitationes***
 
-***§18. 184. Et quidem dicat aliquis: si omnibus est bonum et pulchrum et amabile et desiderabile et diligibile, desiderat enim ipsum et quod non est, ut dictum est et certat aliquo modo in ipso esse; et ipsum est quod format informia; et in ipso et non existens supersubstantialiter dicitur et est;***
+§18. 184. Et quidem dicat aliquis: si omnibus est bonum et pulchrum et amabile et desiderabile et diligibile, desiderat enim ipsum et quod non est, ut dictum est et certat aliquo modo in ipso esse; et ipsum est quod format informia; et in ipso et non existens supersubstantialiter dicitur et est;  
 
 > 185. quomodo daemonum multitudo non desiderat pulchrum et bonum; inclinata autem ad materiam et ab angelica identitate circa desiderium boni prolapsa, malorum universorum causa et sibi ipsi et aliis efficitur, quaecumque mala fieri dicuntur? Quomodo autem totaliter ex bono deducta daemonum tribus non est boniformis? Aut quomodo bonum, ex bono factum, variatum est? Et quid est quod malum fecit illud?
 
@@ -1132,7 +1134,7 @@ Lectio 14
 
 ***Solvitur prima quaestio: an malum sit aliquid***
 
-***§19. 187. Igitur haec quidem forsitan dicet talis dubitans sermo. Nos autem rogabimus ipsum ad rerum veritatem conspicere.***
+§19. 187. Igitur haec quidem forsitan dicet talis dubitans sermo. Nos autem rogabimus ipsum ad rerum veritatem conspicere.  
 
 > 188. Et primum quidem hoc dicere confidemus: malum non est ex bono et si ex bono est, non est malum; neque enim ignis est infrigidare neque boni, non bona producere. Et si existentia omnia ex bono—natura enim est bono: producere et salvare; malo autem: corrumpere et destruere nihil est existentium ex malo; et neque ipsum erit quod malum est, si et per seipsum malum sit. Et si non hoc, non omnino malum est quod est malum, sed habet quamdam boni partem, secundum quam totaliter est.
 
@@ -1198,7 +1200,7 @@ Lectio 15
 
 ***Ponitur secunda quaestio: unde sit malum***
 
-***191. Unde igitur est malum? dicat aliquis; si enim non est malum, virtus et malitia idem et omnis toti et particularis proportionali aut neque repugnans virtuti erit malum. Et quidem contrariae sunt castitas et impudicitia et iustitia et iniustitia; et non dico secundum iustum et iniustum et eum qui est pudicus et qui est impudicus. Sed et ante apparentem extra distantiam habentis virtutem ad oppositum, in ipsa anima prius universaliter destiterunt a virtutibus, malitiae,***
+191. Unde igitur est malum? dicat aliquis; si enim non est malum, virtus et malitia idem et omnis toti et particularis proportionali aut neque repugnans virtuti erit malum. Et quidem contrariae sunt castitas et impudicitia et iustitia et iniustitia; et non dico secundum iustum et iniustum et eum qui est pudicus et qui est impudicus. Sed et ante apparentem extra distantiam habentis virtutem ad oppositum, in ipsa anima prius universaliter destiterunt a virtutibus, malitiae,  
 
 > 192. et ad rationem passiones pugnant et ex istis necesse est dare quoddam malum bono contrarium; non enim sibi ipsi bonum contrarium, sed sicut ab uno principio et genitum ab una causa, communione et unitate et amicitia gaudet; et neque minus bonum maiori est contrarium neque enim aut minus calidum aut frigidum amplius existenti est contrarium. Est igitur in existentibus et existens est et adversatur bono malum.
 
@@ -1242,7 +1244,7 @@ Lectio 16
 
 ***Solutio secundae quaestionis principalis***
 
-***§ 20. 194. Dicit autem ad haec verus sermo quod malum, secundum quod est malum, nullam substantiam aut generationem facit; solum autem malum facit et corrumpit existentium substantiam, quantum in ipso est. Si autem generationis operativum ipsum aliquis esse dicat et huius corruptione alii dare generationem, respondendum est vere non corruptio dat generationem, sed et corruptio quidem et malum corrumpit et malum facit solum; generatio autem et substantia propter bonum fit et erit malum corruptio quidem propter seipsum, generativum autem propter bonum; et secundum quod quidem est malum, neque existens est neque existentium effectivum; propter bonum autem, existens et bonorum effectivum.***
+§ 20. 194. Dicit autem ad haec verus sermo quod malum, secundum quod est malum, nullam substantiam aut generationem facit; solum autem malum facit et corrumpit existentium substantiam, quantum in ipso est. Si autem generationis operativum ipsum aliquis esse dicat et huius corruptione alii dare generationem, respondendum est vere non corruptio dat generationem, sed et corruptio quidem et malum corrumpit et malum facit solum; generatio autem et substantia propter bonum fit et erit malum corruptio quidem propter seipsum, generativum autem propter bonum; et secundum quod quidem est malum, neque existens est neque existentium effectivum; propter bonum autem, existens et bonorum effectivum.  
 
 > 195. Magis autem: neque enim erit idem secundum idem et bonum et malum neque eiusdem corruptio et generatio eadem secundum idem virtus neque per se virtus neque per se corruptio.
 
@@ -1356,9 +1358,9 @@ Ita et similiter est de malo: quia si aliquid sit ***malum*** quod totaliter rec
 
 Lectio 17  
 
-***Solvitur tertia quaestio: in quibus sito malum, tum in generali tum in speciali et primo quod non potest esse in Deo***
+Solvitur tertia quaestio: in quibus sito malum, tum in generali tum in speciali et primo quod non potest esse in Deo  
 
-***§21. 205. Sed neque in existentibus est malum. Si enim omnia existentia ex bono et in omnibus est existentibus et omnia continet bonum aut non erit malum in exsistentibus aut in bono erit. Et quidem in bono non erit: etenim neque in igne frigidum neque malum in eo fieri quod et malum bonum facit. Si autem erit in bono malum, videtur hic deficere quomodo erit. Si quidem ex ipso, inconveniens et impossibile: non enim potest, sicut eloquiorum veritas dicit, *arbor bona fructus malos facere* neque quidem e converso. Si autem non ex ipso, manifestum quod ex alio principio et causa: etenim aut malum ex bono erit aut bonum ex malo; aut si non hoc est possibile, ex alio principio et causa erit bonum et malum. Omnis enim binarius non principium; unitas autem erit omnis binarii principium. Etenim inconveniens ex uno et eodem duo perfecte contraria procedere et esse et ipsum principium non simplex et singulare esse, sed divisibile et biforme et contrarium sibi ipsi et variatum.***
+§21. 205. Sed neque in existentibus est malum. Si enim omnia existentia ex bono et in omnibus est existentibus et omnia continet bonum aut non erit malum in exsistentibus aut in bono erit. Et quidem in bono non erit: etenim neque in igne frigidum neque malum in eo fieri quod et malum bonum facit. Si autem erit in bono malum, videtur hic deficere quomodo erit. Si quidem ex ipso, inconveniens et impossibile: non enim potest, sicut eloquiorum veritas dicit, *arbor bona fructus malos facere* neque quidem e converso. Si autem non ex ipso, manifestum quod ex alio principio et causa: etenim aut malum ex bono erit aut bonum ex malo; aut si non hoc est possibile, ex alio principio et causa erit bonum et malum. Omnis enim binarius non principium; unitas autem erit omnis binarii principium. Etenim inconveniens ex uno et eodem duo perfecte contraria procedere et esse et ipsum principium non simplex et singulare esse, sed divisibile et biforme et contrarium sibi ipsi et variatum.  
 
 > 206. Et quidem, neque duo existentium contraria principia possibile est esse et ista in se invicem et in omnibus adversantia. Si enim hoc datum sit, erit et Deus non sine laesione neque extra molestiam, si sit aliquid ipsi adversans: postea erunt omnia inordinata et semper pugnantia.
 
@@ -1420,7 +1422,7 @@ Lectio 18
 
 ***Malum non est in angelis bonis***
 
-***§22. 210. Sed neque in angelis est malum. Si enim enuntiat bonitatem divinam boniformis angelus, illud existens secundum participationem secundario, quod est secundum causam enuntiatum primo, imago Dei est angelus, manifestatio occulti luminis;***
+§22. 210. Sed neque in angelis est malum. Si enim enuntiat bonitatem divinam boniformis angelus, illud existens secundum participationem secundario, quod est secundum causam enuntiatum primo, imago Dei est angelus, manifestatio occulti luminis;  
 
 > 211. speculum purum, clarissimum, incontaminatum, incoinquinatum, immaculatum, suscipiens totam, si est conveniens dicere, pulchritudinem boniformis deiformitatis;
 
@@ -1468,7 +1470,7 @@ Lectio 19
 
 ***Daemones non sunt naturaliter mali, et quomodo in eis malum inveniatur***
 
-***§23. 214. Sed neque daemones sunt natura mali; etenim si natura mali, neque ex bono neque in existentibus neque quidem ex bono transmutati essent, natura et semper mali existentes. Postea igitur: sibi ipsis sunt mali aut aliis? Si sibi ipsis quidem et corrumpunt seipsos; si autem aliis, quomodo corrumpentes aut quid corrumpentes? Substantiam aut virtutem aut operationem? Si substantiam quidem, prius quidem non praeter naturam; nam natura incorruptibilia non corrumpunt, sed susceptibilia corruptionis. Postea: neque hoc omnibus et omnino malum. Sed neque corrumpitur aliquid existentium, secundum quod est substantia et natura; sed defectu ordinationis, quae est secundum naturam, harmoniae et commensurationis ratio infirmatur, manere similiter habens. Infirmitas autem non perfecta est; etenim perfecta et corruptionem et subiectum destrueret et erit talis corruptio et suimet coruptio. Quae tale non malum, sed deficiens bonum; quod enim est expers omnino boni neque in existentibus est. Et de corruptione virtutis et operationis eadem ratio est.***
+§23. 214. Sed neque daemones sunt natura mali; etenim si natura mali, neque ex bono neque in existentibus neque quidem ex bono transmutati essent, natura et semper mali existentes. Postea igitur: sibi ipsis sunt mali aut aliis? Si sibi ipsis quidem et corrumpunt seipsos; si autem aliis, quomodo corrumpentes aut quid corrumpentes? Substantiam aut virtutem aut operationem? Si substantiam quidem, prius quidem non praeter naturam; nam natura incorruptibilia non corrumpunt, sed susceptibilia corruptionis. Postea: neque hoc omnibus et omnino malum. Sed neque corrumpitur aliquid existentium, secundum quod est substantia et natura; sed defectu ordinationis, quae est secundum naturam, harmoniae et commensurationis ratio infirmatur, manere similiter habens. Infirmitas autem non perfecta est; etenim perfecta et corruptionem et subiectum destrueret et erit talis corruptio et suimet coruptio. Quae tale non malum, sed deficiens bonum; quod enim est expers omnino boni neque in existentibus est. Et de corruptione virtutis et operationis eadem ratio est.  
 
 > 215. Deinde: quomodo a Deo facti sunt mali daemones? Etenim bonum bona producit et subsistere facit.
 
@@ -1566,7 +1568,7 @@ Lectio 20
 
 ***Quomodo malum sit in animabus***
 
-***§24. 222. Sed animas aliquis dicat esse malas. Si ideo quidem quod coassistunt malis provisive et salvative; hoc autem non malum, sed bonum et ex bono quod et malum bonum facit.***
+§24. 222. Sed animas aliquis dicat esse malas. Si ideo quidem quod coassistunt malis provisive et salvative; hoc autem non malum, sed bonum et ex bono quod et malum bonum facit.  
 
 > 223. Si autem malas fieri animas dicimus, in quo malae fiunt nisi in bonorum habituum et operationum defectu et propter propriam infirmitatem non consecutione et prolapsu? Etenim et aerem qui est super nos dicimus obtenebrari defectu et absentia luminis; ipsum autem lumen est quod et tenebras illuminat.
 
@@ -1598,7 +1600,7 @@ Lectio 21
 
 ***Quomodo malum sit in rebus naturalibus***
 
-***§26. 226. Sed neque in tota natura malum. Si enim omnes naturales rationes sunt ab universali natura, nihil est ipsi contrarium.***
+§26. 226. Sed neque in tota natura malum. Si enim omnes naturales rationes sunt ab universali natura, nihil est ipsi contrarium.  
 
 > 227. Particulari autem hoc quidem secundum naturam erit, illud autem non secundum naturam: alii enim aliud est praeter naturam et hoc huic secundum naturam, illi autem praeter naturam. Naturae autem malitia est hoc quod est praeter naturam, scilicet privatio ordinis naturalium. Quare non est mala natura, sed hoc est naturae malum: impotentem esse ea quae sunt propriae naturae perficere.
 
@@ -1708,9 +1710,9 @@ quarum prima est quod materia est complementum universi; non enim esset universi
 
 Lectio 22  
 
-***Solvuntur quaedam quaestiones secundariae et primo utrum malum causetur ex bono aut ex aliqua alia causa***
+Solvuntur quaedam quaestiones secundariae et primo utrum malum causetur ex bono aut ex aliqua alia causa  
 
-***§30. 237. Est autem colligentem dicere: bonum ex una et tota est causa; malum autem ex multis et particularibus defectibus.***
+§30. 237. Est autem colligentem dicere: bonum ex una et tota est causa; malum autem ex multis et particularibus defectibus.  
 
 > 238. Vidit Deus malum ut bonum et apud ipsum causae malorum virtutes sunt bonum facientes.
 
@@ -1824,9 +1826,9 @@ primo sic: malum enim eo modo quo aliquid potest facere, potest hoc per bonum si
 
 Lectio 23  
 
-***Secundo, quomodo mala possint esse, divina providentia existente; tertio, de desiderio mali***
+Secundo, quomodo mala possint esse, divina providentia existente; tertio, de desiderio mali  
 
-***§33. 248. Quomodo autem totaliter mala sunt et providentia existente? Non est malum, secundum quod est malum, neque existens neque in existentibus et nihil existentium est improvisum: neque enim est malum conspicuum subsistens bono. Et si nullum existentium non particeps boni, malum autem defectus boni, nihil autem existentium privatur universaliter bono, in omnibus existentibus divina Providentia et nihil existentium non provisum.***
+§33. 248. Quomodo autem totaliter mala sunt et providentia existente? Non est malum, secundum quod est malum, neque existens neque in existentibus et nihil existentium est improvisum: neque enim est malum conspicuum subsistens bono. Et si nullum existentium non particeps boni, malum autem defectus boni, nihil autem existentium privatur universaliter bono, in omnibus existentibus divina Providentia et nihil existentium non provisum.  
 
 > 249. Sed et factis malis benigne providentia utitur aut ad ipsorum aut aliorum aut propriam aut communem utilitatem:
 

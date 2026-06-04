@@ -1,10 +1,12 @@
 # C. 6 - Prophecy of Jerusalem’s destruction
 
+***Prophecy of Jerusalem’s destruction***
+
 ***Lecture 1***
 
 ***Siege of Jerusalem***
 
-***^6:1^ Be strengthened, O sons of Benjamin, in the midst of Jerusalem; and sound the trumpet in Tekoa, and raise the banner over Beth Accarem, because evil has been seen from the north, and great destruction.***
+^6:1^ Be strengthened, O sons of Benjamin, in the midst of Jerusalem; and sound the trumpet in Tekoa, and raise the banner over Beth Accarem, because evil has been seen from the north, and great destruction.  
 
 > ^6:2^ I have likened the daughter of Zion to a beautiful and charming woman.
 
@@ -38,7 +40,7 @@ Lecture 2
 
 ***Attack on Jerusalem***
 
-***^6:4^ Sanctify a war against her; arise, and let us go up at midday; woe to us, because the day is far spent, because the shadows are made longer at evening.***
+^6:4^ Sanctify a war against her; arise, and let us go up at midday; woe to us, because the day is far spent, because the shadows are made longer at evening.  
 
 > ^6:5^ Arise, let us go up in the night, and we will destroy her houses.
 
@@ -56,7 +58,7 @@ Lecture 3
 
 ***The heart’s coldness***
 
-***^6:6b^ This is the city of visitation; in her midst is every cunning device.Heb. עֹ֥שֶׁק: *oppression, extortion*.***
+^6:6b^ This is the city of visitation; in her midst is every cunning device.Heb. עֹ֥שֶׁק: *oppression, extortion*.  
 
 > ^6:7^ As a cistern cools her water, even so she makes her wickedness cold. Iniquity and ruinHeb. חָמָ֣ס וָ֠שֹׁד: *violence and plundering*. will be heard in her; ever before me is sickness and affliction.
 
@@ -72,7 +74,7 @@ Lecture 4
 
 ***Warnings before destruction***
 
-***^6:8^ Be instructed, O Jerusalem, lest perhaps my soul depart from you, lest I make you a deserted place, a land in which none may dwell.***
+^6:8^ Be instructed, O Jerusalem, lest perhaps my soul depart from you, lest I make you a deserted place, a land in which none may dwell.  
 
 > ^6:9^ Thus says the Lord of hosts: they shall glean the remnant of Israel as a vine to the last cluster.Heb. עוֹלֵ֛ל: *severely*. Turn your hand as a grape-gatherer to the basket.Heb. סַלְסִלּֽוֹת: *shoots*.
 
@@ -96,7 +98,7 @@ Lecture 5
 
 ***Israel’s deafness***
 
-***^6:10^ To whom shall I speak, and whom shall I call as a witness,Heb. וְאָעִ֙ידָה֙: *and give warning*. that he may hear? Behold, their ears are uncircumcised, and they cannot hear. Behold, the word of the Lord has become a reproach to them, and they receive it not.Heb. לֹ֥א יַחְפְּצוּ־בֹֽו: *they take no delight in it*.***
+^6:10^ To whom shall I speak, and whom shall I call as a witness,Heb. וְאָעִ֙ידָה֙: *and give warning*. that he may hear? Behold, their ears are uncircumcised, and they cannot hear. Behold, the word of the Lord has become a reproach to them, and they receive it not.Heb. לֹ֥א יַחְפְּצוּ־בֹֽו: *they take no delight in it*.  
 
 > **44**. Here, he shows their contempt for the advice that was given.
 
@@ -108,7 +110,7 @@ Lecture 6
 
 ***Scourge upon all people***
 
-***^6:11^ Therefore, I am filled with the fury of the Lord; I have labored bearing it. Pour it out upon the child without, and upon the assembly of young men together; for the man with the woman will be taken, the old with the full of days.***
+^6:11^ Therefore, I am filled with the fury of the Lord; I have labored bearing it. Pour it out upon the child without, and upon the assembly of young men together; for the man with the woman will be taken, the old with the full of days.  
 
 > ^6:12^ And their houses shall pass over to others, their fields and their wives likewise, because I will stretch out my hand upon the inhabitants of the earth, says the Lord.
 
@@ -124,7 +126,7 @@ Lecture 7
 
 ***Universal abomination***
 
-***^6:13^ For from the least to the greatest they are all given over to greed, and from the prophet to the priest, they all deal fraudulently.***
+^6:13^ For from the least to the greatest they are all given over to greed, and from the prophet to the priest, they all deal fraudulently.  
 
 > ^6:14^ And they would heal the bruise of the daughter of my people with shame,Heb. נְקַלָּ֔ה: *slightly, superficially*. saying, ‘Peace, peace!’ And there was no peace.
 
@@ -152,7 +154,7 @@ Lecture 8
 
 ***Refusal of the right paths***
 
-***^6:16^ Thus says the Lord: stand upon the roads, and see, and ask of the ancient paths, ‘Which is the good way?’ and walk thereon; and you shall find rest for your souls. But they said, ‘We shall not walk therein.’***
+^6:16^ Thus says the Lord: stand upon the roads, and see, and ask of the ancient paths, ‘Which is the good way?’ and walk thereon; and you shall find rest for your souls. But they said, ‘We shall not walk therein.’  
 
 > ^6:17^ And I will set watchmen over you; attend to the voice of the trumpet. But they said, ‘We shall not attend.’
 
@@ -176,7 +178,7 @@ Lecture 9
 
 ***Unacceptable holocausts***
 
-***^6:20^ Why do you bring me the frankincense of Sheba, and sweet-smelling calamus from a distant land? Your holocausts are not accepted, and your sacrifices have not pleased me.***
+^6:20^ Why do you bring me the frankincense of Sheba, and sweet-smelling calamus from a distant land? Your holocausts are not accepted, and your sacrifices have not pleased me.  
 
 > ^6:21^ Therefore, thus says the Lord: behold, I shall set stumbling blocks before this people; and the fathers and the sons shall fall on them together; a man and his neighbor shall perish.
 
@@ -190,7 +192,7 @@ Lecture 10
 
 ***Cruelty from the north***
 
-***^6:22^ Thus says the Lord: behold, a people are coming from the land of the north, and a great nation shall arise from the ends of the earth.***
+^6:22^ Thus says the Lord: behold, a people are coming from the land of the north, and a great nation shall arise from the ends of the earth.  
 
 > ^6:23^ Arrow and shield they shall take up; they are cruel, and will not show mercy. Their voice shall resound like the sea; and they shall go upon horses, prepared as a man for battle against you, O daughter of Zion.
 
@@ -222,7 +224,7 @@ Lecture 11
 
 ***Incorrigibility of the people***
 
-***^6:27^ I have set you as an assayer over my people, a stronghold; and you shall know, and prove their way.***
+^6:27^ I have set you as an assayer over my people, a stronghold; and you shall know, and prove their way.  
 
 > ^6:28^ All these princes turn aside, walking fraudulently. Bronze and iron, all have been corrupted.
 
@@ -242,6 +244,6 @@ Fourth, he concludes the argument for rejection: ***reprobate silver you shall c
 
 Collations  
 
-***It is to be noted that sin is called ***cold*** (Jer 6:7), because it extinguishes the heat of love. *Inasmuch as wickedness abounded, the love of many will grow cold* (Matt 24:12). Because it freezes the moisture of love: *the north wind has blown cold, and frozen the water to crystal* (Sir 43:22). Because it slows the activity of good works: *the lazy man refuses to plow because of the cold, therefore in the summer will he beg, but it shall not be given him* (Prov 20:4).***
+It is to be noted that sin is called ***cold*** (Jer 6:7), because it extinguishes the heat of love. *Inasmuch as wickedness abounded, the love of many will grow cold* (Matt 24:12). Because it freezes the moisture of love: *the north wind has blown cold, and frozen the water to crystal* (Sir 43:22). Because it slows the activity of good works: *the lazy man refuses to plow because of the cold, therefore in the summer will he beg, but it shall not be given him* (Prov 20:4).  
 
 Also, note that certain things are ***ways*** (Jer 6:16) of the commandments: *I have run the way of your commandments, for you have broadened my heart* (Ps 118:32); of actions: *let us examine our ways, and inquire, let us return to the Lord* (Lam 3:40); of virtues: *I will show you the way of wisdom, and will lead you along the paths of equity* (Prov 4:11); of teachers: *her ways are lovely, and all her paths peace* (Prov 3:17); Christ himself: *I am the way, the truth and the life* (John 14:6).

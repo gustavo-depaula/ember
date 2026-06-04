@@ -1,5 +1,7 @@
 # Chapter 46
 
+^46:1^ Confractus est Bel, contritus est Nabo. Facta sunt simulacra eorum bestiis et jumentis, onera vestra gravi pondere usque ad lassitudinem;  
+
 > ^46:2^ contabuerunt et contrita sunt simul, non potuerunt salvare portantem, et anima eorum in captivitatem ibit.
 
 > ^46:3^ Audite me domus Jacob et omne residuum domus Israel, qui portamini a meo utero, qui gestamini a mea vulva.

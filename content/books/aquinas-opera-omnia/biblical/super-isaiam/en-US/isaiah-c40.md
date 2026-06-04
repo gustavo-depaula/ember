@@ -1,5 +1,7 @@
 # Chapter 38
 
+^38:1^ In those days Ezechias was sick even to death, and Isaiah the son of Amos the prophet came unto him, and said to him: thus says the Lord: take order with your house, for you shall die, and not live.  
+
 > ^38:2^ And Ezechias turned his face toward the wall, and prayed to the Lord,
 
 > ^38:3^ and said: I beseech you, O Lord, remember how I have walked before you in truth, and with a perfect heart, and have done that which is good in your sight. And Ezechias wept with great weeping.

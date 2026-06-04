@@ -1,5 +1,7 @@
 # Proposition 5
 
+49. The superior first intelligences which follow immediately upon the first cause, impress the second forms, while staying identical, which are not destroyed such that it is necessary to renew them in another cycle. The second intelligences, moreover, impress the turned-away forms which are separable, such as the soul.  
+
 > 50. For it proceeds from the impression of the second intelligence which follows created being in an inferior manner.
 
 > 51. And souls are only multiplied in the way that the intelligences are modified. This is because the being of the soul again has an end, but that which, proceeding from it, is inferior, is infinite.

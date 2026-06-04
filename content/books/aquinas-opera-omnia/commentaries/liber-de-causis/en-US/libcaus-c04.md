@@ -1,5 +1,7 @@
 # Proposition 3
 
+27. Every noble soul has three activities: for from its works is animal activity and intellectual activity and divine activity.  
+
 > 28. Activity moreover is divine because it creates nature with the power that is in it from the first cause.
 
 > 29. Now, activity is intellectual because it knows things by the power of intelligence that is in it.

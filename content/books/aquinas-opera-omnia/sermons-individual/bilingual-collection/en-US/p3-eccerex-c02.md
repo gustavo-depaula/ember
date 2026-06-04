@@ -1,5 +1,7 @@
 # Sermon
 
+***Behold, your king comes, meek*** (Matt 21:5). These words are taken from the Gospel which we read today, and are taken from Zechariah 9:9, although there it is said in slightly different words. In these words, Christ’s coming is clearly prophesied to us. And lest we proceed on the basis of an ambiguity, you should know that Christ’s coming is read in four ways.  
+
 First is that by which he comes into the flesh.  
 
 His second coming is that by which he comes into the soul.  

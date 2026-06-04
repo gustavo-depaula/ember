@@ -1,5 +1,7 @@
 # Solutio
 
+Dico ad primum quod hoc non solum a philosophis multipliciter est probatum, verum etiam a sacris doctoribus evidenter asseritur. Dicit enim Augustinus, III de Trinitate quod sicut corpora grossiora et inferiora per subtiliora quodam ordine reguntur, ita omnia corpora per spiritum vitae rationalem. In libro etiam 83 quaestionum dicit quod unaquaeque res visibilis habet in hoc mundo potestatem angelicam sibi propositam.  
+
 Ad 2 dico quod hoc ex necessitate sequitur si Angeli sunt causa motus caeli qui est causa generationis et corruptionis in inferioribus corporibus ut Dionysius dicit IV cap. de divinis nominibus quod enim est causa causae est causa causati.  
 
 Ad 3 dico quod hoc verum est quantum ad omnes illas corporis motiones quae per creaturam fieri non possunt.  

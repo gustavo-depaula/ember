@@ -1,8 +1,10 @@
 # D. 18 - The Holy Spirit as gift
 
+***The Holy Spirit as gift***
+
 ***Division of the text***
 
-***Having considered the temporal procession of the Holy Spirit, here he considers the name that belongs to him according to the account whereby he temporally proceeds: that is, “gift.”***
+Having considered the temporal procession of the Holy Spirit, here he considers the name that belongs to him according to the account whereby he temporally proceeds: that is, “gift.”  
 
 Therefore this is divided into two parts: in the first, he considers “gift” insofar as it is said of the Holy Spirit through its comparison to other gifts; in the second, he considers this name “gift” said of the Holy Spirit through its comparison to the name “given,” which is also said of him, at *moreover, it is to be considered with diligence, since the Holy Spirit is called gift and given, whether each of the names is fitting for him for the same reason*.*Sent*. I, 18.2(67).1. We have here modified the Silano translation of the *Sentences*, which translates *datum* as “grant”; here and below, we have rendered it as “given,” in order to maintain the connection between the active verb *dare* and its passive participle *datum*. If *datum* were taken as a noun, “grant” would be more defensible as a translation, but Aquinas is clear (in a. 2, resp.) that he intends the participle.  
 
@@ -39,7 +41,7 @@ Article 1
 
 ***Whether the name “gift” is essential or personal***
 
-***To the first we proceed as follows.Parallel text: *ST* I.38.1. It seems that “gift” is an essential name.***
+To the first we proceed as follows.Parallel text: *ST* I.38.1. It seems that “gift” is an essential name.  
 
 Obj. 1: For every name connoting an effect in what is created signifies the divine essence, as is commonly said. But this name “gift” connotes an effect in the creature, for the Holy Spirit is called the “gift” insofar as he is givable to the creature in some effect. Therefore it is essential.  
 
@@ -65,7 +67,7 @@ Article 2
 
 ***Whether the name “gift” is proper to the Holy Spirit***
 
-***We proceed to the second as follows.Parallel text: *ST* I.38.2. It seems that “gift” is not proper to the Holy Spirit.***
+We proceed to the second as follows.Parallel text: *ST* I.38.2. It seems that “gift” is not proper to the Holy Spirit.  
 
 Obj. 1: For the temporal procession or sending of the Holy Spirit is called the granting of him. But the Son is sent just as the Holy Spirit is, and has an aptitude for sending from his eternal procession just as the Holy Spirit does, as is evident from what was said above.Above, d. 15, q. 4, a. 2. Therefore the Son can be called “gift” just as the Holy Spirit.  
 
@@ -93,7 +95,7 @@ Article 3
 
 ***Whether all gifts are given through the gift that is the Holy Spirit***
 
-***To the third we proceed as follows. It seems that not all gifts are given through the gift that is the Holy Spirit.***
+To the third we proceed as follows. It seems that not all gifts are given through the gift that is the Holy Spirit.  
 
 Obj. 1: For just as the Philosopher says,Aristotle, *Physics* 5.2, 225b15. there is no alteration of an alteration; otherwise it would go on into infinity. Therefore, if a gift is given through a gift, it will go on to infinity—and one should not posit this. Therefore it seems that gifts are not given through another gift.  
 
@@ -121,7 +123,7 @@ Article 4
 
 ***Whether by the same procession the Holy Spirit is gift and God***
 
-***To the fourth we proceed as follows. It seems that the Holy Spirit is not God and gift by the same procession.***
+To the fourth we proceed as follows. It seems that the Holy Spirit is not God and gift by the same procession.  
 
 Obj. 1: For the account of the common and the proper are not the same. But “gift” is proper to the Holy Spirit, whereas “God” is common. Therefore the gift and God are not the same.  
 
@@ -145,7 +147,7 @@ Article 5
 
 ***Whether the Holy Spirit can be called “our gift”***
 
-***To the fifth we proceed as follows. It seems that the Holy Spirit can be called “our gift.”***
+To the fifth we proceed as follows. It seems that the Holy Spirit can be called “our gift.”  
 
 Obj. 1: For “gift” is said with reference to the created. But to those things that indicate reference to the created we can add “my” or “our,” for example, “our Creator.” Therefore it seems that the Holy Spirit can be called “our gift.”  
 
@@ -177,7 +179,7 @@ Reply Sed Contra 6: Although “God” signifies the divine essence as regards t
 
 Exposition of the text  
 
-****But the relation itself it not apparent in this name*.*Sent*. I, 18.2(67).5, quoting Augustine, *On the Trinity*, bk. 5, ch. 11. This seems to be false, because just as one says, “the gift of giving,” so too one says, “the spirit of spiration.” But it should be said that in the name “spirit” the relation is not indicated except incidentally, from its mode of signifying, insofar as it is signified as the terminus of the action of spiration, whereas in the name “gift” the relation is indicated even as regards its signification. For gifting itself, whence the name “gift” is taken, pertains more to the genus of relation than that of action, since to give is nothing other than to make what is one’s own be another’s. Also, the name “spirit” is imposed for signifying a substance by reason of its property, that is, subtlety, as was said above.Above, d. 10, q. 1, a. 4. Whence also we call both air and the soul “spirit.” But the name “gift” is not imposed for signifying a substance, but something about a substance that follows upon the giving. That is why it is not traced back to the category of substance.***
+*But the relation itself it not apparent in this name*.*Sent*. I, 18.2(67).5, quoting Augustine, *On the Trinity*, bk. 5, ch. 11. This seems to be false, because just as one says, “the gift of giving,” so too one says, “the spirit of spiration.” But it should be said that in the name “spirit” the relation is not indicated except incidentally, from its mode of signifying, insofar as it is signified as the terminus of the action of spiration, whereas in the name “gift” the relation is indicated even as regards its signification. For gifting itself, whence the name “gift” is taken, pertains more to the genus of relation than that of action, since to give is nothing other than to make what is one’s own be another’s. Also, the name “spirit” is imposed for signifying a substance by reason of its property, that is, subtlety, as was said above.Above, d. 10, q. 1, a. 4. Whence also we call both air and the soul “spirit.” But the name “gift” is not imposed for signifying a substance, but something about a substance that follows upon the giving. That is why it is not traced back to the category of substance.  
 
 *As Hilary says, . . . the Son ‘is not God by defection, or extension, or derivation from God.’**Sent*. I, 18.3(68).2, quoting Hilary, *On the Trinity*, bk. 5, ch. 37; we have modified the Silano translation to read *defection* instead of *partition*, to better match the Latin and Aquinas’s interpretation below. Here Hilary excludes from the divine persons three modes of emanation that are among the diversity of substances. One is when something is generated from a corrupted thing, for example, worms from rotting flesh, or air from water; and this he notes when he says, “through defection.” The second is when it is produced from a thing remaining joined to it, for example, a limb produced from a tree; and he touches on this when he says, “extension.” The third is when something is produced from a thing that remains but is separated from it, for example, a stream from a spring, or from a crag; and he touches on this when he says, “derivation” or “a cutting off.” And this is also how a man is from a man. But none of these fits the divine persons.  
 

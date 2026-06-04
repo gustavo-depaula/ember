@@ -1,10 +1,12 @@
 # C. 3 - What Is the Virtue of Prayer, and On Blessed Hierotheus, and On Reverence, and On the Theological Treatise
 
+Quae orationis virtus, et de beato Hierotheo, et de reverentia et de tractatu theologico  
+
 ***Lectio unica***
 
 ***Praemittitur quoddam prooemium ad totum opus***
 
-***C. III, § 1. 78. Et primam, si videtur, perfectam et totarum Dei processionum manifestativam, boni nominationem inspiciemus, boni principem et superbonam invocantes Trinitatem, quae est manifestativa totarum providentiarum, benigne ab ipsa donatarum.***
+C. III, § 1. 78. Et primam, si videtur, perfectam et totarum Dei processionum manifestativam, boni nominationem inspiciemus, boni principem et superbonam invocantes Trinitatem, quae est manifestativa totarum providentiarum, benigne ab ipsa donatarum.  
 
 > 79. Oportet enim nos orationibus primum ad ipsam, sicut boni principem, produci et magis ipsi propinquantes, in hoc doceri optima bona circa ipsam collocata.
 

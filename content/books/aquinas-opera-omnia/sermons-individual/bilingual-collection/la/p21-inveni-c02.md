@@ -1,5 +1,7 @@
 # Sermon
 
+***Inueni Dauid seruum meum*** etc. Ex uerbis istis, huius sacri pontificis quatuor commendabilia accipere possumus:  
+
 primo mirabilem eius electionem;  
 
 secundo singularem eius consecrationem;  

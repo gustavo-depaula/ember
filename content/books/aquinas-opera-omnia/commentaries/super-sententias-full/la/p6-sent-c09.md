@@ -1,6 +1,8 @@
 # D. 31 - Duration of charity
 
-***Postquam determinavit Magister de caritate, hic determinat de ejus duratione. Dividitur autem in partes duas:***
+***Divisio textus***
+
+Postquam determinavit Magister de caritate, hic determinat de ejus duratione. Dividitur autem in partes duas:  
 
 in prima parte determinat de duratione caritatis quantum ad suam essentiam;  
 
@@ -114,7 +116,7 @@ Sed contra, Augustinus, 20The Bruges, Brussels, and Paris (841, 842) manuscripts
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod liber vitae sitThe Bruges and Brussels manuscripts add *in*. respectu Dei. Psal. 68: *deleantur de libro viventium*; Glossa:From Cassiodorus. *liber viventium est Dei notitia*. Sed Deus de se habet maximamThe Paris (841, 842) manuscripts and the edited versions read *maxime*. notitiam. Ergo liber vitae est respectu Dei.***
+Ulterius. Videtur quod liber vitae sitThe Bruges and Brussels manuscripts add *in*. respectu Dei. Psal. 68: *deleantur de libro viventium*; Glossa:From Cassiodorus. *liber viventium est Dei notitia*. Sed Deus de se habet maximamThe Paris (841, 842) manuscripts and the edited versions read *maxime*. notitiam. Ergo liber vitae est respectu Dei.  
 
 Praeterea, ipse est fons vitae cujuslibet. Si ergo est aliorum, quae habent vitam participative, multo amplius est sui ipsius, qui habet vitam originaliter.  
 
@@ -130,7 +132,7 @@ Sed contra, illud dicitur esse scriptum in Deo quod habet exemplar in ipso. Sed 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nihil quod sit ibi scriptum, debeat dici inde deleri. Quia liber vitae est divina praedestinatio, ut dicit Glossa Phil. 4. Sed a praedestinatione non dicitur aliquis excidere. Ergo nec a libro vitae deleri.***
+Ulterius. Videtur quod nihil quod sit ibi scriptum, debeat dici inde deleri. Quia liber vitae est divina praedestinatio, ut dicit Glossa Phil. 4. Sed a praedestinatione non dicitur aliquis excidere. Ergo nec a libro vitae deleri.  
 
 Praeterea, liber in quo potest aliquid describi et deleri, est mutabilis. Sed liber vitae est immutabilis, quia est quid increatum. Ergo non potest aliquisThe Bruges and Brussels manuscripts read *aliquid*. inde deleri.  
 
@@ -142,7 +144,7 @@ Praeterea, nullus simul est scriptus in libro vitae et damnatus. Sed multi qui p
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod liber vitae, de quo nunc loquimur, metaphorice dicitur. Unde oportet quod ejus significatio accipiatur secundum similitudinem libri materialis; de cujus ratione videtur esse quod contineat figuras aliquas quasi similitudines aliquas illorum qui per librum illum cognoscuntur; unde et liber vitae dicetur,The edited versions read *dicitur*. quia continet similitudines quibus potest cognosci vita. Non est autem sufficienter liber vitae, quasi perfectam cognitionem de vita faciens, nisi contineat similitudines de vita cujuslibet in particulari; quia cognitio in universali est imperfecta et in potentia. Sed habere hoc modo similitudines omnium habentium vitam determinate, non est nisi divinae mentis, in qua sunt exemplaria rerum omnium propria; et ideo liber vitae non est quid creatum, sed est divina notitia de vita non solum in universali, sed in particulari quantum ad omnes in quibus invenitur vita. Et quia notitia est essentiale et appropriatum Filio, ideo liber vitae essentiale quiddam est in divinis, et Filio appropriatur.***
+Respondeo dicendum ad primam quaestionem, quod liber vitae, de quo nunc loquimur, metaphorice dicitur. Unde oportet quod ejus significatio accipiatur secundum similitudinem libri materialis; de cujus ratione videtur esse quod contineat figuras aliquas quasi similitudines aliquas illorum qui per librum illum cognoscuntur; unde et liber vitae dicetur,The edited versions read *dicitur*. quia continet similitudines quibus potest cognosci vita. Non est autem sufficienter liber vitae, quasi perfectam cognitionem de vita faciens, nisi contineat similitudines de vita cujuslibet in particulari; quia cognitio in universali est imperfecta et in potentia. Sed habere hoc modo similitudines omnium habentium vitam determinate, non est nisi divinae mentis, in qua sunt exemplaria rerum omnium propria; et ideo liber vitae non est quid creatum, sed est divina notitia de vita non solum in universali, sed in particulari quantum ad omnes in quibus invenitur vita. Et quia notitia est essentiale et appropriatum Filio, ideo liber vitae essentiale quiddam est in divinis, et Filio appropriatur.  
 
 Ad primum ergo dicendum, quod Vetus et Novum Testamentum dicitur liber vitae, quasi faciens cognitionem de vita inThe edited versions omit *in*. universali, et docens praecepta quibus pervenitur ad vitam; non tamen facit notitiam de vita uniuscujusque; et ideo aliquo modo potest dici liber vitae, sed non secundum completam rationem.  
 
@@ -156,7 +158,7 @@ Ad quintum dicendum, quod quamvis vita approprietur Spiritui Sancto, tamen notit
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod liber vitae dicitur notitia Dei. Quia autem liber proprie est illorum quorum notitiam facit per figuras et similitudines existentes in libro; ideo illorum solum notitia dici potest liber quae cognoscit Deus per similitudinem. Mala autem non cognoscit Deus per similitudines existentes malorum in se, sed cognoscuntur per modum privationis. Similiter etiam Deus seipsum non cognoscit per similitudinem sui ipsius, sed per hoc quod sibi secundum essentiam suam praesens est. Unde neque notitia quam habet DeusThe edited versions omit *Deus*. de seipso, neque notitia quam habet de malis, potest dici liber vitae, nisi de malis poenae, inquantum sunt justa et bona, secundum quod dicitur liber mortis. Vita autem inter bona computatur: unde oportet quod liber vitae intelligatur respectu vitae quae in creaturis invenitur. Et quamvis Deus habeat notitiam de vita naturae et gratiae et gloriae (unde respectu cujuslibet dictarum vitarum posset dici Dei notitia liber vitae); tamen perfecta ratio vitae non invenitur nisi in vita gloriae, quae permixtionem mortis non patitur; et ideo liber vitae secundum propriam sui acceptionem est notitia Dei quam habet de vita gloriae uniuscujusque.***
+Ad secundam quaestionem dicendum, quod liber vitae dicitur notitia Dei. Quia autem liber proprie est illorum quorum notitiam facit per figuras et similitudines existentes in libro; ideo illorum solum notitia dici potest liber quae cognoscit Deus per similitudinem. Mala autem non cognoscit Deus per similitudines existentes malorum in se, sed cognoscuntur per modum privationis. Similiter etiam Deus seipsum non cognoscit per similitudinem sui ipsius, sed per hoc quod sibi secundum essentiam suam praesens est. Unde neque notitia quam habet DeusThe edited versions omit *Deus*. de seipso, neque notitia quam habet de malis, potest dici liber vitae, nisi de malis poenae, inquantum sunt justa et bona, secundum quod dicitur liber mortis. Vita autem inter bona computatur: unde oportet quod liber vitae intelligatur respectu vitae quae in creaturis invenitur. Et quamvis Deus habeat notitiam de vita naturae et gratiae et gloriae (unde respectu cujuslibet dictarum vitarum posset dici Dei notitia liber vitae); tamen perfecta ratio vitae non invenitur nisi in vita gloriae, quae permixtionem mortis non patitur; et ideo liber vitae secundum propriam sui acceptionem est notitia Dei quam habet de vita gloriae uniuscujusque.  
 
 Sic ergo differt liber vitae a scientia Dei, quae est de temporalibus et aeternis;The edited versions add *et*. a praescientia, quae est de bonis et malis; et etiam a praedestinatione, quia praedestinatio proprie de futuris est, et providentia directionem in finem importat, cum sit propositum miserendi. Sed liber vitae simplicem notitiam de vita importat, et non determinat aliquod tempus; unde etThe edited versions omit *et*. scripti in libro vitae dicuntur et qui vitam habent, et qui habituri sunt.  
 
@@ -164,7 +166,7 @@ Et per hoc patet solutio ad omnia objecta.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod liber vitae, ut dictum est, est notitia Dei de vita gloriae alicujus hominis. Res autem aliqua dupliciter habet esse, scilicet in se et in sua causa: in se quidem est simpliciter; in causa autem sua habet esse secundum quid. Causa autem gloriae est gratia, sufficiens quantum in se est: unde qui habet gratiam, habet jam vitam gloriae secundum quid. Cognitio ergo de vita gloriae alicujus habetur a DeoThe Piana and Antwerp editions read *de Deo*. dupliciter. Uno modo, inquantum Deus scit ipsam vitam gloriae in isto esse, vel futuram esse simpliciter; et tunc talisThe Vivès edition reads *aliis*. dicitur esse scriptus in libro vitae simpliciter, vel adscriptus, ut quidam dicunt, ad similitudinem illorum qui adscribuntur ad militiam, vel ad aliquod officium. Alio modo, inquantum Deus scit vitam gloriae inesse isti, vel futuram esse in eo in causa sua, quae est gratia; et talis dicitur secundum quid scriptus in libro vitae, vel annotatus, ut quidam dicunt. Quia ergo non potest esse ut scientia Dei fallatur, ideo quemcumque scit habiturum vitam aeternam, habebit eam. Unde iste qui simpliciter scriptus est vel adscriptus in libro vitae, non potest inde deleri.***
+Ad tertiam quaestionem dicendum, quod liber vitae, ut dictum est, est notitia Dei de vita gloriae alicujus hominis. Res autem aliqua dupliciter habet esse, scilicet in se et in sua causa: in se quidem est simpliciter; in causa autem sua habet esse secundum quid. Causa autem gloriae est gratia, sufficiens quantum in se est: unde qui habet gratiam, habet jam vitam gloriae secundum quid. Cognitio ergo de vita gloriae alicujus habetur a DeoThe Piana and Antwerp editions read *de Deo*. dupliciter. Uno modo, inquantum Deus scit ipsam vitam gloriae in isto esse, vel futuram esse simpliciter; et tunc talisThe Vivès edition reads *aliis*. dicitur esse scriptus in libro vitae simpliciter, vel adscriptus, ut quidam dicunt, ad similitudinem illorum qui adscribuntur ad militiam, vel ad aliquod officium. Alio modo, inquantum Deus scit vitam gloriae inesse isti, vel futuram esse in eo in causa sua, quae est gratia; et talis dicitur secundum quid scriptus in libro vitae, vel annotatus, ut quidam dicunt. Quia ergo non potest esse ut scientia Dei fallatur, ideo quemcumque scit habiturum vitam aeternam, habebit eam. Unde iste qui simpliciter scriptus est vel adscriptus in libro vitae, non potest inde deleri.  
 
 Sed quia gratia, quae est causa gloriae in eo qui habet praesentem justitiam, quando ipse a justitia per peccatum decidit, desinit esse gloriae causa in eo; ideo notitia Dei de gratia istius non est ut de causa gloriae: unde jam ista cognitio gratiae istius quam Deus habet, non pertinet ad librum vitae gloriae: et secundum hoc dicitur deleri de libro vitae, non aliqua mutatione in libro facta, sed in ipso ex parte cujus accidit quod gratia non est jam causa gloriae; et dicitur Deus aliquem de libro vitae delere, inquantum permittit eum a justitia excidere per peccatum.  
 
@@ -178,7 +180,7 @@ Articulus 3
 
 ***Utrum quaelibet caritas possit resistere cuilibet tentationi***
 
-***Ad tertium sic proceditur. Videtur quod non quaelibet caritas possit resistere cuilibet tentationi.***
+Ad tertium sic proceditur. Videtur quod non quaelibet caritas possit resistere cuilibet tentationi.  
 
 Sicut enim caritas obsistit peccato, ita et ratio, ut supra dictum est. Sed non quaelibet ratio potest tentationi resistere, sicut patet in incontinentibus, qui habent rationem rectam, et vincuntur, ut dicit Philosophus. Ergo non quaelibet caritas potest tentationi cuilibet resistere.  
 
@@ -230,7 +232,7 @@ Sed contra, in Malach. 3:4: *placebit Deo sacrificium Juda* etc.The edited versi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod semper resurgat in majori. Gen. 1: *factum est vespere et mane dies unus*; Glossa: *vespertina lux a qua quis cecidit, matutina in qua resurgit*. Sed lux matutina est major quam vespertina. Ergo et gratia vel caritas in qua quis resurgit, illa quam prius habebat.***
+Ulterius. Videtur quod semper resurgat in majori. Gen. 1: *factum est vespere et mane dies unus*; Glossa: *vespertina lux a qua quis cecidit, matutina in qua resurgit*. Sed lux matutina est major quam vespertina. Ergo et gratia vel caritas in qua quis resurgit, illa quam prius habebat.  
 
 Praeterea, Rom. 5:The Bruges and Brussels manuscripts read *6*.20: *ubi abundavit delictum, superabundavit et gratia*. Sed ubi superabundat gratia, estThe edited versions add *ibi*. major caritas. Ergo et cetera.  
 
@@ -240,7 +242,7 @@ Sed contra, innocens non est minus aptus ad recipiendum gratiam quam peccator. S
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ad minus semper sit aequalis. Roman. 8:28: *diligentibus Deum omnia cooperantur in bonum*; Glossa: *etiam casus in peccatum*. Sed hoc non esset, si in majori caritate resurgeret. Ergo nunquam in minori, sed semper in aequali resurgit.***
+Ulterius. Videtur quod ad minus semper sit aequalis. Roman. 8:28: *diligentibus Deum omnia cooperantur in bonum*; Glossa: *etiam casus in peccatum*. Sed hoc non esset, si in majori caritate resurgeret. Ergo nunquam in minori, sed semper in aequali resurgit.  
 
 Praeterea, Ambrosius dicit quod poenitentia omnia ablata restituit. Sed hoc non esset si non resurgeret ad minus in aequali caritate. Ergo semper resurgit aliquis in aequali caritate.  
 
@@ -252,7 +254,7 @@ Sed contra, minima contritio sufficit ad deletionem omnium peccatorum. Sed secun
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod mensura caritati praefigitur a Deo secundum suam voluntatem, et aliquo modo commensuratur ad conatum illius qui gratiam recipit. Unde cum aliquis post peccatumThe Piana and Antwerp editions read *per peccatum*. possit multum et parum conari ad recipiendum caritatem, et divinae liberalitati non ponatur terminus per peccatum, cum ipse quantum in se est, sit paratus omnia peccata totaliter delere; oportet dicere sicut et communiter dicitur, quod aliquis potest post peccatum in majori et inThe Bruges manuscript omits *in*. minori et aequali caritate resurgere.***
+Respondeo dicendum ad primam quaestionem, quod mensura caritati praefigitur a Deo secundum suam voluntatem, et aliquo modo commensuratur ad conatum illius qui gratiam recipit. Unde cum aliquis post peccatumThe Piana and Antwerp editions read *per peccatum*. possit multum et parum conari ad recipiendum caritatem, et divinae liberalitati non ponatur terminus per peccatum, cum ipse quantum in se est, sit paratus omnia peccata totaliter delere; oportet dicere sicut et communiter dicitur, quod aliquis potest post peccatum in majori et inThe Bruges manuscript omits *in*. minori et aequali caritate resurgere.  
 
 Ad primum ergo dicendum, quod loquitur de gloria praemii accidentalis, quae non commensuratur caritati, sed actui vel statui: quia post peccatum virgo aureolam non habebit; et similiter nec peccator resurgens gaudium de innocentia continuata.The edited versions read *continua*.  
 
@@ -264,7 +266,7 @@ Ad quartum dicendum, quod ceteris paribus semper ille qui habet caritatem, recip
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod non est necessarium quod semper in majori caritate resurgat: quia etiam minor praeparatio, velThe Bruges manuscript reads *et*. aequalis, sufficit ad hoc quod gratia infundatur.***
+Ad secundam quaestionem dicendum, quod non est necessarium quod semper in majori caritate resurgat: quia etiam minor praeparatio, velThe Bruges manuscript reads *et*. aequalis, sufficit ad hoc quod gratia infundatur.  
 
 Ad primum igitur dicendum, quod similitudo illa attenditur non quantum ad quantitatem lucis, sed quantum ad ordinem lucis ad tenebras.  
 
@@ -274,7 +276,7 @@ Ad tertium dicendum, quod peccatum non vincit caritatem propter ejus debilitatem
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod etiam in minori caritate potest homo resurgere: quia quantumcumqueThe Nicolaï, Venice (2nd ed.), Parma, and Vivès editions read *quantulumcumque*. de peccato doleat, et ad gratiam se praeparet, dummodo ad terminum contritionis perveniat, qua plus displicet ei a Deo recessisse quam aliquod temporale commodum,The edited versions read *placuit*. gratiam habebit, etiam si non tantum praeparet se quantum prius, dum fuit innocens, praeparavit.***
+Ad tertiam quaestionem dicendum, quod etiam in minori caritate potest homo resurgere: quia quantumcumqueThe Nicolaï, Venice (2nd ed.), Parma, and Vivès editions read *quantulumcumque*. de peccato doleat, et ad gratiam se praeparet, dummodo ad terminum contritionis perveniat, qua plus displicet ei a Deo recessisse quam aliquod temporale commodum,The edited versions read *placuit*. gratiam habebit, etiam si non tantum praeparet se quantum prius, dum fuit innocens, praeparavit.  
 
 Ad primum ergoThe edited versions read *igitur*. dicendum, quod hoc intelligitur non semper quantum ad majorem quantitatem caritatis, sed quantum ad majorem diligentiam vel humilitatem, in qua poenitens resurgit, ad minus actualem.The Paris (841) manuscript and the edited versions read *actuali*. Minus autem malum est ut caritas diminuatur quam ut totaliter amittatur; et minus malum computatur pro magis bono, ut dicitur 5 *Ethic.* Et ideo in bonum diligentis Deum cedit peccatum, etiam si in minori caritate resurgat: quia per humilitatem et cautelam ab omnimoda gratiae amissione curatur.The Bruges and Brussels manuscripts read *tueatur*.  
 
@@ -286,7 +288,7 @@ Ad quartum dicendum, quod sicut ex praedictis patet, per priora merita merebatur
 
 Quaestio 2  
 
-***Deinde quaeritur de evacuatione caritatis per gloriam; et circa hoc quaeruntur quatuor:***
+Deinde quaeritur de evacuatione caritatis per gloriam; et circa hoc quaeruntur quatuor:  
 
 primo utrum fides et spes evacuentur gloria adveniente;  
 
@@ -302,7 +304,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod fides non evacuatur.The edited versions read *evacuetur*.***
+Ad primum sic proceditur. Videtur quod fides non evacuatur.The edited versions read *evacuetur*.  
 
 Fides enim est fundamentum spiritualis aedificii. Sed fundamentum immobile manet, quidquid superaedificetur. Ergo fides non evacuatur adveniente gloria.  
 
@@ -318,7 +320,7 @@ Praeterea, fides est non apparentium. Sed in patria nihil erit non apparens eoru
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nec etiamThe edited versions omit *etiam*. spes evacuetur. Quia sicut se habet spes ad bona, ita se habet timorThe Bruges manuscript adds *servilis*. ad mala. Sed in damnatis semper manebit timor servilis. Ergo et similiter in beatis manebit spes.***
+Ulterius. Videtur quod nec etiamThe edited versions omit *etiam*. spes evacuetur. Quia sicut se habet spes ad bona, ita se habet timorThe Bruges manuscript adds *servilis*. ad mala. Sed in damnatis semper manebit timor servilis. Ergo et similiter in beatis manebit spes.  
 
 Praeterea, Eccli. 24:29: *qui edunt me adhuc esurient*; et loquitur de fruitione divinae sapientiae quae erit etiamThe edited versions omit *etiam*. in patria. Sed esuriens expectat aliquid in futurum. Ergo sancti expectabunt aliquid in futurum etiam de praemio substantiali.  
 
@@ -330,7 +332,7 @@ Praeterea, spes est expectatio beatitudinis futurae. Sed beatitudo in patria jam
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aliquid de substantia habitus fidei et spei remanebit idem numero. Quia in omni mutatione oportet esse aliquid commune utrique terminorum. Sed fides et spes mutantur in bona gloriae. Ergo oportet quod aliquid de substantia habitus fidei et spei maneat idem numero.***
+Ulterius. Videtur quod aliquid de substantia habitus fidei et spei remanebit idem numero. Quia in omni mutatione oportet esse aliquid commune utrique terminorum. Sed fides et spes mutantur in bona gloriae. Ergo oportet quod aliquid de substantia habitus fidei et spei maneat idem numero.  
 
 Praeterea, sicut caritas adveniens opponitur fidei informi non secundum substantiam fidei, sed secundum informitatem; ita gloria adveniens opponitur fidei non secundum substantiam visionis, sed secundum imperfectionem tantum. Sed caritas adveniensThe Bruges manuscript adds *fidei*. tollit informitatem et remanet idem habitus numero fidei quantum ad substantiam, ut supra dictum est, dist. 23, quaest. 3, art. 4, quaestiunc. 1. Ergo et similiter gloria adveniens tollit tantum imperfectionem, et dimittit eamdem substantiam habitus numero.  
 
@@ -342,7 +344,7 @@ Praeterea, impossibile est quod aliquid sit idem numero quod non sit idem specie
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in fide est cognitio quaedam et modus cognoscendi, quia cognoscit inThe Vivès edition omits *in*. speculo et in aenigmate; modus autem imperfectionis est, et obscuritatem importat. Unde cum gloria adveniens omnem imperfectionem et obscuritatem tollat, tollet quidem modum fidei quantum ad modum cognoscendi, sed remanebit cognitio eorum quorum est fides, non quidem jam aenigmatica, sed clara.***
+Respondeo dicendum ad primam quaestionem, quod in fide est cognitio quaedam et modus cognoscendi, quia cognoscit inThe Vivès edition omits *in*. speculo et in aenigmate; modus autem imperfectionis est, et obscuritatem importat. Unde cum gloria adveniens omnem imperfectionem et obscuritatem tollat, tollet quidem modum fidei quantum ad modum cognoscendi, sed remanebit cognitio eorum quorum est fides, non quidem jam aenigmatica, sed clara.  
 
 Ad primum ergo dicendum, quod quantum ad id quod habet de cognitione, fides est fundamentum, nonThe Bruges manuscript adds *tamen*. quantum ad id quod habet de aenigmate; unde quantum ad id quod est fundamentum, manebit.  
 
@@ -354,7 +356,7 @@ Ad quartum dicendum, quod opinio et scientia, quamvis sint de eodem, non tamen s
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod de habitibus oportet ex actibus judicium sumere. Est autem duplex actus; scilicetThe edited versions add *actus*. qui est actus imperfecti inquantum hujusmodi, sicut motus; et actus qui est actus perfecti inquantum hujusmodi, sicut operatio consequens formam.***
+Ad secundam quaestionem dicendum, quod de habitibus oportet ex actibus judicium sumere. Est autem duplex actus; scilicetThe edited versions add *actus*. qui est actus imperfecti inquantum hujusmodi, sicut motus; et actus qui est actus perfecti inquantum hujusmodi, sicut operatio consequens formam.  
 
 Contingit autem quandoque quod actus perfecti inveniantur in imperfecto secundum quod jam participat aliquid de perfectione, sicut aliquid de actu albi est in pallido. Quando ergo imperfectum ad perfectionem venit, actus qui est ejus inquantum habet aliquid de perfectione in quam tendebat, manet quantum ad id quod est substantia actus, sed tollitur quantum ad id quod erat de imperfectione actus; sicut loquela balbutientis pueri tollitur, quando venit ad perfectam aetatem, quantum ad id quod imperfectionis erat in ipso; manet autem quidquid erat de perfectione et de substantia loquelae. Sed motus qui est actus imperfecti, quando pervenitur ad terminum motus, non manet quantum ad aliquid substantiae actus, sed quantum ad radicem, secundum quam motus inerat, quae erat proportio quaedam et ordo imperfecti ad perfectionem.  
 
@@ -370,7 +372,7 @@ Ad tertium dicendum, quod etiam in spe invenitur aliquid quod manet in patria, s
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod ablatio alicujus quod est de substantia rei, inducit corruptionem rei illius; non autem sublatio alicujus quod se habet accidentaliter ad rem illam. Imperfectio autem illa quam tollit gloria a fide, est substantia fidei,The Vivès edition reads *fide*. et ad speciem ejus pertinens: quod patet ex hoc quod accipitur secundum rationem objecti, a quo fides speciem recipit. Obscuritas enim, quam aenigma importat, ad genus cognitionis pertinet. Et ideo oportet quod, remota ista imperfectione, substantia et species fidei destruantur, sicut si ab asino removeatur sua irrationabilitas.The Bruges manuscript reads *irrationalitas*. Quia autem fides forma quaedam est accidentalis simplex, non composita ex materia et forma; ideo ipsa destructa non remanet aliquid fidei idem numero, sed idem genere; sicut patet quod quando ex albo fit nigrum, vel e converso, manet id quod coloris est, non idem numero color, sed idem genere; sed manet eadem lux numero cum est perfecta et imperfecta; quia illa imperfectio vel perfectio non pertinet ad speciem lucis, sed accidentalis est. Et similiter est dicendum de spe, in qua etiam quod dictum est, magis apparet.***
+Ad tertiam quaestionem dicendum, quod ablatio alicujus quod est de substantia rei, inducit corruptionem rei illius; non autem sublatio alicujus quod se habet accidentaliter ad rem illam. Imperfectio autem illa quam tollit gloria a fide, est substantia fidei,The Vivès edition reads *fide*. et ad speciem ejus pertinens: quod patet ex hoc quod accipitur secundum rationem objecti, a quo fides speciem recipit. Obscuritas enim, quam aenigma importat, ad genus cognitionis pertinet. Et ideo oportet quod, remota ista imperfectione, substantia et species fidei destruantur, sicut si ab asino removeatur sua irrationabilitas.The Bruges manuscript reads *irrationalitas*. Quia autem fides forma quaedam est accidentalis simplex, non composita ex materia et forma; ideo ipsa destructa non remanet aliquid fidei idem numero, sed idem genere; sicut patet quod quando ex albo fit nigrum, vel e converso, manet id quod coloris est, non idem numero color, sed idem genere; sed manet eadem lux numero cum est perfecta et imperfecta; quia illa imperfectio vel perfectio non pertinet ad speciem lucis, sed accidentalis est. Et similiter est dicendum de spe, in qua etiam quod dictum est, magis apparet.  
 
 Ad primum ergo dicendum, quod commune quod manet in mutatione, idem numero est subjectum, sed idem genere manetThe edited versions add *in*. natura generis; et ita in hac transmutatione manetThe Bruges manuscript reads *remanet*. idemThe edited versions read *eadem*. numero anima; sed visio vel cognitio idem genere.  
 
@@ -412,11 +414,11 @@ Ad quintum dicendum, quod hoc quod caritas viae manens in via, non potest perven
 
 Articulus 3  
 
-***Utrum ordo dilectionis, qui modo est, fuerit in Christo, vel in sanctis qui sunt in patria***
+Utrum ordo dilectionis, qui modo est, fuerit in Christo, vel in sanctis qui sunt in patria  
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod ordo dilectionis qui modo est, non fuerit in Christo, nec in sanctis qui sunt in patria, quantum ad dilectionem inimicorum.***
+Ad tertium sic proceditur. Videtur quod ordo dilectionis qui modo est, non fuerit in Christo, nec in sanctis qui sunt in patria, quantum ad dilectionem inimicorum.  
 
 Quia inimici sanctorum, ad minus post diem judicii non erunt nisi daemones et damnati. Sed ad illos non est habenda caritas, ut supra, dist. 28, art. 5, dictum est. Ergo non diligent inimicos.  
 
@@ -430,7 +432,7 @@ Praeterea, ChristusThe Brussels manuscript omits *Christus*. ex caritate dilexit
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in eis non sit ordo caritatis quantum ad se et proximum, et propinquos et extraneos. Augustinus in libro *De vera religione*: *perfecta caritas*The edited versions read *justitia*. *est, ut plus potiora bona, et minus minora diligamus*.Migne reads *et haec est perfecta justitia qua potius potiora et minus minora diligimus*. Sed in patria erit perfecta caritas. Ergo proximum meliorem se plus diliget aliquis quam seipsum, et similiter extraneum quam propinquum secundum carnem.***
+Ulterius. Videtur quod in eis non sit ordo caritatis quantum ad se et proximum, et propinquos et extraneos. Augustinus in libro *De vera religione*: *perfecta caritas*The edited versions read *justitia*. *est, ut plus potiora bona, et minus minora diligamus*.Migne reads *et haec est perfecta justitia qua potius potiora et minus minora diligimus*. Sed in patria erit perfecta caritas. Ergo proximum meliorem se plus diliget aliquis quam seipsum, et similiter extraneum quam propinquum secundum carnem.  
 
 Praeterea, in patria erit perfecta conformitas humanae voluntatis ad Deum. Sed Deus plus diligit meliorem. Ergo et quilibet plus diliget meliorem seThe edited versions omit *se*. quam seipsum.  
 
@@ -442,7 +444,7 @@ Praeterea, si aliquis salutem suam negligeret pro salute alterius, peccaret. Sed
 
 Quaestiuncula 3  
 
-***Ulterius. Quaeritur quem Christus plus dilexerit, Petrum vel Joannem; et videtur quod Joannem. Joan. ultim. 20: *vidit illum discipulum quem diligebat Jesus, sequentem*. Hoc autem non dicitur quia illum tantum diligeret.The Bruges manuscript reads *dilexerat*. Ergo propter eminentiam dilectionis ad ipsum.***
+Ulterius. Quaeritur quem Christus plus dilexerit, Petrum vel Joannem; et videtur quod Joannem. Joan. ultim. 20: *vidit illum discipulum quem diligebat Jesus, sequentem*. Hoc autem non dicitur quia illum tantum diligeret.The Bruges manuscript reads *dilexerat*. Ergo propter eminentiam dilectionis ad ipsum.  
 
 Praeterea, dilectio in qua affectus effectui,The Bruges manuscript reads *affectioni*. vel signis dilectionis non respondet, est dilectio simulationis. Cum ergo Christus majorem familiaritatem Joanni exhibuerit quam Petro, et ejus dilectio nullo modo fuerit simulata; videtur quod Joannem plus Petro dilexerit.  
 
@@ -450,7 +452,7 @@ Sed contra, Proverb. 8:17: *ego diligentes me diligo*. Sed plus dilexit Petrus, 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod inimici Christi possunt accipi dupliciter; vel quantum ad finalem exitum, sicut damnati, vel in actu, vel in praevisione divina; vel quantum ad praesentem statum tantum, sicut SaulusThe edited versions read *Paulus*. tunc erat.***
+Respondeo dicendum ad primam quaestionem, quod inimici Christi possunt accipi dupliciter; vel quantum ad finalem exitum, sicut damnati, vel in actu, vel in praevisione divina; vel quantum ad praesentem statum tantum, sicut SaulusThe edited versions read *Paulus*. tunc erat.  
 
 Quantum ergo ad primos inimicos est eadem ratio dilectionis in Christo quae in nobis ad illos quos scimus damnatos; quia naturam ipsorum diligimus, et considerata natura tantum eis vitam aeternam vellemus; sed considerata justitia divina et eorum meritis, eis hoc non volumus, quia justitiam divinam plus diligimus quam eorum naturam. Et prima voluntas est voluntas antecedens,The Piana edition reads *voluntas accidens*. secunda est voluntas consequens; et ita Christus diligebat inimicos qui erant damnati vel damnandi, volens eis bonum voluntate antecedente, quae non semper impletur,The Bruges, Brussels, and Paris (841, 15.770) manuscripts add *etiam Dei voluntas antecedens*. sed non consequente, sicut nec Deus. Et eadem ratio est de aliis beatis quantum ad illos qui actu sunt damnati. Sed de damnandis forte nesciunt de omnibus qui sunt.  
 
@@ -476,7 +478,7 @@ Ad tertium dicendum, quod voluntate consequente vult majusThe Brussels manuscrip
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dicitur, Petrus plus dilexit Christum dilectione quae ab ipso in membra diffunditur; sed Joannes plus dilexit dilectione quae in Christo sistit; et ideo Petro Dominus commisit curam membrorum; Joanni autem curam matris, quae ad personam ipsiusThe edited versions read *ejus*. specialius spectabat. Unde et Petrus a Christo plus diligebatur quantum ad effectumThe edited versions read *affectum*. interiorem, quia donum majoris caritatis erat ei tunc collatum. Sed Joannes magis diligebatur quantum ad signa exterioris familiaritatis; et hoc propter quatuor causas. Primo, quia per Joannem significatur vita contemplativa quae familiariorem habet Deum, quamvis activa sit fructuosior, quae significatur in Petro. Secundo propter aetatem, quia juvenis erat. Tertio propter castitatem. Quarto propter ingenitam mansuetudinem.***
+Ad tertiam quaestionem dicendum, quod, sicut dicitur, Petrus plus dilexit Christum dilectione quae ab ipso in membra diffunditur; sed Joannes plus dilexit dilectione quae in Christo sistit; et ideo Petro Dominus commisit curam membrorum; Joanni autem curam matris, quae ad personam ipsiusThe edited versions read *ejus*. specialius spectabat. Unde et Petrus a Christo plus diligebatur quantum ad effectumThe edited versions read *affectum*. interiorem, quia donum majoris caritatis erat ei tunc collatum. Sed Joannes magis diligebatur quantum ad signa exterioris familiaritatis; et hoc propter quatuor causas. Primo, quia per Joannem significatur vita contemplativa quae familiariorem habet Deum, quamvis activa sit fructuosior, quae significatur in Petro. Secundo propter aetatem, quia juvenis erat. Tertio propter castitatem. Quarto propter ingenitam mansuetudinem.  
 
 Et per hoc patet solutio ad objecta: quia uterque plus diligebat, et quodammodo plus diligebatur.  
 
@@ -484,7 +486,7 @@ Articulus 4
 
 ***Utrum scientia quam modo habemus totaliter tolletur***
 
-***Ad quartum sic proceditur. Videtur quod scientia quam modo habemus, totaliter tolletur;***
+Ad quartum sic proceditur. Videtur quod scientia quam modo habemus, totaliter tolletur;  
 
 1 Corinth. 13:8: *scientia destruetur*. Sed accidens quod destruitur, totaliter tollitur. Ergo scientia totaliter tolletur.  
 
@@ -528,6 +530,6 @@ Ad sextum dicendum, quod non erit actus scientiae quantum ad discursum, sed quan
 
 Expositio textus  
 
-****Caritas autem, quae deseri potest*. Verum est, si posset deseri propter debilitatem amoris, ut scilicet aliquis minus diligeret Deum quam rem illam pro quaThe edited versions add *tunc*. peccat: tunc enim non esset vera caritas.***
+*Caritas autem, quae deseri potest*. Verum est, si posset deseri propter debilitatem amoris, ut scilicet aliquis minus diligeret Deum quam rem illam pro quaThe edited versions add *tunc*. peccat: tunc enim non esset vera caritas.  
 
 *De perfecta intelligitur*. Perfecta dicitur quae est in confirmatis vel in via vel in patria; vel intelligitur non quod non possit amitti, sed quia difficile est quodThe Bruges manuscript reads *ut*. amittatur.

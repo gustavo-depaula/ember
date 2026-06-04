@@ -1,6 +1,8 @@
 # Chapter 5
 
-***^5:1^ I will sing to my beloved the canticle of my cousin concerning his vineyard. A vineyard was made for my belovedDR: “my beloved had a vineyard.” on a hornDR: “on a hill.” The Vulgate retains the Hebrew idiom. in a son of oil.DR: “a fruitful place.” The Vulgate retains the Hebrew idiom.***
+***Lecture 1***
+
+^5:1^ I will sing to my beloved the canticle of my cousin concerning his vineyard. A vineyard was made for my belovedDR: “my beloved had a vineyard.” on a hornDR: “on a hill.” The Vulgate retains the Hebrew idiom. in a son of oil.DR: “a fruitful place.” The Vulgate retains the Hebrew idiom.  
 
 > ^5:2 ^And he fenced it in, and picked the stones out of it, and planted it with the choicest vines, and built a tower in the midst thereof, and set up a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
 
@@ -180,7 +182,7 @@ Third, as to the loss of seed: ***and thirty bushels of seed shall yield three b
 
 Lecture 2  
 
-***^5:11^ Woe to you that rise up early in the morning to follow drunkenness, and to drink until*Usque ad*. DR: “in.” the evening, to be inflamed with wine.***
+^5:11^ Woe to you that rise up early in the morning to follow drunkenness, and to drink until*Usque ad*. DR: “in.” the evening, to be inflamed with wine.  
 
 > ^5:12^ The harp, and the lyre, and, the timbrel and the pipe, and wine are in your feasts: and the work of the Lord you regard not, nor do you consider the works of his hands.
 
@@ -316,7 +318,7 @@ third, with uneasiness of conscience, below: ***but the heart of the wicked is l
 
 Lecture 3  
 
-***^5:20^ Woe to you that call evil good, and good evil: that put darkness for light, and light for darkness: that put bitter for sweet, and sweet for bitter.***
+^5:20^ Woe to you that call evil good, and good evil: that put darkness for light, and light for darkness: that put bitter for sweet, and sweet for bitter.  
 
 > ^5:21 ^Woe to you that are wise in your own eyes, and prudent in your own conceits.
 
@@ -366,7 +368,7 @@ And to this is to be said that in some writings this is taken to mean going beyo
 
 Lecture 4  
 
-***^5:25b^ For after this his anger is not turned away, but his hand is stretched out still.***
+^5:25b^ For after this his anger is not turned away, but his hand is stretched out still.  
 
 > ^5:26 ^And he will lift up a sign to the nations afar off, and will whistle to them from the ends of the earth: and behold they shall come with speed swiftly.
 

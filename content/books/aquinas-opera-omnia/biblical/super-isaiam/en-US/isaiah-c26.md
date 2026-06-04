@@ -1,5 +1,7 @@
 # Chapter 24
 
+^24:1^ Behold the Lord shall lay waste the earth, and shall strip it, and shall afflict the face thereof, and scatter abroad the inhabitants thereof.  
+
 > ^24:2^ And it shall be as with the people, so with the priest: and as with the servant so with his master: as with the handmaid, so with her mistress: as with the buyer, so with the seller: as with the lender, so with the borrower: as with him that calls for his money, so with him that owes.
 
 > ^24:3^ With desolation shall the earth be laid waste, and it shall be utterly spoiled: for the Lord has spoken this word.

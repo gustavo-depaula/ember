@@ -1,6 +1,8 @@
 # Pr. (Luke 12:39) - Luke 12:39
 
-***^12:39^ Hoc autem scitote, quoniam si sciret paterfamilias, qua hora fur veniret, vigilaret utique, et non sineret perfodi domum suam.***
+***Lucam 12:39***
+
+^12:39^ Hoc autem scitote, quoniam si sciret paterfamilias, qua hora fur veniret, vigilaret utique, et non sineret perfodi domum suam.  
 
 > **1**. Per *patremfamilias* significatur praelatus Ecclesiae propter tria, quae debet exhibere, scilicet generationem ad fidem, eruditionem ad salutem, custodiam ad securitatem.
 

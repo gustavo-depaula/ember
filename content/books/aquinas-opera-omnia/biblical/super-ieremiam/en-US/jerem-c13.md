@@ -1,5 +1,7 @@
 # C. 11 - Israel’s broken covenant
 
+***Israel’s broken covenant***
+
 ***Lecture 1***
 
 ***The covenant recalled***
@@ -52,7 +54,7 @@ Lecture 2
 
 ***The covenant’s transgression***
 
-***^11:7^ For I strongly warned your fathers, on the day when I brought them forth from the land of Egypt until this day; rising early I warned them, and said: listen to my voice.***
+^11:7^ For I strongly warned your fathers, on the day when I brought them forth from the land of Egypt until this day; rising early I warned them, and said: listen to my voice.  
 
 > ^11:8^ But they did not listen, nor did they incline their ear, but turned away, each one in the depravityHeb. שְׁרִירוּת: *stubbornness*. of his own evil heart; and I brought all the words of this covenant upon them, which I commanded them to do, and they did not do.
 
@@ -90,7 +92,7 @@ Lecture 3
 
 ***Inescapable punishment***
 
-***^11:11^ Therefore, thus says the Lord: behold I shall bring evil upon them, from which they shall not be able to escape; and they shall cry to me, but I will not hear them.***
+^11:11^ Therefore, thus says the Lord: behold I shall bring evil upon them, from which they shall not be able to escape; and they shall cry to me, but I will not hear them.  
 
 > ^11:12^ And the cities of Judah and the inhabitants of Jerusalem shall go and cry to the gods for whom they pour out drink offerings,Heb. מְקַטְּרִ֖ים: *offer incense*. and they shall not save them in the time of their affliction.
 
@@ -136,7 +138,7 @@ Lecture 4
 
 ***Jeremiah’s persecution***
 
-***^11:18^ But you, O Lord, have shown me, and I have known; then you disclosed to me their intentions.***
+^11:18^ But you, O Lord, have shown me, and I have known; then you disclosed to me their intentions.  
 
 > ^11:19^ And I was gentle, like a lamb brought as a sacrifice:Heb. לִטְב֑וֹחַ: *to the slaughter*. and I did not know that they took counsel against me, saying: let us put wood in his bread, and let us cut him off from the land of the living,Heb. נַשְׁחִ֨יתָה עֵ֤ץ בְּלַחְמֹו֙ וְנִכְרְתֶ֙נּוּ֙ מֵאֶ֣רֶץ חַיִּ֔ים: *let us destroy the tree with its fruit, let us cut him off from the land of the living*. and his name shall be remembered no more.
 
@@ -174,4 +176,4 @@ Third, the power of the one who punishes them: ***I will bring this evil upon th
 
 Collations  
 
-***Note that the ***olive tree*** (Jer 11:16) is called holy because of fatness, by which is signified devotion: *you have been made a partaker in the root, and fatness of the olive tree* (Rom 11:17); because of the excellence of the oil, by which is signified contemplation: *these are the two sons of oil, who stand beside the Lord of the whole earth* (Zech 4:14).“Sons of oil”: Zerubbabel and Joshua, who had been anointed to serve as king and high priest, respectively. *And he made for the oracle two cherubim from olive wood, ten cubits in height* (1 Kgs 6:23). Because of the greenness of its leaves, by which is signified the strength of the mind: *the dove returned at evening, carrying the branch of a green olive tree in her mouth* (Gen 8:11); because of its fertility, by which is signified an abundance of good works: *but I am like a fruitful olive tree in the house of God, I have hoped in the mercy of God forever, and unto ages of ages* (Ps 51:10); because of its beauty, by which is signified the glory of the saints: *as a beautiful olive tree in the fields, and like a plane tree I am exalted by the waters* (Sir 24:19). *His glory will be like the olive tree, and his fragrance like the Lebanon* (Hos 14:6).***
+Note that the ***olive tree*** (Jer 11:16) is called holy because of fatness, by which is signified devotion: *you have been made a partaker in the root, and fatness of the olive tree* (Rom 11:17); because of the excellence of the oil, by which is signified contemplation: *these are the two sons of oil, who stand beside the Lord of the whole earth* (Zech 4:14).“Sons of oil”: Zerubbabel and Joshua, who had been anointed to serve as king and high priest, respectively. *And he made for the oracle two cherubim from olive wood, ten cubits in height* (1 Kgs 6:23). Because of the greenness of its leaves, by which is signified the strength of the mind: *the dove returned at evening, carrying the branch of a green olive tree in her mouth* (Gen 8:11); because of its fertility, by which is signified an abundance of good works: *but I am like a fruitful olive tree in the house of God, I have hoped in the mercy of God forever, and unto ages of ages* (Ps 51:10); because of its beauty, by which is signified the glory of the saints: *as a beautiful olive tree in the fields, and like a plane tree I am exalted by the waters* (Sir 24:19). *His glory will be like the olive tree, and his fragrance like the Lebanon* (Hos 14:6).

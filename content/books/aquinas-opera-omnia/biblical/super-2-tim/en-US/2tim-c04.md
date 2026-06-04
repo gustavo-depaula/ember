@@ -1,5 +1,7 @@
 # C. 3 - The Last Days
 
+***The Last Days***
+
 ***Lecture 1***
 
 ***Men in the last days***
@@ -112,7 +114,7 @@ Lecture 2
 
 ***Manifestation of folly***
 
-***^3:5^ Having an appearance indeed of godliness but denying the power thereof. Now these avoid.***
+^3:5^ Having an appearance indeed of godliness but denying the power thereof. Now these avoid.  
 
 > ^3:6^ For of these sort are they who creep into houses and lead captive silly women laden with sins, who are led away with diverse desires: [n. 104]
 
@@ -224,7 +226,7 @@ Lecture 3
 
 ***All Christians suffer persecution***
 
-***^3:12^ And all that will live godly in Christ Jesus shall suffer persecution. [n. 116]***
+^3:12^ And all that will live godly in Christ Jesus shall suffer persecution. [n. 116]  
 
 > ^3:13^ But evil men and seducers shall grow worse and worse: erring, and driving into error, [n. 118]
 

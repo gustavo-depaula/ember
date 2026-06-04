@@ -1,5 +1,7 @@
 # Chapter 59
 
+^59:1^ Ecce non est abbreviata manus Domini ut salvare nequeat, neque aggravata est auris ejus ut non exaudiat.  
+
 > ^59:2^ Sed iniquitates vestræ diviserunt inter vos et Deum vestrum, et peccata vestra absconderunt faciem ejus a vobis ne exaudiret.
 
 > ^59:3^ Manus enim vestræ pollutæ sunt sanguine et digiti vestri iniquitate; labia vestra locuta sunt mendacium et lingua vestra iniquitatem fatur.

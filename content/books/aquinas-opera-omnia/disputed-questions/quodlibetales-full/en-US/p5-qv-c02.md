@@ -1,12 +1,14 @@
 # On Angels
 
+***Question 4***
+
 ***On angels***
 
 ***Article 1***
 
 ***Whether Lucifer is the subject of the aevum***
 
-***Then about angels there was asked one thing, namely, whether Lucifer is the subject of the aevum. And it seems that he is.***
+Then about angels there was asked one thing, namely, whether Lucifer is the subject of the aevum. And it seems that he is.  
 
 Obj. 1: For just as the subject of time is the first simplest temporal thing, so the subject of the aevum seems to be the simplest aeviternal thing. Yet this is Lucifer, who amongst the angels was created supreme according to his nature. Yet the aevum does not respond to grace but to nature; otherwise, the celestial bodies, which are not receptive of grace, could not be measured by the aevum. Since, therefore, natural *gifts* remained *intact* in demons after sin, as Dionysius says in the fourth chapter of *On the Divine Names*,Pseudo-Dionysius, *On the Divine Names* 4.23 (PG 3:723–26); Aquinas, *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 19. it seems that the aevum is in Lucifer just as in a subject.  
 

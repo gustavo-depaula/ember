@@ -1,8 +1,10 @@
 # D. 25 - Conditions of free decision
 
+***De quibusdam liberi arbitrii conditionibus***
+
 ***Divisio textus***
 
-***Postquam determinavit de libero arbitrio, ostendendo quid sit, et consequenter de aliis potentiis animae, ut ostenderet in quibus liberum arbitrium poneretur; hic determinat quasdam liberi arbitrii conditiones, et dividitur in partes duas:***
+Postquam determinavit de libero arbitrio, ostendendo quid sit, et consequenter de aliis potentiis animae, ut ostenderet in quibus liberum arbitrium poneretur; hic determinat quasdam liberi arbitrii conditiones, et dividitur in partes duas:  
 
 in prima ostendit quorum sit liberum arbitrium ut objectorum;  
 
@@ -200,7 +202,7 @@ Articulus 3
 
 ***Utrum liberum arbitrium se extendat ad omnia opera humana***
 
-***Ad tertium sic proceditur. Videtur quod liberum arbitrium non se extendat ad omnia opera humana.***
+Ad tertium sic proceditur. Videtur quod liberum arbitrium non se extendat ad omnia opera humana.  
 
 Liberum enim arbitrium cogi non potest, ut dictum est. Sed quaedam opera humana cogi possunt; impeditur enim homo a motu per violentiam. Ergo non omnia opera humana sunt liberi arbitrii.  
 
@@ -232,7 +234,7 @@ Articulus 4
 
 ***Utrum libertas arbitrii augeatur vel minuatur***
 
-***Ad quartum sic proceditur. Videtur quod libertas arbitrii non augeatur neque minuatur.***
+Ad quartum sic proceditur. Videtur quod libertas arbitrii non augeatur neque minuatur.  
 
 Illud enim quod pertinet ad rationem potentiae non variatur per actus vel habitus; cum priora a posterioribus non varientur, sed eis subjaceant. Sed libertas pertinet ad rationem potentiae, quae liberum arbitrium dicitur. Ergo non potest per actus vel habitus virtutis aut vitii augeri et minui.  
 
@@ -266,7 +268,7 @@ Articulus 5
 
 ***Utrum liberum arbitrium distinguatur tripliciter***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter distinguatur liberum arbitrium tripliciter.***
+Ad quintum sic proceditur. Videtur quod inconvenienter distinguatur liberum arbitrium tripliciter.  
 
 Secundum enim diversos status libertas arbitrii variatur. Status autem hominis quattuor in littera assignantur. Ergo et quattuor libertates arbitrii distingui debent.  
 
@@ -296,7 +298,7 @@ Ad sextum dicendum, quod Magister, ut ex dictis patet, distinguit liberum arbitr
 
 Expositio textus  
 
-****Quod philosophi definientes dixerunt liberum de voluntate judicium*. Sciendum quod illa non est vera definitio, sed quaedam notificatio; unde large definitionem sumit. Differt autem a praedicta superius assignata: quia illa data est secundum hoc ad quod est liberum arbitrium, quia scilicet in bonum et malum; haec autem datur secundum libertatis causam. Inde cum dicitur: *liberum de voluntate judicium*; haec praepositio “de” libertatis causam notat: quia voluntas, ut prius dictum est, totius libertatis fonsPLE: *fons*; Parma: *finis*; Mandonnet: *non*. est.***
+*Quod philosophi definientes dixerunt liberum de voluntate judicium*. Sciendum quod illa non est vera definitio, sed quaedam notificatio; unde large definitionem sumit. Differt autem a praedicta superius assignata: quia illa data est secundum hoc ad quod est liberum arbitrium, quia scilicet in bonum et malum; haec autem datur secundum libertatis causam. Inde cum dicitur: *liberum de voluntate judicium*; haec praepositio “de” libertatis causam notat: quia voluntas, ut prius dictum est, totius libertatis fonsPLE: *fons*; Parma: *finis*; Mandonnet: *non*. est.  
 
 *Et quidem secundum praedictam assignationem in his tantum videtur esse liberum arbitrium qui voluntatem mutare et in contraria possunt deflectere*; non secundum illam philosophorum, quam ponunt secundum suam expositionem, quam addit dicens, quod *liberum est ad utrumlibet*, sed secundum illam quam supra ex verbis Augustini accipit.  
 

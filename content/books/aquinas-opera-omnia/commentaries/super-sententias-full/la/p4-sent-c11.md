@@ -1,8 +1,10 @@
 # D. 31 - Principle of original sin
 
+***De peccato originali quantum ad ejus principium***
+
 ***Divisio textus***
 
-***Ostenso quod peccatum originale est et quid sit, hic prosequitur quasdam conditiones ipsius; et dividitur in partes tres:***
+Ostenso quod peccatum originale est et quid sit, hic prosequitur quasdam conditiones ipsius; et dividitur in partes tres:  
 
 in prima determinat de peccato originali quantum ad ejus principium, ostendens quomodo traducatur;  
 
@@ -58,7 +60,7 @@ Articulus 1
 
 ***Utrum originale peccatum possit transire in posteros per originem carnis***
 
-***Ad primum sic proceditur. Videtur quod per originem carnis peccatum originale a primo parente in posteros transire non possit.***
+Ad primum sic proceditur. Videtur quod per originem carnis peccatum originale a primo parente in posteros transire non possit.  
 
 Actio enim personae non extendit se ad naturam: quia persona inferiorParma adds *et*. minus est potens quam natura in qua subsistit. Sed origo carnis debetur ipsi naturae, cum generatio sit ordinata ad conservationem speciei.Parma adds *et non individui*. Ergo peccatum primi parentis per originem carnis in posteros transire non potuit: quia hoc esse non potuit nisi per actionem personae natura inficeretur.  
 
@@ -100,7 +102,7 @@ Articulus 2
 
 ***Utrum sit necesse omnes homines nasci in peccato originali***
 
-***Ad secundum sic proceditur. Videtur quod non sit necesse omnes homines in peccato originali nasci.***
+Ad secundum sic proceditur. Videtur quod non sit necesse omnes homines in peccato originali nasci.  
 
 Baptismus enim reddit regeneratis per ipsum, hoc quod per Adam perditum fuit; quia donum Christi excedit delictum Adae, ut dicitur Rom. 5. Sed si Adam non peccasset, homines in peccato originali filios non generassent. Ergo et homines baptizati in filios peccatum originale non transmittunt.  
 
@@ -148,7 +150,7 @@ Articulus 1
 
 ***Utrum peccatum originale sit subjective in aliqua potentia***
 
-***Ad primum sic proceditur. Videtur quod originale sit in aliqua potentia sicut in subjecto.***
+Ad primum sic proceditur. Videtur quod originale sit in aliqua potentia sicut in subjecto.  
 
 Illud enim quod est a corpore absolutum et immateriale non unitur corpori, nisi mediante aliquo materiali. Sed anima rationalis absoluta est a materia, et immaterialis, ut in 3 *De anima*, Philosophus probat. Ergo oportet quod uniatur corpori mediantibus potentiis sensitivae et nutritivae partis, quae sunt materiales et organis affixae. Sed peccatum originale transit in animam ex hoc quod corpori conjuncta est. Ergo per prius invenitur in potentiis sensitivae et nutritivae partis.  
 
@@ -180,7 +182,7 @@ Articulus 2
 
 ***Utrum potentia generativa sit magis infecta aliis potentiis***
 
-***Ad secundum sic proceditur. Videtur quod generativa non sit prae aliis viribus infecta.***
+Ad secundum sic proceditur. Videtur quod generativa non sit prae aliis viribus infecta.  
 
 Illud enim quod non est aliqualiter obediens rationi, non potest virtute perfici, vel culpa inquinari. Sed potentia generativa est hujusmodi. Ergo in ea infectio peccati esse non potest.  
 
@@ -210,7 +212,7 @@ Ad quintum dicendum, quod generativae ascribitur et originalis et actualis pecca
 
 Expositio textus  
 
-****Ad quod dici potest quod multiplex defectus carnis, et praecipue pollutio quaedam quam ex fervore coitus parentum et concupiscentia libidinosa contrahit caro dum concipitur, causa est originalis peccati*. Sciendum quod Magister hoc solvit negando utramque partem, scilicet quod illa infectio non est culpa nec poena, sed defectus quidam; et dicitur de fervore coitus parentum causari, non sicut ex per se causa, sed sicut ex signo causae.***
+*Ad quod dici potest quod multiplex defectus carnis, et praecipue pollutio quaedam quam ex fervore coitus parentum et concupiscentia libidinosa contrahit caro dum concipitur, causa est originalis peccati*. Sciendum quod Magister hoc solvit negando utramque partem, scilicet quod illa infectio non est culpa nec poena, sed defectus quidam; et dicitur de fervore coitus parentum causari, non sicut ex per se causa, sed sicut ex signo causae.  
 
 *Quae foeditas major esse videtur in carne concupiscentialiter traducta, quam in ea unde traducitur*. Videtur hoc esse falsum: quia sic originale magis abundaret in filio quam in patre.  
 

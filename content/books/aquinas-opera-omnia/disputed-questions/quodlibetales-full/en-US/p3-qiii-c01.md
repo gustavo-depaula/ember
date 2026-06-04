@@ -1,8 +1,10 @@
 # On God
 
+***Question 1***
+
 ***Regarding the divine nature***
 
-***There were questions concerning God,Qq. 1–2. angels,Q. 3. men,Qq. 4–13. and purely bodily creatures.Q. 14.***
+There were questions concerning God,Qq. 1–2. angels,Q. 3. men,Qq. 4–13. and purely bodily creatures.Q. 14.  
 
 Concerning God there were questions both regarding the divine nature,Q. 1. and regarding the assumed nature.Q. 2.  
 
@@ -16,7 +18,7 @@ Article 1
 
 ***Whether God can make matter exist without form***
 
-***To the first we proceed thus. It seems that God can make matter exist without form.***
+To the first we proceed thus. It seems that God can make matter exist without form.  
 
 Obj. 1: Just as matter depends upon form according to its being, so an accident depends upon a subject. But God can make an accident exist without a subject, as is clear in the sacrament of the altar. Therefore, he can make matter exist without form.  
 
@@ -32,7 +34,7 @@ Article 2
 
 ***Whether God can make the same body be locally in two places simultaneously***
 
-***To the second we proceed thus. It seems that God can make one body be locally in two places simultaneously.***
+To the second we proceed thus. It seems that God can make one body be locally in two places simultaneously.  
 
 Obj. 1: It is more difficult for one substance to be changed into another substance than for one accident to be changed into another accident. But in the sacrament of the altar the substance of bread, with its dimensions remaining whereby it is commensurate with a place, is converted by divine power into the substance of the body of Christ. Thus, it follows that the same body of Christ is in many places simultaneously, not locally according to the commensuration of its proper dimensions, but sacramentally. Therefore, God can make it that the dimension of this body is converted into the dimension of another body. And thus, there will be the same body locally in two places simultaneously.  
 
@@ -46,7 +48,7 @@ Question 2
 
 ***Regarding the assumed nature***
 
-***Then there were questions concerning God in regard to the assumed human nature. And there were three questions about this:***
+Then there were questions concerning God in regard to the assumed human nature. And there were three questions about this:  
 
 first, regarding the soul: namely, whether the soul of Christ knows infinite things;  
 
@@ -58,7 +60,7 @@ Article 1
 
 ***Regarding the soul***
 
-***To the first we proceed thus. It seems that the soul of Christ cannot know infinite things.***
+To the first we proceed thus. It seems that the soul of Christ cannot know infinite things.  
 
 Obj. 1: For no created gift, since it is finite, can elevate a creature to that which is proper to God, since he is infinite. But the grace of union is a created gift, while to know infinite things is proper to God, *of whose wisdom there is no number* (Ps 147 [146]:5). Therefore, the soul of Christ through the grace of union cannot be elevated to knowing infinite things.  
 
@@ -84,7 +86,7 @@ Article 2
 
 ***Regarding the body***
 
-***To the second we proceed thus. It seems that the eye of Christ after death was not an eye equivocally.***
+To the second we proceed thus. It seems that the eye of Christ after death was not an eye equivocally.  
 
 Obj. 1: For the body of Christ and all of its parts is sustainedCf. Aquinas, *Disputed Questions on Truth*, q. 2, a. 5, ad 10; *In III Sent*., d. 6, prologue. through the hypostasis of God the Word. But the hypostasis of the Word of God remains united to the body of Christ and to its parts after death. Therefore, there was the same body of Christ in regard to substance after death and before, both in regard to the whole and to all its parts. Therefore, the eye of Christ was not equivocally an eye after death.  
 
@@ -106,7 +108,7 @@ Article 3
 
 ***Regarding the act of union which is eating***
 
-***To the third we proceed thus. It seems that Christ after the Resurrection truly ate by incorporating food into himself.***
+To the third we proceed thus. It seems that Christ after the Resurrection truly ate by incorporating food into himself.  
 
 Obj. 1: Because, as Augustine says in the book *Book of Eighty-Three Questions*: *if it deceives, it is not the truth*.Augustine, *Book of Eighty-Three Different Questions*, q. 14 (CCSL 46A:20; PL 40:14). Hence no fiction befits Christ, who is the truth. Yet it would be a fiction if he were not truly to incorporate into himself the food which he seemed to eat. Therefore, he truly ate by incorporating food into himself.  
 

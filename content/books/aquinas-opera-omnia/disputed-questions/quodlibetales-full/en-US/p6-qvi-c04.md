@@ -1,12 +1,14 @@
 # On a Purely Bodily Creature
 
+***Question 11***
+
 ***On a purely bodily creature***
 
 ***Article 1***
 
 ***Whether the empyrean heaven has influence over other bodies***
 
-***Then last it was asked concerning a purely bodily creature, namely, whether the empyrean heaven has influence over other bodies?***
+Then last it was asked concerning a purely bodily creature, namely, whether the empyrean heaven has influence over other bodies?  
 
 Obj. 1: And it seems it does not, because every body which naturally influences other bodies, influences those which are near before those which are remote. If, therefore, the empyrean heaven were to influence inferior bodies, it would influence the watery heaven, which is nearer to it, before the starry heaven. But this seems unfitting, because the starry heaven is more like the empyrean heaven, since neither is from the nature of the four elements, than is the watery heaven, which is from the nature of the four elements. For those waters are said to have been placed there to cool the heat arising from the motion of the heaven, by reason of which Saturn, which is highest amongst the planets, is said to have coolness.Cf. Augustine, *On the Literal Interpretation of Genesis* 2.5, para. 9 (CSEL 28:38–39; PL 34:266–67). Therefore, the empyrean heaven does not influence inferior bodies.  
 

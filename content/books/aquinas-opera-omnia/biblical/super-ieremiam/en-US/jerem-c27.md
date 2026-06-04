@@ -1,10 +1,12 @@
 # C. 25 - Threat against princes of all nations
 
+***Threat against princes of all nations***
+
 ***Lecture 1***
 
 ***Obstinate deafness***
 
-***^25:1^ The word which came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim, the son of Josiah, king of Judah (that is, the first year of Nebuchadnezzar, king of Babylon).***
+^25:1^ The word which came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim, the son of Josiah, king of Judah (that is, the first year of Nebuchadnezzar, king of Babylon).  
 
 > ^25:2^ And Jeremiah the prophet spoke to the entire people of Judah, and to all the inhabitants of Jerusalem, saying:
 
@@ -52,7 +54,7 @@ Lecture 2
 
 ***Babylonian captivity***
 
-***^25:8^ Therefore, thus says the Lord of hosts: because you did not listen to my words,***
+^25:8^ Therefore, thus says the Lord of hosts: because you did not listen to my words,  
 
 > ^25:9^ behold, I shall send, and take all the families of the north, says the Lord, and Nebuchadnezzar, king of Babylon, my servant, and bring them upon this land, and upon its inhabitants, and upon all the nations which are round about it; and I shall slay them, and I shall make them an astonishment and a hissing, and eternal desolations.
 
@@ -88,7 +90,7 @@ Lecture 3
 
 ***The cup of the wine of fury***
 
-***^25:15^ For thus says the Lord of hosts, the God of Israel: take the cup of the wine of this fury from my hand, and you shall give it, to drink thereof, to all the nations to which I shall send you.***
+^25:15^ For thus says the Lord of hosts, the God of Israel: take the cup of the wine of this fury from my hand, and you shall give it, to drink thereof, to all the nations to which I shall send you.  
 
 > ^25:16^ And they shall drink and be troubled and driven mad before the sword which I shall send among them.
 
@@ -142,7 +144,7 @@ Lecture 4
 
 ***Drink and be drunk***
 
-***^25:27^ And you shall say to them: thus says the Lord of hosts, the God of Israel: drink, and be drunken, and vomit, and fall, and do not rise from before the sword which I shall send among you.***
+^25:27^ And you shall say to them: thus says the Lord of hosts, the God of Israel: drink, and be drunken, and vomit, and fall, and do not rise from before the sword which I shall send among you.  
 
 > ^25:28^ And when they will not receive the cup from your hand to drink, you shall say to them: thus says the Lord of hosts: you shall surely drink:
 
@@ -164,7 +166,7 @@ Lecture 5
 
 ***The roaring of the Lord***
 
-***^25:30^ And you shall prophesy to them all these words, and you shall say to them: the Lord shall roar from on high, and from his holy habitation he shall give forth his voice; he shall surely roar upon the place of his beauty; and the shout*Celeuma* or *celeusma*: originally, a command or call given by the chief oarsman, which gave the time to the rowers. of those that tread grapes shall be given out against all the inhabitants of the earth.***
+^25:30^ And you shall prophesy to them all these words, and you shall say to them: the Lord shall roar from on high, and from his holy habitation he shall give forth his voice; he shall surely roar upon the place of his beauty; and the shout*Celeuma* or *celeusma*: originally, a command or call given by the chief oarsman, which gave the time to the rowers. of those that tread grapes shall be given out against all the inhabitants of the earth.  
 
 > ^25:31^ The sound shall reach to the ends of the earth, for the Lord enters into judgment with the nations; he enters into judgment with all flesh. The wicked I have given over to the sword, says the Lord.
 
@@ -194,7 +196,7 @@ Lecture 6
 
 ***Wailing of the shepherds***
 
-***^25:34^ Wail, O shepherds, and cry, and sprinkle yourself with ashes, you nobles of the flock; for your days are accomplished of your slaughter and your dispersion; and you shall fall like precious vessels.***
+^25:34^ Wail, O shepherds, and cry, and sprinkle yourself with ashes, you nobles of the flock; for your days are accomplished of your slaughter and your dispersion; and you shall fall like precious vessels.  
 
 > ^25:35^ And flight shall perish from the shepherds, and salvation from the nobles of the flock.
 

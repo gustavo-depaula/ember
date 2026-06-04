@@ -1,8 +1,10 @@
 # D. 38 - Whether divine knowledge is the cause of what is known
 
+***Utrum scientia Dei sit scitorum causa***
+
 ***Divisio textus***
 
-***Ostenso quorum sit Dei scientia, hic determinat de scientia per comparationem ad ipsa scita; et dividitur in partes duas; in prima inquirit utrum scientia Dei sit scitorum causa; in secunda ostendit qualis causa sit, ibi, 39 dist.: *praeterea solet quaeri, utrum scientia Dei possit augeri vel minui*.***
+Ostenso quorum sit Dei scientia, hic determinat de scientia per comparationem ad ipsa scita; et dividitur in partes duas; in prima inquirit utrum scientia Dei sit scitorum causa; in secunda ostendit qualis causa sit, ibi, 39 dist.: *praeterea solet quaeri, utrum scientia Dei possit augeri vel minui*.  
 
 Prima in duas: in prima inquirit de causalitate divinae scientiae; in secunda de infallibilitateParma: *ineffabilitate*. ipsius, ibi: *ad hoc autem quod supra dictum est . . . , solet a quibusdam sic opponi*.  
 
@@ -70,7 +72,7 @@ Articulus 2
 
 ***Utrum scientia Dei sit uniformiter de rebus scitis***
 
-***Ad secundum sic proceditur. Videtur quod scientia Dei non uniformiter sit de rebus scitis.***
+Ad secundum sic proceditur. Videtur quod scientia Dei non uniformiter sit de rebus scitis.  
 
 Omnis enim scientia quae est de rebus aliter quam sint, est falsa. Sed scientia Dei verissima est. Cum igitur omnes res non habeant unum modum, videtur quod non uniformiter sit de omnibus.  
 
@@ -232,6 +234,6 @@ Ad septimum dicendum, quod Deus non tantum cognoscit ea quae sunt nobis praesent
 
 Expositio textus  
 
-****Quia futurum est, ideo scitur a Deo*. Hic denotatur causa consequentiae et non essendi.***
+*Quia futurum est, ideo scitur a Deo*. Hic denotatur causa consequentiae et non essendi.  
 
 *Illorum enim peccata praescivit, non sua*;Al.: *Psalmus*, etc. quasi dicat: si sua praescientia eos ad peccandum cogeret non ipsi peccassent, quia coacti facerent; sed ipse Deus coactor non est.Parma omits *non est*.

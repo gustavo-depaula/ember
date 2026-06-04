@@ -1,8 +1,10 @@
 # D. 10 - Procession of the Holy Spirit
 
+***Procession of the Holy Spirit***
+
 ***Division of the text***
 
-***After the Master has considered the generation of the Son from the Father, here he considers the procession of the Holy Spirit from each. And this is divided into two parts: in the first, he considers his eternal procession; in the second, the temporal procession, at *moreover, it is to be diligently noted that the procession of the Holy Spirit is a double one*.*Sent*. I, 14.1(45).1.***
+After the Master has considered the generation of the Son from the Father, here he considers the procession of the Holy Spirit from each. And this is divided into two parts: in the first, he considers his eternal procession; in the second, the temporal procession, at *moreover, it is to be diligently noted that the procession of the Holy Spirit is a double one*.*Sent*. I, 14.1(45).1.  
 
 The first is divided into three parts: in the first, he determines the mode of the procession; in the second, the principle of the procession, at *here, it must be stated that the Holy Spirit is from the Father and the Son*;*Sent*. I, 11.1(37).1. in the third, the difference of procession from generation, at *it is next to be considered . . . why the Holy Spirit is not said to be born, but rather to proceed, and why he is not called son*.*Sent*. I, 13.1(41).1.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether the Holy Spirit proceeds as love***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 27, q. 2, a. 2, qa. 2; *ST* I.37.1. It seems that the Holy Spirit does not proceed as love.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 27, q. 2, a. 2, qa. 2; *ST* I.37.1. It seems that the Holy Spirit does not proceed as love.  
 
 Obj. 1: For the Holy Spirit proceeds as a person subsisting in himself. But “love” does not signify anything by the mode of something subsisting, but rather by the mode of an inhering form or passion. Therefore, the Holy Spirit does not proceed as love.  
 
@@ -68,7 +70,7 @@ Article 2
 
 ***Whether the Holy Spirit is the love which the Father has toward the Son***
 
-***To the second we proceed as follows.Parallel texts: *In I Sent*., d. 32, q. 1; *ST* I.37.2; *On the Power of God*, q. 9, a. 9, ad 13. It seems that the Holy Spirit is not the love that the Father has toward the Son, or vice versa.***
+To the second we proceed as follows.Parallel texts: *In I Sent*., d. 32, q. 1; *ST* I.37.2; *On the Power of God*, q. 9, a. 9, ad 13. It seems that the Holy Spirit is not the love that the Father has toward the Son, or vice versa.  
 
 Obj. 1: For whatever proceeds by tending into another does not proceed as subsisting through itself. But the Holy Spirit proceeds as a person subsisting through himself. Therefore he does not proceed into the Son.  
 
@@ -92,7 +94,7 @@ Article 3
 
 ***Whether the Holy Spirit is the union of the Father and the Son***
 
-***To the third we proceed as follows. It seems that the Holy Spirit is not the bond or union of the Father and the Son.***
+To the third we proceed as follows. It seems that the Holy Spirit is not the bond or union of the Father and the Son.  
 
 Obj. 1: For what is discrete and distinct from things is not unitive of them. But the Holy Spirit is distinct from the Father and the Son. Therefore he is not the union of both.  
 
@@ -116,7 +118,7 @@ Article 4
 
 ***Whether the person who proceeds as love is properly called the “Holy Spirit”***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.36.1; *SCG* IV.19; *Compendium theologiae*, cc. 46, 47. It seems that the person who proceeds as love is not properly called “Holy Spirit.”***
+To the fourth we proceed as follows.Parallel texts: *ST* I.36.1; *SCG* IV.19; *Compendium theologiae*, cc. 46, 47. It seems that the person who proceeds as love is not properly called “Holy Spirit.”  
 
 Obj. 1: For what is common to the three persons becomes proper only by something proper being joined to it. But “spirit” belongs to the three persons, as is said in John 4:24, *God is spirit*. But the “holy” that is added is also common to them, and not proper. Therefore it seems that “Holy Spirit” is not the proper name of any person.  
 
@@ -148,7 +150,7 @@ Article 5
 
 ***Whether there are only three persons in the divine***
 
-***To the fifth we proceed as follows.Parallel texts: *In I Sent*., d. 3, a. 2, ad 1; *ST* I.30.2; *SCG* IV.26; *On the Power of God*, q. 9, a. 9; *Compendium theologiae*, cc. 56, 60. It seems that there are not only three persons in the divine.***
+To the fifth we proceed as follows.Parallel texts: *In I Sent*., d. 3, a. 2, ad 1; *ST* I.30.2; *SCG* IV.26; *On the Power of God*, q. 9, a. 9; *Compendium theologiae*, cc. 56, 60. It seems that there are not only three persons in the divine.  
 
 Obj. 1: For in the divine, the will does not stand further from the nature than does the intellect. But the person proceeding through the mode of will, or love, is other than that one who proceeds through the mode of nature, or generation. Therefore there should be yet another person, one who proceeds through the mode of intellect.  
 
@@ -180,6 +182,6 @@ Reply Sed Contra: The solution is clear from things said in the body of the arti
 
 Exposition of the text  
 
-****The Holy Spirit is love or charity or dilection of the Father and the Son*.*Sent*. I, 10.1(34).2; in light of what Aquinas says below, Silano’s translation has been modified to read *dilection* instead of *affection*. These three things are related to one another by addition. For “love” indicates the affect’s simple inclination toward the beloved; hence it sometimes also indicates a passion, insofar as it is in the sensitive part of the soul, and in this way love is found even in irrational things. However, “dilection” presupposes choice (*electio*), as the name itself shows; hence it belongs only to rational things. But “charity” asserts a certain vehemence of dilection, insofar as the beloved is held at an inestimable price, insofar as many precious things are called ‘dear’ (*carae*).***
+*The Holy Spirit is love or charity or dilection of the Father and the Son*.*Sent*. I, 10.1(34).2; in light of what Aquinas says below, Silano’s translation has been modified to read *dilection* instead of *affection*. These three things are related to one another by addition. For “love” indicates the affect’s simple inclination toward the beloved; hence it sometimes also indicates a passion, insofar as it is in the sensitive part of the soul, and in this way love is found even in irrational things. However, “dilection” presupposes choice (*electio*), as the name itself shows; hence it belongs only to rational things. But “charity” asserts a certain vehemence of dilection, insofar as the beloved is held at an inestimable price, insofar as many precious things are called ‘dear’ (*carae*).  
 
 *For whether it is a question of the unity, or of the holiness, or of the love of the first two persons, it is clear it is not one of these two who is the one by whom the two are joined*.*Sent*. I, 10.2(35).5, quoting Augustine, *On the Trinity*, bk. 6, ch. 4 (CCSL 50; PL 42:927). He is said to be the unity insofar as he is the bond of the Father and the Son, as was said,Above, a. 3. but he is said to be their holiness insofar as he proceeds by the procession of will, wherein consists the whole of sanctity.

@@ -1,8 +1,10 @@
 # D. 28 - Non-personal properties of the divine persons
 
+***De proprietatibus divinarum personarum quae non sunt personales***
+
 ***Divisio textus***
 
-***Hic determinat Magister de notionibus personarum quae non sunt personales; et dividitur in partes duas: in prima determinat de innascibilitate quae est proprietas personae, quamvis non sit proprietas personalis; in secunda determinat de communi spiratione quaeParma: *in secunda de hoc nomine principium, quod*, “in the second, he considers the name ‘principle,’ which . . . .” nec est proprietas personae nec personalis, 29 dist., ibi: *est praeterea aliud nomen multiplicem notans relationem*.***
+Hic determinat Magister de notionibus personarum quae non sunt personales; et dividitur in partes duas: in prima determinat de innascibilitate quae est proprietas personae, quamvis non sit proprietas personalis; in secunda determinat de communi spiratione quaeParma: *in secunda de hoc nomine principium, quod*, “in the second, he considers the name ‘principle,’ which . . . .” nec est proprietas personae nec personalis, 29 dist., ibi: *est praeterea aliud nomen multiplicem notans relationem*.  
 
 Prima in duas: in prima ostendit qualiter Pater dicatur ingenitus; in secunda qualiter e contrario omne quod genitum dicitur, de Filio sit accipiendum, ibi: *sciendum est quoque, quod sicut solus Filius dicitur Verbum vel imago; ita etiam ipse solus dicitur Sapientia nata vel genita*.  
 
@@ -40,7 +42,7 @@ Articulus 1
 
 ***Utrum innascibilitas sit proprietas Patris***
 
-***Ad primum sic proceditur. Videtur quod innascibilitas non sit notio vel proprietas Patris.***
+Ad primum sic proceditur. Videtur quod innascibilitas non sit notio vel proprietas Patris.  
 
 Ut enim in littera habetur, cum Pater ingenitus dicitur, *non quid sit, sed quid non sit*, ostenditur. Sed negatio non potest esse sufficiens principium notificandi aliquid. Ergo cum notio dicatur illud quod est principium cognoscendi personam, videtur quod ingenitum non dicat aliquam notionem Patris.  
 
@@ -72,7 +74,7 @@ Articulus 2
 
 ***Utrum innascibilitas sit proprietas personalis Patris***
 
-***Ad secundum sic proceditur. Videtur quod innascibilitas sit proprietas personalis Patris.***
+Ad secundum sic proceditur. Videtur quod innascibilitas sit proprietas personalis Patris.  
 
 Sicut enim paternitas convenit tantum Patri, ita et innascibilitas. Sed paternitas est proprietas personalis ejus. Ergo et innascibilitas.  
 
@@ -108,9 +110,9 @@ tertio si dicatur personaliter, utrum conveniat Filio tantum.
 
 Articulus 1  
 
-***Utrum definitio imaginis: *imago est species indifferens ejus rei ad quam imaginatur*, sit competens***
+Utrum definitio imaginis: *imago est species indifferens ejus rei ad quam imaginatur*, sit competens  
 
-***Ad primum sic proceditur, et ponitur definitio Hilarii talis, lib. *De synodis*: *imago est ejus rei ad quam imaginatur, species indifferens*. Videtur autem quod sit incompetens.***
+Ad primum sic proceditur, et ponitur definitio Hilarii talis, lib. *De synodis*: *imago est ejus rei ad quam imaginatur, species indifferens*. Videtur autem quod sit incompetens.  
 
 Imago enim est secundum imitationem in exterioribus. Sed species non est de extrinsecis rei; immo dicit quidditatem intrinsecam. Ergo male ponitur in definitione imaginis.  
 
@@ -196,7 +198,7 @@ Ad quartum dicendum, quod quamvis nomen imaginis sit impositum ab aequalitate et
 
 Expositio textus  
 
-****Quibusdam*Al.: *item quibusdam*. *videtur quod Pater solus debeat dici non genitus*. Sciendum, quod utraque opinio secundum aliquid verum dicit. Si enim accipiatur *non genitus* prout dicit negationem absolute, tunc non convenit Patri tantum, nec est idem quod “ingenitus,” quod importat negationem per modum privationis, prout “ingenitus” proprie accipitur; et secundum hoc procedit secunda opinio.Parma omits *et secundum hoc procedit secunda opinio*. Si autem dicat negationem in genere principii, sic est idem quod “ingenitus,” et tantum Patri convenit; et sic procedit prima opinio.***
+*Quibusdam*Al.: *item quibusdam*. *videtur quod Pater solus debeat dici non genitus*. Sciendum, quod utraque opinio secundum aliquid verum dicit. Si enim accipiatur *non genitus* prout dicit negationem absolute, tunc non convenit Patri tantum, nec est idem quod “ingenitus,” quod importat negationem per modum privationis, prout “ingenitus” proprie accipitur; et secundum hoc procedit secunda opinio.Parma omits *et secundum hoc procedit secunda opinio*. Si autem dicat negationem in genere principii, sic est idem quod “ingenitus,” et tantum Patri convenit; et sic procedit prima opinio.  
 
 *Sed si transponas, ut dicas: aliud est Patrem esse, aliud Filium esse, variatur intelligentia*. Ratio dicti est, quia esse dicitur dupliciter: scilicet prout significat veritatem compositionis, et secundum quod significat actum essentiae.  
 

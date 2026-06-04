@@ -1,8 +1,10 @@
 # D. 19 - Equality of the divine persons
 
+***De personis divinis quantum ad earum aequalitatem***
+
 ***Divisio primae partis textus***
 
-***Postquam determinavit Magister de personis divinis quantum ad earum distinctionem per relationes aeternas, hic incipit determinare de ipsis quantum ad earum aequalitatem. Dividitur autem haec pars in duas: in prima ostendit aequalitatem personarum; in secunda movet quamdam dubitationem quae oritur ex quibusdam locutionibus, quibus in sua probatione usus fuerat, 21 distinct., ibi: *hic oritur quaestio trahens*Al.: *hic quaeritur quomodo trahens*. *originem ex praedictis*.***
+Postquam determinavit Magister de personis divinis quantum ad earum distinctionem per relationes aeternas, hic incipit determinare de ipsis quantum ad earum aequalitatem. Dividitur autem haec pars in duas: in prima ostendit aequalitatem personarum; in secunda movet quamdam dubitationem quae oritur ex quibusdam locutionibus, quibus in sua probatione usus fuerat, 21 distinct., ibi: *hic oritur quaestio trahens*Al.: *hic quaeritur quomodo trahens*. *originem ex praedictis*.  
 
 Prima in duas: in prima ostendi secundum quid attendenda sit personarum aequalitas; in secunda secundum illa personarum aequalitatem ostendit, ibi: *quod autem aeternitate, aliqua trium personarum aliam non excedat, supra ostensum est*.  
 
@@ -94,7 +96,7 @@ Quaestio 2
 
 ***De aeternitate***
 
-***Deinde quaeritur de illis in quibus attenditur illa aequalitas; et circa hoc quaeruntur duo:***
+Deinde quaeritur de illis in quibus attenditur illa aequalitas; et circa hoc quaeruntur duo:  
 
 primo de aeternitate;  
 
@@ -112,7 +114,7 @@ Articulus 1
 
 ***Utrum aeternitas sit substantia Dei***
 
-***Ad primum sic proceditur. Videtur quod aeternitas non sit ipsa divina substantia.***
+Ad primum sic proceditur. Videtur quod aeternitas non sit ipsa divina substantia.  
 
 Nihil enim est causa sui ipsius. Sed Deus est auctor aeternitatis, ut dicit Augustinus, lib. *83 quaest*., et est etiam ante aeternitatem, sicut causa ejus, ut dicitur lib. *De causis*. Ergo videtur quod aeternitas non sit ipse Deus.  
 
@@ -152,7 +154,7 @@ Articulus 2
 
 ***Utrum nunc aeternitatis sit ipsa aeternitas***
 
-***Ad secundum sic proceditur. Videtur quod nunc aeternitatis non est ipsa aeternitas.***
+Ad secundum sic proceditur. Videtur quod nunc aeternitatis non est ipsa aeternitas.  
 
 Nunc enim aeternitatis, temporis et aevi, videtur unum esse, quod significatur, cum dicitur: quando motus est, et angelus est, et Deus est. Sed aeternitas non est tempus, ut dictum est. Ergo nunc aeternitatis, quod est idem quod nunc temporis, non est idem quod aeternitas.  
 
@@ -254,7 +256,7 @@ Ad tertium dicendum, quod si accipiatur Pater esse in Filio propter unitatem ess
 
 Expositio primae partis textus  
 
-****In generationem et generationem anni tui*. Aeternitas per annos Dei intelligitur, non propter sui multitudinem, cum sit una et simplex, sed inquantum virtute comprehendere potest magnam multitudinem inferioris mensurae, quae divisibilis est. Sicut etiam dicimus, ante mundum tempus fuisse, non quidem in re, sed secundum imaginationem prout imaginamur tempori, quod cum mundo incepit, possibilem fuisse additionem fieri ex parte ante, quae additio tota sub aeternitate continetur.***
+*In generationem et generationem anni tui*. Aeternitas per annos Dei intelligitur, non propter sui multitudinem, cum sit una et simplex, sed inquantum virtute comprehendere potest magnam multitudinem inferioris mensurae, quae divisibilis est. Sicut etiam dicimus, ante mundum tempus fuisse, non quidem in re, sed secundum imaginationem prout imaginamur tempori, quod cum mundo incepit, possibilem fuisse additionem fieri ex parte ante, quae additio tota sub aeternitate continetur.  
 
 *Confitemur divinitatis naturam omnem perfecte esse in singula suarum hypostaseon*, idest totam et perfectam, et simile in sequentibus accipiendum est.  
 
@@ -274,7 +276,7 @@ Expositio primae partis textus
 
 Divisio secundae partis textus  
 
-****Sed jam nunc ad propositum redeamus*. Hic ostendit secundo modo aequalitatem in magnitudine divinarum personarum, removendo ea quae inaequalitatem facere possent, et dividitur in partes duas: in prima ostendit veritatem; in secunda solvit quamdam contrarietatem, ibi: *his autem videntur adversari quae quidam Sacrae Scripturae tractatores Catholici in suis scriptis tradiderunt*.***
+*Sed jam nunc ad propositum redeamus*. Hic ostendit secundo modo aequalitatem in magnitudine divinarum personarum, removendo ea quae inaequalitatem facere possent, et dividitur in partes duas: in prima ostendit veritatem; in secunda solvit quamdam contrarietatem, ibi: *his autem videntur adversari quae quidam Sacrae Scripturae tractatores Catholici in suis scriptis tradiderunt*.  
 
 Prima in duas: in prima ostendit quod divinae personae non conveniunt in essentia sicut in toto; in secunda ostendit quod non conveniunt in essentia sicut in parte, ibi: *notandum etiam, quod essentia divina non est materia trium personarum*.  
 
@@ -380,7 +382,7 @@ Articulus 1
 
 ***Utrum veritas sit essentia rei***
 
-***Ad primum sic proceditur. Videtur quod veritas sit idem quod essentia rei.Parma omits *rei*.***
+Ad primum sic proceditur. Videtur quod veritas sit idem quod essentia rei.Parma omits *rei*.  
 
 Dicit enim Augustinus, lib. 2 *Soliloquiorum*, c. 5, quod *verum est id quod est*, et ab aliis dicitur quod verum est indivisio esse et ejus quod est. Ergo unumquodque dicitur verum, secundum quod habet esse. Esse autem est actus essentiae. Ergo cum unumquodque veritate formaliter sit verum, videtur quod omnino idem sit veritas et essentia.  
 
@@ -440,7 +442,7 @@ Articulus 2
 
 ***Utrum omnia sint vera veritate increata***
 
-***Ad secundum sic proceditur. Videtur quod omnia sint vera una veritate quae est veritas increata.***
+Ad secundum sic proceditur. Videtur quod omnia sint vera una veritate quae est veritas increata.  
 
 Sicut enim dictum est in solutione praecedentis articuli, verum dicitur analogice de illis in quibus est veritas, sicut sanitas de omnibus sanis. Sed una est sanitas numero a qua denominatur animal sanum, sicut subjectum ejus, et medicina sana, sicut causa ejus, et urina sana, sicut signum ejus. Ergo videtur quod una sit veritas qua omnia dicuntur vera.  
 
@@ -522,7 +524,7 @@ Ad septimum dicendum similiter, quod veritas propositorum necessariorum potest d
 
 Expositio secundae partis textus  
 
-****Si ergo in una persona Patris illa invenis quae plura videntur, et partes non invenis, quia una virtus simplex est; quanto magis Pater, et Filius, et Spiritus Sanctus, et propter individuam deitatem unus Deus est, et propter uniuscujusque proprietatem tres personae sunt?* Videtur quod ipse arguat a majori affirmando. Magis enim videtur quod in una persona simplicitas inveniatur quam in duabus simul acceptis. Respondeo dicendum, quod est locus a minori; quia AugustinusParma reads *agit* instead of *Augustinus*. in una persona Patris accipit ea quae sunt diversa secundum rationem, ut sapientiam, virtutem et hujusmodi, sed in duabus personis Patris et Filii accipit hoc quod est unum secundum rationem, scilicet naturam divinam, quae secundum numerum etiam multiplicari non potest.***
+*Si ergo in una persona Patris illa invenis quae plura videntur, et partes non invenis, quia una virtus simplex est; quanto magis Pater, et Filius, et Spiritus Sanctus, et propter individuam deitatem unus Deus est, et propter uniuscujusque proprietatem tres personae sunt?* Videtur quod ipse arguat a majori affirmando. Magis enim videtur quod in una persona simplicitas inveniatur quam in duabus simul acceptis. Respondeo dicendum, quod est locus a minori; quia AugustinusParma reads *agit* instead of *Augustinus*. in una persona Patris accipit ea quae sunt diversa secundum rationem, ut sapientiam, virtutem et hujusmodi, sed in duabus personis Patris et Filii accipit hoc quod est unum secundum rationem, scilicet naturam divinam, quae secundum numerum etiam multiplicari non potest.  
 
 *Sicut tres statuae dicuntur unum aurum*. Videtur hoc esse falsum, quia materia non praedicatur de composito, cum sit pars. Et dicendum, quod hoc est verum in naturalibus, quorum materia non est tota substantia eorum, sed non verumParma reads *sicut* instead of *sed non verum*. in artificialibus quae ordinantur in genere substantiae per suam materiam, ut Commentator dicit in 2 *De anima*, et non per suam formam;Parma omits *et non per suam formam*. formae enim artificiales accidentia sunt.  
 

@@ -1,8 +1,10 @@
 # Chapter 15
 
+***Term 1***
+
 ***Reason***
 
-***There is only one kind of reason in man, and in man *per se*, so, it is the reason man possesses.***
+There is only one kind of reason in man, and in man *per se*, so, it is the reason man possesses.  
 
 Reason works what is best in man and what is proper to him, and this shows that his proper function is within him, which is happiness.  
 
@@ -18,7 +20,7 @@ Term 2
 
 ***The Spun Man***
 
-***Those who say that a man spun by great misfortunes is happy because he is good and virtuous are speaking senslessly.***
+Those who say that a man spun by great misfortunes is happy because he is good and virtuous are speaking senslessly.  
 
 Term 3  
 
@@ -30,7 +32,7 @@ Term 4
 
 ***Ridiculous***
 
-***It is ridiculous to blame one's actions on external goods while not holding onself guitly of being influenced by them.***
+It is ridiculous to blame one's actions on external goods while not holding onself guitly of being influenced by them.  
 
 Term  
 
@@ -42,13 +44,13 @@ Term 6
 
 ***The Rule***
 
-***The rule used for building in Lesbos is made of lead, which does not stay rigid, but forms to the shape of the stone. A sentence adjusted to the circumstance is like this.***
+The rule used for building in Lesbos is made of lead, which does not stay rigid, but forms to the shape of the stone. A sentence adjusted to the circumstance is like this.  
 
 Term 7  
 
 ***The King***
 
-***The king is about what is best for his subjects, since a man who is not enough in himself and does not abound in all good things is no king at all.***
+The king is about what is best for his subjects, since a man who is not enough in himself and does not abound in all good things is no king at all.  
 
 The king has care of his subjects for them to act virtuously, just as the shepherd does of his flock.  
 
@@ -56,7 +58,7 @@ Term 8
 
 ***Monarchy***
 
-***Monarchy, among all other kinds of government, is the greatest and best, but democracy is the worst.***
+Monarchy, among all other kinds of government, is the greatest and best, but democracy is the worst.  
 
 Term 9  
 
@@ -74,7 +76,7 @@ Term 11
 
 ***Repayment***
 
-***He asks what sort of measure should determine the repayment that should be made in a friendship of utility.***
+He asks what sort of measure should determine the repayment that should be made in a friendship of utility.  
 
 Repayment should be measured according to the utility of the receiver. He should return as much as he owes for the aid which he receives, or more, which is better.  
 
@@ -88,7 +90,7 @@ Term 12
 
 ***Compensation***
 
-***Compensation in transactions follows proportionality, shown by the conjunction in a figure by diagonal.***
+Compensation in transactions follows proportionality, shown by the conjunction in a figure by diagonal.  
 
 Compensation made for gifts given without a prior agreement is determined by the receiver.  
 

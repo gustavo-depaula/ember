@@ -1,5 +1,7 @@
 # Chapter 54
 
+^54:1^ Give praise, O you barren, that bear not: sing forth praise, and whinny,*Hinni*. DR: “make a joyful noise.” you that didst not travail with child: for many are the children of the desolate, more than of her that has a husband, says the Lord.  
+
 > ^54:2^ Enlarge the place of your tent, and stretch out the skins of your tabernacles, spare not: lengthen your cords, and strengthen your nails.*Clavos*. DR: “stakes.”
 
 > ^54:3^ For you shall pass on to the right hand, and to the left: and your seed shall inherit the Gentiles, and shall inhabit the desolate cities.

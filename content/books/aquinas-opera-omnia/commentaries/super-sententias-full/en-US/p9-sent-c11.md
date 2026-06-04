@@ -1,6 +1,8 @@
 # D. 36 - The impediment of slavery
 
-***After the Master has considered impotence to have intercourse, which *de facto* impedes the marital act from taking place at all, here he addresses the impediment of servile condition, which impedes the marital act from taking place freely; and this is divided into two parts: in the first he considers the servile condition, in the second he gives an epilogue, continuing from what he has said before to its consequences, at: *we have set out two of those things by which . . . marriage can be dissolved*, etc.*Sententiae* IV, 36.4 (211). 3.***
+***The impediment of slavery***
+
+After the Master has considered impotence to have intercourse, which *de facto* impedes the marital act from taking place at all, here he addresses the impediment of servile condition, which impedes the marital act from taking place freely; and this is divided into two parts: in the first he considers the servile condition, in the second he gives an epilogue, continuing from what he has said before to its consequences, at: *we have set out two of those things by which . . . marriage can be dissolved*, etc.*Sententiae* IV, 36.4 (211). 3.  
 
 The first part is divided into two parts: in the first, he considers the impediment of servile condition, in the second, the impediment of insufficient age, since such a person is no different from a slave, as long as he is under his guardians (Galatians 4), at: *it is also to be known that, according to the laws, boys cannot enter into marriage before the age of fourteen years, and girls before twelve*.*Sent*. IV, 36.4 (211). 1.  
 
@@ -24,7 +26,7 @@ first, whether the condition of slavery impedes marriage;
 
 ***Whether the condition of slavery impedes marriage***
 
-***Obj. 1: To the first question, we proceed thus.Parallel: above, d. 34, a. 2, ad 4. It seems that the condition of servitude does not impede marriage. For nothing impedes marriage except what is somehow contrary to it. But slavery has nothing in it contrary to marriage; otherwise, there could not be marriages between slaves. Therefore, slavery does not impede marriage.***
+Obj. 1: To the first question, we proceed thus.Parallel: above, d. 34, a. 2, ad 4. It seems that the condition of servitude does not impede marriage. For nothing impedes marriage except what is somehow contrary to it. But slavery has nothing in it contrary to marriage; otherwise, there could not be marriages between slaves. Therefore, slavery does not impede marriage.  
 
 Obj. 2: Furthermore, what is against nature cannot impede something that is according to nature. But slavery is against nature; for as Gregory says, it is against nature for a man to want to dominate another man,Gregory the Great, *Regula pastoralis*, Bk. 2, ch. 6, passim; cf. *Moralia in Iob*, Bk. 21, ch. 15.  which is also evident from what is said to man in Genesis 1:26: *let him be master of the fish of the sea*, etc., but not that he should be master of a man. Therefore, it cannot impede marriage, which is natural.  
 
@@ -58,7 +60,7 @@ Article 2
 
 ***Whether a slave can contract marriage without the consent of his master***
 
-***Obj. 1: To the second question, we proceed thus.Parallel: *ST* II-II, q. 104, a. 5. It seems that a slave cannot contract marriage without the consent of his master. For no one can give to someone else what belongs to another, without his consent. But a slave is the belonging of his master. Therefore, he cannot give the power over his own body to his wife by contracting marriage without the consent of his master.***
+Obj. 1: To the second question, we proceed thus.Parallel: *ST* II-II, q. 104, a. 5. It seems that a slave cannot contract marriage without the consent of his master. For no one can give to someone else what belongs to another, without his consent. But a slave is the belonging of his master. Therefore, he cannot give the power over his own body to his wife by contracting marriage without the consent of his master.  
 
 Obj. 2: Furthermore, a slave is bound to obey his master. But his master can command him not to consent in marriage. Therefore, without his consent he cannot contract marriage.  
 
@@ -88,7 +90,7 @@ Article 3
 
 ***Whether servitude can be introduced during the marriage***
 
-***Obj. 1: To the third question, we proceed thus. It seems that slavery cannot be introduced into a marriage, as when the husband sells himself to another as a slave, since what is done as a fraud and in prejudice of another’s rights should not be enforceable. But someone who sells himself as a slave does this sometimes to cheat marriage, and at least to the detriment of his wife. Therefore, such a sale should not be able to bind someone in slavery.***
+Obj. 1: To the third question, we proceed thus. It seems that slavery cannot be introduced into a marriage, as when the husband sells himself to another as a slave, since what is done as a fraud and in prejudice of another’s rights should not be enforceable. But someone who sells himself as a slave does this sometimes to cheat marriage, and at least to the detriment of his wife. Therefore, such a sale should not be able to bind someone in slavery.  
 
 Obj. 2: Furthermore, two favorable things outweigh one thing that is not favorable. But marriage and freedom enjoy the favor of the law,See Gregory IX, *Decretals*, Bk. 2, tit. 27, ch. 26, ‘Duobus iudicibus’; cf. *Digests*, Bk. 50, tit. 17, leg. 122, ‘Libertas.’ and are contrary to servitude, which is not favored by the law. Therefore, slavery of this kind should be altogether cancelled.  
 
@@ -114,7 +116,7 @@ Article 4
 
 ***Whether the children follow the condition of their mother***
 
-***Obj. 1: To the fourth question, we proceed thus.Parallel: *De malo*, q. 4, a. 8, arg. 15. It seems that the children should follow the condition of their father. For denomination happens from the more noble. But the father is nobler in generation than the mother. Therefore, etc.***
+Obj. 1: To the fourth question, we proceed thus.Parallel: *De malo*, q. 4, a. 8, arg. 15. It seems that the children should follow the condition of their father. For denomination happens from the more noble. But the father is nobler in generation than the mother. Therefore, etc.  
 
 Obj. 2: Furthermore, the being of a thing depends more on its form than on its matter. But in generation, *the father gives the form, the mother the matter*, as is stated in Book 2 of *On the Generation of Animals*.Aristotle, *On the Generation of Animals*, Bk. 1, ch. 2 (716a5) and ch. 20 (729a9); Bk. 2, ch. 4 (738b20); Bk. 4, ch. 1 (765b10). Therefore, the children should follow the father more than the mother.  
 
@@ -142,7 +144,7 @@ Article 5
 
 ***Whether a defect of age impedes marriage***
 
-***Obj. 1: To the fifth question, we proceed thus.Parallels: above, d. 25, q. 2, a. 1, qa. 2; d. 27, q. 2, a. 2. It seems that a defect in age does not impede matrimony. For according to the laws*Digests*, Bk. 4, tit. 4, leg. 3, ‘Denique.’ children receive a guardian up until twenty-five years of age. Therefore, it seems that up to that time their reason is not sound enough for the consent, and so it seems that that should be the age established by law for entering marriage. But before that time marriage can be contracted. Therefore, falling short of the age established by law does not impede marriage.***
+Obj. 1: To the fifth question, we proceed thus.Parallels: above, d. 25, q. 2, a. 1, qa. 2; d. 27, q. 2, a. 2. It seems that a defect in age does not impede matrimony. For according to the laws*Digests*, Bk. 4, tit. 4, leg. 3, ‘Denique.’ children receive a guardian up until twenty-five years of age. Therefore, it seems that up to that time their reason is not sound enough for the consent, and so it seems that that should be the age established by law for entering marriage. But before that time marriage can be contracted. Therefore, falling short of the age established by law does not impede marriage.  
 
 Obj. 2: Furthermore, just as the bond of religious life is perpetual, so also is the bond of matrimony. But before eighteen years of age one cannot make the profession of religious life, according to the new statutes.See *Sexti Decretal*., Bk. 3, tit. 14, ch. 1, ‘Is qui monasterium’; cf. Gregory IX, *Decretals*, Bk. 3, tit. 31, ch. 8, ‘Ad nostram’; ch. 11, ‘Significatum est.’ Therefore, neither could one contract marriage if defect of age were an impediment.  
 
@@ -170,4 +172,4 @@ Reply Obj. 5: Just as the impediment of insanity is reduced to the impediment of
 
 Exposition of the Text  
 
-****“If . . . it is afterwards discovered that she is of servile condition, let him redeem her from her servitude if he can; if he cannot, he may marry another, if he should wish*.”*Sententiae* IV, 36.1 (208). 1, Augustine, *De nuptiis et concupiscentia*, bk 1c10 n11. It should be known, that if the wife requests the debt before her suspected servitude is discovered, and if the man has only a slight suspicion, he should render the debt; nor would this result in any prejudice to his rights. However, if he has probable grounds to wonder about it, or if he should strongly suspect it, or if he should know it for certain, he should not render the debt to her, by the command of the Church, since he would either prejudice his own rights, if he should know her with uxorial affection, or else he would be fornicating.***
+*“If . . . it is afterwards discovered that she is of servile condition, let him redeem her from her servitude if he can; if he cannot, he may marry another, if he should wish*.”*Sententiae* IV, 36.1 (208). 1, Augustine, *De nuptiis et concupiscentia*, bk 1c10 n11. It should be known, that if the wife requests the debt before her suspected servitude is discovered, and if the man has only a slight suspicion, he should render the debt; nor would this result in any prejudice to his rights. However, if he has probable grounds to wonder about it, or if he should strongly suspect it, or if he should know it for certain, he should not render the debt to her, by the command of the Church, since he would either prejudice his own rights, if he should know her with uxorial affection, or else he would be fornicating.

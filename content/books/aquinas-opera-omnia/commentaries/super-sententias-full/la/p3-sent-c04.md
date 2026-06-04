@@ -1,8 +1,10 @@
 # D. 3 - Condition of the angels at their creation
 
+***Quales angeli effecti sunt***
+
 ***Divisio primae partis textus***
 
-***Ostenso quando et ubi angeli creati sunt, hic inquirit quales effecti sunt, et dividitur in tres partes:***
+Ostenso quando et ubi angeli creati sunt, hic inquirit quales effecti sunt, et dividitur in tres partes:  
 
 in prima inquiritur quales effecti sunt quantum ad perfectionem naturae;  
 
@@ -50,7 +52,7 @@ Articulus 1
 
 ***Utrum angelus sit compositus ex materia et forma***
 
-***Ad primum sic proceditur. Videtur quod angelus sit compositus ex materia et forma.***
+Ad primum sic proceditur. Videtur quod angelus sit compositus ex materia et forma.  
 
 Quidquid enim est in genere aliquo, participat rationem illius generis. Sed ratio substantiae, secundum quod est praedicamentum, est quod sit composita ex materia et forma. Boetius enim dicit in *Comment. praedicamentorum*, in *Expos. praedic. substantiae*, lib. 1, quod Aristoteles, relictis extremis, scilicet materia et forma, agit de medio, id est de composito, cum de substantia determinat. Cum ergo angelus sit in praedicamento substantiae, videtur quod ex materia et forma componatur.  
 
@@ -100,7 +102,7 @@ Articulus 2
 
 ***Utrum in angelis possit esse personalitas***
 
-***Ad secundum sic proceditur. Videtur quod in angelis non possit esse personalitas.***
+Ad secundum sic proceditur. Videtur quod in angelis non possit esse personalitas.  
 
 Individuatio enim est de ratione personae, quia persona est rationalis naturae individua substantia. Principium autem individuationis est materia. Cum ergo angelus materia careat, ut dictum est, videtur quod ab eo personalitas excludatur.  
 
@@ -296,7 +298,7 @@ Ad quintum dicendum, quod ea quae differunt specie, differunt secundum finem pro
 
 Expositio primae partis textus  
 
-****Et quattuor quidem angelis videntur attributa*. Videtur inconvenienter numerare: quia Dionysius, 11Parma: *X cap*. *Cael. hier*., attribuit tria angelis, scilicet essentiam, virtutem et operationem; hic autem de operatione non fit mentio.***
+*Et quattuor quidem angelis videntur attributa*. Videtur inconvenienter numerare: quia Dionysius, 11Parma: *X cap*. *Cael. hier*., attribuit tria angelis, scilicet essentiam, virtutem et operationem; hic autem de operatione non fit mentio.  
 
 Praeterea, in 11 *Metaph*. dicitur a Commentatore, quod substantiae separatae dividuntur in voluntatem et intellectum: et ita videtur quod duo tantum debeant esse attributa.  
 
@@ -318,7 +320,7 @@ Ad tertium dicendum, quod in tertio attributo ponitur ratio et voluntas non secu
 
 Divisio secundae partis textus  
 
-***Hic Magister inquirit quales angeli effecti sunt secundum culpam vel gratiam; et dividitur in partes duas:***
+Hic Magister inquirit quales angeli effecti sunt secundum culpam vel gratiam; et dividitur in partes duas:  
 
 in prima ostendit quod angeli non sunt facti mali in principio suae creationis;  
 
@@ -370,7 +372,7 @@ Articulus 1
 
 ***Utrum angelus in principio suae creationis potuerit esse malus***
 
-***Ad primum sic proceditur. Videtur quod angelus in principio suae creationis malus esse potuit.***
+Ad primum sic proceditur. Videtur quod angelus in principio suae creationis malus esse potuit.  
 
 Dicitur enim ad Rom. 9:21: *numquid non habet potestatem figulus ex eodem luto*Vulg.: *annon . . . ex eadem massa*. *facere aliud vas in honorem, et aliud in contumeliam?* Vasa quae in honorem Deus, sicut figulus, facit, sunt sancti, qui praeparantur in gloriam; vasa autem in contumeliam sunt peccatores praeparati ad poenam. Ergo potest Deus quosdam justos et quosdam peccatores creare: et sic potuit angelus in principio creationis suae malus esse.  
 
@@ -426,7 +428,7 @@ Articulus 1
 
 ***Utrum angelus cognoscat res per suam essentiam***
 
-***Ad primum sic proceditur. Videtur quod angelus per essentiam suam res cognoscat et non per species aliquas.***
+Ad primum sic proceditur. Videtur quod angelus per essentiam suam res cognoscat et non per species aliquas.  
 
 Quia, secundum Philosophum, in 3 *De anima*, anima est species specierum. Sed angelus simplicior est anima et nobilior. Ergo essentia angeli est similitudo vel species rerum. Sed res potest in similitudine sui cognosci. Ergo videtur quod angelus, intuendo essentiam suam, res cognoscat, et non per species aliquas.  
 
@@ -456,7 +458,7 @@ Articulus 2
 
 ***Utrum angeli superiores intelligant per species universaliores***
 
-***Ad secundum sic proceditur. Videtur quod species superiorum non sint universaliores speciebus quas habent angeli inferiores.***
+Ad secundum sic proceditur. Videtur quod species superiorum non sint universaliores speciebus quas habent angeli inferiores.  
 
 Quia, secundum Philosophum in 1 *De anima*, universaleParma and PLE: *animal universale*. aut nihil est, aut posterius est. Non enim dicitur esse posterius nisi propter abstractionem a rebus, in qua completur intentio universalitatis per actum intellectus abstrahentis. Cum ergo intellectus angeli non abstrahat species a rebus, videtur quod species non sint universales in ipso.  
 
@@ -488,7 +490,7 @@ Articulus 3
 
 ***Utrum angeli intelligant particularia***
 
-***Ad tertium sic proceditur. Videtur quod angeli per formas intellectuales particularia non cognoscant.***
+Ad tertium sic proceditur. Videtur quod angeli per formas intellectuales particularia non cognoscant.  
 
 Ubi enim invenitur una natura communis, non est diversitas in operatione consequente naturam. Sed natura intellectualis est in angelis et in nobis. Cum ergo intellectus noster non possit esse singularium, videtur quod nec angelicus.  
 
@@ -562,7 +564,7 @@ Quaestio 4
 
 ***Utrum angelus in statu suo naturali dilexerit Deum plus quam se et omnia alia***
 
-***Circa tertium principale quaeritur de dilectione, scilicet utrum angeli, si in gratia creati non sunt, in illo statu innocentiae Deum super se et plus quam omnia dilexerunt. Et videtur quod non.***
+Circa tertium principale quaeritur de dilectione, scilicet utrum angeli, si in gratia creati non sunt, in illo statu innocentiae Deum super se et plus quam omnia dilexerunt. Et videtur quod non.  
 
 Sic enim Deum diligere est actus caritatis, qui caritatem non habentis esse non potest. Sed angeli in isto statu caritatem non habebant quae sine gratia non est, cum nunquam sit informis. Ergo videtur quod non dilexerunt Deum plus quam se.  
 
@@ -598,4 +600,4 @@ Ad quintum dicendum, quod bona naturalia, prout in esse naturae absolute conside
 
 Expositio secundae partis textus  
 
-****Hic quaeri solet quam sapientiam habuerunt ante casum vel confirmationem*. Ponitur hic duplex angelorum cognitio: una speculativa, qua cognoscebant Deum, et seipsos, et alias creaturas; et alia practicaParma: *praedicta*. sequens eorum operationem, quae ad eos pertinebat, qua cognoscebant quid eligere et respuere deberent. Et haec erat similis cognitioni prudentiae in nobis.***
+*Hic quaeri solet quam sapientiam habuerunt ante casum vel confirmationem*. Ponitur hic duplex angelorum cognitio: una speculativa, qua cognoscebant Deum, et seipsos, et alias creaturas; et alia practicaParma: *praedicta*. sequens eorum operationem, quae ad eos pertinebat, qua cognoscebant quid eligere et respuere deberent. Et haec erat similis cognitioni prudentiae in nobis.

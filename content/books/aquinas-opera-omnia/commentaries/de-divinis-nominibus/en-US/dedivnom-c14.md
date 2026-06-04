@@ -1,10 +1,12 @@
 # C. 13 - On Perfect and One
 
+***On Perfect and One***
+
 ***Lectio 1***
 
-***There Are Expounded the Names That Pertain To the End of Providence: And First It Is Determined About Perfect***
+There Are Expounded the Names That Pertain To the End of Providence: And First It Is Determined About Perfect  
 
-***C. XIII, § 1. 435. So much also concerning those. Yet to what is left, if it seems, let us go by a most brief speech: for theology predicates of the cause of all things both all things and all things simultaneously, and praises this as perfect (Matt 5:48) and as one (1 Tim 2:5).***
+C. XIII, § 1. 435. So much also concerning those. Yet to what is left, if it seems, let us go by a most brief speech: for theology predicates of the cause of all things both all things and all things simultaneously, and praises this as perfect (Matt 5:48) and as one (1 Tim 2:5).  
 
 > 436. Therefore it is perfect indeed, not only as *per se* perfect and according to itself from itself uniformly segregated and whole through most perfect whole, but also as super-perfect according to the excess of all things,
 
@@ -80,7 +82,7 @@ Lectio 2
 
 ***He Shows the Causality of One In Common***
 
-***§2. 439. Yet one, because it is all things unitively according to the excess of one’s unity and one is the cause of all things inegressibly,***
+§2. 439. Yet one, because it is all things unitively according to the excess of one’s unity and one is the cause of all things inegressibly,  
 
 > 440. for nothing of existing things is not participating one;
 
@@ -158,7 +160,7 @@ Lectio 3
 
 ***How One Is Attributed to God***
 
-***447. And therefore theology praises the whole thearchy as the cause of all things by the naming of one: one God the Father and one Lord Jesus Christ and one and the same Spirit (1 Cor 8:6), on account of the exceeding simplicity of the whole divine unity, in which all things singularly are gathered and super-united and preexist supersubstantially.***
+447. And therefore theology praises the whole thearchy as the cause of all things by the naming of one: one God the Father and one Lord Jesus Christ and one and the same Spirit (1 Cor 8:6), on account of the exceeding simplicity of the whole divine unity, in which all things singularly are gathered and super-united and preexist supersubstantially.  
 
 > 448. On account of which also all things justly are remitted to this and replaced, from which and out of which and through which and in which and to which all things are and are coordinated and remain and are contained and are fulfilled and are converted.
 
@@ -234,7 +236,7 @@ Lectio 4
 
 ***He Offers an Epilogue for the Things That Have Been Said in This Book***
 
-***§4. 453. Gathering these intelligible significations of God, as is possible, we have opened up, failing not only of their diligence—for this truly even the angels should say—nor of the praise of them by the angels, for among us the mightiest theologians have less than the lowest of those, nor of the praise of those philosophizing about them or the ones accompanying those, but even of those coordinated with us extremely and subjectly.***
+§4. 453. Gathering these intelligible significations of God, as is possible, we have opened up, failing not only of their diligence—for this truly even the angels should say—nor of the praise of them by the angels, for among us the mightiest theologians have less than the lowest of those, nor of the praise of those philosophizing about them or the ones accompanying those, but even of those coordinated with us extremely and subjectly.  
 
 > 454. Wherefore if indeed the things said have rightly, and as according to us we truly have touched upon the opening up of the namings of God by deliberation, this thing must be referred to the cause of all good things which first gives saying, afterwards saying well. And if anything equally important has been passed over, it is necessary that we should hear that too according to the same reasons and the same rules.
 

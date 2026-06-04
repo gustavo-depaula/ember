@@ -1,5 +1,7 @@
 # C. 14 - Jeremiah entreats God for mercy
 
+***Lectio 1***
+
 ***^14:1^ Quod factum est verbum Domini ad Jeremiam de sermonibus siccitatis.***
 
 > ^14:2^ Luxit Judaea, et portae ejus corruerunt, et obscuratae sunt in terra, et clamor Jerusalem ascendit.
@@ -44,7 +46,7 @@ Et quantum ad onagros, ***et onagri***, qui tamen diu sitim sustinent: Psalm. 10
 
 Lectio 2  
 
-***^14:7^ Si iniquitates nostrae responderint nobis, Domine, fac propter nomen tuum, quoniam multae sunt aversiones nostrae. Tibi peccavimus,***
+^14:7^ Si iniquitates nostrae responderint nobis, Domine, fac propter nomen tuum, quoniam multae sunt aversiones nostrae. Tibi peccavimus,  
 
 > ^14:8^ expectatio Israel, salvator noster in tempore tribulationis. Quare quasi colonus futurus es in terra, et quasi viator declinans ad manendum?
 
@@ -90,7 +92,7 @@ Tertio sacrificii. ***Si obtulerint***, Malach. 1: *non est mihi voluntas in vob
 
 Lectio 3  
 
-***^14:13^ Et dixi: a, a, a, Domine Deus. Prophetae dicunt eis: non videbitis gladium, et fames non erit in vobis; sed pacem veram dabit vobis in loco isto.***
+^14:13^ Et dixi: a, a, a, Domine Deus. Prophetae dicunt eis: non videbitis gladium, et fames non erit in vobis; sed pacem veram dabit vobis in loco isto.  
 
 > ^14:14^ Et dixit Dominus ad me: falso prophetae vaticinantur in nomine meo. Non misi eos, et non praecepi eis neque locutus sum ad eos. Visionem mendacem, et divinationem fraudulentiam, et seductionem cordis sui prophetant vobis.
 
@@ -118,7 +120,7 @@ Et assignat contritionis modum, quantum ad poenam occisionis: ***si egressus***,
 
 Lectio 4  
 
-***^14:19^ Numquid projiciens abjecisti Judam, aut Sion abominata est anima tua? Quare ergo percussisti nos, ita ut nulla sit sanitas? Expectavimus pacem, et non est bonum; et tempus curationis, et ecce turbatio.***
+^14:19^ Numquid projiciens abjecisti Judam, aut Sion abominata est anima tua? Quare ergo percussisti nos, ita ut nulla sit sanitas? Expectavimus pacem, et non est bonum; et tempus curationis, et ecce turbatio.  
 
 > ^14:20^ Cognovimus, Domine, impietates nostras, iniquitates patrum nostrorum, quia peccavimus tibi.
 
@@ -142,7 +144,7 @@ Et idolorum debilitate: ***numquid sunt in sculptilibus gentium qui pluant; aut 
 
 Collationes  
 
-***Notandum, quod quaedam est ***pax*** falsa. Sapien. 14: *in magno viventes inscientiae bello, tot et tam magna mala pacem appellant*. Quaedam fraudulenta. Psal. 27: *qui loquuntur pacem cum proximo, mala autem in cordibus eorum*. Quaedam transitoria. 1 Thess. ult.: *cum enim dixerint, pax et securitas, tunc repentinus eis superveniet interitus*.***
+Notandum, quod quaedam est ***pax*** falsa. Sapien. 14: *in magno viventes inscientiae bello, tot et tam magna mala pacem appellant*. Quaedam fraudulenta. Psal. 27: *qui loquuntur pacem cum proximo, mala autem in cordibus eorum*. Quaedam transitoria. 1 Thess. ult.: *cum enim dixerint, pax et securitas, tunc repentinus eis superveniet interitus*.  
 
 Item notandum, quod mystice triplex est ***solium***.  
 

@@ -1,6 +1,8 @@
 # Prologue of St. Thomas
 
-***Scribe visum et explana eum super tabulas ut percurrat qui legerit eum, quia adhuc visus procul et apparebit in finem.***
+***Habacuc 2:2–3***
+
+Scribe visum et explana eum super tabulas ut percurrat qui legerit eum, quia adhuc visus procul et apparebit in finem.  
 
 > **1**. Ex verbis istis tria possunt accipi circa librum Isaiae prophetae quem prae manibus habemus, scilicet auctor, modus et materia.
 

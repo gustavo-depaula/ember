@@ -1,8 +1,10 @@
 # D. 20 - Equality of the divine persons in power
 
+***Equality of the divine persons in power***
+
 ***Division of the text***
 
-***After he has proved the equality of the persons in their magnitude, here he shows their equality in power. And this is divided into two parts: first, he proposes his intention; second, he proves what he proposes with arguments from Augustine*: he who said, ‘All that the Father has is also mine.’**Sent*. I, 20.2(85).1, quoting Augustine, *Against Maximinus*, bk. 2, ch. 14, para. 7 (CCSL 87A; PL 42:774); John 16:15.***
+After he has proved the equality of the persons in their magnitude, here he shows their equality in power. And this is divided into two parts: first, he proposes his intention; second, he proves what he proposes with arguments from Augustine*: he who said, ‘All that the Father has is also mine.’**Sent*. I, 20.2(85).1, quoting Augustine, *Against Maximinus*, bk. 2, ch. 14, para. 7 (CCSL 87A; PL 42:774); John 16:15.  
 
 And this is divided into two: in the first, Augustine proves the proposition by an authority; in the second, he does so by an argument, at *also, . . . he proves in another way that the Son is equal to the Father*.*Sent*. I, 20.3(86).4.  
 
@@ -72,7 +74,7 @@ Article 2
 
 ***Whether the Son is equal to the Father in omnipotence***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.42.6; *SCG* IV.7‒8. It seems that the Son is not equal to the Father in omnipotence.***
+To the second we proceed as follows.Parallel texts: *ST* I.42.6; *SCG* IV.7‒8. It seems that the Son is not equal to the Father in omnipotence.  
 
 Obj. 1: For, as will be said below,*In I Sent*., d. 31, q. 1, a. 2. power is appropriated to the Father, but not to the Son. Therefore it seems that it belongs to the Father more than to the Son. And in this way they are not equal in power.  
 
@@ -94,11 +96,11 @@ Reply Obj. 4: When one says that the Father acts through the Son, no gradation o
 
 Article 3  
 
-***Whether there is order in the divine persons; whether an order of nature is there***
+Whether there is order in the divine persons; whether an order of nature is there  
 
 ***Quaestiuncula 1***
 
-***To the third we proceed as follows.Parallel texts: above, d. 12, a. 1; *ST* I.42.3; *On the Power of God*, q. 10, a. 3; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*)**, pt. 2, ch. 31. It seems that in the divine persons there is no order.***
+To the third we proceed as follows.Parallel texts: above, d. 12, a. 1; *ST* I.42.3; *On the Power of God*, q. 10, a. 3; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*)**, pt. 2, ch. 31. It seems that in the divine persons there is no order.  
 
 Obj. 1: For as Augustine says, *order is a disposition of equals and unequals, bestowing places on them and to each*.Augustine, *The City of God*, bk. 19, ch. 13 (PL 41:1249). But no disposition of place befits the divine persons. Therefore it seems that neither would an order.  
 
@@ -114,7 +116,7 @@ Furthermore (6), it is also seen that the Holy Spirit is called the “third” 
 
 Quaestiuncula 2  
 
-***Moreover, it is asked whether an order of nature is there, and it seems not to be so.***
+Moreover, it is asked whether an order of nature is there, and it seems not to be so.  
 
 Obj. 1: For every order brings in a certain distinction. But in the divine nature there is no distinction. Therefore neither is there any order of the divine nature, so in the divine persons there is no order of nature.  
 
@@ -148,13 +150,13 @@ Reply Sed Contra 6: Whence the reply to the sixth argument is clear.
 
 Response to Quaestiuncula 2  
 
-***To what is asked further, I say that an order of nature is there, yet not in such a way that the nature is ordered, or such that the Father is naturally prior to the Son. Rather, it is in such a way that it indicates an account of origin insofar as origin is brought in by “nature.” And although the divine nature is in reality the same as the essence, nonetheless the account of origin is not brought in by the name “essence” the way it is by the name “nature”; for they differ in account. And therefore an order of essence cannot be asserted, but an order of nature can.***
+To what is asked further, I say that an order of nature is there, yet not in such a way that the nature is ordered, or such that the Father is naturally prior to the Son. Rather, it is in such a way that it indicates an account of origin insofar as origin is brought in by “nature.” And although the divine nature is in reality the same as the essence, nonetheless the account of origin is not brought in by the name “essence” the way it is by the name “nature”; for they differ in account. And therefore an order of essence cannot be asserted, but an order of nature can.  
 
 Reply Obj. 1–2: And the replies to the objections are clear from this.  
 
 Exposition of the text  
 
-****For if he has something less in might than the Father, then he does not have* all *the Father has*.*Sent*. I, 20.2(85).1, quoting Augustine, *Against Maximinus*, bk. 2, ch. 14, para. 7 (PL 42:774). It appears that Augustine’s argument is not valid; rather, it changes a “what” into a “how much,” arguing that all that the Father has the Son also has, so the Son does not have a lesser power than does the Father. Nor does what he brings in later about omnipotence seem valid, that “omnipotence” names also a quantity of power. So there seems to be the same error in both. But one should say to this that, although the mode of arguing is not valid, still it is valid from the nature of the thing about which the argument is made. For it cannot be the case that what the Father has the Son also has, unless it be numerically unchanged. Whence as much as is in the Father, so much must also be in the Son.***
+*For if he has something less in might than the Father, then he does not have* all *the Father has*.*Sent*. I, 20.2(85).1, quoting Augustine, *Against Maximinus*, bk. 2, ch. 14, para. 7 (PL 42:774). It appears that Augustine’s argument is not valid; rather, it changes a “what” into a “how much,” arguing that all that the Father has the Son also has, so the Son does not have a lesser power than does the Father. Nor does what he brings in later about omnipotence seem valid, that “omnipotence” names also a quantity of power. So there seems to be the same error in both. But one should say to this that, although the mode of arguing is not valid, still it is valid from the nature of the thing about which the argument is made. For it cannot be the case that what the Father has the Son also has, unless it be numerically unchanged. Whence as much as is in the Father, so much must also be in the Son.  
 
 *But if you say that he would not, then you have called him envious*.*Sent*. I, 20.3(86).4, quoting Augustine, *Against Maximinus*, bk. 2, ch. 7 (PL 42:774). This does not appear to follow, since through the same manner it could be proved that he was not able to make any created thing better than he has made. But to this one should say that these are not alike, since if one denies a thing what is owed to it, this is envy, but not if one does not give a thing what is not owed to it. Now, the equality with his begetter is owed to the Son from the nature of his Godhead, so if it were withheld, it would be envy. However, to no created thing is owed, according to its nature, a fuller perfection than what follows on the principles of its nature. This is why, if something is added to the rational nature, it is imputed to grace; and so too it could be withheld even without envy.  
 

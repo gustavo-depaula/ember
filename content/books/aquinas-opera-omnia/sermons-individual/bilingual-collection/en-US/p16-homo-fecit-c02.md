@@ -1,5 +1,7 @@
 # Sermon
 
+******Someone made a (great) dinner*** (Luke 14:16), et cetera.***
+
 Just as the body cannot be maintained without physical refreshment, so also the soul is in need of spiritual refreshment for its maintenance. About this spiritual refreshment Psalm 23:2–3 says: *he has led me out unto the water of refreshment. He refreshes my soul*. Conspicuously it says *unto the water of refreshment*, for just as physical refreshment is necessary against a total destruction brought about by taking in natural heat, so the soul is in need of spiritual refreshment because of the heat of concupiscence, which harms us and which hinders the salvation of our souls. Thus spiritual water is necessary because it extinguishes this heat. Physical water cools, but does not nourish (cf. John 4:13); spiritual water, however, cools and nourishes.Cf. Aquinas, *In IV Sent*. 8.1.4, resp. 2, ad 2; *Commentary on 1 Corinthians*, at 11:20, ch. 11, lect. 4, n. 632. About this water it is said in John 4:14: *in someone who drinks from this water, a fountain shall well up of water that is salutary unto eternal life*.In *ST* II-II.25.5, Thomas advocates that we must take good care of our body, but that the care for the soul is more important, since the soul does not die.  
 
 Concerning this spiritual refreshment the Lord makes a comparison in today’s Gospel. We can see two things:  

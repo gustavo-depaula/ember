@@ -1,6 +1,8 @@
 # Chapter 6
 
-***^6:1^ In anno quo mortuus est rex Ozias vidi Dominum sedentem super solium excelsum et elevatum; et plena domus a majestate ejus; et ea quæ sub ipso erant implebant templum.***
+***Lectio 1***
+
+^6:1^ In anno quo mortuus est rex Ozias vidi Dominum sedentem super solium excelsum et elevatum; et plena domus a majestate ejus; et ea quæ sub ipso erant implebant templum.  
 
 > ^6:2^ Seraphim stabant super illud; sex alæ uni et sex alæ alteri: duabus velabant faciem ejus et duabus velabant pedes ejus et duabus volabant.
 
@@ -138,7 +140,7 @@ Ad quod dicendum quod Gregorius istam quaestionem tangit in quadam homilia de ce
 
 Lectio 2  
 
-***^6:8^ Et audivi vocem Domini dicentis: quem mittam? Et quis ibit nobis? Et dixi: ecce ego sum, mitte me.***
+^6:8^ Et audivi vocem Domini dicentis: quem mittam? Et quis ibit nobis? Et dixi: ecce ego sum, mitte me.  
 
 > ^6:9^ Et dixit: vade, et dices populo huic: audite audientes et nolite intelligere, et videte visionem et nolite cognoscere.
 

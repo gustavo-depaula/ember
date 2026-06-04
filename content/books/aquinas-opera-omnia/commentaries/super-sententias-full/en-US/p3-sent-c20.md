@@ -1,8 +1,10 @@
 # D. 19 - Immortality in the original state of man
 
+***Immortality in the original state of man***
+
 ***Division of the text***
 
-***Having addressed the establishment of human nature with regard to both sexes, here he pursues the conditions of the established nature with regard to its first state.***
+Having addressed the establishment of human nature with regard to both sexes, here he pursues the conditions of the established nature with regard to its first state.  
 
 This is divided into two parts.  
 
@@ -70,7 +72,7 @@ Article 1
 
 ***Whether the soul of man is corrupted at the corruption of the body***
 
-***To the first we proceed as follows.Parallel texts: *In IV Sent*., d. 50, q. 1, a. 1; *ST* I.75.6; *SCG* II.79–84; *Quodl*. X, q. 3, a. 2; *Disputed Questions on the Soul*, a. 14; *Compendium theologiae*, ch. 84. It seems that the soul of man is corrupted when the body is corrupted.***
+To the first we proceed as follows.Parallel texts: *In IV Sent*., d. 50, q. 1, a. 1; *ST* I.75.6; *SCG* II.79–84; *Quodl*. X, q. 3, a. 2; *Disputed Questions on the Soul*, a. 14; *Compendium theologiae*, ch. 84. It seems that the soul of man is corrupted when the body is corrupted.  
 
 Obj. 1: This is first because Ecclesiastes 3:19 says, *the fate of the sons of men and the fate of beasts is the same; as one dies, so dies the other. They all have the same breath, and man has no advantage over the beasts*. But beasts die in body and soul at the same time. Therefore, it seems that man does as well.  
 
@@ -138,7 +140,7 @@ Article 2
 
 ***Whether man in his first state had the necessity of dying***
 
-***To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 44, q. 3, a. 1, resp.; *ST* I.76.5, ad 1; 97.1; *On Truth*, q. 24, a. 9; *On Evil*, q. 5, a. 5; *Compendium theologiae*, ch. 152; *Commentary on Romans*, ch. 5, lect. 3. It seems that in his first state man had the necessity of dying with respect to the body.***
+To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 44, q. 3, a. 1, resp.; *ST* I.76.5, ad 1; 97.1; *On Truth*, q. 24, a. 9; *On Evil*, q. 5, a. 5; *Compendium theologiae*, ch. 152; *Commentary on Romans*, ch. 5, lect. 3. It seems that in his first state man had the necessity of dying with respect to the body.  
 
 Obj. 1: For whatever follows from a necessity of matter is necessary by an absolute necessity, as we find in the *Physics* 2.Aristotle, *Physics* 2.9, 200a1–15. But the corruption of what is composed of contraries follows from a necessity of matter. Therefore, it was simply and absolutely necessary for the body of man, which was composed of contraries, to be corrupted.  
 
@@ -172,7 +174,7 @@ Article 3
 
 ***Whether Adam’s body was passible***
 
-***To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 44, q. 2, a. 1, resp. and ad 1; *ST* I.97.2. It seems that Adam’s body was passible.*Passibilis* does not easily translate into English by means of a single word; the sense here is “able to undergo,” or more generally, “capable of being changed.”***
+To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 44, q. 2, a. 1, resp. and ad 1; *ST* I.97.2. It seems that Adam’s body was passible.*Passibilis* does not easily translate into English by means of a single word; the sense here is “able to undergo,” or more generally, “capable of being changed.”  
 
 Obj. 1: For, according to the Philosopher,Aristotle, *On the Soul* 2.11, 424a1. sensing is a sort of undergoing. But Adam’s body had sensation. Therefore, it was also passible.  
 
@@ -204,7 +206,7 @@ Article 4
 
 ***Whether man in his first state was impassible and immortal by nature***
 
-***To the fourth we proceed as follows.Parallel texts: *In IV Sent*., d. 44, q. 3, a. 1, resp.; *ST* I.76.5, ad 1; 97.1; *On Truth*, q. 24, a. 9; *On Evil*, q. 5, a. 5; *Compendium theologiae*, ch. 152; *Commentary on Romans*, ch. 5, lect. 3. It seems that man in his first state was impassible and immortal by nature.***
+To the fourth we proceed as follows.Parallel texts: *In IV Sent*., d. 44, q. 3, a. 1, resp.; *ST* I.76.5, ad 1; 97.1; *On Truth*, q. 24, a. 9; *On Evil*, q. 5, a. 5; *Compendium theologiae*, ch. 152; *Commentary on Romans*, ch. 5, lect. 3. It seems that man in his first state was impassible and immortal by nature.  
 
 Obj. 1: For it belongs to the same thing to infuse life and to prolong it. But the soul naturally infuses life to the body. Therefore, it also naturally would have prolonged life in the body perpetually.  
 
@@ -244,9 +246,9 @@ Reply Obj. 5: The tree of life was not the principal cause of immortality, but r
 
 Article 5  
 
-***Whether the immortality of Adam was the same as the immortality of the resurrected***
+Whether the immortality of Adam was the same as the immortality of the resurrected  
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.97.3–4; 102.2; *SCG* IV.83; *On Evil*, q. 5, a. 5, ad 8, 9; *Compendium theologiae*, ch. 156. It seems that the immortality of Adam was not the same as the immortality of the resurrected.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.97.3–4; 102.2; *SCG* IV.83; *On Evil*, q. 5, a. 5, ad 8, 9; *Compendium theologiae*, ch. 156. It seems that the immortality of Adam was not the same as the immortality of the resurrected.  
 
 Obj. 1: First, because Augustine saysRather: Bede the Venerable, *Libri quatuor in principium Genesis*, bk. 1, at 3:21 (CCSL 118A; PL 91:59): *electi habitum immortalitatis, quem in Adam in exordio saeculi perdiderunt, in fine saeculi sint recepturi in Christo, et quidem ampliori gratia*. that there was one immortality that we lost in Adam and another that we hope for in the resurrection through Christ.  
 
@@ -266,7 +268,7 @@ Reply Obj. 1–4, Sed Contra: And through this, the reply to each part is clear.
 
 Exposition of the text  
 
-****In the first state, the human body was animalistic*.*Sent*. II, 19.2(111).1; Silano translates *animale* as “animal,” but “animalistic” is given here to try to capture the distinction Aquinas is making below. It seems that it will also be such in the third state, since “animal” is the genus of man and should always be predicated of its species.***
+*In the first state, the human body was animalistic*.*Sent*. II, 19.2(111).1; Silano translates *animale* as “animal,” but “animalistic” is given here to try to capture the distinction Aquinas is making below. It seems that it will also be such in the third state, since “animal” is the genus of man and should always be predicated of its species.  
 
 It should be said that the words “animal” and “animalistic” differ in meaning. For “animal” names the nature of the genus, which is never removed from a species; hence man will always be called an “animal.” But “animalistic” indicates something named after the nature of an animal. However, since naming is properly based on what is formal and perfective of a thing, “animalistic” only belongs to that in which the properties of an animal dominate in some regard. But these are the things that man has in common with other animals. Thus, one who follows brute motions, that is, the passions of the sensitive part, is called an *animalistic man* by the Apostle (1 Cor 2:14).RSV reads *unspiritual* or *natural* instead of *animalistic*, which is more faithful to the Greek. Therefore, because in his first state man had to be occupied with the works of the nutritive and generative parts, without which he could not preserve life, he was said to have an animalistic life.  
 

@@ -1,6 +1,8 @@
 # D. 19 - Use of the keys
 
-***Postquam determinavit Magister de clavibus secundum se, incipit determinare quorum sit habere claves; et dividitur in partes duas: in prima ostendit quod sacerdotum sit claves habere; in secunda movet quasdam dubitationes contra haec, ibi: *sed non videtur quod omnes vel soli sacerdotes has claves habeant*.***
+***De usu clavium***
+
+Postquam determinavit Magister de clavibus secundum se, incipit determinare quorum sit habere claves; et dividitur in partes duas: in prima ostendit quod sacerdotum sit claves habere; in secunda movet quasdam dubitationes contra haec, ibi: *sed non videtur quod omnes vel soli sacerdotes has claves habeant*.  
 
 Et haec pars dividitur in duas: in prima movet dubitationem de clave scientiae; in secunda de clave potestatis, ibi: *cumque jam constet non omnes sacerdotes illas duas claves habere . . . quaeritur, utrum omnes sacerdotes eam habeant*.  
 
@@ -32,7 +34,7 @@ primo, quorum sit habere claves;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod sacerdos legalis claves habuerit. Clavis enim est sequela ordinis. Sed ipsi habuerunt ordinem, ex quo sacerdotes dicebantur. Ergo habuerunt claves sacerdotes legales.***
+Ad primum sic proceditur. Videtur quod sacerdos legalis claves habuerit. Clavis enim est sequela ordinis. Sed ipsi habuerunt ordinem, ex quo sacerdotes dicebantur. Ergo habuerunt claves sacerdotes legales.  
 
 Praeterea, sicut supra Magister dixit, claves sunt duae; scilicet scientia discernendi, et potentia judicandi. Sed ad utrumque auctoritatem sacerdotes legales habebant. Ergo habebant claves.  
 
@@ -44,7 +46,7 @@ Praeterea, sacramenta veteris legis gratiam non conferebant. Sed aditus regni ca
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod Christus non habuerit claves. Clavis enim characterem ordinis consequitur, ut prius dictum est, dist. praec., qu. 1, art. 1, quaestiunc. 2 ad 1. Sed Christus non habuit characterem, ut supra, dist. 4, qu. 1, art. 3, quaestiunc. 5, dictum est. Ergo non habuit clavem.***
+Ulterius. Videtur quod Christus non habuerit claves. Clavis enim characterem ordinis consequitur, ut prius dictum est, dist. praec., qu. 1, art. 1, quaestiunc. 2 ad 1. Sed Christus non habuit characterem, ut supra, dist. 4, qu. 1, art. 3, quaestiunc. 5, dictum est. Ergo non habuit clavem.  
 
 Praeterea, Christus habuit in sacramentis potestatem excellentiae, ut effectum sacramenti sine sacramentalibus posset conferre. Sed clavis est quoddam sacramentale. Ergo non indigebat clavi; et sic frustra eam habuisset.  
 
@@ -52,7 +54,7 @@ Sed contra est quod Apoc. 3, 7, dicitur: *qui habet clavem David*, etc.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non soli sacerdotes claves habeant. Dicit enim Isidorus, quod *ostiarii inter bonos et malos habent judicium; dignos recipiunt, et indignos rejiciunt*. Sed haec est definitio clavium, ut ex dictis patet. Ergo non solum sacerdotes, sed etiam ostiarii, claves habent.***
+Ulterius. Videtur quod non soli sacerdotes claves habeant. Dicit enim Isidorus, quod *ostiarii inter bonos et malos habent judicium; dignos recipiunt, et indignos rejiciunt*. Sed haec est definitio clavium, ut ex dictis patet. Ergo non solum sacerdotes, sed etiam ostiarii, claves habent.  
 
 Praeterea, claves sacerdotibus dantur, dum per unctionem potestatem divinitus accipiunt. Sed reges etiam potestatem in populum fidelem divinitus habent, et unctione sanctificantur. Ergo non soli sacerdotes habent claves.  
 
@@ -66,7 +68,7 @@ Praeterea, per potestatem clavium efficitur aliquis medius inter populum et Deum
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quidam dixerunt, quod in veteri lege erant claves apud sacerdotes, quia eis erat commissum imponere poenam pro delicto, ut dicitur Levitici 5; quod ad claves pertinere videtur; sed fuerunt tunc incompletae, nunc autem per Christum in sacerdotibus novae legis perfectae sunt. Sed hoc videtur esse contra intentionem apostoli in epistola ad Hebraeos 9, ubi enim sacerdotium Christi praefertur sacerdotio legali per hoc quod Christus assistit pontifex futurorum bonorum, ad tabernaculum caeleste introducens per proprium sanguinem, non manufactum, in quod introducebat sacerdotium veteris legis per sanguinem hircorum et taurorum. Unde patet quod potestas illius sacerdotii non se extendebat ad caelestia, sed ad figuras caelestium. Et ideo secundum alios dicendum, quod non habebant claves, sed in eis figura clavium praecessit.***
+Respondeo dicendum ad primam quaestionem, quod quidam dixerunt, quod in veteri lege erant claves apud sacerdotes, quia eis erat commissum imponere poenam pro delicto, ut dicitur Levitici 5; quod ad claves pertinere videtur; sed fuerunt tunc incompletae, nunc autem per Christum in sacerdotibus novae legis perfectae sunt. Sed hoc videtur esse contra intentionem apostoli in epistola ad Hebraeos 9, ubi enim sacerdotium Christi praefertur sacerdotio legali per hoc quod Christus assistit pontifex futurorum bonorum, ad tabernaculum caeleste introducens per proprium sanguinem, non manufactum, in quod introducebat sacerdotium veteris legis per sanguinem hircorum et taurorum. Unde patet quod potestas illius sacerdotii non se extendebat ad caelestia, sed ad figuras caelestium. Et ideo secundum alios dicendum, quod non habebant claves, sed in eis figura clavium praecessit.  
 
 Ad primum ergo dicendum, quod clavis regni caelestis consequitur ad sacerdotium, quo homo in caelestia introducitur; non autem talis erat ordo sacerdotii levitici; et ideo claves caeli non habuerunt, sed claves terreni tabernaculi.  
 
@@ -76,7 +78,7 @@ Ad tertium dicendum, quod habebant spiritualem potestatem, qua per sacramenta le
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod virtus aliquid agendi est in instrumento et in per se agente, non eodem modo; sed in per se agente perfectius. Potestas autem clavium quam nos habemus, et aliorum sacramentorum virtus, est instrumentalis; sed in Christo est sicut in per se agente ad salutem nostram; per auctoritatem quidem, inquantum est Deus, sed per meritum, inquantum est homo. Clavis autem de ratione sua exprimit potestatem aperiendi et claudendi, sive aliquis aperiat quasi principale agens, sive quasi minister; et ideo in Christo oportet ponere clavem, sed altero modo quam sit in ejus ministris; et ideo dicitur, quod habet clavem excellentiae.***
+Ad secundam quaestionem dicendum, quod virtus aliquid agendi est in instrumento et in per se agente, non eodem modo; sed in per se agente perfectius. Potestas autem clavium quam nos habemus, et aliorum sacramentorum virtus, est instrumentalis; sed in Christo est sicut in per se agente ad salutem nostram; per auctoritatem quidem, inquantum est Deus, sed per meritum, inquantum est homo. Clavis autem de ratione sua exprimit potestatem aperiendi et claudendi, sive aliquis aperiat quasi principale agens, sive quasi minister; et ideo in Christo oportet ponere clavem, sed altero modo quam sit in ejus ministris; et ideo dicitur, quod habet clavem excellentiae.  
 
 Ad primum ergo dicendum, quod character de sua ratione dicit aliquid ab aliquo derivatum; et ideo potestas clavium, quae est in nobis a Christo derivata, sequitur characterem quo Christo conformamur; sed in Christo non sequitur characterem, sed principalem formam.  
 
@@ -84,7 +86,7 @@ Ad secundum dicendum, quod clavis illa quam Christus habuit, non erat sacramenta
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod clavis est duplex. Una quae se extendit ad ipsum caelum immediate, removendo impedimenta introitus in caelum per dimissionem peccati; et haec vocatur clavis ordinis; et hanc soli sacerdotes habent, quia ipsi soli ordinantur populo in his quae directe sunt ad Deum. Alia clavis est quae non directe se extendit ad ipsum caelum, sed mediante militante Ecclesia, per quam aliquis ad caelum vadit, dum per eam aliquis excluditur vel admittitur ad consortium Ecclesiae militantis per excommunicationem et absolutionem; et haec vocatur clavis jurisdictionis in foro causarum; et ideo hanc etiam non sacerdotes habere possunt, sicut archidiaconi vel clerici, et alii qui excommunicare possunt, ut supra dictum est, dist. praec., quaest. 2, art. 2, quaestiunc. 2; sed non proprie dicitur clavis caeli, sed quaedam dispositio ad ipsam.***
+Ad tertiam quaestionem dicendum, quod clavis est duplex. Una quae se extendit ad ipsum caelum immediate, removendo impedimenta introitus in caelum per dimissionem peccati; et haec vocatur clavis ordinis; et hanc soli sacerdotes habent, quia ipsi soli ordinantur populo in his quae directe sunt ad Deum. Alia clavis est quae non directe se extendit ad ipsum caelum, sed mediante militante Ecclesia, per quam aliquis ad caelum vadit, dum per eam aliquis excluditur vel admittitur ad consortium Ecclesiae militantis per excommunicationem et absolutionem; et haec vocatur clavis jurisdictionis in foro causarum; et ideo hanc etiam non sacerdotes habere possunt, sicut archidiaconi vel clerici, et alii qui excommunicare possunt, ut supra dictum est, dist. praec., quaest. 2, art. 2, quaestiunc. 2; sed non proprie dicitur clavis caeli, sed quaedam dispositio ad ipsam.  
 
 Ad primum ergo dicendum, quod ostiarii habent clavem custodiendi ea quae in templo materiali continentur, et habent judicium a tali templo excludendi et admittendi, non quidem sua auctoritate judicantes qui sint digni vel indigni, sed judicium sacerdotis exequentes; ut sic quodammodo executores potestatis sacerdotalis videantur.  
 
@@ -100,7 +102,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod etiam sancti homines non sacerdotes usum clavium habeant. Absolutio enim et ligatio quae fit per claves, efficaciam habet ex merito passionis Christi. Sed illi maxime passioni Christi conformantur qui per patientiam et alias virtutes Christum passum sequuntur. Ergo videtur quod etiam si non habeant sacerdotalem ordinem quod possint ligare et solvere.***
+Ad secundum sic proceditur. Videtur quod etiam sancti homines non sacerdotes usum clavium habeant. Absolutio enim et ligatio quae fit per claves, efficaciam habet ex merito passionis Christi. Sed illi maxime passioni Christi conformantur qui per patientiam et alias virtutes Christum passum sequuntur. Ergo videtur quod etiam si non habeant sacerdotalem ordinem quod possint ligare et solvere.  
 
 Praeterea, Hebr. 7, 7, dicitur: *sine ulla contradictione, quod minus est, a majori benedicitur*. Sed in spiritualibus, secundum Augustinum, *hoc est majus esse quod melius esse*. Ergo meliores, qui scilicet habent plus de caritate, possunt alios benedicere absolvendo; et sic idem quod prius.  
 
@@ -108,7 +110,7 @@ Sed contra, cujus est potentia, ejus est actio, secundum Philosophum. Sed clavis
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod mali sacerdotes usum clavium non habeant. Joan. 20, ubi usus clavium apostolis traditur, Spiritus Sancti donum praemittitur. Sed mali non habent spiritum sanctum. Ergo non habent usum clavium.***
+Ulterius. Videtur quod mali sacerdotes usum clavium non habeant. Joan. 20, ubi usus clavium apostolis traditur, Spiritus Sancti donum praemittitur. Sed mali non habent spiritum sanctum. Ergo non habent usum clavium.  
 
 Praeterea, nullus sapiens rex dispensationem sui thesauri suo inimico committit. Sed usus clavium in dispensatione consistit thesauri caelestis regis, qui est ipsa sapientia. Ergo mali, qui per peccatum sunt ejus hostes, non habent usum clavium.  
 
@@ -122,7 +124,7 @@ Praeterea, iniquitas ministri non potest auferre liberalitatem domini. Sed sacer
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod schismatici et haeretici, excommunicati et suspensi et degradati, usum clavium habeant. Sicut enim potestas clavium dependet ab ordine, ita et potestas conficiendi. Sed non possunt amittere usum potestatis conficiendi; quia si conficiunt, confectum est; quamvis peccent conficientes, ut supra, dist. 13, quaest. 1, art. 1, quaestiunc. 3, et 4, dictum est. Ergo etiam non possunt amittere usum clavium.***
+Ulterius. Videtur quod schismatici et haeretici, excommunicati et suspensi et degradati, usum clavium habeant. Sicut enim potestas clavium dependet ab ordine, ita et potestas conficiendi. Sed non possunt amittere usum potestatis conficiendi; quia si conficiunt, confectum est; quamvis peccent conficientes, ut supra, dist. 13, quaest. 1, art. 1, quaestiunc. 3, et 4, dictum est. Ergo etiam non possunt amittere usum clavium.  
 
 Praeterea, omnis potestas spiritualis activa in eo qui habet usum liberi arbitrii, exit in actum quando vult. Sed potestas clavium adhuc manet in praedictis; quia cum non detur nisi in ordine, oporteret reordinari eos, quando ad Ecclesiam redeunt. Ergo cum sit potentia activa, possunt in actum ejus exire cum voluerit.  
 
@@ -134,7 +136,7 @@ Praeterea, nullus absolvitur a peccato secundum hoc quod peccat. Sed aliquis a p
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod agens per se et agens instrumentale in hoc differunt, quod agens instrumentale non inducit in effectu similitudinem suam, sed similitudinem principalis agentis. Principale autem agens inducit similitudinem suam; et ideo ex hoc aliquid constituitur principale agens, quod habet aliquam formam, quam in alterum transfundere potest; non autem ex hoc constituitur agens instrumentale, sed ex hoc quod est applicatum a principali agente ad effectum aliquem inducendum. Cum ergo in actu clavium principale agens sit Christus ut Deus per auctoritatem, et ut homo per meritum; ex ipsa plenitudine divinae bonitatis in eo, et ex perfectione gratiae consequitur quod possit in actum clavium. Sed homo alius non potest in actum clavium sicut per se agens; quia nec ipse alteri gratiam, qua remittuntur peccata, dare potest; nec sufficienter mereri: et ideo non est nisi sicut agens instrumentale. Unde et ille qui effectum clavium consequitur, non assimilatur utenti clavibus, sed Christo; et propter hoc quantumcumque aliquis habeat de gratia, non potest pertingere ad effectum clavium, nisi applicetur ad hoc quasi minister per ordinis susceptionem.***
+Respondeo dicendum ad primam quaestionem, quod agens per se et agens instrumentale in hoc differunt, quod agens instrumentale non inducit in effectu similitudinem suam, sed similitudinem principalis agentis. Principale autem agens inducit similitudinem suam; et ideo ex hoc aliquid constituitur principale agens, quod habet aliquam formam, quam in alterum transfundere potest; non autem ex hoc constituitur agens instrumentale, sed ex hoc quod est applicatum a principali agente ad effectum aliquem inducendum. Cum ergo in actu clavium principale agens sit Christus ut Deus per auctoritatem, et ut homo per meritum; ex ipsa plenitudine divinae bonitatis in eo, et ex perfectione gratiae consequitur quod possit in actum clavium. Sed homo alius non potest in actum clavium sicut per se agens; quia nec ipse alteri gratiam, qua remittuntur peccata, dare potest; nec sufficienter mereri: et ideo non est nisi sicut agens instrumentale. Unde et ille qui effectum clavium consequitur, non assimilatur utenti clavibus, sed Christo; et propter hoc quantumcumque aliquis habeat de gratia, non potest pertingere ad effectum clavium, nisi applicetur ad hoc quasi minister per ordinis susceptionem.  
 
 Ad primum ergo dicendum, quod sicut inter instrumentum et effectum non exigitur similitudo secundum convenientiam in forma, sed secundum proportionem instrumenti ad effectum; ita etiam nec inter instrumentum et principale agens. Talis autem similitudo est in sanctis hominibus ad Christum passum, et talis similitudo eis usum clavium non confert.  
 
@@ -142,7 +144,7 @@ Ad secundum dicendum, quod quamvis purus homo non possit alteri ex condigno grat
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut participatio formae quae est inducenda in effectum, non facit instrumentum; ita nec subtractio talis formae tollit usum instrumenti; et ideo, cum homo sit tantum instrumentaliter agens in usu clavium; quantumcumque per peccatum sit gratia privatus, per quam fit remissio peccatorum, nullo tamen modo privatur usu clavium.***
+Ad secundam quaestionem dicendum, quod sicut participatio formae quae est inducenda in effectum, non facit instrumentum; ita nec subtractio talis formae tollit usum instrumenti; et ideo, cum homo sit tantum instrumentaliter agens in usu clavium; quantumcumque per peccatum sit gratia privatus, per quam fit remissio peccatorum, nullo tamen modo privatur usu clavium.  
 
 Ad primum ergo dicendum, quod donum Spiritus Sancti exigitur ad usum clavium, non ut sine quo fieri non possit, sed quia sine eo incongrue fit ex parte utentis; quamvis subjiciens se clavibus effectum clavium consequatur.  
 
@@ -154,7 +156,7 @@ Ad quartum dicendum, quod intercessio quam sacerdos malus ex propria persona fac
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in omnibus praedictis manet clavium potestas quantum ad essentiam; sed usus impeditur ex defectu materiae. Cum enim usus clavium praelationem in utente requirat respectu ejus in quem utitur, ut supra dictum est, propria materia in quam exercetur usus clavium, est homo subditus: et quia per ordinationem Ecclesiae subditur unus alii, ideo etiam per Ecclesiae praelatos potest subtrahi alicui ille qui erat ei subjectus. Unde cum Ecclesia haereticos et schismaticos et alios hujusmodi privet, subtrahendo subditos vel simpliciter vel quantum ad aliquid; quantum ad hoc quo privati sunt, non possunt usum clavium habere.***
+Ad tertiam quaestionem dicendum, quod in omnibus praedictis manet clavium potestas quantum ad essentiam; sed usus impeditur ex defectu materiae. Cum enim usus clavium praelationem in utente requirat respectu ejus in quem utitur, ut supra dictum est, propria materia in quam exercetur usus clavium, est homo subditus: et quia per ordinationem Ecclesiae subditur unus alii, ideo etiam per Ecclesiae praelatos potest subtrahi alicui ille qui erat ei subjectus. Unde cum Ecclesia haereticos et schismaticos et alios hujusmodi privet, subtrahendo subditos vel simpliciter vel quantum ad aliquid; quantum ad hoc quo privati sunt, non possunt usum clavium habere.  
 
 Ad primum ergo dicendum, quod materia sacramenti Eucharistiae, in quam suam potestatem exercet sacerdos, non est homo, sed panis triticeus, et in baptismo homo simpliciter: unde sicut si subtraheretur haeretico panis triticeus, conficere non posset; ita nec si subtrahatur praelatio, absolvere poterit: potest tamen baptizare et conficere, quamvis ad sui damnationem.  
 
@@ -168,7 +170,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod sacerdos possit uti clave quam habet, in quemlibet hominem. Potestas enim clavium in sacerdotes descendit ex illa Domini auctoritate qua dixit: *accipite spiritum sanctum: quorum remiseritis peccata, remittuntur eis*. Sed illud indeterminate dixit de omnibus. Ergo habens clavem indeterminate potest ea uti in quoslibet.***
+Ad tertium sic proceditur. Videtur quod sacerdos possit uti clave quam habet, in quemlibet hominem. Potestas enim clavium in sacerdotes descendit ex illa Domini auctoritate qua dixit: *accipite spiritum sanctum: quorum remiseritis peccata, remittuntur eis*. Sed illud indeterminate dixit de omnibus. Ergo habens clavem indeterminate potest ea uti in quoslibet.  
 
 Praeterea, clavis corporalis quae aperit unam seram, aperit omnes alias ejusdem modi. Sed omne peccatum cujuslibet hominis est ejusdem rationis obstaculum respectu introitus caeli. Ergo si potest unum hominem sacerdos per clavem quam habet, absolvere, poterit et quoslibet alios.  
 
@@ -180,7 +182,7 @@ Praeterea, judicium spirituale debet esse ordinatius quam temporale. Sed in judi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod sacerdos non possit semper suum subditum absolvere. Sicut enim Augustinus in littera dicit, *nullus officio sacerdotis uti debet, nisi immunis ab illis sit quae in aliis judicat*. Sed quandoque contingit quod sacerdos est particeps criminis quod subditus suus commisit; sicut cum mulierem subditam cognovit. Ergo videtur quod non possit semper in suos subditos potestate clavium uti.***
+Ulterius. Videtur quod sacerdos non possit semper suum subditum absolvere. Sicut enim Augustinus in littera dicit, *nullus officio sacerdotis uti debet, nisi immunis ab illis sit quae in aliis judicat*. Sed quandoque contingit quod sacerdos est particeps criminis quod subditus suus commisit; sicut cum mulierem subditam cognovit. Ergo videtur quod non possit semper in suos subditos potestate clavium uti.  
 
 Praeterea, per potestatem clavium homo ab omnibus defectibus curatur. Sed quandoque alicui peccato annexus est irregularitatis defectus, vel excommunicationis sententia, a qua simplex sacerdos liberare non potest. Ergo videtur quod non possit uti clavium potestate in illos qui talibus irretiti sunt.  
 
@@ -192,7 +194,7 @@ Praeterea, gratia omne peccatum tollit, quantumcumque sit parva. Sed sacerdos sa
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aliquis non possit uti clavibus in suum superiorem. Actus enim sacramentalis quilibet requirit propriam materiam. Sed propria materia usus clavium, ut dictum est, est persona subjecta. Ergo in eo qui non est subditus, non potest clavibus sacerdos uti.***
+Ulterius. Videtur quod aliquis non possit uti clavibus in suum superiorem. Actus enim sacramentalis quilibet requirit propriam materiam. Sed propria materia usus clavium, ut dictum est, est persona subjecta. Ergo in eo qui non est subditus, non potest clavibus sacerdos uti.  
 
 Praeterea, Ecclesia militans imitatur triumphantem. Sed in caelesti Ecclesia inferior angelus nunquam purgat aut illuminat aut perficit superiorem. Ergo nec aliquis sacerdos inferior potest uti actione hierarchica, quae est per absolutionem, in superiorem.  
 
@@ -204,7 +206,7 @@ Praeterea, absolutio quae fit per virtutem clavium, ordinatur ad perceptionem Eu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod ea quae circa singularia operari oportet, non eodem modo omnibus competunt: unde, sicut post generalia medicinae praecepta oportet adhiberi medicos, quibus praecepta universalia medicinae singulis infirmis, secundum quod debent, aptentur; ita in quolibet principatu praeter illum qui universaliter praecepta legis tradit, oportet esse aliquos qui ea singulis, secundum quod debent, adaptent; et propter hoc etiam in caelesti hierarchia sub potestatibus, qui indistincte praesunt, ponuntur principatus, qui singulis provinciis distribuuntur; et sub his angeli qui singulis hominibus in custodiam deputantur, ut patet ex his quae dist. 20 dicta sunt in 2 Lib. Unde et ita esse debit in praelatione Ecclesiae militantis, ut apud aliquem esset praelatio indistincte in omnes, et sub hoc essent alii qui super diversos distinctam potestatem acciperent. Et quia usus clavium requirit aliquam praelationis potestatem, per quam ille in quem usus clavium communicatur, efficitur materia propria illius actus; ideo ille qui habet indistinctam potestatem super omnes, potest uti clavibus in quemlibet. Illi autem qui sub eodem distinctas potestates acceperunt; non in quoslibet possunt uti clavibus, sed in eos tantum qui eis in sortem venerunt, nisi in necessitatis articulo, ubi nemini sacramenta sunt deneganda.***
+Respondeo dicendum, ad primam quaestionem, quod ea quae circa singularia operari oportet, non eodem modo omnibus competunt: unde, sicut post generalia medicinae praecepta oportet adhiberi medicos, quibus praecepta universalia medicinae singulis infirmis, secundum quod debent, aptentur; ita in quolibet principatu praeter illum qui universaliter praecepta legis tradit, oportet esse aliquos qui ea singulis, secundum quod debent, adaptent; et propter hoc etiam in caelesti hierarchia sub potestatibus, qui indistincte praesunt, ponuntur principatus, qui singulis provinciis distribuuntur; et sub his angeli qui singulis hominibus in custodiam deputantur, ut patet ex his quae dist. 20 dicta sunt in 2 Lib. Unde et ita esse debit in praelatione Ecclesiae militantis, ut apud aliquem esset praelatio indistincte in omnes, et sub hoc essent alii qui super diversos distinctam potestatem acciperent. Et quia usus clavium requirit aliquam praelationis potestatem, per quam ille in quem usus clavium communicatur, efficitur materia propria illius actus; ideo ille qui habet indistinctam potestatem super omnes, potest uti clavibus in quemlibet. Illi autem qui sub eodem distinctas potestates acceperunt; non in quoslibet possunt uti clavibus, sed in eos tantum qui eis in sortem venerunt, nisi in necessitatis articulo, ubi nemini sacramenta sunt deneganda.  
 
 Ad primum ergo dicendum, quod ad absolutionem a peccato requiritur duplex potestas; scilicet potestas ordinis, et potestas jurisdictionis. Prima quidem potestas est aequaliter in omnibus sacerdotibus, non autem secunda; et ideo ubi Dominus, Joan. 20, dedit omnibus apostolis communiter potestatem remittendi peccata, intelligitur de potestate quae consequitur ordinem; unde et sacerdotibus, quando ordinantur, illa verba dicuntur. Sed Petro dedit singulariter potestatem remittendi peccata, Matth. 16, ut intelligatur quod ipse prae aliis habet potestatem jurisdictionis. Potestas autem ordinis, quantum est de se, se extendit ad omnes absolvendos; et ideo indeterminate Dominus dixit: *quorum remiseritis peccata*; intelligens tamen quod usus illius potestatis esse deberet, praesupposita potestate Petro collata, secundum ipsius ordinationem.  
 
@@ -214,7 +216,7 @@ Ad tertium dicendum, quod populus Israel unus populus erat, et unum tantum templ
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod potestas ordinis, quantum est de se, extendit se ad omnia peccata remittenda; sed quia ad usum hujus potestatis, ut dictum est, requiritur jurisdictio, quae a majoribus in inferiores descendit, ideo potest superior aliqua sibi reservare, in quibus judicium inferiori non committat: alias de quolibet peccato potest simplex sacerdos jurisdictionem habens absolvere. Sunt autem quinque casus, in quibus oportet quod simplex sacerdos ad superiorem poenitentem remittat. Primus est, quando est solemnis imponenda poenitentia, quia ejus minister proprius episcopus est, ut supra, distinc. 14, qu. 1, art. 5, quaestiunc. 3 ad 3, dictum est. Secundus est de excommunicatis, quando inferior sacerdos non potest absolvere. Tertius, quando invenit irregularitatem contractam, pro cujus dispensatione debet ad superiorem remittere. Quartus de incendiariis. Quintus, quando est consuetudo in aliquo episcopatu quod enormia crimina ad terrorem episcopo reservantur: quia consuetudo dat vel aufert in talibus potestatem.***
+Ad secundam quaestionem dicendum, quod potestas ordinis, quantum est de se, extendit se ad omnia peccata remittenda; sed quia ad usum hujus potestatis, ut dictum est, requiritur jurisdictio, quae a majoribus in inferiores descendit, ideo potest superior aliqua sibi reservare, in quibus judicium inferiori non committat: alias de quolibet peccato potest simplex sacerdos jurisdictionem habens absolvere. Sunt autem quinque casus, in quibus oportet quod simplex sacerdos ad superiorem poenitentem remittat. Primus est, quando est solemnis imponenda poenitentia, quia ejus minister proprius episcopus est, ut supra, distinc. 14, qu. 1, art. 5, quaestiunc. 3 ad 3, dictum est. Secundus est de excommunicatis, quando inferior sacerdos non potest absolvere. Tertius, quando invenit irregularitatem contractam, pro cujus dispensatione debet ad superiorem remittere. Quartus de incendiariis. Quintus, quando est consuetudo in aliquo episcopatu quod enormia crimina ad terrorem episcopo reservantur: quia consuetudo dat vel aufert in talibus potestatem.  
 
 Ad primum ergo dicendum, quod in tali casu nec sacerdos deberet audire confessionem mulieris cum qua peccavit, de illo peccato, sed deberet ad alium remittere; nec illa deberet ei confiteri, sed deberet licentiam petere ad alium eundi, vel ad superiorem recurrere, si ille licentiam denegaret, tum propter periculum, tum quia est minor verecundia. Si tamen absolveret, absolutum esset. Quod enim Augustinus dicit, quod non debet esse in eodem crimine, intelligendum est secundum congruitatem, non secundum necessitatem sacramenti.  
 
@@ -224,7 +226,7 @@ Ad tertium dicendum, quod ratio illa procedit quantum ad ea in quibus sibi super
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod potestas clavium, quantum est de se, extendit se ad omnes, ut dictum est; sed quod in aliquem sacerdos non possit potestate clavium uti, contingit ex hoc quod ejus potestas est ad aliquos specialiter limitata. Unde ille qui limitavit, potest extendere in quem voluerit: et propter hoc etiam potest sibi dare potestatem in seipsum, quamvis ipse in seipsum uti clavium potestate non possit: quia potestas clavium requirit pro materia aliquod subjectum, et ita alium: sibi ipsi enim aliquis subjectus esse non potest.***
+Ad tertiam quaestionem dicendum, quod potestas clavium, quantum est de se, extendit se ad omnes, ut dictum est; sed quod in aliquem sacerdos non possit potestate clavium uti, contingit ex hoc quod ejus potestas est ad aliquos specialiter limitata. Unde ille qui limitavit, potest extendere in quem voluerit: et propter hoc etiam potest sibi dare potestatem in seipsum, quamvis ipse in seipsum uti clavium potestate non possit: quia potestas clavium requirit pro materia aliquod subjectum, et ita alium: sibi ipsi enim aliquis subjectus esse non potest.  
 
 Ad primum ergo dicendum, quod quamvis episcopus, quem simplex sacerdos absolvit, sit superior eo simpliciter, tamen est inferior eo, inquantum se ei ut peccatorem sacerdoti subjecit.  
 
@@ -246,7 +248,7 @@ primo, quid sit;
 
 ***Quid sit***
 
-***Ad primum sic proceditur. Videtur quod male assignetur quaedam definitio de correptione fraterna: *correptio fraterna est admonitio fratris de emendatione delictorum fraterna caritate*. Admonere enim videtur esse idem quod ad mentem reducere; et sic non est nisi oblitorum. Sed correptio fraterna non est tantum de peccatis oblitis. Ergo male ponitur in definitione ejus *admonitio*.***
+Ad primum sic proceditur. Videtur quod male assignetur quaedam definitio de correptione fraterna: *correptio fraterna est admonitio fratris de emendatione delictorum fraterna caritate*. Admonere enim videtur esse idem quod ad mentem reducere; et sic non est nisi oblitorum. Sed correptio fraterna non est tantum de peccatis oblitis. Ergo male ponitur in definitione ejus *admonitio*.  
 
 Praeterea, correptio in quamdam violentiam sonat; quia idem videtur esse *corripere* quod simul *rapere*. Ergo cum *admonitio* in quamdam lenitatem sonet, videtur quod correptio non sit admonitio.  
 
@@ -282,7 +284,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod non quilibet ex praecepto ad correptionem fraternam teneatur. Dicit enim Hieronymus: *sacerdotes studeant illud evangelicum implere: si peccaverit in te frater tuus*, etc. Ergo videtur quod soli sacerdotes ad hoc teneantur.***
+Ad secundum sic proceditur. Videtur quod non quilibet ex praecepto ad correptionem fraternam teneatur. Dicit enim Hieronymus: *sacerdotes studeant illud evangelicum implere: si peccaverit in te frater tuus*, etc. Ergo videtur quod soli sacerdotes ad hoc teneantur.  
 
 Praeterea, quicumque aliquem corripit, curam illius gerit. Sed soli praelati tenentur ex praecepto curam de subditis habere. Ergo soli ipsi tenentur ex praecepto ad corripiendum.  
 
@@ -300,7 +302,7 @@ Praeterea, eleemosynae spirituales sunt magis necessariae quam corporales. Sed e
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod peccator corripiens non peccet. 1 Joan. 1, 8: *si dixerimus quod peccatum non habemus, nos ipsos seducimus*. Si ergo peccatoris non est corripere, nullus poterit alterum corripere.***
+Ulterius. Videtur quod peccator corripiens non peccet. 1 Joan. 1, 8: *si dixerimus quod peccatum non habemus, nos ipsos seducimus*. Si ergo peccatoris non est corripere, nullus poterit alterum corripere.  
 
 Praeterea, nullus propter peccatum excusatur ab observatione praecepti. Ergo peccator tenetur ad corripiendum, cum sit in praecepto; et si non corripiat, peccat. Si ergo peccando corriperet, esset perplexus; quod est inconveniens.  
 
@@ -314,7 +316,7 @@ Praeterea, Philosophus dicit in 10 *Ethica*, quod sermones qui sunt de moribus, 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aliquis non teneatur corripere praelatum suum. Galat. 2, super illud: *in faciem ejus restitit*, dicit *Glossa*, *ut par*. Ergo si par non fuisset, non potuisset eum corripere; et ita videtur quod fraterna correptio non se extendat ad praelatos.***
+Ulterius. Videtur quod aliquis non teneatur corripere praelatum suum. Galat. 2, super illud: *in faciem ejus restitit*, dicit *Glossa*, *ut par*. Ergo si par non fuisset, non potuisset eum corripere; et ita videtur quod fraterna correptio non se extendat ad praelatos.  
 
 Praeterea, Dionysius in epistolis suis, arguit Demophilum monachum de hoc quod sacerdotem corripuerat, quia erat eo superior. Ergo fraterna correptio non se extendit ad superiores.  
 
@@ -330,7 +332,7 @@ Praeterea, Eccl. 17, 12, dicitur quod *Deus mandavit unicuique de proximo suo*. 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod per legis divinae praecepta homines sufficienter in hac vita ordinantur. Sicut autem in exercitu, ut Philosophus dicit in 11 *Metaph*., est duplex ordo; unus quo totus exercitus ad ducem ordinatur; alius quo singuli de exercitu ordinantur ad invicem: ita et in conversatione hujus vitae, omnium qui in aliqua communitate congregantur, est duplex ordo; unus ad praelatum, alius singulorum ad invicem. Unde uterque ordo debet praecepto divinae legis institui. Ordo autem praelati ad subditum consistit in hoc ut omnes subditi ad bonum commune, quod praelatus intendere debet, tendant, et quod praelatus eos ad hoc dirigat. Ordo autem singulorum ad invicem est ut unusquisque alteri auxilium praebeat ad bonum suum consequendum; unde sicut praelatis ex praecepto incumbit ut subditorum curam gerant, et subditis ut praelatis obediant; ita et coaequalibus ad invicem, ut sibi invicem auxilium ferant non solum in corporalibus, sed etiam in spiritualibus magis; et ideo cum maximum auxilium homini per correptionem in spiritualibus adhibeatur, praeceptum divinae legis ad hoc se extendere debet.***
+Respondeo dicendum ad primam quaestionem, quod per legis divinae praecepta homines sufficienter in hac vita ordinantur. Sicut autem in exercitu, ut Philosophus dicit in 11 *Metaph*., est duplex ordo; unus quo totus exercitus ad ducem ordinatur; alius quo singuli de exercitu ordinantur ad invicem: ita et in conversatione hujus vitae, omnium qui in aliqua communitate congregantur, est duplex ordo; unus ad praelatum, alius singulorum ad invicem. Unde uterque ordo debet praecepto divinae legis institui. Ordo autem praelati ad subditum consistit in hoc ut omnes subditi ad bonum commune, quod praelatus intendere debet, tendant, et quod praelatus eos ad hoc dirigat. Ordo autem singulorum ad invicem est ut unusquisque alteri auxilium praebeat ad bonum suum consequendum; unde sicut praelatis ex praecepto incumbit ut subditorum curam gerant, et subditis ut praelatis obediant; ita et coaequalibus ad invicem, ut sibi invicem auxilium ferant non solum in corporalibus, sed etiam in spiritualibus magis; et ideo cum maximum auxilium homini per correptionem in spiritualibus adhibeatur, praeceptum divinae legis ad hoc se extendere debet.  
 
 Ad primum ergo dicendum, quod Hieronymus loquitur de correptione cui adjungitur correctio, quod patet ex hoc quod subjungit: *quae est enim misericordia parcere uni, et omnes in discrimen adducere?* Et talis correptio solum praelatis competit.  
 
@@ -346,7 +348,7 @@ Ad sextum dicendum, quod *Glossa* intelligenda est, quando peccatur in Deum, ide
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, quod ille qui est in simili peccato, vel majori, non potest alium corripere, sive illud notorium sit sive occultum; propter hoc quod alterum judicans, contra seipsum sententiam profert. Alii autem dicunt, quod si sit peccatum occultum, absque peccato potest corripere; non autem si sit notorium. Utraque autem opinio quantum ad aliquid vera est. Dupliciter enim aliquis corripere potest. Uno modo ex officio, sicut praelati corripiunt; et sic videtur prima opinio habere veritatem; quia quandocumque aliquis indigne utitur officio suo, peccat; ille autem qui est in mortali peccato, etiam occulto, indigne utitur officio praelationis; unde peccat corripiendo, vel quidquid aliud proprii officii exequatur. Alio modo aliquis corripit ex zelo caritatis, non ut Ecclesiae minister: et tunc in correptione non potest esse peccatum, nisi ratione scandali, quod non consurgit nisi de peccato notorio; et secundum hoc secunda opinio habet veritatem. Unde sive praelatus, sive subditus etiam in peccato notorio existens, aliquem peccare viderit, potest eum admonere non per modum corripientis, sed per modum rogantis, ut exemplo suo non incitetur ad malum.***
+Ad secundam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, quod ille qui est in simili peccato, vel majori, non potest alium corripere, sive illud notorium sit sive occultum; propter hoc quod alterum judicans, contra seipsum sententiam profert. Alii autem dicunt, quod si sit peccatum occultum, absque peccato potest corripere; non autem si sit notorium. Utraque autem opinio quantum ad aliquid vera est. Dupliciter enim aliquis corripere potest. Uno modo ex officio, sicut praelati corripiunt; et sic videtur prima opinio habere veritatem; quia quandocumque aliquis indigne utitur officio suo, peccat; ille autem qui est in mortali peccato, etiam occulto, indigne utitur officio praelationis; unde peccat corripiendo, vel quidquid aliud proprii officii exequatur. Alio modo aliquis corripit ex zelo caritatis, non ut Ecclesiae minister: et tunc in correptione non potest esse peccatum, nisi ratione scandali, quod non consurgit nisi de peccato notorio; et secundum hoc secunda opinio habet veritatem. Unde sive praelatus, sive subditus etiam in peccato notorio existens, aliquem peccare viderit, potest eum admonere non per modum corripientis, sed per modum rogantis, ut exemplo suo non incitetur ad malum.  
 
 Ad primum ergo dicendum, quod peccatum veniale non reddit aliquem indignum executione officii sacri, sicut peccatum mortale; nec ita natum est scandalizare, quia ab eis nullus invenitur immunis; et ideo existens in peccato veniali non peccat, etiam si de eodem corripiat, nisi probabiliter ex correptione scandalum sequi videatur: et de hoc peccato, scilicet veniali, loquitur auctoritas inducta.  
 
@@ -362,7 +364,7 @@ Ad sextum dicendum, quod ratio illa procedit de peccato manifesto.
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dicunt, quod correptio fraterna non se extendit ad praelatos; tum quia non debet homo os ponere in caelum; tum quia de facili scandalizari possunt praelati, si a subditis corripiantur. Sed hoc nihil est; quia praelati, inquantum peccant, non sunt caelum, et secundum hoc eis correptio debetur; nec iterum qui eos caritative corripit, in eos os ponit, idest contra eos, sed pro eis, quia ad utilitatem eorum eos admonet; nec iterum praesumere debet quis de praelato quod injuste scandalizetur, nisi contrarium constet, quia ipsi sunt in statu perfectionis; scandalum autem passivum non convenit perfectis, sed pusillis.***
+Ad tertiam quaestionem dicendum, quod quidam dicunt, quod correptio fraterna non se extendit ad praelatos; tum quia non debet homo os ponere in caelum; tum quia de facili scandalizari possunt praelati, si a subditis corripiantur. Sed hoc nihil est; quia praelati, inquantum peccant, non sunt caelum, et secundum hoc eis correptio debetur; nec iterum qui eos caritative corripit, in eos os ponit, idest contra eos, sed pro eis, quia ad utilitatem eorum eos admonet; nec iterum praesumere debet quis de praelato quod injuste scandalizetur, nisi contrarium constet, quia ipsi sunt in statu perfectionis; scandalum autem passivum non convenit perfectis, sed pusillis.  
 
 Et ideo dicendum est, quod praelatus ex hoc quod est persona publica, et vicem Dei super subditos gerens, non amittit ea quae sunt propria illius singularis personae; et ideo omnia illa quae debentur alicui ex affectu fraterno, qui ad omnes homines habendus est, etiam praelato debentur, sicut etiam ipse aliis debet ea quae affectus caritatis expostulat; nec ab his ratione praelationis excusatur. Et ideo, secundum alios, praeceptum de fraterna correptione etiam ad praelatos se extendit, ut corripiantur a subditis; et sicut ea quae sunt caritatis ad subditos praelatus taliter gerere debet, ut nullum auctoritati praejudicium generetur; *ne dum nimium servatur humilitas, regendi frangatur auctoritas*, ut Augustinus dicit; ita correptio ad praelatos taliter debet fieri, ne aliquid reverentiae subtrahatur; et ideo dicitur 1 Timoth. 5, 1: *seniorem ne increpaveris, sed obsecra ut patrem*.  
 
@@ -382,7 +384,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non oporteat quod fraterna admonitio praecedat denuntiationem Ecclesiae faciendam. Quia secundum Augustinum in Lib. *de Mendacio*, ex factis sanctorum colligimus quid in Scripturis sentire debeamus. Sed Christus denuntiavit Judam discipulis ante admonitionem factam, ut patet Joan. 13: similiter Petrus damnavit Ananiam et Saphiram ante aliquam admonitionem, ut patet Act. 5: similiter Paulus reprehendit Petrum coram omnibus, nulla monitione secreta praecedente. Ergo videtur quod non semper admonitio fraterna debet praecedere denuntiationem Ecclesiae faciendam.***
+Ad tertium sic proceditur. Videtur quod non oporteat quod fraterna admonitio praecedat denuntiationem Ecclesiae faciendam. Quia secundum Augustinum in Lib. *de Mendacio*, ex factis sanctorum colligimus quid in Scripturis sentire debeamus. Sed Christus denuntiavit Judam discipulis ante admonitionem factam, ut patet Joan. 13: similiter Petrus damnavit Ananiam et Saphiram ante aliquam admonitionem, ut patet Act. 5: similiter Paulus reprehendit Petrum coram omnibus, nulla monitione secreta praecedente. Ergo videtur quod non semper admonitio fraterna debet praecedere denuntiationem Ecclesiae faciendam.  
 
 Praeterea, majori periculo magis debet homo obviare. Sed aliquando majus periculum imminet, si peccatum non publicetur, quam sit malum infamatio unius hominis: quia peccator latens potest multos corrumpere in fide vel moribus; quod non posset facere in publicum ejus peccato deducto: aut etiam infamatur multitudo, si peccatum unus de multitudine committat; nec talis infamia aboletur nisi per poenam peccati, quae non potest inferri, nisi peccatum ad publicum deducatur. Ergo nec semper debet denuntiationem admonitio praecedere.  
 
@@ -398,7 +400,7 @@ Praeterea, propter hoc fraterna correptio est in praecepto, ut homo fratrem suum
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod inconvenienter in ordine correptionis ponatur testium inductio. Quia aut iste correptionis ordo intelligitur de peccato publico, aut de occulto. Si de publico, non oportet inducere testes, quia manifestum est. Si de occulto, non oportet manifestari nescientibus, quia sic esset homo proditor criminis. Ergo videtur quod nullo modo testium adhibitio requiratur.***
+Ulterius. Videtur quod inconvenienter in ordine correptionis ponatur testium inductio. Quia aut iste correptionis ordo intelligitur de peccato publico, aut de occulto. Si de publico, non oportet inducere testes, quia manifestum est. Si de occulto, non oportet manifestari nescientibus, quia sic esset homo proditor criminis. Ergo videtur quod nullo modo testium adhibitio requiratur.  
 
 Praeterea, Augustinus in regula, ubi ordinem fraternae correctionis ponit, dicit quod *aliis* (scilicet testibus) *peccatum fratris demonstratur, per quos convincendus est, si negaverit*. Sed aliquis non potest convinci per unum testem, quia *in ore duorum vel trium testium debet stare omne verbum*. Ergo inconvenienter dicitur quod testis unus vel duo adhibeantur; quia semper debent esse duo ad minus.  
 
@@ -408,7 +410,7 @@ Praeterea, dicere praelato, est dicere Ecclesiae. Sed Augustinus dicit in regula
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod correptio quantum ad monitionem secretam debet esse dura. Matth. 3, 7, et Lucae 3, 7, Joannes Baptista dixit: *genimina viperarum*; quae fuit durissima correptio. Ergo videtur quod debeat aliquis alterum dure corrigere.***
+Ulterius. Videtur quod correptio quantum ad monitionem secretam debet esse dura. Matth. 3, 7, et Lucae 3, 7, Joannes Baptista dixit: *genimina viperarum*; quae fuit durissima correptio. Ergo videtur quod debeat aliquis alterum dure corrigere.  
 
 Praeterea, Tit. 1, 13, dicitur: *argue illos dure*.  
 
@@ -420,7 +422,7 @@ Praeterea, Augustinus dicit: *corripiat justus in misericordia, et arguat*. Ergo
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod secundum Philosophum in 5 *Ethica*, minus malum, ex hoc quod praeeligitur respectu magis mali, accipit rationem magis boni; et ideo medicus corporalis hominem, si potest, ab infirmitate totaliter liberat; si autem non potest, negligit minus malum, ut occurrat magis malo; sicut amputat unum membrum, ne totum corpus inficiatur; et hunc ordinem dominus servari praecepit, cum peccatoribus corripiendo spiritualiter medicamur. Peccator autem ex peccato duo mala incurrit; innocentiae damnum, et famae dispendium: et ideo prius tentandum est ut taliter innocentia restituatur quod fama etiam conservetur.***
+Respondeo dicendum ad primam quaestionem, quod secundum Philosophum in 5 *Ethica*, minus malum, ex hoc quod praeeligitur respectu magis mali, accipit rationem magis boni; et ideo medicus corporalis hominem, si potest, ab infirmitate totaliter liberat; si autem non potest, negligit minus malum, ut occurrat magis malo; sicut amputat unum membrum, ne totum corpus inficiatur; et hunc ordinem dominus servari praecepit, cum peccatoribus corripiendo spiritualiter medicamur. Peccator autem ex peccato duo mala incurrit; innocentiae damnum, et famae dispendium: et ideo prius tentandum est ut taliter innocentia restituatur quod fama etiam conservetur.  
 
 Sin autem, debet negligi fama, ut conscientia reparetur, famae etiam dispendio subveniri, si aliter non potest, debet quantum potest; ut scilicet primo paucis, et postea multis crimen prodatur.  
 
@@ -444,7 +446,7 @@ Ad quintum dicendum, quod praeceptum alicui factum a praelato suo de peccato alt
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quando medicina levis, a qua incipiendum est, non proficit, tunc debet medicus efficaciorem medicinam apponere; non tamen statim efficacissimam, sed paulatim procedendum est, ut quam minus potest fieri, gravetur ille cui medicari volumus.***
+Ad secundam quaestionem dicendum, quod quando medicina levis, a qua incipiendum est, non proficit, tunc debet medicus efficaciorem medicinam apponere; non tamen statim efficacissimam, sed paulatim procedendum est, ut quam minus potest fieri, gravetur ille cui medicari volumus.  
 
 Et ideo si prima medicina, scilicet admonitio praecedens secreta, non prosit, quia peccatum iterari videtur; oportet ad ulteriora procedi, ut paucis ostendatur, et talibus qui possunt prodesse, et de quibus non creditur quod obsint diffamando; et illi principaliter adhibentur ut admoneant; secundo ut admonitionis factae sint testes; tertio ut negantem coram Ecclesia convincant. Unde Augustinus dicit in *Regula*: *prius tamen*, scilicet quam in publicum prodatur, *alteri vel tertio demonstretur, ut duorum vel trium possit ore convinci*.  
 
@@ -460,13 +462,13 @@ Talis enim debet esse ordo correptionis fraternae, quem Augustinus in *Regula* t
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod secundum Gregorium in *Pastorali*, *nonnulla peccata sunt leviter corrigenda. Nam cum non malitia, sed ignorantia sola vel infirmitate delinquitur, necesse est ut magno moderamine ipsa delicti correptio temperetur. . . . Nonnulla autem sunt vehementer increpanda, ut cum culpa ab auctore non agnoscitur quanti sit ponderis, ab increpantis ore sentiatur; et cum quis sibi malum quod perpetravit levigat, hoc contra se graviter ex corripientis asperitate pertimescat*. Et quamvis ille loquatur de correptione quae praelatis competit, tamen etiam in correptione quae ab aliis fit, hoc est observandum; quamvis fraterna correptio semper magis debeat ad lenitatem accedere; quia non ex auctoritate officii, sed ex caritatis affectu exhibeatur.***
+Ad tertiam quaestionem dicendum, quod secundum Gregorium in *Pastorali*, *nonnulla peccata sunt leviter corrigenda. Nam cum non malitia, sed ignorantia sola vel infirmitate delinquitur, necesse est ut magno moderamine ipsa delicti correptio temperetur. . . . Nonnulla autem sunt vehementer increpanda, ut cum culpa ab auctore non agnoscitur quanti sit ponderis, ab increpantis ore sentiatur; et cum quis sibi malum quod perpetravit levigat, hoc contra se graviter ex corripientis asperitate pertimescat*. Et quamvis ille loquatur de correptione quae praelatis competit, tamen etiam in correptione quae ab aliis fit, hoc est observandum; quamvis fraterna correptio semper magis debeat ad lenitatem accedere; quia non ex auctoritate officii, sed ex caritatis affectu exhibeatur.  
 
 Et per hoc patet solutio ad objecta.  
 
 Expositio textus  
 
-****Moyses et Aaron sacerdotes*. Moyses sacerdos dicitur non officio oblationes offerendi, sed quia sacra primitus populo dedit immediate a Deo accepta, Psal. 98, 6: *Moyses et Aaron in sacerdotibus ejus*.***
+*Moyses et Aaron sacerdotes*. Moyses sacerdos dicitur non officio oblationes offerendi, sed quia sacra primitus populo dedit immediate a Deo accepta, Psal. 98, 6: *Moyses et Aaron in sacerdotibus ejus*.  
 
 *Cum esset pontifex anni illius, prophetavit*. Sciendum, quod in verbo Caiphae fuerunt quatuor. Primo inspiratio immissa, per quam utilitas passionis Christi cordi ejus inspirata fuit a Spiritu Sancto; secundo intellectus quem ipse ex illa inspiratione concepit; tertio intentio exprimendi intellectum suum, et ad effectum perducendi; quarto verba ipsa prolata. Primum quidem fuit quaedam participatio prophetiae; secundum fuit falsus intellectus a seipso; tertium fuit iniqua intentio: quantum*quantum.—quartum* PLE. fuit vera locutio, quamvis non secundum intellectum ejus; et ideo primum fuit a Spiritu Sancto, non autem secundum, neque tertium; sed quartum aliqualiter fuit a Spiritu Sancto regulante verba illius ut consonarent inspirationi ab eo factae.  
 

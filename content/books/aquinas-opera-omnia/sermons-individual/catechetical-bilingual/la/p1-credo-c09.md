@@ -1,6 +1,8 @@
 # A. 8 - I Believe in the Holy Spirit
 
-***Sicut dictum est, Verbum Dei est Filius Dei, sicut verbum hominis est conceptio intellectus. Sed quandoque homo habet verbum mortuum, scilicet quando homo cogitat quae debet facere, sed tamen voluntas faciendi non adest ei; sicut quando homo credit et non operatur, fides eius dicitur mortua, ut dicitur Iac. II. Verbum autem Dei est vivum. Heb. IV, 12: *vivus est enim sermo Dei*; et ideo necesse est quod Deus habeat secum voluntatem et amorem. Unde Augustinus in Lib. de Trin.: *verbum quod insinuare intendimus, cum amore notitia est*. Sicut autem Verbum Dei est Filius Dei, ita amor Dei est Spiritus Sanctus. Et inde est quod tunc homo habet Spiritum Sanctum, quando diligit Deum. Apostolus, Rom. V, 5: *caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis*.***
+***Credo in Spiritum Sanctum***
+
+Sicut dictum est, Verbum Dei est Filius Dei, sicut verbum hominis est conceptio intellectus. Sed quandoque homo habet verbum mortuum, scilicet quando homo cogitat quae debet facere, sed tamen voluntas faciendi non adest ei; sicut quando homo credit et non operatur, fides eius dicitur mortua, ut dicitur Iac. II. Verbum autem Dei est vivum. Heb. IV, 12: *vivus est enim sermo Dei*; et ideo necesse est quod Deus habeat secum voluntatem et amorem. Unde Augustinus in Lib. de Trin.: *verbum quod insinuare intendimus, cum amore notitia est*. Sicut autem Verbum Dei est Filius Dei, ita amor Dei est Spiritus Sanctus. Et inde est quod tunc homo habet Spiritum Sanctum, quando diligit Deum. Apostolus, Rom. V, 5: *caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis*.  
 
 Fuerunt autem aliqui qui male sentientes de Spiritu Sancto, dixerunt quod erat creatura, et quod erat minor Patre et Filio, et quod erat servus et minister Dei. Et ideo sancti ad removendum hos errores addiderunt quinque verba in alio Symbolo de Spiritu Sancto.  
 

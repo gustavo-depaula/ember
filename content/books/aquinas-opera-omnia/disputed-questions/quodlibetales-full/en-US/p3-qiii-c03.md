@@ -1,5 +1,7 @@
 # On Men
 
+***Certain things pertaining to certain men of more excellent state***
+
 ***Regarding teachers***
 
 ***Question 4***
@@ -22,9 +24,9 @@ second, whether those who hear diverse masters of theology holding contrary opin
 
 Article 1  
 
-***Whether it is licit for someone to seek for himself a license of teaching in theology***
+Whether it is licit for someone to seek for himself a license of teaching in theology  
 
-***To the first we proceed thus. It seems that it is licit for no one to seek for himself a license of teaching in theology.***
+To the first we proceed thus. It seems that it is licit for no one to seek for himself a license of teaching in theology.  
 
 Obj. 1: For teachers of Sacred Scripture exercise the ministry of the word of God just as prelates do. But it is not licit for someone to seek the prelacy; nay, rather, as Gregory says in his *Register*, ecclesiastical dignities must be conferred upon those refusing, yet must be denied to those seeking.Gregory the Great, *Register of the Epistles* 7.5 (CCSL 140:448; PL 77:858–59). Therefore, neither is it licit for someone to seek the magisterial chair to teach Sacred Scripture.  
 
@@ -48,9 +50,9 @@ Reply Obj. 3: It must be said that whoever does not fear dangers seems to spurn 
 
 Article 2  
 
-***Whether those who hear diverse masters of theology holding contrary opinions are excused from sin if they follow the false opinions of their masters***
+Whether those who hear diverse masters of theology holding contrary opinions are excused from sin if they follow the false opinions of their masters  
 
-***To the second we proceed thus. It seems that those who hear diverse masters holding diverse opinions are excused from the sin of error if they follow the opinions of their masters.***
+To the second we proceed thus. It seems that those who hear diverse masters holding diverse opinions are excused from the sin of error if they follow the opinions of their masters.  
 
 Obj. 1: For the Lord says: *upon the seat of Moses sat the scribes and pharisees; observe and do all the things* which they say *to you* (Matt 23:2). Much more, therefore, must those things be observed which are handed on by teachers of Sacred Scripture. Therefore, those who follow their opinions do not sin.  
 
@@ -86,9 +88,9 @@ fourth, whether they sin who make someone swear that he will not enter religion.
 
 Article 1  
 
-***Whether it is licit to induce youths to enter religion through the obligation of a vow or oath***
+Whether it is licit to induce youths to enter religion through the obligation of a vow or oath  
 
-***To the first we proceed thus. It seems that it is not licit to induce youths into religion by vow or oath.***
+To the first we proceed thus. It seems that it is not licit to induce youths into religion by vow or oath.  
 
 Obj. 1: For it is illicit to act against a prohibition of the Church. But Innocent IV prohibited, in certain letters directed to religious, the undertaking of vows of this sort. Therefore, they sin who by vow or oath presume to obligate others to religion.Cf. Gerard of Abbeville, “Duplex quaestio,” in *Antonianum* 22 (1938): q. 1, 195; John Peckham, “On Child Oblates,” *Archivum Franciscanum historicum* (*AFH*) 8 (1915): arg. 1, 414.  
 
@@ -138,7 +140,7 @@ Article 2
 
 ***Whether those thus obligated by vow or oath can remain in the world without sin***
 
-***To the second we proceed thus. It seems that those obligated by vow or oath to enter religion are not held to enter.***
+To the second we proceed thus. It seems that those obligated by vow or oath to enter religion are not held to enter.  
 
 Obj. 1: For *every action of Christ is our instruction*. But the Lord did not impose necessity upon men, but left this to their free will. Hence he said to a certain man, as contained in Matthew 19:17, *if you will to enter into life, observe the mandates*; and again, *if you will to be perfect, go and sell all things which you have and give to the poor*;Matthew 19:21. and the Apostle says: *yet concerning virgins I have no precept of the Lord, yet I give counsel* (1 Cor 7:25). Therefore, it seems that no men are held by necessity to enter religion on account of oath or vow.Cf. Gerard of Abbeville, “Duplex quaestio,” q. 2, 198; Bernard of Clairvaux, *Instructio sacerdotis*, ch. 6 (PL 184:778); Innocent III, *Sermones de tempore*, homily 22, “On the Solemnity of the Ascension” (PL 217:411).  
 
@@ -174,7 +176,7 @@ Article 3
 
 ***Whether it is licit to induce sinners to religion***
 
-***To the third we proceed thus. It seems that those who are sinners in the world must not be drawn to religion.***
+To the third we proceed thus. It seems that those who are sinners in the world must not be drawn to religion.  
 
 Obj. 1: For it is necessary to be exercised in the works of the precepts before transferring to the fulfillment of the counsels, since from the lesser one comes to the greater.Gerard of Abbeville, “Duplex quaestio,” q. 2, a. 2, 200; cf. John Peckham, “On Child Oblates,” *AFH* 8 (1915), arg. 17, ad 17, 417, 436. But those who are sinners in the world are not exercised in the works of the precepts. Therefore, they must not be drawn or received in religion where it is necessary for the counsels to be observed.  
 
@@ -196,7 +198,7 @@ Article 4
 
 ***Whether they sin who make someone swear that he will not enter religion***
 
-***To the fourth we proceed thus. It seems that someone without sin can bind another by swearing an oath that he will not enter religion.***
+To the fourth we proceed thus. It seems that someone without sin can bind another by swearing an oath that he will not enter religion.  
 
 Obj. 1: For that which is licit to be done is licit to swear. But it is licit for some secular man that he should never enter religion. Therefore, licitly he can swear this. Therefore, he who binds someone by such an oath does not sin, because he does not make him swear something illicit.  
 
@@ -218,7 +220,7 @@ Question 6
 
 ***Regarding what befits those already living in religion***
 
-***Then there were three questions concerning what applies to those living in religion.***
+Then there were three questions concerning what applies to those living in religion.  
 
 First, whether a religious, who should have nothing individually or in common, can give alms from those things given to him as alms by others;  
 
@@ -228,9 +230,9 @@ third, whether the state of religion is more perfect than the state of parish pr
 
 Article 1  
 
-***Whether a religious, who should have nothing as his own or in common, can give alms from these things given to him as alms by others***
+Whether a religious, who should have nothing as his own or in common, can give alms from these things given to him as alms by others  
 
-***To the first we proceed thus. It seems that religious, who have nothing individually or in common, cannot give alms which profit them.***
+To the first we proceed thus. It seems that religious, who have nothing individually or in common, cannot give alms which profit them.  
 
 Obj. 1: For alms do not profit the giver unless they are given in the proper way. But such religious cannot give alms in the proper way: for alms should be given from one’s property, according to Tobit 4:9: *if there should be much for you, bestow abundantly; yet if a little, strive that that itself should be imparted freely*. Therefore, such religious, who have nothing of their own either individually or in common, cannot give alms which profit them. And if they give any alms from alms given to them, this profits those from whom they received the alms.  
 
@@ -242,9 +244,9 @@ Reply Obj. 1: And through this the response to the objections is clear.
 
 Article 2  
 
-***Whether someone living in religion, knowing that his father is gravely oppressed by necessity, can leave without the license of his prelate to help his father***
+Whether someone living in religion, knowing that his father is gravely oppressed by necessity, can leave without the license of his prelate to help his father  
 
-***To the second we proceed thus. It seems that a religious, if he sees that his father is in necessity, can leave the cloister to help his father even without the license of his prelate.***
+To the second we proceed thus. It seems that a religious, if he sees that his father is in necessity, can leave the cloister to help his father even without the license of his prelate.  
 
 Obj. 1: For the commandment of God must not be omitted on account of the traditions of men, whence the Lord says against certain men: *you have made the commandment of God ineffective on account of your traditions* (Matt 15:6). But a man is bound to help his parents by this divine precept: *honor thy father and thy mother* (Exod 20:12), in which indeed by honor there is understood the rendering of necessities. Therefore, it seems that with the observances of religion notwithstanding, which are statutes of men, any religious should leave the cloister to help his parents according to the precept of God.  
 
@@ -260,9 +262,9 @@ Reply Obj. 1: It must be said that a religious is held to fulfill that which per
 
 Article 3  
 
-***Whether the state of religion is more perfect than the state of parish priests or of archdeacons***
+Whether the state of religion is more perfect than the state of parish priests or of archdeacons  
 
-***To the third we proceed thus. It seems that parish priests and deaconsYves M.-J. Congar, “Saint Thomas et les archidiacres,” in *Revue thomiste* 57 (1957): 657–71. are of greater perfection than religious.***
+To the third we proceed thus. It seems that parish priests and deaconsYves M.-J. Congar, “Saint Thomas et les archidiacres,” in *Revue thomiste* 57 (1957): 657–71. are of greater perfection than religious.  
 
 Obj. 1: For Chrysostom says in his *Dialogue*: *if you should lead to me some such monk as, so that I might speak according to exaggeration, was Elijah . . . , nevertheless he must not be compared to that man who, handed over to the peoples and compelled to bear the sins of the many, persevered unmoved and strong*.John Chrysostom, *On the Priesthood* 6.7 (PG 48:683–84; SC 272:324).  
 
@@ -346,7 +348,7 @@ Article 1
 
 ***On matrimony***
 
-***To the first we proceed thus. It seems that a woman who contracted matrimony with someone in the face of the Church after uttering a vow of continence can afterwards be united carnally to him without sin.***
+To the first we proceed thus. It seems that a woman who contracted matrimony with someone in the face of the Church after uttering a vow of continence can afterwards be united carnally to him without sin.  
 
 Obj. 1: For that which is done by the authority of the Church lacks sin since it is done by the authority of Christ, according to that line of the Apostle: *for what I have given, if I have given anything, on account of you have I given it in the person of Christ* (2 Cor 2:10). But the abovementioned woman by the very fact that she has contracted matrimony in the face of the Church, has received by the authority of the Church power for the act of matrimony, which is carnal union. Therefore, she does not sin if she unites to her husband carnally.  
 
@@ -368,7 +370,7 @@ Article 2
 
 ***On usury***
 
-***To the second we proceed thus. It seems that someone is held to return whatever he gains from usurious money.***
+To the second we proceed thus. It seems that someone is held to return whatever he gains from usurious money.  
 
 Obj. 1: For the Apostle says in Romans 11:16: *if the root is holy, also the branch*. Therefore, conversely, if the root is infected, so too is the branch; but the branch of this gain is infected and usurious. Therefore, the whole is infected and usurious. Therefore, he cannot licitly retain gain of this sort.Cf. William of Auxerre, *Summa aurea*, bk. 3, tract. 48, ch. 4, 3:935–37.  
 
@@ -412,7 +414,7 @@ Article 1
 
 ***Whether the soul is composed of matter and form***
 
-***To the first we proceed thus. It seems that the soul is composed of matter and form.***
+To the first we proceed thus. It seems that the soul is composed of matter and form.  
 
 Obj. 1: For the human intellect is compared to superior intellectual substances by its distance from simplicity. But everything distant from the simple has some composition, and the first composition is of matter and form. Therefore, the human soul is composed of matter and form.  
 
@@ -432,7 +434,7 @@ Question 9
 
 ***Regarding the knowledge of the soul***
 
-***Then there were questions about the soul as regards its knowledge. And about this there were two questions:***
+Then there were questions about the soul as regards its knowledge. And about this there were two questions:  
 
 first, whether a soul separated from the body knows another separated soul;  
 
@@ -442,7 +444,7 @@ Article 1
 
 ***Whether a soul separated from the body knows another separated soul***
 
-***To the first we proceed thus. It seems that a soul separated from the body does not know another soul of a man that it knew in this life.***
+To the first we proceed thus. It seems that a soul separated from the body does not know another soul of a man that it knew in this life.  
 
 Obj. 1: For all knowledge is made through some likeness. But in one soul there was not an express likeness of another soul in this life which could remain in it after death. Therefore, one separated soul cannot know another.  
 
@@ -474,9 +476,9 @@ Reply Obj. 2: It must be said that the Philosopher speaks of remembering and rem
 
 Article 2  
 
-***Whether it is licit to demand from someone dying that he announce his state after death***
+Whether it is licit to demand from someone dying that he announce his state after death  
 
-***To the second we proceed thus. It seems that it is not licit to require from someone dying that he reveal his state after death.***
+To the second we proceed thus. It seems that it is not licit to require from someone dying that he reveal his state after death.  
 
 Obj. 1: For it is not licit to inquire into what God wills to be hidden, according to Sirach 3:22: *you should not seek things higher than yourself*. But God wills the state of a soul after death to be hidden, which is clear from this: that to the rich man asking that Lazarus be sent to his living brothers, this is denied, as is said in Luke 16:17. Therefore, it is not licit to require this from those dying.  
 
@@ -490,7 +492,7 @@ Question 10
 
 ***Regarding the punishment of the soul***
 
-***Then there were questions concerning the soul as regards its punishment. And about this there were two questions:***
+Then there were questions concerning the soul as regards its punishment. And about this there were two questions:  
 
 first, whether a soul can suffer from bodily fire;  
 
@@ -500,7 +502,7 @@ Article 1
 
 ***Whether a soul can suffer from bodily fire***
 
-***To the first we proceed thus. It seems that a separated soul cannot suffer from bodily fire.***
+To the first we proceed thus. It seems that a separated soul cannot suffer from bodily fire.  
 
 Obj. 1: For the action of an agent is proportionate to the effect it has on the patient. But the action of fire, since it is a physical body, is a natural action which consists in moving. Therefore, nothing suffers from bodily fire except that which is moved. But the soul is not moved, since it is indivisible, and nothing indivisible is moved, as is proved in the sixth book of the *Physics*.Aristotle, *Physics* 6.4, 234b10–20. Therefore, the soul does not suffer from bodily fire.Cf. Aquinas, *Disputed Questions on the Soul*, q. 21, obj. 6.  
 
@@ -514,9 +516,9 @@ Reply Obj. 1: Hence the response is clear to that objected to the contrary, whic
 
 Article 2  
 
-***Whether the damned in hell rejoice over the punishments of their enemies whom they see are punished with them***
+Whether the damned in hell rejoice over the punishments of their enemies whom they see are punished with them  
 
-***To the second we proceed thus. It seems that the damned in hell rejoice over and are consoled by the punishments of their enemies whom they see are punished with them in hell.***
+To the second we proceed thus. It seems that the damned in hell rejoice over and are consoled by the punishments of their enemies whom they see are punished with them in hell.  
 
 Obj. 1: Because, on Isaiah 14:9: *all the princes of the earth have arisen from their thrones*, the Gloss of Jerome says that *solace for* evil *men is to have* their *enemies as allies of punishments*.Jerome, *On Isaiah*, bk. 5, 14:9 (CCSL 73:168; PL 24:165); *Glossa ordinaria*, at Isaiah 14:9, 4.162 (PL 113:1253).  
 
@@ -542,7 +544,7 @@ Regarding the body
 
 ***Regarding the sex of the body***
 
-***Then there was a question concerning man as regards the sex of the body, namely, whether if the first man had not sinned, as many males would have been born as females. And it seems that it would have been so.***
+Then there was a question concerning man as regards the sex of the body, namely, whether if the first man had not sinned, as many males would have been born as females. And it seems that it would have been so.  
 
 Obj. 1: For *in paradise* where, according to Augustine, there had been *an immaculate marriage bed and honorable nuptials*,Augustine, *On the Literal Interpretation of Genesis* 9.3, para. 6 (CSEL 28:271; PL 34:395). no one was continent and all used marriage to fulfill the precept of the Lord given to the first men: *increase and be multiplied and fill the earth* (Gen 1:28). But in the state of innocence no man had many wives nor any woman many husbands, nor had any man or woman undergone death. Therefore, it follows that as many males would have been born as females.  
 
@@ -596,7 +598,7 @@ Article 2
 
 ***Whether an erroneous conscience binds***
 
-***To the second we proceed thus. It seems that an erroneous conscience does not bind unto sin.***
+To the second we proceed thus. It seems that an erroneous conscience does not bind unto sin.  
 
 Obj. 1: For as Augustine says in the twenty-second book of *Against Faustus*, every sin is *against the eternal law*,Augustine, *Against Faustus the Manichee* 22.27 (CSEL 25:621; PL 42:418). which is the law of God. But sometimes erring conscience prohibits that which is not against the law of God, just as is clear in heretics who, with an erroneous conscience prohibiting, refuse to swear an oath or to eat meat or to drink wine. Therefore, it is not sin for them if they do this against conscience. And thus, an erroneous conscience does not oblige unto sin.  
 
@@ -618,7 +620,7 @@ Question 13
 
 ***On penance***
 
-***Then there were questions concerning penance. And about this there were two questions:***
+Then there were questions concerning penance. And about this there were two questions:  
 
 first, whether if some priest says to a penitent: *whatever of good you do, may it be for you unto the remission of sins*, there is sacramental satisfaction;  
 
@@ -626,9 +628,9 @@ second, whether, upon him who has omitted to say the divine office when held to 
 
 Article 1  
 
-***Whether there is sacramental satisfaction if some priest says to a penitent: may whatever good you do be for the remission of your sins***
+Whether there is sacramental satisfaction if some priest says to a penitent: may whatever good you do be for the remission of your sins  
 
-***To the first we proceed thus. It seems that the aforesaid satisfaction is not sacramental.***
+To the first we proceed thus. It seems that the aforesaid satisfaction is not sacramental.  
 
 Obj. 1: For sacramental satisfaction binds unto something. But that man to whom the abovementioned mode of satisfaction is declared is bound unto nothing. Therefore, it seems that there is not sacramental satisfaction.  
 
@@ -648,9 +650,9 @@ Reply Obj. 1: And through this the response to the objections is clear.
 
 Article 2  
 
-***Whether, upon him who has omitted to say the divine office when held to it, there can be imposed another penance for such an omission, or must it be imposed upon him that he repeat what he omitted***
+Whether, upon him who has omitted to say the divine office when held to it, there can be imposed another penance for such an omission, or must it be imposed upon him that he repeat what he omitted  
 
-***To the second we proceed thus. It seems that upon him who has omitted to say the divine office it must be enjoined that he say it again.***
+To the second we proceed thus. It seems that upon him who has omitted to say the divine office it must be enjoined that he say it again.  
 
 Obj. 1: For he who is held to fulfill some special debt cannot be freed unless he pay the same debt. If, therefore, someone was held to some special debt, namely, to say the divine office, it seems that he could not be absolved unless he paid this debt.  
 

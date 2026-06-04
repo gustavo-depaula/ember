@@ -1,5 +1,7 @@
 # Proposition 14
 
+115. In every soul there are sensible things because it is an example for them, and there are intellectual things in every soul, because it knows them.  
+
 > 116. And it is this way only because it is stretched between intellectual things which are not moved and sensible things which are moved.
 
 > 117. And because the soul is such, it happens that it imprints corporeal things, on account of which it is the cause of bodies and it is that which is caused from the intelligence which is before it.

@@ -1,10 +1,12 @@
 # C. 15 - Jeremiah’s prayer continued
 
+***Jeremiah’s prayer continued***
+
 ***Lecture 1***
 
 ***God rejects Jeremiah’s prayer***
 
-***^15:1^ And the Lord said to me: even if Moses and Samuel stood before me, my soul would not be for this people. Drive them out from before my face, and let them depart.***
+^15:1^ And the Lord said to me: even if Moses and Samuel stood before me, my soul would not be for this people. Drive them out from before my face, and let them depart.  
 
 > ^15:2^ But if they should say to you, ‘Where shall we go?’ you shall say to them: thus says the Lord: those who are for death, to death, and those who are for the sword, to the sword, and those who are for famine, to famine, and those who are for captivity, to captivity.
 
@@ -56,7 +58,7 @@ Lecture 2
 
 ***Cause of Israel’s rejection***
 
-***^15:5^ Who shall have mercy upon you, Jerusalem, or who shall grieve for you, or who shall go to seek your peace?***
+^15:5^ Who shall have mercy upon you, Jerusalem, or who shall grieve for you, or who shall go to seek your peace?  
 
 > ^15:6^ You have left me, says the Lord; you have gone away backwards; and I shall stretch out my hand upon you, and I will slay you. I am weary of entreating you.
 
@@ -94,7 +96,7 @@ Lecture 3
 
 ***Jeremiah prays for himself***
 
-***^15:10^ Woe to me, O my mother! Why did you give birth to me, a man of contention, a man of discord in the whole land? I have not lent on usury, nor has anyone lent to me on usury; all curse me.***
+^15:10^ Woe to me, O my mother! Why did you give birth to me, a man of contention, a man of discord in the whole land? I have not lent on usury, nor has anyone lent to me on usury; all curse me.  
 
 > ^15:11^ The Lord says: it shall surely be well with your remnant, and I shall surely help you in the time of affliction, and in the time of trouble against the enemy.
 
@@ -126,7 +128,7 @@ Lecture 4
 
 ***Jeremiah’s petition***
 
-***^15:15^ You know, O Lord; remember me, and visit me, and defend me from those that persecute me. Do not take me away in your forbearance; know that I have borne reproach for your sake.***
+^15:15^ You know, O Lord; remember me, and visit me, and defend me from those that persecute me. Do not take me away in your forbearance; know that I have borne reproach for your sake.  
 
 > ^15:16^ Your words were found, and I ate them; and your word has become the joy and gladness of my heart, for your name is called upon me, O Lord God of hosts.
 
@@ -156,7 +158,7 @@ Lecture 5
 
 ***God’s promise to Jeremiah***
 
-***^5:19^ Because of this the Lord spoke these things: if you will turn, I will turn you, and you will stand before my face; and if you will separate what is precious from what is base, you shall be as my mouth, and they shall be turned to you, and you shall not be turned to them.***
+^5:19^ Because of this the Lord spoke these things: if you will turn, I will turn you, and you will stand before my face; and if you will separate what is precious from what is base, you shall be as my mouth, and they shall be turned to you, and you shall not be turned to them.  
 
 > ^5:20^ And I shall make you as a strong brazen wall before this people; and they shall wage war against you, and they shall not prevail, because I am with you to save you, and I will rescue you, says the Lord.
 
@@ -180,4 +182,4 @@ Third, he promises liberation: ***and I will free***. *Do not fear, for I have r
 
 Collations  
 
-***It is to be noted that the saints ***glory*** (Jer 15:17) in the good of virtue. In the suffering of tribulations: *not only so, however, but we also glory in tribulations* (Rom 5:3); in the fellowship of their neighbors: *I have much confidence in you, and much of which to glory because of you* (2 Cor 7:4); in the purity of their conscience: *for our glory is this, the witness of our conscience* (2 Cor 1:12). The saints also glory in God, in the divine love shown by the passion: *may I not glory but in the cross of our Lord Jesus Christ* (Gal 6:14); in divine knowledge: ***let him who glories, glory in this, that he understands, and knows me*** (Jer 9:24); in divine imitation: *it is a great glory to follow the Lord; for length of days will be received from him* (Sir 23:38).***
+It is to be noted that the saints ***glory*** (Jer 15:17) in the good of virtue. In the suffering of tribulations: *not only so, however, but we also glory in tribulations* (Rom 5:3); in the fellowship of their neighbors: *I have much confidence in you, and much of which to glory because of you* (2 Cor 7:4); in the purity of their conscience: *for our glory is this, the witness of our conscience* (2 Cor 1:12). The saints also glory in God, in the divine love shown by the passion: *may I not glory but in the cross of our Lord Jesus Christ* (Gal 6:14); in divine knowledge: ***let him who glories, glory in this, that he understands, and knows me*** (Jer 9:24); in divine imitation: *it is a great glory to follow the Lord; for length of days will be received from him* (Sir 23:38).

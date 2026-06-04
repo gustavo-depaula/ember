@@ -1,6 +1,8 @@
 # D. 17 - The will of Christ
 
-***Postquam MagisterBruges manuscript omits *Magister.* determinavit de his quae ChristusBruges, Brussels, and Paris (841 and 842) manuscripts omit *Christus.* cum natura humana assumpsit, hic determinat de his quae per naturam humanam fecit. Operis autem humani voluntas principium est, sine quo opus nec meritorium nec laudabile est; et ideo dividitur haec pars in duas partes.***
+***Divisio textus***
+
+Postquam MagisterBruges manuscript omits *Magister.* determinavit de his quae ChristusBruges, Brussels, and Paris (841 and 842) manuscripts omit *Christus.* cum natura humana assumpsit, hic determinat de his quae per naturam humanam fecit. Operis autem humani voluntas principium est, sine quo opus nec meritorium nec laudabile est; et ideo dividitur haec pars in duas partes.  
 
 primo determinat de voluntate Christi;  
 
@@ -44,7 +46,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod in Christo non sit nisiEd. add una. voluntasEd. add *scilicet.* divina.***
+Ad primum sic proceditur. Videtur quod in Christo non sit nisiEd. add una. voluntasEd. add *scilicet.* divina.  
 
 Velle enim, cum sit agere, personae est. Sed in Christo est tantum una persona, scilicet divina. Ergo et tantum una voluntas, scilicet divina.  
 
@@ -58,7 +60,7 @@ Praeterea, sicut se habet unitas voluntatis ad unitatem naturae, ita se habet pl
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod in Christo non sit aliqua voluntas humana praeter voluntatem rationis. Quia, sicut dicit Damascenus in 3 lib., *voluntas naturam sequitur*. Sed in Christo sunt tantum duae naturae. Ergo et tantum duae voluntates. Ergo non est tertia praeter voluntatem divinam et rationis.***
+Ulterius, videtur quod in Christo non sit aliqua voluntas humana praeter voluntatem rationis. Quia, sicut dicit Damascenus in 3 lib., *voluntas naturam sequitur*. Sed in Christo sunt tantum duae naturae. Ergo et tantum duae voluntates. Ergo non est tertia praeter voluntatem divinam et rationis.  
 
 Praeterea, sicut ratio est alia virtus apprehensiva a sensitiva apprehensione, ita sensus interior a sensu exteriori. Sed non est alia voluntas consequens apprehensionem sensus exterioris ab ea quae consequitur apprehensionem sensus interioris. Ergo non oportet ponere aliam voluntatem quae consequatur apprehensionem rationis et sensitivae partis.  
 
@@ -74,7 +76,7 @@ Praeterea, Philosophus dicit in 2 *De anima*: *sicut trigonum in tetragono et te
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod in Christo sint plures voluntates rationis. Quia Damascenus in 2 lib., distinguit duas voluntates rationis, scilicet *thelesin*, quae estMoos: θέλησιν and βούλησιν. The Piana and Antwerp editions read *id est.* voluntas naturalis et *bulesin*, quae est voluntas rationalis. Sed nihil eorum quae ad perfectionem humanae naturae pertinent, Christo defuit. Ergo in Christo fuit duplex rationis voluntas.***
+Ulterius, videtur quod in Christo sint plures voluntates rationis. Quia Damascenus in 2 lib., distinguit duas voluntates rationis, scilicet *thelesin*, quae estMoos: θέλησιν and βούλησιν. The Piana and Antwerp editions read *id est.* voluntas naturalis et *bulesin*, quae est voluntas rationalis. Sed nihil eorum quae ad perfectionem humanae naturae pertinent, Christo defuit. Ergo in Christo fuit duplex rationis voluntas.  
 
 Praeterea, peccatum proprie est in voluntate. Dicitur autem aliquando esse in superiori ratione, aliquando autem in inferiori. Ergo utrique rationi respondet sua voluntas, quas oportet in Christo ponere.  
 
@@ -92,7 +94,7 @@ Praeterea, homo dicitur minor mundus, quia assimilatur universo. Sed in universo
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod voluntas consequitur naturam humanam: quod quidem Damascenus in 3 lib., quinque rationibus probat. Primo, quia quaelibet natura habet motum proprium: motus autem naturae rationalis proprius est ut libere in aliquid tendat, quod voluntatis est. Secundo, quia nullus addiscit velle, sicut nec alia naturalia. Tertio, quia natura in homine non ducit sicut in aliis, sed ducitur; unde oportet homini libertatem inesse in suo motu, et hoc est voluntatis. Quarto, quia homo secundum naturam suam ad imaginem Dei factus est: consistit autem imago in memoria, intelligentia, et voluntate. Quinto, quia invenitur in omnibus habentibus naturam.PLE: *naturam humanam*. Unde cum Christus nostram naturam integrePLE: *integre*. The other editions read *integram.*  assumpserit,—alias non esset verus homo—constat quod voluntatem assumpsit. Et ita in Christo est voluntas humana et divina: non quidem componentes unam voluntatem, sicut Eutyches dixit, quia tunc neutra esset in eo; sed utraque distincta in ipso manens, et sic in Christo sunt duae voluntates.***
+Respondeo dicendum ad primam quaestionem quod voluntas consequitur naturam humanam: quod quidem Damascenus in 3 lib., quinque rationibus probat. Primo, quia quaelibet natura habet motum proprium: motus autem naturae rationalis proprius est ut libere in aliquid tendat, quod voluntatis est. Secundo, quia nullus addiscit velle, sicut nec alia naturalia. Tertio, quia natura in homine non ducit sicut in aliis, sed ducitur; unde oportet homini libertatem inesse in suo motu, et hoc est voluntatis. Quarto, quia homo secundum naturam suam ad imaginem Dei factus est: consistit autem imago in memoria, intelligentia, et voluntate. Quinto, quia invenitur in omnibus habentibus naturam.PLE: *naturam humanam*. Unde cum Christus nostram naturam integrePLE: *integre*. The other editions read *integram.*  assumpserit,—alias non esset verus homo—constat quod voluntatem assumpsit. Et ita in Christo est voluntas humana et divina: non quidem componentes unam voluntatem, sicut Eutyches dixit, quia tunc neutra esset in eo; sed utraque distincta in ipso manens, et sic in Christo sunt duae voluntates.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod quamvis velle sit personae, tamen hoc est per potentiam naturalem quae est principium illius actus. Et ideo, quia in Christo sunt duae naturae, sunt duae voluntates; tamen est unus volens propter unitatem personae.  
 
@@ -102,7 +104,7 @@ Ad tertium dicendum quod voluntas dicitur tribus modis. Aliquando ipsa potentia 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod in Christo fuerunt omnia quae sunt de perfectione humanae naturae. Sicut autem de perfectione humanae naturae, inquantum homo est homo, est rationis voluntas; ita de perfectione hominis, inquantum animal, est appetitus sensibilis; et ideo oportet appetitum sensitivae partis in Christo ponere. Sed iste appetitus in aliis animalibus non habet rationem voluntatis, quia aguntur instinctu naturae potius quam agant, ut dicit Damascenus, et ita non habent liberum motum quem voluntas requirit. Tamen in homine potest etiam dici voluntas appetitus sensibilis,Bruges manuscript reads *Tamen potest in homine dici voluntas appetitus sensibilis*; the other editions read *Tamen appetitus sensibilis potest in homine dici voluntas.* inquantum est obediens rationi, ut dicitur in 1 *Eth.*; et ideo participat aliqualiter libertatem voluntatis, sicut et rectitudinem rationis, ut possit dici voluntas participative, sicut etEd. omit *et.* dicitur ratio per participationem. Et ita in Christo quantum ad humanam naturam dicimus duas voluntates, scilicet sensualitatis et rationis.***
+Ad secundam quaestionem dicendum quod in Christo fuerunt omnia quae sunt de perfectione humanae naturae. Sicut autem de perfectione humanae naturae, inquantum homo est homo, est rationis voluntas; ita de perfectione hominis, inquantum animal, est appetitus sensibilis; et ideo oportet appetitum sensitivae partis in Christo ponere. Sed iste appetitus in aliis animalibus non habet rationem voluntatis, quia aguntur instinctu naturae potius quam agant, ut dicit Damascenus, et ita non habent liberum motum quem voluntas requirit. Tamen in homine potest etiam dici voluntas appetitus sensibilis,Bruges manuscript reads *Tamen potest in homine dici voluntas appetitus sensibilis*; the other editions read *Tamen appetitus sensibilis potest in homine dici voluntas.* inquantum est obediens rationi, ut dicitur in 1 *Eth.*; et ideo participat aliqualiter libertatem voluntatis, sicut et rectitudinem rationis, ut possit dici voluntas participative, sicut etEd. omit *et.* dicitur ratio per participationem. Et ita in Christo quantum ad humanam naturam dicimus duas voluntates, scilicet sensualitatis et rationis.  
 
 Ad primum igiturEd. read ergo. dicendum quod in Christo sunt duae naturae integrae quarum una non est pars alterius, ex quibus immediate persona componitur; sed tamen altera naturarum, scilicet humana, dividitur in multas partiales naturas, sicut in naturam corporis et animae, in sensitivam et rationalem; et secundum hoc etiam voluntas humana in duas voluntates dividitur.  
 
@@ -116,7 +118,7 @@ Ad quintum dicendum quod in Christo aliquid accidit non praevisum a sensu exteri
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod distinctio potentiarum attenditur secundum diversas rationes.PLE: *rationes obiecti*. Objectum autem voluntatis est bonum secundum rationem boni. Unde cum ista ratio sit communis omnibus, non potest esse quod appetitus rationis secundum diversas potentias distinguatur. Et ideo in Christo et in aliis hominibus est tantum una potentia voluntatis. Possunt autem esse diversi respectus illius voluntatis, secundum quos aliquando invenitur distingui voluntas rationis. Magister autem attendens ad naturam potentiae, voluntatem rationis in Christo non distinguit.***
+Ad tertiam quaestionem dicendum quod distinctio potentiarum attenditur secundum diversas rationes.PLE: *rationes obiecti*. Objectum autem voluntatis est bonum secundum rationem boni. Unde cum ista ratio sit communis omnibus, non potest esse quod appetitus rationis secundum diversas potentias distinguatur. Et ideo in Christo et in aliis hominibus est tantum una potentia voluntatis. Possunt autem esse diversi respectus illius voluntatis, secundum quos aliquando invenitur distingui voluntas rationis. Magister autem attendens ad naturam potentiae, voluntatem rationis in Christo non distinguit.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod *thelisis* secundum Damascenum est voluntas naturalis, quae scilicet in modum naturae movetur in aliquid secundum bonitatem absolutam in ipsoThe Piana and Antwerp editions read *Christo*; the Nicolaï, Venice, Parma, and Vivès editions read *eo.* consideratam; *boulisis* autem est appetitus rationalis qui movetur in aliquod bonum ex ordine alterius. Et haec duo aliis nominibus a magistrisPLE: *a magistris*. The other editions read *Magistro.* dicuntur voluntas ut ratio et voluntas ut natura: secundum quae tamen non diversificatur potentia voluntatis, quia ista diversitas est ex eo quod movemurThe Vivès edition reads *movetur.* in aliquid sine collatione vel cum collatione. Conferre autem non est per se voluntatis, sed rationis. Unde illa divisio voluntatis non est per essentialia ipsius,Ed. omit *ipsius.* sed per accidentalia. Et propter hoc non sunt diversae potentiae, sed una differens secundum respectum ipsius ad apprehensionem praecedentem, quae potest esse cum collatione vel sine collatione. Tamen utraque istarum in Christo fuit, scilicet voluntas ut natura quae est *thelisis*, et voluntas ut ratio quae est *boulisis*.  
 
@@ -132,11 +134,11 @@ Ad sextum dicendum quod voluntas pietatis est voluntas ut natura, inquantum refu
 
 Articulus 2  
 
-***Utrum voluntas humana in Christo divinae voluntati semper conformis fuerit in volito***
+Utrum voluntas humana in Christo divinae voluntati semper conformis fuerit in volito  
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod voluntas humana in Christo semper divinae voluntati conformabaturBruges manuscript reads *conformetur.* in volito.***
+Ad secundum sic proceditur. Videtur quod voluntas humana in Christo semper divinae voluntati conformabaturBruges manuscript reads *conformetur.* in volito.  
 
 Quanto enim est major conformitas voluntatisThe Vivès edition omits *voluntatis.* humanae ad divinam, tanto est major rectitudo voluntatis quae in hoc consistit, sicut patet per Glossam super illud *psalm*. *rectos decet collaudatio*. Sed Christus habuit rectissimam voluntatem. Ergo conformabatur divinae voluntati etiam quantum ad volita.  
 
@@ -150,7 +152,7 @@ Praeterea, ipse dicitEd. read *dixit.* Luc. 22:42: *non mea voluntas, sed tua fi
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod voluntas sensualitatis sit contraria voluntati rationis in Christo. Sicut enim dicit Augustinus in lib. *De Trinit*., voluntatum contrarietas est ex contrarietate volitorum, non ex contrarietate naturarum, ut Manichaei dicunt. Sed volitaBruges manuscript reads *voluntas.* sensualitatis et rationis in Christo fuerunt contraria, quia sensualitas refutabat mortem quam ratio eligebat. Ergo contrariabatur voluntas sensualitatis voluntati rationis in Christo.***
+Ulterius, videtur quod voluntas sensualitatis sit contraria voluntati rationis in Christo. Sicut enim dicit Augustinus in lib. *De Trinit*., voluntatum contrarietas est ex contrarietate volitorum, non ex contrarietate naturarum, ut Manichaei dicunt. Sed volitaBruges manuscript reads *voluntas.* sensualitatis et rationis in Christo fuerunt contraria, quia sensualitas refutabat mortem quam ratio eligebat. Ergo contrariabatur voluntas sensualitatis voluntati rationis in Christo.  
 
 Praeterea, sicut dicit Damascenus, in Christo unicuique potentiae permittebatur operariEd. read *agere.* quod estEd. read *erat.* sibi proprium et naturale. Sed naturale est appetitui sensitivoEd. read *sensualitatis.* ut appetat hoc quod est delectabile secundum sensum. Ergo hoc appetebat in Christo. Sed ex hoc est pugna sensualitatis contra rationem in nobis quodBruges manuscript reads *quia.* sensualitas appetit delectabilia secundum sensum. Ergo in Christo hujusmodi pugna fuit.  
 
@@ -162,7 +164,7 @@ Praeterea, Augustinus *Super Gen*. dicit:The Vivès edition and Bruges manuscrip
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod voluntas rationis erat sibi contraria. Medium enim communicat cum utroque extremorum. Sed voluntas rationis media erat in Christo inter voluntatem divinam et sensualitatem. Ergo conformabatur utrique. Sed sensualitas volebat contrarium ejus quod Deus volebat. Ergo voluntas rationis volebat contraria.***
+Ulterius, videtur quod voluntas rationis erat sibi contraria. Medium enim communicat cum utroque extremorum. Sed voluntas rationis media erat in Christo inter voluntatem divinam et sensualitatem. Ergo conformabatur utrique. Sed sensualitas volebat contrarium ejus quod Deus volebat. Ergo voluntas rationis volebat contraria.  
 
 Praeterea, voluntas ut natura vult illud quod est ad conservationem naturae. Sed voluntas ut ratio in Christo volebat mortem et alia hujusmodi quae ad corruptionem naturae pertinent. Ergo in voluntate rationis erat contrarietas in Christo.  
 
@@ -174,7 +176,7 @@ Praeterea, sicut dicit Augustinus in lib. *Confess*.,PLE: *voluntatum*. contrari
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod cum voluntas sequatur rationem, processus voluntatis proportionatur processui rationis.***
+Respondeo dicendum ad primam quaestionem quod cum voluntas sequatur rationem, processus voluntatis proportionatur processui rationis.  
 
 Ratio autem habet aliquod principium per se notum, ad quod resolvendo reducit illud cujus cognitionem quaerit; et quando ad illud reducere poterit,Ed. read *potuerit* against Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, 755) manuscripts. habet certitudinem de re et sententiat quod ita est. Sed antequam ad istudEd. read *illud.* principium reducere possit, movetur aliquibus verisimilitudinibus; et si quidemEd. add *rationibus.* illis detineatur tamquam certis, decipitur et errat quandoque;PLE: *errat quandoque*. The other editions omit *quandoque.* si autem illis non detineatur, tunc habet opinionem unius partis cum formidine alterius. Finis autem, ut dicit Philosophus, 7 *Eth.*, se habet in voluntariis sicut principium in speculativis. Unde quando voluntas reducit aliquodEd. read *aliquid.* consiliabile in finem in quo totaliter quiescit, sententialiterBruges and Brussels manuscripts read *finaliter* against the Paris (841 and 842) manuscripts and the other editions. acceptat illud; si autem reducat in finem in quo non totaliter quiescit, trepidat inter utrumque. Sed si consideretur hoc quod est ad finem sine ordine ad finem, movetur voluntas in ipsum secundum bonitatem vel malitiam quam absolute in eo inveniet.Brussels manuscript reads *invenit.* Sed quia voluntas non sistit in motu quem habet circa hujusmodi, cum non feratur in ipsum sicut in finem; ideo non sententiat finaliter secundum praedictum suum motum de illo,Bruges manuscript adds *nisi.* quousque finem in quem ordinat illud, non consideret; unde voluntas non simpliciter vult illud, sed vellet, si nihilEd. read *nil.* repugnans inveniretur.  
 
@@ -196,7 +198,7 @@ Ad tertium dicendum quod quamvis Christus sciret quid Deus vellet in quolibet, n
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod pugna sive contrarietas sensualitatis ad rationem, in nobis causatur ex tribus. Primo ex diversitate volitorum; secundo, quia sensualitas in suum volitum effrenate et sine regimine rationis fertur; tertio ex hoc quod sensualitas effrenata tendens in suum volitum, retardat motum rationis et impedit vel in toto vel in parte. Et haec duo ultima in Christo non fuerunt, quia nunquam motus sensualitatisBrussels manuscript adds *ejus.* in aliquid ferebatur nisi praeordinaretur a ratione. EtBruges, Brussels, and Paris (842) manuscripts read *ut.* sic quamvis voluntas rationis non vellet illud volitum in quod sensualitas tendebat, volebat tamen quod sensualitas in illudEd. read *id.* tenderet, sicut dictum est de voluntate divina et humana. Similiter nec motus sensualitatis impediebat motum rationis, quia non erat violenta refusio de potentia in potentiam in Christo.***
+Ad secundam quaestionem dicendum quod pugna sive contrarietas sensualitatis ad rationem, in nobis causatur ex tribus. Primo ex diversitate volitorum; secundo, quia sensualitas in suum volitum effrenate et sine regimine rationis fertur; tertio ex hoc quod sensualitas effrenata tendens in suum volitum, retardat motum rationis et impedit vel in toto vel in parte. Et haec duo ultima in Christo non fuerunt, quia nunquam motus sensualitatisBrussels manuscript adds *ejus.* in aliquid ferebatur nisi praeordinaretur a ratione. EtBruges, Brussels, and Paris (842) manuscripts read *ut.* sic quamvis voluntas rationis non vellet illud volitum in quod sensualitas tendebat, volebat tamen quod sensualitas in illudEd. read *id.* tenderet, sicut dictum est de voluntate divina et humana. Similiter nec motus sensualitatis impediebat motum rationis, quia non erat violenta refusio de potentia in potentiam in Christo.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod contraria nata sunt fieri circa idem. Unde motus sensualitatis et rationis quamvis in contraria tendant, nonEd. add *tamen.* sunt contrarii, nisi quatenus ex sensualitate redundat in rationem aliquod impedimentum: vel quantum ad actum quo regit alias potentias, et hoc est quando effrenate sensualitas in suum objectum fertur; vel quantum ad actum proprium rationis, et hoc est quando sensualitas retardat vel extinguit motum rationis: quae duo in Christo non fuerunt, sicut in nobis sunt. Et ideo nulla fuit in Christo pugna vel contrarietas sensualitatis ad rationem.  
 
@@ -206,7 +208,7 @@ Ad tertium dicendum quod illa ratio probat diversitatem volitorum tantum.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod secundum voluntatem rationis, Christus diversa volebat, non tamen uno modo, sed alterum absolute, alterum autem sub conditione et imperfecte. Et ideo non erat contrarietas in voluntate, quia contrarietas in habitu vel inBruges manuscript reads *ex*; the Brussels manuscript omits *in.* actu est ex contraria ratione objecti. Ratio autem secundum quam unum contrariorum volebat voluntas ut ratio, et alterum volebatBruges manuscript reads *voluntas.* ut natura, non habet contrarietatem. Quod enim aliquid ex ordine ad finem bonitatem habeat, quod sine illo ordine in se malum esset, non habet aliquam repugnantiam secundum quam, ut dictum est, in diversa ferantur voluntas ut ratio et voluntas ut natura.***
+Ad tertiam quaestionem dicendum quod secundum voluntatem rationis, Christus diversa volebat, non tamen uno modo, sed alterum absolute, alterum autem sub conditione et imperfecte. Et ideo non erat contrarietas in voluntate, quia contrarietas in habitu vel inBruges manuscript reads *ex*; the Brussels manuscript omits *in.* actu est ex contraria ratione objecti. Ratio autem secundum quam unum contrariorum volebat voluntas ut ratio, et alterum volebatBruges manuscript reads *voluntas.* ut natura, non habet contrarietatem. Quod enim aliquid ex ordine ad finem bonitatem habeat, quod sine illo ordine in se malum esset, non habet aliquam repugnantiam secundum quam, ut dictum est, in diversa ferantur voluntas ut ratio et voluntas ut natura.  
 
 Unde patet responsio ad duas primas rationes quae concludunt diversitatem volitorum.  
 
@@ -222,7 +224,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod ChristoBruges manuscript as well as the Piana and Antwerp editions read *in Christo.* orare competens non fuerit.***
+Ad tertium sic proceditur. Videtur quod ChristoBruges manuscript as well as the Piana and Antwerp editions read *in Christo.* orare competens non fuerit.  
 
 Quia, sicut dicit Damascenus: *oratio est ascensus intellectus in Deum*. Sed ascendere in Deum, cum sit distantis a Deo, non competit intellectui Christi, qui semper Deo conjunctus erat. Ergo Christo non competit orare.  
 
@@ -236,7 +238,7 @@ Praeterea, officium pontificis est preces ad Deum fundere. Sed Christus est pont
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non sit ejus orare pro se, sed tantum pro aliis. Officium enim sacerdotis est eodem modo orare et hostias offerre. Sed Christus obtulit hostiam non pro se, sed pro aliis, ut dicitur Hebr. 7:27. Ergo nec pro se oravit.***
+Ulterius, videtur quod non sit ejus orare pro se, sed tantum pro aliis. Officium enim sacerdotis est eodem modo orare et hostias offerre. Sed Christus obtulit hostiam non pro se, sed pro aliis, ut dicitur Hebr. 7:27. Ergo nec pro se oravit.  
 
 Praeterea, in quolibet genere moventium est devenire ad primum movens quod non movetur secundum illum motum; sicut alterantia reducuntur ad primum alterans non alteratum. Sed Christus est primus inter orantes. Ergo ipse est orans et pro eo non oratur.  
 
@@ -248,7 +250,7 @@ Praeterea, per orationem aliquis sibiBruges and Paris (841 and 842) manuscripts 
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod oratio qua pro se oravit, fuit actus sensualitatis. Ejus enim est orare, cujus est velle. Sed non mori in Christo absolute non volebat nisi sensualitas. Ergo oratio qua mortem petebat a seBruges manuscript omits *a se.* excludi, erat actus sensualitatis.***
+Ulterius, videtur quod oratio qua pro se oravit, fuit actus sensualitatis. Ejus enim est orare, cujus est velle. Sed non mori in Christo absolute non volebat nisi sensualitas. Ergo oratio qua mortem petebat a seBruges manuscript omits *a se.* excludi, erat actus sensualitatis.  
 
 Praeterea, Magister dicit in littera quod *ex affectuBruges and Brussels manuscripts as well as the Piana and Antwerp editions read *defectu.* humano quem exBruges manuscript reads *beata.* Virgine contraxit calicem transire orabat*. Sed affectum rationis non traxit ex Virgine, quia anima rationalis fit per creationem et non ex traduce. Ergo hoc oravit per affectum sensualitatis.  
 
@@ -260,7 +262,7 @@ Praeterea, oratio ad vitam contemplativam pertinet. Sed vita contemplativa non h
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod non omnis Christi oratio fuit exaudita. Per id quod dicitur in Psalm.: *clamabo per diem, et non exaudies*, quod Glossa exponit de Christo.***
+Ulterius, videtur quod non omnis Christi oratio fuit exaudita. Per id quod dicitur in Psalm.: *clamabo per diem, et non exaudies*, quod Glossa exponit de Christo.  
 
 Praeterea, oravit ut discipuli servarentur a malo, ut patet Joan. 17:15, et omnes qui credituri erant per verbum eorum in ipsum. Hoc autem non fuit impletum nec quantum ad ipsos apostolos, nec quantum ad alios credentes; nec de malo culpae, nec de malo poenae. Ergo non omnis Christi oratio fuit exaudita.  
 
@@ -276,7 +278,7 @@ Praeterea, Joan. 11:42: *ego autem sciebam quia semper me audis*.
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem dicendum quod Christo secundum quod Deus, non competit orare nec obedire, nec aliquid quod inEd. omit *in.* minorationem sonat, aut quod ad diversitatem voluntatis pertinet; sed secundum quod homo, competit sibi orare propter tria, ut dicit Damascenus. Primo propter veritatem humanae naturae insinuandam, secundum quam minor est Patre et obediens ei et orans ipsum. Secundo ad exemplum orando nobis praebendum; quia omnis ejus actio nostra est instructio, cum sit nobis datus quasi exemplum virtutis. Tertio ad ostendendum quod a Deo venerat et sibi contrarius non erat, dum eum orando principium recognoscebat.***
+Respondeo ad primam quaestionem dicendum quod Christo secundum quod Deus, non competit orare nec obedire, nec aliquid quod inEd. omit *in.* minorationem sonat, aut quod ad diversitatem voluntatis pertinet; sed secundum quod homo, competit sibi orare propter tria, ut dicit Damascenus. Primo propter veritatem humanae naturae insinuandam, secundum quam minor est Patre et obediens ei et orans ipsum. Secundo ad exemplum orando nobis praebendum; quia omnis ejus actio nostra est instructio, cum sit nobis datus quasi exemplum virtutis. Tertio ad ostendendum quod a Deo venerat et sibi contrarius non erat, dum eum orando principium recognoscebat.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod ascendere est proprie tendere in aliquid quod supra ipsum erat. Intellectus autem Christi non tendit in aliquid quod supra ipsum esset quantum ad contemplationem, quia quidquid de DeoBruges manuscript reads *eo.* contemplatus est unquam, hoc contemplatus est a primo instanti conceptionis; et secundum hoc dicit Damascenus, quod *intellectus Christi ascensione quae est in Deum non indigebat*; sed tamen potentia divina quam orando implorabat, supra ipsum erat; et sic ascendens in Deum orabat.  
 
@@ -286,7 +288,7 @@ Ad tertium dicendum quod aliquid oravit Christus quod absolute fieri rationis vo
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod oratio semper est ad supplendum aliquem defectum. Christus autem non patiebatur aliquem defectum quantum ad bona spiritualia quia beatus erat; patiebatur autem defectum, inquantum erat passibilis in anima et in corpore.***
+Ad secundam quaestionem dicendum quod oratio semper est ad supplendum aliquem defectum. Christus autem non patiebatur aliquem defectum quantum ad bona spiritualia quia beatus erat; patiebatur autem defectum, inquantum erat passibilis in anima et in corpore.  
 
 Unde omnis oratio Christi quae erat pro bonis spiritualibus, non erat pro se, sed pro aliis; sicut illud: *ut sint unum in nobis sicut et nos unum sumus*, Joan. 17:21. Sed oratio quae erat pro his quae pertinent ad corpus, erat etiam ipsi pro seipso, sicut patet per illud psal.: *resuscita me, et retribuam eis*; quae quidem oratio, etsi sit pro se, idest ut ipse resuscitaretur, tamen est pro aliis, inquantum ad aliorum salutem tendit, quia *resurrexit propter justificationem nostram*, Rom. 4:25, et instructionem, quia ejus exemplo ab ipso Deo petereBruges and Brussels manuscripts read *et instructionem, quia ejus exemplo discunt Deo petere ab ipso*; the Paris (841 and 842) and Vatican (190 and 755) manuscripts read *et instructionem, quia ejus exemplo ab ipso petere discunt Deo*; The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *et ad instructionem, quia ejus exemplo ab ipso Deo petere debemus*; the Vivès edition reads *quia ejus exemplo ab ipso discunt Deo petere* against the Vatican (111) manuscript. discunt.PLE: *discunt*.  
 
@@ -298,7 +300,7 @@ Ad tertium dicendum quod in Christo non erat aliquid quod voluntate rationis etE
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod actus sensualitatis dicitur dupliciter. Uno modo sensualitatis sicut principii elicientis actum; et sic oratio non potest esse actus sensualitatis in Christo, ut probantBruges manuscript reads *probabant.* rationes secundo inductae. Alio modo dicitur sensualitatis ut objecti, idest de eo quod sensualitas volebat; et sic erat aliqua ejus oratio sensualitatis, quia ratio orans eratBruges manuscript reads *oratio orantis orat.* quasi advocatus sensualitatis, proponens Deo sensualitatis appetitum. Hoc autem non faciebat quasi ratio vellet hoc quod pro sensualitate petebat, sed ut doceret omnem hominis voluntatem Deo subdendam esse, et in omnibus necessitatibus ad eum recurrendum; unde subdit: *non mea voluntas, sed tua fiat*. Luc. 22:42.***
+Ad tertiam quaestionem dicendum quod actus sensualitatis dicitur dupliciter. Uno modo sensualitatis sicut principii elicientis actum; et sic oratio non potest esse actus sensualitatis in Christo, ut probantBruges manuscript reads *probabant.* rationes secundo inductae. Alio modo dicitur sensualitatis ut objecti, idest de eo quod sensualitas volebat; et sic erat aliqua ejus oratio sensualitatis, quia ratio orans eratBruges manuscript reads *oratio orantis orat.* quasi advocatus sensualitatis, proponens Deo sensualitatis appetitum. Hoc autem non faciebat quasi ratio vellet hoc quod pro sensualitate petebat, sed ut doceret omnem hominis voluntatem Deo subdendam esse, et in omnibus necessitatibus ad eum recurrendum; unde subdit: *non mea voluntas, sed tua fiat*. Luc. 22:42.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod quando aliquis orat propter suam utilitatem, ratio non petit nisi hoc quod vult; et ideo tunc cujus est orare ejus est velle. Sed Christus hoc non petebat propter suam utilitatem, ut scilicet ipse effectum hujus petitionis consequeretur, sed propter utilitatem aliorum, ut dictum est. Et ideo ratio non petebat hoc, secundum quod ipsa volebat, sed secundum quod sensualitas appetebat.  
 
@@ -308,7 +310,7 @@ Ad tertium dicendum quod illud quaerere et invocare non designat orationem propr
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod omnis oratio quam Christus obtulit hac intentione ut ipsam impetraret, fuit exaudita. Sed cum aliquis impetrare non intendat quod absolute non vult; haec sola oratio Christi exaudita fuit quae erat de eo quod Christus absolute voluit. Hoc autem dicitur aliquis simpliciter et absolute velle in quo ultimus ejus consensus stat. Ultimus autem consensus est secundum supremam partem appetitus in homine. Appetitus autem rationis est supra appetitum sensus, et in appetitu rationis est supremum quod in finem tendit vel in aliquid conjunctum fini. Et ideo hoc solum Christus absolute voluit quod secundum rationem voluit utThe Vivès edition reads *in.* finem, velEd. read *et ut.* in ordine ad finem; et omnis talis sua oratio fuit exaudita.***
+Ad quartam quaestionem dicendum quod omnis oratio quam Christus obtulit hac intentione ut ipsam impetraret, fuit exaudita. Sed cum aliquis impetrare non intendat quod absolute non vult; haec sola oratio Christi exaudita fuit quae erat de eo quod Christus absolute voluit. Hoc autem dicitur aliquis simpliciter et absolute velle in quo ultimus ejus consensus stat. Ultimus autem consensus est secundum supremam partem appetitus in homine. Appetitus autem rationis est supra appetitum sensus, et in appetitu rationis est supremum quod in finem tendit vel in aliquid conjunctum fini. Et ideo hoc solum Christus absolute voluit quod secundum rationem voluit utThe Vivès edition reads *in.* finem, velEd. read *et ut.* in ordine ad finem; et omnis talis sua oratio fuit exaudita.  
 
 Quod autem secundum sensualitatem voluit, absolute non voluit. Et ideo ratio non adThe Nicolaï, Venice, and Parma editions omit *ad.* hoc orando proposuit ut impetraret. Nec tamen simulatio fuit, quia appetitum sensualitatis exprimebat ratione jam dicta. Similiter quod volebat ratio ut natura, si in eo non sicut in fine quiescebat, non simpliciter volebat, ut prius dictum est; et ideo haec etiam non ad hoc proposuit orando ut impetraret. Et propter hoc hujusmodi orationes non fuerunt exauditae.  
 

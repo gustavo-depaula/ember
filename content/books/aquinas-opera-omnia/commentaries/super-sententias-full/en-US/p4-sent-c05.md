@@ -1,8 +1,10 @@
 # D. 25 - Conditions of free decision
 
+***Conditions of free decision***
+
 ***Division of the text***
 
-***After he has addressed free decision by showing what it is and, subsequently, has addressed the soul’s other powers to show in which of them free decision is included, here he addresses certain conditions of free decision. This is divided into two parts.***
+After he has addressed free decision by showing what it is and, subsequently, has addressed the soul’s other powers to show in which of them free decision is included, here he addresses certain conditions of free decision. This is divided into two parts.  
 
 In the first, he shows what free decision’s objects are.  
 
@@ -112,7 +114,7 @@ Article 1
 
 ***Whether there is free decision in God***
 
-***To the first we proceed as follows. It seems that there is not free decision in God.***
+To the first we proceed as follows. It seems that there is not free decision in God.  
 
 Obj. 1: For, as the Philosopher says in *On Sleep and Sleeplessness*,Aristotle, *On Sleep and Sleeplessness* 1, 454a8. the one who has the potency has the act and vice versa. But the act of free decision, which is to choose, does not befit God, since choice follows on counsel, as it says in the *Ethics* 3.Aristotle, *Nicomachean Ethics* 3.3, 1113a2–13. But counsel is a kind of inquiry with a certain discursive process of reason, which does not belong to God. Therefore, it seems that in God there is no free decision.  
 
@@ -152,7 +154,7 @@ Article 2
 
 ***Whether free decision can be compelled***
 
-***To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 29, q. 1, a. 1; *ST* I-II.6.4; *On Truth*, q. 22, aa. 5, 8. It seems that free decision can be compelled.***
+To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 29, q. 1, a. 1; *ST* I-II.6.4; *On Truth*, q. 22, aa. 5, 8. It seems that free decision can be compelled.  
 
 Obj. 1: For what is changed by an agent is compelled by it. But, as a Gloss on Romans says, God can change the will of men to whatever he wishes.*Glossa ordinaria*, at Romans 9:16, 6.124 (PL 114:501), which refers to Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 98 (CCSL 46; PL 40:277). Therefore, it seems that the will can be compelled by God, and so also the free decision.  
 
@@ -200,7 +202,7 @@ Article 3
 
 ***Whether free decision extends to all human works***
 
-***To the third we proceed as follows. It seems that free decision does not extend to all human works.***
+To the third we proceed as follows. It seems that free decision does not extend to all human works.  
 
 Obj. 1: For, as we have said, free decision cannot be compelled. But some human works can be compelled. For by violence a human being is prevented from moving. Therefore, not all human works belong to free decision.  
 
@@ -232,7 +234,7 @@ Article 4
 
 ***Whether freedom of decision is increased or diminished***
 
-***To the fourth we proceed as follows. It seems that the freedom of decision is neither increased nor diminished.***
+To the fourth we proceed as follows. It seems that the freedom of decision is neither increased nor diminished.  
 
 Obj. 1: For what pertains to the account of a power is not varied by acts or habits, since what is prior is not varied by what is posterior, but the latter are subject to the former. But freedom pertains to the account of the power that is called “free decision.” Therefore, it cannot be increased or diminished by acts or habits of virtue or vice.  
 
@@ -266,7 +268,7 @@ Article 5
 
 ***Whether there is a threefold distinction in free decision***
 
-***To the fifth we proceed as follows. It seems that three kinds of free decision are unfittingly distinguished.*Sent*. II, 25.5(157).1: *the first freedom of decision was that in which there was the power to sin and not to sin; but the last will be that in which there be the power not to sin, and no power to sin; and the middle one is that in which there is the power to sin, and no power to sin: before restoration of grace, even mortally; after restoration, not even venially*.***
+To the fifth we proceed as follows. It seems that three kinds of free decision are unfittingly distinguished.*Sent*. II, 25.5(157).1: *the first freedom of decision was that in which there was the power to sin and not to sin; but the last will be that in which there be the power not to sin, and no power to sin; and the middle one is that in which there is the power to sin, and no power to sin: before restoration of grace, even mortally; after restoration, not even venially*.  
 
 Obj. 1: For the will’s freedom is varied in accord with different states. But four states of man are assigned in the text.*Sent*. II, 25.6(156).1: *and four states of free decision can be noted in man. For before sin, nothing impeded man from the good, nothing impelled him to evil; he did not have a weakness toward evil, and had a help toward the good. Then, reason was able to judge without error, and the will was able to desire the good without difficulty.—But after sin, before the restoration of grace, he is pressed down and overcome by concupiscence; he has a weakness toward evil, but does not have grace toward good; and so he can sin and cannot not sin, even damnably.—After the restoration and before confirmation, however, he is pressed down by concupiscence, but not overcome; and he also has weakness toward evil, but grace toward good, so that he is able to sin because of his freedom and weakness, and he is able not to sin unto death because of his freedom and the help of grace. Nevertheless, he does not yet have the power not to sin entirely or the inability to sin, because his weakness has not yet been entirely removed and grace has not yet been entirely perfected.—But after the confirmation, when the weakness will have been entirely destroyed and grace achieved, he will have the power to be neither overcome nor pressed down, and then he shall have the inability to sin*. Therefore, four freedoms of decision should be distinguished as well.  
 
@@ -296,7 +298,7 @@ Reply Obj. 6: As is clear from what has been stated, the Master distinguishes fr
 
 Exposition of the text  
 
-****In defining it, the philosophers called it ‘a free judgment concerning the will.’**Sent*. II, 25.1(153).2, quoting Boethius, *In libro Aristotelis De interpretatione, editio secunda seu maiora commentaria*, bk. 3, on ch. 9 (PL 64:487). It should be known that this is not a true definition but a kind of illustration. Hence he takes the definition broadly. Now, it differs from the aforementioned definition assigned above, for above the definition was given according to that which free decision regards, namely, that it is directed toward good and evil. But this latter definition is given according to freedom’s cause. And so, when it is said *a free judgment concerning the will*, the preposition “concerning” denotes the cause of freedom. For the will, as was said previously, is the end of all freedom.***
+*In defining it, the philosophers called it ‘a free judgment concerning the will.’**Sent*. II, 25.1(153).2, quoting Boethius, *In libro Aristotelis De interpretatione, editio secunda seu maiora commentaria*, bk. 3, on ch. 9 (PL 64:487). It should be known that this is not a true definition but a kind of illustration. Hence he takes the definition broadly. Now, it differs from the aforementioned definition assigned above, for above the definition was given according to that which free decision regards, namely, that it is directed toward good and evil. But this latter definition is given according to freedom’s cause. And so, when it is said *a free judgment concerning the will*, the preposition “concerning” denotes the cause of freedom. For the will, as was said previously, is the end of all freedom.  
 
 *According to the above description, free decision appears to be only in those who can change their will and bend it to contrary things*;*Sent*. II, 25.1(153).4. not according to the philosophers’ description, which he includes with his own explanation, adding it when he says it *is free toward either*, but instead according to the description he takes from the words of Augustine above.  
 

@@ -1,5 +1,7 @@
 # First Vespers
 
+***{image-200}***
+
 *Antiphona*. Sapientia aedificavit sibi domum, excidit columnas septem; immolavit victimas suas, miscuit vinum et posuit mensam suam.  
 
 Psalmus 109  
@@ -12,7 +14,7 @@ Psalmus 109
 
 Psalmus 110  
 
-***Confitebor tibi, Domine, in toto corde meo, * in consilio iustorum, et congregatione, etc.***
+Confitebor tibi, Domine, in toto corde meo, * in consilio iustorum, et congregatione, etc.  
 
 > {image-202}
 
@@ -42,7 +44,7 @@ Psalmus 147
 
 ***1 Cor 11:23–24***
 
-***Dominus Iesus Christus in qua nocte tradebatur, accepit panem, et gratias agens fregit et dixit: accipite et manducate; hoc est corpus meum, quod pro vobis tradetur, hoc facite in meam commemorationem.***
+Dominus Iesus Christus in qua nocte tradebatur, accepit panem, et gratias agens fregit et dixit: accipite et manducate; hoc est corpus meum, quod pro vobis tradetur, hoc facite in meam commemorationem.  
 
 > Responsorium
 
@@ -109,4 +111,4 @@ Magnificat
 
 Magnificat * anima mea Dominum, etc.  
 
-***Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus: ita nos corporis et sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas Deus [per omnia saecula saeculorum. Amen.]***
+Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus: ita nos corporis et sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas Deus [per omnia saecula saeculorum. Amen.]

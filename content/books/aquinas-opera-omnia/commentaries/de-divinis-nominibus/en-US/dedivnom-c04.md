@@ -1,10 +1,12 @@
 # C. 3 - What Is the Virtue of Prayer, and On Blessed Hierotheus, and On Reverence, and On the Theological Treatise
 
+What Is the Virtue of Prayer, and On Blessed Hierotheus, and On Reverence, and On the Theological Treatise  
+
 ***Only Lectio***
 
 ***There Is Prefaced a Certain Prooemium to the Whole Work***
 
-***C. III, § 1. 78. And we shall inspect the naming of the good, first, if it seems, perfect and manifestive of the whole of the processions of God, invoking the foremost of good and supergood Trinity, which is manifestive of the whole of the providences kindly given by it.***
+C. III, § 1. 78. And we shall inspect the naming of the good, first, if it seems, perfect and manifestive of the whole of the processions of God, invoking the foremost of good and supergood Trinity, which is manifestive of the whole of the providences kindly given by it.  
 
 > 79. For it is necessary that we should be led to it, as to the foremost of the good, first by prayers, and approaching more to it, in this to be taught the best good things gathered around it.
 

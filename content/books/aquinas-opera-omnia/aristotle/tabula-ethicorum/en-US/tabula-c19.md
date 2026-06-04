@@ -1,5 +1,7 @@
 # Chapter 19
 
+***The Chapters of the Book of Ethics***
+
 ***The Headings of the Chapters of Book 1***
 
 ***Every art and every science.***

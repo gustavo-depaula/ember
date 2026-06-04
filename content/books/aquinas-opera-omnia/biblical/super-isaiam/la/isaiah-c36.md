@@ -1,5 +1,7 @@
 # Chapter 34
 
+^34:1^ Accedite gentes et audite, et populi attendite; audiat terra et plenitudo ejus, orbis et omne germen ejus.  
+
 > ^34:2^ Quia indignatio Domini super omnes gentes et furor super universam militiam eorum, interfecit eos et dedit eos in occisionem,
 
 > ^34:3^ interfecti eorum projicientur et de cadaveribus eorum ascendet fœtor. Tabescent montes a sanguine eorum.

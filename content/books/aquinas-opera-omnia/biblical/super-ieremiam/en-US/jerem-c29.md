@@ -1,10 +1,12 @@
 # C. 27 - Nebuchadnezzar’s coming domain
 
+***Nebuchadnezzar’s coming domain***
+
 ***Lecture 1***
 
 ***Surrender to Nebuchadnezzar***
 
-***^27:1^ In the beginning of the reign of Jehoiakim, the son of Josiah, king of Judah, this word came to Jeremiah from the Lord, saying:***
+^27:1^ In the beginning of the reign of Jehoiakim, the son of Josiah, king of Judah, this word came to Jeremiah from the Lord, saying:  
 
 > ^27:2^ thus says the Lord to me: make bands and chains for yourself and put them on your neck,
 
@@ -64,7 +66,7 @@ Lecture 2
 
 ***Ignore false prophets***
 
-***^27:12^ And I spoke to Zedekiah, king of Judah, according to all these words, saying: bow your neck under the yoke of the king of Babylon, and serve him, and his people, and you shall live.***
+^27:12^ And I spoke to Zedekiah, king of Judah, according to all these words, saying: bow your neck under the yoke of the king of Babylon, and serve him, and his people, and you shall live.  
 
 > ^27:13^ Why should you die, you and your people, by the sword, and famine, and pestilence, and the Lord has spoken to the nation which refuses to serve the king of Babylon?
 
@@ -96,7 +98,7 @@ Lecture 3
 
 ***Captivity and liberation***
 
-***^27:16^ And I spoke to the priests, and to this people, saying: thus says the Lord: do not listen to the words of your prophets, who prophesy to you, saying: behold, the vessels of the Lord shall now be returned swiftly from Babylon: for they prophesy a lie to you.***
+^27:16^ And I spoke to the priests, and to this people, saying: thus says the Lord: do not listen to the words of your prophets, who prophesy to you, saying: behold, the vessels of the Lord shall now be returned swiftly from Babylon: for they prophesy a lie to you.  
 
 > ^27:17^ Therefore, do not listen to them, but serve the king of Babylon, that you may live: why should this city be made a desolation?
 

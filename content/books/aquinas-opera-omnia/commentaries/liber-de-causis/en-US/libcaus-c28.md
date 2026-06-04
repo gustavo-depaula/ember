@@ -1,5 +1,7 @@
 # Proposition 27
 
+191. Every destructible substance either is not sempiternal or is composite or is supported by another thing.  
+
 > 192. This is because [destructible] substance is either lacking things from which it is made up and is composed of them, or it is lacking in its constancy and its supporting essence. Thus when that which supports it is separated, it is corrupted and destroyed.
 
 > 193. Because if substance is not composite nor supported, it is simple and forever, it is not destroyed nor diminished in the least.

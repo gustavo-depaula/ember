@@ -1,6 +1,6 @@
 # D. 8 - The sacrament of the Eucharist
 
-***Postquam Magister determinavit de baptismo et confirmatione, hic tertio determinat de Eucharistiae sacramento; et dividitur in partes duas: in prima determinat ea quae pertinent ad ipsum sacramentum; in secunda determinat de dispensantibus sacramentum, 13 dist., ibi: *solet etiam quaeri, utrum pravi sacerdotes hoc sacramentum conficere queant*.***
+Postquam Magister determinavit de baptismo et confirmatione, hic tertio determinat de Eucharistiae sacramento; et dividitur in partes duas: in prima determinat ea quae pertinent ad ipsum sacramentum; in secunda determinat de dispensantibus sacramentum, 13 dist., ibi: *solet etiam quaeri, utrum pravi sacerdotes hoc sacramentum conficere queant*.  
 
 Prima in duas: in prima determinat ea quae requiruntur ad hoc sacramentum in generali; in secunda prosequitur de eis in speciali, dist. 10, ibi: *sunt item alii praecedentium insaniam transcendentes*.  
 
@@ -31,7 +31,7 @@ primo, utrum Eucharistia sit sacramentum;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod Eucharistia non sit sacramentum. Ad idem enim non debent diversa ordinari. Sed confirmatio est ad perficiendum, secundum Dionysium. Cum ergo secundum ipsum Eucharistia etiam sit perfectio, videtur quod superfluat hoc sacramentum.***
+Ad primum sic proceditur. Videtur quod Eucharistia non sit sacramentum. Ad idem enim non debent diversa ordinari. Sed confirmatio est ad perficiendum, secundum Dionysium. Cum ergo secundum ipsum Eucharistia etiam sit perfectio, videtur quod superfluat hoc sacramentum.  
 
 Praeterea, in omni sacramento novae legis idem quod figuratur, efficitur per signum figurans. Sed species panis et vini, quae figurant corpus Christi verum et mysticum, non efficiunt illud. Ergo Eucharistia non est sacramentum novae legis.  
 
@@ -47,7 +47,7 @@ Praeterea, omnis actio per ministros ecclesiae dispensata, in qua ex ipso opere 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit unum sacramentum, sed multa. Primo per hoc quod in Collecta dicitur: *purificent nos, quaesumus Domine, sacramenta quae sumpsimus*.***
+Ulterius. Videtur quod non sit unum sacramentum, sed multa. Primo per hoc quod in Collecta dicitur: *purificent nos, quaesumus Domine, sacramenta quae sumpsimus*.  
 
 Praeterea, sacramentum est in genere signi. Sed ea quae sunt in genere signi, sicut nomina, plurificantur ad pluralitatem signantium, quamvis sit idem signatum; sicut Marcus et Tullius sunt duo nomina, quamvis sit eadem res significata. Ergo cum in Eucharistia sint plura signantia, sicut species panis et vini, videtur quod sint plura sacramenta.  
 
@@ -63,7 +63,7 @@ Praeterea, quaecumque ordinantur ad idem efficiendum et significandum, pertinent
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non convenientibus nominibus nominetur. Nomen enim proprium alicui debet imponi ex eo quod sit sibi proprium. Sed bonitas gratiae est communis omnibus sacramentis. Ergo ex hoc non debet imponi nomen proprium uni sacramento, ut dicatur Eucharistia.***
+Ulterius. Videtur quod non convenientibus nominibus nominetur. Nomen enim proprium alicui debet imponi ex eo quod sit sibi proprium. Sed bonitas gratiae est communis omnibus sacramentis. Ergo ex hoc non debet imponi nomen proprium uni sacramento, ut dicatur Eucharistia.  
 
 Praeterea, sicut in littera dicitur, hoc sacramentum ideo *viaticum appellatur, quia in via nos reficiens, usque ad patriam deducit*. Sed hoc est commune omnibus sacramentis, quae non nisi viatoribus dantur ad perveniendum ad gloriam patriae, quae est res non contenta, et significata in omnibus sacramentis. Ergo non convenienter ‘viaticum’ appellatur.  
 
@@ -75,7 +75,7 @@ Praeterea, hostia videtur idem quod sacrificium. Sed Dionysius confirmationem no
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod Eucharistia sacramentum quoddam est, alio tamen modo ab omnibus aliis sacramentis. Sacramentum enim secundum sui nominis proprietatem sanctitatem active importat; unde secundum hoc aliquid habet sacramenti rationem secundum quod habet rationem sanctificationis, qua sanctum aliquid fit.***
+Respondeo dicendum ad primam quaestionem, quod Eucharistia sacramentum quoddam est, alio tamen modo ab omnibus aliis sacramentis. Sacramentum enim secundum sui nominis proprietatem sanctitatem active importat; unde secundum hoc aliquid habet sacramenti rationem secundum quod habet rationem sanctificationis, qua sanctum aliquid fit.  
 
 Dicitur autem aliquid sanctum dupliciter. Uno modo simpliciter et per se, sicut quod est subjectum sanctitatis, sicut dicitur homo sanctus. Alio modo secundario et secundum quid, ex eo quod habet ordinem ad hanc sanctitatem, vel sicut habens virtutem sanctificandi, sicut chrisma dicitur sanctum; vel quocumque alio modo ad aliquid sanctum deputetur, sicut altare sanctum.  
 
@@ -99,7 +99,7 @@ Ad quintum dicendum, quod ex hoc ipso quod alia sacramenta perficiuntur in accep
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod per se unum simpliciter, et quod est numero unum, tribus modis dicitur. Uno modo sicut indivisibile est unum, ut punctum et unitas, quod neque est multa actu neque potentia. Alio modo quod est unum ex continuitate, quod tamen est multa potentia, sicut linea. Tertio modo quod est unum perfectione, sicut dicitur calceamentum unum, quia habet omnes partes quae requiruntur ad calceamentum; et haec unitas dicitur in omnibus illis ad quorum integritatem aliqua exiguntur, sicut unus homo, una domus. Et quia ad esse sacramenti multa concurrunt, sicut forma et materia, et hujusmodi; ideo ab hac unitate perfectionis*unitate perfectionis dicitur.—unitate dicitur* PLE. dicitur sacramentum unum esse. Illa enim sunt de integritate alicujus instrumenti quae requiruntur ad operationem illam ad quam instrumentum deputatum est. Hoc autem sacramentum deputatum est ex divina institutione ad cibationem spiritualem, quae per cibationem corporalem significatur. Et quia cibatio corporalis duo requirit, scilicet aliquid per modum cibi, et aliquid per modum potus; ideo ad integritatem hujus sacramenti ex divina institutione est aliquid per modum cibi, scilicet corpus Christi; et aliquid per modum potus, scilicet sanguis.***
+Ad secundam quaestionem dicendum, quod per se unum simpliciter, et quod est numero unum, tribus modis dicitur. Uno modo sicut indivisibile est unum, ut punctum et unitas, quod neque est multa actu neque potentia. Alio modo quod est unum ex continuitate, quod tamen est multa potentia, sicut linea. Tertio modo quod est unum perfectione, sicut dicitur calceamentum unum, quia habet omnes partes quae requiruntur ad calceamentum; et haec unitas dicitur in omnibus illis ad quorum integritatem aliqua exiguntur, sicut unus homo, una domus. Et quia ad esse sacramenti multa concurrunt, sicut forma et materia, et hujusmodi; ideo ab hac unitate perfectionis*unitate perfectionis dicitur.—unitate dicitur* PLE. dicitur sacramentum unum esse. Illa enim sunt de integritate alicujus instrumenti quae requiruntur ad operationem illam ad quam instrumentum deputatum est. Hoc autem sacramentum deputatum est ex divina institutione ad cibationem spiritualem, quae per cibationem corporalem significatur. Et quia cibatio corporalis duo requirit, scilicet aliquid per modum cibi, et aliquid per modum potus; ideo ad integritatem hujus sacramenti ex divina institutione est aliquid per modum cibi, scilicet corpus Christi; et aliquid per modum potus, scilicet sanguis.  
 
 Ad primum ergo dicendum, quod dicitur pluraliter sacramenta propter materialem diversitatem signorum.  
 
@@ -113,7 +113,7 @@ Ad quintum dicendum, quod quamvis Christus perfectus sit sub utraque specie, non
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in quolibet sacramento est tria considerare; scilicet originem, perfectionem, et finem ad quem est. Origo autem omnium sacramentorum est passio Christi, de cujus latere in cruce pendentis sacramenta profluxerunt, ut sancti dicunt; perfectio autem sacramenti est in hoc quod continet gratiam; finis autem sacramenti est duplex; proximus, scilicet sanctificatio recipientis, et ultimus, scilicet vita aeterna. Haec autem per quamdam excellentiam in Eucharistia inveniuntur. Quia hoc sacramentum est specialiter in memoriam Dominicae Passionis; unde Matthaei 26: *quotiescumque feceritis, in mei memoriam facietis*; et ideo quantum ad originem vocatur sacrificium vel hostia. Similiter etiam gratiam non per modum intentionis continet sicut alia sacramenta, sed plenitudinem gratiae in suo fonte; et ideo antonomastice Eucharistia dicitur. Similiter etiam quia ipsa est consummatio omnium sanctificationum, ut Dionysius dicit, id quod est omnium, scilicet congregari ad unum, huic sacramento attribuitur; et dicitur communio vel synaxis, quod idem est, inquantum scilicet homo congregatur ad unum et ad seipsum et ad alios, ei quod est maxime unum conjunctus. Similiter etiam quantum ad ultimum finem consequendum maximam efficaciam habet, inquantum realiter continet hoc quo janua caeli nobis aperta est, scilicet sanguinem Christi; et ideo specialiter viaticum appellatur.***
+Ad tertiam quaestionem dicendum, quod in quolibet sacramento est tria considerare; scilicet originem, perfectionem, et finem ad quem est. Origo autem omnium sacramentorum est passio Christi, de cujus latere in cruce pendentis sacramenta profluxerunt, ut sancti dicunt; perfectio autem sacramenti est in hoc quod continet gratiam; finis autem sacramenti est duplex; proximus, scilicet sanctificatio recipientis, et ultimus, scilicet vita aeterna. Haec autem per quamdam excellentiam in Eucharistia inveniuntur. Quia hoc sacramentum est specialiter in memoriam Dominicae Passionis; unde Matthaei 26: *quotiescumque feceritis, in mei memoriam facietis*; et ideo quantum ad originem vocatur sacrificium vel hostia. Similiter etiam gratiam non per modum intentionis continet sicut alia sacramenta, sed plenitudinem gratiae in suo fonte; et ideo antonomastice Eucharistia dicitur. Similiter etiam quia ipsa est consummatio omnium sanctificationum, ut Dionysius dicit, id quod est omnium, scilicet congregari ad unum, huic sacramento attribuitur; et dicitur communio vel synaxis, quod idem est, inquantum scilicet homo congregatur ad unum et ad seipsum et ad alios, ei quod est maxime unum conjunctus. Similiter etiam quantum ad ultimum finem consequendum maximam efficaciam habet, inquantum realiter continet hoc quo janua caeli nobis aperta est, scilicet sanguinem Christi; et ideo specialiter viaticum appellatur.  
 
 Et per haec patet solutio ad objecta: quia ab eo quod est commune, aliquid antonomastice denominari potest.  
 
@@ -123,7 +123,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod huic sacramento figurae assignari non debeant. Nihil enim disponitur per aliquid sui generis; albedinis enim non est albedo, nec motus est motus. Sed sacramentum est signum. Ergo sacramento non debet aptari aliqua figura, quia in infinitum iretur.***
+Ad secundum sic proceditur. Videtur quod huic sacramento figurae assignari non debeant. Nihil enim disponitur per aliquid sui generis; albedinis enim non est albedo, nec motus est motus. Sed sacramentum est signum. Ergo sacramento non debet aptari aliqua figura, quia in infinitum iretur.  
 
 Praeterea, sacramenta veteris legis dicuntur sacramentis novae legis respondere, in quantum signant ipsa. Sacramentis autem novae legis quae sunt maximae perfectionis non respondebant aliqua sacramenta in veteri lege, ut quidam dicunt. Cum ergo hoc sacramentum sit maximae perfectionis, videtur quod non debeant ei aliquae figurae assignari.  
 
@@ -135,7 +135,7 @@ Praeterea, hoc sacramentum est dignissimum, et difficillimum ad credendum. Sed t
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod Magister inconvenienter assignet figuras hujus sacramenti. Hoc enim sacramentum post baptismum datur. Sed agnus paschalis praecessit transitum maris rubri, in quo baptismus est praefiguratus. Ergo non est congrua figura hujus sacramenti.***
+Ulterius. Videtur quod Magister inconvenienter assignet figuras hujus sacramenti. Hoc enim sacramentum post baptismum datur. Sed agnus paschalis praecessit transitum maris rubri, in quo baptismus est praefiguratus. Ergo non est congrua figura hujus sacramenti.  
 
 Praeterea, in hoc sacramento aliquid offertur Deo. Sed Melchisedech non legitur Deo obtulisse, sed homini, scilicet Abrahae, cui obtulit panem et vinum, ut dicitur Gen. 14. Ergo illa oblatio non est conveniens figura hujus sacramenti.  
 
@@ -149,7 +149,7 @@ Praeterea, in canone Missae fit mentio de sacrificio Abrahae et Abel; et similit
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in lege Moysi expressius fuit figuratum hoc sacrificium quam in lege naturae. Quia, secundum Hugonem, quanto magis appropinquavit passio salvatoris, tanto signa fuerunt evidentiora. Sed ea quae fuerunt in lege Moysis, fuerunt propinquiora. Ergo expressiora.***
+Ulterius. Videtur quod in lege Moysi expressius fuit figuratum hoc sacrificium quam in lege naturae. Quia, secundum Hugonem, quanto magis appropinquavit passio salvatoris, tanto signa fuerunt evidentiora. Sed ea quae fuerunt in lege Moysis, fuerunt propinquiora. Ergo expressiora.  
 
 Praeterea, in sacrificiis legis Moysi fiebat sanguinis effusio. Sed oblatio Melchisedech fuit sanguinis sine effusione. Ergo legalia sacrificia expressius figurabant sacramentum passionis Christi quam oblatio Melchisedech.  
 
@@ -157,7 +157,7 @@ Sed contra, Christus dicitur sacerdos secundum ordinem Melchisedech, non autem s
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sacramenta novae legis tripliciter se habent ad veterem legem. Quaedam enim essentialiter fuerunt in veteri lege, quamvis non ut sunt sacramenta novae legis, sed magis secundum quod sunt in officium vel actum virtutis; sicut poenitentia, ordo, et matrimonium. Quaedam fuerunt secundum aliquid eis respondens non essentialiter, sicut baptismus et Eucharistia. Quaedam autem nihil respondens habuerunt in veteri lege, sicut confirmatio et extrema unctio. Cujus ratio est, quia prima tria sacramenta non solum sunt sacramenta; sed poenitentia est actus virtutis; ordo autem pertinet ad officium dispensationis sacramentorum; matrimonium autem ad officium naturae; et ideo in qualibet lege requiruntur.***
+Respondeo dicendum ad primam quaestionem, quod sacramenta novae legis tripliciter se habent ad veterem legem. Quaedam enim essentialiter fuerunt in veteri lege, quamvis non ut sunt sacramenta novae legis, sed magis secundum quod sunt in officium vel actum virtutis; sicut poenitentia, ordo, et matrimonium. Quaedam fuerunt secundum aliquid eis respondens non essentialiter, sicut baptismus et Eucharistia. Quaedam autem nihil respondens habuerunt in veteri lege, sicut confirmatio et extrema unctio. Cujus ratio est, quia prima tria sacramenta non solum sunt sacramenta; sed poenitentia est actus virtutis; ordo autem pertinet ad officium dispensationis sacramentorum; matrimonium autem ad officium naturae; et ideo in qualibet lege requiruntur.  
 
 Baptismus autem et Eucharistia sunt sacramenta tantum gratiam continentia; et ideo ante tempus gratiae esse non debuerunt. Sed quia sunt sacramenta necessitatis, baptismus quidem quantum ad effectum, Eucharistia autem quantum ad fidem ejus quod repraesentatur per ipsam; ideo oportuit quod in lege Moysi haberent aliquid respondens: sed confirmatio et extrema unctio sunt sacramenta gratiam continentia; et ideo in veteri lege esse non debuerunt. Et quia non sunt sacramenta necessitatis, sed cujusdam superabundantis perfectionis; ideo non oportet quod haberent aliquid respondens, cum non esset tempus plenitudinis gratiae; et ideo haec duo non fuerunt praefiguranda aliquibus expressis figuris, similiter neque prima tria, sed tantum duo media, scilicet Eucharistia et baptismus.  
 
@@ -169,7 +169,7 @@ Ad tertium dicendum quod praefiguratio Eucharistiae erat magis necessaria quam b
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod aliquid potest figurari dupliciter. Uno modo per id quod est signum et causa: et hoc modo effusio sanguinis et aquae ex latere Christi fuerunt figura hujus sacramenti. Alio modo per id quod est signum tantum; et sic quantum ad id quod est sacramentum tantum in Eucharistia, fuit figura ejus oblatio Melchisedech; quantum autem ad id quod est res et sacramentum, scilicet ipsum Christum passum, fuit figura agnus paschalis; quantum autem ad id quod est res tantum, scilicet gratiam, fuit signum manna, quod reficiebat, omnem saporem suavitatis habens.***
+Ad secundam quaestionem dicendum, quod aliquid potest figurari dupliciter. Uno modo per id quod est signum et causa: et hoc modo effusio sanguinis et aquae ex latere Christi fuerunt figura hujus sacramenti. Alio modo per id quod est signum tantum; et sic quantum ad id quod est sacramentum tantum in Eucharistia, fuit figura ejus oblatio Melchisedech; quantum autem ad id quod est res et sacramentum, scilicet ipsum Christum passum, fuit figura agnus paschalis; quantum autem ad id quod est res tantum, scilicet gratiam, fuit signum manna, quod reficiebat, omnem saporem suavitatis habens.  
 
 Ad primum ergo dicendum, quod ratio illa valeret, si baptismi et Eucharistiae tantum esset una figura: sunt autem plures; et ideo non est inconveniens quod aliquam figuram baptismi praecedat aliqua figura Eucharistiae, et ab aliqua praecedatur; sicut praecedit agnus paschalis transitum maris rubri, et sequitur circumcisionem.  
 
@@ -185,7 +185,7 @@ Ad sextum dicendum, quod quamvis in veteri lege fuerint figurae plures materiali
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quantum ad id quod est signum tantum in hoc sacramento, expressior figura hujus sacramenti fuit oblatio Melchisedech quam figurae legis Moysi; sed quantum ad id quod est res et sacramentum; expressior fuit figura legis Mosaicae, qua expressius Christus passus significabatur. Et quia ritus sacramenti consistit in signis exterioribus; ideo sacerdotium Christi quantum ad ritum magis convenit cum sacerdotio Melchisedech quam cum sacerdotio levitico; et etiam quantum ad alias conditiones Melchisedech, quas apostolus plenius prosequitur.***
+Ad tertiam quaestionem dicendum, quod quantum ad id quod est signum tantum in hoc sacramento, expressior figura hujus sacramenti fuit oblatio Melchisedech quam figurae legis Moysi; sed quantum ad id quod est res et sacramentum; expressior fuit figura legis Mosaicae, qua expressius Christus passus significabatur. Et quia ritus sacramenti consistit in signis exterioribus; ideo sacerdotium Christi quantum ad ritum magis convenit cum sacerdotio Melchisedech quam cum sacerdotio levitico; et etiam quantum ad alias conditiones Melchisedech, quas apostolus plenius prosequitur.  
 
 Et per hoc patet solutio ad objecta.  
 
@@ -195,7 +195,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod nulla fuerit necessitas instituendi hoc sacramentum. Veniente enim veritate debet cessare figura. Sed hoc sacramentum agitur in figuram Dominicae Passionis, quae jam realiter venit. Ergo non debuit hoc sacramentum institui.***
+Ad tertium sic proceditur. Videtur quod nulla fuerit necessitas instituendi hoc sacramentum. Veniente enim veritate debet cessare figura. Sed hoc sacramentum agitur in figuram Dominicae Passionis, quae jam realiter venit. Ergo non debuit hoc sacramentum institui.  
 
 Praeterea, eadem in actione aliquid instituitur et a contraria dispositione removetur. Sed ad eamdem actionem non debet institui nisi unum sacramentum, sicut unum instrumentum est unius actionis. Cum ergo per baptismum mundemur a malo, videtur quod non oportuit institui aliquod sacramentum per quod *in bono confirmemur*, scilicet Eucharistiam, ut in littera dicitur.  
 
@@ -207,7 +207,7 @@ Praeterea, caritas non est minus necessaria quam fides. Sed habemus unum sacrame
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ante adventum Christi debuerit institui. Christus enim est caput hominum justorum qui fuerunt a principio mundi, ut in 3 Lib., dist. 13, qu. 2, art. 2, quaest. 2 ad 4, dictum est. Si ergo per hoc sacramentum membra corporis mystico suo capiti conjungantur, videtur quod debuerit a principio mundi institui.***
+Ulterius. Videtur quod ante adventum Christi debuerit institui. Christus enim est caput hominum justorum qui fuerunt a principio mundi, ut in 3 Lib., dist. 13, qu. 2, art. 2, quaest. 2 ad 4, dictum est. Si ergo per hoc sacramentum membra corporis mystico suo capiti conjungantur, videtur quod debuerit a principio mundi institui.  
 
 Praeterea, populus Israel fuit populus a Deo dilectissimus; unde dicitur Exod. 4, 22: *filius meus primogenitus Israel*. Sed hoc sacramentum est sacramentum caritatis, ut dictum est. Ergo debuit institui adhuc priore populo habente statum.  
 
@@ -219,7 +219,7 @@ Praeterea, hoc sacramentum continet gratiae plenitudinem; unde et Eucharistia di
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod post passionem institui debuit. Quia hoc sacramentum est in memoriam Dominicae Passionis, ut patet 1 Corinth., 11. Sed memoria praeteritorum est. Ergo et praeterita passione Christi institui debuit.***
+Ulterius. Videtur quod post passionem institui debuit. Quia hoc sacramentum est in memoriam Dominicae Passionis, ut patet 1 Corinth., 11. Sed memoria praeteritorum est. Ergo et praeterita passione Christi institui debuit.  
 
 Praeterea, Eucharistia non nisi baptizatis debet dari. Sed baptismus fuit institutus post Christi passionem, quando Dominus discipulis formam baptizandi dedit, Matth. ult. Ergo et post passionem institui debuit Eucharistia.  
 
@@ -229,7 +229,7 @@ Sed contra, videtur quod debuerit institui a principio praedicationis Christi. Q
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in quolibet genere actionum in quo inveniuntur plures actiones ordinatae diversis agentibus ordinatis distributae, oportet quod principalis illarum actionum attribuatur principali agenti, cujus virtute secundarii agentes operantur secundarias actiones; sicut patet in artibus quae sub invicem continentur, ut militaris, equestris, et frenorum factrix. Et quia invenimus diversas actiones sacramentales diversis sacramentis distributas, quae in virtute verbi incarnati agunt, oportet ad perfectam actionem hujus generis esse aliquam sacramentalem actionem quae ipsimet principali agenti attribuatur, quod est verbum incarnatum. Et ideo oportuit esse sacramentum Eucharistiae, quod ipsum verbum incarnatum contineret, ceteris sacramentis tantum in virtute ipsius agentibus.***
+Respondeo dicendum ad primam quaestionem, quod in quolibet genere actionum in quo inveniuntur plures actiones ordinatae diversis agentibus ordinatis distributae, oportet quod principalis illarum actionum attribuatur principali agenti, cujus virtute secundarii agentes operantur secundarias actiones; sicut patet in artibus quae sub invicem continentur, ut militaris, equestris, et frenorum factrix. Et quia invenimus diversas actiones sacramentales diversis sacramentis distributas, quae in virtute verbi incarnati agunt, oportet ad perfectam actionem hujus generis esse aliquam sacramentalem actionem quae ipsimet principali agenti attribuatur, quod est verbum incarnatum. Et ideo oportuit esse sacramentum Eucharistiae, quod ipsum verbum incarnatum contineret, ceteris sacramentis tantum in virtute ipsius agentibus.  
 
 Et ideo convenienter in figura cibi hoc sacramentum institutum est: quia inter alios sensus solus tactus est cui suum sensibile realiter conjungitur, similitudinibus tantum sensibilium ad alios sensus per medium pervenientibus: gustus autem tactus quidam est: et inter alia quae ad tactum pertinent, solus cibus est qui agit per conjunctionem sui ad cibatum, quia nutriens et nutritum fit unum; alia vero tangibilia agunt efficiendo aliquas impressiones in eo quod tangitur, sicut patet de calido et frigido, et hujusmodi. Et ideo cum omne sacramentum in figura alicujus rei sensibilis proponi debeat, convenienter sacramentum in quo ipsum verbum incarnatum nobis conjungendum continetur, proponitur nobis in figura cibi, non quidem convertendi in nos per suam conjunctionem ad nos, sed potius sua conjunctione nos in se ipsum convertens, secundum quod Augustinus ex persona verbi incarnati dicit: *non tu me mutabis in te, sicut cibum carnis tuae; sed tu mutaberis in me*.  
 
@@ -241,7 +241,7 @@ Ad tertium dicendum, quod de nutrimento corporali verum est nos eisdem nutriri e
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut dictum est, in hoc sacramento ipse Christus, qui est sanctificationis principale agens, realiter nobis proponitur. In veteri autem lege non exhibebatur, sed promittebatur, incarnatione nondum facta; et ideo in veteri lege hujus sacramenti institutio esse non potuit. Unde sacramenta veteris legis habebant se ad modum sensibilium quae per medium cognoscuntur, quae quidem realiter sentienti non conjunguntur, sed suas similitudines ad sensus a longinquo transmittunt. Sacramenta vero alia novae legis, in quibus virtus Christi operatur, cum ipsum realiter non contineant, assimilantur sensibilibus jam dictis, quae quidem non incorporantur sentienti, sed secundum aliquam qualitatem immutant. Hoc autem sacramentum, ut dictum est, quasi majoris perfectionis, similatur illi sensibili quod incorporatur sentienti, scilicet cibo; unde magis distat a modo sacramentorum veteris legis quam sacramenta novae legis.***
+Ad secundam quaestionem dicendum, quod sicut dictum est, in hoc sacramento ipse Christus, qui est sanctificationis principale agens, realiter nobis proponitur. In veteri autem lege non exhibebatur, sed promittebatur, incarnatione nondum facta; et ideo in veteri lege hujus sacramenti institutio esse non potuit. Unde sacramenta veteris legis habebant se ad modum sensibilium quae per medium cognoscuntur, quae quidem realiter sentienti non conjunguntur, sed suas similitudines ad sensus a longinquo transmittunt. Sacramenta vero alia novae legis, in quibus virtus Christi operatur, cum ipsum realiter non contineant, assimilantur sensibilibus jam dictis, quae quidem non incorporantur sentienti, sed secundum aliquam qualitatem immutant. Hoc autem sacramentum, ut dictum est, quasi majoris perfectionis, similatur illi sensibili quod incorporatur sentienti, scilicet cibo; unde magis distat a modo sacramentorum veteris legis quam sacramenta novae legis.  
 
 Ad primum ergo dicendum, quod Christus ab initio mundi erat caput sanctorum, non quasi habens actu conformitatem in natura cum membris ecclesiae, incarnatione nondum facta, sed solum secundum fidem incarnationem expectantium; et ideo conjunctio corporis mystici ad suum caput pro tempore illo non poterat fieri per aliquod sacramentum realiter continens ipsum caput membris conforme, sed poterat per aliqua sacramenta figurari.  
 
@@ -251,7 +251,7 @@ Ad tertium dicendum, quod quamvis antiqui patres in via essent, tendentes ad pat
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod propter quatuor rationes hoc sacramentum in coena institui debuit, et non ante. Prima apparet ex ipsa necessitate sacramenti assignata: quia ad perfectionem nostram exigebatur ut caput nostrum etiam nobis realiter conjungeretur; et ideo quamdiu sub propria specie cum hominibus conversatus est, non oportebat hoc sacramentum institui, sed quando ejus corporali praesentia destituenda erat ecclesia; et haec ratio tangitur in littera ab Eusebio: *quia*, inquit, *corpus assumptum ablaturus erat*, etc.***
+Ad tertiam quaestionem dicendum, quod propter quatuor rationes hoc sacramentum in coena institui debuit, et non ante. Prima apparet ex ipsa necessitate sacramenti assignata: quia ad perfectionem nostram exigebatur ut caput nostrum etiam nobis realiter conjungeretur; et ideo quamdiu sub propria specie cum hominibus conversatus est, non oportebat hoc sacramentum institui, sed quando ejus corporali praesentia destituenda erat ecclesia; et haec ratio tangitur in littera ab Eusebio: *quia*, inquit, *corpus assumptum ablaturus erat*, etc.  
 
 Secunda sumitur ex ejus figura. Christus enim quamdiu in mundo conversatus est, figuras legis observare voluit, *factus sub lege, ut eos qui sub lege erant redimeret*. Et quia veniente veritate cessat figura, ideo non debuit hoc sacramentum institui nisi Christo abscedente per mortem, quando figurae veteris legis terminandae erant.  
 
@@ -273,7 +273,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod hoc sacramentum a non jejunis licite sumi possit. Hoc enim sacramentum a Domino in coena institutum est. Sed ecclesia observat ea quae Dominus servavit in sacramentorum traditione, sicut formam et materiam. Ergo et ritum deberet servare, ut jam pransis hoc sacramentum traderetur.***
+Ad quartum sic proceditur. Videtur quod hoc sacramentum a non jejunis licite sumi possit. Hoc enim sacramentum a Domino in coena institutum est. Sed ecclesia observat ea quae Dominus servavit in sacramentorum traditione, sicut formam et materiam. Ergo et ritum deberet servare, ut jam pransis hoc sacramentum traderetur.  
 
 Praeterea, 1 Corinth. 11, 33, dicitur: *dum convenitis ad manducandum, invicem expectate. Si quis autem esurit, domi manducet*. Loquitur autem de manducatione corporis Christi. Ergo postquam aliquis domi manducaverit, potest in ecclesia corpus Christi manducare licite.  
 
@@ -285,7 +285,7 @@ Praeterea, hoc sacramentum cum magna reverentia sumendum est. Sed post cibum non
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non quaelibet cibi sumptio perceptionem hujus sacramenti impediat. Quia sumptio cibi et potus in parva quantitate in nullo sobrietatem diminuit, immo magis auget naturam confortando. Sed ideo oportet a jejunis sumi, ut cum reverentia sumatur et sobrietate. Ergo non quaelibet sumptio cibi impedit perceptionem hujus sacramenti.***
+Ulterius. Videtur quod non quaelibet cibi sumptio perceptionem hujus sacramenti impediat. Quia sumptio cibi et potus in parva quantitate in nullo sobrietatem diminuit, immo magis auget naturam confortando. Sed ideo oportet a jejunis sumi, ut cum reverentia sumatur et sobrietate. Ergo non quaelibet sumptio cibi impedit perceptionem hujus sacramenti.  
 
 Praeterea, ad perceptionem hujus sacramenti exigitur quod homo sit jejunus. Sed quaedam sunt quae non frangunt jejunium, sicut aqua, et medicinae quaedam. Ergo videtur quod post earum susceptionem homo possit hoc sacramentum percipere.  
 
@@ -295,7 +295,7 @@ Sed contra est quod ex hoc ipso sacramento reverentia exhibetur quod prius in os
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod homo non statim debet comedere post corporis Christi sumptionem, per hoc quod dicitur *de Consecr*., dist. 2: *si mane Dominica portio editur, usque ad sextam ministri jejunent qui eam consumpserunt, et si in tertia vel quarta hora acceperint, jejunent usque ad vesperam*.***
+Ulterius. Videtur quod homo non statim debet comedere post corporis Christi sumptionem, per hoc quod dicitur *de Consecr*., dist. 2: *si mane Dominica portio editur, usque ad sextam ministri jejunent qui eam consumpserunt, et si in tertia vel quarta hora acceperint, jejunent usque ad vesperam*.  
 
 Praeterea, non minor reverentia exhibenda est sacramento jam sumpto quam sumendo. Sed ante perceptionem non est aliquis cibus sumendus. Ergo nec post, quousque in ventre remaneat.  
 
@@ -303,7 +303,7 @@ Sed contra est contraria consuetudo totius ecclesiae.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod hoc sacramentum a jejunis tantum percipi debet, nisi propter necessitatem imminentis mortis, ne contingat sine viatico ex hac vita transire: quod oportet in reverentiam tanti sacramenti, praecipue propter tria institutum esse. Primo propter ipsam sanctitatem sacramenti; ut os Christiani, quo sumendum est, non sit alio cibo prius imbutum, sed quasi novum et purum ad perceptionem ejus reservetur. Secundo propter devotionem quae exigitur ex parte recipientis, et attentionem quae ex cibis acceptis impediri posset, fumis a stomacho ad caput ascendentibus. Tertio propter periculum vomitus, vel alicujus hujusmodi.***
+Respondeo dicendum ad primam quaestionem, quod hoc sacramentum a jejunis tantum percipi debet, nisi propter necessitatem imminentis mortis, ne contingat sine viatico ex hac vita transire: quod oportet in reverentiam tanti sacramenti, praecipue propter tria institutum esse. Primo propter ipsam sanctitatem sacramenti; ut os Christiani, quo sumendum est, non sit alio cibo prius imbutum, sed quasi novum et purum ad perceptionem ejus reservetur. Secundo propter devotionem quae exigitur ex parte recipientis, et attentionem quae ex cibis acceptis impediri posset, fumis a stomacho ad caput ascendentibus. Tertio propter periculum vomitus, vel alicujus hujusmodi.  
 
 Ad primum ergo dicendum, quod forma et materia sunt servata a Domino instituente hoc sacramentum quasi essentialia sacramento; et ideo oportuit quod ecclesia haec retineret. Sed ordinem sumendi servavit Dominus quasi convenientem institutioni sacramenti; unde non oportet quod ecclesia servet: quia non oportet quod illud quod convenit principio vel generationi alicujus rei quod competat ei quando jam est in esse perfecto; et similiter quod competit sacramento quantum ad sui institutionem, non oportet quod competat ei quantum ad suum usum.  
 
@@ -313,7 +313,7 @@ Ad tertium dicendum, quod forte ecclesia aliquo tempore sustinuit in die coenae 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut dictum est, in reverentiam sanctitatis hujus sacramenti institutum est quod os Christiani suscipientis corpus Christi quasi novum ad ipsum sumendum accedat. Quantalibet autem cibi assumptio hanc auferret novitatem; et ideo quaelibet cibi sumptio impedimentum praebet Eucharistiae sumptioni.***
+Ad secundam quaestionem dicendum, quod, sicut dictum est, in reverentiam sanctitatis hujus sacramenti institutum est quod os Christiani suscipientis corpus Christi quasi novum ad ipsum sumendum accedat. Quantalibet autem cibi assumptio hanc auferret novitatem; et ideo quaelibet cibi sumptio impedimentum praebet Eucharistiae sumptioni.  
 
 Ad primum ergo dicendum, quod legis praecepta se habent ad ea quae agenda sunt sicut universalia ad singularia, ut dicitur in 5 *Ethic*. Quia enim legislator non potest ad omnes eventus attendere, oportet quod ad ea quae in pluribus accidunt attendens, universalem legem constituat, ut lex universalis sit. Et quia ut frequenter per cibum turbatur hominis discretio et sobrietas, quae praecipue in hoc sacramento exigitur, ideo universaliter prohibitum est post cibum corpus Christi sumi, quamvis aliqua cibi sumptio non impediat rationem; praecipue cum nihil periculi accidat, si post cibum sumptum abstineatur a perceptione hujus sacramenti, quia in articulo necessitatis licet accipere post alios cibos.  
 
@@ -323,7 +323,7 @@ Ad tertium dicendum, quod jejunium naturae dicitur per privationem actus comesti
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod secundum consuetudinem ecclesiae propter reverentiam tanti sacramenti, post ejus sumptionem homo debet in gratiarum actione persistere; unde etiam in Missa oratio gratiarum actionis post communionem dicitur, et sacerdotes post celebrationem suas speciales orationes habent ad gratiarum actionem; et ideo oportet esse aliquod intervallum inter sumptionem Eucharistiae et aliorum ciborum. Sed quia non requiritur magnum intervallum, et quod parum deest, nihil deesse videtur, ut dicitur in 2 *Physic*., ideo possemus sub hoc sensu concedere quod statim potest aliquis cibos alios sumere post Eucharistiae sumptionem.***
+Ad tertiam quaestionem dicendum, quod secundum consuetudinem ecclesiae propter reverentiam tanti sacramenti, post ejus sumptionem homo debet in gratiarum actione persistere; unde etiam in Missa oratio gratiarum actionis post communionem dicitur, et sacerdotes post celebrationem suas speciales orationes habent ad gratiarum actionem; et ideo oportet esse aliquod intervallum inter sumptionem Eucharistiae et aliorum ciborum. Sed quia non requiritur magnum intervallum, et quod parum deest, nihil deesse videtur, ut dicitur in 2 *Physic*., ideo possemus sub hoc sensu concedere quod statim potest aliquis cibos alios sumere post Eucharistiae sumptionem.  
 
 Ad primum ergo dicendum quod illud decretum loquitur secundum consuetudinem primitivae ecclesiae, quando propter paucitatem ministrorum rarius Missarum solemnia celebrabantur, et cum majori praeparatione. Unde Dionysius narrat de Carpo in suis epistolis quod nunquam Missam celebrabat nisi aliqua divina revelatione prius percepta; et ideo nunc per contrariam consuetudinem abrogatum est.  
 
@@ -346,25 +346,25 @@ primo, de forma qua corpus Christi consecratur;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod haec non sit forma consecrationis panis: *hoc est corpus meum*. Sacramenta enim habent efficaciam ex institutione divina. Sed Dominus instituens hoc sacramentum non consecravit his verbis, sed post consecrationem et fractionem haec verba protulit; unde dicitur Matth. 26, 26: *coenantibus illis accepit Jesus panem, et benedixit, et fregit, deditque discipulis suis, et ait: accipite et comedite; hoc est corpus meum*. Ergo in praedictis verbis non consistit forma consecrationis panis.***
+Ad primum sic proceditur. Videtur quod haec non sit forma consecrationis panis: *hoc est corpus meum*. Sacramenta enim habent efficaciam ex institutione divina. Sed Dominus instituens hoc sacramentum non consecravit his verbis, sed post consecrationem et fractionem haec verba protulit; unde dicitur Matth. 26, 26: *coenantibus illis accepit Jesus panem, et benedixit, et fregit, deditque discipulis suis, et ait: accipite et comedite; hoc est corpus meum*. Ergo in praedictis verbis non consistit forma consecrationis panis.  
 
 Praeterea, forma baptismi consistit in verbis quae dicuntur in ipso usu baptismi. Sed haec verba non dicuntur in usu Eucharistiae, sed magis in sanctificatione materiae. Ergo in his verbis non consistit forma hujus sacramenti.  
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non tantum in his verbis consistat forma: *hoc est corpus meum*. Sicut enim dicit Eusebius Emissenus, *invisibilis sacerdos visibiles creaturas in suum corpus convertit dicens: accipite et comedite*, etc. Ergo haec etiam est forma: *accipite et comedite*.***
+Ulterius. Videtur quod non tantum in his verbis consistat forma: *hoc est corpus meum*. Sicut enim dicit Eusebius Emissenus, *invisibilis sacerdos visibiles creaturas in suum corpus convertit dicens: accipite et comedite*, etc. Ergo haec etiam est forma: *accipite et comedite*.  
 
 Praeterea, illud quod non est de substantia formae, non debet interponi inter substantialia formae, in hoc sacramento, sicut nec in aliis. Sed inter haec verba, in libris Romanis interposita invenitur haec conjunctio *enim*. Ergo hoc etiam est de forma, et non tantum verba praedicta.  
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod forma haec non sit conveniens. In forma enim sacramenti debet exprimi hoc quod in sacramento geritur per actum convenientem materiae, sicut in forma baptismi dicitur: *ego te baptizo*; et in forma confirmationis: *confirmo te chrismate salutis*. Sed non ponitur in verbis praemissis aliquid pertinens ad transubstantiationem, quae fit in hoc sacramento, panis scilicet in corpus Christi. Ergo non est conveniens forma.***
+Ulterius. Videtur quod forma haec non sit conveniens. In forma enim sacramenti debet exprimi hoc quod in sacramento geritur per actum convenientem materiae, sicut in forma baptismi dicitur: *ego te baptizo*; et in forma confirmationis: *confirmo te chrismate salutis*. Sed non ponitur in verbis praemissis aliquid pertinens ad transubstantiationem, quae fit in hoc sacramento, panis scilicet in corpus Christi. Ergo non est conveniens forma.  
 
 Praeterea, dispensatur hoc sacramentum per ministros ecclesiae, sicut et alia sacramenta. Sed in formis aliorum sacramentorum ponitur aliquid pertinens ad ministrum. Ergo cum in hac forma non ponatur actus ministri, videtur quod sit incompetens.  
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod singulae partes inconvenienter ponantur. Hoc enim pronomen hoc demonstrativum est. Aut ergo importat demonstrationem ut conceptam, aut ut exercitam. Si ut conceptam, sic sumitur ut res quaedam, et non ut habens ordinem ad rem aliam, ut si dicerem: *hoc pronomen hoc*. Sed sanctificatio sacramenti non fit nisi per hoc quod verba formae ordinantur ad materiam ex intentione proferentis. Ergo secundum hoc non posset verbis praedictis fieri consecratio aliqua corporis Christi. Si autem importat demonstrationem ut exercitam; aut facit demonstrationem ad intellectum, aut ad sensum. Si ad intellectum, ut sit sensus: *hoc*, idest significatum per hoc, *est corpus meum*, tunc iterum significatio verborum non refertur ad hanc materiam panis. Sed sacramenta significando efficiunt; et de formis sacramentorum Augustinus dicit: *accedit verbum ad elementum, et fit sacramentum*. Ergo adhuc per verba praedicta non fit transubstantiatio. Si autem faciat demonstrationem ad sensum, ergo demonstrabit substantiam contentam sub illis speciebus sensibilibus. Sed illa substantia est panis, de quo non potest dici quod sit corpus Christi. Ergo non erit vera haec locutio: *hoc est corpus meum*.***
+Ulterius. Videtur quod singulae partes inconvenienter ponantur. Hoc enim pronomen hoc demonstrativum est. Aut ergo importat demonstrationem ut conceptam, aut ut exercitam. Si ut conceptam, sic sumitur ut res quaedam, et non ut habens ordinem ad rem aliam, ut si dicerem: *hoc pronomen hoc*. Sed sanctificatio sacramenti non fit nisi per hoc quod verba formae ordinantur ad materiam ex intentione proferentis. Ergo secundum hoc non posset verbis praedictis fieri consecratio aliqua corporis Christi. Si autem importat demonstrationem ut exercitam; aut facit demonstrationem ad intellectum, aut ad sensum. Si ad intellectum, ut sit sensus: *hoc*, idest significatum per hoc, *est corpus meum*, tunc iterum significatio verborum non refertur ad hanc materiam panis. Sed sacramenta significando efficiunt; et de formis sacramentorum Augustinus dicit: *accedit verbum ad elementum, et fit sacramentum*. Ergo adhuc per verba praedicta non fit transubstantiatio. Si autem faciat demonstrationem ad sensum, ergo demonstrabit substantiam contentam sub illis speciebus sensibilibus. Sed illa substantia est panis, de quo non potest dici quod sit corpus Christi. Ergo non erit vera haec locutio: *hoc est corpus meum*.  
 
 Praeterea, quod transit in aliquid, non est illud: quia omnis motus et factio est ex incontingenti, ut dicit Philosophus in 1 *Physica*. Sed verum est dicere quod haec substantia demonstrata fit corpus Christi vel transit in corpus Christi. Ergo non vere dicitur: *hoc est corpus meum*.  
 
@@ -374,7 +374,7 @@ Praeterea, sicut dictum est, oportet quod hoc pronomen hoc faciat demonstratione
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod verba quae circa formam dicuntur, non convenienter ponantur. Sicut enim Dionysius dicit in principio *de Divin. Nom*., *non est audendum dicere aliquid de divinis praeter ea quae nobis ex sacris eloquiis sunt expressa*. Sed in Evangeliis non legitur quod Dominus instituens hoc sacramentum in coena, oculos ad caelum levaverit. Ergo inconvenienter praemittitur: *sublevatis oculis in caelum*.***
+Ulterius. Videtur quod verba quae circa formam dicuntur, non convenienter ponantur. Sicut enim Dionysius dicit in principio *de Divin. Nom*., *non est audendum dicere aliquid de divinis praeter ea quae nobis ex sacris eloquiis sunt expressa*. Sed in Evangeliis non legitur quod Dominus instituens hoc sacramentum in coena, oculos ad caelum levaverit. Ergo inconvenienter praemittitur: *sublevatis oculis in caelum*.  
 
 Praeterea, in baptismo non licet fieri mutationem verborum etiam per verba ejusdem significationis, ut pro loco *Patris*, Genitoris poneretur. Sed in nullo Evangelio sunt haec verba: *accipite et manducate*; sed *accipite et comedite*. Ergo inconvenienter dicitur: *manducate*.  
 
@@ -382,7 +382,7 @@ Praeterea, in nullo Evangeliorum ponitur *omnes*. Ergo videtur quod praesumptuos
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod per formam cujuslibet sacramenti oportet quod exprimatur hoc in quo substantia sacramenti consistit; sicut in forma baptismi ablutio exprimitur, qua baptismi perficitur sacramentum. Tota autem perfectio hujus sacramenti in ipsa materiae consecratione consistit, quae est per transubstantiationem panis in corpus Christi: et hanc transubstantiationem exprimunt verba haec: *hoc est corpus meum*; et ideo haec verba sunt forma hujus sacramenti.***
+Respondeo dicendum ad primam quaestionem, quod per formam cujuslibet sacramenti oportet quod exprimatur hoc in quo substantia sacramenti consistit; sicut in forma baptismi ablutio exprimitur, qua baptismi perficitur sacramentum. Tota autem perfectio hujus sacramenti in ipsa materiae consecratione consistit, quae est per transubstantiationem panis in corpus Christi: et hanc transubstantiationem exprimunt verba haec: *hoc est corpus meum*; et ideo haec verba sunt forma hujus sacramenti.  
 
 Ad primum ergo dicendum, quod circa hoc est quadruplex opinio.  
 
@@ -398,7 +398,7 @@ Ad secundum dicendum, quod perfectio aliorum sacramentorum consistit in usu mate
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in hoc sacramento, sicut in aliis, duo sunt; scilicet consecratio materiae, et usus materiae consecratae; et haec duo per verba Domini exprimuntur. In hoc enim quod dicitur, *Accipite et manducate ex hoc omnes*, praecipitur usus sacramenti; in hoc autem quod dicitur, *hoc est corpus meum*, traditur materiae consecratio. Et quia consecratio materiae est ad usum fidelium, ideo usus praemittitur in demonstratione sacramenti, quamvis sequatur in executione: quia finis est prior in intentione et cognitione, et ultimus in operatione. Sed quia, ut dictum est, usus materiae in hoc sacramento non est de essentia sacramenti, sicut in aliis; ideo illa verba quae ad usum pertinent, non sunt de forma, sed tantum illa quae ad consecrationem materiae pertinent, scilicet, *hoc est corpus meum*.***
+Ad secundam quaestionem dicendum, quod in hoc sacramento, sicut in aliis, duo sunt; scilicet consecratio materiae, et usus materiae consecratae; et haec duo per verba Domini exprimuntur. In hoc enim quod dicitur, *Accipite et manducate ex hoc omnes*, praecipitur usus sacramenti; in hoc autem quod dicitur, *hoc est corpus meum*, traditur materiae consecratio. Et quia consecratio materiae est ad usum fidelium, ideo usus praemittitur in demonstratione sacramenti, quamvis sequatur in executione: quia finis est prior in intentione et cognitione, et ultimus in operatione. Sed quia, ut dictum est, usus materiae in hoc sacramento non est de essentia sacramenti, sicut in aliis; ideo illa verba quae ad usum pertinent, non sunt de forma, sed tantum illa quae ad consecrationem materiae pertinent, scilicet, *hoc est corpus meum*.  
 
 Ad primum ergo dicendum, quod quamvis sacramenti usus non sit de essentia sacramenti, est tamen ad completum esse ipsius, inquantum pertingit ad hoc quod institutum est; et ideo quandoque dicuntur esse de forma non solum illa quae pertinent ad consecrationem, sed etiam illa quae pertinent ad usum; et sic loquitur Ambrosius et Eusebius et Magister in littera.  
 
@@ -406,7 +406,7 @@ Ad secundum dicendum, quod haec conjunctio *enim* importat ordinem consecrationi
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod minister in sacramentis dupliciter operatur. Uno modo, verba pronuntians; alio modo actum aliquem exteriorem exercens, ut in baptismo patet; et utrumque istorum est sacramentalis causa ejus quod divina virtute, quae in sacramentis latet, perficitur. Causa autem sacramentalis significando efficit; unde in illis sacramentis in quibus utroque modo minister operatur, oportet quod verba prolata significent actum exercitum, et actus exterior significet interiorem effectum, ut in baptismo patet: quia ablutio exterior, quam verba formae exprimunt, significat interiorem ablutionem, quam divina virtus perficit in sacramento latens. Ubi ergo minister non operatur nisi verba pronuntians, oportet quod verborum significatio immediate ad hoc quod efficitur, referatur. In hoc autem sacramento, cujus perfectio in ipsa materiae consecratione consistit, non habet minister actum nisi pronuntiationem verborum, sicut nec in aliqua alia materiae sanctificatione. Unde oportet quod verba formae significent hoc quod virtus divina in secreto facit; hoc autem est esse corpus Christi sub speciebus illis; et ideo haec est conveniens forma huic sacramento: *hoc est corpus meum*, quae hoc quod dictum est, significat.***
+Ad tertiam quaestionem dicendum, quod minister in sacramentis dupliciter operatur. Uno modo, verba pronuntians; alio modo actum aliquem exteriorem exercens, ut in baptismo patet; et utrumque istorum est sacramentalis causa ejus quod divina virtute, quae in sacramentis latet, perficitur. Causa autem sacramentalis significando efficit; unde in illis sacramentis in quibus utroque modo minister operatur, oportet quod verba prolata significent actum exercitum, et actus exterior significet interiorem effectum, ut in baptismo patet: quia ablutio exterior, quam verba formae exprimunt, significat interiorem ablutionem, quam divina virtus perficit in sacramento latens. Ubi ergo minister non operatur nisi verba pronuntians, oportet quod verborum significatio immediate ad hoc quod efficitur, referatur. In hoc autem sacramento, cujus perfectio in ipsa materiae consecratione consistit, non habet minister actum nisi pronuntiationem verborum, sicut nec in aliqua alia materiae sanctificatione. Unde oportet quod verba formae significent hoc quod virtus divina in secreto facit; hoc autem est esse corpus Christi sub speciebus illis; et ideo haec est conveniens forma huic sacramento: *hoc est corpus meum*, quae hoc quod dictum est, significat.  
 
 Ad primum ergo dicendum, quod in hoc sacramento non geritur aliquid a ministro quod sit de essentia sacramenti, sicut erat in baptismo; unde oportet quod verba significent illud tantum quod divina virtute geritur. Omne autem faciens causat ipsam factionem in hoc quod factum est; nec oportet esse assimilationem factionis ad facientem, sed facti ad facientem, quia ad hoc est intentio facientis. Sicut autem in operibus artis et naturae requiritur inter faciens et factum similitudo secundum formam naturalem et artificialem; ita in causis sacramentalibus requiritur assimilatio vel repraesentatio per modum significationis; unde verba prolata in hoc sacramento non deberent significare ipsam factionem vel transubstantiationem ut in fieri, sed ut in factum esse; unde haec non esset conveniens forma hujus sacramenti: *hoc fit corpus meum*: quia per hoc non significatur aliquid esse vel non esse; et similiter nec haec: *hoc mutetur, vel transubstantietur in corpus meum*: quia non significatur esse vel non esse *hoc*, quod est principaliter intentum in hoc sacramento. Vel dicendum, quod alia verba significant agere et pati, et ita motum aliquem, et quia in transubstantiatione non est motus aliquis, cum non sit subjectum commune, nec mutatio, quia terminus transubstantiationis est praeexistens actu; ideo per nullum verbum congrue potuit tradi forma sacramenti hujus, nisi per verbum substantivum.  
 
@@ -414,7 +414,7 @@ Ad secundum dicendum, quod minister non habet actum exteriorem in consecratione,
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut dictum est, verba formae transubstantiationem in suo termino significare debent, non secundum quod consideratur ut in fieri. Esse autem est terminus transubstantiationis, cujus extrema vel termini sunt duae substantiae; et ideo in verbis formae significantur duo termini transubstantiationis, et ipsa transubstantiatio prout est in suo termino per verbum *essendi*. In termino autem transubstantiationis substantia quae erat terminus a quo, non manet quantum ad naturam speciei, sed solum quantum ad accidentia, quibus ejus individuatio cognoscebatur; sed substantia quae est terminus ad quem, in termino transubstantiationis continetur in sacramento integre, et quo ad naturam speciei, et quo ad accidentia propria. Et ideo ex parte termini a quo, non ponitur illud quod significaret naturam speciei, sed pronomen demonstrativum, quod notificat individuationem per accidentia, prout cadunt sub sensu: ex parte autem termini ad quem, ponitur nomen designans naturam speciei, et pronomen non demonstrativum hujus substantiae prout est sub sacramento, sed prout est Christi in propria specie visibilis, quia sic verba formae pronuntiavit. Unde patet quod congrue in his verbis quatuor forma consistit: *hoc est corpus meum*.***
+Ad quartam quaestionem dicendum, quod, sicut dictum est, verba formae transubstantiationem in suo termino significare debent, non secundum quod consideratur ut in fieri. Esse autem est terminus transubstantiationis, cujus extrema vel termini sunt duae substantiae; et ideo in verbis formae significantur duo termini transubstantiationis, et ipsa transubstantiatio prout est in suo termino per verbum *essendi*. In termino autem transubstantiationis substantia quae erat terminus a quo, non manet quantum ad naturam speciei, sed solum quantum ad accidentia, quibus ejus individuatio cognoscebatur; sed substantia quae est terminus ad quem, in termino transubstantiationis continetur in sacramento integre, et quo ad naturam speciei, et quo ad accidentia propria. Et ideo ex parte termini a quo, non ponitur illud quod significaret naturam speciei, sed pronomen demonstrativum, quod notificat individuationem per accidentia, prout cadunt sub sensu: ex parte autem termini ad quem, ponitur nomen designans naturam speciei, et pronomen non demonstrativum hujus substantiae prout est sub sacramento, sed prout est Christi in propria specie visibilis, quia sic verba formae pronuntiavit. Unde patet quod congrue in his verbis quatuor forma consistit: *hoc est corpus meum*.  
 
 Ad primum ergo dicendum, quod circa hoc est multiplex opinio.  
 
@@ -436,7 +436,7 @@ Ad quartum dicendum, quod hoc sacramentum directe repraesentativum est Dominicae
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod multa sunt a Domino facta vel dicta quae Evangelistae non scripserunt, ut patet Joan. 21, quae tamen ecclesia postea ab apostolis accepta fideliter conservavit.***
+Ad quintam quaestionem dicendum, quod multa sunt a Domino facta vel dicta quae Evangelistae non scripserunt, ut patet Joan. 21, quae tamen ecclesia postea ab apostolis accepta fideliter conservavit.  
 
 Et secundum hoc dicendum ad primum quod, sicut Innocentius Papa dicit, quod quamvis nusquam in Sacra Scriptura legatur quod Dominus ad caelum oculos sublevaverit in coena; tamen hoc ecclesia ex traditione apostolorum recitat, et satis rationabiliter potest ex aliis locis Scripturae colligi. Legitur enim Joan. 11, quod in suscitatione Lazari oculos ad patrem elevaverit; et similiter Joan. 17, orationem ad patrem fundens. Hoc autem in arduis faciebat, gratias agens, et exemplum nobis ad Deum recurrendi praebens, secundum illud Psal. 122, 1: *Ad te levavi oculos meos qui habitas in caelis*. Et quia hoc sacramentum arduissimum est, ideo instituens hoc sacramentum probabiliter colligitur quod oculos ad patrem levaverit, gratias agens patri de reparatione humani generis, quae hoc sacramento figuratur, et nobis ostendens virtute divina hoc confici sacramentum.  
 
@@ -450,7 +450,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod forma consecrationis sanguinis consistat in his tantum verbis: *hic est calix sanguinis mei*; et hoc quod additur: *novi et aeterni testamenti, mysterium fidei, qui pro vobis et pro multis effundetur in remissionem peccatorum* non sit de forma. Evangelistae enim convenire debent in his quae sunt de substantia formae hujus sacramenti: quia verba formae hujus sacramenti recitative dicuntur ex persona Christi. Sed non conveniunt in verbis illis appositis, quia in nullo Evangelistarum leguntur, nec ab apostolo, 1 Corinth. 11, haberi possunt. Ergo non sunt de forma hujus sacramenti.***
+Ad secundum sic proceditur. Videtur quod forma consecrationis sanguinis consistat in his tantum verbis: *hic est calix sanguinis mei*; et hoc quod additur: *novi et aeterni testamenti, mysterium fidei, qui pro vobis et pro multis effundetur in remissionem peccatorum* non sit de forma. Evangelistae enim convenire debent in his quae sunt de substantia formae hujus sacramenti: quia verba formae hujus sacramenti recitative dicuntur ex persona Christi. Sed non conveniunt in verbis illis appositis, quia in nullo Evangelistarum leguntur, nec ab apostolo, 1 Corinth. 11, haberi possunt. Ergo non sunt de forma hujus sacramenti.  
 
 Praeterea, sicut panis transubstantiatur in corpus Christi per consecrationem, ita vinum in Christi sanguinem. Sed consecratio quae fit his verbis, *hoc est corpus meum*, sufficit ad transubstantiationem panis in corpus Christi. Ergo et haec verba: *hic est calix sanguinis mei*, sufficiunt ad transubstantiationem vini in sanguinem Christi; ergo verba quae sequuntur non sunt de forma.  
 
@@ -462,7 +462,7 @@ Praeterea hoc videtur ex ritu consecrationis: quia sacerdos non deponit calicem 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod haec verba inconvenienter ponantur: *hic est calix sanguinis mei*. Unius enim modi est transubstantiatio panis in corpus Christi, et vini in sanguinem. Sed in transubstantiatione panis in corpus Christi ponitur corpus Christi in recto. Ergo in consecratione vini poni debet sanguis Christi in recto, ut dicatur, sicut Magister dicit in littera: *hic est sanguis meus*; sicut etiam habetur Matth. 26.***
+Ulterius. Videtur quod haec verba inconvenienter ponantur: *hic est calix sanguinis mei*. Unius enim modi est transubstantiatio panis in corpus Christi, et vini in sanguinem. Sed in transubstantiatione panis in corpus Christi ponitur corpus Christi in recto. Ergo in consecratione vini poni debet sanguis Christi in recto, ut dicatur, sicut Magister dicit in littera: *hic est sanguis meus*; sicut etiam habetur Matth. 26.  
 
 Praeterea, in forma transubstantiante ex parte praedicati poni debet terminus in quem fit transubstantiatio, ut ex dictis patet. Sed transubstantiatio non fit in calicem alicujus. Ergo non debet praedicari in forma transubstantiante.  
 
@@ -472,7 +472,7 @@ Sed contra est quod dicitur Luc. 22, 20: *hic calix novi testamenti in meo sangu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam verba quae sequuntur, inconvenienter ponantur. Testamentum enim videtur pertinere ad traditionem mandatorum; unde et tabulae continentes decem praecepta, dicuntur tabulae testamenti. Sed traditio sacramentorum est alia a traditione mandatorum. Ergo in sacramentis non debet fieri mentio de testamento.***
+Ulterius. Videtur quod etiam verba quae sequuntur, inconvenienter ponantur. Testamentum enim videtur pertinere ad traditionem mandatorum; unde et tabulae continentes decem praecepta, dicuntur tabulae testamenti. Sed traditio sacramentorum est alia a traditione mandatorum. Ergo in sacramentis non debet fieri mentio de testamento.  
 
 Praeterea, Ambrosius dicit, nostra sacramenta antiquiora esse sacramentis Judaeorum. Sed sacramenta Judaeorum non pertinent ad novum testamentum, sed ad vetus. Ergo nec in sacramento isto, de quo Ambrosius loquitur, debet apponi: *novi testamenti*.  
 
@@ -490,7 +490,7 @@ Praeterea, baptismus magis ordinatur contra amotionem mali quam Eucharistia, qua
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circa hoc aliqui diversimode dixerunt. Quidam enim dicunt, quod hoc est tantum de forma: *hic est calix sanguinis mei*, ut forma utriusque consecrationis sit consimilis. Sed quia conditiones appositae ad subjectum vel praedicatum sunt de integritate locutionis alicujus; ideo alii probabilius dicunt, quod totum quod sequitur, est de forma, cum totum hoc quod additur non sit locutio per se, sed sit determinatio praedicati.***
+Respondeo dicendum ad primam quaestionem, quod circa hoc aliqui diversimode dixerunt. Quidam enim dicunt, quod hoc est tantum de forma: *hic est calix sanguinis mei*, ut forma utriusque consecrationis sit consimilis. Sed quia conditiones appositae ad subjectum vel praedicatum sunt de integritate locutionis alicujus; ideo alii probabilius dicunt, quod totum quod sequitur, est de forma, cum totum hoc quod additur non sit locutio per se, sed sit determinatio praedicati.  
 
 Ad primum ergo dicendum, quod verba supradicta ex magna parte possunt ex diversis locis Sacrae Scripturae colligi, quamvis non inveniantur alicubi simul scripta. Quod enim dicitur: *hic est calix*, habetur Luc. 22, et 1 Corinth. 2. Quod autem dicitur: *novi testamenti*, ex tribus habetur, Matth. 26, et Marc. 14, et Luc. 22. Quod autem dicitur, *aeterni*, et iterum, *mysterium fidei*, ex traditione Domini habetur, quae per apostolos ad ecclesiam pervenit, secundum illud 1 Corinth. 11, 23: *ego accepi a Domino quod et tradidi vobis*. Evangelistae enim non intendebant formas et ritus sacramentorum tradere, sed dicta et facta Domini enarrare.  
 
@@ -500,7 +500,7 @@ Ad tertium dicendum, quod quamvis illa quae sequuntur sint ut proprietates conse
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod haec locutio: *hic est calix sanguinis mei*, figurativa est, et potest intelligi dupliciter. Uno modo ut sit metonymica locutio, ut ponatur continens pro contento, secundum quod dicere consuevimus, bibe calicem vini, idest vinum contentum in calice. Ideo autem talis modus locutionis congruus est formae huic, quia sanguis de sui ratione non dicit aliquid potabile, immo magis aliquid quod natura abhorret in potum. Et quia in hoc sacramento sanguis Christi consecratur ut potus, ideo oportuit aliquid addi quod ad potum pertineret, scilicet *calicem*. Alio modo potest intelligi, ut sit metaphorica locutio, ut per calicem passio Christi designetur. Sicut enim calix vini inebriat, ita et passio sui amaritudine quasi hominem extra se ponit: Thren. 3, 15: *replevit me amaritudinibus, inebriavit me absynthio*; et hoc modo loquendi usus est Dominus de sua passione loquens, ut patet Matth. 26, 39: *transeat a me calix iste*; et hic modus loquendi etiam est conveniens in hac forma: quia, ut dictum est, in consecratione sanguinis exprimitur directe mysterium passionis. Nec obstat quod solet objici, quod locutiones figurativae faciunt distrahere intellectum, et ita sunt causa evagationis: quia mens sacerdotis debet esse adeo fixa ad ea quae dicit, quod non qualibet levi actione evagetur.***
+Ad secundam quaestionem dicendum, quod haec locutio: *hic est calix sanguinis mei*, figurativa est, et potest intelligi dupliciter. Uno modo ut sit metonymica locutio, ut ponatur continens pro contento, secundum quod dicere consuevimus, bibe calicem vini, idest vinum contentum in calice. Ideo autem talis modus locutionis congruus est formae huic, quia sanguis de sui ratione non dicit aliquid potabile, immo magis aliquid quod natura abhorret in potum. Et quia in hoc sacramento sanguis Christi consecratur ut potus, ideo oportuit aliquid addi quod ad potum pertineret, scilicet *calicem*. Alio modo potest intelligi, ut sit metaphorica locutio, ut per calicem passio Christi designetur. Sicut enim calix vini inebriat, ita et passio sui amaritudine quasi hominem extra se ponit: Thren. 3, 15: *replevit me amaritudinibus, inebriavit me absynthio*; et hoc modo loquendi usus est Dominus de sua passione loquens, ut patet Matth. 26, 39: *transeat a me calix iste*; et hic modus loquendi etiam est conveniens in hac forma: quia, ut dictum est, in consecratione sanguinis exprimitur directe mysterium passionis. Nec obstat quod solet objici, quod locutiones figurativae faciunt distrahere intellectum, et ita sunt causa evagationis: quia mens sacerdotis debet esse adeo fixa ad ea quae dicit, quod non qualibet levi actione evagetur.  
 
 Ad primum ergo dicendum, quod corpus de sui ratione non dicit aliquid repugnans cibo ex ipsa sui nominatione, sicut sanguis repugnat potui; et ideo non est similis ratio. Magister autem non posuit formam quantum ad verba, sed quantum ad sensum.  
 
@@ -510,7 +510,7 @@ Ad tertium dicendum, quod quamvis vas illud non sit de substantia sacramenti, ta
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dictum est, verba illa quae adduntur in consecratione sanguinis, exprimunt conditiones passionis, et praecipue secundum quod operantur in sacramentis. Sunt autem tria in passione consideranda, secundum quod in sacramentis operatur. Primo effectus quem inducit, qui est remissio peccatorum; et hoc tangitur in hoc quod dicit: *qui pro vobis et pro multis effundetur in remissionem peccatorum*. Secundo medium quo iste effectus in alios traducitur, quod est fides, qua mediante habet effectum et in his qui praecesserunt et in his qui sequuntur; et quantum ad hoc dicit, *mysterium fidei*; quod quidem potest referri et ad ipsam passionem, quae est mysterium fidei, ut occultum quoddam latens in fide omnium Christi fidelium, et praecipue antiquorum, apud quos erat in mysterio abscondita diversimode figurata; et ad ipsum sanguinem, prout in sacramento continetur, quod quidem latet sub speciebus, et maximam habet difficultatem ad credendum; unde antonomastice dicitur, *mysterium fidei*. Tertio finis ad quem perducit, qui est aeternorum perceptio, ad quem introducit Christus per sanguinem propriae passionis: in quo novum testamentum confirmatur, non quidem promittens temporalia, ut prius, sed aeterna; et quantum ad hoc dicit: *novi et aeterni testamenti*. Et quia finis prius est in intentione, ideo, fine praemisso, per medium ad effectum passionis ostendendum verba formae perducunt.***
+Ad tertiam quaestionem dicendum, quod, sicut dictum est, verba illa quae adduntur in consecratione sanguinis, exprimunt conditiones passionis, et praecipue secundum quod operantur in sacramentis. Sunt autem tria in passione consideranda, secundum quod in sacramentis operatur. Primo effectus quem inducit, qui est remissio peccatorum; et hoc tangitur in hoc quod dicit: *qui pro vobis et pro multis effundetur in remissionem peccatorum*. Secundo medium quo iste effectus in alios traducitur, quod est fides, qua mediante habet effectum et in his qui praecesserunt et in his qui sequuntur; et quantum ad hoc dicit, *mysterium fidei*; quod quidem potest referri et ad ipsam passionem, quae est mysterium fidei, ut occultum quoddam latens in fide omnium Christi fidelium, et praecipue antiquorum, apud quos erat in mysterio abscondita diversimode figurata; et ad ipsum sanguinem, prout in sacramento continetur, quod quidem latet sub speciebus, et maximam habet difficultatem ad credendum; unde antonomastice dicitur, *mysterium fidei*. Tertio finis ad quem perducit, qui est aeternorum perceptio, ad quem introducit Christus per sanguinem propriae passionis: in quo novum testamentum confirmatur, non quidem promittens temporalia, ut prius, sed aeterna; et quantum ad hoc dicit: *novi et aeterni testamenti*. Et quia finis prius est in intentione, ideo, fine praemisso, per medium ad effectum passionis ostendendum verba formae perducunt.  
 
 Ad primum ergo dicendum, quod testamentum proprie est hereditatis percipiendae institutio filiis a patre; et ideo testamentum proprie pertinet ad promissionem bonorum, quae nobis a patre caelesti disponuntur; ad quod quidem testamentum praecepta se habent sicut via ad consequendum hereditatem promissam; et ita per posterius testamentum ad mandata pertinet.  
 
@@ -532,7 +532,7 @@ Articulus 3
 
 ***De virtute utriusque***
 
-***Ad tertium sic proceditur. Videtur quod verbis praedictis non insit aliqua vis creata ad transubstantiationem faciendam. Damascenus enim dicit, quod *sola virtute Spiritus Sancti fit conversio panis in corpus Christi*. Sed virtus Spiritus Sancti non est virtus creata. Ergo nulla virtus creata inest his verbis, per quam fiat transubstantiatio.***
+Ad tertium sic proceditur. Videtur quod verbis praedictis non insit aliqua vis creata ad transubstantiationem faciendam. Damascenus enim dicit, quod *sola virtute Spiritus Sancti fit conversio panis in corpus Christi*. Sed virtus Spiritus Sancti non est virtus creata. Ergo nulla virtus creata inest his verbis, per quam fiat transubstantiatio.  
 
 Praeterea, opus transubstantiationis videtur esse difficilius quam opus creationis; quia citius ratio consentit creationi quam huic conversioni; cum quidam etiam philosophi ratione naturali ducti creationem posuerint. Sed nulla virtus creata, secundum communem opinionem, potest Deo cooperari in opere creationis. Ergo multo minus in opere hujus conversionis.  
 
@@ -584,7 +584,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod formae expectent se in operando. Sicut enim se habet res ad rem, ita se habet forma ad formam. Sed res corporis non est sine re sanguinis: quia non consecratur corpus Christi sine sanguine. Ergo nec forma corporis operatur sine forma sanguinis.***
+Ad quartum sic proceditur. Videtur quod formae expectent se in operando. Sicut enim se habet res ad rem, ita se habet forma ad formam. Sed res corporis non est sine re sanguinis: quia non consecratur corpus Christi sine sanguine. Ergo nec forma corporis operatur sine forma sanguinis.  
 
 Praeterea, hoc sacramentum est unum. Sed propter unitatem sacramenti species duae, scilicet panis et vini, se habent in ratione unius signi, ut dictum est. Ergo similiter duae formae se habent in ratione unius formae. Sed in una forma partes se expectant invicem ad agendum, ut dictum est. Ergo et forma corporis expectat formam sanguinis.  
 
@@ -596,7 +596,7 @@ Praeterea, hostia non est adoranda ante consecrationem. Sed secundum communem mo
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod deficiente sacerdote post corporis Christi consecrationem non debet alius procedere ad consecrationem sanguinis. Quia unius sacramenti unus debet esset minister. Sed consecratio utraque ad unum sacerdotem pertinet. Ergo ab uno ministro fieri debet.***
+Ulterius. Videtur quod deficiente sacerdote post corporis Christi consecrationem non debet alius procedere ad consecrationem sanguinis. Quia unius sacramenti unus debet esset minister. Sed consecratio utraque ad unum sacerdotem pertinet. Ergo ab uno ministro fieri debet.  
 
 Praeterea, sacerdos consecrans gerit figuram Christi, ex cujus persona verba proferuntur. Sed Christus non est divisus, ut dicitur 1 Corinth. 1. Ergo nec verba dividi debent ut a diversis proferantur.  
 
@@ -604,7 +604,7 @@ Sed contra, ad perfectionem hujus sacramenti utraque consecratio requiritur. Si 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod haec verba sine aliis quae in canone Missae dicuntur, non habeant vim conficiendi. Quia in hoc sacramento requiritur intentio faciendi quod facit ecclesia; et sic intentio debet esse secundum statuta ecclesiae regulata. Sed proferens haec verba tantum, non servat ecclesiae statuta. Ergo non conficit.***
+Ulterius. Videtur quod haec verba sine aliis quae in canone Missae dicuntur, non habeant vim conficiendi. Quia in hoc sacramento requiritur intentio faciendi quod facit ecclesia; et sic intentio debet esse secundum statuta ecclesiae regulata. Sed proferens haec verba tantum, non servat ecclesiae statuta. Ergo non conficit.  
 
 Praeterea, verba quibus fit consecratio, per se prolata, ad personam dicentis referuntur. Sed conversio panis et vini non fit in corpus et sanguinem dicentis, sed in corpus et sanguinem Christi. Ergo sine verbis praemissis, quibus verba formae determinantur ad personam Christi, scilicet: *qui pridie quam pateretur*, etc., non potest fieri conversio.  
 
@@ -616,7 +616,7 @@ Praeterea, virtus conversiva sequitur significationem verborum, ut dictum est. S
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quidam dixerunt, quod prima forma non habet effectum suum nisi prolata forma secunda; nec secunda haberet effectum, nisi prima prius prolata: nec tamen periculose adoratur hostia ante consecrationem sanguinis, quia non adoratur quod est, sed quod erit. Sed illud non potest stare: quia forma materiae proportionari debet; unde sicut materiae distinctae sunt nec ad invicem commixtae, ita formae divisim operantur; quod patet ex hoc quod utraque per se completam significationem habet. Et ideo dicendum cum aliis, quod formae praedictae non expectant se mutuo in operando.***
+Respondeo dicendum ad primam quaestionem, quod quidam dixerunt, quod prima forma non habet effectum suum nisi prolata forma secunda; nec secunda haberet effectum, nisi prima prius prolata: nec tamen periculose adoratur hostia ante consecrationem sanguinis, quia non adoratur quod est, sed quod erit. Sed illud non potest stare: quia forma materiae proportionari debet; unde sicut materiae distinctae sunt nec ad invicem commixtae, ita formae divisim operantur; quod patet ex hoc quod utraque per se completam significationem habet. Et ideo dicendum cum aliis, quod formae praedictae non expectant se mutuo in operando.  
 
 Ad primum ergo dicendum, quod in hoc sacramento dupliciter aliquid continetur; scilicet ex vi sacramenti, et ex naturali concomitantia; et quia sacramentum est institutum in usum fidelium, ideo ex vi sacramenti continetur in hoc sacramento quod in usum fidelium venit. Et quia in pane consecrato non continetur sanguis Christi secundum quod est in usum potus fidelium, ideo non continetur ibi ex vi sacramenti, sed ex naturali concomitantia, qua convenit ut corpus Christi non sit sine sanguine; et e contrario est de vino consecrato. Unde panis non convertitur per vim primorum verborum in corpus exsangue, sed in corpus sine sanguine veniente in usum potus fidelium. Causa autem quare divisim sanguis a corpore consecratur, cum nunc non sit divisus, potest sumi ex usu ad quem est sacramentum, quia manducatio in cibo et potu consistit; et ex eo quod per sacramentum repraesentatur, quia in passione sanguis Christi a corpore divisus fuit.  
 
@@ -626,13 +626,13 @@ Ad tertium dicendum, quod tres immersiones referuntur ad unum characterem, qui e
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum statutum Concilii Toletani, si sacerdos impeditur ut coeptum Missarum officium explere non possit, alius sacerdos debet explere quod ille inchoavit, ita quod incipiat sequens sacerdos ubi primus dimisit, si sciatur: si autem nesciatur, debet a capite incipere: non enim dicitur iteratum quod nescitur esse factum. Nec aliquid per hoc derogatur unitati sacramenti: quia omnes unum sumus in Christo propter fidei unitatem. Secundum tamen Innocentium tertium consultius est ut illa hostia jam consecrata seorsum posita, super aliam deinceps totum officium iteretur.***
+Ad secundam quaestionem dicendum, quod secundum statutum Concilii Toletani, si sacerdos impeditur ut coeptum Missarum officium explere non possit, alius sacerdos debet explere quod ille inchoavit, ita quod incipiat sequens sacerdos ubi primus dimisit, si sciatur: si autem nesciatur, debet a capite incipere: non enim dicitur iteratum quod nescitur esse factum. Nec aliquid per hoc derogatur unitati sacramenti: quia omnes unum sumus in Christo propter fidei unitatem. Secundum tamen Innocentium tertium consultius est ut illa hostia jam consecrata seorsum posita, super aliam deinceps totum officium iteretur.  
 
 Et per hoc patet solutio ad objecta.  
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dixerunt quod verba ista, in quibus forma consistit, ut dictum est, si per se dicantur sine aliis, non faciunt conversionem, ad minus sine illis quae sunt in canone Missae. Sed hoc non videtur probabile: quia secundum Augustinum, *accedit verbum ad elementum, et fit sacramentum*. Verbum autem quo accedente ad elementum fit sacramentum, a sanctis dicitur esse verbum salvatoris; unde alia sunt de solemnitate sacramenti, non de necessitate. Et ideo cum aliis dicendum est quod in his verbis sine aliis potest confici corpus Christi, quamvis graviter peccaret qui hoc faceret. Et quod haec opinio sit verior, patet ex hoc quod non sit idem canon Missae apud omnes, et secundum diversa tempora, diversa sunt in canone Missae superaddita.***
+Ad tertiam quaestionem dicendum, quod quidam dixerunt quod verba ista, in quibus forma consistit, ut dictum est, si per se dicantur sine aliis, non faciunt conversionem, ad minus sine illis quae sunt in canone Missae. Sed hoc non videtur probabile: quia secundum Augustinum, *accedit verbum ad elementum, et fit sacramentum*. Verbum autem quo accedente ad elementum fit sacramentum, a sanctis dicitur esse verbum salvatoris; unde alia sunt de solemnitate sacramenti, non de necessitate. Et ideo cum aliis dicendum est quod in his verbis sine aliis potest confici corpus Christi, quamvis graviter peccaret qui hoc faceret. Et quod haec opinio sit verior, patet ex hoc quod non sit idem canon Missae apud omnes, et secundum diversa tempora, diversa sunt in canone Missae superaddita.  
 
 Ad primum ergo dicendum, quod ad sacramentum requiritur intentio faciendi quod facit ecclesia in essentialibus sacramento, non autem in his quae pertinent ad decorem vel solemnitatem sacramenti, sicut in baptismo patet.  
 
@@ -642,7 +642,7 @@ Ad tertium dicendum, quod baptismus est sacramentum necessitatis; et ideo conces
 
 Expositio textus  
 
-****Post sacramentum baptismi et confirmationis sequitur Eucharistiae sacramentum*. Videtur quod male ordinet. Quia quod est per essentiam, prius est quam id quod est per participationem. In hoc autem sacramento continetur Christus per essentiam, in aliis vero per participationem suae virtutis. Ergo hoc sacramentum ante omnia alia determinare debuit. Praeterea, Dionysius aliter ordinat. Prius enim de baptismo, et postea de Eucharistia, et postea de chrismate determinat. Ergo videtur quod Magister hic ordinem pervertat. Et dicendum ad primum, quod sacramenta sunt ordinata ad usum fidelium; unde ordo sacramentorum non attenditur secundum contentorum ordinem sed secundum quod veniunt in usum fidelium; et ideo baptismus ante Eucharistiam ab omnibus ponitur. Ad secundum dicendum, quod Dionysius determinat de sacramentis secundum quod sunt actiones hierarchicae, ut supra, dist. 2, qu. 1, art. 2 in corp., dictum est; et ideo ordinem sacramentorum attendit, secundum quod per ea distinguuntur personae, ut in hierarchia et ordine. Et quia Eucharistia non importat aliquam distinctionem supra baptismum, cum ex hoc ipso quod baptizatur aliquis, ad Eucharistiae perceptionem deputetur; confirmatio autem addit; ideo praemittit Eucharistiam confirmationi, sicut commune ad proprium. Magister autem determinat de sacramentis secundum quod sacramenta sunt medicinae quaedam sanctificantes; et ideo secundum ordinem sanctificationum ordinat sacramenta; et quia amplioris sanctificationis est Eucharistia quam confirmatio; ideo postremo de ea determinat.***
+*Post sacramentum baptismi et confirmationis sequitur Eucharistiae sacramentum*. Videtur quod male ordinet. Quia quod est per essentiam, prius est quam id quod est per participationem. In hoc autem sacramento continetur Christus per essentiam, in aliis vero per participationem suae virtutis. Ergo hoc sacramentum ante omnia alia determinare debuit. Praeterea, Dionysius aliter ordinat. Prius enim de baptismo, et postea de Eucharistia, et postea de chrismate determinat. Ergo videtur quod Magister hic ordinem pervertat. Et dicendum ad primum, quod sacramenta sunt ordinata ad usum fidelium; unde ordo sacramentorum non attenditur secundum contentorum ordinem sed secundum quod veniunt in usum fidelium; et ideo baptismus ante Eucharistiam ab omnibus ponitur. Ad secundum dicendum, quod Dionysius determinat de sacramentis secundum quod sunt actiones hierarchicae, ut supra, dist. 2, qu. 1, art. 2 in corp., dictum est; et ideo ordinem sacramentorum attendit, secundum quod per ea distinguuntur personae, ut in hierarchia et ordine. Et quia Eucharistia non importat aliquam distinctionem supra baptismum, cum ex hoc ipso quod baptizatur aliquis, ad Eucharistiae perceptionem deputetur; confirmatio autem addit; ideo praemittit Eucharistiam confirmationi, sicut commune ad proprium. Magister autem determinat de sacramentis secundum quod sacramenta sunt medicinae quaedam sanctificantes; et ideo secundum ordinem sanctificationum ordinat sacramenta; et quia amplioris sanctificationis est Eucharistia quam confirmatio; ideo postremo de ea determinat.  
 
 *Intelligi datur antiquiora esse sacramenta Christianorum quam Judaeorum*. Videtur hoc esse falsum: quia hoc sacramentum quo ad rem non fuit ante adventum Christi; quo ad speciem autem et ritum fuerunt sacrificia, quae erant sacramenta Judaeorum, etiam ante Melchisedech. Et dicendum, quod loquitur quantum ad figuram hujus sacramenti per similitudinem speciei et ritus. Sacramenta autem quae in lege naturae fiebant, non erant figurae sacramentorum veteris legis, sed magis passionis Christi.  
 

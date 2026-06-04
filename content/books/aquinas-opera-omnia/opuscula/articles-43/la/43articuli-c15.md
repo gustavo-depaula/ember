@@ -1,5 +1,7 @@
 # Articul 19-23
 
+Decimus nonus articulus est, an si motus caeli cessaret, ordine naturae omne ferrum in elementa in instanti resolveretur.  
+
 Vigesimus articulus est, an similiter esset de omni elemento corruptibili.  
 
 Vigesimus primus articulus est, an similiter totus mundus quantum ad corruptibile.  

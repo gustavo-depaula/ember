@@ -1,6 +1,8 @@
 # D. 37 - Precepts of the law
 
-***Postquam determinavit Magister de virtutibus et donis, quae nos ad bene operandum inclinant, in parte ista determinat de praeceptis legis, quibus ad opera virtutum et donorum dirigimur. Dividitur autem in duas partes:***
+***Divisio textus***
+
+Postquam determinavit Magister de virtutibus et donis, quae nos ad bene operandum inclinant, in parte ista determinat de praeceptis legis, quibus ad opera virtutum et donorum dirigimur. Dividitur autem in duas partes:  
 
 in prima determinat de octo primis mandatis, quae aliquo modo opus respiciunt;  
 
@@ -62,7 +64,7 @@ Articulus 1
 
 ***Utrum fuerit necessarium tradi legem scriptam***
 
-***Ad primum sic proceditur. Videtur quod non fuit necessarium legem scriptam tradi, maxime de his decem praeceptis.***
+Ad primum sic proceditur. Videtur quod non fuit necessarium legem scriptam tradi, maxime de his decem praeceptis.  
 
 Ea enim quae sunt naturaliter scripta in intellectu speculativo, nulla scientia in Scripturam colligit, sed utitur eis quantum indiget unaquaeque. Sed haec decem praecepta sunt naturaliter scripta in intellectu practico uniuscujusque. Ergo non fuit necesse ea in Scripturam redigere.  
 
@@ -98,7 +100,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod praecepta Decalogi non convenienter assignentur.***
+Ad secundum sic proceditur. Videtur quod praecepta Decalogi non convenienter assignentur.  
 
 Praecepta enim legis ad merendum ordinantur. Sed meritum in aliquo actu consistit. Cum ergo in praeceptis negativis non ponatur aliquis actus, sed solum negetur, videtur quod praecepta Decalogi non debuerunt per negationem assignari.  
 
@@ -112,7 +114,7 @@ Praeterea, omnibus praeceptis observatis praemium debetur. Sed in quarto praecep
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non debeant esse decem legis praecepta. Sicut enim dicitur in Glossa, Matth. 6, *in precibus est ut impetrentur dona; in donis ut impleantur mandata; in mandatis ut beatitudines consequamur*. Sed preces, et etiam dona, similiter et beatitudines quodammodo sunt septem. Ergo et mandata legis debebant esse tantum septem.***
+Ulterius. Videtur quod non debeant esse decem legis praecepta. Sicut enim dicitur in Glossa, Matth. 6, *in precibus est ut impetrentur dona; in donis ut impleantur mandata; in mandatis ut beatitudines consequamur*. Sed preces, et etiam dona, similiter et beatitudines quodammodo sunt septem. Ergo et mandata legis debebant esse tantum septem.  
 
 Praeterea, Rom. 13:8: *dilectio proximi legem implevit*. Sed intentio legislatoris in omnibus praeceptis est ut lex impleatur. Ergo sufficiens fuit unum praeceptum tantum, scilicet de dilectione proximi, ponere.  
 
@@ -126,7 +128,7 @@ Praeterea, secundum Philosophum in 2 *Ethic.*, intentio legislatoris est ad virt
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod praecepta male ordinentur. Quia, sicut Gregorius dicit, ex visibilibus in amorem invisibilium rapimur. Sed praecepta secundae tabulae ordinant ad dilectionem proximi, quem videmus; praecepta vero primae tabulae ad dilectionem Dei, qui invisibilis est. Ergo praecepta secundae tabulae prius poni debuerunt.***
+Ulterius. Videtur quod praecepta male ordinentur. Quia, sicut Gregorius dicit, ex visibilibus in amorem invisibilium rapimur. Sed praecepta secundae tabulae ordinant ad dilectionem proximi, quem videmus; praecepta vero primae tabulae ad dilectionem Dei, qui invisibilis est. Ergo praecepta secundae tabulae prius poni debuerunt.  
 
 Praeterea, prius est aliquid in corde quam sit in executione operis. Sed praeceptum tertium primae tabulae videtur ad cor pertinere, praeceptum vero The Bruges and Paris (841 and 842) manuscripts read *autem*. secundum The Brussels manuscript reads *secundae tabulae*. ad opus interius, The Bruges, Brussels, and Paris (841 and 842) manuscripts omit *interius*. primum autem ad opus exterius,PLE: *os*. quia ad actus latriae pertinet. Ergo inconvenienter ordinantur.  
 
@@ -134,7 +136,7 @@ Praeterea, secundum Boetium, prius extirpanda sunt vitia quam inserantur virtute
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod cum intentio legislatoris sit ad virtutes homines inducere, quibus legem tradit, oportet quod illo modo in assignandis praeceptis legis utatur, qui competat viae ad virtutem; quae quidem est ut ex his quae magis in promptu sunt, ad The edited versions read *in*. difficiliora tendatur; sicut etiam in disciplinis ex magis notis in minus nota proceditur.***
+Respondeo dicendum ad primam quaestionem, quod cum intentio legislatoris sit ad virtutes homines inducere, quibus legem tradit, oportet quod illo modo in assignandis praeceptis legis utatur, qui competat viae ad virtutem; quae quidem est ut ex his quae magis in promptu sunt, ad The edited versions read *in*. difficiliora tendatur; sicut etiam in disciplinis ex magis notis in minus nota proceditur.  
 
 Et ideo legislator in istis decem praeceptis, quae sunt quasi prima legis initia, illa prohibuit vel praecepit, quae primo occurrunt facienda vel dimittenda eunti ad virtutem; et ex his alia intelligi voluit, quae in eis quasi in suis principiis includuntur; et propter hoc plura negativa posuit quam affirmativa, quia magis in promptu est et facile ut mala dimittantur, quam ut bona perficiantur. In malis etiam illa prohibuit quae statim in primo aspectu detestanda videntur, et similiter in bonis illa praecepit quae cuilibet esse debita manifestum est.  
 
@@ -150,7 +152,7 @@ Ad quintum dicendum, quod quartum praeceptum maxime videtur habere de debito et 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod lex civilis suis praeceptis dirigit hominem in communicationibus quae sunt ad alterum secundum vitam politicam; quae quidem non potest esse nisi hominis ad hominem. Derisibiles enim videntur laudes politicae vitae in deos The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *Deo*. transferentes, ut dicitur in 10 *Ethic.* Sed lex divina dirigit nos suis praeceptis in spirituali vita, secundum quam, societatem habemus non solum ad hominem, sed ad Deum, 1 Joan. 1. The Bruges, Brussels, and Paris (841 and 842) manuscripts read *tertio*; the edited versions add *et*. Ideo oportuit praecepta legis divinae hoc modo distingui quod quaedam dirigerent hominem in his quae ad Deum spectant, quae dicuntur praecepta primae tabulae; quaedam vero in his quae spectant ad proximum, quae dicuntur praecepta secundae tabulae.***
+Ad secundam quaestionem dicendum, quod lex civilis suis praeceptis dirigit hominem in communicationibus quae sunt ad alterum secundum vitam politicam; quae quidem non potest esse nisi hominis ad hominem. Derisibiles enim videntur laudes politicae vitae in deos The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *Deo*. transferentes, ut dicitur in 10 *Ethic.* Sed lex divina dirigit nos suis praeceptis in spirituali vita, secundum quam, societatem habemus non solum ad hominem, sed ad Deum, 1 Joan. 1. The Bruges, Brussels, and Paris (841 and 842) manuscripts read *tertio*; the edited versions add *et*. Ideo oportuit praecepta legis divinae hoc modo distingui quod quaedam dirigerent hominem in his quae ad Deum spectant, quae dicuntur praecepta primae tabulae; quaedam vero in his quae spectant ad proximum, quae dicuntur praecepta secundae tabulae.  
 
 Ordinatur autem homo ad Deum tripliciter. Uno modo per meditationem cordis, ut dicitur in Psalm. 45:11: *vacate, et videte quia ego sum Deus*, et ad hoc dirigit tertium praeceptum, scilicet sanctificatio Sabbati, quo aliquod tempus deputatur ad vacandum divinis, cessando ab omnibus quae hoc otium perturbare possent. Alio modo per reverentiam oris, quod fit dum laudatur, et nomen ejus cum reverentia enuntiatur. Et quia primo occurrit in reverentiam The Paris (841) manuscript as well as the Piana and Antwerp editions read *reverentia*. divini nominis jurarePLE: *uitare*. quam laudes debitas Deo The Bruges manuscript omits *Deo*. reddere, ideo in secundo praecepto ponitur: *non assumes nomen Dei tui in vanum*. Tertio, ut in opere servitium debitum exhibeatur, quod latria dicitur, ad cujus actum primum praeceptum ordinatur The Nicolaï edition adds *et*. similiter per prohibitionem contrarii: The Nicolaï edition adds *puta*. *non habebis deos alienos*.The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions omit *non habebis deos alienos*.  
 
@@ -170,7 +172,7 @@ Ad sextum dicendum, quod non oportuit in praeceptis Decalogi omnium virtutum act
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod praecepta Decalogi ordinantur secundum quod primo et principaliter facienda vel vitanda occurrunt. Et quia in spirituali vita, ad cujus directionem Decalogus datur, ratio agendi Deus est quasi finis; ideo praecepta quae ad Deum ordinant, primo ponuntur, inter quae talis ordo consideratur ut prius illud praeceptum ponatur cujus contrarium a Deo magis elongat: quia gradatim Deo approximamus a remotioribus discedentes. The edited versions add *Et*. Ideo praeceptum quo prohibetur contrarius cultus, per quem homo quasi totaliter a Deo recedit, prius ponitur quam praeceptum quo prohibetur irreverentia in vane assumendo divinum nomen; et ultimo ponitur praeceptum de quiete cordis in Deum, in quo homo Deo maxime appropinquat.***
+Ad tertiam quaestionem dicendum, quod praecepta Decalogi ordinantur secundum quod primo et principaliter facienda vel vitanda occurrunt. Et quia in spirituali vita, ad cujus directionem Decalogus datur, ratio agendi Deus est quasi finis; ideo praecepta quae ad Deum ordinant, primo ponuntur, inter quae talis ordo consideratur ut prius illud praeceptum ponatur cujus contrarium a Deo magis elongat: quia gradatim Deo approximamus a remotioribus discedentes. The edited versions add *Et*. Ideo praeceptum quo prohibetur contrarius cultus, per quem homo quasi totaliter a Deo recedit, prius ponitur quam praeceptum quo prohibetur irreverentia in vane assumendo divinum nomen; et ultimo ponitur praeceptum de quiete cordis in Deum, in quo homo Deo maxime appropinquat.  
 
 In praeceptis autem secundae tabulae etiam similis ordo observatur, ut scilicet prius ponatur illud praeceptum quod primo in bona conversatione occurrit. Et quia prius est ordinatio hominis ad domesticos quam ad extraneos, ideo praeceptum de honoratione parentum praemittitur aliis quae ad omnes communiter pertinent, in quibus etiam praemittuntur prohibitiones illorum quae principaliter occurrunt cavenda. Tendentibus autem ad virtutem prius occurrit vitandum nocumentum operis quam oris, et oris quam cordis; et inter nocumenta operis gravius nocumentum prius vitandum occurrit; et ideo prohibitio homicidii praecedit prohibitionem moechiae, quae praecedit prohibitionem furti: et hae tres prohibitiones praecedunt prohibitionem falsi testimonii; et ultimo ponitur prohibitio concupiscentiae, in quo jam perfectio virtutis consistit.  
 
@@ -180,7 +182,7 @@ Articulus 3
 
 ***Utrum omnia legis praecepta ad haec decem ordinentur***
 
-***Ad tertium sic proceditur. Videtur quod non omnia legis praecepta ad haec decem reducantur.***
+Ad tertium sic proceditur. Videtur quod non omnia legis praecepta ad haec decem reducantur.  
 
 Cum enim haec praecepta jus naturale contineant, non poterunt ad ea reduci nisi quae ex jure naturali proficiscuntur. Sed quaedam prohibentur in lege quae non videntur modo aliquo ex lege naturali proficisci, quae nihil differunt utrum sic vel sic fiant, antequam lege posita sint, ut quod sacrificetur hircus vel taurus, sicut etiam Philosophus, in 5 *Ethicor*., dicit. Ergo non omnia praecepta legis ad haec decem reducuntur.  
 
@@ -264,7 +266,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod inconveniens fuerit Sabbati observationem praecipere.***
+Ad quintum sic proceditur. Videtur quod inconveniens fuerit Sabbati observationem praecipere.  
 
 Sabbatum enim est septima pars temporis totius vitae hominis. Sed valde irrationabile videtur quod homo septimam partem vitae suae in otio amittat, sicut Seneca dicit deridens caeremonias Judaeorum, sicut Augustinus narrat The Bruges manuscript reads *recitat Augustinus*. in lib. *De civ. Dei*. Ergo irrationabile fuit Sabbati observantiam praecipere.  
 
@@ -278,7 +280,7 @@ Praeterea, hominibus spirituali The Piana and Antwerp editions read *speciali*. 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod praeceptum de Sabbato observando fuerit morale simpliciter. Ea enim quae in unam divisionem veniunt, unius rationis esse videntur. Sed praeceptum de Sabbato observando condividitur aliis praeceptis Decalogi; quae sunt praecepta moralia legis naturae. Ergo praeceptum de Sabbato est morale.***
+Ulterius. Videtur quod praeceptum de Sabbato observando fuerit morale simpliciter. Ea enim quae in unam divisionem veniunt, unius rationis esse videntur. Sed praeceptum de Sabbato observando condividitur aliis praeceptis Decalogi; quae sunt praecepta moralia legis naturae. Ergo praeceptum de Sabbato est morale.  
 
 Praeterea, super illud Luc. 13, *sex dies sunt in quibus operari licet*, The Vulgate reads *oportet operari*. dicit Glossa: *lex in Sabbato non hominem curare, sed servilia opera facere, idest peccatis gravari, prohibet*. Sed vacare a peccato est morale praeceptum. Ergo et praeceptum de Sabbato observando.  
 
@@ -290,7 +292,7 @@ Praeterea, Levit. 26 dicit Glossa: The Nicolaï edition adds super illud, ita ut
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non debuerit cessare tempore gratiae. Thurificatio enim, ut dicunt sancti et magistri, non cessavit: quia significat illud quod semper faciendum est, scilicet devotionem orationis. Sed observatio Sabbati significat requiem in Deo, ut Augustinus dicit, super Exod. cap. 31, quae quidem semper facienda est. Ergo non debuit tempore gratiae cessare.***
+Ulterius. Videtur quod non debuerit cessare tempore gratiae. Thurificatio enim, ut dicunt sancti et magistri, non cessavit: quia significat illud quod semper faciendum est, scilicet devotionem orationis. Sed observatio Sabbati significat requiem in Deo, ut Augustinus dicit, super Exod. cap. 31, quae quidem semper facienda est. Ergo non debuit tempore gratiae cessare.  
 
 Praeterea, observatio Sabbati ad maximam perfectionem ordinabat, scilicet ad vacandum divinae contemplationi. Sed status gratiae est perfectior statu legis. Ergo etiam The Bruges manuscript reads *et*. magis debet observari The Bruges manuscript reads *servari*. in hoc statu quam in illo.  
 
@@ -306,7 +308,7 @@ Praeterea, Damascenus dicit quod Sabbati observatio excogitata fuit parvulis, et
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut praeceptum de sacrificiis habuit aliquam causam moralem non simpliciter, sed secundum congruentiam illorum quibus lex dabatur, qui ad idolatriam proni erant, ut Deo offerrent quod alias idolis obtulissent; et aliam causam mysticam, scilicet ad significandum sacrificium Passionis Christi: ita et praeceptum de observatione Sabbati habuit aliquam causam moralem ex conditione eorum quibus lex dabatur, qui propter avaritiam eis The Bruges manuscript adds *naturaliter*. inditam intantum se et sibi subditos operibus servilibus occupassent quod omnino mens eorum a divinis subtraheretur: et hanc causam tangit Damascenus. Similiter etiam quia ad errores gentium proni erant, indicta est eis observatio Sabbati, ut creationem mundi semper prae oculis haberent, et sic Deum recognoscerent et timerent: quam causam tangit Rabbi Moyses.***
+Respondeo dicendum ad primam quaestionem, quod sicut praeceptum de sacrificiis habuit aliquam causam moralem non simpliciter, sed secundum congruentiam illorum quibus lex dabatur, qui ad idolatriam proni erant, ut Deo offerrent quod alias idolis obtulissent; et aliam causam mysticam, scilicet ad significandum sacrificium Passionis Christi: ita et praeceptum de observatione Sabbati habuit aliquam causam moralem ex conditione eorum quibus lex dabatur, qui propter avaritiam eis The Bruges manuscript adds *naturaliter*. inditam intantum se et sibi subditos operibus servilibus occupassent quod omnino mens eorum a divinis subtraheretur: et hanc causam tangit Damascenus. Similiter etiam quia ad errores gentium proni erant, indicta est eis observatio Sabbati, ut creationem mundi semper prae oculis haberent, et sic Deum recognoscerent et timerent: quam causam tangit Rabbi Moyses.  
 
 Habuit nihilominus et causam mysticam triplicem. Unam allegoricam, ad significandum quietem Christi in sepulcro. Aliam moralem, ad significandum requiem humanae mentis a peccatis, et ab omnibus aliis rebus, in quibus requiem non invenit, nisi in Deo, in quo solo est quies. Tertiam anagogicam, ad significandum aeternam requiem qua sancti in gloria quiescent. Et ideo conveniens fuit institutio Sabbati pro tempore illo.  
 
@@ -318,7 +320,7 @@ Ad tertium dicendum, quod quandoque actus unius virtutis intermittendus est prop
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod praeceptum de Sabbato observando, quantum ad aliquid morale est, et quantum ad aliquid caeremoniale, et quantum ad aliquid potest etiam dici judiciale. Secundum enim illud ejus quod naturalis ratio dictat, praeceptum morale est, ut scilicet The Bruges manuscript omits *scilicet*. aliquo tempore homo contemplationi vacet. Sed taxatio temporis in qua vacandum sit, non est de dictamine naturalis legis, et ideo non The Vivès edition omits *non*. estPLE: *non est*. morale praeceptum. Sed secundum quod habet pro causa significationem, sic est caeremoniale. Secundum autem The Bruges manuscript omits *autem*; the Paris (842) manuscript omits *quod*. quod habet pro causa conditionem illius populi, cui subveniendum erat per hoc praeceptum, judiciale est.***
+Ad secundam quaestionem dicendum, quod praeceptum de Sabbato observando, quantum ad aliquid morale est, et quantum ad aliquid caeremoniale, et quantum ad aliquid potest etiam dici judiciale. Secundum enim illud ejus quod naturalis ratio dictat, praeceptum morale est, ut scilicet The Bruges manuscript omits *scilicet*. aliquo tempore homo contemplationi vacet. Sed taxatio temporis in qua vacandum sit, non est de dictamine naturalis legis, et ideo non The Vivès edition omits *non*. estPLE: *non est*. morale praeceptum. Sed secundum quod habet pro causa significationem, sic est caeremoniale. Secundum autem The Bruges manuscript omits *autem*; the Paris (842) manuscript omits *quod*. quod habet pro causa conditionem illius populi, cui subveniendum erat per hoc praeceptum, judiciale est.  
 
 Ad primum ergo dicendum, quod connumeratur aliis praeceptis Decalogi quantum ad id quod habet de ratione moralis praecepti.  
 
@@ -328,7 +330,7 @@ Ad tertium dicendum, quod causae illae non sunt morales nisi considerata conditi
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod Sabbati observatio quantum ad illud quod de lege naturali habebat, prout morale praeceptum est, tempore gratiae non cessavit, immo perfectius implendum The Bruges manuscript reads *supplendum*. est, sicut et alia moralia praecepta; et ideo Apostolus, 1 Corinth. 7, dat consilium de virginibus, ut extra solicitudinem existentes, semper quae Dei sunt, cogitent. Sed taxatio diei vel temporis, quae ad legem moralem non pertinebat, veniente The Bruges manuscript adds *ergo*. statu gratiae cessavit, sicut et alia legalia.***
+Ad tertiam quaestionem dicendum, quod Sabbati observatio quantum ad illud quod de lege naturali habebat, prout morale praeceptum est, tempore gratiae non cessavit, immo perfectius implendum The Bruges manuscript reads *supplendum*. est, sicut et alia moralia praecepta; et ideo Apostolus, 1 Corinth. 7, dat consilium de virginibus, ut extra solicitudinem existentes, semper quae Dei sunt, cogitent. Sed taxatio diei vel temporis, quae ad legem moralem non pertinebat, veniente The Bruges manuscript adds *ergo*. statu gratiae cessavit, sicut et alia legalia.  
 
 Ad primum ergo dicendum, quod observatio Sabbati, inquantum caeremonialis est, principaliter significat The edited versions read *signat*. requiem Christi in sepulcro, et per consequens quietem quam habemus per ipsum, consepulti cum eo per baptismum in mortem; Rom. 6. Unde veniente veritate, figura cessavit. Et non est simile de thurificatione, quae principaliter non est signum futuri, sed ejus quod semper esse debet.  
 
@@ -384,7 +386,7 @@ Ad sextum dicendum, quod ille qui usuras dat et mutuum accipit in necessitate, n
 
 Expositio textus  
 
-****Haec Origenes dicit esse duo mandata*. Sicut Origenes primum mandatum dividit in duo, ita duo ultima mandata, quae sunt de prohibitione concupiscentiae, conjungit in unum; et sic praecepta denarium The Bruges manuscript adds *numerum*. non transcendunt.***
+*Haec Origenes dicit esse duo mandata*. Sicut Origenes primum mandatum dividit in duo, ita duo ultima mandata, quae sunt de prohibitione concupiscentiae, conjungit in unum; et sic praecepta denarium The Bruges manuscript adds *numerum*. non transcendunt.  
 
 *Idolum* The Bruges manuscript reads *Sed idolum*. *nihil est in mundo*. Hoc autem multipliciter intelligi potest. Uno modo inquantum idolum est similitudo; et sic exponit Origenes, ut dicatur idolum nihil esse, quia nulla res est in mundo cujus sit similitudo. Alio modo potest intelligi de idolo secundum quod est res quaedam; et hoc dupliciter. Uno modo quantum ad formam quae aestimatur esse in idolo, et non est in eo, scilicet forma Divinitatis. The edited versions read *Deitatis*. Alio modo quantum ad effectum, quia scilicet ad peccatum inducit, quod nihil est.  
 

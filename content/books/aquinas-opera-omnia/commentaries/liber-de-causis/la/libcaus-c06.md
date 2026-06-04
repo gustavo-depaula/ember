@@ -1,5 +1,7 @@
 # Proposition 5
 
+49. Intelligentiae superiores primae, quae sequuntur causam primam, imprimunt formas secundas, stantes, quae non destruuntur ita, ut sit necessarium iterare eas vice alia. Intelligentiae autem secundae imprimunt formas declines, separabiles, sicut est anima.  
+
 > 50. Namque est ex impressione intelligentiae secundae, quae sequitur esse creatum inferius.
 
 > 51. Et non multiplicantur animae nisi per modum, quo multiplicantur intelligentiae. Quod est, quia esse animae iterum habet finem, sed quod ex eo est inferius, est infinitum.

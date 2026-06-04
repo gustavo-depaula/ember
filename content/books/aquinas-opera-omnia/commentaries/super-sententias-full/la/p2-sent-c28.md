@@ -1,8 +1,10 @@
 # D. 48 - Conformity of our will to the will of God
 
+***De conformitate voluntatis nostrae ad voluntatem Dei***
+
 ***Divisio textus***
 
-***Determinato de voluntate Dei, hic determinat de conformitate voluntatis nostrae ad voluntatem ejus, et dividitur in partes duas: in prima determinat veritatem; in secunda ex veritate determinata quasdam quaestiones determinat, ibi: *ex quo solvitur quaestio*.***
+Determinato de voluntate Dei, hic determinat de conformitate voluntatis nostrae ad voluntatem ejus, et dividitur in partes duas: in prima determinat veritatem; in secunda ex veritate determinata quasdam quaestiones determinat, ibi: *ex quo solvitur quaestio*.  
 
 Prima in tres: in prima ostendit quod voluntas mala hominis cum voluntate Dei concurrit in idem volitum, bona voluntate hominis in contrarium tendente; in secunda ostendit quod bona voluntas Dei etiam per malam voluntatem hominis completur, ibi: *illud quoque non est praetermittendum quod aliquando Dei voluntas bona per malam hominis voluntatem impletur*; in tertia excludit quamdam objectionem, ibi: *sed ad hoc opponitur*.  
 
@@ -26,7 +28,7 @@ Articulus 1
 
 ***Utrum voluntas humana divinae voluntati non possit conformari***
 
-***Ad primum sic proceditur. Videtur quod voluntas humana divinae conformari non possit.***
+Ad primum sic proceditur. Videtur quod voluntas humana divinae conformari non possit.  
 
 Sic enim dicitur Isa. 55:9: *sicut exallantur caeli a terra, ita exaltatae sunt viae meae a viis vestris*. Sed terra nunquam potest conformari caelo. Ergo nec cogitationes vel voluntates hominum divinae voluntati.  
 
@@ -58,7 +60,7 @@ Articulus 2
 
 ***Utrum conformitas voluntatum attendatur praecipue secundum volitum***
 
-***Ad secundum sic proceditur. Videtur quod conformitas voluntatum praecipue secundum volitum attendatur.***
+Ad secundum sic proceditur. Videtur quod conformitas voluntatum praecipue secundum volitum attendatur.  
 
 Conformitas enim attenditur secundum convenientiam in forma. Sed forma et perfectio voluntatis est ipsum volitum, sicut et scitum est perfectio scientis. Ergo secundum convenientiam in volito est conformitas voluntatum.  
 
@@ -102,7 +104,7 @@ Articulus 3
 
 ***Utrum ad conformitatem divinae voluntatis non teneamur***
 
-***Ad tertium sic proceditur. Videtur quod ad conformitatem divinae voluntatis non teneamur.***
+Ad tertium sic proceditur. Videtur quod ad conformitatem divinae voluntatis non teneamur.  
 
 Sicut enim rectitudo voluntatis humanae est per conformitatem ad voluntatem divinam, ita rectitudo intellectus nostri per conformitatem ad intellectum divinum. Sed non omnes tenentur ad conformandum intellectum suum intellectui divino; alias nullus habens falsam opinionem salvaretur. Ergo et pari ratione non tenemur ad conformitatem voluntatis.  
 
@@ -180,12 +182,12 @@ Ad quartum dicendum, quod permissio nunquam significat quod voluntasNicolaï add
 
 Expositio textus  
 
-****Actum quippe Judaeorum non voluit Deus*. Videtur hoc esse falsum: quia Passio est effectus actionis: unde si voluit Passionem, voluit actionem. Ad quod dicendum, quod Passio Christi subjacebat duplici operationi: id est actioni Judaeorum inquantum afflictiva erat, et sic non erat volita a Deo, sicut nec actio; et operationi voluntatis Christi, inquantum erat meritoria, et sic erat placita Deo: unde versus: *actio displicuit, Passio grata fuit*. Frequenter enim voluntas et ratio dividunt quae natura conjungit.***
+*Actum quippe Judaeorum non voluit Deus*. Videtur hoc esse falsum: quia Passio est effectus actionis: unde si voluit Passionem, voluit actionem. Ad quod dicendum, quod Passio Christi subjacebat duplici operationi: id est actioni Judaeorum inquantum afflictiva erat, et sic non erat volita a Deo, sicut nec actio; et operationi voluntatis Christi, inquantum erat meritoria, et sic erat placita Deo: unde versus: *actio displicuit, Passio grata fuit*. Frequenter enim voluntas et ratio dividunt quae natura conjungit.  
 
 *Ut Apostolus Petrus, quando id fieri nolebat, Satanas ab ipso qui occisus est, diceretur*. Hoc sumitur ex Matth. 16, et dicitur Satanas, id est adversarius, inquantum bona sua voluntate ex pietate bonae voluntati Christi adversabatur.  
 
 Epilogus  
 
-***Quae ad mysterium divinae Unitatis atque Trinitatis licet ex parte cognoscendum pertinere noscuntur, quantum valuimus diligenter executi sumus. Nunc ad considerationem creaturarum transeamus.***
+Quae ad mysterium divinae Unitatis atque Trinitatis licet ex parte cognoscendum pertinere noscuntur, quantum valuimus diligenter executi sumus. Nunc ad considerationem creaturarum transeamus.  
 
 Videtur inconvenienter ordinasse: quia, secundum Philosophum, in 1 *Physic*., innata est nobis via a posterioribus in priora, et ita a creaturis in Creatorem. Ad quod dicendum quod hoc tenet in eis quae naturali cognitione cognoscimus, quae ex sensu principium sumit; sed in his quae per fidem cognoscimus, nostra cognitio, ipsi veritati primae innititur. Unde oportet quod a prima veritate, quae est Deus, in ea quae ab ipso sunt procedamus, ad similitudinem cognitionis quam sancti in Verbo habebunt, ubi et Verbum et res plene cognoscent: cujus cognitionis nos participes facietParma: *faciat*. ipsum Verbum Dei Filius, qui hanc cognitionem in nobis per fidem initiavit; cui est honor et gloria per infinita saecula saeculorum. Amen.

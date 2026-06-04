@@ -1,5 +1,7 @@
 # C. 2 - Israel’s idolatry condemned
 
+***Lectio 1***
+
 ***^2:1^ Et factum est verbum Domini ad me, dicens:***
 
 > ^2:2^ vade, et clama in auribus Jerusalem, dicens: haec dicit Dominus: recordatus sum tui miserans adolescentiam tuam, et caritatem desponsationis tuae, quando secuta es me in deserto, in terra quae non seminatur.
@@ -138,7 +140,7 @@ Secundo quo ad praelatos specialiter. ***Sacerdotes***, quorum est ducere in Deu
 
 Lectio 3  
 
-***^2:9^ Propterea adhuc judicio contendam vobiscum, ait Dominus, et cum filiis vestris disceptabo.***
+^2:9^ Propterea adhuc judicio contendam vobiscum, ait Dominus, et cum filiis vestris disceptabo.  
 
 > ^2:10^ Transite ad insulas Cethim, et videte, et in Cedar mittite, et considerate vehementer, et videte si factum est hujusmodi,
 
@@ -164,7 +166,7 @@ Secundo subjungit stuporis rationem. ***Duo enim***, contra duas partes praecept
 
 Lectio 4  
 
-***^2:14^ Numquid servus est Israel, aut vernaculus? Quare ergo factus est in praedam?***
+^2:14^ Numquid servus est Israel, aut vernaculus? Quare ergo factus est in praedam?  
 
 > ^2:15^ Super eum rugierunt leones, et dederunt vocem suam, posuerunt terram ejus in solitudinem. Civitates ejus exustae sunt, et non est qui habitet in eis.
 
@@ -200,7 +202,7 @@ Tertio adhibet utile consilium, ut peccatum recognoscant: ***scito malum***, inh
 
 Lectio 5  
 
-***^2:20^ A saeculo confregisti jugum meum, rupisti vincula mea, et dixisti: non serviam. In omni enim colle sublimi et sub omni ligno frondoso tu prosternebaris meretrix.***
+^2:20^ A saeculo confregisti jugum meum, rupisti vincula mea, et dixisti: non serviam. In omni enim colle sublimi et sub omni ligno frondoso tu prosternebaris meretrix.  
 
 > **10**. Hic ostendit, quod peccatum obstinata mente multiplicabant:
 
@@ -210,7 +212,7 @@ Secundo quantum ad multitudinem operis, ***in omni colle***: in locis altis et a
 
 Lectio 6  
 
-***^2:21^ Ego autem plantavi te vineam electam, omne semen verum. Quomodo ergo conversa es mihi in pravum, vinea aliena?***
+^2:21^ Ego autem plantavi te vineam electam, omne semen verum. Quomodo ergo conversa es mihi in pravum, vinea aliena?  
 
 > ^2:22^ Si laveris te nitro, et multiplicaveris tibi herbam berith, maculata es in iniquitate tua coram me, dicit Dominus Deus.
 
@@ -286,7 +288,7 @@ Tertio idolorum multitudinem: ***secundum numerum quippe civitatum tuarum erant 
 
 Lectio 7  
 
-***^2:29^ Quid vultis mecum judicio contendere? Omnes dereliquistis me, dicit Dominus.***
+^2:29^ Quid vultis mecum judicio contendere? Omnes dereliquistis me, dicit Dominus.  
 
 > ^2:30^ Frustra percussi filios vestros; disciplinam non receperunt. Devoravit gladius vester prophetas vestros; quasi leo vastator generatio vestra.
 
@@ -298,7 +300,7 @@ Secundo ostendit eorum incorrigibilitatem quantum ad flagella minorum: ***frustr
 
 Lectio 8  
 
-***^2:31^ Videte verbum Domini. Numquid solitudo factus sum Israeli, aut terra serotina? Quare ergo dixit populus meus: recessimus, non veniemus ultra ad te?***
+^2:31^ Videte verbum Domini. Numquid solitudo factus sum Israeli, aut terra serotina? Quare ergo dixit populus meus: recessimus, non veniemus ultra ad te?  
 
 > ^2:32^ Numquid obliviscetur virgo ornamenti sui, aut sponsa fasciae pectoralis suae? Populus vero meus oblitus est mei diebus innumeris.
 
@@ -310,7 +312,7 @@ Secundo ea quae pertinent ad ornatum: ***numquid obliviscetur virgo ornamenti su
 
 Lectio 9  
 
-***^2:33^ Quid niteris bonam ostendere viam tuam, ad quaerendam dilectionem, quae insuper et malitias tuas docuisti vias tuas,***
+^2:33^ Quid niteris bonam ostendere viam tuam, ad quaerendam dilectionem, quae insuper et malitias tuas docuisti vias tuas,  
 
 > ^2:34^ et in alis tuis inventus est sanguis animarum pauperum et innocentum? Non in fossis inveni eos, sed in omnibus quae supra memoravi.
 
@@ -350,6 +352,6 @@ Lectio 10
 
 Collationes  
 
-***Notandum, quod peccatum dicitur ***vanitas***, quia phantasticum in eligendo. Ps. 39: *beatus vir cujus est nomen Domini spes ejus, et non respexit in vanitates, et insanias falsas*. Quia transitorium in permanendo. Psalm. 77: *defecerunt in vanitate dies eorum, et anni eorum cum festinatione*. Quia fallax in expectando. Eccli. 34: *vana spes et mendacium viro insensato, et somnia extollunt imprudentes*. Quia infructuosum in consequendo. Isa. 49: *in vacuum laboravi, sine causa et vane fortitudinem meam consumpsi*.***
+Notandum, quod peccatum dicitur ***vanitas***, quia phantasticum in eligendo. Ps. 39: *beatus vir cujus est nomen Domini spes ejus, et non respexit in vanitates, et insanias falsas*. Quia transitorium in permanendo. Psalm. 77: *defecerunt in vanitate dies eorum, et anni eorum cum festinatione*. Quia fallax in expectando. Eccli. 34: *vana spes et mendacium viro insensato, et somnia extollunt imprudentes*. Quia infructuosum in consequendo. Isa. 49: *in vacuum laboravi, sine causa et vane fortitudinem meam consumpsi*.  
 
 Item notandum, quod est ***fons aquae*** sacramentalis munditiae. Ezech. 47: *postquam venerint illuc aquae istae, sanabuntur et vivent omnia ad quae venerit torrens*. Aquae reficientis doctrinae. Isa. 55: *omnes sitientes venite ad aquas; et qui non habetis argentum properate, emite et comedite*. Aquae refrigerantis gratiae. Joan. 4: *fiet in eo fons aquae salientis in vitam aeternam*. Aquae nitentis gloriae. Apoc. ult. *ostendit mihi fluvium aquae vivae splendidum tamquam crystallum, procedentem de sede Dei et agni*.

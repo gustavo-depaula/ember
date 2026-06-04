@@ -1,8 +1,10 @@
 # Chapter 12
 
+***Term 1***
+
 ***Nature***
 
-***Nothing that is part of one's nature can be changed by habit, an example is of the stone or fire.***
+Nothing that is part of one's nature can be changed by habit, an example is of the stone or fire.  
 
 In those things in us by nature, we first gain powers for them, then afterward their exercise.  
 
@@ -32,19 +34,19 @@ Term 3
 
 ***Neither***
 
-***Neither of these ways of thinking went entirely astray in what they said regarding happiness.***
+Neither of these ways of thinking went entirely astray in what they said regarding happiness.  
 
 Term 4  
 
 ***Terms***
 
-***These terms 'loss' and 'gain' are found in voluntary exchanges, because to have more in these is called 'gain' and to have less in such things is called 'loss'.***
+These terms 'loss' and 'gain' are found in voluntary exchanges, because to have more in these is called 'gain' and to have less in such things is called 'loss'.  
 
 Term 5  
 
 ***Money***
 
-***Money was invented as a kind of measure by which excess or defect can be restored to the mean.***
+Money was invented as a kind of measure by which excess or defect can be restored to the mean.  
 
 Money came into being as a necessary element in exchange.  
 Money arouse of the necessity when making exchange.  
@@ -71,25 +73,25 @@ Term 8
 
 ***We are Born***
 
-***We are born more inclined toward pleasures, and so we are more easily moved toward intemperance than toward temperance.***
+We are born more inclined toward pleasures, and so we are more easily moved toward intemperance than toward temperance.  
 
 Term 9  
 
 ***Righteous Indignation***
 
-***Righteous indignation is the middle as with regard to the good we see befalling those who do not deserve it. One who has too much we call envious, he is pained by the goods of bad and good men alike. The one with too little we term *epicacotharchos.****
+Righteous indignation is the middle as with regard to the good we see befalling those who do not deserve it. One who has too much we call envious, he is pained by the goods of bad and good men alike. The one with too little we term *epicacotharchos.*  
 
 Term 10  
 
 ***The Righteously Indignant Man***
 
-***The righteously indignant man is pained by those who enjoy good fortune but do not deserve it. The man called *epicacotharchos* takes pleasure in all misfortune.***
+The righteously indignant man is pained by those who enjoy good fortune but do not deserve it. The man called *epicacotharchos* takes pleasure in all misfortune.  
 
 Term 11  
 
 ***Neoptolemus***
 
-***Neoptolemus was persuaded by Odysseus to deceive Philoctetes by lying. He was convinced at first, but afterward strayed from that advice, for that we praise him.***
+Neoptolemus was persuaded by Odysseus to deceive Philoctetes by lying. He was convinced at first, but afterward strayed from that advice, for that we praise him.  
 
 Term 12  
 

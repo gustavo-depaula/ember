@@ -1,8 +1,10 @@
 # D. 34 - Comparison of the essence to the person
 
+***De comparatione essentiae ad personam***
+
 ***Divisio textus***
 
-***Hic Magister comparat personam ad essentiam et dividitur in partes duas: in prima ponit comparationem; in secunda ponit materiae finem, ibi: *praeterea sciendum est*.***
+Hic Magister comparat personam ad essentiam et dividitur in partes duas: in prima ponit comparationem; in secunda ponit materiae finem, ibi: *praeterea sciendum est*.  
 
 Prima in duas: in prima comparat personam ad essentiam secundum identitatem; in secunda secundum communitatem essentiae ad personas, ibi: *hic considerandum est*.  
 
@@ -46,7 +48,7 @@ Articulus 1
 
 ***Utrum persona et essentia in divinis sint idem***
 
-***Ad primum sic proceditur. Videtur quod persona et essentia in divinis non sunt idem.***
+Ad primum sic proceditur. Videtur quod persona et essentia in divinis non sunt idem.  
 
 Omnis enim persona vel hypostasis in divinis aut est generans, vel genita, vel procedens. Sed essentia non est hujusmodi, ut supra dictum est. Ergo, etc.  
 
@@ -90,7 +92,7 @@ Articulus 2
 
 ***Utrum tres personas esse unius essentiae convenienter dicatur***
 
-***Ad secundum sic proceditur. Videtur inconvenienter dici, quod tres personae sint unius essentiae.***
+Ad secundum sic proceditur. Videtur inconvenienter dici, quod tres personae sint unius essentiae.  
 
 Quia secundum grammaticum, obliqui transitivi sunt. Sed constructio transitiva exigit diversitatem eorum quae construuntur. Cum igitur essentia non sit diversa a persona, videtur inconvenienter dici, tres personas esse unius essentiae.  
 
@@ -122,9 +124,9 @@ Quaestio 2
 
 ***Articulus 1***
 
-***Utrum potentia convenienter attribuatur Patri, sapientia Filio,Al. omit *bonitas Spiritui Sancto*. bonitas Spiritui Sancto***
+Utrum potentia convenienter attribuatur Patri, sapientia Filio,Al. omit *bonitas Spiritui Sancto*. bonitas Spiritui Sancto  
 
-***Deinde quaeritur de appropriatione quae in littera ponitur. Videtur enim quod sit incompetens.***
+Deinde quaeritur de appropriatione quae in littera ponitur. Videtur enim quod sit incompetens.  
 
 Virtus enim ad potentiam pertinet. Sed virtus appropriatur Filio, 1 Cor. 1:24: *Christum Dei virtutem*. Ergo potentia non debet appropriari Patri, sed Filio.  
 
@@ -156,7 +158,7 @@ Quaestio 3
 
 ***De his quae translative de Deo dicuntur***
 
-***Deinde quaeritur de his quae translative de Deo dicuntur; et circa hoc quaeruntur duo:***
+Deinde quaeritur de his quae translative de Deo dicuntur; et circa hoc quaeruntur duo:  
 
 primo utrum aliquid de Deo translative dicendum sit;  
 
@@ -198,7 +200,7 @@ Articulus 2
 
 ***Utrum transumptio in divinis debeat fieri ex rebus vilibus***
 
-***Ad secundum sic proceditur. Videtur quod ex rebus vilibus non debeat fieri transumptio in divina.***
+Ad secundum sic proceditur. Videtur quod ex rebus vilibus non debeat fieri transumptio in divina.  
 
 Sicut enim dictum est, omnis transumptio fit per aliquem modum similitudinis. Sed in rebus vilibus non inveniuntur conditiones nobiles, ex quibus ad divina possit aliqua similitudo attendi. Ergo videtur quod ex talibus rebus non debeant transumptiones in divina fieri.  
 
@@ -224,7 +226,7 @@ Ad quartum dicendum, quod in una re possunt considerari diversae proprietates; e
 
 Expositio textus  
 
-****Si enim, inquiunt, ea essentia quae Pater est, Filius est; idem sibi pater est et filius*. Haec ratio talis est. Essentia divina est una et eadem res. Sed essentia divina est Pater et Filius, ut dicitis. Ergo eadem res est Pater et Filius, et eadem res genuit et genita est. Ad quod patet responsio per aequivocationem rei; quia si res sumatur essentialiter, tunc essentia divina est una res, et illa res neque genuit neque genita est, neque est pater neque est filius, si pater et filius adjective sumantur. Si autem res sumatur personaliter; sic essentia divina non est una res, sed tres res, quarum una est generans, alia genita, tertia procedens; quamvis essentia neque generans sit, neque genita, neque procedens.***
+*Si enim, inquiunt, ea essentia quae Pater est, Filius est; idem sibi pater est et filius*. Haec ratio talis est. Essentia divina est una et eadem res. Sed essentia divina est Pater et Filius, ut dicitis. Ergo eadem res est Pater et Filius, et eadem res genuit et genita est. Ad quod patet responsio per aequivocationem rei; quia si res sumatur essentialiter, tunc essentia divina est una res, et illa res neque genuit neque genita est, neque est pater neque est filius, si pater et filius adjective sumantur. Si autem res sumatur personaliter; sic essentia divina non est una res, sed tres res, quarum una est generans, alia genita, tertia procedens; quamvis essentia neque generans sit, neque genita, neque procedens.  
 
 *Idque testimonio Hilarii defendere nituntur*. Intentio Hilarii in omnibus verbis ejus quae hic inducuntur haec est. Vult probare quod Pater et Filius sunt unius naturae; ad quod probandum sumit verbum Apostoli Rom. 8, ubi eumdem spiritum nominat Patris et Filii: ex quo procedit sic. Cum spiritus dupliciter sumatur in divinis, quia quandoque essentialiter sumitur, et significat divinam naturam; et in hoc sensu quandoqueAl. add *vero*. pro Patre, quandoque pro Filio, quandoque pro Spiritu Sancto ponitur: quandoque vero personaliter, et tunc significat rem naturae, vel personam Spiritus Sancti, aut in verbis Apostoli sumitur spiritus Christi et Patris essentialiter pro natura, ut sit sensus: spiritus qui est Christus et Pater; et sic plane habetur propositum, quod si unus est spiritus utriusque, eadem sit utriusque natura: aut sumitur pro re naturae, quae est Spiritus Sanctus; et sic idem habetur, quod Spiritus Sanctus est a Patre et Filio. Sed nulla res unius naturae est a rebus diversarum naturarum. Cum igitur Spiritus Sanctus sit unius naturae, quia simplex est, oportet quod Pater et Filius non sint diversarum naturarum.  
 

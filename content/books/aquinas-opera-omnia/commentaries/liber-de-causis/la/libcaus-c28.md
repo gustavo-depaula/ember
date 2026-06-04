@@ -1,5 +1,7 @@
 # Proposition 27
 
+191. Omnis substantia destructibilis non sempiterna aut est composita aut est delata super rem aliam.  
+
 > 192. Propterea quod substantia aut est indigens rebus, ex quibus est, et est composita ex eis, aut est indigens in fixione sua et sua essentia deferente. Cum ergo separatur deferens eam, corrumpitur et destruitur.
 
 > 193. Quod si substantia non est composita neque delata, est simplex et semper, non destruitur neque minuitur omnino.

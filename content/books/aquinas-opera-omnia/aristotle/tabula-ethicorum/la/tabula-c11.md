@@ -1,8 +1,10 @@
 # Chapter 11
 
+***Vox 1***
+
 ***Magnanimus***
 
-***Quod magnanimus bene se habet in omnibus et diuiciis et potentatibus et in omni bona fortuna nec nimis gaudet in prosperis nec tristatur in aduersis nec multum gaudet circa honorem.***
+Quod magnanimus bene se habet in omnibus et diuiciis et potentatibus et in omni bona fortuna nec nimis gaudet in prosperis nec tristatur in aduersis nec multum gaudet circa honorem.  
 
 Quod magnanimi non sunt qui sine uirtute bona fortune habent.  
 
@@ -64,7 +66,7 @@ Vox 2
 
 ***Mali***
 
-***Quod mali desiderant delectabile quasi bonum et tristiciam fugiunt quasi malum; non enim existens bonum uidetur eis.***
+Quod mali desiderant delectabile quasi bonum et tristiciam fugiunt quasi malum; non enim existens bonum uidetur eis.  
 
 Quod nullus sit malus uolens neque nolens beatus, assimulatur hoc quidem mendaci, hoc quidem ueraci.  
 
@@ -126,7 +128,7 @@ Vox 4
 
 ***Magnificencia***
 
-***Quod magnificencia est medietas circa pecunias, set differt magnificencia a liberali.***
+Quod magnificencia est medietas circa pecunias, set differt magnificencia a liberali.  
 
 Quod magnificencia est quedam uirtus circa magnos sumptus in pecuniis.  
 
@@ -166,7 +168,7 @@ Vox 5
 
 ***Mansuetus***
 
-***Quod mansuetus laudatur quia uult inperturbatus esse et non duci a passione, set secundum quod racio ordinat secundum omnes circumstancias; et magis accedit ad defectum, quia non est punitiuus set magis condonatiuus.***
+Quod mansuetus laudatur quia uult inperturbatus esse et non duci a passione, set secundum quod racio ordinat secundum omnes circumstancias; et magis accedit ad defectum, quia non est punitiuus set magis condonatiuus.  
 
 Quod mansuetudini magis opponitur superhabundancia quam defectus.  
 
@@ -182,7 +184,7 @@ Vox 7
 
 ***Medicus***
 
-***Quod medicus non considerat de sanitate in uniuersali, set de hac sanitate hominis et huiusmodi hominis.***
+Quod medicus non considerat de sanitate in uniuersali, set de hac sanitate hominis et huiusmodi hominis.  
 
 Quod medicorum excellentes considerant et negociantur circa corporis cognicionem.  
 
@@ -246,7 +248,7 @@ Vox 10
 
 ***Mendacium***
 
-***Quod mendacium secundum se prauum est et fugiendum, uerum autem eciam bonum laudabile.***
+Quod mendacium secundum se prauum est et fugiendum, uerum autem eciam bonum laudabile.  
 
 Quod mendaces sunt uituperabiles, magis autem iactator.  
 
@@ -264,7 +266,7 @@ Vox 11
 
 ***Mensuracio***
 
-***Quomodo fiat mensuracio quando sunt dona huiusmodi sine pacto tamen cum spe retribucionis; et dicit philosophus quod non solum necessarium est set eciam iustum quod prehabens ordinet et mensuret retribucionem, ut quantum recipiens est adiutus tantum dans habebit ab hoc dignitatem, sicut in empcionibus uidetur factum.***
+Quomodo fiat mensuracio quando sunt dona huiusmodi sine pacto tamen cum spe retribucionis; et dicit philosophus quod non solum necessarium est set eciam iustum quod prehabens ordinet et mensuret retribucionem, ut quantum recipiens est adiutus tantum dans habebit ab hoc dignitatem, sicut in empcionibus uidetur factum.  
 
 Quod oportet omnia mensurari uno quod secundum ueritatem continet omnia.  
 
@@ -272,7 +274,7 @@ Vox 12
 
 ***Modus***
 
-***Quod diuersus est modus procedendi in racionibus que a principiis ad principiata, sicut exemplum ponit Plato de stadiis et atlothetis.***
+Quod diuersus est modus procedendi in racionibus que a principiis ad principiata, sicut exemplum ponit Plato de stadiis et atlothetis.  
 
 Vox 13  
 
@@ -318,7 +320,7 @@ Vox 16
 
 ***Mutuum***
 
-***Quod sicut mutuantes uolunt salutem illorum quibus mutuant ne perdant sua et non e conuerso, sic est in beneficiis; et huius solucionis principalis fuit Epicarius.***
+Quod sicut mutuantes uolunt salutem illorum quibus mutuant ne perdant sua et non e conuerso, sic est in beneficiis; et huius solucionis principalis fuit Epicarius.  
 
 Quod mutuum cui debet reddendum est magis quam amico dandum.  
 
@@ -334,7 +336,7 @@ Vox 18
 
 ***Matres***
 
-***Quod matrem sacrificauit quidam, scilicet rex Persarum, propter maniam et comedebat eam.***
+Quod matrem sacrificauit quidam, scilicet rex Persarum, propter maniam et comedebat eam.  
 
 Quod matres plus diligunt filios quam patres, quia magis certe de ipsis.  
 
@@ -344,13 +346,13 @@ Vox 19
 
 ***Materia***
 
-***Quod secundum quod materia exigit in tantum est inquirendum in quantum proprium est doctrine.***
+Quod secundum quod materia exigit in tantum est inquirendum in quantum proprium est doctrine.  
 
 Vox 20  
 
 ***Milites***
 
-***Quod quia milites sunt experti in bellicis in quibus multa inania que non sunt timenda, ideo fortes uidentur agredientes securius prelia; sciunt enim aliis inferre nocumentum et cauere sibi ab illatis.***
+Quod quia milites sunt experti in bellicis in quibus multa inania que non sunt timenda, ideo fortes uidentur agredientes securius prelia; sciunt enim aliis inferre nocumentum et cauere sibi ab illatis.  
 
 Quod milites optimi non sunt fortes, licet sint parati ad pericula nullum aliud bonum habentes; pugnant enim pro temporalibus bonis et commutant uitam ad parua lucra, set fortis pro optimo et bono uirtutis.  
 
@@ -358,7 +360,7 @@ Vox 21
 
 ***Multiplicitas***
 
-***Quod in multiplicitate est multa differencia, quia quedam latens et quedam apparens, et quedam propinqua et quedam remota.***
+Quod in multiplicitate est multa differencia, quia quedam latens et quedam apparens, et quedam propinqua et quedam remota.  
 
 Vox 22  
 
@@ -398,7 +400,7 @@ Vox 26
 
 ***Mulieres***
 
-***Quod mulieres non dicuntur simpliciter incontinentes, quoniam non ducunt set ducuntur mollicie nature et defectu racionis.***
+Quod mulieres non dicuntur simpliciter incontinentes, quoniam non ducunt set ducuntur mollicie nature et defectu racionis.  
 
 Vox 27  
 
@@ -408,4 +410,4 @@ Vox 27
 
 Millesii  
 
-***Quod Millesii stulti quidem non sunt, operantur autem qualia quidem stulti; sic incontinentes non sunt iniusti, set operantur iniusta.***
+Quod Millesii stulti quidem non sunt, operantur autem qualia quidem stulti; sic incontinentes non sunt iniusti, set operantur iniusta.

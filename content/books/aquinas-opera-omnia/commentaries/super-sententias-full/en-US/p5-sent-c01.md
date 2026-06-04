@@ -1,5 +1,7 @@
 # Prologue
 
+***Ecclesiastes 1:7***
+
 ***To the place where the streams flow, there they flow again.***
 
 > In these words we can understand the two things in which the matter of this third book consists: namely, the mystery of the divine Incarnation and its abundant fruit.

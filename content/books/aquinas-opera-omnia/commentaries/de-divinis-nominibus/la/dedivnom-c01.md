@@ -1,5 +1,7 @@
 # Prooemium
 
+Ad intellectum librorum beati Dionysii considerandum est quod ea quae de Deo in sacris Scripturis continentur, artificialiter quadrifariam divisit.  
+
 Nam in libro quodam, qui apud nos non habetur, qui intitulatur *De divinis hypotyposibus* idest characteribus, ea de Deo tradidit quae ad unitatem divinae essentiae et distinctionem personarum pertinent. Cuius unitatis et distinctionis sufficiens similitudo in rebus creatis non invenitur, sed hoc mysterium omnem naturalis rationis facultatem excedit.  
 
 Quae vero dicuntur de Deo in Scripturis, quarum aliqua similitudo in creaturis invenitur, dupliciter se habent. Nam huiusmodi similitudo in quibusdam quidem attenditur secundum aliquid quod a Deo in creaturas derivatur. Sicut a primo bono sunt omnia bona et a primo vivo sunt omnia viventia et sic de aliis similibus. Et talia pertractat Dionysius in libro *De divinis nominibus*, quem prae manibus habemus.  

@@ -1,5 +1,7 @@
 # Chapter 10
 
+***^10:1^ Woe to them that make wicked laws: and when they write, write injustice:***
+
 > ^10:2^ to oppress the poor in judgment, and do violence to the cause of the humble of my people: that widows might be their prey, and that they might rob orphans.DR: “the fatherless.”
 
 > ^10:3^ What will you do in the day of visitation, and of the calamity which comes from afar? To whom will you flee for help? And where will you leave your glory?

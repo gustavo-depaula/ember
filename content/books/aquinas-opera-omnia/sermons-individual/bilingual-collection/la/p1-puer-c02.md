@@ -1,5 +1,7 @@
 # Sermon
 
+***Puer Iesus*** etc. Si diligenter velimus verba ista considerare, quatuor in eis inveniemus Christi profectus, scilicet  
+
 profectum aetatis quantum ad corpus,  
 
 profectum sapientiae quantum ad intellectum,  

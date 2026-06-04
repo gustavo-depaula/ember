@@ -1,6 +1,8 @@
 # D. 36 - Interconnection of the virtues
 
-***Postquam determinavit Magister de virtutibus et donis, hic determinat de connexione eorum. Dividitur autem haec pars in duas:***
+***Divisio textus***
+
+Postquam determinavit Magister de virtutibus et donis, hic determinat de connexione eorum. Dividitur autem haec pars in duas:  
 
 in prima determinat de connexione virtutum;  
 
@@ -280,7 +282,7 @@ Ad quintum dicendum, quod modus caritatis plus importat quam relationem operis i
 
 Expositio textus  
 
-****Ubi caritas est, quid est quod* The Bruges manuscript omits *est quod*. *possit deesse?* Ergo omnes aliae virtutes superfluunt. Et dicendum, quod hoc dicitur propter necessariam connexionem aliarum virtutum, quarum ipsa quodammodo est causa.***
+*Ubi caritas est, quid est quod* The Bruges manuscript omits *est quod*. *possit deesse?* Ergo omnes aliae virtutes superfluunt. Et dicendum, quod hoc dicitur propter necessariam connexionem aliarum virtutum, quarum ipsa quodammodo est causa.  
 
 *Sequitur ut ejus fortitudo minus sit prudens*. Hoc dicitur secundum quod ab una virtute aliquid in aliam redundat, ut dictum est.  
 

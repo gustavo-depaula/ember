@@ -1,8 +1,10 @@
 # D. 36 - Interconnection of the virtues
 
+***Interconnection of the virtues***
+
 ***Division of the text***
 
-***After having considered the virtues and the gifts in common, here he considers their interconnection. Now, this part is divided into two:***
+After having considered the virtues and the gifts in common, here he considers their interconnection. Now, this part is divided into two:  
 
 in the first, he considers the interconnection of the virtues;  
 
@@ -52,7 +54,7 @@ Article 1
 
 ***Whether the political virtues are interconnected***
 
-***To the first we proceed thus.Parallels: *In IV Sent.*, d. 33, q. 3, a. 2, ad 6; *ST* I-II.65.1; *De virtutibus card.,* a. 2; *Quodl.* XII, q. 15, a. 1; *Sent. Ethic.* VI, lect. 11. It appears that the political virtues are not interconnected.***
+To the first we proceed thus.Parallels: *In IV Sent.*, d. 33, q. 3, a. 2, ad 6; *ST* I-II.65.1; *De virtutibus card.,* a. 2; *Quodl.* XII, q. 15, a. 1; *Sent. Ethic.* VI, lect. 11. It appears that the political virtues are not interconnected.  
 
 Obj. 1: For such virtues are acquired from their acts, as the Philosopher proves.Aristotle, *Nicomachean Ethic*s 2.1, 1103a16‒b7. But their acts are not interconnected. Therefore neither are these virtues.  
 
@@ -98,7 +100,7 @@ Article 2
 
 ***Whether the gratuitous virtues are interconnected***
 
-***To the second we proceed as follows.Parallels: above, d. 27, q. 2, a. 4, resp. 3, ad 2; *ST* I-II.23.7; 65.2; *De virtutibus card.,* a. 2. It seems that the gratuitous graces are not interconnected.***
+To the second we proceed as follows.Parallels: above, d. 27, q. 2, a. 4, resp. 3, ad 2; *ST* I-II.23.7; 65.2; *De virtutibus card.,* a. 2. It seems that the gratuitous graces are not interconnected.  
 
 Obj. 1: For Bede saysThis claim is not found in Bede (Moos). that the saints are more humble about the virtues that they do not possess than they glory in the virtues that they do. Therefore they possess certain virtues and not others.  
 
@@ -138,7 +140,7 @@ Article 3
 
 ***Whether the gifts are interconnected***
 
-***To the third we proceed thus.Parallel: *ST* I-II.68.5. It appears that the gifts are not interconnected.***
+To the third we proceed thus.Parallel: *ST* I-II.68.5. It appears that the gifts are not interconnected.  
 
 Obj. 1: For *to one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit* (1 Cor 12:8). But wisdom and knowledge are gifts. Therefore one gift is given to one, and another to another, so they are not interconnected.  
 
@@ -172,7 +174,7 @@ Article 4
 
 ***Whether all the virtues are equal***
 
-***To the fourth we proceed thus.Parallels: *In II Sent.*, d. 42, q. 2, a. 5, ad 6; *ST* I-II.66.1-2; *De malo,* q. 2, a. 9, ad 8; *De virtutibus card.*, a. 3. It appears that the virtues are not equal.***
+To the fourth we proceed thus.Parallels: *In II Sent.*, d. 42, q. 2, a. 5, ad 6; *ST* I-II.66.1-2; *De malo,* q. 2, a. 9, ad 8; *De virtutibus card.*, a. 3. It appears that the virtues are not equal.  
 
 Obj. 1: In 1 Corinthians 13:13 it is said that charity is greater than faith and hope. But each of these is a virtue. Therefore one virtue is less than another.  
 
@@ -208,7 +210,7 @@ Article 5
 
 ***Whether the vices are interconnected***
 
-***To the fifth we proceed thus.Parallels: *In IV Sent*., d. 16, q. 2, a. 1, resp. 2; *ST* I-II.73.1. It appears that the vices are interconnected.***
+To the fifth we proceed thus.Parallels: *In IV Sent*., d. 16, q. 2, a. 1, resp. 2; *ST* I-II.73.1. It appears that the vices are interconnected.  
 
 Obj. 1: *For whoever keeps the whole law but fails in one point has become guilty of all of it* (Jas 2:10). But one becomes guilty of all the commandments only through sin. Therefore he who has one sin has all sins.  
 
@@ -242,7 +244,7 @@ Article 6
 
 ***Whether a commandment contains the requirement that it be fulfilled charitably***
 
-***To the sixth we proceed thus.Parallels: *ST* I-II.100.10; *De veritate*, q. 23, a. 7, ad 8; q. 24, a. 12, ad 16; *De malo*, q. 2, a. 5, ad 7. It seems that included in every commandment is that it be fulfilled out of charity.***
+To the sixth we proceed thus.Parallels: *ST* I-II.100.10; *De veritate*, q. 23, a. 7, ad 8; q. 24, a. 12, ad 16; *De malo*, q. 2, a. 5, ad 7. It seems that included in every commandment is that it be fulfilled out of charity.  
 
 Obj. 1: For just as virtues are connected to each other in charity, so too are all commandments reducible to charity. But the virtues are connected to each other in charity because they are formed by charity. Therefore the commandments, too, are reduced to charity because acting charitably falls within a commandment.  
 
@@ -284,7 +286,7 @@ Reply Obj. 5: Acting from charity implies more than a mere relation of a given w
 
 Exposition of the text  
 
-****Where there is charity, what can possibly be wanting?**Sent.* III, 36.1(135).2, quoting Augustine, *In Iohannis euangelium tractatus,* tract. 83, para. 3 (CCSL 36; PL 35:1846). Therefore all other virtues are superfluous? To this I say that this is said on account of the necessary interconnection of the other virtues, of which it is in a certain way the cause.***
+*Where there is charity, what can possibly be wanting?**Sent.* III, 36.1(135).2, quoting Augustine, *In Iohannis euangelium tractatus,* tract. 83, para. 3 (CCSL 36; PL 35:1846). Therefore all other virtues are superfluous? To this I say that this is said on account of the necessary interconnection of the other virtues, of which it is in a certain way the cause.  
 
 *It follows that the fortitude of the other is less prudent*.*Sent*. III, 36.2(136).3, quoting Augustine, *On the Trinity*, bk. 6, ch. 4, n. 6 (CCSL 50; PL 42:927). This is said inasmuch as something overflows from one virtue into another, as was said.  
 

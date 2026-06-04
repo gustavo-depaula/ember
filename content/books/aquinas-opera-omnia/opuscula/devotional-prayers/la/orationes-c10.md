@@ -1,5 +1,7 @@
 # O God of All Consolation
 
+***Oratio qua ad caelum adspirat***
+
 ***Te Deum totius consolationis***
 ***invoco, qui nihil in nobis***
 ***praeter tua dona cernis,***

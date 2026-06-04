@@ -1,5 +1,7 @@
 # Proposition 22
 
+***166. The first cause is above every name by which it is named.***
+
 > 167. This is because neither imperfection nor perfection along pertain to it; since the imperfect is not perfect and can effect no perfect activity, insofar as it is imperfect. And what is perfect among us, although it be sufficient in and of itself, yet it cannot create anything else nor impress anything at all by itself.
 
 > 168. Thus if it is such among us, then we shall say that the first is neither just imperfect nor just perfect, but rather is beyond perfection,

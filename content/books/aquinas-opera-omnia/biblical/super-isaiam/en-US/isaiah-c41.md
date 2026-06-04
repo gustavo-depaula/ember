@@ -1,5 +1,7 @@
 # Chapter 39
 
+^39:1^ At that time Merodach Baladan, the son of Baladan king of Babylon, sent books*Libros*. DR: “letters.” and presents to Ezechias: for he had heard that he had been sick and was recovered.  
+
 > ^39:2^ And Ezechias rejoiced at their coming, and he showed them the storehouses of his aromatical spices, and of the silver, and of the gold, and of the sweet odors, and of the precious ointment, and all the storehouses of his furniture, and all things that were found in his treasures. There was no word*Non fuit verbum*. DR: “there was nothing.” in his house, nor in all his dominion that Ezechias showed them not.
 
 > ^39:3^ Then Isaiah the prophet came to king Ezechias, and said to him: what said these men, and from whence came they to you? And Ezechias said: from a far country they came to me, from Babylon.

@@ -1,5 +1,7 @@
 # Fragmentum — Sapientia Confortabit
 
+***Fratris Thomae de Aquino***
+
 ***Eccl. 7, 20***
 
 ***Sapientia confortabit sapientem.***

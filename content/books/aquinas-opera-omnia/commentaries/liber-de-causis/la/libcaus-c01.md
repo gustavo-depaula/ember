@@ -1,5 +1,7 @@
 # Prologue
 
+**1**. Sicut Philosophus dicit in X *Ethicorum*, ultima felicitas hominis consistit in optima hominis operatione quae est supremae potentiae, scilicet intellectus, respectu optimi intelligibilis.  
+
 **2**. Quia vero effectus per causam cognoscitur, manifestum est quod causa secundum sui naturam est magis intelligibilis quam effectus, etsi aliquando quoad nos effectus sint notiores causis propter hoc quod ex particularibus sub sensu cadentibus universalium et intelligibilium causarum cognitionem accipimus.  
 
 **3**. Oportet igitur quod simpliciter loquendo primae rerum causae sint secundum se maxima et optima intelligibilia, eo quod sunt maxime entia et maxime vera cum sint aliis essentiae et veritatis causa, ut patet per Philosophum in II *Metaphysicae*, quamvis huiusmodi primae causae sint minus et posterius notae quoad nos:  

@@ -1,5 +1,7 @@
 # Chapter 66
 
+^66:1^ Hæc dicit Dominus: cælum sedes mea et terra scabellum pedum meorum. Quæ est ista domus quam ædificabitis mihi? Et quis est iste locus quietis meæ?  
+
 > ^66:2^ Omnia hæc manus mea fecit, et facta sunt universa ista, dicit Dominus. Ad quem autem respiciam nisi ad pauperculum et contritum spiritu et trementem sermones meos?
 
 > ^66:3^ Qui immolat bovem quasi qui interficiat virum; qui mactat pecus quasi qui excerebret canem; qui offert oblationem quasi qui sanguinem suillum offerat; qui recordatur thuris quasi qui benedicat idolo. Hæc omnia elegerunt in viis suis, et in abominationibus suis anima eorum delectata est.

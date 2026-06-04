@@ -1,5 +1,7 @@
 # C. 16 - Jeremiah separated from the people
 
+***Jeremiah separated from the people***
+
 ***Lecture 1***
 
 ***Jeremiah set apart from Israelites***
@@ -56,7 +58,7 @@ Lecture 2
 
 ***Punishments for idolatry***
 
-***^16:10^ And when you tell all these words to this people, and they say to you, ‘Why has the Lord spoken all this great evil concerning us? What is our iniquity, and what is our sin, that we have sinned against the Lord our God?’***
+^16:10^ And when you tell all these words to this people, and they say to you, ‘Why has the Lord spoken all this great evil concerning us? What is our iniquity, and what is our sin, that we have sinned against the Lord our God?’  
 
 > ^16:11^ You shall say to them: because your fathers have abandoned me, says the Lord, and went after strange gods, and served them, and worshiped them, and forsook me, and did not keep my law.
 
@@ -120,4 +122,4 @@ Third, he speaks of the resultant good of their conversion: ***therefore***, tha
 
 Collations  
 
-***It must be noted that the word ***hand*** (Jer 16:21) is used in various senses; of divine providence: *in his hand are both we, and our words, and all wisdom, and the skill of the knowledge of works* (Wis 7:16); of divine liberality: *when you open your hand, all things are filled with goodness* (Ps 103:28); of divine protection: *he protected me under the shelter of his hand* (Isa 49:2); of divine liberation: *he strikes, and his hands will heal* (Job 5:18): of divine operation: *glorify your hand and right arm* (Sir 36:7); also of divine condemnation, *it is a fearful thing to fall into the hands of the living God* (Heb 10:31).***
+It must be noted that the word ***hand*** (Jer 16:21) is used in various senses; of divine providence: *in his hand are both we, and our words, and all wisdom, and the skill of the knowledge of works* (Wis 7:16); of divine liberality: *when you open your hand, all things are filled with goodness* (Ps 103:28); of divine protection: *he protected me under the shelter of his hand* (Isa 49:2); of divine liberation: *he strikes, and his hands will heal* (Job 5:18): of divine operation: *glorify your hand and right arm* (Sir 36:7); also of divine condemnation, *it is a fearful thing to fall into the hands of the living God* (Heb 10:31).

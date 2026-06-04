@@ -1,5 +1,7 @@
 # Chapter 57
 
+^57:1^ The just perishes, and no man lays it to heart, and men of mercy are taken away, because there is none that understands; for the just man is taken away from before the face of evil.  
+
 > ^57:2^ Let peace come, let him rest in his bed that has walked in his uprightness.
 
 > ^57:3^ But draw near hither, you sons of the sorceress, the seed of the adulterer, and of the harlot.

@@ -1,5 +1,7 @@
 # Chapter 47
 
+^47:1^ Come down, sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne for the daughter of the Chaldeans, for you shall no more be called delicate and tender.  
+
 > ^47:2^ Take a millstone and grind meal: uncover your shame, strip your shoulder, make bare your legs, pass over the rivers.
 
 > ^47:3^ Your nakedness shall be discovered, and your shame shall be seen: I will take vengeance, and no man shall resist me.

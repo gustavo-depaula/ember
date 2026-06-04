@@ -1,5 +1,7 @@
 # On Things Pertaining to Punishment and Glory
 
+***Quaestio 7***
+
 ***De poena spirituali damnatorum***
 
 ***Deinde quaeritur de his quae pertinent ad poenam et gloriam.***
@@ -24,7 +26,7 @@ Articulus 1
 
 ***Utrum damnati videant gloriam sanctorum maxime post diem iudicii***
 
-***Ad primum sic proceditur. Videtur quod damnati post diem iudicii videant gloriam sanctorum.***
+Ad primum sic proceditur. Videtur quod damnati post diem iudicii videant gloriam sanctorum.  
 
 Sicut enim se habet gloria ad miseriam, ita miseria ad gloriam; sed de perfectione gloriae sanctorum est ut videant miseriam damnatorum, ut habetur Isaiae ultimo: *egredientur et videbunt cadavera* impiorum; ergo et de perfectione miseriae damnatorum est ut videant gloriam sanctorum, et sic post diem iudicii, quando erunt in perfecta miseria, damnati videbunt gloriam sanctorum.  
 
@@ -44,7 +46,7 @@ Articulus 2
 
 ***Utrum damnati velint suos propinquos esse damnatos***
 
-***Ad secundum sic proceditur. Videtur quod damnati non vellent suos propinquos esse damnatos.***
+Ad secundum sic proceditur. Videtur quod damnati non vellent suos propinquos esse damnatos.  
 
 Dicitur enim Lucae XVI quod dives in inferno damnatus petebat Lazarum mitti ad fratres suos *ut* testaretur *illis ne* venirent *in locum tormentorum*; petitio autem est voluntatis designatio; ergo damnati non volunt suos propinquos damnari.  
 
@@ -64,7 +66,7 @@ Quaestio 8
 
 ***Utrum scilicet sit ibi tantum poena ignis, vel etiam poena aquae***
 
-***Deinde quaeritur de poena corporali damnatorum, utrum scilicet sit ibi tantum poena ignis vel etiam poena aquae?***
+Deinde quaeritur de poena corporali damnatorum, utrum scilicet sit ibi tantum poena ignis vel etiam poena aquae?  
 
 Et videtur quod sic, per id quod habetur Iob XXIV de impiis: *transibunt ab aquis nivium ad calorem nimium*.  
 
@@ -90,9 +92,9 @@ secundo, utrum per prius beati ferantur ad videndam humanitatem Christi quam eiu
 
 Articulus 1  
 
-***Utrum beatitudo sanctorum per prius consistat in intellectu quam in affectu, vel e converso***
+Utrum beatitudo sanctorum per prius consistat in intellectu quam in affectu, vel e converso  
 
-***Ad primum sic proceditur. Videtur quod beatitudo sanctorum praecipue consistat in intellectu.***
+Ad primum sic proceditur. Videtur quod beatitudo sanctorum praecipue consistat in intellectu.  
 
 Sicut enim dicit Augustinus, X *Confessionum*, beatitudo est *gaudium de veritate*; sed veritas pertinet principaliter ad intellectum; ergo et beatitudo.  
 
@@ -116,9 +118,9 @@ Ad illud vero quod in contrarium obicitur, dicendum quod meritum consistit in ag
 
 Articulus 2  
 
-***Utrum per prius beati ferantur ad videndum humanitatem Christi quam eius divinitatem***
+Utrum per prius beati ferantur ad videndum humanitatem Christi quam eius divinitatem  
 
-***Ad secundum sic proceditur. Videtur quod beati in gloria prius ferantur ad contemplandam Christi divinitatem quam eius humanitatem.***
+Ad secundum sic proceditur. Videtur quod beati in gloria prius ferantur ad contemplandam Christi divinitatem quam eius humanitatem.  
 
 Altissimo enim statui altissimus actus principaliter et primo competit; sed beati sunt in statu altissimo; cum igitur actus intelligentiae, quae est potentia altissima, cuius est ferri in Deum, sit actus nobilissimus, videtur quod hic actus primo beatis competat ut Deum contemplentur.  
 

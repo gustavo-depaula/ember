@@ -1,5 +1,7 @@
 # On Angels
 
+***Quaestio 3***
+
 ***De angelis***
 
 ***Deinde quaesitum est de angelis. Et circa hoc quaesita sunt tria:***
@@ -38,7 +40,7 @@ Articulus 2
 
 ***Utrum angelus influat in animam humanam***
 
-***Ad secundum sic proceditur. Videtur quod angelus non possit influere in animam humanam.***
+Ad secundum sic proceditur. Videtur quod angelus non possit influere in animam humanam.  
 
 Duorum enim distantium unum non influit in alterum nisi per aliquod medium; sed angelus et anima distant ad invicem; cum igitur non sit dare aliquod medium per quod fiat influxus ab angelo in animam, videtur quod angelus non possit influere in animam.  
 
@@ -50,9 +52,9 @@ Et per hoc patet solutio ad obiecta.
 
 Articulus 3  
 
-***Utrum angelus malus, id est diabolus, inhabitet substantialiter hominem in quolibet peccato mortali***
+Utrum angelus malus, id est diabolus, inhabitet substantialiter hominem in quolibet peccato mortali  
 
-***Ad tertium sic proceditur. Videtur quod diabolus semper substantialiter inhabitet hominem quandocumque peccat mortaliter.***
+Ad tertium sic proceditur. Videtur quod diabolus semper substantialiter inhabitet hominem quandocumque peccat mortaliter.  
 
 Culpa enim mortalis opponitur gratiae; sed Spiritus Sanctus semper inhabitat hominem cum gratia, secundum illud, I ad Corinthios III: *templum Dei estis, et Spiritus Dei habitat in vobis*; ergo etiam spiritus immundus semper inhabitat hominem cum culpa mortali.  
 

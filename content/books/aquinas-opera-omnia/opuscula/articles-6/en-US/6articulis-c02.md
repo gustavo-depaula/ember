@@ -1,5 +1,7 @@
 # Articles 1-3
 
+The first article, then, is whether the star which appeared to the Magi had the shape of a cross;  
+
 the second, whether it had the shape of man;  
 
 the third, whether it had the shape of a crucifix.  

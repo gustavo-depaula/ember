@@ -1,6 +1,8 @@
 # D. 18 - Christ's merit as ordered to the good
 
-***Postquam determinavit Magister de voluntate Christi quae est principium merendi, hic determinat de merito ipsius.***
+***Divisio textus***
+
+Postquam determinavit Magister de voluntate Christi quae est principium merendi, hic determinat de merito ipsius.  
 
 Dividitur autem haec pars in duas.  
 
@@ -164,7 +166,7 @@ Articulus 3
 
 ***Utrum Christus ab instanti suae conceptionis potuerit mereri***
 
-***Ad tertium sic proceditur. Videtur quod Christus non potuerit mereri in instanti suae conceptionis.***
+Ad tertium sic proceditur. Videtur quod Christus non potuerit mereri in instanti suae conceptionis.  
 
 Nullus enim meretur nisi agendo. Sed prius est esse rei quam ejus agere. Ergo in primo instanti conceptionis, quando Christus primo esse habuit secundum humanam naturam, mereri non potuit.  
 
@@ -202,7 +204,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod Christus non meruerit sibi immortalitatem corporis.***
+Ad quartum sic proceditur. Videtur quod Christus non meruerit sibi immortalitatem corporis.  
 
 Mereri enimBruges manuscript reads *autem.* est extranei, cui non debetur merces nisi per meritum; sicut et adoptari est extranei, cui non debetur hereditas nisi per adoptionem. Sed Christus ad bona Patris quae sunt sua, non dicitur adoptari quasi extraneus. Ergo nec eadem ratione immortalitatem vel aliquid hujusmodi meruit.  
 
@@ -216,7 +218,7 @@ Praeterea, bona gloriae nulla creatura habet sine merito. Sed immortalitas perti
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod impassibilitatem animae Christus non meruerit. Id enim quod nobis est naturale, non meremur. Sed anima secundum suam naturam est impassibilis. Ergo impassibilitatem non meruit.***
+Ulterius, videtur quod impassibilitatem animae Christus non meruerit. Id enim quod nobis est naturale, non meremur. Sed anima secundum suam naturam est impassibilis. Ergo impassibilitatem non meruit.  
 
 Praeterea, omne quod inest alicui per accidens, ex hoc ipso quod accidens removetur, ei non inest. Sed anima patitur sicut et movetur per accidens, scilicet per corpus. Ergo ex hoc ipso quod separatur a corpore, fit impassibilis. Sed Christus non meruit animam a corpore separari, quia meritum mortis peccatum est, ut dicitur Rom. 6:23. Ergo non meruit impassibilitatem animae.  
 
@@ -228,7 +230,7 @@ Praeterea, animae damnatorum sunt passibiles quia impassibilitatem non meruerunt
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non meruerit exaltationem. Quia ex hoc ipso quod humana natura assumpta fuit, exaltata est et nomen divinitatis sibi debetur.Angers manuscript reads *debebatur.* Sed assumptionem non meruit, ut supra, d. 4, dictum est. Ergo nec exaltationem.***
+Ulterius, videtur quod non meruerit exaltationem. Quia ex hoc ipso quod humana natura assumpta fuit, exaltata est et nomen divinitatis sibi debetur.Angers manuscript reads *debebatur.* Sed assumptionem non meruit, ut supra, d. 4, dictum est. Ergo nec exaltationem.  
 
 Praeterea, nomen quod est super omne nomen, est nomen in quo omne genu flectitur. Sed hoc est nomen "Jesu," ut dicitur Philip. 2:9. Cum igiturEd. read *ergo.* hoc nomen non meruerit, sed ante conceptionem sibi impositum fuerit, videtur quod non meruerit nomenEd. add *quod est.* super omne nomen.  
 
@@ -244,7 +246,7 @@ Praeterea, ipse se fecit dignum tali exaltatione quae est in manifestatione ad h
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod etiamBruges and Angers manuscripts omit *etiam*; the Brussels manuscript reads *videtur etiam quod.* praemium substantiale animae, scilicet fruitionem divinam, ipse meruit. Majoris enim meriti majus est praemium. Sed meritum Christi fuit majus omnibus aliis meritis sanctorum.Ed. read *fuit majus omnium sanctorum meritis.* Ergo et major fuit merces quam meruit. Nihil autem majus cadit sub merito quam fruitio Dei quam sancti merentur. Ergo ipse etiam meruit ipsam.***
+Ulterius, videtur quod etiamBruges and Angers manuscripts omit *etiam*; the Brussels manuscript reads *videtur etiam quod.* praemium substantiale animae, scilicet fruitionem divinam, ipse meruit. Majoris enim meriti majus est praemium. Sed meritum Christi fuit majus omnibus aliis meritis sanctorum.Ed. read *fuit majus omnium sanctorum meritis.* Ergo et major fuit merces quam meruit. Nihil autem majus cadit sub merito quam fruitio Dei quam sancti merentur. Ergo ipse etiam meruit ipsam.  
 
 Praeterea, gloriosius est habere aliquid per seipsum quam ab alio habere omnia. Sed quod quis meretur, quodammodo habet per seipsum. Cum igitur Christus fruitionem divinam gloriosissime habuerit, videtur quod eam meruerit.  
 
@@ -256,7 +258,7 @@ Praeterea, ex hoc ipso quod intellectus ejus erat Deo conjunctus in persona, sib
 
 Solutio 1  
 
-***Respondeo dicendum, ad primam quaestionem quod, sicut praedictum est, meritum secundum se est operatio ejus qui justitiam patitur, secundum quam facitBruges and Angers manuscripts read *faciat.* suum id quod sibi reddendum est. Non autem datur aliquid alicui qui habet illud eo modo quo habet, nec aliquis facit suum quod suum est eo modo quo suum est. Unde ad meritum, secundum quod theologi de ipso loquuntur in ordine ad ea quae sunt bona simpliciter, quatuor requiruntur quantum ad illudEd. read *id.* quod aliquis mereri dicitur. Primum est quod illud sit de pertinentibus ad beatitudinem. Secundum est quod illud sit non habitum quod per meritum acquiritur reddendum justitia mediante. Tertium est quod illud sit non debitum quod merendo quis sibi debitum facit. Quartum estEd. omit *est.* quod illud quod quis mereri dicitur, sequatur ad minus ordine naturae ad ipsum meritum; et ideo gratia quae est principium merendi et alia naturalia quae exiguntur ad meritum, sub merito non cadunt.***
+Respondeo dicendum, ad primam quaestionem quod, sicut praedictum est, meritum secundum se est operatio ejus qui justitiam patitur, secundum quam facitBruges and Angers manuscripts read *faciat.* suum id quod sibi reddendum est. Non autem datur aliquid alicui qui habet illud eo modo quo habet, nec aliquis facit suum quod suum est eo modo quo suum est. Unde ad meritum, secundum quod theologi de ipso loquuntur in ordine ad ea quae sunt bona simpliciter, quatuor requiruntur quantum ad illudEd. read *id.* quod aliquis mereri dicitur. Primum est quod illud sit de pertinentibus ad beatitudinem. Secundum est quod illud sit non habitum quod per meritum acquiritur reddendum justitia mediante. Tertium est quod illud sit non debitum quod merendo quis sibi debitum facit. Quartum estEd. omit *est.* quod illud quod quis mereri dicitur, sequatur ad minus ordine naturae ad ipsum meritum; et ideo gratia quae est principium merendi et alia naturalia quae exiguntur ad meritum, sub merito non cadunt.  
 
 Haec autem quatuor in Christi immortalitate inveniuntur. Quia est de his quae pertinent ad beatitudinem corporis. Item non fuit ab eo semper habitum, quia a principio mortale corpus assumpsit. Item non fuit sibi debitum ratione naturae, quamvis esset sibi debitum ratione personae. Item immortalitas non exigitur ad merendum. Et propter hoc immortalitatem meruit.  
 
@@ -268,7 +270,7 @@ Ad tertium dicendum quod Christus quamvis non haberet necessitatem moriendi ex p
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod anima dupliciter dicitur passibilis. Uno modo secundum justitiam divinam, sicut patitur in inferno ab igne corporali; et hic est communis animae et omni spiritui creato in suis tantum naturalibus considerato. Alio modo dicitur anima passibilis secundum naturam; et hoc vel per accidens ex passione corporis, sicutEd. read *ut.* supra dictum est quod laesio corporis ad animam pertingit quodammodo, inquantum est forma ejus; vel per operationem propriam; sive illa sit communis animae et corpori, sicut in delectationibus et tristitiis quae sunt secundum partem sensitivam; sive sit propria ipsiusEd. read *ipsi.* animae, sicut in delectationibus et tristitiis intellectivae partis. Quia autemBruges and Paris (842) manuscripts omit *autem.* anima estEd. read *Quia autem anima secundum suam naturam est.* secundum suam naturam forma corporis, formae autem est ut sit materiae proportionata; ideo in ipsa natura animae etiam sine corpore existentis, est ut sit nata pati ad passionem corporis, quamvis non patiatur actuThe Vivès edition omits *actu.* sine corpore quantum ad illas passiones quae naturaliter ei inesse possunt vel ex corpore vel cum corpore. Haec autem aptitudo non tollitur per id per quod natura per gratiam reformatur. Quamvis enim homo reformetur quantum ad actus personales per gratiam, tamen non reformatur quantum ad naturam nisi per gloriam quae omnes defectus naturae tollit: cujus signum est quod reformati per gratiam, in actu naturali defectum patiuntur, quia in originali peccato generant.***
+Ad secundam quaestionem dicendum quod anima dupliciter dicitur passibilis. Uno modo secundum justitiam divinam, sicut patitur in inferno ab igne corporali; et hic est communis animae et omni spiritui creato in suis tantum naturalibus considerato. Alio modo dicitur anima passibilis secundum naturam; et hoc vel per accidens ex passione corporis, sicutEd. read *ut.* supra dictum est quod laesio corporis ad animam pertingit quodammodo, inquantum est forma ejus; vel per operationem propriam; sive illa sit communis animae et corpori, sicut in delectationibus et tristitiis quae sunt secundum partem sensitivam; sive sit propria ipsiusEd. read *ipsi.* animae, sicut in delectationibus et tristitiis intellectivae partis. Quia autemBruges and Paris (842) manuscripts omit *autem.* anima estEd. read *Quia autem anima secundum suam naturam est.* secundum suam naturam forma corporis, formae autem est ut sit materiae proportionata; ideo in ipsa natura animae etiam sine corpore existentis, est ut sit nata pati ad passionem corporis, quamvis non patiatur actuThe Vivès edition omits *actu.* sine corpore quantum ad illas passiones quae naturaliter ei inesse possunt vel ex corpore vel cum corpore. Haec autem aptitudo non tollitur per id per quod natura per gratiam reformatur. Quamvis enim homo reformetur quantum ad actus personales per gratiam, tamen non reformatur quantum ad naturam nisi per gloriam quae omnes defectus naturae tollit: cujus signum est quod reformati per gratiam, in actu naturali defectum patiuntur, quia in originali peccato generant.  
 
 Unde oportet quod istam aptitudinem naturalem ab anima habitus gloriae tollat, per quem anima perficitur non solum in potentiis quantum ad actus personales, sed inquantum est natura quaedam; unde ex ipsa glorificata in corpus gloria transfunditur. Per habitum etiam gloriae excluditur et tristitia intellectivae partis, et iterum possibilitas peccandi, per quam est possibilitas ad passionem ex justitia divina. Unde constat quod impassibilitas animae ad gloriam pertinet; et quod Christus gloriam animae, inquantum est natura corporis, non habuit a principio suae conceptionis—quia corpus passibile fuit—quamvis haberet animam gloriosam quantum ad operationes quibus Deo fruebatur. Ideo sicut meruit immortalitatem corporis, ita etiam meruit impassibilitatem animae.  
 
@@ -280,7 +282,7 @@ Ad tertium dicendum quod impassibilitas animae pertinet ad beatitudinem animae, 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod, sicut dicit Philosophus in 1 *Eth.*, in felicitate aliquid invenitur essentiale ipsius, sicut virtutes quae faciunt operationem perfectam; aliquid autem quod facit ad bene esse felicitatis, sicut divitiae et amici et hujusmodi. Similiter dico quod aliqua sunt quae sunt de substantia beatitudinis, sicut dotes animae et corporis; aliquid autem quod est de bene esse ipsius, sicut manifestatio beatitudinis ad alios: in quo etiam gloria consistit, quia gloria est *clara cum laude notitia*: Glossa Rom. ult. 27; sicut etiam Philosophus dicit quod de bene esse ipsius felicitatis est ut felix etiam post mortem vivat in memoriis hominum.***
+Ad tertiam quaestionem dicendum quod, sicut dicit Philosophus in 1 *Eth.*, in felicitate aliquid invenitur essentiale ipsius, sicut virtutes quae faciunt operationem perfectam; aliquid autem quod facit ad bene esse felicitatis, sicut divitiae et amici et hujusmodi. Similiter dico quod aliqua sunt quae sunt de substantia beatitudinis, sicut dotes animae et corporis; aliquid autem quod est de bene esse ipsius, sicut manifestatio beatitudinis ad alios: in quo etiam gloria consistit, quia gloria est *clara cum laude notitia*: Glossa Rom. ult. 27; sicut etiam Philosophus dicit quod de bene esse ipsius felicitatis est ut felix etiam post mortem vivat in memoriis hominum.  
 
 Quia igiturEd. read *ergo.* in Christo debuit esse completissima beatitudo, ideo non solum in seipso beatificatus est, sed ad perfectionem beatitudinis suae etiam sua beatitudo aliis ostensa fuit. Et secundum hoc dicitur exaltationem meruisse: quae quidem exaltatio in tribus consistit; scilicet in notitia cordis, secundum quod dicitur *nomen super omne nomen* accepisse, quia nomen de re notitiam facit; item in reverentia corporis, quantum ad genuflexionem; item in confessione oris, et hoc est quod dicit Apostolus, Philip. 2:11: *et omnis lingua confiteatur, etc.*  
 
@@ -294,7 +296,7 @@ Ad quartum dicendum quod meritum non fit propter praemium, nisi ad quod ordinatu
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod gloria animae consistit in hoc quod anima ipsi Deo unitur per visionem et amorem. Et quia posterior unio praesupponit priorem, sicut hoc quod Deus est in sanctis per gratiam praesupponit hoc quod est in omnibus per essentiam, praesentiam et potentiam; ideo eadem ratione unio quae est in persona—quae est ultima et completissima—praesupponit omnem aliam unionem ad Deum. Unde ex hoc ipso quod anima Christi erat Deo in persona conjuncta, debebatur sibi fruitionis unio, et non per operationem aliquam estEd. omit *est.* ei facta debita. Et ideo, quia meritum consistit in operatione quae facit nobis aliquid debitum, Christus fruitionem non meruit. Secus autem est de gloria corporis, quiaThe Vivès edition adds *de.* gloria corporisPLE: *gloria corporis*. non consistit in unione ad Deum; unde sine ea corpus divinitati unitum esse potuit et fuit dispensative propter opus redemptionis implendum. Et propter hoc fruitionem in qua consistit gloria animae, Christus semper habuit et ipsam non meruit, sicut meruit gloriam corporis.***
+Ad quartam quaestionem dicendum quod gloria animae consistit in hoc quod anima ipsi Deo unitur per visionem et amorem. Et quia posterior unio praesupponit priorem, sicut hoc quod Deus est in sanctis per gratiam praesupponit hoc quod est in omnibus per essentiam, praesentiam et potentiam; ideo eadem ratione unio quae est in persona—quae est ultima et completissima—praesupponit omnem aliam unionem ad Deum. Unde ex hoc ipso quod anima Christi erat Deo in persona conjuncta, debebatur sibi fruitionis unio, et non per operationem aliquam estEd. omit *est.* ei facta debita. Et ideo, quia meritum consistit in operatione quae facit nobis aliquid debitum, Christus fruitionem non meruit. Secus autem est de gloria corporis, quiaThe Vivès edition adds *de.* gloria corporisPLE: *gloria corporis*. non consistit in unione ad Deum; unde sine ea corpus divinitati unitum esse potuit et fuit dispensative propter opus redemptionis implendum. Et propter hoc fruitionem in qua consistit gloria animae, Christus semper habuit et ipsam non meruit, sicut meruit gloriam corporis.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod hoc quod Christus sibi beatitudinem quae est in fruitione non meruit, non fuit ex insufficientia meriti, sed ex perfectione merentis.  
 
@@ -306,7 +308,7 @@ Articulus 5
 
 ***Utrum Christus meruerit sibi per Passionem***
 
-***Ad quintum sic proceditur. Videtur quod Christus per Passionem non meruerit sibi.***
+Ad quintum sic proceditur. Videtur quod Christus per Passionem non meruerit sibi.  
 
 Mereri enim est aliquid sibi debitum facere. Sed qui sibi semel aliquid debitum fecit, puta emendo, non ulterius emit illud. Ergo et qui mereturEd. read *meruit.* aliquid semel, ulterius non potest mereri illud. Sed Christus ab instanti conceptionis meruit sibi ea quae dicta sunt. Ergo per Passionem nihil sibi meruit.  
 
@@ -358,7 +360,7 @@ Praeterea, nullus pervenit ad gloriam sine merito. Sed pueri baptizati perveniun
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non meruit nobis januae apertionem. Quia Enoch et Elias ante Christi Incarnationem in paradisum introierunt. Ergo ante Christum janua erat aperta.***
+Ulterius, videtur quod non meruit nobis januae apertionem. Quia Enoch et Elias ante Christi Incarnationem in paradisum introierunt. Ergo ante Christum janua erat aperta.  
 
 Praeterea, quicumque paradisum meretur, meretur etiam apertionem januae paradisi. Sed antiqui patres meruerunt paradisum, cum haberent caritatem ita perfectam sicut et nos, et cum propter paradisum omnia operarentur. Ergo meruerunt apertionem januae paradisi.  
 
@@ -370,7 +372,7 @@ Praeterea, per peccatum Adae clausa est janua paradisi, ut patet Gen. 3:23–24.
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non tantum per Passionem apertionem januae nobis meruit. Caritas enim ejus in Passione non fuit major quam ante. Si ergo per Passionem meruit etEd. omit *et.* ante etiam meruit.***
+Ulterius, videtur quod non tantum per Passionem apertionem januae nobis meruit. Caritas enim ejus in Passione non fuit major quam ante. Si ergo per Passionem meruit etEd. omit *et.* ante etiam meruit.  
 
 Praeterea, in baptismo *caeli aperti sunt super eum*. Sed baptismus Passionem praecessit. Ergo ante Passionem caeli apertionem nobis meruit.  
 
@@ -382,7 +384,7 @@ Praeterea, clausio januae fuit decretum quod erat contrarium nobis. Sed hoc *tul
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod, sicut dicit Damascenus in 3 lib., caro Christi et anima erat quasi instrumentum Divinitatis.Ed. read *Deitatis.* Unde quamvis esset alia operatio Dei et hominis, tamen operatio humana habebat in se vim divinitatis sicut instrumentum agit viBruges and Angers manuscripts read *virtute.* principalis agentis. Et propter hoc dicit Damascenus quod *ea quae hominis sunt, supra hominem agebat*. Unde et actio Christi meritoria, quamvis esset actio humana, tamen agebat in virtute divina; et ideo erat potensThe Piana, Antwerp, Nicolaï, Venice, and Parma editions read *potestas ei.* supra totam naturam; quod non poterat esse de aliqua operatione puriBruges, Paris (841 and 842), and Angers manuscripts read *pura.* hominis quia homo singularis est minus dignus quam natura communis; quia divinius est bonum gentis quam bonum unius hominis; et quia omnes homines sunt unus homo in natura communi, ut dicit Porphyrius. Inde est quod meritum Christi, quod ad naturam se extendebat, etiam ad singulos se extendere poterat. Et ita aliis mereri potuit.***
+Respondeo dicendum ad primam quaestionem quod, sicut dicit Damascenus in 3 lib., caro Christi et anima erat quasi instrumentum Divinitatis.Ed. read *Deitatis.* Unde quamvis esset alia operatio Dei et hominis, tamen operatio humana habebat in se vim divinitatis sicut instrumentum agit viBruges and Angers manuscripts read *virtute.* principalis agentis. Et propter hoc dicit Damascenus quod *ea quae hominis sunt, supra hominem agebat*. Unde et actio Christi meritoria, quamvis esset actio humana, tamen agebat in virtute divina; et ideo erat potensThe Piana, Antwerp, Nicolaï, Venice, and Parma editions read *potestas ei.* supra totam naturam; quod non poterat esse de aliqua operatione puriBruges, Paris (841 and 842), and Angers manuscripts read *pura.* hominis quia homo singularis est minus dignus quam natura communis; quia divinius est bonum gentis quam bonum unius hominis; et quia omnes homines sunt unus homo in natura communi, ut dicit Porphyrius. Inde est quod meritum Christi, quod ad naturam se extendebat, etiam ad singulos se extendere poterat. Et ita aliis mereri potuit.  
 
 Ad primum igiturBruges manuscript and the other editions read *ergo.* dicendum quod Christum mereri pro alio dicitur dupliciter. Aut ita quod ipse mereatur loco alterius, idest quod pertinet ad aliudThe Nicolaï, Venice, and Parma editions read *ad alium*; the Vivès edition omits *ut.* ut mereatur; et sic Christus pro aliis non meruit, quia meritum oportet quod procedat ex voluntate merentis, ut objectio procedebat. Aut ita quod ipse aliquid alteri mereatur quod sub merito illiusAngers manuscript reads *ipsius.* non cadit; et sic Christus aliis meruit ea quae ipsi sibi mereri non potuerunt.  
 
@@ -392,7 +394,7 @@ Ad tertium dicendum quod Christus *ea quae sunt hominis supra hominem agebat*, u
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod sicut clausio januae est obstaculum prohibens ab ingressu domus; ita per similitudinem dicitur janua paradisi clausa, inquantum est aliquod obstaculum prohibens ab introitu paradisi. Obstaculum autem potest esse duplex: unum ex parte personae, quod est per peccatum actuale; aliud ex parte naturae, quod est per peccatum originale. Primum quidem obstaculum non est commune omnibus, sed tantum peccatoribus; sed secundum obstaculum est omnibus commune. Et hoc quidem obstaculum auferri non potuit nisi per eum cujus operatioThe Piana and Antwerp editions read *apertio.* in totam naturam potuit, scilicet Christum. Et ideoThe Vivès edition omits *ideo.* ipse nobis quantum ad hoc apertionem januae meruit, quae per peccatum primi hominis toti vitiatae naturae clausa erat.***
+Ad secundam quaestionem dicendum quod sicut clausio januae est obstaculum prohibens ab ingressu domus; ita per similitudinem dicitur janua paradisi clausa, inquantum est aliquod obstaculum prohibens ab introitu paradisi. Obstaculum autem potest esse duplex: unum ex parte personae, quod est per peccatum actuale; aliud ex parte naturae, quod est per peccatum originale. Primum quidem obstaculum non est commune omnibus, sed tantum peccatoribus; sed secundum obstaculum est omnibus commune. Et hoc quidem obstaculum auferri non potuit nisi per eum cujus operatioThe Piana and Antwerp editions read *apertio.* in totam naturam potuit, scilicet Christum. Et ideoThe Vivès edition omits *ideo.* ipse nobis quantum ad hoc apertionem januae meruit, quae per peccatum primi hominis toti vitiatae naturae clausa erat.  
 
 Ad primum igiturBruges manuscript and the other editions read *ergo.* dicendum quod est duplex paradisus, scilicet terrestris et caelestis quae est ipsa beataEd. omit *beata*; Bruges manuscript reads *visio Dei beata* against the Brussels and Angers manuscripts. visio Dei. Per peccatumEd. add *primi.* hominis autem clausa fuit janua paradisi terrestris in signum quod humanae naturae claudebatur ostium paradisi caelestis. Enoch igiturParis (841) and Angers manuscripts read *enim*; the other editions read *ergo.* et Elias, quamvis paradisum terrestrem ante Passionem ingressi sint, non tamen paradisum caelestem, de cujus janua hic loquimur.The Vivès edition reads *loquitur.*  
 
@@ -402,7 +404,7 @@ Ad tertium dicendum quod quamvis remotum sit impedimentum quod ex parte naturae 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod obstaculum quod januam paradisi claudebat, ut dictum est, fuit peccatum totam naturam inficiens. Et ideoThe Vivès edition omits ideo. quia peccatum per satisfactionem tollitur, necEd. read *neque.* satisfactio potuit congrue aliter fieri, ut infra dicetur, nisi per Passionem Christi; ideo per Passionem ipsius tantum aperta est nobis janua et non per aliaBruges manuscript reads *aliqua.* quae prius operatus est. Tamen per aliaBruges manuscript reads *aliqua.* quae prius operatus est meruit nobis conversionem ad ipsum, inquantum meruit se nobis manifestari, per quam nos proficimus et non ipse.***
+Ad tertiam quaestionem dicendum quod obstaculum quod januam paradisi claudebat, ut dictum est, fuit peccatum totam naturam inficiens. Et ideoThe Vivès edition omits ideo. quia peccatum per satisfactionem tollitur, necEd. read *neque.* satisfactio potuit congrue aliter fieri, ut infra dicetur, nisi per Passionem Christi; ideo per Passionem ipsius tantum aperta est nobis janua et non per aliaBruges manuscript reads *aliqua.* quae prius operatus est. Tamen per aliaBruges manuscript reads *aliqua.* quae prius operatus est meruit nobis conversionem ad ipsum, inquantum meruit se nobis manifestari, per quam nos proficimus et non ipse.  
 
 Ad primum igiturBrussels and Paris (842) manuscripts read *ergo.* dicendum quod meritum satisfactionis non consistit tantum in caritate, sed requirit Passionem Christi, ut infra dicetur. Per satisfactionem autem oportebat nobis januam aperiri.  
 
@@ -412,7 +414,7 @@ Ad tertium dicendum quod Ascensio non aperuit januam quantum ad id quod est esse
 
 Expositio textus  
 
-****Ut amota ignea rhomphaea...* quae quidem posita in paradiso terrestri significabat impedimentum quod prohibebat ingressum paradisi caelestis.***
+*Ut amota ignea rhomphaea...* quae quidem posita in paradiso terrestri significabat impedimentum quod prohibebat ingressum paradisi caelestis.  
 
 *Sed vel mox post carnis etc*. Hoc probabilius est; quia etiam aliae animae sanctorum quae nihil purgabile habent, mox post separationem a corpore impassibiles fiunt.  
 

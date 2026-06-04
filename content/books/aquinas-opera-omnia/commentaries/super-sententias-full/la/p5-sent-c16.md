@@ -1,6 +1,8 @@
 # D. 15 - Defects assumed with human nature of Christ
 
-****Illud quoque praetermittendum non est etc.* Postquam determinavit Magister de his quae Christus cum natura humana assumpsit ad dignitatem pertinentia, hic determinat de his assumptis quae pertinent ad defectum ipsius.Ed. omit *ipsius*. Et dividitur in duas partes.***
+***Divisio textus***
+
+*Illud quoque praetermittendum non est etc.* Postquam determinavit Magister de his quae Christus cum natura humana assumpsit ad dignitatem pertinentia, hic determinat de his assumptis quae pertinent ad defectum ipsius.Ed. omit *ipsius*. Et dividitur in duas partes.  
 
 Primo determinat de defectibus quos Christus cum natura humana assumpsit.  
 
@@ -84,7 +86,7 @@ Articulus 1
 
 ***Utrum Christus naturam humanam cum defectibus et infirmitatibus accipere debuit***
 
-***Ad primum sic proceditur. Videtur quod Christus naturam humanam cum infirmitatibus hujusmodi defectuum suscipere non debuit.***
+Ad primum sic proceditur. Videtur quod Christus naturam humanam cum infirmitatibus hujusmodi defectuum suscipere non debuit.  
 
 Christus enim per suam Incarnationem votis antiquorum patrum satisfecit. SedEd. omit Sed. Isaiae 51:9, dicitur ad exprimendum desiderium patrum sanctorum: *consurge, consurge; induere fortitudinem brachium Domini*. Ergo non debuit venire indutus infirmitate carnis.  
 
@@ -122,7 +124,7 @@ Articulus 2
 
 ***Utrum omnes defectus praeter peccatum accipere debuit***
 
-***Ad secundum sic proceditur. Videtur quod Christus debuit omnes defectus praeter peccatum assumere.***
+Ad secundum sic proceditur. Videtur quod Christus debuit omnes defectus praeter peccatum assumere.  
 
 Heb. 2:17, dicitur quod *debuit per omnia fratribus assimilari ut misericors fieret*. Sed misericordia respicit omnem miseriam. Ergo debuit omnes defectus nostros assumere.  
 
@@ -190,7 +192,7 @@ Quaestio 2
 
 ***De passionibus quas assumpsit ex parte animae***
 
-***Deinde quaeritur de passionibus quas assumpsit ex parte animae. Et circa hoc quaeruntur tria.***
+Deinde quaeritur de passionibus quas assumpsit ex parte animae. Et circa hoc quaeruntur tria.  
 
 Primo, si anima Christi fuerit passibilis, et cujus proprie sit pati.  
 
@@ -218,7 +220,7 @@ Praeterea, sicut dicitur in 1 *De generatione: omne agens est contrarium patient
 
 Quaestiuncula 2  
 
-***Ulterius, quaeritur utrum anima sit passibilis. Et videtur quod non. Sicut enimThe Vivès edition reads *etiam*. formae est agere, ita materiae est pati. Sed anima non est composita ex materia, ut in 1 lib., d. 8, dictum est. Ergo non potest pati. Si dicatur quod patitur per accidens ad passionem corporis.***
+Ulterius, quaeritur utrum anima sit passibilis. Et videtur quod non. Sicut enimThe Vivès edition reads *etiam*. formae est agere, ita materiae est pati. Sed anima non est composita ex materia, ut in 1 lib., d. 8, dictum est. Ergo non potest pati. Si dicatur quod patitur per accidens ad passionem corporis.  
 
 *Contra*. Passionis terminus est corruptio. Sed anima non corrumpitur corrupto corpore. Ergo etiam non patitur corpore patiente.  
 
@@ -228,7 +230,7 @@ Sed contra, ad motum totius, per accidens movetur pars. Sed anima est pars totiu
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod anima Christi non possit pati. Quia nihil est dignius quam anima Christi. Sed agens est dignius patiente, secundum Augustinum 12 *Super Genes*. Ergo anima Christi non fuit passibilis.***
+Ulterius, videtur quod anima Christi non possit pati. Quia nihil est dignius quam anima Christi. Sed agens est dignius patiente, secundum Augustinum 12 *Super Genes*. Ergo anima Christi non fuit passibilis.  
 
 Praeterea, virtus animam quietam reddit a passionum tumultibus. Et quanto virtus est perfectior, tanto passiones minus dominantur in animam. Sed in Christo fuit perfectissima virtus. Ergo nullo modo fuit in anima ejus passio.  
 
@@ -242,7 +244,7 @@ Praeterea, Christus magis venit curare defectus animae in nobis quam defectus co
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod cum dicatEd. read *dicit*. Damascenus quod *passio est motus ab uno in aliud,* non quilibet motus est passio, sed solum alteratio, proprie loquendo, ut dicit Philosophus in 1 *De generat.*, quia in hoc solo motu aliquid a re abjicitur et aliquid imprimitur, quod est de ratione passionis. Motus enim localis est secundum id quod est extra rem, quod est locus; motus autemBruges and Paris (841 and 842) read *enim*. augmenti,Ed. add *est*. secundum hoc quod ex eo quod jam est, scilicet nutrimento, producitur in majorem quantitatem augmentatum. Ad hoc autem quod sit alteratio, requiritur ex parte alterati quod sit res per se subsistens, aliter enim subjectum motus esse non posset; et quod sit corpus, quia solum tale movetur, ut in 6 *Phys*.,*V.—-VI* PLE. probatur; et ulterius quod habeat naturam contrarietati subjectam, quia alteratio est motus inter contrarias qualitates. Ex parte vero terminorum alterationis requiritur quod una qualitate expulsa alia introducatur: sic enim de qualitate in qualitatem transitur.***
+Respondeo dicendum ad primam quaestionem quod cum dicatEd. read *dicit*. Damascenus quod *passio est motus ab uno in aliud,* non quilibet motus est passio, sed solum alteratio, proprie loquendo, ut dicit Philosophus in 1 *De generat.*, quia in hoc solo motu aliquid a re abjicitur et aliquid imprimitur, quod est de ratione passionis. Motus enim localis est secundum id quod est extra rem, quod est locus; motus autemBruges and Paris (841 and 842) read *enim*. augmenti,Ed. add *est*. secundum hoc quod ex eo quod jam est, scilicet nutrimento, producitur in majorem quantitatem augmentatum. Ad hoc autem quod sit alteratio, requiritur ex parte alterati quod sit res per se subsistens, aliter enim subjectum motus esse non posset; et quod sit corpus, quia solum tale movetur, ut in 6 *Phys*.,*V.—-VI* PLE. probatur; et ulterius quod habeat naturam contrarietati subjectam, quia alteratio est motus inter contrarias qualitates. Ex parte vero terminorum alterationis requiritur quod una qualitate expulsa alia introducatur: sic enim de qualitate in qualitatem transitur.  
 
 Sed ulterius ad rationem passionis requiritur quod qualitas introducta sit extranea, et qualitas abjecta sit connaturalis. Quod contingit ex hoc quod passio importat quamdam victoriam agentis super patiens. Omne autem quod vincitur, quasi trahitur extra terminos proprios ad terminos alienos. Et ideo alterationes quae contingunt praeter naturam alterati, magis proprie passiones dicuntur, sicut aegrotationes quam sanationes, sicut patet per Damascenum in 2 lib.,Bruges, Brussels and Paris (841 and 842) manuscripts as well as the Piana, Antwerp, Nicolaï, and Venice editions read *3 lib.* et per Philosophum, inEd. omit *in*. 5 *Meta*. Unde patet quod illorum tantum corporum est proprie pati quae possunt extra naturam suam trahi; et haec sunt corruptibilia.  
 
@@ -254,7 +256,7 @@ Ad tertium dicendum quod Deus qui est superior omni substantia creata, influit r
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod ex dictis de facili potest patere qualiter in anima possit esse passio. Quia cum anima sit quid incorporeum, sibi proprie non accidit pati, nisi secundum quod corpori applicatur. Applicatur autem corpori et secundum essentiam suam, secundum quod est forma corporea, et secundum operationem suarum potentiarum, prout est motor ejus. Secundum autem quod applicatur corpori ut forma, sic non consideratur ut quid subsistens, sed ut adveniens alteri. Unde sic non patitur per se, sed per accidens, sicut aliae formae moventur motis subjectis compositis. In viribus autem animae quantum ad operationem applicantur corpori solum vires partis sensitivae et partisEd. omit *partis*. nutritivae. Sed quia operatio virium nutritivae partis est in movere, nonBruges and Paris (841 and 842) manuscripts add *enim*. in moveri; ideo secundum eas anima non patitur, sed magis agit.***
+Ad secundam quaestionem dicendum quod ex dictis de facili potest patere qualiter in anima possit esse passio. Quia cum anima sit quid incorporeum, sibi proprie non accidit pati, nisi secundum quod corpori applicatur. Applicatur autem corpori et secundum essentiam suam, secundum quod est forma corporea, et secundum operationem suarum potentiarum, prout est motor ejus. Secundum autem quod applicatur corpori ut forma, sic non consideratur ut quid subsistens, sed ut adveniens alteri. Unde sic non patitur per se, sed per accidens, sicut aliae formae moventur motis subjectis compositis. In viribus autem animae quantum ad operationem applicantur corpori solum vires partis sensitivae et partisEd. omit *partis*. nutritivae. Sed quia operatio virium nutritivae partis est in movere, nonBruges and Paris (841 and 842) manuscripts add *enim*. in moveri; ideo secundum eas anima non patitur, sed magis agit.  
 
 Relinquitur ergo quod pati proprie sit animae secundum partem sensitivam, ut dicitur in 7 *Phys.* Sed quia hujusmodi vires non sunt subsistentes, sed formae organorum corporalium, ideo non dicuntur pati per se, nequeParis (841 and 842) manuscripts read *in*; the other editions read *nec*. anima secundum eas, sed per accidens, inquantum compositum patitur, ut diciturBrussels manuscript reads *dicit*. in 1 *De anima*. Sed quia potentiae apprehensivae sensitivae sunt tantum in recipiendo speciem—quae quidem non recipitur in sensu per modum rei, sed per modum intentionis,—ideo in operatione harum virium est quidem aliquo modo pati, quantum ad hoc quod sunt vires materiales et quantum ad hoc quod aliquid recipitur. Et propter hoc dicitur in 2 *De anima*, quod sentire est pati quoddam. Sed quia sensus non movetur a sensibili secundum conditionem moventis, cum forma sensibilis non recipiatur inBruges manuscript reads *a*. sensu secundum esse materiale prout est in sensibili, sed secundum esse spirituale, quod est proprium sensui—unde non habet contrarietatem ad sensum, sed est perfectio ejus, nisi secundum quod excedit proportionem sensusBruges manuscript adds *et*. —ideo non proprie dicitur pati secundum has vires,Ed. omit *secundum has vires.* nisi secundum quod excellentia sensibilium corrumpit sensum, aut debilitat.  
 
@@ -274,7 +276,7 @@ Ad tertium dicendum quod anima dicitur esse in loco per accidens, inquantum est 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod anima Christi media fuit inter Divinitatem et carnem. Et quia beatitudo ineratBruges manuscript reads *erat*. illi animae ex Divinitate, corpus autem ejus erat passibile; ideo passibilitas inerat illi animae ex parte illa qua conjungibilis erat corpori, beatitudo autem ex parte illa qua Divinitati conjungebatur. Conjungebatur autem corpori dupliciter: scilicet secundum essentiam, inquantum est forma; et secundum potentias, non tamen omnes, sed quasdam. Unde anima Christi secundum essentiam tota patiebatur ex corporis laesi passione; sed quantum ad potentias patiebatur quidem passionesEd. read *passione*. imperfectionis, secundum operationes virium affixarum organis. Secundum alias vero vires quibus anima in Deum convertebatur, qualiter pateretur dicetur infra 3 articulo.***
+Ad tertiam quaestionem dicendum quod anima Christi media fuit inter Divinitatem et carnem. Et quia beatitudo ineratBruges manuscript reads *erat*. illi animae ex Divinitate, corpus autem ejus erat passibile; ideo passibilitas inerat illi animae ex parte illa qua conjungibilis erat corpori, beatitudo autem ex parte illa qua Divinitati conjungebatur. Conjungebatur autem corpori dupliciter: scilicet secundum essentiam, inquantum est forma; et secundum potentias, non tamen omnes, sed quasdam. Unde anima Christi secundum essentiam tota patiebatur ex corporis laesi passione; sed quantum ad potentias patiebatur quidem passionesEd. read *passione*. imperfectionis, secundum operationes virium affixarum organis. Secundum alias vero vires quibus anima in Deum convertebatur, qualiter pateretur dicetur infra 3 articulo.  
 
 Ad primum ergo dicendum quod quamvis anima Christi nihil sit dignius, non tamen impedit quin per accidens pati possit alio patiente.  
 
@@ -308,7 +310,7 @@ Praeterea, fletus est signum tristitiae. Sed Christus flevit: Joan. 11:35. Ergo 
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod in Christo non fuerit ira. Ira enim vitium est. Sed in Christo nullum fuit vitium, sed summa mansuetudo; Mat. 11:29: *discite a me, quia mitis sum et humilis corde*. Ergo in Christo non fuit ira.***
+Ulterius, videtur quod in Christo non fuerit ira. Ira enim vitium est. Sed in Christo nullum fuit vitium, sed summa mansuetudo; Mat. 11:29: *discite a me, quia mitis sum et humilis corde*. Ergo in Christo non fuit ira.  
 
 Praeterea, sicut dicit Gregorius: *ira per vitium excaecat oculum mentis, ira per zelum turbat*. Sed in Christo oculus mentis nonEd. read *neque*. fuit excaecatus neque perturbatus. Ergo in Christo non fuit ira.  
 
@@ -320,7 +322,7 @@ Praeterea, nulla virtus defuit Christo, nec aliqua virtutis perfectio. Sed de pe
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod in Christo non fuerit timor. Timor enim maxime fortitudini opponitur. Sed in Christo fuit perfectissima fortitudo. Ergo in ipsoBruges and Paris (841 and 842) manuscripts read *Christo*; the Brussels manuscript reads *eo*. non fuit aliquis timor.***
+Ulterius, videtur quod in Christo non fuerit timor. Timor enim maxime fortitudini opponitur. Sed in Christo fuit perfectissima fortitudo. Ergo in ipsoBruges and Paris (841 and 842) manuscripts read *Christo*; the Brussels manuscript reads *eo*. non fuit aliquis timor.  
 
 Praeterea, Augustinus dicit in lib. 83 *Quaestionum*, quod signum perfectionis est absque timore esse. Sed Christus fuit perfectissimus. Ergo in eo non fuit passio timoris.  
 
@@ -334,7 +336,7 @@ Praeterea, ejusdem est dolor et timor. Sed in Christo fuit verus dolor. Ergo et 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod hic quaeritur de tristitia secundum quod est passio animalis in parte sensitiva. Et ideo dicendum quod quia Christus voluntarie assumpsit nostram naturam, ut per eam nos redimeret, ideo talem assumpsit qualem oportuit esse ad finem redemptionis nostrae.***
+Respondeo dicendum ad primam quaestionem quod hic quaeritur de tristitia secundum quod est passio animalis in parte sensitiva. Et ideo dicendum quod quia Christus voluntarie assumpsit nostram naturam, ut per eam nos redimeret, ideo talem assumpsit qualem oportuit esse ad finem redemptionis nostrae.  
 
 Unde quamvis in aliisBruges manuscript reads *viris*; the Brussels manuscript reads *substantiis*. beatis per quamdam redundantiam exBruges and Paris (841 and 842) manuscripts read *in*. glorificatione superiorum virium glorificentur etiam inferiores et ex gloria animae descendat gloria corporis, tamen in Christo non fuit sic; quia gloria ejus quae inerat ei secundum fruitionem Dei, non impediebat passibilitatem animae ejus, secundum quod erat pars humanae naturae. Et similiter laetitia quae inerat in superiori parteBruges manuscript reads *inerat superiori parti*. per fruitionem, non redundabat in inferiores. Et ideo cum accidebat aliquid contrarium delectationi inferiorum partium, erat de eo tristitia. Sed tamen aliter in ipso et in nobis. Quia in nobis inferiores vires non sunt perfecte subjectae rationi; et ideo quandoque praeter ordinem rationis insurgunt in nobis passiones tristitiae, quas quidem virtus refrenat in virtuosis, sed in aliis etiam rationi praevalent. Sed in Christo nunquam surgebat motus tristitiae nisi secundum dictamen superioris rationis quando scilicet dictabat ratio quod sensualitas tristaretur secundum convenientiam naturae suae; et ideo in eo neque,Ed. read *neque*. fuit tristitia rationem pervertens, nequeEd. read *nec*. fuit necessaria, sed voluntaria quodammodo.  
 
@@ -346,7 +348,7 @@ Ad tertium dicendum quod omnis tristitia, ut dicitur in 7Bruges, Brussels, Paris
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod ira tripliciter dicitur. Quandoque enim ira ponitur pro habitu vel actu vitii, quod opponitur mansuetudini, quod in 4 *Eth*., "irascibilitas" dicitur: quod contingit ex hoc quod virtus, ut in 2 *Eth.,* dicitur, quandoque magis opponitur uni extremorum, sicut mansuetudo superfluitati irae magis quam diminutioni; et ideo oppositum vitium nominatur ira. Et sic ira in Christo non fuit. Alio modo dicitur ira voluntas vindicandi aliquod malefactum. Et sic ira non est passio, proprie loquendo, nec est inBruges and Paris (841 and 842) manuscripts add *vi*. irascibili, sed in voluntate. Et sic ira est in Deo et beatis et fuit in Christo. Tertio modo dicitur proprie ira quaedam passio vis irascibilis, quae contingit ex hoc quod appetitus sensibilisEd. read *vis irascibilis*. tendit ad destructionem alicujus quod apprehenditur contrarium volito velBruges manuscript reads *et*. desiderato; et si quidem sit ex ordine rationis insurgens vel ordinata ratione, sic dicitur ira per zelum, et sic fuit in Christo; si autem sit inordinata, sic erit ira per vitium quae in Christo nullo modo fuit.***
+Ad secundam quaestionem dicendum quod ira tripliciter dicitur. Quandoque enim ira ponitur pro habitu vel actu vitii, quod opponitur mansuetudini, quod in 4 *Eth*., "irascibilitas" dicitur: quod contingit ex hoc quod virtus, ut in 2 *Eth.,* dicitur, quandoque magis opponitur uni extremorum, sicut mansuetudo superfluitati irae magis quam diminutioni; et ideo oppositum vitium nominatur ira. Et sic ira in Christo non fuit. Alio modo dicitur ira voluntas vindicandi aliquod malefactum. Et sic ira non est passio, proprie loquendo, nec est inBruges and Paris (841 and 842) manuscripts add *vi*. irascibili, sed in voluntate. Et sic ira est in Deo et beatis et fuit in Christo. Tertio modo dicitur proprie ira quaedam passio vis irascibilis, quae contingit ex hoc quod appetitus sensibilisEd. read *vis irascibilis*. tendit ad destructionem alicujus quod apprehenditur contrarium volito velBruges manuscript reads *et*. desiderato; et si quidem sit ex ordine rationis insurgens vel ordinata ratione, sic dicitur ira per zelum, et sic fuit in Christo; si autem sit inordinata, sic erit ira per vitium quae in Christo nullo modo fuit.  
 
 Ad primum igiturEd. read *ergo*. dicendum quod ratio illa procedit de ira secundum primum modum dicendi, sic enim opponitur mansuetudini; secundum autem quod est passio, non opponitur, sed est materia ejus circa quam, quia etiam mitis irascitur quando oportet.  
 
@@ -356,7 +358,7 @@ Ad tertium dicendum quod ira inordinata sistitEd. read *consistit*. in vindicta;
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod timor etiam multipliciter dicitur. Uno modo nominat habitum vel doni vel vitii quod opponitur fortitudini, et dicitur *timiditas* in 3 *Eth*. Et sic habitus doni fuit in Christo, non autem habitus vitii. Alio modo sumitur pro actu vel doni vel vitii; et sic similiter dicendum ut prius. Alio modo dicitur quaedam passio in viEd. omit *vi*. irascibili,PLE: *vi irascibili*. quae consurgit ex hoc quod appetitus sensitivus refugit aliquod nocivum apprehensum. Et sic loquimur hic de timore. Unde dicendum quod hoc modo timor fuit in Christo per eumdem modum sicut et de tristitia et ira dictum est, inquantum scilicet ex dictamine rationis et DivinitatisEd. read *Deitatis*. adjunctae, appetitus sensibilis refugiebat ea quae sibi erantEd. read *sunt*. contraria.***
+Ad tertiam quaestionem dicendum quod timor etiam multipliciter dicitur. Uno modo nominat habitum vel doni vel vitii quod opponitur fortitudini, et dicitur *timiditas* in 3 *Eth*. Et sic habitus doni fuit in Christo, non autem habitus vitii. Alio modo sumitur pro actu vel doni vel vitii; et sic similiter dicendum ut prius. Alio modo dicitur quaedam passio in viEd. omit *vi*. irascibili,PLE: *vi irascibili*. quae consurgit ex hoc quod appetitus sensitivus refugit aliquod nocivum apprehensum. Et sic loquimur hic de timore. Unde dicendum quod hoc modo timor fuit in Christo per eumdem modum sicut et de tristitia et ira dictum est, inquantum scilicet ex dictamine rationis et DivinitatisEd. read *Deitatis*. adjunctae, appetitus sensibilis refugiebat ea quae sibi erantEd. read *sunt*. contraria.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo*. dicendum quod ratio illa procedit de timore secundum quod est vitium, quia passio timoris est materia circa quam est fortitudo.  
 
@@ -370,7 +372,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod in Christo non fuerit verus dolor in sensu.***
+Ad tertium sic proceditur. Videtur quod in Christo non fuerit verus dolor in sensu.  
 
 Quantumcumque enim est vis resistens laesivo, tantum dolor diminuitur ex laesione proveniens. Sed in Christo fuit infinita vis ad resistendum laesivo, scilicet virtus Divinitatis. Ergo in eo dolor esse non poterat.  
 
@@ -384,7 +386,7 @@ Praeterea, ad veritatem doloris non requiritur nisi laesio et sensus laesionis.T
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod dolor usque ad superiorem rationem non pervenerit. Judicare enim de dolore non est pati dolorem. Sed in sanctis est tantum judicium de doloribus secundum rationem, ut patet per Dionysium in *Epistola ad Joannem Evangelistam*. Ergo cum Christus in sanctitate perfectus fuerit, ipse secundum superiorem partem rationis non habuit dolorem.***
+Ulterius, videtur quod dolor usque ad superiorem rationem non pervenerit. Judicare enim de dolore non est pati dolorem. Sed in sanctis est tantum judicium de doloribus secundum rationem, ut patet per Dionysium in *Epistola ad Joannem Evangelistam*. Ergo cum Christus in sanctitate perfectus fuerit, ipse secundum superiorem partem rationis non habuit dolorem.  
 
 Praeterea, secundum Philosophum, intellectus nullius partis corporis est actus. Sed dolor Passionis non est in anima nisi ex conjunctione ad corpus. Ergo in parte intellectiva non fuit dolor Passionis.  
 
@@ -402,7 +404,7 @@ Praeterea, in Ps.: *repleta est malis anima mea*, dicit Glossa exponens de Chris
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod dolor Christi non fuerit major omnibus doloribus. Quia quanto poena est acerbior et diuturnior, tanto poena ex dolore resultans est major. Sed aliqui sancti diuturniorem et acerbiorem poenam perpessi sunt, sicut patet deBruges and Paris (841 and 842) manuscripts add *beato*. Laurentio et Vincentio. Ergo Christi dolor non fuit maximus.***
+Ulterius, videtur quod dolor Christi non fuerit major omnibus doloribus. Quia quanto poena est acerbior et diuturnior, tanto poena ex dolore resultans est major. Sed aliqui sancti diuturniorem et acerbiorem poenam perpessi sunt, sicut patet deBruges and Paris (841 and 842) manuscripts add *beato*. Laurentio et Vincentio. Ergo Christi dolor non fuit maximus.  
 
 Praeterea, in aliis sanctis dolor passionisEd. omit *passionis*. mitigabatur ex divina contemplatione et amore, sicut de Stephano cantatur: *lapides torrentis illi dulces fuerunt*. Sed in Christo fuit maxima caritas et perfecta Dei contemplatio. Ergo dolor ejus maxime mitigabatur; et ita fuit minimus.  
 
@@ -424,7 +426,7 @@ Praeterea, virtuosi hominis est suam vitam diligere. Unde et peccatores seipsos 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod sicut delectatio sensibilis causatur ex conjunctione convenientis secundum sensum; ita dolor sensibilis causatur ex conjunctione ejus quod est non conveniens sensui. Sed interEd. add *omnes*. alios sensus solus tactus est discretivus eorum ex quibus consistit temperamentum corporis. Unde quod est conveniens secundum tactum, est conveniens ipsi temperamento sola perceptione tactus. Et similiter illud quod est inconveniens tactui, est contrarium temperamento corporis. Et ideo Philosophus dicit in 3 *De anima*, quod corrumpentia tactum corrumpunt animal, non autem corrumpentia auditum, nisi simul contingat ex accidenti et tactum corrumpi. Et ideo in solo tactu est dolor qui accidit ex laesione temperamenti ipsius corporis.***
+Respondeo dicendum ad primam quaestionem quod sicut delectatio sensibilis causatur ex conjunctione convenientis secundum sensum; ita dolor sensibilis causatur ex conjunctione ejus quod est non conveniens sensui. Sed interEd. add *omnes*. alios sensus solus tactus est discretivus eorum ex quibus consistit temperamentum corporis. Unde quod est conveniens secundum tactum, est conveniens ipsi temperamento sola perceptione tactus. Et similiter illud quod est inconveniens tactui, est contrarium temperamento corporis. Et ideo Philosophus dicit in 3 *De anima*, quod corrumpentia tactum corrumpunt animal, non autem corrumpentia auditum, nisi simul contingat ex accidenti et tactum corrumpi. Et ideo in solo tactu est dolor qui accidit ex laesione temperamenti ipsius corporis.  
 
 Unde cum in corpore Christi fuerit vera laesio—quia fuit divisio continui per clavos—et fuerit ibi verus tactus, de necessitate oportet dicere quod fueritBruges manuscript reads *fuit*. ibi verus dolor. Qualiter autem exponenda sint verba Hilarii, in fine dicetur.  
 
@@ -436,7 +438,7 @@ Ad tertium dicendum quod non potest esse tanta vis contemplationis quod dolorem 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod in dolore et tristitia duo inveniuntur: scilicet contrarietas contristantis et dolorem inferentis ad contristatum et dolentem,Paris (841 and 842) manuscripts and the Antwerp edition read *dolorem*. et perceptio ejus; et quantum ad haec duo tripliciter differunt. Primo quantum ad contrarietatem: quae quidem in dolore attenditur quantum ad ipsam naturam dolentis quae per laesivum corrumpitur; sed in tristitia quantum ad repugnantiam appetitus ad aliquid quod quis odit. Secundo quantum ad perceptionem: quae quidem in dolore semper est secundum sensum tactus, ut dictum est; in tristitia autem secundum apprehensionem interiorem. Tertio, quantum ad ordinem istorum duorum, quia dolor incipit in laesione et terminatur in perceptione sensus, ibi enim completur ratio doloris; sed ratio tristitiae incipit in apprehensione et terminatur in affectione. Unde dolor est in sensu sicut in subjecto, sed tristitia in appetitu. Ex quo patet quod tristitia est passio animalis, sed dolor est magis passio corporalis.***
+Ad secundam quaestionem dicendum quod in dolore et tristitia duo inveniuntur: scilicet contrarietas contristantis et dolorem inferentis ad contristatum et dolentem,Paris (841 and 842) manuscripts and the Antwerp edition read *dolorem*. et perceptio ejus; et quantum ad haec duo tripliciter differunt. Primo quantum ad contrarietatem: quae quidem in dolore attenditur quantum ad ipsam naturam dolentis quae per laesivum corrumpitur; sed in tristitia quantum ad repugnantiam appetitus ad aliquid quod quis odit. Secundo quantum ad perceptionem: quae quidem in dolore semper est secundum sensum tactus, ut dictum est; in tristitia autem secundum apprehensionem interiorem. Tertio, quantum ad ordinem istorum duorum, quia dolor incipit in laesione et terminatur in perceptione sensus, ibi enim completur ratio doloris; sed ratio tristitiae incipit in apprehensione et terminatur in affectione. Unde dolor est in sensu sicut in subjecto, sed tristitia in appetitu. Ex quo patet quod tristitia est passio animalis, sed dolor est magis passio corporalis.  
 
 Quandoque tamen tristitia, large loquendo, dolor dicitur. UndeBrussels manuscript adds *et*. Augustinus, distinguit dolorem animae secundum se qui proprie dicitur tristitia, et dolorem animae per corpus qui proprie dicitur dolor.  
 
@@ -468,7 +470,7 @@ Tristitia autem quae erat in anima Christi, nullo modo gaudio fruitionis contrar
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod magnitudo doloris sensibilis Christi potest ex tribus considerari.***
+Ad tertiam quaestionem dicendum quod magnitudo doloris sensibilis Christi potest ex tribus considerari.  
 
 Primo ex ipsa natura passionis; et sic habuit magnam acerbitatem: tum ex complexione patientis quae erat temperatissima; unde habebat optimum tactum et per consequens erat in eo vehemens sensus laesionis—bonitas enim tactus attestatur etiamBruges and Paris (841 and 842) manuscripts read *et*. bonitati complexionis et bonitati mentis, ut dicitur in 2 *De anima;*—tum etiam ex genere poenae, quia in locis maxime sensibilibus fuit laesus, scilicet in manibus et pedibus; tum etiam ex multitudine passionum, quia per totum corpus laesionem sustinuit.  
 
@@ -492,7 +494,7 @@ Ad septimum dicendum sicut ad quintum.
 
 Expositio textus  
 
-****Non sentit corpus, sed anima*. Contra.Bruges and Paris (841 and 842) manuscripts read *Sed contra*. Sentire est conjuncti, secundum Philosophum. Ergo neque corporis neque animae, sed hominis.PLE: *hominis*. The Piana, Antwerp, Venice and Parma editions read *omnis*; the Nicolaï edition reads *communis*.***
+*Non sentit corpus, sed anima*. Contra.Bruges and Paris (841 and 842) manuscripts read *Sed contra*. Sentire est conjuncti, secundum Philosophum. Ergo neque corporis neque animae, sed hominis.PLE: *hominis*. The Piana, Antwerp, Venice and Parma editions read *omnis*; the Nicolaï edition reads *communis*.  
 
 EtEd. omit *Et*. dicendum quod eorum quae sunt conjuncti, quaedam insunt toti ratione animae, sicutEd. read *ut*. sentire et hujusmodi; et haec attribuuntur animae eo modo loquendi quo dicitur calor calefacit,Ed. read *calefacere*. quia est principium calefaciendi; quaedam autem insunt toti ratione corporis, ut dormire et hujusmodi; et haec attribuuntur corpori et non animae.  
 

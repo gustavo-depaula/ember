@@ -1,6 +1,8 @@
 # Prologue
 
-****Spiritus ejus ornavit caelos, et obstetricante manu ejus, eductus est coluber tortuosus*.***
+***Job 26:13***
+
+*Spiritus ejus ornavit caelos, et obstetricante manu ejus, eductus est coluber tortuosus*.  
 
 > Creaturarum consideratio pertinet ad theologos et ad philosophos, sed diversimode. Philosophi enim creaturas considerant, secundum quod in propria natura consistunt: unde proprias causas et passiones rerum inquirunt; sed theologus considerat creaturas, secundum quod a primo principio exierunt, et in finem ultimum ordinantur qui Deus est: unde recte divina sapientia nominatur, quia altissimam causam considerat, quae Deus est. Unde dicitur Eccli. 42:17: *nonne Deus*The Vulgate (Vulg.) reads *Dominus*. *fecit sanctos* suos *enarrare omnia mirabilia sua?*
 

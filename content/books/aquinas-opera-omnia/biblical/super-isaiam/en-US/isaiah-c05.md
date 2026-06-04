@@ -1,6 +1,8 @@
 # Chapter 3
 
-***^3:1 ^For behold the sovereign Lord of hosts shall take away from Jerusalem, and from Judah the valiant and the strong, the whole strength of bread, and the whole strength of water.***
+***Lecture 1***
+
+^3:1 ^For behold the sovereign Lord of hosts shall take away from Jerusalem, and from Judah the valiant and the strong, the whole strength of bread, and the whole strength of water.  
 
 > ^3:2^ The strong man, and the man of war, the judge, and the prophet and the diviner,*Ariolum*. DR: “cunning man.” and the ancient.
 
@@ -126,7 +128,7 @@ In excuse, he brings forward three things, namely, his impotence to repel harmfu
 
 Lecture 2  
 
-***^3:8^ For Jerusalem is ruined, and Judah is fallen: because their tongue, and their devices are against the Lord, to provoke the eyes of his majesty.***
+^3:8^ For Jerusalem is ruined, and Judah is fallen: because their tongue, and their devices are against the Lord, to provoke the eyes of his majesty.  
 
 > ^3:9^ The show of their countenance has answered them: and they have proclaimed abroad their sin as Sodom, and they have not hid it: woe to their souls, for evils have been rendered*Reddita sunt*. DR: “are rendered.” to them.
 
@@ -214,7 +216,7 @@ Third, that which he seeks: in the delight of the Lord: *his fruit was sweet to 
 
 Lecture 3  
 
-***^3:16 ^And the Lord said: because the daughters of Zion are haughty, and have walked with stretched out necks, and wanton glances of their eyes, and made a noise as they walked with their feet and moved in a set pace:***
+^3:16 ^And the Lord said: because the daughters of Zion are haughty, and have walked with stretched out necks, and wanton glances of their eyes, and made a noise as they walked with their feet and moved in a set pace:  
 
 > ^3:17 ^the Lord will make bald the crown of the head of the daughters of Zion, and the Lord will discover their hair.
 

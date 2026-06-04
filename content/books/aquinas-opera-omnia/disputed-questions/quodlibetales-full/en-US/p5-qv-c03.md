@@ -1,5 +1,7 @@
 # On Men
 
+***On things which can be common to all***
+
 ***On things pertaining to the nature of man***
 
 ***Question 5***
@@ -34,7 +36,7 @@ Article 1
 
 ***Regarding persons***
 
-***To the first we proceed thus. It seems that, if Adam had not sinned, not the same men would have been saved who now are saved.***
+To the first we proceed thus. It seems that, if Adam had not sinned, not the same men would have been saved who now are saved.  
 
 Obj. 1: For if Adam had not sinned, only the elect would have been born. Therefore, those sinners would not have been born who are reprobated in the end, and consequently neither their sons, because, if there are not the same parents, the consequence is that neither are there the same sons. Yet many now are saved even born from reprobate parents. Therefore, if Adam had not sinned, not the same men would have been saved who now are saved.  
 
@@ -58,7 +60,7 @@ Article 2
 
 ***Regarding the intellect***
 
-***To the second we proceed thus. It seems that a word of the heartCf. Augustine, *Sermon 288*, para. 3 (PL 38:1305); Aristotle, *On the Soul* 2.8, 420b22–29. is an intelligible species.***
+To the second we proceed thus. It seems that a word of the heartCf. Augustine, *Sermon 288*, para. 3 (PL 38:1305); Aristotle, *On the Soul* 2.8, 420b22–29. is an intelligible species.  
 
 Obj. 1: For a word of the heart is that by which the intellect sees. Yet this is an intelligible species. Therefore, a word of the heart is an intelligible species.  
 
@@ -78,7 +80,7 @@ Article 3
 
 ***Regarding the will***
 
-***To the third we proceed thus. It seems that those things done out of fear are not voluntary.***
+To the third we proceed thus. It seems that those things done out of fear are not voluntary.  
 
 Obj. 1: For necessity is contrary to will, as is said in the fifth book of the *Metaphysics*.Aristotle, *Metaphysics* 5.5, 1015a26–30. But those things done out of fear are said to be done out of necessity. Therefore, they are not voluntary.  
 
@@ -114,7 +116,7 @@ Article 1
 
 ***Whether the form of bread is annihilated***
 
-***To the first we proceed thus. It seems that the form of bread in the sacrament of the Eucharist is annihilated.***
+To the first we proceed thus. It seems that the form of bread in the sacrament of the Eucharist is annihilated.  
 
 Obj. 1: For that seems to be annihilated which ceases to be and is converted into nothing. But the form of bread, with consecration having been made, ceases to be, nor is there anything to which the converted bread can belong. For it is not converted into the matter of the body of Christ, nor even into its form, which is the soul; otherwise, the soul would be there out of the power of the sacrament. Therefore, the form of bread is annihilated.  
 
@@ -130,9 +132,9 @@ Reply Obj. 2: It must be said that human nature would be said to perish if it we
 
 Article 2  
 
-***Whether a priest should give an unconsecrated host to a secret sinner if he attempts to receive***
+Whether a priest should give an unconsecrated host to a secret sinner if he attempts to receive  
 
-***To the second we proceed thus. It seems that a priest should not give an unconsecrated host to a secret sinner who attempts to receive.***
+To the second we proceed thus. It seems that a priest should not give an unconsecrated host to a secret sinner who attempts to receive.  
 
 Obj. 1: For the priest should not publicize secret sin. Yet he would publicize it if he were to give him an unconsecrated host, since to his other comrades he would give a consecrated one. Therefore, a priest should not give an unconsecrated host to secret sinner who seeks to receive.  
 
@@ -164,9 +166,9 @@ second, whether a man who dies on the way while going beyond the sea dies in a b
 
 Article 1  
 
-***Whether a prelate should remove his subject from ministry on account of something he heard from him in confession***
+Whether a prelate should remove his subject from ministry on account of something he heard from him in confession  
 
-***To the first we proceed thus. It seems that a prelate can remove his subject from ministry on account of something he heard from him in confession.***
+To the first we proceed thus. It seems that a prelate can remove his subject from ministry on account of something he heard from him in confession.  
 
 Obj. 1: Because that which is instituted *for charity* does not militate *against charity*.Bernard of Clairvaux, *On Dispensation and Precept*, ch. 2, para. 5, 3:257 (see also PL 182:863–64); William of Auxerre, *Summa aurea*, bk. 3, tract. 50, ch. 2, q. 1, 973. But the seal of confession is instituted for charity. Therefore, it does not militate against charity, from which a prelate is held to provide for the salvation of his subjects. Yet sometimes it is against the salvation of a subject if the ministry is dismissed from him, as, for example, if he would have an occasion of falling back into sin. Therefore, with the seal of confession notwithstanding, a prelate should remove him from ministry.  
 
@@ -184,9 +186,9 @@ Reply Obj. 1: And through this the response to the objections is clear.
 
 Article 2  
 
-***Whether a man who dies on the way while going beyond the sea dies in a better state than a man who dies while returning***
+Whether a man who dies on the way while going beyond the sea dies in a better state than a man who dies while returning  
 
-***To the second we proceed thus. It seems that a man signed with the cross who dies on the way while going beyond the sea dies better than a man who dies while returning.***
+To the second we proceed thus. It seems that a man signed with the cross who dies on the way while going beyond the sea dies better than a man who dies while returning.  
 
 Obj. 1: For he who dies while going is as though pursuing his vow to expose himself to death for Christ, and thus he dies as though a martyr. Yet he who dies while returning does not die in the intention of exposing himself for Christ, and thus he dies as though a confessor. But the state of martyrs is greater than that of confessors. Therefore, he who dies while going dies in a better state than he who dies while returning.  
 
@@ -208,9 +210,9 @@ second, if a man accuses his wife of a secret adultery, whether the woman is hel
 
 Article 1  
 
-***If someone betroths a woman through words of the future and knows her carnally, not as consenting unto matrimony, if afterwards he contracts with another woman through words of the present, whether the second is his wife***
+If someone betroths a woman through words of the future and knows her carnally, not as consenting unto matrimony, if afterwards he contracts with another woman through words of the present, whether the second is his wife  
 
-***To the first we proceed thus. It seems that a man who has known a woman carnally whom he betrothed through words of the future cannot have another woman as wife with whom afterwards he contracts through words of the present.***
+To the first we proceed thus. It seems that a man who has known a woman carnally whom he betrothed through words of the future cannot have another woman as wife with whom afterwards he contracts through words of the present.  
 
 Obj. 1: For the judgment of the Church is compelled to stand with the first whom he knew carnally.Cf. *Liber extravagantium decretalium* (*Decretales Gregorii IX*), bk. 4, tit. 1, c. 30, 2:672. But the Church can make persons illegitimate unto contracting. Therefore, it seems that such a man cannot contract matrimony with another woman. And thus, the woman with whom he contracted second through words of the present will not be his wife.  
 
@@ -230,9 +232,9 @@ In a third way the Church conducts herself in the manner of one establishing, wh
 
 Article 2  
 
-***If a man accuses his wife of a secret adultery, whether the woman is held to confess her sin in judgment***
+If a man accuses his wife of a secret adultery, whether the woman is held to confess her sin in judgment  
 
-***To the second we proceed thus. It seems that a woman accused of adultery is not held to confess her sin in judgment.***
+To the second we proceed thus. It seems that a woman accused of adultery is not held to confess her sin in judgment.  
 
 Obj. 1: For no one is held to publicize one’s secret sin. But the adultery of the woman is posited to be secret, yet if she were to confess it in judgment, it would come into the public. Therefore, the woman accused of adultery is not held to confess her sin in judgment.  
 
@@ -258,7 +260,7 @@ Article 1
 
 ***About justice***
 
-***To the first we proceed thus. It seems that a man who has received money on loan to redeem himself from thieves is not held to restore it.***
+To the first we proceed thus. It seems that a man who has received money on loan to redeem himself from thieves is not held to restore it.  
 
 Obj. 1: Because, as Augustine says, *in time of necessity all things are common*.This adage is commonly cited by Aquinas but has not been found in Augustine. Cf. *In III Sent*. 30.1.2, ad 1. But no one ought to demand as though *proper* that *which is common*, as Ambrose says, and is had in the *Decretum* (D. 47).Gratian, *Decretum*, P. 1, d. 47, c. 8, 1:172; Gratian incorrectly attributes these words to Ambrose, but they are actually Basil’s (PG 31:1752, 276). Since, therefore, that man who fell in amongst thieves was constituted in greatest necessity, namely, in danger of death, it seems that there is made common to him that which was another’s, and thus he is not held to restore to him who loaned, as if it were his property.  
 
@@ -276,7 +278,7 @@ Article 2
 
 ***About abstinence***
 
-***To the second we proceed thus. It seems that a man cannot sin by fasting or by keeping vigil too much.***
+To the second we proceed thus. It seems that a man cannot sin by fasting or by keeping vigil too much.  
 
 Obj. 1: For God cannot be loved by man too much. But *the proof of love is the presentation of work*, as Gregory says in a certain homily.Gregory the Great, *On the Gospels*, bk. 2, homily 30, para. 1, on John 14:23–31 (PL 76:1220). Therefore, it seems that someone cannot sin by fasting or by keeping vigil too much on account of God.  
 
@@ -306,7 +308,7 @@ Article 1
 
 ***Whether the precepts precede the counsels in the order of nature***
 
-***To the first we proceed thus. It seems that the precepts precede the counsels in the order of nature.***
+To the first we proceed thus. It seems that the precepts precede the counsels in the order of nature.  
 
 Obj. 1: For that to which nature first urges is prior in the order of nature. But the precepts concern the first instinct of nature because they concern a dictum of natural reason, yet not the counsels. Therefore, the precepts are prior in the order of nature to the counsels.  
 
@@ -336,9 +338,9 @@ Reply Obj. 1: And through this the response to the objections is clear.
 
 Article 2  
 
-***Whether sins which are done against the precepts of the second tablet are graver than sins which are done against the precepts of the first tablet***
+Whether sins which are done against the precepts of the second tablet are graver than sins which are done against the precepts of the first tablet  
 
-***To the second we proceed thus. It seems that sins which are against the precepts of the second tablet are graver than sins which are against the precepts of the first tablet.***
+To the second we proceed thus. It seems that sins which are against the precepts of the second tablet are graver than sins which are against the precepts of the first tablet.  
 
 Obj. 1: For, with the immutable good spurned, it is a sin against the precepts of the second tablet to adhere to a mutable good, just as is clear in theft and adultery and other things of this sort. But contempt of the immutable good is sin against the precepts of the first tablet, by which we are ordered to give reverence to God. Therefore, sins which are against the precepts of the second tablet include sins which are against the precepts of the first tablet, and which add something. Therefore, they are graver.  
 
@@ -358,7 +360,7 @@ Regarding things pertaining to certain states of men
 
 ***Regarding prelates***
 
-***Then there were questions concerning what pertains especially to certain states of men:***
+Then there were questions concerning what pertains especially to certain states of men:  
 
 and first, concerning what pertains to prelates;Q. 11.  
 
@@ -378,9 +380,9 @@ third, whether a prelate who gives an ecclesiastical benefice to some relative o
 
 Article 1  
 
-***Whether blessed Matthew was called at once from the customs post to the state of the apostolate and of perfection***
+Whether blessed Matthew was called at once from the customs post to the state of the apostolate and of perfection  
 
-***To the first we proceed thus. It seems blessed Matthew was not called at once from the customs post to the state of the apostolate and of perfection.***
+To the first we proceed thus. It seems blessed Matthew was not called at once from the customs post to the state of the apostolate and of perfection.  
 
 Obj. 1: For Gregory says in his commentary on Ezekiel: *no one is made highest at once*.Gregory the Great, *Homilies on Ezekiel the Prophet*, bk. 2, homily 3, para. 3 (CCSL 142:238; PL 76:959); cf. *Morals on the Book of Job* 22.19, para. 45 (CCSL 143A:1125; PL 76:240); John Peckham, “On Child Oblates,” *Archivum Franciscanum historicum* 8 (1915): arg. 23, ad 23, 418, 437. But the state of the apostolate and of evangelical perfection is the highest state of human life. Therefore, Matthew was not called at once to the state of perfection and of the apostolate.  
 
@@ -404,9 +406,9 @@ In another way, the highest can be understood according to the comparison of gra
 
 Article 2  
 
-***Whether a man elected canonically to the episcopacy does better by consenting to his election or by refusing it***
+Whether a man elected canonically to the episcopacy does better by consenting to his election or by refusing it  
 
-***To the second we proceed thus. It seems that one does better who consents to his canonical election than one who refuses it.***
+To the second we proceed thus. It seems that one does better who consents to his canonical election than one who refuses it.  
 
 Obj. 1: For Gregory says in the twenty-second book of *Morals on the Book of Job*: *power when it is secured not out of lust, must be loved*.Rather, the twenty-fourth book: Gregory the Great, *Morals on the Book of Job* 24.25, para. 55 (CCSL 143B:1229; PL 76:320). But when someone through canonical election obtains the episcopal dignity, he does not secure it out of lust. Therefore, he should love it. Therefore, he should not refuse it.  
 
@@ -424,9 +426,9 @@ Reply Obj. 2: It must be said that the intention of those fleeing the prelacy is
 
 Article 3  
 
-***Whether a prelate who gives an ecclesiastical benefice to some relative of his, hoping through this that his family will be exalted and enriched, commits simony***
+Whether a prelate who gives an ecclesiastical benefice to some relative of his, hoping through this that his family will be exalted and enriched, commits simony  
 
-***To the third we proceed thus. It seems that a prelate who gives an ecclesiastical benefice to some relative or friend of his, in order that other relatives of his might be exalted, commits simony.***
+To the third we proceed thus. It seems that a prelate who gives an ecclesiastical benefice to some relative or friend of his, in order that other relatives of his might be exalted, commits simony.  
 
 Obj. 1: For simony is *an intentional will of buying or selling something spiritual or annexed to the spiritual*.Cf. William of Auxerre, *Summa aurea*, bk. 3, tract. 49, ch. 1, 938. But in the aforesaid case there seems to be the buying or selling of a spiritual thing because there can be buying and selling in these things in which there is liberality,Cf. Aquinas, *In IV Sent*. 25.3.3, resp. yet here he hopes to be recompensed liberally. Therefore, there is simony here.  
 
@@ -448,9 +450,9 @@ second, if by the teaching of some teacher, some men are called back from a bett
 
 Article 1  
 
-***If a teacher always preached or taught principally out of vainglory, whether he should have a halo if he repents at death***
+If a teacher always preached or taught principally out of vainglory, whether he should have a halo if he repents at death  
 
-***To the first we proceed thus. It seems that a man who always taught out of vainglory would regain a halo through penance.***
+To the first we proceed thus. It seems that a man who always taught out of vainglory would regain a halo through penance.  
 
 Obj. 1: For the halo of doctrine is due to fruit, namely, to the conversion of the faithful, according to Philippians 4:1: *my joy and my crown*. But it could be that from the preaching of someone who preached principally from vainglory there followed the fruit of the conversion of the faithful. Therefore, if he repents, a halo is due to him.  
 
@@ -466,9 +468,9 @@ Reply Obj. 2: It must be said that the halo of virginity is due to the integrity
 
 Article 2  
 
-***Whether, if by the teaching of some teacher some men are called back from a better good, that teacher is held to revoke that teaching***
+Whether, if by the teaching of some teacher some men are called back from a better good, that teacher is held to revoke that teaching  
 
-***To the second we proceed thus. It seems that, if through someone’s teaching some men are drawn back from a better good, that man is held to revoke his teaching.***
+To the second we proceed thus. It seems that, if through someone’s teaching some men are drawn back from a better good, that man is held to revoke his teaching.  
 
 Obj. 1: For in his teaching such a teacher causes active scandal, because the teacher informs the intellect, and the intellect informs the affection and consequently the act. But everyone is held to remove active scandal. Therefore, such a teacher is held to revoke his teaching.  
 
@@ -506,7 +508,7 @@ Article 1
 
 ***Whether religious are held to tolerate patiently injuries done to them***
 
-***To the first we proceed thus. It seems that religious should not tolerate their attackers.***
+To the first we proceed thus. It seems that religious should not tolerate their attackers.  
 
 Obj. 1: For in the attacking of perfect men God is attacked, hence the Lord said to Saul persecuting the disciples of Christ: *Saul, Saul, why do you persecute me?* (Acts 9:4). But perfect men should not tolerate the attackers of God. Therefore, neither should they tolerate attacks upon themselves.  
 
@@ -524,9 +526,9 @@ Reply Obj. 1–2: And through this the response to the objections is clear.
 
 Article 2  
 
-***Whether a man who swears an oath to not enter religion can enter religion licitly***
+Whether a man who swears an oath to not enter religion can enter religion licitly  
 
-***To the second we proceed thus. It seems that a man who has sworn to not enter religion cannot enter licitly.***
+To the second we proceed thus. It seems that a man who has sworn to not enter religion cannot enter licitly.  
 
 Obj. 1: For every licit obligation must be fulfilled. But it was licit for that man not to enter religion. Therefore, since he has obligated himself to this by oath, it seems that he is held not to enter.  
 
@@ -542,9 +544,9 @@ Question 14
 
 ***Article 1***
 
-***Whether it is licit for a cleric who is held unto the canonical hours to say Matins of the following day in the evening***
+Whether it is licit for a cleric who is held unto the canonical hours to say Matins of the following day in the evening  
 
-***Then about clerics there was asked one thing, namely, whether it is licit for a cleric who is held unto the canonical hours to say Matins of the following day in the evening. And it seems that it is not.***
+Then about clerics there was asked one thing, namely, whether it is licit for a cleric who is held unto the canonical hours to say Matins of the following day in the evening. And it seems that it is not.  
 
 Obj. 1: For it is said in Sirach 20:7: *the lascivious and imprudent man shall not* observe *the time*. But that man in saying Matins does not observe the time: for since the day begins at midnight, it seems that he says Matins of the following day on the day preceding. Therefore, this seems to pertain to the lascivious and imprudent man and thus seems to be sin.  
 

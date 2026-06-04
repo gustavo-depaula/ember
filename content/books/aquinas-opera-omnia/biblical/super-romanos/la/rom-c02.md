@@ -1,10 +1,12 @@
 # C. 1 - Salutation and Introduction
 
+***Salutatio, Introductio Themae***
+
 ***Lectio 1***
 
 ***Paulus apostolus***
 
-***^1:1^ Paulus, servus Jesu Christi, vocatus apostolus, segregatus in Evangelium Dei, [n. 15]***
+^1:1^ Paulus, servus Jesu Christi, vocatus apostolus, segregatus in Evangelium Dei, [n. 15]  
 
 > **15**. Haec epistola in duas partes dividitur scilicet: in salutationem et epistolarem tractatum, qui incipit ibi ***primum quidem***, etc.
 
@@ -194,7 +196,7 @@ Lectio 3
 
 ***Virtus Christi***
 
-***^1:4^ qui praedestinatus est Filius Dei in virtute secundum Spiritum sanctificationis ex resurrectione mortuorum Jesu Christi Domini nostri: [n. 42]***
+^1:4^ qui praedestinatus est Filius Dei in virtute secundum Spiritum sanctificationis ex resurrectione mortuorum Jesu Christi Domini nostri: [n. 42]  
 
 > **42**. Commendata origine Christi, hic commendat virtutem ipsius et ponit tria:
 
@@ -306,7 +308,7 @@ Lectio 4
 
 ***Liberalitas Christi***
 
-***^1:5^ per quem accepimus gratiam, et apostolatum ad obediendum fidei in omnibus gentibus pro nomine ejus, [n. 60]***
+^1:5^ per quem accepimus gratiam, et apostolatum ad obediendum fidei in omnibus gentibus pro nomine ejus, [n. 60]  
 
 > ^1:6^ in quibus estis et vos vocati Jesu Christi: [n. 65]
 
@@ -378,7 +380,7 @@ Lectio 5
 
 ***Oratio actionis gratiarum***
 
-***^1:8^ Primum quidem gratias ago Deo meo per Jesum Christum pro omnibus vobis: quia fides vestra annuntiatur in universo mundo. [n. 74]***
+^1:8^ Primum quidem gratias ago Deo meo per Jesum Christum pro omnibus vobis: quia fides vestra annuntiatur in universo mundo. [n. 74]  
 
 > ^1:9^ Testis enim mihi est Deus, cui servio in spiritu meo in Evangelio Filii ejus, quod sine intermissione memoriam vestri facio [n. 78]
 
@@ -544,7 +546,7 @@ Lectio 6
 
 ***Ira Dei super impietatem hominum***
 
-***^1:16^ Non enim erubesco Evangelium. Virtus enim Dei est in salutem omni credenti, Judaeo primum, et Graeco. [n. 97]***
+^1:16^ Non enim erubesco Evangelium. Virtus enim Dei est in salutem omni credenti, Judaeo primum, et Graeco. [n. 97]  
 
 > ^1:17^ Justitia enim Dei in eo revelatur ex fide in fidem: sicut scriptum est: *Justus autem ex fide vivit*. [n. 102]
 
@@ -738,7 +740,7 @@ Lectio 7
 
 ***Impietas et iniustia Gentium***
 
-***^1:20^ Invisibilia enim ipsius, a creatura mundi, per ea quae facta sunt, intellecta, conspiciuntur: sempiterna quoque ejus virtus, et divinitas: ita ut sint inexcusabiles. [n. 123]***
+^1:20^ Invisibilia enim ipsius, a creatura mundi, per ea quae facta sunt, intellecta, conspiciuntur: sempiterna quoque ejus virtus, et divinitas: ita ut sint inexcusabiles. [n. 123]  
 
 > ^1:21^ Quia cum cognovissent Deum, non sicut Deum glorificaverunt, aut gratias egerunt: sed evanuerunt in cogitationibus suis, et obscuratum est insipiens cor eorum: [n. 126]
 
@@ -888,7 +890,7 @@ Lectio 8
 
 ***Poenae Gentium***
 
-***^1:26^ Propterea tradidit illos Deus in passiones ignominiae: nam feminae eorum immutaverunt naturalem usum in eum usum qui est contra naturam. [n. 146]***
+^1:26^ Propterea tradidit illos Deus in passiones ignominiae: nam feminae eorum immutaverunt naturalem usum in eum usum qui est contra naturam. [n. 146]  
 
 > ^1:27^ Similiter autem et masculi, relicto naturali usu feminae, exarserunt in desideriis suis in invicem, masculi in masculos turpitudinem operantes, et mercedem, quam oportuit, erroris sui in semetipsis recipientes. [n. 150]
 

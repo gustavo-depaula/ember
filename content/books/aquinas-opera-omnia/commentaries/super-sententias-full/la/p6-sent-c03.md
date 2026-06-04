@@ -1,6 +1,8 @@
 # D. 25 - Articles of faith
 
-***Postquam Magister determinavit de fide quantum ad suam essentiam, quae per definitionem cognoscitur, et de objecto fidei; hic determinat de ipsa per comparationem ad habentem ratione quantitatis, secundum quam crescit in habente fidem. Dividitur autem haec pars in duas:***
+***Divisio textus***
+
+Postquam Magister determinavit de fide quantum ad suam essentiam, quae per definitionem cognoscitur, et de objecto fidei; hic determinat de ipsa per comparationem ad habentem ratione quantitatis, secundum quam crescit in habente fidem. Dividitur autem haec pars in duas:  
 
 in prima determinat de fide prout comparatur ad credentes secundum quantitatem quam habet ex numero credibilium;  
 
@@ -52,7 +54,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur, et poniturThe edited versions read *exponitur*. definitio Richardi de Sancto Victore, quae talis est: *articulus est indivisibilis veritas de Deo, arctans nos ad credendum*. Videtur autem quod sitThe Bruges manuscript reads *esse*. incompetens.***
+Ad primum sic proceditur, et poniturThe edited versions read *exponitur*. definitio Richardi de Sancto Victore, quae talis est: *articulus est indivisibilis veritas de Deo, arctans nos ad credendum*. Videtur autem quod sitThe Bruges manuscript reads *esse*. incompetens.  
 
 Quia indivisibilis veritas est veritas incomplexi. Sed fides est de complexi, ut supra dictum est. Ergo articulus fidei non est indivisibilis veritas.  
 
@@ -66,7 +68,7 @@ Item, objicitur de definitione Hugonis de sancto VictoreThe place does not occur
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod articulus possit dici formatus et informis. Objectum enim proportionatur habitui. Sed fideiThe Vivès edition reads *fides*. objectum est articulus. Cum ergo fides sit formata et informis, videtur quod etiam articulus.The edited versions read *articuli*.***
+Ulterius. Videtur quod articulus possit dici formatus et informis. Objectum enim proportionatur habitui. Sed fideiThe Vivès edition reads *fides*. objectum est articulus. Cum ergo fides sit formata et informis, videtur quod etiam articulus.The edited versions read *articuli*.  
 
 Praeterea, tendere in Deum est actus fidei formatae. Sed articuli est tendere in Deum, ut patet per alteram definitionum assignatarum. Ergo articulus potest esse informis, et formatus.  
 
@@ -78,7 +80,7 @@ Praeterea, mutare articulos non est in potestate hominis. Sed informitas est in 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod articuli non debuerunt colligi in symbolo. Quia tota fides sufficienter per Sacram Scripturam instruitur. Ergo superfluum fuit symbolosThe Parma edition reads *symbolum*. condere.***
+Ulterius. Videtur quod articuli non debuerunt colligi in symbolo. Quia tota fides sufficienter per Sacram Scripturam instruitur. Ergo superfluum fuit symbolosThe Parma edition reads *symbolum*. condere.  
 
 Praeterea, symbolum proponitur ut regula fidei, cujus actus est assentire. Sed, sicut dicit Augustinus in *Epistola 19 ad Hieronymum*, solis apostolis et prophetis est hic honor exhibendus, ut quaecumque dixerunt, haec ipsa vera esse credantur. Ergo post symbolum apostolorum non debuerunt alia symbola fieri.  
 
@@ -88,7 +90,7 @@ Praeterea, quaeritur, quare symbolum apostolorum dicitur submisse in prima et co
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem,The Vivès edition adds *ad*. quod articulus nomen Graecum est; et importat indivisionem; unde membra quae non dividuntur in alia membra, dicuntur articuli: et secundum istum modum conclusiones quae inquiruntur in aliqua scientia vel inThe edited versions omit *in*. aliquo tractatu, dicuntur articuli: quia ex eis, sicut ex quibusdam principiis indivisibilibus, consurgit collectio quae tractatum perficit: et sic in judiciis ea quae per testes probata sunt vel probanda, dicuntur articuli. Fides autem non inquirit sed supponit ea quae sunt fidei ex testimonioThe edited versions read *testimoniis*. Dei ea dicentis: unde illud quod habet specialem difficultatem in fide, et cujus suppositio non dependet ab alio supposito, proprie dicitur articulus fidei. Et ideo in definitione praedicta Richardus secutus est etiamThe edited versions read *et*. proprietatem nominis, dicens, quod *est indivisibilis veritas*, et etymologiam, secundum quod sonat in lingua Latina, dicens quod *arctat nos ad credendum*.***
+Respondeo dicendum ad primam quaestionem,The Vivès edition adds *ad*. quod articulus nomen Graecum est; et importat indivisionem; unde membra quae non dividuntur in alia membra, dicuntur articuli: et secundum istum modum conclusiones quae inquiruntur in aliqua scientia vel inThe edited versions omit *in*. aliquo tractatu, dicuntur articuli: quia ex eis, sicut ex quibusdam principiis indivisibilibus, consurgit collectio quae tractatum perficit: et sic in judiciis ea quae per testes probata sunt vel probanda, dicuntur articuli. Fides autem non inquirit sed supponit ea quae sunt fidei ex testimonioThe edited versions read *testimoniis*. Dei ea dicentis: unde illud quod habet specialem difficultatem in fide, et cujus suppositio non dependet ab alio supposito, proprie dicitur articulus fidei. Et ideo in definitione praedicta Richardus secutus est etiamThe edited versions read *et*. proprietatem nominis, dicens, quod *est indivisibilis veritas*, et etymologiam, secundum quod sonat in lingua Latina, dicens quod *arctat nos ad credendum*.  
 
 Ad primum ergo dicendum, quod in incomplexis, per se loquendo, non est veritas nisi aequivoce: unde indivisibile intelligendum est non simpliciter, sed in genere complexorum.  
 
@@ -102,7 +104,7 @@ Ad quintum dicendum, quod Hugo non intendit definire articulum, sed ostendere qu
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod articulus nominat id quod credendum est quasi objectum fidei. Diversa autem dispositio operantis nihil variat in objecto operationis; nec objectum denominatur ex dispositione operantis, sed magis e converso; sicut color non denominatur ex diversa dispositione videntis, secundum quod quidam habent lippos oculos, et quidam claros: unde cum formatio fidei et informitas ad dispositionem credentis pertineant, nec etiam secundum id quod est proprium intellectus in quo est fides, sed secundum relationem ejus ad voluntatem, in qua est caritas, non potest proprie dici, quod articulus sit formatus velThe Bruges manuscript reads *et*. informis.***
+Ad secundam quaestionem dicendum, quod articulus nominat id quod credendum est quasi objectum fidei. Diversa autem dispositio operantis nihil variat in objecto operationis; nec objectum denominatur ex dispositione operantis, sed magis e converso; sicut color non denominatur ex diversa dispositione videntis, secundum quod quidam habent lippos oculos, et quidam claros: unde cum formatio fidei et informitas ad dispositionem credentis pertineant, nec etiam secundum id quod est proprium intellectus in quo est fides, sed secundum relationem ejus ad voluntatem, in qua est caritas, non potest proprie dici, quod articulus sit formatus velThe Bruges manuscript reads *et*. informis.  
 
 Ad primum ergo dicendum, quod objectum proportionatur habitui in his quae ad naturam habitus pertinent, non in his quae accidunt ex dispositione habentis habitum.  
 
@@ -112,7 +114,7 @@ Et similiter dicendum ad tertium.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod nomen symboli similitudinem et collectionem importat; unde a quatuor collectionibus nomen symboli imponitur. Primo a collectione multorum hominum in unam fidem. Secundo a collectione praedicantium fidem: quia omnes apostoli collecti hanc regulam fidei ediderunt, unusquisque quod suum estThe Bruges manuscript reads *erat*. apponens. Tertio, quia ex diversis locis Sacrae Scripturae colliguntur ea quae credenda sunt, ut in promptu habeantur. Quarto omnia beneficia nobisThe edited versions omit *nobis*. divinitus collata ibi colliguntur; unde Dionysius, dicit, quod religionis symbolum congruentius potest appellari hierarchia eucharistica, quasi bona gratia.***
+Ad tertiam quaestionem dicendum, quod nomen symboli similitudinem et collectionem importat; unde a quatuor collectionibus nomen symboli imponitur. Primo a collectione multorum hominum in unam fidem. Secundo a collectione praedicantium fidem: quia omnes apostoli collecti hanc regulam fidei ediderunt, unusquisque quod suum estThe Bruges manuscript reads *erat*. apponens. Tertio, quia ex diversis locis Sacrae Scripturae colliguntur ea quae credenda sunt, ut in promptu habeantur. Quarto omnia beneficia nobisThe edited versions omit *nobis*. divinitus collata ibi colliguntur; unde Dionysius, dicit, quod religionis symbolum congruentius potest appellari hierarchia eucharistica, quasi bona gratia.  
 
 Ad primum ergo dicendum, quod oportuit ea quae in diversis locis Sacrae Scripturae tradita sunt, in unum colligi locum, ut fides magis in promptu haberetur.  
 
@@ -126,7 +128,7 @@ Articulus 2
 
 ***Utrum articuli convenienter distinguantur in symbolo***
 
-***Ad secundum sic proceditur. Videtur quod inconvenienter articuli distinguantur in symbolo.***
+Ad secundum sic proceditur. Videtur quod inconvenienter articuli distinguantur in symbolo.  
 
 Tres enim personae sunt aequales. Sed articuli pertinentes ad personam Filii et Spiritus Sancti ponuntur plures. Ergo similiter debent poni plures pertinentes ad personam Patris.  
 
@@ -188,7 +190,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod fidem esse explicitam non sit de necessitate salutis.***
+Ad primum sic proceditur. Videtur quod fidem esse explicitam non sit de necessitate salutis.  
 
 Ad salutem enim sufficit gratia et liberum arbitrium. Sed ad explicationem fidei non sufficit habitus gratuitus fidei infusus, nec etiam liberum arbitrium gratia informatum; sed oportet quod adveniatThe edited versions read *veniat*. doctrina fidei determinans, quia *fides ex auditu est*, Rom. 10. Ergo explicatio fidei non est de necessitate salutis.  
 
@@ -204,7 +206,7 @@ Praeterea, nullus sine spe salvatur. Sed ad spem oportet adesse explicitam cogni
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod quilibet teneatur habere fidem explicitam de omnibus quae ad fidem pertinent. Omnes enim articuli fidei aequaliter ad fidem pertinent. Si ergo de aliquibus oportet habere cognitionem explicitam, pari ratione de omnibus.***
+Ulterius. Videtur quod quilibet teneatur habere fidem explicitam de omnibus quae ad fidem pertinent. Omnes enim articuli fidei aequaliter ad fidem pertinent. Si ergo de aliquibus oportet habere cognitionem explicitam, pari ratione de omnibus.  
 
 Praeterea, secundum id quod in universali scitur, non distinguitur unus homo ab alio: quia cognitio universalium principiorum omnibus hominibus est innata. Sed habere fidem implicite de aliquo articulo, est habere fidem in universali inThe Nicolaï, Venice (2nd. ed.), and Parma editions read *de illo*. illo articulo. Ergo per hoc quod habet fidem tantum implicitam de aliquo articulo, non differt quantum ad illum articulum a non credente: ergo oportet habere fidem explicitam de omnibus articulis.  
 
@@ -216,7 +218,7 @@ Praeterea, secundum hoc pauci essent qui haberent fidem, cum vix inveniatur aliq
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod majores non magis teneantur quam minores. Quia homines simplices examinantur de difficilibus articulis, et damnantur haeretici, si male respondeant. Hoc autem non esset, nisi illos scire tenerentur. Ergo minores non minus tenentur scire quam majores.***
+Ulterius. Videtur quod majores non magis teneantur quam minores. Quia homines simplices examinantur de difficilibus articulis, et damnantur haeretici, si male respondeant. Hoc autem non esset, nisi illos scire tenerentur. Ergo minores non minus tenentur scire quam majores.  
 
 Praeterea, nullus tenetur ad plura quam alius, nisi inquantum ad illa se obligavit. Sed majores non obligaverunt se ad articulos sciendos explicite, ut videtur. Ergo non magis tenentur quam minores.  
 
@@ -228,7 +230,7 @@ Praeterea, ei cui plus est commissum, plus exigiturThe edited versions read *exi
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod minores non habentThe Bruges and Paris (841, 842) manuscripts read *habeant*. fidem implicitam in fide majorum. Sicut enim est fides implicita et explicita, ita et scientia. Sed scientiam habet quis implicitam, non in aliquo sciente, sed in universali rei scibilis. Ergo nec fidem habet unus implicitam in fide alterius.***
+Ulterius. Videtur quod minores non habentThe Bruges and Paris (841, 842) manuscripts read *habeant*. fidem implicitam in fide majorum. Sicut enim est fides implicita et explicita, ita et scientia. Sed scientiam habet quis implicitam, non in aliquo sciente, sed in universali rei scibilis. Ergo nec fidem habet unus implicitam in fide alterius.  
 
 Praeterea, illud in quo implicatur cognitio alicujus habentis cognitionem implicitam, est regula suae cognitionis. Sed regula nostrae fidei non est cognitio humana, quae potest decipi, sed cognitio divina, quae falli non potest.The Bruges manuscript reads *quae non potest decipi*. Ergo videtur quod homo non debeat habere fidem implicitam in fide alterius hominis, sed in cognitione Dei.  
 
@@ -242,7 +244,7 @@ Praeterea, hoc patet per auctoritatem inductam in littera.
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ad salutem aliquis dupliciter pervenit. Quidam enim non perveniunt merito proprio, sed merito alieno, sicut pueri et stulti baptizati, quibus suffragatur meritum Christi, cuiThe edited versions read *cujus*. facti sunt participes in perceptione sacramenti: quia meritum proprium habere non possunt, cum non habeant usum liberi arbitrii, quod exigitur ad meritum. Quicumque autem usum liberi arbitrii habent, tenentur ad merita Christi etiamThe edited versions read *et*. meritum proprium addere. Meritum autem consistit in actu virtutum;The Bruges manuscript omits through homoteleuton *virtutum... Actus*. unde ad salutem ipsorum oportet quod sit et actus et habitus virtutum. Actus autem omnium virtutum dependentThe edited versions read *dependet*. ab actu fidei, quae intentionem dirigit: unde in omni qui habet liberum arbitrium exigitur ad salutem ejus quod habeat actum fidei, et non solum habitum. Fides autem non potest exire in actum, nisi aliquid determinate et explicite cognoscendo quod ad fidem pertineat; et ideo omni ei qui habet usum liberi arbitrii, habere fidem explicitam quantum ad aliquid, est de necessitate salutis.***
+Respondeo dicendum ad primam quaestionem, quod ad salutem aliquis dupliciter pervenit. Quidam enim non perveniunt merito proprio, sed merito alieno, sicut pueri et stulti baptizati, quibus suffragatur meritum Christi, cuiThe edited versions read *cujus*. facti sunt participes in perceptione sacramenti: quia meritum proprium habere non possunt, cum non habeant usum liberi arbitrii, quod exigitur ad meritum. Quicumque autem usum liberi arbitrii habent, tenentur ad merita Christi etiamThe edited versions read *et*. meritum proprium addere. Meritum autem consistit in actu virtutum;The Bruges manuscript omits through homoteleuton *virtutum... Actus*. unde ad salutem ipsorum oportet quod sit et actus et habitus virtutum. Actus autem omnium virtutum dependentThe edited versions read *dependet*. ab actu fidei, quae intentionem dirigit: unde in omni qui habet liberum arbitrium exigitur ad salutem ejus quod habeat actum fidei, et non solum habitum. Fides autem non potest exire in actum, nisi aliquid determinate et explicite cognoscendo quod ad fidem pertineat; et ideo omni ei qui habet usum liberi arbitrii, habere fidem explicitam quantum ad aliquid, est de necessitate salutis.  
 
 Ad primum ergo dicendum, quod in his quae sunt necessaria ad salutem, nunquam Deus homini quaerenti suam salutem deest vel defuit, nisi ex culpa sua remaneat; unde explicatio eorum quae sunt de necessitate salutis vel divinitus homini provideretur per praedicatorem fidei, sicut patet de Cornelio, Act. 10; vel per revelationem: qua supposita, in potestate liberi arbitrii est ut in actum fidei exeat.  
 
@@ -254,7 +256,7 @@ Ad quartum dicendum, quod ea quae sunt supra rationem ad fidem pertinentia, non 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod actus fidei ad hoc est necessarius ad salutem, quia intentionem dirigit in omnibus actibus aliarum virtutum; et ideo tantum oportet habere unicuiqueThe Bruges manuscript reads *unumquemque*. de fide explicita, quantum sufficit ad dirigendum ipsum in finem ultimum. Unde non est de necessitate salutis ut homo omnes articulos fidei explicite cognoscat: quia sine aliquorum explicatione potest homo habere rectam intentionem in finem.***
+Ad secundam quaestionem dicendum, quod actus fidei ad hoc est necessarius ad salutem, quia intentionem dirigit in omnibus actibus aliarum virtutum; et ideo tantum oportet habere unicuiqueThe Bruges manuscript reads *unumquemque*. de fide explicita, quantum sufficit ad dirigendum ipsum in finem ultimum. Unde non est de necessitate salutis ut homo omnes articulos fidei explicite cognoscat: quia sine aliquorum explicatione potest homo habere rectam intentionem in finem.  
 
 Et per hoc patet responsio ad primum: quia non est eadem ratio de omnibus articulis.  
 
@@ -264,7 +266,7 @@ Ad tertium dicendum, quod ad praecepta negativa tenemur semper et ad semper; et 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod explicare articulos fidei contingit dupliciter. Uno modo quantum ad ipsorum articulorum substantiam, secundum quod ipsos articulos distincte scit. Alio modo quantum ad ea quae in articulis continentur implicite: quod quidem contingit dum homo scit ea quae articulis consequuntur, et vim veritatis ipsorum articulorum, per quam possunt defendi ab omni impugnatione. Ad primam quidem explicationem totalemThe Nicolaï, Venice (2nd. ed.), and Parma editions read *totaliter*. tenentur omnes qui habent officium docendi fidem sive ex gradu dignitatis, sicut sacerdotes; sive ex revelatione, sicut prophetae; sive ex ministerio, sicut doctores et praedicatores: non autem alii, quibus non incumbit officium docendi fidem: quia cum ipsi non habeant nisi seipsos regulare, sufficit eis illos articulos cognoscereThe Bruges and Brussels manuscripts omit *cognoscere*. per quos possint propriam intentionem dirigere in finem debitum.The edited versions read *ultimum*. Ad secundam autem explicationem articulorum non tenetur aliquis totaliterThe Bruges and Paris (841, 842) manuscripts add *nisi*. ut sciat omnia explicare quae in articulis de salute continentur: quia hoc non potest esse nisi in patria, ubi ipsa articulorum veritas plene videbitur: sed unusquisque, cui incumbit officium instruendi alios de fide, qui dicuntur majores, tenenturThe edited versions read *tenetur*. tantum scire de ista explicatione, quantum pertinet ad suum officium. Sed ad hanc explicationem minores, quibus officium docendi non incumbit, non tenentur.***
+Ad tertiam quaestionem dicendum, quod explicare articulos fidei contingit dupliciter. Uno modo quantum ad ipsorum articulorum substantiam, secundum quod ipsos articulos distincte scit. Alio modo quantum ad ea quae in articulis continentur implicite: quod quidem contingit dum homo scit ea quae articulis consequuntur, et vim veritatis ipsorum articulorum, per quam possunt defendi ab omni impugnatione. Ad primam quidem explicationem totalemThe Nicolaï, Venice (2nd. ed.), and Parma editions read *totaliter*. tenentur omnes qui habent officium docendi fidem sive ex gradu dignitatis, sicut sacerdotes; sive ex revelatione, sicut prophetae; sive ex ministerio, sicut doctores et praedicatores: non autem alii, quibus non incumbit officium docendi fidem: quia cum ipsi non habeant nisi seipsos regulare, sufficit eis illos articulos cognoscereThe Bruges and Brussels manuscripts omit *cognoscere*. per quos possint propriam intentionem dirigere in finem debitum.The edited versions read *ultimum*. Ad secundam autem explicationem articulorum non tenetur aliquis totaliterThe Bruges and Paris (841, 842) manuscripts add *nisi*. ut sciat omnia explicare quae in articulis de salute continentur: quia hoc non potest esse nisi in patria, ubi ipsa articulorum veritas plene videbitur: sed unusquisque, cui incumbit officium instruendi alios de fide, qui dicuntur majores, tenenturThe edited versions read *tenetur*. tantum scire de ista explicatione, quantum pertinet ad suum officium. Sed ad hanc explicationem minores, quibus officium docendi non incumbit, non tenentur.  
 
 Ad primum ergo dicendum, quod non condemnantur simplices pro haereticis, quia nesciunt articulos: sed quia pertinaciter defendunt ea quae sunt contraria articulis; quod non facerent, nisi per haeresim fidem corruptam haberent.  
 
@@ -274,7 +276,7 @@ Ad tertium dicendum, quod majores non dicuntur qui magis sciunt, sed quibus incu
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod illi quibus incumbit officium docendi fidem, sunt medii inter Deum et homines; unde respectu DeiThe Bruges manuscript reads *fidei*. sunt homines, et respectu hominum sunt dii, inquantum divinae cognitionis participes sunt per scientiam Scripturarum, vel per revelationem, ut dicitur Joan. 10:35: *illos dixit deos ad quos sermo Dei factus est*. Et ideo oportet quod minores, qui ab eis de fide doceri debent, habeant fidem implicitam in fide illorum, non inquantum homines,The edited versions add *sunt*. sed inquantum sunt participatione dii.***
+Ad quartam quaestionem dicendum, quod illi quibus incumbit officium docendi fidem, sunt medii inter Deum et homines; unde respectu DeiThe Bruges manuscript reads *fidei*. sunt homines, et respectu hominum sunt dii, inquantum divinae cognitionis participes sunt per scientiam Scripturarum, vel per revelationem, ut dicitur Joan. 10:35: *illos dixit deos ad quos sermo Dei factus est*. Et ideo oportet quod minores, qui ab eis de fide doceri debent, habeant fidem implicitam in fide illorum, non inquantum homines,The edited versions add *sunt*. sed inquantum sunt participatione dii.  
 
 Ad primum ergo dicendum, quod determinata cognitio principiorum demonstrationis ex sensu acquiritur; unde ad eorum determinationem doctrina non indigemus: et in his principiis homo habet a principio implicitam scientiam omnium quae sequuntur; habet nihilominus scientiam implicitam in cognitione alterius scientis, inquantum oportet eum per doctrinam scientiam accipere: quia oportet addiscentem credere. Et ideo non est simile de scientia et fide: quia non sunt nobis innata aliqua principia naturalia ad quae possint reduci articuli fidei; sed tota determinatio fidei est in nobis per doctrinam; et ideo oportet in cognitione hominis habere fidem implicitam.  
 
@@ -290,7 +292,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod per successionem temporum fides non profecerit quantum ad ea quae explicite sunt credenda.***
+Ad secundum sic proceditur. Videtur quod per successionem temporum fides non profecerit quantum ad ea quae explicite sunt credenda.  
 
 Fides enim, ut dicitur in littera, caritati proportionatur. Sed caritas est eadem et aequalis per omnia tempora. Ergo et fides.  
 
@@ -308,7 +310,7 @@ Praeterea, Gregorius dicit, quod per successiones temporum crevit divinae cognit
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non oportuit semper habere fidem explicitam de redemptore. Non enim cognoverunt homines de DeoThe edited versions read *eo*. per fidem quod angeli ignoraverunt: quia cognitio fidei per revelationem quae est a Deo, est mediantibus angelis, ut dicit Dionysius, 4 cap. *De cael. hier*. Sed angeli mysterium redemptionisThe Piana edition reads *Redemptoris*. non cognoverunt; unde Apostolus dicit Ephes. 3, quod erat absconditum in Deo.The Antwerp edition reads *a Deo*. Ergo nec homines de hocThe edited versions read *eo*. fidem explicitam habuerunt.***
+Ulterius. Videtur quod non oportuit semper habere fidem explicitam de redemptore. Non enim cognoverunt homines de DeoThe edited versions read *eo*. per fidem quod angeli ignoraverunt: quia cognitio fidei per revelationem quae est a Deo, est mediantibus angelis, ut dicit Dionysius, 4 cap. *De cael. hier*. Sed angeli mysterium redemptionisThe Piana edition reads *Redemptoris*. non cognoverunt; unde Apostolus dicit Ephes. 3, quod erat absconditum in Deo.The Antwerp edition reads *a Deo*. Ergo nec homines de hocThe edited versions read *eo*. fidem explicitam habuerunt.  
 
 Praeterea, Adam suum casum non praescivit. Sed si non peccasset, humana redemptio non fuisset. Ergo homo non semper explicite cognovit mysterium redemptionis humanae.  
 
@@ -322,7 +324,7 @@ Praeterea, sicut creator est principium essendi in natura condita, ita etThe edi
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non oportuit istos articulos de redemptore credere quos Magister tangit in littera. Quia Joannes Baptista inter majores fuit, qui tenebantur habere fidem explicitam secundum illud tempus. Sed ipse dubitavit de morte Christi, ut dicit Magister in littera. Ergo non videtur quod de morte Christi habueruntThe edited versions read *habuerunt*. fidem explicitam antiqui patres.***
+Ulterius. Videtur quod non oportuit istos articulos de redemptore credere quos Magister tangit in littera. Quia Joannes Baptista inter majores fuit, qui tenebantur habere fidem explicitam secundum illud tempus. Sed ipse dubitavit de morte Christi, ut dicit Magister in littera. Ergo non videtur quod de morte Christi habueruntThe edited versions read *habuerunt*. fidem explicitam antiqui patres.  
 
 Praeterea, conceptio nativitatem praecedit. Sed non dicitur quod necessarium fuerit eos habere explicitam fidem de conceptione. Ergo necThe Brussels and Paris (842) manuscripts read *non*. fuit necessarium quod haberent explicitam fidem de nativitate.  
 
@@ -334,7 +336,7 @@ Praeterea, salus homini esse putaturThe Nicolaï, Venice (2nd ed.) and Parma edi
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non fuerit necessarium habere cognitionem Trinitatis explicitam. Quia Hebr. 11:6, dicitur, quod de Deo *oportet credere quia est,* etc.The Vivès edition omits *etc.*, and adds *et inquirentibus se remunerator sit*. Ergo videtur quod non oportuit cognoscere distinctionem personarum.***
+Ulterius. Videtur quod non fuerit necessarium habere cognitionem Trinitatis explicitam. Quia Hebr. 11:6, dicitur, quod de Deo *oportet credere quia est,* etc.The Vivès edition omits *etc.*, and adds *et inquirentibus se remunerator sit*. Ergo videtur quod non oportuit cognoscere distinctionem personarum.  
 
 Praeterea, cognitio fidei est necessaria inquantum nos in finem dirigit. Sed Deus est finis noster, inquantum est summum bonum, quod ad essentiam pertinet. Ergo videtur quod sufficiebat de Deo credere essentialia.  
 
@@ -346,7 +348,7 @@ Praeterea, missio divinarum personarum semper fuit de necessitate salutis. Sed A
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod fides cognitio quaedam est. Quantitas autem cognitionis dupliciter attenditur: scilicet secundum objecta, et secundum efficaciam actus circa objectum. Quia autem habitus specificatur ex objecto, ideo prima quantitas est habitui essentialis; et secundum hanc attenditur magnitudo fidei, quae est secundum articulorum quantitatem; et ideo secundum hanc quantitatem fides non crescit nec deficit, cum semper eadem maneat. Efficacia autem in agendo, est ex conditione agentis; et ideo quantum ad alias tres magnitudines potest fides proficere, ipsa manente eadem secundum diversas hominum conditiones.***
+Respondeo dicendum ad primam quaestionem, quod fides cognitio quaedam est. Quantitas autem cognitionis dupliciter attenditur: scilicet secundum objecta, et secundum efficaciam actus circa objectum. Quia autem habitus specificatur ex objecto, ideo prima quantitas est habitui essentialis; et secundum hanc attenditur magnitudo fidei, quae est secundum articulorum quantitatem; et ideo secundum hanc quantitatem fides non crescit nec deficit, cum semper eadem maneat. Efficacia autem in agendo, est ex conditione agentis; et ideo quantum ad alias tres magnitudines potest fides proficere, ipsa manente eadem secundum diversas hominum conditiones.  
 
 In actu autem fidei tria inveniuntur, secundum quae potest quantitas efficaciaeThe edited versions add *fidei*. attendi; duo secundum naturam propriam: scilicet cogitare, et secundum hoc dicitur fides magna, cognitione; et assentire, et secundum hoc dicitur fides magna, constantia, quia assensus certitudinem et determinationem importat, ut supra, dist. 23, art. 2 in corp. et ad 1, dictum est: tertium autem est in actu fidei secundum quod informatur caritate; et secundum hoc dicitur fides magna, devotione. Sed quia certitudo fidei est ex voluntate determinante intellectum ad unum, et similiter formatio ex caritate, quae est in voluntate; voluntas autem est domina sui actus etiam secundum quodcumque tempus; ideo per se loquendo magnitudinis fidei quae est secundum constantiam velThe edited versions read *et*. et devotionem, attenditur profectus secundum promptitudinem voluntatis quae est ex gratia, nonThe Bruges manuscript omits *non*. ex successione temporum nisi per accidens, inquantum in aliquo tempore sit plenior influentia gratiae quam in alio quantum ad communem statum, quamvis non quantum ad omnes personas. Sed cogitare ad intellectum pertinet, cujus virtutes experimento indigent et tempore, ut dicitur inThe edited versions omit *in*. 2 *Ethic*.; et ideo quantitas fidei quae est secundum cognitionem articulorum, per se loquendo, crescit secundum diversitatem temporis.  
 
@@ -362,7 +364,7 @@ Ad quintum dicendum, quod aliquid quod in articulo continetur, explicari potest 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod ad fidem redemptoris tripliciter se habet humanum genus secundum diversa tempora. In primo enim statu ante peccatum non oportebat ab aliquo homine haberi fidem explicitam de redemptore, quia nondum servitus erat inducta; sed sufficiebat haberiThe edited versions read *habere*. fidem implicitam inThe edited versions omit *in*. cognitione Dei, ut scilicet homo crederet quod Deus ei provideret in eis quae essent necessaria ad salutem. In secundo autem statu post peccatum ante adventum Christi quidam habebant fidem explicitam de redemptore, quibus revelatio facta erat, qui majores dicebantur: quidam autem, ut minores, fidem implicitam habebant in fide majorum; unde etThe edited versions omit *et*. eis sacramentum redemptionis sub signis sacrificiorum proponebatur. In tertio autem statu post adventum Christi, quia jam mysterium redemptionis impletum est corporaliter et visibiliter, et praedicatum, omnes tenentur ad explicite credendum: et si aliquis instructorem non haberet, Deus illi revelaret, nisi ex culpa sua removeret.***
+Ad secundam quaestionem dicendum, quod ad fidem redemptoris tripliciter se habet humanum genus secundum diversa tempora. In primo enim statu ante peccatum non oportebat ab aliquo homine haberi fidem explicitam de redemptore, quia nondum servitus erat inducta; sed sufficiebat haberiThe edited versions read *habere*. fidem implicitam inThe edited versions omit *in*. cognitione Dei, ut scilicet homo crederet quod Deus ei provideret in eis quae essent necessaria ad salutem. In secundo autem statu post peccatum ante adventum Christi quidam habebant fidem explicitam de redemptore, quibus revelatio facta erat, qui majores dicebantur: quidam autem, ut minores, fidem implicitam habebant in fide majorum; unde etThe edited versions omit *et*. eis sacramentum redemptionis sub signis sacrificiorum proponebatur. In tertio autem statu post adventum Christi, quia jam mysterium redemptionis impletum est corporaliter et visibiliter, et praedicatum, omnes tenentur ad explicite credendum: et si aliquis instructorem non haberet, Deus illi revelaret, nisi ex culpa sua removeret.  
 
 Ad primum ergoThe Bruges manuscript omits *ergo*, the Paris (841) manuscript reads *igitur*. dicendum, quod angeli primitus mysterium Incarnationis sunt edocti quam homines, ut dicit Dionysius, 4 cap. *De caelest. hierar.*, quantum ad ipsam substantiam ejus quod credendum est, quamvis non quantum ad omnes circumstantias articulorum, quas postea rebus evenientibus cognoverunt. Et de hoc plenius dictum est inThe Paris (841, 842) manuscripts and the edited versions omit *in*. 2 lib., dist. 11.  
 
@@ -374,7 +376,7 @@ Ad quartum dicendum, quod quamvis ad cognitionem redemptoris non sufficeret natu
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod fides explicita ad hoc necessaria est quod in finem ultimum intentionem dirigat. Et quia per peccatum homo a fine illoThe edited versions read *ab illo fine*. abductus fuerat,The edited versions add *et*. non poterat reduci nisi per mediatorem Dei et hominumThe edited versions add *Dominum*. Jesum Christum; ideo post peccatum oportuit haberi cognitionem explicitam de redemptore, et praecipue quantum ad ea quibus nos in finem reduxit victo hosteThe Paris (841) manuscript reads *devicto*, the edited versions add *a*. quo captivi detinebamur. Ad hoc autem quod nos in finem reduceret, quatuor requirebantur. Primum est quod propugnator noster institueretur;The Piana and Antwerp editions read *instrueretur*. quod factum est in nativitate. Secundum est quod pugnaret;The edited versions read *propugnaret*. quod factum est in Passione. Tertium est quod vinceret; quod factum est in Resurrectione, quando aeternitatis aditum devicta morte reseravit. QuartumThe edited versions read *quarto*. quod victoriae suae omnes suosThe Bruges manuscript omits *suos*. participes faceret; et hoc erit in judicio, quando bonis bona et malis mala reddet. Et ideo ista praecipue requirebantur ut de redemptore explicite scirentur. Tamen possibile est quod secundum diversa tempora horum distinctio et explicatio ante Christi adventum creverit, ut quanto adventui salvatoris viciniores existerent, tanto sacramenta salutis plenius perceperint, ut dicit Gregorius. Et secundum hoc utraque opinio in littera positaThe edited versions omit *posita*. potest habere veritatem: prima quantum ad propinquos, secunda quantum ad remotos.***
+Ad tertiam quaestionem dicendum, quod fides explicita ad hoc necessaria est quod in finem ultimum intentionem dirigat. Et quia per peccatum homo a fine illoThe edited versions read *ab illo fine*. abductus fuerat,The edited versions add *et*. non poterat reduci nisi per mediatorem Dei et hominumThe edited versions add *Dominum*. Jesum Christum; ideo post peccatum oportuit haberi cognitionem explicitam de redemptore, et praecipue quantum ad ea quibus nos in finem reduxit victo hosteThe Paris (841) manuscript reads *devicto*, the edited versions add *a*. quo captivi detinebamur. Ad hoc autem quod nos in finem reduceret, quatuor requirebantur. Primum est quod propugnator noster institueretur;The Piana and Antwerp editions read *instrueretur*. quod factum est in nativitate. Secundum est quod pugnaret;The edited versions read *propugnaret*. quod factum est in Passione. Tertium est quod vinceret; quod factum est in Resurrectione, quando aeternitatis aditum devicta morte reseravit. QuartumThe edited versions read *quarto*. quod victoriae suae omnes suosThe Bruges manuscript omits *suos*. participes faceret; et hoc erit in judicio, quando bonis bona et malis mala reddet. Et ideo ista praecipue requirebantur ut de redemptore explicite scirentur. Tamen possibile est quod secundum diversa tempora horum distinctio et explicatio ante Christi adventum creverit, ut quanto adventui salvatoris viciniores existerent, tanto sacramenta salutis plenius perceperint, ut dicit Gregorius. Et secundum hoc utraque opinio in littera positaThe edited versions omit *posita*. potest habere veritatem: prima quantum ad propinquos, secunda quantum ad remotos.  
 
 Ad primum ergo dicendum, quod Joannes Baptista hos articulos plenissime scivit; unde de his non dubitavit. Potuit autem dubitare sine praejudicio salutis de alio articulo Passionis implicito tunc temporis, scilicet de descensu ad inferos, non pertinaciter; quod patet, quia doceri quaerebat. Vel dicendum, ut alii dicunt, quod ipse non dubitavit, sed quasi dubitasse visus est inquantum quaesivit non propter se, sed propter suos discipulos instruendos. Vel fuit dubitatio non ignorantiae, sed admirationis et pietatis.  
 
@@ -386,7 +388,7 @@ Ad quintum dicendum, quod in judicio Christus nihil nobis merebitur; sed idThe B
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod per missiones divinarum personarum in nos, homo in finem ultimum ducitur non solum post peccatum, sed etiam ante peccatum;The Bruges manuscript through homoteleuton omits *peccatum... Non tamen...* et ideo explicita cognitio de Trinitate fuit necessaria non solum post peccatum, sed etiam ante peccatum. Non tamen eodem modo ante adventum Christi et post: quia ante adventum soli majores de hoc fidem explicitam habuerunt: post Incarnationem vero omnes fidem explicitam de tribus personis habere tenentur, sicut et de mysterio Incarnationis, quod cognosci non potest, nisi cognoscatur personarum distinctio: et quia sacramenta salutis cum invocatione Trinitatis conferuntur.***
+Ad quartam quaestionem dicendum, quod per missiones divinarum personarum in nos, homo in finem ultimum ducitur non solum post peccatum, sed etiam ante peccatum;The Bruges manuscript through homoteleuton omits *peccatum... Non tamen...* et ideo explicita cognitio de Trinitate fuit necessaria non solum post peccatum, sed etiam ante peccatum. Non tamen eodem modo ante adventum Christi et post: quia ante adventum soli majores de hoc fidem explicitam habuerunt: post Incarnationem vero omnes fidem explicitam de tribus personis habere tenentur, sicut et de mysterio Incarnationis, quod cognosci non potest, nisi cognoscatur personarum distinctio: et quia sacramenta salutis cum invocatione Trinitatis conferuntur.  
 
 Ad primum ergo dicendum, quod Apostolus posuit illa quae oportuit credi explicite a quolibet homine in quocumque statu: hoc autem non fuit cognitio Trinitatis.  
 
@@ -396,7 +398,7 @@ Ad tertium dicendum, quod quia non erat necessarium ut explicite omnes cognoscer
 
 Expositio textus  
 
-****Sicut in Ecclesia aliqui sunt minus capaces*. Contra. Modo non sufficit ad salutem ut etiam explicite mysterium Incarnationis credatur. EtThe edited versions omit *et*. dicendum, quod est similitudo non quantum ad omnia, sed quantum ad quaedam de articulis: quia nesciunt eos distinguere, quamvis explicite cognoscant illud quod in articulis continetur. Tenentur autem praecipueThe edited versions omit *praecipue*. explicite illosThe edited versions omit *illos*. articulos scire de quibus Ecclesia solemnizat, et facit continuam mentionem, sicut de Trinitate.***
+*Sicut in Ecclesia aliqui sunt minus capaces*. Contra. Modo non sufficit ad salutem ut etiam explicite mysterium Incarnationis credatur. EtThe edited versions omit *et*. dicendum, quod est similitudo non quantum ad omnia, sed quantum ad quaedam de articulis: quia nesciunt eos distinguere, quamvis explicite cognoscant illud quod in articulis continetur. Tenentur autem praecipueThe edited versions omit *praecipue*. explicite illosThe edited versions omit *illos*. articulos scire de quibus Ecclesia solemnizat, et facit continuam mentionem, sicut de Trinitate.  
 
 *Credunt hoc quod ignorant*. Hoc est contra idThe edited versions read *illud*. quod supraThe edited versions read *superius*. dictum est, quod fides non est de ignotis. EtThe edited versions omit *et*. dicendum, quod sicut implicite creditur, ita et implicite cognoscitur. Dicitur autem ignorari quod nescitur explicite.  
 

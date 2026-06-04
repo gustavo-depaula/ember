@@ -1,5 +1,7 @@
 # Chapter 14
 
+***Term 1***
+
 ***Perishing***
 
 ***Some have perished for riches, others in acts of courage.***
@@ -46,7 +48,7 @@ Term 7
 
 ***The Wicked***
 
-***Men who are wicked not because they are corrupted because of shameful sins, but rather because of some childishness, seem to be friendly to themselves. They think that they are just men, but this is certainly not true of men who are truly wicked.***
+Men who are wicked not because they are corrupted because of shameful sins, but rather because of some childishness, seem to be friendly to themselves. They think that they are just men, but this is certainly not true of men who are truly wicked.  
 
 Wicked men are not friendly to themselves, because they do not afford themselves what good works are best for them, they instead choose things that are harmful and pleasureable to them.  
 
@@ -90,7 +92,7 @@ Term 10
 
 ***The Ruler***
 
-***If the ruler strikes a man, justice does not demand he need to be striken back, but if someone strikes the prince, that man must not only be striken, but punished.***
+If the ruler strikes a man, justice does not demand he need to be striken back, but if someone strikes the prince, that man must not only be striken, but punished.  
 
 The ruler is the guaridan of justice and equality. He does not afford himself too much of what is good without qualification, except what is in proper proportion for him, therefore he works for the benefit another.  
 
@@ -102,7 +104,7 @@ Term 11
 
 ***To Rule***
 
-***We do not allow a man to rule merely because of his human nature, but because of his perfection in reason. A man too concerned with benefitting himself is a tyrannt.***
+We do not allow a man to rule merely because of his human nature, but because of his perfection in reason. A man too concerned with benefitting himself is a tyrannt.  
 
 Term 12  
 
@@ -122,7 +124,7 @@ Term 14
 
 ***The Wasteful Man***
 
-***The wasteful man is greater than the illiberal man, since his condition is more easily remedied by age or by necessity.***
+The wasteful man is greater than the illiberal man, since his condition is more easily remedied by age or by necessity.  
 
 The wasteful man does not seem to have an evil character.  
 
@@ -162,13 +164,13 @@ Term 16
 
 ***The Most Wicked Man***
 
-***A man who practices vice toward himself and to his friends is a most wicked man. The best kind of man, however, is not the man who practices virtue toward himself, but toward others.***
+A man who practices vice toward himself and to his friends is a most wicked man. The best kind of man, however, is not the man who practices virtue toward himself, but toward others.  
 
 Term 17  
 
 ***The Affable Man***
 
-***Affable men are those who praise everything said and done to get along well, they do not contradict anything, they judge that both good and evil men alike should get along without any trouble.***
+Affable men are those who praise everything said and done to get along well, they do not contradict anything, they judge that both good and evil men alike should get along without any trouble.  
 
 The affable man is he who wishes to live with others smoothly, but not out of any other motive.  
 
@@ -190,7 +192,7 @@ Term 19
 
 ***The Statesman***
 
-***The statesman must have some knowledge of the soul, just as the man who tends to illness in the eye must know something about the whole body.***
+The statesman must have some knowledge of the soul, just as the man who tends to illness in the eye must know something about the whole body.  
 
 It is better for the statesman to write and speak in civic functions than in judicial or persuasive speeches.  
 
@@ -198,7 +200,7 @@ Term 20
 
 ***The Passions***
 
-***A man who pursues passions will strive without reward or use, since its end is not knowledge but actitivy.***
+A man who pursues passions will strive without reward or use, since its end is not knowledge but actitivy.  
 
 Passions are all those things toward whichlead to pleasure or pain many examples follow.  
 
@@ -218,25 +220,25 @@ Term 21
 
 ***Philosophy***
 
-***Philosophy offers wonderful pleasures in stable and pure way, more so for those contemplating it than those still seeking it. This is because they do not yet possess it, but work toward it by their inquiry.***
+Philosophy offers wonderful pleasures in stable and pure way, more so for those contemplating it than those still seeking it. This is because they do not yet possess it, but work toward it by their inquiry.  
 
 Term 22  
 
 ***The Ambitious Man***
 
-***The ambitious man is immoderately excessive in his desire for great honour, but the man who lacks in this too much is called unambitious. The mean in ambition, however, does not have a name.***
+The ambitious man is immoderately excessive in his desire for great honour, but the man who lacks in this too much is called unambitious. The mean in ambition, however, does not have a name.  
 
 Term 23  
 
 ***Philoxenus***
 
-***Philoxenus Erixius prayed that his throat might be longer than a crane's, that by longer contact with his food he might delight more.***
+Philoxenus Erixius prayed that his throat might be longer than a crane's, that by longer contact with his food he might delight more.  
 
 Term 24  
 
 ***The Boxer***
 
-***For boxers their end is a pleasure: a laurel and honours. But they do suffer pain when they receive blows, since they sensible flesh.***
+For boxers their end is a pleasure: a laurel and honours. But they do suffer pain when they receive blows, since they sensible flesh.  
 
 The boxer does not fight the same way against all opponents. Anyone acts more surely if he applies an action specific to his circumstance, rather than only a general one. If he does this, he will have greater chance of meeting a his desired result.  
 
@@ -254,7 +256,7 @@ Term 26
 
 ***Powers***
 
-***Powers correspond to what we are able to do, such as becoming angry or being sad or taking pity.***
+Powers correspond to what we are able to do, such as becoming angry or being sad or taking pity.  
 
 Our powers are ours by nature, we are not made good or evil by nature.  
 
@@ -290,7 +292,7 @@ Term 29
 
 ***Parents***
 
-***Parents love their children as part of themselves. Children, however, love parents as the authors of their existence.***
+Parents love their children as part of themselves. Children, however, love parents as the authors of their existence.  
 
 Parents have greater knowledge that their chilrden are their own, than children have about who their parents are.  
 
@@ -304,7 +306,7 @@ Term 30
 
 ***A Father's Rule***
 
-***The rule of the father toward his sons has a likeness to a monarchy, since the father has care for his sons.***
+The rule of the father toward his sons has a likeness to a monarchy, since the father has care for his sons.  
 
 Among the Persians, the rule of the father is as a tyrant who uses his sons as slaves.  
 
@@ -342,7 +344,7 @@ Term 33
 
 ***Fatherly Friendship***
 
-***The nature of a father's friendship is just as a king's: the greater is the one who bestows gifts.***
+The nature of a father's friendship is just as a king's: the greater is the one who bestows gifts.  
 
 Term 34  
 
@@ -354,7 +356,7 @@ Tern 35
 
 ***A Father's Precept***
 
-***A father's precept does not have the same coercive force, nor does anyone else's unless he is a public man such as the king.***
+A father's precept does not have the same coercive force, nor does anyone else's unless he is a public man such as the king.  
 
 Term 36  
 
@@ -366,7 +368,7 @@ Term 37
 
 ***The Presence of a Friend***
 
-***The presence of friends is a pleasurable thing, both in good fortunes and bad, for the spirits of saddened men are raised by friends who share their pains.***
+The presence of friends is a pleasurable thing, both in good fortunes and bad, for the spirits of saddened men are raised by friends who share their pains.  
 
 The presence of a friend is pleasurable, knowing that someone is a friend and that he shares his pain lessens it.  
 
@@ -378,7 +380,7 @@ Term 38
 
 ***Priam***
 
-***Priam, as the story goes, lost everything miserably at the at the end of his life.***
+Priam, as the story goes, lost everything miserably at the at the end of his life.  
 
 Term 39  
 
@@ -390,13 +392,13 @@ Term 40
 
 ***Approximation***
 
-***It is approximately the same thing for a mathematician to be satisfied with persuasive reasoning and for a rhetorician to demand logical demonstrations.***
+It is approximately the same thing for a mathematician to be satisfied with persuasive reasoning and for a rhetorician to demand logical demonstrations.  
 
 Term 41  
 
 ***The First Principle***
 
-***Of first principles, we observe some by induction, some by perception, and others by some habituation.***
+Of first principles, we observe some by induction, some by perception, and others by some habituation.  
 
 The beginning seems to be more than half of a whole, and many of our questions are resolved by this.  
 
@@ -410,19 +412,19 @@ Term 42
 
 ***Pythagoras***
 
-***Pythagoras, when teaching something, commanded the learner to repay him honour according as he valued the thing he had learned from Pythagoras.***
+Pythagoras, when teaching something, commanded the learner to repay him honour according as he valued the thing he had learned from Pythagoras.  
 
 Term 43  
 
 ***To Please***
 
-***It is a difficult thing for many people to please the same person greatly, because of the variety of customs which this in any case may not be a good thing.***
+It is a difficult thing for many people to please the same person greatly, because of the variety of customs which this in any case may not be a good thing.  
 
 Term 44  
 
 ***Prudence***
 
-***Prudence is neither knowledge, nor a craft, nor an opinion, since knowledge regards necessary things and opinion regards contingent things, and a craft, what is able to be done.***
+Prudence is neither knowledge, nor a craft, nor an opinion, since knowledge regards necessary things and opinion regards contingent things, and a craft, what is able to be done.  
 
 Prudence is a true and rational habit of action regarding what is good and evil for man.  
 
@@ -450,7 +452,7 @@ Term 45
 
 ***The Prudent Man***
 
-***It belongs to the prudent man to be able to give counsel not just for one part of life, but for everything useful for him to live well.***
+It belongs to the prudent man to be able to give counsel not just for one part of life, but for everything useful for him to live well.  
 
 Men who can consider well what is good for themselves and others are prudent, such as Pericles, who was skilled in counsels.  
 
@@ -478,13 +480,13 @@ Term 48
 
 ***The Erring Man***
 
-***A man who deliberatly makes a mistake in art is preferable to the man whose error is injustice. The opposite is true of prudence.***
+A man who deliberatly makes a mistake in art is preferable to the man whose error is injustice. The opposite is true of prudence.  
 
 Term 49  
 
 ***Error***
 
-***Error in reckoning can concern either a universal or a particular. He gives the example of sluggish water.***
+Error in reckoning can concern either a universal or a particular. He gives the example of sluggish water.  
 
 Term 50  
 
@@ -496,7 +498,7 @@ Term 51
 
 ***The Reckless***
 
-***The reckless do not deliberate, but if they allow counsel to bolster their reason, they do not succumb to passion. This is the case with those who are excited but are not stirred by others.***
+The reckless do not deliberate, but if they allow counsel to bolster their reason, they do not succumb to passion. This is the case with those who are excited but are not stirred by others.  
 
 Recklessness and weakness are forms of incontinence.  
 
@@ -504,25 +506,25 @@ Term 52
 
 ***Worse***
 
-***An undersireous or calm man acting shamefully is worse than a man who is normally overtaken by desire. It is worse for an unagered man to strike someone than for an enraged man.***
+An undersireous or calm man acting shamefully is worse than a man who is normally overtaken by desire. It is worse for an unagered man to strike someone than for an enraged man.  
 
 Term 53  
 
 ***The Perseverant Man***
 
-***The man is called perseverant who overcomes difficulties which have overtaken many men.***
+The man is called perseverant who overcomes difficulties which have overtaken many men.  
 
 Term 54  
 
 ***Phalaris***
 
-***Phalaris was an abominable man who kept men at his bed and, if he found others who he deemed better, would have them beheaded.***
+Phalaris was an abominable man who kept men at his bed and, if he found others who he deemed better, would have them beheaded.  
 
 Term 55  
 
 ***The Particular***
 
-***Particular instances do not regard scientific knowledge as universals do, therefore the more particular a thing the less certain this knowledge. What Socrates proposed, therefore, seems to be true, that scientific knowledge does not err, since it regards universal truths and not something present at hand.***
+Particular instances do not regard scientific knowledge as universals do, therefore the more particular a thing the less certain this knowledge. What Socrates proposed, therefore, seems to be true, that scientific knowledge does not err, since it regards universal truths and not something present at hand.  
 
 Term 56  
 
@@ -536,19 +538,19 @@ Term 57
 
 ***Quarrels***
 
-***Quarrels and disputes arise when there is some imbalance among equals and when those who are not equal receive the same share.***
+Quarrels and disputes arise when there is some imbalance among equals and when those who are not equal receive the same share.  
 
 Term 58  
 
 ***Potency and Scientific Knowledge***
 
-***Potency and scientific knowledge both seem to regard contrary things, but a habit does not, we do not things contrary to health hoping to attain it, but we do only what is healthy.***
+Potency and scientific knowledge both seem to regard contrary things, but a habit does not, we do not things contrary to health hoping to attain it, but we do only what is healthy.  
 
 Vox 59  
 
 ***A Deposit***
 
-***If a man returns his deposit not willingly, but for fear, this man is not said to be acting justly.***
+If a man returns his deposit not willingly, but for fear, this man is not said to be acting justly.  
 
 Term 60  
 

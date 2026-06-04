@@ -1,8 +1,10 @@
 # D. 21 - Temptation of our first parents
 
+***De tentatione primorum parentum***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister institutionem humanae naturae, hic determinat lapsum ejus per peccatum; et dividitur in duas partes:***
+Postquam determinavit Magister institutionem humanae naturae, hic determinat lapsum ejus per peccatum; et dividitur in duas partes:  
 
 in prima determinat humanae naturae lapsum in primis parentibus quantum ad actuale peccatum ipsorum;  
 
@@ -138,7 +140,7 @@ Articulus 2
 
 ***Utrum tentatio a diabolo sit peccatum***
 
-***Ad secundum sic proceditur. Videtur quod tentatio quae est ab hoste, etiam sit peccatum.***
+Ad secundum sic proceditur. Videtur quod tentatio quae est ab hoste, etiam sit peccatum.  
 
 Potestas enim minor non potest intentionem potestatis majoris repellere. Sed potestas daemonis est major quam potestas hominis, ut dicitur Job 41:24: *non est super terram potestas quae ei possit comparari*.The Vulgate (Vulg.) reads: *comparetur ei*. Ergo cum intentio daemonis sit ut inducat homines ad peccandum, videtur quod homo semper quando ab eo tentatur peccet.  
 
@@ -208,7 +210,7 @@ Quaestio 2
 
 ***De tentatione primorum parentum***
 
-***Deinde quaeritur specialiter de tentatione primorum parentum; et circa hoc quaeruntur tria:***
+Deinde quaeritur specialiter de tentatione primorum parentum; et circa hoc quaeruntur tria:  
 
 primo de progressu tentationis;  
 
@@ -220,7 +222,7 @@ Articulus 1
 
 ***Utrum diabolus ex invidia et in forma serpentis tentaverit Evam***
 
-***Ad primum sic proceditur. Videtur non fuisse talis tentationis progressus, qualis in littera describitur.***
+Ad primum sic proceditur. Videtur non fuisse talis tentationis progressus, qualis in littera describitur.  
 
 Invidia enim respectu superioris est; unde dicitur Job 5:2: *parvulum occidit invidia*. Sed Adam non erat superior daemone, ad minus reputatione daemonis, qui fuit superbissimus. Ergo non est ex invidia stimulatus ad tentandum.  
 
@@ -256,7 +258,7 @@ Articulus 2
 
 ***Utrum peccatum Adae fuerit gravius omnibus aliis peccatis***
 
-***Ad secundum sic proceditur. Videtur quod peccatum Adae gravius fuerit omnibus aliis peccatis.***
+Ad secundum sic proceditur. Videtur quod peccatum Adae gravius fuerit omnibus aliis peccatis.  
 
 Quia, sicut dicit Augustinus in lib. 14 *De civitate Dei*, c. 15: *magna est enim in peccando iniquitas, cui tanta est in non peccando facilitas*. Sed Adam facilius potuit vitare peccatum quam aliquis sequentium. Ergo ipse gravius peccavit.  
 
@@ -290,7 +292,7 @@ Articulus 3
 
 ***Utrum Adam in statu innocentiae potuerit peccare venialiter***
 
-***Ad tertium sic proceditur. Videtur quod Adam in primo statu venialiter peccare potuit.***
+Ad tertium sic proceditur. Videtur quod Adam in primo statu venialiter peccare potuit.  
 
 Dispositio enim praecedit perfectionem. Sed veniale est dispositio ad mortale. Ergo videtur quod prius venialiter quam mortaliter peccaverit.  
 
@@ -330,7 +332,7 @@ Ad sextum dicendum, quod sicut in parte intellectiva speculativa, suprema pars e
 
 Expositio textus  
 
-****Diabolus per serpentem tentabat, in quo loquebatur*. Modus quo angeli boni vel mali in assumptis corporibus loqui possunt, supra tactus est.***
+*Diabolus per serpentem tentabat, in quo loquebatur*. Modus quo angeli boni vel mali in assumptis corporibus loqui possunt, supra tactus est.  
 
 *Serpens dictus est esse callidior*. Videtur hoc esse falsum: quia quodcumque animal diabolus assumpsisset, eamdem calliditatem habuisset, si propria calliditate astutus non erat, ut ipse subdit.  
 

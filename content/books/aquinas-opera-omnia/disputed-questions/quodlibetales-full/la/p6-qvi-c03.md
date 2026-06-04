@@ -1,5 +1,7 @@
 # On Man
 
+***De spiritualibus***
+
 ***De sacramentis***
 
 ***Quaestio 3***
@@ -30,7 +32,7 @@ Articulus 1
 
 ***De necessitate baptismi***
 
-***Ad primum sic proceditur. Videtur quod puer ille qui in deserto natus <est> possit absque baptismo salvari in fide parentum.***
+Ad primum sic proceditur. Videtur quod puer ille qui in deserto natus <est> possit absque baptismo salvari in fide parentum.  
 
 Non enim est minoris efficaciae fides tempore gratiae quam tempore legis nature; sed tempore legis naturae salvabantur pueri in fide parentum, ut Gregorius dicit; ergo etiam nunc tempore gratiae.  
 
@@ -54,7 +56,7 @@ Articulus 2
 
 ***De impedimento matrimonii quod provenit ex baptismo***
 
-***Ad secundum sic proceditur. Videtur quod non possit esse matrimonium inter Christianum et Iudaeam baptizatam ab eo, quam carnaliter cognovit post fidem de contrahendo datam.***
+Ad secundum sic proceditur. Videtur quod non possit esse matrimonium inter Christianum et Iudaeam baptizatam ab eo, quam carnaliter cognovit post fidem de contrahendo datam.  
 
 Dicitur enim in *Decretis*, XXX q. 1, quod filius sacerdotis non potest ducere in uxorem puellam quam pater eius baptizavit; ergo multo minus, si ipsemet baptizasset eam, non posset eam habere uxorem; si ergo iste Christianus baptizavit Iudaeam, non potest eam uxorem accipere.  
 
@@ -80,9 +82,9 @@ tertio de quibusdam pertinentibus ad caritatem.
 
 Articulus unicus  
 
-***Utrum scilicet certitudo adhaesionis quae est in haeretico vel malo Catholico sit actus ipsius fidei virtutis***
+Utrum scilicet certitudo adhaesionis quae est in haeretico vel malo Catholico sit actus ipsius fidei virtutis  
 
-***Ad primum sic proceditur. Videtur quod certitudo adhaesionis in haeretico vel malo Catholico sit actus fidei virtutis.***
+Ad primum sic proceditur. Videtur quod certitudo adhaesionis in haeretico vel malo Catholico sit actus fidei virtutis.  
 
 Quia, secundum Philosophum in II *Ethicorum*, tria sunt in anima, potentia, passio et habitus; sed illa certitudo adhaesionis non potest attribui potentiae, quia est meritoria vel demeritoria, potenciis autem non meremur neque demeremur; similiter non potest pertinere ad passiones, quia passiones pertinent ad appetitum sensitivum, qui non potest extendi ad hoc quod inhaereat veritati divine; ergo relinquitur quod pertineat ad aliquem habitum. Sed habitus ad quem pertinet certitudo adhaesionis est virtus fidei. Ergo certitudo adhaesionis in haeretico vel malo Catholico est actus ipsius fidei.  
 
@@ -120,7 +122,7 @@ Articulus 1
 
 ***De celebratione festorum***
 
-***Ad primum sic proceditur. Videtur quod liceat celebrare conceptionem dominae nostrae.***
+Ad primum sic proceditur. Videtur quod liceat celebrare conceptionem dominae nostrae.  
 
 Si enim non licet, hoc non est nisi quia fuit concepta in originali peccato; sed non fuit concepta in originali peccato, ut videtur, quia beata Virgo facta est ut speciali modo esset *habitaculum Dei*; ergo debuit ad hoc specialiter praeparari; non autem praeparata est specialiter secundum corpus, quod conceptum est ex sexuum commixtione, nec etiam quantum ad animam, quia alii etiam leguntur sanctificati in utero; et ita relinquitur quod fuerit specialiter praeparata per immunitatem ab originali peccato. Et sic licet eius conceptionem celebrare.  
 
@@ -138,7 +140,7 @@ Articulus 2
 
 ***De solutione officiorum***
 
-***Ad secundum sic proceditur. Videtur quod clericus beneficiatus teneatur, in scholis existens, dicere officium mortuorum.***
+Ad secundum sic proceditur. Videtur quod clericus beneficiatus teneatur, in scholis existens, dicere officium mortuorum.  
 
 Ille enim qui recipit bona temporalia alicuius, tenetur ei in spiritualibus recompensare; sed iste clericus accipit bona quae fuerunt defunctorum; ergo tenetur pro eis dicere officium mortuorum.  
 
@@ -152,7 +154,7 @@ Articulus 3
 
 ***De collatione beneficiorum***
 
-***Ad tertium sic proceditur. Videtur quod episcopus peccet dans beneficium bono, si praetermittat meliorem.***
+Ad tertium sic proceditur. Videtur quod episcopus peccet dans beneficium bono, si praetermittat meliorem.  
 
 Quia *qui facit contra conscientiam, aedificat ad gehennam*; sed iste episcopus praetermittens meliorem, videtur facere contra conscientiam; ergo peccat mortaliter, aedificans ad gehennam.  
 
@@ -166,7 +168,7 @@ Articulus 4
 
 ***De solutione decimarum***
 
-***Ad quartum sic proceditur. Videtur quod pauper non teneatur decimas solvere diviti sacerdoti.***
+Ad quartum sic proceditur. Videtur quod pauper non teneatur decimas solvere diviti sacerdoti.  
 
 Ideo enim institutum est ut decimae solvantur, ad sustentationem ministrorum Ecclesiae; sed sacerdos dives habet alias unde sustentetur; ergo non sunt ei decimae solvendae, et praecipue a paupere.  
 
@@ -202,9 +204,9 @@ secundo de eleemosyna.
 
 Articulus unicus  
 
-***Utrum scilicet sit magis meritorium obedire praelato vel facere aliquid ad dictum fratris***
+Utrum scilicet sit magis meritorium obedire praelato vel facere aliquid ad dictum fratris  
 
-***Ad primum sic proceditur. Videtur quod magis sit meritorium obedire praelato quam facere aliquid ad dictum fratris.***
+Ad primum sic proceditur. Videtur quod magis sit meritorium obedire praelato quam facere aliquid ad dictum fratris.  
 
 Maiori enim merito maius demeritum opponitur; sed magis demeretur ille qui est inobediens praelato quam ille qui non assentit dicto fratris; ergo et magis meretur aliquis obediendo praelato quam assentiens dicto fratris.  
 
@@ -234,9 +236,9 @@ secundo de eleemosynis quae fiunt pro mortuis.
 
 Articulus unicus  
 
-***Utrum clerici peccant mortaliter si ea quae eis superfluunt, in eleemosynas non largiantur***
+Utrum clerici peccant mortaliter si ea quae eis superfluunt, in eleemosynas non largiantur  
 
-***Ad primum sic proceditur. Videtur quod clerici peccent mortaliter si ea quae eis superfluunt in eleemosynis non largiantur.***
+Ad primum sic proceditur. Videtur quod clerici peccent mortaliter si ea quae eis superfluunt in eleemosynis non largiantur.  
 
 Quia, super illud Lucae III: *qui habet duas tunicas, det non habenti*, dicit Glossa: *de duabus tunicis dividendis datur praeceptum, quia si una dividatur, nemo vestitur in dimidia tunica, et nudus remanet qui accipit et qui dedit*; sed per largitionem unius tunicae intelligitur largitio eorum quae superfluunt ad necessitatem vitae, ut patet per ea quae in eadem Glossa praemittuntur; ergo dare superflua est in praecepto; sed qui transgreditur praeceptum, peccat mortaliter; ergo ille qui non dat superflua pauperibus, peccat mortaliter.  
 
@@ -268,7 +270,7 @@ Quaestio 8
 
 ***De eleemosynis quae fiunt pro mortuis***
 
-***Deinde quaesitum est de eleemosynis quae fiunt pro mortuis. Et circa hoc quaesita sunt duo:***
+Deinde quaesitum est de eleemosynis quae fiunt pro mortuis. Et circa hoc quaesita sunt duo:  
 
 primo, utrum mortuus patiatur aliquod detrimentum si executor eius differat dare eleemosynas quas ipse in testamento dari mandavit;  
 
@@ -276,9 +278,9 @@ secundo, utrum executor licite possit differre distributionem eleemosynarum ad h
 
 Articulus 1  
 
-***Utrum mortuus patiatur aliquod detrimentum si executor eius differat dare eleemosynas quas ipse in testamento dari mandavit***
+Utrum mortuus patiatur aliquod detrimentum si executor eius differat dare eleemosynas quas ipse in testamento dari mandavit  
 
-***Ad primum sic proceditur. Videtur quod mortuus nullum detrimentum sentiat ex hoc quod eleemosynae quas mandavit dari retardantur.***
+Ad primum sic proceditur. Videtur quod mortuus nullum detrimentum sentiat ex hoc quod eleemosynae quas mandavit dari retardantur.  
 
 Huiusmodi enim retardatio provenit ex negligentia executoris; sed negligentia unius non imputatur alteri; ergo nullum detrimentum mortuus patitur ex huiusmodi tarditate.  
 
@@ -294,9 +296,9 @@ Ad primum ergo dicendum quod negligentia unius non imputatur alteri ad poenam; p
 
 Articulus 2  
 
-***Utrum executor licite possit differre distributionem eleemosynarum ad hoc quod res defuncti melius vendantur in posterum***
+Utrum executor licite possit differre distributionem eleemosynarum ad hoc quod res defuncti melius vendantur in posterum  
 
-***Ad secundum sic proceditur. Videtur quod executor debeat tardare distributionem eleemosynarum ad hoc quod res defuncti melius vendantur.***
+Ad secundum sic proceditur. Videtur quod executor debeat tardare distributionem eleemosynarum ad hoc quod res defuncti melius vendantur.  
 
 Quia ex hoc sequitur quod plures eleemosynas poterit facere pro defuncto, ex quibus defunctus magis iuvabitur; ergo, si differat, videtur quod laudabiliter et fideliter hoc faciat.  
 
@@ -322,7 +324,7 @@ Articulus 1
 
 ***De peccato originale***
 
-***Ad primum sic proceditur. Videtur quod ille qui est baptizatus non transmittat peccatum originale in prolem.***
+Ad primum sic proceditur. Videtur quod ille qui est baptizatus non transmittat peccatum originale in prolem.  
 
 In eo enim qui nascitur, tria possunt considerari, scilicet corpus, anima et unio utriusque; sed non contrahit peccatum originale secundum corpus, quod contrahit a parentibus, quia parentes erant totaliter a peccato originali mundati; similiter etiam nec secundum animam, quam habet ex creatione Dei, in quem peccatum non cadit; et per consequens neque etiam secundum unionem utriusque; ergo ille qui nascitur ex baptizatis nullo modo contrahit peccatum originale.  
 
@@ -336,7 +338,7 @@ Articulus 2
 
 ***De peccato actuali in generali***
 
-***Ad secundum sic proceditur. Videtur quod in peccato actuali prius sit aversio quam conversio.***
+Ad secundum sic proceditur. Videtur quod in peccato actuali prius sit aversio quam conversio.  
 
 Aversio enim importat recessum a termino, conversio autem accessum ad terminum; sed in motu corporali prius est recessus a termino quam accessus ad terminum; ergo et in motu spirituali peccati prius est aversio quam conversio.  
 
@@ -350,7 +352,7 @@ Articulus 3
 
 ***Specialiter de mendacio***
 
-***Ad tertium sic proceditur. Videtur quod maius peccatum sit cum aliquis mentitur facto quam cum aliquis mentitur verbo.***
+Ad tertium sic proceditur. Videtur quod maius peccatum sit cum aliquis mentitur facto quam cum aliquis mentitur verbo.  
 
 Maius enim peccatum esse videtur cum aliquis mentiendo abutitur eo cui magis creditur; sed, sicut Anselmus dicit in libro *De veritate*, magis creditur factis quam verbis; ergo gravius peccat qui mentitur factis quam verbis.  
 
@@ -366,9 +368,9 @@ Et per hoc patet responsio ad obiecta.
 
 ***Articulus unicus***
 
-***Utrum scilicet aliquis possit esse naturaliter vel miraculose simul virgo et pater***
+Utrum scilicet aliquis possit esse naturaliter vel miraculose simul virgo et pater  
 
-***Deinde quaesitum est circa corpus hominis, utrum scilicet aliquis possit esse naturaliter vel miraculose simul virgo et pater?***
+Deinde quaesitum est circa corpus hominis, utrum scilicet aliquis possit esse naturaliter vel miraculose simul virgo et pater?  
 
 Et videtur quod hoc possit esse miraculose, quia pater et mater simul sunt generationis principia; sed aliqua mulier miraculose fuit simul virgo et mater; ergo pari ratione aliquis vir miraculose potest simul esse virgo et pater.  
 

@@ -1,5 +1,7 @@
 # On Men
 
+***Quaedam pertinencia ad quosdam hominis excellentioris status***
+
 ***Quaestio 4***
 
 ***Ad doctores***
@@ -22,7 +24,7 @@ Articulus 1
 
 ***Utrum liceat quod aliquis pro se petat licentiam in theologia docendi***
 
-***Ad primum sic proceditur. Videtur quod nemini liceat pro se petere licentiam in theologia docendi.***
+Ad primum sic proceditur. Videtur quod nemini liceat pro se petere licentiam in theologia docendi.  
 
 Doctores enim Sacrae Scripturae adhibentur ministerio verbi Dei, sicut et praelati; sed non licet alicui petere praelationem, immo, ut Gregorius dicit in Registro, recusantibus dignitates ecclesiasticae sunt conferendae, petentibus autem sunt denegandae; ergo neque alicui licet petere cathedram magistralem ad docendum in Sacra Scriptura.  
 
@@ -46,9 +48,9 @@ Ad tertium dicendum quod quicumque non cavet pericula, videtur contemnere id cui
 
 Articulus 2  
 
-***Utrum auditores diversorum magistrorum theologiae habentium contrarias opiniones, excusentur a peccato, si secuntur falsas opiniones magistrorum suorum***
+Utrum auditores diversorum magistrorum theologiae habentium contrarias opiniones, excusentur a peccato, si secuntur falsas opiniones magistrorum suorum  
 
-***Ad secundum sic proceditur. Videtur quod auditores diversorum magistrorum tenentium diversas opiniones, excusentur a peccato erroris si opiniones magistrorum suorum sequantur.***
+Ad secundum sic proceditur. Videtur quod auditores diversorum magistrorum tenentium diversas opiniones, excusentur a peccato erroris si opiniones magistrorum suorum sequantur.  
 
 Dicit enim Dominus, Matthaei XXIII: *super cathedram Moysi sederunt scribae et pharisaei*; *omnia* quae dicunt *vobis servate et facite*; multo igitur magis servanda sunt illa quae traduntur a doctoribus Sacrae Scripturae; igitur non peccant qui eorum opiniones sequuntur.  
 
@@ -84,9 +86,9 @@ quarto, utrum peccent qui aliquem iurare faciunt ne religionem ingrediatur.
 
 Articulus 1  
 
-***Utrum liceat iuvenes inducere ad religionis ingressum per obligationem voti vel iuramenti***
+Utrum liceat iuvenes inducere ad religionis ingressum per obligationem voti vel iuramenti  
 
-***Ad primum sic proceditur. Videtur quod non liceat iuvenes inducere ad religionem voto vel iuramento.***
+Ad primum sic proceditur. Videtur quod non liceat iuvenes inducere ad religionem voto vel iuramento.  
 
 Illicitum enim est contra Ecclesiae prohibitionem agere; sed Innocentius IV prohibuit, in quibusdam litteris ad religiosos directis, huiusmodi voti susceptionem; ergo peccant qui voto vel iuramento aliquos ad religionem obligare praesumunt.  
 
@@ -136,7 +138,7 @@ Articulus 2
 
 ***Utrum sic obligati voto vel iuramento possint absque peccato in saeculo remanere***
 
-***Ad secundum sic proceditur. Videtur quod illi qui obligati sunt voto vel iuramento ad intrandum religionem, non teneantur intrare.***
+Ad secundum sic proceditur. Videtur quod illi qui obligati sunt voto vel iuramento ad intrandum religionem, non teneantur intrare.  
 
 *Omnis* enim *Christi actio, nostra est instructio*. Sed Dominus non imponebat hominibus necessitatem, sed hoc relinquebat eorum libere voluntati; unde dicebat cuidam, ut habetur Matthaei XIX: *si vis ad vitam ingredi, serva mandata*; et iterum: *si vis perfectus esse, vade et vende omnia quae habes et da pauperibus*; et Apostolus dicit, I ad Corinthios VII: *de virginibus autem praeceptum Domini non habeo, consilium autem do*. Ergo videtur quod non ex necessitate teneantur aliqui religionem intrare propter iuramentum vel votum.  
 
@@ -172,7 +174,7 @@ Articulus 3
 
 ***Utrum liceat peccatores ad religionem inducere***
 
-***Ad tertium sic proceditur. Videtur quod illi qui sunt in saeculo peccatores, non sunt ad religionem attrahendi.***
+Ad tertium sic proceditur. Videtur quod illi qui sunt in saeculo peccatores, non sunt ad religionem attrahendi.  
 
 Oportet enim prius exercitari in operibus praeceptorum quam transire ad impletionem consiliorum, ut de minori perveniatur ad maius; sed illi qui sunt peccatores in saeculo, non sunt exercitati in operibus praeceptorum; ergo non sunt attrahendi vel recipiendi in religione, in qua oportet servari consilia.  
 
@@ -194,7 +196,7 @@ Articulus 4
 
 ***Utrum peccent qui aliquem iurare faciunt ne religionem ingrediatur***
 
-***Ad quartum sic proceditur. Videtur quod aliquis absque peccato possit aliquem iuramento astringere ad hoc quod religionem non intret.***
+Ad quartum sic proceditur. Videtur quod aliquis absque peccato possit aliquem iuramento astringere ad hoc quod religionem non intret.  
 
 Quod enim licitum est fieri, licitum est iurare; sed licitum est alicui saeculari quod nunquam religionem intret; ergo licite potest hoc iurare; qui ergo tali iuramento aliquem astringit, non peccat, quia non facit eum iurare aliquid illicitum.  
 
@@ -226,9 +228,9 @@ tertio, utrum status religionis sit perfectior quam status sacerdotum parochiali
 
 Articulus 1  
 
-***Utrum religiosus, qui nihil debet habere in proprio vel communi, possit eleemosynam facere de his quae sibi ab aliis in eleemosynam dantur***
+Utrum religiosus, qui nihil debet habere in proprio vel communi, possit eleemosynam facere de his quae sibi ab aliis in eleemosynam dantur  
 
-***Ad primum sic proceditur. Videtur quod religiosi, qui nihil habent in proprio vel communi, non possint eleemosynam facere quae eis proficiat.***
+Ad primum sic proceditur. Videtur quod religiosi, qui nihil habent in proprio vel communi, non possint eleemosynam facere quae eis proficiat.  
 
 Non enim proficit eleemosyna facienti, nisi debito modo fiat; sed tales religiosi non possunt eleemosynam debito modo facere: debet enim eleemosyna de proprio fieri, secundum illud Tobiae IV: *si multum tibi fuerit, abundanter tribue; si* autem modicum, idipsum *libenter impertiri stude*; ergo tales religiosi, qui nihil suum habent nec in proprio nec in communi, non possunt eleemosynam facere quae eis proficiat; sed, si quam eleemosynam de eleemosynis sibi factis faciant, eis proficit a quibus eleemosynam perceperunt.  
 
@@ -240,9 +242,9 @@ Et per hoc patet responsio ad obiecta.
 
 Articulus 2  
 
-***Utrum aliquis in religione existens, sciens patrem suum gravi necessitate opprimi, possit exire absque licentia praelati sui ut subveniat patri***
+Utrum aliquis in religione existens, sciens patrem suum gravi necessitate opprimi, possit exire absque licentia praelati sui ut subveniat patri  
 
-***Ad secundum sic proceditur. Videtur quod religiosus, si videat patrem suum esse in necessitate, etiam absque praelati sui licentia possit exire claustrum ad subveniendum patri.***
+Ad secundum sic proceditur. Videtur quod religiosus, si videat patrem suum esse in necessitate, etiam absque praelati sui licentia possit exire claustrum ad subveniendum patri.  
 
 Non enim praetermittendum est mandatum Dei propter hominum traditiones, unde Dominus, Matthaei XV, contra quosdam dicit: *irritum fecistis mandatum Dei propter traditiones vestras*; sed ad subveniendum parentibus homo astringitur per hoc praeceptum divinum: *honora patrem tuum et matrem tuam*, in quo quidem honore intelligitur necessariorum subventio; ergo videtur quod non obstantibus religionis observantiis, quae sunt hominum statuta, debeat aliquis religiosus exire claustrum ad subveniendum parentibus secundum praeceptum Dei.  
 
@@ -258,9 +260,9 @@ Ad id vero quod in contrarium obicitur, dicendum quod religiosus tenetur ad impl
 
 Articulus 3  
 
-***Utrum status religionis sit perfectior quam status sacerdotum parochialium et archidiaconorum***
+Utrum status religionis sit perfectior quam status sacerdotum parochialium et archidiaconorum  
 
-***Ad tertium sic proceditur. Videtur quod presbyteri parochiales et archidiaconi sint maioris perfectionis quam religiosi.***
+Ad tertium sic proceditur. Videtur quod presbyteri parochiales et archidiaconi sint maioris perfectionis quam religiosi.  
 
 Dicit enim Crysostomus in suo *Dialogo*: *si talem mihi aliquem adducas monachum qualis, ut secundum exagerationem dicam, Helyas fuit . . . , non tamen illi comparandus est qui traditus populis et multorum peccata ferre compulsus, immobilis perseveravit et fortis*.  
 
@@ -342,7 +344,7 @@ Articulus 1
 
 ***De matrimonio***
 
-***Ad primum sic proceditur. Videtur quod mulier quae post votum continentiae emissum, in facie Ecclesiae contraxit cum aliquo, possit ei postmodum absque peccato carnaliter commisceri.***
+Ad primum sic proceditur. Videtur quod mulier quae post votum continentiae emissum, in facie Ecclesiae contraxit cum aliquo, possit ei postmodum absque peccato carnaliter commisceri.  
 
 Quod enim fit auctoritate Ecclesiae, caret peccato, cum fiat auctoritate Christi, secundum illud Apostoli, II ad Corinthios II: *nam et ego quod donavi, si quid donavi, propter vos in persona Christi*; sed praedicta mulier ex hoc ipso quod in facie Ecclesiae contraxit matrimonium, auctoritate Ecclesiae potestatem accepit ad matrimonii actum, qui est carnalis copula; ergo non peccat, si viro suo carnaliter commisceatur.  
 
@@ -364,7 +366,7 @@ Articulus 2
 
 ***De usura***
 
-***Ad secundum sic proceditur. Videtur quod quicquid aliquis de pecunia usuraria lucratus fuerit, reddere teneatur.***
+Ad secundum sic proceditur. Videtur quod quicquid aliquis de pecunia usuraria lucratus fuerit, reddere teneatur.  
 
 Dicit enim Apostolus ad Romanos XI: *si radix sancta, et rami*; ergo et e contrario, si radix infecta, et rami; sed radix huius lucri est infecta et usuraria; ergo totum est infectum et usurarium; non ergo potest licite huiusmodi lucrum retinere.  
 
@@ -428,7 +430,7 @@ Quaestio 9
 
 ***Quantum ad cognitionem***
 
-***Deinde quaesitum est de anima quantum ad eius cognitionem. Et circa hoc quaesita sunt duo:***
+Deinde quaesitum est de anima quantum ad eius cognitionem. Et circa hoc quaesita sunt duo:  
 
 primo, utrum anima separata a corpore cognoscat aliam animam separatam;  
 
@@ -438,7 +440,7 @@ Articulus 1
 
 ***Utrum anima separata a corpore cognoscat aliam animam separatam***
 
-***Ad primum sic proceditur. Videtur quod anima separata a corpore non cognoscat aliam animam hominis quam in hac vita cognovit.***
+Ad primum sic proceditur. Videtur quod anima separata a corpore non cognoscat aliam animam hominis quam in hac vita cognovit.  
 
 Omnis enim cognitio per aliquam fit similitudinem; sed in una anima non fuit expressa alterius animae similitudo in hac vita, quae possit in ea post mortem remanere; ergo una anima separata non potest aliam cognoscere.  
 
@@ -472,7 +474,7 @@ Articulus 2
 
 ***Utrum liceat ab aliquo moriente exigere ut statum suum post mortem denuntiet***
 
-***Ad secundum sic proceditur. Videtur quod non liceat ab aliquo moriente requirere quod revelet statum suum post mortem.***
+Ad secundum sic proceditur. Videtur quod non liceat ab aliquo moriente requirere quod revelet statum suum post mortem.  
 
 Non enim licet inquirere quae Deus vult esse abscondita, secundum illud Ecclesiastici III: *altiora te ne quaesieris*; sed Deus vult esse absconditum statum animae post mortem, quod patet ex hoc quod diviti petenti ut Lazarus mitteretur ad fratres suos viventes, est hoc denegatum, sicut dicitur Lucae XVI; non ergo licet hoc a morientibus requirere.  
 
@@ -496,7 +498,7 @@ Articulus 1
 
 ***Utrum anima possit pati ab igne corporeo***
 
-***Ad primum sic proceditur. Videtur quod anima separata non possit pati ab igne corporeo.***
+Ad primum sic proceditur. Videtur quod anima separata non possit pati ab igne corporeo.  
 
 Actio enim agentis est proportionata passioni patientis; sed actio ignis, cum sit corpus physicum, est actio naturalis, quae consistit in movere; ergo nihil patitur ab igne corporeo nisi quod movetur; sed anima non movetur, cum sit inpartibilis, nihil autem inpartibile movetur, ut probatur in VI *Physicorum*; ergo anima non patitur ab igne corporeo.  
 
@@ -510,9 +512,9 @@ Unde patet responsio ad id quod in contrarium obiciebatur, quod procedit de acti
 
 Articulus 2  
 
-***Utrum damnati in inferno gaudeant de poenis inimicorum suorum quos vident secum puniri***
+Utrum damnati in inferno gaudeant de poenis inimicorum suorum quos vident secum puniri  
 
-***Ad secundum sic proceditur. Videtur quod dampati in inferno gaudeant et consolentur de poenis inimicorum suorum quos secum vident in inferno puniri.***
+Ad secundum sic proceditur. Videtur quod dampati in inferno gaudeant et consolentur de poenis inimicorum suorum quos secum vident in inferno puniri.  
 
 Quia, super illud Isaiae XIV: *omnes principes terrae surrexerunt de soliis suis*, dicit Glossa Ieronimi quod *solatium est* malis *inimicos* suos *socios habere poenarum*.  
 
@@ -536,7 +538,7 @@ Et per hoc patet responsio ad obiecta.
 
 ***Quantum ad corporis sexum***
 
-***Deinde quaesitum est de homine quantum ad corporis sexum, utrum scilicet si primus homo non peccasset, tot fuissent nati mares quot feminae. Et videtur quod sic.***
+Deinde quaesitum est de homine quantum ad corporis sexum, utrum scilicet si primus homo non peccasset, tot fuissent nati mares quot feminae. Et videtur quod sic.  
 
 *In paradiso* enim ubi, secundum Augustinum, fuisset *thorus inmaculatus et nuptiae honorabiles*, nullus continuisset, sed omnes matrimonio usi fuissent, ut implerent praeceptum Domini primis hominibus datum: *crescite et multiplicamini et replete terram*, ut habetur Genesis I; sed in statu innocentiae nullus masculus habuisset plures uxores nec aliqua mulier plures viros, nec aliquis aut aliqua mortem subiisset; ergo sequitur quod tot mares nascerentur quot feminae.  
 
@@ -590,7 +592,7 @@ Articulus 2
 
 ***Utrum conscientia erronea liget***
 
-***Ad secundum sic proceditur. Videtur quod conscientia erronea non liget ad peccatum.***
+Ad secundum sic proceditur. Videtur quod conscientia erronea non liget ad peccatum.  
 
 Ut enim Augustinus dicit, XXII *Contra Faustum*, omne peccatum est *contra legem aeternam*, quae est lex Dei; sed quandoque conscientia errans prohibet id quod non est contra legem Dei, sicut patet in hereticis qui, conscientia erronea prohibente, nolunt iurare nec comedere carnes aut bibere vinum; non ergo est eis peccatum, si contra conscientiam hoc faciant; et ita conscientia erronea non obligat ad peccatum.  
 
@@ -620,9 +622,9 @@ secundo, utrum ei qui praetermisit divinum officium dicere cum teneretur ad ipsu
 
 Articulus 1  
 
-***Utrum si aliquis sacerdos poenitenti dicat: quicquid boni feceris sit tibi in remissionem peccatorum, sit satisfactio sacramentalis***
+Utrum si aliquis sacerdos poenitenti dicat: quicquid boni feceris sit tibi in remissionem peccatorum, sit satisfactio sacramentalis  
 
-***Ad primum sic proceditur. Videtur quod praedicta satisfactio non sit sacramentalis.***
+Ad primum sic proceditur. Videtur quod praedicta satisfactio non sit sacramentalis.  
 
 Sacramentalis enim satisfactio ad aliquid ligat; sed ille cui praedictus modus satisfactionis indicitur, ad nihil ligatur; ergo videtur quod non sit sacramentalis satisfactio.  
 
@@ -642,9 +644,9 @@ Et per hoc patet responsio ad obiecta.
 
 Articulus 2  
 
-***Utrum ei qui praetermisit divinum officium dicere cum teneretur ad ipsum, possit imponi alia poenitentia pro tali omissione, vel sit ei imponendum quod iteret quod omisit***
+Utrum ei qui praetermisit divinum officium dicere cum teneretur ad ipsum, possit imponi alia poenitentia pro tali omissione, vel sit ei imponendum quod iteret quod omisit  
 
-***Ad secundum sic proceditur. Videtur quod ei qui omisit dicere divinum officium sit iniungendum quod iterato dicat.***
+Ad secundum sic proceditur. Videtur quod ei qui omisit dicere divinum officium sit iniungendum quod iterato dicat.  
 
 Qui enim tenetur ad aliquod debitum speciale implendum, non potest liberari nisi idem debitum solvat. Si igitur aliquis tenebatur ad hoc debitum, ut scilicet divinum officium diceret, videtur quod non posset absolvi nisi hoc debitum solvat.  
 

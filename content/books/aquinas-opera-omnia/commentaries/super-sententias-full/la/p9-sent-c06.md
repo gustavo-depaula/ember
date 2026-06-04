@@ -1,6 +1,8 @@
 # D. 31 - On the goods of marriage and the marital act
 
-***Postquam determinavit Magister de causis quibus constituitur matrimonium ipsum, hic determinat de causis honestatis ipsius; scilicet de bonis conjugii, quibus actus matrimonii honestatur; et dividitur in partes duas: in prima determinat de bonis matrimonii quantum ad matrimonium, secundum quod nunc agitur; in secunda ostendit quomodo hujusmodi bona erant in matrimonio antiquorum patrum, 33 dist. ibi: *quaeritur hic de antiquis patribus*, etc.***
+***De bonis coniugii et actu matrimonii***
+
+Postquam determinavit Magister de causis quibus constituitur matrimonium ipsum, hic determinat de causis honestatis ipsius; scilicet de bonis conjugii, quibus actus matrimonii honestatur; et dividitur in partes duas: in prima determinat de bonis matrimonii quantum ad matrimonium, secundum quod nunc agitur; in secunda ostendit quomodo hujusmodi bona erant in matrimonio antiquorum patrum, 33 dist. ibi: *quaeritur hic de antiquis patribus*, etc.  
 
 Prima in duas: in prima determinat de bonis conjugii, quibus matrimonii actus excusatur; in secunda determinat de actu matrimonii, qui per bona praedicta excusatur, secundum quod insuper habet rationem debiti; 32 dist., ibi: *sciendum est etiam, quia cum in omnibus aliis vir praesit mulieri . . . in solvendo tamen carnis debito pares sunt*.  
 
@@ -34,7 +36,7 @@ primo, utrum debeant esse aliqua bona ad excusandum matrimonium;
 
 ***Utrum debeant esse aliqua bona ad excusandum matrimonium***
 
-***Ad primum sic proceditur. Videtur quod matrimonium non debeat habere aliqua bona quibus excusetur. Sicut enim conservatio individui, quae fit per ea quae ad nutritivam pertinent, est de intentione naturae; ita conservatio speciei, quae fit per matrimonium; et multo magis, quanto melius et divinius est bonum speciei quam bonum unius individui. Sed ad actum nutritivae excusandum non indigetur aliquibus. Ergo nec etiam ad excusandum matrimonium.***
+Ad primum sic proceditur. Videtur quod matrimonium non debeat habere aliqua bona quibus excusetur. Sicut enim conservatio individui, quae fit per ea quae ad nutritivam pertinent, est de intentione naturae; ita conservatio speciei, quae fit per matrimonium; et multo magis, quanto melius et divinius est bonum speciei quam bonum unius individui. Sed ad actum nutritivae excusandum non indigetur aliquibus. Ergo nec etiam ad excusandum matrimonium.  
 
 Praeterea, secundum Philosophum, in 8 *Ethicor*., amicitia quae est inter virum et uxorem, est naturalis, et claudit in se honestum, utile et delectabile. Sed illud quod de se est honestum, non indiget aliqua excusatione. Ergo nec bona excusantia debent matrimonio attribui.  
 
@@ -60,7 +62,7 @@ Articulus 2
 
 ***Quae et quot sint***
 
-***Ad secundum sic proceditur. Videtur quod insufficienter bona matrimonii assignentur in littera; scilicet fides, proles, et sacramentum. Quia matrimonium non solum fit in hominibus ad prolem procreandam et nutriendam; sed ad consortium communis vitae propter operum communicationem, ut dicitur in 8 *Ethic*. Ergo sicut ponitur proles bonum matrimonii, ita deberet poni communicatio operum.***
+Ad secundum sic proceditur. Videtur quod insufficienter bona matrimonii assignentur in littera; scilicet fides, proles, et sacramentum. Quia matrimonium non solum fit in hominibus ad prolem procreandam et nutriendam; sed ad consortium communis vitae propter operum communicationem, ut dicitur in 8 *Ethic*. Ergo sicut ponitur proles bonum matrimonii, ita deberet poni communicatio operum.  
 
 Praeterea, conjunctio Christi ad Ecclesiam, quam matrimonium significat, perficitur per caritatem. Ergo inter bona matrimonii magis deberet poni caritas quam fides.  
 
@@ -94,7 +96,7 @@ Articulus 3
 
 ***Qualiter ad matrimonium se habeant***
 
-***Ad tertium sic proceditur. Videtur quod sacramentum non sit principalius inter matrimonii bona. Quia finis est potissimum in unoquoque. Sed proles est matrimonii finis. Ergo proles est principalius matrimonii bonum.***
+Ad tertium sic proceditur. Videtur quod sacramentum non sit principalius inter matrimonii bona. Quia finis est potissimum in unoquoque. Sed proles est matrimonii finis. Ergo proles est principalius matrimonii bonum.  
 
 Praeterea, principalius est in ratione speciei differentia, quae complet speciem, quam genus; sicut forma quam materia in constitutione rei naturalis. Sed sacramentum competit matrimonio ex ratione sui generis; proles autem et fides ex ratione differentiae, inquantum est tale sacramentum. Ergo alia duo sunt magis principalia in matrimonio quam sacramentum.  
 
@@ -126,17 +128,16 @@ Quaestio 2
 
 ***De actu matrimoniali***
 
-***Deinde quaeritur qualiter per bona praedicta matrimonium excusetur; et circa hoc quaeruntur tria:***
+Deinde quaeritur qualiter per bona praedicta matrimonium excusetur; et circa hoc quaeruntur tria:  
 
 primo, utrum praedicta bona possint excusare actum matrimonii, ut non sit omnino peccatum;  
 
 - secundo, utrum sine eis a peccato aliquando excusari possit;
 - tertio, utrum quando est sine eis, semper sit peccatum mortale.
 - Articulus 1
+Utrum praedicta bona possint excusare actum matrimonii, ut non sit omnino peccatum  
 
-***Utrum praedicta bona possint excusare actum matrimonii, ut non sit omnino peccatum***
-
-***Ad primum sic proceditur. Videtur quod actus matrimonii non possit excusari per bona praedicta, ut non sit omnino peccatum. Quia quicumque sustinet damnum majoris boni propter minus bonum, peccat, quia inordinate sustinet. Sed bonum rationis, quod laeditur in ipso actu conjugali, est majus quam haec tria conjugii bona. Ergo praedicta bona non sufficiunt ad excusandum conjugalem concubitum.***
+Ad primum sic proceditur. Videtur quod actus matrimonii non possit excusari per bona praedicta, ut non sit omnino peccatum. Quia quicumque sustinet damnum majoris boni propter minus bonum, peccat, quia inordinate sustinet. Sed bonum rationis, quod laeditur in ipso actu conjugali, est majus quam haec tria conjugii bona. Ergo praedicta bona non sufficiunt ad excusandum conjugalem concubitum.  
 
 Praeterea, si bonum malo addatur in genere moris, totum efficitur malum; non autem totum bonum: quia una circumstantia mala facit actum malum, non autem una bona facit ipsum bonum. Sed actus conjugalis secundum se malus est, alias excusatione non indigeret. Ergo bona matrimonii adjuncta non possunt ipsum bonum facere.  
 
@@ -162,7 +163,7 @@ Articulus 2
 
 ***Utrum sine eis a peccato aliquando excusari possit***
 
-***Ad secundum sic proceditur. Videtur quod actus matrimonii excusari possit etiam sine matrimonii bonis. Qui enim a natura tantum movetur ad actum matrimonii, non videtur aliquod bonum intendere; quia bona matrimonii pertinent ad gratiam vel virtutem. Sed quando aliquis solo naturali appetitu movetur ad actum praedictum, non videtur esse peccatum: quia nullum naturale est malum, cum malum sit praeter naturam et praeter ordinem, ut dicit Dionysius. Ergo actus matrimonialis potest excusari etiam sine bonis matrimonii.***
+Ad secundum sic proceditur. Videtur quod actus matrimonii excusari possit etiam sine matrimonii bonis. Qui enim a natura tantum movetur ad actum matrimonii, non videtur aliquod bonum intendere; quia bona matrimonii pertinent ad gratiam vel virtutem. Sed quando aliquis solo naturali appetitu movetur ad actum praedictum, non videtur esse peccatum: quia nullum naturale est malum, cum malum sit praeter naturam et praeter ordinem, ut dicit Dionysius. Ergo actus matrimonialis potest excusari etiam sine bonis matrimonii.  
 
 Praeterea, ille qui utitur conjuge ad fornicationem vitandam, non videtur aliquod bonum matrimonii intendere. Sed talis non peccat, ut videtur, quia ad hoc est matrimonium concessum humanae infirmitati, ut fornicatio vitetur: 1 Cor. 7. Ergo etiam sine bonis matrimonii potest actus ejus esse excusatus.  
 
@@ -188,7 +189,7 @@ Articulus 3
 
 ***Utrum quando est sine eis, semper sit peccatum mortale***
 
-***Ad tertium sic proceditur. Videtur quod quandocumque aliquis uxorem cognoscit non intendens aliquod matrimonii bonum, sed solam delectationem, mortaliter peccet. Quia Hieronymus dicit, et habetur in littera: *voluptates quae de meretricum amplexibus capiuntur, in uxore damnandae sunt*. Sed non dicitur esse damnabile nisi peccatum mortale. Ergo cognoscere uxorem propter solam voluptatem, est peccatum mortale semper.***
+Ad tertium sic proceditur. Videtur quod quandocumque aliquis uxorem cognoscit non intendens aliquod matrimonii bonum, sed solam delectationem, mortaliter peccet. Quia Hieronymus dicit, et habetur in littera: *voluptates quae de meretricum amplexibus capiuntur, in uxore damnandae sunt*. Sed non dicitur esse damnabile nisi peccatum mortale. Ergo cognoscere uxorem propter solam voluptatem, est peccatum mortale semper.  
 
 Praeterea, consensus in delectationem est peccatum mortale, ut in 2 Lib., dist. 24, qu. 2, art. 2, in corp., dictum est. Sed quicumque cognoscit uxorem suam causa delectationis, consentit in delectationem. Ergo mortaliter peccat.  
 
@@ -214,7 +215,7 @@ Ad quartum dicendum, quod hoc non dicitur propter hoc quod ex hoc peccato homo e
 
 Expositio textus  
 
-****Solet quaeri, cum masculus et femina, nec ille maritus nec illa uxor alterius . . . pro incontinentia solius concubitus causa copulantur*. De hoc in praecedenti dist. dictum est, quoniam malus finis bonitatem matrimonii non tollit.***
+*Solet quaeri, cum masculus et femina, nec ille maritus nec illa uxor alterius . . . pro incontinentia solius concubitus causa copulantur*. De hoc in praecedenti dist. dictum est, quoniam malus finis bonitatem matrimonii non tollit.  
 
 *Qui vero venena sterilitatis procurant, non conjuges, sed fornicarii sunt*. Hoc peccatum quamvis sit grave, et inter maleficia computandum, et contra naturam, quia etiam bestiae fetus expectant; tamen est minus quam homicidium; quia adhuc poterat alio modo impediri conceptus. Nec est judicandus talis irregularis, nisi jam formato puerperio abortum procuret.  
 

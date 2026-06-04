@@ -1,10 +1,12 @@
 # C. 3 - Israel and Judah as adulteresses
 
+***Israel and Judah as adulteresses***
+
 ***Lecture 1***
 
 ***Mercy upon the adulteress***
 
-***^3:1^ It is said commonly, if a man shall send his wife away, and she, departing from him, marry another man, can he return to her again? Will not that woman be unclean and defiled? Though you have fornicated with your many lovers, still, return to me, says the Lord, and I will take you.***
+^3:1^ It is said commonly, if a man shall send his wife away, and she, departing from him, marry another man, can he return to her again? Will not that woman be unclean and defiled? Though you have fornicated with your many lovers, still, return to me, says the Lord, and I will take you.  
 
 > ^3:2^ Lift up your eyes on high, and see where you have not lain. You would sit by the roads waiting them as a thief in the desert; you have defiled the land with your fornications, and your iniquities.
 
@@ -64,7 +66,7 @@ Lecture 2
 
 ***Israel’s contempt***
 
-***^3:5b^ Behold you have spoken, and you have done wickedness, and you were able.Heb. וַתּוּכָל: *and you were able*. In the Masoretic text, this word is separated from the preceding word, הָרָע֖וֹת, by the disjunctive accent, *tipchah*, giving the reading: *you have done evil things, as you have been able*.***
+^3:5b^ Behold you have spoken, and you have done wickedness, and you were able.Heb. וַתּוּכָל: *and you were able*. In the Masoretic text, this word is separated from the preceding word, הָרָע֖וֹת, by the disjunctive accent, *tipchah*, giving the reading: *you have done evil things, as you have been able*.  
 
 > ^3:6a^ The Lord said to me in the days of Josiah the king: have you not seen what rebellious Israel has done?
 
@@ -74,7 +76,7 @@ Lecture 3
 
 ***Judah and Israel’s adultery***
 
-***^3:6b^ She has gone away upon every high mountain, and under every green tree, and fornicated there.***
+^3:6b^ She has gone away upon every high mountain, and under every green tree, and fornicated there.  
 
 > ^3:7^ And I said when she had done all these things, ‘Return to me,’ but she did not return. And Judah her treacherous sister saw,
 
@@ -108,7 +110,7 @@ Lecture 4
 
 ***Call to return***
 
-***^3:12^ Go and shout these words against the north wind,Heb. צָפוֹנָה: *to the north*. and say: return rebellious Israel, says the Lord, and I will not turn my face away from you, because I am holy,Heb. חָסִיד: *merciful*. says the Lord, and I will not be angry forever.***
+^3:12^ Go and shout these words against the north wind,Heb. צָפוֹנָה: *to the north*. and say: return rebellious Israel, says the Lord, and I will not turn my face away from you, because I am holy,Heb. חָסִיד: *merciful*. says the Lord, and I will not be angry forever.  
 
 > ^3:13^ But recognize your iniquity, that you have rebelled against the Lord your God, and scattered your ways to strangers under every green tree, and have not listened to my voice, says the Lord.
 
@@ -138,7 +140,7 @@ Lecture 5
 
 ***Promise of shepherds***
 
-***^3:14b^ And I will take you, one from a city and two from a family, and I will lead you into Zion.***
+^3:14b^ And I will take you, one from a city and two from a family, and I will lead you into Zion.  
 
 > ^3:15^ And I will give you shepherds after my own heart, and they will feed you with knowledge and understanding.
 
@@ -166,7 +168,7 @@ Lecture 6
 
 ***Reason for mercy***
 
-***^3:19^ But I said: how shall I set you among the sons, and give you a desirable land, an excellent inheritance from among the hosts of the nations?Although Jerome translates this phrase as a question, it is more likely an exclamation: *how I would set you among the sons*, etc. And I said: you will call me ‘Father,’ and you will not cease to walk after me.***
+^3:19^ But I said: how shall I set you among the sons, and give you a desirable land, an excellent inheritance from among the hosts of the nations?Although Jerome translates this phrase as a question, it is more likely an exclamation: *how I would set you among the sons*, etc. And I said: you will call me ‘Father,’ and you will not cease to walk after me.  
 
 > **21**. Here, he gives the reason for their being called back.
 
@@ -178,7 +180,7 @@ Lecture 7
 
 ***Shame after conversion***
 
-***^3:20^ But as a woman that despises her lover, so has the house of Israel despised me, says the Lord.***
+^3:20^ But as a woman that despises her lover, so has the house of Israel despised me, says the Lord.  
 
 > ^3:21^ A voice was heard on the roads, the crying and the wailing of the children of Israel, for they have made their way wicked, and have forgotten the Lord their God.
 
@@ -210,6 +212,6 @@ Third, they confess their guilt and their punishment, and that of their fathers:
 
 Collations  
 
-***Note that God is called ***father*** (Jer 3:4) from his act of creating: *I confess to you Father, Lord of heaven and earth* (Matt 11:25). By adoption: *you have received the spirit of adoption of the sons of God, in whom we cry, Abba Father* (Rom 8:15). By instruction: *the father shall make known to his sons your truth* (Isa 38:19). By correction: *for whom the Lord loves, he chastens, and as a father a son in whom he delights* (Prov 3:12).***
+Note that God is called ***father*** (Jer 3:4) from his act of creating: *I confess to you Father, Lord of heaven and earth* (Matt 11:25). By adoption: *you have received the spirit of adoption of the sons of God, in whom we cry, Abba Father* (Rom 8:15). By instruction: *the father shall make known to his sons your truth* (Isa 38:19). By correction: *for whom the Lord loves, he chastens, and as a father a son in whom he delights* (Prov 3:12).  
 
 Note that the ***inheritance*** (Jer 3:19) of the heavenly homeland is in the bright splendor of the divine vision: *wisdom is bright and never fading, and easily seen by those who love her* (Wis 6:12). In the sweetness of divine love: *my intoxicating cup*—*how excellent it is* (Ps 23:5).Heb. כּוֹסִי רְוָיָה: *my cup overflows*. In familiarity with divine address: *renown in sharing her words* (Wis 8:18). In the magnificence of his work: *there are great and wondrous works* (Sir 43:27). In the greatness of exultation: *the house of Judah and the house of Israel will be for a blessing* (Zech 8:13). In the consolation of fellowship: *every tree of pleasure which was in the paradise of God* (Ezek 31:9).

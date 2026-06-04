@@ -1,8 +1,10 @@
 # Chapter 10
 
+***Term 1***
+
 ***We Praise***
 
-***We praise virtue on account of its works and actions. We also praise the physically strong and swift.***
+We praise virtue on account of its works and actions. We also praise the physically strong and swift.  
 
 If the gods were praised by our standards, it would be a mockery.  
 
@@ -10,7 +12,7 @@ Term 2
 
 ***Praise***
 
-***Praise is not one of the greatest things, like happiness, but it is one of those greater, and better things.***
+Praise is not one of the greatest things, like happiness, but it is one of those greater, and better things.  
 
 Praise belongs to virtue and virtue's works  
 
@@ -32,7 +34,7 @@ Term 5
 
 ***The Law***
 
-***Lawmakers punish those who do evil works, but they honour those who do good works.***
+Lawmakers punish those who do evil works, but they honour those who do good works.  
 
 It is proper to the lawmaker to judge what is voluntary and involuntary.  
 
@@ -60,7 +62,7 @@ Term 6
 
 ***The Law***
 
-***We are in need of laws our whole life, because many are more likely to obey a dictate of necessity rather than an exhortation.***
+We are in need of laws our whole life, because many are more likely to obey a dictate of necessity rather than an exhortation.  
 
 Some say that legislators and lawmakers ought to urge men for the sake of the good to virtue by offering rewards for those who are obedient by preexisting good ways of living, and meeting out punishments for those who do not obey, and banishing those entirely beyond help.  
 
@@ -106,7 +108,7 @@ Term 9
 
 ***The Generous Man***
 
-***The generous man is praised as in giving and receiving money, mostly in giving. He is not praised with respect to military matters, or in enjoying or restraint from pleasures, or in judicial concerns.***
+The generous man is praised as in giving and receiving money, mostly in giving. He is not praised with respect to military matters, or in enjoying or restraint from pleasures, or in judicial concerns.  
 
 The man who best uses wealth is generous, which is is the subject of liberality.  
 
@@ -154,19 +156,19 @@ Term 10
 
 ***The Spartans***
 
-***The Spartans did not recount the services they rendered to the Athenians, since they did not hear freely.***
+The Spartans did not recount the services they rendered to the Athenians, since they did not hear freely.  
 
 Term 11  
 
 ***The Man with the Stone***
 
-***The man who lets go of a stone does so willingly, but he cannot get it back by willing it, so it is with the just man.***
+The man who lets go of a stone does so willingly, but he cannot get it back by willing it, so it is with the just man.  
 
 Term 12  
 
 ***The Lion***
 
-***The lion does not rejoice at hearing the ox, but in eating it, when he hears it low he knows it is near.***
+The lion does not rejoice at hearing the ox, but in eating it, when he hears it low he knows it is near.  
 
 Term 13  
 
@@ -184,7 +186,7 @@ Term 15
 
 ***The Lustful***
 
-***If a man commits adultery for the sake of some gain, he is not a lustful, but covetous. But he who does so with much lusting is more lusftul than covetous.***
+If a man commits adultery for the sake of some gain, he is not a lustful, but covetous. But he who does so with much lusting is more lusftul than covetous.  
 
 ***Amusement***
 

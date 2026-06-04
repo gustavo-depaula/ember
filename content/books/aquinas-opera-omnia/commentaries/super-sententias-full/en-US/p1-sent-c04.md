@@ -1,8 +1,10 @@
 # D. 3 - Knowledge of the Creator through the created
 
+***Knowledge of the Creator through the created***
+
 ***Division of the first part of the text***
 
-***In this part, the Master shows the unity of essence and the Trinity of persons through arguments and certain likenesses. It is divided into two parts: in the first, he shows the unity of the divine essence through natural arguments; in the second, he shows the Trinity of persons through likenesses in created things, at *now it remains to show whether it may have been possible to obtain some indication, if a small one, of the Trinity through those things which are made*.*Sent*. I, 3.1(9).7.***
+In this part, the Master shows the unity of essence and the Trinity of persons through arguments and certain likenesses. It is divided into two parts: in the first, he shows the unity of the divine essence through natural arguments; in the second, he shows the Trinity of persons through likenesses in created things, at *now it remains to show whether it may have been possible to obtain some indication, if a small one, of the Trinity through those things which are made*.*Sent*. I, 3.1(9).7.  
 
 As regards the first he does three things.  
 
@@ -50,7 +52,7 @@ Article 1
 
 ***Whether God can be known by a created intellect***
 
-***To the first we proceed as follows.Parallel texts: *In III Sent*., d. 27, q. 3, a. 1; *ST* I.12.7 and 12; I.32.1; I.86.2, ad 1; *SCG* IV.1; *Commentary on Boethius’s On the Trinity*, q. 1, a. 2; *Commentary on Romans*, ch. 1, lect. 6. It seems that God is not knowable by any created intellect.***
+To the first we proceed as follows.Parallel texts: *In III Sent*., d. 27, q. 3, a. 1; *ST* I.12.7 and 12; I.32.1; I.86.2, ad 1; *SCG* IV.1; *Commentary on Boethius’s On the Trinity*, q. 1, a. 2; *Commentary on Romans*, ch. 1, lect. 6. It seems that God is not knowable by any created intellect.  
 
 Obj. 1: For Dionysius saysPseudo-Dionysius, *On the Divine Names*, ch. 1, para. 1 (PG 3:587). that we can neither speak of nor understand God. He proves this as follows: knowledge is only of existing things, but God is above all existing things. Therefore he is above knowledge.  
 
@@ -88,7 +90,7 @@ Article 2
 
 ***Whether the existence of God is known through himself***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.2.1; *SCG* I.10, 11; III.38; *On Truth*, q. 10, a. 12; *On the Power of God*, q. 7, a. 2, ad 11; *Commentary on Psalms*, Psalm 52; *Commentary on Boethius’s On the Trinity*, q. 1, a. 3, ad 6. It seems that God is known through himself.***
+To the second we proceed as follows.Parallel texts: *ST* I.2.1; *SCG* I.10, 11; III.38; *On Truth*, q. 10, a. 12; *On the Power of God*, q. 7, a. 2, ad 11; *Commentary on Psalms*, Psalm 52; *Commentary on Boethius’s On the Trinity*, q. 1, a. 3, ad 6. It seems that God is known through himself.  
 
 Obj. 1: For those things are called “known through themselves” the knowledge of which is naturally implanted in us, such as every whole is greater than its part. But the knowledge of the existence of God, according to Damascene,John Damascene, *On the Orthodox Faith*, bk. 1, ch. 1 (PG 94:790). is naturally implanted in all. Therefore the existence of God is known through itself.  
 
@@ -120,7 +122,7 @@ Article 3
 
 ***Whether God can be known by man through created things***
 
-***To the third we proceed as follows. It appears that man can know God through created things.***
+To the third we proceed as follows. It appears that man can know God through created things.  
 
 Obj. 1: For *through the things that were made, the invisible things of God, when understood, are seen by a creature of the world* (Rom 1:20).RSV: *ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made*. Now, the creature is said to be man, according to the Master’s interpretation.*Sent*. I, 3.1(9).1. Therefore God can be known by man through created things.  
 
@@ -158,9 +160,9 @@ Reply Sed Contra 8: Ambrose is speaking of the vision of God through his essence
 
 Article 4  
 
-***Whether philosophers by means of natural knowledge came to the Trinity from created things***
+Whether philosophers by means of natural knowledge came to the Trinity from created things  
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.32.1; *On Truth*, q. 10, a. 13; *Commentary on Boethius’s On the Trinity*, q. 1, a. 4; *Commentary on Romans*, ch. 1, lect. 6. It appears that by natural knowledge the philosophers did come to the Trinity from created things.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.32.1; *On Truth*, q. 10, a. 13; *Commentary on Boethius’s On the Trinity*, q. 1, a. 4; *Commentary on Romans*, ch. 1, lect. 6. It appears that by natural knowledge the philosophers did come to the Trinity from created things.  
 
 Obj. 1: For Aristotle says that *through this number*, namely three, *we apply ourselves to magnifying the one God by way of the properties of things that have been created*.Aristotle, *On the Heavens* 1.1, 268a15. So too Plato said many things about a father intellect,Plato, *Parmenides*; see also Augustine, *Confessions*, bk. 7, ch. 9 (CCSL 27; PL 32:740‒41). as did many other philosophers.  
 
@@ -198,7 +200,7 @@ Article 1
 
 ***Whether the Creator’s likeness in created things can be called a vestige***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.45.7; 93.6; *SCG* IV.26; *On the Power of God*, q. 9, a. 9. It seems that the likeness of the Creator that is found in what is created cannot be called a vestige.***
+To the first we proceed as follows.Parallel texts: *ST* I.45.7; 93.6; *SCG* IV.26; *On the Power of God*, q. 9, a. 9. It seems that the likeness of the Creator that is found in what is created cannot be called a vestige.  
 
 Obj. 1: For one investigates a thing through its vestige, or trace.The primary meaning of *vestigium* is footprint, or track, but the general sense of it is “trace,” “vestige,” or any mark left behind by an agent that vaguely indicates the shape or at least presence of that agent. See the body of the article that follows. But the divine majesty cannot be investigated; whence Romans 11:33 says, *O the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how incapable of investigation his ways!*What here is translated “incapable of investigation” is literally “incapable of being a vestige”; RSV: *inscrutable*. And Psalm 77:19 [76:20] says, *and thy vestiges will not be known*.RSV: *footprints*. Therefore it seems that the likeness of the Creator in the created is not a vestige.  
 
@@ -222,7 +224,7 @@ Article 2
 
 ***Whether a vestige has three parts or only two***
 
-***To the second we proceed as follows. It seems that there should be only two parts of a vestige.***
+To the second we proceed as follows. It seems that there should be only two parts of a vestige.  
 
 Obj. 1: For a vestige is a certain property of a created thing, but a created thing has only two essential parts: matter and form. Therefore it seems that, in accordance with these two parts, there are only two parts of a vestige.  
 
@@ -252,7 +254,7 @@ Article 3
 
 ***Whether there is a vestige in every created thing***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.45.7; 93.6; *SCG* IV.26; *On the Power of God*, q. 9, a. 9. It seems there is not a vestige in every created thing.***
+To the third we proceed as follows.Parallel texts: *ST* I.45.7; 93.6; *SCG* IV.26; *On the Power of God*, q. 9, a. 9. It seems there is not a vestige in every created thing.  
 
 Obj. 1: For the likeness of a vestige is divided against the likeness of an image. But there are some created things in which there is the likeness of an image, like in man. Therefore a vestige is not in them.  
 
@@ -284,7 +286,7 @@ Or second, it can be considered according to its inclination to its object—and
 
 Exposition of the first part of the text  
 
-****Invisible things of God*,*Sent*. I, 3.1(9).1, quoting Romans 1:20: *from the creation of the world his invisible things of God, namely, his eternal power and deity, has been clearly perceived in the things that have been made*. refers to the attributes by which God is perfect in himself; *power* is mentioned in reference to his production of created things; *divinity* is mentioned insofar as created things return to him as to their end. Or, *invisible things* refers to his activities, which are invisible, *power* to his might, and *divinity* to his essence.***
+*Invisible things of God*,*Sent*. I, 3.1(9).1, quoting Romans 1:20: *from the creation of the world his invisible things of God, namely, his eternal power and deity, has been clearly perceived in the things that have been made*. refers to the attributes by which God is perfect in himself; *power* is mentioned in reference to his production of created things; *divinity* is mentioned insofar as created things return to him as to their end. Or, *invisible things* refers to his activities, which are invisible, *power* to his might, and *divinity* to his essence.  
 
 *Because of the excellence by which man stands above all other creatures*.*Sent*. I, 3.1(9).1. On the contrary, an angel is more excellent than man, as it says in the Psalm: *you have made him a little less than the angels* (Ps 8:5 [6]).RSV: *thou hast made him little less than God*. To this I say that man and angel can be considered in three ways: either through their relation to the end—and thus they are equal, for men will be as the angels in heaven, as is said in Matthew 22:30; with respect to the divine restoration—and thus man is greater than an angel, insofar as human nature has been assumed into the unity of a divine person; or with respect to each nature in itself—and thus the angel’s nature is nobler. Or one could say that the *world* hereRomans 1:20. is taken only as containing visible things, and in this way an angel is not counted among the creatures of the world that man exceeds.  
 
@@ -294,7 +296,7 @@ Exposition of the first part of the text
 
 Division of the second part of the text  
 
-****But now we have come to the debated point of where one may find the image of the Trinity in the human mind*.*Sent*. I, 3.2(10).1. In this part he shows the Trinity of persons and the unity of the essence through a likeness of image. It is divided into three parts: in the first, he shows the substance of the image; in the second, he shows in what respect the image is being considered, at *but see, the mind remembers, understands, and loves itself*;*Sent*. I, 3.2(10).2, quoting Augustine, *On the Trinity*, bk. 14, ch. 8 (CCSL 50A; PL 42:1044). in the third, he takes us from the likeness of the image to the Trinity of persons, at *in accordance with this consideration, . . . ‘let us believe that Father and Son and Holy Spirit are one God.’**Sent*. I, 3.4(12).1, quoting Augustine, *On the Trinity*, bk. 9, ch. 1 (CCSL 50; PL 42:961).***
+*But now we have come to the debated point of where one may find the image of the Trinity in the human mind*.*Sent*. I, 3.2(10).1. In this part he shows the Trinity of persons and the unity of the essence through a likeness of image. It is divided into three parts: in the first, he shows the substance of the image; in the second, he shows in what respect the image is being considered, at *but see, the mind remembers, understands, and loves itself*;*Sent*. I, 3.2(10).2, quoting Augustine, *On the Trinity*, bk. 14, ch. 8 (CCSL 50A; PL 42:1044). in the third, he takes us from the likeness of the image to the Trinity of persons, at *in accordance with this consideration, . . . ‘let us believe that Father and Son and Holy Spirit are one God.’**Sent*. I, 3.4(12).1, quoting Augustine, *On the Trinity*, bk. 9, ch. 1 (CCSL 50; PL 42:961).  
 
 *But see, the mind remembers, understands, and loves itself*.*Sent*. I, 3.2(10).2, quoting Augustine, *On the Trinity*, bk. 14, ch. 8 (CCSL 50A; PL 42:1044). Here he makes inquiry as regards what the image attends to in the mind.  
 
@@ -332,7 +334,7 @@ Article 1
 
 ***Whether the subject of the image is only the mind***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.93.1, 3, 6. It seems that the subject of God’s image is not only the mind.***
+To the first we proceed as follows.Parallel texts: *ST* I.93.1, 3, 6. It seems that the subject of God’s image is not only the mind.  
 
 Obj. 1: For Augustine showsAugustine, *On the Trinity*, bk. 2, ch. 2 (CCSL 50; PL 42:985). that there is an image of the Trinity within bodily vision with respect to the three things necessary for vision: the exterior reality, its image in the eye, and the intention of the one seeing it, which joins together the first two. But bodily vision does not pertain to the mind. Therefore and so on.  
 
@@ -360,7 +362,7 @@ Question 4
 
 ***Parts of the image of God***
 
-***Next one asks about the parts of the image: and first about the first assignment of its parts;Namely, memory, intelligence, and love/will; see *Sent*. I, 3.2(10).2, quoting Augustine, *On the Trinity*, bk. 10, ch. 11 (CCSL 50; PL 42:938). second, about the second.Namely, mind, knowledge, and love; see *Sent*. I, 3.3(11).3, quoting Augustine, *On the Trinity*, bk. 9, ch. 3 (CCSL 50; PL 42:963). As regards the first, five things are asked about:***
+Next one asks about the parts of the image: and first about the first assignment of its parts;Namely, memory, intelligence, and love/will; see *Sent*. I, 3.2(10).2, quoting Augustine, *On the Trinity*, bk. 10, ch. 11 (CCSL 50; PL 42:938). second, about the second.Namely, mind, knowledge, and love; see *Sent*. I, 3.3(11).3, quoting Augustine, *On the Trinity*, bk. 9, ch. 3 (CCSL 50; PL 42:963). As regards the first, five things are asked about:  
 
 first, what each of the parts of the image is, and how they differ from each other;  
 
@@ -376,7 +378,7 @@ Article 1
 
 ***Whether memory pertains to the image***
 
-***To the first we proceed as follows. It appears that memory does not pertain to the image.***
+To the first we proceed as follows. It appears that memory does not pertain to the image.  
 
 Obj. 1: For, as Augustine says,Augustine, *On the Trinity*, bk. 12, ch. 1 (CCSL 50; PL 42:997). what you find in the soul that we share in common with the beasts pertains to the sensory part. But memory is common to us and the beasts. Therefore, since the image is not in the sensory part, it appears that memory does not pertain to the image.  
 
@@ -416,7 +418,7 @@ Article 2
 
 ***Whether the soul’s essence is its powers***
 
-***To the second we proceed as follows. It seems that the essence of the soul is its powers.***
+To the second we proceed as follows. It seems that the essence of the soul is its powers.  
 
 Obj. 1: First, because of what is said in the text: *they are one life, one mind, one essence*.*Sent*. I, 3.2(10).3, quoting Augustine, *On the Trinity*, bk. 10, ch. 11 (CCSL 50; PL 42:983).  
 
@@ -454,7 +456,7 @@ Article 3
 
 ***Whether one power arises from another***
 
-***To the third we proceed as follows.Parallel texts: *In II Sent*., d. 24, q. 1, a. 2; *ST* I.77.7; *Disputed Questions on the Soul*, a. 13, ad 7–8. It seems that one power of the soul does not arise from another.***
+To the third we proceed as follows.Parallel texts: *In II Sent*., d. 24, q. 1, a. 2; *ST* I.77.7; *Disputed Questions on the Soul*, a. 13, ad 7–8. It seems that one power of the soul does not arise from another.  
 
 Obj. 1: For whenever things are simultaneous, the one does not arise from the other. But all the powers are simultaneously in the soul from its creation. Therefore one does not arise from another.  
 
@@ -472,9 +474,9 @@ Reply Obj. 2: An accident from its very self does not have the power of producin
 
 Article 4  
 
-***Whether the image is seen in these rational powers in reference to all of their objects***
+Whether the image is seen in these rational powers in reference to all of their objects  
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.93.8; *On Truth*, q. 10, a. 7. It seems that God’s image is seen in these powers in reference to all of their objects.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.93.8; *On Truth*, q. 10, a. 7. It seems that God’s image is seen in these powers in reference to all of their objects.  
 
 Obj. 1: For a power by its nature as a power relates to all its objects in the same way, but through its diverse habits it is restricted to these ones or those ones. Therefore, since assignment of the first image is with respect to the powers,*ST* I.93.7, resp.: *primo et principaliter attenditur imago Trinitatis in mente secundum actus . . .; secundario et quasi ex consequenti potest attendi secundum potentias*.; “the image of the Trinity in our mind is primarily and principally associated with the act. . . . There can be in the soul a secondary and, as it were, implied image of the Trinity that is associated with the soul’s powers and mainly with its habits, insofar as the acts exist virtually in the habits.” Nevertheless, the first assignment, not that which is first and principally attended to, is in the soul according to its powers. Indeed, the first is not necessarily chiefly and first found. not the habits, it seems that it is in reference to all of their objects.  
 
@@ -500,9 +502,9 @@ Reply Sed Contra: The response to the other side is clear from the things that h
 
 Article 5  
 
-***Whether these powers are always in act as regards the objects wherein the image is found***
+Whether these powers are always in act as regards the objects wherein the image is found  
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.93.7; *On Truth*, q. 10, a. 3. It seems that these powers are not always in their acts as regards the objects wherein the image is chiefly found.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.93.7; *On Truth*, q. 10, a. 3. It seems that these powers are not always in their acts as regards the objects wherein the image is chiefly found.  
 
 Obj. 1: For the Philosopher saysSee perhaps Aristotle, *On the Soul* 2.2, 414a20–28; 3.1, 425b6‒10; 3.2, 427a2–8. that, with one power being in act, the soul is drawn away from another power by that power’s act. But these three are diverse powers. Therefore it is impossible for every one always to be in its act in reference to its every object.  
 
@@ -530,9 +532,9 @@ Question 5
 
 ***Article 1***
 
-***Whether these parts of the image: mind, knowledge, and love, differ from the other parts***
+Whether these parts of the image: mind, knowledge, and love, differ from the other parts  
 
-***Next, one asks about the designation of the image, namely, in the mind, knowledge, and love.This is the second formulation of the image that Lombard takes from Augustine; *Sent*. I, 3.3(11).3. And it seems that this designation does not differ from that stated before, as it was said that this one is assigned with respect to the habits, whereas the former was with respect to the powers.***
+Next, one asks about the designation of the image, namely, in the mind, knowledge, and love.This is the second formulation of the image that Lombard takes from Augustine; *Sent*. I, 3.3(11).3. And it seems that this designation does not differ from that stated before, as it was said that this one is assigned with respect to the habits, whereas the former was with respect to the powers.  
 
 Obj. 1: For the image in the soul is attended to chiefly in reference to the object that is the soul and the object that is God. But the soul does not know itself with the mode of knowledge that we are speaking about here by the mediation of a habit, but through its own essence. Therefore it does not seem that the image should be designated in reference to any habits.  
 
@@ -558,7 +560,7 @@ Reply Sed Contra 5: A habit is a principle that elicits an activity. Whence, sin
 
 Exposition of the second part of the text  
 
-****For in the mind itself, even before it becomes a partaker of God, his image is to be found. And even if the mind should become deformed by the loss of partaking in God, yet the divine image remains in it*.*Sent*. I, 3.2(10).1, quoting Augustine, *On the Trinity*, bk. 14, ch. 8 (CCSL 50A; PL 42:1044). On the contrary, *Lord, in your city you turn their image to nothing* (Ps 73 [72]:20).RSV: *on awaking you despise their phantoms*. To this one should say that, as it says in the Gloss on Psalm 4:6 [4:7], *you have marked your countenance on us, Lord*,RSV: *lift up the light of thy countenance upon us, O Lord*. that the image of God in man is of three sorts.Mandonnet notes that this interpretation is not exactly found in the *Glossa ordinaria* 3.463B (PL 113:849), but only: *imago creationis, ratio; recreationis, gratias; similitudinis, tota Trinitas*, “the image of creation, reason; the image of recreation, grace; and the image of likeness, the whole Trinity.” There is the image of creation, which is reason insofar as it approaches imitation of the divine intellectuality; this is called an “image” through the manner in which, in bodily things, the trunk can be said to be the image [of a tree].*Truncus* could also mean the torso of a person, so an alternative interpretation is that the torso is an image of a person. Further, there is the image of likeness, which consists in the distinction of the powers representing the Trinity of persons; and this too is likened to an image in bodily things, insofar as it is distinguished through the limitations of its parts. And lastly, there is the image of re-creation, which consists in the habitual graces and actually imitates God; and this is likened to an image in bodily things in reference to their colors and other things that adorn an image. And when spoken of this way, the image does not remain after sin, though it does in the other two ways.***
+*For in the mind itself, even before it becomes a partaker of God, his image is to be found. And even if the mind should become deformed by the loss of partaking in God, yet the divine image remains in it*.*Sent*. I, 3.2(10).1, quoting Augustine, *On the Trinity*, bk. 14, ch. 8 (CCSL 50A; PL 42:1044). On the contrary, *Lord, in your city you turn their image to nothing* (Ps 73 [72]:20).RSV: *on awaking you despise their phantoms*. To this one should say that, as it says in the Gloss on Psalm 4:6 [4:7], *you have marked your countenance on us, Lord*,RSV: *lift up the light of thy countenance upon us, O Lord*. that the image of God in man is of three sorts.Mandonnet notes that this interpretation is not exactly found in the *Glossa ordinaria* 3.463B (PL 113:849), but only: *imago creationis, ratio; recreationis, gratias; similitudinis, tota Trinitas*, “the image of creation, reason; the image of recreation, grace; and the image of likeness, the whole Trinity.” There is the image of creation, which is reason insofar as it approaches imitation of the divine intellectuality; this is called an “image” through the manner in which, in bodily things, the trunk can be said to be the image [of a tree].*Truncus* could also mean the torso of a person, so an alternative interpretation is that the torso is an image of a person. Further, there is the image of likeness, which consists in the distinction of the powers representing the Trinity of persons; and this too is likened to an image in bodily things, insofar as it is distinguished through the limitations of its parts. And lastly, there is the image of re-creation, which consists in the habitual graces and actually imitates God; and this is likened to an image in bodily things in reference to their colors and other things that adorn an image. And when spoken of this way, the image does not remain after sin, though it does in the other two ways.  
 
 *For by this very fact is the mind an image of God: that it is capable of God and can partake of him*.*Sent*. I, 3.2(10).1, quoting Augustine, *On the Trinity*, bk. 14, ch. 8 (CCSL 50A; PL 42:1044). This seems false, for everything that has the capacity for something is either greater than it or equal to it, as Augustine arguesAugustine, *On the Trinity*, bk. 14, ch. 4 (CCSL 50A; PL 42:1010). about the powers that have a mutual capacity for each other. Therefore it seems that our mind cannot have the capacity for God.  
 

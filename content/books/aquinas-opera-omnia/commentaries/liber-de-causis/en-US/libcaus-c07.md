@@ -1,5 +1,7 @@
 # Proposition 6
 
+57. The first cause is beyond all telling. And tongues fall short of its description only because of the account of being itself, because it is above every cause and it is not told except through second causes which are illuminated by the light of the first cause.  
+
 > 58. This is because the first cause does not cease to illuminate its object, and it itself is not illuminated by any other light, since it is the pure light, beyond which there is no light.
 
 > 59. From that, then, it comes about that the first is the only one whose account falls short; and it is such only because there is no cause beyond it by which it is known,

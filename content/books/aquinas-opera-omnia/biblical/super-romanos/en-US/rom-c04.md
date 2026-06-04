@@ -1,10 +1,12 @@
 # C. 3 - Faith and the Purpose of the Law
 
+***Faith and the Purpose of the Law***
+
 ***Lecture 1***
 
 ***The Jew’s advantage***
 
-***^3:1^ What advantage then has the Jew: or what is the profit of circumcision? [n. 247]***
+^3:1^ What advantage then has the Jew: or what is the profit of circumcision? [n. 247]  
 
 > ^3:2^ Much every way. First indeed, because the words of God were committed to them. [n. 248]
 
@@ -178,7 +180,7 @@ Lecture 2
 
 ***The law gives knowledge of sin***
 
-***^3:9^ What then? Do we excel them? No, not so. For we have charged both Jews and Greeks, that they are all under sin. [n. 271]***
+^3:9^ What then? Do we excel them? No, not so. For we have charged both Jews and Greeks, that they are all under sin. [n. 271]  
 
 > ^3:10^ As it is written: *there is not any just man*. [n. 276]
 
@@ -366,7 +368,7 @@ Lecture 3
 
 ***Christ the redemption for all***
 
-***^3:21^ But now, without the law, the justice of God is made manifest, being witnessed by the law and the prophets. [n. 299]***
+^3:21^ But now, without the law, the justice of God is made manifest, being witnessed by the law and the prophets. [n. 299]  
 
 > ^3:22^ Even the justice of God, by faith of Jesus Christ, unto all, and upon all those who believe in him: for there is no distinction. [n. 304]
 
@@ -482,7 +484,7 @@ Lecture 4
 
 ***The law of faith***
 
-***^3:27^ Where is then your boasting? It is excluded. By what law? Of works? No, but by the law of faith. [n. 313]***
+^3:27^ Where is then your boasting? It is excluded. By what law? Of works? No, but by the law of faith. [n. 313]  
 
 > ^3:28^ For we account a man to be justified by faith, without the works of the law. [n. 317]
 

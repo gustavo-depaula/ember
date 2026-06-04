@@ -1,5 +1,7 @@
 # Chapter 12
 
+^12:1^ And you shall say in that day: I will confessDR: “give thanks.” to you, O Lord, for you were angry with me: your wrath is turned away, and you have comforted me.  
+
 > ^12:2^ Behold, God is my savior, I will deal confidently, and will not fear: because the Lord is my strength, and my praise, and he is become my salvation.
 
 > ^12:3 ^You shall draw waters with joy out of the savior’s fountains:

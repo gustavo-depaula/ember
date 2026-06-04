@@ -1,5 +1,7 @@
 # Chapter 44
 
+***^44:1^ And now hear, O Jacob, my servant, and Israel whom I have chosen.***
+
 > ^44:2^ Thus says the Lord that made and formed you, your helper from the womb: fear not, O my servant Jacob, and you most righteous whom I have chosen.
 
 > ^44:3^ For I will pour out waters upon the thirsty ground, and streams upon the dry land: I will pour out my spirit upon your seed, and my blessing upon your stock.

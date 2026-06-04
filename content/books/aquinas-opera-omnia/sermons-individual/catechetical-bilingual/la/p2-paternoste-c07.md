@@ -1,6 +1,8 @@
 # A. 6 - And Lead Us Not into Temptation
 
-***Sunt aliqui qui licet peccaverint, tamen desiderant veniam consequi de peccatis: unde et confitentur et poenitent; sed tamen non adhibent totum studium quod deberent, ut iterato in peccata non ruant. Quod quidem non est conveniens, ut scilicet ex una parte ploret quis peccata dum poenitet, ex alia unde ploret accumulet, dum peccat. Et propter hoc dicitur Isa. I, 16: *lavamini, mundi estote, auferte malum cogitationum vestrarum ab oculis meis, quiescite agere perverse*.***
+***Et ne nos inducas in tentationem***
+
+Sunt aliqui qui licet peccaverint, tamen desiderant veniam consequi de peccatis: unde et confitentur et poenitent; sed tamen non adhibent totum studium quod deberent, ut iterato in peccata non ruant. Quod quidem non est conveniens, ut scilicet ex una parte ploret quis peccata dum poenitet, ex alia unde ploret accumulet, dum peccat. Et propter hoc dicitur Isa. I, 16: *lavamini, mundi estote, auferte malum cogitationum vestrarum ab oculis meis, quiescite agere perverse*.  
 
 Et ideo, sicut supra dictum est, Christus in praecedenti docuit nos petere veniam peccatorum; in hac vero docet nos petere ut possimus vitare peccata, ut scilicet non inducamur in tentationem per quam labamur in peccata, cum dixit: ***et ne nos inducas in tentationem***.  
 

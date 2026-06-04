@@ -1,10 +1,12 @@
 # C. 10 - Faith and Confession for Salvation
 
+***Faith and Confession for Salvation***
+
 ***Lecture 1***
 
 ***Christ is the end of the law***
 
-***^10:1^ Brethren, the will of my heart, indeed and my prayer to God is for them unto salvation. [n. 813]***
+^10:1^ Brethren, the will of my heart, indeed and my prayer to God is for them unto salvation. [n. 813]  
 
 > ^10:2^ For I bear them witness that they have a zeal of God, but not according to knowledge. [n. 815]
 
@@ -146,7 +148,7 @@ Lecture 2
 
 ***Justice and salvation through faith and confession***
 
-***^10:10^ For, with the heart, man believes unto justice: but, with the mouth, confession is made unto salvation. [n. 830]***
+^10:10^ For, with the heart, man believes unto justice: but, with the mouth, confession is made unto salvation. [n. 830]  
 
 > ^10:11^ For the Scripture says: whosoever *believes in him shall not be confounded*. [n. 833]
 
@@ -270,7 +272,7 @@ Lecture 3
 
 ***The Jews’ voluntary ignorance***
 
-***^10:18^ But I say: have they not heard? Yes, verily: their sound has gone forth into all the earth: and their words unto the ends of the whole world. [n. 845]***
+^10:18^ But I say: have they not heard? Yes, verily: their sound has gone forth into all the earth: and their words unto the ends of the whole world. [n. 845]  
 
 > ^10:19^ But I say: has not Israel known? First, Moses says: *I will provoke you to jealousy by that which is not a nation: by a foolish nation I will anger you*. [n. 850]
 

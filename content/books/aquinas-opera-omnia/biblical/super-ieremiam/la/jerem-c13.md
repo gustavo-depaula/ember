@@ -1,5 +1,7 @@
 # C. 11 - Israel’s broken covenant
 
+***Lectio 1***
+
 ***^11:1^ Verbum quod factum est a Domino ad Jeremiam, dicens:***
 
 > ^11:2^ audite verba pacti hujus, et loquimini ad viros Juda, et ad habitatores Jerusalem,
@@ -46,7 +48,7 @@ Tertio inducitur conclusio, ut scilicet observent: ***et dixit Dominus***. Isa. 
 
 Lectio 2  
 
-***^11:7^ Quia contestans contestatus sum patres vestros in die qua eduxi eos de terra Aegypti usque ad diem hanc. Mane consurgens contestatus sum, et dixi: audite vocem meam;***
+^11:7^ Quia contestans contestatus sum patres vestros in die qua eduxi eos de terra Aegypti usque ad diem hanc. Mane consurgens contestatus sum, et dixi: audite vocem meam;  
 
 > ^11:8^ et non audierunt, nec inclinaverunt aurem suam; sed abierunt unusquisque in pravitate cordis sui mali. Et induxi super eos omnia verba pacti hujus quod praecepi ut facerent, et non fecerunt.
 
@@ -82,7 +84,7 @@ Quarto inducitur conclusio: ***irritum fecerunt***. Oseae 6: *ipsi autem sicut A
 
 Lectio 3  
 
-***^11:11^ Quamobrem haec dicit Dominus: ecce ego inducam super eos mala, de quibus exire non poterunt: et clamabunt ad me, et non exaudiam eos.***
+^11:11^ Quamobrem haec dicit Dominus: ecce ego inducam super eos mala, de quibus exire non poterunt: et clamabunt ad me, et non exaudiam eos.  
 
 > ^11:12^ Et ibunt civitates Juda, et habitatores Jerusalem, et clamabunt ad eos quibus libant; et non salvabunt eos in tempore afflictionis eorum.
 
@@ -126,7 +128,7 @@ Tertio ponit causam, ***pro malis***. Deut. 32: *ipsi me provocaverunt in eo qui
 
 Lectio 4  
 
-***^11:18^ Tu autem, Domine, demonstrasti mihi, et cognovi; tu ostendisti mihi studia eorum,***
+^11:18^ Tu autem, Domine, demonstrasti mihi, et cognovi; tu ostendisti mihi studia eorum,  
 
 > ^11:19^ et ego quasi agnus mansuetus, qui portatur ad victimam. Et non cognovi quia cogitaverunt super me consilia, dicentes: mittamus lignum in panem ejus, et eradamus eum de terra viventium, et nomen ejus non memoretur amplius.
 
@@ -164,4 +166,4 @@ Tertio punientis potestatem: ***inducam enim malum***, ego scilicet qui possum. 
 
 Collationes  
 
-***Nota, quod sanctus dicitur ***oliva*** propter pinguedinem, in quo devotio. Rom. 11: *socius radicis, et pinguedinis olivae factus es*. Propter olei nitorem, in quo contemplatio. Zech. 4: *isti sunt duo filii olei, qui assistunt dominatori universae terrae*. 3 Reg. 6: *fecit in oraculo duos Cherubim de lignis olivarum, decem cubitorem altitudinis*. Propter foliorum virorem, in quo virtus mentis. Gen. 8: *reversa est columba ad vesperam, portans ramum olivae virentibus foliis in ore suo*. Propter fertilitatem, in quo abundantia bonorum operum. Ps. 31: *ego autem sicut oliva fructifera in domo Dei, speravi in misericordia Dei in aeternum, et in saeculum saeculi*. Propter pulchritudinem, in quo sanctorum gloria. Eccli. 24: *quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquas*. Oseae 14: *erit quasi oliva gloria ejus, et odor ejus ut Libani*.***
+Nota, quod sanctus dicitur ***oliva*** propter pinguedinem, in quo devotio. Rom. 11: *socius radicis, et pinguedinis olivae factus es*. Propter olei nitorem, in quo contemplatio. Zech. 4: *isti sunt duo filii olei, qui assistunt dominatori universae terrae*. 3 Reg. 6: *fecit in oraculo duos Cherubim de lignis olivarum, decem cubitorem altitudinis*. Propter foliorum virorem, in quo virtus mentis. Gen. 8: *reversa est columba ad vesperam, portans ramum olivae virentibus foliis in ore suo*. Propter fertilitatem, in quo abundantia bonorum operum. Ps. 31: *ego autem sicut oliva fructifera in domo Dei, speravi in misericordia Dei in aeternum, et in saeculum saeculi*. Propter pulchritudinem, in quo sanctorum gloria. Eccli. 24: *quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquas*. Oseae 14: *erit quasi oliva gloria ejus, et odor ejus ut Libani*.

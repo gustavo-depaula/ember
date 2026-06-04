@@ -1,6 +1,8 @@
 # D. 16 - Necessity of Christ's suffering and death
 
-***Postquam determinavit Magister de defectibus quos Christus cum natura assumpsit, hic inquirit per quem modum illi defectus in Christo fuerunt, utrum scilicet in Christo fuerit necessitas patiendi vel moriendi. Et dividitur in duas partes:***
+***Divisio textus***
+
+Postquam determinavit Magister de defectibus quos Christus cum natura assumpsit, hic inquirit per quem modum illi defectus in Christo fuerunt, utrum scilicet in Christo fuerit necessitas patiendi vel moriendi. Et dividitur in duas partes:  
 
 primo determinat quaestionem, ostendens quod Christus necessitatem moriendi assumpsit.  
 
@@ -34,7 +36,7 @@ Articulus 1
 
 ***Utrum necessitas moriendi tantum sit homini ex peccato***
 
-***Ad primum sic proceditur. Videtur quod necessitas moriendi sit tantum homini ex peccato.***
+Ad primum sic proceditur. Videtur quod necessitas moriendi sit tantum homini ex peccato.  
 
 Rom. 8:10: *corpus quidem mortuum est propter peccatum*, id est necessitati mortis addictum. Ergo etc.Ed. omit *etc.*  
 
@@ -68,7 +70,7 @@ Articulus 2
 
 ***Utrum in Christo fuit necessitas moriendi***
 
-***Ad secundum sic proceditur. Videtur quod in Christo non fuerit necessitas moriendi.***
+Ad secundum sic proceditur. Videtur quod in Christo non fuerit necessitas moriendi.  
 
 Necessitas enim coactionem importat. Sed quod est in potestate alicujus constitutum non est coactum. Cum igitur Christus de seipso dicat, Joan. 10:18: *potestatem habeo ponendi animam meam etc*., non fuit in eo, ut videtur, necessitas moriendi.  
 
@@ -104,7 +106,7 @@ Articulus 3
 
 ***Utrum necessitas moriendi vel patiendi subsit in Christo voluntati humanae***
 
-***Ad tertium sic proceditur. Videtur quod necessitas patiendi vel moriendi subfuerit in Christo voluntati humanae.***
+Ad tertium sic proceditur. Videtur quod necessitas patiendi vel moriendi subfuerit in Christo voluntati humanae.  
 
 Nihil enim sequitur ad voluntatem praecedentem, nisi quod voluntati subest. Sed Damascenus dicit in 3 lib., quod *naturalia in Christo sequebantur ad voluntatem*. Ergo si necessitas moriendi fuit in Christo aliquo modo naturalis, suberat Christi voluntati.  
 
@@ -140,7 +142,7 @@ Ad sextum dicendum quod Moyses quamvisBrussels manuscript reads *licet*. non aff
 
 Quaestio 2  
 
-***Deinde quaeritur utrum cum necessitate moriendi potuit habere ea quae pertinent ad statum gloriae. Et quia supra dictum est de his quae pertinent ad gloriam animae; ideo quaeritur de his quae pertinent ad statum gloriae corporis quam ostendit in transfiguratione Mat. 17:1–10. EtBruges manuscript omits *Et*. circa hoc quaeruntur duo:***
+Deinde quaeritur utrum cum necessitate moriendi potuit habere ea quae pertinent ad statum gloriae. Et quia supra dictum est de his quae pertinent ad gloriam animae; ideo quaeritur de his quae pertinent ad statum gloriae corporis quam ostendit in transfiguratione Mat. 17:1–10. EtBruges manuscript omits *Et*. circa hoc quaeruntur duo:  
 
 primo, utrum illa claritas fuerit vera vel imaginaria;  
 
@@ -148,7 +150,7 @@ secundo, utrum fuerit gloriosa.
 
 Articulus 1  
 
-***Utrum claritas quae fuit in Christi corpore in transfiguratione fuerit vera et utrum fuerit imaginaria***
+Utrum claritas quae fuit in Christi corpore in transfiguratione fuerit vera et utrum fuerit imaginaria  
 
 ***Ad primum sic proceditur. Videtur quod claritas illa non fuerit vera.***
 
@@ -230,7 +232,7 @@ Ad septimum dicendum quod in vestibus erat splendor ex claritate corporis proced
 
 Expositio textus  
 
-****Sicut aliis hominibus etc*.The text reads *Sicut omnibus aliis.* Similitudo attenditur inquantum aliis hominibus inest necessitas moriendi ex natura; non inquantum est ex peccato.***
+*Sicut aliis hominibus etc*.The text reads *Sicut omnibus aliis.* Similitudo attenditur inquantum aliis hominibus inest necessitas moriendi ex natura; non inquantum est ex peccato.  
 
 *Sunt enim quatuor status hominis*... Contra. Boetius assignat tres. EtEd. omit *Et*. dicendum quod Boetius assignat status humanae naturae quantum ad conditiones corporis principaliter: quod quidemBruges and Brussels manuscripts omit *quidem* against the Paris (841 and 842) manuscripts and the other editions.  in primo statu erat animale, in secundo corruptibile, in tertio spirituale. Magister autem,Ed. add *assignat.* principaliterEd. add *quatuor status.* quantum ad conditiones animae, ut patet.  
 

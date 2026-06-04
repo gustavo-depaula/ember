@@ -1,5 +1,7 @@
 # On Man
 
+***Regarding the good of nature***
+
 ***Question 4***
 
 ***Regarding the good of nature***
@@ -24,7 +26,7 @@ Article 1
 
 ***On the union of soul to body***
 
-***To the first we proceed thus. It seems that through the arrival of a soul not all forms which were in it before are eliminated.***
+To the first we proceed thus. It seems that through the arrival of a soul not all forms which were in it before are eliminated.  
 
 Obj. 1: For it is said in Genesis 2:7: *God formed man from the mud of the earth and breathed into his face the breath of life*. Yet in vain would he have formed the body if, by breathing in a soul, the form which he had introduced when forming it were eliminated. Therefore, when a soul comes not all preceding forms are removed.  
 
@@ -60,7 +62,7 @@ Article 2
 
 ***On the power of free will***
 
-***To the second we proceed thus. It seems that man without grace can prepare himself for grace through the natural liberty of will alone.***
+To the second we proceed thus. It seems that man without grace can prepare himself for grace through the natural liberty of will alone.  
 
 Obj. 1: Because, as is said in Proverbs 16:1: *it belongs to man to prepare the mind*. Yet what is said to belong to something is constituted in its power. Therefore, it is constituted in the power of man that he can prepare himself for grace. Therefore, he does not need the help of grace.  
 
@@ -92,7 +94,7 @@ Article 3
 
 ***On natural love***
 
-***To the third we proceed thus. It seems that the first man in the state of innocence would not have loved God above all things and more than himself.***
+To the third we proceed thus. It seems that the first man in the state of innocence would not have loved God above all things and more than himself.  
 
 Obj. 1: For to love God thus is most meritorious. But the first man in that state did not have that whereby he could *accomplish* through merit, as is said in the twenty-fourth distinction of the second book of the *Sentences*.Peter Lombard, *Sentences*, bk. 2, d. 24, ch. 1, pp. 450–51 (PL 192:701). Therefore, the first man in that state did not love God more than himself and over all things.  
 
@@ -152,7 +154,7 @@ Article 1
 
 ***Whether a contrite man is bound to prefer to be in hell than to sin***
 
-***To the first we proceed thus. It seems that a contrite man should not prefer to be in hell than to sin.***
+To the first we proceed thus. It seems that a contrite man should not prefer to be in hell than to sin.  
 
 Obj. 1: For the punishment of hell is eternal and irremediable; yet he can be freed from sin through penance. Therefore, he should prefer to sin than to be in hell.  
 
@@ -182,9 +184,9 @@ third, whether or not a parish priest should believe his parishioner who says he
 
 Article 1  
 
-***Whether it suffices for someone to confess by writing, or is it necessary to confess by word***
+Whether it suffices for someone to confess by writing, or is it necessary to confess by word  
 
-***To the first we proceed thus. It seems that it suffices if someone confesses by writing.***
+To the first we proceed thus. It seems that it suffices if someone confesses by writing.  
 
 Obj. 1: For confession is required for the manifestation of sin, but sin can be manifested by writing just as also by word. Therefore, it suffices to confess by writing.  
 
@@ -202,9 +204,9 @@ Replies: The arguments made on both sides do not force much: for manifestation c
 
 Article 2  
 
-***Whether someone is held to confess at once when the opportunity is had, or can he wait until Lent***
+Whether someone is held to confess at once when the opportunity is had, or can he wait until Lent  
 
-***To the second we proceed thus. It seems that someone can defer confession even until Lent.***
+To the second we proceed thus. It seems that someone can defer confession even until Lent.  
 
 Obj. 1: For whoever observes a precept of the ChurchSee below: q. 6, a. 1, resp. does not go wrong, but the Church has established that once a year men should confess their sins. Therefore, if someone waits even until the end constituted by the Church, he does not sin.  
 
@@ -228,9 +230,9 @@ Reply Sed Contra: It must be said that bodily sickness, unless it is destroyed t
 
 Article 3  
 
-***Whether or not a parish priest should believe his parishioner who says he confessed to another and give him the Eucharist***
+Whether or not a parish priest should believe his parishioner who says he confessed to another and give him the Eucharist  
 
-***To the third we proceed thus. It seems that a parish priest should not believe his subject who says he confessed to another so that on account of this he might give the Eucharist to him.***
+To the third we proceed thus. It seems that a parish priest should not believe his subject who says he confessed to another so that on account of this he might give the Eucharist to him.  
 
 Obj. 1: For frequently some men are frightened by confession itself who before were not contrite. But a priest should induce his subject unto good as much as he can. Therefore, it seems he should altogether demand of him that he confess to him.  
 
@@ -260,7 +262,7 @@ Article 1
 
 ***On the office of a church***
 
-***To the first we proceed thus. It seems that someone in such a case should say both offices.***
+To the first we proceed thus. It seems that someone in such a case should say both offices.  
 
 Obj. 1: For the burden should correspond to the benefit. Therefore, he who has the benefit of a prebend in two churches should suffer the burden of each, namely, to say the office of both churches.  
 
@@ -282,7 +284,7 @@ Article 2
 
 ***On the study of theology***
 
-***To the second we proceed thus. It seems that someone who can devote care to the salvation of souls would sin if he were to occupy his time in study.***
+To the second we proceed thus. It seems that someone who can devote care to the salvation of souls would sin if he were to occupy his time in study.  
 
 Obj. 1: For it is said in Galatians 6:10: *while we have time, let us work good*; also, there is no graver than the *throwing away of time*.Seneca, *Moral Letters to Lucilius*, letter 1, para. 1: *quaedam tempora eripiuntur nobis, quaedam subducuntur, quaedam effluunt. Turpissima tamen est iactura, quae per neglegentiam fit*, “some time is snatched away from us, some is carried off, and some flows away; yet it is exceedingly wicked to throw it away, which happens through carelessness”; cf. Aquinas, *In IV Sent*. 14.2.3, qa. 3, ad 1. Therefore, someone should not spend time in study,Cf. Aquinas, *Commentary on Dionysius’s On the Divine Names*, ch. 3, lect. 1, n. 257: (Hierotheus) *plurimum temporis terebat sive expendebat in docendo*, “Hierotheus exceeded many of the holy teachers also by time spent”; *Commentary on Aristotle’s Ethics*, bk. 3, lect. 19, n. 602. deferring to devote care to the salvation of souls.  
 
@@ -328,9 +330,9 @@ second, whether he is held to obey him that he should reveal a brother’s hidde
 
 Article 1  
 
-***Whether a religious is held to obey his prelate that he should reveal to him a secret committed to his trust***
+Whether a religious is held to obey his prelate that he should reveal to him a secret committed to his trust  
 
-***To the first we proceed thus. It seems that a religious is held to reveal a secret committed to his trust to his prelate instructing him.***
+To the first we proceed thus. It seems that a religious is held to reveal a secret committed to his trust to his prelate instructing him.  
 
 Obj. 1: For as a religious he obliged himself by solemn profession to obey his prelate, while he obliged himself to keep the secret by a simple promise. Therefore, he should rather obey his prelate than keep the secret.  
 
@@ -346,9 +348,9 @@ Reply Obj. 1: It must be said, therefore, that the obligation to preserve those 
 
 Article 2  
 
-***Whether he is held to obey him that he should reveal a brother’s hidden fault which he knows***
+Whether he is held to obey him that he should reveal a brother’s hidden fault which he knows  
 
-***To the second we proceed thus. It seems a subject should reveal another brother’s hidden fault to his prelate commanding him.***
+To the second we proceed thus. It seems a subject should reveal another brother’s hidden fault to his prelate commanding him.  
 
 Obj. 1: Because, as Jerome says, the fault of one should not be hidden to the prejudice of many.It is actually Origen: Origen, *On the Book of Joshua*, homily 7, para. 6, trans. Rufino (ed. W. A. Baehrens, in GCS 30, Origenes Werke Bd. 7, Leipzig, 1921), 333 (PG 12:861–62); Gratian, *Decretum*, P. 1, d. 45, c. 17, 1:166; Aquinas, *In IV Sent*. 19.2.2, qa. 1, ad 1; 19.2.3, qa. 1, ad 2. But it must be presumed that the prelate wishes to know the fault of one on account of the good of the multitude. Therefore, the fault of another should be revealed to the prelate commanding.  
 
@@ -402,7 +404,7 @@ Article 2
 
 ***Whether perjury is a graver sin than homicide***
 
-***To the second we proceed thus. It seems that perjury is a graver sin than homicide.***
+To the second we proceed thus. It seems that perjury is a graver sin than homicide.  
 
 Obj. 1: For Bernard says that against the precepts of the first tablet neither God nor man can dispense, yet against the precepts of the second tablet God can dispense, but not man.Bernard of Clairvaux, *On Dispensation and Precept*, ch. 3, 3:257–59 (see also PL 182:864–65). From this it can be understood that it is graver to sin against the precepts of the first tablet than against the precepts of the second. But perjury is against a precept of the first tablet, which is: *thou shalt not take the name of thy God in vain* (Exod 20:7), while homicide is against a precept of the second tablet: *thou shalt not kill* (Exod 20:13). Therefore, perjury is a graver sin than homicide.  
 
@@ -420,7 +422,7 @@ Article 3
 
 ***Whether he sins who out of ignorance does not observe a constitution of the pope***
 
-***To the third we proceed thus. It seems that he who acts through ignorance against a constitution of the pope does not sin.***
+To the third we proceed thus. It seems that he who acts through ignorance against a constitution of the pope does not sin.  
 
 Obj. 1: For as Augustine says, *sin is voluntary thus far: that if it is not voluntary, it is not sin*.Augustine, *On True Religion* 14.27 (CCSL 32:204; PL 34:121); *On Two Souls* 10.12, 10.14 (CSEL 25:68; PL 42:103–5); *On Free Will* 3.17–18 (CCSL 29:304; PL 32:1294–96). But ignorance causes the involuntary, as is said in the third book of the *Ethics*.Aristotle, *Ethics* 3.1, 1110b18–1111a21. Therefore, that which is done through ignorance is not sin.  
 
@@ -436,7 +438,7 @@ Article 4
 
 ***Whether a monk sins mortally by eating meat***
 
-***To the fourth we proceed thus. It seems that a monk sins mortally by eating meat.***
+To the fourth we proceed thus. It seems that a monk sins mortally by eating meat.  
 
 Obj. 1: For the canon “Concerning Consecration”Gratian, *Decretum*, P. 3, “Concerning Consecration,” D. 5, c. 32, 1:1420. says that monks should not eat meat and, if they act contrary, they should be imprisoned. But such a punishment is only inflicted for mortal sin. Therefore, monks eating meat sin mortally.  
 
@@ -466,7 +468,7 @@ Regarding the good of glory
 
 ***Regarding the good of glory***
 
-***Then about the good of glory there were two questions relating to glorious bodies:***
+Then about the good of glory there were two questions relating to glorious bodies:  
 
 first, whether a glorious body naturally can be in the same place with another not glorious body;  
 
@@ -474,9 +476,9 @@ second, whether this can happen by miracle.
 
 Article 1  
 
-***Whether a glorious body naturally can be in the same place with a non-glorious body***
+Whether a glorious body naturally can be in the same place with a non-glorious body  
 
-***To the first we proceed thus. It seems that a glorious body naturally can be in the same place with another body.***
+To the first we proceed thus. It seems that a glorious body naturally can be in the same place with another body.  
 
 Obj. 1: For if it is prohibited to be with another body in the same place, either this is on account of bigness or corpulence, or on account of dimensions.Albert the Great, *On Resurrection*, tr. 2, q. 8, a. 2. But it is not on account of bigness or corpulence, because a glorious body shall be *spiritual*, according to the Apostle (1 Cor 15:44). Similarly, it is neither on account of dimensions, because, since tangents are *those of which the ends are simultaneous*,Aristotle, *Physics* 6.1, 231a22–23. it is necessary for a point of one natural body to be simultaneous with a point of another, and a line with a line, and a surface with a surface. Therefore, for the same reason, this also applies to a body with a body. Therefore, it is not prohibited for a glorious body naturally to be able to be in the same place simultaneously with another body.  
 
@@ -506,7 +508,7 @@ Article 2
 
 ***Whether this can be done by a miracle***
 
-***To the second we proceed thus. It seems that a glorious body in no way can be simultaneously in the same place with another body.***
+To the second we proceed thus. It seems that a glorious body in no way can be simultaneously in the same place with another body.  
 
 Obj. 1: For just as one body relates to one place, so two bodies to two places. Therefore, commutatively, just as one body relates to two places, so two bodies to one place. But in no way can one body be in two places. Therefore, neither can two bodies be in one place.  
 

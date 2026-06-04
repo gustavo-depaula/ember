@@ -1,5 +1,7 @@
 # Proposition 3
 
+27. Omnis anima nobilis tres habet operationes: nam ex operationibus eius est operatio animalis et operatio intellectibilis et operatio divina.  
+
 > 28. Operatio autem divina est, quoniam ipsa praeparat naturam cum virtute, quae est in ipsa a causa prima.
 
 > 29. Eius autem operatio intellectibilis est, quoniam ipsa scit res per virtutem intelligentiae, quae est in ipsa.

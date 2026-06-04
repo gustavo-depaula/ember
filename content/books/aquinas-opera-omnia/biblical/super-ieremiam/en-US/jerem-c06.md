@@ -1,10 +1,12 @@
 # C. 4 - The threat of captivity
 
+***The threat of captivity***
+
 ***Lecture 1***
 
 ***Benefits of the return***
 
-***^4:1^ If you return, O Israel, says the Lord, to turn back to me, if you remove your offencesHeb. שִׁקּוּצֶ֛יךָ: *detestable things*, idols. from before my face, you will not be moved.***
+^4:1^ If you return, O Israel, says the Lord, to turn back to me, if you remove your offencesHeb. שִׁקּוּצֶ֛יךָ: *detestable things*, idols. from before my face, you will not be moved.  
 
 > ^4:2^ And he has sworn: as the Lord lives, in truth, and in judgment, and in justice, and the nations shall bless him, and him shall they praise.
 
@@ -30,7 +32,7 @@ Lecture 2
 
 ***Threats of punishment***
 
-***^4:3^ For thus says the Lord to the men of Judah, and Jerusalem: break up your fallow land, and do not sow upon the thorns.***
+^4:3^ For thus says the Lord to the men of Judah, and Jerusalem: break up your fallow land, and do not sow upon the thorns.  
 
 > ^4:4^ Be circumcised to the Lord and take away the foreskins of your hearts, O men of Judah, and inhabitants of Jerusalem, lest perhaps my indignation should blaze forth like fire, and burn, and there be none to extinguish it, because of the wickedness of your thoughts.
 
@@ -82,7 +84,7 @@ Lecture 3
 
 ***The coming enemy***
 
-***^4:7^ The lion has come up from his den, and the robber of the nationsHeb. מַשְׁחִית גּוֹיִם: *destroyer of the nations*. has raised himself; he has gone forth from his place that he may make your land a wilderness, and that your cities may be laid waste, and remain without inhabitant.***
+^4:7^ The lion has come up from his den, and the robber of the nationsHeb. מַשְׁחִית גּוֹיִם: *destroyer of the nations*. has raised himself; he has gone forth from his place that he may make your land a wilderness, and that your cities may be laid waste, and remain without inhabitant.  
 
 > ^4:8^ For this gird yourselves with sackcloth, mourn and wail; because the wrath of the Lord’s fury has not turned back from us.
 
@@ -114,7 +116,7 @@ Lecture 4
 
 ***The enemy’s march***
 
-***^4:11^ At that time, it will be said to this people and to Jerusalem: a burning wind is on the roads, which are in the desert of the way of the daughter of my people,Heb. ר֣וּחַ צַ֤ח שְׁפָיִים֙ בַּמִּדְבָּ֔ר דֶּ֖רֶךְ בַּת־עַמִּ֑י: *a hot wind from the high places of the wilderness toward the daughter of my people*. not to winnow, or to cleanse.***
+^4:11^ At that time, it will be said to this people and to Jerusalem: a burning wind is on the roads, which are in the desert of the way of the daughter of my people,Heb. ר֣וּחַ צַ֤ח שְׁפָיִים֙ בַּמִּדְבָּ֔ר דֶּ֖רֶךְ בַּת־עַמִּ֑י: *a hot wind from the high places of the wilderness toward the daughter of my people*. not to winnow, or to cleanse.  
 
 > ^4:12^ A full wind from these will come to me. And now I; but I will speak my judgments with them.
 
@@ -126,7 +128,7 @@ Lecture 5
 
 ***The enemy’s arrival***
 
-***^4:13^ Behold, he shall arise as a cloud,Plural in the Hebrew: כַּעֲנָנִים. and mount his chariots as the storm; his horses are swifter than eagles. Woe to us, for we are laid waste.***
+^4:13^ Behold, he shall arise as a cloud,Plural in the Hebrew: כַּעֲנָנִים. and mount his chariots as the storm; his horses are swifter than eagles. Woe to us, for we are laid waste.  
 
 > ^4:14^ Wash your heart from wickedness, O Jerusalem, that you may be saved. How long shall thoughts of harm abide with you?
 
@@ -142,7 +144,7 @@ Lecture 6
 
 ***Siege of the city***
 
-***^4:15^ A voice of one announcing from Dan, and one making known the idolHeb. וּמַשְׁמִיעַ אָוֶן: *announces calamity*. from Mount Ephraim.***
+^4:15^ A voice of one announcing from Dan, and one making known the idolHeb. וּמַשְׁמִיעַ אָוֶן: *announces calamity*. from Mount Ephraim.  
 
 > ^4:16^ Stir up the people: behold, it has been heard in Jerusalem that watchers are come from a distant land to give out their voice against the cities of Judah.
 
@@ -164,7 +166,7 @@ Lecture 7
 
 ***The land laid waste***
 
-***^4:19^ My stomach, my stomach, I am in pain, and the senses of my heartHeb. קִירֹ֥ות לִבִּ֛י: *the walls of my heart*. are troubled within me. I will not keep silence, because my soul has heard the voice of the trumpet, the cry of battle.***
+^4:19^ My stomach, my stomach, I am in pain, and the senses of my heartHeb. קִירֹ֥ות לִבִּ֛י: *the walls of my heart*. are troubled within me. I will not keep silence, because my soul has heard the voice of the trumpet, the cry of battle.  
 
 > ^4:20^ Destruction upon destruction is called forth, and the whole land is laid waste; my tents are destroyed suddenly and my skins in a moment.
 
@@ -194,7 +196,7 @@ Lecture 8
 
 ***The land’s desolation***
 
-***^4:23^ I looked upon the land, and behold, it was empty and void; and upon the heavens and there was no light in them.***
+^4:23^ I looked upon the land, and behold, it was empty and void; and upon the heavens and there was no light in them.  
 
 > ^4:24^ I saw the mountains, and behold, they were moved: and all the hills were troubled.
 
@@ -234,7 +236,7 @@ Lecture 9
 
 ***Abandonment of cities***
 
-***^4:29^ Every city shall flee from the voice of the horseman, and from the one shooting the arrow; they have entered into steep places,Heb. בֶּעָבִים: *thickets*. and have gone up upon the cliffs; every city has been abandoned, and no man dwells in them.***
+^4:29^ Every city shall flee from the voice of the horseman, and from the one shooting the arrow; they have entered into steep places,Heb. בֶּעָבִים: *thickets*. and have gone up upon the cliffs; every city has been abandoned, and no man dwells in them.  
 
 > ^4:30^ But you have been laid waste, what will you do? Though you dressed yourself in scarlet, though you were bedecked with ornaments of gold, and painted your eyes with stibium, in vain have you arranged yourself; your lovers have despised you, they will seek your life.
 
@@ -250,6 +252,6 @@ Third, he speaks of the pain by comparing it to a woman in labor: ***the voice a
 
 Collations  
 
-***It should be noted that the concept of ***circumcision*** (Jer 4:4) functions on several levels. At times, it means to remove perverse thoughts from the mind: *until their uncircumcised mind feels shame* (Lev 26:41). Elsewhere, it refers to removing perverse dispositions from the heart: *a circumcision of the heart according to the Spirit, not the letter* (Rom 2:29). Or it refers to removing improper speech from the lips: ***their ears are uncircumcised, and they cannot hear*** (Jer 6:10). When used of the flesh, it means to remove carnal lusts: *you shall circumcise the flesh of your foreskin, that it may be a sign of the covenant between me, and you* (Gen 17:11).***
+It should be noted that the concept of ***circumcision*** (Jer 4:4) functions on several levels. At times, it means to remove perverse thoughts from the mind: *until their uncircumcised mind feels shame* (Lev 26:41). Elsewhere, it refers to removing perverse dispositions from the heart: *a circumcision of the heart according to the Spirit, not the letter* (Rom 2:29). Or it refers to removing improper speech from the lips: ***their ears are uncircumcised, and they cannot hear*** (Jer 6:10). When used of the flesh, it means to remove carnal lusts: *you shall circumcise the flesh of your foreskin, that it may be a sign of the covenant between me, and you* (Gen 17:11).  
 
 It should also be noted that ***the heart is washed*** (Jer 4:14) by the water of baptism: *I have washed you with water, and have cleansed your blood from you* (Ezek 16:9); by the tears of compunction: *every night I shall wash my bed, I shall water my bed with my tears* (Ps 6:6); by the wine of divine love: *he will wash his robe in wine, and his cloak in the blood of the grape* (Gen 49:11); by the milk of the divine word: *his eyes are like doves above rivulets of water, washed in milk* (Song 5:12); by the burning heat of correction: *the Lord shall wipe away the filth of the daughters of Zion, and wash the blood of Jerusalem, in a spirit of judgment and a spirit of burning heat* (Isa 4:4); by the blood of the Lord’s passion: *they have washed their robes, and made them white in the blood of the lamb* (Rev 7:14).

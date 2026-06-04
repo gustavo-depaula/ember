@@ -1,10 +1,12 @@
 # C. 10 - Faith and Confession for Salvation
 
+***Fides et Confessio ad Salvationem***
+
 ***Lectio 1***
 
 ***Christus finis legis est***
 
-***^10:1^ Fratres, voluntas quidem cordis mei, et obsecratio ad Deum, fit pro illis in salutem. [n. 813]***
+^10:1^ Fratres, voluntas quidem cordis mei, et obsecratio ad Deum, fit pro illis in salutem. [n. 813]  
 
 > ^10:2^ Testimonium enim perhibeo illis quod aemulationem Dei habent, sed non secundum scientiam. [n. 815]
 
@@ -146,7 +148,7 @@ Lectio 2
 
 ***Iustitia et salvatio per fidem et confessionem***
 
-***^10:10^ Corde enim creditur ad justitiam: ore autem confessio fit ad salutem. [n. 830]***
+^10:10^ Corde enim creditur ad justitiam: ore autem confessio fit ad salutem. [n. 830]  
 
 > ^10:11^ Dicit enim Scriptura: omnis *qui credit in illum, non confundetur*. [n. 833]
 
@@ -270,7 +272,7 @@ Lectio 3
 
 ***Ignorantia voluntaria Iudaeorum***
 
-***^10:18^ Sed dico: numquid non audierunt? Et quidem in omnem terram exivit sonus eorum, et in fines orbis terrae verba eorum. [n. 845]***
+^10:18^ Sed dico: numquid non audierunt? Et quidem in omnem terram exivit sonus eorum, et in fines orbis terrae verba eorum. [n. 845]  
 
 > ^10:19^ Sed dico: numquid Israël non cognovit? Primus Moyses dicit: *ego ad aemulationem vos adducam in non gentem: in gentem insipientem, in iram vos mittam*. [n. 850]
 

@@ -1,8 +1,10 @@
 # D. 24 - Names signifying unity and plurality in the divine
 
+***Names signifying unity and plurality in the divine***
+
 ***Division of the text***
 
-***After laying out the division of the divine names, and having shown that some names in the divine are predicated in the plural and others only in the singular, now the Master makes an inquiry about the names signifying the unity and plurality—how they are to be taken in God. And this is divided into two parts: in the first, he considers the very names signifying unity and plurality according to themselves; in the second, he shows how terms signifying plurality can be added to the name “person” at *moreover, . . . we must consider*.*Sent*. I, 25.1(102).1.***
+After laying out the division of the divine names, and having shown that some names in the divine are predicated in the plural and others only in the singular, now the Master makes an inquiry about the names signifying the unity and plurality—how they are to be taken in God. And this is divided into two parts: in the first, he considers the very names signifying unity and plurality according to themselves; in the second, he shows how terms signifying plurality can be added to the name “person” at *moreover, . . . we must consider*.*Sent*. I, 25.1(102).1.  
 
 The first part is divided into three parts: in the first, he presents the question; in the second, he answers it, at *if we consider diligently the aforementioned words of our authorities*;*Sent*. I, 24.1(101).2. third, he resolves an objection, at *here it is not to be passed over that, although it was said above that God is not to be confessed to be either single or manifold, . . . Isidore seems to think the contrary*.*Sent*. I, 24.1(101).11.  
 
@@ -42,7 +44,7 @@ Article 1
 
 ***Whether God can be called one***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 1, q. 2, a. 1; *In II Sent*., d. 1, q. 1, a. 1; *ST* I.11.3; I.103.3; *SCG* I.42; *On the Power of God*, q. 3, a. 6; *Compendium theologiae*, ch. 15; *Commentary on Dionysius’s On the Divine Names*, ch. 13, lect. 2, 3; *Commentary on the Metaphysics* bk. 8, lect. 12; bk. 12, lect. 10. It seems that God cannot be called one.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 1, q. 2, a. 1; *In II Sent*., d. 1, q. 1, a. 1; *ST* I.11.3; I.103.3; *SCG* I.42; *On the Power of God*, q. 3, a. 6; *Compendium theologiae*, ch. 15; *Commentary on Dionysius’s On the Divine Names*, ch. 13, lect. 2, 3; *Commentary on the Metaphysics* bk. 8, lect. 12; bk. 12, lect. 10. It seems that God cannot be called one.  
 
 Obj. 1: For the determinate principle of any genus is found only in things that have the nature of that genus, just as soul is found only in living things. But unity is in the genus of quantity, as its principle, just as a point is. Therefore, since there is no quantity in God, it seems that neither is there unity.  
 
@@ -74,7 +76,7 @@ Article 2
 
 ***Whether there is number in God***
 
-***To the second we proceed as follows.Parallel text: *ST* I.30.1, ad 4. It seems that there is no number in God.***
+To the second we proceed as follows.Parallel text: *ST* I.30.1, ad 4. It seems that there is no number in God.  
 
 Obj. 1: For as Boethius says,Boethius, *On the Trinity*, ch. 2 (PL 64:1250). that in which there is no number is the truly one, and he is speaking of God, who is one in the highest way. Therefore it seems that there is no number in him.  
 
@@ -106,7 +108,7 @@ Article 3
 
 ***Whether unity and number assert or take away something in the divine***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.30.3; *On the Power of God*, q. 9, a. 7; *Quodl. X*, q. 1, a. 1. It seems that “unity” and “number” do assert something in the divine, and they do not merely signify by taking something away.***
+To the third we proceed as follows.Parallel texts: *ST* I.30.3; *On the Power of God*, q. 9, a. 7; *Quodl. X*, q. 1, a. 1. It seems that “unity” and “number” do assert something in the divine, and they do not merely signify by taking something away.  
 
 Obj. 1: For if anything is removed by “one,” it can only be plurality; likewise, if anything is removed by “plurality,” it can only be unity. Therefore if each is said by way of removal, then each will be only a removal of a removal. But the privation of a privation is nothing, except according to thought, which can in this way be multiplied infinitely, as Avicenna says.Avicenna, *Metaphysics*, bk. 3, ch. 6. Therefore, according to this, number and unity would not really be in God, but only in the account of one understanding him; and then we could not speak of there being several persons, unless we mean several in notion—which seems heretical.  
 
@@ -162,7 +164,7 @@ Article 4
 
 ***Whether one and number signify the essence***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.30.3, ad 1–3. It seems that such expressions would signify the divine essence.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.30.3, ad 1–3. It seems that such expressions would signify the divine essence.  
 
 Obj. 1: For whatever in the divine is said in reference to itself, is said substantially, and signifies the essence. But these expressions, according to their names, are not referred to another, but are said in reference to itself. Therefore they are essential names.  
 
@@ -192,7 +194,7 @@ Question 2
 
 ***Names connected with plurality***
 
-***Next, one asks about the names that are connected with plurality. About this two things are asked:***
+Next, one asks about the names that are connected with plurality. About this two things are asked:  
 
 first, concerning names that stand to plurality as a principle;  
 
@@ -202,7 +204,7 @@ Article 1
 
 ***Whether there is diversity in God***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 9, q. 1, a. 1; d. 19, q. 1, a. 1, ad 2; *ST* I.31.2; *On the Power of God*, q. 9, a. 8. It seems that there is diversity in God.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 9, q. 1, a. 1; d. 19, q. 1, a. 1, ad 2; *ST* I.31.2; *On the Power of God*, q. 9, a. 8. It seems that there is diversity in God.  
 
 Obj. 1: For just as the one in substance constitutes being the same, so multitude in substance constitutes diversity. But Hilary saysHilary, *On Synods*, ch. 29 (PL 10:503). that the Father, the Son, and the Holy Spirit are indeed three in substance and one in consonance. Therefore diversity is here.  
 
@@ -242,7 +244,7 @@ Article 2
 
 ***Whether the name “Trinity” is an essential name***
 
-***To the second we proceed as follows.Parallel text: *ST* I.31.1. It seems that “Trinity” is an essential name.***
+To the second we proceed as follows.Parallel text: *ST* I.31.1. It seems that “Trinity” is an essential name.  
 
 Obj. 1: For whatever is not referred to another is essential. But “Trinity,” according to its own name, is such. Therefore and so on.  
 
@@ -264,6 +266,6 @@ Reply Obj. 3: The name “Trinity” has a certain likeness with a collective no
 
 Exposition of the text  
 
-****There is neither number nor quantity there*.*Sent*. I, 24.1(101).1. Through this it is clear that the Master intends that “unity” and “multitude” do not predicate something added to the realities to which they are joined except insofar as they are in the genus of quantity; and they are not predicated of God in this mode.***
+*There is neither number nor quantity there*.*Sent*. I, 24.1(101).1. Through this it is clear that the Master intends that “unity” and “multitude” do not predicate something added to the realities to which they are joined except insofar as they are in the genus of quantity; and they are not predicated of God in this mode.  
 
 *Let us make man in our image and likeness*.*Sent*. I, 24.1(101).5, quoting Genesis 1:26. This was explained above in Distinction 2.*In I Sent*., d. 2, exposition of the text.

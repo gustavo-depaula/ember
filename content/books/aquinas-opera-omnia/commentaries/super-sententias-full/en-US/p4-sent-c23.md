@@ -1,8 +1,10 @@
 # D. 43 - The sin against the Holy Spirit
 
+***The sin against the Holy Spirit***
+
 ***Division of the text***
 
-***After he has assigned the different kinds of sins, in this part he addresses a kind of sin that we find to be graver than the rest of them, namely, the sin against the Holy Spirit. And it is divided into two parts.***
+After he has assigned the different kinds of sins, in this part he addresses a kind of sin that we find to be graver than the rest of them, namely, the sin against the Holy Spirit. And it is divided into two parts.  
 
 In the first, he shows the gravity of this sin.  
 
@@ -54,7 +56,7 @@ Article 1
 
 ***Whether there is a sin against the Holy Spirit***
 
-***To the first we proceed as follows.Parallel texts: *ST* II-II.14.1, 3–4; *On Evil*, q. 2, a. 8; q. 3, a. 14; *Quodl*. II, q. 8, a. 1; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that there is no sin against the Holy Spirit.***
+To the first we proceed as follows.Parallel texts: *ST* II-II.14.1, 3–4; *On Evil*, q. 2, a. 8; q. 3, a. 14; *Quodl*. II, q. 8, a. 1; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that there is no sin against the Holy Spirit.  
 
 Obj. 1: For, according to what it says in the text,*Sent*. II, 43.1(267).2. they are said to sin against the Holy Spirit who are pleased with malice for its own sake as goodness pleases the pious. But no one is pleased with malice for its own sake, since evil is apart from the will and no one acts intending evil, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 4, nn. 21, 32 (PG 3:722, 731). Therefore, in accord with this no one sins against the Holy Spirit.  
 
@@ -92,7 +94,7 @@ Article 2
 
 ***Whether the sin against the Holy Spirit is a determinate genus of sin***
 
-***To the second we proceed as follows.Parallel texts: *ST* II-II.14.1, 3–4; *On Evil*, q. 2, a. 8, ad 14; *Quodl*. II, q. 8, a. 1; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that the sin against the Holy Spirit does not determine a genus of sin.***
+To the second we proceed as follows.Parallel texts: *ST* II-II.14.1, 3–4; *On Evil*, q. 2, a. 8, ad 14; *Quodl*. II, q. 8, a. 1; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that the sin against the Holy Spirit does not determine a genus of sin.  
 
 Obj. 1: For just as a sin committed out of diligence is a sin against the Holy Spirit, so also a sin due to weakness is one against the Father and one by ignorance against the Son. But “sin by weakness” does not name determinately a genus of sin, but a circumstance of sin. Therefore, neither is the sin against the Holy Spirit a determinate genus of sin.  
 
@@ -130,9 +132,9 @@ Reply Obj. 5: Mortal sin is like death in a certain respect and is like sickness
 
 Article 3  
 
-***Whether the species of sin against the Holy Spirit are fittingly assigned in the text***
+Whether the species of sin against the Holy Spirit are fittingly assigned in the text  
 
-***To the third we proceed as follows.Parallel texts: *ST* II-II.14.2; 36.4, ad 2; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that the species of sin against the Holy Spirit are unfittingly assigned in the text.The species of sin against the Holy Spirit assigned in the text are obstinacy, despair, presumption, impenitence, impugning the known truth, and envy of a brother’s grace; see *Sent*. II, 43.1(267).2, 6, 8, 10.***
+To the third we proceed as follows.Parallel texts: *ST* II-II.14.2; 36.4, ad 2; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that the species of sin against the Holy Spirit are unfittingly assigned in the text.The species of sin against the Holy Spirit assigned in the text are obstinacy, despair, presumption, impenitence, impugning the known truth, and envy of a brother’s grace; see *Sent*. II, 43.1(267).2, 6, 8, 10.  
 
 Obj. 1: For no one can despair while he believes that there is forgiveness of sins in the Church. But to deny that there is forgiveness of sins belongs to faithlessness. Therefore, despair is a species of faithlessness, not of sin against the Holy Spirit.  
 
@@ -184,7 +186,7 @@ Article 4
 
 ***Whether sin against the Holy Spirit can be forgiven***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* II-II.14.3; III.86.1, ad 2, 3; *On Truth*, q. 24, a. 11, ad 7; *On Evil*, q. 3, a. 15; *Quodl*. II, q. 8, a. 1; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that sin against the Holy Spirit is not unforgivable.***
+To the fourth we proceed as follows.Parallel texts: *ST* II-II.14.3; III.86.1, ad 2, 3; *On Truth*, q. 24, a. 11, ad 7; *On Evil*, q. 3, a. 15; *Quodl*. II, q. 8, a. 1; *Commentary on Matthew*, ch. 12; *Commentary on Romans*, ch. 2, lect. 1. It seems that sin against the Holy Spirit is not unforgivable.  
 
 Obj. 1: For the forgiveness of sin occurs by grace. But *where sin increased, grace abounded all the more* (Rom 5:20). Therefore, since the sin against the Holy Spirit is the gravest, it seems that it is the most forgivable.  
 
@@ -230,7 +232,7 @@ Article 5
 
 ***Whether one can sin against the Holy Spirit in the first act of sin***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* II-II.14.4; *On the Virtues*, q. 2, a. 13, ad 1. It seems that one cannot sin against the Holy Spirit in the first act of sin but instead that this sin requires other sins as a prerequisite.***
+To the fifth we proceed as follows.Parallel texts: *ST* II-II.14.4; *On the Virtues*, q. 2, a. 13, ad 1. It seems that one cannot sin against the Holy Spirit in the first act of sin but instead that this sin requires other sins as a prerequisite.  
 
 Obj. 1: For Bernard says: *no one becomes the peak all at once, but little by little I will to make progress*.Mandonnet adds a note from Nicolaï that it is actually Bernard, *De gradibus humilitatis*, ch. 9, para. 26 (PL 182:956). Therefore, vice versa, no one becomes the worst all at once. But the sin against the Holy Spirit is the most grave. Therefore, one cannot sin with this sin immediately.  
 
@@ -262,7 +264,7 @@ Article 6
 
 ***Whether Adam sinned against the Holy Spirit***
 
-***To the sixth we proceed as follows. It seems that Adam sinned against the Holy Spirit.***
+To the sixth we proceed as follows. It seems that Adam sinned against the Holy Spirit.  
 
 Obj. 1: For he did not sin against the Father, since he did not sin by weakness; nor against the Son, since it was not by ignorance, because there were not weakness and ignorance before sin. Therefore, it remains that he sinned against the Holy Spirit.  
 
@@ -304,7 +306,7 @@ Reply Sed Contra 8: The malice on whose basis we speak of the sin against the Ho
 
 Exposition of the text  
 
-****‘Neither here, nor in the future*.’*Sent*. II, 43.1(267).1, quoting Matthew 12:31–32. It says this because some sins are also forgiven in the future, such as certain venial sins, as Gregory says,Gregory the Great, *Dialogorum libri iv*, bk. 4, ch. 39 (PL 77:396). not only as regards punishment, but also as regards fault.***
+*‘Neither here, nor in the future*.’*Sent*. II, 43.1(267).1, quoting Matthew 12:31–32. It says this because some sins are also forgiven in the future, such as certain venial sins, as Gregory says,Gregory the Great, *Dialogorum libri iv*, bk. 4, ch. 39 (PL 77:396). not only as regards punishment, but also as regards fault.  
 
 *‘I do not say that anyone should pray for him*.’*Sent*. II, 43.1(267).1, quoting 1 John 5:16. If “sin unto death” is understood as sin against the Holy Spirit insofar as the sin against the Holy Spirit requires final impenitence, according to one opinion, then this should be understood to mean that no one should pray for sinners of this kind. For one who continues in mortal sin until death is not afterwards helped by prayers. But if it is taken to mean the sin against the Holy Spirit, according to the other opinion, as not requiring final impenitence, then it must be understood in the sense that not just anyone should pray for such a sinner, since the conversion of these kinds of sinners is, as it were, miraculous. Hence just as not just anyone should pray for miracles to be performed, except great and holy men, neither should just anyone pray for the conversion of these kinds of sinners. Even so, according to the form of the words, it is not forbidden for there to be prayer for such a person. Rather, it shows that the precept of praying for the faithful neighbors does not extend to such sinners. For on account of the enormity of their sin, they merit being set apart from the faithful as gentiles and publicans.  
 

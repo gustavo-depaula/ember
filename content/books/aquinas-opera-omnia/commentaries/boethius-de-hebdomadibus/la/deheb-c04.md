@@ -1,5 +1,7 @@
 # L. 3 - Commentary on the Problem
 
+Quaestio vero huiusmodi est: ea quae sunt bona sunt; tenet enim communis sententia doctorum omne quod est ad bonum tendere, omne autem tendit ad simile; quae igitur ad bonum tendunt bona ipsa sunt.  
+
 > Sed quemadmodum bona sint inquirendum est utrumne participatione an substantia.
 
 > Si participatione, per se ipsa nullo modo bona sunt; nam quod participatione album est, per se in eo quod ipsum est album non est; et de caeteris qualitatibus eodem modo. Si igitur participatione sunt bona, ipsa per se nullo modo bona sunt; non igitur ad bonum tendunt; sed concessum est. Non igitur participatione sunt bona sed substantia.

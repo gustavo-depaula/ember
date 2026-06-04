@@ -1,5 +1,7 @@
 # Chapter 10
 
+***Vox 1***
+
 ***Laudamus***
 
 ***Quod laudamus uirtutem propter opera et actus; et fortem et cursorem.***
@@ -60,7 +62,7 @@ Vox 6
 
 ***Lex***
 
-***Quod legibus nos indigemus per totam uitam, quia multi necessitati obediunt magis sermoni.***
+Quod legibus nos indigemus per totam uitam, quia multi necessitati obediunt magis sermoni.  
 
 Quod legis latores uel positores dicunt quidam opportere prouocare ad uirtutem quosdam boni gracia per premia que impendunt illis qui obedientes effecti per bonas consuetudines precedentes, et inobedientibus Penas dare, et insanabiles totaliter exterminare.  
 
@@ -106,7 +108,7 @@ Vox 9
 
 ***Liberalis***
 
-***Quod liberalis laudatur circa dacionem pecuniarum et sumpcionem et magis circa dacionem, et non in bellicis neque in delectabilibus neque in iudiciis.***
+Quod liberalis laudatur circa dacionem pecuniarum et sumpcionem et magis circa dacionem, et non in bellicis neque in delectabilibus neque in iudiciis.  
 
 Quod liberalis est qui optime utitur diuiciis circa quas liberalitas existit.  
 
@@ -154,19 +156,19 @@ Vox 10
 
 ***Lacones***
 
-***Quod Lacones non recitabant seruicia que prestiterant Atheniensibus, quia non libenter audissent.***
+Quod Lacones non recitabant seruicia que prestiterant Atheniensibus, quia non libenter audissent.  
 
 Vox 11  
 
 ***qui Lapidem***
 
-***Quod qui lapidem emittit uoluntarie quidem, set non est in uoluntate eius ut resumat; sic est de iusto.***
+Quod qui lapidem emittit uoluntarie quidem, set non est in uoluntate eius ut resumat; sic est de iusto.  
 
 Vox 12  
 
 ***Leo***
 
-***Quod leo non gaudet uoce bouis, set comestione, quando per uocem sensit quod prope est.***
+Quod leo non gaudet uoce bouis, set comestione, quando per uocem sensit quod prope est.  
 
 Vox 13  
 
@@ -184,7 +186,7 @@ Vox 15
 
 ***Luxuriari***
 
-***Quod si aliquis luxuriatur causa lucri, non est luxuriosus, set auarus; qui uero multa cum luxuria consumit magis est luxuriosus quam auarus.***
+Quod si aliquis luxuriatur causa lucri, non est luxuriosus, set auarus; qui uero multa cum luxuria consumit magis est luxuriosus quam auarus.  
 
 Vox 16  
 

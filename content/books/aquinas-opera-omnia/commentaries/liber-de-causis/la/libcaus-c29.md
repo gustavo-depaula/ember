@@ -1,5 +1,7 @@
 # Proposition 28
 
+***194. Omnis substantia stans per essentiam suam est simplex, non dividitur.***
+
 > 195. Quod si dixerit aliquis: possibile est, ut dividatur, dicemus: si possibile est, ut substantia stans per se dividatur et sit ipsa simplex, possibile est, ut essentia partis eius sit per essentiam eius iterum sicut essentia totius. Si ergo possibile est illud, redit pars super se ipsam, et est omnis pars eius rediens super se ipsam, sicut est reditio totius super essentiam suam; et hoc est impossibile. Si ergo est impossibile, substantia stans per se ipsam est indivisibilis et est simplex.
 
 > 196. Si autem non est simplex, sed est composita, pars eius est melior parte et pars eius vilior parte, ergo res melior est ex re viliori et res vilior ex re meliori, quando est omnis pars eius seiuncta ab omni parte eius.

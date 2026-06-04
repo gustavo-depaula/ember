@@ -1,8 +1,10 @@
 # D. 24 - Object of faith
 
+***Object of faith***
+
 ***Division of the text***
 
-***After the Master has examined faith in its substance, here he considers it in relation to its object. And this part is introduced by the definition of faith given by the Apostle, in which he calls faith the argument of things that do not appear.***
+After the Master has examined faith in its substance, here he considers it in relation to its object. And this part is introduced by the definition of faith given by the Apostle, in which he calls faith the argument of things that do not appear.  
 
 Now, this part is divided into two:  
 
@@ -34,7 +36,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *ST* II-II.1.1; *De veritate*, q. 14, a. 8; *De spe*, a. 1. It appears that the uncreated truth is not the object of faith.***
+To the first we proceed thus.Parallels: *ST* II-II.1.1; *De veritate*, q. 14, a. 8; *De spe*, a. 1. It appears that the uncreated truth is not the object of faith.  
 
 Obj. 1: For faith is about the things that are contained in the Creed, which is the collection of the things that should be believed. But certain things in the Creed pertain to something created, like the Passion and the like. Therefore the object of faith is not the uncreated truth.  
 
@@ -52,7 +54,7 @@ Furthermore, a thing is denominated from what it receives its species from. But 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that faith is not about a composite truth.Parallels: *In I Sent*., d. 41, expos. text.; *ST* II-II.1.2; *De veritate*, q. 14, a. 8, ad 5, 12; a. 12. For, as was just said, the object of faith is the simple truth. But there is no composition in something simple. Therefore it is not about a composite truth.***
+Obj. 1: Moreover, it appears that faith is not about a composite truth.Parallels: *In I Sent*., d. 41, expos. text.; *ST* II-II.1.2; *De veritate*, q. 14, a. 8, ad 5, 12; a. 12. For, as was just said, the object of faith is the simple truth. But there is no composition in something simple. Therefore it is not about a composite truth.  
 
 Obj. 2: Furthermore, vision replaces faith. But the vision in the heavenly homeland will be uncomposed. Therefore so too is faith.  
 
@@ -68,7 +70,7 @@ Furthermore, one who has faith is different from one who does not have faith by 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the faith can contain something false.Parallel: *ST* II-II.1.3. For every contingent truth can be false. But some contingent truth is contained by the faith, for example, Christ’s Passion, since it was voluntary and depended on the free decision of both Christ and of the Jews. Therefore the faith can contain something false.***
+Obj. 1: Moreover, it appears that the faith can contain something false.Parallel: *ST* II-II.1.3. For every contingent truth can be false. But some contingent truth is contained by the faith, for example, Christ’s Passion, since it was voluntary and depended on the free decision of both Christ and of the Jews. Therefore the faith can contain something false.  
 
 Obj. 2: Furthermore, in the time before Christ’s Passion, after Abraham believed in the future Passion of the Christ, it is certain that it was possible at that time for God to free the human race in some other way. And if this were to have occurred, Abraham’s faith would have been false. Therefore the faith can contain the false.  
 
@@ -82,7 +84,7 @@ Furthermore, no virtue produces a bad act, since the good use of a power is the 
 
 Response to Quaestiuncula 1  
 
-***I answer that, in the object of any power there are three things to consider: namely, what in the object is formal, what is material, and what is accidental. For example, this is clear in the object of sight: for what is formal in it is light, which makes color actually visible; what is material is the color itself, which is potentially visible; and the accidental is, for example, quantity and the like, which come with the color. And because each thing acts insofar as it is in act and through its form, whereas the object is active in the passive powers, therefore the notion of the object, to which the passive power is proportioned, is what is formal in the object. And relative to this powers are distinguished, as are habits, which receive their species from the notion of the object. And one can find these three in the object of faith. For since faith assents to something only on account of the first truth that is believable, it holds that it is actually believable only because of the first truth, just as color is actually visible only because of light; and therefore the first truth is formal in the object of faith, and from it comes the entire notion of the object. Now, whatever is believed about God, such as that he suffered, and things like this, is material in the object of faith, whereas the things that follow from these things are [objects of faith], as it were, accidentally. And therefore it should be granted that the object of faith, properly speaking, is the first truth.***
+I answer that, in the object of any power there are three things to consider: namely, what in the object is formal, what is material, and what is accidental. For example, this is clear in the object of sight: for what is formal in it is light, which makes color actually visible; what is material is the color itself, which is potentially visible; and the accidental is, for example, quantity and the like, which come with the color. And because each thing acts insofar as it is in act and through its form, whereas the object is active in the passive powers, therefore the notion of the object, to which the passive power is proportioned, is what is formal in the object. And relative to this powers are distinguished, as are habits, which receive their species from the notion of the object. And one can find these three in the object of faith. For since faith assents to something only on account of the first truth that is believable, it holds that it is actually believable only because of the first truth, just as color is actually visible only because of light; and therefore the first truth is formal in the object of faith, and from it comes the entire notion of the object. Now, whatever is believed about God, such as that he suffered, and things like this, is material in the object of faith, whereas the things that follow from these things are [objects of faith], as it were, accidentally. And therefore it should be granted that the object of faith, properly speaking, is the first truth.  
 
 Reply Obj. 1: The Passion and the other things that are contained in the Creed are related to the object of faith as its matter.  
 
@@ -96,7 +98,7 @@ Reply Obj. 5: Created beatitude consists in our activity with respect to God. No
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as Augustine says,Augustine, *De praedestinatione sanctorum*, ch. 2, n. 5 (PL 44:963). to believe is to think with assent. Now, someone can assent only to what is true, whereas truth consists only in a composition, whether of thoughts or of vocal sounds. Therefore, the object of faith must be a composite truth. And this is clear from the fact that certain philosophers call “faith” that activity of the intellect by which it composes and divides.***
+To the second question, it should be said that, as Augustine says,Augustine, *De praedestinatione sanctorum*, ch. 2, n. 5 (PL 44:963). to believe is to think with assent. Now, someone can assent only to what is true, whereas truth consists only in a composition, whether of thoughts or of vocal sounds. Therefore, the object of faith must be a composite truth. And this is clear from the fact that certain philosophers call “faith” that activity of the intellect by which it composes and divides.  
 
 Whence those who have said that the object of faith is not composite have not noticed their own speech. For when we say, “I believe in the Incarnation,” it cannot be understood in forming the conception of the Incarnation, for then whoever understands what is signified by the words would believe in the Incarnation. Thus, our meaning is: “I believe that there is, or was, an Incarnation.” Therefore it is clear that it belongs to faith insofar as it is faith that it about a composite truth.  
 
@@ -114,7 +116,7 @@ Reply Obj. 5: Of those supporting the idea that faith is about the composite tru
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that faith reposes on the first truth. Whence, since that is infallible, faith cannot contain anything false.***
+To the third question, it should be said that faith reposes on the first truth. Whence, since that is infallible, faith cannot contain anything false.  
 
 Reply Obj. 1: The contingent cannot be the object of the faith except insofar as it stands under the divine foreknowledge. And according to this it has the necessity of a consequence, and in this way it falls under faith. Whence, just as foreknowledge cannot fail, neither can faith.  
 
@@ -130,7 +132,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed thus.Parallels: *ST* II-II.1.4; *De veritate*, q. 14, a. 9; *Super Heb*. 11, lect. 1. It seems that faith is about things that are seen.***
+To the second we proceed thus.Parallels: *ST* II-II.1.4; *De veritate*, q. 14, a. 9; *Super Heb*. 11, lect. 1. It seems that faith is about things that are seen.  
 
 Obj. 1: For 1 Corinthians 13:12 says, *now we see in a mirror dimly*, and it is speaking about faith. Therefore faith is a vision, so things believed are seen.  
 
@@ -150,7 +152,7 @@ Furthermore, a Gloss on Matthew 1 says that *faith begets hope*.source But hope 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that faith cannot be about things that are known.Parallels: *ST* I-II.67.3; II-II.1.5; *De veritate*, q. 14, a. 9; *Super Heb*. 11, lect. 1. For that there is a God is something believed. But this can be known, because it has been proved demonstratively. Therefore faith is about things that are known.***
+Obj. 1: Moreover, it appears that faith cannot be about things that are known.Parallels: *ST* I-II.67.3; II-II.1.5; *De veritate*, q. 14, a. 9; *Super Heb*. 11, lect. 1. For that there is a God is something believed. But this can be known, because it has been proved demonstratively. Therefore faith is about things that are known.  
 
 Obj. 2: Furthermore, one of the things that begets knowledge is teaching. But faith, as regards the distinction of things that should be believed, is through teaching. For faith is from hearing (Rom 10:17). Therefore faith is of things that are known.  
 
@@ -166,7 +168,7 @@ Furthermore, *no one has ever seen God* (John 1:18). But faith, properly speakin
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the things that faith is about are unknown.Parallels: *ST* I.12.13.ad 3; II-II.1.5.ad 1. For according to Gregory,Gregory the Great, *Homiliae in evangelia*, bk. 2, hom. 26, para. 8 (CCSL 141; PL 76:1202). the things that are apparent do not bear faith but awareness. But things that do not bear awareness are unknown. Therefore the things that bear faith are unknown.***
+Obj. 1: Moreover, it appears that the things that faith is about are unknown.Parallels: *ST* I.12.13.ad 3; II-II.1.5.ad 1. For according to Gregory,Gregory the Great, *Homiliae in evangelia*, bk. 2, hom. 26, para. 8 (CCSL 141; PL 76:1202). the things that are apparent do not bear faith but awareness. But things that do not bear awareness are unknown. Therefore the things that bear faith are unknown.  
 
 Obj. 2: Furthermore, *what no eye has seen, nor ear heard, nor has it risen into the heart of man, what God has prepared for those who love him* (1 Cor 2:9).For “nor has it risen into the heart of man” the RSV says, “nor the heart of man conceived.” But whatever things are known ascend into the heart. Therefore faith, which is about the things described, is of things that are not known.  
 
@@ -180,7 +182,7 @@ Furthermore, lack of faith is lack of knowledge, as is clear from 1 Timothy 1:13
 
 Response to Quaestiuncula 1  
 
-***I answer that vision, properly speaking, is the act of the sense of sight, but on account of the nobility of this sense, the name “vision” has been extended to the acts of the other cognitive powers, in virtue of their likeness with the sense of sight.***
+I answer that vision, properly speaking, is the act of the sense of sight, but on account of the nobility of this sense, the name “vision” has been extended to the acts of the other cognitive powers, in virtue of their likeness with the sense of sight.  
 
 Therefore the likeness can be attended to in reference to only the genus of cognition, and in this way, in a broad sense and improperly, every cognition might be called “vision.” And according to this, faith is of things “seen” in whatever way, as the Master says, but not with an exterior sight, but an interior one.  
 
@@ -202,7 +204,7 @@ Reply Obj. 5: Faith is not about what is material in the object of faith—namel
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that faith, as was said, is related to something in two ways: through itself and accidentally. And what through itself pertains to faith pertains to it always and everywhere; therefore what pertains to faith by reason of this or that man is not of faith through itself, but accidentally. Therefore what pertains to God that simply exceeds human understanding and has been revealed to us pertains through itself to faith. But what exceeds the understanding of this or that man, but not of every man, pertains to faith not through itself but accidentally.***
+To the second question, it should be said that faith, as was said, is related to something in two ways: through itself and accidentally. And what through itself pertains to faith pertains to it always and everywhere; therefore what pertains to faith by reason of this or that man is not of faith through itself, but accidentally. Therefore what pertains to God that simply exceeds human understanding and has been revealed to us pertains through itself to faith. But what exceeds the understanding of this or that man, but not of every man, pertains to faith not through itself but accidentally.  
 
 However, the things that exceed every human intellect cannot be proved through demonstration, for demonstration is founded on the understanding of principles, and therefore things of this sort cannot be known. But there are some things that come before faith, of which there is not faith except by accident—namely, insofar as they exceed the understanding of this man, not that of man simply speaking—and can be demonstrated and known. For example, that there is a God: this indeed is believed, as regards him whose intellect does not attain it according to demonstration. For faith as regards itself sufficiently inclines one to all the things that come with, or follow, or precede faith.  
 
@@ -218,7 +220,7 @@ Reply Obj. 4: Arguments that force one toward faith, such as miracles, do not pr
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that, for the perfect notion of intellectual cognition three things are required: first, that what is cognized be proposed to the intellect; second, that the intellect adhere to it; and third, that it see it. And therefore the things that are of the faith are proposed to the intellect not in their very selves, but by certain words that do not suffice for their expression, and by certain likenesses falling short of their representation. And therefore they are said to be known as in a mirror and in an enigma. And on account of this, they are not seen, properly speaking, but nevertheless the intellect assents to them; so they are imperfectly cognized, but neither are they wholly unknown.***
+To the third question, it should be said that, for the perfect notion of intellectual cognition three things are required: first, that what is cognized be proposed to the intellect; second, that the intellect adhere to it; and third, that it see it. And therefore the things that are of the faith are proposed to the intellect not in their very selves, but by certain words that do not suffice for their expression, and by certain likenesses falling short of their representation. And therefore they are said to be known as in a mirror and in an enigma. And on account of this, they are not seen, properly speaking, but nevertheless the intellect assents to them; so they are imperfectly cognized, but neither are they wholly unknown.  
 
 Reply Obj. 1: Gregory is speaking of perfect awareness, which includes vision.  
 
@@ -230,11 +232,11 @@ Reply Obj. 4: That properly speaking is said to be present whose essence is pres
 
 Article 3  
 
-***Whether it is necessary for man to believe anything of which he has no scientific knowledge***
+Whether it is necessary for man to believe anything of which he has no scientific knowledge  
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: *ST* II-II.2.3; *SCG* I.5; III.118, 152; *De veritate*, q. 14, a. 10; *In Symbolorum Apostolorum*; *Super De Trinitate*, q. 3, a. 1. It appears that it is not necessary that a man believe something above natural reason, a thing of which he has neither knowledge nor vision.***
+To the third we proceed thus.Parallels: *ST* II-II.2.3; *SCG* I.5; III.118, 152; *De veritate*, q. 14, a. 10; *In Symbolorum Apostolorum*; *Super De Trinitate*, q. 3, a. 1. It appears that it is not necessary that a man believe something above natural reason, a thing of which he has neither knowledge nor vision.  
 
 Obj. 1: For nothing is fully provided for unless the things by which it can attain its end are bestowed upon it. But divine providence sufficiently provided for human nature in its creation. Therefore God granted it the things through which it can reach toward its end, and so it seems that natural reason sufficiently orders man to his end. And so he does not need to believe things above his reason.  
 
@@ -248,7 +250,7 @@ Furthermore, *faith is the assurance of things hoped for* (Heb 11:1). But the th
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that to believe things that we do not see is neither praiseworthy nor meritorious.Parallels: *ST* II-II.2.9; III.7.3.ad 2; *De veritate*, q. 14, a. 3; *De potentia*, q. 6, a. 9; *Super Heb*. 11, lect. 1. For *one who trusts others too quickly is lightminded* (Sir 19:4). But one who believes things that he in no way sees believes too quickly. Therefore he should more be blamed than praised.***
+Obj. 1: Moreover, it appears that to believe things that we do not see is neither praiseworthy nor meritorious.Parallels: *ST* II-II.2.9; III.7.3.ad 2; *De veritate*, q. 14, a. 3; *De potentia*, q. 6, a. 9; *Super Heb*. 11, lect. 1. For *one who trusts others too quickly is lightminded* (Sir 19:4). But one who believes things that he in no way sees believes too quickly. Therefore he should more be blamed than praised.  
 
 Obj. 2: Furthermore, to refuse reason, which is the noblest of the things within us, is blameworthy. But one who believes things that are not consonant with reason refuses his reason. Therefore he is blameworthy.  
 
@@ -260,7 +262,7 @@ Furthermore, every act of virtue is meritorious and praiseworthy in and of itsel
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that human reasoning diminishes the merit of faith.Parallels: *ST* II-II.2.10; 55.5.ad 3; *SCG* I.8. For reason that is sufficiently probative totally empties the merit of faith, for Gregory says, *that for which reason presents experience, for that faith holds no merit*.Gregory the Great, *Homilae in evangelia*, bk. 2, hom. 26, para. 1 (CCSL 141; PL 76:1197). Therefore reasoning that is in any way persuasive diminishes the merit of faith.***
+Obj. 1: Moreover, it appears that human reasoning diminishes the merit of faith.Parallels: *ST* II-II.2.10; 55.5.ad 3; *SCG* I.8. For reason that is sufficiently probative totally empties the merit of faith, for Gregory says, *that for which reason presents experience, for that faith holds no merit*.Gregory the Great, *Homilae in evangelia*, bk. 2, hom. 26, para. 1 (CCSL 141; PL 76:1197). Therefore reasoning that is in any way persuasive diminishes the merit of faith.  
 
 Obj. 2: Furthermore, what leads to the corruption of faith diminishes the merit of faith. But arguments and disputations lead to the corruption of faith, as Averroes says in the *Physics* 3,Averroes, *Commentary on Physics*, bk. 3. because thereby a man hears different [opinions], and from that he adheres less to things that he usually heard and begins to doubt them. Therefore it appears that human reasoning diminishes the merit of faith.  
 
@@ -272,7 +274,7 @@ Furthermore, to the degree that a virtue is closer to its end, so much more meri
 
 Response to Quaestiuncula 1  
 
-***I answer that in faith there are some things that are above human reason simply speaking, which the faith is about essentially, and some things that are above the reason of some, but not above the reason of every man. And it was necessary that faith be given for the sake of both of these.***
+I answer that in faith there are some things that are above human reason simply speaking, which the faith is about essentially, and some things that are above the reason of some, but not above the reason of every man. And it was necessary that faith be given for the sake of both of these.  
 
 For because God provides an end that is above man’s nature—namely, the full participation in his own beatitude—whereas he who tends into an end, if he pursues it by a free decision, must know the end from the consideration of which he is directed in the things that are for the sake of the end, therefore man must have a cognition of any thing that exceeds his natural cognition, which cognition is indeed given to man through the grace of faith. Now, just as in grace when it perfects the affect it presupposes the nature, because it perfects it, so too a natural cognition lies under faith, and faith presupposes it, and reason can prove it; for example, that God exists, is one, incorporeal, intelligent, and other things of this sort. And faith sufficiently inclines one to this, so that one who cannot grasp the argument for this assents to these things by faith. This was indeed necessary for five reasons, as Rabbi Moses says.Moses Maimonedes, *Guide for the Perplexed*, pt. 1, ch. 34.  
 
@@ -286,7 +288,7 @@ Reply Obj. 3: The things that are for the sake of the end ought to be proportion
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as the Philosopher says in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.12, 1101b12–15. praise is properly speaking said with reference to something else that is noted as being of greater dignity. For example, we see that a concupiscible act is praised insofar as it is related to reason in an orderly way; and an act of reason is insofar as it is related to understanding, by which it is directed, in an orderly way; and an act even of the highest powers insofar as the are fittingly related to their end. And on account of this, the things that are the best are not praised, but honored. And because a power is a disposition of something perfected toward something that is best, as is said in the *Physics* 7,Aristotle, *Physics* 7.3, 216b23; Aquinas, *In Physic.*, bk. 7, lect. 5, n. 6. therefore properly speaking the act of the power is praiseworthy. Now, our natural cognition is related to the divine cognition as to its superior, and therefore, when our reason consents to the divine, its act is praiseworthy, just as when the irascible power is subject to reason. And therefore to believe the first truth in things that are not seen is praiseworthy, and a meritorious work, and a work of virtue.***
+To the second question, it should be said that, as the Philosopher says in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.12, 1101b12–15. praise is properly speaking said with reference to something else that is noted as being of greater dignity. For example, we see that a concupiscible act is praised insofar as it is related to reason in an orderly way; and an act of reason is insofar as it is related to understanding, by which it is directed, in an orderly way; and an act even of the highest powers insofar as the are fittingly related to their end. And on account of this, the things that are the best are not praised, but honored. And because a power is a disposition of something perfected toward something that is best, as is said in the *Physics* 7,Aristotle, *Physics* 7.3, 216b23; Aquinas, *In Physic.*, bk. 7, lect. 5, n. 6. therefore properly speaking the act of the power is praiseworthy. Now, our natural cognition is related to the divine cognition as to its superior, and therefore, when our reason consents to the divine, its act is praiseworthy, just as when the irascible power is subject to reason. And therefore to believe the first truth in things that are not seen is praiseworthy, and a meritorious work, and a work of virtue.  
 
 Reply Obj. 1: To believe a man without a probable reason is to believe too quickly, because one man’s cognition is not naturally ordered to another man’s cognition, such that it would be ruled by it. But it is ordered in this way to the first truth.  
 
@@ -296,7 +298,7 @@ Reply Obj. 3: A man has discernment about things to be believed through the ligh
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the quantity of merit can be measured in two ways: namely, from the side of the deed and from the side of the doer. Now, the deed must be virtuous. And because virtue is about something difficult and good, it must hold its difficulty and goodness in and of itself. And therefore what adds to either of them adds to its merit, insofar as it on the side of the deed. But on the side of the one doing it, the will is required. Whence, to the degree that someone does it more voluntarily, so does he merit more, and always the quantity of the merit is measured according to the root of charity. However, this quantity is, as it were, formal in respect to the other one, so the judgment of the quantity of merit is more certain in reference to it.***
+To the third question, it should be said that the quantity of merit can be measured in two ways: namely, from the side of the deed and from the side of the doer. Now, the deed must be virtuous. And because virtue is about something difficult and good, it must hold its difficulty and goodness in and of itself. And therefore what adds to either of them adds to its merit, insofar as it on the side of the deed. But on the side of the one doing it, the will is required. Whence, to the degree that someone does it more voluntarily, so does he merit more, and always the quantity of the merit is measured according to the root of charity. However, this quantity is, as it were, formal in respect to the other one, so the judgment of the quantity of merit is more certain in reference to it.  
 
 Therefore natural reason can be brought to bear on things that are of the faith in two ways: either because reason is brought to bear in accordance with faith or against faith. Now, reasoning brought in against faith adds to the difficulty of the act in and of itself; whence, when the will for belief remains, one who believes something against which he sees many natural arguments merits more than one who does not see them. This is like one who, when powerfully tempted about luxury, if he resists it with an equal will, merits more. However, reasoning that is brought to bear in accordance with faith does not make one see what he believes, and therefore it does not diminish the difficulty of the deed, in and of itself. Rather, in and of itself it makes will more ready to believe, and from its side it can increase the merit of the faith, just as the habit of virtue, which inclines one to an act that is in itself difficult, renders it easy for the one doing it. Whence, it is clear that both natural reasoning brought in on behalf of faith and that brought in against faith, in and of themselves, increase the merit of faith—although it can also diminish it because of a failure of the one believing.  
 
@@ -308,7 +310,7 @@ Reply Obj. 3: If human reasoning has been brought to bear, this does not cause a
 
 Exposition of the text  
 
-****And yet this is not properly called faith, but truth*.*Sentences* III, 24.1(83).3. To the contrary. Here he divides faith against truth. Therefore faith does not contain truth. It should be said that here he means the manifest truth that follows upon faith.***
+*And yet this is not properly called faith, but truth*.*Sentences* III, 24.1(83).3. To the contrary. Here he divides faith against truth. Therefore faith does not contain truth. It should be said that here he means the manifest truth that follows upon faith.  
 
 *'When we believe not in words.'**Sent*. III, 24.1(83).3, citing Augustine, *Quaestiones euangeliorum*, bk. 2, q. 39 (CCSL 44B; PL 35:1352). To the contrary. Nowadays we also do not believe only in words, for since words are different among the different nations, there would be different faiths. And it should be said that it is not said to be a faith of words as though they were what we believed in, but because the things we believe are proposed to us in words, insufficiently showing us the things we believe.  
 

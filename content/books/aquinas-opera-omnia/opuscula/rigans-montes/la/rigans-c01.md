@@ -1,6 +1,8 @@
 # Watering the Mountains
 
-***Rigans montes de superioribus suis; de fructu operum tuorum satiabitur terra (Ps 103:13).***
+***Psalmus 103:13***
+
+Rigans montes de superioribus suis; de fructu operum tuorum satiabitur terra (Ps 103:13).  
 
 > Rex caelorum et Dominus hanc legem ab aeterno instituit, ut providentiae suae dona ad infima per media pervenirent.The Latin text of these two lectures (*Rigans montes* and *Hic est liber*) is that of the Marietti edition; M. Estler, however, has provided a more critical version of the Latin text. Estler’s alternative variations to the text will hereafter be indicated in the footnotes. Cf. M. Estler, *‘Rigans montes’*, in *Die Antrittsvorlesung des Thomas von Aquin in Paris 1256*, Stuttgarter biblische Beiträge 73 (Stuttgart: Katholisches Bibelwerk, 2015).
 
@@ -24,7 +26,7 @@ auditorum conditionem;
 
 et communicandi ordinem.  
 
-***Altitudo ista ostenditur in hoc quod dicit: ***de superioribus suis***. Glossa: *de altioribus archanis*.***
+Altitudo ista ostenditur in hoc quod dicit: ***de superioribus suis***. Glossa: *de altioribus archanis*.  
 
 Habet enim sacra doctrina altitudinem ex tribus.  
 
@@ -34,7 +36,7 @@ Secundo, ex subtilitate materiae, Eccli. XXIV: *ego in altissimis habitavi*. Sun
 
 Tertio, ex finis sublimitate: finem enim habet altissimum, scilicet vitam aeternam, Ioan. XX: *haec autem scripta sunt ut credatis quia Iesus est Christus Filius Dei; et ut credentes vitam habeatis in nomine eius*. Col. III: *quae sursum sunt quaerite ubi Christus est in dextera Dei sedens; quae sursum sunt sapite, non quae super terram*.  
 
-***Ratione enim altitudinis huius doctrinae et in doctoribus eius requiritur dignitas;Estler: *altitudo*. unde per montes significantur, cum dicitur: ***rigans montes***;***
+Ratione enim altitudinis huius doctrinae et in doctoribus eius requiritur dignitas;Estler: *altitudo*. unde per montes significantur, cum dicitur: ***rigans montes***;  
 
 et hoc propter tria, scilicet:  
 
@@ -58,7 +60,7 @@ Muniti, ut errores confutent disputando, Luc. XXI: *ego dabo vobis os et sapient
 
 Et de his tribus officiis, scilicet praedicandi, legendi et disputandi, dicitur,Estler: *dicit*. Tit. I: *ut sit potens exhortari*, quantum ad praedicationem; *in doctrina sana*, quantum ad lectionem; *et contradicentes revincere*, quantum ad disputationem.  
 
-***Tertio, auditorum conditionem, quae sub terrae similitudine figuratur; unde dicit: ***satiabitur terra***.***
+Tertio, auditorum conditionem, quae sub terrae similitudine figuratur; unde dicit: ***satiabitur terra***.  
 
 Et hoc quia terra infima est, Prov. XXV: *caelum sursum et terra deorsum*.  
 
@@ -74,7 +76,7 @@ Item fecundi, ut percepta sapientiae verba in eis fructificent, Luc. VIII: *quod
 
 Humilitas ergo in eis requiritur quantum ad disciplinam quae est per auditum, Eccli. VI: *si inclinaveris aurem tuam excipies doctrinam; et si dilexeris audire, sapiens eris*. Rectitudo autem sensus, quantum ad iudicium auditorum, Iob XII: *nonne auris verba diiudicat?* Sed fecunditas quantum ad inventionem, per quam ex paucis auditis multa bonus auditor annuntiet, Prov. IX: *da occasionem sapienti, et addetur ei sapientia*.  
 
-***Ordo autem generationis tangitur hic quantum ad tria, scilicet, quantum ad communicandi ordinem; et quantum ad quantitatem et qualitatem doni accepti.***
+Ordo autem generationis tangitur hic quantum ad tria, scilicet, quantum ad communicandi ordinem; et quantum ad quantitatem et qualitatem doni accepti.  
 
 Primo quantum ad communicandi ordinem:Estler: omits *primo quantum ad communicandi ordinem*. quia non totum quod in divina sapientia continetur, mentes doctorum capere possunt. Unde non dicit: superiora montibus influens, sed: ***de superioribus rigans***; Iob XXVI: *ecce haec ex parte dicta sunt*. Similiter etiam, nec totum quod doctores capiunt, auditoribus effundunt, II Cor. XII: *audivit archana verba quae non licet homini loqui*. Unde non dicit: fructum montium terrae tradens, sed: ***de fructu terram satians***. Et hoc est quod dicit Gregorius in XVII Moralium exponens illud Iob XXVI: *qui ligat aquas in nubibus suis, ut non erumpant pariter deorsum*: praedicare non debet rudibus doctor quanta cognoscit, quia et ipse de divinis mysteriis cognoscere non valet quanta sunt.  
 

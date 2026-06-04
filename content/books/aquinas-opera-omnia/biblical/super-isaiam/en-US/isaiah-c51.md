@@ -1,5 +1,7 @@
 # Chapter 49
 
+^49:1^ Give ear, you islands, and hearken, you people from afar. The Lord has called me from the womb, from the bowels of my mother he has been mindful of my name.  
+
 > ^49:2^ And he has made my mouth like a sharp sword: in the shadow of his hand he has protected me, and has made me as a chosen arrow: in his quiver he has hidden me.
 
 > ^49:3^ And he said to me: you are my servant Israel, for in you will I glory.

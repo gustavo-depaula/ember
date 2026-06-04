@@ -1,5 +1,7 @@
 # On Divine Things
 
+***De essentialibus***
+
 ***Quaestio 1***
 
 ***De scientia Dei***
@@ -22,7 +24,7 @@ Articulus unicus
 
 ***Utrum in Deo sint plures ideae***
 
-***Circa scientiam Dei quaesitum est utrum in Deo sint plures ideae? Et videtur quod sic.***
+Circa scientiam Dei quaesitum est utrum in Deo sint plures ideae? Et videtur quod sic.  
 
 Dicit enim Augustinus in libro *LXXXIII quaestionum* quod Deus *singula propriis rationibus* creavit, et alia ratione hominem, alia ratione equum; sed *rationes rerum in mente divina* dicuntur *ideae*, ut patet per Augustinum, ibidem; ergo sunt plures ideae.  
 
@@ -70,7 +72,7 @@ Articulus 2
 
 ***De quodam effectu divinae virtutis***
 
-***Ad secundum sic proceditur. Videtur quod aquae habentes veram speciem aquae elementaris supra caelos existant.***
+Ad secundum sic proceditur. Videtur quod aquae habentes veram speciem aquae elementaris supra caelos existant.  
 
 Homo enim dicitur minor mundus propter similitudinem quam habet cum mundo maiori; sed videmus quod in corpore humano superponitur cerebrum, quod habet naturam aquae, cordi, quod habet proprietatem ignis inquantum est fons naturalis caloris; ergo etiam in mundo maiori aqua superponitur aliis elementis. Et haec ratio videtur esse Augustini in XI *De civitate Dei*, ubi dicit de quibusdam quod *ponderibus elementorum moventur et ideo non putant aquarum fluidam gravemque naturam in superioribus mundi locis potuisse constitui, qui secundum rationes suas, si ipsi hominem facere* potuissent, *non ei pituitam, quod Graece fleuma dicitur et tanquam in elementis corporis nostri aquarum vicem optinet, in capite ponerent*.  
 
@@ -102,7 +104,7 @@ Quaestio 3
 
 ***Ad quid virtus divina se extendere possit***
 
-***Deinde considerandum est de his ad quae divina potentia se extendere potest. Et circa hoc quaeruntur duo:***
+Deinde considerandum est de his ad quae divina potentia se extendere potest. Et circa hoc quaeruntur duo:  
 
 primo, utrum Deus possit aliquid in nihilum redigere;  
 
@@ -134,9 +136,9 @@ Alio modo aliquid est causa defectus praeter intentionem, et sic semper oportet 
 
 Articulus 2  
 
-***Si aliquid esset in nihilum redactum, utrum Deus posset illud reparare idem numero***
+Si aliquid esset in nihilum redactum, utrum Deus posset illud reparare idem numero  
 
-***Ad secundum sic proceditur. Videtur quod Deus non possit id quod in nihilum redactum est, idem numero reparare.***
+Ad secundum sic proceditur. Videtur quod Deus non possit id quod in nihilum redactum est, idem numero reparare.  
 
 Dicit enim Philosophus in II *De generatione* quod ea quorum substantia corrumpitur, non reiterantur eadem numero; sed eorum quae in nihilum rediguntur, substantia corrumpitur; ergo eadem numero iterari non possunt.  
 
@@ -176,7 +178,7 @@ Articulus 1
 
 ***Utrum Pater eodem verbo dicat se et creaturam***
 
-***Ad primum sic proceditur. Videtur quod Pater non eodem verbo dicat se et creaturam.***
+Ad primum sic proceditur. Videtur quod Pater non eodem verbo dicat se et creaturam.  
 
 Dicere enim se soli Patri convenit, ut Augustinus dicit, VII *De Trinitate*; sed dicere creaturam convenit toti Trinitati: ea enim quae important respectum ad creaturam toti Trinitati conveniunt, ut patet per Dionysium, II capitulo *De divinis nominibus*; ergo Pater non eodem verbo dicit se et creaturam.  
 
@@ -196,7 +198,7 @@ Articulus 2
 
 ***Utrum Filius sua filiatione distinguatur a Spiritu sancto***
 
-***Ad secundum sic proceditur. Videtur quod Filius distinguatur filiatione a Spiritu Sancto.***
+Ad secundum sic proceditur. Videtur quod Filius distinguatur filiatione a Spiritu Sancto.  
 
 Eodem enim aliquis constituitur et ab alio distinguitur; sed persona Filii constituitur filiatione, quae est proprietas personalis, id est constituens personam Filii; ergo filiatione distinguitur a Spiritu Sancto.  
 
@@ -224,7 +226,7 @@ Articulus unicus
 
 ***Utrum sit unum numero corpus Christi affixum cruci et iacens in sepulcro***
 
-***Et circa hoc quaesitum est utrum sit unum numero corpus Christi affixum cruci et iacens in sepulcro. Et videtur quod non.***
+Et circa hoc quaesitum est utrum sit unum numero corpus Christi affixum cruci et iacens in sepulcro. Et videtur quod non.  
 
 Quia quaecumque differunt specie, differunt numero; sed corpus Christi appensum in cruce et iacens in sepulcro differt specie, eo modo quo mortuum et vivum specie differunt; ergo non est unum et idem numero.  
 

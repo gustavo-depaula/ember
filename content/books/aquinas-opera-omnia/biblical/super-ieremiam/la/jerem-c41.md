@@ -1,6 +1,8 @@
 # C. 39 - The capture of Jerusalem
 
-***^39:1^ Anno nono Sedeciae regis Juda, mense decimo, venit Nabuchodonosor rex Babylonis, et omnis exercitus ejus, ad Jerusalem, et obsidebant eam.***
+***Lectio 1***
+
+^39:1^ Anno nono Sedeciae regis Juda, mense decimo, venit Nabuchodonosor rex Babylonis, et omnis exercitus ejus, ad Jerusalem, et obsidebant eam.  
 
 > ^39:2^ Undecimo autem anno Sedeciae, mense quarto, quinta mensis, aperta est civitas,
 
@@ -58,7 +60,7 @@ Tertio condemnationem plebis in transmigrationem: ***et reliquias populi transtu
 
 Lectio 2  
 
-***^39:10^ Et de plebe pauperum qui nihil penitus habebant dimisit Nabuzardan magister militae in terra Juda, et dedit eis vineas, et cisternas in die illa.***
+^39:10^ Et de plebe pauperum qui nihil penitus habebant dimisit Nabuzardan magister militae in terra Juda, et dedit eis vineas, et cisternas in die illa.  
 
 > ^39:11^ Praeceperat autem Nabuchodonosor rex Babylonis de Jeremia, Nabuzardan magistro militum, dicens:
 

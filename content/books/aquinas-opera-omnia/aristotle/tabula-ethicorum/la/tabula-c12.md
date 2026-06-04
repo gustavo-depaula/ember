@@ -1,5 +1,7 @@
 # Chapter 12
 
+***Vox 1***
+
 ***Natura***
 
 ***Quod nullum natura existencium est ex assuefaccione; exemplum de lapide et igne.***
@@ -38,13 +40,13 @@ Vox 4
 
 ***Nomina***
 
-***Quod hec nomina dampnum et lucrum inuenta sunt in communicacionibus uoluntariis, quia plus in talibus habere dicitur lucrari et minus habere dicitur dampnificari.***
+Quod hec nomina dampnum et lucrum inuenta sunt in communicacionibus uoluntariis, quia plus in talibus habere dicitur lucrari et minus habere dicitur dampnificari.  
 
 Vox 5  
 
 ***Nummisma***
 
-***Quod nummisma inuentum est quasi mensura quedam per quam superhabundancia et defectus reducuntur ad medium.***
+Quod nummisma inuentum est quasi mensura quedam per quam superhabundancia et defectus reducuntur ad medium.  
 
 Quod nummisma factum est propter commutacionis necessitatem.  
 
@@ -70,25 +72,25 @@ Vox 8
 
 ***Nati sumus***
 
-***Quod nati sumus magis ad delectaciones et ideo sumus facilius mobiles ad intemperanciam quam ad temperanciam.***
+Quod nati sumus magis ad delectaciones et ideo sumus facilius mobiles ad intemperanciam quam ad temperanciam.  
 
 Vox 9  
 
 ***Nemesis***
 
-***Quod Nemesis est medietas inuidie de bonis que accidunt indignis, superexcedens autem inuidus dicitur qui tristatur de bonis malorum et bonorum, deficiens autem epykairekakus.***
+Quod Nemesis est medietas inuidie de bonis que accidunt indignis, superexcedens autem inuidus dicitur qui tristatur de bonis malorum et bonorum, deficiens autem epykairekakus.  
 
 Vox 10  
 
 ***Nemesiticus***
 
-***Quod Nemesiticus tristatur de indigne bene operantibus, epykairekakus de omnibus male gaudet.***
+Quod Nemesiticus tristatur de indigne bene operantibus, epykairekakus de omnibus male gaudet.  
 
 Vox 11  
 
 ***Neoptolemus***
 
-***Quod Neoptolemus persuasus ab Ulixe ut mendacio deciperet Philoctetem, prius consenciens postea ab illa opinione discessit et laudatus est.***
+Quod Neoptolemus persuasus ab Ulixe ut mendacio deciperet Philoctetem, prius consenciens postea ab illa opinione discessit et laudatus est.  
 
 Vox 12  
 

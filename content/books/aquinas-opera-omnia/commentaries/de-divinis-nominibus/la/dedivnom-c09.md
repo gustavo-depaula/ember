@@ -1,10 +1,12 @@
 # C. 8 - On Virtue, Justice, Salvation, Liberation, In Which Also On Inequality
 
+***De virtute, iustitia, salvatione, liberatione, in quo et de inaequalitate***
+
 ***Lectio 1***
 
 ***Quomodo virtus accipiatur in Deo et de infinitate eius***
 
-***C. VIII, § I. 330. Sed quoniam divinam veritatem et supersapientem sapientiam et sicut virtutem laudant et sicut iustitiam theologi et sicut salvationem et sicut liberationem, age et istas Dei-nominationes, sicut est possibile nobis, reseremus.***
+C. VIII, § I. 330. Sed quoniam divinam veritatem et supersapientem sapientiam et sicut virtutem laudant et sicut iustitiam theologi et sicut salvationem et sicut liberationem, age et istas Dei-nominationes, sicut est possibile nobis, reseremus.  
 
 > 331. Et quod quidem thearchia ab omni quocumque modo et existente et cogitata virtute segregata est et superat, non arbitror aliquem in divinis eloquiis conversatorum ignorare: multoties enim theologia et dominationem ipsi et ipsarum coelestium virtutum determinans, tradita est. Quomodo igitur ipsam theologi et sicut virtutem laudant ab omni segregatam virtute aut quomodo in ipsa virtutis-nominationem accipiamus?
 
@@ -92,7 +94,7 @@ Lectio 2
 
 ***De processu divinae virtutis ad entia in speciali***
 
-***§4. 335. Ex ipsa sunt deiformes angelicorum ornatuum virtutes, ex ipsa et esse intransmutabiliter habent et omnes ipsorum intellectuales et immortales sempiternos motus et fortitudinem ipsam et non minorabile desiderium boni ab infiniti boni virtute acceperunt, ipsa immittente ipsis posse et esse ista et desiderare quod semper est et ipsum posse desiderare quod semper possunt.***
+§4. 335. Ex ipsa sunt deiformes angelicorum ornatuum virtutes, ex ipsa et esse intransmutabiliter habent et omnes ipsorum intellectuales et immortales sempiternos motus et fortitudinem ipsam et non minorabile desiderium boni ab infiniti boni virtute acceperunt, ipsa immittente ipsis posse et esse ista et desiderare quod semper est et ipsum posse desiderare quod semper possunt.  
 
 > § 5. 336. Procedunt autem ea quae sunt indeficientis virtutis et ad homines et animalia et plantas et totam omnis rei naturam;
 
@@ -164,7 +166,7 @@ Lectio 3
 
 ***Quare dicatur quod Deus aliquid non potest***
 
-***§ 6. 339. Et quidem dicit Elymas magus: *si omnipotens est Deus, quomodo dicitur aliquid non posse a nostro theologo?* Improperat autem divino Paulo qui dixit *Deum non posse negare seipsum*.***
+§ 6. 339. Et quidem dicit Elymas magus: *si omnipotens est Deus, quomodo dicitur aliquid non posse a nostro theologo?* Improperat autem divino Paulo qui dixit *Deum non posse negare seipsum*.  
 
 > 340. Apponens autem hoc, nimium timeo ne stultitiae debeam risum, puerorum effrenorum et super arenam et infirmas aedificationes dissolvere: moliens et sicut contra quamdam impossibilem intentionem iaculari studens contra theologicam de isto deliberationem.
 
@@ -210,7 +212,7 @@ Lectio 4
 
 ***De iustitia Dei***
 
-***§ 7. 344. Iustitia autem rursus laudatur Deus sicut omnibus secundum dignitatem distribuens et commensurationem et pulchritudinem et bonam ordinationem et ornatum et omnes distributiones et ordines segregans unicuique secundum vere existentem iustissimam diffinitionem et omnibus propriae operationis ipsorum causa existens.***
+§ 7. 344. Iustitia autem rursus laudatur Deus sicut omnibus secundum dignitatem distribuens et commensurationem et pulchritudinem et bonam ordinationem et ornatum et omnes distributiones et ordines segregans unicuique secundum vere existentem iustissimam diffinitionem et omnibus propriae operationis ipsorum causa existens.  
 
 > 345. Omnia enim divina iustitia ordinat et terminat et omnia ab omnibus immixta et non confusa salvat, omnibus existentibus convenientia unicuique donat, secundum dignitatem unicuique existentium supervenientem.
 
@@ -278,7 +280,7 @@ Lectio 5
 
 ***De effectibus divinae iustitiae: de salvatione, de liberatione, de inaequalitate***
 
-***§ 9. 351. Ipsa igitur divina iustitia et salvatio totorum laudatur, propriam uniuscuiusque et mundam ab aliis substantiam et ordinem salvans et custodiens et causa munde existens in totis propriae operationis.***
+§ 9. 351. Ipsa igitur divina iustitia et salvatio totorum laudatur, propriam uniuscuiusque et mundam ab aliis substantiam et ordinem salvans et custodiens et causa munde existens in totis propriae operationis.  
 
 > 352. Si autem aliquis salvationem laudet et sicut ex peioribus tota salvatorie abripientem omnino alicubi et hunc nos laudatorem largissimae recipiemus salvationis.
 

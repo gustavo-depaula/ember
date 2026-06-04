@@ -1,5 +1,10 @@
 # Here silent is Christ’s Herald
 
+***Praeco lucerna pugil***
+***Christi populi fideique***
+***hic silet, hic tegitur, iacet***
+***hic mactatus inique.***
+
 > Vox ovibus dulcis,
 > gratissima lux animorum,
 > et verbi gladius, gladio
@@ -11,6 +16,6 @@
 > servata decorat.
 
 > Sed Christus nova signa
-> loqui facit, acParma reads *et*. nova turbae
-> luxParma reads *lex*. datur, atque fides vulgata
+> loqui facit, ac *(Parma reads *et*.)* nova turbae
+> lux *(Parma reads *lex*.)* datur, atque fides vulgata
 > refulget in urbe.

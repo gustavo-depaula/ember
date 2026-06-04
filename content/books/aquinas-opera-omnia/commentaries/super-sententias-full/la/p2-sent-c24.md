@@ -1,8 +1,10 @@
 # D. 44 - Whether the power of God is limited to the quality of things
 
+***Utrum Dei potentia limitetur ad qualitatem rerum***
+
 ***Divisio textus***
 
-***Hic excludit praedictorum errorem quantum ad hoc quod ponebant potentiam Dei limitari ad qualitatem rerum; et dividitur in partes duas: in prima excludit errorem; in secunda determinat quamdam quaestionem per quam videbatur in divina potentia diminutio poni, ibi: *praeterea quaeri solet, utrum Deus semper possit omne quod olim potuit*.***
+Hic excludit praedictorum errorem quantum ad hoc quod ponebant potentiam Dei limitari ad qualitatem rerum; et dividitur in partes duas: in prima excludit errorem; in secunda determinat quamdam quaestionem per quam videbatur in divina potentia diminutio poni, ibi: *praeterea quaeri solet, utrum Deus semper possit omne quod olim potuit*.  
 
 Prima in duas: in prima inquirit utrum Dei potentia limitetur ad rerum bonitatem; in secunda inquirit utrum limitetur ad rerum modum, ibi: *post haec considerandum est utrum alio modo, vel meliori quam facit, possit ea facere quae facit*.  
 
@@ -26,7 +28,7 @@ Articulus 1
 
 ***Utrum Deus potuerit facere aliquam creaturam meliorem quam fecerit***
 
-***Ad primum sic proceditur. Videtur quod Deus nullam creaturam meliorem facere potuerit quam sit:***
+Ad primum sic proceditur. Videtur quod Deus nullam creaturam meliorem facere potuerit quam sit:  
 
 Quia, secundum Dionysium, cap. 4 *De Div. nom*., et Platonem, in *Convivio de amore*, cap. 4, optimi est optima adducere. Sed optimo nihil melius potest esse. Ergo his quae Deus fecit qui optimus est, nihil melius esse potest.  
 
@@ -56,7 +58,7 @@ Articulus 2
 
 ***Utrum Deus potuerit facere universum melius***
 
-***Ad secundum sic proceditur. Videtur quod universum Deus melius facere non potuerit:***
+Ad secundum sic proceditur. Videtur quod universum Deus melius facere non potuerit:  
 
 Quia, secundum Augustinum, in *Enchir*., cap. 10, sunt bona quae condidit Deus etiam singula; simul autem omnia valde bona. Sed eo quod est superlative bonum, nihil melius esse potest. Ergo universo nihil melius esse potest.  
 
@@ -96,7 +98,7 @@ Articulus 3
 
 ***Utrum Deus potuerit facere humanitatem Christi meliorem quam sit***
 
-***Ad tertium sic proceditur. Videtur quod humanitatem Christi Deus meliorem facere non potuerit quam sit.***
+Ad tertium sic proceditur. Videtur quod humanitatem Christi Deus meliorem facere non potuerit quam sit.  
 
 Tanto enim unumquodque melius est, quanto Deo propinquius. Sed nullum creatum potest esse Deo propinquius quam quod unitur sibi in unitate personae, sicut humana natura in Christo. Ergo videtur quod nihil ea melius facere potuerit Deus.  
 
@@ -136,7 +138,7 @@ Articulus 4
 
 ***Utrum Deus possit facere omne quod olim potuit***
 
-***Ad quartum sic proceditur. Videtur quod Deus non possit facere omne quod olim potuit.***
+Ad quartum sic proceditur. Videtur quod Deus non possit facere omne quod olim potuit.  
 
 Potentia enim Dei non se extendit tantum ad species, sed etiam ad individua: quia ipse facit et formam et materiam. Sed antequam Socrates esset, potuit Socratem facere. Ergo, et Socrate existente, potest Socratem facere. Hoc autem falsum est, quia sic substantia rei esset bis, quod est impossibile. Ergo non quidquid potuit, potest.  
 
@@ -166,6 +168,6 @@ Ad quintum etiam patet responsio ex dictis.
 
 Expositio textus  
 
-****Licet non possit modo incarnari*. Videtur hoc esse falsum: quia sicut Filius carnem assumpsit, ita et Pater potuit et potest carnem assumere, ut in 3 dicitur. Ergo videtur quod etiam possit nunc incarnari.***
+*Licet non possit modo incarnari*. Videtur hoc esse falsum: quia sicut Filius carnem assumpsit, ita et Pater potuit et potest carnem assumere, ut in 3 dicitur. Ergo videtur quod etiam possit nunc incarnari.  
 
 Ad quod dicendum, quod Magister intelligit de eadem numero incarnatione quae olim facta est. Si enim modo incarnaretur, non esset idem incarnari numero, sed alia incarnatio.

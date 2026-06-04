@@ -1,5 +1,7 @@
 # On the Sacrament of the Altar
 
+***Quaestio 4***
+
 ***De sacramento altaris***
 
 ***Deinde quaeritur de sacramento altaris. Et circa hoc quaeruntur tria:***
@@ -12,9 +14,9 @@ tertio, utrum Deus possit facere quod albedo et aliae qualitates sint sine quant
 
 Articulus 1  
 
-***Utrum corpus Christi secundum totam suam quantitatem contineatur sub speciebus panis***
+Utrum corpus Christi secundum totam suam quantitatem contineatur sub speciebus panis  
 
-***Ad primum sic proceditur. Videtur quod non possit totum corpus Christi sub illis speciebus panis contineri.***
+Ad primum sic proceditur. Videtur quod non possit totum corpus Christi sub illis speciebus panis contineri.  
 
 Non enim potest, etiam per miraculum, fieri ut duo contradictoria sint simul vera, ut Augustinus dicit *Contra Faustum*; hoc autem sequeretur si totum corpus Christi esset sub illis speciebus; si enim est sub illis speciebus totum, non est maius illis speciebus cum non excedat eas; item, secundum rei veritatem est maius, cum sit bicubitum vel amplius; et sic erit eodem maius et non maius; ergo non potest, etiam per miraculum, fieri quod sub illis speciebus contineatur totum.  
 
@@ -34,7 +36,7 @@ Articulus 2
 
 ***Utrum in eodem instanti sit panis et corpus Christi***
 
-***Ad secundum sic proceditur. Videtur quod in eodem instanti sub speciebus illis sit substantia panis et corpus Christi.***
+Ad secundum sic proceditur. Videtur quod in eodem instanti sub speciebus illis sit substantia panis et corpus Christi.  
 
 Accipiatur enim ultimum instans in quo est panis et primum instans in quo est corpus Christi; aut ergo sunt duo instantia aut unum; sed non duo, quia, cum *inter quaelibet duo instantia sit tempus medium*, esset aliquod tempus dare in quo non esset ibi nec corpus Christi nec substantia panis; ergo oportet quod sit unum instans; et sic in eodem instanti est ibi panis et corpus Christi.  
 
@@ -66,9 +68,9 @@ Ad quartum dicendum quod fieri dicitur dupliciter: uno modo moveri ad esse, et s
 
 Articulus 3  
 
-***Utrum Deus possit facere quod albedo et aliae qualitates sint sine quantitate, sicut facit quod quantitas in sacramento altaris sit sine subiecto***
+Utrum Deus possit facere quod albedo et aliae qualitates sint sine quantitate, sicut facit quod quantitas in sacramento altaris sit sine subiecto  
 
-***Ad tertium sic proceditur. Videtur quod Deus non possit facere quod albedo aut aliqua qualitas corporalis sit sine quantitate.***
+Ad tertium sic proceditur. Videtur quod Deus non possit facere quod albedo aut aliqua qualitas corporalis sit sine quantitate.  
 
 Quia quantitas est prima dispositio corporis, eo quod immediate adhaeret substantiae, ut dicit Boetius; sed primum in quolibet genere est causa eorum *quae sunt post*, ut dicitur II *Metaphysicae*; ergo a quantitate habent omnia alia accidentia quod sint dispositiones corporales; ergo remota quantitate nulla qualitas corporalis remanet.  
 

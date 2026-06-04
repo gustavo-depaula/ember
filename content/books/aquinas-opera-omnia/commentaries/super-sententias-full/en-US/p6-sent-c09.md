@@ -1,8 +1,10 @@
 # D. 31 - Duration of charity
 
+***Duration of charity***
+
 ***Division of the text***
 
-***After the Master has discussed charity, here he considers its duration. This consideration is divided into two parts.***
+After the Master has discussed charity, here he considers its duration. This consideration is divided into two parts.  
 
 In the first, he determines about the duration of charity in regard to its essence;  
 
@@ -46,7 +48,7 @@ Article 1
 
 ***Whether one who has charity can lose it***
 
-***To the first we proceed thus.Parallels: *ST* II-II.24.11–12; *SCG* IV.70; *De caritate*, aa. 6, 12, 13; *Super Rom.* 8, lect. 7; *Super 1 Cor.* 13, lect. 3. It seems that one who has charity cannot lose it.***
+To the first we proceed thus.Parallels: *ST* II-II.24.11–12; *SCG* IV.70; *De caritate*, aa. 6, 12, 13; *Super Rom.* 8, lect. 7; *Super 1 Cor.* 13, lect. 3. It seems that one who has charity cannot lose it.  
 
 Obj. 1: For everyone who has charity is born of God, since charity makes men sons of God. But everyone who is born of God does not sin, as is said in 1 John 3:6. Therefore everyone who has charity does not sin; and so charity once had cannot be lost.  
 
@@ -102,7 +104,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed thus.Parallels: *In I Sent.*, d. 40, q. 1, a. 2, ad 5; *ST* I.24.1; *De veritate*, q. 7, aa. 1, 4; *Super Philip.* 4, lect. 1. [We divide the article into three subquestions: 1. whether the book of life is something created; 2. whether the book of life is about God; 3. whether anything can be said to be erased from the book of life]. It seems that the book of life is something created.***
+To the second we proceed thus.Parallels: *In I Sent.*, d. 40, q. 1, a. 2, ad 5; *ST* I.24.1; *De veritate*, q. 7, aa. 1, 4; *Super Philip.* 4, lect. 1. [We divide the article into three subquestions: 1. whether the book of life is something created; 2. whether the book of life is about God; 3. whether anything can be said to be erased from the book of life]. It seems that the book of life is something created.  
 
 Obj. 1: For on Sirach 24:23, *all these things are the book of life*,NRSVCE renders this as “all this is the book of the covenant”; v. 23 in NRSVCE corresponds to v. 32 in the Vulgate. a gloss says, *the book referred to here is the Old and New Testament*.citation missing. But that is something created; therefore so is the book of life.  
 
@@ -118,7 +120,7 @@ On the contrary, Augustine says in the *City of God*, *the book of life is God�
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it seems that the book of life has to do with God.Parallels: *ST* I.24.2; *De veritate*, q. 7, aa. 5–7. For on Psalm 69:28, *let them be blotted out of the book of the living*, the Gloss says, *the book of the living is God’s knowledge*.*Glossa Ordinaria* (PL 113:95). But God has maximal knowledge of himself. Therefore the book of life has to do with God.***
+Obj. 1: Furthermore, it seems that the book of life has to do with God.Parallels: *ST* I.24.2; *De veritate*, q. 7, aa. 5–7. For on Psalm 69:28, *let them be blotted out of the book of the living*, the Gloss says, *the book of the living is God’s knowledge*.*Glossa Ordinaria* (PL 113:95). But God has maximal knowledge of himself. Therefore the book of life has to do with God.  
 
 Obj. 2: Further, he is the font of any life whatsoever. If therefore the book of life is about others who have life by way of participation, much more is it about himself who has life in the way of the origin.  
 
@@ -134,7 +136,7 @@ On the contrary, something is said to be “written in God” which has an exemp
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that nothing written there ought to be said to be erased from it.Parallels: *In I Sent.*, d. 40, q. 1, a. 2, ad 5; a. 3, ad 3; *Super Philip*. 4, lect. 1. For the book of life is divine predestination, as the Gloss says on Philippians 4:3.*Glossa Ordinaria* (PL 114:607). But no one is said to fall away from predestination; therefore neither should anyone be said to be erased from the book of life.***
+Obj. 1: Furthermore, it seems that nothing written there ought to be said to be erased from it.Parallels: *In I Sent.*, d. 40, q. 1, a. 2, ad 5; a. 3, ad 3; *Super Philip*. 4, lect. 1. For the book of life is divine predestination, as the Gloss says on Philippians 4:3.*Glossa Ordinaria* (PL 114:607). But no one is said to fall away from predestination; therefore neither should anyone be said to be erased from the book of life.  
 
 Obj. 2: Further, a book in which something can be written down and erased is changeable. But the book of life is unchangeable, since it is something uncreated. Therefore no one can be erased from it.  
 
@@ -146,7 +148,7 @@ Furthermore, no one is both written in the book of life and damned. But many who
 
 Response to Quaestiuncula 1  
 
-***I answer that the “book of life” of which we now speak is said metaphorically. Hence its meaning must be grasped in terms of likeness to a material book, the notion of which seems to be that it contains some figures that function as though likenesses of the things known by means of that book. Hence what we are speaking of is called the book of life because it contains likenesses by which life can be known. It would not, however, be the book of life in a sufficient way—that is, as though producing perfect knowledge about life—unless it should contain likenesses of every life in particular, since knowledge at the universal level is imperfect and still in potency to particulars. But to have in just this way the likenesses of all things that have life, and to have these likenesses determinately, belongs only to the divine mind, in which are the proper exemplars of all things. And for this reason the book of life is not something created, but is the divine knowledge about life, not only at the universal level but down to the particular, with respect to everything in which life is found. And since knowledge is essential [to the divine nature] and is appropriated to the Son, therefore the book of life is something essential in God and is appropriated to the Son.***
+I answer that the “book of life” of which we now speak is said metaphorically. Hence its meaning must be grasped in terms of likeness to a material book, the notion of which seems to be that it contains some figures that function as though likenesses of the things known by means of that book. Hence what we are speaking of is called the book of life because it contains likenesses by which life can be known. It would not, however, be the book of life in a sufficient way—that is, as though producing perfect knowledge about life—unless it should contain likenesses of every life in particular, since knowledge at the universal level is imperfect and still in potency to particulars. But to have in just this way the likenesses of all things that have life, and to have these likenesses determinately, belongs only to the divine mind, in which are the proper exemplars of all things. And for this reason the book of life is not something created, but is the divine knowledge about life, not only at the universal level but down to the particular, with respect to everything in which life is found. And since knowledge is essential [to the divine nature] and is appropriated to the Son, therefore the book of life is something essential in God and is appropriated to the Son.  
 
 Reply Obj. 1: The Old and New Testament is called the book of life as though producing knowledge about life at the universal level and teaching commandments by which life is attained; but nevertheless it does not produce knowledge about the life of each one in particular. And therefore it can be called the book of life in some sense, but not according to the full notion.  
 
@@ -160,7 +162,7 @@ Reply Obj. 5: While life may be appropriated to the Holy Spirit, knowledge about
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that God’s knowledge is called the book of life. Since, however, a book is properly about those things of which it produces knowledge through figures and likenesses existing in the book, therefore only the knowledge of those things that God knows through a likeness can be called a book. Now, God does not know evils through likenesses of evils existing in himself; they are rather known in the manner of privations. In like manner, too, God does not know himself through a likeness of himself, but rather by the fact that he is present to himself according to his own essence. Hence neither the knowledge God has of himself nor the knowledge he has of evils can be called a book, except when it comes to the punishments of the wicked insofar as these punishments are just and good, for from this vantage, God’s knowledge may be called the Book of Death. Life, however, is counted among good things. Hence the book of life must be understood with respect to the life found in creatures; and although God has knowledge about the life of nature, of grace, and of glory—so that with respect to any of the aforesaid lives God’s knowledge could be called the book of life—nevertheless the perfect notion of life is found only in the life of glory, which suffers no admixture of death. And therefore the book of life, according to its proper sense, is the knowledge of God that he has about the life of glory of each one [who can receive it].***
+To the second question, it should be said that God’s knowledge is called the book of life. Since, however, a book is properly about those things of which it produces knowledge through figures and likenesses existing in the book, therefore only the knowledge of those things that God knows through a likeness can be called a book. Now, God does not know evils through likenesses of evils existing in himself; they are rather known in the manner of privations. In like manner, too, God does not know himself through a likeness of himself, but rather by the fact that he is present to himself according to his own essence. Hence neither the knowledge God has of himself nor the knowledge he has of evils can be called a book, except when it comes to the punishments of the wicked insofar as these punishments are just and good, for from this vantage, God’s knowledge may be called the Book of Death. Life, however, is counted among good things. Hence the book of life must be understood with respect to the life found in creatures; and although God has knowledge about the life of nature, of grace, and of glory—so that with respect to any of the aforesaid lives God’s knowledge could be called the book of life—nevertheless the perfect notion of life is found only in the life of glory, which suffers no admixture of death. And therefore the book of life, according to its proper sense, is the knowledge of God that he has about the life of glory of each one [who can receive it].  
 
 In this way, the book of life differs: (1) from God’s knowledge, which is about both temporal and eternal things; (2) from God’s foreknowledge, which is about both the good and the wicked; (3) and also from predestination, since predestination, properly speaking, is about future things and implies providential direction to an end, since it is the purpose to have mercy. But the book of life implies simple knowledge about life, leaving the time undetermined; hence both those who already have life and those who are going to have it are said to be written in the book of life.  
 
@@ -168,7 +170,7 @@ Reply Obj. 1–7: And through this response, the solution to all the objections 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the book of life, as was said, is God’s knowledge about the life of glory of any man. Now, a thing has being in a twofold manner: in itself and in its cause. In itself, indeed, it is simply, while in its cause, it has being in a certain respect. But grace, just in itself, is a sufficient cause of glory, so that he who has grace has now, in a certain respect, the life of glory. Therefore God has knowledge about the life of glory of anyone in two ways: in one way, insofar as God knows the very life of glory to be in that one [right now], or to be in him in the future, simply; and then such a man is said to be written in the book of life simply, or, as certain ones put it, “enrolled,” from a likeness to those who are enrolled in the military or in some office; in another way, insofar as God knows the life of glory to be in that one, or to be in him in the future, in its cause, which is grace; and such a man is said to be written in the book of life in a certain respect, or, as certain ones put it, “noted down.” Since therefore it is impossible that the knowledge of God should fail, it follows that whomsoever he knows is to have eternal life will in fact have it. Hence that man who is written simply, or “enrolled,” in the book of life cannot be erased from it.***
+To the third question, it should be said that the book of life, as was said, is God’s knowledge about the life of glory of any man. Now, a thing has being in a twofold manner: in itself and in its cause. In itself, indeed, it is simply, while in its cause, it has being in a certain respect. But grace, just in itself, is a sufficient cause of glory, so that he who has grace has now, in a certain respect, the life of glory. Therefore God has knowledge about the life of glory of anyone in two ways: in one way, insofar as God knows the very life of glory to be in that one [right now], or to be in him in the future, simply; and then such a man is said to be written in the book of life simply, or, as certain ones put it, “enrolled,” from a likeness to those who are enrolled in the military or in some office; in another way, insofar as God knows the life of glory to be in that one, or to be in him in the future, in its cause, which is grace; and such a man is said to be written in the book of life in a certain respect, or, as certain ones put it, “noted down.” Since therefore it is impossible that the knowledge of God should fail, it follows that whomsoever he knows is to have eternal life will in fact have it. Hence that man who is written simply, or “enrolled,” in the book of life cannot be erased from it.  
 
 But since grace, which is the cause of glory in a man who has present justice, ceases to be a cause of glory in him when he falls away from justice by sin, therefore God’s knowledge about that man’s grace is not a knowledge of grace as cause of glory. Hence the knowledge God has of that grace does not now pertain to the book of the life of glory. And according to this, he is said to be erased from the book of life not by some change made in the book itself, but rather by some change in the one in whom it happens that grace is not now the cause of glory. And God is said to erase someone from the book of life insofar as God permits him to fall away from justice by sin.  
 
@@ -182,7 +184,7 @@ Article 3
 
 ***Whether any charity can resist any temptation***
 
-***To the third we proceed thus.Parallels: *ST* III.62.6.ad3; 70.4; *De caritate*, a. 10, ad 4. It seems that not any charity whatsoever can resist any temptation whatsoever.***
+To the third we proceed thus.Parallels: *ST* III.62.6.ad3; 70.4; *De caritate*, a. 10, ad 4. It seems that not any charity whatsoever can resist any temptation whatsoever.  
 
 Obj. 1: For just as charity is an obstacle to sin, so also is reason, as was said above. But not any [power of] reason whatsoever is capable of resisting temptation, as can be seen in the morally incontinent, who have right reason and yet are overcome, as the Philosopher says.Aristotle, *Nicomachean Ethics* 7.8, 1151a20. Therefore not any charity is capable of resisting any temptation.  
 
@@ -220,7 +222,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallels: *ST* III.89.2, 3. [We divide the article into three subquestions: 1. whether a man always rises up from sin to a lesser charity than he had before he sinned; 2. whether a man always rises up from sin into a greater charity than he had before he sinned; 3. whether a man rises up from sin into a charity at least equal to the charity he had before he sinned]. It seems that a man always rises up from sin with less charity.***
+To the fourth we proceed thus.Parallels: *ST* III.89.2, 3. [We divide the article into three subquestions: 1. whether a man always rises up from sin to a lesser charity than he had before he sinned; 2. whether a man always rises up from sin into a greater charity than he had before he sinned; 3. whether a man rises up from sin into a charity at least equal to the charity he had before he sinned]. It seems that a man always rises up from sin with less charity.  
 
 Obj. 1: For on Amos 5:2 (*fallen, no more to rise, is maiden Israel*) the gloss says, *it is not denied that she might rise, but rather that she can rise as a virgin, since one who has gone astray, even if he be carried back on the shepherd’s shoulders, does not have as much glory as if he had never strayed*.Jerome, *Commentatorium in Amos*, bk. 2, ch. 5 (PL 25:1036). But glory is commensurate with charity. Therefore a man after sinning does not have as much charity when he rises, as he had at first.  
 
@@ -234,7 +236,7 @@ On the contrary, *the offering of Judah and Jerusalem will be pleasing to the Lo
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it seems that he always rises up from sin with a greater charity. For on Genesis 1:5, *there was evening and there was morning, the first day,* a Gloss says, *the evening light is that from which someone falls; the morning light, that in which he rises*. But morning light is greater than evening light. Therefore, too, the grace or charity in which someone rises is greater than that which he had before he fell.***
+Obj. 1: Furthermore, it seems that he always rises up from sin with a greater charity. For on Genesis 1:5, *there was evening and there was morning, the first day,* a Gloss says, *the evening light is that from which someone falls; the morning light, that in which he rises*. But morning light is greater than evening light. Therefore, too, the grace or charity in which someone rises is greater than that which he had before he fell.  
 
 Obj. 2: Further, Romans 5:20 says, *where sin increased, grace abounded all the more*. But where grace abounds all the more, there is greater charity. Therefore, [the same conclusion follows].  
 
@@ -244,7 +246,7 @@ On the contrary, an innocent man is not less apt for receiving grace than a sinn
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that the charity of the one rising up from sin is at least always equal. For on Romans 8:28, *we know that in all things God works for good for those who love him,* a Gloss says, *even in when one falls into sin*. But this would not be so, if the sinner were to rise with less charity. Therefore he never rises up with less charity, but always with charity [at least] equal to what he had before.***
+Obj. 1: Furthermore, it seems that the charity of the one rising up from sin is at least always equal. For on Romans 8:28, *we know that in all things God works for good for those who love him,* a Gloss says, *even in when one falls into sin*. But this would not be so, if the sinner were to rise with less charity. Therefore he never rises up with less charity, but always with charity [at least] equal to what he had before.  
 
 Obj. 2: Further, Ambrose says that penance restores everything that has been taken away.This is not found in Ambrose. The Nicolaï edition says that it can be gathered from *Hypognost*. bk. 3, ch. 9 (PL 45:1631) from these words: *repentance is a thing both very good and perfect which calls the fallen back to the perfect*. But this would not be so, if the penitent were not to rise up in a charity at least equal to what he had before. Therefore someone always rises up with [at least] an equal charity.  
 
@@ -256,7 +258,7 @@ On the contrary, the least contrition is enough to blot out all sins. But the qu
 
 Response to Quaestiuncula 1  
 
-***I answer that the measure of charity is pre-fixed by God according to his will, and in some way is [also] commensurate with the effort of the one who receives grace. Hence, because someone after sinning can expend more or less effort to recover charity, and by sin no limit is imposed upon divine liberality—since, as far as lies in him, he is prepared to blot out all sins entirely—it must be said, as is commonly said, that someone can rise up after sin with charity greater than, less than, or equal to that which he had before.***
+I answer that the measure of charity is pre-fixed by God according to his will, and in some way is [also] commensurate with the effort of the one who receives grace. Hence, because someone after sinning can expend more or less effort to recover charity, and by sin no limit is imposed upon divine liberality—since, as far as lies in him, he is prepared to blot out all sins entirely—it must be said, as is commonly said, that someone can rise up after sin with charity greater than, less than, or equal to that which he had before.  
 
 Reply Obj. 1: The Gloss is speaking about the glory of the accidental reward, which is commensurate not with charity but with an act or state: for after sin, a virgin will not have an aureole; and similarly, neither will a sinner rising up after a fall have the joy of continual innocence.  
 
@@ -268,7 +270,7 @@ Reply Obj. 4: Other things being equal, the one who has charity always receives 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it need not be the case that a man should always rise up with a greater charity, since even a lesser or an equal preparation is a sufficient condition for the infusing of grace.***
+To the second question, it should be said that it need not be the case that a man should always rise up with a greater charity, since even a lesser or an equal preparation is a sufficient condition for the infusing of grace.  
 
 Reply Obj. 1: The likeness mentioned in that Gloss is not to be evaluated with respect to the quantity of light, but with respect to the order of light to darkness.  
 
@@ -278,7 +280,7 @@ Reply Obj. 3: Sin does not conquer charity on account of a weakness in charity i
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that a man can rise up from sin even with less charity than he had before, since howsoever little he sorrows over sin and prepares himself for grace, as long as he comes to that extent of contrition by which it more displeases him to have gone away from God than any temporal good pleases him, then he will have grace—even if he does not prepare himself for this gift of grace as much as he prepared himself earlier on, when he was innocent.***
+To the third question, it should be said that a man can rise up from sin even with less charity than he had before, since howsoever little he sorrows over sin and prepares himself for grace, as long as he comes to that extent of contrition by which it more displeases him to have gone away from God than any temporal good pleases him, then he will have grace—even if he does not prepare himself for this gift of grace as much as he prepared himself earlier on, when he was innocent.  
 
 Reply Obj. 1: This [the fact that we can benefit from a fall] is not understood to refer always to a greater quantity of charity in the one rising up, but [in any event] to the greater diligence or humility, at least actual, in which the penitent sinner rises up. It is less evil, however, that charity should be diminished than that it should be entirely lost; and the lesser evil is reckoned the greater good, as is said in the *Ethics* 5.Aristotle, *Nicomachean Ethics* 5.1, 1129b12. And therefore sin can turn out to be for the good of one who loves God, even if he should rise up with less charity than he had before, in the sense that through the humility and caution he learns, he is protected from all sorts of loss of grace.  
 
@@ -292,7 +294,7 @@ Question 2
 
 ***The loss of charity through glory***
 
-***The next subject for inquiry is the emptying out of charity through glory. Concerning this, we will inquire into four things:***
+The next subject for inquiry is the emptying out of charity through glory. Concerning this, we will inquire into four things:  
 
 first, whether faith and hope are emptied out at the advent of glory;  
 
@@ -308,7 +310,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *ST* I-II.67.3; II-II.4.4.ad 1; III.3.3.ad 3; 18.2; *De spe*, a. 4, ad 14; *De virtutibus card.*, a. 4, ad 10. [We divide the article into three subquestions: 1. whether faith is emptied out in the state of glory; 2. whether hope is emptied out in the state of glory; 3. whether something of the substance of the habits of faith and hope remains in the state of glory]. It seems that faith will not be emptied out.***
+To the first we proceed thus.Parallels: *ST* I-II.67.3; II-II.4.4.ad 1; III.3.3.ad 3; 18.2; *De spe*, a. 4, ad 14; *De virtutibus card.*, a. 4, ad 10. [We divide the article into three subquestions: 1. whether faith is emptied out in the state of glory; 2. whether hope is emptied out in the state of glory; 3. whether something of the substance of the habits of faith and hope remains in the state of glory]. It seems that faith will not be emptied out.  
 
 Obj. 1: For faith is the foundation of the spiritual building. But the foundation remains unmoved, whatever is built upon it. Therefore faith is not emptied out at the advent of glory.  
 
@@ -324,7 +326,7 @@ Furthermore, faith is about things that are not apparent to us. But in heaven, n
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it seems that neither will hope be emptied out.Parallels: above*,* d. 26, q. 2, a. 5, resp. 3; *ST* II-II.4.4.ad 1; III.3.3.ad3; 18.2; *De spe*, a. 4, ad 14; *De virtutibus card*., a. 4, ad 10. For just as hope stands to good things, so fear stands to evil things. But servile fear will always remain in the damned. Therefore, similarly, hope will remain in the blessed.***
+Obj. 1: Furthermore, it seems that neither will hope be emptied out.Parallels: above*,* d. 26, q. 2, a. 5, resp. 3; *ST* II-II.4.4.ad 1; III.3.3.ad3; 18.2; *De spe*, a. 4, ad 14; *De virtutibus card*., a. 4, ad 10. For just as hope stands to good things, so fear stands to evil things. But servile fear will always remain in the damned. Therefore, similarly, hope will remain in the blessed.  
 
 Obj. 2: Further, it says in Sirach 24:21, *those who eat of me will hunger for more*; and it is speaking of the enjoyment of divine wisdom that will take place in heaven. But one who hungers looks forward to something in the future. Therefore the saints will look forward to something in the future, even in regard to the substantial reward.  
 
@@ -336,7 +338,7 @@ Furthermore, hope is the expectation of future beatitude. But in heaven beatitud
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that something of the substance of the habits of faith and hope will remain numerically the same.Parallels: *ST* I-II.67.5; *De virtuitibus card*., a. 4, ad 10. For in every change there must be something common to both terms. But faith and hope are changed into the goods of glory. Therefore something of the substance of the habits of faith and hope must remain numerically the same.***
+Obj. 1: Furthermore, it seems that something of the substance of the habits of faith and hope will remain numerically the same.Parallels: *ST* I-II.67.5; *De virtuitibus card*., a. 4, ad 10. For in every change there must be something common to both terms. But faith and hope are changed into the goods of glory. Therefore something of the substance of the habits of faith and hope must remain numerically the same.  
 
 Obj. 2: Further, just as the advent of charity is opposed to unformed faith not in regard to the substance of faith but in regard to its being unformed, so the advent of glory is opposed to faith not in regard to the substance of the vision, but only in regard to its imperfection. But the advent of charity takes away the unformedness of faith, which remains numerically the same habit of faith with respect to its substance, as was said above.Above*,* d. 23, q. 3, a. 4, resp. 1. Therefore in like manner, the advent of glory takes away only imperfection, leaving the habit’s substance numerically the same.  
 
@@ -348,7 +350,7 @@ Furthermore, it is impossible that anything be the same in number which is not t
 
 Response to Quaestiuncula 1  
 
-***I answer that in faith there is a certain sort of knowledge as well as a mode of knowing, because it knows in a mirror and in an enigma. Now, this mode is one of imperfection, and implies obscurity. Hence, since glory, at its advent, takes away all imperfection and obscurity, it will take away faith’s mode—that is, it will take away faith as regards its mode of knowing—but the knowledge of those things with which faith is concerned will remain—indeed it will not then be enigmatic, but clear.***
+I answer that in faith there is a certain sort of knowledge as well as a mode of knowing, because it knows in a mirror and in an enigma. Now, this mode is one of imperfection, and implies obscurity. Hence, since glory, at its advent, takes away all imperfection and obscurity, it will take away faith’s mode—that is, it will take away faith as regards its mode of knowing—but the knowledge of those things with which faith is concerned will remain—indeed it will not then be enigmatic, but clear.  
 
 Reply Obj. 1: Faith is the foundation [of the spiritual building] with regard to what it has of knowledge, not with regard to what it has of enigma. Hence, with regard to that which is foundational, it will remain.  
 
@@ -360,7 +362,7 @@ Reply Obj. 4: Although there can be opinion and knowledge of the same thing, nev
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that judgment about habits must be taken from the acts of which they are the source. Now there are two kinds of acts: an act that is of the imperfect as imperfect, such as motion; and an act that is of the perfect as perfect, such as an operation that follows upon a form.***
+To the second question, it should be said that judgment about habits must be taken from the acts of which they are the source. Now there are two kinds of acts: an act that is of the imperfect as imperfect, such as motion; and an act that is of the perfect as perfect, such as an operation that follows upon a form.  
 
 It sometimes happens, however, that an act of the perfect is found in the imperfect, insofar as it is now participating something of perfection, even as something of the act of the white is in the pallid. When therefore the imperfect arrives at perfection, the act of the imperfect, insofar as it has something of the perfection into which it was tending, remains with regard to what is of the substance of the act, but is taken away with regard to what belonged to the act’s imperfection, as the stammering speech of a boy when he reaches a more mature age is taken away with regard to what was of imperfection in that speech, while there remains whatever was of the perfection and substance of speech. But motion, which is an act of the imperfect [as such], when it attains the motion’s terminus, does not remain with regard to anything that belongs to the substance of the act, but only with regard to the root according to which it was in motion to begin with—which [root] was a certain proportion and order of the imperfect to perfection.  
 
@@ -376,7 +378,7 @@ Reply Obj. 3: Even in hope is found something that remains in heaven, namely, or
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the removal of anything that is of the substance of a thing induces the corruption of that thing, but the same does not occur upon the removal of something related accidentally to that thing. Now the precise imperfection that glory takes away from faith is of the very substance of faith, pertaining to its species—which is apparent if one considers the notion of the object from which faith receives its species; for obscurity, which enigma implies, pertains to the genus of knowledge. It is therefore necessary that as soon as that imperfection is removed, the substance and species of faith be destroyed, just as if irrationality should be removed from a donkey, the donkey as such would be destroyed. Now, since faith is a simple accidental form not composed out of matter and form, when it is destroyed nothing of faith remains the same in number, but something remains the same in genus—as is evident when something white becomes black or conversely, where that which pertains to color remains, yet the color is not the same in number but only the same in genus; whereas light [which makes color actually visible] remains the same in number whether it be perfect or imperfect, since that imperfection or perfection does not pertain to the species of light, but is accidental to it. And one should speak in a similar way about hope, where the application of what was just said is even more apparent.***
+To the third question, it should be said that the removal of anything that is of the substance of a thing induces the corruption of that thing, but the same does not occur upon the removal of something related accidentally to that thing. Now the precise imperfection that glory takes away from faith is of the very substance of faith, pertaining to its species—which is apparent if one considers the notion of the object from which faith receives its species; for obscurity, which enigma implies, pertains to the genus of knowledge. It is therefore necessary that as soon as that imperfection is removed, the substance and species of faith be destroyed, just as if irrationality should be removed from a donkey, the donkey as such would be destroyed. Now, since faith is a simple accidental form not composed out of matter and form, when it is destroyed nothing of faith remains the same in number, but something remains the same in genus—as is evident when something white becomes black or conversely, where that which pertains to color remains, yet the color is not the same in number but only the same in genus; whereas light [which makes color actually visible] remains the same in number whether it be perfect or imperfect, since that imperfection or perfection does not pertain to the species of light, but is accidental to it. And one should speak in a similar way about hope, where the application of what was just said is even more apparent.  
 
 Reply Obj. 1: The common thing that remains numerically the same in changes is the subject, whereas the nature of the genus remains generically the same. And thus, in this transmutation [from wayfarer to comprehensor], the soul remains numerically the same, but vision or knowledge remains only generically the same.  
 
@@ -388,7 +390,7 @@ Article 2
 
 ***Whether the charity of the wayfaring state will be emptied out in heaven***
 
-***To the second we proceed thus.Parallels: *ST* I-II.67.6; *De veritate*, q. 27, a. 5, ad 6; *De spe*, a. 4, ad 7, ad 13, 14; *De virtutibus card*., a. 4, ad 10; *Super 1 Cor*. 13, lect. 3. It seems that the charity of the wayfaring state will be emptied out.***
+To the second we proceed thus.Parallels: *ST* I-II.67.6; *De veritate*, q. 27, a. 5, ad 6; *De spe*, a. 4, ad 7, ad 13, 14; *De virtutibus card*., a. 4, ad 10; *Super 1 Cor*. 13, lect. 3. It seems that the charity of the wayfaring state will be emptied out.  
 
 Obj. 1: For it says in 1 Corinthians 13:10, *when the perfect comes, the partial will be emptied out*.NRSVCE has "when the complete comes, the partial will come to an end." But the charity of the wayfaring state is in part, since the commandment *love the Lord your God with your whole heart*, is not entirely fulfilled in this state, as was said above.Above*,* d. 27, q. 3, a. 4. Therefore [such] charity will be emptied out in heaven.  
 
@@ -418,11 +420,11 @@ Reply Obj. 5: The reason that a wayfarer’s charity, as long as he remains a wa
 
 Article 3  
 
-***Whether the order of love obtaining in this life is also to be found in Christ or in the saints who are in heaven***
+Whether the order of love obtaining in this life is also to be found in Christ or in the saints who are in heaven  
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: *ST* II-II.26.13; *De caritate*, a. 9, ad 12. [We divide the article into three subquestions: 1. whether the order of love obtaining in this life with regard to love of enemies is also to be found in Christ and the saints in heaven; 2. whether the order of love obtaining in this life with respect to love of self and neighbor is also to be found in the saints in heaven; 3. whom Christ loved more, Peter or John]. It seems that the order of love obtaining in this life with regard to love of enemies is neither in Christ nor in the saints who are in heaven.***
+To the third we proceed thus.Parallels: *ST* II-II.26.13; *De caritate*, a. 9, ad 12. [We divide the article into three subquestions: 1. whether the order of love obtaining in this life with regard to love of enemies is also to be found in Christ and the saints in heaven; 2. whether the order of love obtaining in this life with respect to love of self and neighbor is also to be found in the saints in heaven; 3. whom Christ loved more, Peter or John]. It seems that the order of love obtaining in this life with regard to love of enemies is neither in Christ nor in the saints who are in heaven.  
 
 Obj. 1: For the only enemies of the saints, at least after the day of judgment, will be demons and the damned. But charity is not had toward those, as was said above.Above, d. 28, a. 5. Therefore the saints will not love enemies.  
 
@@ -436,7 +438,7 @@ Furthermore, Christ loved from charity those for whom he died: *No one has great
 
 Quaestiuncula 2  
 
-***Obj. 1: It seems that the order of charity obtaining in this life with respect to love of self, neighbor, those who are close to us, and outsiders, is not in the saints. For Augustine, in *On the True Religion*, says, *perfect justice is when we love more strongly what is more good, and love less what is less good*.Augustine, *De vera religione*, ch. 48 (CCSL 32; PL 34:164). But there will be perfect charity in heaven. Therefore anyone in that state will love a neighbor who is better than himself more than he will love himself, and similarly he will love an outsider more than he will love someone close according to the flesh, if the former is better than the latter.***
+Obj. 1: It seems that the order of charity obtaining in this life with respect to love of self, neighbor, those who are close to us, and outsiders, is not in the saints. For Augustine, in *On the True Religion*, says, *perfect justice is when we love more strongly what is more good, and love less what is less good*.Augustine, *De vera religione*, ch. 48 (CCSL 32; PL 34:164). But there will be perfect charity in heaven. Therefore anyone in that state will love a neighbor who is better than himself more than he will love himself, and similarly he will love an outsider more than he will love someone close according to the flesh, if the former is better than the latter.  
 
 Obj. 2: Further, in heaven there will be perfect conformity of the human will to God. But God loves the better ones more. Therefore, too, each one there will love the one who is better than himself more than he will love himself.  
 
@@ -448,7 +450,7 @@ Furthermore, were someone to neglect his own salvation for the salvation of anot
 
 Quaestiuncula 3  
 
-***Obj. 1: It is asked whom Christ loved more, Peter or John; and it seems that it was John.Parallel: *ST* I.20.4. For we read in John 21:20, *Peter turned and saw the disciple whom Jesus loved following them*. But this remark is not said as if he loved only that one and no other. Therefore it was said on account of the eminence of Jesus’ love for John.***
+Obj. 1: It is asked whom Christ loved more, Peter or John; and it seems that it was John.Parallel: *ST* I.20.4. For we read in John 21:20, *Peter turned and saw the disciple whom Jesus loved following them*. But this remark is not said as if he loved only that one and no other. Therefore it was said on account of the eminence of Jesus’ love for John.  
 
 Obj. 2: Further, a love in which affection does not correspond to the effect or signs of love is a feigned love. Now, since Christ showed a greater familiarity to John than to Peter, and his love was in no way feigned, it seems that he loved John more than Peter.  
 
@@ -456,7 +458,7 @@ On the contrary, *I love those who love me* (Prov 8:17). But Peter loved more, a
 
 Response to Quaestiuncula 1  
 
-***I answer that “enemies of Christ” can be taken in two ways: either with respect to their final departure from him, as with those who are damned, either actually or in the divine foreknowledge; or with respect to their present state of enmity only, as Saul was at a certain time.***
+I answer that “enemies of Christ” can be taken in two ways: either with respect to their final departure from him, as with those who are damned, either actually or in the divine foreknowledge; or with respect to their present state of enmity only, as Saul was at a certain time.  
 
 With respect to the former kind of enemies, there is in Christ the same notion of love as there is in us toward those whom we know to be damned, because we love their nature. And the nature alone being considered, we would wish eternal life for them; but taking into consideration divine justice as well as their merits, we do not will this good for them, because we love the divine justice more than their nature. The first will [which looks to the nature alone] is antecedent will, while the second [which looks to their merits] is consequent will. And so, [equipped with this distinction, we may say that] Christ loved enemies who were really damned or were going to be damned [in the sense that he was] willing good for them by his antecedent will, which is not always fulfilled, but not [in the sense that he was] willing good for them by his consequent will, as neither does God. And the same account holds for the other blessed concerning those who are actually damned; but concerning those who are going to be damned, perhaps they do not know who all of them are.  
 
@@ -466,7 +468,7 @@ Reply Obj. 1–5: And from this, the response to the objections is evident.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that there is a twofold opinion about this matter.***
+To the second question, it should be said that there is a twofold opinion about this matter.  
 
 For certain ones say that in heaven *God will be all in all*, and the whole mind, resting in God, will have God as the whole notion of love; and so it will love God above all things, and others so much the more as they are nearer to God—even others more than itself, if they are better. But that position does not seem reasonably said. For each one will love to enjoy God as much as he will love God himself; and since he will love God above all things, above all things he will want to enjoy God; and therefore he will wish this enjoyment of God more for himself than for another. Hence it seems that he will love himself more than another. Moreover, the affection of love does not rest in anything except its proper object. But just as the proper object of love is the good, so the proper object of a particular man’s love is that man’s good. Hence it follows that he will love God supremely, insofar as God is that man’s highest good. Thus it is not necessary that one love someone else more to the extent that he is simply nearer to God, but rather, he should love someone more to the extent that he is nearer to God insofar as God is one’s own good.  
 
@@ -482,15 +484,15 @@ Reply Obj. 3: By consequent will, he [namely, the saint in heaven] wills a great
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said, as is said by others who take up the question, that Peter loved Christ more by the love that is poured out from Christ into the members [of his mystical body], but John loved him more by the love that rests in Christ himself. To Peter, therefore, the Lord committed the care of the members, while to John he committed the care of his mother—a care that concerned more directly his own person. Hence Peter, too, was more loved by Christ with regard to interior effect, since a greater gift of charity was then bestowed upon him, whereas John was more loved with regard to signs of exterior familiarity—and this, on account of four causes: first, because John symbolizes the contemplative life, which involves a greater familiarity with God, although the active life that Peter symbolizes is more fruitful and more laborious; second, on account of age, because John was a youth; third, on account of his chastity; fourth, on account of his inborn gentleness.***
+To the third question, it should be said, as is said by others who take up the question, that Peter loved Christ more by the love that is poured out from Christ into the members [of his mystical body], but John loved him more by the love that rests in Christ himself. To Peter, therefore, the Lord committed the care of the members, while to John he committed the care of his mother—a care that concerned more directly his own person. Hence Peter, too, was more loved by Christ with regard to interior effect, since a greater gift of charity was then bestowed upon him, whereas John was more loved with regard to signs of exterior familiarity—and this, on account of four causes: first, because John symbolizes the contemplative life, which involves a greater familiarity with God, although the active life that Peter symbolizes is more fruitful and more laborious; second, on account of age, because John was a youth; third, on account of his chastity; fourth, on account of his inborn gentleness.  
 
 Reply Obj. 1–2: And through this response, the solution to the objections are evident, since each one loved Christ more [in some respect], and in a certain way was more loved by him.  
 
 Article 4  
 
-***Whether the knowledge that we have here below will be entirely taken away in heaven***
+Whether the knowledge that we have here below will be entirely taken away in heaven  
 
-***To the fourth we proceed thus.Parallels: *In IV Sent.*, d. 50, q. 1, aa. 1, 2; *ST* I.89.1, 5; I-II.67.2; *SCG* II.81; *De veritate*, q. 19, a. 1; *De anima*, a. 15; *Quodl.* II, q. 9, a. 1; XII, q. 9, a. 1; *Super 1 Cor.* 13, lect. 3. It seems that the knowledge that we have here below will be entirely taken away in heaven.***
+To the fourth we proceed thus.Parallels: *In IV Sent.*, d. 50, q. 1, aa. 1, 2; *ST* I.89.1, 5; I-II.67.2; *SCG* II.81; *De veritate*, q. 19, a. 1; *De anima*, a. 15; *Quodl.* II, q. 9, a. 1; XII, q. 9, a. 1; *Super 1 Cor.* 13, lect. 3. It seems that the knowledge that we have here below will be entirely taken away in heaven.  
 
 Obj. 1: For it says in 1 Corinthians 13:8, *as for knowledge, it will come to an end*. But an accident that is destroyed is entirely taken away. Therefore knowledge will be entirely taken away.  
 
@@ -534,6 +536,6 @@ Reply Obj. 6: In the blessed there will be the act of knowledge not in regard to
 
 Exposition of the text  
 
-****Charity which can fail was never true*.*Sent.* III, 31.1(112).2, misattributed to Augustine but actually Paulinus of Aquileia, *Liber exhortationis de salutaribus documentis*, ch. 7 (PL 40:1049). This assertion is true, if charity was lost because of a weakness of love—in other words, so that someone loved God less than that thing for which he commits a sin. For in that case, there would not be true charity.***
+*Charity which can fail was never true*.*Sent.* III, 31.1(112).2, misattributed to Augustine but actually Paulinus of Aquileia, *Liber exhortationis de salutaribus documentis*, ch. 7 (PL 40:1049). This assertion is true, if charity was lost because of a weakness of love—in other words, so that someone loved God less than that thing for which he commits a sin. For in that case, there would not be true charity.  
 
 *This and the other things . . . said of charity can be understood about perfect charity*.*Sent*. III, 31.1(112).9. That charity is called “perfect” which is in those who are confirmed in good, whether in the wayfaring state or in heaven. Or it is understood not that charity cannot be lost [by the perfect], but rather that it is difficult for it to be lost [by them].

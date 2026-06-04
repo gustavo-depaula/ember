@@ -1,5 +1,7 @@
 # On Christ
 
+***Question 1***
+
 ***On Christ***
 
 ***There were questions about Christ,Q. 1. angels,Qq. 2–3. and men.Qq. 4–8.***
@@ -14,7 +16,7 @@ Article 1
 
 ***Whether during the three days of death he was numerically the same man***
 
-***To the first we proceed thus. It seems that Christ was the same man during the three days.***
+To the first we proceed thus. It seems that Christ was the same man during the three days.  
 
 Obj. 1: For it is said in Matthew 12:40: *just as there was Jonah in the belly of the whale for three days and three nights, so also the Son of man in the heart of the earth*.Cf. Aquinas, *In III Sent*. 21.2.2, obj. 5; *ST* III.51.4, obj. 1. But there was not another Son of man in the heart of the earth except the Son of man who was speaking upon the earth, otherwise Christ would have been two sons. Therefore, he was the same man during the three days of death.  
 
@@ -40,9 +42,9 @@ Reply Obj. 2: It must be said that likeness is not understood there with regard 
 
 Article 2  
 
-***Whether any suffering of Christ would have sufficed for the redemption of the human race without death***
+Whether any suffering of Christ would have sufficed for the redemption of the human race without death  
 
-***To the second we proceed thus. It seems that another suffering of Christ would not have sufficed for the redemption of the human race without death.***
+To the second we proceed thus. It seems that another suffering of Christ would not have sufficed for the redemption of the human race without death.  
 
 Obj. 1: For the Apostle says: *if out of the law there is justice, therefore Christ died gratuitously* (Gal 2:21),*ST* III.62.6; 70.4, obj. 1. that is, uselessly and without cause.Jerome, *Against the Pelagians* 2.9, 16–17 (CCSL 80:66; PL 23:544); Peter Lombard, *On the Letter to the Galatians* 2.21 (PL 192:117). But if another suffering would have sufficed, Christ would have died gratuitously. But the Apostle considers this something unfitting. Therefore, another suffering of Christ would not have sufficed for the redemption of the human race.  
 

@@ -1,5 +1,7 @@
 # Preface of St. Jerome
 
+Jeremiah the prophet, for whom this prologue is written, seems, in comparison with the Hebrews Isaiah, Hosea and certain others, to have been more rustic in his speech, though equal to them in sense, inasmuch as he prophesied by the same Spirit.  
+
 Further, the simplicity of his speech results from the place in which he was born, for he was from Anathoth, which to this day is a small village some three miles distant from Jerusalem. He was a priest, the son of priests, and sanctified in his mother’s womb, dedicating by his virginity the evangelical man to the Church of Christ.  
 
 He began to prophesy when still a boy, and he saw the captivity of Judah not only in the Spirit, but also with the eyes of the flesh. The Assyrians had already taken the ten tribes away to Media, and gentile colonists were now in possession of their land.  
@@ -14,7 +16,7 @@ As for the rest, it was better that by my silence I should impose a limit on the
 
 St. Thomas’s Commentary on St. Jerome’s Preface  
 
-***He who translated the book from Hebrew to Latin attached an introduction to the book of Jeremiah by which, in the oratorical manner, he accomplishes three things.***
+He who translated the book from Hebrew to Latin attached an introduction to the book of Jeremiah by which, in the oratorical manner, he accomplishes three things.  
 
 First, he renders his readers attentive;  
 

@@ -1,5 +1,7 @@
 # Chapter 43
 
+^43:1^ And now thus says the Lord that created you, O Jacob, and formed you, O Israel: fear not, for I have redeemed you, and called you by your name: you are mine.  
+
 > ^43:2^ When you shall pass through the waters, I will be with you, and the rivers shall not cover you: when you shall walk in the fire, you shall not be burnt, and the flames shall not burn in you:
 
 > ^43:3^ For I am the Lord your God, the Holy One of Israel, your Savior: I have given Egypt for your atonement, Ethiopia and Saba for you.

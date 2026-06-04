@@ -1,5 +1,7 @@
 # Pr. - Our Father, Who Art in Heaven
 
+Inter alias orationes oratio dominica principalior invenitur. Habet enim quinque excellentia, quae in oratione requiruntur. Debet enim esse oratio secura, recta, ordinata, devota et humilis.  
+
 Secura quidem, ut cum fiducia adeamus ad thronum gratiae eius, ut dicitur Hebr. IV. In fide etiam non deficiens: dicitur enim Iac. I, 6: *postulet autem in fide, nihil haesitans*. Rationabiliter autem haec oratio est securissima: est enim ab advocato nostro formata, qui est sapientissimus petitor, in quo sunt omnes thesauri sapientiae, ut dicitur ad Coloss. II, de quo dicitur I Ioan. II, 1: *advocatum habemus apud patrem, Iesum Christum iustum*; unde dicit Cyprianus in lib. De oratione Domini: *cum Christum habeamus advocatum apud patrem pro peccatis nostris, quando pro delictis nostris petimus, advocati nostri verba proponamus*.  
 
 Ulterius securior apparet ex hoc quod ipse qui orationem exaudit cum patre, docuit nos orare, secundum illud Ps. XC, 15: *clamabit ad me, et ego exaudiam eum*. Unde dicit Cyprianus: *amica, familiaris et devota oratio, Dominum de suo rogare*. Unde ab hac oratione nunquam sine fructu receditur: nam per eam venialia dimittuntur, ut dicit Augustinus.  

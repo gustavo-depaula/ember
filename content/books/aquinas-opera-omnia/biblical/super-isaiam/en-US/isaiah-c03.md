@@ -1,6 +1,8 @@
 # Chapter 1
 
-***^1:1^ The vision of Isaiah the son of Amos, which he saw concerning Judah and Jerusalem in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Judah.***
+***Lecture 1***
+
+^1:1^ The vision of Isaiah the son of Amos, which he saw concerning Judah and Jerusalem in the days of Ozias, Joathan, Achaz, and Ezechias, kings of Judah.  
 
 > **17**. ***The vision of Isaiah the son of Amos***. This book is divided into two parts:
 
@@ -74,7 +76,7 @@ To this is to be said that everything which was written in this book, he saw in 
 
 Lecture 2  
 
-***^1:2^ Hear, O you heavens, and give ear, O earth, for the Lord has spoken. I have brought up children, and exalted them: but they have despised me.***
+^1:2^ Hear, O you heavens, and give ear, O earth, for the Lord has spoken. I have brought up children, and exalted them: but they have despised me.  
 
 > ^1:3 ^The ox knows his owner, and the ass his master’s crib: but Israel has not known me, and my people has not understood.
 
@@ -288,7 +290,7 @@ they kill his disciples: *behold I send you as sheep in the midst of wolves* (Ma
 
 Lecture 3  
 
-***^1:10^ Hear the word of the Lord, you rulers of Sodom, receive with your ears*Percipite auribus*. DR: “give ear.” the law of your God, you people of Gomorrah.***
+^1:10^ Hear the word of the Lord, you rulers of Sodom, receive with your ears*Percipite auribus*. DR: “give ear.” the law of your God, you people of Gomorrah.  
 
 > ^1:11 ^To what purpose do you offer me the multitude of your victims, says the Lord? I am full, I desire not holocausts of rams, and fat of fatlings, and blood of calves, and lambs, and buck goats.
 
@@ -376,7 +378,7 @@ The fourth is the time under grace, when their use is now totally abolished, bec
 
 Lecture 4  
 
-***^1:13b^ The new moons, and the sabbaths and other festivals I will not abide, your assemblies are wicked.***
+^1:13b^ The new moons, and the sabbaths and other festivals I will not abide, your assemblies are wicked.  
 
 > ^1:14 ^My soul hates your kalends,DR: “your new moons.” and your solemnities: they are become troublesome to me, I laborDR: “I am weary of.” bearing them.
 
@@ -478,7 +480,7 @@ Third, he shows that the judgment is immutable: ***because the mouth of the Lord
 
 Lecture 5  
 
-***^1:21 ^How is the faithful city, that was full of judgment, become a harlot? Justice dwelt in it, but now murderers.***
+^1:21 ^How is the faithful city, that was full of judgment, become a harlot? Justice dwelt in it, but now murderers.  
 
 > ^1:22 ^Your silver is turned into dross: your wine is mingled with water.
 

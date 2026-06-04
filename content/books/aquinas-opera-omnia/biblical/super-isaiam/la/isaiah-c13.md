@@ -1,5 +1,7 @@
 # Chapter 11
 
+***Lectio 1***
+
 ***^11:1^ Et egredietur virga de radice Jesse, et flos de radice ejus ascendet.***
 
 > **352**. ***Et egredietur virga de radice***. Posita destructione adversarii, promittitur reintegratio populi qui erat divisus in duas et decem tribus. Et dividitur in partes duas:
@@ -70,7 +72,7 @@ quinto propter fructus certitudinem, Eccli. XXIV 23 *ego quasi vitis fructificav
 
 Lectio 2  
 
-***^11:2^ Et requiescet super eum spiritus Domini, spiritus sapientiæ et intellectus, spiritus consilii et fortitudinis, spiritus scientiæ et pietatis,***
+^11:2^ Et requiescet super eum spiritus Domini, spiritus sapientiæ et intellectus, spiritus consilii et fortitudinis, spiritus scientiæ et pietatis,  
 
 > ^11:3^ et replebit eum spiritus timoris Domini. Non secundum visionem oculorum judicabit, neque secundum auditum aurium arguet;
 

@@ -1,10 +1,12 @@
 # C. 3 - Justified by Grace
 
+***Justified by Grace***
+
 ***Lecture 1***
 
 ***Conversion by the Incarnation***
 
-***^3:1^ Admonish them to be subject to princes and powers, to obey at a word, to be ready to every good work. [n. 77]***
+^3:1^ Admonish them to be subject to princes and powers, to obey at a word, to be ready to every good work. [n. 77]  
 
 > ^3:2^ To speak evil of no man, not to be quarrelsome but gentle: showing all mildness towards all men. [n. 80]
 
@@ -154,7 +156,7 @@ Lecture 2
 
 ***Avoid heretics***
 
-***^3:9^ But avoid foolish questions and genealogies and contentions and strivings about the law. For they are unprofitable and vain. [n. 98]***
+^3:9^ But avoid foolish questions and genealogies and contentions and strivings about the law. For they are unprofitable and vain. [n. 98]  
 
 > ^3:10^ A man that is a heretic, after the first and second admonition, avoid: [n. 101]
 

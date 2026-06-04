@@ -1,6 +1,8 @@
 # D. 33 - Cardinal virtues
 
-***Postquam determinavit Magister de virtutibus theologicis, hic determinat de virtutibus cardinalibus; et dividitur in partes duas:***
+***Divisio textus***
+
+Postquam determinavit Magister de virtutibus theologicis, hic determinat de virtutibus cardinalibus; et dividitur in partes duas:  
 
 in prima determinat de ipsis cardinalibus virtutibus secundum se;  
 
@@ -62,7 +64,7 @@ Praeterea, plures formae unius speciei non possunt esse in eodem subjecto. Sed p
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod aliae virtutes morales a prudentia non distinguantur. Eorum enim quae ex opposito dividuntur, unum non ponitur in definitione alterius. Sed prudentia est recta ratio, quae ponitur in definitione moralium virtutum, ut patet in 2 *Ethic.* Ergo morales virtutes a prudentia non distinguuntur.***
+Ulterius. Videtur quod aliae virtutes morales a prudentia non distinguantur. Eorum enim quae ex opposito dividuntur, unum non ponitur in definitione alterius. Sed prudentia est recta ratio, quae ponitur in definitione moralium virtutum, ut patet in 2 *Ethic.* Ergo morales virtutes a prudentia non distinguuntur.  
 
 Praeterea, ad virtutis actum non exigitur nisi cognitio et operatio. Sed totum hoc prudentia facit; quia prudens non solum cognitivus sed etiam activus est, ut in 6 *Ethic*. et The Bruges and Paris (841) manuscripts add *in*. 7 dicitur. Ergo idem quod prius.  
 
@@ -74,7 +76,7 @@ Praeterea, habitus distinguuntur per actus. Sed Augustinus assignat alium actum 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nec ab aliis tribus virtutibus in littera positis reliquae morales virtutes distinguantur. Pars enim non dividitur contra totum. Sed harum aliae omnes partes esse dicuntur a Tullio. Ergo ab eis non distinguuntur.***
+Ulterius. Videtur quod nec ab aliis tribus virtutibus in littera positis reliquae morales virtutes distinguantur. Pars enim non dividitur contra totum. Sed harum aliae omnes partes esse dicuntur a Tullio. Ergo ab eis non distinguuntur.  
 
 Praeterea, proprietates rerum spiritualium ex earum nominibus investigantur, ut patet per Dionysium. Sed nomen temperantiae temperiem et modum quemdam importat: similiter autem nomen fortitudinis indeficientiam respectu difficilium: nomen autem justitiae aequalitatem vel rectitudinem; unde justum aequale dicimus, et quasi regulatum, ut ex 5 *Eth.* patet. Cum ergo haec requirantur in qualibet virtute morali, videtur quod aliae virtutes morales ab istis non distinguantur, nec ipsae ab invicem.  
 
@@ -86,7 +88,7 @@ Praeterea, habitus distinguuntur per actus et objecta. Sed istis virtutibus assi
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod cum unumquodque quod est ad finem, determinetur secundum exigentiam finis; potentiae et habitus, qui ordinantur ad actus sicut ad ultimam perfectionem, oportet quod secundum actus diversos distinguantur: sicut etiam potentiae materiae distinguuntur per relationem ad diversas formas. Non autem quaelibet diversitas actuum facit differentiam potentiarum et habituum; sed illa tantum quae est ex diversitate objectorum, a quibus actus specificantur, sicut motus a terminis. The Bruges manuscript reads motus *alterius*. Solum autem illa differentia terminorum facit diversam speciem motus quae attenditur secundum illam rationem secundum quam terminat motum. Unde quod descensus terminetur ad aquam vel ad terram, non facit diversam speciem motus localis; quia motus localis non erat ad terram vel aquam inquantum hujusmodi, sed inquantum deorsum sunt. Generationes autem differunt secundum speciem quae terminantur ad formas aquae et terrae: et similiter objecta diversa non diversificant actus secundum speciem, nisi sit diversitas secundum illam rationem secundum quam est objectum. Videre enim album et nigrum non sunt diversi actus secundum speciem: quia utrumque est objectum visus secundum unam rationem, inquantum scilicet sunt colorata visibilia actu per lucem. Et inde contingit quod quanto aliqui habitus vel potentiae sunt immaterialiores, tanto sunt universaliores, et minus distinguuntur, quia attendunt universaliorem rationem objecti; sicut quinque The Bruges manuscript omits *quinque*. sensibus propriis respondet The edited versions read *correspondet*. unus sensus communis, et una imaginatio.***
+Respondeo dicendum ad primam quaestionem, quod cum unumquodque quod est ad finem, determinetur secundum exigentiam finis; potentiae et habitus, qui ordinantur ad actus sicut ad ultimam perfectionem, oportet quod secundum actus diversos distinguantur: sicut etiam potentiae materiae distinguuntur per relationem ad diversas formas. Non autem quaelibet diversitas actuum facit differentiam potentiarum et habituum; sed illa tantum quae est ex diversitate objectorum, a quibus actus specificantur, sicut motus a terminis. The Bruges manuscript reads motus *alterius*. Solum autem illa differentia terminorum facit diversam speciem motus quae attenditur secundum illam rationem secundum quam terminat motum. Unde quod descensus terminetur ad aquam vel ad terram, non facit diversam speciem motus localis; quia motus localis non erat ad terram vel aquam inquantum hujusmodi, sed inquantum deorsum sunt. Generationes autem differunt secundum speciem quae terminantur ad formas aquae et terrae: et similiter objecta diversa non diversificant actus secundum speciem, nisi sit diversitas secundum illam rationem secundum quam est objectum. Videre enim album et nigrum non sunt diversi actus secundum speciem: quia utrumque est objectum visus secundum unam rationem, inquantum scilicet sunt colorata visibilia actu per lucem. Et inde contingit quod quanto aliqui habitus vel potentiae sunt immaterialiores, tanto sunt universaliores, et minus distinguuntur, quia attendunt universaliorem rationem objecti; sicut quinque The Bruges manuscript omits *quinque*. sensibus propriis respondet The edited versions read *correspondet*. unus sensus communis, et una imaginatio.  
 
 Sciendum tamen quod cum plures habitus quandoque sint in una potentia, aliqua diversitas sufficit ad distinguendum habitus quae non sufficit ad distinguendum potentiam: quia potentia alio modo comparatur ad actum quam habitus; unde et secundum alteram The Bruges, Brussels, and Paris (842) manuscripts read *aliam*. rationem objectum utrique respondet. Potentia enim est principium agendi absolute; sed habitus est principium agendi prompte et faciliter; et ideo objectum secundum illam rationem qua se habet ad actum simpliciter, respondet potentiae; sed secundum quod se habet ad facilitatem actus respondet habitui.  
 
@@ -100,7 +102,7 @@ Ad tertium dicendum, quod in omnibus moralibus invenitur una ratio veri, quod es
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod sicut speculativa ratio dicitur esse recta secundum quod se conformiter ad prima principia habet; ita etiam ratio practica dicitur esse recta The edited versions read dicitur recta *ratio* and omit *esse*. secundum quod se habet conformiter ad rectos fines. Inclinatio autem ad finem ad appetitum pertinet; et ideo in 6 *Ethic.* dicitur, quod veritas et rectitudo rationis practicae est secundum quod se habet conformiter ad appetitum rectum. Appetitus autem respectu alicujus est rectus naturaliter, sicut respectu finis ultimi, prout quilibet naturaliter vult esse felix: sed respectu aliorum rectitudo appetitus ex ratione causatur, secundum quod appetitus aliqualiter ratione participat, ut in 2 *Ethic*. dicitur. Et quia prudentia facit rationem rectam, ideo praeter prudentiam requiruntur aliae virtutes morales, quae faciunt appetitum rectum in his in quibus naturaliter rectus non est. Et quia bonum rationis non eodem modo invenitur in ipsa ratione et in his quae rectitudinem rationis participative habent; ideo secundum ea quae prius dicta sunt, morales virtutes sunt alii habitus secundum speciem quam prudentia.***
+Ad secundam quaestionem dicendum, quod sicut speculativa ratio dicitur esse recta secundum quod se conformiter ad prima principia habet; ita etiam ratio practica dicitur esse recta The edited versions read dicitur recta *ratio* and omit *esse*. secundum quod se habet conformiter ad rectos fines. Inclinatio autem ad finem ad appetitum pertinet; et ideo in 6 *Ethic.* dicitur, quod veritas et rectitudo rationis practicae est secundum quod se habet conformiter ad appetitum rectum. Appetitus autem respectu alicujus est rectus naturaliter, sicut respectu finis ultimi, prout quilibet naturaliter vult esse felix: sed respectu aliorum rectitudo appetitus ex ratione causatur, secundum quod appetitus aliqualiter ratione participat, ut in 2 *Ethic*. dicitur. Et quia prudentia facit rationem rectam, ideo praeter prudentiam requiruntur aliae virtutes morales, quae faciunt appetitum rectum in his in quibus naturaliter rectus non est. Et quia bonum rationis non eodem modo invenitur in ipsa ratione et in his quae rectitudinem rationis participative habent; ideo secundum ea quae prius dicta sunt, morales virtutes sunt alii habitus secundum speciem quam prudentia.  
 
 Ad primum ergo The edited versions read *igitur*. dicendum, quod quando aliqua condividuntur aequaliter recipientia communis praedicationem, tunc unum non ponitur in definitione alterius: sed quando commune praedicatur de eis per prius et posterius, The Bruges manuscript adds *recipiunt praedicationem communis*. tunc The Bruges manuscript adds *unum*. primum ponitur in definitione aliorum, sicut substantia in definitione accidentium: et propter hoc prudentia ponitur in definitione aliarum virtutum, in qua per prius bonum rationis, et per consequens ratio virtutis invenitur: quia prius est quod est per essentiam quam quod est per participationem.  
 
@@ -110,7 +112,7 @@ Ad tertium dicendum, quod bonum artis consistit in re exteriori quae per actum a
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dictum est, habitus virtutum moralium ex bono rationis diversificantur: quod quidem in ipso rationis judicio essentialiter consistit, quod ad prudentiam pertinet; in his vero quae per rationem disponuntur, participative, quod ad morales virtutes spectat. Moralem autem materiam, idest actus et passiones humanas, ratio quantum ad tria ordinat sive disponit. Primo ordinando ipsas passiones per actiones secundum se, prout eas ad medium reducit secundum quamdam commensurationem; et sic dicitur modum in eis ponere, quia modus mensurationem importat. Secundo ordinando subjectum ad ipsas actiones et passiones primo modo ordinatas, ut scilicet homo firmiter inhaereat his quae ratio ordinavit. Tertio in ordine ad aliquid extra, ad quod oportet actus nostros proportionari, sive sit finis, sive alius homo, sive quidquid extrinsecum: et secundum hoc causatur rectitudo vel aequalitas in virtute.***
+Ad tertiam quaestionem dicendum, quod, sicut dictum est, habitus virtutum moralium ex bono rationis diversificantur: quod quidem in ipso rationis judicio essentialiter consistit, quod ad prudentiam pertinet; in his vero quae per rationem disponuntur, participative, quod ad morales virtutes spectat. Moralem autem materiam, idest actus et passiones humanas, ratio quantum ad tria ordinat sive disponit. Primo ordinando ipsas passiones per actiones secundum se, prout eas ad medium reducit secundum quamdam commensurationem; et sic dicitur modum in eis ponere, quia modus mensurationem importat. Secundo ordinando subjectum ad ipsas actiones et passiones primo modo ordinatas, ut scilicet homo firmiter inhaereat his quae ratio ordinavit. Tertio in ordine ad aliquid extra, ad quod oportet actus nostros proportionari, sive sit finis, sive alius homo, sive quidquid extrinsecum: et secundum hoc causatur rectitudo vel aequalitas in virtute.  
 
 Haec igitur tria, scilicet modus, The edited versions add *et*. firmitas et rectitudo, in omnibus virtutibus moralibus inveniuntur. Sed in quibusdam materiis virtutum, bonum rationis attenditur praecipue secundum unum istorum; in quibusdam vero secundum aliud, secundum quod naturalis potentia, quam perficit habitus virtutis, magis deficit in hoc vel in illo. Unde tota intensio rationis et virtutis ad hoc fertur ubi natura deficit; sicut patet quod delectationes corporales sunt nobis connaturales, et ideo in his difficillimum est modum tenere; et propter hoc virtus quae est circa eas, scilicet temperantia, praecipue modum sibi adscribit, unde et nomen accepit. Similiter etiam The edited versions read *Et similiter*. naturaliter homo mortem fugit, unde et difficillimum est in periculis mortis firmiter persistere; et ideo fortitudo quae circa hujusmodi est, firmitatem sibi adscribit, et inde nominatur: et similiter rectitudo praecipue in communicationibus ad alterum quaeritur; et ideo justitia, quae circa has est, a rectitudine nomen habet: et sic est etiam in aliis virtutibus moralibus, quia The Bruges manuscript reads *quae*; the Brussels and Paris (841 and 842) manuscripts read *quod*. secundum speciem distinguuntur, prout bonum rationis quantum ad aliquid praedictorum diversimode in eis invenitur secundum conditionem suae The edited versions omit *suae*. materiae.  
 
@@ -140,7 +142,7 @@ Praeterea, ea quae sunt a natura, non assuefacimus. Sed in operibus virtutum plu
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non possint acquiri ex actibus. Continentia enim, secundum Philosophum in 7 *Ethic.*, est aliquid minus virtute. Sed continentiam non possumus ex actibus nostris acquirere; Sap. 8:21: *scio quod non possum esse continens, nisi Deus det*. Ergo multo minus aliae virtutes ex actibus acquiri possunt.***
+Ulterius. Videtur quod non possint acquiri ex actibus. Continentia enim, secundum Philosophum in 7 *Ethic.*, est aliquid minus virtute. Sed continentiam non possumus ex actibus nostris acquirere; Sap. 8:21: *scio quod non possum esse continens, nisi Deus det*. Ergo multo minus aliae virtutes ex actibus acquiri possunt.  
 
 Praeterea, in nulla re per aliquam actionem aliquid acquiritur, nisi per actionem The edited versions read *actiones*. aliquid res illa recipiat. The edited versions read *accipiat*. Sed operans, inquantum operatur, nihil recipit, immo magis operationem a se emittit. Ergo ex hoc quod operatur, non acquiritur in ipso aliqua virtus.  
 
@@ -154,7 +156,7 @@ Praeterea, malum non est fortius in agendo quam bonum. Sed ex The Vivès edition
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non oporteat ponere aliquas virtutes morales infusas. Ea enim quae per principia naturalia possunt causari, non oportet quod divinitus praeter naturalia principia causentur, nisi aliquando miraculose fiat; sicut quod sanitas restituitur, quam etiam natura posset restituere, licet non statim. Sed ad virtutes morales possumus pervenire per naturalia principia, ut probatum est. Ergo non indigemus quod virtutes nobis infundantur.***
+Ulterius. Videtur quod non oporteat ponere aliquas virtutes morales infusas. Ea enim quae per principia naturalia possunt causari, non oportet quod divinitus praeter naturalia principia causentur, nisi aliquando miraculose fiat; sicut quod sanitas restituitur, quam etiam natura posset restituere, licet non statim. Sed ad virtutes morales possumus pervenire per naturalia principia, ut probatum est. Ergo non indigemus quod virtutes nobis infundantur.  
 
 Praeterea, ad actum quantumcumque perfectum non requiritur nisi quod sit actus rectus, et meritorius. Sed ad faciendum actum rectum sufficit virtus acquisita, ad faciendum autem meritorium sufficit caritas. Ergo non indigemus virtutibus moralibus infusis.  
 
@@ -168,7 +170,7 @@ Praeterea, in pueris baptizatis et in contritis de peccatis, sunt omnes virtutes
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod etiam non differant specie infusae ab acquisitis. Agens enim, cum sit extra rem, non diversificat speciem: unde ejusdem speciei est oculus quem Deus caeco nato restituit, et quem in aliqua creatura creat. The edited versions read *causat*. Sed virtutes infusae differunt ab acquisitis penes agens primum. Ergo non differunt specie.***
+Ulterius. Videtur quod etiam non differant specie infusae ab acquisitis. Agens enim, cum sit extra rem, non diversificat speciem: unde ejusdem speciei est oculus quem Deus caeco nato restituit, et quem in aliqua creatura creat. The edited versions read *causat*. Sed virtutes infusae differunt ab acquisitis penes agens primum. Ergo non differunt specie.  
 
 Praeterea, habitus specificantur ex actibus et objectis. Sed idem est objectum et idem actus temperantiae infusae et The edited versions read *ac*. acquisitae. Ergo non differunt specie.  
 
@@ -186,7 +188,7 @@ Praeterea, duae formae ejusdem speciei non possunt esse in uno subjecto. Sed vir
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut in naturalibus posuerunt quidam formas omnes existere in materia, et quod agens naturale extrahit eas de occulto ad manifestum, inquantum removet ea quae prohibebant formam illam apparere; The Bruges manuscript adds *et*. ita etiam dixerunt quidam de habitibus animae; unde Plato dixit The Bruges manuscript reads *dicit*. quod omnes scientiae sunt in anima a natura, et addiscere non est aliud quam recordari: et similiter videtur dicere Damascenus, de virtutibus quod The Bruges, Brussels, and Paris (841 and 842) manuscripts read *quae*. insunt nobis a natura, et per exercitium tolluntur impedimenta virtutum; sicut ferri aeruginem auferentes, videmur The Bruges and Brussels manuscripts read *videmus* against the Paris (841 and 842) manuscripts as well as the edited versions. claritatem, quae naturaliter ei inest, inducere.***
+Respondeo dicendum ad primam quaestionem, quod sicut in naturalibus posuerunt quidam formas omnes existere in materia, et quod agens naturale extrahit eas de occulto ad manifestum, inquantum removet ea quae prohibebant formam illam apparere; The Bruges manuscript adds *et*. ita etiam dixerunt quidam de habitibus animae; unde Plato dixit The Bruges manuscript reads *dicit*. quod omnes scientiae sunt in anima a natura, et addiscere non est aliud quam recordari: et similiter videtur dicere Damascenus, de virtutibus quod The Bruges, Brussels, and Paris (841 and 842) manuscripts read *quae*. insunt nobis a natura, et per exercitium tolluntur impedimenta virtutum; sicut ferri aeruginem auferentes, videmur The Bruges and Brussels manuscripts read *videmus* against the Paris (841 and 842) manuscripts as well as the edited versions. claritatem, quae naturaliter ei inest, inducere.  
 
 Omnes autem istae opiniones secundum aliquid verae sunt, et secundum aliquid falsae. Verae quidem sunt, inquantum praedictorum aliqua The Bruges manuscript omits *aliqua*. inchoatio est in The edited versions read *a*. natura, sicut forma existit in potentia materiae, et scientia conclusionum in principiis universalibus: quia quod in particulari discitur, prius in universali sciebatur; et virtutes praeexistunt in naturali ordinatione ad bonum virtutis, quae est in ratione cognoscente hujusmodi bonum, et etiam in voluntate naturaliter appetente illud, et etiam quandoque in inferioribus viribus, inquantum sunt naturaliter subjectae rationi: et in quibusdam ex ipsa complexione est minus de resistentia ad bonum rationis, secundum quod Philosophus dicit in 6 *Ethic.*, quod quidam confestim a nativitate sunt fortes et temperati: et ideo a Tullio dicitur, quod seminaria virtutum, sive initia, sunt naturalia. Falsae autem sunt praedictae opiniones, inquantum complementum formarum, secundum quod sunt in actu, est ab agente extrinseco: scientiae vero complementum est ex doctrina vel inventione; virtutum autem ex assuefactione vel infusione; et hoc est quod Philosophus 2 *Ethic*. dicit innatis nobis eas suscipere, perfectis vero per assuefactionem.  
 
@@ -198,7 +200,7 @@ Ad tertium dicendum, quod homo propter hoc quod habet rationem, quae collativa e
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum est, quod quidam philosophi, quos sequitur Avicenna, posuerunt omnes formas esse a datore, et quod agens naturale non facit nisi dispositionem ad formas illas; et similiter etiam dicit Avicenna, quod scientia et virtus sunt a datore, et per studium et exercitium disponitur anima ad recipiendum influxum dictorum habituum. Haec autem positio tollit naturalem virtutem, quae inest cuilibet principio naturali ad faciendum sibi simile, secundum quod materia in quam agit, est receptiva suae similitudinis. Quod quidem necessarium est ex hoc quod omne quod agit, agit ex hoc quod est in actu: unde oportet quod omne quod est in actu aliquid, aliquo modo possit esse activum illius: et ideo omne naturale principium natum est inducere suam similitudinem per actum suum. Cum igitur principia scientiarum et virtutum sint naturaliter nobis indita, ut dictum est, oportet quod per actiones The Bruges manuscript reads *operationes* in place of *per actiones*. ex illis principiis prodeuntes, virtutum et scientiarum habitus compleantur: et huic quidem attestatur experientia: quia ex consuetudine efficitur aliquid facile et delectabile, quod prius erat difficile; et hoc est signum habitus generati, scilicet delectatio operis.***
+Ad secundam quaestionem dicendum est, quod quidam philosophi, quos sequitur Avicenna, posuerunt omnes formas esse a datore, et quod agens naturale non facit nisi dispositionem ad formas illas; et similiter etiam dicit Avicenna, quod scientia et virtus sunt a datore, et per studium et exercitium disponitur anima ad recipiendum influxum dictorum habituum. Haec autem positio tollit naturalem virtutem, quae inest cuilibet principio naturali ad faciendum sibi simile, secundum quod materia in quam agit, est receptiva suae similitudinis. Quod quidem necessarium est ex hoc quod omne quod agit, agit ex hoc quod est in actu: unde oportet quod omne quod est in actu aliquid, aliquo modo possit esse activum illius: et ideo omne naturale principium natum est inducere suam similitudinem per actum suum. Cum igitur principia scientiarum et virtutum sint naturaliter nobis indita, ut dictum est, oportet quod per actiones The Bruges manuscript reads *operationes* in place of *per actiones*. ex illis principiis prodeuntes, virtutum et scientiarum habitus compleantur: et huic quidem attestatur experientia: quia ex consuetudine efficitur aliquid facile et delectabile, quod prius erat difficile; et hoc est signum habitus generati, scilicet delectatio operis.  
 
 Ad primum igitur dicendum, quod nullum bonum potest homo habere, nisi Deus det; sed quaedam habentur a Deo non cooperantibus nobis, sicut ea quae sunt infusa; et quaedam nobis cooperantibus, sicut acquisita; et quaedam cooperante natura, sicut naturalia.  
 
@@ -210,7 +212,7 @@ Ad quartum dicendum, quod sicut multae guttae cavant lapidem, inquantum ultima a
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dictum est, seminaria virtutum quae sunt in nobis, sunt ordinatio voluntatis et rationis ad bonum nobis connaturale. Cum autem sit homo ex divina liberalitate ordinatus ad quoddam bonum supernaturale, scilicet aeternam gloriam; ex praedictis virtutum seminariis non possunt virtutes causari fini praedicto proportionatae. Unde oportet virtutes quae vitam nostram ordinant ad finem illum, ex eo causari, ex quo est nobis inclinatio in finem illum. Hoc autem est per Dei gratiam; unde oportet nos aliquas virtutes morales infusas habere.***
+Ad tertiam quaestionem dicendum, quod, sicut dictum est, seminaria virtutum quae sunt in nobis, sunt ordinatio voluntatis et rationis ad bonum nobis connaturale. Cum autem sit homo ex divina liberalitate ordinatus ad quoddam bonum supernaturale, scilicet aeternam gloriam; ex praedictis virtutum seminariis non possunt virtutes causari fini praedicto proportionatae. Unde oportet virtutes quae vitam nostram ordinant ad finem illum, ex eo causari, ex quo est nobis inclinatio in finem illum. Hoc autem est per Dei gratiam; unde oportet nos aliquas virtutes morales infusas habere.  
 
 Ad primum igitur dicendum, quod sanitas per miraculum restituta, non est ad aliud ordinata quam sanitas quae fit ex natura; et ideo illis qui habent sanitatem ex naturalibus principiis, non est necessaria sanitas quae est per miracula. Et ideo non est simile de sanitate et virtutibus infusis, quae ad aliud ordinant quam acquisitae, ut dictum est.  
 
@@ -222,7 +224,7 @@ Ad quartum dicendum, quod mos secundum quem dicitur moralis virtus, importat inc
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod virtutes acquisitae et infusae differunt specie, scilicet fortitudo a fortitudine, et temperantia a temperantia, et sic de aliis: quia, ut dictum est, fines sunt sicut principia in operativis. Si autem esset aliqua scientia quae non posset reduci ad principia naturaliter cognita, non esset ejusdem speciei cum aliis scientiis, nec univoce scientia diceretur. Unde cum fines virtutum infusarum non praeexistant in seminariis naturalibus virtutum, sed naturam humanam excedant; oportet quod virtutes infusae a virtutibus acquisitis, quae ab illis seminariis procedunt, differant specie. Unde et in The Brussels manuscript omits *in*. alia vita hominem perficiunt, The Bruges manuscript reads *perficient*. acquisitae quidem in vita civili, sed The edited versions omit *sed*. infusae in vita spirituali, quae est ex gratia, secundum quam homo virtuosus est membrum Ecclesiae.***
+Ad quartam quaestionem dicendum, quod virtutes acquisitae et infusae differunt specie, scilicet fortitudo a fortitudine, et temperantia a temperantia, et sic de aliis: quia, ut dictum est, fines sunt sicut principia in operativis. Si autem esset aliqua scientia quae non posset reduci ad principia naturaliter cognita, non esset ejusdem speciei cum aliis scientiis, nec univoce scientia diceretur. Unde cum fines virtutum infusarum non praeexistant in seminariis naturalibus virtutum, sed naturam humanam excedant; oportet quod virtutes infusae a virtutibus acquisitis, quae ab illis seminariis procedunt, differant specie. Unde et in The Brussels manuscript omits *in*. alia vita hominem perficiunt, The Bruges manuscript reads *perficient*. acquisitae quidem in vita civili, sed The edited versions omit *sed*. infusae in vita spirituali, quae est ex gratia, secundum quam homo virtuosus est membrum Ecclesiae.  
 
 Ad primum ergo The edited versions read *igitur*. dicendum, quod effectus proportionatus agenti differt specie secundum diversitatem agentis: unde animalia generata ex semine et ex putrefactione non sunt ejusdem speciei. Virtus autem divina, quamvis possit super omnes effectus et The Bruges manuscript omits *et*. in infinitum eos excedat, tamen aliqui effectus sunt qui non possunt esse nisi ex virtute divina; et tales effectus non sunt proportionati aliis. Unde tales effectus differunt specie ab illis effectibus qui etiam ab aliis causis produci possunt, quamvis et divina virtus illos possit producere.  
 
@@ -238,7 +240,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod virtutes morales non consistant in medio.***
+Ad tertium sic proceditur. Videtur quod virtutes morales non consistant in medio.  
 
 In nullo enim indivisibili est accipere medium et extrema. Sed passiones et operationes, circa quas sunt virtutes morales, sunt indivisibiles. Ergo non sunt in medio.  
 
@@ -256,7 +258,7 @@ Praeterea, The Bruges manuscript omits *Praeterea*. sicut se habet ars ad factib
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in justitia non sit medium rei. Definitio enim generis debet salvari in qualibet specierum. Sed in definitione virtutis ponitur quod est medium secundum rationem. Ergo in justitia est medium rationis, et non medium rei.***
+Ulterius. Videtur quod in justitia non sit medium rei. Definitio enim generis debet salvari in qualibet specierum. Sed in definitione virtutis ponitur quod est medium secundum rationem. Ergo in justitia est medium rationis, et non medium rei.  
 
 Praeterea, propter hoc in aliis virtutibus dicitur esse medium rationis et non medium rei, quia diversimode determinatur medium secundum diversas conditiones; sicut aliquid est multum ad comedendum uni, quod non est multum ad comedendum alteri. Sed diversa conditio etiam observatur in justitia: quia justitia distributiva non aequaliter tribuit omnibus, sed unicuique secundum quod dignus est: similiter etiam in commutativa non tantum punitur qui percutit The Vivès edition omits *privatum hominem quantum qui percutit*. privatum hominem quantum qui percutit principem. Ergo in justitia non est medium rei, sicut nec in aliis virtutibus.  
 
@@ -268,7 +270,7 @@ Praeterea, justitia est aequalitas quaedam. Sed aequalitas est etiam secundum re
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in virtutibus intellectualibus non sit medium. Medium enim accipitur in passionibus, secundum quod mensurantur The Vivès edition reads *mensuratur*. ad rationem. Sed in virtutibus intellectualibus non est accipere aliquid superius ad quod mensurantur. The edited versions read *mensurentur*. Ergo in eis non est accipere medium.***
+Ulterius. Videtur quod in virtutibus intellectualibus non sit medium. Medium enim accipitur in passionibus, secundum quod mensurantur The Vivès edition reads *mensuratur*. ad rationem. Sed in virtutibus intellectualibus non est accipere aliquid superius ad quod mensurantur. The edited versions read *mensurentur*. Ergo in eis non est accipere medium.  
 
 Praeterea, medium virtutis est inter contrarias passiones. Sed in intellectualibus non sunt contrariae passiones: quia rationes contrariorum in intellectu The Vivès edition reads *intellectus*. non sunt contrariae. Ergo in intellectualibus virtutibus non est accipere medium.  
 
@@ -280,7 +282,7 @@ Praeterea, ars est intellectualis virtus, ut patet in 6 *Ethic.* Sed Philosophus
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod etiam theologicae virtutes medium habeant. In moralibus enim virtutibus est medium, secundum quod earum actus ex ratione recta procedunt. Sed virtutum theologicarum actus non sunt contra rationem. Ergo The Piana and Antwerp editions add *non*. sunt in medio.***
+Ulterius. Videtur quod etiam theologicae virtutes medium habeant. In moralibus enim virtutibus est medium, secundum quod earum actus ex ratione recta procedunt. Sed virtutum theologicarum actus non sunt contra rationem. Ergo The Piana and Antwerp editions add *non*. sunt in medio.  
 
 Praeterea, spes est medium inter praesumptionem et desperationem. Sed spes est virtus theologica. Ergo virtutes sunt medium inter vitia.  
 
@@ -292,7 +294,7 @@ Praeterea, ubi nunquam contingit aequale reddere, ibi non potest esse superfluum
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem dicendum, quod omnes virtutes morales in medio constitutae sunt. The Bruges manuscript omits *virtutes enim morales sunt* through homoteleuton. Virtutes enim morales sunt circa passiones et operationes, quas oportet dirigere secundum regulam rationis. In omnibus autem regulatis consistit rectum, secundum quod regulae aequantur; aequalitas autem media est inter majus et minus; et ideo oportet quod rectum virtutis consistat in medio ejus quod superabundat, et ejus quod deficit a mensura rationis rectae. The Parma edition reads *recta*.***
+Respondeo ad primam quaestionem dicendum, quod omnes virtutes morales in medio constitutae sunt. The Bruges manuscript omits *virtutes enim morales sunt* through homoteleuton. Virtutes enim morales sunt circa passiones et operationes, quas oportet dirigere secundum regulam rationis. In omnibus autem regulatis consistit rectum, secundum quod regulae aequantur; aequalitas autem media est inter majus et minus; et ideo oportet quod rectum virtutis consistat in medio ejus quod superabundat, et ejus quod deficit a mensura rationis rectae. The Parma edition reads *recta*.  
 
 Ad primum igitur The edited versions read *ergo*. dicendum, quod actiones et passiones quamvis sint indivisibiles The Brussels manuscript omits *per essentiam, sunt tamen per accidens divisibiles* through homoteleuton. per essentiam, sunt tamen per accidens divisibiles, vel secundum intensionem, vel secundum tempus, vel secundum locum, The Bruges manuscript reads *loca*. vel secundum objecta, vel secundum aliquid hujusmodi; et ideo etiam secundum hoc est in eis medium accipere.  
 
@@ -306,7 +308,7 @@ Ad quintum dicendum, quod virtus dicitur medium dupliciter. Uno modo ratione mat
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod in justitia oportet esse non solum medium rationis, sed etiam rei: cujus ratio est, quia justitia est circa operationes, The edited versions add *et*. secundum ordinem ad alterum; unde illum ad quem sunt operationes justitiae, accipiunt quasi regulam. Et ideo sicut passiones circa quas sunt aliae virtutes oportet quod aequentur rationi; ita oportet quod operationes circa quas est justitia, adaequentur illi ad quem est justitia; quod non potest esse, nisi secundum rem tantum reddatur quantum ei debetur; et ideo ibi est medium rei.***
+Ad secundam quaestionem dicendum, quod in justitia oportet esse non solum medium rationis, sed etiam rei: cujus ratio est, quia justitia est circa operationes, The edited versions add *et*. secundum ordinem ad alterum; unde illum ad quem sunt operationes justitiae, accipiunt quasi regulam. Et ideo sicut passiones circa quas sunt aliae virtutes oportet quod aequentur rationi; ita oportet quod operationes circa quas est justitia, adaequentur illi ad quem est justitia; quod non potest esse, nisi secundum rem tantum reddatur quantum ei debetur; et ideo ibi est medium rei.  
 
 Sed inter aliquos duos potest constitui aequalitas dupliciter. Uno modo secundum quod utrisque aliquid reddendum est; et in hoc constituit ei aequalitatem justitia distributiva, quae non dat aequale utrique secundum quantitatem, sed secundum proportionem, quia utrique dat quantum sibi debetur; et ideo medium in justitia distributiva dicitur esse secundum proportionalitatem The edited versions read *proportionabilitatem*. geometricam, in qua salvatur eadem proportio, sed non eadem quantitas; sicut sex est The Bruges manuscript reads *sunt*. medium inter quatuor et novem: quia in qua proportione se habet ad quatuor, scilicet in sesquialtera, in ipsa se habet novem ad ipsum; quamvis novem excedant sex in tribus, et sex quatuor in duobus. Alio modo constituitur aequalitas justitiae inter aliquos, inquantum unus debet recipere ab alio propter hoc quod ille prius recipit ab isto: et ad hoc est justitia commutativa. Et quia tantum debet secundum quantitatem aliquis ab altero recipere quantum ei tribuit, ideo in hac specie justitiae salvatur medium secundum proportionem arithmeticam, in qua salvatur eadem quantitas; sicut tria est medium inter quatuor et duo, quia utrinque est excessus in unitate.  
 
@@ -318,7 +320,7 @@ Ad tertium dicendum, quod in justitia incidit in idem rectificatio operationis e
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod bonum virtutum intellectualium consistit in hoc quod verum dicatur. Veritas autem consistit in quadam adaequatione intellectus The Nicolaï, Venice (2nd ed.), and Parma editions add *et*. vocis ad rem. Et quia aequalitas est medium inter majus et minus, ideo oportet quod bonum virtutis intellectualis in medio consistat, ut scilicet dicatur de re hoc quod est. Si autem excedat vel in plus vel in minus, erit falsum; quod se habet ad virtutes intellectuales, sicut vitium ad morales; et hoc inquantum intellectus absolute aliquid The edited versions omit *aliquid*. considerat; inquantum vero de uno in aliud discurrit, accipitur medium non solum secundum commensurationem ad rem, sed secundum commensurationem conclusionum ad principia, vel eorum quae sunt ad finem in operativis.***
+Ad tertiam quaestionem dicendum, quod bonum virtutum intellectualium consistit in hoc quod verum dicatur. Veritas autem consistit in quadam adaequatione intellectus The Nicolaï, Venice (2nd ed.), and Parma editions add *et*. vocis ad rem. Et quia aequalitas est medium inter majus et minus, ideo oportet quod bonum virtutis intellectualis in medio consistat, ut scilicet dicatur de re hoc quod est. Si autem excedat vel in plus vel in minus, erit falsum; quod se habet ad virtutes intellectuales, sicut vitium ad morales; et hoc inquantum intellectus absolute aliquid The edited versions omit *aliquid*. considerat; inquantum vero de uno in aliud discurrit, accipitur medium non solum secundum commensurationem ad rem, sed secundum commensurationem conclusionum ad principia, vel eorum quae sunt ad finem in operativis.  
 
 Ad primum ergo The edited versions read *igitur*. dicendum, quod, sicut dicit Philosophus in 10 The Bruges manuscript reads *9*. *Metaph*., mensura intellectus nostri est res; et ideo secundum quod adaequatur rei, est rectum ipsius. Nihilominus et principia sunt regula conclusionum, et intelligens est quodammodo regula principiorum.  
 
@@ -328,7 +330,7 @@ Ad tertium dicendum, quod extrema in virtutibus intellectualibus non accipiuntur
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod medium in omnibus virtutibus quae habent medium, accipitur ex hoc quod virtus attingit in materia propria illud quod est aequale, et competens mensura. Unde si esset aliqua virtus quae haberet mensuram ipsam pro materia, non essent ibi extrema nec medium; sed bonum illius virtutis esset simpliciter attingere mensuram illam, sicut si alicujus virtutis materia esset veritas. Omnium autem prima mensura est ipse Deus, sicut etiam The edited versions add *ipse*. Philosophus, in 10 The Bruges and Paris (841 and 842) manuscripts read *9*. *Metaph*., dicit. Unde virtutes theologicae, quae habent Deum pro objecto, qui est ultimus finis, a quo omnia mensurantur, non possunt habere rationem medii, cum in materia illa non sit accipere extrema: sicut etiam in his quae conjuncta sunt The Vivès edition omits *sunt*. malo fini, non potest accipi medium.***
+Ad quartam quaestionem dicendum, quod medium in omnibus virtutibus quae habent medium, accipitur ex hoc quod virtus attingit in materia propria illud quod est aequale, et competens mensura. Unde si esset aliqua virtus quae haberet mensuram ipsam pro materia, non essent ibi extrema nec medium; sed bonum illius virtutis esset simpliciter attingere mensuram illam, sicut si alicujus virtutis materia esset veritas. Omnium autem prima mensura est ipse Deus, sicut etiam The edited versions add *ipse*. Philosophus, in 10 The Bruges and Paris (841 and 842) manuscripts read *9*. *Metaph*., dicit. Unde virtutes theologicae, quae habent Deum pro objecto, qui est ultimus finis, a quo omnia mensurantur, non possunt habere rationem medii, cum in materia illa non sit accipere extrema: sicut etiam in his quae conjuncta sunt The Vivès edition omits *sunt*. malo fini, non potest accipi medium.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod ratio recta non est ad hoc quod in materia illa vitentur extrema, in qua superfluum esse non potest.  
 
@@ -394,7 +396,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod nullae virtutes debeant The Bruges manuscript reads *debent*. dici cardinales.***
+Ad primum sic proceditur. Videtur quod nullae virtutes debeant The Bruges manuscript reads *debent*. dici cardinales.  
 
 Quia eaedem virtutes quae The Bruges manuscript reads *et*. cardinales dicuntur, dicuntur etiam generales: unde et Tullius eis partes assignat. Sed virtutes sunt distinctae ab invicem; ut dictum est. Ergo videtur quod non debeant dici cardinales.  
 
@@ -408,7 +410,7 @@ Sed contra est quod dicitur in littera.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod morales virtutes non debeant dici cardinales, sed aliae. Quia theologicae virtutes propinquiores sunt fini, quia habent finem ultimum pro objecto. Cum ergo finis sit principium in operativis secundum Philosophum 7 *Ethic.*, virtutes theologicae erunt principaliores: et ita ipsae magis debent dici cardinales.***
+Ulterius. Videtur quod morales virtutes non debeant dici cardinales, sed aliae. Quia theologicae virtutes propinquiores sunt fini, quia habent finem ultimum pro objecto. Cum ergo finis sit principium in operativis secundum Philosophum 7 *Ethic.*, virtutes theologicae erunt principaliores: et ita ipsae magis debent dici cardinales.  
 
 Praeterea, caritas dicitur radix virtutum, fides autem fundamentum, spes vero anchora. Sed quae est proportio radicis ad arborem, et fundamenti ad domum, et anchorae ad navem, eadem est proportio cardinis ad ostium. Ergo virtutes theologicae possunt dici cardinales, sicut et morales.  
 
@@ -418,7 +420,7 @@ Sed contra, una sola de cardinalibus hic enumeratis intellectualis est, scilicet
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non debeant dici tot virtutes cardinales in hoc numero. Quia virtutes istae sunt in tribus viribus animae. Sed inter eas est una tantum principalis, scilicet rationalis. Ergo et inter virtutes est tantum una cardinalis.***
+Ulterius. Videtur quod non debeant dici tot virtutes cardinales in hoc numero. Quia virtutes istae sunt in tribus viribus animae. Sed inter eas est una tantum principalis, scilicet rationalis. Ergo et inter virtutes est tantum una cardinalis.  
 
 Praeterea, si virtutes dicuntur eaedem generales et cardinales; generales autem sunt tantum duae, scilicet justitia et prudentia, ut dictum est prius videtur etiam quod tantum duae sint The Brussels manuscript reads sunt. cardinales.  
 
@@ -432,7 +434,7 @@ Praeterea, sicut prudentia est perfectio rationis practicae, ita et ars. Sed rat
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod aliae virtutes magis debeant esse cardinales quam istae. Quia unumquodque denominatur a principaliori quod est in ipso, ut dicit Philosophus in 2 *De anima.* Sed vis irascibilis denominatur ab ira. Ergo cum mansuetudo sit circa The edited versions read *contra*. iram, fortitudo autem circa The edited versions read *contra*. timores et audacias, quae sunt etiam passiones irascibilis; videtur quod mansuetudo sit magis virtus cardinalis quam fortitudo.***
+Ulterius. Videtur quod aliae virtutes magis debeant esse cardinales quam istae. Quia unumquodque denominatur a principaliori quod est in ipso, ut dicit Philosophus in 2 *De anima.* Sed vis irascibilis denominatur ab ira. Ergo cum mansuetudo sit circa The edited versions read *contra*. iram, fortitudo autem circa The edited versions read *contra*. timores et audacias, quae sunt etiam passiones irascibilis; videtur quod mansuetudo sit magis virtus cardinalis quam fortitudo.  
 
 Praeterea, illud quod est magnum in quolibet genere, est principalius in illo genere. Sed magnanimitas operatur magna in omnibus virtutibus, ut dicit Philosophus in 4 *Ethic*. The Vivès edition omits *Ethic*. Ergo videtur quod magnanimitas sit magis cardinalis quam fortitudo, quia utraque est in irascibili.  
 
@@ -444,7 +446,7 @@ Praeterea, magis est laudabile dare aliquid de proprio quam reddere alienum. Sed
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod virtutes quatuor quae hic enumerantur, dicuntur et The edited versions omit *et*. generales, et principales, et cardinales. Quia enim principium cujuslibet rei est potissima pars ejus, etiam plus quam dimidium, The Bruges manuscript adds *totius esse*. ut dicitur in 1 *Ethic*., ideo illud quod est potissimum in quolibet genere, dicitur principale in genere illo. Et quia habitus pensatur The Bruges and Paris (841 and 842) manuscripts read *pensantur*. ex actibus et The Bruges manuscript omits *et*. actus ex objectis sive materia; ideo virtutes principales dicuntur quae sunt circa illud quod est potissimum in materia vel materiis virtutum; sicut potissimum in illis quae ad concupiscibilem pertinent, sunt delectationes secundum tactum; unde temperantia, quae est circa illas delectationes, est virtus principalis; et eutrapelia, quae est circa delectationes quae sunt in ludis, est virtus secundaria: sicut ars ad quam pertinet finis navis, qui est navigatio, scilicet gubernatoria, est principalis respectu illius artis quae facit navem, quia finis est potissimum in unoquoque; et in arte quae facit navem, est principalior illa quae inducit formam quam quae praestat materiam. Et quia ad illud quod est potissimum in qualibet re, ordinantur omnia quae sunt illius rei; The Bruges manuscript omits *rei*. ideo virtutes et artes principales movent secundum suum imperium virtutes et artes secundarias ad actus proprios, sicut ars gubernatoria imperat ei quae facit navem; et ex hoc dicitur architectonica respectu ejus, quasi princeps ipsius. Et quia actus moti fundantur super actione moventis, ideo actus secundariae virtutis fundantur super actione principalis, The edited versions read *principali*. sicut fundatur super cardinem motus ostii; et ideo virtus principalis dicitur esse cardinalis, et virtus secundaria dicitur adjuncta illi. Omne autem quod movetur ab aliquo, agit in virtute moventis sicut instrumentum ejus: et ideo etiam motus virtutis cardinalis participatur quodammodo in virtutibus adjunctis: et secundum hoc virtus cardinalis dicitur generalis, inquantum pluribus virtutibus adjunctis modum suum communicat; virtus autem adjuncta The Piana, Antwerp, Venice (2nd ed.), and Parma editions omit *adjunctis modum suum communicat; virtus autem* through homoteleuton. dicitur pars ejus, inquantum modum suum participat.***
+Respondeo dicendum ad primam quaestionem, quod virtutes quatuor quae hic enumerantur, dicuntur et The edited versions omit *et*. generales, et principales, et cardinales. Quia enim principium cujuslibet rei est potissima pars ejus, etiam plus quam dimidium, The Bruges manuscript adds *totius esse*. ut dicitur in 1 *Ethic*., ideo illud quod est potissimum in quolibet genere, dicitur principale in genere illo. Et quia habitus pensatur The Bruges and Paris (841 and 842) manuscripts read *pensantur*. ex actibus et The Bruges manuscript omits *et*. actus ex objectis sive materia; ideo virtutes principales dicuntur quae sunt circa illud quod est potissimum in materia vel materiis virtutum; sicut potissimum in illis quae ad concupiscibilem pertinent, sunt delectationes secundum tactum; unde temperantia, quae est circa illas delectationes, est virtus principalis; et eutrapelia, quae est circa delectationes quae sunt in ludis, est virtus secundaria: sicut ars ad quam pertinet finis navis, qui est navigatio, scilicet gubernatoria, est principalis respectu illius artis quae facit navem, quia finis est potissimum in unoquoque; et in arte quae facit navem, est principalior illa quae inducit formam quam quae praestat materiam. Et quia ad illud quod est potissimum in qualibet re, ordinantur omnia quae sunt illius rei; The Bruges manuscript omits *rei*. ideo virtutes et artes principales movent secundum suum imperium virtutes et artes secundarias ad actus proprios, sicut ars gubernatoria imperat ei quae facit navem; et ex hoc dicitur architectonica respectu ejus, quasi princeps ipsius. Et quia actus moti fundantur super actione moventis, ideo actus secundariae virtutis fundantur super actione principalis, The edited versions read *principali*. sicut fundatur super cardinem motus ostii; et ideo virtus principalis dicitur esse cardinalis, et virtus secundaria dicitur adjuncta illi. Omne autem quod movetur ab aliquo, agit in virtute moventis sicut instrumentum ejus: et ideo etiam motus virtutis cardinalis participatur quodammodo in virtutibus adjunctis: et secundum hoc virtus cardinalis dicitur generalis, inquantum pluribus virtutibus adjunctis modum suum communicat; virtus autem adjuncta The Piana, Antwerp, Venice (2nd ed.), and Parma editions omit *adjunctis modum suum communicat; virtus autem* through homoteleuton. dicitur pars ejus, inquantum modum suum participat.  
 
 Ad primum igitur dicendum, quod non dicuntur generales per praedicationem, sed per quamdam participationem, ut dictum est; unde eis non assignantur species, sed partes.  
 
@@ -456,7 +458,7 @@ Ad quartum dicendum, quod quamvis omnes virtutes gratuitae introducant ad regnum
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod virtutes cardinales dicuntur, ut dictum est, ad similitudinem cardinis, in quo motus ostii firmatur. De ratione autem ostii est ut per ipsum interiora domus adeantur; et ideo illud per quod non est motus in aliquid ulterius, non habet rationem ostii. Virtutes autem theologicae, cum sint circa finem ultimum, non est aliquid aliud ulterius ex parte objecti in quod tendant; unde in virtutibus theologicis non invenitur ratio ostii, et propter hoc non possunt dici cardinales; similiter nec in virtutibus intellectualibus; quia perficiunt in vita contemplativa, quae non ordinatur ulterius ad alteram vitam, sed activa ad ipsam ordinatur. Unde cum The Paris (841) manuscript reads *sicut*; the Paris (842) manuscript omits *cum*. virtutes morales perficiunt The edited versions read *perficiant*. in vita activa, et habent The edited versions read *habeant*. actus suos non circa finem ultimum, sed circa objectum, ex utraque parte manet in eis ratio ostii; et propter hoc cardinales virtutes inveniuntur solum in genere moralium.***
+Ad secundam quaestionem dicendum, quod virtutes cardinales dicuntur, ut dictum est, ad similitudinem cardinis, in quo motus ostii firmatur. De ratione autem ostii est ut per ipsum interiora domus adeantur; et ideo illud per quod non est motus in aliquid ulterius, non habet rationem ostii. Virtutes autem theologicae, cum sint circa finem ultimum, non est aliquid aliud ulterius ex parte objecti in quod tendant; unde in virtutibus theologicis non invenitur ratio ostii, et propter hoc non possunt dici cardinales; similiter nec in virtutibus intellectualibus; quia perficiunt in vita contemplativa, quae non ordinatur ulterius ad alteram vitam, sed activa ad ipsam ordinatur. Unde cum The Paris (841) manuscript reads *sicut*; the Paris (842) manuscript omits *cum*. virtutes morales perficiunt The edited versions read *perficiant*. in vita activa, et habent The edited versions read *habeant*. actus suos non circa finem ultimum, sed circa objectum, ex utraque parte manet in eis ratio ostii; et propter hoc cardinales virtutes inveniuntur solum in genere moralium.  
 
 Ad primum igitur dicendum, quod quamvis possint dici principales, non tamen dicuntur cardinales ratione jam dicta.  
 
@@ -466,7 +468,7 @@ Ad tertium dicendum The edited versions add *est*. sicut ad primum.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod non sunt nisi quatuor virtutes cardinales; cujus ratio est, quia cum moralium virtutum materia sint ea quae ad appetitum pertinent, in quibus etiam ratio dirigit, praedicta materia potest dupliciter considerari. Uno modo prout habet rationem consiliabilis et eligibilis, secundum quod ratio circa eam operatur: et sic est prudentia, quae est media inter morales et intellectuales, ut supra dictum est, dist. 23, quaest. 1, art. 3. Alio modo secundum quod habet rationem boni appetibilis. Ad appetitum autem duo pertinent, scilicet actio et passio. Passio autem est in irascibili et concupiscibili. Circa actiones ergo est justitia; circa passiones irascibilis fortitudo; circa passiones concupiscibilis temperantia; et sic sunt quatuor virtutes cardinales.***
+Ad tertiam quaestionem dicendum, quod non sunt nisi quatuor virtutes cardinales; cujus ratio est, quia cum moralium virtutum materia sint ea quae ad appetitum pertinent, in quibus etiam ratio dirigit, praedicta materia potest dupliciter considerari. Uno modo prout habet rationem consiliabilis et eligibilis, secundum quod ratio circa eam operatur: et sic est prudentia, quae est media inter morales et intellectuales, ut supra dictum est, dist. 23, quaest. 1, art. 3. Alio modo secundum quod habet rationem boni appetibilis. Ad appetitum autem duo pertinent, scilicet actio et passio. Passio autem est in irascibili et concupiscibili. Circa actiones ergo est justitia; circa passiones irascibilis fortitudo; circa passiones concupiscibilis temperantia; et sic sunt quatuor virtutes cardinales.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod cardo est illud in quo proxime firmatur motus ostii; unde virtutem cardinalem oportet esse circa id quod est principale in singulis materiis, et non solum circa id quod est principale principium, quod ad rationem pertinet. The Brussels manuscript omits *principium: quod ad rationem pertinet*.  
 
@@ -482,7 +484,7 @@ Ad sextum dicendum, quod appetitus dicitur rectus dupliciter. Uno modo in se, se
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut ex dictis patet, omnis materia moralis ad quatuor reducitur, quae vel re vel ratione differunt (hoc enim sufficit ad differentiam habituum, ut prius dictum est): scilicet passio concupiscibilis, passio irascibilis, actio: et haec omnia secundum quod subjiciuntur rationi, sic omnia The Vivès edition reads omni. induunt rationem unius objecti vel materiae. Inter passiones autem concupiscibilis praecipuae sunt delectationes secundum tactum, ut ex supra The Bruges manuscript omits *supra*. dictis The Bruges manuscript reads *praedictis*. in 26 dist., quaest. 1, art. 4, patet, circa quas est temperantia: et ideo in hac materia ipsa est cardinalis virtus. In passionibus autem irascibilis praecipuae sunt illae quae sunt ex difficili, quod natum est mortem incutere: et ideo fortitudo, quae est circa hujusmodi passiones, est in hac materia cardinalis virtus. In actionibus autem quae sunt circa res quae in usum vitae veniunt, quibus ad invicem communicamus, praecipue sunt illae actiones quibus hujusmodi res distinguuntur, quia praedicta distinctio est communicationis principium; et ideo justitia, quae tribuit unicuique quod suum est, est cardinalis virtus in hac materia. Inter ea autem quae ratio circa moralia operatur, praecipuum est electio ad quam consilium et omnia hujusmodi ordinantur: et ideo prudentia quae electionem rectam, facit, est cardinalis in ista materia.***
+Ad quartam quaestionem dicendum, quod, sicut ex dictis patet, omnis materia moralis ad quatuor reducitur, quae vel re vel ratione differunt (hoc enim sufficit ad differentiam habituum, ut prius dictum est): scilicet passio concupiscibilis, passio irascibilis, actio: et haec omnia secundum quod subjiciuntur rationi, sic omnia The Vivès edition reads omni. induunt rationem unius objecti vel materiae. Inter passiones autem concupiscibilis praecipuae sunt delectationes secundum tactum, ut ex supra The Bruges manuscript omits *supra*. dictis The Bruges manuscript reads *praedictis*. in 26 dist., quaest. 1, art. 4, patet, circa quas est temperantia: et ideo in hac materia ipsa est cardinalis virtus. In passionibus autem irascibilis praecipuae sunt illae quae sunt ex difficili, quod natum est mortem incutere: et ideo fortitudo, quae est circa hujusmodi passiones, est in hac materia cardinalis virtus. In actionibus autem quae sunt circa res quae in usum vitae veniunt, quibus ad invicem communicamus, praecipue sunt illae actiones quibus hujusmodi res distinguuntur, quia praedicta distinctio est communicationis principium; et ideo justitia, quae tribuit unicuique quod suum est, est cardinalis virtus in hac materia. Inter ea autem quae ratio circa moralia operatur, praecipuum est electio ad quam consilium et omnia hujusmodi ordinantur: et ideo prudentia quae electionem rectam, facit, est cardinalis in ista materia.  
 
 Ad primum ergo dicendum, quod non idem requiritur ad hoc quod aliqua passio sit principalis et ad hoc quod sit materia principalis virtutis, et ad hoc quod denominet potentiam. Quia enim denominatio fit ex completo et ultimo et manifestiori: ideo potentia irascibilis denominatur a passione irae, quae est ultima aliarum passionum quae sunt in irascibili, et composita passio, sicut supra dictum est. Sed ad hoc quod sit principalis passio, requiritur quod afficiatur appetitus secundum conditionem appetibilis moventis, ut scilicet bonum prosequatur, et malum fugiat; et ita in irascibili timor et spes sunt principales passiones. Sed ad hoc quod sit materia principalis virtutis, requiritur quod sit passio excedens per modum intensionis alias passiones existentes in illa vi, sicut circa maximas delectationes concupiscibilis est temperantia. Magis autem intensam passionem facere natum est malum corruptivum imminens, sicut sunt mortis pericula, quam bonum expectatum, vel quam vindicta desiderata de malo illato: et ideo circa audacias et timores, quae sunt circa hujusmodi pericula, est principalis virtus, non autem circa spem vel circa iram.  
 
@@ -500,7 +502,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod prudentia non habeat aliquam materiam specialem.***
+Ad secundum sic proceditur. Videtur quod prudentia non habeat aliquam materiam specialem.  
 
 Quia quidam philosophus dicit, quod sub prudentia comprehenduntur physica, dialectica, rhetorica. Sed nihil est in mundo quod ad aliquid istorum quatuor non reducatur: quia physica est de his quae sunt a natura, dialectica autem est de operibus rationis, politica de civilibus operibus. Ergo prudentia non habet aliquam materiam determinatam.  
 
@@ -514,7 +516,7 @@ Praeterea, est virtus specialis. Ergo habet objectum speciale.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod passiones non sunt The Paris (842) manuscript and the edited versions read *sint* against the Bruges, Brussels, and Paris (841) manuscripts. materia temperantiae et fortitudinis. Materia enim salvatur in omnibus quae ex materia vel circa materiam fiunt. Sed praedictae virtutes sunt quietantes a passionibus. Ergo passiones non sunt materia earum.***
+Ulterius. Videtur quod passiones non sunt The Paris (842) manuscript and the edited versions read *sint* against the Bruges, Brussels, and Paris (841) manuscripts. materia temperantiae et fortitudinis. Materia enim salvatur in omnibus quae ex materia vel circa materiam fiunt. Sed praedictae virtutes sunt quietantes a passionibus. Ergo passiones non sunt materia earum.  
 
 Praeterea, illud penes quod distinguuntur virtutes, debet assignari materia virtutum: quia habitus per objecta distinguuntur. Sed virtutes praedictae et eis annexae distinguuntur penes res exteriores: quia quaedam sunt circa pericula mortis, quaedam circa delectabilia venerea, quaedam circa honores, et sic de aliis. Ergo res exteriores, et non passiones, sunt earum materia.  
 
@@ -526,7 +528,7 @@ Praeterea, id The Bruges manuscript reads *idem*; the Paris (842) manuscript and
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod justitia non sit circa operationes. Non enim potest esse idem materia, et actus circa materiam. Sed actus justitiae est quaedam operatio. Ergo operationes non possunt esse materia justitiae.***
+Ulterius. Videtur quod justitia non sit circa operationes. Non enim potest esse idem materia, et actus circa materiam. Sed actus justitiae est quaedam operatio. Ergo operationes non possunt esse materia justitiae.  
 
 Praeterea, operationes etiam exteriores ex interioribus passionibus oriuntur. Sed justitia non dicitur esse circa passiones, sed magis aliae virtutes. Ergo non est circa operationes.  
 
@@ -538,7 +540,7 @@ Praeterea, ipsa est circa aliquid circa quod non est aliqua alia virtus, scilice
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod prudentia circa illa est de quibus est consilium, eo quod ad prudentem pertinet bene se habere circa consilia, consiliando, judicando, et praecipiendo. Consilium autem est de contingentibus operabilibus a nobis; unde The edited versions add *etiam*. circa hoc oportet prudentiam esse. Et quia prudens dicitur bene consiliativus simpliciter, oportet quod consilietur de his quae sunt ordinata ad bonum hominis simpliciter. Hoc autem consistit in animae perfectione, cujus ultima perfectio est debita operatio potentiarum animae; et ideo de his in quibus bonum operantis consistit, est prudentia; et haec agibilia dicuntur. Ea enim quae transeunt in exteriorem materiam ad perficiendum eam, dicuntur factiones magis quam actiones, et circa eas est ars mechanica praedicta. Ergo agibilia, secundum quod sunt consiliabilia, sunt propria materia prudentiae.***
+Respondeo dicendum ad primam quaestionem, quod prudentia circa illa est de quibus est consilium, eo quod ad prudentem pertinet bene se habere circa consilia, consiliando, judicando, et praecipiendo. Consilium autem est de contingentibus operabilibus a nobis; unde The edited versions add *etiam*. circa hoc oportet prudentiam esse. Et quia prudens dicitur bene consiliativus simpliciter, oportet quod consilietur de his quae sunt ordinata ad bonum hominis simpliciter. Hoc autem consistit in animae perfectione, cujus ultima perfectio est debita operatio potentiarum animae; et ideo de his in quibus bonum operantis consistit, est prudentia; et haec agibilia dicuntur. Ea enim quae transeunt in exteriorem materiam ad perficiendum eam, dicuntur factiones magis quam actiones, et circa eas est ars mechanica praedicta. Ergo agibilia, secundum quod sunt consiliabilia, sunt propria materia prudentiae.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod physica et dialectica The Nicolaï edition adds et *rhetorica*. non continentur sub prudentia quantum ad ea de quibus sunt, sed quantum ad usum et exercitium earum.  
 
@@ -548,7 +550,7 @@ Ad tertium dicendum, quod sicut idem secundum rem est objectum intellectus inqua
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod sicut dictum est, materia prudentiae est bonum operabile a nobis, pertinens ad perfectionem animae. Operatio autem animae recta, in qua perfectio ejus consistit quantum ad vitam activam pertinet, in duobus consistit, scilicet in moderatione passionum animae, et in usu debito exteriorum rerum. Quia ergo oportet virtutes morales haberi ad exequendum illud quod prudentia decrevit, oportet quod sint aliquae virtutes circa utrumque praedictorum. Circa passiones ergo moderandas est temperantia et fortitudo, et alia hujusmodi; unde propria materia temperantiae sunt passiones circa delectabilia tactus; fortitudinis autem timores et audaciae in maximis terribilibus.***
+Ad secundam quaestionem dicendum, quod sicut dictum est, materia prudentiae est bonum operabile a nobis, pertinens ad perfectionem animae. Operatio autem animae recta, in qua perfectio ejus consistit quantum ad vitam activam pertinet, in duobus consistit, scilicet in moderatione passionum animae, et in usu debito exteriorum rerum. Quia ergo oportet virtutes morales haberi ad exequendum illud quod prudentia decrevit, oportet quod sint aliquae virtutes circa utrumque praedictorum. Circa passiones ergo moderandas est temperantia et fortitudo, et alia hujusmodi; unde propria materia temperantiae sunt passiones circa delectabilia tactus; fortitudinis autem timores et audaciae in maximis terribilibus.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod virtutes non omnino extinguunt passiones, sed moderant eas; unde Philosophus dicit in 2 *Ethic*., quod *quidam determinant virtutes impassibilitates et quietes; non bene autem*.  
 
@@ -558,7 +560,7 @@ Ad tertium dicendum, quod aliae virtutes non sunt circa delectationes sicut circ
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod non solum oportet hominem moderari circa passiones interiores, sed etiam circa actiones exteriores. Sed moderatio in eis potest esse duplex. Uno modo per ordinem ad agentem; et sic eadem est ratio moderandi actiones exteriores, et interiores passiones; unde hoc pertinet ad alias virtutes quae sunt circa passiones. Alio modo per ordinem ad alium cum quo est convivendum; et sic habet specialem rationem moderationis, et ideo requiritur specialis virtus; unde ad hoc est justitia, et illa quae ad justitiam reducuntur. Propria ergo materia justitiae sunt operationes exteriores secundum quod ordinantur ad alterum; res autem exteriores, ut pecunia The Piana and Antwerp editions read *patientia*. vel aliquid hujusmodi, sunt materia justitiae inquantum in usum veniunt; et ideo sunt materia remota.***
+Ad tertiam quaestionem dicendum, quod non solum oportet hominem moderari circa passiones interiores, sed etiam circa actiones exteriores. Sed moderatio in eis potest esse duplex. Uno modo per ordinem ad agentem; et sic eadem est ratio moderandi actiones exteriores, et interiores passiones; unde hoc pertinet ad alias virtutes quae sunt circa passiones. Alio modo per ordinem ad alium cum quo est convivendum; et sic habet specialem rationem moderationis, et ideo requiritur specialis virtus; unde ad hoc est justitia, et illa quae ad justitiam reducuntur. Propria ergo materia justitiae sunt operationes exteriores secundum quod ordinantur ad alterum; res autem exteriores, ut pecunia The Piana and Antwerp editions read *patientia*. vel aliquid hujusmodi, sunt materia justitiae inquantum in usum veniunt; et ideo sunt materia remota.  
 
 Ad primum igitur dicendum, quod actus virtutum primi et principales sunt actus interiores. Unde si ponimus exteriores operationes materiam justitiae, non erit idem actus et materia.  
 
@@ -570,7 +572,7 @@ Articulus 3
 
 ***Utrum prudentia habeat actum virtutis distinctum ab aliis***
 
-***Ad tertium sic proceditur. Videtur quod prudentia non habeat actum distinctum ab aliis virtutibus.***
+Ad tertium sic proceditur. Videtur quod prudentia non habeat actum distinctum ab aliis virtutibus.  
 
 Quia, ut Philosophus dicit 6 *Ethic.*, prudentia praeceptiva est. Sed praecipere de operandis idem videtur quod electio, quae est actus virtutis moralis, ut dicit Philosophus in 6 *Ethic*. Ergo prudentia non habet distinctum actum ab aliis virtutibus.  
 
@@ -608,7 +610,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod nulla potentia animae sit subjectum alicujus virtutis.***
+Ad quartum sic proceditur. Videtur quod nulla potentia animae sit subjectum alicujus virtutis.  
 
 Forma enim simplex, ut dicit Boetius, subjectum esse non potest. Sed potentiae animae sunt formae simplices. Ergo non possunt esse subjectum virtutis.  
 
@@ -620,7 +622,7 @@ Sed contra, virtus est ultimum potentiae, secundum Philosophum in 1 The Bruges, 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod temperantia et fortitudo non sint in irascibili et concupiscibili. Quia, secundum Philosophum, 2 *Ethic*., virtus moralis facit electionem rectam. Sed electio non est actus irascibilis et The Vivès edition omits *et*. concupiscibilis, sed liberi arbitrii. Ergo non sunt in irascibili et concupiscibili sicut in subjecto, sed in libero arbitrio.***
+Ulterius. Videtur quod temperantia et fortitudo non sint in irascibili et concupiscibili. Quia, secundum Philosophum, 2 *Ethic*., virtus moralis facit electionem rectam. Sed electio non est actus irascibilis et The Vivès edition omits *et*. concupiscibilis, sed liberi arbitrii. Ergo non sunt in irascibili et concupiscibili sicut in subjecto, sed in libero arbitrio.  
 
 Praeterea, illud quod est perpetuae corruptionis, non potest esse subjectum virtutis. Sed sensualitas, cujus partes sunt irascibilis et concupiscibilis, perpetuae corruptionis est: unde significatur The edited versions read *signatur*. per serpentem. Ergo irascibilis et concupiscibilis non sunt subjectum alicujus virtutis.  
 
@@ -638,7 +640,7 @@ Praeterea, Philosophus assignat differentiam inter continentem et temperatum; qu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod justitia sit etiam in irascibili et concupiscibili. Quia justitia est moralis virtus, cujus subjectum est rationale per participationem, quod est irascibilis et concupiscibilis. Ergo justitia est The Bruges manuscript reads *erit*. in irascibili et concupiscibili.***
+Ulterius. Videtur quod justitia sit etiam in irascibili et concupiscibili. Quia justitia est moralis virtus, cujus subjectum est rationale per participationem, quod est irascibilis et concupiscibilis. Ergo justitia est The Bruges manuscript reads *erit*. in irascibili et concupiscibili.  
 
 Praeterea, tres sunt vires motivae: rationalis, irascibilis, et concupiscibilis. Sed justitia non est in rationali, quia non est virtus cognitiva. Ergo est in irascibili vel concupiscibili.  
 
@@ -652,7 +654,7 @@ Praeterea, justitia consistit in ordine ad alium. Sed ordinare non est nisi rati
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod prudentia non sit in ratione. Quia, sicut dicit Philosophus, in 6 *Ethic.,* prudentia praeceptiva est. Sed praecipere pertinet ad voluntatem, quae est motor omnium virium, ut dicit Anselmus. Ergo prudentia est in voluntate sicut in subjecto.***
+Ulterius. Videtur quod prudentia non sit in ratione. Quia, sicut dicit Philosophus, in 6 *Ethic.,* prudentia praeceptiva est. Sed praecipere pertinet ad voluntatem, quae est motor omnium virium, ut dicit Anselmus. Ergo prudentia est in voluntate sicut in subjecto.  
 
 Praeterea, eligere videtur esse actus prudentiae. Sed electio non The Bruges manuscript reads *Electio vero*. est actus rationis, sed liberi arbitrii, quod est idem quod voluntas. Ergo prudentia non est in ratione sicut in subjecto, sed in voluntate.  
 
@@ -664,7 +666,7 @@ Praeterea, partes prudentiae, secundum Tullium, assignantur memoria, intelligent
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod substantia, quae est subjectum omnium, recipit quaedam accidentia mediantibus aliis; et quaedam causantur ex principiis substantiae, mediantibus aliis accidentibus; sicut colorem recipit mediante superficie, et ex principiis corporis mixti causatur sapor mediante calido et frigido. Unde subjectum alicujus accidentis potest dupliciter assignari. Uno modo substantia, quae est primum fundamentum accidentium; et sic habitus virtutum non sunt in potentiis sicut in subjecto, sed magis in ipsa anima, vel etiam conjuncto. Alio modo dicitur accidens quo mediante inest alterum accidens substantiae, esse subjectum illius, sicut superficies coloris: et hoc The Vivès edition omits *hoc*. modo habitus virtutum dicuntur esse in potentiis sicut in subjecto: quia habitus ordinantur ad actus; actus autem egrediuntur ab essentia animae mediante potentia.***
+Respondeo dicendum ad primam quaestionem, quod substantia, quae est subjectum omnium, recipit quaedam accidentia mediantibus aliis; et quaedam causantur ex principiis substantiae, mediantibus aliis accidentibus; sicut colorem recipit mediante superficie, et ex principiis corporis mixti causatur sapor mediante calido et frigido. Unde subjectum alicujus accidentis potest dupliciter assignari. Uno modo substantia, quae est primum fundamentum accidentium; et sic habitus virtutum non sunt in potentiis sicut in subjecto, sed magis in ipsa anima, vel etiam conjuncto. Alio modo dicitur accidens quo mediante inest alterum accidens substantiae, esse subjectum illius, sicut superficies coloris: et hoc The Vivès edition omits *hoc*. modo habitus virtutum dicuntur esse in potentiis sicut in subjecto: quia habitus ordinantur ad actus; actus autem egrediuntur ab essentia animae mediante potentia.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod forma quae neque The Bruges manuscript reads *non*. habet materiam ex qua neque in qua, nullo modo potest esse subjectum; forma autem quae habet materiam in qua, quamvis non habeat materiam ex qua, potest esse subjectum non sicut primum sustinens accidens, sed sicut id quo mediante accidens substantiae inest.  
 
@@ -674,7 +676,7 @@ Ad tertium dicendum, quod vivere uno modo dicitur esse viventis; et hoc modo viv
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod virtutes humanae sunt quibus opus hominis bonum redditur; unde in omni potentia quae est principium humani operis, oportet esse habitum virtutis, quo opus ejus bonum redditur: alias non esset sufficienter homo per virtutem perfectus. Principium autem humani operis est omnis potentia in qua aliquid rationis invenitur, a qua homo habet quod homo sit. Unde cum in irascibili et concupiscibili, quae sunt partes sensibilis appetitus, sit aliquid rationis participative, inquantum rationi obedire possunt, quod non est de potentiis nutritivae partis; oportet quod in irascibili et concupiscibili sint aliquae virtutes sicut in subjecto, quibus efficitur ut facile rationi obediant illae potentiae in quibus sunt; quod quidem contingit inquantum passiones reprimuntur, ut non rationem perturbent. Unde in illo qui passiones vehementiores patitur, sed non deducitur, est quidem habitus in ratione, qui tenet eam ne deducatur, non autem in viribus illis in quibus sunt passiones; sicut patet in continente; et ideo continens, seu abstinens, non est perfecte virtuosus, sed temperatus vel mitis, in quo non solum superior pars est perfecta ut deduci non possit, sed etiam inferior moderata ut passiones vehementes non insurgant; et ideo in quacumque potentia est passio circa quam est virtus aliqua, illa potentia est subjectum illius virtutis; sicut concupiscibilis, temperantiae; fortitudinis autem et mansuetudinis, irascibilis.***
+Ad secundam quaestionem dicendum, quod virtutes humanae sunt quibus opus hominis bonum redditur; unde in omni potentia quae est principium humani operis, oportet esse habitum virtutis, quo opus ejus bonum redditur: alias non esset sufficienter homo per virtutem perfectus. Principium autem humani operis est omnis potentia in qua aliquid rationis invenitur, a qua homo habet quod homo sit. Unde cum in irascibili et concupiscibili, quae sunt partes sensibilis appetitus, sit aliquid rationis participative, inquantum rationi obedire possunt, quod non est de potentiis nutritivae partis; oportet quod in irascibili et concupiscibili sint aliquae virtutes sicut in subjecto, quibus efficitur ut facile rationi obediant illae potentiae in quibus sunt; quod quidem contingit inquantum passiones reprimuntur, ut non rationem perturbent. Unde in illo qui passiones vehementiores patitur, sed non deducitur, est quidem habitus in ratione, qui tenet eam ne deducatur, non autem in viribus illis in quibus sunt passiones; sicut patet in continente; et ideo continens, seu abstinens, non est perfecte virtuosus, sed temperatus vel mitis, in quo non solum superior pars est perfecta ut deduci non possit, sed etiam inferior moderata ut passiones vehementes non insurgant; et ideo in quacumque potentia est passio circa quam est virtus aliqua, illa potentia est subjectum illius virtutis; sicut concupiscibilis, temperantiae; fortitudinis autem et mansuetudinis, irascibilis.  
 
 Ad primum igitur dicendum, quod electio, secundum Philosophum in 6 *Ethic*., est appetitus, et intellectus sive rationis: The Bruges manuscript omits *completur enim in appetitu praecedente inquisitione rationis* through homoteleuton. completur enim in appetitu praecedente inquisitione rationis. Unde omnis appetitus ad quem potest pervenire rationis imperium, particeps electionis esse potest, inquantum hujusmodi: et praecipue illius electionis quae est de fine; quamvis non sit electio de qua loquitur Philosophus.  
 
@@ -690,7 +692,7 @@ Ad sextum dicendum, quod apprehensivae sensitivae aliter serviunt intellectui qu
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod justitia non potest esse in irascibili et concupiscibili sicut in subjecto, cum non sit circa passiones: ad ipsam enim non pertinet moderari passiones, sed exteriores actiones quae sunt The Bruges manuscript adds *circa ipsum*. ad alterum. Unde oportet quod sit in illa potentia sicut in subjecto ad quam pertinet usus rerum exteriorum in ordine ad alterum. Uti autem actus The Piana and Antwerp editions read *Ubi jam actus*. voluntatis est secundum Augustinum; sed non absolute secundum quod voluntas est finis, sed secundum quod praesupponit collationem rationis ordinantis ad alterum; et ideo in voluntate hoc modo accepta, est justitia sicut in subjecto. In voluntate enim, secundum quod est finis, non potest esse aliqua virtus moralis, quia ad bonum civile et naturale hominis, voluntas naturalem inclinationem habet sicut in proprium objectum; The edited versions read *subjectum*. sed secundum quod voluntas est eorum quae sunt ordinata ad finem, sic in voluntate potest esse moralis virtus, scilicet justitia, sicut et prudentia in ratione cognitiva.***
+Ad tertiam quaestionem dicendum, quod justitia non potest esse in irascibili et concupiscibili sicut in subjecto, cum non sit circa passiones: ad ipsam enim non pertinet moderari passiones, sed exteriores actiones quae sunt The Bruges manuscript adds *circa ipsum*. ad alterum. Unde oportet quod sit in illa potentia sicut in subjecto ad quam pertinet usus rerum exteriorum in ordine ad alterum. Uti autem actus The Piana and Antwerp editions read *Ubi jam actus*. voluntatis est secundum Augustinum; sed non absolute secundum quod voluntas est finis, sed secundum quod praesupponit collationem rationis ordinantis ad alterum; et ideo in voluntate hoc modo accepta, est justitia sicut in subjecto. In voluntate enim, secundum quod est finis, non potest esse aliqua virtus moralis, quia ad bonum civile et naturale hominis, voluntas naturalem inclinationem habet sicut in proprium objectum; The edited versions read *subjectum*. sed secundum quod voluntas est eorum quae sunt ordinata ad finem, sic in voluntate potest esse moralis virtus, scilicet justitia, sicut et prudentia in ratione cognitiva.  
 
 Hoc autem quod dictum est de subjecto justitiae, consonat omnibus quae dicuntur ab The Bruges manuscript reads *de*. aliis de subjecto justitiae. Quidam enim The Bruges and Brussels manuscripts read *consonat omnibus quae dicuntur ab aliis. De subjecto enim justitiae quidam dicunt* . . .  dicunt eam esse in ratione: quod non potest esse The Vivès edition omits *in ratione: quod non potest esse* through homoteleuton. secundum quod ratio est cognitiva potentia, sed secundum quod ratio comprehendit et cognitionem et affectionem: secundum quod dicitur quod voluntas in ratione est. Alii vero dicunt quod est in tota anima: quod quidem verificatur inquantum voluntas est universalis motor omnium virium animae; unde etiam Commentator in 5 *Ethic*. dicit quod est in rationali et concupiscibili. Et similis ratio est de omnibus virtutibus quae non The Vivès edition omits *non*. sunt circa passiones, sed circa operationes, sicut liberalitas, magnificentia, et hujusmodi.  
 
@@ -704,7 +706,7 @@ Ad quartum dicendum, quod materiae aliarum virtutum possunt esse materia justiti
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod prudentia est in ratione cognitiva practica sicut in subjecto. Sed sciendum, quod sicut in voluntate non potest esse virtus moralis ex parte illa qua est finis, propter naturalem inclinationem, ita etiam nec in ratione ex parte illa qua The Bruges and Brussels manuscripts read *quae* against the Paris (841, 842, 15.539, 15.770, and 15.772) and Vatican (111, 190, and 755) manuscripts. est de fine, quia finis est principium in operativis. Unde sicut in ratione speculativa sunt innata principia demonstrationum, ita in ratione practica sunt innati fines connaturales homini; unde circa illa non est habitus acquisitus aut infusus, sed naturalis, sicut synderesis, loco cujus Philosophus in 6 *Ethic*. ponit intellectum in operativis. Relinquitur igitur quod prudentia sit in ratione practica secundum quod negotiatur de illis quae sunt ad finem.***
+Ad quartam quaestionem dicendum, quod prudentia est in ratione cognitiva practica sicut in subjecto. Sed sciendum, quod sicut in voluntate non potest esse virtus moralis ex parte illa qua est finis, propter naturalem inclinationem, ita etiam nec in ratione ex parte illa qua The Bruges and Brussels manuscripts read *quae* against the Paris (841, 842, 15.539, 15.770, and 15.772) and Vatican (111, 190, and 755) manuscripts. est de fine, quia finis est principium in operativis. Unde sicut in ratione speculativa sunt innata principia demonstrationum, ita in ratione practica sunt innati fines connaturales homini; unde circa illa non est habitus acquisitus aut infusus, sed naturalis, sicut synderesis, loco cujus Philosophus in 6 *Ethic*. ponit intellectum in operativis. Relinquitur igitur quod prudentia sit in ratione practica secundum quod negotiatur de illis quae sunt ad finem.  
 
 Sed quia naturalis inclinatio ad finem aliquem est ex praestituente naturam, qui talem ordinem naturae tribuit; ideo naturalis inclinatio voluntatis ad finem non est ex ratione, nisi forte secundum naturalem communicantiam, qua fit ut appetitus rationi conjunctus naturaliter tendat ad conformandum se rationi sicut regulae; et ex hoc est quod voluntas est naturaliter inclinata ad finem, qui naturaliter rationi est inditus. Unde cum negotiatio de his quae sunt ad finem, praesupponat naturalem cognitionem finis, quae sequitur naturalem inclinationem voluntatis in finem; oportet quod habitus perficiens rationem negotiantem de his quae sunt ad finem, praesupponat inclinationem appetitus in The edited versions read *ad*. finem: quae quidem inclinatio in appetitu superiori, scilicet The Bruges manuscript adds *a*; the Brussels manuscript adds *in*. voluntate, est naturalis; in appetitu autem inferiori est ex assuetudine, The Bruges manuscript reads *assuefactione*. vel ex Dei dono, quantum ad sui complementum; sed aliqua ejus inchoatio etiam est a natura, inquantum est naturaliter obaudibilis rationi.  
 
@@ -718,9 +720,9 @@ Ad tertium dicendum, quod hoc convenit prudentiae, inquantum praesupponit inclin
 
 Articulus 5  
 
-***Utrum aliae virtutes cardinales reducantur ad prudentiam sicut ad principaliorem, vel causam***
+Utrum aliae virtutes cardinales reducantur ad prudentiam sicut ad principaliorem, vel causam  
 
-***Ad quintum sic proceditur. Videtur quod aliae virtutes cardinales non reducantur ad prudentiam sicut ad principaliorem et causam.***
+Ad quintum sic proceditur. Videtur quod aliae virtutes cardinales non reducantur ad prudentiam sicut ad principaliorem et causam.  
 
 Scire enim, ut dicit Philosophus in 2 *Ethic*., parum aut nihil facit ad virtutem. Sed prudentia quaedam scientia est, ut in The Brussels manuscript omits *in*. 4 *Topic*. dicitur. Ergo ipsa minimum habet de ratione virtutis.  
 
@@ -756,7 +758,7 @@ Ad sextum dicendum, quod sicut ratio speculativa procedit ad conclusionem ex pri
 
 Quaestio 3  
 
-***Deinde quaeritur de partibus virtutum cardinalium; et circa hoc quaeruntur quatuor:***
+Deinde quaeritur de partibus virtutum cardinalium; et circa hoc quaeruntur quatuor:  
 
 primo de partibus prudentiae;  
 
@@ -768,11 +770,11 @@ quarto de partibus justitiae.
 
 Articulus 1  
 
-***An memoria praeteritorum, intelligentia praesentium, et providentia futurorum sint partes prudentiae, sicut dicit Tullius***
+An memoria praeteritorum, intelligentia praesentium, et providentia futurorum sint partes prudentiae, sicut dicit Tullius  
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod partes prudentiae a Tullio male assignentur.***
+Ad primum sic proceditur. Videtur quod partes prudentiae a Tullio male assignentur.  
 
 Dividit enim prudentiam in memoriam praeteritorum, et intelligentiam praesentium et providentiam futurorum. Prudentia The edited versions read *providentia*. enim, secundum Philosophum in 6 *Ethic.*, non se extendit ultra humana bona. Sed intelligentia est etiam divinorum. Ergo non potest esse pars prudentiae.  
 
@@ -782,7 +784,7 @@ Praeterea, providentia idem videtur quod prudentia. Ergo non debet ei assignari 
 
 Quaestiuncula 2  
 
-***Ulterius. A quibusdam assignantur partes prudentiae providentia, cautio, circumspectio, docilitas; et videtur quod male. Quia ad quemlibet actum prudentiae omnia oportet praedicta concurrere. Sed habitus distinguuntur per actus. Ergo non sunt virtutes distinctae ab invicem.***
+Ulterius. A quibusdam assignantur partes prudentiae providentia, cautio, circumspectio, docilitas; et videtur quod male. Quia ad quemlibet actum prudentiae omnia oportet praedicta concurrere. Sed habitus distinguuntur per actus. Ergo non sunt virtutes distinctae ab invicem.  
 
 Praeterea, docilitas est ex natura. Sed prudentia est virtus acquisita, vel infusa. Ergo non debet poni pars ejus.  
 
@@ -790,7 +792,7 @@ Praeterea, cavere oppositum pertinet ad quamlibet virtutem. Ergo cautio non debe
 
 Quaestiuncula 3  
 
-***Ulterius. Philosophus, in 6 *Ethic.*, adjungit prudentiae tres, scilicet eubuliam, synesim, et gnomen; The Bruges and Brussels manuscripts read *gnomin*. et videtur quod male. Quia ipse dicit in eodem lib. quod prudens est totaliter consiliativus. Sed eubulia, ut ipse dicit, est bona consiliatio. Ergo eubulia idem est quod prudentia, et non pars ejus.***
+Ulterius. Philosophus, in 6 *Ethic.*, adjungit prudentiae tres, scilicet eubuliam, synesim, et gnomen; The Bruges and Brussels manuscripts read *gnomin*. et videtur quod male. Quia ipse dicit in eodem lib. quod prudens est totaliter consiliativus. Sed eubulia, ut ipse dicit, est bona consiliatio. Ergo eubulia idem est quod prudentia, et non pars ejus.  
 
 Praeterea, synesis est bona dijudicatio. Sed judicium in operabilibus est ipsa electio. Cum igitur eligere recte sit prudentiae proprium, videtur quod synesis sit idem quod prudentia.  
 
@@ -798,7 +800,7 @@ Praeterea, Damascenus, in 3 lib. *De fide*, dicit, quod gnome The Bruges and Bru
 
 Quaestiuncula 4  
 
-***Ulterius. A quodam philosopho Graeco attribuuntur prudentiae partes decem, scilicet eubulia, solertia, providentia, regnativa, militaris, politica, oeconomica, dialectica, rhetorica, physica; et videtur quod male. Quia physica scientia quaedam est de necessariis, et de his non est prudentia, ut dicit Philosophus in 6 *Ethic.* Ergo physica non est pars prudentiae.***
+Ulterius. A quodam philosopho Graeco attribuuntur prudentiae partes decem, scilicet eubulia, solertia, providentia, regnativa, militaris, politica, oeconomica, dialectica, rhetorica, physica; et videtur quod male. Quia physica scientia quaedam est de necessariis, et de his non est prudentia, ut dicit Philosophus in 6 *Ethic.* Ergo physica non est pars prudentiae.  
 
 Praeterea, dialectica et rhetorica artes quaedam sunt et scientiae. Sed prudentia dividitur contra scientiam et artem in 6 *Ethic.* Ergo non sunt partes ejus.  
 
@@ -810,7 +812,7 @@ Praeterea, urbanitates, ut dicit Philosophus in 8 *Ethic*., sunt tres, scilicet 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod omne totum ad tria genera reducitur, scilicet universale, integrale et potentiale; et similiter pars triplex invenitur dictis tribus respondens. Integralis enim pars intrat in constitutionem totius, sicut paries The Bruges manuscript adds *in constitutione*. domus; universalis vero totius pars suscipit totius praedicationem, sicut homo animalis; potentialis vero pars neque praedicationem totius recipit, neque in constitutionem ipsius oportet quod The Bruges manuscript reads *ut*. veniat, sed aliquid de potentia totius participat, sicut patet in anima. Rationalis enim anima tota anima dicitur, eo quod in ipsa omnes animae potentiae congregantur. Sensibilis vero in brutis, et in plantis vegetabilis, dicuntur partes animae,PLE: *partem*. quia aliquid de The Bruges manuscript reads *ex*. potentia animae habent, sed non totum. Unde dicitur in lib. *De plantis*, quod non habent animam, sed partes animae.***
+Respondeo dicendum ad primam quaestionem, quod omne totum ad tria genera reducitur, scilicet universale, integrale et potentiale; et similiter pars triplex invenitur dictis tribus respondens. Integralis enim pars intrat in constitutionem totius, sicut paries The Bruges manuscript adds *in constitutione*. domus; universalis vero totius pars suscipit totius praedicationem, sicut homo animalis; potentialis vero pars neque praedicationem totius recipit, neque in constitutionem ipsius oportet quod The Bruges manuscript reads *ut*. veniat, sed aliquid de potentia totius participat, sicut patet in anima. Rationalis enim anima tota anima dicitur, eo quod in ipsa omnes animae potentiae congregantur. Sensibilis vero in brutis, et in plantis vegetabilis, dicuntur partes animae,PLE: *partem*. quia aliquid de The Bruges manuscript reads *ex*. potentia animae habent, sed non totum. Unde dicitur in lib. *De plantis*, quod non habent animam, sed partes animae.  
 
 Et secundum hunc modum tripliciter assignantur partes prudentiae et aliis virtutibus. Uno enim modo assignantur ei partes quasi integrales, cum scilicet partes virtutis alicujus ponuntur aliqua quae exiguntur ad virtutem, in quibus perfectio virtutis consistit; et hae partes, proprie loquendo, non nominant per se virtutes, sed conditiones unius virtutis integrantes ipsam. Alio modo per modum partium subjectivarum; et sic partes illae nominant quidem virtutes, et ad invicem distinctas, sed non quidem a toto, cujus partes assignantur, quia illud de eis praedicatur. Tertio modo per modum totius potentialis, inquantum scilicet aliquae virtutes participant aliquid de modo qui principaliter et perfecte invenitur in aliqua virtute; et hoc patebit per singula.  
 
@@ -824,7 +826,7 @@ Ad tertium dicendum, quod providentia The edited versions read *prudentia*. est 
 
 Solutio 2  
 
-***Ad secundam quaestionem de partibus aliis assignatis a quibusdam, dicendum, quod etiam illae sunt sicut partes integrales: requiruntur enim ad prudentiam, secundum quod de futuris conjectatPLE: *coniectat non*. non The edited versions omit *non* against the Bruges, Brussels, Paris (841 and 842) and Vatican (111, 190, and 755) manuscripts. ex parte praeteritorum et praesentium, ex quibus procedit. Oportet enim prudentem viam accommodam ad finem intentum invenire; quod per providentiam The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana, Antwerp, Nicolaï, Parma, and Vivès editions read *prudentiam* against the Venice 2nd edition. facit, quae est praesens notio futurum pertractans eventum; et iterum prohibentia removere.***
+Ad secundam quaestionem de partibus aliis assignatis a quibusdam, dicendum, quod etiam illae sunt sicut partes integrales: requiruntur enim ad prudentiam, secundum quod de futuris conjectatPLE: *coniectat non*. non The edited versions omit *non* against the Bruges, Brussels, Paris (841 and 842) and Vatican (111, 190, and 755) manuscripts. ex parte praeteritorum et praesentium, ex quibus procedit. Oportet enim prudentem viam accommodam ad finem intentum invenire; quod per providentiam The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana, Antwerp, Nicolaï, Parma, and Vivès editions read *prudentiam* against the Venice 2nd edition. facit, quae est praesens notio futurum pertractans eventum; et iterum prohibentia removere.  
 
 Contingit autem providentiam tripliciter impediri. Uno modo ex parte ipsius viae inveniendae, quae quandoque videtur bona, et non est; et hoc impedimentum cautio aufert, cujus est a The edited versions read *ex*. virtutibus vitia virtutum speciem praeferentia discernere. Alio modo ex ordine ipsius in finem, ne scilicet via quae de se apta The Bruges manuscript adds *nata*. est ad finem, aliquo extrinseco impediatur ne in finem ducere possit; et hoc ad circumspectionem pertinet, quae est cautela vitiorum contrariorum, quibus praecipue prudentia impeditur. Tertio modo ex parte ipsius hominis tendentis in finem, qui vias accommodas ad finem intentum invenire non potest: unde oportet quod per doctrinam ab aliis accipiat. Quia oportet principia operabilia vel a se habere prudentem, vel ab alio faciliter accipere. Qui autem neutrum habet, hic inutilis est vir, ut dicitur in 1 *Ethic*. Et sic est docilitas passive dicta.*sic est docilitas passive dicta* is omitted in PLE. The Bruges manuscript omits *Et sic est docilitas passive dicta*. Si autem docilitas accipiatur active, tunc pertinebit ad prudentiam secundum suum perfectissimum esse, prout scilicet non solum sibi, sed etiam aliis quae sunt utilia ad finem invenit; et sic dicitur prudentia erudiendi imperitos.  
 
@@ -836,7 +838,7 @@ Ad tertium dicendum, quod quia prudentia regulat omnes alias virtutes, ideo omne
 
 Solutio 3  
 
-***Ad tertiam quaestionem de partibus quas ponit Philosophus in 6 The Bruges and Brussels manuscripts read *7*. *Eth*., sciendum est quod sunt partes quasi potentiales, eo quod sunt virtutes et ab invicem et a prudentia distinctae, sicut ipse vult. Ad rationem enim pertinet praecipere The Bruges manuscript reads *percipere*. quod faciendum est, quia aliae vires obediunt aliqualiter rationi. Ratio autem non praecipit nisi prius in se perfecta sit quantum ad id quod est sui ipsius, sicut nec aliqua res movet ante sui perfectionem. Perfectio autem rationis practicae, sicut et speculativae, consistit in duobus, scilicet in inveniendo et judicando de inventis.***
+Ad tertiam quaestionem de partibus quas ponit Philosophus in 6 The Bruges and Brussels manuscripts read *7*. *Eth*., sciendum est quod sunt partes quasi potentiales, eo quod sunt virtutes et ab invicem et a prudentia distinctae, sicut ipse vult. Ad rationem enim pertinet praecipere The Bruges manuscript reads *percipere*. quod faciendum est, quia aliae vires obediunt aliqualiter rationi. Ratio autem non praecipit nisi prius in se perfecta sit quantum ad id quod est sui ipsius, sicut nec aliqua res movet ante sui perfectionem. Perfectio autem rationis practicae, sicut et speculativae, consistit in duobus, scilicet in inveniendo et judicando de inventis.  
 
 Inventio autem in agendis consilium est; et ideo oportet haberi virtutem per quam ratio consilietur; et haec est eubulia, quae, secundum Philosophum, est rectitudo consilii, qua bonum inquiritur convenientibus mediis secundum debitum tempus, et alias circumstantias; et oportet haberi virtutem qua bene judicet de consiliatis; et haec est synesis, et gnome, The Bruges and Brussels manuscripts read *gnomi*. quae qualiter differant, dicetur; et oportet haberi virtutem quae bene praecipiat; et haec est prudentia, quae, ut Philosophus ibidem dicit, praeceptiva est.  
 
@@ -850,7 +852,7 @@ Ad tertium dicendum, quod ad synesim pertinet recte judicare in illis ad quae se
 
 Solutio 4  
 
-***Ad quartam quaestionem de partibus decem quas assignat philosophus Graecus, dicendum est, quod non sunt partes unius rationis; unde divisio est minus The Bruges manuscript reads *unius* against the Brussels and Paris (841 and 842) manuscripts as well as the edited versions. artificialis. Sciendum enim est, quod prudentia potest dupliciter considerari. Uno modo secundum esse absolutum; alio modo secundum perfectum esse ipsius. Salvatur autem ratio prudentiae in his quae ad ipsum prudentem pertinent, sed completum esse ejus The Bruges manuscript reads *ipsius*. secundum quod etiam ad alios se extendit. Primo igitur The Brussels manuscript and the edited versions read *ergo*. modo considerando prudentiam, sic providentia est pars ejus quasi integralis formalis, ut dictum est, quae secundum ipsum est habitus viam The Piana and Antwerp editions read *vitam*. facere potens ad majus, idest melius, ut fiat sicut oportet; unde ipsa ponitur loco omnium aliarum partium ejusdem rationis.***
+Ad quartam quaestionem de partibus decem quas assignat philosophus Graecus, dicendum est, quod non sunt partes unius rationis; unde divisio est minus The Bruges manuscript reads *unius* against the Brussels and Paris (841 and 842) manuscripts as well as the edited versions. artificialis. Sciendum enim est, quod prudentia potest dupliciter considerari. Uno modo secundum esse absolutum; alio modo secundum perfectum esse ipsius. Salvatur autem ratio prudentiae in his quae ad ipsum prudentem pertinent, sed completum esse ejus The Bruges manuscript reads *ipsius*. secundum quod etiam ad alios se extendit. Primo igitur The Brussels manuscript and the edited versions read *ergo*. modo considerando prudentiam, sic providentia est pars ejus quasi integralis formalis, ut dictum est, quae secundum ipsum est habitus viam The Piana and Antwerp editions read *vitam*. facere potens ad majus, idest melius, ut fiat sicut oportet; unde ipsa ponitur loco omnium aliarum partium ejusdem rationis.  
 
 Eubulia autem est pars ejus quasi potentialis; quae secundum ipsum est scientia conferentium, idest utilium ad finem de quibus est consilium: et quia ipsa est prima, ideo ponitur loco aliarum quae consequuntur, et sunt unius rationis.  
 
@@ -872,11 +874,11 @@ Ad quintum dicendum, quod regnum inter alia regimina dignius est, ut Philosophus
 
 Articulus 2  
 
-***Utrum continentia, clementia et modestia sint partes temperantiae, sicut dicit Tullius***
+Utrum continentia, clementia et modestia sint partes temperantiae, sicut dicit Tullius  
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod partes temperantiae male assignentur a Tullio in prima rhetorica.***
+Ad secundum sic proceditur. Videtur quod partes temperantiae male assignentur a Tullio in prima rhetorica.  
 
 Dicit enim, quod partes temperantiae sunt continentia, clementia et modestia; et videtur quod male. Quia continentia, ut dicit Philosophus in 7 *Ethic.*, dividitur contra virtutem universalem. Ergo non debet poni pars alicujus virtutis.  
 
@@ -888,7 +890,7 @@ Praeterea, Tullius dicit, quod modestia est pudor honestatis, puram et stabilem 
 
 Quaestiuncula 2  
 
-***Ulterius. A quibusdam ponuntur partes temperantiae sobrietas et castitas; et potest haberi ex 3 *Ethic.*; et videtur quod insufficienter. The Piana and Antwerp editions read *sufficienter*. Quia sobrietas est circa delectationes gustus, castitas autem circa delectationes tactus. Cum igitur etiam alii sensus habeant suas delectationes, videtur etiam quod circa eas deberent The edited versions read *debeant*. assignari aliquae virtutes.***
+Ulterius. A quibusdam ponuntur partes temperantiae sobrietas et castitas; et potest haberi ex 3 *Ethic.*; et videtur quod insufficienter. The Piana and Antwerp editions read *sufficienter*. Quia sobrietas est circa delectationes gustus, castitas autem circa delectationes tactus. Cum igitur etiam alii sensus habeant suas delectationes, videtur etiam quod circa eas deberent The edited versions read *debeant*. assignari aliquae virtutes.  
 
 Praeterea, contingit peccare non solum in delectationibus sensuum exteriorum, sed etiam in delectationibus sensuum interiorum, et etiam intellectus, sicut patet de curiositate. Similiter etiam in delectationibus et concupiscentiis The edited versions read *concupiscentia*. exteriorum rerum, ut honoris, pecuniae, et hujusmodi, quae secundum se videntur eligibilia, contingit esse peccatum per superabundantiam, ut dicitur in 7 *Ethic.* Sed virtus et vitium sunt circa idem. Ergo et circa illas delectationes debet aliqua virtus poni.  
 
@@ -896,7 +898,7 @@ Praeterea, virtus est circa difficile et bonum. Sed magis sunt difficilia ad qua
 
 Quaestiuncula 3  
 
-***Ulterius. Quidam philosophus Graecus ponit septem partes temperantiae, scilicet austeritatem, continentiam, humilitatem, simplicitatem, ornatum, bonam ordinationem, per se sufficientiam; et videtur quod male.***
+Ulterius. Quidam philosophus Graecus ponit septem partes temperantiae, scilicet austeritatem, continentiam, humilitatem, simplicitatem, ornatum, bonam ordinationem, per se sufficientiam; et videtur quod male.  
 
 Austeritas enim, ut ipse dicit, est habitus secundum quem aliqui neque afferunt aliis delectationes collocutionum, neque ab aliis recipiunt. Hoc autem videtur esse vitiosum, et contrarium amicitiae, quae maxime collocutionibus amicorum gaudet. Ergo austeritas non debet poni pars virtutis.  
 
@@ -906,7 +908,7 @@ Praeterea, ipse dicit, quod humilitas est habitus non superabundans in sumptibus
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod illae partes quas Tullius ponit, partes potentiales sunt, inquantum participant modum temperantiae. Sicut enim in scientiis modum oportet secundum materiam inquirere, ut dicitur in 1 *Ethic.*, ita et in virtutibus. Materia autem virtutum moralium actiones et passiones humanae sunt. In passionibus autem quaedam sunt in quibus passionem inferens de sui ratione natum est in prosecutionem movere, sicut delectabile quod concupiscibili passionem The edited versions read *passiones*. infert; et in his difficile est retrahi a prosecutione, et facile est prosequi. Unde temperantia, quae circa principalia delectabilia est, modum habet in retrahendo; et propter hoc temperatus plus assimilatur insensibili, qui superabundat in fuga, quam intemperato qui superabundat in prosecutione talium delectabilium. In passionibus autem in quibus passionem inferentia nata sunt ad fugam movere, sicut sunt timores et audaciae, difficile est prosequi vel sustinere, facile autem fugere; unde modus fortitudinis, quae circa timores et audacias maximorum terribilium est, modus est in aggrediendo; et ideo fortis magis similatur audaci qui superabundat in aggrediendo, quam timido qui superabundat in The Bruges manuscript omits *aggrediendo quam timido qui superabundat in* through homoteleuton. fugiendo. In actionibus autem non consideratur inclinatio affectus magis ad unum quam ad aliud nisi per accidens, inquantum convincitur passionibus. Et ideo justitiae, quae circa actiones est, modus est aequalitas, sicut fortitudinis superextensio, et temperantiae refrenatio et diminutio.***
+Respondeo dicendum ad primam quaestionem, quod illae partes quas Tullius ponit, partes potentiales sunt, inquantum participant modum temperantiae. Sicut enim in scientiis modum oportet secundum materiam inquirere, ut dicitur in 1 *Ethic.*, ita et in virtutibus. Materia autem virtutum moralium actiones et passiones humanae sunt. In passionibus autem quaedam sunt in quibus passionem inferens de sui ratione natum est in prosecutionem movere, sicut delectabile quod concupiscibili passionem The edited versions read *passiones*. infert; et in his difficile est retrahi a prosecutione, et facile est prosequi. Unde temperantia, quae circa principalia delectabilia est, modum habet in retrahendo; et propter hoc temperatus plus assimilatur insensibili, qui superabundat in fuga, quam intemperato qui superabundat in prosecutione talium delectabilium. In passionibus autem in quibus passionem inferentia nata sunt ad fugam movere, sicut sunt timores et audaciae, difficile est prosequi vel sustinere, facile autem fugere; unde modus fortitudinis, quae circa timores et audacias maximorum terribilium est, modus est in aggrediendo; et ideo fortis magis similatur audaci qui superabundat in aggrediendo, quam timido qui superabundat in The Bruges manuscript omits *aggrediendo quam timido qui superabundat in* through homoteleuton. fugiendo. In actionibus autem non consideratur inclinatio affectus magis ad unum quam ad aliud nisi per accidens, inquantum convincitur passionibus. Et ideo justitiae, quae circa actiones est, modus est aequalitas, sicut fortitudinis superextensio, et temperantiae refrenatio et diminutio.  
 
 Omnes igitur virtutes in quibus difficultas consistit in refrenando prosecutionem, conveniunt in modo cum temperantia: hoc autem contingit in omnibus in quibus est inclinatio ad prosequendum. Haec autem inclinatio duplex est. Una qua affectus inclinatur per passionem; alia qua ex passionibus ipsius est inclinatio ad exteriores gestus, quae sunt signa interioris passionis. Affectus autem inclinat ad prosequendum vel bonum proprium; et hanc inclinationem refrenat continentia, quae, ut dicit Tullius est per quam cupiditas consilii gubernatione regitur; vel malum alienum, inquantum est contrarium bono proprio; et hanc inclinationem refrenat clementia, quae, ut dicit Tullius ibid. est virtus per quam animus in odium alicujus concitatus, benignitate retinetur. Inclinationem autem quae ad exteriores gestus est, quibus interior affectus ostenditur, refrenat modestia, ut nihil in eis immoderatum sit; quae est virtus per quam pudor honestatis puram et stabilem comparat auctoritatem. Sed quia difficillimum est refrenare a delectationibus tactus, ideo iste modus in temperantia quae est circa hujusmodi delectationes consistit principaliter, et quasi integraliter, in aliis autem participative.  
 
@@ -920,7 +922,7 @@ Ad quartum dicendum, quod pudor non ponitur hic pro passione verecundiae, sed pr
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum de aliis partibus, scilicet sobrietate et castitate, quod sunt partes subjectivae The Bruges manuscript reads *inductivae*. temperantiae; quia castitas est circa delectabilia tactus absolute quae The edited versions read *quia*. sunt in venereis: sobrietas autem circa delectabilia gustus, prout est tactus quidam, quae sunt in cibis et potibus.***
+Ad secundam quaestionem dicendum de aliis partibus, scilicet sobrietate et castitate, quod sunt partes subjectivae The Bruges manuscript reads *inductivae*. temperantiae; quia castitas est circa delectabilia tactus absolute quae The edited versions read *quia*. sunt in venereis: sobrietas autem circa delectabilia gustus, prout est tactus quidam, quae sunt in cibis et potibus.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod delectationes aliorum sensuum non sunt vehementes sicut delectationes tactus, eo quod non sunt per conjunctionem rei, sed speciei. Unde difficultas refrenandi istas delectationes non est ex impetu earum; et ideo non oportet quod sit aliqua virtus in parte affectiva circa eas; sed sufficit ad hoc prudentia, quae est in ratione.  
 
@@ -930,7 +932,7 @@ Ad tertium dicendum, quod virginitas et hujusmodi non sunt virtutes, sed nominan
 
 Solutio 3  
 
-***Ad tertiam quaestionem de aliis partibus quas philosophus Graecus ponit dicendum est, quod accipiuntur eodem modo sicut partes Tullii, nisi quod clementiam omittit. Continentiam The Vivès edition says that other editions read *conscientiam*. enim ponit, et videtur eam accipere sicut Philosophus; unde dicit, quod continentia est habitus invictus a delectatione. Sed modestiam in multa dividit secundum diversa exteriora in quibus oportet hominem modum imponere. Exteriora enim in quibus modestia modum imponit, sunt tria. Primum est collocutiones ad eos quibus convivimus; et in his ponit modum austeritas cujus definitio in objiciendo supra posita est. Secundum est bona exteriora, ut vestes, equi, et hujusmodi, et The Vivès edition omits *et*. in his ponit modum humilitas quantum ad quantitatem in usu; unde secundum ipsum, humilitas est *habitus non superabundans in sumptibus et praeparationibus*; sed simplicitas quantum ad modum quaerendi, quae secundum ipsum est *habitus contentus his quae contingunt, non enim multum solicitus est de talibus*. Tertium est actiones propriae quae ad corpus pertinent; et in his ponit modum quantum ad ipsum The edited versions omit *ipsum*. agentem ornatus The Bruges manuscript reads *ordinatus*. qui secundum ipsum est *scientia circa decens in motu et habitudine*: quantum autem ad exteriora, quae consideranda sunt ut The Venice 2nd edition says *forte supplendum: fiant*. debito tempore, et loco, et hujusmodi, ordinatio, quae secundum ipsum est experientia separationis et discretionis actionum, The Brussels manuscript reads *actionis*; the edited versions read *actuum*. ut scilicet The edited versions omit *scilicet*. sciat loqui verumPLE: *verbum*. in tempore suo; quantum vero ad instrumenta, vel auxilia quibus indigemus ad actionem, est per se sufficientia, quae secundum ipsum est *habitus contentus quibus oportet*.***
+Ad tertiam quaestionem de aliis partibus quas philosophus Graecus ponit dicendum est, quod accipiuntur eodem modo sicut partes Tullii, nisi quod clementiam omittit. Continentiam The Vivès edition says that other editions read *conscientiam*. enim ponit, et videtur eam accipere sicut Philosophus; unde dicit, quod continentia est habitus invictus a delectatione. Sed modestiam in multa dividit secundum diversa exteriora in quibus oportet hominem modum imponere. Exteriora enim in quibus modestia modum imponit, sunt tria. Primum est collocutiones ad eos quibus convivimus; et in his ponit modum austeritas cujus definitio in objiciendo supra posita est. Secundum est bona exteriora, ut vestes, equi, et hujusmodi, et The Vivès edition omits *et*. in his ponit modum humilitas quantum ad quantitatem in usu; unde secundum ipsum, humilitas est *habitus non superabundans in sumptibus et praeparationibus*; sed simplicitas quantum ad modum quaerendi, quae secundum ipsum est *habitus contentus his quae contingunt, non enim multum solicitus est de talibus*. Tertium est actiones propriae quae ad corpus pertinent; et in his ponit modum quantum ad ipsum The edited versions omit *ipsum*. agentem ornatus The Bruges manuscript reads *ordinatus*. qui secundum ipsum est *scientia circa decens in motu et habitudine*: quantum autem ad exteriora, quae consideranda sunt ut The Venice 2nd edition says *forte supplendum: fiant*. debito tempore, et loco, et hujusmodi, ordinatio, quae secundum ipsum est experientia separationis et discretionis actionum, The Brussels manuscript reads *actionis*; the edited versions read *actuum*. ut scilicet The edited versions omit *scilicet*. sciat loqui verumPLE: *verbum*. in tempore suo; quantum vero ad instrumenta, vel auxilia quibus indigemus ad actionem, est per se sufficientia, quae secundum ipsum est *habitus contentus quibus oportet*.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod austeritas, secundum quod ponitur virtus, non omnino aufert delectationem quae est in colloquiis, sed aufert superabundantiam in illa. Et quia major difficultas accidit in abstinendo ab his, ideo a defectu haec virtus nomen accepit.  
 
@@ -940,11 +942,11 @@ Ad tertium dicendum, quod differentia humilitatis et per se sufficientiae patet 
 
 Articulus 3  
 
-***Utrum magnificentia, fidentia, patientia, perseverantia bene assignentur a Tullio esse partes fortitudinis***
+Utrum magnificentia, fidentia, patientia, perseverantia bene assignentur a Tullio esse partes fortitudinis  
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod partes fortitudinis male assignentur a Tullio.***
+Ad tertium sic proceditur. Videtur quod partes fortitudinis male assignentur a Tullio.  
 
 Assignat enim has partes, magnificentiam, fidentiam, patientiam, perseverantiam. Magnificentia enim, ut dicit Philosophus, est idem liberalitati. Sed liberalitas ad justitiam reducitur. Ergo et magnificentia.  
 
@@ -956,7 +958,7 @@ Praeterea, ad perseverantiam pertinere videtur immobiliter operari. Sed hoc in o
 
 Quaestiuncula 2  
 
-***Ulterius. A Macrobio ponuntur septem partes fortitudinis, scilicet magnanimitas, fiducia, securitas, magnificentia, constantia, tolerantia, firmitas; et videtur quod male. Magnanimitas The edited versions add *enim*. est circa magnos honores qui inter bona computantur, ut dicitur in 4 *Ethicor.*: fortitudo autem est circa audacias et timores quae sunt magnorum malorum. Ergo magnanimitas non est fortitudinis pars, cum sit circa oppositam materiam.***
+Ulterius. A Macrobio ponuntur septem partes fortitudinis, scilicet magnanimitas, fiducia, securitas, magnificentia, constantia, tolerantia, firmitas; et videtur quod male. Magnanimitas The edited versions add *enim*. est circa magnos honores qui inter bona computantur, ut dicitur in 4 *Ethicor.*: fortitudo autem est circa audacias et timores quae sunt magnorum malorum. Ergo magnanimitas non est fortitudinis pars, cum sit circa oppositam materiam.  
 
 Praeterea, unum vitium non opponitur duabus virtutibus. Sed timiditas opponitur securitati et fiduciae. Ergo non sunt duae virtutes, sed una.  
 
@@ -964,7 +966,7 @@ Praeterea, constantia mutabilitati opponitur: similiter autem The edited version
 
 Quaestiuncula 3  
 
-***Ulterius. Philosophus ponit quinque modos adjunctos fortitudini verae, scilicet civilem, militarem, illam quae ex furore vel tristitia, illam quae procedit ex experientia, quae facit spem vincendi propter frequenter vicisse, et illam quae procedit ex ignorantia; et videtur quod male. Quia istae virtutes cardinales sunt virtutes politicae. Sed genus additum speciei non contrahit in partem speciei. Ergo civilis fortitudo non est pars fortitudinis.***
+Ulterius. Philosophus ponit quinque modos adjunctos fortitudini verae, scilicet civilem, militarem, illam quae ex furore vel tristitia, illam quae procedit ex experientia, quae facit spem vincendi propter frequenter vicisse, et illam quae procedit ex ignorantia; et videtur quod male. Quia istae virtutes cardinales sunt virtutes politicae. Sed genus additum speciei non contrahit in partem speciei. Ergo civilis fortitudo non est pars fortitudinis.  
 
 Praeterea, militaris sub politica ordinatur, ut dicit Philosophus. Ergo non debet dividi militaris fortitudo contra civilem.  
 
@@ -972,7 +974,7 @@ Praeterea, ignorantia excusat a peccato propter hoc quod tollit voluntarium. Sed
 
 Quaestiuncula 4  
 
-***Ulterius. Quidam philosophus Graecus ponit septem annexa fortitudini, scilicet eupsychiam, lemam,The Bruges and Brussels manuscripts, not the Paris 841, 842 manuscripts, seem to have *leniam* as the Nicolaï, Venice (2nd ed.), Parma, Vivès editions. magnanimitatem, virilitatem, perseverantiam, magnificentiam, andragathiam; et videtur quod male. Quia, ut ipse dicit, eupsychia dicitur robur animae ad perficiendum opera ipsius. Hoc autem in omnibus virtutibus requiritur. Ergo non est pars alicujus virtutis.***
+Ulterius. Quidam philosophus Graecus ponit septem annexa fortitudini, scilicet eupsychiam, lemam,The Bruges and Brussels manuscripts, not the Paris 841, 842 manuscripts, seem to have *leniam* as the Nicolaï, Venice (2nd ed.), Parma, Vivès editions. magnanimitatem, virilitatem, perseverantiam, magnificentiam, andragathiam; et videtur quod male. Quia, ut ipse dicit, eupsychia dicitur robur animae ad perficiendum opera ipsius. Hoc autem in omnibus virtutibus requiritur. Ergo non est pars alicujus virtutis.  
 
 Praeterea, lenia secundum ipsum est habitus promptos tribuens ad conari qualiter oportet, et sustinere quae ratio dicit. Sed promptitudo idem videtur esse quod facilitas, quae relinquitur ex quolibet habitu. Ergo lenia est magis genus virtutis quam species alicujus virtutis.  
 
@@ -980,7 +982,7 @@ Praeterea, ipse dicit, quod andragathia est viri virtus adinventiva communicabil
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod partes quas Tullius assignat, sunt partes potentiales, inquantum participant aliquid de materia fortitudinis. Fortitudo enim, ut dicit Philosophus in 3 The Bruges, Brussels, and Paris (841 and 842) manuscripts read *6*. *Eth*., proprie loquendo est circa pericula mortis, et maxime quae in bellicis est, quia in his The edited versions read *illis*. est maxime difficultas. Unde fortitudo, secundum Graecum praedictum, virtus est irascibilis non facile obstupescibilis The edited versions read *obstupefactibilis*. a timoribus qui sunt circa The Piana and Antwerp editions read *contra*. mortem, circa quae habet duos actus, scilicet aggredi, et sustinere sine stupore; et hoc est ejus magis proprium, ut ipse dicit. Et quamvis principaliter fortis sit circa ista, tamen in omnibus aliis periculis et arduis etiam bene se habet et in aggrediendo et in sustinendo.***
+Respondeo dicendum ad primam quaestionem, quod partes quas Tullius assignat, sunt partes potentiales, inquantum participant aliquid de materia fortitudinis. Fortitudo enim, ut dicit Philosophus in 3 The Bruges, Brussels, and Paris (841 and 842) manuscripts read *6*. *Eth*., proprie loquendo est circa pericula mortis, et maxime quae in bellicis est, quia in his The edited versions read *illis*. est maxime difficultas. Unde fortitudo, secundum Graecum praedictum, virtus est irascibilis non facile obstupescibilis The edited versions read *obstupefactibilis*. a timoribus qui sunt circa The Piana and Antwerp editions read *contra*. mortem, circa quae habet duos actus, scilicet aggredi, et sustinere sine stupore; et hoc est ejus magis proprium, ut ipse dicit. Et quamvis principaliter fortis sit circa ista, tamen in omnibus aliis periculis et arduis etiam bene se habet et in aggrediendo et in sustinendo.  
 
 Et ideo omnes virtutes in quibus consistit difficultas ex aggressione alicujus ardui, vel ex sustinentia difficilis, aliquid de fortitudinis modo participant, et ad ipsam reducuntur sicut partes potentiales, eo quod non est tanta difficultas in aliis sicut in illis periculis circa quae est fortitudo.  
 
@@ -998,7 +1000,7 @@ Ad quartum dicendum, quod perseverantia uno modo dicit continuationem virtutis, 
 
 Solutio 2  
 
-***Ad secundam quaestionem de partibus quas Macrobius ponit, dicendum, quod sunt ejusdem rationis cum partibus quas ponit Tullius, nisi quod duas illarum The edited versions read *harum*. dividit in duas species, scilicet fidentiam, quam ponit Tullius, dividit in magnanimitatem, quae est in sperando magna consequenda, ut magnos honores, et fiduciam, quae est in consequendis honoribus mediocribus, ac hujusmodi; quam Philosophus innominatam dicit. Item perseverantiam dividit in firmitatem, quae facit permanentiam in opere, et constantiam, quae facit permanentiam The Parma and Vivès editions omit *in opere et constantiam quae facit permanentiam* through homoteleuton. in proposito animi. The edited versions add *Et*. Addit etiam unam, scilicet securitatem, quae timori opponitur; unde propinquius se habet ad veram fortitudinem; sed tamen differt a fortitudine, quia reprimit timorem non solum circa maxima terribilia quemadmodum fortitudo, sed etiam circa quaecumque. Tolerantia vero est idem quod patientia: magnificentiam autem proprio nomine ponit.***
+Ad secundam quaestionem de partibus quas Macrobius ponit, dicendum, quod sunt ejusdem rationis cum partibus quas ponit Tullius, nisi quod duas illarum The edited versions read *harum*. dividit in duas species, scilicet fidentiam, quam ponit Tullius, dividit in magnanimitatem, quae est in sperando magna consequenda, ut magnos honores, et fiduciam, quae est in consequendis honoribus mediocribus, ac hujusmodi; quam Philosophus innominatam dicit. Item perseverantiam dividit in firmitatem, quae facit permanentiam in opere, et constantiam, quae facit permanentiam The Parma and Vivès editions omit *in opere et constantiam quae facit permanentiam* through homoteleuton. in proposito animi. The edited versions add *Et*. Addit etiam unam, scilicet securitatem, quae timori opponitur; unde propinquius se habet ad veram fortitudinem; sed tamen differt a fortitudine, quia reprimit timorem non solum circa maxima terribilia quemadmodum fortitudo, sed etiam circa quaecumque. Tolerantia vero est idem quod patientia: magnificentiam autem proprio nomine ponit.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod magnanimitas, quamvis non conveniat in materia cum fortitudine, convenit tamen in modo, ut dictum est.  
 
@@ -1008,7 +1010,7 @@ Ad tertium dicendum, quod constantia opponitur mutabilitati animi, sed firmitas 
 
 Solutio 3  
 
-***Ad tertiam quaestionem de partibus quas Philosophus ponit in 3 *Ethic*., sciendum, quod sunt etiam partes potentiales, aliter tamen quam praedictae: praedictae enim partes a fortitudine deficiunt quantum ad difficultatem materiae: sed illae quas Philosophus ponit, quantum ad rectitudinem motivi; et ideo non sunt virtutes, sed participant aliquid de virtute fortitudinis.***
+Ad tertiam quaestionem de partibus quas Philosophus ponit in 3 *Ethic*., sciendum, quod sunt etiam partes potentiales, aliter tamen quam praedictae: praedictae enim partes a fortitudine deficiunt quantum ad difficultatem materiae: sed illae quas Philosophus ponit, quantum ad rectitudinem motivi; et ideo non sunt virtutes, sed participant aliquid de virtute fortitudinis.  
 
 Motivum autem ad actum fortitudinis potest esse triplex. Uno modo intentio boni vel honesti; et sic fortitudinis virtus est vel alicujus temporalis boni vel honoris, vel alicujus hujusmodi; et sic deficit a ratione virtutis, et est fortitudo quam nominat politicam. Alio modo ex hoc quod removetur faciens difficultatem in actu fortitudinis, scilicet magnitudo periculi; et hoc quidem removetur per ignorantiam, et sic est ultimus modus; et per spem vincendi, quae potest ex duobus consurgere; vel ex arte sive exercitio; et sic est militaris fortitudo; vel ex The Vivès edition omits *ex*. experientia victoriae, sicut illi qui alias talia pericula evaserunt, The Bruges manuscript reads *invaserunt*. et sic est penultimus modus. Tertio modo ex passione furoris, vel tristitiae illatae, vel etiam timoris, vel desperationis; et sic est tertius modus.  
 
@@ -1020,7 +1022,7 @@ Ad tertium dicendum, quod non est ignorantia de periculo omnino, sed de quantita
 
 Solutio 4  
 
-***Ad quartam quaestionem de partibus quas alius philosophus Graecus ponit, sciendum, quod sunt fere eaedem cum illis quas ponit Macrobius: magnanimitatem enim et magnificentiam et perseverantiam proprio nomine ponit, et eas sic definit: *magnanimitas est habitus plus faciens communiter accidente pravis et studiosis*. Magnanimus enim non est contentus vitare prava et facere bona secundum quod communiter sufficit, nisi excellentius faciat hoc; et ideo dicitur in 4 *Ethic.*, quod operatur magnum in omnibus virtutibus. *Magnificentia vero est habitus superferens habentes ipsum, et elatione adimplens*, inquantum scilicet effert propositum ejus ad aliqua sumptuosa et magna facienda. *Perseverantia vero est scientia vel habitus eorum quibus immanendum*, The Bruges manuscript reads *commanendum*. idest bonorum, *et non immanendum*, The Bruges manuscript reads *commanendum*. idest The Bruges manuscript reads *scilicet*. malorum, *et* The edited versions read *vel*. *neutrorum*, idest indifferentium.***
+Ad quartam quaestionem de partibus quas alius philosophus Graecus ponit, sciendum, quod sunt fere eaedem cum illis quas ponit Macrobius: magnanimitatem enim et magnificentiam et perseverantiam proprio nomine ponit, et eas sic definit: *magnanimitas est habitus plus faciens communiter accidente pravis et studiosis*. Magnanimus enim non est contentus vitare prava et facere bona secundum quod communiter sufficit, nisi excellentius faciat hoc; et ideo dicitur in 4 *Ethic.*, quod operatur magnum in omnibus virtutibus. *Magnificentia vero est habitus superferens habentes ipsum, et elatione adimplens*, inquantum scilicet effert propositum ejus ad aliqua sumptuosa et magna facienda. *Perseverantia vero est scientia vel habitus eorum quibus immanendum*, The Bruges manuscript reads *commanendum*. idest bonorum, *et non immanendum*, The Bruges manuscript reads *commanendum*. idest The Bruges manuscript reads *scilicet*. malorum, *et* The edited versions read *vel*. *neutrorum*, idest indifferentium.  
 
 *Eupsychia autem, quae* secundum ipsum *est robur animae ad perficiendum opera ipsius*, videtur idem esse quod constantia, et praecipue in spiritualibus, quae sunt opera animae. *Lenia autem, quae* secundum philosophum *est habitus promptos tribuens ad tolerare et sustinere quae ratio dicit*, videtur idem quod patientia. *Virilitas* autem videtur idem quod fiducia, quam diximus differre a magnanimitate in hoc quod est communium bonorum,PLE: *honorum*. vel hujusmodi, cum magnanimitas sit magnorum, et quae sunt ultra necessitatem virtutis. *Virilitas* autem secundum ipsum *est habitus per se sufficiens in his quae sunt secundum virtutem, et de necessitate virtutis*;  
 
@@ -1036,11 +1038,11 @@ Ad tertium dicendum, quod quamvis communicet cum justitia quantum ad materiam, c
 
 Articulus 4  
 
-***Utrum religio, pietas, gratia, vindicatio, observantia, veritas sint partes justitiae, sicut dicit Tullius***
+Utrum religio, pietas, gratia, vindicatio, observantia, veritas sint partes justitiae, sicut dicit Tullius  
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod partes justitiae male assignentur a Tullio.***
+Ad quartum sic proceditur. Videtur quod partes justitiae male assignentur a Tullio.  
 
 Assignat enim justitiae sex species,PLE: *partes*. quae sunt religio, pietas, gratia, vindicatio, observantia, veritas; et videtur quod male. Quia Philosophus dicit in 8 The Bruges, Brussels, and Paris (841 and 842) manuscripts read *6*. *Ethic*., quod servi ad dominum non potest esse justitia. Sed Deus maxime Dominus est. Ergo cum religio sit hominis ad Deum, videtur quod non sit pars justitiae.  
 
@@ -1052,7 +1054,7 @@ Praeterea, vindicatio videtur pertinere ad vitium irae, quae est appetitus vindi
 
 Quaestiuncula 2  
 
-***Ulterius. A Macrobio, ponuntur hae partes: innocentia, amicitia, concordia, religio, pietas, humanitas, The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *bonitas*. affectus; The Vivès edition reads *effectus*. et videtur quod male. Quia innocentia omni peccato opponitur. Sed omni peccato non opponitur nisi virtus communis. Ergo et innocentia vel est virtus communis, vel sequens omnem virtutem; ergo non debet poni pars justitiae.***
+Ulterius. A Macrobio, ponuntur hae partes: innocentia, amicitia, concordia, religio, pietas, humanitas, The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *bonitas*. affectus; The Vivès edition reads *effectus*. et videtur quod male. Quia innocentia omni peccato opponitur. Sed omni peccato non opponitur nisi virtus communis. Ergo et innocentia vel est virtus communis, vel sequens omnem virtutem; ergo non debet poni pars justitiae.  
 
 Praeterea, illud quod consequitur ad omnes virtutes, non debet poni alicujus virtutis pars. Sed amicitia est hujusmodi: quia verae amicitiae fundamentum est honestum. Ergo non debet poni pars justitiae.  
 
@@ -1062,7 +1064,7 @@ Praeterea, affectus in omnibus moralibus requiritur. Ergo non The Piana and Antw
 
 Quaestiuncula 3  
 
-***Ulterius. Quidam ponunt quinque partes, quae sunt obedientia respectu superioris, disciplina respectu inferioris, aequitas The Piana and Antwerp editions read *aequalitatem, fidem et veritatem*. respectu parium, fides et veritas respectu omnium: et videtur quod male. Quia justitia generalis, ut dicitur in 5 The Bruges and Paris (841 and 842) manuscripts read *7*. *Ethic*., attendit praecepta legis. Sed obedire est attendere praeceptum. Ergo est idem quod justitia generalis: ergo non est pars justitiae quae est specialis virtus, sed magis e converso.***
+Ulterius. Quidam ponunt quinque partes, quae sunt obedientia respectu superioris, disciplina respectu inferioris, aequitas The Piana and Antwerp editions read *aequalitatem, fidem et veritatem*. respectu parium, fides et veritas respectu omnium: et videtur quod male. Quia justitia generalis, ut dicitur in 5 The Bruges and Paris (841 and 842) manuscripts read *7*. *Ethic*., attendit praecepta legis. Sed obedire est attendere praeceptum. Ergo est idem quod justitia generalis: ergo non est pars justitiae quae est specialis virtus, sed magis e converso.  
 
 Praeterea rigor ad justitiam pertinet, sicut et aequitas. The Nicolaï and Vivès editions omit *et aequitas. Ergo sicut* through homoteleuton. Ergo sicut ponunt aequitatem, ita ponere debent rigorem.  
 
@@ -1072,7 +1074,7 @@ Praeterea, veritas ad intellectum pertinet: justitia autem magis ad voluntatem: 
 
 Quaestiuncula 4  
 
-***Ulterius. Quidam dividunt justitiam in liberalitatem et severitatem: quam dividunt in benignitatem et beneficentiam: benignitatem vero in septem partes, scilicet religionem, pietatem, innocentiam, amicitiam, reverentiam, concordiam, The Bruges manuscript adds *et*. misericordiam. Et videtur quod non bene. The Bruges manuscript reads Et videtur quod male. Quia, ut dicit Philosophus 5 *Ethicor*., virtuosus est diminutivus poenarum. Sed severitas dicit hujusmodi The Bruges manuscript omits *hujusmodi*. oppositum. Ergo non est pars virtutis.***
+Ulterius. Quidam dividunt justitiam in liberalitatem et severitatem: quam dividunt in benignitatem et beneficentiam: benignitatem vero in septem partes, scilicet religionem, pietatem, innocentiam, amicitiam, reverentiam, concordiam, The Bruges manuscript adds *et*. misericordiam. Et videtur quod non bene. The Bruges manuscript reads Et videtur quod male. Quia, ut dicit Philosophus 5 *Ethicor*., virtuosus est diminutivus poenarum. Sed severitas dicit hujusmodi The Bruges manuscript omits *hujusmodi*. oppositum. Ergo non est pars virtutis.  
 
 Praeterea, liberalitas dat alicui quod est proprium dantis. Sed justitia dat alteri quod suum est et ei debitum. Ergo liberalitas non est pars justitiae.  
 
@@ -1080,7 +1082,7 @@ Praeterea, misericordia est passio, ut dicit Philosophus in 2 *Eth.* Sed nulla p
 
 Quaestiuncula 5  
 
-***Ulterius. Philosophus in 5 *Ethic*., dividit justitiam in legalem et specialem, quae est aequalitas quaedam in bonis et malis exterioribus: quam dividit in distributivam et commutativam.PLE: *communicativam*. source The Piana and Antwerp editions read *communicativam*. Dividit etiam justum in politicum, paternum, et uxorium; politicum autem in legalem et naturalem. Ponit etiam circa justitiam, epieikiam The edited versions read *epiceiam* or *epiciam*. et justitiam metaphoricam. Et videtur quod male. Species enim non debet dividi contra genus. Sed justitia particularis est species justitiae legalis. Ergo non debet dividi contra eam.***
+Ulterius. Philosophus in 5 *Ethic*., dividit justitiam in legalem et specialem, quae est aequalitas quaedam in bonis et malis exterioribus: quam dividit in distributivam et commutativam.PLE: *communicativam*. source The Piana and Antwerp editions read *communicativam*. Dividit etiam justum in politicum, paternum, et uxorium; politicum autem in legalem et naturalem. Ponit etiam circa justitiam, epieikiam The edited versions read *epiceiam* or *epiciam*. et justitiam metaphoricam. Et videtur quod male. Species enim non debet dividi contra genus. Sed justitia particularis est species justitiae legalis. Ergo non debet dividi contra eam.  
 
 Praeterea, justitia dirigimur in his quae ad alterum sunt. Sed omnis operatio unius ad alterum commutatio The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *communicatio.* quaedam est.PLE: *communicatio*. Ergo justitia commutativaPLE: *communicativa*. The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *communicativa*. non debet poni pars justitiae specialis, sed idem ei.  
 
@@ -1092,7 +1094,7 @@ Praeterea, epieicia, ut ipse dicit, est aliquid melius justitia. Ergo magis debe
 
 Quaestiuncula 6  
 
-***Ulterius. Quidam philosophus Graecus dicit, quod familiares justitiae sunt liberalitas, benignitas, vindicativa, eugnomosine, eusebia, Eucharistia, sanctitas, bona commutatio, The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *communicatio*. legis positiva: et videtur quod male. Ipse enim The edited versions add *et*. dicit, quod eugnomosine est voluntaria justificatio. Sed hoc necessarium est in omni justitia, The Bruges manuscript adds *quod*; the Brussels and Paris (841) manuscripts reads *quia*. ut volens quis operetur, ut dicitur in 5 Ethic. Ergo non est pars justitiae, sed idem ipsi. The edited versions read *sibi*.***
+Ulterius. Quidam philosophus Graecus dicit, quod familiares justitiae sunt liberalitas, benignitas, vindicativa, eugnomosine, eusebia, Eucharistia, sanctitas, bona commutatio, The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *communicatio*. legis positiva: et videtur quod male. Ipse enim The edited versions add *et*. dicit, quod eugnomosine est voluntaria justificatio. Sed hoc necessarium est in omni justitia, The Bruges manuscript adds *quod*; the Brussels and Paris (841) manuscripts reads *quia*. ut volens quis operetur, ut dicitur in 5 Ethic. Ergo non est pars justitiae, sed idem ipsi. The edited versions read *sibi*.  
 
 Praeterea, ad Eucharistiam, secundum ipsum, pertinet quibus sit facienda gratia, et a quibus accipienda. Sed hoc videtur ad liberalitatem pertinere, cujus est gratis tribuere. Ergo non debet dividi contra liberalitatem.  
 
@@ -1102,7 +1104,7 @@ Praeterea, Philosophus ponit in 6 *Ethicor.*, legis positivam speciem politicae,
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem sciendum quod The Piana and Antwerp editions read *Resondeo dicendum ad primam quaestionem. Sciendum quod*; the Nicolaï, Venice (2nd ed.), and Parma editions read *Resondeo dicendum*, omitting *sciendum*. justitia in hoc differt a temperantia et fortitudine, quod illae moderant passiones intrinsecas, sed justitia moderat extrinsecas operationes: unde Philosophus dicit, circa operationes justitiam esse. In adulterio enim, secundum quod est contra justitiam, attenditur usus inordinatus, scilicet rei alienae; secundum autem quod opponitur temperantiae, attenditur concupiscentia non refrenata sub debito rationis.***
+Respondeo ad primam quaestionem sciendum quod The Piana and Antwerp editions read *Resondeo dicendum ad primam quaestionem. Sciendum quod*; the Nicolaï, Venice (2nd ed.), and Parma editions read *Resondeo dicendum*, omitting *sciendum*. justitia in hoc differt a temperantia et fortitudine, quod illae moderant passiones intrinsecas, sed justitia moderat extrinsecas operationes: unde Philosophus dicit, circa operationes justitiam esse. In adulterio enim, secundum quod est contra justitiam, attenditur usus inordinatus, scilicet rei alienae; secundum autem quod opponitur temperantiae, attenditur concupiscentia non refrenata sub debito rationis.  
 
 Moderatio autem actionum exteriorum ex duobus regulatur. Primo per comparationem operationis ad ipsum operantem; et sic est The edited versions add *et*. ejusdem rationis regulatio exteriorum operum The edited versions read *operationum*. et interiorum passionum, quae ad exteriores inclinant operationes. Alio modo per comparationem ad alium; et in hoc est jam alius modus regulandi: et ideo exigitur alia virtus; et hoc proprie ad justitiam pertinet; unde ab eodem actu, scilicet percussione alicujus, retrahit mansuetudo, scilicet The Bruges manuscript omits *scilicet*. secundum quod The Bruges manuscript adds *retrahit et*. procedit ex passione interiori, et justitia in ordine ad alium.  
 
@@ -1124,7 +1126,7 @@ Ad quartum dicendum, quod vindicare ex poenae desiderio, vitiosum est; sed ex so
 
 Solutio 2  
 
-***Ad secundam quaestionem de partibus quas ponit Macrobius, sciendum, quod una est pars subjectiva justitiae proprie dictae, scilicet innocentia, ut nullus alteri quod suum est auferat; et condividitur contra illam partem quae unicuique reddit quod debet. Aliae vero sunt partes potentiales, quarum duae The Vivès edition reads *quae*. sunt respectu superioris, scilicet religio et pietas, ut reddant debitum, sed non tantum. Aliae vero quatuor reddunt debitum ex honestate; et hoc vel aequali, et sic est amicitia, de qua Philosophus loquitur The edited versions omit *loquitur*. in 4 *Ethic.*, qua nostris operibus congruenter ad alios utimur; et concordia, qua The Piana edition adds *ex*. operibus The Bruges manuscript adds *congruenter*. aliorum auxilia praestamus: et The edited versions read *vel* against the Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, and 755) manuscripts. respectu inferiorum, quibus quantum ad effectum exterioremPLE: *effectum exteriorem*. The edited versions read *affectum* against the Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, and 755) manuscripts; the edited versions and the manuscripts read *interiorem*. impendimus ex debito honestatis humanitatem, et quantum ad interius The edited versions read *exterius* against the Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, and 755) manuscripts . affectum The Nicolaï edition reads *effectum*. subventionis.PLE: *interius*.***
+Ad secundam quaestionem de partibus quas ponit Macrobius, sciendum, quod una est pars subjectiva justitiae proprie dictae, scilicet innocentia, ut nullus alteri quod suum est auferat; et condividitur contra illam partem quae unicuique reddit quod debet. Aliae vero sunt partes potentiales, quarum duae The Vivès edition reads *quae*. sunt respectu superioris, scilicet religio et pietas, ut reddant debitum, sed non tantum. Aliae vero quatuor reddunt debitum ex honestate; et hoc vel aequali, et sic est amicitia, de qua Philosophus loquitur The edited versions omit *loquitur*. in 4 *Ethic.*, qua nostris operibus congruenter ad alios utimur; et concordia, qua The Piana edition adds *ex*. operibus The Bruges manuscript adds *congruenter*. aliorum auxilia praestamus: et The edited versions read *vel* against the Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, and 755) manuscripts. respectu inferiorum, quibus quantum ad effectum exterioremPLE: *effectum exteriorem*. The edited versions read *affectum* against the Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, and 755) manuscripts; the edited versions and the manuscripts read *interiorem*. impendimus ex debito honestatis humanitatem, et quantum ad interius The edited versions read *exterius* against the Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, and 755) manuscripts . affectum The Nicolaï edition reads *effectum*. subventionis.PLE: *interius*.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod innocentia hic sumitur stricte secundum quod privat nocumentum alteri illatum.  
 
@@ -1136,7 +1138,7 @@ Ad quartum dicendum, quod affectus hic sumitur stricte pro affectu subventionis 
 
 Solutio 3  
 
-***Ad tertiam quaestionem de partibus aliis sciendum est quod videntur esse subjectivae justitiae proprie dictae: quia ex obligatione legis tenetur homo ut superiori obediat, ut inferiori suae curae commisso disciplinam exhibeat, et ad aequales etiam, et ad omnes servet aequalitatem in rebus, fidem in factis, quae est idem quod observantia, et veritatem in dictis, si tamen veritas sumatur ea quae est in confessionibus judicii; alias si sumeretur sicut supra, esset The Bruges manuscript reads *dictum est*. pars potentialis justitiae.***
+Ad tertiam quaestionem de partibus aliis sciendum est quod videntur esse subjectivae justitiae proprie dictae: quia ex obligatione legis tenetur homo ut superiori obediat, ut inferiori suae curae commisso disciplinam exhibeat, et ad aequales etiam, et ad omnes servet aequalitatem in rebus, fidem in factis, quae est idem quod observantia, et veritatem in dictis, si tamen veritas sumatur ea quae est in confessionibus judicii; alias si sumeretur sicut supra, esset The Bruges manuscript reads *dictum est*. pars potentialis justitiae.  
 
 Ad primum ergo dicendum, quod obedientia, secundum quod attendit principaliter rationem praecepti, est specialis virtus; unde etiam obedit in illis quae ad alias virtutes non pertinent; sed secundum quod ex consequente respicit praeceptum et bonum virtutis principaliter in eo quod facit, sic est consequens ad omnem virtutem. The edited versions read *omnes virtutes*.  
 
@@ -1148,7 +1150,7 @@ Ad quartum dicendum, quod veritas hic sumitur secundum quod est in signo exterio
 
 Solutio 4  
 
-***Ad quartam quaestionem de aliis partibus a quibusdam aliis assignatis, sciendum est, quod in idem incidunt cum partibus prius tactis: quia severitas, secundum quod hic accipitur, idem est quod vindicatio; et dividitur contra omnes alias partes justitiae, quia ipsa sola malum reddit: liberalitas autem valde large sumitur pro qualibet boni exhibitione, vel debiti vel non debiti, vel in affectu vel in effectu; unde dividitur in beneficentiam et benevolentiam, et hic etiam largissime accipiuntur hujusmodi. Unde dividitur beneficentia in septem partes quae omnes comprehensae sunt in superioribus partibus: quia misericordia comprehenditur in affectu, reverentia vero, quae videtur idem quod dulia, comprehenditur sub religione, ut prius dictum est, et etiam sub pietate.***
+Ad quartam quaestionem de aliis partibus a quibusdam aliis assignatis, sciendum est, quod in idem incidunt cum partibus prius tactis: quia severitas, secundum quod hic accipitur, idem est quod vindicatio; et dividitur contra omnes alias partes justitiae, quia ipsa sola malum reddit: liberalitas autem valde large sumitur pro qualibet boni exhibitione, vel debiti vel non debiti, vel in affectu vel in effectu; unde dividitur in beneficentiam et benevolentiam, et hic etiam largissime accipiuntur hujusmodi. Unde dividitur beneficentia in septem partes quae omnes comprehensae sunt in superioribus partibus: quia misericordia comprehenditur in affectu, reverentia vero, quae videtur idem quod dulia, comprehenditur sub religione, ut prius dictum est, et etiam sub pietate.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum quod virtuosus diminuit poenam quam debet, The Bruges, Brussels, Paris (841 and 842), and Vatican (190 and 755) manuscripts as well as the Piana, Antwerp, and Vivès editions read *dicit* against the Vatican (111) manuscript as well as the Nicolaï, Venice (2nd ed.), and Parma editions. servata intentione legis, non tamen contra legem.  
 
@@ -1158,7 +1160,7 @@ Ad tertium dicendum quod aliquae passiones, quamvis non The edited versions read
 
 Solutio 5  
 
-***Ad quintam quaestionem de aliis partibus quas Philosophus ponit in 5 *Ethic*. dicendum, quod divisio Philosophi complectitur omnia ad quae vera justitiaPLE: *nomen iustitie se potest*. habet se extendere; et ideo ponit justitiam metaphoricam, in qua salvatur similitudo tantum justitiae, et legalem, quae ordinat ad alterum etiam circa illud The edited versions read *id*. quod non principaliter est virtus, si illud sit ordinatum a lege: et in idem reducitur epiceia quae differt a justitia legali in hoc quod servat intentionem legis in his ad quae forma legis se non extendit; et similiter dominativum, et paternum justum, in quibus redditur debitum, sed non tantum; et iterum distributiva, et commutativa,PLE: *communicativa*. The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *communicativa*. quae sunt partes subjectivae justitiae specialis. Legale autem et principalePLE: *naturale*. justum non dividunt The Bruges manuscript reads *dividens*. justitiam; sed illud ex quo est obligatio debiti et justitiae:PLE: *in iustitia*. quia vel est jus naturale, vel positivum.***
+Ad quintam quaestionem de aliis partibus quas Philosophus ponit in 5 *Ethic*. dicendum, quod divisio Philosophi complectitur omnia ad quae vera justitiaPLE: *nomen iustitie se potest*. habet se extendere; et ideo ponit justitiam metaphoricam, in qua salvatur similitudo tantum justitiae, et legalem, quae ordinat ad alterum etiam circa illud The edited versions read *id*. quod non principaliter est virtus, si illud sit ordinatum a lege: et in idem reducitur epiceia quae differt a justitia legali in hoc quod servat intentionem legis in his ad quae forma legis se non extendit; et similiter dominativum, et paternum justum, in quibus redditur debitum, sed non tantum; et iterum distributiva, et commutativa,PLE: *communicativa*. The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the Piana and Antwerp editions read *communicativa*. quae sunt partes subjectivae justitiae specialis. Legale autem et principalePLE: *naturale*. justum non dividunt The Bruges manuscript reads *dividens*. justitiam; sed illud ex quo est obligatio debiti et justitiae:PLE: *in iustitia*. quia vel est jus naturale, vel positivum.  
 
 Ad primum igitur The Brussels manuscript and the edited versions read *ergo*. dicendum, quod species potest dividi contra genus divisione quae est nominis aequivoci in sua significata. The Vivès edition reads *in suo significato*.  
 
@@ -1172,7 +1174,7 @@ Ad quintum dicendum, quod epieikia The other editions read *epieicia* or *epieia
 
 Solutio 6  
 
-***Ad sextam quaestionem de aliis partibus sciendum The Bruges manuscript reads *dicendum*. est, quod assignatio illius philosophi non differt a praedictis assignationibus nisi in duobus.***
+Ad sextam quaestionem de aliis partibus sciendum The Bruges manuscript reads *dicendum*. est, quod assignatio illius philosophi non differt a praedictis assignationibus nisi in duobus.  
 
 Primo, quia dividit religionem in eusebiam, quae ordinat ad Deum in cultu qui exhibetur in protestatione servitutis, sicut sacrificia, et hujusmodi; unde dicit quod est scientia Dei famulatus; et sanctitatem, quae ordinat ad Deum in omnibus aliis operibus vitae; unde dicit, quod sanctitas est scientia The Bruges manuscript omits *scientia*. faciens fideles et servantes quae ad Deum justa sunt.  
 
@@ -1192,6 +1194,6 @@ Ad quartum dicendum, quod politicaPLE: *secundum philosophum in ethicorum politi
 
 Expositio textus  
 
-****In quo habuerunt usus eosdem*. Virtutes enim quae consistunt circa passiones illatas, habuerunt eumdem usum in Christo quem in nobis propter passibilitatem corporis. Habuerunt etiam usum quem habent in patria propter perfectionem animae. Sed de virtutibus quae sunt circa passiones innatas secus est: quia istae passiones in Christo non fuerunt, ut necessarium esset eas per virtutem cohibere; unde etiam tentari potuit ab hoste; sed non a carne.***
+*In quo habuerunt usus eosdem*. Virtutes enim quae consistunt circa passiones illatas, habuerunt eumdem usum in Christo quem in nobis propter passibilitatem corporis. Habuerunt etiam usum quem habent in patria propter perfectionem animae. Sed de virtutibus quae sunt circa passiones innatas secus est: quia istae passiones in Christo non fuerunt, ut necessarium esset eas per virtutem cohibere; unde etiam tentari potuit ab hoste; sed non a carne.  
 
 *Sed alios usus habebunt*. Ergo sunt aliae virtutes: quia habitus distinguuntur per actus. Et dicendum, quod sicut motus ad terminum et quies in termino pertinent ad eamdem virtutem naturalem, ita quies in fine non requirit alium habitum quam motus tendens in finem ipsum. Et hoc modo diversificantur actus virtutum in via et in patria.

@@ -1,8 +1,10 @@
 # Prologue
 
+Praecurre prior in domum tuam, et illic advocare, et illic lude et age conceptiones tuas.  
+
 > Ecclesiastici XXXII.
 
-*****1**. Habet hoc privilegium sapientiae studium quod operi suo prosequendo magis ipsa sibi sufficiat. In exterioribus enim operibus indiget homo plurimorum auxilio, sed in contemplatione sapientiae tanto aliquis efficacius operatur quanto magis solitarius secum commoratur. Et ideo sapiens in verbis propositis hominem ad se ipsum revocat dicens: ***praecurre prior in domum tuam***, id est ad mentem tuam ab exterioribus sollicite redeas antequam ab alio occupetur per cuius sollicitudinem distrahatur; unde dicitur Sap. VIII: *intrans in domum meam conquiescam cum illa*, scilicet cum sapientia.***
+**1**. Habet hoc privilegium sapientiae studium quod operi suo prosequendo magis ipsa sibi sufficiat. In exterioribus enim operibus indiget homo plurimorum auxilio, sed in contemplatione sapientiae tanto aliquis efficacius operatur quanto magis solitarius secum commoratur. Et ideo sapiens in verbis propositis hominem ad se ipsum revocat dicens: ***praecurre prior in domum tuam***, id est ad mentem tuam ab exterioribus sollicite redeas antequam ab alio occupetur per cuius sollicitudinem distrahatur; unde dicitur Sap. VIII: *intrans in domum meam conquiescam cum illa*, scilicet cum sapientia.  
 
 **2**. Sicut autem requiritur ad contemplationem sapientiae quod mentem suam aliquis praeoccupet ut totam domum suam contemplatione sapientiae impleat, ita etiam requiritur quod ipse totus per intentionem interius adsit, ne scilicet eius intentio ad diversa trahatur, et ideo subdit: ***et illic advocare***, id est totam intentionem tuam ibi congrega. Sic igitur interiori domo totaliter vacuata et homine totaliter per intentionem in ea existente, quid agendum sit exponit, subdens: ***et illic lude***.  
 

@@ -1,8 +1,10 @@
 # D. 40 - How external acts are good or evil
 
+***Quomodo actus exteriores dicentur boni vel mali***
+
 ***Divisio textus***
 
-***In parte praecedenti determinavit de peccato, secundum quod in actu voluntatis consistit; in parte ista determinat de eo, secundum quod consistit in actu exteriori,***
+In parte praecedenti determinavit de peccato, secundum quod in actu voluntatis consistit; in parte ista determinat de eo, secundum quod consistit in actu exteriori,  
 
 et dividitur in partes duas:  
 
@@ -48,7 +50,7 @@ Articulus 1
 
 ***Utrum bonum et malum sint differentiae essentiales actionis***
 
-***Circa primum sic proceditur. Videtur quod bonum et malum non sunt essentiales differentiae actionis.***
+Circa primum sic proceditur. Videtur quod bonum et malum non sunt essentiales differentiae actionis.  
 
 Nulla enim essentialis differentia convenit secundum quid alicui, sed per se. Bonum autem et malum non conveniunt actioni secundum quod actio, sed secundum objectum et finem. Ergo bonum et malum non sunt essentiales differentiae actionis.  
 
@@ -82,7 +84,7 @@ Articulus 2
 
 ***Utrum actio sit simpliciter judicanda bona vel mala ex voluntate***
 
-***Ad secundum sic proceditur. Videtur quod simpliciter ex voluntate actio judicanda sit bona vel mala.***
+Ad secundum sic proceditur. Videtur quod simpliciter ex voluntate actio judicanda sit bona vel mala.  
 
 Matth. 7:18, dicitur: *non potest arbor mala fructus bonos facere, nec arbor bona fructus malos facere*. Sed voluntas bona bonae arbori comparatur, mala autem malae. Cum igitur fructus voluntatis sint exteriores actus, videtur quod ex bonitate et malitia voluntatis simpliciter exteriores actus dicendi sint boni vel mali.  
 
@@ -114,9 +116,9 @@ Ad quintum dicendum sicut ad secundum.
 
 Articulus 3  
 
-***Utrum actus exterior addat aliquid bonitatis vel malitiae super bonitatem vel malitiam voluntatis***
+Utrum actus exterior addat aliquid bonitatis vel malitiae super bonitatem vel malitiam voluntatis  
 
-***Ad tertium sic proceditur. Videtur quod actus exterior nihil de bonitate et malitia addat supra bonitatem vel malitiam voluntatis.***
+Ad tertium sic proceditur. Videtur quod actus exterior nihil de bonitate et malitia addat supra bonitatem vel malitiam voluntatis.  
 
 Primo per id quod dicitur super Matth. 12:5, in Glossa: *quantum intendis, tantum facis*. Si igitur duo sint, quorum uterque id bonum intendat, et unus exequatur, et alius non, videtur quod nihil de bonitate per actum exteriorem addatur.  
 
@@ -192,7 +194,7 @@ Articulus 5
 
 ***Utrum aliqua actio humana sit indifferens***
 
-***Ad quintum sic proceditur. Videtur quod aliqua actio indifferens inveniatur in actibus humanis.***
+Ad quintum sic proceditur. Videtur quod aliqua actio indifferens inveniatur in actibus humanis.  
 
 Nihil enim potest esse medium inter bonum et malum, nisi indifferens, quod neque bonum neque malum est. Sed bonum et malum sunt contraria mediata, ut in *Praedicamentis* dicitur. Ergo aliqua actio est indifferens.  
 
@@ -256,7 +258,7 @@ Ad octavum dicendum, quod verbum est immediatus effectus rationis; et ideo minus
 
 Expositio textus  
 
-****Effectus tuus nomen imponit operi tuo*. Si universaliter intelligitur, oportet exponi de affectu eligente, et non solum intendente, ut dictum est.***
+*Effectus tuus nomen imponit operi tuo*. Si universaliter intelligitur, oportet exponi de affectu eligente, et non solum intendente, ut dictum est.  
 
 *Ubi fides non erat*,Al.: *si Deus non erat*. *bonum opus non erat*, id est meritorium. De hoc tamen in sequenti distinctione quaeretur.  
 

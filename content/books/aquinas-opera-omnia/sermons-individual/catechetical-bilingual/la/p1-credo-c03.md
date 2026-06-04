@@ -1,6 +1,8 @@
 # A. 2 - And in Jesus Christ, His Only Son, Our Lord
 
-***Non solum est necesse Christianis unum Deum credere, et hunc esse creatorem caeli et terrae et omnium; sed etiam necesse est ut credant quod Deus est Pater, et quod Christus sit verus Filius Dei. Hoc autem, sicut dicit beatus Petrus in canonica sua II, cap. I, non est fabulosum, sed certum et probatum per verbum Dei in monte: unde dicit ibidem, XVI, 18: *non enim doctas fabulas secuti, notam facimus vobis Domini nostri Iesu Christi virtutem et praesentiam; sed speculatores facti illius magnitudinis. Accipiens enim a Deo Patre honorem et gloriam, voce delapsa ad eum huiuscemodi a magnifica gloria: hic est Filius meus dilectus, in quo mihi complacui: ipsum audite. Et hanc vocem nos audivimus de caelo allatam, cum essemus cum ipso in monte sancto*.***
+***Et in Iesum Christum, Filium eius unicum, Dominum nostrum***
+
+Non solum est necesse Christianis unum Deum credere, et hunc esse creatorem caeli et terrae et omnium; sed etiam necesse est ut credant quod Deus est Pater, et quod Christus sit verus Filius Dei. Hoc autem, sicut dicit beatus Petrus in canonica sua II, cap. I, non est fabulosum, sed certum et probatum per verbum Dei in monte: unde dicit ibidem, XVI, 18: *non enim doctas fabulas secuti, notam facimus vobis Domini nostri Iesu Christi virtutem et praesentiam; sed speculatores facti illius magnitudinis. Accipiens enim a Deo Patre honorem et gloriam, voce delapsa ad eum huiuscemodi a magnifica gloria: hic est Filius meus dilectus, in quo mihi complacui: ipsum audite. Et hanc vocem nos audivimus de caelo allatam, cum essemus cum ipso in monte sancto*.  
 
 Ipse etiam Christus Iesus in pluribus locis vocat Deum Patrem suum, et se dicit Filium Dei: et apostoli et sancti patres posuerunt inter articulos fidei quod Christus est Filius Dei, dicentes: ***et in Iesum Christum Filium eius***, scilicet Dei. Supple, credo.  
 

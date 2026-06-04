@@ -1,10 +1,12 @@
 # C. 4 - Exhortation to Holiness
 
+***Exhoratio ad Sanctitatem***
+
 ***Lectio 1***
 
 ***Omnis creatura bona***
 
-***^4:1^ Spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus erroris, et doctrinis daemoniorum, [n. 136]***
+^4:1^ Spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus erroris, et doctrinis daemoniorum, [n. 136]  
 
 > ^4:2^ in hypocrisi loquentium mendacium, et cauteriatam habentium suam conscientiam, [n. 140]
 
@@ -106,7 +108,7 @@ Lectio 2
 
 ***Exerce sanctitatem***
 
-***^4:6^ Haec proponens fratribus, bonus eris minister Christi Jesu enutritus verbis fidei, et bonae doctrinae, quam assecutus es. [n. 149]***
+^4:6^ Haec proponens fratribus, bonus eris minister Christi Jesu enutritus verbis fidei, et bonae doctrinae, quam assecutus es. [n. 149]  
 
 > ^4:7^ Ineptas autem, et aniles fabulas devita: exerce autem teipsum ad pietatem. [n. 152]
 

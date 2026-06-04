@@ -1,10 +1,12 @@
 # C. 5 - On Existing, In Which Also On Exemplars
 
+***De existente, in quo et de exemplaribus***
+
 ***Lectio 1***
 
-***Praemissis quibusdam necessariis ad propositam intentionem prosequitur de causalitate primi entis***
+Praemissis quibusdam necessariis ad propositam intentionem prosequitur de causalitate primi entis  
 
-***C. V, § 1. 257. Transeundum autem est nunc ad vere existentem vere existentis Dei theologicam laudationem. Tantum autem memorabimus quod sermonis intentio est non supersubstantialem substantiam, secundum quod supersubstantialis est, manifestare, ineffabile enim hoc et ignotum est et perfecte non manifestabile et ipsam excedens unitionem, sed substantificum thearchicae substantiae principatus processum ad omnia existentia laudare. Etenim boni Dei-nominatio, totos causae omnium processus manifestans et ad existentia et ad non existentia extenditur et super existentia et super non-existentia est; existentis autem ad omnia existentia extenditur et super existentia est; vitae autem ad omnia viventia extenditur et super viventia est; sapientiae vero ad omnia intellectualia et rationalia et sensibilia extenditur et super omnia ista est. Istas igitur providentiae maninifestativas Dei-nominationes sermo laudare desiderat, non enim promittit enarrare per se substantialem bonitatem et deitatem, et substantiam et vitam et sapientiam per se substantialis divinitatis quae est super omnem bonitatem et deitatem et substantiam et vitam et sapientiam in absconditis, sicut eloquia dicunt, supercollocatam; sed manifestatam bonitatem et excedenter beneficam providentiam et omnium bonorum causam laudat et existentem et vitam et sapientiam, quae facit substantiam et vivificat et est sapientia donatrix causa his quae substantia et vita et ratione et sensu participant.***
+C. V, § 1. 257. Transeundum autem est nunc ad vere existentem vere existentis Dei theologicam laudationem. Tantum autem memorabimus quod sermonis intentio est non supersubstantialem substantiam, secundum quod supersubstantialis est, manifestare, ineffabile enim hoc et ignotum est et perfecte non manifestabile et ipsam excedens unitionem, sed substantificum thearchicae substantiae principatus processum ad omnia existentia laudare. Etenim boni Dei-nominatio, totos causae omnium processus manifestans et ad existentia et ad non existentia extenditur et super existentia et super non-existentia est; existentis autem ad omnia existentia extenditur et super existentia est; vitae autem ad omnia viventia extenditur et super viventia est; sapientiae vero ad omnia intellectualia et rationalia et sensibilia extenditur et super omnia ista est. Istas igitur providentiae maninifestativas Dei-nominationes sermo laudare desiderat, non enim promittit enarrare per se substantialem bonitatem et deitatem, et substantiam et vitam et sapientiam per se substantialis divinitatis quae est super omnem bonitatem et deitatem et substantiam et vitam et sapientiam in absconditis, sicut eloquia dicunt, supercollocatam; sed manifestatam bonitatem et excedenter beneficam providentiam et omnium bonorum causam laudat et existentem et vitam et sapientiam, quae facit substantiam et vivificat et est sapientia donatrix causa his quae substantia et vita et ratione et sensu participant.  
 
 > 258. Non autem aliud esse bonum dicit et aliud existens et aliud vitam aut sapientiam neque multas causas et aliorum alias productivas deitates, excedentes et subiectas, sed unius esse omnes bonos processus et a nobis laudatas Dei-nominationes; et hanc quidem esse perfecte unius Dei providentiae manifestativam, quasdam autem universaliorum eiusdem et magis particularium.
 
@@ -222,9 +224,9 @@ Ultimo, ponit ea quae pertinent ad multitudinem; et dicit: ***omnis discretio***
 
 Lectio 2  
 
-***Quod Deus est causa omnium particularium entium secundum quod sunt in propriis naturis***
+Quod Deus est causa omnium particularium entium secundum quod sunt in propriis naturis  
 
-***§ 8. 275. Et ex eadem omnium causa sunt et intelligibiles et intellectuales deiformium angelorum substantiae et animarum et omnis mundi naturae et quocumque modo aliis inesse aut secundum cogitationem esse dicta.***
+§ 8. 275. Et ex eadem omnium causa sunt et intelligibiles et intellectuales deiformium angelorum substantiae et animarum et omnis mundi naturae et quocumque modo aliis inesse aut secundum cogitationem esse dicta.  
 
 > 276. Et quidem, sanctissimae et provectissimae virtutes existentes et sicut in vestibulis supersubstantialis Trinitatis collocatae, ab ipsa et in ipsa et esse et deiformiter esse habent; et post illas, subiecte et extreme sicut ad angelos, sicut ad nos autem supermundane.
 
@@ -324,7 +326,7 @@ Lectio 3
 
 ***De exemplaribus***
 
-***282. Exemplaria autem esse dicimus in Deo existentium rationes substantificas, et singulariter praeexistentes, quas Theologia praediffinitiones vocat et divinas et bonas voluntates, existentium praedeterminativas et effectivas, secundum quas substantialis essentia omnia praediffinivit et produxit.***
+282. Exemplaria autem esse dicimus in Deo existentium rationes substantificas, et singulariter praeexistentes, quas Theologia praediffinitiones vocat et divinas et bonas voluntates, existentium praedeterminativas et effectivas, secundum quas substantialis essentia omnia praediffinivit et produxit.  
 
 > § 9. 283. Si autem philosophus Clemens probat et ad aliquid exemplaria dici in existentibus principaliora, procedit quidem non per propria et perfecta et simplicia nomina, sermo ille. Concedentibus autem et hoc recte dici, memoranda est theologia, dicens quod *non demonstrabo tibi illa ut eas post illa, sed ut per istorum proportionalem cognitionem, ad omnium causam, sicut possumus, sursum agamur*.
 

@@ -1,6 +1,8 @@
 # D. 35 - On fornication
 
-***After he has considered inability to have intercourse, which impedes the marital act, here he considers separation from the marriage bed because of the sin of fornication, which similarly takes away the marital act although the marriage bond endures. And this is divided into two parts: in the first, he shows how adultery following marriage removes the marital act although the marriage bond endures; in the second part, he shows how adultery preceding the marriage also removes the marriage bond, at: *it is also usual to ask whether a woman who has previously been polluted by adultery can then be taken in marriage*.*Sententiae* IV, 35.4 (207). 1.***
+***On fornication***
+
+After he has considered inability to have intercourse, which impedes the marital act, here he considers separation from the marriage bed because of the sin of fornication, which similarly takes away the marital act although the marriage bond endures. And this is divided into two parts: in the first, he shows how adultery following marriage removes the marital act although the marriage bond endures; in the second part, he shows how adultery preceding the marriage also removes the marriage bond, at: *it is also usual to ask whether a woman who has previously been polluted by adultery can then be taken in marriage*.*Sententiae* IV, 35.4 (207). 1.  
 
 The first has two parts: in the first part, he shows when it is permitted to put away one’s wife because of fornication; in the second part, he asks whether to put her away is necessary or whether one may also keep her, where he states: *but John Chrysostom says*, etc.*Sent*. IV, 35.3 (206). 5.  
 
@@ -22,10 +24,9 @@ first, whether it is permitted for the husband to send away his wife because of 
 - fifth, whether after this separation they must remain unmarried;
 - sixth, concerning reconciliation.
 - Article 1
+Whether it is permitted for the husband to send away his wife because of fornication  
 
-***Whether it is permitted for the husband to send away his wife because of fornication***
-
-***Obj. 1: To the first question, we proceed thus.Parallels: *Super Matt.* 19; *Super I Cor.* 7, lec. 2. It seems that it is not permitted for a husband to send his wife away because of fornication. For evil is not to be rendered for evil. But a man sending away his wife because of fornication seems to render evil for evil. Therefore, this is not permitted.***
+Obj. 1: To the first question, we proceed thus.Parallels: *Super Matt.* 19; *Super I Cor.* 7, lec. 2. It seems that it is not permitted for a husband to send his wife away because of fornication. For evil is not to be rendered for evil. But a man sending away his wife because of fornication seems to render evil for evil. Therefore, this is not permitted.  
 
 Obj. 2: Furthermore, it is a greater sin if both should fornicate than if only one should. But if both should fornicate, they will not be able to be separated on this account.See Gregory IX, *Decretals*, Bk. 4, tit. 19, ch. 4, “Significasti”; Gratian, *Decretals*, pt. 2, cause 32, q. 6. Therefore, neither should they if only one of them fornicates.  
 
@@ -51,7 +52,7 @@ Article 2
 
 ***Whether he is bound to do this***
 
-***Obj. 1: To the second question, we proceed thus.Parallel: below, d. 39, a. 3. It seems that a man is bound by precept to send away a wife who fornicates. For the man, since he is the head of his wife, is bound to correct his wife. But separation from the bed is introduced for the sake of correcting a fornicating wife. Therefore, he is bound to separate her from himself.***
+Obj. 1: To the second question, we proceed thus.Parallel: below, d. 39, a. 3. It seems that a man is bound by precept to send away a wife who fornicates. For the man, since he is the head of his wife, is bound to correct his wife. But separation from the bed is introduced for the sake of correcting a fornicating wife. Therefore, he is bound to separate her from himself.  
 
 Obj. 2: Furthermore, whoever consents to someone sinning mortally, mortally sins himself. But someone who retains a fornicating wife seems to consent to her, as it says in the text. Therefore, he sins unless he casts her away from himself.  
 
@@ -79,9 +80,9 @@ Reply Obj. 6: The wife does not only sin against her husband, but against hersel
 
 Article 3  
 
-***Whether he may send her away by his own judgment or whether the judgment of the Church is required***
+Whether he may send her away by his own judgment or whether the judgment of the Church is required  
 
-***Obj. 1: To the third question, we proceed thus. It seems that a man can dismiss his fornicating wife by his own judgment. For an automatic sentence (*latae sententiae*) from the court may be carried out without a trial. But God, the just judge, gave this sentence, that because of fornication a man may dismiss his wife.See Matthew 5:32, 19:9. Therefore, another judgment is not required for this.***
+Obj. 1: To the third question, we proceed thus. It seems that a man can dismiss his fornicating wife by his own judgment. For an automatic sentence (*latae sententiae*) from the court may be carried out without a trial. But God, the just judge, gave this sentence, that because of fornication a man may dismiss his wife.See Matthew 5:32, 19:9. Therefore, another judgment is not required for this.  
 
 Obj. 2: Furthermore, in Matthew 1:19, it says that Joseph, since he was a just man, thought about sending Mary away secretly. Therefore, it seems that a man may seek a separation secretly without the judgment of the Church.  
 
@@ -115,7 +116,7 @@ Article 4
 
 ***Whether husband and wife are of equal condition in this matter***
 
-***Obj. 1: To the fourth question, we proceed thus. It seems that a husband and wife should not be judged equals in the matter of separation. For separation is conceded in the New Law in place of divorce, which existed under the Old Law, as is evident from Matthew 5:31–32. But in divorce the husband and wife were not judged equals: for the man could divorce his wife,See Deuteronomy 24:1. but not the reverse. Therefore, neither should they be judged equals in separation.***
+Obj. 1: To the fourth question, we proceed thus. It seems that a husband and wife should not be judged equals in the matter of separation. For separation is conceded in the New Law in place of divorce, which existed under the Old Law, as is evident from Matthew 5:31–32. But in divorce the husband and wife were not judged equals: for the man could divorce his wife,See Deuteronomy 24:1. but not the reverse. Therefore, neither should they be judged equals in separation.  
 
 Obj. 2: Furthermore, it is more against the law of nature that a wife should have several husbands than that a man should have several wives: for the latter was allowed at certain times,See Deuteronomy 21:15. but the former never at all, as was said in Distinction 33, Question 1, Article 1, response to the seventh objection. Therefore, the wife sins more in adultery than the husband, and so they should not be judged equals.  
 
@@ -143,7 +144,7 @@ Article 5
 
 ***Whether after this separation they must remain unmarried***
 
-***Obj. 1: To the fifth question, we proceed thus.Parallels: *Super Matt.* 19; *Super I Cor.* 7, lec. 2 & 3. It seems that after a separation a man may marry another. For no one is bound to perpetual continence. But the man in some cases is bound to separate himself from a fornicating wife, as is clear from what has been said. Therefore, it seems that at least in such a case he may marry another.***
+Obj. 1: To the fifth question, we proceed thus.Parallels: *Super Matt.* 19; *Super I Cor.* 7, lec. 2 & 3. It seems that after a separation a man may marry another. For no one is bound to perpetual continence. But the man in some cases is bound to separate himself from a fornicating wife, as is clear from what has been said. Therefore, it seems that at least in such a case he may marry another.  
 
 Obj. 2: Furthermore, a sinner must not be given a greater occasion of sinning. But if someone who has been sent away because of the fault of fornication is not allowed to seek another union, a greater occasion of sinning is given to that person. For it is not probable that someone who could not be continent in marriage will be able to be continent afterward. Therefore, it seems that he or she should be allowed to pass to another union.  
 
@@ -169,7 +170,7 @@ Article 6
 
 ***Whether after a separation, the husband and wife may be reconciled***
 
-***Obj. 1: To the sixth question, we proceed thus. It seems that after a separation, the husband and wife may not be reconciled. For this is the rule in the law: *what has once been well determined should not be retracted by any appeal*.See Gratian, *Decretals*, pt. 2, cause 6, q. 4, can. 6; *Digests*, Bk. 50, tit. 9, leg. 5, ‘Quod semel’. But it has been determined by the judgment of the Church that they should be separated. Therefore, they cannot be reconciled afterward.***
+Obj. 1: To the sixth question, we proceed thus. It seems that after a separation, the husband and wife may not be reconciled. For this is the rule in the law: *what has once been well determined should not be retracted by any appeal*.See Gratian, *Decretals*, pt. 2, cause 6, q. 4, can. 6; *Digests*, Bk. 50, tit. 9, leg. 5, ‘Quod semel’. But it has been determined by the judgment of the Church that they should be separated. Therefore, they cannot be reconciled afterward.  
 
 Obj. 2: Furthermore, if a reconciliation were possible, it seems particularly that after the repentance of the wife the man would be bound to take her back. But he is not bound to do this, for even in the trial a wife cannot cite her own repentance as a defense against a husband accusing her of fornication.See Gratian, *Decretals*, pt 2, cause 33, q. 2, can. 8. Therefore, in no way can they be reconciled.  
 
@@ -197,6 +198,6 @@ Reply Obj. 5: If the adultery of the husband is hidden, it does not remove the a
 
 Exposition of the Text  
 
-****“He is a fosterer of turpitude, who hides his wife’s crime*.”*Sententiae* IV, 35.3 (206). 5, Pseudo-Chrysostom, *In Matthaeum opus imperfectum*, hom.32. Against this, Proverbs 11:13: *Faithful is the one who conceals the crime of his friend*. And it must be said that this is to be understood when the concealment is not in prejudice of correction; otherwise, the one who conceals offers his protection to the disgrace.***
+*“He is a fosterer of turpitude, who hides his wife’s crime*.”*Sententiae* IV, 35.3 (206). 5, Pseudo-Chrysostom, *In Matthaeum opus imperfectum*, hom.32. Against this, Proverbs 11:13: *Faithful is the one who conceals the crime of his friend*. And it must be said that this is to be understood when the concealment is not in prejudice of correction; otherwise, the one who conceals offers his protection to the disgrace.  
 
 *It is also usual to ask whether a woman who has previously been polluted by adultery can then be taken in marriage*.*Sent*. IV, 35.4 (207). 1. It should be known that there are many offences which because of their enormity prevent marriage from being contracted. The first is incest; the second, wife-murder; the third, kidnapping someone else’s bride; fourth, when someone conspires to receive his own godchild in marriage; fifth, killing a priest; sixth, when someone is completing solemn repentance. But the crimes mentioned do not invalidate a marriage that has been contracted. Yet there are certain crimes which void a marriage that has been contracted. One of these is when someone lies with a married woman, and because of this plots the death of her husband and brings it about. For in this instance the two should not contract with each other; and if they have contracted, they are separated. The second is when someone keeps his word to his partner in adultery that he will take her as his wife. But this is to be understood when the adulterous man as well as the adulterous woman knew the impediment; otherwise the marriage is not voided after it was contracted. The third is when someone has already contracted with a woman *de facto*, for the first marriage prevents the second one from being valid; and then, if the first was not a valid marriage, the second would stand. For it must be known that in the second and third cases, that is, when a promise is given that a marriage will be contracted, and when a marriage has been contracted *de facto* by words of the present, unless carnal defilement took place, a subsequent marriage newly contracted after the husband’s death is not voided on this account.

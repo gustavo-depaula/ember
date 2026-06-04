@@ -1,5 +1,8 @@
 # Terce
 
+***[℣. O God, come to my assistance;***
+***℟. O Lord, make haste to help me.***
+
 Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
 As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
@@ -10,7 +13,7 @@ Sung to *Pauper esca* from the feast of St. Dominic.
 
 ***Psalm 118 (119):33–48, 49–64, 65–80***
 
-***[Psalm 118 (119):33–48—*He*] Set before me for a law the way of your justifications, O Lord: * and I will always seek after it.***
+[Psalm 118 (119):33–48—*He*] Set before me for a law the way of your justifications, O Lord: * and I will always seek after it.  
 
 > Give me understanding, and I will search your law; * and I will keep it with my whole heart.
 
@@ -122,7 +125,7 @@ Sung to *Pauper esca* from the feast of St. Dominic.
 
 ***1 Corinthians 11:23–24***
 
-***The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you.***
+The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you.  
 
 > [℟. Thanks be to God.]
 

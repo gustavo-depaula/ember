@@ -1,5 +1,7 @@
 # Proposition 13
 
+***109. Every intelligence knows its own essence.***
+
 > 110. This is because that which knows and that which is known exist at the same time, Thus, since intelligence is knowing and known, then doubtless it sees its own essence.
 
 > 111. And, when it sees its essence, it knows that it knows its essence through its intelligence.

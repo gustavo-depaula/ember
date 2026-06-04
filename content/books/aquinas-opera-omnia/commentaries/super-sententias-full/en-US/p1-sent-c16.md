@@ -1,8 +1,10 @@
 # D. 15 - Sending of the Holy Spirit
 
+***Sending of the Holy Spirit***
+
 ***Division of the first part of the text***
 
-***Having shown that the Holy Spirit proceeds temporally and is given by the Father and the Son, here he inquires whether he is also given or sent by his very self.The preposition *ab*, which is here (and in most instances) translated as “by,” might also be translated as “from.” “By” suggests an agent, whereas “from” suggests a location or point of origin (not necessarily an agent) and a departure from that origin. Because of the ambiguity of the Latin word, on occasion “from” is preferred to fit the sense better; see, for example, a. 1, obj. 2. And this is divided into two parts: in the first he shows that the Holy Spirit is given and sent by his very self; in the second, he brings in a likeness with the sending of the Son, at *but do not find it strange that the Holy Spirit is said to be sent or proceed from himself*.*Sent*. I, 15.1(48).4.***
+Having shown that the Holy Spirit proceeds temporally and is given by the Father and the Son, here he inquires whether he is also given or sent by his very self.The preposition *ab*, which is here (and in most instances) translated as “by,” might also be translated as “from.” “By” suggests an agent, whereas “from” suggests a location or point of origin (not necessarily an agent) and a departure from that origin. Because of the ambiguity of the Latin word, on occasion “from” is preferred to fit the sense better; see, for example, a. 1, obj. 2. And this is divided into two parts: in the first he shows that the Holy Spirit is given and sent by his very self; in the second, he brings in a likeness with the sending of the Son, at *but do not find it strange that the Holy Spirit is said to be sent or proceed from himself*.*Sent*. I, 15.1(48).4.  
 
 However, in the first part, he shows in two ways that the Holy Spirit is given by himself, based on the authority of Augustine, and through two arguments. One of these is that whatever the Father and the Son are capable of, the Holy Spirit is capable of. But the Father and the Son can give the Holy Spirit. Therefore and so on. The other argument is that whatever the Father and the Son bring about, the Holy Spirit brings about, and so on like before. And these arguments have their efficacy on account of the effect connotated in the sending and giving of the Holy Spirit on the side of the creature. For action and power, relative to the creature, is common to all three persons.  
 
@@ -40,7 +42,7 @@ Article 1
 
 ***Whether sending befits the divine persons***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.43.1; *SCG* IV.23; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 14. It seems that sending*Missio* is usually translated by its cognate, “mission.” While this is helpful and resonant with contemporary uses of the word, “sending” is a more literal translation and fits better with its parallel “giving” (*datio*). does not befit the divine persons.***
+To the first we proceed as follows.Parallel texts: *ST* I.43.1; *SCG* IV.23; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 14. It seems that sending*Missio* is usually translated by its cognate, “mission.” While this is helpful and resonant with contemporary uses of the word, “sending” is a more literal translation and fits better with its parallel “giving” (*datio*). does not befit the divine persons.  
 
 Obj. 1: For sending appears to signify a certain change of place, insofar as we speak of messengers being sent to some place. But no change of place befits the divine persons, who are everywhere. Therefore neither does sending.  
 
@@ -96,7 +98,7 @@ Question 2
 
 ***Whether being sent belongs to all the persons***
 
-***Next, it is asked to whom “being sent” belongs. And it seems like it belongs to the entire Trinity.***
+Next, it is asked to whom “being sent” belongs. And it seems like it belongs to the entire Trinity.  
 
 Obj. 1: For, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 1, ch. 2 (PG 94:791). in the divine all things are one, outside of non-generation, generation, and procession. But sending is not one of these. Therefore it seems like it belongs to the entire Trinity.  
 
@@ -128,7 +130,7 @@ Question 3
 
 ***The one sending***
 
-***Next, one asks about the sending in its relation to the one sending him. And about this two things are asked:***
+Next, one asks about the sending in its relation to the one sending him. And about this two things are asked:  
 
 first, whether it befits any person that he send himself, or proceed from himself, or give himself;  
 
@@ -138,7 +140,7 @@ Article 1
 
 ***Whether a person sends or gives himself***
 
-***To the first we proceed as follows. It seems that no person gives himself or sends himself.***
+To the first we proceed as follows. It seems that no person gives himself or sends himself.  
 
 Obj. 1: For the one giving always seems to have authority over what is given. But no person has authority over his very self. Therefore it seems that no person gives himself.  
 
@@ -186,7 +188,7 @@ Article 2
 
 ***Whether the Holy Spirit sends or gives the Son***
 
-***To the second we proceed as follows. It seems that the Holy Spirit does not give or send the Son.***
+To the second we proceed as follows. It seems that the Holy Spirit does not give or send the Son.  
 
 Obj. 1: For Augustine saysAugustine, *On the Trinity*, bk. 2, ch. 5 (CCSL 50A; PL 42:849). that the Son’s going forth from the Father and coming into the world is the Son’s being sent by the Father. But the Son does not go forth from the Holy Spirit. Therefore he is not sent by him.  
 
@@ -208,13 +210,13 @@ Reply Obj. 2: The Son cannot send the Father, because the Father cannot be sent,
 
 Exposition of the first part of the text  
 
-****For if the Holy Spirit cannot give himself, and the Father and the Son can give him, then the Father and Son can do something which the Holy Spirit cannot do*.*Sent*. I, 15.1(48).3. Here the Master presents two arguments to show that the Holy Spirit gives himself: the first is drawn from the side of the power, the second from the side of the action—each of which is common to the three persons. But it seems that they are not valid, since we say that the Father can generate and does generate the Son, but the Son cannot and does not generate. Yet neither does any division of power or action follow, and it seems the same in the proposed matter.***
+*For if the Holy Spirit cannot give himself, and the Father and the Son can give him, then the Father and Son can do something which the Holy Spirit cannot do*.*Sent*. I, 15.1(48).3. Here the Master presents two arguments to show that the Holy Spirit gives himself: the first is drawn from the side of the power, the second from the side of the action—each of which is common to the three persons. But it seems that they are not valid, since we say that the Father can generate and does generate the Son, but the Son cannot and does not generate. Yet neither does any division of power or action follow, and it seems the same in the proposed matter.  
 
 But to this, one should say that, if to give and proceed temporally were only in reference to the relation of origin, the arguments would not be valid, just as they would not be as regards generation. But because this includes also efficient causality relative to certain effects in the creature, which effects are commonly from the entire Trinity, therefore the arguments conclude with necessity.  
 
 Division of the second part of the text  
 
-****Here it is asked whether the Son was sent only once, or is he sent often*.*Sent*. I, 15.6(53).1. Here he considers the sending of the Son in its specific modes. And it is divided into two parts: in the first, he determines the truth; in the second, he removes an objection, at *here it is asked why the Father is not said to be sent like the Son, when he is known by someone in time*.*Sent*. I, 15.9(56).1.***
+*Here it is asked whether the Son was sent only once, or is he sent often*.*Sent*. I, 15.6(53).1. Here he considers the sending of the Son in its specific modes. And it is divided into two parts: in the first, he determines the truth; in the second, he removes an objection, at *here it is asked why the Father is not said to be sent like the Son, when he is known by someone in time*.*Sent*. I, 15.9(56).1.  
 
 The first is divided into two: in the first, he distinguishes two modes of the Son’s sending; in the second, he designates their difference, at *note that two ways of the Son’s being sent have been distinguished*.*Sent*. I, 15.8(53).1.  
 
@@ -246,7 +248,7 @@ Article 1
 
 ***Whether the Son is sent invisibly into the mind***
 
-***To the first we proceed as follows. It seems that the Son is not invisibly sent into our minds.***
+To the first we proceed as follows. It seems that the Son is not invisibly sent into our minds.  
 
 Obj. 1: For the sending of a divine person requires that the very person coming forth be known—and especially in the sending of wisdom, at whose possession no one is ignorant. But with the coming of the Son his coming was not known: *if he were to come to me, I will not understand; I will not see him, if he were to leave* (Job 9:11).RSV: *lo, he passes by me, and I see him not; he moves on, but I do not perceive him*. Therefore it seems that the Son is not sent into the mind.  
 
@@ -276,7 +278,7 @@ Article 2
 
 ***Whether the sending of the Son is distinct from the sending of the Holy Spirit***
 
-***To the second we proceed as follows. It seems that the sending of the Son is distinct from the sending of Holy Spirit.***
+To the second we proceed as follows. It seems that the sending of the Son is distinct from the sending of Holy Spirit.  
 
 Obj. 1: For the sending is the temporal procession, as the Master said above.*Sent*. I, 14.1(45).2. But the account of the Son’s procession is different from the account of the Holy Spirit’s procession, since the Holy Spirit proceeds as love, and the Son as a word. Therefore the account of their sending is also different.  
 
@@ -332,7 +334,7 @@ Question 5
 
 ***The sending of the Son in relation to those to whom he is sent***
 
-***Next, one asks about the sending of the Son in relation to those to whom he is sent. And three things are asked about this:***
+Next, one asks about the sending of the Son in relation to those to whom he is sent. And three things are asked about this:  
 
 first, to whom is the Son or the Holy Spirit sent;  
 
@@ -342,11 +344,11 @@ third, about the effect of an invisible sending, whether it makes those to whom 
 
 Article 1  
 
-***Whether the sending is to non-rational created things; whether the Son or the Holy Spirit is said to be sent by reason of growth in grace; whether a sending of the Holy Spirit to the angels and the other blessed occurs; whether a sending to Christ can occur***
+Whether the sending is to non-rational created things; whether the Son or the Holy Spirit is said to be sent by reason of growth in grace; whether a sending of the Holy Spirit to the angels and the other blessed occurs; whether a sending to Christ can occur  
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows. It seems that his sending is even to non-rational created things.***
+To the first we proceed as follows. It seems that his sending is even to non-rational created things.  
 
 Obj. 1: For the sending is for the sake of sanctifying what is created, as was said.Above, d. 14, q. 2, a. 2. But some non-rational created things are said to be sanctified, like a temple and a vessel. Therefore the sending is also to them.  
 
@@ -358,7 +360,7 @@ On the contrary (4), the sending of the divine person is only with respect to gr
 
 Quaestiuncula 2  
 
-***Moreover, one asks whether the Son or the Holy Spirit is said to be sent to all the holy by reason of their growth in grace. And it seems not to be so.***
+Moreover, one asks whether the Son or the Holy Spirit is said to be sent to all the holy by reason of their growth in grace. And it seems not to be so.  
 
 Obj. 1: For “sending” indicates a new mode of the divine person’s existence in the creature. But God is not said to be in the holy through their growth in grace in a different way than before. Therefore the sending of a divine person does not happen to them.  
 
@@ -368,7 +370,7 @@ On the contrary, the Holy Spirit was sent to the apostles at Pentecost in a visi
 
 Quaestiuncula 3  
 
-***Moreover, one asks whether a sending of the Holy Spirit to the angels and the other blessed occurs. It seems not.***
+Moreover, one asks whether a sending of the Holy Spirit to the angels and the other blessed occurs. It seems not.  
 
 Obj. 1: For sending is always with respect to some effect of grace in him to whom it is sent. But in the angels and the blessed who have reached the end of life no new grace is given, nor is it increased. Therefore no sending to them occurs.  
 
@@ -378,7 +380,7 @@ On the contrary, it is said to be so in the text.*Sent*. I, 15.8(55).1.
 
 Quaestiuncula 4  
 
-***Moreover, one asks whether a sending to Christ insofar as he is a man can occur. And it seems not.***
+Moreover, one asks whether a sending to Christ insofar as he is a man can occur. And it seems not.  
 
 Obj. 1: For sending is always to what is distant. But the human nature in Christ was never distant from the divine; indeed, from the beginning of his conception he was joined to it through union and the fullness of every grace. Therefore it seems that no sending to him occurs.  
 
@@ -390,7 +392,7 @@ Furthermore (4), the visible sending is the sign of the invisible. But a visible
 
 Response to Quaestiuncula 1  
 
-***I answer that, since the sending of a divine person is only in the gifts of grace that render one favored, to them alone does the sending occur on whom these gifts can be bestowed. And therefore we concede that the sending can be made to all rational creatures, unless they are depraved through obstinacy in evil, like the demons and the damned, and not to irrational creatures.***
+I answer that, since the sending of a divine person is only in the gifts of grace that render one favored, to them alone does the sending occur on whom these gifts can be bestowed. And therefore we concede that the sending can be made to all rational creatures, unless they are depraved through obstinacy in evil, like the demons and the damned, and not to irrational creatures.  
 
 Reply Obj. 1: “To be sanctified” is said in three ways: in one way, according to how the pure is called “holy,” insofar as sanctification is spoken of as a purification from sin through grace; in another way, according to how the firm is called “holy,” insofar as sanctification is spoken of as the confirmation in the good through the gift of grace or glory. And in these two ways sanctification occurs only in a rational creature, and the sending occurs only to them. In a third way, “sanctification” is said according to how something is accommodated to use in divine worship, which latter deserves every purity. And in this way a temple and a vessel are said to be “sanctified.”  
 
@@ -402,7 +404,7 @@ Reply Sed Contra 4: We concede the fourth argument.
 
 Response to Quaestiuncula 2  
 
-***I say to the second question that the Son and the Holy Spirit are said to have been sent to the holy in reference to their growing in grace. But growth in grace can occur in two ways: either according to an intensification of only the same virtue, and by reason of this growth no new sending is spoken of; or insofar as through the growth in grace it perfects one in a new use or new act of grace, and with respect to this the Holy Spirit and the Son are said to have been sent with a new sending. For example, that knowledge that is had of God such that love proceeds from it suffices for the account of the sending of the Son. However, when that knowledge is elevated, through an inspiration, such that one knows even the divine mysteries, then he is said to be given in the gift of prophesy. And it is similar with the Holy Spirit, since any love of charity whatsoever suffices for the sending of the Holy Spirit. But when the power of love grows, such that by reason of the love some other use of grace is conferred on one, such as to perform miracles, or to conquer every temptation without difficulty, or something like this, then there is said to be a new sending of the Spirit. Nevertheless, some say that in every growth of the grace rendering one favored there is a sending of the divine person, which can also be easily sustained.***
+I say to the second question that the Son and the Holy Spirit are said to have been sent to the holy in reference to their growing in grace. But growth in grace can occur in two ways: either according to an intensification of only the same virtue, and by reason of this growth no new sending is spoken of; or insofar as through the growth in grace it perfects one in a new use or new act of grace, and with respect to this the Holy Spirit and the Son are said to have been sent with a new sending. For example, that knowledge that is had of God such that love proceeds from it suffices for the account of the sending of the Son. However, when that knowledge is elevated, through an inspiration, such that one knows even the divine mysteries, then he is said to be given in the gift of prophesy. And it is similar with the Holy Spirit, since any love of charity whatsoever suffices for the sending of the Holy Spirit. But when the power of love grows, such that by reason of the love some other use of grace is conferred on one, such as to perform miracles, or to conquer every temptation without difficulty, or something like this, then there is said to be a new sending of the Spirit. Nevertheless, some say that in every growth of the grace rendering one favored there is a sending of the divine person, which can also be easily sustained.  
 
 Reply Obj. 1: Although it is not a different mode than receiving the general modes, still it is according to a specific mode, insofar as it, according to a specific use of grace, makes him to whom the sending occurs like the divine person. Or he is even in him in a fuller mode, and this suffices for a sending, according to the second opinion.The two opinions seem to be those enumerated in q. 1, a. 2.  
 
@@ -410,7 +412,7 @@ Reply Obj. 2: To call back those who stray is incidental to sending, from the si
 
 Response to Quaestiuncula 3  
 
-***To what is asked about the angels and the blessed, I say that the vision that is essential to beatitude, and charity, and things of this sort that pertain to the substantial reward, do not grow in those who have already been made blessed. But this does not prevent certain new revelations being brought about in them, since however much their knowledge is perfected, it is infinitely exceeded by God’s knowledge. And according to those new revelations they rise up to the love of God, not such that they would love him more, but such that their love is directed to God under another account.***
+To what is asked about the angels and the blessed, I say that the vision that is essential to beatitude, and charity, and things of this sort that pertain to the substantial reward, do not grow in those who have already been made blessed. But this does not prevent certain new revelations being brought about in them, since however much their knowledge is perfected, it is infinitely exceeded by God’s knowledge. And according to those new revelations they rise up to the love of God, not such that they would love him more, but such that their love is directed to God under another account.  
 
 Reply Obj. 1: The sending of the Son and the Holy Spirit is made to the angels in the very bestowal of grace or glory. Moreover, the sending of the Son and the Holy Spirit is also made to them after they are made blessed, according to new revelations and new ways of loving. And this makes the response to the first objection clear, for although the sending is not made to them according to grace intensively, yet it is made to them insofar as in a certain way their grace increases extensively, toward more things, based on those new revelations.  
 
@@ -418,7 +420,7 @@ Reply Obj. 2: In the same sending the messenger and the one to whom the sending 
 
 Response to Quaestiuncula 4  
 
-***To what is asked about Christ, I say that there is no doubt that the Son of God was sent to the human nature in Christ with the visible sending that is the sending into flesh. But there is a doubt about whether either person is sent to Christ insofar as he is a man—the Son invisibly, or the Holy Spirit visibly or invisibly.***
+To what is asked about Christ, I say that there is no doubt that the Son of God was sent to the human nature in Christ with the visible sending that is the sending into flesh. But there is a doubt about whether either person is sent to Christ insofar as he is a man—the Son invisibly, or the Holy Spirit visibly or invisibly.  
 
 For some say that no invisible sending happened to him. The reason they assign is that Christ, from the beginning of his conception, was full of every grace, so the grace in him was in no way increased. And therefore neither by reason of the bestowal of grace nor by reason of its growth could the invisible sending happen to him. But the visible sending of the Holy Spirit did happen to him to manifest his interior grace, and not to manifest some interior sending that would indicate some newness in grace.  
 
@@ -436,7 +438,7 @@ Article 2
 
 ***Whether the invisible sending is fuller after the Incarnation than before***
 
-***To the second we proceed as follows. It seems that the invisible sending was not fuller after the Incarnation than before.***
+To the second we proceed as follows. It seems that the invisible sending was not fuller after the Incarnation than before.  
 
 Obj. 1: For the sending occurs through a certain shining of the divine goodness within the gifts of grace making one favored. But the bodily sun, to which Dionysius likens the divine goodness,Pseudo-Dionysius, *On the Divine Names*, ch. 4, paras. 1, 4 (PG 3:694). always shines equally. Therefore it seems that the sending occurs equally at all times.  
 
@@ -458,7 +460,7 @@ Article 3
 
 ***Whether through the invisible sending we become not in this world***
 
-***To the third we proceed as follows. It seems that through the invisible sending we become not in this world.***
+To the third we proceed as follows. It seems that through the invisible sending we become not in this world.  
 
 Obj. 1: For one who is in the heavens is not in this world. But the Apostle, in the person of all the holy, says, *our commonwealth is in heaven* (Phil 3:20). Therefore it seems that the holy ones to whom the sending happens are not in this world.  
 
@@ -482,7 +484,7 @@ Reply Obj. 4: The action of an angel in bodily things is active, and therefore i
 
 Exposition of the second part of the text  
 
-****According to which also he may be said to be sent*.*Sent*. I, 15.7(54).1. For from the very fact that the Son is from the Father, it is fitting that he be sent by him, so that “sending” is understood not according to the act of sending, but according to the aptitude for sending.***
+*According to which also he may be said to be sent*.*Sent*. I, 15.7(54).1. For from the very fact that the Son is from the Father, it is fitting that he be sent by him, so that “sending” is understood not according to the act of sending, but according to the aptitude for sending.  
 
 *And he is sent to each when he is known . . . by each*.*Sent*. I, 15.7(54).1, quoting Augustine, *On the Trinity*, bk. 4, ch. 20 (CCSL 50; PL 42:907). This should be understood not only as about speculative knowledge, but also as about what is in a certain way experiential. What follows in the text shows this: *and perceived by each*; this demonstrates, properly speaking, the experience within the received and perceived*Percepto* here might be translated as either “thoroughly received” or as “perceived”; insofar as both seem to be intended, we have given both. See the note above in a. 1. gift. However, the rational soul progressing toward God, according to the state of the earthly path, is said to be perfected within God according to the state of the heavenly fatherland, where each sending will be completed, on account of the perfected knowledge and the perfected love.  
 

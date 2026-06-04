@@ -1,8 +1,10 @@
 # D. 35 - Divine knowledge
 
+***De scientia Dei***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister de processione divinarum personarum in unitate essentiae, quae est principium creaturarum et causa; antequam de creaturis determinet, prosequitur ea in quibus consistit perfecta ratio principii, secundum quod Deus creaturarum dicitur principium. Ratio autem principii efficientis in his quae agunt per necessitatem naturae sufficienter consistit in potentia et virtute perfecta, quam consequitur effectus, nisi sit impedimentum ex parte recipientis. Sed hoc non sufficit in his quae agunt per voluntatem; immo supra hoc exigitur scientia et voluntas, ut ostendit Philosophus in 9 *Metaph*.***
+Postquam determinavit Magister de processione divinarum personarum in unitate essentiae, quae est principium creaturarum et causa; antequam de creaturis determinet, prosequitur ea in quibus consistit perfecta ratio principii, secundum quod Deus creaturarum dicitur principium. Ratio autem principii efficientis in his quae agunt per necessitatem naturae sufficienter consistit in potentia et virtute perfecta, quam consequitur effectus, nisi sit impedimentum ex parte recipientis. Sed hoc non sufficit in his quae agunt per voluntatem; immo supra hoc exigitur scientia et voluntas, ut ostendit Philosophus in 9 *Metaph*.  
 
 Et ideo dividitur hoc in partes tres: in prima determinat de scientia Dei; in secunda de potentia, 42 dist., ibi: *nunc de omnipotentia Dei agendum est*; in tertia de bonitate, 45 dist., ibi: *jam de bonitate*Al.: *in tertia de voluntate, XLV dist., ibi: ‘jam de voluntate Dei,’* etc. *Dei aliquid pro sensus nostri imbecillitate dicendum est*; ratio autem ordinis est, quia scientia ad plura se extendit quam potentia; est enim tam bonorum quam malorum, quorum non est potentia; quae etiam ad plura se extendit quam voluntas, quia voluntas est tantum respectu illorum bonorum quae sunt, vel erunt, vel fuerunt; sed potentia ulterius est infinitorum aliorum quae facere posset.  
 
@@ -128,7 +130,7 @@ Articulus 3
 
 ***Utrum habeat cognitionem certam et propriam de aliis a se***
 
-***Ad tertium sic proceditur. Videtur quod non habeat certam et propriam cognitionem de aliis a se.***
+Ad tertium sic proceditur. Videtur quod non habeat certam et propriam cognitionem de aliis a se.  
 
 Certa enim cognitio non potest de re haberi nisi per rationem ejus existentem in cognoscente. Sed nihil ejusdem rationis est in Deo et creaturis. Ergo cum non cognoscat creaturas nisi cognoscendo id quod in ipso est, videtur quod non habeat propriam et certam cognitionem de eis.  
 
@@ -160,7 +162,7 @@ Articulus 4
 
 ***Utrum scientia Dei sit univoca scientiae nostrae***
 
-***Ad quartum sic proceditur. Videtur quod scientia Dei sit univoca scientiae nostrae.***
+Ad quartum sic proceditur. Videtur quod scientia Dei sit univoca scientiae nostrae.  
 
 Agens enim secundum formam producit effectum sibi univocum, sicut ignis per calorem inducit calorem univocum suo calori. Sed sicut dicit Origenes, in 16 *ad Rom*. 5:27, et Dionysius, cap. 7 *De div. nom*., Deus dicitur sapiens, inquantum nos sapientia implet per suam sapientiam. Ergo videtur quod sapientia sua sit nostrae univoca.  
 
@@ -236,7 +238,7 @@ Ad quartum dicendum, quod virtus nominat principium operationis perfectum; et id
 
 Expositio textus  
 
-****Sciendum est igitur, quod sapientia vel scientia Dei, cum sit una et simplex, tamen per varios rerum status et diversos effectus plura ac diversa sortitur nomina*. Considerandum est in omnibus istis nominibus quae hic ponuntur, quod unum se habet ex additione ad aliud, non quod sit additio ex parte scientis, sed ex parte scitorum quaeParma: *quia*. diversimode se ad scientiam habent. Hoc enim nomen “scientia,” vel “sapientia,” absolute cognitionem dicit cum conditione certitudinis: unde est et temporalium et aeternorum. Sed providentia, vel praescientia, addit conditionem durationis; quae potest esse aeternitatis ad tempus; et ideo potest esse tantum respectu temporalium, tam bonorum quam malorum. Sed dispositio adhuc addit ordinem causae ad causatum in essendo; unde est de faciendis. Providentia vero adhuc plus addit, scilicet ordinem causae conservantis et ordinantisParma adds *in*. finem; et ideo providentia ad gubernationem pertinet. Sed praedestinatio addit supra providentiam determinatum finem; unde est tantum respectu eorum quae ad gloriam ordinantur; et ideo dicitur de bonis salvandis esse. Reprobatio autem, cum sit respectu malorum, nihil ad scientiam pertinens addit supra praescientiam; et ideo de ea hic mentionem non facit.***
+*Sciendum est igitur, quod sapientia vel scientia Dei, cum sit una et simplex, tamen per varios rerum status et diversos effectus plura ac diversa sortitur nomina*. Considerandum est in omnibus istis nominibus quae hic ponuntur, quod unum se habet ex additione ad aliud, non quod sit additio ex parte scientis, sed ex parte scitorum quaeParma: *quia*. diversimode se ad scientiam habent. Hoc enim nomen “scientia,” vel “sapientia,” absolute cognitionem dicit cum conditione certitudinis: unde est et temporalium et aeternorum. Sed providentia, vel praescientia, addit conditionem durationis; quae potest esse aeternitatis ad tempus; et ideo potest esse tantum respectu temporalium, tam bonorum quam malorum. Sed dispositio adhuc addit ordinem causae ad causatum in essendo; unde est de faciendis. Providentia vero adhuc plus addit, scilicet ordinem causae conservantis et ordinantisParma adds *in*. finem; et ideo providentia ad gubernationem pertinet. Sed praedestinatio addit supra providentiam determinatum finem; unde est tantum respectu eorum quae ad gloriam ordinantur; et ideo dicitur de bonis salvandis esse. Reprobatio autem, cum sit respectu malorum, nihil ad scientiam pertinens addit supra praescientiam; et ideo de ea hic mentionem non facit.  
 
 *Ad hoc ita a quibusdam opponitur*. Hic ponuntur tres rationes, quae quasi per eamdem viam procedunt: nisi quod prima accipitur ex praescientia abstracte significata; secunda ex praescientia significata concretive et verbaliter, ut cum dicitur praescire; tertia ex praescientia significata concretive et nominaliter,Parma: *non neutraliter*. ut cum dicitur praescius; et rationes in littera patent.  
 

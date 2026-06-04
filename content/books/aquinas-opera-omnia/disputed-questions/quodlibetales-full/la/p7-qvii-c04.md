@@ -1,5 +1,7 @@
 # On Sacred Scripture
 
+***Quaestio 6***
+
 ***De sensibus sacrae Scripturae***
 
 ***Deinde quaeritur de sensibus Sacrae Scripturae. Et circa hoc quaeruntur tria:***
@@ -12,9 +14,9 @@ tertio, utrum isti sensus inveniantur in aliis scripturis.
 
 Articulus 1  
 
-***Utrum praeter sensum litteralem in verbis sacrae scripturae lateant alii sensus spirituales***
+Utrum praeter sensum litteralem in verbis sacrae scripturae lateant alii sensus spirituales  
 
-***Ad primum sic proceditur. Videtur quod in eisdem verbis Sacrae Scripturae non lateant plures sensus.***
+Ad primum sic proceditur. Videtur quod in eisdem verbis Sacrae Scripturae non lateant plures sensus.  
 
 Quia *dictionibus semel sumptis non est utendum aequivoce* vel multipliciter; sed pluralitas sensuum facit multiplicitatem locutionis; ergo in eadem locutione Sacrae Scripturae non possunt plures sensus latere.  
 
@@ -46,7 +48,7 @@ Articulus 2
 
 ***De numero sensuum Sacrae Scripturae***
 
-***Ad secundum sic proceditur. Videtur quod non debeant distingui quatuor sensus Sacrae Scripturae, scilicet historicus vel litteralis, allegoricus, moralis et anagogicus.***
+Ad secundum sic proceditur. Videtur quod non debeant distingui quatuor sensus Sacrae Scripturae, scilicet historicus vel litteralis, allegoricus, moralis et anagogicus.  
 
 Sicut enim in Sacra Scriptura aliqua figurate dicuntur de Christo, ita etiam aliqua figurate dicuntur de aliis hominibus, sicut Danielis VIII per hircum caprarum significatur rex Graecorum; sed huiusmodi figurate locutiones non faciunt aliquem sensum praeter litteralem in Sacra Scriptura; ergo nec allegoricus sensus, per quem exponuntur de Christo ea quae in figura ipsius praecesserunt, debet alius sensus ab historico poni.  
 
@@ -82,7 +84,7 @@ Articulus 3
 
 ***Utrum isti sensus inveniantur in aliis scripturis***
 
-***Ad tertium sic proceditur. Videtur quod etiam in aliis scripturis praedicti sensus distingui debeant.***
+Ad tertium sic proceditur. Videtur quod etiam in aliis scripturis praedicti sensus distingui debeant.  
 
 Sensus enim spirituales in Sacra Scriptura accipiuntur ex quibusdam similitudinibus; sed in aliis scientiis proceditur etiam ex quibusdam similitudinibus; ergo in scripturis aliarum scientiarum possunt spirituales sensus inveniri.  
 

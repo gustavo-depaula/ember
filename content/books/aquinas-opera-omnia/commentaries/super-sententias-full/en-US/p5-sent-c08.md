@@ -1,8 +1,10 @@
 # D. 7 - Interpretation of expressions signifying the union
 
+***Interpretation of expressions signifying the union***
+
 ***Division of the text***
 
-***After the Master has distinguished the three opinions about the mode of the union, here he shows how, according to them, one should understand expressions signifying the union.***
+After the Master has distinguished the three opinions about the mode of the union, here he shows how, according to them, one should understand expressions signifying the union.  
 
 And this is divided into two parts:  
 
@@ -118,7 +120,7 @@ Article 1
 
 ***Whether this is true: “God is a man”***
 
-***To the first we proceed as follows.Parallels: *ST* III.16.1, 2; *De rationibus fidei,* ch. 6. It appears that “God is a man” is false.***
+To the first we proceed as follows.Parallels: *ST* III.16.1, 2; *De rationibus fidei,* ch. 6. It appears that “God is a man” is false.  
 
 Obj. 1: For things that are united in one person and in one nature are more together than are things that are united in the person but not in one nature. But the soul and body are united in one nature and one person, whereas God and man are united in the person but not in the nature. Therefore since “soul” cannot be predicated of the body, nor vice versa, it appears that “God” cannot be predicated of the man, nor vice versa.  
 
@@ -184,7 +186,7 @@ Article 2
 
 ***Whether Christ can be called the "lordly man"***
 
-***To the second we proceed as follows.Parallel: *ST* III.16.3. It appears that Christ can be called the “lordly man.”***
+To the second we proceed as follows.Parallel: *ST* III.16.3. It appears that Christ can be called the “lordly man.”  
 
 Obj. 1: For Augustine says in *Eighty-three Questions*, *one should recall that those eternal goods that are hoped for are the ones that were in the lordly man*,Augustine, *De diuersis quaestionibus octoginta tribus*, q. 36 (CCSL 44A; PL 40:26). and he is speaking of Christ. Therefore he can be called “lordly.”  
 
@@ -216,7 +218,7 @@ Question 2
 
 ***Expressions of the union using "made"***
 
-***Next, one asks about the statements that express the union by means of the participle “made.” And two things are asked:***
+Next, one asks about the statements that express the union by means of the participle “made.” And two things are asked:  
 
 first, whether God was made man;  
 
@@ -226,7 +228,7 @@ Article 1
 
 ***Whether this is true: “God was made man”***
 
-***To the first we proceed as follows. It appears that it is false that God was made man.***
+To the first we proceed as follows. It appears that it is false that God was made man.  
 
 Obj. 1: For in coming to be there is a change in kind. But in no way can God be said to change. Therefore he cannot be said to be made something.  
 
@@ -262,7 +264,7 @@ Article 2
 
 ***Whether this is true: “a man was made God”***
 
-***To the second we proceed as follows.Parallels: *ST* III.16.7; 33.3; *Contra errores Graecorum*, ch. 21; *Super Rom.* 1, lect. 2. It appears that this is not true: “a man was made God.”***
+To the second we proceed as follows.Parallels: *ST* III.16.7; 33.3; *Contra errores Graecorum*, ch. 21; *Super Rom.* 1, lect. 2. It appears that this is not true: “a man was made God.”  
 
 Obj. 1: For Damascene says, and it is noted in the text,*Sent*. III, 7.2(24).4, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 2 (PG 94:987). that *we do not call the man deified.* But it is the same thing to say “deified man” and “made God.” Therefore, man was not made God.  
 
@@ -312,7 +314,7 @@ Question 3
 
 ***Expressions of the union using "predestined"***
 
-***Next let us ask about statements expressing the union with the participle “predestined.” And about this two things are asked:***
+Next let us ask about statements expressing the union with the participle “predestined.” And about this two things are asked:  
 
 first, whether this man was predestined to be the Son of God;  
 
@@ -322,7 +324,7 @@ Article 1
 
 ***Whether Christ the man was predestined to be Son of God***
 
-***To the first we proceed as follows.Parallels: below, d. 11, a. 4, ad 4; *In I Sent.*, d. 40, q. 2, a. 1; *ST* III.24.1; *Super Rom*. 1, lect. 3. It appears that Christ was not predestined to be the Son of God.***
+To the first we proceed as follows.Parallels: below, d. 11, a. 4, ad 4; *In I Sent.*, d. 40, q. 2, a. 1; *ST* III.24.1; *Super Rom*. 1, lect. 3. It appears that Christ was not predestined to be the Son of God.  
 
 Obj. 1: Because just as what always was does not come to be, so too what always was is not predestined to be, since predestination signifies coming beforehand. But “Christ the man” supposes the eternal supposit that was always the Son of God. Therefore just as for that very reason one cannot say that the man was made God, so too one cannot say that he was predestined to be the Son of God.  
 
@@ -364,7 +366,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second let us proceed as follows. It appears that the Son of God was not predestined to be a man.***
+To the second let us proceed as follows. It appears that the Son of God was not predestined to be a man.  
 
 Obj. 1: For a predestination precedes the thing predestined. But nothing precedes the Son of God. Therefore he was not predestined to be a man.  
 
@@ -376,7 +378,7 @@ On the contrary, everything that was foreseen and ordained from eternity was pre
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it appears that this is true: "the Son of God was predestined to be the Son of God." For whatever is predicated of the Son of man is predicated of the Son of God. But this is true: "the Son of man was predestined to be the Son of God," as was said. Therefore "the Son of God was also predestined to be the Son of God."***
+Obj. 1: Furthermore, it appears that this is true: "the Son of God was predestined to be the Son of God." For whatever is predicated of the Son of man is predicated of the Son of God. But this is true: "the Son of man was predestined to be the Son of God," as was said. Therefore "the Son of God was also predestined to be the Son of God."  
 
 Obj. 2: Furthermore, the Son of God, as a man, was predestined to be the Son of God. But other things that are predicated of the Son of God as a man are predicated of him even without redundancy, such as “the Son of God, as a man, died,” and yet this too is granted: “the Son of God died.” Therefore likewise one should grant this: “the Son of God was predestined to be the Son of God.”  
 
@@ -386,7 +388,7 @@ On the contrary, whatever is always present in someone is not predestined for hi
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it appears that this is true: “the Son of God was predestined, simply.” For just as “predestined” brings in a temporal effect, so too does “being sent” and “being given.” But it is granted that "the Son of God was sent and given." Therefore it should also be granted that "the Son of God was predestined."***
+Obj. 1: Furthermore, it appears that this is true: “the Son of God was predestined, simply.” For just as “predestined” brings in a temporal effect, so too does “being sent” and “being given.” But it is granted that "the Son of God was sent and given." Therefore it should also be granted that "the Son of God was predestined."  
 
 Obj. 2: Furthermore, in the case of others who are predestined to eternal life one need not add what they were predestined to; rather, it is enough to say that they are predestined. But the Son of God was predestined to be a man. Therefore the Son of God should be called simply “predestined.”  
 
@@ -396,7 +398,7 @@ On the contrary, the eternal is not predestined. But the Son of God is eternal. 
 
 Response to Quaestiuncula 1  
 
-***I respond to the first question that “predestination” carries an order to an end, since to predestine is to send or order to something. Whence whenever it is asserted simply, it is understood to be a preordination to the ultimate end, which is in one’s being joined with God by grace or glory, or to the union in the person. But when something is added to “predestination,” then it carries only a preordination to what is joined to it; and in this way it is granted that the Son of God was predestined to be a man, since this was preordained from eternity.***
+I respond to the first question that “predestination” carries an order to an end, since to predestine is to send or order to something. Whence whenever it is asserted simply, it is understood to be a preordination to the ultimate end, which is in one’s being joined with God by grace or glory, or to the union in the person. But when something is added to “predestination,” then it carries only a preordination to what is joined to it; and in this way it is granted that the Son of God was predestined to be a man, since this was preordained from eternity.  
 
 Reply Obj. 1: “Predestination” does not bring in coming before the one predestined simply speaking, but in comparison to what it is said to be predestined to. However, although the Son of God is from eternity, yet he was not a man from eternity.  
 
@@ -406,7 +408,7 @@ Reply Obj. 3: Although being a man was not a grace for the Son of God, still he 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in Sacred Scripture sometimes something is said “to come to be so” when it is made known. Therefore the expression “to be the Son of God” can be taken either according to reality or according to its evidence, that is, insofar as it is being manifested. If it be taken in the first way, then it is false to say, “the Son of God was predestined to be the Son of God,” since in the expression nothing is asserted that the predestination could come before, which the word contains. However, if it is taken in the second way, in this way the Gloss on Romans 1:4,Oecumenius, *Pauli Epistola ad Romanos*, ch. 1 (PG 118:326). *who was predestioned to be the Son of God in power,* does grant that the Son of God was predestined to be the Son of God—that is, that he would appear to be so evidentially. This was what happened in the Resurrection; which is why he also said at that time, *all power in heaven and earth has been given to me* (Matt 28:18). And according to this sense, the account here is the same as that in the preceding article, since “predestination,” simply speaking, brings in a preordination. Therefore with regard to the first sense, this is false: “the Son of God was predestined to be the Son of God.”***
+To the second question, it should be said that in Sacred Scripture sometimes something is said “to come to be so” when it is made known. Therefore the expression “to be the Son of God” can be taken either according to reality or according to its evidence, that is, insofar as it is being manifested. If it be taken in the first way, then it is false to say, “the Son of God was predestined to be the Son of God,” since in the expression nothing is asserted that the predestination could come before, which the word contains. However, if it is taken in the second way, in this way the Gloss on Romans 1:4,Oecumenius, *Pauli Epistola ad Romanos*, ch. 1 (PG 118:326). *who was predestioned to be the Son of God in power,* does grant that the Son of God was predestined to be the Son of God—that is, that he would appear to be so evidentially. This was what happened in the Resurrection; which is why he also said at that time, *all power in heaven and earth has been given to me* (Matt 28:18). And according to this sense, the account here is the same as that in the preceding article, since “predestination,” simply speaking, brings in a preordination. Therefore with regard to the first sense, this is false: “the Son of God was predestined to be the Son of God.”  
 
 Reply Obj. 1: Of the things that are said of the man, only the ones that are not repugnant in their notions to the Son of God can be said of the Son of God. But being “predestined” bears such a repugnance, since the Son of God is eternal, whereas “predestination” carries with it a coming beforehand, which is not possible relative to the eternal.  
 
@@ -416,7 +418,7 @@ Reply Obj. 3: Likewise, one should say something similar to the third.
 
 Response to Quaestiuncula 3  
 
-***To the third question it should be said that this is likewise false: “the Son of God was predestined.” For there is nothing that could come before what is being asserted. But “the Son of God was predestined inasmuch as he is a man” is true, since coming before is conveyed relative to the man, according to nature.***
+To the third question it should be said that this is likewise false: “the Son of God was predestined.” For there is nothing that could come before what is being asserted. But “the Son of God was predestined inasmuch as he is a man” is true, since coming before is conveyed relative to the man, according to nature.  
 
 Reply Obj. 1: “Sending” does not bring in any temporality in what is being said to be sent, but rather in what it is being said to be sent to, in which it dwells through the new effect. And this is why the divine person is said to have been “sent.” But “predestined” does assert any posteriority relative to the predestination in the one who is predestined. Therefore the account is not alike.  
 
@@ -426,7 +428,7 @@ Reply Obj. 3: Although there is only one supposit, still it is the supposit of t
 
 Exposition of the text  
 
-****He was made, undoubtedly, that which he was not before*.*Sent*. III, 7.1(23).2, quoting Origen, *In Epistulam Pauli ad Romanos explanationum libri*, ch. 1 (PG 14:848). This statement is improper, since it cannot be understood either of the nature, since God was not made a human nature, or of the person or supposit, since that supposit always was, according to the second opinion. Whence “that which he was not before” should be interpreted as “one who has a nature that he did not have before.”***
+*He was made, undoubtedly, that which he was not before*.*Sent*. III, 7.1(23).2, quoting Origen, *In Epistulam Pauli ad Romanos explanationum libri*, ch. 1 (PG 14:848). This statement is improper, since it cannot be understood either of the nature, since God was not made a human nature, or of the person or supposit, since that supposit always was, according to the second opinion. Whence “that which he was not before” should be interpreted as “one who has a nature that he did not have before.”  
 
 *Because God took on man*,*Sent*. III, 7.1(23).4. that is, a human nature, as was glossed above in Distinction 5;Above, d. 5, q. 3, a. 2. otherwise this would be against the opinion that says, “a man was not assumed, but rather a human nature.”  
 

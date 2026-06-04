@@ -1,5 +1,7 @@
 # C. 5 - Widows and Priests
 
+***Widows and Priests***
+
 ***Lecture 1***
 
 ***Treatment of widows***
@@ -90,7 +92,7 @@ Lecture 2
 
 ***Widows to be provided for***
 
-***^5:9^ Let a widow be chosen of no less than sixty years of age, who has been the wife of one husband. [n. 193]***
+^5:9^ Let a widow be chosen of no less than sixty years of age, who has been the wife of one husband. [n. 193]  
 
 > ^5:10^ Having testimony for her good works, if she has brought up children, if she has shown hospitality, if she has washed the saints’ feet, if she has ministered to those who suffer tribulation, if she has diligently followed every good work. [n. 196]
 
@@ -216,7 +218,7 @@ Lecture 3
 
 ***Honoring priests***
 
-***^5:17^ Let the priests who rule well be esteemed worthy of double honor: especially those who labor in the word and doctrine. [n. 211]***
+^5:17^ Let the priests who rule well be esteemed worthy of double honor: especially those who labor in the word and doctrine. [n. 211]  
 
 > ^5:18^ For the Scripture says: ***you shall not muzzle the ox that treads out the corn***; and: ***the laborer is worthy of his reward***. [n. 214]
 

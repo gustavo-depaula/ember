@@ -1,8 +1,10 @@
 # D. 10 - Procession of the Holy Spirit
 
+***De processione Spiritus Sancti***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister de generatione Filii a Patre, hic determinat de processione Spiritus Sancti ab utroque; et dividitur in partes duas: in prima determinat de processione ejus aeterna; in secunda de temporali, 14 dist.: *praeterea diligenter annotandum est, quod gemina est processio Spiritus Sancti*.***
+Postquam determinavit Magister de generatione Filii a Patre, hic determinat de processione Spiritus Sancti ab utroque; et dividitur in partes duas: in prima determinat de processione ejus aeterna; in secunda de temporali, 14 dist.: *praeterea diligenter annotandum est, quod gemina est processio Spiritus Sancti*.  
 
 Prima in tres: in prima determinat processionis modum; in secunda processionis principium, 11 dist.: *hic dicendum est, Spiritum Sanctum a Patre esse et Filio*; tertio differentiam processionis ad generationem, 13 dist.: *post haec considerandum est . . . , cum Spiritus Sanctus procedat de Patre, et sic de substantia Patris, cur non dicatur esse natus, sed potius procedere*.  
 
@@ -68,7 +70,7 @@ Articulus 2
 
 ***Utrum Spiritus Sanctus sit amor quem habet Pater in Filium***
 
-***Ad secundum sic proceditur. Videtur quod Spiritus Sanctus non sit amor quem Pater habet in Filium vel e contrario.***
+Ad secundum sic proceditur. Videtur quod Spiritus Sanctus non sit amor quem Pater habet in Filium vel e contrario.  
 
 Quidquid enim procedit in aliud tendens, non procedit ut per se subsistens. Sed Spiritus Sanctus procedit ut persona subsistens per se. Ergo non procedit in Filium.  
 
@@ -92,7 +94,7 @@ Articulus 3
 
 ***Utrum Spiritus Sanctus sit unio Patris et Filii***
 
-***Ad tertium sic proceditur. Videtur quod Spiritus Sanctus non sit nexus vel unio Patris et Filii.***
+Ad tertium sic proceditur. Videtur quod Spiritus Sanctus non sit nexus vel unio Patris et Filii.  
 
 Quod enim est discretum et distinctum ab aliquibus, non est unitivum ipsorum. Sed Spiritus Sanctus est distinctus a Patre et Filio. Ergo non est unio utriusque.  
 
@@ -116,7 +118,7 @@ Articulus 4
 
 ***Utrum persona procedens per modum amoris proprie dicatur “Spiritus Sanctus”***
 
-***Ad quartum sic proceditur. Videtur quod persona quae procedit ut amor, non proprie dicatur Spiritus Sanctus.***
+Ad quartum sic proceditur. Videtur quod persona quae procedit ut amor, non proprie dicatur Spiritus Sanctus.  
 
 Illud enim quod est commune tribus personis, non efficitur proprium, nisi aliquo proprio adjuncto. Sed spiritus convenit tribus personis, Joan. 4:24: *spiritus est Deus*. “Sanctus” autem quod additur, est etiam commune, et non proprium. Ergo videtur quod Spiritus Sanctus non sit proprium nomen alicujus personae.  
 
@@ -148,7 +150,7 @@ Articulus 5
 
 ***Utrum tantum tres personae sint in divinis***
 
-***Ad quintum sic proceditur. Videtur quod non sint tantum tres personae in divinis.***
+Ad quintum sic proceditur. Videtur quod non sint tantum tres personae in divinis.  
 
 In divinis enim non plus distat voluntas et natura quam intellectus. Sed alia persona est procedens per modum voluntatis vel amoris, ab illa quae procedit per modum naturae vel generationis. Ergo adhuc debet esse alia quae procedat per modum intellectus.  
 
@@ -180,6 +182,6 @@ Ad ultimum patet solutio per ea quae dicta sunt.
 
 Expositio textus  
 
-****Spiritus Sanctus amor est, sive caritas, sive dilectio Patris et Filii*.Mandonnet titles this section: *divisio textus*. Haec tria se habent ex additione ad invicem. Amor enim dicit simplicem inclinationem affectus in amatum. Unde etiam quandoque passionem dicit, secundum quod est in parte sensitiva, et sic amor etiam in irrationabilibus invenitur. Dilectio autem praesupponit electionem, sicut ipsum nomen ostendit; unde tantum rationabilium est. Sed caritas ponit quamdam vehementiam dilectionis, inquantum dilectum sub inaestimabili pretio habetur secundum quod res multi pretii carae dicuntur.***
+*Spiritus Sanctus amor est, sive caritas, sive dilectio Patris et Filii*.Mandonnet titles this section: *divisio textus*. Haec tria se habent ex additione ad invicem. Amor enim dicit simplicem inclinationem affectus in amatum. Unde etiam quandoque passionem dicit, secundum quod est in parte sensitiva, et sic amor etiam in irrationabilibus invenitur. Dilectio autem praesupponit electionem, sicut ipsum nomen ostendit; unde tantum rationabilium est. Sed caritas ponit quamdam vehementiam dilectionis, inquantum dilectum sub inaestimabili pretio habetur secundum quod res multi pretii carae dicuntur.  
 
 *Sive enim sit unitas amborum, sive sanctitas, sive caritas, manifestum est quod non aliquis duorum est quo uterque conjungitur*. Unitas dicitur, inquantum est nexus Patris et Filii, ut dictum est, sed sanctitas dicitur, inquantum procedit processione voluntatis, in qua consistit tota sanctitas.

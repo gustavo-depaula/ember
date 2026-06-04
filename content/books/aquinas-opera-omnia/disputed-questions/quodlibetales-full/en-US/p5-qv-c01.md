@@ -1,5 +1,7 @@
 # On God
 
+***Regarding his divine nature***
+
 ***Question 1***
 
 ***On the knowledge of God***
@@ -20,7 +22,7 @@ Article 1
 
 ***Whether God knows the first instant in which he could have created the world***
 
-***To the first we proceed thus. It seems that God knows the first instant in which he could have created the world.***
+To the first we proceed thus. It seems that God knows the first instant in which he could have created the world.  
 
 Obj. 1: For God could have created the world before he created it; yet he could not have created it infinitely before, because thus it would be coeternal with him. Therefore, there must be some instant in which he could have first created the world. But God knows everything. Therefore, God knows the first instant in which he could have created the world.  
 
@@ -42,7 +44,7 @@ Article 2
 
 ***Whether those foreknown by God can merit punishment***
 
-***To the second we proceed thus. It seems that those foreknown by God cannot merit punishment.***
+To the second we proceed thus. It seems that those foreknown by God cannot merit punishment.  
 
 Obj. 1: For just as some men are chosen by God from eternity to have grace, so also some men are foreknown by God to be abandoned to their nature. But by natural things we do not merit reward nor punishment.Cf. below: *Quodlibet VI*, q. 4, a. 1, obj. 1. Therefore, those foreknown by God cannot merit punishment.  
 
@@ -82,7 +84,7 @@ Article 2
 
 ***Whether God can sin, if he wills***
 
-***To the second we proceed thus. It seems that this is false: *God can sin, if he wills*.***
+To the second we proceed thus. It seems that this is false: *God can sin, if he wills*.  
 
 Obj. 1: For about anything that I can say a man can do if he wills, it can also be said absolutely that a man can do that thing. If, therefore, this proposition is true: *God can sin, if he wills*, it follows that this is true: *God can sin*. But this is erroneous; therefore, the first is also erroneous.  
 
@@ -110,9 +112,9 @@ second, whether Christ exhibited a sign of love for us more in that he suffered 
 
 Article 1  
 
-***Whether all the blood which Christ poured out in his Passion returned to his body in the Resurrection***
+Whether all the blood which Christ poured out in his Passion returned to his body in the Resurrection  
 
-***To the first we proceed thus. It seems that all the blood of Christ poured out in his Passion returned to his body in the Resurrection.***
+To the first we proceed thus. It seems that all the blood of Christ poured out in his Passion returned to his body in the Resurrection.  
 
 Obj. 1: For our resurrection shall be conformed to the Resurrection of Christ, according to Philippians 3:21: *he shall re-form the body of our humility configured to the body of his clarity*, but to our body there shall return in the resurrection the whole which was truly human nature.Cf. below: *Quodlibet VIII*, q. 3, a. 1. Yet the blood of Christ poured out in his Passion was truly human nature, and it is called sacred according to that line: *whom the sacred blood has anointed, fused to the body of the lamb*.Venantius Fortunatus, “Pange lingua gloriosi,” *Carmina* 2.2, line 30, ed. Fridericus Leo, Monumenta Germaniae historica 4 (Berlin: Weidmann, 1881), 28. Therefore, it seems that the blood of Christ poured out in the Passion returned to his body in the Resurrection.  
 
@@ -130,9 +132,9 @@ Reply Obj. 1–2: And through this the response to the objections is clear.
 
 Article 2  
 
-***Whether Christ exhibited a sign of love for us more in that he suffered for us or in that he gave his body as food for us in the sacrament***
+Whether Christ exhibited a sign of love for us more in that he suffered for us or in that he gave his body as food for us in the sacrament  
 
-***To the second we proceed thus. It seems that Christ showed for us a sign of greater love by handing over his body as food than by suffering for us.***
+To the second we proceed thus. It seems that Christ showed for us a sign of greater love by handing over his body as food than by suffering for us.  
 
 Obj. 1: For the charity of the fatherland is more perfect than the charity of the journey. But the benefit which Christ conferred upon us by giving his body to us as food is better compared to the charity of the fatherland, in which we will enjoy God fully. Yet the Passion which he underwent for us is better compared to the charity of the journey, during which we are warned that we must suffer for Christ. Therefore, it is a greater sign of love that Christ handed over his body to us as food than that he suffered for us.  
 

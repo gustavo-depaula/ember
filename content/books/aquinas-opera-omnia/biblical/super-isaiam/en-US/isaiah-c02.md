@@ -1,5 +1,7 @@
 # Preface of St. Jerome
 
+No one, seeing the prophets written out in verses, should think that they are bound by meter in the Hebrew and have something similar to the Psalms or the works of Solomon. Rather, just as Demosthenes and Cicero (who certainly composed in prose and not in verses) are usually written out by colons and commas, we also, for the benefit of readers, have marked off our new translation with a new kind of writing.  
+
 But first, it should be known about Isaiah that, as he is well-spoken in his discourse, surely he was a man of noble and urbane elegance, having nothing of rusticity mixed in his eloquence. Thus it happens that, more than others, translation cannot preserve the flower of his discourse.  
 
 And next it should be added that Isaiah should not so much be called a prophet as an evangelist, for he describes all the mysteries of Christ and the Church so clearly, that you think that he is not prophesying about the future, but composing an account of past events. Thus I conclude that the Seventy translators did not wish at that time to clearly publish the mysteries [*sacramenta*] of their faith to the heathen, lest they give what is holy to dogs and pearls to swine; when you have read this edition, you will observe these things that were hidden by them.  
@@ -12,7 +14,7 @@ The more you love him, Paula and Eustochium, ask from him so much more, that in 
 
 Exposition of Saint Thomas on Saint Jerome’s Preface to Isaiah  
 
-*****9**. St. Jerome sets a prologue before this work, in which he does three things:***
+**9**. St. Jerome sets a prologue before this work, in which he does three things:  
 
 first, he shows the manner of speaking;  
 

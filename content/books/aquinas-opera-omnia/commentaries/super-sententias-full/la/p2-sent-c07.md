@@ -1,8 +1,10 @@
 # D. 27 - The properties in connection with the names of the divine persons
 
+***De proprietatibus in comparatione ad nomina divinarum personarum***
+
 ***Divisio textus***
 
-***Positis tribus personalibus proprietatibus divinarum personarum, hic Magister determinat de ipsis proprietatibus in comparatione ad nomina personarum, et dividitur in partes tres: in prima ostendit quod in omnibus personalibus nominibus praedictae proprietates personarum designantur; in secunda proponit generalem regulam ad inveniendum hujusmodi nomina, quae proprietates personarumParma omits *personarum*. designant, ibi: *et est hic advertenda quaedam generalis regula*.***
+Positis tribus personalibus proprietatibus divinarum personarum, hic Magister determinat de ipsis proprietatibus in comparatione ad nomina personarum, et dividitur in partes tres: in prima ostendit quod in omnibus personalibus nominibus praedictae proprietates personarum designantur; in secunda proponit generalem regulam ad inveniendum hujusmodi nomina, quae proprietates personarumParma omits *personarum*. designant, ibi: *et est hic advertenda quaedam generalis regula*.  
 
 Prima in duas: in prima ostendit quod dictae proprietates designantur in nominibus personalibus consuetis, scilicet nomine Patris, et Filii, et Spiritus Sancti; in secunda ostendit quod designantur etiam aliis nominibus personas significantibus, ibi: *hic non est praetermittendum*.  
 
@@ -34,7 +36,7 @@ Articulus 1
 
 ***Utrum proprietates ad invicem distinguantur***
 
-***Ad primum sic proceditur. Videtur quod proprietates ad invicem non distinguantur.***
+Ad primum sic proceditur. Videtur quod proprietates ad invicem non distinguantur.  
 
 Nulla enim est distinctio in divinis nisi secundum originem. Sed una proprietas non oritur ab alia: quia sicut essentia non generat, ita nec proprietas. Ergo proprietates ad invicem non distinguuntur.  
 
@@ -68,7 +70,7 @@ Articulus 2
 
 ***Utrum operatio personalis praecedat secundum rationem relationem personae***
 
-***Ad secundum sic proceditur. Videtur quod operatio personalis praecedat secundum intellectum relationem personae.***
+Ad secundum sic proceditur. Videtur quod operatio personalis praecedat secundum intellectum relationem personae.  
 
 Generatio enim, ut dictum est, significat operationem personalem. Sed Magister in littera dicit, quod ideo est Pater, quia genuit. Ergo videtur quod generatio secundum intellectum praecedat relationem Patris.  
 
@@ -174,7 +176,7 @@ Item, verbum, ut dictum est, dicit ordinem cujusdam exitus, et conceptionem inte
 
 Quaestiuncula 2  
 
-***Ulterius quaeritur circa hoc: si verbum dicatur personaliter, utrum solus Filius dicendus sit verbum. Videtur quod non.***
+Ulterius quaeritur circa hoc: si verbum dicatur personaliter, utrum solus Filius dicendus sit verbum. Videtur quod non.  
 
 Quia sicut Filius exit a Patre ut manifestans ipsum, ita et Spiritus Sanctus. Ergo ratio verbi utrique aequaliter convenit.  
 
@@ -186,7 +188,7 @@ Contra est quod dicit Augustinus, lib. 15 *De Trinit*., cap. 17, quod sicut in T
 
 Solutio 1  
 
-***Respondeo dicendum, quod circa hoc sunt diversae opiniones. Quidam enim dicunt, quod dicere de Deo dicitur tripliciter: quandoque enim dicere est idem quod intelligere, et sic est essentiale; quandoque autemAl.: *enim*. dicere idem est quod generare, et sic est notionale; quandoque autemAl.: *enim*. dicere est idem quod creare, et sic dicere connotat respectum ad creaturam, et est essentiale. Dicunt igitur quod huic actui non respondet verbum nisi quantum ad secundum modum dicendi; et ideo quamvis dicere dicatur essentialiter et personaliter, tamen verbum non dicitur nisi personaliter. Sed hoc non videtur verum: quia non est intelligibile quod aliquid dicatur et non sit verbum; unde oportet quod quoties dicitur intelligereParma: *dicitur dicere*. toties dicatur verbum.***
+Respondeo dicendum, quod circa hoc sunt diversae opiniones. Quidam enim dicunt, quod dicere de Deo dicitur tripliciter: quandoque enim dicere est idem quod intelligere, et sic est essentiale; quandoque autemAl.: *enim*. dicere idem est quod generare, et sic est notionale; quandoque autemAl.: *enim*. dicere est idem quod creare, et sic dicere connotat respectum ad creaturam, et est essentiale. Dicunt igitur quod huic actui non respondet verbum nisi quantum ad secundum modum dicendi; et ideo quamvis dicere dicatur essentialiter et personaliter, tamen verbum non dicitur nisi personaliter. Sed hoc non videtur verum: quia non est intelligibile quod aliquid dicatur et non sit verbum; unde oportet quod quoties dicitur intelligereParma: *dicitur dicere*. toties dicatur verbum.  
 
 Alii dicunt, quod dicere nihil aliud est in universali quam manifestare intellectum suum. Potest autem homo manifestare intellectum suum vel alteri, sicut verbo vocali, vel sibi ipsi, sicut verbo cordis. Ita dicunt, quod utroque modo Deus manifestat intellectum suum, scilicet condendo creaturam, quae est verbum ipsius, quasi verbum vocale,Parma: *vocabile*. et generando Filium secundum quod manifestat se apud seipsum, et hoc est idem quod verbum cordis. Unde dicunt, quod verbum dictum de Deo semper est personale.  
 
@@ -214,7 +216,7 @@ Ad septimum dicendum, quod omnia illa quae dicuntur, possunt accipi realiter vel
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum, quod si verbum personaliter sumatur, soli Filio convenit, et non Spiritui Sancto, quia Spiritus Sanctus procedit per modum voluntatis, et ideo proprie dicitur amor et donum; sed procedere per modum naturae vel intellectus convenit Filio; et ideo ipse proprie et genitus et Verbum dicitur.***
+Ad id quod ulterius quaeritur, dicendum, quod si verbum personaliter sumatur, soli Filio convenit, et non Spiritui Sancto, quia Spiritus Sanctus procedit per modum voluntatis, et ideo proprie dicitur amor et donum; sed procedere per modum naturae vel intellectus convenit Filio; et ideo ipse proprie et genitus et Verbum dicitur.  
 
 Ad primum ergo quod objicitur, dicendum, quod ad rationem verbi non solum exigitur esse manifestativum: quia sic cujuslibet causae esset verbum suus effectus, quod non potest dici nisi metaphorice; sed oportet quod in illo verbo intelligatur processio intellectus, et hoc non convenit Spiritui Sancto.  
 
@@ -226,7 +228,7 @@ Articulus 3
 
 ***Utrum “verbum” dicat semper respectum ad creaturam***
 
-***Ad tertium sic proceditur. Videtur quod verbum semper respectum dicat ad creaturam.***
+Ad tertium sic proceditur. Videtur quod verbum semper respectum dicat ad creaturam.  
 
 Sicut enim dicit Augustinus: *dixit, et facta sunt, id est: Verbum genuit, in quo erat ut fieret creatura*. Sed per hoc ponitur respectus ad creaturam. Ergo videtur quod verbum dicat respectum ad creaturam.  
 
@@ -260,6 +262,6 @@ Ad sextum dicendum, quod omnis effectus creaturae est communis totius Trinitatis
 
 Expositio textus  
 
-****Natura igitur divina si Pater est genuit*Al.: *generat*. *Filium*. Istud non sequitur; quia quamvis secundum rem idem sit Pater et generatio, tamen per verbum generationis significatur illa proprietas ut inhaerens et determinans illud de quo dicitur; et ideo quia essentia non determinatur a proprietate,Parma adds *ut per se subsistente*, “as subsisting through itself.” non dicitur quod essentia generet. Sed Pater significat eamdem proprietatem ut per se subsistentem, et ideo propter identitatem rei dicitur, quod essentia est Pater.***
+*Natura igitur divina si Pater est genuit*Al.: *generat*. *Filium*. Istud non sequitur; quia quamvis secundum rem idem sit Pater et generatio, tamen per verbum generationis significatur illa proprietas ut inhaerens et determinans illud de quo dicitur; et ideo quia essentia non determinatur a proprietate,Parma adds *ut per se subsistente*, “as subsisting through itself.” non dicitur quod essentia generet. Sed Pater significat eamdem proprietatem ut per se subsistentem, et ideo propter identitatem rei dicitur, quod essentia est Pater.  
 
 *A se invicem differunt*. Differentia non proprie in divinis est; quia opponitur similitudini, sicut diversitas unitati; tamen hic large accipitur pro distinctione.

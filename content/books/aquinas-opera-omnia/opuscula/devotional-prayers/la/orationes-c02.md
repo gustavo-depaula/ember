@@ -1,7 +1,9 @@
 # You, I Devoutly Praise
 
-***Te devote laudo,The critical text of the Latin was prepared by Wielockx: “Poetry and Theology in the *Adoro te devote*: Thomas Aquinas on the Eucharist and Christ’s Uniqueness,” in *Christ among the Medieval Dominicans: Representations of Christ in the Texts and Images of the Order of Preachers*, Notre Dame Conferences in Medieval Studies 7 (Notre Dame, IN: University of Notre Dame Press, 1998), 172. As for the opening words, “Te devote laudo,” Wielockx suggests this critical alteration to the text in “Adoro te devote. Zur Lösung einer alten Crux,” *Annales Theologici* 21.1 (2007), 101–38. latens Veritas,***
-***te quae sub his formis vere latitas.***
+***Sequentes versus etiam composuit et dicebat quando levabutur Hosti in altari***
+
+Te devote laudo, *(The critical text of the Latin was prepared by Wielockx: “Poetry and Theology in the *Adoro te devote*: Thomas Aquinas on the Eucharist and Christ’s Uniqueness,” in *Christ among the Medieval Dominicans: Representations of Christ in the Texts and Images of the Order of Preachers*, Notre Dame Conferences in Medieval Studies 7 (Notre Dame, IN: University of Notre Dame Press, 1998), 172. As for the opening words, “Te devote laudo,” Wielockx suggests this critical alteration to the text in “Adoro te devote. Zur Lösung einer alten Crux,” *Annales Theologici* 21.1 (2007), 101–38.)* latens Veritas,  
+te quae sub his formis vere latitas.  
 
 - Tibi se cor meum totum subicit,  
   quia te contemplans totum deficit.

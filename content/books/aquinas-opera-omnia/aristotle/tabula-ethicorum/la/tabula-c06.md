@@ -1,5 +1,7 @@
 # Chapter 6
 
+***Vox 1***
+
 ***Fama***
 
 ***Quod fama communis multorum populorum non potest esse falsa omnino.***
@@ -14,13 +16,13 @@ Vox 3
 
 ***Factum***
 
-***Quod neque factum neque faccio finis simpliciter, set ad aliquid et alicuius; set accio finis.***
+Quod neque factum neque faccio finis simpliciter, set ad aliquid et alicuius; set accio finis.  
 
 Vox 4  
 
 ***Fantasmata***
 
-***Quod fantasmata studiosorum sunt meliora quam aliorum, quia semper sompniant se uirtuose agere ex motibus uigilie relictis.***
+Quod fantasmata studiosorum sunt meliora quam aliorum, quia semper sompniant se uirtuose agere ex motibus uigilie relictis.  
 
 Quod fantasie non sumus domini.  
 
@@ -28,7 +30,7 @@ Vox 5
 
 ***Febricitans***
 
-***Quod febricitanti uniuersaliter confert abstinencia et quies, alicui autem forte non.***
+Quod febricitanti uniuersaliter confert abstinencia et quies, alicui autem forte non.  
 
 Vox 6  
 
@@ -268,7 +270,7 @@ Vox 12
 
 ***Fortitudo***
 
-***Quod fortitudo non est circa omnia que ab omnibus timenda sicut infamiam, neque circa ea que non sunt timenda sicut inopiam, neque circa timenda que parum mouent.***
+Quod fortitudo non est circa omnia que ab omnibus timenda sicut infamiam, neque circa ea que non sunt timenda sicut inopiam, neque circa timenda que parum mouent.  
 
 Quod fortitudo est circa maxime terribilia.  
 
@@ -328,7 +330,7 @@ Vox 15
 
 ***Furor***
 
-***Quod furor propter similitudinem ad ueram fortitudinem dicitur fortitudo, quia fortes feruntur audacter ad pericula, similiter et furentes; sicut fere et crudeles bestie feruntur contra se uulnerantes.***
+Quod furor propter similitudinem ad ueram fortitudinem dicitur fortitudo, quia fortes feruntur audacter ad pericula, similiter et furentes; sicut fere et crudeles bestie feruntur contra se uulnerantes.  
 
 Quod furor est impetuosissimus ad pericula.  
 
@@ -336,13 +338,13 @@ Vox 16
 
 ***de Figura proporcionalitatis***
 
-***Quod in figura proporcionalitatis oportet reducere opera et artifices ad hoc quod adequacio fiat secundum proporcionalitatem.***
+Quod in figura proporcionalitatis oportet reducere opera et artifices ad hoc quod adequacio fiat secundum proporcionalitatem.  
 
 Vox 17  
 
 ***Felicitas***
 
-***Quod felicitas non est in habitu set in operacione, quia habitus possunt existere dormienti et infortunato.***
+Quod felicitas non est in habitu set in operacione, quia habitus possunt existere dormienti et infortunato.  
 
 Quod felicitas est in operacione per se eligibili.  
 

@@ -1,5 +1,7 @@
 # Proposition 16
 
+129. Omnes virtutes, quibus non est finis, pendentes sunt per infinitum primum, quod est virtus virtutum, non quia ipsae sunt acquisitae, fixae, stantes in rebus entibus, immo sunt virtus rebus entibus habentibus fixionem.  
+
 > 130. Quod si aliquis dicat, quod ens primum creatum, scilicet intelligentia, est virtus, etiam cui non est finis, dicemus quod non est ens creatum virtus, immo est ei virtus quaedam.
 
 > 131. Et virtus quidem eius non est facta infinita nisi inferius, non superius, quoniam ipsa non est virtus pura, quae non est virtus, nisi quia est virtus, et est res, quae non finitur inferius neque superius. Ens autem primum creatum, scilicet intelligentia, habet finem et virtuti eius est finis, secundum quem remanet causa eius.

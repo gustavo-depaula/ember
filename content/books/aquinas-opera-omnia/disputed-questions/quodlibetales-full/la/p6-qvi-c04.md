@@ -1,12 +1,14 @@
 # On a Purely Bodily Creature
 
+***Quaestio 11***
+
 ***De creatura pure corporali***
 
 ***Articulus unicus***
 
 ***Utrum scilicet caelum empyreum habeat influentiam super alia corpora***
 
-***Deinde ultimo quaesitum est de creatura pure corporali, utrum scilicet caelum empyreum habeat influentiam super alia corpora?***
+Deinde ultimo quaesitum est de creatura pure corporali, utrum scilicet caelum empyreum habeat influentiam super alia corpora?  
 
 Et videtur quod non, quia omne corpus quod naturaliter influit in alia corpora, per prius influit in propinqua quam in remota; si ergo caelum empyreum influeret in corpora inferiora, per prius influeret in caelum aqueum, quod est sibi propinquius, quam in caelum sidereum; sed hoc videtur inconveniens, quia caelum sidereum similius est caelo empyreo, cum neutrum sit de natura quatuor elementorum, quam caelum aqueum, quod est de natura quatuor elementorum, quia illae aquae dicuntur ibi esse positae ad refrigerandum calorem provenientem ex motu caeli, ratione cuius Saturnus, qui est altior inter planetas, dicitur habere frigiditatem; non ergo caelum empyreum influit in corpora inferiora.  
 

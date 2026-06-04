@@ -1,8 +1,10 @@
 # D. 5 - Conversion and fall of the angels
 
+***De aversione et conversione angelorum***
+
 ***Divisio textus***
 
-****Post haec consideratio adducit inquirere, quales effecti sint, dum dividerentur aversione et conversione*. Ostenso quales angeli creati sunt, hic ostendit eorum differentiam ad invicem per aversionem et conversionem: et dividitur in partes duas:***
+*Post haec consideratio adducit inquirere, quales effecti sint, dum dividerentur aversione et conversione*. Ostenso quales angeli creati sunt, hic ostendit eorum differentiam ad invicem per aversionem et conversionem: et dividitur in partes duas:  
 
 in prima determinat de aversione angelorum;  
 
@@ -88,7 +90,7 @@ Articulus 2
 
 ***Utrum angelus malus appetierit aequalitatem Dei***
 
-***Ad secundum sic proceditur. Videtur quod angelus Dei aequalitatem non appetierit.***
+Ad secundum sic proceditur. Videtur quod angelus Dei aequalitatem non appetierit.  
 
 Quia, sicut dicit Augustinus, de Adam loquens, 11 *Super Gen. ad litt*., cap. 42, non est credendum, quod vir spirituali mente praeditus, esse voluerit sicut Deus. Sed angelus multo sapientior fuit homine. Ergo videtur quod Dei aequalitatem non appetiit.  
 
@@ -122,7 +124,7 @@ Articulus 3
 
 ***Utrum primum peccatum angeli fuerit superbia***
 
-***Ad tertium sic proceditur. Videtur quod peccatum angeli primum non fuit de genere superbiae, sed aliud.***
+Ad tertium sic proceditur. Videtur quod peccatum angeli primum non fuit de genere superbiae, sed aliud.  
 
 Quia, sicut 1 Timoth. 6:10, dicitur: *radix omnium malorum est cupiditas* vel *avaritia*. Sed peccatum angeli fuit quasi omnium peccatorum radix. Ergo suum peccatum fuit cupiditatis vel avaritiae.  
 
@@ -154,7 +156,7 @@ Quaestio 2
 
 ***De conversione bonorum angelorum***
 
-***Circa secundum principale quaeritur de conversione bonorum angelorum, et quaeruntur duo:***
+Circa secundum principale quaeritur de conversione bonorum angelorum, et quaeruntur duo:  
 
 primo utrum fuerit eis aliqua gratia apposita ad conversionem;  
 
@@ -164,7 +166,7 @@ Articulus 1
 
 ***Utrum angeli indiguerint gratia ad hoc quod converterentur in Deum***
 
-***Ad primum sic proceditur. Videtur quod non indiguerint appositione alicujus gratiae, ut converterentur ad Deum.***
+Ad primum sic proceditur. Videtur quod non indiguerint appositione alicujus gratiae, ut converterentur ad Deum.  
 
 Ad libertatem enim liberi arbitrii pertinet ut ad utrumque flecti possit, et praecipue in bonum. Sed angelis in statu creationis fuit liberum arbitrium nullo peccato debilitatum. Ergo non indigebant gratia ad hoc ut in bonum converterentur.  
 
@@ -232,7 +234,7 @@ Ad quartum dicendum, quod actus ministerii angelorum habent efficaciam merendi r
 
 Expositio textus  
 
-****Averti*,Mandonnet suggests supplying *fuit*. *odio habere vel invidere*. Videtur hoc etiam esse impossibile: quia sicut nihil amatur nisi bonum vel in ratione boni, ita nihil odio habetur nisi ratione mali. Sed in Deo nulla est ratio mali. Ergo odio haberi non potest. Sed contra est quod dicitur in Psalmo: *superbia eorum qui te oderunt, ascendit semper*.***
+*Averti*,Mandonnet suggests supplying *fuit*. *odio habere vel invidere*. Videtur hoc etiam esse impossibile: quia sicut nihil amatur nisi bonum vel in ratione boni, ita nihil odio habetur nisi ratione mali. Sed in Deo nulla est ratio mali. Ergo odio haberi non potest. Sed contra est quod dicitur in Psalmo: *superbia eorum qui te oderunt, ascendit semper*.  
 
 Ad quod dicendum, quod ipsum Deum, secundum idParma omits *id*. quod est, nullus odio habere potest; sed ratione alicujus effectus ejus, qui contrariatur voluntati inquantum est puniens vel prohibens, vel aliquid hujusmodi; sicut lux per se non potest odiri ab oculo, sed inquantum excaecat oculum infirmum.Parma and PLE omit *sicut lux per se non potest odiri ab oculo, sed inquantum excaecat oculum infirmum*.  
 

@@ -1,5 +1,7 @@
 # Chapter 55
 
+^54:17b^ This is the inheritance of the servants of the Lord, and their justice with me, says the Lord.  
+
 > ^55:1^ All you that thirst, come to the waters: and you that have no money make haste, buy, and eat: come, buy wine and milk without money, and without any price.
 
 > ^55:2^ Why do you spend money for that which is not bread, and your labor for that which doth not satisfy you? Hearken diligently to me, and eat that which is good, and your soul shall be delighted in fatness.

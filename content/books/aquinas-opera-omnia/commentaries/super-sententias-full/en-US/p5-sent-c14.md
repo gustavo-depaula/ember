@@ -1,8 +1,10 @@
 # D. 13 - Perfections of human nature of Christ
 
+***Perfections of human nature of Christ***
+
 ***Division of the text***
 
-***After the Master has considered those things that belong to God incarnate by reason of the union, here he considers the things that follow it in virtue of either of the natures. And since the things that belong to him by reason of his divine nature, which is not diminished in the Incarnation, have been treated in Book I, it now remains to consider here the things that belong to Christ in virtue of the nature that was exalted through that Incarnation.***
+After the Master has considered those things that belong to God incarnate by reason of the union, here he considers the things that follow it in virtue of either of the natures. And since the things that belong to him by reason of his divine nature, which is not diminished in the Incarnation, have been treated in Book I, it now remains to consider here the things that belong to Christ in virtue of the nature that was exalted through that Incarnation.  
 
 Now, this part is divided into three parts.  
 
@@ -68,7 +70,7 @@ Article 1
 
 ***Whether in Christ there was habitual grace perfecting his soul***
 
-***To the first we proceed as follows.Parallels: *ST* III.7.1; *De veritate*, q. 29, a. 1; *Compend. theol.*, ch. 213; *Super Ioan.* 3, lect. 6. It appears that the aforesaid grace was not present in Christ.***
+To the first we proceed as follows.Parallels: *ST* III.7.1; *De veritate*, q. 29, a. 1; *Compend. theol.*, ch. 213; *Super Ioan.* 3, lect. 6. It appears that the aforesaid grace was not present in Christ.  
 
 Obj. 1: For just as the sonship of adoption is related to natural sonship, so too is gratuitous goodness to natural goodness. But just as Christ had it from the union that he was the natural Son, so too he had it that he was naturally good. Therefore just as the sonship of adoption is not given to him, neither should gratuitous goodness be.  
 
@@ -108,7 +110,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: below, d. 15, q. 1, a. 2, ad 5; *ST* III.7.9; *Compend. theol.,* cc. 213, 214; *Super Ioan.* 1, lect. 8. It appears that Christ did not have the fullness of grace.***
+To the second we proceed as follows.Parallels: below, d. 15, q. 1, a. 2, ad 5; *ST* III.7.9; *Compend. theol.,* cc. 213, 214; *Super Ioan.* 1, lect. 8. It appears that Christ did not have the fullness of grace.  
 
 Obj. 1: For Christ did not have faith or hope, as will be shown below,*In III Sent*., d. 26, q. 2, a. 3. nor repentance, since he never sinned. But all of these pertain to grace. Therefore he did not have the fullness of grace.  
 
@@ -124,7 +126,7 @@ Furthermore, the Holy Spirit is said to dwell in a man through grace. But in Luk
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that his grace was infinite.Parallels: *In I Sent*., d. 17, q. 2, a. 3, ad 3; *ST* III.7.11; *De veritate*, q. 29, a. 3; *Compend. theol*., ch. 215; *Super Ioan*. 3, lect. 6. In John 3:34 it says that *it is not by measure that he gives the Spirit*. But everything finite has a measure. Therefore, since the Holy Spirit is said to be given to men insofar as they receive grace, it appears that his grace was infinite.***
+Obj. 1: Moreover, it appears that his grace was infinite.Parallels: *In I Sent*., d. 17, q. 2, a. 3, ad 3; *ST* III.7.11; *De veritate*, q. 29, a. 3; *Compend. theol*., ch. 215; *Super Ioan*. 3, lect. 6. In John 3:34 it says that *it is not by measure that he gives the Spirit*. But everything finite has a measure. Therefore, since the Holy Spirit is said to be given to men insofar as they receive grace, it appears that his grace was infinite.  
 
 Obj. 2: Furthermore, for every finite thing something greater can be thought, and God can even make something greater. But in the text it says*Sent*. III, 13.1(38).3, 5. that God was not able to confer on him a greater grace, nor can a fuller one be thought. Therefore it is infinite.  
 
@@ -138,7 +140,7 @@ Furthermore, there is nothing greater than the infinite. Therefore if Christ as 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that that grace was capable of increase.Parallels: *In I Sent*., d. 15, q. 5, a. 1, resp. 4; d. 17, q. 2, a. 4, ad 3; *ST* III.7.12. For to anything finite addition is possible. Therefore if Christ’s grace was finite, since it was created, some addition could be made to it, and thus it could be increased.***
+Obj. 1: Moreover, it appears that that grace was capable of increase.Parallels: *In I Sent*., d. 15, q. 5, a. 1, resp. 4; d. 17, q. 2, a. 4, ad 3; *ST* III.7.12. For to anything finite addition is possible. Therefore if Christ’s grace was finite, since it was created, some addition could be made to it, and thus it could be increased.  
 
 Obj. 2: Furthermore, to the degree that a greater perfection is added to an intellectual nature, so much more is its capacity increased. This is why, according to the Philosopher in *On the Soul* 3,Aristotle, *On the Soul* 3.4, 429a30; Aquinas, *Sent. De anima*, bk. 4, lect. 7, n. 688. to the degree that an intellect understands difficult things better, so far can it also understand things more. But the capacity for a greater grace makes a possibility of increase. Therefore however great is a man’s perfect grace, there remains a possibility for increase. And thus it appears that Christ was able to progress in grace.  
 
@@ -152,7 +154,7 @@ Furthermore, Christ was a perfect comprehensor from the moment of his conception
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that something is said to be had fully when it is had with respect to all its differences, modes, and effects. And in this respect Christ had the fullness of grace. However, this fullness can be considered according to the notion of a final, efficient, and formal causes.***
+To the first question, I answer that something is said to be had fully when it is had with respect to all its differences, modes, and effects. And in this respect Christ had the fullness of grace. However, this fullness can be considered according to the notion of a final, efficient, and formal causes.  
 
 Now, the end of grace is that it join us to God. Therefore, since Christ, insofar as he is a man, was joined to the divinity not only through knowledge, love, and fruition, but also through a union in the person, so his grace attained its end most fully. And this is the fullness of the final cause.  
 
@@ -172,7 +174,7 @@ Reply Obj. 3: To have magnificence, as it is taken by the Philosopher, it is not
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that grace is said to be a gift bestowed gratuitously. Now, both a created and an uncreated gift were given to Christ the man without any preceding merits. The uncreated gift was the Holy Spirit himself, since he rested in his soul, as is said in Isa 2,See perhaps Isaiah 11:2. and also the very person of the Word, since he was given to the human nature such that the person of the Word would be its person; and in virtue of this is given to him *the name which is above every name* (Phil 2:9), and in this way the grace of Christ is infinite. However, his created gift was the very grace by which his soul was formally perfected; and this in a certain way was finite and in a certain way infinite, since according to its essence it was finite, but in three ways it can be said to be infinite.***
+To the second question, it should be said that grace is said to be a gift bestowed gratuitously. Now, both a created and an uncreated gift were given to Christ the man without any preceding merits. The uncreated gift was the Holy Spirit himself, since he rested in his soul, as is said in Isa 2,See perhaps Isaiah 11:2. and also the very person of the Word, since he was given to the human nature such that the person of the Word would be its person; and in virtue of this is given to him *the name which is above every name* (Phil 2:9), and in this way the grace of Christ is infinite. However, his created gift was the very grace by which his soul was formally perfected; and this in a certain way was finite and in a certain way infinite, since according to its essence it was finite, but in three ways it can be said to be infinite.  
 
 In one way, from its being joined to the divinity insofar as it comes together with it for the same act, such that an act informed by this grace is the act not only of a man but even of God.  
 
@@ -192,7 +194,7 @@ Reply Obj. 4: The infinity of the efficacy in the merit arises from the fact tha
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that growth does not belong to something insofar as it is at its term, but insofar as it is on the way to its term. For insofar as a thing is at its term, the entire potentiality of its capacity is fulfilled by the end fulfilling it, and therefore it does not have anything further to which would grow. And since Christ’s soul was from the beginning of its conception united to the ultimate end, not only through perfect fruition but even by communicating in the person of the Word, therefore his grace was not able to grow.***
+To the third question, it should be said that growth does not belong to something insofar as it is at its term, but insofar as it is on the way to its term. For insofar as a thing is at its term, the entire potentiality of its capacity is fulfilled by the end fulfilling it, and therefore it does not have anything further to which would grow. And since Christ’s soul was from the beginning of its conception united to the ultimate end, not only through perfect fruition but even by communicating in the person of the Word, therefore his grace was not able to grow.  
 
 Reply Obj. 1: To any finite thing there can be an addition, mathematically speaking, since the notion of quantity, which the mathematician considers by itself, does not prevent that something be added to the finite. However, the form that the natural scientist considers prevents a certain addition, and therefore according to the natural scientist this is not true, but merely according to imagination. It is similar in the proposed matter, as is clear from things said, since no grace can be greater than that of a comprehensor, nor can a glory be greater than that of a created thing united to God in the person.  
 
@@ -206,7 +208,7 @@ Question 2
 
 ***The grace of Christ as head of the Church***
 
-***Next, we inquire about the grace of the head, and about this two things are asked:***
+Next, we inquire about the grace of the head, and about this two things are asked:  
 
 first, whether Christ, insofar as he is a man, has such a grace that he is the head;  
 
@@ -216,7 +218,7 @@ Article 1
 
 ***Whether Christ is the head of the Church insofar as he is a man***
 
-***To the first we proceed as follows.Parallels: *ST* III.8.1; *De veritate,* q. 29, aa. 4, 5; *Compend. theol*., ch. 214; *Super 1 Cor. 11*, lect. 1; *Super Ephes.* 1, lect. 8; *Super Col.* 1, lect. 5. It appears that Christ is not the head of the Church insofar as he is a man.***
+To the first we proceed as follows.Parallels: *ST* III.8.1; *De veritate,* q. 29, aa. 4, 5; *Compend. theol*., ch. 214; *Super 1 Cor. 11*, lect. 1; *Super Ephes.* 1, lect. 8; *Super Col.* 1, lect. 5. It appears that Christ is not the head of the Church insofar as he is a man.  
 
 Obj. 1: For an animal’s spirit is diffused from its head to its members. But the Holy Spirit is not diffused to the Church from Christ insofar as he is a man, but insofar as he is God; for as Augustine says,Augustine, *On the Trinity*, bk. 15, ch. 19 (CCSL 50A; PL 42:1083). he received the Holy Spirit as man, and he pours it out as God. Therefore he is not the head as man, but as God.  
 
@@ -264,7 +266,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *In IV Sent.*, d. 9, a. 2, resp. 5; d. 49, q. 4, aa. 4, 5; *ST* III.8.4; *De veritate,* q. 29, a. 4; *Compend. theol.*, ch. 214; *Super 1 Cor.* 11, lect. 1; *Super Ephes.* 1, lect. 8. It appears that Christ, insofar as he is a man, is not the head of the angels.***
+To the second we proceed as follows.Parallels: *In IV Sent.*, d. 9, a. 2, resp. 5; d. 49, q. 4, aa. 4, 5; *ST* III.8.4; *De veritate,* q. 29, a. 4; *Compend. theol.*, ch. 214; *Super 1 Cor.* 11, lect. 1; *Super Ephes.* 1, lect. 8. It appears that Christ, insofar as he is a man, is not the head of the angels.  
 
 Obj. 1: For having a common form with its members is of the notion of a head, as was said. But in his nature Christ does not have a common form with the angels, since *it is not with angels that he is concerned but with the descendants of Abraham* (Heb 2:16). Therefore he is not the head of the angels.  
 
@@ -280,7 +282,7 @@ Furthermore, one Church is established from the angels and men. But there cannot
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he is not the head of all men.Parallel: *ST* III.8.3. For one head refers to one body. But all men do not come together in any numerically one thing, since they themselves are different, and the faith, hope, and love by which they are connected to each other are numerically different in diverse men. Therefore he is not the head of all men.***
+Obj. 1: Moreover, it appears that he is not the head of all men.Parallel: *ST* III.8.3. For one head refers to one body. But all men do not come together in any numerically one thing, since they themselves are different, and the faith, hope, and love by which they are connected to each other are numerically different in diverse men. Therefore he is not the head of all men.  
 
 Obj. 2: Further, Christ’s true body is a figure of Christ’s mystical body. But in the true body there is no impure member. Therefore, since many men are corrupted by sin, it appears that Christ is not their head.  
 
@@ -294,7 +296,7 @@ Furthermore (6), all of us will rise through Christ. But this would not be unles
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it appears that he is the head only of souls.Parallel: *ST* III.8.2. For there must be continuity between a head and its members. But the bodies of other men are not continuous with Christ’s body. Therefore he is also not the head of men, with respect to the body, but with respect to their souls only.***
+Obj. 1: Furthermore, it appears that he is the head only of souls.Parallel: *ST* III.8.2. For there must be continuity between a head and its members. But the bodies of other men are not continuous with Christ’s body. Therefore he is also not the head of men, with respect to the body, but with respect to their souls only.  
 
 Obj. 2: Furthermore, insofar as he is a head, he influences the spiritual senses. But bodies are not receptive of senses of this sort. Therefore Christ, as man, is not the head of men with respect to the body, but with respect to souls only.  
 
@@ -306,7 +308,7 @@ Furthermore, he is our head insofar as we are of the same form in nature. But hu
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that Christ, insofar as he is a man, is the head of the angels, yet not properly, nor in the same way as he is of men, on account of two of the conditions [noted above]. First, with respect to conformity of nature, since he belongs with men in his nature, even in virtue of his species, whereas he does not belong with the angels in virtue of species, but in virtue of the genus of intellectual nature. Second, with respect to influence, since he does not influence the angels by removing an impediment, or by meriting grace or praying for them, since they are already blessed. Rather, in those things that pertain to the acts of their hierarchies, insofar as one angel illuminates another, he purifies and perfects them, as was said in Book II*In II Sent.*, d. 9, q. 1, a. 2.; for they receive this from Christ much more eminently.***
+To the first question, I answer that Christ, insofar as he is a man, is the head of the angels, yet not properly, nor in the same way as he is of men, on account of two of the conditions [noted above]. First, with respect to conformity of nature, since he belongs with men in his nature, even in virtue of his species, whereas he does not belong with the angels in virtue of species, but in virtue of the genus of intellectual nature. Second, with respect to influence, since he does not influence the angels by removing an impediment, or by meriting grace or praying for them, since they are already blessed. Rather, in those things that pertain to the acts of their hierarchies, insofar as one angel illuminates another, he purifies and perfects them, as was said in Book II*In II Sent.*, d. 9, q. 1, a. 2.; for they receive this from Christ much more eminently.  
 
 Reply Obj. 1: Although he is not conformed to them in the nature of species, he is nonetheless conformed to them in the nature of genus, as was said.  
 
@@ -316,7 +318,7 @@ Reply Obj. 3: This is understood with respect to the reception of natural proper
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in a natural body we find a fourfold union of its members with each other. The first is with respect to their conformity in nature, since all the members are put together from the same like parts, and are of one notion, as a hand and a foot from flesh and bone; in this way the members are said to be one in genus or species. The second is through their connection with each other through nerves and joints; in this way they are said to be one by continuity. The third is insofar as the vital spirit and powers of the soul are diffused through the whole body. The fourth is insofar as all the members are perfected by the soul, which is one in number in all the members.***
+To the second question, it should be said that in a natural body we find a fourfold union of its members with each other. The first is with respect to their conformity in nature, since all the members are put together from the same like parts, and are of one notion, as a hand and a foot from flesh and bone; in this way the members are said to be one in genus or species. The second is through their connection with each other through nerves and joints; in this way they are said to be one by continuity. The third is insofar as the vital spirit and powers of the soul are diffused through the whole body. The fourth is insofar as all the members are perfected by the soul, which is one in number in all the members.  
 
 And these four unions are found in the mystical body. The first, insofar as all its members are of one nature either in species or genus. The second, insofar as they are connected to each other through the faith, since thereby they are connected in one object of belief. The third, insofar as they are vivified through grace and charity. The fourth, insofar as the Holy Spirit is in them, who is the ultimate and principal perfection of the entire mystical body, as the soul is in the natural body.  
 
@@ -342,7 +344,7 @@ Reply Sed Contra 6: The resurrection to natural life will be common to all men, 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that Christ is the head of men with respect to their souls and bodies, but principally of their souls, and secondarily of their bodies. This is by reason of the conformity to his members, which is through the assumption of human nature, since he assumed the body by the mediation of the soul. It is also so by reason of the spiritual influence, which reaches the body by the mediation of the soul, insofar as the body is the instrument of a soul acting according to grace. And due to this, an order is left within the body toward a glorious resurrection.***
+To the third question, it should be said that Christ is the head of men with respect to their souls and bodies, but principally of their souls, and secondarily of their bodies. This is by reason of the conformity to his members, which is through the assumption of human nature, since he assumed the body by the mediation of the soul. It is also so by reason of the spiritual influence, which reaches the body by the mediation of the soul, insofar as the body is the instrument of a soul acting according to grace. And due to this, an order is left within the body toward a glorious resurrection.  
 
 Reply Obj. 1: Our bodies in a certain way do have a continuity with the body of Christ—not a continuity according to quantity, or one according to natural perfection, but insofar as the Holy Spirit dwells within us, who was most fully in Christ: *do you not know that your body is a temple of the Holy Spirit within you?* (1 Cor 6:19).  
 
@@ -364,7 +366,7 @@ Article 1
 
 ***Whether the grace of union is created***
 
-***To the first we proceed as follows.Parallels: above, d. 2, q. 2, a. 2; d. 5, q. 1, a. 1, resp. 1; d. 7, q. 2, a. 1; *ST* III.2.7. It appears that the grace of union was not created.***
+To the first we proceed as follows.Parallels: above, d. 2, q. 2, a. 2; d. 5, q. 1, a. 1, resp. 1; d. 7, q. 2, a. 1; *ST* III.2.7. It appears that the grace of union was not created.  
 
 Obj. 1: For created grace is a habitual grace. But habit is ordered to activity. Therefore since the union in the person was not according to an activity, but according to existence, it appears that the grace of union is not a created grace.  
 
@@ -424,7 +426,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* III.8.5; *De veritate,* q. 29. a. 5. It appears that the grace of union is the same as the grace of the head.***
+To the second we proceed as follows.Parallels: *ST* III.8.5; *De veritate,* q. 29. a. 5. It appears that the grace of union is the same as the grace of the head.  
 
 Obj. 1: For Christ is called the “head of the Church” insofar as f*rom his fullness we have all received*. But his fullness is in virtue of the fact that he is the only begotten of the Father, as is said in John 1. Therefore, since he is the only begotten of the Father through the grace of union, it appears that the grace of union is the same as the grace of the head.  
 
@@ -438,7 +440,7 @@ Furthermore, the grace of the head was established from the creation of the worl
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the grace of the head is the same as the grace of the individual himself.Parallels: *ST* III.8.5; *De veritate*, q. 29, a. 5. For that by which someone is a knower and a teacher of others is the same knowledge. And according to the Philosopher,Aristotle, *Nicomachean Ethics* 5.2, 1130b30‒1131a5. the virtue by which someone is perfected in himself and the legal justice by which he is perfected in the order to the common good are the same virtue. Therefore by the same habit Christ was perfected in himself and poured his perfection into others.***
+Obj. 1: Moreover, it appears that the grace of the head is the same as the grace of the individual himself.Parallels: *ST* III.8.5; *De veritate*, q. 29, a. 5. For that by which someone is a knower and a teacher of others is the same knowledge. And according to the Philosopher,Aristotle, *Nicomachean Ethics* 5.2, 1130b30‒1131a5. the virtue by which someone is perfected in himself and the legal justice by which he is perfected in the order to the common good are the same virtue. Therefore by the same habit Christ was perfected in himself and poured his perfection into others.  
 
 Obj. 2: Furthermore, grace is the life of the soul. But of one subject there is but one life. Therefore so too one grace. And thus the same thing follows as before.  
 
@@ -450,7 +452,7 @@ Furthermore (5), diverse habits are ordered to diverse acts. But the act of doin
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the grace of the individual person precedes the grace of union.Parallels: *ST* III.6.6; 7.13; *Compend. theol*., ch. 214. For the grace of the individual person contributes to the union’s congruity. But the soul contributes to the congruity of the body's union, and it is understood as united to the body prior to the united soul and body being understood as united to the divine person. Therefore likewise also the grace of the individual in the human nature is prior in understanding to the grace of union.***
+Obj. 1: Moreover, it appears that the grace of the individual person precedes the grace of union.Parallels: *ST* III.6.6; 7.13; *Compend. theol*., ch. 214. For the grace of the individual person contributes to the union’s congruity. But the soul contributes to the congruity of the body's union, and it is understood as united to the body prior to the united soul and body being understood as united to the divine person. Therefore likewise also the grace of the individual in the human nature is prior in understanding to the grace of union.  
 
 Obj. 2: Again, it appears that it is prior to the grace of the head. For something perfect in itself is considered to be prior to its bestowing perfection on another. But the grace of the individual is that by which he is perfect in himself, whereas the grace of the head is that in virtue of which he bestows perfection on another. Therefore the grace of the individual is prior to the grace of the head.  
 
@@ -462,7 +464,7 @@ Furthermore (5), it appears that the grace of the union is prior to the grace of
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that if the habitual grace in a certain way disposing to the union is called the “grace of union,” then the grace of union, the grace of the head, and the grace of this individual man are the same in essence, differing only in notion. For insofar as it perfected Christ’s soul with respect to meritorious acts, it is said to be the “grace of this individual man”; insofar as the fullness of this grace was so great that it could overflow to others, it is called the “grace of the head”; and insofar as so full a grace was fittingly present in the assumed nature, it can in a certain way be called the “grace of union.” But if “grace” is being used to mean God’s grauitous will, then it is again certain that it is one. However, taking the “grace of union” in the other ways, it is certain that it differs from the others by its essence—except insofar as the head is understood as being God.***
+To the first question, I answer that if the habitual grace in a certain way disposing to the union is called the “grace of union,” then the grace of union, the grace of the head, and the grace of this individual man are the same in essence, differing only in notion. For insofar as it perfected Christ’s soul with respect to meritorious acts, it is said to be the “grace of this individual man”; insofar as the fullness of this grace was so great that it could overflow to others, it is called the “grace of the head”; and insofar as so full a grace was fittingly present in the assumed nature, it can in a certain way be called the “grace of union.” But if “grace” is being used to mean God’s grauitous will, then it is again certain that it is one. However, taking the “grace of union” in the other ways, it is certain that it differs from the others by its essence—except insofar as the head is understood as being God.  
 
 Reply Obj. 1: Although from the fact that he is the only begotten he has the fullness of the head, still the union itself is not that fullness.  
 
@@ -484,7 +486,7 @@ Reply Sed Contra 5: In virtue of those acts, he merited for everyone, and exerte
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that those three graces are attributed to Christ according to different considerations about him. For he can be considered in himself or in comparison to others. If he is considered in himself, then this is either insofar as he is God—and then the grace of union is attributed to him—or insofar as he is a man—and thus the grace of the individual is attributed to him. But if he is considered in comparison to others, then the grace of the head is attributed to him. And because someone is considered in himself prior to him in comparison to others, therefore the grace in virtue of which he is the head follows upon the other two graces. And because every grace and perfection of humanity is owed to him in virtue of that man being united to God in the person, therefore the grace of union precedes, according to the order of nature and understanding, the individual grace, even though these three graces are together within the same time.***
+To the third question, it should be said that those three graces are attributed to Christ according to different considerations about him. For he can be considered in himself or in comparison to others. If he is considered in himself, then this is either insofar as he is God—and then the grace of union is attributed to him—or insofar as he is a man—and thus the grace of the individual is attributed to him. But if he is considered in comparison to others, then the grace of the head is attributed to him. And because someone is considered in himself prior to him in comparison to others, therefore the grace in virtue of which he is the head follows upon the other two graces. And because every grace and perfection of humanity is owed to him in virtue of that man being united to God in the person, therefore the grace of union precedes, according to the order of nature and understanding, the individual grace, even though these three graces are together within the same time.  
 
 Reply Obj. 1: The soul completes the notion of human nature, and therefore the union of the soul with the body is understood before the union of the human nature with the Godhead. For considering something in itself is prior to considering it as united to another. But grace contributes nothing to the notion of human nature, since as such it can be assumed. Therefore it is not similar.  
 
@@ -496,7 +498,7 @@ Reply Sed Contra 5: This is clear.
 
 Exposition of the text  
 
-****But in the saints there is, as it were, touch alone*.*Sent.* III, 13.1(38).2. This appears to be false. For Origen, commenting on Leviticus,Origen, *Super Leviticum*, homil. 3, n. 7 (PG 12:432). distinguishes five spiritual senses, saying that vision is spiritual insofar as we see God, hearing insofar as we hear what he says, smell through which we smell the good scent of Christ, taste insofar as we taste his sweetness, and touch insofar as we feel, with John, the Word of life. Now, all of these are in all the saints. Therefore they do not have touch alone. To this one should say that the spiritual senses can be distinguished through a likeness to the bodily senses, and in this way they are in all the saints, as Origen says, or through a likeness to certain properties of the senses, insofar as touch is necessary but the others are not. And in this latter way, since in the other saints are all things that are necessary for salvation, whereas in Christ are all things that pertain simply to the perfection of grace, therefore in Christ are said to be present all the senses, but in the others touch alone.***
+*But in the saints there is, as it were, touch alone*.*Sent.* III, 13.1(38).2. This appears to be false. For Origen, commenting on Leviticus,Origen, *Super Leviticum*, homil. 3, n. 7 (PG 12:432). distinguishes five spiritual senses, saying that vision is spiritual insofar as we see God, hearing insofar as we hear what he says, smell through which we smell the good scent of Christ, taste insofar as we taste his sweetness, and touch insofar as we feel, with John, the Word of life. Now, all of these are in all the saints. Therefore they do not have touch alone. To this one should say that the spiritual senses can be distinguished through a likeness to the bodily senses, and in this way they are in all the saints, as Origen says, or through a likeness to certain properties of the senses, insofar as touch is necessary but the others are not. And in this latter way, since in the other saints are all things that are necessary for salvation, whereas in Christ are all things that pertain simply to the perfection of grace, therefore in Christ are said to be present all the senses, but in the others touch alone.  
 
 *To them was given the spirit according to measure*.*Sent*. III, 13.1(38).2. Against this, James 1:5 says God *gives to all men generously*, and a Gloss says, *he gives all things without measure, since his gifts are not according to measure*.source? And to this it should be said that “to be given with measure” can be taken either from the largess of the giver—and thus he gives to no one with measure, because he gives to all from his infinite largess—or from the capacity of the recipient—and thus he gives to each with measure, because he gives to no one beyond what has the capacity for—or according to the notion of the thing given—and thus he does not give to Christ with measure, since his grace, according to the notion of grace, is not limited, but he gives to others with measure, as is clear from things said.  
 

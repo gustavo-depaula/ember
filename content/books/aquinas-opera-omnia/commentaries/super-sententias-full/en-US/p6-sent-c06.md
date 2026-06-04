@@ -1,8 +1,10 @@
 # D. 28 - The command to love one's neighbor
 
+***The command to love one's neighbor***
+
 ***Division of the text***
 
-****Here it can be asked whether by that commandment of love of neighbor we are commanded to love our whole neighbor, that is, soul and body*.*Sent.* III, 28.1(104).1. Here, the Master determines the truth about charity in point of its comparison to the object of love.***
+*Here it can be asked whether by that commandment of love of neighbor we are commanded to love our whole neighbor, that is, soul and body*.*Sent.* III, 28.1(104).1. Here, the Master determines the truth about charity in point of its comparison to the object of love.  
 
 This consideration is divided into two parts.  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Whether virtues should be loved from charity***
 
-***To the first we proceed thus.Parallels: *In I Sent.*, d. 17, q. 1, a. 5; *ST* II-II.25.2; *Super Rom.* 12, lect. 2. It seems that virtues should be loved from charity.***
+To the first we proceed thus.Parallels: *In I Sent.*, d. 17, q. 1, a. 5; *ST* II-II.25.2; *Super Rom.* 12, lect. 2. It seems that virtues should be loved from charity.  
 
 Obj. 1: For Augustine says, *he who loves his brother, loves more the love by which he loves*.Augustine, *On the Trinity*, bk. 8, ch. 8 (CCSL 50; PL 42:957). But the love by which a neighbor is loved is the virtue of charity. Therefore virtues should be loved from charity, since the neighbor is loved from charity.  
 
@@ -86,7 +88,7 @@ Article 2
 
 ***Whether irrational creatures are to be loved from charity***
 
-***To the second we proceed thus.Parallels: *ST* II-II.25.3; *De caritate,* a. 7. It seems that irrational creatures are to be loved from charity.***
+To the second we proceed thus.Parallels: *ST* II-II.25.3; *De caritate,* a. 7. It seems that irrational creatures are to be loved from charity.  
 
 Obj. 1: For every meritorious love pertains to charity. But a person can love irrational things meritoriously, as when he loves them by referring them to God, or loves them because they are made by God or because they aid those who are on their way to God. Therefore irrational creatures are to be loved from charity.  
 
@@ -116,7 +118,7 @@ Article 3
 
 ***Whether angels are to be loved from charity***
 
-***To the third we proceed thus.Parallels: *ST* II-II.25.10; *De caritate*, a. 7, ad 9; *Super Rom*. 13, lect. 2. It seems that angels are not to be loved from charity.***
+To the third we proceed thus.Parallels: *ST* II-II.25.10; *De caritate*, a. 7, ad 9; *Super Rom*. 13, lect. 2. It seems that angels are not to be loved from charity.  
 
 Obj. 1: For as was said before,Aa. 1, 2. man’s charity does not extend to things that do not share in human life. But angels do not live a human life. Therefore charity does not bring it about that men love angels.  
 
@@ -144,7 +146,7 @@ Article 4
 
 ***Whether we ought to have charity for evil people***
 
-***To the fourth we proceed thus.Parallels: *In II Sent*., d. 7, q. 3, a. 2, ad 2; *ST* II-II.25.6; *De caritate*, a. 8, ad 8, 9; *De duobus praeceptis caritatis*, a. 2; *Super Gal.* 6, lect. 2. It seems that we cannot have charity toward evil men.***
+To the fourth we proceed thus.Parallels: *In II Sent*., d. 7, q. 3, a. 2, ad 2; *ST* II-II.25.6; *De caritate*, a. 8, ad 8, 9; *De duobus praeceptis caritatis*, a. 2; *Super Gal.* 6, lect. 2. It seems that we cannot have charity toward evil men.  
 
 Obj. 1: For charity requires sharing in the divine life, which comes about through grace, as was said.*In II Sent*., d. 27, q. 2, a. 2. But this divine life is not in sinners. Therefore they are not to be loved from charity.  
 
@@ -176,7 +178,7 @@ Article 5
 
 ***Whether demons are to be loved from charity***
 
-***To the fifth we proceed thus.Parallels: below, d. 31, q. 2, a. 3, resp. 1; *ST* II-II.25.11; *De caritate*, a. 8, ad 9; *Super Rom*. 13, lect. 2. It seems that demons are to be loved from charity.***
+To the fifth we proceed thus.Parallels: below, d. 31, q. 2, a. 3, resp. 1; *ST* II-II.25.11; *De caritate*, a. 8, ad 9; *Super Rom*. 13, lect. 2. It seems that demons are to be loved from charity.  
 
 Obj. 1: For Leviticus 19:18 states: *love your neighbor*, on which a gloss reads: *neighbor should not be understood in terms of nearness of blood but in terms of the fellowship of reason*. But demons and the damned have fellowship with us in reason; they should therefore be loved from charity.  
 
@@ -206,7 +208,7 @@ Article 6
 
 ***Whether man ought to love himself from charity***
 
-***To the sixth we proceed thus.Parallels: *ST* II-II.25.4; *De caritate*, a. 7. It seems that a man ought not to love himself from charity.***
+To the sixth we proceed thus.Parallels: *ST* II-II.25.4; *De caritate*, a. 7. It seems that a man ought not to love himself from charity.  
 
 Obj. 1: For, as Gregory says, *charity cannot exist between fewer than two*.Gregory the Great, *Homilae in Evangelia*, bk. 1, hom. 17, para. 1 (CCSL 141:117; PL 76:1139). Therefore it cannot exist in someone with regard to himself.  
 
@@ -240,7 +242,7 @@ Article 7
 
 ***Whether our bodies are to be loved from charity***
 
-***To the seventh we proceed thus.Parallels: *ST* II-II.52.5; *De caritate*, a. 7. It seems that our bodies are not be loved from charity.***
+To the seventh we proceed thus.Parallels: *ST* II-II.52.5; *De caritate*, a. 7. It seems that our bodies are not be loved from charity.  
 
 Obj. 1: For charity does not flee from involvement with that to which charity is extended. Yet charity makes one flee from involvement with the body, as is clear from Romans 7:24: *Who will rescue me from this body of death?* Therefore the body is not to be loved from charity.  
 
@@ -270,7 +272,7 @@ Reply Obj. 5: The neighbor’s body and soul stand in the same relationship to t
 
 Exposition of the text  
 
-****No precepts need to be given concerning the second and fourth of these [that is, ourselves and our body.]**Sentences* III, 28.1(104).2, citing Augustine, *On Christian Doctrine*, bk. 1, ch. 23, n. 22 (CCSL 32; PL 34:27). On the contrary: law ought universally to direct a man concerning everything that pertains to the virtues. Moreover, the love of God was likewise naturally implanted in all things. It should be said in reply that speculative knowledge is related to things to be known in just the way that the law stands to things to be done. Hence, just as in a speculative science instruction is not given about principles per se known, since they are known to us by nature, but only about conclusions known through them, so neither does the law make an explicit determination about the love of self to which nature inclines, but rather does this about the love of neighbor arising out of that love as conclusions arise from principles. Now, while it is true that the love of God is naturally implanted in us, we do not love God by this natural love in the same way as we love him by charity, as was said above. Furthermore, from the very fact that we are commanded to love God spiritually, we are taught to love ourselves spiritually as well.***
+*No precepts need to be given concerning the second and fourth of these [that is, ourselves and our body.]**Sentences* III, 28.1(104).2, citing Augustine, *On Christian Doctrine*, bk. 1, ch. 23, n. 22 (CCSL 32; PL 34:27). On the contrary: law ought universally to direct a man concerning everything that pertains to the virtues. Moreover, the love of God was likewise naturally implanted in all things. It should be said in reply that speculative knowledge is related to things to be known in just the way that the law stands to things to be done. Hence, just as in a speculative science instruction is not given about principles per se known, since they are known to us by nature, but only about conclusions known through them, so neither does the law make an explicit determination about the love of self to which nature inclines, but rather does this about the love of neighbor arising out of that love as conclusions arise from principles. Now, while it is true that the love of God is naturally implanted in us, we do not love God by this natural love in the same way as we love him by charity, as was said above. Furthermore, from the very fact that we are commanded to love God spiritually, we are taught to love ourselves spiritually as well.  
 
 *No one has ever hated his own flesh.**Sent*. III, 28.1(104).2, citing Ephesians 5:29. On the contrary: Many commit suicide owing to their abundant malice, as the Philosopher says in the *Ethics* 9.Aristotle, *Nicomachean Ethics* 9.4, 1166b8–9. It should be said in reply that each and every man naturally loves his bodily life; but the fact that some long for bodily death occurs incidentally, either insofar as bodily life is an impediment to some good they love more than bodily life, as happens in those who seek another life after death, or insofar as evils in some way accompany their bodily life, which evils they judge it better to be without rather than to continue having bodily life.  
 

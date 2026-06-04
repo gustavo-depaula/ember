@@ -1,8 +1,10 @@
 # D. 31 - Appropriations of the divine persons
 
+***Appropriations of the divine persons***
+
 ***Division of the text***
 
-***Having considered things proper to the persons, here he considers things that are appropriated to them. And it is divided into two parts: in the first, he determines what things are appropriated to the persons; in the second, he asks how the divine persons are compared to each other according to those appropriations, in Distinction 32: *here arises a question*.*Sent*. I, 32.1(137).1.***
+Having considered things proper to the persons, here he considers things that are appropriated to them. And it is divided into two parts: in the first, he determines what things are appropriated to the persons; in the second, he asks how the divine persons are compared to each other according to those appropriations, in Distinction 32: *here arises a question*.*Sent*. I, 32.1(137).1.  
 
 The first is divided into two parts: first, he considers the significations of certain names that are appropriated to the divine persons; in the second, he treats the diverse appropriations offered by saints, at *nor should we here pass over*.*Sent*. I, 31.2(132).1.  
 
@@ -36,7 +38,7 @@ Question 1
 
 ***Whether equality asserts something in the divine***
 
-***As regards the first, having supposed the things said earlier about equality, one asks whether “equality” asserts anything in the divine.Parallel texts: *In I Sent*., d. 19, q. 1, a. 1; *ST* I.42.1. It seems that it does.***
+As regards the first, having supposed the things said earlier about equality, one asks whether “equality” asserts anything in the divine.Parallel texts: *In I Sent*., d. 19, q. 1, a. 1; *ST* I.42.1. It seems that it does.  
 
 Obj. 1: For whatever is in God and created things is nobler in God than in the created. But “equality” and “likeness” assert something in what is created. Therefore so too in God.  
 
@@ -66,9 +68,9 @@ Reply Obj. 4: That relation cannot really be in God, and therefore it does not f
 
 Article 2  
 
-***Whether the essential attributes of this sort ought to be appropriated to the persons***
+Whether the essential attributes of this sort ought to be appropriated to the persons  
 
-***To the second we proceed as follows.Parallel texts: *ST* I.39.7; *On Truth*, q. 7, a. 3. It seems that essential attributes of this sort should not be appropriated to the divine persons.***
+To the second we proceed as follows.Parallel texts: *ST* I.39.7; *On Truth*, q. 7, a. 3. It seems that essential attributes of this sort should not be appropriated to the divine persons.  
 
 Obj. 1: For what is common to several ought not to be appropriated to any one of them. But all the essential attributes are common to the three persons. Therefore and so on.  
 
@@ -108,9 +110,9 @@ second, Augustine’s explanation when he says that the image is co-equal with h
 
 Article 1  
 
-***Whether Hilary suitably appropriates eternity to the Father, species to the Son, use to the Holy Spirit***
+Whether Hilary suitably appropriates eternity to the Father, species to the Son, use to the Holy Spirit  
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 14, exposition of the text; d. 34, q. 2; d. 36, q. 1, a. 3, ad 5; *ST* I.39.8; *On Truth*, q. 1, a. 7; q. 7, a. 3; *Commentary on Romans*, ch. 11, lect. 5; *Commentary on 2 Corinthians*, ch. 13, lect. 3. It seems that Hilary’s appropriation is unsuitable.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 14, exposition of the text; d. 34, q. 2; d. 36, q. 1, a. 3, ad 5; *ST* I.39.8; *On Truth*, q. 1, a. 7; q. 7, a. 3; *Commentary on Romans*, ch. 11, lect. 5; *Commentary on 2 Corinthians*, ch. 13, lect. 3. It seems that Hilary’s appropriation is unsuitable.  
 
 Obj. 1: For according to Augustine,Augustine, *On the Trinity*, bk. 6, ch. 10 (CCSL 50; PL 42:931). appropriations of this sort occur for the sake of excluding error; thus, power is appropriated to the Father lest he be believed to be weak, as is the case with our own fathers, on account of their old age. But no one has erred about the eternity of the Father, the way Arius has about the eternity of the Son. Therefore eternity should be appropriated more to the Son than to the Father.Hilary appropriates “eternity” (*aeternitas*), “form” (*species*), and “use” (*usus*) to the Father, the Son, and the Holy Spirit, respectively; see Hilary, *On the Trinity*, bk. 2, ch. 1 (CCSL 62; PL 10:51).  
 
@@ -158,9 +160,9 @@ second, about his saying that all are one on account of the Father.
 
 Article 1  
 
-***Whether Augustine suitably appropriates unity to the Father, equality to the Son, and binding to the Holy Spirit***
+Whether Augustine suitably appropriates unity to the Father, equality to the Son, and binding to the Holy Spirit  
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 14, exposition of the text; d. 34, q. 2; d. 36, q. 1, a. 3, ad 5; *ST* I.39.8; *On Truth*, q. 1, a. 7; q. 7, a. 3; *Commentary on Romans*, ch. 11, lect. 5; *Commentary on 2 Corinthians*, ch. 13, lect. 3. It seems that Augustine’s appropriation is not suitable.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 14, exposition of the text; d. 34, q. 2; d. 36, q. 1, a. 3, ad 5; *ST* I.39.8; *On Truth*, q. 1, a. 7; q. 7, a. 3; *Commentary on Romans*, ch. 11, lect. 5; *Commentary on 2 Corinthians*, ch. 13, lect. 3. It seems that Augustine’s appropriation is not suitable.  
 
 Obj. 1: For above it was said*In I Sent*., d. 10, q. 1, a. 3. that the Holy Spirit is the unity of the two. Therefore it seems that “unity” would not be appropriated to the Father, but to the Holy Spirit.  
 
@@ -192,7 +194,7 @@ Article 2
 
 ***Whether all are one on account of the Father***
 
-***To the second we proceed as follows. What Augustine says seems to be false.Augustine, *On Christian Doctrine*, bk. 1, ch. 5 (CCSL 32; PL 34:21): *in Patre unitas, in Filio aequalitas, in Spiritu Sancto unitatis aequalitatisque concordia. Et tria haec unum omnia propter Patrem, aequalia omnia propter Filium, connexa omnia propter Spiritum Sanctum*; “in the Father is unity, in the Son equality, in the Holy Spirit the concord of unity and equality; and all three are one because of the Father, all are equal on account of the Son, and all are bound together on account of the Holy Spirit.”***
+To the second we proceed as follows. What Augustine says seems to be false.Augustine, *On Christian Doctrine*, bk. 1, ch. 5 (CCSL 32; PL 34:21): *in Patre unitas, in Filio aequalitas, in Spiritu Sancto unitatis aequalitatisque concordia. Et tria haec unum omnia propter Patrem, aequalia omnia propter Filium, connexa omnia propter Spiritum Sanctum*; “in the Father is unity, in the Son equality, in the Holy Spirit the concord of unity and equality; and all three are one because of the Father, all are equal on account of the Son, and all are bound together on account of the Holy Spirit.”  
 
 Obj. 1: For because this preposition “on account of” (*propter*) indicates the bearing of a cause, when it is said that “all things are one on account of the Father,” this would indicate either the bearing, as it were, of an efficient cause or, as it were, of a form. If it is as of a form, then it is false, since the Son, formally speaking, is not one with the Father, but with the divine essence, or with his own property, or with his very self. If it is as of an efficient cause, then it will be the same thing to say the Son has unity “on account of the Father” as to say he has unity “from the Father.” But just as the Son has unity from the Father, so does he have equality as well. Therefore, just as all are said to be one on account of the Father, all are said to be equal on account of the Father. And then there would be no distinction.  
 
@@ -214,7 +216,7 @@ Reply Obj. 3: The reply to this is clear because all are said to be equal on acc
 
 Exposition of the text  
 
-****Moreover, . . . it is necessary to consider*.*Sent*. I, 31.1(131).1. He asks about three things pertaining to equality, and first, whether it is being said relatively or absolutely. To this he answers, relatively, at *to which we say*.*Sent*. I, 31.1(131).1. Second, he asks relative to what is he attending to equality: to the unity of essence, or to the unity of relation; and he shows that it is relative to the unity of the essence. And therefore equality is spoken of according to essence, at *and yet the Son is equal to the Father*.*Sent*. I, 31.1(131).1. Third, he asks what the equality is, and to this he responds that it is a relation in God only according to name, at *and only the name is relative*.*Sent*. I, 31.1(131).1.***
+*Moreover, . . . it is necessary to consider*.*Sent*. I, 31.1(131).1. He asks about three things pertaining to equality, and first, whether it is being said relatively or absolutely. To this he answers, relatively, at *to which we say*.*Sent*. I, 31.1(131).1. Second, he asks relative to what is he attending to equality: to the unity of essence, or to the unity of relation; and he shows that it is relative to the unity of the essence. And therefore equality is spoken of according to essence, at *and yet the Son is equal to the Father*.*Sent*. I, 31.1(131).1. Third, he asks what the equality is, and to this he responds that it is a relation in God only according to name, at *and only the name is relative*.*Sent*. I, 31.1(131).1.  
 
 *For if an image perfectly renders that whose image it is, then the image is compared to that of which it is the image, and not the latter to its image*.*Sent*. I, 31.2(132).2, quoting Augustine, *On the Trinity*, bk. 6, ch. 10 (CCSL 50; PL 42:931). From this it seems that in the divine there is no mutual equality, if the Father is not compared to his image. But one should say to this that, just as the Son is equal to the Father, so also the Father is equal to the Son, since the quantity of power is perfectly in each of them. But “compare” signifies motion toward co-equality, and even though in the divine there is no motion, still a reception of equality is there, and because the Son receives equality from the Father, and not vice versa, therefore the Son is compared to the Father and not vice versa.  
 

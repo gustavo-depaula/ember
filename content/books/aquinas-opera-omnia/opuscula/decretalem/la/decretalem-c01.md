@@ -1,8 +1,10 @@
 # I - On the Trinity and the Catholic Faith
 
+***De summa Trinitate et fide catholica***
+
 ***Concilium Lateranense IV, cap. 1***
 
-***Firmiter credimus et simpliciter confitemur, quod unus solus est verus Deus, aeternus, immensus et incommutabilis, incomprehensibilis, omnipotens et ineffabilis,***
+Firmiter credimus et simpliciter confitemur, quod unus solus est verus Deus, aeternus, immensus et incommutabilis, incomprehensibilis, omnipotens et ineffabilis,  
 
 > Pater et Filius et Spiritus Sanctus: tres quidem personae, sed una essentia, substantia seu natura simplex omnino; Pater a nullo, Filius autem a Patre solo ac Spiritus Sanctus pariter ab utroque, absque initio, semper ac sine fine; Pater generans, Filius nascens et Spiritus Sanctus procedens; consubstantiales, et coaequales, et coomnipotentes, et coaeterni; unum universorum principium;
 

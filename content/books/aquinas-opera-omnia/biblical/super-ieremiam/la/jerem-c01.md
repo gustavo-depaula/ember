@@ -1,6 +1,8 @@
 # Prologue of St. Thomas
 
-***Hic est fratrum amator, et populi Israel; hic est qui multum orat pro populo et universa sancta civitate, Jeremias propheta Dei.***
+***2 Machabaeorum 15:14***
+
+Hic est fratrum amator, et populi Israel; hic est qui multum orat pro populo et universa sancta civitate, Jeremias propheta Dei.  
 
 > Verba ista sunt Oniae summi sacerdotis ad Judam Machabaeum, in visione Jeremiam commendantis. Ex quibus quatuor possunt accipi circa praesens opus quod prae manibus habetur; scilicet auctor, materia, modus, et utilitas.
 

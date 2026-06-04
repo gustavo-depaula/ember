@@ -1,8 +1,10 @@
 # D. 43 - Whether the power of God is limited to realities that occur
 
+***Utrum Dei potentia limitetur ad res quae fiunt***
+
 ***Divisio textus***
 
-***Hic Magister excludit errorem quorumdam contra praedeterminata, qui Dei potentiam limitabant, dicentes non simpliciter omnium esse Dei potentiam; et dividitur in partes duas: in prima improbat errorem eorum, inquantum limitabant Dei potentiam ad res quae fiunt; in secunda inquantum limitabant ad qualitatem earum; dicebant enim nec alia nec meliora posse Deum facere quam quae facit, 44 dist., ibi: *nunc illud restat discutiendum utrum melius aliquid possit facere quam facit*.***
+Hic Magister excludit errorem quorumdam contra praedeterminata, qui Dei potentiam limitabant, dicentes non simpliciter omnium esse Dei potentiam; et dividitur in partes duas: in prima improbat errorem eorum, inquantum limitabant Dei potentiam ad res quae fiunt; in secunda inquantum limitabant ad qualitatem earum; dicebant enim nec alia nec meliora posse Deum facere quam quae facit, 44 dist., ibi: *nunc illud restat discutiendum utrum melius aliquid possit facere quam facit*.  
 
 Prima in tres: in prima narrat eorum positionem; in secunda ponit probationes eorum, et solvit eas, ibi: *istamque primam suam opinionem verisimilibus argumentis, causisque commentitiis, nec non et sacrarum auctoritatum testimoniis munire conantur*; in tertia inducit auctoritates ad veritatem probandam, ibi: *fateamur ergo Deum plura posse facere quae non vult, et posse dimittere quae facit*.  
 
@@ -64,7 +66,7 @@ Articulus 2
 
 ***Utrum omnipotentia Dei possit communicari creaturae***
 
-***Ad secundum sic proceditur. Videtur quod omnipotentia Dei creaturae communicari possit.***
+Ad secundum sic proceditur. Videtur quod omnipotentia Dei creaturae communicari possit.  
 
 Omnipotentia enim Dei non est dignior quam sua bonitas. Sed bonitas ejus communicatur creaturis. Ergo et omnipotentia.  
 
@@ -92,7 +94,7 @@ Quaestio 2
 
 ***De necessitate divinae operationis***
 
-***Deinde quaeritur de necessitate divinae operationis; et circa hoc quaeruntur duo:***
+Deinde quaeritur de necessitate divinae operationis; et circa hoc quaeruntur duo:  
 
 primo utrum operetur ex necessitate naturae;  
 
@@ -170,6 +172,6 @@ Ad sextum dicendum, quod dicitur Deus non posse injuste facere, non propter just
 
 Expositio textus  
 
-****His autem respondemus duplicem verborum intelligentiam aperientes*.Al. omit the title *expositio textus* and join these words that follow to the reply to the sixth objection. Solutio Magistri in hoc consistit, quod, cum dicitur Deus non potest facere nisi quod justum est, hoc quod dico, justum, potest intelligi prius conjungi cum hoc verbo, est, a quo restringitur ad standum pro praesentibus, quam cum hoc verbo, potest; et sic falsa est. Est enim sensus: Deus non potest facere nisi id quod modo justum est: quod falsum est. Potest enim facere quaedam quae modo nihil sunt.***
+*His autem respondemus duplicem verborum intelligentiam aperientes*.Al. omit the title *expositio textus* and join these words that follow to the reply to the sixth objection. Solutio Magistri in hoc consistit, quod, cum dicitur Deus non potest facere nisi quod justum est, hoc quod dico, justum, potest intelligi prius conjungi cum hoc verbo, est, a quo restringitur ad standum pro praesentibus, quam cum hoc verbo, potest; et sic falsa est. Est enim sensus: Deus non potest facere nisi id quod modo justum est: quod falsum est. Potest enim facere quaedam quae modo nihil sunt.  
 
 Vel potest prius intelligi conjungi cum hoc verbo, potest, habente vim ampliandi, quam cum hoc verbo, est; et in hoc sensu est vera: quia sic hoc nomen, justum, supponit pro praesenti confuso non secundum aliquod determinatum tempus. Et est sensus: Deus non potest facere aliquid quod non est justum, in quocumque tempore ponatur ab eo factum; et per modum istum proceduntParma: *solvuntur*. omnes objectiones.

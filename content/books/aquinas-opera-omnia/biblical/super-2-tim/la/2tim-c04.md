@@ -1,8 +1,10 @@
 # C. 3 - The Last Days
 
+***Lectio 1***
+
 ***Homines in novissimis diebus***
 
-***^3:1^ Hoc autem scito, quod in novissimis diebus instabunt tempora periculosa: [n. 89]***
+^3:1^ Hoc autem scito, quod in novissimis diebus instabunt tempora periculosa: [n. 89]  
 
 > ^3:2^ erunt homines seipsos amantes, cupidi, elati, superbi, blasphemi, parentibus non obedientes, ingrati, scelesti, [n. 91]
 
@@ -110,7 +112,7 @@ Lectio 2
 
 ***Insipientia manifesta***
 
-***^3:5^ Habentes speciem quidem pietatis, virtutem autem ejus abnegantes. Et hos devita:***
+^3:5^ Habentes speciem quidem pietatis, virtutem autem ejus abnegantes. Et hos devita:  
 
 > ^3:6^ ex his enim sunt qui penetrant domos, et captivas ducunt mulierculas oneratas peccatis, quae ducuntur variis desideriis: [n. 104]
 
@@ -222,7 +224,7 @@ Lectio 3
 
 ***Omnes Christiani persecutionem patientur***
 
-***^3:12^ Et omnes, qui pie volunt vivere in Christo Jesu, persecutionem patientur. [n. 116]***
+^3:12^ Et omnes, qui pie volunt vivere in Christo Jesu, persecutionem patientur. [n. 116]  
 
 > ^3:13^ Mali autem homines et seductores proficient in pejus, errantes, et in errorem mittentes. [n. 118]
 

@@ -1,5 +1,7 @@
 # Chapter 54
 
+^54:1^ Lauda sterilis quæ non paris, decanta laudem et hinni quæ non pariebas, quoniam multi filii desertæ magis quam ejus quæ habet virum, dicit Dominus.  
+
 > ^54:2^ Dilata locum tentorii tui et pelles tabernaculorum tuorum extende; ne parcas, longos fac funiculos tuos et clavos tuos consolida.
 
 > ^54:3^ Ad dexteram enim et ad lævam penetrabis et semen tuum gentes hæreditabit et civitates desertas inhabitabit.

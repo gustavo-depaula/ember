@@ -1,5 +1,7 @@
 # Proposition 6
 
+57. Causa prima superior est narratione, et non deficiunt linguae a narratione eius nisi propter narrationem esse ipsius, quoniam ipsa est supra omnem causam et non narratur nisi per causas secundas, quae illuminantur a lumine causae primae.  
+
 > 58. Quod est, quoniam causa prima non cessat illuminare causatum suum et ipsa non illuminatur a lumine alio, quoniam ipsa est lumen purum, supra quod non est lumen.
 
 > 59. Ex illo ergo facta est prima sola, cuius deficit narratio; et non est ita, nisi quia supra ipsam non est causa, per quam cognoscatur.

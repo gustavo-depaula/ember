@@ -1,10 +1,12 @@
 # C. 9 - Enumeration of punishments
 
+***Enumeration of punishments***
+
 ***Lecture 1***
 
 ***Sins against neighbors***
 
-***^9:1^ Who shall give water to my head and a wellspring of tears to my eyes? And I will cry day and night for the slain of the daughter of my people.***
+^9:1^ Who shall give water to my head and a wellspring of tears to my eyes? And I will cry day and night for the slain of the daughter of my people.  
 
 > ^9:2^ Who will give me in the wilderness a lodging place for wayfarers? And I will leave my people and depart from them. For they are all adulterers, an assembly of transgressors.
 
@@ -52,7 +54,7 @@ Lecture 2
 
 ***Vengeance on the deceitful***
 
-***^9:7^ Therefore, thus says the Lord of hosts: I shall melt them and test them, for what else should I do for the daughter of my people?***
+^9:7^ Therefore, thus says the Lord of hosts: I shall melt them and test them, for what else should I do for the daughter of my people?  
 
 > ^9:8^ Their tongue is a wounding arrow; it has spoken fraudulently. With their mouths they speak peaceably to their neighbors, but secretly they lie in wait for him.
 
@@ -80,7 +82,7 @@ Lecture 3
 
 ***Israel as a wasteland***
 
-***^9:10^ I will take up a lament for the mountains, and a wailing, and for the beautiful places of the wilderness a lament, for they are burned so that no man may pass through them, and they heard not the voice of their owner; from the bird of the heaven to the cattle, they have gone away and departed.***
+^9:10^ I will take up a lament for the mountains, and a wailing, and for the beautiful places of the wilderness a lament, for they are burned so that no man may pass through them, and they heard not the voice of their owner; from the bird of the heaven to the cattle, they have gone away and departed.  
 
 > ^9:11^ And I will make Jerusalem to be heaps of sand and the lair of dragons; and the cities of Judah I will make desolate, so that there be no inhabitant.
 
@@ -122,7 +124,7 @@ Lecture 4
 
 ***Lament over desolation***
 
-***^9:15^ Therefore, thus says the Lord of Hosts, the God of Israel, behold, I will feed them with wormwood and give them water of gall to drink.***
+^9:15^ Therefore, thus says the Lord of Hosts, the God of Israel, behold, I will feed them with wormwood and give them water of gall to drink.  
 
 > ^9:16^ And I will scatter them among the nations, which they have not known, neither they nor their fathers, and I shall send a sword after them until they are consumed.
 
@@ -160,7 +162,7 @@ Lecture 5
 
 ***The unburied dead***
 
-***^9:22^ Speak, thus says the Lord: the carcasses of men shall fall as dung upon the face of the field, and as grass behind the back of the reaper, and there is none who may gather them.***
+^9:22^ Speak, thus says the Lord: the carcasses of men shall fall as dung upon the face of the field, and as grass behind the back of the reaper, and there is none who may gather them.  
 
 > **66**. Here, he speaks of their punishment with regard to the bodies themselves which remained unburied: ***as grass***, which is neglected by the reaper as something of little value. *Their dead bodies have become like dung in the midst of the streets* (Isa 5:25).
 
@@ -168,7 +170,7 @@ Lecture 6
 
 ***Glory in the Lord***
 
-***^9:23^ Thus says the Lord: let not the wise glory in his wisdom, nor the strongman in his strength, nor the rich man in his riches.***
+^9:23^ Thus says the Lord: let not the wise glory in his wisdom, nor the strongman in his strength, nor the rich man in his riches.  
 
 > ^9:24^ But let him who glories glory in this, that he understands, and knows me, because I am the Lord who does mercy, and judgment, and justice in the land; for these things please me, says the Lord.
 
@@ -184,7 +186,7 @@ Second, he excludes confidence in the ceremonies of the Law, and particularly in
 
 Collations  
 
-***Note that a man ought not to glory ***in wisdom*** (Jer 9:23), because it is transitory. *The wisdom of his wise men shall perish, and the understanding of his prudent men shall be hidden* (Isa 29:14). Because it is imperfect: *I understood that man can find no reason for all the works of God that are done under the sun* (Eccl 8:17). Because it is harmful: *knowledge puffs up, but charity edifies* (1 Cor 8:1). Because it is attended with much labor: *in much wisdom is much indignation; and he who adds learning adds labor also* (Eccl 1:18).***
+Note that a man ought not to glory ***in wisdom*** (Jer 9:23), because it is transitory. *The wisdom of his wise men shall perish, and the understanding of his prudent men shall be hidden* (Isa 29:14). Because it is imperfect: *I understood that man can find no reason for all the works of God that are done under the sun* (Eccl 8:17). Because it is harmful: *knowledge puffs up, but charity edifies* (1 Cor 8:1). Because it is attended with much labor: *in much wisdom is much indignation; and he who adds learning adds labor also* (Eccl 1:18).  
 
 Also, one ought not to glory ***in strength*** (Jer 9:23), because it is fragile. *Neither is my strength the strength of stones, nor is my flesh bronze* (Job 6:12). Because it is frequently useless: *I saw that under the sun the race is not to the swift, nor war to the strong, nor bread to the wise, nor riches to the teacher, nor favor to the craftsman; but time and chance happen to them all* (Eccl 9:11). Because it is not pleasing to God: *his desire will not be in the strength of the horse, nor his good pleasure in the legs of men* (Ps 146:10). Because it is an occasion of sin: *but let our strength be the law of justice; for what is weak is found useless* (Wis 2:11).  
 

@@ -1,8 +1,10 @@
 # On God
 
+***Quaestio 1***
+
 ***Quantum ad naturam divinam***
 
-***Quaesitum est de Deo, de angelis, de hominibus et de creaturis pure corporalibus.***
+Quaesitum est de Deo, de angelis, de hominibus et de creaturis pure corporalibus.  
 
 De Deo quaesitum est et quantum ad naturam divinam, et quantum ad naturam assumptam.  
 
@@ -16,7 +18,7 @@ Articulus 1
 
 ***Utrum Deus possit facere quod materia sit sine forma***
 
-***Ad primum sic proceditur. Videtur quod Deus possit facere quod materia sit sine forma.***
+Ad primum sic proceditur. Videtur quod Deus possit facere quod materia sit sine forma.  
 
 Sicut enim materia secundum suum esse dependet a forma, ita accidens a subiecto; sed Deus potest facere quod accidens sit sine subiecto, ut patet in sacramento altaris; ergo potest facere quod materia sit sine forma.  
 
@@ -32,7 +34,7 @@ Articulus 2
 
 ***Utrum possit facere quod idem corpus simul localiter sit in duobus locis***
 
-***Ad secundum sic proceditur. Videtur quod Deus possit facere unum corpus simul esse localiter in duobus locis.***
+Ad secundum sic proceditur. Videtur quod Deus possit facere unum corpus simul esse localiter in duobus locis.  
 
 Difficilius enim est quod haec substantia mutetur in illam substantiam quam quod hoc accidens mutetur in illud accidens; sed in sacramento altaris ex hoc quod divina virtute substantia panis, remanentibus eius dimensionibus secundum quas commensuratur loco, convertitur in substantiam corporis Christi, sequitur quod idem corpus Christi sit, non localiter secundum commensurationem propriarum dimensionum, sed sacramentaliter, in pluribus locis simul; ergo Deus potest facere quod convertatur dimensio huius corporis in dimensionem alterius corporis; et sic erit idem corpus localiter in duobus locis simul.  
 
@@ -46,7 +48,7 @@ Quaestio 2
 
 ***Quantum ad naturam assumptam***
 
-***Deinde quaesitum est de Deo quantum ad humanam naturam assumptam. Et circa hoc quaesita sunt tria:***
+Deinde quaesitum est de Deo quantum ad humanam naturam assumptam. Et circa hoc quaesita sunt tria:  
 
 primo quantum ad animam, utrum scilicet anima Christi sciat infinita;  
 
@@ -84,7 +86,7 @@ Articulus 2
 
 ***Quantum ad corpus***
 
-***Ad secundum sic proceditur. Videtur quod oculus Christi post mortem non fuerit equivoce oculus.***
+Ad secundum sic proceditur. Videtur quod oculus Christi post mortem non fuerit equivoce oculus.  
 
 Corpus enim Christi et quaelibet partium eius sustentificatur per hypostasim Dei Verbi; sed hypostasis Verbi Dei mansit unita corpori Christi et partibus eius post mortem; ergo fuit idem secundum substantiam corpus Christi post mortem et ante, secundum totum et secundum omnes partes eius; non ergo oculus Christi fuit equivoce oculus post mortem.  
 
@@ -106,7 +108,7 @@ Articulus 3
 
 ***Quantum ad actum coniuncti qui est comestio***
 
-***Ad tertium sic proceditur. Videtur quod Christus post resurrectionem vere comederit, cibum sibi incorporando.***
+Ad tertium sic proceditur. Videtur quod Christus post resurrectionem vere comederit, cibum sibi incorporando.  
 
 Quia, ut Augustinus dicit in libro *LXXXIII quaestionum*: *si fallit, veritas non est*; unde nulla fictio decet Christum, qui est veritas; esset autem fictio, si non vere sibi cibum incorporaret, quem ipse comedere videbatur; vere igitur comedit, incorporando sibi cibum.  
 

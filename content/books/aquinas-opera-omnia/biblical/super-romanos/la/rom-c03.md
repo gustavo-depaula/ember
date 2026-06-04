@@ -1,10 +1,12 @@
 # C. 2 - Divine Judgment and the Jewish Law
 
+***Judicium Dei et Lex Judaeorum***
+
 ***Lectio 1***
 
 ***Inordinatum iudicium hominum***
 
-***^2:1^ Propter quod inexcusabilis es, o homo omnis qui judicas. In quo enim judicas alterum, teipsum condemnas: eadem enim agis quae judicas. [n. 169]***
+^2:1^ Propter quod inexcusabilis es, o homo omnis qui judicas. In quo enim judicas alterum, teipsum condemnas: eadem enim agis quae judicas. [n. 169]  
 
 > ^2:2^ Scimus enim quoniam judicium Dei est secundum veritatem in eos qui talia agunt. [n. 178]
 
@@ -274,7 +276,7 @@ Lectio 3
 
 ***Factores legis***
 
-***^2:13^ Non enim auditores legis justi sunt apud Deum, sed factores legis justificabuntur. [n. 211]***
+^2:13^ Non enim auditores legis justi sunt apud Deum, sed factores legis justificabuntur. [n. 211]  
 
 > ^2:14^ Cum autem gentes, quae legem non habent, naturaliter ea, quae legis sunt, faciunt, ejusmodi legem non habentes, ipsi sibi sunt lex: [n. 213]
 
@@ -389,7 +391,7 @@ Lectio 4
 
 ***Circumcisio cordis***
 
-***^2:17^ Si autem tu Judaeus cognominaris, et requiescis in lege, et gloriaris in Deo, [n. 224]***
+^2:17^ Si autem tu Judaeus cognominaris, et requiescis in lege, et gloriaris in Deo, [n. 224]  
 
 > ^2:18^ et nosti voluntatem ejus, et probas utiliora, instructus per legem, [n. 227]
 

@@ -1,6 +1,8 @@
 # In Ave Maria
 
-******Ave, Maria, gratia plena, Dominus tecum etc***. In salutatione ista continentur tria.***
+***Collationes in salutationem angelicam***
+
+***Ave, Maria, gratia plena, Dominus tecum etc***. In salutatione ista continentur tria.  
 
 Unam partem fecit angelus: ***ave, gratia plena, Dominus tecum, benedicta tu in mulieribus***.  
 

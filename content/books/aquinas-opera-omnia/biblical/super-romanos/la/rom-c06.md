@@ -1,10 +1,12 @@
 # C. 5 - Redemption from Death by Christ
 
+***Redemptio ex Mortem per Christum***
+
 ***Lectio 1***
 
 ***Gloria in spe et tribulatione***
 
-***^5:1^ Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum: [n. 381]***
+^5:1^ Justificati ergo ex fide, pacem habeamus ad Deum per Dominum nostrum Jesum Christum: [n. 381]  
 
 > ^5:2^ per quem et habemus accessum per fidem in gratiam istam, in qua stamus, et gloriamur in spe gloriae filiorum Dei. [n. 383]
 
@@ -106,7 +108,7 @@ Lectio 2
 
 ***Reconcilatio per mortem Christi***
 
-***^5:6^ Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est? [n. 394]***
+^5:6^ Ut quid enim Christus, cum adhuc infirmi essemus, secundum tempus, pro impiis mortuus est? [n. 394]  
 
 > ^5:7^ vix enim pro justo quis moritur: nam pro bono forsitan quis audeat mori.
 
@@ -184,7 +186,7 @@ Lectio 3
 
 ***Peccatum et mors per Adam***
 
-***^5:12^ Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt. [n. 406]***
+^5:12^ Propterea sicut per unum hominem peccatum in hunc mundum intravit, et per peccatum mors, et ita in omnes homines mors pertransiit, in quo omnes peccaverunt. [n. 406]  
 
 > **406**. Postquam Apostolus ostendit quae bona per gratiam Christi consecuti sumus, hic consequenter ostendit a quibus malis per eam liberemur.
 
@@ -304,7 +306,7 @@ Lectio 4
 
 ***Regnum mortis ab Adam usque ad Moysen***
 
-***^5:13^ Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset. [n. 421]***
+^5:13^ Usque ad legem enim peccatum erat in mundo: peccatum autem non imputabatur, cum lex non esset. [n. 421]  
 
 > ^5:14^ Sed regnavit mors ab Adam usque ad Moysen etiam in eos qui non peccaverunt in similitudinem praevaricationis Adae, qui est forma futuri. [n. 424]
 
@@ -372,7 +374,7 @@ Lectio 5
 
 ***Vita omnium per iustitiam uni***
 
-***^5:15^ Sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit. [n. 430]***
+^5:15^ Sed non sicut delictum, ita et donum: si enim unius delicto multi mortui sunt: multo magis gratia Dei et donum in gratia unius hominis Jesu Christi in plures abundavit. [n. 430]  
 
 > ^5:16^ Et non sicut per unum peccatum, ita et donum. Nam judicium quidem ex uno in condemnationem: gratia autem ex multis delictis in justificationem. [n. 435]
 
@@ -492,7 +494,7 @@ Lectio 6
 
 ***Superabundantia gratiae***
 
-***^5:20^ Lex autem subintravit ut abundaret delictum. [n. 448] Ubi autem abundavit delictum, superabundavit gratia: [n. 464]***
+^5:20^ Lex autem subintravit ut abundaret delictum. [n. 448] Ubi autem abundavit delictum, superabundavit gratia: [n. 464]  
 
 > ^5:21^ ut sicut regnavit peccatum in mortem: ita et gratia regnet per justitiam in vitam aeternam, per Jesum Christum Dominum nostrum. [n. 467]
 

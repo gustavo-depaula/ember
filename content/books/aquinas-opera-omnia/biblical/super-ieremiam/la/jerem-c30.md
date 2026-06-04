@@ -1,6 +1,8 @@
 # C. 28 - The false prophet Hananiah
 
-***^28:1^ Et factum est in anno illo, in principio regni Sedeciae regis Juda, in anno quarto, in mense quinto, dixit ad me, Hananias filius Azur propheta de Gabon, in domo Domini: coram sacerdotibus, et omni populo, dicens:***
+***Lectio 1***
+
+^28:1^ Et factum est in anno illo, in principio regni Sedeciae regis Juda, in anno quarto, in mense quinto, dixit ad me, Hananias filius Azur propheta de Gabon, in domo Domini: coram sacerdotibus, et omni populo, dicens:  
 
 > ^28:2^ haec dicit Dominus exercituum Deus Israel: contrivi jugum regis Babylonis.
 
@@ -48,7 +50,7 @@ Secundo quantum ad liberationem principum suorum, ***et Jechoniam***, contra id 
 
 Lectio 2  
 
-***^28:5^ Et dixit Jeremias propheta ad Hananiam prophetam, in oculis sacerdotum, et in oculis omnis populi, qui stabat in domo Domini.***
+^28:5^ Et dixit Jeremias propheta ad Hananiam prophetam, in oculis sacerdotum, et in oculis omnis populi, qui stabat in domo Domini.  
 
 > ^28:6^ Et ait Jeremias propheta: amen, sic faciat Dominus. Suscitet Dominus verba tua quae prophetasti, ut referantur vasa in domum Domini, et omnis transmigratio de Babylone ad locum istum.
 
@@ -70,7 +72,7 @@ Et dicendum, quod argumentum efficax est ad ostendendum ejus falsitatem; et hoc 
 
 Lectio 3  
 
-***^28:10^ Et tulit Hananias propheta catenam de collo Jeremiae prophetae, et confregit eam.***
+^28:10^ Et tulit Hananias propheta catenam de collo Jeremiae prophetae, et confregit eam.  
 
 > ^28:11^ Et ait Hananias in conspectu omnis populi, dicens: haec dicit Dominus: sic confringam jugum Nabuchodonosor regis Babylonis post duos annos dierum de collo omnium gentium.
 
@@ -86,7 +88,7 @@ Tertio designatur Jeremiae humilitas, quia patienter, et libenter sustinuit ***e
 
 Lectio 4  
 
-***^28:12b^ Et factum est verbum Domini ad Jeremiam, postquam confregit Hananias propheta catenam de collo Jeremiae prophetae, dicens:***
+^28:12b^ Et factum est verbum Domini ad Jeremiam, postquam confregit Hananias propheta catenam de collo Jeremiae prophetae, dicens:  
 
 > ^28:13^ vade, et dices Hananiae: haec dicit Dominus: catenas ligneas contrivisti, et facies pro eis catenas ferreas.
 

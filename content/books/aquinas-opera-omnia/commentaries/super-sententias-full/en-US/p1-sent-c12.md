@@ -1,8 +1,10 @@
 # D. 11 - Procession of the Holy Spirit from the Father and the Son
 
+***Procession of the Holy Spirit from the Father and the Son***
+
 ***Division of the text***
 
-***Here he considers the procession of the Holy Spirit as regards its principle. And this is divided into two parts: in the first, he shows that the Holy Spirit proceeds from the Father and the Son; in the second, he asks whether he proceeds from each of them equally: *also, the question is raised whether, since the Holy Spirit proceeds from the Father and the Son, he proceeded earlier or more fully from the Father than from the Son*.*Sent*. I, 12.1(39).1.***
+Here he considers the procession of the Holy Spirit as regards its principle. And this is divided into two parts: in the first, he shows that the Holy Spirit proceeds from the Father and the Son; in the second, he asks whether he proceeds from each of them equally: *also, the question is raised whether, since the Holy Spirit proceeds from the Father and the Son, he proceeded earlier or more fully from the Father than from the Son*.*Sent*. I, 12.1(39).1.  
 
 The first part is divided into two: in the first, he shows the truth; in the second, he excludes an error, at *but the Greeks say that the Holy Spirit proceeds from the Father alone, and not from the Son*.*Sent*. I, 11.1(37).3.  
 
@@ -30,7 +32,7 @@ Article 1
 
 ***Whether the Holy Spirit proceeds from the Father and the Son***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.36.2; *SCG* IV.14 & 25; *On the Power of God*, q. 10, aa. 4, 5; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 2, cc. 27‒32; *Compendium theologiae*, ch. 49; *Commentary on John*, ch. 15, lect. 6; ch. 16, lect. 4. It seems that the Holy Spirit does not proceed from the Son, but only from the Father.***
+To the first we proceed as follows.Parallel texts: *ST* I.36.2; *SCG* IV.14 & 25; *On the Power of God*, q. 10, aa. 4, 5; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 2, cc. 27‒32; *Compendium theologiae*, ch. 49; *Commentary on John*, ch. 15, lect. 6; ch. 16, lect. 4. It seems that the Holy Spirit does not proceed from the Son, but only from the Father.  
 
 Obj. 1: For Dionysius says, *we have received from the holy elocutions the fact that the Father is the fontlike Godhead, the Son and the Holy Spirit are, if one must speak this way, germinations of God-begotten Godhead, both like flowerings of the divine nature, and like divine lights*.Pseudo-Dionysius, *On the Divine Names*, ch. 2, para. 1 (PG 3:635). But a germination does not come from a germination, nor a flower from a flower. Therefore neither does the Holy Spirit come from the Son.  
 
@@ -78,9 +80,9 @@ Reply Obj. 9: The Father perfectly spirates the Holy Spirit. But because the Fat
 
 Article 2  
 
-***Whether the Holy Spirit proceeds from the Father and the Son insofar as they are one***
+Whether the Holy Spirit proceeds from the Father and the Son insofar as they are one  
 
-***To the second we proceed as follows.Parallel texts: *In I Sent*., d. 29, a. 4; *ST* I.36.4; *SCG* IV.25. It seems that the Holy Spirit does not proceed from the Father and the Son insofar as they are one.***
+To the second we proceed as follows.Parallel texts: *In I Sent*., d. 29, a. 4; *ST* I.36.4; *SCG* IV.25. It seems that the Holy Spirit does not proceed from the Father and the Son insofar as they are one.  
 
 Obj. 1: For the Holy Spirit proceeds from them as a certain bond or union. But a bond belongs to distinct things. Therefore he proceeds from them insofar as they are distinct.  
 
@@ -98,9 +100,9 @@ Reply Obj. 1–3: This makes clear the solution to all of them. However, what th
 
 Article 3  
 
-***Whether the Holy Spirit proceeds from the Father and the Son insofar as they are one in nature***
+Whether the Holy Spirit proceeds from the Father and the Son insofar as they are one in nature  
 
-***To the third we proceed as follows. It seems that the Holy Spirit proceeds from the Father and the Son insofar as they are one in nature.***
+To the third we proceed as follows. It seems that the Holy Spirit proceeds from the Father and the Son insofar as they are one in nature.  
 
 Obj. 1: For a nature is communicated only through an act of nature. But the Holy Spirit, in proceeding, receives the entire divine nature just as the Son does in being born. Therefore the principle of the act by which the divine nature is communicated to him is the nature. Therefore and so on. And Anselm seems to say the same thing when he saysAnselm of Canterbury, *On the Procession of the Holy Spirit*, ch. 6 (PG 158:296). that it is ridiculous to say that the entire essence of the Father and the Son is in the Holy Spirit on account of a relation, and not rather on account of the essence.  
 
@@ -132,7 +134,7 @@ Article 4
 
 ***Whether the Father and the Son are one spirator***
 
-***To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 29, q. 1, a. 4, ad 3; *ST* I.36.4, ad 7. It seems that the Father and the Son are one spirator.***
+To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 29, q. 1, a. 4, ad 3; *ST* I.36.4, ad 7. It seems that the Father and the Son are one spirator.  
 
 Obj. 1: For by this is indicated only a unity in the act of spirating. But the Father and the Son spirate by one act. Therefore they are one spirator, just as they are one God on account of the unity of the Godhead.  
 
@@ -152,7 +154,7 @@ Reply Obj. 3: “Principle” does not name any act, but only a relation; and be
 
 Exposition of the text  
 
-****God sent the Spirit of his Son into our hearts*.*Sent*. I, 11.1(37).2, quoting Galatians 4:6. This proof does not seem sufficient, since the Greeks confess that the Holy Spirit is *of* the Son, but not that he is *from* the Son.What is here expressed by a preposition in English (“of”) is in Latin expressed by the possessive genitive form of the noun “Son” (*filii*); however, in both the Latin and in the English, the word “from” is expressed by a preposition (Latin: *a*). But one should say to this that, because a genitive noun must be constructed in a certain relation, no other relation can be found than one of origin; for only such a relation distinguishes the persons. Therefore one must grant that the Holy Spirit arises from the Son.***
+*God sent the Spirit of his Son into our hearts*.*Sent*. I, 11.1(37).2, quoting Galatians 4:6. This proof does not seem sufficient, since the Greeks confess that the Holy Spirit is *of* the Son, but not that he is *from* the Son.What is here expressed by a preposition in English (“of”) is in Latin expressed by the possessive genitive form of the noun “Son” (*filii*); however, in both the Latin and in the English, the word “from” is expressed by a preposition (Latin: *a*). But one should say to this that, because a genitive noun must be constructed in a certain relation, no other relation can be found than one of origin; for only such a relation distinguishes the persons. Therefore one must grant that the Holy Spirit arises from the Son.  
 
 *Whom I send to you from the Father*.*Sent*. I, 11.1(37).2, quoting John 15:26. It seems that this proof is also insufficient, since here he is speaking about the temporal procession of the Holy Spirit, which the Greeks grant is from the Son, but not that the eternal one is. But to this one should say that, because the temporal procession includes the eternal, as will be explained below,Below, d. 15, q. 4, a. 5. he from whom he proceeds temporally is also he from whom he proceeds eternally.  
 

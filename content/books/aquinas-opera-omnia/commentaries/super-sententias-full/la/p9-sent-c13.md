@@ -1,6 +1,6 @@
 # D. 38 - On religious vows
 
-***Postquam determinavit Magister de impedimento ordinis, hic determinat de impedimento voti; et dividitur in partes duas: in prima ostendit quomodo impeditur a matrimonio contrahendo per votum quo Deo se obligat; in secunda quomodo impeditur a matrimonio per aliud matrimonium jam contractum, quo se homo uxori obligavit, ibi: *cum vir et mulier*, etc.***
+Postquam determinavit Magister de impedimento ordinis, hic determinat de impedimento voti; et dividitur in partes duas: in prima ostendit quomodo impeditur a matrimonio contrahendo per votum quo Deo se obligat; in secunda quomodo impeditur a matrimonio per aliud matrimonium jam contractum, quo se homo uxori obligavit, ibi: *cum vir et mulier*, etc.  
 
 Prima in tres: in prima ostendit quid sit votum; in secunda distinguit multiplex votum, ibi: *sciendum vero, quod votorum aliud est commune, aliud singulare*; in tertia ostendit quod votum et qualiter matrimonium impedit, ibi: *qui privatum faciunt votum continentiae, matrimonium contrahere non debent*.  
 
@@ -32,7 +32,7 @@ primo, de voto secundum se;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod votum inconvenienter in littera definiatur. Votum enim de sui nominis ratione propositum voluntatis importat sine aliqua promissione. Vota enim fieri dicuntur quae voluntarie fiunt: quod etiam per aliam definitionem de voto datam patet: *votum est conceptio boni propositi cum deliberatione firmata, qua quis ad aliquid faciendum vel non faciendum se Deo obligat*. Ergo non debuit promissionem ponere in definitione voti.***
+Ad primum sic proceditur. Videtur quod votum inconvenienter in littera definiatur. Votum enim de sui nominis ratione propositum voluntatis importat sine aliqua promissione. Vota enim fieri dicuntur quae voluntarie fiunt: quod etiam per aliam definitionem de voto datam patet: *votum est conceptio boni propositi cum deliberatione firmata, qua quis ad aliquid faciendum vel non faciendum se Deo obligat*. Ergo non debuit promissionem ponere in definitione voti.  
 
 Praeterea, promittere progreditur a mente, sicut et credere. Sed credere nullus potest nisi volens. Ergo nec promittere; et ita frustra additur, *spontaneae*.  
 
@@ -46,7 +46,7 @@ Praeterea, ad votum requiritur animi deliberatio, ut patet per quamdam definitio
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod votum non sit tantum de meliori bono. Quia illud quod est necessitatis, non reputatur bonum melius, sed commune bonum. Sed de eo quod est necessitatis, potest esse votum, sicut Jacob, Gen. 27, vovit quod esset sibi dominus in Deum. Ergo non oportet quod sit de meliori bono.***
+Ulterius. Videtur quod votum non sit tantum de meliori bono. Quia illud quod est necessitatis, non reputatur bonum melius, sed commune bonum. Sed de eo quod est necessitatis, potest esse votum, sicut Jacob, Gen. 27, vovit quod esset sibi dominus in Deum. Ergo non oportet quod sit de meliori bono.  
 
 Praeterea, vota quaedam fiunt de rebus indifferentibus, sicut mulieres praecipue solent vovere quod non pectinent caput tali vel tali die. Sed indifferentia non includuntur in bonis melioribus. Ergo votum non est semper de bono meliori.  
 
@@ -58,7 +58,7 @@ Sed contra est definitio voti prius posita, scilicet: *votum est promissio melio
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quia etiam ille qui non est sui juris, possit aliquid vovere. Quia obligatio quae fit inferiori, non potest impedire servitium superiori domino impendendum. Sed per votum aliquis se obligat ad serviendum Deo. Ergo obligatio qua servus est obligatus domino suo, homini tamen, non potest eum a voto prohibere.***
+Ulterius. Videtur quia etiam ille qui non est sui juris, possit aliquid vovere. Quia obligatio quae fit inferiori, non potest impedire servitium superiori domino impendendum. Sed per votum aliquis se obligat ad serviendum Deo. Ergo obligatio qua servus est obligatus domino suo, homini tamen, non potest eum a voto prohibere.  
 
 Praeterea, filius familias est in potestate patris. Sed potest vovere etiam contradicente patre; sicut quotidie fit, quod invitis parentibus juvenes in religionibus profitentur. Ergo ille qui non est sui juris, potest votum emittere.  
 
@@ -72,7 +72,7 @@ Praeterea, votum, cum habeat spontaneam promissionem, libertatem requirit. Sed i
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod votum suo nomine obligationem quamdam exprimit ex voluntate factam; et quia voluntate non potest aliquis obligari nisi ei qui voluntatis est cognitor, quod solius Dei est; ideo ex consequenti importat obligationem Deo factam, et ex consequenti de his quae ad Deum spectant, cum personae obligatio alicui facta de his quae ad Deum non spectant, nulla sit. Obligatio autem homini exterius fit verbo exterius expresso; unde dicitur Prov. 6, 2: *illaqueatus es verbis oris tui*. Et ideo ei qui cor intuetur, oportet quod fiat obligatio voluntaria interiori verbo; et ideo oportet quod fiat per actum illius potentiae cujus est verbum interius enuntiare, quod est rationis; et ideo ipse actus rationis, qui est promissio, est essentialiter votum. Quod enim promissio sit rationis actus, patet tum ex hoc quod est enuntiatio quaedam; tum ex hoc quod promittens rem promissam ad alterum ordinat. Omnis autem ordinatio, rationis est.***
+Respondeo dicendum ad primam quaestionem, quod votum suo nomine obligationem quamdam exprimit ex voluntate factam; et quia voluntate non potest aliquis obligari nisi ei qui voluntatis est cognitor, quod solius Dei est; ideo ex consequenti importat obligationem Deo factam, et ex consequenti de his quae ad Deum spectant, cum personae obligatio alicui facta de his quae ad Deum non spectant, nulla sit. Obligatio autem homini exterius fit verbo exterius expresso; unde dicitur Prov. 6, 2: *illaqueatus es verbis oris tui*. Et ideo ei qui cor intuetur, oportet quod fiat obligatio voluntaria interiori verbo; et ideo oportet quod fiat per actum illius potentiae cujus est verbum interius enuntiare, quod est rationis; et ideo ipse actus rationis, qui est promissio, est essentialiter votum. Quod enim promissio sit rationis actus, patet tum ex hoc quod est enuntiatio quaedam; tum ex hoc quod promittens rem promissam ad alterum ordinat. Omnis autem ordinatio, rationis est.  
 
 Promissio autem exterius facta quandoque dicitur nuda, quando non habet aliquid additum quod obligationem confirmet; et tunc non habet plenam vim obligandi. Similiter etiam promissio interius facta Deo, ad hoc quod plenam vim obligandi habeat, oportet quod non sit nuda, sed habeat aliquid quo confirmetur; et haec quidem confirmatio per tria gradatim habet fieri. Primo per deliberationem simplicem; secundo per intentionem obligandi se ad certam poenam; tertio per hoc quod testimonium hominum adhibetur promissioni interiori; et sic de voto dantur plures definitiones secundum diversa eorum quae requiruntur ad votum in definitionibus illis comprehensa; et possent adhuc multo plures dari. Definitio tamen quam Magister ponit, videtur esse perfectissima; quia ponit et *promissionem*, quae est essentialiter votum; et tangit voluntatem in hoc quod dicitur, *spontaneae*, quae est causa obligationis; et confirmationem ultimam promissionis, quae alias includit, in hoc quod dicit, *testificatio*; et voti terminum, quia est actus ad alterum, in hoc quod dicit: *quae debet Deo fieri*; et materiam, in hoc quod dicit, quod *est de his quae Dei sunt*.  
 
@@ -90,7 +90,7 @@ Ad sextum dicendum, quod in testificatione includitur deliberatio, ut dictum est
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut ex jam dictis patet, votum non potest esse nisi de aliquo bono ad cultum Dei pertinente quocumque modo; et ideo omne malum obviat voto ex parte ejus cui fit obligatio; sed ex parte ejus ex quo talis obligatio procedit, scilicet voluntatis, omnis necessitas aliquo modo obviat voto.***
+Ad secundam quaestionem dicendum, quod, sicut ex jam dictis patet, votum non potest esse nisi de aliquo bono ad cultum Dei pertinente quocumque modo; et ideo omne malum obviat voto ex parte ejus cui fit obligatio; sed ex parte ejus ex quo talis obligatio procedit, scilicet voluntatis, omnis necessitas aliquo modo obviat voto.  
 
 Est autem duplex necessitas. Una absoluta; et talis necessitas omnino excludit votum; sicut si aliquis voveret se non moriturum, vel ea quae omnino non sunt in potestate ejus, nullum esset votum. Alia est necessitas conditionata ex suppositione finis; et sic inest nobis necessitas faciendi illa sine quibus non possumus salutem consequi; sicut sunt praecepta ad quae alias tenemur; et talis necessitas non excludit omnino votum; invenitur enim quandoque, large accipiendo votum, esse de his quae sunt sub tali necessitate; sed excludit talis necessitas votum proprie dictum; et ideo si votum accipiatur secundum propriam sui rationem, est proprie de bonis illis ad quae non omnes tenentur, quae supererogationis sunt; et ideo dicuntur meliora bona, quia superadduntur illis bonis, sine quibus non est salus; et ideo votum proprie acceptum, dicitur esse de meliori bono.  
 
@@ -104,7 +104,7 @@ Ad quartum dicendum, quod in periculum personae vergens votum non est servandum,
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ex jam dictis patet quod votum non potest emitti ab aliquo nisi de his quae subjacent voluntati ejus; et ideo ille qui est sub potestate alterius constitutus, quantum ad ea in quibus ei subjacet, vovere non potest, quia talia non subjacent ejus voluntati. Similiter etiam illi qui non habent usum liberi arbitrii, sicut aliqui qui non sunt sanae mentis, vovere non possunt, nec etiam pueri ante annos pubertatis.***
+Ad tertiam quaestionem dicendum, quod ex jam dictis patet quod votum non potest emitti ab aliquo nisi de his quae subjacent voluntati ejus; et ideo ille qui est sub potestate alterius constitutus, quantum ad ea in quibus ei subjacet, vovere non potest, quia talia non subjacent ejus voluntati. Similiter etiam illi qui non habent usum liberi arbitrii, sicut aliqui qui non sunt sanae mentis, vovere non possunt, nec etiam pueri ante annos pubertatis.  
 
 Ad primum ergo dicendum, quod in hoc ipso quod servit homo domino suo carnali, servit spirituali; unde apostolus propter conscientiam eis esse serviendum docet; et quia hoc est necessitatis, non potest per id quod non est necessitatis, impediri; sicut nec illud quod cadit sub praecepto, potest per id quod cadit sub consilio, tolli.  
 
@@ -120,7 +120,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod votum inconvenienter dividatur in commune et singulare. Quia divisum debet secundum eamdem rationem praedicari de dividentibus. Sed votum non eadem ratione praedicatur de voto communi et singulari; quia singulare proprie est votum, non autem commune, ut ex dictis patet. Ergo est incompetens divisio.***
+Ad secundum sic proceditur. Videtur quod votum inconvenienter dividatur in commune et singulare. Quia divisum debet secundum eamdem rationem praedicari de dividentibus. Sed votum non eadem ratione praedicatur de voto communi et singulari; quia singulare proprie est votum, non autem commune, ut ex dictis patet. Ergo est incompetens divisio.  
 
 Praeterea, singulare non dividitur contra commune, sed magis proprie contra universale. Ergo et votum deberet hic dividi in singulare et universale.  
 
@@ -130,7 +130,7 @@ Praeterea, ille qui non habet usum liberi arbitrii, non potest votum emittere. S
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod votum non convenienter dividatur in privatum et solemne. Est enim aliquod votum publicum quod non est solemne nec privatum. Ergo non est sufficiens praedicta divisio.***
+Ulterius. Videtur quod votum non convenienter dividatur in privatum et solemne. Est enim aliquod votum publicum quod non est solemne nec privatum. Ergo non est sufficiens praedicta divisio.  
 
 Praeterea, divisio debet esse per ea quae sunt essentialia rei. Sed privatum et solemne non dividunt votum per aliquod quod sit ei essentiale; quia votum essentialiter est quaedam obligatio Deo facta; quantum autem ad Deum non differt obligatio utrum fiat in secreto, vel coram pluribus. Ergo praedicta divisio est incompetens.  
 
@@ -140,7 +140,7 @@ Praeterea, sicut votum habet quaedam quae pertinent ad solemnitatem, ita matrimo
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod votum non solemnizetur per professionem ad certam regulam, et per ordinis sacri susceptionem, ut quidam dicunt. Solemnitas enim ponitur differentia voti communiter dicti. Sed quaedam vota sunt quae non habentur sub aliqua certa regula, neque sunt ordini sacro annexa, sicut votum peregrinationis. Ergo illa duo non sufficiunt ad solemnitatem voti faciendam.***
+Ulterius. Videtur quod votum non solemnizetur per professionem ad certam regulam, et per ordinis sacri susceptionem, ut quidam dicunt. Solemnitas enim ponitur differentia voti communiter dicti. Sed quaedam vota sunt quae non habentur sub aliqua certa regula, neque sunt ordini sacro annexa, sicut votum peregrinationis. Ergo illa duo non sufficiunt ad solemnitatem voti faciendam.  
 
 Praeterea, dicitur etiam a quibusdam, quod votum solemnizatur per susceptionem habitus religionis. Sed quandoque suscipitur habitus religionis sine professione vel ordinis susceptione. Ergo, etc.  
 
@@ -152,7 +152,7 @@ Sed contra, effectus voti solemnis proprius est dirimere matrimonium contractum.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod divisio illa qua votum dividitur in singulare et commune, est divisio analogi quod praedicatur per prius et posterius de suis dividentibus, sicut ens de substantia et accidente. Cum enim votum sit obligatio ex voluntate facta, necessitas autem voluntarium excludat; illud votum quod nihil habet necessitatis, dicitur per prius votum, quasi habens complete rationem voti; et hoc est votum singulare, quod est de illis ad quae non tenemur. Illud autem votum quod habet aliquid necessitatis, habet incomplete rationem voti, et ideo dicitur per posterius, votum; et hoc est votum commune, quod est de his ad quae omnes tenentur, quorum est necessitas conditionata, non absoluta, ut ex dictis patet.***
+Respondeo dicendum ad primam quaestionem, quod divisio illa qua votum dividitur in singulare et commune, est divisio analogi quod praedicatur per prius et posterius de suis dividentibus, sicut ens de substantia et accidente. Cum enim votum sit obligatio ex voluntate facta, necessitas autem voluntarium excludat; illud votum quod nihil habet necessitatis, dicitur per prius votum, quasi habens complete rationem voti; et hoc est votum singulare, quod est de illis ad quae non tenemur. Illud autem votum quod habet aliquid necessitatis, habet incomplete rationem voti, et ideo dicitur per posterius, votum; et hoc est votum commune, quod est de his ad quae omnes tenentur, quorum est necessitas conditionata, non absoluta, ut ex dictis patet.  
 
 Ad primum ergo dicendum, quod ratio illa procedit de divisione univoci; et talis non est hic.  
 
@@ -164,7 +164,7 @@ Ad quartum dicendum, quod ratio illa procedit de votis quae sunt de his ad quae 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod divisio voti in privatum et solemne, est divisio totius potestativi in partes suas, cujus perfecta virtus est in una suarum partium; in aliis autem quaedam ipsius participatio, sicut anima dividitur in rationalem, sensibilem, et vegetabilem. Virtus autem voti est obligatio: quae quidem virtus complete est in voto solemni, cujus obligatio nullo casu irritari potest; sed est incomplete in voto privato, cujus obligatio aliquo casu irritatur, ut dicetur.***
+Ad secundam quaestionem dicendum, quod divisio voti in privatum et solemne, est divisio totius potestativi in partes suas, cujus perfecta virtus est in una suarum partium; in aliis autem quaedam ipsius participatio, sicut anima dividitur in rationalem, sensibilem, et vegetabilem. Virtus autem voti est obligatio: quae quidem virtus complete est in voto solemni, cujus obligatio nullo casu irritari potest; sed est incomplete in voto privato, cujus obligatio aliquo casu irritatur, ut dicetur.  
 
 Ad primum ergo dicendum, quod votum potest dici publicum dupliciter. Uno modo per se, quia habet aliquid annexum, unde in publicum venire debeat; sicut cum quis recipit ordinem sacrum, per quem minister Ecclesiae constituitur ad publice Deo serviendum. Alio modo per accidens; sicut quando in notitiam plurimorum venit. Et quia rei judicium non variatur per id quod est per accidens, sed secundum id quod est per se; ideo votum publicum secundo modo in idem computatur quod privatum; sed publicum primo modo distinguitur a privato; et hoc est solemne.  
 
@@ -176,7 +176,7 @@ Ad quartum dicendum, quod matrimonium et alia sacramenta habent plenum effectum 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod votum, ut dictum est, dicitur solemne ex hoc quod habet completam vim obligandi. Ea enim ad solemnitatem rei pertinere dicuntur quae ei completum esse tribuunt. Votum autem, cum essentialiter sit promissio, complementum suae virtutis accipit sicut et promissio; cujus quidem obligatio tunc completur quando aliquis hoc quod promittit, in praesenti dat, quodammodo ponens eum cui fit promissio, in corporali possessione alicujus rei, unde habere possit quod promittit; sicut si aliquis fructus agri promitteret, et promittendo agrum daret; et similiter si servitium aliquod promitteret, et se in servum daret. Et ideo tunc votum solemnizari dicitur quando aliquis praesentialiter se dat Deo divinis se servitiis mancipando: quod quidem fit per ordinis sacri susceptionem, et per professionem certae regulae debito modo factae; scilicet in manum ejus qui debet recipere; et aliis circumstantiis servatis quae secundum jura determinantur: alias non esset votum solemne, quantumcumque quis profiteretur: quia ex tali professione non fieret sub potestate eorum qui religioni praesunt.***
+Ad tertiam quaestionem dicendum, quod votum, ut dictum est, dicitur solemne ex hoc quod habet completam vim obligandi. Ea enim ad solemnitatem rei pertinere dicuntur quae ei completum esse tribuunt. Votum autem, cum essentialiter sit promissio, complementum suae virtutis accipit sicut et promissio; cujus quidem obligatio tunc completur quando aliquis hoc quod promittit, in praesenti dat, quodammodo ponens eum cui fit promissio, in corporali possessione alicujus rei, unde habere possit quod promittit; sicut si aliquis fructus agri promitteret, et promittendo agrum daret; et similiter si servitium aliquod promitteret, et se in servum daret. Et ideo tunc votum solemnizari dicitur quando aliquis praesentialiter se dat Deo divinis se servitiis mancipando: quod quidem fit per ordinis sacri susceptionem, et per professionem certae regulae debito modo factae; scilicet in manum ejus qui debet recipere; et aliis circumstantiis servatis quae secundum jura determinantur: alias non esset votum solemne, quantumcumque quis profiteretur: quia ex tali professione non fieret sub potestate eorum qui religioni praesunt.  
 
 Ad primum ergo dicendum, quod cum solemnitas voti sit ex hoc quod res ipsa datur, unde promissio impleatur, quando aliquid temporaliter solvendum promittitur, non potest solemne votum esse, sicut est votum peregrinationis, vel aliud hujusmodi. Nec obstat quod solemnitas differentia voti communiter sumpti ponitur: quia etiam anima rationalis, in qua est perfecte ratio vitae, non est in omnibus viventibus, quamvis rationale ponatur differentia animalis simpliciter.  
 
@@ -192,7 +192,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod votum non obliget, ut semper necesse sit illud observari. Nullus enim obligari potest ad impossibile. Sed aliquando impossibile est votum observari, sicut patet in illa quae vovit virginitatem et corrumpitur. Ergo non est necessitatis votum servare.***
+Ad tertium sic proceditur. Videtur quod votum non obliget, ut semper necesse sit illud observari. Nullus enim obligari potest ad impossibile. Sed aliquando impossibile est votum observari, sicut patet in illa quae vovit virginitatem et corrumpitur. Ergo non est necessitatis votum servare.  
 
 Praeterea, effectus non potest esse firmior sua causa. Sed causa dans firmitatem suo voto est deliberatio, ut ex definitione prius posita, art. 1, quaest. 1, patet. Cum ergo deliberatio humana non habeat necessariam firmitatem, quia *cogitationes hominum sunt timidae, et incertae providentiae nostrae*, ut dicitur Sapient. 9; videtur quod votum non obliget de necessitate ad observandum.  
 
@@ -212,7 +212,7 @@ Praeterea, Augustinus dicit, quod *vovere est voluntatis, sed reddere necessitat
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod per obligationem voti simplicis matrimonium contractum dirimi debeat. Fortius enim vinculum praejudicat debiliori. Sed vinculum voti est fortius quam vinculum matrimonii; quia hoc fit homini, illud Deo. Ergo vinculum voti praejudicat vinculo matrimonii.***
+Ulterius. Videtur quod per obligationem voti simplicis matrimonium contractum dirimi debeat. Fortius enim vinculum praejudicat debiliori. Sed vinculum voti est fortius quam vinculum matrimonii; quia hoc fit homini, illud Deo. Ergo vinculum voti praejudicat vinculo matrimonii.  
 
 Praeterea, praeceptum Dei non est minus quam praeceptum Ecclesiae. Sed praeceptum Ecclesiae adeo obligat, quod si contra ipsum matrimonium contrahatur, dirimitur; sicut patet de illis qui contrahunt in aliquo gradu consanguinitatis ab Ecclesia prohibito. Ergo, cum servare votum sit praeceptum divinum, videtur quod cum quis contra votum divinum matrimonium contrahit, ex hoc matrimonium sit dirimendum.  
 
@@ -224,7 +224,7 @@ Sed contra est quod Clemens Papa dicit, quod votum simplex impedit contrahendum 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nec etiam votum solemne dirimat matrimonium contractum. Quia, sicut decretalis dicit, apud Deum non minus obligat votum simplex quam votum solemne. Sed matrimonium acceptatione divina stat vel dirimitur. Ergo cum votum simplex non dirimat matrimonium, nec votum solemne dirimere poterit.***
+Ulterius. Videtur quod nec etiam votum solemne dirimat matrimonium contractum. Quia, sicut decretalis dicit, apud Deum non minus obligat votum simplex quam votum solemne. Sed matrimonium acceptatione divina stat vel dirimitur. Ergo cum votum simplex non dirimat matrimonium, nec votum solemne dirimere poterit.  
 
 Praeterea, votum solemne non addit ita validum robur supra votum simplex sicut juramentum. Sed votum simplex, etiam juramento superveniente, non dirimit matrimonium contractum. Ergo nec votum solemne.  
 
@@ -236,7 +236,7 @@ Praeterea, hoc etiam probari potest per multas auctoritates quae in littera ponu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod votum, ut ex dictis patet, est quidam promissionis contractus inter Deum et hominem. Unde cum contractus bonae fidei inter homines factus obliget ad necessariam observationem, multo fortius votum quo homo Deo aliquid promittit, in his dumtaxat ad quae votum se extendit; in illis autem ad quae votum non se extendit, obligatio voti non habet locum: et ideo qui votum rite factum praetermittit, mortaliter peccat, quia fidem quam cum Deo iniit, frangit.***
+Respondeo dicendum ad primam quaestionem, quod votum, ut ex dictis patet, est quidam promissionis contractus inter Deum et hominem. Unde cum contractus bonae fidei inter homines factus obliget ad necessariam observationem, multo fortius votum quo homo Deo aliquid promittit, in his dumtaxat ad quae votum se extendit; in illis autem ad quae votum non se extendit, obligatio voti non habet locum: et ideo qui votum rite factum praetermittit, mortaliter peccat, quia fidem quam cum Deo iniit, frangit.  
 
 Ad primum ergo dicendum, quod illud quod votum fiendum impediret si praesens esset, etiam voto facto obligationem aufert; unde cum de impossibili non possit esse votum, ut dictum est; si aliquid fiat impossibile post voti emissionem, quod prius erat possibile, obligatio voti quantum ad illud tollitur; ut si quis dives voverit aedificare Ecclesiam, quod postmodum perficere non possit paupertate superveniente, non obligatur ex voto ad implendum. Sed tamen in hoc distinguendum est dupliciter. Uno modo, quia vel omnino factus est impotens; et tunc non tenetur simpliciter ad hoc quod vovit; vel est factus impotens ad totum perficiendum, quamvis non ad partem; et tunc ad illud quod potest, remanet obligatus. Alio modo distinguendum est, utrum ex sua culpa impotentiam incurrerit; quia tunc oportet recompensare per poenitentiam; vel non ex culpa sua, et tunc non tenetur ad aliquam recompensationem. Illa ergo quae virginitatem vovit, si corrupta est, quamvis non possit virginitatem reddere, tamen potest reddere continentiam; et ad hoc remanet obligata, et ulterius ad poenitentiae lamentum, per quod virginitatem amissam Deo recompensat: quod quidem etsi non sit aequivalens simpliciter, est tamen aequivalens quantum ad reputationem Dei, qui non exigit ab homine ultra posse.  
 
@@ -254,7 +254,7 @@ Ad septimum dicendum, quod si quando quis vovit, puta se intraturum religionem, 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod per hoc res aliqua desinit esse in potestate alicujus per quod transit in dominium alterius; promissio autem alicujus rei non transfert eam in dominium ejus cui promittitur; et ideo non ex hoc ipso quod aliquis rem promittit aliquam, desinit res illa esse in potestate sua. Cum ergo in voto simplici non sit nisi simplex promissio proprii corporis ad continentiam Deo servandam facta, post votum simplex adhuc remanet homo dominus corporis sui; et ideo potest ipsum dare alteri, scilicet uxori, in qua datione matrimonii sacramentum consistit, quod indissolubile est; et propter hoc, votum simplex quamvis impediat contrahendum, quia peccat matrimonium contrahens post votum simplex continentiae, tamen quia verus contractus est, non potest matrimonium per hoc dirimi.***
+Ad secundam quaestionem dicendum, quod per hoc res aliqua desinit esse in potestate alicujus per quod transit in dominium alterius; promissio autem alicujus rei non transfert eam in dominium ejus cui promittitur; et ideo non ex hoc ipso quod aliquis rem promittit aliquam, desinit res illa esse in potestate sua. Cum ergo in voto simplici non sit nisi simplex promissio proprii corporis ad continentiam Deo servandam facta, post votum simplex adhuc remanet homo dominus corporis sui; et ideo potest ipsum dare alteri, scilicet uxori, in qua datione matrimonii sacramentum consistit, quod indissolubile est; et propter hoc, votum simplex quamvis impediat contrahendum, quia peccat matrimonium contrahens post votum simplex continentiae, tamen quia verus contractus est, non potest matrimonium per hoc dirimi.  
 
 Ad primum ergo dicendum, quod votum est fortius vinculum quam matrimonium quantum ad illud cui fit et ad quod ligat, quia per matrimonium ligatur homo uxori ad redditionem debiti, sed per votum Deo ad continentiam. Tamen quantum ad modum ligandi matrimonium est fortius vinculum quam votum simplex; quia per matrimonium traditur actualiter vir in potestatem uxoris, non autem per votum simplex, ut dictum est; potior autem semper est conditio possidentis. Sed quantum ad hoc simili modo obligat votum simplex sicut sponsalia; unde propter votum simplex sunt sponsalia dirimenda.  
 
@@ -266,7 +266,7 @@ Ad quartum dicendum, quod quantum ad ea quibus non est factus impotens votum con
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod omnes dicunt, quod votum solemne sicut impedit matrimonium contrahendum, ita dirimit matrimonium contractum. Quidam autem assignant pro causa scandalum. Sed hoc nihil est; quia etiam votum simplex quandoque scandalum habet, cum sit quodammodo publicum quandoque; et praeterea insolubilitas matrimonii est de veritate vitae, quae non est propter scandalum dimittenda. Et ideo alii dicunt, quod hoc est propter statutum Ecclesiae. Sed hoc etiam non sufficit; quia secundum hoc Ecclesia posset contrarium statuere; quod non videtur verum.***
+Ad tertiam quaestionem dicendum, quod omnes dicunt, quod votum solemne sicut impedit matrimonium contrahendum, ita dirimit matrimonium contractum. Quidam autem assignant pro causa scandalum. Sed hoc nihil est; quia etiam votum simplex quandoque scandalum habet, cum sit quodammodo publicum quandoque; et praeterea insolubilitas matrimonii est de veritate vitae, quae non est propter scandalum dimittenda. Et ideo alii dicunt, quod hoc est propter statutum Ecclesiae. Sed hoc etiam non sufficit; quia secundum hoc Ecclesia posset contrarium statuere; quod non videtur verum.  
 
 Et ideo dicendum cum aliis, quod votum solemne ex sui natura habet quod dirimat matrimonium contractum, inquantum scilicet homo per ipsum amisit sui corporis potestatem, Deo illud ad perpetuam continentiam tradens, ut ex dictis patet; et ideo non potest ipsum tradere in potestatem uxoris ad matrimonium contrahendum; et quia matrimonium quod sequitur tale votum, nullum est, ideo votum praedictum dirimere dicitur matrimonium contractum.  
 
@@ -282,7 +282,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod in voto non possit fieri dispensatio. Votum enim commune minimum habet de ratione voti. Sed in voto communi nullus potest dispensare. Ergo nec in voto singulari.***
+Ad quartum sic proceditur. Videtur quod in voto non possit fieri dispensatio. Votum enim commune minimum habet de ratione voti. Sed in voto communi nullus potest dispensare. Ergo nec in voto singulari.  
 
 Praeterea, reddere vota est de lege naturali; quia qui non reddit, mentitur; quod est contra legem naturalem. Sed nullus potest dispensare contra mendacium, aut contra illud quod est de lege naturali. Ergo nullus potest dispensare in voto.  
 
@@ -294,7 +294,7 @@ Praeterea, sicut monachi tenentur ad continentiam, ita ad paupertatem et obedien
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod quilibet praelatus possit in voto dispensare. Quilibet enim praelatus ad hoc constituitur quod utilitati subditorum provideat. Ergo si utilitas subditorum requirat, potest dispensare.***
+Ulterius. Videtur quod quilibet praelatus possit in voto dispensare. Quilibet enim praelatus ad hoc constituitur quod utilitati subditorum provideat. Ergo si utilitas subditorum requirat, potest dispensare.  
 
 Praeterea, ex hoc aliquis potest dispensare in voto quod est constitutus dispensator mysteriorum Dei. Sed hoc competit cuilibet praelato. Ergo, etc.  
 
@@ -302,7 +302,7 @@ Sed contra, quia in corpore humano quaedam sunt actiones quae solis principalibu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nullum votum possit commutari. Levit., ult. 9: *animal quod immolari potest domino, non potest mutari nec in melius nec in pejus*. Ergo si sit votum licitum, non potest mutari.***
+Ulterius. Videtur quod nullum votum possit commutari. Levit., ult. 9: *animal quod immolari potest domino, non potest mutari nec in melius nec in pejus*. Ergo si sit votum licitum, non potest mutari.  
 
 Praeterea, si posset mutari, praecipue posset mutari in melius. Sed hoc non potest: quia Bernardus dicit de bene ordinatis monasteriis: *nullus meo consilio egredietur desiderio arctioris vitae sine superioris licentia*. Ergo, etc.  
 
@@ -310,7 +310,7 @@ Sed contra est, quod licet semper proficere. Ergo potest etiam votum in melius c
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod propria auctoritate possit aliquis votum commutare. Quia si aliquis post votum terrae sanctae voveat religionem intrare, liberatus est, si impleat secundum, ut *Decret*. dicit. Sed potest propria auctoritate religionem vovere. Ergo et propria auctoritate potest votum commutare.***
+Ulterius. Videtur quod propria auctoritate possit aliquis votum commutare. Quia si aliquis post votum terrae sanctae voveat religionem intrare, liberatus est, si impleat secundum, ut *Decret*. dicit. Sed potest propria auctoritate religionem vovere. Ergo et propria auctoritate potest votum commutare.  
 
 Praeterea, ille qui fecit aliqua vota in saeculo, non videtur ad illa teneri postquam est claustrum ingressus, ut quidam dicunt. Sed potest propria auctoritate ingredi claustrum. Ergo, etc.  
 
@@ -320,7 +320,7 @@ Sed contra, commutatio est quaedam dispensatio. Sed nullus potest propria auctor
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circa hoc sunt diversae opiniones.***
+Respondeo dicendum ad primam quaestionem, quod circa hoc sunt diversae opiniones.  
 
 Quidam enim dicunt, quod quodlibet votum potest per praelatos Ecclesiae dispensationem habere pro libito praelati: quia, ut dicunt, in quolibet voto intelligitur conditionaliter voluntas praelati superioris, scilicet Papae, ad cujus dispensationem pertinent actus subditorum omnium; et ideo cum voluerit, ille summus praelatus poterit relaxare obligationem voti, ut non teneatur votum implere, quia conditio non extat. Sed hoc non videtur bene dictum: quia quaedam sunt in quibus est homo ita liber sui, quod etiam contra praeceptum Papae potest illa facere; sicut continere, et alia consilia divina; unde absolute et sine conditione voluntatis alicujus praelati potest alia vovere.  
 
@@ -346,7 +346,7 @@ Ad quintum dicendum, quod cum illis qui assumuntur a statu religionis in statum 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod plenitudo potestatis in dispensando residet penes summum pontificem; alii autem participant de hac potestate quantum eis concessum est, ut quia omnes ad unum recurrere non possunt, per inferiores dispensationem recipere possint; unde in votis illis quae non de facili dispensationem recipiunt, nec frequenter, sed raro, sicut votum religionis et alia hujusmodi vota perpetua, solus Papa dispensare potest; in aliis autem temporalibus votis, sicut peregrinationum et jejuniorum et hujusmodi, possunt etiam episcopi dispensare, nisi aliquod horum sibi Papa reservaverit, sicut dispensatio in voto terrae sanctae.***
+Ad secundam quaestionem dicendum, quod plenitudo potestatis in dispensando residet penes summum pontificem; alii autem participant de hac potestate quantum eis concessum est, ut quia omnes ad unum recurrere non possunt, per inferiores dispensationem recipere possint; unde in votis illis quae non de facili dispensationem recipiunt, nec frequenter, sed raro, sicut votum religionis et alia hujusmodi vota perpetua, solus Papa dispensare potest; in aliis autem temporalibus votis, sicut peregrinationum et jejuniorum et hujusmodi, possunt etiam episcopi dispensare, nisi aliquod horum sibi Papa reservaverit, sicut dispensatio in voto terrae sanctae.  
 
 Ad primum ergo dicendum, quod non quidquid utile est subdito, potest sibi per praelatum quemlibet adhiberi, sed majora majoribus reservantur; sicut non quilibet medicus potest cuilibet morbo occurrere, sed in periculosioribus morbis peritiores medici requiruntur.  
 
@@ -354,7 +354,7 @@ Ad secundum dicendum, quod quamvis omnes sint dispensatores mysteriorum Dei, non
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod inter commutationem voti et dispensationem hoc interest, quod quando votum commutatur, vovens absolvitur ab uno et ligatur ad aliud; sed quando in voto dispensatur, simpliciter a voto absolvitur sine hoc quod ad aliud ligetur; unde minus importat voti commutatio quam dispensatio; et ideo cum ex causa rationabili in voto dispensari possit, potest etiam votum commutari, vel quia illud in quod fit commutatio, est melius, vel quia est minus periculosum.***
+Ad tertiam quaestionem dicendum, quod inter commutationem voti et dispensationem hoc interest, quod quando votum commutatur, vovens absolvitur ab uno et ligatur ad aliud; sed quando in voto dispensatur, simpliciter a voto absolvitur sine hoc quod ad aliud ligetur; unde minus importat voti commutatio quam dispensatio; et ideo cum ex causa rationabili in voto dispensari possit, potest etiam votum commutari, vel quia illud in quod fit commutatio, est melius, vel quia est minus periculosum.  
 
 Ad primum ergo dicendum, quod animal immolatitium ex ipso voto destinabatur ad cultum Dei; et ideo jam quodammodo sanctum erat, et propter hoc non poterat ad communes usus deduci. Et similiter etiam nunc si aliquis vovet religionem intrare, non potest alium ponere loco sui in religione: similiter etiam si vovet ire in terram sanctam, non potest alium loco sui mittere, nisi per dispensationem superioris. Secus autem est in aliis votis, in quibus persona determinata non destinatur ad specialem cultum Dei.  
 
@@ -362,7 +362,7 @@ Ad secundum dicendum, quod Bernardus loquitur consulendo: quia quandoque ex anim
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod in commutatione est quidam contractus, qui non potest perfici sine consensu utriusque partis; unde cum homo per votum Deo se obliget, non potest fieri immutatio voti, nisi interveniat consensus ejus qui vicem Dei gerit in terris, scilicet praelati; nisi forte unum votum ab alio includatur. Et quia votum religionis includit omnia alia vota tum ratione perpetuitatis, tum ratione obedientiae, qua homo voluntatem suam Deo tradit, per quam sui et omnium dominus esse potest; ideo ille qui aliquod votum temporale fecit, potest non requisita alicujus praelati dispensatione religionem intrare non obstante voto praecedente quod ingressum religionis impediret, puta peregrinationis, vel alicujus hujusmodi. Si autem duo temporalia vovit, quorum utrumque est alteri compossibile, debet utrumque servare, nisi forte auctoritate superioris minus votum praecedens in majus sequens commutaverit. Si autem secundum votum sit omnino incompossibile primo, debet servare majus, et de minori secundum arbitrium praelati satisfacere.***
+Ad quartam quaestionem dicendum, quod in commutatione est quidam contractus, qui non potest perfici sine consensu utriusque partis; unde cum homo per votum Deo se obliget, non potest fieri immutatio voti, nisi interveniat consensus ejus qui vicem Dei gerit in terris, scilicet praelati; nisi forte unum votum ab alio includatur. Et quia votum religionis includit omnia alia vota tum ratione perpetuitatis, tum ratione obedientiae, qua homo voluntatem suam Deo tradit, per quam sui et omnium dominus esse potest; ideo ille qui aliquod votum temporale fecit, potest non requisita alicujus praelati dispensatione religionem intrare non obstante voto praecedente quod ingressum religionis impediret, puta peregrinationis, vel alicujus hujusmodi. Si autem duo temporalia vovit, quorum utrumque est alteri compossibile, debet utrumque servare, nisi forte auctoritate superioris minus votum praecedens in majus sequens commutaverit. Si autem secundum votum sit omnino incompossibile primo, debet servare majus, et de minori secundum arbitrium praelati satisfacere.  
 
 Ad primum ergo dicendum, quod votum terrae sanctae obligat hominem ad serviendum Deo temporaliter, et quantum ad determinatum tempus; sed votum religionis quantum ad omnia, et secundum omne tempus; et ideo quodammodo est ampliatio voti magis quam commutatio.  
 
@@ -374,7 +374,7 @@ Articulus 5
 
 ***De velatione virginum, quae fit in signum cujusdam voti***
 
-***Ad quintum sic proceditur. Videtur quod virginibus voventibus continentiam non debeatur speciale velum prae aliis quae continentiam voverunt, et corruptae sunt. Quia tam virginitas quam continentiae votum viris et mulieribus communia sunt. Sed viris in virginitate continentiam voventibus nihil aliud datur quam aliis qui virginitatem perdiderunt. Ergo nec virgines debent prae aliis speciale velum accipere.***
+Ad quintum sic proceditur. Videtur quod virginibus voventibus continentiam non debeatur speciale velum prae aliis quae continentiam voverunt, et corruptae sunt. Quia tam virginitas quam continentiae votum viris et mulieribus communia sunt. Sed viris in virginitate continentiam voventibus nihil aliud datur quam aliis qui virginitatem perdiderunt. Ergo nec virgines debent prae aliis speciale velum accipere.  
 
 Praeterea, signa in nova lege non sunt inania, sed fructuosa; quia sacramenta novae legis gratiam conferunt. Sed virginale velum non videtur esse fructuosum, quia gratia non confertur in ipso; alias esset sacramentum, et deberet corruptis dari quae etiam indigent auxilio gratiae ad continentiam conservandam. Ergo videtur quod virginibus non debeatur aliquod velum speciale prae aliis.  
 
@@ -415,7 +415,7 @@ primo, quid sit;
 
 ***Quid sit***
 
-***Ad primum sic proceditur. Videtur quod inconvenienter assignetur definitio scandali, quae sumitur ex Glossa interlineali, Matth. 18, super illud: *vae mundo a scandalis*, scilicet: *scandalum est dictum vel factum minus rectum praebens aliis occasionem ruinae*. Scandalum enim dividitur in activum et passivum. Sed haec definitio non potest convenire scandalo passivo. Ergo non convertitur cum definito; et sic est incompetens***
+Ad primum sic proceditur. Videtur quod inconvenienter assignetur definitio scandali, quae sumitur ex Glossa interlineali, Matth. 18, super illud: *vae mundo a scandalis*, scilicet: *scandalum est dictum vel factum minus rectum praebens aliis occasionem ruinae*. Scandalum enim dividitur in activum et passivum. Sed haec definitio non potest convenire scandalo passivo. Ergo non convertitur cum definito; et sic est incompetens  
 
 Praeterea, Num. 31, super illud: *ulciscere prius filios Israel* etc., dicitur, quod scandalum est, cum recte ambulanti deceptio submittitur ad ruinam. Sed non omne dictum vel factum minus rectum est deceptio. Ergo scandali definitio est incompetenter assignata.  
 
@@ -443,7 +443,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod scandalum non sit peccatum semper. Nullum enim necessarium est peccatum. Sed *necesse est ut veniant scandala*, ut dicitur Matth. 18, 7. Ergo scandalum non est peccatum.***
+Ad secundum sic proceditur. Videtur quod scandalum non sit peccatum semper. Nullum enim necessarium est peccatum. Sed *necesse est ut veniant scandala*, ut dicitur Matth. 18, 7. Ergo scandalum non est peccatum.  
 
 Praeterea, omne peccatum est ex diaboli incentivo, non ex pietatis affectu. Sed Matth. 16, ubi dicitur Petro: *vade retro me, Satanas; scandalum mihi es*; dicit Glossa: *error apostoli ex pietatis affectu venit potius quam ex incentivo Diaboli*. Ergo non omne scandalum est peccatum.  
 
@@ -455,7 +455,7 @@ Praeterea, Numer. 31, dicitur in Glossa: *longe gravius peccatum est dare peccat
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit speciale peccatum. Quia secundum Philosophum in 5 *Ethic*., *omnis specialis injustificatio quandoque invenitur separata ab omnibus aliis injustificationibus*. Sed scandalum non invenitur separatum ab aliis peccatis, quia semper est dictum vel factum minus rectum. Ergo non est speciale peccatum.***
+Ulterius. Videtur quod non sit speciale peccatum. Quia secundum Philosophum in 5 *Ethic*., *omnis specialis injustificatio quandoque invenitur separata ab omnibus aliis injustificationibus*. Sed scandalum non invenitur separatum ab aliis peccatis, quia semper est dictum vel factum minus rectum. Ergo non est speciale peccatum.  
 
 Praeterea, secundum quodlibet genus peccati contingit aliquod dictum vel factum minus rectum praebens occasionem ruinae. Sed haec est definitio scandali. Ergo scandalum non est aliquod speciale peccatum.  
 
@@ -469,7 +469,7 @@ Praeterea, malum dicitur aliquid quia nocet, secundum Augustinum. Sed scandalum 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod scandalum semper sit mortale peccatum. Matth. 18, super illud, *vae mundo a scandalis*, dicit Glossa: *imminet aeterna damnatio inundans propter scandala*. Sed aeterna damnatio non debetur nisi propter peccatum mortale. Ergo scandalum semper est peccatum mortale.***
+Ulterius. Videtur quod scandalum semper sit mortale peccatum. Matth. 18, super illud, *vae mundo a scandalis*, dicit Glossa: *imminet aeterna damnatio inundans propter scandala*. Sed aeterna damnatio non debetur nisi propter peccatum mortale. Ergo scandalum semper est peccatum mortale.  
 
 Praeterea, vita spiritualis est dignior quam corporalis. Sed qui subtrahit alicui vitam corporalem, mortaliter peccat. Ergo et qui scandalizat, cum subtrahat spiritualem vitam, inducens alterum in ruinam.  
 
@@ -477,7 +477,7 @@ Sed contra, scandalum est dictum vel factum minus rectum praebens alteri occasio
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod duplex est scandalum; scilicet activum et passivum, ut ex dictis patet. Passivum quidem scandalum semper peccatum est; quia ille scandalum patitur qui aut a via Dei ejicitur, aut saltem in via retardatur; quod non potest esse sine mortali vel veniali peccato. Activum etiam scandalum semper est peccatum, quia scandalum activum semper est aliquid, quantum est de se, quod natum est inducere alterum ad peccandum; et tale semper aliquam inordinationem habet vel ex genere actus, vel saltem ex circumstantiis personae, loci et temporis; et ideo semper est peccatum. Sed quandoque scandalum activum potest esse sine peccato alicujus scandalum patientis; quando scilicet aliquis, quantum est de se, dat occasionem ruinae, sed alius non ruit; quandoque etiam e converso est scandalum passivum sine peccato alicujus facientis scandalum, ut quando aliquis sibi sumit occasionem ruinae ex eo quod ab altero non inordinate fit.***
+Respondeo dicendum ad primam quaestionem, quod duplex est scandalum; scilicet activum et passivum, ut ex dictis patet. Passivum quidem scandalum semper peccatum est; quia ille scandalum patitur qui aut a via Dei ejicitur, aut saltem in via retardatur; quod non potest esse sine mortali vel veniali peccato. Activum etiam scandalum semper est peccatum, quia scandalum activum semper est aliquid, quantum est de se, quod natum est inducere alterum ad peccandum; et tale semper aliquam inordinationem habet vel ex genere actus, vel saltem ex circumstantiis personae, loci et temporis; et ideo semper est peccatum. Sed quandoque scandalum activum potest esse sine peccato alicujus scandalum patientis; quando scilicet aliquis, quantum est de se, dat occasionem ruinae, sed alius non ruit; quandoque etiam e converso est scandalum passivum sine peccato alicujus facientis scandalum, ut quando aliquis sibi sumit occasionem ruinae ex eo quod ab altero non inordinate fit.  
 
 Ad primum ergo dicendum, quod duplex est necessitas. Una absoluta; sive aliquid sit necessarium per se ipsum, sicut necessarium est Deum esse; sive ex coactione alicujus causae exterioris, sicut violentum dicitur necessarium; et sic non est necessarium scandala evenire. Alia est necessitas conditionata, quae non repugnat voluntario; et sic necesse est scandala evenire necessitate conditionata ex tribus. Primo ex ipsa praescientia et praedestinatione divina, sicut dicimus: necesse est hoc esse, si Deus praevidit; et talis necessitas non repugnat libertatis arbitrio; unde super hunc locum dicit Chrysostomus: *cum dicitur, necesse, non spontaneum potestatis destruit, neque libertatem electionis. Non igitur praedictio ejus scandala inducit, neque quia praedixit, hoc fit; sed quia futurum erat, propter hoc praedixit*. Secundo ex inclinatione fomitis, sicut etiam dicimus quod necesse est peccare venialiter, quamvis sit possibile singula venialia peccata vitare. Tertio ex utilitate consequente, quam Deus ex scandalis elicit, sicut omnia utilia dicuntur necessaria.  
 
@@ -487,7 +487,7 @@ Ad tertium dicendum, quod per se loquendo, scandalum activum est majus peccatum 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod actus aliquis determinatur ad speciem moris dupliciter. Uno modo ex parte objecti, sicut fornicatio ex hoc quod est circa delectabilia tactus; et haec determinatio est materialis, et respicit habitum elicientem actum. Alio modo ex parte finis; et haec est formalis specificatio, et respicit habitum imperantem. Contingit autem quandoque quod ad eamdem speciem determinatur actus ex utraque parte, sicut quando aliquis actus ab eodem habitu elicitur et imperatur, ut cum quis fornicatur propter delectationem. Quandoque autem ex utraque parte determinatur, sed ad diversas species, ut quando actus ab uno habitu elicitur, et ab alio imperatur, sicut cum quis fornicatur propter lucrum; determinatur enim ad speciem luxuriae ex objecto, sed ad speciem avaritiae ex fine; non tamen sunt ibi duo peccata, sed unum peccatum duplex, cum sit unus actus. Quandoque etiam evenit quod aliquis actus non determinatur ad aliquam certam speciem ex parte objecti, sed ex parte finis, eo quod habet determinatum habitum a quo imperatur, sed non a quo eliciatur, sicut aedificare proximum, quem actum caritas non elicit, quia ejus non est elicere nisi interiores actus, per quos non fit aedificatio, sed imperat eum, et ab aliis virtutibus elicitur materialiter, non determinate ab aliqua, sed ab omnibus, quia caritas omnibus imperare potest.***
+Ad secundam quaestionem dicendum, quod actus aliquis determinatur ad speciem moris dupliciter. Uno modo ex parte objecti, sicut fornicatio ex hoc quod est circa delectabilia tactus; et haec determinatio est materialis, et respicit habitum elicientem actum. Alio modo ex parte finis; et haec est formalis specificatio, et respicit habitum imperantem. Contingit autem quandoque quod ad eamdem speciem determinatur actus ex utraque parte, sicut quando aliquis actus ab eodem habitu elicitur et imperatur, ut cum quis fornicatur propter delectationem. Quandoque autem ex utraque parte determinatur, sed ad diversas species, ut quando actus ab uno habitu elicitur, et ab alio imperatur, sicut cum quis fornicatur propter lucrum; determinatur enim ad speciem luxuriae ex objecto, sed ad speciem avaritiae ex fine; non tamen sunt ibi duo peccata, sed unum peccatum duplex, cum sit unus actus. Quandoque etiam evenit quod aliquis actus non determinatur ad aliquam certam speciem ex parte objecti, sed ex parte finis, eo quod habet determinatum habitum a quo imperatur, sed non a quo eliciatur, sicut aedificare proximum, quem actum caritas non elicit, quia ejus non est elicere nisi interiores actus, per quos non fit aedificatio, sed imperat eum, et ab aliis virtutibus elicitur materialiter, non determinate ab aliqua, sed ab omnibus, quia caritas omnibus imperare potest.  
 
 Et quia scandalum activum est peccatum oppositum aedificationi proximorum; ideo, materialiter loquendo, ex parte materiae et habituum elicientium non est speciale peccatum, sed solum loquendo formaliter, ex parte finis et habitus imperantis qui est habitus caritati oppositus, scilicet vitium odii; et ideo quando aliquis dictum vel factum minus rectum facit intendens occasionem ruinae proximo praestare, speciale peccatum scandalizando committit. Si autem praeter intentionem suam accidat, non erit scandalum activum speciale peccatum; tamen erit circumstantia quaedam peccati, eo quod sicut quilibet actus virtutis habet ordinem ad finem caritatis, etiamsi actus non ordinetur in finem illum, et sicut habet aptitudinem ut imperetur a caritate; ita quodlibet peccatum, quantum est de se, habet ordinem ad contrarium finem, etiamsi ille finis non intendatur ab agente.  
 
@@ -501,7 +501,7 @@ Ad quartum dicendum, quod ille qui scandalizatur, et agit et patitur; actio aute
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod duplex est scandalum, ut dictum est, scilicet activum et passivum; et utrumque est quandoque veniale, quandoque mortale peccatum. Passivum quidem mortale peccatum est, quando aliquis ex peccato alterius in peccatum mortale ruit, sive factum agentis sit bonum, sive indifferens, sive malum mortalis aut venialis peccati; sed veniale peccatum est quando aliquis ex facto alterius quomodocumque non ruit, sed disponitur ad ruinam, sicut qui impingit, disponitur ad casum, etiam si non cadat; unde Glossa interlinealis, Rom. 14, *scandalum contristationem nominat*.***
+Ad tertiam quaestionem dicendum, quod duplex est scandalum, ut dictum est, scilicet activum et passivum; et utrumque est quandoque veniale, quandoque mortale peccatum. Passivum quidem mortale peccatum est, quando aliquis ex peccato alterius in peccatum mortale ruit, sive factum agentis sit bonum, sive indifferens, sive malum mortalis aut venialis peccati; sed veniale peccatum est quando aliquis ex facto alterius quomodocumque non ruit, sed disponitur ad ruinam, sicut qui impingit, disponitur ad casum, etiam si non cadat; unde Glossa interlinealis, Rom. 14, *scandalum contristationem nominat*.  
 
 Sed activum scandalum potest accipi dupliciter. Uno modo formaliter; quando scilicet est speciale peccatum, ex hoc quod intendit alium scandalizare; et sic si intendat proximum inducere in peccatum mortale, mortaliter peccat; si autem intendat inducere ad aliquod veniale, peccat venialiter, quantum pertinet ad rationem scandali; quia si intenderet ducere in peccatum veniale per actum mortalis peccati, peccaret mortaliter; sed hoc accideret scandalo. Alio modo materialiter, quando est circumstantia peccati, quia non intenditur proximi nocumentum; et tunc idem judicium est de scandalo et de actu quo aliquis scandalizat; qui quandoque est veniale, quandoque mortale peccatum; nisi forte esset veniale aut indifferens habens similitudinem mortalis peccati; tunc enim scandalum activum esset peccatum mortale, cum ex aliquibus circumstantiis concurrentibus existimari probabiliter posset quod infirmi aspicientes peccarent mortaliter.  
 
@@ -515,7 +515,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod scandalum passivum non sit tantum pusillorum. Christus enim pusillus non fuit, sed perfectissimus. Sed Christus passus fuit scandalum a Petro, cui dixit: *scandalum mihi es*; Matth. 16, 23. Ergo, etc.***
+Ad tertium sic proceditur. Videtur quod scandalum passivum non sit tantum pusillorum. Christus enim pusillus non fuit, sed perfectissimus. Sed Christus passus fuit scandalum a Petro, cui dixit: *scandalum mihi es*; Matth. 16, 23. Ergo, etc.  
 
 Praeterea, nullus potest amare, nisi aliquis ametur. Ergo nullus potest scandalizare, nisi aliquis scandalizetur. Sed ille qui coram perfectis viris peccat, scandalizat non alios quam videntes. Ergo perfecti scandalizantur; et sic non solum pusilli.  
 
@@ -527,7 +527,7 @@ Praeterea, apostolus dicit de scandalizatis, quod *conscientia eorum, cum sit in
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam perfectis competat scandalum activum. Christus enim perfectissimus fuit. Sed ipse scandalizavit, quia *positus est in ruinam multorum*, ut dicitur Lucae 2, et *Pharisaei audito verbo ejus scandalizati sunt*, ut dicitur Matth. 15. Ergo scandalum activum competit perfectis.***
+Ulterius. Videtur quod etiam perfectis competat scandalum activum. Christus enim perfectissimus fuit. Sed ipse scandalizavit, quia *positus est in ruinam multorum*, ut dicitur Lucae 2, et *Pharisaei audito verbo ejus scandalizati sunt*, ut dicitur Matth. 15. Ergo scandalum activum competit perfectis.  
 
 Praeterea, Petrus postquam fuit Spiritu Sancto confirmatus, perfectus fuit. Sed ipse scandalizavit; quia facto suo cogebat gentes judaizare. Ergo, etc.  
 
@@ -535,7 +535,7 @@ Sed contra, non enim ejusdem est provocare exemplis ad bonum et scandalizare. Se
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod soli perfecti possunt scandalizare. Quia contraria contrariis respondere debent. Sed scandalum passivum dividitur contra activum. Cum ergo solis pusillis conveniat scandalum passivum, solis perfectis convenire poterit activum.***
+Ulterius. Videtur quod soli perfecti possunt scandalizare. Quia contraria contrariis respondere debent. Sed scandalum passivum dividitur contra activum. Cum ergo solis pusillis conveniat scandalum passivum, solis perfectis convenire poterit activum.  
 
 Praeterea, ille solum scandalizat qui exemplo suo provocat ad peccandum. Sed hoc est illorum tantum quorum vita in exemplum aliorum est posita, scilicet praelatorum, et religiosorum. Ergo ipsorum tantum est scandalum activum.  
 
@@ -543,7 +543,7 @@ Sed contra, Petrus ante passionem nondum erat in statu perfectionis; quia nondum
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod scandalum passivum patitur aliquis dupliciter. Uno modo ex propria electione; sicut cum quis videns aliquem peccantem, eligit sequi eum ad peccandum; et sic non est perfectorum scandalum passivum; quia ipsi sequuntur principaliter Christi exemplum, et praecepta Dei, et rationis bonum; unde nullius exemplum contra praedicta sequuntur. Alio modo praeter electionem; sicut cum ex facto alterius alicui suboritur aliquis concupiscentiae motus, vel etiam tristitiae, aut irae, aut alicujus hujusmodi; et sic scandalum passivum potest esse quorumlibet perfectorum secundum statum viae. Sed quia principale moris electio est, ut Philosophus dicit; communiter dicitur, quod scandalum passivum non est perfectorum.***
+Respondeo dicendum ad primam quaestionem, quod scandalum passivum patitur aliquis dupliciter. Uno modo ex propria electione; sicut cum quis videns aliquem peccantem, eligit sequi eum ad peccandum; et sic non est perfectorum scandalum passivum; quia ipsi sequuntur principaliter Christi exemplum, et praecepta Dei, et rationis bonum; unde nullius exemplum contra praedicta sequuntur. Alio modo praeter electionem; sicut cum ex facto alterius alicui suboritur aliquis concupiscentiae motus, vel etiam tristitiae, aut irae, aut alicujus hujusmodi; et sic scandalum passivum potest esse quorumlibet perfectorum secundum statum viae. Sed quia principale moris electio est, ut Philosophus dicit; communiter dicitur, quod scandalum passivum non est perfectorum.  
 
 Ad primum ergo dicendum, quod Christus dixit Petro: *scandalum mihi es*, non quia ex facto ejus scandalizatus sit; sed quia Petrus, quantum in se fuit, aliquo modo ei scandalum dedit.  
 
@@ -553,7 +553,7 @@ Ad tertium dicendum, quod quamvis vir perfectus quandoque ex electione etiam ali
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod scandalum activum quandoque est veniale, quandoque mortale peccatum, ut ex dictis patet. Secundum ergo quod est mortale peccatum, nullo modo perfectis competit, sicut nec peccare mortaliter; sed secundum quod est veniale peccatum, convenit etiam quandoque perfectis, sicut et peccatum veniale, inquantum in eis aliquid infirmitatis remanet.***
+Ad secundam quaestionem dicendum, quod scandalum activum quandoque est veniale, quandoque mortale peccatum, ut ex dictis patet. Secundum ergo quod est mortale peccatum, nullo modo perfectis competit, sicut nec peccare mortaliter; sed secundum quod est veniale peccatum, convenit etiam quandoque perfectis, sicut et peccatum veniale, inquantum in eis aliquid infirmitatis remanet.  
 
 Ad primum ergo dicendum, quod quia aliqui ex factis aut dictis Christi sumpserunt occasionem ruinae, dicitur esse in ruinam et scandalum; non quia ipse dederit aliquam, vel modicam, occasionem ruinae; unde non legitur quod Christus aliquos scandalizaverit; sed quod aliqui ex factis vel verbis ejus scandalizati sunt.  
 
@@ -561,7 +561,7 @@ Ad secundum dicendum, quod Petrus, secundum Augustinum, in rei veritate reprehen
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod etiam imperfecti possunt dare suo dicto vel facto alii occasionem ruinae, vel indirecte provocando exemplo, vel directe provocando ad malum persuadendo verbis, aut commovendo factis; et ideo non est dubium quod quilibet imperfectus potest scandalizare.***
+Ad tertiam quaestionem dicendum, quod etiam imperfecti possunt dare suo dicto vel facto alii occasionem ruinae, vel indirecte provocando exemplo, vel directe provocando ad malum persuadendo verbis, aut commovendo factis; et ideo non est dubium quod quilibet imperfectus potest scandalizare.  
 
 Ad primum ergo dicendum, quod in viris perfectis est aliqua dispositio prohibens scandalum passivum ab ipsis; sed in viris imperfectis nihil est quod prohibeat scandalum activum; et ideo ratio non sequitur.  
 
@@ -573,7 +573,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod veritas sit propter scandalum dimittenda. In parabola de zizania dicit Glossa Augustini: *cum multitudo est in causa, vel princeps, detrahendum est severitati*. Sed non nisi propter scandalum. Ergo veritas justitiae propter scandalum dimittenda est.***
+Ad quartum sic proceditur. Videtur quod veritas sit propter scandalum dimittenda. In parabola de zizania dicit Glossa Augustini: *cum multitudo est in causa, vel princeps, detrahendum est severitati*. Sed non nisi propter scandalum. Ergo veritas justitiae propter scandalum dimittenda est.  
 
 Praeterea, vitatio cujuslibet peccati pertinet ad veritatem vitae. Sed homo ad vitandum scandalum proximi debet peccatum veniale committere: quia plus debet cavere damnum aeternum proximi, quod patitur per peccatum mortale quo scandalizatus fuit, quam damnum temporale suum, quod patitur per peccatum veniale. Ergo veritas vitae dimittenda est propter scandalum.  
 
@@ -585,7 +585,7 @@ Praeterea, homo non debet peccare ut alterius peccatum vitet. Sed ille qui dimit
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod consilia sint propter scandalum dimittenda. Quia regula est Hieronymi, quod *omne quod potest fieri vel non fieri salva triplici veritate, dimittendum est propter scandalum*. Sed consilia sunt hujusmodi. Ergo sunt dimittenda propter scandalum.***
+Ulterius. Videtur quod consilia sint propter scandalum dimittenda. Quia regula est Hieronymi, quod *omne quod potest fieri vel non fieri salva triplici veritate, dimittendum est propter scandalum*. Sed consilia sunt hujusmodi. Ergo sunt dimittenda propter scandalum.  
 
 Praeterea, votum religionis quoddam consilium est. Sed homo debet dimittere religionis ingressum propter scandalum parentum, ne honor eis debitus subtrahatur: quia praeceptum est: *honora parentes*, Exod. 20. Ergo consilia sunt propter scandalum dimittenda.  
 
@@ -597,7 +597,7 @@ Praeterea, Hieronymus dicit ad Eliodorum: *licet parvulus in collo pendeat nepos
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod res temporales sint dimittendae propter scandalum. Apostolo enim debebantur temporalia, qui spiritualia seminabat. Sed apostolus non usus est hac potestate, ne offendiculum daret Evangelio Christi, ut patet 1 Corinth. 9. Ergo et nos pro scandalo vitando temporalia debemus abjicere.***
+Ulterius. Videtur quod res temporales sint dimittendae propter scandalum. Apostolo enim debebantur temporalia, qui spiritualia seminabat. Sed apostolus non usus est hac potestate, ne offendiculum daret Evangelio Christi, ut patet 1 Corinth. 9. Ergo et nos pro scandalo vitando temporalia debemus abjicere.  
 
 Praeterea, aliquis tenetur dare rem suam existenti ultima in necessitate ad mortem temporalem evitandam. Sed magis debemus obviare morti spirituali proximi quam corporali. Ergo potius debemus rem temporalem dimittere quam dimittamus eum in mortem spiritualem cadere per scandalum.  
 
@@ -617,7 +617,7 @@ Praeterea, nullus ex peccato suo debet reportare commodum. Hoc autem esset, si e
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod scandalum activum nunquam est sine peccato facientis, ut ex dictis patet. Nulla autem de causa debet aliquis inclinari ad peccandum; unde potius debet omnia praetermittere quam scandalum activum faciat, neque unquam propter scandalum activum vitandum potest dimitti veritas: quia quicumque veritatem sequitur, non scandalizat active, cum scandalum activum sit factum vel dictum minus rectum; unde cum quaeritur utrum veritas sit dimittenda propter scandalum, non intelligitur quaestio de scandalo activo, sed de passivo, quod interdum est sine peccato facientis illud unde scandali occasio sumitur; quamvis nunquam sit sine peccato ejus qui scandalizatur, ut ex dictis patet.***
+Respondeo dicendum ad primam quaestionem, quod scandalum activum nunquam est sine peccato facientis, ut ex dictis patet. Nulla autem de causa debet aliquis inclinari ad peccandum; unde potius debet omnia praetermittere quam scandalum activum faciat, neque unquam propter scandalum activum vitandum potest dimitti veritas: quia quicumque veritatem sequitur, non scandalizat active, cum scandalum activum sit factum vel dictum minus rectum; unde cum quaeritur utrum veritas sit dimittenda propter scandalum, non intelligitur quaestio de scandalo activo, sed de passivo, quod interdum est sine peccato facientis illud unde scandali occasio sumitur; quamvis nunquam sit sine peccato ejus qui scandalizatur, ut ex dictis patet.  
 
 Et ideo cum quaeritur quid sit dimittendum propter scandalum passivum, nihil aliud est quaerere quam quid homo debeat dimittere ne alius peccet. Cum autem homo ex ordine caritatis se plus quam proximum in spiritualibus bonis diligere teneatur, nullo modo aliquis peccare debet ut peccatum alterius vitet. Quicumque autem veritatem relinquit, peccat. Veritas autem de qua loquimur, consistit in hoc quod homo in dictis et factis suis rectitudini divinae, sive divinae legis regulae, se conformet: cui quidem homo conformari debet et in his quae ad cognitionem pertinent, et hoc pertinet ad veritatem doctrinae; et in his quae ad actionem spectant; sive ea debeat aliquis per se ipsum agere, quod pertinet ad veritatem vitae, sive ea debeat ab aliis observanda promulgare, quod pertinet ad veritatem justitiae, quae consistit in rectitudine judicii. Non tamen quicumque praetermittit aliquid in quo se divinae legi conformare potest, dicitur veritatem dimittere, quia illo remoto veritas adhuc remanere potest; sed tunc dicitur aliquis veritatem dimittere, quando dimittit vel facit aliquid quo omisso et facto veritas non manet; quod sine peccato esse non potest; et ideo nullo modo veritas propter scandalum passivum alterius dimittenda est.  
 
@@ -629,7 +629,7 @@ Ad tertium dicendum, quod in doctrina est considerare duo; scilicet actum docent
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod omnia opera perfectionis quae non sunt in praecepto, consilia dicuntur; unde praetermitti possunt salva triplici veritate; sed aliquando cadunt sub praecepto, vel ex voto vel ex aliqua alia circumstantia; et tunc praetermitti non possunt sine praejudicio veritatis vitae; et sic de eis nunc non loquimur, sed solum quando manet in potestate nostra facere ea vel non facere. Sic ergo loquendo, distinguendum est in scandalo passivo; quia quandoque oritur ex malitia odientium veritatem, qui turbantur et alios turbant propter opera lucis, quasi filii tenebrarum; et hoc est scandalum Pharisaeorum, ut Bernardus dicit: et propter hoc scandalum passivum nullo modo consilia sunt dimittenda; quia sic iniquis daretur locus impediendi opera perfectionis cum vellent. Unde dominus dixit de Pharisaeis, qui ex malitia scandalizabantur ex factis et dictis ejus Matth. 15, 14: *sinite illos; caeci sunt et duces caecorum*.***
+Ad secundam quaestionem dicendum, quod omnia opera perfectionis quae non sunt in praecepto, consilia dicuntur; unde praetermitti possunt salva triplici veritate; sed aliquando cadunt sub praecepto, vel ex voto vel ex aliqua alia circumstantia; et tunc praetermitti non possunt sine praejudicio veritatis vitae; et sic de eis nunc non loquimur, sed solum quando manet in potestate nostra facere ea vel non facere. Sic ergo loquendo, distinguendum est in scandalo passivo; quia quandoque oritur ex malitia odientium veritatem, qui turbantur et alios turbant propter opera lucis, quasi filii tenebrarum; et hoc est scandalum Pharisaeorum, ut Bernardus dicit: et propter hoc scandalum passivum nullo modo consilia sunt dimittenda; quia sic iniquis daretur locus impediendi opera perfectionis cum vellent. Unde dominus dixit de Pharisaeis, qui ex malitia scandalizabantur ex factis et dictis ejus Matth. 15, 14: *sinite illos; caeci sunt et duces caecorum*.  
 
 Quandoque autem oritur ex ignorantia vel infirmitate; et hoc dicitur, secundum Bernardum, scandalum pusillorum, qui non cognoscunt veritatem, et propter hoc de operibus veritatis turbantur; et hoc scandalum cavit dominus Matth. 17, 26, ubi dixit Petro: *ut autem non scandalizemus eos, vade ad mare*, etc. et cavere docuit Matth. 18; unde propter tale scandalum passivum consilia sunt ad tempus intermittenda vel occulte agenda, non autem omnino dimittenda; quia homo plus sibi quam proximis in spiritualibus providere debet; et ignorantia si diu duret, in malitiam per obstinationem commutatur. Tamen attendenda est quantitas scandali, et boni quod contingit ex consilio servato; et secundum hoc aliquando consilia sunt praetermittenda propter scandalum pusillorum, vel scandalum contemnendum propter consilia.  
 
@@ -645,7 +645,7 @@ Ad quintum dicendum, quod Hieronymus loquitur de scandalo propinquorum irrationa
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod abjicere temporalia vel dimittere contingit dupliciter. Uno modo cum quis dat quod penes se habet; alio modo cum non repetit quae sibi debentur; et de istis duobus fere est idem judicium. Sciendum ergo est, quod aliquando aliquis non dans rem suam alteri scandalizat active, vel quia dare tenetur, vel quia malo modo denegat; et sic nulli licet retinere quae possidet cum scandalo activo.***
+Ad tertiam quaestionem dicendum, quod abjicere temporalia vel dimittere contingit dupliciter. Uno modo cum quis dat quod penes se habet; alio modo cum non repetit quae sibi debentur; et de istis duobus fere est idem judicium. Sciendum ergo est, quod aliquando aliquis non dans rem suam alteri scandalizat active, vel quia dare tenetur, vel quia malo modo denegat; et sic nulli licet retinere quae possidet cum scandalo activo.  
 
 Aliquando vero sequitur scandalum passivum ex hoc quod aliquis rem temporalem non donat; et in hoc distinguendum est. Quia quandoque non potest dare sine peccato: vel quia scit illum cui dat, usurum re data in malos usus; vel quia non potest dare rem temporalem uni sine praejudicio alterius; sicut si illi qui gerunt alicujus communitatis curam, dent aliqua ex quorum subtractione fiat pejor conditio illius communitatis; et tunc non debet dare temporalem rem propter scandalum vitandum, quia hoc esset facere contra veritatem justitiae aut vitae.  
 
@@ -675,7 +675,7 @@ Ad septimum dicendum, quod quamvis salva triplici veritate, in hoc particulari p
 
 Expositio textus  
 
-****Quia probari non potest quod occulte factum est*. Haec non est sufficiens ratio quare non impediatur matrimonium simpliciter; quia defectus probationis non excusaret conscientiam a peccato; sed quare non impeditur in facie Ecclesiae.***
+*Quia probari non potest quod occulte factum est*. Haec non est sufficiens ratio quare non impediatur matrimonium simpliciter; quia defectus probationis non excusaret conscientiam a peccato; sed quare non impeditur in facie Ecclesiae.  
 
 *Viduas a proposito recedentes viduitatis, super quibus nos consuluisti, credo te nosse a sancto Paulo, nisi convertantur, olim esse damnatas*. Loquitur de proposito per votum firmato.  
 

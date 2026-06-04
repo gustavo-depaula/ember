@@ -1,5 +1,7 @@
 # Proposition 21
 
+***162. Primum est dives per se ipsum et est dives maius.***
+
 > 163. Et significatio eius est unitas eius, non quia unitas eius sit sparsa in ipso, immo est unitas eius pura, quoniam est simplex in fine simplicitatis.
 
 > 164. Si autem aliquis vult scire, quod prima causa est dives, proiciat mentem suam super res compositas et inquirat de eis inquisitione perscrutata. Inveniet enim omne compositum diminutum, indigens quidem aut alio aut rebus, ex quibus componitur. Res autem simplex una, quae est bonitas, est una, et unitas eius est bonitas, et bonitas est res una.

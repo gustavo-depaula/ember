@@ -1,5 +1,7 @@
 # Chapter 2
 
+***Lectio 1***
+
 ***^2:1^ Verbum quod vidit Isaias filius Amos super Judam et Jerusalem.***
 
 > ^2:2^ Et erit in novissimis diebus præparatus mons domus Domini in vertice montium, et elevabitur super colles. Et fluent ad eum omnes gentes,
@@ -82,7 +84,7 @@ Tertio ad obedientiam: ***et ambulabimus***, post eum, ***in semitis ejus*** con
 
 Lectio 2  
 
-***^2:4^ Et judicabit gentes et arguet populos multos; et conflabunt gladios suos in vomeres et lanceas suas in falces; non levabit gens contra gentem gladium, nec exercebuntur ultra ad prælium.***
+^2:4^ Et judicabit gentes et arguet populos multos; et conflabunt gladios suos in vomeres et lanceas suas in falces; non levabit gens contra gentem gladium, nec exercebuntur ultra ad prælium.  
 
 > ^2:5^ Domus Jacob venite et ambulemus in lumine Domini Dei nostri.
 

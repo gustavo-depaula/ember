@@ -1,8 +1,10 @@
 # D. 24 - Names signifying unity and plurality in the divine
 
+***De nominibus significantibus unitatem et pluralitatem***
+
 ***Divisio textus***
 
-***Posita divisione divinorum nominum et ostenso quod quaedam pluraliter in divinis praedicantur, et quaedam singulariter tantum, inquirit Magister hic de nominibus significantibus unitatem et pluralitatem, qualiter in Deo accipiantur; et dividitur in partes duas: in prima determinat de ipsis nominibus significantibus unitatem et pluralitatem secundum se; in secunda ostendit qualiter termini significantes pluralitatem, possunt addi huic nomini “persona,” 25 dist., ibi: *praeterea considerandum est*.***
+Posita divisione divinorum nominum et ostenso quod quaedam pluraliter in divinis praedicantur, et quaedam singulariter tantum, inquirit Magister hic de nominibus significantibus unitatem et pluralitatem, qualiter in Deo accipiantur; et dividitur in partes duas: in prima determinat de ipsis nominibus significantibus unitatem et pluralitatem secundum se; in secunda ostendit qualiter termini significantes pluralitatem, possunt addi huic nomini “persona,” 25 dist., ibi: *praeterea considerandum est*.  
 
 Prima in tres: in prima movet quaestionem; in secunda solvit eam, ibi: *si diligenter praemissis auctoritatum verbis intendimus*; in tertia solvit quamdam objectionem, ibi: *hic non est praetermittendum quod cum supra dictum sit, Deum nec singularem nec multiplicem esse confitendum . . . ; in contrarium videtur sentire Isidorus*.  
 
@@ -106,7 +108,7 @@ Articulus 3
 
 ***Utrum unitas et numerus ponant aliquid in divinis vel removeant***
 
-***Ad tertium sic proceditur. Videtur quod unitas et numerus aliquid ponant in divinis, et non dicantur secundum remotionem tantum.***
+Ad tertium sic proceditur. Videtur quod unitas et numerus aliquid ponant in divinis, et non dicantur secundum remotionem tantum.  
 
 Si enim per unum removetur aliquid, non removetur nisi pluralitas; et similiter si per pluralitatem removetur aliquid, non removetur nisi unitas. Si ergo utrumque dicatur per remotionem, tunc utrumque non erit nisi remotio remotionis. Sed privatio privationis nihil est nisi secundum intellectum, qui potest sic multiplicari in infinitum, sicut dicit Avicenna, 3 tract. *Metaph*., cap. 6.The manuscripts read *Augustinus*. Ergo secundum hoc numerus et unitas non essent realiter in Deo, sed in ratione intelligentis tantum, et sic non possent dici plures personae nisi plures notione,Parma: *sed plures rationes*, “but several accounts.” quod videtur haereticum.  
 
@@ -162,7 +164,7 @@ Articulus 4
 
 ***Utrum unum et numerus significent essentiam***
 
-***Ad quartum sic proceditur. Videtur quod hujusmodi dictiones significent divinam essentiam.***
+Ad quartum sic proceditur. Videtur quod hujusmodi dictiones significent divinam essentiam.  
 
 Quidquid enim ad se dicitur in divinis, substantialiter dicitur, et essentiam significat; sed hujusmodi dictiones secundum suum nomen non referuntur ad aliud, sed ad se dicuntur. Ergo sunt essentialia.  
 
@@ -192,7 +194,7 @@ Quaestio 2
 
 ***De nominibus quae sunt pluralitati annexa***
 
-***Deinde quaeritur de nominibus quae sunt pluralitati adnexa; et circa hoc quaeruntur duo:***
+Deinde quaeritur de nominibus quae sunt pluralitati adnexa; et circa hoc quaeruntur duo:  
 
 primo de his quae se habent ad pluralitatem sicut principium;  
 
@@ -264,6 +266,6 @@ Ad tertium dicendum, quod hoc nomen “Trinitas” habet aliquid simile cum nomi
 
 Expositio textus  
 
-****Quia nec numerus nec quantitas ibi est*. Per hoc patet quod Magister intendit quod unitas et multitudo non praedicant aliquid superadditum rebus quibus adjunguntur, nisi secundum quod sunt in genere quantitatis, et hoc modo de Deo non praedicantur.***
+*Quia nec numerus nec quantitas ibi est*. Per hoc patet quod Magister intendit quod unitas et multitudo non praedicant aliquid superadditum rebus quibus adjunguntur, nisi secundum quod sunt in genere quantitatis, et hoc modo de Deo non praedicantur.  
 
 *Faciamus hominem ad imaginem et similitudinem nostram*. Hoc est expositum supra.

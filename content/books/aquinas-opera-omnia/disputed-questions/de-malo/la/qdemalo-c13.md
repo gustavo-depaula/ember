@@ -1,5 +1,7 @@
 # Q. 13 - On avarice
 
+***De avaritia***
+
 ***Articulus 1***
 
 ***Utrum avaritia sit vitium speciale***

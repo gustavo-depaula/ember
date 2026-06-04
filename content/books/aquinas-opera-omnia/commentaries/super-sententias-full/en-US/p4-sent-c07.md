@@ -1,8 +1,10 @@
 # D. 27 - Virtue
 
+***Virtue***
+
 ***Division of the text***
 
-***After he has distinguished grace as operating or cooperating, here he inquires about the genus to which it is traced back, namely, whether it is an act or a quality of mind, raising the same question of grace and of virtue, either because the argument about both is the same, or perhaps because he was of the opinion that grace and virtue do not differ.***
+After he has distinguished grace as operating or cooperating, here he inquires about the genus to which it is traced back, namely, whether it is an act or a quality of mind, raising the same question of grace and of virtue, either because the argument about both is the same, or perhaps because he was of the opinion that grace and virtue do not differ.  
 
 Now it is divided into two parts.  
 
@@ -98,7 +100,7 @@ Article 1
 
 ***Whether virtue is a habit***
 
-***To the first we proceed as follows.Parallel texts: *In III Sent*., d. 23, q. 1, a. 3, resp.; *ST* I-II.55.1; *Disputed Questions on the Virtues*, q. 1, a. 1; *Commentary on Aristotle’s Nicomachean Ethics*, bk. 2, lect. 5. It seems that virtue is not a habit.***
+To the first we proceed as follows.Parallel texts: *In III Sent*., d. 23, q. 1, a. 3, resp.; *ST* I-II.55.1; *Disputed Questions on the Virtues*, q. 1, a. 1; *Commentary on Aristotle’s Nicomachean Ethics*, bk. 2, lect. 5. It seems that virtue is not a habit.  
 
 Obj. 1: For the utmost of a thing is not placed in a genus other than the thing itself. But, as the Philosopher says in *On the Heavens* 1,Aristotle, *On the Heavens* 1.11, 281a15. virtue is the utmost of power in a thing. Therefore, it is not in the genus of habit, but in the genus of power.  
 
@@ -138,7 +140,7 @@ Article 2
 
 ***Whether the definition of virtue posited by Augustine is fitting***
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.55.4; *On the Virtues*, q. 1, a. 2. See Augustine, *De libero arbitrio*, bk. 2, ch. 18 (CCSL 29; PL 32:1266). It seems that Augustine unfittingly defines virtue.Lombard summarizes Augustine’s view by defining virtue as *bona qualitas mentis qua recte vivitur, et qua nullus male utitur, quam Deus solus in homine operatur*, “the good quality of the mind whereby one lives rightly, and which no one uses badly, which God alone works in man.”***
+To the second we proceed as follows.Parallel texts: *ST* I-II.55.4; *On the Virtues*, q. 1, a. 2. See Augustine, *De libero arbitrio*, bk. 2, ch. 18 (CCSL 29; PL 32:1266). It seems that Augustine unfittingly defines virtue.Lombard summarizes Augustine’s view by defining virtue as *bona qualitas mentis qua recte vivitur, et qua nullus male utitur, quam Deus solus in homine operatur*, “the good quality of the mind whereby one lives rightly, and which no one uses badly, which God alone works in man.”  
 
 Obj. 1: For, as is said in the *Topics* 2,Aristotle, *Topics* 2.2, 1095b5. no genus is predicated denominatively of its species.On denominative naming, see also the first chapter of Aristotle’s *Categories*. Denominative naming occurs when the ending of a name is altered in order to predicate that name of another genus; for example, we say, “a man is just” rather than “a man is justice.” But goodness is the genus of virtue. For as the Philosopher says in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.7, 1098a16. virtue is that by which one is good and that which renders work good. Therefore, virtue is unfittingly called a “good quality.”  
 
@@ -182,7 +184,7 @@ Article 3
 
 ***Whether one can merit eternal life condignly through an act of virtue***
 
-***To the third we proceed as follows.Parallel texts: *In III Sent*., d. 18, q. 1, a. 2; *ST* I-II.114.3; *Commentary on Romans*, ch. 4, lect. 1; 8, lect. 4. It seems that one cannot merit eternal life condignly through an act of virtue.***
+To the third we proceed as follows.Parallel texts: *In III Sent*., d. 18, q. 1, a. 2; *ST* I-II.114.3; *Commentary on Romans*, ch. 4, lect. 1; 8, lect. 4. It seems that one cannot merit eternal life condignly through an act of virtue.  
 
 Obj. 1: This seems to be, first, from what is said in Romans 8:18: *the sufferings of this present time are not worth comparing with the glory that is to be revealed to us*. But the saints merit greatly through the sufferings they endure. Therefore, it seems that no one merits eternal life condignly.  
 
@@ -220,7 +222,7 @@ Article 4
 
 ***Whether one can merit grace***
 
-***To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 18, q. 1, a. 4, resp.; d. 19, q. 1, a. 1, resp.; *ST* I-II.114.5; *SCG* III.149; *On Truth*, q. 29, a. 6; *Commentary on John*, ch. 10, lect. 4; *Commentary on Ephesians*, ch. 2, lect. 3. It seems that one can merit grace.***
+To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 18, q. 1, a. 4, resp.; d. 19, q. 1, a. 1, resp.; *ST* I-II.114.5; *SCG* III.149; *On Truth*, q. 29, a. 6; *Commentary on John*, ch. 10, lect. 4; *Commentary on Ephesians*, ch. 2, lect. 3. It seems that one can merit grace.  
 
 Obj. 1: For justification only occurs through grace. But in the text it says that faith merits justification.*Sent*. II, 27.5(177).1; 26.2(163).3. Therefore, one merits grace through an act of faith.  
 
@@ -252,7 +254,7 @@ Article 5
 
 ***Whether one can merit an increase of grace***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I-II.114.8; *Commentary on John*, ch. 10, lect. 4. It seems that one cannot merit an increase of grace.***
+To the fifth we proceed as follows.Parallel texts: *ST* I-II.114.8; *Commentary on John*, ch. 10, lect. 4. It seems that one cannot merit an increase of grace.  
 
 Obj. 1: For we consider efficacy for meriting with reference to the quantity of the root. But if one merits a greater grace through an act of less grace, then the efficacy for meriting would exceed the root of grace. Therefore, it is not the case that one merits an increase of grace.  
 
@@ -286,7 +288,7 @@ Article 6
 
 ***Whether one can merit the first grace for another***
 
-***To the sixth we proceed as follows.Parallel texts: *In III Sent*., d. 19, q. 1, a. 5, resp. and ad 5; *In IV Sent*., d. 45, q. 2, a. 1, resp.; *ST* I.114.6; 7, ad 2; *On Truth*, q. 29, a. 7; *Commentary on 1 Timothy*, ch. 4, lect. 2. It seems that one cannot merit the first grace for another.***
+To the sixth we proceed as follows.Parallel texts: *In III Sent*., d. 19, q. 1, a. 5, resp. and ad 5; *In IV Sent*., d. 45, q. 2, a. 1, resp.; *ST* I.114.6; 7, ad 2; *On Truth*, q. 29, a. 7; *Commentary on 1 Timothy*, ch. 4, lect. 2. It seems that one cannot merit the first grace for another.  
 
 Obj. 1: For an accident does not extend beyond its own subject. But grace, which is the principle of meriting, is an accident. Therefore, the efficacy for meriting does not pass to another, that is, in such a way that one can merit grace for another.  
 
@@ -322,7 +324,7 @@ Reply Obj. 5: It frequently happens that, through the saints’ prayers, men are
 
 Exposition of the text  
 
-****We must first set forth that there are three kinds of goods*.*Sent*. II, 26.9(170).1. Note that Aquinas considers this to be the beginning of Distinction 27; see beginning of the division of the text of Distinction 27. Note that this division of the good is with reference to its quantity, not absolutely, but in comparison to man. Hence it happens that the same thing falls under different classes according to different comparisons. For man’s natural powers, when compared to him whose means they are, are good, since without them one cannot live rightly. Yet it can happen that one does not use them rightly. But when compared to another, they fall under the least goods, since a man can live well without the help of another man.***
+*We must first set forth that there are three kinds of goods*.*Sent*. II, 26.9(170).1. Note that Aquinas considers this to be the beginning of Distinction 27; see beginning of the division of the text of Distinction 27. Note that this division of the good is with reference to its quantity, not absolutely, but in comparison to man. Hence it happens that the same thing falls under different classes according to different comparisons. For man’s natural powers, when compared to him whose means they are, are good, since without them one cannot live rightly. Yet it can happen that one does not use them rightly. But when compared to another, they fall under the least goods, since a man can live well without the help of another man.  
 
 This division is taken with reference to different grades of approximation to man’s ultimate perfection, which consists in perfect activity, in accord with which it comes to pass that he lives rightly. To this man is helped by some things organically and instrumentally, as it were, as the Philosopher says,Aristotle, *Nicomachean Ethics* 1.8, 1098b11–14; 1099a32–b7; 1.9, 1099b26–28. such as goods of fortune, which do not pertain to what is necessary for living rightly, since there can be an upright life without them; they are instead like expediencies for an upright life, so that sustained by these aids man may work with greater ease. Now, there are other things that of themselves bestow something for an upright life as supplying the substance of the act. And such things are reckoned among middling goods, without which no one lives rightly, though one can live perversely even with them. But there are others that confer something for an upright life as giving the perfection of the act itself by rightly informing it, such as the habits of virtues and of graces. These are called “great goods,” since they are nearest to the perfect activity in which is man’s ultimate perfection.  
 

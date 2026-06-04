@@ -1,8 +1,10 @@
 # D. 34 - Actual sin as regards the account of evil
 
+***De peccato actuali quantum ad rationem mali***
+
 ***Divisio textus***
 
-***Postquam determinavit de peccato originali, quod a primis parentibus in posteros transit per carnis originem; hic incipit determinare de actuali, quod a parentibus in posteros transit per imitationem operis; et dividitur in partes duas:***
+Postquam determinavit de peccato originali, quod a primis parentibus in posteros transit per carnis originem; hic incipit determinare de actuali, quod a parentibus in posteros transit per imitationem operis; et dividitur in partes duas:  
 
 in prima determinat de peccato actuali quantum ad rationem mali;  
 
@@ -100,7 +102,7 @@ Articulus 2
 
 ***Utrum malum sit quoddam ens positivum***
 
-***Ad secundum sic proceditur. Videtur quod malum sit ens, sicut natura quaedam, primo modo accipiendi ens, ut ea quae positive aliquid praedicant.***
+Ad secundum sic proceditur. Videtur quod malum sit ens, sicut natura quaedam, primo modo accipiendi ens, ut ea quae positive aliquid praedicant.  
 
 Omne enim genus est natura quaedam: quoniam non entis non sunt neque species neque differentiae, ut Philosophus dicit, cum tamen omne genus in species per differentias dividatur. Sed bonum et malum sunt genera aliorum, ut in *Praedicamentis* dicitur. Ergo malum est aliquid positive praedicans.  
 
@@ -270,7 +272,7 @@ Ad quintum dicendum, quod illud bonum naturae quod per peccatum diminuitur, est 
 
 Expositio textus  
 
-****Manifestum est ex voluntate mala, tamquam ex arbore mala, fieri omnia opera mala*. Hoc dicit ad excludendum quamdam objectionem ex verbis Domini exortam, Matth. 7:18: *non potest arbor bona malos fructus facere*, ex quo videtur sequi quod res bona causa mali esse non possit.***
+*Manifestum est ex voluntate mala, tamquam ex arbore mala, fieri omnia opera mala*. Hoc dicit ad excludendum quamdam objectionem ex verbis Domini exortam, Matth. 7:18: *non potest arbor bona malos fructus facere*, ex quo videtur sequi quod res bona causa mali esse non possit.  
 
 Sed dicendum quod arbor est causa proxima fructus; causa vero prima in genere illo est vel sol vel terra; et causa prima est communis et bonis et malis arboribus, et bonis et malis fructibus; ideo ipsa natura voluntatis, sicut causa prima, est principium bonarum et malarum voluntatum,Parma and PLE: *bonarum et malarum voluntatum*; Mandonnet omits. et bonorum et malorum exteriorum actuum, una et eadem; sed voluntas mala, quae comparatur arbori, est causa mali actus exterioris proxima, qui comparatur fructui.  
 

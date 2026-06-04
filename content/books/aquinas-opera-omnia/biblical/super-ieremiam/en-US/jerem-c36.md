@@ -1,10 +1,12 @@
 # C. 34 - Zedekiah transgresses the covenant
 
+***Zedekiah transgresses the covenant***
+
 ***Lecture 1***
 
 ***Prophecy to Zedekiah***
 
-***^34:1^ The word that came to Jeremiah from the Lord, when Nebuchadnezzar, king of Babylon, and all his army, and all the kingdoms of the earth, that were under the power of his hand, and all the people fought against Jerusalem and against all her cities, saying:***
+^34:1^ The word that came to Jeremiah from the Lord, when Nebuchadnezzar, king of Babylon, and all his army, and all the kingdoms of the earth, that were under the power of his hand, and all the people fought against Jerusalem and against all her cities, saying:  
 
 > ^34:2^ thus says the Lord, the God of Israel: go and speak to Zedekiah, king of Judah, and say to him: thus says the Lord: behold, I will deliver this city into the hand of the king of Babylon, and he shall burn her with fire.
 
@@ -58,7 +60,7 @@ Lecture 2
 
 ***Liberation of Hebrew slaves***
 
-***^34:8^ The word that came to Jeremiah from the Lord, after king Zedekiah had made a covenant with all the people in Jerusalem making a proclamation:Heb. לִקְרֹ֥א לָהֶ֖ם דְּרֹֽור: *to proclaim liberty to them*.***
+^34:8^ The word that came to Jeremiah from the Lord, after king Zedekiah had made a covenant with all the people in Jerusalem making a proclamation:Heb. לִקְרֹ֥א לָהֶ֖ם דְּרֹֽור: *to proclaim liberty to them*.  
 
 > ^34:9^ that every man should let his manservant, and every man his maidservant, who is a Hebrew man or a Hebrew woman, go free; and that they should not have dominion over them, that is, over the Jews their brethren.Heb. לְבִלְתִּ֧י עֲבָד־בָּ֛ם בִּיהוּדִ֥י אָחִ֖יהוּ אִֽישׁ: *that no one among the Jews should serve his brother*.
 

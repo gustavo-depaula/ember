@@ -1,5 +1,7 @@
 # On God
 
+***Question 1***
+
 ***Regarding the divine nature***
 
 ***There were questions about God,Qq. 1–2. angels,Q. 3. and man.Qq. 4–10.***
@@ -8,9 +10,9 @@ Concerning God, there were questions regarding both the divine natureQ. 1. and t
 
 Article 1  
 
-***Whether blessed Benedict saw the divine essence in the vision by which he saw the whole world***
+Whether blessed Benedict saw the divine essence in the vision by which he saw the whole world  
 
-***Regarding the divine nature, there was a question whether blessed Benedict saw the divine essence in the vision by which he saw the whole world.Cf. Gregory the Great, *Dialogues* 2.35 (Patrologia Latina [Migne], 66:198; *Sources Chrétiennes* [SC] 260:238). And it was shown that he did.***
+Regarding the divine nature, there was a question whether blessed Benedict saw the divine essence in the vision by which he saw the whole world.Cf. Gregory the Great, *Dialogues* 2.35 (Patrologia Latina [Migne], 66:198; *Sources Chrétiennes* [SC] 260:238). And it was shown that he did.  
 
 Obj. 1: For Gregory says when speaking of this vision: *for the soul seeing God, every creature is made narrow*.Gregory the Great, *Dialogues* 2.35 (PL 66:200; SC 260:240). But to see God is to see the divine essence. Therefore, blessed Benedict saw the divine essence.  
 
@@ -36,7 +38,7 @@ second, concerning his death, whether he died on the cross.
 
 Article 1  
 
-***Whether in Christ there is one sonship by which he is related to his Father and his mother, or two***
+Whether in Christ there is one sonship by which he is related to his Father and his mother, or two  
 
 ***To the first we proceed thus. It seems there are two sonships in Christ.***
 

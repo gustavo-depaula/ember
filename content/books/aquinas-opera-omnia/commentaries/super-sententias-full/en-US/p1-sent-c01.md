@@ -1,6 +1,8 @@
 # Prologue
 
-***I, Wisdom, have poured out rivers; I flow down like a course of water without measure; I, like the channel of a river, and like an aqueduct, went out from paradise. I have said, ‘I will water the garden of plants, and I will inebriate the fruit of my field.’The Revised Standard Version (RSV) has no verses corresponding to the first two clauses; it reads as follows: *I went forth like a canal from a river, and like a water channel into a garden. I said, ‘I will water my orchard and drench my garden plot.’* All subsequent quotations of Scripture will follow the RSV unless the sense of the Latin text deviates significantly.***
+***Sirach 24:30–31***
+
+I, Wisdom, have poured out rivers; I flow down like a course of water without measure; I, like the channel of a river, and like an aqueduct, went out from paradise. I have said, ‘I will water the garden of plants, and I will inebriate the fruit of my field.’The Revised Standard Version (RSV) has no verses corresponding to the first two clauses; it reads as follows: *I went forth like a canal from a river, and like a water channel into a garden. I said, ‘I will water my orchard and drench my garden plot.’* All subsequent quotations of Scripture will follow the RSV unless the sense of the Latin text deviates significantly.  
 
 > Among the many views that have been presented by diverse people about wisdom—namely, what true wisdom is—the Apostle has offered one that is particularly strong and true, saying, *Christ, the power of God and wisdom of God . . . whom God made our wisdom* (1 Cor 1:24, 30). But this was not said in the sense that the Son alone is wisdom—for the Father and the Son and the Holy Spirit are one wisdom, just as they are one essence. Rather, this was said because wisdom is appropriated to the Son in a certain specific way, because the works of wisdom seem especially to harmonize with the properties of the Son. For through God’s wisdom the hidden things of the divine are made manifest, the works of created things are produced, and not only produced but even restored and perfected—I mean by that perfection whereby each thing is called “perfect” insofar as it attains its own proper end. But that the manifestation of divine things pertains to God’s wisdom is clear from the fact that God himself through his own wisdom fully and perfectly knows his very self. Hence, if we know anything about him, it must be derived from him, since everything imperfect draws its origin from the perfect. Hence, it is said, *who will know your understanding unless you give wisdom?* (Wis 9:17). But this manifestation is found to be accomplished in a specific way by the Son, for he is the Word of the Father, according to what is said in John 1. Hence, the manifestation of the Father speaking to himself is fitting also for that of the whole Trinity. Hence, it is said, *no one knows the Father except the Son and him to whom the Son has wished to reveal him* (Matt 11:27); and *no one has ever seen God; the only Son, who is in the bosom of the Father, he has made him known* (John 1:18).
 
@@ -30,7 +32,7 @@ Question 1
 
 ***Sacred Doctrine***
 
-***To make clear this Sacred Doctrine, which is being handed on in this book, five things are asked:***
+To make clear this Sacred Doctrine, which is being handed on in this book, five things are asked:  
 
 first, as regards the need for it;  
 
@@ -46,7 +48,7 @@ Article 1
 
 ***Whether any doctrine other than the natural disciplines is necessary for man***
 
-***We proceed to the first as follows.Parallel texts: *Summa theologiae* (*ST*) I, q. 1, a. 1; I-II, q. 2, a. 3; *Summa contra Gentiles* (*SCG*) I, cc. 4‒5; *Disputed Questions on Truth*, q. 14, a. 10. It appears that no other doctrine is necessary for man besides the natural disciplines.***
+We proceed to the first as follows.Parallel texts: *Summa theologiae* (*ST*) I, q. 1, a. 1; I-II, q. 2, a. 3; *Summa contra Gentiles* (*SCG*) I, cc. 4‒5; *Disputed Questions on Truth*, q. 14, a. 10. It appears that no other doctrine is necessary for man besides the natural disciplines.  
 
 Obj. 1: For as Dionysius says in his letter to Polycarp, *philosophy is the knowledge of things that exist*.Pseudo-Dionysius, *Epistle 7,* “To Polycarp,” para. 2 (*Patrologia Graeca* [PG] 3:1079). And it is clear that about every genus of existing things there is a consideration in philosophy, since it runs through each thing. For it is about the Creator and things created, and both about things that come from the activity of nature and things that come from our own activity. But no doctrine can be about things that do not exist, since there is no science of a non-being. Therefore there should be no doctrine besides the natural disciplines.  
 
@@ -76,7 +78,7 @@ Article 2
 
 ***Whether there should be one doctrine only besides the natural disciplines***
 
-***As regards the second, we proceed as follows.Parallel text: *ST* I.1.3, 4. It appears there should not be only one doctrine besides the natural doctrines.***
+As regards the second, we proceed as follows.Parallel text: *ST* I.1.3, 4. It appears there should not be only one doctrine besides the natural doctrines.  
 
 Obj. 1: For about all concerning which man is instructed through the accounts of created things, he can also be instructed through divine accounts. But there are many sciences based on the accounts of created things, sciences differing in both genus and species, such as moral science, natural science, and so on. Therefore, there should be many sciences based on divine accounts.  
 
@@ -98,11 +100,11 @@ Reply Obj. 3: The things that come from our own actions and those that come from
 
 Article 3  
 
-***Whether this doctrine is practical or speculative; whether it is science; whether it is wisdom***
+Whether this doctrine is practical or speculative; whether it is science; whether it is wisdom  
 
 ***Quaestiuncula 1***
 
-***We proceed to the third as follows.Parallel text: *ST* I.1.4. It appears that this doctrine is practical.***
+We proceed to the third as follows.Parallel text: *ST* I.1.4. It appears that this doctrine is practical.  
 
 Obj. 1: For the end of a practical doctrine is some activity, according to the Philosopher.Aristotle, *Metaphysics* 2.1, 993b20‒22. But this doctrine, which belongs to faith, is principally for the sake of acting well; this is why James 2:26 says, *faith apart from works is dead*, and Psalm 111 [110]:10, *fear of the Lord is the beginning of wisdom; a good understanding have all those who practice it*. Therefore it appears that it is practical.  
 
@@ -112,7 +114,7 @@ Furthermore, a practical science considers only the things that arise from our a
 
 Quaestiuncula 2  
 
-***Further, one asks whether it is a science, and it appears that it is not.Parallel texts: *ST* I.1.2; II‒II.1.5; *On Truth*, q. 14, a. 9, ad 3; *Commentary on Boethius’s On the Trinity*, q. 2, a. 2.***
+Further, one asks whether it is a science, and it appears that it is not.Parallel texts: *ST* I.1.2; II‒II.1.5; *On Truth*, q. 14, a. 9, ad 3; *Commentary on Boethius’s On the Trinity*, q. 2, a. 2.  
 
 Obj. 1: For no science is about particular things, according to the Philosopher.Aristotle, *Posterior Analytics* 1.4, 73b25‒74a3; 1.31, 87b34‒38. But Sacred Scripture treats the deeds of particular men, like Abraham, Isaac, and the others. Therefore it is not a science.  
 
@@ -124,7 +126,7 @@ On the contrary, according to Augustine,Augustine, *On the Trinity*, bk. 13, ch.
 
 Quaestiuncula 3  
 
-***Moreover, one asks whether it is wisdom, and it seems that it is not.Parallel texts: *Commentary on the Sentences*, bk. 2 (*In II Sent*.), prol.; *ST* I.1.6; *SCG* II.4.***
+Moreover, one asks whether it is wisdom, and it seems that it is not.Parallel texts: *Commentary on the Sentences*, bk. 2 (*In II Sent*.), prol.; *ST* I.1.6; *SCG* II.4.  
 
 Obj. 1: For, as the Philosopher says,Aristotle, *Metaphysics* 1.1, 981a27‒b9. the wise man should be the most certain about the causes. But in this doctrine there is no one who is most certain, since faith, on which this doctrine rests, is less than science and more than opinion. Therefore it is not wisdom.  
 
@@ -132,7 +134,7 @@ On the contrary, *among the mature we do impart wisdom* (1 Cor 2:6). Therefore, 
 
 Response to Quaestiuncula 1  
 
-***I answer that this science, although it is one, is nevertheless perfect and even sufficient for every human perfection, on account of the efficacy of the divine light, as is clear from things said before. Whence it perfects man both in right activity and as regards contemplation of truth, and this is why in a certain respect it is practical and also speculative. Now, because every science should be weighed principally from its end, but the ultimate end of this doctrine is the contemplation of the first truth in the heavenly fatherland, it is therefore principally speculative. And since there are three habits of the speculative intellect—namely, wisdom, science, and understandingAristotle, *Nicomachean Ethics* 6.7, 1141a20.—we say that it is wisdom, because it considers the highest causes and is as the head, and chief, and what orders all the sciences. And it more than even metaphysics should be called *wisdom*, since it considers the highest causes through the mode of the causes themselves; for it does so through an inspiration immediately received from God, whereas metaphysics considers the highest causes through accounts taken from created things. Whence this doctrine even more than metaphysics should be called *divine*, since it is divine both as regards its subject and as regards its mode of receiving it, whereas metaphysics is called divine only as regards its subject. But wisdom, as the Philosopher says,Aristotle, *Nicomachean Ethics* 8.7 and 8. considers both conclusions and principles, and therefore wisdom is science and understanding, since science is about conclusions and understanding is about principles.***
+I answer that this science, although it is one, is nevertheless perfect and even sufficient for every human perfection, on account of the efficacy of the divine light, as is clear from things said before. Whence it perfects man both in right activity and as regards contemplation of truth, and this is why in a certain respect it is practical and also speculative. Now, because every science should be weighed principally from its end, but the ultimate end of this doctrine is the contemplation of the first truth in the heavenly fatherland, it is therefore principally speculative. And since there are three habits of the speculative intellect—namely, wisdom, science, and understandingAristotle, *Nicomachean Ethics* 6.7, 1141a20.—we say that it is wisdom, because it considers the highest causes and is as the head, and chief, and what orders all the sciences. And it more than even metaphysics should be called *wisdom*, since it considers the highest causes through the mode of the causes themselves; for it does so through an inspiration immediately received from God, whereas metaphysics considers the highest causes through accounts taken from created things. Whence this doctrine even more than metaphysics should be called *divine*, since it is divine both as regards its subject and as regards its mode of receiving it, whereas metaphysics is called divine only as regards its subject. But wisdom, as the Philosopher says,Aristotle, *Nicomachean Ethics* 8.7 and 8. considers both conclusions and principles, and therefore wisdom is science and understanding, since science is about conclusions and understanding is about principles.  
 
 Reply Obj. 1: Activity is not the ultimate thing intended in this science, but rather more the contemplation of the first truth in the heavenly fatherland, which contemplation we, when purified, attain due to our good actions: *blessed are the pure in heart* (Matt 5:8). And therefore it is more fundamentally speculative than practical.  
 
@@ -156,7 +158,7 @@ Reply Sed Contra: We grant the other argument.
 
 Response to Quaestiuncula 3  
 
-***To what is being further asked—whether it is wisdom—I say that it is wisdom most properly, as has been said.***
+To what is being further asked—whether it is wisdom—I say that it is wisdom most properly, as has been said.  
 
 Reply Obj. 1: It is false that someone is not the most certain in this doctrine. For one is more faithful and more firmly assents to matters belonging to the faith than even to the first principles of reason. And the claim that faith is less than science is not speaking about infused faith, but about an acquired faith, which is an opinion strengthened by arguments. Now, the habit of these principles, that is, of the articles, is called faith, and not understanding, because these principles are above reason, and so human reason itself is not strong enough to grasp them perfectly. And thus arises a certain defective knowledge, not because of a defect in the certitude of the things known, but because of a defect of the knower. But, nevertheless, reason that has been led by the hand through faith grows thereby, such that things that can be believed, it comprehends more fully, and thereby it in a certain way understands them. Whence, in an alternative text, Isaiah 7:9 says, *unless you had believed you would not have understood*.  
 
@@ -164,7 +166,7 @@ Article 4
 
 ***Whether God is the subject of this science***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.1.7; *Commentary on Boethius’s On the Trinity*, q. 5, a. 4. It appears that God is the subject of this science.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.1.7; *Commentary on Boethius’s On the Trinity*, q. 5, a. 4. It appears that God is the subject of this science.  
 
 Obj. 1: For every science ought to be entitled by and named from its subject, whereas this science is called *theology*, as if to say *speech about God*. Therefore it appears that God is its subject.  
 
@@ -192,7 +194,7 @@ Article 5
 
 ***Whether its mode of proceeding is by art***
 
-***To the fifth we proceed as follows.Parallel texts: *In I Sent*., d. 34, q. 3, aa. 1, 2; *In IV Sent*., d. 21, q. 1, a. 2, qa. 1, ad 3; *ST* I.1.8‒10; *SCG* I.9; III.119; *Commentary on Boethius’s On the Trinity*, q. 2, aa. 3, 4; *Quodlibet III*, q. 14, a. 1; IV, q. 9, a. 3; VII, q. 6; *Disputed Questions on the Power of God*, q. 4, a. 1; *Commentary on Galatians*, ch. 4, lect. 7.***
+To the fifth we proceed as follows.Parallel texts: *In I Sent*., d. 34, q. 3, aa. 1, 2; *In IV Sent*., d. 21, q. 1, a. 2, qa. 1, ad 3; *ST* I.1.8‒10; *SCG* I.9; III.119; *Commentary on Boethius’s On the Trinity*, q. 2, aa. 3, 4; *Quodlibet III*, q. 14, a. 1; IV, q. 9, a. 3; VII, q. 6; *Disputed Questions on the Power of God*, q. 4, a. 1; *Commentary on Galatians*, ch. 4, lect. 7.  
 
 Obj. 1: The mode of the noblest science should be the noblest mode. But to the degree that a mode is more artful, it is so much the nobler. Therefore, since this is the noblest science, its mode should be the most artful.  
 

@@ -1,8 +1,10 @@
 # D. 22 - First sin of man
 
+***First sin of man***
+
 ***Division of the text***
 
-***After having addressed the principle of the fall of man on the part of the tempter, here he addresses the intrinsic principle on the part of man himself who sinned.***
+After having addressed the principle of the fall of man on the part of the tempter, here he addresses the intrinsic principle on the part of man himself who sinned.  
 
 It is divided into two parts.  
 
@@ -86,7 +88,7 @@ Article 1
 
 ***Whether man’s first sin was pride***
 
-***To the first we proceed as follows.Parallel texts: *ST I*.63.2; I-II.89.3, ad 2; II-II.105.2, ad 2; 163.1; *Compendium theologiae*, ch. 191; *On Evil*, q. 7, a. 7, ad 12; q. 14, a. 2, ad 5; q. 15, a. 2, ad 7; *Commentary on Romans*, ch. 5, lect. 5; *Commentary on 1 Timothy*, ch. 2, lect. 3. It seems that pride was not man’s first sin.***
+To the first we proceed as follows.Parallel texts: *ST I*.63.2; I-II.89.3, ad 2; II-II.105.2, ad 2; 163.1; *Compendium theologiae*, ch. 191; *On Evil*, q. 7, a. 7, ad 12; q. 14, a. 2, ad 5; q. 15, a. 2, ad 7; *Commentary on Romans*, ch. 5, lect. 5; *Commentary on 1 Timothy*, ch. 2, lect. 3. It seems that pride was not man’s first sin.  
 
 Obj. 1: For to disbelieve the words of God is the sin of infidelity. But man’s sin seems to have proceeded from the fact that he disbelieved God’s words or was doubtful of them, as has been said above.Above: d. 21, q. 1, a. 1, resp. Therefore, man’s first sin was infidelity.  
 
@@ -132,7 +134,7 @@ Article 2
 
 ***Whether man’s sin was that he desired to be just like God***
 
-***To the second we proceed as follows.Parallel texts: *In II Sent*., d. 5, q. 1, a. 2; *ST* I.63.3; II-II.163.2; *SCG* III.109; *Compendium theologiae*, ch. 191; *On Evil*, q. 16, a. 3. It seems that man’s sin was not that he desired to be just likeThroughout this article, the word *sicut* (“just like,” “as,” “like”) should be carefully distinguished from *similis* (“like,” “similar to”). For it was shown above (*In I Sent*., d. 16, q. 1, aa. 1, 4) that in one way, being *like* God is not only possible, but even natural to man, and in another way, being like God is possible to man as a grace. God.***
+To the second we proceed as follows.Parallel texts: *In II Sent*., d. 5, q. 1, a. 2; *ST* I.63.3; II-II.163.2; *SCG* III.109; *Compendium theologiae*, ch. 191; *On Evil*, q. 16, a. 3. It seems that man’s sin was not that he desired to be just likeThroughout this article, the word *sicut* (“just like,” “as,” “like”) should be carefully distinguished from *similis* (“like,” “similar to”). For it was shown above (*In I Sent*., d. 16, q. 1, aa. 1, 4) that in one way, being *like* God is not only possible, but even natural to man, and in another way, being like God is possible to man as a grace. God.  
 
 Obj. 1: For a prudent person cannot have a complete will for what is impossible, especially what does not fall within apprehension. But it is impossible for a created thing to be just like God, and this cannot even be grasped by the intellect. Therefore, since he had prudence and the rest of the virtues, he did not desire in this way, as the Master says below.  
 
@@ -168,7 +170,7 @@ Article 3
 
 ***Whether the woman sinned more gravely than the man***
 
-***To the third we proceed as follows.Parallel text: *ST* II-II.163.4. It seems that the woman did not sin more gravely than the man.***
+To the third we proceed as follows.Parallel text: *ST* II-II.163.4. It seems that the woman did not sin more gravely than the man.  
 
 Obj. 1: For both sinned by the vice of self-exaltation. But that self-exaltation was only in this, that they perversely desired likeness to God. Therefore, it seems that both desired the same thing and sinned equally.  
 
@@ -200,7 +202,7 @@ Question 2
 
 ***Ignorance***
 
-***Then the question of ignorance, mentioned in the text, is asked. And two questions are asked:***
+Then the question of ignorance, mentioned in the text, is asked. And two questions are asked:  
 
 first, whether ignorance is a sin;  
 
@@ -210,7 +212,7 @@ Article 1
 
 ***Whether ignorance is a sin***
 
-***To the first we proceed as follows.Parallel texts: below, d. 42, q. 2, a. 2, resp. and ad 3; *In IV Sent*., d. 9, q. 1, a. 3, resp. and ad 1; *ST* I-II.74.1, ad 2; 74.5; 76.2; II-II.53.2, ad 2; *On Evil*, q. 3, a. 7; *Quodl*. I, q. 9, a. 3; *Commentary on Aristotle’s Nicomachean Ethics*, bk. 3, lect. 11. It seems that ignorance is not a sin.***
+To the first we proceed as follows.Parallel texts: below, d. 42, q. 2, a. 2, resp. and ad 3; *In IV Sent*., d. 9, q. 1, a. 3, resp. and ad 1; *ST* I-II.74.1, ad 2; 74.5; 76.2; II-II.53.2, ad 2; *On Evil*, q. 3, a. 7; *Quodl*. I, q. 9, a. 3; *Commentary on Aristotle’s Nicomachean Ethics*, bk. 3, lect. 11. It seems that ignorance is not a sin.  
 
 Obj. 1: For every sin, as Augustine says, is within the will.Augustine, *De duabus animabus*, ch. 10 (CSEL 25:63; PL 42:103). But ignorance is in the intellect. Therefore, it is not a sin.  
 
@@ -244,7 +246,7 @@ Article 2
 
 ***Whether ignorance excuses sin***
 
-***To the second we proceed as follows.Parallel text: *ST* I-II.76. It seems that ignorance does not excuse sin.***
+To the second we proceed as follows.Parallel text: *ST* I-II.76. It seems that ignorance does not excuse sin.  
 
 Obj. 1: This is, first, through the fact that Ambrose’s Gloss on Romans 2 says: *if he is ignorant he sins most gravely*.Rather: Ambrosiaster, *Commentaria in Epistolas B. Pauli*, on Romans 2:4–5 (PL 17:264–65); see also Anselm of Canterbury (ca. 1033–1109 AD), *Orationes*, n. 33 (PL 158:926). In *ST* III, q. 82, a. 10, Aquinas cites the same text: *Ambrose says in a certain prayer*, etc. But what aggravates a sin does not excuse it. Therefore, ignorance does not excuse sin.  
 
@@ -286,7 +288,7 @@ Reply Obj. 5: Ignorance and weakness have the property of excusing sin either co
 
 Exposition of the text  
 
-****‘Which was to be convicted or destroyed by temptation*.’*Sent*. II, 22.1(130).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 11, ch. 30 (CSEL 28.1:363; PL 34:445). That is to say, by spiritual or even bodily death, either by her, by the man, or by God, if this is understood of the woman, as the Master explains.***
+*‘Which was to be convicted or destroyed by temptation*.’*Sent*. II, 22.1(130).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 11, ch. 30 (CSEL 28.1:363; PL 34:445). That is to say, by spiritual or even bodily death, either by her, by the man, or by God, if this is understood of the woman, as the Master explains.  
 
 *‘And so he could be deceived into thinking that the offense was venial*.’*Sent*. II, 22.4(133).4, quoting Augustine, *City of God*, bk. 14, ch. 11 (CCSL 48; PL 41:419–20). This is understood, as was said above, of venial by cause, not by genus. For he thought that, because he acted in order to go along with his wife, his sin would have cause for excuse and easily receive pardon. The cause of this sort of seduction seems to have been self-exaltation of the mind, which crept in at the woman’s suggestion.  
 

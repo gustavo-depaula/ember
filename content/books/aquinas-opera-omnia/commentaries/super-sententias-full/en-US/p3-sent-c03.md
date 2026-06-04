@@ -1,8 +1,10 @@
 # D. 2 - Purely spiritual creation
 
+***Purely spiritual creation***
+
 ***Division of the text***
 
-***Here the Master begins to treat of specific created things, as far as this pertains to the consideration of a theologian. And it is divided into three parts.***
+Here the Master begins to treat of specific created things, as far as this pertains to the consideration of a theologian. And it is divided into three parts.  
 
 In the first, he treats of the purely spiritual creature.  
 
@@ -78,7 +80,7 @@ Article 1
 
 ***Whether aeviternity is the same as eternity***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 8, q. 2, a. 2; d. 19, q. 2, a. 1; *ST* 1.10.4–5; *On the Power of God*, q. 3, a. 14, ad 10; ad 18; *Commentary on Dionysius’s On the Divine Names*, ch. 10, lect. 3; *Quodl*. X, q. 2. It seems that aeviternity is the same as eternity.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 8, q. 2, a. 2; d. 19, q. 2, a. 1; *ST* 1.10.4–5; *On the Power of God*, q. 3, a. 14, ad 10; ad 18; *Commentary on Dionysius’s On the Divine Names*, ch. 10, lect. 3; *Quodl*. X, q. 2. It seems that aeviternity is the same as eternity.  
 
 Obj. 1: For, as it says in the *Book of Causes*,Proclus, *Book of Causes*, prop. 2. intelligence is put on par with eternity. But this is only as what is measured to the measure. Therefore, since aeviternity is posited as the measure of angelic duration, it seems that it is the same as eternity.  
 
@@ -126,7 +128,7 @@ Article 2
 
 ***Whether there is only one aeviternity***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.10.6; *Quodl*. V, q. 4. It seems that there is not only one aeviternity.***
+To the second we proceed as follows.Parallel texts: *ST* I.10.6; *Quodl*. V, q. 4. It seems that there is not only one aeviternity.  
 
 Obj. 1: For just as time is the numbered number,Following Aristotle, Aquinas distinguishes “number” into the numbering number (the abstract number by which we count, e.g., *three*, considered by itself) and the numbered number (the concrete things that have been counted, e.g., the three men). Time is a number in the latter sense. See *Commentary on the Physics*, bk. 4, lect. 17, n. 581. so also aeviternity seems to be unity restricted or determined to a given thing. But such unity is multiplied on the basis of the multiplication of those things to whom it belongs to be one. Therefore, there is not only one aeviternity.  
 
@@ -166,7 +168,7 @@ Article 3
 
 ***Whether the duration of angels began before the world***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.61.3; *On the Power of God*, q. 3, a. 18. It seems that the duration of the angels began before the world.***
+To the third we proceed as follows.Parallel texts: *ST* I.61.3; *On the Power of God*, q. 3, a. 18. It seems that the duration of the angels began before the world.  
 
 Obj. 1: For Gregory Nazianzen said that *God first thought up angelic substances*.Gregory Nazianzen, *Oration* 38, *On the Theophany*, n. 9 (PG 36:319): *but since this movement of self-contemplation alone could not satisfy Goodness, but Good must be poured out and go forth beyond Itself to multiply the objects of Its beneficence, for this was essential to the highest Goodness, He first conceived the Heavenly and Angelic Powers*. *And God’s thinking is his work*, as Damascene says.John Damascene, *On the Orthodox Faith*, bk. 2, ch. 3 (PG 94:874). Therefore, it seems that angels were made before other created things.  
 
@@ -202,7 +204,7 @@ Question 2
 
 ***The empyrean heaven***
 
-***Next we inquire concerning the empyrean heaven, in which the angels are said to have been made. And concerning this three questions arise:***
+Next we inquire concerning the empyrean heaven, in which the angels are said to have been made. And concerning this three questions arise:  
 
 first, whether it is a body;  
 
@@ -214,7 +216,7 @@ Article 1
 
 ***Whether the empyrean heaven is a body***
 
-***To the first we proceed as follows.Parallel text: *ST* I.66.3. It seems that it is not a body.***
+To the first we proceed as follows.Parallel text: *ST* I.66.3. It seems that it is not a body.  
 
 Obj. 1: For every natural body is sensible, and especially to the sense of sight. But the empyrean heaven is not visible, but rather intellectual, as is said in the text.*Sent*. II, 2.4(10).3. Therefore, it is not a body.  
 
@@ -250,7 +252,7 @@ Article 2
 
 ***Whether the empyrean heaven is luminous***
 
-***To the second we proceed as follows. It seems that the empyrean heaven is not luminous.***
+To the second we proceed as follows. It seems that the empyrean heaven is not luminous.  
 
 Obj. 1: For, according to Avicenna,Avicenna, *Liber de anima seu Sextus de naturalibus*, pt. 3, ch. 2. The *Liber de anima* (*Kitāb an-nafs*) is itself a section of Avicenna’s larger *Book of Healing* (*al-Shifa*’) and was available to Aquinas through a translation by Dominic Gundisalvi (Gundissalinus). the cause of luminosity is the gathering together of the parts of something transparent, as is clear in a crystal, and the Commentator says this in *On the Substance of the Celestial Sphere*.Averroes, *On the Substance of the Celestial Sphere*, ch. 2. But the empyrean heaven is most subtle, since it is the most noble of bodies, and most formal. Therefore, the empyrean heaven is not luminous.  
 
@@ -292,7 +294,7 @@ Article 3
 
 ***Whether the empyrean heaven has an influence on other bodies***
 
-***To the third we proceed as follows. It seems that the empyrean heaven has an influence on other bodies.***
+To the third we proceed as follows. It seems that the empyrean heaven has an influence on other bodies.  
 
 Obj. 1: For in the elements, it is always the case that what contains is preservative of what is contained, even if it is contrary to it, by the fact that it is its place and is related to it as act to potency and as whole to divided part, as is said in the *Physics* 4.Aristotle, *Physics* 4.5, 212a31–213a4. But the empyrean heaven contains the other heavens. Therefore, all the more, since it is not contrary to them, does it seem that it has influence over them by containing and preserving them.  
 
@@ -318,7 +320,7 @@ Reply Obj. 4: The noblest disposition that can ever be in a body with regard to 
 
 Exposition of the text  
 
-****‘How many prior eternities . . . shall we adjudge to have passed*?’*Sent*. II, 2.3(9).2, quoting Jerome, *On Titus*, ch. 1, v. 2 (PL 26:456).  It seems false to say that there is only one eternity.***
+*‘How many prior eternities . . . shall we adjudge to have passed*?’*Sent*. II, 2.3(9).2, quoting Jerome, *On Titus*, ch. 1, v. 2 (PL 26:456).  It seems false to say that there is only one eternity.  
 
 Moreover, in what do aeviternity, time, and eternity differ?  
 

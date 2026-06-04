@@ -1,8 +1,10 @@
 # D. 39 - How sin can be in the will
 
+***Quomodo in voluntate possit esse peccatum***
+
 ***Divisio textus***
 
-***Ostenso quod rectitudo voluntatis et perversitas est ex fine, hic inquirit utrum in voluntate possit esse perversitas et peccatum; et dividitur in partes duas:***
+Ostenso quod rectitudo voluntatis et perversitas est ex fine, hic inquirit utrum in voluntate possit esse perversitas et peccatum; et dividitur in partes duas:  
 
 in prima ostendit quomodo in voluntate peccatum esse potest,  
 
@@ -50,7 +52,7 @@ Articulus 1
 
 ***Utrum voluntas possit perverti per peccatum***
 
-***Circa primum sic proceditur. Videtur quod voluntas per peccatum perverti non possit.***
+Circa primum sic proceditur. Videtur quod voluntas per peccatum perverti non possit.  
 
 Voluntas enim ad imaginem pertinet, nec tantum secundum quod est potentia, sed etiam, ut videtur, ratione actus: quia respectu quorumdam objectorum salvatur ratio perfecta imaginis in tribus potentiis, ut in 1 lib., dist. 3, q. 4, art. 2, dictum est. Potentia autem non habet comparationem ad objectum nisi mediante actu. Cum igitur imaginis bonitas per peccatum nonParma and PLE omit *non*, but Mandonnet asserts that the manuscripts include it and rightly so. tollatur, quia *in imagine pertransit homo*, ut in Ps. 38:7, dicitur, videtur quod in voluntate non possit esse peccatum.  
 
@@ -82,9 +84,9 @@ Ad quintum dicendum, quod error vel falsitas dicitur propria phantasiae, non qui
 
 Articulus 2  
 
-***Utrum in actu intellectus et aliarum potentiarum a voluntate possit esse peccatum***
+Utrum in actu intellectus et aliarum potentiarum a voluntate possit esse peccatum  
 
-***Ad secundum sic proceditur. Videtur quod in actibus aliarum potentiarum possit esse peccatum, et praecipue in actu intellectus.***
+Ad secundum sic proceditur. Videtur quod in actibus aliarum potentiarum possit esse peccatum, et praecipue in actu intellectus.  
 
 Cogitatio enim actus intellectus est. Sed contingit cogitando peccare. Ergo in actu intellectus peccatum contingit esse.  
 
@@ -122,7 +124,7 @@ Quaestio 2
 
 ***Quomodo homo naturaliter bonum velit***
 
-***Deinde quaeritur quomodo homo naturaliter bonum velit; et circa hoc quaeruntur duo:***
+Deinde quaeritur quomodo homo naturaliter bonum velit; et circa hoc quaeruntur duo:  
 
 primo utrum homo velit bonum naturaliter;  
 
@@ -166,7 +168,7 @@ Articulus 2
 
 ***Utrum voluntas qua homo naturaliter vult bonum et qua vult malum sit eadem***
 
-***Ad secundum sic proceditur. Videtur quod eadem voluntas sit qua homo naturaliter vult bonum et qua vult malum.***
+Ad secundum sic proceditur. Videtur quod eadem voluntas sit qua homo naturaliter vult bonum et qua vult malum.  
 
 Potentia enim rationalis se habet ad opposita. Sed voluntas quaedam est rationalis potentia. Ergo se habet ad opposita; ergo eadem est boni et mali.  
 
@@ -216,7 +218,7 @@ Articulus 1
 
 ***Utrum superior scintilla rationis possit extingui***
 
-***Ad primum sic proceditur. Videtur quod superior scintilla rationis possit extingui.***
+Ad primum sic proceditur. Videtur quod superior scintilla rationis possit extingui.  
 
 Error enim rationis extinctio ejus dicitur, quia tenebrae comparatur. Sed hanc scintillam rationis contingit errare, ut patet in glossa Hieronymi, Ezech. 1, ubi, praeter verba quae in littera inducuntur, paulo post subdit: *hanc autem conscientiam saepe praecipitari videmus*. Ergo superior scintilla rationis potest extingui.  
 
@@ -334,7 +336,7 @@ Ad sextum dicendum, quod conscientia, ut dictum est, obligat virtute praecepti d
 
 Expositio textus  
 
-****Etsi vitiis et peccatis obnubilentur et corrumpantur*,Mandonnet suggests supplying *intellectus vel ratio*, as is found in the Lombard’s text. *bona tamen sunt*. Haec obnubilatio et corruptio intellectus non intelligitur quantum ad actum proprium ipsius intellectus secundum se considerati, cum in multis peccatoribus acutissima ingenia inveniantur; sed intelligitur secundum habilitatem ad gratiam et virtutem et ad opus bonum, prout etiam dicitur quod omnis malus ignorans est. Sunt tamen quaedam peccata quae etiam intellectus contemplationem obnubilant, inquantum per ea homo passionibus perturbatur et distrahitur, et a contemplationis actu impeditur, ut praecipue in peccatis carnalibus patet; unde etiam Commentator, in 7 *Physic*., dicit, quod virtutes morales perficiunt ad scientias, et praecipue virtus castitatis.***
+*Etsi vitiis et peccatis obnubilentur et corrumpantur*,Mandonnet suggests supplying *intellectus vel ratio*, as is found in the Lombard’s text. *bona tamen sunt*. Haec obnubilatio et corruptio intellectus non intelligitur quantum ad actum proprium ipsius intellectus secundum se considerati, cum in multis peccatoribus acutissima ingenia inveniantur; sed intelligitur secundum habilitatem ad gratiam et virtutem et ad opus bonum, prout etiam dicitur quod omnis malus ignorans est. Sunt tamen quaedam peccata quae etiam intellectus contemplationem obnubilant, inquantum per ea homo passionibus perturbatur et distrahitur, et a contemplationis actu impeditur, ut praecipue in peccatis carnalibus patet; unde etiam Commentator, in 7 *Physic*., dicit, quod virtutes morales perficiunt ad scientias, et praecipue virtus castitatis.  
 
 *Brevius respondent, dicentes actum voluntatis non esse de naturalibus*. Haec responsio utrique opinioni communis esse potest, praecipue quantum ad actum malum, in quem voluntas naturaliter non ordinatur.  
 

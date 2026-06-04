@@ -1,8 +1,10 @@
 # D. 30 - Things said of God from time
 
+***Things said of God from time***
+
 ***Division of the text***
 
-***Having shown that “principle,” with respect to what is created, is said of God from time, consequently he shows how something could be said of God from time. And this is divided into two parts: in the first, he shows that something is said of God from time; in the second, he shows the mode in which such things are said, at *how, then, shall we maintain that nothing is said of God according to accident? Unless because nothing befalls his nature that may cause it to change*.*Sent*. I, 30.1(129).3, quoting Augustine, *On the Trinity*, bk. 5, ch. 16, para. 17 (CCSL 50; PL 42:922).***
+Having shown that “principle,” with respect to what is created, is said of God from time, consequently he shows how something could be said of God from time. And this is divided into two parts: in the first, he shows that something is said of God from time; in the second, he shows the mode in which such things are said, at *how, then, shall we maintain that nothing is said of God according to accident? Unless because nothing befalls his nature that may cause it to change*.*Sent*. I, 30.1(129).3, quoting Augustine, *On the Trinity*, bk. 5, ch. 16, para. 17 (CCSL 50; PL 42:922).  
 
 As regards the first, he does two things: first, he shows its truth; second, he excludes an objection, at *but here someone will say that his title of Lord does not pertain to God in time*.*Sent*. I, 30.1(129).2.  
 
@@ -24,7 +26,7 @@ Article 1
 
 ***Whether anything is said of God from time***
 
-***To the first we proceed as follows.Parallel texts: below, d. 37, q. 2, a. 3; *ST* I.13.7; I.34.3, ad 2; *On the Power of God*, q. 7, aa. 8, 9, 11. It seems that nothing is said of God from time.***
+To the first we proceed as follows.Parallel texts: below, d. 37, q. 2, a. 3; *ST* I.13.7; I.34.3, ad 2; *On the Power of God*, q. 7, aa. 8, 9, 11. It seems that nothing is said of God from time.  
 
 Obj. 1: For that about which something is said from time, and which before was not said, can be said to become that. For example, a man is said to become white if before it was not truly said that he was white. But becoming in no way befits God, just as neither does changing, since he is the first mover. Therefore it seems that nothing in God is said from time.  
 
@@ -58,7 +60,7 @@ Article 2
 
 ***Whether things said of God from time signify the divine essence***
 
-***To the second we proceed as follows. It seems that such names as are said of God from time do not signify the divine essence.***
+To the second we proceed as follows. It seems that such names as are said of God from time do not signify the divine essence.  
 
 Obj. 1: For the divine essence is eternal. But these names are not said of God from eternity. Therefore they do not signify the divine essence.  
 
@@ -92,9 +94,9 @@ Reply Obj. 4: God is called “man,” insofar as a supposit of the divine natur
 
 Article 3  
 
-***Whether the orientations designated by these names said of God from time are really in God***
+Whether the orientations designated by these names said of God from time are really in God  
 
-***To the third we proceed as follows. It seems that the orientations designated by these names are not really in God.***
+To the third we proceed as follows. It seems that the orientations designated by these names are not really in God.  
 
 Obj. 1: For a name and account to which nothing in reality is subject is pointless and false. But we do not pointlessly and falsely call and think on God as Lord and Creator. Therefore such names have the relations that they signify corresponding to them really in God.  
 
@@ -122,6 +124,6 @@ Reply Obj. 4: This is not relevant to the proposed matter. For about each of the
 
 Exposition of the text  
 
-****To this it may be said that, although he did not begin to be Lord of time from time, yet he began to be Lord of time*.*Sent*. I, 30.1(129).2; the Silano translation has been modified to read *from time* (*ex tempore*), whereas Silano reads *in time*. The intention of this solution is that God began to be Lord of time when time began to be, so just as time did not begin to be in time or from time, so too neither is God called the “Lord of time” from time or in time. And one says, *in time*,*Sent*. I, 30.1(129).2, quoting Augustine*, On the Trinity*, bk. 5, ch. 16 (CCSL 50; PL 42:922). so as to designate the orientation of a measure, since just as what has place is in its place as in its measure, so too what is in time is in its measure. But he says, *from time*,*Sent*. I, 30.1(129).2, quoting Augustine, *On the Trinity*, bk. 5, ch. 16 (CCSL 50; PL 42:922). insofar as time is a measure that encloses what it measures, whence it must be greater than it in each direction. And therefore things that always exist, insofar as they always exist, are not measured by time, but things that exist for a while are, as the Philosopher says.Aristotle, *Physics* 4.12, 221b4. And therefore things that are measured by time are from time, since time precedes them. However, time is not measured by time, just as neither is place measured by place; and therefore time begins neither in time nor from time. But God is the Lord, in time or from time, of the different things that begin in time or from time, and some things are such—like this and that generated thing—even if the universe has always existed, as some philosophers have asserted.Nicolaï says this perhaps refers to Socrates, Plato, and their followers; see also Aristotle, *Physics* 8.1, 251a8–28; 251b13–16; *On the Heavens*, bks. 1–2. Whence to ask this does not pertain to the proposed matter, since whichever is true, what is proposed holds—that God is Lord from time, at least for some things.***
+*To this it may be said that, although he did not begin to be Lord of time from time, yet he began to be Lord of time*.*Sent*. I, 30.1(129).2; the Silano translation has been modified to read *from time* (*ex tempore*), whereas Silano reads *in time*. The intention of this solution is that God began to be Lord of time when time began to be, so just as time did not begin to be in time or from time, so too neither is God called the “Lord of time” from time or in time. And one says, *in time*,*Sent*. I, 30.1(129).2, quoting Augustine*, On the Trinity*, bk. 5, ch. 16 (CCSL 50; PL 42:922). so as to designate the orientation of a measure, since just as what has place is in its place as in its measure, so too what is in time is in its measure. But he says, *from time*,*Sent*. I, 30.1(129).2, quoting Augustine, *On the Trinity*, bk. 5, ch. 16 (CCSL 50; PL 42:922). insofar as time is a measure that encloses what it measures, whence it must be greater than it in each direction. And therefore things that always exist, insofar as they always exist, are not measured by time, but things that exist for a while are, as the Philosopher says.Aristotle, *Physics* 4.12, 221b4. And therefore things that are measured by time are from time, since time precedes them. However, time is not measured by time, just as neither is place measured by place; and therefore time begins neither in time nor from time. But God is the Lord, in time or from time, of the different things that begin in time or from time, and some things are such—like this and that generated thing—even if the universe has always existed, as some philosophers have asserted.Nicolaï says this perhaps refers to Socrates, Plato, and their followers; see also Aristotle, *Physics* 8.1, 251a8–28; 251b13–16; *On the Heavens*, bks. 1–2. Whence to ask this does not pertain to the proposed matter, since whichever is true, what is proposed holds—that God is Lord from time, at least for some things.  
 
 *Here can be solved the question posed above*.*Sent*. I, 30.2(130).1. The Master proposed this question in Distinction 18,*Sent*. I, 18.6(71).1–2. and he solves it here by means of the things just said. For such names that are said of God from time do not indicate real relations existing in God, but ones according to account and name. And therefore, when the Holy Spirit is said to be given by his very self, the real relation is in what is created; and this relation is referred to the entire Trinity as to its principle, and to the Holy Spirit as to its terminus, by way of exemplarity. But in the Holy Spirit there is only a relation according to account. And it is not unfitting that by such an account something be referred back to its very self, as when one says, “a thing is the same as itself.”

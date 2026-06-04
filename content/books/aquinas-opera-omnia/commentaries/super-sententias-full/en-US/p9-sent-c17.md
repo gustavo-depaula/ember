@@ -1,6 +1,8 @@
 # D. 42 - On the impediment of a spiritual relationship
 
-***After the Master has examined the impediment of close physical relationship, here he examines the impediment of close spiritual relationship; and it is divided into two parts: in the first he shows how a spiritual relationship impedes marriage; in the second he inquires whether the second wedding is licit, where he says: *it is also to be known, that not only the first and second marriages are lawful, but that also third and fourth ones are not to be condemned*.*Sententiae* IV, 42.7 (243). 1.***
+***On the impediment of a spiritual relationship***
+
+After the Master has examined the impediment of close physical relationship, here he examines the impediment of close spiritual relationship; and it is divided into two parts: in the first he shows how a spiritual relationship impedes marriage; in the second he inquires whether the second wedding is licit, where he says: *it is also to be known, that not only the first and second marriages are lawful, but that also third and fourth ones are not to be condemned*.*Sententiae* IV, 42.7 (243). 1.  
 
 The first is in two parts: in the first he distinguishes the close spiritual relationship from physical ones, which were treated above; in the second, he pursues close spiritual relationship, where he says: *spiritual children are those whom we raise from the sacred [baptismal] font*.*Sent*. IV, 42.2 (238). 1.  
 
@@ -32,7 +34,7 @@ first, whether spiritual relationship impedes marriage;
 
 ***Whether a spiritual relationship impedes marriage***
 
-***Obj. 1: To the first question, we proceed thus.Parallel: *Quodl.* VI, q. 3, a. 2. It seems that a spiritual relationship does not impede marriage. For nothing impedes marriage that is not opposed to some good of marriage. But a spiritual relationship is not opposed to any good of marriage. Therefore it does not impede marriage.***
+Obj. 1: To the first question, we proceed thus.Parallel: *Quodl.* VI, q. 3, a. 2. It seems that a spiritual relationship does not impede marriage. For nothing impedes marriage that is not opposed to some good of marriage. But a spiritual relationship is not opposed to any good of marriage. Therefore it does not impede marriage.  
 
 Obj. 2: Furthermore, a perpetual impediment to marriage cannot remain together with marriage. But spiritual relationship remains together with marriage sometimes, as is stated in the text, as when someone baptizes his own child in the case of necessity: for then he is joined to his own wife with a spiritual relationship, nor is the marriage then separated. Therefore, spiritual relationship does not impede marriage.  
 
@@ -60,7 +62,7 @@ Article 2
 
 ***By what cause it is contracted***
 
-***Obj. 1: To the second question, we proceed thus.Parallel: *Quodl.* XII, q. 12, a. un. It seems that only by baptism is a close spiritual relationship contracted. For just as a bodily family connection is related to bodily generation, so spiritual relationship is related to spiritual generation. But only baptism is called spiritual generation. Therefore, a spiritual relationship is contracted by baptism alone, just as a physical family relation by physical generation alone.***
+Obj. 1: To the second question, we proceed thus.Parallel: *Quodl.* XII, q. 12, a. un. It seems that only by baptism is a close spiritual relationship contracted. For just as a bodily family connection is related to bodily generation, so spiritual relationship is related to spiritual generation. But only baptism is called spiritual generation. Therefore, a spiritual relationship is contracted by baptism alone, just as a physical family relation by physical generation alone.  
 
 Obj. 2: Furthermore, just as in confirmation a character is imprinted, so also in holy orders. But a spiritual relationship does not follow from the reception of holy orders. Therefore, neither does one follow from confirmation, and so only from baptism.  
 
@@ -108,7 +110,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question, we proceed thus. It seems that spiritual relationship is not contracted between the one receiving the sacrament of baptism and the one raising him from the sacred font. For in physical generation a close relationship is contracted only on the part of the one by whose seed offspring is generated, but not on the part of the one who receives the child when he is born. Therefore, neither is a spiritual family relationship contracted between the one who receives the child from the holy font and the one who is received.***
+Obj. 1: To the third question, we proceed thus. It seems that spiritual relationship is not contracted between the one receiving the sacrament of baptism and the one raising him from the sacred font. For in physical generation a close relationship is contracted only on the part of the one by whose seed offspring is generated, but not on the part of the one who receives the child when he is born. Therefore, neither is a spiritual family relationship contracted between the one who receives the child from the holy font and the one who is received.  
 
 Obj. 2: Furthermore, that person who lifts the child from the holy font is called *anadochus* by Dionysius,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 2, p. 2, n. 7 (PG 3:396); ch. 7, p. 3, n. 11 (PG 3:568). and it falls to his duty to instruct the child. But instruction is not a sufficient cause of spiritual relationship, as was said.In the preceding article, ad 9. Therefore, no relationship is contracted between him and the one who is lifted from the holy font.  
 
@@ -118,7 +120,7 @@ On the contrary, there is the definition of spiritual relationship introduced ab
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that spiritual relationship does not pass from a man to his wife. For spiritual and bodily unions are disparate things, and of different genera. Therefore, a spiritual relationship is not transferred through the medium of the physical union that exists between a man and his wife.***
+Obj. 1: Moreover, it seems that spiritual relationship does not pass from a man to his wife. For spiritual and bodily unions are disparate things, and of different genera. Therefore, a spiritual relationship is not transferred through the medium of the physical union that exists between a man and his wife.  
 
 Obj. 2: Furthermore, a spiritual father and mother share more in spiritual generation, which is the cause of spiritual family relationship, than the man who is a spiritual father shares with his wife. But a spiritual father and mother contract no spiritual relationship from this. Therefore, neither does a wife contract any spiritual relationship by the fact that her husband is a spiritual father to someone.  
 
@@ -130,7 +132,7 @@ On the contrary, spiritual goods are more capable of multiplication than physica
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it does not pass to the physical children of a spiritual father. For degrees are not assigned to spiritual relationships, but there would be degrees, if it passed from a father to his son; for a person generated changes degrees, as was said above in Distinction 40, Article 2. Therefore, it does not pass to the physical children of a spiritual father.***
+Obj. 1: Moreover, it seems that it does not pass to the physical children of a spiritual father. For degrees are not assigned to spiritual relationships, but there would be degrees, if it passed from a father to his son; for a person generated changes degrees, as was said above in Distinction 40, Article 2. Therefore, it does not pass to the physical children of a spiritual father.  
 
 Obj. 2: Furthermore, a father is related to a son in the same degree as also a brother is to a brother. If, therefore, spiritual relationship passes from a father to a son, by the same reasoning it would pass from brother to brother, which is false.  
 
@@ -138,7 +140,7 @@ On the contrary, it is proved in the text by equal authority.
 
 Response to Quaestiuncula 1  
 
-***I answer that, as in physical generation someone is born of a father and a mother, so also in spiritual generation someone is reborn a son of God as his father, and of the Church as his mother. But just as the one who confers the sacrament bears the persona of God, whose instrument and minister he is, so the one who receives the baptized from the holy font, or who holds the one to be confirmed, bears the persona of the Church; therefore a spiritual relationship is contracted to both.***
+I answer that, as in physical generation someone is born of a father and a mother, so also in spiritual generation someone is reborn a son of God as his father, and of the Church as his mother. But just as the one who confers the sacrament bears the persona of God, whose instrument and minister he is, so the one who receives the baptized from the holy font, or who holds the one to be confirmed, bears the persona of the Church; therefore a spiritual relationship is contracted to both.  
 
 Reply Obj. 1: The father by whose seed the child is generated is not the only one to have a blood relationship to the one born, but so does the mother, who bestows the matter and in whose womb he is generated; and in the same way the *anadochus* who offers and receives the baptized in the place of the whole Church, and who holds the one to be confirmed, contracts a spiritual relationship.  
 
@@ -148,7 +150,7 @@ Reply Obj. 3: A non-baptized person cannot raise anyone from the holy font,See G
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that someone can become *compater* to another in two ways. In one way, by the act of the other person baptizing, or receiving one’s child in baptism; and in this way the spiritual family relationship does not pass from the husband to his wife,See Gratian, *Decretals*, pt. 2, cause 30, q. 4, can. 4, ‘Qui spiritualem,’ with *Glossa ordin. in Decretum* on that text (II, 1469a). unless perhaps that child is the son of his wife; for then the wife directly contracts a spiritual family relationship, as well as her husband.***
+To the second question, it should be said that someone can become *compater* to another in two ways. In one way, by the act of the other person baptizing, or receiving one’s child in baptism; and in this way the spiritual family relationship does not pass from the husband to his wife,See Gratian, *Decretals*, pt. 2, cause 30, q. 4, can. 4, ‘Qui spiritualem,’ with *Glossa ordin. in Decretum* on that text (II, 1469a). unless perhaps that child is the son of his wife; for then the wife directly contracts a spiritual family relationship, as well as her husband.  
 
 In another way, by his own act, as when he lifts the son of another from the holy font; and in this way the spiritual family relationship passes to the wife whom he has already known carnally;See Gregory IX, *Decretals*, Bk. 4, tit. 11, ch. 4, ‘Martinus.’ but not if the marriage has not yet been consummated,See *Glossa ordin. in Decretum*, pt. 2, cause 30, q. 4, can. 5, ‘Post uxoris.’ for then they have not yet been made one flesh; and this is by the mode of a certain affinity.  
 
@@ -164,7 +166,7 @@ Reply Obj. 4: By the fact that no spiritual family relationship is contracted be
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that a son is something of his father, and not vice versa, as is said in the *Ethics* 8;Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1161b18). and thus a spiritual family relationship passes from the father to the son, but not vice versa, and so it is clear that there are three spiritual family relations. One is called spiritual paternity, which is between a spiritual father and his spiritual child.See above, q. 1, a. 2. Another, which is called compaternity, is between the spiritual father and the biological father of the same person.See above, q. 1, a. 3, qa. 2. But the third is called spiritual fraternity which is between the spiritual child and the biological children of the same father.See Gratian, *Decretals*, pt. 2, cause 30, q. 3, can. 2, can. 3, and can. 5; Gregory IX, *Decretals*, Bk. 4, tit. 11, ch. 7, ‘Tua nos’; ch. 8, ‘Ex litteris.’ And any one of these impedes the contracting of marriage, and invalidates the contract.***
+To the third question, it should be said that a son is something of his father, and not vice versa, as is said in the *Ethics* 8;Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1161b18). and thus a spiritual family relationship passes from the father to the son, but not vice versa, and so it is clear that there are three spiritual family relations. One is called spiritual paternity, which is between a spiritual father and his spiritual child.See above, q. 1, a. 2. Another, which is called compaternity, is between the spiritual father and the biological father of the same person.See above, q. 1, a. 3, qa. 2. But the third is called spiritual fraternity which is between the spiritual child and the biological children of the same father.See Gratian, *Decretals*, pt. 2, cause 30, q. 3, can. 2, can. 3, and can. 5; Gregory IX, *Decretals*, Bk. 4, tit. 11, ch. 7, ‘Tua nos’; ch. 8, ‘Ex litteris.’ And any one of these impedes the contracting of marriage, and invalidates the contract.  
 
 Reply Obj. 1: The person added by propagation of the flesh makes a degree with respect to that person who is related to him in the same genus, but not with respect to the one who is related in another genus; as a son is related in the same degree to the wife of his father as he is to his father, although in another genus of kinship. But a spiritual family relationship is another genus than a biological one; and thus a spiritual child is not related in the same degree to a natural child of his spiritual father, by means of which spiritual family relationship passes; and so it is not necessary that spiritual family relationship have degrees.  
 
@@ -174,7 +176,7 @@ Question 2
 
 ***Adoptive relationship***
 
-***Now we must examine legal family relationship, which is by adoption. And concerning this, three questions arise:***
+Now we must examine legal family relationship, which is by adoption. And concerning this, three questions arise:  
 
 first, about adoption;  
 
@@ -184,7 +186,7 @@ first, about adoption;
 
 ***About adoption***
 
-***Obj. 1: To the first question, we proceed thus. It seems that adoption is defined unfittingly: *adoption is the legal assumption of a stranger as a son or grandson*, *and so forth*.See Aulus Gellius, *Noctes Atticae*, Bk. 5, ch. 19; Justinian, *Institutes*, Bk. 1, tit. 11, sec. 1, ‘Adoptio autem’ and sec. 5, ‘Licet autem’; Isidore, *Etymologies*, Bk. 9, ch. 5; Bernard de Bottone, *Glossa ordin. in Decretal. Gregor. IX*, Bk. 4, tit. 12, prol. (1165b); Raymond of Peñafort, *Summa*, Bk. 4, tit. 8, n. 1 (496b); Henricus Hostiensis, *Summa*, Bk. 4, rubr. ‘De cognatione legale,’ sec. 2 (483ra). For a son should be subject to his father. But sometimes the one who is adopted does not pass into the power of his adoptive father. Therefore, someone is not always assumed as a son by adoption.***
+Obj. 1: To the first question, we proceed thus. It seems that adoption is defined unfittingly: *adoption is the legal assumption of a stranger as a son or grandson*, *and so forth*.See Aulus Gellius, *Noctes Atticae*, Bk. 5, ch. 19; Justinian, *Institutes*, Bk. 1, tit. 11, sec. 1, ‘Adoptio autem’ and sec. 5, ‘Licet autem’; Isidore, *Etymologies*, Bk. 9, ch. 5; Bernard de Bottone, *Glossa ordin. in Decretal. Gregor. IX*, Bk. 4, tit. 12, prol. (1165b); Raymond of Peñafort, *Summa*, Bk. 4, tit. 8, n. 1 (496b); Henricus Hostiensis, *Summa*, Bk. 4, rubr. ‘De cognatione legale,’ sec. 2 (483ra). For a son should be subject to his father. But sometimes the one who is adopted does not pass into the power of his adoptive father. Therefore, someone is not always assumed as a son by adoption.  
 
 Obj. 2: Furthermore, parents ought to lay up treasure for their children, as said in 2 Corinthians 12:14. But it is not necessary that an adoptive father always save up for his adopted child; for sometimes the adopted one does not inherit the goods of the one adopting. Therefore, adoption is not the assumption of someone as a child.  
 
@@ -218,7 +220,7 @@ Article 2
 
 ***Whether by adoption any bond is contracted that impedes marriage***
 
-***Obj. 1: To the second question, we proceed thus. It seems that by adoption no bond impeding marriage is contracted. For spiritual care is more noble than bodily care. But by the fact that someone is subject to the spiritual care of another, no bond of close relation is contracted; otherwise, all those who live in a parish would be closely related to the priest, and could not contract with his son. Therefore, neither can adoption do this, which draws the one adopted into the care of the one adopting.***
+Obj. 1: To the second question, we proceed thus. It seems that by adoption no bond impeding marriage is contracted. For spiritual care is more noble than bodily care. But by the fact that someone is subject to the spiritual care of another, no bond of close relation is contracted; otherwise, all those who live in a parish would be closely related to the priest, and could not contract with his son. Therefore, neither can adoption do this, which draws the one adopted into the care of the one adopting.  
 
 Obj. 2: Furthermore, by the fact that someone becomes benefactor to another, no bond of close relationship is contracted. But adoption is nothing other than the tie of a certain benefit. Therefore, by adoption, no bond of close relationship is made.  
 
@@ -240,7 +242,7 @@ Article 3
 
 ***Between which persons it may be contracted***
 
-***Obj. 1: To the third question, we proceed thus. It seems that such a family relationship is only contracted between the adoptive father and the adopted son. For mostly it would seem that it should be contracted between the adoptive father and the natural mother of the adopted, just as happens in spiritual family relationship. But between people such as these there is no legal family relationship. Therefore, neither is there between other persons beyond the adoptive person and the adopted.***
+Obj. 1: To the third question, we proceed thus. It seems that such a family relationship is only contracted between the adoptive father and the adopted son. For mostly it would seem that it should be contracted between the adoptive father and the natural mother of the adopted, just as happens in spiritual family relationship. But between people such as these there is no legal family relationship. Therefore, neither is there between other persons beyond the adoptive person and the adopted.  
 
 Obj. 2: Furthermore, a family relationship impeding marriage is a perpetual impediment. But between the adopted son and the natural daughter of the one adopting there is not a perpetual impediment; for once the adoption is dissolved by the death of the one adopting or by the emancipation of the one adopted, he can contract with her.See *Digests*, Bk. 23, tit. 2, leg. 17, ‘Per adoptionem’; *Institutes*, Bk. 1, tit. 10, sec. 2, ‘Inter eas’; Gratian, *Decretals*, pt. 2, cause 30, q. 3, can. 6, ‘Per adoptionem.’ Therefore, he did not have any family relationship with her that would impede marriage.  
 
@@ -264,7 +266,7 @@ Question 3
 
 ***On second marriages***
 
-***Now second marriages are to be considered; and concerning this two questions arise:***
+Now second marriages are to be considered; and concerning this two questions arise:  
 
 first, whether they are licit;  
 
@@ -273,7 +275,7 @@ first, whether they are licit;
 
 ***Whether they are licit***
 
-***Obj. 1: To the first question, we proceed thus. It seems that second weddings are not licit. For the judgment of a thing should be according to the truth. But Chrysostom says that *to take a second husband is, according to the truth, fornication*:Pseudo-Chrysostom, *Homilies on Matthew*, hom. 32, on Matthew 19:8 (PG 56:801). See Gratian, *Decretals*, pt. 2, cause 31, q. 1, can. 9, ‘Hac ratione.’ which is not licit. Therefore, neither is a second marriage.***
+Obj. 1: To the first question, we proceed thus. It seems that second weddings are not licit. For the judgment of a thing should be according to the truth. But Chrysostom says that *to take a second husband is, according to the truth, fornication*:Pseudo-Chrysostom, *Homilies on Matthew*, hom. 32, on Matthew 19:8 (PG 56:801). See Gratian, *Decretals*, pt. 2, cause 31, q. 1, can. 9, ‘Hac ratione.’ which is not licit. Therefore, neither is a second marriage.  
 
 Obj. 2: Furthermore, everything that is not good is not licit. But Ambrose says that *a twofold marriage is not good*.In fact, Jerome, *Against Jovinian*, Bk. 1 (PL 23:243); see Gratian, *Decretals*, pt. 2, cause 31, q. 1, can. 10. Therefore, it is not licit.  
 
@@ -299,7 +301,7 @@ Article 2
 
 ***Whether they are sacramental***
 
-***Obj. 1: To the second question, we proceed thus. It seems that a second marriage is not a sacrament. For whoever repeats a sacrament does harm to it. But injury is done to no sacrament. Therefore, if a second marriage were a sacrament, in no way could marriage be repeated.***
+Obj. 1: To the second question, we proceed thus. It seems that a second marriage is not a sacrament. For whoever repeats a sacrament does harm to it. But injury is done to no sacrament. Therefore, if a second marriage were a sacrament, in no way could marriage be repeated.  
 
 Obj. 2: Furthermore, in every sacrament some blessing is applied. Yet in a second marriage it is not applied, as is said in the text. Therefore, no sacrament happens there.  
 
@@ -323,7 +325,7 @@ Reply Obj. 4: The second marriage impedes the sacrament of holy orders as regard
 
 Exposition of the Text  
 
-****“All those whom we receive in penance are as much our spiritual children as those whom the water of baptism regenerated as we received them*:”*Sententiae* IV, 42.2 (238). 2, attributed to Pope Symmachus. not by reason of some family relationship, but because of the danger to be avoided, as was said.***
+*“All those whom we receive in penance are as much our spiritual children as those whom the water of baptism regenerated as we received them*:”*Sententiae* IV, 42.2 (238). 2, attributed to Pope Symmachus. not by reason of some family relationship, but because of the danger to be avoided, as was said.  
 
 *But Paschal II forbids the union of children born after the godfatherhood*.*Sent*. IV, 42. 4 (240). 3, citing Paschal II, *Epistola* 414. That prohibition is not now in force, for it was more for the sake of a certain propriety than because of any bond.  
 

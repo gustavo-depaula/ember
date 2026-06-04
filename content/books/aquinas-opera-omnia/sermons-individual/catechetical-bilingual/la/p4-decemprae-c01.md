@@ -1,5 +1,7 @@
 # Pr. - I. Prologue
 
+***I. Prooemium***
+
 ***Incipit tractatus de praeceptis secundum fratrem Thomam de Aquino.***
 
 Et primo de caritate.  

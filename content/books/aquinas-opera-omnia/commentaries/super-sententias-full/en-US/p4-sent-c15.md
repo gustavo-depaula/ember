@@ -1,8 +1,10 @@
 # D. 35 - Evil of fault
 
+***Evil of fault***
+
 ***Division of the text***
 
-***Because there are elements to consider in actual sin—namely, the defect, whereby it has the account of evil, and the substance of the act, on the basis of which it is called an “actual” sin—having discussed actual sin as it has the account of evil, here he begins to discuss it as regards the substance of the act, in which the defect, in regard to which it is called “evil,” is founded.***
+Because there are elements to consider in actual sin—namely, the defect, whereby it has the account of evil, and the substance of the act, on the basis of which it is called an “actual” sin—having discussed actual sin as it has the account of evil, here he begins to discuss it as regards the substance of the act, in which the defect, in regard to which it is called “evil,” is founded.  
 
 And this is divided into two parts.  
 
@@ -116,7 +118,7 @@ Article 1
 
 ***Whether evil is sufficiently divided into evil of fault and evil of punishment***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.48.5; *On Evil*, q. 1, a. 4. It seems that evil is not sufficiently divided into fault and punishment.***
+To the first we proceed as follows.Parallel texts: *ST* I.48.5; *On Evil*, q. 1, a. 4. It seems that evil is not sufficiently divided into fault and punishment.  
 
 Obj. 1: For evil is nothing other than a lack of the good. But everything that is found to be less good than another is not without the lack of a good. Therefore, everything that is a lesser good is also evil. But all created things are lesser goods. Therefore, since there are many created things in which there is neither punishment nor fault, it seems that evil is not sufficiently divided into punishment and fault.  
 
@@ -160,7 +162,7 @@ Article 2
 
 ***Whether the definitions of sin proposed here are fitting***
 
-***To the second we proceed as follows.Parallel text: *ST* I-II.71.6. It seems that sin is unfittingly defined as proposed.The text in question is *Sent*. II, 35.1(231).1–3. The definitions enumerated there are as follows: *sin is every word or deed or desire which happens against the law of God* (Augustine, *Against Faustus the Manichee*, bk. 22, ch. 27 [PL 42:418; CSEL 25:621]); *sin is the will to obtain or retain what justice forbids* (Augustine, *On the Two Souls, Against the Manichees*, ch. 11, para. 15 (PL 42:105; CSEL 25:70); *Retractions*, bk. 1, ch. 15, para. 4 [PL 32:609; CSEL 36:75]); *what is, except a transgression of the divine law and disobedience of heavenly commands?*” (Ambrose, *On Paradise*, ch. 8, para. 39 [PL 14:292C-D; CSEL 32.1:295]); *sin is iniquity* (1 John 3:4).***
+To the second we proceed as follows.Parallel text: *ST* I-II.71.6. It seems that sin is unfittingly defined as proposed.The text in question is *Sent*. II, 35.1(231).1–3. The definitions enumerated there are as follows: *sin is every word or deed or desire which happens against the law of God* (Augustine, *Against Faustus the Manichee*, bk. 22, ch. 27 [PL 42:418; CSEL 25:621]); *sin is the will to obtain or retain what justice forbids* (Augustine, *On the Two Souls, Against the Manichees*, ch. 11, para. 15 (PL 42:105; CSEL 25:70); *Retractions*, bk. 1, ch. 15, para. 4 [PL 32:609; CSEL 36:75]); *what is, except a transgression of the divine law and disobedience of heavenly commands?*” (Ambrose, *On Paradise*, ch. 8, para. 39 [PL 14:292C-D; CSEL 32.1:295]); *sin is iniquity* (1 John 3:4).  
 
 Obj. 1: For what is defined should be something because the question “whether it is?” precedes the question “what is it?” Again, everything that is defined has an essence, since the definition signifies the thing’s essence. But, according to Augustine,Augustine, *In Iohannis evangelium tractatus*, ch. 1, tract. 1, para. 13 (CCSL 36; PL 35:1385). sin is nothing and men are made into nothing when they sin. Therefore, it cannot be defined.  
 
@@ -196,7 +198,7 @@ Article 3
 
 ***Whether there is an act in every sin***
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.71.5; *On Evil*, q. 2, a. 1. It seems that every sin consists in an act, even a sin of omission.***
+To the third we proceed as follows.Parallel texts: *ST* I-II.71.5; *On Evil*, q. 2, a. 1. It seems that every sin consists in an act, even a sin of omission.  
 
 Obj. 1: *For sin is a word, deed, or desire against the law of God*,*Sent*. II, 35.1(231).1, quoting Augustine, *Contra Faustum Manichaeum*, bk. 22, para. 27 (CSEL 25:621; PL 42:418). as was said. But in saying *word, deed, or desire*, it touches on an act. Therefore, even a sin of omission consists in some act.  
 
@@ -238,7 +240,7 @@ Article 4
 
 ***Whether there is sin in the external act***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I-II.20.1; *On Evil*, q. 2, a. 3. It seems that sin does not exist in the external act.***
+To the fourth we proceed as follows.Parallel texts: *ST* I-II.20.1; *On Evil*, q. 2, a. 3. It seems that sin does not exist in the external act.  
 
 Obj. 1: For, as it says in *On Sleep and Sleeplessness*,Aristotle, *On Sleep and Sleeplessness* 1, 454a8. what has the potency has the act, and for the same reason what has the habit has the act. But the habit of a virtue or vice is not in the body, but in the soul. Therefore, the act of sin will not be the body’s act, but the soul’s.  
 
@@ -280,7 +282,7 @@ Article 5
 
 ***Whether the soul’s powers are in some way corrupted by sin***
 
-***To the fifth we proceed as follows. It seems that no corruption takes place in the soul’s powers through sin.***
+To the fifth we proceed as follows. It seems that no corruption takes place in the soul’s powers through sin.  
 
 Obj. 1: This is, first, by what Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 23 (PG 3:726). that natural gifts remain integral in the angels who sinned. But what is corrupted is not integral. Therefore, since man’s sin is not greater than an angel’s sin, it seems that in us, too, no corruption of natural powers occurs due to sin.  
 
@@ -316,7 +318,7 @@ Reply Obj. 6: Sin corrupts the soul, not in first being, but in second being. Bu
 
 Exposition of the text  
 
-****‘The will to obtain or retain what justice forbids*.’*Sent*. II, 35.1(231).1, quoting Augustine, *On the Two Souls*, ch. 11, para. 15 (CSEL 25:70; PL 42:105). It seems that this is not a common element in every sin. For there is a kind of sin that tends to corrupt, but does not acquire anything, as is clear in murder, envy, and so forth.***
+*‘The will to obtain or retain what justice forbids*.’*Sent*. II, 35.1(231).1, quoting Augustine, *On the Two Souls*, ch. 11, para. 15 (CSEL 25:70; PL 42:105). It seems that this is not a common element in every sin. For there is a kind of sin that tends to corrupt, but does not acquire anything, as is clear in murder, envy, and so forth.  
 
 But it should be said that intention, whether of will or nature, is never essentially terminated in non-being or corruption, but instead in some good to the one intending it, even though an evil or corruption without which the intended good cannot exist follows apart from the intention. This is clear in fire, which intends to introduce its form into matter, on which follows the corruption of air. Likewise, too, the will intends some good to the one willing that does not exist without the corruption of something else, as when one wills his own rest that he believes will be impossible without the death of his adversary, or some such thing.  
 

@@ -1,5 +1,7 @@
 # O God, You Who Are All-powerful
 
+***Prayer to obtain the virtues***
+
 ***O God,***
 ***you who are all-powerful***
 ***and all-knowing,***

@@ -1,8 +1,10 @@
 # D. 7 - Power of the angels
 
+***Power of the angels***
+
 ***Division of the text***
 
-***Having determined what pertains to the condition of nature with regard to the good and wicked angels alike, here he subsequently treats of what pertains to their power and strength. And it is divided into two parts.***
+Having determined what pertains to the condition of nature with regard to the good and wicked angels alike, here he subsequently treats of what pertains to their power and strength. And it is divided into two parts.  
 
 In the first, he discusses their power with respect to the activities they have in themselves.  
 
@@ -70,7 +72,7 @@ Article 1
 
 ***Whether the good angels can sin***
 
-***To the first we proceed as follows.Parallel texts: *ST* I. 62.8; *On Truth*, q. 24, a. 8. It seems that the good angels can sin.***
+To the first we proceed as follows.Parallel texts: *ST* I. 62.8; *On Truth*, q. 24, a. 8. It seems that the good angels can sin.  
 
 Obj. 1: For, according to the Philosopher, rational powers are powers for opposites.Aristotle, *Metaphysics* 9.2, 1046b5. But free will, which remains in the good angels, is a rational power, since it is a faculty of reason and will according to Augustine.Rather: Peter Lombard, *Sent*. II, 24.3(142).1. Therefore, it seems that if they can will the good, they can also sin.  
 
@@ -104,7 +106,7 @@ Article 2
 
 ***Whether the demons can do good***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.64.2; *On Truth*, q. 24, a. 10; *On Evil*, q. 16, a. 5. It seems that the demons can do good and are not obstinate in evil.***
+To the second we proceed as follows.Parallel texts: *ST* I.64.2; *On Truth*, q. 24, a. 10; *On Evil*, q. 16, a. 5. It seems that the demons can do good and are not obstinate in evil.  
 
 Obj. 1: For the intellectual nature is ordered to beatitude, of which it was made capable. But nature remains in the demons after sin. Therefore, they are not obstinate to the point that they cannot will good and obtain beatitude.  
 
@@ -160,7 +162,7 @@ Article 1
 
 ***Whether the demons possess acute knowledge***
 
-***To the first we proceed as follows.Parallel text: *ST* I.64.1. It seems that the demons are not sharp in knowledge, as is said in the text.*Sent*. II, 7.5(37).***
+To the first we proceed as follows.Parallel text: *ST* I.64.1. It seems that the demons are not sharp in knowledge, as is said in the text.*Sent*. II, 7.5(37).  
 
 Obj. 1: For as Dionysius says, *the evil of a demon is irrational fury, senseless concupiscence, and wanton fantasy*.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 23 (PG 3:726). But all these things imply a relation to understanding. Therefore, it seems that they do not have acuity of knowledge.  
 
@@ -186,7 +188,7 @@ Article 2
 
 ***Whether divination can be performed through demons***
 
-***To the second we proceed as follows. It seems that divination cannot be performed through demons.***
+To the second we proceed as follows. It seems that divination cannot be performed through demons.  
 
 Obj. 1: For to foretell future things is a sign of divinity. Hence it is said: *tell us what is to come hereafter, and we shall know that you are gods* (Isa 41:23). But the demons are altogether devoid of divinity. Therefore, divination of future things cannot be performed through them.  
 
@@ -236,7 +238,7 @@ Question 3
 
 ***The agency of the fallen angels***
 
-***Next we inquire about the demons’ power for acting. And concerning this two questions arise:***
+Next we inquire about the demons’ power for acting. And concerning this two questions arise:  
 
 first, whether they can work some true effects in bodily matter;  
 
@@ -246,7 +248,7 @@ Article 1
 
 ***Whether the demons can introduce a true bodily effect in bodily matter***
 
-***To the first we proceed as follows. It seems that the demons cannot bring about a true bodily effect.***
+To the first we proceed as follows. It seems that the demons cannot bring about a true bodily effect.  
 
 Obj. 1: For it is said that the Antichrist will come with false signs (2 Thess 2:9). But that is the time when the demons will have the greatest power. Therefore, it seems that in no way can they bring about a true effect.  
 
@@ -282,7 +284,7 @@ Article 2
 
 ***Whether it is evil to use the help of a demon for bodily effects***
 
-***To the second we proceed as follows. It seems that it is not evil to use the help of the demons in such activities.***
+To the second we proceed as follows. It seems that it is not evil to use the help of the demons in such activities.  
 
 Obj. 1: For Paul himself handed the Corinthian fornicator over to Satan for the destruction of the flesh, as it is said (1 Cor 5:5). But he is not said to have sinned by so doing. Therefore it is permissible to use the assistance of the demons.  
 
@@ -308,7 +310,7 @@ Reply Obj. 4: There can be no benefit for which we should do something that wron
 
 Exposition of the text  
 
-****But the good angels have a much freer choice after their confirmation than before*.*Sent*. II, 7.3(35).1. On the contrary, free will is what cannot be compelled. But negations do not receive more or less. Therefore neither does free will.***
+*But the good angels have a much freer choice after their confirmation than before*.*Sent*. II, 7.3(35).1. On the contrary, free will is what cannot be compelled. But negations do not receive more or less. Therefore neither does free will.  
 
 To this we must say that even though a negation as such does not receive more or less, nevertheless it is said to be intensified or relaxed insofar as it has a cause in the subject. As, for example, one who lacks the substance of an eye is said to be more blind than someone whose vision is said to be impeded by a humor flowing to the pupil. Thus, the freedom of the will can be called “greater” or “less” in accord with the mode of the nature in which it exists.  
 

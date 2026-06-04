@@ -10,7 +10,7 @@ Psalm 118 (119):129–144, 145–160, 161–176
 
 ***1 Corinthians 11:27***
 
-***Anyone who eats the bread or drinks the cup unworthily will be guilty of profaning the body and blood of the Lord.***
+Anyone who eats the bread or drinks the cup unworthily will be guilty of profaning the body and blood of the Lord.  
 
 > Responsory
 

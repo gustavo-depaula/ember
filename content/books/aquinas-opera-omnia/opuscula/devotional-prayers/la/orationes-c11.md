@@ -1,5 +1,7 @@
 # To You, O God, Fountain of Mercy
 
+***Oratio pro peccatorum remissione***
+
 ***Ad te***
 ***Fontem Misericordiae, Deus,***
 ***accedo peccator:***

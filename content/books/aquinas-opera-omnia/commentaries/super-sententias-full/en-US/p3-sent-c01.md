@@ -1,6 +1,8 @@
 # Prologue
 
-****His spirit has adorned the heavens, and his obstetric hand brought forth the winding serpent*.***
+***Job 26:13***
+
+*His spirit has adorned the heavens, and his obstetric hand brought forth the winding serpent*.  
 
 > The consideration of created things pertains to theologians and philosophers but in different ways. For philosophers consider created things as constituted in their proper nature, hence they inquire about the proper causes and properties of things. But the theologian considers created things as having proceeded from the first principle and as ordered to their last end, which is God. For this reason theology is rightly given the name divine wisdom, since it considers the highest cause, which is God. This is why it says in Sirach 42:17, *has not the Lord enabled his holy ones to recount all his marvelous works?*
 

@@ -1,8 +1,10 @@
 # D. 15 - Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest
 
+***De opere ornatus et de quiete septimae diei***
+
 ***Divisio textus***
 
-***Post opus creationis et distinctionis, hic incipit Magister prosequi opus ornatus; et dividitur in partes duas:***
+Post opus creationis et distinctionis, hic incipit Magister prosequi opus ornatus; et dividitur in partes duas:  
 
 in prima determinat de operibus trium ultimorum dierum, qui ad ornatum deputantur;  
 
@@ -74,7 +76,7 @@ Articulus 1
 
 ***Utrum productio stellarum convenienter describatur***
 
-***Ad primum sic proceditur. Videtur quod stellarum productio incompetenter describatur.***
+Ad primum sic proceditur. Videtur quod stellarum productio incompetenter describatur.  
 
 Ea enim quae sunt priora secundum naturam, per prius ab ordinatissimo auctore prodiere. Sed sol et aliae stellae naturaliter praecedunt inferiora corpora, sicut movens praecedit motum, et agens passum. Ergo inconvenienter describitur productio solis et aliarum stellarum post distinctionem inferiorum elementorum.  
 
@@ -108,7 +110,7 @@ Articulus 2
 
 ***Utrum corpora caelestia habeant aliquem effectum in corporibus inferioribus***
 
-***Ad secundum sic proceditur. Videtur quod corpora caelestia non habeant aliquem effectum in inferioribus corporibus.***
+Ad secundum sic proceditur. Videtur quod corpora caelestia non habeant aliquem effectum in inferioribus corporibus.  
 
 Primo per hoc quod in littera dicitur, quod facta sunt hujusmodi corpora ut sint in signa. Signum autem contra causam dividitur. Ergo videtur quod non sint causae aliquorum quae in inferioribus contingunt.  
 
@@ -154,7 +156,7 @@ Articulus 3
 
 ***Utrum corpora superiora habeant causalitatem super motus liberi arbitrii***
 
-***Ad tertium sic proceditur. Videtur quod corpora superiora habeant causalitatem etiam super motus liberi arbitrii.***
+Ad tertium sic proceditur. Videtur quod corpora superiora habeant causalitatem etiam super motus liberi arbitrii.  
 
 Dionysius enim, in 4 cap. *De divinis nomin*., de corporibus caelestibus tractans, *ea*, inquit, *quae sunt in tempore determinant, et numerant, et ordinant et continent*. Sed opera quae sunt ex libero arbitrio sunt in tempore. Ergo determinantur et ordinantur virtute corporum caelestium.  
 
@@ -188,7 +190,7 @@ Quaestio 2
 
 ***De opere quintae diei et sextae diei***
 
-***Deinde quaeritur de productione animalium quae ad quintam et sextam diem pertinet; et circa hoc quaeruntur duo:***
+Deinde quaeritur de productione animalium quae ad quintam et sextam diem pertinet; et circa hoc quaeruntur duo:  
 
 primo de materia ipsorum;  
 
@@ -198,7 +200,7 @@ Articulus 1
 
 ***Utrum quaedam animalia sumpserint materiam ex aquis, quaedam ex terra***
 
-***Ad primum sic proceditur. Videtur falsum esse quod dicitur, quaedam animalia ex aquis, quaedam ex terris materiam suscepisse.***
+Ad primum sic proceditur. Videtur falsum esse quod dicitur, quaedam animalia ex aquis, quaedam ex terris materiam suscepisse.  
 
 Corpus enim cujuslibet animalis oportet esse sensibile. Sed nihil est sensitivum sine calore, ut Philosophus dicit, 2 *De anima*. Ergo in corporibus animalium praecipue debet ignis dominari, qui est fons caloris.  
 
@@ -226,7 +228,7 @@ Articulus 2
 
 ***Utrum ornatus elementorum convenienter describatur secundum tria genera***
 
-***Ad secundum sic proceditur. Videtur quod inconvenienter ornatus trium elementorum, secundum tria genera animalium describatur.***
+Ad secundum sic proceditur. Videtur quod inconvenienter ornatus trium elementorum, secundum tria genera animalium describatur.  
 
 Ignis enim est principalior inter elementa. Sed ei nullus ornatus assignatur. Ergo videtur quod insufficienter ornatus elementorum assignetur.  
 
@@ -262,7 +264,7 @@ Quaestio 3
 
 ***De his quae ad septimum diem pertinent***
 
-***Deinde quaeritur de his quae ad septimum diem pertinent; et circa hoc quaeruntur tria:***
+Deinde quaeritur de his quae ad septimum diem pertinent; et circa hoc quaeruntur tria:  
 
 primo de consummatione operum divinorum;  
 
@@ -274,7 +276,7 @@ Articulus 1
 
 ***Utrum Deus compleverit opus suum septimo die***
 
-***Ad primum sic proceditur. Videtur quod Deus non consummaverit septimo die opus suum.***
+Ad primum sic proceditur. Videtur quod Deus non consummaverit septimo die opus suum.  
 
 Perfectus enim numerus consummationi operum divinorum convenit. Sed senarius numerus perfectus est, et non septenarius. Ergo die sexto, et non septimo, Deus opus suum consummare debuit.  
 
@@ -328,7 +330,7 @@ Articulus 2
 
 ***Utrum Deus convenienter dicatur quievisse septima die***
 
-***Ad secundum sic proceditur. Videtur quod inconvenienter dicatur Deus die septima requievisse.***
+Ad secundum sic proceditur. Videtur quod inconvenienter dicatur Deus die septima requievisse.  
 
 Opposita enim nata sunt fieri circa idem. Sed quies opponitur motui. Ergo cum Deus non moveatur, Jac. 1:17: *apud quem non est transmutatio nec vicissitudinis obumbratio*; videtur quod nec possit dici quiescere.  
 
@@ -388,7 +390,7 @@ Articulus 3
 
 ***Utrum Deus debuerit sanctificare septimum diem prae aliis***
 
-***Ad tertium sic proceditur. Videtur quod diem septimum Deus prae aliis sanctificare non debuit.***
+Ad tertium sic proceditur. Videtur quod diem septimum Deus prae aliis sanctificare non debuit.  
 
 Operatio enim nobilior est otio, ut dicitur 10 *Ethic*.; unde non in otio, sed in operatione felicitas consistit. Sed sex diebus Deus operatus est, septima vero die ab opere cessavit. Ergo sextam diem potius quam septimam sanctificare debuit.  
 
@@ -424,7 +426,7 @@ Ad quintum dicendum, quod Deus eadem virtute qua esse rebus tribuit, eas in esse
 
 Expositio textus  
 
-****Jumenta, et reptilia, et bestias*. Quid sit reptile, dictum est,Nicolaï: *inferius dicetur*. As Mandonnet notes, Nicolaï inverts Aquinas’s order throughout his edition by putting the exposition of the text prior to the questions rather than after them. q. 2, art. 2. Jumenta vero dicuntur quae adjutorium homini conferunt, praecipue vehendo ipsum, ut equi vel asini, et hujusmodi. Bestiae dicuntur propter crudelitatem, quasi vastiae, ut leones et ursi, et hujusmodi.Parma: *ursi, et hujusmodi creata*, etc.***
+*Jumenta, et reptilia, et bestias*. Quid sit reptile, dictum est,Nicolaï: *inferius dicetur*. As Mandonnet notes, Nicolaï inverts Aquinas’s order throughout his edition by putting the exposition of the text prior to the questions rather than after them. q. 2, art. 2. Jumenta vero dicuntur quae adjutorium homini conferunt, praecipue vehendo ipsum, ut equi vel asini, et hujusmodi. Bestiae dicuntur propter crudelitatem, quasi vastiae, ut leones et ursi, et hujusmodi.Parma: *ursi, et hujusmodi creata*, etc.  
 
 *Creata non fuerunt nisi potentialiter et materialiter*, ut intelligatur tam de potentia activa quam de materiali.  
 

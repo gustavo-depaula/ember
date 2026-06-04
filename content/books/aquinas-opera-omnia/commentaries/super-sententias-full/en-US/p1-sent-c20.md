@@ -1,8 +1,10 @@
 # D. 19 - Equality of the divine persons
 
+***Equality of the divine persons***
+
 ***Division of the first part of the text***
 
-***Having considered the divine persons in reference to their distinction through eternal relations, here the Master begins to consider them as regards their equality. Now, this part is divided into two: in the first, he manifests the equality of the persons; in the second, he presents a certain doubt that arises from certain expressions that he had used in his own proof, at *here arises a question which has its root in what has been said earlier*.*Sent*. I, 21.1(87).1.***
+Having considered the divine persons in reference to their distinction through eternal relations, here the Master begins to consider them as regards their equality. Now, this part is divided into two: in the first, he manifests the equality of the persons; in the second, he presents a certain doubt that arises from certain expressions that he had used in his own proof, at *here arises a question which has its root in what has been said earlier*.*Sent*. I, 21.1(87).1.  
 
 The first is divided into two: in the first he shows in what respect one should view the equality of the persons; in the second, he manifests the equality of the persons in that respect, at *that none of the three persons surpasses another in eternity has been shown above*.*Sent*. I, 19.2(73).6.  
 
@@ -36,7 +38,7 @@ Article 1
 
 ***Whether there is equality in the divine***
 
-***To the first we proceed as follows.Parallel text: *ST* I.42.1. It seems that there is no equality in the divine.***
+To the first we proceed as follows.Parallel text: *ST* I.42.1. It seems that there is no equality in the divine.  
 
 Obj. 1: For as the Philosopher says,Aristotle, *Metaphysics* 5.15, 1021a13. one in quantity makes the equal. But in God there is no quantity, as Augustine said above;Augustine, *On the Trinity*, bk. 5, prologue; see above, d. 8, q. 4, a. 1, sed contra. God is great without quantity. Therefore it seems that equality is not there.  
 
@@ -68,7 +70,7 @@ Article 2
 
 ***Whether the equality in the divine persons is mutual***
 
-***To the second we proceed as follows. It appears that there is no mutual equality here.***
+To the second we proceed as follows. It appears that there is no mutual equality here.  
 
 Obj. 1: For Dionysius saysPseudo-Dionysius, *On the Divine Names*, ch. 9, para. 6 (PG 3:914). that in the cause and the caused we do not admit a conversion of likeness and equality. But, although in the divine persons there is no cause and caused, nonetheless a principle and what is from a principle are there. Therefore it seems that the Son, who is from the Father as from a principle, is like and equal to the Father, but the converse is not so.  
 
@@ -94,7 +96,7 @@ Question 2
 
 ***Eternity***
 
-***Next we ask about the things wherein this equality is viewed, and two things are asked in reference to this:***
+Next we ask about the things wherein this equality is viewed, and two things are asked in reference to this:  
 
 first, about eternity;Q. 2.  
 
@@ -112,7 +114,7 @@ Article 1
 
 ***Whether eternity is the substance of God***
 
-***To the first we proceed as follows.Parallel texts: above, d. 8, q. 2, a. 2; *In IV Sent*., d. 49, q. 1, a. 2, qa. 3; *ST* I.10.2; *SCG* I.15; *On the Power of God*, q. 3, a. 14, ad 10; a. 17, ad 23; *Quodl. X*, q. 2; *Compendium theologiae*, cc. 5, 8; *Commentary on Dionysius’s On the Divine Names*, ch. 10, lect. 3. It appears that eternity is not the divine substance itself.***
+To the first we proceed as follows.Parallel texts: above, d. 8, q. 2, a. 2; *In IV Sent*., d. 49, q. 1, a. 2, qa. 3; *ST* I.10.2; *SCG* I.15; *On the Power of God*, q. 3, a. 14, ad 10; a. 17, ad 23; *Quodl. X*, q. 2; *Compendium theologiae*, cc. 5, 8; *Commentary on Dionysius’s On the Divine Names*, ch. 10, lect. 3. It appears that eternity is not the divine substance itself.  
 
 Obj. 1: For nothing is the cause of its very self. But God is the author of eternity, as Augustine says,Augustine, *Book of Eighty-Three Different Questions*, q. 23 (PL 40:16). and is even before eternity, as its cause, as is said in the *Book of Causes*.Proclus, *Book of Causes*, prop. 2. Therefore it seems that eternity is not God himself.  
 
@@ -152,7 +154,7 @@ Article 2
 
 ***Whether the now of eternity is eternity itself***
 
-***To the second we proceed as follows.*ST* I.10.2. It seems that the now of eternity is not eternity itself.***
+To the second we proceed as follows.*ST* I.10.2. It seems that the now of eternity is not eternity itself.  
 
 Obj. 1: For the nows of eternity, time, and aeviternity seem to be one now, as is signified when one says, “when the motion exists, the angel also exists, and God exists.” But eternity is not time, as was said in the previous article. Therefore the now of eternity, which is the same as the now of time, is not the same thing as eternity.  
 
@@ -194,7 +196,7 @@ Article 1
 
 ***Whether magnitude belongs to God***
 
-***To the first we proceed as follows. It seems that magnitudeNote that the Latin *magnitudo* may be translated narrowly as “magnitude” or more generally and abstractly as “greatness.” Hence the adjective *magnus* is translated as “great.” does not befit God.***
+To the first we proceed as follows. It seems that magnitudeNote that the Latin *magnitudo* may be translated narrowly as “magnitude” or more generally and abstractly as “greatness.” Hence the adjective *magnus* is translated as “great.” does not befit God.  
 
 Obj. 1: For magnitude is a certain condition of matter. But no material condition is said of God unless it is said metaphorically. Therefore it seems that magnitude does not belong to God except metaphorically.  
 
@@ -232,7 +234,7 @@ Article 2
 
 ***Whether the Father is in the Son, and vice versa***
 
-***To the second we proceed as follows. It seems that the Father is not in the Son, nor vice versa.***
+To the second we proceed as follows. It seems that the Father is not in the Son, nor vice versa.  
 
 Obj. 1: For the Philosopher assignsAristotle, *Physics* 4.3, 210a15‒24. eight ways of being “in” something, none of which can be adapted such that the Father would be said to be in the Son, or vice versa. For neither is this as a whole is in its parts, nor vice versa; nor as a genus is in its species, nor vice versa; nor as in a place; nor as form is in matter; nor as something is in its mover the way the kingdom is in the king; nor as a thing is in its best end, as can easily be shown. Therefore the Father is not in the Son.  
 
@@ -254,7 +256,7 @@ Reply Obj. 3: If one says the Father is in the Son on account of the unity of th
 
 Exposition of the first part of the text  
 
-****Your years, into the generation and generation*.*Sent*. I, 19.2(73).4, quoting Psalm 102:24. See the note on q. 2, a. 2, obj. 2, above. By God’s “years” is understood eternity, but not on account of its multitude, since it is one and simple; rather, this is insofar as it can embrace in its power a great multitude of inferior measure, which multitude is divisible. This is like how we also say that “time was before the world,” not indeed before in reality, but according to our imagination, insofar as we imagine time, which began with the world, as capable of having been made longer on the side of what came before, all of which addition is contained under eternity.***
+*Your years, into the generation and generation*.*Sent*. I, 19.2(73).4, quoting Psalm 102:24. See the note on q. 2, a. 2, obj. 2, above. By God’s “years” is understood eternity, but not on account of its multitude, since it is one and simple; rather, this is insofar as it can embrace in its power a great multitude of inferior measure, which multitude is divisible. This is like how we also say that “time was before the world,” not indeed before in reality, but according to our imagination, insofar as we imagine time, which began with the world, as capable of having been made longer on the side of what came before, all of which addition is contained under eternity.  
 
 *We confess the whole nature of the Godhead to be perfectly in each of the hypostases**Sent*. I, 19.3(74).2, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 6 (PG 94:1093).—that is, the entire and perfect nature; and one should take this in the same way in what follows it.  
 
@@ -274,7 +276,7 @@ They are in each other *by the birth of a living nature*, that is, the nature of
 
 Division of the second part of the text  
 
-****But let us now return to our main point*.*Sent*. I, 19.4(75).7. Here he shows in a second way the divine persons’ equality in magnitude, by removing the things that can cause an inequality. And this is divided into two parts: in the first, he shows the truth; in the second, he resolves something that seems contrary, at *but some things which Catholic commentators on Sacred Scripture have handed down in their writings seem to contradict these statements*.*Sent*. I, 19.9(80).3.***
+*But let us now return to our main point*.*Sent*. I, 19.4(75).7. Here he shows in a second way the divine persons’ equality in magnitude, by removing the things that can cause an inequality. And this is divided into two parts: in the first, he shows the truth; in the second, he resolves something that seems contrary, at *but some things which Catholic commentators on Sacred Scripture have handed down in their writings seem to contradict these statements*.*Sent*. I, 19.9(80).3.  
 
 The first is divided in two: in the first, he shows that the divine persons do not agree in essence as in a whole; in the second, he shows that they do not agree in the essence as in a part, at *it is also to be noted that the divine essence is not the material cause of the persons*.*Sent*. I, 19.8(79).1.  
 
@@ -312,7 +314,7 @@ Article 1
 
 ***Whether an integral whole is in the divine***
 
-***To the first we proceed as follows. It seems that there is an integral whole in the divine.***
+To the first we proceed as follows. It seems that there is an integral whole in the divine.  
 
 Obj. 1: For wherever there is any quantity, the account of an integral whole is present, since every quantity is divisible into parts. But in God there is a quantity of power. Therefore an integral whole is there.  
 
@@ -340,7 +342,7 @@ Article 2
 
 ***Whether a universal whole is in the divine***
 
-***To the second we proceed as follows. It seems that in the divine there is a universal whole.***
+To the second we proceed as follows. It seems that in the divine there is a universal whole.  
 
 Obj. 1: For whatever is predicated substantially of something, but not convertibly, is predicated of it as a universal whole of its subjective part. But the divine essence, or God, is predicated of the Father in this way, for the Father is the divine essence, but it is not the case that whatever is the divine essence is the Father. Therefore a universal whole is present here.  
 
@@ -368,7 +370,7 @@ Question 5
 
 ***Truth***
 
-***As regards the second proof, one asks about this in reference to truth. And three things are asked:***
+As regards the second proof, one asks about this in reference to truth. And three things are asked:  
 
 first, what truth is;  
 
@@ -380,7 +382,7 @@ Article 1
 
 ***Whether truth is the essence***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.16.1; I-II.3.7; *SCG* I.59‒60, and III.51; *On Truth*, q. 1, aa. 2, 3, 9; *Commentary on Aristotle’s De interpretatione*, lect. 3; *Commentary on the Metaphysics*, bk. 6, lect. 4; *Commentary on Aristotle’s On the Soul*, bk. 3, lect. 11. It appears that truth is the same as the essence of a thing.***
+To the first we proceed as follows.Parallel texts: *ST* I.16.1; I-II.3.7; *SCG* I.59‒60, and III.51; *On Truth*, q. 1, aa. 2, 3, 9; *Commentary on Aristotle’s De interpretatione*, lect. 3; *Commentary on the Metaphysics*, bk. 6, lect. 4; *Commentary on Aristotle’s On the Soul*, bk. 3, lect. 11. It appears that truth is the same as the essence of a thing.  
 
 Obj. 1: For Augustine saysAugustine, *The Soliloquies*, ch. 5 (PL 32:889). that the *true is what is*, and others say that the true is the non-division of existence, and of what exists. Therefore each thing is called “true” insofar as it has existence. Now, existence is the act of essence. Therefore, since each thing is true formally by truth, it seems that truth and essence are altogether the same thing.  
 
@@ -440,7 +442,7 @@ Article 2
 
 ***Whether all things are true by the uncreated truth***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.16.6; *SCG* III.47; *On Truth*, q. 1, a. 4; q. 21, a. 4, ad 5; q. 27, a. 1, ad 7; *Quodl. X*, q. 4, a. 1. It seems that all things are true by the one truth that is uncreated truth.***
+To the second we proceed as follows.Parallel texts: *ST* I.16.6; *SCG* III.47; *On Truth*, q. 1, a. 4; q. 21, a. 4, ad 5; q. 27, a. 1, ad 7; *Quodl. X*, q. 4, a. 1. It seems that all things are true by the one truth that is uncreated truth.  
 
 Obj. 1: For, as was said in the solution of the previous article, “true” is said analogically of the things wherein there is truth, just as “health” is said of all healthy things. But the health from which the animal is denominated “healthy,” as its subject, the medicine “healthy,” as its cause, and the urine “healthy,” as its sign, is numerically one health. Therefore the truth by which all things are called “true” is one.  
 
@@ -474,7 +476,7 @@ Article 3
 
 ***Whether there are several eternal truths***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.10.3, ad 3; I.16.7‒8; *SCG* II.35; III.82, 84; *On Truth*, q. 1, aa. 5‒6; *On the Power of God*, q. 3, a. 17, ad 27. It seems that several truths are eternal.***
+To the third we proceed as follows.Parallel texts: *ST* I.10.3, ad 3; I.16.7‒8; *SCG* II.35; III.82, 84; *On Truth*, q. 1, aa. 5‒6; *On the Power of God*, q. 3, a. 17, ad 27. It seems that several truths are eternal.  
 
 Obj. 1: For, as is clear from the things said, there are diverse truths of diverse propositions. But “the Father is God” and “the Son is God” are two propositions. Therefore they are also two truths. But each of them is true from eternity. Therefore several truths are eternal.  
 
@@ -522,7 +524,7 @@ Reply Obj. 7: Likewise, the truth of necessary propositions can fail incidentall
 
 Exposition of the second part of the text  
 
-****If, then, in the one person of the Father you find what seem to be many things, and do not find parts because it is one simple power, how much more are the Father and the Son and the Holy Spirit one God because of their undivided divinity?*Augustine here is addressing one who denies that there is a Trinity of Persons*. Sent*. I, 19.5‒6(76‒77).3, quoting Augustine, *Against Maximinus*, bk. 2, ch. 10, para. 2 (PL 42:764). It seems that he is arguing by affirming the major premise, for it seems that simplicity is found more in one person than in two taken together. I answer that this is the logical topicWhile *locus* is literally translated as “place,” in this context Aquinas seems to be referring to the kind of dialectical argument logicians often called a *locus*, perhaps translatable as a “common place”; note that Aristotle has a work devoted entirely to such dialectical arguments, the *Topics* (a transliteration of the Greek word *topoi*, “places”). One logical topic was designated as *a minore*, which seems to be what Aquinas is referring to here; see Boethius, *Concerning Different Topics*, bk. 3, 7.23 (PL 64:1203–4). moving from the lesser; for in the one person of the Father, Augustine takes things that are diverse in account, like wisdom, power, and such, whereas in the two persons of the Father and the Son, he takes what is one according to account, that is, the divine nature, which also cannot be multiplied according to number.***
+*If, then, in the one person of the Father you find what seem to be many things, and do not find parts because it is one simple power, how much more are the Father and the Son and the Holy Spirit one God because of their undivided divinity?*Augustine here is addressing one who denies that there is a Trinity of Persons*. Sent*. I, 19.5‒6(76‒77).3, quoting Augustine, *Against Maximinus*, bk. 2, ch. 10, para. 2 (PL 42:764). It seems that he is arguing by affirming the major premise, for it seems that simplicity is found more in one person than in two taken together. I answer that this is the logical topicWhile *locus* is literally translated as “place,” in this context Aquinas seems to be referring to the kind of dialectical argument logicians often called a *locus*, perhaps translatable as a “common place”; note that Aristotle has a work devoted entirely to such dialectical arguments, the *Topics* (a transliteration of the Greek word *topoi*, “places”). One logical topic was designated as *a minore*, which seems to be what Aquinas is referring to here; see Boethius, *Concerning Different Topics*, bk. 3, 7.23 (PL 64:1203–4). moving from the lesser; for in the one person of the Father, Augustine takes things that are diverse in account, like wisdom, power, and such, whereas in the two persons of the Father and the Son, he takes what is one according to account, that is, the divine nature, which also cannot be multiplied according to number.  
 
 *Just as if three statues were made from the same gold*.*Sent*. I, 19.8(79).1, quoting Augustine, *On the Trinity*, bk. 7, ch. 6 (PL 42:943). This seems to be false, since matter is not predicated of the composite, because it is its part. And one should say that this is true in natural things, the matter of which is not their entire substance. But this is not true in artificial things, which are ordered in the genus of substance through their matter, as the Commentator says, and not through their own form,Averroes, *Commentary on Aristotle’s On the Soul*, bk. 2, text. 8. for artificial forms are accidents.  
 

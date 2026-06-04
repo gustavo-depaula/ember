@@ -1,6 +1,6 @@
 # D. 44 - Those who will rise
 
-***Postquam determinavit Magister de conditionibus resurrectionis, hic determinat de conditionibus resurgentium; et dividitur in partes duas: in prima parte determinat de conditionibus resurgentium qui ad perfectionem humanae naturae pervenerunt; in secunda de conditionibus illorum qui in praesenti vita praedicta perfectione caruerunt, scilicet de abortivis fetibus, ibi: *illud etiam investigare oportet*, etc.***
+Postquam determinavit Magister de conditionibus resurrectionis, hic determinat de conditionibus resurgentium; et dividitur in partes duas: in prima parte determinat de conditionibus resurgentium qui ad perfectionem humanae naturae pervenerunt; in secunda de conditionibus illorum qui in praesenti vita praedicta perfectione caruerunt, scilicet de abortivis fetibus, ibi: *illud etiam investigare oportet*, etc.  
 
 Prima in duas: in prima determinat conditiones resurgentium beatorum; in secunda conditiones malorum, ibi: *de reprobis autem quaeri solet*, etc.  
 
@@ -30,7 +30,7 @@ primo, de identitate resurgentium;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod non idem corpus anima resumat in resurrectione. 1 Corinth. 15, 37: *non corpus quod futurum est seminas, sed nudum granum*. Sed apostolus ibi comparat mortem seminationi, et resurrectionem pullulationi. Ergo non idem corpus quod per mortem deponitur, in resurrectione resumitur.***
+Ad primum sic proceditur. Videtur quod non idem corpus anima resumat in resurrectione. 1 Corinth. 15, 37: *non corpus quod futurum est seminas, sed nudum granum*. Sed apostolus ibi comparat mortem seminationi, et resurrectionem pullulationi. Ergo non idem corpus quod per mortem deponitur, in resurrectione resumitur.  
 
 Praeterea, cuilibet formae aptatur materia secundum suam conditionem, et similiter cuilibet agenti instrumentum. Sed corpus comparatur ad animam sicut materia ad formam, et instrumentum ad agentem. Cum ergo anima in resurrectione non sit ejusdem conditionis sicut modo est; quia vel transferetur totaliter in caelestem vitam, cui inhaesit vivens in mundo; vel deprimetur in brutalem, si brutaliter vixit in hoc mundo: videtur quod non resumet idem corpus, sed vel caeleste, vel brutale.  
 
@@ -44,7 +44,7 @@ Praeterea, sicut Damascenus dicit in 4 Lib., *resurrectio est ejus qui cecidit s
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit idem numero homo qui resurget. Sicut enim dicit Philosophus, 2 *de Generatione*, *quaecumque habent speciem corruptibilem motam, non reiteratur eadem numero*. Sed talis est substantia hominis secundum praesentem statum. Ergo post mutationem mortis non potest reiterari idem numero.***
+Ulterius. Videtur quod non sit idem numero homo qui resurget. Sicut enim dicit Philosophus, 2 *de Generatione*, *quaecumque habent speciem corruptibilem motam, non reiteratur eadem numero*. Sed talis est substantia hominis secundum praesentem statum. Ergo post mutationem mortis non potest reiterari idem numero.  
 
 Praeterea, ubi est alia et alia humanitas, non est idem homo numero; unde Socrates et Plato sunt duo homines, et non unus homo, quia alia est humanitas utriusque. Sed alia est humanitas hominis resurgentis ab ea quam nunc habet. Ergo non est idem homo numero. Media potest probari dupliciter. Primo, quia humanitas quae est forma totius, non est forma et substantia sicut anima, sed est forma tantum: hujusmodi autem formae penitus cedunt in non ens; et sic non possunt reiterari. Secundo, quia humanitas resultat ex conjunctione partium; sed non potest eadem numero conjunctio resumi quae prius fuit, quia iteratio identitati opponitur. Iteratio enim numerum importat, identitas autem unitatem, quae se non compatiuntur. In resurrectione autem conjunctio iteratur. Ergo non est eadem conjunctio; et sic nec eadem humanitas, nec idem homo.  
 
@@ -58,7 +58,7 @@ Praeterea, Augustinus dicit, 8 lib. *De Trinit*., quod resurgere nihil aliud est
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod oporteat pulveres humani corporis ad eamdem partem corporis quae in eis dissoluta est, per resurrectionem redire. Quia secundum Philosophum in 2 *de Anima*, sicut se habet tota anima ad totum corpus, ita pars animae ad partem corporis, ut visus ad pupillam. Sed oportet quod post resurrectionem corpus resumatur ab anima eadem. Ergo oportet quod etiam partes corporis resumantur ad eadem membra, in quibus eisdem partibus animae perficiantur.***
+Ulterius. Videtur quod oporteat pulveres humani corporis ad eamdem partem corporis quae in eis dissoluta est, per resurrectionem redire. Quia secundum Philosophum in 2 *de Anima*, sicut se habet tota anima ad totum corpus, ita pars animae ad partem corporis, ut visus ad pupillam. Sed oportet quod post resurrectionem corpus resumatur ab anima eadem. Ergo oportet quod etiam partes corporis resumantur ad eadem membra, in quibus eisdem partibus animae perficiantur.  
 
 Praeterea, diversitas materiae facit diversitatem in numero. Sed si pulveres non redeant ad easdem partes, singulae partes non reficientur ex eadem materia ex qua prius constabant. Ergo non erunt eaedem numero. Sed si partes sunt diversae, et totum erit diversum: quia partes comparantur ad totum sicut materia ad formam, ut patet 2 Physic. Ergo non erit idem numero homo; quod est contra veritatem resurrectionis.  
 
@@ -70,7 +70,7 @@ Praeterea, variatio accidentis non facit diversitatem in numero. Sed situs parti
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circa hanc quaestionem et philosophi erraverunt, et quidam moderni haeretici errant.***
+Respondeo dicendum ad primam quaestionem, quod circa hanc quaestionem et philosophi erraverunt, et quidam moderni haeretici errant.  
 
 Quidam enim philosophi posuerunt, animas a corpore separatas iterato corporibus conjungi. Sed errabant in hoc quantum ad duo. Primo quantum ad modum conjunctionis: quia quidam ponebant animam separatam corpori iterum conjungi naturaliter per viam generationis. Secundo quantum ad corpus cui conjungebatur: quia ponebant quod secunda conjunctio non erat ad idem corpus quod per mortem depositum fuit, sed ad aliud: quandoque quidem idem specie, quandoque autem diversum; ad diversum quidem quando anima in corpore existens praeter rationis ordinem vitam duxerat bestialem, unde transibat post mortem de corpore hominis in corpus alterius animalis, cujus moribus vivendo se conformavit; sicut in corpus canis propter luxuriam, et in corpus leonis propter rapinam et violentiam, et sic de aliis; sed in corpus ejusdem speciei, quando anima bene in corpore vivens, post mortem aliqua felicitate perfuncta, post aliqua saecula incipiebat ad corpus velle redire; et sic iterum corpori conjungebatur humano. Sed haec opinio ex duabus falsis radicibus venit: quarum prima est, quia anima non conjungitur corpori essentialiter sicut forma materiae, sed solum accidentaliter, sicut motor mobili, aut homo vestimento; et ideo ponere poterant quod anima praeexistebat antequam corpori generato infunderetur in generatione naturali; et iterum quod diversis corporibus uniretur. Secunda est, quia ponebant intellectum non differre a sensu nisi accidentaliter, ut scilicet homo diceretur intellectum habere prae aliis animalibus, quia in eo propter optimam corporis complexionem vis sensitiva amplius viget; unde poterant ponere quod anima hominis in corpus animalis bruti transiret, praecipue facta immutatione animae humanae ad effectus brutales. Sed praedictae duae radices destruuntur a philosopho, in Lib. *de Anima*; quibus destructis, patet falsitas praedictae positionis.  
 
@@ -86,7 +86,7 @@ Ad quartum dicendum, quod sicut qualitas simplex non est forma substantialis ele
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod necessitas ponendi resurrectionem est ex hoc ut homo finem ultimum propter quem homo factus est, consequatur: quod in hac vita fieri non potest, nec in vita animae separatae, ut supra dictum est: alias vane esset homo constitutus, si ad finem ad quem factus est, pervenire non posset. Et quia oportet quod illud idem numero ad finem perveniat quod propter finem est factum, ne in vanum factum esse videatur; oportet quod idem numero homo resurgat; et hoc quidem fit cum eadem anima eidem numero corpori conjungitur, ut ex dictis patet: alias enim non esset resurrectio, proprie loquendo, nisi idem homo repararetur. Unde ponere quod non sit idem numero qui resurget, est haereticum, derogans veritati Scripturae, quae resurrectionem praedicat.***
+Ad secundam quaestionem dicendum, quod necessitas ponendi resurrectionem est ex hoc ut homo finem ultimum propter quem homo factus est, consequatur: quod in hac vita fieri non potest, nec in vita animae separatae, ut supra dictum est: alias vane esset homo constitutus, si ad finem ad quem factus est, pervenire non posset. Et quia oportet quod illud idem numero ad finem perveniat quod propter finem est factum, ne in vanum factum esse videatur; oportet quod idem numero homo resurgat; et hoc quidem fit cum eadem anima eidem numero corpori conjungitur, ut ex dictis patet: alias enim non esset resurrectio, proprie loquendo, nisi idem homo repararetur. Unde ponere quod non sit idem numero qui resurget, est haereticum, derogans veritati Scripturae, quae resurrectionem praedicat.  
 
 Ad primum ergo dicendum, quod Philosophus loquitur de iteratione quae fit per motum vel mutationem naturalem. Ostendit enim differentiam circulationis quae est in generatione et corruptione, ad circulationem quae est in motu caeli: quia caelum per motum localem redit idem numero ad principium motus, quia habet substantiam incorruptibilem motam; sed generabilia et corruptibilia per generationem redeunt ad idem specie, non ad idem numero: quia ex homine generatur semen, ex quo sanguis; et sic deinceps, quousque perveniatur ad hominem, non ad eumdem numero, sed specie; et ex igne generatur aer, ex quo aqua; ex aqua terra, ex terra ignis, non idem numero, sed specie. Unde patet quod ratio inducta secundum Philosophi intentionem non est ad propositum.  
 
@@ -104,7 +104,7 @@ Ad quartum dicendum, quod statua dupliciter considerari potest; vel secundum quo
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in hac quaestione differt considerare quid fieri possit sine identitatis praejudicio, et quid fiet, ut congruentia servetur.***
+Ad tertiam quaestionem dicendum, quod in hac quaestione differt considerare quid fieri possit sine identitatis praejudicio, et quid fiet, ut congruentia servetur.  
 
 Quantum ergo ad primum, sciendum, quod in homine possunt accipi diversae partes totius dupliciter. Uno modo diversae partes homogenei, sicut diversae partes carnis, vel diversae partes ossis; alio modo diversae partes diversarum specierum totius heterogenei. Si ergo dicatur quod pars materiae redibit ad aliam partem speciei ejusdem, hoc non facit nisi varietatem in situ partium: situs autem partium variatus non variat speciem in totis homogeneis; et sic si materia unius partis redeat ad aliam, nullum praejudicium generabitur identitati totius; et ita etiam est in exemplo quod ponitur in littera: quia statua non redit eadem numero secundum formam, sed secundum materiam, secundum quam est substantia quaedam. Sic autem statua est homogenea, quamvis non secundum formam artificialem. Si autem dicatur quod materia unius partis redit ad aliam partem alterius speciei; sic de necessitate variatur non solum situs partium, sed etiam identitas ipsarum; ita tamen si tota materia, aut aliquid quod erat de veritate humanae naturae in una, in aliam transferatur; non autem si aliquod quod erat in una parte superfluum, transferatur in aliam. Ablata autem identitate partium, aufertur identitas totius, si loquimur de partibus essentialibus; non autem si loquimur de partibus accidentalibus, sicut sunt capilli et ungues, de quibus videtur loqui Augustinus. Et sic patet qualiter translatio materiae de parte in partem tollit identitatem totius, et qualiter non.  
 
@@ -122,7 +122,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod non omnia membra corporis humani resurgent. Remoto enim fine, frustra reparatur illud quod est ad finem. Finis autem cujuslibet membri est ejus actus. Cum ergo nihil sit frustra in operibus divinis, et quorumdam membrorum usus post resurrectionem non competat, praecipue genitalium, quia tunc nec nubent nec nubentur; videtur quod non omnia membra resurgent.***
+Ad secundum sic proceditur. Videtur quod non omnia membra corporis humani resurgent. Remoto enim fine, frustra reparatur illud quod est ad finem. Finis autem cujuslibet membri est ejus actus. Cum ergo nihil sit frustra in operibus divinis, et quorumdam membrorum usus post resurrectionem non competat, praecipue genitalium, quia tunc nec nubent nec nubentur; videtur quod non omnia membra resurgent.  
 
 Praeterea, intestina, membra quaedam sunt. Sed non resurgent: plena enim resurgere non possunt, quia immunditias continent: nec vacua, quia nihil est vacuum in natura. Ergo non omnia membra resurgent.  
 
@@ -134,7 +134,7 @@ Praeterea, *Dei perfecta sunt opera*. Sed resurrectio opere divino fiet. Ergo ho
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod capilli et ungues in homine non resurgent. Sicut enim capilli et ungues ex superfluitatibus cibi generantur; ita urina, sudor, et aliae hujusmodi faeces. Sed haec non resurgent cum corpore. Ergo nec capilli et ungues.***
+Ulterius. Videtur quod capilli et ungues in homine non resurgent. Sicut enim capilli et ungues ex superfluitatibus cibi generantur; ita urina, sudor, et aliae hujusmodi faeces. Sed haec non resurgent cum corpore. Ergo nec capilli et ungues.  
 
 Praeterea, inter alias superfluitates quae ex cibo generantur, maxime accedit ad naturae humanae veritatem semen, quod est superfluum quo indigetur. Sed semen non resurget in corpore hominis. Ergo multo minus capilli et ungues resurgent.  
 
@@ -146,7 +146,7 @@ Praeterea, capilli et ungues sunt dati in ornatum homini. Sed corpora hominum, p
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod humores in corpore non resurgent. Quia 1 Corinth. 15, 50, dicitur: *caro et sanguis regnum Dei non possidebunt*. Sed sanguis est principalior humor. Ergo non resurgent in beatis, qui regnum Dei possidebunt, et multo minus in aliis.***
+Ulterius. Videtur quod humores in corpore non resurgent. Quia 1 Corinth. 15, 50, dicitur: *caro et sanguis regnum Dei non possidebunt*. Sed sanguis est principalior humor. Ergo non resurgent in beatis, qui regnum Dei possidebunt, et multo minus in aliis.  
 
 Praeterea, humores sunt ad restaurationem deperditi. Sed post resurrectionem nulla deperditio fiet. Ergo corpus non resurget cum humoribus.  
 
@@ -158,7 +158,7 @@ Praeterea, resurrectio nostra erit conformis resurrectioni Christi. Sed in Chris
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non totum quod fuit in corpore de veritate naturae humanae, resurgat in ipso. Quia cibus convertitur in veritatem humanae naturae. Sed aliquando caro bovis sumitur in cibum. Si ergo resurget quidquid fuit de veritate humanae naturae, resurget etiam caro bovis; quod videtur inconveniens.***
+Ulterius. Videtur quod non totum quod fuit in corpore de veritate naturae humanae, resurgat in ipso. Quia cibus convertitur in veritatem humanae naturae. Sed aliquando caro bovis sumitur in cibum. Si ergo resurget quidquid fuit de veritate humanae naturae, resurget etiam caro bovis; quod videtur inconveniens.  
 
 Praeterea, costa Adae fuit de veritate humanae naturae in ipso, sicut et costa nostra in nobis. Sed costa Adae non resurget in eo, sed in Eva; alias Eva non resurgeret, quae de costa illa formata est. Ergo non resurget in homine quidquid fuit de veritate humanae naturae in ipso.  
 
@@ -174,7 +174,7 @@ Praeterea, si a corpore hominis subtrahatur aliquid quod est de veritate humanae
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod quidquid fuit materialiter in membris hominis, totum resurget. Minus enim videntur pertinere ad resurrectionem capilli quam alia membra. Sed quidquid fuit in capillis, totum resurget, etsi non in capillis, saltem in aliis partibus corporis, ut Augustinus dicit in littera. Ergo multo fortius quidquid fuit in aliis membris materialiter, totum resurget.***
+Ulterius. Videtur quod quidquid fuit materialiter in membris hominis, totum resurget. Minus enim videntur pertinere ad resurrectionem capilli quam alia membra. Sed quidquid fuit in capillis, totum resurget, etsi non in capillis, saltem in aliis partibus corporis, ut Augustinus dicit in littera. Ergo multo fortius quidquid fuit in aliis membris materialiter, totum resurget.  
 
 Praeterea, sicut partes carnis secundum speciem perficiuntur ab anima rationali, ita partes secundum materiam. Sed corpus humanum habet ordinem ad resurrectionem ex hoc quod fuit anima rationali perfectum. Ergo non solum partes secundum speciem, sed omnes partes secundum materiam resurgent.  
 
@@ -186,7 +186,7 @@ Praeterea, quidquid est de veritate humanae naturae in uno homine, totum potest 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut dicitur in 2 *de Anima*, anima habet se ad corpus non solum in habitudine formae et finis, sed etiam in habitudine causae efficientis; est enim comparatio animae ad corpus sicut est comparatio artis ad artificiatum, ut dicit Philosophus. Quidquid autem explicite in artificiato ostenditur, hoc totum implicite et originaliter in ipsa arte continetur; et similiter etiam quidquid in partibus corporis apparet, totum originaliter, et quodammodo implicite, in anima continetur. Sicut ergo artis opus non esset perfectum si artificiato aliquid deesset eorum quae ars continet; ita nec homo posset esse perfectus, nisi totum quod in anima implicite continetur, exterius in corpore explicetur; nec etiam corpus ad plenum proportionaliter responderet animae. Cum ergo oporteat in resurrectione corpus hominis esse animae totaliter correspondens, quia non resurgit nisi secundum ordinem quem habet ad animam rationalem; oporteat etiam hominem perfectum resurgere, utpote quod ad ultimam perfectionem consequendam reparatur; oportet quod omnia membra quae nunc sunt in corpore, in resurrectione hominis reparentur.***
+Respondeo dicendum ad primam quaestionem, quod, sicut dicitur in 2 *de Anima*, anima habet se ad corpus non solum in habitudine formae et finis, sed etiam in habitudine causae efficientis; est enim comparatio animae ad corpus sicut est comparatio artis ad artificiatum, ut dicit Philosophus. Quidquid autem explicite in artificiato ostenditur, hoc totum implicite et originaliter in ipsa arte continetur; et similiter etiam quidquid in partibus corporis apparet, totum originaliter, et quodammodo implicite, in anima continetur. Sicut ergo artis opus non esset perfectum si artificiato aliquid deesset eorum quae ars continet; ita nec homo posset esse perfectus, nisi totum quod in anima implicite continetur, exterius in corpore explicetur; nec etiam corpus ad plenum proportionaliter responderet animae. Cum ergo oporteat in resurrectione corpus hominis esse animae totaliter correspondens, quia non resurgit nisi secundum ordinem quem habet ad animam rationalem; oporteat etiam hominem perfectum resurgere, utpote quod ad ultimam perfectionem consequendam reparatur; oportet quod omnia membra quae nunc sunt in corpore, in resurrectione hominis reparentur.  
 
 Ad primum ergo dicendum, quod membra dupliciter possunt considerari in comparatione ad animam; vel secundum habitudinem materiae ad formam, vel secundum habitudinem instrumenti ad agentem. Eadem est enim comparatio totius corporis ad totam animam, et partium ad partes, ut dicitur in 2 *de Anima*. Si ergo membrum accipiatur secundum primam comparationem, finis ejus non est operatio, sed magis perfectum esse speciei, quod etiam post resurrectionem requiretur. Si autem membrum accipiatur secundum secundam comparationem, sic finis ejus est operatio; nec tamen sequitur quod quando deficit operatio, frustra sit instrumentum; quia instrumentum non solum servit ad exequendam operationem agentis, sed ad ostendendum virtutem ipsius; unde oportebit ut virtus potentiarum animae instrumentis corporis demonstretur, etsi nunquam in actum prodeant, ut ex hoc commendetur Dei sapientia.  
 
@@ -196,7 +196,7 @@ Ad tertium dicendum, quod actus quibus meremur, non sunt, proprie loquendo, manu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod anima habet se ad corpus animatum sicut ars ad artificiatum, et ad partes ejus sicut ars ad sua instrumenta; unde et corpus animatum organicum dicitur. Ars autem utitur instrumentis quibusdam ad operis intenti executionem; et haec instrumenta sunt de prima intentione artis. Utitur etiam aliis instrumentis ad conservationem principalium instrumentorum, et haec sunt de secunda intentione artis; sicut ars militaris utitur gladio ad bellum, et vagina ad gladii conservationem. Ita etiam in partibus corporis animati quaedam ordinantur ad operationes animae exequendas, sicut cor, hepar, manus, et pes; quaedam autem ad conservationem aliarum partium, sicut folia sunt ad cooperimentum fructuum; ita etiam capilli et ungues sunt in homine ad custodiam aliarum partium; unde sunt de secunda perfectione corporis humani, quamvis non de prima. Ergo quia homo resurget in omni perfectione suae naturae, propter hoc oportet quod capilli et ungues resurgant in ipso.***
+Ad secundam quaestionem dicendum, quod anima habet se ad corpus animatum sicut ars ad artificiatum, et ad partes ejus sicut ars ad sua instrumenta; unde et corpus animatum organicum dicitur. Ars autem utitur instrumentis quibusdam ad operis intenti executionem; et haec instrumenta sunt de prima intentione artis. Utitur etiam aliis instrumentis ad conservationem principalium instrumentorum, et haec sunt de secunda intentione artis; sicut ars militaris utitur gladio ad bellum, et vagina ad gladii conservationem. Ita etiam in partibus corporis animati quaedam ordinantur ad operationes animae exequendas, sicut cor, hepar, manus, et pes; quaedam autem ad conservationem aliarum partium, sicut folia sunt ad cooperimentum fructuum; ita etiam capilli et ungues sunt in homine ad custodiam aliarum partium; unde sunt de secunda perfectione corporis humani, quamvis non de prima. Ergo quia homo resurget in omni perfectione suae naturae, propter hoc oportet quod capilli et ungues resurgant in ipso.  
 
 Ad primum ergo dicendum, quod illae superfluitates expelluntur a natura quasi ad nihil utiles, unde non pertinent ad perfectionem corporis humani; secus autem est de aliis superfluitatibus, quas sibi natura retinet ad generationem capillorum et unguium, quibus indiget ad membrorum conservationem.  
 
@@ -206,7 +206,7 @@ Ad tertium dicendum, quod capilli et ungues nutriuntur et augentur; et sic patet
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidquid pertinet ad integritatem humanae naturae in resurgente, hoc totum in eo resurget ratione praedicta; unde oportet quod illa humiditas corporis resurgat in homine quae ad integritatem ejus pertinebat. Est autem in homine triplex humiditas.***
+Ad tertiam quaestionem dicendum, quod quidquid pertinet ad integritatem humanae naturae in resurgente, hoc totum in eo resurget ratione praedicta; unde oportet quod illa humiditas corporis resurgat in homine quae ad integritatem ejus pertinebat. Est autem in homine triplex humiditas.  
 
 Quaedam enim humiditas est in recedendo a perfectione hujus individui, vel quia est in via corruptionis, et a natura abjicitur, sicut urina, sudor, sanies, et hujusmodi; vel quia a natura ordinatur ad conservationem speciei in alio individuo, sive per actum generantem, sicut semen, vel per actum nutrientem sicut lac: et nulla talium humiditatum resurget, eo quod non est de perfectione individui resurgentis.  
 
@@ -222,7 +222,7 @@ Ad tertium dicendum, quod sicut sunt elementa in via generationis respectu corpo
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod unumquodque sicut se habet ad esse, ita ad veritatem, ut in 2 *Metaph*. dicitur; quia illa res vera est quae ita est ut videtur cognitori secundum actum; et propter hoc Avicenna dicit, quod veritas uniuscujusque rei est proprietas sui esse quod stabilitum est ei: et secundum hoc aliquid dicitur esse de veritate humanae naturae, quia proprie pertinet ad esse humanae naturae; et hoc est quod participat formam humanae naturae; sicut verum aurum dicitur quod habet veram formam auri, ex qua est proprium esse auri. Ut ergo videatur quid sit illud quod est de veritate humanae naturae, sciendum, quod circa hoc est triplex opinio.***
+Ad quartam quaestionem dicendum, quod unumquodque sicut se habet ad esse, ita ad veritatem, ut in 2 *Metaph*. dicitur; quia illa res vera est quae ita est ut videtur cognitori secundum actum; et propter hoc Avicenna dicit, quod veritas uniuscujusque rei est proprietas sui esse quod stabilitum est ei: et secundum hoc aliquid dicitur esse de veritate humanae naturae, quia proprie pertinet ad esse humanae naturae; et hoc est quod participat formam humanae naturae; sicut verum aurum dicitur quod habet veram formam auri, ex qua est proprium esse auri. Ut ergo videatur quid sit illud quod est de veritate humanae naturae, sciendum, quod circa hoc est triplex opinio.  
 
 Quidam enim posuerunt, quod nihil de novo esse incipit de veritate humanae naturae; sed quidquid ad veritatem humanae naturae pertinet, totum fuit in ipsa institutione humanae naturae de veritate ejus; et hoc per seipsum multiplicatur ut ex eo possit semen decidi a generante, ex quo filius generetur; in quo etiam illa pars decisa multiplicatur; et ad perfectam quantitatem pervenit per augmentum, et sic deinceps; et ita multiplicatum est totum genus humanum. Unde secundum hanc opinionem, quidquid ex alimento generatur, quamvis videatur speciem carnis aut sanguinis habere, non tamen pertinet ad veritatem humanae naturae.  
 
@@ -254,7 +254,7 @@ Ad quintum dicendum, quod embrya non pertinent ad resurrectionem ante animatione
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod illud quod est materialiter in homine, non habet ordinem ad resurrectionem nisi secundum quod pertinet ad veritatem humanae naturae, quia secundum hoc habet ordinem ad animam rationalem. Illud autem totum quod est in homine materialiter, pertinet quidem ad veritatem humanae naturae quantum ad id quod habet de specie; sed non totum considerata materiae totalitate; quia tota materia quae fuit in homine a principio vitae usque ad finem, excederet quantitatem debitam speciei, ut tertia opinio dicit, quae probabilior inter ceteras mihi videtur; et ideo totum quod est in homine, resurget considerata totalitate speciei, quia attenditur secundum quantitatem, figuram, situm, et ordinem partium; non autem resurget totum considerata totalitate materiae.***
+Ad quintam quaestionem dicendum, quod illud quod est materialiter in homine, non habet ordinem ad resurrectionem nisi secundum quod pertinet ad veritatem humanae naturae, quia secundum hoc habet ordinem ad animam rationalem. Illud autem totum quod est in homine materialiter, pertinet quidem ad veritatem humanae naturae quantum ad id quod habet de specie; sed non totum considerata materiae totalitate; quia tota materia quae fuit in homine a principio vitae usque ad finem, excederet quantitatem debitam speciei, ut tertia opinio dicit, quae probabilior inter ceteras mihi videtur; et ideo totum quod est in homine, resurget considerata totalitate speciei, quia attenditur secundum quantitatem, figuram, situm, et ordinem partium; non autem resurget totum considerata totalitate materiae.  
 
 Secunda autem opinio et prima non utuntur hac distinctione; sed distinguunt inter partes, quarum utraeque habent speciem vel materiam. Conveniunt autem duae hae opiniones in hoc quod utraque dicit, quod illud quod est ex semine generatum, totum resurget, etiam totalitate materiae considerata. Differunt autem in hoc quod de eo quod ex alimento generatur, nihil resurgere ponit prima opinio; secunda vero aliquid ejus resurgere ponit, et non totum, ut ex dictis patet.  
 
@@ -270,7 +270,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non omnes resurgent in eadem aetate, scilicet juvenili. Quia Deus resurgentibus, praecipue beatis, nihil subtrahet quod ad perfectionem hominis pertinet. Sed aetas pertinet ad perfectionem hominis, cum senectus sit venerabilis aetas. Ergo senes non resurgent in aetate juvenili.***
+Ad tertium sic proceditur. Videtur quod non omnes resurgent in eadem aetate, scilicet juvenili. Quia Deus resurgentibus, praecipue beatis, nihil subtrahet quod ad perfectionem hominis pertinet. Sed aetas pertinet ad perfectionem hominis, cum senectus sit venerabilis aetas. Ergo senes non resurgent in aetate juvenili.  
 
 Praeterea, aetas computatur secundum mensuram temporis praeteriti. Sed impossibile est tempus quod fuit praeteritum, non praeterisse. Ergo impossibile est eos qui majoris aetatis fuerunt, ad aetatem juvenilem reduci.  
 
@@ -282,7 +282,7 @@ Praeterea, homo in maxima perfectione naturae resurget. Sed natura humana perfec
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod omnes resurgent ejusdem staturae. Sicut enim homo mensuratur quantitate dimensiva, ita quantitate durationis. Sed quantitas durationis in omnibus reducetur ad eamdem mensuram, quia omnes in eadem aetate resurgent. Ergo quantitas dimensionis in omnibus reducetur ad eamdem mensuram, ut in eadem statura omnes resurgant.***
+Ulterius. Videtur quod omnes resurgent ejusdem staturae. Sicut enim homo mensuratur quantitate dimensiva, ita quantitate durationis. Sed quantitas durationis in omnibus reducetur ad eamdem mensuram, quia omnes in eadem aetate resurgent. Ergo quantitas dimensionis in omnibus reducetur ad eamdem mensuram, ut in eadem statura omnes resurgant.  
 
 Praeterea, Philosophus dicit in 2 *de Anima*, quod *omnium natura constantium terminus est et ratio magnitudinis et augmenti*. Sed ille terminus non est nisi ex virtute formae, cui debet congruere quantitas, sicut et omnia alia accidentia. Ergo cum omnes homines habeant eamdem formam specificam, in omnibus debet esse secundum naturam eadem quantitatis mensura, nisi sit error. Sed error naturae corrigetur in resurrectione. Ergo omnes resurgent in eadem statura.  
 
@@ -294,7 +294,7 @@ Praeterea, natura humana reparabitur per resurrectionem ad gloriam vel ad poenam
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod omnes resurgent in sexu virili. Quia dicitur Ephes. 4, quod occurremus omnes *in virum perfectum*. Ergo non erit ibi nisi sexus virilis.***
+Ulterius. Videtur quod omnes resurgent in sexu virili. Quia dicitur Ephes. 4, quod occurremus omnes *in virum perfectum*. Ergo non erit ibi nisi sexus virilis.  
 
 Praeterea, in futuro omnis cessabit praelatio, ut dicit Glossa 1 Corinth. 15. Sed mulier naturali ordine subdita est viro. Ergo mulieres non resurgent in sexu muliebri, sed virili.  
 
@@ -306,7 +306,7 @@ Praeterea, Deus reparabit in resurrectione quod in homine fecit in prima conditi
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod resurgent in vita animali, ut scilicet utantur actu nutritivae et generativae. Quia resurrectio nostra erit conformis resurrectioni Christi. Sed Christus post resurrectionem legitur comedisse, ut patet Joan. ult. et Luc. ult. Ergo et homines post resurrectionem comedent, et eadem ratione generabunt.***
+Ulterius. Videtur quod resurgent in vita animali, ut scilicet utantur actu nutritivae et generativae. Quia resurrectio nostra erit conformis resurrectioni Christi. Sed Christus post resurrectionem legitur comedisse, ut patet Joan. ult. et Luc. ult. Ergo et homines post resurrectionem comedent, et eadem ratione generabunt.  
 
 Praeterea, distinctio sexuum ad generationem ordinatur; et similiter instrumenta quae deserviunt virtuti nutritivae, ordinantur ad comestionem. Sed homo cum omnibus hujusmodi resurget, ut ex supra dictis patet. Ergo utetur actibus virtutis generativae et nutritivae.  
 
@@ -320,7 +320,7 @@ Praeterea, generatio ordinatur ad subveniendum defectui qui per mortem accidit, 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod homo resurget absque omni defectu humanae naturae; quia sicut Deus humanam naturam absque defectu instituit, ita sine defectu reparabit. Deficit autem humana natura dupliciter. Uno modo, quia nondum perfectionem ultimam est consecuta; alio modo quia ab ultima perfectione jam recessit; et primo modo deficit in pueris, secundo modo deficit in senibus; et ideo in utrisque reducetur humana natura per resurrectionem ad statum ultimae perfectionis, qui est in juvenili aetate, ad quam terminatur motus augmenti, et a qua incipit motus decrementi.***
+Respondeo dicendum ad primam quaestionem, quod homo resurget absque omni defectu humanae naturae; quia sicut Deus humanam naturam absque defectu instituit, ita sine defectu reparabit. Deficit autem humana natura dupliciter. Uno modo, quia nondum perfectionem ultimam est consecuta; alio modo quia ab ultima perfectione jam recessit; et primo modo deficit in pueris, secundo modo deficit in senibus; et ideo in utrisque reducetur humana natura per resurrectionem ad statum ultimae perfectionis, qui est in juvenili aetate, ad quam terminatur motus augmenti, et a qua incipit motus decrementi.  
 
 Ad primum ergo dicendum, quod aetas senectutis habet reverentiam non propter conditionem corporis, quod in defectu est, sed propter sapientiam animae, quae ibi esse praesumitur ex temporis antiquitate; unde in electis manebit reverentia senectutis propter plenitudinem divinae sapientiae, quae in eis erit; sed non manebit senectutis defectus.  
 
@@ -330,7 +330,7 @@ Ad tertium dicendum, quod virtus speciei dicitur esse perfectior in puero quam i
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in resurrectione non reparabitur humana natura solum quantum ad idem specie, sed etiam quantum ad idem numero; et ideo in resurrectione non solum attendendum quid competat naturae speciei, sed quid competat naturae individui. Natura autem speciei habet aliquam quantitatem quam nec excedit nec ab ea deficit absque errore; quae tamen quantitas habet aliquos gradus latitudinis, et non est accipienda secundum unam mensuram determinatam. Unumquodque autem individuum in specie humana assequitur infra terminos illius latitudinis aliquem gradum quantitatis quae competit naturae individui; et ad hanc perducitur in termino augmenti, si non fuit aliquis error in opere naturae, per quem sit aliquid additum vel subtractum praedictae quantitati: cujus quidem mensura accipitur secundum proportionem caloris extendentis et humidi extensibilis, quod non est ejusdem virtutis in omnibus. Et ideo non omnes resurgent in eadem quantitate, sed quilibet resurget in illa quantitate in qua fuisset in termino augmenti, si natura non errasset vel defecisset: quod autem superest vel quod deficit in homine, resecabit vel supplebit divina potentia.***
+Ad secundam quaestionem dicendum, quod in resurrectione non reparabitur humana natura solum quantum ad idem specie, sed etiam quantum ad idem numero; et ideo in resurrectione non solum attendendum quid competat naturae speciei, sed quid competat naturae individui. Natura autem speciei habet aliquam quantitatem quam nec excedit nec ab ea deficit absque errore; quae tamen quantitas habet aliquos gradus latitudinis, et non est accipienda secundum unam mensuram determinatam. Unumquodque autem individuum in specie humana assequitur infra terminos illius latitudinis aliquem gradum quantitatis quae competit naturae individui; et ad hanc perducitur in termino augmenti, si non fuit aliquis error in opere naturae, per quem sit aliquid additum vel subtractum praedictae quantitati: cujus quidem mensura accipitur secundum proportionem caloris extendentis et humidi extensibilis, quod non est ejusdem virtutis in omnibus. Et ideo non omnes resurgent in eadem quantitate, sed quilibet resurget in illa quantitate in qua fuisset in termino augmenti, si natura non errasset vel defecisset: quod autem superest vel quod deficit in homine, resecabit vel supplebit divina potentia.  
 
 Ad primum ergo dicendum, quod jam patet ex dictis quod non dicuntur omnes in eadem aetate resurgere quasi omnibus competat eadem quantitas dimensionis, sed quia idem status perfectionis erit in omnibus: qui quidem status salvari potest in magna et parva quantitate.  
 
@@ -340,7 +340,7 @@ Ad tertium dicendum, quod quantitas resurgentis non proportionatur virtuti repar
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut, considerata natura individui, debetur quantitas diversa diversis hominibus; ita considerata natura individui, debetur diversis diversus sexus; et haec etiam diversitas competit perfectioni speciei, cujus diversi gradus implentur per dictam diversitatem sexus vel quantitatis. Et ideo sicut resurgent homines in diversis staturis, ita in diversis sexibus; et quamvis sit differentia sexuum, deerit tamen confusio mutuae visionis: quia aberit libido incitans ad turpes actus, ex quibus confusio causetur.***
+Ad tertiam quaestionem dicendum, quod sicut, considerata natura individui, debetur quantitas diversa diversis hominibus; ita considerata natura individui, debetur diversis diversus sexus; et haec etiam diversitas competit perfectioni speciei, cujus diversi gradus implentur per dictam diversitatem sexus vel quantitatis. Et ideo sicut resurgent homines in diversis staturis, ita in diversis sexibus; et quamvis sit differentia sexuum, deerit tamen confusio mutuae visionis: quia aberit libido incitans ad turpes actus, ex quibus confusio causetur.  
 
 Ad primum ergo dicendum, quod dicuntur omnes Christo occurrere *in virum perfectum*, non propter sexum virilem, sed propter virtutem animi, quae erit in omnibus, et viris et mulieribus.  
 
@@ -350,7 +350,7 @@ Ad tertium dicendum, quod quamvis feminae generatio sit praeter intentionem natu
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod resurrectio non erit necessaria homini propter primam perfectionem ipsius, quae consistit in integritate eorum quae ad naturam spectant, quia ad hoc homo pervenire potest in statu praesentis vitae per actionem causarum naturalium; sed necessitas resurrectionis est ad consequendam ultimam perfectionem, quae consistit in perventione ad finem ultimum, ut in praecedenti distinct., dictum est; et ideo illae operationes naturales quae ordinantur ad primam perfectionem humanae naturae vel causandam vel servandam, non erunt in resurrectione; et hujusmodi sunt actiones animalis vitae in homine, et actiones naturae in elementis, et motus caeli; et ideo omnia haec cessabunt in resurrectione. Et quia comedere et bibere et dormire et generare ad animalem vitam pertinent, cum sint ad primam perfectionem naturae ordinata; in resurrectione talia non erunt.***
+Ad quartam quaestionem dicendum, quod resurrectio non erit necessaria homini propter primam perfectionem ipsius, quae consistit in integritate eorum quae ad naturam spectant, quia ad hoc homo pervenire potest in statu praesentis vitae per actionem causarum naturalium; sed necessitas resurrectionis est ad consequendam ultimam perfectionem, quae consistit in perventione ad finem ultimum, ut in praecedenti distinct., dictum est; et ideo illae operationes naturales quae ordinantur ad primam perfectionem humanae naturae vel causandam vel servandam, non erunt in resurrectione; et hujusmodi sunt actiones animalis vitae in homine, et actiones naturae in elementis, et motus caeli; et ideo omnia haec cessabunt in resurrectione. Et quia comedere et bibere et dormire et generare ad animalem vitam pertinent, cum sint ad primam perfectionem naturae ordinata; in resurrectione talia non erunt.  
 
 Ad primum ergo dicendum, quod illa comestio qua Christus comedit, non fuit necessitatis, quasi cibis indigeret humana natura post resurrectionem; sed fuit potestatis, ut ostenderet se veram naturam humanam resumpsisse, quam prius habuerat in statu illo, quando cum discipulis comederat, et biberat. Haec autem ostensio non erit necessaria in resurrectione communi, quia omnibus notum erit. Et ideo dicitur dispensative Christus manducasse eo modo loquendi quo juristae dicunt, quod dispensatio est communis juris relaxatio; quia Christus intermisit hoc quod est communiter resurgentium, scilicet non uti cibis, propter causam praedictam; et propter hoc ratio non sequitur.  
 
@@ -377,7 +377,7 @@ primo, de impassibilitate;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod corpora sanctorum post resurrectionem non erunt impassibilia. Omne enim mortale est passibile. Sed homo post resurrectionem erit animal rationale mortale; haec enim est definitio hominis, quae nunquam ab eo separabitur. Ergo corpus erit passibile.***
+Ad primum sic proceditur. Videtur quod corpora sanctorum post resurrectionem non erunt impassibilia. Omne enim mortale est passibile. Sed homo post resurrectionem erit animal rationale mortale; haec enim est definitio hominis, quae nunquam ab eo separabitur. Ergo corpus erit passibile.  
 
 Praeterea, omne quod est in potentia ad formam alterius, est passibile ab illo; quia secundum hoc aliquid est passivum ab alio, ut dicitur in 1 *de Generat*. Sed corpora sanctorum post resurrectionem erunt in potentia ad aliam formam. Ergo erunt passibilia. Probatio mediae. Quaecumque communicant in materia, unum eorum est in potentia ad formam alterius; materia enim secundum quod est sub una forma, non amittit potentiam ad aliam formam. Sed corpora sanctorum post resurrectionem communicabunt cum elementis in materia, quia ex eadem materia reparabuntur ex qua nunc sunt. Ergo erunt in potentia ad aliam formam; et sic erunt passibilia.  
 
@@ -393,7 +393,7 @@ Praeterea, fortius non patitur a debiliori. Sed nullum corpus erit fortius corpo
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod impassibilitas in omnibus erit aequalis. Quia 1 Corinth., 15, dicit Glossa, quod aequaliter omnes habent quod pati non possunt. Sed ex hoc erit eis quod non possint pati, quod habent dotem impassibilitatis. Ergo impassibilitas erit aequalis in omnibus.***
+Ulterius. Videtur quod impassibilitas in omnibus erit aequalis. Quia 1 Corinth., 15, dicit Glossa, quod aequaliter omnes habent quod pati non possunt. Sed ex hoc erit eis quod non possint pati, quod habent dotem impassibilitatis. Ergo impassibilitas erit aequalis in omnibus.  
 
 Praeterea, negationes non recipiunt magis et minus. Sed impassibilitas est quaedam negatio vel privatio passibilitatis. Ergo non potest esse major in uno quam in alio.  
 
@@ -405,7 +405,7 @@ Praeterea, impassibilitas dividitur contra dotem claritatis. Sed illa non erit a
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod impassibilitas sensum in actu a corporibus gloriosis excludat. Quia, sicut dicit Philosophus in 2 *de Anima*, sentire quoddam pati est. Corpora autem gloriosa erunt impassibilia. Ergo non sentient in actu.***
+Ulterius. Videtur quod impassibilitas sensum in actu a corporibus gloriosis excludat. Quia, sicut dicit Philosophus in 2 *de Anima*, sentire quoddam pati est. Corpora autem gloriosa erunt impassibilia. Ergo non sentient in actu.  
 
 Praeterea, immutatio naturalis praecedit immutationem animalem, sicut esse naturale praecedit esse intentionale. Sed corpora gloriosa ratione impassibilitatis non immutabuntur immutatione naturali. Ergo nec immutatione animali, quae requiritur ad sentiendum.  
 
@@ -419,7 +419,7 @@ Praeterea, secundum Philosophum in 1 *de Anima*, animatum ab inanimato distingui
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non sint ibi omnes sensus in actu. Tactus enim est primus inter alios sensus, ut dicitur in Lib. *de Anima*. Sed corpora gloriosa carebunt actu sensus tactus; quia sensus tactus fit in actu per immutationem corporis animalis ab aliquo exteriori corpore praedominante in aliqua qualitatum activarum vel passivarum, quarum est tactus discretivus; qualis immutatio tunc esse non poterit. Ergo non erit ibi omnis sensus in actu.***
+Ulterius. Videtur quod non sint ibi omnes sensus in actu. Tactus enim est primus inter alios sensus, ut dicitur in Lib. *de Anima*. Sed corpora gloriosa carebunt actu sensus tactus; quia sensus tactus fit in actu per immutationem corporis animalis ab aliquo exteriori corpore praedominante in aliqua qualitatum activarum vel passivarum, quarum est tactus discretivus; qualis immutatio tunc esse non poterit. Ergo non erit ibi omnis sensus in actu.  
 
 Praeterea, sensus gustus deservit actui virtutis nutritivae. Sed, sicut supra, quaest. praec., art. 3, quaestiunc. 5, in corp., dictum est, post resurrectionem hujusmodi actus non erit. Ergo frustra esset ibi gustus.  
 
@@ -437,7 +437,7 @@ Praeterea, vicinius se habent ad animam potentiae sensitivae quam corpus. Sed co
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod passio dupliciter dicitur. Uno modo communiter: et sic omnis receptio passio dicitur; sive illud quod recipitur, sit conveniens recipienti et perfectivum ipsius, sive contrarium et corruptivum; et ab hujusmodi passionis remotione corpora gloriosa impassibilia non dicuntur, cum nihil quod est perfectionis, eis sit auferendum. Alio modo dicitur proprie, quam sic definit Damascenus in 2 Lib.: *passio est motus praeter naturam*; unde immoderatus motus cordis passio ejus dicitur; sed moderatus dicitur ejus operatio; cujus ratio est, quia omne quod patitur, trahitur ad terminos agentis, quia agens assimilat sibi patiens; et ideo patiens, inquantum hujusmodi, trahitur extra terminos proprios in quibus erat. Sic ergo proprie accipiendo passionem, non erit in corporibus sanctorum resurgentium potentialitas ad passionem; et ideo impassibilia dicuntur. Hujus autem impassibilitatis ratio a diversis diversimode assignatur.***
+Respondeo dicendum ad primam quaestionem, quod passio dupliciter dicitur. Uno modo communiter: et sic omnis receptio passio dicitur; sive illud quod recipitur, sit conveniens recipienti et perfectivum ipsius, sive contrarium et corruptivum; et ab hujusmodi passionis remotione corpora gloriosa impassibilia non dicuntur, cum nihil quod est perfectionis, eis sit auferendum. Alio modo dicitur proprie, quam sic definit Damascenus in 2 Lib.: *passio est motus praeter naturam*; unde immoderatus motus cordis passio ejus dicitur; sed moderatus dicitur ejus operatio; cujus ratio est, quia omne quod patitur, trahitur ad terminos agentis, quia agens assimilat sibi patiens; et ideo patiens, inquantum hujusmodi, trahitur extra terminos proprios in quibus erat. Sic ergo proprie accipiendo passionem, non erit in corporibus sanctorum resurgentium potentialitas ad passionem; et ideo impassibilia dicuntur. Hujus autem impassibilitatis ratio a diversis diversimode assignatur.  
 
 Quidam enim attribuunt eam conditioni elementorum, quae aliter se habebunt tunc in corpore quam modo se habent. Dicunt enim quod elementa remanebunt ibi secundum substantiam, sed qualitates activae et passivae ab elementis auferentur. Sed hoc non videtur verum; quia qualitates activae et passivae sunt de perfectione elementorum; unde si sine eis repararentur, elementa in corpore resurgentis essent minoris perfectionis quam modo sunt. Et praeterea, cum qualitates illae sint propria accidentia elementorum, ex forma et materia ipsorum causata, videtur valde absurdum quod, causa manente, effectus tollatur.  
 
@@ -459,7 +459,7 @@ Ad quintum dicendum, quod cicatrices vulnerum non erunt in sanctis, nec in Chris
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod impassibilitas potest dupliciter considerari: vel secundum se, vel secundum causam suam. Si secundum se consideretur, quia solam privationem vel negationem importat, non suscipit magis et minus, sed erit aequalis in omnibus beatis. Si autem consideretur secundum causam suam, sic erit major in uno quam in alio. Causa autem ejus est dominium animae super corpus; quod quidem dominium causatur ex hoc quod servitur Deo immobiliter; unde in illo qui perfectius fruitur, est major impassibilitatis causa.***
+Ad secundam quaestionem dicendum, quod impassibilitas potest dupliciter considerari: vel secundum se, vel secundum causam suam. Si secundum se consideretur, quia solam privationem vel negationem importat, non suscipit magis et minus, sed erit aequalis in omnibus beatis. Si autem consideretur secundum causam suam, sic erit major in uno quam in alio. Causa autem ejus est dominium animae super corpus; quod quidem dominium causatur ex hoc quod servitur Deo immobiliter; unde in illo qui perfectius fruitur, est major impassibilitatis causa.  
 
 Ad primum ergo dicendum, quod Glossa illa loquitur de impassibilitate secundum se, et non secundum causam suam.  
 
@@ -469,7 +469,7 @@ Ad tertium dicendum, quod aliqua non solum intenduntur per recessum a contrario,
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod aliquem sensum esse in corporibus beatorum, omnes ponunt: alias vita corporalis sanctorum post resurrectionem assimilaretur magis somno quam vigiliae: quod non competit illi perfectioni, eo quod in somno corpus sensibile non est in ultimo actu vitae, propter quod somnus dicitur vitae dimidium in 1 *Ethic*. Sed in modo sentiendi diversi diversa opinantur.***
+Ad tertiam quaestionem dicendum, quod aliquem sensum esse in corporibus beatorum, omnes ponunt: alias vita corporalis sanctorum post resurrectionem assimilaretur magis somno quam vigiliae: quod non competit illi perfectioni, eo quod in somno corpus sensibile non est in ultimo actu vitae, propter quod somnus dicitur vitae dimidium in 1 *Ethic*. Sed in modo sentiendi diversi diversa opinantur.  
 
 Quidam enim dicunt, quod quia gloriosa corpora erunt impassibilia, et propter hoc non receptibilia peregrinae impressionis, et multo minus quam corpora caelestia; non erit ibi sensus in actu per receptionem alicujus speciei a sensibilibus, sed magis extra mittendo. Sed hoc non potest esse: quia in resurrectione natura speciei manebit eadem in homine et in omnibus partibus ejus. Hujusmodi autem est natura sensus, ut sit potentia passiva, ut in 2 *de Anima* probat Philosophus; unde si in resurrectione sancti sentirent extra mittendo, et non recipiendo, non esset sensus in eis virtus passiva; et sic non esset ejusdem speciei cum sensu qui nunc est, sed esset aliqua alia virtus eis data: sicut enim materia nunquam fit forma, ita potentia passiva nunquam fit activa.  
 
@@ -511,7 +511,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod subtilitas non sit proprietas corporis glorificati. Proprietas enim gloriae excedit proprietatem naturae, sicut claritas gloriae claritatem solis, quae est maxima in natura. Si ergo subtilitas est proprietas corporis gloriosi, videtur quod corpus gloriosum futurum sit subtilius omni quod est subtile in natura; et ita erit ventis aereque subtilius; quod est haeresis a Gregorio in Constantinopolitana urbe damnata, ut ipse narrat in 14 Lib. Moralium.***
+Ad secundum sic proceditur. Videtur quod subtilitas non sit proprietas corporis glorificati. Proprietas enim gloriae excedit proprietatem naturae, sicut claritas gloriae claritatem solis, quae est maxima in natura. Si ergo subtilitas est proprietas corporis gloriosi, videtur quod corpus gloriosum futurum sit subtilius omni quod est subtile in natura; et ita erit ventis aereque subtilius; quod est haeresis a Gregorio in Constantinopolitana urbe damnata, ut ipse narrat in 14 Lib. Moralium.  
 
 Praeterea, sicut caliditas et frigiditas sunt quaedam qualitates simplicium corporum, scilicet elementorum; ita et subtilitas. Sed calor et aliae qualitates elementorum non intenduntur in corporibus gloriosis magis quam nunc, immo magis ad medium reducentur. Ergo nec subtilitas in eis erit major quam nunc sit.  
 
@@ -523,7 +523,7 @@ Praeterea, corpora quanto sunt subtiliora, tanto nobiliora. Sed corpora gloriosa
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ratione hujus subtilitatis competat corpori quod sit simul in eodem loco cum alio corpore non glorioso. Quia, ut dicitur Philippen. 3, 21, *reformabit corpus humilitatis nostrae configuratum corpori claritatis suae secundum operationem virtutis suae, qua etiam possit subjicere sibi omnia*. Sed corpus Christi potuit simul esse cum alio corpore in eodem loco; ut patet per hoc quod intravit post resurrectionem ad discipulos januis clausis, ut dicitur Joan. 20. Ergo et corpora gloriosa ratione subtilitatis poterunt esse cum aliis corporibus non gloriosis in eodem loco.***
+Ulterius. Videtur quod ratione hujus subtilitatis competat corpori quod sit simul in eodem loco cum alio corpore non glorioso. Quia, ut dicitur Philippen. 3, 21, *reformabit corpus humilitatis nostrae configuratum corpori claritatis suae secundum operationem virtutis suae, qua etiam possit subjicere sibi omnia*. Sed corpus Christi potuit simul esse cum alio corpore in eodem loco; ut patet per hoc quod intravit post resurrectionem ad discipulos januis clausis, ut dicitur Joan. 20. Ergo et corpora gloriosa ratione subtilitatis poterunt esse cum aliis corporibus non gloriosis in eodem loco.  
 
 Praeterea, corpora gloriosa erunt nobiliora omnibus aliis corporibus. Sed quaedam corpora nunc ratione suae nobilitatis possunt simul esse cum aliis corporibus, scilicet radii solares. Ergo multo fortius hoc conveniet corporibus gloriosis.  
 
@@ -539,7 +539,7 @@ Praeterea, corpora gloriosa majorem convenientiam habebunt cum loco quam spiritu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nec etiam per miraculum fieri possit quod duo corpora sint in eodem loco. Non enim potest fieri per miraculum quod duo corpora sint simul duo et unum: quia hoc esset facere contradictoria esse simul. Sed si ponantur duo corpora esse simul, sequeretur illa duo corpora esse unum. Ergo non est possibile hoc per miraculum fieri.***
+Ulterius. Videtur quod nec etiam per miraculum fieri possit quod duo corpora sint in eodem loco. Non enim potest fieri per miraculum quod duo corpora sint simul duo et unum: quia hoc esset facere contradictoria esse simul. Sed si ponantur duo corpora esse simul, sequeretur illa duo corpora esse unum. Ergo non est possibile hoc per miraculum fieri.  
 
 Probatio mediae. Sint duo corpora in eodem loco, quorum unum dicatur a, et aliud b. Aut ergo dimensiones a erunt eaedem cum dimensionibus loci, aut aliae. Si aliae, ergo erunt aliquae dimensiones separatae; quod non potest poni, quia dimensiones quae sunt inter terminos loci, non sunt in aliquo subjecto, nisi sint in corpore locato. Si autem sunt eaedem, ergo eadem ratione dimensiones b erunt eaedem cum dimensionibus loci. Sed quaecumque uni et eidem sunt eadem, sibi invicem sunt eadem. Ergo dimensiones a et b sunt eaedem. Sed duorum corporum non possunt esse eaedem dimensiones, sicut nec eadem albedo. Ergo a et b sunt unum corpus; et erant duo: ergo sunt simul unum et duo.  
 
@@ -559,7 +559,7 @@ Praeterea, hoc idem potest ostendi per hoc quod Dominus ad discipulos intravit j
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod corpus gloriosum possit esse cum alio glorioso in eodem loco. Quia ubi est major subtilitas, ibi est minor resistentia. Si ergo corpus gloriosum est subtilius quam non gloriosum, minus resistet corpori glorioso; et ita, si corpus gloriosum poterit esse cum non glorioso corpore in eodem loco, multo fortius cum corpore glorioso.***
+Ulterius. Videtur quod corpus gloriosum possit esse cum alio glorioso in eodem loco. Quia ubi est major subtilitas, ibi est minor resistentia. Si ergo corpus gloriosum est subtilius quam non gloriosum, minus resistet corpori glorioso; et ita, si corpus gloriosum poterit esse cum non glorioso corpore in eodem loco, multo fortius cum corpore glorioso.  
 
 Praeterea, sicut corpus gloriosum est subtilius non glorioso, ita unum gloriosum erit subtilius alio. Si ergo corpus gloriosum poterit esse simul cum non glorioso; et corpus gloriosum magis subtile poterit esse cum glorioso minus subtili.  
 
@@ -571,7 +571,7 @@ Praeterea, duorum corporum simul existentium unum ab alio penetratur. Sed penetr
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod ex sua subtilitate removeatur a corpore glorificato necessitas existendi in aequali loco. Corpora enim gloriosa erunt conformia corpori Christi, ut patet Philippen. 3. Sed corpus Christi non coarctatur hac necessitate ut sit in loco aequali; unde continetur totum sub parvis vel magnis dimensionibus hostiae consecratae. Ergo et hoc idem erit in corporibus gloriosis.***
+Ulterius. Videtur quod ex sua subtilitate removeatur a corpore glorificato necessitas existendi in aequali loco. Corpora enim gloriosa erunt conformia corpori Christi, ut patet Philippen. 3. Sed corpus Christi non coarctatur hac necessitate ut sit in loco aequali; unde continetur totum sub parvis vel magnis dimensionibus hostiae consecratae. Ergo et hoc idem erit in corporibus gloriosis.  
 
 Praeterea, Philosophus probat in 4 *Physic*., quod si duo corpora sunt in eodem loco, sequitur quod maximum corpus obtineat minimum locum, quia diversae partes ejus poterunt esse in eadem parte loci: non enim differt utrum duo corpora vel quotcumque sint in eodem loco. Sed corpus gloriosum erit simul in eodem loco cum alio corpore, ut dicitur communiter. Ergo poterit esse in quovis parvo loco.  
 
@@ -583,7 +583,7 @@ Praeterea, eaedem sunt dimensiones loci et locati, ut probatur in 4 Physic. Si e
 
 Quaestiuncula 6  
 
-***Ulterius. Videtur quod corpus gloriosum ratione suae subtilitatis sit impalpabile. Gregorius enim dicit in homilia in octava Paschae: *corrumpi necesse est quod palpatur*. Sed corpus gloriosum erit incorruptibile. Ergo erit impalpabile.***
+Ulterius. Videtur quod corpus gloriosum ratione suae subtilitatis sit impalpabile. Gregorius enim dicit in homilia in octava Paschae: *corrumpi necesse est quod palpatur*. Sed corpus gloriosum erit incorruptibile. Ergo erit impalpabile.  
 
 Praeterea, omne quod palpatur, resistit palpanti. Sed quod potest esse simul cum aliquo non resistit ei. Cum ergo corpus gloriosum possit esse simul cum aliquo corpore, non erit palpabile.  
 
@@ -595,7 +595,7 @@ Praeterea, haec est haeresis Eutychii Constantinopolitanorum episcopi, ut Gregor
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod nomen subtilitatis a virtute penetrandi est assumptum; unde dicitur 2 *de Generat*., quod *subtile est quod est completivum partibus, et partium partibus*: quia propter naturam humidi, quod male terminatur termino proprio, bene autem alieno, sequitur suum tangens, et fluit undique ad suum capiens, et sua subtilitate quamlibet ejus partem minimam subintrat. Quod autem aliquod corpus sit penetrativum, contingit ex duobus. Primo ex quantitatis parvitate, praecipue secundum profunditatem et latitudinem, non autem secundum longitudinem: quia penetratio fit in profundum; unde longitudo penetrationi non obstat. Secundo ex paucitate materiae; unde rara subtilia dicimus. Et quia in corporibus raris forma praedominatur materiae magis, ideo translatum est nomen subtilitatis ad illa corpora quae optime substant formae, et perficiuntur ab ea completissimo modo; sicut dicimus subtilitatem esse in sole et luna, et aliis hujusmodi; sicut etiam aurum vel aliquid hujusmodi potest dici subtile, quando perfectissime completur in esse et virtute suae speciei. Et quia res incorporeae quantitate carent et materia, nomen subtilitatis ad eas transfertur non solum ratione suae substantiae, sed etiam ratione suae virtutis. Sicut enim subtile dicitur penetrativum quia pertingit usque ad intima rei; ita etiam dicitur aliquis intellectus subtilis, quia pertingit ad inspicienda intrinseca principia et proprietates naturales rei latentes; et similiter dicitur aliquis habere visum subtilem, quia aliquod minimum potest visus pertingere, et similiter est de aliis sensibus; et secundum hoc etiam diversi diversimode subtilitatem corporibus gloriosis attribuerunt.***
+Respondeo dicendum ad primam quaestionem, quod nomen subtilitatis a virtute penetrandi est assumptum; unde dicitur 2 *de Generat*., quod *subtile est quod est completivum partibus, et partium partibus*: quia propter naturam humidi, quod male terminatur termino proprio, bene autem alieno, sequitur suum tangens, et fluit undique ad suum capiens, et sua subtilitate quamlibet ejus partem minimam subintrat. Quod autem aliquod corpus sit penetrativum, contingit ex duobus. Primo ex quantitatis parvitate, praecipue secundum profunditatem et latitudinem, non autem secundum longitudinem: quia penetratio fit in profundum; unde longitudo penetrationi non obstat. Secundo ex paucitate materiae; unde rara subtilia dicimus. Et quia in corporibus raris forma praedominatur materiae magis, ideo translatum est nomen subtilitatis ad illa corpora quae optime substant formae, et perficiuntur ab ea completissimo modo; sicut dicimus subtilitatem esse in sole et luna, et aliis hujusmodi; sicut etiam aurum vel aliquid hujusmodi potest dici subtile, quando perfectissime completur in esse et virtute suae speciei. Et quia res incorporeae quantitate carent et materia, nomen subtilitatis ad eas transfertur non solum ratione suae substantiae, sed etiam ratione suae virtutis. Sicut enim subtile dicitur penetrativum quia pertingit usque ad intima rei; ita etiam dicitur aliquis intellectus subtilis, quia pertingit ad inspicienda intrinseca principia et proprietates naturales rei latentes; et similiter dicitur aliquis habere visum subtilem, quia aliquod minimum potest visus pertingere, et similiter est de aliis sensibus; et secundum hoc etiam diversi diversimode subtilitatem corporibus gloriosis attribuerunt.  
 
 Quidam enim haeretici, ut Augustinus narrat, attribuerunt ei subtilitatem secundum modum quo spirituales substantiae subtiles dicuntur, dicentes, quod in resurrectione corpus vertetur in spiritum; et ratione hujus, corpora resurgentia apostolus spiritualia nominat 1 Corinth. 15. Sed hoc non potest stare. Primo, quia corpus in spiritum transire non potest, cum non communicent in materia; quod etiam Boetius ostendit in libro *de Duabus naturis*. Secundo, quia si esset hoc possibile, corpore in spiritum converso, non resurgeret homo, qui ex anima et corpore constat. Tertio, quia si apostolus sic intelligeret, sicut nominat corpora spiritualia, pari ratione nominaret corpora animalia, quae in animam sunt conversa: quod patet esse falsum.  
 
@@ -609,7 +609,7 @@ Et per hoc patet solutio ad objecta, quae procedunt de subtilitate quae est per 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod non potest dici quod corpus gloriosum ratione subtilitatis suae habeat quod possit esse cum alio corpore in eodem loco, nisi per subtilitatem auferatur ab eo illud per quod prohibetur nunc esse simul cum alio corpore in eodem loco.***
+Ad secundam quaestionem dicendum, quod non potest dici quod corpus gloriosum ratione subtilitatis suae habeat quod possit esse cum alio corpore in eodem loco, nisi per subtilitatem auferatur ab eo illud per quod prohibetur nunc esse simul cum alio corpore in eodem loco.  
 
 Dicunt autem quidam, quod prohibetur ad hoc in suo statu ratione corpulentiae, per quam habet quod repleat locum; quae quidem corpulentia ab eo per subtilitatis dotem tolletur. Sed hoc non potest stare propter duo.  
 
@@ -633,7 +633,7 @@ Ad quintum dicendum, quod sicut dicitur in 2 Physic., puncto non convenit esse l
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut ex dictis patet, propter hoc necesse est duo corpora in duobus locis esse, quia diversitas materiae requirit distinctionem in situ; et ideo videmus quod quando conveniunt duo corpora in unum, destruitur esse distinctum utriusque, et acquiritur utrique simul unum esse indistinctum, ut patet in mixtionibus. Non potest ergo esse quod corpora duo remaneant duo, et tamen sint simul, nisi utrique conservetur esse distinctum, quod prius habebat, secundum quod utrumque erat ens indivisum in se, et divisum ab aliis. Hoc autem esse distinctum dependet a principiis rei essentialibus sicut a causis proximis, sed a Deo sicut a causa prima; sicut supra, dist. 12, quaest. 1, art. 1, quaestiunc. 3, ad 3, dictum est, quod esse accidentis dependet a subjecto sicut a causa proxima, sed a Deo sicut a causa prima. Et quia causa prima potest conservare rem in esse cessantibus causis secundis, ut patet per primam propositionem libri *de Causis*; ideo divina virtute, et ea sola, fieri potest ut accidens sit sine subjecto, ut patet in sacramento altaris; et similiter divina virtute fieri potest, et ea sola, quod corpori remaneat esse distinctum ab alio corpore, quamvis ejus materia non sit distincta in situ ab alterius corporis materia; et sic miraculose fieri potest quod duo corpora sint in eodem loco.***
+Ad tertiam quaestionem dicendum, quod, sicut ex dictis patet, propter hoc necesse est duo corpora in duobus locis esse, quia diversitas materiae requirit distinctionem in situ; et ideo videmus quod quando conveniunt duo corpora in unum, destruitur esse distinctum utriusque, et acquiritur utrique simul unum esse indistinctum, ut patet in mixtionibus. Non potest ergo esse quod corpora duo remaneant duo, et tamen sint simul, nisi utrique conservetur esse distinctum, quod prius habebat, secundum quod utrumque erat ens indivisum in se, et divisum ab aliis. Hoc autem esse distinctum dependet a principiis rei essentialibus sicut a causis proximis, sed a Deo sicut a causa prima; sicut supra, dist. 12, quaest. 1, art. 1, quaestiunc. 3, ad 3, dictum est, quod esse accidentis dependet a subjecto sicut a causa proxima, sed a Deo sicut a causa prima. Et quia causa prima potest conservare rem in esse cessantibus causis secundis, ut patet per primam propositionem libri *de Causis*; ideo divina virtute, et ea sola, fieri potest ut accidens sit sine subjecto, ut patet in sacramento altaris; et similiter divina virtute fieri potest, et ea sola, quod corpori remaneat esse distinctum ab alio corpore, quamvis ejus materia non sit distincta in situ ab alterius corporis materia; et sic miraculose fieri potest quod duo corpora sint in eodem loco.  
 
 Ad primum ergo dicendum, quod ratio illa est sophistica, quia procedit ex suppositione falsi, vel petit principium. Procedit enim ratio illa ac si inter duas superficies oppositas loci alicujus esset aliqua dimensio propria loco, cui oporteret quod uniretur dimensio corporis locati advenientis; sic enim sequeretur quod dimensiones duorum corporum locatorum fierent una dimensio, si utraque unum fieret cum dimensione loci. Haec autem suppositio falsa est; quia secundum hoc, quandocumque corpus acquireret novum locum, oporteret aliquam immutationem fieri in dimensionibus loci vel locati. Non enim potest esse quod aliqua duo fiant de novo unum, nisi altero eorum immutato. Si autem, ut se rei veritas habet, loco non debentur aliae dimensiones quam dimensiones locati, patet quod ratio nihil probat, sed petit principium; quia secundum hoc nihil est aliud dictum quod dimensiones locati fiunt eaedem cum dimensionibus loci, nisi quod dimensiones locati continentur infra terminos loci, et secundum eorum mensuram distant termini loci, sicut distarent propriis dimensionibus, si eas haberent; et sic dimensiones duorum corporum esse dimensiones unius loci, nihil est aliud quam duo corpora esse in eodem loco; quod est principale propositum.  
 
@@ -647,7 +647,7 @@ Ad quartum dicendum, quod unum corpus esse simul localiter in duobus locis non p
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod corpus gloriosum ratione suae proprietatis non habet quod possit esse cum alio corpore glorioso in eodem loco, sicut nec ut sit simul cum corpore non glorioso. Divina autem virtute fieri posset ut duo corpora gloriosa essent simul, vel duo non gloriosa, sicut gloriosum et non gloriosum. Sed tamen non est conveniens quod corpus gloriosum sit simul cum alio corpore glorioso; tum quia in eis servabitur debitus ordo, qui distinctionem requirit; tum quia unum corpus gloriosum non se apponet alteri. Et sic nunquam duo corpora erunt simul.***
+Ad quartam quaestionem dicendum, quod corpus gloriosum ratione suae proprietatis non habet quod possit esse cum alio corpore glorioso in eodem loco, sicut nec ut sit simul cum corpore non glorioso. Divina autem virtute fieri posset ut duo corpora gloriosa essent simul, vel duo non gloriosa, sicut gloriosum et non gloriosum. Sed tamen non est conveniens quod corpus gloriosum sit simul cum alio corpore glorioso; tum quia in eis servabitur debitus ordo, qui distinctionem requirit; tum quia unum corpus gloriosum non se apponet alteri. Et sic nunquam duo corpora erunt simul.  
 
 Ad primum ergo dicendum, quod ratio illa procedit, ac si corpori glorioso inesset ratione suae subtilitatis quod posset esse simul in eodem loco cum alio corpore; quod falsum est.  
 
@@ -657,7 +657,7 @@ Ad tertium dicendum, quod corpus caeli et alia corpora aequivoce dicentur glorio
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod corpus non comparatur ad locum nisi mediantibus dimensionibus propriis, secundum quas corpus locatum circumscribitur ex contactu corporis locantis; unde quod corpus aliquod sit in minori loco quam sit sua quantitas, hoc non potest esse nisi per hoc quod quantitas corporis propria efficitur aliquo modo minor seipsa; quod quidem non potest intelligi nisi dupliciter.***
+Ad quintam quaestionem dicendum, quod corpus non comparatur ad locum nisi mediantibus dimensionibus propriis, secundum quas corpus locatum circumscribitur ex contactu corporis locantis; unde quod corpus aliquod sit in minori loco quam sit sua quantitas, hoc non potest esse nisi per hoc quod quantitas corporis propria efficitur aliquo modo minor seipsa; quod quidem non potest intelligi nisi dupliciter.  
 
 Uno modo ex variatione quantitatis circa eamdem materiam: ut scilicet materia quae primo subest magnae quantitati, postea subsit parvae; et hoc quidam posuerunt in corporibus gloriosis, dicentes, quod quantitas eorum subest eis ad nutum; ita quod cum voluerint, possunt habere magnam quantitatem, et cum voluerint, parvam. Sed hoc non potest esse; quia nullus motus qui fit secundum aliquid intrinsecum rei, potest esse sine passione abjiciente a substantia; et ideo in corporibus incorruptibilibus, scilicet caelestibus, est solus motus localis, qui non est secundum aliquid intrinsecum. Unde patet quod mutatio quantitatis circa materiam repugnaret impassibilitati corporis gloriosi, et incorruptibilitati. Et praeterea sequeretur, quod corpus gloriosum quandoque esset rarius, et quandoque spissius: quia cum nihil dividi possit ab eo de materia sua, quandoque eadem materia esset sub parvis dimensionibus, et quandoque sub magnis; et ita rarefieret et densaretur; quod non potest esse.  
 
@@ -671,7 +671,7 @@ Ad tertium dicendum, quod corpus videtur ex hoc quod agit in visum. Quod autem a
 
 Quaestiuncula 6  
 
-***Ad sextam quaestionem dicendum, quod omne corpus palpabile est tangibile, sed non convertitur. Omne enim corpus est tangibile quod habet qualitates quibus natus est immutari sensus tactus; unde aer et ignis, et omnia hujusmodi, sunt corpora tangibilia. Sed palpabile ulterius addit quod resistat tangenti; unde aer, qui nequaquam resistit transeunti per eum, sed est facillimae divisionis, tangibilis quidem est, sed non palpabilis. Sic ergo patet quod palpabile dicitur aliquod corpus ex duobus; scilicet ex qualitatibus tangibilibus, et ex hoc quod resistit tangenti, ut non pertranseatur; quia qualitates tangibiles sunt calidum et frigidum, et hujusmodi; quae non inveniuntur nisi in corporibus gravibus et levibus, quae habent contrarietatem ad invicem, ac per hoc sunt corruptibilia. Ideo corpora caelestia, quae sunt secundum naturam incorruptibilia, sunt sensibilia quidem visu, sed non tangibilia, et sic etiam nec palpabilia; et hoc est quod Gregorius dicit, quod corrumpi necesse est omne quod palpatur.***
+Ad sextam quaestionem dicendum, quod omne corpus palpabile est tangibile, sed non convertitur. Omne enim corpus est tangibile quod habet qualitates quibus natus est immutari sensus tactus; unde aer et ignis, et omnia hujusmodi, sunt corpora tangibilia. Sed palpabile ulterius addit quod resistat tangenti; unde aer, qui nequaquam resistit transeunti per eum, sed est facillimae divisionis, tangibilis quidem est, sed non palpabilis. Sic ergo patet quod palpabile dicitur aliquod corpus ex duobus; scilicet ex qualitatibus tangibilibus, et ex hoc quod resistit tangenti, ut non pertranseatur; quia qualitates tangibiles sunt calidum et frigidum, et hujusmodi; quae non inveniuntur nisi in corporibus gravibus et levibus, quae habent contrarietatem ad invicem, ac per hoc sunt corruptibilia. Ideo corpora caelestia, quae sunt secundum naturam incorruptibilia, sunt sensibilia quidem visu, sed non tangibilia, et sic etiam nec palpabilia; et hoc est quod Gregorius dicit, quod corrumpi necesse est omne quod palpatur.  
 
 Corpus ergo gloriosum habet ex natura sua qualitates quae sunt natae immutare tactum; sed tamen quia corpus est omnino subjectum spiritui, in potestate ejus est ut secundum eas immutet tactum vel non immutet. Similiter etiam secundum naturam subjecti competit ut resistat cuilibet alteri corpori transeunti, ita quod non possit esse cum eo simul in eodem loco; sed miraculose hoc potest divina virtute contingere ad nutum ipsius, quod sit cum alio corpore in eodem loco, et sic non resistet ei transeunti. Unde secundum naturam suam palpabile est corpus gloriosum; sed ex virtute supernaturali hoc ei competit ut cum non vult, non palpetur a corpore non glorioso; et ideo Gregorius dicit, quod Dominus palpandam carnem praebuit, quam januis clausis introduxit; ut profecto ostenderet post resurrectionem corpus suum esse et ejusdem naturae, et alterius gloriae.  
 
@@ -687,7 +687,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod corpora gloriosa non sint futura agilia. Illud enim quod de se est agile ad motum, non indiget aliquo deferente. Sed corpora glorificata deferuntur post resurrectionem in nubibus obviam Christo in aere ab angelis, ut dicit Glossa 1 ad Thess., 4. Ergo corpora gloriosa non erunt agilia.***
+Ad tertium sic proceditur. Videtur quod corpora gloriosa non sint futura agilia. Illud enim quod de se est agile ad motum, non indiget aliquo deferente. Sed corpora glorificata deferuntur post resurrectionem in nubibus obviam Christo in aere ab angelis, ut dicit Glossa 1 ad Thess., 4. Ergo corpora gloriosa non erunt agilia.  
 
 Praeterea, nullum corpus quod movetur cum labore et poena, potest dici agile. Sed corpora gloriosa hoc modo movebuntur, cum motor eorum, scilicet anima, moveat in contrarium naturae eorum; alias moverentur semper in unam partem. Ergo non erunt agilia.  
 
@@ -701,7 +701,7 @@ Praeterea, tarditas maxime videtur spiritualitati repugnare. Sed corpora glorios
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod agilitate sua nunquam utentur, ita quod moveantur. Quia secundum Philosophum, motus est actus imperfecti. Sed in illis corporibus nulla erit imperfectio. Ergo nec aliquis motus.***
+Ulterius. Videtur quod agilitate sua nunquam utentur, ita quod moveantur. Quia secundum Philosophum, motus est actus imperfecti. Sed in illis corporibus nulla erit imperfectio. Ergo nec aliquis motus.  
 
 Praeterea, omnis motus est propter indigentiam; quia omne quod movetur, movetur propter adoptionem alicujus finis. Sed corpora gloriosa non habebunt aliquam indigentiam, ut Augustinus dicit: *ibi erit quidquid voles, non erit quidquid noles*. Ergo non movebuntur.  
 
@@ -715,7 +715,7 @@ Sed contra est quod dicitur Isai. 40, 31: *current, et non laborabunt; ambulabun
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod moveantur in instanti. Augustinus enim dicit, quod ubicumque voluerit spiritus, ibi erit et corpus. Sed motus voluntatis secundum quem spiritus vult alicubi esse, est in instanti. Ergo et motus corporis erit in instanti.***
+Ulterius. Videtur quod moveantur in instanti. Augustinus enim dicit, quod ubicumque voluerit spiritus, ibi erit et corpus. Sed motus voluntatis secundum quem spiritus vult alicubi esse, est in instanti. Ergo et motus corporis erit in instanti.  
 
 Praeterea, Philosophus in 4 *Phys*. probat, quod si fieret motus per vacuum, oporteret aliquid moveri in instanti: quia vacuum non resistit aliquo modo mobili, resistit autem plenum; et sic nulla proportio esset motus qui fit in vacuo, ad motum qui fit in pleno, in velocitate, cum proportio motuum in velocitate sit secundum proportionem resistentiae quae est in medio. Omnium autem duorum motuum qui fiunt in tempore, oportet esse proportionales velocitates: quia omne tempus omni tempori proportionale est. Sed similiter nullum spatium plenum potest resistere corpori glorioso, quod potest esse cum alio corpore in eodem loco, quocumque modo fiat, sicut nec vacuum alteri corpori. Ergo si movetur, in instanti movebitur.  
 
@@ -731,7 +731,7 @@ Praeterea, non potest esse aliquid simul totum in uno loco; et partim in illo, e
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod corpus gloriosum erit omnino subjectum animae glorificatae, non solum ut nihil in eo sit quod resistat voluntati spiritus, quia hoc fuit etiam in corpore Adae; sed etiam ut sit in eo aliqua perfectio effluens ab anima glorificata in corpus, per quam habile reddatur ad praedictam subjectionem: quae quidem perfectio dos glorificati corporis dicitur. Anima autem conjungitur corpori non solum ut forma, sed ut motor; et utroque modo oportet quod corpus gloriosum animae glorificatae sit summe subjectum. Unde sicut per dotem subtilitatis subjicitur ei totaliter, inquantum est forma corporis, dans esse specificum; ita per dotem agilitatis subjicitur ei inquantum est motor, ut scilicet sit expeditum et habile ad obediendum spiritui in omnibus motibus et actionibus animae. Quidam tamen causam istius agilitatis attribuunt quintae essentiae, quae tunc in corporibus gloriosis dominabitur. Sed de hoc frequenter dictum est, quod non videtur conveniens; unde melius est quod attribuatur animae, a qua gloria in corpus emanat.***
+Respondeo dicendum ad primam quaestionem, quod corpus gloriosum erit omnino subjectum animae glorificatae, non solum ut nihil in eo sit quod resistat voluntati spiritus, quia hoc fuit etiam in corpore Adae; sed etiam ut sit in eo aliqua perfectio effluens ab anima glorificata in corpus, per quam habile reddatur ad praedictam subjectionem: quae quidem perfectio dos glorificati corporis dicitur. Anima autem conjungitur corpori non solum ut forma, sed ut motor; et utroque modo oportet quod corpus gloriosum animae glorificatae sit summe subjectum. Unde sicut per dotem subtilitatis subjicitur ei totaliter, inquantum est forma corporis, dans esse specificum; ita per dotem agilitatis subjicitur ei inquantum est motor, ut scilicet sit expeditum et habile ad obediendum spiritui in omnibus motibus et actionibus animae. Quidam tamen causam istius agilitatis attribuunt quintae essentiae, quae tunc in corporibus gloriosis dominabitur. Sed de hoc frequenter dictum est, quod non videtur conveniens; unde melius est quod attribuatur animae, a qua gloria in corpus emanat.  
 
 Ad primum ergo dicendum, quod corpora gloriosa dicuntur ferri bajulis angelis, et etiam in nubibus, non quasi eis indigeant, sed ad reverentiam designandam quae corporibus gloriosis et ab angelis et ab omnibus creaturis deferetur.  
 
@@ -743,7 +743,7 @@ Ad quartum dicendum, quod sicut natura dat velocioribus animalibus instrumenta d
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod corpora gloriosa aliquando moveri necessarium est ponere: quia et ipsum corpus Christi motum est in ascensione; et similiter corpora sanctorum quae de terra resurgent, ad caelum empyreum ascendent. Sed etiam postquam caelos ascenderint, verisimile est quod aliquando moveantur pro suae libito voluntatis, ut, illud quod habent in virtute, actu exercentes, divinam sapientiam commendabilem ostendant; et ut etiam visus eorum reficiatur pulchritudine creaturarum diversarum in quibus Dei sapientia eminenter relucebit; sensus enim non potest esse nisi praesentium; quamvis magis a longinquo possint sentire corpora gloriosa quam non gloriosa, ut supra dictum est. Nec tamen per motum aliquid deperiet eorum beatitudini, quae consistit in visione Dei, quem ubique praesentem habent, sicut et de angelis dicit Gregorius, quod intra Deum currunt quocumque mittantur.***
+Ad secundam quaestionem dicendum, quod corpora gloriosa aliquando moveri necessarium est ponere: quia et ipsum corpus Christi motum est in ascensione; et similiter corpora sanctorum quae de terra resurgent, ad caelum empyreum ascendent. Sed etiam postquam caelos ascenderint, verisimile est quod aliquando moveantur pro suae libito voluntatis, ut, illud quod habent in virtute, actu exercentes, divinam sapientiam commendabilem ostendant; et ut etiam visus eorum reficiatur pulchritudine creaturarum diversarum in quibus Dei sapientia eminenter relucebit; sensus enim non potest esse nisi praesentium; quamvis magis a longinquo possint sentire corpora gloriosa quam non gloriosa, ut supra dictum est. Nec tamen per motum aliquid deperiet eorum beatitudini, quae consistit in visione Dei, quem ubique praesentem habent, sicut et de angelis dicit Gregorius, quod intra Deum currunt quocumque mittantur.  
 
 Ad primum ergo dicendum, quod motus localis non variat aliquid eorum quae sunt intranea rei, sed est secundum id quod est extra rem, scilicet locum; unde illud quod movetur motu locali, est perfectum quantum ad ea quae sunt intra rem, ut dicitur in 8 Physic.; quamvis habeat imperfectionem respectu loci: quia dum est in uno loco, est in potentia ad alium locum: quia non potest esse actu in pluribus locis simul, hoc enim solius Dei est. Hic autem defectus non repugnat perfectioni gloriae, sicut nec defectus quod creatura est ex nihilo; et ideo manebunt hujusmodi defectus in corporibus gloriosis.  
 
@@ -793,7 +793,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod corporibus gloriosis claritas non conveniet. Quia, sicut dicit Avicenna in 6 *de Naturalibus*, omne corpus luminosum constat ex partibus perviis. Sed partes corporis gloriosi non erunt perviae; cum in aliquibus dominetur terra, sicut in carnibus et ossibus. Ergo corpora gloriosa non erunt lucida.***
+Ad quartum sic proceditur. Videtur quod corporibus gloriosis claritas non conveniet. Quia, sicut dicit Avicenna in 6 *de Naturalibus*, omne corpus luminosum constat ex partibus perviis. Sed partes corporis gloriosi non erunt perviae; cum in aliquibus dominetur terra, sicut in carnibus et ossibus. Ergo corpora gloriosa non erunt lucida.  
 
 Praeterea, omne corpus lucidum occultat illud quod est post se; unde unum luminare per aliud eclipsatur: flamma etiam ignis prohibet videri quod est post se. Sed corpora gloriosa non occultabunt illud quod intra ea continetur: quia, ut dicit Gregorius, super illud Job: *non adaequabitur ei aurum et vitrum: ibi (scilicet in caelesti patria), uniuscujusque mentem ab alterius oculis membrorum corpulentia non abscondet, patebitque corporalibus oculis ipsa etiam corporis harmonia*. Ergo corpora illa non erunt lucida.  
 
@@ -807,7 +807,7 @@ Praeterea, 1 Corinth. 15, 43, dicitur: *seminatur in ignobilitate, surget in glo
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod claritas corporis gloriosi non possit videri ab oculo non glorioso. Oportet enim esse proportionem visibilis ad visum. Sed oculus non glorificatus non est proportionatus ad videndum claritatem gloriae, cum sit alterius generis quam claritas naturae. Ergo corporis gloriosi claritas non videbitur ab oculo non glorioso.***
+Ulterius. Videtur quod claritas corporis gloriosi non possit videri ab oculo non glorioso. Oportet enim esse proportionem visibilis ad visum. Sed oculus non glorificatus non est proportionatus ad videndum claritatem gloriae, cum sit alterius generis quam claritas naturae. Ergo corporis gloriosi claritas non videbitur ab oculo non glorioso.  
 
 Praeterea, claritas corporis gloriosi erit major quam claritas solis nunc sit: quia etiam claritas solis erit tunc major quam nunc, ut dicitur, et multo major ea erit claritas corporis gloriosi, propter quod sol et totus mundus claritatem majorem accipiet. Sed oculus non gloriosus non potest inspicere solem in rota propter magnitudinem claritatis. Ergo multo minus poterit inspicere claritatem corporis gloriosi.  
 
@@ -819,7 +819,7 @@ Praeterea, impii videntes gloriam justorum, ex hoc torquebuntur in judicio, ut p
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod corpus gloriosum necessario videatur a non glorioso corpore. Quia corpora gloriosa erunt lucida. Sed corpus lucidum manifestat se et alia. Ergo corpora gloriosa necessario videbuntur.***
+Ulterius. Videtur quod corpus gloriosum necessario videatur a non glorioso corpore. Quia corpora gloriosa erunt lucida. Sed corpus lucidum manifestat se et alia. Ergo corpora gloriosa necessario videbuntur.  
 
 Praeterea, omne corpus quod occultat alia corpora post se existentia, de necessitate visu percipitur ex hoc ipso quod alia quae sunt post, occultantur. Sed corpus gloriosum occultabit a visu alia corpora post se existentia, quia erit corpus coloratum. Ergo de necessitate videbitur.  
 
@@ -831,7 +831,7 @@ Praeterea, ibi erit summa obedientia corporis ad animam. Ergo corpus poterit vid
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod corpora sanctorum fore lucida post resurrectionem ponere oportet propter auctoritatem Scripturae quae hoc promittit. Sed causam hujusmodi claritatis quidam attribuunt quintae essentiae, quae tunc dominabitur in corpore humano. Sed quia hoc est absurdum, ut saepe dictum est; ideo melius est ut dicatur quod claritas illa causabitur ex redundantia gloriae animae in corpus. Quod enim recipitur in aliquo, non recipitur per modum influentis, sed per modum recipientis; et ita claritas quae est in anima ut spiritualis, recipitur in corpore ut corporalis; et ideo secundum quod anima erit majoris claritatis secundum majus meritum, ita etiam erit differentia claritatis in corpore, ut patet per apostolum 1 Corinth. 15; et ita in corpore glorioso cognoscetur gloria animae, sicut in vitro cognoscitur color corporis quod continetur in vase vitreo, ut Gregorius dicit super illud Job 28: *non adaequabitur ei aurum vel vitrum*.***
+Respondeo dicendum ad primam quaestionem, quod corpora sanctorum fore lucida post resurrectionem ponere oportet propter auctoritatem Scripturae quae hoc promittit. Sed causam hujusmodi claritatis quidam attribuunt quintae essentiae, quae tunc dominabitur in corpore humano. Sed quia hoc est absurdum, ut saepe dictum est; ideo melius est ut dicatur quod claritas illa causabitur ex redundantia gloriae animae in corpus. Quod enim recipitur in aliquo, non recipitur per modum influentis, sed per modum recipientis; et ita claritas quae est in anima ut spiritualis, recipitur in corpore ut corporalis; et ideo secundum quod anima erit majoris claritatis secundum majus meritum, ita etiam erit differentia claritatis in corpore, ut patet per apostolum 1 Corinth. 15; et ita in corpore glorioso cognoscetur gloria animae, sicut in vitro cognoscitur color corporis quod continetur in vase vitreo, ut Gregorius dicit super illud Job 28: *non adaequabitur ei aurum vel vitrum*.  
 
 Ad primum ergo dicendum, quod Avicenna loquitur de illo corpore quod habet ex natura componentium claritatem. Sic autem non habebit corpus gloriosum, sed magis ex merito virtutis.  
 
@@ -843,7 +843,7 @@ Ad quartum dicendum, quod sicut claritas gloriae redundat ab anima in corpus sec
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quidam dixerunt, quod claritas corporis gloriosi non potest videri ab oculo non glorioso, nisi forte per miraculum. Sed hoc non potest esse, nisi claritas aequivoce diceretur; quia lux secundum id quod est, nata est movere visum; et visus secundum id quod est, natus est recipere lucem; sicut verum se habet ad intellectum, et bonum ad affectum. Unde si esset aliquis visus qui non posset percipere aliquam lucem omnino; vel ille visus diceretur aequivoce, vel lux illa; quod non potest in proposito dici; quia sic per hoc quod dicitur, corpora gloriosa futura esse lucida, nihil nobis notificaretur; sicut qui dicit canem esse in caelo, nihil notificat ei qui non novit nisi canem qui est animal. Et ideo dicendum est, quod claritas corporis gloriosi naturaliter ab oculo non glorioso videri potest.***
+Ad secundam quaestionem dicendum, quod quidam dixerunt, quod claritas corporis gloriosi non potest videri ab oculo non glorioso, nisi forte per miraculum. Sed hoc non potest esse, nisi claritas aequivoce diceretur; quia lux secundum id quod est, nata est movere visum; et visus secundum id quod est, natus est recipere lucem; sicut verum se habet ad intellectum, et bonum ad affectum. Unde si esset aliquis visus qui non posset percipere aliquam lucem omnino; vel ille visus diceretur aequivoce, vel lux illa; quod non potest in proposito dici; quia sic per hoc quod dicitur, corpora gloriosa futura esse lucida, nihil nobis notificaretur; sicut qui dicit canem esse in caelo, nihil notificat ei qui non novit nisi canem qui est animal. Et ideo dicendum est, quod claritas corporis gloriosi naturaliter ab oculo non glorioso videri potest.  
 
 Ad primum ergo dicendum, quod claritas gloriae erit alterius generis quam claritas naturae quantum ad causam, sed non quantum ad speciem; unde sicut claritas naturae ratione suae speciei est proportionata visui, ita claritas gloriosa.  
 
@@ -853,7 +853,7 @@ Ad tertium dicendum, quod claritas corporis gloriosi provenit ex merito voluntat
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod visibile videtur secundum quod agit in visum. Ex hoc autem quod aliquid agit vel non agit in aliquod extrinsecum, non est aliqua mutatio in ipso: unde sine mutatione alicujus proprietatis quae sit de perfectione corporis glorificati, potest contingere quod videatur et non videatur; unde in potestate animae glorificatae erit quod corpus suum videatur vel non videatur, sicut et quaelibet alia actio corporis in animae potestate erit; alias non esset corpus gloriosum instrumentum summe obediens principali agenti.***
+Ad tertiam quaestionem dicendum, quod visibile videtur secundum quod agit in visum. Ex hoc autem quod aliquid agit vel non agit in aliquod extrinsecum, non est aliqua mutatio in ipso: unde sine mutatione alicujus proprietatis quae sit de perfectione corporis glorificati, potest contingere quod videatur et non videatur; unde in potestate animae glorificatae erit quod corpus suum videatur vel non videatur, sicut et quaelibet alia actio corporis in animae potestate erit; alias non esset corpus gloriosum instrumentum summe obediens principali agenti.  
 
 Ad primum ergo dicendum, quod claritas illa obediet corpori glorioso, ut possit eam ostendere vel occultare.  
 
@@ -865,7 +865,7 @@ Quaestio 3
 
 ***De conditionibus damnatorum***
 
-***Deinde quaeritur de his quae pertinent ad damnatos; et circa hoc quaeruntur tria:***
+Deinde quaeritur de his quae pertinent ad damnatos; et circa hoc quaeruntur tria:  
 
 primo, de qualitate corporum ipsorum;  
 
@@ -877,7 +877,7 @@ primo, de qualitate corporum ipsorum;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod damnatorum corpora cum suis deformitatibus resurgant. Illud enim quod in poenam peccati inductum est, desistere non debet nisi peccato remisso. Sed membrorum defectus qui accidunt per mutilationem, in poenam peccati inducti sunt, et similiter etiam omnes aliae deformitates corporales. Ergo a damnatis, qui peccatorum remissionem non sunt consecuti, in resurrectione non removebuntur.***
+Ad primum sic proceditur. Videtur quod damnatorum corpora cum suis deformitatibus resurgant. Illud enim quod in poenam peccati inductum est, desistere non debet nisi peccato remisso. Sed membrorum defectus qui accidunt per mutilationem, in poenam peccati inducti sunt, et similiter etiam omnes aliae deformitates corporales. Ergo a damnatis, qui peccatorum remissionem non sunt consecuti, in resurrectione non removebuntur.  
 
 Praeterea, sicut resurrectio sanctorum erit ad ultimam perfectionem, sic et resurrectio ipsorum erit ad ultimam miseriam. Sed sanctis resurgentibus non auferetur aliquid quod ad eorum perfectionem pertinere possit. Ergo nec impiis resurgentibus aliquid auferetur quod ad eorum defectum vel miseriam pertineat. Hujusmodi autem sunt deformitates. Ergo, etc.  
 
@@ -889,7 +889,7 @@ Praeterea, in damnatis non erit aliquid quod sensum doloris in eis impediat. Sed
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod corpora damnatorum erunt corruptibilia. Omne enim compositum ex contrariis necesse est corrumpi. Sed corpora damnatorum erunt ex contrariis composita, ex quibus etiam nunc componuntur; alias non essent ejusdem speciei, et per consequens eadem numero. Ergo erunt corruptibilia.***
+Ulterius. Videtur quod corpora damnatorum erunt corruptibilia. Omne enim compositum ex contrariis necesse est corrumpi. Sed corpora damnatorum erunt ex contrariis composita, ex quibus etiam nunc componuntur; alias non essent ejusdem speciei, et per consequens eadem numero. Ergo erunt corruptibilia.  
 
 Praeterea, corpora damnatorum si incorruptibilia sunt futura, hoc non erit per naturam, cum sint futura ejusdem naturae cujus et nunc sunt, nec etiam erit per gratiam vel gloriam, quia talibus omnino carebunt. Ergo nullo modo erunt incorruptibilia.  
 
@@ -899,7 +899,7 @@ Sed contra est quod dicitur Apoc. 9, 6: *in diebus illis quaerent homines mortem
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sint futura impassibilia. Quia secundum Philosophum in 6 *Topic*., cap. 10, *omnis passio magis facta abjicit a substantia*. Sed a finito si semper aliquid abjiciatur, necesse est illud tandem consumi, ut dicitur in 3 *Phys*. Ergo si corpora damnatorum erunt passibilia, et semper patientur, quandoque deficient et corrumpentur; quod falsum esse ostensum est. Ergo erunt impassibilia.***
+Ulterius. Videtur quod sint futura impassibilia. Quia secundum Philosophum in 6 *Topic*., cap. 10, *omnis passio magis facta abjicit a substantia*. Sed a finito si semper aliquid abjiciatur, necesse est illud tandem consumi, ut dicitur in 3 *Phys*. Ergo si corpora damnatorum erunt passibilia, et semper patientur, quandoque deficient et corrumpentur; quod falsum esse ostensum est. Ergo erunt impassibilia.  
 
 Praeterea, omne agens assimilat sibi patiens. Si ergo corpora damnatorum patientur ab igne, ignis ea sibi assimilabit. Sed non consumit aliter ignis corpora, nisi inquantum ea sibi assimilans resolvit. Ergo si corpora damnatorum erunt passibilia ab igne, quandoque consumentur; et sic idem quod prius.  
 
@@ -913,7 +913,7 @@ Praeterea, sicut corpus cooperatur animae ad meritum, ita corpus operatur ei ad 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in corpore humano potest esse deformitas dupliciter. Uno modo ex defectu alicujus membri, sicut mutilatos turpes dicimus; deest enim eis debita proportio ad totum; et de tali deformitate nulli dubium est quod in corporibus damnatorum non erit; quia omnia corpora tam bonorum quam malorum integra resurgent, ut supra dictum est cum de integritate corporum resurgentium ageretur. Alio modo deformitas contingit ex indebita partium dispositione, vel indebita quantitate vel qualitate vel situ, quae etiam proportionem debitam partium ad totum non patitur; et de talibus deformitatibus et similibus defectibus, sicut sunt febres et hujusmodi aegritudines, quae interdum sunt deformitatis causae, Augustinus indeterminatum et sub dubio relinquit in *Ench*., ut Magister in littera dicit.***
+Respondeo dicendum ad primam quaestionem, quod in corpore humano potest esse deformitas dupliciter. Uno modo ex defectu alicujus membri, sicut mutilatos turpes dicimus; deest enim eis debita proportio ad totum; et de tali deformitate nulli dubium est quod in corporibus damnatorum non erit; quia omnia corpora tam bonorum quam malorum integra resurgent, ut supra dictum est cum de integritate corporum resurgentium ageretur. Alio modo deformitas contingit ex indebita partium dispositione, vel indebita quantitate vel qualitate vel situ, quae etiam proportionem debitam partium ad totum non patitur; et de talibus deformitatibus et similibus defectibus, sicut sunt febres et hujusmodi aegritudines, quae interdum sunt deformitatis causae, Augustinus indeterminatum et sub dubio relinquit in *Ench*., ut Magister in littera dicit.  
 
 Sed apud doctores modernos est super hoc duplex opinio. Quidam enim dicunt, quod hujusmodi deformitates et defectus in corporibus damnatorum remanebunt, considerantes eorum damnationem, qua ad summam miseriam deputantur, cui nihil incommoditatis subtrahi debet. Sed hoc non videtur rationabiliter dici; in reparatione enim corporis resurgentis magis attenditur naturae perfectio quam conditio quae prius fuit; unde et qui infra perfectam aetatem decedunt, in statura juvenilis aetatis resurgent, ut supra dictum est; unde et illi qui aliquos defectus naturales in corpore habuerunt vel deformitates ex eis provenientes, in resurrectione sine illis defectibus vel deformitatibus repararentur, nisi peccati meritum impediret; et ita, si aliquis cum defectibus vel deformitatibus resurget, hoc erit in poenam; modus autem poenae est secundum mensuram culpae. Contingit autem quod aliquis peccator damnandus minoribus peccatis subjectus, aliquas deformitates vel defectus habeat quas non habuit aliquis damnandus peccatis gravioribus irretitus. Unde si ille qui in hac vita deformitates habuit, cum eis resurgat, sine quibus constat quod resurget alius gravius puniendus, qui eas in hac vita non habuit; modus poenae non responderet quantitati culpae, sed magis videretur aliquis puniri pro poenis quas in hoc mundo passus fuit; quod est absurdum.  
 
@@ -927,7 +927,7 @@ Ad tertium dicendum, quod tarditas est de illis defectibus qui naturaliter sequu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod cum in omni motu oporteat esse aliquod principium motus; dupliciter motus aliquis vel mutatio a mobili removetur. Uno modo per hoc quod deest principium motus; alio modo per hoc quod principium motus impeditur. Corruptio autem mutatio quaedam est; unde dupliciter potest contingere ut corpus quod ex conditione suorum principiorum corruptibilitatem habet, incorruptibile reddatur.***
+Ad secundam quaestionem dicendum, quod cum in omni motu oporteat esse aliquod principium motus; dupliciter motus aliquis vel mutatio a mobili removetur. Uno modo per hoc quod deest principium motus; alio modo per hoc quod principium motus impeditur. Corruptio autem mutatio quaedam est; unde dupliciter potest contingere ut corpus quod ex conditione suorum principiorum corruptibilitatem habet, incorruptibile reddatur.  
 
 Uno modo ex hoc quod principium ad corruptionem movens totaliter tollitur; et hoc modo corpora damnatorum incorruptibilia erunt. Cum enim caelum sit primum alterans per motum suum localem, et omnia alia agentia secunda in virtute ipsius agant, et quasi ab ipso mota; oportet quod cessante motu caeli, nihil sit agens quod possit corpus per alterationem aliquam transmutare a sua naturali proprietate; et ideo post resurrectionem, cessante motu caeli, nulla qualitas erit sufficiens ut corpus humanum alterare possit a sua naturali qualitate. Corruptio autem est terminus alterationis, sicut et generatio; unde corpora damnatorum corrumpi non poterunt; et hoc deservit divinae justitiae, ut perpetuo viventes, perpetuo puniantur, quod divina justitia requirit, ut infra dicetur; sicut et nunc corruptibilitas corporum deservit divinae providentiae, per quam ex aliquibus corruptis alia generantur.  
 
@@ -941,7 +941,7 @@ Ad tertium dicendum, quod quamvis mors sit simpliciter maxima poenarum, secundum
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod principalis causa quare corpora damnatorum ab igne non consumuntur, erit divina justitia, quia eorum corpora ad perpetuam poenam sunt addicta. Sed divinae justitiae servit etiam naturalis dispositio ex parte corporis patientis, et ex parte agentium: quia cum pati sit recipere quoddam, duplex est modus passionis, secundum quod aliquid in aliquo recipi potest dupliciter. Potest enim aliqua forma recipi in altero aliquo secundum esse naturale materialiter, sicut calor recipitur ab igne in aere; et secundum hunc modum receptionis est unus modus passionis, qui dicitur passio naturae. Alio modo aliquid recipitur in altero spiritualiter per modum intentionis cujusdam, sicut similitudo albedinis recipitur in aere et in pupilla; et haec receptio similatur illi receptioni qua anima recipit similitudines rerum; unde secundum hunc modum receptionis est alius modus passionis, qui vocatur passio animae. Quia ergo post resurrectionem, et motu caeli cessante, non poterit aliquod corpus alterari a sua naturali qualitate, ut dictum est, nullum corpus pati poterit passione naturae; unde quantum ad hunc modum passionis corpora damnatorum impassibilia erunt, sicut et incorruptibilia. Sed cessante motu caeli, adhuc manebit passio quae est per modum animae; quia et aer a sole illuminabitur, et colorum differentias ad visum deferet; unde et secundum hunc modum passionis corpora damnatorum passibilia erunt. Et quia in tali passione sensus perficitur, ideo in corporibus damnatorum sensus poenae erit sine mutatione naturalis dispositionis. Corpora vero gloriosa, etsi recipiant aliquid, et quodammodo patiantur in sentiendo, non tamen passibilia erunt: quia nihil recipient per modum afflictivi vel laesivi, sicut recipient corpora damnatorum quae ob hoc passibilia dicuntur.***
+Ad tertiam quaestionem dicendum, quod principalis causa quare corpora damnatorum ab igne non consumuntur, erit divina justitia, quia eorum corpora ad perpetuam poenam sunt addicta. Sed divinae justitiae servit etiam naturalis dispositio ex parte corporis patientis, et ex parte agentium: quia cum pati sit recipere quoddam, duplex est modus passionis, secundum quod aliquid in aliquo recipi potest dupliciter. Potest enim aliqua forma recipi in altero aliquo secundum esse naturale materialiter, sicut calor recipitur ab igne in aere; et secundum hunc modum receptionis est unus modus passionis, qui dicitur passio naturae. Alio modo aliquid recipitur in altero spiritualiter per modum intentionis cujusdam, sicut similitudo albedinis recipitur in aere et in pupilla; et haec receptio similatur illi receptioni qua anima recipit similitudines rerum; unde secundum hunc modum receptionis est alius modus passionis, qui vocatur passio animae. Quia ergo post resurrectionem, et motu caeli cessante, non poterit aliquod corpus alterari a sua naturali qualitate, ut dictum est, nullum corpus pati poterit passione naturae; unde quantum ad hunc modum passionis corpora damnatorum impassibilia erunt, sicut et incorruptibilia. Sed cessante motu caeli, adhuc manebit passio quae est per modum animae; quia et aer a sole illuminabitur, et colorum differentias ad visum deferet; unde et secundum hunc modum passionis corpora damnatorum passibilia erunt. Et quia in tali passione sensus perficitur, ideo in corporibus damnatorum sensus poenae erit sine mutatione naturalis dispositionis. Corpora vero gloriosa, etsi recipiant aliquid, et quodammodo patiantur in sentiendo, non tamen passibilia erunt: quia nihil recipient per modum afflictivi vel laesivi, sicut recipient corpora damnatorum quae ob hoc passibilia dicuntur.  
 
 Ad primum ergo dicendum, quod Philosophus loquitur de illa passione per quam transmutatur patiens a sua naturali dispositione. Talis autem passio non erit in corporibus damnatorum, ut dictum est.  
 
@@ -957,7 +957,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod ignis inferni, quo corpora damnatorum cruciabuntur, non sit ignis corporeus. Dicit enim Damascenus in 4 Lib., in fine: *tradetur diabolus, et daemones ejus, et homo ejus, scilicet Antichristus, et impii et peccatores, in ignem aeternum, non materialem, qualis est qui apud nos est, sed qualem utique novit Deus*. Sed omne corporeum est materiale. Ergo ignis inferni non erit corporeus.***
+Ad secundum sic proceditur. Videtur quod ignis inferni, quo corpora damnatorum cruciabuntur, non sit ignis corporeus. Dicit enim Damascenus in 4 Lib., in fine: *tradetur diabolus, et daemones ejus, et homo ejus, scilicet Antichristus, et impii et peccatores, in ignem aeternum, non materialem, qualis est qui apud nos est, sed qualem utique novit Deus*. Sed omne corporeum est materiale. Ergo ignis inferni non erit corporeus.  
 
 Praeterea, animae damnatorum a corpore separatae, ad ignem inferni deferuntur. Sed Augustinus dicit, 12 *super Gen. ad litteram*: *spiritualem arbitror esse locum*, scilicet ad quem anima defertur post mortem, *non corporalem*. Ergo ignis ille non est corporeus.  
 
@@ -969,7 +969,7 @@ Praeterea, Sap. 5, 21, dicitur: *pugnabit orbis terrarum contra insensatos*. Sed
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ignis ille non sit ejusdem speciei cum igne isto corporeo quem videmus. Augustinus enim dicit, et habetur in littera: *ignis aeternus cujusmodi sit, arbitror scire neminem, nisi forte cui spiritus divinus ostendit*. Sed naturam istius ignis omnes, vel fere omnes, sciunt. Ergo ille ignis non est ejusdem naturae vel speciei cum isto.***
+Ulterius. Videtur quod ignis ille non sit ejusdem speciei cum igne isto corporeo quem videmus. Augustinus enim dicit, et habetur in littera: *ignis aeternus cujusmodi sit, arbitror scire neminem, nisi forte cui spiritus divinus ostendit*. Sed naturam istius ignis omnes, vel fere omnes, sciunt. Ergo ille ignis non est ejusdem naturae vel speciei cum isto.  
 
 Praeterea, Gregorius dicit 15 Lib. *Moral*., exponens illud Job 20: *devorabit eum ignis, qui non succenditur: ignis corporeus ut esse valeat, corporeis indiget fomentis; nec valet, nisi succensus esset, et nisi refotus, subsistere. At contra Gehennae ignis, cum sit corporeus, et in se missos reprobos corporaliter exurat, nec studio humano succenditur, nec lignis nutritur, sed creatus semel durat inextinguibilis; et successione non indiget, et ardore non caret*. Ergo non est ejusdem naturae cum corporeo igne quem videmus.  
 
@@ -983,7 +983,7 @@ Praeterea, Sap. 11, 17, dicitur: *per quae peccat quis, per haec et torquetur*. 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ignis ille non sit sub terra. Quia Job 18, 18, de homine damnato dicitur: *et de orbe transferet eum Deus*. Ergo ille ignis quo damnati punientur, non est sub terra, sed extra orbem.***
+Ulterius. Videtur quod ignis ille non sit sub terra. Quia Job 18, 18, de homine damnato dicitur: *et de orbe transferet eum Deus*. Ergo ille ignis quo damnati punientur, non est sub terra, sed extra orbem.  
 
 Praeterea, nullum violentum et per accidens potest esse sempiternum. Sed ignis ille erit in inferno in sempiternum. Ergo non erit ibi per violentiam, sed naturaliter. Sed sub terra non potest esse ignis nisi per violentiam. Ergo ignis inferni non est sub terra.  
 
@@ -999,7 +999,7 @@ Praeterea, Jonae 2, super illud: *projecisti me in corde maris*; Glossa interlin
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod de igne inferni fuit multiplex positio.***
+Respondeo dicendum ad primam quaestionem, quod de igne inferni fuit multiplex positio.  
 
 Quidam enim philosophi, ut Avicenna, resurrectionem non credentes, solius animae post mortem poenam esse crediderunt; et quia eis inconveniens videbatur ut anima, cum sit incorporea, igne corporeo puniretur, negaverunt ignem corporeum esse quo mali punirentur; volentes quod quidquid dicitur de poena animarum post mortem futura per aliqua corporalia, metaphorice dicatur. Sicut enim bonarum animarum delectatio et jucunditas non erit in aliqua re corporali, sed spirituali tantum, quod erit in consecutione finis sui; ita afflictio malorum erit spiritualis tantum, in hoc scilicet quod tristabuntur de hoc quod separantur a fine, cujus inest eis desiderium naturale. Unde sicut omnia quae de delectatione animarum post mortem dicuntur, quae videntur ad delectationem corporalem pertinere, sicut quod reficiantur, quod rideant, et hujusmodi; ita etiam quidquid de harum afflictione dicitur quod in corporalem punitionem sonare videtur, per similitudinem debet intelligi; sicut quod igne ardeant, vel foetoribus affligantur, et cetera hujusmodi. Spiritualis enim delectatio et tristitia, cum sit ignota multitudini, oportet quod per delectationem et tristitias corporales figuraliter manifestetur, ut homines moveantur magis ad desiderium vel timorem. Sed quia in poena damnatorum non solum erit poena damni, quae respondet aversioni quae fuit in culpa, sed etiam poena sensus, quae respondet conversioni; ideo non sufficit praedictum modum punitionis ponere; et ideo etiam ipse Avicenna, alterum modum superaddit, dicens, quod animae malorum post mortem non per corpora, sed per corporum similitudines punientur, sicut in somnis propter similitudines praedictas in imaginatione existentes videtur homini quod torqueatur poenis diversis; et hunc etiam modum punitionis videtur ponere Augustinus in 12 *super Gen. ad Lit*., sicut ibidem manifeste patet.  
 
@@ -1015,7 +1015,7 @@ Ad tertium dicendum, quod ignis ille erit instrumentum divinae justitiae punient
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ignis propter hoc quod est maximae virtutis in agendo inter reliqua elementa, alia corpora pro materia habet, ut dicitur in 2 *Meteor*.; unde et ignis dupliciter invenitur; scilicet in propria materia, prout est in sphaera sua; vel in materia aliena, sive terrestri, ut patet in carbone; sive aerea, sicut patet in flamma. Quocumque autem modo ignis inveniatur, semper idem est in specie quantum ad naturam ignis pertinet. Potest autem esse diversitas in specie quantum ad corpora quae sunt materia ignis; unde flamma et carbo differunt specie, et similiter lignum ignitum et ferrum ignitum. Nec differt quantum ad hoc sive ignita sint per violentiam, ut in ferro apparet, sive ex principio intrinseco naturali, ut accidit in sulphure. Quod ergo ignis inferni quantum ad hoc quod habet de natura ignis, sit ejusdem speciei cum igne qui apud nos est, manifestum est; utrum autem ille ignis sit in propria materia existens, aut in aliena, et si in aliena, in qua materia sit, nobis ignotum est; et secundum hoc potest ab igne qui apud nos est, specie differre materialiter consideratus. Quasdam tamen proprietates differentes habet ab igne isto, sicut quod succensione non indiget, nec lignis nutritur. Sed istae differentiae non ostendunt diversitatem in specie quantum ad id quod pertinet ad naturam ignis.***
+Ad secundam quaestionem dicendum, quod ignis propter hoc quod est maximae virtutis in agendo inter reliqua elementa, alia corpora pro materia habet, ut dicitur in 2 *Meteor*.; unde et ignis dupliciter invenitur; scilicet in propria materia, prout est in sphaera sua; vel in materia aliena, sive terrestri, ut patet in carbone; sive aerea, sicut patet in flamma. Quocumque autem modo ignis inveniatur, semper idem est in specie quantum ad naturam ignis pertinet. Potest autem esse diversitas in specie quantum ad corpora quae sunt materia ignis; unde flamma et carbo differunt specie, et similiter lignum ignitum et ferrum ignitum. Nec differt quantum ad hoc sive ignita sint per violentiam, ut in ferro apparet, sive ex principio intrinseco naturali, ut accidit in sulphure. Quod ergo ignis inferni quantum ad hoc quod habet de natura ignis, sit ejusdem speciei cum igne qui apud nos est, manifestum est; utrum autem ille ignis sit in propria materia existens, aut in aliena, et si in aliena, in qua materia sit, nobis ignotum est; et secundum hoc potest ab igne qui apud nos est, specie differre materialiter consideratus. Quasdam tamen proprietates differentes habet ab igne isto, sicut quod succensione non indiget, nec lignis nutritur. Sed istae differentiae non ostendunt diversitatem in specie quantum ad id quod pertinet ad naturam ignis.  
 
 Ad primum ergo dicendum, quod Augustinus loquitur quantum ad id quod est materiale in illo igne, non autem quantum ad ignis naturam.  
 
@@ -1027,7 +1027,7 @@ Ad quartum dicendum, quod lucere non convenit igni secundum quemlibet modum exis
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut Augustinus dicit, et habetur in littera, *in qua parte mundi infernus sit, scire neminem arbitror, nisi cui divinus spiritus revelavit*; unde et Gregorius in 4 *Dialog*., super hac quaestione interrogatus respondet: *hac de re temere definire non audeo. Nonnulli namque in quadam terrarum parte infernum esse putaverunt; alii vero hunc sub terra esse existimant*. Et hanc opinionem probabiliorem esse ostendit dupliciter. Primo ex ipsa nominis ratione, sic dicens: *si idcirco infernum dicimus, quin inferius jacet; quod terra ad caelum est, hoc esse infernus debet ad terram*. Secundo autem ex hoc quod dicitur Apoc. 5, 3: *nemo poterat neque in caelo neque in terra neque subtus terram aperire librum*: ut hoc quod dicitur *in caelo*, referatur ad angelos; hoc quod dicitur *in terra*, referatur ad homines viventes in corpore; hoc quod dicitur *subtus terram* referatur ad animas existentes in inferno. Augustinus etiam in 12 *super Genes. ad litteram*, duas rationes tangere videtur, quare congruum sit quod infernus sit sub terra. Una est, ut quoniam defunctorum animae amore carnis peccaverunt, hoc eis exhibeatur quod ipsi carni mortuae solet exhiberi, ut scilicet sub terra recondantur. Alia est quod sicut est gravitas in corporibus, ita tristitia in spiritibus; et laetitia sicut levitas: unde sicut secundum corpus, si ponderis sui ordinem teneant, inferiora sunt omnia graviora; ita secundum spiritum inferiora sunt omnia tristiora: et sic sicut conveniens locus gaudio electorum est caelum empyreum; ita conveniens locus tristitiae damnatorum est infimum terrae. Nec debet movere quod Augustinus ibidem dicit, quod Inferi sub terris esse dicuntur vel creduntur: quia in Lib. *Retractationum*, hoc retractans dicit: *mihi videor dicere debuisse magis quod sub terris sunt Inferi, quam rationem reddere cur sub terris esse dicantur sive credantur*.***
+Ad tertiam quaestionem dicendum, quod sicut Augustinus dicit, et habetur in littera, *in qua parte mundi infernus sit, scire neminem arbitror, nisi cui divinus spiritus revelavit*; unde et Gregorius in 4 *Dialog*., super hac quaestione interrogatus respondet: *hac de re temere definire non audeo. Nonnulli namque in quadam terrarum parte infernum esse putaverunt; alii vero hunc sub terra esse existimant*. Et hanc opinionem probabiliorem esse ostendit dupliciter. Primo ex ipsa nominis ratione, sic dicens: *si idcirco infernum dicimus, quin inferius jacet; quod terra ad caelum est, hoc esse infernus debet ad terram*. Secundo autem ex hoc quod dicitur Apoc. 5, 3: *nemo poterat neque in caelo neque in terra neque subtus terram aperire librum*: ut hoc quod dicitur *in caelo*, referatur ad angelos; hoc quod dicitur *in terra*, referatur ad homines viventes in corpore; hoc quod dicitur *subtus terram* referatur ad animas existentes in inferno. Augustinus etiam in 12 *super Genes. ad litteram*, duas rationes tangere videtur, quare congruum sit quod infernus sit sub terra. Una est, ut quoniam defunctorum animae amore carnis peccaverunt, hoc eis exhibeatur quod ipsi carni mortuae solet exhiberi, ut scilicet sub terra recondantur. Alia est quod sicut est gravitas in corporibus, ita tristitia in spiritibus; et laetitia sicut levitas: unde sicut secundum corpus, si ponderis sui ordinem teneant, inferiora sunt omnia graviora; ita secundum spiritum inferiora sunt omnia tristiora: et sic sicut conveniens locus gaudio electorum est caelum empyreum; ita conveniens locus tristitiae damnatorum est infimum terrae. Nec debet movere quod Augustinus ibidem dicit, quod Inferi sub terris esse dicuntur vel creduntur: quia in Lib. *Retractationum*, hoc retractans dicit: *mihi videor dicere debuisse magis quod sub terris sunt Inferi, quam rationem reddere cur sub terris esse dicantur sive credantur*.  
 
 Quidam tamen philosophi posuerunt quod locus inferni erit sub orbe terrestri, tamen supra terrae superficiem, ex parte opposita nobis; et hoc videtur Isidorus sensisse, cum dixit, quod sol et luna in ordine quo creati sunt, stabunt, ne impii in tormentis positi fruantur luce eorum: quae ratio nulla esset, si infernus infra terram esse dicatur. Qualiter tamen haec verba possint exponi, patebit infra, dist. 48. Pythagoras vero posuit locum poenarum in sphaera ignis, quam in medio totius orbis esse dicit, ut patet per Philosophum in 2 *Cael. et Mund*. Sed tamen convenientius his quae in Scriptura dicuntur, est ut sub terra esse dicatur.  
 
@@ -1045,7 +1045,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod in anima separata remaneant potentiae sensitivae. Augustinus enim, in libro *De spiritu et anima*, sic dicit: *recedit anima a corpore secum trahens omnia, sensum scilicet, et imaginationem, et rationem, et intellectum, intelligentiam, concupiscibilitatem, et irascibilitatem*. Sed sensus et imaginatio, et vis irascibilis et concupiscibilis sunt vires sensitivae. Ergo et in anima separata vires sensitivae remanent.***
+Ad tertium sic proceditur. Videtur quod in anima separata remaneant potentiae sensitivae. Augustinus enim, in libro *De spiritu et anima*, sic dicit: *recedit anima a corpore secum trahens omnia, sensum scilicet, et imaginationem, et rationem, et intellectum, intelligentiam, concupiscibilitatem, et irascibilitatem*. Sed sensus et imaginatio, et vis irascibilis et concupiscibilis sunt vires sensitivae. Ergo et in anima separata vires sensitivae remanent.  
 
 Praeterea, Augustinus dicit in libro *de Eccles. dogmatibus*: *solum hominem credimus habere animam substantivam; quae exuta corpore vivit, et sensus suos atque ingenia vivaciter tenet*. Ergo anima exuta corpore habet potentias sensitivas.  
 
@@ -1067,7 +1067,7 @@ Praeterea, in 2 *de Anima*, Philosophus dicit de intellectu loquens: *hoc solum 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in anima separata remaneant etiam actus sensitivarum potentiarum. Dicit enim Augustinus in Lib. *de Spiritu et anima*: *anima recedens a corpore ex his*, scilicet imaginatione, concupiscibilitate, irascibilitate, *secundum merita afficitur ad delectationem sive ad dolorem*. Sed imaginatio et concupiscibilis et irascibilis sunt sensitivae potentiae. Ergo secundum sensitivas potentias anima separata afficietur, et ita secundum eas in aliquo actu erit.***
+Ulterius. Videtur quod in anima separata remaneant etiam actus sensitivarum potentiarum. Dicit enim Augustinus in Lib. *de Spiritu et anima*: *anima recedens a corpore ex his*, scilicet imaginatione, concupiscibilitate, irascibilitate, *secundum merita afficitur ad delectationem sive ad dolorem*. Sed imaginatio et concupiscibilis et irascibilis sunt sensitivae potentiae. Ergo secundum sensitivas potentias anima separata afficietur, et ita secundum eas in aliquo actu erit.  
 
 Praeterea, Augustinus *super Genes. ad litteram*, in Lib. 12, dicit, quod *corpus non sentit, sed anima per corpus*, et infra: *quaedam autem anima, non corpus, immo sine corpore sentit*: ut est timor, et hujusmodi. Sed illud quod animae sine corpore convenit, potest inesse animae a corpore separatae. Ergo tunc actu anima sentire poterit.  
 
@@ -1083,7 +1083,7 @@ Praeterea, Philosophus dicit in Lib. *de Anima*: *corrupto corpore, anima neque 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod anima separata pati non possit ab igne corporeo. Augustinus enim, 12 super Genes. ad litteram, dicit: *non sunt corporalia, sed corporalibus similia, quibus animae corporibus exutae afficiuntur seu bene seu male*. Ergo anima separata igne corporeo non punitur.***
+Ulterius. Videtur quod anima separata pati non possit ab igne corporeo. Augustinus enim, 12 super Genes. ad litteram, dicit: *non sunt corporalia, sed corporalibus similia, quibus animae corporibus exutae afficiuntur seu bene seu male*. Ergo anima separata igne corporeo non punitur.  
 
 Praeterea, Augustinus in eodem Lib., dicit, quod agens semper est nobilius patiente. Sed impossibile est aliquod corporeum esse nobilius anima separata. Ergo non potest ab aliquo corpore pati.  
 
@@ -1131,7 +1131,7 @@ Ad septimum dicendum, quod Philosophus loquitur de hujusmodi potentiis secundum 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quidam distinguunt duplices actus sensitivarum potentiarum; quosdam exteriores, quos per corpus exercet; et hi non remanent in anima separata; quosdam vero intrinsecos, quos anima per seipsam exercet; et hi erunt in anima separata. Haec autem positio descendere videtur ab opinione Platonis, qui ponit animam corpori conjungi sicut quamdam substantiam perfectam, in nullo a corpore dependentem, sed solum sicut motorem mobili; quod patet ex transcorporatione quam ponebat. Quia autem secundum ipsum nihil movebat nisi motum, et ne abiretur in infinitum, dicebat quod primum movens movet seipsum, posuit quod anima erat se ipsam movens; et secundum hoc erat duplex motus animae; unus quo movebatur a seipsa, alius quo movebatur corpus ab ea; et sic anima habebat actum qui est videre, primo in se ipsa, secundum quod movebat seipsam, et secundo in organo corporali, secundum quod movebat corpus. Hanc autem positionem Philosophus destruit in 1 *de Anima*, ostendens quod anima non movet seipsam, et quod nullo modo movetur secundum istas operationes quae sunt videre, sentire, et hujusmodi, sed quod istae operationes sunt motus conjuncti tantum. Unde oportet dicere, quod actus sensitivarum potentiarum nullo modo maneant in anima separata, nisi forte sicut in radice remota.***
+Ad secundam quaestionem dicendum, quod quidam distinguunt duplices actus sensitivarum potentiarum; quosdam exteriores, quos per corpus exercet; et hi non remanent in anima separata; quosdam vero intrinsecos, quos anima per seipsam exercet; et hi erunt in anima separata. Haec autem positio descendere videtur ab opinione Platonis, qui ponit animam corpori conjungi sicut quamdam substantiam perfectam, in nullo a corpore dependentem, sed solum sicut motorem mobili; quod patet ex transcorporatione quam ponebat. Quia autem secundum ipsum nihil movebat nisi motum, et ne abiretur in infinitum, dicebat quod primum movens movet seipsum, posuit quod anima erat se ipsam movens; et secundum hoc erat duplex motus animae; unus quo movebatur a seipsa, alius quo movebatur corpus ab ea; et sic anima habebat actum qui est videre, primo in se ipsa, secundum quod movebat seipsam, et secundo in organo corporali, secundum quod movebat corpus. Hanc autem positionem Philosophus destruit in 1 *de Anima*, ostendens quod anima non movet seipsam, et quod nullo modo movetur secundum istas operationes quae sunt videre, sentire, et hujusmodi, sed quod istae operationes sunt motus conjuncti tantum. Unde oportet dicere, quod actus sensitivarum potentiarum nullo modo maneant in anima separata, nisi forte sicut in radice remota.  
 
 Ad primum ergo dicendum, quod liber ille negatur a quibusdam esse Augustini; dicitur enim fuisse cujusdam Cisterciensis qui eum ex dictis Augustini compilavit, et quaedam de suo addidit; unde quod ibi scribitur, pro auctoritate habendum non est. Si tamen auctoritas debeat sustineri, dicendum, quod non debet intelligi quod anima separata, ex imaginatione et aliis hujusmodi potentiis afficiatur, quasi ipsa affectio sit actus praedictarum potentiarum; sed quia ex his quae anima per imaginationem et alias hujusmodi potentias commisit in corpore, in futuro afficietur vel in bonum vel in malum; ut sic imaginatio et hujusmodi potentiae non intelligantur elicere illam affectionem, sed elicuisse in corpore meritum affectionis illius.  
 
@@ -1145,7 +1145,7 @@ Ad quintum dicendum, quod sicut in 3 Lib., distinct. 26, quaest. 1, artic. 2, di
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod supposito, ex praedictis, quod ignis inferni non sit metaphorice dictus, nec ignis imaginarius, sed verus ignis corporeus; oportet dicere, quod anima ab igne corporeo poenas patietur, cum Dominus ignem illum diabolo et angelis ejus paratum esse dicat Matth. 25, qui sunt incorporei, sicut et illa. Sed quomodo pati possit, multipliciter assignatur.***
+Ad tertiam quaestionem dicendum, quod supposito, ex praedictis, quod ignis inferni non sit metaphorice dictus, nec ignis imaginarius, sed verus ignis corporeus; oportet dicere, quod anima ab igne corporeo poenas patietur, cum Dominus ignem illum diabolo et angelis ejus paratum esse dicat Matth. 25, qui sunt incorporei, sicut et illa. Sed quomodo pati possit, multipliciter assignatur.  
 
 Quidam enim dixerunt, quod hoc ipsum quod est ignem videre, sit animam ab igne pati; unde Gregorius in 4 *Dial*. dicit: *ignem eo ipso patitur anima quo videt*. Sed istud non videtur sufficere; quia quodlibet visum ex hoc quod videtur, est perfectio videntis; unde non potest in ejus poenam cedere inquantum est visus; sed quandoque est punitivum vel contristans per accidens, inquantum scilicet apprehenditur ut nocivum; unde oportet quod praeter hoc quod anima illum ignem videt, sit aliqua comparatio animae ad idem, secundum quam ignis animae noceat.  
 
@@ -1175,7 +1175,7 @@ Ad octavum dicendum, quod spiritus damnati nunquam sunt extra infernum, nisi ex 
 
 Expositio textus  
 
-****Omnes ad aetatem eamdem resurgent*, etc. Hoc intelligendum est non quantum ad mensuram corporis, sed quantum ad perfectionem corporis.***
+*Omnes ad aetatem eamdem resurgent*, etc. Hoc intelligendum est non quantum ad mensuram corporis, sed quantum ad perfectionem corporis.  
 
 *Triginta enim duorum annorum et trium mensium erat aetas Christi*. Hoc intelligendum est secundum illam opinionem quae ponit Christum in principio trigesimi anni nondum completi baptizatum fuisse. Sed secundum opinionem Chrysostomi, qui ponit quod Christus, cum baptizatus fuit, erat triginta annorum, et inceperat trigesimum primum, oportet dicere, quod Christus triginta tribus annis et tribus mensibus vixerit: tribus enim annis praedicavit, et mensibus quasi tribus.  
 

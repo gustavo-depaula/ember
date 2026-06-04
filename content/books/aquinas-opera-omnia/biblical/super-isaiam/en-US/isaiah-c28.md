@@ -1,5 +1,7 @@
 # Chapter 26
 
+^26:1^ In that day shall this canticle be sung in the land of Judah. Zion the city of our strength a savior, a wall and a bulwark shall be set therein.  
+
 > ^26:2^ Open the gates, and let the just nation, that keeps the truth, enter in.
 
 > ^26:3^ The old error is passed away: you will keep peace: peace, because we have hoped in you.

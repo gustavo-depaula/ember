@@ -1,5 +1,7 @@
 # Q. 3 - On the cause of sin
 
+***De causa peccati***
+
 ***Articulus 1***
 
 ***Utrum Deus sit causa peccati***
@@ -212,7 +214,7 @@ Articulus 4
 
 ***Utrum Diabolus possit inducere hominem ad peccandum, interius persuadendo***
 
-***Quarto quaeritur utrum Diabolus possit inducere hominem ad peccandum, interius persuadendo.***
+Quarto quaeritur utrum Diabolus possit inducere hominem ad peccandum, interius persuadendo.  
 
 Et videtur quod non. Omne enim agens a proposito cognoscit suum effectum. Sed Diabolus internas cogitationes non potest videre, ut dicitur in Lib. de Eccles. dogmatibus. Ergo non potest interius persuadere, cogitationes interiores causando.  
 
@@ -284,7 +286,7 @@ Articulus 6
 
 ***Utrum ignorantia possit esse causa peccati***
 
-***Sexto quaeritur de causa peccati ex parte ipsius hominis peccantis, utrum ignorantia possit esse causa peccati.***
+Sexto quaeritur de causa peccati ex parte ipsius hominis peccantis, utrum ignorantia possit esse causa peccati.  
 
 Et videtur quod non. Ignorantia enim causat involuntarium, ut Damascenus dicit. Sed involuntarium opponitur peccato; peccatum enim adeo est voluntarium, quod si non sit voluntarium, non est peccatum, ut Augustinus dicit. Ergo ignorantia non potest esse causa peccati.  
 
@@ -528,9 +530,9 @@ Ad decimumquintum dicendum, quod passionibus neque meremur neque demeremur, quas
 
 Articulus 10  
 
-***Utrum peccata quae per infirmitatem committuntur, imputentur homini ad culpam mortalem***
+Utrum peccata quae per infirmitatem committuntur, imputentur homini ad culpam mortalem  
 
-***Decimo quaeritur utrum peccata quae per infirmitatem committuntur, imputentur homini ad culpam mortalem.***
+Decimo quaeritur utrum peccata quae per infirmitatem committuntur, imputentur homini ad culpam mortalem.  
 
 Et videtur quod non. Nihil enim imputatur ad culpam mortalem quod homo non facit voluntarie. Sed huiusmodi peccata quae ex infirmitate committuntur, non facit homo voluntarie; de his enim apostolus dicit Galat. V, 17: *caro concupiscit adversus spiritum (...) ut non quaecumque vultis, illa faciatis*. Ergo huiusmodi peccata non imputantur homini ad culpam mortalem.  
 
@@ -586,7 +588,7 @@ Articulus 12
 
 ***Utrum aliquis possit ex malitia seu ex certa scientia peccare***
 
-***Duodecimo quaeritur utrum aliquis possit ex malitia seu ex certa scientia peccare.***
+Duodecimo quaeritur utrum aliquis possit ex malitia seu ex certa scientia peccare.  
 
 Et videtur quod non. Ad illud enim homo intendit quod ex certa scientia operatur. Sed secundum quod Dionysius dicit IV cap. de Divin. Nomin., nullus intendens ad malum operatur. Ergo nullus ex certa scientia malum operatur.  
 
@@ -658,9 +660,9 @@ Ad tertium notandum est, quod non omne peccatum quod ex alio peccato causatur, p
 
 Articulus 13  
 
-***Utrum ille qui peccat ex malitia, gravius peccet quam ille qui peccat ex infirmitate***
+Utrum ille qui peccat ex malitia, gravius peccet quam ille qui peccat ex infirmitate  
 
-***Tertiodecimo quaeritur utrum ille qui peccat ex malitia, gravius peccet quam ille qui peccat ex infirmitate.***
+Tertiodecimo quaeritur utrum ille qui peccat ex malitia, gravius peccet quam ille qui peccat ex infirmitate.  
 
 Et videtur quod non. Dicitur enim Apoc. III, 15-16: *utinam calidus esses, aut frigidus: sed quia tepidus es, incipiam te evomere ex ore meo*. Calidus enim videtur esse qui bonum operatur; tepidus autem qui ex infirmitate peccat, sicut incontinens; omnino autem frigidus qui ex malitia peccat sicut intemperatus. Ergo periculosius est ex infirmitate quam ex malitia peccare.  
 
@@ -702,7 +704,7 @@ Articulus 14
 
 ***Utrum omne peccatum ex malitia sit peccatum in spiritum sanctum***
 
-***Quartodecimo quaeritur utrum omne peccatum ex malitia sit peccatum in spiritum sanctum.***
+Quartodecimo quaeritur utrum omne peccatum ex malitia sit peccatum in spiritum sanctum.  
 
 Et videtur quod non. Peccatum enim in spiritum sanctum est peccatum oris, ut patet per id quod dicitur Matth. XII, 32: *qui dixerit contra spiritum sanctum, non remittetur ei neque in hoc saeculo neque in futuro*. Peccatum autem ex malitia potest esse cordis et operis. Ergo non omne peccatum ex malitia, est peccatum in spiritum sanctum.  
 

@@ -1,6 +1,8 @@
 # C. 5 - The corruption of Israel’s leaders
 
-***^5:1^ Circuite vias Jerusalem, et aspicite, et considerate, et quaerite in plateis ejus, an inveniatis virum facientem judicium, et quaerentem fidem: et propitius ero ei.***
+***Lectio 1***
+
+^5:1^ Circuite vias Jerusalem, et aspicite, et considerate, et quaerite in plateis ejus, an inveniatis virum facientem judicium, et quaerentem fidem: et propitius ero ei.  
 
 > ^5:2^ Quod si etiam, vivit Dominus, dixerint; et hoc falso jurabunt.
 
@@ -46,7 +48,7 @@ Secundo adjungit populi incorrigibilitatem, quia nec emendatur percussione: ***p
 
 Lectio 2  
 
-***^5:4^ Ego autem dixi: forsitan pauperes sunt et stulti, ignorantes viam Domini, et judicium Dei sui.***
+^5:4^ Ego autem dixi: forsitan pauperes sunt et stulti, ignorantes viam Domini, et judicium Dei sui.  
 
 > ^5:5^ Ibo igitur ad optimates, et loquar eis: ipsi enim cognoverunt viam Domini, et judicium Dei sui. Et ecce magis hi simul confregerunt jugum, ruperunt vincula.
 
@@ -60,7 +62,7 @@ Tertio proponit culpam: ***et ecce magis*** quam populus, quia audacius, minus t
 
 Lectio 3  
 
-***^5:6^ Idcirco percussit eos leo de silva, lupus ad vesperam vastavit eos, pardus vigilans super civitates eorum. Omnis qui egressus fuerit ex eis capietur, quia multiplicatae sunt praevaricationes eorum, confortatae sunt aversiones eorum.***
+^5:6^ Idcirco percussit eos leo de silva, lupus ad vesperam vastavit eos, pardus vigilans super civitates eorum. Omnis qui egressus fuerit ex eis capietur, quia multiplicatae sunt praevaricationes eorum, confortatae sunt aversiones eorum.  
 
 > **34**. Hic comminatur poenam:
 
@@ -70,7 +72,7 @@ Secundo resumit causam, ***multiplicatae sunt***, quantum ad numerum, ***confort
 
 Lectio 4  
 
-***^5:7^ Super quo propitius tibi esse potero? Filii tui dereliquerunt me, et jurant in his qui non sunt dii. Saturavi eos et moechati sunt, et in domo meretricis luxuriabantur.***
+^5:7^ Super quo propitius tibi esse potero? Filii tui dereliquerunt me, et jurant in his qui non sunt dii. Saturavi eos et moechati sunt, et in domo meretricis luxuriabantur.  
 
 > ^5:8^ Equi amatores in feminas, et emissarii facti sunt, unusquisque ad uxorem proximi sui hinniebat.
 
@@ -174,7 +176,7 @@ Et beneficiorum cessationem, ***iniquitates vestrae***. Isa. 59: *peccata vestra
 
 Lectio 6  
 
-***^5:26^ Quia inventi sunt populo meo impii insidiantes quasi aucupes, laqueos ponentes, et pedicas ad capiendos viros.***
+^5:26^ Quia inventi sunt populo meo impii insidiantes quasi aucupes, laqueos ponentes, et pedicas ad capiendos viros.  
 
 > ^5:27^ Sicut decipula plena avibus, sic domus eorum plenae dolo. Ideo magnificati sunt et ditati,
 
@@ -200,7 +202,7 @@ Secundo ostendit eorum injustitiam quantum ad justi judicii omissionem, ***causa
 
 Lectio 7  
 
-***^5:29^ Numquid super his non visitabo, dicit Dominus, aut super gentem hujuscemodi non ulciscetur anima mea?***
+^5:29^ Numquid super his non visitabo, dicit Dominus, aut super gentem hujuscemodi non ulciscetur anima mea?  
 
 > **38**. Hic comminatur poenam. Deut. 32: *reddam ultionem hostibus meis, et his qui oderunt me retribuam*.
 
@@ -224,7 +226,7 @@ Secundo innuit admirabilem poenam: ***quid igitur fiet in novissimo ejus?*** sci
 
 Collationes  
 
-***Notandum, quod est multiplex ***paupertas***; scilicet terrenae possessionis. Jacobi 2: *nonne Deus elegit pauperes in hoc mundo, divites in fide, et heredes regni quod repromisit Deus diligentibus se?* Humilitatis. Matth. 5: *beati pauperes spiritu, quoniam ipsorum est regnum caelorum*. Afflictionis. Psal. 68: *ego sum pauper et dolens: salus tua, Domine, suscepit me*. Cognitionis. Apoc. 3: *nescis quia tu es pauper*. Imperfectionis. Thren. 3: *ego vir videns paupertatem meam in virga indignationis ejus*.***
+Notandum, quod est multiplex ***paupertas***; scilicet terrenae possessionis. Jacobi 2: *nonne Deus elegit pauperes in hoc mundo, divites in fide, et heredes regni quod repromisit Deus diligentibus se?* Humilitatis. Matth. 5: *beati pauperes spiritu, quoniam ipsorum est regnum caelorum*. Afflictionis. Psal. 68: *ego sum pauper et dolens: salus tua, Domine, suscepit me*. Cognitionis. Apoc. 3: *nescis quia tu es pauper*. Imperfectionis. Thren. 3: *ego vir videns paupertatem meam in virga indignationis ejus*.  
 
 Item notandum, quod multiplex est ***visitatio***; scilicet consolationis. Lucae 1: *visitavit nos oriens ex alto*. Correptionis. Psal. 88: *visitabo in virga iniquitates eorum*. Damnationis. Infra 8: ***in tempore visitationis suae corruent, dicit Dominus. Congregans congregabo eos, ait Dominus***.  
 

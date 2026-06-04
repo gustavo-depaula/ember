@@ -1,8 +1,10 @@
 # D. 21 - Death and resurrection of Christ
 
+***Death and resurrection of Christ***
+
 ***Division of the text***
 
-***After having considered the things that Christ assumed with his human nature, namely grace, knowledge, and defects, and the things that he did through his human nature, namely his merits, now the Master considers the death that he endured in his human nature.***
+After having considered the things that Christ assumed with his human nature, namely grace, knowledge, and defects, and the things that he did through his human nature, namely his merits, now the Master considers the death that he endured in his human nature.  
 
 Now, this part is divided into two:  
 
@@ -74,7 +76,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows.Parallels: above, d. 2, q. 2, a. 1. resp. 1, ad 1, 2; resp. 3, ad 4; a. 3, resp. 2, ad 1; *ST* III.50.2; 53.1.ad 2; *De spiritualibus creaturis*, a. 3, ad 5; *Quodl.* II, q. 1, a. 1. It appears that in Christ’s death the Godhead was separated from his flesh.***
+To the first we proceed as follows.Parallels: above, d. 2, q. 2, a. 1. resp. 1, ad 1, 2; resp. 3, ad 4; a. 3, resp. 2, ad 1; *ST* III.50.2; 53.1.ad 2; *De spiritualibus creaturis*, a. 3, ad 5; *Quodl.* II, q. 1, a. 1. It appears that in Christ’s death the Godhead was separated from his flesh.  
 
 Obj. 1: For upon removing the middle, the extremes that are joined together by the middle are now separated. But, as was said in Distinction 2,Above*,* d. 2, q. 2, a. 2, resp. 1. the divinity was joined to the flesh by the mediation of the soul. Therefore when the soul was separated from the flesh, so too was the divinity.  
 
@@ -90,7 +92,7 @@ Furthermore, Pope Leo says, *so great was the union of God and man that it could
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the Godhead was separated from the soul.Parallels: *ST* III.50.3; *Quodl*. II, q. 1, a. 1. For both deaths were pledged to man by the seduction of the devil, as was said in the text*Sent*. III, 20.1(68).2.—namely, the death by which the body is separated from the soul and that by which the soul is separated from God. But Christ in himself accepted the death by which the body is separated from the soul, so that he might remove from us what came into us by the devil’s seduction. Therefore similarly he should suffer the death that is the separation of the soul from the Godhead.***
+Obj. 1: Moreover, it appears that the Godhead was separated from the soul.Parallels: *ST* III.50.3; *Quodl*. II, q. 1, a. 1. For both deaths were pledged to man by the seduction of the devil, as was said in the text*Sent*. III, 20.1(68).2.—namely, the death by which the body is separated from the soul and that by which the soul is separated from God. But Christ in himself accepted the death by which the body is separated from the soul, so that he might remove from us what came into us by the devil’s seduction. Therefore similarly he should suffer the death that is the separation of the soul from the Godhead.  
 
 Obj. 2: Furthermore, whoever lays something aside separates it from himself. But the Son of God says of himself, *I lay down my life* (John 10:15). Therefore he separated it from himself.  
 
@@ -108,7 +110,7 @@ Furthermore, the Son of God is said to have descended into hell. But this belong
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that Christ’s body at death was not separated from the Godhead. The reason for this can be taken from three sides. First, from the side of God: for, because he is immutable, he gives unchangeability to what is perfectly joined to him, such that it adheres to him immutably. Second, from the side of what was itself assumed: for by his death, which he endured out of obedience to the Father, he should not have lost his dignity, but rather it should be made more brilliant. Third, from the end of the assumption: for the things that were done after his death regarding his body would not have been salutary for us had the Godhead not been still joined to it.***
+To the first question, I answer that Christ’s body at death was not separated from the Godhead. The reason for this can be taken from three sides. First, from the side of God: for, because he is immutable, he gives unchangeability to what is perfectly joined to him, such that it adheres to him immutably. Second, from the side of what was itself assumed: for by his death, which he endured out of obedience to the Father, he should not have lost his dignity, but rather it should be made more brilliant. Third, from the end of the assumption: for the things that were done after his death regarding his body would not have been salutary for us had the Godhead not been still joined to it.  
 
 Reply Obj. 1: As was said aboveAbove, d. 2, q. 2, a. 1, resp. 1. as regards the body’s unitability, the soul is a necessary middle; for the body can be united to him only insofar as it is animated. But with regard to actual union it is a congruent middle—the removal of which does not necessarily undo the union, as was also said above in Distinction 2. Therefore, when the soul has been separated from the body, the order to the soul still remained within the body, and it remained unitable and even united [to the Godhead].  
 
@@ -120,7 +122,7 @@ Reply Obj. 4: The body is not able to receive habitual grace, because the latter
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, for those same reasons, in Christ’s death the soul was not separated from the Word, inasmuch as the soul is more immediately and in more ways is united to the Word than is the body.***
+To the second question, it should be said that, for those same reasons, in Christ’s death the soul was not separated from the Word, inasmuch as the soul is more immediately and in more ways is united to the Word than is the body.  
 
 Reply Obj. 1: The death of the soul occurs in virtue of the soul’s separation from God through its sin, as opposed to the joining that occurs through its charity. It was unbecoming that Christ assume this death, just as neither was it becoming that he assume sin, as was said above in Distinction 15.Above*,* d. 15, q. 1, a. 1. And therefore this argument is irrelevant to the proposed matter; for even if there were a perfect separation of the soul from the Word as regards the joining in the person, still the soul would not be dead, but alive, insofar as it would remain joined to God through its charity.  
 
@@ -138,7 +140,7 @@ Article 2
 
 ***Whether Christ’s body after his death should have decomposed***
 
-***To the second we proceed as follows.Parallels: *ST* III.51.3; 53.1.ad 1; *Compendium theol*., ch. 234; *Super Ioan*. 2, lect. 3. It appears that Christ’s body, after his death, should have decomposed, that is, turned to dust.***
+To the second we proceed as follows.Parallels: *ST* III.51.3; 53.1.ad 1; *Compendium theol*., ch. 234; *Super Ioan*. 2, lect. 3. It appears that Christ’s body, after his death, should have decomposed, that is, turned to dust.  
 
 Obj. 1: For Hebrews 2:17 says, Christ *had to be made like his brethren in every respect*. But the bodies of other men, who are being called Christ’s brothers, turn to dust. Therefore Christ’s body also should have turned to dust.  
 
@@ -172,7 +174,7 @@ Article 3
 
 ***Whether the Son of God should be said to have died***
 
-***To the third we proceed as follows. It appears that Christ, or the Son of God, should not be said to have died.***
+To the third we proceed as follows. It appears that Christ, or the Son of God, should not be said to have died.  
 
 Obj. 1: For whatever things hold an understanding that is repugnant to the Son of God are not predicated of him. But since the Son of God is the life, as is said in John 14:6, to have died holds an understanding that is repugnant to him. Therefore he should not be said to have died.  
 
@@ -206,7 +208,7 @@ Question 2
 
 ***Christ's Resurrection***
 
-***Next, we consider Christ’s Resurrection. And regarding this, four things are asked about:***
+Next, we consider Christ’s Resurrection. And regarding this, four things are asked about:  
 
 first, the necessity of the Resurrection;  
 
@@ -220,7 +222,7 @@ Article 1
 
 ***Whether it was necessary that Christ rise***
 
-***To the first we proceed as follows.Parallel: *ST* III.53.1. It appears that it was not necessary that Christ rise.***
+To the first we proceed as follows.Parallel: *ST* III.53.1. It appears that it was not necessary that Christ rise.  
 
 Obj. 1: For, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 4, ch. 27 (PG 94:1219). “resurrection” is the rising again of one who had fallen and was decomposing. But Christ did not fall through sin, nor did his body decompose. Therefore resurrection is not owed to him.  
 
@@ -248,7 +250,7 @@ Article 2
 
 ***Whether Christ ought to have risen on the third day***
 
-***To the second we proceed as follows.Parallels: *In IV Sent*., d. 43, a. 3, resp. 1, ad 1: *ST* III.51.4; 53.2; *Compendium theol.*, ch. 236; *In Symbolorum Apostolorum*, a. 5; *In Psalmos* 15*; Super Ioan*. 2, lect. 3. It appears that Christ should not have risen on the third day.***
+To the second we proceed as follows.Parallels: *In IV Sent*., d. 43, a. 3, resp. 1, ad 1: *ST* III.51.4; 53.2; *Compendium theol.*, ch. 236; *In Symbolorum Apostolorum*, a. 5; *In Psalmos* 15*; Super Ioan*. 2, lect. 3. It appears that Christ should not have risen on the third day.  
 
 Obj. 1: For the head is of the same form in nature as its members. But through the resurrection our nature is restored from its ability to suffer and mortality. Therefore Christ ought to rise together with the others, and not on the third day.  
 
@@ -288,7 +290,7 @@ Article 3
 
 ***Whether Christ should have proven his Resurrection with arguments***
 
-***To the third we proceed as follows.Parallels: *ST* III.55.5, 6; *Compendium theol.*, ch. 238. It appears that Christ should not have proven his Resurrection with arguments.***
+To the third we proceed as follows.Parallels: *ST* III.55.5, 6; *Compendium theol.*, ch. 238. It appears that Christ should not have proven his Resurrection with arguments.  
 
 Obj. 1: For Ambrose says, *where faith is sought, take away arguments*.Ambrose, *De fide libri V, ad Gratianum Augustum*, bk. 1, ch. 13, para. 84 (CSEL 78; PL 16:570). But faith is sought about the Resurrection. Therefore arguments should not be made for the Resurrection.  
 
@@ -328,7 +330,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed as follows.Parallels: *ST* III.55.5, 6; *Compendium theol.*, ch. 238. It appears that the argument taken from his visible appearance was unfitting.***
+To the fourth we proceed as follows.Parallels: *ST* III.55.5, 6; *Compendium theol.*, ch. 238. It appears that the argument taken from his visible appearance was unfitting.  
 
 Obj. 1: For to manifest the Resurrection’s veracity it was necessary that it be a true human body that rises. But the angels, who do not have true human bodies, appeared to many in the Old Testament. Therefore through a visible appearance the truth of the Resurrection is not manifested.  
 
@@ -342,7 +344,7 @@ Furthermore, this is clear from what is said in 1 John 1:3: *that which we have 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he should not have shown himself to them as susceptible to touch.Parallels: *ST* III.55.6.ad 3; *Compendium theol*., ch. 238. For what can be touched is contrary to what is incorruptible, as Gregory says.Gregory the Great, *Homiliae in euangelia*, bk. 2, hom. 26, para. 1 (CCSL 141; PL 76:1198) But contraries cannot be in the same thing. Therefore, since Christ’s body was incorruptible, it appears that he should not present himself as feelable.***
+Obj. 1: Moreover, it appears that he should not have shown himself to them as susceptible to touch.Parallels: *ST* III.55.6.ad 3; *Compendium theol*., ch. 238. For what can be touched is contrary to what is incorruptible, as Gregory says.Gregory the Great, *Homiliae in euangelia*, bk. 2, hom. 26, para. 1 (CCSL 141; PL 76:1198) But contraries cannot be in the same thing. Therefore, since Christ’s body was incorruptible, it appears that he should not present himself as feelable.  
 
 Obj. 2: Furthermore, the tangible differences are hot and cold and contraries of this sort. But in glorified bodies these contraries will not be present, as was said, nor will they even be in the elements after the renewal of the world. Therefore Christ’s body could not be felt.  
 
@@ -358,7 +360,7 @@ Furthermore, among all the senses man has the most certain sense of touch, as is
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that he should not have proved his Resurrection through his scars.Parallels: *ST* III.55.5.ad 2; *Compendium theol*., ch. 238; *Super Ioan*. 21, lect. 6, n. 2. For through his Resurrection he demonstrated ours. But every corruption will be removed from those who rise. Therefore, since a scar is a certain corruption, it appears that Christ ought not prove his own Resurrection through his scars.***
+Obj. 1: Moreover, it appears that he should not have proved his Resurrection through his scars.Parallels: *ST* III.55.5.ad 2; *Compendium theol*., ch. 238; *Super Ioan*. 21, lect. 6, n. 2. For through his Resurrection he demonstrated ours. But every corruption will be removed from those who rise. Therefore, since a scar is a certain corruption, it appears that Christ ought not prove his own Resurrection through his scars.  
 
 Obj. 2: Furthermore, the state of those rising is an immutable state. Therefore Christ should have demonstrated in himself only what was always going to be the case. But the scars should not always remain in Christ, since, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 4, ch. 18 (PG 94:1190). they were in Christ only in virtue of a dispensation. Therefore he should not have shown the scars.  
 
@@ -370,7 +372,7 @@ Furthermore, it is becoming for a victor both to have and to show the insignia o
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it appears that he should not have manifested his Resurrection by eating.Parallels: *ST* III.55.5.ad 2; *Compendium theol*., ch. 238; *Super Ioan*. 21, lect. 2, n. 5. For eating has to do with animal life. But through Resurrection one does not go on to an animal life, as the Saracens and the Jews say. Therefore Christ should not have proved his Resurrection by eating.***
+Obj. 1: Moreover, it appears that he should not have manifested his Resurrection by eating.Parallels: *ST* III.55.5.ad 2; *Compendium theol*., ch. 238; *Super Ioan*. 21, lect. 2, n. 5. For eating has to do with animal life. But through Resurrection one does not go on to an animal life, as the Saracens and the Jews say. Therefore Christ should not have proved his Resurrection by eating.  
 
 Obj. 2: Furthermore, food that is eaten is converted into the body of the one eating it. But nothing was capable of being converted into Christ’s body, since it was already beyond the state of generation and corruption. Therefore it appears that he should not eat.  
 
@@ -382,7 +384,7 @@ Furthermore, the truth of the Incarnation is proved through what is least among 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, for the truth of the Resurrection it is necessary that numerically the same one rise. Now, individuation, in virtue of which something is one in number, is manifested from diverse accidents, the collection of which is not found in another. And because vision, as the Philosopher says in the beginning of the *Metaphysics*,Aristotle*, Metaphysics* 1.1, 980a27; Aquinas, *In Metaph.*, bk. 1, lect. 1, nn. 5–8. shows us many differences of things, therefore what is the same in number is never better manifested than through vision. Therefore a visible appearance was one of the arguments for the Resurrection.***
+To the first question, I answer that, for the truth of the Resurrection it is necessary that numerically the same one rise. Now, individuation, in virtue of which something is one in number, is manifested from diverse accidents, the collection of which is not found in another. And because vision, as the Philosopher says in the beginning of the *Metaphysics*,Aristotle*, Metaphysics* 1.1, 980a27; Aquinas, *In Metaph.*, bk. 1, lect. 1, nn. 5–8. shows us many differences of things, therefore what is the same in number is never better manifested than through vision. Therefore a visible appearance was one of the arguments for the Resurrection.  
 
 Reply Obj. 1: The visible appearance was not brought in to prove the truth of his flesh (since this was proved through other arguments), but rather to prove the identity of the supposit, supposing the truth of the body.  
 
@@ -392,7 +394,7 @@ Reply Obj. 3: Christ shows his disciples the natural form of his body, in which 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, on account of the vehemence of imagination it happens sometimes that what the imagination apprehends appears to be present in vision, and this not only during sleep but even in when one is awake. Likewise, it also happens that due to the interposition of certain bodies certain silhouettes appear, as though one were seeing the shapes of men or other animals. Again, even the visible appearances of demons, and even angels, usually came to be through condensed aerial bodies; this is why they dissolved immediately when they wished it. And therefore in order to manifest the veracity of his Resurrection, the Lord joined feeling to touch, to rule out a vision through an internal change of sight arising from imagination, and the vision of shadows, and the vision of spiritual apparitions.***
+To the second question, it should be said that, on account of the vehemence of imagination it happens sometimes that what the imagination apprehends appears to be present in vision, and this not only during sleep but even in when one is awake. Likewise, it also happens that due to the interposition of certain bodies certain silhouettes appear, as though one were seeing the shapes of men or other animals. Again, even the visible appearances of demons, and even angels, usually came to be through condensed aerial bodies; this is why they dissolved immediately when they wished it. And therefore in order to manifest the veracity of his Resurrection, the Lord joined feeling to touch, to rule out a vision through an internal change of sight arising from imagination, and the vision of shadows, and the vision of spiritual apparitions.  
 
 Reply Obj. 1: Every tangible body is by its nature corruptible. This is is why, according to the philosophers, the heavens are visible but not tangible. But what is by its nature tangible can be incorruptible through glory. Whence although corruptible and incorruptible are contraries simply speaking, on account of which Gregory saysGregory the Great, *Homiliae in evangelia*, bk. 2, hom. 26, para. 1 (CCSL 141:218; PL 76:1198). that [Christ] manifests two contraries within himself, nonetheless to be corruptible by nature and incorruptible by grace are not contrary. Whence, just as the glorious body has it in its power that it can be seen or not seen, so too does it have it in its power that it be felt or not felt, and both of these without a miracle. But it is felt through its nature as a body, but it cannot be felt insofar as it is the instrument of a glorified soul.  
 
@@ -406,7 +408,7 @@ Reply Obj. 5: Through touch we know the hot and the cold, the hard and the soft,
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the scars were signs of Christ’s death, so in virtue of this accident it was shown that the one who has arisen is the same as he who had died.***
+To the third question, it should be said that the scars were signs of Christ’s death, so in virtue of this accident it was shown that the one who has arisen is the same as he who had died.  
 
 Reply Obj. 1: According to Augustine in the *City of God*,Augustine, *City of God*, bk. 22, ch. 19 (CCSL 48; PL 41:781). the scars of wounds of this sort remain on victors, and they remained on Christ to adorn him as insignia of his own victory, and there is no corruption or defect arising from such scars in him. Whence, although in certain saints certain limbs were severed, they need not rise without them, but in the place of the cut some vestige might remain, as an adornment of their glory.  
 
@@ -416,7 +418,7 @@ Reply Obj. 3: Thomas believed only upon looking at the wounds; this is why it is
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that by eating he shows that a true human nature has remained, because of the works of life that are the least, as was said before.***
+To the fourth question, it should be said that by eating he shows that a true human nature has remained, because of the works of life that are the least, as was said before.  
 
 Reply Obj. 1: Believing in the truth of the Resurrection was more difficult than believing in the glory of the one rising, given that he had arisen. And therefore more arguments were given to prove the truth of his human nature, which remains in the sate of glory, as regards all its powers and members, so that it might be the whole nature. However, not all uses of the powers and members would remain, since there would be no necessity for them. And therefore such eating was not out of any necessity, as is the case in animal life, but it more belonged to his power—that is, to manifest the natural power.  
 
@@ -426,6 +428,6 @@ Reply Obj. 3: In the angels the eating is not to manifest a natural nutritive po
 
 Exposition of the text  
 
-****No one takes it from me*.*Sent.* 3. 21. 1(68). 8, quoting John 10:17. On the contrary, then Christ was not murdered through the violence of those who crucified him. It should be said that, as much as was in them, those men inflicted the violence, although they were not able to inflict that violence on Christ on the side of his person, but only on the side of his human body.***
+*No one takes it from me*.*Sent.* 3. 21. 1(68). 8, quoting John 10:17. On the contrary, then Christ was not murdered through the violence of those who crucified him. It should be said that, as much as was in them, those men inflicted the violence, although they were not able to inflict that violence on Christ on the side of his person, but only on the side of his human body.  
 
 Again, *the man was changed into the Word, so that he should become better than he was*.*Sent*. III, 21.2(69).2, quoting Augustine, *Enarrationes in Psalmos*, on Ps 130, para. 10 (CCSL 40; PL 37:1711). On the contrary, both natures remained without a change. It should be said that the human nature in Christ, through the fact that it was assumed into the divine person, was not changed from its natural condition. Rather, it received a fuller perfection, in virtue of which it became better.

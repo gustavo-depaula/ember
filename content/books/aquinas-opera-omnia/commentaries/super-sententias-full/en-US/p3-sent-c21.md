@@ -1,8 +1,10 @@
 # D. 20 - Generation of children in the original state of man
 
+***Generation of children in the original state of man***
+
 ***Division of the text***
 
-***After the Master has addressed Adam’s immortality, through which the being of the individual was preserved perpetual, here he addresses the generation of children, through which the species is multiplied in individuals.***
+After the Master has addressed Adam’s immortality, through which the being of the individual was preserved perpetual, here he addresses the generation of children, through which the species is multiplied in individuals.  
 
 This is divided into two parts.  
 
@@ -82,7 +84,7 @@ Article 1
 
 ***Whether there would have been generation in the state of innocence***
 
-***To the first we proceed as follows.Parallel text: *ST* I.98.1. It seems that in the state of innocence there would not have been generation.***
+To the first we proceed as follows.Parallel text: *ST* I.98.1. It seems that in the state of innocence there would not have been generation.  
 
 Obj. 1: For generation is only for the sake of the multiplication of individuals. But, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 4, ch. 24 (PG 94:1207). God was able to multiply this race, namely, the human race, without generation. Therefore, since the more expedient way should always be chosen, it seems that there would not have been generation.  
 
@@ -108,9 +110,9 @@ Reply Obj. 4: In the first works, nature was to be established, and thus those w
 
 Article 2  
 
-***Whether in the state of innocence generation would have been through sexual intercourse***
+Whether in the state of innocence generation would have been through sexual intercourse  
 
-***To the second we proceed as follows.Parallel text: *ST* I.98.2. It seems that in the first state there would not have been generation through sexual intercourse.***
+To the second we proceed as follows.Parallel text: *ST* I.98.2. It seems that in the first state there would not have been generation through sexual intercourse.  
 
 Obj. 1: For there cannot be intercourse without the corruption of virginity. But in the first state it would have been unbecoming for virginity to be corrupted, when human nature was altogether integral and not to be deprived of any dignity. Therefore, it seems that there would not have been generation through intercourse there.  
 
@@ -148,7 +150,7 @@ Question 2
 
 ***The qualities of the children of our first parents***
 
-***Then a question is asked concerning the qualities of the children. Three questions are asked concerning this:***
+Then a question is asked concerning the qualities of the children. Three questions are asked concerning this:  
 
 first, what qualities they would have had with respect to the body;  
 
@@ -158,9 +160,9 @@ third, what qualities they would have had with respect to affection in the love 
 
 Article 1  
 
-***Whether in the state of innocence men would have had every perfection of body as regards strength, stature, and sex immediately after birth***
+Whether in the state of innocence men would have had every perfection of body as regards strength, stature, and sex immediately after birth  
 
-***To the first we proceed as follows.Parallel texts: *ST* I.99.1; *On Truth*, q. 18, a. 8. It seems that in the state of innocence, human beings would have had, immediately after being born, a perfect body both with regard to stature and with regard to sex.***
+To the first we proceed as follows.Parallel texts: *ST* I.99.1; *On Truth*, q. 18, a. 8. It seems that in the state of innocence, human beings would have had, immediately after being born, a perfect body both with regard to stature and with regard to sex.  
 
 Obj. 1: For as the Philosopher says in *On the Generation of Animals* 16,Aristotle, *The Generation of Animals* 2.3, 737a25. woman is an anomalous man. But something is called “anomalous” which is not intended through itself, but rather comes about due to a corruption or defect. Therefore, since in the first state there would have been no defect of natural activity, it seems that all would have been born in the perfect sex, namely, the male.  
 
@@ -190,9 +192,9 @@ Reply Obj. 5: It is due to man’s noble constitution that he undergoes such def
 
 Article 2  
 
-***Whether in the state of innocence children would have been perfect in knowledge immediately upon birth***
+Whether in the state of innocence children would have been perfect in knowledge immediately upon birth  
 
-***To the second we proceed as follows.Parallel texts: *ST* I.101.1; *On Truth*, q. 18, a. 7. It seems that children would have been perfect in knowledge immediately upon birth.***
+To the second we proceed as follows.Parallel texts: *ST* I.101.1; *On Truth*, q. 18, a. 7. It seems that children would have been perfect in knowledge immediately upon birth.  
 
 Obj. 1: For every power whose act is impeded by bodily imperfection is a material power. But the intellect is not a bodily act, as the Philosopher says.Aristotle, *On the Soul* 3.4, 429a25. Therefore, it is not naturally impeded from its act due to a deficiency of the body. Therefore, it seems that in the state of integral nature, children would have had perfect knowledge, even if they endured deficiency in their members.  
 
@@ -226,7 +228,7 @@ Article 3
 
 ***Whether in the state of innocence children would be born in grace***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.100.1–2; I-II.81.2; *On Truth*, q. 18, a. 7; *On Evil*, q. 4, a. 8; q. 5, a. 7, ad 8; *Quodl*. V, q. 5, a. 1. It seems that in the state of innocence children would have been born in grace.***
+To the third we proceed as follows.Parallel texts: *ST* I.100.1–2; I-II.81.2; *On Truth*, q. 18, a. 7; *On Evil*, q. 4, a. 8; q. 5, a. 7, ad 8; *Quodl*. V, q. 5, a. 1. It seems that in the state of innocence children would have been born in grace.  
 
 Obj. 1: For according to the Philosopher’s view, as the proposed thing is in the proposed situation, so the opposed thing is in the opposed situation.From Aristotle’s *Topics* 2.4, 111b16–23. In this objection, the maxim is being applied to argue that if a man infected with original sin transmits sin, then a just man transmits justice. But man corrupted through sin transmits sin to his descendants. Therefore, he would also have transmitted to his descendants the grace and justice that he had.  
 
@@ -262,7 +264,7 @@ Reply Sed Contra 7: The other authority cited refers to gratuitous justice, not 
 
 Exposition of the text  
 
-****‘The infirmity . . . is relieved by the decency of marriage*,’*Sent*. II, 20.1(116).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 9, ch. 7 (CSEL 28.1:275; PL 34:397). namely, in such a way that, without marriage, it would have had the shamefulness of fault and punishment, whereas through the nobility of matrimony, with the shamefulness of punishment remaining, the shamefulness of fault is removed.***
+*‘The infirmity . . . is relieved by the decency of marriage*,’*Sent*. II, 20.1(116).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 9, ch. 7 (CSEL 28.1:275; PL 34:397). namely, in such a way that, without marriage, it would have had the shamefulness of fault and punishment, whereas through the nobility of matrimony, with the shamefulness of punishment remaining, the shamefulness of fault is removed.  
 
 *‘But it was possible for them to have honorable nuptials in paradise*.’*Sent*. II, 20.1(116).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 9, ch. 3 (CSEL 28.1:271; PL 34:395). For in that state marriage would have been more noble than virginity simply due to the fact that, integrity of mind suffering no injury, the fruitfulness of the flesh in matrimony would have taken precedence over the sterility of virginity.  
 

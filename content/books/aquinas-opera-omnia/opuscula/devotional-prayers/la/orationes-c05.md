@@ -1,5 +1,7 @@
 # I Give Thanks to You
 
+***Oratio altera post Communionem***
+
 ***Gratias tibi ago,***
 
 > Domine Sancte,
@@ -30,7 +32,7 @@
 > Sit
 > vitiorum meorum evacuatio;
 > concupiscentiae et libidinis
-> exterminatio;The Marietti edition omits *concupiscentiae et libidinis exterminatio*.
+> exterminatio; *(The Marietti edition omits *concupiscentiae et libidinis exterminatio*.)*
 > caritatis
 > et patientiae,
 > humilitatis

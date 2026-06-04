@@ -1,8 +1,10 @@
 # On Angels
 
+***Question 3***
+
 ***On angels***
 
-***Then there were questions concerning angels. And there were three questions about this:***
+Then there were questions concerning angels. And there were three questions about this:  
 
 first, whether in any way an angel is the cause of the rational soul;  
 
@@ -14,7 +16,7 @@ Article 1
 
 ***Whether in any way an angel is the cause of the rational soul***
 
-***To the first we proceed thus. It seems that an angel is the cause of the rational soul.***
+To the first we proceed thus. It seems that an angel is the cause of the rational soul.  
 
 Obj. 1: For among any things that are made equal in nature,*Book of Causes*, prop. 2; Aquinas, *In II Sent*. 2.1.1, obj. 1; Boethius, *Consolation of Philosophy* 5.6, 38 (CCSL 94:103; PL 63:859–62). but such that one of them is prior to the other in the order of nature, the one which is prior is the cause of the one which is posterior. Yet soul and angel are made equal in nature: for men and angels are *equal by nature*, but unequal *by office*.Cf. Aquinas, *Disputed Questions on Spiritual Creatures*, a. 2, obj. 11; Augustine, *On Free Will* 3.11, 32 (CCSL 29:294; PL 32:1287). Nevertheless, in the order of nature, an angel is prior to the human soul because it is simpler. Therefore, an angel is the cause of the rational soul.  
 
@@ -38,7 +40,7 @@ Article 2
 
 ***Whether an angel influences the human soul***
 
-***To the second we proceed thus. It seems that an angel cannot influence the human soul.Cf. *Book of Causes*, prop. 4.***
+To the second we proceed thus. It seems that an angel cannot influence the human soul.Cf. *Book of Causes*, prop. 4.  
 
 Obj. 1: For of two distant things, one does not influence the other unless through some medium. But an angel and the soul are distant from one another. Since, therefore, there is not any medium available through which the angel could exert influence upon the soul, it seems that an angel cannot influence the soul.  
 
@@ -50,9 +52,9 @@ Reply Obj. 1: And through this the solution to the objections is clear.
 
 Article 3  
 
-***Whether an evil angel, that is, the devil, inhabits man substantially in every mortal sin***
+Whether an evil angel, that is, the devil, inhabits man substantially in every mortal sin  
 
-***To the third we proceed thus. It seems that the devil always substantially inhabits a man whenever he sins mortally.***
+To the third we proceed thus. It seems that the devil always substantially inhabits a man whenever he sins mortally.  
 
 Obj. 1: For mortal fault opposes grace. But the Holy Spirit always inhabits a man with grace, according to 1 Corinthians 3:16: *you are the temple of God, and the Spirit of God dwells in you*. Therefore, an unclean spirit also always inhabits a man with mortal fault.  
 

@@ -1,5 +1,7 @@
 # Chapter 30
 
+^30:1^ Væ filii desertores, dicit Dominus, ut faceretis consilium et non ex me, et ordiremini telam et non per spiritum meum, ut adderetis peccatum super peccatum.  
+
 > ^30:2^ Qui ambulatis ut descendatis in Ægyptum et os meum non interrogastis sperantes auxilium in fortitudine Pharaonis et habentes fiduciam in umbra Ægypti.
 
 > ^30:3^ Et erit vobis fortitudo Pharaonis in confusionem et fiducia umbræ Ægypti in ignominiam.

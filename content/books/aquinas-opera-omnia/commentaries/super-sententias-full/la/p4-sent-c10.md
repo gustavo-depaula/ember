@@ -1,8 +1,10 @@
 # D. 30 - Original sin
 
+***De peccato orginali***
+
 ***Divisio textus***
 
-***Postquam determinavit lapsum humanae naturae quantum ad peccatum primorum parentum; in parte ista incipit determinare quomodo natura humana vitiata est in posteris, et dividitur in partes duas:***
+Postquam determinavit lapsum humanae naturae quantum ad peccatum primorum parentum; in parte ista incipit determinare quomodo natura humana vitiata est in posteris, et dividitur in partes duas:  
 
 in prima determinat de peccato quod a primis parentibus in posteros eorum transivit per carnis originem, scilicet de peccato originali;  
 
@@ -98,7 +100,7 @@ Articulus 1
 
 ***Utrum defectus quos sentimus sint nobis quasi poena pro peccato primi hominis***
 
-***Ad primum sic proceditur. Videtur quod defectus quos sentimus non sint nobis quasi poena pro peccato primi hominis inflicta.***
+Ad primum sic proceditur. Videtur quod defectus quos sentimus non sint nobis quasi poena pro peccato primi hominis inflicta.  
 
 Sicut enim dicit Seneca, *Ad Lucil*., c. 9, *mors est hominis natura, non poena*. Inter omnes autem defectus mors major est; unde et finis terribilium a Philosopho, in 3 *Ethic*., dicitur. Ergo nec etiam alii defectus poenae deberent dici, qui naturam humanam consequuntur.  
 
@@ -144,7 +146,7 @@ Articulus 2
 
 ***Utrum aliquis defectus veniens in nos per originem habeat rationem culpae***
 
-***Ad secundum sic proceditur. Videtur quod nullus defectus in nos per originem veniens, rationem culpae habere possit.***
+Ad secundum sic proceditur. Videtur quod nullus defectus in nos per originem veniens, rationem culpae habere possit.  
 
 Ex hoc enim aliquid culpabile vituperabile est, si malum sit, quod est in potestate ejus qui de hoc culpatur; non enim vituperamur nisi ex his quae in nobis sunt, ut Philosophus in 3 *Ethic*., cap. 12, dicit. Sed illud quod per originem trahitur non potest esse in potestate ejus qui illud originaliter trahit. Ergo impossibile est quod aliquid per originem tractum rationem culpae habeat.  
 
@@ -186,7 +188,7 @@ Articulus 3
 
 ***Utrum originale peccatum sit concupiscentia***
 
-***Ad tertium sic proceditur. Videtur quod originale peccatum non sit concupiscentia, ut in littera dicitur.***
+Ad tertium sic proceditur. Videtur quod originale peccatum non sit concupiscentia, ut in littera dicitur.  
 
 Nihil enim est causa sui ipsius. Sed peccatum originale est causa concupiscentiae, ut patet ex verbis Apostoli Rom. 7:8: *occasione accepta, peccatum per mandatum operatum est in me omnem concupiscentiam*. Ergo peccatum originale non est concupiscentia.  
 
@@ -220,7 +222,7 @@ Quaestio 2
 
 ***De traductione carnis***
 
-***Deinde quaeritur de traductione carnis a parentibus, per quam originale peccatum trahitur; et circa hoc quaeruntur duo:***
+Deinde quaeritur de traductione carnis a parentibus, per quam originale peccatum trahitur; et circa hoc quaeruntur duo:  
 
 primo utrum alimentum in veritatem humanae naturae convertatur;  
 
@@ -230,7 +232,7 @@ Articulus 1
 
 ***Utrum alimentum transeat in veritatem humanae naturae***
 
-***Ad primum sic proceditur. Videtur quod alimentum in veritatem humanae naturae non transeat.***
+Ad primum sic proceditur. Videtur quod alimentum in veritatem humanae naturae non transeat.  
 
 Quidquid enim sumptum emittitur, ad veritatem humanae naturae non pertinet, quae semper eadem manet. Sed omne quod per os sumitur in ventrem vadit, et in secessum emittitur, ut dicitur Matth. 15. Ergo nutrimentum quod per os sumitur in veritatem humanae naturae non transit.  
 
@@ -334,7 +336,7 @@ Articulus 2
 
 ***Utrum semen decidatur ex eo quod generatur ex alimento***
 
-***Ad secundum sic proceditur. Videtur quod semen non sit ex eo decisum quod ex alimento aggeneratum est.***
+Ad secundum sic proceditur. Videtur quod semen non sit ex eo decisum quod ex alimento aggeneratum est.  
 
 Augustinus enim dicit, lib. 10 *Super Genes. ad litter*., cap. 20, quod secundum corpulentam substantiam omnes fuimus in Adam, et etiam secundum seminalem rationem, praeter Christum, qui in eo tantum secundum corpulentam substantiam fuit. Sed corpulenta substantia nostra non venit a parentibus nisi mediante semine. Ergo oportet quod semen quod ex primo parente traducitur, non sit ex eo decisum quod ex alimento conversum est, sed ex eo quod ipse a suo parente acceperat, ut sic corpulenta substantia nostri corporis a primo parente decisa inveniatur.  
 
@@ -410,7 +412,7 @@ Ad sextum dicendum, quod in corpore hominis et in corpore embryonis sunt diversa
 
 Expositio textus  
 
-****Hoc male senserunt quidam haeretici*. Pelagius ad hoc inducebatur propter hoc quod potestatem liberi arbitrii ampliabat nimis, ut nullum peccatum esse in homine posset, nisi ex ejus libero arbitrio proveniret; et quod nulla gratia indigebat homo ad hoc ut a peccato immunis existeret.***
+*Hoc male senserunt quidam haeretici*. Pelagius ad hoc inducebatur propter hoc quod potestatem liberi arbitrii ampliabat nimis, ut nullum peccatum esse in homine posset, nisi ex ejus libero arbitrio proveniret; et quod nulla gratia indigebat homo ad hoc ut a peccato immunis existeret.  
 
 *Originale peccatum dicitur fomes peccati*. Hic ponuntur octo nomina originalis peccati, quorum differentia sic accipi potest. Potest enim hoc peccatum nominari vel per comparationem ad modum quo causatur in nobis, vel per comparationem ad subjectum in quo est, vel per comparationem ad peccatum actuale in quod inclinat, et quia per originem vitiatam in nos pervenit; ideo ex modo quo causaturAl.: *creatur*. in nobis nominatum, dicitur “originale peccatum.”  
 

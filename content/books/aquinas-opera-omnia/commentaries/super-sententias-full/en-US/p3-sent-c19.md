@@ -1,8 +1,10 @@
 # D. 18 - Creation of woman
 
+***Creation of woman***
+
 ***Division of the text***
 
-***After addressing the origin of humanity on the part of man, here he addresses the origin of woman. This is divided into two parts.***
+After addressing the origin of humanity on the part of man, here he addresses the origin of woman. This is divided into two parts.  
 
 In the first, he addresses her origin with respect to the body.  
 
@@ -68,7 +70,7 @@ Article 1
 
 ***Whether the body of woman should have been made from the rib of man***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.92.3; *Commentary on 1 Corinthians*, ch. 7, lect. 1. It seems that the body of woman should not have been made from the rib of man.***
+To the first we proceed as follows.Parallel texts: *ST* I.92.3; *Commentary on 1 Corinthians*, ch. 7, lect. 1. It seems that the body of woman should not have been made from the rib of man.  
 
 Obj. 1: For the distinction of sex is common to man and other animals. But in other animals male and female were produced at the same time, and neither was taken from the other. Therefore, it seems that neither in humankind should woman have been taken from man.  
 
@@ -108,7 +110,7 @@ Article 2
 
 ***Whether God fittingly implanted seedlike principles in matter***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.115.2; I.105.2; *On Truth*, q. 5, a. 9, ad 8. It seems unfittingly said that God implanted seedlike principles in matter.***
+To the second we proceed as follows.Parallel texts: *ST* I.115.2; I.105.2; *On Truth*, q. 5, a. 9, ad 8. It seems unfittingly said that God implanted seedlike principles in matter.  
 
 Obj. 1: For what is received in sensible matter is in it through the natural being and not through conceptual being, since cognoscitive matter does not belong to the forms that it receives but is, rather, perfected in specific being through them. But “principle” does not name a form with respect to natural being, but rather after the manner of a concept. Therefore, the powers implanted in sensible things should not be called “principles.”  
 
@@ -158,7 +160,7 @@ Article 3
 
 ***Whether the things that come about apart from seedlike principles are miracles***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.105.7; *SCG* III.101; *On the Power of God*, q. 6, a. 2; *Commentary on 2 Thessalonians*, ch. 2, lect. 2. It seems that things that come about apart from seedlike principles are not all miracles.***
+To the third we proceed as follows.Parallel texts: *ST* I.105.7; *SCG* III.101; *On the Power of God*, q. 6, a. 2; *Commentary on 2 Thessalonians*, ch. 2, lect. 2. It seems that things that come about apart from seedlike principles are not all miracles.  
 
 Obj. 1: For a seedlike principle of nature is not capable of the work of creation and yet the work of creation is not called “miraculous,” since miracles are for the manifestation of grace, as is said in the text,*Sent*. II, 18.6(108).2. to which creation is not ordered, being instead ordered to the establishment of nature. Therefore, it seems that the fact that something comes about apart from seedlike causes does not have the account of a miracle.  
 
@@ -202,7 +204,7 @@ Question 2
 
 ***The creation of woman’s soul***
 
-***Then a question is asked about the formation of woman on the part of the soul. Three questions are asked concerning this:***
+Then a question is asked about the formation of woman on the part of the soul. Three questions are asked concerning this:  
 
 first, whether the rational soul comes from someone who passes it on or through creation.  
 
@@ -216,7 +218,7 @@ Article 1
 
 ***Whether the human soul is passed on by the parents***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.118.2; *SCG* II.86; *On the Power of God*, q. 3, a. 2; *Quodl*. IX, q. 5, a. 1. It seems that the human soul is also passed on by the parents.***
+To the first we proceed as follows.Parallel texts: *ST* I.118.2; *SCG* II.86; *On the Power of God*, q. 3, a. 2; *Quodl*. IX, q. 5, a. 1. It seems that the human soul is also passed on by the parents.  
 
 Obj. 1: For it is said: *all the souls that came out of the thigh of Jacob . . . were sixty-six* (Gen 46:26).RSV reads *all the persons belonging to Jacob who came into Egypt, who were his own offspring . . . were sixty-six persons in all*. But a child only comes out of the father’s thigh through the passing on of seed. Therefore, it seems that the soul of the child comes from the parents in this way.  
 
@@ -266,7 +268,7 @@ Article 2
 
 ***Whether the rational soul is from God by the mediation of angels***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.90.3; *Quodl*. III, q. 3, a. 1; *Commentary on the Book of Causes*, lect. 3, 5. It seems that the rational soul proceeds from God by the mediation of angels.***
+To the second we proceed as follows.Parallel texts: *ST* I.90.3; *Quodl*. III, q. 3, a. 1; *Commentary on the Book of Causes*, lect. 3, 5. It seems that the rational soul proceeds from God by the mediation of angels.  
 
 Obj. 1: This seems to be, first, from what is related in the *Book of Causes*,Proclus, *Book of Causes*, prop. 5. namely, that the first intelligences infuse stable fixed forms, such as the soul is. But “intelligences” are what we call the angels. Therefore, it seems that it is produced by God through the mediation of angels.  
 
@@ -316,7 +318,7 @@ Article 3
 
 ***Whether the sensible soul comes from someone who passes it on***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.118.1; *SCG* II.86; *On the Power of God*, q. 3, a. 2; *Quodl*. IX, q. 5, a. 1. It seems that not even the sensible soul comes from someone who passes it on.***
+To the third we proceed as follows.Parallel texts: *ST* I.118.1; *SCG* II.86; *On the Power of God*, q. 3, a. 2; *Quodl*. IX, q. 5, a. 1. It seems that not even the sensible soul comes from someone who passes it on.  
 
 Obj. 1: For a simple substance complete in being as a this-something is only brought into being through creation. But the sensible soul is such a substance. Therefore, and so on. Proof of the middle premise: that which is only a form and not a this-something cannot be a mover. Hence in the *Physics* 8Aristotle, *Physics* 8.4, 255a25–30. the Philosopher is of the opinion that the form of fire is not a mover in its natural motion. For it cannot have the complete and absolute action that is due to a mover when it does not have complete being. But the sensitive soul is the mover in an animal. Therefore, it is a this-something having complete being. That it is simple is self-evident.  
 
@@ -360,7 +362,7 @@ Reply Obj. 5: In animals generated from putrefaction, as the Commentator says on
 
 Exposition of the text  
 
-****Or if from his feet, as if subject to him in servitude*.*Sent*. II, 18.2(104).1. This does not seem to be true, because Genesis 3:16 says: *and he shall rule over you*.***
+*Or if from his feet, as if subject to him in servitude*.*Sent*. II, 18.2(104).1. This does not seem to be true, because Genesis 3:16 says: *and he shall rule over you*.  
 
 And it should be said that this was introduced as a punishment for the woman since she disobeyed. Or we may say that it refers not to being under the husband’s power after the manner of servitude, but rather after the manner of governance.  
 

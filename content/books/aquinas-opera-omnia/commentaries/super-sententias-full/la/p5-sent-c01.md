@@ -1,5 +1,7 @@
 # Prologue
 
+***Ecclesiastes 1:7***
+
 ***Ad locum unde exeunt, flumina revertuntur, ut iterum fluant.***
 
 > Ex verbis istis duo possumus accipere, in quibus hujus tertii libri materia comprehenditur, scilicet divinae Incarnationis mysterium et ejus copiosum fructum.

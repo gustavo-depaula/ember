@@ -1,5 +1,7 @@
 # Sermon
 
+***Attendite*** etc. Ad officium boni ducis pertinet quod milites suos contra insidias reddat cautos. Verum est quod insidiosum et dolosum habemus hostem, unde in Ecclesiastico: *multe insidiae dolosi*. Psalmista: *sedet in insidiis cum divitibus*, id est cum superbis. Istas insidias explicat Apostolus dicens quod *Sathanas transfigurat se in angelum lucis* et *ministri eius in ministros iustitiae*.  
+
 Contra ministros eius reddit nos Dominus cautos in verbis propositis in quibus quatuor docet. Primo enim docet genus hostium, ibi: ***attendite a falsis prophetis***; secundo docet modum insidiandi, ibi: ***qui veniunt ad vos in vestimentis ovium***; tertium est nocumentum imminens, ibi: ***intrinsecus autem sunt lupi rapaces***; quarto docet modum comprehendi eos, ibi: ***a fructibus eorum cognoscetis eos***.  
 
 Hostes isti sunt falsi prophete et sunt valde periculosi et ideo cavendi, quia isti nobis sunt periculosi sicut angeli boni sunt nobis necessarii et utiles, unde in Proverbiis: *cum defecerit prophetia dissipabitur populus*. De falsis prophetis dicit Ieremias: *a prophetis Ierusalem egressa est pollutio super terram*.  

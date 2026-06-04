@@ -1,6 +1,8 @@
 # C. 23 - Condemnation of false prophets
 
-***^23:1^ Vae pastoribus qui dispergunt et dilacerant gregem pascuae meae, dicit Dominus.***
+***Lectio 1***
+
+^23:1^ Vae pastoribus qui dispergunt et dilacerant gregem pascuae meae, dicit Dominus.  
 
 > ^23:2a^ Ideo haec dicit Dominus Deus Israel ad pastores, qui pascunt populum meum: vos dispersistis gregem meum, et ejecistis eos, et non visitastis eos.
 
@@ -60,7 +62,7 @@ Venientis regis conditionem quantum ad nobilitatem generis: ***et suscitabo Davi
 
 Lectio 3  
 
-***^23:7^ Propter hoc ecce dies veniunt, dicit Dominus, et non dicent ultra: vivit Domnus, qui eduxit filios Israel de terra Aegypti;***
+^23:7^ Propter hoc ecce dies veniunt, dicit Dominus, et non dicent ultra: vivit Domnus, qui eduxit filios Israel de terra Aegypti;  
 
 > ^23:8^ sed, vivit Dominus, qui eduxit, et adduxit semen domus Israel de terra aquilonis, et de cunctis terris ad quas ejeceram eos illuc, et habitabunt in terra sua.
 
@@ -68,7 +70,7 @@ Lectio 3
 
 Lectio 4  
 
-***^23:9^ Ad prophetas: contritum est cor meum in medio mei, contremuerunt omnia ossa mea. Factus sum quasi vir ebrius, et quasi homo madidus a vino, a facie Domini, et a facie verborum sanctorum ejus:***
+^23:9^ Ad prophetas: contritum est cor meum in medio mei, contremuerunt omnia ossa mea. Factus sum quasi vir ebrius, et quasi homo madidus a vino, a facie Domini, et a facie verborum sanctorum ejus:  
 
 > ^23:10^ quia adulteriis repleta est terra, quia a facie maledictionis luxit terra, arefacta sunt arva deserti: factus est cursus eorum malus, et fortitudo eorum dissimilis.
 
@@ -104,7 +106,7 @@ Tertio inquantum ad obstinationem: ***factus est cursus eorum malus***, quia ad 
 
 Lectio 5  
 
-***^23:11^ Propheta namque, et sacerdos polluti sunt, et in domo mea inveni malum eorum, ait Dominus.***
+^23:11^ Propheta namque, et sacerdos polluti sunt, et in domo mea inveni malum eorum, ait Dominus.  
 
 > ^23:12^ Idcirco via eorum eris quasi lubricum in tenebris, impellentur enim, et corruent in ea. Afferam enim super eos mala, annum visitationis eorum, ait Dominus.
 
@@ -132,7 +134,7 @@ Tertio comminatur poenam: ***propterea haec dicit Dominus: ecce ego cibabo eos a
 
 Lectio 6  
 
-***^23:16^ Haec dicit Dominus exercituum: nolite audire verba prophetarum qui prophetant vobis, et decipiunt vos. Visionem cordis sui loquuntur, non de ore Domini.***
+^23:16^ Haec dicit Dominus exercituum: nolite audire verba prophetarum qui prophetant vobis, et decipiunt vos. Visionem cordis sui loquuntur, non de ore Domini.  
 
 > ^23:17^ Dicunt his qui blasphemant me: locutus est Dominus: pax erit vobis: et omnibus qui ambulant in pravitate cordis sui dixerunt: non veniet super vos malum.
 
@@ -212,7 +214,7 @@ Et ***ignis***, ad accendendum. Psal. 118: *ignitum eloquium tuum vehementer*. E
 
 Lectio 8  
 
-***^23:30^ Propterea ecce ego ad prophetas, ait Dominus, qui furantur verba mea unusquisque a proximo suo.***
+^23:30^ Propterea ecce ego ad prophetas, ait Dominus, qui furantur verba mea unusquisque a proximo suo.  
 
 > ^23:31^ Ecce ego ad prophetas, ait Dominus, qui assumunt linguas suas, et aiunt: dicit Dominus.
 
@@ -228,7 +230,7 @@ Tertius est ex somniorum adhaesione: ***ecce ego ad prophetas somniantes mendaci
 
 Lectio 9  
 
-***^23:33^ Si igitur interrogaverit te populus iste, vel propheta, aut sacerdos dicens: quod est onus Domini? dices ad eos: vos estis onus. Projiciam quippe vos, dicit Dominus.***
+^23:33^ Si igitur interrogaverit te populus iste, vel propheta, aut sacerdos dicens: quod est onus Domini? dices ad eos: vos estis onus. Projiciam quippe vos, dicit Dominus.  
 
 > ^23:34^ Et propheta, et sacerdos, et populus qui dicit, onus Domini; visitabo super virum illum, et super domum ejus.
 
@@ -268,4 +270,4 @@ Secundo poenam confusionis: ***et dabo vos in opprobrium***: et potest referri a
 
 Collationes  
 
-***Nota super illud, ***ecce dies veniunt*** etc., quod tempus gratiae dicitur dies propter luminis apparitionem. Rom. 13: *nox praecessit, dies autem appropinquavit: abjiciamus ergo opera tenebrarum, et induamur arma lucis*. Propter solis calorem. 2 Reg. 11: *cras erit vobis salus*. Propter itineris securitatem. Joan. 11: *si quis ambulaverit in die, non offendit, quia lucem hujus mundi videt; si autem ambulaverit in nocte, offendit, quia lux non est in eo*. Propter vigilantiam et sobrietatem. 1 Thess. 5: *qui enim dormiunt, nocte dormiunt, et qui ebrii sunt, nocte ebrii sunt*.***
+Nota super illud, ***ecce dies veniunt*** etc., quod tempus gratiae dicitur dies propter luminis apparitionem. Rom. 13: *nox praecessit, dies autem appropinquavit: abjiciamus ergo opera tenebrarum, et induamur arma lucis*. Propter solis calorem. 2 Reg. 11: *cras erit vobis salus*. Propter itineris securitatem. Joan. 11: *si quis ambulaverit in die, non offendit, quia lucem hujus mundi videt; si autem ambulaverit in nocte, offendit, quia lux non est in eo*. Propter vigilantiam et sobrietatem. 1 Thess. 5: *qui enim dormiunt, nocte dormiunt, et qui ebrii sunt, nocte ebrii sunt*.

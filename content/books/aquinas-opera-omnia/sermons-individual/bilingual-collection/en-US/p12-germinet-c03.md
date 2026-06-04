@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Let the earth bring forth the green plant***, et cetera (Gen 1:11).***
+
 The Most High has raised from the earth two remedies for us: *the green plant* and the *fruit-bearing tree* (Gen 1:11).  
 
 We have spoken about the plant, which is the Blessed Virgin.  

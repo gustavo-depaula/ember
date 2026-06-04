@@ -1,10 +1,12 @@
 # C. 3 - Exhortations
 
+***Exhortationes***
+
 ***Lectio 1***
 
 ***Instructio moralis***
 
-***^3:1^ De cetero fratres, orate pro nobis ut sermo Dei currat, et clarificetur, sicut et apud vos: [n. 63]***
+^3:1^ De cetero fratres, orate pro nobis ut sermo Dei currat, et clarificetur, sicut et apud vos: [n. 63]  
 
 > ^3:2^ et ut liberemur ab importunis, et malis hominibus: non enim omnium est fides.
 
@@ -106,7 +108,7 @@ Lectio 2
 
 ***Fugite inquieti***
 
-***^3:10^ Nam et cum essemus apud vos, hoc denuntiabamus vobis: quoniam si quis non vult operari, nec manducet. [n. 76]***
+^3:10^ Nam et cum essemus apud vos, hoc denuntiabamus vobis: quoniam si quis non vult operari, nec manducet. [n. 76]  
 
 > ^3:11^ Audivimus enim inter vos quosdam ambulare inquiete, nihil operantes, sed curiose agentes. [n. 78]
 

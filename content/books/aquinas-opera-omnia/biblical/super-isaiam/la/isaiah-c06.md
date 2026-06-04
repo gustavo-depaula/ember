@@ -1,6 +1,8 @@
 # Chapter 4
 
-***^4:1^ Et apprehendent septem mulieres virum unum in die illa dicentes: panem nostrum comedemus et vestimentis nostris operiemur; tantummodo invocetur nomen tuum super nos, aufer opprobrium nostrum.***
+***Lectio 1***
+
+^4:1^ Et apprehendent septem mulieres virum unum in die illa dicentes: panem nostrum comedemus et vestimentis nostris operiemur; tantummodo invocetur nomen tuum super nos, aufer opprobrium nostrum.  
 
 > **133**. ***Et apprehendent septem mulieres***. Postquam arguit calumniam opprimentium in cap. II et III, in hoc capitulo propheta ponit consolationem oppressorum. Et dividitur in partes duas:
 
@@ -22,7 +24,7 @@ Ad quod dicendum quod, sicut dicit Philosophus, coniunctio maris et feminae in h
 
 Lectio 2  
 
-***^4:2^ In die illa erit germen Domini in magnificentia et gloria, et fructus terræ sublimis, et exsultatio his qui salvati fuerint de Israel.***
+^4:2^ In die illa erit germen Domini in magnificentia et gloria, et fructus terræ sublimis, et exsultatio his qui salvati fuerint de Israel.  
 
 > ^4:3^ Et erit, omnis qui relictus fuerit in Sion et residuus in Jerusalem sanctus vocabitur, omnis qui scriptus est in vita in Jerusalem;
 

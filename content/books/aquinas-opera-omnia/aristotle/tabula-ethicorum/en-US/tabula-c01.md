@@ -1,8 +1,10 @@
 # Chapter 1
 
+***Term 1***
+
 ***Action***
 
-***An ***action***, that is, a virtuous action, is not done for the sake of another thing, but for its own good.***
+An ***action***, that is, a virtuous action, is not done for the sake of another thing, but for its own good.  
 
 Joy or sadness follows every ***action***.  
 
@@ -10,25 +12,25 @@ Term 2
 
 ***The Hot-tempered***
 
-***The ***hot-tempered*** tend excessively toward anger and become angry at every nuisance.***
+The ***hot-tempered*** tend excessively toward anger and become angry at every nuisance.  
 
 Term 3  
 
 ***The Uncultivated Man***
 
-******The uncultivated man* **is entirely inept at witty speaking, he contributes nothing and becomes sad in all circumstances.***
+***The uncultivated man* **is entirely inept at witty speaking, he contributes nothing and becomes sad in all circumstances.  
 
 Term 4  
 
 ***The Gambler***
 
-******The gambler***, the grave-robber, and the thief are numbered among the illiberal.***
+***The gambler***, the grave-robber, and the thief are numbered among the illiberal.  
 
 Term 5  
 
 ***Complaint***
 
-***It is reasonable that ***complaints*** and grievances are made soley or mostly in friendships of utility.***
+It is reasonable that ***complaints*** and grievances are made soley or mostly in friendships of utility.  
 
 They are made most when an exchange is not made according to the same standard, and so the friendship is ended.  
 
@@ -44,7 +46,7 @@ Term 6
 
 ***The Man who Accepts a Favour***
 
-***The man who ***accepts*** something from one who is not his friend and does not owe him has erred from the outset.***
+The man who ***accepts*** something from one who is not his friend and does not owe him has erred from the outset.  
 
 The man who ***accepts*** a favour should return it if he is able. If he is not, then he who did the favour not deem worth what he receives from him.  
 
@@ -54,7 +56,7 @@ Term 7
 
 ***Giving Loans***
 
-***It is not always necessary to ***loan*** to one who ***loans*** to you. As when someone, seeking only gain, were to ***loan*** to me, who am virtuous, if I believe him to be ill-willed, I am not equally obliged to ***loan***.***
+It is not always necessary to ***loan*** to one who ***loans*** to you. As when someone, seeking only gain, were to ***loan*** to me, who am virtuous, if I believe him to be ill-willed, I am not equally obliged to ***loan***.  
 
 When those who ***loan*** do not wish for the good to those whom they ***loan*** but only seek gain, but the generous love even if they do not benefit.  
 
@@ -62,19 +64,19 @@ Term 8
 
 ***Doing***
 
-***For a man not to ***do*** evil deeds, he must be well raised and habituated, and strive zealously live virtuously. He will do this this will be so if he live according to dictate of his intellect, which has a restraining force.***
+For a man not to ***do*** evil deeds, he must be well raised and habituated, and strive zealously live virtuously. He will do this this will be so if he live according to dictate of his intellect, which has a restraining force.  
 
 Term 9  
 
 ***Affirmation***
 
-******Affirmation*** and negation are in the intellect, as flight and pursuit are in the appetitive faculty.***
+***Affirmation*** and negation are in the intellect, as flight and pursuit are in the appetitive faculty.  
 
 Term 10  
 
 ***Agathon***
 
-******Agathon*** said: One thing alone is outside God's power: to make undone those things which are certainly done.***
+***Agathon*** said: One thing alone is outside God's power: to make undone those things which are certainly done.  
 
 The same said: art loves fortune and fortune, art.  
 
@@ -82,7 +84,7 @@ Term 11
 
 ***The Sullen***
 
-***The sullen are those who hold hold on to anger for a long time and only rest once they receive recompense, for vengence is what settles their impulse of anger.***
+The sullen are those who hold hold on to anger for a long time and only rest once they receive recompense, for vengence is what settles their impulse of anger.  
 
 Term 12  
 
@@ -136,7 +138,7 @@ Term 15
 
 ***Friendship of utlity and pleasure***
 
-***The friendship of utility and of pleasure are friendship in an accidental sense, not because the parties share love but rather because they share utility or pleasure.***
+The friendship of utility and of pleasure are friendship in an accidental sense, not because the parties share love but rather because they share utility or pleasure.  
 
 The friendship of utility is found in the young and the aged. For the aged seek after the useful, not the pleasurable; the young do because of habit.  
 
@@ -310,7 +312,7 @@ Term 17
 
 ***Friendly Things***
 
-***Those who are quick to do friendly deeds toward each other show they intend friendship, this is a speedy thing, but it is not yet a friendship if both parties unless they are lovable toward one another and aware of it.***
+Those who are quick to do friendly deeds toward each other show they intend friendship, this is a speedy thing, but it is not yet a friendship if both parties unless they are lovable toward one another and aware of it.  
 
 Friendly things toward friends are borne out of and determined by a man's disposition toward himself.  
 
@@ -327,19 +329,19 @@ Term 19
 
 ***Love***
 
-***Love is like a passion, whereas friendship is like a habit of character, which involves a mutual exchange and choice. Choice out of a habit, since one wills the good of the other for his own sake. However love toward inanimate things is necessarily without mutual exchange and choice.***
+Love is like a passion, whereas friendship is like a habit of character, which involves a mutual exchange and choice. Choice out of a habit, since one wills the good of the other for his own sake. However love toward inanimate things is necessarily without mutual exchange and choice.  
 
 Term 20  
 
 ***Friendship***
 
-***Friendhsip is a mean in all life's acts. One who goes too far in this regard for no other purpose is called obsequious, but one who acts only for his own utility is called a flatterer. The man who lacks too much in this unpleasant in all things, he is contentious and quarrelsome.***
+Friendhsip is a mean in all life's acts. One who goes too far in this regard for no other purpose is called obsequious, but one who acts only for his own utility is called a flatterer. The man who lacks too much in this unpleasant in all things, he is contentious and quarrelsome.  
 
 Term 21  
 
 ***The Friend***
 
-***What our friends do is in some measure done by us, since the working principle is found in us.***
+What our friends do is in some measure done by us, since the working principle is found in us.  
 
 A friend wishes the good of his friend for his own sake. It ridiculous for him to wish the good toward, say, wine, but he does wish it to keep from spoiling, so he does incidentally wish its good, so that he may later drink it.  
 
@@ -411,7 +413,7 @@ Term 22
 
 ***Loving***
 
-***He askes whether a man loves *the* good without qualification, or what is good *for him*, since there is sometimes a dissonance between these two. He resolves this by saying that the good without qualification, is lovable and what is good is lovable for every man.***
+He askes whether a man loves *the* good without qualification, or what is good *for him*, since there is sometimes a dissonance between these two. He resolves this by saying that the good without qualification, is lovable and what is good is lovable for every man.  
 
 Some seek more to be loved than to love because of their love of honour, and so many men love flattery.  
 
@@ -425,13 +427,13 @@ Term 23
 
 ***Lovers***
 
-***Those who are fond of playing the flute are not able to attend to what others say to them. So it is that when we take much joy in a friendship, we cannot take heed of other things.***
+Those who are fond of playing the flute are not able to attend to what others say to them. So it is that when we take much joy in a friendship, we cannot take heed of other things.  
 
 Term 24  
 
 ***The Lover***
 
-***Lovers seem ridiculous when they think they deserve to be loved as much as they themselves love (if they in fact do not), but if they are worthy of such equal love, then it is perhaps justified.***
+Lovers seem ridiculous when they think they deserve to be loved as much as they themselves love (if they in fact do not), but if they are worthy of such equal love, then it is perhaps justified.  
 
 Lovers of themselves are faulted.  
 
@@ -447,13 +449,13 @@ Term 26
 
 ***Love***
 
-***The object of love is not anything, but is rather for some desirable object which is lovable. This can be good, pleasurable, or useful. Good and pleasurable things are loved as ends, but useful things are only as means to something else.***
+The object of love is not anything, but is rather for some desirable object which is lovable. This can be good, pleasurable, or useful. Good and pleasurable things are loved as ends, but useful things are only as means to something else.  
 
 Term 27  
 
 ***The Soul***
 
-***We should learn about the parts of the soul insofar as they concern our present investigations, since more in-depth knowledge is too burdensome for the matters at hand, what is said in independent sources (that is, in the *De Anima*) is enough.***
+We should learn about the parts of the soul insofar as they concern our present investigations, since more in-depth knowledge is too burdensome for the matters at hand, what is said in independent sources (that is, in the *De Anima*) is enough.  
 
 The soul has parts: an irrational part and irrational part. Whether these two are two things are totally separate from one another or constitute a whole does not affect the present question.  
 
@@ -487,7 +489,7 @@ Term 30
 
 ***Desire***
 
-***The desire for pleasure is insatiable and comes from irrational the part of the soul. Exercising the appetite only increases it for more, similar deeds.***
+The desire for pleasure is insatiable and comes from irrational the part of the soul. Exercising the appetite only increases it for more, similar deeds.  
 
 Desire pushes toward the mean.  
 
@@ -495,13 +497,13 @@ Term 31
 
 ***The Mean-Observing Man***
 
-***The man who observes the mean is truthful in his way of life and speaking and, acknowledging his character, neither exaggerating nor downplaying himself.***
+The man who observes the mean is truthful in his way of life and speaking and, acknowledging his character, neither exaggerating nor downplaying himself.  
 
 Term 32  
 
 ***Art***
 
-***All arts are had at once with prudence, by this man is called good without qualification.***
+All arts are had at once with prudence, by this man is called good without qualification.  
 
 Arts are ordered under one power, just as horse-riding falls under (navifactiva clearly means shipbuilding)  
 
@@ -531,31 +533,31 @@ Term 33
 
 ***The Ass***
 
-***The ass certainly prefers grass to gold, since he takes more pleasure in the nourshiment of the grass than gold, as Heraclitus says.***
+The ass certainly prefers grass to gold, since he takes more pleasure in the nourshiment of the grass than gold, as Heraclitus says.  
 
 Term 34  
 
 ***The Artisan***
 
-***If a man does wish to become a perfect artisan, he must begin with universal knowledge of his discipline, and only then proceed to knowledge of this or that, since, as we have said, the sciences are concerned with the universal.***
+If a man does wish to become a perfect artisan, he must begin with universal knowledge of his discipline, and only then proceed to knowledge of this or that, since, as we have said, the sciences are concerned with the universal.  
 
 Term 34  
 
 ***The Argives***
 
-***The Argives, fell in with the Spartans (who are most aggressive), though they mistook them for the Sicyonians, so they fled immediately. So do ignorant men, not know of the conditions of the engagement, and when they realise, flee straight away.***
+The Argives, fell in with the Spartans (who are most aggressive), though they mistook them for the Sicyonians, so they fled immediately. So do ignorant men, not know of the conditions of the engagement, and when they realise, flee straight away.  
 
 Term 36  
 
 ***A Contest***
 
-***In contests it is not the bravest men who fight the most, but those with the most bodily strength and fitness.***
+In contests it is not the bravest men who fight the most, but those with the most bodily strength and fitness.  
 
 Term 37  
 
 ***The Adulterer***
 
-***Adulterers do many daring things out of sensual desire, but this certainly does not make them courageous.***
+Adulterers do many daring things out of sensual desire, but this certainly does not make them courageous.  
 
 Term 38  
 
@@ -573,13 +575,13 @@ Term 40
 
 ***Anaxagoras***
 
-***Anaxagoras, and others who concern themselves with wonderful and difficult matters, are called wise but not prudent men.***
+Anaxagoras, and others who concern themselves with wonderful and difficult matters, are called wise but not prudent men.  
 
 Term 41  
 
 ***The Covetous Man***
 
-***The covetous man is unjust, and therefore he does not busy himself with all goods, but only with what relates to fortunes and misfortunes.***
+The covetous man is unjust, and therefore he does not busy himself with all goods, but only with what relates to fortunes and misfortunes.  
 
 The covetous man has something in common with the unfair man.  
 
@@ -587,6 +589,6 @@ Term 42
 
 ***The Daring Man***
 
-***The daring man is he who is in excess in daring terrible things, since he rushes to everything.***
+The daring man is he who is in excess in daring terrible things, since he rushes to everything.  
 
 Daring men are quick to dangers, and when they arrive they depart again. But for brave men it is the other way round.

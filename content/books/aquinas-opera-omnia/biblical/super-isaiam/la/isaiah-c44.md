@@ -1,5 +1,7 @@
 # Chapter 42
 
+^42:1^ Ecce servus meus, suscipiam eum; electus meus, complacuit sibi in illo anima mea; dedi spiritum meum super eum. Judicium gentibus proferet,  
+
 > ^42:2^ non clamabit; neque accipiet personam nec audietur foris vox ejus,
 
 > ^42:3^ calamum quassatum non conteret et linum fumigans non extinguet. In veritate educet judicium;

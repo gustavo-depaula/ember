@@ -1,10 +1,12 @@
 # C. 4 - Endurance at the End
 
+***Endurance at the End***
+
 ***Lecture 1***
 
 ***Instructions on evangelization***
 
-***^4:1^ I charge you, before God and Jesus Christ, who shall judge the living and the dead, by his coming and his kingdom: [n. 129]***
+^4:1^ I charge you, before God and Jesus Christ, who shall judge the living and the dead, by his coming and his kingdom: [n. 129]  
 
 > ^4:2^ Preach the word: be instant in season, out of season: reprove, entreat, rebuke in all patience and doctrine.
 
@@ -112,7 +114,7 @@ Lecture 2
 
 ***Paul’s dissolution***
 
-***^4:6^ For I am even now ready to be sacrificed: and the time of my dissolution is at hand. [n. 145]***
+^4:6^ For I am even now ready to be sacrificed: and the time of my dissolution is at hand. [n. 145]  
 
 > ^4:7^ I have fought a good fight: I have finished my course: I have kept the faith. [n. 148]
 
@@ -180,7 +182,7 @@ Lecture 3
 
 ***Farewell***
 
-***^4:8^ As to the rest, there is laid up for me a crown of justice which the Lord the just judge will render to me in that day: and not only to me, but to those also who love his coming. [n. 158]***
+^4:8^ As to the rest, there is laid up for me a crown of justice which the Lord the just judge will render to me in that day: and not only to me, but to those also who love his coming. [n. 158]  
 
 > ^4:9^ Make haste to come to me quickly. [n. 154]
 

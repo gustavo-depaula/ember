@@ -1,8 +1,10 @@
 # D. 37 - How God is in realities
 
+***How God is in realities***
+
 ***Division of the first part of the text***
 
-***Having manifested the realities that are within God, here he manifests how God is within the realities. And this is divided into two parts: in the first, he shows that God is everywhere and in all realities; in the second, he removes from God certain things that follow for created things that exist in place, at *and although the divine nature is truly and essentially in every place and in every time, yet it is not moved through places or times*.*Sent*. I, 37.5(168).1.***
+Having manifested the realities that are within God, here he manifests how God is within the realities. And this is divided into two parts: in the first, he shows that God is everywhere and in all realities; in the second, he removes from God certain things that follow for created things that exist in place, at *and although the divine nature is truly and essentially in every place and in every time, yet it is not moved through places or times*.*Sent*. I, 37.5(168).1.  
 
 The first is divided into two parts: in the first, he asserts the modes in which God is said to be in realities; in the second, he inquires into the accounts of those modes, at *as to how God dwells in us, you will be able to understand it somewhat from what was said above*.*Sent*. I, 37.2(165).3; Silano reads *dwells in the good*; we have modified the translation to accord more closely with the Latin text found here.  
 
@@ -38,7 +40,7 @@ Article 1
 
 ***Whether God is in realities***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.8.1; *SCG* III.68. It seems that God is not in realities.***
+To the first we proceed as follows.Parallel texts: *ST* I.8.1; *SCG* III.68. It seems that God is not in realities.  
 
 Obj. 1: For among causes, only those that are parts of the reality, like matter and form, are internal to it—but not the agent and the end. Now, God is not a cause of realities as entering into their constitution; for he rules all realities without being mixed with them, as is said in the *Book of Causes*.Proclus, *Book of Causes*, prop. 20. Therefore God is not in created realities.  
 
@@ -80,9 +82,9 @@ Reply Obj. 5: “God is in a demon” should not be granted simply speaking, due
 
 Article 2  
 
-***Whether God is in all things through power, presence, and essence; in the saints through grace; in Christ through existence***
+Whether God is in all things through power, presence, and essence; in the saints through grace; in Christ through existence  
 
-***To the second we proceed as follows.Parallel text: *ST* I.8.3. It seems that the modes wherein God is said to be in thingsThe five assigned modes are: by power, by presence, by essence, (in the holy) by grace, and (in Christ) by existence; see *Sent*. I, 37.1(164).2. is not fittingly assigned.***
+To the second we proceed as follows.Parallel text: *ST* I.8.3. It seems that the modes wherein God is said to be in thingsThe five assigned modes are: by power, by presence, by essence, (in the holy) by grace, and (in Christ) by existence; see *Sent*. I, 37.1(164).2. is not fittingly assigned.  
 
 Obj. 1: For when we say God is in things, we are assigning how God relates to things. But God relates to all things in one way, even though they do not relate to him in one way, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 3, para. 1 (PG 3:679). Therefore it seems that there should be only one mode of God being in things.  
 
@@ -120,7 +122,7 @@ Question 2
 
 ***How God is everywhere***
 
-***Next it is asked how God is wherever he is said to be. And about this, three things are asked:***
+Next it is asked how God is wherever he is said to be. And about this, three things are asked:  
 
 first, whether God is everywhere;  
 
@@ -132,7 +134,7 @@ Article 1
 
 ***Whether God is everywhere***
 
-***To the first we proceed as follows. It seems that God is not everywhere.Parallel texts: *ST* I.8.2; 16.7, ad 2; 52.2; *SCG* III.68; *Quodl. XI*, q. 1, a. 1.***
+To the first we proceed as follows. It seems that God is not everywhere.Parallel texts: *ST* I.8.2; 16.7, ad 2; 52.2; *SCG* III.68; *Quodl. XI*, q. 1, a. 1.  
 
 Obj. 1: For to be everywhere signifies being in every place. But, as Anselm says,Anselm, *Monologion*, ch. 22 (PL 158:176). *if usage were to allow it, it would be more appropriate to say that God is with every place, rather than in every place*. Therefore it seems that “God is everywhere” is not said properly.  
 
@@ -158,7 +160,7 @@ Article 2
 
 ***Whether to be everywhere belongs to God alone***
 
-***To the second we proceed as follows.Parallel texts: below, q. 3, a. 2; *ST* I.8.4; 52.2; 112.1; *SCG* IV.17; *Quodl. XI*, q. 1, a. 1; *Commentary on Dionysius’s On the Divine Names*, ch. 3, lect. 1. It seems that being everywhere does not belong to God alone.***
+To the second we proceed as follows.Parallel texts: below, q. 3, a. 2; *ST* I.8.4; 52.2; 112.1; *SCG* IV.17; *Quodl. XI*, q. 1, a. 1; *Commentary on Dionysius’s On the Divine Names*, ch. 3, lect. 1. It seems that being everywhere does not belong to God alone.  
 
 Obj. 1: For it is heretical to assert that first matter is God, or that God is universal being, as some do assert. But the universal is everywhere and always, according to the Philosopher,Aristotle, *Posterior Analytics* 1.31, 88b.33. and so is first matter, which is in every body, whereby every place is filled, since nothing is empty, as the philosophers prove.Aristotle, *Physics* 4.8–9, 214b12–217b28.  Therefore to be everywhere does not belong to God alone.  
 
@@ -180,7 +182,7 @@ Article 3
 
 ***Whether to be everywhere belongs to God from eternity***
 
-***To the third we proceed as follows. It seems that to be everywhere belongs to God from eternity.***
+To the third we proceed as follows. It seems that to be everywhere belongs to God from eternity.  
 
 Obj. 1: This is first because of what Ambrose says, in the text:*Sent*. I, 37.1(164).5, quoting Ambrose, *On the Holy Spirit*, bk. 1, ch. 7, para. 81 (CSEL 79:48; PL 16:724). that he is in all things and everywhere always, which is proper to the divinity. But what is always is eternal. Therefore to be everywhere belongs to God from eternity.  
 
@@ -202,7 +204,7 @@ Reply Obj. 3: Just as motion receives its account from its terminus, so too does
 
 Exposition of the first part of the text  
 
-****In the same way, God, although he is essentially and entirely in all, is nonetheless said to be more fully in those in whom he dwells*.*Sent*. I, 37.2(165).2. One asks for the reason for this difference. And one should answer that the other created things, even though they follow on the divine likeness through God’s very activity, still do not attain God himself as supposit. And therefore, although God is in them, still they themselves are not with God. But the rational creature, through grace, attains God himself, insofar as he loves and knows him; this is why he is said to be “with God,” and for the same reason he is said to have “the capacity for God,” as having the capacity for his own perfection, through the mode of an object. And on account of this he is also called “the temple of God,” and God is said “to dwell in him.”***
+*In the same way, God, although he is essentially and entirely in all, is nonetheless said to be more fully in those in whom he dwells*.*Sent*. I, 37.2(165).2. One asks for the reason for this difference. And one should answer that the other created things, even though they follow on the divine likeness through God’s very activity, still do not attain God himself as supposit. And therefore, although God is in them, still they themselves are not with God. But the rational creature, through grace, attains God himself, insofar as he loves and knows him; this is why he is said to be “with God,” and for the same reason he is said to have “the capacity for God,” as having the capacity for his own perfection, through the mode of an object. And on account of this he is also called “the temple of God,” and God is said “to dwell in him.”  
 
 *As we understand many things about God which we are almost entirely unable to utter, so also we say many things which we are not capable of understanding*.*Sent*. I, 37.3(166).4, quoting John Chrysostom, *In Epistolam ad Hebraeos* (*Mutiani scholasticis interpretatio*), hom. 2, n. 1 (PG 63:244). The reason for this difference is that a cause always exceeds its effect. Now, in some things speech causes understanding, as in things that are learned through a discipline; whence it is possible that the intellect of the learner does not reach the full power of the speech, and then it can be said that the things one hears he does not understand. And this is similar to matters that are purely of the faith, which exceed the human intellect; for faith is from hearing, according to Romans 10:14–17. However, sometimes understanding is the cause of the speech, as in matters that are known by discovery; whence in such matters understanding exceeds speech, and many things are understood that cannot be expressed well.  
 
@@ -212,7 +214,7 @@ Exposition of the first part of the text
 
 Division of the second part of the text  
 
-***Having shown that God is everywhere, here he excludes from God two things that follow upon what is created existing in place: that is, localization and motion. And this is divided into three parts: in the first part, he proposes what he intends—namely, that the divine essence neither moves nor is localized; in the second, he shows that these two things belong to everything created, at *in Scripture, something is said to be local . . . in these two ways*;*Sent*. I, 37.6(169).1. in the third, he proves that each of these is absent from God, at *and so let us profess that the divine nature, because of its immensity, is never absent*.*Sent*. I, 37.9(172).1.***
+Having shown that God is everywhere, here he excludes from God two things that follow upon what is created existing in place: that is, localization and motion. And this is divided into three parts: in the first part, he proposes what he intends—namely, that the divine essence neither moves nor is localized; in the second, he shows that these two things belong to everything created, at *in Scripture, something is said to be local . . . in these two ways*;*Sent*. I, 37.6(169).1. in the third, he proves that each of these is absent from God, at *and so let us profess that the divine nature, because of its immensity, is never absent*.*Sent*. I, 37.9(172).1.  
 
 The second part is divided into two: in the first of which he shows that localization belongs to everything created, either through circumscription and definition, as for a body, or through definition alone, as for a spirit. He also shows that two motions belong to a body: through time and through place—but to a spirit belongs only one, motion through time. In the second part he asks whether even motion through place might belong to a spirit, at *as to change of place, however, a great debate occurs among researchers*.*Sent*. I, 37.7(170).2.  
 
@@ -242,7 +244,7 @@ Article 1
 
 ***Whether an angel is in a place***
 
-***To the first we proceed as follows.Parallel texts: *In II Sent*., d. 6, q. 1, a. 3; *ST* I.52.1; *On the Power of God*, q. 3, a. 19, ad 2; *Quodl. I*, q. 3, a. 1. It seems that an angel is not in a place.***
+To the first we proceed as follows.Parallel texts: *In II Sent*., d. 6, q. 1, a. 3; *ST* I.52.1; *On the Power of God*, q. 3, a. 19, ad 2; *Quodl. I*, q. 3, a. 1. It seems that an angel is not in a place.  
 
 Obj. 1: For Boethius says, *it is a common conception of the mind among all the wise that incorporeal things are not in place*.Boethius, *Hebdomads*, axiom (PL 64:1311B).  But angels are incorporeal and immaterial, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 1 (PL 3:206). Therefore angels are not in a place.  
 
@@ -292,7 +294,7 @@ Article 2
 
 ***Whether an angel can be in several places simultaneously***
 
-***To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 10, q. 1, a. 3, qa. 2; *ST* I.8.2, ad 2; I.52.2; I.112.1; *Disputed Questions on the Soul*, a. 10, ad 18. It seems that an angel can be in several places simultaneously.***
+To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 10, q. 1, a. 3, qa. 2; *ST* I.8.2, ad 2; I.52.2; I.112.1; *Disputed Questions on the Soul*, a. 10, ad 18. It seems that an angel can be in several places simultaneously.  
 
 Obj. 1: For every body is more determined to a place than is an angel. But a certain body is in several places simultaneously, such as Christ’s body on multiple altars. Therefore much more so can an angel be in several places simultaneously.  
 
@@ -326,7 +328,7 @@ Article 3
 
 ***Whether several angels can be in one place***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.52.3; *On the Power of God*, q. 3, a. 7, ad 11; a. 19, ad 1; *Quodl. I*, q. 3, a. 1, ad 2. It seems that several angels can be simultaneously in one place.***
+To the third we proceed as follows.Parallel texts: *ST* I.52.3; *On the Power of God*, q. 3, a. 7, ad 11; a. 19, ad 1; *Quodl. I*, q. 3, a. 1, ad 2. It seems that several angels can be simultaneously in one place.  
 
 Obj. 1: For a body fills a place more than does a spirit. But where a body is, there also an angel can be. Therefore much less does an angel’s being in a place impede another being there as well.  
 
@@ -360,7 +362,7 @@ Question 4
 
 ***The motion of an angel***
 
-***Next, we ask about an angel’s motion. And as regards this, three things are asked:***
+Next, we ask about an angel’s motion. And as regards this, three things are asked:  
 
 first, whether an angel moves;  
 
@@ -372,7 +374,7 @@ Article 1
 
 ***Whether an angel moves***
 
-***To the first we proceed as follows.Parallel text: *ST* I.53.1. It seems that an angel does not move.***
+To the first we proceed as follows.Parallel text: *ST* I.53.1. It seems that an angel does not move.  
 
 Obj. 1: For, according to the Philosopher,Aristotle, *Physics* 3.2, 201b32. motion is the act of the unperfected, since it is the act of what exists in potency as such. But an angel is perfected, and especially a blessed angel. Therefore it does not move.  
 
@@ -424,7 +426,7 @@ Article 2
 
 ***Whether an angel necessarily traverses what is between when it moves***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.53.2; *Quodl. I*, q. 3, a. 2. It seems that an angel necessarily traverses what is between in its motion.***
+To the second we proceed as follows.Parallel texts: *ST* I.53.2; *Quodl. I*, q. 3, a. 2. It seems that an angel necessarily traverses what is between in its motion.  
 
 Obj. 1: For, as is said in *Physics* 5,Aristotle, *Physics* 5.3, 226b24. the middle is that to which what is changing comes before it changes to the final terminus. Therefore, if an angel moves from A to C and B is between, it must come to B before it comes to C, and thus it must traverse what is between.  
 
@@ -460,7 +462,7 @@ Article 3
 
 ***Whether an angel moves instantaneously***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.53.3; *Quodl. IX*, q. 4, a. 4; *XI*, q. 4. It seems that an angel moves instantaneously.***
+To the third we proceed as follows.Parallel texts: *ST* I.53.3; *Quodl. IX*, q. 4, a. 4; *XI*, q. 4. It seems that an angel moves instantaneously.  
 
 Obj. 1: For an angel’s change with respect to place is simpler than any bodily change. But some bodily changes are instantaneous, as the Commentator says in *Physics* 6,Averroes, *Commentary on the Physics*, bk. 6, text. 68. for example, illumination, generation, corruption, and the like. Therefore much more so is an angel’s change.  
 
@@ -518,7 +520,7 @@ Reply Sed Contra 8: We concede the other arguments.
 
 Exposition of the second part of the text  
 
-****The omnipotent God, ever the same in unchangeable eternity, will, and truth, moves the spiritual creature through time*.*Sent*. I, 37.6(169).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 8, ch. 26, para. 48 (CCSL 28.1.265; PL 34:391). The distinction of these motions, and the reason for their names, was presented in Distinction 8.*In I Sent*., d. 8, q. 3, aa. 1‒3.***
+*The omnipotent God, ever the same in unchangeable eternity, will, and truth, moves the spiritual creature through time*.*Sent*. I, 37.6(169).3, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 8, ch. 26, para. 48 (CCSL 28.1.265; PL 34:391). The distinction of these motions, and the reason for their names, was presented in Distinction 8.*In I Sent*., d. 8, q. 3, aa. 1‒3.  
 
 *We do not hold that God is diffused through everything as if by a spatial magnitude, as earth, or our light, is diffused*.*Sent*. I, 37.9(172).1, quoting Augustine, *Epistulae*, letter 187, “To Dardanus,” para. 11 (CSEL 57:90; PL 33:836). He says this because nothing has extension in place except insofar as it is quantified, whether through itself, like bodies (whence he notes earth, that is, soil), or incidentally, like bodily qualities, such as light.  
 

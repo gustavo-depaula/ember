@@ -1,8 +1,10 @@
 # D. 18 - Creation of woman
 
+***De origine mulieris***
+
 ***Divisio textus***
 
-***Postquam determinavit originem hominis ex parte ipsius viri, hic determinat de origine mulieris, et dividitur in duas partes:***
+Postquam determinavit originem hominis ex parte ipsius viri, hic determinat de origine mulieris, et dividitur in duas partes:  
 
 in prima de origine ipsius secundum corpus;  
 
@@ -68,7 +70,7 @@ Articulus 1
 
 ***Utrum corpus mulieris debuerit fieri de costa viri***
 
-***Ad primum sic proceditur. Videtur quod corpus mulieris de costa viri fieri non debuit.***
+Ad primum sic proceditur. Videtur quod corpus mulieris de costa viri fieri non debuit.  
 
 Distinctio enim sexus communis est homini et aliis animalibus. Sed in aliis animalibus mas et femina simul producta sunt, et neutrum ab altero sumptum. Ergo videtur quod nec femina hominis de viro sumi debuit.  
 
@@ -108,7 +110,7 @@ Articulus 2
 
 ***Utrum Deus convenienter indiderit materiae rationes seminales***
 
-***Ad secundum sic proceditur. Videtur quod inconvenienter dicatur rationes seminales materiae Deus indidisse.***
+Ad secundum sic proceditur. Videtur quod inconvenienter dicatur rationes seminales materiae Deus indidisse.  
 
 Quod enim recipitur in materia sensibili, est in ea per esse naturae, et non per esse intentionis; quia materia cognoscitiva non est formarum quas recipit, sed per eas in esse specifico perficitur. Sed ratio non nominat formam secundum esse naturae, sed per modum intentionis. Ergo virtutes rebus sensibilibus inditae rationes dici non debent.  
 
@@ -158,7 +160,7 @@ Articulus 3
 
 ***Utrum ea quae fiunt praeter rationes seminales sint miracula***
 
-***Ad tertium sic proceditur. Videtur quod ea quae praeter rationes seminales fiunt, non omnia miraculaMandonnet: *mirabilia*. sint.***
+Ad tertium sic proceditur. Videtur quod ea quae praeter rationes seminales fiunt, non omnia miraculaMandonnet: *mirabilia*. sint.  
 
 In opus enim creationis virtus seminalis naturae non potest, nec tamen opus creationis miraculosum dicitur: quia miracula sunt ad manifestationem gratiae, ut in littera dicitur; ad quod creatio non est ordinata, sed magis ad institutionem naturae. Ergo videtur quod non sit ratio miraculi in hoc quod praeter causas seminales aliquid fiat.  
 
@@ -202,7 +204,7 @@ Quaestio 2
 
 ***De formatione mulieris ex parte animae***
 
-***Deinde quaeritur de formatione mulieris ex parte animae; et circa hoc quaeruntur tria:***
+Deinde quaeritur de formatione mulieris ex parte animae; et circa hoc quaeruntur tria:  
 
 primo utrum anima rationalis sit ex traduce, vel per creationem;  
 
@@ -216,7 +218,7 @@ Articulus 1
 
 ***Utrum anima humana traducatur a parentibus***
 
-***Ad primum sic proceditur. Videtur quod anima humana etiam a parentibus traducatur.***
+Ad primum sic proceditur. Videtur quod anima humana etiam a parentibus traducatur.  
 
 Dicitur enim Genes. 46:26: *omnes animae quae egressae sunt de femore Jacob . . . sexaginta sex*. Sed non egreditur aliquid filii ex femore patris nisi per traductionem seminis. Ergo videtur quod hoc modo anima filii ex parentibus veniat.  
 
@@ -266,7 +268,7 @@ Articulus 2
 
 ***Utrum anima rationalis sit a Deo mediantibus angelis***
 
-***Ad secundum sic proceditur. Videtur quod anima rationalis procedat a Deo mediantibus angelis.***
+Ad secundum sic proceditur. Videtur quod anima rationalis procedat a Deo mediantibus angelis.  
 
 Primo per hoc quod habetur in lib. *De causis*, quia intelligentiae primae influunt formas fixas stantes, sicut est anima. Sed intelligentias angelos dicimus. Ergo videtur quod a Deo mediantibus angelis producatur.  
 
@@ -316,7 +318,7 @@ Articulus 3
 
 ***Utrum anima sensibilis sit ex traduce***
 
-***Ad tertium sic proceditur. Videtur quod etiam anima sensibilis non sit ex traduce.***
+Ad tertium sic proceditur. Videtur quod etiam anima sensibilis non sit ex traduce.  
 
 Nulla enim substantia simplex perfecta in esse quae sit hoc aliquid, educitur in esse nisi per creationem. Sed anima sensibilis est hujusmodi substantia. Ergo, etc. Probatio mediae. Illud quod est tantum forma et non hoc aliquid, non potest esse motor; unde in 8 *Physic*., Philosophus vult quod forma ignis non sit motor in motu ejus naturali: non enim potest habere perfectam et absolutam actionem quae debetur motori qui non habet esse perfectum. Sed anima sensibilis est motor in animali. Ergo est hoc aliquid habens esse perfectum; et quod sit simplex, per se patet.  
 
@@ -360,7 +362,7 @@ Ad quintum dicendum, quod in animalibus generatis ex putrefactione virtus caeli,
 
 Expositio textus  
 
-****Aut si de pedibus*Mandonnet suggests supplying: *facta fuisset, videretur*. *ad servitutem subjicienda*. Non videtur esse verum per hoc quod dicitur Gen. 3:16: *sub viri potestate eris*.***
+*Aut si de pedibus*Mandonnet suggests supplying: *facta fuisset, videretur*. *ad servitutem subjicienda*. Non videtur esse verum per hoc quod dicitur Gen. 3:16: *sub viri potestate eris*.  
 
 Et dicendum quod hoc in poenam mulieris inobedientis inductum est. Vel dicendum quod non est sub potestate viri per modum servitutis, sed per modum gubernationis.  
 

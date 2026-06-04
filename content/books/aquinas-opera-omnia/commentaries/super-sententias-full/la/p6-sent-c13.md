@@ -1,6 +1,8 @@
 # D. 35 - Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel
 
-***Postquam determinavit Magister de donis, hic ostendit differentiam quorumdam donorum ad invicem, quae maxime convenire videntur, idest sapientiae, scientiae, et intellectus; et dividitur in partes duas:***
+***Divisio textus***
+
+Postquam determinavit Magister de donis, hic ostendit differentiam quorumdam donorum ad invicem, quae maxime convenire videntur, idest sapientiae, scientiae, et intellectus; et dividitur in partes duas:  
 
 in prima assignat differentiam;  
 
@@ -40,7 +42,7 @@ Articulus 1
 
 ***Utrum vita convenienter dividatur per activam et contemplativam***
 
-***Ad primum sic proceditur. Videtur quod vita inconvenienter dividatur per activam et contemplativam.***
+Ad primum sic proceditur. Videtur quod vita inconvenienter dividatur per activam et contemplativam.  
 
 Vivere enim, ut dicit Philosophus in 2 The Bruges, Brussels, and Paris (841 and 842) manuscripts read *1*. *De anima*, viventibus est esse. Sed contemplativum et activum non ostendunt differentiam in essendo, sed magis in operando. Ergo non sunt differentiae vitae.  
 
@@ -84,7 +86,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod vita contemplativa consistat The Bruges manuscript reads *consistit*. tantum in actu cognitivae.***
+Ad secundum sic proceditur. Videtur quod vita contemplativa consistat The Bruges manuscript reads *consistit*. tantum in actu cognitivae.  
 
 Quia contemplationis finis est veritas. Sed veritas tantum ad cognitionem pertinet. Ergo vita contemplativa tantum in operatione cognitivae consistit.  
 
@@ -98,7 +100,7 @@ Praeterea, gustare ad affectum pertinet, sicut videre ad intellectum. Sed Gregor
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod consistat in operatione rationis. Vita enim contemplativa est vita humana. Sed humana vita est secundum operationem humanam. Cum ergo operatio humana sit secundum rationem, a qua dicitur homo, videtur quod vita contemplativa consistat in operatione rationis principaliter.***
+Ulterius. Videtur quod consistat in operatione rationis. Vita enim contemplativa est vita humana. Sed humana vita est secundum operationem humanam. Cum ergo operatio humana sit secundum rationem, a qua dicitur homo, videtur quod vita contemplativa consistat in operatione rationis principaliter.  
 
 Praeterea, vita contemplativa praecipue consistit in cognitione divinorum. Sed invisibilia Dei per ea quae facta sunt cognoscuntur, Roman. 1; cognoscere autem ex aliquibus alia, rationis est. Ergo vita contemplativa praecipue consistit in operatione rationis.  
 
@@ -110,7 +112,7 @@ Praeterea, secundum Philosophum in 10 *Ethic.*, secundum vitam contemplativam co
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod omnis actus intellectus ad vitam contemplativam pertineat. Sicut enim se habet vita activa ad agibilia, ita se habet vita The edited versions omit *vita*. contemplativa ad contemplabilia. Sed omnes actus circa agibilia ad vitam activam pertinent. Ergo omnes actus intellectus circa intelligibilia ad contemplativam vitam pertinent.***
+Ulterius. Videtur quod omnis actus intellectus ad vitam contemplativam pertineat. Sicut enim se habet vita activa ad agibilia, ita se habet vita The edited versions omit *vita*. contemplativa ad contemplabilia. Sed omnes actus circa agibilia ad vitam activam pertinent. Ergo omnes actus intellectus circa intelligibilia ad contemplativam vitam pertinent.  
 
 Praeterea, vita contemplativa, secundum Philosophum in 10 *Ethic.*, in philosophiae consideratione consistit. Sed philosophia est de omnibus entibus. Ergo omnis operatio intellectus pertinet ad vitam contemplativam, cum intellectus non sit non entium.  
 
@@ -122,7 +124,7 @@ Praeterea, circa idem videtur esse vita contemplativa et felicitas contemplativa
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod vita, secundum quod nunc loquimur, consistit in operatione cui aliquis principaliter mancipatur: cujus ratione omnia quae impedire possunt, dimittit; quae autem adjuvant, quaerit et prosequitur. Hoc autem non potest esse nisi per voluntatem, cujus est inter opera humana unum prae aliis acceptare, quidquid sit illud. Voluntas autem cum sit motor omnium potentiarum animae, oportet quod ad objecta et actus omnium potentiarum se habeat, prout habent rationem boni: quia unusquisque actus debitus cujuscumque potentiae est bonum ejus. Et ideo vita contemplativa consistit in actu cognitivae virtutis praeacceptatae per affectivam.***
+Respondeo dicendum ad primam quaestionem, quod vita, secundum quod nunc loquimur, consistit in operatione cui aliquis principaliter mancipatur: cujus ratione omnia quae impedire possunt, dimittit; quae autem adjuvant, quaerit et prosequitur. Hoc autem non potest esse nisi per voluntatem, cujus est inter opera humana unum prae aliis acceptare, quidquid sit illud. Voluntas autem cum sit motor omnium potentiarum animae, oportet quod ad objecta et actus omnium potentiarum se habeat, prout habent rationem boni: quia unusquisque actus debitus cujuscumque potentiae est bonum ejus. Et ideo vita contemplativa consistit in actu cognitivae virtutis praeacceptatae per affectivam.  
 
 Sed cum operatio sit quodammodo media inter operantem The Bruges manuscript reads *operationem*. et objectum, velut perfectio ipsius operantis, et perfecta per objectum, a quo speciem recipit; ex duplici parte potest operatio cognitivae affectari. Uno modo inquantum est perfectio cognoscentis; et talis affectatio operationis cognitivae procedit ex amore sui: et sic erat affectio in vita contemplativa philosophorum. Alio modo inquantum terminatur ad objectum; et sic contemplationis desiderium procedit ex amore objecti: quia ubi amor, ibi oculus; et Matth. 6:21: *ubi est thesaurus tuus, ibi est et cor tuum*; et sic habet affectionem vita contemplativa sanctorum, de qua loquimur.  
 
@@ -136,7 +138,7 @@ Ad tertium dicendum, quod habitus contemplativae, quamvis sint in parte cognitiv
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod vita contemplativa consistit in illa operatione quam homo prae aliis acceptat; unde habet rationem finis respectu aliarum humanarum operationum, quia aliae propter ipsam exercentur. Inquisitio autem rationis sicut a simplici intuitu intellectus progreditur (quia ex principiis quae quis intellectu tenet, ad inquisitionem procedit), ita etiam ad intellectus certitudinem terminatur, dum conclusiones inventae in principia resolvuntur, in quibus certitudinem habent. Et ideo vita contemplativa principaliter in operatione intellectus consistit; et hoc ipsum nomen contemplationis importat, quod visionem significat. Utitur tamen inquisitione rationis contemplativus, ut deveniat ad visionem contemplationis, quam principaliter intendit; et haec inquisitio, secundum Bernardum, dicitur consideratio.***
+Ad secundam quaestionem dicendum, quod vita contemplativa consistit in illa operatione quam homo prae aliis acceptat; unde habet rationem finis respectu aliarum humanarum operationum, quia aliae propter ipsam exercentur. Inquisitio autem rationis sicut a simplici intuitu intellectus progreditur (quia ex principiis quae quis intellectu tenet, ad inquisitionem procedit), ita etiam ad intellectus certitudinem terminatur, dum conclusiones inventae in principia resolvuntur, in quibus certitudinem habent. Et ideo vita contemplativa principaliter in operatione intellectus consistit; et hoc ipsum nomen contemplationis importat, quod visionem significat. Utitur tamen inquisitione rationis contemplativus, ut deveniat ad visionem contemplationis, quam principaliter intendit; et haec inquisitio, secundum Bernardum, dicitur consideratio.  
 
 Ad primum ergo The edited versions read *igitur*. dicendum, quod homo, inquantum est contemplativus, est aliquid supra hominem: quia in intellectus simplici visione continuatur homo superioribus substantiis, quae intelligentiae vel angeli dicuntur, sicut animalia continuantur hominibus in vi aestimativa, quae est supremum The Bruges manuscript reads *suprema*. in eis, secundum quam aliquid simile operibus rationis operantur.  
 
@@ -146,7 +148,7 @@ Ad tertium dicendum, quod Richardus non intendit quod in illis discursibus princ
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod vita contemplativa sanctorum praesupponit amorem ipsius contemplati, ex quo procedit. Unde cum vita contemplativa consistat in operatione quam quis maxime intendit, oportet quod sit circa contemplationem maxime amati: hoc autem Deus est: unde principaliter consistit in operatione intellectus circa Deum; unde Gregorius, *Super Ezech*., dicit, quod contemplativa vita ad solum videndum principium anhelat, scilicet Deum.***
+Ad tertiam quaestionem dicendum, quod vita contemplativa sanctorum praesupponit amorem ipsius contemplati, ex quo procedit. Unde cum vita contemplativa consistat in operatione quam quis maxime intendit, oportet quod sit circa contemplationem maxime amati: hoc autem Deus est: unde principaliter consistit in operatione intellectus circa Deum; unde Gregorius, *Super Ezech*., dicit, quod contemplativa vita ad solum videndum principium anhelat, scilicet Deum.  
 
 Nihilominus tamen et contemplativus considerat alia, inquantum ad Dei contemplationem ordinantur sicut ad finem, puta creaturas, in quibus admiratur divinam majestatem et sapientiam et beneficia Dei, ex quibus inardescit in ejus amorem; et peccata propria, ex quorum ablutione mundatur cor, ut Deum videre possit. Unde et nomen contemplationis significat illum actum principalem, quo quis Deum in seipso contemplatur; sed speculatio magis nominat illum actum quo quis divina in rebus creatis quasi in speculo inspicit.  
 
@@ -164,7 +166,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod activa vita non consistat principaliter in his quae ad alterum sunt.***
+Ad tertium sic proceditur. Videtur quod activa vita non consistat principaliter in his quae ad alterum sunt.  
 
 Vita enim activa ordinatur ad contemplativam, inquantum disponit hominem ad contemplationis actum. Sed per virtutes quae ordinant hominem in seipso, maxime disponitur homo ad contemplationem, sicut per castitatem, ut dicit Commentator in 7 *Physic*. Ergo vita activa praecipue consistit in his quae sunt hominis ad seipsum.  
 
@@ -178,7 +180,7 @@ Praeterea, vita activa fecunda dicitur; unde per Liam significatur. Sed fecundit
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod cognitio nullo modo ad activam pertineat. Sicut enim se habet vita contemplativa ad cognitionem, ita se habet vita activa ad actionem. Ergo proportionalitate transversa, sicut se habet vita contemplativa ad actionem, ita se habet vita activa ad cognitionem. Sed nihil actionis ad contemplativam vitam pertinet. Ergo nihil cognitionis pertinet ad activam.***
+Ulterius. Videtur quod cognitio nullo modo ad activam pertineat. Sicut enim se habet vita contemplativa ad cognitionem, ita se habet vita activa ad actionem. Ergo proportionalitate transversa, sicut se habet vita contemplativa ad actionem, ita se habet vita activa ad cognitionem. Sed nihil actionis ad contemplativam vitam pertinet. Ergo nihil cognitionis pertinet ad activam.  
 
 Praeterea, vita activa consistit totaliter in operationibus virtutum moralium, ad quas scire parum vel nihil confert, ut Philosophus dicit in 2 *Ethic*. Ergo videtur quod ad activam nihil cognitionis pertineat.  
 
@@ -190,7 +192,7 @@ Praeterea, Philosophus dicit quod prudentia est cognata morali virtuti. Sed prud
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod vita activa non possit esse simul cum contemplativa. Quia vita de qua hic loquimur, consistit in hoc in quo homo maxime studet. Sed impossibile est quod homo duobus summum studium apponat. Ergo impossibile est quod in homine sit simul vita activa et contemplativa.***
+Ulterius. Videtur quod vita activa non possit esse simul cum contemplativa. Quia vita de qua hic loquimur, consistit in hoc in quo homo maxime studet. Sed impossibile est quod homo duobus summum studium apponat. Ergo impossibile est quod in homine sit simul vita activa et contemplativa.  
 
 Praeterea, vita activa significatur per Martham, quae turbatur circa plurima, Luc. 10. Sed turbatio vacationi repugnat quam contemplatio requirit. Ergo vita activa non est simul cum contemplativa.  
 
@@ -202,7 +204,7 @@ Praeterea, Beata Virgo The Bruges manuscript adds *perfecta*. fuit in utraque vi
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod activa vita consistit in omnibus agibilibus, sive sint ad seipsum, sive ad alium; sed principaliter consistit in his quae ad alium sunt; quia bonum multorum, secundum Philosophum in principio *Ethic.*, est divinius quam bonum unius; unde et justitia quae ad alterum est, a Philosopho in 5 *Ethic*., dicitur esse pulcherrima virtutum. Sicut autem vita contemplativa consistit principaliter in optimo contemplabili, ita vita activa in optimo agibili.***
+Respondeo dicendum ad primam quaestionem, quod activa vita consistit in omnibus agibilibus, sive sint ad seipsum, sive ad alium; sed principaliter consistit in his quae ad alium sunt; quia bonum multorum, secundum Philosophum in principio *Ethic.*, est divinius quam bonum unius; unde et justitia quae ad alterum est, a Philosopho in 5 *Ethic*., dicitur esse pulcherrima virtutum. Sicut autem vita contemplativa consistit principaliter in optimo contemplabili, ita vita activa in optimo agibili.  
 
 Ad primum igitur dicendum, quod per ea quae ad seipsum sunt homo disponit se tantum ad contemplativam; sed The edited versions read *licet*. per ea quae ad alium comparantur, homo et se et alios disponit: The edited versions read *disponat*. quod The Bruges manuscript reads *ad id quod*; the Nicolaï edition reads *quia*; the Vivès edition reads *ubi* against the Brussels, and Paris (841 and 842) manuscripts. divinius est.  
 
@@ -212,7 +214,7 @@ Ad tertium dicendum, quod doctrina est duplex. Quaedam quae ad cognitionem verit
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod duplex est cognitio. Una speculativa, cujus finis est veritas, secundum Philosophum in 2 *Metaph*. Alia cujus finis est operatio, quae est causa et regula eorum quae per hominem fiunt.***
+Ad secundam quaestionem dicendum, quod duplex est cognitio. Una speculativa, cujus finis est veritas, secundum Philosophum in 2 *Metaph*. Alia cujus finis est operatio, quae est causa et regula eorum quae per hominem fiunt.  
 
 Quae autem ab homine fiunt, quaedam dicuntur factibilia, quae fiunt per transmutationem aliquam exterioris materiae, sicut contingit in operationibus artis mechanicae; quaedam vero non transeunt in transmutationem exterioris materiae, sed in moderationem propriarum passionum et operationum. Ad utrumque autem istorum practica cognitio dirigit. Unde non omnis practica cognitio in vita activa essentialiter invenitur, sed illa tantum quae in agibilibus dirigit opera quae sunt virtutis moralis. Haec enim cognitio ad electionem requiritur, in qua principaliter consistit moralis virtus.  
 
@@ -226,7 +228,7 @@ Ad tertium dicendum, quod praeteritum jam transit in necessarium; unde considera
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod in omnibus dispositionibus naturalibus contingit quod dispositio in suo perfecto esse attingit id ad quod disponit, quod etiam erat per quamdam inchoationem, dum dispositio ad perfectionem tendebat, sicut patet de calore et forma ignis; quia quando calor completus est in termino alterationis, forma ignis inducitur, et calor simul cum forma ignis manet; dum vero erat alteratio, non erat forma ignis, nisi secundum quamdam inchoationem.***
+Ad tertiam quaestionem dicendum, quod in omnibus dispositionibus naturalibus contingit quod dispositio in suo perfecto esse attingit id ad quod disponit, quod etiam erat per quamdam inchoationem, dum dispositio ad perfectionem tendebat, sicut patet de calore et forma ignis; quia quando calor completus est in termino alterationis, forma ignis inducitur, et calor simul cum forma ignis manet; dum vero erat alteratio, non erat forma ignis, nisi secundum quamdam inchoationem.  
 
 Vita autem activa est dispositio ad contemplativam; unde Isidorus in lib. *De sum. bono*: *qui prius in vita activa proficit, bene ad contemplationem conscendit*. Et ideo quamdiu homo non pervenit ad perfectionem in vita activa, non potest in eo esse contemplativa vita, nisi secundum quamdam inchoationem imperfecte: tunc enim difficultatem homo patitur in actibus virtutum moralium, et oportet quod tota solicitudine ad ipsos intendat, unde retrahitur a studio contemplationis.  
 
@@ -244,7 +246,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod activa vita sit nobilior quam contemplativa.***
+Ad quartum sic proceditur. Videtur quod activa vita sit nobilior quam contemplativa.  
 
 Tullius enim, in lib. *De offic*., probat praeeminentiam justitiae ad alias virtutes; quia propter exercitium actus ejus, actus aliarum intermittuntur. The Bruges, Brussels, and Paris (841 and 842) manuscripts as well as the edited versions besides the Nicolaï edition read *interimuntur*. The Nicolaï edition notes *Non sicut prius interimuntur: abjici autem aut relinqui Tullius ibi significat, ut videre est versus finem*. Sed similiter aliquis revocatur ab otio contemplationis, ut fructum faciat per laborem actionis. Ergo activa vita est dignior quam contemplativa.  
 
@@ -260,7 +262,7 @@ Praeterea, quanto vita alicujus est caelesti vitae similior, tanto est nobilior.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam vita contemplativa sit majoris meriti quam activa. Gregorius enim dicit in *Moralibus*: The Vivès edition omits *in Moralibus*. *contemplativa major est merito quam activa: quia activa in usu praesentis operis laborat; contemplativa vero in sapore intimo venturam jam requiem degustat*.***
+Ulterius. Videtur quod etiam vita contemplativa sit majoris meriti quam activa. Gregorius enim dicit in *Moralibus*: The Vivès edition omits *in Moralibus*. *contemplativa major est merito quam activa: quia activa in usu praesentis operis laborat; contemplativa vero in sapore intimo venturam jam requiem degustat*.  
 
 Praeterea, supra dictum est, distinct. 30, quaest. unica, art. 4, quod magis consistit meritum in dilectione Dei quam proximi. Sed in contemplativa vita homo magis insistit dilectioni Dei, The Bruges manuscript adds *quam proximi*. in activa autem magis dilectioni The Vivès edition omits *dilectioni*. proximi. Ergo vita The edited versions omit *vita*. contemplativa est majoris meriti quam activa.  
 
@@ -272,7 +274,7 @@ Praeterea, meritum contra praemium dividitur. Sed contemplativa vita plus habet 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod contemplativa vita non sit diuturnior The Bruges manuscript reads *divinior*. quam activa. Vita enim activa fuit in Christo perfecta. Sed ipse fuit perfectus comprehensor. Ergo vita activa manebit in patria; et ita non est minus diuturna quam contemplativa.***
+Ulterius. Videtur quod contemplativa vita non sit diuturnior The Bruges manuscript reads *divinior*. quam activa. Vita enim activa fuit in Christo perfecta. Sed ipse fuit perfectus comprehensor. Ergo vita activa manebit in patria; et ita non est minus diuturna quam contemplativa.  
 
 Praeterea, homines erunt in patria aequales angelis. Sed in angelis est utraque vita: quia quidam sunt assistentes, quod ad contemplationem pertinet; quidam ministrantes, quod pertinet ad actionem. Ergo utraque vita The Bruges manuscript omits *vita*. etiam in hominibus in patria erit; et sic idem quod prius.  
 
@@ -284,7 +286,7 @@ Praeterea, Philosophus in 10 *Ethic*. dicit, quod contemplativa vita diuturnior 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod duplex est ratio boni. Aliquid enim dicitur bonum, quod propter seipsum est desiderandum: et sic vita contemplativa simpliciter melior est quam activa, inquantum magis assimilatur illi vitae ad quam per activam et contemplativam nitimur pervenire; unde et contemplativa est finis activae, et fini ultimo vicinior. Aliquid vero dicitur bonum quasi propter aliud eligendum; et in hac via vita activa The Brussels manuscript reads *et haec vita activa*. praeeminet contemplativae. Vita enim contemplativa non ordinatur ad aliquid aliud in ipso in quo est: quia vita aeterna non est nisi quaedam consummatio contemplativae vitae, quae per vitam contemplativam in praesenti quodammodo praelibatur: unde non restat quod ordinetur ad aliud, nisi secundum quod bonum unius hominis ordinatur ad bonum multorum, ad quod propinquius se habet vita activa quam contemplativa. Unde activa quantum ad hanc partem quae saluti proximorum studet, est utilior quam The Bruges manuscript adds *sit*. contemplativa; sed contemplativa est dignior: quia dignitas The Bruges manuscript adds *sistit in bonitate et*. significat bonitatem alicujus propter seipsum, utilitas vero propter aliud. Sed vita activa quae non ad alium, sed ad seipsum tantum The Bruges manuscript reads *est*. ordinatur, neque dignior neque utilior est The Bruges manuscript reads *neque utilior*. quam contemplativa, immo comparatur ad contemplativam sicut utile ad id ad quod est utile.***
+Respondeo dicendum ad primam quaestionem, quod duplex est ratio boni. Aliquid enim dicitur bonum, quod propter seipsum est desiderandum: et sic vita contemplativa simpliciter melior est quam activa, inquantum magis assimilatur illi vitae ad quam per activam et contemplativam nitimur pervenire; unde et contemplativa est finis activae, et fini ultimo vicinior. Aliquid vero dicitur bonum quasi propter aliud eligendum; et in hac via vita activa The Brussels manuscript reads *et haec vita activa*. praeeminet contemplativae. Vita enim contemplativa non ordinatur ad aliquid aliud in ipso in quo est: quia vita aeterna non est nisi quaedam consummatio contemplativae vitae, quae per vitam contemplativam in praesenti quodammodo praelibatur: unde non restat quod ordinetur ad aliud, nisi secundum quod bonum unius hominis ordinatur ad bonum multorum, ad quod propinquius se habet vita activa quam contemplativa. Unde activa quantum ad hanc partem quae saluti proximorum studet, est utilior quam The Bruges manuscript adds *sit*. contemplativa; sed contemplativa est dignior: quia dignitas The Bruges manuscript adds *sistit in bonitate et*. significat bonitatem alicujus propter seipsum, utilitas vero propter aliud. Sed vita activa quae non ad alium, sed ad seipsum tantum The Bruges manuscript reads *est*. ordinatur, neque dignior neque utilior est The Bruges manuscript reads *neque utilior*. quam contemplativa, immo comparatur ad contemplativam sicut utile ad id ad quod est utile.  
 
 Ad primum ergo The edited versions read *igitur*. dicendum, quod vita contemplativa propter activam intermittitur ad tempus, non simpliciter; seu The Brussels, Paris (841 and 842), and Vatican (111) manuscripts omit *seu* against the Bruges and Vatican (190 and 755) manuscripts as well as the Piana, Antwerp, Nicolaï, Venice (2nd ed.), and Parma editions, which read *sed*. ratione utilitatis, non The Brussels manuscript reads *sed*. ratione dignitatis.  
 
@@ -296,7 +298,7 @@ Ad quartum dicendum, quod intelligendum est ratione utilitatis in alterum proven
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod meritum pendet ex radice caritatis; unde contingit quandoque quod in activa quis plus mereatur quam in contemplativa, vel e converso, secundum quod majorem habet caritatem vel minorem. Nihilominus tamen cum quaeritur de duobus in genere quid sit majoris meriti, intelligendum est quantum pertinet ad rationem ipsorum actuum, non quantum ad ipsos operantes.***
+Ad secundam quaestionem dicendum, quod meritum pendet ex radice caritatis; unde contingit quandoque quod in activa quis plus mereatur quam in contemplativa, vel e converso, secundum quod majorem habet caritatem vel minorem. Nihilominus tamen cum quaeritur de duobus in genere quid sit majoris meriti, intelligendum est quantum pertinet ad rationem ipsorum actuum, non quantum ad ipsos operantes.  
 
 Est ergo duplex meritum; scilicet dimissionis culpae, et consecutionis gloriae: quantum ad primum, The Piana and Antwerp editions read *praemium*. majoris meriti dicitur activa quam contemplativa, inquantum laboriosior; unde habet plus de ratione satisfactionis. Quantum autem ad meritum consecutionis gloriae, sic contemplativa vita est majoris meriti quam activa quantum ad puritatem: quia non admiscetur ei tantum de pulvere terrenorum, sicut fit in activa vita.  
 
@@ -310,7 +312,7 @@ Ad tertium dicendum, quod Philosophus loquitur de contemplativa vita per compara
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dictum est de donis et virtutibus perficientibus in vita activa, quod manent The Vivès edition reads *manet*. in patria, sed non quantum ad eosdem actus; similiter etiam dicendum est de vita activa: unde vita activa quantum ad illos actus quos modo habet, quibus turbatur de proximorum necessitatibus et de propriis passionibus, non remanebit: quia tunc panem esurienti non porriget, ut in Glossa inducta subjungitur. Manebit autem quantum ad alios actus qui erunt virtutum et donorum in patria.***
+Ad tertiam quaestionem dicendum, quod, sicut dictum est de donis et virtutibus perficientibus in vita activa, quod manent The Vivès edition reads *manet*. in patria, sed non quantum ad eosdem actus; similiter etiam dicendum est de vita activa: unde vita activa quantum ad illos actus quos modo habet, quibus turbatur de proximorum necessitatibus et de propriis passionibus, non remanebit: quia tunc panem esurienti non porriget, ut in Glossa inducta subjungitur. Manebit autem quantum ad alios actus qui erunt virtutum et donorum in patria.  
 
 Vita autem contemplativa nihilominus est diuturnior quam activa: quia manet etiam quo ad illos actus quos in via habet: qui quidem in statu viae sunt imperfecti, sed in patria perficientur. Unde Gregorius dicit *Super Ezech.* de contemplativa vita: *etiam cum contendimus, vix aliquid* The edited versions add *aut*. *parum attingere valemus*.  
 
@@ -354,7 +356,7 @@ Praeterea, dona ponuntur virtutibus altiora. Sed inter omnes habitus videtur sap
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod sapientia non sit tantum de divinis. Quia, sicut dicit Philosophus in principio The edited versions read *1*. *Metaph*., oportet sapientem certissimum esse de omnibus. Ergo non est de divinis tantum.***
+Ulterius. Videtur quod sapientia non sit tantum de divinis. Quia, sicut dicit Philosophus in principio The edited versions read *1*. *Metaph*., oportet sapientem certissimum esse de omnibus. Ergo non est de divinis tantum.  
 
 Praeterea, ad sapientem pertinet determinare medium in virtutibus moralibus, ut patet per definitionem Philosophi in 2 *Eth.* de virtute. Sed divina non sunt operabilia a nobis. Ergo cum medium virtutis moralis sit de operabilibus a nobis, videtur quod non sit sapientia tantum de divinis.  
 
@@ -366,7 +368,7 @@ Praeterea, Philosophus in 6 *Ethicor*. dicit, quod sapientia est quasi caput sci
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sapientia non sit in intellectu, sed in affectu magis. Quia sapientia secundum nomen suum est, ut dicitur Eccli. 6. Sed dicitur a sapore. Cum ergo sapor ad gustum pertineat, qui ad affectum transfertur, sicut visus ad intellectum; videtur quod sapientia sit in affectu.***
+Ulterius. Videtur quod sapientia non sit in intellectu, sed in affectu magis. Quia sapientia secundum nomen suum est, ut dicitur Eccli. 6. Sed dicitur a sapore. Cum ergo sapor ad gustum pertineat, qui ad affectum transfertur, sicut visus ad intellectum; videtur quod sapientia sit in affectu.  
 
 Praeterea in littera dicitur, quod sapientia est in cognitione et dilectione ejus quod semper incommutabiliter manet, quod est Deus. Sed dilectio ad affectionem pertinet. Ergo sapientia est in affectione.  
 
@@ -378,7 +380,7 @@ Praeterea, omnis virtus intellectualis est in parte cognitiva. Sed sapientia pon
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sapientia secundum nominis sui usum videtur importare eminentem quamdam sufficientiam in cognoscendo, ut et The Paris (841) manuscript and the edited versions read *etiam*. in seipso certitudinem habeat de magnis et mirabilibus quae aliis ignota sunt, et possit de omnibus judicare, quia unusquisque bene judicat quae cognoscit, possit etiam et alios ordinare per dictam eminentiam.***
+Respondeo dicendum ad primam quaestionem, quod sapientia secundum nominis sui usum videtur importare eminentem quamdam sufficientiam in cognoscendo, ut et The Paris (841) manuscript and the edited versions read *etiam*. in seipso certitudinem habeat de magnis et mirabilibus quae aliis ignota sunt, et possit de omnibus judicare, quia unusquisque bene judicat quae cognoscit, possit etiam et alios ordinare per dictam eminentiam.  
 
 Haec autem sufficientia in quibusdam quidem est per studium et doctrinam, adjuncta vivacitati intellectus: et talis sapientia a Philosopho ponitur virtus intellectualis in 6 *Ethic*. Sed in quibusdam talis sufficientia accidit per quamdam affinitatem ad divina, sicut dicit Dionysius de Hierotheo, quod patiendo divina, didicit divina: et de talibus dicit Apostolus, 1 Cor. 2:15: *spiritualis judicat omnia*; et 1 Joan. 2:27: The Bruges and Brussels manuscripts read *chapter 3*. *unctio docebit vos de omnibus*.  
 
@@ -390,7 +392,7 @@ Ad tertium dicendum, quod aequivocatio est in sapientia, ut dictum est.
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut dictum est, ad sapientem pertinet judicare, et ordinare. Judicium autem de aliquibus fieri non potest nisi per ea quae sunt lex et regula eorum. Semper autem oportet quod superiora sint inferiorum regula; et ideo oportet de infimis per superiora judicare: unde quamvis intentioPLE: *inuentio*. quandoque ab infimis incipiat, et ad suprema tendat, tamen judicium nunquam perficitur nisi per superiora, in quibus inferiora resolvuntur: et ideo oportet sapientem de altissimis cognitorem esse. Altissimum autem dicitur dupliciter. Uno modo simpliciter, quod praeeminet omnibus; et hoc modo divina altissima sunt: unde eum qui simpliciter sapiens dicitur, oportet circa divina instructum esse. Alio modo dicitur The Bruges manuscript omits *dicitur*. altissimum in genere aliquo; et qui circa hoc instructus est, non simpliciter, sed in genere illo sapiens dicitur: sicut in artificialibus altissimum est usus illorum propter quem The edited versions read *quod*. fiunt: unde qui habet artem usualem, quae architectonica dicitur, in singulis artificiis sapiens illius artificii dicitur:***
+Ad secundam quaestionem dicendum, quod, sicut dictum est, ad sapientem pertinet judicare, et ordinare. Judicium autem de aliquibus fieri non potest nisi per ea quae sunt lex et regula eorum. Semper autem oportet quod superiora sint inferiorum regula; et ideo oportet de infimis per superiora judicare: unde quamvis intentioPLE: *inuentio*. quandoque ab infimis incipiat, et ad suprema tendat, tamen judicium nunquam perficitur nisi per superiora, in quibus inferiora resolvuntur: et ideo oportet sapientem de altissimis cognitorem esse. Altissimum autem dicitur dupliciter. Uno modo simpliciter, quod praeeminet omnibus; et hoc modo divina altissima sunt: unde eum qui simpliciter sapiens dicitur, oportet circa divina instructum esse. Alio modo dicitur The Bruges manuscript omits *dicitur*. altissimum in genere aliquo; et qui circa hoc instructus est, non simpliciter, sed in genere illo sapiens dicitur: sicut in artificialibus altissimum est usus illorum propter quem The edited versions read *quod*. fiunt: unde qui habet artem usualem, quae architectonica dicitur, in singulis artificiis sapiens illius artificii dicitur:  
 
 et per modum istum prudens in rebus humanis quibus praecipit, sapiens dicitur. Et quia per delectationes et alias passiones corrumpitur aestimatio prudentiae, ut dicitur in 6 *Ethic.*; ideo apud Senecam et alios morales philosophos translatum est nomen sapientiae ad temperantiam et alias morales virtutes, inquantum passiones refrenant, et sic prudentiam conservant: unde dicunt, quod sapiens non perturbatur, et hujusmodi.  
 
@@ -400,7 +402,7 @@ Et per hoc patet solutio ad objecta.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dictum est, sapientiae donum eminentiam The Vivès edition reads *eminentia*. cognitionis habet, per quamdam unionem ad divina, quibus non unimur nisi per amorem, ut qui adhaeret Deo, sit unus spiritus: The Nicolaï, Venice (2nd ed.), Parma, and Vivès editions add *cum eo*. 1 Corinth. 6. Unde et Dominus, Joan. 15, secreta Patris se revelasse discipulis dicit, inquantum amici erant. Et ideo sapientiae donum dilectionem quasi principium praesupponit, et sic in affectione est. Sed quantum ad essentiam in cognitione est; unde ipsius actus videtur esse et hic et The Bruges, Brussels, and Paris (841 and 842) manuscripts omit *et*. in futuro divina amata contemplari, et per ea de aliis judicare non solum in speculativis, sed etiam in agendis, in quibus ex fine judicium sumitur; et ideo Gregorius sapientiam contra stultitiam ponit; quae importat errorem circa finem intentum.***
+Ad tertiam quaestionem dicendum, quod, sicut dictum est, sapientiae donum eminentiam The Vivès edition reads *eminentia*. cognitionis habet, per quamdam unionem ad divina, quibus non unimur nisi per amorem, ut qui adhaeret Deo, sit unus spiritus: The Nicolaï, Venice (2nd ed.), Parma, and Vivès editions add *cum eo*. 1 Corinth. 6. Unde et Dominus, Joan. 15, secreta Patris se revelasse discipulis dicit, inquantum amici erant. Et ideo sapientiae donum dilectionem quasi principium praesupponit, et sic in affectione est. Sed quantum ad essentiam in cognitione est; unde ipsius actus videtur esse et hic et The Bruges, Brussels, and Paris (841 and 842) manuscripts omit *et*. in futuro divina amata contemplari, et per ea de aliis judicare non solum in speculativis, sed etiam in agendis, in quibus ex fine judicium sumitur; et ideo Gregorius sapientiam contra stultitiam ponit; quae importat errorem circa finem intentum.  
 
 Ad primum ergo dicendum, quod saporem sapientia importat quantum ad dilectionem praecedentem, non quantum ad cognitionem sequentem, nisi ratione delectationis, quae ipsam cognitionem in actu exequitur. The Nicolaï edition reads *Sic etiam in Manuscripto*. Moos suggests either *consequitur* or *subsequitur*. Vel dicendum, quod dictum Ecclesiastici non intelligitur quantum ad similitudinem nominis cum sapore: quia illa similitudo, etsi sit in lingua Latina, non tamen est in aliis linguis: sed loquitur quantum ad significatum quod omnes concipiunt de nomine sapientiae, in quacumque lingua dicatur.  
 
@@ -428,7 +430,7 @@ Praeterea, donorum propria est ratio, ut prius dictum est, ut per ea quis super 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod donum intellectus non habeat aliquem actum in via. Intellectus enim importat quamdam cognitionem sine obumbratione: unde Isaac dicit, quod ubi obumbratur intellectus, oritur ratio. Sed impossibile est quod in statu viae cognoscamus sine obumbratione phantasmatum, ut Philosophus ostendit in 3 *De anima*. Ergo intellectus non habet aliquem actum in via.***
+Ulterius. Videtur quod donum intellectus non habeat aliquem actum in via. Intellectus enim importat quamdam cognitionem sine obumbratione: unde Isaac dicit, quod ubi obumbratur intellectus, oritur ratio. Sed impossibile est quod in statu viae cognoscamus sine obumbratione phantasmatum, ut Philosophus ostendit in 3 *De anima*. Ergo intellectus non habet aliquem actum in via.  
 
 Praeterea, Dionysius dicit, 1 cap. *De cael. hier*., quod impossibile est nobis aliter lucere divinum radium, nisi varietate sacrorum velaminum circumvelatum. Sed ubicumque est cognoscere per aliqua velamina, oportet esse collationem, quae non ad intellectum sed ad rationem pertinet. Ergo non est possibile quod in statu viae sit nobis intellectus actus.  
 
@@ -442,7 +444,7 @@ Praeterea, sexta beatitudo ad intellectus donum refertur. Sed in illa ponitur al
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod intellectus a sapientia non differat. Totum enim a parte essentialiter non distinguitur. Sed intellectus videtur esse totum respectu sapientiae, quae est tantum de Deo, cum intellectus sit de The Vivès edition omits *de*. Deo et spiritualibus creaturis. Ergo intellectus essentialiter a sapientia non differt.***
+Ulterius. Videtur quod intellectus a sapientia non differat. Totum enim a parte essentialiter non distinguitur. Sed intellectus videtur esse totum respectu sapientiae, quae est tantum de Deo, cum intellectus sit de The Vivès edition omits *de*. Deo et spiritualibus creaturis. Ergo intellectus essentialiter a sapientia non differt.  
 
 Praeterea, sapientia, ut in littera Magister dicit, delectationem circa divina experitur. Sed hoc idem videtur ad intellectum pertinere: in consideratione enim The Vivès edition omits *enim*. intellectus est maxima delectatio, sicut dicit Philosophus in 10 *Ethic*. Ergo intellectus a sapientia non differt.  
 
@@ -454,7 +456,7 @@ Praeterea, dona correspondent virtutibus. Sed alia virtus est intellectus, et al
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod intellectus secundum suum nomen importat cognitionem pertingentem ad intima rei. Unde cum sensus et imaginatio circa accidentia occupentur quae quasi circumstant essentiam rei, intellectus ad essentiam ipsam The Bruges manuscript reads *ipsius*; the edited versions read *ejus* against the Brussels and Paris (841 and 842) manuscripts. pertingit. Unde secundum Philosophum, objectum intellectus est quid.***
+Respondeo dicendum ad primam quaestionem, quod intellectus secundum suum nomen importat cognitionem pertingentem ad intima rei. Unde cum sensus et imaginatio circa accidentia occupentur quae quasi circumstant essentiam rei, intellectus ad essentiam ipsam The Bruges manuscript reads *ipsius*; the edited versions read *ejus* against the Brussels and Paris (841 and 842) manuscripts. pertingit. Unde secundum Philosophum, objectum intellectus est quid.  
 
 Sed in apprehensione hujus essentiae est differentia. Aliquando enim apprehenditur ipsa essentia per seipsam, non quod ad eam ingrediatur intellectus ex ipsis quae quasi circumvolvuntur ipsi essentiae; et hic est modus apprehendendi a The Vivès edition omits *a*. substantiis separatis; unde intelligentiae dicuntur. Aliquando vero ad intima non pervenitur nisi per circumposita quasi per quaedam ostia; et hic est modus apprehendendi in hominibus, qui ex effectibus et proprietatibus procedunt ad cognitionem essentiae rei. Et quia in hoc oportet esse quemdam discursum; ideo hominis apprehensio ratio dicitur, quamvis ad intellectum terminetur in hoc quod inquisitio ad essentiam rei perducit. Unde si aliqua sunt quae statim sine discursu rationis apprehendantur, horum non dicitur esse ratio, sed intellectus; sicut principia prima, quae quisque statim probat audita. Primo ergo modo intellectus potentia est; sed hoc The edited versions read *secundo*. modo accipiendo, habitus principiorum dicitur. Sicut autem mens humana in essentiam rei non ingreditur The Bruges manuscript omits *per accidentia, ita etiam in spiritualia non ingreditur nisi* through homoteleuton. nisi per accidentia, ita etiam in spiritualia non ingreditur nisi per corporalia, et sensibilium similitudines, ut Dionysius dicit.  
 
@@ -464,7 +466,7 @@ Et per hoc patet solutio ad objecta.
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod intellectus ad spiritualia ingreditur dupliciter. Uno modo per viam remotionis, dum a spiritualibus viam quae in corporalibus invenitur, removet. Alio modo secundum quod ulterius in ipsa spiritualia The Bruges, Brussels, and Paris (842) manuscripts as well as the Piana, Antwerp, and Vivès editions read *ad virtutem*; the Paris (841) manuscript reads *virtutem*; the Nicolaï edition notes *Non in spiritualia virtutum, ut superflue prius et inepte; cum prius forte scriptum esset, in spiritualia intuitum defigit, et inde quidam spiritualia virtutum reponendum finxerit*. defigit intuitum.***
+Ad secundam quaestionem dicendum, quod intellectus ad spiritualia ingreditur dupliciter. Uno modo per viam remotionis, dum a spiritualibus viam quae in corporalibus invenitur, removet. Alio modo secundum quod ulterius in ipsa spiritualia The Bruges, Brussels, and Paris (842) manuscripts as well as the Piana, Antwerp, and Vivès editions read *ad virtutem*; the Paris (841) manuscript reads *virtutem*; the Nicolaï edition notes *Non in spiritualia virtutum, ut superflue prius et inepte; cum prius forte scriptum esset, in spiritualia intuitum defigit, et inde quidam spiritualia virtutum reponendum finxerit*. defigit intuitum.  
 
 In statu ergo viae intellectus ingreditur ad spiritualia primo modo, The Bruges manuscript adds *etiam*. maxime ad divina: quia in hoc perficitur cognitio humana secundum statum viae, ut intelligamus Deum ab omnibus separatum, super omnia esse, ut dicit Dionysius in The Vivès edition omits *dicit Dionysius in*. lib. *De mystica theologia*. Et ad hoc pervenit Moyses, qui dicitur intrasse ad caliginem, in qua Deus erat, Exod. 20. The edited versions read *19*. Et propter hoc etiam quantum ad statum viae munditia ponitur in sexta beatitudine, quae pertinet ad depurationem intellectus ab omnibus corporalibus.  
 
@@ -480,7 +482,7 @@ Ad quartum dicendum, quod Augustinus nominat infirmitatem humanam corporalia pha
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod intellectus videtur nominare simplicem apprehensionem; sed sapientia nominat quamdam plenitudinem certitudinis ad judicandum de apprehensis: et ideo intellectus videtur pertinere ad viam inventionis, The Piana and Antwerp editions read *intensionis*. sed sapientia ad viam judicii. Sed The Brussels manuscript reads *et*. quia judicium non potest esse de apprehensis nisi per suprema, quibus sapiens mente unitur, ut quasi in superiori collocatus de omnibus judicet, quae quidem unio ad divina per dilectionem est; ideo sapientia circa divina principaliter est, et habet circa ea delectationem ex dilectione causatam; intellectus autem est The Bruges manuscript omits *est*. indifferenter circa omnia apprehensa spiritualia, et delectationem ex amore ad apprehensa causatam, quantum est in se, non importat.***
+Ad tertiam quaestionem dicendum, quod intellectus videtur nominare simplicem apprehensionem; sed sapientia nominat quamdam plenitudinem certitudinis ad judicandum de apprehensis: et ideo intellectus videtur pertinere ad viam inventionis, The Piana and Antwerp editions read *intensionis*. sed sapientia ad viam judicii. Sed The Brussels manuscript reads *et*. quia judicium non potest esse de apprehensis nisi per suprema, quibus sapiens mente unitur, ut quasi in superiori collocatus de omnibus judicet, quae quidem unio ad divina per dilectionem est; ideo sapientia circa divina principaliter est, et habet circa ea delectationem ex dilectione causatam; intellectus autem est The Bruges manuscript omits *est*. indifferenter circa omnia apprehensa spiritualia, et delectationem ex amore ad apprehensa causatam, quantum est in se, non importat.  
 
 Ad primum ergo dicendum, quod non eodem modo considerat de Deo intellectus et sapientia; et ideo sapientia non includitur in intellectu; sed alio modo, ut dictum est in corp.  
 
@@ -494,7 +496,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod donum scientiae non sit tantum de humanis, sed etiam de divinis.***
+Ad tertium sic proceditur. Videtur quod donum scientiae non sit tantum de humanis, sed etiam de divinis.  
 
 Dicit enim Augustinus in littera, quod scientia donum est, qua fides defenditur et roboratur. Sed fides est de divinis. Ergo scientia est de divinis.  
 
@@ -508,7 +510,7 @@ Praeterea, ad idem non sunt necessarii duo habitus. Sed ad divina ordinatur sapi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit tantum practica, sed etiam speculativa. Quia quanto aliqua cognitio est altior, tanto ad plura se extendit. Sed scientia donum est altior quam scientia quae ponitur virtus intellectualis. Ergo cum scientia quae est virtus intellectualis, se extendat ad operabilia et speculabilia, videtur quod multo fortius scientia quae est donum.***
+Ulterius. Videtur quod non sit tantum practica, sed etiam speculativa. Quia quanto aliqua cognitio est altior, tanto ad plura se extendit. Sed scientia donum est altior quam scientia quae ponitur virtus intellectualis. Ergo cum scientia quae est virtus intellectualis, se extendat ad operabilia et speculabilia, videtur quod multo fortius scientia quae est donum.  
 
 Praeterea, Philosophus in principio *Metaph.* probat quod scientia speculativa est nobilior quam practica, inquantum per se speculativae expetuntur, non autem practicae. Sed scientia quae est donum, debet esse altissima scientia. Ergo est magis speculativa quam practica.  
 
@@ -520,7 +522,7 @@ Praeterea, ab omnibus dicitur, quod scientia donum dirigit pietatem. Sed pietas 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in scientia humanorum non sit aliquid noxiae curiositatis. Maxime enim cognoscere mala, malum esse videtur. Sed scientia malorum bona est; alias in Deo non esset. Ergo in scientia non potest esse aliquid noxiae curiositatis.***
+Ulterius. Videtur quod in scientia humanorum non sit aliquid noxiae curiositatis. Maxime enim cognoscere mala, malum esse videtur. Sed scientia malorum bona est; alias in Deo non esset. Ergo in scientia non potest esse aliquid noxiae curiositatis.  
 
 Praeterea, quanto aliquis magis accedit ad suam perfectionem, tanto magis laudabilis est. Sed homo per scientiam cujuslibet rei perficitur, quia trahitur de potentia ad actum, cum intellectus noster sit potentia omnia intelligibilia, ut dicitur in 3 *De anima*. Ergo in scientia non potest accidere peccatum.  
 
@@ -532,7 +534,7 @@ Praeterea, expendere tempus in inutilibus, videtur non esse sine peccato. Sed qu
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod duorum dividentium aliquod commune, illud quod aliquam excellentiam super rationem communis addit, proprium nomen ex illa differentia addita accipit. Quod autem nullam differentiam dignitatis addit, nomen commune retinet; sicut patet in proprio et definitione: quia proprium essentiale dicitur definitio, proprium autem non essentiale vocatur nomine communi proprium.***
+Respondeo dicendum ad primam quaestionem, quod duorum dividentium aliquod commune, illud quod aliquam excellentiam super rationem communis addit, proprium nomen ex illa differentia addita accipit. Quod autem nullam differentiam dignitatis addit, nomen commune retinet; sicut patet in proprio et definitione: quia proprium essentiale dicitur definitio, proprium autem non essentiale vocatur nomine communi proprium.  
 
 Similiter etiam est in proposito. Omnis enim certitudinalis cognitio alicujus, et praecipue si sit complexi, per rationis collationem habita, scientia dicitur. Quae The edited versions read *Sed illa quae* against the Bruges, Brussels, Paris (841 and 842), and Vatican (111, 190, 755) manuscripts; the Brussels manuscript adds *vero*. est de altissimis, quasi aliarum ordinatrix et judex, proprium nomen superaddit, et sapientia dicitur; aliae vero scientiae quae ei subduntur, simpliciter scientiae nomen retinent. Et hoc modo accipiendo scientiam, est tantum de rebus creatis, sapientia vero de divinis; sive loquamur in virtutibus intellectualibus, sive in donis.  
 
@@ -542,7 +544,7 @@ Ad secundum et tertium patet solutio ex dictis.
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod sicut est in sensibus corporis, quod sensus qui est ad esse, scilicet tactus, est in omnibus membris; qui autem sunt ad bene esse, sunt in corde tantum, per quod alia membra reguntur; ita etiam est de donis gratuitis quae in Ecclesia dantur. Quaedam enim sunt de necessitate salutis; et haec oportet quod The Bruges, Brussels, and Paris (842) manuscripts add *in*. omnibus membris Christi dentur: et hujusmodi sunt quae pertinent ad gratiam gratum facientem, ut virtutes et dona. Quaedam autem sunt, quae sunt ad bene esse, sicut gratiae gratis datae, ut operatio miraculorum, et hujusmodi; et haec non omnibus Christi membris dantur, sed illis tantum quibus expedit ad aedificationem fidei.***
+Ad secundam quaestionem dicendum, quod sicut est in sensibus corporis, quod sensus qui est ad esse, scilicet tactus, est in omnibus membris; qui autem sunt ad bene esse, sunt in corde tantum, per quod alia membra reguntur; ita etiam est de donis gratuitis quae in Ecclesia dantur. Quaedam enim sunt de necessitate salutis; et haec oportet quod The Bruges, Brussels, and Paris (842) manuscripts add *in*. omnibus membris Christi dentur: et hujusmodi sunt quae pertinent ad gratiam gratum facientem, ut virtutes et dona. Quaedam autem sunt, quae sunt ad bene esse, sicut gratiae gratis datae, ut operatio miraculorum, et hujusmodi; et haec non omnibus Christi membris dantur, sed illis tantum quibus expedit ad aedificationem fidei.  
 
 Cum ergo scientia sit donum, et sit circa res creatas, oportet quod de ratione scientiae sit tantum illa cognitio quae est ad necessitatem salutis. Non est autem de necessitate salutis cognitio rerum quantum ad naturas et quidditates suas, sed solum cognitio eorum quae quis debet facere vel vitare: et ipsa scientia contemplativa non pertinet ad rationem doni scientiae, sed solum scientia practica, qua homo quamdam certitudinem concipit de agendis ex praesentia spiritus: et in hoc differt a prudentia, quae non certitudinaliter, sed magis aestimative de agendis judicium habet; unde et hoc donum a certitudine judicii nomen habet: scientia vero quae ad defensionem fidei ordinatur, pertinet ad gratiam gratis datam, de qua dicitur 1 Corinth. 12:8: The Vivès edition omits *1 Corinth. 12:2*. *alii datur sermo scientiae secundum eumdem spiritum*, et non est de necessitate doni, sed de perfectione fidei. Unde The Bruges manuscript adds *sicut*. dicit Augustinus in littera, quod tali The Bruges manuscript adds *etiam*. scientia multi qui fidem habent, non pollent.  
 
@@ -554,7 +556,7 @@ Ad tertium dicendum, quod non est inconveniens unam potentiam diversis habitibus
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod scire, quantum in se est, nunquam malum est, et per consequens nec addiscere: quia cujus generatio est mala, ipsum est malum. Sed per accidens contingit esse peccatum in sciendo vel addiscendo The Bruges manuscript omits *vel addiscendo*. sive considerando. Hoc autem accidens potest accidere vel ex parte cognoscibilis, vel ex parte cognoscentis.***
+Ad tertiam quaestionem dicendum, quod scire, quantum in se est, nunquam malum est, et per consequens nec addiscere: quia cujus generatio est mala, ipsum est malum. Sed per accidens contingit esse peccatum in sciendo vel addiscendo The Bruges manuscript omits *vel addiscendo*. sive considerando. Hoc autem accidens potest accidere vel ex parte cognoscibilis, vel ex parte cognoscentis.  
 
 Ex parte cognoscentis est duplex accidens. Unum est quando propter occupationem in studio alicujus scientiae impeditur ab executione officii ad quod tenetur; sicut judex si propter studium geometriae desisteret a The Brussels manuscript reads *sicut judex si desisteret propter studium geometriae*. causis expediendis, vel sacerdos a confessionibus audiendis quando eas audire tenetur. Aliud est quando propter delectationem in aliqua scientia veniret in contemptum alicujus quod revereri oportet; sicut de Hieronymo accidit: quia tantum delectabatur in ornatu verborum Tullii, quod desipiebat The Bruges manuscript reads *displicebat*; the Paris (841) manuscript reads *despiciebat*; the Paris (842) manuscript reads *decipiebat*. ei incultus sermo prophetarum, ut ipse dicit. Sicut etiam accidit illis qui tantum adhaerent rationibus humanis quod a fide discedunt et eam impugnant.  
 
@@ -582,7 +584,7 @@ Praeterea, virtutibus respondent dona. Sed quaedam virtus est ordinata ad bene c
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod consilium donum non differat a dono scientiae. Scientia enim est qua bene conversamur in medio pravae et perversae nationis. Sed hoc non potest fieri sine consilio. Ergo consilium non distinguitur a scientia.***
+Ulterius. Videtur quod consilium donum non differat a dono scientiae. Scientia enim est qua bene conversamur in medio pravae et perversae nationis. Sed hoc non potest fieri sine consilio. Ergo consilium non distinguitur a scientia.  
 
 Praeterea, in donis quae ad executionem pertinent, idem donum respondet omnibus virtutibus quae sunt circa materiam unam, sicut pietas omnibus virtutibus quae sunt circa communicationes. Sed prudentia et eubulia sunt circa unam materiam, quia circa actum rationis in agibilibus. Cum ergo prudentiae respondeat scientia, eubuliae autem consilium, videtur quod consilium et scientia sint unum donum.  
 
@@ -594,7 +596,7 @@ Praeterea, sicut in speculativis est via inventionis et judicii, ita et in pract
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod actus consilii non erit in patria. Consilium enim, secundum Gregorium, contra praecipitationem mentem munit; et Damascenus dicit 2 lib., quod consilium dubitantis est. Sed in patria non erit praecipitatio neque dubitatio. Ergo nec The edited versions read *neque*. consilium.***
+Ulterius. Videtur quod actus consilii non erit in patria. Consilium enim, secundum Gregorium, contra praecipitationem mentem munit; et Damascenus dicit 2 lib., quod consilium dubitantis est. Sed in patria non erit praecipitatio neque dubitatio. Ergo nec The edited versions read *neque*. consilium.  
 
 Praeterea, consilium inquisitionem et discursum importat, ut patet per Philosophum in 3 *Ethic*. Sed in patria, secundum Augustinum, non erunt volubiles cogitationes, sed utemur deiformi intellectu ad similitudinem angelorum. Ergo in patria non erit consilii actus.  
 
@@ -606,7 +608,7 @@ Praeterea, sancti in patria erunt Deo similes. Sed in Deo est consilium, Isai. 2
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod secundum Philosophum in 3 *Ethic.*, consilium est quaestio de operabilibus a nobis, non tamen de omnibus. Quae enim determinata sunt qualiter fieri debeant, sicut litterarum figurae, in dubitationem non veniunt, neque in quaestionem; et ita de eis non est consilium. Similiter etiam The Bruges manuscript omits *etiam*; the Brussels manuscript reads *et*. cum finis sit principium movens agentem in omnibus operabilibus, non est consilium de fine, sicut nec in aliis scientiis est quaestio de principiis illius scientiae;***
+Respondeo dicendum ad primam quaestionem, quod secundum Philosophum in 3 *Ethic.*, consilium est quaestio de operabilibus a nobis, non tamen de omnibus. Quae enim determinata sunt qualiter fieri debeant, sicut litterarum figurae, in dubitationem non veniunt, neque in quaestionem; et ita de eis non est consilium. Similiter etiam The Bruges manuscript omits *etiam*; the Brussels manuscript reads *et*. cum finis sit principium movens agentem in omnibus operabilibus, non est consilium de fine, sicut nec in aliis scientiis est quaestio de principiis illius scientiae;  
 
 sed de his The Brussels manuscript omits *quae sunt ad finem, consilium est. In his* through homoteleuton. quae sunt ad finem, consilium est. In his autem recte consiliatur quis, si debitum finem praestituat; si media accommoda ad finem inveniat, ut non faciat mala propter bona; si tempus sit conveniens rebus agendis, ne per diuturnitatem consilii tempus The Bruges manuscript adds *agendi*. transeat; et ad hanc rectitudinem consilii perducit eubulia, ut dicit Philosophus in 6 *Ethicor*.  
 
@@ -620,7 +622,7 @@ Ad tertium dicendum, quod secundum Philosophum in 3 *Ethic.* consilium adhibetur
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod habitus dirigentes in vita activa distinguuntur quantum ad tria. Primo quantum ad modum operandi: et sic a virtutibus prudentia et eubulia, quae operantur humano modo, distinguuntur scientia et consilium, quae operantur supra humanum modum, ut ex dictis patet. Alio modo quantum ad actus sive vias quae exiguntur ad directionem, quae sunt invenire et judicare; et sic consilium, quod consistit in inveniendo, distinguitur a scientia, quae consistit in judicando de inventis per consilium. Tertio The edited versions add *modo*. quantum ad medium; et sic sapientia distinguitur a scientia, inquantum sapientia quandoque dirigit in agendis per rationes aeternas, scientia autem per rationes inferiores.***
+Ad secundam quaestionem dicendum, quod habitus dirigentes in vita activa distinguuntur quantum ad tria. Primo quantum ad modum operandi: et sic a virtutibus prudentia et eubulia, quae operantur humano modo, distinguuntur scientia et consilium, quae operantur supra humanum modum, ut ex dictis patet. Alio modo quantum ad actus sive vias quae exiguntur ad directionem, quae sunt invenire et judicare; et sic consilium, quod consistit in inveniendo, distinguitur a scientia, quae consistit in judicando de inventis per consilium. Tertio The edited versions add *modo*. quantum ad medium; et sic sapientia distinguitur a scientia, inquantum sapientia quandoque dirigit in agendis per rationes aeternas, scientia autem per rationes inferiores.  
 
 Ad primum ergo dicendum, quod ad bene conversandum, ut dictum est, duo requiruntur; et ideo oportet esse duo dona.  
 
@@ -630,13 +632,13 @@ Ad tertium dicendum, quod judicium, quod est synesis, et praecipere applicanda a
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dictum est de donis exequentibus in vita activa, quod remanebunt eorum actus circa mensuram ex qua erat modus supra hominem in eorum actibus, non autem circa propriam materiam, quia fortitudo nullam difficultatem sustinebit, ut dictum est; ita in scientia et consilio: quia in patria non remanebunt eorum actus, nec contingentia operabilia dubia, in quibus nunc judicant et inveniunt; unde non oportet quod sit ibi dubitatio nec The edited versions read *neque*. etiam discursus. Sed The Piana and Antwerp editions omit *sed*. remanebunt in hoc quod convertent se ad illum a quo erat certitudo in eorum judicio et inventione supra humanum modum, et erit actus scientiae circa ipsum secundum quod est regula ad judicandum; actus vero consilii erit circa ipsum, secundum quod est illuminans The Bruges manuscript adds *et*. ad inveniendum.***
+Ad tertiam quaestionem dicendum, quod, sicut dictum est de donis exequentibus in vita activa, quod remanebunt eorum actus circa mensuram ex qua erat modus supra hominem in eorum actibus, non autem circa propriam materiam, quia fortitudo nullam difficultatem sustinebit, ut dictum est; ita in scientia et consilio: quia in patria non remanebunt eorum actus, nec contingentia operabilia dubia, in quibus nunc judicant et inveniunt; unde non oportet quod sit ibi dubitatio nec The edited versions read *neque*. etiam discursus. Sed The Piana and Antwerp editions omit *sed*. remanebunt in hoc quod convertent se ad illum a quo erat certitudo in eorum judicio et inventione supra humanum modum, et erit actus scientiae circa ipsum secundum quod est regula ad judicandum; actus vero consilii erit circa ipsum, secundum quod est illuminans The Bruges manuscript adds *et*. ad inveniendum.  
 
 Et secundum hoc patet solutio ab objecta.  
 
 Expositio textus  
 
-****Quo fides saluberrima gignitur*. Hoc intelligendum est quantum ad distinctionem articulorum, sive quantum ad exhortationem ad fidem, secundum quod fides ex auditu est, non quantum ad habitum fidei qui est ex infusione.***
+*Quo fides saluberrima gignitur*. Hoc intelligendum est quantum ad distinctionem articulorum, sive quantum ad exhortationem ad fidem, secundum quod fides ex auditu est, non quantum ad habitum fidei qui est ex infusione.  
 
 *Abstinere vero a malis est in medio pravae nationis prudenter versari*. Hoc est timoris sicut exequentis, scientiae sicut dirigentis.  
 

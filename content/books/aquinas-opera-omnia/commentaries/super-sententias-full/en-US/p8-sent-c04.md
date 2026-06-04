@@ -1,6 +1,8 @@
 # D. 17 - Comparing the parts of penance
 
-***After the Master has distinguished the parts of penance, here he raises some questions about those parts; and it is divided into two parts: in the first he raises the questions; in the second, he pursues them in detail, at: *for some say that no one is cleansed from sin without confession by the mouth and satisfaction in deed*.*Sententiae* IV, 17.1 (92). 2.***
+***Comparing the parts of penance***
+
+After the Master has distinguished the parts of penance, here he raises some questions about those parts; and it is divided into two parts: in the first he raises the questions; in the second, he pursues them in detail, at: *for some say that no one is cleansed from sin without confession by the mouth and satisfaction in deed*.*Sententiae* IV, 17.1 (92). 2.  
 
 And this part is divided into two: in the first, he details one question about the relation of contrition to confession, namely, whether by contrition alone or confession sin is forgiven; in the second, he pursues the questions about confession itself at: *let us now examine the second part of the question*.*Sent*. IV, 17.2 (93).1.  
 
@@ -34,7 +36,7 @@ first, what is the justification of sinners;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* I-II, q. 113, a. 1 and a. 6, ad 1; *de Veritate*, q. 28, a. 1. It seems that this description that is set down in the interlinear Gloss on Romans 8 is inadequate, namely: *justification is the remission of sins, and the consummation of good works*. For sins infect all the powers. But justification is only in the will, for according to Anselm, *justice is rectitude of the will kept for its own sake*.Anselm, *Dialogue on Truth*, ch. 12 (Opera Omnia, ed. Schmitt, 1:194). Therefore, since justification is nothing else than the acquisition of justice, it seems that it is not the remisson of all sins.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* I-II, q. 113, a. 1 and a. 6, ad 1; *de Veritate*, q. 28, a. 1. It seems that this description that is set down in the interlinear Gloss on Romans 8 is inadequate, namely: *justification is the remission of sins, and the consummation of good works*. For sins infect all the powers. But justification is only in the will, for according to Anselm, *justice is rectitude of the will kept for its own sake*.Anselm, *Dialogue on Truth*, ch. 12 (Opera Omnia, ed. Schmitt, 1:194). Therefore, since justification is nothing else than the acquisition of justice, it seems that it is not the remisson of all sins.  
 
 Obj. 2: Furthermore, Bernard says that justification is *the revelation of divine counsel*.Bernard of Clairvaux, *Epistle 107*, par. 7 (*Bernardi Opera*, ed. Leclercq and Rochais, 7:272). But the divine counsel is revealed sometimes to those whose sins are not forgiven, as is clear from the case of Nebuchadnezzar (cf. Dan 2). Therefore, justification is not the remission of sins.  
 
@@ -44,7 +46,7 @@ Obj. 4: Furthermore, consummation of good works in a penitent happens through sa
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that justification is something different from calling.Parallel: *ST* I-II, q. 113, a. 1, ad 3. For in Romans 8, four things are listed in order: namely, predestination, calling, justification, glorification. But the second of these stands apart from the first. Therefore, the third also differs from the second.***
+Obj. 1: Moreover, it seems that justification is something different from calling.Parallel: *ST* I-II, q. 113, a. 1, ad 3. For in Romans 8, four things are listed in order: namely, predestination, calling, justification, glorification. But the second of these stands apart from the first. Therefore, the third also differs from the second.  
 
 Obj. 2: Furthermore, calling also happens among those remaining in sin: *I have called you and you have refused* (Prov 1:24). But justification does not, since it is the remission of sins. Therefore, justification is not calling.  
 
@@ -56,7 +58,7 @@ Furthermore (2), a motion from one term to the opposite term, like from whitenes
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that justification is not the same as the renewal and healing of the mind. For someone can be justified in this life, but not renewed or healed. Therefore, justification is neither of these. The proof of the middle term as to justification is from the fact that it says: *they are justified freely by his grace* (Rom 3:24). The proof as to the healing is clear from what is said in the Gloss about Psalm 103(102):3: *who heals all your diseases*, that in the end he will heal weaknesses, when this corruptible thing puts on incorruption—which will not happen in this life. The proof as to renewal: the Gloss on Romans 6:4, *so that we may walk in newness of life*, says that it is perfected in our future immortality.***
+Obj. 1: Moreover, it seems that justification is not the same as the renewal and healing of the mind. For someone can be justified in this life, but not renewed or healed. Therefore, justification is neither of these. The proof of the middle term as to justification is from the fact that it says: *they are justified freely by his grace* (Rom 3:24). The proof as to the healing is clear from what is said in the Gloss about Psalm 103(102):3: *who heals all your diseases*, that in the end he will heal weaknesses, when this corruptible thing puts on incorruption—which will not happen in this life. The proof as to renewal: the Gloss on Romans 6:4, *so that we may walk in newness of life*, says that it is perfected in our future immortality.  
 
 Obj. 2: Furthermore, things that have different opposites are themselves different. But the opposites of these things are different both in name and in definition. For impiety is opposed to justification, oldness to renewal, infirmity to healing. Therefore, they are not the same.  
 
@@ -64,7 +66,7 @@ On the contrary, renewal of the mind and healing happen by the remission of sins
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that justification is not reducible to the divine attribute of mercy. For according to Augustine,Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 72, par. 3. it is a greater thing to make a pious man out of an impious than to create heaven and earth. But the creation of heaven and earth, because it shows infinite power, is reducible to the attribute of power. Therefore, the justification of the impious is reduced to it as well, and not to mercy.***
+Obj. 1: Moreover, it seems that justification is not reducible to the divine attribute of mercy. For according to Augustine,Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 72, par. 3. it is a greater thing to make a pious man out of an impious than to create heaven and earth. But the creation of heaven and earth, because it shows infinite power, is reducible to the attribute of power. Therefore, the justification of the impious is reduced to it as well, and not to mercy.  
 
 Obj. 2: Furthermore, God, inasmuch as he is good, makes all good things. Therefore, inasmuch as he is just, he makes men just. But to justify is nothing other than to make just. Therefore justification is reducible to the attribute of justice rather than mercy.  
 
@@ -76,7 +78,7 @@ Furthermore (2), justification happens by grace. But grace is an effect of mercy
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that justification by definition denotes a movement toward justice. Now according to the Philosopher in the *Ethics* 5,Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 1, 1129a31ff. justice is said in three ways. For in one way it is a specific virtue establishing equality in exchanges and distributions of communicable goods, which are necessary in life. In another way it is a general name for all virtues, according as their acts are ordered to the common good according to the direction of the law. The third way conveys a certain state of rectitude in a man in relation to his parts, namely, as each part of his soul is subject to what is above it, whether to another part, or to God himself; and the Philosopher calls this metaphorical justice, in the fact that the different parts of a man are counted as different persons.***
+To the first question, I answer that justification by definition denotes a movement toward justice. Now according to the Philosopher in the *Ethics* 5,Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 1, 1129a31ff. justice is said in three ways. For in one way it is a specific virtue establishing equality in exchanges and distributions of communicable goods, which are necessary in life. In another way it is a general name for all virtues, according as their acts are ordered to the common good according to the direction of the law. The third way conveys a certain state of rectitude in a man in relation to his parts, namely, as each part of his soul is subject to what is above it, whether to another part, or to God himself; and the Philosopher calls this metaphorical justice, in the fact that the different parts of a man are counted as different persons.  
 
 Now this rectitude is destroyed by any kind of sin, and it is repaired by grace. And so this justice is also called general, inasmuch as it includes all virtues, not indeed in the manner of the universal whole, like the second kind of justice; but general is said in the manner of the integral whole: and justification is said of the movement toward this justice. Now in any movement there is a withdrawal from one term, and this is touched on in the designation mentioned above where it says: *the remission of sin*; and there is the approach toward the other term, which is touched on in saying: *and the consummation of good works*.  
 
@@ -92,7 +94,7 @@ Reply Obj. 4: The consummation of good works can be taken either as the performa
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that calling happens in two ways: one that is external, like what happens through preaching; and this is not justification, but does dispose to it. The other is interior; and sometimes indeed this does not attain its end due to a failure on the part of the one called; and this calling is nothing else than a certain impulse or movement toward the good sent by God. And this calling is also not the same as justification, but a path to it. But sometimes it reaches its end, namely, when someone hears the one calling him and comes to Christ, as it says in John 6:45: *everyone who has heard and learned from the Father comes to me*. And this calling is the same as justification according to substance, but it differs in notion. For calling is said about a person’s withdrawal from sin by the infusion and help of grace; but justification has to do with the ending terminus, namely, the state of rectitude mentioned above. And this is how calling is taken in Romans 8:30, as is seen in the Gloss. For the help for faith that God gives us by calling us, is grace, which causes the working of faith by love.***
+To the second question, it should be said that calling happens in two ways: one that is external, like what happens through preaching; and this is not justification, but does dispose to it. The other is interior; and sometimes indeed this does not attain its end due to a failure on the part of the one called; and this calling is nothing else than a certain impulse or movement toward the good sent by God. And this calling is also not the same as justification, but a path to it. But sometimes it reaches its end, namely, when someone hears the one calling him and comes to Christ, as it says in John 6:45: *everyone who has heard and learned from the Father comes to me*. And this calling is the same as justification according to substance, but it differs in notion. For calling is said about a person’s withdrawal from sin by the infusion and help of grace; but justification has to do with the ending terminus, namely, the state of rectitude mentioned above. And this is how calling is taken in Romans 8:30, as is seen in the Gloss. For the help for faith that God gives us by calling us, is grace, which causes the working of faith by love.  
 
 And so of those four that are listed there, predestination is the cause of justification in the one justifying, while calling is the same as justification but differing in notion, as was said; but glorification is the fullness of justification, whether it is referred to the perfection of grace, or to the perfection of glory.  
 
@@ -104,7 +106,7 @@ Reply Obj. 3: That person who is justified is not justified with respect to the 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the rectitude of justice mentioned above is said metaphorically for healing of the soul and its newness, by the fact that healing means the due balance in the parts of the body, while newness contains integrity and strength and seemliness. And through all these it is clear that the rectitude in the soul’s powers that is called justice contains all these things by a similitude. But since no thing is so similar to one thing that it cannot be made also similar to another, this is why things that are said metaphorically do not conform so much to one thing that they cannot also conform to others, as ‘lion’ is said metaphorically of both God and the devil. And therefore healing and newness can signify by a similitude the integrity of grace, through which guilt is taken away, which is why guilt is also called by a similitude ‘oldness’ and ‘illness’ of soul; and it can also signify the integrity of nature, which punishment takes away, so that it also may be called oldness or illness. But because guilt is the cause of punishment, thus oldness is included in oldness and illness in illness, as an effect in a cause. Therefore it is clear that justification itself, by which grace is acquired and guilt is taken away, can be called renewal and healing, although the removal of punishment can also be called renewal and healing.***
+To the third question, it should be said that the rectitude of justice mentioned above is said metaphorically for healing of the soul and its newness, by the fact that healing means the due balance in the parts of the body, while newness contains integrity and strength and seemliness. And through all these it is clear that the rectitude in the soul’s powers that is called justice contains all these things by a similitude. But since no thing is so similar to one thing that it cannot be made also similar to another, this is why things that are said metaphorically do not conform so much to one thing that they cannot also conform to others, as ‘lion’ is said metaphorically of both God and the devil. And therefore healing and newness can signify by a similitude the integrity of grace, through which guilt is taken away, which is why guilt is also called by a similitude ‘oldness’ and ‘illness’ of soul; and it can also signify the integrity of nature, which punishment takes away, so that it also may be called oldness or illness. But because guilt is the cause of punishment, thus oldness is included in oldness and illness in illness, as an effect in a cause. Therefore it is clear that justification itself, by which grace is acquired and guilt is taken away, can be called renewal and healing, although the removal of punishment can also be called renewal and healing.  
 
 Reply Obj. 1: As to the fault, a renewal can happen in this life, but not entirely as to punishment, and it is likewise with healing; and this is how those authorities are speaking.  
 
@@ -112,7 +114,7 @@ Reply Obj. 2: Those things also represent, by a similitude, the same thing as im
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, It should be said that in every action that God does in creation, all his attributes concur (otherwise his action would not be perfect), but nevertheless, some actions or effects of his are appropriated to one attribute more than another, inasmuch as that attribute is more manifest by such an action or effect than by another; as by revelation of future events the fullness of divine wisdom is manifest, and so it is appropriated to his wisdom. And since in the justification of the impious, divine mercy is manifest the most, therefore, it is reduced to this attribute.***
+To the fourth question, It should be said that in every action that God does in creation, all his attributes concur (otherwise his action would not be perfect), but nevertheless, some actions or effects of his are appropriated to one attribute more than another, inasmuch as that attribute is more manifest by such an action or effect than by another; as by revelation of future events the fullness of divine wisdom is manifest, and so it is appropriated to his wisdom. And since in the justification of the impious, divine mercy is manifest the most, therefore, it is reduced to this attribute.  
 
 Reply Obj. 1: The difficulty that exists in the justification of the impious is mostly from the lack of congruity between the impious and the reception of justification’s effect. And so when an effect like this is brought about, it indicates mercy more than power. But the effect of creation contains difficulty because of the magnitude of the deed, or because of the manner of doing it, since something is made out of nothing; and therefore it most of all manifests power.  
 
@@ -126,7 +128,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallels: *ST* I-II, q. 112, a. 2; q. 113, a. 3; *Super Ioan*. 4, lec. 2; *Super Heb.* 12, lec. 3. It seems that some preparation by which a person does what is in him is not prerequisite for justification. For the person who strives to sin does not prepare himself for grace by doing what is in him. But sometimes someone is justified who is inclined toward sin, as is clear with Paul in Acts 9. Therefore, the preparation mentioned is not prerequisite for justification.***
+Obj. 1: To the second question we proceed thus.Parallels: *ST* I-II, q. 112, a. 2; q. 113, a. 3; *Super Ioan*. 4, lec. 2; *Super Heb.* 12, lec. 3. It seems that some preparation by which a person does what is in him is not prerequisite for justification. For the person who strives to sin does not prepare himself for grace by doing what is in him. But sometimes someone is justified who is inclined toward sin, as is clear with Paul in Acts 9. Therefore, the preparation mentioned is not prerequisite for justification.  
 
 Obj. 2: Furthermore, the charity in God is much greater than what he commands man to do. But he commands man to do good to his enemies (Matt 5:44). Therefore, much more will he do good by justifying those who practice enmity against him by sinning. And so, the same as before.  
 
@@ -138,7 +140,7 @@ Furthermore (2), Augustine says, *the one who created you without you will not j
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that there is nothing in a person that he could do to prepare himself for having grace.Parallels: *ST* I-II, q. 112, a. 2; *Super Ioan*. 4, lec. 2; *Super Heb*. 12, lec. 3. For commenting on Exodus 7:3, *he has hardened his heart*, etc., the Gloss says that *his heart was so hardened that nothing could make him acceptable to God*. But only a work acceptable to God prepares one for having grace. Therefore, there was nothing in him that he could do to prepare himself; and the same argument applies to others.***
+Obj. 1: Moreover, it seems that there is nothing in a person that he could do to prepare himself for having grace.Parallels: *ST* I-II, q. 112, a. 2; *Super Ioan*. 4, lec. 2; *Super Heb*. 12, lec. 3. For commenting on Exodus 7:3, *he has hardened his heart*, etc., the Gloss says that *his heart was so hardened that nothing could make him acceptable to God*. But only a work acceptable to God prepares one for having grace. Therefore, there was nothing in him that he could do to prepare himself; and the same argument applies to others.  
 
 Obj. 2: Furthermore, Augustine says that *when faith obtains justification, the will accompanies grace, it does not lead it; it follows on its heels, it does not go ahead*.Augustine, *Epistle* 186, par. 3: “cum ergo fides impetrat iustificationem, sicut unicuique deus partitus est etiam ipsius mensuram fidei, non gratiam dei aliquid meriti praecedit humani, sed ipsa gratia meretur augeri, ut aucta mereatur et perfici, comitante non ducente, pedisequa non praeuia uoluntate” (CSEL 57:53). But if a person could prepare himself for grace he did not yet have, his will would go ahead of grace. Therefore, no one can do something by which he prepares himself for grace.  
 
@@ -150,7 +152,7 @@ On the contrary, God does not command man to do the impossible. But he commands 
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that it is not necessary for the person who does what is in him to be justified.Parallel: *ST* I-II, q. 112, a. 3. For what is done freely is done out of generosity, not out of necessity. But we are freely justified, as is clear from Romans 3:24. Therefore, it is not necessary that we be justified, no matter how much we have been prepared.***
+Obj. 1: Furthermore, it seems that it is not necessary for the person who does what is in him to be justified.Parallel: *ST* I-II, q. 112, a. 3. For what is done freely is done out of generosity, not out of necessity. But we are freely justified, as is clear from Romans 3:24. Therefore, it is not necessary that we be justified, no matter how much we have been prepared.  
 
 Obj. 2: Furthermore, God is compared to us as a potter to clay, as is clear from Isaiah 64:7, Jeremiah 18:3–6, and Romans 9:20. But no matter how much clay is prepared, it is not necessary that a vessel be formed from it. Therefore, no matter how much a man is prepared, it is not necessary that grace be poured upon him.  
 
@@ -162,7 +164,7 @@ Furthermore (2), commenting on the text, *we are justified by faith* (Rom 5:1),T
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the will, which is susceptive of the perfection of justice, cannot be subjected to this perfection by an outside agent to whom it grants nothing; for that would be working by violence, which does not fall within the voluntary, since it cannot be forced. And so it is necessary that it cooperate in its own perfection; and this cooperation is called the preparation for grace, which does what is in one. But it is not always necessary that preparation like this precede justification in time, as it is necessary in natural changes for alteration to always precede generation in time. For since an act of the will is in a person’s own power, it can be as intense from its beginning as is sufficient for preparation. But a natural disposition does proceed toward a form subsequent to this intention. Now among those who incur fault not by their own will, and do not have the use of the will, no preparation is required on their part, as is seen in the case of children in baptism.***
+To the first question, I answer that the will, which is susceptive of the perfection of justice, cannot be subjected to this perfection by an outside agent to whom it grants nothing; for that would be working by violence, which does not fall within the voluntary, since it cannot be forced. And so it is necessary that it cooperate in its own perfection; and this cooperation is called the preparation for grace, which does what is in one. But it is not always necessary that preparation like this precede justification in time, as it is necessary in natural changes for alteration to always precede generation in time. For since an act of the will is in a person’s own power, it can be as intense from its beginning as is sufficient for preparation. But a natural disposition does proceed toward a form subsequent to this intention. Now among those who incur fault not by their own will, and do not have the use of the will, no preparation is required on their part, as is seen in the case of children in baptism.  
 
 Reply Obj. 1: The justification that we are now discussing is always with the cooperation of the will, which is called preparation. But this cooperation, as was said, begins sometimes long before grace is bestowed. But sometimes, because it is perfect, it has justification immediately attached to it. And so it can happen that while someone has the plan and intention of sinning, suddenly his will is converted to God, either taking the occasion from something outside it, as was the case with Paul; or even by some interior impulse, in which the heart of a person is moved by God. And so it does not follow that such a person would have grace without doing what is in him.  
 
@@ -172,7 +174,7 @@ Reply Obj. 3: Such a diffusion of good cannot be understood unless someone is su
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the preparation that is required in the matter in order to receive the form includes two things: namely, that it be in due proportion to the form, and that it be in due proportion to the agent who must introduce the form. For nothing brings itself from potency into act. Now due proportion to the reception of the agent’s action is considered according to the due approach unto the agent.***
+To the second question, it should be said that the preparation that is required in the matter in order to receive the form includes two things: namely, that it be in due proportion to the form, and that it be in due proportion to the agent who must introduce the form. For nothing brings itself from potency into act. Now due proportion to the reception of the agent’s action is considered according to the due approach unto the agent.  
 
 But in spiritual things this is not to be understood as a spatial approach, but a spiritual one, which happens in two ways. First, by likeness of nature, according as corruptible things are said to be more distant at first from incorruptibles, in *On Generation* 2,There may be various texts that Thomas has in mind; perhaps the closest is Aristotle, *On Generation and Corruption*, Bk. 2, ch. 10, 336b25ff. Moos gives 338b30 as a reference but it does not seem correct. and because of this they receive being weakly. And likewise spiritual things are closer to God than corporeal things; and because of this angels, according to Dionysius,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, n. 2 (PG 4:179). receive more abundantly from divine goodness. Second, by affection, for according to Augustine, *we draw near to God by our affections, not by our place*.Augustine, *Expositions of the Psalms* (CCSL 38), Ps. 8, par. 1; cf. *In Iohannis euangelium tractatus* (CCSL 36), Tract. 32. But there are two kinds of due proportion of matter to form, namely, by the natural order of matter to form, and by the removal of impediments.  
 
@@ -188,7 +190,7 @@ Reply Obj. 4: Right intention leading specifically to the last end cannot exist 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that there are two kinds of necessity; namely, absolute necessity, and conditional necessity. Now in speaking about the first kind of necessity, it is not necessary that anyone receive grace who prepared himself sufficiently for grace, for neither essential necessity, according to which it is necessary that God exist, nor the necessity of force or prohibition, can apply to those things that are done by divine will.***
+To the third question, it should be said that there are two kinds of necessity; namely, absolute necessity, and conditional necessity. Now in speaking about the first kind of necessity, it is not necessary that anyone receive grace who prepared himself sufficiently for grace, for neither essential necessity, according to which it is necessary that God exist, nor the necessity of force or prohibition, can apply to those things that are done by divine will.  
 
 But when speaking about the necessity that is conditional on the divine plan, by which he willed because of the benevolence of his goodness to communicate to each person according to his own capacity, it is necessary that he pour the form into any matter that is prepared. Nevertheless, this is not true in the same way with all forms, for the forms that are produced in matter by means of secondary agents are received in the matter disposed by conditional necessity in relation to God, by whose power all the other agents act. But it is by absolute necessity in relation to the proximate agents, who act by the necessity of nature because of the order divinely imposed on them, which cannot be ignored. Now the forms that are introduced directly by God do not have an absolute necessity on the part of the agent, but a certain one on the part of the receiver, as in the perfections that are of natural being, as is the rational soul. But the forms that are not due to nature, like grace and virtues, produced immediately by God, have nothing of absolute necessity, but only of conditional necessity based on the divine order, as was said.  
 
@@ -200,7 +202,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus.Parallels: *ST* I-II, q. 113, a. 2; *de Veritate,* q. 28, a. 2; *Super Eph.* 5, lec. 5. It seems that an infusion of grace is not required for justification. For justification is not less than creation. But God created without any medium. Therefore, he also justifies without grace as a medium.***
+Obj. 1: To the third question we proceed thus.Parallels: *ST* I-II, q. 113, a. 2; *de Veritate,* q. 28, a. 2; *Super Eph.* 5, lec. 5. It seems that an infusion of grace is not required for justification. For justification is not less than creation. But God created without any medium. Therefore, he also justifies without grace as a medium.  
 
 Obj. 2: Furthermore, when there is something between two contraries, one of these can be removed without the other being posited. But between the state of grace and the state of guilt is the middle state of innocence. Therefore, guilt can be removed by justification without grace being infused.  
 
@@ -208,7 +210,7 @@ On the contrary, sin is only forgiven someone by reason of charity, for charity 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that a movement of the free will toward God is not necessary for justification.Parallels: *In II Sent*. d. 37, a. 2, ad 7; *ST* I-II, q. 113, a. 3; *de Veritate*, q. 28, aa. 3–4; *Super Ioan*. 4, lec. 2; *Super Eph*. 5, lec. 5. For someone who is drawn is not moved by his free will. But someone who comes to God is drawn through justification: *no one comes to me unless my Father draws him* (John 6:44). Therefore, in justification there is not a motion of free will.***
+Obj. 1: Moreover, it seems that a movement of the free will toward God is not necessary for justification.Parallels: *In II Sent*. d. 37, a. 2, ad 7; *ST* I-II, q. 113, a. 3; *de Veritate*, q. 28, aa. 3–4; *Super Ioan*. 4, lec. 2; *Super Eph*. 5, lec. 5. For someone who is drawn is not moved by his free will. But someone who comes to God is drawn through justification: *no one comes to me unless my Father draws him* (John 6:44). Therefore, in justification there is not a motion of free will.  
 
 Obj. 2: Furthermore, just as grace is from God, so is wisdom. But for someone to accept wisdom from God, no motion of the free will is required. And this is why it is given to someone asleep, as is seen in 1 Kings 3:15, of Solomon; and in Job 33:15–16 it says, *in sleep . . . then he opens the ears of men*. Therefore, a motion of the free will is not required for receiving justifying grace.  
 
@@ -220,7 +222,7 @@ Furthermore (2), Bernard says that the gift of grace *is as impossible without t
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that this motion of the free will toward God is not a movement of faith.Parallels: *ST* I-II, q. 113, a. 4; *de Veritate*, q. 28, a. 4; *Super Eph*. 2, lec. 3. For in order for God to draw near to us by justification, we must draw near to him by affection. But charity makes us draw near to God by affection. Therefore, this motion of the free will toward God is not of faith but of charity.***
+Obj. 1: Moreover, it seems that this motion of the free will toward God is not a movement of faith.Parallels: *ST* I-II, q. 113, a. 4; *de Veritate*, q. 28, a. 4; *Super Eph*. 2, lec. 3. For in order for God to draw near to us by justification, we must draw near to him by affection. But charity makes us draw near to God by affection. Therefore, this motion of the free will toward God is not of faith but of charity.  
 
 Obj. 2: Furthermore, Isaiah 26:18 says, *out of fear of you, Lord, we have conceived a spirit of salvation*. Therefore, since this conception happens in justification, it seems that it is a movement of fear, not of faith.  
 
@@ -232,7 +234,7 @@ Furthermore (2), justification is a work of prevenient grace. But prevenient gra
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that no contrition or motion of the free will against sin is required;Parallels: *ST* I-II, q. 113, a. 5; *ST* III, q. 86, a. 2; *SCG* III, ch. 158; *de Veritate*, q. 28, a. 5. for commenting on Luke 7:47: *her sins are forgiven her, for she has loved much*, the Gloss says that *the ardor of charity consumes the rust of sin in itself*.*Glossa*, PL 114:272. But the ardor of charity can exist without a motion against sin. Therefore, a motion against sin is not required for justification.***
+Obj. 1: Moreover, it seems that no contrition or motion of the free will against sin is required;Parallels: *ST* I-II, q. 113, a. 5; *ST* III, q. 86, a. 2; *SCG* III, ch. 158; *de Veritate*, q. 28, a. 5. for commenting on Luke 7:47: *her sins are forgiven her, for she has loved much*, the Gloss says that *the ardor of charity consumes the rust of sin in itself*.*Glossa*, PL 114:272. But the ardor of charity can exist without a motion against sin. Therefore, a motion against sin is not required for justification.  
 
 Obj. 2: Furthermore, conversion toward God is more potent for the good than turning toward temporal things is for the evil. But turning toward a changeable good sufficiently introduces fault. Therefore, conversion toward God also sufficiently justifies; and thus no motion against sin is required.  
 
@@ -240,7 +242,7 @@ On the contrary, commenting on Psalm 51:17: *the sacrifice to God is a broken sp
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that a fourth thing should not be added, namely, the remission of sins.Parallels: *ST* I-II, q. 113, a. 6; *de Veritate*, q. 28, a. 6. For an effect is not numbered with its causes. But contrition and the infusion of grace are the causes of the remission of sin. Therefore, it should not be numbered with them.***
+Obj. 1: Moreover, it seems that a fourth thing should not be added, namely, the remission of sins.Parallels: *ST* I-II, q. 113, a. 6; *de Veritate*, q. 28, a. 6. For an effect is not numbered with its causes. But contrition and the infusion of grace are the causes of the remission of sin. Therefore, it should not be numbered with them.  
 
 Obj. 2: Furthermore, the removal of a privation is nothing other than the introduction of a habit. But guilt is the privation of grace. Therefore, the removal of guilt and the infusion of grace are the same thing; and so they should not be numbered with each other.  
 
@@ -248,7 +250,7 @@ On the contrary, *The generation of one thing is the corruption of another*;See 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the necessity of instilling habits of virtue infused in the soul is from the fact that those acts that a person must do to obtain eternal life are above the ability of human nature. For our own powers are not sufficient for meriting an infinite good. Now just as future beatitude has infiniteness from its object, and consequently it imparts to its meritorious acts an infinite power in some way, so that they are proportionate to such an end, so also offenses committed against God have a certain infiniteness from the one they are committed against. And so human nature does not suffice for the remission of guilt; and because of this, for its remission, just as for the meriting of eternal life, grace must be infused.***
+To the first question, I answer that the necessity of instilling habits of virtue infused in the soul is from the fact that those acts that a person must do to obtain eternal life are above the ability of human nature. For our own powers are not sufficient for meriting an infinite good. Now just as future beatitude has infiniteness from its object, and consequently it imparts to its meritorious acts an infinite power in some way, so that they are proportionate to such an end, so also offenses committed against God have a certain infiniteness from the one they are committed against. And so human nature does not suffice for the remission of guilt; and because of this, for its remission, just as for the meriting of eternal life, grace must be infused.  
 
 Reply Obj. 1: Grace is not related to the remission of guilt as an intermediate agent, but as a formal cause, by which sin is remitted; just as fire removes cold, having caused heat in a subject, not as an instrument, but as a contrary form. And in creation there is also a natural form, by which a created thing formally receives being, or even that by which it exists, whatever that may be.  
 
@@ -256,7 +258,7 @@ Reply Obj. 2: Although according to the order of the argument the inclusion of g
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the grace that is given for living rightly and for the remission of sins has to do with the will before the other powers, for it is by it that we sin and live rightly. And so the infusion of justifying grace must take place in such a way that it applies to the will; and because of this it is necessary that every notion of violence be excluded from this infusion, for it has no capacity for violence. But in order for violence to be removed from the action, the one receiving the action must cooperate with the agent according to his own manner. And so among those things are such as to act, it is required that they cooperate actively. But among those that are such as only to receive, like prime matter, the inclination to a form is enough for the removal of violence; and from this natural generation is named.***
+To the second question, it should be said that the grace that is given for living rightly and for the remission of sins has to do with the will before the other powers, for it is by it that we sin and live rightly. And so the infusion of justifying grace must take place in such a way that it applies to the will; and because of this it is necessary that every notion of violence be excluded from this infusion, for it has no capacity for violence. But in order for violence to be removed from the action, the one receiving the action must cooperate with the agent according to his own manner. And so among those things are such as to act, it is required that they cooperate actively. But among those that are such as only to receive, like prime matter, the inclination to a form is enough for the removal of violence; and from this natural generation is named.  
 
 But there is as much of contrariety there as there is of violence; and so when the will does not have a contrary act, as is the case with children, grace can be infused by the sacrament without violence against the will, as in baptized children; and without the sacrament, as is seen in those sanctified in the womb. But when the will has its own act, as is the case in adults, the act of the will is required to receive grace, directing the soul to grace’s giver. And so for the justification that happens through the infusion of grace, the motion of the free will toward God is required.  
 
@@ -268,7 +270,7 @@ Reply Obj. 3: By baptism even adults can receive grace while asleep, for althoug
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that anything whose nature is to follow from several things is attributed to the one that is first; as life is attributed to the nutritive soul, for it is first among the principles of life in things that live bodily. Likewise an animal is said to be an animal by its first sense, which is touch, as is evident from *On the Soul* 3.Aristotle, *On the Soul*, Bk. 3, ch. 13, 435a12–14. And so if justification follows the motion of the free will toward God, it must be attributed to that motion that appears naturally prior to justification. Now the mind is moved toward God by both the intellect and by the affections, and these two movements of the mind can be together, although they can be thought of separately, for one is the rule of the other, and by the act of the intellect its object is presented to the will, for its object is the good imagined or understood, as the Philosopher says in *On the Soul* 3.Ibid., ch. 10, 433b10ff. But the movement of the intellect naturally comes first, as an object naturally precedes the act of a power; and since the movement of the intellect toward God is by faith, justification requires the movement of faith.***
+To the third question, it should be said that anything whose nature is to follow from several things is attributed to the one that is first; as life is attributed to the nutritive soul, for it is first among the principles of life in things that live bodily. Likewise an animal is said to be an animal by its first sense, which is touch, as is evident from *On the Soul* 3.Aristotle, *On the Soul*, Bk. 3, ch. 13, 435a12–14. And so if justification follows the motion of the free will toward God, it must be attributed to that motion that appears naturally prior to justification. Now the mind is moved toward God by both the intellect and by the affections, and these two movements of the mind can be together, although they can be thought of separately, for one is the rule of the other, and by the act of the intellect its object is presented to the will, for its object is the good imagined or understood, as the Philosopher says in *On the Soul* 3.Ibid., ch. 10, 433b10ff. But the movement of the intellect naturally comes first, as an object naturally precedes the act of a power; and since the movement of the intellect toward God is by faith, justification requires the movement of faith.  
 
 Reply Obj. 1: The movement of the free will, along with which grace is infused, must be taken in its last perfection. Now the act of faith is not complete unless perfected by an act of the affections. For no one believes unless he wills to, as Augustine says;Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 31, par. 2. and therefore an act of charity is always joined to the act of faith in justification; and by these two things the soul draws near to God. For there can be no doubt about whether an act of faith is always united to an act of charity, from the fact that the object is presented to charity by faith; just as also we never actually understand except by an imagination actually arising.  
 
@@ -278,7 +280,7 @@ Reply Obj. 3: In things that are ordered to each other, it is not necessary for 
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that just as in natural generation, in which one form is expelled and another is introduced, because of the fact that the generation of one thing is the corruption of another, there must be something disposing to both; so also in justification, by which grace is conferred and guilt is expelled, there must be a disposition of the will according to its proper act toward both. And therefore just as by the movement of the free will toward God the person who is justified is disposed to obtain grace, so also by the motion of the free will against sin he must be disposed to the expulsion of guilt. And therefore in the justification by which the innocent would be justified, only a disposition to the introduction of grace is necessary. But in the justification by which the impious are justified, there must be two dispositions: one for introducing grace, namely, the movement of the free will toward God; and the other for expelling guilt, namely, the movement of the free will against sin.***
+To the fourth question, it should be said that just as in natural generation, in which one form is expelled and another is introduced, because of the fact that the generation of one thing is the corruption of another, there must be something disposing to both; so also in justification, by which grace is conferred and guilt is expelled, there must be a disposition of the will according to its proper act toward both. And therefore just as by the movement of the free will toward God the person who is justified is disposed to obtain grace, so also by the motion of the free will against sin he must be disposed to the expulsion of guilt. And therefore in the justification by which the innocent would be justified, only a disposition to the introduction of grace is necessary. But in the justification by which the impious are justified, there must be two dispositions: one for introducing grace, namely, the movement of the free will toward God; and the other for expelling guilt, namely, the movement of the free will against sin.  
 
 Reply Obj. 1: The fervor of love necessarily has joined to it the hatred of its opposite. And so the fervor of love does not work to the remission of guilt without detesting sin, which directly corresponds to the remission of guilt.  
 
@@ -286,7 +288,7 @@ Reply Obj. 2: Conversion to God suffices for obtaining grace as far as in it lie
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that those things that are related incidentally to something are not included in it. But the remission of guilt is related incidentally to the infusion of grace, for it arises from the subject where it finds guilt. For the infusion of grace could exist without guilt being remitted, as it was in the state of innocence, and in Christ as a man from the first instant of his conception. And thus the infusion of grace does not include the remission of guilt.***
+To the fifth question, it should be said that those things that are related incidentally to something are not included in it. But the remission of guilt is related incidentally to the infusion of grace, for it arises from the subject where it finds guilt. For the infusion of grace could exist without guilt being remitted, as it was in the state of innocence, and in Christ as a man from the first instant of his conception. And thus the infusion of grace does not include the remission of guilt.  
 
 And so since the remission of guilt is necessary for the justification of the impious, which we are speaking of, it is necessary that it be numbered along with the infusion of grace. And this is why there are four things that are required in justification itself: namely, the infusion of grace, the remission of guilt, the movement of the free will toward God, and the movement of the free will against sin.  
 
@@ -300,7 +302,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth question we proceed thus.Parallels: *ST* I-II, q. 113, a. 6, ad 3; a. 8, ad 1; *de Veritate,* q. 28, a. 7. It seems that the removal of guilt naturally precedes the infusion of grace. For in commenting upon Psalm 63(62):2: *so I have come before you in the sanctuary*, the Gloss says, *unless someone is first lacking in evil, he will never arrive at good*.From Augustine, *Expositions of the Psalms* (CCSL 39), Ps. 62, par. 9: “nisi quis primo sitiat in isto deserto, id est malo in quo est, numquam peruenit ad bonum quod est Deus.” Therefore, the remission of the evil of fault is prior to the attainment of the good of grace.***
+Obj. 1: To the fourth question we proceed thus.Parallels: *ST* I-II, q. 113, a. 6, ad 3; a. 8, ad 1; *de Veritate,* q. 28, a. 7. It seems that the removal of guilt naturally precedes the infusion of grace. For in commenting upon Psalm 63(62):2: *so I have come before you in the sanctuary*, the Gloss says, *unless someone is first lacking in evil, he will never arrive at good*.From Augustine, *Expositions of the Psalms* (CCSL 39), Ps. 62, par. 9: “nisi quis primo sitiat in isto deserto, id est malo in quo est, numquam peruenit ad bonum quod est Deus.” Therefore, the remission of the evil of fault is prior to the attainment of the good of grace.  
 
 Obj. 2: Furthermore, the remission of guilt and the infusion of grace are related as purification and illumination. But purification precedes illumination, according to Dionysius.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7 (PG 3:206). Therefore, also the remission of guilt precedes the infusion of grace.  
 
@@ -312,7 +314,7 @@ Furthermore (2), Ambrose says that perfect virtue destroys iniquity when it ente
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the movement of free will precedes the infusion of grace.Parallels: *ST* I-II, q. 113, a. 8, ad 2; *de Veritate*, q. 28, q. 8. For the disposition naturally precedes perfection. But the motion of free will is a disposition to grace. Therefore, it naturally precedes the infusion of grace.***
+Obj. 1: Moreover, it seems that the movement of free will precedes the infusion of grace.Parallels: *ST* I-II, q. 113, a. 8, ad 2; *de Veritate*, q. 28, q. 8. For the disposition naturally precedes perfection. But the motion of free will is a disposition to grace. Therefore, it naturally precedes the infusion of grace.  
 
 Obj. 2: Furthermore, the infusion of grace and remission of guilt accompany each other. But the motion of contrition, which is the movement of the free will against sin, causes the remission of guilt. Therefore, it is prior to it and to the infusion of grace.  
 
@@ -324,7 +326,7 @@ Furthermore (2), the first act precedes the second. But the infusion of grace an
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the motion of the free will against sin precedes the movement of the free will toward God.Parallel: *ST* I-II, q. 113, a. 8, ad 3. For the movement of the free will against sin seems mostly to pertain to fear. But fear precedes charity, as Augustine says.Augustine, *Epistle* 140, ch. 18 (CSEL 44:193). Therefore, the motion of the free will against sin precedes the movement of the free will toward God, which is charity.***
+Obj. 1: Moreover, it seems that the motion of the free will against sin precedes the movement of the free will toward God.Parallel: *ST* I-II, q. 113, a. 8, ad 3. For the movement of the free will against sin seems mostly to pertain to fear. But fear precedes charity, as Augustine says.Augustine, *Epistle* 140, ch. 18 (CSEL 44:193). Therefore, the motion of the free will against sin precedes the movement of the free will toward God, which is charity.  
 
 Obj. 2: Furthermore, the motion of the free will against sin is like removing an obstacle. But a motion does not attain its due term unless the obstacle is removed, as is evident from local motion. Therefore, the movement of the free will against sin precedes the movement of the free will toward God as the due end.  
 
@@ -332,7 +334,7 @@ On the contrary (3), the movement of free will toward God is the movement of fai
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that every priority according to the order of nature is in some way reducible to the order of cause and caused, for a principle and a cause are the same.***
+To the first question, I answer that every priority according to the order of nature is in some way reducible to the order of cause and caused, for a principle and a cause are the same.  
 
 Now in causes it happens that the same thing is a cause and caused, according to the different kinds of causes, as is clear from the *Physics* 2 and the *Metaphysics* 5;Aristotle, *Physics*, Bk. 2, ch. 3, 195a5; *Metaphysics*, Bk. 5, ch. 2, 1013a23. just as walking is an efficient cause of recovering health, and recovering health is the final cause of walking; and similarly with a condition that is between matter and form: for according to the genus of material cause, matter is the cause of form as supporting it, and form is the cause of matter as making it to be in act according to the genus of formal cause.  
 
@@ -344,7 +346,7 @@ And by this the responses to the objections are clear.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that there are many opinions about the order of the motions of free will for the infusion of grace and the remission of guilt.***
+To the second question, it should be said that there are many opinions about the order of the motions of free will for the infusion of grace and the remission of guilt.  
 
 For some people say that the movements mentioned go first, and they grant that the movement of the free will toward God is not a movement of formed faith, but unformed faith. And the movement of the free will against sin is the movement of attrition, not contrition; for nothing that precedes grace can be formed by grace. But this cannot be: for a penitent is justified in the very movement of contrition, just as a child is justified in the very act of cleansing. But someone is justified when he receives grace, which is why with the infusion of grace and justification there is a movement of contrition; but a movement of attrition precedes as preparatory. However, we are not speaking now about the preparations for justification, but about those things that enter its substance.  
 
@@ -360,7 +362,7 @@ And by this the response to the objections is clear.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the motion of the free will toward God, as is clear from what has been said, directly corresponds to the infusion of grace; but the motion of the free will against sin directly corresponds to the remission of guilt. And therefore there is the same account of the order between these things, and of the order of the remission of sin to the infusion of grace.***
+To the third question, it should be said that the motion of the free will toward God, as is clear from what has been said, directly corresponds to the infusion of grace; but the motion of the free will against sin directly corresponds to the remission of guilt. And therefore there is the same account of the order between these things, and of the order of the remission of sin to the infusion of grace.  
 
 Reply Obj. 1: Augustine is speaking of servile fear, whose act is not the movement of free will that is together with justification; for servile fear is not together with grace, by which this motion is informed; and thus the argument is not relevant to the matter at hand.  
 
@@ -374,7 +376,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fifth question we proceed thus.Parallels: *In II Sent.* d. 18, q. 1, a. 3, ad 2; *ST* I, q. 105, a. 7, ad 1; *ST* I-II, q. 113, aa. 9–10. It seems that the justification of the impious is miraculous. Because, as Augustine says, *it is a greater thing to make a pious man of a wicked one than to create heaven and earth*.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 72. But the creation of heaven and earth is miraculous. Therefore, the justification of the impious is as well.***
+Obj. 1: To the fifth question we proceed thus.Parallels: *In II Sent.* d. 18, q. 1, a. 3, ad 2; *ST* I, q. 105, a. 7, ad 1; *ST* I-II, q. 113, aa. 9–10. It seems that the justification of the impious is miraculous. Because, as Augustine says, *it is a greater thing to make a pious man of a wicked one than to create heaven and earth*.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 72. But the creation of heaven and earth is miraculous. Therefore, the justification of the impious is as well.  
 
 Obj. 2: Furthermore, the greater the resistance, the more difficult the action. But in creation there is no resistance, for what does not exist cannot resist. But in the justification of the impious there is a resisting contrariety, namely, the impiety found in them. Therefore it is more difficult; and so the same as before.  
 
@@ -386,7 +388,7 @@ Furthermore (2), things are called miracles that rarely happen. But people are o
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the infusion of grace and remission of guilt do not take place at the same instant.Parallels: *ST* I-II, q. 113, a. 7; *de Veritate*, q. 28, a. 2, ad 10; a. 9. For grace is only given to those who are worthy. But no one is worthy who has guilt. Therefore, grace is given to someone whose guilt is already taken away; and so they are not simultaneous.***
+Obj. 1: Moreover, it seems that the infusion of grace and remission of guilt do not take place at the same instant.Parallels: *ST* I-II, q. 113, a. 7; *de Veritate*, q. 28, a. 2, ad 10; a. 9. For grace is only given to those who are worthy. But no one is worthy who has guilt. Therefore, grace is given to someone whose guilt is already taken away; and so they are not simultaneous.  
 
 Obj. 2: Furthermore, when grace comes, it expels guilt. But nothing acts except after it exists. But grace does not exist before it is present in the subject. Therefore, it is necessary that grace be first in the subject before it expels fault; and so the infusion of grace and remission of guilt are not simultaneous.  
 
@@ -398,7 +400,7 @@ Furthermore (2), the remission of guilt and infusion of grace are related to jus
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that justification is successive.Parallels: *ST* I-II, q. 113, a. 7; *de Veritate*, q. 28, a. 2, ad 10; a. 9. For no motion is in an instant. But in justification itself there is the movement of the free will. Therefore, it is not in an instant, but successively.***
+Obj. 1: Moreover, it seems that justification is successive.Parallels: *ST* I-II, q. 113, a. 7; *de Veritate*, q. 28, a. 2, ad 10; a. 9. For no motion is in an instant. But in justification itself there is the movement of the free will. Therefore, it is not in an instant, but successively.  
 
 Obj. 2: Furthermore, just as the intellect is simple, so also the free will is simple. But because of the simplicity of the intellect it is impossible for it to understand many things at once. Therefore, because of the simplicity of the free will, it is impossible for the free will to be directed toward different things at the same time. Therefore, since in the justification of the impious there is a movement of the free will toward God, and against sin, the justification of the impious will not be in an instant but successive.  
 
@@ -410,7 +412,7 @@ On the contrary, divine power is more efficacious for acting than the power of n
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that three things are included in the essential definition of a miracle, of which the first is that whatever happens by a miracle is done above the power of a created agent’s nature; second, that in the receiving nature there is no natural order to receiving it, but only obediential potency to God; third, that the effect itself is brought about outside the motion customary for such an effect. An example of the first is the glory of bodies in the resurrection, to which nature cannot attain; an example of the second is the illumination of the blind, in whom there is no natural potency to receive vision; an example of the third is the conversion of water into wine outside the course of nature.***
+To the first question, I answer that three things are included in the essential definition of a miracle, of which the first is that whatever happens by a miracle is done above the power of a created agent’s nature; second, that in the receiving nature there is no natural order to receiving it, but only obediential potency to God; third, that the effect itself is brought about outside the motion customary for such an effect. An example of the first is the glory of bodies in the resurrection, to which nature cannot attain; an example of the second is the illumination of the blind, in whom there is no natural potency to receive vision; an example of the third is the conversion of water into wine outside the course of nature.  
 
 And these three always coincide in some way in a miraculous act; for even if visual potency does not exceed the powers of nature, speaking absolutely, since it is introduced by generation, nevertheless it does exceed the powers of nature given the lack of potency in the recipient. And if the potency is present absolutely at a certain time, as in the conversion of water into wine, nevertheless, by comparison with the manner of its happening, neither is present. And so in the definition of a miracle is included *difficult*, as to the first characteristic; *beyond hope*, namely, of nature, as to the second; *unaccustomed*, as to the third.  
 
@@ -426,7 +428,7 @@ Reply Obj. 3: The will is not drawn in justification by the mode of force, but s
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the expulsion of a form means the terminus of that movement that is directed to corruption; and the introduction of a form likewise means the terminus of that motion that precedes generation, for generation and corruption are equally terms of motion. Now everything that is moved, when it is in the term of motion, is disposed according to what the motion is ordered toward. And so, since the motion of corruption tends toward non-being, but generation tends toward being, when a form is introduced, a form exists; but when it is expelled, it does not. And since a form is said to be introduced when it first exists, but expelled when it first does not exist, there cannot be matter without this or that form. So at the same time there is the expulsion of one form and the introduction of another. Therefore, since similarly the soul cannot exist without either guilt or grace, the infusion of grace and the remission of guilt are simultaneous.***
+To the second question, it should be said that the expulsion of a form means the terminus of that movement that is directed to corruption; and the introduction of a form likewise means the terminus of that motion that precedes generation, for generation and corruption are equally terms of motion. Now everything that is moved, when it is in the term of motion, is disposed according to what the motion is ordered toward. And so, since the motion of corruption tends toward non-being, but generation tends toward being, when a form is introduced, a form exists; but when it is expelled, it does not. And since a form is said to be introduced when it first exists, but expelled when it first does not exist, there cannot be matter without this or that form. So at the same time there is the expulsion of one form and the introduction of another. Therefore, since similarly the soul cannot exist without either guilt or grace, the infusion of grace and the remission of guilt are simultaneous.  
 
 Reply Obj. 1: Just as whiteness is never in something not white, because its very presence makes something white, so also grace is never in someone unworthy, because its very presence makes one worthy. And because of this it is not necessary that someone be worthy of grace before he has it.  
 
@@ -436,7 +438,7 @@ Reply Obj. 3: Although the soul in itself is above time, as it says in the *Book
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that forms have two modes. For there are some forms that receive more and less according to their distance from their opposite, and according to their closeness to their cause, like whiteness. And so this kind of form is also received successively in its subject; and after it is received, it is intensified or lessened. And there is another kind of form that does not admit of more or less, nor of this way or that way, for its imposition is in something indivisible, like substantial form; and a form like this is neither received successively in the subject, nor intensified or lessened after it has been received. But there is another kind of form that stands in the middle, for it does not admit of more or less according to its distance from its contrary, precisely because it can in no way mingle with its contrary, and in this it shares with substantial form. But nevertheless it is susceptible to more and less according to its closeness to its cause, as is seen in the case of light. And so a form like this is not received successively in its subject, just as neither is substantial form; but still after it is in it, it can be intensified and lessened, like an accidental form that has a contrary.***
+To the third question, it should be said that forms have two modes. For there are some forms that receive more and less according to their distance from their opposite, and according to their closeness to their cause, like whiteness. And so this kind of form is also received successively in its subject; and after it is received, it is intensified or lessened. And there is another kind of form that does not admit of more or less, nor of this way or that way, for its imposition is in something indivisible, like substantial form; and a form like this is neither received successively in the subject, nor intensified or lessened after it has been received. But there is another kind of form that stands in the middle, for it does not admit of more or less according to its distance from its contrary, precisely because it can in no way mingle with its contrary, and in this it shares with substantial form. But nevertheless it is susceptible to more and less according to its closeness to its cause, as is seen in the case of light. And so a form like this is not received successively in its subject, just as neither is substantial form; but still after it is in it, it can be intensified and lessened, like an accidental form that has a contrary.  
 
 And this is the kind of form that grace is, for it can endure no mingling with its opposite, because its opposite has more the nature of a privation than of something positive, like darkness. And therefore it must be received all at once in its subject; and nevertheless it can be intensified and lessened according to its closeness to the cause of grace. And thus, just as the introduction of a substantial form into matter is instantaneous, and in the same instant is the expulsion of the other form, and in the same instant the complete disposition, which is a necessity for the form, and the *per se* terminus of alteration; so also the infusion of grace is instantaneous, and in the same instant there is the remission of sin, and the motion of the free will, which is like a complete disposition to receiving grace. And so all that is required for justification exists in an instant; and so justification is not successive, but all at once.  
 
@@ -468,7 +470,7 @@ first, what it is;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallel: *SCG* IV, ch. 72. It seems that contrition is not *sorrow for sins assumed with the purpose of confessing and making satisfaction*, as some people define it. For sorrow differs from fear in that sorrow is about present evil, but fear is about future evil. But the sins that a man is contrite for do not exist when the contrition exists, as is clear from what has been said. Therefore, there cannot be sorrow for them.***
+Obj. 1: To the first we proceed thus.Parallel: *SCG* IV, ch. 72. It seems that contrition is not *sorrow for sins assumed with the purpose of confessing and making satisfaction*, as some people define it. For sorrow differs from fear in that sorrow is about present evil, but fear is about future evil. But the sins that a man is contrite for do not exist when the contrition exists, as is clear from what has been said. Therefore, there cannot be sorrow for them.  
 
 Obj. 2: Furthermore, according to Augustine in the *City of God*, sorrow is for those things that happen to us against our will.Augustine, *On the City of God* (CCSL 48), Bk. 14, ch. 15: “sed dolor carnis tantum modo offensio est animae ex carne et quaedam ab eius passione dissensio, sicut animi dolor, quae tristitia nuncupatur, dissensio est ab his rebus, quae nobis nolentibus acciderunt.” But sins are not like that. Therefore, etc.  
 
@@ -486,7 +488,7 @@ Obj. 8: Furthermore, satisfaction and confession are necessary for punishment to
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that contrition is not the act of a virtue.Parallel: *SCG* IV, ch. 72. For emotions are not acts of virtues, for we neither praise nor condemn them, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 5, 1105b31–32. But sorrow is an emotion. Therefore, since contrition is sorrow, it seems that it is not an act of virtue.***
+Obj. 1: Moreover, it seems that contrition is not the act of a virtue.Parallel: *SCG* IV, ch. 72. For emotions are not acts of virtues, for we neither praise nor condemn them, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 5, 1105b31–32. But sorrow is an emotion. Therefore, since contrition is sorrow, it seems that it is not an act of virtue.  
 
 Obj. 2: Furthermore, every act of virtue is from someone who has virtue. But ‘contrition’ does not signify as though something flowing from the contrite person, but rather as something that flows into that person from another effect. And it is the same way with remorse, which is another name by which it is called. Therefore contrition is not the act of a virtue.  
 
@@ -500,7 +502,7 @@ Furthermore (2), just as it pertains to virtue to do good, so also to avoid evil
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that attrition can become contrition.Parallel: *SCG* IV, ch. 72. For contrition differs from attrition as formed from unformed. But unformed faith becomes formed. Therefore, attrition can become contrition.***
+Obj. 1: Moreover, it seems that attrition can become contrition.Parallel: *SCG* IV, ch. 72. For contrition differs from attrition as formed from unformed. But unformed faith becomes formed. Therefore, attrition can become contrition.  
 
 Obj. 2: Furthermore, matter receives perfection once privation is removed. But sorrow is related to grace as matter to form; for grace informs sorrow. Therefore, sorrow that was unformed before, due to fault, which is a privation of grace, will receive the perfection of being informed by grace once the fault is removed; and so the same as before.  
 
@@ -512,7 +514,7 @@ Furthermore (2), natural things do not become matters of grace, according to the
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer by saying that the beginning of all sin is pride, by which a man, cleaving to his own feelings, withdraws from divine commands; and so it is necessary that what destroys sin makes a man depart from those feelings. Now someone who remains in his feelings is called rigid and hard by a likeness, and therefore he is said to be broken when he is forced away from his feelings. But between breaking and crushing, or contrition, in material things, from which these names are transferred to spiritual things, this is the difference, as it says in the *Meteorology* 4,Aristotle, *Meteorology*, Bk. 4, ch. 9, 386a12–14. that things are said to be broken when they are divided into large parts, but crushed or ground when what is solid in them is reduced to the smallest parts. And since it is required for the remission of sin that a man abandon all affection for sin, by which he keeps a certain continuity and solidity in his feelings, this is why that act by which sins are forgiven is called contrition, ‘grinding down,’ by a likeness.***
+To the first question, I answer by saying that the beginning of all sin is pride, by which a man, cleaving to his own feelings, withdraws from divine commands; and so it is necessary that what destroys sin makes a man depart from those feelings. Now someone who remains in his feelings is called rigid and hard by a likeness, and therefore he is said to be broken when he is forced away from his feelings. But between breaking and crushing, or contrition, in material things, from which these names are transferred to spiritual things, this is the difference, as it says in the *Meteorology* 4,Aristotle, *Meteorology*, Bk. 4, ch. 9, 386a12–14. that things are said to be broken when they are divided into large parts, but crushed or ground when what is solid in them is reduced to the smallest parts. And since it is required for the remission of sin that a man abandon all affection for sin, by which he keeps a certain continuity and solidity in his feelings, this is why that act by which sins are forgiven is called contrition, ‘grinding down,’ by a likeness.  
 
 Indeed, many things can be considered in contrition, namely, the very substance of the act, the mode of acting, the principle and effect; and according to this different definitions of contrition are found to have been handed down. For as to the substance of the act, the definition mentioned is given. And since an act of contrition is an act of virtue, and part of the sacrament of penance, therefore it is manifested in the definition mentioned insofar as it is an act of virtue, by the fact that its genus is set down, namely, *sorrow*, and its object, in *for sins*; and the choice that is required for an act of virtue, in saying, *assumed*; but as it is a part of a sacrament, its order to the other parts is touched upon when it says, *with the purpose of confessing*, etc.  
 
@@ -542,7 +544,7 @@ Reply Obj. 8: Although the whole punishment can be forgiven through contrition, 
 
 Response to Quaestiuncula 2  
 
-***To the second question, I answer that contrition, according to the proper meaning of its name, does not signify an act of virtue, but rather a certain physical emotion. But here we are not asking about this kind of contrition, but about the one that this name is adapted to mean by a likeness. For just as inflating one’s own will to do evil denotes in itself evil by its genus; so also the annihilating and crushing that will denotes in itself good by its genus. For this is to detest one’s own will by which sin was committed; and so contrition, which signifies this, denotes a certain rectitude of the will. And because of this, it is the act of that virtue to which it belongs to detest and destroy past sin, namely, penance, as is clear from what was said in Distinction 14, Question 1, Article 1, Subquestion 3.***
+To the second question, I answer that contrition, according to the proper meaning of its name, does not signify an act of virtue, but rather a certain physical emotion. But here we are not asking about this kind of contrition, but about the one that this name is adapted to mean by a likeness. For just as inflating one’s own will to do evil denotes in itself evil by its genus; so also the annihilating and crushing that will denotes in itself good by its genus. For this is to detest one’s own will by which sin was committed; and so contrition, which signifies this, denotes a certain rectitude of the will. And because of this, it is the act of that virtue to which it belongs to detest and destroy past sin, namely, penance, as is clear from what was said in Distinction 14, Question 1, Article 1, Subquestion 3.  
 
 Reply Obj. 1: In contrition there are two kinds of sorrow for sin. One is in the sensitive part, which is an emotion; and this is not essentially contrition as an act of virtue, but rather one of its effects. For just as the virtue of penance inflicts external penalty on the body to compensate for an offense which was committed against God by the service of the members, so also it imposes a penalty of this sorrow on the concupiscible appetite itself, because it too cooperated in the sin. But this sorrow can still pertain to contrition as a part of the sacrament, for sacraments by nature not only exist in interior acts but also in outward ones, and in sensible things. There is another sorrow in the will, which is nothing other than displeasure with some evil, according as the affections of the will are named according to the names of emotions, as was said in Book III, Distinction 26, Question 1, Article 5. And this is how contrition is sorrow by its essence, and it is also an act of the virtue of penance.  
 
@@ -554,7 +556,7 @@ Reply Obj. 4: Contrition, according as it is considered in itself, was always th
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that there are two opinions about this. For some people say that attrition becomes contrition, just as unformed faith becomes formed. But this, as it seems, cannot be; for although the habit of unformed faith may become formed, nevertheless, those acts of unformed faith never become acts of formed faith, for that unformed act passes away, and does not remain when charity comes. Now attrition and contrition do not name habits, but only acts; for habits of infused virtues that have to do with the will cannot be unformed, since they result from charity, as was said in Book III, Distinction 23, Question 3, Article 1, Subquestion 1. But before grace is infused, there is no habit from which an act of contrition is elicited afterward; and so in no way can attrition become contrition, and this is what the other opinion says.***
+To the third question, it should be said that there are two opinions about this. For some people say that attrition becomes contrition, just as unformed faith becomes formed. But this, as it seems, cannot be; for although the habit of unformed faith may become formed, nevertheless, those acts of unformed faith never become acts of formed faith, for that unformed act passes away, and does not remain when charity comes. Now attrition and contrition do not name habits, but only acts; for habits of infused virtues that have to do with the will cannot be unformed, since they result from charity, as was said in Book III, Distinction 23, Question 3, Article 1, Subquestion 1. But before grace is infused, there is no habit from which an act of contrition is elicited afterward; and so in no way can attrition become contrition, and this is what the other opinion says.  
 
 Reply Obj. 1: It is not the same with faith as with contrition, as was said.  
 
@@ -568,7 +570,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallel: *de Malo,* q. 7, a. 11, ad 3. It seems that man should be contrite about penalties, not only faults. For Augustine says in his book *On Penance: no one longs for eternal life unless he repents of this mortal life*.(Pseudo?) Augustine, *Sermon* 351, PL 39:1535. But the mortality of life is a certain penalty. Therefore, a penitent should also be contrite about penalties.***
+Obj. 1: To the second question we proceed thus.Parallel: *de Malo,* q. 7, a. 11, ad 3. It seems that man should be contrite about penalties, not only faults. For Augustine says in his book *On Penance: no one longs for eternal life unless he repents of this mortal life*.(Pseudo?) Augustine, *Sermon* 351, PL 39:1535. But the mortality of life is a certain penalty. Therefore, a penitent should also be contrite about penalties.  
 
 Obj. 2: Furthermore, it is maintained aboveSee Lombard, *Sentences*, d. 16, ch. 2, n. 1, citing Pseudo-Augustine, *On True and False Repentance*, ch. 14, n. 29. from Augustine’s words that the penitent should be sorry for the fact that he has stripped himself of virtue. But deprivation of virtue is a kind of punishment. Therefore, contrition is also sorrow for punishments.  
 
@@ -576,7 +578,7 @@ On the contrary, no one keeps what he sorrows over. But the penitent, according 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems we should have contrition for original sin.Parallels: *ST* III, q. 87, a. 1; *de Malo*, q. 7, a. 3, ad 3. For we should be contrite about actual sin, not by reason of the act as a kind of being, but by reason of its deformity, because an act according to its own substance is a certain good and from God. But original sin has a deformity, just as so does actual sin. Therefore, we should also be contrite about it.***
+Obj. 1: Moreover, it seems we should have contrition for original sin.Parallels: *ST* III, q. 87, a. 1; *de Malo*, q. 7, a. 3, ad 3. For we should be contrite about actual sin, not by reason of the act as a kind of being, but by reason of its deformity, because an act according to its own substance is a certain good and from God. But original sin has a deformity, just as so does actual sin. Therefore, we should also be contrite about it.  
 
 Obj. 2: Furthermore, by original sin a man was turned away from God, because his punishment was losing the divine vision. But it should displease anyone to have been turned away from God. Therefore, a man should have displeasure in original sin, and so he should have contrition over it.  
 
@@ -584,7 +586,7 @@ On the contrary, medicine should be proportionate to the sickness. But original 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that we should not be contrite about all actual sin committed by us.Parallel: *de Malo*, q. 7, a. 3, ad 3. For *contraries cure contraries*.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 3, 1104b17. But some sins are committed by sadness, like sloth and envy. Therefore, their medicine should not be a sadness, which contrition is, but a joy.***
+Obj. 1: Moreover, it seems that we should not be contrite about all actual sin committed by us.Parallel: *de Malo*, q. 7, a. 3, ad 3. For *contraries cure contraries*.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 3, 1104b17. But some sins are committed by sadness, like sloth and envy. Therefore, their medicine should not be a sadness, which contrition is, but a joy.  
 
 Obj. 2: Furthermore, contrition is an act of the will, which cannot be about what is not subject to knowledge. But there are certain sins that we do not have in our knowledge, like forgotten ones. Therefore, contrition cannot be about these things.  
 
@@ -598,7 +600,7 @@ Furthermore (2), no sin is forgiven unless someone is justified. But contrition 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that a person should also be contrite about future sins.Parallel: *de Malo*, q. 7, a. 3, ad 3. For contrition is an act of free will. But free will extends more to future things than to past ones, for choice, which is an act of the free will, is about future contingents, as it says in the *Ethics* 3.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 3, 1112b9. Therefore, contrition is more about future sins than about past ones.***
+Obj. 1: Moreover, it seems that a person should also be contrite about future sins.Parallel: *de Malo*, q. 7, a. 3, ad 3. For contrition is an act of free will. But free will extends more to future things than to past ones, for choice, which is an act of the free will, is about future contingents, as it says in the *Ethics* 3.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 3, 1112b9. Therefore, contrition is more about future sins than about past ones.  
 
 Obj. 2: Furthermore, sin is worsened by its consequent effect. And so Jerome says that Arius’s punishment has not yet been determined, because it is still possible for others to be ruined by his heresy, whose ruin is always increasing his punishment. And it is the same with someone who is judged a murderer if he struck with lethal force, even before the victim dies. But in the meantime a sinner should be contrite for his sin. Therefore, not only as it has quantity from the past act, but also as it has quantity from the future; and this is how contrition has to do with the future.  
 
@@ -606,7 +608,7 @@ On the contrary, contrition is a part of penance. But penance always has to do w
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that a man should have contrition for the sin of another.Parallel: *de Malo*, q. 7, a. 3, ad 3. For a person does not ask indulgence unless for a sin that he is contrite about. But indulgence is asked for the sins of others: *who can understand sins? . . . from those of others spare your servant* (Ps 19:12–13). Therefore, a person should be contrite for the sins of others.***
+Obj. 1: Moreover, it seems that a man should have contrition for the sin of another.Parallel: *de Malo*, q. 7, a. 3, ad 3. For a person does not ask indulgence unless for a sin that he is contrite about. But indulgence is asked for the sins of others: *who can understand sins? . . . from those of others spare your servant* (Ps 19:12–13). Therefore, a person should be contrite for the sins of others.  
 
 Obj. 2: Furthermore, a person is bound by charity to love his neighbor as himself. But because of his love of self he both sorrows over evils and desires goods. And since we are bound to desire the goods of grace for our neighbor as for ourselves, it seems that we should be sorry for his sins as for our own. But contrition is nothing other than sorrow for sins. Therefore, a man should be contrite for another’s sins.  
 
@@ -614,7 +616,7 @@ On the contrary, contrition is an act of the virtue of penance. But no one repen
 
 Quaestiuncula 6  
 
-***Obj. 1: Moreover, it seems that contrition is not required for individual mortal sins.Parallels: above, d. 16, q. 3, a. 2, qa. 5, ad 3; below, d. 21, exposition of the text, ‘Quod omnia’; *ST* I-II, q. 113, a. 5, ad 3; *ST* III, q. 87, a. 1. For the motion of contrition is in an instant in justification. But in an instant a person cannot recall every single sin. Therefore, he does not have to have contrition for individual sins.***
+Obj. 1: Moreover, it seems that contrition is not required for individual mortal sins.Parallels: above, d. 16, q. 3, a. 2, qa. 5, ad 3; below, d. 21, exposition of the text, ‘Quod omnia’; *ST* I-II, q. 113, a. 5, ad 3; *ST* III, q. 87, a. 1. For the motion of contrition is in an instant in justification. But in an instant a person cannot recall every single sin. Therefore, he does not have to have contrition for individual sins.  
 
 Obj. 2: Furthermore, contrition should be about sins according as they turn a person from God, because turning to a created thing without turning from God does not require contrition. But all mortal sins share in this turning away. Therefore, one contrition suffices against all of them.  
 
@@ -626,7 +628,7 @@ Furthermore (2), contrition is explained in confession. But it is necessary to c
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that contrition means, as was said, the crushing of something both hard and whole. But this wholeness and hardness is found in the evil of fault, for the will, which is its cause in someone who acts wickedly, stays within its own bounds, nor does it yield to the precept of the law. And so a displeasure in this evil is called contrition by a likeness. But this likeness cannot be generalized to the evil of punishment, for punishment simply means loss of goods; and so there can be sorrow about the evils of punishment, but not contrition.***
+To the first question, I answer that contrition means, as was said, the crushing of something both hard and whole. But this wholeness and hardness is found in the evil of fault, for the will, which is its cause in someone who acts wickedly, stays within its own bounds, nor does it yield to the precept of the law. And so a displeasure in this evil is called contrition by a likeness. But this likeness cannot be generalized to the evil of punishment, for punishment simply means loss of goods; and so there can be sorrow about the evils of punishment, but not contrition.  
 
 Reply Obj. 1: Penance, according to Augustine, should be about this mortal life, not by reason of its mortality, unless every sorrow is called penance in a broad sense, but by reason of the sins to which we are led by the infirmity of this life.  
 
@@ -634,7 +636,7 @@ Reply Obj. 2: That sorrow in which someone grieves over the loss of virtue throu
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that contrition, as was said, is sorrow regarding and in some way crushing the hardness of the will; and therefore it can only be about those sins that arise in us from the hardness of our wills. And since original sin was not brought upon us by our wills, but it was contracted from the vitiated origin of our nature, this is why there can be no contrition for it, properly speaking. But there can be displeasure about it, or sorrow.***
+To the second question, it should be said that contrition, as was said, is sorrow regarding and in some way crushing the hardness of the will; and therefore it can only be about those sins that arise in us from the hardness of our wills. And since original sin was not brought upon us by our wills, but it was contracted from the vitiated origin of our nature, this is why there can be no contrition for it, properly speaking. But there can be displeasure about it, or sorrow.  
 
 Reply Obj. 1: Contrition is not about sin only by reason of the substance of its act, because it does not have the nature of evil from that; nor again only by reason of its deformity, because, in itself, a deformity does not imply the nature of fault, but sometimes it conveys a penalty. But contrition should be about sin as it denotes any deformity arising from an act of the will, and this is not the case with original sin, and so there is no contrition about it.  
 
@@ -642,7 +644,7 @@ And the second objection should be answered the same way, because the will’s t
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that every actual fault happens from our will not yielding to God’s law, either by transgressing it, or by omitting it, or by acting outside it. And since *a hard thing is what has a power so that it does not easily allow itself to be acted on*,Aristotle, *Categories*, ch. 8, 9a25. for this reason in every actual sin there is a certain hardness in the will. And because of this if sin must be cured, it must be remitted by contrition grinding it down.***
+To the third question, it should be said that every actual fault happens from our will not yielding to God’s law, either by transgressing it, or by omitting it, or by acting outside it. And since *a hard thing is what has a power so that it does not easily allow itself to be acted on*,Aristotle, *Categories*, ch. 8, 9a25. for this reason in every actual sin there is a certain hardness in the will. And because of this if sin must be cured, it must be remitted by contrition grinding it down.  
 
 Reply Obj. 1: As is clear from what has been said, contrition is opposed to sin as it proceeds from the will’s choice to not follow the command of divine law, but not as to what is materially in the sin, and this is what choice applies to. For the will’s choice applies not only to acts of the other powers, which the will uses to its own end, but also its own proper act. For the will wills itself to will something; and so the will’s choice applies to that sorrow or sadness that is found in the sin of envy and others like it, whether the sorrow is in the sense appetites or in the will itself; and so the sorrow of contrition is opposed to those sins.  
 
@@ -654,7 +656,7 @@ Reply Obj. 4: Venial sins can remain after contrition for mortal sins, but not a
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that in all moving and moveable things the order is such that a lower mover has its own motion, and beyond this it follows in some way the motion of a higher mover, as is seen in the movement of the planets, which, beyond their proper movements, follow the motion of the first sphere. Now for all the moral virtues the mover is prudence itself, which is called the charioteer of the virtues; and so any moral virtue with its proper motion has something from the motion of prudence. And therefore since penance is a certain moral virtue, since it is a part of justice, with its proper act it follows the movement of prudence. Now its proper act is toward its proper object, which is sin that has been committed; and so its principal act, namely, contrition, according to its own species regards only past sin. But as a result it regards future sin according as it has something of the act of prudence attached to it, and yet it is not moved toward that future thing by reason of its proper species; and because of this someone who has contrition is sorry for past sin and guards against future sin: but contrition is not said to regard future sin, but rather caution is, which is the part of prudence attached to contrition.***
+To the fourth question, it should be said that in all moving and moveable things the order is such that a lower mover has its own motion, and beyond this it follows in some way the motion of a higher mover, as is seen in the movement of the planets, which, beyond their proper movements, follow the motion of the first sphere. Now for all the moral virtues the mover is prudence itself, which is called the charioteer of the virtues; and so any moral virtue with its proper motion has something from the motion of prudence. And therefore since penance is a certain moral virtue, since it is a part of justice, with its proper act it follows the movement of prudence. Now its proper act is toward its proper object, which is sin that has been committed; and so its principal act, namely, contrition, according to its own species regards only past sin. But as a result it regards future sin according as it has something of the act of prudence attached to it, and yet it is not moved toward that future thing by reason of its proper species; and because of this someone who has contrition is sorry for past sin and guards against future sin: but contrition is not said to regard future sin, but rather caution is, which is the part of prudence attached to contrition.  
 
 Reply Obj. 1: Free will is said to be about future contingents according as it is about acts, but not according as it is about the objects of acts, for a person can think about past things and necessary things by his free will, but the very act of thinking, according as it falls under his free will, is a future contingent. And so the act of contrition is also a future contingent, according as it falls under the free will; but its object can be the past.  
 
@@ -662,7 +664,7 @@ Reply Obj. 2: That resulting effect that worsens sin already preceded in act as 
 
 Response to Quaestiuncula 5  
 
-***To the fifth question it should be said that one has contrition for the same thing that one was previously hard and untouched about. And therefore it is clear that contrition for sin is in the same place where the hardness of sin was before; and so there is no contrition for the sins of others.***
+To the fifth question it should be said that one has contrition for the same thing that one was previously hard and untouched about. And therefore it is clear that contrition for sin is in the same place where the hardness of sin was before; and so there is no contrition for the sins of others.  
 
 Reply Obj. 1: The prophet prays to be spared from the sins of others inasmuch as by associating with sinners a person contracts a certain uncleanness through his consent, as is written: *with the perverse you will be perverted* (Ps 18[17]:26).  
 
@@ -670,7 +672,7 @@ Reply Obj. 2: We should sorrow over the sins of others, but it is nevertheless n
 
 Response to Quaestiuncula 6  
 
-***To the sixth question, it should be said that contrition can be considered in two ways: namely, as to its principle and as to its terminus. And I call the principle of contrition that thinking in which someone thinks about his sin and grieves over it, even if not with the sorrow of contrition, at least with the sorrow of attrition. But the terminus of contrition is when that sorrow is already informed by grace. Therefore, as to contrition’s principle, it is necessary that it be about the individual sins that someone has in his memory; but as to the terminus it is enough that there be one general contrition for all; for then that motion acts in the power of all the preceding dispositions.***
+To the sixth question, it should be said that contrition can be considered in two ways: namely, as to its principle and as to its terminus. And I call the principle of contrition that thinking in which someone thinks about his sin and grieves over it, even if not with the sorrow of contrition, at least with the sorrow of attrition. But the terminus of contrition is when that sorrow is already informed by grace. Therefore, as to contrition’s principle, it is necessary that it be about the individual sins that someone has in his memory; but as to the terminus it is enough that there be one general contrition for all; for then that motion acts in the power of all the preceding dispositions.  
 
 And by this the answer to the first objection is clear.  
 
@@ -684,7 +686,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third we proceed thus.Parallel: above, a. 1, qa. 2, ad 1. It seems that contrition is not the greatest sorrow that can exist in nature. For sorrow is a feeling of injury. But other injuries are felt more than the injury of sin, like the injury of a wound. Therefore, contrition is not the greatest sorrow.***
+Obj. 1: To the third we proceed thus.Parallel: above, a. 1, qa. 2, ad 1. It seems that contrition is not the greatest sorrow that can exist in nature. For sorrow is a feeling of injury. But other injuries are felt more than the injury of sin, like the injury of a wound. Therefore, contrition is not the greatest sorrow.  
 
 Obj. 2: Furthermore, we take our judgment of the cause from the effect. But tears are the effect of sorrow. Therefore, since sometimes a contrite person does not shed physical tears for sins, which nevertheless he does shed for the death of a friend, or from being struck, or for other things like this, it seems that contrition is not the greatest sorrow.  
 
@@ -698,7 +700,7 @@ Furthermore (2), sorrow is about an evil. Therefore, there ought to be more sorr
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the sorrow of contrition cannot be too great.Parallel: below, a. 4, qa. 2. For no sorrow can be more immoderate than the kind that destroys its own subject. But if the sorrow of contrition is so great that it causes death or the corruption of the body, it is laudable. For Anselm says, *if only they so anointed the depths of my soul that they dried up the marrow of my body*;Anselm, *Prayers or Meditations*, oratio 7 (*Opera Omnia*, ed. Schmitt, 3:24). and Augustine says in *On the Contrition of the Heart*,Pseudo-Augustine, *On Contrition of Heart*, ch. 10, PL 40:949. Chapter 10, that he deserves to blind his eyes with crying. Therefore, the sorrow of contrition cannot be too great.***
+Obj. 1: Moreover, it seems that the sorrow of contrition cannot be too great.Parallel: below, a. 4, qa. 2. For no sorrow can be more immoderate than the kind that destroys its own subject. But if the sorrow of contrition is so great that it causes death or the corruption of the body, it is laudable. For Anselm says, *if only they so anointed the depths of my soul that they dried up the marrow of my body*;Anselm, *Prayers or Meditations*, oratio 7 (*Opera Omnia*, ed. Schmitt, 3:24). and Augustine says in *On the Contrition of the Heart*,Pseudo-Augustine, *On Contrition of Heart*, ch. 10, PL 40:949. Chapter 10, that he deserves to blind his eyes with crying. Therefore, the sorrow of contrition cannot be too great.  
 
 Obj. 2: Furthermore, the sorrow of contrition proceeds from the love of charity. But the love of charity cannot be too great. Therefore, neither can the sorrow of contrition.  
 
@@ -706,7 +708,7 @@ On the contrary, every moral virtue is corrupted by excess and defect. But contr
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that there should not be greater sorrow for one sin than for another.Parallel: below, a. 5, qa. 3, ad 2. For Jerome praises Paula for lamenting the least sins as though they were great.Jerome, Epistle 108, n. 15 (PL 22:891). Therefore, one should not be more sorry for one sin than for another.***
+Obj. 1: Moreover, it seems that there should not be greater sorrow for one sin than for another.Parallel: below, a. 5, qa. 3, ad 2. For Jerome praises Paula for lamenting the least sins as though they were great.Jerome, Epistle 108, n. 15 (PL 22:891). Therefore, one should not be more sorry for one sin than for another.  
 
 Obj. 2: Furthermore, the movement of contrition is immediate. But one movement cannot be more intense and less intense at the same time. Therefore, contrition cannot be greater for one sin than for another.  
 
@@ -718,7 +720,7 @@ Furthermore (2), a person should have contrition for what he should have avoided
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that just as was said above, there are two kinds of sorrow in contrition. One is in the will itself, which is contrition itself essentially, and which is nothing other than displeasure in past sins; and this kind of sorrow in contrition surpasses other sorrows, for the more something pleases one, the more its contrary displeases. Now the end pleases above all things, since all things are desired for the sake of it; and therefore the sin that turns away from the end must displease above all things. The other sorrow is in the sensitive part, which is caused by the first kind of sorrow, whether from the necessity of nature, according as the lower powers follow the motion of the higher ones; or from choice, according as a repentant person voluntarily stirs up in himself sorrow for sins.***
+To the first question, I answer that just as was said above, there are two kinds of sorrow in contrition. One is in the will itself, which is contrition itself essentially, and which is nothing other than displeasure in past sins; and this kind of sorrow in contrition surpasses other sorrows, for the more something pleases one, the more its contrary displeases. Now the end pleases above all things, since all things are desired for the sake of it; and therefore the sin that turns away from the end must displease above all things. The other sorrow is in the sensitive part, which is caused by the first kind of sorrow, whether from the necessity of nature, according as the lower powers follow the motion of the higher ones; or from choice, according as a repentant person voluntarily stirs up in himself sorrow for sins.  
 
 And in neither way is it necessary that it be the greatest of sorrows, for the lower powers are moved more vehemently by their proper objects than by the overflow from the higher powers. And therefore the closer the operation of the higher powers is to the objects of the lower powers, the more they follow their motion. And so there is greater sorrow in the sensitive part from a sensible injury than the sorrow that overflows to it from reason. And likewise there is greater sorrow that overflows from reason deliberating about physical things than overflows from reason considering spiritual things.  
 
@@ -740,7 +742,7 @@ It should also be known that although the disposition of a contrite person shoul
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that on the part of the sorrow that is in the reason, namely, of the displeasure at sin as an offense against God, contrition cannot be too great, as neither can the love of charity, to which this displeasure is directed, be too great. But as to the sensible sorrow it can be too great, just as also outward affliction of the body can be too great, as was shown above from Jerome’s words in Distinction 15 on the question of fasting. For the preservation of the subject and his good condition sufficient for fulfilling his responsibilities should be taken for the measure among all these things; and because of this it says, *present your bodies as a living sacrifice . . . your reasonable service* (Rom 12:1).***
+To the second question, it should be said that on the part of the sorrow that is in the reason, namely, of the displeasure at sin as an offense against God, contrition cannot be too great, as neither can the love of charity, to which this displeasure is directed, be too great. But as to the sensible sorrow it can be too great, just as also outward affliction of the body can be too great, as was shown above from Jerome’s words in Distinction 15 on the question of fasting. For the preservation of the subject and his good condition sufficient for fulfilling his responsibilities should be taken for the measure among all these things; and because of this it says, *present your bodies as a living sacrifice . . . your reasonable service* (Rom 12:1).  
 
 Reply Obj. 1: Anselm desired that his bodily marrows be dried up by the oil of devotion not as to the natural fluid, but as to fleshly desires and concupiscences. Augustine, however, although he recognized that he deserved to lose his outer eyes on account of sin, since any sin deserves not only eternal but also temporal death, nevertheless did not wish to blind himself.  
 
@@ -748,7 +750,7 @@ Reply Obj. 2: That argument is based on the sorrow that is in the reason; but th
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that we can speak about contrition in two ways. In one way according as it corresponds individually to individual sins; and in this way as to the sorrow of the higher affections it is required that a person grieve more over a greater sin; because the reason for sorrow, namely, the offense against God, is greater in one thing than another; for God is more offended by a more disordered act. Likewise too, since a greater penalty is due to a greater fault, even the sorrow of the sensitive part, according as it is assumed by choice for sin as sin’s punishment, as it were, should be greater for a greater sin; but according as it arises from the impression of the higher appetite, the amount of sorrow is found in the lower appetite according to its disposition for receiving impressions from the higher parts, and not according to the amount of sin. In another way, contrition can be taken as it is simultaneous with everything else, like in the act of justification. And indeed this contrition proceeds from the consideration of individual sins; and so although it is one act, nevertheless the distinction of sins remains in it virtually. Or at least it has the aim of thinking about the individual sins attached to it; and so it is also habitually more about one than another.***
+To the third question, it should be said that we can speak about contrition in two ways. In one way according as it corresponds individually to individual sins; and in this way as to the sorrow of the higher affections it is required that a person grieve more over a greater sin; because the reason for sorrow, namely, the offense against God, is greater in one thing than another; for God is more offended by a more disordered act. Likewise too, since a greater penalty is due to a greater fault, even the sorrow of the sensitive part, according as it is assumed by choice for sin as sin’s punishment, as it were, should be greater for a greater sin; but according as it arises from the impression of the higher appetite, the amount of sorrow is found in the lower appetite according to its disposition for receiving impressions from the higher parts, and not according to the amount of sin. In another way, contrition can be taken as it is simultaneous with everything else, like in the act of justification. And indeed this contrition proceeds from the consideration of individual sins; and so although it is one act, nevertheless the distinction of sins remains in it virtually. Or at least it has the aim of thinking about the individual sins attached to it; and so it is also habitually more about one than another.  
 
 Reply Obj. 1: St. Paula is not praised for sorrowing over all her sins equally, but because she sorrowed as much over small sins as if they were great, as compared to others who sorrow over sins; and she grieved much more deeply over greater ones.  
 
@@ -762,7 +764,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallels: above, d. 14, q. 1, a. 4, qa. 1; *ST* III, q. 84, a. 8; a. 9, ad 1. It seems that the time for contrition is not the whole of this life. For just as there should be sorrow for sins committed, there should also be shame. But the shame for sin does not last throughout life, and, as Ambrose says, *someone whose sin has been forgiven has no reason to blush*.Ambrose, *On repentance* (SC 179), Bk. 2, ch. 7. Therefore, it seems that neither does contrition last, which is sorrow for sin.***
+Obj. 1: To the fourth we proceed thus.Parallels: above, d. 14, q. 1, a. 4, qa. 1; *ST* III, q. 84, a. 8; a. 9, ad 1. It seems that the time for contrition is not the whole of this life. For just as there should be sorrow for sins committed, there should also be shame. But the shame for sin does not last throughout life, and, as Ambrose says, *someone whose sin has been forgiven has no reason to blush*.Ambrose, *On repentance* (SC 179), Bk. 2, ch. 7. Therefore, it seems that neither does contrition last, which is sorrow for sin.  
 
 Obj. 2: Furthermore, it is said, *perfect charity casts out fear, for fear has to do with punishment* (1 John 4:18). But sorrow also has to do with punishment. Therefore, in the state of perfect charity the sorrow of contrition cannot remain.  
 
@@ -778,7 +780,7 @@ Furthermore (2), it says in Sirach 5:5: *do not be without fear regarding propit
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is not expedient to sorrow over sins continuously.Parallels: above, d. 14, q. 1, a. 4, qa. 2; ST III, q. 84, a. 9. For sometimes it is expedient to rejoice, as is clear from Philippians 4:4: *rejoice in the Lord always*; where the Gloss says that it is necessary to rejoice. But it is not possible to rejoice and to sorrow at the same time. Therefore, it is not expedient to grieve over sins continuously.***
+Obj. 1: Moreover, it seems that it is not expedient to sorrow over sins continuously.Parallels: above, d. 14, q. 1, a. 4, qa. 2; ST III, q. 84, a. 9. For sometimes it is expedient to rejoice, as is clear from Philippians 4:4: *rejoice in the Lord always*; where the Gloss says that it is necessary to rejoice. But it is not possible to rejoice and to sorrow at the same time. Therefore, it is not expedient to grieve over sins continuously.  
 
 Obj. 2: Furthermore, what is evil in itself and to be fled is not to be taken up, except to the extent that it is needed as a medicine for something, as is seen in the case of burning and cutting a wound. But sadness is bad in itself; as is said in Sirach 30:23: *drive sadness far from you*; and afterward the cause is given: *for sadness kills many and there is no advantage from it*. The Philosopher also expressly says this in the *Ethics* 7 and 10.Aristotle, *Nicomachean Ethics*, Bk. 7, ch. 13, 1153b1–2; Bk. 10, ch. 2, 1172b18–19. Therefore, one should not grieve over sin longer than suffices for blotting out the sin. But immediately after the first sorrow of contrition, sin is blotted out. Therefore, it is not expedient to grieve any further.  
 
@@ -790,7 +792,7 @@ Furthermore (2), it is expedient always to continue acts in which beatitude cons
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that also after this life souls are contrite for sins. For the love of charity causes displeasure with sin. And after this life charity remains in some people both in act and in habit, for charity never passes away, as is clear from 1 Corinthians 13:8. Therefore, displeasure about sins committed remains, which is the essence of contrition.***
+Obj. 1: Moreover, it seems that also after this life souls are contrite for sins. For the love of charity causes displeasure with sin. And after this life charity remains in some people both in act and in habit, for charity never passes away, as is clear from 1 Corinthians 13:8. Therefore, displeasure about sins committed remains, which is the essence of contrition.  
 
 Obj. 2: Furthermore, the fault is more to be grieved over than the punishment. But souls in purgatory grieve over their sensible punishment and the postponement of glory. Therefore, much more do they grieve over fault committed by them.  
 
@@ -802,7 +804,7 @@ Furthermore (2), contrition can be so great that it wipes out fault and punishme
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that in contrition, as was said, there are two kinds of sorrow. One is a sorrow of reason, which is detesting sins committed by oneself; the other is a sorrow of the sensitive part, which is a result of the first one. And with either one, the time for contrition is the whole state of the present life. For as long as someone is in this state of life, he detests the hindrances by which the attainment of the end of that life is impeded or delayed. And therefore since by past sin our life’s course toward God is delayed, because the time that was assigned for running the course cannot be recovered, as was said above, it is necessary that the state of contrition remain always in this life’s time as to the detestation of sin. Likewise too as to the sensible sorrow, which is assumed as punishment by the will. For because a person deserved eternal punishment by sinning, and he sinned against an eternal God, when the eternal punishment is changed to temporal punishment the sorrow should remain at least for a man’s ‘forever,’ that is, in the state of this life. And because of this Hugh of St. Victor says that *when God absolves man from eternal guilt and punishment, he binds him with a chain to the perpetual detestation of sin*.Hugh of St. Victor, *Summa Sentententiae*, ch. 11 (PL 176:148).***
+To the first question, I answer that in contrition, as was said, there are two kinds of sorrow. One is a sorrow of reason, which is detesting sins committed by oneself; the other is a sorrow of the sensitive part, which is a result of the first one. And with either one, the time for contrition is the whole state of the present life. For as long as someone is in this state of life, he detests the hindrances by which the attainment of the end of that life is impeded or delayed. And therefore since by past sin our life’s course toward God is delayed, because the time that was assigned for running the course cannot be recovered, as was said above, it is necessary that the state of contrition remain always in this life’s time as to the detestation of sin. Likewise too as to the sensible sorrow, which is assumed as punishment by the will. For because a person deserved eternal punishment by sinning, and he sinned against an eternal God, when the eternal punishment is changed to temporal punishment the sorrow should remain at least for a man’s ‘forever,’ that is, in the state of this life. And because of this Hugh of St. Victor says that *when God absolves man from eternal guilt and punishment, he binds him with a chain to the perpetual detestation of sin*.Hugh of St. Victor, *Summa Sentententiae*, ch. 11 (PL 176:148).  
 
 Reply Obj. 1: Embarrassment has to do with sin only as it has disgrace. And so after the sin, when the fault has been forgiven as far as guilt is concerned, there is no longer any place for shame; but the place for sorrow does, for it is not only about fault as it has disgrace, but also as it has harm attached to it.  
 
@@ -816,7 +818,7 @@ Reply Obj. 5: Satisfaction depends on the punishment allotted, which must be imp
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that this is the condition found in acts of virtue, that there cannot be excess or defect, as is proved in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 6, 1106b24–28. And so, since contrition, as it is a certain displeasure in the rational appetite, is an act of the virtue of penance, there can never be an excess there, whether in intensity or in duration, unless as the act of one virtue impedes the act of another virtue more necessary for that time. And therefore however long a person can be continuously in an act of this displeasure, the more the better, as long as he is available for acts of the other virtues at their time, according as is necessary. But passions can have excess and defect both as to intensity and as to duration. And so just as the passion of sorrow that the will assumes should be moderately intense, so also it should last moderately, lest, if it should last too long, a man should fall into despair and despondency, and vices like that.***
+To the second question, it should be said that this is the condition found in acts of virtue, that there cannot be excess or defect, as is proved in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 6, 1106b24–28. And so, since contrition, as it is a certain displeasure in the rational appetite, is an act of the virtue of penance, there can never be an excess there, whether in intensity or in duration, unless as the act of one virtue impedes the act of another virtue more necessary for that time. And therefore however long a person can be continuously in an act of this displeasure, the more the better, as long as he is available for acts of the other virtues at their time, according as is necessary. But passions can have excess and defect both as to intensity and as to duration. And so just as the passion of sorrow that the will assumes should be moderately intense, so also it should last moderately, lest, if it should last too long, a man should fall into despair and despondency, and vices like that.  
 
 Reply Obj. 1: Worldly joy is impeded by the sorrow of contrition, but not the joy that is from God, because it has this sorrow itself as its matter.  
 
@@ -826,7 +828,7 @@ Reply Obj. 3: Bernard is speaking about the sorrow that is a passion.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that three things must be considered in contrition. The first is the genus of contrition, which is sorrow. The second is the form of contrition, which is an act of virtue informed by grace. The third is the efficacy of contrition, for it is meritorious, and sacramental, and in some way satisfactory. Therefore souls that are in heaven after this life cannot have contrition, because they are free of sorrow on account of the fullness of joy. But those who are in hell lack contrition, because if they have sorrow, they still lack the grace to inform their sorrow.In other words, the damned will not, in fact, have sorrow for their sins, but even if they did have such sorrow, it would be uninformed by grace, and therefore could not count as contrition. But those who are in purgatory have sorrow for sins that is informed by grace, but not meritorious, because they are not in the state of meriting. But in this life all three aspects mentioned can be found.***
+To the third question, it should be said that three things must be considered in contrition. The first is the genus of contrition, which is sorrow. The second is the form of contrition, which is an act of virtue informed by grace. The third is the efficacy of contrition, for it is meritorious, and sacramental, and in some way satisfactory. Therefore souls that are in heaven after this life cannot have contrition, because they are free of sorrow on account of the fullness of joy. But those who are in hell lack contrition, because if they have sorrow, they still lack the grace to inform their sorrow.In other words, the damned will not, in fact, have sorrow for their sins, but even if they did have such sorrow, it would be uninformed by grace, and therefore could not count as contrition. But those who are in purgatory have sorrow for sins that is informed by grace, but not meritorious, because they are not in the state of meriting. But in this life all three aspects mentioned can be found.  
 
 Reply Obj. 1: Charity does not cause this sorrow except in those who are capable of sorrow; but the fullness of joy excludes all capacity for sorrow from the blessed; and so although they have charity, nevertheless they lack contrition.  
 
@@ -840,7 +842,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fifth question we proceed thus.Parallels: above, d. 14, q. 2, a. 1, qa. 1; *SCG* IV, ch. 72; *de Veritate,* q. 28, a. 8; *Quodl.* IV, q. 7, a. 1. It seems that remission of sin is not an effect of contrition. For God alone remits sins. But we are in a certain way the cause of our contrition, because it is our act. Therefore, contrition is not the cause of the remission of guilt.***
+Obj. 1: To the fifth question we proceed thus.Parallels: above, d. 14, q. 2, a. 1, qa. 1; *SCG* IV, ch. 72; *de Veritate,* q. 28, a. 8; *Quodl.* IV, q. 7, a. 1. It seems that remission of sin is not an effect of contrition. For God alone remits sins. But we are in a certain way the cause of our contrition, because it is our act. Therefore, contrition is not the cause of the remission of guilt.  
 
 Obj. 2: Furthermore, contrition is an act of virtue. But virtue follows the remission of guilt; for guilt and virtue do not exist at the same time in the soul. Therefore, contrition is not the cause of the remission of guilt.  
 
@@ -852,7 +854,7 @@ Furthermore (2), *virtue and vice are corrupted and generated by the same causes
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that contrition cannot completely take away the liability to punishment.Parallels: *SCG* III, ch. 158; *SCG* IV, ch. 72; *Super Heb*. 6, lec. 1. For satisfaction and confession are ordered to freeing one from the liability to punishment. But no one has such perfect contrition that he does not need to confess and make satisfaction. Therefore, contrition is never so great that it takes away the whole liability to punishment.***
+Obj. 1: Moreover, it seems that contrition cannot completely take away the liability to punishment.Parallels: *SCG* III, ch. 158; *SCG* IV, ch. 72; *Super Heb*. 6, lec. 1. For satisfaction and confession are ordered to freeing one from the liability to punishment. But no one has such perfect contrition that he does not need to confess and make satisfaction. Therefore, contrition is never so great that it takes away the whole liability to punishment.  
 
 Obj. 2: Furthermore, in penance there should be a certain recompense of suffering for fault. But any fault is enacted by the members of the body. Therefore, since it is necessary for a due recompense of suffering that *through those members by which someone sinned he also be tormented* (Wis 11:17), it seems that such punishment for sin could never be discharged by contrition.  
 
@@ -864,7 +866,7 @@ Furthermore (2), an example of this is found in the thief to whom it was said, *
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that small contrition does not suffice for wiping out large sins. For contrition is the medicine for sin. But physical medicine that heals minor physical maladies does not suffice for healing greater ones. Therefore, the least contrition does not suffice for wiping out the greatest sins.***
+Obj. 1: Moreover, it seems that small contrition does not suffice for wiping out large sins. For contrition is the medicine for sin. But physical medicine that heals minor physical maladies does not suffice for healing greater ones. Therefore, the least contrition does not suffice for wiping out the greatest sins.  
 
 Obj. 2: Furthermore, it was said above that it is necessary to have greater contrition for greater sins. But contrition does not wipe out sins unless it exists as is necessary. Therefore, the least contrition does not wipe out all sins.  
 
@@ -872,7 +874,7 @@ On the contrary, any sanctifying grace at all wipes out all mortal fault, becaus
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that contrition can be considered in two ways, either as it is part of a sacrament, or as it is an act of a virtue; and in either way it is a cause of the remission of sin, but differently in each. For as a part of the sacrament, first it works toward the remission of sins instrumentally, as was seen in the other sacraments in Distinction 1, Question 1, Article 4, Subquestion 1. But as an act of virtue, it is like a material cause for the remission of sin, because it is like the necessary disposition for justification, as was said above. Now a disposition is reducible to a material cause, if it is taken as a disposition that disposes the matter to receiving; but it is different with the disposition of an agent to acting, because that is reducible to the genus of efficient cause.***
+To the first question, I answer that contrition can be considered in two ways, either as it is part of a sacrament, or as it is an act of a virtue; and in either way it is a cause of the remission of sin, but differently in each. For as a part of the sacrament, first it works toward the remission of sins instrumentally, as was seen in the other sacraments in Distinction 1, Question 1, Article 4, Subquestion 1. But as an act of virtue, it is like a material cause for the remission of sin, because it is like the necessary disposition for justification, as was said above. Now a disposition is reducible to a material cause, if it is taken as a disposition that disposes the matter to receiving; but it is different with the disposition of an agent to acting, because that is reducible to the genus of efficient cause.  
 
 Reply Obj. 1: God alone is the efficient principal cause of the remission of sin; but there can also be a dispositive cause from us. And it is similar with a sacramental cause: for the sacraments’ forms are the words uttered by us, which have the instrumental power of bringing down grace, by which sins are remitted.  
 
@@ -882,7 +884,7 @@ Reply Obj. 3: The administering of the Eucharist pertains to the Church’s mini
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the intensity of contrition can be considered in two ways. In one way, on the part of charity, which causes the displeasure; and thus it happens for charity to be so intense in the act that contrition following from it will merit not only the removal of guilt, but also the absolution from all punishment. In the other way, on the part of the sensible sorrow that the will excites in contrition; and since that is also a kind of punishment, it can be intensified so much that it suffices for the wiping out of penalty and guilt.***
+To the second question, it should be said that the intensity of contrition can be considered in two ways. In one way, on the part of charity, which causes the displeasure; and thus it happens for charity to be so intense in the act that contrition following from it will merit not only the removal of guilt, but also the absolution from all punishment. In the other way, on the part of the sensible sorrow that the will excites in contrition; and since that is also a kind of punishment, it can be intensified so much that it suffices for the wiping out of penalty and guilt.  
 
 Reply Obj. 1: Someone cannot be sure that his contrition is sufficient to wipe out punishment and guilt, and this is why he is bound to confess and make satisfaction; especially because contrition would not be true unless it had the purpose of confessing attached to it, which purpose should also be carried out because of the precept regarding confession.  
 
@@ -892,7 +894,7 @@ Reply Obj. 3: Although the sorrow of contrition is finite in intensity, as also 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that contrition, as has often been said, holds two kinds of sorrow. One, which is the displeasure with sin committed, belongs to the reason; and this can be so small that it would not suffice for the nature of contrition, as if sin displeased someone less than separation from the end should displease one, just as also love can be so tepid that it is not enough for the nature of charity. A person has the other kind of sorrow in his senses; and the smallness of this does not hinder the nature of contrition; for it is not essentially related to contrition, but joined to it almost like an accident; and again it is not in our power. Therefore, it should be said thus that no matter how small the sorrow is, as long as it is enough for the nature of contrition, it wipes away every fault.***
+To the third question, it should be said that contrition, as has often been said, holds two kinds of sorrow. One, which is the displeasure with sin committed, belongs to the reason; and this can be so small that it would not suffice for the nature of contrition, as if sin displeased someone less than separation from the end should displease one, just as also love can be so tepid that it is not enough for the nature of charity. A person has the other kind of sorrow in his senses; and the smallness of this does not hinder the nature of contrition; for it is not essentially related to contrition, but joined to it almost like an accident; and again it is not in our power. Therefore, it should be said thus that no matter how small the sorrow is, as long as it is enough for the nature of contrition, it wipes away every fault.  
 
 Reply Obj. 1: Spiritual medicines have infinite efficacy from the infinite power that works in them; and so the medicine that is enough for healing a small sin is also enough for healing a large one; as is evident from baptism, by which both great and small sins are absolved. And it is similar with contrition, as long as it attains the nature of contrition.  
 
@@ -902,7 +904,7 @@ Question 3
 
 ***On confession***
 
-***Next confession should be asked about. And concerning this, five questions arise:***
+Next confession should be asked about. And concerning this, five questions arise:  
 
 first, the necessity of confession;  
 
@@ -916,7 +918,7 @@ first, the necessity of confession;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 69, a. 1, ad 2; *SCG* IV, ch. 72. It seems that confession is not necessary to salvation. For the sacrament of penance was ordained on account of the remission of guilt. But guilt is sufficiently forgiven by the infusion of grace. Therefore, confession is not necessary for doing penance for sin.***
+Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 69, a. 1, ad 2; *SCG* IV, ch. 72. It seems that confession is not necessary to salvation. For the sacrament of penance was ordained on account of the remission of guilt. But guilt is sufficiently forgiven by the infusion of grace. Therefore, confession is not necessary for doing penance for sin.  
 
 Obj. 2: Furthermore, some people are read to have been forgiven without having confessed, as is seen in the case of Peter, and Mary Magdalene, and also Paul. But the grace forgiving sin is not less efficacious now than it was then. Therefore, it is not now necessary to salvation for a man to confess his sins.  
 
@@ -930,7 +932,7 @@ Furthermore (2), in the secular courts the judge is not the same as the accused.
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it belongs to natural law.Parallel: below, a. 2, qa. 2, ad 1. For Adam and Cain were not bound to anything but the law of nature. But they were reproached for not confessing their sin. Therefore, the confession of sin is of natural law.***
+Obj. 1: Moreover, it seems that it belongs to natural law.Parallel: below, a. 2, qa. 2, ad 1. For Adam and Cain were not bound to anything but the law of nature. But they were reproached for not confessing their sin. Therefore, the confession of sin is of natural law.  
 
 Obj. 2: Furthermore, those precepts that remain from the old law in the new law are of natural law. But confession was in the old law; which is why it says, *tell, if you have anything to justify yourself* (Isa 43:26). Therefore, it belongs to natural law.  
 
@@ -942,7 +944,7 @@ Furthermore (2), confession is done to someone who has the keys. But the Church�
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that not all people are bound to confession.Parallels: above, d. 16, q. 2, a. 2, qa. 3, ad 3; below, a. 3, qa. 5, ad 3; *Super Matt*. 3. For, as Jerome says, *penance is the second plank after the shipwreck*.Jerome, *Epistle* 130, n. 9 (PL 22:1115). But some people did not suffer the shipwreck after baptism. Therefore, penance does not apply to them; and so neither does confession, which is a part of penance.***
+Obj. 1: Moreover, it seems that not all people are bound to confession.Parallels: above, d. 16, q. 2, a. 2, qa. 3, ad 3; below, a. 3, qa. 5, ad 3; *Super Matt*. 3. For, as Jerome says, *penance is the second plank after the shipwreck*.Jerome, *Epistle* 130, n. 9 (PL 22:1115). But some people did not suffer the shipwreck after baptism. Therefore, penance does not apply to them; and so neither does confession, which is a part of penance.  
 
 Obj. 2: Furthermore, in any court, confession should be made to a judge. But there are some people who have no man as judge over them. Therefore, they are not bound to confession.  
 
@@ -954,7 +956,7 @@ Furthermore (2), this is evident from the Decretals, *On Penances and Remissions
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that one is bound to confess immediately.Parallel: *Quodl*. I, q. 6, a. 2. For Hugh of St. Victor says: *if necessity is not what it is claimed to be, the contempt is not excused*.Hugh of St. Victor, *de Sacramentis fidei*, Bk. 2, pt. 14, ch. 8 (PL 176:567). But everyone is bound to avoid contempt. Therefore, everyone is bound to confess immediately when he can.***
+Obj. 1: Moreover, it seems that one is bound to confess immediately.Parallel: *Quodl*. I, q. 6, a. 2. For Hugh of St. Victor says: *if necessity is not what it is claimed to be, the contempt is not excused*.Hugh of St. Victor, *de Sacramentis fidei*, Bk. 2, pt. 14, ch. 8 (PL 176:567). But everyone is bound to avoid contempt. Therefore, everyone is bound to confess immediately when he can.  
 
 Obj. 2: Furthermore, everyone is bound to avoid spiritual disease more than physical disease. But when someone physically infirm delays seeking a doctor, it is not without detriment to his health. Therefore, it seems that it cannot be without detriment to salvation that someone does not confess his sin immediately to a priest who is available.  
 
@@ -966,7 +968,7 @@ Furthermore (2), whoever omits what he is bound to do by precept sins mortally. 
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that certain people could be dispensed from confessing to a man.Parallels: below, d. 21, q. 3, a. 1, qa. 1, ad 2; *SCG* IV, ch. 72; *Quodl*. I, q. 6, a. 1. For the precepts that are from positive law are subject to the dispensations of the Church’s prelates. But confession is one of these, as is clear from what has been said. Therefore, someone can be dispensed from having to confess.***
+Obj. 1: Moreover, it seems that certain people could be dispensed from confessing to a man.Parallels: below, d. 21, q. 3, a. 1, qa. 1, ad 2; *SCG* IV, ch. 72; *Quodl*. I, q. 6, a. 1. For the precepts that are from positive law are subject to the dispensations of the Church’s prelates. But confession is one of these, as is clear from what has been said. Therefore, someone can be dispensed from having to confess.  
 
 Obj. 2: Furthermore, what was instituted by man can also receive a dispensation from a man. But confession is not read to have been instituted by God, but by man: *confess your sins to one another* (Jas 5:16). But the Pope has the power to give dispensations in matters that were instituted by the apostles, as is seen in the case of those remarried. Therefore, he can dispense someone from confessing.  
 
@@ -974,7 +976,7 @@ On the contrary, penance, which confession is a part of, is a sacrament of neces
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the Passion of Christ, without whose power neither actual nor original sin is forgiven, works in us through the reception of the sacraments, which have efficacy from it. And so for the remission of both actual and original fault, a sacrament of the Church is required, whether actually received or at least in desire, when an emergency, not contempt, excludes the sacrament. And consequently those sacraments that are ordered against a fault that cannot coexist with salvation are necessary to salvation. And so just as baptism, in which original sin is wiped away, is necessary to salvation, so also is the sacrament of penance. Now just as by the fact that someone seeks baptism, he subjects himself to the ministers of the Church, to whom the administering of the sacraments belongs; so also by the fact that someone confesses his sins, he subjects himself to the Church’s minister, so that he may obtain the forgiveness administered by him through the sacrament of penance. And the minister cannot apply a fitting remedy unless he knows the other’s sins, which happens by the sinner’s confession. And therefore confession is necessary to salvation for someone who falls into actual mortal sin.***
+To the first question, I answer that the Passion of Christ, without whose power neither actual nor original sin is forgiven, works in us through the reception of the sacraments, which have efficacy from it. And so for the remission of both actual and original fault, a sacrament of the Church is required, whether actually received or at least in desire, when an emergency, not contempt, excludes the sacrament. And consequently those sacraments that are ordered against a fault that cannot coexist with salvation are necessary to salvation. And so just as baptism, in which original sin is wiped away, is necessary to salvation, so also is the sacrament of penance. Now just as by the fact that someone seeks baptism, he subjects himself to the ministers of the Church, to whom the administering of the sacraments belongs; so also by the fact that someone confesses his sins, he subjects himself to the Church’s minister, so that he may obtain the forgiveness administered by him through the sacrament of penance. And the minister cannot apply a fitting remedy unless he knows the other’s sins, which happens by the sinner’s confession. And therefore confession is necessary to salvation for someone who falls into actual mortal sin.  
 
 Reply Obj. 1: Infused grace is enough for the remission of guilt: but after guilt is forgiven the sinner still owes a debt of temporal punishment. But for the infusion of grace to be obtained, sacraments of grace are ordained, before the reception of which, either actually or in intention, a person cannot obtain grace, as is seen in the case of baptism. And it is similar with confession. And furthermore, by confessing, shame, and the power of the keys, to which the one confessing subjects himself, and by the satisfaction enjoined which the priest modifies according to the character of the crimes made known to him in confession, he expiates the temporal punishment. But nevertheless the fact that confession works to the remission of punishment is not what makes it necessary to salvation, for that punishment is temporal to which a person remains bound after the forgiveness of guilt. And so without being expiated in the present life there would be a path to salvation. But it is necessary to salvation because it works to the remission of guilt in the way described.  
 
@@ -986,7 +988,7 @@ Reply Obj. 4: Satisfaction would not be enough for expiating the punishment for 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that as was said in Distinction 1, Question 1, Article 2, Subquestion 3, sacraments are a kind of protestation of faith. And so it is necessary that they be proportionate to the faith. Now faith is above the knowledge of natural reason; and so sacraments too are above the dictates of natural reason. And because natural law *is not born of opinion, but instilled by a certain innate force*, as Cicero says,Cicero, *de Inuentione*, Bk. 2, ch. 22, par. 65 (Teubner, ed. Streubel). this is why sacraments are not from natural law, but divine law, which is above nature. And sometimes the word ‘natural’ is according as whater is placed in a thing by its Creator is natural to it. Nevertheless, those things are properly said to be natural which are caused by the principles of nature, but those things are said to be above nature which God reserves to himself without the ministry of nature, whether in the working of miracles or in the revelations of mysteries, or in the institutions of the sacraments; and so confession, which has a sacramental necessity, is not of natural law but divine.***
+To the second question, it should be said that as was said in Distinction 1, Question 1, Article 2, Subquestion 3, sacraments are a kind of protestation of faith. And so it is necessary that they be proportionate to the faith. Now faith is above the knowledge of natural reason; and so sacraments too are above the dictates of natural reason. And because natural law *is not born of opinion, but instilled by a certain innate force*, as Cicero says,Cicero, *de Inuentione*, Bk. 2, ch. 22, par. 65 (Teubner, ed. Streubel). this is why sacraments are not from natural law, but divine law, which is above nature. And sometimes the word ‘natural’ is according as whater is placed in a thing by its Creator is natural to it. Nevertheless, those things are properly said to be natural which are caused by the principles of nature, but those things are said to be above nature which God reserves to himself without the ministry of nature, whether in the working of miracles or in the revelations of mysteries, or in the institutions of the sacraments; and so confession, which has a sacramental necessity, is not of natural law but divine.  
 
 Reply Obj. 1: Adam was blamed for not admitting his sin before God. For the confession which is made to God by the recognition of sin is of natural law. But now we are speaking of the confession that is made to a man. Or it could be said that to confess sin in a trial is of natural law, namely, when someone brought into court is interrogated by the judge; for then he must not lie by excusing or denying his sin; which is what Adam and Cain are blamed for. But the confession that is made to a man of one’s own will for obtaining the remission of sins from God is not of natural law.  
 
@@ -996,7 +998,7 @@ Reply Obj. 3: Job is speaking about the concealment of sin that an arrested pers
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that we are obliged to confess from two sides. One, from divine law, by the fact that this is medicine; and according to this, not everyone is bound to confess, but only those who incur a mortal sin after baptism. In the other way, by the precept of positive law, and that is how all are bound, by that institution of the Church enacted in general council under Innocent III: both so that everyone would recognize himself as a sinner, *for all have sinned and need God’s grace* (Rom 3:25); and so that all might approach the Eucharist with greater reverence; and so that the governors of the churches would be aware of those under them, lest a wolf should hide in the flock.***
+To the third question, it should be said that we are obliged to confess from two sides. One, from divine law, by the fact that this is medicine; and according to this, not everyone is bound to confess, but only those who incur a mortal sin after baptism. In the other way, by the precept of positive law, and that is how all are bound, by that institution of the Church enacted in general council under Innocent III: both so that everyone would recognize himself as a sinner, *for all have sinned and need God’s grace* (Rom 3:25); and so that all might approach the Eucharist with greater reverence; and so that the governors of the churches would be aware of those under them, lest a wolf should hide in the flock.  
 
 Reply Obj. 1: Although in this mortal life a person can avoid the shipwreck after baptism, which is by mortal sin, he still cannot avoid venial sin, by which he is disposed to the shipwreck, and against which penance is also ordered. And penance still has a place even among those who do not sin mortally, and consequently, so does confession.  
 
@@ -1006,7 +1008,7 @@ Reply Obj. 3: A person is not bound to confess venial sins by the force of the s
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that since the purpose of confessing is attached to contrition, a person is bound to this purpose when he is bound to contrition; namely, when sins occur to his memory, particularly when he finds himself in danger of death or in some crisis, in which without the remission of sin he would necessarily incur a sin, as when he is bound to celebrate Mass but has no access to a priest, at least he is bound to have contrition, and to have the purpose of confessing.***
+To the fourth question, it should be said that since the purpose of confessing is attached to contrition, a person is bound to this purpose when he is bound to contrition; namely, when sins occur to his memory, particularly when he finds himself in danger of death or in some crisis, in which without the remission of sin he would necessarily incur a sin, as when he is bound to celebrate Mass but has no access to a priest, at least he is bound to have contrition, and to have the purpose of confessing.  
 
 But there are two ways that a person is actually obliged to go to confession. One is incidental, namely, when he is bound to something that he cannot do without sin unless he has confessed; for then he is bound to confess, for example, if he must receive the Eucharist, which no one should approach after mortal sin unless he has confessed, if he has had access to a priest, and the necessity is not pressing. And from this arises the Church’s obligation that all confess at least once per year, for it has decreed that once a year, namely, at Eastertide, all receive sacred Communion; and so all are bound to confess before that time.  
 
@@ -1026,7 +1028,7 @@ Reply Obj. 3: Keeping another’s belongings against the owner’s will is contr
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that the Church’s ministers are instituted in a Church divinely founded; and therefore the institution of the Church is presupposed to the activity of the Church’s ministers, just as the work of nature presupposes the work of creation. And since the Church is founded on faith and the sacraments, this is why it does not pertain to the Church’s ministers either to decree new articles of the faith or to remove the ones decreed, or to institute new sacraments, or to remove those instituted. But this belongs to the power of excellence, which is due to Christ alone, who is the Church’s foundation. And so, as the Pope cannot give a dispensation such that anyone may be saved without baptism, so neither without confession, according as one is obliged by the force of the sacrament. But he can give a dispensation from confession as one is obliged by the Church’s precept, so that someone may defer his confession longer than the Church has established.***
+To the fifth question, it should be said that the Church’s ministers are instituted in a Church divinely founded; and therefore the institution of the Church is presupposed to the activity of the Church’s ministers, just as the work of nature presupposes the work of creation. And since the Church is founded on faith and the sacraments, this is why it does not pertain to the Church’s ministers either to decree new articles of the faith or to remove the ones decreed, or to institute new sacraments, or to remove those instituted. But this belongs to the power of excellence, which is due to Christ alone, who is the Church’s foundation. And so, as the Pope cannot give a dispensation such that anyone may be saved without baptism, so neither without confession, according as one is obliged by the force of the sacrament. But he can give a dispensation from confession as one is obliged by the Church’s precept, so that someone may defer his confession longer than the Church has established.  
 
 Reply Obj. 1: The precepts of divine law do not oblige less than the precepts of natural law; and so just as a dispensation cannot be given from natural law, so neither can it be given from positive divine law.  
 
@@ -1038,7 +1040,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus. It seems that Augustine defines confession inappropriately when he says, *confession is that through which a hidden disease is opened to the hope of forgiveness*.This appears to be a new creation and not the words of Augustine verbatim; for similar ideas, see *Exposition of the Psalms* (CCSL 39), Ps. 66, par. 7. For the disease that confession is ordered against is sin. But sin is sometimes open. Therefore, he should not have said it was a hidden disease for which confession is the medicine.***
+Obj. 1: To the second question we proceed thus. It seems that Augustine defines confession inappropriately when he says, *confession is that through which a hidden disease is opened to the hope of forgiveness*.This appears to be a new creation and not the words of Augustine verbatim; for similar ideas, see *Exposition of the Psalms* (CCSL 39), Ps. 66, par. 7. For the disease that confession is ordered against is sin. But sin is sometimes open. Therefore, he should not have said it was a hidden disease for which confession is the medicine.  
 
 Obj. 2: Furthermore, the beginning of penance is fear, as was said in Distinction 14, Question 1, Article 2. But confession is a part of penance. Therefore, he should not have included hope as the cause of confession, but rather fear.  
 
@@ -1048,7 +1050,7 @@ Obj. 4: Furthermore, some other definitions are found to be different from this 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that confession is not the act of a virtue. For every act of a virtue is from natural law, for we are adapted to virtues by nature, as the Philosopher says in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103a24–25. But confession is not from natural law. Therefore, it is not an act of a virtue.***
+Obj. 1: Moreover, it seems that confession is not the act of a virtue. For every act of a virtue is from natural law, for we are adapted to virtues by nature, as the Philosopher says in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103a24–25. But confession is not from natural law. Therefore, it is not an act of a virtue.  
 
 Obj. 2: Furthermore, an act of virtue has more to do with the innocent than with someone who has sinned. But the confession of sin that we are speaking of cannot apply to the innocent. Therefore, it is not an act of virtue.  
 
@@ -1058,7 +1060,7 @@ On the contrary, precepts of the law are about acts of virtue. But confession fa
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that confession is not an act of the virtue of penance. For an act belongs to that virtue which is its cause. But the cause of confession is *the hope of forgiveness*, as appears from the definition cited. Therefore, it seems that this is an act of hope, not of penance.***
+Obj. 1: Moreover, it seems that confession is not an act of the virtue of penance. For an act belongs to that virtue which is its cause. But the cause of confession is *the hope of forgiveness*, as appears from the definition cited. Therefore, it seems that this is an act of hope, not of penance.  
 
 Obj. 2: Furthermore, shame is a part of temperance, as was said in Book III, Distinction 33. But confession works *from shamefacedness*, as appears in the definition designated above. Therefore, it is an act of temperance, not penance.  
 
@@ -1072,7 +1074,7 @@ On the contrary, penance is ordered to the destruction of sins. But confession i
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that in the act of confession many things occur to be considered. First, the very substance of the act, or its genus, which is a kind of manifestation. Second, what it is about, namely, sin. Third, to whom it is made, namely, a priest. Fourth, its cause, namely, hope of forgiveness. Fifth, its effect, namely, absolution on the part of the punishment, and obligation to another part to be discharged. Therefore, in the first definition of Augustine both the substance of the act is touched upon, in *opening*, and what confession is about when he says, *a hidden disease*, and the cause, in *the hope of forgiveness*; and in the other definitions some of these five designated things are touched upon as is evident to anyone who looks closely.***
+To the first question, I answer that in the act of confession many things occur to be considered. First, the very substance of the act, or its genus, which is a kind of manifestation. Second, what it is about, namely, sin. Third, to whom it is made, namely, a priest. Fourth, its cause, namely, hope of forgiveness. Fifth, its effect, namely, absolution on the part of the punishment, and obligation to another part to be discharged. Therefore, in the first definition of Augustine both the substance of the act is touched upon, in *opening*, and what confession is about when he says, *a hidden disease*, and the cause, in *the hope of forgiveness*; and in the other definitions some of these five designated things are touched upon as is evident to anyone who looks closely.  
 
 Reply Obj. 1: To the first, therefore, it should be said that although sometimes a priest knows of someone’s sin as a man, nevertheless he does not know it as Christ’s vicar; just as also a judge sometimes knows something as a man that he does not know as a judge; and as to this it is opened up by confession. Or it could be said that although an outward act of sin is in the open, an interior act which is nevertheless more important is concealed; and so it must be opened by confession.  
 
@@ -1084,7 +1086,7 @@ Reply Obj. 4: It is not necessary that in every definition everything is referre
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that for something to be called an act of virtue, as has been said before, it is enough that it imply in its own account a certain condition that pertains to virtue. Now, although confession does not denote all the things that are required for virtue, nevertheless it conveys by its very name a revealing of something that someone holds in his conscience, for in this way the mouth and heart come together in one. For if someone utters with his mouth something that he does not hold in his heart, it is not called a confession but a deception. Now this condition pertains to virtue, that someone confess with his mouth what he holds in his heart; and so confession is good by its genus, and it is an act of virtue; but nevertheless it can be done badly, unless it is invested with the other due circumstances.***
+To the second question, it should be said that for something to be called an act of virtue, as has been said before, it is enough that it imply in its own account a certain condition that pertains to virtue. Now, although confession does not denote all the things that are required for virtue, nevertheless it conveys by its very name a revealing of something that someone holds in his conscience, for in this way the mouth and heart come together in one. For if someone utters with his mouth something that he does not hold in his heart, it is not called a confession but a deception. Now this condition pertains to virtue, that someone confess with his mouth what he holds in his heart; and so confession is good by its genus, and it is an act of virtue; but nevertheless it can be done badly, unless it is invested with the other due circumstances.  
 
 Reply Obj. 1: Natural reason in general inclines toward confessing the truth in the right way, where it is fitting and to whom it is fitting, and this is how confession belongs to natural law. But the determination of circumstances, when and how and what must be confessed, and to whom, is from the institution of divine law about confession, which is what we are speaking about. And so it is clear that natural law inclines to confession by means of divine law, by which circumstances are determined, as is also the case in all things that are of positive law.  
 
@@ -1094,7 +1096,7 @@ Reply Obj. 3: Although the grace of the sacraments and the grace of the virtues 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in the virtues this is to be considered, that when a special account of good and difficult is added above the object of the virtue, it requires a special virtue, as great expenses pertains to magnificence, although moderate expenses and donations generally pertain to liberality, as is clear in the *Ethics* 2 and 4.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 7, 1107b8–9; Bk. 4, ch. 1, 1120a10. And it is similar with the confessing of truth, which, although it pertains to the virtue of truth in an absolute sense, nevertheless according as a certain account of good is added, begins to pertain to another virtue. And so the Philosopher says in the *Ethics* 4Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 7, 1127a33. that the confession that is made in court does not pertain to the virtue of truth, but rather to justice. And likewise the confession of God’s blessings in divine praise does not pertain to the virtue of truth, but to the virtue of worship; and so also the confession of sins for obtaining their remission is not elicited by the virtue of truth, as some people say, but by the virtue of penance; but it can be commanded by many virtues, according as the act of confessing can be derived from the end of many virtues.***
+To the third question, it should be said that in the virtues this is to be considered, that when a special account of good and difficult is added above the object of the virtue, it requires a special virtue, as great expenses pertains to magnificence, although moderate expenses and donations generally pertain to liberality, as is clear in the *Ethics* 2 and 4.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 7, 1107b8–9; Bk. 4, ch. 1, 1120a10. And it is similar with the confessing of truth, which, although it pertains to the virtue of truth in an absolute sense, nevertheless according as a certain account of good is added, begins to pertain to another virtue. And so the Philosopher says in the *Ethics* 4Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 7, 1127a33. that the confession that is made in court does not pertain to the virtue of truth, but rather to justice. And likewise the confession of God’s blessings in divine praise does not pertain to the virtue of truth, but to the virtue of worship; and so also the confession of sins for obtaining their remission is not elicited by the virtue of truth, as some people say, but by the virtue of penance; but it can be commanded by many virtues, according as the act of confessing can be derived from the end of many virtues.  
 
 Reply Obj. 1: Hope is the cause of confession not as eliciting it, but as commanding it.  
 
@@ -1112,7 +1114,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus. It seems that it is not necessary to confess to a priest. For we are not obliged to go to confession except by divine institution. But divine institution proposes to us *confess your sins to one another* (Jas 5:16), where no mention is made of a priest. Therefore, it is not necessary to confess to a priest.***
+Obj. 1: To the third question we proceed thus. It seems that it is not necessary to confess to a priest. For we are not obliged to go to confession except by divine institution. But divine institution proposes to us *confess your sins to one another* (Jas 5:16), where no mention is made of a priest. Therefore, it is not necessary to confess to a priest.  
 
 Obj. 2: Furthermore, penance is a sacrament of necessity, like baptism. But in baptism the minister is any human being, because it is a sacrament of necessity. Therefore, it is the same in penance. But confession is to be made to a minister of the Church. Therefore, it suffices to confess to anyone.  
 
@@ -1126,7 +1128,7 @@ Furthermore (2), confession is prefigured in the raising of the dead Lazarus. Bu
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that in no case is it permitted to confess to anyone other than a priest. For *confession is a sacramental accusation*, as the definition listed above has it. But administering a sacrament pertains only to that person who is the minister of the sacrament. Therefore, since the minister of the sacrament of penance is a priest, it seems that a confession may be made to no others.***
+Obj. 1: Moreover, it seems that in no case is it permitted to confess to anyone other than a priest. For *confession is a sacramental accusation*, as the definition listed above has it. But administering a sacrament pertains only to that person who is the minister of the sacrament. Therefore, since the minister of the sacrament of penance is a priest, it seems that a confession may be made to no others.  
 
 Obj. 2: Furthermore, confession in any judgment is directed to sentencing. But in the secular court a sentence that is not handed down by the judge is null; and so confession must be made to no one but the judge. But there is no judge in the forum of conscience but the priest, who has the power of binding and loosing. Therefore, confession is to be made to no other.  
 
@@ -1136,7 +1138,7 @@ On the contrary, is what is determined in the text.
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that outside the case of necessity someone who is not a priest cannot hear a confession of venial sins. For a certain sacrament is committed to be administered by a lay person by reason of necessity. But the confession of venial sins is not necessary to salvation, as was said above. Therefore, it is not committed to a lay person.***
+Obj. 1: Moreover, it seems that outside the case of necessity someone who is not a priest cannot hear a confession of venial sins. For a certain sacrament is committed to be administered by a lay person by reason of necessity. But the confession of venial sins is not necessary to salvation, as was said above. Therefore, it is not committed to a lay person.  
 
 Obj. 2: Furthermore, the last rites are ordered against venial sins, just like penance. But that cannot be given by a lay person, as is clear from James 5:14. Therefore, neither can a confession of venial sins be made to one.  
 
@@ -1144,7 +1146,7 @@ On the contrary, is what Bede says in the text.
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that it is not necessary that a man confess to his own priest.Parallel: *SCG* IV, ch. 72. For Gregory says, *it was established for us by the apostolic government and office of piety that it is permitted to monks who are priests maintaining the figure of the apostles, to preach, baptize, give communion, pray for sinners, impose penances, and absolve sins*.Cf. Gratian’s *Decretals*, Pt. 2, cause 16, q. 1, can. 24 (PL 187:998). But monks are not anyone’s own priests, since they do not have the care of souls. Therefore, since confession is done for the sake of absolution, it suffices that it be done to any priest.***
+Obj. 1: Moreover, it seems that it is not necessary that a man confess to his own priest.Parallel: *SCG* IV, ch. 72. For Gregory says, *it was established for us by the apostolic government and office of piety that it is permitted to monks who are priests maintaining the figure of the apostles, to preach, baptize, give communion, pray for sinners, impose penances, and absolve sins*.Cf. Gratian’s *Decretals*, Pt. 2, cause 16, q. 1, can. 24 (PL 187:998). But monks are not anyone’s own priests, since they do not have the care of souls. Therefore, since confession is done for the sake of absolution, it suffices that it be done to any priest.  
 
 Obj. 2: Furthermore, just as a priest is the minister of this sacrament, so also of the Eucharist. But any priest can consecrate. Therefore, any priest can administer the sacrament of penance. Therefore, it is not necessary that it be done with one’s own priest.  
 
@@ -1162,7 +1164,7 @@ Furthermore (2), just as a bishop is related to his diocese, so a priest is to h
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that a person cannot confess to anyone but his own priest, even by a privilege or the command of his superior.Parallels: *Contra impugn*. ch. 4; *Quodl*. XII, q. 19. For no privilege can be granted to the detriment of another person. But this is to the detriment of the other priest, if someone else hears the confessions of those entrusted to him. Therefore, this cannot be obtained by privilege or permission or the command of one’s superior.***
+Obj. 1: Moreover, it seems that a person cannot confess to anyone but his own priest, even by a privilege or the command of his superior.Parallels: *Contra impugn*. ch. 4; *Quodl*. XII, q. 19. For no privilege can be granted to the detriment of another person. But this is to the detriment of the other priest, if someone else hears the confessions of those entrusted to him. Therefore, this cannot be obtained by privilege or permission or the command of one’s superior.  
 
 Obj. 2: Furthermore, something that impedes a divine command cannot be granted by a man’s command or privilege. But it is a divine command to rectors of the churches that they diligently come to *know the face of their sheep* (Prov 27:23), which would be prevented if someone else heard the confession of their own. Therefore, this cannot be ordained by any man’s privilege or command.  
 
@@ -1178,7 +1180,7 @@ Furthermore (3), any power that the priest has for his people, he has from the b
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the grace that is given in the sacraments descends to the members from the head; and so he alone is the minister of the sacraments, in which grace is given, who has the ministry over the true body of Christ. And this belongs to the priest alone, who can consecrate the Eucharist. And thus, since grace is conferred in the sacrament of penance, only a priest is the minister of this sacrament. And so sacramental confession, which should be made to a minister of the Church, must be made to him alone.***
+To the first question, I answer that the grace that is given in the sacraments descends to the members from the head; and so he alone is the minister of the sacraments, in which grace is given, who has the ministry over the true body of Christ. And this belongs to the priest alone, who can consecrate the Eucharist. And thus, since grace is conferred in the sacrament of penance, only a priest is the minister of this sacrament. And so sacramental confession, which should be made to a minister of the Church, must be made to him alone.  
 
 Reply Obj. 1: James is speaking from the presupposition of divine institution. And since divine institution preceded confessions being made to priests by the fact that he gave the power of forgiving sins to the apostles, as is clear from John 20:22–23, this is why James is to be understood as instructing confession to be made to priests.  
 
@@ -1190,7 +1192,7 @@ Reply Obj. 4: To know the face of one’s sheep is necessary for two reasons. Fi
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that just as baptism is a sacrament of necessity, so is penance. But baptism, which is a sacrament of necessity, has two ministers: one whose responsibility it is to baptize by his office, namely, the priest; and another to whom the administering of baptism is entrusted by reason of necessity. And so also the minister of penance, to whom confession is to be made by his office, is the priest; but in necessity, a lay person may also take the place of a priest, so that a confession may be made to him.***
+To the second question, it should be said that just as baptism is a sacrament of necessity, so is penance. But baptism, which is a sacrament of necessity, has two ministers: one whose responsibility it is to baptize by his office, namely, the priest; and another to whom the administering of baptism is entrusted by reason of necessity. And so also the minister of penance, to whom confession is to be made by his office, is the priest; but in necessity, a lay person may also take the place of a priest, so that a confession may be made to him.  
 
 Reply Obj. 1: In the sacrament of penance there is not only something on the part of the minister, namely, the absolution and imposition of satisfaction, but also something on the part of the one who receives the sacrament, which is also essential to the sacrament, namely, contrition and confession. Now, satisfaction takes its origin from the minister inasmuch as he imposes it, and from the penitent inasmuch as he fulfills it; and for the fullness of the sacrament both must concur when it is possible. But when there is an imminent need, the penitent should do what is from his part, namely, have contrition, and confess to whomever he can. Even though he cannot complete the sacrament, such that he would do what is the priest’s part, namely, absolution, still the Highest Priest will supply the lack of a priest. Nonetheless, confession made to a lay person out of desire for a priest is sacramental in a certain way, although it is not a perfect sacrament, because it is lacking what is on the part of the priest.  
 
@@ -1200,7 +1202,7 @@ Reply Obj. 3: It is necessary that a man be reconciled through the sacraments no
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that by venial sin a man is neither separated from God nor from the Church’s sacraments, and so he does not need a conferral of new grace for its forgiveness, nor does he need reconciliation to the Church. And because of this it is not necessary that anyone confess his venial sins to a priest: for a confession made to a lay person is a kind of sacramental, although it is not a complete sacrament, and it does proceed from charity; and it is the nature of sacramentals to remit venial sin by such things, like beating the breast and holy water.***
+To the third question, it should be said that by venial sin a man is neither separated from God nor from the Church’s sacraments, and so he does not need a conferral of new grace for its forgiveness, nor does he need reconciliation to the Church. And because of this it is not necessary that anyone confess his venial sins to a priest: for a confession made to a lay person is a kind of sacramental, although it is not a complete sacrament, and it does proceed from charity; and it is the nature of sacramentals to remit venial sin by such things, like beating the breast and holy water.  
 
 Reply Obj. 1: And by this the solution to the first is clear; for venial sins do not need the reception of the sacrament for their dismissal, but any sacramental would suffice for that, like holy water or the like.  
 
@@ -1208,7 +1210,7 @@ Reply Obj. 2: Last rites are not given directly against venial sin, nor is any s
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that the other sacraments do not consist in the recipient of the sacrament doing anything, but only receiving, as is seen in baptism and the others. But the act of the recipient is required for receiving the benefit of the sacrament in someone who is arbiter of his own will, by removing obstacles, namely, false pretenses. But in penance the act of the one receiving the sacrament is of the substance of the sacrament, in that contrition, confession, and satisfaction, which are the acts of the penitent, are parts of penance. Now, since our acts have their principle in us, they cannot be administered to us from another except by command. And so it is necessary that the person who is established as minister of this sacrament be such that he can command something to be done. Now, someone does not have command over another unless he has jurisdiction over him; and so it belongs to this sacrament of necessity not only that the minister have holy orders, as in the other sacraments, but also that he have jurisdiction; and so just as someone who is not a priest cannot confer this sacrament, so neither can someone who does not have jurisdiction. And because of this a confession must be made not just to a priest, but to one’s own priest. For since a priest does not absolve except by binding someone to do something, the only one who can absolve is one who can bind someone to do something by his command.***
+To the fourth question, it should be said that the other sacraments do not consist in the recipient of the sacrament doing anything, but only receiving, as is seen in baptism and the others. But the act of the recipient is required for receiving the benefit of the sacrament in someone who is arbiter of his own will, by removing obstacles, namely, false pretenses. But in penance the act of the one receiving the sacrament is of the substance of the sacrament, in that contrition, confession, and satisfaction, which are the acts of the penitent, are parts of penance. Now, since our acts have their principle in us, they cannot be administered to us from another except by command. And so it is necessary that the person who is established as minister of this sacrament be such that he can command something to be done. Now, someone does not have command over another unless he has jurisdiction over him; and so it belongs to this sacrament of necessity not only that the minister have holy orders, as in the other sacraments, but also that he have jurisdiction; and so just as someone who is not a priest cannot confer this sacrament, so neither can someone who does not have jurisdiction. And because of this a confession must be made not just to a priest, but to one’s own priest. For since a priest does not absolve except by binding someone to do something, the only one who can absolve is one who can bind someone to do something by his command.  
 
 Reply Obj. 1: Gregory is speaking of those monks who have jurisdiction, for example, to whom care of a parish is committed. For some people were saying about them that by the fact that they were monks, they could not absolve and impose penances; which is false.  
 
@@ -1224,7 +1226,7 @@ Reply Obj. 6: In the fact that one must confess to one’s own priest, the path 
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that there are two ways a certain priest can be impeded from hearing someone’s confession. In one way, because of a lack of jurisdiction; in the other way because of an impediment to the exercise of his holy orders, like priests who are excommunicated, or demoted, etc. Now, anyone who has jurisdiction can entrust what belongs to his jurisdiction to another; and so if someone is impeded from hearing another’s confession by a lack of jurisdiction, it can be committed to him to hear confessions and give absolution by anyone having direct jurisdiction over those people, whether the priest himself, or the bishop, or the Pope. But if he cannot because of an impediment to the exercise of his holy orders, it can be granted to him to hear confessions by whoever can remove the impediment.***
+To the fifth question, it should be said that there are two ways a certain priest can be impeded from hearing someone’s confession. In one way, because of a lack of jurisdiction; in the other way because of an impediment to the exercise of his holy orders, like priests who are excommunicated, or demoted, etc. Now, anyone who has jurisdiction can entrust what belongs to his jurisdiction to another; and so if someone is impeded from hearing another’s confession by a lack of jurisdiction, it can be committed to him to hear confessions and give absolution by anyone having direct jurisdiction over those people, whether the priest himself, or the bishop, or the Pope. But if he cannot because of an impediment to the exercise of his holy orders, it can be granted to him to hear confessions by whoever can remove the impediment.  
 
 Reply Obj. 1: No detriment is done to someone unless an indult of jurisdiction granted in his favor is taken away from him. Now, all power is committed to any man not in his own favor, but for the benefit of the people and the honor of God. And so, if it seems to be expedient to promoting the salvation of the people and the honor of God that what belongs to someone’s jurisdiction be committed to others, injury is done to none of the prelate’s inferiors, except those *who seek what is their own, not what belongs to Jesus Christ* (Phil 2:21), and who govern the flock, *not to feed them, but to be fed by them* (Ezech 34:2, 8).  
 
@@ -1240,7 +1242,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth question we proceed thus. It seems that confession cannot be unformed. For it says: *confession perishes from the dead as if he does not exist* (Sir 17:28). But someone who does not have charity, is dead, since it is the life of the soul. Therefore, without charity, confession cannot exist.***
+Obj. 1: To the fourth question we proceed thus. It seems that confession cannot be unformed. For it says: *confession perishes from the dead as if he does not exist* (Sir 17:28). But someone who does not have charity, is dead, since it is the life of the soul. Therefore, without charity, confession cannot exist.  
 
 Obj. 2: Furthermore, confession is divided against contrition and satisfaction. But contrition and satisfaction can never arise without charity. Therefore, neither can confession.  
 
@@ -1250,7 +1252,7 @@ On the contrary, everyone is bound to confess his mortal sins. But if someone wh
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is not necessary that confession be complete, namely, so that someone confess all his sins to one priest.Parallels: *de Duobus praecept. carit*. 4; *De sex artic*. 6. For embarrassment causes a diminishment of punishment. But the more priests one confesses to, the more embarrassment one suffers. Therefore, confession will be more fruitful if it is divided among several priests.***
+Obj. 1: Moreover, it seems that it is not necessary that confession be complete, namely, so that someone confess all his sins to one priest.Parallels: *de Duobus praecept. carit*. 4; *De sex artic*. 6. For embarrassment causes a diminishment of punishment. But the more priests one confesses to, the more embarrassment one suffers. Therefore, confession will be more fruitful if it is divided among several priests.  
 
 Obj. 2: Furthermore, confession is necessary in penance so that the penalty may be fixed for sin according to the judgment of the priest. But a sufficient penalty can be imposed by priests for different sins. Therefore, it is not necessary to confess all one’s sins to a single priest.  
 
@@ -1264,7 +1266,7 @@ Furthermore (2), confession is a part of penance. But penance should be complete
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that someone can confess through another, or by writing.Parallel: *Quodl*. I, q. 6, a. 1. For a confession is necessary so that through it the conscience of the penitent may be opened to the priest. But a person can also manifest his conscience to a priest through someone else, or by writing. Therefore, it is sufficient to confess in writing, or by another.***
+Obj. 1: Moreover, it seems that someone can confess through another, or by writing.Parallel: *Quodl*. I, q. 6, a. 1. For a confession is necessary so that through it the conscience of the penitent may be opened to the priest. But a person can also manifest his conscience to a priest through someone else, or by writing. Therefore, it is sufficient to confess in writing, or by another.  
 
 Obj. 2: Furthermore, some people are not understood by their own priest because of a difference of language; and such people cannot confess in any way except through others. Therefore, it is not necessary to the sacrament that someone confess himself; and so it seems that if someone has confessed through another in some way, it is enough for his salvation.  
 
@@ -1276,7 +1278,7 @@ Furthermore (2), whoever sinned of himself should do penance of himself. But con
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that those sixteen conditions assigned by the masters, that are contained in these verses, are not required for confession: *let confession be simple, humble, pure, faithful and frequent, naked, discrete, willing, modest, complete, secret, tearful, speedy, courageous and accusing, and let it be ready to obey*. For faith and simplicity and courage are virtues in their own right. Therefore, they should not be listed as conditions of confession.***
+Obj. 1: Moreover, it seems that those sixteen conditions assigned by the masters, that are contained in these verses, are not required for confession: *let confession be simple, humble, pure, faithful and frequent, naked, discrete, willing, modest, complete, secret, tearful, speedy, courageous and accusing, and let it be ready to obey*. For faith and simplicity and courage are virtues in their own right. Therefore, they should not be listed as conditions of confession.  
 
 Obj. 2: Furthermore, what is pure is what has nothing mixed in with it; likewise, what is simple has no composition or mixture. Therefore, it is superfluous to include both.  
 
@@ -1288,7 +1290,7 @@ Obj. 5: Furthermore, what is not in our power is not required of us. But to shed
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that confession is the act of a virtue, and a part of a sacrament. Now, according as it is an act of virtue, it is properly a meritorious act; and in that way confession is not worth anything without charity, which is the principle of meriting. But according as it is a part of a sacrament, it directs the person confessing to a priest, who holds the keys of the Church, which knows the conscience of the person confessing through confession. And accordingly confession can also exist in someone who is not contrite, because he can make his sins known to the priest and subject himself to the Church’s power of the keys. And although in that case he does not receive the fruit of absolution, nevertheless, he will begin to receive it, as his false pretense abates, just as is also the case in the other sacraments; and so he is not bound to repeat the confession that he made insincerely, but he is bound to confess his insincerity afterward.***
+To the first question, I answer that confession is the act of a virtue, and a part of a sacrament. Now, according as it is an act of virtue, it is properly a meritorious act; and in that way confession is not worth anything without charity, which is the principle of meriting. But according as it is a part of a sacrament, it directs the person confessing to a priest, who holds the keys of the Church, which knows the conscience of the person confessing through confession. And accordingly confession can also exist in someone who is not contrite, because he can make his sins known to the priest and subject himself to the Church’s power of the keys. And although in that case he does not receive the fruit of absolution, nevertheless, he will begin to receive it, as his false pretense abates, just as is also the case in the other sacraments; and so he is not bound to repeat the confession that he made insincerely, but he is bound to confess his insincerity afterward.  
 
 Reply Obj. 1: That authority is to be understood as to receiving the fruit of confession, which no one who is without charity receives.  
 
@@ -1298,7 +1300,7 @@ Reply Obj. 3: Someone who tells the sins that he has, speaks truly, and in this 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in physical medicine it is necessary that the doctor know not only the one disease against which he must give the medicine, but also generally the whole condition of the sick person himself, for one sickness may be worsened by the combination of another; and the medicine that applies to one illness may do harm to the other. And it is similar with sin, for what may be a suitable medicine for one sin might present an incentive for another, since sometimes someone is infected with contrary sins, as Gregory teaches in his *Pastoral Rule*.Gregory the Great, *Regula pastoralis* (CCSL 141), pt. 3, ch. 3. And so it is necessary to confession that a man confess all the sins that he has in his memory: for if he does not do this, it is not a confession but a pretense of a confession.***
+To the second question, it should be said that in physical medicine it is necessary that the doctor know not only the one disease against which he must give the medicine, but also generally the whole condition of the sick person himself, for one sickness may be worsened by the combination of another; and the medicine that applies to one illness may do harm to the other. And it is similar with sin, for what may be a suitable medicine for one sin might present an incentive for another, since sometimes someone is infected with contrary sins, as Gregory teaches in his *Pastoral Rule*.Gregory the Great, *Regula pastoralis* (CCSL 141), pt. 3, ch. 3. And so it is necessary to confession that a man confess all the sins that he has in his memory: for if he does not do this, it is not a confession but a pretense of a confession.  
 
 Reply Obj. 1: Even if the embarrassment is multiplied when one divides many sins among different confessions, nevertheless all together are not so great as that one in which all one’s sins are confessed at once, for one sin considered by itself does not reveal as much of a bad disposition in the sinner as when it is considered together with many others: for a person falls into one sin sometimes by ignorance or weakness, but a multitude of sins shows the wickedness of the sinner, or his great corruption.  
 
@@ -1310,7 +1312,7 @@ Reply Obj. 4: Even if the priest cannot give absolution for all sins, one is nev
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that confession is not only an act of virtue, but also the part of a sacrament. Now, although according as it is an act of virtue it would suffice for it to be done in any way, although there would not be as much difficulty in one way as in another, nevertheless, according as it is part of a sacrament it has a determinate act, just as the other sacraments have determinate matter. And as in baptism to signify the interior cleansing that element is taken whose greatest use is in cleansing, so also in the sacramental act ordered to making things known that act is taken which we are most accustomed to use for making things known, namely, by our own words; for other ways are employed to supplement this one.***
+To the third question, it should be said that confession is not only an act of virtue, but also the part of a sacrament. Now, although according as it is an act of virtue it would suffice for it to be done in any way, although there would not be as much difficulty in one way as in another, nevertheless, according as it is part of a sacrament it has a determinate act, just as the other sacraments have determinate matter. And as in baptism to signify the interior cleansing that element is taken whose greatest use is in cleansing, so also in the sacramental act ordered to making things known that act is taken which we are most accustomed to use for making things known, namely, by our own words; for other ways are employed to supplement this one.  
 
 Reply Obj. 1: Just as in baptism it is not enough to wash someone in any manner whatsoever, but with a specific element, so neither does it suffice in penance to make sins known in any manner whatsoever, but it is necessary that they be made known by a specific act.  
 
@@ -1320,7 +1322,7 @@ Reply Obj. 3: In the absence of one’s own priest, confession can even be made 
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that some of the conditions named are necessary to confession, while some are about doing it well. But those things that are necessary to confession either apply to it as an act of virtue, or as a part of a sacrament.***
+To the fourth question, it should be said that some of the conditions named are necessary to confession, while some are about doing it well. But those things that are necessary to confession either apply to it as an act of virtue, or as a part of a sacrament.  
 
 If in the first way, either by reason of virtue in general, or by reason of the specific virtue whose act it is, or by the very nature of an act. There are four conditions of virtue in general, as is said in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 4, 1105a31. The first is that a person be knowing, and according to this confession is said to be *discrete*, according as prudence is required in the act of every virtue. Now, this discretion is so that someone may confess greater things with more weight. The second condition is that it be deliberate, because acts of virtue must be voluntary; and as to this it says *willing*. The third condition is that it be done ‘for the sake of this,’ namely, for the right end; and as to this it says that penance must be *pure*, namely, so that it has the right intention. Fourth is that it work unmovingly, and as to this it says that it must be *courageous*, namely, so that one does not give up because of shame. Now, confession is an act of the virtue of penitence, which indeed takes its first impetus from horror at the disgracefulness of sin. And as to this, confession must be *modest*, so that namely one does not boast about sins because of any worldly vanity mixed in. Second, it progresses to sorrow for sin committed, and as to this it should be *tearful*. Third, it ends in one’s own abjection; and as to this it should be *humble*, so that one confesses oneself to be weak and a wretch. But by the proper nature of this act that is confession it makes things known, and indeed, this making known can be impeded by four things. First, by falsehood, and as to this it says, *faithful*, i.e., true. Second, by concealing, and as to this it says, *naked*, so that it is not covered by the obscurity of the words. Third, by the multiplication of words, and against this it says that it should be *simple*, so that one does not recite in confession anything but what pertains to the quantity of sin. Fourth, that nothing be taken away from those things that should be made known, and against this it says, *complete*.  
 
@@ -1342,7 +1344,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fifth question we proceed thus.Parallels: below, d. 18, q. 1, a. 3, qa. 1–2; d. 22, q. 2, a. 1, qa. 3; *SCG* IV, ch. 71; *Quodl.* IV, q. 7, a. 1; *Super Ps*. 31. It seems that confession does not free one from the death of sin. For confession follows contrition. But contrition sufficiently blots out fault. Therefore, confession does not free one from the death of sin.***
+Obj. 1: To the fifth question we proceed thus.Parallels: below, d. 18, q. 1, a. 3, qa. 1–2; d. 22, q. 2, a. 1, qa. 3; *SCG* IV, ch. 71; *Quodl.* IV, q. 7, a. 1; *Super Ps*. 31. It seems that confession does not free one from the death of sin. For confession follows contrition. But contrition sufficiently blots out fault. Therefore, confession does not free one from the death of sin.  
 
 Obj. 2: Furthermore, just as there is mortal sin, there is also venial sin. But by confession *what was mortal sin before becomes venial*, as is said in the text. Therefore, by confession sin is not forgiven, but changed into a different kind of sin.  
 
@@ -1350,7 +1352,7 @@ On the contrary, confession is a part of the sacrament of penance. But penance f
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that confession does not free from punishment in any way.Parallels: above, a. 1, qa. 1, ad 1; a. 3, qa. 5, ad 4; d. 22, q. 2, a. 1, qa. 3; *SCG* IV, ch. 72; *Orat. Dom*. 9; *Super Ps*. 31. For only eternal punishment or temporal punishment is owed to sin. But eternal punishment is remitted by contrition, while temporal punishment by satisfaction. Therefore, by confession nothing of punishment is forgiven.***
+Obj. 1: Moreover, it seems that confession does not free from punishment in any way.Parallels: above, a. 1, qa. 1, ad 1; a. 3, qa. 5, ad 4; d. 22, q. 2, a. 1, qa. 3; *SCG* IV, ch. 72; *Orat. Dom*. 9; *Super Ps*. 31. For only eternal punishment or temporal punishment is owed to sin. But eternal punishment is remitted by contrition, while temporal punishment by satisfaction. Therefore, by confession nothing of punishment is forgiven.  
 
 Obj. 2: Furthermore, *the will is counted as the deed*, as it says in the text. But someone who is contrite has the intention of confessing. Therefore, that was worth as much as if he had confessed; and so by the confession that he makes afterward, nothing of punishment is remitted.  
 
@@ -1358,7 +1360,7 @@ On the contrary, confession contains suffering. But by other penal works the pen
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it does not open paradise. For different things have different effects. But the opening of paradise is an effect of baptism. Therefore, it is not an effect of confession.***
+Obj. 1: Moreover, it seems that it does not open paradise. For different things have different effects. But the opening of paradise is an effect of baptism. Therefore, it is not an effect of confession.  
 
 Obj. 2: Furthermore, when something is closed it cannot be entered before its opening. But someone who dies before confession can enter paradise. Therefore confession does not open paradise.  
 
@@ -1366,7 +1368,7 @@ On the contrary, confession makes a person subject to the Church’s keys. But p
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that it should not be included as an effect of confession that it bestows the hope of salvation. For hope comes from all meritorious acts. And so it does not seem to be the proper effect of confession.***
+Obj. 1: Moreover, it seems that it should not be included as an effect of confession that it bestows the hope of salvation. For hope comes from all meritorious acts. And so it does not seem to be the proper effect of confession.  
 
 Obj. 2: Furthermore, we arrive at hope through tribulation, as is clear from Romans 5:3–4. But a person especially undergoes tribulation in acts of satisfaction. Therefore, bestowing hope of salvation belongs more to satisfaction than to confession.  
 
@@ -1374,7 +1376,7 @@ On the contrary, a person becomes more humble and meek by confession, as the Mas
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that penance, as it is a sacrament, is particularly perfected in confession, for by it a man submits himself to the ministers of the Church who administer the sacraments. For contrition has the pledge of confession attached to it; and satisfaction is fixed by the judgment of the priest to whom the confession is made. And since in the sacrament of penance, grace is infused, by which the remission of sins happens, as in baptism, therefore in the same way confession forgives guilt, as baptism does, by the power of absolution joined to it. For baptism frees from the death of sin not only in the reception of the act, but also as it is held in pledge, as is seen among those who come to baptism already sanctified. And if someone does not present an impediment, he would obtain the grace remitting sins by the very conferral of baptism, if they had not already been remitted him. And likewise it should be said about confession with absolution joined to it, that according as it preceded in the wish of the penitent, he was freed from guilt, but afterward in the act of confession and absolution, grace is increased; and the remission of sins would also be given, if the preceding sorrow for sins was not sufficient for contrition, and the penitent does not present an obstacle to grace at that time. And so, just as it is said about baptism that it frees from death, the same can also be said for confession.***
+To the first question, I answer that penance, as it is a sacrament, is particularly perfected in confession, for by it a man submits himself to the ministers of the Church who administer the sacraments. For contrition has the pledge of confession attached to it; and satisfaction is fixed by the judgment of the priest to whom the confession is made. And since in the sacrament of penance, grace is infused, by which the remission of sins happens, as in baptism, therefore in the same way confession forgives guilt, as baptism does, by the power of absolution joined to it. For baptism frees from the death of sin not only in the reception of the act, but also as it is held in pledge, as is seen among those who come to baptism already sanctified. And if someone does not present an impediment, he would obtain the grace remitting sins by the very conferral of baptism, if they had not already been remitted him. And likewise it should be said about confession with absolution joined to it, that according as it preceded in the wish of the penitent, he was freed from guilt, but afterward in the act of confession and absolution, grace is increased; and the remission of sins would also be given, if the preceding sorrow for sins was not sufficient for contrition, and the penitent does not present an obstacle to grace at that time. And so, just as it is said about baptism that it frees from death, the same can also be said for confession.  
 
 Reply Obj. 1: Contrition has the pledge of confession joined to it; and so it frees penitents from guilt just as the desire for baptism does for those to be baptized.  
 
@@ -1382,7 +1384,7 @@ Reply Obj. 2: Venial sin is not taken for fault, but for a penalty that can be e
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that confession together with absolution has the power of freeing from punishment in two ways. In one way, from the very force of absolution, and in this way, indeed, the pledge of confession frees from eternal punishment, just as from guilt; which punishment is indeed a condemning punishment, and banishes one entirely. The man freed from this yet remains obliged to temporal punishment, according as punishment is a purifying and improving medicine. And this punishment remains to be suffered in purgatory even for those who were freed from the punishment of hell; which punishment indeed is disproportionate to the powers of the penitent living in this world, but by the power of the keys it is diminished to such a degree that what remains is proportionate to the powers of the penitent, such that by making satisfaction he can purify himself in this life. In the other way it diminishes the punishment by the very nature of the act of the one confessing, who has the pain of embarrassment attached; and so the more times one confesses the same sins, the more the punishment is diminished.***
+To the second question, it should be said that confession together with absolution has the power of freeing from punishment in two ways. In one way, from the very force of absolution, and in this way, indeed, the pledge of confession frees from eternal punishment, just as from guilt; which punishment is indeed a condemning punishment, and banishes one entirely. The man freed from this yet remains obliged to temporal punishment, according as punishment is a purifying and improving medicine. And this punishment remains to be suffered in purgatory even for those who were freed from the punishment of hell; which punishment indeed is disproportionate to the powers of the penitent living in this world, but by the power of the keys it is diminished to such a degree that what remains is proportionate to the powers of the penitent, such that by making satisfaction he can purify himself in this life. In the other way it diminishes the punishment by the very nature of the act of the one confessing, who has the pain of embarrassment attached; and so the more times one confesses the same sins, the more the punishment is diminished.  
 
 And by this the response to the first is clear.  
 
@@ -1390,7 +1392,7 @@ Reply Obj. 2: The will is not counted for the deed in those things that are from
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that someone is prevented from entering paradise by guilt and by a debt of punishment; and since confession takes away these impediments, as is clear from what has been said,In the foregoing two quaestiunculae. therefore it is said to open paradise.***
+To the third question, it should be said that someone is prevented from entering paradise by guilt and by a debt of punishment; and since confession takes away these impediments, as is clear from what has been said,In the foregoing two quaestiunculae. therefore it is said to open paradise.  
 
 Reply Obj. 1: Although baptism and penance are different sacraments, nevertheless they act in the power of the one Passion of Christ, by which the entrance to paradise was opened.  
 
@@ -1398,7 +1400,7 @@ Reply Obj. 2: Before the pledge of confession paradise was closed to anyone sinn
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that our only hope for the remission of sins is through Christ. And since by confession a person subjects himself to the Church’s keys, which have power from the Passion of Christ, therefore confession is said to bestow hope of salvation.***
+To the fourth question, it should be said that our only hope for the remission of sins is through Christ. And since by confession a person subjects himself to the Church’s keys, which have power from the Passion of Christ, therefore confession is said to bestow hope of salvation.  
 
 Reply Obj. 1: Hope of salvation cannot chiefly be from our acts, but from the grace of the Redeemer. And since confession depends on the grace of the Redeemer, this is why it does not only bestow hope of salvation as a meritorious act, but as a part of a sacrament.  
 
@@ -1406,7 +1408,7 @@ Reply Obj. 2: Tribulation bestows the hope of salvation by the experience of one
 
 Exposition of the Text  
 
-****For some say that no one is cleansed from sin without confession by the mouth and satisfaction in deed*.*Sententiae* IV, 17.1 (92).2. There is a third opinion that the Master does not touch upon, that fault is forgiven by contrition under one condition, namely, if one confesses. But this opinion is less reasonable than the others, for the state of salvation does not depend on the future, for, as it says, *where the tree falls, there it will be* (Eccl 11:3). And therefore it is nothing to say that man is led back to the state of salvation by the forgiveness of his sins under the condition of confession simply.***
+*For some say that no one is cleansed from sin without confession by the mouth and satisfaction in deed*.*Sententiae* IV, 17.1 (92).2. There is a third opinion that the Master does not touch upon, that fault is forgiven by contrition under one condition, namely, if one confesses. But this opinion is less reasonable than the others, for the state of salvation does not depend on the future, for, as it says, *where the tree falls, there it will be* (Eccl 11:3). And therefore it is nothing to say that man is led back to the state of salvation by the forgiveness of his sins under the condition of confession simply.  
 
 *The intention is adjudged as deed*.*Sent*. IV, 17.1 (92).3 citing ordinary gloss on Ps. 31, 5.. This is to be understood about good things as much as about bad, when the pledge is fulfilled, so that nothing delays one from its execution but powerlessness. But if the operation ensuing adds anything to the will, as in those operations that contain pleasure provoking the will in their very act, then the operation also adds to the substantial merit and demerit. Otherwise, it does not, but the operation always adds as to something ensuing, which is the benefit consequent upon the act in good things as its effect, or the harm in bad things.  
 

@@ -1,5 +1,7 @@
 # Chapter 65
 
+^65:1^ Quæsierunt me qui ante non interrogabant, invenerunt qui non quæsierunt me. Dixi: ecce ego, ecce ego ad gentem quæ nesciebat me et quae non invocabat nomen meum.  
+
 > ^65:2^ Expandi manus meas tota die ad populum incredulum, qui graditur in via non bona post cogitationes suas,
 
 > ^65:3^ populus qui ad iracundiam provocat me ante faciem meam semper, qui immolant in hortis et sacrificant super lateres,

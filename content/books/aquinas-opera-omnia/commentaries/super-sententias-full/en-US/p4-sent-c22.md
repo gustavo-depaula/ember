@@ -1,8 +1,10 @@
 # D. 42 - Parts and modes of sin
 
+***Parts and modes of sin***
+
 ***Division of the first part of the text***
 
-***After he has addressed sin in general, here he addresses sin in comparison to its classes. And it is divided into two parts.***
+After he has addressed sin in general, here he addresses sin in comparison to its classes. And it is divided into two parts.  
 
 In the first, he addresses the different classes and modes of sin.  
 
@@ -62,7 +64,7 @@ Article 1
 
 ***Whether the will and act of sin are two sins***
 
-***To the first we proceed as follows. It seems that the will and the act are two sins.***
+To the first we proceed as follows. It seems that the will and the act are two sins.  
 
 Obj. 1: For Augustine saysAugustine, *Contra Faustum*, bk. 22, ch. 27 (CSEL 25:621; PL 42:418). that something is a sin by being contrary to the divine laws. But there are two distinct commandments whereby the internal will and the external act are forbidden, as is clear in Exodus 20:15 and 17: *you shall not steal*, and: *you shall not covet your neighbor’s property*. Therefore, the external act and the internal act, that is, the depraved will, are different sins.  
 
@@ -98,7 +100,7 @@ Article 2
 
 ***Whether the guilt of sin remains after sin***
 
-***To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 14, q. 2, a. 1, resp.; *ST* I-II.87.6; III.86.4; *SCG* III.158; *Compendium theologiae*, ch. 181; *Commentary on Romans*, ch. 11, lect. 4. It seems that guilt does not remain after the act of sin.***
+To the second we proceed as follows.Parallel texts: *In IV Sent*., d. 14, q. 2, a. 1, resp.; *ST* I-II.87.6; III.86.4; *SCG* III.158; *Compendium theologiae*, ch. 181; *Commentary on Romans*, ch. 11, lect. 4. It seems that guilt does not remain after the act of sin.  
 
 Obj. 1: For when the cause ceases, the effect ceases. But one is only guilty of punishment due to an act. Therefore, guilt does not remain after the act.  
 
@@ -136,7 +138,7 @@ Article 3
 
 ***Whether sin is fittingly divided into “mortal” and “venial”***
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.72.5; 88.1; *SCG* III.139; *On Evil*, q. 7, a. 1. It seems that sin is unfittingly divided into “mortal” and “venial.”***
+To the third we proceed as follows.Parallel texts: *ST* I-II.72.5; 88.1; *SCG* III.139; *On Evil*, q. 7, a. 1. It seems that sin is unfittingly divided into “mortal” and “venial.”  
 
 Obj. 1: For things that differ to infinity do not agree in one genus, such as “creator” and “created,” or “being” and “non-being.” But “venial” and “mortal” are this sort of thing, since one is due temporal punishment and the other eternal, as is clear in the text.*Sent*. II, 42.3(261).1. Therefore, sin ought not to be divided into these two classes.  
 
@@ -172,7 +174,7 @@ Article 4
 
 ***Whether venial sin is distinguished from mortal sin***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I-II.88.2; *On Evil*, q. 7, a. 1; q. 10, a. 2. It seems that venial sin is not distinct from mortal sin.***
+To the fourth we proceed as follows.Parallel texts: *ST* I-II.88.2; *On Evil*, q. 7, a. 1; q. 10, a. 2. It seems that venial sin is not distinct from mortal sin.  
 
 Obj. 1: For whatever takes away virtue is a mortal sin. But every sin takes away virtue because every sin is a departure from equality, and virtue is a kind of equality. Therefore, venial sin is not distinguished from mortal sin.  
 
@@ -216,7 +218,7 @@ Article 5
 
 ***Whether mortal and venial sin differ by eternal and temporal punishment***
 
-***To the fifth we proceed as follows.Parallel texts: *In IV Sent*., d. 16, q. 2, a. 1, resp.; *ST* I-II.72.5; 87.2; 88.1; III.87.4; *On Evil*, q. 1, a. 4; q. 7, a. 1. It seems that mortal and venial sin do not differ on the basis of eternal punishment and temporal punishment.***
+To the fifth we proceed as follows.Parallel texts: *In IV Sent*., d. 16, q. 2, a. 1, resp.; *ST* I-II.72.5; 87.2; 88.1; III.87.4; *On Evil*, q. 1, a. 4; q. 7, a. 1. It seems that mortal and venial sin do not differ on the basis of eternal punishment and temporal punishment.  
 
 Obj. 1: For whatever things are finite can possess some proportion to one another. But the turning toward in a venial sin is finite, as is that which is in mortal sin. Therefore, they are capable of proportion. But the amount of punishment is based on the measure of pleasure on the side of the turning toward: *as she glorified herself and played the wanton, so give her a like measure of torment and mourning* (Rev 18:7). Therefore, venial punishment should also be proportioned to mortal punishment. Thus, they do not differ with respect to “eternal” and “temporal.”  
 
@@ -262,7 +264,7 @@ Reply Sed Contra 7: The posited scenario is impossible, which is clear as follow
 
 Exposition of the first part of the text  
 
-****Some say that there is one sin. But others say that there are different sins*.*Sent*. II, 42.1(259).2. Both opinions are true when understood in a certain way. For if we take the will as connected with the act, then the will and the external act are one sin. But if we take the will as separate from the act, then there are two sins numerically, but one specifically.***
+*Some say that there is one sin. But others say that there are different sins*.*Sent*. II, 42.1(259).2. Both opinions are true when understood in a certain way. For if we take the will as connected with the act, then the will and the external act are one sin. But if we take the will as separate from the act, then there are two sins numerically, but one specifically.  
 
 *And to this too they respond*.*Sent*. II, 42.1(259).3. Besides the reply put forth here, there can be another, which was included in the first article.  
 
@@ -276,7 +278,7 @@ But it should be said that the stain is a mean between the act of sin and the gu
 
 Division of the second part of the text  
 
-****And the modes of sinning are distinguished in a variety of ways in Scripture*.*Sent*. II, 42.4(262).1. In the preceding section, the Master addressed some things that are required for sin as integral elements of it. Here he addresses different divisions of sin. And it is divided into two parts.***
+*And the modes of sinning are distinguished in a variety of ways in Scripture*.*Sent*. II, 42.4(262).1. In the preceding section, the Master addressed some things that are required for sin as integral elements of it. Here he addresses different divisions of sin. And it is divided into two parts.  
 
 In the first, he pursues the divisions that concern sin taken generally; in the second, he pursues the division of capital sins, at ‘*moreover, it is to be known that there are seven capital or principal vices*.’*Sent*. II, 42.6(264).1, quoting the *Glossa ordinaria*, at Exodus 23:22, 1.717 (PL 113:263), from Gregory the Great, *Moralia in Job*, bk. 31, ch. 45, para. 87 (CCSL 143B; PL 76:621).  
 
@@ -334,7 +336,7 @@ Article 1
 
 ***Whether sins are distinguished on the basis of the roots***
 
-***To the first we proceed as follows.Parallel texts: *ST* I-II.72.1, 3, 8; *On Evil*, q. 2, a. 6. It seems that sins are unfittingly distinguished on the basis of their roots.***
+To the first we proceed as follows.Parallel texts: *ST* I-II.72.1, 3, 8; *On Evil*, q. 2, a. 6. It seems that sins are unfittingly distinguished on the basis of their roots.  
 
 Obj. 1: For a root is like a foundation. But sin has no foundation, as it says in a gloss on Matthew 7:26.Sedulius Scotus, *In Evangelium Matthaei*, B. Löfstedt, Vetus Latina, Aus der Geschichte der lateinischen Bibel (Freiburg: Herder, 1989), vol. 14, bk. 1, ch. 7, p. 235; cf. Bede, *Commentary on Luke*, bk. 2, ch. 6 (CCSL 120; PL 92:413); Gregory the Great, *Morals on the Book of Job*, bk. 26, ch. 37 (CCSL 143B; PL 76:388); the general sense is also found in: *Glossa interlinearis*, at Matthew 7:26–27, 5.154 (in *Glossa ordinaria* 5.154 [PL 114:112]). Therefore, it has no root. Therefore, sins ought not be distinguished on the basis of the roots.  
 
@@ -372,7 +374,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.72.7; 100.5–6; III.90.3, ad 1. It seems that the second division assigned in the text is incongruous.*Sent*. II, 42.4(262).2, referring to Jerome, *In Ezechielem*, bk. 13, ch. 43, verses 23–25 (PL 25:427; CCSL 75) and Augustine, *Tractates on the Gospel of John*, tract. 49, para. 3 (CCSL 36; PL 35:1718): *elsewhere, sin is said to be committed in three ways, namely, in thought, word, deed. . . . Sometimes a fourth way is added to these three, namely, that of habituation*.***
+To the second we proceed as follows.Parallel texts: *ST* I-II.72.7; 100.5–6; III.90.3, ad 1. It seems that the second division assigned in the text is incongruous.*Sent*. II, 42.4(262).2, referring to Jerome, *In Ezechielem*, bk. 13, ch. 43, verses 23–25 (PL 25:427; CCSL 75) and Augustine, *Tractates on the Gospel of John*, tract. 49, para. 3 (CCSL 36; PL 35:1718): *elsewhere, sin is said to be committed in three ways, namely, in thought, word, deed. . . . Sometimes a fourth way is added to these three, namely, that of habituation*.  
 
 Obj. 1: For the same genus has the same primary differences that divide it. But sin is one genus, at least as analogous. Therefore, it is unfitting to distinguish it into such a great variety of divisions.  
 
@@ -386,7 +388,7 @@ Obj. 5: Furthermore, sin of omission is a species of sin, yet it is not containe
 
 Quaestiuncula 2  
 
-***Obj. 1: Further, there is a question about another division, the one based on objects. It seems that it is insufficient. For a sinner is said to sin against the person he harms by his sin. But we cannot harm God by sinning, as it says in Job 35:6: *if you have sinned, what do you accomplish against him? And if your transgressions are multiplied, what do you do to him?* Therefore, it is unfitting to say that one sins against God.***
+Obj. 1: Further, there is a question about another division, the one based on objects. It seems that it is insufficient. For a sinner is said to sin against the person he harms by his sin. But we cannot harm God by sinning, as it says in Job 35:6: *if you have sinned, what do you accomplish against him? And if your transgressions are multiplied, what do you do to him?* Therefore, it is unfitting to say that one sins against God.  
 
 Obj. 2: Furthermore, that which is the reason for loving cannot be hated. But man is the reason for loving with respect to himself, since man loves nothing except inasmuch as it is good for himself. Therefore, no one can hate himself. But we sin against one whom we hate. Therefore, no one sins against himself.  
 
@@ -396,7 +398,7 @@ Obj. 4: Furthermore, whoever sins against his neighbor sins against himself and 
 
 Quaestiuncula 3  
 
-***Obj. 1: Further, there is a question about another division, the one based on names. For it is not characteristic of a wise person to care about names. But the theologian is wise most of all. Therefore, he ought not get himself caught up in dividing sins by their names, but instead to make use of them as various people use them.***
+Obj. 1: Further, there is a question about another division, the one based on names. For it is not characteristic of a wise person to care about names. But the theologian is wise most of all. Therefore, he ought not get himself caught up in dividing sins by their names, but instead to make use of them as various people use them.  
 
 Obj. 2: Furthermore, just as “fault” (*delictum*) is said due to something’s being left out (*derelinquitur*), so also “sin” is said due to someone’s deviating from the path, since turning away is the formal element in sin, from which it takes its name. Therefore, the first difference he assigns seems to be null.  
 
@@ -404,7 +406,7 @@ Obj. 3: Furthermore, by ignorance one can sin not only by a sin of omission, but
 
 Response to Quaestiuncula 1  
 
-***I answer that this division is assigned on the basis of the progressive degrees of sin’s completeness. We note these degrees insofar as one act is added to another act to complete sin. Hence the second degree must include sin in itself. Thus, it is like a division of a potential whole.On “potential” or “potestative” wholes—that is, a whole whose account is found completely in one of its parts, but found in the other parts by a participation—see *In I Sent*., d. 3, q. 4, a. 2; d. 8, q. 5, a. 3; *In II Sent*., d. 9, q. 1, a. 3, ad 1; *In III Sent*., d. 33, q. 3, a. 1, resp.; *In IV Sent*., d. 24, q. 2, a. 1, resp. and ad 2; *ST* 1.77.1, ad 1; *On Spiritual Creatures*, a. 11, ad 2. Now, the addition of act to act can be in many ways, and in regard to this there are the different degrees in sin.***
+I answer that this division is assigned on the basis of the progressive degrees of sin’s completeness. We note these degrees insofar as one act is added to another act to complete sin. Hence the second degree must include sin in itself. Thus, it is like a division of a potential whole.On “potential” or “potestative” wholes—that is, a whole whose account is found completely in one of its parts, but found in the other parts by a participation—see *In I Sent*., d. 3, q. 4, a. 2; d. 8, q. 5, a. 3; *In II Sent*., d. 9, q. 1, a. 3, ad 1; *In III Sent*., d. 33, q. 3, a. 1, resp.; *In IV Sent*., d. 24, q. 2, a. 1, resp. and ad 2; *ST* 1.77.1, ad 1; *On Spiritual Creatures*, a. 11, ad 2. Now, the addition of act to act can be in many ways, and in regard to this there are the different degrees in sin.  
 
 Hence the first degree of sin is in the first act of sin, to which other things are added. This is the internal act, namely, that of the will. And this is the first member of the division, namely, sin of thought.  
 
@@ -426,7 +428,7 @@ Reply Obj. 5: According to the opinion of those who say that an internal or exte
 
 Response to Quaestiuncula 2  
 
-***To the next question, I answer that just as every virtue is in some way justice, as the Philosopher says in the *Ethics* 5,Aristotle, *Nicomachean Ethics* 5.1, 1129b26–1130a10. so also is every sin injustice. Now, injustice is from someone’s being deprived of something due him. Thus, injustice has, as it were, two objects: that which is deprived, and this is properly the matter of the act and that whereby the sin is specified, and the one who is deprived of it, such as the man whose possessions are taken away by injustice. This division of sin is taken on the basis of this object, since man owes something to God, to himself, and to his neighbor. To God he owes love, reverence, and so forth. Hence when he fails at these, he is said to sin against God. To himself, he owes cleanness, ordering of himself under the regime of reason, and so forth. When he fails at these, he is said to sin against himself. To his neighbor, what he owes is clear. And when he fails at this, he is said to sin against his neighbor. And it is the same if he were to do the contrary of these.***
+To the next question, I answer that just as every virtue is in some way justice, as the Philosopher says in the *Ethics* 5,Aristotle, *Nicomachean Ethics* 5.1, 1129b26–1130a10. so also is every sin injustice. Now, injustice is from someone’s being deprived of something due him. Thus, injustice has, as it were, two objects: that which is deprived, and this is properly the matter of the act and that whereby the sin is specified, and the one who is deprived of it, such as the man whose possessions are taken away by injustice. This division of sin is taken on the basis of this object, since man owes something to God, to himself, and to his neighbor. To God he owes love, reverence, and so forth. Hence when he fails at these, he is said to sin against God. To himself, he owes cleanness, ordering of himself under the regime of reason, and so forth. When he fails at these, he is said to sin against himself. To his neighbor, what he owes is clear. And when he fails at this, he is said to sin against his neighbor. And it is the same if he were to do the contrary of these.  
 
 Reply Obj. 1: Man is not said to sin against God because he harms God in any respect, but because he takes away from God what he owes him and, as far as he himself goes, lessens his glory, even though he cannot do this.  
 
@@ -438,7 +440,7 @@ Reply Obj. 4: This distinction is based on that which is sinned against directly
 
 Response to Quaestiuncula 3  
 
-***To the next question, I answer that we note the division of sins by their names on the basis of that whereby the act is regulated, namely the precepts of the law. And this is in two ways. Either it is according to the distinction of the precepts in itself, and in this way, “fault” regards the affirmative precepts, and “sin” the negative ones; or else it is insofar as the sinner fails at the precepts in different ways. For he either fails at the precepts in his reason by ignorance, and this is a fault, or else in his will by contempt, and this is a sin. And so, the rationale for the two explanations is clear.***
+To the next question, I answer that we note the division of sins by their names on the basis of that whereby the act is regulated, namely the precepts of the law. And this is in two ways. Either it is according to the distinction of the precepts in itself, and in this way, “fault” regards the affirmative precepts, and “sin” the negative ones; or else it is insofar as the sinner fails at the precepts in different ways. For he either fails at the precepts in his reason by ignorance, and this is a fault, or else in his will by contempt, and this is a sin. And so, the rationale for the two explanations is clear.  
 
 Reply Obj. 1: A wise person does indeed care about names, insofar as they express what is proper to things, not on their own account. Because we discover the essential differences of sins from different rationales, it was not unfitting to posit this division.  
 
@@ -450,7 +452,7 @@ Article 3
 
 ***Whether the division of the capital vices is suitable***
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.84.4; *On Evil*, q. 8, a. 1. The division of the capital vices put forward in the text seems unsuitable.*Sent*. II, 42.6(264).1, quoting Gregory, *Moralia in Job*, bk. 31, ch. 45, para. 87 (CCSL 143B; PL 76:621), found in *Glossa ordinaria*, at Exodus 23:22, 1.717 (PL 113:263): *it is to be known that there are seven capital or principal vices, as Gregory says on Exodus, namely, vainglory, anger, envy, sloth or sadness, avarice, gluttony, lust*.***
+To the third we proceed as follows.Parallel texts: *ST* I-II.84.4; *On Evil*, q. 8, a. 1. The division of the capital vices put forward in the text seems unsuitable.*Sent*. II, 42.6(264).1, quoting Gregory, *Moralia in Job*, bk. 31, ch. 45, para. 87 (CCSL 143B; PL 76:621), found in *Glossa ordinaria*, at Exodus 23:22, 1.717 (PL 113:263): *it is to be known that there are seven capital or principal vices, as Gregory says on Exodus, namely, vainglory, anger, envy, sloth or sadness, avarice, gluttony, lust*.  
 
 Obj. 1: For that from which other things arise and which serves as a principle for other sins seems to be the head of sins. But pride, as Gregory says,Gregory the Great, *Moralia in Job*, bk. 31, ch. 45 (CCSL 143B; PL 76:620). is that from which all sins arise and is like the queen of other sins. Therefore, it alone ought to be called the “capital vice,” or at least it and greed, from which others arise, as it says in the text.  
 
@@ -504,7 +506,7 @@ Article 4
 
 ***Whether the species of pride are fittingly assigned***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* II-II.162.4; *On Evil*, q. 8, a. 4; *Commentary on 1 Corinthians*, ch. 4, lect. 2. It seems that the species of pride are unfittingly assigned.*Sent*. II, 42.7(265).2, quoting Gregory, *Moralia in Job*, bk. 23, ch. 6 (CCSL 143B; PL 76:258), found in *Glossa ordinaria*, at Job 32:8, 3.303–4 (PL 113:840): *there are four kinds of pride, as Gregory says: ‘The first is when someone attributes to himself the good which he has; the second, when he believes that the good is given by God, and yet for his own merits; the third, when he boasts that he has what he does not have; the fourth, when he has contempt for all others and wishes to seem unique’*.***
+To the fourth we proceed as follows.Parallel texts: *ST* II-II.162.4; *On Evil*, q. 8, a. 4; *Commentary on 1 Corinthians*, ch. 4, lect. 2. It seems that the species of pride are unfittingly assigned.*Sent*. II, 42.7(265).2, quoting Gregory, *Moralia in Job*, bk. 23, ch. 6 (CCSL 143B; PL 76:258), found in *Glossa ordinaria*, at Job 32:8, 3.303–4 (PL 113:840): *there are four kinds of pride, as Gregory says: ‘The first is when someone attributes to himself the good which he has; the second, when he believes that the good is given by God, and yet for his own merits; the third, when he boasts that he has what he does not have; the fourth, when he has contempt for all others and wishes to seem unique’*.  
 
 Obj. 1: For to believe something that is contrary to an article of faith is the sin of faithlessness. But that all goods are from God is contained in the articles of faith, as is clear in the creed, where he is called the “maker of things visible and invisible.” Therefore, it seems that when one attributes the good he has to himself and does not recognize it as from God, this is the sin of infidelity and not pride.  
 
@@ -544,7 +546,7 @@ Article 5
 
 ***Whether all sins are equal***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I-II.73.2; *SCG* III.139; *On Evil*, q. 2, a. 9. It seems that all sins are equal.***
+To the fifth we proceed as follows.Parallel texts: *ST* I-II.73.2; *SCG* III.139; *On Evil*, q. 2, a. 9. It seems that all sins are equal.  
 
 Obj. 1: For virtue is a kind of equality, seeing as it consists in being in the middle. But there is equality in only one way, as being indivisible. Therefore, what deprives of virtue deprives of the whole thing. But privation does not admit of greater or lesser degree, except perhaps insofar as a habit is deprived of either in whole or in part. Therefore, sin, too, spoken of as the privation of virtue, does not admit of greater or lesser degree.  
 
@@ -598,6 +600,6 @@ Reply Obj. 6: Charity does not make all the virtues equal in quantity because on
 
 Exposition of the second part of the text  
 
-****Moreover, it is to be known that there are seven capital or principal vices*.*Sent*. II, 42.6(264).1. He seems to enumerate the capital vices in an unfitting way. For pride is different from vainglory. Therefore, vainglory is incorrectly put in place of pride.***
+*Moreover, it is to be known that there are seven capital or principal vices*.*Sent*. II, 42.6(264).1. He seems to enumerate the capital vices in an unfitting way. For pride is different from vainglory. Therefore, vainglory is incorrectly put in place of pride.  
 
 Rather, it should be said that because pride has a greater aptitude for giving rise to other vices than do the others, as has been shown, GregoryGregory the Great, *Moralia in Job*, bk. 31, ch. 45 (CCSL 143B; PL 76:620). did not list pride as a specific head among the vices, but instead listed it as the universal head of them all and named it queen of all vices. And in place of it, he put vainglory among the capital vices, which is its closest daughter. Isidore, in turn, considering all other vices are generated from pride, but some with greater frequency when they agree more with it, lists pride as a specific head of those vices that frequently arise from it. Thus, he reckoned it among the seven capital vices, as is clear from the Gloss on Deuteronomy 7.Isidore, *Quaestiones in Vetus Testamentum, seu Mysticorum expositiones sacramentorum*, ch. 16 (PL 83:459).

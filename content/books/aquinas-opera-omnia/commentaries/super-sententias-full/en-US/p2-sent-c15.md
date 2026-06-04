@@ -1,8 +1,10 @@
 # D. 35 - Divine knowledge
 
+***Divine knowledge***
+
 ***Division of the text***
 
-***After having considered the procession of the divine persons within the unity of the essence, which is the principle and cause of created things, now, before considering created things themselves, the Master treats things in which consist the perfect account of being a principle, insofar as God is said to be the principle of created things. Now, the account of an efficient principle in things that act by a necessity of nature sufficiently consists in power and perfect virtue, upon which the effect follows unless there is some impediment on the side of the recipient. But this is not sufficient in things that act by will; indeed, over and above this, knowledge and will are required, as the Philosopher shows.See Aristotle, *Metaphysics* 9.5, 1047b35–48a24.***
+After having considered the procession of the divine persons within the unity of the essence, which is the principle and cause of created things, now, before considering created things themselves, the Master treats things in which consist the perfect account of being a principle, insofar as God is said to be the principle of created things. Now, the account of an efficient principle in things that act by a necessity of nature sufficiently consists in power and perfect virtue, upon which the effect follows unless there is some impediment on the side of the recipient. But this is not sufficient in things that act by will; indeed, over and above this, knowledge and will are required, as the Philosopher shows.See Aristotle, *Metaphysics* 9.5, 1047b35–48a24.  
 
 And therefore this part is divided into three parts: in the first, he considers God’s knowledge; in the second, he considers God’s power at *now we must treat of God’s omnipotence*;*Sent*. I, 42.1(184).1. in the third, he considers God’s will at *we must now say something about God’s will, so far as the weakness of our understanding allows*.*Sent*. I, 45.1(190).1. Now, the reason for this ordering is that his knowledge extends to more things than his power, for it is of both good and evil, whereas his power does not extend to the latter; and his power extends to more things than does his will, since the will is only in respect of the good things that either are, or will be, or have been, whereas the power extends even to an infinity of other things that he could do.  
 
@@ -42,7 +44,7 @@ Article 1
 
 ***Whether knowledge befits God***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.14.1; *SCG* I.44; *On Truth*, q. 2, a. 1; *Compendium theologiae*, ch. 28; *Commentary on the Metaphysics*, bk. 12, lect. 8. It seems that knowledge does not befit God.***
+To the first we proceed as follows.Parallel texts: *ST* I.14.1; *SCG* I.44; *On Truth*, q. 2, a. 1; *Compendium theologiae*, ch. 28; *Commentary on the Metaphysics*, bk. 12, lect. 8. It seems that knowledge does not befit God.  
 
 Obj. 1: For where there is no intellect there cannot be knowledge. But the name “intellect” does not properly belong to God; rather, in the *Book of Causes* it says, *when God is called ‘intelligent,’ he is being named with the name of the first thing he has created*,Proclus, *Book of Causes*, prop. 6. which is an intelligence. Therefore it seems that knowledge does not properly befit God.  
 
@@ -96,7 +98,7 @@ Article 2
 
 ***Whether God understands things other than himself***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.14.5; *SCG* I.48, 49; *On Truth*, q. 2, a. 3; *Compendium theologiae*, ch. 30; *Commentary on the Metaphysics*, bk. 12, lect. 11; *Commentary on the Book of Causes*, lect. 13. It seems that God does not understand things other than himself.***
+To the second we proceed as follows.Parallel texts: *ST* I.14.5; *SCG* I.48, 49; *On Truth*, q. 2, a. 3; *Compendium theologiae*, ch. 30; *Commentary on the Metaphysics*, bk. 12, lect. 11; *Commentary on the Book of Causes*, lect. 13. It seems that God does not understand things other than himself.  
 
 Obj. 1: For the thing understood is the perfection of the one who understands, since it makes him be in act. But every perfection exceeds what it perfects. Therefore if he were to understand anything other than himself, that thing would stand as greater than him—which is incongruous.  
 
@@ -128,7 +130,7 @@ Article 3
 
 ***Whether he has certain and proper knowledge of things other than himself.***
 
-***To the third let us proceed as follows.Parallel texts: *ST* I.14.6; *SCG* I.50; *On the Power of God*, q. 6, a. 1; *On Truth*, q. 2, a. 4; *Commentary on the Book of Causes*, lect. 10. It seems that he does not have certain and proper cognition of things other than himself.***
+To the third let us proceed as follows.Parallel texts: *ST* I.14.6; *SCG* I.50; *On the Power of God*, q. 6, a. 1; *On Truth*, q. 2, a. 4; *Commentary on the Book of Causes*, lect. 10. It seems that he does not have certain and proper cognition of things other than himself.  
 
 Obj. 1: For one cannot have certain cognition of a reality except through its account existing in the knower. But nothing in God and created things is of the same account. Therefore, since he does know created things only by knowing what is in his very self, it seems that he does not have proper and certain cognition about them.  
 
@@ -160,7 +162,7 @@ Article 4
 
 ***Whether God’s knowledge is univocal with our knowledge***
 
-***To the fourth we proceed as follows. It seems that God’s knowledge is univocal with our knowledge.***
+To the fourth we proceed as follows. It seems that God’s knowledge is univocal with our knowledge.  
 
 Obj. 1: For what acts according to its form produces an effect univocal with it; for example, fire through its heat induces a heat univocal with its own heat. But Origen and Dionysius sayOrigen, *In Epistulam Pauli ad Romanos explanationum libri*, bk. 10, ch. 43 (PL 14:1292); Pseudo-Dionysius, *On the Divine Names*, ch. 7, para. 1 (PL 3:866). that God is called “wise” insofar as he fills us with wisdom through his own wisdom. Therefore it seems that his wisdom is univocal with ours.  
 
@@ -206,7 +208,7 @@ Reply Sed Contra 7: “Knowledge” is not predicated of God according to the ac
 
 Article 5  
 
-***Whether God’s knowledge is universal or particular, potential or habitual or actual***
+Whether God’s knowledge is universal or particular, potential or habitual or actual  
 
 ***To the fifth we proceed as follows. It seems that God’s knowledge is universal.***
 
@@ -236,7 +238,7 @@ Reply Obj. 4: “Power” names a perfect principle of activity, and therefore w
 
 Exposition of the text  
 
-****And so it is to be known that God’s wisdom or knowledge, although it is one and simple, yet it is given several different names because of the varying states of things and their different effects*.*Sent*. I, 35.6(155).2. One should consider that, in all the names here noted, one is based on an addition to another, but this is not an addition on the side of the knower, but on the side of the things known, which stand to the knower in diverse ways. For the name “knowledge,” or “wisdom,” signifies cognition in an absolute way along with the condition of certitude; whence it is in reference to both temporal and eternal things. But “providence,” or “foreknowledge,” adds the condition of duration, which can be of eternity with respect to time; and therefore it can only be in reference to temporal things, both of the good and the bad. But this disposition further adds the order of a cause to its effect in existing; whence it is of things that are to be done. “Providence” adds even something more, that is, the order of the cause conserving and ordering the end; and therefore providence pertains to governance. But “predestination” adds, over and above providence, a determinate end, so it is only in reference to those who are ordered to glory; and therefore it is said only of the good who are to be saved. However, “reprobation,” since it is in reference to the evil, adds nothing pertaining to his knowledge over and above foreknowledge; this is why he does not mention it.***
+*And so it is to be known that God’s wisdom or knowledge, although it is one and simple, yet it is given several different names because of the varying states of things and their different effects*.*Sent*. I, 35.6(155).2. One should consider that, in all the names here noted, one is based on an addition to another, but this is not an addition on the side of the knower, but on the side of the things known, which stand to the knower in diverse ways. For the name “knowledge,” or “wisdom,” signifies cognition in an absolute way along with the condition of certitude; whence it is in reference to both temporal and eternal things. But “providence,” or “foreknowledge,” adds the condition of duration, which can be of eternity with respect to time; and therefore it can only be in reference to temporal things, both of the good and the bad. But this disposition further adds the order of a cause to its effect in existing; whence it is of things that are to be done. “Providence” adds even something more, that is, the order of the cause conserving and ordering the end; and therefore providence pertains to governance. But “predestination” adds, over and above providence, a determinate end, so it is only in reference to those who are ordered to glory; and therefore it is said only of the good who are to be saved. However, “reprobation,” since it is in reference to the evil, adds nothing pertaining to his knowledge over and above foreknowledge; this is why he does not mention it.  
 
 *Some make the following objection to this*.*Sent*. I, 35.7(156).2. Here are presented three reasons that proceed, as it were, through the same path, except that the first is taken from “foreknowledge” signified abstractly, the second from “foreknowledge” signified concretely and as a verb, as when he is said “to foreknow,” and the third from “foreknowledge” signified concretely and as a name, as when he is called a “foreknower.” And the arguments are clear in the text.  
 

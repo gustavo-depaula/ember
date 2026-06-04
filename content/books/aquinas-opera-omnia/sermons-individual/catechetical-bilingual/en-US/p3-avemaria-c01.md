@@ -1,6 +1,8 @@
 # Sermons on the Hail Mary
 
-******Hail, Mary, full of grace, the Lord is with you***, etc. This salutation has three parts.Parallel texts: Thomas Aquinas, *Summa theologiae* III, q. 7, a. 10; 27.5, ad 1; *Commentary on the Sentences*, bk. 3, d. 13, q. 1, a. 2, qa. 2, ad 2; *Compendium theologiae*, ch. 214; *Commentary on John*, ch. 1, lect. 8; ch. 3, lect. 6; *Commentary on 1 Corinthians*, ch. 11, lect. 1; ch. 12, lect. 1; *Commentary on Colossians*, ch. 1, lect. 5. The second part of the prayer, “Holy Mary, Mother of God, . . . our death,” was not part of the prayer in the 13th century but is a later addition.***
+***Sermons on the Angelic Salutation***
+
+***Hail, Mary, full of grace, the Lord is with you***, etc. This salutation has three parts.Parallel texts: Thomas Aquinas, *Summa theologiae* III, q. 7, a. 10; 27.5, ad 1; *Commentary on the Sentences*, bk. 3, d. 13, q. 1, a. 2, qa. 2, ad 2; *Compendium theologiae*, ch. 214; *Commentary on John*, ch. 1, lect. 8; ch. 3, lect. 6; *Commentary on 1 Corinthians*, ch. 11, lect. 1; ch. 12, lect. 1; *Commentary on Colossians*, ch. 1, lect. 5. The second part of the prayer, “Holy Mary, Mother of God, . . . our death,” was not part of the prayer in the 13th century but is a later addition.  
 
 The angel gave one part, namely ***hail, full of grace, the Lord is with you, blessed art you among women*** (Luke 1:28, 42).  
 

@@ -1,5 +1,7 @@
 # Chapter 36
 
+^36:1^ And it came to pass in the fourteenth year of king Ezechias, that Sennacherib king of the Assyrians came up against all the fenced cities of Judah, and took them.  
+
 > ^36:2^ And the king of the Assyrians sent Rabsaces from Lachis to Jerusalem, to king Ezechias with a great army, and he stood by the conduit of the upper pool in the way of the fuller’s field.
 
 > ^36:3^ And there went out to him Eliacim the son of Helcias, who was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder.

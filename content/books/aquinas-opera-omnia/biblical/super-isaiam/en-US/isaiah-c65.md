@@ -1,5 +1,7 @@
 # Chapter 63
 
+^63:1^ Who is this that comes from Edom, with dyed garments from Bosra, this beautiful one in his robe, walking in the greatness of his strength? I, that speak justice, and am a defender to save.  
+
 > ^63:2^ Why then is your apparel red, and your garments like theirs that tread in the winepress?
 
 > ^63:3^ I have trodden the winepress alone, and of the Gentiles there is not a man with me: I have trampled on them in my indignation, and have trodden them down in my wrath, and their blood is sprinkled upon my garments, and I have stained all my apparel.

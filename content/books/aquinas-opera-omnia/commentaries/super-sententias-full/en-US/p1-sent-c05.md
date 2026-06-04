@@ -1,8 +1,10 @@
 # D. 4 - Divine generation and divine predication
 
+***Divine generation and divine predication***
+
 ***Division of the text***
 
-***After he has proved by authorities, arguments, and likenesses the Trinity of persons in a unity of essence, here he begins to consider questions arising from these previous considerations. And this is divided into two parts. For because the Trinity of persons is distinguished through the procession of one person from another, first he lays out questions regarding this procession in reference to its supposit and terminus; second, he does the same in reference to its principle, at *moreover, it is usual to ask whether the Father begot the Son by his own will or by necessity*.*Sent*. I, 6.1(18).1. Now, one must be aware that, although the Master proposes these questions about the Son’s generation from the Father, nonetheless the same questions can be asked about the procession of the Holy Spirit, and they would be determined in a similar way.***
+After he has proved by authorities, arguments, and likenesses the Trinity of persons in a unity of essence, here he begins to consider questions arising from these previous considerations. And this is divided into two parts. For because the Trinity of persons is distinguished through the procession of one person from another, first he lays out questions regarding this procession in reference to its supposit and terminus; second, he does the same in reference to its principle, at *moreover, it is usual to ask whether the Father begot the Son by his own will or by necessity*.*Sent*. I, 6.1(18).1. Now, one must be aware that, although the Master proposes these questions about the Son’s generation from the Father, nonetheless the same questions can be asked about the procession of the Holy Spirit, and they would be determined in a similar way.  
 
 The first part is divided into two. In the first, he asks whether the concrete names pertaining to the essence can be signified as the supposit of the act of generation, or as its terminus. In the second, he asks about the essential names that signify abstractly, at *after these matters, it is asked whether it is to be granted that the Father generated the divine essence*.*Sent*. I, 5.1(15).1. For there is no similar doubt about the personal names, having supposed the distinction of the persons through the notional acts.  
 
@@ -29,7 +31,7 @@ Article 1
 
 ***Whether there is generation in God***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.27.2; *SCG* IV.10, 11; *On the Power of God*, q. 2, a. 1; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 1; *Compendium theologiae*, cc. 40, 43; *Commentary on Colossians*, ch. 1, lect. 4. It seems that there is no generation in God.***
+To the first we proceed as follows.Parallel texts: *ST* I.27.2; *SCG* IV.10, 11; *On the Power of God*, q. 2, a. 1; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 1; *Compendium theologiae*, cc. 40, 43; *Commentary on Colossians*, ch. 1, lect. 4. It seems that there is no generation in God.  
 
 Obj. 1: For generation is a species of change, according to the Philosopher.Aristotle, *Physics* 5.1, 224b8; 225a35. But change is remote from God, according to James 1:17: *with whom there is no variation or shadow due to change*. Therefore neither is there generation.  
 
@@ -61,7 +63,7 @@ Article 2
 
 ***Whether it is false to say that God begot God***
 
-***To the second we proceed as follows.Parallel texts: below, d. 5, q. 1, a. 2; *ST* I.39.4. It seems that the following is false: “God begot God.”***
+To the second we proceed as follows.Parallel texts: below, d. 5, q. 1, a. 2; *ST* I.39.4. It seems that the following is false: “God begot God.”  
 
 Obj. 1: For generation indicates a relation distinguishing the persons, as was said in the previous article. Therefore if it is granted that God begot God, one must grant that God is distinguished from God, and that God is someone other than God—which is not to be granted.  
 
@@ -87,7 +89,7 @@ Article 3
 
 ***Whether God begot himself or another God***
 
-***To the third we proceed as follows. It seems that God begot either God himself, or he begot another God.***
+To the third we proceed as follows. It seems that God begot either God himself, or he begot another God.  
 
 Obj. 1: For the same and the diverse universally divide being. But “himself” is a relative of identity and “another” indicates diversity. Therefore one must say that God begot either God himself or another God.  
 
@@ -131,7 +133,7 @@ Article 1
 
 ***Whether in divine things any proposition can be formed***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 22, a. 2, ad 1; *ST* I.13.12; *SCG* I.36; *On the Power of God*, q. 7, a. 5, ad 2. It seems that in the divine no proposition can be formed wherein something is predicated of him.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 22, a. 2, ad 1; *ST* I.13.12; *SCG* I.36; *On the Power of God*, q. 7, a. 5, ad 2. It seems that in the divine no proposition can be formed wherein something is predicated of him.  
 
 Obj. 1: For a sign’s truth consists in the sign’s conformity to what it signifies. But every predication is made through composition. Therefore, since there is no composition in God, it seems that no true predicative proposition can be formed about him.  
 
@@ -151,7 +153,7 @@ Article 2
 
 ***Whether a person can be predicated of the essence***
 
-***To the second we proceed as follows.Parallel text: *ST* I.39.6. It seems that no person can be predicated of the essence.***
+To the second we proceed as follows.Parallel text: *ST* I.39.6. It seems that no person can be predicated of the essence.  
 
 Obj. 1: For a predicate has the account of form, whereas a person is a supposit of form or nature. Therefore a person does not have an account that would be predicated of the nature or essence.  
 
@@ -177,4 +179,4 @@ Reply Obj. 5: “Father” stands for a distinct person, just as do “Son” an
 
 Exposition of the text  
 
-****God the Father generated himself as an other*.*Sent*. I, 4.2(14).4; the Silano translation, given here, avoids Aquinas’s puzzle by giving something of an interpretation of the Latin. The Latin appears to say, literally, “God the Father begot another self.” The Master solves this in two ways. For the word “himself” can be in the ablative case, and then it would be simply true, and the meaning would be “generated an other than himself.” Or it can be in the accusative case, and then either it makes reference to the simple relation—and thus it too is true, for it indicates an identity of nature, but it will be improper—or it will make reference to the personal relation of the Father, and thus it is false, since it is referring to the same supposit. Nonetheless it can be said that even if it refers to the same supposit, in a certain way it will be true, but it will be an expression of emphasis, such that the meaning is: “he generated another self, that is, another like himself,” just as a poet says, *may the gods make it so that ‘I’ dies not without me*.Mandonnet notes no source. The expression is deliberately grammatically unsound, as the poet wants to speak of his friend dying, but as though his friend is not other than himself, using the third-person form of the verb with the first-person pronoun: “I dies.” For a similar example, see also Augustine: *et ideo forte mori metuebam, ne totus ille moreretur, quem multum amaveram*, “but it may have been that I was afraid to die, lest he should then die wholly whom I had so greatly loved” (Augustine, *Confessions*, bk. 4, ch. 6 [CCSL 27; PL 32:698]).***
+*God the Father generated himself as an other*.*Sent*. I, 4.2(14).4; the Silano translation, given here, avoids Aquinas’s puzzle by giving something of an interpretation of the Latin. The Latin appears to say, literally, “God the Father begot another self.” The Master solves this in two ways. For the word “himself” can be in the ablative case, and then it would be simply true, and the meaning would be “generated an other than himself.” Or it can be in the accusative case, and then either it makes reference to the simple relation—and thus it too is true, for it indicates an identity of nature, but it will be improper—or it will make reference to the personal relation of the Father, and thus it is false, since it is referring to the same supposit. Nonetheless it can be said that even if it refers to the same supposit, in a certain way it will be true, but it will be an expression of emphasis, such that the meaning is: “he generated another self, that is, another like himself,” just as a poet says, *may the gods make it so that ‘I’ dies not without me*.Mandonnet notes no source. The expression is deliberately grammatically unsound, as the poet wants to speak of his friend dying, but as though his friend is not other than himself, using the third-person form of the verb with the first-person pronoun: “I dies.” For a similar example, see also Augustine: *et ideo forte mori metuebam, ne totus ille moreretur, quem multum amaveram*, “but it may have been that I was afraid to die, lest he should then die wholly whom I had so greatly loved” (Augustine, *Confessions*, bk. 4, ch. 6 [CCSL 27; PL 32:698]).

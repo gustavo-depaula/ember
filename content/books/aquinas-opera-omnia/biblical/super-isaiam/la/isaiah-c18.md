@@ -1,5 +1,7 @@
 # Chapter 16
 
+^16:1^ Emitte agnum Domine dominatorem terræ de Petra deserti ad montem filiæ Sion.  
+
 > ^16:2^ Et erit sicut avis fugiens et pulli de nido avolantes; sic erunt filiæ Moab in transcensu Arnon.
 
 > ^16:3^ Ini consilium, coge concilium. Pone quasi noctem umbram tuam in meridie, absconde fugientes, et vagos ne prodas.

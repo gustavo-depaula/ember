@@ -1,6 +1,8 @@
 # D. 45 - Before the general judgment
 
-***Postquam determinavit Magister de his quae ad resurrectionem pertinent, hic incipit determinare de his quae pertinent ad remunerationem vel punitionem resurgentium; et dividitur in partes duas: in prima enim determinatur de remuneratione et punitione quae praecedit judicium generale; in secunda de illa quae judicium generale sequitur, dist. 47, ibi: *solet etiam quaeri, qualiter dabitur judicii sententia*.***
+***De illa quae praecedit judicium generale***
+
+Postquam determinavit Magister de his quae ad resurrectionem pertinent, hic incipit determinare de his quae pertinent ad remunerationem vel punitionem resurgentium; et dividitur in partes duas: in prima enim determinatur de remuneratione et punitione quae praecedit judicium generale; in secunda de illa quae judicium generale sequitur, dist. 47, ibi: *solet etiam quaeri, qualiter dabitur judicii sententia*.  
 
 Prima autem dividitur in duas: in prima determinat de remuneratione vel punitione animarum ante diem judicii, et resurrectionem; in secunda ostendit qualiter secundum justitiam et misericordiam Dei praedicta dispensentur, distinct. 46, ibi: *sed quaeritur hic de valde malis*, etc.  
 
@@ -34,7 +36,7 @@ primo, utrum animabus post mortem aliqua receptacula assignentur;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod animabus post mortem receptacula non assignentur. Sicut enim dicit Boetius in libro *de Hebdom*., *communis animi conceptio est apud sapientes, incorporalia in loco non esse*; cui concordat quod Augustinus dicit in 12 *super Genes. ad litteram*: *cito* *quidem responderim, ad corporalia loca animam non ferri, nisi cum aliquo corpore*. Sed anima separata a corpore non habet aliquod corpus, sicut ibidem Augustinus dicit. Ergo ridiculum est animabus separatis aliqua receptacula assignare.***
+Ad primum sic proceditur. Videtur quod animabus post mortem receptacula non assignentur. Sicut enim dicit Boetius in libro *de Hebdom*., *communis animi conceptio est apud sapientes, incorporalia in loco non esse*; cui concordat quod Augustinus dicit in 12 *super Genes. ad litteram*: *cito* *quidem responderim, ad corporalia loca animam non ferri, nisi cum aliquo corpore*. Sed anima separata a corpore non habet aliquod corpus, sicut ibidem Augustinus dicit. Ergo ridiculum est animabus separatis aliqua receptacula assignare.  
 
 Praeterea, omne quod habet locum determinatum, magis convenit cum illo loco quam cum alio. Sed animae separatae, sicut et quaelibet spirituales substantiae, indifferenter se habent ad omnia loca: non enim potest dici quod cum aliquibus corporibus conveniant, et cum aliis differant; cum ab omnibus conditionibus corporalibus sint penitus remotae. Ergo eis determinata receptacula non sunt assignanda.  
 
@@ -46,7 +48,7 @@ Praeterea, hoc patet per hoc quod Gregorius in 4 *Dialog*. narrat, animas post m
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod statim post mortem nullae animae deducantur ad caelos, vel ad infernum. Quia super illud Psalm. 36:10, *adhuc pusillum, et non erit peccator*, dicit Glossa, quod *sancti liberantur in fine vitae*: post hanc tamen vitam non ibi erunt ubi erunt sancti, quibus dicetur: *venite benedicti patris mei*. Sed illi sancti erunt in caelo. Ergo sancti post hanc vitam non statim ascendunt ad caelum.***
+Ulterius. Videtur quod statim post mortem nullae animae deducantur ad caelos, vel ad infernum. Quia super illud Psalm. 36:10, *adhuc pusillum, et non erit peccator*, dicit Glossa, quod *sancti liberantur in fine vitae*: post hanc tamen vitam non ibi erunt ubi erunt sancti, quibus dicetur: *venite benedicti patris mei*. Sed illi sancti erunt in caelo. Ergo sancti post hanc vitam non statim ascendunt ad caelum.  
 
 Praeterea, Augustinus dicit in *Enchir*., quod *tempus quod inter hominis mortem et ultimam resurrectionem interpositum est, animas abditis receptaculis continet, sicut unaquaeque digna est requie vel aerumna*. Sed haec abdita receptacula non possunt intelligi caelum et infernus; quia in illis etiam post resurrectionem ultimam animae cum corporibus erunt; unde pro nihilo distingueret tempus ante resurrectionem et post resurrectionem. Ergo non erunt nec in inferno nec in Paradiso usque ad diem judicii.  
 
@@ -60,7 +62,7 @@ Praeterea, Philip. 1, 23, dicit apostolus: *cupio dissolvi, et esse cum Christo*
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod animae in Paradiso vel in inferno existentes egredi non valeant. Augustinus enim dicit in Lib. *de Cura pro mortuis gerenda*: *si rebus viventium interessent animae mortuorum, ut de aliis taceam, meipsum pia mater nulla nocte desereret, quae terra marique secuta est ut mecum viveret*; et ex hoc concludit quod animae defunctorum rebus viventium non intersint. Sed interesse possent, si de suis receptaculis exirent. Ergo de suis receptaculis non exeunt.***
+Ulterius. Videtur quod animae in Paradiso vel in inferno existentes egredi non valeant. Augustinus enim dicit in Lib. *de Cura pro mortuis gerenda*: *si rebus viventium interessent animae mortuorum, ut de aliis taceam, meipsum pia mater nulla nocte desereret, quae terra marique secuta est ut mecum viveret*; et ex hoc concludit quod animae defunctorum rebus viventium non intersint. Sed interesse possent, si de suis receptaculis exirent. Ergo de suis receptaculis non exeunt.  
 
 Praeterea, in Psalm. 26, 4, dicitur: *ut habitem in domo Domini omnibus diebus vitae meae*; et Job 7, 9: *qui descendit ad Inferos, non ascendet*. Ergo tam boni quam mali a suis receptaculis non exeunt.  
 
@@ -74,7 +76,7 @@ Praeterea, idem probari potest per Gregorium in 4 *Dialog*., ubi narrat de multi
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quamvis substantiae spirituales secundum esse suum a corpore non dependeant, corporalia tamen a Deo mediantibus spiritualibus gubernantur, ut dicit Augustinus in 3 *De Trinit*., et Gregorius in 4 *Dialog*.; et ideo est quaedam convenientia substantiarum spiritualium ad corporales substantias per congruentiam quamdam, ut scilicet dignioribus substantiis digniora corpora adaptentur; unde etiam Philosophi secundum ordinem mobilium posuerunt ordinem substantiarum separatarum. Quamvis autem animabus post mortem non assignentur aliqua corpora, quorum sint formae vel determinati motores; determinantur tamen eis quaedam corporalia loca per congruentiam quamdam secundum gradus dignitatis eorum, in quibus sunt quasi in loco, eo modo quo incorporalia in loco esse possunt, secundum quod magis accedent ad primam substantiam (cui locus superior per congruentiam deputatur) scilicet Deum, cujus sedem caelum Scriptura esse denuntiat; et ideo animas quae sunt in participatione perfecta divinitatis, in caelo esse ponimus; animas vero quae a participatione hujusmodi impediuntur, loco contrario dicimus deputari.***
+Respondeo dicendum ad primam quaestionem, quod quamvis substantiae spirituales secundum esse suum a corpore non dependeant, corporalia tamen a Deo mediantibus spiritualibus gubernantur, ut dicit Augustinus in 3 *De Trinit*., et Gregorius in 4 *Dialog*.; et ideo est quaedam convenientia substantiarum spiritualium ad corporales substantias per congruentiam quamdam, ut scilicet dignioribus substantiis digniora corpora adaptentur; unde etiam Philosophi secundum ordinem mobilium posuerunt ordinem substantiarum separatarum. Quamvis autem animabus post mortem non assignentur aliqua corpora, quorum sint formae vel determinati motores; determinantur tamen eis quaedam corporalia loca per congruentiam quamdam secundum gradus dignitatis eorum, in quibus sunt quasi in loco, eo modo quo incorporalia in loco esse possunt, secundum quod magis accedent ad primam substantiam (cui locus superior per congruentiam deputatur) scilicet Deum, cujus sedem caelum Scriptura esse denuntiat; et ideo animas quae sunt in participatione perfecta divinitatis, in caelo esse ponimus; animas vero quae a participatione hujusmodi impediuntur, loco contrario dicimus deputari.  
 
 Ad primum ergo dicendum, quod incorporalia non sunt in loco modo aliquo noto nobis et consueto, secundum quod dicimus corpora proprie in loco esse; sunt tamen in loco modo substantiis spiritualibus convenienti, qui nobis plene manifestus esse non potest.  
 
@@ -84,7 +86,7 @@ Ad tertium dicendum, quod anima separata directe nihil recipit a locis corporali
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut in corporibus est gravitas vel levitas, qua feruntur in locum suum, qui est finis motus ipsorum; ita etiam est in animabus meritum vel demeritum, quibus perveniunt animae ad praemium vel poenam, quae sunt fines actionum ipsarum; unde sicut corpus per gravitatem vel levitatem statim fertur in locum suum, nisi prohibeatur; ita statim animae, soluto vinculo carnis, per quod in statu viae detinebantur, praemium consequuntur vel poenam, nisi aliquid impediat; sicut interdum impedit consecutionem praemii veniale peccatum, quod prius purgari oportet, ex quo sequitur quod praemium differatur. Et quia locus deputatur animabus secundum congruentiam praemii vel poenae; statim ut anima a corpore absolvitur, vel in infernum demergitur, vel ad caelum evolat, nisi impediatur aliquo reatu quo oportuit evolationem differri, ut prius anima purgetur. Et huic veritati auctoritates Scripturae canonicae manifeste attestantur, et documenta sanctorum patrum; unde contrarium pro haeresi est habendum, ut patet 4 *Dial*., et in Lib. *de Eccl. dogmatibus*.***
+Ad secundam quaestionem dicendum, quod sicut in corporibus est gravitas vel levitas, qua feruntur in locum suum, qui est finis motus ipsorum; ita etiam est in animabus meritum vel demeritum, quibus perveniunt animae ad praemium vel poenam, quae sunt fines actionum ipsarum; unde sicut corpus per gravitatem vel levitatem statim fertur in locum suum, nisi prohibeatur; ita statim animae, soluto vinculo carnis, per quod in statu viae detinebantur, praemium consequuntur vel poenam, nisi aliquid impediat; sicut interdum impedit consecutionem praemii veniale peccatum, quod prius purgari oportet, ex quo sequitur quod praemium differatur. Et quia locus deputatur animabus secundum congruentiam praemii vel poenae; statim ut anima a corpore absolvitur, vel in infernum demergitur, vel ad caelum evolat, nisi impediatur aliquo reatu quo oportuit evolationem differri, ut prius anima purgetur. Et huic veritati auctoritates Scripturae canonicae manifeste attestantur, et documenta sanctorum patrum; unde contrarium pro haeresi est habendum, ut patet 4 *Dial*., et in Lib. *de Eccl. dogmatibus*.  
 
 Ad primum ergo dicendum, quod Glossa seipsam exponit; quod enim dicit: *nondum erunt ubi erunt sancti* etc. statim exponit subdens; *idest, non habebunt geminam stolam quam habebunt sancti in resurrectione*.  
 
@@ -96,7 +98,7 @@ Ad quartum dicendum, quod eamdem objectionem Gregorius 4 *Dial*. proponit, et so
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod aliquem exire de inferno vel Paradiso potest intelligi dupliciter. Uno modo ut simpliciter inde exeat, ut jam ejus locus non sit Paradisus vel infernus; et sic nullus inferno vel Paradiso finaliter deputatus inde exire potest, ut in sequenti dist., qu. 2, art. 3, dicetur. Alio modo potest intelligi, ut exeat inde ad tempus; et in hoc distinguendum est quid eis conveniat secundum legem naturae, et quid eis conveniat secundum ordinem divinae justitiae; quia, ut Augustinus dicit in Lib. *de Cura pro mortuis agenda*, *alii sunt humanarum limites rerum, alia sunt divinarum signa virtutum; alia sunt quae naturaliter, alia quae mirabiliter fiunt*.***
+Ad tertiam quaestionem dicendum, quod aliquem exire de inferno vel Paradiso potest intelligi dupliciter. Uno modo ut simpliciter inde exeat, ut jam ejus locus non sit Paradisus vel infernus; et sic nullus inferno vel Paradiso finaliter deputatus inde exire potest, ut in sequenti dist., qu. 2, art. 3, dicetur. Alio modo potest intelligi, ut exeat inde ad tempus; et in hoc distinguendum est quid eis conveniat secundum legem naturae, et quid eis conveniat secundum ordinem divinae justitiae; quia, ut Augustinus dicit in Lib. *de Cura pro mortuis agenda*, *alii sunt humanarum limites rerum, alia sunt divinarum signa virtutum; alia sunt quae naturaliter, alia quae mirabiliter fiunt*.  
 
 Secundum ergo naturalem cursum, animae separatae, receptaculis propriis deputatae, a conversatione viventium penitus segregantur. Non enim secundum cursum naturae homines in mortali carne viventes substantiis separatis immediate conjunguntur, cum omnis eorum cognitio a sensu oriatur; nec propter aliud a suis receptaculis eas exire conveniret, nisi ut rebus viventium interessent. Sed secundum dispositionem divinae providentiae aliquando animae separatae a suis receptaculis egressae conspectibus hominum praesentantur, sicut Augustinus in praedicto libro narrat de Felice martyre, qui civibus Nolanis visibiliter apparuit, cum a barbaris oppugnarentur. Et hoc etiam credi potest quod aliquando de damnatis contingat, quod ad eruditionem hominum et terrorem permittuntur viventibus apparere, aut etiam ad suffragia expetenda quantum ad illos qui in purgatorio detinentur, ut per multa quae in 4 *Dialog*. narrantur, patet.  
 
@@ -120,7 +122,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod limbus inferni non sit idem quod sinus Abrahae. Sicut enim dicit Augustinus, 12 *super Genes. ad litteram*: *nondum inveni Inferos alicubi in bono posuisse Scripturam*. Sed sinus Abrahae in bono accipitur, ut ibidem subjungit Augustinus sic dicens: *non in bono accipiendum sinum Abrahae, et illam requiem quo ab angelis pius pauper sublatus est, nescio utrum quisquam possit audire*. Ergo sinus Abrahae non est idem quod limbus inferni.***
+Ad secundum sic proceditur. Videtur quod limbus inferni non sit idem quod sinus Abrahae. Sicut enim dicit Augustinus, 12 *super Genes. ad litteram*: *nondum inveni Inferos alicubi in bono posuisse Scripturam*. Sed sinus Abrahae in bono accipitur, ut ibidem subjungit Augustinus sic dicens: *non in bono accipiendum sinum Abrahae, et illam requiem quo ab angelis pius pauper sublatus est, nescio utrum quisquam possit audire*. Ergo sinus Abrahae non est idem quod limbus inferni.  
 
 Praeterea, in inferno existentes non vident Deum. Sed in sinu Abrahae videtur Deus, ut patet per Augustinum, 9 Lib. *Confess*., qui loquens de Nebridio dicit: *quidquid illic est quod sinus Abraham vocatur, ibi Nebridius meus vivit*; et infra: *jam non ponit aures ad os meum, sed spirituale os ad fontem tuum, et bibit quantum potest sapientiam pro aviditate sua sine fine felix*. Ergo sinus Abrahae non est idem quod limbus inferni.  
 
@@ -132,7 +134,7 @@ Praeterea, Genes. 44, 29, dicit Jacob filiis suis: *deducetis canos meos cum dol
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod limbus inferni sit idem quod infernus damnatorum. Christus enim dicitur infernum momordisse, non absorbuisse, quia aliquos extraxit inde, non autem omnes. Non autem diceretur momordisse infernum, si illi quos liberavit, non fuissent pars multitudinis in inferno contentae. Ergo cum illi quos liberavit, in limbo inferni continerentur, idem continebantur in limbo et inferno; ergo limbus est idem quod infernus, vel pars inferni.***
+Ulterius. Videtur quod limbus inferni sit idem quod infernus damnatorum. Christus enim dicitur infernum momordisse, non absorbuisse, quia aliquos extraxit inde, non autem omnes. Non autem diceretur momordisse infernum, si illi quos liberavit, non fuissent pars multitudinis in inferno contentae. Ergo cum illi quos liberavit, in limbo inferni continerentur, idem continebantur in limbo et inferno; ergo limbus est idem quod infernus, vel pars inferni.  
 
 Praeterea, Christus dicitur, in symbolo, descendisse ad infernum. Sed non descendit nisi ad limbum patrum. Ergo limbus patrum est idem quod infernus.  
 
@@ -144,7 +146,7 @@ Praeterea, Augustinus dicit, 12 super Genes. ad litteram: *quomodo illam requiem
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod limbus puerorum sit idem quod limbus patrum. Poena enim debet respondere culpae. Sed pro eadem culpa detinebantur in limbo patres et pueri, scilicet pro culpa originali. Ergo idem debet esse utrorumque locus poenae.***
+Ulterius. Videtur quod limbus puerorum sit idem quod limbus patrum. Poena enim debet respondere culpae. Sed pro eadem culpa detinebantur in limbo patres et pueri, scilicet pro culpa originali. Ergo idem debet esse utrorumque locus poenae.  
 
 Praeterea, Augustinus dicit in Enchir.: *mitissima est poena puerorum qui cum solo originali decedunt*. Sed nulla est mitior poena ea quam sancti patres habebant. Ergo idem est locus poenae utrorumque.  
 
@@ -152,7 +154,7 @@ Sed contra, sicut actuali peccato debetur poena temporalis in purgatorio, et aet
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod animae hominum post mortem ad quietem pervenire non possunt nisi merito fidei: quia *accedentem ad Deum oportet credere*: Hebr. 11, 6. Primum autem exemplum credendi hominibus in Abraham datur, qui primus se a coetu infidelium segregavit, et speciale signum fidei accepit; et ideo requies illa quae hominibus post mortem datur, *sinus Abrahae* dicitur, ut patet per Augustinum, 11 *super Genes. ad litteram*. Sed animae sanctorum post mortem non omni tempore eamdem quietem habuerunt: quia post Christi adventum habent plenam quietem, divina visione perfruentes; sed ante Christi adventum habebant quidem quietem per immunitatem poenae, sed non habebant quietem desiderii per consecutionem finis. Et ideo status sanctorum ante Christi adventum potest considerari et secundum id quod habebat de requie, et sic dicitur sinus Abrahae; potest etiam considerari quantum ad id quod eis de requie deerat; et sic dicitur limbus inferni. Limbus ergo inferni et sinus Abrahae fuerunt ante Christi adventum unum per accidens, et non per se; et ideo nihil prohibet post Christi adventum esse sinum Abrahae omnino diversum a limbo: quia ea quae sunt unum per accidens, separari contingit.***
+Respondeo dicendum ad primam quaestionem, quod animae hominum post mortem ad quietem pervenire non possunt nisi merito fidei: quia *accedentem ad Deum oportet credere*: Hebr. 11, 6. Primum autem exemplum credendi hominibus in Abraham datur, qui primus se a coetu infidelium segregavit, et speciale signum fidei accepit; et ideo requies illa quae hominibus post mortem datur, *sinus Abrahae* dicitur, ut patet per Augustinum, 11 *super Genes. ad litteram*. Sed animae sanctorum post mortem non omni tempore eamdem quietem habuerunt: quia post Christi adventum habent plenam quietem, divina visione perfruentes; sed ante Christi adventum habebant quidem quietem per immunitatem poenae, sed non habebant quietem desiderii per consecutionem finis. Et ideo status sanctorum ante Christi adventum potest considerari et secundum id quod habebat de requie, et sic dicitur sinus Abrahae; potest etiam considerari quantum ad id quod eis de requie deerat; et sic dicitur limbus inferni. Limbus ergo inferni et sinus Abrahae fuerunt ante Christi adventum unum per accidens, et non per se; et ideo nihil prohibet post Christi adventum esse sinum Abrahae omnino diversum a limbo: quia ea quae sunt unum per accidens, separari contingit.  
 
 Ad primum ergo dicendum, quod quantum ad id quod habebat de bono status sanctorum patrum, sinus Abrahae dicebatur; sed quantum ad id quod habebat de defectu, dicebatur infernus; et sic nec sinus Abrahae in malum accipitur, nec infernus in bonum; quamvis quodammodo sint unum.  
 
@@ -162,7 +164,7 @@ Unde patet responsio ad tertium; et sic est intelligenda quaedam Glossa quae hab
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod receptacula animarum post mortem dupliciter distingui possunt; aut secundum situm, aut secundum locorum qualitatem, prout scilicet in aliquibus locis poenas vel praemia recipiunt animae. Si ergo consideretur limbus patrum et infernus secundum locorum qualitatem praedictam, sic non est dubium quod distinguuntur: tum quia in inferno est poena sensibilis, quae in limbo patrum non erat: tum etiam quia in inferno est poena aeterna; sed in limbo patrum detinebantur sancti temporaliter tantum. Sed si considerentur quantum ad situm loci; sic probabile est quod idem locus, vel quasi continuus, sit infernus et limbus; ita tamen quod quaedam superior pars inferni limbus patrum dicatur. Existentes enim in inferno, secundum diversitatem culpae diversam sortiuntur et poenam; et ideo secundum quod gravioribus peccatis etiam irretiuntur damnati, secundum hoc obscuriorem et profundiorem locum obtinent in inferno; unde sancti patres, in quibus minimum erat de ratione culpae, supremum et minus tenebrosum locum habuerunt omnibus puniendis.***
+Ad secundam quaestionem dicendum, quod receptacula animarum post mortem dupliciter distingui possunt; aut secundum situm, aut secundum locorum qualitatem, prout scilicet in aliquibus locis poenas vel praemia recipiunt animae. Si ergo consideretur limbus patrum et infernus secundum locorum qualitatem praedictam, sic non est dubium quod distinguuntur: tum quia in inferno est poena sensibilis, quae in limbo patrum non erat: tum etiam quia in inferno est poena aeterna; sed in limbo patrum detinebantur sancti temporaliter tantum. Sed si considerentur quantum ad situm loci; sic probabile est quod idem locus, vel quasi continuus, sit infernus et limbus; ita tamen quod quaedam superior pars inferni limbus patrum dicatur. Existentes enim in inferno, secundum diversitatem culpae diversam sortiuntur et poenam; et ideo secundum quod gravioribus peccatis etiam irretiuntur damnati, secundum hoc obscuriorem et profundiorem locum obtinent in inferno; unde sancti patres, in quibus minimum erat de ratione culpae, supremum et minus tenebrosum locum habuerunt omnibus puniendis.  
 
 Ad primum ergo dicendum, quod secundum hoc quod infernus et limbus sunt idem quantum ad situm, dicitur Christus infernum momordisse, et in infernum descendisse, quando patres a limbo eripuit suo descensu.  
 
@@ -172,7 +174,7 @@ Ad tertium dicendum, quod Job non descendit ad infernum damnatorum, sed in limbu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod limbus patrum et limbus puerorum absque dubio differunt secundum qualitatem praemii vel poenae: pueris enim non adest spes beatae vitae quae patribus in limbo aderat, in quibus etiam lumen fidei et gratiae refulgebat. Sed quantum ad situm, probabiliter creditur utrorumque idem locus fuisse; nisi quod requies beatorum adhuc erat in superiori loco quam limbus puerorum, sicut de limbo et inferno dictum est.***
+Ad tertiam quaestionem dicendum, quod limbus patrum et limbus puerorum absque dubio differunt secundum qualitatem praemii vel poenae: pueris enim non adest spes beatae vitae quae patribus in limbo aderat, in quibus etiam lumen fidei et gratiae refulgebat. Sed quantum ad situm, probabiliter creditur utrorumque idem locus fuisse; nisi quod requies beatorum adhuc erat in superiori loco quam limbus puerorum, sicut de limbo et inferno dictum est.  
 
 Ad primum ergo dicendum, quod ad culpam originalem non eodem modo se habebant patres et pueri. In patribus enim originalis culpa expiata erat, secundum quod erat infectiva personae: remanebat tamen impedimentum ex parte naturae, pro qua nondum fuerat plenarie satisfactum. Sed in pueris est impedimentum et ex parte personae et ex parte naturae; et ideo pueris et patribus diversa receptacula assignantur.  
 
@@ -182,7 +184,7 @@ Articulus 3
 
 ***De numero eorumdem***
 
-***Ad tertium sic proceditur. Videtur quod non debeant tot receptacula distingui. Sicut enim receptacula debentur animabus post mortem pro peccato, ita et pro merito. Sed ratione meriti non debetur nisi unum tantum receptaculum, scilicet Paradisus. Ergo nec ratione peccatorum debetur nisi unum receptaculum.***
+Ad tertium sic proceditur. Videtur quod non debeant tot receptacula distingui. Sicut enim receptacula debentur animabus post mortem pro peccato, ita et pro merito. Sed ratione meriti non debetur nisi unum tantum receptaculum, scilicet Paradisus. Ergo nec ratione peccatorum debetur nisi unum receptaculum.  
 
 Praeterea, receptacula assignantur animabus post mortem ratione meritorum vel demeritorum. Sed non est locus in quo merentur vel demerentur. Ergo unum tantum receptaculum debet eis assignari post mortem.  
 
@@ -241,7 +243,7 @@ primo utrum suffragia quae per unum fiunt, alii prodesse possint;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod suffragia per unum facta alii prodesse non possint. Gal. 6, 6: *quae enim seminaverit homo, haec et metet*. Sed si unus ex suffragiis alterius fructum consequeretur, meteret ab aliis seminata. Ergo ex suffragiis aliorum nullus fructum consequitur.***
+Ad primum sic proceditur. Videtur quod suffragia per unum facta alii prodesse non possint. Gal. 6, 6: *quae enim seminaverit homo, haec et metet*. Sed si unus ex suffragiis alterius fructum consequeretur, meteret ab aliis seminata. Ergo ex suffragiis aliorum nullus fructum consequitur.  
 
 Praeterea, ad justitiam Dei pertinet ut unicuique retribuatur pro meritis; unde Psal. 61, 13: *tu reddes unicuique secundum opera sua*. Sed justitiam Dei deficere impossibile est. Ergo impossibile est quod unus ex operibus alterius juvetur.  
 
@@ -255,7 +257,7 @@ Praeterea, omnes fideles per caritatem uniti, sunt unius corporis Ecclesiae memb
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod mortui non possunt juvari ex operibus vivorum. Primo per hoc quod dicit apostolus 2 Corinth. 5: *omnes nos oportet manifestari ante tribunal Christi, ut recipiat unusquisque propria corporis quae gessit*. Ergo ex his quae post mortem hominis geruntur, quando extra corpus erit, nihil ei accrescere poterit ex aliquibus operibus.***
+Ulterius. Videtur quod mortui non possunt juvari ex operibus vivorum. Primo per hoc quod dicit apostolus 2 Corinth. 5: *omnes nos oportet manifestari ante tribunal Christi, ut recipiat unusquisque propria corporis quae gessit*. Ergo ex his quae post mortem hominis geruntur, quando extra corpus erit, nihil ei accrescere poterit ex aliquibus operibus.  
 
 Praeterea, hoc idem videtur ex hoc quod habetur Apocal. 14, 13: *beati mortui qui in Domino moriuntur*; et subdit: *opera enim illorum sequuntur illos*.  
 
@@ -269,7 +271,7 @@ Praeterea, Augustinus dicit in Lib. *De cura pro mortuis gerenda*: *non parva es
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod suffragia per peccatores facta mortuis non prosint. Quia, ut dicitur Joan. 9, 31: *peccatores Deus non exaudit*. Sed si orationes eorum prodessent illis pro quibus orant, a Deo exaudirentur. Ergo suffragia per eos facta mortuis non prosunt.***
+Ulterius. Videtur quod suffragia per peccatores facta mortuis non prosint. Quia, ut dicitur Joan. 9, 31: *peccatores Deus non exaudit*. Sed si orationes eorum prodessent illis pro quibus orant, a Deo exaudirentur. Ergo suffragia per eos facta mortuis non prosunt.  
 
 Praeterea, Gregorius in *Pastorali*, dicit: *cum is qui displicet ad intercedendum mittitur, irati animus ad deteriora provocatur*. Sed quilibet peccator Deo displicet. Ergo per peccatorum suffragia Deus ad misericordiam non flectitur; et ita alia suffragia non prosunt.  
 
@@ -283,7 +285,7 @@ Praeterea, sicut Augustinus dicit in littera, secundum hoc juvatur aliquis mortu
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod suffragia quae a vivis pro mortuis fiunt, facientibus non prosint. Quia si aliquis pro altero debitum solveret, secundum humanam justitiam, ipse a debito proprio non absolveretur. Ergo per hoc quod aliquis suffragia faciens debitum solvit pro illo pro quo facit, ex hoc a debito proprio non absolvitur.***
+Ulterius. Videtur quod suffragia quae a vivis pro mortuis fiunt, facientibus non prosint. Quia si aliquis pro altero debitum solveret, secundum humanam justitiam, ipse a debito proprio non absolveretur. Ergo per hoc quod aliquis suffragia faciens debitum solvit pro illo pro quo facit, ex hoc a debito proprio non absolvitur.  
 
 Praeterea, unusquisque debet quod facit, facere meliori modo quo potest. Sed melius est juvare duos quam unum. Si ergo qui per suffragia debitum mortui solvit, a proprio debito liberatur, videtur quod nunquam deberet aliquis pro seipso satisfacere, sed semper pro alio.  
 
@@ -295,7 +297,7 @@ Praeterea, Damascenus dicit, in sermone de his qui in fide dormierunt: *quemadmo
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod actus noster ad duo valere potest. Primo ad aliquem statum acquirendum, sicut per opus meritorium homo acquirit statum beatitudinis. Secundo ad aliquid consequens statum (puta ad aliquam beatitudinem) accidentalem,*puta ad aliquam beatitudinem accidentalem.—sicut homo per aliquem statum meretur aliquod premium accidentale* PLE. vel dimissionem poenae. Ad utrumque autem horum actus noster dupliciter valere potest; uno modo per viam meriti, alio modo per viam orationis. Et est differentia inter istas duas vias, ut in 15 dist. dictum est, quia meritum innititur justitiae; sed orans impetrat petitum ex sola liberalitate ejus qui oratur.***
+Respondeo dicendum ad primam quaestionem, quod actus noster ad duo valere potest. Primo ad aliquem statum acquirendum, sicut per opus meritorium homo acquirit statum beatitudinis. Secundo ad aliquid consequens statum (puta ad aliquam beatitudinem) accidentalem,*puta ad aliquam beatitudinem accidentalem.—sicut homo per aliquem statum meretur aliquod premium accidentale* PLE. vel dimissionem poenae. Ad utrumque autem horum actus noster dupliciter valere potest; uno modo per viam meriti, alio modo per viam orationis. Et est differentia inter istas duas vias, ut in 15 dist. dictum est, quia meritum innititur justitiae; sed orans impetrat petitum ex sola liberalitate ejus qui oratur.  
 
 Dicendum ergo, quod opus unius nullo modo potest alteri valere ad statum consequendum per viam meriti, ut scilicet ex his quae ego facio, aliquis mereatur vitam aeternam; quia sors gloriae redditur secundum mensuram accipientis. Unusquisque autem ex suo actu disponitur, et non ex alieno; et dico dispositionem dignitatis ad praemium. Sed per viam orationis etiam quantum ad statum consequendum, opus unius alteri, dum est in via, valere potest; sicut quod unus homo impetrat alteri primam gratiam. Cum enim impetratio orationis sit secundum liberalitatem Dei qui oratur, ad omnia illa impetratio orationis se potest extendere quae potestati divinae subsunt ordinate. Sed quantum ad aliquid quod est consequens vel accessorium ad statum, opus unius potest valere alteri non solum per viam orationis, sed etiam per viam meriti.  
 
@@ -311,7 +313,7 @@ Ad quartum dicendum, quod auferre alicui quod sibi debetur, hoc directe justitia
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod caritas, quae est vinculum uniens membra Ecclesiae, non solum ad vivos se extendit, sed etiam ad mortuos qui in caritate decedunt; caritas enim vita corporis non finitur; 1 Corinth. 13, 8: *caritas nunquam excidit*. Similiter etiam mortui in memoria hominum viventium vivunt; et ideo intentio viventium ad eos dirigi potest; et sic suffragia vivorum dupliciter mortuis prosunt, sicut et vivis; et propter caritatis unionem, et propter intentionem ad eos directam. Non tamen sic eis valere credenda sunt vivorum suffragia, ut status eorum mutetur de miseria in felicitatem, vel e converso; sed valent ad diminutionem poenae, vel aliquid hujusmodi, quod statum mortui non transmutat.***
+Ad secundam quaestionem dicendum, quod caritas, quae est vinculum uniens membra Ecclesiae, non solum ad vivos se extendit, sed etiam ad mortuos qui in caritate decedunt; caritas enim vita corporis non finitur; 1 Corinth. 13, 8: *caritas nunquam excidit*. Similiter etiam mortui in memoria hominum viventium vivunt; et ideo intentio viventium ad eos dirigi potest; et sic suffragia vivorum dupliciter mortuis prosunt, sicut et vivis; et propter caritatis unionem, et propter intentionem ad eos directam. Non tamen sic eis valere credenda sunt vivorum suffragia, ut status eorum mutetur de miseria in felicitatem, vel e converso; sed valent ad diminutionem poenae, vel aliquid hujusmodi, quod statum mortui non transmutat.  
 
 Ad primum ergo dicendum, quod homo, dum in corpore vixit, meruit ut haec ei valerent post mortem; et ideo si post hanc vitam eis juvatur, nihilominus hoc procedit ex his quae in corpore gessit. Vel dicendum, secundum Joannem Damascenum in sermone praedicto, quod hoc est intelligendum quantum ad retributionem quae fiet in finali judicio, quae erit aeternae gloriae vel aeternae miseriae, in qua quilibet recipiet solum secundum quod ipse in corpore gessit. Interim autem juvari possunt vivorum suffragiis.  
 
@@ -323,7 +325,7 @@ Ad quartum dicendum, quod quamvis communicatio civilium operum, de qua Philosoph
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in suffragiis quae fiunt per malos, duo possunt considerari. Primo ipsum opus operatum, sicut sacrificium altaris: et quia nostra sacramenta ex seipsis efficaciam habent absque opere operantis, quam aequaliter explent per quoscumque fiant; quantum ad hoc suffragia per malos facta defunctis prosunt. Alio modo quantum ad opus operantis; et sic distinguendum est. Quia operatio peccatoris suffragia facientis potest uno modo considerari, ut est ejus; et sic nullo modo meritoria esse potest nec sibi nec alii.***
+Ad tertiam quaestionem dicendum, quod in suffragiis quae fiunt per malos, duo possunt considerari. Primo ipsum opus operatum, sicut sacrificium altaris: et quia nostra sacramenta ex seipsis efficaciam habent absque opere operantis, quam aequaliter explent per quoscumque fiant; quantum ad hoc suffragia per malos facta defunctis prosunt. Alio modo quantum ad opus operantis; et sic distinguendum est. Quia operatio peccatoris suffragia facientis potest uno modo considerari, ut est ejus; et sic nullo modo meritoria esse potest nec sibi nec alii.  
 
 Alio modo, inquantum est alterius: quod dupliciter contingit. Uno modo inquantum peccator suffragia faciens gerit personam totius Ecclesiae, sicut sacerdos cum dicit in Ecclesia exequias mortuorum: et quia ille intelligitur facere cujus nomine vel vice fit, ut patet per Dionysium in 13 cap. *Cael. Hier.*, inde est quod suffragia talis sacerdotis, quamvis sit peccator, pro defunctis prosunt.  
 
@@ -345,7 +347,7 @@ Ad sextum dicendum, quod ad hoc quod suffragium alicui valeat, requiritur et ex 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod opus suffragii quod pro altero fit, potest considerari dupliciter. Uno modo ut est expiativum poenae per modum cujusdam recompensationis, quae in satisfactione attenditur; et hoc modo opus suffragii, quod reputatur quasi ejus pro quo fit, ita absolvit eum a debito poenae quod non absolvit facientem a debito poenae propriae; quia in tali recompensatione consideratur aequalitas justitiae; opus autem istud satisfactorium ita potest adaequari reatui uni quod alteri non aequatur. Reatus enim duorum peccatorum majorem satisfactionem requirunt quam reatus unius. Alio modo potest considerari inquantum est meritorium vitae aeternae, quod habet inquantum procedit ex radice caritatis; et secundum hoc non solum prodest ei pro quo fit, sed facienti magis.***
+Ad quartam quaestionem dicendum, quod opus suffragii quod pro altero fit, potest considerari dupliciter. Uno modo ut est expiativum poenae per modum cujusdam recompensationis, quae in satisfactione attenditur; et hoc modo opus suffragii, quod reputatur quasi ejus pro quo fit, ita absolvit eum a debito poenae quod non absolvit facientem a debito poenae propriae; quia in tali recompensatione consideratur aequalitas justitiae; opus autem istud satisfactorium ita potest adaequari reatui uni quod alteri non aequatur. Reatus enim duorum peccatorum majorem satisfactionem requirunt quam reatus unius. Alio modo potest considerari inquantum est meritorium vitae aeternae, quod habet inquantum procedit ex radice caritatis; et secundum hoc non solum prodest ei pro quo fit, sed facienti magis.  
 
 Et per hoc patet solutio ad objecta. Primae enim rationes procedebant de opere suffragii secundum quod est satisfactorium; sed aliae secundum quod est meritorium.  
 
@@ -355,7 +357,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod suffragia prosunt existentibus in inferno, per hoc quod habetur 2 Mach. 12, 40 quod *invenerunt sub tunicis interfectorum de donariis idolorum, a quibus lex prohibet Judaeos*; et tamen post subditur, quod *Judas duodecim millia drachmas argenti misit Hierosolymam offerri pro peccatis mortuorum*. Constat autem illos mortaliter peccasse, contra legem agentes, et ita in mortali peccato decessisse, et ita ad infernum esse translatos. Ergo in inferno existentibus suffragia prosunt.***
+Ad secundum sic proceditur. Videtur quod suffragia prosunt existentibus in inferno, per hoc quod habetur 2 Mach. 12, 40 quod *invenerunt sub tunicis interfectorum de donariis idolorum, a quibus lex prohibet Judaeos*; et tamen post subditur, quod *Judas duodecim millia drachmas argenti misit Hierosolymam offerri pro peccatis mortuorum*. Constat autem illos mortaliter peccasse, contra legem agentes, et ita in mortali peccato decessisse, et ita ad infernum esse translatos. Ergo in inferno existentibus suffragia prosunt.  
 
 Praeterea, in littera habetur ex verbis Augustini, quod quibus valent suffragia, vel ad hoc prosunt ut sit plena remissio, vel ad hoc ut tolerabilior sit eorum damnatio. Sed soli illi qui sunt in inferno, damnati esse dicuntur. Ergo etiam existentibus in inferno suffragia prosunt.  
 
@@ -373,7 +375,7 @@ Praeterea, in littera habetur ex verbis Augustini: *qui sine fide operante per d
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nec etiam existentibus in purgatorio. Quia purgatorium pars quaedam inferni est. Sed in inferno nulla est redemptio; et Psal. 6, 6, dicit: *in inferno autem quis confitebitur tibi?* Ergo suffragia his qui sunt in purgatorio, non valent.***
+Ulterius. Videtur quod nec etiam existentibus in purgatorio. Quia purgatorium pars quaedam inferni est. Sed in inferno nulla est redemptio; et Psal. 6, 6, dicit: *in inferno autem quis confitebitur tibi?* Ergo suffragia his qui sunt in purgatorio, non valent.  
 
 Praeterea, poena purgatorii est finita. Si ergo per suffragia aliquid de poena dimittitur, tantum poterunt multiplicari suffragia, quod tota tolletur, et ita peccatum remanebit totaliter impunitum; quod repugnare videtur divinae justitiae.  
 
@@ -387,7 +389,7 @@ Praeterea, Dionysius dicit in 7 cap. *Eccl. Hierar*. quod divinus sacerdos pro m
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod suffragia valent pueris in limbo existentibus. Quia illi non detinentur nisi pro peccato alieno. Ergo maxime decens est ut ipsi juventur suffragiis alienis.***
+Ulterius. Videtur quod suffragia valent pueris in limbo existentibus. Quia illi non detinentur nisi pro peccato alieno. Ergo maxime decens est ut ipsi juventur suffragiis alienis.  
 
 Praeterea, in littera habetur ex verbis Augustini, quod suffragia Ecclesiae pro non valde malis propitiationes sunt. Sed pueri non computantur inter valde malos, cum mitissima sit eorum poena. Ergo suffragia Ecclesiae eos juvant.  
 
@@ -395,7 +397,7 @@ Sed contra est quod habetur in littera ab Augustino, quod suffragia non prosunt 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod aliquo modo prosunt sanctis existentibus in patria, per hoc quod habetur in collecta Missae: *sicut sanctis tuis prosunt ad gloriam*, scilicet sacramenta, *ita nobis proficiant ad medelam*. Sed inter alia suffragia praecipuum est sacramentum altaris. Ergo suffragia prosunt sanctis qui sunt in patria.***
+Ulterius. Videtur quod aliquo modo prosunt sanctis existentibus in patria, per hoc quod habetur in collecta Missae: *sicut sanctis tuis prosunt ad gloriam*, scilicet sacramenta, *ita nobis proficiant ad medelam*. Sed inter alia suffragia praecipuum est sacramentum altaris. Ergo suffragia prosunt sanctis qui sunt in patria.  
 
 Praeterea, sacramenta efficiunt quod figurant. Sed tertia pars hostiae, scilicet in calicem missa, significat eos qui in patria vitam beatam ducunt, ut supra, dist. 12, quaest. 1, art. 3, quaestiunc. 3, ad 4, dictum est. Ergo suffragia Ecclesiae prosunt etiam existentibus in patria.  
 
@@ -409,7 +411,7 @@ Praeterea, ejus est juvari cujus est indigere. Sed sancti in patria sunt absque 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circa damnatos in inferno fuit duplex opinio.***
+Respondeo dicendum ad primam quaestionem, quod circa damnatos in inferno fuit duplex opinio.  
 
 Quidam enim dixerunt in hoc distinguendum esse dupliciter. Uno modo quantum ad tempus, dicentes, quod post diem judicii nullus in inferno existens aliquo suffragio juvabitur, sed ante diem judicii aliqui juvantur suffragiis Ecclesiae. Alio modo distinguebant quantum ad personas in inferno detentas, inter quas quosdam dicebant esse valde malos; qui scilicet sine fide et sacramentis Ecclesiae decesserunt; et talibus qui de Ecclesia non fuerunt, nec merito nec numero suffragia Ecclesiae prodesse possunt. Alii vero sunt non valde mali, qui scilicet de Ecclesia fuerunt numero, et fidem habentes, et sacramentis imbuti, et aliqua opera de genere bonorum facientes; et talibus suffragia Ecclesiae prodesse debent. Sed occurrebat eis quaedam dubitatio eos perturbans, quia scilicet videbatur ex hoc sequi, cum poena inferni sit finita secundum intensionem, quamvis duratione infinita existat, quod multiplicatis suffragiis poena illa auferetur; quod est error Origenis; et ideo hoc inconveniens multipliciter evadere voluerunt. Praepositinus enim dixit, quod tantum possunt suffragia pro damnatis multiplicari, quod a poena tota redduntur immunes, non autem simpliciter, ut Origenes posuit, sed ad tempus, scilicet usque ad diem judicii: tunc enim animae iterato corporibus conjunctae in poenas inferni sine spe veniae retruduntur. Sed ista opinio videtur divinae repugnare providentiae, quae nihil in rebus inordinatum relinquit. Culpa autem ordinari non potest nisi per poenam; unde non potest esse ut poena tollatur, nisi prius culpa expietur; et ideo cum culpa continue maneat in damnatis, eorum poena nullatenus interrumpetur.  
 
@@ -433,7 +435,7 @@ Vel dicendum, secundum quosdam, quod anima Trajani non fuit simpliciter a reatu 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod poena purgatorii est in supplementum satisfactionis quae non fuerat plene in corpore consummata; et ideo, quia, sicut ex praedictis patet, et ex his quae supra, dist. 20, dicta sunt, opera unius possunt valere alteri ad satisfactionem, sive vivis sive mortuis; non est dubium quin suffragia per vivos facta, existentibus in purgatorio prosint.***
+Ad secundam quaestionem dicendum, quod poena purgatorii est in supplementum satisfactionis quae non fuerat plene in corpore consummata; et ideo, quia, sicut ex praedictis patet, et ex his quae supra, dist. 20, dicta sunt, opera unius possunt valere alteri ad satisfactionem, sive vivis sive mortuis; non est dubium quin suffragia per vivos facta, existentibus in purgatorio prosint.  
 
 Ad primum ergo dicendum, quod auctoritas illa loquitur de inferno damnatorum, in quo nulla est redemptio quantum ad illos qui sunt finaliter tali poenae deputati. Vel dicendum, secundum Damascenum in sermone *de Dormientibus*, quia hujusmodi auctoritates exponendae sunt secundum causas inferiores, scilicet secundum exigentiam meritorum eorum qui poenis deputantur; sed secundum divinam misericordiam, quae vincit humana merita, ad preces justorum aliter quandoque disponitur quam sententia praedictarum auctoritatum contineat. Deus autem mutat sententiam, sed non consilium, ut dicit Gregorius; unde etiam Damascenus ponit ad hoc exempla de Ninivitis, Achab, et Ezechia, in quibus apparet quod sententia contra eos lata divinitus fuit per divinam misericordiam commutata.  
 
@@ -445,7 +447,7 @@ Ad quartum dicendum, quod suffragia ex duobus valent; scilicet ex opere operante
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod pueri non baptizati non detinentur in limbo, nisi quia deficiunt a statu gratiae; unde cum per opera vivorum, mortuorum status mutari non possit, maxime quantum ad meritum essentialis praemii vel poenae; suffragia vivorum pueris in limbo existentibus prodesse non possunt.***
+Ad tertiam quaestionem dicendum, quod pueri non baptizati non detinentur in limbo, nisi quia deficiunt a statu gratiae; unde cum per opera vivorum, mortuorum status mutari non possit, maxime quantum ad meritum essentialis praemii vel poenae; suffragia vivorum pueris in limbo existentibus prodesse non possunt.  
 
 Ad primum ergo dicendum, quod quamvis peccatum originale sit hujusmodi quod pro eo possit aliquis ab alio juvari, tamen animae puerorum in limbo existentes sunt in tali statu quod juvari non possunt: quia post hanc vitam non est tempus gratiam acquirendi.  
 
@@ -453,7 +455,7 @@ Ad secundum dicendum, quod Augustinus loquitur de non valde malis, qui tamen bap
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod suffragium de sui ratione importat quamdam auxiliationem, quae non competit ei qui defectum non patitur: nulli enim juvari competit nisi in eo quo indigens est. Unde cum sancti qui sunt in patria, sint ab omni indigentia immunes, inebriati ab ubertate domus Dei, eis juvari per suffragia non competit.***
+Ad quartam quaestionem dicendum, quod suffragium de sui ratione importat quamdam auxiliationem, quae non competit ei qui defectum non patitur: nulli enim juvari competit nisi in eo quo indigens est. Unde cum sancti qui sunt in patria, sint ab omni indigentia immunes, inebriati ab ubertate domus Dei, eis juvari per suffragia non competit.  
 
 Ad primum ergo dicendum, quod hujusmodi locutiones non sunt sic intelligendae quasi sancti in gloria proficiant quantum ad se, quod eorum festa recolimus; sed quia nobis proficit, qui eorum gloriam solemnius celebramus; sicut ex hoc quod Deum cognoscimus vel laudamus et sic quodammodo ejus gloria in nobis crescit; nihil Deo, sed nobis accrescit.  
 
@@ -469,7 +471,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non solum orationibus Ecclesiae et sacrificio altaris et eleemosynis animae defunctorum juventur, vel quod eis juventur praecipue. Poena enim debet per poenam recompensari. Sed jejunium magis est poenale quam eleemosyna vel oratio. Ergo jejunium magis prodesset in suffragiis quam aliquod praedictorum.***
+Ad tertium sic proceditur. Videtur quod non solum orationibus Ecclesiae et sacrificio altaris et eleemosynis animae defunctorum juventur, vel quod eis juventur praecipue. Poena enim debet per poenam recompensari. Sed jejunium magis est poenale quam eleemosyna vel oratio. Ergo jejunium magis prodesset in suffragiis quam aliquod praedictorum.  
 
 Praeterea, Gregorius tribus praedictis connumerat jejunium, ut habetur Caus. 13, quaest. 11: *animae defunctorum quatuor solvuntur modis: aut oblationibus sacerdotum, aut orationibus sanctorum, aut carorum eleemosynis, aut jejunio cognatorum*. Ergo insufficienter ab Augustino haec enumerantur tria praedicta.  
 
@@ -483,7 +485,7 @@ Praeterea, Damascenus in sermone de dormientibus, docet, ceras et oleum et hujus
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod indulgentiae quas Ecclesia largitur, etiam mortuis prosint. Primo per consuetudinem Ecclesiae quae facit praedicari crucem, ut aliquis habeat indulgentiam pro se, et duobus vel tribus, et quandoque decem animabus tam vivorum quam mortuorum; quod esset deceptio, nisi mortuis prodessent. Ergo indulgentiae mortuis prosunt.***
+Ulterius. Videtur quod indulgentiae quas Ecclesia largitur, etiam mortuis prosint. Primo per consuetudinem Ecclesiae quae facit praedicari crucem, ut aliquis habeat indulgentiam pro se, et duobus vel tribus, et quandoque decem animabus tam vivorum quam mortuorum; quod esset deceptio, nisi mortuis prodessent. Ergo indulgentiae mortuis prosunt.  
 
 Praeterea, meritum totius Ecclesiae est efficacius quam meritum unius personae. Sed meritum personale suffragatur defunctis, ut patet in elargitione eleemosynarum. Ergo multo fortius meritum Ecclesiae, cui indulgentiae innituntur.  
 
@@ -495,7 +497,7 @@ Praeterea, indulgentiae determinantur secundum arbitrium indulgentias concedenti
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod cultus exequiarum defuncto prosint. Damascenus enim in sermone de dormientibus inducit verba Athanasii sic dicentis: *licet in aere qui in pietate consummatus est, depositus fuerit, ne renue oleum et ceras Dominum invocans in sepulcro accendere; accepta enim ista sunt Deo, et multam ab eo recipientia retributionem*. Sed hujusmodi pertinent ad cultum exequiarum. Ergo cultus exequiarum prodest defunctis.***
+Ulterius. Videtur quod cultus exequiarum defuncto prosint. Damascenus enim in sermone de dormientibus inducit verba Athanasii sic dicentis: *licet in aere qui in pietate consummatus est, depositus fuerit, ne renue oleum et ceras Dominum invocans in sepulcro accendere; accepta enim ista sunt Deo, et multam ab eo recipientia retributionem*. Sed hujusmodi pertinent ad cultum exequiarum. Ergo cultus exequiarum prodest defunctis.  
 
 Praeterea, sicut dicit Augustinus 1 Lib. *de Civ. Dei*: *antiquorum justorum funera officiosa pietate curata sunt, et exequiae celebratae, et sepulcra provisa; ipsique cum viverent, de sepeliendis, vel etiam ferendis suis corporibus filiis mandaverunt*. Sed hoc non fecissent, nisi sepultura et hujusmodi aliquid mortuis conferrent. Ergo hujusmodi aliquid prosunt defunctis.  
 
@@ -513,7 +515,7 @@ Praeterea, Dominus dicit Matth. 10: *nolite timere eos qui occidunt corpus*, et 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod suffragia vivorum prosunt defunctis secundum quod uniuntur viventibus caritate, et secundum quod intentio viventium refertur in mortuos; et ideo illa opera praecipue nata sunt mortuis suffragari quae maxime ad communicationem caritatis pertinent, vel ad directionem intentionis in alterum. Ad caritatem autem sacramentum Eucharistiae praecipue pertinet, cum sit sacramentum ecclesiasticae unionis, continens illum in quo tota Ecclesia unitur, et consolidatur, scilicet Christum; unde Eucharistia est quasi quaedam caritatis origo, sive vinculum; sed inter caritatis effectus praecipuum est eleemosynarum opus; et ita ista duo ex parte caritatis praecipue mortuis suffragantur, scilicet sacrificium Ecclesiae, et eleemosynae. Sed ex parte intentionis directae in mortuos praecipue valet oratio; quia oratio secundum suam rationem non solum dicit respectum ad orantem, sicut et cetera opera, sed directius ad id pro quo oratur. Et ideo ista tria ponuntur quasi praecipua mortuorum subsidia; quamvis quaecumque alia bona ex caritate fiant pro defunctis, eis valere credenda sint.***
+Respondeo dicendum ad primam quaestionem, quod suffragia vivorum prosunt defunctis secundum quod uniuntur viventibus caritate, et secundum quod intentio viventium refertur in mortuos; et ideo illa opera praecipue nata sunt mortuis suffragari quae maxime ad communicationem caritatis pertinent, vel ad directionem intentionis in alterum. Ad caritatem autem sacramentum Eucharistiae praecipue pertinet, cum sit sacramentum ecclesiasticae unionis, continens illum in quo tota Ecclesia unitur, et consolidatur, scilicet Christum; unde Eucharistia est quasi quaedam caritatis origo, sive vinculum; sed inter caritatis effectus praecipuum est eleemosynarum opus; et ita ista duo ex parte caritatis praecipue mortuis suffragantur, scilicet sacrificium Ecclesiae, et eleemosynae. Sed ex parte intentionis directae in mortuos praecipue valet oratio; quia oratio secundum suam rationem non solum dicit respectum ad orantem, sicut et cetera opera, sed directius ad id pro quo oratur. Et ideo ista tria ponuntur quasi praecipua mortuorum subsidia; quamvis quaecumque alia bona ex caritate fiant pro defunctis, eis valere credenda sint.  
 
 Ad primum ergo dicendum, quod in eo qui satisfacit pro altero, magis est considerandum, ad hoc quod effectus satisfactionis ad alterum perveniat, id quo satisfactio unius transit in alterum, quam etiam satisfactionis poena; quamvis ipsa poena magis expiet reatum satisfacientis, inquantum est medicina quaedam; et ideo tria praedicta magis valent defunctis quam jejunium.  
 
@@ -529,13 +531,13 @@ Ad sextum dicendum, quod hujusmodi oblatio candelarum vel olei possunt prodesse 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod indulgentia dupliciter alicui prodesse potest: uno modo principaliter; alio modo secundario. Principaliter quidem prodest ei qui indulgentiam accipit, scilicet qui facit hoc pro quo indulgentia datur, ut qui visitat limina alicujus sancti; unde cum mortui non possint aliquid facere eorum pro quibus indulgentiae dantur, eis indulgentiae directe valere non possunt. Secundario autem et indirecte prosunt ei pro quo aliquis facit illud quod est indulgentiae causa, quod, sicut dist. 10, quaest. 1, art. 5, quaestiunc. 3, ad 2, dictum est, quandoque contingere potest, quandoque autem non potest, secundum diversam indulgentiae formam.***
+Ad secundam quaestionem dicendum, quod indulgentia dupliciter alicui prodesse potest: uno modo principaliter; alio modo secundario. Principaliter quidem prodest ei qui indulgentiam accipit, scilicet qui facit hoc pro quo indulgentia datur, ut qui visitat limina alicujus sancti; unde cum mortui non possint aliquid facere eorum pro quibus indulgentiae dantur, eis indulgentiae directe valere non possunt. Secundario autem et indirecte prosunt ei pro quo aliquis facit illud quod est indulgentiae causa, quod, sicut dist. 10, quaest. 1, art. 5, quaestiunc. 3, ad 2, dictum est, quandoque contingere potest, quandoque autem non potest, secundum diversam indulgentiae formam.  
 
 Si enim sit talis indulgentiae forma: *quicumque facit hoc vel illud, habebit tantum de indulgentia*: ille qui hoc facit, non potest fructum indulgentiae in alium transferre: quia ejus non est applicare ad aliquid intentionem Ecclesiae, per quam communicantur communia suffragia, ex quibus indulgentiae valent. Si autem indulgentia sub hac forma fiat: *quicumque fecerit hoc vel illud, ipse et pater ejus, vel quicumque ei adjunctus in purgatorio detentus tantum de indulgentia habebit*: talis indulgentia non solum vivo, sed etiam mortuo proderit. Non enim est aliqua ratio quare Ecclesia possit transferre merita communia, quibus indulgentiae innituntur, in vivos et non in mortuos. Nec tamen sequitur quod praelatus Ecclesiae possit pro suo arbitrio animas a purgatorio liberare: quia ad hoc quod indulgentiae valeant, requiritur causa conveniens indulgentias concedendi, ut supra, dist. 20, dictum est.  
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sepultura adinventa est et propter vivos et propter mortuos. Propter vivos quidem, ne eorum oculi ex turpitudine cadaverum offendantur, et corpora foetoribus inficiantur; et hoc quantum ad corpus: sed spiritualiter etiam prodest vivis, inquantum per hoc astruitur resurrectionis fides. Sed mortuis prosunt ad hoc quod inspicientes sepulcra memoriam retineant defunctorum, ut pro defunctis orent; unde et monumentum a memoria nomen accepit. Dicitur enim monumentum, quia monet mentem, ut dicit Augustinus in Lib. *de Cura pro mortuis gerenda*. Paganorum tamen error fuit, quod ad hoc sepultura mortuo prosit, ut ejus anima quietem accipiat: non enim credebant prius animam quietem posse accipere quam corpus sepulturae daretur; quod omnino ridiculum et absurdum est. Sed quod ulterius sepultura in loco sacrato mortuo prodest, non quidem est ex ipso opere operato, sed magis ex ipso opere operante, dum scilicet vel ipse defunctus, vel alius, corpus ejus tumulari in loco sacro disponens, patrocinio alicujus sancti eum committit, cujus precibus per hoc credendus est adjuvari, et etiam patrocinio eorum qui loco sacro deserviunt, qui pro apud se tumulatis frequentius et specialius orant.***
+Ad tertiam quaestionem dicendum, quod sepultura adinventa est et propter vivos et propter mortuos. Propter vivos quidem, ne eorum oculi ex turpitudine cadaverum offendantur, et corpora foetoribus inficiantur; et hoc quantum ad corpus: sed spiritualiter etiam prodest vivis, inquantum per hoc astruitur resurrectionis fides. Sed mortuis prosunt ad hoc quod inspicientes sepulcra memoriam retineant defunctorum, ut pro defunctis orent; unde et monumentum a memoria nomen accepit. Dicitur enim monumentum, quia monet mentem, ut dicit Augustinus in Lib. *de Cura pro mortuis gerenda*. Paganorum tamen error fuit, quod ad hoc sepultura mortuo prosit, ut ejus anima quietem accipiat: non enim credebant prius animam quietem posse accipere quam corpus sepulturae daretur; quod omnino ridiculum et absurdum est. Sed quod ulterius sepultura in loco sacrato mortuo prodest, non quidem est ex ipso opere operato, sed magis ex ipso opere operante, dum scilicet vel ipse defunctus, vel alius, corpus ejus tumulari in loco sacro disponens, patrocinio alicujus sancti eum committit, cujus precibus per hoc credendus est adjuvari, et etiam patrocinio eorum qui loco sacro deserviunt, qui pro apud se tumulatis frequentius et specialius orant.  
 
 Sed illa quae ad ornatum sepulturae exhibentur, prosunt quidem vivis inquantum sunt vivorum solatia; sed possunt et defunctis prodesse, non quidem per se, sed per accidens; inquantum scilicet, per hujusmodi, homines excitantur ad compatiendum, et per consequens ad orandum; vel inquantum ex sumptibus sepulturae vel pauperes fructum capiunt, vel Ecclesia decoratur: sic enim Sap. 4, sepultura inter ceteras eleemosynas computatur.  
 
@@ -555,7 +557,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod suffragia quae fiunt pro uno defuncto, non magis proficiunt ei pro quo fiunt, quam aliis. Lumen enim spirituale est magis communicabile quam lumen corporale. Sed lumen corporale, scilicet candelae, quamvis accendatur pro uno, tamen aequaliter omnibus prodest qui simul commorantur, quamvis pro eis candela non accendatur. Ergo cum suffragia sint quaedam spiritualia lumina, quamvis pro uno specialiter fiant, non magis valerent ei quam aliis in purgatorio existentibus.***
+Ad quartum sic proceditur. Videtur quod suffragia quae fiunt pro uno defuncto, non magis proficiunt ei pro quo fiunt, quam aliis. Lumen enim spirituale est magis communicabile quam lumen corporale. Sed lumen corporale, scilicet candelae, quamvis accendatur pro uno, tamen aequaliter omnibus prodest qui simul commorantur, quamvis pro eis candela non accendatur. Ergo cum suffragia sint quaedam spiritualia lumina, quamvis pro uno specialiter fiant, non magis valerent ei quam aliis in purgatorio existentibus.  
 
 Praeterea, sicut in littera dicitur, secundum hoc suffragia mortuis prosunt, quia cum viverent hic, sibi ut postea possent prodesse, meruerunt. Sed aliqui magis meruerunt ut suffragia sibi prodessent quam illi pro quibus fiunt. Ergo eis magis prosunt; alias eorum meritum frustraretur.  
 
@@ -567,7 +569,7 @@ Praeterea, sicut homo faciens suffragia quodammodo satisfacit mortuo, ita et int
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod suffragia facta pro multis tantumdem valeant singulis ac si pro unoquoque singulariter fierent. Videmus enim quod ex lectione quae uni legitur, nihil ei deperit, si simul et alii legatur. Ergo et eadem ratione nihil deperit ei pro quo fit suffragium, si ei aliquis connumeretur; et ita si pro pluribus fiat, tantum valet singulis ac si pro unoquoque singulariter fieret.***
+Ulterius. Videtur quod suffragia facta pro multis tantumdem valeant singulis ac si pro unoquoque singulariter fierent. Videmus enim quod ex lectione quae uni legitur, nihil ei deperit, si simul et alii legatur. Ergo et eadem ratione nihil deperit ei pro quo fit suffragium, si ei aliquis connumeretur; et ita si pro pluribus fiat, tantum valet singulis ac si pro unoquoque singulariter fieret.  
 
 Praeterea, secundum communem usum Ecclesiae videmus, quod cum Missa pro aliquo defuncto dicitur, simul etiam orationes illic adjunguntur pro aliis defunctis. Hoc autem non fieret, si ex hoc defunctus pro quo Missa dicitur, aliquod detrimentum reportaret. Ergo idem quod prius.  
 
@@ -579,7 +581,7 @@ Praeterea, suffragium habet finitam efficaciam. Ergo distributum in multos, minu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod tantum valeant suffragia communia illis pro quibus specialia non fiunt, quantum illis pro quibus fiunt, valent specialia et communia simul. Unicuique enim secundum propria merita reddetur in futuro. Sed ille pro quo non fiunt suffragia, meruit ut tantum juvaretur post mortem, quantum ille pro quo fiunt specialia. Ergo tantum juvabitur per communia, quantum ille per specialia et communia.***
+Ulterius. Videtur quod tantum valeant suffragia communia illis pro quibus specialia non fiunt, quantum illis pro quibus fiunt, valent specialia et communia simul. Unicuique enim secundum propria merita reddetur in futuro. Sed ille pro quo non fiunt suffragia, meruit ut tantum juvaretur post mortem, quantum ille pro quo fiunt specialia. Ergo tantum juvabitur per communia, quantum ille per specialia et communia.  
 
 Praeterea, inter Ecclesiae suffragia praecipuum est Eucharistia. Sed Eucharistia, cum contineat totum Christum, habet quodammodo efficaciam infinitam. Ergo una oblatio Eucharistiae quae communiter pro omnibus fit, valet ad plenam liberationem eorum qui sunt in purgatorio; et ita tantum juvant communia suffragia sola, quantum juvant specialia et communia simul.  
 
@@ -601,7 +603,7 @@ Ad tertium dicendum, quod nihil prohibet divites quantum ad aliquid esse meliori
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod si valor suffragiorum consideretur secundum quod valent ex virtute caritatis unientis membra Ecclesiae; suffragia pro multis facta tantum singulis prosunt ac si pro uno tantum fierent: quia caritas non minuitur, si dividatur effectus ejus in multos; immo magis augetur; et similiter etiam gaudium, quando pluribus est commune, fit majus, ut dicit Augustinus 8 *Confess*.; et sic de uno bono facto non minus laetantur multi in purgatorio quam unus. Si autem consideretur valor suffragiorum inquantum sunt satisfactiones quaedam per intentionem facientis translatae in mortuos; tunc magis valet suffragium alicui quod pro eo singulariter fit, quam quod pro eo communiter fit, et multis aliis. Sic enim effectus suffragii dividitur ex divina justitia inter eos pro quibus suffragia fiunt. Unde patet quod haec quaestio dependet ex prima; et ex hoc etiam patet quare institutum sit ut suffragia specialia in Ecclesia fiant.***
+Ad secundam quaestionem dicendum, quod si valor suffragiorum consideretur secundum quod valent ex virtute caritatis unientis membra Ecclesiae; suffragia pro multis facta tantum singulis prosunt ac si pro uno tantum fierent: quia caritas non minuitur, si dividatur effectus ejus in multos; immo magis augetur; et similiter etiam gaudium, quando pluribus est commune, fit majus, ut dicit Augustinus 8 *Confess*.; et sic de uno bono facto non minus laetantur multi in purgatorio quam unus. Si autem consideretur valor suffragiorum inquantum sunt satisfactiones quaedam per intentionem facientis translatae in mortuos; tunc magis valet suffragium alicui quod pro eo singulariter fit, quam quod pro eo communiter fit, et multis aliis. Sic enim effectus suffragii dividitur ex divina justitia inter eos pro quibus suffragia fiunt. Unde patet quod haec quaestio dependet ex prima; et ex hoc etiam patet quare institutum sit ut suffragia specialia in Ecclesia fiant.  
 
 Ad primum ergo dicendum, quod suffragia, ut sunt satisfactiones quaedam, non prosunt per modum actionis, sicut doctrina prodest, quae, sicut et omnis alia actio, effectum habet secundum dispositionem recipientis; sed valent per modum solutionis debiti, ut dictum est; et ideo non est simile.  
 
@@ -611,7 +613,7 @@ Ad tertium dicendum, quod oratio consideratur et ex parte orantis, et ex parte e
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod hujusmodi etiam solutio dependet ex solutione primae quaestionis. Si enim suffragia specialiter pro uno facta, indifferenter omnibus valent, tunc omnia suffragia sunt communia; et ideo tantum juvabitur ille pro quo non fiunt specialia, quantum ille pro quo fiunt, si sit aequaliter dignus. Si autem suffragia pro aliquo facta non indifferenter omnibus prosint, sed eis maxime pro quibus fiunt, tunc non est dubium quod suffragia communia et specialia simul plus valent alicui quam communia tantum; et ideo Magister duas opiniones in littera tangit. Unam quae dicit, quod aequaliter prosunt diviti communia et specialia, et pauperi communia tantum: quamvis enim ex pluribus unus juvetur quam alter, non tamen plus juvatur. Aliam autem tangit, cum dicit, quod ille pro quo fiunt suffragia, consequitur faciliorem*faciliorem.—velociorem* PLE. absolutionem, sed non pleniorem: quia uterque finaliter ab omni poena liberabitur.***
+Ad tertiam quaestionem dicendum, quod hujusmodi etiam solutio dependet ex solutione primae quaestionis. Si enim suffragia specialiter pro uno facta, indifferenter omnibus valent, tunc omnia suffragia sunt communia; et ideo tantum juvabitur ille pro quo non fiunt specialia, quantum ille pro quo fiunt, si sit aequaliter dignus. Si autem suffragia pro aliquo facta non indifferenter omnibus prosint, sed eis maxime pro quibus fiunt, tunc non est dubium quod suffragia communia et specialia simul plus valent alicui quam communia tantum; et ideo Magister duas opiniones in littera tangit. Unam quae dicit, quod aequaliter prosunt diviti communia et specialia, et pauperi communia tantum: quamvis enim ex pluribus unus juvetur quam alter, non tamen plus juvatur. Aliam autem tangit, cum dicit, quod ille pro quo fiunt suffragia, consequitur faciliorem*faciliorem.—velociorem* PLE. absolutionem, sed non pleniorem: quia uterque finaliter ab omni poena liberabitur.  
 
 Ad primum ergo dicendum, quod sicut ex dictis patet, juvamen suffragiorum non cadit directe sub merito et simpliciter, sed quasi sub conditione; et ideo ratio non sequitur.  
 
@@ -621,7 +623,7 @@ Quaestio 3
 
 ***De orationibus sanctorum***
 
-***Deinde quaeritur de orationibus sanctorum, quibus pro nobis orant; et circa hoc quaeruntur tria:***
+Deinde quaeritur de orationibus sanctorum, quibus pro nobis orant; et circa hoc quaeruntur tria:  
 
 primo utrum sancti orationes nostras cognoscant;  
 
@@ -632,7 +634,7 @@ Articulus 1
 
 ***Utrum sancti orationes nostras cognoscant***
 
-***Ad primum sic proceditur. Videtur quod sancti orationes nostras non cognoscant. Isa. 43, 16: *pater noster es, et Abraham nescivit nos, et Israel ignoravit nos*. Glossa Augustini dicit, quia mortui et sancti nesciunt quid agant vivi, etiam eorum filii; et sumitur ab Augustino in Lib. *de Cura pro mortuis gerenda*, ubi hanc auctoritatem inducit; et sunt haec verba Augustini, ibidem: *si tanti patriarchae quid erga populum ab eis procreatum ageretur ignoraverunt, quomodo mortui vivorum rebus atque actibus cognoscendis adjuvandisque miscentur?* Ergo sancti orationes nostras cognoscere non possunt.***
+Ad primum sic proceditur. Videtur quod sancti orationes nostras non cognoscant. Isa. 43, 16: *pater noster es, et Abraham nescivit nos, et Israel ignoravit nos*. Glossa Augustini dicit, quia mortui et sancti nesciunt quid agant vivi, etiam eorum filii; et sumitur ab Augustino in Lib. *de Cura pro mortuis gerenda*, ubi hanc auctoritatem inducit; et sunt haec verba Augustini, ibidem: *si tanti patriarchae quid erga populum ab eis procreatum ageretur ignoraverunt, quomodo mortui vivorum rebus atque actibus cognoscendis adjuvandisque miscentur?* Ergo sancti orationes nostras cognoscere non possunt.  
 
 Praeterea, 4 Reg. 22, 20, dicitur ad Josiam regem: *idcirco*, quia scilicet flevisti coram me, *colligam te ad patres tuos . . . ut non videant oculi tui mala omnia quae inducturus sum in locum istum*. Sed in hoc nullo modo per mortem Josiae subventum fuisset, si post mortem genti suae quid eveniret cognosceret. Ergo sancti mortui actus nostros non cognoscunt, et ita non intelligunt orationes nostras.  
 
@@ -666,7 +668,7 @@ Articulus 2
 
 ***Utrum debeamus omnes interpellare ad orandum pro nobis***
 
-***Ad secundum sic proceditur. Videtur quod non debeamus sanctos orare ad interpellandum pro nobis. Nullus enim amicos alicujus interpellat ad orandum pro se, nisi quatenus apud eos credit facilius gratiam obtinere. Sed Deus est in infinitum magis misericors quolibet sancto; et sic ejus voluntas facilius inclinatur ad nos exaudiendum quam voluntas alicujus sancti. Ergo videtur superfluum esse constituere sanctos mediatores inter nos et Deum, ut ipsi pro nobis intercedant.***
+Ad secundum sic proceditur. Videtur quod non debeamus sanctos orare ad interpellandum pro nobis. Nullus enim amicos alicujus interpellat ad orandum pro se, nisi quatenus apud eos credit facilius gratiam obtinere. Sed Deus est in infinitum magis misericors quolibet sancto; et sic ejus voluntas facilius inclinatur ad nos exaudiendum quam voluntas alicujus sancti. Ergo videtur superfluum esse constituere sanctos mediatores inter nos et Deum, ut ipsi pro nobis intercedant.  
 
 Praeterea, si eos ad orandum pro nobis interpellare debemus, hoc non est nisi quia scimus eorum orationem esse Deo acceptam. Sed quanto aliquis est sanctior inter sanctos, tanto ejus oratio est magis Deo accepta. Ergo semper deberemus superiores sanctos pro nobis intercessores constituere ad Deum, et nunquam minores.  
 
@@ -698,7 +700,7 @@ Articulus 3
 
 ***Utrum orationes eorum pro nobis fusae semper exaudiantur***
 
-***Ad tertium sic proceditur. Videtur quod orationes sanctorum pro nobis ad Deum fusae, non semper exaudiantur. Si enim exaudirentur, maxime exaudirentur sancti de his quae ad eos pertinent. Sed de his non exaudiuntur; unde dicitur Apocalyps. 6, quod martyribus petentibus vindictam his qui sunt super terram, dictum est ut requiescerent adhuc tempus modicum, donec impleretur numerus fratrum suorum. Ergo multo minus exaudiuntur de his quae ad alios pertinent.***
+Ad tertium sic proceditur. Videtur quod orationes sanctorum pro nobis ad Deum fusae, non semper exaudiantur. Si enim exaudirentur, maxime exaudirentur sancti de his quae ad eos pertinent. Sed de his non exaudiuntur; unde dicitur Apocalyps. 6, quod martyribus petentibus vindictam his qui sunt super terram, dictum est ut requiescerent adhuc tempus modicum, donec impleretur numerus fratrum suorum. Ergo multo minus exaudiuntur de his quae ad alios pertinent.  
 
 Praeterea, Hierem. 15, 1: *si steterint Moyses et Samuel coram me, non est anima mea ad populum istum*. Ergo sancti non semper exaudiuntur, cum pro nobis orant ad Deum.  
 
@@ -732,7 +734,7 @@ Ad sextum dicendum, quod suffragia Ecclesiae sunt pro defunctis quasi quaedam sa
 
 Expositio textus  
 
-****Cum facta fuerit resurrectio, bonorum gaudium amplius erit*, etc. Hoc intelligendum est materialiter, quia de pluribus gaudebunt; sed non formaliter, quia non magis gaudebunt, ut dictum est. Sed de hoc magis infra dicetur, dist. 49.***
+*Cum facta fuerit resurrectio, bonorum gaudium amplius erit*, etc. Hoc intelligendum est materialiter, quia de pluribus gaudebunt; sed non formaliter, quia non magis gaudebunt, ut dictum est. Sed de hoc magis infra dicetur, dist. 49.  
 
 *Nam qui sine fide operante per dilectionem, ejusque sacramentis, de corpore exierunt, frustra illis a suis hujusmodi pietatis officia impenduntur*. Secundum hoc videtur quod suffragia Ecclesiae non prosunt catechumenis in fide Ecclesiae decedentibus; cum tamen illi sint in statu salutis, ut patet ex dictis supra, dist. 4. Et dicendum, quod licet non susceperint sacramenta Ecclesiae actu, susceperunt tamen voto, quod pro facto computatur, cum deest facultas.  
 

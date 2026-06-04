@@ -1,5 +1,7 @@
 # Chapter 5
 
+***Vox 1***
+
 ***Ebrius***
 
 ***Quod ebrius si interficiat meretur duplices maledicciones.***
@@ -56,13 +58,13 @@ Vox 4
 
 ***Eligere***
 
-***Quod eligere optima et opinari non uidentur idem esse, quia contingit aliquem optima opinari qui non optima eligit.***
+Quod eligere optima et opinari non uidentur idem esse, quia contingit aliquem optima opinari qui non optima eligit.  
 
 Vox 5  
 
 ***Eligibile***
 
-***Quod ex consilio preiudicatum est, eligibile est, quia unusquisque quiescit querens qualiter debeat operari quando potest reducere ad se ipsum.***
+Quod ex consilio preiudicatum est, eligibile est, quia unusquisque quiescit querens qualiter debeat operari quando potest reducere ad se ipsum.  
 
 Quod eligibile est consiliabile desideratumque eorum que in nobis sunt.  
 
@@ -84,7 +86,7 @@ Vox 8
 
 ***Equale***
 
-***Quod equale secundum esse est medium inter habundanciam que plus et defectum qui est minus.***
+Quod equale secundum esse est medium inter habundanciam que plus et defectum qui est minus.  
 
 Quod equale uel est secundum rem uel quo ad nos, quod neque habundat neque deficit, set hoc non est idem neque unum omnibus; et exemplificat.  
 
@@ -104,19 +106,19 @@ Vox 10
 
 ***Equalis***
 
-***Quod equalis est operatiuus eius quod est secundum proporcionalitatem inter se et alium et inter alium et alium.***
+Quod equalis est operatiuus eius quod est secundum proporcionalitatem inter se et alium et inter alium et alium.  
 
 Vox 11  
 
 ***Equi uirtus***
 
-***Quod equi uirtus que facit equum bonum et bene currere et bene ferre ascendentem et expectare bellatores.***
+Quod equi uirtus que facit equum bonum et bene currere et bene ferre ascendentem et expectare bellatores.  
 
 Vox 12  
 
 ***Epyeikia***
 
-***Quod epyeikia uidetur neque idem simpliciter quod iusticia neque ut alterum genere.***
+Quod epyeikia uidetur neque idem simpliciter quod iusticia neque ut alterum genere.  
 
 Quod epyeikes laudamus ut uirum talem, id est strenuum, et ad talia transferimus laudem eius, id est ad opera uirtutum, laudantes ipsum magis bonum quam sit iustus.  
 
@@ -146,13 +148,13 @@ Vox 14
 
 ***Experti***
 
-***Quod experti iudicant circa singula recte et per que et qualiter perficiuntur intelligunt, set inexperti non.***
+Quod experti iudicant circa singula recte et per que et qualiter perficiuntur intelligunt, set inexperti non.  
 
 Vox 15  
 
 ***Eutrapelia***
 
-***Quod eutrapelia est medietas circa delectabile in ludis, superhabundansque dicitur bomolochus, set deficiens agroycos.***
+Quod eutrapelia est medietas circa delectabile in ludis, superhabundansque dicitur bomolochus, set deficiens agroycos.  
 
 Quod eutrapeli proprium est quod sit epydexum, id est semper aptum ad conuersandum.  
 

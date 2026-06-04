@@ -1,8 +1,10 @@
 # D. 27 - Charity
 
+***Charity***
+
 ***Division of the text***
 
-***After the Master has determined about faith and hope, here, in the third place, he determines about charity.***
+After the Master has determined about faith and hope, here, in the third place, he determines about charity.  
 
 This consideration is divided into two parts.  
 
@@ -88,7 +90,7 @@ Article 1
 
 ***Whether Dionysius’s definition of love is good in all of its aspects***
 
-***To the first we proceed thus.Parallels: *ST* I.20.1; I-II.28; *In De divinis nominibus* 4, lect. 12. In *On the Divine Names*, Dionysius defines love thus:Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 15 (PG 3:714). *Love is a unitive and concretive power or virtue, moving higher things to exercise providence for those having less,* that is, their inferiors; *further, moving coordinated things,* that is, equals, *to a communicative relationship with each other*; and finally, *moving subjects,* that is, lower things, *to turn themselves toward better things,* that is, their superiors. But it seems that here love is unfittingly defined.***
+To the first we proceed thus.Parallels: *ST* I.20.1; I-II.28; *In De divinis nominibus* 4, lect. 12. In *On the Divine Names*, Dionysius defines love thus:Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 15 (PG 3:714). *Love is a unitive and concretive power or virtue, moving higher things to exercise providence for those having less,* that is, their inferiors; *further, moving coordinated things,* that is, equals, *to a communicative relationship with each other*; and finally, *moving subjects,* that is, lower things, *to turn themselves toward better things,* that is, their superiors. But it seems that here love is unfittingly defined.  
 
 Obj. 1: For no passion is a virtue, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.5, 1105b28. But love is a passion. Therefore it is not a virtue.  
 
@@ -144,7 +146,7 @@ Article 2
 
 ***Whether love is only in the concupiscible power***
 
-***To the second we proceed thus.Parallels: above, d. 26, q. 2, a. 1; *ST* I-II.26.1. It seems that love is not only in the concupiscible power.***
+To the second we proceed thus.Parallels: above, d. 26, q. 2, a. 1; *ST* I-II.26.1. It seems that love is not only in the concupiscible power.  
 
 Obj. 1: For Dionysius, in *On the Divine Names*, sets down four kinds of love: *divine, angelic, intellectual, and natural*.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 15 (PG 3:714). But whatever is in us pertains to intellect, to animality, or to nature. Hence love may be found in all the things that are in us.  
 
@@ -194,7 +196,7 @@ Article 3
 
 ***Whether love is the first and foremost affection of the soul***
 
-***To the third we proceed thus.Parallels: *ST* I.20.1; I-II.25.2; 27.4; *SCG* III.19; *De veritate*, q. 26, a. 4; *De spe*, a. 3; *In De divinis nominibus* 4, lect. 9. It seems that love is not first and foremost among all the affections of the soul.***
+To the third we proceed thus.Parallels: *ST* I.20.1; I-II.25.2; 27.4; *SCG* III.19; *De veritate*, q. 26, a. 4; *De spe*, a. 3; *In De divinis nominibus* 4, lect. 9. It seems that love is not first and foremost among all the affections of the soul.  
 
 Obj. 1: For motion toward a terminus precedes the latter. But it is love that gives a terminus to appetitive motion, as is clear from things said.Above, a. 1. Therefore desire, which brings about appetitive motion, precedes love, which has reference to the terminus.  
 
@@ -240,7 +242,7 @@ Article 4
 
 ***Whether knowledge is higher than love***
 
-***To the fourth we proceed thus.Parallel: *ST* I-II.3.4.ad 4. It seems that knowledge is higher than love.***
+To the fourth we proceed thus.Parallel: *ST* I-II.3.4.ad 4. It seems that knowledge is higher than love.  
 
 Obj. 1: The highest act is that of the highest power. But the intellect is the highest power in us, as the Philosopher says in the *Ethics* 10.Aristotle, *Nicomachean Ethics* 10.7, 1177a13-20. Therefore knowledge is the highest operation of the powers within us, and so it is worthier than love.  
 
@@ -306,7 +308,7 @@ Question 2
 
 ***Charity***
 
-***Next, charity is asked about, and concerning it, we will inquire into four things:***
+Next, charity is asked about, and concerning it, we will inquire into four things:  
 
 first, what charity is;  
 
@@ -320,7 +322,7 @@ Article 1
 
 ***Whether charity is the same as concupiscence, or what is charity***
 
-***To the first we proceed thus.Parallels: *ST* I-II.65.5; II-II.23.1. It seems that charity is the same as concupiscence.***
+To the first we proceed thus.Parallels: *ST* I-II.65.5; II-II.23.1. It seems that charity is the same as concupiscence.  
 
 Obj. 1: For Augustine saysAugustine, *On Christian Doctrine*, bk. 3, ch. 10 (CCSL 32; PL 34:72). that charity is the virtue by which we desire to see and to enjoy God. But to desire and enjoy are acts of concupiscence. Therefore charity is concupiscence.  
 
@@ -376,7 +378,7 @@ Article 2
 
 ***Whether charity is a virtue***
 
-***To the second we proceed thus.Parallels: *ST* II-II.23.3; *De caritate*, a. 2. It seems that charity is not a virtue.***
+To the second we proceed thus.Parallels: *ST* II-II.23.3; *De caritate*, a. 2. It seems that charity is not a virtue.  
 
 Obj. 1: For charity, as was said, is a certain friendship between man and God. But friendship is not set down as a virtue by the philosophers, although it has virtue for its foundation, since it exists on account of the noble good that virtue is. Therefore charity is not a virtue.  
 
@@ -420,7 +422,7 @@ Article 3
 
 ***Whether reason is the subject of charity***
 
-***To the third we proceed thus.Parallels: *ST* I-II.56.6; II-II.24.1; *De virtutibus*, a. 5. It seems that the subject of charity is reason.***
+To the third we proceed thus.Parallels: *ST* I-II.56.6; II-II.24.1; *De virtutibus*, a. 5. It seems that the subject of charity is reason.  
 
 Obj. 1: For as is said in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.13, 1103a3. the subject of every virtue is either the rational by participation or the rational by essence. But charity is a virtue, as was said. Since its subject is not the rational by participation—for if it were, it would be a moral virtue—it seems, therefore, that its subject has to be the rational by essence. [But this is nothing other than intellect or reason. Therefore charity has reason for its subject.]  
 
@@ -456,7 +458,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallels: *ST* II-II.23.5; *De caritate*, a. 4. It seems that charity is not a single virtue.***
+To the fourth we proceed thus.Parallels: *ST* II-II.23.5; *De caritate*, a. 4. It seems that charity is not a single virtue.  
 
 Obj. 1: For habits are distinguished by their acts, and acts by their objects. But charity has two objects at the greatest distance from each other, namely, God and neighbor. Therefore it is not a single virtue.  
 
@@ -470,7 +472,7 @@ Furthermore, since it is a theological virtue, charity’s object is God. But Go
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it seems that charity is not distinct from other virtues.Parallels: *ST* II-II.23.4; *De malo*, q. 8, a. 2; q. 11, a. 2; *De caritate*, a. 5. Whatever falls within the definition of virtue as such cannot be that which distinguishes one virtue from another. But charity is this kind of thing. Hence, Jerome says, *to sum up briefly the whole definition of virtue: virtue is the charity by which God and neighbor are loved*.Augustine, *Epistulae*, epist. 167: *ad Hieronymus*, para. 4 (CSEL 44:602; PL 33:739). And Augustine says that *virtue is the order of love*.Augustine, *The City of God*, bk. 15, ch. 22 (CCSL 48; PL 41:467). Therefore charity is not a virtue distinct from other virtues.***
+Obj. 1: Furthermore, it seems that charity is not distinct from other virtues.Parallels: *ST* II-II.23.4; *De malo*, q. 8, a. 2; q. 11, a. 2; *De caritate*, a. 5. Whatever falls within the definition of virtue as such cannot be that which distinguishes one virtue from another. But charity is this kind of thing. Hence, Jerome says, *to sum up briefly the whole definition of virtue: virtue is the charity by which God and neighbor are loved*.Augustine, *Epistulae*, epist. 167: *ad Hieronymus*, para. 4 (CSEL 44:602; PL 33:739). And Augustine says that *virtue is the order of love*.Augustine, *The City of God*, bk. 15, ch. 22 (CCSL 48; PL 41:467). Therefore charity is not a virtue distinct from other virtues.  
 
 Obj. 2: Further, virtues are distinguished from one another by their acts. But the acts of all other virtues are attributed to charity, as is clear from 1 Corinthians 13. Therefore charity is not a virtue distinct from other virtues.  
 
@@ -484,7 +486,7 @@ Furthermore, in the *Ethics* 5Aristotle, *Nicomachean Ethics* 5.2, 1130a14. the 
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that charity is not the form of the other virtues.Parallels: *In II Sent.*, d. 26, a. 4, ad 5; *In III Sent.*, d. 23, q. 3, a. 1, resp. 1; *ST* II-II.23.8; *De veritate*, q. 14, a. 5; *De malo*, q. 8, a. 2; *De caritate*, a. 3. For every form is either an exemplar form or an intrinsic form. But charity is not the exemplar form of the virtues, since on that supposition all the other virtues would be drawn into the same species; nor is it an intrinsic form, since then it would give being and species to the other virtues, and in that way all the virtues would be of the same species and would be in the same subject as charity is, nor would they be distinct from it. Therefore in no way is charity the form of the virtues.***
+Obj. 1: Furthermore, it seems that charity is not the form of the other virtues.Parallels: *In II Sent.*, d. 26, a. 4, ad 5; *In III Sent.*, d. 23, q. 3, a. 1, resp. 1; *ST* II-II.23.8; *De veritate*, q. 14, a. 5; *De malo*, q. 8, a. 2; *De caritate*, a. 3. For every form is either an exemplar form or an intrinsic form. But charity is not the exemplar form of the virtues, since on that supposition all the other virtues would be drawn into the same species; nor is it an intrinsic form, since then it would give being and species to the other virtues, and in that way all the virtues would be of the same species and would be in the same subject as charity is, nor would they be distinct from it. Therefore in no way is charity the form of the virtues.  
 
 Obj. 2: Further, charity differs from grace. But grace is said to be the form of all the virtues, since it makes an act meritorious. Therefore charity is not the form.  
 
@@ -500,7 +502,7 @@ Furthermore, that which is foremost even in bodily things is formal with respect
 
 Quaestiuncula 4  
 
-***Obj. 1: Furthermore, it seems that charity can exist while being unformed by grace.Parallels: *ST* I-II.65.2; 4; II-II.23.7. For just as faith continues to exist in one who believes but does not act rightly, so too can the love by which God is loved exist in such a person, since even sinners and infidels love God. But faith lacking good works is unformed by grace; in like manner, therefore, charity lacking good works is unformed by grace.***
+Obj. 1: Furthermore, it seems that charity can exist while being unformed by grace.Parallels: *ST* I-II.65.2; 4; II-II.23.7. For just as faith continues to exist in one who believes but does not act rightly, so too can the love by which God is loved exist in such a person, since even sinners and infidels love God. But faith lacking good works is unformed by grace; in like manner, therefore, charity lacking good works is unformed by grace.  
 
 Obj. 2: Further, no one knows whether or not he has grace. But someone can know that he has love. Therefore the love of God can exist without grace, and so it can exist in an unformed state.  
 
@@ -512,7 +514,7 @@ Furthermore, a form cannot be unformed, but charity is the form of all the other
 
 Response to Quaestiuncula 1  
 
-***I answer that a virtue derives its species from its object according to the notion under which the virtue chiefly tends to the object. Hence, since charity chiefly loves God, and does not love anything else except insofar as it is of God, it is apparent that charity receives unity and is a single virtue from the unity of divine goodness to which it first has reference.***
+I answer that a virtue derives its species from its object according to the notion under which the virtue chiefly tends to the object. Hence, since charity chiefly loves God, and does not love anything else except insofar as it is of God, it is apparent that charity receives unity and is a single virtue from the unity of divine goodness to which it first has reference.  
 
 Reply Obj. 1: The neighbor is not the chief object of charity itself, as was said.  
 
@@ -522,7 +524,7 @@ Reply Obj. 3: A material diversity of objects suffices for numerical diversity o
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as was said,Above, a. 3. habits derive their species from their correlative objects, according to that notion of an object to which a habit chiefly refers. Now, an object’s notion is taken according to the relationship between the thing toward which the habit or power exercises its activity, and the act of the soul in which the habits or powers exist. Since, however, it happens that things which in reality are joined together and are supremely one are sometimes divided by the soul’s activity, it therefore happens that where a thing is the same, there may yet be diverse notions of the object, as, for example, the same thing is the object of liberality as able to be given away freely to another, and of justice as having the nature of a debt owed to another. And likewise, where a thing is really common, the object’s notion is particular and proper, as, for example, first philosophy, although it considers being as common to all, is a special science precisely because it considers being under a special notion, namely, being insofar as it does not depend on matter and motion.***
+To the second question, it should be said that, as was said,Above, a. 3. habits derive their species from their correlative objects, according to that notion of an object to which a habit chiefly refers. Now, an object’s notion is taken according to the relationship between the thing toward which the habit or power exercises its activity, and the act of the soul in which the habits or powers exist. Since, however, it happens that things which in reality are joined together and are supremely one are sometimes divided by the soul’s activity, it therefore happens that where a thing is the same, there may yet be diverse notions of the object, as, for example, the same thing is the object of liberality as able to be given away freely to another, and of justice as having the nature of a debt owed to another. And likewise, where a thing is really common, the object’s notion is particular and proper, as, for example, first philosophy, although it considers being as common to all, is a special science precisely because it considers being under a special notion, namely, being insofar as it does not depend on matter and motion.  
 
 The case is similar in the matter under discussion. For the chief and proper object of charity is the divine goodness. Now, while there is some divine good aspired to in all the other virtues, yet this very good, common in reality, has itself a special notion. And so, charity is a special virtue distinct from all the others.  
 
@@ -540,7 +542,7 @@ Reply Obj. 4: The commandment pertaining to charity does not embrace all the oth
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that charity may be compared to all other virtues as their mover, as their end, and as their form.***
+To the third question, it should be said that charity may be compared to all other virtues as their mover, as their end, and as their form.  
 
 That it is the mover of all the other virtues is evident from the fact that the good itself, which is charity’s object under the notion of final end, is the [common] end of the virtues. But in all powers or arts of a single order, it happens that the art or power that has to do with the ultimate end orders the acts of other arts or powers to their proper ends, as the military art, which exists for the sake of victory, to which every particular military task is ordered, orders the equestrian and naval arts to their ends.  
 
@@ -566,7 +568,7 @@ Reply Obj. 5: Lower things participate in the perfections of higher things after
 
 Response to Quaestiuncula 4  
 
-***I answer that charity can never exist while being unformed by grace; and on this point all authorities agree. According to some, however, this happens because of the fact that charity is nothing other than the Holy Spirit. But in Book I,*In I Sent.*, d. 17, q. 1, aa. 1, 2. this position was destroyed. According to others, charity is the same as grace—which was rejected in Book II.*In II Sent.,* d. 26, a. 4.***
+I answer that charity can never exist while being unformed by grace; and on this point all authorities agree. According to some, however, this happens because of the fact that charity is nothing other than the Holy Spirit. But in Book I,*In I Sent.*, d. 17, q. 1, aa. 1, 2. this position was destroyed. According to others, charity is the same as grace—which was rejected in Book II.*In II Sent.,* d. 26, a. 4.  
 
 It is therefore necessary to assign other reasons. From what has been said up to this point, two such reasons can be gathered. The first is taken from charity’s effect; for, since charity is a certain friendship that requires friends to live together, there cannot be charity unless there be a sharing of divine life, which comes through grace; and therefore charity cannot exist without grace. The second reason can be gathered from the fact that charity is the mover and form of all the virtues. Hence, inasmuch as every sin is opposed to the act of some virtue, every [mortal] sin takes away charity. And since grace cannot be taken away except by sin, it follows that charity is taken away as soon as grace is removed.  
 
@@ -580,7 +582,7 @@ Question 3
 
 ***The act of charity***
 
-***The next thing to be inquired about is the act of charity by which God is loved, since the place for inquiry about loving one’s neighbor will come later.***
+The next thing to be inquired about is the act of charity by which God is loved, since the place for inquiry about loving one’s neighbor will come later.  
 
 We will inquire into four things here:  
 
@@ -596,7 +598,7 @@ Article 1
 
 ***Whether God can be immediately loved by wayfarers***
 
-***To the first we proceed thus.Parallels: *ST* II-II.27.4; *De veritate*, q. 10, a. 11, ad 6; *De caritate*, a. 2, ad 11. It seems that God cannot be loved by us directly and immediately, as long as we are in the wayfaring state.***
+To the first we proceed thus.Parallels: *ST* II-II.27.4; *De veritate*, q. 10, a. 11, ad 6; *De caritate*, a. 2, ad 11. It seems that God cannot be loved by us directly and immediately, as long as we are in the wayfaring state.  
 
 Obj. 1: For intellect is quicker than affection; hence Augustine says that *intellect flies ahead, but affection lags behind or comes not at all*.Augustine, *Enarrationes in Psalmos*, Ps 118, serm. 8, para. 4 (CCSL 40; PL 37:1521–22). But our intellect in the wayfaring state cannot see God directly and immediately; therefore neither can our affection love him in that way.  
 
@@ -630,7 +632,7 @@ Article 2
 
 ***Whether God can be totally loved***
 
-***To the second we proceed thus.Parallels: *ST* II-II.27.5; *De caritate*, a. 10, ad 5. It seems that God cannot be totally loved.***
+To the second we proceed thus.Parallels: *ST* II-II.27.5; *De caritate*, a. 10, ad 5. It seems that God cannot be totally loved.  
 
 Obj. 1: For love presupposes knowledge, but God is not totally known, even by the saints in heaven. Therefore neither can he be totally loved by any creature.  
 
@@ -654,7 +656,7 @@ Article 3
 
 ***Whether the love by which we love God has any measure***
 
-***To the third we proceed thus.Parallels: *ST* II-II.27.6; *De caritate*, a. 2, ad 13; *Super Rom*. 12, lect. 1. It seems that the love by which we love God has a measure.***
+To the third we proceed thus.Parallels: *ST* II-II.27.6; *De caritate*, a. 2, ad 13; *Super Rom*. 12, lect. 1. It seems that the love by which we love God has a measure.  
 
 Obj. 1: For every finite thing has a measure. But mode is caused by measure, as was said in Book I.*In I Sent.*, d. 3, q. 2, a. 2. Since therefore the love by which we love God is finite, it must have a measure.  
 
@@ -682,9 +684,9 @@ Reply Obj. 4: When it is stated that “charity has no measure,” we should und
 
 Article 4  
 
-***Whether the mode of loving specified in the commandment can be fulfilled in the wayfaring state***
+Whether the mode of loving specified in the commandment can be fulfilled in the wayfaring state  
 
-***To the fourth we proceed thus.Parallels: *ST* II-II.44.6; *De caritate*, a. 10; *De perfectione vitae spiritualis,* cc. 4, 5. It seems that the mode contained in the commandment can be fulfilled in the wayfaring state.***
+To the fourth we proceed thus.Parallels: *ST* II-II.44.6; *De caritate*, a. 10; *De perfectione vitae spiritualis,* cc. 4, 5. It seems that the mode contained in the commandment can be fulfilled in the wayfaring state.  
 
 Obj. 1: For Jerome says, *the one who says that God has commanded something impossible, let him be anathema*.Jerome, *Dialogi contra Pelagianos libri iii*, bk. 1, para. 14 (CCSL 80; PL 23:507–508). But God commanded this [*love the Lord your God with all your heart*, etc.] to all wayfarers. Therefore it is heretical to say that it cannot be observed in the wayfaring state.  
 
@@ -710,7 +712,7 @@ Reply Sed Contra: The solution to the contrary arguments is evident from what ha
 
 Exposition of the text  
 
-****And so [someone who does not love himself for the sake of God] does not love himself at all*.*Sentences*, III, 27.5(100).1, citing Augustine, *On the Trinity*, bk. 8, ch. 6, para. 9 (CCSL 50; PL 42:956). But against this: Every sin, according to Augustine,Augustine, *The City of God*, Bk. 14, ch. 28 (CCSL 48; PL 41:436). comes from self-love. Therefore it seems that the evil man loves himself immoderately. In response, it should be said that what he loves in himself is his exterior nature, which he considers himself to be, but not the intellectual nature, according to which he truly is what he is. And so he loves what he reckons himself to be, but not what he truly is, since *each thing is properly what is most powerful in it, just as the city is the king*, as the Philosopher says in the *Ethics* 9.Aristotle, *Nicomachean Ethics* 9.8, 1168b31.***
+*And so [someone who does not love himself for the sake of God] does not love himself at all*.*Sentences*, III, 27.5(100).1, citing Augustine, *On the Trinity*, bk. 8, ch. 6, para. 9 (CCSL 50; PL 42:956). But against this: Every sin, according to Augustine,Augustine, *The City of God*, Bk. 14, ch. 28 (CCSL 48; PL 41:436). comes from self-love. Therefore it seems that the evil man loves himself immoderately. In response, it should be said that what he loves in himself is his exterior nature, which he considers himself to be, but not the intellectual nature, according to which he truly is what he is. And so he loves what he reckons himself to be, but not what he truly is, since *each thing is properly what is most powerful in it, just as the city is the king*, as the Philosopher says in the *Ethics* 9.Aristotle, *Nicomachean Ethics* 9.8, 1168b31.  
 
 *The human mind, then, is made in such a way that at no time does it not remember, understand, and love itself.**Sent*. III, 27.5(100).2, citing Augustine, *On the Trinity*, bk. 14, ch. 14, para. 18 (CCSL 50; PL 42:1049). On the things mentioned in this statement, see the discussion in Book I.*In I Sent*., d. 3, exposition of the text.  
 

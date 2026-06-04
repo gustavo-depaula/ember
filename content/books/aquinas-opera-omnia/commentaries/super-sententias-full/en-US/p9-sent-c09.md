@@ -1,6 +1,8 @@
 # D. 34 - On personal impediments
 
-***After the Master has considered marriage and determined its causes, here he considers those persons contracting marriage. And this is divided into two parts: in the first, he determines the impediments to marriage that do not make the persons entirely ineligible to contract it; in the second, those by which the persons are rendered entirely ineligible for marriage, in Distinction 37, at: *for there are some orders in which marriage cannot be contracted at all*.*Sententiae* IV, 37.1 (212). 1.***
+***On personal impediments***
+
+After the Master has considered marriage and determined its causes, here he considers those persons contracting marriage. And this is divided into two parts: in the first, he determines the impediments to marriage that do not make the persons entirely ineligible to contract it; in the second, those by which the persons are rendered entirely ineligible for marriage, in Distinction 37, at: *for there are some orders in which marriage cannot be contracted at all*.*Sententiae* IV, 37.1 (212). 1.  
 
 The first is divided into two: in the first, he considers a certain impediment to marriage which makes a person ineligible, not simply but in a certain respect. It consists in a defect of nature, namely, impotence; second, of the impediment of condition according to the customs and statutes of men, namely, servitude, in Distinction 36, at: *now let us see whether condition can divide a marriage*.*Sent*. IV, 36.1 (208). 1.  
 
@@ -30,7 +32,7 @@ first, concerning the impediments of marriage in general;
 
 ***Concerning the impediments of marriage in general***
 
-***Obj. 1: To the first question, we proceed thus. It seems that the impediments to matrimony are not fittingly assigned. For marriage is a certain sacrament belonging to the same genus as the others. But to the others no impediments are ascribed. Therefore, neither should any be ascribed to matrimony.***
+Obj. 1: To the first question, we proceed thus. It seems that the impediments to matrimony are not fittingly assigned. For marriage is a certain sacrament belonging to the same genus as the others. But to the others no impediments are ascribed. Therefore, neither should any be ascribed to matrimony.  
 
 Obj. 2: Furthermore, the less perfect something is, the fewer the ways in which it can be impeded. But marriage is the least perfect among the sacraments. Therefore, either no impediments or the fewest impediments should be assigned to it.  
 
@@ -90,7 +92,7 @@ Article 2
 
 ***Whether impotence impedes matrimony***
 
-***Obj. 1: To the second question, we proceed thus.Parallels: below, d. 36, a. 1; *Quodl.* XI, q. 9, a. 2. It seems that impotence does not impede marriage from being contracted. For physical intimacy is not of the essence of marriage; since those marriages are more perfect in which the spouses take a mutual vow of continence, as was said above in Distinction 26. But impotence takes away nothing from marriage except physical intimacy. Therefore, it is not a diriment impediment to contracting marriage.***
+Obj. 1: To the second question, we proceed thus.Parallels: below, d. 36, a. 1; *Quodl.* XI, q. 9, a. 2. It seems that impotence does not impede marriage from being contracted. For physical intimacy is not of the essence of marriage; since those marriages are more perfect in which the spouses take a mutual vow of continence, as was said above in Distinction 26. But impotence takes away nothing from marriage except physical intimacy. Therefore, it is not a diriment impediment to contracting marriage.  
 
 Obj. 2: Furthermore, just as extreme frigidity impedes physical intimacy, so also does extreme heat, which dries a man out. But heat is not counted among the impediments to marriage. Therefore, neither should the frigidity that causes impotence be counted as an impediment.  
 
@@ -126,7 +128,7 @@ Article 3
 
 ***Whether a curse does***
 
-***Obj. 1: To the third question, we proceed thus.Parallel: *Quodl.* XI, q. 9, a. 1. Today this is impediment is listed in canon law as relative impotence with respect to one particular person (can. 1084), and is considered under the heading of a psychological problem. It seems that a curse cannot impede marriage. For evil spells of this kind are the work of demons. But demons do not have the power of impeding the marital act any more than other bodily acts, which they cannot impede. For if this were so, the whole world could be disturbed—if eating and walking and other things like this were impeded. Therefore, marriage cannot be impeded by evil spells.***
+Obj. 1: To the third question, we proceed thus.Parallel: *Quodl.* XI, q. 9, a. 1. Today this is impediment is listed in canon law as relative impotence with respect to one particular person (can. 1084), and is considered under the heading of a psychological problem. It seems that a curse cannot impede marriage. For evil spells of this kind are the work of demons. But demons do not have the power of impeding the marital act any more than other bodily acts, which they cannot impede. For if this were so, the whole world could be disturbed—if eating and walking and other things like this were impeded. Therefore, marriage cannot be impeded by evil spells.  
 
 Obj. 2: Furthermore, the work of God is stronger than the work of the devil. But an evil spell is a work of the devil. Therefore it cannot impede marriage, which is a work of God.  
 
@@ -156,7 +158,7 @@ Article 4
 
 ***Whether insanity or mental handicap does***
 
-***Obj. 1: To the fourth question, we proceed thus. It seems that insanity does not impede marriage. For spiritual marriage, which is contracted in baptism, is nobler than physical marriage. But the insane can be baptized. Therefore, they can also marry.***
+Obj. 1: To the fourth question, we proceed thus. It seems that insanity does not impede marriage. For spiritual marriage, which is contracted in baptism, is nobler than physical marriage. But the insane can be baptized. Therefore, they can also marry.  
 
 Obj. 2: Furthermore, impotence impedes matrimony inasmuch as it impedes physical intimacy, which is not impeded by insanity. Therefore, neither is marriage.  
 
@@ -182,7 +184,7 @@ Article 5
 
 ***Whether incest does***
 
-***Obj. 1: To the fifth question, we proceed thus. It seems that the incest by which someone knows the sister of his wife does not invalidate marriage. For the woman should not be punished for the sin of the man. But she would be punished if the marriage were dissolved. Therefore, etc.***
+Obj. 1: To the fifth question, we proceed thus. It seems that the incest by which someone knows the sister of his wife does not invalidate marriage. For the woman should not be punished for the sin of the man. But she would be punished if the marriage were dissolved. Therefore, etc.  
 
 Obj. 2: Furthermore, he sins more who knows his own relative than who knows the relative of his wife. But the first sin does not impede marriage. Therefore, neither does the second.  
 
@@ -200,7 +202,7 @@ And through this the answers to the objections are evident. For incest is consid
 
 Exposition of the Text  
 
-****“Let them both remain unmarried*.”*Sententiae* IV, 34.2 (199). 3, Cf. Gratian, *Decretum*, c27 q2 d. a. c29, c33 q1 c2. This is understood when the impediment is alleged of both; otherwise, only that one should remain unmarried on whose part the impediment is brought forth.***
+*“Let them both remain unmarried*.”*Sententiae* IV, 34.2 (199). 3, Cf. Gratian, *Decretum*, c27 q2 d. a. c29, c33 q1 c2. This is understood when the impediment is alleged of both; otherwise, only that one should remain unmarried on whose part the impediment is brought forth.  
 
 *But if “the woman complains, saying: I wish to be a mother and bear children.”**Sent*. IV, 34.2 (199). 1, letter attributed to Gregory. It seems from this that by reason of sterility marriage could be dissolved. And to this it must be said, no. For in the sterile, even if marriage does not attain its aim according to what it is in the office of nature, yet it does act as a remedy through physical intimacy. And that is why here ‘bearing children’ is said in place of physical intimacy, which women are too bashful to ask for.  
 

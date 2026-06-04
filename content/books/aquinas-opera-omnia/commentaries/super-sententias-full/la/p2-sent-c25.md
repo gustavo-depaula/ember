@@ -1,8 +1,10 @@
 # D. 45 - The Will of God
 
+***De voluntate Dei***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister de scientia et omnipotentia Dei hic tertio determinat de voluntate ipsius; et dividitur in partes duas: in prima determinat de Dei voluntate; in secunda de conformitate voluntatis nostrae ad voluntatem ejus 48 distinct., ibi: *sciendum quoque est quod aliquando mala est voluntas hominis idem volentis quod Deus vult fieri*.***
+Postquam determinavit Magister de scientia et omnipotentia Dei hic tertio determinat de voluntate ipsius; et dividitur in partes duas: in prima determinat de Dei voluntate; in secunda de conformitate voluntatis nostrae ad voluntatem ejus 48 distinct., ibi: *sciendum quoque est quod aliquando mala est voluntas hominis idem volentis quod Deus vult fieri*.  
 
 Prima in duas: in prima determinat de voluntate Dei quid sit et quot modis dicatur; in secunda inquirit de efficacia ejus, 46 dist., ibi: *hic oritur quaestio*.  
 
@@ -96,7 +98,7 @@ Articulus 3
 
 ***Utrum voluntas Dei sit causa rerum***
 
-***Ad tertium sic proceditur. Videtur quod voluntati divinae non sit adscribenda rerum causalitas.***
+Ad tertium sic proceditur. Videtur quod voluntati divinae non sit adscribenda rerum causalitas.  
 
 Voluntas enim Dei est tantum bonorum. Sed omnium bonorum sufficiens causa est scientia ipsius. Ergo non oportet voluntatem Dei causam rerum ponere.  
 
@@ -130,7 +132,7 @@ Articulus 4
 
 ***Utrum voluntas Dei distinguatur in voluntatem beneplaciti et voluntatem signi***
 
-***Ad quartum sic proceditur. Videtur quod distinctio voluntatis in littera posita sit incompetens.***
+Ad quartum sic proceditur. Videtur quod distinctio voluntatis in littera posita sit incompetens.  
 
 Sicut enim voluntas Dei se habet ad plura, ita et scientia ejus. Sed scientiae non assignantur diversa signa. Ergo videtur quod nec voluntati assignari debeant: cum etiam utrumque occultum sit aequaliter.  
 
@@ -166,6 +168,6 @@ Ad quintum dicendum, quod voluntas divina, quamvis sit plurium volitorum, non ta
 
 Expositio textus  
 
-****Ideoque placuit vanitati philosophorum etiam causis aliis ea attribuere*. Hoc dicit quantum ad illos qui causam agentem negabant, et ponebant mundum factum esse casu, et quod omnia procederent ex necessitate materiae;Parma: *naturae*. vel quantum ad illos qui ponunt Deum non immediate operari in omnibus, sed in uno tantum, quod est primum creatum.***
+*Ideoque placuit vanitati philosophorum etiam causis aliis ea attribuere*. Hoc dicit quantum ad illos qui causam agentem negabant, et ponebant mundum factum esse casu, et quod omnia procederent ex necessitate materiae;Parma: *naturae*. vel quantum ad illos qui ponunt Deum non immediate operari in omnibus, sed in uno tantum, quod est primum creatum.  
 
 *Itaque non nisi Dei voluntas causa prima est sanitatis et aegritudinis, praemiorum atque poenarum, gratiarum et retributionum*. Per hoc non excluduntur aliae causae a causalitate, sed ab hoc quod est esse primam causam.

@@ -1,6 +1,8 @@
 # D. 9 - What belongs to the human nature on account of the union
 
-****Praeterea investigari oportet etc.* Postquam determinavit Magister quid conveniat divinae naturae ex unione ad humanam, hic determinat quid conveniat humanae ex unione ad divinam, quod scilicet adoratur adoratione latriae.***
+***Divisio textus***
+
+*Praeterea investigari oportet etc.* Postquam determinavit Magister quid conveniat divinae naturae ex unione ad humanam, hic determinat quid conveniat humanae ex unione ad divinam, quod scilicet adoratur adoratione latriae.  
 
 Dividitur autem haec pars in duas partes.  
 
@@ -60,7 +62,7 @@ Praeterea, omnis actus qui cadit in praecepto legis, est actus virtutis; quia in
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod sit virtus generalis. Augustinus enim dicit, 10 *De civ. Dei*: *verum sacrificium est omne opus quod geritur, ut sancta societate Deo jungamur*. Sed hujusmodi est omne opus virtutis. Ergo omne opus virtutis est verum sacrificium. Sed sacrificium Deo offerre proprie pertinet ad latriam. Ergo ad ipsam pertinent omnes actus virtutum. Et sic ipsa est virtus generalis.***
+Ulterius, videtur quod sit virtus generalis. Augustinus enim dicit, 10 *De civ. Dei*: *verum sacrificium est omne opus quod geritur, ut sancta societate Deo jungamur*. Sed hujusmodi est omne opus virtutis. Ergo omne opus virtutis est verum sacrificium. Sed sacrificium Deo offerre proprie pertinet ad latriam. Ergo ad ipsam pertinent omnes actus virtutum. Et sic ipsa est virtus generalis.  
 
 Praeterea, per omne opus virtutis Deo servitur, Luc. 17:10: *sic et vos, cum omnia bona feceritis quae praecepta sunt vobis, dicite: servi inutiles sumus*. Sed latria est servitus Deo debita. Ergo omne opus virtutum pertinet ad latriam. Et sic idem quod prius.  
 
@@ -72,7 +74,7 @@ Praeterea, vitio speciali opponitur virtus specialis. Unde Philosophus, 5 *Eth*.
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod sit virtus theologica. Augustinus enim dicit in lib. *Enchir.*: *si quaeratur quomodo colitur Deus, respondetur: fide, spe et caritate*. Sed latria dicitur cultus Dei, ut ex littera habetur. Ergo latria est fides, spes et caritas quae sunt virtutes theologicae.***
+Ulterius, videtur quod sit virtus theologica. Augustinus enim dicit in lib. *Enchir.*: *si quaeratur quomodo colitur Deus, respondetur: fide, spe et caritate*. Sed latria dicitur cultus Dei, ut ex littera habetur. Ergo latria est fides, spes et caritas quae sunt virtutes theologicae.  
 
 Praeterea, virtus theologica diciturEd. read *est*. quae habet Deum pro objecto, sicut fides qua creditur Deus; et sic de aliis. Sed latria habet Deum pro objecto, quia ea colitur. Ergo latria est virtus theologica.  
 
@@ -82,7 +84,7 @@ Sed contra, nulla virtus theologica habet actum exteriorem. Sed latriae actus es
 
 Quaestiuncula 4  
 
-***Ulterius, quaeritur ad quam virtutum cardinalium reducatur. Et videtur quod non ad justitiam, de qua magis videtur. Justitia enim secundum quod est specialis virtus una de quatuor cardinalibus, consistit, secundum Philosophum, 5 *Eth*. in communicatione activae vitae. Sed in praesenti vita non est nobis communicatio cum Deo. Unde dicitur Danielis 2:11: *exceptis diis, quorum non est cum hominibus conversatio*. Ergo non potest nobis esseDue to homeoteleuton, several words are missing in the Vivès edition: *ergo non potest esse species justitiae*. justitia ad Deum, sed latriam Deo exhibemus. Ergo non est species justitiae.***
+Ulterius, quaeritur ad quam virtutum cardinalium reducatur. Et videtur quod non ad justitiam, de qua magis videtur. Justitia enim secundum quod est specialis virtus una de quatuor cardinalibus, consistit, secundum Philosophum, 5 *Eth*. in communicatione activae vitae. Sed in praesenti vita non est nobis communicatio cum Deo. Unde dicitur Danielis 2:11: *exceptis diis, quorum non est cum hominibus conversatio*. Ergo non potest nobis esseDue to homeoteleuton, several words are missing in the Vivès edition: *ergo non potest esse species justitiae*. justitia ad Deum, sed latriam Deo exhibemus. Ergo non est species justitiae.  
 
 Praeterea, secundum Philosophum, in 5 *Eth.* non est justitia proprie dicta inter dominum et servum sicut nec alicujus ad se: quia servus quod est et quod habet, domini est; similiter nec patris ad filium, qui est quasi pars ejus. Sed nos habemus nos ad Deum sicut servi ad dominum, et filii ad patrem. Ergo non est justitia nostri ad Deum. Et ita latria non est pars justitiae.  
 
@@ -94,7 +96,7 @@ Praeterea, reddere debitum, est actus justitiae. Sed latria est cultus Deo debit
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod quando aliquid commune in multis invenitur, si in aliquo eorum secundum specialem modum inveniatur, habet etiam nomen speciale; sicut nasus curvus dicitur simus.***
+Respondeo dicendum ad primam quaestionem quod quando aliquid commune in multis invenitur, si in aliquo eorum secundum specialem modum inveniatur, habet etiam nomen speciale; sicut nasus curvus dicitur simus.  
 
 Similiter cum obsequium diversis possit exhiberi, speciali quodam et supremo modo Deo debetur, quia in eo est suprema ratio majestatis et dominii. Et ideo obsequium vel servitium quod ei debetur, speciali nomine nominatur et dicitur "latria." Hoc autem nomen tripliciter sumitur: quandoque enim pro eo quod Deo in obsequium exhibetur, sicut sacrificium, genuflexiones et hujusmodi; quandoque autem pro ipsa exhibitione; quandoque vero pro habitu quo exhibetur obsequium.  
 
@@ -110,7 +112,7 @@ Ad quartum dicendum quod pietas, secundum quodEd. read *inquantum*. donum, consi
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod aliqua virtus dicitur generalis quatuor modis. Uno modo, quia praedicatur de qualibet virtute, sicut justitia legalis quae convertitur cum virtute, et est idem subjecto, ratione differens, ut dicit Philosophus, 5 *Eth*.; et sic dicitur generalis quantum ad essentiam suam. Secundo modo dicitur generalis, inquantum ab ea dependent aliae virtutes participantes ejus actum. Et hoc modo prudentia dicitur generalis, quia ex ea omnes aliae virtutes morales rectitudinem electionis participant, et sic ejus actus immiscetur actibus omnium aliarum virtutum. Nihilominus ipsa in se est specialis secundum quod habet specialem rationem objecti, scilicet eligibile ad opus. Tertio modo dicitur generalis, inquantum operatur circa actus omnium virtutum, ita quod omnes cedunt ei pro materia; sicut magnanimitas quae operatur magna in omnibus virtutibus, ut dicitur in 4 *Eth*., est tamen in se specialis virtus,Ed. read *et tamen in se specialis virtus est*. quia rationem specialem objecti in omnibus attendit, scilicet dignum magno honore. Quarto dicitur aliqua virtus generalis, inquantum ad eam concurrunt diversae virtutes, quia scilicet actus ejus praeexigit actus multarum virtutum; sicut etiam ad magnanimitatem praeexiguntur aliae virtutes, quia nullus potest se dignificareEd. read *dignificari*. magnis nisi virtuosus sit.***
+Ad secundam quaestionem dicendum quod aliqua virtus dicitur generalis quatuor modis. Uno modo, quia praedicatur de qualibet virtute, sicut justitia legalis quae convertitur cum virtute, et est idem subjecto, ratione differens, ut dicit Philosophus, 5 *Eth*.; et sic dicitur generalis quantum ad essentiam suam. Secundo modo dicitur generalis, inquantum ab ea dependent aliae virtutes participantes ejus actum. Et hoc modo prudentia dicitur generalis, quia ex ea omnes aliae virtutes morales rectitudinem electionis participant, et sic ejus actus immiscetur actibus omnium aliarum virtutum. Nihilominus ipsa in se est specialis secundum quod habet specialem rationem objecti, scilicet eligibile ad opus. Tertio modo dicitur generalis, inquantum operatur circa actus omnium virtutum, ita quod omnes cedunt ei pro materia; sicut magnanimitas quae operatur magna in omnibus virtutibus, ut dicitur in 4 *Eth*., est tamen in se specialis virtus,Ed. read *et tamen in se specialis virtus est*. quia rationem specialem objecti in omnibus attendit, scilicet dignum magno honore. Quarto dicitur aliqua virtus generalis, inquantum ad eam concurrunt diversae virtutes, quia scilicet actus ejus praeexigit actus multarum virtutum; sicut etiam ad magnanimitatem praeexiguntur aliae virtutes, quia nullus potest se dignificareEd. read *dignificari*. magnis nisi virtuosus sit.  
 
 Prima ergo generalitas est quasi universalis; secunda quasi causae dantis esse; tertia quasi moventis per imperium; quarta quasi totius integralis comprehendentis multa.  
 
@@ -124,7 +126,7 @@ Ad tertium dicendum quod secundum quod actus aliarum virtutum in gloriam Dei fiu
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod virtutes theologicae dicuntur proprie illae quae habent Deum pro objecto et fine. Unde nulla virtus theologica habet actum circa rem creatam proprie loquendo: caritas enim nihil in homine diligit nisi Deum. Objectum autem circa quod agit latria est id quod reddit Deo in recognitionem servitutis, quod non est Deus. Unde non est virtus theologica, sed ad cardinales reducitur.***
+Ad tertiam quaestionem dicendum quod virtutes theologicae dicuntur proprie illae quae habent Deum pro objecto et fine. Unde nulla virtus theologica habet actum circa rem creatam proprie loquendo: caritas enim nihil in homine diligit nisi Deum. Objectum autem circa quod agit latria est id quod reddit Deo in recognitionem servitutis, quod non est Deus. Unde non est virtus theologica, sed ad cardinales reducitur.  
 
 Ad primum ergo dicendum quod dicitur Deus coli fide, spe et caritate, non quasi cultus his virtutibus eliciatur, sed quia dictae virtutes ordinant ad cultum, vel etiam quia actus dictarum virtutum materialiter cedunt in cultum modo praedicto.  
 
@@ -134,7 +136,7 @@ Ad tertium dicendum quod superfluum et diminutum, inter quae mediatThe Vivès ed
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod secundum Philosophum, 5 *Eth*. justitia, secundum quod est specialis virtus, consistit in bonis quibus homines sibi invicem communicant in vita ista, sicutEd. add *sunt*. pecunia, honores et hujusmodi, secundum quod unus alteriEd. add *hujusmodi*. communicare potest: in quibus judex secundum legem aequalitatem constituit, ut unusquisque habeat quod sibi debetur, non plus etEd. read *nec*. minus. Et in hacBruges manuscript adds *quoque*. aequalitate consistit justitia. Unde justitia sic accepta, ut ipse dicit, non est nisi in illis qui nati sunt regulari eadem lege, et sub eodem principe esse, et aequaliter principari. Unde secundum ipsum, talis justitia non est domini ad servum, nec patris ad filium; quia servus et filius res eorum sunt. Unde non est ad eos justitia, sicut nec ad seipsum; tamen est ibi quidam modus justitiae, secundum quod dominus reddit servo quod sibi debetur, vel e converso: quod appellatur dominatumBrussels manuscript reads *dominativum*. justum. Et hoc modo se habet ad justitiam latria, quia consistit in hoc quod redditurEd. read *reddit*. Deo quod sibi debetur. Unde reducitur ad justitiam non quasi species ad genus, sed sicut virtus annexa ad principalem, quae participat modum principalis.***
+Ad quartam quaestionem dicendum quod secundum Philosophum, 5 *Eth*. justitia, secundum quod est specialis virtus, consistit in bonis quibus homines sibi invicem communicant in vita ista, sicutEd. add *sunt*. pecunia, honores et hujusmodi, secundum quod unus alteriEd. add *hujusmodi*. communicare potest: in quibus judex secundum legem aequalitatem constituit, ut unusquisque habeat quod sibi debetur, non plus etEd. read *nec*. minus. Et in hacBruges manuscript adds *quoque*. aequalitate consistit justitia. Unde justitia sic accepta, ut ipse dicit, non est nisi in illis qui nati sunt regulari eadem lege, et sub eodem principe esse, et aequaliter principari. Unde secundum ipsum, talis justitia non est domini ad servum, nec patris ad filium; quia servus et filius res eorum sunt. Unde non est ad eos justitia, sicut nec ad seipsum; tamen est ibi quidam modus justitiae, secundum quod dominus reddit servo quod sibi debetur, vel e converso: quod appellatur dominatumBrussels manuscript reads *dominativum*. justum. Et hoc modo se habet ad justitiam latria, quia consistit in hoc quod redditurEd. read *reddit*. Deo quod sibi debetur. Unde reducitur ad justitiam non quasi species ad genus, sed sicut virtus annexa ad principalem, quae participat modum principalis.  
 
 Et per hoc patet responsio ad duo prima quae secundum istam viam procedunt.  
 
@@ -146,7 +148,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod humanitati Christi non sit latria exhibenda.***
+Ad secundum sic proceditur. Videtur quod humanitati Christi non sit latria exhibenda.  
 
 Dicitur enim in Glossa super illud Ps. 98:5: *adorate scabellum pedum ejus: caro Christi non est adoranda illa adoratione latriae, quae soli Deo debetur*.  
 
@@ -174,7 +176,7 @@ Praeterea, Basilius dicit quod *honor imaginis ad prototypum refertur*, id est a
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod Beatae Virgini sit latria exhibenda. Quia Damascenus dicit quod *honor matris refertur ad filium*. Si ergo Filius latria est adorandus, similiter et mater.***
+Ulterius, videtur quod Beatae Virgini sit latria exhibenda. Quia Damascenus dicit quod *honor matris refertur ad filium*. Si ergo Filius latria est adorandus, similiter et mater.  
 
 Praeterea, de ipsa cantatur: *secumque faciet matrem participem Patris imperii.* Et ab omnibus dicitur Domina mundi et Regina angelorum. Sed Deo exhibetur latria, inquantum est Dominus et Rex. Ergo et Virgini Matri oportet latriam exhiberi.  
 
@@ -186,7 +188,7 @@ Praeterea, ipsa adorat Deum latria. Sed non est ejusdem latriam exhibere et reci
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod non sit exhibenda cruci. Sicut enim secundum humanitatem passus est in cruce, ita secundum divinitatem caelum est sedes ejus. Sed caelum propter hoc non est adorandum latria. Ergo multo minus crux, cum latria debeatur Christo ratione divinitatis, non ratione humanitatis.***
+Ulterius, videtur quod non sit exhibenda cruci. Sicut enim secundum humanitatem passus est in cruce, ita secundum divinitatem caelum est sedes ejus. Sed caelum propter hoc non est adorandum latria. Ergo multo minus crux, cum latria debeatur Christo ratione divinitatis, non ratione humanitatis.  
 
 Praeterea, res inanimata indignior est homine. Sed honor latriae non est exhibendus ab homine nisi ei qui est supra hominem. Ergo crux non debet latria adorari.  
 
@@ -198,7 +200,7 @@ Praeterea, crux est imago Christi crucifixi. Sed imagoEd. add *crucifixi*. Chris
 
 Quaestiuncula 5  
 
-***Ulterius, quaeritur utrum viris sanctis sit exhibendus honor latriae, et videtur quod sic. Quia latria exhibetur Deo ratione divinitatis. Sed sancti participatione dicuntur dii. Ergo eis debet latria exhiberi.***
+Ulterius, quaeritur utrum viris sanctis sit exhibendus honor latriae, et videtur quod sic. Quia latria exhibetur Deo ratione divinitatis. Sed sancti participatione dicuntur dii. Ergo eis debet latria exhiberi.  
 
 Praeterea, imago impressa divinitus est nobilior quam quae facta est humanitus. Sed imagines Dei quas homo fecit, adorantur latria. Ergo multo fortius viri sancti, in quibus Deus suam imaginem impressit et reformavit.  
 
@@ -208,7 +210,7 @@ Sed contra, est quod legitur Act. 14:10–18 de Paulo et Barnaba, qui prohibueru
 
 Quaestiuncula 6  
 
-***Ulterius, videtur quod sine peccato alicui creaturae possit latria exhiberi. Legitur enim Apoc. ult.:8–9, quod Joannes voluit angelum adorare et prohibitus est ab eo. Non autem prohibuisset, si eum dulia adorare voluisset, quia haec angelis sanctis debetur. Ergo volebat eum adorare latria. Et ita hoc potest fieri sine peccato, ut videtur.***
+Ulterius, videtur quod sine peccato alicui creaturae possit latria exhiberi. Legitur enim Apoc. ult.:8–9, quod Joannes voluit angelum adorare et prohibitus est ab eo. Non autem prohibuisset, si eum dulia adorare voluisset, quia haec angelis sanctis debetur. Ergo volebat eum adorare latria. Et ita hoc potest fieri sine peccato, ut videtur.  
 
 Praeterea, opus secundum intentionem judicatur. Sed aliquis adorans angelum qui in forma Christi apparet, habet intentionem bonam, credens ipsum esse Christum. Ergo adorando non peccat.  
 
@@ -218,7 +220,7 @@ Sed contra, si aliquis hoc quod debet temporali domino in recognitionem dominii,
 
 Quaestiuncula 7  
 
-***Ulterius, videtur quod si creaturae exhibeatur, univoce dicatur cum ea quae exhibetur Deo. Materia enim non diversificat speciem. Sed cultus exhibitus Deo et creaturae non differt, ut videtur, nisi materialiter. Ergo non differt secundum speciem, et ita dicitur univoce.***
+Ulterius, videtur quod si creaturae exhibeatur, univoce dicatur cum ea quae exhibetur Deo. Materia enim non diversificat speciem. Sed cultus exhibitus Deo et creaturae non differt, ut videtur, nisi materialiter. Ergo non differt secundum speciem, et ita dicitur univoce.  
 
 Praeterea, univoce dicitur beatitudo, quamvis a quibusdam quaeratur ubi est, scilicet in Deo, a quibusdam ubi non est, scilicetPLE: *sicut*. in divitiis. ErgoEd. read *igitur*. similiter latria dicetur univoce, sive exhibeatur cui est exhibenda, sive cui non est exhibenda.  
 
@@ -230,7 +232,7 @@ Praeterea, Deus non univoce dicitur de Deo vero et idolo. Sed uterque movetur ex
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod duplex est modus quo aliquid honoratur: honoratur enim aliquid ratione sui, et ratione alterius.***
+Respondeo dicendum ad primam quaestionem quod duplex est modus quo aliquid honoratur: honoratur enim aliquid ratione sui, et ratione alterius.  
 
 Secundum Philosophum enim in 1 *Eth.,* laus et honor in hoc differunt quod laus debetur alicui propter bonitatem quam habet ex ordine ad alterum, ut quando facit actum congruentem fini; honor autem debetur alicui propter bonitatem quam habet secundum se. Unde, secundum ipsum, laus debetur homini propter actus virtutum qui ordinantur ad felicitatem; honor autem debetur Deo et divinis. Unde sicut laus non debetur nisi actui, vel agenti qui est dominus actus, quasi per electionem agens; ita etiam nec honor, quamvis etiam honor nonThe Vivès edition omits *non*. ita debeatur actui sicut laus, sed magis agenti.  
 
@@ -248,7 +250,7 @@ Ad tertium dicendum quod quamvis creare non sit humanitatis Christi, est tamen p
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod imago potest dupliciter considerari: vel secundum quod est res quaedam, et sic nullus honor ei debetur, sicut nec alii lapidi vel ligno; vel secundum quod est imago. Et quiaBruges manuscript adds *secundum*. idem motus est in imaginem inquantum est imago, et in imaginatum; ideo unus honor debetur imagini et ei cujus est imago. Et ideo cum Christus adoretur latria, similiter et ejus imago.***
+Ad secundam quaestionem dicendum quod imago potest dupliciter considerari: vel secundum quod est res quaedam, et sic nullus honor ei debetur, sicut nec alii lapidi vel ligno; vel secundum quod est imago. Et quiaBruges manuscript adds *secundum*. idem motus est in imaginem inquantum est imago, et in imaginatum; ideo unus honor debetur imagini et ei cujus est imago. Et ideo cum Christus adoretur latria, similiter et ejus imago.  
 
 Ad primum ergo dicendum quod ante Incarnationem Christi, cum Deus incorporeus esset, non poterat imago poni, sicut dicitur Is. 40. Et ideo prohibitum est in Veteri Lege ne imagines fierent ad adorandum; et praecipue quia proni erant ad idolatriam ex hoc quod totus mundus idolatriae insistebat. Sed postquam Deus factus est homo, potest habere imaginem, cum habeat, ratione humanitatis assumptae quae simul cum eo adoratur, figuram corporalem. Et ideo permissum est inEd. omit *in*. Nova Lege imagines fieri.  
 
@@ -258,7 +260,7 @@ Ad tertium dicendum quod multa apostoli tradiderunt quae scripta non sunt in can
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod cum Beata Virgo sit per se quaedam persona agens, ei debetur honor per se. Unde alia adoratione adoratur quam Filius ejus. Unde non potest adorari latria, sed dulia. Quia tamen non solum honoratur ratione sui, sed etiam ratione Filii, ut Mater Dei; ideo adoraturEd. omit *adoratur*. inquantum pertinet ad Christum,Ed. add *adoratur*. hyperdulia.***
+Ad tertiam quaestionem dicendum quod cum Beata Virgo sit per se quaedam persona agens, ei debetur honor per se. Unde alia adoratione adoratur quam Filius ejus. Unde non potest adorari latria, sed dulia. Quia tamen non solum honoratur ratione sui, sed etiam ratione Filii, ut Mater Dei; ideo adoraturEd. omit *adoratur*. inquantum pertinet ad Christum,Ed. add *adoratur*. hyperdulia.  
 
 Ad primum igiturEd. omit *igitur*; the Brussels manuscript reads *ergo*. dicendum quod honor matris refertur ad Filium, non sicut ad subjectum,Ed. add *scilicet*. ut sit unus motus in matrem et in filium, sicut est in imaginibus; sed refertur in Filium sicut in finem, quia propter Filium mater honoratur.  
 
@@ -268,7 +270,7 @@ Ad tertium dicendum quod incorruptio quae opponitur incinerationi, debetur Chris
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod crux Christi, etiam ipsa in qua Christus pependit, potest dupliciter considerari. Vel inquantumBruges manuscript adds *est*. imago crucifixi; et sic adoratur eadem adoratione sicut crucifixus, scilicet latria. Unde eam alloquimur sicut crucifixum, dicentes: *o crux ave spes unica.* Vel inquantum est res quaedam; et sic cum non pertineat ad personam Verbi quasiEd. read *sicut*. pars ejus, non potest eadem adoratione adorari cum Verbo, sed adoratur inquantum est res quaedam Christi ratione ipsius, hyperdulia. Sed aliae cruces non adorantur nisi ut imago; et ideo adorantur tantum latria.Bruges manuscript reads *dulia*.***
+Ad quartam quaestionem dicendum quod crux Christi, etiam ipsa in qua Christus pependit, potest dupliciter considerari. Vel inquantumBruges manuscript adds *est*. imago crucifixi; et sic adoratur eadem adoratione sicut crucifixus, scilicet latria. Unde eam alloquimur sicut crucifixum, dicentes: *o crux ave spes unica.* Vel inquantum est res quaedam; et sic cum non pertineat ad personam Verbi quasiEd. read *sicut*. pars ejus, non potest eadem adoratione adorari cum Verbo, sed adoratur inquantum est res quaedam Christi ratione ipsius, hyperdulia. Sed aliae cruces non adorantur nisi ut imago; et ideo adorantur tantum latria.Bruges manuscript reads *dulia*.  
 
 Ad primum ergo dicendum quod quamvis caelum sit sedes Dei, non tamen unitum est Deo in persona, sicut caro Christi. Unde caelum nec latria nec hyperdulia honoratur nec etiam dulia, cum non sit res viva. Sed humanitas Christi vel latria vel hyperdulia adoratur; et similiter ea quae ad humanitatem Christi referuntur, ut crux et vestis et hujusmodi.  
 
@@ -278,7 +280,7 @@ Ad tertium dicendum quod si consideretur honor qui exhibetur cruci inquantum est
 
 Solutio 5  
 
-***Ad quintam quaestionem dicendum quod Deus est principium et finis omnium. Et inquantum est principium,PLE: *principium primum*. adoramus eum latria; inquantum vero finis ultimus, fruimur eo. In redeundo autem ad ipsum juvamur per alias creaturas rationales, scilicet homines et angelos. Et ideo, quamvis solo Deo fruendum sit, tamen possumus frui homine in Deo, sicut dicit Apostolus, Rom. 15, et Augustinus. Sed in exeundo ab ipso sicut a principio creante, non juvamur per aliquam creaturam, quia immediate creavit nos. Et ideo honor latriae est sibi soli exhibendus, non alicui in ipso, quantumcumque sit in participatione suae bonitatis, nisi honoretur uno honore cum ipso,Ed. read *eo*. sicut caro Christi et imagines.***
+Ad quintam quaestionem dicendum quod Deus est principium et finis omnium. Et inquantum est principium,PLE: *principium primum*. adoramus eum latria; inquantum vero finis ultimus, fruimur eo. In redeundo autem ad ipsum juvamur per alias creaturas rationales, scilicet homines et angelos. Et ideo, quamvis solo Deo fruendum sit, tamen possumus frui homine in Deo, sicut dicit Apostolus, Rom. 15, et Augustinus. Sed in exeundo ab ipso sicut a principio creante, non juvamur per aliquam creaturam, quia immediate creavit nos. Et ideo honor latriae est sibi soli exhibendus, non alicui in ipso, quantumcumque sit in participatione suae bonitatis, nisi honoretur uno honore cum ipso,Ed. read *eo*. sicut caro Christi et imagines.  
 
 Ad primum ergo dicendum quod viri sanctiBruges and Brussels manuscripts omit *viri sancti*. per participationem illam non efficiuntur primum principium nostri esse, et ideo non debetur eis latria.  
 
@@ -288,7 +290,7 @@ Ad tertium dicendum quod angeli illiBruges manuscript reads *isti*. non apparuer
 
 Solutio 6  
 
-***Ad sextam quaestionem dicendum quod cum creaturae non sit exhibenda latria, si exhibetur ei, est exhiberi eam cui non est exhibenda. Et hoc facit vitium contrarium latriae sicut superfluum medio. Unde sine peccato fieri non potest.***
+Ad sextam quaestionem dicendum quod cum creaturae non sit exhibenda latria, si exhibetur ei, est exhiberi eam cui non est exhibenda. Et hoc facit vitium contrarium latriae sicut superfluum medio. Unde sine peccato fieri non potest.  
 
 Ad primum ergo dicendum quod Joannes volebat angelum adorare dulia, sed prohibitus fuit propter tria.—Primo ad ostendendum dignitatem ipsius Joannis, qui multis angelis dignior fuit.—Secundo ad evitandum speciem idololatriae.—Tertio ad ostendendum exaltationem humanae naturae super angelos in homine assumpto.  
 
@@ -298,7 +300,7 @@ Ad tertium dicendum quod non potest diabolusPLE: *angelus*. in specie Christi ap
 
 Solutio 7  
 
-***Ad septimam quaestionem dicendum quod quandocumque aliquod nomen imponitur alicui actui vel accidenti secundum quod determinatur ad aliquod unum, non potest dici de alio nisi improprie vel metaphorice. Sicut simitas imponitur curvitati nasi. Unde non potest dici quod crux sit simum, vel lignum quod est curvum, nisi metaphorice. Similiter cum latria sit nomen impositum servituti divinae, non potest quaecumque alia servitus alteri exhibita dici latria nisi improprie vel metaphorice. Unde latria non dicitur univoce de cultu Dei veri et de idololatria.***
+Ad septimam quaestionem dicendum quod quandocumque aliquod nomen imponitur alicui actui vel accidenti secundum quod determinatur ad aliquod unum, non potest dici de alio nisi improprie vel metaphorice. Sicut simitas imponitur curvitati nasi. Unde non potest dici quod crux sit simum, vel lignum quod est curvum, nisi metaphorice. Similiter cum latria sit nomen impositum servituti divinae, non potest quaecumque alia servitus alteri exhibita dici latria nisi improprie vel metaphorice. Unde latria non dicitur univoce de cultu Dei veri et de idololatria.  
 
 Ad primum ergo dicendum quod materia quae includitur in ratione speciei, bene diversificat speciem et impedit univocationem; sicut patet in exemplo posito de curvitate nasi. Et ita est in proposito.  
 
@@ -322,7 +324,7 @@ Item, videtur quod ratione bonitatis. Quia latriam ei exhibemus, inquantum ab ip
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod alia latria debeatur Patri et alia Filio. Latriam enim dirigit fides. Sed fides alium articulum habet de Patre et alium de Filio. Ergo alia et aliaEd. omit *et alia*. latria est utrique exhibenda.***
+Ulterius, videtur quod alia latria debeatur Patri et alia Filio. Latriam enim dirigit fides. Sed fides alium articulum habet de Patre et alium de Filio. Ergo alia et aliaEd. omit *et alia*. latria est utrique exhibenda.  
 
 Praeterea, honor, ut dictum est, debetur personae agenti. Sed Pater et Filius sunt duae personae. Ergo duplex honor eis debetur.  
 
@@ -332,7 +334,7 @@ Sed contra, remota distinctione personarum, adhuc debetur Deo latria. Ergo debet
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non debeat eiEd. read *Deo*. exhiberi latria secundum aliquos corporales ritus. Sicut enim dicit Apostolus ad Galat. 4:1–3, homines in Veteri Lege sub elementis hujus mundi servientes, erant quasi pueri sub paedagogo positi. Sed, sicut ipse dicit, veniente plenitudine temporis jam non sumus sub paedagogo. Ergo non debemus Deo latriam exhibere secundum corporales actus.***
+Ulterius, videtur quod non debeat eiEd. read *Deo*. exhiberi latria secundum aliquos corporales ritus. Sicut enim dicit Apostolus ad Galat. 4:1–3, homines in Veteri Lege sub elementis hujus mundi servientes, erant quasi pueri sub paedagogo positi. Sed, sicut ipse dicit, veniente plenitudine temporis jam non sumus sub paedagogo. Ergo non debemus Deo latriam exhibere secundum corporales actus.  
 
 Praeterea, Joan. 4:24, dicitur: *spiritus est Deus; et eos qui adorant eum, in spiritu et veritate adorare oportet*. Ergo non oportet quod eum colamusEd. read *adoremus*. corporalibus actibus, vel genuflectendoBruges manuscript reads *genua flectendo*. vel cantando.  
 
@@ -342,13 +344,13 @@ Sed contra, nos et spiritum et corpus habemus a Deo. SedEd. read *Et*. secundum 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod latria profitetur servitutem quam debemus Deo, quia fecit nos. Unde debetur sibi latria inquantum Creator, secundum quod ipse est finis et origo prima nostri esse. Et hoc est quod dicit Glossa super illud Ps. 7:2: *Domine Deus meus, in te speravi: Deus per creationem, cui debetur latria*. Et quia ipse Creator est, inquantum bonus, sapiens et potens et secundum omnia hujusmodi; ideo ratione omnium debetur sibi latria, et non secundum unum horum tantum.***
+Respondeo dicendum ad primam quaestionem quod latria profitetur servitutem quam debemus Deo, quia fecit nos. Unde debetur sibi latria inquantum Creator, secundum quod ipse est finis et origo prima nostri esse. Et hoc est quod dicit Glossa super illud Ps. 7:2: *Domine Deus meus, in te speravi: Deus per creationem, cui debetur latria*. Et quia ipse Creator est, inquantum bonus, sapiens et potens et secundum omnia hujusmodi; ideo ratione omnium debetur sibi latria, et non secundum unum horum tantum.  
 
 Unde patet responsio ad objecta.  
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod quia Pater et Filius et Spiritus Sanctus sunt unus Creator, ideo debetur eis una latria, cum Deo debeatur latria inquantum Creator.***
+Ad secundam quaestionem dicendum quod quia Pater et Filius et Spiritus Sanctus sunt unus Creator, ideo debetur eis una latria, cum Deo debeatur latria inquantum Creator.  
 
 Ad primum ergo dicendum quod fides debetur Deo, inquantum est res cogitabilis. Et quia quaecumque secundum rem distinguuntur, possunt seorsim cogitari, sed non convertitur;Bruges manuscript adds *et*. ideo tres personae quae sunt tres res,Ed. add *diversae*. diversos articulos fidei habent. Sed omnes tres personae sunt unus Creator; unde et una latria eis debetur.  
 
@@ -358,7 +360,7 @@ Ad tertium dicendum quod quamvis duae naturae sint distinctae secundum se, tamen
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod in nobis est triplex bonum: scilicet spirituale, corporale et extrinsecum. Et quia haec omnia in nobis a Deo sunt, ideo secundum omnia debemus Deo latriam exhibere. Et secundum spiritum exhibemus ei debitam dilectionem; secundum corpus autemEd. omit *autem*. prostrationes et cantus; secundum exteriora autem, sacrificia, luminaria et hujusmodi: quae Deo non propter ejus indigentiam exhibemus, sed in recognitionem quod omnia ab ipso habemus.Bruges manuscript reads *debemus habere*. Et sicut ex omnibus eum recognoscimus, ita etiam ex omnibus eum honoramus.***
+Ad tertiam quaestionem dicendum quod in nobis est triplex bonum: scilicet spirituale, corporale et extrinsecum. Et quia haec omnia in nobis a Deo sunt, ideo secundum omnia debemus Deo latriam exhibere. Et secundum spiritum exhibemus ei debitam dilectionem; secundum corpus autemEd. omit *autem*. prostrationes et cantus; secundum exteriora autem, sacrificia, luminaria et hujusmodi: quae Deo non propter ejus indigentiam exhibemus, sed in recognitionem quod omnia ab ipso habemus.Bruges manuscript reads *debemus habere*. Et sicut ex omnibus eum recognoscimus, ita etiam ex omnibus eum honoramus.  
 
 Ad primum ergo dicendum quod corporalia erant in Veteri Lege pure corporalia, quia gratiam non continebant; erant tamen signa spiritualium. Sed corporalia quae nos Deo exhibemus non sunt pure corporalia; sed sunt sacramenta continentia gratiam et sacramentalia. Unde non est simile de Nova et Veteri observantia.  
 
@@ -472,7 +474,7 @@ Ad septimum dicendum quod sanctis non servimus quasi obnoxii eis, sed servitute 
 
 Expositio textus  
 
-****In dilectione, sacrificii exhibitione et reverentia*. "Dilectio" refertur ad honorem interiorem Deo exhibitum; "sacrificia" ad bona exteriora quae in ejus honorem assumuntur; "reverentia," secundum quod corpus nostrum ei in obsequium damus, sicut in prostrationibus et hujusmodi.***
+*In dilectione, sacrificii exhibitione et reverentia*. "Dilectio" refertur ad honorem interiorem Deo exhibitum; "sacrificia" ad bona exteriora quae in ejus honorem assumuntur; "reverentia," secundum quod corpus nostrum ei in obsequium damus, sicut in prostrationibus et hujusmodi.  
 
 *Una adoratione cum incontaminata carne ejus. etc*. Ergo videtur quod Filius sit magis adorandus quam Pater velEd. add *quam*. ipsemet ante Incarnationem. EtEd. omit *Et*. dicendum quod humanitas ejus non adoratur latria nisi propter divinitatem:Ed. add *et*. ideo non facit ipsum magis adorabilem, sed plura in ipso adorari; quia hoc quod additur, ut supra dictum est, non additur ad bonitatem divinam.  
 

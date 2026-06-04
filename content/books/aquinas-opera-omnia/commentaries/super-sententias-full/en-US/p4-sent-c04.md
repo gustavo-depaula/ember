@@ -1,8 +1,10 @@
 # D. 24 - Natural power of man in his original state
 
+***Natural power of man in his original state***
+
 ***Division of the first part of the text***
 
-***After addressing the knowledge that man had in the first state, here he begins to address the natural power through which he could have avoided sin. This is divided into two parts.***
+After addressing the knowledge that man had in the first state, here he begins to address the natural power through which he could have avoided sin. This is divided into two parts.  
 
 In the first part, he shows that man had a natural power whereby he was able to avoid sin.  
 
@@ -68,7 +70,7 @@ Article 1
 
 ***Whether free decision is a habit***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.83.2; *On Truth*, q. 24, a. 4. It seems that free decision is a habit.***
+To the first we proceed as follows.Parallel texts: *ST* I.83.2; *On Truth*, q. 24, a. 4. It seems that free decision is a habit.  
 
 Obj. 1: This is first through the fact that Bernard says that free decision *is a habit of the spirit with freedom over itself*.Bernard of Clairvaux (1090–1153 AD), *De gratia et libero arbitrio*, ch. 1 (PL 182:1002). Thus, it seems to be a habit and not a power.  
 
@@ -108,7 +110,7 @@ Article 2
 
 ***Whether free decision indicates one power or more than one***
 
-***To the second we proceed as follows. It seems that free decision indicates not a single power, but more than one.***
+To the second we proceed as follows. It seems that free decision indicates not a single power, but more than one.  
 
 Obj. 1: For Augustine says: *when we speak of free decision, we speak not of a particular part, but rather of the whole soul*.Pseudo-Augustine, *Hypognosticon*, bk. 3, ch. 5 (PL 45:1624); see also: Augustine, summary of *Contra Julianum* (*opus imperfectum*), bk. 5 (CSEL 85.2; PL 45:1431–1506), as presented in Albert the Great’s *Commentary on the Sentences*, bk. 2, d. 25, a. 1. But the totality of the soul consists in a plurality of powers. Therefore, free decision combines more than one power.  
 
@@ -146,7 +148,7 @@ Article 3
 
 ***Whether free decision is a power distinct from will and reason***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.83.4; III.18.3, 4; *On Truth*, q. 24, a. 6. It seems that free decision is a power distinct from will and reason.***
+To the third we proceed as follows.Parallel texts: *ST* I.83.4; III.18.3, 4; *On Truth*, q. 24, a. 6. It seems that free decision is a power distinct from will and reason.  
 
 Obj. 1: For the act of any given power is named after that power, as willing is named after the will and intellection after the intellect. But choosing is named after neither will nor reason. Therefore, since there is an act of free decision, it seems that free decision is a power distinguished from both.  
 
@@ -186,7 +188,7 @@ Article 4
 
 ***Whether Adam could have avoided sin through free decision in the first state***
 
-***To the fourth we proceed as follows. It seems that Adam in the first state could not have avoided sin through free decision.***
+To the fourth we proceed as follows. It seems that Adam in the first state could not have avoided sin through free decision.  
 
 Obj. 1: For, as Augustine says in *On True Innocence, even if human nature had remained in that integrity in which it was created, it would in no way have preserved itself without the help of the Creator*.Augustine, *Epistulae*, epist. 186, “Ad Paulinum,” para. 57 (CSEL 57:77; PL 33:830). But it was by God’s preservation that Adam was able to remain without sin. Therefore, it seems that he could not avoid sin through free decision.  
 
@@ -214,7 +216,7 @@ Question 2
 
 ***The powers connected to free decision***
 
-***Then a question is asked concerning the powers connected to free decision. And four questions are asked:***
+Then a question is asked concerning the powers connected to free decision. And four questions are asked:  
 
 first, what is sensuality;  
 
@@ -228,7 +230,7 @@ Article 1
 
 ***Whether the definition of sensuality set forth in the text is fitting***
 
-***To the first we proceed as follows. It seems that sensuality is unfittingly defined in the text.*Sent*. II, 24.4(143).1: *sensuality is some lower power of the soul, from which comes a motion which is directed to the senses of the body and to the appetites for things that pertain to the body*.***
+To the first we proceed as follows. It seems that sensuality is unfittingly defined in the text.*Sent*. II, 24.4(143).1: *sensuality is some lower power of the soul, from which comes a motion which is directed to the senses of the body and to the appetites for things that pertain to the body*.  
 
 Obj. 1: For sensuality differs from reason, as it says in the text.*Sent*. II, 24.4(143).1. But the lower portion of reason is a kind of power from which the appetite for things pertaining to the body proceeds. For it is intent on the administration of temporal things, as it says in the text.*Sent*. II, 24.5(144).5. Therefore, sensuality is unfittingly described through these.  
 
@@ -260,7 +262,7 @@ Article 2
 
 ***Whether higher and lower reason are a single power***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.79.9; *On Truth*, q. 15, a. 2. It seems that higher and lower reason are not a single power but instead different powers.***
+To the second we proceed as follows.Parallel texts: *ST* I.79.9; *On Truth*, q. 15, a. 2. It seems that higher and lower reason are not a single power but instead different powers.  
 
 Obj. 1: For in the parts of the soul, “higher” and “lower” in the soul are not taken with reference to location, but with reference to dignity. But among the parts of the intellective soul we find that one part has greater dignity than another. For the agent intellect is more noble than the potential, as it says in *On the Soul* 3,Aristotle, *On the Soul* 3.5, 430a19; 3.7, 432a1. and these are different powers, as was said above. Therefore, it seems that what is higher in reason and what is lower are different powers.  
 
@@ -308,7 +310,7 @@ Article 3
 
 ***Whether synderesis is a habit or a power***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.79.12; *On Truth*, q. 16, a. 1. It seems that synderesisAs Aquinas explains in *ST* I.79.12, *synderesis* is the specific habit whereby we are naturally endowed with the first principles in regard to actions. The word “synderesis” is derived from the Greek word *syneidesis* (Gk. συνείδησις), which etymologically means “knowing together” or “shared knowledge” (*syn + eide*) and is the basis for the Latin cognate *conscientia* (*con* + *scientia*), itself the source of the English word “conscience.” Although the word is not used in the Gospels, *syneidesis* frequently occurs in the letters of St. Paul. Historically speaking, it is thought that the word *synderesis*, rather than *syneidesis*, came into use due to a textual corruption in the works of St. Jerome. is a power, not a habit.***
+To the third we proceed as follows.Parallel texts: *ST* I.79.12; *On Truth*, q. 16, a. 1. It seems that synderesisAs Aquinas explains in *ST* I.79.12, *synderesis* is the specific habit whereby we are naturally endowed with the first principles in regard to actions. The word “synderesis” is derived from the Greek word *syneidesis* (Gk. συνείδησις), which etymologically means “knowing together” or “shared knowledge” (*syn + eide*) and is the basis for the Latin cognate *conscientia* (*con* + *scientia*), itself the source of the English word “conscience.” Although the word is not used in the Gospels, *syneidesis* frequently occurs in the letters of St. Paul. Historically speaking, it is thought that the word *synderesis*, rather than *syneidesis*, came into use due to a textual corruption in the works of St. Jerome. is a power, not a habit.  
 
 Obj. 1: For things that fall in the same classification seem to have a single account. But synderesis is classified alongside other powers of the soul, namely, alongside the rational, concupiscible, and irascible, as is clear from Jerome’s gloss on Ezekiel 1.Jerome, *Commentary on Ezekiel*, ch. 1 (CCSL 75; PL 25:22). Therefore, it seems that it is a power.  
 
@@ -342,7 +344,7 @@ Article 4
 
 ***Whether conscience is an act***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.79.13; *On Truth*, q. 17, a. 1. It seems that conscience is not an act.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.79.13; *On Truth*, q. 17, a. 1. It seems that conscience is not an act.  
 
 Obj. 1: For Origen saysOrigen, *Commentary on the Epistle to the Romans*, ch. 2 (PG 14:893). that conscience is the corrector of the spirit and pedagogue of the soul, given to the soul that it may be separated from evils and cling to goods. But “spirit” names either a power or even the very essence of the soul. Therefore, it seems that conscience is not an act.  
 
@@ -384,7 +386,7 @@ Reply Obj. 6: The habit from which the act of conscience originates is not a sep
 
 Exposition of the first part of the text  
 
-****But not to achieve the good*.*Sent*. II, 24.1(140).2. The first part of this text from Peter Lombard should here be supplied: *poterat quidem per illud auxilium gratiae creationis resistere malo, sed non perficere bonum*; “he was certainly able, through that help of the grace of creation, to resist evil, but not to achieve the good.” This should be understood as referring to meritorious good.***
+*But not to achieve the good*.*Sent*. II, 24.1(140).2. The first part of this text from Peter Lombard should here be supplied: *poterat quidem per illud auxilium gratiae creationis resistere malo, sed non perficere bonum*; “he was certainly able, through that help of the grace of creation, to resist evil, but not to achieve the good.” This should be understood as referring to meritorious good.  
 
 *Because there was nothing in him which might impel him to evil*.*Sent*. II, 24.1(140).7. This reason seems to be insufficient. For in Christ, too, there was nothing impelling him to evil, yet he merited by resisting evil.  
 
@@ -392,7 +394,7 @@ And it should be said, according to some, that this is not understood of just an
 
 Division of the second part of the text  
 
-****It is also not to be passed over that the order and progression of temptation is the same now in a single human person as it was then in our first parents*.*Sent*. II, 24.6(145).1. Having shown differences among the parts of the soul, here he shows how there can be sin in them. This is divided into three parts.***
+*It is also not to be passed over that the order and progression of temptation is the same now in a single human person as it was then in our first parents*.*Sent*. II, 24.6(145).1. Having shown differences among the parts of the soul, here he shows how there can be sin in them. This is divided into three parts.  
 
 In the first, he shows how there can be mortal and venial sin in each part of the soul.  
 
@@ -434,9 +436,9 @@ sixth, whether a venial sin can be a mortal sin by being multiplied or in some o
 
 Article 1  
 
-***Whether the motion of sensuality and of higher and lower reason are fittingly and sufficiently assigned in the text***
+Whether the motion of sensuality and of higher and lower reason are fittingly and sufficiently assigned in the text  
 
-***To the first we proceed thus. It seems that in the text*Sent*. II, 24.3(142)‒5(144). the motion of sensuality and of lower and higher reason are insufficiently and unfittingly distinguished.***
+To the first we proceed thus. It seems that in the text*Sent*. II, 24.3(142)‒5(144). the motion of sensuality and of lower and higher reason are insufficiently and unfittingly distinguished.  
 
 Obj. 1: For every power is naturally moved to its object. But the generative and nutritive power is a natural power. Therefore, it has a natural motion to the act of generation and nourishment. Thus, we must posit a natural motion besides the motion of sensuality and reason.  
 
@@ -476,7 +478,7 @@ Article 2
 
 ***Whether there is sin in sensuality***
 
-***To the second we proceed thus.Parallel texts: *ST* I-II.74.3; *On Truth*, q. 25, a. 5; *On Evil*, q. 7, a. 6; *Quodl*. IV, q. 11, a. 1. It seems that there cannot be sin in sensuality.***
+To the second we proceed thus.Parallel texts: *ST* I-II.74.3; *On Truth*, q. 25, a. 5; *On Evil*, q. 7, a. 6; *Quodl*. IV, q. 11, a. 1. It seems that there cannot be sin in sensuality.  
 
 Obj. 1: For sensuality is common to us and beasts, as was said above.Above: d. 24, q. 2, a. 1, obj. 2. But there is no sin in beasts in the sense we are speaking of. Therefore, neither does sin belong to us on the basis of sensuality.  
 
@@ -514,7 +516,7 @@ Article 3
 
 ***Whether there can be sin in reason***
 
-***To the third we proceed thus.Parallel text: *ST* I-II.74.5. It seems that there cannot be sin in reason.***
+To the third we proceed thus.Parallel text: *ST* I-II.74.5. It seems that there cannot be sin in reason.  
 
 Obj. 1: For “reason” is the name of the cognitive power. But sin pertains to the affect. Therefore, there is no sin in reason.  
 
@@ -552,7 +554,7 @@ Article 4
 
 ***Whether there can be mortal sin in lower reason’s delight***
 
-***To the fourth we proceed thus.Parallel text: *ST* I-II.74.6. It seems that there is not mortal sin in lower reason’s delight.***
+To the fourth we proceed thus.Parallel text: *ST* I-II.74.6. It seems that there is not mortal sin in lower reason’s delight.  
 
 Obj. 1: For one can sin mortally only if he attends to the aspect of a divine precept, since mortal sin is determined by the fact that it is contrary to the divine law. But to attend to a divine precept belongs not to lower reason but to higher reason, which takes counsel from eternal principles. Therefore, mortal sin cannot be in lower reason but only in higher reason.  
 
@@ -588,7 +590,7 @@ Article 5
 
 ***Whether there can be venial sin in higher reason***
 
-***To the fifth we proceed thus.Parallel texts: *ST* I-II.74.9; *On Truth*, q. 15, a. 5; *On Evil*, q. 7, a. 5. It seems that there cannot be venial sin in the higher part of reason.***
+To the fifth we proceed thus.Parallel texts: *ST* I-II.74.9; *On Truth*, q. 15, a. 5; *On Evil*, q. 7, a. 5. It seems that there cannot be venial sin in the higher part of reason.  
 
 Obj. 1: For higher reason can only sin by being turned away from eternal principles. But one can only be turned away from these principles through mortal sin. Therefore, in higher reason there will be no sin but mortal sin.  
 
@@ -624,7 +626,7 @@ Article 6
 
 ***Whether venial sin can become mortal***
 
-***To the sixth we proceed thus.Parallel text: *ST* I-II.88.4. It seems that venial sin can become mortal.***
+To the sixth we proceed thus.Parallel text: *ST* I-II.88.4. It seems that venial sin can become mortal.  
 
 Obj. 1: For Augustine, on 1 John, speaking of venial sins, says: *do not neglect these light sins. If you dismiss them as trivial when you weigh them out, tremble in fear when you count them up. Many light sins will make one massive sin. Many drops fill a river; many grains make a pile*.Augustine, *In Iohannis epistulam ad Parthos tractatus*, ch. 1, tract. 1 (CCSL 37; PL 35:1982). But a sin is not called “massive” unless it is mortal. Therefore, one mortal sin is made from many venial sins.  
 
@@ -670,7 +672,7 @@ Reply Obj. 8: What the Master says should be understood not as so through itself
 
 Exposition of the second part of the text  
 
-****‘And so forgiveness is also to be sought for such thoughts*.’*Sent*. II, 24.12(151).4, quoting Augustine, *On the Trinity*, bk. 12, ch. 12 (CCSL 50; PL 42:1007). It seems that this is contrary to the determination that was made previously. For beating the breast and the Our Father have the power to remit venial sin, and this is proper satisfaction for venial sins. Therefore, it seems that morose delight, about which we are speaking here, is a venial sin.***
+*‘And so forgiveness is also to be sought for such thoughts*.’*Sent*. II, 24.12(151).4, quoting Augustine, *On the Trinity*, bk. 12, ch. 12 (CCSL 50; PL 42:1007). It seems that this is contrary to the determination that was made previously. For beating the breast and the Our Father have the power to remit venial sin, and this is proper satisfaction for venial sins. Therefore, it seems that morose delight, about which we are speaking here, is a venial sin.  
 
 But it should be said that even though satisfaction of this sort is sufficient for venial sin and not for mortal sin, these have the power to remit mortal sin. Hence we should say the Our Father and strike the breast even for mortal sins.  
 

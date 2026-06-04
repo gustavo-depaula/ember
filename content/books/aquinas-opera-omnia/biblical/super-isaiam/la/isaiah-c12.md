@@ -1,5 +1,7 @@
 # Chapter 10
 
+***^10:1^ Væ qui condunt leges iniquas et scribentes injustitiam scripserunt,***
+
 > ^10:2^ ut opprimerent in judicio pauperes et vim facerent causæ humilium populi mei, ut essent viduæ præda eorum, et pupillos diriperent.
 
 > ^10:3^ Quid facietis in die visitationis et calamitatis de longe venientis? Ad cujus confugietis auxilium? Et ubi derelinquetis gloriam vestram?

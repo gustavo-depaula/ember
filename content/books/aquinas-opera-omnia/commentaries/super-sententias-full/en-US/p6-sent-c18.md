@@ -1,8 +1,10 @@
 # D. 40 - The last two precepts
 
+***The last two precepts***
+
 ***Division of the text***
 
-***Having considered the precepts of the Decalogue that look to one’s exterior deeds and speech, here the Master sets forth the two last precepts, which look to the desire of the heart.***
+Having considered the precepts of the Decalogue that look to one’s exterior deeds and speech, here the Master sets forth the two last precepts, which look to the desire of the heart.  
 
 And about this he does three things:  
 
@@ -44,7 +46,7 @@ Article 1
 
 ***Whether the two precepts about desire, or concupiscence, are fittingly assigned***
 
-***To the first we proceed thus. It appears that these two precepts are not fittingly assigned.***
+To the first we proceed thus. It appears that these two precepts are not fittingly assigned.  
 
 Obj. 1: For negative precepts are ordered to the prohibition of sins. But the sin of the heart and of deed are one thing, as was said in Book II.*In II Sent*., d. 42, q. 1, a. 1. Therefore the desire for adultery and theft should not be forbidden by a different precept than that about adultery or theft.  
 
@@ -74,7 +76,7 @@ Article 2
 
 ***Whether the Mosaic law restrains only the hand, or even the mind***
 
-***To the second we proceed as follows.Parallels: *ST* I-II.107.1, ad 2; *In Psalmos* 18. It seems that the Mosaic law ought to restrain not only the hand, but also the mind.***
+To the second we proceed as follows.Parallels: *ST* I-II.107.1, ad 2; *In Psalmos* 18. It seems that the Mosaic law ought to restrain not only the hand, but also the mind.  
 
 Obj. 1: For ordering one’s mind to virtue and holding it back from sin belong to the same thing. But the Mosaic law orders the mind to virtue, as is clear in Deuteronomy 6:5: *you shall love the Lord your God with all your heart*. Therefore it also restrains the mind from sin.  
 
@@ -112,7 +114,7 @@ Article 3
 
 ***Whether the Old Law made one just***
 
-***To the third we proceed thus.Parallels: *ST* I-II.98.1; 100.12; *Super Rom*. 2, lect. 3; 3, lect. 2; *Super Gal.* 2, lect. 4; 3, lect. 4. It appears that the Old Law justified and did not kill.***
+To the third we proceed thus.Parallels: *ST* I-II.98.1; 100.12; *Super Rom*. 2, lect. 3; 3, lect. 2; *Super Gal.* 2, lect. 4; 3, lect. 4. It appears that the Old Law justified and did not kill.  
 
 Obj. 1: For Matthew 19:17 says, *if you would enter life, keep the commandments*, and he is speaking of the commandments of the Decalogue, as is clear in the same place. But no one enters life unless he is made just. Therefore the Old Law justified, that is, made one just.  
 
@@ -150,7 +152,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallel texts: *ST* I-II.91.5; 99.6; 107.1.ad 2; *Super Rom.* 8, lect. 3; 10, lect. 1.***
+To the fourth we proceed thus.Parallel texts: *ST* I-II.91.5; 99.6; 107.1.ad 2; *Super Rom.* 8, lect. 3; 10, lect. 1.  
 
 Obj. 1: It appears that the Old Law promised not only temporal things, but also eternal things. For in the law what is promised is asserted as the reward of the law. But God promised his very self, who is the eternal good, as Abraham’s reward; this is clear in Genesis 15.A possible reference to Genesis 15:1: *fear not, Abram, I am your shield; your reward shall be very great*. Therefore it promised not only temporal things, but eternal.  
 
@@ -164,7 +166,7 @@ Furthermore, *it is not the spiritual which is first but the physical* (1 Cor 15
 
 Quaestiuncula 2  
 
-***Moreover, it appears that the Old Law does not differ from the New by their roots being in fear and love.Parallel text: *ST* I-II.107.1.ad 2. For the difference within a law does not follow from the diversity in those who observe the law, but rather vice versa. For a law is a rule and measure of those who observe it. But whether one does something from fear or love arises from diverse dispositions of those observing the law. Therefore the two laws are not distinguished in reference to this.***
+Moreover, it appears that the Old Law does not differ from the New by their roots being in fear and love.Parallel text: *ST* I-II.107.1.ad 2. For the difference within a law does not follow from the diversity in those who observe the law, but rather vice versa. For a law is a rule and measure of those who observe it. But whether one does something from fear or love arises from diverse dispositions of those observing the law. Therefore the two laws are not distinguished in reference to this.  
 
 Obj. 1: For the difference within a law does not follow from the diversity in those who observe the law, but rather vice versa. For a law is a rule and measure of those who observe it. But whether one does something from fear or love arises from diverse dispositions of those observing the law. Therefore the two laws are not distinguished in reference to this.  
 
@@ -178,7 +180,7 @@ Furthermore, *you did not receive the spirit of slavery to fall back into fear* 
 
 Quaestiuncula 3  
 
-***Moreover, it appears that the Old Law is not more burdensome than the New.Parallel texts: *ST* I-II.107.4; *Quodl*. VI, q. 8, a. 2; *Super Matth*. 11.***
+Moreover, it appears that the Old Law is not more burdensome than the New.Parallel texts: *ST* I-II.107.4; *Quodl*. VI, q. 8, a. 2; *Super Matth*. 11.  
 
 Obj. 1: For what has something additional in it contains more. But the New Law adds to the Old Law, according to Matthew 5.Matthew 5:20–48. Therefore it contains more, and so it appears to be more difficult.  
 
@@ -192,7 +194,7 @@ Furthermore, Peter says of the Old Law, *why do you make trial of God by putting
 
 Response to Quaestiuncula 1  
 
-***I answer that, according to Dionysius in the *Ecclesiastical Hierarchy*,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, n. 2 (PG 3:502). the New Law is a middle between the heavenly Church and the state of the Old Law. And therefore the eternal good, which is manifested clearly and fully in the heavenly Church, is promised manifestly in the New Law, whereas it was promised in the Old Law only under certain figures. Whence Hebrews 10:1 says, *the law has but a shadow of the good things to come*. And this was for three chief reasons. First, so that from these figures they might come to know, and become accustomed to hoping for, greater things from God. Second, so that not only their knowledge but also their affection might be led by the hand toward eternal things. Third, because eternal goods could not be shown to them immediately, as the price had not yet been paid; whence a delay of the [eternal] promises would render the promise ineffective with the weak.***
+I answer that, according to Dionysius in the *Ecclesiastical Hierarchy*,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, n. 2 (PG 3:502). the New Law is a middle between the heavenly Church and the state of the Old Law. And therefore the eternal good, which is manifested clearly and fully in the heavenly Church, is promised manifestly in the New Law, whereas it was promised in the Old Law only under certain figures. Whence Hebrews 10:1 says, *the law has but a shadow of the good things to come*. And this was for three chief reasons. First, so that from these figures they might come to know, and become accustomed to hoping for, greater things from God. Second, so that not only their knowledge but also their affection might be led by the hand toward eternal things. Third, because eternal goods could not be shown to them immediately, as the price had not yet been paid; whence a delay of the [eternal] promises would render the promise ineffective with the weak.  
 
 Reply Obj. 1: Wherever eternal things are being promised in the Old Law, this is under a certain figure and likeness of temporal things. And following this, God even establishes himself literally as Abraham’s reward, insofar as he rewards him in the multiplication of his seed and in the bestowing of Promised Land. Or it could be said that this should be understood of the promise made commonly to all under the Old Law, but not of the one that was made specifically to certain perfected men, who belonged to the New Law.  
 
@@ -202,7 +204,7 @@ Reply Obj. 3: Just as doing something from fear of punishment is against the not
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that from the very mode of their law-giving it is apparent that the Old Law is a law of fear, and the New Law a law of love. For the New Law took its beginning from a display of divine charity, since the New Covenant was consummated in the pouring out of the blood of Jesus Christ, who was the sign of the most perfect charity. However, the Old Law took its beginning in a manifestation of divine power, which inspires fear; whence too in the very giving of the law, on account of the lightning, the voice, and the thunder, terror seized those listening to the point that they said, *let not God speak to us, lest we die* (Exod 20:19).***
+To the second question, it should be said that from the very mode of their law-giving it is apparent that the Old Law is a law of fear, and the New Law a law of love. For the New Law took its beginning from a display of divine charity, since the New Covenant was consummated in the pouring out of the blood of Jesus Christ, who was the sign of the most perfect charity. However, the Old Law took its beginning in a manifestation of divine power, which inspires fear; whence too in the very giving of the law, on account of the lightning, the voice, and the thunder, terror seized those listening to the point that they said, *let not God speak to us, lest we die* (Exod 20:19).  
 
 And therefore the Old Law led men chiefly through its threat of punishments, whereas the New Law did so through blessings shown and hoped for. And this was sufficiently fitting to the state of the human race, such that first as an uncultivated people it was coerced by fear of punishment, and later it would be perfected in the good by love. For just as fear is the path to love, so the Old Law is to the New.  
 
@@ -214,7 +216,7 @@ Reply Obj. 3: Although the New Law threatens greater penalties, still the threat
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the difficult and burdensome is measured according to the strength of the one enduring it, for something is burdensome to the weak that is light to the strong. And therefore we can speak of the burden of the law and the Gospel in two ways: either as regards the heaviness of the precepts according to themselves, or through their comparison to the power of those observing them.***
+To the third question, it should be said that the difficult and burdensome is measured according to the strength of the one enduring it, for something is burdensome to the weak that is light to the strong. And therefore we can speak of the burden of the law and the Gospel in two ways: either as regards the heaviness of the precepts according to themselves, or through their comparison to the power of those observing them.  
 
 If we are speaking in the first way, then as regards number the precepts of the Old Law were more burdensome. For the Old Law draws together many precepts for ceremonial and judicial matters, whereas the New Law has only precepts regarding moral matters, ones that even the law of nature commands, and they are contained in one short phrase: the love of God and neighbor. But as regards the explication of these precepts, in this way the precepts of the New Law are in a certain way more difficult. For the power of the moral precepts is more explicit in the New Law than in the Old, and the New Law adds the counsels, although it is not coercive as regards them, and the New Law even forbids certain things that the Old Law permitted, as a concession to weakness, such as the bill of divorce, and the like.  
 
@@ -228,6 +230,6 @@ Reply Obj. 3: Just as he who is straightening a bent stick bends it in the contr
 
 Exposition of the text  
 
-****Nor his handmaid*, and so on.*Sent.* III, 40.1(162).1, quoting Exodus 20:17. Note that someone’s handmaid could be desired in two ways. In one way, as a concubine—and in this way this pertains to the sixth precept—and in another way as property—and in this way it pertains to the seventh.***
+*Nor his handmaid*, and so on.*Sent.* III, 40.1(162).1, quoting Exodus 20:17. Note that someone’s handmaid could be desired in two ways. In one way, as a concubine—and in this way this pertains to the sixth precept—and in another way as property—and in this way it pertains to the seventh.  
 
 *You have heard the ten chords of the lute*.*Sent*. III, 40.3(164).2. By the “ten chords of the lute” are understood the ten precepts of the law. For just as so great a minstrel as David, by the music of his cither and lute, expelled the evil spirit from Saul, as is said in 1 Sam 16:23, and killed a bear and a lion, as is said in 1 Sam 17:34, so too Christ, who is signified by David, striking our hearts as a lute with the ten precepts, kills the beasts of all the mortal sins in us, and perfects the virtues by which one reaches eternal life, wherein we may live with Christ through all ages of ages. Amen.

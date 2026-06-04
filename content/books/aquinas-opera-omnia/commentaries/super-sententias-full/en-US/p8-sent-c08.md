@@ -1,6 +1,8 @@
 # D. 21 - On purgatory and confession
 
-***After the Master has examined the time for penance, here he raises some questions about the things he has determined, and he resolves them. And this is divided into two parts: in the first, he raises the question about the time of penance; in the second, about the confession that is required from penitents, at: *after these matters, it should be considered*, etc.*Sententiae* IV, 21.7 (122). 1.***
+***On purgatory and confession***
+
+After the Master has examined the time for penance, here he raises some questions about the things he has determined, and he resolves them. And this is divided into two parts: in the first, he raises the question about the time of penance; in the second, about the confession that is required from penitents, at: *after these matters, it should be considered*, etc.*Sententiae* IV, 21.7 (122). 1.  
 
 The first is in three parts: in the first, he raises a question concerning the things he has determined. For he had said that time for penance is given until the end of life; and since all sins are forgiven by penance in this life, he asks whether after this life any sins can be forgiven. Second, he determines the truth according to the authority of the saints, at: *that some are remitted after this life, the Lord shows in the Gospel*.*Sent*. IV, 21.1 (116). 1. In the third, he refutes certain people’s response to the authorities, at: *but perhaps you will say that this is to be taken as regards the punishment of sin*.*Sent*. IV, 21.5 (120). 4.  
 
@@ -32,7 +34,7 @@ first, about purgatory itself;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallels: *SCG* IV, ch. 91; *Contra errores Graec.* pt. 2, ch. 40; *Compendium* 181–182; *de Rationibus fidei,* ch. 9. It seems that there is no purgatory after this life: *blessed are the dead who die in the Lord. From now on, the Spirit says that they will rest from their labors* (Rev 14:13). Therefore, there remains no purgatorial labor after this life for those who die in the Lord. Nor for those who do not die in the Lord, for they cannot be purified. Therefore, there is no purgatory after this life.***
+Obj. 1: To the first question we proceed thus.Parallels: *SCG* IV, ch. 91; *Contra errores Graec.* pt. 2, ch. 40; *Compendium* 181–182; *de Rationibus fidei,* ch. 9. It seems that there is no purgatory after this life: *blessed are the dead who die in the Lord. From now on, the Spirit says that they will rest from their labors* (Rev 14:13). Therefore, there remains no purgatorial labor after this life for those who die in the Lord. Nor for those who do not die in the Lord, for they cannot be purified. Therefore, there is no purgatory after this life.  
 
 Obj. 2: Furthermore, mortal sin is related to eternal suffering as charity is related to the eternal reward. But those who die in mortal sin are immediately carried to eternal punishment. Therefore, those who die in charity immediately go to their reward, and so they do not have any purgatory after this life.  
 
@@ -44,7 +46,7 @@ Furthermore (2), Gregory of Nyssa says: *if anyone consenting to Christ as his f
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the place where souls are purified is not the same as where the damned are punished. For the punishment of the damned is eternal, as is clear in Matthew 25:46: *these will go into everlasting fire*. But the fire of purgatory is temporal, as the Master said above. Therefore, both cannot be punished together in the same fire, and so it is necessary that there be different places.***
+Obj. 1: Moreover, it seems that the place where souls are purified is not the same as where the damned are punished. For the punishment of the damned is eternal, as is clear in Matthew 25:46: *these will go into everlasting fire*. But the fire of purgatory is temporal, as the Master said above. Therefore, both cannot be punished together in the same fire, and so it is necessary that there be different places.  
 
 Obj. 2: Furthermore, the punishment of hell is named by many names, as it says in Psalm 11(10):6: *fire, brimstone, and storms of winds*, etc. But the punishment of purgatory is only named with one name, namely, *fire*. Therefore, they are not punished in the same fire and in the same place.  
 
@@ -56,7 +58,7 @@ Furthermore (2), before the coming of Christ the holy patriarchs were in a worth
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the suffering of purgatory does not exceed all the temporal suffering of this life. For the more something is passive, the more it is afflicted, if it has the sensation of injury. But a body is more susceptible to being acted upon than a separated soul, both because it has a contrariety to the fire acting on it, and because it has matter that is susceptible to a quality acting on it, which cannot be said about a soul. Therefore, the pain that a body suffers in this world is greater than the suffering by which a soul is purified after this life.***
+Obj. 1: Moreover, it seems that the suffering of purgatory does not exceed all the temporal suffering of this life. For the more something is passive, the more it is afflicted, if it has the sensation of injury. But a body is more susceptible to being acted upon than a separated soul, both because it has a contrariety to the fire acting on it, and because it has matter that is susceptible to a quality acting on it, which cannot be said about a soul. Therefore, the pain that a body suffers in this world is greater than the suffering by which a soul is purified after this life.  
 
 Obj. 2: Furthermore, the punishment of purgatory is directly ordered against venial sin. But venial sins, since they are the lightest of sins, should have the lightest punishment, if *the number of lashes are according to the measure of the offense* (Deut 25:2). Therefore, the punishment of purgatory is very light.  
 
@@ -68,7 +70,7 @@ Furthermore (2), the more universal a punishment is, the greater it is. But the 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that that suffering is voluntary. For those who are in purgatory have upright hearts. But this is uprightness of heart, that someone conform his own will to the divine will, as Ambrose says.In fact, Prosper of Aquitaine, *de Vocatione omnium gentium*, Bk. 2, ch. 2 (PL 51:649); a newer edition is available as CSEL 97. Therefore, since God wills to punish them, they voluntarily endure that punishment.***
+Obj. 1: Moreover, it seems that that suffering is voluntary. For those who are in purgatory have upright hearts. But this is uprightness of heart, that someone conform his own will to the divine will, as Ambrose says.In fact, Prosper of Aquitaine, *de Vocatione omnium gentium*, Bk. 2, ch. 2 (PL 51:649); a newer edition is available as CSEL 97. Therefore, since God wills to punish them, they voluntarily endure that punishment.  
 
 Obj. 2: Furthermore, every wise person wills whatever is necessary for attaining his intended end. But those who are in purgatory know that they cannot attain to glory unless they are first punished. Therefore, they will to be punished.  
 
@@ -76,7 +78,7 @@ On the contrary, no one begs to be freed from suffering that he willingly endure
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that the souls in purgatory are punished by the demons. For as the Master says at the end of Distinction 47, *they will have as torturers in their punishments those who were their provokers in sin*. But the demons incite us not only to mortal sin, but also to venial sin, when they cannot do worse. Therefore, they also torture those souls who are in purgatory for venial sins.***
+Obj. 1: Moreover, it seems that the souls in purgatory are punished by the demons. For as the Master says at the end of Distinction 47, *they will have as torturers in their punishments those who were their provokers in sin*. But the demons incite us not only to mortal sin, but also to venial sin, when they cannot do worse. Therefore, they also torture those souls who are in purgatory for venial sins.  
 
 Obj. 2: Furthermore, purification from sins applies to the just both in this life and after this life. But in this life they are purified through the sufferings inflicted by the devil, as is seen in the case of Job. Therefore those to be purified after this life are also punished by demons.  
 
@@ -84,7 +86,7 @@ On the contrary, it is unjust that someone who has triumphed over another be sub
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that from the things that have been determined above,See d. 14, q. 2, a. 1, qa. 2. it is clear enough that there is a purgatory after this life. For if after guilt is effaced through contrition, the debt of punishment is not entirely taken away, nor are venial sins always taken away when mortal ones are forgiven, and God’s justice requires that sin be ordered by due punishment, a person who dies after contrition and absolution for sin but before making the due satisfaction must be punished after this life. And therefore those who deny purgatory are speaking against divine justice. And because of this, it is erroneus and contrary to the faith. Therefore, Gregory of Nyssa adds after the words quoted, *this we preach, preserving the dogma of truth, and so we believe*. The universal Church also holds this when it prays for the dead that they be released from their sins, which can only be understood about those who are in purgatory. Now anyone who opposes the Church’s authority incurs heresy.***
+To the first question, I answer that from the things that have been determined above,See d. 14, q. 2, a. 1, qa. 2. it is clear enough that there is a purgatory after this life. For if after guilt is effaced through contrition, the debt of punishment is not entirely taken away, nor are venial sins always taken away when mortal ones are forgiven, and God’s justice requires that sin be ordered by due punishment, a person who dies after contrition and absolution for sin but before making the due satisfaction must be punished after this life. And therefore those who deny purgatory are speaking against divine justice. And because of this, it is erroneus and contrary to the faith. Therefore, Gregory of Nyssa adds after the words quoted, *this we preach, preserving the dogma of truth, and so we believe*. The universal Church also holds this when it prays for the dead that they be released from their sins, which can only be understood about those who are in purgatory. Now anyone who opposes the Church’s authority incurs heresy.  
 
 Reply Obj. 1: That text is speaking about the labor of working for meriting and not meriting, and not about the labor of suffering for purification.  
 
@@ -94,7 +96,7 @@ Reply Obj. 3: The person who falls into mortal sin puts to death all his previou
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that concerning purgatory’s location, nothing specific is expressly found in Scripture, nor can one offer effective arguments about it. Yet probably, and according to what agrees most with the words of the saints and the revelation made to many, there are two places for purgatory. One, according to the general law, according to which purgatory’s location is a lower place connected with hell, so that it is the same fire that torments the damned in hell and purifies the just in purgatory; although the damned, as lower in merit, are also relegated to a lower place. There is another place for purgatory by special dispensation; and this is why it is read sometimes that certain people are punished in different places, whether for the instruction of the living, or for the assistance of the dead, so that by making their suffering known to the living, it might be reduced by the Church’s intercession. Some people say that according to the general law purgatory’s place is wherever a man sins, but this does not seem probable, since a man can be punished at the same time for sins that he committed in different places. Other people say that they are punished above us according to the general law, for they are in a middle place between us and God according to their state. But this is nothing, for they are not punished for being above us, but for what is lowest in them, namely, sin.***
+To the second question, it should be said that concerning purgatory’s location, nothing specific is expressly found in Scripture, nor can one offer effective arguments about it. Yet probably, and according to what agrees most with the words of the saints and the revelation made to many, there are two places for purgatory. One, according to the general law, according to which purgatory’s location is a lower place connected with hell, so that it is the same fire that torments the damned in hell and purifies the just in purgatory; although the damned, as lower in merit, are also relegated to a lower place. There is another place for purgatory by special dispensation; and this is why it is read sometimes that certain people are punished in different places, whether for the instruction of the living, or for the assistance of the dead, so that by making their suffering known to the living, it might be reduced by the Church’s intercession. Some people say that according to the general law purgatory’s place is wherever a man sins, but this does not seem probable, since a man can be punished at the same time for sins that he committed in different places. Other people say that they are punished above us according to the general law, for they are in a middle place between us and God according to their state. But this is nothing, for they are not punished for being above us, but for what is lowest in them, namely, sin.  
 
 Reply Obj. 1: The fire of purgatory is eternal as to its substance, but temporal as to the effect of purification.  
 
@@ -104,7 +106,7 @@ Reply Obj. 3: That argument proceeds according to a special dispensation, and no
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in purgatory there are two punishments: one of loss, namely, inasmuch as souls are held back from the divine vision; the other, of sense, according as they are physically punished by fire. And in both, the least punishment of purgatory exceeds the greatest punishment of this life. For the more something is desired, the more troubling is its absence. And because the affection by which the highest good is desired in holy souls after this life is the most intense, since the affection is not held back by the weight of the body, and since the enjoyment of the highest good would have arrived by then had nothing impeded it; for these reasons they suffer extremely from this delay. Similarly, because sorrow is not so much due to an injury but to the sensation of the injury, the more sensitive someone is, the more he suffers from anything harmful, which is why the injuries that happen in the most sensitive places are the most painful. And since all the sensation of the body is from the soul, for this reason if anything injurious is at work in the soul itself, it necessarily must be most afflicted. Now, for the moment we will suppose that the soul suffers from a physical fire, for it will be discussed later, in Distinction 44, Question 3, Article 3, Subquestion 3. And therefore the punishment of purgatory in the suffering of loss and of sense exceeds every punishment of this life. Some people argue this conclusion from the fact that the whole soul is punished without the body. But there is nothing in this, for then the punishment of the damned would be less after the resurrection than before, which is false.***
+To the third question, it should be said that in purgatory there are two punishments: one of loss, namely, inasmuch as souls are held back from the divine vision; the other, of sense, according as they are physically punished by fire. And in both, the least punishment of purgatory exceeds the greatest punishment of this life. For the more something is desired, the more troubling is its absence. And because the affection by which the highest good is desired in holy souls after this life is the most intense, since the affection is not held back by the weight of the body, and since the enjoyment of the highest good would have arrived by then had nothing impeded it; for these reasons they suffer extremely from this delay. Similarly, because sorrow is not so much due to an injury but to the sensation of the injury, the more sensitive someone is, the more he suffers from anything harmful, which is why the injuries that happen in the most sensitive places are the most painful. And since all the sensation of the body is from the soul, for this reason if anything injurious is at work in the soul itself, it necessarily must be most afflicted. Now, for the moment we will suppose that the soul suffers from a physical fire, for it will be discussed later, in Distinction 44, Question 3, Article 3, Subquestion 3. And therefore the punishment of purgatory in the suffering of loss and of sense exceeds every punishment of this life. Some people argue this conclusion from the fact that the whole soul is punished without the body. But there is nothing in this, for then the punishment of the damned would be less after the resurrection than before, which is false.  
 
 Reply Obj. 1: Although the soul is less susceptible to harm than the body, nevertheless it is more aware of suffering. And where there is greater sense of suffering there is greater pain, even if there is less harm.  
 
@@ -114,13 +116,13 @@ And by this the answer to the third objection is clear.
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that something is called voluntary in two ways. In one way, by an absolute will, and no punishment is voluntary in this way, for the notion of punishment involves that it be contrary to the will. In another way, something is said to be voluntary by a conditional will, as burning is voluntary because of the health that will result; and in this way a punishment can be voluntary in two ways. In one way, because by this punishment we acquire some good, and so the will itself takes on a punishment, as is seen in the case of satisfaction; or also because someone accepts it willingly, and would not wish it not to be, as happens in martyrdom. In the other way, because although no good accrues to us by the punishment, nevertheless we cannot attain the good without the punishment, as is seen in the case of natural death. And then the will does not take on the punishment but wishes to be freed from it; and yet the will endures it, and to this extent it is said to be ‘voluntary.’ And this is how the punishment of purgatory is voluntary. Now some people say that it is not voluntary in any way, for the souls are so absorbed by their sufferings that they do not know they are being purified by them, but they believe themselves to be damned. But this is false: for unless they knew they would be freed, they would not beg for prayers, which they often do.***
+To the fourth question, it should be said that something is called voluntary in two ways. In one way, by an absolute will, and no punishment is voluntary in this way, for the notion of punishment involves that it be contrary to the will. In another way, something is said to be voluntary by a conditional will, as burning is voluntary because of the health that will result; and in this way a punishment can be voluntary in two ways. In one way, because by this punishment we acquire some good, and so the will itself takes on a punishment, as is seen in the case of satisfaction; or also because someone accepts it willingly, and would not wish it not to be, as happens in martyrdom. In the other way, because although no good accrues to us by the punishment, nevertheless we cannot attain the good without the punishment, as is seen in the case of natural death. And then the will does not take on the punishment but wishes to be freed from it; and yet the will endures it, and to this extent it is said to be ‘voluntary.’ And this is how the punishment of purgatory is voluntary. Now some people say that it is not voluntary in any way, for the souls are so absorbed by their sufferings that they do not know they are being purified by them, but they believe themselves to be damned. But this is false: for unless they knew they would be freed, they would not beg for prayers, which they often do.  
 
 And by this the answers to the objections are clear.  
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that just as after the day of judgment divine justice will set a fire in which the damned will be punished for eternity, so also now the elect are purified after this life only by divine justice, not by the ministry of demons over whom they have arisen as victors, nor by the ministry of angels, for fellow citizens would not afflict their own so forcefully. But nevertheless it is possible that they lead them to places of suffering, and that even the demons themselves, who rejoice in the sufferings of men, accompany them and attend those to be purified, both so that they might be sated by their sufferings, and so that at their departure from the body, they might seize upon something of their own there. But in this world, while it is still the place of battle, men are punished both by bad angels as enemies, as is seen in Job,Chapters 1 and 2. and by good ones, as is seen in the case of Jacob,Genesis 32:25. whose femoral nerve withered from the angel’s striking it. And Dionysius also says explicitly, in *On the Divine Names* 4, that good angels sometimes punish.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 22 (PG 3:723).***
+To the fifth question, it should be said that just as after the day of judgment divine justice will set a fire in which the damned will be punished for eternity, so also now the elect are purified after this life only by divine justice, not by the ministry of demons over whom they have arisen as victors, nor by the ministry of angels, for fellow citizens would not afflict their own so forcefully. But nevertheless it is possible that they lead them to places of suffering, and that even the demons themselves, who rejoice in the sufferings of men, accompany them and attend those to be purified, both so that they might be sated by their sufferings, and so that at their departure from the body, they might seize upon something of their own there. But in this world, while it is still the place of battle, men are punished both by bad angels as enemies, as is seen in Job,Chapters 1 and 2. and by good ones, as is seen in the case of Jacob,Genesis 32:25. whose femoral nerve withered from the angel’s striking it. And Dionysius also says explicitly, in *On the Divine Names* 4, that good angels sometimes punish.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 22 (PG 3:723).  
 
 And by this the solutions to the objections are clear.  
 
@@ -130,7 +132,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallels: below, d. 46, q. 2, a. 3, qa. 3, ad 3; *ST* I-II, q. 89, a. 2; *Super I Cor.* 3, lec. 2. It seems that the wood, hay, and straw that are said to be built upon the foundation that has been laid (cf. 1 Cor 3:12), are not venial sins. For nothing can be built upon what is highest. But the foundation of the spiritual edifice is in the highest, as the Gloss says. Therefore, nothing can be built upon it.***
+Obj. 1: To the second question we proceed thus.Parallels: below, d. 46, q. 2, a. 3, qa. 3, ad 3; *ST* I-II, q. 89, a. 2; *Super I Cor.* 3, lec. 2. It seems that the wood, hay, and straw that are said to be built upon the foundation that has been laid (cf. 1 Cor 3:12), are not venial sins. For nothing can be built upon what is highest. But the foundation of the spiritual edifice is in the highest, as the Gloss says. Therefore, nothing can be built upon it.  
 
 Obj. 2: Furthermore, the building is supported by the foundation. But venial sins are not supported by the spiritual foundation, which is faith working through love. Therefore, the wood, hay, and straw that are built upon it are not venial sins.  
 
@@ -142,7 +144,7 @@ On the contrary, is what is said in the text by the words of Augustine.
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the ones who build upon both are the same.Parallels: *ST* I-II, q. 89, a. 2; *Super I Cor*. 3, lec. 2. For according to Augustine,As cited in the text of Lombard; cf. *Glossa ordinaria* on 1 Corinthians 3:12. by gold is signified the contemplation of God, by silver, love of neighbors, by precious stones, good works. But those who have disordered affections for temporal things, who are said to build up wood, hay, and straw, sometimes contemplate God and love their neighbor and do some good works. Therefore, the same people build both.***
+Obj. 1: Moreover, it seems that the ones who build upon both are the same.Parallels: *ST* I-II, q. 89, a. 2; *Super I Cor*. 3, lec. 2. For according to Augustine,As cited in the text of Lombard; cf. *Glossa ordinaria* on 1 Corinthians 3:12. by gold is signified the contemplation of God, by silver, love of neighbors, by precious stones, good works. But those who have disordered affections for temporal things, who are said to build up wood, hay, and straw, sometimes contemplate God and love their neighbor and do some good works. Therefore, the same people build both.  
 
 Obj. 2: Furthermore, as it says in the text, *those people build with gold, silver, and precious stones who think that they belong to God; they do please God in some way*. But as is clear from 1 John 1:8, such people also commit venial sins, which are understood by wood, hay, and straw. Therefore, the same people build upon both.  
 
@@ -150,7 +152,7 @@ On the contrary, Augustine says, that *those who build with gold, silver, and pr
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the venial sins that are joined to mortal sins are also the wood, hay, and straw, so that not even in the damned would they be punished eternally, but only temporally.Parallels: *ST* I-II, q. 89, a. 2; *Super I Cor*. 3, lec. 2. For the extremity of punishments should be according to the extremity of guilt. But mortal guilt exceeds venial guilt infinitely. Therefore, so does mortal punishment exceed venial punishment. But this cannot be in severity, for the severity of either punishment is finite. Therefore, it must be according to duration, which would not be the case if venial sin were punished eternally.***
+Obj. 1: Moreover, it seems that the venial sins that are joined to mortal sins are also the wood, hay, and straw, so that not even in the damned would they be punished eternally, but only temporally.Parallels: *ST* I-II, q. 89, a. 2; *Super I Cor*. 3, lec. 2. For the extremity of punishments should be according to the extremity of guilt. But mortal guilt exceeds venial guilt infinitely. Therefore, so does mortal punishment exceed venial punishment. But this cannot be in severity, for the severity of either punishment is finite. Therefore, it must be according to duration, which would not be the case if venial sin were punished eternally.  
 
 Obj. 2: Furthermore, *God is no respecter of persons* (Rom 2:11). But he would be if he punished one person more than another for the same fault. Therefore, since a just man is punished temporally for his venial sin, neither should the damned be punished eternally but temporally.  
 
@@ -158,7 +160,7 @@ On the contrary, *you will never get out until you have paid the last penny*, th
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that venial sins joined with charity can be consumed by any punishment, which is why they are appropriately signified according to metaphor as those things that are consumed by fire. And since the more serious a sin is, the more difficult it is to purify, but among venial sins one is more serious than another, for this reason their diversity is appropriately signified by the diversity of things that are consumed by fire more quickly and more slowly. And since the perfection of any quantity is comprehended in three aspects, because of principle, means, and end, this is why a threefold difference is set down. Since certain sins are more serious in the genus of venial sins, and more difficult to purify, these are signified by wood; certain ones are slight, which are signified by straw; some are medium, which are signified by hay.***
+To the first question, I answer that venial sins joined with charity can be consumed by any punishment, which is why they are appropriately signified according to metaphor as those things that are consumed by fire. And since the more serious a sin is, the more difficult it is to purify, but among venial sins one is more serious than another, for this reason their diversity is appropriately signified by the diversity of things that are consumed by fire more quickly and more slowly. And since the perfection of any quantity is comprehended in three aspects, because of principle, means, and end, this is why a threefold difference is set down. Since certain sins are more serious in the genus of venial sins, and more difficult to purify, these are signified by wood; certain ones are slight, which are signified by straw; some are medium, which are signified by hay.  
 
 Reply Obj. 1: As a foundation is applied to spiritual things by reason of priority, and not due to being lower, so those things are said to be built up not because of being higher but because of being later.  
 
@@ -170,13 +172,13 @@ Reply Obj. 4: Some people who teach badly do not always sin mortally but veniall
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that gold, silver, and precious stones, and wood, hay, and straw, can be explained in two ways. In one way such that any good works may be called gold, silver, and precious stones, and any venial sins may be called wood, hay, and straw. And in this way there is no doubt that the same people can build both; but certain people are said to build the former and certain people the latter according to what they most pursue, just as also the active are distinguished from contemplatives although the contemplative sometimes does something, and the active sometimes contemplates something. In another way, such that by gold, silver, and precious stones only works of perfection are understood; and by wood, hay, and straw may be understood the venial sins that are built up by those who are concerned with temporal things, not being free for God alone. And then it is clear that the same people do not build with both, for even if the imperfect do good works, nevertheless they are soiled by the concerns of this world, so that they do not have the gleam of gold and silver and precious stones. And likewise even if the perfect have certain venial sins, nevertheless they are consumed by the fervor of charity in them, and by the continual concern that they have for their own purification. And this is why they are not said to build upon them, for they do not remain in them habitually; and such as these are secure, for nothing purifiable exists in them.***
+To the second question, it should be said that gold, silver, and precious stones, and wood, hay, and straw, can be explained in two ways. In one way such that any good works may be called gold, silver, and precious stones, and any venial sins may be called wood, hay, and straw. And in this way there is no doubt that the same people can build both; but certain people are said to build the former and certain people the latter according to what they most pursue, just as also the active are distinguished from contemplatives although the contemplative sometimes does something, and the active sometimes contemplates something. In another way, such that by gold, silver, and precious stones only works of perfection are understood; and by wood, hay, and straw may be understood the venial sins that are built up by those who are concerned with temporal things, not being free for God alone. And then it is clear that the same people do not build with both, for even if the imperfect do good works, nevertheless they are soiled by the concerns of this world, so that they do not have the gleam of gold and silver and precious stones. And likewise even if the perfect have certain venial sins, nevertheless they are consumed by the fervor of charity in them, and by the continual concern that they have for their own purification. And this is why they are not said to build upon them, for they do not remain in them habitually; and such as these are secure, for nothing purifiable exists in them.  
 
 And according to this the solutions to the objections are clear.  
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that since no fault can be ordered except by punishment, and since God leaves nothing disordered, therefore no fault is remitted without penalty. But among those who are damned, no fault can be remitted, nor can anyone’s debt of punishment be taken away, since they lack charity, by which both guilt is purified and debt of punishment is taken away. And for this reason venial guilt or its liability to punishment always remains in them, even if, before their mortal sin, their venial sin had been forgiven as to guilt, but the debt of punishment remained. And because of this the damned will be punished eternally for their venial sins.***
+To the third question, it should be said that since no fault can be ordered except by punishment, and since God leaves nothing disordered, therefore no fault is remitted without penalty. But among those who are damned, no fault can be remitted, nor can anyone’s debt of punishment be taken away, since they lack charity, by which both guilt is purified and debt of punishment is taken away. And for this reason venial guilt or its liability to punishment always remains in them, even if, before their mortal sin, their venial sin had been forgiven as to guilt, but the debt of punishment remained. And because of this the damned will be punished eternally for their venial sins.  
 
 Reply Obj. 1: Mortal sin deserves eternal punishment inasmuch as it takes away grace and separates us eternally from God; and this is how it is infinitely removed from venial sin. Therefore, in someone who lacks grace and has been separated from God forever, the eternal punishment that is owed to mortal sin *per se* is owed to venial sin incidentally, by reason of the subject.  
 
@@ -188,7 +190,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus.Parallels: above, d. 16, q. 2, a. 2, qa. 2; *Compendium* 182; *Super Matt.* 12. It seems that by the punishment of purgatory venial sin is not expiated as to fault. For commenting on 1 John 5:6: *there is a sin that is mortal*, etc., the interlinear Gloss says: *for what is not corrected in this life, forgiveness is sought in vain after death*.The Gloss is quoting from Gregory the Great, *Moralia in Iob* (CCSL 143A), Bk. 16, par. 68. Therefore, no sin is remitted as to its fault after this life.***
+Obj. 1: To the third question we proceed thus.Parallels: above, d. 16, q. 2, a. 2, qa. 2; *Compendium* 182; *Super Matt.* 12. It seems that by the punishment of purgatory venial sin is not expiated as to fault. For commenting on 1 John 5:6: *there is a sin that is mortal*, etc., the interlinear Gloss says: *for what is not corrected in this life, forgiveness is sought in vain after death*.The Gloss is quoting from Gregory the Great, *Moralia in Iob* (CCSL 143A), Bk. 16, par. 68. Therefore, no sin is remitted as to its fault after this life.  
 
 Obj. 2: Furthermore, it is the same faculty that falls into sin and is freed from sin. But the soul cannot sin venially after death. Therefore, neither can it be absolved.  
 
@@ -204,7 +206,7 @@ Furthermore (2), by wood, hay, and straw, venial sins are understood (cf. 1 Cor 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that purgatorial fire does not free one from the obligation to punishment.Parallel: *Compendium* 181. For every purification has to do with foulness. But punishment does not imply any foulness. Therefore, the purgatorial fire does not free from punishment.***
+Obj. 1: Moreover, it seems that purgatorial fire does not free one from the obligation to punishment.Parallel: *Compendium* 181. For every purification has to do with foulness. But punishment does not imply any foulness. Therefore, the purgatorial fire does not free from punishment.  
 
 Obj. 2: Furthermore, a contrary is not purged by anything but its own contrary. But punishment is not contrary to punishment. Therefore, by the punishment of purgatory no one is purified of the obligation to punishment.  
 
@@ -214,7 +216,7 @@ On the contrary, the punishment of purgatory is more severe than any punishment 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that from that punishment one person is not freed more quickly than another.Parallel: below, d. 46, q. 1. a. 3. For the more serious the fault is and the greater the obligation to punishment, the more severe the punishment that is imposed in purgatory. But the proportion of the more severe punishment to the more serious fault is the same as the proportion of the lighter punishment to the lighter fault. Therefore, one person is freed from that punishment as quickly as another.***
+Obj. 1: Moreover, it seems that from that punishment one person is not freed more quickly than another.Parallel: below, d. 46, q. 1. a. 3. For the more serious the fault is and the greater the obligation to punishment, the more severe the punishment that is imposed in purgatory. But the proportion of the more severe punishment to the more serious fault is the same as the proportion of the lighter punishment to the lighter fault. Therefore, one person is freed from that punishment as quickly as another.  
 
 Obj. 2: Furthermore, equal retributions are rendered for unequal merits, both in heaven and in hell, as to duration. Therefore, it seems to be the same in purgatory.  
 
@@ -222,7 +224,7 @@ On the contrary, is the Apostle’s similitude (1 Cor 3:18), which represented d
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that some people have said that after this life no sin is remitted as to its fault, and if someone dies with mortal sin, he is damned and has no capacity for forgiveness; but it cannot be that he died with venial sin but without mortal sin, for the final grace itself purifies venial fault. For venial sin happens when someone who has Christ as foundation loves something temporal too much, an excess that indeed happens from the corruption of concupiscence. And therefore if grace entirely conquers the corruption of concupiscence, as was the case in the Blessed Virgin, there remains no room for venial sin. And so since in death that concupiscence is entirely diminished and annihilated, the powers of the soul are completely subjected to grace, and venial sin is expelled.***
+To the first question, I answer that some people have said that after this life no sin is remitted as to its fault, and if someone dies with mortal sin, he is damned and has no capacity for forgiveness; but it cannot be that he died with venial sin but without mortal sin, for the final grace itself purifies venial fault. For venial sin happens when someone who has Christ as foundation loves something temporal too much, an excess that indeed happens from the corruption of concupiscence. And therefore if grace entirely conquers the corruption of concupiscence, as was the case in the Blessed Virgin, there remains no room for venial sin. And so since in death that concupiscence is entirely diminished and annihilated, the powers of the soul are completely subjected to grace, and venial sin is expelled.  
 
 But this opinion is worthless both in itself and in the argument for it. In itself, indeed, because it is contrary to the statements of the saints and the Gospel, which cannot be explained about the remission of venial sins as to punishment, as the Master says in the text; for then both light and serious sins would be forgiven in the future. But Gregory holds that light sins alone will be remitted after this life.See Gregory the Great, *Dialogues*, Bk. 4 (SC 265), ch. 41. Nor does it suffice that they say that here specifically light sins are spoken of, lest it be thought that we will suffer nothing serious for them, for the remission of punishment removes more gravity from the punishment than it brings.  
 
@@ -248,7 +250,7 @@ Reply Obj. 5: Although venial sin arises from the tendency of the *fomes*, never
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that anyone who owes something is absolved from the debt when he pays it; and because the obligation incurred by guilt is nothing other than the debt of punishment, by the fact that someone endures a punishment that he was owing, he is absolved of his obligation; and in accord with this the punishment of purgatory purifies from the obligation incurred by guilt.***
+To the second question, it should be said that anyone who owes something is absolved from the debt when he pays it; and because the obligation incurred by guilt is nothing other than the debt of punishment, by the fact that someone endures a punishment that he was owing, he is absolved of his obligation; and in accord with this the punishment of purgatory purifies from the obligation incurred by guilt.  
 
 Reply Obj. 1: The obligation to punishment, although it does not carry any foulness in itself, nevertheless is related to foulness by its cause.  
 
@@ -258,7 +260,7 @@ Reply Obj. 3: Many layers of meaning are hidden in the same words of Sacred Scri
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that some venial sins adhere more than others, according as the affections are more inclined to them and are fixed upon them more strongly. And because the ones that adhere more take longer to purify, for this reason some people are tormented in purgatory longer than others, according as their affections were more steeped in venial sins.***
+To the third question, it should be said that some venial sins adhere more than others, according as the affections are more inclined to them and are fixed upon them more strongly. And because the ones that adhere more take longer to purify, for this reason some people are tormented in purgatory longer than others, according as their affections were more steeped in venial sins.  
 
 Reply Obj. 1: The harshness of the penalty properly corresponds to the quantity of fault, but the duration corresponds to how rooted the fault was in the subject. Therefore, it can happen that someone lingers longer in purgatory who is less afflicted, and vice versa.  
 
@@ -268,7 +270,7 @@ Question 2
 
 ***On generic confession***
 
-***Next a general confession is asked about; and concerning this, three questions arise:***
+Next a general confession is asked about; and concerning this, three questions arise:  
 
 first, whether venial sins are blotted out as to fault by the power of a generic confession;  
 
@@ -278,7 +280,7 @@ first, whether venial sins are blotted out as to fault by the power of a generic
 
 ***Whether venial sins are blotted out by a generic confession***
 
-***Obj. 1: To the first question we proceed thus. It seems that by the generic confession that is made at Compline and Prime, venial sins are not forgiven. For the confession by which sins are forgiven is something sacramental. But that generic confession is not sacramental, for it can be made even to someone who is not a priest. Therefore, it is not valid for the forgiveness of sins.***
+Obj. 1: To the first question we proceed thus. It seems that by the generic confession that is made at Compline and Prime, venial sins are not forgiven. For the confession by which sins are forgiven is something sacramental. But that generic confession is not sacramental, for it can be made even to someone who is not a priest. Therefore, it is not valid for the forgiveness of sins.  
 
 Obj. 2: Furthermore, confession is ordered to the remission of sins by the fact that the sins of the one confessing are made known. But after a generic confession the sins of the one confessing remain just as hidden from the one the confession is made to as before, both because sometimes the one to whom this confession is made cannot distinguish the voices of individuals when many people make a generic confession at the same time, and because there is no one who does not sin in those general ways that are said in a generic confession. Therefore, the generic confession does not work to the remission of sins.  
 
@@ -304,7 +306,7 @@ Article 2
 
 ***Whether generic confession effaces forgotten mortal sins***
 
-***Obj. 1: To the second question we proceed thus. It seems that generic confession does not suffice for effacing forgotten mortal sins. For sin that is effaced by confession need not be confessed again. Therefore, if forgotten sins were forgiven by a generic confession, it would not be necessary that when they returned to a person’s awareness, he should confess them.***
+Obj. 1: To the second question we proceed thus. It seems that generic confession does not suffice for effacing forgotten mortal sins. For sin that is effaced by confession need not be confessed again. Therefore, if forgotten sins were forgiven by a generic confession, it would not be necessary that when they returned to a person’s awareness, he should confess them.  
 
 Obj. 2: Furthermore, whoever is not conscious to himself of any sin either has no sin or has forgotten his sin. Therefore, if forgotten mortal sins are forgiven by a generic confession being made, anyone who is not conscious of mortal sin when he makes a generic confession can be certain that he is free of mortal sin, which is against what the Apostle says, *I am not aware of anything against myself, but I am not thereby justified* (1 Cor 4:4).  
 
@@ -330,7 +332,7 @@ Article 3
 
 ***Whether someone can licitly confess sins that he has not done***
 
-***Obj. 1: To the third question we proceed thus. It seems that someone can licitly confess a sin that he does not have. For as Gregory says, *it belongs to good minds to recognize fault where no fault is*.Gregory the Great (?), *Epistles*, Bk. 11, ep. 64, to Augustine, Bishop of the English (PL 77:1195); cf. Gratian, *Decretals*, pt. 1, d. 5, can. 4. This letter is not found in many ancient manuscripts of Gregory’s letters and has been excluded from the CCSL edition (see vols. 140 and 140A). Therefore, it pertains to the good mind to accuse itself of faults that it has not committed.***
+Obj. 1: To the third question we proceed thus. It seems that someone can licitly confess a sin that he does not have. For as Gregory says, *it belongs to good minds to recognize fault where no fault is*.Gregory the Great (?), *Epistles*, Bk. 11, ep. 64, to Augustine, Bishop of the English (PL 77:1195); cf. Gratian, *Decretals*, pt. 1, d. 5, can. 4. This letter is not found in many ancient manuscripts of Gregory’s letters and has been excluded from the CCSL edition (see vols. 140 and 140A). Therefore, it pertains to the good mind to accuse itself of faults that it has not committed.  
 
 Obj. 2: Furthermore, through humility someone considers himself worse than one who is an obvious sinner, and in this he is to be commended. But what someone judges in this heart, he may confess with his mouth. Therefore, he can licitly confess himself to have worse sins than he has.  
 
@@ -356,19 +358,18 @@ Question 3
 
 ***The seal of the confessional***
 
-***Next the seal of the confessional is asked about; and concerning this, three questions arise:***
+Next the seal of the confessional is asked about; and concerning this, three questions arise:  
 
 first, whether in every case a man is bound to conceal the things that he knows under the seal of the confessional;  
 
 - second, whether he could reveal to another with the permission of the one confessing;
 - third, whether he is bound to conceal these things, even if he knows them by other means.
 - Article 1
-
-***Whether a man is bound to conceal what he knows under the seal of the confessional***
+Whether a man is bound to conceal what he knows under the seal of the confessional  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* II-II, q. 70, a. 1, ad 2; *Quodl.* V, q. 7, a. 1; *Quodl.* XII, q. 11, a. 2. It seems that a priest is not bound in every case to conceal the sins that he knows under the seal of the confessional. For as Bernard says, *what was instituted for charity, does not militate against charity*.Bernard of Clairvaux, *Liber de praecepto et dispensatione*, ch. 2, par. 5: “Sicut e regione iniquum procul dubio foret, si statuta pro sola caritate, contra caritatem tenerentur” (Bernardi opera, ed. Leclerq, 3:257). But keeping a confession secret would militate against charity in some cases, as when someone in confession knows another person to be a heretic, whom he cannot induce to stop corrupting the people; and likewise for someone who knows through confession that there is an affinity between two people who wish to contract a marriage. Therefore, someone in a situation like this should reveal the confession.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* II-II, q. 70, a. 1, ad 2; *Quodl.* V, q. 7, a. 1; *Quodl.* XII, q. 11, a. 2. It seems that a priest is not bound in every case to conceal the sins that he knows under the seal of the confessional. For as Bernard says, *what was instituted for charity, does not militate against charity*.Bernard of Clairvaux, *Liber de praecepto et dispensatione*, ch. 2, par. 5: “Sicut e regione iniquum procul dubio foret, si statuta pro sola caritate, contra caritatem tenerentur” (Bernardi opera, ed. Leclerq, 3:257). But keeping a confession secret would militate against charity in some cases, as when someone in confession knows another person to be a heretic, whom he cannot induce to stop corrupting the people; and likewise for someone who knows through confession that there is an affinity between two people who wish to contract a marriage. Therefore, someone in a situation like this should reveal the confession.  
 
 Obj. 2: Furthermore, what someone is obliged to do from the Church’s precept alone need not be observed when the Church makes a command to the contrary. But the secrecy of confessions was introduced by the Church’s statute alone. Therefore, if it is commanded by the Church that anyone who knows something about a certain sin should tell, then whoever knows through confession should tell.  
 
@@ -382,7 +383,7 @@ Furthermore (2), the priest should conform to God, whose minister he is. But God
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the seal of the confessional extends to other things than what belongs to a confession. For nothing but sins belong to a confession. But sometimes along with his sins a person tells many other things that do not pertain to confession. Therefore, since those things are said to the priest as to God, it seems that the seal of the confessional extends to them as well.***
+Obj. 1: Moreover, it seems that the seal of the confessional extends to other things than what belongs to a confession. For nothing but sins belong to a confession. But sometimes along with his sins a person tells many other things that do not pertain to confession. Therefore, since those things are said to the priest as to God, it seems that the seal of the confessional extends to them as well.  
 
 Obj. 2: Furthermore, sometimes someone tells someone else a secret and he receives it under the seal of the confessional. Therefore, the seal of the confessional extends to those things that do not belong to confession.  
 
@@ -390,7 +391,7 @@ On the contrary, the seal of the confessional is something joined to sacramental
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that not only a priest is under the seal of the confessional. For sometimes in an emergency a person confesses to a priest through an interpreter. But the interpreter, as it seems, is also bound to keep the confession secret. Therefore, a non-priest also has something under the seal of the confessional.***
+Obj. 1: Moreover, it seems that not only a priest is under the seal of the confessional. For sometimes in an emergency a person confesses to a priest through an interpreter. But the interpreter, as it seems, is also bound to keep the confession secret. Therefore, a non-priest also has something under the seal of the confessional.  
 
 Obj. 2: Furthermore, sometimes someone can confess to a layperson in a case of necessity. But he is bound to keep the sins secret, since they are said to him as to God. Therefore, a priest is not the only one under the seal of the confessional.  
 
@@ -402,7 +403,7 @@ Furthermore (2), a person is bound to keep secret whatever he hears in confessio
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the things that are done outwardly in the sacraments are signs of the things that happen interiorly. And therefore the confession by which someone subjects himself to a priest is a sign of the interior confession in which he subjects himself to God. Now God covers the sin of the person who subjects himself to him by penance; therefore, this too must be signified in the sacrament of penance. And this is why it is necessary to the sacrament that a person keep the confession secret, and anyone who reveals it sins as a violator of the sacrament. And besides this there are other benefits to this secrecy, for people are more attracted to confession by it, and confess their sins more simply.***
+To the first question, I answer that the things that are done outwardly in the sacraments are signs of the things that happen interiorly. And therefore the confession by which someone subjects himself to a priest is a sign of the interior confession in which he subjects himself to God. Now God covers the sin of the person who subjects himself to him by penance; therefore, this too must be signified in the sacrament of penance. And this is why it is necessary to the sacrament that a person keep the confession secret, and anyone who reveals it sins as a violator of the sacrament. And besides this there are other benefits to this secrecy, for people are more attracted to confession by it, and confess their sins more simply.  
 
 Reply Obj. 1: Some people say that a priest is only bound to preserve the seal of the confessional for sins that the penitent promises to amend; otherwise, he can tell them to someone who can be helpful, not harmful. But this opinion seems erroneous, since it is against the truth of the sacrament. For just as baptism is a sacrament even if someone receives it under false pretenses, nor should anything essential to the sacrament be changed for this, so also confession does not cease to be sacramental even if the person confessing does not intend to amend; and therefore the confessor is nevertheless to be bound to secrecy. Nor, however, does the seal of the confessional militate against charity, for charity does not require that a man apply a remedy to sin he does not know about. But what is known under confession is like something unknown, since the confessor does not know it as man, but as God. Nevertheless, he can apply as much of a remedy as is possible in the cases mentioned without revealing the confession, as by warning the ones who confess, and by applying diligence to the others lest they be corrupted by heresy. He can also tell the prelate that he should watch over his flock more diligently; such that nevertheless he does not say anything by word or nod through which he would expose the person confessing.  
 
@@ -414,7 +415,7 @@ Reply Obj. 4: A person is rendered unfit for a position of authority by many cau
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the seal of the confessional does not directly extend to anything but what falls under sacramental confession. But indirectly what does not fall under sacramental confession pertains to the seal of the confessional, like those things by which the sinner or the sin could be detected. Nevertheless, other things also should be kept secret with the greatest attention, both because of scandal, and because of the greater tendency that could arise from the habit.***
+To the second question, it should be said that the seal of the confessional does not directly extend to anything but what falls under sacramental confession. But indirectly what does not fall under sacramental confession pertains to the seal of the confessional, like those things by which the sinner or the sin could be detected. Nevertheless, other things also should be kept secret with the greatest attention, both because of scandal, and because of the greater tendency that could arise from the habit.  
 
 And by this the response to the first is clear.  
 
@@ -422,7 +423,7 @@ Reply Obj. 2: A man should not easily receive anything in this way, but if he do
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the seal of the confessional applies to the priest as the minister of this sacrament, for it is nothing but the duty of keeping a confession secret; just as the power of the keys is the power of absolving. Nevertheless, as someone who is not a priest partakes somewhat in the act of the keys in certain cases when he hears a confession because of necessity, so also he participates in the act of the seal of the confessional, and is bound to keep silent; although, properly speaking, he would not have the seal of the confessional.***
+To the third question, it should be said that the seal of the confessional applies to the priest as the minister of this sacrament, for it is nothing but the duty of keeping a confession secret; just as the power of the keys is the power of absolving. Nevertheless, as someone who is not a priest partakes somewhat in the act of the keys in certain cases when he hears a confession because of necessity, so also he participates in the act of the seal of the confessional, and is bound to keep silent; although, properly speaking, he would not have the seal of the confessional.  
 
 And by this the solutions to the objections are clear.  
 
@@ -430,7 +431,7 @@ Article 2
 
 ***Whether something could be revealed by permission of the one confessing***
 
-***Obj. 1: To the second question we proceed thus. It seems that a priest cannot reveal a sin that he has under the seal of the confessional to another with the permission of the penitent. For what a superior cannot do, someone of lower rank cannot do. But the pope cannot give anyone permission to tell another what he knows from the confessional. Therefore, neither can the person who confesses give him permission.***
+Obj. 1: To the second question we proceed thus. It seems that a priest cannot reveal a sin that he has under the seal of the confessional to another with the permission of the penitent. For what a superior cannot do, someone of lower rank cannot do. But the pope cannot give anyone permission to tell another what he knows from the confessional. Therefore, neither can the person who confesses give him permission.  
 
 Obj. 2: Furthermore, what was instituted because of the common good cannot be changed by one person’s decision. But keeping a confession secret was instituted for the good of the whole Church, so that people would go to confession with more confidence. Therefore, the person confessing cannot give permission to the priest to tell.  
 
@@ -456,7 +457,7 @@ Article 3
 
 ***Whether one is bound to conceal even what he knows by other means***
 
-***Obj. 1: To the third we proceed thus. It seems that someone can in no way reveal what he knows both through confession and in another way. For the seal of the confessional is only broken when the sin that was heard in confession is revealed. Therefore, if someone reveals a sin that he heard in confession, however else he knows about it, the seal of the confessional seems to be broken.***
+Obj. 1: To the third we proceed thus. It seems that someone can in no way reveal what he knows both through confession and in another way. For the seal of the confessional is only broken when the sin that was heard in confession is revealed. Therefore, if someone reveals a sin that he heard in confession, however else he knows about it, the seal of the confessional seems to be broken.  
 
 Obj. 2: Furthermore, everyone who hears someone’s confession is obliged to not reveal his sins. But if someone promised another to keep private what was said to him, no matter how much he learned afterward, he ought to keep it private. Therefore, what someone hears in confession, no matter how else it is known, must be held private.  
 
@@ -480,7 +481,7 @@ Reply Obj. 4: Sin should be so avoided on the one side that justice remains on t
 
 Exposition of the Text  
 
-****I do not contradict this view, because perhaps it is true*.*Sententiae* IV, 21.2 (117). 1. Augustine does not say this as though doubting whether purgatory exists, but whether the Apostle understands it to be this fire.***
+*I do not contradict this view, because perhaps it is true*.*Sententiae* IV, 21.2 (117). 1. Augustine does not say this as though doubting whether purgatory exists, but whether the Apostle understands it to be this fire.  
 
 *That it is necessary to confess all criminal sins at least once in confession*.*Sent*. IV, 21.7 (122). 1. To the contrary, it is not necessary that contrition be for each sin individually. Therefore, nor must confession. And it should be said that contrition is in the sight of God who sees all things by one glance; but confession is made to a man, to whom it is necessary that everything be set forth individually. And furthermore, it is necessary to have sorrow individually for every mortal sin that occurs to the memory, as has been said.  
 

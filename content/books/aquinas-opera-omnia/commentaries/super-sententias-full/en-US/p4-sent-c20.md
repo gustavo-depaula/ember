@@ -1,8 +1,10 @@
 # D. 40 - How external acts are good or evil
 
+***How external acts are good or evil***
+
 ***Division of the text***
 
-***In the preceding part he addressed sin insofar as it consists in the act of the will. In this part he addresses it insofar as it consists in the external act.***
+In the preceding part he addressed sin insofar as it consists in the act of the will. In this part he addresses it insofar as it consists in the external act.  
 
 And it is divided into two parts.  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Whether “good” and “evil” are essential differences of action***
 
-***To the first we proceed as follows.Parallel text: *ST* I-II.21.1. It seems that “good” and “evil” are not essential differences of action.***
+To the first we proceed as follows.Parallel text: *ST* I-II.21.1. It seems that “good” and “evil” are not essential differences of action.  
 
 Obj. 1: For no essential difference befits a thing in a qualified sense, but rather in an essential sense. But “good” and “evil” do not befit an action precisely as an action, but instead with reference to the object and end. Therefore, “good” and “evil” are not essential differences of action.  
 
@@ -82,7 +84,7 @@ Article 2
 
 ***Whether action should be judged as good or evil simply on the basis of the will***
 
-***To the second we proceed as follows.Parallel text: *ST* I-II.20.2. It seems that an action should be judged good or evil simply on the basis of the will.***
+To the second we proceed as follows.Parallel text: *ST* I-II.20.2. It seems that an action should be judged good or evil simply on the basis of the will.  
 
 Obj. 1: Matthew 7:18 says: *a sound tree cannot bear evil fruit, nor can a bad tree bear good fruit*. But a good will is compared to a good tree and a bad will to a bad one. Therefore, since the will’s fruits are external acts, it seems that external acts should be called “good” or “evil” simply on the basis of the goodness or malice of the will.  
 
@@ -114,9 +116,9 @@ Reply Obj. 5: The reply is the same as that to the second objection.
 
 Article 3  
 
-***Whether the external act adds any goodness or malice over and above the goodness or malice of the will***
+Whether the external act adds any goodness or malice over and above the goodness or malice of the will  
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.20.4; 24.3; II-II.76.4, ad 2; *On Evil*, q. 2, a. 2, ad 8. It seems that the external act adds no goodness or malice over and above the goodness or malice of the will.***
+To the third we proceed as follows.Parallel texts: *ST* I-II.20.4; 24.3; II-II.76.4, ad 2; *On Evil*, q. 2, a. 2, ad 8. It seems that the external act adds no goodness or malice over and above the goodness or malice of the will.  
 
 Obj. 1: This seems, first, to be the case through what a Gloss on Matthew 12 says: *you do as much as you intend*.*Glossa interlinearis*, at Matthew 12:35 (in *Glossa ordinaria* 5.228). Therefore, if there are two people who both intend the same good, and one follows through with it while the other does not, it seems that no goodness is added by the external act.  
 
@@ -158,7 +160,7 @@ Article 4
 
 ***Whether the same action can be good and evil***
 
-***To the fourth we proceed as follows.Parallel text: *ST* I-II.20.6. It seems that the same action can be both good and evil.***
+To the fourth we proceed as follows.Parallel text: *ST* I-II.20.6. It seems that the same action can be both good and evil.  
 
 Obj. 1: For, as it says in the *Physics* 3,Aristotle, *Physics* 3.3, 202a14–b23. the motion that is action in the agent is the same in substance as that which is passion in the patient, differing in account, just as it is the same road from Athens to Thebes as from Thebes to Athens. But it is possible for an action to be evil while the passion is good. Hence it is said: *the action was displeasing*, namely, that of the Jews, while the *Passion was welcome*, namely, Christ’s.See *Sent*. I, 48.2(208).3; Alexander of Hales (ca. 1185–1245 AD), *De officio praedicationis*, q. 23; q. 29, membrum 3, para. 24; John Chrysostom, *Homilies on the Acts of the Apostles*, homily 6, at Acts 2:23 (PG 60:57); Leo the Great, *Sermon 67* (“On the Passion,” sermon 16), ch. 2 (PL 54:369). Therefore, the same act can be good and evil.  
 
@@ -192,7 +194,7 @@ Article 5
 
 ***Whether there is human action that is indifferent***
 
-***To the fifth we proceed as follows.Parallel text: *ST* I-II.1.8–9. We seem to find some indifferent action in human acts.***
+To the fifth we proceed as follows.Parallel text: *ST* I-II.1.8–9. We seem to find some indifferent action in human acts.  
 
 Obj. 1: For there can be no mean between “good” and “evil” except “indifferent,” which is neither good nor evil. But good and evil are mediated contraries, as it says in the *Categories*.Aristotle, *Categories* 10, 12a17–19. Therefore, there is indifferent action.  
 
@@ -256,7 +258,7 @@ Reply Sed Contra 8: The word is reason’s immediate effect, and thus, a word ca
 
 Exposition of the text  
 
-****‘Your disposition gives a name to your deed*.’*Sent*. II, 40.1(252).2, quoting Ambrose, *De officiis*, ch. 30, sect. 147 (CCSL 15; PL 16:71). If this is understood universally, it must be explained as meaning the disposition that chooses, not only as that which intends, as has been said.Above: a. 2.***
+*‘Your disposition gives a name to your deed*.’*Sent*. II, 40.1(252).2, quoting Ambrose, *De officiis*, ch. 30, sect. 147 (CCSL 15; PL 16:71). If this is understood universally, it must be explained as meaning the disposition that chooses, not only as that which intends, as has been said.Above: a. 2.  
 
 *‘Where there was no faith, there was no good work*.’*Sent*. II, 40.1(252).2, quoting Augustine, *Enarrationes in Psalmos*, Psalm 31, sermon 2, para. 4 (CCSL 38; PL 36:259). This means meritorious work. This will be raised as a question in the following distinction.*In II Sent*., d. 41, q. 1, a. 2.  
 

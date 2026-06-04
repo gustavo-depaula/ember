@@ -1,8 +1,10 @@
 # Second Vespers
 
+***In secundis vesperis de primis vesperis.***
+
 ***Capitulum***
 
-***Probet autem seipsum homo et sic de pane illo edat et de calice bibat; qui enim manducat et bibit indigne iudicium sibi manducat et bibit non diiudicans corpus Domini.***
+Probet autem seipsum homo et sic de pane illo edat et de calice bibat; qui enim manducat et bibit indigne iudicium sibi manducat et bibit non diiudicans corpus Domini.  
 
 > Responsorium
 

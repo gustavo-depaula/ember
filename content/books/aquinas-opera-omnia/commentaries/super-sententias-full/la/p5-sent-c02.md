@@ -1,6 +1,8 @@
 # D. 1 - The Incarnation
 
-***Postquam enim Magister in duobus praecedentibus libris determinavit de rebus divinis secundum exitum a principio, in hoc libro incipit determinare de rebus quae dicuntur divinae, secundum reditum in finem, scilicet Deum. Unde dividitur haec pars in partes duas.***
+***Divisio textus***
+
+Postquam enim Magister in duobus praecedentibus libris determinavit de rebus divinis secundum exitum a principio, in hoc libro incipit determinare de rebus quae dicuntur divinae, secundum reditum in finem, scilicet Deum. Unde dividitur haec pars in partes duas.  
 
 In prima determinat istum reditum in finem ex parte reducentium.  
 
@@ -114,7 +116,7 @@ Articulus 2
 
 ***Utrum fuerit congruum Deum incarnari***
 
-***Ad secundum sic proceditur. Videtur quod non fuerit congruum Deum incarnari, etsi fuerit possibile.***
+Ad secundum sic proceditur. Videtur quod non fuerit congruum Deum incarnari, etsi fuerit possibile.  
 
 Sicut enim bonitati opponitur malitia, ita majestati opponitur infirmitas. Sed summam bonitatem non decet assumere aliquam malitiam. Ergo summae majestati indecens est omnis infirmitas. Omnis autem sapiens vitat indecentiam. Ergo cum Deus sit sapientissimus, nullo modo nostram naturam quae infirma est, assumere debuit.  
 
@@ -190,7 +192,7 @@ Articulus 3
 
 ***Utrum si homo non peccasset, Deus incarnatus fuisset***
 
-***Ad tertium sic proceditur. Videtur quod si homo non peccasset Deus incarnatus fuisset.***
+Ad tertium sic proceditur. Videtur quod si homo non peccasset Deus incarnatus fuisset.  
 
 Ut enim dicitur Deuter. 32:4, *Dei perfecta sunt opera*. Sed perfectio non potest esse, nisi ultimum principio conjungatur, ut sic quasi quidam circulus concludatur et additio alteriusBrussels: *ulterius*. fieri non possit. Cum ergo ipse Deus sit principium, et homo sit ultima creaturarum, decuit ad perfectionem universi ut, etiamsi homo non peccasset, Deus homo fieret.  
 
@@ -238,7 +240,7 @@ Articulus 4
 
 ***Utrum Filius Dei Incarnationem suam debuerit tantum differre***
 
-***Ad quartum sic proceditur. Videtur quod Filius Dei Incarnationem suam non debuit tantum differre.***
+Ad quartum sic proceditur. Videtur quod Filius Dei Incarnationem suam non debuit tantum differre.  
 
 Tempus enim Incarnationis dicitur tempus plenitudinis: ad Galat. 4:4: *cum venit plenitudo temporis misit Deus Filium suum*. Sed plenitudo perfectionem importat. Cum ergo perfectio universi consummata sitBrussels manuscript adds *et perfecta*. die septima, ut dicitur Gen. 1, videtur quod tunc debuit Filius Dei incarnari.  
 
@@ -292,7 +294,7 @@ Articulus 1
 
 ***Utrum una persona sine alia possit carnem assumere***
 
-***Ad primum sic proceditur. Videtur quod una persona sine alia non possit carnem assumere.***
+Ad primum sic proceditur. Videtur quod una persona sine alia non possit carnem assumere.  
 
 Damascenus dicit:Ed. add *quod*. *in divinis omnia unum sunt praeter ingenerationem, generationem et processionem*. Sed incarnatio nullum horum est. Ergo incarnatio communis est tribus.Brussels manuscript adds *personis*.  
 
@@ -328,7 +330,7 @@ Articulus 2
 
 ***Utrum magis fuerit conveniens Filium incarnari quam Patrem vel Spiritum Sanctum***
 
-***Ad secundum sic proceditur. Videtur quod non magis fuerit conveniens Filium incarnari quam Patrem vel Spiritum Sanctum.***
+Ad secundum sic proceditur. Videtur quod non magis fuerit conveniens Filium incarnari quam Patrem vel Spiritum Sanctum.  
 
 Sicut enim in mysterio Incarnationis monstrata est sapientia in decentia reconciliationis, ita etiam monstrata est potentia in hoc quod in infinitum distantia conjuncta sunt, et etiam bonitas in hoc quod *non despexit proprii plasmatis infirmitatem*, utEd. read *sicut*. dicit Damascenus. Sed sicut sapientia attribuitur Filio, ita bonitas Spiritui Sancto et potentia Patri. Ergo non magis decebat Filium incarnari quam Patrem vel Spiritum Sanctum.  
 
@@ -428,7 +430,7 @@ Articulus 4
 
 ***Utrum Pater et Filius et Spiritus Sanctus possit eamdem numero naturam assumere***
 
-***Ad quartum sic proceditur. Videtur quod Pater et Spiritus Sanctus non possint assumere unam et eamdem numero naturam.Ed. read *non possunt unam et eamdem in numero naturam assumere*.***
+Ad quartum sic proceditur. Videtur quod Pater et Spiritus Sanctus non possint assumere unam et eamdem numero naturam.Ed. read *non possunt unam et eamdem in numero naturam assumere*.  
 
 Primo per hoc quod dicit Anselmus in lib. *De Conceptu Virginali*: *plures personae non possunt assumere unum eumdemque hominem*. Sed si unam naturam assumerent, unus homo assumptus esset a pluribus personis. Ergo primum est impossibile.  
 
@@ -474,7 +476,7 @@ Articulus 5
 
 ***Utrum una persona possit duas naturas humanas assumere***
 
-***Ad quintum sic proceditur. Videtur quod una persona non possit duas naturas humanas assumere.***
+Ad quintum sic proceditur. Videtur quod una persona non possit duas naturas humanas assumere.  
 
 Natura enim communis non multiplicatur nisi secundum pluralitatem suppositorum. Sed una persona est tantum unum suppositum, ut infra patebit. Ergo non potest in una persona esse duplex natura ejusdem speciei.  
 
@@ -506,7 +508,7 @@ Ad quintum dicendum quod terminus in praedicato positus tenetur formaliter, quod
 
 Expositio textus  
 
-****Plenitudo temporis*, etc. Sciendum quod tempus Incarnationis dicitur tempus plenitudinis multis de causis. Primo, propter perfectionem universi; quia tunc ad maximam completionem universum venit, quando creaturae omnes in homine ad suum principium redierunt, humana natura a Deo assumpta.All editions add *sicut ponitur*. Ephes. 1:10: *in dispensatione plenitudinis etc*. Secundo, propter abundantiam gratiae quae tunc propalata est. Joan. 1:16: *de plenitudine ejus omnes accepimus etc*. Tertio, propter adimpletionem legis. Mat. 5:17: *non veni solvere legem, sed adimplere*. Quarto, propter magnitudinem ejus quod in tempore illo accidit; quia in tempore illo natus est Dominus temporis, et ita factum est aliquid majus tempore, quod tempus implevit. Quinto, quia in tempore illo impletum est quod Deus ab aeterno praevidit, et quod ante per Prophetas suos praedixerat.***
+*Plenitudo temporis*, etc. Sciendum quod tempus Incarnationis dicitur tempus plenitudinis multis de causis. Primo, propter perfectionem universi; quia tunc ad maximam completionem universum venit, quando creaturae omnes in homine ad suum principium redierunt, humana natura a Deo assumpta.All editions add *sicut ponitur*. Ephes. 1:10: *in dispensatione plenitudinis etc*. Secundo, propter abundantiam gratiae quae tunc propalata est. Joan. 1:16: *de plenitudine ejus omnes accepimus etc*. Tertio, propter adimpletionem legis. Mat. 5:17: *non veni solvere legem, sed adimplere*. Quarto, propter magnitudinem ejus quod in tempore illo accidit; quia in tempore illo natus est Dominus temporis, et ita factum est aliquid majus tempore, quod tempus implevit. Quinto, quia in tempore illo impletum est quod Deus ab aeterno praevidit, et quod ante per Prophetas suos praedixerat.  
 
 *Factum de muliere*, etc. Contra. In symbolo dicitur: *genitum, non factum*. Praeterea, mulier corruptionem importat. Sed Christus de incorruptissima Virgine natus est. Ergo inconvenienter dicitur: *factum de muliere*. Sed dicendum ad primum quod Filius Dei secundum divinam naturam nullo modo est factus, sed genitus. Sed secundum humanam naturam aliquo modo est factus, quia humana naturaEd. omit *aliquo modo est factus quia humana natura* . . .  quam assumpsit, creatura quaedam est. Non tamen Christus potest dici proprie factus simpliciter loquendo; sed dicitur Filius Dei factus homo. Ad secundum dicendum quod mulier ponitur hic ad designationem sexus et non ad significandumAll editions read *designandum*. corruptionem; sicut costa assumpta de Adam dicitur formata in mulierem, quamvis Eva tunc virgo sit facta.  
 

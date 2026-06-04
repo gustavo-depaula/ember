@@ -1,5 +1,7 @@
 # Chapter 53
 
+***^53:1^ Who has believed our report? And to whom is the arm of the Lord revealed?***
+
 > ^53:2^ And he shall rise*Ascendet*. DR: “grow.” up as a tender plant before him, and as a root out of a thirsty ground: there is no form*Species*. DR: “beauty.” in him, nor comeliness: and we have seen him, and there was no sightliness, that we should be desirous of him:
 
 > ^53:3^ Despised, and the most abject of men, a man of sorrows, and acquainted with infirmity: and his look was as it were hidden and despised, whereupon we esteemed him not.

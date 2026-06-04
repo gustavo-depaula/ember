@@ -1,6 +1,8 @@
 # C. 36 - Jeremiah’s book
 
-***^36:1^ Et factum est in anno quarto Joakim filii Josiae regis Juda, factum est verbum hoc ad Jeremiam a Domino, dicens:***
+***Lectio 1***
+
+^36:1^ Et factum est in anno quarto Joakim filii Josiae regis Juda, factum est verbum hoc ad Jeremiam a Domino, dicens:  
 
 > ^36:2^ tolle volumen libri, et scribes in eo omnia verba quae locutus sum tibi adversum Israel et Judam, et adversum omnes gentes, a die qua locutus sum ad te, ex diebus Josiae usque ad diem hanc:
 
@@ -24,7 +26,7 @@ Tertio scripturae ministrum: ***vocavit ergo Jeremias Baruch***. Apoc. 1: *quod 
 
 Lectio 2  
 
-***^36:5^ Et praecepit Jeremias Baruch, dicens: ego clausus sum, nec valeo ingredi domum Domini.***
+^36:5^ Et praecepit Jeremias Baruch, dicens: ego clausus sum, nec valeo ingredi domum Domini.  
 
 > ^36:6^ Ingredere ergo tu, et lege de volumine in quo scripsisti ex ore meo verba Domini, audiente populo in domo Domini in die jejunii, insuper et audiente universo Juda, qui veniunt de civitatibus suis. Leges eis,
 
@@ -56,7 +58,7 @@ Quantum ad locum: ***legitque Baruch . . . in introitu portae novae***, quam fec
 
 Lectio 3  
 
-***^36:11^ Cumque audisset Michaeas filius Gamariae filii Saphan omnes sermones Domini ex libro,***
+^36:11^ Cumque audisset Michaeas filius Gamariae filii Saphan omnes sermones Domini ex libro,  
 
 > ^36:12^ descendit in domum regis ad gazophylacium scribae: et ecce ibi omnes principes sedebant: Elisama scriba, et Dalaias filius Semeiae, et Elnathan filius Achobor, et Gamarias filius Saphan, et Sedecias filius Hananiae, et universi principes.
 
@@ -108,7 +110,7 @@ Tertio ponitur scripturae recitatio: ***misitque rex Judi***; Job 29: *cumque se
 
 Lectio 5  
 
-***^36:22^ Rex autem sedebat in domo hiemali in mense nono, et posita erat arula coram eo plena prunis.***
+^36:22^ Rex autem sedebat in domo hiemali in mense nono, et posita erat arula coram eo plena prunis.  
 
 > ^36:23^ Cumque legisset Judi tres pagellas vel quatuor, scidit illud scalpello scribae, et projecit in ignem qui erat super arulam, donec consumeretur omne volumen igni qui erat in arula.
 
@@ -134,7 +136,7 @@ Tertio ponitur principum contradictio: ***verumtamen Elnathan, et Dalajas, et Ga
 
 Lectio 6  
 
-***^36:26^ Et praecepit rex Jeremiel filio Amelech, et Saraiae filio Ezriel, et Selemiae filio Abdeel, ut comprehenderent Baruch scribam, et Jeremiam prophetam. Abscondit autem eos Dominus.***
+^36:26^ Et praecepit rex Jeremiel filio Amelech, et Saraiae filio Ezriel, et Selemiae filio Abdeel, ut comprehenderent Baruch scribam, et Jeremiam prophetam. Abscondit autem eos Dominus.  
 
 > **194**. Hic ponitur scribentium persecutio:
 
@@ -144,7 +146,7 @@ secundo ponitur divinum auxilium: ***abscondit autem eos Dominus***; et fecit qu
 
 Lectio 7  
 
-***^36:27^ Et factum est verbum Domini ad Jeremiam prophetam postquam combusserat rex volumen, et sermones quos scripserat Baruch ex ore Jeremiae, dicens:***
+^36:27^ Et factum est verbum Domini ad Jeremiam prophetam postquam combusserat rex volumen, et sermones quos scripserat Baruch ex ore Jeremiae, dicens:  
 
 > ^36:28^ rursum tolle volumen aliud, et scribe in eo omnes sermones priores, qui erant in primo volumine, quod combussit Joakim rex Juda.
 

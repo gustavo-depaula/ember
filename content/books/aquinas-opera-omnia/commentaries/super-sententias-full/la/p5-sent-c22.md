@@ -1,6 +1,8 @@
 # D. 21 - Death and resurrection of Christ
 
-***Postquam determinavit Magister de his quae Christus cum humana natura assumpsit, scilicet gratia etBruges manuscript omits *et.* scientia et defectibus, et de his quae per humanam naturam operatus est, scilicet de meritis; hic determinat de morte quam in humana natura sustinuit.***
+***Divisio textus***
+
+Postquam determinavit Magister de his quae Christus cum humana natura assumpsit, scilicet gratia etBruges manuscript omits *et.* scientia et defectibus, et de his quae per humanam naturam operatus est, scilicet de meritis; hic determinat de morte quam in humana natura sustinuit.  
 
 Dividitur autem haec pars in duas.  
 
@@ -70,7 +72,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod in morte Christi DivinitasEd. read *Deitas.* a carne separata sit.***
+Ad primum sic proceditur. Videtur quod in morte Christi DivinitasEd. read *Deitas.* a carne separata sit.  
 
 Remoto enim medio separantur extrema quae per medium conjunguntur. Sed sicut 2 d. dictum est, divinitas conjungebatur carni mediante anima. Ergo separataPLE: *separabatur*. anima a carne, separatur etiam divinitas.  
 
@@ -86,7 +88,7 @@ Praeterea, Leo Papa dicit: *tanta fuit unio Dei et hominis, ut nec supplicio pos
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod DivinitasEd. read *Deitas.* sit separata ab anima. Utraque enim mors, ut dicitur in littera, scilicet qua separatur corpus ab anima et qua separatur anima a Deo, diaboli suasu homini propinata est. Sed Christus in se accepit mortem qua separatur corpus ab anima, ut a nobis excluderet quod suasu daemonis in nos devenit.The Piana, Antwerp, Nicolaï, Venice, and Parma editions read i*n nobis devenit*; the Venice 2nd edition adds *forte in nobis evenit, vel in nos devenit.* Ergo simpliciterPLE: *similiter*. debuit pati mortem quae est separatio animae a Divinitate.***
+Ulterius, videtur quod DivinitasEd. read *Deitas.* sit separata ab anima. Utraque enim mors, ut dicitur in littera, scilicet qua separatur corpus ab anima et qua separatur anima a Deo, diaboli suasu homini propinata est. Sed Christus in se accepit mortem qua separatur corpus ab anima, ut a nobis excluderet quod suasu daemonis in nos devenit.The Piana, Antwerp, Nicolaï, Venice, and Parma editions read i*n nobis devenit*; the Venice 2nd edition adds *forte in nobis evenit, vel in nos devenit.* Ergo simpliciterPLE: *similiter*. debuit pati mortem quae est separatio animae a Divinitate.  
 
 Praeterea, quicumque deponit aliquid, illud a se separat. Sed Filius Dei dicit de seipso, Joan. 10:17: *ego pono animam meam*. Ergo eam a se separavit.  
 
@@ -104,7 +106,7 @@ Praeterea, Filius Dei dicitur descendisse ad inferos. Sed hoc non convenit sibi 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod corpus Christi in morte non fuit separatum a Divinitate:Ed. *Deitate.* cujus ratio ex tribus potest accipi. Primo ex parte Dei, quia, cum sit immutabilis, ei quod sibi perfecte conjunctum est incommutabilitatem praestat, ut scilicet immutabiliter ei adhaereat. Secundo ex parte ipsius assumpti, quodEd. read quia. per mortem, quam ex obedientia Patris sustinuit, non debuit suam dignitatem amittere, sed magis debuitThe Piana, Antwerp, Nicolaï, Venice, and Parma editions omit *debuit*; the Piana and Antwerp editions read *clarificare*. clarificari. Tertio ex fine assumptionis, quia ea quae post mortem ipsius circa ipsum acta sunt, salutaria nobis non fuissent, nisi DivinitasEd. read *Deitas.* adjunctaThe Vivès edition reads *abjuncta.* esset.***
+Respondeo dicendum ad primam quaestionem quod corpus Christi in morte non fuit separatum a Divinitate:Ed. *Deitate.* cujus ratio ex tribus potest accipi. Primo ex parte Dei, quia, cum sit immutabilis, ei quod sibi perfecte conjunctum est incommutabilitatem praestat, ut scilicet immutabiliter ei adhaereat. Secundo ex parte ipsius assumpti, quodEd. read quia. per mortem, quam ex obedientia Patris sustinuit, non debuit suam dignitatem amittere, sed magis debuitThe Piana, Antwerp, Nicolaï, Venice, and Parma editions omit *debuit*; the Piana and Antwerp editions read *clarificare*. clarificari. Tertio ex fine assumptionis, quia ea quae post mortem ipsius circa ipsum acta sunt, salutaria nobis non fuissent, nisi DivinitasEd. read *Deitas.* adjunctaThe Vivès edition reads *abjuncta.* esset.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod sicut supra, 2 d. dictum est, anima quantum ad unibilitatem corporis, est medium necessitatis, quia corpus non esset unibile nisi inquantum est animatum; sed quantum ad unionem in actu, est medium congruentiae, quo remoto, non necessarioBruges manuscript adds *etiam.* unio tollitur, ut supra d. 2, dictum est. Et ideo, quia separata anima a corpore, adhuc in corpore remansit ordo ad animam, et unibile remansit et unitum.  
 
@@ -116,7 +118,7 @@ Ad quartum dicendum quod corpus non est susceptivum gratiae habitualis, quia ill
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod propter easdem rationes anima a Verbo in morte Christi separata non fuit, et adhuc amplius, inquantum anima immediatius et pluribus modis Verbo unitur quam corpus.***
+Ad secundam quaestionem dicendum quod propter easdem rationes anima a Verbo in morte Christi separata non fuit, et adhuc amplius, inquantum anima immediatius et pluribus modis Verbo unitur quam corpus.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod mors animae est secundum separationem animae a Deo per peccatum, opposita conjunctioni quae est per caritatem: quam mortem Christum assumere non decuit sicut nec peccatum, ut supra, d. 15 dictum est; et ideo haec ratio non est ad propositum, quia etiamsi esset factaEd. read *perfecta.* separatio animae a Verbo quantum ad conjunctionem quae est in persona, adhuc anima non esset mortua sed viva, inquantum remaneret Deo per caritatem conjuncta.  
 
@@ -134,7 +136,7 @@ Articulus 2
 
 ***Utrum corpus Christi post mortem debuerit dissolvi***
 
-***Ad secundum sic proceditur. Videtur quod corpus Christi post mortem debuit dissolvi sive incinerari.***
+Ad secundum sic proceditur. Videtur quod corpus Christi post mortem debuit dissolvi sive incinerari.  
 
 Hebr. 2:17, dicitur quodEd. omit *quod.* *Christus debuit per omnia fratribus assimilari*. Sed alii homines qui dicuntur fratres Christi, secundum corpus incinerantur. Ergo et corpus Christi incinerari debuit.  
 
@@ -168,7 +170,7 @@ Articulus 3
 
 ***Utrum Filius Dei debeat dici mortuus***
 
-***Ad tertium sic proceditur. Videtur quod Christus vel Filius Dei non debeat dici mortuus.***
+Ad tertium sic proceditur. Videtur quod Christus vel Filius Dei non debeat dici mortuus.  
 
 Ea enim quae habent repugnantiam intellectuum ad Filium Dei, de eo non praedicantur. Sed cum Dei Filius sit vita, sicut dicitur Joan. 14:6, mortuum esse habet repugnantiam intellectus cum ipso. Ergo non debet dici quod sit mortuus.  
 
@@ -214,7 +216,7 @@ Articulus 1
 
 ***Utrum necesse fuerit Christum resurgere***
 
-***Ad primum sic proceditur. Videtur quod non fuerit necessarium Christum resurgere.***
+Ad primum sic proceditur. Videtur quod non fuerit necessarium Christum resurgere.  
 
 Quia, sicut dicit Damascenus, resurrectio est ejus quod cecidit et dissolutum est, iterata surrectio. Sed Christus non cecidit per peccatum, nec ejus corpus dissolutum est. Ergo non debetur ei resurrectio.  
 
@@ -242,7 +244,7 @@ Articulus 2
 
 ***Utrum Christus debuerit tertia die resurgere***
 
-***Ad secundum sic proceditur. Videtur quod Christus non debuit tertia die resurgere.***
+Ad secundum sic proceditur. Videtur quod Christus non debuit tertia die resurgere.  
 
 Caput enim est conforme membris in natura. Sed per resurrectionem natura reparatur quantum ad passibilitatem et mortalitatem. Ergo Christus debuit simul cum aliis resurgere, et non tertia die.  
 
@@ -282,7 +284,7 @@ Articulus 3
 
 ***Utrum Christus debuerit probare Resurrectionem suam argumentis***
 
-***Ad tertium sic proceditur. Videtur quod Christus Resurrectionem suam argumentis probare non debuit.***
+Ad tertium sic proceditur. Videtur quod Christus Resurrectionem suam argumentis probare non debuit.  
 
 Ambrosius enim dicit: *tolle argumenta ubi fides quaeritur*. Sed de Resurrectione quaeritur fides. Ergo argumenta fieri ad Resurrectionem non debuerunt.Ed. read *debent.*  
 
@@ -322,7 +324,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod argumentum sumptum ex visibili apparitione non fueritEd. read *fuit.* conveniens.***
+Ad quartum sic proceditur. Videtur quod argumentum sumptum ex visibili apparitione non fueritEd. read *fuit.* conveniens.  
 
 Quia ad veritatem Resurrectionis exigitur quod sit verum corpus humanum quod resurgit. Sed angeli qui non habent vera humana corpora, apparuerunt multis in Veteri Testamento. ErgoBruges manuscript reads *igitur.* per apparitionem visibilem non ostenditur veritas Resurrectionis.  
 
@@ -336,7 +338,7 @@ Praeterea, hoc patet per illudParis (841) manuscript reads *hoc*; the Paris (842
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non debuit se eis*seipsis.—-se eis*. PLE. The other editions read *se ipsis.* palpabilem exhibere. Palpabile enim incorruptibili contrarium est, ut dicit Gregorius. Sed contraria non possunt esse in eodem. Cum igitur corpus Christi esset incorruptibile, videtur quod non debuitEd. read *debuerit.* ipsum palpabile exhibere.***
+Ulterius, videtur quod non debuit se eis*seipsis.—-se eis*. PLE. The other editions read *se ipsis.* palpabilem exhibere. Palpabile enim incorruptibili contrarium est, ut dicit Gregorius. Sed contraria non possunt esse in eodem. Cum igitur corpus Christi esset incorruptibile, videtur quod non debuitEd. read *debuerit.* ipsum palpabile exhibere.  
 
 Praeterea, differentiae tangibiles sunt calidum etBruges manuscript omits *et.* frigidum et hujusmodi contraria. Sed in corporibus glorificatis non erunt hujusmodi contrariae qualitates,Ed. read *contrarietates.* ut dicitur, nec etiam in elementis post mundi innovationem. Ergo corpus Christi palpari non potuit.  
 
@@ -352,7 +354,7 @@ Praeterea, inter alios sensus homo certissimum habet tactum, ut dicitur in 2 *De
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non debuerit per cicatrices suam Resurrectionem probare. Quia per suam Resurrectionem Christus nostram demonstravit. Sed a resurgentibus omnis corruptio removebitur. Cum igitur cicatrix sit quaedam corruptio, videtur quod Christus per cicatrices suam Resurrectionem probare non debuit.***
+Ulterius, videtur quod non debuerit per cicatrices suam Resurrectionem probare. Quia per suam Resurrectionem Christus nostram demonstravit. Sed a resurgentibus omnis corruptio removebitur. Cum igitur cicatrix sit quaedam corruptio, videtur quod Christus per cicatrices suam Resurrectionem probare non debuit.  
 
 Praeterea, status resurgentium est status immutabilis. Ergo Christus in seipso non debuit demonstrare nisi quod semper in se futurum erat. Sed cicatrices non semper in Christo debebant remanere, quia dicit Damascenus quod tantum secundum dispensationem fuerunt in Christo. Ergo cicatrices ostendere non debuit.  
 
@@ -364,7 +366,7 @@ Praeterea, decet victorem insignia suae victoriae et habere et ostendere. Sed, s
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod non debuit per manducationem suam Resurrectionem ostendere.Bruges and Paris (841 and 842) manuscripts read *demonstrare.* Comestio enim spectat ad vitam animalem. Sed per Resurrectionem nonThe Piana and Antwerp editions omit *non.* transitur ad vitam animalem,The Antwerp edition reads *ad vitam in animalem.* ut dicunt Saraceni et Judaei. Ergo Christus per comestionem Resurrectionem probare non debuit.***
+Ulterius, videtur quod non debuit per manducationem suam Resurrectionem ostendere.Bruges and Paris (841 and 842) manuscripts read *demonstrare.* Comestio enim spectat ad vitam animalem. Sed per Resurrectionem nonThe Piana and Antwerp editions omit *non.* transitur ad vitam animalem,The Antwerp edition reads *ad vitam in animalem.* ut dicunt Saraceni et Judaei. Ergo Christus per comestionem Resurrectionem probare non debuit.  
 
 Praeterea, cibus comestus convertitur in corpus comedentis. Sed in corpus Christi non potuit aliquid converti, quia jam erat extra statum generationis et corruptionis. Ergo videtur quod comedere non debuit.  
 
@@ -376,7 +378,7 @@ Praeterea, veritas Incarnationis probatur per illudEd. read *id.* quod est infim
 
 Solutio 1  
 
-***Respondeo dicendum, ad primam quaestionem quod ad veritatem Resurrectionis exigitur quod idem numero resurgat. Individuatio autem, secundum quam est aliquid unum numero, ex diversis accidentibus manifestatur, quorum collectio in alio non invenitur. Et quia visus, ut dicit Philosophus in principio *Meta.*, plures rerum differentias nobis ostendit,Bruges manuscript reads *demonstrat.* ideo quod sit idem numero, nunquam melius quam per visum cognoscitur;Ed. read *manifestatur.* et ideo visibilis apparitio fuit unum de argumentis Resurrectionis.***
+Respondeo dicendum, ad primam quaestionem quod ad veritatem Resurrectionis exigitur quod idem numero resurgat. Individuatio autem, secundum quam est aliquid unum numero, ex diversis accidentibus manifestatur, quorum collectio in alio non invenitur. Et quia visus, ut dicit Philosophus in principio *Meta.*, plures rerum differentias nobis ostendit,Bruges manuscript reads *demonstrat.* ideo quod sit idem numero, nunquam melius quam per visum cognoscitur;Ed. read *manifestatur.* et ideo visibilis apparitio fuit unum de argumentis Resurrectionis.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod apparitio visibilis non inducebatur ad probandum veritatem carnis, quia hoc per alia argumenta probabatur, sed ad probandum identitatem suppositi, supposita veritate corporis.  
 
@@ -386,7 +388,7 @@ Ad tertium dicendum quod discipulis illisEd. omit *illis.* Christus formam natur
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod propter vehementiam imaginationis contingit aliquando quod illud quod imaginatio apprehendit, videtur esse praesens in visu, non solum in dormiendo, sed etiam in vigilando. Similiter etiam contingit quod ex oppositione aliquorum corporum videntur quaedamEd. read *videtur aliqua.* effigies, ac si essentEd. read *esset.* hominum, vel aliorum animalium. Iterum etiam apparitiones visibiles daemonum et etiam angelorum consueverunt fieri per corpora aerea inspissata; unde statim cum volunt, dissolvuntur. Et ideo Dominus ad ostendendum veritatem Resurrectionis, palpationem visui adjunxit, ut excluderetur visio per immutationem visus ab imaginatione, et visio umbrarum, et visio spirituum apparentium.***
+Ad secundam quaestionem dicendum quod propter vehementiam imaginationis contingit aliquando quod illud quod imaginatio apprehendit, videtur esse praesens in visu, non solum in dormiendo, sed etiam in vigilando. Similiter etiam contingit quod ex oppositione aliquorum corporum videntur quaedamEd. read *videtur aliqua.* effigies, ac si essentEd. read *esset.* hominum, vel aliorum animalium. Iterum etiam apparitiones visibiles daemonum et etiam angelorum consueverunt fieri per corpora aerea inspissata; unde statim cum volunt, dissolvuntur. Et ideo Dominus ad ostendendum veritatem Resurrectionis, palpationem visui adjunxit, ut excluderetur visio per immutationem visus ab imaginatione, et visio umbrarum, et visio spirituum apparentium.  
 
 Ad primum igiturEd. omit *igitur.* dicendum quod omne corpus tangibile est per naturam corruptibile; unde secundum philosophos caelum est visibile, sed non tangibile. Sed quod est per naturam corruptibile, potest esse per gloriam incorruptibile. Unde quamvis corruptibile et incorruptibile sint contraria simpliciter, propter quod dicit Gregorius quod ostendit in se duo contraria; tamen corruptibile per naturam et incorruptibile per gratiamPLE: *gloriam*. non sunt contraria. Unde sicut corpus gloriosum habet in potestate sua quod possit videri et non videri, ita habet in potestate quod possit palpari et non palpari, et utrumque sine miraculo; sed palpatur per naturam corporis, non palpabile autem est, inquantum corpus est instrumentum animae gloriosae.  
 
@@ -400,7 +402,7 @@ Ad quintum dicendum quod per tactum cognoscimus calidum et frigidum, durum et mo
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod cicatrices signa erant mortis Christi. Unde secundum hoc accidens ostendebatur quod ille idem qui mortuus fuerat resurrexit.***
+Ad tertiam quaestionem dicendum quod cicatrices signa erant mortis Christi. Unde secundum hoc accidens ostendebatur quod ille idem qui mortuus fuerat resurrexit.  
 
 Ad primum igiturParis (842) manuscript and the other editions read *ergo.* dicendum quod secundum Augustinum,Bruges manuscript reads *Augustinus 20 De Civit. Dei*; the Paris (841 and 842) manuscripts read *20.* 22 *De civ. Dei*, hujusmodi cicatrices vulnerum remanserunt in victoribusPLE: *martiribus*. et in Christo remanserunt ad decorem quasi insignia victoriae suae,Ed. add *et.* non quod aliqua corruptio vel defectus ex istis cicatricibus in eis sit. Unde etsi aliquibus sanctis sunt amputata aliqua membra, non oportet quod sine illis resurgant, sed quod in loco incisionis aliquod vestigium ad decorem gloriae remaneat.  
 
@@ -410,7 +412,7 @@ Ad tertium dicendum quod Thomas ad solum aspectum vulnerum credidit; unde dictum
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod per comestionem ostendit veram remansisse naturam humanam ex illis vitae operibus quae sunt infima, ut prius dictum est.***
+Ad quartam quaestionem dicendum quod per comestionem ostendit veram remansisse naturam humanam ex illis vitae operibus quae sunt infima, ut prius dictum est.  
 
 Ad primum igitur dicendum quod magis difficile erat ad credendum veritatemEd. read *veritas.* Resurrectionis quam gloriamEd. read *gloria.* resurgentis Resurrectione supposita; et ideo maxime facta sunt argumenta ad probandamEd. read *probandum.* veritatem naturaeEd. add humanae. quae manet in statu gloriae quantum ad omnes potentias et membra, ut sit natura integra, quamvis non remaneant omnes usus potentiarum velEd. read *et.* membrorum, quia non inest necessitas. Et ideo ista comestio non fuit necessitatis, sicut est in animali vita, sed magis fuit potestatis, idest naturalis potentiae ostensiva.  
 
@@ -420,6 +422,6 @@ Ad tertium dicendum quod in angelis non est comestio ad ostendendamEd. read *ost
 
 Expositio textus  
 
-****Nemo tollit eam a me...*. Contra. Ergo Christus non fuit per violentiam crucifigentium occisus. EtEd. omit *et.* dicendum quod illi quantum erat in eis,Bruges manuscript reads *illis.* violentiam intulerunt; quamvis Christo violentia inferri non potueritThe Piana, Antwerp, Nicolaï, Venice, and Parma editions read *potuit.* ex parte personae, sed solum ex parte corporis humani.Ed. add *Item.****
+*Nemo tollit eam a me...*. Contra. Ergo Christus non fuit per violentiam crucifigentium occisus. EtEd. omit *et.* dicendum quod illi quantum erat in eis,Bruges manuscript reads *illis.* violentiam intulerunt; quamvis Christo violentia inferri non potueritThe Piana, Antwerp, Nicolaï, Venice, and Parma editions read *potuit.* ex parte personae, sed solum ex parte corporis humani.Ed. add *Item.*  
 
 *Homo in illo mutatus est..*. Contra. Naturae manserunt utrinque immutatae.Ed. read *in unitate;* PLE: *inmutate*. EtEd. omit *et*. dicendum quod natura humana in Christo per hoc quod est assumpta in unitatem divinae personae, non est mutata a sua conditione naturali; sed accepit ampliorem perfectionem, secundum quam facta est melior.

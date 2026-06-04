@@ -1,6 +1,8 @@
 # C. 22 - Threats against Judah’s rulers
 
-***^22:1^ Haec dicit Dominus: descende in domum regis Juda, et loqueris ibi verbum hoc,***
+***Lectio 1***
+
+^22:1^ Haec dicit Dominus: descende in domum regis Juda, et loqueris ibi verbum hoc,  
 
 > ^22:2^ et dices: audi verbum Domini, rex Juda, qui sedes super solium David, tu, et servi tui, et populus tuus, qui ingredimini per portas istas.
 
@@ -62,7 +64,7 @@ Secundo ponitur comminationis confirmatio per sententiam divinam: ***quia haec d
 
 Lectio 2  
 
-***^22:13^ Vae qui aedificat domum suam in injustitia, et coenacula sua non in judicio. Amicum suum opprimet frustra, et mercedem ejus non reddet ei.***
+^22:13^ Vae qui aedificat domum suam in injustitia, et coenacula sua non in judicio. Amicum suum opprimet frustra, et mercedem ejus non reddet ei.  
 
 > ^22:14^ Qui dicit: aedificabo mihi domum latam et coenacula spatiosa; qui aperit sibi fenestras, et facit laquearia cedrina, pingitque sinopide.
 
@@ -112,7 +114,7 @@ Tertio comminatur contra ipsam civitatem regalem, confusionem: ***et tunc confun
 
 Lectio 3  
 
-***^22:24^ Vivo ego, dicit Dominus, quia si fuerit Jechonias filius Joakim regis Juda annulus in manu dextera mea, inde evellam eum.***
+^22:24^ Vivo ego, dicit Dominus, quia si fuerit Jechonias filius Joakim regis Juda annulus in manu dextera mea, inde evellam eum.  
 
 > ^22:25^ Et dabo te in manu quaerentium animam tuam, et in manu quorum tu formidas faciem, et in manu Nabuchodonosor regis Babylonis, et in manu Chaldaeorum.
 
@@ -150,6 +152,6 @@ Lectio 4
 
 Collationes  
 
-***Nota super illud, ***nolite flere super mortuum***, quod non multum plorandum est super mortuum propter planctus inutilitatem. Eccli. 38: *ne dederis in tristitia cor tuum, sed repelle eam a te*. Propter mortis communitatem. 2 Reg. 14: *omnes morimur, et quasi aquae dilabimur in terram, quae non revertuntur*. Propter culpae immunitatem. Sapien. 4: *raptus est ne malitia mutaret intellectum illius, aut ne fictio deciperet animam illius*. Propter laboris quietem. Apocalyp. 14: *amodo jam dicit spiritus ut requiescant a laboribus suis*. Propter gloriae consecutionem. 2 Corinth. 5: *scimus enim, quod si terrestris domus nostra hujus habitationis dissolvatur, quod aedificationem ex Deo habemus, domum non manu factam, sed aeternam in caelis*.***
+Nota super illud, ***nolite flere super mortuum***, quod non multum plorandum est super mortuum propter planctus inutilitatem. Eccli. 38: *ne dederis in tristitia cor tuum, sed repelle eam a te*. Propter mortis communitatem. 2 Reg. 14: *omnes morimur, et quasi aquae dilabimur in terram, quae non revertuntur*. Propter culpae immunitatem. Sapien. 4: *raptus est ne malitia mutaret intellectum illius, aut ne fictio deciperet animam illius*. Propter laboris quietem. Apocalyp. 14: *amodo jam dicit spiritus ut requiescant a laboribus suis*. Propter gloriae consecutionem. 2 Corinth. 5: *scimus enim, quod si terrestris domus nostra hujus habitationis dissolvatur, quod aedificationem ex Deo habemus, domum non manu factam, sed aeternam in caelis*.  
 
 Item super illud, ***omnes pastores tuos pascet ventus***, nota, quod pastores Ecclesiae quandoque pascit ventus elationis. Isa. 57: *omnes eos auferet ventus, tollet aura*. Ventus nimiae expectationis. Eccli. 34: *quasi qui apprehendit umbram, et persequitur ventum, sic et qui attendit ad visa mendacia*. Ventus captivitatis. Ezech. 5: *tertiam partem disperges in ventum, et gladium nudabis post eos*. Et futurae damnationis. Supra 18: ***sicut ventus urens dispergam eos coram inimico; dorsum et non faciem ostendam eis in die perditionis eorum***.

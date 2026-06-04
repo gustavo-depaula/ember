@@ -1,5 +1,7 @@
 # Q. 14 - On gluttony
 
+***De gula***
+
 ***Articulus 1***
 
 ***Utrum gula semper sit peccatum***
@@ -114,7 +116,7 @@ Articulus 3
 
 ***De speciebus gulae***
 
-***Tertio quaeritur de speciebus gulae, quas Gregorius assignat XXX Moral., dicens: quinque modis nos gulae vitium tentat: aliquando namque indigentiae tempora praevenit; aliquando cibos lautiores quaerit; aliquando quae sumenda sunt praeparari accuratius appetit; aliquando in ipsa quantitate sumendi mensuram refectionis excedit; aliquando ipso aestu immensi desiderii aliquis peccat; et continentur in hoc versu: praepropere, laute, nimis, ardenter, studiose.***
+Tertio quaeritur de speciebus gulae, quas Gregorius assignat XXX Moral., dicens: quinque modis nos gulae vitium tentat: aliquando namque indigentiae tempora praevenit; aliquando cibos lautiores quaerit; aliquando quae sumenda sunt praeparari accuratius appetit; aliquando in ipsa quantitate sumendi mensuram refectionis excedit; aliquando ipso aestu immensi desiderii aliquis peccat; et continentur in hoc versu: praepropere, laute, nimis, ardenter, studiose.  
 
 Videtur autem quod inconvenienter istae quinque species gulae distinguantur. Differunt enim praedicti modi gulae secundum diversas circumstantias: quia *praepropere* respicit tempus, *laute* respicit substantiam cibi, et sic de aliis. Sed circumstantiae, cum sint accidentia actuum, non diversificant speciem. Ergo secundum praedicta quinque non debent distingui diversae species gulae.  
 

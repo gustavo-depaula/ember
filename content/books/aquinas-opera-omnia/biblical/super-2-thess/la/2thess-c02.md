@@ -1,10 +1,12 @@
 # C. 1 - Hope for the Final Judgment
 
+***Spes Judicio Finalis***
+
 ***Lectio 1***
 
 ***Gratias propter Thessalonicenses***
 
-***^1:1^ Paulus, et Sylvanus, et Timotheus, ecclesiae Thessalonicensium in Deo Patre nostro, et Domino Jesu Christo. [n. 4]***
+^1:1^ Paulus, et Sylvanus, et Timotheus, ecclesiae Thessalonicensium in Deo Patre nostro, et Domino Jesu Christo. [n. 4]  
 
 > ^1:2^ Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo. [n. 7]
 
@@ -64,7 +66,7 @@ Lectio 2
 
 ***Futurum iudicium***
 
-***^1:6^ Si tamen justum est apud Deum retribuere tribulationem iis qui vos tribulant: [n. 12]***
+^1:6^ Si tamen justum est apud Deum retribuere tribulationem iis qui vos tribulant: [n. 12]  
 
 > ^1:7^ et vobis, qui tribulamini, requiem nobiscum in revelatione Domini Jesu de caelo cum angelis virtutis ejus,
 

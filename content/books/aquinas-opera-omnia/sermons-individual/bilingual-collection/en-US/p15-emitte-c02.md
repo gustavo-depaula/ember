@@ -1,5 +1,7 @@
 # Sermon
 
+******Send out your Spirit, and they will be created*** (Ps 104:30), et cetera.***
+
 Today Holy Mother Church solemnly celebrates the mission of the Holy Spirit that occurred among the apostles, the mission that was besought in a prophetic spirit by the prophet, saying: ***send out your Spirit, and they will be created***, et cetera. We can consider four things in these words, namely, (1) the property of the Holy Spirit, (2) his mission, (3) the strength of the one sent, and (4) the receptive matter of this strength. For it says: ***send out***—behold, the mission (2); ***your Spirit***—see, the person sent (1); ***and they will be created, and you will renew***—lo, the effect of the one sent (3); ***the face of the earth***—see, the receptive matter of this effect (4).Thus the structure of the sermon is that of Aristotle’s four causes: respectively, the formal (who the Spirit is), the final (why he acts), the effective (that he acts), and the material (the object).  
 
 **1**. First, I say, the property of the Holy Spirit is mentioned when he says: ***your Spirit***. Here we must notice that the name “spirit” seems to imply four things: (1.1) the fineness of substance, (1.2) the perfection of life, (1.3) the incitement of a movement, and (1.4) his hidden origin.  

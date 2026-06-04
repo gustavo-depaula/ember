@@ -1,5 +1,7 @@
 # On Things Pertaining to Grace and Fault
 
+***Quaestio 4***
+
 ***Quantum ad praelates***
 
 ***Deinde quaeritur de his quae pertinent ad culpam vel gratiam.***
@@ -62,7 +64,7 @@ Articulus 2
 
 ***Utrum mali praelati sint honorandi vel non***
 
-***Ad secundum sic proceditur. Videtur quod malis praelatis non sit honor exhibendus.***
+Ad secundum sic proceditur. Videtur quod malis praelatis non sit honor exhibendus.  
 
 Sicut enim dicit Boethius in libro *De consolatione*: *non possumus ob honores* reverendos *iudicare quos ipsis honoribus* reputamus *indignos*; sed mali praelati non sunt honoribus digni; ergo non possunt iudicari esse reverendi a suis subditis.  
 
@@ -80,7 +82,7 @@ Quaestio 5
 
 ***Quantum ad omnes***
 
-***Deinde quaeritur de pertinentibus ad gratiam communibus omni statui. Et circa hoc quaeruntur tria:***
+Deinde quaeritur de pertinentibus ad gratiam communibus omni statui. Et circa hoc quaeruntur tria:  
 
 primo de orationibus, utrum oratio tantum valeat facta pro alio sicut facta pro se;  
 
@@ -92,7 +94,7 @@ Articulus 1
 
 ***De orationibus***
 
-***Ad primum sic proceditur. Videtur quod oratio plus valeat pro se facta quam pro alio.***
+Ad primum sic proceditur. Videtur quod oratio plus valeat pro se facta quam pro alio.  
 
 Ita enim dicitur in quadam glossa, quod speciales orationes plus valent; sed illa est maxime specialis qua quis pro se orat; ergo plus valet oratio pro se facta quam pro alio.  
 
@@ -120,7 +122,7 @@ Articulus 2
 
 ***De suffragiis***
 
-***Ad secundum sic proceditur. Videtur quod suffragia ecclesiae specialiter facta pro aliquo divite, equaliter valeant pauperi pro quo non fiunt, si sit equalis meriti.***
+Ad secundum sic proceditur. Videtur quod suffragia ecclesiae specialiter facta pro aliquo divite, equaliter valeant pauperi pro quo non fiunt, si sit equalis meriti.  
 
 Ut enim dicit Augustinus, huiusmodi suffragia tantum valent unicuique post mortem quantum meruit vivens ut sibi prodessent; sed praedicti duo equaliter meruerunt; ergo equaliter eis praedicta suffragia prosunt.  
 
@@ -148,7 +150,7 @@ Articulus 3
 
 ***De votis***
 
-***Ad tertium sic proceditur. Videtur quod votum simplex continentiae dirimat matrimonium contractum.***
+Ad tertium sic proceditur. Videtur quod votum simplex continentiae dirimat matrimonium contractum.  
 
 Si enim aliquis det alicui quod prius alteri dederat, secunda datio nulla est; sed ille qui emittit votum simplex continentiae dat corpus suum Deo; ergo, cum postea contrahendo matrimonium det corpus suum uxori, contractus iste matrimonii nihil valere videtur; et sic votum simplex matrimonium contractum dirimit.  
 
@@ -170,7 +172,7 @@ Ratio autem in contrarium adducta falsum supponebat, scilicet quod per votum sim
 
 ***De his quae pertinent ad culpam***
 
-***Deinde quaeritur de his quae pertinent ad culpam. Et circa hoc quaeruntur quinque;***
+Deinde quaeritur de his quae pertinent ad culpam. Et circa hoc quaeruntur quinque;  
 
 primo, utrum peccet qui ad ecclesiam vadit propter distributiones, alias non iturus, quamvis a principio praebendam acceperit ut Deo serviret;  
 
@@ -184,9 +186,9 @@ quinto, utrum quantum aliquis intendit peccare, tantum peccet.
 
 Articulus 1  
 
-***Utrum peccet qui ad ecclesiam vadit propter distributiones, alias non iturus, quamvis a principio praebendam acceperit ut Deo serviret***
+Utrum peccet qui ad ecclesiam vadit propter distributiones, alias non iturus, quamvis a principio praebendam acceperit ut Deo serviret  
 
-***Ad primum sic proceditur. Videtur quod ille qui vadit ad ecclesiam propter distributionem, alias non iturus, peccat.***
+Ad primum sic proceditur. Videtur quod ille qui vadit ad ecclesiam propter distributionem, alias non iturus, peccat.  
 
 Ipse enim videtur ponere obsequium divinum, quod est impretiabile, sub pretio rei temporalis; ergo committit symoniam et ita videtur quod mortaliter peccet.  
 
@@ -204,7 +206,7 @@ Articulus 2
 
 ***Utrum aliquis habens de superfluo, peccet si non det pauperi petenti***
 
-***Ad secundum sic proceditur. Videtur quod ille qui non dat pauperi petenti, si habeat de superfluo, peccet.***
+Ad secundum sic proceditur. Videtur quod ille qui non dat pauperi petenti, si habeat de superfluo, peccet.  
 
 Facere enim eleemosynam de superfluo est in praecepto. Lucae XI: *verum tamen quod superest date eleemosynam*; ergo peccat si petenti non tribuat.  
 
@@ -218,9 +220,9 @@ Et per hoc patet responsio ad obiecta.
 
 Articulus 3  
 
-***Utrum quando sunt diverse opiniones de aliquo facto, ille qui sequitur minus tutam peccet, sicut de pluralitate praebendarum***
+Utrum quando sunt diverse opiniones de aliquo facto, ille qui sequitur minus tutam peccet, sicut de pluralitate praebendarum  
 
-***Ad tertium sic proceditur. Videtur quod ille qui habet plures praebendas peccet, ex hoc ipso quod opiniones magistrorum sunt in contrarium.***
+Ad tertium sic proceditur. Videtur quod ille qui habet plures praebendas peccet, ex hoc ipso quod opiniones magistrorum sunt in contrarium.  
 
 Quicumque enim committit se discrimini in his quae sunt ad salutem, peccat; sed iste committit se discrimini, ut videtur, cum faciat contra multorum peritorum sentenciam; ergo videtur quod peccet.  
 
@@ -254,7 +256,7 @@ Articulus 5
 
 ***Utrum quantum aliquis intendit peccare, tantum peccet***
 
-***Ad quintum sic proceditur. Videtur quod non oportet quod, si aliquis intendat peccare mortaliter, quod peccet mortaliter.***
+Ad quintum sic proceditur. Videtur quod non oportet quod, si aliquis intendat peccare mortaliter, quod peccet mortaliter.  
 
 Deus enim pronior est ad miserendum quam ad puniendum, ut habetur ex Glossa in principio Ieremiae; sed, si aliquis intendit peccare venialiter, non sequitur propter hoc quod venialiter peccet; ergo nec oportet quod qui intendit peccare mortaliter peccet mortaliter.  
 

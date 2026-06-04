@@ -1,8 +1,10 @@
 # D. 17 - Creation of man in regard to the constitution of his parts
 
+***De productione hominis in se, secundum quod ex suis partibus constat***
+
 ***Divisio textus***
 
-***Ostenso quod homo prodiit a Deo in similitudinem ejus, sicut a causa quodammodo univoca, hic determinat productionem hominis in se, secundum quod ex suis partibus constat; et dividitur haec pars in duas:***
+Ostenso quod homo prodiit a Deo in similitudinem ejus, sicut a causa quodammodo univoca, hic determinat productionem hominis in se, secundum quod ex suis partibus constat; et dividitur haec pars in duas:  
 
 in prima determinat productionem viri;  
 
@@ -170,7 +172,7 @@ Articulus 1
 
 ***Utrum anima rationalis vel intellectus sit unus numero in omnibus hominibus***
 
-***Ad primum sic proceditur. Videtur quod anima rationalis vel intellectus sit unus numero in omnibus hominibus.The Latin text here follows the PLE. Mandonnet provides the article’s title instead as *utrum anima intellectiva vel intellectus sit unus in omnibus hominibus*, “whether the intellective soul or the intellect is one in all men.” Nicolaï reads the question as follows (here and in the article’s title): *utrum anima intellectiva sit una, vel intellectus unus in omnibus hominibus*, “whether the intellective soul is one or the intellect is one in all men.”***
+Ad primum sic proceditur. Videtur quod anima rationalis vel intellectus sit unus numero in omnibus hominibus.The Latin text here follows the PLE. Mandonnet provides the article’s title instead as *utrum anima intellectiva vel intellectus sit unus in omnibus hominibus*, “whether the intellective soul or the intellect is one in all men.” Nicolaï reads the question as follows (here and in the article’s title): *utrum anima intellectiva sit una, vel intellectus unus in omnibus hominibus*, “whether the intellective soul is one or the intellect is one in all men.”  
 
 Nulla enim forma multiplicatur secundum esse ad divisionem materiae, nisi forma materialis. Sed intellectus, ut in 3 *De anima*, probatur, non est forma materialis, cum non sit actus corporis cujusdam: quod ex ipso suo actu probatur, quia cognoscit omnes formas materiales; quod non posset esse, si aliquam earum haberet in natura sua, vel determinaretur ad eam ex corpore cujus esset actus: sicut virtus visiva non cognosceret omnes colores, si pupilla, quae est organum ejus, haberet determinatum colorem. Ergo intellectus non multiplicatur secundum esse ad divisionem materiae; et ita manet unus in omnibus individuis humanae speciei, qui non nisi per materiam dividuntur.  
 
@@ -302,7 +304,7 @@ Quaestio 3
 
 ***De formatione hominis ex parte corporis***
 
-***Deinde quaeritur de formatione hominis ex parte corporis; et circa hoc quaeruntur duo:***
+Deinde quaeritur de formatione hominis ex parte corporis; et circa hoc quaeruntur duo:  
 
 primo de qua natura corpus hominis compositum sit;  
 
@@ -312,7 +314,7 @@ Articulus 1
 
 ***Utrum in compositione hominis sit aliquid de natura corporis caelestis***
 
-***Ad primum sic proceditur. Videtur quod in compositione corporis humani sit aliqua pars de natura corporis caelestis.***
+Ad primum sic proceditur. Videtur quod in compositione corporis humani sit aliqua pars de natura corporis caelestis.  
 
 Eidem enim formae debetur idem perfectibile. Sed forma corporis humani convenit in natura intellectuali cum forma separata, quae corpus caeli movet. Ergo videtur quod aliquid de natura caelestis corporis in compositionem humani corporis veniat.  
 
@@ -348,7 +350,7 @@ Articulus 2
 
 ***Utrum paradisus in quo fuit Adam possit esse locus corporalis***
 
-***Ad secundum sic proceditur. Videtur quod paradisus de quo fit hic mentio locus corporalis esse non possit.***
+Ad secundum sic proceditur. Videtur quod paradisus de quo fit hic mentio locus corporalis esse non possit.  
 
 Homo enim ab aliis animalibus in re corporali non distinguitur, cum quibus vitam et sensum communicat, sed in re spirituali, scilicet intellectu. Cum ergo ab aliis animalibus in paradiso dicatur distingui, quia alia animalia ibi posita non fuerunt, videtur quod paradisus sit locus tantum spiritualis.  
 
@@ -390,7 +392,7 @@ Vel dicendum quod hoc non sic intelligendum est quasi homo debeat operari paradi
 
 Expositio textus  
 
-****Animam cum angelis sine corpore fuisse creatam*.Mandonnet suggests supplying the rest of this text: *Augustinus, Super Genesim, tradit*, “Augustine has handed down to us that . . . .” Haec positio videtur irrationabilis: quia eorum quae sunt unius speciei est etiam unus modus originis; unde si aliae animae in corpore creantur, non potest rationabiliter sustineri quod anima primi hominis extra corpus creata sit. Quamvis Augustinus sine assertione hoc dicat, 7 *Super Genes*.***
+*Animam cum angelis sine corpore fuisse creatam*.Mandonnet suggests supplying the rest of this text: *Augustinus, Super Genesim, tradit*, “Augustine has handed down to us that . . . .” Haec positio videtur irrationabilis: quia eorum quae sunt unius speciei est etiam unus modus originis; unde si aliae animae in corpore creantur, non potest rationabiliter sustineri quod anima primi hominis extra corpus creata sit. Quamvis Augustinus sine assertione hoc dicat, 7 *Super Genes*.  
 
 *Deo autem natura est quod facit*. Ipse enim per naturam suam omnipotens est: ipse etiam naturarum institutor et conditor est: sicut enim ex operatione hominis formae artificiales proveniunt, ita etiam ab intellectu Dei formae naturales profluxere; unde id quod ab eo fit naturae rationem habet.  
 

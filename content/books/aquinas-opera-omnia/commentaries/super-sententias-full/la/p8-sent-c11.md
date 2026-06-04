@@ -1,6 +1,6 @@
 # D. 24 - Sacrament of holy orders
 
-***Postquam determinavit Magister de sacramentis quae ordinantur in remedium unius personae, hic determinat de sacramentis quae ordinantur in remedium totius Ecclesiae; et dividitur in partes duas: in prima determinat de sacramento ordinis, quod ordinatur ad spiritualem multiplicationem et gubernationem Ecclesiae; in secunda de matrimonio, quod ordinatur ad multiplicationem materialem fidelium, 26 dist., ibi: *cum alia sacramenta post peccatum et propter peccatum exordium sumpserint, matrimonii sacramentum etiam ante peccatum legitur institutum a Domino*.***
+Postquam determinavit Magister de sacramentis quae ordinantur in remedium unius personae, hic determinat de sacramentis quae ordinantur in remedium totius Ecclesiae; et dividitur in partes duas: in prima determinat de sacramento ordinis, quod ordinatur ad spiritualem multiplicationem et gubernationem Ecclesiae; in secunda de matrimonio, quod ordinatur ad multiplicationem materialem fidelium, 26 dist., ibi: *cum alia sacramenta post peccatum et propter peccatum exordium sumpserint, matrimonii sacramentum etiam ante peccatum legitur institutum a Domino*.  
 
 Prima in duas: in prima determinat de sacramento ordinis; in secunda de conferentibus hoc sacramentum, dist. 25, ibi: *solet quaeri, si haeretici . . . possint tradere sacros ordines*.  
 
@@ -38,7 +38,7 @@ primo, de ipso ordine;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod ordo in Ecclesia esse non debeat. Ordo enim requirit subjectionem et praelationem. Sed subjectio videtur repugnare libertati, in quam vocati sumus per Christum. Ergo ordo in Ecclesia esse non debet.***
+Ad primum sic proceditur. Videtur quod ordo in Ecclesia esse non debeat. Ordo enim requirit subjectionem et praelationem. Sed subjectio videtur repugnare libertati, in quam vocati sumus per Christum. Ergo ordo in Ecclesia esse non debet.  
 
 Praeterea, ille qui in ordine constituitur, alio superior fit. Sed in Ecclesia quilibet debet se altero inferiorem reputare. Phil. 2, 3: *superiores invicem arbitrantes*. Ergo non debet in Ecclesia esse ordo.  
 
@@ -50,7 +50,7 @@ Praeterea, status Ecclesiae est medius inter statum naturae et gloriae. Sed in n
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod inconvenienter ordo in littera definiatur, ubi dicitur: *ordo est signaculum quoddam Ecclesiae, per quod spiritualis potestas traditur ordinato*. Pars enim non debet poni genus totius. Sed character, qui per *signaculum* exponitur in consequenti definitione, est pars ordinis: quia dividitur contra id quod est res tantum, vel sacramentum tantum, cum sit res et sacramentum. Ergo signaculum non debet poni quasi genus ordinis.***
+Ulterius. Videtur quod inconvenienter ordo in littera definiatur, ubi dicitur: *ordo est signaculum quoddam Ecclesiae, per quod spiritualis potestas traditur ordinato*. Pars enim non debet poni genus totius. Sed character, qui per *signaculum* exponitur in consequenti definitione, est pars ordinis: quia dividitur contra id quod est res tantum, vel sacramentum tantum, cum sit res et sacramentum. Ergo signaculum non debet poni quasi genus ordinis.  
 
 Praeterea, sicut in sacramento ordinis imprimitur character, ita in sacramento baptismi. Sed in definitione baptismi non ponebatur character. Ergo nec in definitione ordinis poni debet.  
 
@@ -60,7 +60,7 @@ Praeterea, ordo relatio quaedam est, quae in utroque extremorum salvatur. Extrem
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ordo non sit sacramentum. Sacramentum enim, ut dicit Hugo de sancto Victore, est materiale elementum. Sed ordo non nominat aliquid hujusmodi, sed magis relationem vel potestatem: quia ordo est pars potestatis, secundum praefatum. Ergo non est sacramentum.***
+Ulterius. Videtur quod ordo non sit sacramentum. Sacramentum enim, ut dicit Hugo de sancto Victore, est materiale elementum. Sed ordo non nominat aliquid hujusmodi, sed magis relationem vel potestatem: quia ordo est pars potestatis, secundum praefatum. Ergo non est sacramentum.  
 
 Praeterea, sacramenta non sunt de Ecclesia triumphante. Sed est ibi ordo, ut patet de angelis. Ergo ordo non est sacramentum.  
 
@@ -72,7 +72,7 @@ Praeterea, propter quod unumquodque, et illud magis. Sed propter ordinem efficit
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod forma hujus sacramenti inconvenienter in littera exprimatur. Quia sacramenta efficaciam habent ex forma. Sed efficacia sacramentorum est ex virtute divina, quae in eis secretius operatur salutem. Ergo in forma hujus sacramenti deberet fieri mentio de virtute divina per invocationem Trinitatis; sicut in aliis sacramentis.***
+Ulterius. Videtur quod forma hujus sacramenti inconvenienter in littera exprimatur. Quia sacramenta efficaciam habent ex forma. Sed efficacia sacramentorum est ex virtute divina, quae in eis secretius operatur salutem. Ergo in forma hujus sacramenti deberet fieri mentio de virtute divina per invocationem Trinitatis; sicut in aliis sacramentis.  
 
 Praeterea, imperare est ejus qui habet auctoritatem. Sed auctoritas non residet penes eum qui sacramenta dispensat, sed ministerium tantum. Ergo non deberet uti imperativo modo, ut diceret, *sic agite*; vel, *accipite hoc vel illud*; aut aliquid hujusmodi.  
 
@@ -82,7 +82,7 @@ Praeterea, omnia sacramenta ordinant ad aeternam remunerationem. Sed in formis a
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod hoc sacramentum non habeat materiam. Quia in omni sacramento quod habet materiam, virtus operans in sacramento est in materia. Sed in rebus materialibus quae hic adhibentur, sicut sunt claves, candelabra, et hujusmodi, non videtur esse aliqua virtus sanctificandi. Ergo non habet materiam.***
+Ulterius. Videtur quod hoc sacramentum non habeat materiam. Quia in omni sacramento quod habet materiam, virtus operans in sacramento est in materia. Sed in rebus materialibus quae hic adhibentur, sicut sunt claves, candelabra, et hujusmodi, non videtur esse aliqua virtus sanctificandi. Ergo non habet materiam.  
 
 Praeterea, in isto sacramento confertur plenitudo gratiae septiformis, ut in littera dicitur, sicut in confirmatione. Sed materia confirmationis praeexigit sanctificationem. Cum ergo ea quae in hoc sacramento videntur esse materialia, non sint praesanctificata, videtur quod non sint materia hujus sacramenti.  
 
@@ -94,7 +94,7 @@ Praeterea plus requiritur ad dispensandum sacramenta quam ad suscipiendum. Sed b
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod Deus sua opera in sui similitudinem perducere voluit, quantum possibile fuit, ut perfecta essent, et per ea cognosci posset; et ideo ut in suis operibus repraesentaretur non solum quod in se est, sed etiam secundum quod aliis influit, hanc legem naturalem posuit omnibus, ut ultima per media perficerentur, et media per prima, ut Dionysius dicit. Et ideo, ut ista pulchritudo Ecclesiae non deesset, posuit ordinem in ea, ut quidam aliis sacramenta traderent, suo modo Deo in hoc assimilati, quasi Deo cooperantes, sicut etiam in corpore naturali quaedam membra aliis influunt.***
+Respondeo dicendum ad primam quaestionem, quod Deus sua opera in sui similitudinem perducere voluit, quantum possibile fuit, ut perfecta essent, et per ea cognosci posset; et ideo ut in suis operibus repraesentaretur non solum quod in se est, sed etiam secundum quod aliis influit, hanc legem naturalem posuit omnibus, ut ultima per media perficerentur, et media per prima, ut Dionysius dicit. Et ideo, ut ista pulchritudo Ecclesiae non deesset, posuit ordinem in ea, ut quidam aliis sacramenta traderent, suo modo Deo in hoc assimilati, quasi Deo cooperantes, sicut etiam in corpore naturali quaedam membra aliis influunt.  
 
 Ad primum ergo dicendum, quod subjectio servitutis repugnat libertati; quae servitus est quando aliquis dominatur ad sui utilitatem subjectis utens. Talis autem subjectio non requiritur in ordine, per quem qui praesunt salutem subditorum quaerere debent, non propriam utilitatem.  
 
@@ -104,7 +104,7 @@ Ad tertium dicendum, quod ordo in angelis non attenditur secundum distinctionem 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod definitio quam Magister de ordine ponit, convenit ordini secundum quod est Ecclesiae sacramentum; et ideo duo ponit: signum exterius, ibi: *signaculum quoddam*, idest signum quoddam; et effectum interiorem, ibi: *quo spiritualis potestas traditur ordinatis*.***
+Ad secundam quaestionem dicendum, quod definitio quam Magister de ordine ponit, convenit ordini secundum quod est Ecclesiae sacramentum; et ideo duo ponit: signum exterius, ibi: *signaculum quoddam*, idest signum quoddam; et effectum interiorem, ibi: *quo spiritualis potestas traditur ordinatis*.  
 
 Ad primum ergo dicendum, quod signaculum non ponitur hic pro charactere interiori, sed pro eo quod exterius geritur, quod est signum interioris potestatis et causa; et sic etiam sumitur character in alia definitione. Si tamen pro interiori charactere sumeretur, non esset inconveniens: quia divisio sacramenti in illa tria non est in partes integrales, proprie loquendo: quia illud quod est res tantum, non est de essentia sacramenti; quod est etiam sacramentum tantum, transit; et sacramentum manere dicitur. Unde relinquitur quod ipse character interior sit essentialiter et principaliter ipsum sacramentum ordinis.  
 
@@ -116,7 +116,7 @@ Ad quartum dicendum, quod nomen ordinis dupliciter accipitur. Quandoque enim sig
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sacramentum, ut ex supra dictis patet, nihil est aliud quam quaedam sanctificatio homini exhibita cum aliquo signo visibili; unde, cum in susceptione ordinis quaedam consecratio homini adhibeatur per visibilia signa, constat ordinem esse sacramentum.***
+Ad tertiam quaestionem dicendum, quod sacramentum, ut ex supra dictis patet, nihil est aliud quam quaedam sanctificatio homini exhibita cum aliquo signo visibili; unde, cum in susceptione ordinis quaedam consecratio homini adhibeatur per visibilia signa, constat ordinem esse sacramentum.  
 
 Ad primum ergo dicendum, quod quamvis ordo in suo nomine non exprimat aliquod materiale elementum; tamen ordo non confertur sine aliquo elemento materiali.  
 
@@ -126,7 +126,7 @@ Ad tertium dicendum, quod non omnis benedictio quae adhibetur homini, vel consec
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod hoc sacramentum principaliter consistit in potestate tradita. Potestas autem a potestate traducitur, sicut simile ex simili; et iterum potestas per usum innotescit, quia potentiae notificantur per actus; et ideo in forma ordinis exprimitur usus ordinis per actum qui imperatur, et exprimitur traductio potestatis per imperativum modum.***
+Ad quartam quaestionem dicendum, quod hoc sacramentum principaliter consistit in potestate tradita. Potestas autem a potestate traducitur, sicut simile ex simili; et iterum potestas per usum innotescit, quia potentiae notificantur per actus; et ideo in forma ordinis exprimitur usus ordinis per actum qui imperatur, et exprimitur traductio potestatis per imperativum modum.  
 
 Ad primum ergo dicendum, quod alia sacramenta non ordinantur principaliter ad effectus similes potestati secundum quam sacramenta dispensantur, sicut hoc sacramentum; et ideo in hoc sacramento est quasi quaedam communicatio univoca. Unde in aliis sacramentis exprimitur aliquid ex parte divinae virtutis, cui effectus sacramenti assimilatur; non autem in hoc sacramento.  
 
@@ -138,7 +138,7 @@ Ad quartum dicendum, quod aliter se habet in aliis et in hoc sacramento. Nam per
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod materia in sacramentis exterius adhibita significat virtutem in sacramentis agentem ex extrinseco omnino advenire; unde cum effectus proprius hujus sacramenti, scilicet character, non percipiatur ex aliqua operatione ipsius qui ad sacramentum accedit, sicut erat in poenitentia, sed omnino ex extrinseco adveniat; competit ei materiam habere, tamen diversimode ab aliis sacramentis quae materiam habent: quia hoc quod in sacramento confertur, in aliis sacramentis derivatur tantum a Deo, non a ministro qui sacramentum dispensat; sed illud quod in hoc sacramento traditur, scilicet spiritualis potestas, derivatur etiam ab eo qui sacramentum dat, sicut potestas imperfecta a perfecta; et ideo efficacia illorum sacramentorum principaliter consistit in materia quae virtutem divinam et significat et continet ex sanctificatione per ministerium adhibita; sed efficacia hujus sacramenti principaliter residet penes eum qui sacramentum dispensat. Materia autem adhibetur magis ad determinandum potestatem quae traditur particulariter ab habente eam complete, quam ad potestatem causandum; quod patet ex hoc quod materia competit usui potestatis.***
+Ad quintam quaestionem dicendum, quod materia in sacramentis exterius adhibita significat virtutem in sacramentis agentem ex extrinseco omnino advenire; unde cum effectus proprius hujus sacramenti, scilicet character, non percipiatur ex aliqua operatione ipsius qui ad sacramentum accedit, sicut erat in poenitentia, sed omnino ex extrinseco adveniat; competit ei materiam habere, tamen diversimode ab aliis sacramentis quae materiam habent: quia hoc quod in sacramento confertur, in aliis sacramentis derivatur tantum a Deo, non a ministro qui sacramentum dispensat; sed illud quod in hoc sacramento traditur, scilicet spiritualis potestas, derivatur etiam ab eo qui sacramentum dat, sicut potestas imperfecta a perfecta; et ideo efficacia illorum sacramentorum principaliter consistit in materia quae virtutem divinam et significat et continet ex sanctificatione per ministerium adhibita; sed efficacia hujus sacramenti principaliter residet penes eum qui sacramentum dispensat. Materia autem adhibetur magis ad determinandum potestatem quae traditur particulariter ab habente eam complete, quam ad potestatem causandum; quod patet ex hoc quod materia competit usui potestatis.  
 
 Et per hoc patet solutio ad primum.  
 
@@ -152,7 +152,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod in hoc sacramento ordinis non conferatur gratia gratum faciens. Quia communiter dicitur, quod sacramentum ordinis ordinatur contra defectum ignorantiae. Sed contra ignorantiam non datur gratia gratum faciens, sed gratia gratis data: quia gratia gratum faciens magis respicit affectum. Ergo in sacramento ordinis non datur gratia gratum faciens.***
+Ad secundum sic proceditur. Videtur quod in hoc sacramento ordinis non conferatur gratia gratum faciens. Quia communiter dicitur, quod sacramentum ordinis ordinatur contra defectum ignorantiae. Sed contra ignorantiam non datur gratia gratum faciens, sed gratia gratis data: quia gratia gratum faciens magis respicit affectum. Ergo in sacramento ordinis non datur gratia gratum faciens.  
 
 Praeterea, ordo distinctionem importat. Sed membra Ecclesiae non distinguuntur per gratiam gratum facientem, sed secundum gratiam gratis datam, de qua dicitur 1 Corinth., 12, 4; *divisiones gratiarum sunt*. Ergo in ordine non datur gratia gratum faciens.  
 
@@ -164,7 +164,7 @@ Praeterea, ordo est sacramentum novae legis. Sed in definitione talis sacramenti
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in sacramento ordinis non imprimatur character quantum ad omnes ordines. Quia ordinis character est quaedam spiritualis potestas. Sed quidam ordines non ordinantur nisi ad quosdam actus corporales, scilicet ostiarii vel acolythi. Ergo in eis non imprimitur character.***
+Ulterius. Videtur quod in sacramento ordinis non imprimatur character quantum ad omnes ordines. Quia ordinis character est quaedam spiritualis potestas. Sed quidam ordines non ordinantur nisi ad quosdam actus corporales, scilicet ostiarii vel acolythi. Ergo in eis non imprimitur character.  
 
 Praeterea, omnis character est indelebilis. Ergo per characterem homo ponitur in statu a quo non possit recedere. Sed illi qui habent aliquos ordines, possunt licite redire ad laicatum. Ergo non imprimitur character in omnibus ordinibus.  
 
@@ -176,7 +176,7 @@ Praeterea, character est signum distinctivum. Sed in quolibet ordine est aliqua 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod character ordinis non praesupponat characterem baptismalem. Quia per characterem ordinis homo efficitur dispensator sacramentorum; per characterem baptismalem susceptivus eorumdem. Sed potestas activa non praesupponit de necessitate passivam, quia potest esse sine ea, sicut patet in Deo. Ergo character ordinis non praesupponit de necessitate characterem baptismalem.***
+Ulterius. Videtur quod character ordinis non praesupponat characterem baptismalem. Quia per characterem ordinis homo efficitur dispensator sacramentorum; per characterem baptismalem susceptivus eorumdem. Sed potestas activa non praesupponit de necessitate passivam, quia potest esse sine ea, sicut patet in Deo. Ergo character ordinis non praesupponit de necessitate characterem baptismalem.  
 
 Praeterea, potest contingere quod aliquis non sit baptizatus, qui se baptizatum aestimat probabiliter. Si ergo talis ad ordines accedat, non consequitur characterem ordinis, si character ordinis praesupponat baptismalem; et sic ea quae faciet vel in consecratione vel in absolutione, nihil erunt; et in hoc Ecclesia decipietur, quod est inconveniens.  
 
@@ -184,7 +184,7 @@ Sed contra, baptismus est janua sacramentorum. Ergo cum ordo sit quoddam sacrame
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod praesupponat de necessitate characterem confirmationis. Quia in his quae sunt ordinata ad invicem, sicut medium praesupponit primum, ita ultimum praesupponit medium. Sed character confirmationis praesupponit baptismalem quasi primum. Ergo character ordinis praesupponit characterem confirmationis quasi medium.***
+Ulterius. Videtur quod praesupponat de necessitate characterem confirmationis. Quia in his quae sunt ordinata ad invicem, sicut medium praesupponit primum, ita ultimum praesupponit medium. Sed character confirmationis praesupponit baptismalem quasi primum. Ergo character ordinis praesupponit characterem confirmationis quasi medium.  
 
 Praeterea, qui ad alios confirmandos ponuntur, maxime debent esse firmi. Sed illi qui sacramentum ordinis suscipiunt, sunt aliorum confirmatores. Ergo ipsi maxime debent habere sacramentum confirmationis.  
 
@@ -192,7 +192,7 @@ Sed contra, apostoli receperunt potestatem ordinis ante ascensionem, Joan. 20, 2
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod character unius ordinis praesupponat de necessitate characterem alterius. Quia major est convenientia ordinis ad ordinem quam ordinis ad aliud sacramentum. Sed character ordinis praesupponit characterem alterius sacramenti, scilicet baptismi. Ergo multo fortius character unius ordinis praesupponit characterem alterius.***
+Ulterius. Videtur quod character unius ordinis praesupponat de necessitate characterem alterius. Quia major est convenientia ordinis ad ordinem quam ordinis ad aliud sacramentum. Sed character ordinis praesupponit characterem alterius sacramenti, scilicet baptismi. Ergo multo fortius character unius ordinis praesupponit characterem alterius.  
 
 Praeterea, ordines sunt quidam gradus. Sed nullus potest pervenire ad posteriorem gradum nisi prius priorem conscenderit. Ergo nullus potest accipere characterem ordinis sequentis nisi primum accipiat ordinem praecedentem.  
 
@@ -200,7 +200,7 @@ Sed contra, si omittatur aliquid in sacramento quod sit de necessitate sacrament
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod *Dei perfecta sunt opera*, ut dicitur Deuter. 32, 4; et ideo cuicumque datur potentia aliqua divinitus, dantur ea per quae executio illius potentiae potest congrue fieri; et hoc etiam in naturalibus patet: quia animalibus dantur membra quibus animae potentiae possunt exire in actus suos, nisi sit defectus ex parte materiae. Sicut autem gratia gratum faciens est necessaria ad hoc quod homo digne recipiat sacramenta, ita etiam ad hoc quod homo digne dispenset; et ideo sicut in baptismo, per quem homo fit susceptivus aliorum sacramentorum, datur gratia gratum faciens, ita in sacramento ordinis, per quod homo ordinatur ad aliorum sacramentorum dispensationem.***
+Respondeo dicendum ad primam quaestionem, quod *Dei perfecta sunt opera*, ut dicitur Deuter. 32, 4; et ideo cuicumque datur potentia aliqua divinitus, dantur ea per quae executio illius potentiae potest congrue fieri; et hoc etiam in naturalibus patet: quia animalibus dantur membra quibus animae potentiae possunt exire in actus suos, nisi sit defectus ex parte materiae. Sicut autem gratia gratum faciens est necessaria ad hoc quod homo digne recipiat sacramenta, ita etiam ad hoc quod homo digne dispenset; et ideo sicut in baptismo, per quem homo fit susceptivus aliorum sacramentorum, datur gratia gratum faciens, ita in sacramento ordinis, per quod homo ordinatur ad aliorum sacramentorum dispensationem.  
 
 Ad primum ergo dicendum, quod ordo datur non in remedium unius personae, sed totius Ecclesiae; unde quod dicitur contra ignorantiam dari, non est intelligendum ita quod per susceptionem ordinis pellatur ignorantia in suscipiente; sed quia suscipiens ordinem praeficitur ad pellendum ignorantiam in plebe.  
 
@@ -210,7 +210,7 @@ Ad tertium dicendum, quod ad idoneam executionem ordinum non sufficit bonitas qu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod circa hoc fuit triplex opinio. Quidam enim dixerunt, quod in solo ordine sacerdotali character imprimitur. Sed hoc non videtur verum: quia actum diaconi nullus potest exercere licite nisi diaconus: et ita patet quod habet aliquam spiritualem potestatem in dispensatione sacramentorum, quam alii non habent. Et propter hoc alii dixerunt, quod in sacris ordinibus imprimitur character, non autem in minoribus. Sed hoc nihil iterum est: quia per quemlibet ordinem aliquis constituitur super plebem in aliquo gradu potestatis ordinatae ad sacramentorum dispensationem. Unde cum character sit signum distinctivum ab aliis; oportet quod in omnibus character imprimatur: cujus etiam signum est quod perpetuo manent, et nunquam iterantur. Et haec est tertia opinio, quae communior est.***
+Ad secundam quaestionem dicendum, quod circa hoc fuit triplex opinio. Quidam enim dixerunt, quod in solo ordine sacerdotali character imprimitur. Sed hoc non videtur verum: quia actum diaconi nullus potest exercere licite nisi diaconus: et ita patet quod habet aliquam spiritualem potestatem in dispensatione sacramentorum, quam alii non habent. Et propter hoc alii dixerunt, quod in sacris ordinibus imprimitur character, non autem in minoribus. Sed hoc nihil iterum est: quia per quemlibet ordinem aliquis constituitur super plebem in aliquo gradu potestatis ordinatae ad sacramentorum dispensationem. Unde cum character sit signum distinctivum ab aliis; oportet quod in omnibus character imprimatur: cujus etiam signum est quod perpetuo manent, et nunquam iterantur. Et haec est tertia opinio, quae communior est.  
 
 Ad primum ergo dicendum, quod quilibet ordo vel habet actum circa ipsum sacramentum, vel ordinatum ad sacramentorum dispensationem; sicut ostiarii habent actum admittendi homines ad divinorum sacramentorum inspectionem, et sic de aliis; et ideo in omnibus requiritur specialis potestas.  
 
@@ -220,7 +220,7 @@ Ad tertium dicendum sicut ad primum.
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod nihil potest aliquid recipere cujus receptivam potentiam non habet. Per characterem autem baptismalem efficitur homo receptivus aliorum sacramentorum; unde qui characterem baptismalem non habet, nullum alterum sacramentum suscipere potest; et sic character ordinis baptismalem characterem praesupponit.***
+Ad tertiam quaestionem dicendum, quod nihil potest aliquid recipere cujus receptivam potentiam non habet. Per characterem autem baptismalem efficitur homo receptivus aliorum sacramentorum; unde qui characterem baptismalem non habet, nullum alterum sacramentum suscipere potest; et sic character ordinis baptismalem characterem praesupponit.  
 
 Ad primum ergo dicendum, quod in eo qui habet potentiam activam a se, potentia activa non praesupponit passivam; sed in eo qui habet potentiam activam ab altero, praeexigitur ad potentiam activam potentia passiva, quae recipere possit potentiam activam.  
 
@@ -228,7 +228,7 @@ Ad secundum dicendum, quod talis si ad sacerdotium promoveatur, non est sacerdos
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod ad susceptionem ordinis praeexigitur aliquid quasi de necessitate sacramenti, et aliquid de congruitate. De necessitate enim sacramenti praeexigitur quod ille qui accedit ad ordines, sit ordinis susceptivus, quod competit ei per baptismum; et ideo character baptismalis praesupponitur de necessitate sacramenti, ita quod sine eo sacramentum ordinis conferri non potest. Sed de congruitate requiritur omnis perfectio, per quam aliquis reddatur idoneus ad executionem ordinis; et unum de istis est ut sit confirmatus; et ideo de congruitate character ordinis characterem confirmationis praesupponit, et non de necessitate.***
+Ad quartam quaestionem dicendum, quod ad susceptionem ordinis praeexigitur aliquid quasi de necessitate sacramenti, et aliquid de congruitate. De necessitate enim sacramenti praeexigitur quod ille qui accedit ad ordines, sit ordinis susceptivus, quod competit ei per baptismum; et ideo character baptismalis praesupponitur de necessitate sacramenti, ita quod sine eo sacramentum ordinis conferri non potest. Sed de congruitate requiritur omnis perfectio, per quam aliquis reddatur idoneus ad executionem ordinis; et unum de istis est ut sit confirmatus; et ideo de congruitate character ordinis characterem confirmationis praesupponit, et non de necessitate.  
 
 Ad primum ergo dicendum, quod non est similis habitudo hujusmodi medii ad ultimum, et primi ad medium: quia per characterem baptismalem fit homo susceptivus sacramenti confirmationis; non autem per sacramentum confirmationis fit homo susceptivus sacramenti ordinis; et ideo non est similis ratio.  
 
@@ -236,7 +236,7 @@ Ad secundum dicendum, quod illa ratio procedit de idoneitate quantum ad congruit
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod non est de idoneitate superiorum ordinum quod aliquis minores ordines prius habeat: quia potestates sunt distinctae; et una, quantum est de sui ratione, non requirit aliam in eodem subjecto: et ideo etiam in primitiva Ecclesia aliqui ordinabantur in presbyteros qui prius inferiores ordines non susceperant; et tamen poterant omnia quae inferiores ordines possunt: quia inferior potestas comprehenditur in superiori virtute, sicut sensus in intellectu, et ducatus in regno. Sed postea per constitutionem Ecclesiae determinatum est quod ad majorem se non ingerat qui prius in minoribus officiis se non humiliavit. Et inde est quod qui ordinantur per saltum, secundum canones non reordinantur; sed id quod omissum fuerat de praecedentibus ordinibus, eis confertur.***
+Ad quintam quaestionem dicendum, quod non est de idoneitate superiorum ordinum quod aliquis minores ordines prius habeat: quia potestates sunt distinctae; et una, quantum est de sui ratione, non requirit aliam in eodem subjecto: et ideo etiam in primitiva Ecclesia aliqui ordinabantur in presbyteros qui prius inferiores ordines non susceperant; et tamen poterant omnia quae inferiores ordines possunt: quia inferior potestas comprehenditur in superiori virtute, sicut sensus in intellectu, et ducatus in regno. Sed postea per constitutionem Ecclesiae determinatum est quod ad majorem se non ingerat qui prius in minoribus officiis se non humiliavit. Et inde est quod qui ordinantur per saltum, secundum canones non reordinantur; sed id quod omissum fuerat de praecedentibus ordinibus, eis confertur.  
 
 Ad primum ergo dicendum, quod magis conveniunt ordines ad invicem secundum similitudinem speciei quam ordo cum baptismo; sed secundum proportionem potentiae ad actum magis convenit baptismus cum ordine quam ordo cum ordine; quia per baptismum acquirit homo potentiam passivam recipiendi ordines; non autem per ordinem inferiorem datur potentia passiva recipiendi majores ordines.  
 
@@ -248,7 +248,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod in suscipientibus ordines non requiratur bonitas vitae. Quia per ordinem aliquis ordinatur ad dispensationem sacramentorum. Sed sacramenta possunt dispensari a bonis et a malis. Ergo non requiritur bona vita.***
+Ad tertium sic proceditur. Videtur quod in suscipientibus ordines non requiratur bonitas vitae. Quia per ordinem aliquis ordinatur ad dispensationem sacramentorum. Sed sacramenta possunt dispensari a bonis et a malis. Ergo non requiritur bona vita.  
 
 Praeterea, non est majus ministerium quod Deo in sacramentis exhibetur quam quod ipsi corporaliter adhibetur. Sed a ministerio ejus corporali non repulit Dominus mulierem peccatricem et infamem, ut patet Luc. 7. Ergo nec a ministerio ejus in sacramentis tales sunt amovendi.  
 
@@ -260,7 +260,7 @@ Praeterea, Hieronymus dicit, quod *non solum episcopi et presbyteri et diaconi d
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod requiratur scientia totius Sacrae Scripturae. Quia ille debet habere legis scientiam a cujus ore lex requiritur. Sed legem requirunt de ore sacerdotis, ut patet Malach. 2. Ergo ipse debet totius legis habere scientiam.***
+Ulterius. Videtur quod requiratur scientia totius Sacrae Scripturae. Quia ille debet habere legis scientiam a cujus ore lex requiritur. Sed legem requirunt de ore sacerdotis, ut patet Malach. 2. Ergo ipse debet totius legis habere scientiam.  
 
 Praeterea, 1 Petr. 3, 15: *parati semper ad satisfactionem omni poscenti vos rationem de ea quae in vobis est fide et spe*. Sed reddere rationem de his quae sunt fidei et spei, est illorum qui perfectam scientiam Sacrarum Scripturarum habent. Ergo talem scientiam debent habere illi qui ponuntur in ordinibus, quibus verba praedicta dicuntur.  
 
@@ -272,7 +272,7 @@ Praeterea, in vitis patrum legitur, aliquos simplices monachos ad sacerdotium pr
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ex ipso merito vitae aliquis ordinis gradum consequatur. Quia, sicut dicit Chrysostomus, *non omnis sacerdos sanctus est, sed omnis sanctus sacerdos est*. Sed ex vitae merito aliquis efficitur sanctus. Ergo et sacerdos, et multo fortius alios ordines habens.***
+Ulterius. Videtur quod ex ipso merito vitae aliquis ordinis gradum consequatur. Quia, sicut dicit Chrysostomus, *non omnis sacerdos sanctus est, sed omnis sanctus sacerdos est*. Sed ex vitae merito aliquis efficitur sanctus. Ergo et sacerdos, et multo fortius alios ordines habens.  
 
 Praeterea, in rebus naturalibus ex hoc ipso aliqui in gradu superiori collocantur quod Deo appropinquant, et magis de ejus bonitatibus participant, ut Dionysius dicit, 4 cap. *Ecclesiast. Hier*. Sed ex merito sanctitatis et scientiae aliquis efficitur Deo propinquior, et plus de ejus bonitatibus recipiens. Ergo ex hoc ipso in gradu ordinis collocatur.  
 
@@ -280,7 +280,7 @@ Sed contra, sanctitas semel habita potest amitti. Sed ordo semel habitus nunquam
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod promovens indignos ad ordines non peccet. Quia episcopus indiget coadjutoribus in minoribus officiis constitutis. Sed non posset eos invenire in sufficienti numero, si talem idoneitatem in eis requireret, qualis a sanctis describitur. Ergo si aliquos non idoneos promovet, videtur quod sit excusabilis.***
+Ulterius. Videtur quod promovens indignos ad ordines non peccet. Quia episcopus indiget coadjutoribus in minoribus officiis constitutis. Sed non posset eos invenire in sufficienti numero, si talem idoneitatem in eis requireret, qualis a sanctis describitur. Ergo si aliquos non idoneos promovet, videtur quod sit excusabilis.  
 
 Praeterea, Ecclesia non solum indiget ministris ad dispensationem spiritualium, sed etiam ad gubernationem temporalium. Sed quandoque illi qui non habent scientiam vel sanctitatem vitae, possent esse utiles ad gubernationem temporalium, vel propter potentiam saecularem, vel propter industriam naturalem. Ergo videtur quod tales possit sine peccato promovere.  
 
@@ -292,7 +292,7 @@ Praeterea, spiritualia temporalibus sunt praeponenda in Ecclesia. Sed mortaliter
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod aliquis in peccato existens possit sine peccato ordine suscepto uti. Quia peccat si non utatur, cum ex officio teneatur. Si ergo utendo peccat, non potest peccata vitare; quod est inconveniens.***
+Ulterius. Videtur quod aliquis in peccato existens possit sine peccato ordine suscepto uti. Quia peccat si non utatur, cum ex officio teneatur. Si ergo utendo peccat, non potest peccata vitare; quod est inconveniens.  
 
 Praeterea, dispensatio est juris relaxatio. Ergo quamvis de jure esset ei illicitum uti ordine suscepto, tamen ex dispensatione ei liceret.  
 
@@ -306,7 +306,7 @@ Praeterea, sanctitas requiritur in susceptione ordinis, ut sit idoneus ad exeque
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut Dionysius dicit, *ut subtiliores et clariores essentiae repletae influxu solarium splendorum lumen in eis supereminens ad similitudinem solis in alia corpora invehunt; sic in omni divino non est audendum aliis dux esse, nisi secundum omnem habitum suum factus Dei firmissimus, et Deo simillimus*. Unde, cum in quolibet ordine aliquis constituatur dux aliis in rebus divinis; in quolibet quasi praesumptuosus mortaliter peccat qui cum conscientia peccati mortalis ad ordines accedit; et ideo sanctitas vitae requiritur ad ordinem de necessitate praecepti, sed non de necessitate sacramenti. Unde si malus ordinatur, nihilominus ordinem habet, tamen cum peccato.***
+Respondeo dicendum ad primam quaestionem, quod, sicut Dionysius dicit, *ut subtiliores et clariores essentiae repletae influxu solarium splendorum lumen in eis supereminens ad similitudinem solis in alia corpora invehunt; sic in omni divino non est audendum aliis dux esse, nisi secundum omnem habitum suum factus Dei firmissimus, et Deo simillimus*. Unde, cum in quolibet ordine aliquis constituatur dux aliis in rebus divinis; in quolibet quasi praesumptuosus mortaliter peccat qui cum conscientia peccati mortalis ad ordines accedit; et ideo sanctitas vitae requiritur ad ordinem de necessitate praecepti, sed non de necessitate sacramenti. Unde si malus ordinatur, nihilominus ordinem habet, tamen cum peccato.  
 
 Ad primum ergo dicendum, quod sicut vera sacramenta sunt quae peccator dispensat, ita verum sacramentum ordinis recipit; et sicut indigne dispensat, ita indigne recipit.  
 
@@ -316,7 +316,7 @@ Ad tertium dicendum, quod aliquae medicinae sunt quae exigunt robur naturae, ali
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in quolibet actu hominis, si debeat esse ordinatus, oportet quod adsit directio rationis. Unde ad hoc quod homo ordinis officium exequatur, oportet quod habeat tantum de scientia quae sufficiat ad hoc ut dirigatur in actu illius ordinis: ideo talis scientia requiritur in eo qui ad ordines promoveri debet, et quod universaliter in tota Scriptura sit instructus; sed plus et minus secundum quod ad plura vel pauciora se ejus officium extendit: ut scilicet illi qui aliis praeponuntur curam animarum suscipientes, sciant ea quae ad doctrinam fidei et morum pertinent, et alii sciant ea quae ad executionem sui ordinis spectant.***
+Ad secundam quaestionem dicendum, quod in quolibet actu hominis, si debeat esse ordinatus, oportet quod adsit directio rationis. Unde ad hoc quod homo ordinis officium exequatur, oportet quod habeat tantum de scientia quae sufficiat ad hoc ut dirigatur in actu illius ordinis: ideo talis scientia requiritur in eo qui ad ordines promoveri debet, et quod universaliter in tota Scriptura sit instructus; sed plus et minus secundum quod ad plura vel pauciora se ejus officium extendit: ut scilicet illi qui aliis praeponuntur curam animarum suscipientes, sciant ea quae ad doctrinam fidei et morum pertinent, et alii sciant ea quae ad executionem sui ordinis spectant.  
 
 Ad primum ergo dicendum, quod sacerdos habet duos actus: unum principaliter supra corpus Christi verum; et alterum secundarium supra corpus Christi mysticum. Secundus autem actus dependet a primo, sed non convertitur; et ideo aliqui ad sacerdotium promoventur, quibus committitur primus actus tantum, sicut religiosi quibus cura animarum non committitur; et a talium ore non requiritur lex, sed solum quod sacramenta conficiant; et ideo talibus sufficit, si tantum de scientia habeant quod ea quae ad sacramentum perficiendum spectant, rite servare possint. Alii autem promoventur ad alium actum qui est supra corpus Christi mysticum; et a talium ore populus legem requirit; unde scientia legis in eis esse debet, non quidem ut sciant omnes difficiles quaestiones legis, quia in his debet ad superiores haberi recursus; sed sciant quae populus debet credere et observare de lege. Sed ad superiores sacerdotes, scilicet episcopos, pertinet ut etiam ea quae difficultatem in lege facere possunt, sciant; et tanto magis, quanto in majori gradu collocantur.  
 
@@ -326,7 +326,7 @@ Ad tertium dicendum, quod ad lectorem non pertinet tradere intellectum Sacrae Sc
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod causa debet esse proportionata suo effectui; et ideo sicut in Christo, a quo descendit gratia in omnes homines, oportet quod sit gratiae plenitudo; ita in ministris Ecclesiae, quorum non est dare gratiam, sed gratiae sacramenta, non constituitur gradus ordinis ex hoc quod habeat gratiam, sed ex hoc quod percipit aliquod gratiae sacramentum.***
+Ad tertiam quaestionem dicendum, quod causa debet esse proportionata suo effectui; et ideo sicut in Christo, a quo descendit gratia in omnes homines, oportet quod sit gratiae plenitudo; ita in ministris Ecclesiae, quorum non est dare gratiam, sed gratiae sacramenta, non constituitur gradus ordinis ex hoc quod habeat gratiam, sed ex hoc quod percipit aliquod gratiae sacramentum.  
 
 Ad primum ergo dicendum, quod Chrysostomus accipit sacerdotis nomen quantum ad nominis interpretationem, secundum quod sacerdos idem est quod sacra dans. Sic enim quilibet justus, inquantum sacra merita alicui in auxilium dat, sacerdotis interpretationem habet. Non autem loquitur secundum nominis significationem: est enim hoc nomen sacerdos institutum ad significandum eum qui sacra dat in sacramentorum dispensatione.  
 
@@ -334,7 +334,7 @@ Ad secundum dicendum, quod res naturales efficiuntur in gradu super alia secundu
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod a Domino describitur *fidelis servus qui est constitutus super familiam, ut det illis tritici mensuram*; et ideo infidelitatis reus est qui aliter*aliter.—alicui* PLE. supra mensuram ejus divina tradit. Hoc autem facit quicumque indignum promovet; et ideo mortale crimen committit, quasi summo Domino infidelis; et praecipue cum hoc in detrimentum Ecclesiae vergat, et honoris divini, qui per bonos ministros promovetur. Esset enim infidelis domino terreno qui in ejus officio aliquos inutiles poneret.***
+Ad quartam quaestionem dicendum, quod a Domino describitur *fidelis servus qui est constitutus super familiam, ut det illis tritici mensuram*; et ideo infidelitatis reus est qui aliter*aliter.—alicui* PLE. supra mensuram ejus divina tradit. Hoc autem facit quicumque indignum promovet; et ideo mortale crimen committit, quasi summo Domino infidelis; et praecipue cum hoc in detrimentum Ecclesiae vergat, et honoris divini, qui per bonos ministros promovetur. Esset enim infidelis domino terreno qui in ejus officio aliquos inutiles poneret.  
 
 Ad primum ergo dicendum, quod Deus nunquam ita deserit Ecclesiam suam quin inveniantur idonei ministri sufficienter ad necessitatem plebis, si digni promoverentur, et indigni repellerentur. Et si non possent tot ministri inveniri quot modo sunt, *melius esset habere paucos ministros bonos quam multos malos*, ut dicit beatus Clemens.  
 
@@ -344,7 +344,7 @@ Ad tertium dicendum, quod ad minus hoc requiritur quod nesciat ordinans aliquid 
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod lex praecipit ut homo *juste ea quae sunt justa* exequatur; et ideo quicumque homo quod sibi competit ex ordine, facit indigne; quod justum est, injuste exequitur; et contra praeceptum legis facit, ac per hoc mortaliter peccat. Quicumque autem cum peccato mortali aliquod sacrum officium pertractat, non est dubium quin indigne illud faciat; unde patet quod mortaliter peccat.***
+Ad quintam quaestionem dicendum, quod lex praecipit ut homo *juste ea quae sunt justa* exequatur; et ideo quicumque homo quod sibi competit ex ordine, facit indigne; quod justum est, injuste exequitur; et contra praeceptum legis facit, ac per hoc mortaliter peccat. Quicumque autem cum peccato mortali aliquod sacrum officium pertractat, non est dubium quin indigne illud faciat; unde patet quod mortaliter peccat.  
 
 Ad primum ergo dicendum, quod non est perplexus ut necessitatem peccandi habeat: quia potest peccatum dimittere, vel officium resignare ex quo obligabatur ad executionem ordinis.  
 
@@ -370,7 +370,7 @@ primo, de distinctione eorum;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod non debeant plures ordines distingui. Quanto enim aliqua virtus est major, tanto minus est multiplicata. Sed hoc sacramentum est dignius aliis sacramentis, inquantum constituit suscipientes in aliquo gradu super alios. Cum ergo alia sacramenta non distinguantur in plura quae recipiant praedicationem totius, nec hoc sacramentum debet distingui in plures ordines.***
+Ad primum sic proceditur. Videtur quod non debeant plures ordines distingui. Quanto enim aliqua virtus est major, tanto minus est multiplicata. Sed hoc sacramentum est dignius aliis sacramentis, inquantum constituit suscipientes in aliquo gradu super alios. Cum ergo alia sacramenta non distinguantur in plura quae recipiant praedicationem totius, nec hoc sacramentum debet distingui in plures ordines.  
 
 Praeterea, si dividitur; aut est divisio totius in partes integrales, aut in partes subjectivas. Non in partes integrales: quia sic non reciperent praedicationem totius. Ergo est divisio in partes subjectivas. Sed partes subjectivae recipiunt in plurali praedicationem generis remoti sicut generis proximi; sicut homo et asinus sunt plura animalia, et plura corpora animata. Ergo et sacerdotium et diaconatus sicut sunt plures ordines; ita et plura sacramenta, cum sacramentum sit quasi genus ad ordines.  
 
@@ -382,7 +382,7 @@ Praeterea, ministerium novi testamenti est dignius quam ministerium veteris, ut 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sint septem ordines. Ordines enim Ecclesiae ordinantur ad actus hierarchicos. Sed tres sunt tantum actus hierarchici; scilicet purgare, illuminare, et perficere, secundum quos Dionysius distinguit tres ordines in 5 cap. *Eccl. Hierar*. Ergo non sunt septem.***
+Ulterius. Videtur quod non sint septem ordines. Ordines enim Ecclesiae ordinantur ad actus hierarchicos. Sed tres sunt tantum actus hierarchici; scilicet purgare, illuminare, et perficere, secundum quos Dionysius distinguit tres ordines in 5 cap. *Eccl. Hierar*. Ergo non sunt septem.  
 
 Praeterea, omnia sacramenta habent efficaciam et auctoritatem ex institutione Christi, vel saltem apostolorum ejus. Sed in doctrina Christi et apostolorum non fit mentio nisi de presbyteris et diaconis. Ergo videtur quod non sunt alii ordines.  
 
@@ -394,7 +394,7 @@ Praeterea, prophetia Psalmorum est nobilior inter alias prophetias. Sed ad pronu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ordines non debeant distingui per sacros et non sacros. Omnes enim ordines sacramenta quaedam sunt. Sed omnia sacramenta sunt sacra. Ergo omnes ordines sunt sacri.***
+Ulterius. Videtur quod ordines non debeant distingui per sacros et non sacros. Omnes enim ordines sacramenta quaedam sunt. Sed omnia sacramenta sunt sacra. Ergo omnes ordines sunt sacri.  
 
 Praeterea, secundum ordines Ecclesiae non deputatur aliquis nisi ad divina officia. Sed omnia talia sunt sacramenta. Ergo omnes ordines sunt sacri.  
 
@@ -402,7 +402,7 @@ Sed contra est quod ordines sacri impediunt matrimonium contrahendum, et dirimun
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ordinum multitudo inducta est in Ecclesia propter tria. Primo propter sapientiam Dei commendandam, quae in distinctione ordinata rerum maxime relucet tam in naturalibus quam in spiritualibus; quod significatur in hoc quod *regina Saba videns ordinem ministrantium Salomoni non habebat ultra spiritum*, deficiens in admiratione sapientiae ipsius. Secundo ad subveniendum humanae infirmitati: quia per unum non poterant omnia quae ad divina mysteria pertinebant expleri sine magno gravamine; et ideo distinguuntur ordines diversi ad diversa officia. Et hoc patet per hoc quod Dominus, Numer. 11, dedit Moysi *septuaginta senes populi* in adjutorium. Tertio ut via proficiendi hominibus amplior detur dum plures in diversis officiis distribuunt, ut omnes sint Dei cooperatores, quo *nihil est divinius*, ut Dionysius dicit.***
+Respondeo dicendum ad primam quaestionem, quod ordinum multitudo inducta est in Ecclesia propter tria. Primo propter sapientiam Dei commendandam, quae in distinctione ordinata rerum maxime relucet tam in naturalibus quam in spiritualibus; quod significatur in hoc quod *regina Saba videns ordinem ministrantium Salomoni non habebat ultra spiritum*, deficiens in admiratione sapientiae ipsius. Secundo ad subveniendum humanae infirmitati: quia per unum non poterant omnia quae ad divina mysteria pertinebant expleri sine magno gravamine; et ideo distinguuntur ordines diversi ad diversa officia. Et hoc patet per hoc quod Dominus, Numer. 11, dedit Moysi *septuaginta senes populi* in adjutorium. Tertio ut via proficiendi hominibus amplior detur dum plures in diversis officiis distribuunt, ut omnes sint Dei cooperatores, quo *nihil est divinius*, ut Dionysius dicit.  
 
 Ad primum ergo dicendum, quod illa sacramenta dantur ad effectus aliquos percipiendos; sed hoc sacramentum datur principaliter ad actus aliquos agendos; et ideo secundum diversitatem actuum oportet quod ordinis sacramentum distinguatur, sicut potentiae distinguuntur per actus.  
 
@@ -412,7 +412,7 @@ Ad tertium dicendum, quod in regno quamvis tota potestatis plenitudo resideat pe
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quidam sumunt sufficientiam ordinum per quamdam adaptationem ad gratias gratis datas de quibus habetur 1 Corinth. 12. Dicunt enim quod *sermo sapientiae* competit episcopo, quia ipse aliorum ordinator est, quod ad sapientiam pertinet; *sermo scientiae* sacerdoti, quia debet habere clavem scientiae; *fides* diacono, qui praedicat Evangelium; *opera virtutum* subdiacono, qui se ad opera perfectionis extendit per votum continentiae; *interpretatio sermonum* acolytho, quod significatur in lumine quod defert; *gratiae sanitatum* exorcistae; *genera linguarum* psalmistae; *prophetia* lectori: *discretio spirituum* ostiario, qui quosdam repellit, et quosdam admittit. Sed hoc nihil est; quia gratiae gratis datae non dantur eidem, sicut ordines dantur eidem; dicitur enim 1 Corinth. 12, 4: *divisiones gratiarum sunt*. Et iterum ponuntur quaedam quae ordines non dicuntur, scilicet episcopatus et psalmistatus.***
+Ad secundam quaestionem dicendum, quod quidam sumunt sufficientiam ordinum per quamdam adaptationem ad gratias gratis datas de quibus habetur 1 Corinth. 12. Dicunt enim quod *sermo sapientiae* competit episcopo, quia ipse aliorum ordinator est, quod ad sapientiam pertinet; *sermo scientiae* sacerdoti, quia debet habere clavem scientiae; *fides* diacono, qui praedicat Evangelium; *opera virtutum* subdiacono, qui se ad opera perfectionis extendit per votum continentiae; *interpretatio sermonum* acolytho, quod significatur in lumine quod defert; *gratiae sanitatum* exorcistae; *genera linguarum* psalmistae; *prophetia* lectori: *discretio spirituum* ostiario, qui quosdam repellit, et quosdam admittit. Sed hoc nihil est; quia gratiae gratis datae non dantur eidem, sicut ordines dantur eidem; dicitur enim 1 Corinth. 12, 4: *divisiones gratiarum sunt*. Et iterum ponuntur quaedam quae ordines non dicuntur, scilicet episcopatus et psalmistatus.  
 
 Et ideo alii assignant secundum quamdam assimilationem ad caelestem hierarchiam, in qua ordines distinguuntur secundum purgationem, illuminationem, perfectionem. Dicunt enim, quod ostiarius purgat exterius segregando bonos a malis etiam corporaliter; interius vero acolythus, quia per lumen quod portat, significat se interiores tenebras pellere; sed utroque modo exorcista, quia diabolum quem expellit, utroque modo perturbat. Sed illuminatio quae fit per doctrinam, quantum ad doctrinam propheticam fit per lectores, quantum ad evangelicam fit per diaconos, quantum ad apostolicam fit per subdiaconos. Sed perfectio communis, utpote quae est poenitentiae, baptismi, et hujusmodi, fit per sacerdotem; excellens vero per episcopum, ut consecratio sacerdotum et virginum; sed excellentissima per summum pontificem, in quo est plenitudo auctoritatis. Sed hoc nihil est: tum quia ordines caelestis hierarchiae non distinguuntur per praedictas actiones hierarchicas, cum quaelibet cuilibet ordinum conveniat: tum quia, secundum Dionysium, solis episcopis convenit perficere, illuminare autem sacerdotibus, purgare autem ministris omnibus.  
 
@@ -442,7 +442,7 @@ Ad quintum dicendum, quod psalmistatus non est ordo, sed officium ordini annexum
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ordo dicitur sacer dupliciter. Uno modo secundum se; et sic quilibet ordo est sacer, cum sit sacramentum quoddam; alio modo ratione materiae circa quam habet aliquem actum; et sic ordo sacer dicitur qui habet aliquem actum circa rem aliquam consecratam; et sic sunt tantum tres ordines sacri, scilicet sacerdos, et diaconus, qui habet actum circa corpus Christi et sanguinem consecratum, et subdiaconus, qui habet actum circa vasa consecrata; et ideo etiam eis continentia indicitur, ut sancti et mundi sint qui sancta tractant.***
+Ad tertiam quaestionem dicendum, quod ordo dicitur sacer dupliciter. Uno modo secundum se; et sic quilibet ordo est sacer, cum sit sacramentum quoddam; alio modo ratione materiae circa quam habet aliquem actum; et sic ordo sacer dicitur qui habet aliquem actum circa rem aliquam consecratam; et sic sunt tantum tres ordines sacri, scilicet sacerdos, et diaconus, qui habet actum circa corpus Christi et sanguinem consecratum, et subdiaconus, qui habet actum circa vasa consecrata; et ideo etiam eis continentia indicitur, ut sancti et mundi sint qui sancta tractant.  
 
 Et per hoc patet solutio ad objecta.  
 
@@ -450,7 +450,7 @@ Articulus 2
 
 ***De actibus singulorum***
 
-***Ad secundum sic proceditur. Videtur quod actus ordinum inconvenienter in littera assignentur. Quia per ablutionem aliquis praeparatur ad corpus Christi sumendum. Sed praeparatio sumentium sacramentum pertinet ad inferiores ordines. Ergo inconvenienter ablutio a peccatis ponitur inter actus sacerdotis.***
+Ad secundum sic proceditur. Videtur quod actus ordinum inconvenienter in littera assignentur. Quia per ablutionem aliquis praeparatur ad corpus Christi sumendum. Sed praeparatio sumentium sacramentum pertinet ad inferiores ordines. Ergo inconvenienter ablutio a peccatis ponitur inter actus sacerdotis.  
 
 Praeterea, homo per baptismum est Deo figuratus, characterem configurantem suscipiens. Sed orare et offerre oblationes sunt actus immediate ad Deum ordinati. Ergo quilibet baptizatus potest hos actus facere, et non soli sacerdotes.  
 
@@ -492,7 +492,7 @@ Articulus 3
 
 ***Quando imprimatur character in singulis ordinibus***
 
-***Ad tertium sic proceditur. Videtur quod sacerdotii character non imprimatur in ipsa calicis porrectione. Quia consecratio sacerdotis fit quadam unctione, sicut et confirmatio. Sed in confirmatione in ipsa unctione imprimitur character. Ergo et in sacerdotio, et non in calicis porrectione.***
+Ad tertium sic proceditur. Videtur quod sacerdotii character non imprimatur in ipsa calicis porrectione. Quia consecratio sacerdotis fit quadam unctione, sicut et confirmatio. Sed in confirmatione in ipsa unctione imprimitur character. Ergo et in sacerdotio, et non in calicis porrectione.  
 
 Praeterea, Dominus dedit discipulis sacerdotalem potestatem quando dixit: *accipite Spiritum Sanctum: quorum remiseritis peccata, remittuntur eis*, Joan. 20, 22. Sed Spiritus datur per manus impositionem. Ergo in ipsa manus impositione imprimitur character ordinis.  
 
@@ -524,7 +524,7 @@ Quaestio 3
 
 ***De quibusdam annexis ordinibus***
 
-***Deinde quaeritur de quibusdam quae sunt ordinibus annexa; et circa hoc quaeruntur tria:***
+Deinde quaeritur de quibusdam quae sunt ordinibus annexa; et circa hoc quaeruntur tria:  
 
 primo, de corona;  
 
@@ -536,7 +536,7 @@ primo, de corona;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod ordinati non debeant coronae tonsuram habere. Quia Dominus captivitatem comminatur et dispersionem his qui sic attenduntur,*attenduntur.—attondentur* PLE. ut patet Deuter. 32, 42: *de captivitate nudati inimicorum capitis*; et Hierem. 49, 32: *dispergam in omnem ventum eos qui in comam attonsi sunt*. Sed ministris Christi non debetur captivitas, sed libertas. Ergo corona, tonsura et rasura eis non competit.***
+Ad primum sic proceditur. Videtur quod ordinati non debeant coronae tonsuram habere. Quia Dominus captivitatem comminatur et dispersionem his qui sic attenduntur,*attenduntur.—attondentur* PLE. ut patet Deuter. 32, 42: *de captivitate nudati inimicorum capitis*; et Hierem. 49, 32: *dispergam in omnem ventum eos qui in comam attonsi sunt*. Sed ministris Christi non debetur captivitas, sed libertas. Ergo corona, tonsura et rasura eis non competit.  
 
 Praeterea, veritas debet respondere figurae. Sed figura coronae praecessit in veteri lege in tonsura Nazaraeorum, sicut in littera dicitur. Cum ergo Nazaraei non essent ordinati ad ministerium divinum, videtur quod ministris Ecclesiae non debeatur tonsura, vel rasura coronae; et hoc etiam videtur per hoc quod conversi, qui non sunt ministri Ecclesiae, tondentur in religionibus.  
 
@@ -548,7 +548,7 @@ Praeterea, *capilli in velamentum dati sunt*, ut patet 1 Corinth. 11. Sed minist
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod corona sit ordo. Quia in actibus Ecclesiae spiritualia corporalibus respondent. Sed corona est quoddam corporale signum quod Ecclesia adhibet. Ergo videtur quod signum interius respondeat ei; et ita etiam in coronatione imprimetur character, et erit ordo.***
+Ulterius. Videtur quod corona sit ordo. Quia in actibus Ecclesiae spiritualia corporalibus respondent. Sed corona est quoddam corporale signum quod Ecclesia adhibet. Ergo videtur quod signum interius respondeat ei; et ita etiam in coronatione imprimetur character, et erit ordo.  
 
 Praeterea, sicut ab episcopo solum datur confirmatio et alii ordines, ita et corona. Sed in confirmatione et aliis ordinibus imprimitur character. Ergo et in corona, et sic idem quod prius.  
 
@@ -560,7 +560,7 @@ Praeterea, in collatione cujuslibet ordinis fit mentio de aliqua potestate data;
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod per acceptionem coronae aliquis renuntiet temporalibus bonis. Ipsi enim dicunt cum coronantur: *Dominus pars hereditatis meae*. Sed sicut dicit Hieronymus, *Dominus cum istis temporalibus pars fieri dedignatur*. Ergo abrenuntiat temporalibus.***
+Ulterius. Videtur quod per acceptionem coronae aliquis renuntiet temporalibus bonis. Ipsi enim dicunt cum coronantur: *Dominus pars hereditatis meae*. Sed sicut dicit Hieronymus, *Dominus cum istis temporalibus pars fieri dedignatur*. Ergo abrenuntiat temporalibus.  
 
 Praeterea, justitia ministrorum novi testamenti debet abundare super ministros veteris, ut patet Matth. 5. Sed ministri veteris testamenti, scilicet Levitae, *non acceperunt partem hereditatis cum fratribus suis*. Ergo nec ministri novi testamenti habere debent.  
 
@@ -572,7 +572,7 @@ Praeterea, si hoc non possent, non videretur tunc differentia inter clericos sae
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod eis qui ad divina ministeria applicantur competit tonsura et rasura in modum coronae; et ratione figurae, quia corona est signum regni; et perfectionis, cum sit circularis. Illi autem qui divinis ministeriis applicantur, adipiscuntur regiam dignitatem, et perfecti in virtute esse debent. Competit etiam eis ratione subtractionis capillorum, et ex parte superiori per rasuram, ne mens eorum temporalibus occupationibus a contemplatione divinorum retardetur; et ex parte inferiori per tonsuram, ne eorum sensus temporalibus obvolvantur.***
+Respondeo dicendum ad primam quaestionem, quod eis qui ad divina ministeria applicantur competit tonsura et rasura in modum coronae; et ratione figurae, quia corona est signum regni; et perfectionis, cum sit circularis. Illi autem qui divinis ministeriis applicantur, adipiscuntur regiam dignitatem, et perfecti in virtute esse debent. Competit etiam eis ratione subtractionis capillorum, et ex parte superiori per rasuram, ne mens eorum temporalibus occupationibus a contemplatione divinorum retardetur; et ex parte inferiori per tonsuram, ne eorum sensus temporalibus obvolvantur.  
 
 Ad primum ergo dicendum, quod Dominus comminatur illis qui hoc ad cultum daemonum faciebant.  
 
@@ -582,7 +582,7 @@ Ad tertium dicendum, quod non solum debet significari temporalium abjectio, sed 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ministri Ecclesiae a populo separantur ad vacandum divino cultui. In cultu autem divino quaedam sunt quae per potentias determinatas sunt exercenda; et ad haec datur spiritualis potestas ordinis: quaedam autem sunt quae communiter a toto ministrorum collegio fiunt, sicut dicere divinas laudes; et ad hoc non praeexigitur aliqua potestas ordinis, sed solum quaedam deputatio ad tale officium; et hoc fit per coronam; et ideo non est ordo, sed praeambulum ad ordinem.***
+Ad secundam quaestionem dicendum, quod ministri Ecclesiae a populo separantur ad vacandum divino cultui. In cultu autem divino quaedam sunt quae per potentias determinatas sunt exercenda; et ad haec datur spiritualis potestas ordinis: quaedam autem sunt quae communiter a toto ministrorum collegio fiunt, sicut dicere divinas laudes; et ad hoc non praeexigitur aliqua potestas ordinis, sed solum quaedam deputatio ad tale officium; et hoc fit per coronam; et ideo non est ordo, sed praeambulum ad ordinem.  
 
 Ad primum ergo dicendum, quod corona habet interius aliquod spirituale quod ei respondet, sicut signum signato; sed hoc non est aliqua spiritualis potestas; et ideo in corona non imprimitur character, nec est ordo.  
 
@@ -592,7 +592,7 @@ Ad tertium dicendum, quod ex hoc quod aliquis est clericus, est in altiori statu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod clerici in hoc quod coronam accipiunt, non renuntiant patrimonio, neque aliis rebus temporalibus: quia terrenorum possessio non contrariatur divino cultui, ad quem clerici deputantur, sed nimia eorum solicitudo: quia, ut dicit Gregorius, *affectus in crimine est*.***
+Ad tertiam quaestionem dicendum, quod clerici in hoc quod coronam accipiunt, non renuntiant patrimonio, neque aliis rebus temporalibus: quia terrenorum possessio non contrariatur divino cultui, ad quem clerici deputantur, sed nimia eorum solicitudo: quia, ut dicit Gregorius, *affectus in crimine est*.  
 
 Ad primum ergo dicendum, quod Dominus dedignatur pars fieri, ut ex aequo cum aliis diligatur; ita scilicet quod aliquis ponat finem suum in Deo et in rebus mundi; non tamen dedignatur fieri pars eorum qui res mundi ita possident quod per eas a cultu divino non retrahuntur.  
 
@@ -606,7 +606,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod supra sacerdotalem ordinem non debeat esse aliqua potestas episcopalis. Quia, sicut in littera dicitur, *ordo sacerdotalis ab Aaron sumpsit exordium*. Sed in veteri lege nullus erat supra Aaron. Ergo nec in nova lege debet aliqua potestas esse supra sacerdotalem.***
+Ad secundum sic proceditur. Videtur quod supra sacerdotalem ordinem non debeat esse aliqua potestas episcopalis. Quia, sicut in littera dicitur, *ordo sacerdotalis ab Aaron sumpsit exordium*. Sed in veteri lege nullus erat supra Aaron. Ergo nec in nova lege debet aliqua potestas esse supra sacerdotalem.  
 
 Praeterea, potestates ordinantur secundum actus. Sed nullus actus sacer potest esse major quam consecrare corpus Christi, ad quod est potestas sacerdotalis. Ergo supra sacerdotalem potestatem non debet esse episcopalis.  
 
@@ -618,7 +618,7 @@ Praeterea, divina ministeria debent esse magis ordinata quam humana. Sed humanor
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod episcopatus sit ordo. Primo per hoc quod Dionysius assignat hos tres ordines ecclesiasticae hierarchiae, episcopum, sacerdotem, et ministrum. In littera etiam dicitur, quod est ordo episcoporum quadripartitus.***
+Ulterius. Videtur quod episcopatus sit ordo. Primo per hoc quod Dionysius assignat hos tres ordines ecclesiasticae hierarchiae, episcopum, sacerdotem, et ministrum. In littera etiam dicitur, quod est ordo episcoporum quadripartitus.  
 
 Praeterea, ordo nihil aliud est quam quidam potestatis gradus in spiritualibus dispensandis. Sed episcopi possunt dispensare aliqua sacramenta quae non possunt dispensare sacerdotes, sicut confirmationem et ordinem. Ergo episcopatus est ordo.  
 
@@ -630,7 +630,7 @@ Praeterea, majores ordines non conferuntur nisi in sabbatis. Sed episcopalis pot
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod supra episcopos non possit aliquis esse superior in Ecclesia. Quia omnes episcopi sunt apostolorum successores. Sed potestas quae est data uni apostolorum, scilicet Petro, Matth. 16, est etiam data omnibus apostolis, Joan. 20. Ergo omnes episcopi sunt pares, et unus non est supra alterum.***
+Ulterius. Videtur quod supra episcopos non possit aliquis esse superior in Ecclesia. Quia omnes episcopi sunt apostolorum successores. Sed potestas quae est data uni apostolorum, scilicet Petro, Matth. 16, est etiam data omnibus apostolis, Joan. 20. Ergo omnes episcopi sunt pares, et unus non est supra alterum.  
 
 Praeterea, ritus Ecclesiae magis debet esse conformis ritui Judaeorum quam ritui gentilium. Sed distinctio episcopalis dignitatis, et ordinatio unius super alium, ut in littera dicitur, est a gentilibus introducta; in veteri autem lege non erat. Ergo nec in Ecclesia episcopus unus super alium esse debet.  
 
@@ -642,7 +642,7 @@ Praeterea, beatus Cyrillus episcopus Alexandrinus dicit: *ut membra maneamus in 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sacerdos habet duos actus: unum principalem, scilicet consecrare verum corpus Christi; alium secundarium, scilicet praeparare populum ad susceptionem hujus sacramenti, ut prius dictum est. Quantum autem ad primum actum actus sacerdotis non dependet ab aliqua superiori potestate, nisi divina; sed quantum ad secundum dependet ab aliqua superiori potestate, et humana. Omnis enim potestas quae non potest exire in actum nisi praesuppositis quibusdam ordinationibus, dependet ab illa potestate quae illas ordinationes facit. Sacerdos autem non potest absolvere et ligare nisi praesupposita praelationis jurisdictione, qua sibi subdantur illi quos absolvit; potest autem consecrare quamlibet materiam a Christo determinatam; nec aliud requiritur quantum est de necessitate sacramenti, quamvis ex quadam congruitate praesupponatur actus episcopalis in consecratione altaris, et vestium ejus. Et ita patet quod oportet esse supra sacerdotalem potestatem episcopalem quantum ad actum secundarium sacerdotis, non autem quantum ad primum.***
+Respondeo dicendum ad primam quaestionem, quod sacerdos habet duos actus: unum principalem, scilicet consecrare verum corpus Christi; alium secundarium, scilicet praeparare populum ad susceptionem hujus sacramenti, ut prius dictum est. Quantum autem ad primum actum actus sacerdotis non dependet ab aliqua superiori potestate, nisi divina; sed quantum ad secundum dependet ab aliqua superiori potestate, et humana. Omnis enim potestas quae non potest exire in actum nisi praesuppositis quibusdam ordinationibus, dependet ab illa potestate quae illas ordinationes facit. Sacerdos autem non potest absolvere et ligare nisi praesupposita praelationis jurisdictione, qua sibi subdantur illi quos absolvit; potest autem consecrare quamlibet materiam a Christo determinatam; nec aliud requiritur quantum est de necessitate sacramenti, quamvis ex quadam congruitate praesupponatur actus episcopalis in consecratione altaris, et vestium ejus. Et ita patet quod oportet esse supra sacerdotalem potestatem episcopalem quantum ad actum secundarium sacerdotis, non autem quantum ad primum.  
 
 Ad primum ergo dicendum, quod Aaron sacerdos fuit et pontifex, idest sacerdotum princeps. Sumpsit ergo sacerdotalis potestas ab ipso exordium, inquantum fuit sacerdos sacrificia offerens, quod etiam minoribus sacerdotibus licebat; sed non ab eo inquantum fuit pontifex, per quam potestatem poterat aliqua facere, ut ingredi semel in anno in sancta sanctorum, quod aliis non licebat.  
 
@@ -652,7 +652,7 @@ Ad tertium dicendum, quod sicut omnium rerum naturalium perfectiones praeexistun
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ordo potest accipi dupliciter. Uno modo secundum quod est sacramentum; et sic, ut prius dictum est, ordinatur omnis ordo ad Eucharistiae sacramentum; unde, cum episcopus non habeat potestatem superiorem sacerdote quantum ad hoc, non erit episcopatus ordo. Alio modo potest considerari ordo secundum quod est officium quoddam respectu quarumdam actionum sacrarum; et sic, cum episcopus habeat potestatem in actionibus hierarchicis respectu corporis mystici supra sacerdotem, episcopatus erit ordo; et secundum hoc loquuntur auctoritates inductae.***
+Ad secundam quaestionem dicendum, quod ordo potest accipi dupliciter. Uno modo secundum quod est sacramentum; et sic, ut prius dictum est, ordinatur omnis ordo ad Eucharistiae sacramentum; unde, cum episcopus non habeat potestatem superiorem sacerdote quantum ad hoc, non erit episcopatus ordo. Alio modo potest considerari ordo secundum quod est officium quoddam respectu quarumdam actionum sacrarum; et sic, cum episcopus habeat potestatem in actionibus hierarchicis respectu corporis mystici supra sacerdotem, episcopatus erit ordo; et secundum hoc loquuntur auctoritates inductae.  
 
 Unde patet solutio ad primum.  
 
@@ -662,7 +662,7 @@ Ad tertium dicendum, quod potestas episcopalis non est tantum jurisdictionis, se
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ubicumque sunt multa regimina ordinata in unum, oportet esse aliquod universale regimen supra particularia regimina: quia in omnibus virtutibus et artibus, ut dicitur in 1 *Ethic*., est ordo secundum ordinem finium. Bonum autem commune divinius est quam bonum speciale; et ideo super potestatem regitivam quae conjectat bonum speciale, oportet esse potestatem regitivam universalem respectu boni communis, alias non posset esse colligatio ad unum; et ideo cum tota Ecclesia sit unum corpus, oportet, si ista unitas debet conservari, quod sit aliqua potestas regitiva respectu totius Ecclesiae supra potestatem episcopalem, qua unaquaeque specialis Ecclesia regitur; et haec est potestas Papae; et ideo qui hanc potestatem negant, schismatici dicuntur, quasi divisores ecclesiasticae unitatis. Et inter episcopum simplicem et Papam sunt alii gradus dignitatum correspondentes gradibus unionis; secundum quos una congregatio vel communitas includit aliam; sicut communitas unius provinciae includit communitatem civitatis; et communitas regni communitatem unius provinciae; et communitas totius mundi communitatem unius regni.***
+Ad tertiam quaestionem dicendum, quod ubicumque sunt multa regimina ordinata in unum, oportet esse aliquod universale regimen supra particularia regimina: quia in omnibus virtutibus et artibus, ut dicitur in 1 *Ethic*., est ordo secundum ordinem finium. Bonum autem commune divinius est quam bonum speciale; et ideo super potestatem regitivam quae conjectat bonum speciale, oportet esse potestatem regitivam universalem respectu boni communis, alias non posset esse colligatio ad unum; et ideo cum tota Ecclesia sit unum corpus, oportet, si ista unitas debet conservari, quod sit aliqua potestas regitiva respectu totius Ecclesiae supra potestatem episcopalem, qua unaquaeque specialis Ecclesia regitur; et haec est potestas Papae; et ideo qui hanc potestatem negant, schismatici dicuntur, quasi divisores ecclesiasticae unitatis. Et inter episcopum simplicem et Papam sunt alii gradus dignitatum correspondentes gradibus unionis; secundum quos una congregatio vel communitas includit aliam; sicut communitas unius provinciae includit communitatem civitatis; et communitas regni communitatem unius provinciae; et communitas totius mundi communitatem unius regni.  
 
 Ad primum ergo dicendum, quod quamvis omnibus apostolis data sit communiter potestas ligandi et solvendi; tamen ut in hac potestate ordo aliquis significaretur, primo soli Petro data est, ut ostendatur quod ab eo in alios debeat ista potestas descendere, propter quod etiam ei dixit singulariter, Luc. 22, 32: *confirma fratres tuos*; et: *pasce oves meas*, idest loco mei, ubi Chrysostomus dicit: *praepositus et caput esto fratrum, ut ipsi te in loco meo assumentes ubique terrarum te in throno tuo sedentem praedicent, et confirment*.  
 
@@ -674,7 +674,7 @@ Articulus 3
 
 ***De vestibus sacris***
 
-***Ad tertium sic proceditur. Videtur quod vestes ministrorum non convenienter in Ecclesia institutae sint. Ministri enim novi testamenti magis tenentur ad castitatem quam ministri veteris. Sed inter alias vestes ministrorum veteris testamenti erant feminalia in signum castitatis. Ergo multo fortius nunc esse debent inter vestes ministrorum.***
+Ad tertium sic proceditur. Videtur quod vestes ministrorum non convenienter in Ecclesia institutae sint. Ministri enim novi testamenti magis tenentur ad castitatem quam ministri veteris. Sed inter alias vestes ministrorum veteris testamenti erant feminalia in signum castitatis. Ergo multo fortius nunc esse debent inter vestes ministrorum.  
 
 Praeterea, sacerdotium novi testamenti est dignius quam veteris sacerdotium. Sed veteres sacerdotes habebant mitras, quod est signum dignitatis. Ergo sacerdotes novae legis eas debent habere.  
 
@@ -720,7 +720,7 @@ Ad octavum dicendum, quod Romanus pontifex non utitur baculo, quia Petrus misit 
 
 Expositio textus  
 
-****Nunc ad considerationem sacrae ordinationis accedamus*. Videtur quod male ordinetur: quia hoc sacramentum est ad dispensandum alia sacramenta, et ita ante alia deberet ordinari. Et dicendum, quod Magister ordinat secundum hoc ad quod ordinantur: et quia bonum commune ad quod ordinatur hoc sacramentum, praesupponit bonum personae, ad quod ordinantur praecedentia; ideo de hoc non debuit prius determinare.***
+*Nunc ad considerationem sacrae ordinationis accedamus*. Videtur quod male ordinetur: quia hoc sacramentum est ad dispensandum alia sacramenta, et ita ante alia deberet ordinari. Et dicendum, quod Magister ordinat secundum hoc ad quod ordinantur: et quia bonum commune ad quod ordinatur hoc sacramentum, praesupponit bonum personae, ad quod ordinantur praecedentia; ideo de hoc non debuit prius determinare.  
 
 *In sacramento ergo septiformis spiritus septem gradus ecclesiastici*. Adaptatio quaedam est: quia in quolibet ordine omnia dona Spiritus Sancti dantur: quia Matthias electus est sorte, de quo Dionysius dicit, 5 cap. Eccles. Hierar.: *de divina sorte Matthiae data alii alia dixerunt, nec recte, ut existimo*. *Meum et ipse sensum dicam. Videtur enim mihi Scriptura sortem nominasse divinum quoddam donum declarans Matthiam quasi divina electione ostensum*.  
 

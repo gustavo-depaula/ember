@@ -1,5 +1,7 @@
 # Proposition 24
 
+176. Causa prima existit in rebus omnibus secundum dispositionem unam, sed res omnes non existunt in prima secundum dispositionem unam.  
+
 > 177. Quod est, quia, quamvis prima existat in rebus omnibus, tamen unaquaeque rerum recipit eam secundum modum suae potentiae.
 
 > 178. Quod est, quia ex rebus sunt, quae recipiunt causam primam receptione unita, et ex eis sunt, quae recipiunt eam receptione multiplicata, et ex eis sunt, quae recipiunt eam receptione aeterna, et ex eis sunt, quae recipiunt eam receptione temporali, et ex eis sunt, quae recipiunt eam receptione spirituali, et ex eis sunt, quae recipiunt eam receptione corporali.

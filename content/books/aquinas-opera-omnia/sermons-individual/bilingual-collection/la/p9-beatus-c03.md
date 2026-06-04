@@ -1,5 +1,7 @@
 # Evening Collation
 
+Sequitur de processu beati Martini ad beatitudinem cum dicit: ***ascentiones in corde suo disposuit***. Quicumque vult ire ad aliquem altum statum, oportet quod paulatim ascendat. Hoc considerans beatus Martinus quod de infimo statu miseriae debebat ascendere ad altum statum beatitudinis paravit sibi ascensiones. Possumus autem in beato Martino considerare triplicem ascensionem:  
+
 prima est per regenerationis sacramentum,  
 
 secunda est secundum statum,  

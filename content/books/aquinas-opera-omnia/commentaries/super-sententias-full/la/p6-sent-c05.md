@@ -1,6 +1,8 @@
 # D. 27 - Charity
 
-***Postquam determinavit Magister de fide et spe, hic tertio determinat de caritate.***
+***Divisio textus***
+
+Postquam determinavit Magister de fide et spe, hic tertio determinat de caritate.  
 
 Dividitur autem haec pars in duas:  
 
@@ -84,7 +86,7 @@ Articulus 1
 
 ***Utrum definitio Dionysii de amore, secundum omnem partem suam sit bona***
 
-***Ad primum sic proceditur. Dionysius 4 cap. *De div. nom.* sic definit amorem: *amor virtus est unitiva et concretiva*The edited versions omit *et concretiva*. *movens superiora ad providentiam minus habentium*, idest inferiorum: *coordinata autem*, idest aequalia, *rursus ad communicativam alternam habitudinem: subjecta*, idest inferiora, *ad meliorum*, idest superiorum, *conversionem*. Sed videtur quod inconvenienter definiatur hic amor.***
+Ad primum sic proceditur. Dionysius 4 cap. *De div. nom.* sic definit amorem: *amor virtus est unitiva et concretiva*The edited versions omit *et concretiva*. *movens superiora ad providentiam minus habentium*, idest inferiorum: *coordinata autem*, idest aequalia, *rursus ad communicativam alternam habitudinem: subjecta*, idest inferiora, *ad meliorum*, idest superiorum, *conversionem*. Sed videtur quod inconvenienter definiatur hic amor.  
 
 Nulla enim passio est virtus, ut dicitur inThe edited versions omit *in*. 2 *Eth.* Sed amor est passio. Ergo non est virtus.  
 
@@ -190,7 +192,7 @@ Articulus 3
 
 ***Utrum amor sit prima et principalior affectio animae***
 
-***Ad tertium sic proceditur. Videtur quod amor non sit prima et principalis inter omnes alias animae affectiones.***
+Ad tertium sic proceditur. Videtur quod amor non sit prima et principalis inter omnes alias animae affectiones.  
 
 Motus enim praecedit terminum. Sed amor est determinatio appetitivi motus, ut patet ex dictis, art. 1. Ergo amor sequitur desiderium quod motum ipsum appetitus importat.  
 
@@ -464,7 +466,7 @@ Praeterea, objectum caritatis est Deus, cum sit virtus theologica. Sed Deus est 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit distincta ab aliis virtutibus. QuidquidThe edited versions add *enim*. cadit in distinctione virtutis, non distinguitur a virtutibus. Sed caritas est hujusmodi; unde Hieronymus dicit: *ut breviter omnem virtutis definitionem complectar, virtus est caritas qua diligitur Deus et proximus*: et Augustinus dicit, quod virtus est ordo amoris. Ergo caritas non distinguitur ab aliis virtutibus.***
+Ulterius. Videtur quod non sit distincta ab aliis virtutibus. QuidquidThe edited versions add *enim*. cadit in distinctione virtutis, non distinguitur a virtutibus. Sed caritas est hujusmodi; unde Hieronymus dicit: *ut breviter omnem virtutis definitionem complectar, virtus est caritas qua diligitur Deus et proximus*: et Augustinus dicit, quod virtus est ordo amoris. Ergo caritas non distinguitur ab aliis virtutibus.  
 
 Praeterea, virtutes distinguuntur per actus. Sed actus omnium aliarum virtutum caritati attribuuntur, ut patet 1 Cor. 13. Ergo caritas non est virtus distincta ab aliis virtutibus.  
 
@@ -478,7 +480,7 @@ Praeterea, Philosophus inThe edited versions omit *in*. 5 *Eth*. probat justitia
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod caritas non sit forma aliarum virtutum. Omnis enim forma vel est exemplaris vel intrinseca. Sed caritas non est forma exemplaris virtutum, quia tunc in eamdem speciem traherentur aliae virtutes: nec iterum est forma intrinseca: quia daret esse et speciem aliis virtutibus; et sic omnes virtutes essent eaedem specie, et essent in eodem subjecto ubi est caritas, nec ab ipsa distinguerentur. Ergo caritas nullo modo est forma virtutum.***
+Ulterius. Videtur quod caritas non sit forma aliarum virtutum. Omnis enim forma vel est exemplaris vel intrinseca. Sed caritas non est forma exemplaris virtutum, quia tunc in eamdem speciem traherentur aliae virtutes: nec iterum est forma intrinseca: quia daret esse et speciem aliis virtutibus; et sic omnes virtutes essent eaedem specie, et essent in eodem subjecto ubi est caritas, nec ab ipsa distinguerentur. Ergo caritas nullo modo est forma virtutum.  
 
 Praeterea, caritas differt a gratia. Sed gratia dicitur esse forma omnium virtutum, [quia]The Bruges, Brussels, Paris (841, 842, 15.539, 15.770) manuscripts read *quae*. facit actum meritorium. Ergo caritas non est forma.  
 
@@ -494,7 +496,7 @@ Praeterea, illud quod est principale, etiam in corporalibus, est formale respect
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod caritas possit esse informis. Sicut enim fides est in eo qui non operatur bene, ita etiamThe edited versions omit *etiam*. et dilectio qua Deus diligitur: quia etiam peccatores et infideles Deum diligunt. Sed fides quae est sine operibus, est informis. Ergo similiter caritas.***
+Ulterius. Videtur quod caritas possit esse informis. Sicut enim fides est in eo qui non operatur bene, ita etiamThe edited versions omit *etiam*. et dilectio qua Deus diligitur: quia etiam peccatores et infideles Deum diligunt. Sed fides quae est sine operibus, est informis. Ergo similiter caritas.  
 
 Praeterea, nullus scit se habere gratiam. Potest autem aliquis scire se habere dilectionem. Ergo dilectio Dei potest esse sine gratia; et ita potest esse informis.  
 
@@ -506,7 +508,7 @@ Praeterea, forma non potest esse informis. Sed caritas est forma omnium aliarum 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod virtus specificatur ex objecto suo secundum illam rationem qua principaliter in ipsum tendit; unde cum caritas diligat Deum principaliter, et omnia alia non diligat nisi inquantum sunt Dei, constat quod ex unitate divinae bonitatis, quam caritas primo respicit, unitatem recipit,The Piana and Antwerp editions read *respicit*. et est una virtus.***
+Respondeo dicendum ad primam quaestionem, quod virtus specificatur ex objecto suo secundum illam rationem qua principaliter in ipsum tendit; unde cum caritas diligat Deum principaliter, et omnia alia non diligat nisi inquantum sunt Dei, constat quod ex unitate divinae bonitatis, quam caritas primo respicit, unitatem recipit,The Piana and Antwerp editions read *respicit*. et est una virtus.  
 
 Ad primum ergo dicendum, quod proximus non est objectum principale ipsius caritatis, ut dictum est.  
 
@@ -516,7 +518,7 @@ Ad tertium dicendum, quod materialis diversitas objectorum sufficit ad diversifi
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod, ut dictum est, habitus specificantur ex objectis suis secundum rationem quam principaliter attendunt. Ratio autem objecti sumitur secundum proportionem rei circa quam est operatio habitus vel potentiae, ad actum animae, in qua sunt habitus vel potentiae. Quia autem per operationem animae dividuntur quandoque quae secundum rem conjuncta, et summe unum sunt; ideo contingit quod ubi res est eadem, sunt diversae rationes objecti, sicut eadem res objectum est liberalitatis, ut est [donabilitas,]The Bruges, Brussels, and Paris (841, 842, 15.539, 15.770) manuscripts read *damnabilitas* but the Paris (842) manuscript corrects it in the margin. et justitiae, ut habet debiti rationem. Et similiter ubi res est communis, est ratio objecti particularis et propria: sicut philosophia prima est specialis scientia, quamvis consideret ens secundum quod est omnibus commune: quia specialem rationem entis considerat secundum quod non dependet a materia etThe edited versions read *a*. motu:***
+Ad secundam quaestionem dicendum, quod, ut dictum est, habitus specificantur ex objectis suis secundum rationem quam principaliter attendunt. Ratio autem objecti sumitur secundum proportionem rei circa quam est operatio habitus vel potentiae, ad actum animae, in qua sunt habitus vel potentiae. Quia autem per operationem animae dividuntur quandoque quae secundum rem conjuncta, et summe unum sunt; ideo contingit quod ubi res est eadem, sunt diversae rationes objecti, sicut eadem res objectum est liberalitatis, ut est [donabilitas,]The Bruges, Brussels, and Paris (841, 842, 15.539, 15.770) manuscripts read *damnabilitas* but the Paris (842) manuscript corrects it in the margin. et justitiae, ut habet debiti rationem. Et similiter ubi res est communis, est ratio objecti particularis et propria: sicut philosophia prima est specialis scientia, quamvis consideret ens secundum quod est omnibus commune: quia specialem rationem entis considerat secundum quod non dependet a materia etThe edited versions read *a*. motu:  
 
 et similiter est in proposito. Objectum enim caritatis proprium et principale est bonitas divina. In omnibus autem aliis virtutibus est aliquod bonum divinum; sed tamen hoc quod est commune secundum rem, habet specialem rationem: et ideo caritas est specialis virtus ab omnibus aliis distincta.  
 
@@ -534,7 +536,7 @@ Ad quartum dicendum, quod praeceptum ad caritatem pertinens, non comprehendit om
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod caritas ad omnes alias virtutes comparatur et ut motor et ut finis et ut forma.***
+Ad tertiam quaestionem dicendum, quod caritas ad omnes alias virtutes comparatur et ut motor et ut finis et ut forma.  
 
 Quod autem motor sit omnium aliarum virtutum, ex hoc patet, quia ipsum bonum, quod est objectum caritatis sub ratione finis, est finis virtutum. In omnibus autem potentiis vel artibusThe Bruges and Brussels manuscripts read *actibus*. ordinatis ita accidit, quod ars vel potentia quae est circa finem, ordinat aliarum actus ad finem proprium; sicut militaris, quae est propter victoriam, ad quam omne officium bellicum ordinatur, ordinat equestrem et navalem et omnia hujusmodi in suum finem;  
 
@@ -560,7 +562,7 @@ Ad quintum dicendum, quod inferiora participant perfectiones superiorum secundum
 
 Solutio 4  
 
-***Ad quartum quaestionem dicendum, quod caritas nunquam potest esse informis: et in hoc omnes concordant. Hoc autem contingit secundum quosdam, ex hoc quod caritas nihil est aliud quam Spiritus Sanctus. SedThe Bruges manuscript omits *sed*. hoc in 1 lib., dist. 17, qu. 1, art. 1 et 2, destructum est. Secundum alios vero caritas est idem quod gratia; quod in lib. 2, dist. 26, art. 4, reprobatum est.***
+Ad quartum quaestionem dicendum, quod caritas nunquam potest esse informis: et in hoc omnes concordant. Hoc autem contingit secundum quosdam, ex hoc quod caritas nihil est aliud quam Spiritus Sanctus. SedThe Bruges manuscript omits *sed*. hoc in 1 lib., dist. 17, qu. 1, art. 1 et 2, destructum est. Secundum alios vero caritas est idem quod gratia; quod in lib. 2, dist. 26, art. 4, reprobatum est.  
 
 Et ideo oportet alias rationes assignare. Potest autem hujusmodi ratio ex jam dictis haberi duplex. Prima ratio accipitur ex effectu caritatis: quia cum caritas sitThe Bruges manuscript reads *est*. amicitia quaedam, quae requirit convictum inter amatos, non potest esse caritas, nisi sit participatio divinae vitae, quaeThe Bruges manuscript reads *quod*. est per gratiam; etThe edited versions omit *et*. ideo caritas sine gratia esse non potest. Secunda ratio potest assignari ex hoc quod ipsa motor est omnium virtutum et forma; unde omne peccatum caritatem tollit, inquantum opponitur actui alicujus virtutis. Et quia gratia non potest tolli nisi per peccatum, ideo caritas tollitur ablata gratia.  
 
@@ -572,7 +574,7 @@ Ad tertium dicendum, quod timor non requirit participationem divinae vitae, sicu
 
 Quaestio 3  
 
-***Deinde quaeritur de actu caritatis, secundum [quem]The Bruges and Brussels manuscripts and the Piana and Antwerp editions read *quod*. diligiturThe Piana and Antwerp editions read *intelligitur*. Deus; quia de dilectione proximi infra erit locus quaerendi.***
+Deinde quaeritur de actu caritatis, secundum [quem]The Bruges and Brussels manuscripts and the Piana and Antwerp editions read *quod*. diligiturThe Piana and Antwerp editions read *intelligitur*. Deus; quia de dilectione proximi infra erit locus quaerendi.  
 
 Quaeruntur autem quatuor:  
 
@@ -588,7 +590,7 @@ Articulus 1
 
 ***Utrum Deus per essentiam suam in statu viae possit a nobis amari***
 
-***Ad primum sic proceditur. Videtur quod Deus non possit a nobis in statu viae immediate amari.***
+Ad primum sic proceditur. Videtur quod Deus non possit a nobis in statu viae immediate amari.  
 
 Intellectus enim velocior est quam affectus: unde dicit Augustinus, quiaThe edited versions read *quod*. praecedit intellectus; sequitur tardus aut nullus affectus. Sed intellectus noster in statu viae non potest Deum immediate videre. Ergo nec affectus amare.  
 
@@ -646,7 +648,7 @@ Articulus 3
 
 ***Utrum dilectio qua Deum diligimus, habeat modum***
 
-***Ad tertium sic proceditur. Videtur quod dilectio qua Deum diligimus, modum habeat.***
+Ad tertium sic proceditur. Videtur quod dilectio qua Deum diligimus, modum habeat.  
 
 Omne enim finitum mensuram habet. Sed modusThe edited versions read *motus*. ex mensura causatur, sicutThe edited versions read *ut*. dictum est, in 1 lib., dist. 3. Cum ergo dilectio qua Deum diligimus, finita sit, oportet quod modum habeat.  
 
@@ -676,7 +678,7 @@ Articulus 4
 
 ***Utrum modus diligendi qui est in praecepto possit in via servari***
 
-***Ad quartum sic proceditur. Videtur quod modus ille qui in praecepto implicatur possit in via servari:***
+Ad quartum sic proceditur. Videtur quod modus ille qui in praecepto implicatur possit in via servari:  
 
 Quia Hieronymus dicit: *qui dicit Deum homini aliquid impossibile praecepisse, anathema sit*. Sed hoc Deus praecepit omnibus existentibus in statu viae. Ergo haereticum est dicere, quod non possit in via observari.  
 
@@ -702,7 +704,7 @@ Ad alia etiam patet solutio per ea quae dicta sunt.
 
 Expositio textus  
 
-****Non ergo jam se diligit*. Contra. Omne peccatum, secundum Augustinum, est ex amore sui. Ergo videtur etiam quod immoderate se diligat. EtThe edited versions omit *et*. dicendum, quod diligit in se naturam exteriorem, quam se aestimat esse; non autem naturam intellectivam, secundum quam vere est id quod est; et ita diligit id quodThe Bruges manuscript adds *secundum*. se esse aestimat,The edited versions read *existimat*. non autem id quod vere est: quia unaquaeque res proprie est id quod est potissimum in ipsa; sicut civitas est rex,The edited versions read *sicut civitas sic rex*. ut dicit Philosophus inThe edited versions omit *in*. 9 *Eth*.***
+*Non ergo jam se diligit*. Contra. Omne peccatum, secundum Augustinum, est ex amore sui. Ergo videtur etiam quod immoderate se diligat. EtThe edited versions omit *et*. dicendum, quod diligit in se naturam exteriorem, quam se aestimat esse; non autem naturam intellectivam, secundum quam vere est id quod est; et ita diligit id quodThe Bruges manuscript adds *secundum*. se esse aestimat,The edited versions read *existimat*. non autem id quod vere est: quia unaquaeque res proprie est id quod est potissimum in ipsa; sicut civitas est rex,The edited versions read *sicut civitas sic rex*. ut dicit Philosophus inThe edited versions omit *in*. 9 *Eth*.  
 
 *Sic condita est mens humana ut nunquam sui non meminerit, nunquam se non intelligat, nunquam se non diligat*. De his quae in hac notula dicuntur, dictum est in 1 lib., d. 3.The edited versions omit *d. 3*.  
 

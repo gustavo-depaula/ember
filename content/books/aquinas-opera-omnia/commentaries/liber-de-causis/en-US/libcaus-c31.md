@@ -1,5 +1,7 @@
 # Proposition 30
 
+203. Every substance created in time is either always in time and time does not pass by it since it and time were created equally, or it passes by time and time passes by it, since it was created in certain hours of time.  
+
 > 204. This is because if created things follow each other by turns and only a substance similar to a superior substance follows that superior substance, not a substance different from it, there are substances similar to superior substance—and there are created substance which time does not pass by—before the substances which are not similar to sempiternal substances, and there are substances cut off by time, created in certain hours of time. Thus it is not possible that substances created in certain hours of time be continued with sempiternal substances, since they are not similar to them at all. Thus substances sempiternal in time are those which are coextensive with sempiternal substances, and they are intermediaries between fixed substances and substances divided by time. And it is not possible that sempiternal substances which are beyond time follow temporal substances created in time, unless with temporal, sempiternal-in-time substances as intermediaries.
 
 > 205. And moreover these substances are made intermediaries only because they communicate with sublime substances in permanence and they communicate with temporal substances divided in time by generation; indeed although they are sempiternal yet their permanence is through generation and motion.

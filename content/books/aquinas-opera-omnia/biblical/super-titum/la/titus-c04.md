@@ -1,10 +1,12 @@
 # C. 3 - Justified by Grace
 
+***Justificati gratia***
+
 ***Lectio 1***
 
 ***Conversio per Incarnationem***
 
-***^3:1^ Admone illos principibus, et potestatibus subditos esse, dicto obedire, ad omne opus bonum paratos esse: [n. 77]***
+^3:1^ Admone illos principibus, et potestatibus subditos esse, dicto obedire, ad omne opus bonum paratos esse: [n. 77]  
 
 > ^3:2^ neminem blasphemare, non litigiosos esse, sed modestos, omnem ostendentes mansuetudinem ad omnes homines. [n. 80]
 
@@ -154,7 +156,7 @@ Lectio 2
 
 ***Devita haereticos***
 
-***^3:9^ Stultas autem quaestiones, et genealogias, et contentiones, et pugnas legis devita: sunt enim inutiles, et vanae. [n. 98]***
+^3:9^ Stultas autem quaestiones, et genealogias, et contentiones, et pugnas legis devita: sunt enim inutiles, et vanae. [n. 98]  
 
 > ^3:10^ Haereticum hominem post unam et secundam correptionem devita: [n. 101]
 

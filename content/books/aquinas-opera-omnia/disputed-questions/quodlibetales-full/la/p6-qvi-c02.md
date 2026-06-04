@@ -1,5 +1,7 @@
 # On Angels
 
+***Quaestio 2***
+
 ***De angelis***
 
 ***Deinde circa angelos quaerebantur duo:***
@@ -12,7 +14,7 @@ Articulus 1
 
 ***De actione ipsorum***
 
-***Ad primum sic proceditur. Videtur quod non quicquid agit angelus, agat per imperium voluntatis.***
+Ad primum sic proceditur. Videtur quod non quicquid agit angelus, agat per imperium voluntatis.  
 
 Voluntas enim aequaliter se habet ad propinqua et remota; si ergo angelus ageret per solum imperium voluntatis, sequeretur quod non differret, ab hoc quod angelus aliquid ageret, quod esset propinquum vel remotum illud in quod agit; et sic nunquam oporteret quod de caelo ad terras descenderet ad aliquid hic agendum, quod est contra traditionem Sacrae Scripturae.  
 
@@ -34,7 +36,7 @@ Articulus 2
 
 ***De loco ipsorum***
 
-***Ad secundum sic proceditur. Videtur quod angelus non possit esse in convexo caeli empyrei.***
+Ad secundum sic proceditur. Videtur quod angelus non possit esse in convexo caeli empyrei.  
 
 Dicit enim Anselmus quod in nihilo nihil esse potest; sed extra caelum empyreum nihil est; ergo angelus non potest esse in convexo caeli empyrei: sic enim esset extra caelum empyreum.  
 

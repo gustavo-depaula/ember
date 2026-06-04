@@ -1,5 +1,7 @@
 # Chapter 20
 
+^20:1^ In the year that Tharthan entered into Azotus, when Sargon the king of the Assyrians had sent him, and he had fought against Azotus, and had taken it:  
+
 > ^20:2^ At that same time the Lord spoke by the hand of Isaiah the son of Amos, saying Go, and loose the sackcloth from off your loins, and take off your shoes from your feet. And he did so, and went naked, and barefoot.
 
 > ^20:3^ And the Lord said: as my servant Isaiah has walked, naked and barefoot, it shall be a sign and a portent*Portentum*. DR: “wonder.” of three years upon Egypt, and upon Ethiopia,

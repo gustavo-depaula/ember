@@ -1,8 +1,10 @@
 # D. 42 - The Power of God
 
+***De potentia Dei***
+
 ***Divisio textus***
 
-***Determinato de scientia Dei, hic Magister secundo determinat de potentia ejus; et dividitur in partes duas: in prima Magister ostendit universalitatem potentiae ipsius, secundum quam omnipotens dicitur; in secunda excludit quorumdam errorem, potentiam Dei limitantium: *quidam tamen de suo sensu gloriantes, Dei potentiam sub mensura coarctare conati sunt*.***
+Determinato de scientia Dei, hic Magister secundo determinat de potentia ejus; et dividitur in partes duas: in prima Magister ostendit universalitatem potentiae ipsius, secundum quam omnipotens dicitur; in secunda excludit quorumdam errorem, potentiam Dei limitantium: *quidam tamen de suo sensu gloriantes, Dei potentiam sub mensura coarctare conati sunt*.  
 
 Prima in duas: in prima inquirit, quare Deus omnipotens dicatur; in secunda quaestionem determinat, ibi: *quod enim Deus omnia possit, pluribus auctoritatibus comprobatur*.  
 
@@ -100,7 +102,7 @@ Quaestio 2
 
 ***De his quae subjecta sunt divinae potentiae***
 
-***Deinde quaeritur de his quae subjecta sunt divinae potentiae; et circa hoc quaeruntur tria:***
+Deinde quaeritur de his quae subjecta sunt divinae potentiae; et circa hoc quaeruntur tria:  
 
 primo utrum Deus possit quidquid est alteri possibile;  
 
@@ -112,7 +114,7 @@ Articulus 1
 
 ***Utrum Deus possit quidquid est alteri possibile***
 
-***Ad primum sic proceditur. Videtur quod Deus possit quidquid alteri possibile est.***
+Ad primum sic proceditur. Videtur quod Deus possit quidquid alteri possibile est.  
 
 Omnis enim potentia creata est exemplata a potentia ipsius, sicut omne bonum a bonitate ejus. Sed quidquid est in exemplato, verius et perfectius invenitur in primo exemplari. Ergo potentia Dei se extendit ad omnia in quaecumque creata potentia potest.  
 
@@ -144,7 +146,7 @@ Articulus 2
 
 ***Utrum Deus possit quae sunt impossibilia naturae***
 
-***Ad secundum sic proceditur. Videtur quod ea quae naturae sunt impossibilia, Deus non possit.***
+Ad secundum sic proceditur. Videtur quod ea quae naturae sunt impossibilia, Deus non possit.  
 
 Sicut enim dicit Commentator, in 8 *Metaph*., omnis alteratio est ab aliquo agente corporali. Sed Deus est agens incorporale. Ergo videtur quod nulla alteratio a Deo possit fieri in creatura inferiori, nisi mediante motu superioris corporis, quod est primum alterans non alteratum. Sed mediante illo motu nihil impossibile naturae fieri potest. Ergo Deus nihil naturae impossibile facere potest.  
 
@@ -190,7 +192,7 @@ Articulus 3
 
 ***Utrum aliquid sit judicandum impossibile secundum causas inferiores***
 
-***Ad tertium sic proceditur. Videtur quod aliquid non sit judicandum impossibile simpliciter secundum causas inferiores.***
+Ad tertium sic proceditur. Videtur quod aliquid non sit judicandum impossibile simpliciter secundum causas inferiores.  
 
 Super illud 1 ad Cor. 1:20: *stultam fecit Deus sapientiam hujus mundi*, ita dicit Glossa: *sapientiam hujus mundi, Deus stultitiam fecit, ostendens possibile quod ipsa impossibile judicabat*. Sed sapientia hujus mundi judicat aliquid impossibile esse secundum causas inferiores. Ergo videtur quod hoc stultum sit dicere.  
 
@@ -212,7 +214,7 @@ Et per hoc patet responsio ad alia.
 
 Expositio textus  
 
-****Potuit Deus simul cuncta facere*. Non solum ita quod conderet omnes species, sed etiam omnia individua specierum, quae in toto tempore fiunt. *Sed ratio prohibuit*, non quidem per contrarietatem, sed per incompossibilitatem; non enim potest esse quod Deus aliquid faciat, et illud rationale non sit; unde ratio se habet sicut determinans opus, et potentia sicut exequens.***
+*Potuit Deus simul cuncta facere*. Non solum ita quod conderet omnes species, sed etiam omnia individua specierum, quae in toto tempore fiunt. *Sed ratio prohibuit*, non quidem per contrarietatem, sed per incompossibilitatem; non enim potest esse quod Deus aliquid faciat, et illud rationale non sit; unde ratio se habet sicut determinans opus, et potentia sicut exequens.  
 
 *Quia non esset hoc*Al.: *possibile*, etc. *potentiae, sed infirmitatis*. Et hoc etiam dicit Dionysius in 8 cap. *De div. nom*., et ponit exemplum, sicut cum aliquid dicitur esse non ens: hoc enim ipsum esse est non esse; ita et posse deficere ab eo quod est perfecte possibile, non est posse simpliciter.  
 

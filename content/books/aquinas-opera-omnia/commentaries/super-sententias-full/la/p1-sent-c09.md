@@ -1,8 +1,10 @@
 # D. 8 - The divine essence
 
+***De divina essentia***
+
 ***Divisio primae partis textus***
 
-***Ostensa Trinitate personarum in unitate essentiae, hic incipit prosequi determinationem suam de his quae pertinent ad utrumque. Sunt autem in divinis tria, scilicet essentia communis, persona distincta, proprietas distinguens. Dividitur ergo haec pars in duas: in prima determinat de istis secundum se; in secunda, quomodo ad invicem comparantur, 33 dist., ibi: *post supradicta, interius considerari, atque subtiliter inquiri oportet*.***
+Ostensa Trinitate personarum in unitate essentiae, hic incipit prosequi determinationem suam de his quae pertinent ad utrumque. Sunt autem in divinis tria, scilicet essentia communis, persona distincta, proprietas distinguens. Dividitur ergo haec pars in duas: in prima determinat de istis secundum se; in secunda, quomodo ad invicem comparantur, 33 dist., ibi: *post supradicta, interius considerari, atque subtiliter inquiri oportet*.  
 
 Prima in tres: in prima determinat de essentia; in secunda de personis, 9 dist., ibi: *nunc ad trium personarum distinctionem accedamus*; in tertia determinat de proprietatibus, 26 dist., ibi: *nunc de proprietatibus personarum . . . aliquid loqui nos oportet*.  
 
@@ -96,7 +98,7 @@ Articulus 3
 
 ***Utrum hoc nomen “qui est” sit primum inter nomina divina***
 
-***Ad tertium sic proceditur. Videtur enim quod hoc nomen “qui est” non sit primum inter divina nomina.***
+Ad tertium sic proceditur. Videtur enim quod hoc nomen “qui est” non sit primum inter divina nomina.  
 
 De prioribus enim prius est agendum. Sed Dionysius prius agit de bono in lib. *De div. nom*., quam de existente. Ergo videtur bonum prius esse ente.  
 
@@ -126,7 +128,7 @@ Quaestio 2
 
 ***De aeternitate***
 
-***Deinde quaeritur de mensura divini esse, quae est aeternitas; et circa hoc tria quaeruntur:***
+Deinde quaeritur de mensura divini esse, quae est aeternitas; et circa hoc tria quaeruntur:  
 
 primo quid est aeternitas;  
 
@@ -206,7 +208,7 @@ Articulus 3
 
 ***Utrum verba temporalia possint dici de Deo***
 
-***Ad tertium sic proceditur. Videtur quod verba temporalia non possint dici de Deo.***
+Ad tertium sic proceditur. Videtur quod verba temporalia non possint dici de Deo.  
 
 Unicuique enim respondet propria mensura. Sed tempus est propria mensura motus. Cum igitur in Deo nullus sit motus, videtur quod de Deo nullum temporale dici possit.  
 
@@ -236,7 +238,7 @@ Ad sextum dicendum, quod futurum maxime removetur a divina praedicatione, propte
 
 Expositio primae partis textus  
 
-****Nunc de veritate, sive proprietate, sive incommutabilitate atque simplicitate divinae naturae, sive substantiae, sive essentiae agendum est*. Quaeritur cum multa sint attributa essentialia, quare tantum de his tribus facit mentionem? Et dicendum, quod Magister intendit tantum ea tangere quae pertinent ad perfectionem divini esse, inquantum est esse perfectum. Perfectio autem esse potest attendi tripliciter: vel secundum quod excluditur privatio vel non esse; et ista perfectio tangitur per veritatem vel proprietatem, quae pro eodem sumuntur, ut dictum est. Vel secundum quod excluditur potentialitas; et quantum ad hoc ponitur immutabilitas. Vel quantum ad integritatem ipsius esse; et quantum ad hoc ponitur simplicitas: quia quidquid est in simplici, est ipsum suum esse.***
+*Nunc de veritate, sive proprietate, sive incommutabilitate atque simplicitate divinae naturae, sive substantiae, sive essentiae agendum est*. Quaeritur cum multa sint attributa essentialia, quare tantum de his tribus facit mentionem? Et dicendum, quod Magister intendit tantum ea tangere quae pertinent ad perfectionem divini esse, inquantum est esse perfectum. Perfectio autem esse potest attendi tripliciter: vel secundum quod excluditur privatio vel non esse; et ista perfectio tangitur per veritatem vel proprietatem, quae pro eodem sumuntur, ut dictum est. Vel secundum quod excluditur potentialitas; et quantum ad hoc ponitur immutabilitas. Vel quantum ad integritatem ipsius esse; et quantum ad hoc ponitur simplicitas: quia quidquid est in simplici, est ipsum suum esse.  
 
 *Natura vel substantia sive essentia*. Sciendum, quod ista tria sumuntur hic pro eodem. Non enim sumitur hic natura secundum quod nominat principium alicujus actus, sed prout dicit formam consequentem totum, sicut humanitas est natura hominis. Similiter substantia non sumitur hic pro individuo subsistente in genere substantiae, sed secundum quod nominat esse praedicati primi, prout dividitur contra accidens; et hoc idem est quod essentia non existens in aliquo sicut in subjecto.  
 
@@ -258,7 +260,7 @@ Quaestio 3
 
 ***De divina immutabilitate***
 
-****Dei etiam solius essentia incommutabilis dicitur proprie*. Hic prosequitur de secundo attributo, scilicet immutabilitate, ostendensParma: *dicens*. solum Deum incommutabilem esse, alias autem omnes creaturas aliquo modo mutabiles; et circa hoc tria quaeruntur:***
+*Dei etiam solius essentia incommutabilis dicitur proprie*. Hic prosequitur de secundo attributo, scilicet immutabilitate, ostendensParma: *dicens*. solum Deum incommutabilem esse, alias autem omnes creaturas aliquo modo mutabiles; et circa hoc tria quaeruntur:  
 
 primo utrum Deus sit omnino immutabilis;  
 
@@ -336,7 +338,7 @@ Articulus 3
 
 ***Utrum modi mutationis creaturarum convenienter assignentur ab Augustino***
 
-***Ad tertium sic proceditur. Videtur quod Augustinus inconvenienter assignet modos mutationis creaturarum.***
+Ad tertium sic proceditur. Videtur quod Augustinus inconvenienter assignet modos mutationis creaturarum.  
 
 Secundum illud enim est mutatio in quo invenitur motus, sicut secundum quantitatem vel qualitatem. Sed in quando non est motus, ut dicit Philosophus, 5 *Physic*. Ergo videtur quod nihil dicat creaturas moveri per tempora.  
 
@@ -358,7 +360,7 @@ Ad quartum dicendum, quod tempus dupliciter dicitur: uno modo numerus prioris et
 
 Divisio secundae partis textus  
 
-****Eademque sola proprie ac vere simplex est*. Haec est tertiaParma: *secunda*. pars distinctionis, in qua Magister determinat de divina simplicitate, et dividitur in partes duas: in prima proponit quod intendit; in secunda probat propositum, ibi: *ut autem scias quod simplex sit illa substantia, te docet Augustinus*; quae dividitur in duas: in prima ostendit creaturae multiplicitatem; in secunda divinam simplicitatem, ibi: *Deus vero, etsi multiplex dicatur, vere tamen et summe simplex est*.***
+*Eademque sola proprie ac vere simplex est*. Haec est tertiaParma: *secunda*. pars distinctionis, in qua Magister determinat de divina simplicitate, et dividitur in partes duas: in prima proponit quod intendit; in secunda probat propositum, ibi: *ut autem scias quod simplex sit illa substantia, te docet Augustinus*; quae dividitur in duas: in prima ostendit creaturae multiplicitatem; in secunda divinam simplicitatem, ibi: *Deus vero, etsi multiplex dicatur, vere tamen et summe simplex est*.  
 
 Prima in duas: in prima excludit simplicitatem a creatura corporali; in secunda a spirituali, ibi: *creatura quoque spiritualis, ut est anima, in comparatione quidem corporis est simplex; sine comparatione vero corporis est multiplex*.  
 
@@ -456,7 +458,7 @@ Articulus 3
 
 ***Utrum alia praedicamenta de Deo dicantur***
 
-***Ad tertium sic proceditur. Videtur etiam quod alia praedicamenta de Deo dicantur.***
+Ad tertium sic proceditur. Videtur etiam quod alia praedicamenta de Deo dicantur.  
 
 De quocumque enim praedicatur species, et genus. Sed scientia, quae est species qualitatis, invenitur in Deo, et magnitudo, quae est species quantitatis. Ergo et quantitas et qualitas.  
 
@@ -488,7 +490,7 @@ Quaestio 5
 
 ***De simplicitate creaturae***
 
-***Deinde quaeritur de simplicitate ex parte creaturae; et circa hoc tria quaeruntur:***
+Deinde quaeritur de simplicitate ex parte creaturae; et circa hoc tria quaeruntur:  
 
 primo utrum aliqua creatura sit simplex;  
 
@@ -576,7 +578,7 @@ Articulus 3
 
 ***Utrum anima sit tota in toto, et tota in qualibet parte***
 
-***Ad tertium sic proceditur. Videtur quod anima non sit tota in qualibet parte corporis.***
+Ad tertium sic proceditur. Videtur quod anima non sit tota in qualibet parte corporis.  
 
 Cum enim anima sit forma simplex, totalitas ejus attenditur secundum potentias. Sed non in qualibet parte corporis sunt omnes ejus potentiae. Ergo non est tota in qualibet parte corporis.  
 
@@ -608,7 +610,7 @@ Ad quartum dicendum, quod anima non est in corpore vel in partibus corporis, sic
 
 Expositio secundae partis textus  
 
-****Aliud timor, aliud laetitia, aliud tristitia*. Videtur per hoc non designari compositio animae, cum ista, secundum Philosophum sint passiones conjuncti. Et dicendum, quod amor et timor et hujusmodi omnia dicuntur dupliciter: vel secundum corporalem passionem; et sic sunt passiones conjuncti, nec remanent in anima separata; vel secundum quod consistunt in apprehensione et affectione intellectiva; et sic accidunt ipsi animae secundum se, et sunt in ipsa post separationem a corpore. Unde etiam Philosophus, ponit delectationem etiam in natura divina.***
+*Aliud timor, aliud laetitia, aliud tristitia*. Videtur per hoc non designari compositio animae, cum ista, secundum Philosophum sint passiones conjuncti. Et dicendum, quod amor et timor et hujusmodi omnia dicuntur dupliciter: vel secundum corporalem passionem; et sic sunt passiones conjuncti, nec remanent in anima separata; vel secundum quod consistunt in apprehensione et affectione intellectiva; et sic accidunt ipsi animae secundum se, et sunt in ipsa post separationem a corpore. Unde etiam Philosophus, ponit delectationem etiam in natura divina.  
 
 *Sine indigentia Creatorem*. Hoc ideo dicit, quia omnia alia agentia ab ipso agunt propter finem alium a se, et ideo acquisitione illius finis indigent; ipse autem Deus propter seipsum omnia facit, ut dicitur Proverb. 16:4: *universa propter seipsum*Mandonnet suggests the alternative text: *semetipsum*. *operatus est Dominus*; et ideo agit sine indigentia.  
 

@@ -1,6 +1,8 @@
 # D. 48 - The second coming
 
-***Postquam determinavit Magister de divino judicio quantum ad modum judicii et ad ministros judicis, hic determinat ea quae pertinent ad personam judicis; et dividitur in partes duas: in prima enim parte ostendit in qua forma Christus ad judicium veniens apparebit; in secunda determinat de his quae judicium circumstant, ibi: *et putant quidam, Dominum descensurum in vallem Josaphat in judicio*.***
+***De secundo adventu***
+
+Postquam determinavit Magister de divino judicio quantum ad modum judicii et ad ministros judicis, hic determinat ea quae pertinent ad personam judicis; et dividitur in partes duas: in prima enim parte ostendit in qua forma Christus ad judicium veniens apparebit; in secunda determinat de his quae judicium circumstant, ibi: *et putant quidam, Dominum descensurum in vallem Josaphat in judicio*.  
 
 Prima pars dividitur in duas: in prima ostendit quod Christus judicabit in forma hominis; in secunda inducit similitudinem, scilicet quod Christus secundum quod est homo, est causa resurrectionis corporum, ibi: *et sicut dicitur Christus secundum formam servi judicaturus propter causam praemissam; ita etiam dicitur suscitaturus corpora mortuorum secundum humanitatem*.  
 
@@ -27,7 +29,7 @@ primo utrum Christus in forma hominis sit judicaturus;
 
 ***Utrum Christus in forma hominis sit judicaturus***
 
-***Ad primum sic proceditur. Videtur quod Christus in forma servi non sit judicaturus. Judicium enim auctoritatem requirit in judicante. Sed auctoritas super vivos et mortuos est in Christo secundum quod est Deus: sic enim est Dominus et Creator omnium. Ergo in forma divinitatis judicabit.***
+Ad primum sic proceditur. Videtur quod Christus in forma servi non sit judicaturus. Judicium enim auctoritatem requirit in judicante. Sed auctoritas super vivos et mortuos est in Christo secundum quod est Deus: sic enim est Dominus et Creator omnium. Ergo in forma divinitatis judicabit.  
 
 Praeterea, in judice requiritur potestas invincibilis; unde Eccli. 7, 6: *noli quaerere fieri judex, nisi valeas virtute irrumpere iniquitates*. Sed virtus invincibilis convenit Christo secundum quod est Deus. Ergo in forma divinitatis judicabit.  
 
@@ -59,7 +61,7 @@ Articulus 2
 
 ***Utrum in judicio apparebit in figura gloriosa***
 
-***Ad secundum sic proceditur. Videtur quod Christus in judicio non apparebit in forma humanitatis gloriosa. Joan. 19, 37: *videbunt in quem transfixerunt*; Glossa: *quia in ea carne venturus est in qua crucifixus est*. Sed crucifixus est in forma infirma. Ergo in forma infirmitatis apparebit, non in forma gloriosa.***
+Ad secundum sic proceditur. Videtur quod Christus in judicio non apparebit in forma humanitatis gloriosa. Joan. 19, 37: *videbunt in quem transfixerunt*; Glossa: *quia in ea carne venturus est in qua crucifixus est*. Sed crucifixus est in forma infirma. Ergo in forma infirmitatis apparebit, non in forma gloriosa.  
 
 Praeterea, Matth. 24, 30, dicitur, quod *apparebit signum filii hominis in caelo*, idest signum crucis; et Chrysostomus dicit, quod veniet in judicio Christus, non solum vulnerum cicatrices, sed etiam ipsam mortem exprobratissimam ostendens. Ergo videtur quod non apparebit in forma gloriosa.  
 
@@ -91,7 +93,7 @@ Articulus 3
 
 ***Utrum possit apparere in natura divinitatis aliquibus sine gaudio***
 
-***Ad tertium sic proceditur. Videtur quod divinitas a malis sine gaudio possit videri. Constat enim quod impii manifestissime cognoscent Christum esse Deum. Ergo divinitatem ejus videbunt; et tamen de visione Christi non gaudebunt. Ergo divinitas sine gaudio videri potest.***
+Ad tertium sic proceditur. Videtur quod divinitas a malis sine gaudio possit videri. Constat enim quod impii manifestissime cognoscent Christum esse Deum. Ergo divinitatem ejus videbunt; et tamen de visione Christi non gaudebunt. Ergo divinitas sine gaudio videri potest.  
 
 Praeterea, voluntas impiorum perversa non magis adversatur humanitati Christi quam ejus divinitati. Sed hoc quod videbunt gloriam humanitatis, cedet eis in poenam, ut dictum est. Ergo multo fortius, si divinitatem viderent, magis tristarentur quam gauderent.  
 
@@ -125,7 +127,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod adventum Domini ad judicium non praecedent aliqua signa. Quia 1 Thess. 5, 3: *cum dixerint, pax et securitas, repentinus eis superveniet interitus*. Sed non esset pax et securitas, si homines per signa praecedentia terrerentur. Ergo signa non praecedent illum adventum.***
+Ad quartum sic proceditur. Videtur quod adventum Domini ad judicium non praecedent aliqua signa. Quia 1 Thess. 5, 3: *cum dixerint, pax et securitas, repentinus eis superveniet interitus*. Sed non esset pax et securitas, si homines per signa praecedentia terrerentur. Ergo signa non praecedent illum adventum.  
 
 Praeterea, signa ad manifestationem ordinantur. Sed adventus ejus debet esse occultus; unde 1 Thess. 5, 2: *dies Domini sicut fur in nocte ita veniet*. Ergo signa non debent ipsum praecedere.  
 
@@ -137,7 +139,7 @@ Praeterea, Hieronymus ponit quindecim signa praecedentia judicium, dicens, *quod
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod circa judicium, secundum rei veritatem sol et luna obscurentur. Quia, ut dicit Rabanus super Matth., nihil prohibet intelligere tunc temporis veraciter solem et lunam cum sideribus ceteris suo lumine privari, quomodo de sole constat factum tempore dominicae passionis.***
+Ulterius. Videtur quod circa judicium, secundum rei veritatem sol et luna obscurentur. Quia, ut dicit Rabanus super Matth., nihil prohibet intelligere tunc temporis veraciter solem et lunam cum sideribus ceteris suo lumine privari, quomodo de sole constat factum tempore dominicae passionis.  
 
 Praeterea, lux corporum caelestium ad generationem inferiorum corporum ordinatur: quia per eam influunt in haec inferiora, et non solum per motum, ut dicit Averroes in Lib. de substantia orbis. Sed tunc generatio cessabit. Ergo nec lux in corporibus caelestibus remanebit.  
 
@@ -149,7 +151,7 @@ Praeterea, non congruit idem esse causam defectus alicujus rei, et augmentatio. 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod virtutes caelorum Domino veniente non moveantur. Virtutes enim caelorum dici non possunt nisi angeli beati. Sed immutabilitas est de ratione beatitudinis. Ergo moveri non poterunt.***
+Ulterius. Videtur quod virtutes caelorum Domino veniente non moveantur. Virtutes enim caelorum dici non possunt nisi angeli beati. Sed immutabilitas est de ratione beatitudinis. Ergo moveri non poterunt.  
 
 Praeterea, admirationis causa est ignorantia, ut patet in principio *Metaph*. Sed sicut ab angelis longe abest timor, ita et ignorantia; quia, ut dicit Gregorius, *quid est quod non videant qui videntem omnia vident?* Ergo non poterunt per admirationem moveri, ut in littera dicitur.  
 
@@ -161,7 +163,7 @@ Praeterea, Matth. 24, 29, dicitur: *stellae cadent de caelo, et virtutes caeloru
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod judicium non fiet in valle Josaphat, aut in loco circumstante. Quia ad minus oportet omnes judicandos in terra stare, aut eos tantum levari in nubibus quorum erit judicare. Sed tota terra promissionis capere non posset multitudinem judicandorum. Ergo non potest esse quod circa vallem sit judicium.***
+Ulterius. Videtur quod judicium non fiet in valle Josaphat, aut in loco circumstante. Quia ad minus oportet omnes judicandos in terra stare, aut eos tantum levari in nubibus quorum erit judicare. Sed tota terra promissionis capere non posset multitudinem judicandorum. Ergo non potest esse quod circa vallem sit judicium.  
 
 Praeterea, sicut supra dictum est, Christo in humanitate datum est judicium, ut juste judicet, qui injuste judicatus est. Sed ipse injuste judicatus est in praetorio Pilati, et sententiam injusti judicii in Golgotha suscepit. Ergo loca illa magis determinari debent ad judicium.  
 
@@ -173,7 +175,7 @@ Praeterea, actuum 1, 2, dicitur: *quemadmodum vidistis eum ascendentem in caelum
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut supra dictum est, Christus ad judicandum veniens, in forma gloriosa apparebit propter auctoritatem quae judici debetur. Ad dignitatem autem judiciariae potestatis pertinet habere aliqua indicia quae ad reverentiam et subjectionem inducant; et ideo adventum Christi ad judicium venientis multa signa praecedent, ut corda hominum in subjectionem venturi judicis adducantur, et ad judicium praeparentur hujusmodi signis commoniti. Quae autem sint ista signa, de facili non potest sciri. Signa enim quae in Evangeliis leguntur, ut Augustinus dicit, ad Hesychium de fine mundi, non solum pertinent ad adventum Christi ad judicium, sed etiam ad tempus destructionis Hierusalem, et ad adventum Christi, quo Christus continue Ecclesiam suam visitat; ita quod forte, si diligenter advertantur, nullum eorum invenitur ad futurum adventum pertinere, ut ipse dicit; quia illa signa quae in Evangeliis tanguntur, sicut pugnae et terrores et hujusmodi, a principio humani generis fuerunt; nisi forte dicatur, quod tunc temporis magis invalescent; sed secundum quam mensuram circumstantiae vicinum adventum denuntient, incertum est. Signa vero quae Hieronymus ponit, non asserit, sed in annalibus Judaeorum se ea reperisse scripta dicit: quae etiam valde parum verisimilitudinis habent.***
+Respondeo dicendum ad primam quaestionem, quod, sicut supra dictum est, Christus ad judicandum veniens, in forma gloriosa apparebit propter auctoritatem quae judici debetur. Ad dignitatem autem judiciariae potestatis pertinet habere aliqua indicia quae ad reverentiam et subjectionem inducant; et ideo adventum Christi ad judicium venientis multa signa praecedent, ut corda hominum in subjectionem venturi judicis adducantur, et ad judicium praeparentur hujusmodi signis commoniti. Quae autem sint ista signa, de facili non potest sciri. Signa enim quae in Evangeliis leguntur, ut Augustinus dicit, ad Hesychium de fine mundi, non solum pertinent ad adventum Christi ad judicium, sed etiam ad tempus destructionis Hierusalem, et ad adventum Christi, quo Christus continue Ecclesiam suam visitat; ita quod forte, si diligenter advertantur, nullum eorum invenitur ad futurum adventum pertinere, ut ipse dicit; quia illa signa quae in Evangeliis tanguntur, sicut pugnae et terrores et hujusmodi, a principio humani generis fuerunt; nisi forte dicatur, quod tunc temporis magis invalescent; sed secundum quam mensuram circumstantiae vicinum adventum denuntient, incertum est. Signa vero quae Hieronymus ponit, non asserit, sed in annalibus Judaeorum se ea reperisse scripta dicit: quae etiam valde parum verisimilitudinis habent.  
 
 Ad primum ergo dicendum, quod secundum Augustinum in Lib. ad Hesychium praedicto, circa finem mundi erit universalis persecutio malorum contra bonos; unde simul aliqui timebunt, scilicet boni; et aliqui securi erunt, scilicet mali. Quod autem dixerunt: *pax et securitas*, ad malos referendum est, qui signa futuri judicii parvipendent; ad bonos vero pertinet quod dicitur Luc. 21, 26: *arescentibus hominibus prae timore*, etc. Vel potest dici, quod omnia illa signa quae circa judicium erunt, infra tempus judicii computantur, ut sic dies judicii omnia illa contineat. Unde quamvis ex signis apparentibus circa diem judicii homines terreantur, ante tamen quam signa illa apparere incipiant, in pace et securitate se impii esse credent, post mortem Antichristi non statim videntes mundum consummari, ut existimabant.  
 
@@ -183,7 +185,7 @@ Ad tertium dicendum, quod in primo adventu Christus venit occultus, quamvis dete
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod si loquamur de sole et luna quantum ad ipsum momentum adventus Christi, sic non est credibile quod obscurentur sui luminis privatione; quia totus mundus innovabitur Christo veniente, et sanctis surgentibus, ut dictum est. Si autem loquamur de eis secundum tempus propinquum ante judicium, sic esse poterit quod sol et luna et alia caeli luminaria, sui luminis privatione obscurabuntur vel diversis temporibus, vel simul, divina virtute faciente ad hominum terrorem.***
+Ad secundam quaestionem dicendum, quod si loquamur de sole et luna quantum ad ipsum momentum adventus Christi, sic non est credibile quod obscurentur sui luminis privatione; quia totus mundus innovabitur Christo veniente, et sanctis surgentibus, ut dictum est. Si autem loquamur de eis secundum tempus propinquum ante judicium, sic esse poterit quod sol et luna et alia caeli luminaria, sui luminis privatione obscurabuntur vel diversis temporibus, vel simul, divina virtute faciente ad hominum terrorem.  
 
 Ad primum ergo dicendum, quod Rabanus loquitur quantum ad tempus judicii praecedens.  
 
@@ -193,7 +195,7 @@ Ad tertium dicendum, quod non videtur esse probabile, ut dictum est, quod qualit
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod virtutes in angelis dupliciter dicuntur, ut patet per Dionysium. Quandoque enim nomen virtutum uni ordini appropriatur, qui secundum ipsum est medius mediae hierarchiae; secundum vero Gregorium est supremus infimae hierarchiae. Alio modo accipitur communiter pro omnibus caelestibus spiritibus; et utroque modo potest accipi in proposito. In littera enim exponitur prout accipitur secundo modo, scilicet pro omnibus angelis; et tunc dicuntur moveri propter admirationem novitatis quae in mundo erit, sicut in littera dicitur. Potest etiam exponi prout virtutes est proprium nomen ordinis; et tunc ordo ille dicitur moveri prae aliis ratione effectus: quia illi ordini secundum Gregorium attribuitur miracula facere, quae maxime circa illud tempus fient; vel quia ordo ille, cum sit de media hierarchia, secundum Dionysium, non habet potentiam limitatam, unde oportet quod ejus ministerium sit circa causas universales; unde proprium officium virtutum esse videtur corpora caelestia movere, quae sunt causa eorum quae in natura inferiori aguntur; et hoc etiam ipsum nomen sonat, quia virtutes caelorum dicuntur. Tunc ergo movebuntur, quia ab effectu cessabunt, ulterius corpora caelestia non moventes; sicut nec angeli qui sunt ad custodiam hominum deputati, ulterius custodiae officio vacabunt.***
+Ad tertiam quaestionem dicendum, quod virtutes in angelis dupliciter dicuntur, ut patet per Dionysium. Quandoque enim nomen virtutum uni ordini appropriatur, qui secundum ipsum est medius mediae hierarchiae; secundum vero Gregorium est supremus infimae hierarchiae. Alio modo accipitur communiter pro omnibus caelestibus spiritibus; et utroque modo potest accipi in proposito. In littera enim exponitur prout accipitur secundo modo, scilicet pro omnibus angelis; et tunc dicuntur moveri propter admirationem novitatis quae in mundo erit, sicut in littera dicitur. Potest etiam exponi prout virtutes est proprium nomen ordinis; et tunc ordo ille dicitur moveri prae aliis ratione effectus: quia illi ordini secundum Gregorium attribuitur miracula facere, quae maxime circa illud tempus fient; vel quia ordo ille, cum sit de media hierarchia, secundum Dionysium, non habet potentiam limitatam, unde oportet quod ejus ministerium sit circa causas universales; unde proprium officium virtutum esse videtur corpora caelestia movere, quae sunt causa eorum quae in natura inferiori aguntur; et hoc etiam ipsum nomen sonat, quia virtutes caelorum dicuntur. Tunc ergo movebuntur, quia ab effectu cessabunt, ulterius corpora caelestia non moventes; sicut nec angeli qui sunt ad custodiam hominum deputati, ulterius custodiae officio vacabunt.  
 
 Ad primum ergo dicendum, quod mutatio illa non variat aliquid quod ad eorum statum pertineat, sed refertur vel ad effectus eorum, qui immutari possunt sine eorum mutatione, vel ad novam rerum considerationem, quam prius secundum species concreatas videre non potuerant. Hanc autem vicissitudinem cogitationum ab eis beatitudo non tollit; unde dicit Augustinus, quod Deus movet creaturam spiritualem per tempora.  
 
@@ -203,7 +205,7 @@ Ad tertium patet responsio ex dictis.
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod qualiter illud judicium sit futurum, et quomodo homines ad judicium conveniant, non potest multum per certitudinem sciri; tamen probabiliter potest colligi ex Scripturis, quod circa locum montis oliveti descendet, sicut et inde ascendit; ut idem esse ostendatur qui ascendit et qui descendit.***
+Ad quartam quaestionem dicendum, quod qualiter illud judicium sit futurum, et quomodo homines ad judicium conveniant, non potest multum per certitudinem sciri; tamen probabiliter potest colligi ex Scripturis, quod circa locum montis oliveti descendet, sicut et inde ascendit; ut idem esse ostendatur qui ascendit et qui descendit.  
 
 Ad primum ergo dicendum, quod magna multitudo in parvo spatio comprehendi potest. Sufficit autem ponere quantumcumque spatium circa locum illum ad capiendum multitudinem judicandorum, dummodo ab illo spatio Christum videre possint, qui in aere eminens, et maxima claritate refulgens, a longinquo inspici poterit.  
 
@@ -227,7 +229,7 @@ primo utrum innovatio mundi sit futura;
 
 ***Utrum innovatio mundi sit futura***
 
-***Ad primum sic proceditur. Videtur quod mundus nunquam innovabitur. Nihil enim est futurum, nisi quod aliquando fuit secundum speciem. Eccle. 1, 9: *quid est quod fuit? Ipsum quod futurum est*. Sed nunquam mundus aliam dispositionem habebit*habebit.—habuit* PLE. quam nunc habet quantum ad partes essentiales, et ad genera et species. Ergo nunquam innovabitur.***
+Ad primum sic proceditur. Videtur quod mundus nunquam innovabitur. Nihil enim est futurum, nisi quod aliquando fuit secundum speciem. Eccle. 1, 9: *quid est quod fuit? Ipsum quod futurum est*. Sed nunquam mundus aliam dispositionem habebit*habebit.—habuit* PLE. quam nunc habet quantum ad partes essentiales, et ad genera et species. Ergo nunquam innovabitur.  
 
 Praeterea, innovatio alteratio quaedam est. Sed impossibile est universum alterari; quia omne alteratum reducitur ad aliquod alterans non alteratum, quod tamen secundum locum movetur; quod non est extra universum ponere. Ergo non potest esse quod mundus innovetur.  
 
@@ -259,7 +261,7 @@ Articulus 2
 
 ***Utrum mundo innovato motus corporum caelestium cesset***
 
-***Ad secundum sic proceditur. Videtur quod motus corporum caelestium in illa mundi innovatione non cessabit. Quia Genes. 8, 22, dicitur: *cunctis diebus terrae frigus et aestus, aestas et hiems, nox et dies non acquiescent*. Sed nox et dies, hiems et aestas efficiuntur per motum solis. Ergo nunquam motus solis cessabit.***
+Ad secundum sic proceditur. Videtur quod motus corporum caelestium in illa mundi innovatione non cessabit. Quia Genes. 8, 22, dicitur: *cunctis diebus terrae frigus et aestus, aestas et hiems, nox et dies non acquiescent*. Sed nox et dies, hiems et aestas efficiuntur per motum solis. Ergo nunquam motus solis cessabit.  
 
 Praeterea, Hierem. 31, 35: *haec dicit Dominus, qui dat solem in lumine diei, ordinem lunae et stellarum in lumine noctis; qui turbat mare, et sonant fluctus ejus. Si steterint leges istae coram me, tunc et semen Israel deficiet ut non sit gens coram me cunctis diebus*. Sed semen Israel nunquam deficiet, sed in perpetuum permanebit. Ergo leges diei et noctis, et fluctuum maris, quae ex motu caeli causantur, in perpetuum erunt; ergo motus caeli nunquam cessabit.  
 
@@ -329,7 +331,7 @@ Articulus 3
 
 ***Utrum caelestia corpora majori claritate refulgeant***
 
-***Ad tertium sic proceditur. Videtur quod corporibus caelestibus claritas non augeatur in illa innovatione. Illa enim innovatio in corporibus inferioribus erit per ignem purgantem. Sed ignis purgans nunquam pertingit ad corpora caelestia, ut praecedenti distinctione dictum est. Ergo corpora caelestia non innovabuntur per majoris claritatis susceptionem.***
+Ad tertium sic proceditur. Videtur quod corporibus caelestibus claritas non augeatur in illa innovatione. Illa enim innovatio in corporibus inferioribus erit per ignem purgantem. Sed ignis purgans nunquam pertingit ad corpora caelestia, ut praecedenti distinctione dictum est. Ergo corpora caelestia non innovabuntur per majoris claritatis susceptionem.  
 
 Praeterea, sicut corpora caelestia per motum sunt causa generationis in istis inferioribus, ita et per lucem. Sed cessante generatione, cessabit motus, ut dictum est. Ergo similiter cessabit lux caelestium corporum magis quam augeatur.  
 
@@ -365,7 +367,7 @@ Articulus 4
 
 ***Utrum elementa aliqua claritatis gloria ornentur***
 
-***Ad quartum sic proceditur. Videtur quod elementa non innovabuntur per receptionem alicujus claritatis. Sicut enim lux est claritas*claritas.—qualitas* PLE. corporis caelestis propria, ita calidum et frigidum, et humidum et siccum, sunt propriae qualitates elementorum. Ergo sicut caelum innovatur per augmentum claritatis, ita debent innovari elementa per augmentum qualitatum activarum et passivarum.***
+Ad quartum sic proceditur. Videtur quod elementa non innovabuntur per receptionem alicujus claritatis. Sicut enim lux est claritas*claritas.—qualitas* PLE. corporis caelestis propria, ita calidum et frigidum, et humidum et siccum, sunt propriae qualitates elementorum. Ergo sicut caelum innovatur per augmentum claritatis, ita debent innovari elementa per augmentum qualitatum activarum et passivarum.  
 
 Praeterea, rarum et densum sunt propriae qualitates elementorum, quas elementa in illa innovatione non amittent, ut dictum est. Sed raritas et densitas elementorum resistere videntur claritati, cum corpus clarum oporteat alio*alio.—aliquo* PLE. modo condensatum esse; unde claritas*claritas.—raritas* PLE. aeris non videtur quod possit claritatem pati; et similiter etiam nec densitas terrae, quae pervietatem tollit. Ergo non potest esse quod innoventur per alicujus claritatis additionem.  
 
@@ -397,7 +399,7 @@ Articulus 5
 
 ***Utrum animalia bruta et plantae et corpora mineralia maneant***
 
-***Ad quintum sic proceditur. Videtur quod plantae et animalia remaneant in illa innovatione. Elementis enim non debet aliquid subtrahi quod ad eorum ornatum pertinet. Sed animalibus et plantis elementa ornari dicuntur. Ergo non auferentur in illa innovatione.***
+Ad quintum sic proceditur. Videtur quod plantae et animalia remaneant in illa innovatione. Elementis enim non debet aliquid subtrahi quod ad eorum ornatum pertinet. Sed animalibus et plantis elementa ornari dicuntur. Ergo non auferentur in illa innovatione.  
 
 Praeterea, sicut elementa homini servierunt, ita etiam animalia et plantae et corpora mineralia. Sed elementa propter praedictum ministerium glorificabuntur. Ergo et animalia et plantae et mineralia corpora glorificabuntur.  
 
@@ -427,7 +429,7 @@ Ad quintum dicendum, quod naturalis appetitus ad perpetuitatem, qui inest animal
 
 Expositio textus  
 
-****Cum tamen virtute divinitatis sit suscitaturus, non humanitatis*. Sed contra est quod dicitur in Glossa 1 Corinth. 15, quod resurrectio Christi fuit causa nostrae resurrectionis. Sed Christus secundum humanitatem resurrexit. Ergo virtute humanitatis corpora resuscitabit. Et dicendum, quod sicut Damascenus in 3 Lib., dicit, humanitas Christi est quasi divinitatis organum, sicut corpus animae; unde effectus aliquis potest attribui humanitati Christi dupliciter. Uno modo secundum se, sicut attribuitur ei tangere leprosum, et hujusmodi; alio modo inquantum est instrumentum divinitatis; sicut attribuitur ei tactu suo leprosum mundare. Hoc autem modo attribuitur humanitati Christi sua resurrectione nostram causare, sicut tactu suo leprosum mundare. Et quia instrumentum non agit nisi in virtute principalis agentis; inde est quod dicitur Christus resuscitaturus corpora non virtute humanitatis, sed divinitatis; quamvis sua resurrectio sit nostrae resurrectionis causa per modum quo tactus leprosi est causa mundationis.***
+*Cum tamen virtute divinitatis sit suscitaturus, non humanitatis*. Sed contra est quod dicitur in Glossa 1 Corinth. 15, quod resurrectio Christi fuit causa nostrae resurrectionis. Sed Christus secundum humanitatem resurrexit. Ergo virtute humanitatis corpora resuscitabit. Et dicendum, quod sicut Damascenus in 3 Lib., dicit, humanitas Christi est quasi divinitatis organum, sicut corpus animae; unde effectus aliquis potest attribui humanitati Christi dupliciter. Uno modo secundum se, sicut attribuitur ei tangere leprosum, et hujusmodi; alio modo inquantum est instrumentum divinitatis; sicut attribuitur ei tactu suo leprosum mundare. Hoc autem modo attribuitur humanitati Christi sua resurrectione nostram causare, sicut tactu suo leprosum mundare. Et quia instrumentum non agit nisi in virtute principalis agentis; inde est quod dicitur Christus resuscitaturus corpora non virtute humanitatis, sed divinitatis; quamvis sua resurrectio sit nostrae resurrectionis causa per modum quo tactus leprosi est causa mundationis.  
 
 *Per verbum filium Dei fit animarum resurrectio, per verbum factum in carne filium hominis fit corporum resurrectio*. Sed contra, quia sicut resurrectio Christi dicitur esse causa resurrectionis nostrae corporalis, ita et spiritualis, ut patet per illud Rom. 4, 25: *resurrexit propter justificationem nostram*. Et dicendum, quod utrumque fit principaliter virtute divina, et quasi instrumentaliter per operationem humanitatis Christi; sed tamen spiritualis resurrectio appropriatur divinitati; corporalis vero humanitati per appropriationem quamdam; ut servetur similitudo inter effectum et causam.  
 

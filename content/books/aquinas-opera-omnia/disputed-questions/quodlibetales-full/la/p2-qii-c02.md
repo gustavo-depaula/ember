@@ -1,5 +1,7 @@
 # On Angels
 
+***Quaestio 2***
+
 ***Quantum ad compositionem***
 
 ***Deinde quaerebatur de angelis.***
@@ -18,7 +20,7 @@ Articulus 1
 
 ***Utrum angelus substantialiter sit compositus ex essentia et esse***
 
-***Ad primum sic proceditur. Videtur quod angelus non componitur substantialiter ex essentia et esse.***
+Ad primum sic proceditur. Videtur quod angelus non componitur substantialiter ex essentia et esse.  
 
 Essentia enim angeli est ipse angelus, quia *quiditas simplicis est ipsum simplex*; si ergo angelus componeretur ex essentia et esse, componeretur ex se ipso et alio; hoc autem est inconveniens; non ergo substantialiter componitur ex essentia et esse.  
 
@@ -42,7 +44,7 @@ Articulus 2
 
 ***Utrum in angelo sit aliud suppositum et natura***
 
-***Ad secundum sic proceditur. Videtur quod in angelo idem sit suppositum et natura.***
+Ad secundum sic proceditur. Videtur quod in angelo idem sit suppositum et natura.  
 
 In his enim quae sunt composita ex materia et forma, differt suppositionem et natura, quia suppositum addit supra naturam speciei materiam individualem, quod non potest esse in angelo, si angelus non sit compositus ex materia et forma; ergo in angelo non differt suppositum et natura.  
 
@@ -84,7 +86,7 @@ Quaestio 3
 
 ***De tempore per quod Deus movet creaturam spiritualem***
 
-***Deinde quaesitum est de tempore per quod Deus movet creaturam spiritualem, secundum Augustinum, utrum sit idem cum tempore quod mensurat motus corporalium rerum? Et videtur quod sic.***
+Deinde quaesitum est de tempore per quod Deus movet creaturam spiritualem, secundum Augustinum, utrum sit idem cum tempore quod mensurat motus corporalium rerum? Et videtur quod sic.  
 
 Quia neque Augustinus diversitatem hanc temporum assignat neque aliquis philosophus; vanum igitur videtur hanc diversitatem temporum assignare.  
 

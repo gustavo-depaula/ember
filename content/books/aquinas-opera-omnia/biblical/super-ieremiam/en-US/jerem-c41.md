@@ -1,10 +1,12 @@
 # C. 39 - The capture of Jerusalem
 
+***The capture of Jerusalem***
+
 ***Lecture 1***
 
 ***Jerusalem captured***
 
-***^39:1^ In the ninth year of Zedekiah, king of Judah, in the tenth month, Nebuchadnezzar, king of Babylon, and all his army, came to Jerusalem, and they besieged it.***
+^39:1^ In the ninth year of Zedekiah, king of Judah, in the tenth month, Nebuchadnezzar, king of Babylon, and all his army, came to Jerusalem, and they besieged it.  
 
 > ^39:2^ Moreover, in the eleventh year of Zedekiah, in the fourth month, on the fifth day of the month, the city was breached.
 
@@ -64,7 +66,7 @@ Lecture 2
 
 ***Those left at liberty***
 
-***^39:10^ But some of the poor people, who had nothing within, Nebuzaradan the captain of the guard left in the land of Judah, and gave them vineyards and cisterns on that day.***
+^39:10^ But some of the poor people, who had nothing within, Nebuzaradan the captain of the guard left in the land of Judah, and gave them vineyards and cisterns on that day.  
 
 > ^39:11^ But Nebuchadnezzar, king of Babylon, had commanded Nebuzaradan, captain of the guard, concerning Jeremiah, saying:
 

@@ -1,5 +1,7 @@
 # Prime
 
+***[Ad primam et ad omnes horas Antiphonae Laudum, quarta excepta.]***
+
 [℣. Deus in adiutorium meum intende.  
 ℟. Domine, ad adiuvandum me festina.  
 
@@ -131,7 +133,7 @@ Contra *Adest dies* de sancto Dominico.
 
 ***Isaias 33:2***
 
-***Domine, miserere nostri: te enim expectavimus: esto brachium nostrum in mane: et salus nostra in tempore tribulationis.***
+Domine, miserere nostri: te enim expectavimus: esto brachium nostrum in mane: et salus nostra in tempore tribulationis.  
 
 > [℟. Deo gratias.]
 

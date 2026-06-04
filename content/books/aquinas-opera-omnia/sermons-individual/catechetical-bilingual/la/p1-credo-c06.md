@@ -1,6 +1,8 @@
 # A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead
 
-***Sicut dictum est, mors Christi fuit in separatione animae a corpore, sicut et aliorum hominum; sed divinitas ita insolubiliter iuncta fuit homini Christo, quod licet anima et corpus separarentur ab invicem, ipsa tamen deitas perfectissime semper et animae et corpori affuit; et ideo in sepulcro cum corpore fuit Filius Dei, et ad inferos cum anima descendit.***
+***Descendit ad inferos, tertia die resurrexit a mortuis***
+
+Sicut dictum est, mors Christi fuit in separatione animae a corpore, sicut et aliorum hominum; sed divinitas ita insolubiliter iuncta fuit homini Christo, quod licet anima et corpus separarentur ab invicem, ipsa tamen deitas perfectissime semper et animae et corpori affuit; et ideo in sepulcro cum corpore fuit Filius Dei, et ad inferos cum anima descendit.  
 
 Sunt autem *quatuor* rationes quare Christus cum anima ad infernum descendit.  
 

@@ -1,6 +1,8 @@
 # Chapter 3
 
-***^3:1^ Ecce enim dominator Dominus exercituum auferet ab Jerusalem et a Juda validum et fortem, omne robur panis et omne robur aquæ,***
+***Lectio 1***
+
+^3:1^ Ecce enim dominator Dominus exercituum auferet ab Jerusalem et a Juda validum et fortem, omne robur panis et omne robur aquæ,  
 
 > ^3:2^ et fortem et virum bellatorem, judicem et prophetam et ariolum et senem,
 
@@ -126,7 +128,7 @@ In excusatione praetendit tria, scilicet impotentiam ad repellendum nociva: ***n
 
 Lectio 2  
 
-***^3:8^ Ruit enim Jerusalem et Judas concidit, quia lingua eorum et adinventiones eorum contra Dominum, ut provocarent oculos majestatis ejus.***
+^3:8^ Ruit enim Jerusalem et Judas concidit, quia lingua eorum et adinventiones eorum contra Dominum, ut provocarent oculos majestatis ejus.  
 
 > ^3:9^ Agnitio vultus eorum respondebit eis, et peccatum suum quasi Sodoma prædicaverunt nec absconderunt. Væ animæ eorum, quoniam reddita sunt eis mala.
 
@@ -214,7 +216,7 @@ Tertio quem quaerit: in fruitione Dei, Cant. II 3 *fructus ejus dulcis gutturi m
 
 Lectio 3  
 
-***^3:16^ Et dixit Dominus: pro eo quod elevatæ sunt filiæ Sion et ambulaverunt collo extento et nutibus oculorum ibant et plaudebant, ambulabant et pedibus suis composito gradu incedebant,***
+^3:16^ Et dixit Dominus: pro eo quod elevatæ sunt filiæ Sion et ambulaverunt collo extento et nutibus oculorum ibant et plaudebant, ambulabant et pedibus suis composito gradu incedebant,  
 
 > ^3:17^ decalvabit Dominus verticem filiarum Sion et Dominus crinem earum nudabit.
 

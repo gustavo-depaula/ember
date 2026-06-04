@@ -1,8 +1,10 @@
 # D. 45 - The Will of God
 
+***The Will of God***
+
 ***Division of the text***
 
-***After the Master has considered the knowledge and omnipotence of God, now he third considers his will. And this is divided into two parts: in the first, he considers God’s will; in the second he considers the conformity of our will with his will, at *it is also to be known that at times the will of a man who wills the same as what God wills to be done is evil*.*Sent*. I, 48.1(207).1.***
+After the Master has considered the knowledge and omnipotence of God, now he third considers his will. And this is divided into two parts: in the first, he considers God’s will; in the second he considers the conformity of our will with his will, at *it is also to be known that at times the will of a man who wills the same as what God wills to be done is evil*.*Sent*. I, 48.1(207).1.  
 
 The first part is divided into two: in the first, he considers what God’s will is, and in how many ways it is spoken of; in the second, he inquires about its efficacy, at *here a question arises*.*Sent*. I, 46.1(197).1.  
 
@@ -38,7 +40,7 @@ Article 1
 
 ***Whether a will belongs to God***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.19.1; I.54.2; *SCG* I.72, 73; IV.19; *On Truth*, q. 23, a. 1; *Compendium theologiae*, ch. 32. It seems that will does not belong to God.***
+To the first we proceed as follows.Parallel texts: *ST* I.19.1; I.54.2; *SCG* I.72, 73; IV.19; *On Truth*, q. 23, a. 1; *Compendium theologiae*, ch. 32. It seems that will does not belong to God.  
 
 Obj. 1: For will is a certain appetite. But every appetite belongs to the imperfect; this is why *Physics* 1 saysAristotle, *Physics* 1.9, 192a16‒24. that matter has an appetite for form. Therefore, since in God there is no imperfection, it seems that neither is there will.  
 
@@ -68,7 +70,7 @@ Article 2
 
 ***Whether God’s will is only of his very self***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.19.2; *SCG* I.75‒77; *On Truth*, q. 23, a. 4. It seems that God’s will is not but of his very self.***
+To the second we proceed as follows.Parallel texts: *ST* I.19.2; *SCG* I.75‒77; *On Truth*, q. 23, a. 4. It seems that God’s will is not but of his very self.  
 
 Obj. 1: For according to the Philosopher, the will is for the end, but choice is for things that are for the sake of the end, as is said in *Ethics* 3.Aristotle, *Nicomachean Ethics* 3.5, 1113b4. But nothing else is the end of his activity except his very self. Therefore his will is only for his very self.  
 
@@ -96,7 +98,7 @@ Article 3
 
 ***Whether the causality of things should be ascribed to the divine will***
 
-***To the third we proceed as follows.Parallel texts: above, d. 43, q. 2, a. 1; *ST* I.19.4, 5, ad 2; *SCG* II.23; *On the Power of God*, q. 1, a. 5; q. 3, a. 15. It seems that the causality of things should not be ascribed to the divine will.***
+To the third we proceed as follows.Parallel texts: above, d. 43, q. 2, a. 1; *ST* I.19.4, 5, ad 2; *SCG* II.23; *On the Power of God*, q. 1, a. 5; q. 3, a. 15. It seems that the causality of things should not be ascribed to the divine will.  
 
 Obj. 1: For God’s will is only of good things. But his knowledge is the sufficient cause of all good things. Therefore it is not necessary to assert that God’s will is the cause of things.  
 
@@ -128,9 +130,9 @@ Reply Obj. 5: A demonstration that gives scientific knowledge about a reality is
 
 Article 4  
 
-***Whether God’s will is distinguished into the will that is his good pleasure and the will that is a sign***
+Whether God’s will is distinguished into the will that is his good pleasure and the will that is a sign  
 
-***To the fourth, we proceed as follows.Parallel text: *ST* I.19.6, ad 1. It seems that the distinction of his will presented in the text*Sent*. I, 45.5(194)‒6(195).3. Here Lombard divides the meanings of “divine will” into God’s will truly and properly speaking, called his “good pleasure,” and the signs of his will, which he subdivides under five headings: “precept,” “prohibition,” “counsel,” “permission,” and “operation.” is unsuitable.***
+To the fourth, we proceed as follows.Parallel text: *ST* I.19.6, ad 1. It seems that the distinction of his will presented in the text*Sent*. I, 45.5(194)‒6(195).3. Here Lombard divides the meanings of “divine will” into God’s will truly and properly speaking, called his “good pleasure,” and the signs of his will, which he subdivides under five headings: “precept,” “prohibition,” “counsel,” “permission,” and “operation.” is unsuitable.  
 
 Obj. 1: For just as God’s will is open to many things, so is his knowledge. But diverse signs are not assigned to his knowledge. Therefore it seems that neither should they be assigned to his will, since each of them is equally hidden.  
 
@@ -166,6 +168,6 @@ Reply Obj. 5: The divine will, even though it is for many things that are willed
 
 Exposition of the text  
 
-****And so it pleased the vanity of the philosophers to attribute them also to other causes*.*Sent*. I, 45.4(193).3, quoting Augustine, *On the Trinity*, bk. 3, ch. 2, para. 7 (CCSL 50; PL 42:871). Here he is speaking in reference to those who denied the existence of an agent cause, and asserted that the world was made by chance, and that all things come from the necessity of matter. Or he is speaking in reference to those who assert that God does not immediately act in all things, but only in one, which is the first thing created.***
+*And so it pleased the vanity of the philosophers to attribute them also to other causes*.*Sent*. I, 45.4(193).3, quoting Augustine, *On the Trinity*, bk. 3, ch. 2, para. 7 (CCSL 50; PL 42:871). Here he is speaking in reference to those who denied the existence of an agent cause, and asserted that the world was made by chance, and that all things come from the necessity of matter. Or he is speaking in reference to those who assert that God does not immediately act in all things, but only in one, which is the first thing created.  
 
 *And so nothing but ‘God’s will is the first cause of health, illness, rewards and punishments, graces and retributions.’**Sent*. I, 45.4(193).3, quoting Augustine, *On the Trinity*, bk. 3, ch. 3, para. 8 and ch. 4, para. 9 (CCSL 50; PL 42:872‒73). Other causes are not being excluded from causality by this statement; rather, it excludes only their being the first cause.

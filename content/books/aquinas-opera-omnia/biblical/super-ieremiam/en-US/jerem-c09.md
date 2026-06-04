@@ -1,5 +1,7 @@
 # C. 7 - No help from divine religion
 
+***No help from divine religion***
+
 ***Lecture 1***
 
 ***Abominations in the Lord’s house***
@@ -96,7 +98,7 @@ Lecture 2
 
 ***Prayer forbidden***
 
-***^7:16^ Therefore, you shall not pray for this people, neither take up praiseHeb. רִנָּ֥ה: *a cry*. or prayer for them and do not stand against me,Heb. וְאַל־תִּפְגַּע־בִּ֑י: *neither make intercession to me*. because I will not hear you.***
+^7:16^ Therefore, you shall not pray for this people, neither take up praiseHeb. רִנָּ֥ה: *a cry*. or prayer for them and do not stand against me,Heb. וְאַל־תִּפְגַּע־בִּ֑י: *neither make intercession to me*. because I will not hear you.  
 
 > ^7:17^ Do you not see what they do in the cities of Judah and in the streets of Jerusalem?
 
@@ -130,7 +132,7 @@ Lecture 3
 
 ***Futility of sacrifice***
 
-***^7:21^ Thus says the Lord of hosts, the God of Israel: add burnt offerings to your sacrifices, and eat flesh.***
+^7:21^ Thus says the Lord of hosts, the God of Israel: add burnt offerings to your sacrifices, and eat flesh.  
 
 > ^7:22^ For I did not speak with your fathers, and I did not command them on the day I brought them out of the land of Egypt concerning burnt offerings and sacrifices.
 
@@ -174,7 +176,7 @@ Lecture 4
 
 ***Devastation of idols’ altars***
 
-***^7:29^ Cut off your hair, and cast it aside, and take up your lamentation against the high places,Heb. וּשְׂאִ֥י עַל־שְׁפָיִ֖ם קִינָ֑ה: *and take up a lamentation on the high places*. for the Lord has cast off and forsaken the generation of his fury.***
+^7:29^ Cut off your hair, and cast it aside, and take up your lamentation against the high places,Heb. וּשְׂאִ֥י עַל־שְׁפָיִ֖ם קִינָ֑ה: *and take up a lamentation on the high places*. for the Lord has cast off and forsaken the generation of his fury.  
 
 > ^7:30^ For the sons of Judah have done evil in my eyes, says the Lord. They have put their abominations in the house called by my name to pollute it.
 
@@ -214,7 +216,7 @@ Third, he excludes all joy: ***and I shall make cease***. *The joy of our heart 
 
 Collations  
 
-***Note that God ***dwells*** (Jer 7:3) with us through the constancy of our faith. *That Christ may dwell in your hearts through faith* (Eph 3:17). Through the concord of brotherly love: *where two or three are gathered in my name, there am I in the midst of them* (Matt 18:20). Through obedience to the commandments: *if anyone love me, he will keep my word, and my Father will love him, and we will come to him and make a dwelling place with him* (John 14:23). Through the eminence of devout contemplation: *I stand at the door and knock; if anyone hears my voice and opens to me, I will come in unto him, and will sup with him, and he with me* (Rev 3:20).***
+Note that God ***dwells*** (Jer 7:3) with us through the constancy of our faith. *That Christ may dwell in your hearts through faith* (Eph 3:17). Through the concord of brotherly love: *where two or three are gathered in my name, there am I in the midst of them* (Matt 18:20). Through obedience to the commandments: *if anyone love me, he will keep my word, and my Father will love him, and we will come to him and make a dwelling place with him* (John 14:23). Through the eminence of devout contemplation: *I stand at the door and knock; if anyone hears my voice and opens to me, I will come in unto him, and will sup with him, and he with me* (Rev 3:20).  
 
 Also note that he speaks of the ***temple*** (Jer 7:4) according to multiple senses. Historically: *I shall worship in your holy temple, and confess your name* (Ps 137:2). Allegorically, as the Church herself: *the temple of God is holy, which temple you are* (1 Cor 3:17). Typologically, as the just man himself: *do you not know that your bodies are the temple of the Holy Spirit?* (1 Cor 6:19). Anagogically, as God himself: *the Lord God almighty is its temple, and the lamb* (Rev 21:22).  
 

@@ -1,8 +1,10 @@
 # D. 44 - The power to sin
 
+***The power to sin***
+
 ***Division of the text***
 
-***Having addressed sin as regards the act of sin, here he addresses the power to sin. This is divided into two parts.***
+Having addressed sin as regards the act of sin, here he addresses the power to sin. This is divided into two parts.  
 
 In the first, he addresses the power to sin.  
 
@@ -56,7 +58,7 @@ Article 1
 
 ***Whether the power to sin is from God***
 
-***To the first we proceed as follows. It seems that the power to sin is not from God.***
+To the first we proceed as follows. It seems that the power to sin is not from God.  
 
 Obj. 1: For being able to sin, as Anselm says,Anselm, *De libero arbitrio*, ch. 1 (PL 158:489). is neither freedom nor part of freedom. But every natural power in us to perform human acts pertains to free decision. Therefore, the power to sin is not some natural power within us. It is also certain that it is not a power of grace, because no one is ordered toward sin by a grace. Therefore, since every power in us from God belongs to grace or nature, it seems that the power to sin is not in us from God.  
 
@@ -94,7 +96,7 @@ Article 2
 
 ***Whether all preeminence is from God***
 
-***To the second we proceed as follows.Parallel text: *ST* I.96.2, ad 3. It seems that not all preeminence is from God.***
+To the second we proceed as follows.Parallel text: *ST* I.96.2, ad 3. It seems that not all preeminence is from God.  
 
 Obj. 1: This is, first, by what is said in Hosea 8:4: *they made kings*, but *not through me*.  
 
@@ -128,7 +130,7 @@ Article 3
 
 ***Whether there would have been dominion in the state of innocence***
 
-***To the third we proceed as follows.Parallel text: *ST* I.96.1–2. It seems that in the state of integral nature there would not have been preeminence or dominion.***
+To the third we proceed as follows.Parallel text: *ST* I.96.1–2. It seems that in the state of integral nature there would not have been preeminence or dominion.  
 
 Obj. 1: For Gregory says: *nature made all men equal, but for their merits God’s hidden but just arrangement has made some subject to others*.Gregory the Great, *Moralia in Job*, bk. 21, ch. 15 (CCSL 143A; PL 76:203). But if men had not sinned, they would have retained the state of nature. Therefore, all would have been equal, and there would have been no preeminence among them.  
 
@@ -160,7 +162,7 @@ Question 2
 
 ***Obedience to prelates***
 
-***Then the question of obedience to prelates is asked. Three questions are asked concerning this:***
+Then the question of obedience to prelates is asked. Three questions are asked concerning this:  
 
 first, whether obedience is a virtue, and, if it is a virtue, whether it is a specific virtue;  
 
@@ -172,7 +174,7 @@ Article 1
 
 ***Whether obedience is a virtue***
 
-***To the first we proceed as follows.Parallel texts: above, d. 35, q. 1, a. 2, ad 5; *In III Sent*., d. 34, q. 3, a. 4, resp. and ad 1; *ST* II-II.4.7, ad 3; 104.2, 3. It seems that obedience is not a virtue.***
+To the first we proceed as follows.Parallel texts: above, d. 35, q. 1, a. 2, ad 5; *In III Sent*., d. 34, q. 3, a. 4, resp. and ad 1; *ST* II-II.4.7, ad 3; 104.2, 3. It seems that obedience is not a virtue.  
 
 Obj. 1: For every virtue is a mean between vices, as the Philosopher says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.6, 1106a25–1107a26. But obedience is not this sort of thing because excess does not destroy, but instead perfects it, if someone is obedient in matters in which he is not bound. Therefore, obedience is not a virtue.  
 
@@ -216,7 +218,7 @@ Article 2
 
 ***Whether Christians are bound to obey secular powers, particularly tyrants***
 
-***To the second we proceed as follows.Parallel texts: *ST* II-II.10.10; 104.6; *Commentary on Romans*, ch. 13, lect. 1. It seems that Christians are not bound to obey secular powers, particularly tyrants.***
+To the second we proceed as follows.Parallel texts: *ST* II-II.10.10; 104.6; *Commentary on Romans*, ch. 13, lect. 1. It seems that Christians are not bound to obey secular powers, particularly tyrants.  
 
 Obj. 1: Matthew 17:25 says: *then the sons are free*. For if in any kingdom the sons of the king who is set over that kingdom are free, then the sons of the King to whom all kingdoms are subject ought to be free in any kingdom. But Christians have become the sons of God. Romans 8:16: *it is the Spirit himself bearing witness with our spirit that we are children of God*. Therefore, they are free everywhere. Thus, they are not bound to obey secular powers.  
 
@@ -254,7 +256,7 @@ Article 3
 
 ***Whether professed religious are bound to obey their prelates in all things***
 
-***To the third we proceed as follows.Parallel texts: *ST* II-II.104.5; *Commentary on John*, ch. 2, lect. 1; *Commentary on Romans*, ch. 13, lect. 1; *Commentary on Titus*, ch. 3, lect. 1. It seems that those who have professed obedience are bound to obey their prelates simply.***
+To the third we proceed as follows.Parallel texts: *ST* II-II.104.5; *Commentary on John*, ch. 2, lect. 1; *Commentary on Romans*, ch. 13, lect. 1; *Commentary on Titus*, ch. 3, lect. 1. It seems that those who have professed obedience are bound to obey their prelates simply.  
 
 Obj. 1: Colossians 3:20: *children, obey your parents in everything*. But a person is bound even more to obey his spiritual father than his bodily father. Therefore, spiritual children, particularly those who have professed obedience, are bound to obey their spiritual fathers in everything.  
 
@@ -296,7 +298,7 @@ Reply Obj. 5: Those who do not profess obedience are not bound to obey their spi
 
 Exposition of the text  
 
-****After the aforesaid, it seems worth considering*.*Sent*. II, 44.1(268).1. The reason for this order is that a power is known by its act. Hence the act of sin had to be addressed prior to the power to sin, even though the power is naturally prior to the act.***
+*After the aforesaid, it seems worth considering*.*Sent*. II, 44.1(268).1. The reason for this order is that a power is known by its act. Hence the act of sin had to be addressed prior to the power to sin, even though the power is naturally prior to the act.  
 
 *Whether the power to sin comes to us from God or from ourselves*.*Sent*. II, 44.1(268).1. It seems that he should have said “the powers to sin” in the plural, since it is possible to sin in the acts of more than one power.  
 

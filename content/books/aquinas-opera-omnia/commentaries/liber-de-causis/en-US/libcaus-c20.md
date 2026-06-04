@@ -1,5 +1,7 @@
 # Proposition 19
 
+149. Constituted from the intelligences comes that which is the divine intelligence, since it receives from the first goodnesses which go forth from the first cause by a plentiful reception. And from those comes that which is intelligence as such, since it receives from the first goodnesses only with the first intelligence acting as intermediary. And from the souls comes that which is the intellectual soul, because it is depending on the intelligence; and from those comes that which is soul as such. And from natural bodies comes that to which there is a soul ruling it and directing it; and from these come those things which are just natural bodies, which have no soul.  
+
 > 150. And this takes place only because it is not the intellectual whole nor the ensouled whole nor the bodily whole, nor does it depend on a cause which is above it except that which is fulfilled from it inasmuch as it depends on a cause which above it is whole,
 
 > 151. that is to say, because not every intelligence depends on the qualities of the first cause except that intelligence among them which is complete, among the first things, and whole. Indeed, it can receive qualities that descend from the first cause and depend on them, so that its unity may become strong.

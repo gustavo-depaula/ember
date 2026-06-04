@@ -1,6 +1,6 @@
 # A. 9 - The Holy Catholic Church
 
-***We see that in a man there is one soul and one body, and of his body there are many members.Parallel texts: *ST* II-II.81.8; III.8.1 and following; *ST Supplement* 83.3, ad 2. So also the Catholic Church is one body and has different members. The soul which animates this body is the Holy Spirit.Parallel texts: *ST* II-II.1.9, s.c.; *ST Supplement*, q. 25, a. 1, s.c. 2. Hence, after confessing our faith in the Holy Spirit, we are bid to believe in the Holy Catholic Church. Thus, in the Creed it is said: ***the Holy Catholic Church***.***
+We see that in a man there is one soul and one body, and of his body there are many members.Parallel texts: *ST* II-II.81.8; III.8.1 and following; *ST Supplement* 83.3, ad 2. So also the Catholic Church is one body and has different members. The soul which animates this body is the Holy Spirit.Parallel texts: *ST* II-II.1.9, s.c.; *ST Supplement*, q. 25, a. 1, s.c. 2. Hence, after confessing our faith in the Holy Spirit, we are bid to believe in the Holy Catholic Church. Thus, in the Creed it is said: ***the Holy Catholic Church***.  
 
 It must be known that ***Church*** is the same as assembly. So, the holy Church is the same as the assembly of the faithful, and every Christian is a member of this Church, of which it is written: *draw near to me, you unlearned, and gather yourselves together into the house of discipline* (Sir 51:31).  
 

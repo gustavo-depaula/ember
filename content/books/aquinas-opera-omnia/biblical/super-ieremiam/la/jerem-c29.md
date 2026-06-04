@@ -1,6 +1,8 @@
 # C. 27 - Nebuchadnezzar’s coming domain
 
-***^27:1^ In principio regni Joakim filii Josiae regis Juda, factum est verbum istud ad Jeremiam a Domino, dicens:***
+***Lectio 1***
+
+^27:1^ In principio regni Joakim filii Josiae regis Juda, factum est verbum istud ad Jeremiam a Domino, dicens:  
 
 > ^27:2^ haec dicit Dominus ad me: fac tibi vincula, et catenas, et pones eas in collo tuo,
 
@@ -58,7 +60,7 @@ Tertio inducit eos ex obedientium gratia, quam a Domino consequentur: ***porro g
 
 Lectio 2  
 
-***^27:12^ Et ad Sedeciam regem Juda locutus sum secundum omnia verba haec, dicens: subjicite colla vestra sub jugo regis Babylonis, et servite ei, et populo ejus; et vivetis.***
+^27:12^ Et ad Sedeciam regem Juda locutus sum secundum omnia verba haec, dicens: subjicite colla vestra sub jugo regis Babylonis, et servite ei, et populo ejus; et vivetis.  
 
 > ^27:13^ Quare moriemini tu et populus tuus, gladio et fame et peste, sicut locutus est Dominus ad gentem quae servire noluerit regi Babylonis?
 
@@ -88,7 +90,7 @@ Tertio propter poenam imminentem: ***ut ejiciant vos***, occasionaliter. Oseae 4
 
 Lectio 3  
 
-***^27:16^ Et ad sacerdotes, et ad populum istum locutus sum, dicens: haec dicit Dominus: nolite audire verba prophetarum vestrorum, qui prophetant vobis dicentes: ecce vasa Domini revertentur de Babylone nunc cito: mendacium enim prophetant vobis.***
+^27:16^ Et ad sacerdotes, et ad populum istum locutus sum, dicens: haec dicit Dominus: nolite audire verba prophetarum vestrorum, qui prophetant vobis dicentes: ecce vasa Domini revertentur de Babylone nunc cito: mendacium enim prophetant vobis.  
 
 > ^27:17^ Nolite ergo audire eos, sed servite regi Babylonis, ut vivatis. Quare datur haec civitas in solitudinem?
 

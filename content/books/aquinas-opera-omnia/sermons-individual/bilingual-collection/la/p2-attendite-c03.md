@@ -1,5 +1,7 @@
 # Evening Collation
 
+***Attendite a falsis prophetis*** etc. Dictum est hodie de hostibus populi christiani, scilicet de falsis prophetis;  
+
 **2.** nunc videndum est quomodo insidiantur nobis. Apostolus autem ad Corinthios aperit eorum insidias et similiter Dominus in evangelio dum dicit: ***attendite a falsis prophetis qui veniunt ad vos in vestimentis ovium*** etc. In quo hypocrisis intelligitur quia latibulum falsorum prophetarum est hypocrisis. Unde Apostolus ad Timotheum: *Spiritus manifeste dicit: 'In novissimis* diebus venient illusores, discedentes *a fide, attendentes spiritibus erroris et doctrinis demoniorum, loquentium in hypocrisi mendacium*.' Si quis consideret vitam et mores, videbuntur sibi boni qui austeram vitam ducunt, a coniugiis et cibis delicatis abstinent, sed attendunt spiritibus erroris et doctrinis demoniorum. Attendatis quid est quod dicit: ***qui veniunt ad vos in vestimentis ovium***. Oves sunt Christi fideles qui Christo obediunt, unde in Iohanne: *oves meae vocem meam audiunt*. Vestimenta ovium sunt imitationes Christi. Apostolus ita dicit: *renovamini in spiritu mentis vestre et induite novum hominem qui secundum Deum creatus est in iustitia et sanctitate veritatis*.  
 
 Duo tangit hic, quia iustitia videtur pertinere ad proximos exterius, et sanctitas veritatis ad interiorem animae dispositionem. Unde impletur illud Proverbiorum: *omnes domestici eius vestiti sunt duplicibus*, scilicet virtutibus animae interius et bonis operibus exterius.  

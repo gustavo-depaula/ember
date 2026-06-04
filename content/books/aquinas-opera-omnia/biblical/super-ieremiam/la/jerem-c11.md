@@ -1,6 +1,8 @@
 # C. 9 - Enumeration of punishments
 
-***^9:1^ Quis dabit capiti meo aquam, et oculis meis fontem lacrimarum? Et plorabo die ac nocte interfectos filiae populi mei.***
+***Lectio 1***
+
+^9:1^ Quis dabit capiti meo aquam, et oculis meis fontem lacrimarum? Et plorabo die ac nocte interfectos filiae populi mei.  
 
 > ^9:2^ Quis dabit me in solitudine diversorium viatorum? Et derelinquam populum meum, et recedam ab eis: quia omnes adulterati sunt, et coetus praevaricatorum:
 
@@ -46,7 +48,7 @@ Tertio inducit conclusionem: ***habitatio tua***, o Jeremia, vel o Jerusalem, **
 
 Lectio 2  
 
-***^9:7^ Propterea haec dicit Dominus exercituum: ecce ego conflabo, et probabo eos. Quid enim aliud faciam a facie filiae populi mei?***
+^9:7^ Propterea haec dicit Dominus exercituum: ecce ego conflabo, et probabo eos. Quid enim aliud faciam a facie filiae populi mei?  
 
 > ^9:8^ Sagitta vulnerans lingua eorum, dolum locuta est. In ore suo pacem cum amico suo loquitur, et occulte ponit ei insidias.
 
@@ -72,7 +74,7 @@ Tertio concludit poenam: ***numquid super his non visitabo?*** ut supra 5.
 
 Lectio 3  
 
-***^9:10^ Super montes assumam fletum, ac lamentum, et super speciosa deserti planctum: quoniam incensa sunt, eo quod non sit vir pertransiens et non audierunt vocem possidentis. A volucre caeli usque ad pecora transmigraverunt, et recesserunt.***
+^9:10^ Super montes assumam fletum, ac lamentum, et super speciosa deserti planctum: quoniam incensa sunt, eo quod non sit vir pertransiens et non audierunt vocem possidentis. A volucre caeli usque ad pecora transmigraverunt, et recesserunt.  
 
 > ^9:11^ Et dabo Jerusalem in acervos arenae, et cubilia draconum, et civitates Juda dabo in desolationem, eo quod non sit habitator.
 
@@ -112,7 +114,7 @@ Et quantum ad conversionem, ***noluerunt***; idest secuti sunt prava desideria s
 
 Lectio 4  
 
-***^9:15^ idcirco haec dicit Dominus exercituum Deus Israel: ecce ego cibabo populum istum absinthio, et potum dabo eis aquam fellis,***
+^9:15^ idcirco haec dicit Dominus exercituum Deus Israel: ecce ego cibabo populum istum absinthio, et potum dabo eis aquam fellis,  
 
 > ^9:16^ et dispergam eos in gentibus, quas non noverunt ipsi, et patres eorum, et mittam post eos gladium, donec consumantur.
 
@@ -148,13 +150,13 @@ Et determinans causam: ***quia ascendit mors***, idest Chaldaeus mortem inferens
 
 Lectio 5  
 
-***^9:22^ Loquere: haec dicit Dominus: et cadet morticinum hominis quasi stercus super faciem regionis, quasi foenum post tergum metentis, et non est qui colligat.***
+^9:22^ Loquere: haec dicit Dominus: et cadet morticinum hominis quasi stercus super faciem regionis, quasi foenum post tergum metentis, et non est qui colligat.  
 
 > **66**. Hic ponit poenam quantum ad ipsa cadavera quae remanserunt inhumata, ***quasi fenum***, quod a metente quasi vile quiddam negligitur. Isa. 5: *facta sunt morticina eorum quasi stercus in medio platearum*.
 
 Lectio 6  
 
-***^9:23^ Haec dicit Dominus: non glorietur sapiens in sapientia sua, et non glorietur fortis in fortitudine sua, et non glorietur dives in divitiis suis;***
+^9:23^ Haec dicit Dominus: non glorietur sapiens in sapientia sua, et non glorietur fortis in fortitudine sua, et non glorietur dives in divitiis suis;  
 
 > ^9:24^ sed in hoc glorietur qui gloriatur, scire, et nosse me: quia ego sum Dominus qui facio misericordiam et judicium, et justitiam in terra. Haec enim placent mihi, ait Dominus.
 
@@ -170,7 +172,7 @@ Secundo excludit fiduciam legalium caeremoniarum, et circumcisionis specialiter,
 
 Collationes  
 
-***Nota, quod homo non debet ***gloriari in sapientia***, quia transitoria. Isa. 29: *peribit sapientia a sapientibus ejus, et intellectus prudentium ejus abscondetur*. Quia imperfecta. Eccl. 8: *intellexi, quod omnium operum Dei nullam possit homo invenire rationem eorum quae fiunt sub sole*. Quia nociva. 1 Cor. 8: *scientia instat, caritas vero aedificat*. Quia laboriosa. Eccl. 1: *in multa sapientia multa indignatio; et qui addit scientiam, addit et laborem*.***
+Nota, quod homo non debet ***gloriari in sapientia***, quia transitoria. Isa. 29: *peribit sapientia a sapientibus ejus, et intellectus prudentium ejus abscondetur*. Quia imperfecta. Eccl. 8: *intellexi, quod omnium operum Dei nullam possit homo invenire rationem eorum quae fiunt sub sole*. Quia nociva. 1 Cor. 8: *scientia instat, caritas vero aedificat*. Quia laboriosa. Eccl. 1: *in multa sapientia multa indignatio; et qui addit scientiam, addit et laborem*.  
 
 Item non debet ***gloriari in fortitudine***, quia fragilis. Job 6: *nec fortitudo lapidum, fortitudo mea, nec caro mea aenea est*. Quia frequenter inutilis. Eccl. 9: *vidi sub sole, nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam; secundum tempus, casumque in omnibus*. Quia non Domino acceptabilis. Psalm. 146: *non in fortitudine equi voluntatem habebit, neque in tibiis viri beneplacitum erit ei*. Quia peccati occasio. Sap. 2: *sit autem fortitudo nostra lex justitiae: quod enim infirmum est, inutile invenitur*.  
 

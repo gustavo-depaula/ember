@@ -1,5 +1,7 @@
 # C. 18 - The potter’s clay
 
+***The potter’s clay***
+
 ***Lecture 1***
 
 ***Clay in the hands of the potter***
@@ -56,7 +58,7 @@ Lecture 2
 
 ***God’s craft of cities and nations***
 
-***^18:7^ I shall speak suddenly against a nation and against a kingdom, that I may uproot, and destroy, and ruin it.***
+^18:7^ I shall speak suddenly against a nation and against a kingdom, that I may uproot, and destroy, and ruin it.  
 
 > ^18:8^ If that nation will repent of its evil, which I have spoken against it, then I also shall repent of the evil which I have thought to do against it.
 
@@ -92,7 +94,7 @@ Lecture 3
 
 ***Despair of sinners***
 
-***^18:12^ And they said, ‘We have no hope; we shall go after our own thoughts, and each one of us will do according to the perversity of his own wicked heart.’***
+^18:12^ And they said, ‘We have no hope; we shall go after our own thoughts, and each one of us will do according to the perversity of his own wicked heart.’  
 
 > ^18:13^ Therefore, thus says the Lord: inquire of the nations: who has heard such dreadful things, which the virgin of Israel does exceedingly?
 
@@ -128,7 +130,7 @@ Lecture 4
 
 ***Devices against Jeremiah***
 
-***^18:18^ And they said, ‘Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor speech from the prophet; come, and let us strike him with the tongue, and let us pay no heed to all his words.’***
+^18:18^ And they said, ‘Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor speech from the prophet; come, and let us strike him with the tongue, and let us pay no heed to all his words.’  
 
 > ^18:19^ Attend to me, O Lord, and hear the voice of my adversaries.
 
@@ -162,7 +164,7 @@ Next, he excludes a revocation of the sentence when he excludes mercy: ***do not
 
 Collations  
 
-***One should note that there is the good ***hissing*** (Jer 18:16) of divine inspiration.Thomas Aquinas is commenting here on the phrase, *sibilum sempiternum*, “a perpetual hissing,” in Jeremiah 18:16. *Sibilum* may mean either “hiss” or “whistle,” and both senses appear in the verses Aquinas cites. *I will whistle for them, and I will gather them, because I have redeemed them* (Zech 10:8). Of strengthening the lowly: *and after the fire, the whistle of a gentle breeze* (1 Kgs 19:12). Of compassion. Below: ***all who pass by her will be astonished, and hiss because of all her plagues*** (Jer 49:17).***
+One should note that there is the good ***hissing*** (Jer 18:16) of divine inspiration.Thomas Aquinas is commenting here on the phrase, *sibilum sempiternum*, “a perpetual hissing,” in Jeremiah 18:16. *Sibilum* may mean either “hiss” or “whistle,” and both senses appear in the verses Aquinas cites. *I will whistle for them, and I will gather them, because I have redeemed them* (Zech 10:8). Of strengthening the lowly: *and after the fire, the whistle of a gentle breeze* (1 Kgs 19:12). Of compassion. Below: ***all who pass by her will be astonished, and hiss because of all her plagues*** (Jer 49:17).  
 
 There is also the bad hissing of wicked persuasion: *moved by the hissing of serpents, they perished for fear* (Wis 17:9). Of insult: *all those passing by the way hissed and shook their heads because of the daughter of Jerusalem saying: is this the city of perfect beauty, the joy of all the earth?* (Lam 2:15). Of astonishment: ***I shall make them an astonishment and a hissing, and eternal desolations*** (Jer 25:9).  
 

@@ -1,1 +1,3 @@
 # Articulus 18
+
+Quod vero decimo octavo ponitur, *ratio creandi, ut est in creaturis, est invariabilis, et dicitur aeterna a carentia variationis*, non recte impugnat obiiciens. Licet enim omnis creatura de non esse in esse producta sit, et pro tanto sit aliquo modo variabilis, tamen et definitiones et propositiones aliquae dicuntur invariabiles propter necessarium ordinem unius termini ad alium; sicut Socrates variabilis est, et similiter cursus eius et motus, et tamen hoc est invariabile: si currit movetur. Haec tamen invariabilitas non facit propositionem aeternam nisi secundum quod est in intellectu aeterno, scilicet divino.

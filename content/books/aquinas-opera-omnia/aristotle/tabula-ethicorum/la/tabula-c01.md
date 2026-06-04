@@ -1,8 +1,10 @@
 # Chapter 1
 
+***Vox 1***
+
 ***Actio***
 
-***Quod ***actio***, id est operatio virtutis, non est alterius gratia, sed propter bonum proprium.***
+Quod ***actio***, id est operatio virtutis, non est alterius gratia, sed propter bonum proprium.  
 
 Quod omnem ***actionem*** sequitur gaudium vel tristitia.  
 
@@ -10,13 +12,13 @@ Vox 2
 
 ***Acrocholi (ἀκρόχολοι)***
 
-***Quod ***acrocholi*** sunt in superabundantia irae et ad omne nocumentum iracundi.***
+Quod ***acrocholi*** sunt in superabundantia irae et ad omne nocumentum iracundi.  
 
 Vox 3  
 
 ***Agrios (ἄγρῐος)***
 
-***Quod ***agrios*** omnino inutilis est ad ludicras locutiones; nihil enim conferens in omnibus tristatur.***
+Quod ***agrios*** omnino inutilis est ad ludicras locutiones; nihil enim conferens in omnibus tristatur.  
 
 Vox 4  
 
@@ -28,7 +30,7 @@ Vox 5
 
 ***Accusatio***
 
-***Quod fiunt ***accusationes*** et querelae in amicitiae quae est secundum utile, vel sola, vel maxime rationabiliter.***
+Quod fiunt ***accusationes*** et querelae in amicitiae quae est secundum utile, vel sola, vel maxime rationabiliter.  
 
 Quod fiunt maxime cum non secundum eandem commutabunt et dissolventur.  
 
@@ -44,7 +46,7 @@ Vox 6
 
 ***Accipiens***
 
-***Quod ***accipiens*** a quo non opportuit accipere cum non esset amicus, peccauit statim.***
+Quod ***accipiens*** a quo non opportuit accipere cum non esset amicus, peccauit statim.  
 
 Quod ***accipiens*** debet reddere beneficium si potens est; si autem inpotens, tunc ille qui dedit non dignificat quod accipiat ab eo.  
 
@@ -54,7 +56,7 @@ Vox 7
 
 ***Accomodans***
 
-***Quod ***accommodanti*** non semper est ***accommodandum*** sicut si ***accommodauit*** mihi qui sum epyeikes (ἐπιεικεῖς) et credidit lucrari, et ego credam eum malum, non est equaliter dignum ut ego ***accomodem*** ei.***
+Quod ***accommodanti*** non semper est ***accommodandum*** sicut si ***accommodauit*** mihi qui sum epyeikes (ἐπιεικεῖς) et credidit lucrari, et ego credam eum malum, non est equaliter dignum ut ego ***accomodem*** ei.  
 
 Quod ***accommodantes*** non querunt salutem eorum quibus ***accommodant*** nisi propter lucrum; sed benefacientes diligunt etsi nihil debeat eis contingere.  
 
@@ -62,19 +64,19 @@ Vox 8
 
 ***Agere***
 
-***Quod ad hoc quod homo non ***agat*** prava, oportet eum bene nutriri et assuefieri et adinventionibus studiosis vivere; et fiet hoc si vixerit secundum ordinem intellectus habentem vim coactivam.***
+Quod ad hoc quod homo non ***agat*** prava, oportet eum bene nutriri et assuefieri et adinventionibus studiosis vivere; et fiet hoc si vixerit secundum ordinem intellectus habentem vim coactivam.  
 
 Vox 9  
 
 ***Affirmatio***
 
-***Quod ***affirmatio*** et negatio sunt in intellectu sicut fuga et persecutio in appetitu.***
+Quod ***affirmatio*** et negatio sunt in intellectu sicut fuga et persecutio in appetitu.  
 
 Vox 10  
 
 ***Agathon***
 
-***Quod ***Agathon*** dixit: solo hoc priuatur Deus ingenita facere que utique sunt facta.***
+Quod ***Agathon*** dixit: solo hoc priuatur Deus ingenita facere que utique sunt facta.  
 
 Item dixit quod ars dilexit fortunam et fortuna artem.  
 
@@ -82,7 +84,7 @@ Vox 11
 
 ***Amari***
 
-***Quod **amari** sunt qui diu retinent iram et non quiescunt, donec retribuant; punitio enim in eis quietat impetum irae.***
+Quod **amari** sunt qui diu retinent iram et non quiescunt, donec retribuant; punitio enim in eis quietat impetum irae.  
 
 Vox 12  
 
@@ -136,7 +138,7 @@ Vox 15
 
 ***Amicitia utilis et delectabilis***
 
-***Quod **amicitia utilis et delectabilis** sunt per accidens, quia non propter se ipsos amant, sed propter utilitatem et delectationem.***
+Quod **amicitia utilis et delectabilis** sunt per accidens, quia non propter se ipsos amant, sed propter utilitatem et delectationem.  
 
 Quod amicitia utilis est in senibus et iuvenibus; senes enim non delectabile sed utile persequntur, sed iuvenes propter consuetudinem.  
 
@@ -310,7 +312,7 @@ Vox 17
 
 ***Amicabilia***
 
-***Quod qui amicabilia opera cito ad inuicem faciunt habent uoluntatem amicicie que uelox est, set nondum amiciciam si non et amabiles sint et hoc sciant.***
+Quod qui amicabilia opera cito ad inuicem faciunt habent uoluntatem amicicie que uelox est, set nondum amiciciam si non et amabiles sint et hoc sciant.  
 
 Quod amicabilia ad amicos oriuntur et determinantur ab hiis que habet homo ad se ipsum.  
 
@@ -326,19 +328,19 @@ Vox 19
 
 ***Amacio***
 
-***Quod amacio assimulatur passioni, amicicia uero habitui, cum sit cum readamacione et secundum eleccionem, eleccio autem ab habitu, eo quod unus alteri uult bonum sui gracia; set amacio que contingit esse ad inanimata est sine readamacione et sine eleccione.***
+Quod amacio assimulatur passioni, amicicia uero habitui, cum sit cum readamacione et secundum eleccionem, eleccio autem ab habitu, eo quod unus alteri uult bonum sui gracia; set amacio que contingit esse ad inanimata est sine readamacione et sine eleccione.  
 
 Vox 20  
 
 ***Amicicia***
 
-***Quod amicicia est medietas in operibus omnibus que pertinent ad uitam; habundans autem nullius gracia dicitur placidus, set utilis gracia blanditor; qui autem deficit, in omnibus indelectabilis, est litigiosus et discolus.***
+Quod amicicia est medietas in operibus omnibus que pertinent ad uitam; habundans autem nullius gracia dicitur placidus, set utilis gracia blanditor; qui autem deficit, in omnibus indelectabilis, est litigiosus et discolus.  
 
 Vox 21  
 
 ***Amicus***
 
-***Quod que fiunt per amicos per nos aliqualiter fiunt; principium enim mouens ad operandum est in nobis.***
+Quod que fiunt per amicos per nos aliqualiter fiunt; principium enim mouens ad operandum est in nobis.  
 
 Quod amicus uult bonum amico propter se; set ridiculum est uino uelle bonum, set, si uult saluari ipsum, per accidens uult sibi bonum, ut postmodum bibat.  
 
@@ -410,7 +412,7 @@ Vox 22
 
 ***Amare***
 
-***Utrum aliquis amet bonum simpliciter uel bonum sibi, cum quandoque dissonancia sit inter hec; et soluit quod bonum simpliciter est amabile et unicuique est amabile proprium bonum.***
+Utrum aliquis amet bonum simpliciter uel bonum sibi, cum quandoque dissonancia sit inter hec; et soluit quod bonum simpliciter est amabile et unicuique est amabile proprium bonum.  
 
 Quod quidam querunt amari magis quam amare, propter amorem honoris; et ideo amatores adulacionis sunt multi.  
 
@@ -424,13 +426,13 @@ Vox 23
 
 ***Amantes***
 
-***Quod amantes fistulas non possunt sermonibus attendere qui sibi dicuntur; et ideo quando multum gaudemus in amicicia non possumus discernere alia.***
+Quod amantes fistulas non possunt sermonibus attendere qui sibi dicuntur; et ideo quando multum gaudemus in amicicia non possumus discernere alia.  
 
 Vox 24  
 
 ***Amator***
 
-***Quod amatores ridiculosi uidentur qui reputant se tantum amari quantum amant, si in eis forte non est quod amari debeat; set si est equaliter forte dignificandum.***
+Quod amatores ridiculosi uidentur qui reputant se tantum amari quantum amant, si in eis forte non est quod amari debeat; set si est equaliter forte dignificandum.  
 
 Quod amatores sui ipsius increpantur.  
 
@@ -446,13 +448,13 @@ Vox 26
 
 ***Amor***
 
-***Quod amor non est cuiuscumque, set obiecti desiderati quod est amabile; quod quidem diuiditur per bonum, delectabile et utile, quorum duo, scilicet bonum et delectabile, diliguntur ut fines, utile autem ut id quod confert ad utrumque.***
+Quod amor non est cuiuscumque, set obiecti desiderati quod est amabile; quod quidem diuiditur per bonum, delectabile et utile, quorum duo, scilicet bonum et delectabile, diliguntur ut fines, utile autem ut id quod confert ad utrumque.  
 
 Vox 27  
 
 ***Anima***
 
-***Quod de partibus anime determinatum est quantum pertinet ad quesita, quia certificare in plus operosius est propositis, et sufficienter dictum est in exterioribus sermonibus, id est in libro de anima.***
+Quod de partibus anime determinatum est quantum pertinet ad quesita, quia certificare in plus operosius est propositis, et sufficienter dictum est in exterioribus sermonibus, id est in libro de anima.  
 
 Quod parcium anime hoc quidem irracionale, hoc autem racionem habens; et nichil differt ad presens utrum predicta duo sint distincta ad inuicem sicut partes uel totum.  
 
@@ -486,7 +488,7 @@ Vox 30
 
 ***Appetitus***
 
-***Quod appetitus delectabilis est insaciabilis et ex omni parte insipienti, et concupiscencie opera propria auget secundum quod similia sunt.***
+Quod appetitus delectabilis est insaciabilis et ex omni parte insipienti, et concupiscencie opera propria auget secundum quod similia sunt.  
 
 Quod appetitus est medii.  
 
@@ -494,13 +496,13 @@ Vox 31
 
 ***Autecastos***
 
-***Quod autecastos est qui est uerax in uita et sermone, existencia confitens esse circa se ipsum, et non maiora neque minora.***
+Quod autecastos est qui est uerax in uita et sermone, existencia confitens esse circa se ipsum, et non maiora neque minora.  
 
 Vox 32  
 
 ***Ars***
 
-***Quod omnes artes simul habentur cum prudencia secundum quas dicitur quis simpliciter bonus.***
+Quod omnes artes simul habentur cum prudencia secundum quas dicitur quis simpliciter bonus.  
 
 Quod artes ordinantur sub una quadam uirtute quemadmodum sub equestri nauifactiua.  
 
@@ -530,31 +532,31 @@ Vox 33
 
 ***Asinus***
 
-***Quod asinus fenum utique magis eligit quam aurum; delectabile enim nutrimentum auro asinis, Eraclitus dicit.***
+Quod asinus fenum utique magis eligit quam aurum; delectabile enim nutrimentum auro asinis, Eraclitus dicit.  
 
 Vox 34  
 
 ***Artifex***
 
-***Quod artifex qui uult perfectus fieri debet incipere ab uniuersalium cognicione, et sic deuenire ad cognoscendum hoc uel illud, quia dictum est quod circa hoc sciencie.***
+Quod artifex qui uult perfectus fieri debet incipere ab uniuersalium cognicione, et sic deuenire ad cognoscendum hoc uel illud, quia dictum est quod circa hoc sciencie.  
 
 Vox 35  
 
 ***Argei***
 
-***Quod Argei cum putarent pugnare contra solos Siconios inciderunt in Latonios qui erant pugnacissimi, et ideo statim fugerunt; sic ignorantes nescientes condiciones pugnandi statim fugiunt.***
+Quod Argei cum putarent pugnare contra solos Siconios inciderunt in Latonios qui erant pugnacissimi, et ideo statim fugerunt; sic ignorantes nescientes condiciones pugnandi statim fugiunt.  
 
 Vox 36  
 
 ***Agon***
 
-***Quod in agonibus non fortissimi pugnacissimi sunt, set maxime potentes et corpora optima habentes.***
+Quod in agonibus non fortissimi pugnacissimi sunt, set maxime potentes et corpora optima habentes.  
 
 Vox 37  
 
 ***Adulter***
 
-***Quod adulteri propter concupiscenciam audacia multa operantur; non utique igitur sunt fortes.***
+Quod adulteri propter concupiscenciam audacia multa operantur; non utique igitur sunt fortes.  
 
 Vox 38  
 
@@ -572,13 +574,13 @@ Vox 40
 
 ***Anaxagoras***
 
-***Quod Anaxagoras et alii qui occupantur circa ammirabilia et difficilia dicuntur sapientes et non prudentes.***
+Quod Anaxagoras et alii qui occupantur circa ammirabilia et difficilia dicuntur sapientes et non prudentes.  
 
 Vox 41  
 
 ***Auarus***
 
-***Quod auarus est iniustus et ideo est circa bona non omnia, set quecumque fortunia et infortunia.***
+Quod auarus est iniustus et ideo est circa bona non omnia, set quecumque fortunia et infortunia.  
 
 Quod auarus continetur sub inequali sicut sub quodam communi.  
 

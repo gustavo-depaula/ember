@@ -1,5 +1,7 @@
 # Chapter 34
 
+^34:1^ Come near, you Gentiles, and hear, and hearken, you people: let the earth hear, and its fullness,*Plentitudino ejus*. DR: “all that is therein.” the world, and every thing that comes forth of it.  
+
 > ^34:2^ For the indignation of the Lord is upon all nations, and his fury upon all their armies: he has killed them, and delivered them to slaughter.
 
 > ^34:3^ Their slain shall be cast forth, and out of their carcasses shall rise a stink: the mountains shall be melted with their blood.

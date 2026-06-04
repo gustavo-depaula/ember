@@ -1,5 +1,7 @@
 # Chapter 32
 
+***^32:1^ Behold a king shall reign in justice, and princes shall rule in judgment.***
+
 > ^32:2^ And a man shall be as when one is hid from the wind, and hides himself from a storm, as rivers of waters in drought, and the shadow of a rock that stands out in a desert land.
 
 > ^32:3^ The eyes of them that see shall not be dim, and the ears of them that hear shall hearken diligently.

@@ -1,12 +1,14 @@
 # On Angels
 
+***Quaestio 4***
+
 ***De angelis***
 
 ***Articulus unicus***
 
 ***Utrum Lucifer sit subiectum aevi***
 
-***Deinde circa angelos quaesitum est unum, scilicet utrum Lucifer sit subiectum aevi. Et videtur quod sic.***
+Deinde circa angelos quaesitum est unum, scilicet utrum Lucifer sit subiectum aevi. Et videtur quod sic.  
 
 Sicut enim subiectum temporis est primum temporale simplicissimum, ita subiectum aevi videtur esse simplicissimum aeviternum; hoc autem est Lucifer, qui inter angelos supremus fuit secundum suam naturam creatus; aevum autem non respondet gratiae, sed naturae, alioquin corpora caelestia, quae non sunt susceptiva gratiae, aevo mensurari non possent; cum ergo *dona* naturalia *integra* remanserint in demonibus post peccatum, sicut Dionysius dicit IV capitulo *De divinis nominibus*, videtur quod aevum sit in Lucifero sicut in subiecto.  
 

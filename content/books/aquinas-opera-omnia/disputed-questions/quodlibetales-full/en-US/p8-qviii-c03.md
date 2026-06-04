@@ -1,5 +1,7 @@
 # On Things Pertaining to Punishment and Glory
 
+***On things pertaining to punishment***
+
 ***Question 7***
 
 ***On the spiritual punishment of the damned***
@@ -24,9 +26,9 @@ second, whether the damned wish their neighbors to be damned.
 
 Article 1  
 
-***Whether the damned see the glory of the saints, especially after the day of judgment***
+Whether the damned see the glory of the saints, especially after the day of judgment  
 
-***To the first we proceed thus. It seems that the damned after the day of judgment see the glory of the saints.***
+To the first we proceed thus. It seems that the damned after the day of judgment see the glory of the saints.  
 
 Obj. 1: For just as glory relates to misery, so misery to glory. But the perfection of the glory of the saints is for them to see the misery of the damned, as is said at the end of Isaiah (66:24): *they shall go out and see the cadavers* of the impious. Therefore, the perfection of the misery of the damned is also for them to see the glory of the saints, and thus after the day of judgment, when they will be in perfect misery, the damned will see the glory of the saints.  
 
@@ -46,7 +48,7 @@ Article 2
 
 ***Whether the damned wish their neighbors to be damned***
 
-***To the second we proceed thus. It seems that the damned would not wish their neighbors to be damned.***
+To the second we proceed thus. It seems that the damned would not wish their neighbors to be damned.  
 
 Obj. 1: For it is said in Luke 16:27–28 that the rich man damned in hell begged for Lazarus to be sent to his brothers *so that* he would testify *to them lest* they come *into the place of torments*. Yet petition is the designation of the will.Cf. *ST* II-II.83.1, ad 1. Therefore, the damned do not wish their neighbors to be damned.  
 
@@ -66,7 +68,7 @@ Question 8
 
 ***Whether there is only punishment of fire there, or also punishment of water***
 
-***Then there were questions concerning the bodily punishment of the damned, namely, whether there is only punishment of fire, or also punishment of water?***
+Then there were questions concerning the bodily punishment of the damned, namely, whether there is only punishment of fire, or also punishment of water?  
 
 Obj. 1: And it seems that there is, through that said in Job 24:19 concerning the impious: *they shall pass from the waters of snows to the excessive heat*.Cf. Bonaventure, *In IV Sent*., d. 44, P. 2, a. 2, q. 2, fund. 3, 4:927b; Aquinas, *In IV Sent*. 50.2.3, qa. 1, s.c. 2.  
 
@@ -86,7 +88,7 @@ On things pertaining to glory
 
 ***On the glory of the saints***
 
-***Then there were questions about the glory of the blessed. And about this two things were asked:***
+Then there were questions about the glory of the blessed. And about this two things were asked:  
 
 first, whether the beatitude of the saints first consists in intellect before it consists in affect, or conversely;  
 
@@ -94,9 +96,9 @@ second, whether the blessed first see the humanity of Christ before his divinity
 
 Article 1  
 
-***Whether the beatitude of the saints first consists in intellect before it consists in affect, or conversely***
+Whether the beatitude of the saints first consists in intellect before it consists in affect, or conversely  
 
-***To the first we proceed thus. It seems that the beatitude of the saints especially consists in intellect.***
+To the first we proceed thus. It seems that the beatitude of the saints especially consists in intellect.  
 
 Obj. 1: For just as Augustine says, in the tenth book of the *Confessions*, beatitude is *joy concerning truth*.Augustine, *Confessions* 10.23, para. 33 (CCSL 27:173; PL 32:793). But truth pertains principally to the intellect. Therefore, so does beatitude.  
 
@@ -122,7 +124,7 @@ Article 2
 
 ***Whether the blessed first see the humanity of Christ before his divinity***
 
-***To the second we proceed thus. It seems that the blessed in glory first contemplate the divinity of Christ before his humanity.***
+To the second we proceed thus. It seems that the blessed in glory first contemplate the divinity of Christ before his humanity.  
 
 Obj. 1: For the highest act principally and first applies to the highest state. But the blessed are in the highest state. Since, therefore, the act of the intellect, which is the highest power, and to which it pertains to be borne unto God, is the most noble act, it seems that for the blessed this act first applies to their contemplating God.  
 

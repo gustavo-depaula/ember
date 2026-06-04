@@ -1,5 +1,7 @@
 # D. 34 - Gifts of the Holy Spirit: fear, fortitude, and piety
 
+***Divisio textus***
+
 ***Postquam determinavit Magister de virtutibus, hic incipit determinare de donis.***
 
 Dividitur autem haec pars in partes tres:  
@@ -110,7 +112,7 @@ Articulus 2
 
 ***Utrum dona debeant esse plura quam septem***
 
-***Ad secundum sic proceditur. Videtur quod plura debeant esse dona quam septem assignata.***
+Ad secundum sic proceditur. Videtur quod plura debeant esse dona quam septem assignata.  
 
 Dona enim perficiunt ad modum altiorem quam virtus. Ergo singulis virtutibus debent respondere singula dona. Sed inter theologicas virtutes soli fidei videntur dona aliqua The Bruges manuscript omits *aliqua*. respondere, sicut intellectus, et sapientia. Ergo videtur quod debeant esse alia dona quae respondeant spei et caritati.  
 
@@ -172,7 +174,7 @@ Articulus 3
 
 ***Utrum dona maneant in patria***
 
-***Ad tertium sic proceditur. Videtur quod dona non maneant The edited versions read *remaneant*. in patria.***
+Ad tertium sic proceditur. Videtur quod dona non maneant The edited versions read *remaneant*. in patria.  
 
 Donum enim fortitudinis videtur esse contra difficultates ordinatum. Sed in patria non erit aliqua difficultas. Ergo ibi non erit fortitudinis donum.  
 
@@ -204,7 +206,7 @@ Articulus 4
 
 ***Utrum beatitudines respondeant singulis donis***
 
-***Ad quartum sic proceditur. Videtur quod beatitudines non respondeant singulis donis.***
+Ad quartum sic proceditur. Videtur quod beatitudines non respondeant singulis donis.  
 
 Sicut enim supra dictum est, singulis virtutibus non respondent singula dona. Sed beatitudines sunt virtutes, ut dicit Glossa: *in sermone*, inquit, *Domini septem praemittuntur virtutes, quae et beatitudines dicuntur, quia perfectos et beatos* The edited versions read *bonos*. *faciunt.* Ergo beatitudines et dona The Vivès edition reads *bona*. non respondent sibi invicem.  
 
@@ -356,7 +358,7 @@ Ad septimum dicendum, quod quia in resurrectione corporis praecipue et totaliter
 
 Expositio textus  
 
-****Spiritus sapientiae et intellectus* et cetera. Ratio ordinis ex praedictis patet. Combinationis autem ratio haec est, quia simul combinantur dona duo, quorum unum dirigit alterum sicut sapientia dirigit intellectum, proprie loquendo; consilium autem fortitudinem per quamdam appropriationem: quia sicut praecipue consilio indigemus in operibus The edited versions read *operationibus*. supererogationis, ita et in fortitudine: scientia pietatem, quia neutrum sonat nisi in The edited versions omit *in*. id ad quod omnes tenentur. Timor autem, quia est recessus a malo, ideo non indiget proprio directivo, ut ex dictis patet; tamen, proprie loquendo, consilium et scientia dirigunt in omnibus tribus donis exequentibus.***
+*Spiritus sapientiae et intellectus* et cetera. Ratio ordinis ex praedictis patet. Combinationis autem ratio haec est, quia simul combinantur dona duo, quorum unum dirigit alterum sicut sapientia dirigit intellectum, proprie loquendo; consilium autem fortitudinem per quamdam appropriationem: quia sicut praecipue consilio indigemus in operibus The edited versions read *operationibus*. supererogationis, ita et in fortitudine: scientia pietatem, quia neutrum sonat nisi in The edited versions omit *in*. id ad quod omnes tenentur. Timor autem, quia est recessus a malo, ideo non indiget proprio directivo, ut ex dictis patet; tamen, proprie loquendo, consilium et scientia dirigunt in omnibus tribus donis exequentibus.  
 
 *Spiritus timoris*. Hic specialiter dicitur Christum replevisse, quia propter suam imperfectionem minus in ipso esse videbatur; et The edited versions omit *et*. ideo quia principaliter ad patiendum venerat, quod per humilitatem est completum, quae pertinet ad donum timoris Domini.  
 
@@ -364,7 +366,7 @@ Expositio textus
 
 Prooemium  
 
-***Postquam determinavit de donis in generali, hic determinat de dono timoris, qui propter sui multiplicem acceptionem, specialem difficultatem habet.***
+Postquam determinavit de donis in generali, hic determinat de dono timoris, qui propter sui multiplicem acceptionem, specialem difficultatem habet.  
 
 Dividitur autem haec pars in duas: primo determinat de timore in generali; secundo autem de timore Christi specialiter, ibi: *cum autem fuerit in Christo timor poenae, quaeritur, an iste timor fuerit mundanus, vel servilis, vel initialis*.  
 
@@ -398,7 +400,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod Damascenus inconvenienter timorem definiat, dicens: *timor est desiderium secundum systolem movens*.***
+Ad primum sic proceditur. Videtur quod Damascenus inconvenienter timorem definiat, dicens: *timor est desiderium secundum systolem movens*.  
 
 Desiderium enim ad concupiscibilem pertinet; timor autem est in irascibili. Ergo timor non est desiderium.  
 
@@ -410,7 +412,7 @@ Praeterea, secundum systolem movere, est movere secundum contractionem. Sed cont
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod Magister hic male distinguat timoris partes. Quia secundum Philosophum, si unum oppositorum dicitur multipliciter, et reliquum. Sed timor et spes sunt opposita. Cum igitur spes non dicatur multipliciter, nec timor distingui debet.***
+Ulterius. Videtur quod Magister hic male distinguat timoris partes. Quia secundum Philosophum, si unum oppositorum dicitur multipliciter, et reliquum. Sed timor et spes sunt opposita. Cum igitur spes non dicatur multipliciter, nec timor distingui debet.  
 
 Praeterea, passiones et actus et habitus diversificantur secundum objecta. Sed idem est objectum timoris mundani, servilis, et initialis, scilicet poena. Ergo videtur quod non debeant ad invicem distingui.  
 
@@ -424,7 +426,7 @@ Praeterea, Damascenus in The edited versions omit *in*. 2 lib., assignat plures 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod timor non debeat inter dona computari. Timor enim ponitur una de quatuor principalibus passionibus. Sed nulla aliarum ponitur donum, immo spes ponitur virtus, gaudium ponitur The Bruges manuscript omits *ponitur*. fructus, dolor ponitur pars poenitentiae, scilicet contritio. Ergo nec timor similiter deberet poni donum. The edited versions read *debet*; the Parma edition reads *bonum*.***
+Ulterius. Videtur quod timor non debeat inter dona computari. Timor enim ponitur una de quatuor principalibus passionibus. Sed nulla aliarum ponitur donum, immo spes ponitur virtus, gaudium ponitur The Bruges manuscript omits *ponitur*. fructus, dolor ponitur pars poenitentiae, scilicet contritio. Ergo nec timor similiter deberet poni donum. The edited versions read *debet*; the Parma edition reads *bonum*.  
 
 Praeterea, dona dantur nobis in adjutorium humanae infirmitatis. Sed ipse timor infirmitatem importat. Ergo non debet dici donum.  
 
@@ -436,7 +438,7 @@ Praeterea, illud quod est principium salutis, non est a nobis, sed donum Dei est
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem The Vivès edition omits *ad primam quaestionem*. quod definitio data, secundum Damascenum, convenit omni timori. Sed quia nomina passionum a passionibus sensitivae partis ad operationes superioris partis transferuntur, ut supra dictum est, ideo videamus primo qualiter dicta definitio competat timori qui est passio sensitivae partis.***
+Respondeo dicendum ad primam quaestionem The Vivès edition omits *ad primam quaestionem*. quod definitio data, secundum Damascenum, convenit omni timori. Sed quia nomina passionum a passionibus sensitivae partis ad operationes superioris partis transferuntur, ut supra dictum est, ideo videamus primo qualiter dicta definitio competat timori qui est passio sensitivae partis.  
 
 Quaelibet autem illarum passionum pertinet ad appetitivam partem, sed inter eas est differentia, secundum Avicennam in 6 *De naturalibus*, quia dispositiones cordis in quibusdam passionibus sunt quasi activae, in quibusdam quasi passivae. Dispositio autem cordis activa est vel secundum perfectionem cordis in seipso, sicut est amplitudo et dilatatio cordis, quae est in gaudio; vel secundum The edited versions add *etiam*. perfectionem cordis ad aliquid agendum vel patiendum vel obtinendum, The Vivès edition omits *vel patiendum vel obtinendum.* sicut est fortitudo cordis, quae requiritur in audacia et spe. Dispositio autem passiva cordis per oppositum est, vel secundum defectum ipsius in seipso, quae dicitur coangustatio, quae requiritur in tristitia; vel secundum defectum ipsius per comparationem ad aliquid agendum vel patiendum vel obtinendum, The Vivès edition omits *vel patiendum vel obtinendum*. quae dicitur debilitas cordis, quae requiritur in timore et desperatione. Contractio autem significat motum alicujus ab alio, a quo retrahitur in seipsum, ubi quodammodo congregatur; et ideo importat dispositionem cordis quae est debilitas, per quam aliquis The Vivès edition reads *aliquas*. ab alio deficit, in seipso consistens.  
 
@@ -452,7 +454,7 @@ Ad quartum dicendum, quod in spiritualibus est contractio per similitudinem, ut 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod timor hic distinguitur secundum ordinem timentis ad Deum, cui per unum timorem magis appropinquat vel distat, quam per alium. Cum enim timor in fuga mali consistat; malum autem est poenae et culpae; erit timor quidam qui consistit in fuga mali culpae tantum, per quam homo a Deo separatur, scilicet timor castus vel filialis; alius autem qui consistit in fuga mali poenae.***
+Ad secundam quaestionem dicendum, quod timor hic distinguitur secundum ordinem timentis ad Deum, cui per unum timorem magis appropinquat vel distat, quam per alium. Cum enim timor in fuga mali consistat; malum autem est poenae et culpae; erit timor quidam qui consistit in fuga mali culpae tantum, per quam homo a Deo separatur, scilicet timor castus vel filialis; alius autem qui consistit in fuga mali poenae.  
 
 Poena autem est duplex. Una pro cujus vitatione peccatum quandoque committitur, sicut sunt temporales poenae; et hanc poenam refugit timor mundanus vel humanus. Alia est pro cujus vitatione nunquam fit peccatum, sed magis vitatur, sicut poena quae erit post hanc vitam; et hanc poenam fugit timor servilis.  
 
@@ -472,7 +474,7 @@ Ad sextum dicendum, quod illae partes timoris assignantur secundum objecta. Sic 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod timor mundanus et humanus, cum sint inordinati, non possunt esse donum Spiritus Sancti; sed sunt vel passiones vel electiones similes passionibus, aut etiam habitus, secundum quod habitus nomine operationis vel passionis nominantur. Similiter etiam timor servilis non pertingit ad perfectionem doni, sicut nec fides informis ad perfectam rationem virtutis. In omni enim An unidentified manuscript or edition reads *ut*. virtute hoc est commune, secundum Philosophum, quod virtuosus operatur boni gratia, vel propter turpis vitationem. Timor autem servilis operatur bonum non propter fugam turpis, sed propter fugam tristis; unde deficit a perfectione virtutis, et multo amplius a perfectione doni, quod est virtute perfectius.***
+Ad tertiam quaestionem dicendum, quod timor mundanus et humanus, cum sint inordinati, non possunt esse donum Spiritus Sancti; sed sunt vel passiones vel electiones similes passionibus, aut etiam habitus, secundum quod habitus nomine operationis vel passionis nominantur. Similiter etiam timor servilis non pertingit ad perfectionem doni, sicut nec fides informis ad perfectam rationem virtutis. In omni enim An unidentified manuscript or edition reads *ut*. virtute hoc est commune, secundum Philosophum, quod virtuosus operatur boni gratia, vel propter turpis vitationem. Timor autem servilis operatur bonum non propter fugam turpis, sed propter fugam tristis; unde deficit a perfectione virtutis, et multo amplius a perfectione doni, quod est virtute perfectius.  
 
 Timor autem castus, et initialis secundum quod participat timorem castum, habet rationem doni: cujus ratio est, quod altiori mensura suos actus modificat quam sitPLE: *sit*. Vivès edition reads *fit*. mensura humana. Mensura enim The Bruges manuscript reads *igitur*. humanorum The Bruges and Paris (841 and 842) manuscripts read *humana*. operum est rationis bonum; unde virtuosus abstinet a malis, fugiens et timens inconveniens rationis, quod est turpe; et iste timor est annexus cuilibet virtuti. Sed timor qui est donum, facit abstinere a malis propter fugam inconvenientis, quod est in separatione a Deo; et ideo ipsum Deum habet pro mensura suae operationis. Et quia modus a mensura causatur, ideo operatur supra humanum modum, et propter hoc est donum.  
 
@@ -488,7 +490,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod timor servilis non sit a Spiritu Sancto.***
+Ad secundum sic proceditur. Videtur quod timor servilis non sit a Spiritu Sancto.  
 
 Quidquid enim est a Spiritu Sancto, potest esse simul cum ipso. Sed timor servilis non habetur simul cum Spiritu Sancto, qui sine caritate non habetur, cum qua non The Bruges manuscript reads *nec*. est timor servilis. Ergo timor servilis non est a Spiritu Sancto.  
 
@@ -502,7 +504,7 @@ Praeterea, non est minus timere Deum quam credere. Sed fides, etiam informis, es
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod usus timoris servilis non sit bonus. Usus enim The Bruges manuscript omits *enim*. bonus est quo fit bonum, et bene. Sed secundum Augustinum super illud Rom. 8, *non accepistis spiritum servitutis* etc., in timore servili etiam si aliquid fiat bonum, non tamen bene. Ergo usus ejus est malus.***
+Ulterius. Videtur quod usus timoris servilis non sit bonus. Usus enim The Bruges manuscript omits *enim*. bonus est quo fit bonum, et bene. Sed secundum Augustinum super illud Rom. 8, *non accepistis spiritum servitutis* etc., in timore servili etiam si aliquid fiat bonum, non tamen bene. Ergo usus ejus est malus.  
 
 Praeterea, omnis actus timoris ex aliquo amore procedit. Sed actus timoris servilis non procedit ex amore caritatis. Ergo procedit ex amore libidinoso: ergo est The Bruges manuscript adds *etiam*. malus.  
 
@@ -514,7 +516,7 @@ Praeterea, usus timoris servilis est abstinere a peccato, et ad sapientiam intro
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod timor servilis non tollatur adveniente caritate. Timor enim servilis a fide informi consurgit. Sed fides informis manet secundum substantiam habitus, et formatur caritate quae advenit. Ergo et timor non expellitur caritate adveniente.***
+Ulterius. Videtur quod timor servilis non tollatur adveniente caritate. Timor enim servilis a fide informi consurgit. Sed fides informis manet secundum substantiam habitus, et formatur caritate quae advenit. Ergo et timor non expellitur caritate adveniente.  
 
 Praeterea, per caritatem advenientem non tollitur nisi peccatum, et quod est ex peccato introductum. Hoc autem non est timor servilis, cum sit a Deo. Ergo non expellitur caritate adveniente.  
 
@@ -528,7 +530,7 @@ Praeterea, nullus principaliter timens poenam, habet caritatem. Sed quicumque ha
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod secundum Philosophum in 1 *Metaph*., liber dicitur The edited versions read *est*. qui sui causa est; servus autem per contrarium intelligendus est qui alterius causa est, et non sui. Sumus autem causa eorum quae ad nos pertinent per voluntatem: unde illud dicitur aliquis facere libere quod spontanea voluntate facit; illud autem serviliter ad quod faciendum sibi The Bruges manuscript omits *sibi*. voluntas deest: facit autem illud coactus ab alio violentia vel metu; et ideo cum tristitia, quia omne coactum est contra voluntatem et triste, ut dicitur in 5 *Metaph*.:***
+Respondeo dicendum ad primam quaestionem, quod secundum Philosophum in 1 *Metaph*., liber dicitur The edited versions read *est*. qui sui causa est; servus autem per contrarium intelligendus est qui alterius causa est, et non sui. Sumus autem causa eorum quae ad nos pertinent per voluntatem: unde illud dicitur aliquis facere libere quod spontanea voluntate facit; illud autem serviliter ad quod faciendum sibi The Bruges manuscript omits *sibi*. voluntas deest: facit autem illud coactus ab alio violentia vel metu; et ideo cum tristitia, quia omne coactum est contra voluntatem et triste, ut dicitur in 5 *Metaph*.:  
 
 et secundum hoc dicitur aliquis ex libertate spiritus aliquid The Brussels manuscript omits *aliquid*. facere, quod The edited versions read *quia*. beneplacito suae voluntatis delectabiliter facit; timore autem servili, quod facit coactus metu poenae, et per consequens cum tristitia: mallet enim non facere, nisi poena timeretur. Patet igitur The Brussels manuscript reads *ergo*. quod servilitas ex illa parte consequitur timorem qua ad aliquid faciendum vel dimittendum inclinat.  
 
@@ -542,7 +544,7 @@ Ad tertium dicendum, quod Gregorius loquitur de timore ratione servilitatis, inq
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod quidquid est de substantia habitus, oportet quod in actu ejus relucescat, The edited versions read *elucescat*. eo quod quales sunt habitus, tales actus reddunt, ut dicitur in 2 *Ethic.*: non autem oportet quod omne quod accidit alicui habitui, semper in actu ejus manifestetur; sicut fidei informi accidit habere aliquid repugnans caritati; non tamen oportet quod semper in actu ejus caritati repugnans aliquid inveniatur.***
+Ad secundam quaestionem dicendum, quod quidquid est de substantia habitus, oportet quod in actu ejus relucescat, The edited versions read *elucescat*. eo quod quales sunt habitus, tales actus reddunt, ut dicitur in 2 *Ethic.*: non autem oportet quod omne quod accidit alicui habitui, semper in actu ejus manifestetur; sicut fidei informi accidit habere aliquid repugnans caritati; non tamen oportet quod semper in actu ejus caritati repugnans aliquid inveniatur.  
 
 Cum igitur servilitas timoris habitui accidat ex imperfectione subjecti, ut ex dictis patet, non oportet quod actus ejus semper conditionem The edited versions read *conditiones*. servilitatis in se habeat; sed poterit habere bonitatem proportionatam substantiae sui habitus, non scilicet meritoriam, sicut nec habitus habet bonitatem gratuitam. Et quia habitus perfectam rationem bonitatis non habet, ideo defectus alicujus debitae bonitatis in actu sive deordinatio The Bruges manuscript reads *ordinatio*. aliqua, non repugnat substantiae habitus, sicut repugnat omnis actus inordinatus habitui virtutis, qui habet bonitatem perfectam. Et propter hoc virtutis usus semper est bonus, peccati autem semper est malus; sed timoris servilis actus potest esse et bonus et malus.  
 
@@ -554,7 +556,7 @@ Ad tertium dicendum, quod non semper timere serviliter est actus timoris servili
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod timor servilis manet adveniente caritate quantum ad substantiam, sed non quantum ad servilitatem. Constat enim quod homo caritatem habens timet poenas aeternas, quod erat proprium objectum ejus quantum ad substantiam habitus: quod enim haec plus quam alia timeat, non est de ratione habitus, sed de ratione servilitatis.***
+Ad tertiam quaestionem dicendum, quod timor servilis manet adveniente caritate quantum ad substantiam, sed non quantum ad servilitatem. Constat enim quod homo caritatem habens timet poenas aeternas, quod erat proprium objectum ejus quantum ad substantiam habitus: quod enim haec plus quam alia timeat, non est de ratione habitus, sed de ratione servilitatis.  
 
 Et per hoc patet solutio The Bruges manuscript adds *ad objecta*. ad utramque partem locutionis. The Bruges manuscript omits *locutionis*; the Piana and Antwerp editions read *rationis*; the Nicolaï, Venice (2nd ed.), Parma, and Vivès editions reads *rationum* against the Brussels and Paris (841 and 842) manuscripts.  
 
@@ -564,7 +566,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod timor castus sit idem in substantia cum timore servili.***
+Ad tertium sic proceditur. Videtur quod timor castus sit idem in substantia cum timore servili.  
 
 Sicut enim se habet timor servilis ad fidem informem, ita timor castus se habet ad fidem formatam. Ergo commutatim, sicut se habet fides informis ad fidem formatam, ita se habet timor servilis ad castum. Sed fides formata est idem in substantia cum fide informi. Ergo et timor castus cum servili.  
 
@@ -578,7 +580,7 @@ Praeterea, habitus diversificantur per actus et objecta. Sed inhonestum vel turp
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod initialis differat secundum substantiam a casto. Initialis enim The Bruges manuscript reads *etiam*. includit servilem, quia timet poenam. Sed servilis secundum substantiam habitus differt a casto. Ergo et initialis.***
+Ulterius. Videtur quod initialis differat secundum substantiam a casto. Initialis enim The Bruges manuscript reads *etiam*. includit servilem, quia timet poenam. Sed servilis secundum substantiam habitus differt a casto. Ergo et initialis.  
 
 Praeterea, idem non dividitur contra seipsum. Sed timor castus in littera dividitur contra initialem. Ergo non est idem secundum substantiam cum ipso.  
 
@@ -590,7 +592,7 @@ Praeterea, habitus distinguuntur per actus et objecta. Sed idem est objectum quo
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod timor castus diminuatur caritate crescente. Timor enim initialis et castus, ut probatum est, sunt idem secundum substantiam. Sed timor initialis decrescit caritate crescente, ut in littera dicitur. Ergo et timor castus.***
+Ulterius. Videtur quod timor castus diminuatur caritate crescente. Timor enim initialis et castus, ut probatum est, sunt idem secundum substantiam. Sed timor initialis decrescit caritate crescente, ut in littera dicitur. Ergo et timor castus.  
 
 Praeterea, omnis timor habet poenam, ut dicitur 1 Joan. 4. Sed caritas perfecta non habet poenam. Ergo quanto crescit caritas, tanto quilibet timor decrescit.  
 
@@ -602,7 +604,7 @@ Praeterea, amor est timoris causa. Sed crescente causa crescit effectus. Ergo ca
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod timor evacuetur gloria adveniente. Ratio enim timoris est possibilitas ad malum. Sed in illis qui sunt in gloria, non est possibilitas ad aliquod malum, quod est timoris objectum. Ergo non erit ibi timor aliquis.***
+Ulterius. Videtur quod timor evacuetur gloria adveniente. Ratio enim timoris est possibilitas ad malum. Sed in illis qui sunt in gloria, non est possibilitas ad aliquod malum, quod est timoris objectum. Ergo non erit ibi timor aliquis.  
 
 Praeterea, spes videtur esse majoris perfectionis quam timor: quia spes perficitur per fortitudinem cordis, timor autem per debilitatem, ut dictum est. Sed spes non manet in patria. Ergo multo minus timor.  
 
@@ -614,7 +616,7 @@ Praeterea, timor debetur summae majestati. Malachiae 1:6: *si ego Dominus, ubi e
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod duplex est malum: quoddam quod consistit in voluntate ejus cui inest, quod dicitur malum culpae; quoddam vero est malum contra voluntatem ejus cui inest, quod dicitur malum poenae.***
+Respondeo dicendum ad primam quaestionem, quod duplex est malum: quoddam quod consistit in voluntate ejus cui inest, quod dicitur malum culpae; quoddam vero est malum contra voluntatem ejus cui inest, quod dicitur malum poenae.  
 
 Malum autem culpae abhorret quis vel ex hoc quod declinat a rectitudine rationis, et sic est timor inhonesti contrarii, inditus cuilibet virtuti; vel, ex hoc quod declinare facit ab ipso Deo, et sic pertinet ad donum timoris. Horror autem declinationis a regula aliqua, est propter amorem regulae. Unde timor qui est donum, causatur ex amore Dei; et ideo dicitur timor amicabilis vel filialis, inquantum Deus dicitur Pater noster; vel etiam castus, inquantum Deus dicitur metaphorice sponsus animarum nostrarum.  
 
@@ -628,7 +630,7 @@ Ad tertium dicendum, quod illud quod est ratio alterius sicut formaliter complen
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod in quolibet dictorum est considerare duos actus. Unum principalem, quem timor elicit, scilicet refugere hoc malum vel illud. Alius est The Bruges manuscript reads *alium*. secundarius The Bruges manuscript reads *secundarium*. quem timor imperat, scilicet facere aut dimittere hoc vel illud propter fugam illius mali cujus est timor.***
+Ad secundam quaestionem dicendum, quod in quolibet dictorum est considerare duos actus. Unum principalem, quem timor elicit, scilicet refugere hoc malum vel illud. Alius est The Bruges manuscript reads *alium*. secundarius The Bruges manuscript reads *secundarium*. quem timor imperat, scilicet facere aut dimittere hoc vel illud propter fugam illius mali cujus est timor.  
 
 Timor igitur The Brussels manuscript and the edited versions read *ergo*. initialis The Bruges manuscript adds *et castus*. quantum ad primum actum non differt The Bruges manuscript reads differunt. a timore casto: quia timere poenas aeternas non est actus timoris initialis, sed compatitur secum istum actum, sicut et timor castus: sed actus timoris initialis est timere separationem, sicut et casti; quamvis non ita perfecte. Sed in secundo actu differt The Bruges and Paris (841 and 842) manuscripts read *differunt*. castus timor et initialis: quia initialis non solum imperat actum aliquem vel dimissionem propter separationem, sed etiam propter poenam: quod non contingit in timore casto, qui ad solam separationem oculum habet.  
 
@@ -642,7 +644,7 @@ Ad tertium dicendum, quod timor servilis differt in objecto, et per consequens i
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod in istis timoribus est duplex actus, ut dictum est.***
+Ad tertiam quaestionem dicendum, quod in istis timoribus est duplex actus, ut dictum est.  
 
 Si igitur The edited versions read *ergo*. loquamur de actu elicito, sic aliter dicendum est in timore servili, et aliter in initiali et casto. Actus enim elicitus a timore initiali et casto est timere separationem, ad quod duo requiruntur: unum ex parte subjecti, quod imperfectionis est; scilicet possibilitas ad separationem, quia de impossibili non est timor; aliud ex parte objecti, scilicet amor ejus a quo quis timet separari, quia ab eo quod quis non amat, separari non curat; et hoc perfectionis est.  
 
@@ -656,7 +658,7 @@ Ad tertium et ad alia sequentia patet solutio per id quod dictum est in corp.
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod timor, proprie loquendo, habet malum pro objecto: non autem quodlibet malum, sed malum in arduo constitutum: alias non esset in irascibili. Malum autem quod facile vinci aut The Bruges manuscript reads *vel*. vitari potest, non timemus; sed odimus tantum. Malum autem separationis a Deo est in arduissimo constitutum: unde quando possibilitas ad hoc malum tolletur, remanebit adhuc operatioPLE: *comparatio*. The Bruges manuscript reads *comparatio*. hominis ad Deum ut ad arduum; et ideo tolletur timor quantum ad hunc actum qui est timere separationem, sed manebit quantum ad actum qui est admirari vel revereri illud arduum, quod fit quando ex consideratione tantae altitudinis homo in propriam resilit parvitatem.***
+Ad quartam quaestionem dicendum, quod timor, proprie loquendo, habet malum pro objecto: non autem quodlibet malum, sed malum in arduo constitutum: alias non esset in irascibili. Malum autem quod facile vinci aut The Bruges manuscript reads *vel*. vitari potest, non timemus; sed odimus tantum. Malum autem separationis a Deo est in arduissimo constitutum: unde quando possibilitas ad hoc malum tolletur, remanebit adhuc operatioPLE: *comparatio*. The Bruges manuscript reads *comparatio*. hominis ad Deum ut ad arduum; et ideo tolletur timor quantum ad hunc actum qui est timere separationem, sed manebit quantum ad actum qui est admirari vel revereri illud arduum, quod fit quando ex consideratione tantae altitudinis homo in propriam resilit parvitatem.  
 
 Et per hoc patet solutio ad primum.  
 
@@ -666,7 +668,7 @@ Ad tertium dicendum, quod subdi superiori est de perfectione creaturae, non aute
 
 Quaestio 3  
 
-***Deinde quaeritur de aliis duobus donis exsequentibus: The edited versions read *subsequentibus*.***
+Deinde quaeritur de aliis duobus donis exsequentibus: The edited versions read *subsequentibus*.  
 
 et primo quaeritur de fortitudine;  
 
@@ -678,7 +680,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod fortitudo quae est donum, non differat a fortitudine quae est virtus.***
+Ad primum sic proceditur. Videtur quod fortitudo quae est donum, non differat a fortitudine quae est virtus.  
 
 Quia secundum Dionysium in *De cael. hierar.*, spiritualium proprietates ex nominibus nos oportet accipere. Sed habitus virtutis et donum The Piana and Antwerp editions read *habitus, virtutes, et donum*; the Parma edition reads *et doni*. communicant in nomine fortitudinis. Ergo communicant in proprietate; et ita videntur esse idem secundum rem.  
 
@@ -692,7 +694,7 @@ Praeterea, in lib. *De spiritu et anima* dicitur, quod fortitudinis est non tant
 
 Quaestiuncula 2  
 
-***Ulterius. Quaeritur, quis sit actus ejus in via. Et videtur quod non habeat unum actum. Quia, sicut communiter dicitur, fortitudo exequitur in illis ad quae non omnes tenentur, in quibus etiam consilium dirigit, sicut sunt opera supererogationis. Sed haec non possunt reduci ad unum actum secundum speciem, cum hujusmodi opera fere secundum omnes virtutes inveniantur. Ergo fortitudo non habet unum actum secundum speciem.***
+Ulterius. Quaeritur, quis sit actus ejus in via. Et videtur quod non habeat unum actum. Quia, sicut communiter dicitur, fortitudo exequitur in illis ad quae non omnes tenentur, in quibus etiam consilium dirigit, sicut sunt opera supererogationis. Sed haec non possunt reduci ad unum actum secundum speciem, cum hujusmodi opera fere secundum omnes virtutes inveniantur. Ergo fortitudo non habet unum actum secundum speciem.  
 
 Praeterea, Gregorius dicit, quod spiritus fortitudinis est miraculis et doctrina fulgere. Sed haec duo sunt diversa genera et ad invicem, et ad alios actus, qui dono fortitudinis assignantur. Ergo idem quod prius.  
 
@@ -704,7 +706,7 @@ Praeterea, donum est simplicius quam virtus, cum sit sublimius. Sed fortitudo vi
 
 Quaestiuncula 3  
 
-***Ulterius. Quaeritur de actu fortitudinis in patria. Et videtur quod ibi nullum actum habeat. Quia in quarta beatitudine ponitur ad statum gloriae pertinens saturari. Sed hoc non significat aliquem actum. Cum ergo quarta beatitudo dono fortitudinis adaptetur, videtur quod non habeat aliquem actum in patria.***
+Ulterius. Quaeritur de actu fortitudinis in patria. Et videtur quod ibi nullum actum habeat. Quia in quarta beatitudine ponitur ad statum gloriae pertinens saturari. Sed hoc non significat aliquem actum. Cum ergo quarta beatitudo dono fortitudinis adaptetur, videtur quod non habeat aliquem actum in patria.  
 
 Praeterea, proprium fortitudinis videtur esse difficilia sustinere. Sed in patria omnis difficultas tolletur: alias non esset ibi summa delectatio. Ergo non erit ibi actus fortitudinis.  
 
@@ -716,7 +718,7 @@ Praeterea, habitus sine actu est similis somno, secundum Philosophum in 1 *Ethic
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod dona a virtutibus, ut dictum est, differunt, inquantum dona altiori modo operantur; et secundum hoc oportet accipere differentiam doni fortitudinis a fortitudinis virtute. The Bruges manuscript reads *fortitudine quae est virtus*. Modus autem unicuique The Brussels manuscript adds *rei*. ex propria mensura praefigitur, ut dictum est prius.***
+Respondeo dicendum ad primam quaestionem, quod dona a virtutibus, ut dictum est, differunt, inquantum dona altiori modo operantur; et secundum hoc oportet accipere differentiam doni fortitudinis a fortitudinis virtute. The Bruges manuscript reads *fortitudine quae est virtus*. Modus autem unicuique The Brussels manuscript adds *rei*. ex propria mensura praefigitur, ut dictum est prius.  
 
 Unde sciendum est, quod fortitudinis virtus The Bruges manuscript reads *fortitudo quae est virtus per*. mensuram sui actus habet humanas vires; unde ea quae supergrediuntur vires hominis, neque aggreditur, neque sustinet. Unde Philosophus in 3 *Ethic*. dicit, quod fortis est instupefactibilis ut homo, in his scilicet terribilibus quae sunt secundum hominem. Sed donum fortitudinis habet pro mensura sui actus divinam potentiam, de cujus auxilio confidit, sicut dicitur in Psal. 17:30: *in Deo meo transgrediar murum*, idest omne quod posset The edited versions read *potest*. humanae infirmitati obviare.  
 
@@ -728,7 +730,7 @@ Ad tertium dicendum, quod virtus fortitudinis The Bruges manuscript reads *forti
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod quanto aliqua potentia altior est, tanto ad plura se extendit. Et quia humana facultas est infirmaPLE: *infima*. respectu divinae facultatis, ideo ad diversas difficultates sunt ordinatae diversae humanae facultates, et quandoque separantur ab invicem; aliquis enim habet facultatem ut facile superare possit difficultates quae sunt in delectationibus, qui tamen non facile superare potest difficultates quae sunt in passionibus illatis; et sic de aliis. Sed divina facultas est una et eadem respectu omnium praedictarum difficultatum.***
+Ad secundam quaestionem dicendum, quod quanto aliqua potentia altior est, tanto ad plura se extendit. Et quia humana facultas est infirmaPLE: *infima*. respectu divinae facultatis, ideo ad diversas difficultates sunt ordinatae diversae humanae facultates, et quandoque separantur ab invicem; aliquis enim habet facultatem ut facile superare possit difficultates quae sunt in delectationibus, qui tamen non facile superare potest difficultates quae sunt in passionibus illatis; et sic de aliis. Sed divina facultas est una et eadem respectu omnium praedictarum difficultatum.  
 
 Et ideo, quia fortitudinis virtus facultati humanae innititur, non est respectu omnium difficultatum, sed respectu aliquarum, quae sunt maximae in genere humanarum; unde excellenter fortitudinis nomen habet: ad alias autem difficultates sunt ordinatae aliae virtutes, quae sunt facultates quaedam. Sed fortitudinis donum utitur divina voluntate quasi sua, secundum quod in Psal. 17:1, dicitur: *diligam te Domine virtus* The Bruges manuscript omits *virtus*. *mea*; et ideo unum donum fortitudinis se extendit ad omnes difficultates quae in humanis rebus possunt accidere etiam The Bruges manuscript reads *et*. supra facultatem humanam, sicut Apostolus dicebat The Bruges manuscript reads *dicit*. Philipp. ult., 13: *omnia possum in eo qui me confortat*. Et ideo oportet actum doni fortitudinis accipere circa omnia difficilia proportionaliter The edited versions read *proportionabiliter*. actui fortitudinisPLE: *fortitudinis virtutis*. virtutis The Bruges manuscript reads *quae est virtus*. circa quaedam difficilia.  
 
@@ -744,7 +746,7 @@ Ad tertium dicendum, quod illa quamvis pertineant ad diversas virtutes, possunt 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod quicumque hoc The Bruges (841) manuscript as well as the The Nicolaï, Venice (2nd ed.), Parma, and Vivès editions omit *hoc*. operatur secundum aliquam mensuram, oportet quod habeat aliquem actum secundum quem respicit ad mensuram illam, The Brussels manuscript omits *illam*. et aliquem secundum quem respicit ad mensuratum. The Bruges, Brussels, and Paris (841) manuscripts omit *et aliquem secundum quem respicit ad mensuratum* against the Paris (842) manuscript and the edited versions. Unde cum fortitudo mensuret actum suum circa difficultates ex divina potestate, habet aliquem actum in comparatione The Paris (841) manuscript omits *ad difficultates quas sustinet vel aggreditur, et aliquem in comparatione* through homoteleuton. ad difficultates quas sustinet vel aggreditur, et aliquem in comparatione ad divinam potestatem, cui innititur; et primus actus non erit in patria, ubi difficultas nulla erit; sed secundus erit ibi, quia perfectissime divinae potentiae innitetur.***
+Ad tertiam quaestionem dicendum, quod quicumque hoc The Bruges (841) manuscript as well as the The Nicolaï, Venice (2nd ed.), Parma, and Vivès editions omit *hoc*. operatur secundum aliquam mensuram, oportet quod habeat aliquem actum secundum quem respicit ad mensuram illam, The Brussels manuscript omits *illam*. et aliquem secundum quem respicit ad mensuratum. The Bruges, Brussels, and Paris (841) manuscripts omit *et aliquem secundum quem respicit ad mensuratum* against the Paris (842) manuscript and the edited versions. Unde cum fortitudo mensuret actum suum circa difficultates ex divina potestate, habet aliquem actum in comparatione The Paris (841) manuscript omits *ad difficultates quas sustinet vel aggreditur, et aliquem in comparatione* through homoteleuton. ad difficultates quas sustinet vel aggreditur, et aliquem in comparatione ad divinam potestatem, cui innititur; et primus actus non erit in patria, ubi difficultas nulla erit; sed secundus erit ibi, quia perfectissime divinae potentiae innitetur.  
 
 Ad primum ergo dicendum, quod etiam in corporalibus quamvis saturitas non nominet aliquem actum, tamen aliquem The edited versions read *aliquid*. praesupponit, scilicet sumptionem cibi; ita et saturitas quae ibi ponitur, quae est repletio omnium ex quorum defectu difficultas The Piana and Antwerp editions read *facilitas*. contingebat, praesupponit quemdam spiritualem The Piana and Antwerp editions read *specialem*. esum, secundum quem homo ab ipsa divina potentia bona praedicta sumit, ei innixus.  
 
@@ -772,7 +774,7 @@ Praeterea, pietas videtur esse excellentissimum in tota Christiana vita: quia ad
 
 Quaestiuncula 2  
 
-***Ulterius. Quaeritur de actu pietatis quam habet in via. Et videtur quod non habeat unum actum secundum speciem. Augustinus enim in lib. *De doct. Christiana* dicit, quod pietatis est honorare sanctos, non contradicere Scripturae, sive intellectae, sive non intellectae: et loquitur ibi de dono pietatis: quod patet ex his quae dicit in quodam sermone de Trinitate, ubi eumdem actum attribuit pietati, ad quem secundo loco inter dona ascenditur. The Brussels manuscript reads *attenditur*. Gregorius autem assignat ei pro actu misericordiae operibus insistere. Ergo cum ista duo The manuscripts as well as the Piana and Antwerp editions read *dona* against the Nicolaï, Venice (2nd ed.), Parma, and Vivès editions  non reducantur in idem genus, videtur quod actus pietatis non sit The Parma edition adds *in*. idem secundum speciem.***
+Ulterius. Quaeritur de actu pietatis quam habet in via. Et videtur quod non habeat unum actum secundum speciem. Augustinus enim in lib. *De doct. Christiana* dicit, quod pietatis est honorare sanctos, non contradicere Scripturae, sive intellectae, sive non intellectae: et loquitur ibi de dono pietatis: quod patet ex his quae dicit in quodam sermone de Trinitate, ubi eumdem actum attribuit pietati, ad quem secundo loco inter dona ascenditur. The Brussels manuscript reads *attenditur*. Gregorius autem assignat ei pro actu misericordiae operibus insistere. Ergo cum ista duo The manuscripts as well as the Piana and Antwerp editions read *dona* against the Nicolaï, Venice (2nd ed.), Parma, and Vivès editions  non reducantur in idem genus, videtur quod actus pietatis non sit The Parma edition adds *in*. idem secundum speciem.  
 
 Praeterea, pietas, ut communiter dicitur, in eisdem exequiturOther editions read *exquiritur* or *requiritur*. in quibus scientia dirigit. Sed scientia dirigit in omnibus actibus humanis, quia docet conversari sine offensione in medio pravae et perversae nationis. Ergo et pietas est circa omnes humanos actus; et ita non habet solum unum actum in specie.  
 
@@ -782,7 +784,7 @@ Sed contra, est unus habitus. Ergo habet unum actum principalem.
 
 Quaestiuncula 3  
 
-***Ulterius. Quaeritur de actu ejus in patria. Et videtur quod non habeat ibi aliquem actum. Quia pietas in communicationibus consistit quae ad alterum sunt. Sed hujusmodi communicationes non erunt in patria, quia omnes sufficientiam ibi The Bruges manuscript reads *sibi*. a Deo accipient: propter insufficientiam enim uniuscujusque in se introductae sunt communicationes, ut patet per Philosophum in 5 *Ethic.* Ergo non erit ibi pietatis actus.***
+Ulterius. Quaeritur de actu ejus in patria. Et videtur quod non habeat ibi aliquem actum. Quia pietas in communicationibus consistit quae ad alterum sunt. Sed hujusmodi communicationes non erunt in patria, quia omnes sufficientiam ibi The Bruges manuscript reads *sibi*. a Deo accipient: propter insufficientiam enim uniuscujusque in se introductae sunt communicationes, ut patet per Philosophum in 5 *Ethic.* Ergo non erit ibi pietatis actus.  
 
 Praeterea, ad pietatem pertinet misericordiae opera frequentare, ut dictum est per auctoritatem Gregorii. Sed ibi non erunt opera misericordiae, ubi nulla erit miseria. Ergo actus pietatis non erit in patria.  
 
@@ -794,7 +796,7 @@ Praeterea, in patria nihil erit otiosum et frustra. Sed habitus frustra esset, s
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod tota moralis materia in tres partes dividitur: scilicet in delectabilia, quae carnalis affectus prosequitur; in difficilia, quae refugit; et in communicabilia, quae ad alterum sunt, quae potius in actione quam passione consistunt. In singulis ergo eorum dirigit et donum et virtus, sed differenter. Virtus enim dirigit in his accipiens regulam aliquid humanum, sed donum accipiens pro regula aliquid divinum. In delectationibus ergo virtute dirigimur quasi dignitate humanae naturae, cujus deturpationem per temporales delectationes refugimus; sed dono dirigimur quasi regula ipsa dignitate divina, a qua separari per inquinationem hujusmodi bonorum refugimus; quod ad timorem pertinet. Similiter patet ex dictis, art. 1, quaestiunc. 1, quod differenter dirigit donum fortitudinis a virtutibus, quae ad difficultates sustinendas vel aggrediendas ordinantur. Et similiter contingit in communicationibus quae ad alterum sunt: quia in his dirigunt virtutes, accipientes pro mensura aliquid humanum, puta observantes decentiam, vel debitum ejus qui communicationes facit; sed donum accipit in his regulam ipsum Deum, ut sicut dictum est, in fortitudine The edited versions read *quod in fortitudine*. quod homo aggreditur difficilia utens divina potentia per confidentiam quasi sua; ita communicat se ad alterum utens Deo quasi seipso, ut scilicet ea quae ipsum decent in hujusmodi communicationibus, quasi Deo unitus exequatur. Unde Dominus, Matth. 5, ad beneficentiam caelestis Patris hortatur, qui solem suum facit oriri super bonos et malos. Et quia communicatio quae ad divina est, nomen pietatis habet; ideo et donum quod in communicationibus divinam mensuram habet, pietas nominatur.***
+Respondeo dicendum ad primam quaestionem, quod tota moralis materia in tres partes dividitur: scilicet in delectabilia, quae carnalis affectus prosequitur; in difficilia, quae refugit; et in communicabilia, quae ad alterum sunt, quae potius in actione quam passione consistunt. In singulis ergo eorum dirigit et donum et virtus, sed differenter. Virtus enim dirigit in his accipiens regulam aliquid humanum, sed donum accipiens pro regula aliquid divinum. In delectationibus ergo virtute dirigimur quasi dignitate humanae naturae, cujus deturpationem per temporales delectationes refugimus; sed dono dirigimur quasi regula ipsa dignitate divina, a qua separari per inquinationem hujusmodi bonorum refugimus; quod ad timorem pertinet. Similiter patet ex dictis, art. 1, quaestiunc. 1, quod differenter dirigit donum fortitudinis a virtutibus, quae ad difficultates sustinendas vel aggrediendas ordinantur. Et similiter contingit in communicationibus quae ad alterum sunt: quia in his dirigunt virtutes, accipientes pro mensura aliquid humanum, puta observantes decentiam, vel debitum ejus qui communicationes facit; sed donum accipit in his regulam ipsum Deum, ut sicut dictum est, in fortitudine The edited versions read *quod in fortitudine*. quod homo aggreditur difficilia utens divina potentia per confidentiam quasi sua; ita communicat se ad alterum utens Deo quasi seipso, ut scilicet ea quae ipsum decent in hujusmodi communicationibus, quasi Deo unitus exequatur. Unde Dominus, Matth. 5, ad beneficentiam caelestis Patris hortatur, qui solem suum facit oriri super bonos et malos. Et quia communicatio quae ad divina est, nomen pietatis habet; ideo et donum quod in communicationibus divinam mensuram habet, pietas nominatur.  
 
 Ad primum ergo The edited versions read *igitur*. dicendum, quod donum immediatius ordinat ad Deum quantum ad modum operandi, sive mensuram operis, quam virtus; non autem quantum ad objectum vel finem. Quamvis ergo pietas virtus, quae latria dicitur, ipsi Deo exhibeatur; in hoc tamen accipit aliquid humanum pro mensura, scilicet beneficium a Deo acceptum, ratione cujus est debitor ei: sed pietas quae est donum, accipit in hoc aliquid divinum pro mensura, ut scilicet Deo honorem impendat, non quia sit ei debitus, sed quia Deus honore dignus est, per quem modum etiam ipse Deus sibi honori est.  
 
@@ -804,7 +806,7 @@ Ad tertium dicendum, quod etiam in parentibus est aliquid divinum respectu filio
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod pietas donum uno et eodem modo The Bruges and Paris (842) manuscripts omit *modo*; the Paris (842) manuscript adds by the following hand. dirigit in communicationibus omnibus quae ad alterum sunt, aliam tamen mensuram accipiens quam virtutes: quae mensura, quia simplex est et una, ideo pietas unus habitusPLE: *unus habitus est*. est; The Bruges manuscript adds *quasi*; the Piana and Antwerp editions add *spiritualis*; the Nicolaï, Venice (2nd ed.), and Parma editions add *specialis*. et ex comparatione ad hanc mensuram omnis ejus actus specificatur.***
+Ad secundam quaestionem dicendum, quod pietas donum uno et eodem modo The Bruges and Paris (842) manuscripts omit *modo*; the Paris (842) manuscript adds by the following hand. dirigit in communicationibus omnibus quae ad alterum sunt, aliam tamen mensuram accipiens quam virtutes: quae mensura, quia simplex est et una, ideo pietas unus habitusPLE: *unus habitus est*. est; The Bruges manuscript adds *quasi*; the Piana and Antwerp editions add *spiritualis*; the Nicolaï, Venice (2nd ed.), and Parma editions add *specialis*. et ex comparatione ad hanc mensuram omnis ejus actus specificatur.  
 
 Ad primum ergo The edited versions read *igitur*. dicendum, quod donum pietatis operatur et in materia latriae et in materia misericordiae, quamvis alio modo ab eis; et ideo non est inconveniens, si illa duo ad pietatem pertineant: The edited versions read *pertinent*. exhibere enim reverentiam Sacrae Scripturae et aliis divinis, ad latriam pertinere videtur.  
 
@@ -814,7 +816,7 @@ Ad tertium dicendum, quod ira et perturbat hominem in seipso, et commovet eum ad
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod de actu pietatis plus potest in patria remanere quam de actu fortitudinis: potest enim non tantum remanere actus qui est per comparationem ad mensuram quam pietas donum attendit, scilicet adhaerere ipsi Deo; sed etiam actus qui est per comparationem ad eos quibus beneficia praestare paratus erat secundum affectum, ut scilicet benevolentiam ad eos servet, et de eorum bonis congaudeat, et de suis etiam largiatur secundum modum istius vitae, secundum quem superiores aliquid influunt inferioribus, secundum doctrinam Dionysii.***
+Ad tertiam quaestionem dicendum, quod de actu pietatis plus potest in patria remanere quam de actu fortitudinis: potest enim non tantum remanere actus qui est per comparationem ad mensuram quam pietas donum attendit, scilicet adhaerere ipsi Deo; sed etiam actus qui est per comparationem ad eos quibus beneficia praestare paratus erat secundum affectum, ut scilicet benevolentiam ad eos servet, et de eorum bonis congaudeat, et de suis etiam largiatur secundum modum istius vitae, secundum quem superiores aliquid influunt inferioribus, secundum doctrinam Dionysii.  
 
 Ad primum ergo dicendum, quod non erit communicatio ad supplendam indigentiam, sed ad augendam laetitiam.  
 
@@ -824,7 +826,7 @@ Ad tertium dicendum, quod possessio terrae praesupponit haustum sufficientiae a 
 
 Expositio textus  
 
-****Hic timor malus est*. Non enim quandocumque timetur periculum carnis, dicitur timor humanus; neque quando timetur amissio boni temporalis, dicitur timor mundanus; sed tantum quando talis timor est inordinatus; et ideo semper sonat in malum.***
+*Hic timor malus est*. Non enim quandocumque timetur periculum carnis, dicitur timor humanus; neque quando timetur amissio boni temporalis, dicitur timor mundanus; sed tantum quando talis timor est inordinatus; et ideo semper sonat in malum.  
 
 *Cum autem*The Nicolaï, Venice (2nd ed.), Parma, and Vivès editions read *cum supra Beda duos dixerit esse timores*. *Beda dixit* etc. Beda distinxit timores secundum quod retrahunt a malo culpae, et distinxit secundum retrahentia, quae sunt duo, poena futura, et separatio a Deo. Sed Magister distinxit timores secundum inclinationes ad malum et secundum retractionem, non solum quantum ad motiva, sed etiam quantum ad status.  
 

@@ -1,5 +1,7 @@
 # On Things above Man
 
+***De Deo***
+
 ***Quaestio 1***
 
 ***Quantum ad suum esse***
@@ -12,9 +14,9 @@ Circa primum quaesitum est de Deo quantum ad suum esse, quantum ad suam potentia
 
 Articulus unicus  
 
-***Utrum in Deo sit tantum unum esse, scilicet essentiale, aut praeter illud sit etiam in Deo esse personale***
+Utrum in Deo sit tantum unum esse, scilicet essentiale, aut praeter illud sit etiam in Deo esse personale  
 
-***Circa primum quaesitum est utrum in Deo sit tantum unum esse, scilicet essentiale, vel praeter illud sit etiam in Deo esse personale. Et videtur quod sic.***
+Circa primum quaesitum est utrum in Deo sit tantum unum esse, scilicet essentiale, vel praeter illud sit etiam in Deo esse personale. Et videtur quod sic.  
 
 Quia aliud est Patrem esse, aliud Filium esse et aliud Spiritum Sanctum esse; sed esse essentiale non est aliud et aliud; ergo etc.  
 
@@ -42,13 +44,13 @@ Articulus 1
 
 ***Utrum Deus possit facere contradictoria esse simul***
 
-***Responsio. Ad primum dicendum quod non. Et hoc non importat in Deo imperfectionem potentiae, sed quia hoc non habet rationem possibilis. Nam omnis virtus activa producit effectum similem sibi; omne autem quod agit, agit inquantum est ens actu; ergo effectus agentis est ens actu; quicquid ergo repugnat ei quod est esse actu, repugnat potentiae activae. Quod esset, si contradictoria simul essent.***
+Responsio. Ad primum dicendum quod non. Et hoc non importat in Deo imperfectionem potentiae, sed quia hoc non habet rationem possibilis. Nam omnis virtus activa producit effectum similem sibi; omne autem quod agit, agit inquantum est ens actu; ergo effectus agentis est ens actu; quicquid ergo repugnat ei quod est esse actu, repugnat potentiae activae. Quod esset, si contradictoria simul essent.  
 
 Articulus 2  
 
 ***Utrum possit facere infinita in actu***
 
-***Ad secundum dicendum quod esse aliquid infinitum actu posset suspicari ex primo aspectu quod esset impossibile, quia sequeretur illud esse aequale Deo. Sed hoc non sequitur, quia ei quod est infinitum omnibus modis non adaequatur illud quod est infinitum uno modo: dato enim quod esset ignis infinitus secundum magnitudinem, non adaequabitur Deo, quia, etsi sit infinitus ignis in quantitate, tamen est quid finitum specie, Deus autem omnibus modis est infinitus.***
+Ad secundum dicendum quod esse aliquid infinitum actu posset suspicari ex primo aspectu quod esset impossibile, quia sequeretur illud esse aequale Deo. Sed hoc non sequitur, quia ei quod est infinitum omnibus modis non adaequatur illud quod est infinitum uno modo: dato enim quod esset ignis infinitus secundum magnitudinem, non adaequabitur Deo, quia, etsi sit infinitus ignis in quantitate, tamen est quid finitum specie, Deus autem omnibus modis est infinitus.  
 
 Cum ergo quaeritur utrum sit possibile Deo facere aliquod infinitum in actu, dicendum quod non. Potentiae enim agentis per intellectum aliquid repugnat dupliciter: uno modo quia repugnat potentiae eius; alio modo quia repugnat modo quo agit. Primo modo non repugnat potentiae Dei absolute, quia non implicat contradictionem. Sed, si consideretur modus quo Deus agit, non est possibile: Deus enim agit per suum intellectum et per Verbum, quod est formativum omnium; unde oportet quod omnia quae agit sint formata. Infinitum autem accipitur sicut materia sine forma, nam infinitum se tenet ex parte materiae. Si ergo Deus hoc ageret, sequeretur quod opus Dei esset aliquid informe, et hoc repugnat ei per quod agit et modo agendi, quia per Verbum suum omnia agit, quo omnia formantur.  
 

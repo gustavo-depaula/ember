@@ -1,5 +1,7 @@
 # Proposition 9
 
+79. Every constancy and essence of intelligence exists through the pure quality of goodness which is the first cause.  
+
 > 80. And indeed the power of intelligence is of a stronger unity than the second things that are after it, because they do not attain its cognition. And it is only this way because it is the cause for that which is below it.
 
 > 81. And an indication of this is that which we shall discuss: intelligence is what rules all things which are under it by the divine power that is in it and through it it conserves things, since through it, it is the cause of things; and it retains all things which are under it, and comprehends them.

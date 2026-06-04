@@ -1,5 +1,7 @@
 # Preface of St. Jerome
 
+Nemo, cum prophetas versibus viderit esse descriptos, metro eos estimet apud Hebreos ligari, et aliquid simile habere de Psalmis vel operibus Salomonis. Sed quod in Demostene et Tullio solet fieri, ut per cola scribantur et comata, qui utique prosa et non versibus scripserunt, nos quoque utilitati legentium providentes interpretationem novam novo scribendi genere distinximus.  
+
 Ac primum de Isaia sciendum quod in sermone suo disertus sit, quippe ut vir nobilis et urbane elegantie, nec habens quicquam in eloquio rusticitatis admixtum; unde accidit ut prae ceteris florem sermonis ejus translatio non potuerit conservare.  
 
 Deinde etiam hoc adiciendum quod non tam propheta dicendus sit quam evangelista: ita enim universa Christi Ecclesiaeque mysteria ad liquidum prosecutus est, ut non eum putes de futuro vaticinari sed de praeteritis historiam texere. Unde conicio noluisse tunc temporis Septuaginta interpretes fidei suae sacramenta perspicue ethnicis prodere, ne sanctum canibus et margaritas porcis darent; quae, cum hanc editionem legeritis, ab illis animadvertetis abscondita.  

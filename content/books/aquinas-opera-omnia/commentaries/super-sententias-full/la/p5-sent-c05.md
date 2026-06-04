@@ -1,6 +1,8 @@
 # D. 4 - Agencies in the conception of Christ
 
-***Postquam determinavit de Incarnatione ex parte assumpti, ostendens quid assumptum est, et cujus conditionis fuerit antequam assumeretur, in ista parte determinat de effectivo ipsius assumpti; et dividitur in duas partes:***
+***Divisio textus***
+
+Postquam determinavit de Incarnatione ex parte assumpti, ostendens quid assumptum est, et cujus conditionis fuerit antequam assumeretur, in ista parte determinat de effectivo ipsius assumpti; et dividitur in duas partes:  
 
 in prima ostendit quare efficientia naturae assumptae Spiritui Sancto appropriatur;  
 
@@ -60,7 +62,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod nulli personae efficientia illa appropriari debeat.***
+Ad primum sic proceditur. Videtur quod nulli personae efficientia illa appropriari debeat.  
 
 Operatio enim Dei est sua essentia. Sed essentia est communis tribus personis, et nulli eorum appropriabilis. Ergo nec operatio divina, qua conceptio hominis Christi perfecta est, alicui personae debet appropriari.  
 
@@ -70,7 +72,7 @@ Sed contra, omnis operatioBruges, Brussels, and Paris (841, 842) manuscripts rea
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod debeat appropriari Patri: ipsi enim attribuitur potentia. Potentia autem activa quae solaEd. read *in solo*. in Deo est, est principium efficiendi. Ergo omnis efficientia Patri praecipue appropriari debet.***
+Ulterius, videtur quod debeat appropriari Patri: ipsi enim attribuitur potentia. Potentia autem activa quae solaEd. read *in solo*. in Deo est, est principium efficiendi. Ergo omnis efficientia Patri praecipue appropriari debet.  
 
 Praeterea, sicut supra Magister dixit,Ed. read *dicit*. Filii missio est ipsaEd. read *ejus*. Incarnatio. Sed aeterna missio Filii proprie attribuitur Patri. Ergo et efficientia Incarnationis debet Patri attribui.  
 
@@ -78,7 +80,7 @@ Sed contra, secundum Origenem, sicut generatio Filii aeterna est a Patre sine ma
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod sit attribuenda Filio. Sicut enim ex verbis Damasceni, 3 dist., habitum est, divina sapientia, sicut divinum semen, ex purissimis sanguinibusBruges manuscript adds *beatae*. Virginis sibi carnem copulavit. Sed semen, ut dicit Philosophus inEd. omit *in*. 2 *Physicor.*, est principium activum. Ergo efficientia Incarnationis Filio appropriari debet.***
+Ulterius, videtur quod sit attribuenda Filio. Sicut enim ex verbis Damasceni, 3 dist., habitum est, divina sapientia, sicut divinum semen, ex purissimis sanguinibusBruges manuscript adds *beatae*. Virginis sibi carnem copulavit. Sed semen, ut dicit Philosophus inEd. omit *in*. 2 *Physicor.*, est principium activum. Ergo efficientia Incarnationis Filio appropriari debet.  
 
 Praeterea, Bernardus in 5 *De Consid.* dicit, quod Dei sapientia est illa mulier evangelica, quae fermento fidei gloriosae Virginis tria sata commiscuit, scilicet novum, antiquum, et aeternum: novum in creatione animae de nihilo: antiquum in assumptione corporis de natura Adae: aeternum in unione Deitatis. Sed sapientia attribuitur Filio. Ergo efficientia Incarnationis Filio attribuenda est.  
 
@@ -86,7 +88,7 @@ Sed contra, inconveniens videtur quod aliqua res seipsam faciat, vel seipsam gen
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod non debeatEd. read *debet*. etiam appropriari Spiritui Sancto, ut dicatur de Spiritu Sancto conceptus. Spiritus enim Sanctus caritas est, et donum Dei, ut in 1 Lib., dist. 1, habitum est. Sed non convenienter dicitur Christus conceptus de caritate velBruges manuscript reads *conceptus caritate vel de dono Dei*. dono Dei. Ergo nec de Spiritu Sancto conceptus dici debet.***
+Ulterius, videtur quod non debeatEd. read *debet*. etiam appropriari Spiritui Sancto, ut dicatur de Spiritu Sancto conceptus. Spiritus enim Sanctus caritas est, et donum Dei, ut in 1 Lib., dist. 1, habitum est. Sed non convenienter dicitur Christus conceptus de caritate velBruges manuscript reads *conceptus caritate vel de dono Dei*. dono Dei. Ergo nec de Spiritu Sancto conceptus dici debet.  
 
 Praeterea, ut ex verbis Augustini habitum estBruges manuscript reads *dictum est*. 36 dist., 1 Lib.,The Vivès edition omits *1 libri*. haec praepositio de notatEd. read *denotat*. consubstantialitatem: unde non dicimus aliquid de aliquo fieri, nisi de ejus substantia sit: dicimus enim esse Filium de Patre; non autem caelum et terramBruges manuscript adds *esse*. de Deo. Sed Christus secundum hominem non est consubstantialis Spiritui Sancto. Ergo non debet dici de Spiritu Sancto natus.  
 
@@ -94,7 +96,7 @@ Sed contra, est quod dicitur Matth. 1:20: *quod enim in ea natum est, de Spiritu
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem dicendum, quod sicut dicit Dionysius, 2 cap. *De div. nom*., omne nomen Dei operationem in creaturam designans, communiterEd. omit *communiter*. toti Trinitati convenit: et ideo in qualibet operatione divina, appropriata trium personarum ostenduntur, scilicet sapientia, potentia, et bonitas: quae etiam in operatione Incarnationis ostensa sunt, ut Damascenus dicit: bonitas quidem, inquantum proprii plasmatis non despexit salutem;The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *infirmitatem*. potentia vero, inquantum maxime distantia conjunxit; sapientia vero, inquantum convenientem modum invenit ejus quod impossibile videbatur: justitia etiam in eo quod per modum satisfactionis salutem humanamEd. read *humani generis*. reparavit.***
+Respondeo ad primam quaestionem dicendum, quod sicut dicit Dionysius, 2 cap. *De div. nom*., omne nomen Dei operationem in creaturam designans, communiterEd. omit *communiter*. toti Trinitati convenit: et ideo in qualibet operatione divina, appropriata trium personarum ostenduntur, scilicet sapientia, potentia, et bonitas: quae etiam in operatione Incarnationis ostensa sunt, ut Damascenus dicit: bonitas quidem, inquantum proprii plasmatis non despexit salutem;The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *infirmitatem*. potentia vero, inquantum maxime distantia conjunxit; sapientia vero, inquantum convenientem modum invenit ejus quod impossibile videbatur: justitia etiam in eo quod per modum satisfactionis salutem humanamEd. read *humani generis*. reparavit.  
 
 Unaquaeque tamen operatio divina huic personae magis quam illi est appropriabilis, secundum quod in ea magis manifestatur attributum quod illi personae appropriatur. Bonitas autem divina secundum hoc in operatione Dei manifestatur quod sine sui indigentia ea quae sunt sua, creaturae communicat; et quanto ea quae communicantur, minus sunt creaturae debita,Ed. add *et*. quasi magis Deo propria, tanto magis bonitas divinaEd. read *Dei*. ostenditur, sicut sunt ea quae gratis naturae superadduntur: et propter hoc gratiae Spiritui Sancto attribuuntur, cui bonitas appropriatur.  
 
@@ -108,7 +110,7 @@ Tertium concedimus.
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum videtur, quod Patri appropriandaeThe Vivès edition reads *appropriatae*. sunt illae operationes divinae in quibus praecipue manifestatur potentia, propter quod opus creationis appropriatur Patri. Attenditur enim potentiaEd. add *Patris*. operantis in productione effectus; bonitas autem in liberali collatione. In opere igiturEd. read *ergo*. creationis res in esse productae sunt, non autem tunc aliquid eis collatum est supra id quod naturae ratio exigit, sicut est in opere recreationis, in quo res non omnino ex non esse producuntur, sed aliquid supra earum conditionem eis confertur: et ideo ea quae ad recreationem pertinent, Spiritui Sancto appropriantur, et non Patri.***
+Ad secundam quaestionem dicendum videtur, quod Patri appropriandaeThe Vivès edition reads *appropriatae*. sunt illae operationes divinae in quibus praecipue manifestatur potentia, propter quod opus creationis appropriatur Patri. Attenditur enim potentiaEd. add *Patris*. operantis in productione effectus; bonitas autem in liberali collatione. In opere igiturEd. read *ergo*. creationis res in esse productae sunt, non autem tunc aliquid eis collatum est supra id quod naturae ratio exigit, sicut est in opere recreationis, in quo res non omnino ex non esse producuntur, sed aliquid supra earum conditionem eis confertur: et ideo ea quae ad recreationem pertinent, Spiritui Sancto appropriantur, et non Patri.  
 
 Ad primum ergo circaEd. read *contra*. hoc objectum dicendum est, quod quamvis potentia principium activum per se nominet, tamen in agentibus per voluntatem voluntas est imperans quod potentia exequitur. Voluntatis autem objectum est bonum; et ideo principale in operatione agentis per voluntatem est bonitas, et quasi secundarium exequens est potentia; et praecipue quando tota ratio effectus est bonitas agentis: et ideo hujusmodi opera Spiritui Sancto appropriantur.  
 
@@ -116,7 +118,7 @@ Ad secundum dicendum, quod in Incarnatione duo sunt, scilicet persona assumens, 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut dicit Philosophus, 1 *Metaph.*, sapientis est ordinare: unde illae operationes divinae quae ad ordinationem Dei pertinent, sicut gubernare,Ed. read *gubernatio*. et hujusmodi, Filio attribuuntur, cui sapientia appropriatur. In opere autem Incarnationis attenditur quaedam gratuita collatio, qua humanae naturae datum est in unitatemEd. add *divinae*. personae assumi, et omni gratia repleri, sicut primum, et executio illius doni, sicut secundum, quae ad ordinationem Dei pertinent: et ideo Spiritui Sancto convenit esse factivum Incarnationis; sed exequi mysterium Incarnationis convenit Filio.***
+Ad tertiam quaestionem dicendum, quod sicut dicit Philosophus, 1 *Metaph.*, sapientis est ordinare: unde illae operationes divinae quae ad ordinationem Dei pertinent, sicut gubernare,Ed. read *gubernatio*. et hujusmodi, Filio attribuuntur, cui sapientia appropriatur. In opere autem Incarnationis attenditur quaedam gratuita collatio, qua humanae naturae datum est in unitatemEd. add *divinae*. personae assumi, et omni gratia repleri, sicut primum, et executio illius doni, sicut secundum, quae ad ordinationem Dei pertinent: et ideo Spiritui Sancto convenit esse factivum Incarnationis; sed exequi mysterium Incarnationis convenit Filio.  
 
 Ad primum ergo circaEd. read *contra*. hoc objectum dicendum quod in naturali conceptione hominis, semen habet rationem activi, et iterum rationem termini, inquantum virtus quae est in semine, attrahit sibi id unde nutriatur, et in quantitatem perfectam proficiat. Quantum ergo ad primum operatio seminis appropriatur Spiritui Sancto; sed quantum ad secundum appropriatur Filio, quia conceptio ad hypostasim Filii terminata est.  
 
@@ -126,7 +128,7 @@ Tertium concedimus.
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum estEd. omit *est*. quod ratione jam dicta efficientia Incarnationis Spiritui Sancto appropriatur: et ideo potest dici Christus conceptus de Spiritu Sancto, sive haec praepositio de dicat causae efficientis habitudinem, sive etiam designet rationem faciendi: ipsa enim ratio faciendi Incarnationem est bonitas Spiritui Sancto appropriata.***
+Ad quartam quaestionem dicendum estEd. omit *est*. quod ratione jam dicta efficientia Incarnationis Spiritui Sancto appropriatur: et ideo potest dici Christus conceptus de Spiritu Sancto, sive haec praepositio de dicat causae efficientis habitudinem, sive etiam designet rationem faciendi: ipsa enim ratio faciendi Incarnationem est bonitas Spiritui Sancto appropriata.  
 
 Ad primum ergo circaEd. read *contra*. hoc objectum dicendum, quod quamvis Spiritus Sanctus sit caritas et donum, tamen nomine caritatis et doni non signatur ut persona subsistens, cujus est agere; et ideo non potest dici Christus conceptus de caritate vel dono, si ly de dicat habitudinem causae efficientis: quamvis forte posset concedi secundum quod ly de signat rationem faciendi.  
 
@@ -140,7 +142,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Christus, secundum quod homo, possit dici filius Spiritus Sancti.***
+Ad secundum sic proceditur. Videtur quod Christus, secundum quod homo, possit dici filius Spiritus Sancti.  
 
 Humanam enim naturam quam assumpsit Christus, tota per indifferentiam Trinitas operata est. Sed homo Christus Jesus convenienter dicitur Filius Dei Patris. Ergo etiam potest dici filius Spiritus Sancti, vel totius Trinitatis.  
 
@@ -154,7 +156,7 @@ Praeterea, sicut supra, 1 dist., dixit Magister, ideo Filius, et non Pater velEd
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod possit Christus dici filius Trinitatis. Christus enim, secundum quod homo, creatura est. Sed nos dicimur filii Trinitatis per creationem; Deut. 32:6: *numquid non ipse est pater tuus?* Ergo et Christus potest dici filius Trinitatis, secundum quod homo.***
+Ulterius, videtur quod possit Christus dici filius Trinitatis. Christus enim, secundum quod homo, creatura est. Sed nos dicimur filii Trinitatis per creationem; Deut. 32:6: *numquid non ipse est pater tuus?* Ergo et Christus potest dici filius Trinitatis, secundum quod homo.  
 
 Praeterea, Rom.Bruges and Brussels manuscripts read *Hebrews 2*. 8:29: *ut sit ipse primogenitus in multis fratribus*: Glossa: *secundum humanam naturam, secundum quam fratres habet; secundum autem divinam non habet*. Sed fratres dicuntur qui ex eodem patre nascuntur. Cum ergo pater eorum qui dicuntur fratres Christi, sit tota Trinitas, videtur quod etiam ChristiEd. add *hominis*. secundum humanam naturam.  
 
@@ -166,7 +168,7 @@ Praeterea, secundum Damascenum, filiatio non determinat naturam, sed personam. S
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod secundum Augustinum in littera, Christus non est filius neque Spiritus Sancti, neque Trinitatis, sed tantum Dei Patris. Sed hoc diversa ratione a diversis negatur.***
+Respondeo dicendum ad primam quaestionem, quod secundum Augustinum in littera, Christus non est filius neque Spiritus Sancti, neque Trinitatis, sed tantum Dei Patris. Sed hoc diversa ratione a diversis negatur.  
 
 Quidam enimEd. omit *enim*. negant hoc non tamquam simpliciter falsum, sed tamquam inconvenienter dictum, utpote praestans occasionem errandi et circa aeternam generationem Filii, in qua sequeretur quaedam confusio relationum, si Filius diciturEd. read *diceretur*. sui ipsius filius, et Spiritus Sancti; et circa generationem ejus temporalem, ne videatur Spiritus Sanctus de sua substantia Christum genuisse secundum hominem, si pater ejus diceretur. Et sicut non potest dici filius Trinitatis simpliciter, ita nec per creationem, ut evitetur error Arii, qui dixit Christum puram creaturam, neque per gratiam, ut evitetur error Nestorii, qui dixit duas personas in Christo, et unionem divinitatis ad hominem Christum esse tantum per gratiam, non in persona.  
 
@@ -206,7 +208,7 @@ Alia concedimus.
 
 Quaestio 2  
 
-***Deinde quaeritur de conceptione Christi in comparatione ad matrem concipientem; et circa hoc quaeruntur duo:***
+Deinde quaeritur de conceptione Christi in comparatione ad matrem concipientem; et circa hoc quaeruntur duo:  
 
 primo utrum Beata Virgo possit dici mater hominis Jesu Christi;  
 
@@ -216,7 +218,7 @@ Articulus 1
 
 ***Utrum Beata Virgo possit dici mater hominis Christi Jesu***
 
-***Ad primum sic proceditur. Videtur quod Beata Virgo non possit dici mater illius hominis.***
+Ad primum sic proceditur. Videtur quod Beata Virgo non possit dici mater illius hominis.  
 
 In conceptione enim Christi Beata Virgo ministravit tantum materiam, quia totam actionem fecit Spiritus Sanctus. Sed propter materiam non potest aliquid dici mater, sicut arbor non estBruges manuscript reads *dicitur*. mater scamni. Ergo Beata Virgo non potest dici mater illius hominis.  
 
@@ -284,7 +286,7 @@ Ad quintum dicendum, quod Beata Virgo est vere mater Christi, non tamen dicimus 
 
 Quaestio 3  
 
-***Deinde quaeritur de conceptione in comparatione ad gratiam Christi, per quam facta est conceptio; et circa hoc quaeruntur duo:***
+Deinde quaeritur de conceptione in comparatione ad gratiam Christi, per quam facta est conceptio; et circa hoc quaeruntur duo:  
 
 primo utrum illam conceptionem vel unionem aliqua merita praecessissent;Ed. read *praecesserint*.  
 
@@ -352,7 +354,7 @@ Sed contra, causae proximae rerum naturalium sunt naturales. Sed Christus per gr
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod Christus divina gratia vel divinitate non sit repletus corporaliter, quodBruges manuscript reads *quia*. in littera dicitur. Omne enim quod est in aliquo corporaliter, est in eo per circumscriptionem. Sed divinitas non potest esse circumscripta. Ergo non potest habitare in Christo corporaliter.***
+Ulterius, videtur quod Christus divina gratia vel divinitate non sit repletus corporaliter, quodBruges manuscript reads *quia*. in littera dicitur. Omne enim quod est in aliquo corporaliter, est in eo per circumscriptionem. Sed divinitas non potest esse circumscripta. Ergo non potest habitare in Christo corporaliter.  
 
 Praeterea, Deus magis elongatur a corporeitate quam angelus, qui in comparatione Dei corporeus est, ut dicit Damascenus lib. 1 *De fide*, cap. 3. Sed angelus non est in aliquo loco vel corporeThe Vivès edition omits *corpore*. corporaliter; multo igiturEd. read *ergo multo minus*. minus divinitas.  
 
@@ -362,7 +364,7 @@ Sed contra, divinitas unitaThe Piana, Antwerp, Nicolaï, Venice, and Parma editi
 
 Solutio 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod de gratia Christi possumus loqui dupliciter: aut de gratia unionis, aut de gratia habituali, qua anima ejus perfecta est. Gratia autem unionis dicitur Christo naturalis, quia ordinatur ad unionem in persona divina,Ed. read *personam divinam*. secundum quod ille homo dicitur naturalis Filius DeiEd. omit *Dei*. Patris.***
+Respondeo dicendum, ad primam quaestionem, quod de gratia Christi possumus loqui dupliciter: aut de gratia unionis, aut de gratia habituali, qua anima ejus perfecta est. Gratia autem unionis dicitur Christo naturalis, quia ordinatur ad unionem in persona divina,Ed. read *personam divinam*. secundum quod ille homo dicitur naturalis Filius DeiEd. omit *Dei*. Patris.  
 
 Gratia vero habitualis potest etiam dici Christo naturalis dupliciter. Uno modo quia ad modum proprietatum naturalium se habet, quae suum subjectum inseparabiliter consequuntur. Alio modo quia ex altera suarum naturarum causatur, scilicet ex divina,Ed. add *natura*. non autem ex humana.  
 
@@ -372,7 +374,7 @@ Et per hoc patet solutio ad alia.
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum quod plenitudo divinitatis dicitur corporaliter habitare in Christo tripliciter.***
+Ad id quod ulterius quaeritur, dicendum quod plenitudo divinitatis dicitur corporaliter habitare in Christo tripliciter.  
 
 Primo modo quia Deitas non tantum animae, sed etiam carni unita est.  
 
@@ -388,7 +390,7 @@ Ad tertium dicendum, quod in aliis hominibus sanctis est Deus per gratiam accept
 
 Expositio textus  
 
-****Uno nominato tres intelliguntur*. Contra. Dicimus Filium Dei incarnatum, quod non intelligitur de Patre et Spiritu Sancto. Et dicendum, quod hoc est intelligendum de his quae ad essentiam pertinent: quorum si aliquid de una tantum persona dicatur, oportet quod de alia intelligatur.***
+*Uno nominato tres intelliguntur*. Contra. Dicimus Filium Dei incarnatum, quod non intelligitur de Patre et Spiritu Sancto. Et dicendum, quod hoc est intelligendum de his quae ad essentiam pertinent: quorum si aliquid de una tantum persona dicatur, oportet quod de alia intelligatur.  
 
 *Non est autem concedendum, quidquid de aliqua re nascitur, continuo ejusdem rei filium nuncupandum*. Sciendum est ergo, quod haec praepositio ex*ex*.—*ex vel de* PLE. denotat causam efficientem, vel materialem. Ad hoc autem quod aliquid natum ex aliquo materialiter, filiationis nomen accipiat, oportet quod in similitudinem speciei producatur cum eo ex quo nascitur, sicut filius matri; et ideo capilli et lumbricus non dicuntur filii ejus ex quo materialiter nascuntur. Ad hoc etiam quod aliquid natum de alioBruges manuscript reads *aliquo*. active dicatur filius ejus, oportet quod producatur deBrussels manuscript reads *ex*. substantia agentis, et in similitudinemEd. add *ejusdem*. speciei, etBruges and Brussels manuscripts omit *et*. quod non sit agens instrumentale, sed principale. Primae autem duae conditiones deficiunt in Spiritu Sancto; unde Christus non potest dici filius ejus. Secunda autem et tertia deficiunt in aqua: quia renatus spiritualiter non assumit similitudinem aquae, sed similitudinem Dei; et aqua est instrumentum divinae virtutis operantis in eo: tamen Dionysius, 2 cap. *Eccles. hierarch.*, vocat aquam baptismi matrem filialitatis: sed non proprie dicitur.  
 

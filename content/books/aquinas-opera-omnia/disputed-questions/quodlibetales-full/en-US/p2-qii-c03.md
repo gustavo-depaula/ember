@@ -1,5 +1,7 @@
 # On Man
 
+***Regarding virtues***
+
 ***Question 4***
 
 ***Virtues pertaining to divine things***
@@ -28,7 +30,7 @@ Article 1
 
 ***About faith***
 
-***To the first we proceed thus. It seems that men are not bound to believe Christ with him not doing visible miracles.***
+To the first we proceed thus. It seems that men are not bound to believe Christ with him not doing visible miracles.  
 
 Obj. 1: For whoever does not do that to which he is held, sins. But if men were not to believe in Christ not doing miracles, they would not sin: for he himself says in John 15:24: *if I would not have done the works amongst them which no other did, they would not have sin*; and he speaks concerning the sin of infidelity,Aquinas, *Commentary on the Gospel of John*, on John 5:36, ch. 5, lect. 6, n. 814; on John 15:22, ch. 15, lect. 5, nn. 2045–50. according to Augustine.Augustine, *Tractates on the Gospel of John* 89.1–4, 91.1 (CCSL 36:548–553; PL 35:1856–60). Therefore, men would not be held to believe Christ if he were not to have done miracles.  
 
@@ -56,7 +58,7 @@ Article 2
 
 ***About the sacrament of faith***
 
-***To the second we proceed thus. It seems that the children of the Jews should be baptized against their parents’ will.***
+To the second we proceed thus. It seems that the children of the Jews should be baptized against their parents’ will.  
 
 Obj. 1: For the matrimonial chain is greater than the right of parental power since the right of parental power can be dissolved through man when a son under his father’s power is emancipated, while the matrimonial chain cannot be dissolved through man, according to Matthew 19:6: *that which God has joined, let man not separate*. But on account of infidelity the matrimonial chain is dissolved: for the Apostle says in 1 Corinthians 7:15: *but if an infidel departs, let him depart: for a brother or sister is not subject by servitude in things of this sort*; and a canon says that if an unfaithful spouse does not wish to cohabitate without *insult of the creator*, the other of the spouses should not cohabitate with that one. Therefore, so much the more is the right of parental power removed on account of infidelity.Cf. Gratian, *Decretum*, Part 2, Canon 28, question 2, canon 2, 1:1090; Gratian incorrectly ascribes to Gregory the words of Pseudo-Ambrose: Ambrosiaster, *Commentary on the Letter to the Corinthians*, on 1 Corinthians 7:15, para. 2 (CSEL 81, 2:77; PL 17:219). Thus, therefore, Jewish infidels do not have the right of parental power over their children. Therefore, their children can be baptized with them unwilling.  
 
@@ -94,7 +96,7 @@ Article 3
 
 ***About tithes which are due to the ministers of the sacraments***
 
-***To the third we proceed thus. It seems that on account of custom some men are dispensed from the law of rendering tithes.***
+To the third we proceed thus. It seems that on account of custom some men are dispensed from the law of rendering tithes.  
 
 Obj. 1: For there is greater reason to receive tithes than not to give them. But on account of custom in some lands some soldiers receive tithes,Alexander of Hales, *Summa universis theologiae* (*Summa fratris Alexandri*), ed. Quaracchi Fathers, 4 vols. (Rome: Collegii S. Bonaventurae, 1924–1948), bk. 2, part 2, inq. 3, tract. 8, q. 3, tit. 2, ch. 4, a. 2, prob. 1, 3:803a. and this is tolerated by the Church. Therefore, all the more are some men dispensed on account of custom such that they should not pay tithes, nor be held to pay.  
 
@@ -126,7 +128,7 @@ Question 5
 
 ***Virtues pertaining to human things***
 
-***Then there were questions which pertain to virtues in relation to human things. And about this two things were asked:***
+Then there were questions which pertain to virtues in relation to human things. And about this two things were asked:  
 
 first, whether a son is held to obey his carnal parents in indifferent things;  
 
@@ -136,7 +138,7 @@ Article 1
 
 ***Whether a son is held to obey his carnal parents in indifferent things***
 
-***To the first we proceed thus. It seems that a son is held to obey his carnal parents in all things.***
+To the first we proceed thus. It seems that a son is held to obey his carnal parents in all things.  
 
 Obj. 1: For it is said in Deuteronomy 21:18–21: *if man should beget a son proud and reckless, who does not listen to a command of his father or mother, . . . let the people of the city crush him with stones*. But such punishment would not be inflicted unless he sinned gravely by not obeying. Therefore, sons are held to obey their carnal parents in all things.  
 
@@ -158,7 +160,7 @@ Article 2
 
 ***Whether a seller is held to inform a buyer of a fault in the thing sold***
 
-***To the second we proceed thus. It seems that a seller is not held to inform a buyer of a fault in the thing sold.***
+To the second we proceed thus. It seems that a seller is not held to inform a buyer of a fault in the thing sold.  
 
 Obj. 1: Because, according to civil laws,Hostiensis, *Summa aurea*, bk. 3, “De contrahenda emptione et venditione,” para. 7, 944. a seller and a buyer can deceive one another. Yet there could be no deception if the seller of the thing sold were to be held to inform the buyer of the fault. Therefore, he is not held.  
 
@@ -186,7 +188,7 @@ Regarding sins
 
 ***Regarding sins***
 
-***Then there were questions concerning sins. And about this there were two questions:***
+Then there were questions concerning sins. And about this there were two questions:  
 
 first, whether it is a sin to desire rulership;  
 
@@ -218,7 +220,7 @@ Article 2
 
 ***Whether it is a sin for a preacher to have an eye on temporal things***
 
-***To the second we proceed thus. It seems that it is a sin for a preacher to have an eye on temporal things.***
+To the second we proceed thus. It seems that it is a sin for a preacher to have an eye on temporal things.  
 
 Obj. 1: For on Luke 12:31: *seek first the kingdom of God*, the Gloss says: that is, *eternal good things*;*Glossa interlinearis*, at Luke 12:31, in *Glossa ordinaria* 5.771–72. *and all of these shall be added unto you*; the Gloss also says: *even to those not seeking*.*Glossa ordinaria*, at Luke 12:31, 5.771 (PL 114:297). Therefore, it is not licit for a preacher to have an eye on earthly things.Aquinas, *In III Sent*. 29.3, s.c. 3.  
 
@@ -250,7 +252,7 @@ Article 1
 
 ***Whether a separated soul can be acted upon by bodily fire***
 
-***To the first we proceed thus. It seems that a soul separated from the body cannot be acted upon by bodily fire.***
+To the first we proceed thus. It seems that a soul separated from the body cannot be acted upon by bodily fire.  
 
 Obj. 1: Because, according to the Philosopher, *that which does not touch, does not act*.Aristotle, *On the Generation of Animals* 2.1, 734a3–4, 734b10–735a4; *On Generation and Corruption* 1.18, 322b22–24. But bodily fire does not touch a soul separated from the body since it does not have bodily ends, yet those things which touch one another *have simultaneous ends*.Cf. Aristotle, *On Generation and Corruption* 1.18, 323a10–11; *Physics* 6.1, 231a22–23. Therefore, a separated soul cannot be acted upon by bodily fire.  
 
@@ -280,9 +282,9 @@ Reply Obj. 3: It must be said that one’s own will is said to burn in hell beca
 
 Article 2  
 
-***Whether one of two people worthy of the same punishment tarries longer in purgatory than the other***
+Whether one of two people worthy of the same punishment tarries longer in purgatory than the other  
 
-***To the second we proceed thus. It seems that of two who are worthy of equal punishment, one cannot be liberated from purgatory more quickly than the other.***
+To the second we proceed thus. It seems that of two who are worthy of equal punishment, one cannot be liberated from purgatory more quickly than the other.  
 
 Obj. 1: Judgment after death belongs not to man but to God, who judges *according to truth* (Rom 2:2). But it would be against the truth of judgment if upon one of the two who are worthy of equal punishment there were inflicted a graver punishment for the senses than upon the other. Yet postponement of glory is a greater punishment than sharpness of the punishment for the senses because, just as Chrysostom says in his commentary on Matthew, to lack the divine vision is a greater punishment than any sensible punishment.John Chrysostom, *On Matthew*, homily 23 (al. 24), para. 7, on Matthew 7:19 (PG 57:317); Aquinas, *Catena Aurea on Matthew*, on Matthew 7:19, ch. 7, lect. 8. Therefore, one of those who are worthy of equal punishment will not suffer a greater postponement of glory than the other liberated more quickly.  
 
@@ -314,7 +316,7 @@ Question 8
 
 ***On the remission of punishments***
 
-***Then there were questions concerning the remission of sins. And about this there were two questions:***
+Then there were questions concerning the remission of sins. And about this there were two questions:  
 
 first, whether the sin against the Holy Spirit is irremissible;  
 
@@ -324,7 +326,7 @@ Article 1
 
 ***Whether the sin against the Holy Spirit is irremissible***
 
-***To the first we proceed thus. It seems that the sin against the Holy Spirit is not irremissible.***
+To the first we proceed thus. It seems that the sin against the Holy Spirit is not irremissible.  
 
 Obj. 1: For one is the dignity and majesty of the Father and of the Son and of the Holy Spirit.Cf. Aquinas, *In II Sent*. 43.1.1, obj. 5; Athanasian Creed (*Quicumque vult* in PL 28). But sin against the Son is not irremissible: for it is said in Matthew 12:32: *whoever should have said a word against the Son of man, it shall be remitted for him*. Therefore, the sin against the Holy Spirit is not irremissible.  
 
@@ -342,9 +344,9 @@ Reply Obj. 1: And through this the solution to the objections is clear.
 
 Article 2  
 
-***Whether a crusader who dies before taking the journey across the seas has the full remission of sins***
+Whether a crusader who dies before taking the journey across the seas has the full remission of sins  
 
-***To the second we proceed thus. It seems that a crusader who dies before taking the journey has full indulgence of sins.***
+To the second we proceed thus. It seems that a crusader who dies before taking the journey has full indulgence of sins.  
 
 Obj. 1: In order for an indulgence to prevail for anyone, it is required that he be truly penitent and to have confessed, as is contained in the papal letter.Urban II’s Letter, December 1095; cf. *Historia Hierosolymitana: Mit Erläuterungen und einem Anhange*, ed. Heinrich Hagenmeyer (Heidelberg: Winter, 1913); translation: *A History of the Expedition to Jerusalem: 1095–1127*, trans. Frances R. Ryan, ed. Harold S. Fink (Knoxville: University of Tennessee Press, 1969). But a crusader dying before taking the journey has all of these things which are required according to the form of the letter for receiving the full indulgence of sins. Therefore, he receives it fully.  
 

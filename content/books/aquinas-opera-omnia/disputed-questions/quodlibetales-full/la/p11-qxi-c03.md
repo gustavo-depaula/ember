@@ -1,5 +1,7 @@
 # On Man
 
+***De partibus naturae humanae***
+
 ***Quaestio 5***
 
 ***De anima***
@@ -22,7 +24,7 @@ Articulus unicus
 
 ***Utrum sint eiusdem substantiae anima sensitiva et intellectiva***
 
-***De anima quaesitum fuit utrum sint eiusdem substantiae anima sensitiva et intellectiva? Et ostendebatur quod non.***
+De anima quaesitum fuit utrum sint eiusdem substantiae anima sensitiva et intellectiva? Et ostendebatur quod non.  
 
 Nam anima sensitiva educitur de potentia materiae, intellectiva vero est per creationem; non est igitur eadem substantia utriusque.  
 
@@ -60,7 +62,7 @@ Quaestio 6
 
 ***Utrum resurgat idem numero***
 
-***Deinde de corpore quaesitum est utrum resurgat idem numero? Et ostendebatur quod non.***
+Deinde de corpore quaesitum est utrum resurgat idem numero? Et ostendebatur quod non.  
 
 Quia, secundum Philosophum in *Topicis*, illud dicitur idem numero quod est idem proprio, accidente et diffinitione; sed corporum in resurrectione non erunt eadem propria, quia nunc risibile, tunc non; non eadem accidentia, quia nunc albus, crispus, musicus et huiusmodi, quae tunc non erunt; non etiam eadem diffinitio, quia nunc diffinitur per mortale, tunc non mortale erit; ergo videtur quod non resurgat idem numero.  
 
@@ -102,7 +104,7 @@ Articulus unicus
 
 ***Utrum solus episcopus debeat conferre sacramentum confirmationis vel etiam alius***
 
-***Circa primum quaesitum est utrum solus episcopus debeat conferre sacramentum confirmationis, vel etiam alius? Et videtur quod non solum episcopus potest ipsum sacramentum conferre, sed etiam quilibet sacerdos.***
+Circa primum quaesitum est utrum solus episcopus debeat conferre sacramentum confirmationis, vel etiam alius? Et videtur quod non solum episcopus potest ipsum sacramentum conferre, sed etiam quilibet sacerdos.  
 
 Constat enim quod in confirmatione confertur gratia spiritualis; sed huiusmodi gratiae collatio sic est ordinanda ut non possit impediri; constat autem quod per absentiam episcoporum multotiens impeditur, quia non sunt ubique praesentes; ergo debet conferri per ministerium sacerdotum, qui sunt ubique praesentes.  
 
@@ -140,7 +142,7 @@ Articulus 1
 
 ***Utrum aliquis possit audire missam sacerdotis fornicarii quin peccet mortaliter***
 
-***Circa primum quaesitum est utrum aliquis possit audire missam sacerdotis fornicarii quin peccet mortaliter? Et videtur quod non possit audire missam ab eo sine peccato mortali.***
+Circa primum quaesitum est utrum aliquis possit audire missam sacerdotis fornicarii quin peccet mortaliter? Et videtur quod non possit audire missam ab eo sine peccato mortali.  
 
 Ecclesia enim praecepit sub anathemate quod nullus audiret missam a sacerdote fornicario; sed facere contra huiusmodi mandatum Ecclesiae est peccare mortaliter; ergo quicumque audit a tali sacerdote missam peccat mortaliter.  
 
@@ -158,9 +160,9 @@ Ad illud quod obicitur dicendum quod, si sustinetur a praelatis, non propter hoc
 
 Articulus 2  
 
-***Utrum aliquis loquendo, comedendo seu stando cum excommunicatis peccet mortaliter***
+Utrum aliquis loquendo, comedendo seu stando cum excommunicatis peccet mortaliter  
 
-***Circa secundum quaesitum fuit utrum aliquis loquendo, comedendo seu stando cum excommunicatis peccet mortaliter? Et videtur quod sic.***
+Circa secundum quaesitum fuit utrum aliquis loquendo, comedendo seu stando cum excommunicatis peccet mortaliter? Et videtur quod sic.  
 
 Quia multi magistri decretorum et magni hoc dicunt.  
 
@@ -198,7 +200,7 @@ Articulus 1
 
 ***De maleficiatis***
 
-***Circa primum quaesitum est utrum maleficia impediant matrimonium? Et ostendebatur quod non.***
+Circa primum quaesitum est utrum maleficia impediant matrimonium? Et ostendebatur quod non.  
 
 Quia opus Dei est fortius quam opus diaboli; sed matrimonium est opus Dei, maleficium vero opus diaboli; ergo matrimonium est fortius maleficio; non ergo impeditur per ipsum.  
 
@@ -216,7 +218,7 @@ Articulus 2
 
 ***De frigidis***
 
-***Circa secundum quaesitum est utrum frigiditas impediat matrimonium? Et videtur quod non.***
+Circa secundum quaesitum est utrum frigiditas impediat matrimonium? Et videtur quod non.  
 
 Quia senes sunt frigidi, et tamen contrahunt matrimonium.  
 
@@ -244,9 +246,9 @@ Per comparationem autem ad proximum quaesitum est de correctione fraterna. Circa
 
 Articulus 1  
 
-***Utrum debeat aliquis in publico vel in privato corrigere proximum seu fratrem suum***
+Utrum debeat aliquis in publico vel in privato corrigere proximum seu fratrem suum  
 
-***Primo, utrum debeat aliquis in publico vel in privato corrigere proximum seu fratrem suum? Et videtur quod occulte.***
+Primo, utrum debeat aliquis in publico vel in privato corrigere proximum seu fratrem suum? Et videtur quod occulte.  
 
 Matthaei XVIII: *si peccaverit in te frater tuus, vade et corripe eum inter te et ipsum solum*; videtur ergo quod occulte sit corrigendus frater delinquens.  
 
@@ -264,9 +266,9 @@ Ad aliud vero dicendum quod illud de constitutionibus ordinatum est et servari d
 
 Articulus 2  
 
-***Utrum si aliquis sciat peccatum proximi peccet mortaliter referendo illud statim praelato suo***
+Utrum si aliquis sciat peccatum proximi peccet mortaliter referendo illud statim praelato suo  
 
-***Secundo quaerebatur utrum, si aliquis sciat peccatum proximi, peccet mortaliter referendo illud statim praelato suo. Et videtur quod sic.***
+Secundo quaerebatur utrum, si aliquis sciat peccatum proximi, peccet mortaliter referendo illud statim praelato suo. Et videtur quod sic.  
 
 Quia facere contra ordinem Evangelii est peccatum mortale; sed statim referre praelato est contra ordinem Evangelii; ergo peccat mortaliter.  
 

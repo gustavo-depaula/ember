@@ -1,8 +1,10 @@
 # D. 11 - Angelic guardianship
 
+***De quodam actu, scilicit custodire homines***
+
 ***Divisio primae partis textus***
 
-***Postquam determinavit de quibusdam actibus qui consequuntur omnes ordines, scilicet assistere et ministrare; hic determinat de quodam actu ad quem unus ordo specialiter deputatur, scilicet custodire homines; et dividitur in partes duas:***
+Postquam determinavit de quibusdam actibus qui consequuntur omnes ordines, scilicet assistere et ministrare; hic determinat de quodam actu ad quem unus ordo specialiter deputatur, scilicet custodire homines; et dividitur in partes duas:  
 
 in prima determinat de angelis quantum ad officium custodiae;  
 
@@ -78,7 +80,7 @@ Articulus 2
 
 ***Utrum ad omnes ordines tertiae hierarchiae pertineat custodire homines***
 
-***Ad secundum sic proceditur. Videtur quod custodire pertineat ad omnes ordines tertiae hierarchiae.***
+Ad secundum sic proceditur. Videtur quod custodire pertineat ad omnes ordines tertiae hierarchiae.  
 
 Quia, secundum Dionysium, 9 cap. *De cael. hier*., tertiae hierarchiae proprium est lumen divinum accipere per convenientiam nostrae hierarchiae, id est proportionatum ad immediate transferendum in nos. Sed ille angelus dicitur custos hominis qui immediate ipsum illuminat. Ergo videtur quod custodire ad omnes pertineat.  
 
@@ -106,7 +108,7 @@ Articulus 3
 
 ***Utrum omnibus hominibus deputentur angeli ad custodiam***
 
-***Ad tertium sic proceditur. Videtur quod non omnibus hominibus deputentur angeli ad custodiam.***
+Ad tertium sic proceditur. Videtur quod non omnibus hominibus deputentur angeli ad custodiam.  
 
 Custodia enim angelorum valet hominibus ad evitandum pericula, et ad instruendam ignorantiam. Sed Adam in primo statu ab utroque liber fuit. Ergo angelum custodem non habuit.  
 
@@ -142,7 +144,7 @@ Articulus 4
 
 ***Utrum angelus quandoque relinquat hominem cui deputatur***
 
-***Ad quartum sic proceditur. Videtur quod angelus quandoque relinquat hominem cui deputatur custos.***
+Ad quartum sic proceditur. Videtur quod angelus quandoque relinquat hominem cui deputatur custos.  
 
 Primo per hoc quod habetur Hierem. 51:9: *curavimus Babylonem, et non est sanata. Derelinquamus* ergo *eam*. Sed hoc dicitur ex persona angelorum, ut dicit glossa. Ergo videtur quod relinquat, quando a peccato non corrigitur.  
 
@@ -176,7 +178,7 @@ Articulus 5
 
 ***Utrum angeli doleant de damnatione hominum quos custodiunt***
 
-***Ad quintum sic proceditur. Videtur quod angeli doleant de damnatione hominum quos custodiunt.***
+Ad quintum sic proceditur. Videtur quod angeli doleant de damnatione hominum quos custodiunt.  
 
 Exterior enim luctus est signum interioris doloris. Sed Isa. 33:7, dicitur: *angeli pacis amare flebunt*.PLE: *flebunt*; Mandonnet reads *flebant* but suggests the alternative *flebunt*, from the Vulgate. Ergo videtur quod doleant.  
 
@@ -202,13 +204,13 @@ Ad quartum dicendum, quod angeli volunt salutem hominis voluntate antecedente si
 
 Expositio primae partis textus  
 
-****Et unum malum ad exercitium habet*.Mandonnet suggests supplying *quilibet homo*. Videtur injuste agi cum homine: quia daemones multo potentiores sunt hominibus; non enim est potestas super terram quae ei comparetur ut dicitur Job 41. Ergo non justum est pugnam inter hominem et daemonem constitui.***
+*Et unum malum ad exercitium habet*.Mandonnet suggests supplying *quilibet homo*. Videtur injuste agi cum homine: quia daemones multo potentiores sunt hominibus; non enim est potestas super terram quae ei comparetur ut dicitur Job 41. Ergo non justum est pugnam inter hominem et daemonem constitui.  
 
 Et dicendum, quod cum liberum arbitrium non possit cogi ad peccandum, quantumcumque sit daemon fortis homo resistere potest. Unde dicitur, quod debilis est hostis, qui non potest vincere nisi volentem; et super hoc homini adest praesidium angeli, et auxilium divinum, si suscipere velit.  
 
 Divisio secundae partis textus  
 
-***Hic inquirit Magister, utrum angeli, dum officium custodiae durat, in merito vel praemio proficiant; et dividitur in partes duas:***
+Hic inquirit Magister, utrum angeli, dum officium custodiae durat, in merito vel praemio proficiant; et dividitur in partes duas:  
 
 primo ponit duas opiniones;  
 
@@ -284,7 +286,7 @@ Articulus 2
 
 ***Utrum angeli inferiores illuminentur a superioribus***
 
-***Ad secundum sic proceditur. Videtur quod angeli inferiores per superiorum illuminationem in cognitionem rerum sive divinorum effectuum non proficiant.***
+Ad secundum sic proceditur. Videtur quod angeli inferiores per superiorum illuminationem in cognitionem rerum sive divinorum effectuum non proficiant.  
 
 Omnis enim operatio angeli aut pertinet ad naturam aut ad praemium. Sed in naturali cognitione non proficiunt, quam totam simul in creatione receperunt; nec etiam in merito aut in praemio proficiunt. Ergo videtur quod in eis cognitio divinorum effectuum non crescat.  
 
@@ -318,7 +320,7 @@ Articulus 3
 
 ***Utrum angeli cognoscant aliqua per mutuam locutionem***
 
-***Ad tertium sic proceditur. Videtur quod angeli non accipiant cognitionem aliquorum per mutuam locutionem.***
+Ad tertium sic proceditur. Videtur quod angeli non accipiant cognitionem aliquorum per mutuam locutionem.  
 
 Dicit enim Basilius in *Sermone super* illud *Deut*. 15:9: *attende tibi*, in princ.: *si nuda et intecta anima viveremus, ex solis nutibus intentionum cogitationes alterutrum panderentur*. Sed angeli habent intellectum non obtectum corpore. Ergo unus alterius cogitationes videt; et ideo mutua locutione non egent.  
 
@@ -358,7 +360,7 @@ Articulus 4
 
 ***Utrum angeli didicerint mysterium Incarnationis per homines***
 
-***Ad quartum sic proceditur. Videtur quod angeli per homines mysterium Incarnationis didicerint.***
+Ad quartum sic proceditur. Videtur quod angeli per homines mysterium Incarnationis didicerint.  
 
 Primo per hoc quod habetur Ephes. 3:10: *ut innotescat principatibus et potestatibus in caelestibus per Ecclesiam multiformis sapientia Dei*.  
 
@@ -452,6 +454,6 @@ Per hoc etiam patet responsio ad quartum: quia si non sit illuminatio et purgati
 
 Expositio secundae partis textus  
 
-****Dicit enim Isaias ex persona angelorum . *. . : *quis est iste qui venit de Edom, tinctis vestibus de Bosra?* Hanc quaestionem Dionysius in fin. cap. 7 *Cael. hier*., dicit esse superiorum angelorum expectantium ab ipso Christo illuminari de secretis mysteriis suae Incarnationis: non tamen ipsi Christo quaestionem proponunt, sed sibi invicem, ad significandum reverentiam eorum ad Christum; sicut discipuli mutuo disputantes determinationem magistri expectant.***
+*Dicit enim Isaias ex persona angelorum . *. . : *quis est iste qui venit de Edom, tinctis vestibus de Bosra?* Hanc quaestionem Dionysius in fin. cap. 7 *Cael. hier*., dicit esse superiorum angelorum expectantium ab ipso Christo illuminari de secretis mysteriis suae Incarnationis: non tamen ipsi Christo quaestionem proponunt, sed sibi invicem, ad significandum reverentiam eorum ad Christum; sicut discipuli mutuo disputantes determinationem magistri expectant.  
 
 *Quid est quod illi*Al.: *ibi*. *nesciant qui scientem omnia sciunt?* Hoc, sicut dicit Magister, potest intelligi de his quae ad beatitudinem pertinent: vel etiam quia nihil est ad cujus cognitionem medium illud non sufficiat, scilicet divina essentia: unde non est ex defectu ejus ut aliquid lateat ipsam videntem, sed ex defectu videntis, qui ipsam perfecte non comprehendit. Quanto autem intellectus videntis perspicacior est, tanto plura in ipsa videt; ad altiorem autem perspicacitatis gradum non nisi dono ipsius Dei visi ascendit: quod quidem non communicat necessitate, sed voluntate; et ideo dicitur illud speculum voluntarium esse, ut in se hoc solum quod vult ostendat.

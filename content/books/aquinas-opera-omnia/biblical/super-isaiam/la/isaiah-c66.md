@@ -1,5 +1,7 @@
 # Chapter 64
 
+***^64:1^ Utinam dirumperes cælos et descenderes! A facie tua montes defluerent,***
+
 > ^64:2^ sicut exustio ignis tabescerent, aquæ arderent igni, ut notum fieret nomen tuum inimicis tuis; a facie tua gentes turbarentur.
 
 > ^64:3^ Cum feceris mirabilia, non sustinebimus. Descendisti, et a facie tua montes defluxerunt.

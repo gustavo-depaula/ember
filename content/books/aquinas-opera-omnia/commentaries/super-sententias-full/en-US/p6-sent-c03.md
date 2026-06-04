@@ -1,8 +1,10 @@
 # D. 25 - Articles of faith
 
+***Articles of faith***
+
 ***Division of the text***
 
-***After the Master has examined faith as to its essence, which is known through the definition and the object of faith, here he considers it in the possessor of faith with regard to quantity—according as it grows in someone who has faith. Now, this part is divided in two:***
+After the Master has examined faith as to its essence, which is known through the definition and the object of faith, here he considers it in the possessor of faith with regard to quantity—according as it grows in someone who has faith. Now, this part is divided in two:  
 
 in the first, he considers the amount of faith that is found in believers according to the number of things believed;  
 
@@ -52,11 +54,11 @@ second, about the distinctions among the articles.
 
 Article 1  
 
-***Whether Richard of Saint Victor’s definition of an article of the faith is adequate***
+Whether Richard of Saint Victor’s definition of an article of the faith is adequate  
 
 ***Quaestiuncula 1***
 
-***To the first question we proceed thus,Parallels: below, a. 2, ad 6; *ST* II-II.1.6; *Super 1 Cor.* 15, lect. 1. and explicate the definition of Richard of Saint Victor,Not Richard of Saint Victor, but William of Auxerre, *Summa Aurea*, bk. 3, tract. 3, ch. 2, q. 1. which goes as follows: *an article of the faith is the indivisible truth of God, compelling us to believe*. However, it seems that this is inadequate.***
+To the first question we proceed thus,Parallels: below, a. 2, ad 6; *ST* II-II.1.6; *Super 1 Cor.* 15, lect. 1. and explicate the definition of Richard of Saint Victor,Not Richard of Saint Victor, but William of Auxerre, *Summa Aurea*, bk. 3, tract. 3, ch. 2, q. 1. which goes as follows: *an article of the faith is the indivisible truth of God, compelling us to believe*. However, it seems that this is inadequate.  
 
 Obj. 1: For an indivisible truth is a non-complex truth. But faith is complex, as was said above. Therefore an article of faith is not an indivisible truth.  
 
@@ -70,7 +72,7 @@ Obj. 5: Again, Hugh of Saint Victor’s definition, *an article of the faith is 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that “article” can be called formed or unformed.Parallels: *ST* II-II.1.6; *Super 1 Cor*. 15, lect. 1. For an object is proportioned to its habit. But the object of faith is an article. Therefore, since faith may be formed or unformed, it seems that articles also may be.***
+Obj. 1: Moreover, it seems that “article” can be called formed or unformed.Parallels: *ST* II-II.1.6; *Super 1 Cor*. 15, lect. 1. For an object is proportioned to its habit. But the object of faith is an article. Therefore, since faith may be formed or unformed, it seems that articles also may be.  
 
 Obj. 2: Furthermore, to tend toward God is an act of formed faith. But it belongs to an article of faith to tend toward God, as is clear from one of the definitions attributed. Therefore an article can be unformed or formed.  
 
@@ -82,7 +84,7 @@ Furthermore, it is not within human power to change the articles of the faith. B
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the articles of the faith should not have been collected into the *symbolum*, or Creed.Parallels: *ST* II-II.1.9. For the whole faith is taught to us sufficiently by Sacred Scripture. Therefore, it was superfluous to compose the Creed.***
+Obj. 1: Moreover, it seems that the articles of the faith should not have been collected into the *symbolum*, or Creed.Parallels: *ST* II-II.1.9. For the whole faith is taught to us sufficiently by Sacred Scripture. Therefore, it was superfluous to compose the Creed.  
 
 Obj. 2: Furthermore, the Creed is proposed as a rule of faith, and faith’s act is to assent. But as Augustine says in a letter to Jerome,Augustine, *Epistulae*, epist. 82: *ad Hieronymum*, para. 1 (CCSL 34.2:354; PL 33:277). only the apostles and prophets were granted this honor—that whatever they said should be believed to be true. Therefore, after the Apostles’ Creed, there should not have been any other creeds.  
 
@@ -92,7 +94,7 @@ Obj. 4: Furthermore, it is asked why the Apostles’ Creed is said silently in P
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the word “article” is from Greek, and it indicates a lack of division.*Articulus* is the diminutive of *artus*, which is the Latin form of the Greek word *arthron* (“joint,” “limb,” “member”). Thus, the members that cannot be further divided into other members are called articles, and it is according to this way of speaking that the conclusions that are sought in any science or treatise are called articles: because from them, as from something like indivisible principles, the collection of truths is amassed that completes the inquiry; and this is why in judicial courts those things that are certified by witnesses or are to be certified are called articles. However the faith does not inquire, but relies upon those things that pertain to the faith by the testimony of God who says them. Therefore, anything in the faith that contains a special difficulty, and whose supposition does not depend on anything else being supposed, is properly called an article of the faith. And this is why in the definition given, Richard included both the proper meaning of the name, by saying that it is an *indivisible truth*, and the etymology according to its meaning in Latin, by saying it *compels us to believe*.***
+To the first question, I answer that the word “article” is from Greek, and it indicates a lack of division.*Articulus* is the diminutive of *artus*, which is the Latin form of the Greek word *arthron* (“joint,” “limb,” “member”). Thus, the members that cannot be further divided into other members are called articles, and it is according to this way of speaking that the conclusions that are sought in any science or treatise are called articles: because from them, as from something like indivisible principles, the collection of truths is amassed that completes the inquiry; and this is why in judicial courts those things that are certified by witnesses or are to be certified are called articles. However the faith does not inquire, but relies upon those things that pertain to the faith by the testimony of God who says them. Therefore, anything in the faith that contains a special difficulty, and whose supposition does not depend on anything else being supposed, is properly called an article of the faith. And this is why in the definition given, Richard included both the proper meaning of the name, by saying that it is an *indivisible truth*, and the etymology according to its meaning in Latin, by saying it *compels us to believe*.  
 
 Reply Obj. 1: In non-complex things, speaking per se, there is only truth equivocally. Therefore, “indivisible” is to be understood not simply speaking, but in the genus of complex things.  
 
@@ -106,7 +108,7 @@ Reply Obj. 5: Hugh did not intend to define the word “article,” but to show 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the word "article" names what is to be believed as an object of faith. Now, a different disposition in the doer does not change the object of an activity, and the object is not named from the disposition of the doer, but rather vice versa; for example, color is not named from the different dispositions of the person seeing—for example, whether some people have inflamed eyes, and others have clear eyes. Now, the faith’s being formed or unformed pertains to the disposition of the believer—not what has to do with the intellect, where the faith is, but what has to do with the its relation to the will, where charity is; and therefore, it cannot properly be said that an article is formed or unformed.***
+To the second question, it should be said that the word "article" names what is to be believed as an object of faith. Now, a different disposition in the doer does not change the object of an activity, and the object is not named from the disposition of the doer, but rather vice versa; for example, color is not named from the different dispositions of the person seeing—for example, whether some people have inflamed eyes, and others have clear eyes. Now, the faith’s being formed or unformed pertains to the disposition of the believer—not what has to do with the intellect, where the faith is, but what has to do with the its relation to the will, where charity is; and therefore, it cannot properly be said that an article is formed or unformed.  
 
 Reply Obj. 1: An object is proportioned to its habit in those things that pertain to the nature of the habit, but not in those things that arise from the disposition of the person having the habit.  
 
@@ -116,7 +118,7 @@ Reply Obj. 3: the answer to the third objection is similar.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the word for the Creed, *symbolum*, conveys a likeness and a bringing together,The Greek word *symbolum* comes from *sum* (with) and *ballein* (throw), indicating things put together. and therefore the word *symbolum* is imposed from four different kinds of bringing together. First, from the many people brought together in one faith. Second, from those preaching the faith—because all the apostles collected together announced this rule of faith, each one adding something of his own. Third, because what is to be believed is brought together from different places in Sacred Scripture, so that it may be easily had. Fourth, all the divinely granted benefits are collected there, which is why Dionysius saysPseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3 (PG 3:423). that the symbol of religion can more appropriately be called the Eucharistic hierarchy, good grace, as it were.***
+To the third question, it should be said that the word for the Creed, *symbolum*, conveys a likeness and a bringing together,The Greek word *symbolum* comes from *sum* (with) and *ballein* (throw), indicating things put together. and therefore the word *symbolum* is imposed from four different kinds of bringing together. First, from the many people brought together in one faith. Second, from those preaching the faith—because all the apostles collected together announced this rule of faith, each one adding something of his own. Third, because what is to be believed is brought together from different places in Sacred Scripture, so that it may be easily had. Fourth, all the divinely granted benefits are collected there, which is why Dionysius saysPseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3 (PG 3:423). that the symbol of religion can more appropriately be called the Eucharistic hierarchy, good grace, as it were.  
 
 Reply Obj. 1: Things that were handed on in Sacred Scripture but in different places had to be brought together in one place, so that the faith could be held more readily.  
 
@@ -130,7 +132,7 @@ Article 2
 
 ***Whether the articles of the faith are appropriately distinguished in the Creed***
 
-***To the second we proceed thus.Parallel: *ST* II-II.1.9. It seems that the articles are not appropriately distinguished in the Creed.***
+To the second we proceed thus.Parallel: *ST* II-II.1.9. It seems that the articles are not appropriately distinguished in the Creed.  
 
 Obj. 1: For the three persons of the Trinity are equal. But there are several articles pertaining to the persons of the Son and the Holy Spirit. Therefore, there should likewise be several pertaining to the person of the Father.  
 
@@ -182,7 +184,7 @@ Question 2
 
 ***The explication of the faith***
 
-***Next we ask about the explication of the faith, and as regards this two things are asked:***
+Next we ask about the explication of the faith, and as regards this two things are asked:  
 
 first, the necessity of its becoming explicit;  
 
@@ -194,7 +196,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *In I Sent.*, d. 33, a. 5; *ST* II-II.2.5; *De veritate*, q. 14, a. 11. It appears that faith being explicit is not necessary for salvation.***
+To the first we proceed thus.Parallels: *In I Sent.*, d. 33, a. 5; *ST* II-II.2.5; *De veritate*, q. 14, a. 11. It appears that faith being explicit is not necessary for salvation.  
 
 Obj. 1: For grace and free decision is enough for salvation. But the gratuitous habit of infused faith is not enough for the explicitness of one’s faith, and neither is free decision informed by grace. Rather, the teaching of faith making it determinate must come for that, since *faith comes from what is heard* (Rom 10:17). Therefore the explicitness of faith is not necessary for salvation.  
 
@@ -210,7 +212,7 @@ Furthermore, no one is saved without hope. But for hope there must be an explici
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that everyone is bound to having an explicit faith about all the things that pertain to the faith.Parallels: *In I Sent*., d. 33, a. 5; *ST* II-II.2.5; *De veritate*, q. 14, a. 11. For all the articles of the faith pertain equally to the faith. Therefore if one must have an explicit knowledge about some of them, for the like reason he must have it of all.***
+Obj. 1: Moreover, it appears that everyone is bound to having an explicit faith about all the things that pertain to the faith.Parallels: *In I Sent*., d. 33, a. 5; *ST* II-II.2.5; *De veritate*, q. 14, a. 11. For all the articles of the faith pertain equally to the faith. Therefore if one must have an explicit knowledge about some of them, for the like reason he must have it of all.  
 
 Obj. 2: Furthermore, one man is not distinguished from another in reference to what is known universally, since the knowledge of universal principles is inborn in all men. But to hold faith about a certain article in an implicit way is to hold faith about that article in a universal way. Therefore by having only an implicit faith about an article he is no different, as regards that article, from someone who does not believe. Therefore one must have an explicit faith about all the articles.  
 
@@ -222,7 +224,7 @@ Furthermore, according to this view there would be few who had faith, since it i
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the great are not more bound [to knowing the articles] than are lesser ones.Parallels: *In IV Sent*., d. 24, q. 1, a. 3, resp. 2; *ST* II-II.2.6; *De veritate*, q. 14, a. 11; *Super Hebr*. 11, lect. 2. For simple men are examined about the difficult articles, and are condemned as heretics if they answer badly. Now, this would not be so unless they were bound to knowing them. Therefore lesser people are not less bound to knowing them than are the great.***
+Obj. 1: Moreover, it appears that the great are not more bound [to knowing the articles] than are lesser ones.Parallels: *In IV Sent*., d. 24, q. 1, a. 3, resp. 2; *ST* II-II.2.6; *De veritate*, q. 14, a. 11; *Super Hebr*. 11, lect. 2. For simple men are examined about the difficult articles, and are condemned as heretics if they answer badly. Now, this would not be so unless they were bound to knowing them. Therefore lesser people are not less bound to knowing them than are the great.  
 
 Obj. 2: Furthermore, no one is bound to more things than is another except insofar as he has obligated himself to them. But it appears that the great have not obligated themselves to knowing the articles explicitly. Therefore they are not more bound than are lesser ones.  
 
@@ -234,7 +236,7 @@ Furthermore, to one to whom more is committed, from him more is required. But mo
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it appears that the lesser ones do not have an implicit faith in the faith of the greater ones.Parallels: *ST* II-II.2.6; *De veritate*, q. 14, a. 11; *Super Heb*. 11, lect. 2. For just as faith is implicit and explicit, so is knowledge. But when one has implicit knowledge, it is not implicit in some knower, but in the universal reality of the knowable thing. Therefore neither does one have a faith implicit in the faith of someone else.***
+Obj. 1: Moreover, it appears that the lesser ones do not have an implicit faith in the faith of the greater ones.Parallels: *ST* II-II.2.6; *De veritate*, q. 14, a. 11; *Super Heb*. 11, lect. 2. For just as faith is implicit and explicit, so is knowledge. But when one has implicit knowledge, it is not implicit in some knower, but in the universal reality of the knowable thing. Therefore neither does one have a faith implicit in the faith of someone else.  
 
 Obj. 2: Furthermore, that in which is implied the knowledge of one who has implicit knowledge is the rule of his knowledge. But the rule of our faith is not a human knowledge, which can be deceived, but the divine knowledge, which is infallible. Therefore it appears that a man should not have implicit faith in the faith of another man, but in the knowledge of God.  
 
@@ -248,7 +250,7 @@ Furthermore, this is clear from the authority indicated in the text.
 
 Response to Quaestiuncula 1  
 
-***I answer that someone attains salvation in two ways. For some do not attain it by their own proper merit, but by someone else’s merit—such as baptized infants and simpletons, whom Christ’s merit supports, in which they are made participants by the reception of the sacrament. For they do not have their own proper merit, since they do not have the use of free decision, which is needed in order to merit. However, whoever has use of free decision is bound to adding his own proper merit to Christ’s merits. Now, merit consists in the act of the virtues, so for their salvation they must have both the act and the habit of the virtues. But the act of all virtues depends on the act of faith, which directs one’s intention, so in everyone who has free decision it is required, for his salvation, that he have the act of faith and not only its habit. However, faith cannot go into act except by knowing determinately and explicitly what pertains to faith. Therefore in everyone who has the use of free decision, having a faith that is explicit in some respect is necessary for salvation.***
+I answer that someone attains salvation in two ways. For some do not attain it by their own proper merit, but by someone else’s merit—such as baptized infants and simpletons, whom Christ’s merit supports, in which they are made participants by the reception of the sacrament. For they do not have their own proper merit, since they do not have the use of free decision, which is needed in order to merit. However, whoever has use of free decision is bound to adding his own proper merit to Christ’s merits. Now, merit consists in the act of the virtues, so for their salvation they must have both the act and the habit of the virtues. But the act of all virtues depends on the act of faith, which directs one’s intention, so in everyone who has free decision it is required, for his salvation, that he have the act of faith and not only its habit. However, faith cannot go into act except by knowing determinately and explicitly what pertains to faith. Therefore in everyone who has the use of free decision, having a faith that is explicit in some respect is necessary for salvation.  
 
 Reply Obj. 1: In things that are necessary for salvation, God never abandons and has never abandoned a man seeking his salvation unless he remains so due to his own fault. Whence the explication of things that are necessary for salvation would either be divinely provided for a man, through a preacher of the faith, as is clear with Cornelius in Acts 10, or through a revelation. With such supposed, it is within the power of his free decision that he go forth into the act of faith.  
 
@@ -260,7 +262,7 @@ Reply Obj. 4: The things that are above reason pertaining to faith are not propo
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the act of faith is necessary for salvation because of this: that it directs the intention in all the acts of the other virtues. And therefore so far must each person have an explicit faith, as much as suffices to direct him to the ultimate end. Whence it is not necessary for salvation that a man know all the articles of faith explicitly, since without the explication of some of them a man can have a right intention for the end.***
+To the second question, it should be said that the act of faith is necessary for salvation because of this: that it directs the intention in all the acts of the other virtues. And therefore so far must each person have an explicit faith, as much as suffices to direct him to the ultimate end. Whence it is not necessary for salvation that a man know all the articles of faith explicitly, since without the explication of some of them a man can have a right intention for the end.  
 
 Reply Obj. 1: This is clear, because there is not the same account of all the articles.  
 
@@ -270,7 +272,7 @@ Reply Obj. 3: We are bound always and in all situations to the negative precepts
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the articles of the faith become explicit in two ways. In one way, with regard to the substance of the articles themselves, insofar as one knows the articles themselves distinctly. In another way, with regard to things that are implicitly contained in the articles, which happens when a man knows the things that follow upon the articles, and the power of the truth of the articles themselves, through which they can be defended from every attack. As regards the first explication, all are wholly bound who have the office of teaching the faith, whether due to their grade of dignity, such as priests, or due to revelation, such as prophets, or due to their ministry, such as teachers and preachers. But this is not so with others, on whom does not lie the office of teaching the faith, because it suffices for them, as they have only to rule themselves, to know those articles through which they can direct their own proper intention to the ultimate end. However, as regards the second explication of the articles, no one is wholly bound to know them to the point of making explicit all the things about salvation that are contained in the articles. For this cannot be except in heaven, where the very truth of the articles will be seen fully. But anyone on whom lies the office of instructing others about the faith—those who are being called “the great”—are bound to know as much of this explication as pertains to his office. But lesser ones, on whom the office of teaching does not lie, are not bound to this explication.***
+To the third question, it should be said that the articles of the faith become explicit in two ways. In one way, with regard to the substance of the articles themselves, insofar as one knows the articles themselves distinctly. In another way, with regard to things that are implicitly contained in the articles, which happens when a man knows the things that follow upon the articles, and the power of the truth of the articles themselves, through which they can be defended from every attack. As regards the first explication, all are wholly bound who have the office of teaching the faith, whether due to their grade of dignity, such as priests, or due to revelation, such as prophets, or due to their ministry, such as teachers and preachers. But this is not so with others, on whom does not lie the office of teaching the faith, because it suffices for them, as they have only to rule themselves, to know those articles through which they can direct their own proper intention to the ultimate end. However, as regards the second explication of the articles, no one is wholly bound to know them to the point of making explicit all the things about salvation that are contained in the articles. For this cannot be except in heaven, where the very truth of the articles will be seen fully. But anyone on whom lies the office of instructing others about the faith—those who are being called “the great”—are bound to know as much of this explication as pertains to his office. But lesser ones, on whom the office of teaching does not lie, are not bound to this explication.  
 
 Reply Obj. 1: The simple are not condemned as heretics because they do not know the articles, but because they stubbornly defend the things that are contrary to the articles. This they would not do unless they were to have a faith corrupted by heresy.  
 
@@ -280,7 +282,7 @@ Reply Obj. 3: Those who know more are not called “great,” but rather those o
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that those on whom lies the office of teaching the faith are middles between God and men. Whence, relative to God they are men, and relative to men they are gods, insofar as they are participants of divine knowledge through their knowledge of the Scriptures, or through revelation, as is said in John 10:35: *he called them gods to whom the word of God came*. And therefore lesser ones, who ought to be taught about the faith by the great, must have an implicit faith in their faith, not insofar as they are men, but insofar as they are gods by participation.***
+To the fourth question, it should be said that those on whom lies the office of teaching the faith are middles between God and men. Whence, relative to God they are men, and relative to men they are gods, insofar as they are participants of divine knowledge through their knowledge of the Scriptures, or through revelation, as is said in John 10:35: *he called them gods to whom the word of God came*. And therefore lesser ones, who ought to be taught about the faith by the great, must have an implicit faith in their faith, not insofar as they are men, but insofar as they are gods by participation.  
 
 Reply Obj. 1: The determinate knowledge of the principles of demonstration is acquired from sensation. Whence for their determination we do not need teaching, and in such principles a man has, from the beginning, an implicit knowledge of all the things that follow from them. Nonetheless, he has an implicit knowledge in another knower’s cognition insofar as he needs to receive knowledge through teaching, for the learner must believe. And therefore knowledge and faith are not alike, since there are not inborn natural principles within us to which the articles of the faith can be traced back. Rather, the entire determination of faith is in us through teaching, and therefore one must have an implicit faith in a man’s cognition.  
 
@@ -296,7 +298,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed thus.Parallels: *ST* II-II.1.7; 2.7; 174.6; *De veritate,* q. 14, a. 12. It appears that the faith does not progress through the succession of time as far as things that should be believed explicitly.***
+To the second we proceed thus.Parallels: *ST* II-II.1.7; 2.7; 174.6; *De veritate,* q. 14, a. 12. It appears that the faith does not progress through the succession of time as far as things that should be believed explicitly.  
 
 Obj. 1: For faith, as it says in the text,*Sent*. III, 25.5(90).1. is proportioned to charity. But charity is the same and equal through all time periods. Therefore so is faith.  
 
@@ -314,7 +316,7 @@ Furthermore, Gregory saysGregory the Great, *Homiliarum in Ezechielem*, bk. 2, h
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that it was not always necessary to have an explicit faith about a redeemer.Parallels: below, expos. text.; *In IV Sent*., d. 6, q. 2, a. 2, resp. 1; *ST* II-II.2.7; *De veritate*, q. 14, a. 11; *Super Heb*. 11, lect. 2. For men did not know through faith about that which the angels were ignorant, for the cognition of faith through revelation that is from God is by the mediation of the angels, as Dionysius says in the *Celestial Hierarchy*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 2 (PG 3:179). But the angels did not know the mystery of redemption; whence the Apostle says in Ephesians 3:9 that it was hidden in God. Therefore neither did men have an explicit faith about him.***
+Obj. 1: Moreover, it appears that it was not always necessary to have an explicit faith about a redeemer.Parallels: below, expos. text.; *In IV Sent*., d. 6, q. 2, a. 2, resp. 1; *ST* II-II.2.7; *De veritate*, q. 14, a. 11; *Super Heb*. 11, lect. 2. For men did not know through faith about that which the angels were ignorant, for the cognition of faith through revelation that is from God is by the mediation of the angels, as Dionysius says in the *Celestial Hierarchy*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 2 (PG 3:179). But the angels did not know the mystery of redemption; whence the Apostle says in Ephesians 3:9 that it was hidden in God. Therefore neither did men have an explicit faith about him.  
 
 Obj. 2: Furthermore, Adam did not foreknow his own fall. But if he had not sinned, human redemption would not have occurred. Therefore the man did not always know explicitly the mystery of human redemption.  
 
@@ -328,7 +330,7 @@ Furthermore, just as a creator is a principle of existing in a nature being cons
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that it was not necessary to believe the articles concerning the redeemer that the Master touches on in the text.*Sent*. III, 25.3(88).2. Parallels: *ST* II-II.2.7; *De veritate*, q. 14, a. 11; *Super Heb*. 11, lect. 2. For John the Baptist was among the great, and he was held to having an explicit faith according to that time. But he himself had doubts about Christ’s death, as the Master says in the text.*Sent*. III, 25.3(88).3. Therefore it appears that the patriarchs did not have explicit faith about the death of Christ.***
+Obj. 1: Moreover, it appears that it was not necessary to believe the articles concerning the redeemer that the Master touches on in the text.*Sent*. III, 25.3(88).2. Parallels: *ST* II-II.2.7; *De veritate*, q. 14, a. 11; *Super Heb*. 11, lect. 2. For John the Baptist was among the great, and he was held to having an explicit faith according to that time. But he himself had doubts about Christ’s death, as the Master says in the text.*Sent*. III, 25.3(88).3. Therefore it appears that the patriarchs did not have explicit faith about the death of Christ.  
 
 Obj. 2: Furthermore, conception precedes birth. But it is not said to have been necessary that they have an explicit faith about his conception. Therefore it was not necessary that they have an explicit faith about his birth.  
 
@@ -340,7 +342,7 @@ Obj. 5: Furthermore, the salvation of men could have occurred without Christ com
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it appears that it was not necessary to have an explicit knowledge of the Trinity.Parallels: below, expos. text.; *In IV Sent*., d. 6, q. 2, a. 2, resp. 1; *ST* II-II.2.8; *De veritate*, q. 14, a. 11. For Hebrews 11:6 says that one *must believe that he exists and that he rewards those who seek him*. Therefore it appears that it was not necessary to know of the distinction of the persons.***
+Obj. 1: Moreover, it appears that it was not necessary to have an explicit knowledge of the Trinity.Parallels: below, expos. text.; *In IV Sent*., d. 6, q. 2, a. 2, resp. 1; *ST* II-II.2.8; *De veritate*, q. 14, a. 11. For Hebrews 11:6 says that one *must believe that he exists and that he rewards those who seek him*. Therefore it appears that it was not necessary to know of the distinction of the persons.  
 
 Obj. 2: Furthermore, the knowledge of faith is necessary insofar as it directs us to the end. But God is our end insofar as he is the highest good, which pertains to his essence. Therefore it appears that it was enough to believe in the essential things about God.  
 
@@ -352,7 +354,7 @@ Furthermore, the sending of the divine persons was always necessary for salvatio
 
 Response to Quaestiuncula 1  
 
-***I answer that faith is a sort of knowledge. Now, the quantity of one’s knowledge is considered in two ways: namely, according to its objects, and according to the efficacy of its acts concerning its object. Moreover, a habit is specified from its object, so the first quantity is essential to the habit; and according to this one considers the magnitude of one’s faith, which follows the quantity of its articles. And therefore in reference to this quantity, faith neither grows nor shrinks, since it always remains the same. However, the efficacy of one’s agency is due to the condition of the agent, and therefore with respect to three other magnitudes faith can progress while it itself remains the same, relative to the diverse conditions of men.***
+I answer that faith is a sort of knowledge. Now, the quantity of one’s knowledge is considered in two ways: namely, according to its objects, and according to the efficacy of its acts concerning its object. Moreover, a habit is specified from its object, so the first quantity is essential to the habit; and according to this one considers the magnitude of one’s faith, which follows the quantity of its articles. And therefore in reference to this quantity, faith neither grows nor shrinks, since it always remains the same. However, the efficacy of one’s agency is due to the condition of the agent, and therefore with respect to three other magnitudes faith can progress while it itself remains the same, relative to the diverse conditions of men.  
 
 Now, in the act of faith three things are found relative to which the quantity of the efficacy of faith can be considered. Two of them are according to its proper nature: namely, to think—and in reference to this faith is said to be great in cognition—and to assent—and in reference to this faith is said to be great in its constancy, since “assent” indicates certitude and determination, as was said above.Above, d. 23, a. 2, corpus and ad 1. However, the third is in the act of faith insofar as it is informed by charity, and in reference to this faith is called great in devotion. But the certitude of faith comes from the will determining the intellect to one thing, and so does its formation by charity, which is in the will, and moreover, the will has dominion over its acts also in reference to any time. Therefore, in speaking of the essential meaning of the “magnitude of faith” in reference to constancy and devotion, progress is considered according to the will’s readiness, which comes from grace, not from the succession of time periods—except incidentally, insofar as in a certain time there is a fuller inflowing of grace than in another, as regards the common state [of mankind], although not as regards all persons. But thinking pertains to the intellect, the virtues of which require experience and time, as is said in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.1, 1103a15. And therefore the quantity of faith that is in reference to the knowledge of its articles, speaking according to its essential meaning, does grow according to change of time.  
 
@@ -368,7 +370,7 @@ Reply Obj. 5: Something that is contained in an article can be made explicit in 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the human race stands to the faith in a redeemer according to diverse time periods in three ways. For in the first state, before sin, it was not necessary that any man have an explicit faith about a redeemer, since man was not yet brought into servitude; rather, it was enough to have an implicit faith in God’s knowledge, that is, such that a man would believe that God would provide for him in things that were necessary for his salvation. However, in the second state, after sin and before the coming of Christ, some had an explicit faith about a redeemer, those to whom a revelation had been made, who were called “the great”; but some, as “lesser ones,” had an implicit faith in the faith of the great, so the sacrament of redemption was proposed to them under the signs of the sacrifices. And in the third state, after the coming of Christ, because the mystery of redemption was now fulfilled bodily and visibly, and also preached, all are bound to believing explicitly. And if someone has no instructor, God would reveal it to him, unless he leaves [God] due to his own fault.***
+To the second question, it should be said that the human race stands to the faith in a redeemer according to diverse time periods in three ways. For in the first state, before sin, it was not necessary that any man have an explicit faith about a redeemer, since man was not yet brought into servitude; rather, it was enough to have an implicit faith in God’s knowledge, that is, such that a man would believe that God would provide for him in things that were necessary for his salvation. However, in the second state, after sin and before the coming of Christ, some had an explicit faith about a redeemer, those to whom a revelation had been made, who were called “the great”; but some, as “lesser ones,” had an implicit faith in the faith of the great, so the sacrament of redemption was proposed to them under the signs of the sacrifices. And in the third state, after the coming of Christ, because the mystery of redemption was now fulfilled bodily and visibly, and also preached, all are bound to believing explicitly. And if someone has no instructor, God would reveal it to him, unless he leaves [God] due to his own fault.  
 
 Reply Obj. 1: The angels learned of the mystery of the Incarnation first, before men, as Dionysius says in the *Celestial Hierarchy*,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 4 (PG 3:182). as regards what should be believed pertaining its very substance, but not as regards all the circumstances of the articles. These they later knew as they came about. We have spoken about this more fully in Book II.*In II Sent*., d. 11, q. 2, a. 4.  
 
@@ -380,7 +382,7 @@ Reply Obj. 4: Although nature was not sufficient through itself for knowledge of
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that explicit faith is necessary to direct one’s intention to the ultimate end. And through sin man had been led away from that end, and could not be led back except through the mediator of God and men, the Lord Jesus Christ. Therefore after sin it was necessary that one have an explicit knowledge about the redeemer, and chiefly as regards those things by which we have been led back to the end, in the overcoming of the enemy by whom we have been held captive. Now, so that we might be led back to the end, four things were required. The first is that our champion might be appointed, which occurred in his birth. The second is that he would fight on our behalf, which occurred in his Passion. The third is that he would overcome, which occurred in his Resurrection, when by overcoming death he opened the way to eternity. The fourth is that he would make everyone partakers of his victory, and this will be in the judgment, when he will render good things to the good, and bad to the bad. And therefore principally these things needed to be known explicitly about the redeemer. Yet it is possible that, according to diverse time periods, the distinction and explication of these increased before the coming of Christ, so that to the degree that these periods were closer to the coming of the Savior, so much more fully did they perceive the sacraments of salvation, as Gregory says.Gregory the Great, *Homiliarum in Ezechielem*, bk. 2, hom. 4, n. 9 (PL 76:979). And in this respect, both of the opinions in the text can be true, the first as regards those closer [to the coming of Christ], and the second as regards those more remote from it.***
+To the third question, it should be said that explicit faith is necessary to direct one’s intention to the ultimate end. And through sin man had been led away from that end, and could not be led back except through the mediator of God and men, the Lord Jesus Christ. Therefore after sin it was necessary that one have an explicit knowledge about the redeemer, and chiefly as regards those things by which we have been led back to the end, in the overcoming of the enemy by whom we have been held captive. Now, so that we might be led back to the end, four things were required. The first is that our champion might be appointed, which occurred in his birth. The second is that he would fight on our behalf, which occurred in his Passion. The third is that he would overcome, which occurred in his Resurrection, when by overcoming death he opened the way to eternity. The fourth is that he would make everyone partakers of his victory, and this will be in the judgment, when he will render good things to the good, and bad to the bad. And therefore principally these things needed to be known explicitly about the redeemer. Yet it is possible that, according to diverse time periods, the distinction and explication of these increased before the coming of Christ, so that to the degree that these periods were closer to the coming of the Savior, so much more fully did they perceive the sacraments of salvation, as Gregory says.Gregory the Great, *Homiliarum in Ezechielem*, bk. 2, hom. 4, n. 9 (PL 76:979). And in this respect, both of the opinions in the text can be true, the first as regards those closer [to the coming of Christ], and the second as regards those more remote from it.  
 
 Reply Obj. 1: John the Baptist knew these articles fully, so he had no doubt about them. However, he was able to doubt, without any prejudice to his salvation, about the other article about the Passion, implicit in that time—namely, about his descent into hell—although he did not do so stubbornly. This is clear, because he asked his to be taught. Or it could be said, as others say, that he himself had no doubt, but he as it were appeared to doubt insofar as he asked, not for his own sake, but for the sake of instructing his disciples. Or it was a doubt not based on ignorance, but on wonder and piety.  
 
@@ -392,7 +394,7 @@ Reply Obj. 5: In Christ’s judgment nothing will be merited for us, but that wh
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that, through the sending of the divine persons into us, a man is led to the ultimate end not only after sin, but even before sin. And therefore an explicit knowledge of the Trinity was necessary not only after sin, but even before sin—yet not in the same way before the coming of Christ and after. For before his coming, only the great had an explicit faith about this, but after the Incarnation all are bound to having an explicit faith about the three persons, just as they are about the mystery of the Incarnation, which cannot be known without the distinction of the persons being known, and because the sacraments of salvation are bestowed with the invocation of the Trinity.***
+To the fourth question, it should be said that, through the sending of the divine persons into us, a man is led to the ultimate end not only after sin, but even before sin. And therefore an explicit knowledge of the Trinity was necessary not only after sin, but even before sin—yet not in the same way before the coming of Christ and after. For before his coming, only the great had an explicit faith about this, but after the Incarnation all are bound to having an explicit faith about the three persons, just as they are about the mystery of the Incarnation, which cannot be known without the distinction of the persons being known, and because the sacraments of salvation are bestowed with the invocation of the Trinity.  
 
 Reply Obj. 1: The Apostle asserted that the things that any man must believe explicitly in any state; but this was not the case with the knowledge of the Trinity.  
 
@@ -402,7 +404,7 @@ Reply Obj. 3: Because it was not necessary that they believe all things explicit
 
 Exposition of the text  
 
-****In the Church also there are some who are less able*.*Sent.* III. 25. 2 (87). 2. To the contrary: It is just not enough for salvation that the mystery of the Incarnation be believed, even explicitly. It should be said to this that there is a likeness not as to all things but as to certain ones of the articles of faith, for they do not know how to distinguish those, although they do explicitly recognize what is contained in the articles. Now, they are bound to know explicitly the articles that the Church solemnizes and continually mentions, like the Trinity.***
+*In the Church also there are some who are less able*.*Sent.* III. 25. 2 (87). 2. To the contrary: It is just not enough for salvation that the mystery of the Incarnation be believed, even explicitly. It should be said to this that there is a likeness not as to all things but as to certain ones of the articles of faith, for they do not know how to distinguish those, although they do explicitly recognize what is contained in the articles. Now, they are bound to know explicitly the articles that the Church solemnizes and continually mentions, like the Trinity.  
 
 *These believe what they do not know*.*Sent*. III. 25. 2 (87). 2. This is against what was said above, that the faith is not about things unknown. It should be said to this that just as it is believed implicitly, it can also be implicitly known. Now, “not knowing” means not knowing explicitly.  
 

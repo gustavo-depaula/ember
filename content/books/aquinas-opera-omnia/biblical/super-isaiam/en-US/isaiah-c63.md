@@ -1,5 +1,7 @@
 # Chapter 61
 
+^61:1^ The spirit of the Lord is upon me, because the Lord has anointed me: he has sent me to preach to the meek, to heal the contrite of heart, and to preach a release to the captives, and deliverance to them that are shut up.  
+
 > ^61:2^ To proclaim the acceptable year of the Lord, and the day of vengeance of our God: to comfort all that mourn:
 
 > ^61:3^ To appoint to the mourners of Zion, and to give them a crown for ashes, the oil of joy for mourning, a garment of praise for the spirit of grief: and they shall be called in it the mighty ones of justice, the planting of the Lord to glorify him.

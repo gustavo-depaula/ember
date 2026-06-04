@@ -1,10 +1,12 @@
 # Q. 12 - On wrath
 
+***De ira***
+
 ***Articulus 1***
 
 ***Utrum omnis ira sit mala***
 
-***Quaestio est de ira. Et primo quaeritur utrum omnis ira sit mala, vel aliqua ira sit bona.***
+Quaestio est de ira. Et primo quaeritur utrum omnis ira sit mala, vel aliqua ira sit bona.  
 
 Et videtur quod omnis ira sit mala. Hieronymus enim exponens illud Matth., cap. V, 22: *qui irascitur fratri suo*, sic dicit: *in aliquibus codicibus additur, sine causa; ceterum in veris definita sententia est, et ira penitus tollitur. Si enim iubemur orare pro persequentibus, omnis irae occasio tollitur; et hoc omnino est et sine causa, quia ira viri iustitiam Dei non operatur*. Ergo omnis ira est mala et prohibita.  
 
@@ -232,7 +234,7 @@ Articulus 4
 
 ***Utrum ira sit levius peccatum odio et invidia et aliis huiusmodi***
 
-***Quarto quaeritur utrum ira sit levius peccatum odio et invidia et aliis huiusmodi.***
+Quarto quaeritur utrum ira sit levius peccatum odio et invidia et aliis huiusmodi.  
 
 Et videtur quod non. Quia ut Augustinus dicit in Enchir. malum dicitur quia nocet. Ergo quanto aliquod peccatum maius nocumentum affert, tanto gravius est. Sed ira maius nocumentum infert homini quam invidia; dicit enim Hugo de sancto Victore Lib. de septenariis, quod superbia aufert homini Deum, invidia proximum, ira seipsum. Ergo invidia non est gravius peccatum quam ira.  
 

@@ -1,5 +1,7 @@
 # Proposition 28
 
+194. Every substance that stands through its essence is simple and is not divided.  
+
 > 195. This is because if someone were to say: it is possible that it be divided, we would say, if it is possible that a substance that stands through itself be divided and itself be simple, it is possible that the essence of part of it exist through its essence again as if it were the essence of the whole. Thus if that is possible, the part returns upon itself, and every one of its parts is returning on itself, just as if it is a return of the whole over its essence; and this is impossible. Thus if this is impossible, a substance that stands through itself is indivisible and is simple.
 
 > 196. But if it is not simple but is composite, one part of it is better than another part and one part of it is worse than another part; Thus a better thing comes from a lesser thing and a lesser thing from a better thing, insofar as every one of its parts is separated from every other.

@@ -1,8 +1,10 @@
 # D. 36 - Sin and punishment
 
+***Sin and punishment***
+
 ***Division of the text***
 
-***Having thoroughly treated of the opinion positing that the acts of sins, precisely as acts, are good and are from God, on the occasion of the last objection cited against this opinion, which was taken from the difference between fault and punishment, here he inquires whether fault and punishment can be identical.***
+Having thoroughly treated of the opinion positing that the acts of sins, precisely as acts, are good and are from God, on the occasion of the last objection cited against this opinion, which was taken from the difference between fault and punishment, here he inquires whether fault and punishment can be identical.  
 
 This is divided into three parts.  
 
@@ -66,7 +68,7 @@ Article 1
 
 ***Whether one sin can be the cause of another sin***
 
-***To the first we proceed as follows.Parallel texts: below, d. 42, q. 2, aa. 1, 3; *ST* III.75.4; *On Evil*, q. 8, a. 1; *Commentary on Romans*, ch. 1, lect. 7. It seems that sin cannot be the cause of sin.***
+To the first we proceed as follows.Parallel texts: below, d. 42, q. 2, aa. 1, 3; *ST* III.75.4; *On Evil*, q. 8, a. 1; *Commentary on Romans*, ch. 1, lect. 7. It seems that sin cannot be the cause of sin.  
 
 Obj. 1: For what is nothing does not seem to have the account of a cause. But sin is nothing, and men become nothing when they sin, as established above in the preceding distinction from the words of Augustine.Augustine, *In Iohannis evangelium tractatus*, tract. 1, para. 13 (CCSL 36; PL 35:1385). Therefore, sin cannot be the cause of sin.  
 
@@ -106,7 +108,7 @@ Article 2
 
 ***Whether a passion can be a sin***
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.24.1, 2; *On Evil*, q. 10, a. 1, ad 1; q. 12, a. 2, ad 1; a. 3. It seems that a passionThe Latin word *passio* can be translated most generically as “undergoing” or “being acted upon”: in this sense, it is the opposite of “action” and one of the ten categories; but the word can also be translated more specifically as “emotion,” “suffering,” “passion,” etc. In this article, we have opted for the more neutral “passion,” but the variations of meaning should be kept in mind. can be a sin.***
+To the second we proceed as follows.Parallel texts: *ST* I-II.24.1, 2; *On Evil*, q. 10, a. 1, ad 1; q. 12, a. 2, ad 1; a. 3. It seems that a passionThe Latin word *passio* can be translated most generically as “undergoing” or “being acted upon”: in this sense, it is the opposite of “action” and one of the ten categories; but the word can also be translated more specifically as “emotion,” “suffering,” “passion,” etc. In this article, we have opted for the more neutral “passion,” but the variations of meaning should be kept in mind. can be a sin.  
 
 Obj. 1: For passion is a kind of movement of the sensuality. But disordered movement of the sensuality is a sin, as was said above.Above: d. 24, q. 3, a. 2. Therefore, passion can be a sin.  
 
@@ -144,7 +146,7 @@ Article 3
 
 ***Whether one sin can be the punishment for another sin***
 
-***To the third we proceed as follows.Parallel texts: *In I Sent*., d. 46, q. 1, a. 2, ad 4; *ST* I-II.87.2; *On Evil*, q. 1, a. 4, ad 1–13; *Commentary on Romans*, ch. 1, lect. 7. It seems that a sin cannot be the punishment for a sin.***
+To the third we proceed as follows.Parallel texts: *In I Sent*., d. 46, q. 1, a. 2, ad 4; *ST* I-II.87.2; *On Evil*, q. 1, a. 4, ad 1–13; *Commentary on Romans*, ch. 1, lect. 7. It seems that a sin cannot be the punishment for a sin.  
 
 Obj. 1: For every punishment is ordained and is from God. But no fault possesses order or is from God. Therefore, fault cannot be a punishment.  
 
@@ -198,7 +200,7 @@ Article 4
 
 ***Whether every punishment is inflicted for a sin***
 
-***To the fourth we proceed as follows. It seems that not every punishment is inflicted for a sin.***
+To the fourth we proceed as follows. It seems that not every punishment is inflicted for a sin.  
 
 Obj. 1: For, as Augustine says,This is not found verbatim in the works of Augustine, but Mandonnet suggests that it can be gathered dispersedly from *Tractates on the Gospel of John*, tract. 124 (CCSL 36; PL 35:1969–76) and *Enarrationes in Psalmos*, Psalm 9, paras. 20–35; (CCSL 38; PL 36:125–31); Psalm 57 (CCSL 39; PL 36:673–92). chastisements occur in five ways: so that the merits of the just may increase through patience, as in the case of Job; to guard the virtues from the temptation of pride, as in the case of Paul; to correct sins, as in the case of Miriam’s leprosy; to initiate punishment, as in the case of Herod; or to manifest the glory of God, as in the case of the man born blind. But three of these ways do not express a punishment inflicted for any sin. Therefore, not every punishment is inflicted for a sin.  
 
@@ -236,7 +238,7 @@ Article 5
 
 ***Whether the distinction of goods is fitting***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I-II.18.1–3; *On Evil*, q. 2, a. 4. It seems that the distinction of goods, such that some are called “goods” by their genus, others by their end, and others by their cause, is unfittingly posited.See *Sent*. II, 36.6(242).5.***
+To the fifth we proceed as follows.Parallel texts: *ST* I-II.18.1–3; *On Evil*, q. 2, a. 4. It seems that the distinction of goods, such that some are called “goods” by their genus, others by their end, and others by their cause, is unfittingly posited.See *Sent*. II, 36.6(242).5.  
 
 Obj. 1: For what befits something with reference to its genus will not be able to be removed from it by adding a difference. For no matter what difference is added to “animal,” “sensible” will always remain in it. But to refresh the hungry and similar acts that he calls goods by genus can be done in an evil way, such as when they are done for vainglory. Therefore, they are unfittingly called “goods by genus.”  
 
@@ -268,7 +270,7 @@ Reply Obj. 5: A given act has two ends: the proximate end, which is its object, 
 
 Exposition of the text  
 
-****‘Few are able to see these punishments*.’*Sent*. II, 36.1(237).1, quoting Augustine, *Enarrationes in Psalmos*, Psalm 57:9, paras. 18–19 (CCSL 39; PL 36:687). The Philosopher gives the reason for this in the *Ethics* 9,See perhaps: Aristotle, *Nicomachean Ethics* 10.5, 1175b24–1176a23. since an intellectual nature that is bereft of its goods in this way has become hidden, while the external nature is more apparent. Hence it has been believed more by men devoted to the senses that they are what they are on account of their sensitive nature rather than their intellectual nature. Thus, they do not regard what harms them in their intellectual nature as a punishment, but only what harms the external nature known to them, while the truth of the matter is on the contrary side.***
+*‘Few are able to see these punishments*.’*Sent*. II, 36.1(237).1, quoting Augustine, *Enarrationes in Psalmos*, Psalm 57:9, paras. 18–19 (CCSL 39; PL 36:687). The Philosopher gives the reason for this in the *Ethics* 9,See perhaps: Aristotle, *Nicomachean Ethics* 10.5, 1175b24–1176a23. since an intellectual nature that is bereft of its goods in this way has become hidden, while the external nature is more apparent. Hence it has been believed more by men devoted to the senses that they are what they are on account of their sensitive nature rather than their intellectual nature. Thus, they do not regard what harms them in their intellectual nature as a punishment, but only what harms the external nature known to them, while the truth of the matter is on the contrary side.  
 
 *‘He enumerates intermediate things that are sins and punishments for sin*.’*Sent*. II, 36.1(237).1, quoting Augustine, *Enarrationes in Psalmos*, Psalm 57:9, paras. 18–19 (CCSL 39; PL 36:687). This should be understood of what is in the genus of fault. Otherwise it would be false, since some things are only punishments and in no way faults.  
 

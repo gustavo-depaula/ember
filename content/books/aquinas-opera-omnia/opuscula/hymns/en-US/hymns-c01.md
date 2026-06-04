@@ -1,5 +1,8 @@
 # Sing, My Tongue
 
+***Hymn from Vespers***
+***[translated by Rev. Edward Caswell (1814–1878)]***
+
 ***Sing, my tongue, the savior’s glory,***
 ***of his flesh the mystery sing;***
 ***of the blood, all price exceeding,***

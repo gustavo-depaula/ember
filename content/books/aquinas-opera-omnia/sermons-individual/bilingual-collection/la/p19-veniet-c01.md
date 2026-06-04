@@ -1,5 +1,7 @@
 # Sermon
 
+Sicut dicit Augustinus ad Optatum: *a damnatione quae facta est per Adam, nullus liberatur nisi per fidem Iesu Christi*. Hoc probat sufficienter Apostolus ad Hebreos XI, ubi ostendit quod nemo unquam Deo placere potuit sine fide. Ex quo colligitur quod omni tempore post lapsum fuit necessaria fides de reparatione, quia nec peccati originalis nec actualis infirmitas aliter habuit medicinam. Et ideo omnes sancti ab origine mundi semper optabant et desiderabant Salvatoris adventum.  
+
 Et hoc bene et plane ostenditur in verbo proposito in quo propheta ostendit tria per ordinem:  
 
 primo, ipsum Dei Filium de caelis venientem: ***veniet***;  

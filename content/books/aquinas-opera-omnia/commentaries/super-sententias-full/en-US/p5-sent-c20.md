@@ -1,8 +1,10 @@
 # D. 19 - Christ's merit as ordered to taking away evil
 
+***Christ's merit as ordered to taking away evil***
+
 ***Division of the text***
 
-***After the Master has considered Christ’s merit insofar as it is ordered to attaining the good for himself and for us, here he considers his merit insofar as it is ordered to removing the evil that is in us. For in himself he is neither subject to any fault nor does he owe any punishment.***
+After the Master has considered Christ’s merit insofar as it is ordered to attaining the good for himself and for us, here he considers his merit insofar as it is ordered to removing the evil that is in us. For in himself he is neither subject to any fault nor does he owe any punishment.  
 
 Now, this is divided into two parts.  
 
@@ -84,7 +86,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first let us proceed as follows.Parallels: below, expos. text; *ST* III.49.1; 69.1, ad 2 and ad 3; *Compendium theol.,* ch. 239; *In Symbolorum Apostolorum*, a. 4. It appears that we are not freed from sin through Christ’s Passion.***
+To the first let us proceed as follows.Parallels: below, expos. text; *ST* III.49.1; 69.1, ad 2 and ad 3; *Compendium theol.,* ch. 239; *In Symbolorum Apostolorum*, a. 4. It appears that we are not freed from sin through Christ’s Passion.  
 
 Obj. 1: For Christ suffered not in virtue of his divine nature, but in virtue of his human. But to wipe out sin is something that belongs to God alone, as is clear from Isaiah 43:25, because it is of him alone to give the grace through which sins are wiped out. Therefore through Christ’s suffering our sins could not be wiped out.  
 
@@ -102,7 +104,7 @@ Furthermore, a sign corresponds to what it signifies. But the rite of the Old La
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that not all sins are wiped out through Christ’s death. For no one is damned except on account of sin. But many are damned after Christ’s Passion. Therefore not all fault was wiped out.***
+Obj. 1: Moreover, it appears that not all sins are wiped out through Christ’s death. For no one is damned except on account of sin. But many are damned after Christ’s Passion. Therefore not all fault was wiped out.  
 
 Obj. 2: Furthermore, what is wiped out once cannot be wiped out again. But the sins of the patriarchs were wiped out, both with respect to actual sins, through repentance, and with respect to original sin, through circumcision. Therefore not all sins of the human race were wiped out through Christ’s Passion.  
 
@@ -118,7 +120,7 @@ Furthermore, Christ’s Passion in and of itself is ordered to wiping out all si
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that “wiping out sin” is said in two ways: in one way formally, just as whiteness is said to wipe out blackness through the fact that it arrives in the subject—and in this sense grace does wipe out sin—and in another way, it is said efficiently, and this latter happens in three ways, according to the three kinds of efficient cause.***
+To the first question, I answer that “wiping out sin” is said in two ways: in one way formally, just as whiteness is said to wipe out blackness through the fact that it arrives in the subject—and in this sense grace does wipe out sin—and in another way, it is said efficiently, and this latter happens in three ways, according to the three kinds of efficient cause.  
 
 For a cause is called “efficient” in one way if it perfects the effect, and this is the principal agent bringing forth the form. And this way God alone wipes out sin, since he alone infuses grace.  
 
@@ -140,7 +142,7 @@ Reply Obj. 5: One should say something similar to the fifth, regarding faith.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that two things are required for something to be able to induce an effect in another: one on the side of the agent—namely, that it have a power sufficient to induce that effect—the other on the side of the recipient—namely, such that it is disposed toward receiving the action. Now, on the side of Christ himself, there is the sufficiency for wiping out all our sin, due to two things: due to the action in which the merit consists, which acts in the divine power, insofar as it is the action of God and man, as was said, and from this it has an infinite efficacy in meriting; and again, from the fact that his Passion takes it away—namely, through his soul united to God, which had an infinite strength from the fact that it was united to God; and from this there is an infinite efficacy in making satisfaction. However, on our side it is required that we prepare for receiving the effect of Christ’s merit in us through the faith of our understanding and the charity of our affect, and through the imitation of work—which does not happen in all men. And therefore with respect to the sufficiency of the making satisfaction and merit, all sins have been wiped away through Christ’s Passion, but not with respect to its efficiency.***
+To the second question, it should be said that two things are required for something to be able to induce an effect in another: one on the side of the agent—namely, that it have a power sufficient to induce that effect—the other on the side of the recipient—namely, such that it is disposed toward receiving the action. Now, on the side of Christ himself, there is the sufficiency for wiping out all our sin, due to two things: due to the action in which the merit consists, which acts in the divine power, insofar as it is the action of God and man, as was said, and from this it has an infinite efficacy in meriting; and again, from the fact that his Passion takes it away—namely, through his soul united to God, which had an infinite strength from the fact that it was united to God; and from this there is an infinite efficacy in making satisfaction. However, on our side it is required that we prepare for receiving the effect of Christ’s merit in us through the faith of our understanding and the charity of our affect, and through the imitation of work—which does not happen in all men. And therefore with respect to the sufficiency of the making satisfaction and merit, all sins have been wiped away through Christ’s Passion, but not with respect to its efficiency.  
 
 Reply Obj. 1: In those who are damned there is a disposition opposed to receiving the effect of Christ’s merit. This is why it happens that their sins are not wiped away, not because of any insufficiency of the merit of Christ’s Passion.  
 
@@ -156,7 +158,7 @@ Article 2
 
 ***Whether through Christ’s Passion we are freed from the devil***
 
-***To the second we proceed as follows.Parallels: *ST* III.48.4; 49.2; *Super Heb.* 2, lect. 4. It appears that through Christ’s Passion we are not freed from the devil.***
+To the second we proceed as follows.Parallels: *ST* III.48.4; 49.2; *Super Heb.* 2, lect. 4. It appears that through Christ’s Passion we are not freed from the devil.  
 
 Obj. 1: For the freedom of man consists in the fact that he cannot be forced. But just as now a free decision cannot be forced by the devil, so too neither could it be before Christ’s Passion. Therefore Christ’s Passion did not free us from the power of the demon.  
 
@@ -194,7 +196,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed as follows.Parallels: *ST* III.48.6.ad 3; 49.3; *In Symbolorum Apostolorum,* a. 4. It appears that through Christ’s Passion we have not been freed from the eternal penalty.***
+To the third we proceed as follows.Parallels: *ST* III.48.6.ad 3; 49.3; *In Symbolorum Apostolorum,* a. 4. It appears that through Christ’s Passion we have not been freed from the eternal penalty.  
 
 Obj. 1: For the eternal punishment is the punishment of hell. But *in hell there is no redemption*. Therefore Christ’s Passion did not liberate us from eternal punishment.  
 
@@ -208,7 +210,7 @@ Furthermore, Zachariah 9:11 says, *as for you also, because of the blood of my c
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he did not free us from temporal punishment. For a temporal penalty is still enjoined on penitents for their sins. Therefore we have not been freed from it by Christ.***
+Obj. 1: Moreover, it appears that he did not free us from temporal punishment. For a temporal penalty is still enjoined on penitents for their sins. Therefore we have not been freed from it by Christ.  
 
 Obj. 2: Furthermore, *Christ also suffered for you, leaving you an example, that you should follow in his steps* (1 Pet 2:21). However, this happens only by suffering. Therefore Christ through his Passion has bound us to suffering temporal punishment rather than freed us from it.  
 
@@ -222,7 +224,7 @@ Furthermore, God does not punish twice for the very same thing (Nah 1:9). But Go
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that eternal punishment is said by way of opposition to eternal life; whence the punishment through which eternal life is absent is called the “eternal punishment.” Now, a man can give up eternal life in two ways: through the sin of the nature—namely, original sin, the penalty of which is the lack of the divine vision—and through actual personal, that is, mortal sin. Therefore all men incur the eternal punishment insofar as it follows from original sin, yet some do so only according to the debt of punishment, such as those who still live in the flesh, but some do so according to the experience of that punishment, such as those who have already died. Likewise also not all incur the eternal punishment that is owed to actual sin, but some do so either with respect only to the debt of punishment, such as those in a state of mortal sin, or with respect to experience, such as the damned.***
+To the first question, I answer that eternal punishment is said by way of opposition to eternal life; whence the punishment through which eternal life is absent is called the “eternal punishment.” Now, a man can give up eternal life in two ways: through the sin of the nature—namely, original sin, the penalty of which is the lack of the divine vision—and through actual personal, that is, mortal sin. Therefore all men incur the eternal punishment insofar as it follows from original sin, yet some do so only according to the debt of punishment, such as those who still live in the flesh, but some do so according to the experience of that punishment, such as those who have already died. Likewise also not all incur the eternal punishment that is owed to actual sin, but some do so either with respect only to the debt of punishment, such as those in a state of mortal sin, or with respect to experience, such as the damned.  
 
 Therefore Christ through his Passion absolved us in two ways from the eternal punishment that is owed to original sin, which all contract: namely, by removing the guilt for those who were made participants in his redemption and yet lived, and by removing the punishment for those who had already died—and from all men, as regards its sufficiency, but as regards its efficacy, only from those in whom none was found. But he absolved us from the punishment owed to actual mortal sin in two ways: in one way, by offering aid to prevent one from incurring guilt, and in another way, by also offering the medicine by which the guilt could be removed from those who within themselves receive the power of his Passion. But it cannot be that someone might be freed from a punishment that he has already received, because he is not in the state of the wayfarer, such that he could receive grace and charity, through which the strength of Christ’s Passion is communicated to men.  
 
@@ -234,7 +236,7 @@ Reply Obj. 3: The punishment of hell is called “eternal” both because in the
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a punishment is called “temporal” through which some temporal good is taken away, since a temporal good is not naturally apt to remain always. Now, this temporal punishment in man is of two sorts. For some things are found universally in the entirety of human nature—such as the necessity of dying, the ability to suffer, the disobedience of the flesh against the spirit, and the like; and this punishment is owed to human nature due to original sin. But nevertheless such things follow from the principles of the nature if the grace of innocence has been taken away. Therefore Christ—through his own punishment of suffering—removed these punishment from all men sufficiently, although not from all men efficaciously, namely, those who are not partakers of his Passion. Nevertheless, neither was this such that they are removed from all men right away after the Passion, or such that they were removed from those who receive the sacraments of his Passion immediately after receiving the sacrament. Rather, in the end of the world they will be removed from all the saints at once, because such punishments are owed to the nature, in which all men are one; whence at that time not only the nature of men but that of the entire world will be restored through the resurrection. For *the creation itself will be set free from its bondage to decay and obtain the glorious liberty of the children of God* (Rom 8:21). However, there are other punishments that are inflicted on certain men specifically, and these punishments can be related to them in two ways.***
+To the second question, it should be said that a punishment is called “temporal” through which some temporal good is taken away, since a temporal good is not naturally apt to remain always. Now, this temporal punishment in man is of two sorts. For some things are found universally in the entirety of human nature—such as the necessity of dying, the ability to suffer, the disobedience of the flesh against the spirit, and the like; and this punishment is owed to human nature due to original sin. But nevertheless such things follow from the principles of the nature if the grace of innocence has been taken away. Therefore Christ—through his own punishment of suffering—removed these punishment from all men sufficiently, although not from all men efficaciously, namely, those who are not partakers of his Passion. Nevertheless, neither was this such that they are removed from all men right away after the Passion, or such that they were removed from those who receive the sacraments of his Passion immediately after receiving the sacrament. Rather, in the end of the world they will be removed from all the saints at once, because such punishments are owed to the nature, in which all men are one; whence at that time not only the nature of men but that of the entire world will be restored through the resurrection. For *the creation itself will be set free from its bondage to decay and obtain the glorious liberty of the children of God* (Rom 8:21). However, there are other punishments that are inflicted on certain men specifically, and these punishments can be related to them in two ways.  
 
 In one way, as punishing a fault, insofar as fault makes one owe this penalty; and in this way Christ carried off all such penalties with his death, as regards sufficiency, by removing their cause. But with respect to someone being freed from these penalties with respect to efficacy, it is necessary that he become a partaker of Christ’s Passion. And this happens in two ways. First, through the sacrament of the Passion—namely, baptism, in which we are buried with Christ in his death, as is said in Rom 6:4, wherein the divine power, which knows no weakness, works salvation; and therefore every such penalty is destroyed in baptism. Second, someone becomes a partaker in Christ through a real conformity to him—namely, inasmuch as we suffer with the suffering Christ, which occurs through penance.  
 
@@ -254,7 +256,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed as follows.Parallels: *ST* III.48.4; 48.6.ad 3; *Super Rom.* 3, lect. 3. It appears that by reason of this liberation Christ should not be called “Redeemer.”***
+To the fourth we proceed as follows.Parallels: *ST* III.48.4; 48.6.ad 3; *Super Rom.* 3, lect. 3. It appears that by reason of this liberation Christ should not be called “Redeemer.”  
 
 Obj. 1: For “redemption” signifies repeated buying. But Christ bought us at no another time. Therefore neither should he be said to redeem us from the fact that he freed us.  
 
@@ -268,7 +270,7 @@ Furthermore, wherever there is some exchange there appears to be a buying. But i
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that not only the Son should be called “redeemer.”Parallels: *ST* III.48.5. For to be a redeemer belongs to him who pays the price. But God the Father gave the Son to us as the price of redemption: *God sent forth his Son, . . . born under the law, to redeem those who were under the law* (Gal 4:4–5). Therefore God the Father redeems us.***
+Obj. 1: Moreover, it appears that not only the Son should be called “redeemer.”Parallels: *ST* III.48.5. For to be a redeemer belongs to him who pays the price. But God the Father gave the Son to us as the price of redemption: *God sent forth his Son, . . . born under the law, to redeem those who were under the law* (Gal 4:4–5). Therefore God the Father redeems us.  
 
 Obj. 2: Furthermore, redeeming from the enemy belongs to him to whom it also belongs to conquer the enemy. But Christ conquers the enemy who held us prisoner through the power that he has together with the Father. Therefore the Father [also] redeems us.  
 
@@ -280,7 +282,7 @@ Furthermore, he became incarnate so that he might redeem us. Now, only the Son b
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that through the sin of the first parents the entire human race was alienated from God, as is said in Ephesians 2:12—not indeed from the power of God, but from the vision of God’s face, to which both sons and members of the household are admitted. And further, we came into the power of the usurping devil, to whom man by his own consent subjected himself, to the degree that he could—although he could not do it by right, because he was not his own, but belonged to another. And therefore through his own Passion Christ did two things. For he freed us from the power of the enemy by conquering him through things contrary to the things by which the enemy conquered man—namely, humility, obedience, and the bitterness of punishment, which are opposed to the delight of the forbidden food. And further, by making satisfaction for the fault, he joined us to God and made us members of the household of God, and even sons. Whence such liberation has two parts of the account of buying: for he is said to have redeemed us inasmuch as he rescued us from the power of the devil, just as when a kingdom has been occupied by an enemy, the king redeems it through the labor of battle; and he is also said to have redeemed us inasmuch as he pleased God on our behalf, as paying on our behalf the price of his satisfaction, so that we might be freed from punishment and from sin.***
+To the first question, I answer that through the sin of the first parents the entire human race was alienated from God, as is said in Ephesians 2:12—not indeed from the power of God, but from the vision of God’s face, to which both sons and members of the household are admitted. And further, we came into the power of the usurping devil, to whom man by his own consent subjected himself, to the degree that he could—although he could not do it by right, because he was not his own, but belonged to another. And therefore through his own Passion Christ did two things. For he freed us from the power of the enemy by conquering him through things contrary to the things by which the enemy conquered man—namely, humility, obedience, and the bitterness of punishment, which are opposed to the delight of the forbidden food. And further, by making satisfaction for the fault, he joined us to God and made us members of the household of God, and even sons. Whence such liberation has two parts of the account of buying: for he is said to have redeemed us inasmuch as he rescued us from the power of the devil, just as when a kingdom has been occupied by an enemy, the king redeems it through the labor of battle; and he is also said to have redeemed us inasmuch as he pleased God on our behalf, as paying on our behalf the price of his satisfaction, so that we might be freed from punishment and from sin.  
 
 Reply Obj. 1: The repetition that is implied by the preposition [“re-“ in “redemptio”] does not refer to the act of buying, as though we will be bought again, but to the terminus of the act, since we were at another time in a state of innocence. For to buy is to make something one’s own. Or it should be said that it is called “re-demption” [buying back] in reference to that selling by which we sold ourselves to the devil, through the consent of sin, with respect to which selling this is a second buying.  
 
@@ -290,7 +292,7 @@ Reply Obj. 3: Although the devil took us unjustly, nonetheless we justly came in
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the effect of redemption can be attributed to both a proximate cause and to a remote cause. If it is attributed to the proximate cause, in this way Christ redeems us through what he did in and endured in his human nature, by which also he made satisfaction to the Father for all men, and by resisting the enemy’s temptations, conquered him. However, if it is referred to the first and remote cause, in this way it is attributed to the entire Trinity, inasmuch as the entire Trinity accepted our redemption and gave the Son to us as the redeemer, insofar as the Passion, through the power of the divinity, had the power to make satisfaction for the entire human race. But because he is properly said to “buy” who pays the price of the purchase more than he who sends the one who does the buying, therefore properly speaking only Christ is called the “Redeemer,” even though the entire Trinity can also be called the “redeemer.”***
+To the second question, it should be said that the effect of redemption can be attributed to both a proximate cause and to a remote cause. If it is attributed to the proximate cause, in this way Christ redeems us through what he did in and endured in his human nature, by which also he made satisfaction to the Father for all men, and by resisting the enemy’s temptations, conquered him. However, if it is referred to the first and remote cause, in this way it is attributed to the entire Trinity, inasmuch as the entire Trinity accepted our redemption and gave the Son to us as the redeemer, insofar as the Passion, through the power of the divinity, had the power to make satisfaction for the entire human race. But because he is properly said to “buy” who pays the price of the purchase more than he who sends the one who does the buying, therefore properly speaking only Christ is called the “Redeemer,” even though the entire Trinity can also be called the “redeemer.”  
 
 Reply Obj. 1–3, On the contrary: And thereby, the solution to each part is clear.  
 
@@ -300,7 +302,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***To the fifth we proceed as follows.Parallel: *Super 1 Tim*. 2, lect. 1. It appears that Christ did not reconcile us to God, which is the office of a mediator.***
+To the fifth we proceed as follows.Parallel: *Super 1 Tim*. 2, lect. 1. It appears that Christ did not reconcile us to God, which is the office of a mediator.  
 
 Obj. 1: For one does not become reconciled to one who already loves him, but to one who hates him. But God the Father loved us, for *he loves all things that are and he hates nothing that he has made*, according to Wisdom 11:24. Therefore Christ did not reconcile us to him.  
 
@@ -314,7 +316,7 @@ Furthermore, we are reconciled to God through making satisfaction. But Christ ma
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he is not the mediator through his human nature.Parallels: *ST* III.26.2; *De veritate*, q. 29, a. 5, ad 5; *Super 1 Tim*. 2, lect. 1. For an extreme is not the same as the middle. But human nature is an extreme of this reconciliation that occurs between man and God. Therefore insofar as he is a man Christ is not a mediator.***
+Obj. 1: Moreover, it appears that he is not the mediator through his human nature.Parallels: *ST* III.26.2; *De veritate*, q. 29, a. 5, ad 5; *Super 1 Tim*. 2, lect. 1. For an extreme is not the same as the middle. But human nature is an extreme of this reconciliation that occurs between man and God. Therefore insofar as he is a man Christ is not a mediator.  
 
 Obj. 2: Furthermore, a middle is composed from its extremes. But the only composite of human and divine natures in Christ is the person. Therefore he is the mediator not by reason of the human nature, but by reason of the composite person.  
 
@@ -326,7 +328,7 @@ Furthermore, he is a mediator insofar as he is the redeemer. But he redeems us i
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that it does not belong to Christ alone to be the mediator.Parallels: *In IV Sent*., d. 48, q. 1, a. 2; *ST* III.26.1; *Super Gal*. 3, lect. 7; *Super 1 Tim*. 2, lect. 1. For he who makes peace between God and man is a mediator. Now, this is the Holy Spirit, who is the love by which God loves us, and in whom we love God, in virtue of the gift of charity, in which he is given to us. Therefore it appears that the Holy Spirit should be called a “mediator.”***
+Obj. 1: Moreover, it appears that it does not belong to Christ alone to be the mediator.Parallels: *In IV Sent*., d. 48, q. 1, a. 2; *ST* III.26.1; *Super Gal*. 3, lect. 7; *Super 1 Tim*. 2, lect. 1. For he who makes peace between God and man is a mediator. Now, this is the Holy Spirit, who is the love by which God loves us, and in whom we love God, in virtue of the gift of charity, in which he is given to us. Therefore it appears that the Holy Spirit should be called a “mediator.”  
 
 Obj. 2: Furthermore, a middle is what fits with its extremes. But the demons fit with God in that they are immortal, but with us in that they are wretched. Therefore the demons are also mediators, not only Christ.  
 
@@ -342,7 +344,7 @@ Furthermore, one is called our mediator from the fact that he has made satisfact
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that God’s love for us is indicated by its effect. For because he in and of himself is related equally to all men, he is said to love certain ones insofar as he makes them partakers of his own goodness. Now, the ultimate and most complete participation of his goodness consists in the vision of his very essence, in virtue of which we live in society with him as his friends, since beatitude consists in that sweetness. Whence he is said to love simply speaking those whom he admits to this vision, either according to reality, or according to its cause, as is clear in those to whom he has given the Holy Spirit as a pledge of that vision.***
+To the first question, I answer that God’s love for us is indicated by its effect. For because he in and of himself is related equally to all men, he is said to love certain ones insofar as he makes them partakers of his own goodness. Now, the ultimate and most complete participation of his goodness consists in the vision of his very essence, in virtue of which we live in society with him as his friends, since beatitude consists in that sweetness. Whence he is said to love simply speaking those whom he admits to this vision, either according to reality, or according to its cause, as is clear in those to whom he has given the Holy Spirit as a pledge of that vision.  
 
 Therefore man, through sin, was removed from this participation in divine goodness—that is, from the vision of his very essence—and in virtue of this man was said to have been deprived of God’s love. And therefore inasmuch as Christ, making satisfaction on our behalf through his own Passion, obtained the admittance of men to the vision of God, in virtue of this he is said to have reconciled us with God.  
 
@@ -354,7 +356,7 @@ Reply Obj. 3: On the side of those who murdered Christ there was nothing that mi
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that there are two things to consider in a middle: the reason why it is called a middle, and the act of the middle. Now, something is called a middle from the fact that it is between extremes, whereas the act of the middle is to join the extremes. Therefore something is called a “mediator” from the fact that it exercises the act of a middle by joining things that are separate.***
+To the second question, it should be said that there are two things to consider in a middle: the reason why it is called a middle, and the act of the middle. Now, something is called a middle from the fact that it is between extremes, whereas the act of the middle is to join the extremes. Therefore something is called a “mediator” from the fact that it exercises the act of a middle by joining things that are separate.  
 
 However, a thing can exercise the act of a middle only by the nature of a middle in some way being in it, so that it might be between the extremes. Now, to be between the extremes belongs to a thing in two ways: namely, with respect to the middle partaking of each extreme, and according to order, inasmuch as it is under the first and above the last. And this is needed for the notion of a middle, said properly: that it be called a “middle” in reference to a first and a last, which signify an order. However, these three belong to Christ in virtue of his human nature. For by making satisfaction for men in virtue of his human nature, he joined men to God; and he also partook of each of the extremes inasmuch as he is a man—beatitude from God, but weakness from men; and also as a man he was above men through the fullness of the graces and the union, and beneath God on account of his having assumed a created nature. And therefore properly speaking, by reason of his human nature he is a mediator.  
 
@@ -370,7 +372,7 @@ Reply Obj. 3: Although he was able to join us to God only because he was God, si
 
 Response to Quaestiuncula 3  
 
-***To the third question it should be said that, with respect to the reconciliation by which human nature has been reconciled with God, Christ alone is the mediator. For in him alone is found the earlier mentioned conditions of a mediator.***
+To the third question it should be said that, with respect to the reconciliation by which human nature has been reconciled with God, Christ alone is the mediator. For in him alone is found the earlier mentioned conditions of a mediator.  
 
 Reply Obj. 1: Although the Holy Spirit joins us as the first cause, nonetheless he is not a middle between the extremes, nor does he what immediately joins them. Therefore he is not properly speaking a mediator.  
 
@@ -384,7 +386,7 @@ Reply Obj. 5: None of the saints can be the mediator who joins the entire human 
 
 Exposition of the text  
 
-****For by his death, by the one most true sacrifice, Christ extinguished*.*Sent.* III, 19.1(55).3, quoting Augustine, *On the Trinity*, bk. 4, ch. 13 (CCSL 50; PL 42:899). This is the third way in which we are freed from our sins through his Passion. For the prior two noted pertain to the efficacy of justification on our part, whereas this pertains to its sufficiency on his part. For his making satisfaction was sufficient as a certain sacrifice for wiping out all sin, insofar as it is in himself.***
+*For by his death, by the one most true sacrifice, Christ extinguished*.*Sent.* III, 19.1(55).3, quoting Augustine, *On the Trinity*, bk. 4, ch. 13 (CCSL 50; PL 42:899). This is the third way in which we are freed from our sins through his Passion. For the prior two noted pertain to the efficacy of justification on our part, whereas this pertains to its sufficiency on his part. For his making satisfaction was sufficient as a certain sacrifice for wiping out all sin, insofar as it is in himself.  
 
 *The chirographs of all faults*.*Sent*. III, 19.1(55).4, quoting Augustine, *De peccatorum meritis et remissione et de baptismo paruulorum*, bk. 2, ch. 30, para. 49 (CSEL 60:120; PL 44:49). “Chirograph” is said from “chiros,” which is the hand, and “graphos,” which is writing, so as to mean “writings made by hand”; such a thing makes a record of debts and an obligation for paying them. However, the chirographs of our sins are said to be wiped out through Christ’s death inasmuch as the memory of our iniquities has been removed, insofar as God does not recall them for the sake of punishment, or inasmuch as the obligation of a penalty or guilt has been removed.  
 

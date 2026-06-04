@@ -1,5 +1,7 @@
 # Chapter 45
 
+^45:1^ Hæc dicit Dominus christo meo Cyro, cujus apprehendi dexteram ut subjiciam ante faciem ejus gentes et dorsa regum vertam et aperiam ante eum januas et portæ non claudentur:  
+
 > ^45:2^ Ego ante te ibo et gloriosos terræ humiliabo; portas æreas conteram et vectes ferreos confringam.
 
 > ^45:3^ Et dabo tibi thesauros absconditos et arcana secretorum, ut scias quia ego Dominus qui voco nomen tuum Deus Israel,

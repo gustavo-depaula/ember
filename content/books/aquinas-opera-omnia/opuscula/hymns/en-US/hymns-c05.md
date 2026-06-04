@@ -1,5 +1,8 @@
 # Godhead Here in Hiding
 
+***Hymn (adapted from the prayer)***
+***[translated by Gerard Manley Hopkins, sj (1844–1889)]***
+
 ***Godhead here in hiding, whom I do adore,***
 ***Masked by these bare shadows, shape and nothing more,***
 ***See, Lord, at thy service low lies here a heart,***

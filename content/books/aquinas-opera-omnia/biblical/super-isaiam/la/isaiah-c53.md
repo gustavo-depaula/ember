@@ -1,5 +1,7 @@
 # Chapter 51
 
+^51:1^ Audite me qui sequimini quod justum est et quæritis Dominum. Attendite ad petram unde excisi estis et ad cavernam laci de qua præcisi estis;  
+
 > ^51:2^ attendite ad Abraham patrem vestrum et ad Saram quæ peperit vos, quia unum vocavi eum et benedixi ei et multiplicavi eum.
 
 > ^51:3^ Consolabitur ergo Dominus Sion et consolabitur omnes ruinas ejus; et ponet desertum ejus quasi delicias et solitudinem ejus quasi hortum Domini; gaudium et lætitia invenietur in ea, gratiarum actio et vox laudis.

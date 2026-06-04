@@ -1,5 +1,7 @@
 # Chapter 65
 
+^65:1^ They have sought me that before asked not for me, they have found me that sought me not. I said: behold me, behold me, to a nation that did not call upon my name.  
+
 > ^65:2^ I have spread forth my hands all the day to an unbelieving people, who walk in a way that is not good after their own thoughts.
 
 > ^65:3^ A people that continually provoke me to anger before my face, that immolate in gardens, and sacrifice upon bricks.

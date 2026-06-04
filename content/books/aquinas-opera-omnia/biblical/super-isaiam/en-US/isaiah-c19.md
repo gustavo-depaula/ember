@@ -1,5 +1,7 @@
 # Chapter 17
 
+^17:1^ The burden of Damascus. Behold Damascus shall cease to be a city, and shall be as a ruinous heap of stones.  
+
 > ^17:2^ The cities of Aroer shall be left for flocks, and they shall rest there, and there shall be none to make them afraid.
 
 > ^17:3^ And aid shall cease from Ephraim, and the kingdom from Damascus: and the remnant of Syria shall be as the glory of the children of Israel: says the Lord of hosts.

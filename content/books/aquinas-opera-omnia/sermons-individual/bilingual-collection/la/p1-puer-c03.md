@@ -1,5 +1,7 @@
 # Evening Collation
 
+***Iesus proficiebat*** etc. Dictum est hodie de duplici profectu Christi, scilicet de profectu aetatis et gratiae; restat modo dicendum de duobus aliis profectibus,  
+
 scilicet de profectu sapientiae  
 
 et conversationis humanae.  

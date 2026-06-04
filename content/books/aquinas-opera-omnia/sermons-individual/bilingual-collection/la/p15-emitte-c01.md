@@ -1,1 +1,3 @@
 # Prologue
+
+Loquendum est de eo sine quo nullus recte loqui potest et qui omnes habundanter loqui potest facere vel facit. Et vere sine eo recte loqui non possumus. Nec mirum quod dicitur in libro Sapientiae IX: *sensum* veritatis Dei *quis* scire poterit *nisi* miserit *de altissimis spiritum* suum? Sine sensu veritatis nemo loquitur verum. Item Spiritus Sanctus omnes habundanter loqui facit, unde Gregorius: *quos repleverit sapientes facit*. Hodie manifestum est quando apostoli *repleti sunt Spiritu Sancto et ceperunt loqui variis linguis*. Istum igitur qui facit loqui habundanter etiam mutum rogabimus ut det mihi loqui etc.

@@ -1,8 +1,10 @@
 # D. 47 - Efficacy of the will of God
 
+***De efficacia voluntatis Dei***
+
 ***Divisio textus***
 
-***Remotis quibusdam ex quibus videbatur tolli efficacia divinae voluntatis, hic ostendit eam efficacem esse: et dividitur in partes duas: in prima ostendit divinam voluntatem semper efficaciter impleri; in secunda exponit quaedam dubia in auctoritate, per quam propositum probavit, ibi: *sed attendendum est diligenter quomodo in superioribus dicitur fieri aliquid contra Dei voluntatem, quod tamen non fit praeter eam*.***
+Remotis quibusdam ex quibus videbatur tolli efficacia divinae voluntatis, hic ostendit eam efficacem esse: et dividitur in partes duas: in prima ostendit divinam voluntatem semper efficaciter impleri; in secunda exponit quaedam dubia in auctoritate, per quam propositum probavit, ibi: *sed attendendum est diligenter quomodo in superioribus dicitur fieri aliquid contra Dei voluntatem, quod tamen non fit praeter eam*.  
 
 Ubi tria facit: primo movet dubitationem; secundo ponit solutionem, ibi: *verum, ut supra diximus, voluntas Dei diversis modis accipitur*; tertio concludit propositum, ibi: *ex praedictis liquet quod voluntas Dei, quae ipse est, semper invicta est*.  
 
@@ -24,7 +26,7 @@ Articulus 1
 
 ***Utrum voluntas divina semper efficaciter impleatur***
 
-***Ad primum sic proceditur. Videtur quod voluntas divina non semper efficaciter impleatur.***
+Ad primum sic proceditur. Videtur quod voluntas divina non semper efficaciter impleatur.  
 
 Causa enim quae ad utrumlibet se habet, non est efficax in productione effectus. Sed divina voluntas est ad utrumlibet: quia quod potest velle, potest non velle. Ergo, et cetera.  
 
@@ -88,7 +90,7 @@ Articulus 3
 
 ***Utrum id quod est contra voluntatem Dei non obsequatur voluntati ejus***
 
-***Ad tertium sic proceditur. Videtur quod illud quod est contra Dei voluntatem non obsequatur voluntati ejus.***
+Ad tertium sic proceditur. Videtur quod illud quod est contra Dei voluntatem non obsequatur voluntati ejus.  
 
 Voluntas enim consequens non contrariatur voluntati antecedenti. Sed malum, quod est praeter voluntatem divinam, est contra voluntatem antecedentem. Ergo voluntati consequenti non obsequitur.  
 
@@ -120,7 +122,7 @@ Articulus 4
 
 ***Utrum id quod est praeter voluntatem Dei praecepto non subjaceat***
 
-***Ad quartum sic proceditur. Videtur quod id quod est praeter Dei voluntatem, praecepto non subjaceat, et praecipue peccatum.***
+Ad quartum sic proceditur. Videtur quod id quod est praeter Dei voluntatem, praecepto non subjaceat, et praecipue peccatum.  
 
 Praeceptum enim est indicativum divinae voluntatis. Sed quicumque ostendit se velle quod non vult, fictor est: quod longe est a Deo. Ergo videtur quod nihil quod fit contra voluntatem ejus, vel praeter eam, praecipiat.  
 
@@ -154,7 +156,7 @@ Ad quartum dicendum, quod non est similis ratio in omnibus ut ex praedictis pate
 
 Expositio textus  
 
-****Quos juste praedestinavit ad poenam*. Contra, supra dictum est, quod praedestinatio est tantum de bonis salutaribus, ergo non de poenis.Parma: *et non de peccatis*. Ad quod dicendum, quod quando aliquid absolute dicitur praedestinari, intelligitur directio in finem, qui est salus aeterna. Sed si addatur aliquid, tunc potest dirigi in quodcumque, et secundum quid et minus proprie praedestinari in illud.***
+*Quos juste praedestinavit ad poenam*. Contra, supra dictum est, quod praedestinatio est tantum de bonis salutaribus, ergo non de poenis.Parma: *et non de peccatis*. Ad quod dicendum, quod quando aliquid absolute dicitur praedestinari, intelligitur directio in finem, qui est salus aeterna. Sed si addatur aliquid, tunc potest dirigi in quodcumque, et secundum quid et minus proprie praedestinari in illud.  
 
 *Sed non praeter ejus permissionem, quae ipse non est*. Sed contra, permissio divina est ejus operatio. Sed divina operatio est ejus essentia. Ergo, et cetera. Et dicendum, quod permissio sumitur hic non pro operatione divina, sed pro effectu ejus, per modum quo etiam dicitur creatio, passio.  
 

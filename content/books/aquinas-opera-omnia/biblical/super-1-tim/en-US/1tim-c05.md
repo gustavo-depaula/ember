@@ -1,10 +1,12 @@
 # C. 4 - Exhortation to Holiness
 
+***Exhortation to Holiness***
+
 ***Lecture 1***
 
 ***All creatures are good***
 
-***^4:1^ Now the Spirit manifestly says that in the last times some shall depart from the faith, giving heed to spirits of error and doctrines of devils, [n. 136]***
+^4:1^ Now the Spirit manifestly says that in the last times some shall depart from the faith, giving heed to spirits of error and doctrines of devils, [n. 136]  
 
 > ^4:2^ Speaking lies in hypocrisy and having their conscience seared, [n. 140]
 
@@ -106,7 +108,7 @@ Lecture 2
 
 ***Exercise holiness***
 
-***^4:6^ Proposing these things to the brethren, you shall be a good minister of Christ Jesus, nourished in the words of faith and of the good doctrine to which you have attained. [n. 149]***
+^4:6^ Proposing these things to the brethren, you shall be a good minister of Christ Jesus, nourished in the words of faith and of the good doctrine to which you have attained. [n. 149]  
 
 > ^4:7^ But avoid foolish and old wives’ fables: and exercise yourself unto godliness. [n. 152]
 

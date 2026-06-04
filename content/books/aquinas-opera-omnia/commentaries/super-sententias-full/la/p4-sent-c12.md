@@ -1,8 +1,10 @@
 # D. 32 - Remission of original sin
 
+***De remissione peccati originalis***
+
 ***Divisio textus***
 
-***Postquam ostendit qualiter originale peccatum trahatur a parentibus, hic ostendit qualiter per baptismum dimittatur; et dividitur in partes duas:***
+Postquam ostendit qualiter originale peccatum trahatur a parentibus, hic ostendit qualiter per baptismum dimittatur; et dividitur in partes duas:  
 
 in prima ostendit secundum quid originale in baptismo tollatur et secundum quid maneat;  
 
@@ -70,7 +72,7 @@ Articulus 1
 
 ***Utrum peccatum originale tollatur per baptismum***
 
-***Ad primum sic proceditur. Videtur quod per baptismum originalis culpa non tollatur.***
+Ad primum sic proceditur. Videtur quod per baptismum originalis culpa non tollatur.  
 
 Privatio enim non tollitur, nisi habitus oppositus restituatur. Sed originalis justitia, cujus privatio est originale peccatum, per baptismum non restituitur, cum non remaneat debitus ordo inferiorum virium ad rationem. Ergo nec originale peccatum per baptismum tollitur.  
 
@@ -114,7 +116,7 @@ Articulus 2
 
 ***Utrum poena peccati originalis debeat manere post baptismum***
 
-***Ad secundum sic proceditur. Videtur quod poena originalis peccati post baptismum remanere non debeat.***
+Ad secundum sic proceditur. Videtur quod poena originalis peccati post baptismum remanere non debeat.  
 
 Injustum enim est ut sine culpa aliquis puniatur. Sed per baptismum originalis culpa tollitur, ut dictum est. Ergo injustum esset quod poena remaneret.  
 
@@ -150,7 +152,7 @@ Articulus 3
 
 ***Utrum fomes inveniatur major in uno quam in altero***
 
-***Ad tertium sic proceditur. Videtur quod fomes et concupiscentia in quibusdam plus et in quibusdam minus inveniatur.***
+Ad tertium sic proceditur. Videtur quod fomes et concupiscentia in quibusdam plus et in quibusdam minus inveniatur.  
 
 Multiplicata enim causa, multiplicatur effectus. Sed ex foeditate coitus infectio fomitis causatur. Cum ergo quanto magis homo a primo generante distat, tanto plures tales actus inficientes inveniantur, videtur quod semper in prole inveniatur major infectio fomitis quam in parente.  
 
@@ -230,9 +232,9 @@ Ad quintum dicendum, quod fomes per se in malum inclinat, sed quod in bonum prom
 
 Articulus 2  
 
-***Utrum conveniat sapientiae divinae infundere animam corpori, a quo contrahat maculam***
+Utrum conveniat sapientiae divinae infundere animam corpori, a quo contrahat maculam  
 
-***Ad secundum sic proceditur. Videtur quod divinam sapientiam non deceat quod anima corpori infundatur, ex quo maculam contrahit.***
+Ad secundum sic proceditur. Videtur quod divinam sapientiam non deceat quod anima corpori infundatur, ex quo maculam contrahit.  
 
 Nullus enim sapiens ponit thesaurum suum in loco in quo inquinatur. Sed anima pretiosissimus thesaurus Dei est, imagineParma: *ut est imagine*. Dei insignita. Ergo non decet divinam sapientiam ut tali corpori infundatur ex quo maculam contrahat.  
 
@@ -266,7 +268,7 @@ Articulus 3
 
 ***Utrum animae sint aequales in sua creatione***
 
-***Ad tertium sic proceditur. Videtur quod animaeParma and PLE: *animae*; Mandonnet: *anima*. ex sui creatione sint aequales.***
+Ad tertium sic proceditur. Videtur quod animaeParma and PLE: *animae*; Mandonnet: *anima*. ex sui creatione sint aequales.  
 
 Differentia enim formalis diversificat speciem. Sed anima est forma corporis. Cum omnes ergo homines unius sint speciei, videtur quod ex parte animae nulla sit differentia in hominibus.  
 
@@ -308,7 +310,7 @@ Ad septimum dicendum, quod quamvis intellectus sit absolutus a corpore quantum a
 
 Expositio textus  
 
-****Ut post dominari non valeat*. Videtur ex hoc quod aliquis eundo post concupiscentias, dominium originalis peccati revocet; et ita ex actuali peccato culpa originalis redit.***
+*Ut post dominari non valeat*. Videtur ex hoc quod aliquis eundo post concupiscentias, dominium originalis peccati revocet; et ita ex actuali peccato culpa originalis redit.  
 
 Sed dicendum quod per peccatum actuale dupliciter dominium concupiscentiae revocatur: tum quia gratia tollitur quae impetum concupiscentiae mitigabat; tum quia per peccatum actuale pronitas in peccatum augetur. Neutro autem modo originale redit, ut ex praedictis patet: quia etsi gratia subtrahitur, non tamen per actum originis; unde non originalis macula, sed actualis consequitur. Similiter etiam necParma and PLE: *nec*; Mandonnet omits. ex hoc quod pronitas per consuetudinem augetur: quia hoc non pertingit ad id quod naturae est, quam per se originale respicit; sed personam consequitur ex actibus personalibus relicta.  
 

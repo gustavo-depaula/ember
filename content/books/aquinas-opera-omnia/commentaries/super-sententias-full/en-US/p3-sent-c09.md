@@ -1,8 +1,10 @@
 # D. 8 - Angels and the assumption of bodies
 
+***Angels and the assumption of bodies***
+
 ***Division of the text***
 
-***Here the Master considers the good and wicked angels with regard to their assumption of bodies. And it is divided into two parts.***
+Here the Master considers the good and wicked angels with regard to their assumption of bodies. And it is divided into two parts.  
 
 In the first, he considers them with regard to the assumption of bodies.  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Whether the angels have bodies united to them***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.50.1; 51.1; *SCG* II.46, 49, and 91; *On the Power of God*, q. 6, a. 6; *On Evil*, q. 16, a. 1; *On Spiritual Creatures*, a. 5. It seems that angels have bodies united to them.***
+To the first we proceed as follows.Parallel texts: *ST* I.50.1; 51.1; *SCG* II.46, 49, and 91; *On the Power of God*, q. 6, a. 6; *On Evil*, q. 16, a. 1; *On Spiritual Creatures*, a. 5. It seems that angels have bodies united to them.  
 
 Obj. 1: For Augustine in the *City of God*Augustine, *The City of God*, bk. 8, ch. 16 (CCSL 48; PL 41:241). cites the words of Apuleius, who defines demons in this way: *demons are animals in genus, passive in spirit, rational in mind, composed of air in body, eternal in time*. Nor does he disapprove of this definition. Therefore, it seems that they have aerial bodies naturally united to them.  
 
@@ -76,7 +78,7 @@ Article 2
 
 ***Whether the angels assume bodies***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.51.2; *On the Power of God*, q. 6, a. 7. It seems that the angels do not assume bodies.***
+To the second we proceed as follows.Parallel texts: *ST* I.51.2; *On the Power of God*, q. 6, a. 7. It seems that the angels do not assume bodies.  
 
 Obj. 1: For every assumption ends in a union. But the angels cannot be united to bodies. Therefore, neither can they assume bodies.  
 
@@ -106,9 +108,9 @@ Reply Obj. 5: An angel who assumes a body is completely in any given part of it,
 
 Article 3  
 
-***Whether the bodies assumed by the angels truly have the nature that they appear to have***
+Whether the bodies assumed by the angels truly have the nature that they appear to have  
 
-***To the third we proceed as follows. It seems that angels assume these bodies truly, as having the nature that they seem to have.***
+To the third we proceed as follows. It seems that angels assume these bodies truly, as having the nature that they seem to have.  
 
 Obj. 1: For a fiction does not befit the messengers of truth. But it is a kind of fiction to show forth what is not true. Therefore, it seems that the assumed bodies truly have the nature of these things.  
 
@@ -148,11 +150,11 @@ Reply Obj. 8: Since the body of the heavens is incorruptible, it cannot be divid
 
 Article 4  
 
-***Whether the angels can eat, generate, sense, be moved, or speak in their assumed bodies***
+Whether the angels can eat, generate, sense, be moved, or speak in their assumed bodies  
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.51.3; *On the Power of God*, q. 6, a. 8. It seems that the angels in their assumed bodies are able to eat.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.51.3; *On the Power of God*, q. 6, a. 8. It seems that the angels in their assumed bodies are able to eat.  
 
 Obj. 1: For we read (Gen 18:5) that Abraham offered food to the angels who appeared to him. But he knew that they were angels, as his conversation with them shows. Therefore, it seems that they can eat.  
 
@@ -198,13 +200,13 @@ On the contrary, in every act of speaking certain intellectual concepts are expr
 
 Response to Quaestiuncula 1  
 
-***I answer that, as has been said before,Above: a. 1. the angels do not infuse life into their assumed bodies, but only motion. Thus, we must consider that all the activities that follow on a living body precisely as living cannot belong to angels in assumed bodies, but only those that follow on a movable body as movable, such as moving, impelling, dividing, and things of this sort.***
+I answer that, as has been said before,Above: a. 1. the angels do not infuse life into their assumed bodies, but only motion. Thus, we must consider that all the activities that follow on a living body precisely as living cannot belong to angels in assumed bodies, but only those that follow on a movable body as movable, such as moving, impelling, dividing, and things of this sort.  
 
 Reply Obj. 1: The complete account of “eating” includes not only dividing food and putting it into one’s mouth, but also that this act proceeds from a power able to digest it and convert it into nourishment. Thus, the angels did not truly eat. But there was in that case a true division of food and putting it into the assumed body, though it was not afterwards converted into that body, but was instead dissolved into underlying matter by the angel’s power. However, Christ truly ate, even though the food was not converted, since this biting off of food belonged to one possessing nutritive and convertive power. And it is not unfitting in the case of Abraham that, even if he knew they were angels in the end, this was hidden to him at the beginning, or that, if he did know, he offered them food to call to mind some mystery.  
 
 Response to Quaestiuncula 2  
 
-***I answer that some say that demons can in no way generate in assumed bodies, and that *sons of God* does not signify incubus angels, but rather the sons of Seth, and that *daughters of men* signifies the women who were descended from the line of Cain. But since the contrary is asserted by many, and what seems so to many cannot be altogether false, according to the Philosopher,Aristotle, *Nicomachean Ethics* 7.13, 1153b27; *On Divination in Sleep* 1, 462b15. it can then be said that their act accomplishes generation inasmuch as they can apply human seed in the appropriate place to its proportionate matter, just as they can also collect the seeds of other things to accomplish certain effects, as has been said in the preceding distinction.Above: d. 7, exposition of the text. In this way, only local motion is attributed to them, not generation itself, whose principle is not the power of a demon or of the body assumed by it, but rather the power of him whose seed it was. Hence the offspring is the child not of a demon but of a man.***
+I answer that some say that demons can in no way generate in assumed bodies, and that *sons of God* does not signify incubus angels, but rather the sons of Seth, and that *daughters of men* signifies the women who were descended from the line of Cain. But since the contrary is asserted by many, and what seems so to many cannot be altogether false, according to the Philosopher,Aristotle, *Nicomachean Ethics* 7.13, 1153b27; *On Divination in Sleep* 1, 462b15. it can then be said that their act accomplishes generation inasmuch as they can apply human seed in the appropriate place to its proportionate matter, just as they can also collect the seeds of other things to accomplish certain effects, as has been said in the preceding distinction.Above: d. 7, exposition of the text. In this way, only local motion is attributed to them, not generation itself, whose principle is not the power of a demon or of the body assumed by it, but rather the power of him whose seed it was. Hence the offspring is the child not of a demon but of a man.  
 
 Reply Sed Contra 2: And in this way, the reply to the first objection to the contrary is clear.  
 
@@ -214,21 +216,21 @@ Reply Sed Contra 4: The demons can know the power of the extracted seed based on
 
 Response to Quaestiuncula 3  
 
-***I answer that angels in no way see through the eyes of the assumed body, since this is an activity of the power of a living body. Hence the parts of the assumed body are not sense organs, but rather possess a likeness to them in order to make manifest the angels’ spiritual powers. This is why Dionysius teaches us to reflect on the angelic properties based on all the parts of the human body.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 15 (PG 3:330). So they are not assumed in vain.***
+I answer that angels in no way see through the eyes of the assumed body, since this is an activity of the power of a living body. Hence the parts of the assumed body are not sense organs, but rather possess a likeness to them in order to make manifest the angels’ spiritual powers. This is why Dionysius teaches us to reflect on the angelic properties based on all the parts of the human body.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 15 (PG 3:330). So they are not assumed in vain.  
 
 Response to Quaestiuncula 4  
 
-***I answer that they are moved incidentally via the motions of the bodies in which they are present. For they are in those bodies definitively, in such a manner that they are not elsewhere. Now, God is not moved on the basis of the motion of a body, because just as he is in one so also he is in another, just as the soul is not moved incidentally on the basis of the motion of a hand, but rather on the basis of the motion of the whole body. Similarly, according to the philosophers, the mover of a sphere is joined to the sphere in its entirety and not one part alone, even though its power first appears on the right side, where the motion begins. Thus, it does not move incidentally, since the whole sphere does not move out of its place, but such that it is in some place in account, and not in subject.***
+I answer that they are moved incidentally via the motions of the bodies in which they are present. For they are in those bodies definitively, in such a manner that they are not elsewhere. Now, God is not moved on the basis of the motion of a body, because just as he is in one so also he is in another, just as the soul is not moved incidentally on the basis of the motion of a hand, but rather on the basis of the motion of the whole body. Similarly, according to the philosophers, the mover of a sphere is joined to the sphere in its entirety and not one part alone, even though its power first appears on the right side, where the motion begins. Thus, it does not move incidentally, since the whole sphere does not move out of its place, but such that it is in some place in account, and not in subject.  
 
 Response to Quaestiuncula 5  
 
-***I answer that, in the strict sense, speaking occurs through the formation of words by the percussion of air that is breathed with determined organs in order to express a thought. Thus, angels cannot have bodily speech in the full sense of the term, since they do not have true bodily organs. But they do something like speaking inasmuch as they understand and express an understanding with certain sounds, which are not properly vocal sounds but rather the likenesses of vocal sounds, just as certain animals that do not breathe are said to have a voice, and are as certain instruments, as the Philosopher says.Aristotle, *On the Soul* 2.8, 420b5–9. But the concepts understood by an angel do not come to be present in those sounds the same numerically, but rather according to a likeness of signification through motions determined by the intellect, just as the likeness of art is produced in matter, such as a house.***
+I answer that, in the strict sense, speaking occurs through the formation of words by the percussion of air that is breathed with determined organs in order to express a thought. Thus, angels cannot have bodily speech in the full sense of the term, since they do not have true bodily organs. But they do something like speaking inasmuch as they understand and express an understanding with certain sounds, which are not properly vocal sounds but rather the likenesses of vocal sounds, just as certain animals that do not breathe are said to have a voice, and are as certain instruments, as the Philosopher says.Aristotle, *On the Soul* 2.8, 420b5–9. But the concepts understood by an angel do not come to be present in those sounds the same numerically, but rather according to a likeness of signification through motions determined by the intellect, just as the likeness of art is produced in matter, such as a house.  
 
 Article 5  
 
 ***Whether the demons can be within the bodies of men***
 
-***To the fifth we proceed as follows. It seems that demons cannot be within the bodies of men.***
+To the fifth we proceed as follows. It seems that demons cannot be within the bodies of men.  
 
 Obj. 1: For the Gloss on the passage, *the Lord is in his holy temple* (Hab 2:20), says that the demons can be present outside of idols, but not present within them.*Glossa interlinearis*, at Habakkuk 2:20 (in *Glossa ordinaria* 4.2025–26); Jerome, *Commentary on Habakkuk*, at Habakkuk 2:20 (PL 25:1055). Therefore, much less can they be present within human bodies.  
 
@@ -264,7 +266,7 @@ Article 6
 
 ***Whether God has appeared in bodily figures***
 
-***To the sixth we proceed as follows. It seems that God himself has not appeared in bodily figures.***
+To the sixth we proceed as follows. It seems that God himself has not appeared in bodily figures.  
 
 Obj. 1: For the apparitions of this sort, made to the fathers among the prophets, were accomplished through the mediation of angels, by whose ministry the law also was handed down, as it is said (Acts 7:30, 38, and Heb 2:2). But the one who immediately makes the revelation is the one who appears. Therefore, it seems that God did not appear in bodily forms of this sort.  
 
@@ -292,7 +294,7 @@ Reply Obj. 4: The visible sending of a divine person differs from an apparition.
 
 Exposition of the text  
 
-****‘Water and earth tend to be passive; air and fire tend to be active*.’*Sent*. II, 8.1(43).2, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 3, ch. 10 (CSEL 28.1:72; PL 34:284–85). This seems to be false, since in water the active quality, namely, cold, dominates. Thus, it seems to be more active than air in which the passive quality dominates, namely, moist.***
+*‘Water and earth tend to be passive; air and fire tend to be active*.’*Sent*. II, 8.1(43).2, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 3, ch. 10 (CSEL 28.1:72; PL 34:284–85). This seems to be false, since in water the active quality, namely, cold, dominates. Thus, it seems to be more active than air in which the passive quality dominates, namely, moist.  
 
 We must say that this objection comes from a consideration of action and passion with reference to active and passive qualities. But the case is otherwise if we consider them with reference to the substantial forms that are the first principles of action. For the more subtle something is, the more active it is, since it partakes more of form. And what is denser is more passive, since it partakes more of matter.  
 

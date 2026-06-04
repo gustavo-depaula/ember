@@ -1,8 +1,10 @@
 # D. 36 - The realities that God knows
 
+***De rebus quas cognoscit Deus***
+
 ***Divisio textus***
 
-***Postquam Magister ostendit quod scientia Dei universaliter est omnium, et exinde dicuntur res in Deo esse; hic inquirit, quomodo cognita sint in ipso Deo cognoscente, et dividitur in partes duas: in prima ostendit, quomodo res quas cognoscit, sint in Deo; in secunda quomodo Deus sit in rebus, 37 distinct.: *et quoniam demonstratum est ex parte quomodo omnia dicantur esse in Deo, addendum videtur hic quibus modis dicatur Deus esse in rebus*.***
+Postquam Magister ostendit quod scientia Dei universaliter est omnium, et exinde dicuntur res in Deo esse; hic inquirit, quomodo cognita sint in ipso Deo cognoscente, et dividitur in partes duas: in prima ostendit, quomodo res quas cognoscit, sint in Deo; in secunda quomodo Deus sit in rebus, 37 distinct.: *et quoniam demonstratum est ex parte quomodo omnia dicantur esse in Deo, addendum videtur hic quibus modis dicatur Deus esse in rebus*.  
 
 Prima in duas: in prima inquirit, utrum omnia quae Deus scit possint dici in essentia ejus esse, et ostendit quod non; in secunda inquirit, utrum omnia possint esse in Deo, ibi: *post praedicta quaeritur . . . , utrum concedendum sit simpliciter mala esse in Deo*.  
 
@@ -106,7 +108,7 @@ Articulus 3
 
 ***Utrum res quae cognoscuntur a Deo sint in Deo***
 
-***Ad tertium sic proceditur. Videtur quod res quae a Deo cognoscuntur, in Deo non sint.***
+Ad tertium sic proceditur. Videtur quod res quae a Deo cognoscuntur, in Deo non sint.  
 
 Omne illud in quo est aliquid diversum ab eo, compositum est. Cum igitur Deus sit simplicissimus, videtur quod res quae sunt diversae ab eo, in ipso non sint.  
 
@@ -222,7 +224,7 @@ Articulus 3
 
 ***Utrum in Deo sint ideae omnium quae cognoscit***
 
-***Ad tertium sic proceditur. Videtur quod non omnium quae cognoscit Deus, ideae in ipso sint.***
+Ad tertium sic proceditur. Videtur quod non omnium quae cognoscit Deus, ideae in ipso sint.  
 
 Mala enim cognoscit Deus. Sed mali idea in ipso esse non potest, cum idea imitationem importet. Unumquodque autem per hoc malum est quod ab imitatione Dei recedit. Ergo non omnium rerum ideae sunt in Deo, cum plures malae sint.  
 

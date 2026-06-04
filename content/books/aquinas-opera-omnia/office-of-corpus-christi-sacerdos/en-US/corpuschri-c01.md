@@ -1,5 +1,7 @@
 # First Vespers
 
+***[℣. O God, come to my assistance;***
+
 ℟. O Lord, make haste to help me.  
 
 Glory be to the Father, and to the Son, * and to the Holy Spirit.  
@@ -38,7 +40,7 @@ Sung to *Totus orbis* from the feast of St. Thomas [of Canterbury].
 
 ***Psalm 110 (111)***
 
-***I will praise you, O Lord, with my whole heart; * in the council of the just: and in the congregation.***
+I will praise you, O Lord, with my whole heart; * in the council of the just: and in the congregation.  
 
 > Great are the works of the Lord: * sought out according to all his wills.
 
@@ -144,7 +146,7 @@ Sung to *Innocenter puerilia iura* from the feast of St. Nicholas.
 
 ***1 Corinthians 11:23–24***
 
-***The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you.***
+The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you.  
 
 > [℟. Thanks be to God.]
 

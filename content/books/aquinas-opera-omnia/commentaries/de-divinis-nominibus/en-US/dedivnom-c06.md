@@ -1,10 +1,12 @@
 # C. 5 - On Existing, In Which Also On Exemplars
 
+***On Existing, In Which Also On Exemplars***
+
 ***Lectio 1***
 
-***Certain Things Having Been Set Forth Necessary for the Proposed Intention, He Pursues the Causality of the First Being***
+Certain Things Having Been Set Forth Necessary for the Proposed Intention, He Pursues the Causality of the First Being  
 
-***C. V, § 1. 257. Yet it must be crossed over now to the truly existing theological praising of the truly existing God. Yet only we shall remember that the intention of the speech is not to manifest the supersubstantial substance, according as it is supersubstantial, for this is ineffable and unknown and perfectly not manifestable and exceeding unition itself, but to praise the substantified procession of the thearchic substance of the principate to all existing things. For the naming of God of the good, manifesting all the processions of the cause of all things, is extended both to existing things and to non-existing things and is above existing things; yet that of life is extended to all living things and is above living things; whereas that of wisdom is extended to all intellectual and rational and sensible things and is above them all. Therefore this speech desires to praise those namings of God manifestive of providence, for it does not promise to narrate the *per se* substantial goodness and deity, and the substance and life and wisdom of the *per se* substantial divinity that is above all goodness and deity and substance and life and wisdom super-gathered in hidden places, as the eloquences say; but it praises the goodness manifested and the exceedingly beneficent providence and the cause of all good things, and existing and life and wisdom, which makes substance and vivifies and is wisdom the giver the cause for those things that participate substance and life and reason and sense.***
+C. V, § 1. 257. Yet it must be crossed over now to the truly existing theological praising of the truly existing God. Yet only we shall remember that the intention of the speech is not to manifest the supersubstantial substance, according as it is supersubstantial, for this is ineffable and unknown and perfectly not manifestable and exceeding unition itself, but to praise the substantified procession of the thearchic substance of the principate to all existing things. For the naming of God of the good, manifesting all the processions of the cause of all things, is extended both to existing things and to non-existing things and is above existing things; yet that of life is extended to all living things and is above living things; whereas that of wisdom is extended to all intellectual and rational and sensible things and is above them all. Therefore this speech desires to praise those namings of God manifestive of providence, for it does not promise to narrate the *per se* substantial goodness and deity, and the substance and life and wisdom of the *per se* substantial divinity that is above all goodness and deity and substance and life and wisdom super-gathered in hidden places, as the eloquences say; but it praises the goodness manifested and the exceedingly beneficent providence and the cause of all good things, and existing and life and wisdom, which makes substance and vivifies and is wisdom the giver the cause for those things that participate substance and life and reason and sense.  
 
 > 258. Yet it does not say that the good is one thing and existing another and life or wisdom another, nor that there are many causes and other deities productive of other things, exceeding and subject, but that of one there are all the good processions and namings of God praised by us; and that this indeed is perfectly manifestive of the providence of the one God, yet certain ones of the more universal of the same and of the more particular.
 
@@ -222,9 +224,9 @@ Last, he posits those things that pertain to multitude; and he says, ***every di
 
 Lectio 2  
 
-***That God Is the Cause of All Particular Beings According as They Are in Their Proper Natures***
+That God Is the Cause of All Particular Beings According as They Are in Their Proper Natures  
 
-***§ 8. 275. And from the same cause of all things are the both intelligible and intellectual substances of the deiform angels and of souls and of every nature of the world and in whatever mode things said to be in others or to be according to thought.***
+§ 8. 275. And from the same cause of all things are the both intelligible and intellectual substances of the deiform angels and of souls and of every nature of the world and in whatever mode things said to be in others or to be according to thought.  
 
 > 276. And indeed, the most holy and most advanced virtues existing and gathered as in vestibules of the supersubstantial Trinity, from this and in this have both being and being deiformly; and after those, subjectly and extremely as to the angels, yet as to us super-mundanely.
 
@@ -324,7 +326,7 @@ Lectio 3
 
 ***On Exemplars***
 
-***–282. Yet we say that exemplars are the substantifying *rationes* of existing things in God, and singularly preexisting, which theology calls predefinitions and divine and good wills, pre-determinative of existing things and effective, according to which substantial essence has predefined and produced all things (Rom 8:29–30, 1 Cor 2:7, Eph 1:5).***
+–282. Yet we say that exemplars are the substantifying *rationes* of existing things in God, and singularly preexisting, which theology calls predefinitions and divine and good wills, pre-determinative of existing things and effective, according to which substantial essence has predefined and produced all things (Rom 8:29–30, 1 Cor 2:7, Eph 1:5).  
 
 > § 9. 283. Yet if the philosopher Clement proves that also to anything the more principal among existing things are called exemplars, that speech proceeds indeed not through proper and perfect and simple names. Yet even those conceding that this is said rightly must remember theology, saying that *I shall not demonstrate to you those so that you might go after them, but so that through the proportional knowledge of them we might be driven upwards, as we can, to the cause of all things* (Wis 13:5, Rom 1:20) .
 

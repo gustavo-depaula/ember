@@ -1,10 +1,12 @@
 # C. 1 - Preaching Christ
 
+***Praedicens Christum***
+
 ***Lectio 1***
 
 ***Salutatio***
 
-***^1:1^ Paulus apostolus Jesu Christi per voluntatem Dei, secundum promissionem vitae, quae est in Christo Jesu, [n. 3]***
+^1:1^ Paulus apostolus Jesu Christi per voluntatem Dei, secundum promissionem vitae, quae est in Christo Jesu, [n. 3]  
 
 > ^1:2^ Timotheo carissimo filio: gratia, misericordia, pax a Deo Patre, et Christo Jesu Domino nostro. [n. 5]
 
@@ -32,7 +34,7 @@ Lectio 2
 
 ***Actio Gratiarum***
 
-***^1:3^ Gratias ago Deo, cui servio a progenitoribus in conscientia pura, quod sine intermissione habeam tui memoriam in orationibus meis, nocte ac die [n. 7]***
+^1:3^ Gratias ago Deo, cui servio a progenitoribus in conscientia pura, quod sine intermissione habeam tui memoriam in orationibus meis, nocte ac die [n. 7]  
 
 > ^1:4^ desiderans te videre, memor lacrimarum tuarum, ut gaudio implear, [n. 9]
 
@@ -80,7 +82,7 @@ Lectio 3
 
 ***Collabora Evangelio***
 
-***^1:6^ Propter quam causam admoneo te ut resuscites gratiam Dei, quae est in te per impositionem manuum mearum. [n. 12]***
+^1:6^ Propter quam causam admoneo te ut resuscites gratiam Dei, quae est in te per impositionem manuum mearum. [n. 12]  
 
 > ^1:7^ Non enim dedit nobis Deus spiritum timoris: sed virtutis, et dilectionis, et sobrietatis. [n. 14]
 
@@ -168,7 +170,7 @@ Lectio 4
 
 ***Exemplum Pauli***
 
-***^1:11^ In quo positus sum ego praedicator, et apostolus, et magister gentium. [n. 24]***
+^1:11^ In quo positus sum ego praedicator, et apostolus, et magister gentium. [n. 24]  
 
 > ^1:12^ Ob quam causam etiam haec patior, sed non confundor. Scio enim cui credidi, et certus sum quia potens est depositum meum servare in illum diem. [n. 26]
 

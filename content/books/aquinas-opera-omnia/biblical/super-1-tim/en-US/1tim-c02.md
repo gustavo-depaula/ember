@@ -1,10 +1,12 @@
 # C. 1 - Introduction
 
+***Introduction***
+
 ***Lecture 1***
 
 ***Greeting***
 
-***^1:1^ Paul, an apostle of Jesus Christ, according to the commandment of God our Savior and Christ Jesus our hope: [n. 3]***
+^1:1^ Paul, an apostle of Jesus Christ, according to the commandment of God our Savior and Christ Jesus our hope: [n. 3]  
 
 > ^1:2^ To Timothy, his beloved son in faith. Grace, mercy, and peace, from God the Father and from Christ Jesus our Lord. [n. 5]
 
@@ -36,7 +38,7 @@ Lecture 2
 
 ***End of the commandment***
 
-***^1:3^ As I desired you to remain at Ephesus when I went into Macedonia, that you might charge some not to teach otherwise: [n. 7]***
+^1:3^ As I desired you to remain at Ephesus when I went into Macedonia, that you might charge some not to teach otherwise: [n. 7]  
 
 > ^1:4^ Not to give heed to fables and endless genealogies, which furnish questions rather than the edification of God, which is in faith. [n. 10]
 
@@ -118,7 +120,7 @@ Lecture 3
 
 ***The law is for sinners***
 
-***^1:6^ From which things some, going astray, are turned aside unto vain babbling, [n. 17]***
+^1:6^ From which things some, going astray, are turned aside unto vain babbling, [n. 17]  
 
 > ^1:7^ Desiring to be teachers of the law, understanding neither the things they say, nor whereof they affirm. [n. 19]
 
@@ -264,7 +266,7 @@ Lecture 4
 
 ***Christ came for sinners***
 
-***^1:15^ A faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners, of whom I am the chief. [n. 37]***
+^1:15^ A faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners, of whom I am the chief. [n. 37]  
 
 > ^1:16^ But for this cause I have obtained mercy: that in me first Christ Jesus might show forth all patience, for the information of those who shall believe in him unto life everlasting. [n. 44]
 

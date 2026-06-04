@@ -1,5 +1,7 @@
 # Proposition 15
 
+124. Everything that knows which knows its own essence is returning to its own essence in a fulfilled return.  
+
 > 125. This is because knowledge is nothing other than the intellectual action. Thus, since that which knows, knows its own essence, then it returns by its intellectual activity to its essence.
 
 > 126. And this is only because the knower and the known are one thing, since the knowledge of the knower's own essence is from it and to it: it is from it, because it is the knower, and it is to it, because it is the known.

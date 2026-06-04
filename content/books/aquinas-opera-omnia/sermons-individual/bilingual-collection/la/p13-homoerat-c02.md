@@ -1,5 +1,7 @@
 # Sermon
 
+******Homo quidam*** etc.***
+
 Valde periculosum est homini quod ignoret suum modum et mensuram, et ex hoc provenit quod ultra seipsos eriguntur in superbiam quia estimant se dominos, non ministratores rerum; dicunt illud Iob: *quis est Omnipotens ut serviamus ei*, et similiter dicitur in Iob: *vir vanus in superbiam erigitur et quasi pullum onagri se liberum natum putat*. Onager est asinus silvestris qui non habet possessorem. Aliqui credunt se esse sine iugo et videtur eis quod licet eis quicquid libet, et ut ista elatio perniciosa auferatur de corde nostro proponitur nobis parabola de villico.  
 
 Proponuntur autem hic due personae,  

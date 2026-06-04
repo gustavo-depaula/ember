@@ -1,5 +1,7 @@
 # Prooemium
 
+In Dei filio sibi karissimo fratri Baxiano, lectori fratrum ordinis praedicatorum de Venetiis, frater Thomas de Aquino, ejusdem ordinis, salutem in filio virginis gloriosae.  
+
 Lectis litteris vestris inveni quod vestra caritas postulabat ut verbis infrascriptis responderem, scilicet:  
 
 1. An Angeli sint motores corporum caelestium.  

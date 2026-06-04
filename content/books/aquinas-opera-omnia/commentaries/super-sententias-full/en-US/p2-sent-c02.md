@@ -1,8 +1,10 @@
 # D. 22 - Division of the divine names
 
+***Division of the divine names***
+
 ***Division of the text***
 
-***Having considered things that pertain to the unity of the essence and the Trinity of persons, here the Master considers the names by which one designates both the unity of the essence and the plurality of the persons. Now, this is divided into two parts: in the first, he lays out a division of the divine names, and shows what is predicated of the divine persons in the plural, and what in the singular; in the second, he shows how one should understand unity and plurality in the divine, in Distinction 24, at *here it is opportune to inquire diligently*.*Sent*. I, 24.1(101).1.***
+Having considered things that pertain to the unity of the essence and the Trinity of persons, here the Master considers the names by which one designates both the unity of the essence and the plurality of the persons. Now, this is divided into two parts: in the first, he lays out a division of the divine names, and shows what is predicated of the divine persons in the plural, and what in the singular; in the second, he shows how one should understand unity and plurality in the divine, in Distinction 24, at *here it is opportune to inquire diligently*.*Sent*. I, 24.1(101).1.  
 
 The first is divided into two parts: in the first, he presents the universal distinction of divine names; in the second, he treats a certain name that brings in a special difficulty, that is, the name “person,” which does not seem to follow the nature of the others, in Distinction 23, at *something is to be added to the foregoing*.*Sent*. I, 23.1(95).1.  
 
@@ -28,7 +30,7 @@ Article 1
 
 ***Whether God can be named***
 
-***To the first we proceed as follows.Parallel texts: *Commentary on the Sentences*, bk. 1 (*In I Sent*.), d. 1, exposition of the text; qa. 6; *ST* I.13.1; *Commentary on Dionysius’s On the Divine Names*, ch. 1, lect. 1, 3. It seems that God is not nameable.***
+To the first we proceed as follows.Parallel texts: *Commentary on the Sentences*, bk. 1 (*In I Sent*.), d. 1, exposition of the text; qa. 6; *ST* I.13.1; *Commentary on Dionysius’s On the Divine Names*, ch. 1, lect. 1, 3. It seems that God is not nameable.  
 
 Obj. 1: It seems God is not nameable because of what Dionysius says about God, saying, *but he cannot be comprehended by any name at all, nor is there sensation of him, nor an image, nor an opinion, nor a name, nor an explanation, nor contact with him, nor knowledge of him*.Pseudo-Dionysius, *On the Divine Names*, ch. 1, para. 1 (PG 3:586).  This also seems to be clear from what the Philosopher says in the *Book of Causes*, namely, *the first cause is higher than description, and tongues fall short of describing him*.Rather: Proclus, *Book of Causes*, prop. 6.  
 
@@ -56,7 +58,7 @@ Article 2
 
 ***Whether any name can be said of God properly***
 
-***To the second we proceed as follows.Parallel texts: *In I Sent*., d. 4, q. 1, a. 1; d. 33, a. 2; d. 35, a. 1, ad 2; *ST* I.13.3; *SCG* I.30; *Disputed Questions on the Power of God*, q. 7, a. 5. It seems that no name can be said of God properly.***
+To the second we proceed as follows.Parallel texts: *In I Sent*., d. 4, q. 1, a. 1; d. 33, a. 2; d. 35, a. 1, ad 2; *ST* I.13.3; *SCG* I.30; *Disputed Questions on the Power of God*, q. 7, a. 5. It seems that no name can be said of God properly.  
 
 Obj. 1: For nothing is said properly of something that is more truly denied than affirmed of it. But according to Dionysius,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 2, para. 3 (PG 3:139). all names that are said of God are more truly denied of him than affirmed of him; this is why he says that in the divine, negations are true, affirmations incongruous.The Latin *incompactae* is a translation of the Greek ἀνάρμοστοι (*anarmostoi*), meaning “improper, undefined, incongruous.” Therefore and so on.  
 
@@ -88,7 +90,7 @@ Article 3
 
 ***Whether God has only one name***
 
-***To the third we proceed as follows.Parallel texts: *In I Sent*., d. 2, q. 1, a. 3; *ST* I.13.4; *SCG* I.35; *On the Power of God*, q. 7, a. 6; *Compendium theologiae*, ch. 25. It seems that God has only one name.***
+To the third we proceed as follows.Parallel texts: *In I Sent*., d. 2, q. 1, a. 3; *ST* I.13.4; *SCG* I.35; *On the Power of God*, q. 7, a. 6; *Compendium theologiae*, ch. 25. It seems that God has only one name.  
 
 Obj. 1: For a name should correspond to the reality being signified through the name, since, as Hilary says,Hilary, *On the Trinity*, bk. 4, ch. 14 (PL 10:107). *the subject is a statement of the reality*. But in God there is the highest unity without any diversity. Therefore he is named by only one name.  
 
@@ -122,7 +124,7 @@ Article 4
 
 ***Whether the division of the names of God given by Ambrose is insufficient***
 
-***To the fourth we proceed as follows. It seems that Ambrose’s division*Sent*. I, 22.1(90).2, quoting Ambrose, *De fide libri V*, bk. 1, prologue. Ambrose’s division given in the text is as follows: “there are some names which clearly show a property of the Godhead; and there are some which express the clear truth of the divine majesty; but there are others which are used of God metaphorically and by analogy.” Lombard understands the property in the first member to indicate personal properties. is insufficient.***
+To the fourth we proceed as follows. It seems that Ambrose’s division*Sent*. I, 22.1(90).2, quoting Ambrose, *De fide libri V*, bk. 1, prologue. Ambrose’s division given in the text is as follows: “there are some names which clearly show a property of the Godhead; and there are some which express the clear truth of the divine majesty; but there are others which are used of God metaphorically and by analogy.” Lombard understands the property in the first member to indicate personal properties. is insufficient.  
 
 Obj. 1: For “Trinity” and “person” are divine names, and they pertain neither to the unity of the majesty, nor do they belong properly to some one person, nor are they said of God metaphorically.  
 
@@ -150,7 +152,7 @@ Moreover, in the three differences that he adds, the Master specifies Ambrose’
 
 Exposition of the text  
 
-****It seems to us that we must discuss the diversity of names*.*Sent*. I, 22.1(90).1. It does not seem that this is pertinent, since it does not belong to the same science to consider realities and their names. But it should be said, as was said above,*In I Sent*., prologue, a. 3. that theology, insofar as it is the chief of all the sciences, has within itself something from all the sciences, and therefore it treats not only the realities, but the significations of their names. For not only faith about the truth of the realities is necessary to attain salvation, but so is the vocal confession of it through names. As Romans 10:10 says, one *believes with his heart and so is justified, and he confesses with his lips and so is saved*.***
+*It seems to us that we must discuss the diversity of names*.*Sent*. I, 22.1(90).1. It does not seem that this is pertinent, since it does not belong to the same science to consider realities and their names. But it should be said, as was said above,*In I Sent*., prologue, a. 3. that theology, insofar as it is the chief of all the sciences, has within itself something from all the sciences, and therefore it treats not only the realities, but the significations of their names. For not only faith about the truth of the realities is necessary to attain salvation, but so is the vocal confession of it through names. As Romans 10:10 says, one *believes with his heart and so is justified, and he confesses with his lips and so is saved*.  
 
 *Indications . . . of analogy: splendor, letter of the alphabet, mirror, and suchlike*.*Sent*. I, 22.1(90).2. This seems to be false, since, according to Augustine,Augustine, *On the Literal Interpretation of Genesis*, bk. 4, ch. 28 (*Corpus Scriptorum Ecclesiasticorum Latinorum* [CSEL] 28.1:331; PL 34:315). light is more properly said of spiritual things than of bodily things, so “splendor” is not contained among the metaphors. But one should say that light, as regards the reality being signified, is properly in bodily things, nor is it in spiritual things unless it is being said metaphorically. But as regards the account from which the name is imposed, which consists in manifestation, it is more properly found in spiritual things. But this will be explained better later.*In II Sent*. d. 13, q. 1, a. 2.  
 

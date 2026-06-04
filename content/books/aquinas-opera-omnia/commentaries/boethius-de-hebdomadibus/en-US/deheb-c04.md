@@ -1,6 +1,8 @@
 # L. 3 - Commentary on the Problem
 
-***Now the problem is as follows. The things that are, are good. For the common view of the learned maintains that everything that is tends to the good, and everything tends towards its like; hence things that tend to the good are themselves good.***
+***Commentary on the Problem***
+
+Now the problem is as follows. The things that are, are good. For the common view of the learned maintains that everything that is tends to the good, and everything tends towards its like; hence things that tend to the good are themselves good.  
 
 > But we should look into how they are good—is it by participation or by substance?
 

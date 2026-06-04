@@ -1,8 +1,10 @@
 # D. 44 - The power to sin
 
+***De potentia peccandi***
+
 ***Divisio textus***
 
-***Determinato de peccato quantum ad actum peccati, hic determinat de potentia peccandi; et dividitur in partes duas:***
+Determinato de peccato quantum ad actum peccati, hic determinat de potentia peccandi; et dividitur in partes duas:  
 
 in prima determinat de potentia peccandi;  
 
@@ -128,7 +130,7 @@ Articulus 3
 
 ***Utrum in statu innocentiae fuisset dominium***
 
-***Ad tertium sic proceditur. Videtur quod in statu naturae integrae praelatio, seu dominium, non fuisset.***
+Ad tertium sic proceditur. Videtur quod in statu naturae integrae praelatio, seu dominium, non fuisset.  
 
 Dicit enim Gregorius, lib. 21 *Moral*.: *natura omnes homines aequales fecit; sed pro meritis alios aliis occulta, sed justa Dei dispensatio subjecit*. Sed si homines non peccassent, statum naturae retinuissent. Ergo omnes fuissent aequales, et nulla in eis fuisset praelatio.  
 
@@ -216,7 +218,7 @@ Articulus 2
 
 ***Utrum Christiani teneantur obedire potestatibus saecularibus, et maxime tyrannis***
 
-***Ad secundum sic proceditur. Videtur quod Christiani non teneantur saecularibus potestatibus obedire, et praecipue tyrannis.***
+Ad secundum sic proceditur. Videtur quod Christiani non teneantur saecularibus potestatibus obedire, et praecipue tyrannis.  
 
 Matth. 17:25, dicitur: *ergo liberi sunt filii*. Si enim in quolibet regno filii illius regis qui regno illi praefertur, liberi sunt, tunc filii Regis cui omnia regna subduntur, in quolibet regno liberi esse debent. Sed Christiani effecti sunt filii Dei; Rom. 8:16: *ipse enim Spiritus testimonium reddit spiritui nostro quod sumus filii Dei*. Ergo ubique sunt liberi; et ita saecularibus potestatibus obedire non tenentur.  
 
@@ -254,7 +256,7 @@ Articulus 3
 
 ***Utrum religiosi professi teneantur obedire praelatis suis in omnibus***
 
-***Ad tertium sic proceditur. Videtur quod obedientiam professi simpliciter teneantur obedire praelatis suis.***
+Ad tertium sic proceditur. Videtur quod obedientiam professi simpliciter teneantur obedire praelatis suis.  
 
 Colos. 3:20: *filii obedite parentibus per omnia*. Sed magis tenetur obedire quis patri spirituali quam carnali. Ergo spirituales filii, praecipue obedientiam professi, patribus spiritualibus in omnibus obedire tenentur.  
 
@@ -296,7 +298,7 @@ Ad quintum dicendum, quod illi qui obedientiam non profitentur, non tenentur in 
 
 Expositio textus  
 
-****Post praedicta, consideratione dignum occurrit*. Ratio ordinis est: quia potentia per actum cognoscitur; unde prius de actu peccati determinandum fuit quam de potentia peccandi, quamvis potentia actu naturaliter sit prior.***
+*Post praedicta, consideratione dignum occurrit*. Ratio ordinis est: quia potentia per actum cognoscitur; unde prius de actu peccati determinandum fuit quam de potentia peccandi, quamvis potentia actu naturaliter sit prior.  
 
 *Utrum potentia peccandi sit nobis a Deo vel a nobis*. Videtur debuisse dicere, potentiae peccandi, pluraliter, quia actibus plurium potentiarum peccare contingit.  
 

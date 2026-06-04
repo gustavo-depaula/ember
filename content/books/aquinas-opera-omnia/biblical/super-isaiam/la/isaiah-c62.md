@@ -1,5 +1,7 @@
 # Chapter 60
 
+^60:1^ Surge, illuminare Jerusalem, quia venit lumen tuum et gloria Domini super te orta est.  
+
 > ^60:2^ Quia ecce tenebræ operient terram et caligo populos; super te autem orietur Dominus, et gloria ejus in te videbitur.
 
 > ^60:3^ Et ambulabunt gentes in lumine tuo et reges in splendore ortus tui.

@@ -1,8 +1,10 @@
 # D. 16 - Visible sending of the Holy Spirit
 
+***De missione visibili Spiritus Sancti***
+
 ***Divisio textus***
 
-***Postquam determinavit de processione temporali Spiritus Sancti in communi, hic descendit ad speciales modos missionis, et dividitur in partes duas: in prima determinat de missione visibili; in secunda de invisibili, 17 distinct., ibi: *jam nunc accedamus ad assignandum missionem Spiritus Sancti qua invisibiliter mittitur in corda fidelium*.***
+Postquam determinavit de processione temporali Spiritus Sancti in communi, hic descendit ad speciales modos missionis, et dividitur in partes duas: in prima determinat de missione visibili; in secunda de invisibili, 17 distinct., ibi: *jam nunc accedamus ad assignandum missionem Spiritus Sancti qua invisibiliter mittitur in corda fidelium*.  
 
 Prima in duas: in prima distinguit duos modos processionis temporalis Spiritus Sancti; in secunda ostendit differentiam ipsius ad visibilem missionem Filii, ibi: *sed prius quaerendum est*.  
 
@@ -28,7 +30,7 @@ Articulus 1
 
 ***Utrum missio visibilis conveniat divinae personae***
 
-***Ad primum sic proceditur. Videtur quod missio visibilis divinae personae non competat.***
+Ad primum sic proceditur. Videtur quod missio visibilis divinae personae non competat.  
 
 Missio enim est, ut prius dictum est, secundum quod divina persona aliquo novo modo est in aliquo quo prius non fuit. Sed in nulla creatura visibili potest esse aliquo modo quo prius non fuerit; est enim in omnibus creaturis essentialiter, potentialiter, praesentialiter; et praeter hoc est in sanctis mentibus per gratiam, quo modo in aliquo visibili corporeo esse non potest. Ergo videtur quod missio visibilis non sit.Parma: *possit esse*.  
 
@@ -64,7 +66,7 @@ Articulus 2
 
 ***Utrum missio visibilis debuerit fieri ad patres Veteris Testamenti***
 
-***Ad secundum sic proceditur. Videtur etiam quod ad patres Veteris Testamenti missio visibilis fieri debuerit.***
+Ad secundum sic proceditur. Videtur etiam quod ad patres Veteris Testamenti missio visibilis fieri debuerit.  
 
 Missio enim visibilis est signum invisibilis missionis. Sed ad patres Veteris Testamenti facta est missio invisibilis, ut supra dictum est. Ergo videtur quod etiam visibilis fieri debuerit.  
 
@@ -94,7 +96,7 @@ Articulus 3
 
 ***Utrum missio visibilis fiat tantum in specie corporali***
 
-***Ad tertium sic proceditur. Videtur quod missio visibilis non solum fiat in specie corporali.***
+Ad tertium sic proceditur. Videtur quod missio visibilis non solum fiat in specie corporali.  
 
 Est enim triplex missionis genus, scilicet corporalis, imaginaria et intellectualis, ut dicitur in Glossa Isaiae.Parma: *Isidori*. Per quamlibet autem harum potest fieri divinorum manifestatio. Ergo videtur quod sicut est missio aliqua quae fit secundum visionem intellectualem, scilicet per gratiam invisibilem, et aliqua quae fit secundum corporalem, scilicet secundum species corporales; ita etiam sit aliqua secundum visionem imaginariam per species imaginarias.  
 
@@ -136,7 +138,7 @@ Articulus 4
 
 ***Utrum species missionis visibilis sint formatae ministerio angelorum***
 
-***Ad quartum sic proceditur. Videtur quod illae species visibiles ministerio angelorum formatae non sint.***
+Ad quartum sic proceditur. Videtur quod illae species visibiles ministerio angelorum formatae non sint.  
 
 Dicit enim Augustinus, 3 *De Trinit*., cap. 11, quod sermones Dei in Novo Testamento non per angelos, sed per ipsum Deum facti sunt. Ergo illa locutio, sive ille sonus qui in Novo Testamento factus est, Matth. 17:5: *hic est Filius meus dilectus*, non est per angelos formatus; et eadem ratione nec alia quae ad missionem pertinent visibilem.  
 
@@ -166,7 +168,7 @@ Ad quintum dicendum, quod dictum Dionysii habebat veritatem in effectibus qui a 
 
 Expositio textus  
 
-****Sed etiam minoratus est paulo minus ab angelis*. Sed contra est quod dicitur in Glossa Hebr. 5: *natura humana, quam Filius Dei assumpsit, nihil melius est, nisi solus Deus*. Sed dicendum, quod dicitur minoratus secundum quid, scilicet propter corporis passionem; non autem propter naturae assumptae inferioritatem, quantum ad illud individuum in quo est assumpta. Quamvis non universaliter sit verum de humana natura, quod angelis non sit inferior.***
+*Sed etiam minoratus est paulo minus ab angelis*. Sed contra est quod dicitur in Glossa Hebr. 5: *natura humana, quam Filius Dei assumpsit, nihil melius est, nisi solus Deus*. Sed dicendum, quod dicitur minoratus secundum quid, scilicet propter corporis passionem; non autem propter naturae assumptae inferioritatem, quantum ad illud individuum in quo est assumpta. Quamvis non universaliter sit verum de humana natura, quod angelis non sit inferior.  
 
 *Hilarius aliter dicere videtur*. Videtur hoc esse impossibile; quia magis et minus relative dicuntur. Ergo si Pater est major, Filius est minor. Ad quod quidam dicunt, quod Pater dicitur esse major Filio, quia plures habet notiones: nec tamen Filius est minor, quia una notio Patris, scilicet innascibilitas, non habet correspondentem notionem in Filio, ex qua Filius minor dici possit. Sed hoc nec proprietas locutionis admittit. Tum quia secundum relationes non attenditur aequalitas vel inaequalitas, ut infra ex verbis Augustini habebitur. Tum quia ex pluribus proprietatibus nulla res major dicitur, sed ex majori quantitate. Est etiam praeter intentionem Hilarii, ut verba sequentia ostendunt.  
 

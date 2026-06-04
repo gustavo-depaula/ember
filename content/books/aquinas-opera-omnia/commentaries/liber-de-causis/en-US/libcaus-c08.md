@@ -1,5 +1,7 @@
 # Proposition 7
 
+***64. Intelligence is a substance which is not divided.***
+
 > 65. This is because if it is not endowed with magnitude, is not body and does not move, then doubtless it cannot be divided.
 
 > 66. And again, everything divisible is divided only either with respect to number or size or its motion.

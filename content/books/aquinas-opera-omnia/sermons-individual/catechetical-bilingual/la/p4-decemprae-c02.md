@@ -1,10 +1,12 @@
 # Book I - The Law of Charity, Which Is the Law of Christ
 
+***Lex caritatis quae est lex Christi***
+
 ***Capitulum 1***
 
 ***II. De effectu caritatis***
 
-***Sicut iam supradictum est quadruplex lex invenitur. Et prima quidem est lex naturae quam Deus homini in creatione infudit, secunda lex concupiscentiae, tertia lex Scripturae, quarta est lex caritatis quae est lex Christi.***
+Sicut iam supradictum est quadruplex lex invenitur. Et prima quidem est lex naturae quam Deus homini in creatione infudit, secunda lex concupiscentiae, tertia lex Scripturae, quarta est lex caritatis quae est lex Christi.  
 
 Sed manifestum est quod non omnes possunt scientiae insudare et propterea a Christo data est lex brevis ut ab hominibus omnibus posset sciri et nullus propter ignorantiam possit ab eius observantia excusari; et haec est lex divini amoris, unde Apostolus *verbum abbreviatum,* etc. Sed sciendum est quod haec lex debet esse regula omnium actuum humanorum. Sicut enim videmus in artificialibus, tunc unumquodque opus bonum et rectum dicitur quando regulae coaequatur, sic etiam quodlibet humanum opus rectum est et virtuosum quando regulae divinae dilectionis concordat; quando vero a regula caritatis discordat tunc non est rectum nec bonum neque perfectum. Ad hoc ergo quod actus humanis boni reddantur oportet quod regulae divinae dilectionis concordent.  
 
@@ -20,7 +22,7 @@ Capitulum 2
 
 ***III. De utilitate caritatis***
 
-***Sicut ex dictis iam manifestum est quatuor efficit caritas. Sed praeter omnia illa quaedam alia efficit quae praetermittenda non sunt.***
+Sicut ex dictis iam manifestum est quatuor efficit caritas. Sed praeter omnia illa quaedam alia efficit quae praetermittenda non sunt.  
 
 Et primo quidem caritas efficit peccatorum remissionem. Et hoc manifeste videmus ex nobis. Si enim aliquis aliquem offendit et ipsum postea intime diligat, propter dilectionem sibi offensa laxatur; sic etiam Deus diligentibus se peccata dimittit. Et propterea dicit beatus Petrus *caritas operit multitudinem peccatorum*; et congrue dicit *operit* quia scilicet a Deo non videntur ut puniat. Sed licet dicat quod operit multitudinem, tamen Salomon dicit quod *universa delicta operit caritas*, Prov. Et hoc maxime manifestat Magdalenae exemplum de qua dicit Dominus *dimissa sunt ei peccata multa*. Sed quare? subdit: *quoniam dilexit multum*. Sed forte dicet aliquis: “sufficit ergo caritas ad delenda peccata et non est necessaria poenitentia.” Sed considerandum quod nullus vere diligit qui non vere poenitet. Manifestum est enim quod quanto magis aliquem diligimus tanto magis dolemus si ipsum offendimus. Et hic est unus caritatis effectus.  
 
@@ -38,7 +40,7 @@ Capitulum 3
 
 ***IV. Quomodo habetur caritas***
 
-***Ex iam dictis patent utilitates caritatis. Postquam igitur tam utilis est studiose laborandum est ad acquirendum eam et retinendum. Sed sciendum quod nullus a se caritatem habere potest, immo solius Dei est donum. Et propterea dicit Ioan., *non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos*, quia videlicet non propterea ipse nos diligit quia nos prius diligimus eum, sed hoc ipsum quod nos diligimus eum causatur in nobis ex dilectione ipsius.***
+Ex iam dictis patent utilitates caritatis. Postquam igitur tam utilis est studiose laborandum est ad acquirendum eam et retinendum. Sed sciendum quod nullus a se caritatem habere potest, immo solius Dei est donum. Et propterea dicit Ioan., *non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos*, quia videlicet non propterea ipse nos diligit quia nos prius diligimus eum, sed hoc ipsum quod nos diligimus eum causatur in nobis ex dilectione ipsius.  
 
 Considerandum etiam quod licet omnia dona sint *a Patre luminum*, istud tamen donum, scilicet caritatis, omnia alia dona superexcellit. Omnia enim alia sine gratia ac Spiritu Sancto habentur, cum caritate vero necessario Spiritus Sanctus habetur; Apostolus, *caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis*. Sive enim sit donum linguarum sive scientiae sive prophetiae, absque gratia et Spiritu Sancto habentur.  
 
@@ -58,7 +60,7 @@ Capitulum 4
 
 ***V. De dilectione Dei***
 
-***Christus ante Passionem suam interrogatus a legisperito quod esset maximum et primum mandatum respondit, ***diliges Dominum Deum tuum ex toto corde tuo*** etc. Et vere istud est maius et nobilius et utilius inter omnia mandata sicut satis manifestum est. In hoc enim omnia mandata implentur. Sed ad hoc quod istud praeceptum dilectionis possit perfecte impleri quatuor requiruntur.***
+Christus ante Passionem suam interrogatus a legisperito quod esset maximum et primum mandatum respondit, ***diliges Dominum Deum tuum ex toto corde tuo*** etc. Et vere istud est maius et nobilius et utilius inter omnia mandata sicut satis manifestum est. In hoc enim omnia mandata implentur. Sed ad hoc quod istud praeceptum dilectionis possit perfecte impleri quatuor requiruntur.  
 
 Primum est divinorum beneficiorum rememoratio; omnia enim quae habemus, sive exteriora sive corpus sive animam, omnia a Deo habemus. Et ideo oportet quod sibi de omnibus serviamus et eum diligamus corde perfecto. Nimis enim ingratus est qui recogitans alicuius beneficia eum non diligit. Ista beneficia recogitabat David dicens, Paral., *tua sunt omnia* etc. Et ideo in eius laudem dicitur, *de omni corde suo laudavit Dominum*, Eccli.  
 
@@ -76,7 +78,7 @@ Capitulum 5
 
 ***VI. Quid homo dare tenetur Deo***
 
-***Iam ostensum est quod homo se dare Deo tenetur. Nunc considerandum quid homo de se Deo dare debeat. Debet autem ista quatuor quis Deo dare scilicet cor, animam, mentem et fortitudinem. Et ideo dicit, ***diliges Dominum Deum tuum ex toto corde*** etc.***
+Iam ostensum est quod homo se dare Deo tenetur. Nunc considerandum quid homo de se Deo dare debeat. Debet autem ista quatuor quis Deo dare scilicet cor, animam, mentem et fortitudinem. Et ideo dicit, ***diliges Dominum Deum tuum ex toto corde*** etc.  
 
 Sciendum autem quod per *cor* hic intelligitur intentio. Est autem intentio tantae virtutis quod omnia opera ad se trahit. Unde quaecumque bona mala intentione facta in mala convertuntur, Luc. XI *si oculus tuus,* id est intentio, *nequam fuerit, totum corpus tuum*, id est congeries bonorum operum, *tenebrosum erit.* Propterea in omni opere nostro intentio ponenda est in Deo; ideo dicit Apostolus, *sive comeditis sive bibitis omnia in nomine Domini facite*.  
 
@@ -90,7 +92,7 @@ Capitulum 6
 
 ***VII. De dilectione proximi***
 
-***Christus interrogatus quod esset maximum mandatum, uni interrogationi duas dedit responsiones. Et prima fuit, ***diliges Dominum Deum tuum*** etc., de quo dictum est; secunda vero, ***et proximum tuum sicut teipsum***. Ubi considerandum est quod qui hoc servat totam legem adimplet; Apostolus, *plenitudo legis est dilectio*. Sed sciendum quod ad dilectionem proximi quatuor nos inducunt.***
+Christus interrogatus quod esset maximum mandatum, uni interrogationi duas dedit responsiones. Et prima fuit, ***diliges Dominum Deum tuum*** etc., de quo dictum est; secunda vero, ***et proximum tuum sicut teipsum***. Ubi considerandum est quod qui hoc servat totam legem adimplet; Apostolus, *plenitudo legis est dilectio*. Sed sciendum quod ad dilectionem proximi quatuor nos inducunt.  
 
 Primo divinus amor quia, sicut dicitur in canonica Ioannis, *qui dicit se Deum diligere et fratrem suum non diligit mendax est*. Qui enim dicit se diligere aliquem et suum filium aut membra eius odio habet mendax est; omnes autem fideles filii Dei et membra Christi sumus. Apostolus, *vos estis Christi et membra de membro*. Et ideo qui odit proximum non diligit Deum.  
 
@@ -102,7 +104,7 @@ Quartum est utilitatis consecutio. Omnia enim alterius alii fiunt utilia per car
 
 VIII. De eodem  
 
-******Diliges proximum tuum sicut teipsum*** etc. Istud est secundum praeceptum legis et est de dilectione proximi. Quare autem proximum diligere debeamus iam dictum est, et ideo dicendum restat de modo dilectionis qui quidem innuitur cum dicitur ***sicut teipsum***. Circa quod verbum quinque considerare possumus quae in dilectione proximi observare debemus.***
+***Diliges proximum tuum sicut teipsum*** etc. Istud est secundum praeceptum legis et est de dilectione proximi. Quare autem proximum diligere debeamus iam dictum est, et ideo dicendum restat de modo dilectionis qui quidem innuitur cum dicitur ***sicut teipsum***. Circa quod verbum quinque considerare possumus quae in dilectione proximi observare debemus.  
 
 Primum est quod debemus eum diligere vere sicut nos; tunc autem hoc facimus quando propter seipsum eum diligimus et non propter nos. Et ideo notandum quod triplex est amor quorum duo non veri, tertius autem verus est. Primus est qui est propter utile; unde in Prov., *est amicus socius mensae*. Sed certe hic non est verus amor; deficit enim deficiente utilitate. Et tunc nolumus bonum proximo, sed potius bonum utilitatis ipsius volumus nobis. Est et alius amor qui est propter delectabile, et hic etiam non est verus quia et eo deficiente deficit. Et iterum nolumus bonum propter hoc proximo principaliter, sed potius bonum suum volumus nobis. Tertius est amor qui est propter virtutem, et iste solus est verus. Tunc enim non diligimus proximum propter bonum nostrum sed propter suum.  
 
@@ -116,7 +118,7 @@ Quintum est quod debemus eum diligere sancte, ut scilicet eum non diligamus ad p
 
 IX. De eodem  
 
-******Diliges proximum tuum*** etc. Hoc praeceptum Iudaei et Pharisaei male intelligebant, credentes quod Deus praeciperet quod homo deberet diligere amicos et odio habere inimicos, et ideo ***proximos*** intelligebant tantum amicos. Hunc autem intellectum intendit Christus reprobare dicens *diligite inimicos vestros*. Sciendum autem quod quicumque odit aliquem non est in statu salutis, Ioan., *qui odit fratrem suum homicida est*; et iterum *qui odit fratrem suum in tenebris est*.***
+***Diliges proximum tuum*** etc. Hoc praeceptum Iudaei et Pharisaei male intelligebant, credentes quod Deus praeciperet quod homo deberet diligere amicos et odio habere inimicos, et ideo ***proximos*** intelligebant tantum amicos. Hunc autem intellectum intendit Christus reprobare dicens *diligite inimicos vestros*. Sciendum autem quod quicumque odit aliquem non est in statu salutis, Ioan., *qui odit fratrem suum homicida est*; et iterum *qui odit fratrem suum in tenebris est*.  
 
 Tamen si super hoc consideremus quae scripta sunt invenitur quaedam contrarietas, nam sancti aliquos oderunt; Ps., *perfecto odio oderam illos* etc.; Christus etiam dicit, *qui non odit patrem* etc.; item Ps., *odisti omnes qui operantur iniquitatem.* Et ideo sciendum quod in omnibus factis nostris factum Christi debet esse exemplum nobis; Deus enim et diligit et odit. Quia in quolibet homine duo consideranda sunt, scilicet natura et vitium, natura quidem diligi debet in omnibus, vitium vero sive peccatum odiri. Unde si quis vellet hominem esse in inferno odiret naturam, si vero vellet ipsum esse bonum tunc odiret peccatum quod semper odiendum est, Ps., *perdes omnes qui loquuntur mendacium* etc., et in Sap., *nihil odisti eorum quae fecisti*. Ecce ergo quod Deus diligit et odit, diligit quidem naturam sed odit vitium.  
 
@@ -130,7 +132,7 @@ Sed sciendum quod non sufficit non velle malum, sed oportet velle bonum scilicet
 
 X. De eodem  
 
-******Diliges proximum tuum*** etc. Dictum est quod peccas si non parcis veniam postulanti et quod perfectionis est si tu eum ad te revocas quamvis non tenearis. Sed ad hoc quod tu eum trahas ad te multae rationes inducunt.***
+***Diliges proximum tuum*** etc. Dictum est quod peccas si non parcis veniam postulanti et quod perfectionis est si tu eum ad te revocas quamvis non tenearis. Sed ad hoc quod tu eum trahas ad te multae rationes inducunt.  
 
 Prima est propriae dignitatis conservatio. Diversae enim dignitates diversa signa habent; nullus autem suae dignitatis signa dimittere debet. Inter omnes autem dignitates maior est quod sit quis filius Dei. Huius autem dignitatis signum est si diligas inimicum, Matt., *diligite inimicos vestros, benefacite* etc., *ut sitis* etc. Si enim diligis amicum, hoc non est signum filiationis divinae, nam publicani et ethnici hoc faciunt, ut dicitur in Matt.  
 

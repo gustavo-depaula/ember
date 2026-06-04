@@ -1,5 +1,7 @@
 # Prologue
 
+***Psalmus 106:20***
+
 ***Misit verbum suum, et sanavit eos, et eripuit eos de interitionibus eorum.***
 
 > Ex peccato primi hominis humanum genus duo incurrerat, scilicet mortem, et infirmitatem. Mortem propter separationem a vitae principio, de quo in Psalm. 35, 10, dicitur: *apud te est fons vitae*; et qui separatur ab hoc principio, de necessitate moritur: et hoc factum est per primum hominem. Unde dicitur Rom. 5, 12: *per unum hominem peccatum in mundum intravit, et per peccatum mors*. Infirmitatem vero propter destitutionem gratiae, quae est hominis sanitas, quae petitur Hierem. 17, 14: *sana me Domine, et sanabor*; et ideo in Psalm. 6, 3, dicitur: *miserere mei Domine, quoniam infirmus sum*.

@@ -1,5 +1,7 @@
 # Holy Mass
 
+***Introit***
+
 ℟. He fed them from the finest grain, alleluia. And he filled them with honey from a rock, alleluia, alleluia, alleluia. [Ps 80 (81):17]  
 
 ℣. Rejoice to God our helper: sing aloud to the God of Jacob [Ps 80 (81):2]. * Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen.  
@@ -37,13 +39,13 @@ Glory to God in the highest, and on earth peace to men of good will.While simila
 
 > Collect
 
-****Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.***
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
 Epistle  
 
-***A reading from the first letter of blessed Paul the Apostle to the Corinthians (1 Cor 11:23–29)***
+A reading from the first letter of blessed Paul the Apostle to the Corinthians (1 Cor 11:23–29)  
 
-***Brothers: I received from the Lord what I also delivered to you, that our Lord Jesus, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you. Do this in my memory. Similarly [he took] also the cup, after he ate, saying: this chalice is the New Covenant in my Blood. Do this, as often as you drink it, in my memory. For whenever you shall eat this bread and drink this chalice, you proclaim the death of the Lord until he comes. Therefore, whoever shall eat this bread or drink this chalice unworthily, will be answerable for the Body and Blood of the Lord. Let a man examine himself, and so eat of the bread and drink from the chalice. For whoever eats and drinks unworthily, not discerning the Body of the Lord, eats and drinks judgment on himself.***
+Brothers: I received from the Lord what I also delivered to you, that our Lord Jesus, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you. Do this in my memory. Similarly [he took] also the cup, after he ate, saying: this chalice is the New Covenant in my Blood. Do this, as often as you drink it, in my memory. For whenever you shall eat this bread and drink this chalice, you proclaim the death of the Lord until he comes. Therefore, whoever shall eat this bread or drink this chalice unworthily, will be answerable for the Body and Blood of the Lord. Let a man examine himself, and so eat of the bread and drink from the chalice. For whoever eats and drinks unworthily, not discerning the Body of the Lord, eats and drinks judgment on himself.  
 
 > Gradual
 
@@ -117,7 +119,7 @@ Sung to *Laudes crucis attolamus* from the feast of the Holy Cross.
 
 ***according to John (6:55–58)***
 
-***At that time Jesus said to his disciples and to the multitude of the Jews: my Flesh is truly food, and my Blood truly is drink. He who eats my Flesh and drinks my Blood abides in me, and I in him. As the living Father sent me, and I live because the Father, so he who eats me, will himself live because of me. This is the bread which came down from heaven, not such as the manna your fathers ate and died. He who eats this bread will live forever.***
+At that time Jesus said to his disciples and to the multitude of the Jews: my Flesh is truly food, and my Blood truly is drink. He who eats my Flesh and drinks my Blood abides in me, and I in him. As the living Father sent me, and I live because the Father, so he who eats me, will himself live because of me. This is the bread which came down from heaven, not such as the manna your fathers ate and died. He who eats this bread will live forever.  
 
 > Offertory
 
@@ -127,13 +129,13 @@ Sung to *Confirma hoc Deus* from the Mass of the Holy Spirit.
 
 ***Secret***
 
-***We ask, Lord, that you mercifully grant to your Church the gifts of unity and peace, which are mystically signified beneath the gifts we offer. Through our Lord Jesus Christ your Son, who lives and reigns with you in the unity of the Holy Spirit, world without end. Amen.***
+We ask, Lord, that you mercifully grant to your Church the gifts of unity and peace, which are mystically signified beneath the gifts we offer. Through our Lord Jesus Christ your Son, who lives and reigns with you in the unity of the Holy Spirit, world without end. Amen.  
 
 Preface  
 
 ***[of the Nativity of the Lord]***
 
-***It is truly right and just, proper and salutary, always and everywhere to give you thanks. Holy Lord, omnipotent Father, eternal God. Because of the mystery of the Word incarnate, the light of your glory has shone anew on the eyes of our mind. That, while we acknowledge him to be God visible, we may be drawn by him to the love of invisible things. And therefore with the angels and archangels, thrones and dominations, and with all the heavenly hosts, we sing a hymn to your glory, saying without end.***
+It is truly right and just, proper and salutary, always and everywhere to give you thanks. Holy Lord, omnipotent Father, eternal God. Because of the mystery of the Word incarnate, the light of your glory has shone anew on the eyes of our mind. That, while we acknowledge him to be God visible, we may be drawn by him to the love of invisible things. And therefore with the angels and archangels, thrones and dominations, and with all the heavenly hosts, we sing a hymn to your glory, saying without end.  
 
 Sanctus  
 
@@ -159,4 +161,4 @@ Sung to *Factus est repente* from the Mass of the Holy Spirit.
 
 ***Post-Communion Prayer***
 
-***Grant, we ask, O Lord, that we be filled with the everlasting enjoyment of your divinity, which the temporal perception of your precious Body and Blood prefigures. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.***
+Grant, we ask, O Lord, that we be filled with the everlasting enjoyment of your divinity, which the temporal perception of your precious Body and Blood prefigures. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.

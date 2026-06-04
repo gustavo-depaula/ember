@@ -1,6 +1,8 @@
 # C. 6 - Prophecy of Jerusalem’s destruction
 
-***^6:1^ Confortamini, filii Benjamin, in medio Jerusalem, et in Thecua clangite buccina, et super Bethacarem levate vexillum: quia malum visum est ab aquilone, et contritio magna.***
+***Lectio 1***
+
+^6:1^ Confortamini, filii Benjamin, in medio Jerusalem, et in Thecua clangite buccina, et super Bethacarem levate vexillum: quia malum visum est ab aquilone, et contritio magna.  
 
 > ^6:2^ Speciosae et delicatae assimilavi filiam Sion.
 
@@ -32,7 +34,7 @@ Tertio describitur exercitus debita ordinatio. ***Pascet***, idest gubernabit, *
 
 Lectio 2  
 
-***^6:4^ Sanctificate super eam bellum, consurgite, et ascendamus in meridie. Vae nobis, quia declinavit dies, quia longiores factae sunt umbrae vesperi.***
+^6:4^ Sanctificate super eam bellum, consurgite, et ascendamus in meridie. Vae nobis, quia declinavit dies, quia longiores factae sunt umbrae vesperi.  
 
 > ^6:5^ Surgite, et ascendamus in nocte, et dissipemus domus ejus:
 
@@ -62,7 +64,7 @@ Tertio peccati continuitatem. ***Iniquitas***. Isa. 59: *vastitas et contritio i
 
 Lectio 4  
 
-***^6:8^ Erudire, Jerusalem, ne forte recedat anima mea a te, ne forte ponam te desertam, terram inhabitabilem.***
+^6:8^ Erudire, Jerusalem, ne forte recedat anima mea a te, ne forte ponam te desertam, terram inhabitabilem.  
 
 > ^6:9^ Haec dicit Dominus exercituum: usque ad racemum colligent quasi in vinea reliquias Israel. Converte manum tuam quasi vindemiator ad cartallum.
 
@@ -84,7 +86,7 @@ Et in captivitate gentis: ***haec dicit Dominus exercituum: usque ad racemum col
 
 Lectio 5  
 
-***^6:10^ Cui loquar, et quem contestabor ut audiat? Ecce incircumcisae aures eorum, et audire non possunt. Ecce verbum Domini factum est eis in opprobrium, et non suscipient illud.***
+^6:10^ Cui loquar, et quem contestabor ut audiat? Ecce incircumcisae aures eorum, et audire non possunt. Ecce verbum Domini factum est eis in opprobrium, et non suscipient illud.  
 
 > **44**. Hic ostendit consilii dati contemptum:
 
@@ -94,7 +96,7 @@ Secundo ostendit idoneitatem, quia audire noluerunt: ***ecce incircumcisae***, q
 
 Lectio 6  
 
-***^6:11^ Idcirco furore Domini plenus sum, laboravi sustinens. Effunde super parvulum foris, et super consilium juvenum simul. Vir enim cum muliere capietur, senex cum pleno dierum.***
+^6:11^ Idcirco furore Domini plenus sum, laboravi sustinens. Effunde super parvulum foris, et super consilium juvenum simul. Vir enim cum muliere capietur, senex cum pleno dierum.  
 
 > ^6:12^ Et transibunt domus eorum ad alteros, agri, et uxores pariter: quia extendam manum meam super habitantes terram: dicit Dominus.
 
@@ -108,7 +110,7 @@ Tertio ponit praecepti complementum, et quantum ad personas, et quantum ad posse
 
 Lectio 7  
 
-***^6:13^ A minore quippe usque ad majorem, omnes avaritiae student, et a propheta usque ad sacerdotem, cuncti faciunt dolum.***
+^6:13^ A minore quippe usque ad majorem, omnes avaritiae student, et a propheta usque ad sacerdotem, cuncti faciunt dolum.  
 
 > ^6:14^ Et curabunt contritionem filiae populi mei cum ignominia, dicentes, pax, pax: et non erat pax.
 
@@ -134,7 +136,7 @@ Tertio comminatur poenam: ***quamobrem cadent***, ipsi prophetae, ***inter ruent
 
 Lectio 8  
 
-***^6:16^ Haec dicit Dominus: state super vias, et videte, et interrogate de semitis antiquis, quae sit via bona; ambulate in ea, et invenietis refrigerium animabus vestris. Et dixerunt, non ambulabimus.***
+^6:16^ Haec dicit Dominus: state super vias, et videte, et interrogate de semitis antiquis, quae sit via bona; ambulate in ea, et invenietis refrigerium animabus vestris. Et dixerunt, non ambulabimus.  
 
 > ^6:17^ Et constitui super vos speculatores. Audite vocem tubae. Et dixerunt, non audiemus.
 
@@ -156,7 +158,7 @@ Secundo comminatur poenam: ***ecce ego***. Isa. 3: *fructum adinventionum suarum
 
 Lectio 9  
 
-***^6:20^ Ut quid mihi thus de Saba affertis, et calamum suave olentem de terra longinqua? Holocautomata vestra non sunt accepta, et victimae vestrae non placuerunt mihi.***
+^6:20^ Ut quid mihi thus de Saba affertis, et calamum suave olentem de terra longinqua? Holocautomata vestra non sunt accepta, et victimae vestrae non placuerunt mihi.  
 
 > ^6:21^ Propterea haec dicit Dominus: ecce ego dabo in populum istum ruinas, et ruent in eis patres et filii simul, vicinus et proximus peribunt.
 
@@ -168,7 +170,7 @@ Secundo ponit poenam. ***Propterea haec dicit Dominus***. Isa. 3: *corruet popul
 
 Lectio 10  
 
-***^6:22^ Haec dicit Dominus: ecce populus venit de terra aquilonis, et gens magna consurget a finibus terrae.***
+^6:22^ Haec dicit Dominus: ecce populus venit de terra aquilonis, et gens magna consurget a finibus terrae.  
 
 > ^6:23^ Sagittam et scutum arripiet: crudelis est, et non miserebitur. Vox ejus quasi mare sonabit, et super equos ascendent, praeparati quasi vir ad praelium adversum te, filia Sion.
 
@@ -198,7 +200,7 @@ Tertio hortatur ad poenitentiae dolorem: ***filia populi mei, accingere cilicio*
 
 Lectio 11  
 
-***^6:27^ Probatorem dedi te in populo meo robustum, et scies et probabis viam eorum.***
+^6:27^ Probatorem dedi te in populo meo robustum, et scies et probabis viam eorum.  
 
 > ^6:28^ Omnes isti principes declinantes, ambulantes fraudulenter. Aes et ferrum, universi corrupta sunt.
 
@@ -218,6 +220,6 @@ Quarto concludit reprobationis argumentum: ***argentum reprobum***. Thren. ult.:
 
 Collationes  
 
-***Notandum, quod peccatum dicitur ***frigus***, quia extinguit calorem dilectionis. Matth. 24: *quoniam abundavit iniquitas, refrigescet caritas multorum*. Quia congelat humorem devotionis. Eccli. 43: *frigidus ventus aquilo flavit et gelavit chrystallus ab aqua*. Quia retardat motum bonae operationis. Prov. 20: *propter frigus piger arare noluit, mendicabit ergo aestate, et non dabitur illi*.***
+Notandum, quod peccatum dicitur ***frigus***, quia extinguit calorem dilectionis. Matth. 24: *quoniam abundavit iniquitas, refrigescet caritas multorum*. Quia congelat humorem devotionis. Eccli. 43: *frigidus ventus aquilo flavit et gelavit chrystallus ab aqua*. Quia retardat motum bonae operationis. Prov. 20: *propter frigus piger arare noluit, mendicabit ergo aestate, et non dabitur illi*.  
 
 Item nota, quod quaedam sunt ***viae*** praeceptorum. Psal. 118: *viam mandatorum tuorum cucurri, cum dilatasti cor meum*. Actionum. Thren. 3: *scrutemur vias nostras, et quaeramus, et revertamur ad Dominum*. Virtutum. Prover. 4: *viam sapientiae monstrabo tibi et ducam te per semitas aequitatis*. Doctorum. Ibid. 3: *viae ejus viae pulchrae, et omnes semitae ejus pacificae*. Ipse Christus, Joan. 14: *ego sum via, veritas, et vita*.

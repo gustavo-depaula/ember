@@ -1,6 +1,8 @@
 # D. 6 - The mode of union
 
-****Ex praemissis autem emergit quaestio etc*. — Postquam determinavit Magister de Incarnatione Dei, hic incipit determinare conditiones Dei incarnati.***
+***Divisio textus***
+
+*Ex praemissis autem emergit quaestio etc*. — Postquam determinavit Magister de Incarnatione Dei, hic incipit determinare conditiones Dei incarnati.  
 
 Dividitur autem haec pars in duas.  
 
@@ -132,7 +134,7 @@ Praeterea, secundum Boetium persona est *rationalis naturae individua substantia
 
 Quaestiuncula 2  
 
-***Ulterius, quaeritur utrum in Christo sint duo supposita. EtEd. omit *Et*. videtur quod sic. Suppositum enim dicit respectum ad naturam communem. Sed in Christo sunt duae naturae. Ergo duoBruges manuscript adds *etiam*. supposita.***
+Ulterius, quaeritur utrum in Christo sint duo supposita. EtEd. omit *Et*. videtur quod sic. Suppositum enim dicit respectum ad naturam communem. Sed in Christo sunt duae naturae. Ergo duoBruges manuscript adds *etiam*. supposita.  
 
 Praeterea, suppositum dicitur quasi sub alio positum. Sed inconveniens est dicere quod divina persona ponatur sub humana. Ergo oportet aliud esse humanae naturae suppositum quam divina persona.Bruges manuscript reads *divinam personam*. Sed persona divina est suppositum naturae divinae. Ergo in Christo sunt duo supposita.  
 
@@ -142,7 +144,7 @@ Sed contra, quod est unitum alteri digniori, non habet rationem suppositi: alias
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod in Christo sint duo individua. Sicut enim dicit Damascenus, Filius Dei assumpsit humanam naturam in atomo, idest individuo. Sed quia natura assumpta est in Christo, dicimus duas naturas. Ergo etBruges manuscript reads *etiam*. dicere possumus in Christo duo individua.***
+Ulterius, videtur quod in Christo sint duo individua. Sicut enim dicit Damascenus, Filius Dei assumpsit humanam naturam in atomo, idest individuo. Sed quia natura assumpta est in Christo, dicimus duas naturas. Ergo etBruges manuscript reads *etiam*. dicere possumus in Christo duo individua.  
 
 Praeterea, omne quod est, aut est universale, aut particulare. Sed humana natura est in Christo. Ergo cum non sit universalis, erit particularis. Sed omne particulare est individuum. Ergo sunt ibi duo individua.  
 
@@ -152,7 +154,7 @@ Sed contra, nihil aliud est persona quam *individuum rationalis naturae*. Sed in
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod sint ibi duae res naturae. Res enim naturae est quod constituitur per naturam. Sed divina persona non constituitur per humanam naturam. Ergo persona Verbi non est res humanae naturae in Christo, sed est aliqua res humanae naturae in Christo. Ergo in Christo sunt duae res naturae.***
+Ulterius, videtur quod sint ibi duae res naturae. Res enim naturae est quod constituitur per naturam. Sed divina persona non constituitur per humanam naturam. Ergo persona Verbi non est res humanae naturae in Christo, sed est aliqua res humanae naturae in Christo. Ergo in Christo sunt duae res naturae.  
 
 Praeterea, res naturae idem videtur esse quod naturale. Sed naturale, ut dicitur 2 *Phys.*, est proprietas causata ex principiis naturae, vel compositum ex principiis naturalibus. Sed neutrum istorumThe Nicolaï version reads *neutrum autem istorum*. convenit divinae personae. Ergo persona divina non est res naturae humanae. Et sic idem quod prius.  
 
@@ -160,7 +162,7 @@ Sed contra, res naturae est completum subsistens in natura. Sed nullum tale est 
 
 Solutio 1  
 
-***Respondeo dicendum, quod cum omne particulare habeat respectum ad naturam communem et ad proprietates, potest secundum utrumque respectum nominari, tum per nomen primae impositionis, tum per nomen secundae intentionis. Hoc enim nomen, "res naturae," est nomen primae impositionis, significans particulare per respectum ad naturam communem. Hoc vero nomen, "suppositum," est nomen secundae impositionis, significans ipsam habitudinem particularis ad naturam communem, inquantum subsistit in ea; particulare vero, inquantum exceditur ab ea.***
+Respondeo dicendum, quod cum omne particulare habeat respectum ad naturam communem et ad proprietates, potest secundum utrumque respectum nominari, tum per nomen primae impositionis, tum per nomen secundae intentionis. Hoc enim nomen, "res naturae," est nomen primae impositionis, significans particulare per respectum ad naturam communem. Hoc vero nomen, "suppositum," est nomen secundae impositionis, significans ipsam habitudinem particularis ad naturam communem, inquantum subsistit in ea; particulare vero, inquantum exceditur ab ea.  
 
 Sed quia accidentia consequuntur naturam, ideo omne nomen designans particulare secundum respectum ad proprietates, designat etiam ipsum per respectum ad naturam communem. Hoc ergo potest fieri dupliciter:—vel per nomen primae impositionis; et sic est "hypostasis" communiter in omnibus substantiis, "persona" vero in rationalibus substantiis;—vel per nomen secundae impositionis; et sic est "individuum" inquantum est indivisum in se, "singulare" vero inquantum est divisum ab aliis, unde singulare est idem quod divisum.  
 
@@ -188,7 +190,7 @@ EaEd. read *et*. quae in contrarium objiciuntur concedimus. Tamen sciendum est q
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod in Christo est tantum unum suppositum ratione jam dicta; nisi dicatur suppositum locutionis, quia sic de quocumque potest fieri sermo diciturEd. read *est*. suppositum.***
+Ad secundam quaestionem dicendum quod in Christo est tantum unum suppositum ratione jam dicta; nisi dicatur suppositum locutionis, quia sic de quocumque potest fieri sermo diciturEd. read *est*. suppositum.  
 
 Ad primum autem circaEd. read *contra*. hoc objectum dicendum quod, quamvis sint ibi duae naturae, tamen est unum habens respectum ad duas naturas; et ideo est ibi suppositum unum.  
 
@@ -198,7 +200,7 @@ Ad tertium dicendum quod pars, proprie, non habet genus neque speciem. Unde non 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod in Christo sunt duo individua, non tamen per se subsistentia; et ipse Christus est unum individuum subsistens, ut dictum est.***
+Ad tertiam quaestionem dicendum quod in Christo sunt duo individua, non tamen per se subsistentia; et ipse Christus est unum individuum subsistens, ut dictum est.  
 
 Ad primum ergo dicendum quod Damascenus intendit dicere quod assumpsit humanam naturam particularem, non autem subsistentem, sed quod in ea persona divina subsistit.  
 
@@ -210,7 +212,7 @@ Ad id quod in contrarium objicitur, dicendum quod in Christo est aliquod individ
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod in Christo non sunt duae res naturae, sed ipse est res una duarum naturarum.***
+Ad quartam quaestionem dicendum quod in Christo non sunt duae res naturae, sed ipse est res una duarum naturarum.  
 
 Ad primum ergo dicendum quod quamvis Verbum non sit constitutum per naturam humanam ut sit simpliciter, tamen per naturam humanam constituitur quod sit homo.  
 
@@ -254,7 +256,7 @@ Articulus 3
 
 ***Utrum "homo" dicat tantum compositum ex duabus substantiis***
 
-***Ad tertium sic proceditur. Videtur quod "homo" non dicat nisi compositum ex duabus substantiis.***
+Ad tertium sic proceditur. Videtur quod "homo" non dicat nisi compositum ex duabus substantiis.  
 
 "Homo" enim praedicatur de Christo et de Petro, et non aequivoce dicitur. Sed cum dicitur de Petro, nihil praedicatur nisi compositum ex duabusEd. add *naturis vel*. substantiis. Ergo et cum dicitur de Christo.  
 
@@ -282,7 +284,7 @@ Quaestio 2
 
 ***De his quae pertinent ad secundam opinionem***
 
-***Deinde quaeritur de his quae pertinent ad secundam opinionem. Et circa hoc quaeruntur tria.***
+Deinde quaeritur de his quae pertinent ad secundam opinionem. Et circa hoc quaeruntur tria.  
 
 Primo, utrum Christus sit unum.  
 
@@ -378,7 +380,7 @@ Articulus 3
 
 ***Utrum persona Verbi post Incarnationem sit composita***
 
-***Ad tertium sic proceditur. Videtur quod persona Verbi post Incarnationem non sit composita.***
+Ad tertium sic proceditur. Videtur quod persona Verbi post Incarnationem non sit composita.  
 
 Omne enim compositum est melius componentibus; quia bonum additum bono facit magis bonum. Sed divinitate non potest esse aliquid melius. Ergo ex divinitate et humanitate non potest fieri una persona composita.  
 
@@ -424,7 +426,7 @@ Quaestio 3
 
 ***De his quae pertinent ad tertiam opinionem***
 
-***Deinde quaeritur de his quae pertinent ad tertiam opinionem. Et circa hoc quaeruntur duo.***
+Deinde quaeritur de his quae pertinent ad tertiam opinionem. Et circa hoc quaeruntur duo.  
 
 Primo, utrum ex anima et corpore Christi fuerit aliquid compositum.  
 
@@ -434,7 +436,7 @@ Articulus 1
 
 ***Utrum fuerit aliqua compositio animae et corporis in Christo***
 
-***Ad primum sic proceditur. Videtur quod non fuerit aliqua compositio animae et corporis in Christo.***
+Ad primum sic proceditur. Videtur quod non fuerit aliqua compositio animae et corporis in Christo.  
 
 Supra enim, d. 2, Magister probavit quod nomine humanae naturae intelligitur anima et corpus; nec ita accipitur in Christo sicut in aliis hominibus.Ed. omit *hominibus*. Cum ergo in aliis hominibus accipiatur natura humana pro eo quod compositum est ex anima et corpore, videtur quod in Christo accipiatur pro partibus non compositis.  
 
@@ -464,7 +466,7 @@ Articulus 2
 
 ***Utrum humana natura accidentaliter Verbo uniatur***
 
-***Ad secundum sic proceditur. Videtur quod humana natura accidentaliter Verbo uniatur.***
+Ad secundum sic proceditur. Videtur quod humana natura accidentaliter Verbo uniatur.  
 
 Ad Philip. 2:7: *habitu inventus ut homo*. Ergo cum habitus sit genus accidentis, videtur quod Deus fuerit homo accidentaliter.  
 

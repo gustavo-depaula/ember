@@ -1,10 +1,12 @@
 # C. 6 - Dangers of Riches
 
+***Pericula Divitiarum***
+
 ***Lectio 1***
 
 ***Servi et dives***
 
-***^6:1^ Quicumque sunt sub jugo servi, Dominos suos omni honore dignos arbitrentur, ne nomen Domini et doctrina blasphemetur. [n. 232]***
+^6:1^ Quicumque sunt sub jugo servi, Dominos suos omni honore dignos arbitrentur, ne nomen Domini et doctrina blasphemetur. [n. 232]  
 
 > ^6:2^ Qui autem fideles habent dominos, non contemnant, quia fratres sunt: sed magis serviant, quia fideles sunt et dilecti, qui beneficii participes sunt. Haec doce, et exhortare. [n. 234]
 
@@ -128,7 +130,7 @@ Lectio 2
 
 ***Periculum pecuniarum***
 
-***^6:9^ Nam qui volunt divites fieri, incidunt in tentationem, et in laqueum Diaboli, et desideria multa inutilia, et nociva, quae mergunt homines in interitum et perditionem. [n. 247]***
+^6:9^ Nam qui volunt divites fieri, incidunt in tentationem, et in laqueum Diaboli, et desideria multa inutilia, et nociva, quae mergunt homines in interitum et perditionem. [n. 247]  
 
 > ^6:10^ Radix enim omnium malorum est cupiditas: quam quidam appetentes erraverunt a fide, et inseruerunt se doloribus multis. [n. 250]
 
@@ -238,7 +240,7 @@ Lectio 3
 
 ***Adventus Christi***
 
-***^6:15^ quem suis temporibus ostendet Beatus et solus Potens, Rex regum, et Dominus dominantium: [n. 262]***
+^6:15^ quem suis temporibus ostendet Beatus et solus Potens, Rex regum, et Dominus dominantium: [n. 262]  
 
 > ^6:16^ qui solus habet immortalitatem, et lucem inhabitat inaccessibilem: quem nullus hominum vidit, sed nec videre potest: cui honor, et imperium sempiternum. Amen. [n. 268]
 
@@ -304,7 +306,7 @@ Lectio 4
 
 ***Admonitiones finales***
 
-***^6:17^ Divitibus hujus saeculi praecipe non sublime sapere, neque sperare in incerto divitiarum, sed in Deo vivo (qui praestat nobis omnia abunde ad fruendum) [n. 272]***
+^6:17^ Divitibus hujus saeculi praecipe non sublime sapere, neque sperare in incerto divitiarum, sed in Deo vivo (qui praestat nobis omnia abunde ad fruendum) [n. 272]  
 
 > ^6:18^ bene agere, divites fieri in bonis operibus, facile tribuere, communicare, [n. 277]
 

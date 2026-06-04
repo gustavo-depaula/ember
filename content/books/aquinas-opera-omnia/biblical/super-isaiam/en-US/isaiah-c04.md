@@ -1,5 +1,7 @@
 # Chapter 2
 
+***Lecture 1***
+
 ***^2:1^ The word that Isaiah the son of Amos saw, concerning Judah and Jerusalem.***
 
 > ^2:2 ^And in the last days the mountain of the house of the Lord shall be prepared on the top of mountains, and it shall be exalted above the hills, and all nations shall flow unto it.
@@ -82,7 +84,7 @@ Third, to obedience: ***and we will walk***, after him, ***in the paths***, of h
 
 Lecture 2  
 
-***^2:4 ^And he shall judge the Gentiles, and rebuke many people: and they shall turn their swords into ploughshares, and their spears into sickles: nation shall not lift up sword against nation, neither shall they be exercised any more to war.***
+^2:4 ^And he shall judge the Gentiles, and rebuke many people: and they shall turn their swords into ploughshares, and their spears into sickles: nation shall not lift up sword against nation, neither shall they be exercised any more to war.  
 
 > ^2:5 ^O house of Jacob, come, and let us walk in the light of the Lord our God.
 

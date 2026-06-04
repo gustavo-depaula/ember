@@ -1,8 +1,10 @@
 # Chapter 9
 
+***Term 1***
+
 ***The Opinionated***
 
-***The opionated are glad if they win an argument with their opinions and they are saddened if their opinions are judged as weak.***
+The opionated are glad if they win an argument with their opinions and they are saddened if their opinions are judged as weak.  
 
 Term 2  
 
@@ -30,7 +32,7 @@ Term 5
 
 ***Ignorance***
 
-***Everything done through ignorance is not done voluntarily, but is not necessarily involuntarily.***
+Everything done through ignorance is not done voluntarily, but is not necessarily involuntarily.  
 
 A man who acts through ignorance does not feel any saddenness in his action.  
 
@@ -188,7 +190,7 @@ Term 10
 
 ***Intemperance***
 
-***Intemperance is more of a choice than fear, since intemperance is pleasurable but fear is disagreeable.***
+Intemperance is more of a choice than fear, since intemperance is pleasurable but fear is disagreeable.  
 
 Intemperance is a more reproachable thing.  
 
@@ -198,7 +200,7 @@ Term 11
 
 ***Understanding***
 
-***Neither art, science, nor prudence have Understanding as their principle. Since science concerns demonstrable things, whereas art and prudence concern contingent things.***
+Neither art, science, nor prudence have Understanding as their principle. Since science concerns demonstrable things, whereas art and prudence concern contingent things.  
 
 Understanding concerns extreme points and first principles.  
 
@@ -306,7 +308,7 @@ Term 19
 
 ***The Just Man***
 
-***The just man and the temperate man are not so called because they do just things, but because they act as just and temperate men do.***
+The just man and the temperate man are not so called because they do just things, but because they act as just and temperate men do.  
 
 A man is not just if he does not take pleasure in doing just acts.  
 
@@ -364,7 +366,7 @@ Term 21
 
 ***Justice, Natural and Legal***
 
-***In political justice, there is natural justice and legal justice. Natural justice has the same force for everyone, and everywhere the same way, and it does not depend on what men may or may not think. The difference of legal justice, however, is that it differs in its application, as he shows.***
+In political justice, there is natural justice and legal justice. Natural justice has the same force for everyone, and everywhere the same way, and it does not depend on what men may or may not think. The difference of legal justice, however, is that it differs in its application, as he shows.  
 
 What is just in legal matters depends on the laws that are enacted and applied, just as measures are not always the same everywhere. Similarly, natural and human things are different among different peoples, but there is one nevertheless which is best.  
 
@@ -382,7 +384,7 @@ Term 22
 
 ***Injustice***
 
-***Some kinds of injustice are set apart from justice considered generally speaking, and this is evident in many vices.***
+Some kinds of injustice are set apart from justice considered generally speaking, and this is evident in many vices.  
 
 and covetous men which is in receiving more  
 Unequal injustice belongs to the covetous man who takes more than his share of the whole.  
@@ -415,7 +417,7 @@ Term 24
 
 ***What is Unjust / an injustice***
 
-***An injustice can be disproportionate in two ways, in excess and defect, and this can even occur in acts of distributive justice. The one who commits the injustice has in excess, whereas the one suffering under it has less of a good.***
+An injustice can be disproportionate in two ways, in excess and defect, and this can even occur in acts of distributive justice. The one who commits the injustice has in excess, whereas the one suffering under it has less of a good.  
 
 It is not possible for a man to do injustice to himself, because then he willingly suffers injustice (and here examples are given of particular injustices), no one commits adultery with his own wife, but another's, nor does he knock down his own door. The reason for this is that for injustice to occur, a man must suffer against his will.  
 
@@ -455,7 +457,7 @@ Term 25
 
 ***What is Unjust***
 
-***To do what it is unjust and to suffer it are both evil things, because they both stray from the mean of the good of justice, one by excess and the other difficiency.***
+To do what it is unjust and to suffer it are both evil things, because they both stray from the mean of the good of justice, one by excess and the other difficiency.  
 
 Doing what is unjust is worse than suffering it because it always it is always accompanied with vice, whether entirely or mostly, and is blameworthy. Suffering what is unjust, however, neither brings vice nor justice upon oneself.  
 
@@ -473,7 +475,7 @@ Term 26
 
 ***Just Action***
 
-***A just action is commonly called a *dikeopraema*, that is, an activity of justice.***
+A just action is commonly called a *dikeopraema*, that is, an activity of justice.  
 
 Just actions and actions of justice are defined in terms of a voluntary thing and an involuntary thing.  
 
@@ -483,7 +485,7 @@ Term 27
 
 ***Anger***
 
-***A man prone to anger may be convinced by reason in some way, but not so with a man drawn by concupiscence, therefore it is the more shameful of the two.***
+A man prone to anger may be convinced by reason in some way, but not so with a man drawn by concupiscence, therefore it is the more shameful of the two.  
 
 Anger is more natural to man than desires for excessive pleasures.  
 
@@ -521,7 +523,7 @@ Term 29
 
 ***The Hot-Tempered***
 
-***The hot-tempered are those who get angry quickly and at things or for reasons they ought not to, they are angrier they they should be. Their anger flares up and quickly ceases. Their best quality is that they do not let anger build up, but let it out.***
+The hot-tempered are those who get angry quickly and at things or for reasons they ought not to, they are angrier they they should be. Their anger flares up and quickly ceases. Their best quality is that they do not let anger build up, but let it out.  
 
 The hot-tempered man is not a schemer.  
 
@@ -529,7 +531,7 @@ Term 30
 
 ***Being Angered***
 
-***It is not easy to determine in what circumstances or tow what degree one should be angry, and to what degree one acts rightly or wrongly.***
+It is not easy to determine in what circumstances or tow what degree one should be angry, and to what degree one acts rightly or wrongly.  
 
 Term 31  
 
@@ -549,13 +551,13 @@ Term 33
 
 ***A Swallow***
 
-***A single swallow does not make spring spring and neither does one fine day; neither can one virtue nor a short time make a man happy.***
+A single swallow does not make spring spring and neither does one fine day; neither can one virtue nor a short time make a man happy.  
 
 Term 34  
 
 ***Involuntary***
 
-***Concerning actions under compulsion, there can be a mix between voluntary and involuntary. There is the example of the tyrannt, or of the sailor who throws his possessions into the sea during a storm. Such actions seem to have mixed motives, and are more like voluntary actions***
+Concerning actions under compulsion, there can be a mix between voluntary and involuntary. There is the example of the tyrannt, or of the sailor who throws his possessions into the sea during a storm. Such actions seem to have mixed motives, and are more like voluntary actions  
 
 If a thing is involuntary in itself, and yet the doer has power in him to act, then it is voluntary, such as the man who has in possessions in his boat during a storm.  
 
@@ -593,13 +595,13 @@ Term 38
 
 ***Sickness***
 
-***Bodily sickness is voluntary when its cause is also voluntary. We blame, for example, a man who ruined his own eyesight.***
+Bodily sickness is voluntary when its cause is also voluntary. We blame, for example, a man who ruined his own eyesight.  
 
 Term 39  
 
 ***The Shameless Man***
 
-***The shameless man is called courageous by a metaphor, since he resembles him in not being afraid.***
+The shameless man is called courageous by a metaphor, since he resembles him in not being afraid.  
 
 Term 40  
 
@@ -611,7 +613,7 @@ Term 41
 
 ***The Sick Man***
 
-***Just as a sick man who hears his doctor's advice but does not heed it will not regain his health. Men who philosophise about virtue and do nothing to act on it will not be well in their soul.***
+Just as a sick man who hears his doctor's advice but does not heed it will not regain his health. Men who philosophise about virtue and do nothing to act on it will not be well in their soul.  
 
 Term 42  
 
@@ -629,13 +631,13 @@ Term 44
 
 ***Judgment***
 
-***Judgment of singular things comes through the senses, and the virtues through particular things.***
+Judgment of singular things comes through the senses, and the virtues through particular things.  
 
 Term 45  
 
 ***The Young***
 
-***Young people are amorous because they pursue many things for pleasure and passion, they live amorously.***
+Young people are amorous because they pursue many things for pleasure and passion, they live amorously.  
 
 The young are quick to fall in and out of love and out again. They do so many times even in the same day.  
 
@@ -647,7 +649,7 @@ Term 46
 
 ***Those in Misfortune***
 
-***A friend ought to go promptly without being called to visit those in misfortune to do good for them, especially for those who would not presume to ask. This is better and more pleasant for both the one being helped in necessity and the other acting virtously to him.***
+A friend ought to go promptly without being called to visit those in misfortune to do good for them, especially for those who would not presume to ask. This is better and more pleasant for both the one being helped in necessity and the other acting virtously to him.  
 
 Term 47  
 

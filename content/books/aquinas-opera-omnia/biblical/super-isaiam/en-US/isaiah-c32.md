@@ -1,5 +1,7 @@
 # Chapter 30
 
+^30:1^ Woe to you, apostate children, says the Lord, that you would take counsel, and not of me: and would begin a web, and not by my spirit, that you might add sin upon sin:  
+
 > ^30:2^ Who walk to go down into Egypt, and have not asked at my mouth, hoping for help in the strength of Pharaoh, and trusting in the shadow of Egypt.
 
 > ^30:3^ And the strength of Pharaoh shall be to your confusion, and the confidence of the shadow of Egypt to your shame.

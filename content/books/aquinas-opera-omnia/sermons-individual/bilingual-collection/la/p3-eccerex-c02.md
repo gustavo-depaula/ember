@@ -1,5 +1,7 @@
 # Sermon
 
+***Ecce rex tuus*** etc. Verba ista sumuntur de Evangelio hodierno quod apud nos legitur et sunt sumpta de Zacharia licet sub aliis verbis aliquantulum ibi recitentur. In quibus verbis manifeste praenunciatur nobis Christi adventus; et ne sub ambiguo procedamus, scire debetis quod quatuor legimus Christi adventus.  
+
 Primus est quo venit in carnem;  
 
 secundus quo venit in mentem;  

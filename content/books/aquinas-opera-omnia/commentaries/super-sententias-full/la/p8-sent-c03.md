@@ -1,6 +1,6 @@
 # D. 16 - Parts of penance
 
-***Postquam Magister determinavit de poenitentia generaliter, hic ad partes poenitentiae descendit; et dividitur in partes duas: in prima distinguit poenitentiae partes; in secunda movet quasdam quaestiones circa comparationem partium poenitentiae ad invicem, 17 dist., ibi: *hic oritur quaestio multiplex*.***
+Postquam Magister determinavit de poenitentia generaliter, hic ad partes poenitentiae descendit; et dividitur in partes duas: in prima distinguit poenitentiae partes; in secunda movet quasdam quaestiones circa comparationem partium poenitentiae ad invicem, 17 dist., ibi: *hic oritur quaestio multiplex*.  
 
 Prima in duas: in prima distinguit partes quasi poenitentiam integrantes, scilicet contritionem, confessionem, et satisfactionem; in secunda distinguit partes quasi subjectivas, ibi: *praedictis vero adjiciendum est*, etc.  
 
@@ -31,7 +31,7 @@ primo, de partibus poenitentiae quasi integralibus;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod poenitentia partes non habeat. Nullum enim simplex habet partem. Secundum autem Ambrosium omne sacramentum est simplex. Ergo poenitentia, cum sit sacramentum, non habet partes.***
+Ad primum sic proceditur. Videtur quod poenitentia partes non habeat. Nullum enim simplex habet partem. Secundum autem Ambrosium omne sacramentum est simplex. Ergo poenitentia, cum sit sacramentum, non habet partes.  
 
 Praeterea, baptismus multiplicior est virtute quam poenitentia: quia originale et actuale quantum ad culpam et poenam totaliter tollit; quod de poenitentia non est verum. Ergo cum baptismo non assignentur partes, nec poenitentiae partes assignari debent.  
 
@@ -43,7 +43,7 @@ Praeterea, morbus spiritualis majori diligentia est curandus quam corporalis. Se
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod inconvenienter assignentur ei hae tres partes; scilicet contritio, confessio, et satisfactio. Sacramentum enim a ministris Ecclesiae confertur secundum omnem sui partem. Sed contritionem non confert poenitenti aliquis Ecclesiae minister. Ergo non est pars poenitentiae sacramenti.***
+Ulterius. Videtur quod inconvenienter assignentur ei hae tres partes; scilicet contritio, confessio, et satisfactio. Sacramentum enim a ministris Ecclesiae confertur secundum omnem sui partem. Sed contritionem non confert poenitenti aliquis Ecclesiae minister. Ergo non est pars poenitentiae sacramenti.  
 
 Praeterea, per poenitentiae sacramentum peccatum dimittitur. Sed ante confessionem peccatum quandoque dimittitur, ut infra, dist. seq., Magister ostendit. Ergo non est pars poenitentiae.  
 
@@ -53,7 +53,7 @@ Praeterea, non est idem fructus rei et pars. Sed satisfactio dicitur in littera 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sint partes subjectivae. Quia istae partes poenitentiae, ut in littera patet, sumuntur secundum peccatum cordis, oris, et operis. Sed hae sunt partes subjectivae peccati. Ergo et partes poenitentiae assignatae, sunt partes subjectivae ipsius.***
+Ulterius. Videtur quod sint partes subjectivae. Quia istae partes poenitentiae, ut in littera patet, sumuntur secundum peccatum cordis, oris, et operis. Sed hae sunt partes subjectivae peccati. Ergo et partes poenitentiae assignatae, sunt partes subjectivae ipsius.  
 
 Praeterea, totum integrale non sequitur ad suam partem: non enim sequitur: si paries est, domus est. Sed poenitentia sequitur ad quamlibet partium assignatarum: sequitur enim: conteritur, ergo poenitet; et similiter de aliis. Ergo non sunt partes integrales, sed subjectivae.  
 
@@ -65,7 +65,7 @@ Praeterea, nihil unum aliquid habet partes subjectivas, sicut unum animal non ha
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod sint partes etiam poenitentiae virtutis. Sicut dicitur in 10 *Ethica*, ad perfectionem virtutis moralis requiritur actus interior et exterior. Sed poenitentia est virtus moralis, cum sit pars justitiae. Ergo de perfectione ejus est contritio interior, et confessio, et satisfactio exterior; et sic sunt partes ejus sicut poenitentiae sacramenti.***
+Ulterius. Videtur quod sint partes etiam poenitentiae virtutis. Sicut dicitur in 10 *Ethica*, ad perfectionem virtutis moralis requiritur actus interior et exterior. Sed poenitentia est virtus moralis, cum sit pars justitiae. Ergo de perfectione ejus est contritio interior, et confessio, et satisfactio exterior; et sic sunt partes ejus sicut poenitentiae sacramenti.  
 
 Praeterea, satisfactio est actus alicujus virtutis, nec alterius quam poenitentiae; et similiter de aliis. Ergo sunt partes poenitentiae virtutis, non solum sacramenti.  
 
@@ -77,7 +77,7 @@ Praeterea, subjectum virtutis est mens, secundum Augustinum; sed confessio non e
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in poenitentia non est pro materia aliqua exterior res, sicut in baptismo aqua; sed ipse actus humanus loco materiae in hoc sacramento se habet, qui per quamdam recompensationem offensam culpae praecedentis tollit. In actibus autem humanis est gradus quidam ad perfectionem pertingendi propter diversas partes hominis, quarum una aliam movet; et ideo oportet quod diversa secundum ordinem ad perfectionem poenitentiae considerentur; et haec dicuntur poenitentiae partes.***
+Respondeo dicendum ad primam quaestionem, quod in poenitentia non est pro materia aliqua exterior res, sicut in baptismo aqua; sed ipse actus humanus loco materiae in hoc sacramento se habet, qui per quamdam recompensationem offensam culpae praecedentis tollit. In actibus autem humanis est gradus quidam ad perfectionem pertingendi propter diversas partes hominis, quarum una aliam movet; et ideo oportet quod diversa secundum ordinem ad perfectionem poenitentiae considerentur; et haec dicuntur poenitentiae partes.  
 
 Ad primum ergo dicendum, quod dubitatur de illa auctoritate, utrum sit Ambrosii. Si tamen concedatur, intelligendum, quod sacramentum est simplex ratione effectus principalis, et virtutis simplicis quam operatur; sed materiale in sacramento potest esse compositum, sicut patet in confirmatione et Eucharistia; et sic etiam ex parte actus nostri, qui est quasi materialis in poenitentia, partes ei assignantur.  
 
@@ -87,7 +87,7 @@ Ad tertium dicendum, quod bonum, secundum Dionysium, causatur ex una et integra 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut dictum est, poenitentia offensam culpae praecedentis abolet per modum recompensationis cujusdam. Haec autem recompensatio differt a recompensatione vindicativae justitiae in duobus.***
+Ad secundam quaestionem dicendum, quod sicut dictum est, poenitentia offensam culpae praecedentis abolet per modum recompensationis cujusdam. Haec autem recompensatio differt a recompensatione vindicativae justitiae in duobus.  
 
 Primo quia in vindicativa justitia ille qui peccavit, se habet ad recompensationem ut patiens tantum, inquantum poena per quam fit culpae recompensatio, est ab alio inflicta; et ideo non praesupponitur ad recompensationem dolor de peccato, sed ex poena recompensante dolor infligitur. In poenitentia autem ille qui peccavit, se habet ad recompensationem etiam ut agens; quia ipse sponte sua ad poenam recompensantem accedit; et ideo displicentia culpae praeexigitur.  
 
@@ -107,7 +107,7 @@ Ad quartum dicendum, quod ultimum in quo consummatur res, dicitur finis rei, sic
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dicunt, quod sunt partes subjectivae uno modo poenitentiam considerando secundum quod habet tantum rationem poenae: quia quaelibet harum partium est punitio quaedam.***
+Ad tertiam quaestionem dicendum, quod quidam dicunt, quod sunt partes subjectivae uno modo poenitentiam considerando secundum quod habet tantum rationem poenae: quia quaelibet harum partium est punitio quaedam.  
 
 Sed hoc non potest esse: quia totum universale non praedicatur in singulari de suis partibus pluralibus simul acceptis, sive sit genus, sive species: tres enim homines non sunt animal, sed animalia. Unde cum tres partes poenitentiae non sint tres poenitentiae, sed una, non potest esse quod sint partes subjectivae.  
 
@@ -125,7 +125,7 @@ Ad tertium dicendum, quod illud quod est materiale in poenitentia, est actus nos
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod ab eo quod sequitur rem, non accidit aliqua compositio in re, quia componentia sunt priora compositis; unde cum actus nostri sint posteriores virtutibus a quibus eliciuntur; diversi actus, qui secundum ordinem a virtute aliqua progrediuntur, non faciunt compositionem aliquam in virtute: et ideo praedicta tria non sunt partes poenitentiae virtutis, sed poenitentiae sacramenti: quia ipsi actus sunt quasi materia sacramenti, et penes divisionem materiae partes rei sumuntur quandoque.***
+Ad quartam quaestionem dicendum, quod ab eo quod sequitur rem, non accidit aliqua compositio in re, quia componentia sunt priora compositis; unde cum actus nostri sint posteriores virtutibus a quibus eliciuntur; diversi actus, qui secundum ordinem a virtute aliqua progrediuntur, non faciunt compositionem aliquam in virtute: et ideo praedicta tria non sunt partes poenitentiae virtutis, sed poenitentiae sacramenti: quia ipsi actus sunt quasi materia sacramenti, et penes divisionem materiae partes rei sumuntur quandoque.  
 
 Ad primum ergo dicendum, quod actus exteriores requiruntur ad perfectionem secundam virtutum moralium; partes autem integrales oportet quod sint de perfectione prima.  
 
@@ -139,7 +139,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod poenitentia ante baptismum non debeat poni pars poenitentiae. Baptismus enim janua sacramentorum est, et poenitentia dicitur secunda tabula respectu baptismi. Sed secundum non est ante primum. Ergo poenitentia non est aliqua ante baptismum.***
+Ad secundum sic proceditur. Videtur quod poenitentia ante baptismum non debeat poni pars poenitentiae. Baptismus enim janua sacramentorum est, et poenitentia dicitur secunda tabula respectu baptismi. Sed secundum non est ante primum. Ergo poenitentia non est aliqua ante baptismum.  
 
 Praeterea, ei qui non est generatus in aliqua natura, non competit actio illius naturae. Sed baptismus est quaedam generatio in spiritualem vitam. Ergo ei qui non est baptizatus, non convenit aliqua actio spiritualis vitae. Sed poenitentia est hujusmodi, cum sit quoddam sacramentum. Ergo non potest alicui competere ante baptismum.  
 
@@ -151,7 +151,7 @@ Praeterea, super illud Psal. 4: *in cubilibus vestris compungimini*, dicit *Glos
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod poenitentia ante baptismum non solum sit de actuali, sed et de originali peccato. Nam Augustinus Lib. *de Poenitentia*, dicit loquens de poenitentia ante baptismum: *exceptis parvulis, nullus ad Christum transit, nisi incipiat esse quod non erat, nisi poeniteat eum fuisse quod erat*. Sed erat infectus non solum actuali, sed etiam originali peccato: nisi enim de hac infectione loqueretur, parvulos non exciperet, qui aliam infectionem non habent. Ergo de peccato originali debet esse poenitentia ante baptismum.***
+Ulterius. Videtur quod poenitentia ante baptismum non solum sit de actuali, sed et de originali peccato. Nam Augustinus Lib. *de Poenitentia*, dicit loquens de poenitentia ante baptismum: *exceptis parvulis, nullus ad Christum transit, nisi incipiat esse quod non erat, nisi poeniteat eum fuisse quod erat*. Sed erat infectus non solum actuali, sed etiam originali peccato: nisi enim de hac infectione loqueretur, parvulos non exciperet, qui aliam infectionem non habent. Ergo de peccato originali debet esse poenitentia ante baptismum.  
 
 Praeterea, poenitens infert sibi poenam, ut evadat illam quae a Deo sibi infligenda erat. Sed pro peccato originali poena a Deo infligitur. Ergo pro eo debet hanc poenitentiam agere.  
 
@@ -163,7 +163,7 @@ Praeterea, medicina debet respondere morbo. Sed peccatum originale non contrahit
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non debeat post baptismum aliqua poenitentia venialium distingui. Quia superfluum est facere per multa quod per unum potest fieri. Sed veniale peccatum curatur per Eucharistiam. Ergo superfluum est quod ad ipsum curandum poenitentia ordinetur.***
+Ulterius. Videtur quod non debeat post baptismum aliqua poenitentia venialium distingui. Quia superfluum est facere per multa quod per unum potest fieri. Sed veniale peccatum curatur per Eucharistiam. Ergo superfluum est quod ad ipsum curandum poenitentia ordinetur.  
 
 Praeterea, de eo quod non est in potestate nostra, non requiritur poenitentia. Sed peccata venialia vitare non est in potestate nostra: quia nullus potest omnia peccata venialia vitare. Ergo de venialibus non est poenitentia.  
 
@@ -175,7 +175,7 @@ Praeterea, secundum Augustinum, *poenitentia est vindicta puniens in se quod dol
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod teneamur ad poenitentiam venialium. Quia sicut tenetur homo tendere ad gloriam, ita tenetur impedimentum gloriae removere. Sed homo non potest ad gloriam pervenire nisi dimissis venialibus peccatis. Ergo cum non remittantur sine poenitentia, videtur quod ad poenitentiam agendam de venialibus homo teneatur.***
+Ulterius. Videtur quod teneamur ad poenitentiam venialium. Quia sicut tenetur homo tendere ad gloriam, ita tenetur impedimentum gloriae removere. Sed homo non potest ad gloriam pervenire nisi dimissis venialibus peccatis. Ergo cum non remittantur sine poenitentia, videtur quod ad poenitentiam agendam de venialibus homo teneatur.  
 
 Praeterea, quoddam veniale peccatum per consensum fit mortale: quia consensus in delectationem mortalis peccati est mortale peccatum. Sed homo tenetur vitare mortale peccatum. Ergo tenetur dissentire veniali peccato aliquando. Sed dissensus ad peccatum est poenitentiae. Ergo tenetur homo de peccato veniali aliquando poenitere.  
 
@@ -183,7 +183,7 @@ Sed contra, nullus tenetur abolere jam factum, quod non tenetur vitare antequam 
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod partes istae tres non sint sufficientes. Quia sicut post baptismum peccatur venialiter et mortaliter; ita ante baptismum. Sed post baptismum distinguitur poenitentia venialis et mortalis peccati. Ergo et ante baptismum; et sic sunt quatuor.***
+Ulterius. Videtur quod partes istae tres non sint sufficientes. Quia sicut post baptismum peccatur venialiter et mortaliter; ita ante baptismum. Sed post baptismum distinguitur poenitentia venialis et mortalis peccati. Ergo et ante baptismum; et sic sunt quatuor.  
 
 Praeterea, plus distat poena a culpa quam veniale a mortali. Sed de poenis praesentis miseriae oportet poenitere, ut Augustinus dicit in Lib. *de Poenitentia*. Ergo cum distinguatur poenitentia venialium a poenitentia mortalium, debet etiam distingui poenitentia qua poenitemus de poenis peregrinationis, a poenitentia venialium.  
 
@@ -191,7 +191,7 @@ Praeterea, poenitentia solemnis est quidam poenitentiae modus, ut supra dictum e
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod poenitentia potest accipi dupliciter; scilicet ut est virtus, et ut est sacramentum.***
+Respondeo dicendum ad primam quaestionem, quod poenitentia potest accipi dupliciter; scilicet ut est virtus, et ut est sacramentum.  
 
 Secundum autem quod est virtus, importat detestationem peccati cum proposito abolendi ipsum secundum conditionem status peccantis. Et quia quicumque non detestatur peccatum, adhuc voluntatem in peccato fixam habet, cum voluntas semel ad aliquid fixa, ab illo non divellatur quin actu vel habitu in eo maneat, nisi per actualem dissensum ad illud, vel in speciali, vel saltem in genere; voluntas autem in peccato fixa manens, non est susceptiva gratiae baptismalis; ideo requiritur ante baptismum, quasi removens prohibens, peccati commissi detestatio, et destructionis ejus propositum, quod quidem est per baptismum. Et ideo patet quod ante baptismum requiritur poenitentia secundum quod est virtutis actus, quae sit prior baptismo tempore vel saltem natura.  
 
@@ -203,7 +203,7 @@ Ad tertium dicendum, quod poenitentia non requiritur ante baptismum propter bapt
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod poenitentia potest sumi large et proprie. Proprie quidem poenitentia importat dolorem de peccato commisso in praeterito; et sic nullo modo potest esse poenitentia de originali peccato, quia non est commissum.***
+Ad secundam quaestionem dicendum, quod poenitentia potest sumi large et proprie. Proprie quidem poenitentia importat dolorem de peccato commisso in praeterito; et sic nullo modo potest esse poenitentia de originali peccato, quia non est commissum.  
 
 Large autem potest dici poenitentia omnis displicentia mali praeteriti; et sic in eo qui liberum arbitrium habet, debet esse poenitentia de originali: quia ex hoc ipso quod alicui placet aliquid, displicet ei quod ad illud impedimentum praestitit. Peccatum autem originale impedimentum gloriae fuit, ad quam quilibet desiderio tendere debet. Non tamen de eo debet esse confessio, quae non est nisi factorum; nec satisfactio; quia pro peccato originali non debetur nisi poena damni, poenitentia autem importat poenam sensus.  
 
@@ -211,7 +211,7 @@ Et per hoc patet solutio ad objecta.
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod veniale peccatum ex nostro actu incurrimus, et ei poena sensibilis debetur; et ideo ad peccati venialis dimissionem poenitentia operatur quantum ad contritionem, confessionem et satisfactionem; non solum poenitentia secundum quod est virtus, sed etiam secundum quod est sacramentum: quia post baptismum aliquis venialiter peccat, quando est susceptivus sacramentorum Ecclesiae.***
+Ad tertiam quaestionem dicendum, quod veniale peccatum ex nostro actu incurrimus, et ei poena sensibilis debetur; et ideo ad peccati venialis dimissionem poenitentia operatur quantum ad contritionem, confessionem et satisfactionem; non solum poenitentia secundum quod est virtus, sed etiam secundum quod est sacramentum: quia post baptismum aliquis venialiter peccat, quando est susceptivus sacramentorum Ecclesiae.  
 
 Ad primum ergo dicendum, quod ad eumdem effectum principaliter inducendum, superfluum est plura inducere, si quodlibet sit sufficiens; sed nullum sacramentum inducitur ad peccati venialis dimissionem, sicut ad principalem effectum, ut supra in 2 dist., quaest. 1, art. 1, quaestiunc. 4, dictum est; et ideo non est inconveniens, si ex multis sacramentis peccati venialis dimissio consequitur.  
 
@@ -221,7 +221,7 @@ Ad tertium dicendum, quod veniale et mortale quamvis sint diversi morbi, tamen c
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod cum dicitur aliquis ad aliquid teneri, quaedam necessitas importatur ad illud. Necessitas autem est duplex.***
+Ad quartam quaestionem dicendum, quod cum dicitur aliquis ad aliquid teneri, quaedam necessitas importatur ad illud. Necessitas autem est duplex.  
 
 Una est absoluta; et secundum hanc homo tenetur facere illa sine quibus non est salus; et sic non tenetur ad peccati venialis poenitentiam, quia mortem ex hoc non incurrit; nisi forte de contemptu dimittat.  
 
@@ -233,7 +233,7 @@ Ad secundum dicendum, quod dissensus dicit poenitentiam*poenitentiam.—renitent
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod istae partes poenitentiae distinguuntur secundum diversos modos quibus poenitentia agitur; unde sunt partes subjectivae poenitentiae virtutis, non poenitentiae sacramenti: quia una pars non pertinet ad poenitentiae sacramentum, quamvis aliae duae ad poenitentiam, secundum quod est sacramentum, pertinere possint. Et accipiuntur isti modi secundum diversum statum poenitentis: quia aut est extra Ecclesiam etiam numero, et sic est prima poenitentia quae est ante baptismum; aut est extra merito, sed non numero; et sic est secunda, quae est de mortalibus; aut omnino est intra Ecclesiam; et sic competit ei tertia, quae est de venialibus.***
+Ad quintam quaestionem dicendum, quod istae partes poenitentiae distinguuntur secundum diversos modos quibus poenitentia agitur; unde sunt partes subjectivae poenitentiae virtutis, non poenitentiae sacramenti: quia una pars non pertinet ad poenitentiae sacramentum, quamvis aliae duae ad poenitentiam, secundum quod est sacramentum, pertinere possint. Et accipiuntur isti modi secundum diversum statum poenitentis: quia aut est extra Ecclesiam etiam numero, et sic est prima poenitentia quae est ante baptismum; aut est extra merito, sed non numero; et sic est secunda, quae est de mortalibus; aut omnino est intra Ecclesiam; et sic competit ei tertia, quae est de venialibus.  
 
 Ad primum ergo dicendum, quod status hominis ante baptismum non diversificatur per veniale et mortale quantum ad hoc quod est esse de Ecclesia vel non esse; sed diversificatur per veniale et mortale post, quia per mortale post baptismum commissum efficitur aliquis extra Ecclesiam merito, sed non per veniale; et ideo non est similis ratio.  
 
@@ -256,7 +256,7 @@ primo, de modo remissionis;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod peccatum veniale possit dimitti voluntate manente ad illud. Voluntas enim peccati venialis gratiam non excludit. Sed nullum peccatum veniale est quod gratia remittere non possit, cum remittatur per virtutem gratiae mortale, quod multo difficilius est. Ergo veniale dimitti potest adhuc manente voluntate ad illud.***
+Ad primum sic proceditur. Videtur quod peccatum veniale possit dimitti voluntate manente ad illud. Voluntas enim peccati venialis gratiam non excludit. Sed nullum peccatum veniale est quod gratia remittere non possit, cum remittatur per virtutem gratiae mortale, quod multo difficilius est. Ergo veniale dimitti potest adhuc manente voluntate ad illud.  
 
 Praeterea, sicut peccatum mortale caritati opponitur, ita veniale fervori caritatis. Sed illud quod secum compatitur caritas, non impedit dimissionem peccati mortalis. Ergo cum voluntatem permanentem in peccato veniali compatiatur fervor caritatis, videtur quod veniale remitti possit in eo qui adhuc habet voluntatem adhaerentem veniali.  
 
@@ -268,7 +268,7 @@ Praeterea, affectus ad opus habet rationem peccati, sicut et ipsum opus peccati.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod unum peccatum veniale non possit dimitti sine alio. Quia, sicut in praecedenti dist. dictum est, Dominus nullum sanavit quem non omnino liberaret. Sed non potest alicui veniale peccatum dimitti, nisi Domino ipsum sanante. Ergo si absolvitur ab uno veniali, absolvitur ab omnibus.***
+Ulterius. Videtur quod unum peccatum veniale non possit dimitti sine alio. Quia, sicut in praecedenti dist. dictum est, Dominus nullum sanavit quem non omnino liberaret. Sed non potest alicui veniale peccatum dimitti, nisi Domino ipsum sanante. Ergo si absolvitur ab uno veniali, absolvitur ab omnibus.  
 
 Praeterea, peccatum veniale est majoris adhaerentiae quam mortale; unde remisso mortali adhuc manet veniale. Sed unum mortale non potest remitti nisi omnia alia dimittantur. Ergo nec unum veniale nisi aliis remissis.  
 
@@ -278,7 +278,7 @@ Sed contra, majoris gratiae est remissio mortalis peccati quam venialis. Sed unu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod veniale peccatum possit remitti sine mortali. Joan. 8, super illud: *qui sine peccato est vestrum* etc., dicit Augustinus, quod *omnes illi erant in peccato mortali: venialia enim eis dimittebantur per caeremonias*. Ergo veniale potest dimitti non dimisso mortali.***
+Ulterius. Videtur quod veniale peccatum possit remitti sine mortali. Joan. 8, super illud: *qui sine peccato est vestrum* etc., dicit Augustinus, quod *omnes illi erant in peccato mortali: venialia enim eis dimittebantur per caeremonias*. Ergo veniale potest dimitti non dimisso mortali.  
 
 Praeterea, mortale et veniale contrario dividuntur. Sed mortale potest dimitti sine veniali. Ergo veniale potest dimitti sine mortali.  
 
@@ -288,7 +288,7 @@ Sed contra, Gregorius dicit, quod veniale peccatum obscurat mentem, sed mortale 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod peccatum quodlibet debet remitti quantum ad duo: scilicet quantum ad culpam, et quantum ad reatum. Non autem potest esse secunda remissio sine prima; quia quamdiu manet culpa, manet debitum poenae. Culpa autem in deordinatione voluntatis consistit; unde non potest culpa tolli nisi reordinetur voluntas; quod esse non potest quamdiu in ipsa deordinatione manet, alias essent duo opposita simul vera; et ideo nullo modo veniale dimitti potest, quamdiu voluntas ad illud manet.***
+Respondeo dicendum ad primam quaestionem, quod peccatum quodlibet debet remitti quantum ad duo: scilicet quantum ad culpam, et quantum ad reatum. Non autem potest esse secunda remissio sine prima; quia quamdiu manet culpa, manet debitum poenae. Culpa autem in deordinatione voluntatis consistit; unde non potest culpa tolli nisi reordinetur voluntas; quod esse non potest quamdiu in ipsa deordinatione manet, alias essent duo opposita simul vera; et ideo nullo modo veniale dimitti potest, quamdiu voluntas ad illud manet.  
 
 Ad primum ergo dicendum, quod non est ex defectu gratiae quin illud veniale in quo adhuc voluntas manet, remitti non possit; sed ex defectu ejus cui remittendum est, in quo impedimentum remissionis invenitur.  
 
@@ -300,7 +300,7 @@ Ad tertium dicendum, quod voluntas quae fuit fixa in aliquo, non removetur inde 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ea quae non habent connexionem ad invicem, unum potest auferri sine altero; sed quae habent aliquo modo connexionem, unum non potest sine alio auferri.***
+Ad secundam quaestionem dicendum, quod ea quae non habent connexionem ad invicem, unum potest auferri sine altero; sed quae habent aliquo modo connexionem, unum non potest sine alio auferri.  
 
 Peccata autem mortalia, quamvis non habeant connexionem ex parte conversionis, habent tamen connexionem ex parte aversionis, quia ab uno incommutabili bono avertunt: et ideo unum sine alio remitti non potest, cum remissio culpae magis respiciat per oppositum aversionem quam conversionem; quia culpa remittitur secundum restitutionem ad illud a quo culpa separavit.  
 
@@ -316,7 +316,7 @@ Sed peccatum veniale quamvis Deo displiceat, quia inordinatum est, non tamen fac
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod remoto priori removetur posterius, nec posterius restituitur nisi priori restituto: fervor autem caritatis, cui veniale opponitur, est posterior ipsa caritate; unde quamdiu caritas non restituitur, nec fervor caritatis reparari potest; in qua reparatione consistit venialis peccati dimissio, sicut etiam in reparatione caritatis dimissio mortalis; et ideo non potest veniale dimitti ei cui mortale non dimittitur.***
+Ad tertiam quaestionem dicendum, quod remoto priori removetur posterius, nec posterius restituitur nisi priori restituto: fervor autem caritatis, cui veniale opponitur, est posterior ipsa caritate; unde quamdiu caritas non restituitur, nec fervor caritatis reparari potest; in qua reparatione consistit venialis peccati dimissio, sicut etiam in reparatione caritatis dimissio mortalis; et ideo non potest veniale dimitti ei cui mortale non dimittitur.  
 
 Potest etiam ex parte remittentis ratio assignari: quia a Deo, qui solus peccata dimittit, peccatum mortale separat; et ideo effectum ejus in remissione peccati venialis habens peccatum mortale non percipit. Similiter et ex parte ejus quo fit remissio, scilicet caritatis, quae *universa delicta operit*, Prov. 10, quam peccatum mortale tollit.  
 
@@ -332,7 +332,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod peccatum veniale non possit dimitti sine gratiae novae infusione. Peccatum enim veniale transiens actu, in anima manet reatu. Sed reatus fundatur super macula. Cum ergo macula non possit ab anima abstergi nisi per gratiam, sicut nec tenebra nisi per lucem, videtur quod veniale dimitti non possit sine gratiae infusione.***
+Ad secundum sic proceditur. Videtur quod peccatum veniale non possit dimitti sine gratiae novae infusione. Peccatum enim veniale transiens actu, in anima manet reatu. Sed reatus fundatur super macula. Cum ergo macula non possit ab anima abstergi nisi per gratiam, sicut nec tenebra nisi per lucem, videtur quod veniale dimitti non possit sine gratiae infusione.  
 
 Praeterea, veniale peccatum consistit in hoc quod minus amatur Deus quam debet. Sed minoratio ista non potest tolli nisi caritate augmentata, secundum cujus augmentum nova missio Spiritus Sancti attenditur, ut in 1 Lib., dist. 15, quaest. 5, art. 1, quaestiunc. 2, in corp., dictum est, et per consequens nova gratia. Ergo peccatum veniale sine gratiae infusione remitti non potest.  
 
@@ -340,7 +340,7 @@ Sed contra, novae gratiae additio gratiam praeexistentem auget, si eam inveniat.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod gratia sine contritione possit peccatum veniale remittere. Quia, sicut dicit Gregorius, quod est aqua ad caminum, hoc est veniale ad fervorem caritatis. Sed fervor caritatis potest esse sine contritione: potest enim aliquis in Deum ferventer converti, et tamen de peccato non dolere, quod est conteri. Ergo peccatum veniale potest dimitti sine contritione.***
+Ulterius. Videtur quod gratia sine contritione possit peccatum veniale remittere. Quia, sicut dicit Gregorius, quod est aqua ad caminum, hoc est veniale ad fervorem caritatis. Sed fervor caritatis potest esse sine contritione: potest enim aliquis in Deum ferventer converti, et tamen de peccato non dolere, quod est conteri. Ergo peccatum veniale potest dimitti sine contritione.  
 
 Praeterea, contritio non solum importat dolorem de praeterito peccato, sed etiam propositum non peccandi de cetero. Sed alicui dimittitur veniale peccatum, qui non habet tale propositum: quia scit se sine peccato veniali praesentem vitam agere non posse. Ergo sine contritione peccatum veniale dimitti potest.  
 
@@ -350,7 +350,7 @@ Sed contra, si gratia sine aliquo adjuncto peccatum veniale remittere posset, gr
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod de peccato veniali teneatur homo etiam confiteri. Jacob. 5, 16: *confitemini alterutrum peccata vestra*; in quo praeceptum confessionis datur, ut in littera dicitur. Sed secundum *Glossam* loquitur de confessione venialium et mortalium; quia dicit *quod majora solis sacerdotibus, sed leviora sociis confiteri possumus*. Ergo tenemur confiteri venialia.***
+Ulterius. Videtur quod de peccato veniali teneatur homo etiam confiteri. Jacob. 5, 16: *confitemini alterutrum peccata vestra*; in quo praeceptum confessionis datur, ut in littera dicitur. Sed secundum *Glossam* loquitur de confessione venialium et mortalium; quia dicit *quod majora solis sacerdotibus, sed leviora sociis confiteri possumus*. Ergo tenemur confiteri venialia.  
 
 Praeterea, de venialibus tenetur homo satisfacere: quia satisfacere est actus justitiae: ad justitiae autem actum tenemur. Sed satisfactio debet esse secundum arbitrium sacerdotis, qui vicem Dei obtinet; quod esse non potest nisi confessione praecedente. Ergo de venialibus homo confiteri tenetur.  
 
@@ -360,7 +360,7 @@ Sed contra, nullus tenetur ad impossibile. Sed confiteri omnia venialia est impo
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod per benedictionem episcopalem, aquam benedictam, et hujusmodi, peccatum veniale remitti non possit. Quia ex eisdem causis aliquid fit et corrumpitur, ut dicitur in 2 *Ethica*. Sed peccatum veniale causatur ex actu nostro. Ergo oportet quod aliquid in nobis sit per quod dimittatur; et ita, cum ista sint extra, per ea peccatum veniale dimitti non potest.***
+Ulterius. Videtur quod per benedictionem episcopalem, aquam benedictam, et hujusmodi, peccatum veniale remitti non possit. Quia ex eisdem causis aliquid fit et corrumpitur, ut dicitur in 2 *Ethica*. Sed peccatum veniale causatur ex actu nostro. Ergo oportet quod aliquid in nobis sit per quod dimittatur; et ita, cum ista sint extra, per ea peccatum veniale dimitti non potest.  
 
 Praeterea, peccatum veniale, ut dictum est, non dimittitur sine contritione. Sed ipsa contritio per se sufficit ad dimissionem. Ergo praedicta nihil operantur ad dimissionem.  
 
@@ -370,7 +370,7 @@ Sed contra est quod communiter dicitur, quod multa sunt remedia contra venialia 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod homo in peccato mortali a Deo avertitur, sibi alium finem constituens: et ideo lumen gratiae amittit, sicut et lumen solis qui visum a sole avertit; et propter hoc non potest peccatum mortale remitti nisi per gratiae infusionem. Sed homo per peccatum veniale non adhaeret commutabili bono quasi fini; et ideo non avertitur a fine, quod est incommutabile bonum; unde per veniale homo gratiam non amittit; et ideo non oportet quod ad hoc quod remittatur veniale, quod gratia aliqua infundatur de novo; sed sufficit quod gratia quae jam habetur, in actum prodeat: quia ipsum veniale non tollebat habitum, sed solummodo impediebat virtutis actum.***
+Respondeo dicendum ad primam quaestionem, quod homo in peccato mortali a Deo avertitur, sibi alium finem constituens: et ideo lumen gratiae amittit, sicut et lumen solis qui visum a sole avertit; et propter hoc non potest peccatum mortale remitti nisi per gratiae infusionem. Sed homo per peccatum veniale non adhaeret commutabili bono quasi fini; et ideo non avertitur a fine, quod est incommutabile bonum; unde per veniale homo gratiam non amittit; et ideo non oportet quod ad hoc quod remittatur veniale, quod gratia aliqua infundatur de novo; sed sufficit quod gratia quae jam habetur, in actum prodeat: quia ipsum veniale non tollebat habitum, sed solummodo impediebat virtutis actum.  
 
 Ad primum ergo dicendum, quod macula potest esse dupliciter. Uno modo per privationem pulchritudinis: et sic in veniali non manet aliqua macula, quia gratiam non tollit, quae est animae decor. Alio modo per hoc quod pulchritudo quae est, impeditur ne exterius appareat, sicut per pulverem pulchritudo faciei foedatur; et talis macula est in veniali, quia impeditur decor gratiae ne in actibus exterius ostendatur: unde non oportet quod talis macula per infusionem gratiae tollatur, sed per actum qui gratiae impedimentum tollat.  
 
@@ -378,7 +378,7 @@ Ad secundum dicendum, quod veniale peccatum non consistit in hoc quod homo minus
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod peccatum veniale non dimittitur, ut dictum est, quamdiu voluntas manet in illo. Ipsam autem recedere voluntatem ab eo quod quis prius volebat, est displicere ei quod voluit. Talis autem displicentia dolor contritionis dicitur, quando est gratia informata; et ideo peccatum veniale sine contritione non dimittitur. Sed sciendum, quod contritio potest accipi tripliciter: vel actu, vel habitu, vel medio modo. Habitu quidem contritio existens non sufficit ad peccati venialis dimissionem: quia tunc quicumque haberet poenitentiae virtutis habitum, cujus actus est quaelibet contritio, consecutus esset peccati venialis dimissionem; et sic peccatum veniale cum gratia esse non posset. Nec iterum requiritur quod semper sit actualis contritio; quia sequeretur quod peccatum quod quis in memoria vel in cognitione non habet, remitti non posset. Et ideo dicendum, quod requiritur contritio medio modo, quando scilicet etsi actu peccatum non displiceat explicite, displicet tamen implicite: quia ex virtute actus quem agit, sequeretur displicentia explicita peccati venialis, si cogitatio ad illud ferretur.***
+Ad secundam quaestionem dicendum, quod peccatum veniale non dimittitur, ut dictum est, quamdiu voluntas manet in illo. Ipsam autem recedere voluntatem ab eo quod quis prius volebat, est displicere ei quod voluit. Talis autem displicentia dolor contritionis dicitur, quando est gratia informata; et ideo peccatum veniale sine contritione non dimittitur. Sed sciendum, quod contritio potest accipi tripliciter: vel actu, vel habitu, vel medio modo. Habitu quidem contritio existens non sufficit ad peccati venialis dimissionem: quia tunc quicumque haberet poenitentiae virtutis habitum, cujus actus est quaelibet contritio, consecutus esset peccati venialis dimissionem; et sic peccatum veniale cum gratia esse non posset. Nec iterum requiritur quod semper sit actualis contritio; quia sequeretur quod peccatum quod quis in memoria vel in cognitione non habet, remitti non posset. Et ideo dicendum, quod requiritur contritio medio modo, quando scilicet etsi actu peccatum non displiceat explicite, displicet tamen implicite: quia ex virtute actus quem agit, sequeretur displicentia explicita peccati venialis, si cogitatio ad illud ferretur.  
 
 Ad primum ergo dicendum, quod quamvis fervor caritatis possit esse dum homo in Deum fertur motu caritatis, sine hoc quod actu de peccato veniali cogitet explicite; tamen in illo motu implicite continetur displicentia venialis peccati, vel unius, vel omnium; quia si ferventer in Deum fertur, displicet ei omne quod a Deo retardat; unde potest esse tam fervens motus caritatis in Deum quod omnia peccata venialia consumat etiam sine actuali cognitione ipsorum.  
 
@@ -388,7 +388,7 @@ Ad tertium dicendum, quod passio pro Christo suscepta vim baptismi obtinet, ut s
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod confessio ad hoc necessaria est ut poenitens satisfactionem accipiat secundum modum delicti. Peccato autem veniali non debetur poena satisfactoria taxata, quia poena illa esset proportionata poenae peccati mortalis, a qua peccatum veniale in infinitum distat; unde per solam contritionem interiorem peccatum veniale remitti potest. Et quod aliqua satisfactio exterius injungitur, hoc est magis ad devotionem excitandum vel contritionem, quam ad satisfaciendum; et ideo ad confessionem venialium non tenemur neque necessitate absoluta: quia sic nec de eis poenitere, nec ea vitare tenemur: nec etiam necessitate quae est ex suppositione finis, scilicet remissionis eorum: quia etiam sine confessione vel actu, vel proposito existente possunt venialia remitti; tamen perfectionis est ea confiteri.***
+Ad tertiam quaestionem dicendum, quod confessio ad hoc necessaria est ut poenitens satisfactionem accipiat secundum modum delicti. Peccato autem veniali non debetur poena satisfactoria taxata, quia poena illa esset proportionata poenae peccati mortalis, a qua peccatum veniale in infinitum distat; unde per solam contritionem interiorem peccatum veniale remitti potest. Et quod aliqua satisfactio exterius injungitur, hoc est magis ad devotionem excitandum vel contritionem, quam ad satisfaciendum; et ideo ad confessionem venialium non tenemur neque necessitate absoluta: quia sic nec de eis poenitere, nec ea vitare tenemur: nec etiam necessitate quae est ex suppositione finis, scilicet remissionis eorum: quia etiam sine confessione vel actu, vel proposito existente possunt venialia remitti; tamen perfectionis est ea confiteri.  
 
 Ad primum ergo dicendum, quod verbum illud Jacobi quantum ad peccata mortalia est praeceptum; sed quantum ad venialia est consilium.  
 
@@ -398,7 +398,7 @@ Ad tertium dicendum, quod in casu illo, propter praeceptum Ecclesiae, dicunt ali
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut dictum est, veniale peccatum dimittitur per fervorem caritatis, qui explicite vel implicite contritionem contineat; et ideo illa quae nata sunt de se excitare fervorem caritatis, peccata venialia dimittere dicuntur: hujusmodi autem sunt quae gratiam conferunt, sicut omnia sacramenta, et quibus impedimenta fervoris et gratiae auferuntur, sicut aqua benedicta, quae virtutem inimici reprimit, et episcopalis benedictio, vel etiam exercitium humilitatis ex parte nostra; sicut tunsio pectoris, et oratio dominicalis, et hujusmodi.***
+Ad quartam quaestionem dicendum, quod, sicut dictum est, veniale peccatum dimittitur per fervorem caritatis, qui explicite vel implicite contritionem contineat; et ideo illa quae nata sunt de se excitare fervorem caritatis, peccata venialia dimittere dicuntur: hujusmodi autem sunt quae gratiam conferunt, sicut omnia sacramenta, et quibus impedimenta fervoris et gratiae auferuntur, sicut aqua benedicta, quae virtutem inimici reprimit, et episcopalis benedictio, vel etiam exercitium humilitatis ex parte nostra; sicut tunsio pectoris, et oratio dominicalis, et hujusmodi.  
 
 Ad primum ergo dicendum, quod actus noster requiritur ad dimissionem venialis; sed ista dicuntur peccatum veniale remittere, inquantum in actum, nostrum fervorem excitant.  
 
@@ -421,7 +421,7 @@ primo, de ipsis circumstantiis secundum se;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod circumstantia non sit proprietas moralis actus, sive ejus conditio. Dicit enim Boetius in 4 *Topicor*., quod *circumstantiae sunt quae convenientes substantiam rhetoricae quaestionis efficiunt*. Sed quaestio rhetorica non pertinet ad genus morale, sed magis ad genus philosophiae rationalis. Ergo circumstantia non est conditio moralis actus.***
+Ad primum sic proceditur. Videtur quod circumstantia non sit proprietas moralis actus, sive ejus conditio. Dicit enim Boetius in 4 *Topicor*., quod *circumstantiae sunt quae convenientes substantiam rhetoricae quaestionis efficiunt*. Sed quaestio rhetorica non pertinet ad genus morale, sed magis ad genus philosophiae rationalis. Ergo circumstantia non est conditio moralis actus.  
 
 Praeterea, illud quod est circa aliquid, non est in eo. Sed conditio actus moralis in ipso est. Ergo non potest talis conditio circumstantia dici.  
 
@@ -433,7 +433,7 @@ Praeterea, medium virtutis ad morale genus pertinet. Sed medium in virtutibus mo
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod inconvenienter enumerentur circumstantiae in hoc versu: *quis, quid, ubi, quibus auxiliis, cur, quomodo, quando*. Illud enim quod est causa rei, non potest esse circumstantia ejus, cum causa sit prior, circumstantia posterior quasi proprietas. Sed persona agens quae notatur cum dicitur *quis*, est causa moralis actus. Ergo non debet poni circumstantia.***
+Ulterius. Videtur quod inconvenienter enumerentur circumstantiae in hoc versu: *quis, quid, ubi, quibus auxiliis, cur, quomodo, quando*. Illud enim quod est causa rei, non potest esse circumstantia ejus, cum causa sit prior, circumstantia posterior quasi proprietas. Sed persona agens quae notatur cum dicitur *quis*, est causa moralis actus. Ergo non debet poni circumstantia.  
 
 Praeterea, non potest idem esse circumstantia sui ipsius. Sed quid importat substantiam actus moralis, cujus circumstantiae quaeruntur. Ergo non debet inter circumstantias computari.  
 
@@ -447,7 +447,7 @@ Praeterea, circumstantiae propter hoc vocantur, quia secundum eas variatur mediu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod circumstantiae quae in littera ab Augustino dicuntur, inconvenienter ponantur. Circumstantia enim, ut dictum est, est conditio moralis actus. Sed quod diu aliquis in peccato perseveret, magis respicit peccantis statum quam actum. Ergo non debet circumstantia dici.***
+Ulterius. Videtur quod circumstantiae quae in littera ab Augustino dicuntur, inconvenienter ponantur. Circumstantia enim, ut dictum est, est conditio moralis actus. Sed quod diu aliquis in peccato perseveret, magis respicit peccantis statum quam actum. Ergo non debet circumstantia dici.  
 
 Praeterea, impugnatio vel tentatio praecedens quandoque non est in potestate nostra, quando scilicet tentatio est ab hoste. Sed circumstantiae, cum sint conditiones moralis actus, sunt in potestate nostra, ut videtur. Ergo non debet inter circumstantias poni, quanta tentatione aliquis ceciderit.  
 
@@ -459,7 +459,7 @@ Praeterea, illae circumstantiae nec a Philosopho ponuntur in 3 *Ethica*, nec a T
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod actus nostri dicuntur morales secundum quod a ratione ordinantur in finem voluntatis; ex hoc enim habent rationem boni vel mali. Omne autem quod ordinatur ad finem, oportet esse proportionatum fini; et ideo ratio quae actum nostrum in finem ordinat, attendit proportionem actus ad ea quae ad actum concurrere possunt; et ista commensuratio circumstantia dicitur. Et quia in qualibet proportione oportet esse ad minus duos terminos (nihil enim sibi ipsi proportionatur, sed alteri); ideo circumstantia moralis actus dupliciter accipi consuevit: quia potest dici circumstantia, vel illud quod est ad actum concurrens ad quem proportionatur, sicut locus aut tempus; vel ipsa conceptio quae ex illis relinquitur, ut quando vel ubi. Sic ergo ultimo modo accipiendo circumstantiam, erit conditio vel proprietas actus; sed primo modo accipiendo, quaedam circumstantia est proprietas actus, ut modus agendi, et quaedam extra, ut locus et tempus.***
+Respondeo dicendum ad primam quaestionem, quod actus nostri dicuntur morales secundum quod a ratione ordinantur in finem voluntatis; ex hoc enim habent rationem boni vel mali. Omne autem quod ordinatur ad finem, oportet esse proportionatum fini; et ideo ratio quae actum nostrum in finem ordinat, attendit proportionem actus ad ea quae ad actum concurrere possunt; et ista commensuratio circumstantia dicitur. Et quia in qualibet proportione oportet esse ad minus duos terminos (nihil enim sibi ipsi proportionatur, sed alteri); ideo circumstantia moralis actus dupliciter accipi consuevit: quia potest dici circumstantia, vel illud quod est ad actum concurrens ad quem proportionatur, sicut locus aut tempus; vel ipsa conceptio quae ex illis relinquitur, ut quando vel ubi. Sic ergo ultimo modo accipiendo circumstantiam, erit conditio vel proprietas actus; sed primo modo accipiendo, quaedam circumstantia est proprietas actus, ut modus agendi, et quaedam extra, ut locus et tempus.  
 
 Ad primum ergo dicendum, quod quaestio rhetoris secundum quodlibet genus causae attendit bonum et malum: quia in judiciali praemium vel poena expectatur, quae actui bono vel malo debentur; in demonstrativo autem laus personae vel vituperium quaeritur, quae bonis actibus vel malis debentur; in deliberativo autem quaeritur quid sit utile ad agendum; in quo et rationem boni et mali attendere oportet; et ideo ex eisdem ex quibus actus morales boni et mali redduntur, rhetores argumenta sumunt ad persuadendum.  
 
@@ -469,7 +469,7 @@ Ad tertium dicendum, quod accidentis non est accidens, quasi ipsum sit per seips
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod versus ille distinguit circumstantias secundum assignationem Tullii et Boetii, secundum quod a rhetore considerantur, qui ex eis argumenta sumit ad excusandum vel accusandum. Sumitur enim argumentum rhetoricum vel ex eo quod est attributum personae; et sic est *quis*: vel ex eo quod est attributum negotio de quo agitur; et hoc vel continetur cum ipso negotio, et sic est *quid* quantum ad substantiam facti exterius, *cur* quantum ad intentionem facientis interius: vel in ipsa prosecutione negotii continetur; et sic sunt quatuor; scilicet *quomodo* quantum ad qualitatem actus, *ubi* et *quando* quantum ad mensuram, *quibus auxiliis* quantum ad instrumenta.***
+Ad secundam quaestionem dicendum, quod versus ille distinguit circumstantias secundum assignationem Tullii et Boetii, secundum quod a rhetore considerantur, qui ex eis argumenta sumit ad excusandum vel accusandum. Sumitur enim argumentum rhetoricum vel ex eo quod est attributum personae; et sic est *quis*: vel ex eo quod est attributum negotio de quo agitur; et hoc vel continetur cum ipso negotio, et sic est *quid* quantum ad substantiam facti exterius, *cur* quantum ad intentionem facientis interius: vel in ipsa prosecutione negotii continetur; et sic sunt quatuor; scilicet *quomodo* quantum ad qualitatem actus, *ubi* et *quando* quantum ad mensuram, *quibus auxiliis* quantum ad instrumenta.  
 
 Secundum autem quod ad moralem pertinent, potest aliter earum numerus accipi. Proportio enim actus ad finem potest accipi vel secundum id quod est in ipso actu, vel secundum id quod extra. Si primo modo: aut quantum ad speciem actus, et sic est *quid*; aut quantum ad modum ipsius; et sic est *quomodo*. Si autem per comparationem ad extra; vel per comparationem ad causam, vel per comparationem ad mensuram. Si primo modo: vel ad causam finalem, et sic est *cur*; vel ad causam efficientem vel instrumentalem, et sic est *quibus auxiliis*; vel principalem, et sic est *quis*. Si autem per comparationem ad mensuram; aut ad locum, et sic est *ubi*; aut ad tempus, et sic est *quando*.  
 
@@ -487,7 +487,7 @@ Ad sextum dicendum, quod cum modus mensuram importet, omnia quae ad mensuram per
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Augustinus numerat hic circumstantias secundum quod a poenitente considerandae sunt, qui de peccatis dolere debet; et ideo nominat illas quae praecipue ad dolorem de peccato inducere possunt. Hae autem sunt duo; scilicet privatio boni, et quantum ad hoc dicit quod debet dolere, quia se virtute privavit; et positio mali, quod quidem aggravatur vel per accidens inquantum tollitur excusationis occasio; et sic debet dolere, si nulla tentatione vel modica praeventus peccavit: vel per se ex aliqua circumstantia addente deformitatem ad actum, et sic quantum ad personam agentis considerare docet statum peccantis, et beneficium prius a Deo susceptum; quantum ad omnes docet considerare quo tempore et quando peccavit; docet etiam considerare circa quid, in hoc quod dicit: *secundum modum meretricis*; item quomodo, in hoc quod dicit, *et modum sui operis*; et locum, in hoc quod dicit: *si in loco sacrato*.***
+Ad tertiam quaestionem dicendum, quod Augustinus numerat hic circumstantias secundum quod a poenitente considerandae sunt, qui de peccatis dolere debet; et ideo nominat illas quae praecipue ad dolorem de peccato inducere possunt. Hae autem sunt duo; scilicet privatio boni, et quantum ad hoc dicit quod debet dolere, quia se virtute privavit; et positio mali, quod quidem aggravatur vel per accidens inquantum tollitur excusationis occasio; et sic debet dolere, si nulla tentatione vel modica praeventus peccavit: vel per se ex aliqua circumstantia addente deformitatem ad actum, et sic quantum ad personam agentis considerare docet statum peccantis, et beneficium prius a Deo susceptum; quantum ad omnes docet considerare quo tempore et quando peccavit; docet etiam considerare circa quid, in hoc quod dicit: *secundum modum meretricis*; item quomodo, in hoc quod dicit, *et modum sui operis*; et locum, in hoc quod dicit: *si in loco sacrato*.  
 
 Ad primum ergo dicendum, quod hoc quod aliquis diu in peccato permansit, respicit conditionem actus, vel transgressionis, si frequenter peccatum iteravit vel continuavit; vel omissionis, si poenitere distulit de peccato etiam semel commisso.  
 
@@ -505,7 +505,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod circumstantiae peccatum non aggravent. Nihil enim augetur nisi ex suo simili; unde intensio qualitatis quantitatem non auget corporalem, sed additio alterius corporis. Sed circumstantiae non sunt peccata, sed sunt quaedam peccati accidentia. Ergo peccatum non aggravant.***
+Ad secundum sic proceditur. Videtur quod circumstantiae peccatum non aggravent. Nihil enim augetur nisi ex suo simili; unde intensio qualitatis quantitatem non auget corporalem, sed additio alterius corporis. Sed circumstantiae non sunt peccata, sed sunt quaedam peccati accidentia. Ergo peccatum non aggravant.  
 
 Praeterea, tota ratio mali in peccato est ex parte aversionis, non autem ex parte conversionis. Sed omnes circumstantiae sequuntur peccatum ex parte conversionis. Ergo non aggravant malitiam peccati.  
 
@@ -517,7 +517,7 @@ Praeterea, rhetores ex circumstantiis trahunt argumenta ad accusandum vel excusa
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur, quod inter omnes circumstantias magis aggravent *locus* et *tempus*. Quia, sicut dicit Philosophus in 3 *Ethica*, *principalia sunt in quibus est actus*, de hujusmodi circumstantiis loquens. Sed in quo signat ipsum tempus et locum. Cum ergo principales circumstantiae magis aggravent, videtur quod tempus et locus maxime aggravant.***
+Ulterius. Videtur, quod inter omnes circumstantias magis aggravent *locus* et *tempus*. Quia, sicut dicit Philosophus in 3 *Ethica*, *principalia sunt in quibus est actus*, de hujusmodi circumstantiis loquens. Sed in quo signat ipsum tempus et locum. Cum ergo principales circumstantiae magis aggravent, videtur quod tempus et locus maxime aggravant.  
 
 Praeterea, videtur, quod *quis*. Quia ex voluntate principaliter oritur peccatum. Sed voluntas se tenet ex parte agentis. Ergo conditio personae magis aggravat.  
 
@@ -527,7 +527,7 @@ Praeterea, videtur quod tentatio praecedens. Quia per illas circumstantias maxim
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod circumstantia non possit trahere in aliam speciem vel in aliud genus peccati. Quia accidentia non variant speciem. Sed circumstantiae sunt accidentia actus, ut dictum est. Ergo ex eis species peccati non variatur.***
+Ulterius. Videtur quod circumstantia non possit trahere in aliam speciem vel in aliud genus peccati. Quia accidentia non variant speciem. Sed circumstantiae sunt accidentia actus, ut dictum est. Ergo ex eis species peccati non variatur.  
 
 Praeterea, actus habet speciem ex objecto. Sed diversae circumstantiae non mutant objectum actus. Ergo non trahunt in aliud genus peccati.  
 
@@ -539,7 +539,7 @@ Praeterea, *praepropere, laute, nimis, ardenter, studiose*, sunt diversae specie
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod circumstantia aggravet in infinitum. Quia una circumstantia corrumpit virtutem. Sed virtus non corrumpitur nisi per peccatum mortale, quod habet quantitatem infinitam. Ergo circumstantia aggravat in infinitum.***
+Ulterius. Videtur quod circumstantia aggravet in infinitum. Quia una circumstantia corrumpit virtutem. Sed virtus non corrumpitur nisi per peccatum mortale, quod habet quantitatem infinitam. Ergo circumstantia aggravat in infinitum.  
 
 Praeterea, secundum Augustinum nullum est adeo veniale, quin fiat mortale dum placet. Sed placentia est quaedam circumstantia, et reducitur ad *quomodo*. Ergo circumstantia facit de veniali mortale; et sic aggravat in infinitum.  
 
@@ -551,7 +551,7 @@ Praeterea, ea quae in infinitum differunt, non conveniunt in genere. Sed eorum q
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod omnis circumstantia sit confitenda. Genes. 19, praecipitur Loth de Sodomis exeunti, ne moraretur in omni loco circa regionem. Sed poenitens de Sodomis, idest de peccato, per confessionem exit. Ergo non solum peccatum, sed omnes circumstantias peccati confiteri debet.***
+Ulterius. Videtur quod omnis circumstantia sit confitenda. Genes. 19, praecipitur Loth de Sodomis exeunti, ne moraretur in omni loco circa regionem. Sed poenitens de Sodomis, idest de peccato, per confessionem exit. Ergo non solum peccatum, sed omnes circumstantias peccati confiteri debet.  
 
 Praeterea, poenitens debet peccatum suum sacerdoti confiteri, ut ab eo modum satisfactionis accipiat. Sed pro graviori peccato major injungitur satisfactio. Ergo debet sacerdoti circumstantias notificare, quibus qualitas peccati consideratur.  
 
@@ -563,7 +563,7 @@ Praeterea, ex circumstantiis recitatis aliquando alicujus personae peccatum inno
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, sicut dicit Augustinus in 6 *De Trin*., *In his quae non mole magna sunt, idem est esse majus quod est esse melius* in bonis, sicut et similiter in malis idem est esse majus quod est esse pejus. Malitia autem in actu peccati ex hoc est quod deficit a debita proportione ad finem, ad quem proportionatus redditur per debitam commensurationem circumstantiarum, ut dictum est; et ideo defectus debitae circumstantiae malitiam in actu causat. Et quia per unam circumstantiam deficientem vel oppositam magis elongatur terminus a debita proportione ad finem; ideo circumstantia facit actum magis malum vel minus; et secundum hoc dicitur aggravare peccatum.***
+Respondeo dicendum ad primam quaestionem, sicut dicit Augustinus in 6 *De Trin*., *In his quae non mole magna sunt, idem est esse majus quod est esse melius* in bonis, sicut et similiter in malis idem est esse majus quod est esse pejus. Malitia autem in actu peccati ex hoc est quod deficit a debita proportione ad finem, ad quem proportionatus redditur per debitam commensurationem circumstantiarum, ut dictum est; et ideo defectus debitae circumstantiae malitiam in actu causat. Et quia per unam circumstantiam deficientem vel oppositam magis elongatur terminus a debita proportione ad finem; ideo circumstantia facit actum magis malum vel minus; et secundum hoc dicitur aggravare peccatum.  
 
 Ad primum ergo dicendum, quod ratio illa procedit in illis in quibus est augmentum per additionem; in illis enim in quibus est augmentum per intensionem non oportet additionem similis in specie fieri, sicut non oportet quod albedo albedini addatur ad hoc quod fiat magis album, ut dicitur in 4 *Phys*.: et similiter non oportet quod peccatum peccato addatur ad hoc quod fiat magis peccatum.  
 
@@ -573,7 +573,7 @@ Ad tertium dicendum, quod quamvis privationes non intendantur ex seipsis, tamen 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod *bonum dicitur secundum ordinem ad finem*, ut in 3 *Metaph*. dicitur. Cum ergo malum sit privatio boni, dupliciter potest contingere malum; vel secundum ipsam relationem in finem, vel secundum aptitudinem relationis in finem; et ideo peccatum dupliciter contingit: vel ex eo quod actus non est proportionatus fini, sicut in his quae ex se mala sunt; vel quia inordinate refertur in finem, sicut patet in his quae mala intentione fiunt, etiamsi ex se bonum sit quod fit. Et quia *propter quod unumquodque, illud magis*; ideo quantitas malitiae peccati magis consideratur secundum relationem inordinatam in finem, quam etiam secundum improportionem ad finem.***
+Ad secundam quaestionem dicendum, quod *bonum dicitur secundum ordinem ad finem*, ut in 3 *Metaph*. dicitur. Cum ergo malum sit privatio boni, dupliciter potest contingere malum; vel secundum ipsam relationem in finem, vel secundum aptitudinem relationis in finem; et ideo peccatum dupliciter contingit: vel ex eo quod actus non est proportionatus fini, sicut in his quae ex se mala sunt; vel quia inordinate refertur in finem, sicut patet in his quae mala intentione fiunt, etiamsi ex se bonum sit quod fit. Et quia *propter quod unumquodque, illud magis*; ideo quantitas malitiae peccati magis consideratur secundum relationem inordinatam in finem, quam etiam secundum improportionem ad finem.  
 
 Ad ordinem autem ad finem pertinet *cujus gratia*; et ideo super omnes alias consideranda est in judicando de gravitate peccati. Ad hoc autem quod actus sit improportionatus fini, pertinet haec circumstantia *quid*, per quam importatur ratio mali in actu; et ideo omnia quae possunt peccato speciem tribuere, in hac circumstantia inducuntur; et haec sunt in quibus consistit actus moralis quantum ad bonitatem vel malitiam; et ideo haec est secunda circumstantia in aggravando; et propter hoc Philosophus dicit in 3 *Ethica*, quod *principalissima in actu sunt in quibus consistit actus, et cujus gratia*.  
 
@@ -589,7 +589,7 @@ Ad quartum dicendum, quod venia dignum dicitur peccatum quod est veniale ex caus
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod aliquando circumstantiam trahere in aliam speciem peccati manifestum est; sed quomodo possit esse, est dubium. Quidam enim dicunt, quod hoc accidit inquantum illae circumstantiae accipiuntur ut fines voluntatis, quia a fine actus moralis accipit speciem. Sed hoc non videtur sufficienter dictum: quia aliquando variatur species peccati sine hoc quod intentio feratur ad circumstantiam illam; sicut fur ita libenter acciperet vas aureum non sacratum sicut sacratum; et tamen in aliam speciem peccatum mutatur, scilicet de furto simplici in sacrilegium; et praeterea secundum hoc sola illa circumstantia quae dicitur *cujus gratia*, speciem peccati mutare posset; quod falsum est.***
+Ad tertiam quaestionem dicendum, quod aliquando circumstantiam trahere in aliam speciem peccati manifestum est; sed quomodo possit esse, est dubium. Quidam enim dicunt, quod hoc accidit inquantum illae circumstantiae accipiuntur ut fines voluntatis, quia a fine actus moralis accipit speciem. Sed hoc non videtur sufficienter dictum: quia aliquando variatur species peccati sine hoc quod intentio feratur ad circumstantiam illam; sicut fur ita libenter acciperet vas aureum non sacratum sicut sacratum; et tamen in aliam speciem peccatum mutatur, scilicet de furto simplici in sacrilegium; et praeterea secundum hoc sola illa circumstantia quae dicitur *cujus gratia*, speciem peccati mutare posset; quod falsum est.  
 
 Et ideo aliter dicendum, quod omnis circumstantia potest speciem peccati mutare, sed non semper mutat. Cum enim privationes et negationes differant specie secundum differentiam habituum et positionum oppositarum, et malum sit privatio boni; oportet quod ubi diversum bonum ad virtutem necessarium aufertur, ibi sit diversa species peccati. Una autem sola circumstantia peccati rectitudinem virtutis aufert: unde si aliae circumstantiae nullam aliam obliquitatem peccato tribuant, nisi ex suppositione personae, non mutabunt speciem peccati, sed forte aggravabunt quantitatem peccati illius.  
 
@@ -605,7 +605,7 @@ Et per hoc patet solutio ad tertium.
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod circumstantia, ut ex dictis patet, quandoque aggravat peccatum et speciem mutat; quandoque autem aggravat, sed speciem non mutat. Quando autem speciem non mutat, sed aggravat; adhuc manet in ratione circumstantiae, nec potest in infinitum quantitatem peccati augere, ut ex veniali mortale fiat: quia, ut dictum est, circumstantia taliter aggravans ex suppositione praecedentis deformitatis habet rationem majoris deformitatis ex ejus virtute; unde si illa sit finita, non potest infinitam deformitatem addere. Si autem speciem mutet, tunc potest in infinitum aggravare; sed non semper hoc facit: quia quando ex deformitate speciali, quam circumstantia addit, habet directe oppositionem ad caritatem, quod ostenditur ex hoc quod est directe contra praeceptum legis, cujus finis est caritas; tunc infinitam gravitatem addit, scilicet peccati mortalis.***
+Ad quartam quaestionem dicendum, quod circumstantia, ut ex dictis patet, quandoque aggravat peccatum et speciem mutat; quandoque autem aggravat, sed speciem non mutat. Quando autem speciem non mutat, sed aggravat; adhuc manet in ratione circumstantiae, nec potest in infinitum quantitatem peccati augere, ut ex veniali mortale fiat: quia, ut dictum est, circumstantia taliter aggravans ex suppositione praecedentis deformitatis habet rationem majoris deformitatis ex ejus virtute; unde si illa sit finita, non potest infinitam deformitatem addere. Si autem speciem mutet, tunc potest in infinitum aggravare; sed non semper hoc facit: quia quando ex deformitate speciali, quam circumstantia addit, habet directe oppositionem ad caritatem, quod ostenditur ex hoc quod est directe contra praeceptum legis, cujus finis est caritas; tunc infinitam gravitatem addit, scilicet peccati mortalis.  
 
 Quando autem illa deformitas non directe habet oppositionem ad legem, ut sit contra eam, sed praeter eam, tunc non aggravat in infinitum, sive sit peccatum veniale cui additur, sive mortale; sicut ad actum gulae qui est praepropere, addit haec circumstantia laute, specialem deformitatem, quae etiam ex se peccatum faceret; sed non est directe contra legem; et ideo non aggravat in infinitum. Et quia circumstantia quae speciem mutat, non est jam ut circumstantia computanda, ut dictum est, ideo dicitur a magistris, quod circumstantia non aggravat in infinitum.  
 
@@ -621,7 +621,7 @@ Ad quintum dicendum, quod peccatum veniale et mortale differunt in infinitum ex 
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod omnes circumstantias confiteri est impossibile; quasdam autem confiteri est necessitatis: sed in hoc est differentia opinionis. Quidam enim dicunt, quod omnes circumstantiae quae aliquam notabilem quantitatem peccato addunt, confiteri necessitatis est, si memoriae occurrant. Alii vero dicunt, quod non sint de necessitate confitendae nisi circumstantiae quae ad aliud genus peccati trahunt; et hoc probabilius est; sed addendum est, quae ad aliam speciem mortalis trahunt: cujus ratio est, quia venialia non sunt de necessitate confessionis, sed solum mortalia, quae quantitatem infinitam quodammodo habent; et quia circumstantiae aggravantes quae aliam speciem peccato non tribuunt, vel quae tribuunt quidem, sed non mortalis peccati, non sunt de necessitate confessionis. Tamen ea confiteri perfectionis est, sicut et de venialibus dictum est.***
+Ad quintam quaestionem dicendum, quod omnes circumstantias confiteri est impossibile; quasdam autem confiteri est necessitatis: sed in hoc est differentia opinionis. Quidam enim dicunt, quod omnes circumstantiae quae aliquam notabilem quantitatem peccato addunt, confiteri necessitatis est, si memoriae occurrant. Alii vero dicunt, quod non sint de necessitate confitendae nisi circumstantiae quae ad aliud genus peccati trahunt; et hoc probabilius est; sed addendum est, quae ad aliam speciem mortalis trahunt: cujus ratio est, quia venialia non sunt de necessitate confessionis, sed solum mortalia, quae quantitatem infinitam quodammodo habent; et quia circumstantiae aggravantes quae aliam speciem peccato non tribuunt, vel quae tribuunt quidem, sed non mortalis peccati, non sunt de necessitate confessionis. Tamen ea confiteri perfectionis est, sicut et de venialibus dictum est.  
 
 Ad primum ergo dicendum, quod quamvis de Sodomis, idest de peccato mortali, non possit homo exire, nisi per confessionem ad minus in proposito existentem; tamen de illis quae circa sunt, idest de venialibus, et circumstantiis quae venialibus aequivalent, potest homo sine confessione exire.  
 
@@ -637,7 +637,7 @@ Quaestio 4
 
 ***De impedimentis poenitentiae***
 
-***Deinde quaeritur de impedimentis verae poenitentiae; et circa hoc quaeruntur duo:***
+Deinde quaeritur de impedimentis verae poenitentiae; et circa hoc quaeruntur duo:  
 
 primo, de hypocrisi, quae impedit interius;  
 
@@ -648,7 +648,7 @@ primo, de hypocrisi, quae impedit interius;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod hypocrisis non sit peccatum. Quia peccatum non dicitur secunda tabula post naufragium. Sed secundum Hieronymum, *secunda tabula post naufragium est peccatum abscondere*, quod ad hypocrisim pertinet. Ergo non est peccatum.***
+Ad primum sic proceditur. Videtur quod hypocrisis non sit peccatum. Quia peccatum non dicitur secunda tabula post naufragium. Sed secundum Hieronymum, *secunda tabula post naufragium est peccatum abscondere*, quod ad hypocrisim pertinet. Ergo non est peccatum.  
 
 Praeterea, vitare scandalum proximorum et famam propriam custodire quilibet debet. Sed haec fiunt per hypocrisim. Ergo non est peccatum.  
 
@@ -656,7 +656,7 @@ Sed contra, Matth. 6, super illud: *nolite fieri sicut hypocritae tristes*, dici
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit speciale peccatum. Quia peccatum simulationis dividitur contra peccatum apertae malitiae. Sed aperta malitia non est speciale peccatum. Ergo nec hypocrisis.***
+Ulterius. Videtur quod non sit speciale peccatum. Quia peccatum simulationis dividitur contra peccatum apertae malitiae. Sed aperta malitia non est speciale peccatum. Ergo nec hypocrisis.  
 
 Praeterea, omne peccatum speciale in aliquibus actibus consistit specialiter. Sed hypocrisis in omnibus actibus virtutum consistit, et praecipue in oratione, jejunio, et eleemosyna, ut patet in Evangelio Matth. Ergo hypocrisis non est speciale peccatum.  
 
@@ -664,7 +664,7 @@ Sed contra, peccatum simulationis virtuti opponitur quae dicitur veritas. Sed ve
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod semper sit mortale peccatum. Quia peccatum veniale non impedit veniam de peccatis mortalibus. Sed hypocrisis impedit, ut ex littera patet. Ergo est mortale peccatum.***
+Ulterius. Videtur quod semper sit mortale peccatum. Quia peccatum veniale non impedit veniam de peccatis mortalibus. Sed hypocrisis impedit, ut ex littera patet. Ergo est mortale peccatum.  
 
 Praeterea, Hieronymus dicit, quod in comparatione duorum malorum *levius est aperte peccare quam sanctitatem simulare*. Sed aperte peccare est peccatum mortale. Ergo et sanctitatem simulare semper.  
 
@@ -676,7 +676,7 @@ Sed contra, veritatis virtus corrumpitur tam per mendacium oris, quam per simula
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod hypocrisis non debeat poni impedimentum poenitentiae prae aliis vitiis. Quia quanto aliquod peccatum est gravius, tanto magis poenitentiam impedit. Sed alia interiora peccata quaedam sunt majora quam hypocrisis. Ergo illa magis debent poni impedimentum poenitentiae.***
+Ulterius. Videtur quod hypocrisis non debeat poni impedimentum poenitentiae prae aliis vitiis. Quia quanto aliquod peccatum est gravius, tanto magis poenitentiam impedit. Sed alia interiora peccata quaedam sunt majora quam hypocrisis. Ergo illa magis debent poni impedimentum poenitentiae.  
 
 Praeterea, hypocrisis, secundum Gregorium, est filia inanis gloriae. Sed causa magis operatur ad aliquid quam effectus. Ergo magis debet poni inanis gloria impedimentum poenitentiae quam hypocrisis.  
 
@@ -684,7 +684,7 @@ Sed contrarium in littera apparet.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod hypocrita proprie dicitur qui personam alterius repraesentat, quasi submissus, vel suppositus loco alterius; unde in theatris illi qui personam aliorum gerebant repraesentantes, dicebantur hypocritae; et sic accipit hypocritas Philosophus in 3 *Ethica*: et ideo ille qui cum non sit virtuosus, personam virtuosi ostentat, hypocrita dicitur: *hypocrita* enim Graece, Latine dicitur *simulator*. Et quia ostentare de se melius quam sit, est vitium jactantiae, sive verbis, sive factis fiat, ut dicitur in 4 *Ethic*.; ideo hypocrisis semper est peccatum.***
+Respondeo dicendum ad primam quaestionem, quod hypocrita proprie dicitur qui personam alterius repraesentat, quasi submissus, vel suppositus loco alterius; unde in theatris illi qui personam aliorum gerebant repraesentantes, dicebantur hypocritae; et sic accipit hypocritas Philosophus in 3 *Ethica*: et ideo ille qui cum non sit virtuosus, personam virtuosi ostentat, hypocrita dicitur: *hypocrita* enim Graece, Latine dicitur *simulator*. Et quia ostentare de se melius quam sit, est vitium jactantiae, sive verbis, sive factis fiat, ut dicitur in 4 *Ethic*.; ideo hypocrisis semper est peccatum.  
 
 Ad primum ergo dicendum, quod aliud est peccatum occultum non propalare, quod discretionis est, et secunda tabula dicitur eo modo quo supra, dist. 14, qu. 1, art. 2, qu. 3, dictum est; et aliud virtutem ostentare, cum aliquis peccato subjaceat, quod hypocrisis est.  
 
@@ -692,7 +692,7 @@ Ad secundum dicendum, quod peccatum occultare sufficit ad vitandum scandalum; se
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod privationes specificantur per habitus oppositos; et ideo illud peccatum est generale quod privat aliquam conditionem quae requiritur in qualibet virtute, sicut inobedientia, prout est generale peccatum. Hypocrisis autem privat conformitatem signi ostendentis conditionem personae ad rem significatam; quae quidem conformitas ad unam virtutem specialiter pertinet, scilicet veritatem; et ideo est speciale peccatum.***
+Ad secundam quaestionem dicendum, quod privationes specificantur per habitus oppositos; et ideo illud peccatum est generale quod privat aliquam conditionem quae requiritur in qualibet virtute, sicut inobedientia, prout est generale peccatum. Hypocrisis autem privat conformitatem signi ostendentis conditionem personae ad rem significatam; quae quidem conformitas ad unam virtutem specialiter pertinet, scilicet veritatem; et ideo est speciale peccatum.  
 
 Ad primum ergo dicendum, quod apertum, non importat aliquam specialem rationem peccati; et ideo aperta malitia non nominat peccatum speciale, sicut simulatio, quae specialem rationem peccati importat.  
 
@@ -700,7 +700,7 @@ Ad secundum dicendum, quod non est inconveniens quod aliquod speciale peccatum v
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod hypocrisis habet eamdem rationem peccati, sicut et mendacium: mendacium autem non semper est peccatum mortale, sed quando est perniciosum; et similiter hypocrisis non semper est peccatum mortale, sed quando est perniciosa, cadens in nocumentum alterius personae, dum propter creditam sanctitatem alium defraudat re quam habet, vel habere debet; aut in nocumentum fidei et Ecclesiae, dum propter sanctitatem creditam de ipso, ei contra fidem et Ecclesiam creditur.***
+Ad tertiam quaestionem dicendum, quod hypocrisis habet eamdem rationem peccati, sicut et mendacium: mendacium autem non semper est peccatum mortale, sed quando est perniciosum; et similiter hypocrisis non semper est peccatum mortale, sed quando est perniciosa, cadens in nocumentum alterius personae, dum propter creditam sanctitatem alium defraudat re quam habet, vel habere debet; aut in nocumentum fidei et Ecclesiae, dum propter sanctitatem creditam de ipso, ei contra fidem et Ecclesiam creditur.  
 
 Ad primum ergo dicendum, quod peccatum veniale quod poenitentiam non impedit, non impedit remissionem peccati mortalis, quae per poenitentiam fit; sed per aliquod peccatum veniale potest impediri poenitentiae opus ne sit poenitentiae; quia peccatum veniale impedit actum virtutis, quamvis non tollat habitum; et sic impedire potest veniam peccati.  
 
@@ -712,7 +712,7 @@ Ad quartum dicendum, quod loquitur de hypocrita qui totum bonum quod agit, ad os
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod opera poenitentiae, exteriora praecipue, nata sunt sanctitatem ostendere; et ideo eis utitur hypocrisis intentionem poenitentiae rectae excludens. Et propter hoc directius impedit poenitentiae effectum quam alia vitia etiam graviora.***
+Ad quartam quaestionem dicendum, quod opera poenitentiae, exteriora praecipue, nata sunt sanctitatem ostendere; et ideo eis utitur hypocrisis intentionem poenitentiae rectae excludens. Et propter hoc directius impedit poenitentiae effectum quam alia vitia etiam graviora.  
 
 Et per hoc patet solutio ad primum.  
 
@@ -724,7 +724,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod ludi poenitentiam exterius non impediant. Illud enim in quo potest consistere virtus, poenitentiam non impedit. Sed in ludis consistit virtus eutrapeliae, ut in 4 *Ethica* patet. Ergo ludus poenitentiam non impedit.***
+Ad secundum sic proceditur. Videtur quod ludi poenitentiam exterius non impediant. Illud enim in quo potest consistere virtus, poenitentiam non impedit. Sed in ludis consistit virtus eutrapeliae, ut in 4 *Ethica* patet. Ergo ludus poenitentiam non impedit.  
 
 Praeterea, oportet operibus laboriosis requiem interponere, eo quod impossibile est semper agere. Sed ludus est requies quaedam. Ergo oportet inter opera poenitentiae aliquando ludere; ergo ludus poenitentiam non impedit.  
 
@@ -732,7 +732,7 @@ Sed contra, Eccle. 3, tempus ridendi aliud describitur a tempore flendi. Sed tem
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod spectacula non impediant poenitentiam. Spectacula enim ad utilitatem hominum sunt instituta. Sed poenitentia non resecat utilia, sed superflua. Ergo poenitentia per spectacula non impeditur.***
+Ulterius. Videtur quod spectacula non impediant poenitentiam. Spectacula enim ad utilitatem hominum sunt instituta. Sed poenitentia non resecat utilia, sed superflua. Ergo poenitentia per spectacula non impeditur.  
 
 Praeterea, in spectando aliud non potest esse nisi peccatum curiositatis. Sed aliae curiositates, ut scientiarum, non ponuntur impedimenta poenitentiae. Ergo nec spectaculum impedimentum poenitentiae dici debet.  
 
@@ -742,7 +742,7 @@ Sed contra, illud ex quo homo peccator constituitur, non competit poenitenti. Se
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod exercitium militiae vel negotiationis poenitentiam non impediat. Quia illa sine quibus non potest respublica conservari, non sunt vitia, sed magis ad virtutem ordinata. Sed non potest conservari sine militia, per quam hostes comprimuntur, et sine negotiatione, per quam necessaria populo procurantur. Ergo talia officia sine peccato possunt exerceri; ergo non impediunt poenitentiam.***
+Ulterius. Videtur quod exercitium militiae vel negotiationis poenitentiam non impediat. Quia illa sine quibus non potest respublica conservari, non sunt vitia, sed magis ad virtutem ordinata. Sed non potest conservari sine militia, per quam hostes comprimuntur, et sine negotiatione, per quam necessaria populo procurantur. Ergo talia officia sine peccato possunt exerceri; ergo non impediunt poenitentiam.  
 
 Praeterea, Joannes poenitentiam docebat, ut patet Matth. 3. Sed ipse non prohibebat homines a militia, neque publicanos ab officio suo, ut patet Lucae 3. Ergo videtur quod talia officia non impediant.  
 
@@ -750,13 +750,13 @@ Sed contra est quod Gregorius in littera dicit.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ludorum est triplex differentia. Quidam enim ludi sunt qui ex se ipsis turpitudinem habent; et tales ludi ab omnibus vitandi sunt, et praecipue a poenitentibus, qui per fletum peccata corrigere debent, sicut ludi qui in theatris agebantur ad luxuriam provocantes. Alii ludi sunt qui ex gaudio devotionis procedunt, sicut David dixit: *ludam, et vilior fiam coram Domino*: 2 regum 6, 21 et 23; et tales ludi non sunt vitandi, sed laudandi et aemulandi. Quidam autem ludi sunt nullam turpitudinem habentes, quos Philosophus liberales vocat; et hi sunt materia virtutis, scilicet eutrapeliae; et ideo servatis debitis circumstantiis, possunt laudabiliter fieri ad quietem propriam, et aliis delectabiliter convivendum. Sed contingit in eis esse peccatum, eo quod debitae circumstantiae non servantur; unde in talibus ludis aliquid decet unum quod non decet alium; et in his etiam ludis poenitens se debet habere aliter quam alii, inquantum poenitentia fletum requirit. Tamen eis moderate uti potest, secundum quod ad recreationem animi pertinent, aut ad societatem eorum cum quibus homo convivit; unde Seneca dicit: *sic te gere sapienter, ut nullus te habeat tamquam asperum, nec contemnat quasi vilem*.***
+Respondeo dicendum ad primam quaestionem, quod ludorum est triplex differentia. Quidam enim ludi sunt qui ex se ipsis turpitudinem habent; et tales ludi ab omnibus vitandi sunt, et praecipue a poenitentibus, qui per fletum peccata corrigere debent, sicut ludi qui in theatris agebantur ad luxuriam provocantes. Alii ludi sunt qui ex gaudio devotionis procedunt, sicut David dixit: *ludam, et vilior fiam coram Domino*: 2 regum 6, 21 et 23; et tales ludi non sunt vitandi, sed laudandi et aemulandi. Quidam autem ludi sunt nullam turpitudinem habentes, quos Philosophus liberales vocat; et hi sunt materia virtutis, scilicet eutrapeliae; et ideo servatis debitis circumstantiis, possunt laudabiliter fieri ad quietem propriam, et aliis delectabiliter convivendum. Sed contingit in eis esse peccatum, eo quod debitae circumstantiae non servantur; unde in talibus ludis aliquid decet unum quod non decet alium; et in his etiam ludis poenitens se debet habere aliter quam alii, inquantum poenitentia fletum requirit. Tamen eis moderate uti potest, secundum quod ad recreationem animi pertinent, aut ad societatem eorum cum quibus homo convivit; unde Seneca dicit: *sic te gere sapienter, ut nullus te habeat tamquam asperum, nec contemnat quasi vilem*.  
 
 Et per hoc patet solutio ad objecta.  
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod hujusmodi spectacula si sunt rerum turpium, ad peccatum provocantium, studiosa eorum inspectio peccatum est, et quandoque etiam mortale, tanta potest libido adhiberi; unde a tali inspectione omnes se arcere debent, et praecipue poenitentes. Quaedam vero spectacula sunt de rebus utilibus et ad vitam necessariis, sicut sunt venationes, et cetera hujusmodi; et talia spectacula distrahunt animum; unde quamvis possit sine peccato eis intendi, servata discretione debita quantum ad conditiones personae, et aliarum circumstantiarum; tamen poenitenti sunt vitanda propter hoc quod debet cor ad Deum collectum habere, nisi quantum necessitas exposcit.***
+Ad secundam quaestionem dicendum, quod hujusmodi spectacula si sunt rerum turpium, ad peccatum provocantium, studiosa eorum inspectio peccatum est, et quandoque etiam mortale, tanta potest libido adhiberi; unde a tali inspectione omnes se arcere debent, et praecipue poenitentes. Quaedam vero spectacula sunt de rebus utilibus et ad vitam necessariis, sicut sunt venationes, et cetera hujusmodi; et talia spectacula distrahunt animum; unde quamvis possit sine peccato eis intendi, servata discretione debita quantum ad conditiones personae, et aliarum circumstantiarum; tamen poenitenti sunt vitanda propter hoc quod debet cor ad Deum collectum habere, nisi quantum necessitas exposcit.  
 
 Ad primum ergo dicendum, quod poenitentia etiam quaedam utilia resecat, inquantum poenam infert pro culpa praeterita: unde in littera dicitur, quod aliquid sufficit ei qui non peccavit, quod non sufficit ei qui de peccatis poenitentiam agit.  
 
@@ -766,13 +766,13 @@ Ad tertium dicendum, quod ista peccata specialiter ex inepta laetitia procedere 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod officium militiae et negotiationis, et publicanorum, qui vectigalia publica exigunt, ex propinquo habent peccatum annexum, quamvis sine peccato quandoque exerceri possunt. Et quia poenitens debet occasionem peccati vitare satisfaciendo, etiam talia officia laudabile est si evitet; non est tamen de necessitate poenitentiae: quia poenitens non potest omnes peccati occasiones vitare, dum in mundo isto vivit; et ideo sufficit, si peccatum in istis officiis vitet; ut quod miles secundum consilium Joannis, neminem concutiat, et stipendiis justis contentus sit, et non utatur officio militari ad ostentationem, sed ad utilitatem Ecclesiae et reipublicae, et ad exercitium virium; et quod negotiator non habeat conditionem in se, quae ipsum ab officio hoc prohibeat; sicut clericis et monachis non licet negotiari, quamvis liceat propria vendere; et quod tempore debito mercationes faciant, non diebus festivis, et tempore quod caristiam inducere possit, tale officium exerceatur; et modus debitus, ut sine fraude fiat, et secundum licitum contractum. In publicanis autem, ut de auctoritate principis, et causa communis utilitatis, scilicet ad defensionem terrae, et non immoderata recipiantur telonea. Quod autem Gregorius dicit in littera, intelligendum est non quin possint sine peccato fieri, sed quia frequenter ad peccatum implicant.***
+Ad tertiam quaestionem dicendum, quod officium militiae et negotiationis, et publicanorum, qui vectigalia publica exigunt, ex propinquo habent peccatum annexum, quamvis sine peccato quandoque exerceri possunt. Et quia poenitens debet occasionem peccati vitare satisfaciendo, etiam talia officia laudabile est si evitet; non est tamen de necessitate poenitentiae: quia poenitens non potest omnes peccati occasiones vitare, dum in mundo isto vivit; et ideo sufficit, si peccatum in istis officiis vitet; ut quod miles secundum consilium Joannis, neminem concutiat, et stipendiis justis contentus sit, et non utatur officio militari ad ostentationem, sed ad utilitatem Ecclesiae et reipublicae, et ad exercitium virium; et quod negotiator non habeat conditionem in se, quae ipsum ab officio hoc prohibeat; sicut clericis et monachis non licet negotiari, quamvis liceat propria vendere; et quod tempore debito mercationes faciant, non diebus festivis, et tempore quod caristiam inducere possit, tale officium exerceatur; et modus debitus, ut sine fraude fiat, et secundum licitum contractum. In publicanis autem, ut de auctoritate principis, et causa communis utilitatis, scilicet ad defensionem terrae, et non immoderata recipiantur telonea. Quod autem Gregorius dicit in littera, intelligendum est non quin possint sine peccato fieri, sed quia frequenter ad peccatum implicant.  
 
 Et per hoc patet solutio ad objecta.  
 
 Expositio textus  
 
-****Cogit peccatorem omnia libenter ferre*. Intelligendum est de illis quae sunt necessaria ad peccati remissionem; et sic est accommoda distributio.***
+*Cogit peccatorem omnia libenter ferre*. Intelligendum est de illis quae sunt necessaria ad peccati remissionem; et sic est accommoda distributio.  
 
 *Sunt enim tres differentiae peccati* etc. Contra. Omittit peccatum oris.  
 

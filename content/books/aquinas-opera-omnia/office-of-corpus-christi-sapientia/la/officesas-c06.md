@@ -1,5 +1,7 @@
 # Sext
 
+***{see 3rd Lauds Antiphon with Ps Defecit-image-239}***
+
 *Antiphona*. Omnes eandem escam spiritalem manducaverunt et omnes eundem potum spiritalem biberunt; bibebant autem de spiritali consequente eos petra: petra autem erat Christus, alleluia.  
 
 Psalmus 118: 81–128  
@@ -8,7 +10,7 @@ Psalmus 118: 81–128
 
 > Capitulum
 
-***Quotienscumque manducabitis panem hunc et calicem bibetis: mortem Domini annuntiabitis donec veniat.***
+Quotienscumque manducabitis panem hunc et calicem bibetis: mortem Domini annuntiabitis donec veniat.  
 
 > Responsorium
 

@@ -1,5 +1,7 @@
 # Articles 1-3
 
+***Prima ergo quaestio fuit, an stella quae magis apparuit, haberet figuram crucis.***
+
 Secunda, an haberet figuram hominis.  
 
 Tertia an haberet figuram crucifixi.  

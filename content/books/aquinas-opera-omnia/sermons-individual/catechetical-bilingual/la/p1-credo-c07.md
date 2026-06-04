@@ -1,6 +1,8 @@
 # A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty
 
-***Post Christi resurrectionem oportet credere eius ascensionem, qua in caelum ascendit die quadragesima. Et ideo dicit: ***ascendit ad caelos***.***
+***Ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis***
+
+Post Christi resurrectionem oportet credere eius ascensionem, qua in caelum ascendit die quadragesima. Et ideo dicit: ***ascendit ad caelos***.  
 
 Circa quod debes notare tria. Primo scilicet quod fuit sublimis, rationalis, et utilis.  
 

@@ -1,5 +1,8 @@
 # Matins
 
+***[℣. Domine, labia mea aperies.***
+***℟. Et os meum annuntiabit laudem tuam.***
+
 ℣. Deus in adiutorium meum intende.  
 ℟. Domine, ad adiuvandum me festina.  
 
@@ -15,7 +18,7 @@ Invitatorium
 
 Contra *Christum regem regum adoremus* de sancto Andrea.  
 
-***Venite, exsultemus Domino; iubilemus Deo salutari nostro; praeoccupemus faciem eius in confessione, et in psalmis iubilemus ei: * ℟. *Ant*.***
+Venite, exsultemus Domino; iubilemus Deo salutari nostro; praeoccupemus faciem eius in confessione, et in psalmis iubilemus ei: * ℟. *Ant*.  
 
 > quoniam Deus magnus Dominus, et Rex magnus super omnes deos; quia in manu eius sunt omnes fines terrae, et altitudines montium ipsius sunt; * ℟. *Ant*.
 
@@ -74,7 +77,7 @@ Contra *Granum cadens* de sancto Thoma.
 
 ***Psalmus 1***
 
-***Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, * et in cathedra pestilentiae non sedit;***
+Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non stetit, * et in cathedra pestilentiae non sedit;  
 
 > sed in lege Domini voluntas eius, * et in lege eius meditabitur die ac nocte.
 
@@ -100,7 +103,7 @@ Contra *Novus homo* de sancto Thoma.
 
 ***Psalmus 4***
 
-***Cum invocarem exaudivit me Deus iustitiae meae, * in tribulatione dilatasti mihi.***
+Cum invocarem exaudivit me Deus iustitiae meae, * in tribulatione dilatasti mihi.  
 
 > Miserere mei, * et exaudi orationem meam.
 
@@ -132,7 +135,7 @@ Contra *Crescente aetate* de sancto Bernardo.
 
 ***Psalmus 15***
 
-***Conserva me, Domine, quoniam speravi in te. * Dixi Domino: Deus meus es tu, quoniam bonorum meorum non eges.***
+Conserva me, Domine, quoniam speravi in te. * Dixi Domino: Deus meus es tu, quoniam bonorum meorum non eges.  
 
 > Sanctis, qui sunt in terra eius, * mirificavit omnes voluntates meas in eis.
 
@@ -178,7 +181,7 @@ Lectio prima
 
 ***[Thomas de Aquino]***
 
-***Immensa divinae largitatis beneficia, exhibita populo Christiano inaestimabilem ei conferunt dignitatem. Neque enim est aut fuit aliquando tam grandis natio quae habeat deos appropinquantes sibi, sicut adest nobis Deus noster. Unigenitus siquidem Dei Filius suae divinitatis volens nos esse participes, naturam nostram assumpsit, ut homines deos faceret factus homo. Et hoc insuper quod de nostro assumpsit totum nobis contulit ad salutem. Corpus namque suum pro nostra reconciliatione in ara Crucis hostiam obtulit Deo Patri, sanguinem suum fudit in pretium simul et lavacrum, ut redempti a miserabili servitute a peccatis omnibus mundaremur. Et ut tanti beneficii iugis in nobis maneret memoria, Corpus suum in cibum et Sanguinem suum in potum sub specie panis et vini sumendum fidelibus dereliquit. O pretiosum et admirandum convivium salutiferum et omni suavitate repletum. Quid enim hoc convivio pretiosius esse potest, in quo non carnes vitulorum et hircorum ut olim in lege, sed nobis Christus sumendus proponitur verus Deus? Quid hoc sacramento mirabilius? In ipso namque panis et vinum in Corpus Christi et Sanguinem substantialiter convertuntur. Ideoque Christus, Deus et homo perfectus, sub modici panis specie continetur.***
+Immensa divinae largitatis beneficia, exhibita populo Christiano inaestimabilem ei conferunt dignitatem. Neque enim est aut fuit aliquando tam grandis natio quae habeat deos appropinquantes sibi, sicut adest nobis Deus noster. Unigenitus siquidem Dei Filius suae divinitatis volens nos esse participes, naturam nostram assumpsit, ut homines deos faceret factus homo. Et hoc insuper quod de nostro assumpsit totum nobis contulit ad salutem. Corpus namque suum pro nostra reconciliatione in ara Crucis hostiam obtulit Deo Patri, sanguinem suum fudit in pretium simul et lavacrum, ut redempti a miserabili servitute a peccatis omnibus mundaremur. Et ut tanti beneficii iugis in nobis maneret memoria, Corpus suum in cibum et Sanguinem suum in potum sub specie panis et vini sumendum fidelibus dereliquit. O pretiosum et admirandum convivium salutiferum et omni suavitate repletum. Quid enim hoc convivio pretiosius esse potest, in quo non carnes vitulorum et hircorum ut olim in lege, sed nobis Christus sumendus proponitur verus Deus? Quid hoc sacramento mirabilius? In ipso namque panis et vinum in Corpus Christi et Sanguinem substantialiter convertuntur. Ideoque Christus, Deus et homo perfectus, sub modici panis specie continetur.  
 
 Responsorium  
 
@@ -197,7 +200,7 @@ Lectio secunda
 
 ***[Thomas de Aquino]***
 
-***Manducatur utique a fidelibus, sed minime laceratur, quinimmo diviso sacramento integer sub qualibet divisionis particula perseverat. Accidentia etiam sine subiecto in eodem existunt, ut fides locum habeat dum visibile invisibiliter sumitur, aliena specie occultatum, et sensus a deceptione immunes reddantur qui de accidentibus iudicant sibi notis. Nullum etiam sacramentum est isto salubrius quo purgantur peccata, virtutes augentur, et mens omnium spiritualium charismatum abundantia inpinguatur. Offertur in Ecclesia pro vivis et mortuis, ut omnibus prosit quod est pro salute omnium institutum.***
+Manducatur utique a fidelibus, sed minime laceratur, quinimmo diviso sacramento integer sub qualibet divisionis particula perseverat. Accidentia etiam sine subiecto in eodem existunt, ut fides locum habeat dum visibile invisibiliter sumitur, aliena specie occultatum, et sensus a deceptione immunes reddantur qui de accidentibus iudicant sibi notis. Nullum etiam sacramentum est isto salubrius quo purgantur peccata, virtutes augentur, et mens omnium spiritualium charismatum abundantia inpinguatur. Offertur in Ecclesia pro vivis et mortuis, ut omnibus prosit quod est pro salute omnium institutum.  
 
 Suavitatem denique huiusmodi sacramenti nullus exprimere sufficit, per quod spiritualis dulcedo in suo fonte gustatur, et recolitur memoria illius quam in sua Passione Christus monstravit excellentissimae caritatis. Unde ut arctius huiusmodi caritatis immensitas cordibus infigeretur fidelium in ultima Cena quando Pascha cum discipulis celebrato, transiturus erat ex hoc mundo ad Patrem, hoc sacramentum instituit tamquam Passionis suae memoriale perenne, figurarum veterum impletivum, miraculorum ab ipso factorum maximum, et de sua contristatis absentia solatium singulare.  
 
@@ -218,7 +221,7 @@ Lectio tertia
 
 ***[Thomas de Aquino]***
 
-***Convenit itaque devotioni fidelium solemniter recolere institutionem tam salutiferi tamque mirabilis sacramenti, ut ineffabilem modum divinae praesentiae in sacramento visibili veneremur, et laudetur Dei potentia quae in sacramento eodem tot mirabilia operatur, nec non et de tam salubri tamque suavi beneficio exsolvantur Deo gratiarum debitae actiones. Verum et si in die Cenae quando sacramentum praedictum noscitur institutum inter Missarum solemnia de institutione ipsius specialis mentio habeatur, totum tamen residuum eiusdem diei officium ad Christi Passionem pertinet, circa cuius venerationem Ecclesia illo tempore occupatur. Unde ut integro celebritatis officio institutionem tanti sacramenti solemniter recoleret plebs fidelis, Romanus pontifex Urbanus quartus, huius sacramenti devotione affectus, pie statuit praefatae institutionis memoriam prima feria quinta post octavas Pentecostes a cunctis fidelibus celebrari, ut qui per totum anni circulum hoc sacramento utimur ad salutem, eius institutionem illo specialiter tempore recolamus, quo Spiritus Sanctus discipulorum corda edocuit ad plene cognoscenda huius mysteria sacramenti. Nam et in eodem tempore coepit hoc sacramentum a fidelibus frequentari. Legitur enim in Actibus Apostolorum, quod erant perseverantes in doctrina apostolorum et communicatione fractionis panis et orationibus, statim post Sancti Spiritus missionem. Ut autem praedicta quinta feria et per octavas sequentes eiusdem salutaris institutionis honorificentius agatur memoria et solemnitas de hoc celebrior habeatur loco distributionum materialium quae in ecclesiis cathedralibus largiuntur existentibus canonicis horis nocturnis pariterque diurnis praefatus Romanus pontifex eis qui huiusmodi horis in hac solemnitate personaliter in ecclesiis interessent stipendia spiritualia apostolica largitione concessit, quatinus per haec fideles ad tanti festi celebritatem avidius et copiosius convenirent. Unde omnibus vere poenitentibus et confessis qui Matutinali officio huius festi praesentialiter in ecclesia ubi celebraretur adessent centum. Qui vero Missae totidem. Illis autem qui interessent in primis ipsius festi Vesperis similiter centum. Qui vero in secundis totidem. Eis quoque qui Primae, Tertiae, Sextae, Nonae ac Completorii adessent officiis, pro qualibet horarum ipsarum quadraginta. Illis vero qui per ipsius festi octavas in Matutinalibus, Vespertinis, Missae ac praedictarum horarum officiis praesentes existerent singulis diebus octavarum ipsarum, centum dierum indulgentiam misericorditer tribuit perpetuis temporibus duraturam.***
+Convenit itaque devotioni fidelium solemniter recolere institutionem tam salutiferi tamque mirabilis sacramenti, ut ineffabilem modum divinae praesentiae in sacramento visibili veneremur, et laudetur Dei potentia quae in sacramento eodem tot mirabilia operatur, nec non et de tam salubri tamque suavi beneficio exsolvantur Deo gratiarum debitae actiones. Verum et si in die Cenae quando sacramentum praedictum noscitur institutum inter Missarum solemnia de institutione ipsius specialis mentio habeatur, totum tamen residuum eiusdem diei officium ad Christi Passionem pertinet, circa cuius venerationem Ecclesia illo tempore occupatur. Unde ut integro celebritatis officio institutionem tanti sacramenti solemniter recoleret plebs fidelis, Romanus pontifex Urbanus quartus, huius sacramenti devotione affectus, pie statuit praefatae institutionis memoriam prima feria quinta post octavas Pentecostes a cunctis fidelibus celebrari, ut qui per totum anni circulum hoc sacramento utimur ad salutem, eius institutionem illo specialiter tempore recolamus, quo Spiritus Sanctus discipulorum corda edocuit ad plene cognoscenda huius mysteria sacramenti. Nam et in eodem tempore coepit hoc sacramentum a fidelibus frequentari. Legitur enim in Actibus Apostolorum, quod erant perseverantes in doctrina apostolorum et communicatione fractionis panis et orationibus, statim post Sancti Spiritus missionem. Ut autem praedicta quinta feria et per octavas sequentes eiusdem salutaris institutionis honorificentius agatur memoria et solemnitas de hoc celebrior habeatur loco distributionum materialium quae in ecclesiis cathedralibus largiuntur existentibus canonicis horis nocturnis pariterque diurnis praefatus Romanus pontifex eis qui huiusmodi horis in hac solemnitate personaliter in ecclesiis interessent stipendia spiritualia apostolica largitione concessit, quatinus per haec fideles ad tanti festi celebritatem avidius et copiosius convenirent. Unde omnibus vere poenitentibus et confessis qui Matutinali officio huius festi praesentialiter in ecclesia ubi celebraretur adessent centum. Qui vero Missae totidem. Illis autem qui interessent in primis ipsius festi Vesperis similiter centum. Qui vero in secundis totidem. Eis quoque qui Primae, Tertiae, Sextae, Nonae ac Completorii adessent officiis, pro qualibet horarum ipsarum quadraginta. Illis vero qui per ipsius festi octavas in Matutinalibus, Vespertinis, Missae ac praedictarum horarum officiis praesentes existerent singulis diebus octavarum ipsarum, centum dierum indulgentiam misericorditer tribuit perpetuis temporibus duraturam.  
 
 Responsorium  
 
@@ -302,7 +305,7 @@ Contra *O quam gloriosum est regnum* de Omnibus Sanctis.
 
 ***Psalmus 41***
 
-***Quemadmodum desiderat cervus ad fontes aquarum, * ita desiderat anima mea ad te, Deus.***
+Quemadmodum desiderat cervus ad fontes aquarum, * ita desiderat anima mea ad te, Deus.  
 
 > Sitivit anima mea ad Deum fortem, vivum; * quando veniam, et apparebo ante faciem Dei?
 
@@ -358,7 +361,7 @@ Lectio quarta
 
 ***[Gratian, *De consecratione*, dist. II, can. 69, beginning]***
 
-***Huius sacramenti figura praecessit, quando manna pluit Deus patribus in deserto, qui cotidiano caeli pascebantur alimento. Unde dictum est: *panem angelorum manducavit homo*. Sed tamen panem illum qui manducaverunt, omnes in deserto mortui sunt. Ista autem esca quam accipitis, iste panis vivus qui de caelo descendit, vitae aeternae substantiam ministrat. Et quicumque hunc panem manducaverit non morietur in aeternum, quia Corpus Christi est. Considera utrum nunc praestantior sit panis angelorum an Caro Christi, quae utique est corpus vitae. Manna illud de caelo, hoc super coelum. Illud caeli, hoc Domini caelorum. Illud corruptioni obnoxium, si in diem alterum servaretur, hoc alienum ab omni corruptione. Quicumque religiose gustaverit, corruptionem sentire non poterit. Illis aqua de petra fluxit, tibi Sanguis ex Christo. Illos ad horam satiavit aqua, te Sanguis diluit in aeternum. Iudaeus bibit et sitit; tu cum biberis sitire non poteris. Et illud in umbra, hoc in veritate. Si illud quod miraris umbra est, quantum istud est cuius umbram miraris? Audi quia umbra est, quae apud patres facta est: *bibebant*, inquit, *de spirituali consequente eos petra, petra autem erat Christus. Sed non in pluribus eorum complacitum est Deo. Nam prostrati sunt in deserto. Haec autem facta sunt in figura nostri*. Cognovisti potiora. Potior est enim lux quam umbra, veritas quam figura, Corpus auctoris quam manna de caelo.***
+Huius sacramenti figura praecessit, quando manna pluit Deus patribus in deserto, qui cotidiano caeli pascebantur alimento. Unde dictum est: *panem angelorum manducavit homo*. Sed tamen panem illum qui manducaverunt, omnes in deserto mortui sunt. Ista autem esca quam accipitis, iste panis vivus qui de caelo descendit, vitae aeternae substantiam ministrat. Et quicumque hunc panem manducaverit non morietur in aeternum, quia Corpus Christi est. Considera utrum nunc praestantior sit panis angelorum an Caro Christi, quae utique est corpus vitae. Manna illud de caelo, hoc super coelum. Illud caeli, hoc Domini caelorum. Illud corruptioni obnoxium, si in diem alterum servaretur, hoc alienum ab omni corruptione. Quicumque religiose gustaverit, corruptionem sentire non poterit. Illis aqua de petra fluxit, tibi Sanguis ex Christo. Illos ad horam satiavit aqua, te Sanguis diluit in aeternum. Iudaeus bibit et sitit; tu cum biberis sitire non poteris. Et illud in umbra, hoc in veritate. Si illud quod miraris umbra est, quantum istud est cuius umbram miraris? Audi quia umbra est, quae apud patres facta est: *bibebant*, inquit, *de spirituali consequente eos petra, petra autem erat Christus. Sed non in pluribus eorum complacitum est Deo. Nam prostrati sunt in deserto. Haec autem facta sunt in figura nostri*. Cognovisti potiora. Potior est enim lux quam umbra, veritas quam figura, Corpus auctoris quam manna de caelo.  
 
 Responsorium  
 
@@ -377,7 +380,7 @@ Lectio quinta
 
 ***[Gratian, *De consecratione*, dist. II, can. 69 continued]***
 
-***Forte dicis: aliud video. Quomodo tu mihi asseris quod Corpus Christi accipiam? Et hoc nobis super est ut probemus. Quantis igitur utimur exemplis, ut probemus hoc non esse quod natura formavit, sed quod benedictio consecravit, maioremque vim esse benedictionis quam naturae, quia benedictione etiam natura ipsa mutatur? Unde virgam tenebat Moyses, proiecit eam et facta est serpens. Rursus apprehendit caudam serpentis et in virgae naturam revertitur. Vides ergo prophetica gratia bis mutatam naturam esse, et serpentis et virgae. Currebant Aegypti flumina puro meatu aquarum; subito de fontium venis sanguis coepit erumpere, non erat potus in fluviis. Rursus ad prophetae preces cruor fluminum cessavit, aquarum natura remeavit. Circumclusus undique erat populus Hebraeorum, hinc Aegyptiis vallatus, inde mari conclusus. Virgam levavit Moyses, separavit se aqua et in murorum speciem se congelavit, atque inter undas via pedestris apparuit. Iordanis retrorsum conversus, contra naturam in sui fontis revertitur exordium. Nonne claret naturam, vel maritimorum fluctuum, vel cursus fluvialis, esse mutatam? Sitiebat populus patrum, tetigit Moyses petram, et aqua de petra fluxit. Numquid non praeter naturam operata est gratia ut aquam vomeret petra quam non habebat natura?***
+Forte dicis: aliud video. Quomodo tu mihi asseris quod Corpus Christi accipiam? Et hoc nobis super est ut probemus. Quantis igitur utimur exemplis, ut probemus hoc non esse quod natura formavit, sed quod benedictio consecravit, maioremque vim esse benedictionis quam naturae, quia benedictione etiam natura ipsa mutatur? Unde virgam tenebat Moyses, proiecit eam et facta est serpens. Rursus apprehendit caudam serpentis et in virgae naturam revertitur. Vides ergo prophetica gratia bis mutatam naturam esse, et serpentis et virgae. Currebant Aegypti flumina puro meatu aquarum; subito de fontium venis sanguis coepit erumpere, non erat potus in fluviis. Rursus ad prophetae preces cruor fluminum cessavit, aquarum natura remeavit. Circumclusus undique erat populus Hebraeorum, hinc Aegyptiis vallatus, inde mari conclusus. Virgam levavit Moyses, separavit se aqua et in murorum speciem se congelavit, atque inter undas via pedestris apparuit. Iordanis retrorsum conversus, contra naturam in sui fontis revertitur exordium. Nonne claret naturam, vel maritimorum fluctuum, vel cursus fluvialis, esse mutatam? Sitiebat populus patrum, tetigit Moyses petram, et aqua de petra fluxit. Numquid non praeter naturam operata est gratia ut aquam vomeret petra quam non habebat natura?  
 
 Responsorium  
 
@@ -396,7 +399,7 @@ Lectio sexta
 
 ***[Gratian, *De consecratione*, dist. II, can. 69, continued]***
 
-***Marath fluvius amarissimus erat, ut sitiens populus bibere non posset. Moyses misit lignum in aquam, et amaritudinem suam aquarum natura deposuit, quam infusa subito gratia temperavit. Sub Eliseo propheta uni ex filiis prophetarum excussum est ferrum de securi, et statim immersum est. Rogavit Eliseum, qui amiserat ferrum. Misit etiam Eliseus lignum in aquam, et ferrum natavit. Utique etiam hoc praeter naturam factum cognovimus. Gravior est enim ferri species, quam aquarum liquor. Advertimus enim maiorem esse gratiam quam naturam, et adhuc tamen propheticae benedictionis numeramus gratiam. Quod si tantum valuit humana benedictio ut naturam converteret, quid dicimus de ipsa consecratione divina, ubi ipsa verba Domini salvatoris operantur? Nam sacramentum istud quod accipis Christi sermone conficitur. Quod si tantum valuit sermo Eliae, ut ignem de caelo deponeret, non valebit Christi sermo, ut species mutet elementorum?***
+Marath fluvius amarissimus erat, ut sitiens populus bibere non posset. Moyses misit lignum in aquam, et amaritudinem suam aquarum natura deposuit, quam infusa subito gratia temperavit. Sub Eliseo propheta uni ex filiis prophetarum excussum est ferrum de securi, et statim immersum est. Rogavit Eliseum, qui amiserat ferrum. Misit etiam Eliseus lignum in aquam, et ferrum natavit. Utique etiam hoc praeter naturam factum cognovimus. Gravior est enim ferri species, quam aquarum liquor. Advertimus enim maiorem esse gratiam quam naturam, et adhuc tamen propheticae benedictionis numeramus gratiam. Quod si tantum valuit humana benedictio ut naturam converteret, quid dicimus de ipsa consecratione divina, ubi ipsa verba Domini salvatoris operantur? Nam sacramentum istud quod accipis Christi sermone conficitur. Quod si tantum valuit sermo Eliae, ut ignem de caelo deponeret, non valebit Christi sermo, ut species mutet elementorum?  
 
 Responsorium  
 
@@ -418,7 +421,7 @@ Contra *Ascendo ad Patrem meum* de Ascensione.
 
 ***Psalmus 42***
 
-***Iudica me, Deus, et discerne causam meam de gente non sancta, * ab homine iniquo et doloso erue me.***
+Iudica me, Deus, et discerne causam meam de gente non sancta, * ab homine iniquo et doloso erue me.  
 
 > Quia tu es, Deus, fortitudo mea, * quare me repulisti? et quare tristis incedo, dum affligit me inimicus?
 
@@ -484,7 +487,7 @@ Contra *Gloriam mundi sprevit* de sancto Nicholao.
 
 ***Psalmus 83***
 
-***Quam dilecta tabernacula tua, Domine virtutum! * Concupiscit, et deficit anima mea in atria Domini;***
+Quam dilecta tabernacula tua, Domine virtutum! * Concupiscit, et deficit anima mea in atria Domini;  
 
 > cor meum et caro mea * exsultaverunt in Deum vivum.
 
@@ -534,13 +537,13 @@ Evangelium
 
 ***Secundum Ioannem***
 
-***In illo tempore dixit Iesus discipulis suis et turbis Iudaeorum: Caro enim mea vere est cibus et Sanguis meus vere est potus; qui manducat meam Carnem et bibit meum Sanguinem, in me manet, et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui manducat me, et ipse vivet propter me.***
+In illo tempore dixit Iesus discipulis suis et turbis Iudaeorum: Caro enim mea vere est cibus et Sanguis meus vere est potus; qui manducat meam Carnem et bibit meum Sanguinem, in me manet, et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui manducat me, et ipse vivet propter me.  
 
 > Lectio septima
 
-***Omelia beati Augustini episcopi de eadem lectione; [Alcuin, *Commentaria in S. Ioannis evangelium*, bk. 3, ch. XV, vers. 56]***
+Omelia beati Augustini episcopi de eadem lectione; [Alcuin, *Commentaria in S. Ioannis evangelium*, bk. 3, ch. XV, vers. 56]  
 
-***Cum enim cibo et potu id appetant homines ut non esuriant neque sitiant, hoc vere non praestat nisi iste cibus et potus, qui eos a quibus sumitur immortales et incorruptibiles facit, id est societas ipsorum sanctorum, ubi pax erit et unitas plena atque perfecta. Propterea quippe sicut etiam ante nos intellexerunt homines Dei, Dominus noster Iesus Christus Corpus et Sanguinem suum in eis rebus commendavit, quae ad unum aliquid rediguntur. Ex multis namque granis unus panis conficitur, et ex multis racemis vinum confluit.***
+Cum enim cibo et potu id appetant homines ut non esuriant neque sitiant, hoc vere non praestat nisi iste cibus et potus, qui eos a quibus sumitur immortales et incorruptibiles facit, id est societas ipsorum sanctorum, ubi pax erit et unitas plena atque perfecta. Propterea quippe sicut etiam ante nos intellexerunt homines Dei, Dominus noster Iesus Christus Corpus et Sanguinem suum in eis rebus commendavit, quae ad unum aliquid rediguntur. Ex multis namque granis unus panis conficitur, et ex multis racemis vinum confluit.  
 
 Responsorium  
 
@@ -559,7 +562,7 @@ Lectio octava
 
 ***[Alcuin, *Commentaria in S. Ioannis evangelium*, lib. 3, ch. XV, vers. 56–57]***
 
-***Denique iam exponit quomodo id fiat quod loquitur et quid sit manducare Corpus eius et Sanguinem bibere. [Vers. 57] *Et qui manducat meam Carnem et bibit meum Sanguinem in me manet et ego in eo*. Hoc est ergo manducare illam escam et illum bibere potum, in Christo manere, et illum manentem in se habere, ac per hoc qui non manet in Christo, et in quo non manet Christus, procul dubio non manducat spiritualiter eius Carnem, licet carnaliter et visibiliter premat dentibus sacramenta Corporis et Sanguinis Christi, sed magis tantae rei sacramentum ad iudicium sibi manducat et bibit, qui immundus praesumpsit ad Christi accedere sacramenta, quae alius non digne sumit nisi qui mundus est. De quibus dicitur: *beati mundo corde quoniam ipsi Deum videbunt*.***
+Denique iam exponit quomodo id fiat quod loquitur et quid sit manducare Corpus eius et Sanguinem bibere. [Vers. 57] *Et qui manducat meam Carnem et bibit meum Sanguinem in me manet et ego in eo*. Hoc est ergo manducare illam escam et illum bibere potum, in Christo manere, et illum manentem in se habere, ac per hoc qui non manet in Christo, et in quo non manet Christus, procul dubio non manducat spiritualiter eius Carnem, licet carnaliter et visibiliter premat dentibus sacramenta Corporis et Sanguinis Christi, sed magis tantae rei sacramentum ad iudicium sibi manducat et bibit, qui immundus praesumpsit ad Christi accedere sacramenta, quae alius non digne sumit nisi qui mundus est. De quibus dicitur: *beati mundo corde quoniam ipsi Deum videbunt*.  
 
 Responsorium  
 
@@ -578,7 +581,7 @@ Lectio nona
 
 ***[Alcuin, *Commentaria in S. Ioannis evangelium*, lib. 3, ch. XV, vers. 58]***
 
-****Sicut me misit*, inquit, *vivens Pater, et ego vivo propter Patrem. Et qui manducat me, et ipse vivet propter me*. Non enim Filius participatione Patris fit melior, qui est natus aequalis sicut participatione Filii per unitatem Corporis et Sanguinis quam illa manducatio potatioque significat, efficit nos meliores. Vivimus ergo nos propter ipsum manducantes eum, idest ipsum accipientes vitam aeternam, quam non habemus ex nobis. Vivit autem ipse propter Patrem missus ab eo, quia semetipsum exinanivit, factus obediens usque ad signum Crucis. *Sicut misit me vivens Pater, et ego vivo propter Patrem. Et qui manducat me, et ipse vivet propter me*. Ac si diceret: et ego vivo propter Patrem, id est, ut ad illum tamquam ad maiorem referam vitam meam, exinanitio mea fecit in qua me misit. Ut autem quisque vivat propter me participatio facit qui manducat me. Ego itaque humiliatus vivo propter Patrem, ille rectus vivit propter me. Non de ea natura dixit, quia semper est aequalis Patri, sed ea in qua minor factus est Patre de qua etiam superius dixit: *sicut Pater habet vitam in semetipso, sic dedit et Filio vitam habere in semetipso*, id est genuit Filium habentem vitam in semetipso.***
+*Sicut me misit*, inquit, *vivens Pater, et ego vivo propter Patrem. Et qui manducat me, et ipse vivet propter me*. Non enim Filius participatione Patris fit melior, qui est natus aequalis sicut participatione Filii per unitatem Corporis et Sanguinis quam illa manducatio potatioque significat, efficit nos meliores. Vivimus ergo nos propter ipsum manducantes eum, idest ipsum accipientes vitam aeternam, quam non habemus ex nobis. Vivit autem ipse propter Patrem missus ab eo, quia semetipsum exinanivit, factus obediens usque ad signum Crucis. *Sicut misit me vivens Pater, et ego vivo propter Patrem. Et qui manducat me, et ipse vivet propter me*. Ac si diceret: et ego vivo propter Patrem, id est, ut ad illum tamquam ad maiorem referam vitam meam, exinanitio mea fecit in qua me misit. Ut autem quisque vivat propter me participatio facit qui manducat me. Ego itaque humiliatus vivo propter Patrem, ille rectus vivit propter me. Non de ea natura dixit, quia semper est aequalis Patri, sed ea in qua minor factus est Patre de qua etiam superius dixit: *sicut Pater habet vitam in semetipso, sic dedit et Filio vitam habere in semetipso*, id est genuit Filium habentem vitam in semetipso.  
 
 Responsorium  
 
@@ -796,7 +799,7 @@ Contra *Post plurima supplicia martyr alma* de sancta Katharina.
 
 ***Psalmus 104***
 
-***Confitemini Domino, et invocate nomen eius; * annuntiate inter gentes opera eius.***
+Confitemini Domino, et invocate nomen eius; * annuntiate inter gentes opera eius.  
 
 > Cantate ei, et psallite ei; * narrate omnia mirabilia eius.
 
@@ -908,7 +911,7 @@ Lectio decima
 
 ***[Gratian, *De consecratione*, dist. II, can. 69, conclusion]***
 
-***De totius mundi operibus legisti quia *ipse dixit et facta sunt, ipse mandavit et creata sunt*. Sermo igitur qui potuit ex nihilo facere quod non erat, non potuit ea quae sunt in id mutare quod non erant? Non est enim minus dare, quam mutare novas naturas rebus. Sed quid? Cuius argumentis utimur, suis utamur exemplis, Incarnationisque astruamus mysterii veritatem. Numquid naturae usus persensit, cum Dominus Iesus ex Maria nasceretur? Si ordinem quaerimus, viro mixta femina generare consueverat. Liquet igitur quod praeter naturae ordinem virgo generavit. Et hoc quod conficimus, Corpus Christi ex Virgine est. Quid hic quaeris naturae ordinem in Christi Corpore, cum praeter naturam sit ipse Dominus Iesus partus ex Virgine? Vera utique caro Christi quae crucifixa, quae sepulta est. Vere ergo illius Carnis sacramentum est. Ipse clamat Dominus noster Iesus: *hoc est Corpus meum*. Ante benedictionem verborum caelestium, alia species nominatur; post consecrationem, Corpus significatur. Ipse dicit Sanguinem suum. Ante consecrationem aliud dicitur; post consecrationem Sanguis Christi nuncupatur. Tu dicis: amen: hoc est verum est. Quod sermo sonat, affectus sentiat.***
+De totius mundi operibus legisti quia *ipse dixit et facta sunt, ipse mandavit et creata sunt*. Sermo igitur qui potuit ex nihilo facere quod non erat, non potuit ea quae sunt in id mutare quod non erant? Non est enim minus dare, quam mutare novas naturas rebus. Sed quid? Cuius argumentis utimur, suis utamur exemplis, Incarnationisque astruamus mysterii veritatem. Numquid naturae usus persensit, cum Dominus Iesus ex Maria nasceretur? Si ordinem quaerimus, viro mixta femina generare consueverat. Liquet igitur quod praeter naturae ordinem virgo generavit. Et hoc quod conficimus, Corpus Christi ex Virgine est. Quid hic quaeris naturae ordinem in Christi Corpore, cum praeter naturam sit ipse Dominus Iesus partus ex Virgine? Vera utique caro Christi quae crucifixa, quae sepulta est. Vere ergo illius Carnis sacramentum est. Ipse clamat Dominus noster Iesus: *hoc est Corpus meum*. Ante benedictionem verborum caelestium, alia species nominatur; post consecrationem, Corpus significatur. Ipse dicit Sanguinem suum. Ante consecrationem aliud dicitur; post consecrationem Sanguis Christi nuncupatur. Tu dicis: amen: hoc est verum est. Quod sermo sonat, affectus sentiat.  
 
 Responsorium  
 
@@ -925,9 +928,9 @@ Contra *Regnum mundi* de Virginibus.
 
 Lectio undecima  
 
-***[Gratian, *De consecratione*, dist. II, can. 55; Ambrosius, *De sacramentis*, l. IV, cc. 4–5]***
+[Gratian, *De consecratione*, dist. II, can. 55; Ambrosius, *De sacramentis*, l. IV, cc. 4–5]  
 
-***Panis est in altari usitatus ante verba sacramentorum. Ubi accessit consecratio, de pane fit Caro Christi. Quomodo autem potest qui panis est esse Corpus Christi? Consecratio igitur quibus verbis et cuius sermonibus est? Domini Iesu. Nam per reliqua omnia quae dicuntur, laus Deo offertur, oratione petitur pro populo, pro regibus, pro ceteris. Ubi autem sacramentum conficitur, iam non suis sermonibus sacerdos, sed utitur sermonibus Christi. Ergo sermo Christi hoc conficit sacramentum. Quis sermo Christi? Hic nempe quo facta sunt omnia: caelum, terra, maria. Vides ergo quam operatorius sit sermo Christi. Si ergo tanta vis est in sermone Domini nostri Iesu, ut inciperet esse quod non erat, quanto magis operatorius est ut sint quae erant et in aliud convertantur? Et sic quod erat panis ante consecrationem iam Corpus Christi post consecrationem est, quia sermo Christi creaturam mutat, et sic ex pane fit Corpus Christi. Et vinum cum aqua in calice mixtum, fit Sanguis consecratione verbi caelestis.***
+Panis est in altari usitatus ante verba sacramentorum. Ubi accessit consecratio, de pane fit Caro Christi. Quomodo autem potest qui panis est esse Corpus Christi? Consecratio igitur quibus verbis et cuius sermonibus est? Domini Iesu. Nam per reliqua omnia quae dicuntur, laus Deo offertur, oratione petitur pro populo, pro regibus, pro ceteris. Ubi autem sacramentum conficitur, iam non suis sermonibus sacerdos, sed utitur sermonibus Christi. Ergo sermo Christi hoc conficit sacramentum. Quis sermo Christi? Hic nempe quo facta sunt omnia: caelum, terra, maria. Vides ergo quam operatorius sit sermo Christi. Si ergo tanta vis est in sermone Domini nostri Iesu, ut inciperet esse quod non erat, quanto magis operatorius est ut sint quae erant et in aliud convertantur? Et sic quod erat panis ante consecrationem iam Corpus Christi post consecrationem est, quia sermo Christi creaturam mutat, et sic ex pane fit Corpus Christi. Et vinum cum aqua in calice mixtum, fit Sanguis consecratione verbi caelestis.  
 
 Responsorium  
 
@@ -946,7 +949,7 @@ Lectio duodecima
 
 ***[Gratian, *De consecratione*, dist. II, can. 55, concluded]***
 
-***Sed forte dicis: speciem sanguinis non video, sed habet similitudinem. Sicut enim mortis similitudinem assumpsisti, ita etiam Christi similitudinem sanguinis bibis, ut nullus horror cruoris sit, et pretium tamen operetur redemptionis. Didicisti quia Corpus accipis Christi. Vis scire quia verbis caelestibus consecratur? Accipe quae sunt verba. Dicit sacerdos: *fac nobis hanc oblationem adscriptam, rationabilem, [acceptabilem, quod est figura Corporis et Sanguinis Domini nostri Iesu Christi qui pridie quam pateretur, in sanctis manibus suis accepit panem, respexit ad caelum, ad te, sancte Pater, omnipotens aeterne Deus, gratias agens benedixit, fregit, fractumque apostolis suis, et discipulis suis tradidit, dicens: accipite, et edite ex hoc omnes; hoc enim est corpus meum, quod pro multis confringetur. Similiter et calicem postquam coenatum est, pridie quam pateretur, accepit, respexit ad caelum, ad te, sancte Pater, omnipotens aeterne Deus, gratias agens benedixit, apostolis et discipulis suis tradidit, dicens: accipite et bibite ex eo omnes. Hic est enim sanguis meus*.*]****
+Sed forte dicis: speciem sanguinis non video, sed habet similitudinem. Sicut enim mortis similitudinem assumpsisti, ita etiam Christi similitudinem sanguinis bibis, ut nullus horror cruoris sit, et pretium tamen operetur redemptionis. Didicisti quia Corpus accipis Christi. Vis scire quia verbis caelestibus consecratur? Accipe quae sunt verba. Dicit sacerdos: *fac nobis hanc oblationem adscriptam, rationabilem, [acceptabilem, quod est figura Corporis et Sanguinis Domini nostri Iesu Christi qui pridie quam pateretur, in sanctis manibus suis accepit panem, respexit ad caelum, ad te, sancte Pater, omnipotens aeterne Deus, gratias agens benedixit, fregit, fractumque apostolis suis, et discipulis suis tradidit, dicens: accipite, et edite ex hoc omnes; hoc enim est corpus meum, quod pro multis confringetur. Similiter et calicem postquam coenatum est, pridie quam pateretur, accepit, respexit ad caelum, ad te, sancte Pater, omnipotens aeterne Deus, gratias agens benedixit, apostolis et discipulis suis tradidit, dicens: accipite et bibite ex eo omnes. Hic est enim sanguis meus*.*]*  
 
 Inde, omnia illa evangelistae sunt usque ad: *accipite*, sive C*orpus*, sive S*anguinem*. Inde verba Christi sunt: *accipite et bibite ex hoc omnes. Hic est enim Sanguis meus*. Vide singula. *Qui pridie quam pateretur accepit*, inquit, *in sanctis manibus panem*. Antequam consecretur panis est. Ubi autem verba Christi accesserint, Corpus Christi est. Deinde audi dicentem: *accipite et edite ex hoc omnes: hoc est enim Corpus meum*. Et ante verba Christi, calix est vino et aqua plenus. Ubi autem verba Christi operata fuerint, ibi Sanguis efficitur, qui plebem redemit. Ergo vide quam potens est sermo Christi universa convertere. Deinde ipse Iesus testificatur, quod Corpus suum et Sanguinem suum accipiamus, de cuius fide et testificatione dubitare non debemus.  
 

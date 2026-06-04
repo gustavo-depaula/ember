@@ -1,5 +1,7 @@
 # C. 5 - Widows and Priests
 
+***Viduae et Sacerdotes***
+
 ***Lectio 1***
 
 ***Curatura viduarum***
@@ -90,7 +92,7 @@ Lectio 2
 
 ***Sustentandae viduae***
 
-***^5:9^ Vidua eligatur non minus sexaginta annorum, quae fuerit unius viri uxor, [n. 193]***
+^5:9^ Vidua eligatur non minus sexaginta annorum, quae fuerit unius viri uxor, [n. 193]  
 
 > ^5:10^ in operibus bonis testimonium habens, si filios educavit, si hospitio recepit, si sanctorum pedes lavit, si tribulationem patientibus subministravit, si omne opus bonum subsecuta est. [n. 196]
 
@@ -216,7 +218,7 @@ Lectio 3
 
 ***Honoratio presbyterorum***
 
-***^5:17^ Qui bene praesunt presbyteri, duplici honore digni habeantur: maxime qui laborant in verbo et doctrina. [n. 211]***
+^5:17^ Qui bene praesunt presbyteri, duplici honore digni habeantur: maxime qui laborant in verbo et doctrina. [n. 211]  
 
 > ^5:18^ Dicit enim Scriptura: ***Non alligabis os bovi trituranti***. Et: ***Dignus est operarius mercede sua***. [n. 214]
 

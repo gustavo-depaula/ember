@@ -1,8 +1,10 @@
 # Prologue
 
+Get thee home without delay; foregather there and play there, and muse upon thy conceptions.  
+
 > Sirach 32:15–16
 
-*****1**. The zeal for wisdom has the prerogative that by pursuing its task it is the more sufficient unto itself. For in the case of external tasks a man requires the help of a great many, whereas in the contemplation of wisdom, the more someone persists on his own the more effectively he performs. Hence the Sage calls man back to himself in the words cited above, saying: ***get thee home without delay***—that is: let you who are troubled come back from external affairs to your own mind, before one is taken up with something else and is distracted in looking after it. Accordingly, Wisdom 8:16 says: *after entering my house, I will repose with her*, that is, with wisdom.***
+**1**. The zeal for wisdom has the prerogative that by pursuing its task it is the more sufficient unto itself. For in the case of external tasks a man requires the help of a great many, whereas in the contemplation of wisdom, the more someone persists on his own the more effectively he performs. Hence the Sage calls man back to himself in the words cited above, saying: ***get thee home without delay***—that is: let you who are troubled come back from external affairs to your own mind, before one is taken up with something else and is distracted in looking after it. Accordingly, Wisdom 8:16 says: *after entering my house, I will repose with her*, that is, with wisdom.  
 
 **2**. Now just as for the contemplation of wisdom a person must take hold of his mind so as to fill his entire house with the contemplation of wisdom, all the more so must he be completely present inside through his concentration, namely so that it isn’t drawn off into diversions. Hence the Sage adds ***foregather there***, that is, collect your entire concentration in that place. So then, once the inner house is completely cleared out and one is completely dwelling in it through concentration, the Sage sets forth what is to be done, adding ***and play there***.  
 

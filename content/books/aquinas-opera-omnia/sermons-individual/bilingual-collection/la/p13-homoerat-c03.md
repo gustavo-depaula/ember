@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Homo quidam erat dives***, etc.***
+
 Sicut dictum fuit hodie, in verbis istis duae personae introducuntur, scilicet persona domini et persona villici. De domino aliqua dicta sunt; nunc de villico dicemus. Et possumus circa villicum tria considerare, scilicet eius officium, eius abusum et periculum; officium quia villicus fuit; abusum quia dilapidavit bona domini; periculum quia diffamatus est.  
 
 **1.** Dixi quod villici sunt amministratores ut angeli et homines. Et quia homines sumus, dicamus quod homo est cui commissa est cura dispensationis bonorum. Tria committit Dominus homini: seipsum, bona spiritualia et res exteriores.  

@@ -1,10 +1,12 @@
 # On Human Things
 
+***On man, as regards nature***
+
 ***Question 6***
 
 ***Regarding the soul***
 
-***Then there were questions concerning man, regarding nature,Qq. 6–8. grace,Qq. 9–19. and fault.Qq. 20–23.***
+Then there were questions concerning man, regarding nature,Qq. 6–8. grace,Qq. 9–19. and fault.Qq. 20–23.  
 
 About the first, there were three questions:  
 
@@ -20,7 +22,7 @@ Article 1
 
 ***Whether the soul perfects the body immediately or with corporeity mediating***
 
-***First, whether the soul perfects the body immediately, or with corporeity mediating.***
+First, whether the soul perfects the body immediately, or with corporeity mediating.  
 
 I answer that in no body is there another form of the body besides the substantial form.  
 
@@ -56,7 +58,7 @@ Question 7
 
 ***Whether the human intellect knows singulars***
 
-***Then there was a question concerning the knowledge of man, whether the human intellect knows singulars.***
+Then there was a question concerning the knowledge of man, whether the human intellect knows singulars.  
 
 I answer that something is known in two ways: directly and indirectly, namely, reflexively.  
 
@@ -86,7 +88,7 @@ Article 2
 
 ***Whether human words have power to move brutes such as serpents***
 
-***Second, whether human words have power to move brutes such as serpents.Cf. *ST* II-II.96.4, obj. 2, ad 2; cf. Psalm 58:4–5 (57:5–6).***
+Second, whether human words have power to move brutes such as serpents.Cf. *ST* II-II.96.4, obj. 2, ad 2; cf. Psalm 58:4–5 (57:5–6).  
 
 I answer that something can have some power both according to its proper nature and according to the power of a superior cause. For example, a mixture composed of elements has power from the nature of the elements according to the motion of the predominant element;Cf. Aquinas, *Commentary on Aristotle’s On the Soul*, bk. 2, lect. 17, n. 459. it has another power from the heavenly body, just as that steel attracts iron, which is not reducible to an elemental power.  
 
@@ -108,7 +110,7 @@ On man, as regards grace
 
 ***On baptism***
 
-***Then there were questions concerning man as regards grace. And about this there were three questions:***
+Then there were questions concerning man as regards grace. And about this there were three questions:  
 
 first, concerning sacraments;Qq. 9–12.  
 
@@ -134,7 +136,7 @@ Article 1
 
 ***Whether water has power to cleanse***
 
-***Concerning the first, there is a question whether water has power to cleanse, that is, whether it cleanses by its own power, or by concomitant power.***
+Concerning the first, there is a question whether water has power to cleanse, that is, whether it cleanses by its own power, or by concomitant power.  
 
 I answer that the opinion in things of this sort is twofold, not only concerning water, but also concerning all the sacraments of the Church.  
 
@@ -156,7 +158,7 @@ Article 1
 
 ***Whether one not having the care of souls can absolve in the forum of confession***
 
-***And first, whether one not having the care of souls can absolve in the forum of confession.***
+And first, whether one not having the care of souls can absolve in the forum of confession.  
 
 I answer that it is otherwise in the sacrament of penance than in certain other sacraments. For in certain ones he who has been ordained can thereby induce the effect of the sacrament in every case, namely, in those where the effect of the sacraments is a thing existing outside the sacrament. Hence a degraded priest and an excommunicated one, even if he sins, nevertheless consecrates and baptizes, and similarly a bishop consecrates ordinands, because he confers the character. Yet in penance there is not impressed a character nor an effect besides the justification of the penitent, which can only be done through judiciary power. Yet one not having the care of souls does not have this power.  
 
@@ -190,7 +192,7 @@ On the effect of the sacraments
 
 ***Whether compaternity is caused by the preambles to the sacraments***
 
-***Then there was a question concerning the effect of the sacraments, whether compaternityCompaternity is the relationship contracted between the godfather and the biological father of the same person. See *In IV Sent*. 42.1.3, qa. 3, resp.; *Suppl*., q. 56, a. 5, resp. is caused by the preambles to the sacraments, for example by catechesis and things of this sort. And it seems that it is.***
+Then there was a question concerning the effect of the sacraments, whether compaternityCompaternity is the relationship contracted between the godfather and the biological father of the same person. See *In IV Sent*. 42.1.3, qa. 3, resp.; *Suppl*., q. 56, a. 5, resp. is caused by the preambles to the sacraments, for example by catechesis and things of this sort. And it seems that it is.  
 
 Obj. 1: For a certain decretal says that *from the first nourishment of salt**Liber extravagantium decretalium* (*Decretales Gregorii IX*), bk. 4, tit. 11, c. 5, “Contracto,” 2:694–95; Gratian, *Decretum*, P. 2, C. 30, q. 1, c. 1, 1:1096. she cannot be made a wife. Therefore, compaternity is contracted there.  
 
@@ -210,9 +212,9 @@ On the unity of the Church
 
 ***Article 1***
 
-***Whether there is one Church which was in the beginning at the time of the Apostles and which is now***
+Whether there is one Church which was in the beginning at the time of the Apostles and which is now  
 
-***Then there was a question whether there is one Church which was in the beginning at the time of the Apostles and which is now. And it seems that there is not.***
+Then there was a question whether there is one Church which was in the beginning at the time of the Apostles and which is now. And it seems that there is not.  
 
 Obj. 1: Because now it does not use the same rules: for then prelates were without gold and silver *in* their *money belts*.Matthew 10:9.  
 
@@ -258,7 +260,7 @@ Article 1
 
 ***Whether truth is stronger than wine, king, and woman***
 
-***About the first, there was a question whether truth is stronger than wine, king, and woman.***
+About the first, there was a question whether truth is stronger than wine, king, and woman.  
 
 Obj. 1: And it seems that wine is stronger, because it changes man most greatly.  
 
@@ -276,9 +278,9 @@ It must be known, therefore, that a certain changeable thing of man is bodily, a
 
 Article 2  
 
-***Whether one who learns of a remedy, under oath of not communicating it, is held to observe the oath***
+Whether one who learns of a remedy, under oath of not communicating it, is held to observe the oath  
 
-***Second, there is a question whether one who learns of a remedy,Here Aquinas uses the word *experimentum* as a proper word for medicine, which has the same meaning as a “remedy” (cf. s.c.) or “cure” (cf. end of response), which each physician finds in his own experience. under oath of not communicating it, is held to observe the oath. And it seems that he is.***
+Second, there is a question whether one who learns of a remedy,Here Aquinas uses the word *experimentum* as a proper word for medicine, which has the same meaning as a “remedy” (cf. s.c.) or “cure” (cf. end of response), which each physician finds in his own experience. under oath of not communicating it, is held to observe the oath. And it seems that he is.  
 
 Obj. 1: Because one thus obligated ought not to do anything which inclinesCf. above: *Quodlibet V*, q. 13, a. 1, resp. unto the detriment of the one who gave or taught. Yet this would be if he were to communicate to others.  
 
@@ -310,7 +312,7 @@ Article 1
 
 ***Whether the moral virtues are connected***
 
-***About the first there was a question whether the moral virtues are connected. And it seems that they are not.***
+About the first there was a question whether the moral virtues are connected. And it seems that they are not.  
 
 Obj. 1: Because they are acquired through acts, which are divided and distinct.Cf. Albert the Great, *In III Sent*., d. 36, a. 1, s.c. 2, 29:666a. Therefore, one virtue can be acquired without the others.  
 
@@ -338,7 +340,7 @@ Question 15
 
 ***On restitution***
 
-***Then there were questions concerning restitution, which is an act of justice. And about this, there were three questions:***
+Then there were questions concerning restitution, which is an act of justice. And about this, there were three questions:  
 
 first, concerning those men who on account of factions are in exile from cities;  
 
@@ -348,9 +350,9 @@ third, concerning him who consumes another’s property.
 
 Article 1  
 
-***Whether those expelled on account of their factions can demand their goods from those who remain in the city***
+Whether those expelled on account of their factions can demand their goods from those who remain in the city  
 
-***About the first there is a question whether those expelled on account of their factions can demand back their goods from those who remain in the city. And it seems that they cannot.***
+About the first there is a question whether those expelled on account of their factions can demand back their goods from those who remain in the city. And it seems that they cannot.  
 
 Obj. 1: Because many of those in the city were not at fault for their expulsion, and thus some would be punished for the fault of another.  
 
@@ -372,7 +374,7 @@ Article 2
 
 ***Whether he who acquires by prescription in bad faith is held to restitution***
 
-***Second, there is a question whether he who acquires by prescription in bad faith is held unto restitution. And it seems that he is not.***
+Second, there is a question whether he who acquires by prescription in bad faith is held unto restitution. And it seems that he is not.  
 
 Obj. 1: Because the law says that even he who prescribes in bad faith acquires dominion.  
 
@@ -388,7 +390,7 @@ Article 3
 
 ***Whether he who consumes another’s property is held to restitution***
 
-***Third there is a question whether he who consumes another’s property is held unto restitution. And it seems that he is not.***
+Third there is a question whether he who consumes another’s property is held unto restitution. And it seems that he is not.  
 
 Obj. 1: Because he whose property it had been has an action against the consumer,Cf. William of Auxerre, *Summa aurea*, bk. 4, tract. 11, ch. 6, q. 2, a. 4, s.c., 4:300. understand: if the law has a case in prescription.  
 
@@ -418,7 +420,7 @@ Article 1
 
 ***Whether all things which the holy teachers have said are from the Holy Spirit***
 
-***About the first, there was a question whether all things which the holy teachers have said are from the Holy Spirit. And it seems that they are not.***
+About the first, there was a question whether all things which the holy teachers have said are from the Holy Spirit. And it seems that they are not.  
 
 Obj. 1: Because in their sayings there are some false things: for they are sometimes discordant in their expositions. Yet what is dissimilar or dissonant cannot be true, because both parts of a contradiction cannot be true.  
 
@@ -432,13 +434,13 @@ Question 17
 
 ***On the office of preachers***
 
-***Then there were questions concerning preachers. And about this two things were asked.***
+Then there were questions concerning preachers. And about this two things were asked.  
 
 Article 1  
 
-***Whether someone can preach by his own authority, such that it would be licit to preach without the license of the prelate***
+Whether someone can preach by his own authority, such that it would be licit to preach without the license of the prelate  
 
-***First, whether someone can preach by his own authority, such that it would be licit to preach without the license of the prelate. And it seems that he can.***
+First, whether someone can preach by his own authority, such that it would be licit to preach without the license of the prelate. And it seems that he can.  
 
 Obj. 1: Because to preach is to do the good of another; but we ought to work *good unto all* (Gal 6:10).  
 
@@ -456,7 +458,7 @@ Article 2
 
 ***Whether someone prohibited by a secular prince should abandon preaching***
 
-***Second, whether someone prohibited by a secular prince should abandon preaching. And it seems that he should not.***
+Second, whether someone prohibited by a secular prince should abandon preaching. And it seems that he should not.  
 
 Obj. 1: Matthew 10:28: *do not fear those who kill the body*, which is said to preachers. Therefore, they should not abandon preaching from fear of princes.  
 
@@ -484,7 +486,7 @@ Article 3
 
 ***Whether it is licit for preachers to receive alms from usurers***
 
-***Third, whether it is licit for preachers to receive alms from usurers. And it seems that it is.***
+Third, whether it is licit for preachers to receive alms from usurers. And it seems that it is.  
 
 Obj. 1: 1 Corinthians 9:11:Cf. above: *Quodlibet VII*, q. 7, a. 2, resp. *if we sow spiritual things in you*.  
 
@@ -500,9 +502,9 @@ Question 18
 
 ***Article 1***
 
-***Whether someone can hear confessions from an indulgence of the lord pope without the permission of his own prelate***
+Whether someone can hear confessions from an indulgence of the lord pope without the permission of his own prelate  
 
-***Then there was a question concerning the office of confessors, whether someone can hear confession from an indulgence of the lord pope without the permission of his own prelate. And it seems that he cannot.***
+Then there was a question concerning the office of confessors, whether someone can hear confession from an indulgence of the lord pope without the permission of his own prelate. And it seems that he cannot.  
 
 Obj. 1: Because everyone is held to confess *to his proper priest*; therefore, he cannot hear the confession.*Canon 21* of the 4th Lateran Council in 1215; cf. *Liber extravagantium decretalium* (*Decretales Gregorii IX*), bk. 5, tit. 38, c. 12, “Omnis utriusque sexus,” 2:887.  
 
@@ -530,7 +532,7 @@ Question 19
 
 ***Whether a vicar of some place can commit his power to another***
 
-***Then there was a question concerning the office of vicars, whether a vicar of some place can commit his power to another. And it seems that he can.***
+Then there was a question concerning the office of vicars, whether a vicar of some place can commit his power to another. And it seems that he can.  
 
 Obj. 1: Because an effect which has the power of the cause can do whatever the cause can do.  
 
@@ -568,7 +570,7 @@ Article 1
 
 ***Whether it is transferred through the transfer of seed***
 
-***Concerning original sin there was a question whether it is transferred through the transfer of seed.***
+Concerning original sin there was a question whether it is transferred through the transfer of seed.  
 
 I answer that it is, because original sin is the sin of nature and it only touches a person inasmuch as it is in such a nature. Yet the whole human nature is just as one man;Porphyry, *Isagogue* 6.21; cf. *SCG* IV.52. therefore, wherever that nature is discovered, there is the sin of nature, which is original sin.  
 
@@ -580,7 +582,7 @@ On actual sin
 
 ***On the sin of thought***
 
-***Then there was a question concerning actual sin. And first, there were two questions concerning the sin of thought.***
+Then there was a question concerning actual sin. And first, there were two questions concerning the sin of thought.  
 
 Article 1  
 
@@ -630,7 +632,7 @@ Article 2
 
 ***On the retention of superfluities***
 
-***Second, concerning the retention of superfluities, whether he sins who does not give for God what he has as superfluous.***
+Second, concerning the retention of superfluities, whether he sins who does not give for God what he has as superfluous.  
 
 Obj. 1: For Augustine says that he who retains.Cf. above: *Quodlibet VI*, q. 7, a. 1, ad 1–4; *Quodlibet VIII*, q. 6, a. 2; Augustine, *The Lord’s Sermon on the Mount* 1.19–20 (CCSL 35:67–76; PL 34:1257–63); *Enarrationes in Psalmos*, at Psalm 9:17, para. 33 (CCSL 38:73; PL 36:129).  
 
@@ -656,7 +658,7 @@ Article 1
 
 ***On temporal punishment***
 
-***And first, concerning temporal punishment, whether any religious ought to be expelled for a sin concerning religion, if he is prepared to be corrected and to undergo punishment.***
+And first, concerning temporal punishment, whether any religious ought to be expelled for a sin concerning religion, if he is prepared to be corrected and to undergo punishment.  
 
 I answer that the Apostle says: *remove evil from yourselves* (1 Cor 5:13); *a little leaven corrupts* (1 Cor 5:6).Cf. Galatians 5:9.  
 
@@ -666,6 +668,6 @@ Article 2
 
 ***On eternal punishment***
 
-***Second, concerning eternal punishment, whether a soul separated from the body naturally suffers from bodily fire.***
+Second, concerning eternal punishment, whether a soul separated from the body naturally suffers from bodily fire.  
 
 < . . . >

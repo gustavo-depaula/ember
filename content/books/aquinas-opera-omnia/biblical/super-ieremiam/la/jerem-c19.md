@@ -1,6 +1,8 @@
 # C. 17 - Causes of Israel’s obstinance
 
-***^17:1^ Peccatum Juda scriptum est stylo ferreo in ungue adamantino, exaratum super latitudinem cordis eorum, et in cornibus ararum eorum.***
+***Lectio 1***
+
+^17:1^ Peccatum Juda scriptum est stylo ferreo in ungue adamantino, exaratum super latitudinem cordis eorum, et in cornibus ararum eorum.  
 
 > ^17:2^ Cum recordati fuerint filii eorum ararum suarum, et lucorum suorum, lignorumque frondentium, in montibus excelsis,
 
@@ -88,7 +90,7 @@ Secundo ponit responsionem: et ponit duo quae sufficientem faciunt discretionem 
 
 Lectio 2  
 
-***^17:11^ Perdix fovit quae non peperit: fecit divitias, et non in judicio. In dimidio dierum suorum derelinquet eas, et in novissimo suo erit insipiens.***
+^17:11^ Perdix fovit quae non peperit: fecit divitias, et non in judicio. In dimidio dierum suorum derelinquet eas, et in novissimo suo erit insipiens.  
 
 > ^17:12^ Solium gloriae altitudinis a principio, locus sanctificationis nostrae,
 
@@ -130,7 +132,7 @@ Secundo petit incredulis afflictionem in corde ex confusione de culpa, ***confun
 
 Lectio 4  
 
-***^17:19^ Haec dicit Dominus ad me: vade, et sta in porta filiorum populi mei, per quam ingrediuntur reges Juda, et egrediuntur, et in cunctis portis Jerusalem:***
+^17:19^ Haec dicit Dominus ad me: vade, et sta in porta filiorum populi mei, per quam ingrediuntur reges Juda, et egrediuntur, et in cunctis portis Jerusalem:  
 
 > ^17:20^ et dices ad eos: audite verbum Domini, reges Juda, et omnis Juda, cunctique habitatores Jerusalem, qui ingredimini per portas istas.
 
@@ -174,6 +176,6 @@ Tertio comminatur contemnentibus incendium: ***si autem non audieritis . . . suc
 
 Collationes  
 
-***Nota, quod sancti ***fructificant*** per sapientiae contemplationem. Eccl. 6: *quasi is qui arat, et qui seminat, accede ad eam, et sustine bonos fructus illius*. Per caritatis fervorem. Cant. 5: *veniat dilectus meus in hortum suum, ut comedat fructum pomorum suorum*. Per laudis confessionem. Heb. 13: *per ipsum offeramus hostiam laudis semper Deo, idest fructum labiorum confitentium nomini ejus*. Per meritoriam operationem. Psal. 84: *etenim Dominus dabit benignitatem, et terra nostra dabit fructum suum*. Per proximorum conversionem. Joan. 15: *ut eatis, et fructum afferatis, et fructus vester maneat*.***
+Nota, quod sancti ***fructificant*** per sapientiae contemplationem. Eccl. 6: *quasi is qui arat, et qui seminat, accede ad eam, et sustine bonos fructus illius*. Per caritatis fervorem. Cant. 5: *veniat dilectus meus in hortum suum, ut comedat fructum pomorum suorum*. Per laudis confessionem. Heb. 13: *per ipsum offeramus hostiam laudis semper Deo, idest fructum labiorum confitentium nomini ejus*. Per meritoriam operationem. Psal. 84: *etenim Dominus dabit benignitatem, et terra nostra dabit fructum suum*. Per proximorum conversionem. Joan. 15: *ut eatis, et fructum afferatis, et fructus vester maneat*.  
 
 Item notandum, quod ***sequitur*** aliquis Christum per carnis integritatem. Apoc. 14: *virgines enim sunt, et sequuntur agnum quocumque ierit*. Per cordis intentionem. Philip. 3: *sequor si quo modo comprehendam*. Per tribulationis passionem. 1 Petr. 2: *Christus passus est pro nobis vobis relinquens exemplum, ut sequamini vestigia ejus*. Per mandatorum observationem Job 23: *vestigia ejus secutus est pes meus, viam ejus custodivi et non declinavi ex ea*. Per gloriae receptionem. Eccli. 25: *magna gloria est sequi Dominum; longitudo enim dierum assumetur ab eo*.

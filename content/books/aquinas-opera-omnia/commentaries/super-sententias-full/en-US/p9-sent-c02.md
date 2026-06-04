@@ -1,6 +1,8 @@
 # D. 27 - On the cause of marriage
 
-***After the Master has considered the institution of marriage and its signification, here he begins to examine its causes; and this is divided into two parts: the first, concerning the constituent causes of marriage; the second, concerning the causes ennobling it in Distinction 31 where he says: *after these matters we must speak of the goods of marriage: what they are, and how they excuse coitus*.*Sententiae* IV, 31.1 (182). 1.***
+***On the cause of marriage***
+
+After the Master has considered the institution of marriage and its signification, here he begins to examine its causes; and this is divided into two parts: the first, concerning the constituent causes of marriage; the second, concerning the causes ennobling it in Distinction 31 where he says: *after these matters we must speak of the goods of marriage: what they are, and how they excuse coitus*.*Sententiae* IV, 31.1 (182). 1.  
 
 The first part is divided into two: in the first, he determines the efficient cause of marriage; in the second, its final cause, around the end of Distinction 30, where it says: *after expounding what the efficient cause of marriage is, it remains to show the cause for which marriage is, or ought to be, contracted*.*Sent*. IV, 30.3 (180). 1.  
 
@@ -34,7 +36,7 @@ first, what matrimony is;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question, we proceed thus. It seems that marriage is not a kind of union. For the bond by which things are bound, differs from the union itself as a cause from its effect. But marriage is a kind of bond by which those joined in marriage are bound. Therefore, it is not a kind of union.***
+Obj. 1: To the first question, we proceed thus. It seems that marriage is not a kind of union. For the bond by which things are bound, differs from the union itself as a cause from its effect. But marriage is a kind of bond by which those joined in marriage are bound. Therefore, it is not a kind of union.  
 
 Obj. 2: Furthermore, every sacrament is a sensible sign. But no relation is a sensible accident. Therefore, marriage, since it is a sacrament, will not be in the genus of relation; and so it will also not be in the genus of union.  
 
@@ -46,7 +48,7 @@ Furthermore (2), the union of two into one only happens by a union. But this hap
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that matrimony is inappropriately named. For a thing should be named from what is more noble. But a father has greater dignity than a mother. Therefore, the union of the two should rather be named from the father than from the mother.***
+Obj. 1: Moreover, it seems that matrimony is inappropriately named. For a thing should be named from what is more noble. But a father has greater dignity than a mother. Therefore, the union of the two should rather be named from the father than from the mother.  
 
 Obj. 2: Furthermore, a thing should be named from what belongs to its essence; since the account that the name signifies is the definition, as is said in Book 4 of the *Metaphysics*.Aristotle, *Metaphysics*, Bk. IV, ch. 7 (1012a23). But nuptials do not belong to the essence of marriage. Therefore, matrimony should not be called nuptials.  
 
@@ -56,7 +58,7 @@ On the contrary, this is the common way that people speak.
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it is unfittingly defined in the text. For in the definition of ‘husband’, it is necessary that marriage be included: for a husband is one who is joined to a wife in marriage. But he includes marital union in the definition of matrimony. And therefore it seems that these definitions are circular.***
+Obj. 1: Moreover, it seems that it is unfittingly defined in the text. For in the definition of ‘husband’, it is necessary that marriage be included: for a husband is one who is joined to a wife in marriage. But he includes marital union in the definition of matrimony. And therefore it seems that these definitions are circular.  
 
 Obj. 2: Furthermore, just as a man is made the husband of his wife through marriage, so also a woman is made the wife of her husband. Therefore, it should not be called a ‘marital union’ rather than an ‘uxorial union’.  
 
@@ -66,7 +68,7 @@ Obj. 4: Furthermore, other definitions given for marriage are found. For accordi
 
 Response to Quaestiuncula 1  
 
-***I answer that, union conveys a certain uniting together; and thus wherever there is a uniting of certain things together, there is some kind of union. Now, things that are ordered to some one thing are said to be united together in their ordering to it; as when many men are united for carrying out one military expedition or one business affair, by that fact they are called fellow soldiers or business partners. And so, since by marriage two people are ordered to one single generation and education of children, and also to one single domestic life, it is clear that in marriage there is a union, because of which a man and a woman are called ‘husband’ and ‘wife’; and such a union, by the fact that it is ordained to some one thing, is marriage. Moreover, the union of bodies or of souls follows upon marriage.***
+I answer that, union conveys a certain uniting together; and thus wherever there is a uniting of certain things together, there is some kind of union. Now, things that are ordered to some one thing are said to be united together in their ordering to it; as when many men are united for carrying out one military expedition or one business affair, by that fact they are called fellow soldiers or business partners. And so, since by marriage two people are ordered to one single generation and education of children, and also to one single domestic life, it is clear that in marriage there is a union, because of which a man and a woman are called ‘husband’ and ‘wife’; and such a union, by the fact that it is ordained to some one thing, is marriage. Moreover, the union of bodies or of souls follows upon marriage.  
 
 Reply Obj. 1: Marriage is the bond by which they are bound formally, not effectively; and thus it is not necessary that it be anything other than the union.  
 
@@ -76,7 +78,7 @@ Reply Obj. 3: A relation is founded on something as its cause, as similarity is 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in marriage there are three things to consider. First, its essence, which is a union; and with regard to this it is *conjugal*. Second, its cause, which is the marriage promise; and with regard to this it is called *nuptials* from *nubere*, to veil, for in the ceremony of the marriage promise, which brings about the marriage, the heads of those marrying are veiled. Third, the effect, which is children; and thus it is called *matrimony*, as Augustine says against Faustus, *on account of this, that a woman should not marry for anything else, except so that she might be a mother*.Augustine, *Contra Faustum*, Bk. 19, ch. 26: “Matrimonium quippe ex hoc appellatum est, quod non ob aliud debeat femina nubere, quam ut mater fiat” (CSEL 25:529). It can also be called matrimony, as though from *matris munium*, that is, the mother’s office: for the office of educating the children falls mostly to women. Or it is called matrimony, as if *matrem muniens* (fortifying the mother): for now she has what will defend and fortify her, namely, a husband. Or it is called matrimony, as if *matrem monens* (warning the mother), lest she leave her husband, to cleave to another. Or it is called matrimony, as if *materia unius* (matter of one), since it brings about a union for bringing forth one offspring materially, so that it may be called matrimony from *monos* and *materia*. Or it is called matrimony, as Isidore says, from *matre* and *nato (*mother and child), for by marriage, in a certain way, someone is made the mother of a child.See Isidore, *Etymologiarum* (OCT, ed. Lindsay), Bk. 9, ch. 7, par. 13: “Matrona est quae iam nupsit, et dicta matrona, quasi mater nati, uel quia iam mater fieri potest, unde et matrimonium dictum.”***
+To the second question, it should be said that in marriage there are three things to consider. First, its essence, which is a union; and with regard to this it is *conjugal*. Second, its cause, which is the marriage promise; and with regard to this it is called *nuptials* from *nubere*, to veil, for in the ceremony of the marriage promise, which brings about the marriage, the heads of those marrying are veiled. Third, the effect, which is children; and thus it is called *matrimony*, as Augustine says against Faustus, *on account of this, that a woman should not marry for anything else, except so that she might be a mother*.Augustine, *Contra Faustum*, Bk. 19, ch. 26: “Matrimonium quippe ex hoc appellatum est, quod non ob aliud debeat femina nubere, quam ut mater fiat” (CSEL 25:529). It can also be called matrimony, as though from *matris munium*, that is, the mother’s office: for the office of educating the children falls mostly to women. Or it is called matrimony, as if *matrem muniens* (fortifying the mother): for now she has what will defend and fortify her, namely, a husband. Or it is called matrimony, as if *matrem monens* (warning the mother), lest she leave her husband, to cleave to another. Or it is called matrimony, as if *materia unius* (matter of one), since it brings about a union for bringing forth one offspring materially, so that it may be called matrimony from *monos* and *materia*. Or it is called matrimony, as Isidore says, from *matre* and *nato (*mother and child), for by marriage, in a certain way, someone is made the mother of a child.See Isidore, *Etymologiarum* (OCT, ed. Lindsay), Bk. 9, ch. 7, par. 13: “Matrona est quae iam nupsit, et dicta matrona, quasi mater nati, uel quia iam mater fieri potest, unde et matrimonium dictum.”  
 
 Reply Obj. 1: Although the father is nobler than the mother, nevertheless, concerning children the mother is more dutiful than the father. Or since the woman was chiefly made for being a help for the man in the area of offspring, but the man was not made for the sake of this, for this reason ‘mother’ belongs more to the notion of matrimony than ‘father.’  
 
@@ -86,7 +88,7 @@ Reply Obj. 3: Sometimes a species is named from what belongs to the genus, becau
 
 Response to Quaestiuncula 3  
 
-***To the third question, it must be said that, as was said above, in marriage three things are to be considered: namely, its cause, its essence, and its effect. And accordingly we find three definitions given for matrimony. For the definition of Hugh touches on the cause, namely consent, and is self-evident. But the definition set forth in the text touches on the essence of marriage, namely, union, and it adds a determinate subject by saying: *between eligible persons*. It also establishes a specifying difference by saying *marital*: for since matrimony is a union that is ordered to one thing, such a union is specified by what it is ordered to; and this is what *maritum* (husband) refers to. It also sets out the power of this union, that it is indissoluble, in saying, *retaining an indivisible custom of life*.***
+To the third question, it must be said that, as was said above, in marriage three things are to be considered: namely, its cause, its essence, and its effect. And accordingly we find three definitions given for matrimony. For the definition of Hugh touches on the cause, namely consent, and is self-evident. But the definition set forth in the text touches on the essence of marriage, namely, union, and it adds a determinate subject by saying: *between eligible persons*. It also establishes a specifying difference by saying *marital*: for since matrimony is a union that is ordered to one thing, such a union is specified by what it is ordered to; and this is what *maritum* (husband) refers to. It also sets out the power of this union, that it is indissoluble, in saying, *retaining an indivisible custom of life*.  
 
 But the other definition touches on the effect to which marriage is ordered, namely, *common life in domestic matters*. And since any community is ordered by some law, for this reason is included the regulating principle of this communion, which is divine and human law: for other communities, such as business associations and military bodies, were instituted by human law alone.  
 
@@ -104,7 +106,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question, we proceed thus.Parallels: below, d. 29, a. 3, qa. 1, ad 1; *De veritate*, q. 28, a. 8, ad 7; *Quodl*. V, q. 8, a. 1. It seems that consent is not the efficient cause of marriage. For sacraments are not from the human will, but from divine institution. But consent belongs to the will. Therefore, it is not the cause of marriage, just as it is not a cause of any other sacraments.***
+Obj. 1: To the second question, we proceed thus.Parallels: below, d. 29, a. 3, qa. 1, ad 1; *De veritate*, q. 28, a. 8, ad 7; *Quodl*. V, q. 8, a. 1. It seems that consent is not the efficient cause of marriage. For sacraments are not from the human will, but from divine institution. But consent belongs to the will. Therefore, it is not the cause of marriage, just as it is not a cause of any other sacraments.  
 
 Obj. 2: Furthermore, the same thing is not a cause of itself. But marriage seems to be nothing other than consent: for the consent itself signifies the union of Christ to the Church. Therefore, consent is not the cause of marriage.  
 
@@ -116,7 +118,7 @@ Furthermore (2), one person does not receive power over what is freely another�
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is not necessary that consent be expressed by words.Parallel: *De forma absolutionis*, ch. 1. For a person is handed over into the power of another by marriage, just as also happens by a religious vow. But a vow obligates with respect to God, even if it is not expressed in words. Therefore, consent also brings about the obligation of marriage even without the expression of words.***
+Obj. 1: Moreover, it seems that it is not necessary that consent be expressed by words.Parallel: *De forma absolutionis*, ch. 1. For a person is handed over into the power of another by marriage, just as also happens by a religious vow. But a vow obligates with respect to God, even if it is not expressed in words. Therefore, consent also brings about the obligation of marriage even without the expression of words.  
 
 Obj. 2: Furthermore, there can be a marriage between people who are not able to express their consent to each other by words, if, for example, they are mute, or speak different languages. Therefore, the expression of consent by words is not required for marriage.  
 
@@ -128,7 +130,7 @@ Furthermore (2), in marriage a contract is made between a man and a woman. But i
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that consent expressed in words concerning the future brings about marriage. For just as the present relates to what is present, so is the future related to what lies in future. But consent expressed by words concerning the present effects marriage in the present. Therefore, consent expressed by words concerning the future effects marriage in the future.***
+Obj. 1: Moreover, it seems that consent expressed in words concerning the future brings about marriage. For just as the present relates to what is present, so is the future related to what lies in future. But consent expressed by words concerning the present effects marriage in the present. Therefore, consent expressed by words concerning the future effects marriage in the future.  
 
 Obj. 2: Furthermore, in marriage a certain obligation is brought about by the words expressing consent, just as in other civil contracts. But in other contracts it makes no difference whether the obligation is undertaken through words about the present or words about the future. Neither therefore does it make a different in marriage.  
 
@@ -140,7 +142,7 @@ Furthermore (2), whoever promises that he will contract something, does not yet 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the expression of consent through words effects marriage even if interior consent is lacking. For no one should be acquitted of fraud and deception according to the laws. But someone who expresses in words consent that he does not have in his heart commits a deception. Therefore, it should not protect him, such that he is rendered free from the obligation of marriage.***
+Obj. 1: Moreover, it seems that the expression of consent through words effects marriage even if interior consent is lacking. For no one should be acquitted of fraud and deception according to the laws. But someone who expresses in words consent that he does not have in his heart commits a deception. Therefore, it should not protect him, such that he is rendered free from the obligation of marriage.  
 
 Obj. 2: Furthermore, mental assent cannot be known to anyone except insofar as it is expressed by words. If, therefore, the expression of words does not suffice, but interior consent is required in both spouses, then neither could know if the other is truly his or her spouse, and thus they will be fornicators whenever they enjoy the rights of marriage.  
 
@@ -152,7 +154,7 @@ Furthermore (2), intention is required in all the sacraments. But someone who do
 
 Response to Quaestiuncula 1  
 
-***I answer that, in all sacraments there is some spiritual activity by means of a material activity that signifies it, just as by the bodily cleansing in baptism an interior spiritual cleansing happens. Therefore, since in marriage there is a certain spiritual union, inasmuch as marriage is a sacrament, and another material one according as it serves an office of nature and of civil life, it is fitting that a spiritual thing be done by divine power through the mediation of a material thing. And so, since the unions in material contracts happen by mutual consent, it is fitting that the matrimonial union also be done in this manner.***
+I answer that, in all sacraments there is some spiritual activity by means of a material activity that signifies it, just as by the bodily cleansing in baptism an interior spiritual cleansing happens. Therefore, since in marriage there is a certain spiritual union, inasmuch as marriage is a sacrament, and another material one according as it serves an office of nature and of civil life, it is fitting that a spiritual thing be done by divine power through the mediation of a material thing. And so, since the unions in material contracts happen by mutual consent, it is fitting that the matrimonial union also be done in this manner.  
 
 Reply Obj. 1: The first cause of the sacraments is divine power, which works our salvation in these things, but the secondary, instrumental causes are material actions having efficacy from divine institution; and this is how consent is the cause in matrimony.  
 
@@ -162,7 +164,7 @@ Reply Obj. 3: Just as marriage is one on the part of that in which the union hap
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as is clear from what was already said, the matrimonial union comes about as do obligations in material contracts. And since material contracts cannot be made unless the contracting parties express their wills to each other with words, therefore, it is also necessary that the consent effecting matrimony be expressed in words, so that the expression of words is related to matrimony as the exterior washing is related to baptism.***
+To the second question, it should be said that, as is clear from what was already said, the matrimonial union comes about as do obligations in material contracts. And since material contracts cannot be made unless the contracting parties express their wills to each other with words, therefore, it is also necessary that the consent effecting matrimony be expressed in words, so that the expression of words is related to matrimony as the exterior washing is related to baptism.  
 
 Reply Obj. 1: In a vow there is no sacramental obligation, but only a spiritual one; and therefore it is not necessary that it be in the mode of material contracts for it to be binding, as it is with marriage.  
 
@@ -172,7 +174,7 @@ Reply Obj. 3: As Hugh of St. Victor says, those who are united must consent to e
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that sacramental causes cause by signifying, which is why they effect what they signify. And since when someone expresses his consent in terms of the future, it does not signify that he contracts marriage, but that he promises he will do it, such an expression of consent does not effect the marriage, but the pledging of it, which is called *betrothal*.***
+To the third question, it should be said that sacramental causes cause by signifying, which is why they effect what they signify. And since when someone expresses his consent in terms of the future, it does not signify that he contracts marriage, but that he promises he will do it, such an expression of consent does not effect the marriage, but the pledging of it, which is called *betrothal*.  
 
 Reply Obj. 1: Consent is expressed in words about the present, and the words are present, and in the present consent is given for the same time. But when consent is made in words concerning the future, the words are present, but consent is given for the future; and therefore it is not for the same time, and because of this it is not the same thing.  
 
@@ -182,7 +184,7 @@ Reply Obj. 3: In the vow of religious profession, an act of spiritual marriage i
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that external washing is related to baptism as the expression of words is related to this sacrament, as was said. Thus, just as when someone receives an external washing while not intending to receive a sacrament, but doing it as a game or trickery, he is not be baptized, in the same way the expression of words without interior consent does not effect matrimony.***
+To the fourth question, it should be said that external washing is related to baptism as the expression of words is related to this sacrament, as was said. Thus, just as when someone receives an external washing while not intending to receive a sacrament, but doing it as a game or trickery, he is not be baptized, in the same way the expression of words without interior consent does not effect matrimony.  
 
 Reply Obj. 1: There are two things here: first, the lack of consent, which one must justify to himself in the court of conscience in order for him not to be bound by the bond of matrimony, although not in the external forum of the Church, in which things are judged according as they are adduced; and second, the deceitful words; and this will stand up neither in the forum of penance nor in the forum of the Church, for in either place it is punished.  
 
@@ -196,7 +198,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question, we proceed thus. It seems that one spouse, even after physical intimacy, can enter religious life against the will of the other spouse. For divine law should favor spiritual things more than human law does. But human law has permitted this. Therefore, much more should divine law have permitted it.***
+Obj. 1: To the third question, we proceed thus. It seems that one spouse, even after physical intimacy, can enter religious life against the will of the other spouse. For divine law should favor spiritual things more than human law does. But human law has permitted this. Therefore, much more should divine law have permitted it.  
 
 Obj. 2: Furthermore, a lesser good does not impede a greater good. But the state of matrimony is a lesser good than the state of religious life, as is clear from 1 Corinthians 7. Therefore, someone should not be impeded by marriage from entering religious life.  
 
@@ -208,7 +210,7 @@ Furthermore (2), no one can licitly infringe upon the rights of another against 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that one of the spouses cannot enter the religious life even before physical intimacy.Parallels: *In IV Sent*. d. 39, a. 4, ad 2; *Super I Cor*. 7, lec. 5. For the indissolubility of marriage belongs to the sacrament of marriage, inasmuch as it signifies the perpetual union of Christ to the Church. But there is a true sacrament of marriage after the words of consent are expressed in terms of the present but before physical intimacy. Therefore, a division cannot be made by one party entering religious life.***
+Obj. 1: Moreover, it seems that one of the spouses cannot enter the religious life even before physical intimacy.Parallels: *In IV Sent*. d. 39, a. 4, ad 2; *Super I Cor*. 7, lec. 5. For the indissolubility of marriage belongs to the sacrament of marriage, inasmuch as it signifies the perpetual union of Christ to the Church. But there is a true sacrament of marriage after the words of consent are expressed in terms of the present but before physical intimacy. Therefore, a division cannot be made by one party entering religious life.  
 
 Obj. 2: Furthermore, in the consent itself, expressed in terms of the present, one spouse transfers power over his own body to the other spouse. Therefore, the debt can be exacted right away, and the other is bound to render it. And therefore one spouse cannot enter into religious life while the other is unwilling.  
 
@@ -218,7 +220,7 @@ On the contrary, according to Jerome, the Lord called John from his wedding.The 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that if a woman’s husband has entered religious life before physical intimacy took place, she cannot marry another. For anything that can remain alongside marriage does not dissolve the matrimonial bond. But the matrimonial bond remains between those who both vow to enter religious life. Therefore, by the fact that one enters religious life, the other is not absolved from the marital bond. But as long as the marital bond remains for one person, he may not marry anyone else. Therefore, etc.***
+Obj. 1: Moreover, it seems that if a woman’s husband has entered religious life before physical intimacy took place, she cannot marry another. For anything that can remain alongside marriage does not dissolve the matrimonial bond. But the matrimonial bond remains between those who both vow to enter religious life. Therefore, by the fact that one enters religious life, the other is not absolved from the marital bond. But as long as the marital bond remains for one person, he may not marry anyone else. Therefore, etc.  
 
 Obj. 2: Furthermore, after entering religious life a man can return to the world before his profession. But then if a woman could marry another after her husband entered religious life, he could also marry another once he returned to the world; which is absurd.  
 
@@ -228,7 +230,7 @@ On the contrary, no one can oblige another to those things that belong to the li
 
 Response to Quaestiuncula 1  
 
-***I answer that, no one can make an offering to God from what belongs to someone else. Therefore, since in a consummated marriage the body of the man has already become his wife’s, he cannot offer himself to God by a vow of continence without her consent.***
+I answer that, no one can make an offering to God from what belongs to someone else. Therefore, since in a consummated marriage the body of the man has already become his wife’s, he cannot offer himself to God by a vow of continence without her consent.  
 
 Reply Obj. 1: Human law considered marriage only as it is an office, but divine law considers it according as it is a sacrament, by which it has absolute indissolubility; and therefore, they are not the same.  
 
@@ -238,7 +240,7 @@ Reply Obj. 3: In every religious community marriage is contracted with one perso
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that before physical intimacy there is only a spiritual bond between the spouses, but after it there is a physical bond between them as well. And therefore, just as after physical intimacy, marriage is dissolved by physical death, so also it is dissolved before physical intimacy by entrance into religious life: for the religious life is a certain spiritual death, by which someone, dying to the world, lives for God.***
+To the second question, it should be said that before physical intimacy there is only a spiritual bond between the spouses, but after it there is a physical bond between them as well. And therefore, just as after physical intimacy, marriage is dissolved by physical death, so also it is dissolved before physical intimacy by entrance into religious life: for the religious life is a certain spiritual death, by which someone, dying to the world, lives for God.  
 
 Reply Obj. 1: Before physical intimacy marriage signifies the union of Christ to the soul by grace; which indeed is dissolved by a contrary spiritual disposition, namely, sin. But by physical intimacy is signified his union with the Church by the assumption of human nature into the unity of his person, which is indivisible in every way.  
 
@@ -248,7 +250,7 @@ Reply Obj. 3: The matrimonial union before physical intimacy is something imperf
 
 Response to Quaestiuncula 3  
 
-***To the third question, it must be said that just as the bodily death of a man dissolves the matrimonial bond so that the wife may marry whomever she wishes, according to the statement of the Apostle, so also after the spiritual death of the man by entry into religious life, she could marry whomever she wanted.***
+To the third question, it must be said that just as the bodily death of a man dissolves the matrimonial bond so that the wife may marry whomever she wishes, according to the statement of the Apostle, so also after the spiritual death of the man by entry into religious life, she could marry whomever she wanted.  
 
 Reply Obj. 1: When both vow continence by equivalent vows, then neither renounces the conjugal bond, and thus it continues to endure afterward. But when only one makes the vow, then as far as in him lies he renounces the conjugal bond, and that is why the other is loosed from this bond.  
 
@@ -270,7 +272,7 @@ first, what betrothals are;
 
 ***What betrothals are***
 
-***Obj. 1: To the first question, we proceed thus. It seems that betrothals are not fittingly called the promise of a future wedding, as we have from the words of Pope Nicholas.See *Decretals*, pt. 2, cause 30, q. 5, ch. 3 (PL 187:1448). For as Isidore says, someone is not a spouse because he promises, but because he pledges himself and gives sureties of his pledge.The Latin wordplay is impossible to capture in English. See Isidore, *Etymologiarum* (OCT, ed. Lindsay), Bk. 9, ch. 7. But after the betrothal, one is called a spouse. Therefore, it is misnamed a promise.***
+Obj. 1: To the first question, we proceed thus. It seems that betrothals are not fittingly called the promise of a future wedding, as we have from the words of Pope Nicholas.See *Decretals*, pt. 2, cause 30, q. 5, ch. 3 (PL 187:1448). For as Isidore says, someone is not a spouse because he promises, but because he pledges himself and gives sureties of his pledge.The Latin wordplay is impossible to capture in English. See Isidore, *Etymologiarum* (OCT, ed. Lindsay), Bk. 9, ch. 7. But after the betrothal, one is called a spouse. Therefore, it is misnamed a promise.  
 
 Obj. 2: Furthermore, whoever promises something should be compelled to keep his promise. But people who contract a betrothal are not compelled by the Church to contract a marriage. Therefore, a betrothal is not a promise.  
 
@@ -302,7 +304,7 @@ Article 2
 
 ***Who can contract a betrothal***
 
-***Obj. 1: To the second question, we proceed thus. It seems that the age of seven years is not fittingly assigned for contracting betrothals. For a contract that can be made by others does not require discretion in the parties that it pertains to. But betrothals can be made by parents, without the knowledge of either of the betrothed. Therefore, betrothals can happen just as well before seven years as after.***
+Obj. 1: To the second question, we proceed thus. It seems that the age of seven years is not fittingly assigned for contracting betrothals. For a contract that can be made by others does not require discretion in the parties that it pertains to. But betrothals can be made by parents, without the knowledge of either of the betrothed. Therefore, betrothals can happen just as well before seven years as after.  
 
 Obj. 2: Furthermore, the use of reason is required for someone to contract a betrothal, just as also for the act of consent in a mortal sin. But as Gregory tells in the Fourth Dialogue, a certain boy was destroyed by the devil because of the sin of blasphemy.Gregory the Great, *Dialogorum*, Bk. 4, ch. 19 (SChr 265); the same passage in PL 77:349 is given as ch. 18. Therefore, even before the age of seven years a betrothal may be contracted.  
 
@@ -338,7 +340,7 @@ Article 3
 
 ***Whether betrothals can be dissolved***
 
-***Obj. 1: To the third question, we proceed thus. It seems that a betrothal cannot be dissolved by one member entering religious life. For when I have promised money to someone, I cannot licitly contract a debt to someone else. But that person who contracts a betrothal promises his body to the woman. Therefore, he cannot further offer himself to God in the religious life.***
+Obj. 1: To the third question, we proceed thus. It seems that a betrothal cannot be dissolved by one member entering religious life. For when I have promised money to someone, I cannot licitly contract a debt to someone else. But that person who contracts a betrothal promises his body to the woman. Therefore, he cannot further offer himself to God in the religious life.  
 
 Obj. 2: Again, it seems that neither should it be dissolved when one of the betrothed transfers himself to a distant region. For in doubtful matters, the safer part is to be chosen. But it would be safer if the other party waited for him. Therefore, she is bound to wait for him.  
 
@@ -388,7 +390,7 @@ first, whether irregularity accompanies bigamy;Bigamy here refers to a second ma
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question, we proceed thus.Parallels: *ST* II-II, q. 108, a. 4, ad 2; *In IV Sent*. d. 42, q. 3, a. 2, ad 4; *Super I Tim.* 3, lec. 1; *Super Tit.* 1, lec. 2. It seems that irregularityIrregularity is not a matter of guilt or penalty, but refers to an imperfect signification in the sacrament. is not attached to the bigamy that arises from someone having two wives successively. For multitude and unity are consequent on being. Therefore being and non-being do not add up to any multitude. But if a man has two wives successively, when one is in being, the other is not in being. Therefore, by this fact a man has not become the husband of more than one wife, which would prohibit him from the episcopate according to the Apostle.See 1 Timothy 3:2.***
+Obj. 1: To the first question, we proceed thus.Parallels: *ST* II-II, q. 108, a. 4, ad 2; *In IV Sent*. d. 42, q. 3, a. 2, ad 4; *Super I Tim.* 3, lec. 1; *Super Tit.* 1, lec. 2. It seems that irregularityIrregularity is not a matter of guilt or penalty, but refers to an imperfect signification in the sacrament. is not attached to the bigamy that arises from someone having two wives successively. For multitude and unity are consequent on being. Therefore being and non-being do not add up to any multitude. But if a man has two wives successively, when one is in being, the other is not in being. Therefore, by this fact a man has not become the husband of more than one wife, which would prohibit him from the episcopate according to the Apostle.See 1 Timothy 3:2.  
 
 Obj. 2: Furthermore, a greater sign of incontinence appears in someone who fornicates with several women than someone who has several wives sucessively. But by the first a person is not made irregular. Therefore, neither by the second.  
 
@@ -396,7 +398,7 @@ Obj. 3: Furthermore, if bigamy causes irregularity, either this is by reason of 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that irregularity is not attached to the bigamy that happens when a man has two wives at the same time, or successively one wife *de jure*, and another *de facto*.Sometimes called a “common-law marriage.” For where there is no sacrament, there cannot be a defect of sacrament. But when someone contracts with a woman *de facto* and not *de jure*, there is no sacrament there: for such a union does not signify the union of Christ with the Church. Therefore, since irregularity does not follow upon bigamy except from some defect in the sacrament, it seems that irregularity does not follow upon such bigamy.***
+Obj. 1: Moreover, it seems that irregularity is not attached to the bigamy that happens when a man has two wives at the same time, or successively one wife *de jure*, and another *de facto*.Sometimes called a “common-law marriage.” For where there is no sacrament, there cannot be a defect of sacrament. But when someone contracts with a woman *de facto* and not *de jure*, there is no sacrament there: for such a union does not signify the union of Christ with the Church. Therefore, since irregularity does not follow upon bigamy except from some defect in the sacrament, it seems that irregularity does not follow upon such bigamy.  
 
 Obj. 2: Furthermore, someone approaching a woman with whom he contracts *de facto*, and not *de jure*, commits fornication if he does not have another woman as his legal wife; or else he commits adultery, if he does have another. But to distribute his own flesh among many women by fornication or adultery does not cause irregularity. Therefore, neither does this manner of bigamy.  
 
@@ -404,7 +406,7 @@ Obj. 3: Furthermore, it happens that one person, before he has known another car
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that irregularity is not contracted by the fact that someone takes as his wife a woman who is not a virgin. For someone is impeded more by his own defect than by the defect of another. But if the man contracting is not a virgin, he does not become irregular. Therefore, much less if his wife is not a virgin.***
+Obj. 1: Moreover, it seems that irregularity is not contracted by the fact that someone takes as his wife a woman who is not a virgin. For someone is impeded more by his own defect than by the defect of another. But if the man contracting is not a virgin, he does not become irregular. Therefore, much less if his wife is not a virgin.  
 
 Obj. 2: Furthermore, it can be that someone has deflowered a certain woman, and afterward takes her as a wife. Such a person does not seem to become irregular, for he does not distribute his flesh among many women, nor in fact does his wife; and nevertheless, he takes a corrupted woman for his wife. Therefore, such a mode of bigamy does not cause irregularity.  
 
@@ -416,7 +418,7 @@ On the contrary, Gregory says: *we command that you never make illicit ordinatio
 
 Response to Quaestiuncula 1  
 
-***I answer that, someone is constituted a minister of the sacraments by the sacrament of orders; and the one who should administer the sacraments to others should himself suffer no defect in the sacraments. But a it is a defect in the sacrament when the full signification is not found in a sacrament. But the sacrament of matrimony signifies the union of Christ with the Church, which is of one to one; and thus it is required for the perfect signification of the sacrament that the man be the husband of only one woman, and the wife be the wife of only one man. And therefore, bigamy, which destroys this, produces irregularity. And there are four kinds of bigamy. The first kind is when someone has more than one wife *de jure* in succession. The second, when someone has more than one wife at the same time, one *de jure*, and another *de facto*. The third, when he has more than one wife in succession, one *de jure*, and another *de facto*. The fourth, when someone takes a widow as his wife. And there is irregularity attached to all of these things.***
+I answer that, someone is constituted a minister of the sacraments by the sacrament of orders; and the one who should administer the sacraments to others should himself suffer no defect in the sacraments. But a it is a defect in the sacrament when the full signification is not found in a sacrament. But the sacrament of matrimony signifies the union of Christ with the Church, which is of one to one; and thus it is required for the perfect signification of the sacrament that the man be the husband of only one woman, and the wife be the wife of only one man. And therefore, bigamy, which destroys this, produces irregularity. And there are four kinds of bigamy. The first kind is when someone has more than one wife *de jure* in succession. The second, when someone has more than one wife at the same time, one *de jure*, and another *de facto*. The third, when he has more than one wife in succession, one *de jure*, and another *de facto*. The fourth, when someone takes a widow as his wife. And there is irregularity attached to all of these things.  
 
 However, another consequent reason is assigned, for in those who receive the sacrament of holy orders, the greatest spirituality should appear: both because they administer spiritual things, namely the sacraments; and they teach spiritual things and should be occupied with spiritual things. And so, since concupiscence, by which the whole man is turned into the flesh, is greatly opposed to spirituality, no sign should appear in them of permanent concupiscence, which does in fact appear in bigamists, who refused to limit themselves to one wife. Yet the first argument is better.  
 
@@ -428,7 +430,7 @@ Reply Obj. 3: Bigamy causes irregularity inasmuch as it takes away the perfect s
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in the second two kinds of bigamy, irregularity is contracted: for although there is no sacrament in the other person, there is nevertheless a certain likeness to a sacrament. This is why those two kinds are secondary, and the first is principal in causing irregularity.***
+To the second question, it should be said that in the second two kinds of bigamy, irregularity is contracted: for although there is no sacrament in the other person, there is nevertheless a certain likeness to a sacrament. This is why those two kinds are secondary, and the first is principal in causing irregularity.  
 
 Reply Obj. 1: Although here there is no sacrament, there is nonetheless some likeness to a sacrament, which does not exist in fornication or an adulterous sleeping together; and therefore it is not the same.  
 
@@ -438,7 +440,7 @@ Reply Obj. 3: In such a case someone is not considered a bigamist, for the first
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in the union of Christ and the Church, unity is found on the part of both; and therefore, whether distribution of flesh is found on the part of the man or on the part of the woman, there is a defect in the sacrament, but nevertheless in different ways: for on the part of the man it is required that he has not taken another as his wife, not that he be a virgin, but on the part of the wife it is required also that she be a virgin. The reason for this is assigned by the decretists thus: the bishop signifies the Church militant, whose care he bears, in which there are many corruptions; but the bride signifies Christ, who was a virgin. Thus, on the part of the bride virginity is required, but not on the part of the bridegroom, for someone to become a bishop. But this argument is expressly against the Apostle: *husbands, love your wives, as Christ loved the Church* (Eph 5:25), from which it is clear that the wife signifies the Church, and the bridegroom, Christ; and again, *since the man is head of the woman, as Christ of the Church* (Eph 5:23).***
+To the third question, it should be said that in the union of Christ and the Church, unity is found on the part of both; and therefore, whether distribution of flesh is found on the part of the man or on the part of the woman, there is a defect in the sacrament, but nevertheless in different ways: for on the part of the man it is required that he has not taken another as his wife, not that he be a virgin, but on the part of the wife it is required also that she be a virgin. The reason for this is assigned by the decretists thus: the bishop signifies the Church militant, whose care he bears, in which there are many corruptions; but the bride signifies Christ, who was a virgin. Thus, on the part of the bride virginity is required, but not on the part of the bridegroom, for someone to become a bishop. But this argument is expressly against the Apostle: *husbands, love your wives, as Christ loved the Church* (Eph 5:25), from which it is clear that the wife signifies the Church, and the bridegroom, Christ; and again, *since the man is head of the woman, as Christ of the Church* (Eph 5:23).  
 
 And therefore others say that by the bridegroom Christ is signified, and by the bride is signified the Church triumphant, in which there is no stain; but Christ first had the synagogue as concubine, and thus nothing is taken away from the perfection of the signification of the sacrament, if the bridegroom had a concubine beforehand. But this is extremely absurd: for just as there is one faith of ancient and modern men, so there is one Church; therefore those who served God in the time of the synagogue belong to the unity of the Church in which we serve God. And furthermore, this is expressly against what we have in Jeremiah 3, Ezekiel 16, and Hosea 2, where the espousal of the synagogue is expressly mentioned; therefore, she was not as a concubine, but as a wife. And furthermore, according to this, fornication would be a sacrament of that union, which is absurd; and thus before the gentiles were espoused by Christ into the faith of the Church, they were deflowered by the devil through idolatry.  
 
@@ -456,7 +458,7 @@ Article 2
 
 ***Whether this is resolved by baptism***
 
-***Obj. 1: To the second question, we proceed thus.Parallels: *Super I Tim.* 3, lec. 1; *Super Tit.* 1, lec. 2. It seems that bigamy is dissolved by baptism. For Jerome says in his commentary on the letter to Titus that if someone had more than one wife before baptism, or one before and one after, he is not a bigamist.Jerome, *Commentariorum in Epistolam ad Titum*, ch. 1, v. 6 (PL 26:564). Therefore, bigamy is dissolved by baptism.***
+Obj. 1: To the second question, we proceed thus.Parallels: *Super I Tim.* 3, lec. 1; *Super Tit.* 1, lec. 2. It seems that bigamy is dissolved by baptism. For Jerome says in his commentary on the letter to Titus that if someone had more than one wife before baptism, or one before and one after, he is not a bigamist.Jerome, *Commentariorum in Epistolam ad Titum*, ch. 1, v. 6 (PL 26:564). Therefore, bigamy is dissolved by baptism.  
 
 Obj. 2: Furthermore, whatever does what is more, does what is less. But baptism takes away all sin, which is more serious than irregularity. Therefore, it takes away the irregularity of bigamy.  
 
@@ -486,7 +488,7 @@ Article 3
 
 ***Whether a dispensation can be given in such irregularity***
 
-***Obj. 1: To the third question, we proceed thus. It seems that one may not give a dispensation for bigamy. Parallel: *Quodl.* IV, q. 8, a. 2.Decretals, Extra., *On Bigamy*: *with clergymen, who, as far as in them lies, have united themselves in marriage with second wives, just as with bigamists, it is not permitted to give a dispensation*.Innocent III, extra. *De bigam*., ch. “Nuper,” par. “Nos autem” (1, 21, 4).”***
+Obj. 1: To the third question, we proceed thus. It seems that one may not give a dispensation for bigamy. Parallel: *Quodl.* IV, q. 8, a. 2.Decretals, Extra., *On Bigamy*: *with clergymen, who, as far as in them lies, have united themselves in marriage with second wives, just as with bigamists, it is not permitted to give a dispensation*.Innocent III, extra. *De bigam*., ch. “Nuper,” par. “Nos autem” (1, 21, 4).”  
 
 Obj. 2: Furthermore, no dispensation can be given from divine law. But everything said in the canon belongs to divine law. Since, then, the Apostle says in the canonical Scriptures, *it is necessary that a bishop have had only one wife* (1 Tim 3:2), it seems that this cannot be dispensed.  
 
@@ -510,7 +512,7 @@ Reply Obj. 4: In particular things a reason cannot be found that applies equally
 
 Exposition of the Text  
 
-****But if they express in words what they do not will in their hearts, then, if there is no coercion or fraud, that obligation of words . . . makes a marriage*.*Sententiae* IV, 27.3 (165). 1. And here the Master is speaking about the external forum of the Church, in which it is judged according as things appear; and deception hidden in the heart is not admitted, unless it is somehow expressed through external signs, like someone calling himself by some other name. But as to the forum of conscience, what the Master says here is not true.***
+*But if they express in words what they do not will in their hearts, then, if there is no coercion or fraud, that obligation of words . . . makes a marriage*.*Sententiae* IV, 27.3 (165). 1. And here the Master is speaking about the external forum of the Church, in which it is judged according as things appear; and deception hidden in the heart is not admitted, unless it is somehow expressed through external signs, like someone calling himself by some other name. But as to the forum of conscience, what the Master says here is not true.  
 
 *“Chose for himself the solitude of the hermitage*.”*Sent*. IV, 27.6 (168).12, Theophilus, etc., *Vita s. Macarii*, c18. Although hermits do not promise any obedience, nevertheless, they do have a vow of continence added, and according to custom their vow is solemnized after a determined time.  
 

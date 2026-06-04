@@ -1,5 +1,7 @@
 # Chapter 57
 
+^57:1^ Justus perit, et non est qui recogitet in corde suo; et viri misericordiæ colliguntur, quia non est qui intelligat; a facie enim malitiæ collectus est justus.  
+
 > ^57:2^ Veniat pax; requiescat in cubili suo qui ambulavit in directione sua.
 
 > ^57:3^ Vos autem accedite huc, filii auguratricis, semen adultere et fornicariæ.

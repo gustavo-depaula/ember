@@ -1,8 +1,10 @@
 # D. 6 - Effects of the fall of the angels with regard to their nature
 
+***De eis quae consequuntur aversos quantum ad naturae conditionem***
+
 ***Divisio textus***
 
-***Ostensa divisione malorum angelorum a bonis per aversionem et conversionem, hic incipit determinare ea quae consequuntur aversos et conversos, secundum quod in eis conveniunt vel differunt; et dividitur in partes tres:***
+Ostensa divisione malorum angelorum a bonis per aversionem et conversionem, hic incipit determinare ea quae consequuntur aversos et conversos, secundum quod in eis conveniunt vel differunt; et dividitur in partes tres:  
 
 in prima determinat ea quae consequuntur eos quantum ad naturae conditionem;Parma: *cognitionem*.  
 
@@ -56,7 +58,7 @@ Articulus 1
 
 ***Utrum Lucifer fuerit supremus omnium angelorum***
 
-***Ad primum sic proceditur. Videtur quod Lucifer non fuit supremus omnium: quia ad eum, secundum***
+Ad primum sic proceditur. Videtur quod Lucifer non fuit supremus omnium: quia ad eum, secundum  
 
 Ezech. 28:14, dicitur: *tu cherub extentus et protegens*. Sed ordo cherubim, secundum Dionysium, cap. 7 *De caelest. hier*., et Gregorium, *Hom*. 24 *in Evang*., non est supremus ordo. Ergo videtur quod non fuit de supremo ordine.  
 
@@ -86,7 +88,7 @@ Articulus 2
 
 ***Utrum peccatum primi angeli fuerit occasio peccandi aliis***
 
-***Ad secundum sic proceditur. Videtur quod peccatum primi angeli non fuerit occasio peccandi aliis.***
+Ad secundum sic proceditur. Videtur quod peccatum primi angeli non fuerit occasio peccandi aliis.  
 
 Illud enim quod est deformatum non potest occasionaliter movere ad suam imitationem. Sed statim ut angelus peccavit, deformatus est. Ergo non movit alios ad suam imitationem.  
 
@@ -118,7 +120,7 @@ Articulus 3
 
 ***Utrum angelis post casum convenienter assignetur locus***
 
-***Ad tertium sic proceditur. Videtur quod inconvenienter assignetur locus ipsis angelis malis post casum.***
+Ad tertium sic proceditur. Videtur quod inconvenienter assignetur locus ipsis angelis malis post casum.  
 
 Illi enim qui ex loco nullam impressionem recipit, aequaliter convenit omnis locus. Sed daemones, cum sint incorporeae substantiae, non recipiunt aliquas impressiones locales et corporales, quia nec illuminantur lumine corporali, nec infrigidantur. Ergo videtur quod nihil sit dictu, quod eis unus locus magis quam alius debeatur.  
 
@@ -188,7 +190,7 @@ Articulus 5
 
 ***Utrum daemones qui vincuntur a sanctis detrudantur in infernum***
 
-***Ad primum sic proceditur. Videtur quod daemones qui a sanctis vincuntur non retrudantur in infernum.***
+Ad primum sic proceditur. Videtur quod daemones qui a sanctis vincuntur non retrudantur in infernum.  
 
 Infligere enim poenam ei qui in pugna succumbit est incitare ad acrius impugnandum. Sed hoc non pertinet ad Dei misericordiam. Ergo, etc.  
 
@@ -214,7 +216,7 @@ Ad quartum dicendum, quod malum eorum semper est ordinatum per poenam, quam et i
 
 Expositio textus  
 
-****Draco de caelo cadens secum traxit tertiam partem stellarum*. Per draconem intelligitur ipse Lucifer: per caudam persuasio,PLE: *caudam persuasio*; Mandonnet: *causam suasio*. qua aliis suum desiderium expressit: per stellas angeli naturali luce fulgentes, quorum tertia pars cecidisse dicitur, non quantum ad numerum, sed quantum ad qualitatem; quia qui remanserunt, sunt Deo adhaerentes assistendo et ministrando; et alii per aversionem ceciderunt.***
+*Draco de caelo cadens secum traxit tertiam partem stellarum*. Per draconem intelligitur ipse Lucifer: per caudam persuasio,PLE: *caudam persuasio*; Mandonnet: *causam suasio*. qua aliis suum desiderium expressit: per stellas angeli naturali luce fulgentes, quorum tertia pars cecidisse dicitur, non quantum ad numerum, sed quantum ad qualitatem; quia qui remanserunt, sunt Deo adhaerentes assistendo et ministrando; et alii per aversionem ceciderunt.  
 
 *Adversus principes et potestates mundi hujus*. Sciendum quod quamvis probabile sit aliquos cecidisse de singulis ordinibus, non tamen daemones nominantur ab illis ordinibus quorum nomina sumuntur ex donis gratiae gratum facientis, sicut seraphim nominantur ab incendio caritatis, et throni ab inhabitatione divina; sed ab aliis quorum nomina sumuntur ex gratiis gratis datis, quae ad scientiam et potentiam pertinent.  
 

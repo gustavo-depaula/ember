@@ -1,8 +1,10 @@
 # D. 18 - The Holy Spirit as gift
 
+***De dono secundum quod dicitur de Spiritu Sancto***
+
 ***Divisio textus***
 
-***Postquam determinavit de temporali processione Spiritus Sancti, hic determinat nomen quod sibi competit secundum rationem qua temporaliter procedit, scilicet donum.***
+Postquam determinavit de temporali processione Spiritus Sancti, hic determinat nomen quod sibi competit secundum rationem qua temporaliter procedit, scilicet donum.  
 
 Dividitur ergo in duas partes: in prima determinat de dono, secundum quod dicitur de Spiritu Sancto per comparationem ad alia dona; in secunda determinat de hoc nomine “donum” de Spiritu Sancto dicto, per comparationem ad hoc nomen “datum,” quod etiam de ipso dicitur, ibi: *praeterea diligenter considerandum est, cum Spiritus Sanctus dicatur donum et datum, utrum eadem ratione utrumque nomen ei conveniat*.  
 
@@ -92,7 +94,7 @@ Articulus 3
 
 ***Utrum per donum, quod Spiritus Sanctus est, dentur omnia dona***
 
-***Ad tertium sic proceditur. Videtur quod per donum, quod est Spiritus Sanctus, non dentur omnia dona.***
+Ad tertium sic proceditur. Videtur quod per donum, quod est Spiritus Sanctus, non dentur omnia dona.  
 
 Sicut enim dicit Philosophus, 5 *Physic*., alterationis non est alteratio: alias in infinitum abiretur. Si ergo donum datur per donum, ibitur in infinitum, et hoc non est ponere. Ergo videtur quod dona non dentur per aliud donum.  
 
@@ -120,7 +122,7 @@ Articulus 4
 
 ***Utrum eadem processione Spiritus Sanctus habeat quod sit donum et Deus***
 
-***Ad quartum sic proceditur. Videtur quod non eadem processione Spiritus Sanctus habeat quod sit Deus et quod sit donum.***
+Ad quartum sic proceditur. Videtur quod non eadem processione Spiritus Sanctus habeat quod sit Deus et quod sit donum.  
 
 Non enim est eadem ratio communis et proprii. Sed donum est proprium Spiritui Sancto. Deus autem est commune. Ergo non est idem donum et Deus.  
 
@@ -144,7 +146,7 @@ Articulus 5
 
 ***Utrum Spiritus Sanctus possit dici “donum nostrum”***
 
-***Ad quintum sic proceditur. Videtur quod Spiritus Sanctus possit dici donum nostrum.***
+Ad quintum sic proceditur. Videtur quod Spiritus Sanctus possit dici donum nostrum.  
 
 Donum enim dicitur secundum respectum ad creaturam. Sed eis quae important respectum ad creaturam, potest addi meum vel nostrum, ut Creator noster. Ergo videtur quod Spiritus Sanctus possit dici donum nostrum.  
 
@@ -176,7 +178,7 @@ Ad ultimum dicendum, quod Deus, quamvis significet essentiam divinam quantum ad 
 
 Expositio textus  
 
-****Sed ipsa relatio non apparet in hoc nomine*. Videtur hoc esse falsum: quia sicut dicitur donum dationis, ita spiritus spirationis. Sed dicendum, quod in nomine spiritus non importatur relatio nisi per accidens ex modo significandi, prout significatur ut terminus actionis alicujus; sed in nomine doni importatur relatio etiam quantum ad significationem; quia hoc ipsum donare, unde nomen doni sumitur, magis pertinet ad genus relationis quam actionis: quia dare nihil est aliud quam suum alterius facere. Nomen etiam spiritus imponitur ad significandum substantiam ratione alicujus proprietatis, scilicet subtilitatis, ut supra dictum est; unde et aerem spiritum dicimus et animam: sed nomen doni non imponitur ad significandum substantiam, sed ad significandum aliquid circa substantiam, quod consequitur dationem: unde non reducitur ad praedicamentum substantiae.***
+*Sed ipsa relatio non apparet in hoc nomine*. Videtur hoc esse falsum: quia sicut dicitur donum dationis, ita spiritus spirationis. Sed dicendum, quod in nomine spiritus non importatur relatio nisi per accidens ex modo significandi, prout significatur ut terminus actionis alicujus; sed in nomine doni importatur relatio etiam quantum ad significationem; quia hoc ipsum donare, unde nomen doni sumitur, magis pertinet ad genus relationis quam actionis: quia dare nihil est aliud quam suum alterius facere. Nomen etiam spiritus imponitur ad significandum substantiam ratione alicujus proprietatis, scilicet subtilitatis, ut supra dictum est; unde et aerem spiritum dicimus et animam: sed nomen doni non imponitur ad significandum substantiam, sed ad significandum aliquid circa substantiam, quod consequitur dationem: unde non reducitur ad praedicamentum substantiae.  
 
 *Non enim, ut ait Hilarius, per defectionem, aut protensionem, aut derivationem ex Deo Deus est*. Hic Hilarius a divinis personis excludit tres modos emanationis qui sunt in diversitate substantiae. Unus est quando aliquid generatur ex re corrupta, ut vermis exParma: *in*. carne putrefacta, vel aer ex aqua; et hoc notat cum dicit: “per defectionem.” Secundus quando producitur ex re manente conjuncta sibi, sicut ramus ex arbore; et hoc tangit cum dicit “protensionem.” Tertius est, quando producitur aliquid ex re manente, sed separatumParma: *separata*. ab ea, ut rivus ex fonte, vel ex silice; et hoc tangit cum dicit: “derivationem” vel “decisionem”; et sic etiam homo est ex homine: quorum nullus divinis personis convenit.  
 

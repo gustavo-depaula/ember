@@ -1,6 +1,8 @@
 # D. 14 - Definition of penance
 
-***Postquam determinavit Magister de confirmatione et Eucharistia, quae sunt sacramenta procedentium, ordinata ad perfectionem in bono; hic incipit determinare de poenitentia, quae ordinatur ad amotionem mali, quod per actum procedentium in vita ista provenit; et dividitur in partes duas: in prima determinat de his quae pertinent ad essentiam sacramenti; in secunda determinat quaedam accidentia sacramenti hujus, sicut tempus, et hujusmodi; 20 dist., ibi: *sciendum est etiam, quod tempus poenitentiae est usque ad extremum articulum vitae*.***
+***Definitio poenitentiae***
+
+Postquam determinavit Magister de confirmatione et Eucharistia, quae sunt sacramenta procedentium, ordinata ad perfectionem in bono; hic incipit determinare de poenitentia, quae ordinatur ad amotionem mali, quod per actum procedentium in vita ista provenit; et dividitur in partes duas: in prima determinat de his quae pertinent ad essentiam sacramenti; in secunda determinat quaedam accidentia sacramenti hujus, sicut tempus, et hujusmodi; 20 dist., ibi: *sciendum est etiam, quod tempus poenitentiae est usque ad extremum articulum vitae*.  
 
 Prima in duas: in prima determinat de sacramento poenitentiae; in secunda de ministro hujus sacramenti, 18 dist., ibi: *hic quaeri solet, si peccatum omnino dimissum est a Deo per cordis contritionem, ex quo poenitens votum habuit confitendi*.  
 
@@ -52,7 +54,7 @@ primo, quid sit poenitentia;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod poenitentia non sit sacramentum. In omni enim sacramento novae legis est aliquod materiale, quod est causa gratiae, ut patet ex definitione Hugonis de sacramento, supra, dist. 1, art. 5, quaestiunc. 5, posita. Sed nihil tale est in poenitentia. Ergo non est sacramentum novae legis.***
+Ad primum sic proceditur. Videtur quod poenitentia non sit sacramentum. In omni enim sacramento novae legis est aliquod materiale, quod est causa gratiae, ut patet ex definitione Hugonis de sacramento, supra, dist. 1, art. 5, quaestiunc. 5, posita. Sed nihil tale est in poenitentia. Ergo non est sacramentum novae legis.  
 
 Praeterea, sicut Magister dixit, in 1 dist., omnia sacramenta novae legis consistunt in rebus et verbis. Sed in poenitentia non sunt aliqua verba determinata, quae sint de essentia sacramenti. Ergo non est sacramentum.  
 
@@ -66,7 +68,7 @@ Praeterea, sacramenta, secundum Hugonem, sunt quaedam medicinae, quae peccatorum
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod poenitentia non sit virtus. Quia gratiae sacramentales differunt a virtutibus, ut supra, dist. 1, dictum est; unde nec baptismus nec aliquod aliorum sacramentorum ponitur virtus. Sed poenitentia est sacramentum. Ergo non est virtus.***
+Ulterius. Videtur quod poenitentia non sit virtus. Quia gratiae sacramentales differunt a virtutibus, ut supra, dist. 1, dictum est; unde nec baptismus nec aliquod aliorum sacramentorum ponitur virtus. Sed poenitentia est sacramentum. Ergo non est virtus.  
 
 Praeterea, ut in 2 Lib., dist. 26, quaest. 1, art. 4, dictum est, gratia et virtus differunt per essentiam. Sed poenitentia est gratia, ut ex littera habetur. Ergo non est virtus.  
 
@@ -82,7 +84,7 @@ Praeterea, non meremur nisi actibus virtutum. Sed poenitere est meritorium, ut p
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sit virtus generalis. Contrarium enim non expellitur nisi a suo contrario. Sed poenitentia expellit omne peccatum. Ergo contrariatur omni peccato; ergo est generalis virtus.***
+Ulterius. Videtur quod sit virtus generalis. Contrarium enim non expellitur nisi a suo contrario. Sed poenitentia expellit omne peccatum. Ergo contrariatur omni peccato; ergo est generalis virtus.  
 
 Praeterea, omnis virtus specialis habet speciale objectum. Sed poenitentia non habet: quia operatur in materia omnium virtutum et vitiorum. Ergo non est virtus specialis.  
 
@@ -96,7 +98,7 @@ Praeterea, omne quod perficit liberum arbitrium ad actum determinatum, est virtu
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod sit virtus theologica. Omnis enim virtus quae habet Deum pro objecto, est virtus theologica. Sed poenitentia est hujusmodi, quia Deo reconciliat. Ergo est virtus theologica.***
+Ulterius. Videtur quod sit virtus theologica. Omnis enim virtus quae habet Deum pro objecto, est virtus theologica. Sed poenitentia est hujusmodi, quia Deo reconciliat. Ergo est virtus theologica.  
 
 Praeterea, contrariorum contrariae sunt causae. Sed *concupiscentia*, quae opponitur caritati, *est radix omnium malorum*. Ergo caritas est causa destructionis peccatorum, quod est poenitentiae. Ergo poenitentia est caritas.  
 
@@ -110,7 +112,7 @@ Praeterea, poenitentia habet passionem adjunctam. Non autem virtus theologica. E
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod non reducatur ad justitiam. Quia justitia est aequalitas quaedam, secundum Philosophum. Sed poenitens non potest aequalem recompensationem reddere pro offensa Dei. Ergo non est justitia.***
+Ulterius. Videtur quod non reducatur ad justitiam. Quia justitia est aequalitas quaedam, secundum Philosophum. Sed poenitens non potest aequalem recompensationem reddere pro offensa Dei. Ergo non est justitia.  
 
 Praeterea, Luc. 6, super illud: *beati qui nunc fletis*, dicit *Glossa*: *ecce prudentia, qua ostenditur, quam haec terrena sint misera, et quam beata caelestia*. Sed lugere est actus poenitentiae ut in littera dicitur. Ergo poenitentia est prudentia; non ergo justitia.  
 
@@ -126,7 +128,7 @@ Praeterea, Isidorus dicit: *tunc judicium quilibet de se sumit, quando per digna
 
 Quaestiuncula 6  
 
-***Ulterius. Videtur quod sit incompetens definitio poenitentiae, quam Gregorius et Ambrosius ponunt: *poenitentia est mala praeterita plangere, et plangenda iterum non committere*. Virtutes enim non sunt actus, sed habitus, ut in 2 Lib., dist. 27, dictum est. Sed plangere est actus. Ergo non debet poni ut genus poenitentiae, quod est virtus.***
+Ulterius. Videtur quod sit incompetens definitio poenitentiae, quam Gregorius et Ambrosius ponunt: *poenitentia est mala praeterita plangere, et plangenda iterum non committere*. Virtutes enim non sunt actus, sed habitus, ut in 2 Lib., dist. 27, dictum est. Sed plangere est actus. Ergo non debet poni ut genus poenitentiae, quod est virtus.  
 
 Praeterea, quod pertinet ad corporalem immutationem non est de essentia virtutis; unde Philosophus dicit in 4 *Ethica*, quod *verecundia non est virtus, quia verecundati rubescunt*. Sed *plangere* dicit corporalem immutationem. Ergo non est de essentia poenitentiae, quae est virtus; et ita non debet poni in definitione ejus.  
 
@@ -140,7 +142,7 @@ Praeterea, quaeritur de aliis definitionibus, quomodo poenitentiae conveniant, c
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut supra, dist. 1, dictum est, sacramentum importat sanctitatem active per modum qui nobis sanctificandis competit, ut scilicet adjungatur significatio sanctificationis invisibilis per visibilia signa, prout nunc de sacramentis loquimur. Unde ubicumque fit aliqua sanctificatio significata aliquibus sensibilibus signis, ibi est sacramentum; et ideo, cum hoc sit in poenitentia, constat quod poenitentia est sacramentum.***
+Respondeo dicendum ad primam quaestionem, quod, sicut supra, dist. 1, dictum est, sacramentum importat sanctitatem active per modum qui nobis sanctificandis competit, ut scilicet adjungatur significatio sanctificationis invisibilis per visibilia signa, prout nunc de sacramentis loquimur. Unde ubicumque fit aliqua sanctificatio significata aliquibus sensibilibus signis, ibi est sacramentum; et ideo, cum hoc sit in poenitentia, constat quod poenitentia est sacramentum.  
 
 Ad primum ergo dicendum, quod sicut in corporalibus medicinis quaedam sunt quae consistunt in sola passione vel receptione curati, ut sectio vulneris, vel appositio emplastri; quaedam vero quae consistunt in actu laborantis, sicut exercitationes et hujusmodi; ita etiam in sacramentis quaedam non requirunt actum ejus qui sanctificatur quantum ad substantiam sacramenti, nisi per accidens, sicut removens prohibens, sicut patet in baptismo et confirmatione et hujusmodi; quaedam autem requirunt essentialiter et per se actum ejus qui sacramentum recipit, ad essentiam sacramenti, ut patet in poenitentia et matrimonio. In illis ergo sacramentis quae sine actu nostro complentur, est materia quae causat et significat, quasi medicina exterius apposita. In illis autem sacramentis quae actum nostrum requirunt, non est talis materia; sed ipsi actus exterius apparentes hoc idem faciunt quod materia in aliis sacramentis. Quomodo autem ea quae exterius geruntur, sint causa sanctificationis in poenitentia, ex sequentibus patebit. Verum in definitione hac oportet quod materiale elementum accipiatur communiter pro causa sensibili, sive sit materia aliqua corporalis, sive sit actus aliquis sensibilis.  
 
@@ -152,7 +154,7 @@ Ad quartum dicendum, quod intentio Dionysii non fuit in *Eccles. Hierar*. trader
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in poenitentia se habet homo et ut recipiens et ut agens. Recipit quidem a Deo veniam et reconciliationem per Ecclesiae ministros; et secundum hoc habet rationem sacramenti. Sed ex parte actus sunt de ipsa diversae opiniones. Quidam enim dicunt, quod est actus tantum virtutis, et non est virtus. Sed hoc non potest esse; quia cum actus virtutum non sint in dormiente, dormiens non posset dici poenitens; quod falsum est: et ideo aliqui dixerunt, quod ex parte ista poenitentia est virtus; sed non proprie loquendo, sed communiter, prout omnia laudabilia virtutes dicuntur, etiam si sint passiones. Sed hoc non est verum; quia secundum Philosophum in 6 *Ethica*, principale in virtute morali est electio; unde omnis habitus qui facit rectam electionem, potest dici proprie loquendo virtus. Unde cum actus poenitentiae non causetur tantum ex passione, sed magis ex electione, etiam si nulla sit passio; constat quod poenitentia proprie loquendo est virtus, et non improprie, sicut verecundia, et aliquid hujusmodi.***
+Ad secundam quaestionem dicendum, quod in poenitentia se habet homo et ut recipiens et ut agens. Recipit quidem a Deo veniam et reconciliationem per Ecclesiae ministros; et secundum hoc habet rationem sacramenti. Sed ex parte actus sunt de ipsa diversae opiniones. Quidam enim dicunt, quod est actus tantum virtutis, et non est virtus. Sed hoc non potest esse; quia cum actus virtutum non sint in dormiente, dormiens non posset dici poenitens; quod falsum est: et ideo aliqui dixerunt, quod ex parte ista poenitentia est virtus; sed non proprie loquendo, sed communiter, prout omnia laudabilia virtutes dicuntur, etiam si sint passiones. Sed hoc non est verum; quia secundum Philosophum in 6 *Ethica*, principale in virtute morali est electio; unde omnis habitus qui facit rectam electionem, potest dici proprie loquendo virtus. Unde cum actus poenitentiae non causetur tantum ex passione, sed magis ex electione, etiam si nulla sit passio; constat quod poenitentia proprie loquendo est virtus, et non improprie, sicut verecundia, et aliquid hujusmodi.  
 
 Ad primum ergo dicendum, quod non secundum idem poenitentia est virtus et sacramentum; sed inquantum per poenitentiam recipit gratiam curantem peccati vulnus poenitens, potest esse sacramentum; inquantum autem per habitum infusum ordinatur ad actum rectum, sic est virtus. Et quia aliquis actus rectus non est de essentia baptismi, ideo baptismus nullo modo dicitur virtus, nec etiam confirmatio eadem ratione.  
 
@@ -166,7 +168,7 @@ Ad quintum dicendum, quod verecundia est timor de turpi; timor autem futuri est;
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod poenitere non est actus alicujus specialis virtutis, sed omnis virtutis communiter. Sed hoc non potest esse; quia aliquid est de ratione poenitentiae, prout nunc de ipsa loquimur, quod non est de ratione virtutis communiter, scilicet de peccato commisso satisfacere.***
+Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod poenitere non est actus alicujus specialis virtutis, sed omnis virtutis communiter. Sed hoc non potest esse; quia aliquid est de ratione poenitentiae, prout nunc de ipsa loquimur, quod non est de ratione virtutis communiter, scilicet de peccato commisso satisfacere.  
 
 Et ideo alii dicunt, quod poenitentia est specialis virtus, et specificatur ex hoc quod detestatur peccatum commissum a se. Sed hoc non potest specificare virtutem; quia cum virtus sit peccato contrarium, maxime repugnat ei prout est in eodem subjecto; unde hoc est omni virtuti commune quod vitium repellit a subjecto suo.  
 
@@ -184,7 +186,7 @@ Ad quartum dicendum, quod haec virtus reducitur ad aliquam cardinalium virtutum,
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod virtus theologica habet idem pro objecto et pro fine. Hoc autem non est in poenitentia: quia objectum ejus est peccatum commissum, quod intendit expiare; finis autem est Deus, cui intendit reconciliari; et ideo non est virtus theologica, sed inter morales virtutes numeranda est.***
+Ad quartam quaestionem dicendum, quod virtus theologica habet idem pro objecto et pro fine. Hoc autem non est in poenitentia: quia objectum ejus est peccatum commissum, quod intendit expiare; finis autem est Deus, cui intendit reconciliari; et ideo non est virtus theologica, sed inter morales virtutes numeranda est.  
 
 Ad primum ergo dicendum, quod in hoc quod dicit, quod poenitentia reconciliat Deo, non tangitur relatio poenitentiae ad objectum suum, sed magis ad finem; sed ordo ejus ad objectum tangitur in hoc quod dicitur *peccata commissa flere*; et ideo ratio non sequitur.  
 
@@ -198,7 +200,7 @@ Ad quartum dicendum, quod medium in justitia non eodem modo accipitur, et in ali
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod quia justitia aequalitas quaedam est, ideo non potest ess et venditionibus. Alio modo per hoc quode vera adaequatio ubi non est perfecta ratio justitiae, sed aliquis justitiae modus; sicut dicit Philosophus in 5 *Ethica*, quod domini ad servum non est simpliciter justum, sed dominativum justum. Cum ergo inter hominem et Deum sit maxima distantia, non poterit ibi esse dicta proprie justitia hominis ad Deum, sed aliquis justitiae modus quasi per similitudinem. Homo autem efficitur debitor alteri homini dupliciter. Uno modo per hoc quod ab eo sibi est datum, sicut in voluntariis communicationibus, puta in emptionibus ei*emptionibus ei.—emptionibus et venditionibus alio modo per hoc quod ei* PLE. subtraxit, sicut est in voluntariis*voluntariis.—involuntariis* PLE. communicationibus, ut est furtum, percussio, et hujusmodi. Et similiter aliquis efficitur Deo debitor per hoc quod ab eo aliquid recipit; et hac ratione Deo reddit debitum honorem latria, sive religio. Alio modo ex hoc quod contra Deum peccavit; et sic reddit Deo debitum poenitentia. Unde sicut religio ponitur pars justitiae a Tullio, non quidem quasi species, sed quasi pars potentialis, inquantum aliquem modum justitiae participat; ita etiam poenitentia pars justitiae debet poni.***
+Ad quintam quaestionem dicendum, quod quia justitia aequalitas quaedam est, ideo non potest ess et venditionibus. Alio modo per hoc quode vera adaequatio ubi non est perfecta ratio justitiae, sed aliquis justitiae modus; sicut dicit Philosophus in 5 *Ethica*, quod domini ad servum non est simpliciter justum, sed dominativum justum. Cum ergo inter hominem et Deum sit maxima distantia, non poterit ibi esse dicta proprie justitia hominis ad Deum, sed aliquis justitiae modus quasi per similitudinem. Homo autem efficitur debitor alteri homini dupliciter. Uno modo per hoc quod ab eo sibi est datum, sicut in voluntariis communicationibus, puta in emptionibus ei*emptionibus ei.—emptionibus et venditionibus alio modo per hoc quod ei* PLE. subtraxit, sicut est in voluntariis*voluntariis.—involuntariis* PLE. communicationibus, ut est furtum, percussio, et hujusmodi. Et similiter aliquis efficitur Deo debitor per hoc quod ab eo aliquid recipit; et hac ratione Deo reddit debitum honorem latria, sive religio. Alio modo ex hoc quod contra Deum peccavit; et sic reddit Deo debitum poenitentia. Unde sicut religio ponitur pars justitiae a Tullio, non quidem quasi species, sed quasi pars potentialis, inquantum aliquem modum justitiae participat; ita etiam poenitentia pars justitiae debet poni.  
 
 Ad primum ergo dicendum, quod sicut dicit Philosophus in *Ethica*, ut habetur ex Lib. 5, cap. 8, virtus non requirit semper aequale, sed sufficit quod possibile est, ut in honoribus ad parentes et deos; unde sicut latria est pars justitiae, quamvis non reddat aequalem honorem beneficiis acceptis; ita et poenitentia, quamvis non possit aliquid aequale reddere offensae praecedenti.  
 
@@ -212,7 +214,7 @@ Ad quintum dicendum, quod poenitentiae est sufferre difficilia voluntarie assump
 
 Quaestiuncula 6  
 
-***Ad sextam quaestionem dicendum, quod poenitentia et vindicativa justitia circa idem aliquo modo sunt, scilicet circa punitionem offensae; sed differunt in duobus. Primo, quia vindicativa proprie inest in judice poenam infligente, quam reus quandoque invite sustinet; sed poenitentia est in ipso reo, qui voluntarius poenam sustinet pro culpa commissa. Secundo, quia vindicativa respicit offensam communiter; sed poenitentiae virtus respicit offensam Dei; unde oportet quod poenitentia consistat in emendatione offensae voluntarie assumpta, et talis qualis Deo competit.***
+Ad sextam quaestionem dicendum, quod poenitentia et vindicativa justitia circa idem aliquo modo sunt, scilicet circa punitionem offensae; sed differunt in duobus. Primo, quia vindicativa proprie inest in judice poenam infligente, quam reus quandoque invite sustinet; sed poenitentia est in ipso reo, qui voluntarius poenam sustinet pro culpa commissa. Secundo, quia vindicativa respicit offensam communiter; sed poenitentiae virtus respicit offensam Dei; unde oportet quod poenitentia consistat in emendatione offensae voluntarie assumpta, et talis qualis Deo competit.  
 
 Sicut autem hominibus, qui vident ea quae foris parent, fit offensae recompensatio per aliqua exteriora; ita Deo, qui intuetur cor, oportet quod incipiat recompensatio fieri in ipso cordis affectu. Fit autem bene recompensatio praecedentis offensae exterius in duobus. Primo in hoc quod aliquis exterius poenam subit pro offensa quam fecit; secundo in hoc quod cavet in futurum ne similis offensa ab eo fiat; et haec duo oportet quod homo in corde exhibeat per poenitentiam: primo dolorem cordis pro malis quae fecit; secundo propositum de cetero talia non committendi; et haec duo praedicta definitio comprehendit, quamvis non in forma definitionis proponatur. Unde Magister ad formam debitam eam reducens, tria ponit; scilicet genus, in hoc quod dicit quod *est virtus*; dolorem de praeteritis, in hoc quod dicit: *qua commissa mala plangimus*; et propositum de futura emendatione, in hoc quod dicit: *cum emendationis proposito*. Alia vero quae dicuntur, ad idem pertinent, ut in expositione litterae patebit.  
 
@@ -238,7 +240,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod virtus poenitentiae timore non concipiatur. Quod enim est ex infusione, non habet causam in subjecto. Sed poenitentia, cum sit virtus, de qua Augustinus dicit, quod Deus eam in nobis sine nobis facit, est ex infusione. Ergo non habet causam in suo subjecto; et ita timore non concipitur.***
+Ad secundum sic proceditur. Videtur quod virtus poenitentiae timore non concipiatur. Quod enim est ex infusione, non habet causam in subjecto. Sed poenitentia, cum sit virtus, de qua Augustinus dicit, quod Deus eam in nobis sine nobis facit, est ex infusione. Ergo non habet causam in suo subjecto; et ita timore non concipitur.  
 
 Praeterea, illud quod in esse perfectum prodit, non tantum concipitur, sed etiam perfecte generatur. Sed poenitentia in esse perfectum prodit, quia etiam defectus ad perfectum revocat. Ergo ejus generatio non debet timore concipi.  
 
@@ -252,7 +254,7 @@ Praeterea, contrariorum contraria sunt principia. Sed delectatio peccati ad pecc
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod poenitentia sit prima virtutum. Matth. III, 2, super illud: *poenitentiam agite*, dicit *Glossa*: *prima virtus est per poenitentiam punire veterem hominem, et vitia odire*.***
+Ulterius. Videtur quod poenitentia sit prima virtutum. Matth. III, 2, super illud: *poenitentiam agite*, dicit *Glossa*: *prima virtus est per poenitentiam punire veterem hominem, et vitia odire*.  
 
 Praeterea, causa praecedit effectum. Sed poenitentia est causa justificationis, in qua omnes virtutes infunduntur. Ergo est prior aliis virtutibus.  
 
@@ -264,7 +266,7 @@ Praeterea, poenitentia ex recta electione procedit, ut supra dictum est. Sed rec
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod poenitentia non sit fundamentum. Illud enim quod sequitur ad fundamentum, non debet dici fundamentum, sed superaedificatio. Sed fides, quae est fundamentum, ut habetur Hebr. 11, praecedit poenitentiam, ut dictum est. Ergo poenitentia non est fundamentum aliarum virtutum.***
+Ulterius. Videtur quod poenitentia non sit fundamentum. Illud enim quod sequitur ad fundamentum, non debet dici fundamentum, sed superaedificatio. Sed fides, quae est fundamentum, ut habetur Hebr. 11, praecedit poenitentiam, ut dictum est. Ergo poenitentia non est fundamentum aliarum virtutum.  
 
 Praeterea, Eccl. 25, super illud: *quam magnus est qui invenit sapientiam* etc., dicit *Glossa*: *timor Domini sanctus permanet in saeculum; ipse est fidei fundamentum, et caritatis origo*. Sed poenitentia sequitur timorem. Ergo ipsa non est fundamentum aliarum virtutum.  
 
@@ -276,7 +278,7 @@ Praeterea, fundamentum est prima pars aedificii. Sed primum quod est in aedifica
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non sit secunda tabula. Secundum enim non dicitur nisi respectu primi. Sed prima tabula in littera dicitur baptismus, respectu cujus poenitentia non est secunda, quia non est secundum sacramentum, sed quarto loco Magister ipsum determinat. Ergo poenitentia non est secunda tabula.***
+Ulterius. Videtur quod non sit secunda tabula. Secundum enim non dicitur nisi respectu primi. Sed prima tabula in littera dicitur baptismus, respectu cujus poenitentia non est secunda, quia non est secundum sacramentum, sed quarto loco Magister ipsum determinat. Ergo poenitentia non est secunda tabula.  
 
 Praeterea, Act. 2, 38, dicit Petrus: *poenitentiam agite, et baptizetur unusquisque vestrum*. Ergo poenitentia non est secunda tabula post baptismum, sed e converso.  
 
@@ -286,7 +288,7 @@ Sed contra est quod Hieronymus dicit in littera: *prima tabula dicitur propter l
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod virtutem poenitentiae Deus nobis infundit; sed dispositio aliqua ex parte nostra procedit, et secundum hoc habet aliquam originem in nobis. Sed quia humani actus non procedunt ex necessitate, sed ex libero arbitrio; ideo non potest assignari causa ex parte nostra alicujus actus nostri, ex quo semper procedat, sed ex quo ut in pluribus contingit propter dispositionem existentem in nobis ad hoc, quae tamen non necessario inclinat; unde omnes sermones morales sunt tales, ut Philosophus in 1 *Ethica* dicit, quod ut in pluribus oportet eos intelligere. Cum autem poenitentia sit *revocatio a peccato*, ut Damascenus dicit, oportet originem ejus in nobis accipi secundum dispositionem existentis in peccato. Ille autem qui in peccato est, non habet gustum sanum, ut ex dulcedine divinae bonitatis a peccato revocetur; sed habet affectum infectum amore sui inordinato; et ideo per poenas quae naturae suae contrariantur et voluntati, a peccato revocatur, ut Philosophus in 10 *Ethica*, dicit de talibus, quod *proprias delectationes prosequuntur, et fugiunt oppositas tristitias; boni autem, et vere delectabilis neque intellectum habent, neque gustativi existentes*; et ideo in eis ut in pluribus ex timore poenitentia initium sumit; quamvis etiam in aliquibus ex amore poenitentia inchoetur.***
+Respondeo dicendum ad primam quaestionem, quod virtutem poenitentiae Deus nobis infundit; sed dispositio aliqua ex parte nostra procedit, et secundum hoc habet aliquam originem in nobis. Sed quia humani actus non procedunt ex necessitate, sed ex libero arbitrio; ideo non potest assignari causa ex parte nostra alicujus actus nostri, ex quo semper procedat, sed ex quo ut in pluribus contingit propter dispositionem existentem in nobis ad hoc, quae tamen non necessario inclinat; unde omnes sermones morales sunt tales, ut Philosophus in 1 *Ethica* dicit, quod ut in pluribus oportet eos intelligere. Cum autem poenitentia sit *revocatio a peccato*, ut Damascenus dicit, oportet originem ejus in nobis accipi secundum dispositionem existentis in peccato. Ille autem qui in peccato est, non habet gustum sanum, ut ex dulcedine divinae bonitatis a peccato revocetur; sed habet affectum infectum amore sui inordinato; et ideo per poenas quae naturae suae contrariantur et voluntati, a peccato revocatur, ut Philosophus in 10 *Ethica*, dicit de talibus, quod *proprias delectationes prosequuntur, et fugiunt oppositas tristitias; boni autem, et vere delectabilis neque intellectum habent, neque gustativi existentes*; et ideo in eis ut in pluribus ex timore poenitentia initium sumit; quamvis etiam in aliquibus ex amore poenitentia inchoetur.  
 
 Ad primum ergo dicendum, quod quamvis non habeat causam in subjecto, habet tamen dispositionem in ipso; et secundum hoc origo poenitentiae hic assignatur.  
 
@@ -298,7 +300,7 @@ Ad quartum dicendum, quod poenitentia timore servili concipitur, qui poenam resp
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod virtutes omnes simul infunduntur quantum ad habitus; sed quod una dicatur prior altera, est quantum ad ordinem consideratum in earum actibus. Cum autem per virtutum actus homo tendat in Deum, oportet ordinem actuum considerari secundum ordinem eorum quae in motu sunt. Motum autem voluntatis, cujusmodi est motus virtutum moralium, praecedit motus cognitionis: quia appetibile imaginatum vel intellectum movet appetitum, ut dicitur in 3 *de Anima*; et iterum aestimatio possibilitatis: quia electio, quae est principalis motus virtutis, non fit de impossibili aestimato. Motus autem appetitus in duobus consistit; scilicet in fuga mali, et in prosecutione boni: et haec duo diversimode ordinantur. Quandoque enim aliquis fugit malum propter desiderium boni, quandoque autem e converso; et hic motus est ut frequentius in reversione peccatoris ad Deum per poenitentiam, ut dictum est; et ideo motum poenitentiae praecedit motus fidei: quia *accedentem ad Deum oportet credere*; Hebr. 11, 6; et iterum motus spei conjunctus motui timoris, per quem fit aestimatio de possibilitate veniae consequendae; et ideo dicit Gregorius, quod poenitens movetur inter spem et timorem. Deinde ut in pluribus sequitur motus poenitentiae, et deinde motus caritatis et aliarum virtutum per ordinem. Quandoque etiam motus amoris motum poenitentiae praecedit, ut dictum est; sed ille amor non est caritatis, quia caritas amissa non recuperatur nisi per contritionem de peccatis praecedentibus, quae est motus poenitentiae virtutis. Et secundum hoc dicendum, quod poenitentia est prior quibusdam, scilicet caritate, et sequentibus ipsam; et posterior aliis, scilicet fide et spe.***
+Ad secundam quaestionem dicendum, quod virtutes omnes simul infunduntur quantum ad habitus; sed quod una dicatur prior altera, est quantum ad ordinem consideratum in earum actibus. Cum autem per virtutum actus homo tendat in Deum, oportet ordinem actuum considerari secundum ordinem eorum quae in motu sunt. Motum autem voluntatis, cujusmodi est motus virtutum moralium, praecedit motus cognitionis: quia appetibile imaginatum vel intellectum movet appetitum, ut dicitur in 3 *de Anima*; et iterum aestimatio possibilitatis: quia electio, quae est principalis motus virtutis, non fit de impossibili aestimato. Motus autem appetitus in duobus consistit; scilicet in fuga mali, et in prosecutione boni: et haec duo diversimode ordinantur. Quandoque enim aliquis fugit malum propter desiderium boni, quandoque autem e converso; et hic motus est ut frequentius in reversione peccatoris ad Deum per poenitentiam, ut dictum est; et ideo motum poenitentiae praecedit motus fidei: quia *accedentem ad Deum oportet credere*; Hebr. 11, 6; et iterum motus spei conjunctus motui timoris, per quem fit aestimatio de possibilitate veniae consequendae; et ideo dicit Gregorius, quod poenitens movetur inter spem et timorem. Deinde ut in pluribus sequitur motus poenitentiae, et deinde motus caritatis et aliarum virtutum per ordinem. Quandoque etiam motus amoris motum poenitentiae praecedit, ut dictum est; sed ille amor non est caritatis, quia caritas amissa non recuperatur nisi per contritionem de peccatis praecedentibus, quae est motus poenitentiae virtutis. Et secundum hoc dicendum, quod poenitentia est prior quibusdam, scilicet caritate, et sequentibus ipsam; et posterior aliis, scilicet fide et spe.  
 
 Ad primum ergo dicendum, quod fides et spes non habent rationem perfectae virtutis, nisi secundum quod sunt informatae caritate; et secundum hoc poenitentiam sequuntur; et sic aliquo modo verum est quod est prima inter omnes virtutes.  
 
@@ -312,7 +314,7 @@ Ad quintum dicendum, quod poenitentia de malo commisso, quamvis ex electione bon
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod fundamentum dicitur in spiritualibus ad similitudinem corporalis fundamenti; quod duas habet proprietates. Prima est quod ipsum est prima pars aedificii; alia est quod fundamento totum aedificium sustentatur; et ideo in spiritualibus fundamentum dicitur aliquid vel ratione prioritatis, vel ratione conservationis et sustentationis aliorum, aut etiam ratione utriusque.***
+Ad tertiam quaestionem dicendum, quod fundamentum dicitur in spiritualibus ad similitudinem corporalis fundamenti; quod duas habet proprietates. Prima est quod ipsum est prima pars aedificii; alia est quod fundamento totum aedificium sustentatur; et ideo in spiritualibus fundamentum dicitur aliquid vel ratione prioritatis, vel ratione conservationis et sustentationis aliorum, aut etiam ratione utriusque.  
 
 Prioritas autem attenditur dupliciter. Uno modo quantum ad disciplinam spiritualium; et sic illa quae primo occurrunt edocenda in Christiana religione, fundamentum dicuntur, Hebr. 6. Alio modo quantum ad vitam spiritualem; et sic fides dicitur simpliciter fundamentum primum; sed timor et poenitentia in genere eorum quae ad affectum pertinent quantum ad fugam mali; caritas autem quantum ad prosecutionem boni, prout dicitur Ephes. 3, 17; *in caritate radicati et fundati*. Sed ratione sustentationis, in prosperis dicitur humilitas fundamentum, in adversis autem fortitudo. Poenitentia autem et timor in recedendo a malo, diversimode sunt fundamenta: quia timor est primum in isto toto genere quod est recedere a malo; sed poenitentia quantum ad hanc speciem quae est recedere a malo commisso; et ideo etiam timor praecedit poenitentiam; sicut principia generis praecedunt principia speciei.  
 
@@ -320,7 +322,7 @@ Et per hoc patet solutio ad objecta.
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod locutio Hieronymi est metaphorica. Illi enim qui prospero itinere mare navigant, prima tabula sustentantur, scilicet ipsa navi integra; sed naufragium passi, alicujus tabulae navis fractae auxilio ad portum salutis ducuntur; et haec est secunda tabula quae est post naufragium: non quod sit secunda post naufragium; sed quia existens post naufragium, est secunda a prima quae erat ante naufragium. Unde consuetudo sua est, ut patet ejus dicta legenti, ut omne illud quod praestat remedium post aliquod periculum eveniens, secundam tabulam post naufragium vocet. Gratia autem baptismalis, per quam in Ecclesia collocamur, cujus figura fuit arca Noe, dicitur prima tabula ante naufragium. Sed quia per peccatum mortale naufragium passis et a gratia innocentiae cadentibus non restat aliquod remedium nisi poenitentia, ideo poenitentia secunda tabula dicitur.***
+Ad quartam quaestionem dicendum, quod locutio Hieronymi est metaphorica. Illi enim qui prospero itinere mare navigant, prima tabula sustentantur, scilicet ipsa navi integra; sed naufragium passi, alicujus tabulae navis fractae auxilio ad portum salutis ducuntur; et haec est secunda tabula quae est post naufragium: non quod sit secunda post naufragium; sed quia existens post naufragium, est secunda a prima quae erat ante naufragium. Unde consuetudo sua est, ut patet ejus dicta legenti, ut omne illud quod praestat remedium post aliquod periculum eveniens, secundam tabulam post naufragium vocet. Gratia autem baptismalis, per quam in Ecclesia collocamur, cujus figura fuit arca Noe, dicitur prima tabula ante naufragium. Sed quia per peccatum mortale naufragium passis et a gratia innocentiae cadentibus non restat aliquod remedium nisi poenitentia, ideo poenitentia secunda tabula dicitur.  
 
 Ad primum ergo dicendum, quod alia sacramenta non subveniunt naufragium passis per peccatum mortale sine poenitentia; et ideo non possunt dici secunda tabula, sicut poenitentia, quae post lapsum subvenit; unde quamvis non sit secundum sacramentum, est tamen secunda tabula.  
 
@@ -334,7 +336,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod poenitentia sit in qualibet vi. Nihil enim agit ubi non est. Sed poenitentia expellit peccatum a qualibet vi. Ergo est in qualibet vi.***
+Ad tertium sic proceditur. Videtur quod poenitentia sit in qualibet vi. Nihil enim agit ubi non est. Sed poenitentia expellit peccatum a qualibet vi. Ergo est in qualibet vi.  
 
 Item, videtur quod sit in concupiscibili. Quia poenitentia est dolor. Sed dolor est in concupiscibili, sicut et gaudium. Ergo poenitentia est in concupiscibili.  
 
@@ -346,7 +348,7 @@ Item, videtur quod sit in ratione. Quia poenitentia est pars justitiae. Sed just
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in innocentibus poenitentia esse non possit. Quia poenitere est *commissa mala plangere*. Sed innocentes nullum malum commiserunt. Ergo in eis poenitentia non est.***
+Ulterius. Videtur quod in innocentibus poenitentia esse non possit. Quia poenitere est *commissa mala plangere*. Sed innocentes nullum malum commiserunt. Ergo in eis poenitentia non est.  
 
 Praeterea, poenitentia ex suo nomine importat poenam. Sed innocentibus non debetur poena. Ergo non est in eis poenitentia.  
 
@@ -358,7 +360,7 @@ Praeterea, ille qui nunquam fuit infirmus corporaliter, dicitur sanabilis. Ergo 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sancti homines qui sunt in gloria, non habeant poenitentiam. Quia, sicut dicit Gregorius in *Moralibus*, beati peccatorum recordantur, sicut nos sani sine dolore dolorum memoramur. Sed poenitentia est dolor cordis, ut dictum est. Ergo sancti in patria non habent poenitentiam.***
+Ulterius. Videtur quod sancti homines qui sunt in gloria, non habeant poenitentiam. Quia, sicut dicit Gregorius in *Moralibus*, beati peccatorum recordantur, sicut nos sani sine dolore dolorum memoramur. Sed poenitentia est dolor cordis, ut dictum est. Ergo sancti in patria non habent poenitentiam.  
 
 Praeterea, sancti in patria sunt Christo conformes. Sed in Christo non fuit poenitentia, nec fides, quae est principium poenitentiae. Ergo nec in sanctis in patria erit poenitentia.  
 
@@ -370,7 +372,7 @@ Praeterea, in vitis patrum legitur a quodam patre dictum, quod etiam Abraham poe
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod etiam angelus, bonus seu malus, sit susceptivus poenitentiae. Quia timor est initium poenitentiae. Sed in eis est timor; Jac. 2, 19: *daemones credunt et contremiscunt*. Ergo in eis potest esse poenitentia.***
+Ulterius. Videtur quod etiam angelus, bonus seu malus, sit susceptivus poenitentiae. Quia timor est initium poenitentiae. Sed in eis est timor; Jac. 2, 19: *daemones credunt et contremiscunt*. Ergo in eis potest esse poenitentia.  
 
 Praeterea, Philosophus dicit in 9 *Ethica*, quod *poenitudine replentur mali*, et haec est maxima poena eis. Sed daemones maxime sunt pravi, nec aliqua poena eis deest. Ergo daemones possunt poenitere.  
 
@@ -384,7 +386,7 @@ Praeterea, Damascenus, dicit quod homo fungitur poenitentia propter corporis inf
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quidam dicunt, subjectum omnis virtutis esse liberum arbitrium. Sed hoc non potest esse; quia omnis actus humanus ordinatus elicitive procedit ab aliqua virtute humana; quaelibet autem potentia humana habet aliquem actum ordinatum (et dico potentiam humanam rationem, vel quae rationi obediat); et ideo in omni tali potentia potest esse virtus, quae eliciat ordinatum actum illius potentiae; et de hoc in 3 Lib., dist. 33, qu. 2, art. 4, quaestiunc. 1, plura dicta sunt.***
+Respondeo dicendum ad primam quaestionem, quod quidam dicunt, subjectum omnis virtutis esse liberum arbitrium. Sed hoc non potest esse; quia omnis actus humanus ordinatus elicitive procedit ab aliqua virtute humana; quaelibet autem potentia humana habet aliquem actum ordinatum (et dico potentiam humanam rationem, vel quae rationi obediat); et ideo in omni tali potentia potest esse virtus, quae eliciat ordinatum actum illius potentiae; et de hoc in 3 Lib., dist. 33, qu. 2, art. 4, quaestiunc. 1, plura dicta sunt.  
 
 Et ideo quidam dicunt, quod poenitentia est in omnibus viribus. Sed hoc non potest esse; quia unus habitus non potest esse nisi unius potentiae, sicut una forma nisi unius materiae, et unum accidens non nisi unius subjecti.  
 
@@ -406,7 +408,7 @@ Quintum concedimus.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod habitus medius est inter potentiam et actum. Et quia remoto priori, removetur posterius, non autem e converso; ideo remota potentia ad actum, removetur habitus, non autem remoto actu. Et quia subtractio materiae tollit actum, propter hoc quod actus non potest esse sine materia in quam transit; ideo habitus alicujus virtutis competit alicui cui non suppetit materia, propter hoc quod suppetere potest, et ita in actum exire; sicut pauper homo potest habere habitum magnificentiae, sed non actum, quia non habet magnitudinem divitiarum, quae sunt materia magnificentiae, sed potest habere: et ideo cum innocentes in statu innocentiae non habeant peccata commissa, quae sunt materia poenitentiae, sed possint habere; actus poenitentiae in eis esse non potest; sed habitus potest; et hoc, si gratiam habeant, cum qua omnes virtutes infunduntur.***
+Ad secundam quaestionem dicendum, quod habitus medius est inter potentiam et actum. Et quia remoto priori, removetur posterius, non autem e converso; ideo remota potentia ad actum, removetur habitus, non autem remoto actu. Et quia subtractio materiae tollit actum, propter hoc quod actus non potest esse sine materia in quam transit; ideo habitus alicujus virtutis competit alicui cui non suppetit materia, propter hoc quod suppetere potest, et ita in actum exire; sicut pauper homo potest habere habitum magnificentiae, sed non actum, quia non habet magnitudinem divitiarum, quae sunt materia magnificentiae, sed potest habere: et ideo cum innocentes in statu innocentiae non habeant peccata commissa, quae sunt materia poenitentiae, sed possint habere; actus poenitentiae in eis esse non potest; sed habitus potest; et hoc, si gratiam habeant, cum qua omnes virtutes infunduntur.  
 
 Ad primum ergo dicendum, quod quamvis non commiserint, possunt tamen committere; et ideo eis habitum poenitentiae habere competit. Sed tamen habitus iste nunquam in actum exire potest, nisi forte respectu venialium peccatorum, quia peccata mortalia tollunt ipsum. Nec tamen est frustra, quia est perfectio potentiae naturalis.  
 
@@ -416,7 +418,7 @@ Ad tertium dicendum, quod remanente potentia ad peccandum, adhuc haberet locum v
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod virtutes cardinales in patria remanebunt; sed secundum actus quos habent in fine suo, ut in 3 Lib., dist. 33, qu. 1, art. 4, in corp., dictum est; et ideo cum poenitentia virtus, sit pars justitiae, quae est habitus cardinalis, quicumque habet habitum poenitentiae in hac vita, habebit in futura; sed non habebit eumdem actum quem nunc habet, sed alium, scilicet gratias agere Deo pro misericordia relaxante peccata.***
+Ad tertiam quaestionem dicendum, quod virtutes cardinales in patria remanebunt; sed secundum actus quos habent in fine suo, ut in 3 Lib., dist. 33, qu. 1, art. 4, in corp., dictum est; et ideo cum poenitentia virtus, sit pars justitiae, quae est habitus cardinalis, quicumque habet habitum poenitentiae in hac vita, habebit in futura; sed non habebit eumdem actum quem nunc habet, sed alium, scilicet gratias agere Deo pro misericordia relaxante peccata.  
 
 Ad primum ergo dicendum, quod illa auctoritas probat quod non habent eumdem actum quem hic habet poenitentia; et hoc concedimus.  
 
@@ -430,7 +432,7 @@ Sed quia quinta ratio probat quod etiam idem actus poenitentiae erit in patria q
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod poenitentia in nobis dupliciter accipitur. Uno modo secundum quod est passio; sic enim nihil aliud est quam dolor vel tristitia de malo commisso. Et quamvis secundum quod est passio, non sit nisi in concupiscibili, tamen aliquis voluntatis actus similitudinarie poenitentia dicitur, quo quidem detestatur quod facit; sicut etiam amor et aliae passiones dantur in intellectivo appetitu, ut in 3 Lib., dist. 26, qu. 1, art. 5 dictum est. Alio modo accipitur secundum quod est virtus; et hoc modo detestari malum commissum cum emendationis proposito et in tentione expiandi, vel Deum placandi de offensa commissa, est actus ejus.***
+Ad quartam quaestionem dicendum, quod poenitentia in nobis dupliciter accipitur. Uno modo secundum quod est passio; sic enim nihil aliud est quam dolor vel tristitia de malo commisso. Et quamvis secundum quod est passio, non sit nisi in concupiscibili, tamen aliquis voluntatis actus similitudinarie poenitentia dicitur, quo quidem detestatur quod facit; sicut etiam amor et aliae passiones dantur in intellectivo appetitu, ut in 3 Lib., dist. 26, qu. 1, art. 5 dictum est. Alio modo accipitur secundum quod est virtus; et hoc modo detestari malum commissum cum emendationis proposito et in tentione expiandi, vel Deum placandi de offensa commissa, est actus ejus.  
 
 Detestatio autem mali competit alicui secundum quod habet ordinem naturalem ad bonum. Et quia in nulla creatura talis inclinatio totaliter tollitur; ideo etiam in damnatis talis detestatio manet, et per consequens poenitentia passio, vel similis ei, ut dicitur Sap. 5, 3: *intra se gementes, et poenitentiam agentes*. Et haec quidem poenitentia, cum non sit habitus, sed passio vel actus, nullo modo in beatis angelis esse potest, in quibus peccata commissa non praecesserunt; sed in malis angelis est, cum sit eadem ratio de ipsis et de animabus damnatorum; quia secundum Damascenum, *quod est homini mors, hoc est angelis casus*. Sed peccatum angeli est irremissibile, ut in 2 Lib., dist. 7, qu. 1, art. 2, dictum est. Et quia peccatum, ut est remissibile vel expiabile, est propria materia istius virtutis quae poenitentia dicitur; ideo cum materia non possit eis competere, non adest eis potentia exeundi in actu; et ideo nec habitus eis convenit; et ideo angeli subjectum poenitentiae virtutis esse non possunt.  
 
@@ -448,7 +450,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod de ratione verae poenitentiae sit quod usque in finem vitae continuetur. Poenitentia enim est quasi quaedam recompensatio Deo facta pro offensa commissa. Sed offensa fuit infinita; unde aeterna poena debetur pro peccato mortali. Ergo et poenitentia delens hanc culpam, ad hoc quod sit vera, oportet quod usque in finem duret.***
+Ad quartum sic proceditur. Videtur quod de ratione verae poenitentiae sit quod usque in finem vitae continuetur. Poenitentia enim est quasi quaedam recompensatio Deo facta pro offensa commissa. Sed offensa fuit infinita; unde aeterna poena debetur pro peccato mortali. Ergo et poenitentia delens hanc culpam, ad hoc quod sit vera, oportet quod usque in finem duret.  
 
 Praeterea, nihil destruitur nisi a fortiori se. Sed poenitentia est fortius quam peccatum, quia expellit ipsum. Cum ergo vera poenitentia non possit discontinuari nisi per peccatum, videtur quod si fuerit vera, nullo modo a statu poenitentiae quis cadere possit.  
 
@@ -460,7 +462,7 @@ Praeterea, nulla virtus potest remanere sine caritate; et ea habita, omnes haben
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod necesse sit dolorem poenitentiae per gaudium interrumpi. Gaudium enim et dolor sunt affectiones contrariae. Sed contraria non sunt nata esse in eodem. Ergo, cum oporteat poenitentem aliquando de sua poenitentia gaudere, ut in littera dicitur, oportet quod dolor per illud gaudium interrumpatur.***
+Ulterius. Videtur quod necesse sit dolorem poenitentiae per gaudium interrumpi. Gaudium enim et dolor sunt affectiones contrariae. Sed contraria non sunt nata esse in eodem. Ergo, cum oporteat poenitentem aliquando de sua poenitentia gaudere, ut in littera dicitur, oportet quod dolor per illud gaudium interrumpatur.  
 
 Praeterea, sicut mali dolent de suo gaudio, ita boni gaudent de suo dolore. Sed Philosophus in 9 *Ethica* dicit, quod mali de hoc quod delectati sunt, postmodum dolent; quod non potest esse simul dum delectantur. Ergo nec boni simul cum dolent, possunt gaudere de hoc quod dolent.  
 
@@ -472,7 +474,7 @@ Praeterea, secundum Philosophum in 2 *Ethica*, *signum generati habitus oportet 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod poenitentia iterari non possit. Sicut enim baptismus habet efficaciam a passione Christi, ita poenitentia, et omnia alia sacramenta. Sed quia passio Christi est una, ideo baptismus iterari non potest. Ergo nec poenitentia potest iterari.***
+Ulterius. Videtur quod poenitentia iterari non possit. Sicut enim baptismus habet efficaciam a passione Christi, ita poenitentia, et omnia alia sacramenta. Sed quia passio Christi est una, ideo baptismus iterari non potest. Ergo nec poenitentia potest iterari.  
 
 Praeterea, sicut dicit Gregorius, *facilitas veniae incentivum praebet delinquendi*. Sed Deus non debet alicui dare peccandi occasionem. Ergo non debet dare locum poenitentiam iterandi.  
 
@@ -484,7 +486,7 @@ Praeterea, Matth. 12, dicitur: *qui peccat in patrem vel filium, remittetur ei*.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem quod opinio ista quae posuit quod nullus homo a vera poenitentia possit excidere, est erronea, et conformis illi quae in 3 Lib. posita est, dist. 26, qu. 1, art. 1, quod caritas semel habita non possit amitti. Sed tamen de caritate videbantur magis moveri, considerantes efficaciam ejus, ex qua apparebat quod non posset per aliquod peccatum vinci. Sed de poenitentia videbantur moveri, quia ad integritatem poenitentiae requiritur continuatio usque in finem vitae. Sed utrumque frivolum est. Primo, quia quantumcumque aliqua virtus efficaciam habeat, flexibilitatem a libero arbitrio non tollit, dum est in statu viae. Similiter illud quod futurum est, non potest esse de substantia vel de integritate alicujus virtutis, nisi secundum quod est praesens in apprehensione vel in voluntate; quia virtus quantum ad habitum non expectat aliquid in futurum; habitus enim virtutis est de rebus permanentibus, non de successivis; unde totam perfectionem suam habet simul in instanti; quae tota simul in unum actum potest effluere, quia actus sunt similes habitibus, ut dicitur in 3 *Ethic*. Et sic quod futurum est, non est de integritate vel essentia ipsius. Unde cum poenitentia sit virtus, et secundum quod est sacramentum, non se extendat ultra actum virtutis; non erit de integritate poenitentiae essentiali futuri continuatio, nisi ut sit in proposito; et ideo potest esse vera poenitentia, et tamen ab ea postmodum aliquis excidet.***
+Respondeo dicendum ad primam quaestionem quod opinio ista quae posuit quod nullus homo a vera poenitentia possit excidere, est erronea, et conformis illi quae in 3 Lib. posita est, dist. 26, qu. 1, art. 1, quod caritas semel habita non possit amitti. Sed tamen de caritate videbantur magis moveri, considerantes efficaciam ejus, ex qua apparebat quod non posset per aliquod peccatum vinci. Sed de poenitentia videbantur moveri, quia ad integritatem poenitentiae requiritur continuatio usque in finem vitae. Sed utrumque frivolum est. Primo, quia quantumcumque aliqua virtus efficaciam habeat, flexibilitatem a libero arbitrio non tollit, dum est in statu viae. Similiter illud quod futurum est, non potest esse de substantia vel de integritate alicujus virtutis, nisi secundum quod est praesens in apprehensione vel in voluntate; quia virtus quantum ad habitum non expectat aliquid in futurum; habitus enim virtutis est de rebus permanentibus, non de successivis; unde totam perfectionem suam habet simul in instanti; quae tota simul in unum actum potest effluere, quia actus sunt similes habitibus, ut dicitur in 3 *Ethic*. Et sic quod futurum est, non est de integritate vel essentia ipsius. Unde cum poenitentia sit virtus, et secundum quod est sacramentum, non se extendat ultra actum virtutis; non erit de integritate poenitentiae essentiali futuri continuatio, nisi ut sit in proposito; et ideo potest esse vera poenitentia, et tamen ab ea postmodum aliquis excidet.  
 
 Ad primum ergo dicendum, quod sicut offensa habuit infinitatem, ita etiam et unus contritionis actus habet quamdam infinitatem, tum ex virtute gratiae quae dat operibus infinitum valorem, ut scilicet per ea homo infinitum bonum mereatur; tum ex merito Christi, quod operatur in omnibus sacramentis, et in omnibus meritis.*meritis.—meritis nostris* PLE.  
 
@@ -494,7 +496,7 @@ Ad tertium dicendum, quod aliquando homo vincitur a debiliori, qui fortiorem vin
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod gaudium et tristitia secundum genus sunt contraria; non tamen quodlibet gaudium cuilibet tristitiae opponitur, sed ei quae est de eodem. Si autem de contrariis sunt vel de diversis, unum potest esse causa alterius, vel materiale ad ipsum; qui enim de praesentia gaudet, eo ipso sequitur quod de absentia tristatur. Similiter etiam quando de aliquo tristari est nobis utile vel decens, tristitia potest esse materia gaudii. Si ergo gaudium et tristitia directe contraria accipiantur, sic non possunt simul esse in eodem secundum idem; si autem sint de diversis vel contrariis, sic quidem quantum ad causam suam possunt simul esse, quia potest esse voluntas de uno et voluntas de altero; et similiter si unum sit ratio alterius. Sed quantum ad sensum qui requiritur in utroque, quia gaudium non est sine perceptione convenientis, neque tristitia sine perceptione nocivi, impossibile est quod utrumque simul intense insit: quia anima quando intense occupatur circa unum, retrahitur ab altero; sed imperfecte possunt esse simul; ita tamen quod unum nunc sit perfectius, et aliud postmodum.***
+Ad secundam quaestionem dicendum, quod gaudium et tristitia secundum genus sunt contraria; non tamen quodlibet gaudium cuilibet tristitiae opponitur, sed ei quae est de eodem. Si autem de contrariis sunt vel de diversis, unum potest esse causa alterius, vel materiale ad ipsum; qui enim de praesentia gaudet, eo ipso sequitur quod de absentia tristatur. Similiter etiam quando de aliquo tristari est nobis utile vel decens, tristitia potest esse materia gaudii. Si ergo gaudium et tristitia directe contraria accipiantur, sic non possunt simul esse in eodem secundum idem; si autem sint de diversis vel contrariis, sic quidem quantum ad causam suam possunt simul esse, quia potest esse voluntas de uno et voluntas de altero; et similiter si unum sit ratio alterius. Sed quantum ad sensum qui requiritur in utroque, quia gaudium non est sine perceptione convenientis, neque tristitia sine perceptione nocivi, impossibile est quod utrumque simul intense insit: quia anima quando intense occupatur circa unum, retrahitur ab altero; sed imperfecte possunt esse simul; ita tamen quod unum nunc sit perfectius, et aliud postmodum.  
 
 Dolor autem qui est in poenitentia, est de peccato commisso; unde simul cum hoc non potest esse gaudium de eodem; sed potest esse gaudium de spe veniae, quam per dolorem concipit; vel etiam hoc ipso quod in exhibendo dolorem pro peccatis commissis, facit quod debet; et ideo detestatio peccati commissi, quae est causa doloris, et voluntas detestandi, quae est causa gaudii, sunt simul; volens enim detestatur. Et quia unum est ratio alterius, ideo anima ad utrumque converti potest simul, inquantum ex eis quodammodo fit unum. Quando autem ex aliquibus duobus fit unum, unum est ut materiale, et alterum ut formale; et ideo anima ad unum illorum convertitur per prius, et ad alterum per posterius; et propter hoc non potest inesse utrumque secundum sui completam rationem, sed quandoque unum, quandoque alterum. Quando enim plene convertitur ad spem veniae vel ad decentiam doloris, tunc gaudium est principaliter, et dolor de peccato ex consequenti: quando autem principaliter convertitur ad peccatum commissum, tunc est e contrario.  
 
@@ -506,7 +508,7 @@ Ad tertium dicendum sicut ad primum.
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod erroneum est dicere quod poenitentia non possit iterari, et misericordiae divinae contrarium. Causa autem quare iteratur, cum baptismus non iteretur, est quadruplex. Prima est, quia poenitentia non imprimit characterem sicut baptismus: character enim indelebilis est. Secunda, quia baptisma est contra morbum non iterabilem, scilicet originale peccatum; poenitentia autem contra actuale peccatum, quod iteratur. Tertia causa est, quia baptismus habet totam efficaciam a passione Christi sine actu nostro; et ideo, quia passio est una tantum, et baptismus unus; sed poenitentia etiam requirit actum nostrum, ut prius dictum est, et ideo ratione ejus iterationem suscipit. Quarta, quia baptismus est generatio spiritualis, sed poenitentia est quaedam sanatio spiritualis: semel autem aliquid generatur, sed pluries curari sive sanari potest, quamdiu in hac vita vivit.***
+Ad tertiam quaestionem dicendum, quod erroneum est dicere quod poenitentia non possit iterari, et misericordiae divinae contrarium. Causa autem quare iteratur, cum baptismus non iteretur, est quadruplex. Prima est, quia poenitentia non imprimit characterem sicut baptismus: character enim indelebilis est. Secunda, quia baptisma est contra morbum non iterabilem, scilicet originale peccatum; poenitentia autem contra actuale peccatum, quod iteratur. Tertia causa est, quia baptismus habet totam efficaciam a passione Christi sine actu nostro; et ideo, quia passio est una tantum, et baptismus unus; sed poenitentia etiam requirit actum nostrum, ut prius dictum est, et ideo ratione ejus iterationem suscipit. Quarta, quia baptismus est generatio spiritualis, sed poenitentia est quaedam sanatio spiritualis: semel autem aliquid generatur, sed pluries curari sive sanari potest, quamdiu in hac vita vivit.  
 
 Et sic patet solutio ad primum.  
 
@@ -520,7 +522,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod non debeat aliqua poenitentia publicari vel solemnizari. Quia non licet sacerdoti, etiam metu,*metu.—metu mortis* PLE. peccatum alicujus confiteri, quantumcumque publicum. Sed per poenitentiam solemnem publicatur peccatum. Ergo non debet solemnizari.***
+Ad quintum sic proceditur. Videtur quod non debeat aliqua poenitentia publicari vel solemnizari. Quia non licet sacerdoti, etiam metu,*metu.—metu mortis* PLE. peccatum alicujus confiteri, quantumcumque publicum. Sed per poenitentiam solemnem publicatur peccatum. Ergo non debet solemnizari.  
 
 Praeterea, judicium debet esse secundum conditionem fori. Sed poenitentia est quoddam judicium quod in foro occulto agitur. Ergo non debet publicari, sive solemnizari.  
 
@@ -532,7 +534,7 @@ Praeterea, medicina debet respondere morbo. Sed peccatum quandoque est publicum,
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod solemnis poenitentia iterari possit. Sacramenta enim quae characterem non imprimunt, cum sua solemnitate iterantur, sicut Eucharistia, et extrema unctio, et hujusmodi. Sed poenitentia non imprimit characterem. Ergo cum sua solemnitate debet iterari.***
+Ulterius. Videtur quod solemnis poenitentia iterari possit. Sacramenta enim quae characterem non imprimunt, cum sua solemnitate iterantur, sicut Eucharistia, et extrema unctio, et hujusmodi. Sed poenitentia non imprimit characterem. Ergo cum sua solemnitate debet iterari.  
 
 Praeterea, poenitentia solemnizatur propter gravitatem et manifestationem peccati. Sed post peractam poenitentiam contingit similia peccata committere, vel etiam graviora. Ergo solemnis poenitentia iterum debet adhiberi.  
 
@@ -540,7 +542,7 @@ Sed contra, poenitentia solemnis significat ejectionem primi hominis de paradiso
 
 Quaestiuncula 3  
 
-***Ulterius. Quaeritur de ritu solemnis poenitentiae; et videtur quod mulieribus non sit imponenda. Quia vir, cui imponitur solemnis poenitentia, debet comam abjicere, sed hoc non competit mulieri, ut patet 1 Corinth. 11. Ergo non debet agere solemnem poenitentiam.***
+Ulterius. Quaeritur de ritu solemnis poenitentiae; et videtur quod mulieribus non sit imponenda. Quia vir, cui imponitur solemnis poenitentia, debet comam abjicere, sed hoc non competit mulieri, ut patet 1 Corinth. 11. Ergo non debet agere solemnem poenitentiam.  
 
 Item, videtur quod clericis sit imponenda. Quia imponitur propter gravitatem delicti. Sed idem peccatum gravius est in clerico quam in laico. Ergo magis debet imponi clerico quam laico.  
 
@@ -548,7 +550,7 @@ Item, videtur quod a quolibet sacerdote possit imponi. Quia absolvere in foro po
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod aliqua poenitentia debet esse publica et solemnis propter quatuor. Primo, ut peccatum publicum publicam habeat medicinam. Secundo, quia maxima confusione in hoc mundo etiam est dignus qui gravissimum scelus commisit. Tertio, ut sit aliis ad terrorem. Quarto, ut sit ad exemplum poenitendi, ne desperent qui in gravibus peccatis detinentur.***
+Respondeo dicendum ad primam quaestionem, quod aliqua poenitentia debet esse publica et solemnis propter quatuor. Primo, ut peccatum publicum publicam habeat medicinam. Secundo, quia maxima confusione in hoc mundo etiam est dignus qui gravissimum scelus commisit. Tertio, ut sit aliis ad terrorem. Quarto, ut sit ad exemplum poenitendi, ne desperent qui in gravibus peccatis detinentur.  
 
 Ad primum ergo dicendum, quod sacerdos non revelat confessionem, talem poenitentiam injungendo, quamvis suspicio oriatur illum aliquod enorme peccatum commisisse: non enim culpa pro certo scitur ex poena: quia quandoque aliquis poenitentiam pro alio facit, sicut legitur in vitis patrum de quodam, qui ut socium suum ad poenitentiam provocaret, ipse cum eo poenitentiam egit. Si autem sit peccatum publicum, ipse poenitens exequendo poenitentiam, confessionem a se factam manifestat.  
 
@@ -558,7 +560,7 @@ Ad tertium dicendum, quod poenitentia quamvis revocet omnes defectus, restituend
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod solemnis poenitentia iterari non debet, propter tria. Primo ne ex iteratione vilescat. Secundo propter significationem: quia est figura expulsionis hominis de paradiso, quae est semel tantum facta. Tertio, quia solemnizatio est quasi quaedam professio perpetuo poenitentiam conservandi: et ideo iteratio solemnitati resistit. Si tamen postmodum peccaverit, non clauditur ei locus poenitentiae; sed poenitentia solemnis iterum ei injungenda non est.***
+Ad secundam quaestionem dicendum, quod solemnis poenitentia iterari non debet, propter tria. Primo ne ex iteratione vilescat. Secundo propter significationem: quia est figura expulsionis hominis de paradiso, quae est semel tantum facta. Tertio, quia solemnizatio est quasi quaedam professio perpetuo poenitentiam conservandi: et ideo iteratio solemnitati resistit. Si tamen postmodum peccaverit, non clauditur ei locus poenitentiae; sed poenitentia solemnis iterum ei injungenda non est.  
 
 Ad primum ergo dicendum, quod in illis sacramentis in quibus solemnitas iteratur, iteratio solemnitati non repugnat, ut est in proposito: et ideo non est simile.  
 
@@ -566,7 +568,7 @@ Ad secundum dicendum, quod quamvis ratione criminis deberetur sibi eadem poenite
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod omnis solemnis poenitentia est publica, sed non convertitur. Poenitentia enim solemnis hoc modo fit. *In capite Quadragesimae tales poenitentes praesentant se cum presbyteris suis episcopo civitatis ante fores ecclesiae, sacco induti, nudis pedibus, vultibus demissis, coma deposita; et eis in ecclesia introductis episcopus cum omni clero septem Psalmos poenitentiales dicit, et postmodum eis manum imponit, aquam benedictam spargit, et cinerem capitibus imponit, Cilicio colla eorum operit, et denuntiat eis lacrymabiliter, quod sicut Adam ejectus est a paradiso, ita ipsi de ecclesia ejiciuntur; et jubet ministris ut eos ab ecclesia pellant, clero eos sequente cum hoc responsorio: ‘in sudore vultus tui vesceris pane tuo,’ etc. In coena autem domini quolibet anno a suis presbyteris in ecclesiam reducuntur, et erunt ibi usque ad octavas Paschae; ita tamen quod non communicabunt, nec pacem accipient; et sic fiat quolibet anno quousque aditus ecclesiae est eis interdictus. Ultima autem reconciliatio episcopo reservatur, ad quem solum spectat solemnis poenitentiae impositio*.***
+Ad tertiam quaestionem dicendum, quod omnis solemnis poenitentia est publica, sed non convertitur. Poenitentia enim solemnis hoc modo fit. *In capite Quadragesimae tales poenitentes praesentant se cum presbyteris suis episcopo civitatis ante fores ecclesiae, sacco induti, nudis pedibus, vultibus demissis, coma deposita; et eis in ecclesia introductis episcopus cum omni clero septem Psalmos poenitentiales dicit, et postmodum eis manum imponit, aquam benedictam spargit, et cinerem capitibus imponit, Cilicio colla eorum operit, et denuntiat eis lacrymabiliter, quod sicut Adam ejectus est a paradiso, ita ipsi de ecclesia ejiciuntur; et jubet ministris ut eos ab ecclesia pellant, clero eos sequente cum hoc responsorio: ‘in sudore vultus tui vesceris pane tuo,’ etc. In coena autem domini quolibet anno a suis presbyteris in ecclesiam reducuntur, et erunt ibi usque ad octavas Paschae; ita tamen quod non communicabunt, nec pacem accipient; et sic fiat quolibet anno quousque aditus ecclesiae est eis interdictus. Ultima autem reconciliatio episcopo reservatur, ad quem solum spectat solemnis poenitentiae impositio*.  
 
 Potest autem imponi viris et mulieribus, sed non clericis propter scandalum. Non autem talis poenitentia debet imponi nisi pro peccato quod totam commoverit urbem.  
 
@@ -596,7 +598,7 @@ primo, utrum poenitentia peccata tollat;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod per poenitentiam non semper peccata tollantur. Hebr. 10, 26: *voluntarie enim peccantibus nobis post acceptam notitiam veritatis, jam non relinquitur hostia pro peccato*. Sed in poenitentia homo se offert hostiam Deo. Psalm. 50, 19: *sacrificium Deo spiritus contribulatus*. Ergo poenitentia peccata eorum qui prolapsi sunt post notitiam veritatis, non delet.***
+Ad primum sic proceditur. Videtur quod per poenitentiam non semper peccata tollantur. Hebr. 10, 26: *voluntarie enim peccantibus nobis post acceptam notitiam veritatis, jam non relinquitur hostia pro peccato*. Sed in poenitentia homo se offert hostiam Deo. Psalm. 50, 19: *sacrificium Deo spiritus contribulatus*. Ergo poenitentia peccata eorum qui prolapsi sunt post notitiam veritatis, non delet.  
 
 Praeterea, Hebr. 12, super illud: *non invenit poenitentiae locum*, inquit *Glossa* interlineali: *idest, veniae locum et benedictionis per poenitentiam*. Ergo poenitentia non semper tollit praeterita peccata.  
 
@@ -610,7 +612,7 @@ Praeterea, major est misericordia Dei quam iniquitas hominis; unde reprehenditur
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam totaliter reatum tollat. Bonum enim est efficacius ad agendum quam malum, quia malum non agit nisi in virtute boni, ut Dionysius dicit. Sed per unum actum peccati homo et culpam et reatum incurrit. Ergo et per actum contritionis et a culpa et a reatu absolvitur.***
+Ulterius. Videtur quod etiam totaliter reatum tollat. Bonum enim est efficacius ad agendum quam malum, quia malum non agit nisi in virtute boni, ut Dionysius dicit. Sed per unum actum peccati homo et culpam et reatum incurrit. Ergo et per actum contritionis et a culpa et a reatu absolvitur.  
 
 Praeterea, Deus non plus exigit in poena quam fuit in culpa. Sed major dolor est in contritione de peccato quam fuerit in peccando delectatio: quia quantitas doloris de peccato est secundum quantitatem amoris Dei, qui est major quam omnis cupiditas rei temporalis, ut dicit *Glossa* super illud Psalm. 118: *dilexi mandata tua super aurum et topazion*. Ergo non exigit pro peccato aliam poenam quam illam quae est in contritione; et sic poenitentia a toto reatu absolvit.  
 
@@ -622,7 +624,7 @@ Praeterea, per poenitentiam non aufertur illud quod est expedimentum ad profectu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod per poenitentiam etiam reliquiae peccati actualis tollantur, sicut pronitas ad malum, habitudo,*habitudo.—hebitudo* PLE. et hujusmodi. Quia in generatione naturali non solum tollitur forma contraria, sed etiam dispositiones ad formam illam. Sed gratia quae per poenitentiam datur, est potentior quam forma naturalis. Ergo non solum tollit culpam, sed etiam hujusmodi reliquias, quae sunt dispositio ad culpam.***
+Ulterius. Videtur quod per poenitentiam etiam reliquiae peccati actualis tollantur, sicut pronitas ad malum, habitudo,*habitudo.—hebitudo* PLE. et hujusmodi. Quia in generatione naturali non solum tollitur forma contraria, sed etiam dispositiones ad formam illam. Sed gratia quae per poenitentiam datur, est potentior quam forma naturalis. Ergo non solum tollit culpam, sed etiam hujusmodi reliquias, quae sunt dispositio ad culpam.  
 
 Praeterea, sicut gratia est in essentia animae, ita virtus in potentia. Sed poenitentia restituit gratiam et virtutes, ut dicitur. Ergo sicut per gratiam aufert culpam ab anima ipsa, ita et per virtutes aufert reliquias a potentiis.  
 
@@ -630,7 +632,7 @@ Sed contra, baptismus est efficacior ad removendum peccatum quam poenitentia. Se
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod poenitentia potest considerari inquantum est sacramentum, et inquantum est virtus; et utroque modo ad remissionem peccatorum aliquo modo operatur. Secundum enim quod est novae legis sacramentum, gratia in ea datur ad defectum illum sanandum contra quem inducta est, scilicet ad dimissionem culpae actualis. Operatur etiam ad dimissionem peccati, inquantum est virtus, speciali modo prae aliis virtutibus. Quia secundum omnem virtutem formatam ex parte habitus peccata dimittuntur ratione gratiae, quae cum ea infunditur; sed hoc est formaliter remittere: sed poenitentia ex ratione sui actus habet quod per eam peccata dimittantur, secundum quod peccata commissa sunt materia actus ejus. Cum enim peccatum ex hoc remitti dicatur vel retineri, quod habet rationem offensae; illud quod offensam aufert, peccatum tollit. Cum autem offensa, inquantum hujusmodi, sit inaequalitas quaedam, qua unus alii subtraxit quod debitum erat, actu illius virtutis peccatum remittitur quae inaequalitatem praedictam ad aequalitatem reducit. Hoc autem facit poenitentia, ut ex dictis patet, quae in recompensationem divinae offensae spiritum Deo contribulatum offert; et ideo poenitentiae etiam ex parte actus sui competit peccatum tollere; et hoc est efficienter, et non solum formaliter, per poenitentiam peccata dimitti.***
+Respondeo dicendum ad primam quaestionem, quod poenitentia potest considerari inquantum est sacramentum, et inquantum est virtus; et utroque modo ad remissionem peccatorum aliquo modo operatur. Secundum enim quod est novae legis sacramentum, gratia in ea datur ad defectum illum sanandum contra quem inducta est, scilicet ad dimissionem culpae actualis. Operatur etiam ad dimissionem peccati, inquantum est virtus, speciali modo prae aliis virtutibus. Quia secundum omnem virtutem formatam ex parte habitus peccata dimittuntur ratione gratiae, quae cum ea infunditur; sed hoc est formaliter remittere: sed poenitentia ex ratione sui actus habet quod per eam peccata dimittantur, secundum quod peccata commissa sunt materia actus ejus. Cum enim peccatum ex hoc remitti dicatur vel retineri, quod habet rationem offensae; illud quod offensam aufert, peccatum tollit. Cum autem offensa, inquantum hujusmodi, sit inaequalitas quaedam, qua unus alii subtraxit quod debitum erat, actu illius virtutis peccatum remittitur quae inaequalitatem praedictam ad aequalitatem reducit. Hoc autem facit poenitentia, ut ex dictis patet, quae in recompensationem divinae offensae spiritum Deo contribulatum offert; et ideo poenitentiae etiam ex parte actus sui competit peccatum tollere; et hoc est efficienter, et non solum formaliter, per poenitentiam peccata dimitti.  
 
 Ad primum ergo dicendum, quod apostolus loquitur ibi de hostia quae universaliter pro peccatis totius mundi oblata est, scilicet Christo, quae est unica et singularis; nec iterum pro peccatis delendis offertur, sed unica sua oblatione valet ad hoc quod per poenitentiam, et alia sacramenta omnia peccata possint dimitti.  
 
@@ -642,7 +644,7 @@ Ad quartum dicendum, quod offensa infinita est ex parte aversionis, sed non ex p
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum Philosophum in 5 *Ethica*, tam justitia quam amicitia in aequalitate quadam consistit. Qui ergo aliquem offendit, contra aequalitatem amicitiae peccat, inquantum affectum debitum non impendit; et contra aequalitatem justitiae, inquantum rem debitam subtrahit. Et sicut haec duo in offensa quandoque dividuntur, ita etiam in recompensatione separantur; sicut quando poena per violentiam offendenti infertur, fit recompensatio quantum ad justitiam, sed non quantum ad amicitiam. Similiter quando offendens offensum verbis placat, nondum re subtracta restituta, fit recompensatio amicitiae, sed non justitiae. Peccator ergo per effectum*effectum.—affectum* PLE. peccati amicitiam Dei violavit, et per inobedientiam divinae legis honorem debitum Deo subtraxit; et ex primo amittit gratiam et incurrit offensam; ex secundo meretur poenam, ut ab eo qui per inobedientiam subtraxit, subtrahatur per poenam; et hoc poenae meritum reatus dicitur; et ideo per poenitentiam, qua homo se Deo supponit, peccata praeterita detestando cum emendationis proposito, remittitur quidem peccatum quantum ad offensam, sed non oportet quod remittatur quantum ad totum reatum nisi poena jam soluta; et sic per poenitentiam non simul cum culpae dimissione totus etiam reatus dimittitur.***
+Ad secundam quaestionem dicendum, quod secundum Philosophum in 5 *Ethica*, tam justitia quam amicitia in aequalitate quadam consistit. Qui ergo aliquem offendit, contra aequalitatem amicitiae peccat, inquantum affectum debitum non impendit; et contra aequalitatem justitiae, inquantum rem debitam subtrahit. Et sicut haec duo in offensa quandoque dividuntur, ita etiam in recompensatione separantur; sicut quando poena per violentiam offendenti infertur, fit recompensatio quantum ad justitiam, sed non quantum ad amicitiam. Similiter quando offendens offensum verbis placat, nondum re subtracta restituta, fit recompensatio amicitiae, sed non justitiae. Peccator ergo per effectum*effectum.—affectum* PLE. peccati amicitiam Dei violavit, et per inobedientiam divinae legis honorem debitum Deo subtraxit; et ex primo amittit gratiam et incurrit offensam; ex secundo meretur poenam, ut ab eo qui per inobedientiam subtraxit, subtrahatur per poenam; et hoc poenae meritum reatus dicitur; et ideo per poenitentiam, qua homo se Deo supponit, peccata praeterita detestando cum emendationis proposito, remittitur quidem peccatum quantum ad offensam, sed non oportet quod remittatur quantum ad totum reatum nisi poena jam soluta; et sic per poenitentiam non simul cum culpae dimissione totus etiam reatus dimittitur.  
 
 Ad primum ergo dicendum, quod sicut quod est perfectum, est efficacius ad agendum quam imperfectum; ita quod est perfectum, est difficilius ad fiendum; unde sicut bonum est efficacius ad agendum quam malum, ita difficilius est ad constituendum quam malum. In hoc ergo efficacior apparet actio boni quam actio mali, quia actio mali nunquam terminatur ad malum quod non habet admixtum bonum; sed actio boni terminatur ad bonum quandoque cui non admiscetur malum. Non tamen oportet quod, si aliquod malum per unum actum malum incurritur, per unum actum bonum opposita bona reparentur.  
 
@@ -652,7 +654,7 @@ Ad tertium dicendum, quod baptismus est spiritualis regeneratio; et quia non pot
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut poenitentia non tollit totaliter reatum per quemlibet parvum actum, sed tunc tollit quando ad perfectum perducitur secundum omnes poenitentiae partes; ita etiam non oportet quod per primum poenitentiae actum omnes defectus ex peccato actuali consecuti, qui dicuntur reliquiae, reparentur; sed poenitentia jam perfecta quantum ad omnes sui partes, reliquiae etiam tolluntur peccati actualis.***
+Ad tertiam quaestionem dicendum, quod sicut poenitentia non tollit totaliter reatum per quemlibet parvum actum, sed tunc tollit quando ad perfectum perducitur secundum omnes poenitentiae partes; ita etiam non oportet quod per primum poenitentiae actum omnes defectus ex peccato actuali consecuti, qui dicuntur reliquiae, reparentur; sed poenitentia jam perfecta quantum ad omnes sui partes, reliquiae etiam tolluntur peccati actualis.  
 
 Ad primum ergo dicendum, quod poenitentia non comparatur generationi, sed magis sanationi; quia per poenitentiam homini non datur nova vita, sed in pristinam vitam reparatur. In sanatione autem hoc videmus accidere, quod sanitate restituta adhuc reliquiae aliquae morbi manent ante perfectae sanitatis restitutionem; ita etiam ante completam poenitentiam reliquiae actualis peccati manent.  
 
@@ -662,7 +664,7 @@ Articulus 2
 
 ***Utrum virtutes restituat***
 
-***Ad secundum sic proceditur. Videtur quod per poenitentiam virtutes non restituantur. Virtutes enim de quibus loquimur, non causantur ex actibus nostris; quia secundum Augustinum, *Deus eas in nobis sine nobis operatur*. Sed poenitentia in actu nostro consistit. Ergo per poenitentiam virtutes non restituuntur.***
+Ad secundum sic proceditur. Videtur quod per poenitentiam virtutes non restituantur. Virtutes enim de quibus loquimur, non causantur ex actibus nostris; quia secundum Augustinum, *Deus eas in nobis sine nobis operatur*. Sed poenitentia in actu nostro consistit. Ergo per poenitentiam virtutes non restituuntur.  
 
 Praeterea, nihil restituit virtutem nisi quod est causa virtutum, sicut restituentia sanitatem sunt causa sanitatis. Sed poenitentia non est causa omnium aliarum virtutum; alias esset nobilior aliis virtutibus, quia causa praeeminet effectui. Ergo poenitentia non restituit virtutes.  
 
@@ -696,7 +698,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod per poenitentiam etiam bona opera prius in statu peccati mortalis facta ad vitam reputentur. Dicit enim Adamantius, supra Josue: *sunt in Ecclesia credentes quidam, et acquiescentes divinis praeceptis, erga servos Dei religiosi et officiosi, et ad ornatum Ecclesiae vel ministerium satis prompti; sed in conversatione propria obscoenis vitiis involuti, nec omnino deponentes veterem hominem cum actibus suis, nihil adhibent emendationis morum et innovationis. In istis ergo Christus salutem concedit; sed quamdam insaniae notam non evadent*. Sed magis videtur quod eis qui per poenitentiam emendationem adhibent, illa opera bona valeant ad salutem. Ergo poenitentia opera sine caritate facta vivificat ad salutem.***
+Ad tertium sic proceditur. Videtur quod per poenitentiam etiam bona opera prius in statu peccati mortalis facta ad vitam reputentur. Dicit enim Adamantius, supra Josue: *sunt in Ecclesia credentes quidam, et acquiescentes divinis praeceptis, erga servos Dei religiosi et officiosi, et ad ornatum Ecclesiae vel ministerium satis prompti; sed in conversatione propria obscoenis vitiis involuti, nec omnino deponentes veterem hominem cum actibus suis, nihil adhibent emendationis morum et innovationis. In istis ergo Christus salutem concedit; sed quamdam insaniae notam non evadent*. Sed magis videtur quod eis qui per poenitentiam emendationem adhibent, illa opera bona valeant ad salutem. Ergo poenitentia opera sine caritate facta vivificat ad salutem.  
 
 Praeterea, plus appropinquat caritati et gratiae bonum ex genere et bonum virtutis moralis, quam bonum naturale. Sed gratia sequens per poenitentiam restituta, naturalia perficit, et secundum quosdam ipsa naturalia gratuita fiunt. Ergo multo fortius bona ex genere, vel ex circumstantia, aut etiam actus virtutis acquisitae, sine caritate facta, per poenitentiam vivificantur, ut prosint ad vitam.  
 
@@ -708,7 +710,7 @@ Praeterea, omnia vivificabilia sunt aliquo modo meritoria, quia ad minus in pote
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod opera in caritate facta per peccatum sequens mortificari non possint. Quia quod non est, non potest mortificari. Sed opera quae in caritate facta fuerant, transeunt, et post peccatum sequens non sunt. Ergo non possunt mortificari.***
+Ulterius. Videtur quod opera in caritate facta per peccatum sequens mortificari non possint. Quia quod non est, non potest mortificari. Sed opera quae in caritate facta fuerant, transeunt, et post peccatum sequens non sunt. Ergo non possunt mortificari.  
 
 Praeterea, poena non debet excedere culpam. Sed in aliquo qui multa bona facit ex maxima caritate, poena culpam excederet, si per unum peccatum mortale parvum, forte ex surreptione factum, omnia bona praecedentia perderet. Ergo peccatum sequens non mortificat omnia bona prius in caritate facta.  
 
@@ -720,7 +722,7 @@ Praeterea, vita operum ex vita operantis dependet. Sed per peccatum mortale ille
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod opera mortificata per peccatum, per poenitentiam non vivificentur. Hugo de sancto Victore dicit, quod *nemo debet in spe correctionis peccare*; quia quod semel amittitur, ipsum amplius non recuperatur. Sed opera in caritate facta, sunt per peccatum amissa, ut dictum est. Ergo non possunt amplius per poenitentiam recuperari.***
+Ulterius. Videtur quod opera mortificata per peccatum, per poenitentiam non vivificentur. Hugo de sancto Victore dicit, quod *nemo debet in spe correctionis peccare*; quia quod semel amittitur, ipsum amplius non recuperatur. Sed opera in caritate facta, sunt per peccatum amissa, ut dictum est. Ergo non possunt amplius per poenitentiam recuperari.  
 
 Praeterea, nihil vivificatur nisi quod natum est habere vitam. Sed vita non est operum, sed opera facientis. Ergo opera non possunt vivificari.  
 
@@ -734,7 +736,7 @@ Praeterea, *poenitentia revocat omnes defectus ad perfectum*, ut dictum est, art
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod poenitentia de ratione sui ordinatur ad remotionem mali. Unde quod aliqua bona per poenitentiam restituuntur, hoc non est nisi per accidens, inquantum removet prohibens, ut dictum est. Causa autem quae est removens prohibens, exigit causam per se aliquam respectu effectus, cujus ipsa est causa per accidens. Vivificationis autem operum extra caritatem factorum non potest poni aliqua causa per se; quia vita operum ex vita operantis dependet; et ideo a gratia vel caritate habent opera quod vivant. Gratia autem vel caritas quam poenitentia restituit, non potest operibus praecedentibus vitam conferre; quia habitus non format actum nisi qui ab eo procedit; et ita patet quod per poenitentiam opera extra caritatem facta vivificari non possunt.***
+Respondeo dicendum ad primam quaestionem, quod poenitentia de ratione sui ordinatur ad remotionem mali. Unde quod aliqua bona per poenitentiam restituuntur, hoc non est nisi per accidens, inquantum removet prohibens, ut dictum est. Causa autem quae est removens prohibens, exigit causam per se aliquam respectu effectus, cujus ipsa est causa per accidens. Vivificationis autem operum extra caritatem factorum non potest poni aliqua causa per se; quia vita operum ex vita operantis dependet; et ideo a gratia vel caritate habent opera quod vivant. Gratia autem vel caritas quam poenitentia restituit, non potest operibus praecedentibus vitam conferre; quia habitus non format actum nisi qui ab eo procedit; et ita patet quod per poenitentiam opera extra caritatem facta vivificari non possunt.  
 
 Ad primum ergo dicendum, quod sicut Isidorus verba Adamantii ibidem exponere videtur, per salutem intelligitur signum salutis, quod etiam peccatores in sacramentis suscipiunt. Vel dicendum, quod concedit eis salutem in spe, sed non in re.  
 
@@ -744,7 +746,7 @@ Ad tertium dicendum, quod causa quare opera illa sunt mortua, est, quia non sunt
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod illud proprie vivere apparet quod ex se aliquem motum habet; et inde vitae nomen proprie ad illa omnia trahitur quae ex se habent operationem aliquam sine aliquo principio extra, sicut quae intelligunt et sentiunt, vel moventur vel appetunt vel nutriuntur. Et inde est quod nomen vitae transumitur ad omnia illa quae habent debitam operationem vel effectum; et illa quae privantur hac, dicuntur mortua; sicut dicimus aquam vivam quae est in impetu surgendi. Proprius autem effectus humanorum operum est quod per ea homo ad ultimum finem humanae vitae perveniat, scilicet beatitudinem; et ideo illa opera hominis proprie viva dicuntur quae hominem ad vitam aeternam perducere possunt; illa autem mortua, quae hoc faciendi potestatem amiserunt,*potestatem amiserunt.—potestatem non habent illa autem mortificata quae hanc potestatem amiserunt* PLE. cum prius eam habuerint. Et ideo opera bona ex caritate facta, in eo qui gratiam habet, viva sunt; in eo autem qui gratia caret, opera non ex caritate facta mortua sunt. Opera autem prius ex caritate facta, in eo qui gratiam amittit, per peccatum mortificata sunt; quia peccatum sequens impedit quod homo per illa opera non possit ad vitam introduci.***
+Ad secundam quaestionem dicendum, quod illud proprie vivere apparet quod ex se aliquem motum habet; et inde vitae nomen proprie ad illa omnia trahitur quae ex se habent operationem aliquam sine aliquo principio extra, sicut quae intelligunt et sentiunt, vel moventur vel appetunt vel nutriuntur. Et inde est quod nomen vitae transumitur ad omnia illa quae habent debitam operationem vel effectum; et illa quae privantur hac, dicuntur mortua; sicut dicimus aquam vivam quae est in impetu surgendi. Proprius autem effectus humanorum operum est quod per ea homo ad ultimum finem humanae vitae perveniat, scilicet beatitudinem; et ideo illa opera hominis proprie viva dicuntur quae hominem ad vitam aeternam perducere possunt; illa autem mortua, quae hoc faciendi potestatem amiserunt,*potestatem amiserunt.—potestatem non habent illa autem mortificata quae hanc potestatem amiserunt* PLE. cum prius eam habuerint. Et ideo opera bona ex caritate facta, in eo qui gratiam habet, viva sunt; in eo autem qui gratia caret, opera non ex caritate facta mortua sunt. Opera autem prius ex caritate facta, in eo qui gratiam amittit, per peccatum mortificata sunt; quia peccatum sequens impedit quod homo per illa opera non possit ad vitam introduci.  
 
 Ad primum ergo dicendum, quod sicut opera peccati transeunt actu, sed manent reatu; ita opera bona in caritate facta, quamvis actu transeant, tamen manent in merendo; et secundum hoc possunt mortificari.  
 
@@ -754,7 +756,7 @@ Ad tertium dicendum, quod illud quod est in se mortuum, non potest respectu alte
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod opera in caritate facta, ut dictum est, etsi transeant actu, manent tamen quantum ad meritum in Dei acceptatione; et secundum quod sic manent, habent efficaciam, quantum in ipsis est, inducendi facientem ad vitam aeternam; et sic dicuntur viva manere. Sed quod hunc effectum in peccatore non habeant, est per accidens, propter peccatum quod facit peccatorem indispositum ad percipiendum effectum praecedentium meritorum, non autem quod ab ipsis operibus aliquid dematur, cum in suo fieri efficaciam praedictam obtinuerint hoc ipso quod ex caritate sunt elicita, quod eis sequens peccatum auferre non potest; et ideo remota indispositione a peccatore per poenitentiam, opera illa praecedentia effectum suum in ipso iterum habere incipiunt; et secundum hoc vivificari dicuntur. Quidam autem dicunt quod non vivificantur per poenitentiam sequentem, quia non manent, ut vivificari possint. Sed eadem ratione posset dici quod nec ei qui in justitia perseverat, ad vitam praecedentia opera valeant; quia quod non est, non potest aliquid valere.***
+Ad tertiam quaestionem dicendum, quod opera in caritate facta, ut dictum est, etsi transeant actu, manent tamen quantum ad meritum in Dei acceptatione; et secundum quod sic manent, habent efficaciam, quantum in ipsis est, inducendi facientem ad vitam aeternam; et sic dicuntur viva manere. Sed quod hunc effectum in peccatore non habeant, est per accidens, propter peccatum quod facit peccatorem indispositum ad percipiendum effectum praecedentium meritorum, non autem quod ab ipsis operibus aliquid dematur, cum in suo fieri efficaciam praedictam obtinuerint hoc ipso quod ex caritate sunt elicita, quod eis sequens peccatum auferre non potest; et ideo remota indispositione a peccatore per poenitentiam, opera illa praecedentia effectum suum in ipso iterum habere incipiunt; et secundum hoc vivificari dicuntur. Quidam autem dicunt quod non vivificantur per poenitentiam sequentem, quia non manent, ut vivificari possint. Sed eadem ratione posset dici quod nec ei qui in justitia perseverat, ad vitam praecedentia opera valeant; quia quod non est, non potest aliquid valere.  
 
 Ad primum ergo dicendum, quod verbum Hugonis est intelligendum quantum ad bona amissa, quae nunquam recuperantur, quia tempus amissum non recuperatur; et ideo ejus jactura est gravissima, ut Seneca dicit; non autem loquitur de bonis mortificatis.  
 
@@ -766,9 +768,9 @@ Ad quartum dicendum, quod, sicut dictum est, opera prius viva non moriuntur in s
 
 Articulus 4  
 
-***Utrum praedicti effectus sint poenitentiae inquantum est virtus, vel inquantum est sacramentum***
+Utrum praedicti effectus sint poenitentiae inquantum est virtus, vel inquantum est sacramentum  
 
-***Ad quartum sic proceditur. Videtur quod praedicti effectus non sint poenitentiae inquantum est virtus. Diversorum enim diversi sunt effectus. Sed virtus et gratia differunt, ut in 2 Lib., dist. 26, quaest. 1, art. 2, dictum est. Ergo cum remittere peccatum, et alia praedicta, quae poenitentiae attribuuntur, sit effectus gratiae, non erunt effectus poenitentiae inquantum est virtus.***
+Ad quartum sic proceditur. Videtur quod praedicti effectus non sint poenitentiae inquantum est virtus. Diversorum enim diversi sunt effectus. Sed virtus et gratia differunt, ut in 2 Lib., dist. 26, quaest. 1, art. 2, dictum est. Ergo cum remittere peccatum, et alia praedicta, quae poenitentiae attribuuntur, sit effectus gratiae, non erunt effectus poenitentiae inquantum est virtus.  
 
 Praeterea, quod convenit poenitentiae inquantum est virtus, convenit cuilibet virtuti. Sed remittere peccatum non convenit cuilibet virtuti: quia ad minus virtutibus acquisitis non convenit. Ergo nec poenitentiae convenit inquantum est virtus.  
 
@@ -800,7 +802,7 @@ Articulus 5
 
 ***Utrum sine poenitentia possit pervenire aliquis peccator ad salutem***
 
-***Ad quintum sic proceditur. Videtur quod sine poenitentia peccatorum remissionem quis consequi possit, et praedictos effectus omnes; et ita non erit necessaria ad salutem. Super illud Psalm. 125: *qui seminant in lacrymis*, dicit *Glossa* interlinealis: *noli esse tristis, si adsit tibi bona voluntas, unde metitur pax*. Sed aliquis potest habere bonam voluntatem sine dolore poenitentiae, vel sine actuali consideratione peccatorum suorum praeteritorum. Ergo poenitentia non est peccatori necessaria ad salutem.***
+Ad quintum sic proceditur. Videtur quod sine poenitentia peccatorum remissionem quis consequi possit, et praedictos effectus omnes; et ita non erit necessaria ad salutem. Super illud Psalm. 125: *qui seminant in lacrymis*, dicit *Glossa* interlinealis: *noli esse tristis, si adsit tibi bona voluntas, unde metitur pax*. Sed aliquis potest habere bonam voluntatem sine dolore poenitentiae, vel sine actuali consideratione peccatorum suorum praeteritorum. Ergo poenitentia non est peccatori necessaria ad salutem.  
 
 Praeterea, Luc. 7, super illud: *dimissa sunt ei peccata multa*, dicit *Glossa* Gregorii: *ardor caritatis rubiginem peccatorum in ea consumpsit*. Sed aliquis potest converti in Deum ardenter per caritatem sine hoc quod convertatur ad peccata praeterita per poenitentiam. Ergo sine poenitentia potest salutem consequi post peccatum.  
 
@@ -830,7 +832,7 @@ Ad quintum dicendum, quod forte non est accipere ultimum instans vitae, sed est 
 
 Expositio textus  
 
-****Post haec de poenitentia agendum est*. Videtur quod de poenitentia ante confirmationem et Eucharistiam debuerit tractari; quia prius est recedere a malo, quod pertinet ad poenitentiam, quam perfici in bono, quod pertinet ad illa duo sacramenta. Et dicendum, quod confirmatio et Eucharistia sunt de prima intentione sanctificationis; sed poenitentia est de secunda intentione; quia si homo nunquam a gratia baptismali caderet, non indigeret poenitentia; indigeret tamen confirmatione, et Eucharistia.***
+*Post haec de poenitentia agendum est*. Videtur quod de poenitentia ante confirmationem et Eucharistiam debuerit tractari; quia prius est recedere a malo, quod pertinet ad poenitentiam, quam perfici in bono, quod pertinet ad illa duo sacramenta. Et dicendum, quod confirmatio et Eucharistia sunt de prima intentione sanctificationis; sed poenitentia est de secunda intentione; quia si homo nunquam a gratia baptismali caderet, non indigeret poenitentia; indigeret tamen confirmatione, et Eucharistia.  
 
 *Est enim poenitentia interior, et est exterior*. Secundum hoc etiam videtur quod baptismus sit virtus; quia etiam est baptismus interior, scilicet baptismus flaminis. Et dicendum, quod interior baptismus non dicitur baptismus nisi metaphorice; sed interior poenitentia dicitur poenitentia vere. Et praeterea interior actus non est de necessitate baptismi, alias pueri non possent baptizari; sed interior actus est de necessitate poenitentiae.  
 

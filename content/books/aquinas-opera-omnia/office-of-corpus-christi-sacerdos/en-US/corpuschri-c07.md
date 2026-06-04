@@ -1,5 +1,8 @@
 # Sext
 
+***[℣. O God, come to my assistance;***
+***℟. O Lord, make haste to help me.***
+
 Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
 As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
@@ -10,7 +13,7 @@ Sung to *Scala caelo* from the feast of St. Dominic.
 
 ***Psalm 118 (119):81–96, 97–112, 113–128***
 
-***[Psalm 118 (119):81–96—*Caph*] My soul has fainted after your salvation: * and in your word I have very much hoped.***
+[Psalm 118 (119):81–96—*Caph*] My soul has fainted after your salvation: * and in your word I have very much hoped.  
 
 > My eyes have failed for your word, * saying: when will you comfort me?
 
@@ -122,7 +125,7 @@ Sung to *Scala caelo* from the feast of St. Dominic.
 
 ***1 Corinthians 11:26***
 
-***As often as you shall eat this bread and drink this chalice, you will proclaim the death of the Lord until he comes.***
+As often as you shall eat this bread and drink this chalice, you will proclaim the death of the Lord until he comes.  
 
 > Responsory
 

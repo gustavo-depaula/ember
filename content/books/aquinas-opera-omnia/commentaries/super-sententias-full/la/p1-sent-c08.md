@@ -1,8 +1,10 @@
 # D. 7 - The commonness of the power of generation
 
+***De communitate potentiae generandi***
+
 ***Divisio textus***
 
-***Postquam ostendit principium divinae generationis proprium, quod est natura et non voluntas; hic inquirit de communitate principii, utrum scilicet generandi potentia sit communis Patri et Filio; et dividitur in duas: in prima inquirit de communitate potentiae generativae sumptae in concreto; in secunda de communitate ejusdem sumptae in abstracto, ibi: *item quaeritur a quibusdam, si Pater potens sit natura gignere Filium, et an hoc sit aliqua potentia quae sit in Filio*.***
+Postquam ostendit principium divinae generationis proprium, quod est natura et non voluntas; hic inquirit de communitate principii, utrum scilicet generandi potentia sit communis Patri et Filio; et dividitur in duas: in prima inquirit de communitate potentiae generativae sumptae in concreto; in secunda de communitate ejusdem sumptae in abstracto, ibi: *item quaeritur a quibusdam, si Pater potens sit natura gignere Filium, et an hoc sit aliqua potentia quae sit in Filio*.  
 
 Prima in tres: primo determinat quaestionem; secundo movet dubitationem, ibi: *sed vehementer nos movet quod Augustinus ait*; tertio ponit solutionem, ibi: *quomodo ergo accipietur quod supra dictum est?*  
 
@@ -92,7 +94,7 @@ Articulus 3
 
 ***Utrum potentia dicatur univoce de potentia generandi et potentia creandi***
 
-***Ad tertium sic proceditur. Videtur quod potentia non dicitur univoce de potentia generandi et creandi.***
+Ad tertium sic proceditur. Videtur quod potentia non dicitur univoce de potentia generandi et creandi.  
 
 Potentiae enim distinguuntur per actus, et actus per objecta. Sed Filius Dei et creaturae non univocantur in aliquo. Ergo nec generatio et creatio. Igitur ulterius nec potentia generandi et creandi.  
 
@@ -160,7 +162,7 @@ Ad quartum dicendum, quod voluntas et scientia non habent rationem principii res
 
 Articulus 2  
 
-***Utrum Filius possit generare alium filium; utrum Pater possit generare alium filium***
+Utrum Filius possit generare alium filium; utrum Pater possit generare alium filium  
 
 ***Quaestiuncula 1***
 
@@ -180,11 +182,11 @@ Praeterea, si Filius generaret,Parma omits *si Filius generaret*. non esset ibi 
 
 Quaestiuncula 2  
 
-***Ulterius quaeritur utrum Pater possit generare alium filium: et videtur quod sic. Quia per generationem in nullo diminuitur ejus potentia. Ergo qua ratione potest generare unum, potest et generare plures.***
+Ulterius quaeritur utrum Pater possit generare alium filium: et videtur quod sic. Quia per generationem in nullo diminuitur ejus potentia. Ergo qua ratione potest generare unum, potest et generare plures.  
 
 Solutio 1  
 
-***Respondeo dicendum, quod quidam dixerunt quod Filius potest generare alium filium, sed ista potentia nunquam reducetur in actum propter inconveniens, quod Augustinus inducit in littera. Sed hoc nihil est: quia in perpetuis, secundum Philosophum in 3 *Physic*., non differt esse et posse, et multo minus in divinis: unde quidquid non est in Deo non potest esse ibi, alias Deus esset mutabilis. Unde dicendum simpliciter, quod Filius non potest generare filium.***
+Respondeo dicendum, quod quidam dixerunt quod Filius potest generare alium filium, sed ista potentia nunquam reducetur in actum propter inconveniens, quod Augustinus inducit in littera. Sed hoc nihil est: quia in perpetuis, secundum Philosophum in 3 *Physic*., non differt esse et posse, et multo minus in divinis: unde quidquid non est in Deo non potest esse ibi, alias Deus esset mutabilis. Unde dicendum simpliciter, quod Filius non potest generare filium.  
 
 Et ratio hujus est, quia ille filius in nullo distingueretur ab alio. Cum enim personae divinae non distinguantur secundum divisionem materiae, quia non sunt materiales, non remanet ibi alia distinctio nisi per relationes originis. Impossibile est autem quod una relatio originis, sicut filiatio, multiplicetur secundum numerum, quia talis multiplicatio esset materialis. Unde in Deo non potest esse nisi una filiatio, et una filiatione non constituitur nisi unus filius; et ita in divinis non possunt esse plures filii, nec plures patres; et hoc pertinet ad perfectionem Filii, quia nihil de filiatione est extra ipsum in divinis, unde est perfectus Filius.  
 
@@ -198,11 +200,11 @@ Ad quartum dicendum, quod dignitas est de absolute dictis: et ideo eadem est dig
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, patet solutio etiam per praedicta; quia impossibile est in divinis plures esse filios: hoc enim non est ex defectu potentiae Patris, sed ex distinctione suppositorum divinae naturae, quae tolleretur, ut dictum est.***
+Ad id quod ulterius quaeritur, patet solutio etiam per praedicta; quia impossibile est in divinis plures esse filios: hoc enim non est ex defectu potentiae Patris, sed ex distinctione suppositorum divinae naturae, quae tolleretur, ut dictum est.  
 
 Expositio textus  
 
-****Immoderata enim esset divina generatio, si genitus Filius nepotem gigneret Patri*. Videtur enim non esse inconveniens, si genitus semper alium gigneret, immo maximum bonum: quia quaelibet generatio esset infinitum bonum. Et potest dici, quod esset triplex inconveniens: primo, quia si hoc in infinitum procederet; cum omne infinitum sit imperfectum, generatio divina nunquam esset perfecta; et hoc sumitur ex littera. Secundo, quia non posset esse distinctio inter plures genitos, ut dictum est. Tertio, quia quamvis communicatio sit de nobilitate et simplicitate naturae, tamen infinita communicatio non est nisi ex defectu naturae; quia enim natura non potest conservari secundum aeternum esse in uno individuo, intendit per infinitam successionem individuorum conservare perpetuitatem suam, saltem secundum idem in specie; et hoc nullo modo Deo convenit.***
+*Immoderata enim esset divina generatio, si genitus Filius nepotem gigneret Patri*. Videtur enim non esse inconveniens, si genitus semper alium gigneret, immo maximum bonum: quia quaelibet generatio esset infinitum bonum. Et potest dici, quod esset triplex inconveniens: primo, quia si hoc in infinitum procederet; cum omne infinitum sit imperfectum, generatio divina nunquam esset perfecta; et hoc sumitur ex littera. Secundo, quia non posset esse distinctio inter plures genitos, ut dictum est. Tertio, quia quamvis communicatio sit de nobilitate et simplicitate naturae, tamen infinita communicatio non est nisi ex defectu naturae; quia enim natura non potest conservari secundum aeternum esse in uno individuo, intendit per infinitam successionem individuorum conservare perpetuitatem suam, saltem secundum idem in specie; et hoc nullo modo Deo convenit.  
 
 *Non enim non potuit, sed non oportuit; id est, non ex impotentia sui fuit quod Filius non genuit; sed ei non conveniebat*. Videtur ista expositio nimis esse extorta, et non posse accipi ex verbis Augustini. Sed dicendum, quod Magister accipit istam expositionem ex eo quod ly “non potuit” potest sumi negative tantum; et sic procedebat objectio. Vel potest sumi quasi privative, ut “non potuit” sit quasi terminus infinitus: et tunc per hoc quod dicit: *non enim non potuit*, negatur impotentia.  
 

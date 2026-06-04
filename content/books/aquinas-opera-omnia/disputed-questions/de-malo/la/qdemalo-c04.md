@@ -1,10 +1,12 @@
 # Q. 4 - On original sin
 
+***De peccato originali***
+
 ***Articulus 1***
 
 ***Utrum aliquod peccatum ex origine contrahatur***
 
-***Quaestio est de peccato originali. Et primo quaeritur utrum aliquod peccatum ex origine contrahatur.***
+Quaestio est de peccato originali. Et primo quaeritur utrum aliquod peccatum ex origine contrahatur.  
 
 Et videtur quod non. Dicitur enim Eccli. XV, 18: *ante hominem vita et mors, bonum et malum: quodcumque voluerit, dabitur ei*. Ex quo potest accipi, quod peccatum, quod est spiritualis mors animae, in voluntate consistit. Sed nihil quod homo contrahit ex origine sua, consistit in eius voluntate. Ergo nullum peccatum contrahit homo ex sua origine.  
 
@@ -222,9 +224,9 @@ Et per hoc patet de facili responsio ad obiecta.
 
 Articulus 3  
 
-***In quo sit peccatum originale sicut in subiecto, utrum scilicet in carne, vel in anima***
+In quo sit peccatum originale sicut in subiecto, utrum scilicet in carne, vel in anima  
 
-***Tertio quaeritur in quo sit peccatum originale sicut in subiecto, utrum scilicet in carne, vel in anima.***
+Tertio quaeritur in quo sit peccatum originale sicut in subiecto, utrum scilicet in carne, vel in anima.  
 
 Et videtur quod in carne, et non in anima. Anima enim est creata a Deo. Sed a Deo non habet immunditiam peccati, nec etiam ex se ipsa, quia sic esset actuale peccatum. Ergo nullo modo originale peccatum est in anima.  
 
@@ -258,7 +260,7 @@ Articulus 4
 
 ***Utrum peccatum originale per prius sit in potentiis animae quam in essentia***
 
-***Quarto quaeritur utrum peccatum originale per prius sit in potentiis animae quam in essentia.***
+Quarto quaeritur utrum peccatum originale per prius sit in potentiis animae quam in essentia.  
 
 Et videtur quod sic. Quia, secundum Anselmum, ut supra dictum est, peccatum originale est carentia originalis iustitiae. Sed originalis iustitia est in voluntate, ut ipse dicit. Ergo peccatum originale est per prius in voluntate, quae est potentia quaedam.  
 
@@ -312,7 +314,7 @@ Articulus 5
 
 ***Utrum peccatum originale per prius sit in voluntate quam in aliis potentiis***
 
-***Quinto quaeritur utrum peccatum originale per prius sit in voluntate quam in aliis potentiis.***
+Quinto quaeritur utrum peccatum originale per prius sit in voluntate quam in aliis potentiis.  
 
 Et videtur quod non. Peccatum enim originale est infectio quaedam. Sed inter potentias animae, generativa dicitur esse magis infecta. Ergo peccatum originale per prius est in generativa potentia, non in voluntate.  
 
@@ -344,9 +346,9 @@ Ad sextum dicendum, quod carentia visionis divinae est poena in hoc quod repugna
 
 Articulus 6  
 
-***Utrum peccatum originale ab Adam derivetur in omnes qui seminaliter ab ipso procedunt***
+Utrum peccatum originale ab Adam derivetur in omnes qui seminaliter ab ipso procedunt  
 
-***Sexto quaeritur utrum peccatum originale ab Adam derivetur in omnes qui seminaliter ab ipso procedunt.***
+Sexto quaeritur utrum peccatum originale ab Adam derivetur in omnes qui seminaliter ab ipso procedunt.  
 
 Et videtur quod non. Mors enim est poena originalis peccati. Sed quidam in fine mundi, qui reperientur vivi domino veniente ad iudicium, non morientur, ut dicit Hieronymus ad Marcellam. Ergo non nascentur cum peccato originali.  
 
@@ -440,9 +442,9 @@ Ad vicesimum dicendum, quod comedere significat actum personalem; sed peccare po
 
 Articulus 7  
 
-***Utrum illi qui nascuntur materialiter tantum de Adam, peccatum originale contrahant***
+Utrum illi qui nascuntur materialiter tantum de Adam, peccatum originale contrahant  
 
-***Septimo quaeritur utrum illi qui nascuntur materialiter tantum de Adam, peccatum originale contrahant.***
+Septimo quaeritur utrum illi qui nascuntur materialiter tantum de Adam, peccatum originale contrahant.  
 
 Et videtur quod sic. Anima enim inficitur peccato originali propter infectionem carnis cui unitur. Sed caro hominis peccatoris est infecta infectione peccati in actu, semen autem in virtute tantum: quia cum careat anima rationali, non est susceptivum infectionis peccati. Magis ergo contrahit maculam originalis peccati homo qui miraculose formaretur ex carne alicuius habentis peccatum originale, puta ex costa, vel pede, vel manu, quam si generetur ex semine.  
 
@@ -476,7 +478,7 @@ Articulus 8
 
 ***Utrum peccata proximorum parentum originaliter in posteros transeant***
 
-***Octavo quaeritur utrum peccata proximorum parentum originaliter in posteros transeant.***
+Octavo quaeritur utrum peccata proximorum parentum originaliter in posteros transeant.  
 
 Et videtur quod sic. David enim ex legitimo matrimonio natus dicit: *ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea*: ex quo videtur quod multa sunt originalia peccata unius hominis. Sed hoc esse non posset, si peccata proximorum parentum originaliter non transirent in posteros, sed solum peccatum primi hominis. Ergo peccata proximorum parentum originaliter transeunt in posteros.  
 

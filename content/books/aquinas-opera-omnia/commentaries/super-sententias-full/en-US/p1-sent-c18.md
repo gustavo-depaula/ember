@@ -1,8 +1,10 @@
 # D. 17 - Invisible Sending of the Holy Spirit
 
+***Invisible Sending of the Holy Spirit***
+
 ***Division of the first part of the Text***
 
-***After he has considered the visible sending of the Holy Spirit, here he considers his invisible sending. And this is divided into two parts: in the first, he determines the truth, according to his own opinion; in the second, he responds to objections made against it, at *if the Holy Spirit is charity, and since charity may increase and diminish in a person . . . , here it is asked whether it is to be granted that the Holy Spirit may increase or diminish in a person*.*Sent*. I, 17.5(64).1.***
+After he has considered the visible sending of the Holy Spirit, here he considers his invisible sending. And this is divided into two parts: in the first, he determines the truth, according to his own opinion; in the second, he responds to objections made against it, at *if the Holy Spirit is charity, and since charity may increase and diminish in a person . . . , here it is asked whether it is to be granted that the Holy Spirit may increase or diminish in a person*.*Sent*. I, 17.5(64).1.  
 
 Concerning the first, he does three things: first, he announces his intention; second, he proposes the truth, at *in order that this may be taught more intelligibly and perceived more fully, a certain premise must be made which is very necessary to this end*;*Sent*. I, 17.1(60).2. third, he brings forward proof, at *lest in such a great matter we should appear to interject anything of our own, let us confirm by sacred authorities what has been said above*.*Sent*. I, 17.1(60).3.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether charity is something created in the soul***
 
-***To the first we proceed as follows.Parallel texts: *ST* II-II.33.2; *Disputed Questions on the Virtues*, q. 2, a. 1. It seems that charity is not something created in the soul.***
+To the first we proceed as follows.Parallel texts: *ST* II-II.33.2; *Disputed Questions on the Virtues*, q. 2, a. 1. It seems that charity is not something created in the soul.  
 
 Obj. 1: For an agent that acts without using any means is more perfect than one that acts only by some means. But in our meritorious acts, the Holy Spirit acts within us both to will and to complete them, according to the Apostle: *for all who are led by the Spirit of God are sons of God* (Rom 8:14).Aquinas may also have in mind Philippians 2:13: *God is at work in you, both to will and to work*. Therefore, since he is the most perfect agent, it seems that he does not move us to this action through any intermediary created habit.  
 
@@ -112,7 +114,7 @@ Article 3
 
 ***Whether charity is given according to natural capacity***
 
-***To the third we proceed as follows.Parallel text: *ST* II-II.24.3. It seems that charity is given according to the capacity of one’s natural endowments.***
+To the third we proceed as follows.Parallel text: *ST* II-II.24.3. It seems that charity is given according to the capacity of one’s natural endowments.  
 
 Obj. 1: For it says so in Matthew 25:15: *he gave . . . to each according to his ability*; upon which Jerome’s gloss says, *not on account of God’s liberality or frugality do different men receive more or less, but according to the power of the recipients*.Jerome, *Commentarii in Evangelium Matthaei*, bk. 4 (CCSL 77; PL 26:186). But prior to the arrival of charity, no power is understood to be in a man other than what is according to natural endowments. Therefore it seems that charity is infused according to the capacity of natural endowments.  
 
@@ -144,7 +146,7 @@ Article 4
 
 ***Whether one who has charity can be certain that he has it***
 
-***To the fourth we proceed as follows. It seems that he who has charity can know for certain that he has it.***
+To the fourth we proceed as follows. It seems that he who has charity can know for certain that he has it.  
 
 Obj. 1: For so it is said in the text: *for he knows the love by which he loves more than he knows the brother whom he loves*.*Sent*. I, 17.1(60).3, quoting Augustine, *On the Trinity*, bk. 8, ch. 7 (CCSL 50; PL 42:957). But he knows his brother with certainty. Therefore much more does he know with certainty the charity by which he loves him.  
 
@@ -184,7 +186,7 @@ Article 5
 
 ***Whether charity is to be loved from charity***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* II-II.25.2; *Commentary on Romans*, ch. 12, lect. 2. It seems that charity should not be loved from charity.***
+To the fifth we proceed as follows.Parallel texts: *ST* II-II.25.2; *Commentary on Romans*, ch. 12, lect. 2. It seems that charity should not be loved from charity.  
 
 Obj. 1: For only four things should be loved from charity, as will be said in Book III:*In III Sent*., d. 27, q. 1, a. 5. God, neighbor, the soul, and the body. But charity is none of these. Therefore, and so on.  
 
@@ -214,7 +216,7 @@ Reply Obj. 4: It is certain that the act of love, insofar as it stretches toward
 
 Exposition of the first part of the text  
 
-****He who loves his neighbor must necessarily love that love itself above all else*.*Sent*. I, 17.1(60).3, quoting Augustine, *On the Trinity*, bk. 8, ch. 7 (CCSL 50; PL 42:957). This may be understood about created as well as uncreated love. For the one who loves someone wishes to love him, and thus he loves his own act of love; and in this very act of love, uncreated love itself is loved as the exemplar in that which is patterned after it, since nothing is good or lovable except insofar as the likeness of the uncreated good is within it.***
+*He who loves his neighbor must necessarily love that love itself above all else*.*Sent*. I, 17.1(60).3, quoting Augustine, *On the Trinity*, bk. 8, ch. 7 (CCSL 50; PL 42:957). This may be understood about created as well as uncreated love. For the one who loves someone wishes to love him, and thus he loves his own act of love; and in this very act of love, uncreated love itself is loved as the exemplar in that which is patterned after it, since nothing is good or lovable except insofar as the likeness of the uncreated good is within it.  
 
 *For he knows the love by which he loves more than he knows the brother whom he loves*.*Sent*. I, 17.1(60).3, quoting Augustine, *On the Trinity*, bk. 8, ch. 7 (CCSL 50; PL 42:957). The whole passage that follows after these words, concerning the certainty about one’s love, whether love here be understood to be the created habit or the uncreated love, may be explained insofar as something is called “certain from itself,” but not “certain on the side of the knower.” But the act of love is known even on the side of the knower. Yet whether it proceeds from such a habit remains uncertain.  
 
@@ -230,7 +232,7 @@ Exposition of the first part of the text
 
 Division of the second part of the Text  
 
-****If the Holy Spirit is charity, and since charity may increase and diminish in a person . . . . here it is asked whether it is to be granted that the Holy Spirit may increase or diminish in a person*.*Sent*. I, 17.5(64).1. In this part, the Master raises objections against matters already determined, and this is divided into two parts. In the first, he objects with arguments drawn from reason; in the second, he objects with arguments drawn from authorities, at *it was said above that the Holy Spirit is the charity of Father and Son*.*Sent*. I, 17.6(65).1.***
+*If the Holy Spirit is charity, and since charity may increase and diminish in a person . . . . here it is asked whether it is to be granted that the Holy Spirit may increase or diminish in a person*.*Sent*. I, 17.5(64).1. In this part, the Master raises objections against matters already determined, and this is divided into two parts. In the first, he objects with arguments drawn from reason; in the second, he objects with arguments drawn from authorities, at *it was said above that the Holy Spirit is the charity of Father and Son*.*Sent*. I, 17.6(65).1.  
 
 The first is divided into three parts: first, he sets down an objection; second, he sets down the response, at *to these, we respond by saying that the Holy Spirit or charity is entirely unchangeable*;*Sent*. I, 17.5(64).3. third, he offers a confirmation of the response, at *in order that what we have said should be made more certain, we confirm it by authority*.*Sent*. I, 17.5(64).5. Now, the objection has two parts, as does the solution, as is evident in the text.*Sent*. I, 17.5(64).1‒4.  
 
@@ -256,7 +258,7 @@ Article 1
 
 ***Whether charity admits of increase***
 
-***To the first we proceed as follows.Parallel texts: *ST* I-II.52.1; II-II.24.4; *On the Virtues*, q. 1, a. 11; *On Evil*, q. 7, a. 2; *Quodl. IX*, q. 6. It seems that charity does not admit of increase.***
+To the first we proceed as follows.Parallel texts: *ST* I-II.52.1; II-II.24.4; *On the Virtues*, q. 1, a. 11; *On Evil*, q. 7, a. 2; *Quodl. IX*, q. 6. It seems that charity does not admit of increase.  
 
 Obj. 1: For only a quantity increases. But since every quantity is divisible, nothing simple is a quantity. Now, charity is a simple habit, and thus it is neither a quantity through itself, nor likewise incidentally, since its subject, the soul, is also indivisible. Therefore it does not increase.  
 
@@ -310,7 +312,7 @@ Article 2
 
 ***Whether charity increases by way of addition***
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.52.2; II-II.24.5; *On the Virtues*, q. 1, a. 11. It seems that charity increases by way of addition.***
+To the second we proceed as follows.Parallel texts: *ST* I-II.52.2; II-II.24.5; *On the Virtues*, q. 1, a. 11. It seems that charity increases by way of addition.  
 
 Obj. 1: For the Philosopher says, *increase is something added to a preexisting quantity*.Aristotle, *On Generation and Corruption* 1.5, 320b26‒34. Therefore, if charity increases, this increase requires that another charity be added to the preexisting charity.  
 
@@ -352,7 +354,7 @@ Article 3
 
 ***Whether charity is increased by any act of charity***
 
-***To the third we proceed as follows.Parallel texts: *In II Sent*., d. 27, a. 5, ad 2; *ST* I-II.52.3; 114.8, ad 3; II-II.24.6. It seems that charity may be increased by any act of charity.***
+To the third we proceed as follows.Parallel texts: *In II Sent*., d. 27, a. 5, ad 2; *ST* I-II.52.3; 114.8, ad 3; II-II.24.6. It seems that charity may be increased by any act of charity.  
 
 Obj. 1: For where the cause is the same, the effect is also the same. But all acts of charity belong to the same species with respect to their moral existence, just as all acts of fortitude belong to the same species. Therefore, since a certain act of charity increases charity, it seems that any act would do so as well.  
 
@@ -388,7 +390,7 @@ Article 4
 
 ***Whether charity’s increase has a limit***
 
-***To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 29, a. 8, qa. 1, ad 2; *ST* II-II.24.7; *On the Virtues*, q. 2, a. 10, ad sed contra 3. It seems that there is some limit to the increase of charity.***
+To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 29, a. 8, qa. 1, ad 2; *ST* II-II.24.7; *On the Virtues*, q. 2, a. 10, ad sed contra 3. It seems that there is some limit to the increase of charity.  
 
 Obj. 1: For a perfection does not exceed the capacity of the perfectible. But the soul’s capacity is finite. Therefore it can receive only a finite perfection. But every motion toward something finite is finite. Therefore the increase of charity, which is a motion toward the soul’s perfection, is finite.  
 
@@ -420,7 +422,7 @@ Article 5
 
 ***Whether charity admits of decrease***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* II-II.24.10; *On Evil*, q. 7, a. 2. It seems that charity admits of decrease.***
+To the fifth we proceed as follows.Parallel texts: *ST* II-II.24.10; *On Evil*, q. 7, a. 2. It seems that charity admits of decrease.  
 
 Obj. 1: For contraries are naturally apt to happen to the same thing. But increase and decrease are contraries. Therefore, since charity may increase, it seems that it may also decrease.  
 
@@ -452,7 +454,7 @@ Reply Obj. 4: The disposition to receiving charity is in reference to the acts o
 
 Exposition of the second part of the text  
 
-****Just as God is said to be magnified and exalted in us*,*Sent*. I, 17.5(64).3. that is, insofar as he makes us great and lofty in himself; this can only happen according to a fuller reception of his goodness. And therefore one must return to this point: that something created by God is placed within us.***
+*Just as God is said to be magnified and exalted in us*,*Sent*. I, 17.5(64).3. that is, insofar as he makes us great and lofty in himself; this can only happen according to a fuller reception of his goodness. And therefore one must return to this point: that something created by God is placed within us.  
 
 *Yet there are many who do not have him*.*Sent*. I, 17.5(64).4. For only those for whom he is as their inheritance are said to possess him—those who enjoy him either in hope or in vision.  
 

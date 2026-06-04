@@ -1,5 +1,7 @@
 # Chapter 15
 
+^15:1^ The burden of Moab. Because in the night Ar of Moab is laid waste, it is silent: because the wall of Moab is destroyed in the night, it is silent.  
+
 > ^15:2^ The house is gone up, and Dibon to the high places to mourn over Nabo, and over Medaba, Moab has howled: on all their heads shall be baldness, and every beard shall be shaven.
 
 > ^15:3^ In their streets they are girded with sackcloth: on the tops of their houses, and in their streets every howling shall come down weeping.*Omnis ululatus descendit in fletum*. DR: “all shall howl and come down weeping.”

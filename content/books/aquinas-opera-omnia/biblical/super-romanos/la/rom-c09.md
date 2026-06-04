@@ -1,10 +1,12 @@
 # C. 8 - Redemption of the Flesh
 
+***Redemptio carnis***
+
 ***Lectio 1***
 
 ***Liberamur gratia a damnatione***
 
-***^8:1^ Nihil ergo nunc damnationis est iis qui sunt in Christo Jesu: qui non secundum carnem ambulant. [n. 595]***
+^8:1^ Nihil ergo nunc damnationis est iis qui sunt in Christo Jesu: qui non secundum carnem ambulant. [n. 595]  
 
 > ^8:2^ Lex enim spiritus vitae in Christo Jesu liberavit me a lege peccati et mortis. [n. 600]
 
@@ -162,7 +164,7 @@ Lectio 2
 
 ***Mortificatio carnis per Spiritum***
 
-***^8:7^ quoniam sapientia carnis inimica est Deo: legi enim Dei non est subjecta, nec enim potest. [n. 619]***
+^8:7^ quoniam sapientia carnis inimica est Deo: legi enim Dei non est subjecta, nec enim potest. [n. 619]  
 
 > ^8:8^ Qui autem in carne sunt, Deo placere non possunt. [n. 624]
 
@@ -384,7 +386,7 @@ Lectio 4
 
 ***Creatura revelationem filiorum Dei exspectat***
 
-***^8:18^ Existimo enim quod non sunt condignae passiones hujus temporis ad futuram gloriam, quae revelabitur in nobis. [n. 652]***
+^8:18^ Existimo enim quod non sunt condignae passiones hujus temporis ad futuram gloriam, quae revelabitur in nobis. [n. 652]  
 
 > ^8:19^ Nam exspectatio creaturae revelationem filiorum Dei exspectat. [n. 656]
 
@@ -502,7 +504,7 @@ Lectio 5
 
 ***Desiderium resurrectionis***
 
-***^8:23^ Non solum autem illa, sed et nos ipsi primitias spiritus habentes: et ipsi intra nos gemimus adoptionem filiorum Dei exspectantes, redemptionem corporis nostri. [n. 675]***
+^8:23^ Non solum autem illa, sed et nos ipsi primitias spiritus habentes: et ipsi intra nos gemimus adoptionem filiorum Dei exspectantes, redemptionem corporis nostri. [n. 675]  
 
 > ^8:24^ Spe enim salvi facti sumus. Spes autem, quae videtur, non est spes: nam quod videt quis, quid sperat? [n. 681]
 
@@ -618,7 +620,7 @@ Lectio 6
 
 ***Praedestinatio sanctorum***
 
-***^8:28^ Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti. [n. 695]***
+^8:28^ Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti. [n. 695]  
 
 > ^8:29^ Nam quos praescivit, et praedestinavit conformes fieri imaginis Filii sui, ut sit ipse primogenitus in multis fratribus. [n. 701]
 

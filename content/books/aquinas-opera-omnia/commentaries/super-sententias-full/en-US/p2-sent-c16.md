@@ -1,8 +1,10 @@
 # D. 36 - The realities that God knows
 
+***The realities that God knows***
+
 ***Division of the text***
 
-***After the Master shows that God’s knowledge is universally of all things, and thereby realities are said to exist in God, here he asks how the things known are in God himself knowing them. And this is divided into two parts: in the first, he shows how the realities that God knows are in him; in the second, how God is in the realities: *and because it has been in part shown how all things are said to be in God, it seems good to add here in what ways God is said to be in things*.*Sent*. I, 37.1(164).1.***
+After the Master shows that God’s knowledge is universally of all things, and thereby realities are said to exist in God, here he asks how the things known are in God himself knowing them. And this is divided into two parts: in the first, he shows how the realities that God knows are in him; in the second, how God is in the realities: *and because it has been in part shown how all things are said to be in God, it seems good to add here in what ways God is said to be in things*.*Sent*. I, 37.1(164).1.  
 
 The first is divided into two: in the first, he inquires whether all things that God knows can be said to exist in his essence—and he shows that they cannot; in the second, he inquires whether all things can be in God, at *after the above, it is asked: . . . whether it is simply to be granted that evil things are in God*.*Sent*. I, 36.2(160).1.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether God knows singulars***
 
-***To the first we proceed as follows.Parallel texts: *In II Sent*., d. 3, q. 2, a. 3; *ST* I.14.11; *SCG* I.50, 63, 65; *Disputed Questions on the Soul*, a. 20; *On Truth*, q. 2, a. 5; *Compendium theologiae*, cc. 132, 133; *Commentary on Aristotle’s De interpretatione*, lect. 14. It seems that God does not know singulars.***
+To the first we proceed as follows.Parallel texts: *In II Sent*., d. 3, q. 2, a. 3; *ST* I.14.11; *SCG* I.50, 63, 65; *Disputed Questions on the Soul*, a. 20; *On Truth*, q. 2, a. 5; *Compendium theologiae*, cc. 132, 133; *Commentary on Aristotle’s De interpretatione*, lect. 14. It seems that God does not know singulars.  
 
 Obj. 1: For Boethius saysBoethius, *In Porphyrii Isagogen commentorum editio secunda*, bk. 1, ch. 11 (CSEL 48:166; PL 64:85). that a thing is universal when understood, and particular when sensed. But in God there is no sense power, since this is a power impressed on a bodily organ—unless maybe “sensation” is taken metaphorically. Therefore it seems that the cognition of singulars does not befit God.  
 
@@ -74,7 +76,7 @@ Article 2
 
 ***Whether God knows evils***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.14.10; *SCG* I.71; *On Truth*, q. 2, a. 15; *Quodl. XI*, q. 2. It seems that God does not know evils.***
+To the second we proceed as follows.Parallel texts: *ST* I.14.10; *SCG* I.71; *On Truth*, q. 2, a. 15; *Quodl. XI*, q. 2. It seems that God does not know evils.  
 
 Obj. 1: For as the Commentator says,Averroes, *Commentary on Aristotle’s On the Soul*, bk. 3, text. 25. if any intellect is always in act, it does not know privation in a complete way. But the divine intellect is always in act. Therefore, since evil is a privation, as Augustine says,Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 11 (CCSL 46; PL 40:236). it seems that God does not know evil.  
 
@@ -106,7 +108,7 @@ Article 3
 
 ***Whether the realities known by God are in God***
 
-***To the third we proceed as follows. It seems that the realities known by God are not in God.***
+To the third we proceed as follows. It seems that the realities known by God are not in God.  
 
 Obj. 1: Everything within which there is something diverse from it, is composite. Therefore, since God is the most simple, it seems that the realities that are diverse from him are not in him.  
 
@@ -158,7 +160,7 @@ Article 1
 
 ***What the name of “idea” implies***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.14.5; I.44.3; *On Truth*, q. 3, a. 1; *Commentary on the Metaphysics*, bk. 1, lect. 15. It seems that ideas do not exist.***
+To the first we proceed as follows.Parallel texts: *ST* I.14.5; I.44.3; *On Truth*, q. 3, a. 1; *Commentary on the Metaphysics*, bk. 1, lect. 15. It seems that ideas do not exist.  
 
 Obj. 1: For the Philosopher says, *to speak of exemplary ideas is empty talk, and to speak poetic metaphors*.Aristotle, *Metaphysics* 1.9, 991a21. But we are calling the exemplars of realities “ideas.” Therefore it is empty to speak of ideas.  
 
@@ -188,7 +190,7 @@ Article 2
 
 ***Whether there are several ideas***
 
-***To the second we proceed as follows.Parallel texts: *In III Sent*., d. 14, a. 2, qa. 2; *ST* I.15.2; I.44.3; I.47.1, ad 2; *SCG* I.54; *On the Power of God*, q. 3, a. 16, ad 12–13; *On Truth*, q. 3, a. 2; *Quodl. IV*, q. 1. It seems that there are not several ideas.***
+To the second we proceed as follows.Parallel texts: *In III Sent*., d. 14, a. 2, qa. 2; *ST* I.15.2; I.44.3; I.47.1, ad 2; *SCG* I.54; *On the Power of God*, q. 3, a. 16, ad 12–13; *On Truth*, q. 3, a. 2; *Quodl. IV*, q. 1. It seems that there are not several ideas.  
 
 Obj. 1: For an idea is said to be a likeness through which a reality is known. But earlier it was said that God knows all things through his own essence. Therefore, since his essence is one, it seems that there is only one idea.  
 
@@ -222,7 +224,7 @@ Article 3
 
 ***Whether in God there are ideas of all the things that he knows***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.15.3; *On the Power of God*, q. 1, a. 5, ad 10; q. 3, a. 1, ad 13; *On Truth*, q. 3, aa. 3‒5; *Commentary on Dionysius’s On the Divine Names*, ch. 5, lect. 3. It seems that in God there are not ideas of all the things that he knows.***
+To the third we proceed as follows.Parallel texts: *ST* I.15.3; *On the Power of God*, q. 1, a. 5, ad 10; q. 3, a. 1, ad 13; *On Truth*, q. 3, aa. 3‒5; *Commentary on Dionysius’s On the Divine Names*, ch. 5, lect. 3. It seems that in God there are not ideas of all the things that he knows.  
 
 Obj. 1: For God knows evils, but there cannot be in him an idea of evil, since “idea” implies imitation. Now, a thing is evil through the fact that it withdraws from the imitation of God. Therefore there are not ideas of all realities in God, since many things are evil.  
 

@@ -1,5 +1,7 @@
 # Chapter 36
 
+^36:1^ Et factum est in quarto decimo anno regis Ezechiæ, ascendit Sennacherib rex Assyriorum super omnes civitates Juda munitas et cepit eas.  
+
 > ^36:2^ Et misit rex Assyriorum Rabsacen de Lachis in Jerusalem ad regem Ezechiam in manu gravi, et stetit in aquæductu piscinæ superioris in via agri fullonis.
 
 > ^36:3^ Et egressus est ad eum Eliacim filius Helciæ qui erat super domum, et Sobna scriba et Joahe filius Asaph a commentariis.

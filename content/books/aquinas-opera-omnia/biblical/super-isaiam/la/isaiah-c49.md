@@ -1,5 +1,7 @@
 # Chapter 47
 
+^47:1^ Descende, sede in pulvere, virgo filia Babylon, sede in terra; non est solium filiæ Chaldæorum quia ultra non vocaberis mollis et tenera.  
+
 > ^47:2^ Tolle molam et mole farinam, denuda turpitudinem tuam, discooperi humerum, revela crus, transi flumina:
 
 > ^47:3^ revelabitur ignominia tua et videbitur opprobrium tuum. Ultionem capiam et non resistet mihi homo.

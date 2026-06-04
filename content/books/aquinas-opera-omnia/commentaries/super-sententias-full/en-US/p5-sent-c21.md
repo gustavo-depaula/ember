@@ -1,8 +1,10 @@
 # D. 20 - Causes of the Passion
 
+***Causes of the Passion***
+
 ***Division of the text***
 
-***Having considered how we are freed from evils through Christ’s Passion, here the Master considers the causes of the Passion.***
+Having considered how we are freed from evils through Christ’s Passion, here the Master considers the causes of the Passion.  
 
 It is divided into two parts:  
 
@@ -58,7 +60,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows.Parallel: *ST* III.1.2‒3. It appears that human nature ought not to have been restored.***
+To the first we proceed as follows.Parallel: *ST* III.1.2‒3. It appears that human nature ought not to have been restored.  
 
 Obj. 1: For man’s sin was not more grave than that of the angels. but after the sin of the angels their natural goods remained whole, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 23 (PG 3:726). Therefore in man the nature remained whole, and thus did not need restoration.  
 
@@ -74,7 +76,7 @@ Furthermore, it is not becoming that any perfection be lacking from the universe
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that it should not have been restored through making satisfaction.Parallels: *ST* III.48.2‒4. For a thing is restored through the same things as the things through which was is constituted. But human nature was constituted by only the word of God, for *he spoke and they were made*.Ps 148:5. Therefore he should have been restored by merely the word and command of God, and not through making any satisfaction for the creature.***
+Obj. 1: Moreover, it appears that it should not have been restored through making satisfaction.Parallels: *ST* III.48.2‒4. For a thing is restored through the same things as the things through which was is constituted. But human nature was constituted by only the word of God, for *he spoke and they were made*.Ps 148:5. Therefore he should have been restored by merely the word and command of God, and not through making any satisfaction for the creature.  
 
 Obj. 2: Furthermore, just as in the work of creation his power is manifested most, so in the work of restoration the divine mercy is manifested most. But it is a greater mercy to forgive sin without any penalty of making satisfaction than it is to require satisfaction. Therefore the human nature should have been restored without any making of satisfaction.  
 
@@ -86,7 +88,7 @@ Furthermore, making satisfaction is the medicine of sin. But it does not befit t
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that it was not necessary that human nature be restored in the way said. For God alone can restore a nature. But in God there is no necessity, just as there is no coercion. Therefore it was not necessary that the human nature be restored in the way said.***
+Obj. 1: Moreover, it appears that it was not necessary that human nature be restored in the way said. For God alone can restore a nature. But in God there is no necessity, just as there is no coercion. Therefore it was not necessary that the human nature be restored in the way said.  
 
 Obj. 2: Furthermore, to the degree that something is more necessary so too is it less voluntary, and to the degree that it is less voluntary, so too is it less worthy of gratitude. But the work of human restoration is the work that most of all deserves our gratitude to God. Therefore it is in no way necessary.  
 
@@ -100,7 +102,7 @@ Furthermore, it is impossible that there be something disordered in the universe
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that it was most fitting that human nature be restored to that from which it fell. For it was fitting with respect to God himself, because in this is manifested God’s mercy, power, and wisdom: his mercy or goodness because *he did not despise the weakness of our form*,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 1 (PG 94:984). his power insofar as he himself conquered all our defects by his own power, and his wisdom inasmuch as he is seen to have done nothing in vain. It was also fitting with respect to human nature, since it had fallen generally. Likewise also [it was fitting] for the perfection of the universe, the whole of which is in a certain way ordered to man’s salvation.***
+To the first question, I answer that it was most fitting that human nature be restored to that from which it fell. For it was fitting with respect to God himself, because in this is manifested God’s mercy, power, and wisdom: his mercy or goodness because *he did not despise the weakness of our form*,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 1 (PG 94:984). his power insofar as he himself conquered all our defects by his own power, and his wisdom inasmuch as he is seen to have done nothing in vain. It was also fitting with respect to human nature, since it had fallen generally. Likewise also [it was fitting] for the perfection of the universe, the whole of which is in a certain way ordered to man’s salvation.  
 
 Reply Obj. 1: “Natural” is said in two ways: in one way, as what follows from the principles of a species; and this is not changed by sin, neither in man nor in demon, just as neither is the species itself. In another way, that toward which the nature is ordered is called “natural”; and in this respect the natural is taken away by sin, inasmuch as the beatitude toward which the nature is ordered is taken away, and its capacity for it is diminished. And in this way the nature was corrupted, since it was no longer able to be led to beatitude by anything of that corrupted nature, unless that nature were to be restored.  
 
@@ -112,7 +114,7 @@ Reply Obj. 4: The exclusion from the vision of God can be called “eternal” f
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it was also fitting that human nature be restored through one making satisfaction. First, on the side of God, because the divine justice is manifested in the fault being washed away through the penalty. Second, on the side of man, who, by making satisfaction, is more perfectly made whole; for he would not be of as a great a glory, after sin, as he was in the state of innocence, if he were not fully to make satisfaction. For it is more glorious for man that he, by making satisfaction, fully expurgate the sin he had committed than would be if it had been dismissed without any satisfaction, just as it is also more glorious for man that he possess eternal life from merit than if he attained it without merit. For what one merits he has in a certain way from himself, inasmuch as he merited it. Likewise, satisfaction makes the one making satisfaction be in a certain way the cause of his own purification. Third, it is fitting even on the side of the universe, so that the fault be put into order through the penalty of making satisfaction; and in this way nothing remains disordered in the universe.***
+To the second question, it should be said that it was also fitting that human nature be restored through one making satisfaction. First, on the side of God, because the divine justice is manifested in the fault being washed away through the penalty. Second, on the side of man, who, by making satisfaction, is more perfectly made whole; for he would not be of as a great a glory, after sin, as he was in the state of innocence, if he were not fully to make satisfaction. For it is more glorious for man that he, by making satisfaction, fully expurgate the sin he had committed than would be if it had been dismissed without any satisfaction, just as it is also more glorious for man that he possess eternal life from merit than if he attained it without merit. For what one merits he has in a certain way from himself, inasmuch as he merited it. Likewise, satisfaction makes the one making satisfaction be in a certain way the cause of his own purification. Third, it is fitting even on the side of the universe, so that the fault be put into order through the penalty of making satisfaction; and in this way nothing remains disordered in the universe.  
 
 Reply Obj. 1: A thing’s existence precedes its activity, and therefore it cannot be that someone establishes himself in existence through his own activity, nor that he in any way be the cause of his very self. Rather, just as a man is the cause of his own corruption by sinning, so also it is becoming that he in a certain manner be the cause of his own purification by making satisfaction.  
 
@@ -122,7 +124,7 @@ Reply Obj. 3: It does not belong to a nature, insofar as it is considered in bar
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the restoration of the human nature was done by God. Whence it can be considered in two ways: namely, on the side of God, and on the side of the restored nature itself. Now, on the side of God three sorts of necessity can be considered. One is a necessity of coercion, and in this respect in no way can it be attributed to God, since nothing violent or outside his nature can happen in him, since he is immutable, as the Philosopher says.Aristotle, *Metaphysics* 5.5, 1015b14; Aquinas, *In Metaph.* bk. 5, lect. 6, n. 841. Another is an absolute necessity, and this is in God relative to the things within him that follow his own nature, since it is impossible that they be other than they are—such as that it is necessary that God exist, be good, and the like. But this is not a necessity of God in relation to his effects, since he does not act by a necessity of his nature, but from the freedom of his will. The third necessity is that from a supposition—not of the end, since there is no doubt that God, to accomplish some end, could bring in many paths other than even those that now have been determined for that end—but rather, from the supposition of something that is within him, namely, his foreknowledge or will, which cannot change. In virtue of this, it is said that it is necessary that the predestined by saved; and some call this the “necessity of immutability.” And in this way it was necessary, on the side of God, that human nature be restored, because he foresaw and ordered it to restoration. But this necessity, as was said, is a necessity of condition, not an absolute one, that is, a necessity of what follows, not of following.***
+To the third question, it should be said that the restoration of the human nature was done by God. Whence it can be considered in two ways: namely, on the side of God, and on the side of the restored nature itself. Now, on the side of God three sorts of necessity can be considered. One is a necessity of coercion, and in this respect in no way can it be attributed to God, since nothing violent or outside his nature can happen in him, since he is immutable, as the Philosopher says.Aristotle, *Metaphysics* 5.5, 1015b14; Aquinas, *In Metaph.* bk. 5, lect. 6, n. 841. Another is an absolute necessity, and this is in God relative to the things within him that follow his own nature, since it is impossible that they be other than they are—such as that it is necessary that God exist, be good, and the like. But this is not a necessity of God in relation to his effects, since he does not act by a necessity of his nature, but from the freedom of his will. The third necessity is that from a supposition—not of the end, since there is no doubt that God, to accomplish some end, could bring in many paths other than even those that now have been determined for that end—but rather, from the supposition of something that is within him, namely, his foreknowledge or will, which cannot change. In virtue of this, it is said that it is necessary that the predestined by saved; and some call this the “necessity of immutability.” And in this way it was necessary, on the side of God, that human nature be restored, because he foresaw and ordered it to restoration. But this necessity, as was said, is a necessity of condition, not an absolute one, that is, a necessity of what follows, not of following.  
 
 Likewise, on the side of man necessity can be considered in three ways. One necessity is absolute, which relative to things that are naturally present within man, such as it is necessary that man be risible, and the like; and in this way it is not necessary that human nature be restored. Another is a necessity of coercion, and this is relative to things that a man does when coerced by a greater power, and this is involuntary either simply speaking or in a certain respect; and such was not the necessity in human nature in reference to its restoration, since God does not coerce one to virtue. The third necessity is on the supposition of an end, such as that it is necessary for a man to have a ship if he ought to go across the sea; and by this necessity it was necessary that human nature be restored—namely, if it should be admitted to the vision of God.  
 
@@ -138,7 +140,7 @@ Article 2
 
 ***Whether any merely created thing could have made satisfaction for human nature***
 
-***To the second we turn as follows. It appears that a merely created thing was able to make satisfaction for human nature.***
+To the second we turn as follows. It appears that a merely created thing was able to make satisfaction for human nature.  
 
 Obj. 1: For just as satisfaction is owed for sin, so too giving thanks is owed to a benefit. But giving thanks to God to the degree that a man is able to render it, is sufficient, even if it is not equal to the benefits. For, as the Philosopher says, *according to his ability, a man’s service to the gods and his fathers appears to be just, although not according to equality*.Aristotle, *Nicomachean Ethics* 8.14, 1163b16–18. Therefore it appears that in a similar way the satisfaction that a man can render is sufficient to expiate sin.  
 
@@ -176,7 +178,7 @@ Article 3
 
 ***Whether the satisfaction should have been made through Christ’s Passion***
 
-***To the third we proceed as follows.Parallels: *ST* III.48.2; 48.6.ad 3; *SCG* IV.55.ad 23, 24. It appears that the satisfaction should not have been made through Christ’s Passion.***
+To the third we proceed as follows.Parallels: *ST* III.48.2; 48.6.ad 3; *SCG* IV.55.ad 23, 24. It appears that the satisfaction should not have been made through Christ’s Passion.  
 
 Obj. 1: For a lesser sin is not expiated through a greater one—rather, it is aggravated. But the sin of those who murdered Christ was greater than the eating of the forbidden fruit by which human nature was corrupted. Therefore the corruption of human nature cannot be expiated through Christ’s suffering.  
 
@@ -220,7 +222,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed as follows.Parallel: *ST* III.46.1‒2. It appears that no other mode of satisfaction was possible.***
+To the fourth we proceed as follows.Parallel: *ST* III.46.1‒2. It appears that no other mode of satisfaction was possible.  
 
 Obj. 1: For Hebrews 2:10 says, *it was fitting that he . . . should make . . . [him] perfect through suffering*, and the Gloss says, *unless Christ suffered, man would not be redeemed*.*Glossa ordinaria*, at Hebrews 2:10, ?.?? (PL 114:647).  
 
@@ -236,7 +238,7 @@ Furthermore, *with God nothing will be impossible* (Luke 1:37). Therefore he wou
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that another mode would have been more fitting.Parallels: *ST* III.46.2‒4; *Compendium theol.*, ch. 228; *Contra errores Graecorum*, ch. 7; *In Symbolorum apostolorum*, a. 4; *Super Matth.* 27; *Super Ioan.* 3, lect. 2; 12, lect. 5; *Super Heb.* 2, lect. 4. For if Christ had submitted himself to a natural death, the human race would still have been redeemed, for he would have paid a death that he did not owe. But this would have happened without anyone sinning. Therefore it appears that this would have been a more fitting way, since each thing is more fitting to the degree that fewer unfitting things follow upon it.***
+Obj. 1: Moreover, it appears that another mode would have been more fitting.Parallels: *ST* III.46.2‒4; *Compendium theol.*, ch. 228; *Contra errores Graecorum*, ch. 7; *In Symbolorum apostolorum*, a. 4; *Super Matth.* 27; *Super Ioan.* 3, lect. 2; 12, lect. 5; *Super Heb.* 2, lect. 4. For if Christ had submitted himself to a natural death, the human race would still have been redeemed, for he would have paid a death that he did not owe. But this would have happened without anyone sinning. Therefore it appears that this would have been a more fitting way, since each thing is more fitting to the degree that fewer unfitting things follow upon it.  
 
 Obj. 2: Furthermore, the devil invaded us wholly unjustly, nor did he have a claim on us. But nothing is more fitting than that force be repelled by force. Therefore it would have been the most fitting mode if, by his power, he would have snatched us away from the power of the devil, rather than by redeeming us.  
 
@@ -250,7 +252,7 @@ Furthermore, it belongs to him who is best to bring forth the best things. There
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, insofar as it is from the side of God, another mode of our liberation was possible, for his power is not limited, and this, had he chosen it, it would have been most fitting. Nevertheless, it would not have had the notion of redemption, but only of liberation, since the liberation would not have been accomplished through the payment of the price. However, from the side of man, there was no other mode possible than the one that God gave him, since he was not able to make satisfaction by himself, but only by divine favor. But from our side and that of God together, there was indeed another mode possible, but none so fitting.***
+To the first question, I answer that, insofar as it is from the side of God, another mode of our liberation was possible, for his power is not limited, and this, had he chosen it, it would have been most fitting. Nevertheless, it would not have had the notion of redemption, but only of liberation, since the liberation would not have been accomplished through the payment of the price. However, from the side of man, there was no other mode possible than the one that God gave him, since he was not able to make satisfaction by himself, but only by divine favor. But from our side and that of God together, there was indeed another mode possible, but none so fitting.  
 
 Reply Obj. 1: If man were to have been freed in another way, he would not have been redeemed, since redemption imports a sufficient satisfaction being made. But still he could have been freed in another way.  
 
@@ -262,7 +264,7 @@ Reply Obj. 4: The faith of the patriarchs was in the suffering of the Christ to 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, insofar as it is from our side, no more fitting mode was possible. But nevertheless, the power is not taken away from God—whose power is not limited—that he could have made a more fitting mode. But this would be in virtue of a different order having been placed in things.***
+To the second question, it should be said that, insofar as it is from our side, no more fitting mode was possible. But nevertheless, the power is not taken away from God—whose power is not limited—that he could have made a more fitting mode. But this would be in virtue of a different order having been placed in things.  
 
 Reply Obj. 1: Christ ought to have made satisfaction, with respect to sufficiency, for all sins—not only for original, but also for actual sin, for which violent death is inflicted. And therefore, so that his satisfaction might embrace all [sin], it was becoming that he might die the most shameful death, as regards the kind of death, such that in death he might descend not only lower than the angels, but even beneath men in his kind of death, with respect to its bitterness together with its shamefulness. Nor does the sin of others take away anything from the fitness of the satisfaction, since the making of satisfaction from suffering is not accomplished for the one inflicting the suffering, but for the one suffering it.  
 
@@ -278,7 +280,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***To the fifth we proceed as follows.Parallels: *ST* III.47.3; *SCG* IV.55.ad 16; *Super Ioan*. 3, lect. 3; *Super Rom*. 8, lect. 6. It appears that God the Father did not hand the Son over to suffering.***
+To the fifth we proceed as follows.Parallels: *ST* III.47.3; *SCG* IV.55.ad 16; *Super Ioan*. 3, lect. 3; *Super Rom*. 8, lect. 6. It appears that God the Father did not hand the Son over to suffering.  
 
 Obj. 1: For it is the greatest cruelty to hand over an innocent son. But Christ was most innocent. Therefore, since there is no cruelty in God, it appears that he did not hand over Christ to suffering.  
 
@@ -294,7 +296,7 @@ Furthermore, every penalty is from God. But Christ’s Passion was a certain pen
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that Christ’s Passion was not good. For according to Boethius, if something’s generation is a good, its corruption is evil.Boethius, *Topicorum Aristotelis Libri Octo Severino Boethio Interprete*, bk. 3, ch. 4 (PL 64:939). But Christ’s generation was the best. Therefore his suffering death was the worst.***
+Obj. 1: Moreover, it appears that Christ’s Passion was not good. For according to Boethius, if something’s generation is a good, its corruption is evil.Boethius, *Topicorum Aristotelis Libri Octo Severino Boethio Interprete*, bk. 3, ch. 4 (PL 64:939). But Christ’s generation was the best. Therefore his suffering death was the worst.  
 
 Obj. 2: Furthermore, every injustice is an evil. But Christ suffered unjustly: *but he trusted to him who judges unjustly* (1 Pet 2:23).The RSV has “justly” for “unjustly.” Therefore that suffering of Christ was evil.  
 
@@ -306,7 +308,7 @@ Furthermore, everything that arises from charity is good. But Christ suffered an
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that there are three things to consider in Christ’s suffering: one on the side of the one suffering, namely, one who suffered voluntarily out of charity; another on the side of those who murdered him, who murdered him from a depraved will; and a third on the side of those for whom he suffered, namely, the effect of salvation in the entire human race. And according to this, in three ways did the Father—in fact the entire Trinity—hand him over. In one way, by preordaining his suffering for the salvation of the human race. In a second way, by giving Christ the man the will and the charity from which he willed to suffer. And third, by giving him the power and not restraining the will of the murderers, as is said in John 19:11: *you would have no power over me unless it had been given you from above*.***
+To the first question, I answer that there are three things to consider in Christ’s suffering: one on the side of the one suffering, namely, one who suffered voluntarily out of charity; another on the side of those who murdered him, who murdered him from a depraved will; and a third on the side of those for whom he suffered, namely, the effect of salvation in the entire human race. And according to this, in three ways did the Father—in fact the entire Trinity—hand him over. In one way, by preordaining his suffering for the salvation of the human race. In a second way, by giving Christ the man the will and the charity from which he willed to suffer. And third, by giving him the power and not restraining the will of the murderers, as is said in John 19:11: *you would have no power over me unless it had been given you from above*.  
 
 Reply Obj. 1: God the Father did not hand Christ over to death by forcing him to die, but rather by giving him the good will by which he wished to die. And therefore it does not follow that there was any cruelty in God.  
 
@@ -318,7 +320,7 @@ Reply Obj. 4: To do something evil for the sake of attaining a good end belongs 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a judgment about a thing is absolute when the thing itself is considered insofar as it is actually existing in the nature of things. And this is when it is considered with all the circumstances that are present in it. But when a thing is considered according to something in the thing, without a consideration of other things, that judgment is not about the thing simply, but in a certain respect.***
+To the second question, it should be said that a judgment about a thing is absolute when the thing itself is considered insofar as it is actually existing in the nature of things. And this is when it is considered with all the circumstances that are present in it. But when a thing is considered according to something in the thing, without a consideration of other things, that judgment is not about the thing simply, but in a certain respect.  
 
 Therefore if his suffering be considered insofar as it is in the one suffering, with all its circumstances—namely, Christ’s charity, and its efficacy—then in this way it should be called good simply speaking. However, if it be considered only insofar as it is suffering—namely, insofar as he gives up his life, considering nothing else—then in this way it is an evil, in the genus of an evil of nature. Whence it should be said that it is good simply speaking, but evil in a certain respect.  
 
@@ -330,7 +332,7 @@ Reply Obj. 3: The deed actively committed by the Jews is an evil simply speaking
 
 Exposition of the text  
 
-****Because in this way the devil is overcome by righteousness, not by power*.*Sent.* III, 20.2(63).2, quoting Augustine, *On the Trinity*, bk. 13, ch. 13 (CCSL 50A; PL 42:1028). On the contrary, God’s justice cannot be without his power, nor conversely. It should be said that this should be understood to mean *not by his power* only. But if he had overcome the devil even by his power alone, it would still be justice on the side of God freeing us, but not on our side.***
+*Because in this way the devil is overcome by righteousness, not by power*.*Sent.* III, 20.2(63).2, quoting Augustine, *On the Trinity*, bk. 13, ch. 13 (CCSL 50A; PL 42:1028). On the contrary, God’s justice cannot be without his power, nor conversely. It should be said that this should be understood to mean *not by his power* only. But if he had overcome the devil even by his power alone, it would still be justice on the side of God freeing us, but not on our side.  
 
 *The author of sin immediately invaded him*.*Sent*. III, 20.2(63).2, quoting Augustine, *On the Trinity* (CCSL 50A), bk. 13, cc. 12–13 (CCSL 50A; PL 42:1028). On the contrary, the devil sinned more than man did, so he should be invaded more than man. It should be said to this that the judge’s sentence invaded both of them, according to the mode of fault, but the author of sin also invaded man. This is both because man subjected himself to him, and because man was under the angels from the order of nature, whence he is given to man also for his exercise.  
 

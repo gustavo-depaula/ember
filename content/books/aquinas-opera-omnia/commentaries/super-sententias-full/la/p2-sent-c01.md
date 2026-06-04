@@ -1,8 +1,10 @@
 # D. 21 - Exclusive diction in the divine
 
+***De dictione exclusiva in divinis***
+
 ***Divisio textus***
 
-***Ostensa aequalitate personarum, quia usus fuit Magister quibusdam locutionibus in sua propositione, in quibus dictiones exclusivae terminis personalibus addebantur, ut cum dicitur: *solus Pater tantum habet de potentia, quantum omnes tres simul*; et similia: ideo in parte ista inquirit de veritate hujusmodiThe Parma edition (1856) of Aquinas’s *Commentary on the Sentences* here reads *omnium*. locutionum, qualiter hujusmodi dictiones exclusivae nominibus divinis adjungi possint. Dividitur ergo in partes duas: in prima inquirit, utrum dictio exclusiva possit adjungi nomini personali in subjecto posito cum praedicato personali; in secunda inquirit, utrum possit adjungi nomini personali quando praedicatur de ipso essentiale, verbi gratia: *solus Pater est Deus*, ibi: *post haec quaeritur, utrum, sicut dicitur, solus Pater est pater, vel, solus Filius est filius, ita possit dici, solus Pater est Deus, vel, solus Filius est Deus*.***
+Ostensa aequalitate personarum, quia usus fuit Magister quibusdam locutionibus in sua propositione, in quibus dictiones exclusivae terminis personalibus addebantur, ut cum dicitur: *solus Pater tantum habet de potentia, quantum omnes tres simul*; et similia: ideo in parte ista inquirit de veritate hujusmodiThe Parma edition (1856) of Aquinas’s *Commentary on the Sentences* here reads *omnium*. locutionum, qualiter hujusmodi dictiones exclusivae nominibus divinis adjungi possint. Dividitur ergo in partes duas: in prima inquirit, utrum dictio exclusiva possit adjungi nomini personali in subjecto posito cum praedicato personali; in secunda inquirit, utrum possit adjungi nomini personali quando praedicatur de ipso essentiale, verbi gratia: *solus Pater est Deus*, ibi: *post haec quaeritur, utrum, sicut dicitur, solus Pater est pater, vel, solus Filius est filius, ita possit dici, solus Pater est Deus, vel, solus Filius est Deus*.  
 
 Et haec in duas: in prima ostendit quod hujusmodi locutiones non sint concedendae simpliciter, ut cum dicitur: *solus Pater est Deus*; in secunda ostendit quod secundum aliquem intellectum concedi possunt; et si concedantur, non sequitur inconveniens, ibi: *verumtamen, ut ait Augustinus, et si de solo Patre praedicta dicerentur, non tamen excluderetur Filius vel Spiritus Sanctus*.  
 
@@ -28,7 +30,7 @@ secundo utrum possit addi termino personali cum praedicato essentiali.
 
 Articulus 1  
 
-***Utrum istae propositiones, “solus Deus est Deus” et “solus Deus est Pater” sint falsa***
+Utrum istae propositiones, “solus Deus est Deus” et “solus Deus est Pater” sint falsa  
 
 ***Quaestiuncula 1***
 
@@ -52,7 +54,7 @@ Contra, de quocumque praedicatur commune cum praecisione,Parma: *praecise*. prae
 
 Solutio 1  
 
-***Respondeo dicendum, quod, secundum Philosophum, 7 *Metaphysicor*., “solum” idem est quod non cum alio, in quo consortium removetur. Potest igitur haec dictio “solus” removere consortium simpliciter, vel respectu alicujus. Et dicitur simpliciter removere consortium, quando tollitur associatio alterius quod sit ejusdem naturae et conditionis cum ipso; sicut dicimus aliquem hominem esse solum in domo, quamvis ibi sint multa alia animalia; et dicimus aliquem religiosum incedere solum, cum sine socio sui ordinis vadit, multis etiam ipsum comitantibus; et tunc “solus” idem est quod solitarius; et est etiam dictio categorematica implicans solitudinem circa subjectum, sicut et quodlibet aliud adjectivum; et ita nullo modo potest accipi in divinis: quia una persona semper habet consortium societatis alterius personae connaturalis et similis sibi.***
+Respondeo dicendum, quod, secundum Philosophum, 7 *Metaphysicor*., “solum” idem est quod non cum alio, in quo consortium removetur. Potest igitur haec dictio “solus” removere consortium simpliciter, vel respectu alicujus. Et dicitur simpliciter removere consortium, quando tollitur associatio alterius quod sit ejusdem naturae et conditionis cum ipso; sicut dicimus aliquem hominem esse solum in domo, quamvis ibi sint multa alia animalia; et dicimus aliquem religiosum incedere solum, cum sine socio sui ordinis vadit, multis etiam ipsum comitantibus; et tunc “solus” idem est quod solitarius; et est etiam dictio categorematica implicans solitudinem circa subjectum, sicut et quodlibet aliud adjectivum; et ita nullo modo potest accipi in divinis: quia una persona semper habet consortium societatis alterius personae connaturalis et similis sibi.  
 
 Si autem excludat consortium respectu alicujus determinati tunc dictio est syncategorematica, importans aliquem ordinem vel habitudinem unius ad alterum, ratione negationis implicatae, magis quam implicans formam aliquam; et secundum hoc dico, quod haec est duplex: “solus Deus creat”; quia vel removet consortium alterius a forma subjecti subintellecta implicatione, quod est, vel qui est; et tunc est sensus: “solus Deus,” id est ille qui ita est Deus quod praeter ipsum nullus alius est Deus, “creat,” et sic vera est. Vel removet consortium a participatione praedicati, et in hoc etiam sensu vera est: est enim sensus, quod nullus alius praeter Deum creet. Et idem est judicium de hac: “solus Pater est pater,” vel “solus Pater generat.” Omnes enim hujusmodi in primo sensu sunt falsae et in duobus aliis verae.  
 
@@ -66,13 +68,13 @@ Quartum concedimus, quod procedit secundum tertium sensum.
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, an haec sit vera: “solus Deus est Pater,” dicendum, quod secundum tres sensus tripliciter potest judicari. Si enim haec dictio “solus” implicet solitudinem circa Deum, locutio falsa est. Si autem importat exclusionem a forma subjecti, vera est, et est sensus; Deus, praeter quem non est alius, est Pater. Si autem removeat consortium a participatione praedicati, dico quod est duplex. Quia in nomine patris potest intelligi tantum proprietas paternitatis prout praedicatum formaliter tenetur, et sic falsa est, quia paternitas non tantum in Deo est sed etiam in hominibus. Vel ipsa persona subsistens distincta paternitate; et sic est vera, et hoc modo probatur et improbatur. Tamen sciendum, quod paternitas non est ejusdem rationis secundum univocationem in Deo et in creaturis, quamvis sit eadem ratio secundum analogiam, quae quidem aliquid habet de identitate rationis, et aliquid de diversitate. Unde etiam si praedicatum sumatur formaliter, tamen potest aliquo modo vera esse: “solus Deus est Pater,” et secundum eumdem modum loquendi quo dicitur Luc. 18:19: *nemo bonus nisi solus Deus*.***
+Ad id quod ulterius quaeritur, an haec sit vera: “solus Deus est Pater,” dicendum, quod secundum tres sensus tripliciter potest judicari. Si enim haec dictio “solus” implicet solitudinem circa Deum, locutio falsa est. Si autem importat exclusionem a forma subjecti, vera est, et est sensus; Deus, praeter quem non est alius, est Pater. Si autem removeat consortium a participatione praedicati, dico quod est duplex. Quia in nomine patris potest intelligi tantum proprietas paternitatis prout praedicatum formaliter tenetur, et sic falsa est, quia paternitas non tantum in Deo est sed etiam in hominibus. Vel ipsa persona subsistens distincta paternitate; et sic est vera, et hoc modo probatur et improbatur. Tamen sciendum, quod paternitas non est ejusdem rationis secundum univocationem in Deo et in creaturis, quamvis sit eadem ratio secundum analogiam, quae quidem aliquid habet de identitate rationis, et aliquid de diversitate. Unde etiam si praedicatum sumatur formaliter, tamen potest aliquo modo vera esse: “solus Deus est Pater,” et secundum eumdem modum loquendi quo dicitur Luc. 18:19: *nemo bonus nisi solus Deus*.  
 
 Articulus 2  
 
 ***Utrum ista propositio, “solus Pater est Deus,” sit vera***
 
-***Ad secundum sic proceditur. Videtur quod haec sit vera: “solus Pater est Deus,” vel, “solus Filius est Deus.”***
+Ad secundum sic proceditur. Videtur quod haec sit vera: “solus Pater est Deus,” vel, “solus Filius est Deus.”  
 
 Sicut enim esse Deum convenit tribus personis, ita et esse altissimum. Sed de Filio legitur: *tu solus altissimus*. Ergo potest dici: “solus Filius est Deus.”  
 
@@ -110,7 +112,7 @@ Quaestio 2
 
 ***Utrum dictio exclusiva possit in divinis addi ex parte praedicati***
 
-***Deinde quaeritur, quomodo possit addi ex parte praedicati dictio exclusiva in divinis; et circa hoc duo quaeruntur:***
+Deinde quaeritur, quomodo possit addi ex parte praedicati dictio exclusiva in divinis; et circa hoc duo quaeruntur:  
 
 primo utrum haec sit vera, “Trinitas est solus Deus”;  
 
@@ -120,7 +122,7 @@ Articulus 1
 
 ***Utrum ista propositio, “Trinitas est solus Deus,” sit vera***
 
-***Ad primum sic proceditur. Videtur quod haec sit falsa: “Trinitas est solus Deus.”Other editions (Al.) read: *Dominus*.***
+Ad primum sic proceditur. Videtur quod haec sit falsa: “Trinitas est solus Deus.”Other editions (Al.) read: *Dominus*.  
 
 “Solus” enim est dispositio subjecti, sicut et “omnis.” Sed haec dictio “omnis” incongrue additur ad praedicatum. Ergo videtur quod etiam haec dictio “solus.”  
 
@@ -178,4 +180,4 @@ Ad tertium dicendum, quod si ly “solus” proprie sumatur, per illud argumentu
 
 Expositio textus  
 
-****Nemo novit Patrem nisi Filius*. Videtur quod Augustinus male exponit: quia “nemo” idem est quod nullus homo: sub hoc autem non continentur Pater et Spiritus Sanctus, de quibus hoc nomen “homo” non praedicatur; et ita videtur quod inconvenienter subjungat Augustinus: *non inde separatur Pater vel Spiritus Sanctus, quia inseparabiles sunt*. Ad hoc dicunt quidam, quod haec dictio “nisi” non ponitur exceptive, sed adversative, ut sit sensus: nullus purus homo novit Patrem notitia comprehensionis, sed tantum Filius. Sed potest melius dici, quod haec dictio “nemo” habet aliquid ex proprietate significationis, et aliquid ex usu nominis. Ex proprietate significationis habet quod “nemo” significet idem quod nullus homo, et ita sub hac distributione non includitur persona Patris vel Spiritus Sancti. Sed quia homo est secundum quod habet intellectum, nec aliquid habens intellectum est nobis ad sensum manifestum nisi homo; ideo ex usu loquentium habet quod “nemo” distribuat pro omni intellectuali natura; et ita sub distributione potest fieri descensus ad personas divinas, angelicas et humanas.***
+*Nemo novit Patrem nisi Filius*. Videtur quod Augustinus male exponit: quia “nemo” idem est quod nullus homo: sub hoc autem non continentur Pater et Spiritus Sanctus, de quibus hoc nomen “homo” non praedicatur; et ita videtur quod inconvenienter subjungat Augustinus: *non inde separatur Pater vel Spiritus Sanctus, quia inseparabiles sunt*. Ad hoc dicunt quidam, quod haec dictio “nisi” non ponitur exceptive, sed adversative, ut sit sensus: nullus purus homo novit Patrem notitia comprehensionis, sed tantum Filius. Sed potest melius dici, quod haec dictio “nemo” habet aliquid ex proprietate significationis, et aliquid ex usu nominis. Ex proprietate significationis habet quod “nemo” significet idem quod nullus homo, et ita sub hac distributione non includitur persona Patris vel Spiritus Sancti. Sed quia homo est secundum quod habet intellectum, nec aliquid habens intellectum est nobis ad sensum manifestum nisi homo; ideo ex usu loquentium habet quod “nemo” distribuat pro omni intellectuali natura; et ita sub distributione potest fieri descensus ad personas divinas, angelicas et humanas.

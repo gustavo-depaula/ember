@@ -1,5 +1,7 @@
 # Proposition 22
 
+***166. Causa prima est super omne nomen, quo nominatur.***
+
 > 167. Quoniam non pertinet ei diminutio neque complementum solum; quoniam diminutum est non completum et non potest efficere operationem completam, quando est diminutum. Et completum apud nos, quamvis sit sufficiens per se ipsum, tamen non potest creare aliquid aliud neque influere a se ipso aliquid omnino.
 
 > 168. Si ergo hoc ita est apud nos, tunc dicimus, quod primum non est diminutum neque completum tantum, immo est supra completum,

@@ -1,5 +1,7 @@
 # Chapter 24
 
+^24:1^ Ecce Dominus dissipabit terram et nudabit eam et affliget faciem ejus et disperget habitatores ejus.  
+
 > ^24:2^ Et erit sicut populus sic sacerdos, et sicut servus sic dominus ejus, sicut ancilla sic domina ejus, sicut emens sic ille qui vendit, sicut fœnerator sic is qui mutuum accipit, sicut qui repetit sic qui debet.
 
 > ^24:3^ Dissipatione dissipabitur terra et direptione prædabitur, Dominus enim locutus est verbum hoc.

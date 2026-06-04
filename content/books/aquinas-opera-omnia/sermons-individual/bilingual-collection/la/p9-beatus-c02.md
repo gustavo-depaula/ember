@@ -1,5 +1,7 @@
 # Sermon
 
+******Beatus vir*** etc.***
+
 Hoc habet humana consuetudo ut quando aliquis ad magnum statum vel ad magnam dignitatem promovetur, huius promotionis memoriam recolit ipse et sui. Hodie beatus Martinus promotus est ad maximam dignitatem et principatum, scilicet ad regnum caelorum; ideo beatitudinis eius memoriam recolit mater Ecclesia.  
 
 Circa ipsius beatitudinem tria occurrunt consideranda ex verbis propositis. Primo possumus considerare beatitudinis eius principium, secundo processum et tertio beatitudinis eius terminum. Principium sive causa beatitudinis eius fuit divinum auxilium, quod notatur cum dicit <psalmista>: ***beatus vir***. Processus est in ascensione: fuit scilicet profectus de virtute in virtutem, quod notatur cum dicit: ***ascensiones in corde disposuit***. Terminus beatitudinis eius est assecutio aeternae beatitudinis, quod notatur cum dicit: ***in locum quem posuit***. Et quia psalmista statim exponens quod dixit, subdit: *et enim benedictionem dabit legis lator*, ecce divinum auxilium; *ibunt de virtute in virtutem*; ecce ascensus de virtute in virtutem; *videbitur Deus virtutum in Sion*; ecce locus ***quem posuit***.  

@@ -1,5 +1,7 @@
 # All-powerful and Everlasting God
 
+***Oratio ante Communionem***
+
 ***Omnipotens sempiterne Deus,***
 ***ecce***
 ***accedo ad sacramentum***

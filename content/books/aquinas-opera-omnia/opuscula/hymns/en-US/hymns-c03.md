@@ -1,5 +1,8 @@
 # The Heavenly Word Proceeding Forth
 
+***Hymn from Lauds***
+***[translated by John Mason Neale (1818–1866)]***
+
 ***The heavenly Word proceeding forth,***
 ***yet leaving not the Father’s side,***
 ***and going to his work on earth,***

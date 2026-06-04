@@ -1,8 +1,10 @@
 # D. 28 - Non-personal properties of the divine persons
 
+***Non-personal properties of the divine persons***
+
 ***Division of the text***
 
-***Here the Master considers the notions of the persons that are not personal. It is divided into two parts: in the first, he considers “innascibility,” which is a property of a person even though it is not a personal property; in the second, he considers common spiration, which is neither a personal property nor the property of a person, at *there is also another name denoting a manifold relation*.*Sent*. I, 29.1(125).1.***
+Here the Master considers the notions of the persons that are not personal. It is divided into two parts: in the first, he considers “innascibility,” which is a property of a person even though it is not a personal property; in the second, he considers common spiration, which is neither a personal property nor the property of a person, at *there is also another name denoting a manifold relation*.*Sent*. I, 29.1(125).1.  
 
 The first part is divided into two: in the first, he shows how the Father is called “unbegotten”; in the second, he shows how everything that is called “begotten” should be taken in reference to the Son, at *it is also to be known that, just as the Son alone is called ‘Word’ or ‘image,’ so he alone is also called ‘born or begotten Wisdom.’**Sent*. I, 28.6(123).1.  
 
@@ -40,7 +42,7 @@ Article 1
 
 ***Whether innascibility is a property of the Father***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 13, a. 3; *ST* I.33.4; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 8. It seems that innascibility is not a notion or property of the Father.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 13, a. 3; *ST* I.33.4; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 8. It seems that innascibility is not a notion or property of the Father.  
 
 Obj. 1: For, as is held in the text, when the Father is called “unbegotten,” one is showing *not what he is, but what he is not*.*Sent*. I, 28.1(118).1, quoting Augustine, *On the Trinity*, bk. 5, ch. 6 (CCSL 50; PL 42:915). But a negation cannot be a sufficient principle to make something known. Therefore, since what is called a “notion” is a principle of knowing a person, it seems that “unbegotten” does not signify any notion of the Father.  
 
@@ -72,7 +74,7 @@ Article 2
 
 ***Whether innascibility is a personal property of the Father***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.32.3; *On the Power of God*, q. 9, a. 8, ad 21, ad 27; q. 10, a. 5, ad 12. It seems that innascibility is a personal property of the Father.***
+To the second we proceed as follows.Parallel texts: *ST* I.32.3; *On the Power of God*, q. 9, a. 8, ad 21, ad 27; q. 10, a. 5, ad 12. It seems that innascibility is a personal property of the Father.  
 
 Obj. 1: For just as paternity belongs only to the Father, so does innascibility. But paternity is his personal property. Therefore so is innascibility.  
 
@@ -108,9 +110,9 @@ third, if it is said personally, whether it belongs to the Son alone.
 
 Article 1  
 
-***Whether this definition of image is congruent: an image is the non-differing species of a reality that it images***
+Whether this definition of image is congruent: an image is the non-differing species of a reality that it images  
 
-***To the first we proceed as follows.Parallel texts: *ST* I.35.1, ad 2; I.93.1, ad 3. Hilary’s definition is proposed as follows: *an image is the non-differing species of a reality that it images*.Hilary, *On Synods*, ch. 13 (PL 10:490).  But this seems incongruent.***
+To the first we proceed as follows.Parallel texts: *ST* I.35.1, ad 2; I.93.1, ad 3. Hilary’s definition is proposed as follows: *an image is the non-differing species of a reality that it images*.Hilary, *On Synods*, ch. 13 (PL 10:490).  But this seems incongruent.  
 
 Obj. 1: For something is an image in virtue of an imitation in externals. But a species is not among the externals of the thing; indeed, it signifies the intrinsic “whatness.” Therefore it is badly placed in the definition of image.  
 
@@ -146,7 +148,7 @@ Article 2
 
 ***Whether “image” is said essentially***
 
-***To the second we proceed as follows.Parallel texts: *In I Sent*., d. 3, q. 3, a. 1, ad 5; *ST* I.35.1; I.93.5, ad 4; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 10; *Commentary on 1 Corinthians*, ch. 2, lect. 2; *Commentary on 2 Corinthians*, ch. 4, lect. 2; *Commentary on Colossians*, ch. 1, lect. 4; *Commentary on Hebrews*, ch. 1, lect. 2. It seems that “image” is not said essentially.***
+To the second we proceed as follows.Parallel texts: *In I Sent*., d. 3, q. 3, a. 1, ad 5; *ST* I.35.1; I.93.5, ad 4; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 10; *Commentary on 1 Corinthians*, ch. 2, lect. 2; *Commentary on 2 Corinthians*, ch. 4, lect. 2; *Commentary on Colossians*, ch. 1, lect. 4; *Commentary on Hebrews*, ch. 1, lect. 2. It seems that “image” is not said essentially.  
 
 Obj. 1: For Augustine has said, earlier, that nothing is *said more absurdly than that a thing is the image of itself*.*Sent*. I, 27.3(115).5, quoting Augustine, *On the Trinity*, bk. 7, ch. 1 (CCSL 50; PL 42:934). But what is said essentially in the divine is said in reference to itself. Therefore it is absurd that he would be called “image” essentially.  
 
@@ -166,7 +168,7 @@ Article 3
 
 ***Whether the Holy Spirit can be called an image***
 
-***To the third we proceed as follows.Parallel texts: *In I Sent*., d. 3, a. 3, ad 5; *In II Sent*., d. 16, a. 1; *ST* I.35.2, ad 1, ad 2; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 10. It seems that the Holy Spirit can be called an “image.”***
+To the third we proceed as follows.Parallel texts: *In I Sent*., d. 3, a. 3, ad 5; *In II Sent*., d. 16, a. 1; *ST* I.35.2, ad 1, ad 2; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 10. It seems that the Holy Spirit can be called an “image.”  
 
 Obj. 1: First, because Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 1, ch. 13 (PG 94:855). that the Holy Spirit is the image of the Son.  
 
@@ -196,7 +198,7 @@ Reply Obj. 4: Although the name “image” was imposed from the equality and li
 
 Exposition of the text  
 
-****To some, it seems that the Father alone ought to be called non-begotten*.*Sent*. I, 28.2(119).2. One should be aware that each opinion says something true in some respect. For if “non-begotten” is said insofar as it signifies a negation absolutely, then it befits the Father alone, nor is it the same as “unbegotten,” which indicates negation through the mode of privation, insofar as “unbegotten” is taken properly; and the second opinion follows in this respect. However, if it signifies negation in the genus of a principle, then it is the same as “unbegotten,” and it belongs only to the Father. This is how the first opinion follows.***
+*To some, it seems that the Father alone ought to be called non-begotten*.*Sent*. I, 28.2(119).2. One should be aware that each opinion says something true in some respect. For if “non-begotten” is said insofar as it signifies a negation absolutely, then it befits the Father alone, nor is it the same as “unbegotten,” which indicates negation through the mode of privation, insofar as “unbegotten” is taken properly; and the second opinion follows in this respect. However, if it signifies negation in the genus of a principle, then it is the same as “unbegotten,” and it belongs only to the Father. This is how the first opinion follows.  
 
 *But if you transpose to say: it is one thing for the Father to be, another for the Son to be, the meaning is changed*.*Sent*. I, 28.5(122).2. The argument of the statement is based on the fact that “to be” is said in two ways: insofar as it signifies the truth of a composition, and insofar as it signifies the act of the essence.  
 

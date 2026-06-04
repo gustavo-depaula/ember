@@ -1,5 +1,7 @@
 # Chapter 8
 
+***Term 1***
+
 ***Habit***
 
 ***Virtuous habits bring about like actions.***
@@ -20,7 +22,7 @@ Term 2
 
 ***Homer***
 
-***Homer, in writing Trojan history, makes mention of such men as Diomedes and Hector.***
+Homer, in writing Trojan history, makes mention of such men as Diomedes and Hector.  
 
 Homer called Jove, who was the king of Crete, 'father' because fatherly rule is the ideal of monarchy.  
 

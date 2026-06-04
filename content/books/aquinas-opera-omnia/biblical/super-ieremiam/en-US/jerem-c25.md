@@ -1,10 +1,12 @@
 # C. 23 - Condemnation of false prophets
 
+***Condemnation of false prophets***
+
 ***Lecture 1***
 
 ***Woe to evil shepherds***
 
-***^23:1^ Woe to the shepherds who scatter and tear in piecesHeb. וּמְפִצִ֛ים: *and scatter*. the flock of my pasture! says the Lord.***
+^23:1^ Woe to the shepherds who scatter and tear in piecesHeb. וּמְפִצִ֛ים: *and scatter*. the flock of my pasture! says the Lord.  
 
 > ^23:2a^ Therefore, thus says the Lord, God of Israel to the shepherds who shepherd my people: you have scattered my flock and have driven them away, and have not visited them.
 
@@ -36,7 +38,7 @@ Lecture 2
 
 ***Promise of salvation***
 
-***^23:2b^ Behold, I shall visit upon you the wickedness of your deeds, says the Lord.***
+^23:2b^ Behold, I shall visit upon you the wickedness of your deeds, says the Lord.  
 
 > ^23:3^ And I shall gather the remnants of my flock from all the lands to which I have driven them; and I shall bring them back to their own fields,Heb. נְוֵהֶ֖ן: *sheepfolds*. and they shall increase, and be multiplied.
 
@@ -68,7 +70,7 @@ Lecture 3
 
 ***Joy after liberation***
 
-***^23:7^ Because of this, behold, the days are coming says the Lord, when they shall no longer say, ‘As the Lord lives, who brought the children of Israel out of Egypt’;***
+^23:7^ Because of this, behold, the days are coming says the Lord, when they shall no longer say, ‘As the Lord lives, who brought the children of Israel out of Egypt’;  
 
 > ^23:8^ but, ‘As the Lord lives, who brought the seed of the house of Israel out of the land of the north, and from all the lands to which I shall scatter them.’ And they shall dwell in their own land.
 
@@ -78,7 +80,7 @@ Lecture 4
 
 ***Threat against the prophets***
 
-***^23:9^ Concerning the prophets: my heart is broken within me; all my bones are shaken; I have become like a drunk man, and like a man sodden with wine, from the face of the Lord, and from the face of his holy words.***
+^23:9^ Concerning the prophets: my heart is broken within me; all my bones are shaken; I have become like a drunk man, and like a man sodden with wine, from the face of the Lord, and from the face of his holy words.  
 
 > ^23:10^ For the land is filled with adulterers; for the earth mourned because of the curse, the pastures of the wilderness are dried up: and their course has become evil, and their strength unequal.
 
@@ -116,7 +118,7 @@ Lecture 5
 
 ***Defilement of the prophets***
 
-***^23:11^ For the prophet and the priest are defiled, and I find their evil in my house, says the Lord.***
+^23:11^ For the prophet and the priest are defiled, and I find their evil in my house, says the Lord.  
 
 > ^23:12^ Therefore, their way shall be as a slippery place in the darkness; they shall be thrust out, and fall in it; for I shall bring evil upon them, the year of their visitation, says the Lord.
 
@@ -146,7 +148,7 @@ Lecture 6
 
 ***Falsity of the prophets***
 
-***^23:16^ Thus says the Lord of hosts: do not listen to the words of the prophets, who prophecy to you, and deceive you; they speak the vision of their own heart, and not by the mouth of the Lord.***
+^23:16^ Thus says the Lord of hosts: do not listen to the words of the prophets, who prophecy to you, and deceive you; they speak the vision of their own heart, and not by the mouth of the Lord.  
 
 > ^23:17^ They say to those who blaspheme me, the Lord has spoken: ‘You shall have peace,’ and to everyone who walks in the perversity of his own heart they say, ‘No evil shall come upon you.’
 
@@ -196,7 +198,7 @@ Lecture 7
 
 ***False prophetic dreams***
 
-***^23:23^ Do you think that I am a God near at hand, says the Lord, and not a God afar off?***
+^23:23^ Do you think that I am a God near at hand, says the Lord, and not a God afar off?  
 
 > ^23:24^ If a man shall be hidden in secret places, shall I not see him? says the Lord. Do I not fill heaven and earth? says the Lord.
 
@@ -230,7 +232,7 @@ Lecture 8
 
 ***The Lord against the prophets***
 
-***^23:30^ Therefore, behold, thus says the Lord: I am against the prophets, who steal my words, each one from his neighbor.***
+^23:30^ Therefore, behold, thus says the Lord: I am against the prophets, who steal my words, each one from his neighbor.  
 
 > ^23:31^ Behold, I am against the prophets, says the Lord, who take up their tongues and say, ‘The Lord says.’
 
@@ -248,7 +250,7 @@ Lecture 9
 
 ***The burden of the Lord***
 
-***^23:33^ Therefore, if this people shall ask you, or a prophet, or a priest, saying, ‘What is the burdenJerome seems to have confused the word, מַשָּׂא, *oracle, revelation*, for a homonym meaning *burden*. of the Lord?’ you shall say to them, ‘You are the burden. I shall certainly cast you forth, says the Lord.’***
+^23:33^ Therefore, if this people shall ask you, or a prophet, or a priest, saying, ‘What is the burdenJerome seems to have confused the word, מַשָּׂא, *oracle, revelation*, for a homonym meaning *burden*. of the Lord?’ you shall say to them, ‘You are the burden. I shall certainly cast you forth, says the Lord.’  
 
 > ^23:34^ And the prophet, and the priest, and the people who say, ‘the burden of the Lord,’ I shall visit it upon that man, and upon his house.
 
@@ -288,4 +290,4 @@ Second, the punishment of shame: ***and I shall make you a reproach***; this may
 
 Collations  
 
-***A note on the verse: ***behold, the days are coming*** (Jer 23:5, 7) The time of grace is called “day” because of the appearance of light: *the night is far spent, the day drawn close; let us therefore cast off the works of darkness, and put on the armor of light* (Rom 13:12); because of the heat of the sun: *tomorrowI.e., when the sun becomes hot. there shall be salvation for you* (1 Sam 11:9); because of the security of the journey: *if anyone walks in the day, he shall not stumble, because he sees the light of this world; but if he should walk at night, he stumbles, because the light is not in him* (John 11:9–10); because of vigilance and sobriety: *for those who sleep, sleep at night, and those who are drunk, are drunk at night* (1 Thess 5:7).***
+A note on the verse: ***behold, the days are coming*** (Jer 23:5, 7) The time of grace is called “day” because of the appearance of light: *the night is far spent, the day drawn close; let us therefore cast off the works of darkness, and put on the armor of light* (Rom 13:12); because of the heat of the sun: *tomorrowI.e., when the sun becomes hot. there shall be salvation for you* (1 Sam 11:9); because of the security of the journey: *if anyone walks in the day, he shall not stumble, because he sees the light of this world; but if he should walk at night, he stumbles, because the light is not in him* (John 11:9–10); because of vigilance and sobriety: *for those who sleep, sleep at night, and those who are drunk, are drunk at night* (1 Thess 5:7).

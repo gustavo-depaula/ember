@@ -1,5 +1,7 @@
 # Chapter 27
 
+^27:1^ In that day the Lord with his hard, and great, and strong sword shall visit leviathan the bar serpent, and leviathan the crooked serpent, and shall slay the whale that is in the sea.  
+
 > ^27:2^ In that day the vineyard of pure wine shall sing to him.*Vinea meri cantabit ei*. DR: “there shall be singing to the vineyard of pure wine.”
 
 > ^27:3^ I am the Lord that keep it, I will suddenly give it drink: lest any hurt come to it, I keep it night and day.

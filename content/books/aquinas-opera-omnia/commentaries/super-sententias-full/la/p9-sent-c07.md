@@ -1,6 +1,8 @@
 # D. 32 - The marital debt
 
-***Postquam determinavit Magister de bonis conjugii quibus actus matrimonialis excusatur; hic determinat de actu ipso secundum quod ulterius accipit rationem debiti per bona conjugii; et dividitur in partes duas: in prima ostendit quod uterque conjugum alteri debitum reddere tenetur; in secunda ostendit quod petitio debiti propter solemnitatem temporis impeditur, ibi: *et licet debitum poscenti semper sit solvendum, non licet tamen qualibet die poscere*.***
+***De debito matrimonii***
+
+Postquam determinavit Magister de bonis conjugii quibus actus matrimonialis excusatur; hic determinat de actu ipso secundum quod ulterius accipit rationem debiti per bona conjugii; et dividitur in partes duas: in prima ostendit quod uterque conjugum alteri debitum reddere tenetur; in secunda ostendit quod petitio debiti propter solemnitatem temporis impeditur, ibi: *et licet debitum poscenti semper sit solvendum, non licet tamen qualibet die poscere*.  
 
 Prima in duas: in prima ostendit quod vir et uxor sunt aequales in debiti redditione; secundo probat quoddam quod supposuerat, ibi: *quod probatur testimoniis*.  
 
@@ -21,10 +23,9 @@ primo, utrum uterque conjugum teneatur ex necessitate praecepti alteri debitum r
 - quarto, utrum unus sine consensu alterius possit votum emittere per quod impediatur redditio debiti;
 - quinto, utrum tempus impediat redditionem debiti.
 - Articulus 1
+Utrum uterque conjugum teneatur ex necessitate praecepti alteri debitum reddere semper  
 
-***Utrum uterque conjugum teneatur ex necessitate praecepti alteri debitum reddere semper***
-
-***Ad primum sic proceditur. Videtur quod alter conjugum non teneatur alteri ad redditionem debiti ex necessitate praecepti. Nullus enim prohibetur a sumptione Eucharistiae propter hoc quod praeceptum implet. Sed ille qui uxori debitum reddit, non potest carnes agni edere, ut Hieronymus in littera dicit. Ergo reddere debitum non est de necessitate praecepti.***
+Ad primum sic proceditur. Videtur quod alter conjugum non teneatur alteri ad redditionem debiti ex necessitate praecepti. Nullus enim prohibetur a sumptione Eucharistiae propter hoc quod praeceptum implet. Sed ille qui uxori debitum reddit, non potest carnes agni edere, ut Hieronymus in littera dicit. Ergo reddere debitum non est de necessitate praecepti.  
 
 Praeterea, quilibet potest licite abstinere ab his quae sunt sibi nociva in persona. Sed aliquando reddere debitum poscenti esset nocivum personae vel ratione infirmitatis, vel ratione solutionis jam factae. Ergo videtur quod licite possit debitum poscenti negari.  
 
@@ -52,7 +53,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod vir non teneatur reddere debitum uxori non petenti. Praeceptum enim affirmativum non obligat nisi ad tempus determinatum. Sed tempus determinatum solutionis debiti non potest esse, nisi quando debitum petitur. Ergo alias solvere non tenetur.***
+Ad secundum sic proceditur. Videtur quod vir non teneatur reddere debitum uxori non petenti. Praeceptum enim affirmativum non obligat nisi ad tempus determinatum. Sed tempus determinatum solutionis debiti non potest esse, nisi quando debitum petitur. Ergo alias solvere non tenetur.  
 
 Praeterea, de quolibet debemus praesumere meliora. Sed melius est etiam conjugibus continere quam matrimonio uti. Ergo nisi expresse debitum petat, debet praesumere vir quod ei placeat continere; et sic non tenetur ei debitum reddere.  
 
@@ -66,7 +67,7 @@ Praeterea, praelatus tenetur correctionis remedium contra peccatum subditorum ad
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod liceat mulieri menstruatae debitum petere. Sicut enim in lege mulier menstruata erat immunda, ita et vir fluxum seminis patiens. Sed vir seminifluus potest debitum petere. Ergo pari ratione et mulier menstruata.***
+Ulterius. Videtur quod liceat mulieri menstruatae debitum petere. Sicut enim in lege mulier menstruata erat immunda, ita et vir fluxum seminis patiens. Sed vir seminifluus potest debitum petere. Ergo pari ratione et mulier menstruata.  
 
 Item, major infirmitas est lepra quam passio menstruorum; et majorem, ut videtur, corruptionem causat in prole. Sed leprosa potest debitum petere. Ergo, etc.  
 
@@ -78,7 +79,7 @@ Item Isa. 64, 6: *omnes justitiae vestrae quasi pannus menstruatae*; ubi Hierony
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod mulier menstruata non debeat reddere debitum petenti. Levit. 20, dicitur quod si aliquis ad menstruatam accesserit, uterque morte est puniendus. Ergo videtur quod tam reddens quam exigens debitum mortaliter peccet.***
+Ulterius. Videtur quod mulier menstruata non debeat reddere debitum petenti. Levit. 20, dicitur quod si aliquis ad menstruatam accesserit, uterque morte est puniendus. Ergo videtur quod tam reddens quam exigens debitum mortaliter peccet.  
 
 Item, Rom. 1, 32: *non solum qui faciunt, sed etiam qui consentiunt, digni sunt morte*. Sed exigens debitum scienter a menstruata mortaliter peccat. Ergo et mulier consentiens ei in redditione debiti.  
 
@@ -90,7 +91,7 @@ Item, mulier menstruata non debet esse viro peccandi occasio. Sed si viro petent
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod petere debitum est dupliciter. Uno modo expresse, ut quando verbis invicem petunt. Alio modo est petitio debiti interpretata, quando scilicet vir percipit per aliqua signa quod uxor vellet sibi debitum reddi, sed propter verecundiam tacet; et ita etiam si non expresse verbis debitum petat, tamen vir tenetur reddere, quando expressa signa in uxore apparent voluntatis debiti reddendi.***
+Respondeo dicendum ad primam quaestionem, quod petere debitum est dupliciter. Uno modo expresse, ut quando verbis invicem petunt. Alio modo est petitio debiti interpretata, quando scilicet vir percipit per aliqua signa quod uxor vellet sibi debitum reddi, sed propter verecundiam tacet; et ita etiam si non expresse verbis debitum petat, tamen vir tenetur reddere, quando expressa signa in uxore apparent voluntatis debiti reddendi.  
 
 Ad primum ergo dicendum, quod tempus determinatum non est solum quando petitur, sed quando timetur ex aliquibus signis periculum (ad quod vitandum ordinatur debiti redditio) nisi tunc reddatur.  
 
@@ -102,7 +103,7 @@ Ad quartum dicendum, quod non debet vir uxorem avertere ne petat debitum, nisi p
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod accedere ad menstruatam in lege prohibitum erat duplici ratione; tum propter immunditiam; tum propter nocumentum quod in prole ex hujusmodi commixtione frequenter sequebatur. Et quo ad primum, praeceptum erat caeremoniale, sed quantum ad secundum erat morale: quia cum matrimonium sit ad bonum prolis principaliter ordinatum, ordinatus est omnis matrimonii usus quo bonum prolis impenditur; et ideo hoc praeceptum obligat etiam in nova lege propter secundam rationem, etsi non propter primam.***
+Ad secundam quaestionem dicendum, quod accedere ad menstruatam in lege prohibitum erat duplici ratione; tum propter immunditiam; tum propter nocumentum quod in prole ex hujusmodi commixtione frequenter sequebatur. Et quo ad primum, praeceptum erat caeremoniale, sed quantum ad secundum erat morale: quia cum matrimonium sit ad bonum prolis principaliter ordinatum, ordinatus est omnis matrimonii usus quo bonum prolis impenditur; et ideo hoc praeceptum obligat etiam in nova lege propter secundam rationem, etsi non propter primam.  
 
 Fluxus tamen menstruorum potest esse naturalis et innaturalis. Naturalis quidem, quando scilicet mulieres patiuntur temporibus determinatis, quando sunt sanae. Innaturalis autem quando inordinate et quasi continue ex aliqua infirmitate fluxum sanguinis patiuntur. In fluxu ergo menstruorum innaturali non est prohibitum ad mulierem menstruatam accedere in lege nova: tum propter infirmitatem, quia mulier in tali statu concipere non potest; tum quia talis fluxus est perpetuus et diuturnus; unde oporteret quod vir perpetuo abstineret. Sed quando naturaliter mulier patitur fluxus menstruorum, potest concipere; et iterum talis fluxus non durat nisi ad modicum tempus. Unde prohibitum est ad talem accedere; et similiter prohibitum est mulieri in tali fluxu debitum petere.  
 
@@ -114,7 +115,7 @@ Ad tertium dicendum, quod quamdiu mulier menstrua patitur, non potest esse certu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod circa hoc dixerunt quidam, quod mulier menstruata sicut non debet petere debitum, ita nec reddere. Sicut enim non tenetur reddere si haberet infirmitatem in propria persona, ex qua periculum ei immineret; ita non tenetur reddere ad vitandum periculum prolis. Sed ista opinio videtur derogare matrimonio, per quod datur omnimoda potestas viro in corpus mulieris quantum ad matrimonialem actum. Nec est simile de infirmitate corporis prolis et periculo proprii corporis; quia si mulier infirmatur, certissimum est quod ex carnali actu periculum ei imminet; non autem ita certum est de prole, quae forte nulla sequetur.***
+Ad tertiam quaestionem dicendum, quod circa hoc dixerunt quidam, quod mulier menstruata sicut non debet petere debitum, ita nec reddere. Sicut enim non tenetur reddere si haberet infirmitatem in propria persona, ex qua periculum ei immineret; ita non tenetur reddere ad vitandum periculum prolis. Sed ista opinio videtur derogare matrimonio, per quod datur omnimoda potestas viro in corpus mulieris quantum ad matrimonialem actum. Nec est simile de infirmitate corporis prolis et periculo proprii corporis; quia si mulier infirmatur, certissimum est quod ex carnali actu periculum ei imminet; non autem ita certum est de prole, quae forte nulla sequetur.  
 
 Et ideo alii dicunt, quod mulieri menstruatae nunquam licet petere debitum. Si tamen vir ejus petat; aut petit scienter, et tunc debet eum avertere precibus et monitis, tamen non ita efficaciter ut possit ei esse occasio in alias damnabiles corruptelas, si ad id pronus credatur: aut ignoranter; et mulier potest aliquam occasionem praetendere, vel infirmitatem allegare, ne debitum reddat, nisi periculum viro timeatur. Tamen finaliter, si vir non desistit a petitione, debet debitum reddere poscenti. Passionem vero suam non est tutum indicare, ne forte vir ex hoc ad eam abominationem concipiat, nisi de viri prudentia praesumatur.  
 
@@ -128,7 +129,7 @@ Articulus 3
 
 ***Utrum in redditione debiti vir et uxor sint aequales***
 
-***Ad tertium sic proceditur. Videtur quod vir et mulier non sint in actu matrimonii aequales. Agens enim nobilius est patiente, ut Augustinus dicit, 12 super Gen. ad litteram, cap. 16. Sed in actu conjugali vir se habet ut agens, et femina ut patiens. Ergo non sunt in actu illo aequales.***
+Ad tertium sic proceditur. Videtur quod vir et mulier non sint in actu matrimonii aequales. Agens enim nobilius est patiente, ut Augustinus dicit, 12 super Gen. ad litteram, cap. 16. Sed in actu conjugali vir se habet ut agens, et femina ut patiens. Ergo non sunt in actu illo aequales.  
 
 Praeterea, uxor non tenetur viro debitum reddere nisi petat; vir autem tenetur uxori, ut dictum est. Ergo non sunt pares in actu matrimonii.  
 
@@ -152,9 +153,9 @@ Ad quartum dicendum, quod quamvis caput sit principalius membrum; tamen sicut me
 
 Articulus 4  
 
-***Utrum unus sine consensu alterius possit votum emittere per quod impediatur redditio debiti***
+Utrum unus sine consensu alterius possit votum emittere per quod impediatur redditio debiti  
 
-***Ad quartum sic proceditur. Videtur quod vir et uxor possint votum emittere contra debitum matrimonii sine mutuo consensu. Vir enim et uxor aequaliter obligantur ad debiti solutionem, ut dictum est. Sed licitum est viro, uxore etiam prohibente, accipere crucem in subsidium terrae sanctae. Ergo hoc etiam est licitum uxori; et ideo, cum per hoc votum debiti redditio impediatur, potest alter conjugum sine consensu alterius votum praedictum emittere.***
+Ad quartum sic proceditur. Videtur quod vir et uxor possint votum emittere contra debitum matrimonii sine mutuo consensu. Vir enim et uxor aequaliter obligantur ad debiti solutionem, ut dictum est. Sed licitum est viro, uxore etiam prohibente, accipere crucem in subsidium terrae sanctae. Ergo hoc etiam est licitum uxori; et ideo, cum per hoc votum debiti redditio impediatur, potest alter conjugum sine consensu alterius votum praedictum emittere.  
 
 Praeterea, non est expectandum in aliquo voto consensus alicujus qui non potest sine peccato dissentire. Sed unus conjugum non potest sine peccato dissentire quin alter continentiam voveat, vel simpliciter vel ad tempus; quia impedire profectum spiritualem est peccatum in Spiritum Sanctum. Ergo unus potest votum continentiae simpliciter vel ad tempus sine consensu alterius vovere.  
 
@@ -184,7 +185,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod temporibus sacris non debeat aliquis impediri quin debitum petat. Tunc enim est subveniendum morbo dum invalescit. Sed possibile est quod in die festo invalescat concupiscentia. Ergo tunc debet ei subveniri per petitionem debiti.***
+Ad quintum sic proceditur. Videtur quod temporibus sacris non debeat aliquis impediri quin debitum petat. Tunc enim est subveniendum morbo dum invalescit. Sed possibile est quod in die festo invalescat concupiscentia. Ergo tunc debet ei subveniri per petitionem debiti.  
 
 Praeterea, non est alia ratio quare non sit petendum debitum in diebus festivis, nisi quia sunt orationi deputati. Sed in illis diebus sunt horae determinatae orationi. Ergo aliis horis liceret petere debitum.  
 
@@ -192,7 +193,7 @@ Sed contra, sicut aliqua loca sunt sacra, quia deputata sunt sacris, ita aliqua 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod petens in tempore sacro mortaliter peccat. Gregorius enim dicit in 1 *Dial*., quod mulier quae in nocte cognita est a viro, mane ad processionem veniens, a diabolo est arrepta. Sed hoc non esset, nisi mortaliter peccasset. Ergo, etc.***
+Ulterius. Videtur quod petens in tempore sacro mortaliter peccat. Gregorius enim dicit in 1 *Dial*., quod mulier quae in nocte cognita est a viro, mane ad processionem veniens, a diabolo est arrepta. Sed hoc non esset, nisi mortaliter peccasset. Ergo, etc.  
 
 Praeterea, quicumque facit contra praeceptum divinum, mortaliter peccat. Sed dominus praecepit, Exod. 19, 15: *nolite appropinquare uxoribus vestris*, quando scilicet erant legem accepturi. Ergo multo magis peccant mortaliter, si tempore quo sacramentis novae legis intendendum est, uxoribus viri commisceantur.  
 
@@ -200,7 +201,7 @@ Sed contra, nulla circumstantia aggravat in infinitum. Sed tempus indebitum est 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non tenetur reddere tempore festivo. Quia peccantes et consentientes pariter punientur, ut patet Rom. 2. Sed ille qui reddit debitum, consentit petenti, qui peccat. Ergo et ipse peccat.***
+Ulterius. Videtur quod non tenetur reddere tempore festivo. Quia peccantes et consentientes pariter punientur, ut patet Rom. 2. Sed ille qui reddit debitum, consentit petenti, qui peccat. Ergo et ipse peccat.  
 
 Praeterea, ex praecepto affirmativo obligamur ad orandum; et ita ad aliquod tempus determinatum. Ergo pro tempore illo in quo quis orare tenetur, debitum reddere non debet, sicut nec eo tempore quo tenetur temporali domino ad speciale obsequium.  
 
@@ -208,7 +209,7 @@ Sed contra est quod dicitur 1 Corinth. 7, 5: *nolite fraudare invicem, nisi fort
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod nuptiae non sint interdicendae temporibus in littera determinatis. Quia matrimonium sacramentum est. Sed in illis temporibus non interdicitur celebratio aliorum sacramentorum. Ergo nec celebratio matrimonii.***
+Ulterius. Videtur quod nuptiae non sint interdicendae temporibus in littera determinatis. Quia matrimonium sacramentum est. Sed in illis temporibus non interdicitur celebratio aliorum sacramentorum. Ergo nec celebratio matrimonii.  
 
 Praeterea, magis incompetens est diebus festis petitio debiti quam celebratio nuptiarum. Sed in diebus illis potest debitum peti. Ergo et nuptiae celebrari.  
 
@@ -218,7 +219,7 @@ Sed contra est quod dicitur Eccles. 3, 5: *tempus amplexandi, et tempus longe fi
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod actus matrimonialis quamvis culpa careat, tamen, quia rationem deprimit propter carnalem delectationem, hominem reddit ineptum ad spiritualia; et ideo in diebus in quibus praecipue spiritualibus est vacandum, non licet petere debitum.***
+Respondeo dicendum ad primam quaestionem, quod actus matrimonialis quamvis culpa careat, tamen, quia rationem deprimit propter carnalem delectationem, hominem reddit ineptum ad spiritualia; et ideo in diebus in quibus praecipue spiritualibus est vacandum, non licet petere debitum.  
 
 Ad primum ergo dicendum, quod tempore illo possunt alia adhiberi ad concupiscentiam reprimendam, sicut oratio, et multa alia hujusmodi; quae etiam illi adhibent qui perpetuo continent.  
 
@@ -226,7 +227,7 @@ Ad secundum dicendum, quod quamvis non teneatur omnibus horis orare, tamen tenet
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod petere debitum in die festivo non est circumstantia trahens ad aliam speciem peccati; unde non potest in infinitum aggravare; et ideo non peccat mortaliter uxor vel vir, si in die festivo debitum petat. Sed tamen gravius est peccatum si sola delectationis causa petatur, quam si propter timorem quo quis sibi timet de lubrico carnis, sibi debitum petat.***
+Ad secundam quaestionem dicendum, quod petere debitum in die festivo non est circumstantia trahens ad aliam speciem peccati; unde non potest in infinitum aggravare; et ideo non peccat mortaliter uxor vel vir, si in die festivo debitum petat. Sed tamen gravius est peccatum si sola delectationis causa petatur, quam si propter timorem quo quis sibi timet de lubrico carnis, sibi debitum petat.  
 
 Ad primum ergo dicendum, quod non fuit punita mulier illa propter hoc quod debitum reddidit; sed quia postmodum se temere ad divina ingessit contra conscientiam.  
 
@@ -234,7 +235,7 @@ Ad secundum dicendum, quod ex auctoritate illa non potest probari quod sit pecca
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod cum mulier habeat potestatem in corpus viri quantum ad actum generationis spectat, et e converso; tenetur unus alteri debitum reddere quocumque tempore et quacumque hora, salva debita honestate, quae in talibus exigitur; quia non oportet quod statim in publico debitum reddat.***
+Ad tertiam quaestionem dicendum, quod cum mulier habeat potestatem in corpus viri quantum ad actum generationis spectat, et e converso; tenetur unus alteri debitum reddere quocumque tempore et quacumque hora, salva debita honestate, quae in talibus exigitur; quia non oportet quod statim in publico debitum reddat.  
 
 Ad primum ergo dicendum, quod ille, quantum in se est, non consentit, sed id quod ab eo exigitur, invitus et cum dolore reddit; hoc enim est propter lubricum carnis divinitus ordinatum ut semper petenti debitum reddatur, ne aliqua occasio peccandi detur.  
 
@@ -242,7 +243,7 @@ Ad secundum dicendum, quod non est aliqua hora ita determinata ad orandum quin p
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod quando novae sponsae traduntur, animus conjugum magis ex ipsa novitate ad curam carnalium occupatur et ideo in nuptiis consueverunt signa multa laetitiae dissolutae ostendi; et propter hoc illis temporibus in quibus homines praecipue debent se ad spiritualia elevare, prohibitum est nuptias celebrari. Hoc autem est ab adventu usque ad Epiphaniam propter communionem, quae secundum antiquos canones in nativitate fieri convenienter solet; et a septuagesima usque ad octavas Paschae, propter communionem paschalem; et a tribus diebus ante ascensionem usque ad octavas Pentecostes, propter praeparationem ad communionem illo tempore sumendam.***
+Ad quartam quaestionem dicendum, quod quando novae sponsae traduntur, animus conjugum magis ex ipsa novitate ad curam carnalium occupatur et ideo in nuptiis consueverunt signa multa laetitiae dissolutae ostendi; et propter hoc illis temporibus in quibus homines praecipue debent se ad spiritualia elevare, prohibitum est nuptias celebrari. Hoc autem est ab adventu usque ad Epiphaniam propter communionem, quae secundum antiquos canones in nativitate fieri convenienter solet; et a septuagesima usque ad octavas Paschae, propter communionem paschalem; et a tribus diebus ante ascensionem usque ad octavas Pentecostes, propter praeparationem ad communionem illo tempore sumendam.  
 
 Ad primum ergo dicendum, quod celebratio matrimonii habet aliquam mundanam laetitiam et carnalem adjunctam, quod non est de aliis sacramentis; et ideo non est simile.  
 
@@ -252,6 +253,6 @@ Ad tertium dicendum, quod cum tempus non sit de essentia matrimonii, si in tempo
 
 Expositio textus  
 
-****Si prius promiserit, et postea prohibuerit*, etc. Videtur ex hoc quod vir possit revocare uxorem ad se, etiam si de licentia sua castitatem vovit. Et dicendum, quod verbum Augustini intelligitur, quando vir dissimulavit ante plenam deliberationem, quae quidem dissimulatio quidam consensus videtur. Si autem expresse consensisset, non posset votum revocare. Unde loquitur quantum ad judicium Ecclesiae, quando promissio non potest probari. Unde propter periculum talia vota occulta non sunt approbanda.***
+*Si prius promiserit, et postea prohibuerit*, etc. Videtur ex hoc quod vir possit revocare uxorem ad se, etiam si de licentia sua castitatem vovit. Et dicendum, quod verbum Augustini intelligitur, quando vir dissimulavit ante plenam deliberationem, quae quidem dissimulatio quidam consensus videtur. Si autem expresse consensisset, non posset votum revocare. Unde loquitur quantum ad judicium Ecclesiae, quando promissio non potest probari. Unde propter periculum talia vota occulta non sunt approbanda.  
 
 *Nec carnes agni edere*. De impedimento sumptionis Eucharistiae propter carnalem delectationem in somno, supra, dist. 9, dictum est.

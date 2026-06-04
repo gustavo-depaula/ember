@@ -1,5 +1,7 @@
 # On Angels
 
+***Quaestio 3***
+
 ***De angelo***
 
 ***Deinde quaerebantur duo de angelo:***
@@ -10,9 +12,9 @@ secundo de motu angeli, utrum possit moveri de extremo in extremum sine medio.
 
 Articulus 1  
 
-***Utrum angelus dependeat a loco corporali secundum suam essentiam an sit in loco secundum operationem tantum***
+Utrum angelus dependeat a loco corporali secundum suam essentiam an sit in loco secundum operationem tantum  
 
-***Ad primum sic procedebatur. Videtur quod angelus non sit in loco per operationem tantum.***
+Ad primum sic procedebatur. Videtur quod angelus non sit in loco per operationem tantum.  
 
 *Prius est* enim *esse quam operari*, ergo prius est esse in loco quam operari in loco; sed posterius non est causa prioris; ergo operari in loco non est causa quare angelus sit in loco.  
 
@@ -32,7 +34,7 @@ Articulus 2
 
 ***De motu angeli***
 
-***Ad secundum sic procedebatur. Videtur quod angelus non possit moveri de extremo ad extremum quin pertranseat medium.***
+Ad secundum sic procedebatur. Videtur quod angelus non possit moveri de extremo ad extremum quin pertranseat medium.  
 
 Omne enim quod movetur, *prius* est in *mutari* quam in *mutatum esse*, ut probatur in VI *Physicorum*; sed, si angelus movetur de extremo in extremum, puta de A in B, cum est in B, est in mutatum esse; ergo prius erat in mutari; sed non quando erat in A, quia tunc nondum movebatur; ergo quando erat in C, quod est medium inter A et B; et sic oportet quod pertranseat medium.  
 

@@ -1,6 +1,8 @@
 # D. 33 - On the development of marriage
 
-***Postquam determinavit Magister de bonis matrimonii, hic ostendit quomodo haec bona erant in matrimonio antiquorum; et dividitur in partes duas: in prima ostendit quomodo erant in matrimonio patrum ante legem; in secunda, quomodo erant in matrimonio tempore legis celebrato, ibi: *legis vero tempore interdixit Moyses carnalem copulam fieri cum matre*, etc.***
+***De matrimonio antiquorum***
+
+Postquam determinavit Magister de bonis matrimonii, hic ostendit quomodo haec bona erant in matrimonio antiquorum; et dividitur in partes duas: in prima ostendit quomodo erant in matrimonio patrum ante legem; in secunda, quomodo erant in matrimonio tempore legis celebrato, ibi: *legis vero tempore interdixit Moyses carnalem copulam fieri cum matre*, etc.  
 
 Prima in duas: in prima ostendit quod ante legem patres licite plures uxores habuerunt; in secunda inquirit quomodo cum pluralitate uxorum bonum fidei servabatur, ibi: *si quis opponat quod fidem tori non servabant illi patres, dicimus*, etc.  
 
@@ -26,7 +28,7 @@ primo, an habere plures uxores sit contra legem naturae;
 
 ***An habere plures uxores sit contra legem naturae***
 
-***Ad primum sic proceditur. Videtur quod habere plures uxores non sit contra legem naturae. Consuetudo enim juri naturali non praejudicat. Sed habere plures uxores peccatum non erat quando mos erat, ut ab Augustino in littera habetur. Ergo habere plures uxores non est contra legem naturae.***
+Ad primum sic proceditur. Videtur quod habere plures uxores non sit contra legem naturae. Consuetudo enim juri naturali non praejudicat. Sed habere plures uxores peccatum non erat quando mos erat, ut ab Augustino in littera habetur. Ergo habere plures uxores non est contra legem naturae.  
 
 Praeterea, quicumque facit contra legem naturae, facit contra praeceptum; quia sicut lex scripta habet sua praecepta, ita et lex naturae. Sed Augustinus dicit, quod habere plures uxores non erat contra praeceptum, quia nulla lege erat prohibitum. Ergo habere plures uxores non est contra legem naturae.  
 
@@ -76,7 +78,7 @@ Articulus 2
 
 ***Utrum fuerit licitum***
 
-***Ad secundum sic proceditur. Videtur quod habere plures uxores non potuerit aliquando esse licitum. Quia, secundum Philosophum in 5 *Ethic*., jus naturale semper et ubique habet eamdem potentiam. Sed jure naturali prohibetur pluralitas uxorum, ut ex dictis patet. Ergo sicut modo non licet, ita neque unquam licuit.***
+Ad secundum sic proceditur. Videtur quod habere plures uxores non potuerit aliquando esse licitum. Quia, secundum Philosophum in 5 *Ethic*., jus naturale semper et ubique habet eamdem potentiam. Sed jure naturali prohibetur pluralitas uxorum, ut ex dictis patet. Ergo sicut modo non licet, ita neque unquam licuit.  
 
 Praeterea, si aliquando licuit; hoc non fuit nisi quia vel per se licitum erat, vel propter aliquam dispensationem licebat. Si primo modo, sic etiam nunc licitum esset. Si autem secundo modo, hoc esse non potest: quia secundum Augustinum, Deus cum sit naturae conditor, non facit aliquid contra rationes quas naturae inseruit. Cum ergo Deus naturae inseruerit quod sit una unius, ut dictum est, videtur quod ipse contra hoc nunquam dispensaverit.  
 
@@ -110,7 +112,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod habere concubinam non sit contra legem naturae. Legis enim caeremonialia non sunt de lege naturae. Sed fornicatio prohibetur, Act. 15, inter alia caeremonialia legis quae ad tempus credentibus ex gentibus imponebantur. Ergo fornicatio simplex, quae est accessus ad concubinam, non est contra legem naturae.***
+Ad tertium sic proceditur. Videtur quod habere concubinam non sit contra legem naturae. Legis enim caeremonialia non sunt de lege naturae. Sed fornicatio prohibetur, Act. 15, inter alia caeremonialia legis quae ad tempus credentibus ex gentibus imponebantur. Ergo fornicatio simplex, quae est accessus ad concubinam, non est contra legem naturae.  
 
 Praeterea, jus positivum a naturali jure profectum est, ut Tullius dicit. Sed secundum jus positivum fornicatio simplex non prohibetur, immo potius in poenam secundum antiquas leges mulieres lupanaribus tradendae condemnabantur. Ergo habere concubinam non est contra legem naturae.  
 
@@ -126,7 +128,7 @@ Praeterea, sicut supra, distinct. 26, dictum est, matrimonium est naturale. Sed 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod accedere ad concubinam non sit peccatum mortale. Majus enim peccatum est mendacium quam fornicatio simplex: quod patet ex hoc quod Judas, qui fornicationem non horruit cum Thamar committere, recusavit mendacium, dicens: *certe mendacii nos arguere non poterit*. Sed mendacium non semper est mortale peccatum. Ergo neque fornicatio simplex.***
+Ulterius. Videtur quod accedere ad concubinam non sit peccatum mortale. Majus enim peccatum est mendacium quam fornicatio simplex: quod patet ex hoc quod Judas, qui fornicationem non horruit cum Thamar committere, recusavit mendacium, dicens: *certe mendacii nos arguere non poterit*. Sed mendacium non semper est mortale peccatum. Ergo neque fornicatio simplex.  
 
 Praeterea, peccatum mortale morte puniri debet. Sed lex vetus non puniebat concubitum concubinae morte, nisi in aliquo casu, ut patet Deuteron. 13. Ergo non est peccatum mortale.  
 
@@ -140,7 +142,7 @@ Praeterea, sola peccata mortalia criminalia dicuntur. Sed omnis fornicatio est c
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aliquando fuerit licitum concubinam habere. Sicut enim habere unam uxorem est de lege naturae, ita non habere concubinam. Sed aliquando licuit plures uxores habere. Ergo et habere concubinam.***
+Ulterius. Videtur quod aliquando fuerit licitum concubinam habere. Sicut enim habere unam uxorem est de lege naturae, ita non habere concubinam. Sed aliquando licuit plures uxores habere. Ergo et habere concubinam.  
 
 Praeterea, non potest aliqua simul esse uxor et ancilla; unde secundum legem, ex hoc ipso quod ancilla in matrimonium ducebatur, libera reddebatur. Sed aliqui Deo amicissimi leguntur ad suas ancillas accessisse, sicut Abraham et Jacob. Ergo illae non erant uxores; et sic aliquando licuit concubinas habere.  
 
@@ -152,7 +154,7 @@ Praeterea, Ambrosius dicit in Lib. de patriarchis: *viro non licet quod mulieri 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut ex praedictis patet, illa actio dicitur esse contra legem naturae, quae non est conveniens fini debito, sive quia non ordinatur in ipsum per actionem agentis, sive quia de se est improportionata fini illi. Finis autem quem natura ex concubitu intendit, est proles procreanda et educanda; et ut hoc bonum quaereretur, posuit delectationem in coitu, ut Augustinus*Augustinus.—Constantinus* PLE. dicit.***
+Respondeo dicendum ad primam quaestionem, quod, sicut ex praedictis patet, illa actio dicitur esse contra legem naturae, quae non est conveniens fini debito, sive quia non ordinatur in ipsum per actionem agentis, sive quia de se est improportionata fini illi. Finis autem quem natura ex concubitu intendit, est proles procreanda et educanda; et ut hoc bonum quaereretur, posuit delectationem in coitu, ut Augustinus*Augustinus.—Constantinus* PLE. dicit.  
 
 Quicumque ergo concubitu utitur propter delectationem quae in ipso est, non referendo ad finem a natura intentum, contra naturam facit; et similiter etiam nisi sit talis concubitus qui ad illum finem convenienter ordinari possit. Et quia res a fine plerumque nominantur tamquam ab optimo: sicut conjunctio matrimonii a prolis bono nomen accepit, quod per matrimonium principaliter quaeritur; ita concubinae nomen illam conjunctionem exprimit qua solus concubitus propter seipsum quaeritur; et si etiam aliquis quandoque ex tali concubitu prolem quaerat, non tamen est conveniens ad prolis bonum, in quo non solum intelligitur ipsius procreatio, per quam proles esse accipit, sed etiam educatio et instructio, per quam accipitur nutrimentum et disciplina a parentibus: in quibus tribus parentes proli tenentur, secundum Philosophum in 8 *Ethicor*.  
 
@@ -170,7 +172,7 @@ Ad quintum dicendum, quod mulier habet potestatem in corpore viri non simplicite
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut in 2 Lib., dist. 42, qu. 1, art. 4, in corp. dictum est, illi actus ex suo genere sunt peccata mortalia per quos foedus amicitiae hominis ad Deum et hominis ad hominem violatur. Haec enim sunt contra duo praecepta caritatis, quae est animae vita; et ideo, cum concubitus fornicarius tollat debitam ordinationem parentis ad prolem, quam natura ex concubitu intendit; non est dubium quod fornicatio simplex de sui ratione est peccatum mortale, etiam si lex scripta non esset.***
+Ad secundam quaestionem dicendum, quod, sicut in 2 Lib., dist. 42, qu. 1, art. 4, in corp. dictum est, illi actus ex suo genere sunt peccata mortalia per quos foedus amicitiae hominis ad Deum et hominis ad hominem violatur. Haec enim sunt contra duo praecepta caritatis, quae est animae vita; et ideo, cum concubitus fornicarius tollat debitam ordinationem parentis ad prolem, quam natura ex concubitu intendit; non est dubium quod fornicatio simplex de sui ratione est peccatum mortale, etiam si lex scripta non esset.  
 
 Ad primum ergo dicendum, quod frequenter homo qui non vitat peccatum mortale, vitat aliquod peccatum veniale, ad quod non habet tantum incitamentum; et ita etiam Judas mendacium vitavit, fornicationem non vitans; quamvis illud mendacium perniciosum fuisset, injuriam habens annexam, si promissum non reddidisset.  
 
@@ -182,7 +184,7 @@ Ad quartum dicendum, quod, sicut supra, dist. 16, qu. 3, art. 2, quaestiunc. 2, 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Rabbi Moyses dicit, quod ante tempus legis fornicatio non erat peccatum; quod probat ex hoc quod Judas cum Thamar concubuit. Sed ista ratio non cogit; non enim necesse est filios Jacob a peccato mortali excusari, cum *accusati fuerint apud patrem de crimine pessimo*, et in Joseph necem vel venditionem consenserint. Et ideo dicendum est, quod cum habere concubinam non matrimonio junctam sit contra legem naturae, ut dictum est, nullo tempore secundum se licitum fuit, nec etiam ex dispensatione. Sicut enim ex dictis patet, concubitus cum ea quae non est matrimonio juncta, non est conveniens actus ad bonum prolis, quod est principalis finis matrimonii; et ideo est contra prima praecepta legis naturae, quae dispensationem non recipiunt.***
+Ad tertiam quaestionem dicendum, quod Rabbi Moyses dicit, quod ante tempus legis fornicatio non erat peccatum; quod probat ex hoc quod Judas cum Thamar concubuit. Sed ista ratio non cogit; non enim necesse est filios Jacob a peccato mortali excusari, cum *accusati fuerint apud patrem de crimine pessimo*, et in Joseph necem vel venditionem consenserint. Et ideo dicendum est, quod cum habere concubinam non matrimonio junctam sit contra legem naturae, ut dictum est, nullo tempore secundum se licitum fuit, nec etiam ex dispensatione. Sicut enim ex dictis patet, concubitus cum ea quae non est matrimonio juncta, non est conveniens actus ad bonum prolis, quod est principalis finis matrimonii; et ideo est contra prima praecepta legis naturae, quae dispensationem non recipiunt.  
 
 Unde ubicumque legitur in veteri testamento aliquos concubinas habuisse, quos necesse sit a peccato mortali excusari, oportet eas esse matrimonio junctas, et tamen concubinas dici, quia aliquid habebant de ratione uxoris, et aliquid de ratione concubinae. Secundum enim quod matrimonium ordinatur ad suum principalem finem, qui est bonum prolis, uxor viro conjungitur insolubili conjunctione, vel saltem diuturna, ut ex dictis patet; et contra hoc non est aliqua dispensatio. Sed quantum ad secundum finem, qui est dispensatio familiae et communicatio operum, uxor conjungitur ut socia; sed hoc deerat in his quae concubinae nominabantur; in hoc enim poterat esse dispensatio, cum sit secundarius matrimonii finis; et ex hac parte habebant aliquid simile concubinae, ratione cujus concubinae nominantur.  
 
@@ -206,7 +208,7 @@ primo, utrum inseparabilitas matrimonii sit de lege naturae;
 
 ***Utrum inseparabilitas matrimonii sit de lege naturae***
 
-***Ad primum sic proceditur. Videtur quod inseparabilitas uxoris non sit de lege naturae. Lex enim naturae communis est apud omnes. Sed nulla lege praeter legem Christi fuit prohibitum uxorem dimittere. Ergo inseparabilitas uxoris non est de lege naturae.***
+Ad primum sic proceditur. Videtur quod inseparabilitas uxoris non sit de lege naturae. Lex enim naturae communis est apud omnes. Sed nulla lege praeter legem Christi fuit prohibitum uxorem dimittere. Ergo inseparabilitas uxoris non est de lege naturae.  
 
 Praeterea, sacramenta non sunt de lege naturae. Sed inseparabilitas matrimonii pertinet ad bonum sacramenti. Ergo non est de lege naturae.  
 
@@ -234,7 +236,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod uxorem dimittere licitum per dispensationem esse non potuerit. Illud enim quod est in matrimonio contra bonum prolis, est contra prima praecepta legis naturae, quae indispensabilia sunt. Sed dimissio uxoris est hujusmodi, ut ex dictis patet. Ergo, etc.***
+Ad secundum sic proceditur. Videtur quod uxorem dimittere licitum per dispensationem esse non potuerit. Illud enim quod est in matrimonio contra bonum prolis, est contra prima praecepta legis naturae, quae indispensabilia sunt. Sed dimissio uxoris est hujusmodi, ut ex dictis patet. Ergo, etc.  
 
 Praeterea, concubina differt praecipue ab uxore in hoc quod non est inseparabiliter juncta. Sed habere concubinas fuit indispensabile. Ergo et dimittere uxorem.  
 
@@ -244,7 +246,7 @@ Sed contra, Agar cognita est ab Abraham uxorio affectu, quasi uxor, ut dictum es
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod sub lege Moysi fuerit licitum uxorem dimittere. Unus enim modus consentiendi est non prohibere, cum prohibere possis. Consentire autem illicito est illicitum. Cum ergo Moyses non prohibuerit uxoris repudium, nec peccaverit, quia *lex sancta est*, ut dicitur Roman. 7; videtur quod repudium fuerit aliquando licitum.***
+Ulterius. Videtur quod sub lege Moysi fuerit licitum uxorem dimittere. Unus enim modus consentiendi est non prohibere, cum prohibere possis. Consentire autem illicito est illicitum. Cum ergo Moyses non prohibuerit uxoris repudium, nec peccaverit, quia *lex sancta est*, ut dicitur Roman. 7; videtur quod repudium fuerit aliquando licitum.  
 
 Praeterea, prophetae locuti sunt Spiritu Sancto inspirati, ut patet 2 Petr. 1. Sed Malach. 2, 16, dicitur: *si odio habueris eam, dimitte eam*. Ergo cum illud quod Spiritus Sanctus inspirat, non sit illicitum, videtur quod repudium uxoris non semper fuerit illicitum.  
 
@@ -256,7 +258,7 @@ Praeterea, Chrysostomus dicit super Matth., quod Moyses dando libellum repudii n
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod liceret uxori repudiatae alium virum habere. Quia in repudio magis erat iniquitas viri repudiantis quam uxoris repudiatae. Sed vir poterat aliam sine peccato ducere in uxorem. Ergo uxor sine peccato alium virum ducere poterat.***
+Ulterius. Videtur quod liceret uxori repudiatae alium virum habere. Quia in repudio magis erat iniquitas viri repudiantis quam uxoris repudiatae. Sed vir poterat aliam sine peccato ducere in uxorem. Ergo uxor sine peccato alium virum ducere poterat.  
 
 Praeterea, Augustinus, dicit de duabus uxoribus, quod quando mos erat, peccatum non erat. Sed tempore legis erat talis consuetudo quod repudiata alium virum ducebat, ut patet Deut. 24, 2: *cumque egressa virum alterum duxerit*, etc. Ergo uxor non peccabat alteri se jungendo.  
 
@@ -268,7 +270,7 @@ Praeterea, Deut. 24 dicitur, quod mulier repudiata quae alium virum duceret, pol
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod licebat viro repudiatam a se accipere. Licet enim corrigere quod male factum est. Sed male factum erat quod vir uxorem repudiabat. Ergo licebat hoc corrigere, reducendo uxorem ad se.***
+Ulterius. Videtur quod licebat viro repudiatam a se accipere. Licet enim corrigere quod male factum est. Sed male factum erat quod vir uxorem repudiabat. Ergo licebat hoc corrigere, reducendo uxorem ad se.  
 
 Praeterea, semper licuit peccanti indulgere, cum sit morale praeceptum, quod in omni lege manet. Sed vir accipiendo repudiatam, ei peccanti indulgebat. Ergo hoc licitum erat.  
 
@@ -278,7 +280,7 @@ Sed contra est quod dicitur Deut. 24, 4: *non poterit prior maritus accipere eam
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod dispensatio in praeceptis, praecipue quae sunt aliquo modo legis naturae, est sicut mutatio cursus rei naturalis: qui quidem mutari dupliciter potest. Uno modo ex aliqua causa naturali, per quam alia causa naturalis impeditur a cursu suo, sicut est in omnibus quae in minori parte casualiter accidunt in natura: sed per hunc modum non variatur cursus rerum naturalium quae sunt semper, sed quae sunt frequenter. Alio modo per causam penitus supernaturalem, sicut in miraculis accidit; et hoc modo potest mutari cursus naturalis non solum qui est ordinatus ut sit frequenter, sed qui est ordinatus etiam ut sit semper; ut patet in statione solis tempore Josue, et reditu ejusdem tempore Ezechiae; et de eclypsi miraculosa tempore passionis Christi.***
+Respondeo dicendum ad primam quaestionem, quod dispensatio in praeceptis, praecipue quae sunt aliquo modo legis naturae, est sicut mutatio cursus rei naturalis: qui quidem mutari dupliciter potest. Uno modo ex aliqua causa naturali, per quam alia causa naturalis impeditur a cursu suo, sicut est in omnibus quae in minori parte casualiter accidunt in natura: sed per hunc modum non variatur cursus rerum naturalium quae sunt semper, sed quae sunt frequenter. Alio modo per causam penitus supernaturalem, sicut in miraculis accidit; et hoc modo potest mutari cursus naturalis non solum qui est ordinatus ut sit frequenter, sed qui est ordinatus etiam ut sit semper; ut patet in statione solis tempore Josue, et reditu ejusdem tempore Ezechiae; et de eclypsi miraculosa tempore passionis Christi.  
 
 Haec autem ratio dispensationis in praeceptis legis naturae quandoque est ex causis inferioribus; et sic dispensatio cadere potest super secunda praecepta legis naturae, non autem super prima: quia illa sunt quasi semper existentia, ut dictum est de pluralitate uxorum, et de hujusmodi. Aliquando autem est tantum ex causis superioribus; et tunc potest dispensatio esse divinitus etiam contra prima praecepta legis naturae, ratione alicujus mysterii divini significandi vel ostendendi, sicut patet de dispensatione in praecepto Abrahae facto de occisione filii innocentis. Tales autem dispensationes non fiunt communiter ad omnes, sed ad aliquas singulares personas, sicut etiam de miraculis accidit.  
 
@@ -292,7 +294,7 @@ Ad tertium dicendum, quod inseparabilitas quamvis sit de secunda intentione matr
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, quod illi qui sub lege uxorem dato libello repudii dimittebant, non excusabantur a peccato, quamvis excusarentur a poena secundum leges infligenda; et propter hoc dicitur Moyses libellum repudii permisisse; et sic ponunt quatuor modos permissionis. Unus per privationem praeceptionis; ut quando majus bonum non praecipitur, minus bonum permitti dicitur; sicut apostolus non praecipiendo virginitatem, matrimonium permisit, 1 Corinth. 7. Secundus per privationem prohibitionis; sicut venialia dicuntur permissa, quia non sunt prohibita. Tertius per privationem cohibitionis; et sic communia peccata dicuntur permitti a Deo, inquantum non impedit, cum impedire posset. Quarta per privationem punitionis; et sic libellus repudii lege permissus fuit, non quidem propter aliquod majus bonum consequendum, sicut fuit dispensatio de pluribus uxoribus habendis; sed propter majus malum cohibendum, scilicet uxoricidium, ad quod Judaei proni erant propter corruptionem irascibilis; sicut et permissum eis fuit extraneis fenerari propter aliquam corruptionem in concupiscibili, ne scilicet fratribus suis fenerarentur; et sicut propter corruptionem suspicionis, in rationali fuit permissum sacrificium zelotypiae, ne sola suspicio apud eos judicium corrumperet.***
+Ad secundam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, quod illi qui sub lege uxorem dato libello repudii dimittebant, non excusabantur a peccato, quamvis excusarentur a poena secundum leges infligenda; et propter hoc dicitur Moyses libellum repudii permisisse; et sic ponunt quatuor modos permissionis. Unus per privationem praeceptionis; ut quando majus bonum non praecipitur, minus bonum permitti dicitur; sicut apostolus non praecipiendo virginitatem, matrimonium permisit, 1 Corinth. 7. Secundus per privationem prohibitionis; sicut venialia dicuntur permissa, quia non sunt prohibita. Tertius per privationem cohibitionis; et sic communia peccata dicuntur permitti a Deo, inquantum non impedit, cum impedire posset. Quarta per privationem punitionis; et sic libellus repudii lege permissus fuit, non quidem propter aliquod majus bonum consequendum, sicut fuit dispensatio de pluribus uxoribus habendis; sed propter majus malum cohibendum, scilicet uxoricidium, ad quod Judaei proni erant propter corruptionem irascibilis; sicut et permissum eis fuit extraneis fenerari propter aliquam corruptionem in concupiscibili, ne scilicet fratribus suis fenerarentur; et sicut propter corruptionem suspicionis, in rationali fuit permissum sacrificium zelotypiae, ne sola suspicio apud eos judicium corrumperet.  
 
 Sed quia lex vetus, quamvis gratiam non conferret, tamen ad hoc data erat ut peccatum ostenderet, ut communiter sancti dicunt; ideo aliis videtur quod si repudiando uxorem peccassent, hoc saltem eis per legem aut prophetas indicari debuisset; Isai. 58, 1: *annuntia populo meo peccata eorum*. Alias viderentur esse nimis neglecti, si ea quae necessaria sunt ad salutem, quae non cognoscebant, nunquam eis nuntiata fuissent; quod non potest dici, cum justitia legis tempore suo observata vitam mereretur aeternam. Et propter hoc dicunt, quod quamvis repudiare uxorem per se sit malum, tamen ex permissione divina licitum fiebat; et hoc confirmant auctoritate Chrysostomi, qui dicit, quod a peccato abstulit culpam legislator, quando permisit repudium. Et quamvis hoc probabiliter dicatur, tamen primum communius sustinetur; ideo ad utrasque rationes respondendum est.  
 
@@ -308,7 +310,7 @@ Ad quintum dicendum, quod aliquod bonum potest intermitti dupliciter. Uno modo p
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod secundum primam opinionem uxor peccabat, post repudium alteri viro conjuncta; quia adhuc matrimonium primum non erat solutum. *Mulier enim quanto tempore vivit, alligata est lege viri*, ut patet Rom. 7. Non autem poterat simul plures viros habere. Sed secundum aliam opinionem, sicut licebat ex dispensatione divina viro uxorem repudiare, ita uxori alium virum ducere; quia inseparabilitas matrimonii ex causa divinae dispensationis tollebatur, qua inseparabilitate manente intelligitur verbum apostoli.***
+Ad tertiam quaestionem dicendum, quod secundum primam opinionem uxor peccabat, post repudium alteri viro conjuncta; quia adhuc matrimonium primum non erat solutum. *Mulier enim quanto tempore vivit, alligata est lege viri*, ut patet Rom. 7. Non autem poterat simul plures viros habere. Sed secundum aliam opinionem, sicut licebat ex dispensatione divina viro uxorem repudiare, ita uxori alium virum ducere; quia inseparabilitas matrimonii ex causa divinae dispensationis tollebatur, qua inseparabilitate manente intelligitur verbum apostoli.  
 
 Ut ergo ad utrasque rationes respondeamus, dicendum ad primum, quod viro licebat plures uxores simul habere secundum dispensationem divinam; et ideo una dimissa, etiam matrimonio non soluto, poterat aliam ducere. Sed nunquam uxori licuit habere plures viros; et ideo non est simile.  
 
@@ -322,7 +324,7 @@ Ad quintum dicendum, quod quidam interlinealis dicit, Deuter. 24: *polluta est, 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod in lege de libello repudii duo erant permissa; scilicet dimittere uxorem, et uxorem dimissam alteri jungi; et duo praecepta; scilicet Scriptura libelli repudii, et quod iterum maritus repudians eam accipere non possit; quod quidem, secundum eos qui primam opinionem tenent, factum fuit in poenam mulieris quae alteri nupsit, et in hoc peccato polluta est; sed secundum alios, ut vir non de facili uxorem repudiaret, quam postea nullo modo recuperare posset.***
+Ad quartam quaestionem dicendum, quod in lege de libello repudii duo erant permissa; scilicet dimittere uxorem, et uxorem dimissam alteri jungi; et duo praecepta; scilicet Scriptura libelli repudii, et quod iterum maritus repudians eam accipere non possit; quod quidem, secundum eos qui primam opinionem tenent, factum fuit in poenam mulieris quae alteri nupsit, et in hoc peccato polluta est; sed secundum alios, ut vir non de facili uxorem repudiaret, quam postea nullo modo recuperare posset.  
 
 Ad primum ergo dicendum, quod ad illius mali impedimentum quod committebat aliquis repudiando uxorem, ordinabatur quod vir uxorem repudiatam assumere non posset iterato, ut patet ex dictis; et ideo divinitus ordinatum fuit.  
 
@@ -336,7 +338,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod causa repudii fuerit odium uxoris, secundum hoc quod dicitur Malach. 2, 16: *si odio habueris eam, dimitte illam*.***
+Ad tertium sic proceditur. Videtur quod causa repudii fuerit odium uxoris, secundum hoc quod dicitur Malach. 2, 16: *si odio habueris eam, dimitte illam*.  
 
 Praeterea, Deuteronom. 24, 1, dicitur: *cum non invenerit gratiam in oculis ejus propter aliquam foeditatem, scribet libellum repudii*. Ergo idem quod prius.  
 
@@ -348,7 +350,7 @@ Praeterea, Deuteronom. 22, dicitur: *si duxerit vir uxorem suam, et postea odio 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod repudii causae debebant in libello scribi. Quia per libellum repudii scriptum a poena legis absolvebatur. Sed hoc omnino videtur injustum, nisi causis sufficientibus repudii assignatis. Ergo oportebat illas scribere in libello.***
+Ulterius. Videtur quod repudii causae debebant in libello scribi. Quia per libellum repudii scriptum a poena legis absolvebatur. Sed hoc omnino videtur injustum, nisi causis sufficientibus repudii assignatis. Ergo oportebat illas scribere in libello.  
 
 Praeterea, ad nihil illa scripta valere videbantur nisi ut causae repudii ostenderentur. Ergo si non inscribebantur, frustra libellus ille sibi tradebatur.  
 
@@ -358,7 +360,7 @@ Sed contra, causae repudii aut erant sufficientes, aut non. Si sufficientes, pra
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod causa permissionis repudiandi uxorem fuit vitatio uxoricidii, ut sancti communiter dicunt. Proxima autem causa homicidii est odium; et ideo proxima causa repudii est odium. Sed odium ex aliqua causa causatur, sicut et amor; et ideo etiam oportet alias causas repudii ponere remotas, quae erant causa odii. Dicit autem Augustinus in Glossa, Deuteron. 24: *multae erant in lege causae dimittendi uxores: Christus solam fornicationem excipit; ceteras molestias jubet pro fide et castitate conjugii sustineri*. Hae autem causae intelliguntur foeditates in corpore, puta infirmitas, vel aliqua notabilis macula; vel in anima, sicut fornicatio, vel aliquid hujusmodi, quod in moribus inhonestatem facit. Sed quidam has causas magis coarctant, satis probabiliter dicentes, quod non licebat uxorem repudiare nisi propter aliquam causam post matrimonium supervenientem; nec propter quamlibet talem, sed propter illas solum quae possunt bonum prolis impedire, vel in corpore, ut sterilitas aut lepra, vel aliquid hujusmodi; vel in anima, ut si esset malorum morum, quos filii ex conversatione ad ipsam imitarentur. Sed quaedam Glossa super illud Deuteron. 24: *cum non invenerit gratiam* etc., videtur magis arctare, scilicet ad peccatum, cum dicit ibi, *per foeditatem peccatum intelligi*. Sed peccatum Glossa nominat non solum in moribus animae, sed etiam in natura corporis.***
+Respondeo dicendum ad primam quaestionem, quod causa permissionis repudiandi uxorem fuit vitatio uxoricidii, ut sancti communiter dicunt. Proxima autem causa homicidii est odium; et ideo proxima causa repudii est odium. Sed odium ex aliqua causa causatur, sicut et amor; et ideo etiam oportet alias causas repudii ponere remotas, quae erant causa odii. Dicit autem Augustinus in Glossa, Deuteron. 24: *multae erant in lege causae dimittendi uxores: Christus solam fornicationem excipit; ceteras molestias jubet pro fide et castitate conjugii sustineri*. Hae autem causae intelliguntur foeditates in corpore, puta infirmitas, vel aliqua notabilis macula; vel in anima, sicut fornicatio, vel aliquid hujusmodi, quod in moribus inhonestatem facit. Sed quidam has causas magis coarctant, satis probabiliter dicentes, quod non licebat uxorem repudiare nisi propter aliquam causam post matrimonium supervenientem; nec propter quamlibet talem, sed propter illas solum quae possunt bonum prolis impedire, vel in corpore, ut sterilitas aut lepra, vel aliquid hujusmodi; vel in anima, ut si esset malorum morum, quos filii ex conversatione ad ipsam imitarentur. Sed quaedam Glossa super illud Deuteron. 24: *cum non invenerit gratiam* etc., videtur magis arctare, scilicet ad peccatum, cum dicit ibi, *per foeditatem peccatum intelligi*. Sed peccatum Glossa nominat non solum in moribus animae, sed etiam in natura corporis.  
 
 Sic ergo prima duo concedimus.  
 
@@ -370,7 +372,7 @@ Ad quintum dicendum, quod hoc dabatur in poenam viri, quod non posset in perpetu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod causae repudii in speciali non scribebantur in libello, sed in generali, ut ostenderetur justum repudium. Sed secundum Josephum, ut mulier habens libellum conscriptum de repudio alteri posset nubere: alias enim ei traditum non fuisset; unde, secundum eum, erat Scriptura talis: *promitto tibi quod nunquam tecum conveniam*. Sed secundum Augustinum, ideo libellus scribebatur, ut mora interveniente, et consilio Scribarum dissuadente, vir a proposito repudiandi desisteret.***
+Ad secundam quaestionem dicendum, quod causae repudii in speciali non scribebantur in libello, sed in generali, ut ostenderetur justum repudium. Sed secundum Josephum, ut mulier habens libellum conscriptum de repudio alteri posset nubere: alias enim ei traditum non fuisset; unde, secundum eum, erat Scriptura talis: *promitto tibi quod nunquam tecum conveniam*. Sed secundum Augustinum, ideo libellus scribebatur, ut mora interveniente, et consilio Scribarum dissuadente, vir a proposito repudiandi desisteret.  
 
 Et per hoc patet solutio ad objecta.  
 
@@ -388,7 +390,7 @@ primo, quid sit virginitas;
 
 ***Quid sit virginitas***
 
-***Ad primum sic proceditur. Videtur quod virginitas non sit *in carne corruptibili incorruptionis perpetua meditatio*, ut Augustinus dicit in Lib. *de Nuptiis et concupiscentia*. Quia post resurrectionem sanctae virgines suam virginitatem non amittent. Sed tunc non erunt in carne corruptibili. Ergo corruptibilitas carnis non debet poni in definitione virginitatis.***
+Ad primum sic proceditur. Videtur quod virginitas non sit *in carne corruptibili incorruptionis perpetua meditatio*, ut Augustinus dicit in Lib. *de Nuptiis et concupiscentia*. Quia post resurrectionem sanctae virgines suam virginitatem non amittent. Sed tunc non erunt in carne corruptibili. Ergo corruptibilitas carnis non debet poni in definitione virginitatis.  
 
 Praeterea, virginitas ponitur pars continentiae, quae ad temperantiam reducitur. Sed meditatio non est actus temperantiae, sed magis intellectualium virtutum. Ergo non debet poni tamquam genus virginitatis.  
 
@@ -424,7 +426,7 @@ Articulus 2
 
 ***Utrum sit virtus***
 
-***Ad secundum sic proceditur. Videtur quod virginitas non sit virtus. Omnis enim virtus consistit in medio. Sed virginitas non consistit in medio, sed maxime in extremo; quia consistit in abstinendo ab omni delectabili, circa quod est castitas. Ergo non est virtus.***
+Ad secundum sic proceditur. Videtur quod virginitas non sit virtus. Omnis enim virtus consistit in medio. Sed virginitas non consistit in medio, sed maxime in extremo; quia consistit in abstinendo ab omni delectabili, circa quod est castitas. Ergo non est virtus.  
 
 Praeterea, virtutum usus, cum sint de jure naturali, omni tempore licuerunt. Sed in statu naturae conditae non licuisset virginitatem servare, quia esset contra praeceptum, ut habetur Gen. 1, 28: *crescite et multiplicamini*; similiter nec tempore legis Moysi, quando qui non relinquebat semen super terram, maledictioni legis subjacebat. Ergo virginitas non est virtus.  
 
@@ -468,7 +470,7 @@ Articulus 3
 
 ***De comparatione ejus ad alias virtutes***
 
-***Ad tertium sic proceditur. Videtur quod virginitas major sit omnibus virtutibus. Decor enim est de ratione virtutis. Sed virginitatis decor est maximus. Ergo ipsa est maxima virtutum. Probatio mediae. Ambrosius in Lib. *de Virginitate*, dicit: *pulchritudinem quis potest majorem aestimare decore ejus*, scilicet virginis, *quae amatur a rege, probatur a judice, dedicatur domino, consecratur Deo, semper sponsa, semper innupta, ut nec amor finem habeat, nec damnum pudor? Haec autem perfecte vera pulchritudo est cui nihil deest, quae sola meretur audire a domino: tota formosa es*, etc.***
+Ad tertium sic proceditur. Videtur quod virginitas major sit omnibus virtutibus. Decor enim est de ratione virtutis. Sed virginitatis decor est maximus. Ergo ipsa est maxima virtutum. Probatio mediae. Ambrosius in Lib. *de Virginitate*, dicit: *pulchritudinem quis potest majorem aestimare decore ejus*, scilicet virginis, *quae amatur a rege, probatur a judice, dedicatur domino, consecratur Deo, semper sponsa, semper innupta, ut nec amor finem habeat, nec damnum pudor? Haec autem perfecte vera pulchritudo est cui nihil deest, quae sola meretur audire a domino: tota formosa es*, etc.  
 
 Praeterea, Cyprianus dicit: *nunc nobis ad virgines sermo est; quarum quo sublimior gloria est, major cura. Flos est ille ecclesiastici germinis, decus atque ornamentum gratiae spiritualis, illustrior portio gregis Christi*. Ergo idem quod prius.  
 
@@ -498,7 +500,7 @@ Ad sextum dicendum, quod humilitas videtur virtutibus propinquissima esse, quia 
 
 Expositio textus  
 
-****Maledicta erat sterilis, quae non relinquebat semen super terram*. Haec maledictio non est culpae, sed poenae; non tamen quantum ad defectum naturae quem habet virginitas in prolis defectu; sed quantum ad infamiam, quia opprobrio habebatur.***
+*Maledicta erat sterilis, quae non relinquebat semen super terram*. Haec maledictio non est culpae, sed poenae; non tamen quantum ad defectum naturae quem habet virginitas in prolis defectu; sed quantum ad infamiam, quia opprobrio habebatur.  
 
 *Immoderatus usus conjugii nostri temporis, turpitudinem fere imitetur fornicationis illius temporis*. Hoc dicitur quantum ad intentionem eorum qui nunc ut plurimum contrahunt matrimonium propter infirmitatem libidinis, qua ratione antiquitus fornicabantur; et ideo addit *fere*, quia fornicatio omnis erat peccatum mortale; non autem omnis immoderatus usus conjugum.  
 

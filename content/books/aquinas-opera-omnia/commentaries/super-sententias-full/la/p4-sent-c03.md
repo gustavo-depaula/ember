@@ -1,8 +1,10 @@
 # D. 23 - Divine permission of the first sin
 
+***De permissione divina***
+
 ***Divisio textus***
 
-***Postquam determinavitParma: *definivit*. Magister principium humanae perditionis et ex parte tentationis et ex parte peccantis; in parte ista determinat de permissione divina, quae quodammodo principium peccati dicitur, sicut causa sine qua non: si enim Deus non permisisset, homo non peccasset:***
+Postquam determinavitParma: *definivit*. Magister principium humanae perditionis et ex parte tentationis et ex parte peccantis; in parte ista determinat de permissione divina, quae quodammodo principium peccati dicitur, sicut causa sine qua non: si enim Deus non permisisset, homo non peccasset:  
 
 et dividitur in quinque partes, secundum quinque quaestiones quas movet;  
 
@@ -62,9 +64,9 @@ secundo utrum Deus debuerit permittere hominem tentari et peccare. Alia enim qua
 
 Articulus 1  
 
-***Utrum alicui naturae creatae conferri potuerit ut peccare non posset ex conditione naturae***
+Utrum alicui naturae creatae conferri potuerit ut peccare non posset ex conditione naturae  
 
-***Ad primum sic proceditur. Videtur quod alicui naturae creatae conferri potuit ut ex conditione suae naturae peccare non posset.***
+Ad primum sic proceditur. Videtur quod alicui naturae creatae conferri potuit ut ex conditione suae naturae peccare non posset.  
 
 Primo per hoc quod Augustinus dicit in littera, scilicet quod illa natura quae peccare non potest est de sanctis angelis; haec autem quae peccare potest est de hominibus. Nec potest dici quod hoc angelicae naturae per gratiam conveniat, quia in hoc ab homine non differrent, cui etiam per gratiam hoc convenit. Ergo videtur quod per conditionem naturae suae angeli habeant quod peccare non possunt.  
 
@@ -98,7 +100,7 @@ Articulus 2
 
 ***Utrum Deus debuerit permittere hominem tentari vel peccare***
 
-***Ad secundum sic proceditur. Videtur quod Deus non debuit permittere hominem peccare vel tentari.***
+Ad secundum sic proceditur. Videtur quod Deus non debuit permittere hominem peccare vel tentari.  
 
 Sapientis enim artificis est facere unumquodque, quantumcumque potest, fini competentius. Homo autem ad beatitudinem sicut ad finem factus est. Cum ergo competentior beatitudini fieret sine peccato, videtur quod non debuit permittere eum in peccatum cadere.  
 
@@ -132,7 +134,7 @@ Quaestio 2
 
 ***De cognitione quam homo in primo statu habuit***
 
-***Deinde quaeritur de cognitione quam homo in primo statu habuit; et circa hoc quaeruntur tria:***
+Deinde quaeritur de cognitione quam homo in primo statu habuit; et circa hoc quaeruntur tria:  
 
 primo utrum Deum per essentiam viderit;  
 
@@ -188,7 +190,7 @@ Articulus 2
 
 ***Utrum Adam habuit perfectam cognitionem rerum a creatione sua***
 
-***Ad secundum sic proceditur. Videtur quod Adam non habuit a creatione rerum perfectam cognitionem.***
+Ad secundum sic proceditur. Videtur quod Adam non habuit a creatione rerum perfectam cognitionem.  
 
 Quia, secundum Anselmum, lib. *De concept. Virg*., cap. 2, qualis fuit Adam in primo statu, tales etiam filios generasset. Sed supra habitum est quod pueri non fuissent nati perfecti in scientia secundum unam opinionem, cui Magister magis assentire visus est, dist. 20. Ergo nec Adam in scientia perfectus factusParma and PLE omit *factus*. fuisset.  
 
@@ -248,7 +250,7 @@ Ad quartum dicendum, quod quamvis a sensibus fuisset ei aliquid alio modo reprae
 
 Expositio textus  
 
-****Sed non esse, laudabile homini, si ideo bene viveret, quia nemo male vivere suaderet*. Videtur hoc esse falsum: quia tunc, si nec angelus nec homo peccasset, actus hominis laudabilis non fuisset, cum tunc nullus esset ad malum persuasor.***
+*Sed non esse, laudabile homini, si ideo bene viveret, quia nemo male vivere suaderet*. Videtur hoc esse falsum: quia tunc, si nec angelus nec homo peccasset, actus hominis laudabilis non fuisset, cum tunc nullus esset ad malum persuasor.  
 
 SedPLE: *sed*; Mandonnet: *et*. dicendum quod hoc non est intelligendum ita quod laus humani actus dependeat a suasione mali, sed a potentiaAl.: *resistendi, suadendique in potentia*. resistendi suadenti; quae potentia manifestari potuit, si tentatus fuisset et vicisset. Unde signanter dicit: *si ideo*Al.: *et ideo*. *bene vivere posset, quia nemo male vivere suaderet*; ut quasi causa bene vivendi ostendatur hoc quod nullus ad malum persuadet.  
 

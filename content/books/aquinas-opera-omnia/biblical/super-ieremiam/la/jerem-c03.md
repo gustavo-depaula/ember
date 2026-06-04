@@ -1,10 +1,12 @@
 # C. 1 - Jeremiah becomes a prophet
 
+***Jeremias propheta fit***
+
 ***Lectio 1***
 
 ***Titulus***
 
-***^1:1^ Verba Jeremiae, filii Helciae, de sacerdotibus qui fuerunt in Anathoth, in terra Benjamin.***
+^1:1^ Verba Jeremiae, filii Helciae, de sacerdotibus qui fuerunt in Anathoth, in terra Benjamin.  
 
 > **1**. Iste liber more aliorum prophetarum in duas partes dividitur:
 
@@ -32,7 +34,7 @@ Lectio 2
 
 ***Tempus prophetiae***
 
-***^1:2^ Quod factum est verbum Domini ad eum in diebus Josiae filii Amon regis Juda, in tertiodecimo anno regni ejus.***
+^1:2^ Quod factum est verbum Domini ad eum in diebus Josiae filii Amon regis Juda, in tertiodecimo anno regni ejus.  
 
 > ^1:3^ Et factum est in diebus Joakim filii Josiae regis Juda usque ad consummationem undecimi anni Sedeciae filii Josiae regis Juda, usque ad transmigrationem Jerusalem, in mense quinto.
 
@@ -178,7 +180,7 @@ Lectio 4
 
 ***Visio virgae***
 
-***^1:11^ Et factum est verbum Domini ad me, dicens: quid tu vides, Jeremia? Et dixi: virgam vigilantem ego video.***
+^1:11^ Et factum est verbum Domini ad me, dicens: quid tu vides, Jeremia? Et dixi: virgam vigilantem ego video.  
 
 > ^1:12^ Et dixit Dominus ad me: bene vidisti, quia vigilabo ego super verbo meo, ut faciam illud.
 
@@ -200,7 +202,7 @@ Lectio 5
 
 ***Malum a facie *aquilonis****
 
-***^1:13^ Et factum est verbum Domini secundum ad me, dicens: quid tu vides? Et dixi: ollam succensam ego video, et faciem ejus a facie aquilonis.***
+^1:13^ Et factum est verbum Domini secundum ad me, dicens: quid tu vides? Et dixi: ollam succensam ego video, et faciem ejus a facie aquilonis.  
 
 > ^1:14^ Et dixit Dominus ad me: ab aquilone pandetur omne malum super omnes habitatores terrae:
 
@@ -246,7 +248,7 @@ Tertio promittit hostium frustrationem: ***et bellabunt, et non praevalebunt***,
 
 Collationes  
 
-***Circa praedicta sciendum primo, quod alicujus Deus potest habere ***notitiam*** approbationis, ut dictum est. Praevisionis. Eccl. 23: *Domino Deo antequam crearentur, omnia sunt agnita; sic et post perfectum respicit omnia*. Praedestinationis. 2 Tim. 2: *novit Dominus qui sunt ejus*. Gratiae infusionis. Joan. 10: *cognosco oves meas et cognoscunt me meae*. Specialis familiaritatis. Exod. 33: *et teipsum novi ex nomine*. Glorificationis. Eccl. 44: *cognovit illum in benedictionibus suis, et dedit illi hereditatem*.***
+Circa praedicta sciendum primo, quod alicujus Deus potest habere ***notitiam*** approbationis, ut dictum est. Praevisionis. Eccl. 23: *Domino Deo antequam crearentur, omnia sunt agnita; sic et post perfectum respicit omnia*. Praedestinationis. 2 Tim. 2: *novit Dominus qui sunt ejus*. Gratiae infusionis. Joan. 10: *cognosco oves meas et cognoscunt me meae*. Specialis familiaritatis. Exod. 33: *et teipsum novi ex nomine*. Glorificationis. Eccl. 44: *cognovit illum in benedictionibus suis, et dedit illi hereditatem*.  
 
 Item notandum, quod aliquos ***tangit*** Dominus corripiendo. Job 19: *miseremini mei, miseremini mei saltem vos amici mei, quia manus Domini tetigit me*. A peccatis mundando. Matth. 8: *et Jesus tetigit eum, dicens: volo mundare*. Gratiam infundendo. Cant. 5: *dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum ejus*. In gratia confortando. Dan. 10: *et ecce manus tetigit me, et erexit me super genua mea, et super articulos manuum mearum*. Fervorem excitando. Psal. 143: *tange montes, et fumigabunt*.  
 

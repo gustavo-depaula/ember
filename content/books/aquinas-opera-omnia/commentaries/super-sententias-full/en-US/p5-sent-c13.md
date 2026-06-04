@@ -1,8 +1,10 @@
 # D. 12 - Defects of Christ's human nature as created
 
+***Defects of Christ's human nature as created***
+
 ***Division of the text***
 
-***After the Master shows that the name “created” is not predicated of Christ simply, but with a determination, here he looks into the defects that follow upon the human nature insofar as it is a created thing. And this is divided into two parts:***
+After the Master shows that the name “created” is not predicated of Christ simply, but with a determination, here he looks into the defects that follow upon the human nature insofar as it is a created thing. And this is divided into two parts:  
 
 first, he considers the defect that follows commonly on every created thing, namely, beginning to exist;  
 
@@ -70,7 +72,7 @@ Article 1
 
 ***Whether “this man began to exist” is true***
 
-***To the first, we proceed as follows.Parallels: *ST* III.16.9; *Super Rom.* 1, lect. 3. It appears that “this man began to exist” is true.***
+To the first, we proceed as follows.Parallels: *ST* III.16.9; *Super Rom.* 1, lect. 3. It appears that “this man began to exist” is true.  
 
 Obj. 1: For everything that was not always, and is, began to be. But as Augustine says in the text,*Sent*. III, 12.1(34).2, quoting Augustine, *In Iohannis euangelium tractatus*, tract. 105, para. 7 (CCSL 36; PL 35:1907). *the Mediator of God and men, Christ the man, did not exist before the world existed*. Therefore he began to exist.  
 
@@ -118,7 +120,7 @@ Article 2
 
 ***Whether Christ began to be God***
 
-***To the second question, I say that the judgment about “the man began to be God” is the same as that about “the man was made God,” and the same reasons can be given for each. And therefore one should look above, to Distinction 7,Above, d. 7, q. 2, a. 2. where it was asked "whether man was made God."***
+To the second question, I say that the judgment about “the man began to be God” is the same as that about “the man was made God,” and the same reasons can be given for each. And therefore one should look above, to Distinction 7,Above, d. 7, q. 2, a. 2. where it was asked "whether man was made God."  
 
 Question 2  
 
@@ -134,7 +136,7 @@ Article 1
 
 ***Whether Christ was able to sin***
 
-***To the first we proceed as follows.Parallels: *ST* III.15.1; 31.7. It appears that he was able to sin.***
+To the first we proceed as follows.Parallels: *ST* III.15.1; 31.7. It appears that he was able to sin.  
 
 Obj. 1: For Bernard saysBernard, *Sermones de diuersis*, serm. 60, para. 1 (PL 183:683). that the Son of God descended as far as he was able to descend, outside of sin. But the last grade regarding sin is being able to sin. Therefore he was able to sin.  
 
@@ -172,7 +174,7 @@ Article 2
 
 ***Whether Christ had the power to sin***
 
-***To the second we proceed as follows. It appears that Christ did not have the ability, or power, to sin.***
+To the second we proceed as follows. It appears that Christ did not have the ability, or power, to sin.  
 
 Obj. 1: For relative to every ability there is someone with who is able. But Christ was not able to sin. Therefore he did not have the ability to sin.  
 
@@ -210,7 +212,7 @@ Question 3
 
 ***Christ's sex***
 
-***Next, we ask about the fittingness regarding his sex, and about this two things are asked:***
+Next, we ask about the fittingness regarding his sex, and about this two things are asked:  
 
 first, in which sex he should assume the human nature;  
 
@@ -222,7 +224,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first let us proceed as follows. It appears that he should not have taken on a certain sex.***
+To the first let us proceed as follows. It appears that he should not have taken on a certain sex.  
 
 Obj. 1: For Christ’s very body prefigures his mystical body. But in the mystical body, which is the Church, there is no difference of sexes, since the Apostle says, *there is neither male nor female . . . in Christ* (Gal 3:28). Therefore neither should he have assumed a sex.  
 
@@ -236,7 +238,7 @@ Furthermore, what cannot be assumed cannot be cured, as Damascene says.John Dama
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he ought to have assumed the female sex.Parallel: *ST* III.31.4.ad 1. For the restoration corresponds to the destruction. But the first destruction was brought about through a woman. Therefore also the principle of the restoration ought to occur through a woman. But the principle is Christ. Therefore, the rest follows.***
+Obj. 1: Moreover, it appears that he ought to have assumed the female sex.Parallel: *ST* III.31.4.ad 1. For the restoration corresponds to the destruction. But the first destruction was brought about through a woman. Therefore also the principle of the restoration ought to occur through a woman. But the principle is Christ. Therefore, the rest follows.  
 
 Obj. 2: Furthermore, Christ assumed the defects of our nature. But the weakness of the female sex is a certain defect. Therefore he ought to have assumed it.  
 
@@ -248,7 +250,7 @@ Furthermore, according to Joel 2,Probably vv. 23–29. Christ was promised as th
 
 Response to Quaestiuncula 1  
 
-***To the first question, I respond that Christ came for the restoration of human nature, which he restored by assuming it. Therefore it was necessary that he assume whatever essentially follows on human nature—namely, all the properties and parts of the human nature, among which is also sex. And therefore it was fitting that he assumed a sex.***
+To the first question, I respond that Christ came for the restoration of human nature, which he restored by assuming it. Therefore it was necessary that he assume whatever essentially follows on human nature—namely, all the properties and parts of the human nature, among which is also sex. And therefore it was fitting that he assumed a sex.  
 
 Reply Obj. 1: In the mystical body there is said to be no male or female, not because there is no difference of sexes, but because both sexes belong to the mystical body itself without distinction. For the mystical body is not one person, as Christ himself is. Whence there could not be both sexes in him, since that would be monstrous and unnatural.  
 
@@ -258,7 +260,7 @@ Reply Obj. 3: He is equally related to each sex as regards power, but not as reg
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that we are not speaking here of God’s power, because he was able to assume any sort of body that he wished. However, we are speaking of fittingness, since Christ came as a teacher and ruler and champion of the human race, which are not things appropriate to a woman. Therefore neither was it appropriate that he assume the female sex.***
+To the second question, it should be said that we are not speaking here of God’s power, because he was able to assume any sort of body that he wished. However, we are speaking of fittingness, since Christ came as a teacher and ruler and champion of the human race, which are not things appropriate to a woman. Therefore neither was it appropriate that he assume the female sex.  
 
 Reply Obj. 1: The restoration ought to correspond to the destruction through its opposite. Thus, just as the principle of the perdition was the weaker nature, so the principle of the restoration should be the stronger nature, just as healing in a man’s body is through the power of the heart, which has a stronger health. Or it should be said that original sin did not enter the world through the woman, but through the man, as was said in Book II,*In II Sent.*, d. 21, q. 2, a. 3. even though sin had its beginning from the woman. In the same way, too, the work of our salvation had its perfection through a man, while in a certain way it was initiated by a woman, namely the Blessed Virgin.  
 
@@ -272,7 +274,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows. It appears that he should have assumed flesh from both sexes.***
+To the second we proceed as follows. It appears that he should have assumed flesh from both sexes.  
 
 Obj. 1: For, as the Apostle says, *he had to be made like his brethren in every respect* (Heb 2:17), and especially in natural attributes. But all men are naturally generated from both sexes. Therefore Christ too should have taken flesh from both sexes.  
 
@@ -286,7 +288,7 @@ Furthermore, it would follow that Christ would have had two fathers, which no on
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he should have assumed his body from only a male.Parallel: *ST* III.31.4. For the restoration should correspond to the creation. But in the creation of the human race something was formed from only the male. Therefore so too it should be in the restoration.***
+Obj. 1: Moreover, it appears that he should have assumed his body from only a male.Parallel: *ST* III.31.4. For the restoration should correspond to the creation. But in the creation of the human race something was formed from only the male. Therefore so too it should be in the restoration.  
 
 Obj. 2: Furthermore, what generates is like what is generated. But Christ had to be of the masculine sex. Therefore he should have assumed his body from the male.  
 
@@ -294,7 +296,7 @@ On the contrary, Christ came to save both sexes. But he himself was a male. Ther
 
 Response to Quaestiuncula 1  
 
-***I answer that, in no way was it fitting that he should have assumed flesh from the coupling of the sexes. First, on account of his mother’s dignity, so she would be most pure, and thus was a virgin. Second, on account of his Father’s dignity, such that there be no other father of his Son. Third, on account of the dignity of the one conceived, since it was fitting that his flesh would be formed only by the Holy Spirit. Fourth, on account of the unity of the person, to which that flesh was assumed; whence it was fitting that, just as it was assumed through an infinite power, so it would be formed through that infinite power. But this could not have been the case if he was conceived through the coupling of the sexes, since either the seed of the male would have been present for no purpose, or it would have been the agent in the conception.***
+I answer that, in no way was it fitting that he should have assumed flesh from the coupling of the sexes. First, on account of his mother’s dignity, so she would be most pure, and thus was a virgin. Second, on account of his Father’s dignity, such that there be no other father of his Son. Third, on account of the dignity of the one conceived, since it was fitting that his flesh would be formed only by the Holy Spirit. Fourth, on account of the unity of the person, to which that flesh was assumed; whence it was fitting that, just as it was assumed through an infinite power, so it would be formed through that infinite power. But this could not have been the case if he was conceived through the coupling of the sexes, since either the seed of the male would have been present for no purpose, or it would have been the agent in the conception.  
 
 Reply Obj. 1: He had to become like his brethren in the things that do not derogate from his dignity, or from the perfection of the nature assumed, or from the things that serve the work of redemption. But this is not that sort of thing.  
 
@@ -304,7 +306,7 @@ Reply Obj. 3: Just as Christ took away our fault through his own innocence, so t
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it was becoming that he assumed his flesh from a woman. First, so that both sexes might be glorified in Christ’s Incarnation, as was touched on in the objection [to the contrary]. Second, for the completion of the universe, since the generation of a man from only a woman had never happened, but generation of a woman from a man had, namely in Eve, and of a man from both, as in Abel and others, and a man from neither, as in Adam. Third, so that he would have a natural relation to the human race, for if he were born of a man not through the man’s action, he would not be his son, nor a natural offspring of Abraham, as he is the natural son of the Virgin from the fact that he took his flesh from her.***
+To the second question, it should be said that it was becoming that he assumed his flesh from a woman. First, so that both sexes might be glorified in Christ’s Incarnation, as was touched on in the objection [to the contrary]. Second, for the completion of the universe, since the generation of a man from only a woman had never happened, but generation of a woman from a man had, namely in Eve, and of a man from both, as in Abel and others, and a man from neither, as in Adam. Third, so that he would have a natural relation to the human race, for if he were born of a man not through the man’s action, he would not be his son, nor a natural offspring of Abraham, as he is the natural son of the Virgin from the fact that he took his flesh from her.  
 
 Reply Obj. 1: It is not necessary that the restoration be like the creation in all ways, but to the extent that it reaches the end of restoration.  
 
@@ -312,7 +314,7 @@ Reply Obj. 2: The generator need not become like what it generates in sex, but i
 
 Exposition of the text  
 
-****Here there is need to distinguish*.*Sent.* III, 12.3(36).2. The Master says this not because the statement is false simply speaking, but so that he might show how much truth it can have.***
+*Here there is need to distinguish*.*Sent.* III, 12.3(36).2. The Master says this not because the statement is false simply speaking, but so that he might show how much truth it can have.  
 
 *Or of it as if not united to the Word*.*Sent*. III, 12.3(36).2. It is clear that the fact that this could have been otherwise does not change anything about the truth that it is so, nor is this consideration of human nature as not united [to the Word] something real; rather, it is only in the intellect.  
 

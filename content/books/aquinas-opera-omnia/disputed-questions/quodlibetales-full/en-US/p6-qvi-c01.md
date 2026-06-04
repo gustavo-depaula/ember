@@ -1,14 +1,16 @@
 # On God
 
+***Question 1***
+
 ***On God***
 
-***There were questions concerning God,Q. 1. angels,Q. 2. man,Qq. 3–10. and purely bodily creatures.Q. 11.***
+There were questions concerning God,Q. 1. angels,Q. 2. man,Qq. 3–10. and purely bodily creatures.Q. 11.  
 
 Article 1  
 
 ***Whether unity of essence is added in number with unity of person***
 
-***About God one thing was asked, namely, whether unity of essence is added in number with unity of person. And it seems that it is not.***
+About God one thing was asked, namely, whether unity of essence is added in number with unity of person. And it seems that it is not.  
 
 Obj. 1: For there are three divine persons. If, therefore, unity of essence were to be added in number with unity of person, it would follow that in God there is quaternity, which is heretical. Therefore, unity of essence is not added in number with unity of person.  
 

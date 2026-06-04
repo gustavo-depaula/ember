@@ -1,8 +1,10 @@
 # D. 3 - Knowledge of the Creator through the created
 
+***Qualiter venitur in cognitionem Dei per vestigium creaturarum***
+
 ***Divisio primae partis textus***
 
-***In parte ista, ostendit Magister unitatem essentiae et Trinitatem personarum per rationes et similitudines quasdam, et dividitur in partes duas: in prima ostendit unitatem essentiae divinae per rationes naturales; in secunda ostendit Trinitatem personarum per similitudines creaturarum, ibi: *nunc restat ostendere utrum per ea quae facta sunt, aliquod Trinitatis indicium vel exiguum haberi potuerit*.***
+In parte ista, ostendit Magister unitatem essentiae et Trinitatem personarum per rationes et similitudines quasdam, et dividitur in partes duas: in prima ostendit unitatem essentiae divinae per rationes naturales; in secunda ostendit Trinitatem personarum per similitudines creaturarum, ibi: *nunc restat ostendere utrum per ea quae facta sunt, aliquod Trinitatis indicium vel exiguum haberi potuerit*.  
 
 Circa primum tria facit:  
 
@@ -50,7 +52,7 @@ Articulus 1
 
 ***Utrum Deus possit cognosci ab intellectu creato***
 
-***Ad primum sic proceditur. Videtur quod Deus non sit cognoscibilis a creato intellectu.***
+Ad primum sic proceditur. Videtur quod Deus non sit cognoscibilis a creato intellectu.  
 
 Dicit enim Dionysius, cap. 1 *De div. nom*., quod Deum nec dicere nec intelligere possumus: quod sic probat. Cognitio est tantum existentium. Sed Deus est supra omnia existentia. Ergo est supraParma adds *omnem*. cognitionem.  
 
@@ -120,7 +122,7 @@ Articulus 3
 
 ***Utrum Deus possit cognosci ab homine per creaturas***
 
-***Ad tertium sic proceditur. Videtur quod Deus possit cognosci per creaturas ab homine.***
+Ad tertium sic proceditur. Videtur quod Deus possit cognosci per creaturas ab homine.  
 
 Rom. 1:20: *invisibilia Dei a creatura mundi per ea quae facta sunt, intellecta conspiciuntur*. Creatura autem diciturParma: *videtur esse*. homo secundum expositionem Magistri. Ergo per creaturas ab homine potest cognosci.  
 
@@ -160,7 +162,7 @@ Articulus 4
 
 ***Utrum philosophi naturali cognitione cognoverint Trinitatem ex creaturis***
 
-***Ad quartum sic proceditur. Videtur quod philosophi naturali cognitione ex creaturis in Trinitatem devenerunt.***
+Ad quartum sic proceditur. Videtur quod philosophi naturali cognitione ex creaturis in Trinitatem devenerunt.  
 
 Dicit enim Aristoteles, in principio *De caelo et mundo*:Mandonnet suggests instead the following Latin translation of *De Caelo*, bk. 1, ch. 1:268a9–15: *tria omnia sunt, et idem est ter ac omnino. . . . Quapropter ex natura hoc nos accipientes, tamquam leges illius, etiam ad sacrificia deorum hoc numero utimur*, “all things are three, and the same is three and in every way. . . . And so, having taken these three from nature, as (so to speak) laws of it, we make further use of the number three in the worship of the gods.” *et per hunc quidem numerum*, scilicet ternarium, *adhibuimus nos ipsos magnificare Deum unum eminentem proprietatibus eorum quae creata sunt*. Similiter etiam Plato, in *Parmen*., loquitur multa de paterno intellectu, et multi alii philosophi.  
 
@@ -198,7 +200,7 @@ Articulus 1
 
 ***Utrum similitudo Dei in creaturis possit dici vestigium***
 
-***Ad primum sic proceditur. Videtur quod similitudo Creatoris reperta in creatura non potest dici vestigium.***
+Ad primum sic proceditur. Videtur quod similitudo Creatoris reperta in creatura non potest dici vestigium.  
 
 Per vestigium enim res investigatur. Sed divina majestas est investigabilis: unde dicitur Rom. 11:33: *O altitudo divitiarum sapientiae et scientiae Dei quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus!* Et Psalm. 76:20: *et vestigia tua non cognoscentur*. Ergo videtur quod similitudo Creatoris in creatura non sit vestigium.  
 
@@ -222,7 +224,7 @@ Articulus 2
 
 ***Utrum partes vestigii sint tres tantum vel duae***
 
-***Ad secundum sic proceditur. Videtur quod debeant esse tantum duae partes vestigii.***
+Ad secundum sic proceditur. Videtur quod debeant esse tantum duae partes vestigii.  
 
 Vestigium enim est proprietas quaedam creaturae. Sed creatura habet tantum duas partes essentiales, scilicet materiam et formam. Ergo videtur quod secundum has partes duae tantum sint partes vestigii.  
 
@@ -284,7 +286,7 @@ Aut secundum inclinationem in objectum, et sic intelligitur non habere modum: qu
 
 Expositio primae partis textus  
 
-****Invisibilia*, quantum ad attributa quibus Deus in se perfectus est: *virtus*, secundum quam creaturas producit; *divinitas*, secundum quod creaturae recurrunt in ipsum ut in finem. Vel *invisibilia* dicit quantum ad operationes suas, quae invisibiles sunt;Parma omits *operationes suas quae invisibiles, sunt* and instead reads *ad opera*. *virtus* quantum ad potentiam; *divinitas* quantum ad essentiam.***
+*Invisibilia*, quantum ad attributa quibus Deus in se perfectus est: *virtus*, secundum quam creaturas producit; *divinitas*, secundum quod creaturae recurrunt in ipsum ut in finem. Vel *invisibilia* dicit quantum ad operationes suas, quae invisibiles sunt;Parma omits *operationes suas quae invisibiles, sunt* and instead reads *ad opera*. *virtus* quantum ad potentiam; *divinitas* quantum ad essentiam.  
 
 *Propter excellentiam*. Contra angelus praecellit hominem, ut in Psalm. 8:7: *minuisti eum paulo minus ab angelis*. Dicendum, quod homo et angelus possunt tripliciter considerari. Aut per relationem ad finem, et sic sunt aequales: erunt enim homines sicut angeli in caelo, sicut habetur Matth. 22. Aut quantum ad reparationem divinam, et sic homo major est angelo, inquantum humana natura assumpta est in unitatem personae divinae. Aut quantum ad utramque naturam in se, et sic natura angeli nobilior est. Vel dicendum, quod mundus accipitur hic, secundum quod est continentia visibilium tantum; et ita inter creaturas mundi, quas homo excellit, non computatur angelus.  
 
@@ -294,7 +296,7 @@ Expositio primae partis textus
 
 Divisio secundae partis textus  
 
-****Nunc vero jam ad eam perveniamus disputationem, ubi in mente humana . . . Trinitatis imaginem reperiamus*. In parte ista ostendit Trinitatem personarum et unitatem essentiae per similitudinem imaginis: et dividitur in partes tres: in prima ostendit substantiam imaginis, in secunda ostendit, secundum quid attendatur imago, ibi: *ecce enim mens meminit sui, intelligit se, diligit se*; in tertia ex similitudine imaginis ducit in Trinitatem personarum, ibi: *quapropter juxta istam considerationem . . . , credamus, Patrem, et Filium, et Spiritum Sanctum unum esse Deum*.***
+*Nunc vero jam ad eam perveniamus disputationem, ubi in mente humana . . . Trinitatis imaginem reperiamus*. In parte ista ostendit Trinitatem personarum et unitatem essentiae per similitudinem imaginis: et dividitur in partes tres: in prima ostendit substantiam imaginis, in secunda ostendit, secundum quid attendatur imago, ibi: *ecce enim mens meminit sui, intelligit se, diligit se*; in tertia ex similitudine imaginis ducit in Trinitatem personarum, ibi: *quapropter juxta istam considerationem . . . , credamus, Patrem, et Filium, et Spiritum Sanctum unum esse Deum*.  
 
 *Ecce enim mens meminit sui, intelligit se, diligit se*. Hic inquirit secundum quod attendatur imago in mente:  
 
@@ -360,7 +362,7 @@ Quaestio 4
 
 ***De partibus imaginis Dei***
 
-***Deinde quaeritur de partibus imaginis: et primo de prima assignatione; secundo de secunda. Circa primum quaeruntur quinque:***
+Deinde quaeritur de partibus imaginis: et primo de prima assignatione; secundo de secunda. Circa primum quaeruntur quinque:  
 
 primo de partibus imaginis quid unaquaeque sit, et qualiter ab invicem differant;  
 
@@ -474,7 +476,7 @@ Articulus 4
 
 ***Utrum imago attendatur in potentiis rationalibus respectu quorumlibet objectorum***
 
-***Ad quartum sic proceditur. Videtur quod imago attendatur in istis potentiis respectu quorumlibet objectorum.***
+Ad quartum sic proceditur. Videtur quod imago attendatur in istis potentiis respectu quorumlibet objectorum.  
 
 Potentia enim ex natura potentiae se habet similiter ad omnia sua objecta. Sed per habitus diversos restringitur ad haec vel ad illa. Cum igitur assignatio primae imaginis sit secundum potentias, non secundum habitus, videtur quod sit respectu quorumlibet objectorum.  
 
@@ -500,9 +502,9 @@ Ad aliud patet responsio per ea quae dicta sunt.
 
 Articulus 5  
 
-***Utrum potentiae rationales sint semper in actu respectu objectorum, in quibus attenditur imago***
+Utrum potentiae rationales sint semper in actu respectu objectorum, in quibus attenditur imago  
 
-***Ad quintum sic proceditur. Videtur quod istae potentiae non semper sint in suis actibus respectu horum objectorum, in quibus praecipue attenditur imago.***
+Ad quintum sic proceditur. Videtur quod istae potentiae non semper sint in suis actibus respectu horum objectorum, in quibus praecipue attenditur imago.  
 
 Dicit enim Philosophus, 2 *De anima*, quod una potentia existente in actu, altera abstrahitur ab actu suo. Sed istae tres sunt diversae potentiae. Ergo impossibile est quod quaelibet semper sit in suo actu respectu cujuslibet objecti.  
 
@@ -532,7 +534,7 @@ Quaestio 5
 
 ***Utrum hae partes imaginis, mens, notitia, et amor differant ab aliis partibus***
 
-***Deinde quaeritur de alia assignatione imaginis scilicet mente, notitia et amore. Et videtur quod ista non differt a praedicta, sicutParma: *si*. dicitur quod ista assignatur secundum habitus, illa secundum potentias.***
+Deinde quaeritur de alia assignatione imaginis scilicet mente, notitia et amore. Et videtur quod ista non differt a praedicta, sicutParma: *si*. dicitur quod ista assignatur secundum habitus, illa secundum potentias.  
 
 Imago enim attenditur in anima, praecipue respectu hujus objecti quod est anima et hujus objecti quod est Deus. Sed anima non cognoscit seipsam tali modo cognitionis, de quo hic loquimur, mediante habitu, sed per suam essentiam. Ergo non videtur quod secundum aliquos habitus assignetur imago.  
 
@@ -558,7 +560,7 @@ Ad quintum dicendum, quod habitus est principium elicitumParma: *elicitivum*. op
 
 Expositio secundae partis textus  
 
-****In ipsa etiam mente, antequam sit particeps Dei, ejus imago reperitur; etsi enim amissa Dei participatione, deformis sit, imago tamen Dei permanet*.Mandonnet titles this section as a *divisio* rather than an *expositio*, but this seems to be an error. Contra: Psal. 72:20: *Domine, in civitate tua imaginem ipsorum ad nihilum rediges*. Dicendum, quod sicut dicit Glossa super illud Psal. 4: *signatum est super nos lumen vultus tui, Domine*, triplex est imago Dei in homine: scilicet creationis, quae est ratio, inquantum appropinquat ad imitationem divinae intellectualitatis; et dicitur imago per modum quo truncus in corporalibus potest dici imago. Item alia est imago similitudinis quae consistit in distinctione potentiarum repraesentantium Trinitatem personarum; et haec assimilatur imagini in corporalibus, secundum quod distincta est per limitationesParma: *rationes*; in one manuscript (Mazarin. 1304), it reads *lineationes*. partium. Item est imago recreationis, quae consistit in habitibus gratuitis, et actu imitatur Deum; et haec assimilatur imagini in corporalibus quantum ad colores, et alia quae imaginem decorant: et sic dicta imago non remanet post peccata, sed aliis duobus modis.***
+*In ipsa etiam mente, antequam sit particeps Dei, ejus imago reperitur; etsi enim amissa Dei participatione, deformis sit, imago tamen Dei permanet*.Mandonnet titles this section as a *divisio* rather than an *expositio*, but this seems to be an error. Contra: Psal. 72:20: *Domine, in civitate tua imaginem ipsorum ad nihilum rediges*. Dicendum, quod sicut dicit Glossa super illud Psal. 4: *signatum est super nos lumen vultus tui, Domine*, triplex est imago Dei in homine: scilicet creationis, quae est ratio, inquantum appropinquat ad imitationem divinae intellectualitatis; et dicitur imago per modum quo truncus in corporalibus potest dici imago. Item alia est imago similitudinis quae consistit in distinctione potentiarum repraesentantium Trinitatem personarum; et haec assimilatur imagini in corporalibus, secundum quod distincta est per limitationesParma: *rationes*; in one manuscript (Mazarin. 1304), it reads *lineationes*. partium. Item est imago recreationis, quae consistit in habitibus gratuitis, et actu imitatur Deum; et haec assimilatur imagini in corporalibus quantum ad colores, et alia quae imaginem decorant: et sic dicta imago non remanet post peccata, sed aliis duobus modis.  
 
 *Eo enim ipso imago Dei est mens quo capax ejus est ejusque particeps esse potest*. Videtur falsum. Omne enim quod capit aliquid, est majus vel aequale sibi, sicut Augustinus *De Trinit*., arguit de potentiis mutuo sese capientibus. Ergo videtur quod mens nostra non possit capere Deum.  
 

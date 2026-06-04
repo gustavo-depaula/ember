@@ -1,6 +1,8 @@
 # A. 1 - Hallowed Be Thy Name
 
-***This is the first petition, and in it we ask that God’s name be manifested and declared in us.Parallel texts: *ST* II-II.81.8. The name of God, first of all, is wonderful because it works wonders in all creatures. Thus said our Lord in the Gospel: *in my name they shall cast out devils, they shall speak new tongues. They shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them* (Mark 14:17)**.***
+***Hallowed Be Thy NameThis first article is not authentic.***
+
+This is the first petition, and in it we ask that God’s name be manifested and declared in us.Parallel texts: *ST* II-II.81.8. The name of God, first of all, is wonderful because it works wonders in all creatures. Thus said our Lord in the Gospel: *in my name they shall cast out devils, they shall speak new tongues. They shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them* (Mark 14:17)**.  
 
 Second, this name is lovable: *there is no other name under heaven given to men, whereby we must be saved* (Acts 4:12)**.Parallel texts: *ST* I-II.67.4, ad 2; II-II.83.9, ad 3; 130.2, ad 1. We all should desire to be saved. We have an example in Blessed Ignatius, who had such great love for the name of Christ that, when Trajan ordered him to deny it, he affirmed that it could not be dragged from his mouth. Then, the emperor threatened to have him beheaded, and thus take the name of Christ out of the mouth of the saint. But Ignatius replied: *even though you take it from my mouth, you will never snatch it from my heart. I have this name written in my heart and there I never cease to invoke it*. Trajan heard this and wished to put it to the test. He had the servant of God beheaded and then commanded that his heart be taken out, and there upon the heart was found the name of Christ inscribed in letters of gold. The name had been engraved on the heart as a seal.  
 

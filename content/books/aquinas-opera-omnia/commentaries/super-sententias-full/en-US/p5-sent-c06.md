@@ -1,8 +1,10 @@
 # D. 5 - The union in the Incarnation
 
+***The union in the Incarnation***
+
 ***Division of the text***
 
-***After the Master has considered what is doing the assumingAbove: dist. 1. and what is being assumed in the divine Incarnation,Dist. 2–5. here he examines both of these together with respect to their intentions—namely, whether the one assuming and the thing assumed have the notion of a nature or a person. And this is divided into three parts.***
+After the Master has considered what is doing the assumingAbove: dist. 1. and what is being assumed in the divine Incarnation,Dist. 2–5. here he examines both of these together with respect to their intentions—namely, whether the one assuming and the thing assumed have the notion of a nature or a person. And this is divided into three parts.  
 
 In the first he raises the question.  
 
@@ -86,7 +88,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first question we proceed thus.Parallels: above, d. 2, q. 2, a. 3, resp. 3; below, d. 7, q. 2, aa. 1, 2; *ST* III.2.7. It seems that the union was not something created.***
+To the first question we proceed thus.Parallels: above, d. 2, q. 2, a. 3, resp. 3; below, d. 7, q. 2, aa. 1, 2; *ST* III.2.7. It seems that the union was not something created.  
 
 Obj. 1: For a union is in the thing that is said to be one because of it. But the divine nature is said to be united to the human nature. Therefore, the union is in the divine nature. But nothing in God is created. Therefore, the union is not something created.  
 
@@ -98,7 +100,7 @@ On the contrary, everything that exists and is not created is eternal. But the u
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is the weakest of unions.Parallel: *ST* III.2.9. Because the more distant the things united are, the weaker the union is. But the divine nature and the human nature that are said to be united are as distant as possible. Therefore, it is the weakest union.***
+Obj. 1: Moreover, it seems that it is the weakest of unions.Parallel: *ST* III.2.9. Because the more distant the things united are, the weaker the union is. But the divine nature and the human nature that are said to be united are as distant as possible. Therefore, it is the weakest union.  
 
 Obj. 2: Furthermore, the greater the composition, the weaker the union. But in Christ there is the greatest composition, because after the composition that nature makes in a man, which is the greatest among all natural compositions, there is that union of divinity and humanity. Therefore, it is the weakest union.  
 
@@ -108,7 +110,7 @@ On the contrary, Bernard says, in *On Consideration*,Bernard, *De consideratione
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that union does not differ from assumption.Parallel: *ST* III.2.8. For “assumption” is said, as it were, as “taking to oneself.” But whatever is taken to oneself is united to the one taking it in some way. Therefore, assumption is the same as union.***
+Obj. 1: Moreover, it seems that union does not differ from assumption.Parallel: *ST* III.2.8. For “assumption” is said, as it were, as “taking to oneself.” But whatever is taken to oneself is united to the one taking it in some way. Therefore, assumption is the same as union.  
 
 Obj. 2: One might say that they are different because the one doing the uniting is united, but the one doing the assuming is not assumed.  
 
@@ -122,7 +124,7 @@ On the contrary, the divine nature is said to be united to the human nature, but
 
 Response to Quaestiuncula 1  
 
-***I answer that union is a sort of relation. Now, according to the Philosopher,Aristotle, *Metaphysics* 5.15, 1020b26–32; Aquinas, *In Metaph.*, bk. 5, lect. 17, nn. 1001–1005. every relation is based either on quantity, insofar as it can be traced back to the genus of quantity, or on action and being-acted-upon. Now, one is traced back to the genus of quantity as the principle of discrete quantity, and sameness is founded on it insofar as it is one in substance; equality insofar as it is one in quantity; and likeness insofar as it is one is quality. But uniting is an action or being acted upon by which many things are made one in some way; and the relation that is union follows upon this action. However, of relations as much of the latter as of the former, some arise from the movement of both extremities; and these are the relations that must exist in reality in both extremities, such as fatherhood, and the like. But some arise from the movement of one extremity without a change in the other, which happens among things where one depends on the other, and not vice versa, like knowledge and the thing known. In relations like this, the relation exists according to reality in the one that is dependent on the other, whereas in the other, it exists according to reason alone. Therefore, since in the Incarnation there is no change brought about in the divine nature, but rather in the human nature, which is drawn into unity within the divine person, this relation—namely, union—will exist according to reality in the human nature, but in the divine nature only according to reason. Thus the Philosopher saysAristotle, *Metaphysics* 5.15, 1021a28–29; Aquinas, *In Metaph.,* bk. 5, lect. 17, nn. 1026–35. that some things are relative, not because they themselves have a relation, but because other things have a relation to them. This is why the union is a created thing according to reality.***
+I answer that union is a sort of relation. Now, according to the Philosopher,Aristotle, *Metaphysics* 5.15, 1020b26–32; Aquinas, *In Metaph.*, bk. 5, lect. 17, nn. 1001–1005. every relation is based either on quantity, insofar as it can be traced back to the genus of quantity, or on action and being-acted-upon. Now, one is traced back to the genus of quantity as the principle of discrete quantity, and sameness is founded on it insofar as it is one in substance; equality insofar as it is one in quantity; and likeness insofar as it is one is quality. But uniting is an action or being acted upon by which many things are made one in some way; and the relation that is union follows upon this action. However, of relations as much of the latter as of the former, some arise from the movement of both extremities; and these are the relations that must exist in reality in both extremities, such as fatherhood, and the like. But some arise from the movement of one extremity without a change in the other, which happens among things where one depends on the other, and not vice versa, like knowledge and the thing known. In relations like this, the relation exists according to reality in the one that is dependent on the other, whereas in the other, it exists according to reason alone. Therefore, since in the Incarnation there is no change brought about in the divine nature, but rather in the human nature, which is drawn into unity within the divine person, this relation—namely, union—will exist according to reality in the human nature, but in the divine nature only according to reason. Thus the Philosopher saysAristotle, *Metaphysics* 5.15, 1021a28–29; Aquinas, *In Metaph.,* bk. 5, lect. 17, nn. 1026–35. that some things are relative, not because they themselves have a relation, but because other things have a relation to them. This is why the union is a created thing according to reality.  
 
 Reply Obj. 1: That union is in God only according to reason, and not according to reality.  
 
@@ -132,13 +134,13 @@ Reply Obj. 3: It is not the case that the union predicated of God is neither the
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that this union can be considered under two aspects: either as to what the union happens in, or as to the things that are united. If the first way, since the union happens in the divine person, which is the most one and simple, then this is the greatest union after the union of essence in the three divine persons. For, although the person is as simple and one as the essence, nevertheless, any of the three persons is the same thing as the essence itself, in which they are united. However, the two natures in Christ are not the same thing as the divine person, although one of his natures, the divine one, is entirely the same thing as it. Thus the union of persons in one essence is greater than the union of the natures in one person. If we look at it in the second way, then it is not the greatest union. But the first consideration is of the union in itself, because according to this it is one thing, whereas the latter is not the consideration of the union insofar as it is a union. And therefore it should be said that the union is the greatest, simply speaking, although it is not the greatest in a certain respect.***
+To the second question, it should be said that this union can be considered under two aspects: either as to what the union happens in, or as to the things that are united. If the first way, since the union happens in the divine person, which is the most one and simple, then this is the greatest union after the union of essence in the three divine persons. For, although the person is as simple and one as the essence, nevertheless, any of the three persons is the same thing as the essence itself, in which they are united. However, the two natures in Christ are not the same thing as the divine person, although one of his natures, the divine one, is entirely the same thing as it. Thus the union of persons in one essence is greater than the union of the natures in one person. If we look at it in the second way, then it is not the greatest union. But the first consideration is of the union in itself, because according to this it is one thing, whereas the latter is not the consideration of the union insofar as it is a union. And therefore it should be said that the union is the greatest, simply speaking, although it is not the greatest in a certain respect.  
 
 Reply Obj. 1–3: And by this, the replies to the objections are clear.  
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the first difference between assumption and union is that assumption is either an action or a being-acted-upon, while union is only a relation, although uniting is also an action. The second difference is that “assumption” is said in relation to the terminus from which it is being separated, or it is taken as what is to be united; but “union” is said in relation to the terminus or effect of the uniting, which is being one. And from here we can take a third difference, that the one uniting is also united; for “united” is signified insofar as it has already become one, while “assumed” insofar as it is on its way toward this. And so the one assuming is not the assumed. A fourth difference is that assumption determines what the uniting is done to, just as we say “assumption” as in, “taken to oneself.” But this is not the case with union, and so whoever causes the joining can be said to unite, but he cannot be said to assume unless he joins the thing to himself. Thus, the Father united human nature with the divine nature, but he did not assume human nature. A fifth difference is that union, in itself, has to do with both extremes equally, but assumption does not, but rather it requires something fixed and stationary in the one, which the other is drawn into. And for this reason the divine nature can be said to be united to human nature in the person, but it cannot be said to be assumed.***
+To the third question, it should be said that the first difference between assumption and union is that assumption is either an action or a being-acted-upon, while union is only a relation, although uniting is also an action. The second difference is that “assumption” is said in relation to the terminus from which it is being separated, or it is taken as what is to be united; but “union” is said in relation to the terminus or effect of the uniting, which is being one. And from here we can take a third difference, that the one uniting is also united; for “united” is signified insofar as it has already become one, while “assumed” insofar as it is on its way toward this. And so the one assuming is not the assumed. A fourth difference is that assumption determines what the uniting is done to, just as we say “assumption” as in, “taken to oneself.” But this is not the case with union, and so whoever causes the joining can be said to unite, but he cannot be said to assume unless he joins the thing to himself. Thus, the Father united human nature with the divine nature, but he did not assume human nature. A fifth difference is that union, in itself, has to do with both extremes equally, but assumption does not, but rather it requires something fixed and stationary in the one, which the other is drawn into. And for this reason the divine nature can be said to be united to human nature in the person, but it cannot be said to be assumed.  
 
 Reply Obj. 1: Although “assumption” is ordered to union, nevertheless it does not include in its signification the terminus that is becoming one, as is included in the signification of “union.”  
 
@@ -150,7 +152,7 @@ Article 2
 
 ***Whether the union happened in the nature***
 
-***To the second question we proceed thus.Parallels: *ST* III.2.1; *SCG* IV.35, 41; *De unione Verbi*, a. 1; *De veritate*, q. 20, a. 1; *Compend. theol.*, ch. 206; *Super Ioan.* 1, lect. 7; *Super Rom.* 1, lect. 2; *Super Philip.* 2, lect. 2. It seems that the union happened in the nature.***
+To the second question we proceed thus.Parallels: *ST* III.2.1; *SCG* IV.35, 41; *De unione Verbi*, a. 1; *De veritate*, q. 20, a. 1; *Compend. theol.*, ch. 206; *Super Ioan.* 1, lect. 7; *Super Rom.* 1, lect. 2; *Super Philip.* 2, lect. 2. It seems that the union happened in the nature.  
 
 Obj. 1: For what is constituted from two natures seems to have one nature intermediate between them, like a blend constituted from the four elements. But Christ is constituted from two natures, according to Augustine,Augustine, *Enchiridion de fide, spe et caritate*, ch. 35/10 (CCSL 46; PL 40:250). who says that from the two substances, the human and the divine, is the one Son of God and Son of Man.  
 
@@ -196,7 +198,7 @@ Article 3
 
 ***Whether the union happened in the person, and if Christ is one person***
 
-***To the third question we proceed thus.Parallels: *ST* III.2.2; *SCG* IV.41; *De unione Verbi*, a. 1; *Super Philip.* 2, lect. 2. It seems that in Christ there is not just one person, and thus the union did not happen in the person.***
+To the third question we proceed thus.Parallels: *ST* III.2.2; *SCG* IV.41; *De unione Verbi*, a. 1; *Super Philip.* 2, lect. 2. It seems that in Christ there is not just one person, and thus the union did not happen in the person.  
 
 Obj. 1: For no nature is found without those things that through themselves follow on that nature. But personhood through itself follows on human nature, and likewise on divine nature. Therefore both natures retain their own personhood.  
 
@@ -238,7 +240,7 @@ Question 2
 
 ***The divine person assuming the human nature***
 
-***Next we will ask about the one assuming human nature, and concerning this there are three things to be asked:***
+Next we will ask about the one assuming human nature, and concerning this there are three things to be asked:  
 
 first, whether it befits a divine person to assume;  
 
@@ -250,7 +252,7 @@ Article 1
 
 ***Whether it befits a divine person to assume***
 
-***To the first question we proceed thus.Parallel: *ST* III.3.1. It seems that it does not befit a divine person to assume.***
+To the first question we proceed thus.Parallel: *ST* III.3.1. It seems that it does not befit a divine person to assume.  
 
 Obj. 1: For as was said, “person” signifies something complete and whole. But when the last completion has been completed, no addition can be made. Therefore, a person cannot assume anything to himself.  
 
@@ -278,7 +280,7 @@ Article 2
 
 ***Whether assuming befits the nature***
 
-***To the second question we proceed thus.Parallel: *ST* III.3.2. It seems that assuming does not belong to the nature.***
+To the second question we proceed thus.Parallel: *ST* III.3.2. It seems that assuming does not belong to the nature.  
 
 Obj. 1: For what belongs to the divine nature is common to the three persons. But to assume does not belong to the Father and the Holy Spirit; therefore, it does not belong to the divine nature.  
 
@@ -310,7 +312,7 @@ Article 3
 
 ***Whether assuming belongs to the nature, setting aside the persons***
 
-***To the third question we proceed thus.Parallel: *ST* III.3.3. It seems that, if the persons were set aside, the nature could not assume.***
+To the third question we proceed thus.Parallel: *ST* III.3.3. It seems that, if the persons were set aside, the nature could not assume.  
 
 Obj. 1: For a nature without supposits exists only in bare contemplation. But what exists only in contemplation, does not have existence; and what does not exist, does not act. Therefore the nature without the persons could not assume.  
 
@@ -334,7 +336,7 @@ Question 3
 
 ***The assumption of the human nature***
 
-***Next we must ask about what was assumed; and concerning this there are three things to ask:***
+Next we must ask about what was assumed; and concerning this there are three things to ask:  
 
 first, whether a human nature was assumed;  
 
@@ -346,7 +348,7 @@ Article 1
 
 ***Whether a human nature was assumed***
 
-***To the first question we proceed thus. It seems that a human nature was not assumed.***
+To the first question we proceed thus. It seems that a human nature was not assumed.  
 
 Obj. 1: For according to Boethius,Boethius, *Liber contra Eutychen et Nestorium, de Duabus Naturis*, ch. 1 (PG 64:1341). the nature, as we are speaking of it here, is what informs each thing with its specific difference. But a specific difference is what signifies a bare nature, for it does not signify it as it is within something. Therefore, since according to Damascene,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 11 (PG 94:1023). God did not assume the nature that exists in bare contemplation, it seems that he did not assume a nature.  
 
@@ -380,7 +382,7 @@ Article 2
 
 ***Whether a separated soul is a person***
 
-***To the second we proceed as follows.Parallel: *ST* I.75.4. It seems that a separated soul is a person.***
+To the second we proceed as follows.Parallel: *ST* I.75.4. It seems that a separated soul is a person.  
 
 Obj. 1: For a person, according to Boethius,Boethius, *Liber contra Eutychen et Nestorium, de Duabus Naturis*, ch. 4 (PG 64:1343). is an individual substance of a rational nature. But this befits a separated soul. Therefore, it is a person.  
 
@@ -412,7 +414,7 @@ Article 3
 
 ***Whether a person is assumed***
 
-***To the third question we proceed thus.Parallel: *ST* III.4.2. It seems that the person of a man is assumed.***
+To the third question we proceed thus.Parallel: *ST* III.4.2. It seems that the person of a man is assumed.  
 
 Obj. 1: For Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 3, ch. 11 (PG 94:1023). that God assumed human nature “in the undivided,” that is, in an individual. But a human nature in an individual is the nature in a person. Therefore he assumed the nature in a person.  
 
@@ -438,7 +440,7 @@ Reply Obj. 4: To “consume” properly means to destroy what existed. And accor
 
 Exposition of the text  
 
-****The divinity of Christ is not alien to the Father’s nature . . . nor is his humanity alien to his mother’s nature*.*Sentences* III, 5.1(14).5, quoting Fulgentius, *De fide, ad Petrum*, ch. 2, n. 14 (CCSL 91A; PL 40:757). To the contrary: Christ shares with the Father in a nature that is one in number, but this is not the case with his mother, so it is not a direct likeness. To this it must be said that there need not be a likeness in all things; rather, it suffices that it be there in some respect.***
+*The divinity of Christ is not alien to the Father’s nature . . . nor is his humanity alien to his mother’s nature*.*Sentences* III, 5.1(14).5, quoting Fulgentius, *De fide, ad Petrum*, ch. 2, n. 14 (CCSL 91A; PL 40:757). To the contrary: Christ shares with the Father in a nature that is one in number, but this is not the case with his mother, so it is not a direct likeness. To this it must be said that there need not be a likeness in all things; rather, it suffices that it be there in some respect.  
 
 *When you hear of Christ that he was in the form of God, it is necessary that you acknowledge and hold most firmly that in the term ‘form,’ the fullness of nature is to be understood*.*Sent*. III, 5.1(14).6, quoting Fulgentius, *De fide, ad Petrum*, ch. 2, n. 19 (CCSL 91A; PL 40:759). It should be known that the divine nature is called a “form” not because it is the act of any nature, but because it does not have its nature as a part of itself, nor anything of potentiality in itself. But human nature is called a “form” not because it includes only formal principles (for it does include both form and matter), but by the mode in which the whatness of a composite thing is called the form of the whole.  
 

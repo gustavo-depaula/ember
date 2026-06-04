@@ -1,10 +1,12 @@
 # C. 2 - Divine Judgment and the Jewish Law
 
+***Divine Judgment and the Jewish Law***
+
 ***Lecture 1***
 
 ***Man’s inordinate judgment***
 
-***^2:1^ Wherefore you are inexcusable, O man, whosoever you are who judges. For wherein you judge another, you condemn yourself. For you do the same things which you judge. [n. 169]***
+^2:1^ Wherefore you are inexcusable, O man, whosoever you are who judges. For wherein you judge another, you condemn yourself. For you do the same things which you judge. [n. 169]  
 
 > ^2:2^ For we know that the judgment of God is, according to truth, against those who do such things. [n. 178]
 
@@ -274,7 +276,7 @@ Lecture 3
 
 ***The doers of the law***
 
-***^2:13^ For the hearers of the law are not just before God: but the doers of the law will be justified. [n. 211]***
+^2:13^ For the hearers of the law are not just before God: but the doers of the law will be justified. [n. 211]  
 
 > ^2:14^ For when the gentiles, who have not the law, do by nature those things that are of the law; they, having not the law, are a law to themselves, [n. 213]
 
@@ -388,7 +390,7 @@ Lecture 4
 
 ***Circumcision of the heart***
 
-***^2:17^ But if you are called a Jew and rest in the law and make your boast of God, [n. 224]***
+^2:17^ But if you are called a Jew and rest in the law and make your boast of God, [n. 224]  
 
 > ^2:18^ And know his will and approve the more profitable things, being instructed by the law: [n. 227]
 

@@ -1,5 +1,7 @@
 # On Things Pertaining to Grace and Fault
 
+***On things pertaining to grace***
+
 ***Question 4***
 
 ***Regarding prelates***
@@ -24,9 +26,9 @@ second, concerning the honor which must be given to prelates, namely, whether ba
 
 Article 1  
 
-***Whether it is always necessary to elect the better man, or does it suffice to elect a good man***
+Whether it is always necessary to elect the better man, or does it suffice to elect a good man  
 
-***To the first we proceed thus. It seems that it is always necessary to elect the better man.***
+To the first we proceed thus. It seems that it is always necessary to elect the better man.  
 
 Obj. 1: For it is said in 2 Kings 10:3: *elect the better man . . . and place him upon the throne of his father*. Therefore, much more in spiritual offices must the better men be preferred.  
 
@@ -64,7 +66,7 @@ Article 2
 
 ***Whether bad prelates must be honored or not***
 
-***To the second we proceed thus. It seems that honor does not have to be given to bad prelates.***
+To the second we proceed thus. It seems that honor does not have to be given to bad prelates.  
 
 Obj. 1: For just as Boethius says in the book *On Consolation*: *we cannot on account of honors judge that those* must be revered *whom* we reckon *unworthy of these honors*.Boethius, *Consolation of Philosophy* 3.4, 5 (CCSL 94:43; PL 63:736). But bad prelates are not worthy of honors. Therefore, they cannot be judged as having to be revered by their subjects.  
 
@@ -82,7 +84,7 @@ Question 5
 
 ***Regarding all men***
 
-***Then there were questions about what pertains to grace common to every state. And about this there were three questions:***
+Then there were questions about what pertains to grace common to every state. And about this there were three questions:  
 
 first, concerning prayers, whether prayer made for another prevails as much as prayer made for oneself;  
 
@@ -94,7 +96,7 @@ Article 1
 
 ***On prayers***
 
-***To the first we proceed thus. It seems that prayer made for oneself prevails more than prayer made for another.***
+To the first we proceed thus. It seems that prayer made for oneself prevails more than prayer made for another.  
 
 Obj. 1: For thus it is said in a certain gloss, that special prayers prevail more.Not found in the Gloss. Cf. Albert the Great, *In IV Sent*., d. 45, a. 11, 30:618b; Aquinas, *In IV Sent*. 45.2.3, qa. 1, ad 5. But that is most special by which someone prays for himself. Therefore, prayer made for oneself prevails more than prayer made for another.  
 
@@ -122,7 +124,7 @@ Article 2
 
 ***On suffrages***
 
-***To the second we proceed thus. It seems that the suffrages of a church specially made for some rich man avail equally for a pauper for whom they are not made, if he is of equal merit.***
+To the second we proceed thus. It seems that the suffrages of a church specially made for some rich man avail equally for a pauper for whom they are not made, if he is of equal merit.  
 
 Obj. 1: For as Augustine says, suffrages of this sort only prevail for each man after death as much as he merited their benefit while living.Cf. Aquinas, *In IV Sent*. 45.2.4, qa. 1, obj. 2; Peter Lombard, *Sentences*, bk. 4, d. 45, ch. 2, pp. 525–26 (PL 192:948–49); Augustine, *Enchiridion* 110, para. 29 (CCSL 46:108; PL 40:283); *Sermon 172* (PL 38:937). But the aforesaid two merited equally. Therefore, equally do the aforesaid suffrages benefit them.  
 
@@ -150,7 +152,7 @@ Article 3
 
 ***On vows***
 
-***To the third we proceed thus. It seems that a simple vow of continence breaks off a contracted marriage.***
+To the third we proceed thus. It seems that a simple vow of continence breaks off a contracted marriage.  
 
 Obj. 1: For if anyone gives to someone what he had previously given to another, the second giving is null. But he who utters a simple vow of continence gives his body to God. Therefore, since afterwards by contracting marriage he gives his body to a wife, that contract of marriage seems to prevail nothing. And thus, a simple vow breaks off a contracted marriage.  
 
@@ -174,7 +176,7 @@ On things pertaining to fault
 
 ***On things pertaining to fault***
 
-***Then there were questions concerning what pertains to fault. And about this there were five questions:***
+Then there were questions concerning what pertains to fault. And about this there were five questions:  
 
 first, whether he sins who goes to a church on account of the stipends, when otherwise he would not go, even though in the beginning he accepted the prebend so that he would serve God;  
 
@@ -188,9 +190,9 @@ fifth, whether as much as someone intends to sin, he sins.
 
 Article 1  
 
-***Whether he sins who goes to a church on account of the stipends, when otherwise he would not go, even though in the beginning he accepted the prebend so that he would serve God***
+Whether he sins who goes to a church on account of the stipends, when otherwise he would not go, even though in the beginning he accepted the prebend so that he would serve God  
 
-***To the first we proceed thus. It seems that he who goes to a church on account of the stipend, when otherwise he would not go, sins.***
+To the first we proceed thus. It seems that he who goes to a church on account of the stipend, when otherwise he would not go, sins.  
 
 Obj. 1: For he seems to place divine submission, which is without price, under the price of a temporal thing. Therefore, he commits simony, and thus it seems that he sins mortally.  
 
@@ -208,7 +210,7 @@ Article 2
 
 ***Whether someone sins if, having a surplus, he does not give to a begging pauper***
 
-***To the second we proceed thus. It seems that he who does not give to a begging pauper, if he has a surplus, sins.***
+To the second we proceed thus. It seems that he who does not give to a begging pauper, if he has a surplus, sins.  
 
 Obj. 1: For to give alms from a surplus is in a precept. Luke 11:41: *but nevertheless give what is superfluous as alms*. Therefore, he sins if he does not grant this to one begging.  
 
@@ -222,9 +224,9 @@ Reply Obj. 1–2: And through this the response to the objections is clear.
 
 Article 3  
 
-***Whether when there are diverse opinions concerning something, he who follows a less safe one sins, such as concerning a plurality of prebends***
+Whether when there are diverse opinions concerning something, he who follows a less safe one sins, such as concerning a plurality of prebends  
 
-***To the third we proceed thus. It seems that he who has many prebends sins by the very fact that the opinions of the masters are contrary to one another.Above: q. 6, prologue.***
+To the third we proceed thus. It seems that he who has many prebends sins by the very fact that the opinions of the masters are contrary to one another.Above: q. 6, prologue.  
 
 Obj. 1: For whoever commits himself to risk in something regarding salvation, sins. But that person commits himself to risk, as it seems, since he acts against the sentence of many experts. Therefore, it seems that he sins.Cf. William of Auvergne, *Tractatus de collatione beneficiorum* 6.  
 
@@ -258,7 +260,7 @@ Article 5
 
 ***Whether as much as someone intends to sin, so much he sins***
 
-***To the fifth we proceed thus. It seems that it is not necessary that, if someone intends to sin mortally, he sins mortally.***
+To the fifth we proceed thus. It seems that it is not necessary that, if someone intends to sin mortally, he sins mortally.  
 
 Obj. 1: For God is more prone to have mercy than to punish,Cf. Aquinas, *In II Sent*. 11.1.1, s. c.; Ambrose, *Concerning Repentance* 1.2, para. 9 (CSEL 73:123; PL 16:469); William of Auxerre, *Summa aurea*, bk. 2, tract. 19, ch. 1, 2.2:646. as is said in a Gloss on the beginning of Jeremiah.*Glossa ordinaria*, at Jeremiah, prologue, 4.579 (PL 114:9); cf. Rabanus Maurus, *On Jeremiah* (PL 111:795, 1224); Origen, *Homily on Jeremiah* (PL 25:585). But, if someone intends to sin venially, it does not follow on account of that that he sins venially. Therefore, neither is it necessary that he who intends to sin mortally sins mortally.  
 

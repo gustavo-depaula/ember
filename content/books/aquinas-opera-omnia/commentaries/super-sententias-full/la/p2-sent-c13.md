@@ -1,8 +1,10 @@
 # D. 33 - How the properties are compared to the essence and the person
 
+***Qualiter proprietates comparentur ad essentiam et personam***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister de essentia et personis et proprietatibus, hic determinat comparationesParma: *operationes*. eorum ad invicem, et dividitur in partes duas: in prima ostendit qualiter proprietates comparentur ad essentiam et personam; in secunda qualiter personae ad essentiam comparentur, 34 dist., ibi: *praedictis autem adjiciendum est*.***
+Postquam determinavit Magister de essentia et personis et proprietatibus, hic determinat comparationesParma: *operationes*. eorum ad invicem, et dividitur in partes duas: in prima ostendit qualiter proprietates comparentur ad essentiam et personam; in secunda qualiter personae ad essentiam comparentur, 34 dist., ibi: *praedictis autem adjiciendum est*.  
 
 Prima in duas: in prima ostendit veritatem; in secunda excludit errorem, ibi: *hoc autem aliqui negant*.  
 
@@ -36,7 +38,7 @@ Articulus 1
 
 ***Utrum relationes divinae sint essentia divina***
 
-***Ad primum igitur sic proceditur. Videtur quod relationes ipsae non sint essentia divina.***
+Ad primum igitur sic proceditur. Videtur quod relationes ipsae non sint essentia divina.  
 
 Aut enim quae relative in Deo dicuntur, sunt relativa secundum esse aut tantum secundum dici. Sed non tantum secundum dici; quia sic incideret haeresis Sabellii, ut supra in notula Hilarii habitum est. Ergo sunt relativa secundum esse. Sed talium relationum, secundum Philosophum, in *Praed*., cap. “Ad aliquid,” esse, est ad aliud se habere. Ergo cum essentiae divinae esse non sit ad aliud se habere, sed sit esse absolutum, videtur quod non sit idem cum relatione quae secundum esse ad aliud est.  
 
@@ -128,7 +130,7 @@ Articulus 3
 
 ***Utrum proprietates sint in personis et in essentia***
 
-***Ad tertium sic proceditur. Videtur quod proprietates non sint in essentia, nec in personis.***
+Ad tertium sic proceditur. Videtur quod proprietates non sint in essentia, nec in personis.  
 
 Quaecumque enim sunt idem secundum rem, unum eorum non potest esse in altero; quia propositiones sunt transitivae; unde secundum Philosophum, 4 *Physic*., nihil est in seipso, nisi per accidens. Sed proprietates sunt idem re cum essentia et personis. Ergo non sunt in essentia vel in personis.  
 
@@ -156,7 +158,7 @@ Articulus 4
 
 ***Utrum essentialia adjectiva praedicentur de proprietatibus***
 
-***Ad quartum sic proceditur. Videtur quod essentialia adjectiva de proprietatibus praedicentur.***
+Ad quartum sic proceditur. Videtur quod essentialia adjectiva de proprietatibus praedicentur.  
 
 Quaecumque enim sunt idem secundum rem, quidquid de uno dicitur, et de altero videtur dici; alias affirmatio et negatio de eodem verificaretur; quia de quo non dicitur affirmatio, dicitur negatio. Sed proprietates sunt ipse Deus, ut probatum est. Ergo essentialia adjectiva, quae de divina essentia praedicantur, etiam de proprietatibus praedicari debent.  
 
@@ -186,7 +188,7 @@ Articulus 5
 
 ***Utrum contrariae opiniones de notionibus possint esse sine peccato***
 
-***Ad quintum sic proceditur. Videtur quod contrariae opiniones de notionibus non possint esse sine peccato.***
+Ad quintum sic proceditur. Videtur quod contrariae opiniones de notionibus non possint esse sine peccato.  
 
 Sicut enim dicit Augustinus, lib. 1 *De Trinit*., cap. 3, nec periculosius alicubi erratur quam in materia Trinitatis. Sed contrariae opiniones de notionibus non possunt esse sine errore alicujus. Ergo cum iste error sit circa materiam Trinitatis, videtur quod sit periculosissimus.  
 
@@ -210,7 +212,7 @@ Et per hoc patet responsio ad ea quae objecta sunt.
 
 Expositio textus  
 
-****Superius quoque multis sanctorum testimoniis astruximus personas per proprietates distingui*. Hic proprietates probat esse personas: et est ratio talis. Proprietates distinguunt personas. Sed personae ab aeterno sunt distinctae. Ergo proprietates sunt ab aeterno. Sed nihil est aeternum nisi in Deo. Ergo proprietates sunt in personis. Quidquid autem est in personis est ipsae personae; alias compositio esset in persona. Ergo, etc.***
+*Superius quoque multis sanctorum testimoniis astruximus personas per proprietates distingui*. Hic proprietates probat esse personas: et est ratio talis. Proprietates distinguunt personas. Sed personae ab aeterno sunt distinctae. Ergo proprietates sunt ab aeterno. Sed nihil est aeternum nisi in Deo. Ergo proprietates sunt in personis. Quidquid autem est in personis est ipsae personae; alias compositio esset in persona. Ergo, etc.  
 
 *Cumque de simplicitate deitatis supra dissereremus . . . evidenter monstravimus Deum hoc esse omnino quod in se habet*. Hic probat proprietates esse essentiam divinam; et est ratio talis. In Deo idem est quod habet, et quod habetur. Sed Deus habet proprietates, quae in Deo sunt, ut probatum est. Ergo proprietates ipsae sunt Deus, vel divina essentia.  
 

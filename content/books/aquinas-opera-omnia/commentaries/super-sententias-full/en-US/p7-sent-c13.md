@@ -1,6 +1,8 @@
 # D. 12 - Appearance and effects of the Eucharist
 
-***After the Master has examined one of the three things in which the integrity of this sacrament consists, namely, what is reality-and-sacrament, in this part he intends to consider the other two things, namely, what is sacrament alone, and what is reality alone. Hence it is divided into two parts: in the first, he considers what is sacrament alone; in the second, the effect of the sacrament which is the reality alone, at: *and this sacrament was instituted for two causes*.Peter Lombard, *Sententiae* IV, 12.6 (71). 1.***
+***Appearance and effects of the Eucharist***
+
+After the Master has examined one of the three things in which the integrity of this sacrament consists, namely, what is reality-and-sacrament, in this part he intends to consider the other two things, namely, what is sacrament alone, and what is reality alone. Hence it is divided into two parts: in the first, he considers what is sacrament alone; in the second, the effect of the sacrament which is the reality alone, at: *and this sacrament was instituted for two causes*.Peter Lombard, *Sententiae* IV, 12.6 (71). 1.  
 
 The first is in two parts; in the first, he considers the accidents, which are sacraments, i.e., signs of both the true body of Christ and the mystical body of Christ; in the second, he considers the act of the priest, which is a sacrament or sign of Christ’s Passion, at: *after these matters it is asked whether what the priest does is properly called a sacrifice*.*Sent* IV, 12.5 (70). 1.  
 
@@ -28,7 +30,7 @@ first, whether the accidents are here without a substance;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: *I Sent.* d. 47, a. 4; *ST* III, q. 77, a. 1; *SCG* IV, chs. 62–63, 65; *Quodl*. III, a. 1; *Quodl.* IX, q. 3; *De rationibus fidei*, ch. 8; *Super Matt.* 26; *Super I ad Cor.* 11, lec. 5. It seems that God cannot make accidents exist without a substance. For if a being were separated from its existence, the being would be a non-being. But God cannot do this, for he cannot make two contradictories to be true at the same time. Therefore, he cannot separate a being from being. But accidental being is to be present-in, according to the Philosopher.Aristotle, *Metaphysics*, Bk. 5, ch. 30 (1025a14). Therefore God cannot make it so that an accident is not present in something.***
+Obj. 1: To the first we proceed thus.Parallels: *I Sent.* d. 47, a. 4; *ST* III, q. 77, a. 1; *SCG* IV, chs. 62–63, 65; *Quodl*. III, a. 1; *Quodl.* IX, q. 3; *De rationibus fidei*, ch. 8; *Super Matt.* 26; *Super I ad Cor.* 11, lec. 5. It seems that God cannot make accidents exist without a substance. For if a being were separated from its existence, the being would be a non-being. But God cannot do this, for he cannot make two contradictories to be true at the same time. Therefore, he cannot separate a being from being. But accidental being is to be present-in, according to the Philosopher.Aristotle, *Metaphysics*, Bk. 5, ch. 30 (1025a14). Therefore God cannot make it so that an accident is not present in something.  
 
 Obj. 2: Furthermore, whoever separates a definition from the thing defined, holds two contradictories to be true at the same time. For this very thing that is man, is a mortal rational animal; and so if it is held to be a man and not a mortal rational animal, it is held to be a man and not to be one. But the definition of an accident is what is present in a substance; hence also in the definition of individual accidents, substance must be included. Therefore, since God cannot make contradictories true at the same time, neither could he make accidents exist without substance.  
 
@@ -40,7 +42,7 @@ Furthermore (2), God can do more things than a man can understand or imagine. Bu
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is not fitting to this sacrament that accidents exist without substance.Parallels: above, d. 11, q. 1, a. 1, qa. 2; *ST* III, q. 75, a. 5; *SCG* IV, chs. 62–63, 65; *De rationibus fidei*, ch. 8; *Super I ad Cor*. 11, lec. 5. For in the most perfect sacrament it is not suitable that there be anything opposed to divine ordination. But the divine ordination is that accidents be in a subject. Therefore, in this sacrament it is not fitting that it be without a subject.***
+Obj. 1: Moreover, it seems that it is not fitting to this sacrament that accidents exist without substance.Parallels: above, d. 11, q. 1, a. 1, qa. 2; *ST* III, q. 75, a. 5; *SCG* IV, chs. 62–63, 65; *De rationibus fidei*, ch. 8; *Super I ad Cor*. 11, lec. 5. For in the most perfect sacrament it is not suitable that there be anything opposed to divine ordination. But the divine ordination is that accidents be in a subject. Therefore, in this sacrament it is not fitting that it be without a subject.  
 
 Obj. 2: Furthermore, no fallacy is appropriate to the sacrament of truth. But this sacrament is of the greatest truth, because it contains the one who said, *I am the truth* (John 14:6). Therefore, since a fallacy results when accidents exist without a subject, for accidents, in themselves, signify that their proper substance is underlying, therefore it seems that it does not befit this sacrament for accidents to be without a subject.  
 
@@ -52,7 +54,7 @@ Furthermore (2), this sacrament is called the mystery of faith. But faith is not
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that accidents are not in this sacrament without substance.Parallels: *In I Sent*., d. 47, a. 4; *ST* III, q. 75, a. 5; q. 77, aa. 1–2; *SCG* IV, chs. 62–63, 65; *Quodl*. III, a. 1; *Quodl*. IX, q. 3; *De rationibus fidei*, ch. 8; *Super I ad Cor*. 11, lec. 5. For to be in a substance applies equally to all accidents. But whiteness is not here without a subject, which is clear from the fact that it is divided per accidens, which only belongs to something existing in a subject. Therefore, neither quantity nor any accident is here without a subject.***
+Obj. 1: Moreover, it seems that accidents are not in this sacrament without substance.Parallels: *In I Sent*., d. 47, a. 4; *ST* III, q. 75, a. 5; q. 77, aa. 1–2; *SCG* IV, chs. 62–63, 65; *Quodl*. III, a. 1; *Quodl*. IX, q. 3; *De rationibus fidei*, ch. 8; *Super I ad Cor*. 11, lec. 5. For to be in a substance applies equally to all accidents. But whiteness is not here without a subject, which is clear from the fact that it is divided per accidens, which only belongs to something existing in a subject. Therefore, neither quantity nor any accident is here without a subject.  
 
 Obj. 2: Furthermore, what the senses perceive in this sacrament is there according to truth; otherwise there would be false pretenses in this sacrament. But the senses do not only perceive there quantity or whiteness, but also a certain quantity and something white. Therefore, there are no accidents there without a subject.  
 
@@ -70,7 +72,7 @@ Furthermore (2), the species remain in the sacrament so that they may lead us by
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that as is said in the first proposition of the *Book of Causes: the first cause makes a more vehement impression on what is caused by a second cause than the second cause itself*.For the text of this proposition as well as discussion of it, see Thomas’s *Commentary on the Book of Causes*, 5–11. Hence when the second cause removes its own influence from what is caused, the first cause’s influence can still remain in what it caused; just as when rational is removed, living remains, and when that is removed, being remains. Since therefore the first cause of accidents, and of everything existing, is God, but the second cause of accidents is substance, for accidents are caused by the principles of substance, God could keep accidents in being while removing their second cause, namely, substance. And thus without any doubt it must be said that God can make accidents without a subject.***
+To the first question, I answer that as is said in the first proposition of the *Book of Causes: the first cause makes a more vehement impression on what is caused by a second cause than the second cause itself*.For the text of this proposition as well as discussion of it, see Thomas’s *Commentary on the Book of Causes*, 5–11. Hence when the second cause removes its own influence from what is caused, the first cause’s influence can still remain in what it caused; just as when rational is removed, living remains, and when that is removed, being remains. Since therefore the first cause of accidents, and of everything existing, is God, but the second cause of accidents is substance, for accidents are caused by the principles of substance, God could keep accidents in being while removing their second cause, namely, substance. And thus without any doubt it must be said that God can make accidents without a subject.  
 
 Reply Obj. 1: ‘To be present-in’ does not name the being of an accident absolutely, but rather the mode of being that belongs to an accident by its order to the proximate cause of its being. And since once an accident’s order to its proximate cause is removed, its order to its first clause can remain, according to which its mode of being is not being present-in, but being from another, in this way God can make something an accident and not present-in anything; however, he still will not remove an accident’s being from the accident, but its mode of being.  
 
@@ -80,7 +82,7 @@ Reply Obj. 3: Just as being in a subject is removed from the accidents in this s
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it was said above in the preceding distinction how it is appropriate to this sacrament that the accidents remain. But for the accidents to exist without a subject is fitting to this sacrament in many ways. First, in signification; for species existing without substance more expressly and directly lead us to the body of Christ, which is contained under them; for if they had a subject, they would lead directly to that subject. Second, because of the effect, which is the union of the members to the head, which happens by faith; and so in this sacrament it is necessary for something to be above nature, by which our understanding grows accustomed to the things of faith that are to be believed. Third, as to its use, which is a spiritual food; and so it is fitting that no subject that could be bodily food underlies the accidents. Fourth, as to perfection, for because this sacrament is the most perfect, all the things that are in this sacrament take on their highest state, like the fact that the bread’s substance is converted into the glorified body united to the divinity; and because of this it is given to the accidents to exist without subject in this sacrament.***
+To the second question, it should be said that it was said above in the preceding distinction how it is appropriate to this sacrament that the accidents remain. But for the accidents to exist without a subject is fitting to this sacrament in many ways. First, in signification; for species existing without substance more expressly and directly lead us to the body of Christ, which is contained under them; for if they had a subject, they would lead directly to that subject. Second, because of the effect, which is the union of the members to the head, which happens by faith; and so in this sacrament it is necessary for something to be above nature, by which our understanding grows accustomed to the things of faith that are to be believed. Third, as to its use, which is a spiritual food; and so it is fitting that no subject that could be bodily food underlies the accidents. Fourth, as to perfection, for because this sacrament is the most perfect, all the things that are in this sacrament take on their highest state, like the fact that the bread’s substance is converted into the glorified body united to the divinity; and because of this it is given to the accidents to exist without subject in this sacrament.  
 
 Reply Obj. 1: The divine disposing that orders something according to the general law also reserves to itself certain things to be done outside the general law for some privilege of grace to be communicated. Nor does any disordering follow from this, for divine disposing imposes order on every single thing.  
 
@@ -90,7 +92,7 @@ Reply Obj. 3: The power of transubstantiation is in the words; and so for there 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that some people said that the bread’s true substance remained under the sacrament together with the body of Christ; and according to this the accidents did not exist in this sacrament without a subject. But this opinion was disproved in the previous distinction.***
+To the third question, it should be said that some people said that the bread’s true substance remained under the sacrament together with the body of Christ; and according to this the accidents did not exist in this sacrament without a subject. But this opinion was disproved in the previous distinction.  
 
 The other opinion is that the substantial form remains there and in it are founded all the accidents that appear. But it is no less difficult to separate the material substantial form from the matter than to separate accidents from substances. And furthermore, quantities do not relate to form except by reason of matter, which is why immaterial forms lack dimensions. And so, since other accidents are referred to substance by means of quantity, no form existing without matter could be the subject of sensible accidents. Boethius also says in his book *On the Trinity* that a simple form cannot be a subject.Boethius, *Quomodo trinitas unus Deus ac non tres dii* [*De Trinitate*], ch. 2 (PL 64:1250; Loeb, “Opuscula Sacra,” pp. 8–12).  
 
@@ -116,7 +118,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: It seems that the accidents that remain in this sacrament cannot change something outside them.Parallels: *ST* III, q. 77, a. 3; *Resp. 35 ad Lector. Venetum*. For those things act on each other that share in matter, as is said in *On the Generation of Animals* 1.Aristotle, *On the Generation of Animals*, Bk. 1, ch. 6 (322b13). But those accidents do not share in matter with external bodies. Therefore, they cannot change them.***
+Obj. 1: It seems that the accidents that remain in this sacrament cannot change something outside them.Parallels: *ST* III, q. 77, a. 3; *Resp. 35 ad Lector. Venetum*. For those things act on each other that share in matter, as is said in *On the Generation of Animals* 1.Aristotle, *On the Generation of Animals*, Bk. 1, ch. 6 (322b13). But those accidents do not share in matter with external bodies. Therefore, they cannot change them.  
 
 Obj. 2: Furthermore, natural action requires natural contact, as is clear in *On the Generation of Animals* 1.Ibid., 322b22. But physical touch does not apply to mathematicals, i.e., separated dimensions, but only mathematical touch, just as also place, as it says in the same text. Therefore, since in this sacrament there are separated dimensions on which the other accidents are founded, as was said, it seems that they cannot act on anything extrinsic.  
 
@@ -128,7 +130,7 @@ Furthermore (2), everything that has being can act in some way: for no thing is 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that these accidents cannot substantially change anything extrinsic.Parallels: *ST* III, q. 77, a. 3; *Resp. 35 ad Lector. Venetum*. For what generates must be like what is generated. But every generated thing is composed of form and matter. Therefore, since these accidents are only forms, they cannot change something generated outside themselves. And the Philosopher uses this reasoning in the *Metaphysics* 7,Aristotle, *Metaphysics*, Bk. 7, ch. 8 (1033b20ff.). against Plato, who claimed that separated forms were the causes of sensible objects being generated.***
+Obj. 1: Moreover, it seems that these accidents cannot substantially change anything extrinsic.Parallels: *ST* III, q. 77, a. 3; *Resp. 35 ad Lector. Venetum*. For what generates must be like what is generated. But every generated thing is composed of form and matter. Therefore, since these accidents are only forms, they cannot change something generated outside themselves. And the Philosopher uses this reasoning in the *Metaphysics* 7,Aristotle, *Metaphysics*, Bk. 7, ch. 8 (1033b20ff.). against Plato, who claimed that separated forms were the causes of sensible objects being generated.  
 
 Obj. 2: Furthermore, nothing acts outside its own species, but always within it: for the effect is not nobler than the cause. But substance is nobler than any accident. Therefore, these accidents cannot generate any substance.  
 
@@ -136,7 +138,7 @@ On the contrary, these species have the same power that they had before transubs
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that those accidents cannot be corrupted in any way.Parallels: *ST* III, q. 77, a. 4; *SCG* IV, ch. 66; *Resp. 35 ad Lector. Venetum*. For those accidents are only forms. But form is something that consists of an invariable essence, as it says in the book of the *Six Principles*.Gilbert de la Porrée (Gilbertus Porretanus), *Sex principiis* (ed. Heysse), ch. 1, l. 4, pg. 8. Therefore, species like this can never be corrupted.***
+Obj. 1: Moreover, it seems that those accidents cannot be corrupted in any way.Parallels: *ST* III, q. 77, a. 4; *SCG* IV, ch. 66; *Resp. 35 ad Lector. Venetum*. For those accidents are only forms. But form is something that consists of an invariable essence, as it says in the book of the *Six Principles*.Gilbert de la Porrée (Gilbertus Porretanus), *Sex principiis* (ed. Heysse), ch. 1, l. 4, pg. 8. Therefore, species like this can never be corrupted.  
 
 Obj. 2: Furthermore, every thing subsisting on its own without matter is incorruptible: for matter is the principle of corruption, as is seen in the cases of angels and souls. But these species are forms subsisting without matter. Therefore, they are incorruptible.  
 
@@ -148,7 +150,7 @@ Furthermore (2), as long as the species remain, the body of Christ also remains 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that nothing can be generated from them.Parallels: *ST* III, q. 77, a. 5; *SCG* IV, ch. 66; *Quodl*. IX, a. 5, ad 3; *Super I ad Cor*. 11, lec. 4. For corruption is opposed to generation or making. But everything that does not have matter as part of it, if it is made, must be made out of nothing. Therefore, if it is corrupted, it must tend toward nothing, and nothing be made from it.***
+Obj. 1: Moreover, it seems that nothing can be generated from them.Parallels: *ST* III, q. 77, a. 5; *SCG* IV, ch. 66; *Quodl*. IX, a. 5, ad 3; *Super I ad Cor*. 11, lec. 4. For corruption is opposed to generation or making. But everything that does not have matter as part of it, if it is made, must be made out of nothing. Therefore, if it is corrupted, it must tend toward nothing, and nothing be made from it.  
 
 Obj. 2: Furthermore, substance and accident are more different than body and spirit. But spirit cannot be made from a body, as is clear in the book *On the Two Natures*.Boethius, *Liber de persona et duabus naturis contra Eutychen et Nestorium*, ch. 6 (PL 64:1349; Loeb ed., pp. 108–9). Therefore, from those species that are accidents alone, no substance can be generated.  
 
@@ -162,7 +164,7 @@ Furthermore (2), Innocent says, *in anything where a likeness would be lacking, 
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that it cannot nourish.Parallels: *ST* III, q. 77, a. 6; *SCG* IV, ch. 66; *Super I ad Cor*. 11, lec. 4. For all food that nourishes changes into the body, and excesses are expelled from it. But this food does not go into the body, as Ambrose says in the text.See Lombard, d. 12, ch. 4, n. 3, citing Ambrose, *De sacramentis* (CSEL 73), Bk. 5, ch. 4, nn. 24–25. Therefore, it does not nourish.***
+Obj. 1: Moreover, it seems that it cannot nourish.Parallels: *ST* III, q. 77, a. 6; *SCG* IV, ch. 66; *Super I ad Cor*. 11, lec. 4. For all food that nourishes changes into the body, and excesses are expelled from it. But this food does not go into the body, as Ambrose says in the text.See Lombard, d. 12, ch. 4, n. 3, citing Ambrose, *De sacramentis* (CSEL 73), Bk. 5, ch. 4, nn. 24–25. Therefore, it does not nourish.  
 
 Obj. 2: Furthermore, *we are nourished by the same things of which we are made*, as is said in *On Generation and Corrupton* 2.Aristotle, *On Generation and Corruption*, Bk. 2, ch. 8 (335a10). But we are not made from accidents. Therefore, we are not nourished by them.  
 
@@ -174,7 +176,7 @@ Furthermore (2), nothing takes away thirst or hunger except what nourishes. But 
 
 Quaestiuncula 6  
 
-***Obj. 1: Moreover, it seems that no liquid could be mixed with those species.Parallels: *ST* III, q. 77, a. 8; *Quodl*. X, q. 1, a. 3. For as the Philosopher proves in *On Generation and Corruption* 1, accidents do not mix with substance.Aristotle, *On Generation and Corruption*, Bk. 1, ch. 10 (327b20–23). But any liquid is a kind of substance. Therefore, since those species are only accidents, it seems that nothing can be mixed with them.***
+Obj. 1: Moreover, it seems that no liquid could be mixed with those species.Parallels: *ST* III, q. 77, a. 8; *Quodl*. X, q. 1, a. 3. For as the Philosopher proves in *On Generation and Corruption* 1, accidents do not mix with substance.Aristotle, *On Generation and Corruption*, Bk. 1, ch. 10 (327b20–23). But any liquid is a kind of substance. Therefore, since those species are only accidents, it seems that nothing can be mixed with them.  
 
 Obj. 2: Furthermore, just as this sacrament is consecrated under a certain form of words, so also is holy water. But if water is mixed with holy water, it makes all of it holy. Therefore, if any liquid can be mixed with consecrated wine, it would make all of it consecrated; and then that liquid would have changed into the blood of Christ without the form of the words, which is false.  
 
@@ -190,7 +192,7 @@ Furthermore (2), it is a bigger thing to be corrupted than to be mixed into some
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that to act only belongs to a thing subsisting on its own; and so neither matter nor form acts, but only a composite, which nevertheless does not act by reason of its matter, but by reason of its form, which is act, and the principle of action. And since quantity holds itself on the part of the matter, and quality on the part of the form, for this reason quantity acts only by means of quality, which is *per se* the principle of action; hence qualities are sensible first, quantities second. Therefore, because in the sacrament quantities retain the same mode of being that they had when the bread’s substance existed, for this reason they have the same mode of acting, so that they change and act naturally as before. For the quantity, which has a different mode of being since it is not in a subject, only acts by means of quality.***
+To the first question, I answer that to act only belongs to a thing subsisting on its own; and so neither matter nor form acts, but only a composite, which nevertheless does not act by reason of its matter, but by reason of its form, which is act, and the principle of action. And since quantity holds itself on the part of the matter, and quality on the part of the form, for this reason quantity acts only by means of quality, which is *per se* the principle of action; hence qualities are sensible first, quantities second. Therefore, because in the sacrament quantities retain the same mode of being that they had when the bread’s substance existed, for this reason they have the same mode of acting, so that they change and act naturally as before. For the quantity, which has a different mode of being since it is not in a subject, only acts by means of quality.  
 
 Reply Obj. 1: The matter of an accident is its proximate subject, but the proximate subject of corporeal quality is quantity, like the surface of a color; and so quality which is the principle of action shares in some way in matter with those things that are outside, because on both sides quantity is found to be underlying.  
 
@@ -200,7 +202,7 @@ Reply Obj. 3: As to accidental change it is found to be similar enough on both s
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in natural actions substantial forms are not an immediate and proximate principle of action, but they act by means of active and passive qualities as by their proper instruments; as it says in *On the Soul* 2, natural heat is that by which the soul acts.Aristotle, *On the Soul*, Bk. 2, ch. 4 (416b25–30). And so qualities do not act only in their proper power, but also in the power of substantial form. And for this reason their action terminates not only in accidental form, but also in substantial form; and because of this, generation is the terminus of alteration. However, they receive instrumental power of this kind by the very fact of being caused by essential principles. And so just as when the substances are removed the same being remains in the accidents according to species by divine power, so also the same power remains in them that they had previously; and thus just as before they could change a substantial form, so too now.***
+To the second question, it should be said that in natural actions substantial forms are not an immediate and proximate principle of action, but they act by means of active and passive qualities as by their proper instruments; as it says in *On the Soul* 2, natural heat is that by which the soul acts.Aristotle, *On the Soul*, Bk. 2, ch. 4 (416b25–30). And so qualities do not act only in their proper power, but also in the power of substantial form. And for this reason their action terminates not only in accidental form, but also in substantial form; and because of this, generation is the terminus of alteration. However, they receive instrumental power of this kind by the very fact of being caused by essential principles. And so just as when the substances are removed the same being remains in the accidents according to species by divine power, so also the same power remains in them that they had previously; and thus just as before they could change a substantial form, so too now.  
 
 Reply Obj. 1: We do not at all posit separate qualities like this, as Plato posited natural forms, since we posit for the subject what was first their proximate subject; and so it is not the same argument here as there. Nevertheless, what generates here is also not at all similar to what is generated: for what is generated is substance, but what generates is not. But the reason this happens is because, as was said, qualities like this have an instrumental power of generating. But what is generated need not resemble the instrument, but only the chief thing generating, as the Commentator says in the *Metaphysics* 11,Averroes, *Metaphysics*, Bk. 11, text 13. for an instrument does not act by its own power, but by another’s power, and it resembles that thing, not the instrument; which is why the generated here resembles the substance that was formerly there. But Plato did not consider separated forms as things that generate instrumentally, but as first and chief causes of generation.  
 
@@ -208,7 +210,7 @@ Reply Obj. 2: Nothing acts by its proper power outside its own species; but by t
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that each and every thing has being proper to its own species. For being is not of one species in all things, just as neither is animality of one species in all animals, nor is humanity the same in number among all men, just as also each thing has its own proper action. Hence, just as in the qualities that remain in the sacrament there remains an action like the action of the substance that previously existed, so also the subsistent being that shares the dimensions that remain is like that being that the bread’s substance formerly had. Hence just as the quality performs the same action that it performed before, when the substance of the bread and wine existed, so the being in which the dimensions subsist is destroyed by the same occurrences that would have destroyed it before, when the same substance existed. And because of this the remaining accidents are corrupted in the same way as they would have been corrupted before.***
+To the third question, it should be said that each and every thing has being proper to its own species. For being is not of one species in all things, just as neither is animality of one species in all animals, nor is humanity the same in number among all men, just as also each thing has its own proper action. Hence, just as in the qualities that remain in the sacrament there remains an action like the action of the substance that previously existed, so also the subsistent being that shares the dimensions that remain is like that being that the bread’s substance formerly had. Hence just as the quality performs the same action that it performed before, when the substance of the bread and wine existed, so the being in which the dimensions subsist is destroyed by the same occurrences that would have destroyed it before, when the same substance existed. And because of this the remaining accidents are corrupted in the same way as they would have been corrupted before.  
 
 Now there are two ways they could have been corrupted before. In one way, with the substance of the subject remaining, by a certain accidental change: as according to a certain alteration in the qualities, the wine could change color or flavor; and then the color that had been there before, or the flavor, would have been corrupted. But quantities could not have been corrupted in the way mentioned by a movement in quantity, namely, increase, for wine and bread are not animate bodies that can be the subjects of increase and diminution, except by addition and division. For according to the Philosopher in the *Metaphysics* 3,Aristotle, *Metaphysics*, Bk. 3, ch. 5 (1002b1). in the addition of one quantity to another, one quantity begins to exist when two cease to exist, and the reverse happens in division. In the other way, by the corruption of the substance, which does indeed happen by the transformation of accidents, either on the part of the qualities, for, like generation, corruption is a terminus of change; or on the part of the quantity: for since each natural thing has a determinate quantity, inasmuch as a division could be made that species will not remain.  
 
@@ -222,7 +224,7 @@ Reply Obj. 3: It is miraculous for species to remain in this way, but the fact t
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that some people say that although those species can be corrupted and spoiled, nevertheless, worms and the like are not generated by this spoiling or corruption. But this is nothing. For it is clear that when the accidents are corrupted, they do not cease in such a way that they disappear altogether, as if they were entirely destroyed, but something sensible replaces those accidents, and this must be something newly generated. Nor does it make a difference what it is—-whether it is worms, or dust, or anything like that—-for there is the same difficulty with all of them.***
+To the fourth question, it should be said that some people say that although those species can be corrupted and spoiled, nevertheless, worms and the like are not generated by this spoiling or corruption. But this is nothing. For it is clear that when the accidents are corrupted, they do not cease in such a way that they disappear altogether, as if they were entirely destroyed, but something sensible replaces those accidents, and this must be something newly generated. Nor does it make a difference what it is—-whether it is worms, or dust, or anything like that—-for there is the same difficulty with all of them.  
 
 And so other people have said that the substance of bread remains there, from which other things can be generated materially. But this opinion was disproved above.See d. 11, q. 1, a. 1, qa. 1. And so others have said that by the mutual action of the sacrament’s accidents and the surrounding bodies worms are generated from the air around. But this does not seem to be true, for those accidents do not have any other action there than they would have if the substance remained; but when the substance existed, it could not generate worms out of the air, or dust, by such an action; and so neither can it now.  
 
@@ -256,7 +258,7 @@ Reply Obj. 4: According to any position it is necessary to hold that something i
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that some people have said that these species do not nourish us, but refresh and inebriate by accidental change alone, just as some people are inebriated by the odor of wine, and they are refreshed and lose their hunger from the flavor and odor of food. But this cannot be, for a change like this, although it might refresh one for the moment, nevertheless cannot sustain one; which nevertheless those species would do if they were consumed in great quantity. And so others have said that the substantial form of the bread remains and it has the same operation as bread does, and so it nourishes just like bread would. But this cannot be, for the operation of form is not to suffer but to act; however, nourishment does not nourish unless it is converted into the substance of what is nourished, and so it nourishes according as it suffers, and according as something is generated from it, which cannot be said about form. And so it should be said that since something is generated from those species by the way mentioned, they can also nourish in the same way.***
+To the fifth question, it should be said that some people have said that these species do not nourish us, but refresh and inebriate by accidental change alone, just as some people are inebriated by the odor of wine, and they are refreshed and lose their hunger from the flavor and odor of food. But this cannot be, for a change like this, although it might refresh one for the moment, nevertheless cannot sustain one; which nevertheless those species would do if they were consumed in great quantity. And so others have said that the substantial form of the bread remains and it has the same operation as bread does, and so it nourishes just like bread would. But this cannot be, for the operation of form is not to suffer but to act; however, nourishment does not nourish unless it is converted into the substance of what is nourished, and so it nourishes according as it suffers, and according as something is generated from it, which cannot be said about form. And so it should be said that since something is generated from those species by the way mentioned, they can also nourish in the same way.  
 
 Reply Obj. 1: When it is said that *this does not change into the body*, this is to be understood of the reality contained under the sacrament, namely, the true body of Christ, which is not changed into the one eating it, but changes that person into itself spiritually. But the species are converted into the body of the one eating, just as also they can be converted into some other body, as was said.  
 
@@ -266,7 +268,7 @@ Reply Obj. 3: That nourishment is not entirely according to the order of nature,
 
 Response to Quaestiuncula 6  
 
-***To the sixth question, it should be said that certain people say that if any liquid is added to the species of wine in any quantity whatsoever, the body of Christ immediately ceases to exist there. For those dimensions do not remain the same, and added liquid is diffused throughout the whole. And so since the body of Christ does not exist under the species with another body, the body of Christ must cease to exist in all of it.***
+To the sixth question, it should be said that certain people say that if any liquid is added to the species of wine in any quantity whatsoever, the body of Christ immediately ceases to exist there. For those dimensions do not remain the same, and added liquid is diffused throughout the whole. And so since the body of Christ does not exist under the species with another body, the body of Christ must cease to exist in all of it.  
 
 But this position cannot stand. For it is clear that the body of Christ remains as long as those accidents remain; but those accidents are not corrupted in any way other than the substance of bread and wine would be corrupted. But it is clear that wine would not be destroyed by having a little liquid added to it, and so neither would the species of wine that remain. For the arguments given are not compelling. First, because not every destruction of dimensions destroys the sacrament, for just as addition makes new dimensions, so does division, as is evident from what the Philosopher has said. But division does not take away the truth of the sacrament, as is clear in the fact that the bread is broken. Therefore, neither would addition, for the kind of difference in dimensions that an addition or division like this causes, has to do with their very determination, not their indeterminate being according to which it belongs to them to subsist, nor the being by which they subsist like the former substance. In the same way, it is clear that a little liquid cannot be diffused throughout all the dimensions, unless it were thinned out and transformed into another species. Hence it is not necessary that it occupy all the dimensions.  
 
@@ -288,7 +290,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third we proceed thus.Parallels: *ST* III, q. 77, a. 7; *SCG* IV, ch. 67; *Super I ad Cor.* 11, lec. 5. It seems that the true body of Christ is broken in the sacrament. For everything that is eaten is chewed and broken. But the true body of Christ is eaten: *who eats my flesh*, etc. (John 6:57). Therefore, it is also broken.***
+Obj. 1: To the third we proceed thus.Parallels: *ST* III, q. 77, a. 7; *SCG* IV, ch. 67; *Super I ad Cor.* 11, lec. 5. It seems that the true body of Christ is broken in the sacrament. For everything that is eaten is chewed and broken. But the true body of Christ is eaten: *who eats my flesh*, etc. (John 6:57). Therefore, it is also broken.  
 
 Obj. 2: Furthermore, this sacrament is a memorial of the Lord’s Passion. But in the Passion, the body of Christ itself was pierced by nails and by a lance. Therefore, in the sacrament the body of Christ is broken.  
 
@@ -300,7 +302,7 @@ Furthermore (2), every breakable body can suffer. But the body of Christ is impa
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that neither are the appearances broken. For the sign must correspond to what is represented. But the species are the sign of the body of Christ. Since therefore the true body of Christ is not broken, neither are the species themselves broken.***
+Obj. 1: Moreover, it seems that neither are the appearances broken. For the sign must correspond to what is represented. But the species are the sign of the body of Christ. Since therefore the true body of Christ is not broken, neither are the species themselves broken.  
 
 Obj. 2: Furthermore, according to the Philosopher in the *Meteorology* 4,Aristotle, *Meteorology*, Bk. 4, ch. 9 (386a14ff.). corporeal things are said to be breakable and crumbleable according to the particular disposition of their pores. But those species do not have pores, for under all the species’ parts the body of Christ exists equally, and under no part does anything else exist. Therefore, those species can neither be broken nor crumbled.  
 
@@ -312,7 +314,7 @@ Furthermore (2), it belongs to quantity to be divided more than to be corrupted,
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the signification of the breaking of the parts is unfittingly assigned in the text. For the parts of the breaking correspond to the breaking. But the breaking signifies the Passion of Christ, as is said in the text. Therefore, the parts of the breaking should signify the parts of the true body of Christ, into which his body was divided by the Passion.***
+Obj. 1: Moreover, it seems that the signification of the breaking of the parts is unfittingly assigned in the text. For the parts of the breaking correspond to the breaking. But the breaking signifies the Passion of Christ, as is said in the text. Therefore, the parts of the breaking should signify the parts of the true body of Christ, into which his body was divided by the Passion.  
 
 Obj. 2: Furthermore, this sacrament is the supreme sacrament of union. But the distinction of parts is opposed to union. Therefore, it does not befit this sacrament for the different parts of the mystical body to be signified.  
 
@@ -328,7 +330,7 @@ Obj. 7: Furthermore, just as the members are distinguished from each other, so a
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, as was said above, the body of Christ is not related to the species under which it is contained by means of its own dimensions; on the contrary, its dimensions are there somehow as a result. And so whatever applies to the body of Christ by means of its own dimensions does not apply to it according as it is under the sacrament. Therefore, since quantitative division cannot apply to it except by means of its proper dimensions, it is evident that in the breaking of the species, the body itself is neither divided nor broken, even if it were passible, as it was at the Last Supper.***
+To the first question, I answer that, as was said above, the body of Christ is not related to the species under which it is contained by means of its own dimensions; on the contrary, its dimensions are there somehow as a result. And so whatever applies to the body of Christ by means of its own dimensions does not apply to it according as it is under the sacrament. Therefore, since quantitative division cannot apply to it except by means of its proper dimensions, it is evident that in the breaking of the species, the body itself is neither divided nor broken, even if it were passible, as it was at the Last Supper.  
 
 Reply Obj. 1: In eating there are many things, both breaking or chewing, as well as swallowing down into the stomach, and nourishing. However, the first belongs to these species alone; but the second applies both to the species containing and to the body contained: for wherever the species are, there is the true body of Christ. But the third, if we are speaking spiritually, applies to the body of Christ, but if we are speaking physically, to the species, as has been said. And so eating does apply to the body of Christ in a certain way, but not breaking or dividing.  
 
@@ -338,7 +340,7 @@ Reply Obj. 3: Material substantial form has an order to the dimensions in a cert
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that some people said that the breaking, according to the truth of things, did not exist in this sacrament. But this cannot be, because breaking implies something that happens to something else, or a certain motion, and a multitude in which the motion terminates; and either of these is sensible in itself. For there are common sensible objects which are divided against things that are incidentally sensible in *On the Soul* 2;Aristotle, *On the Soul*, Bk. 2, ch. 6 (418a7ff.). and so the judgment of these things pertains to the sensitive part. And that is why since the senses judge there to be a breaking, if there were not a breaking, it would be a false judgment, which does not befit the sacrament of truth. And therefore others have said that there is a breaking there without a subject. But this cannot be said, for a breaking, since it is a certain motion according to the definition of its species, requires a starting terminus and an ending terminus. And so it is necessary that it be one thing that is divided into many, and this is the subject of the breaking. And furthermore, action and passion have weaker being than quality; and so since we posit qualities to exist in this sacrament in the subject, much more should passion. And so, since breaking cannot be in the body of Christ as in a subject, as was said, it is necessary that it be in the species.***
+To the second question, it should be said that some people said that the breaking, according to the truth of things, did not exist in this sacrament. But this cannot be, because breaking implies something that happens to something else, or a certain motion, and a multitude in which the motion terminates; and either of these is sensible in itself. For there are common sensible objects which are divided against things that are incidentally sensible in *On the Soul* 2;Aristotle, *On the Soul*, Bk. 2, ch. 6 (418a7ff.). and so the judgment of these things pertains to the sensitive part. And that is why since the senses judge there to be a breaking, if there were not a breaking, it would be a false judgment, which does not befit the sacrament of truth. And therefore others have said that there is a breaking there without a subject. But this cannot be said, for a breaking, since it is a certain motion according to the definition of its species, requires a starting terminus and an ending terminus. And so it is necessary that it be one thing that is divided into many, and this is the subject of the breaking. And furthermore, action and passion have weaker being than quality; and so since we posit qualities to exist in this sacrament in the subject, much more should passion. And so, since breaking cannot be in the body of Christ as in a subject, as was said, it is necessary that it be in the species.  
 
 Reply Obj. 1: The sign corresponds to what it represents in what it was, but not as to what it is, for this sacrament is a commemorative sign with regard to the Lord’s Passion.  
 
@@ -348,7 +350,7 @@ Reply Obj. 3: Whatever of the species that exists in one portion is not in the o
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that just as in this sacrament there is a twofold reality of the sacrament, namely, the true and the mystical body of Christ, so also the breaking signifies two things, namely the very division of the true body, which happened in his Passion, and this signification is referred to in the text; and the distribution of the power of Christ’s redemption through the diverse members of the Church, and Dionysius refers to this signification in Chapter 3 of the *Ecclesiastical Hierarchy*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, p. 3, n. 13 (PG 3:443). And according to this the signification of the parts is taken according to the different states of the members. For some people are still living, and these are represented by the part that is eaten; for they are ground by different penalties, and they are in this very motion so that they may be incorporated into Christ. Certain others are dead; and these are in two states. For some are in the full participation of blessedness; and this is the body of Christ that has already risen, like Christ himself and the Blessed Virgin; and these are represented by the part placed into the chalice, for *they are inebriated with the richness of the house of God* (Ps 35:9). But some others are in the expectation of full blessedness, who either have only the soul’s garment, or neither, like those who are in purgatory; and these are represented by the third part which is reserved until the end: for these people will receive perfect glory at the end of the world, and meanwhile they rest in appearances.***
+To the third question, it should be said that just as in this sacrament there is a twofold reality of the sacrament, namely, the true and the mystical body of Christ, so also the breaking signifies two things, namely the very division of the true body, which happened in his Passion, and this signification is referred to in the text; and the distribution of the power of Christ’s redemption through the diverse members of the Church, and Dionysius refers to this signification in Chapter 3 of the *Ecclesiastical Hierarchy*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, p. 3, n. 13 (PG 3:443). And according to this the signification of the parts is taken according to the different states of the members. For some people are still living, and these are represented by the part that is eaten; for they are ground by different penalties, and they are in this very motion so that they may be incorporated into Christ. Certain others are dead; and these are in two states. For some are in the full participation of blessedness; and this is the body of Christ that has already risen, like Christ himself and the Blessed Virgin; and these are represented by the part placed into the chalice, for *they are inebriated with the richness of the house of God* (Ps 35:9). But some others are in the expectation of full blessedness, who either have only the soul’s garment, or neither, like those who are in purgatory; and these are represented by the third part which is reserved until the end: for these people will receive perfect glory at the end of the world, and meanwhile they rest in appearances.  
 
 Reply Obj. 1: The true body of Christ itself signifies the mystical body of Christ; hence parts of the true body signify parts of the mystical body.  
 
@@ -368,7 +370,7 @@ Question 2
 
 ***The effects of holy Communion***
 
-***Next this sacrament’s effect is considered. And concerning this, two questions arise:***
+Next this sacrament’s effect is considered. And concerning this, two questions arise:  
 
 first, its effect in bringing about good;  
 
@@ -379,7 +381,7 @@ first, its effect in bringing about good;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallel: *ST* III, q. 79, a. 1. It seems that virtues are not increased by this sacrament. For different effects come from different causes. But the increase of virtue is an effect of baptism, and also confirmation, as was said above.See d. 4, q. 2, a. 2; d. 7, q. 2, a. 2. Therefore, it is not an effect of the Eucharist.***
+Obj. 1: To the first we proceed thus.Parallel: *ST* III, q. 79, a. 1. It seems that virtues are not increased by this sacrament. For different effects come from different causes. But the increase of virtue is an effect of baptism, and also confirmation, as was said above.See d. 4, q. 2, a. 2; d. 7, q. 2, a. 2. Therefore, it is not an effect of the Eucharist.  
 
 Obj. 2: Furthermore, by the increase of charity one comes to the perfection of charity. If therefore charity and the other virtues are increased by this sacrament, it could be received so many times that a man might arrive at perfect charity and its highest degree in this life; which only happens in the heavenly fatherland, as Augustine says.Augustine, *De perfectione iustitiae hominis* (CSEL 42), ch. 3.  
 
@@ -391,7 +393,7 @@ Furthermore (2), this sacrament’s effect is the fullness of grace, as is clear
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that this sacrament could also benefit the blessed in the increase of glory. For in the collect of the Mass of blessed Pope Leo, as Innocent says, it is said thus: *favor us, Lord, that this offering may benefit the soul of your servant Leo*.See the Decretalium Gregorii papae IX compilationis, Bk. 3, title 41, ch. 6, “Quum [cum] Martha,” retrieved from http://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/GregoriusIX/gre_3t41.html on January 30, 2015. But it is clear that blessed Leo is in glory. Therefore, it benefits the blessed in an increase of glory.***
+Obj. 1: Moreover, it seems that this sacrament could also benefit the blessed in the increase of glory. For in the collect of the Mass of blessed Pope Leo, as Innocent says, it is said thus: *favor us, Lord, that this offering may benefit the soul of your servant Leo*.See the Decretalium Gregorii papae IX compilationis, Bk. 3, title 41, ch. 6, “Quum [cum] Martha,” retrieved from http://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/GregoriusIX/gre_3t41.html on January 30, 2015. But it is clear that blessed Leo is in glory. Therefore, it benefits the blessed in an increase of glory.  
 
 Obj. 2: Furthermore, this sacrament is offered also for those children who die in baptismal innocence. But it is obvious that they pass on to glory. Therefore, this sacrament also benefits them in an increase of glory.  
 
@@ -399,7 +401,7 @@ On the contrary, the sacraments of the Church do not benefit anyone who is not i
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that this sacrament’s effect cannot be impeded by anything but mortal sin.Parallel: *ST* III, q. 79, a. 8. For just as Ambrose says in the text, *he eats spiritually who bears his innocence to the altar*.In the text of Lombard this saying is not attributed to any particular author. The Moos edition gives as its source Ivo of Chartres, *Decretum*, p. 2, ch. 4 (PL 161:137). But whoever approaches without mortal sin, bears his innocence to the altar, for venial sins do not destroy innocence. Since, then, whoever receives Communion spiritually receives the sacrament’s effect, it seems that the sacrament’s effect cannot be impeded by anything but mortal sin.***
+Obj. 1: Moreover, it seems that this sacrament’s effect cannot be impeded by anything but mortal sin.Parallel: *ST* III, q. 79, a. 8. For just as Ambrose says in the text, *he eats spiritually who bears his innocence to the altar*.In the text of Lombard this saying is not attributed to any particular author. The Moos edition gives as its source Ivo of Chartres, *Decretum*, p. 2, ch. 4 (PL 161:137). But whoever approaches without mortal sin, bears his innocence to the altar, for venial sins do not destroy innocence. Since, then, whoever receives Communion spiritually receives the sacrament’s effect, it seems that the sacrament’s effect cannot be impeded by anything but mortal sin.  
 
 Obj. 2: Furthermore, baptism is not a nobler sacrament than this one. But nothing impedes baptism’s effect except mortal sin. Therefore, not this sacrament’s effect either.  
 
@@ -411,7 +413,7 @@ Furthermore (2), for an adult to receive grace, he must have prepared himself fo
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the proper effect of any sacrament should be gathered from a likeness to the matter of that sacrament; just as the purification of the old life is the effect of baptism, signified by the cleansing of water. And so since the matter in this sacrament is food, the sacrament’s proper effect must be taken from a likeness to the effect of food. Now physical food is first converted into what has been fed, and by this conversion it restores what has been lost, and increases quantity. But spiritual food is not converted into the one eating it, but converts him to itself. And this is why the proper effect of this sacrament is a man’s conversion into Christ, so that he may say with the Apostle, *I live; not I but Christ lives in me* (Gal 2:20). And for this two effects follow: increase of spiritual quantity in the increase of virtues, and restoration of what has been lost in the remission of venial sins, or the reparation of any previous defects.***
+To the first question, I answer that the proper effect of any sacrament should be gathered from a likeness to the matter of that sacrament; just as the purification of the old life is the effect of baptism, signified by the cleansing of water. And so since the matter in this sacrament is food, the sacrament’s proper effect must be taken from a likeness to the effect of food. Now physical food is first converted into what has been fed, and by this conversion it restores what has been lost, and increases quantity. But spiritual food is not converted into the one eating it, but converts him to itself. And this is why the proper effect of this sacrament is a man’s conversion into Christ, so that he may say with the Apostle, *I live; not I but Christ lives in me* (Gal 2:20). And for this two effects follow: increase of spiritual quantity in the increase of virtues, and restoration of what has been lost in the remission of venial sins, or the reparation of any previous defects.  
 
 Reply Obj. 1: Increase can be said in two ways. In one way, commonly, as it is found in living things and non-living things, according to which any addition makes an increase; and in this way the virtues are increased by all the sacraments that find grace in the subject, by the fact that it is their nature to cause grace. In another way, increase is said properly, as it exists in living things by the union of nourishment; and this kind of increase of the virtues is more proper to this sacrament.  
 
@@ -421,7 +423,7 @@ Reply Obj. 3: It is proper to charity for the lover to be transformed into the b
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that glory encompasses the reward of the saints, which is twofold: namely, the essential prize, the joy that they have in the divinity; and the incidental prize, which is the joy that they have in any created good. As to the essential prize, according to the more probable opinion, their glory cannot be increased; but as to the incidental prize, it can be increased up until the day of judgment, otherwise their joy would not be increased on that day with the glory of the body. And this is why glory grows in them from every benefit, for *there is joy among the angels of God over the repentance of one sinner* (Luke 15:10). And thus also they rejoice in everything that is done to honor God, and especially those things whereby we thank God for their glory. And so, simply speaking, with regard to the essence of glory, this sacrament does not increase the glory of the blessed; but in a certain respect, namely, the incidental reward, it does increase it.***
+To the second question, it should be said that glory encompasses the reward of the saints, which is twofold: namely, the essential prize, the joy that they have in the divinity; and the incidental prize, which is the joy that they have in any created good. As to the essential prize, according to the more probable opinion, their glory cannot be increased; but as to the incidental prize, it can be increased up until the day of judgment, otherwise their joy would not be increased on that day with the glory of the body. And this is why glory grows in them from every benefit, for *there is joy among the angels of God over the repentance of one sinner* (Luke 15:10). And thus also they rejoice in everything that is done to honor God, and especially those things whereby we thank God for their glory. And so, simply speaking, with regard to the essence of glory, this sacrament does not increase the glory of the blessed; but in a certain respect, namely, the incidental reward, it does increase it.  
 
 Reply Obj. 1: As Innocent resolves it, wherever such a mode of speaking is found, it should be understood as benefiting him such that he is glorified by the faithful more and more on earth.  
 
@@ -429,7 +431,7 @@ Reply Obj. 2: The solemn Masses are celebrated for baptized children, not becaus
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that every perfection to be acquired is impeded by the removal of its proper disposition. But just as material dispositions are ordered to the perfection of form, so acts are ordered to the perfection of the end. And therefore since this sacrament perfects by uniting to the end, as was said above, in order for it to have its own effect fully in the one who receives it, there must be actual devotion present. And since sometimes actual devotion can be impeded without mortal sin, since various distractions impede it, and venial sins destroy the act of the virtues, this sacrament’s effect can be impeded without mortal sin so that someone does not receive the increase of grace; but neither would he have become guilty of mortal sin, but perhaps guilty of venial sin, by the fact that he approaches the sacrament without proper preparation.***
+To the third question, it should be said that every perfection to be acquired is impeded by the removal of its proper disposition. But just as material dispositions are ordered to the perfection of form, so acts are ordered to the perfection of the end. And therefore since this sacrament perfects by uniting to the end, as was said above, in order for it to have its own effect fully in the one who receives it, there must be actual devotion present. And since sometimes actual devotion can be impeded without mortal sin, since various distractions impede it, and venial sins destroy the act of the virtues, this sacrament’s effect can be impeded without mortal sin so that someone does not receive the increase of grace; but neither would he have become guilty of mortal sin, but perhaps guilty of venial sin, by the fact that he approaches the sacrament without proper preparation.  
 
 Reply Obj. 1: Someone bearing his innocence eats spiritually in habit, but not always in act. And in order to receive the effect of the sacrament, one must eat spiritually in act.  
 
@@ -443,7 +445,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallels: *ST* III, q. 79, a. 4; q. 87, a. 3. It seems that venial sins are not forgiven by the power of this sacrament. For if one thing is forgiven, by the same reasoning another should be. But all sins are not forgiven, for then someone would be without any venial sin often; which is against what is said: *if we say that we have no sin, we deceive ourselves* (1 John 1:8). Therefore, it does not erase any venial sin.***
+Obj. 1: To the second question we proceed thus.Parallels: *ST* III, q. 79, a. 4; q. 87, a. 3. It seems that venial sins are not forgiven by the power of this sacrament. For if one thing is forgiven, by the same reasoning another should be. But all sins are not forgiven, for then someone would be without any venial sin often; which is against what is said: *if we say that we have no sin, we deceive ourselves* (1 John 1:8). Therefore, it does not erase any venial sin.  
 
 Obj. 2: Furthermore, sin is only blotted out by what is opposed to it. But venial sin is not opposed to grace, which this sacrament confers. Therefore, venial sins are not forgiven by the power of this sacrament.  
 
@@ -455,7 +457,7 @@ Furthermore (2), as can be drawn from the words of Ambrose quoted in the text, t
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that also mortal sins are forgiven by the power of this sacrament.Parallels: above, d. 9, a. 3, qa. 2; *ST* III, q. 79, a. 3. For it is said in one collect of the Mass: *May the sacraments we receive purify us, we beg, Lord*, and then, *Grant that this your sacrament may be for the cleansing of crimes*.These phrases are found in the third Lenten postcommunion, “for the Living and the Dead,” found in missals printed prior to the reduction of orations to one set only. But crimes mean mortal sins. Therefore, it takes away mortal sins.***
+Obj. 1: Moreover, it seems that also mortal sins are forgiven by the power of this sacrament.Parallels: above, d. 9, a. 3, qa. 2; *ST* III, q. 79, a. 3. For it is said in one collect of the Mass: *May the sacraments we receive purify us, we beg, Lord*, and then, *Grant that this your sacrament may be for the cleansing of crimes*.These phrases are found in the third Lenten postcommunion, “for the Living and the Dead,” found in missals printed prior to the reduction of orations to one set only. But crimes mean mortal sins. Therefore, it takes away mortal sins.  
 
 Obj. 2: Furthermore, this sacrament represents Christ’s Passion more explicitly than baptism. But baptism takes away mortal sins by the power of the Passion working in it. Therefore, so does this sacrament.  
 
@@ -469,7 +471,7 @@ Furthermore (2), this sacrament does not have any effect in those who approach i
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that it remits the punishment for mortal sin.Parallels: above, d. 4, q. 2, a. 1, qa. 2, ad 3; *ST* III, q. 79, a. 5. For God is more prone to having mercy than to punishing, as the Gloss on the beginning of the book of Jeremiah says.From Origen’s *Homilies on Jeremiah*, Hom. 1 (PG 13:225). But someone approaching this sacrament unworthily is culpable for the punishment of mortal sin. Therefore, someone approaching worthily is absolved of it.***
+Obj. 1: Furthermore, it seems that it remits the punishment for mortal sin.Parallels: above, d. 4, q. 2, a. 1, qa. 2, ad 3; *ST* III, q. 79, a. 5. For God is more prone to having mercy than to punishing, as the Gloss on the beginning of the book of Jeremiah says.From Origen’s *Homilies on Jeremiah*, Hom. 1 (PG 13:225). But someone approaching this sacrament unworthily is culpable for the punishment of mortal sin. Therefore, someone approaching worthily is absolved of it.  
 
 Obj. 2: Furthermore, this sacrament is not less effective for the living than for the dead. But it avails the dead for the remission of punishment, for it is offered for this on their behalf. Therefore, much more for the living.  
 
@@ -481,7 +483,7 @@ Furthermore (2), satisfaction is only required for the forgiveness of punishment
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that by the power of this sacrament a certain transformation of the person into Christ is made by love, as was said, and this is its proper effect. And since by the fervor of charity venial sins are forgiven, because of the fact that they are contrary to this fervor, as a result by the power of this sacrament venial sins are wiped away.***
+To the first question, I answer that by the power of this sacrament a certain transformation of the person into Christ is made by love, as was said, and this is its proper effect. And since by the fervor of charity venial sins are forgiven, because of the fact that they are contrary to this fervor, as a result by the power of this sacrament venial sins are wiped away.  
 
 Reply Obj. 1: The fervor of devotion can be so great that it wipes away all venial sins. Nor is it unfitting that at some moment a man should be free of all venial sin; although this cannot last very long because of the difficulty of avoiding venial sin. Nor, however, is it necessary that all venial sins be erased, but only according to the measure of devotion, for the removal of venial sins is not its proximate effect, but something following on its proximate effect, as is clear from what has been said.  
 
@@ -491,7 +493,7 @@ Reply Obj. 3: Baptism has for its chief effect the removal of sin; and so when i
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a sacrament’s effect, as was said, corresponds to the outward gestures in the sacrament. Now outwardly this sacrament’s use is by eating, which activity is only due to a living thing. And so this sacrament’s effect presupposes life in the one receiving it. And since mortal sin destroys spiritual life, for this reason this sacrament is not for washing away mortal sin in those who receive it, but only those defects that can coexist with life.***
+To the second question, it should be said that a sacrament’s effect, as was said, corresponds to the outward gestures in the sacrament. Now outwardly this sacrament’s use is by eating, which activity is only due to a living thing. And so this sacrament’s effect presupposes life in the one receiving it. And since mortal sin destroys spiritual life, for this reason this sacrament is not for washing away mortal sin in those who receive it, but only those defects that can coexist with life.  
 
 Reply Obj. 1: As Innocent says, speech like this seems improper. For this sacrament is said to take away or cleanse wicked deeds or crimes inasmuch as it impedes them, by administering strength against them. Or it should be said that there can be mortal sin in a person who has no consciousness of it. And if someone like this approaches devoutly, he obtains pardon, as was said above in Distinction 9.See d. 9, q. 1, a. 3, qa. 2.  
 
@@ -505,7 +507,7 @@ And what is said to the contrary, that it is only offered for the members of Chr
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the Eucharist, insofar as it is a sacrament, as was said, has for its chief effect the union of man with Christ. And so by the mode of sacrament it only takes away those things that it finds opposed to this union in those who have life. However, the punishment due to mortal sin that has already been forgiven is not one of these things. And so, insofar as it is a sacrament it does not have the effect of forgiving mortal sin; but insofar as it is a sacrifice, it has the nature of satisfaction; and according to this it removes punishment partly or completely, just as other satisfactions, according to the measure of both punishment due for sin and the measure of devotion with which the sacrament is offered. Nor, however, is all the punishment always taken away by this sacrament.***
+To the third question, it should be said that the Eucharist, insofar as it is a sacrament, as was said, has for its chief effect the union of man with Christ. And so by the mode of sacrament it only takes away those things that it finds opposed to this union in those who have life. However, the punishment due to mortal sin that has already been forgiven is not one of these things. And so, insofar as it is a sacrament it does not have the effect of forgiving mortal sin; but insofar as it is a sacrifice, it has the nature of satisfaction; and according to this it removes punishment partly or completely, just as other satisfactions, according to the measure of both punishment due for sin and the measure of devotion with which the sacrament is offered. Nor, however, is all the punishment always taken away by this sacrament.  
 
 Reply Obj. 1: Someone approaching unworthily, conscious of mortal sin, sins mortally. And so he is culpable for the punishment due to mortal sin. But someone approaching worthily merits eternal life, to which merit is ordered, just as mortal sin is ordered to punishment. However, merit is not directly or principally ordered to the remission of punishment, and so the argument does not follow.  
 
@@ -517,7 +519,7 @@ Question 3
 
 ***The frequency of holy Communion***
 
-***Next the frequency of this sacrament should be considered; and concerning this, two questions arise:***
+Next the frequency of this sacrament should be considered; and concerning this, two questions arise:  
 
 first, its frequency;  
 
@@ -528,7 +530,7 @@ first, its frequency;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 80, a. 10; *Super I ad Cor.* 11, lec. 7. It seems that a man should not frequent this sacrament, but only receive it once in his life. For anyone who receives a sacrament over and over does injury to the sacrament. But injury should be done less to a nobler thing. Since therefore this sacrament is nobler than others that are not received over and over, it seems that it should only be received once.***
+Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 80, a. 10; *Super I ad Cor.* 11, lec. 7. It seems that a man should not frequent this sacrament, but only receive it once in his life. For anyone who receives a sacrament over and over does injury to the sacrament. But injury should be done less to a nobler thing. Since therefore this sacrament is nobler than others that are not received over and over, it seems that it should only be received once.  
 
 Obj. 2: Furthermore, the Apostle proves the uniqueness of baptism from the uniqueness of the victim or the Passion of Christ (Heb 10). But this sacrament has more to do with Christ’s Passion than baptism, inasmuch as he is the victim. Therefore, since baptism is only received once, this sacrament should also only be received once.  
 
@@ -536,7 +538,7 @@ On the contrary, *the effect of our salvation grows with frequenting this myster
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that we should receive it on any day. For Ambrose says: *this bread is our daily bread; receive daily what will benefit you every day*.Ambrose, *On the Sacraments* (CSEL 73), Bk. 5, ch. 4, n. 25.***
+Obj. 1: Moreover, it seems that we should receive it on any day. For Ambrose says: *this bread is our daily bread; receive daily what will benefit you every day*.Ambrose, *On the Sacraments* (CSEL 73), Bk. 5, ch. 4, n. 25.  
 
 Obj. 2: Furthermore, the fervor of charity is excited in this sacrament, by which a man is united to Christ. But this should happen daily. Therefore, Communion should be received daily.  
 
@@ -544,7 +546,7 @@ On the contrary, Augustine says in his book *On Church Dogmatics*: *I neither pr
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that one should receive Communion only once per year. For the paschal lamb was the sign of this sacrament. But it was only consumed once per year. Therefore, this sacrament should also be received only once per year.***
+Obj. 1: Moreover, it seems that one should receive Communion only once per year. For the paschal lamb was the sign of this sacrament. But it was only consumed once per year. Therefore, this sacrament should also be received only once per year.  
 
 Obj. 2: Furthermore, this sacrament is the memorial of the Lord’s Passion. But the Church commemorates the Lord’s Passion once a year. Therefore, the time for receiving Communion should be only then.  
 
@@ -552,7 +554,7 @@ On the contrary, Pope Fabian says: *and if not many times, let men communicate a
 
 Quaestiuncula 4  
 
-***Obj. 1: Furthermore, it seems that a person may communicate many times in a day. For it is a bigger thing to celebrate than to receive Communion. But the priest can celebrate many times in one day, if it is necessary. Therefore, any other member of the faithful can also communicate many times.***
+Obj. 1: Furthermore, it seems that a person may communicate many times in a day. For it is a bigger thing to celebrate than to receive Communion. But the priest can celebrate many times in one day, if it is necessary. Therefore, any other member of the faithful can also communicate many times.  
 
 Obj. 2: Furthermore, extreme unction can be repeated as many times as physical sickness recurs. But the Eucharist is ordered against the sickness of venial sins, which are repeated many times a day. Therefore, in one day a person may communicate several times.  
 
@@ -560,7 +562,7 @@ On the contrary, it is said in *On Consecration*, Distinction 1: *let it suffice
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that those things that are enacted in this sacrament have a likeness to what happens in physical nourishment. For since a loss of natural moisture happens almost constantly by the action of natural heat and the exercise of labor, therefore it is necessary to take physical food often to restore this loss, lest a continual loss should lead to death. In the same way, from innate concupiscence and by the occupation with externals there arises a loss of the devotion and fervor according to which man is recollected unto God; and so it is necessary that these losses be restored many times, lest a man become completely alienated from God.***
+To the first question, I answer that those things that are enacted in this sacrament have a likeness to what happens in physical nourishment. For since a loss of natural moisture happens almost constantly by the action of natural heat and the exercise of labor, therefore it is necessary to take physical food often to restore this loss, lest a continual loss should lead to death. In the same way, from innate concupiscence and by the occupation with externals there arises a loss of the devotion and fervor according to which man is recollected unto God; and so it is necessary that these losses be restored many times, lest a man become completely alienated from God.  
 
 Reply Obj. 1: This sacrament’s perfection, as was said in Distinction 8,See d. 8, q. 1, q. 1, qa. 1. consists in the consecration of the matter, not in its use. And so the consecration is not repeated upon the same matter out of reverence for the sacrament, but its use can be repeated.  
 
@@ -568,13 +570,13 @@ Reply Obj. 2: Baptism represents that victim, according as he causes spiritual l
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in this sacrament two things are required on the part of the recipient; namely, the desire for union with Christ, which love causes, and reverence for the sacrament, which belongs to the gift of fear. Now the first incites one to frequent this sacrament daily, but the second restrains one from it. Hence if someone experientially noticed that the fervor of his love was increased by daily reception and his reverence was not diminished, this person should receive Communion daily. But if someone perceived that his reverence diminished by daily frequenting, and his fervor was not much increased, this person should sometimes abstain, so that he might later approach with greater reverence and devotion. Hence each person is left to his own judgment in this matter; and this is what Augustine says: *one says that the Eucharist should not be received every day, someone else may approve its daily reception; let each one do what he conscientiously believes should be done according to his own faith*;See Augustine, *Epistle 54*, ch. 3 (CSEL 34.2:162). and he proves this by the example of Zacchaeus and the centurion, one of whom receives the Lord rejoicing (Luke 19:6), while the other says, *I am not worthy that you should enter under my roof* (Matt 8:8); and both obtained mercy.***
+To the second question, it should be said that in this sacrament two things are required on the part of the recipient; namely, the desire for union with Christ, which love causes, and reverence for the sacrament, which belongs to the gift of fear. Now the first incites one to frequent this sacrament daily, but the second restrains one from it. Hence if someone experientially noticed that the fervor of his love was increased by daily reception and his reverence was not diminished, this person should receive Communion daily. But if someone perceived that his reverence diminished by daily frequenting, and his fervor was not much increased, this person should sometimes abstain, so that he might later approach with greater reverence and devotion. Hence each person is left to his own judgment in this matter; and this is what Augustine says: *one says that the Eucharist should not be received every day, someone else may approve its daily reception; let each one do what he conscientiously believes should be done according to his own faith*;See Augustine, *Epistle 54*, ch. 3 (CSEL 34.2:162). and he proves this by the example of Zacchaeus and the centurion, one of whom receives the Lord rejoicing (Luke 19:6), while the other says, *I am not worthy that you should enter under my roof* (Matt 8:8); and both obtained mercy.  
 
 And by this the answers to the objections are clear.  
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that according to the different states of the faith, different customs have grown up concerning this. For in the early Church, when devotion thrived more by the recentness of Christ’s Passion, and the attack of unbelievers was greater, for this table is prepared against tribulations of the Church, daily Communion was enjoined upon believers. And this is why Pope Anicletus says, *once their consecration is completed, all may receive Communion who do not wish to be without ecclesiastical thresholds. For this is how the apostles established it*.Gratian’s *Decretals*, Part 3, *De consecratione*, d. 2, ch. 10 (PL 187:1735). Afterward it was appointed that at least three times per year they should receive Communion, as was said, because of the solemnity of those days. But later it was reduced so that they should communicate at least once per year, namely, at Easter; and even for this many are found to be not fit. And although one is not permitted to ignore the statutes of the Church, nevertheless it is permitted to communicate many times. Hence AugustineIn the letter cited just above. praises receiving Communion every Sunday; and so someone can communicate many times a year.***
+To the third question, it should be said that according to the different states of the faith, different customs have grown up concerning this. For in the early Church, when devotion thrived more by the recentness of Christ’s Passion, and the attack of unbelievers was greater, for this table is prepared against tribulations of the Church, daily Communion was enjoined upon believers. And this is why Pope Anicletus says, *once their consecration is completed, all may receive Communion who do not wish to be without ecclesiastical thresholds. For this is how the apostles established it*.Gratian’s *Decretals*, Part 3, *De consecratione*, d. 2, ch. 10 (PL 187:1735). Afterward it was appointed that at least three times per year they should receive Communion, as was said, because of the solemnity of those days. But later it was reduced so that they should communicate at least once per year, namely, at Easter; and even for this many are found to be not fit. And although one is not permitted to ignore the statutes of the Church, nevertheless it is permitted to communicate many times. Hence AugustineIn the letter cited just above. praises receiving Communion every Sunday; and so someone can communicate many times a year.  
 
 Reply Obj. 1: The paschal lamb was the figure of this sacrament by reason of Christ’s Passion, which only happened once; and so it was only consumed once per year. But manna, which was the figure of this sacrament inasmuch as this sacrament is the food of the faithful, was consumed on any given day.  
 
@@ -582,7 +584,7 @@ Reply Obj. 2: The Church at Passiontide remembers the Passion in itself, and so 
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that a man should not receive Communion many times in a day, so that at least in one day the oneness of the Lord’s Passion would be represented, and so that in one respect reverence would be shown the sacrament by receiving once only.***
+To the fourth question, it should be said that a man should not receive Communion many times in a day, so that at least in one day the oneness of the Lord’s Passion would be represented, and so that in one respect reverence would be shown the sacrament by receiving once only.  
 
 Reply Obj. 1: A priest is like a public person, and so it is necessary that he not only celebrate for himself, but also for others; and so when necessity compels him he can celebrate many times in a day. But there is not the same reason for those who only receive Communion for themselves.  
 
@@ -594,7 +596,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallels: *ST* III, q. 80, a. 11; *Super Ioan.* 6, lec. 7. It seems that it is permitted to abstain from holy Communion entirely. For a person is only bound to what is of necessity. But this sacrament, as was said above in Distinction 9,See d. 9, q. 1, a. 1, qa. 2. is not of necessity. Therefore, someone can completely abstain from receiving the sacrament.***
+Obj. 1: To the second question we proceed thus.Parallels: *ST* III, q. 80, a. 11; *Super Ioan.* 6, lec. 7. It seems that it is permitted to abstain from holy Communion entirely. For a person is only bound to what is of necessity. But this sacrament, as was said above in Distinction 9,See d. 9, q. 1, a. 1, qa. 2. is not of necessity. Therefore, someone can completely abstain from receiving the sacrament.  
 
 Obj. 2: Furthermore, whatever is done in reverence for God is not a sin. But someone can completely abstain out of reverence for the sacrament. Therefore, if he completely abstains, it is not a sin.  
 
@@ -606,7 +608,7 @@ Furthermore (2), it is established by the Church that the faithful should commun
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that someone who consecrates can abstain from holy Communion. For where there is a greater need, more assistance should be brought according to the due order of charity. But it can happen that after a priest has consecrated, someone becomes sickened unto death, and urgently begs the body of Christ in his last necessity. Therefore, since this is the sacrament of charity, the priest himself should abstain from Communion and give it to the sick person.***
+Obj. 1: Moreover, it seems that someone who consecrates can abstain from holy Communion. For where there is a greater need, more assistance should be brought according to the due order of charity. But it can happen that after a priest has consecrated, someone becomes sickened unto death, and urgently begs the body of Christ in his last necessity. Therefore, since this is the sacrament of charity, the priest himself should abstain from Communion and give it to the sick person.  
 
 Obj. 2: Furthermore, it is a more grave thing to add sin to sin than to commit one single sin. But someone conscious of mortal sin sins by consecrating, and he also sins by communicating. Therefore, by the fact that he has consecrated, he should at least refrain from receiving.  
 
@@ -618,7 +620,7 @@ Furthermore (2), this same thing is seen by the Lord’s words, which he said wh
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it is more praiseworthy to abstain from this sacrament than to approach it. For we approach God most by humility. But it belongs to humility for a man to desist from Holy Communion out of reverence for the sacrament. Therefore, it seems more meritorious and fruitful than even receiving it.***
+Obj. 1: Moreover, it seems that it is more praiseworthy to abstain from this sacrament than to approach it. For we approach God most by humility. But it belongs to humility for a man to desist from Holy Communion out of reverence for the sacrament. Therefore, it seems more meritorious and fruitful than even receiving it.  
 
 Obj. 2: Furthermore, it belongs to true charity to seek more God’s glory than one’s own benefit. But the person who abstains seems to do it for the sake of God’s glory which he reveres; but the one who receives does it for the sake of his own advantage, for he seeks sacred fruit. Therefore, the former belongs to a more perfect charity, and so it is more meritorious.  
 
@@ -626,7 +628,7 @@ On the contrary, in the other sacraments it is better for anyone who is permitte
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that it is not permitted to anyone to abstain from Communion entirely: for the Church has established a time in which the faithful should receive Holy Communion; and so any who desist entirely are made guilty of transgressing a precept. Moreover, the institution of the Church was necessary: for since we are in a daily fight, spiritual life would fade away in us if we did not sometimes receive the food of life.***
+To the first question, I answer that it is not permitted to anyone to abstain from Communion entirely: for the Church has established a time in which the faithful should receive Holy Communion; and so any who desist entirely are made guilty of transgressing a precept. Moreover, the institution of the Church was necessary: for since we are in a daily fight, spiritual life would fade away in us if we did not sometimes receive the food of life.  
 
 Reply Obj. 1: Although this sacrament is not necessary for salvation by its first institution, nevertheless the institution of the Church has made it necessary; and even without this it would not be necessary simply, so that there would be no salvation without it, but it would be necessary by the supposition of the end: namely, if a person wished to persist steadily in the spiritual life.  
 
@@ -636,7 +638,7 @@ Reply Obj. 3: Augustine’s words refer to receiving every day or not, but not t
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the man who consecrates the body and blood of Christ should always consume them unless he is impeded either by violence or death or illness, or something like that. And the reason for this can be taken on the part of the sacrament itself, whose signification is completed by that very consumption. For, as Augustine says, when the blood is poured from the chalice into the mouth of the faithful, the flow of blood from the side of Christ is indicated;This may be gathered from Lanfranc’s quotations and discussion in *Liber de corpore et sanguine Domini*, ch. 13 (PL 150:423). and its efficacy is completed as well, for it has its ultimate proper effect in being consumed. Therefore, so that the sacrament may be perfect, it is necessary that whoever celebrates the sacrament communicates. The reason can also be taken on the part of the man consecrating, for since he is the minister of divine things to others, he must become first in partaking of divine things, as Dionysius says in Chapter 3 of the *Ecclesiastical Hierarchy*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, p. 3, n. 14 (PG 3:443).***
+To the second question, it should be said that the man who consecrates the body and blood of Christ should always consume them unless he is impeded either by violence or death or illness, or something like that. And the reason for this can be taken on the part of the sacrament itself, whose signification is completed by that very consumption. For, as Augustine says, when the blood is poured from the chalice into the mouth of the faithful, the flow of blood from the side of Christ is indicated;This may be gathered from Lanfranc’s quotations and discussion in *Liber de corpore et sanguine Domini*, ch. 13 (PL 150:423). and its efficacy is completed as well, for it has its ultimate proper effect in being consumed. Therefore, so that the sacrament may be perfect, it is necessary that whoever celebrates the sacrament communicates. The reason can also be taken on the part of the man consecrating, for since he is the minister of divine things to others, he must become first in partaking of divine things, as Dionysius says in Chapter 3 of the *Ecclesiastical Hierarchy*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, p. 3, n. 14 (PG 3:443).  
 
 Reply Obj. 1: In such a case it is not necessary that the priest forego Communion; but he can give to the sick person a part of the consecrated host.  
 
@@ -646,7 +648,7 @@ Reply Obj. 3: The perfection of this sacrament consists in both things, as is cl
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that among things that are good by their genus, a sin does not happen, except sometimes incidentally, when they are fulfilled inordinately; and so to complete them is good in itself, but to abstain from them is not good except by reason of something incidental. And this is why, since receiving the Eucharist is good by its genus, to take it is good per se, and to abstain is good incidentally, namely inasmuch as it is feared that it might be consumed inordinately. And because what is *per se* takes precedence over what is incidental, for this reason simply speaking it is better to consume the Eucharist than to abstain from it. But in a certain case nothing prevents it from being better to abstain, when someone has a probable belief that reverence will be diminished by receiving it. However, if we compare these two things, the reception of the sacrament is found to prevail over abstention from the sacrament, both by reason of the sacrament’s effect, and by reason of preparation, however little it may be; and also by reason of the virtue eliciting the act: for receiving seems to belong to charity, in which the root of merit consists; but abstaining belongs to fear. And love prevails over fear.***
+To the third question, it should be said that among things that are good by their genus, a sin does not happen, except sometimes incidentally, when they are fulfilled inordinately; and so to complete them is good in itself, but to abstain from them is not good except by reason of something incidental. And this is why, since receiving the Eucharist is good by its genus, to take it is good per se, and to abstain is good incidentally, namely inasmuch as it is feared that it might be consumed inordinately. And because what is *per se* takes precedence over what is incidental, for this reason simply speaking it is better to consume the Eucharist than to abstain from it. But in a certain case nothing prevents it from being better to abstain, when someone has a probable belief that reverence will be diminished by receiving it. However, if we compare these two things, the reception of the sacrament is found to prevail over abstention from the sacrament, both by reason of the sacrament’s effect, and by reason of preparation, however little it may be; and also by reason of the virtue eliciting the act: for receiving seems to belong to charity, in which the root of merit consists; but abstaining belongs to fear. And love prevails over fear.  
 
 Reply Obj. 1: Charity is what directly unites us to God; but humility disposes us to this union, inasmuch as it places someone under God. And this is why merit consists more in charity than in humility.  
 
@@ -654,7 +656,7 @@ Reply Obj. 2: The glory and goodness of God is most in this, that he communicate
 
 Exposition of the Text  
 
-****Similarly, Christ shows himself to his disciples on the road*.*Sent* IV, 12.2 (67). 2. Against this, no false pretenses befit the truth. Therefore, he should not have shown anything to them other than what he was in himself. And so it should be said that Christ showed them his own natural appearance, and the external senses were moved by this; but because of doubt about the Resurrection, the judgment of the interior senses was impeded. And this is why *they were seeing him outwardly*, as Gregory says, *as he was with them interiorly*;See Gregory the Great, *Homilies on the Gospels*, Bk. 2, hom. 23 (CCSL 141). and so there was no deception on Christ’s part, just as there is no deception in Sacred Scripture by the fact that figures are contrived for angels and for God himself. For it is not done for the understanding to remain in them, but so that it will rise from them to what they signify. And so also by that appearance in which he appeared to them the Lord wished to signify their inward disposition.***
+*Similarly, Christ shows himself to his disciples on the road*.*Sent* IV, 12.2 (67). 2. Against this, no false pretenses befit the truth. Therefore, he should not have shown anything to them other than what he was in himself. And so it should be said that Christ showed them his own natural appearance, and the external senses were moved by this; but because of doubt about the Resurrection, the judgment of the interior senses was impeded. And this is why *they were seeing him outwardly*, as Gregory says, *as he was with them interiorly*;See Gregory the Great, *Homilies on the Gospels*, Bk. 2, hom. 23 (CCSL 141). and so there was no deception on Christ’s part, just as there is no deception in Sacred Scripture by the fact that figures are contrived for angels and for God himself. For it is not done for the understanding to remain in them, but so that it will rise from them to what they signify. And so also by that appearance in which he appeared to them the Lord wished to signify their inward disposition.  
 
 *Berengar, who confessed before Pope Nicholas*, etc.*Sent* IV, 12.3 (68). 1. It seems from this that this opinion is absolutely to be held, for in the beginning of this confession it says, “I consent to the Roman Church, and to the Apostolic See.” Therefore, one is not permitted to hold otherwise. And it is to be said that because Berengar denied that the true body of Christ is on the altar, he was forced to make this confession; and so he does not intend to say that the body of Christ itself is broken, but that the true body of Christ exists under the appearances in which the breaking happens. And in this he says that he consents to the Apostolic See, having reverted from the opposing error.  
 

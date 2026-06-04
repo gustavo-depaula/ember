@@ -1,6 +1,8 @@
 # C. 37 - Jeremiah falsely suspected
 
-***^37:1^ Et regnavit rex Sedecias filius Josiae pro Jechonia filio Joakim, quem constituit regem Nabuchodonosor rex Babylonis in terra Juda.***
+***Lectio 1***
+
+^37:1^ Et regnavit rex Sedecias filius Josiae pro Jechonia filio Joakim, quem constituit regem Nabuchodonosor rex Babylonis in terra Juda.  
 
 > ^37:2^ Et non obedivit ipse, et servi ejus, et populus terrae verbis Domini quae locutus est in manu Jeremiae prophetae.
 
@@ -68,7 +70,7 @@ Tertio excludit impedimentum: ***sed si percusseritis***. Deut. 32: *quomodo per
 
 Lectio 3  
 
-***^37:10^ Ergo cum recessisset exercitus Chaldaeorum ab Jerusalem propter exercitum Pharaonis,***
+^37:10^ Ergo cum recessisset exercitus Chaldaeorum ab Jerusalem propter exercitum Pharaonis,  
 
 > ^37:11^ egressus est Jeremias de Jerusalem ut iret in terram Benjamin, et divideret ibi possessionem in conspectu civium.
 
@@ -76,7 +78,7 @@ Lectio 3
 
 Lectio 4  
 
-***^37:12a^ Cumque pervenisset ad portam Benjamin, erat ibi custos portae per vices, nomine Jerias filius Selemiae filii Hananiae.***
+^37:12a^ Cumque pervenisset ad portam Benjamin, erat ibi custos portae per vices, nomine Jerias filius Selemiae filii Hananiae.  
 
 > **199**. Hic ponitur falsa suspicio. Psalm. 26: *insurrexerunt in me testes iniqui, et mentita est iniquitas sibi*.
 

@@ -1,5 +1,7 @@
 # Chapter 15
 
+***Vox 1***
+
 ***Racio***
 
 ***Quod una eadem racio est in homine et in per se homine, que est hominis.***
@@ -18,7 +20,7 @@ Vox 2
 
 ***Rotatus***
 
-***Quod rotatum magnis infortuniis si bonus et uirtuosus est felicem esse dicentes nichil dicunt.***
+Quod rotatum magnis infortuniis si bonus et uirtuosus est felicem esse dicentes nichil dicunt.  
 
 Vox 3  
 
@@ -30,7 +32,7 @@ Vox 4
 
 ***Ridiculum***
 
-***Quod ridiculum est causari que exterius, set non ipsum bene uenabilem existentem.***
+Quod ridiculum est causari que exterius, set non ipsum bene uenabilem existentem.  
 
 Vox 5  
 
@@ -42,13 +44,13 @@ Vox 6
 
 ***Regula***
 
-***Quod regula Lesbie edificacionis est plumbea, que ad figuram lapidis transmutatur et non manet regula; et sentencia ad res.***
+Quod regula Lesbie edificacionis est plumbea, que ad figuram lapidis transmutatur et non manet regula; et sentencia ad res.  
 
 Vox 7  
 
 ***Rex***
 
-***Quod rex intendit utile subditorum, quia non est rex qui non est per se sufficiens et omnibus bonis superexcellens.***
+Quod rex intendit utile subditorum, quia non est rex qui non est per se sufficiens et omnibus bonis superexcellens.  
 
 Quod rex habet curam subditorum ut bene operentur quemadmodum pastor ouium.  
 
@@ -56,7 +58,7 @@ Vox 8
 
 ***Regnum***
 
-***Quod regnum inter omnes politice species est melius et optimum, set democracia est pessima.***
+Quod regnum inter omnes politice species est melius et optimum, set democracia est pessima.  
 
 Vox 9  
 
@@ -88,7 +90,7 @@ Vox 12
 
 ***Retribucio***
 
-***Quod retribucio in communicacionibus que est secundum proporcionalitatem fit secundum coniugacionem dyametri.***
+Quod retribucio in communicacionibus que est secundum proporcionalitatem fit secundum coniugacionem dyametri.  
 
 Quod retribucio fit in donis sine pacto concessis secundum quod ordinat accipiens.  
 

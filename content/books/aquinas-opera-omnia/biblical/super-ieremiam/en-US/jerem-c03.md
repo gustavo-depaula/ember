@@ -1,10 +1,12 @@
 # C. 1 - Jeremiah becomes a prophet
 
+***Jeremiah becomes a prophet***
+
 ***Lecture 1***
 
 ***Title of the work***
 
-***^1:1^ The words of Jeremiah, the son of Hilkiah, from the priests that were in Anathoth, in the land of Benjamin.***
+^1:1^ The words of Jeremiah, the son of Hilkiah, from the priests that were in Anathoth, in the land of Benjamin.  
 
 > **1**. This book, after the manner of the other prophets, is divided into two parts:
 
@@ -32,7 +34,7 @@ Lecture 2
 
 ***Date of the work***
 
-***^1:2^ The word of the Lord which came to him in the days of Josiah, the son of Amon, king of Judah, in the thirteenth year of his reign.***
+^1:2^ The word of the Lord which came to him in the days of Josiah, the son of Amon, king of Judah, in the thirteenth year of his reign.  
 
 > ^1:3^ And which came in the days of Jehoiakim, the son of Josiah, king of Judah, until the completion of the eleventh year of Zedekiah, the son of Josiah, king of Judah, even until the deportation of Jerusalem in the fifth month.
 
@@ -178,7 +180,7 @@ Lecture 4
 
 ***Vision of the rod***
 
-***^1:11^ And the word of the Lord came to me, saying: what do you see, Jeremiah? And I said: I see a rod watching.Jerome, working from an unvocalized text, construed the Hebrew שקד as שָקַד, “watching,” instead of the more usual reading of this verse as שָקֵד, “almond tree.” He seems to be creating a wordplay in the Latin to echo the play on words in the Hebrew, where in the next verse God says, “I will keep watch” (שֹׁקֵד).***
+^1:11^ And the word of the Lord came to me, saying: what do you see, Jeremiah? And I said: I see a rod watching.Jerome, working from an unvocalized text, construed the Hebrew שקד as שָקַד, “watching,” instead of the more usual reading of this verse as שָקֵד, “almond tree.” He seems to be creating a wordplay in the Latin to echo the play on words in the Hebrew, where in the next verse God says, “I will keep watch” (שֹׁקֵד).  
 
 > ^1:12^ And the Lord said to me: you have seen well, because I will keep watch over my word to do it.
 
@@ -200,7 +202,7 @@ Lecture 5
 
 ***Evil from the north***
 
-***^1:13^ And the word of the Lord came to me a second time saying: what do you see? And I said: I see a boiling cauldron, and its face is from the face of the north.***
+^1:13^ And the word of the Lord came to me a second time saying: what do you see? And I said: I see a boiling cauldron, and its face is from the face of the north.  
 
 > ^1:14^ And the Lord said to me: from the north shall spread every evil upon the inhabitants of the land.
 
@@ -246,7 +248,7 @@ Third, he promises the disappointment of the enemy: ***and they shall wage war w
 
 Collations  
 
-***Concerning the things mentioned above, one must know first that God is able to have a ***knowledge*** (Jer 1:5) of approbation of something, as has been said. Of foresight: *all things are known to the Lord God before they are created; thus also after their completion he sees all things* (Sir 23:29). Of predestination: *the Lord knows who are his* (2 Tim 2:9). Of the infusion of grace: *I know my sheep and they know me* (John 10:27). Of special familiarity: *and I have known you by name* (Exod 33:12). Of glorification: *I have known him in his blessings, and have given him an inheritance* (Sir 44:25).***
+Concerning the things mentioned above, one must know first that God is able to have a ***knowledge*** (Jer 1:5) of approbation of something, as has been said. Of foresight: *all things are known to the Lord God before they are created; thus also after their completion he sees all things* (Sir 23:29). Of predestination: *the Lord knows who are his* (2 Tim 2:9). Of the infusion of grace: *I know my sheep and they know me* (John 10:27). Of special familiarity: *and I have known you by name* (Exod 33:12). Of glorification: *I have known him in his blessings, and have given him an inheritance* (Sir 44:25).  
 
 It is also to be noted that God ***touches*** (Jer 1:9) some by reproving them: *have mercy on me, have mercy on me, at least you, O my friends, for the hand of the Lord has touched me* (Job 19:21); by cleansing them from sin: *Jesus touched him, saying, ‘I will it, be clean’* (Matt 8:3); by infusing grace: *my beloved put forth his hand through the hole, and my belly trembled at his touch* (Song 5:4); by strengthening with grace: *and behold, a hand touched me, and raised me to my knees, and the knuckles of my hands* (Dan 10:10); by stirring up fervor: *touch the mountains and they shall smoke* (Ps 143:5).  
 

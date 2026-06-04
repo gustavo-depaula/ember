@@ -1,5 +1,7 @@
 # Chapter 52
 
+^52:1^ Arise, arise, put on your strength, O Zion, put on the garments of your glory, O Jerusalem, the city of the Holy One: for henceforth the uncircumcised, and unclean shall no more pass through you.  
+
 > ^52:2^ Shake yourself from the dust, arise, sit up, O Jerusalem: loose the bonds from off your neck, O captive daughter of Zion.
 
 > ^52:3^ For thus says the Lord: you were sold gratis, and you shall be redeemed, without money.

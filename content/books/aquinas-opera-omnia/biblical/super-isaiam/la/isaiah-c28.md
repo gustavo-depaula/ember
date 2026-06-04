@@ -1,5 +1,7 @@
 # Chapter 26
 
+^26:1^ In die illa cantabitur canticum istud in terra Juda: urbs fortitudinis nostræ Sion salvator, ponetur in ea murus et antemurale.  
+
 > ^26:2^ Aperite portas, et ingrediatur gens justa custodiens veritatem.
 
 > ^26:3^ Vetus error abiit, servabis pacem, pacem quia in te speravimus.

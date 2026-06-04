@@ -1,5 +1,7 @@
 # Chapter 22
 
+^22:1^ Onus vallis visionis. Quidnam tibi quoque est quia ascendisti et tu omnis in tecta,  
+
 > ^22:2^ clamoris plena, urbs frequens, civitas exsultans? Interfecti tui non interfecti gladio nec mortui tui in bello.
 
 > ^22:3^ Cuncti principes tui fugerunt simul dureque ligati sunt; omnes qui inventi sunt vincti sunt pariter, procul fugerunt.

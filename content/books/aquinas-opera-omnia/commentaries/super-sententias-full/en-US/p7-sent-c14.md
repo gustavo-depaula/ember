@@ -1,6 +1,8 @@
 # D. 13 - Minister of the Eucharist
 
-***After the Master has examined the sacrament of the Eucharist, here he considers the ministers of this sacrament. And this is divided into two parts: in the first, he defines his aim; in the second, he adds an epilogue, at: *concerning this heavenly mystery we have summarized some things which are to be held faithfully by Catholics*.Peter Lombard, *Sententiae* IV, 13.1 (72). 9.***
+***Minister of the Eucharist***
+
+After the Master has examined the sacrament of the Eucharist, here he considers the ministers of this sacrament. And this is divided into two parts: in the first, he defines his aim; in the second, he adds an epilogue, at: *concerning this heavenly mystery we have summarized some things which are to be held faithfully by Catholics*.Peter Lombard, *Sententiae* IV, 13.1 (72). 9.  
 
 The first is in two parts: in the first, he shows who can consecrate and administer this kind of sacrament; in the second, who can receive it, at: *it may also be truly said*.*Sent* IV, 13.1 (72). 8.  
 
@@ -28,7 +30,7 @@ first, who can consecrate;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 72, a. 2; q. 82, a. 1. It seems that a lay person can also consecrate. For it belongs to a priest to consecrate. But every lay person, if he is good, is a priest; for as John Chrysostom says, *every holy person is a priest*;John Chrysostom, *Homilies on Matthew*, Hom. 43 (PG 56:876). and to all the faithful it is said, *you are a chosen people, a royal priesthood* (1 Pet 2:9). Therefore, a good lay person can consecrate.***
+Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 72, a. 2; q. 82, a. 1. It seems that a lay person can also consecrate. For it belongs to a priest to consecrate. But every lay person, if he is good, is a priest; for as John Chrysostom says, *every holy person is a priest*;John Chrysostom, *Homilies on Matthew*, Hom. 43 (PG 56:876). and to all the faithful it is said, *you are a chosen people, a royal priesthood* (1 Pet 2:9). Therefore, a good lay person can consecrate.  
 
 Obj. 2: Furthermore, a person cannot consecrate by his own power, but by God’s power. But a good lay person is more a partaker of divine power than a bad priest. Therefore, a good lay person can consecrate more than a bad priest.  
 
@@ -40,7 +42,7 @@ Furthermore (2), the goodness of virtue is not obvious, for no one knows whether
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that only a bishop can consecrate.Parallels: *ST* III, q. 72, a. 2; q. 82, a. 1. For in any nation the noblest action belongs to the leader, as the Commentator says in the *Metaphysics* 11. But the highest one in our hierarchy is the bishop, as Dionysius says.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 5 (PG 3:506). Therefore, since consecrating is the highest action of our hierarchy, this act will be for him alone.***
+Obj. 1: Moreover, it seems that only a bishop can consecrate.Parallels: *ST* III, q. 72, a. 2; q. 82, a. 1. For in any nation the noblest action belongs to the leader, as the Commentator says in the *Metaphysics* 11. But the highest one in our hierarchy is the bishop, as Dionysius says.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 5 (PG 3:506). Therefore, since consecrating is the highest action of our hierarchy, this act will be for him alone.  
 
 Obj. 2: Furthermore, according to Dionysius,Ibid., n. 6. in the place cited, to perfect belongs to the bishop alone. But according to him, it is the Eucharist that has perfective power. Therefore, only the bishop can consecrate.  
 
@@ -50,7 +52,7 @@ On the contrary, is the Church’s common practice, and the institution of the c
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that heretics and schismatics and those excommunicated cannot consecrate.Parallels: below, exposition of the text; d. 19, q. 1, a. 2, qa. 3, ad 1; *ST* III, q. 74, a. 9, ad 2; q. 82, a. 5; *Quodl*. XII, q. 11, a. 1. For, as Cause 24, Question 1, says, *we have heard anyone who was estranged from the unity of the Church can assist, but he cannot consecrate*.Gratian’s *Decretals*, Part 2, cause 24, ch. 4 (PL 187:1265). Augustine also says that outside the Church there is no place of true sacrifice.See Augustine, *Contra Cresconium* (CSEL 52), Bk. 2, chs. 12–13. But all those mentioned are outside the Church. Therefore, they cannot consecrate.***
+Obj. 1: Moreover, it seems that heretics and schismatics and those excommunicated cannot consecrate.Parallels: below, exposition of the text; d. 19, q. 1, a. 2, qa. 3, ad 1; *ST* III, q. 74, a. 9, ad 2; q. 82, a. 5; *Quodl*. XII, q. 11, a. 1. For, as Cause 24, Question 1, says, *we have heard anyone who was estranged from the unity of the Church can assist, but he cannot consecrate*.Gratian’s *Decretals*, Part 2, cause 24, ch. 4 (PL 187:1265). Augustine also says that outside the Church there is no place of true sacrifice.See Augustine, *Contra Cresconium* (CSEL 52), Bk. 2, chs. 12–13. But all those mentioned are outside the Church. Therefore, they cannot consecrate.  
 
 Obj. 2: Furthermore, this sacrament cannot be polluted. But according to Jerome, heretics eat polluted bread.See Jerome, *Commentarii in prophetas minores* (CCSL 76A), *In Aggaeum*, ch. 2. Therefore, they do not have the true sacrament; therefore, they do not consecrate.  
 
@@ -62,7 +64,7 @@ Furthermore (2), the quality of a person is only required for action that is pro
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that someone who has been deprived of office cannot consecrate.Parallels: *ST* III, q. 82, a. 8; *Quodl*. XII, q. 11, a. 1. For no one can consecrate who does not have the power of consecrating. But one deprived of office does not have the power of consecrating, although he has the power of baptizing, as the canon says.Gratian’s *Decretals*, Part 2, canon 1, q. 1, ch. 97 (PL 187:525). Therefore, he cannot consecrate.***
+Obj. 1: Moreover, it seems that someone who has been deprived of office cannot consecrate.Parallels: *ST* III, q. 82, a. 8; *Quodl*. XII, q. 11, a. 1. For no one can consecrate who does not have the power of consecrating. But one deprived of office does not have the power of consecrating, although he has the power of baptizing, as the canon says.Gratian’s *Decretals*, Part 2, canon 1, q. 1, ch. 97 (PL 187:525). Therefore, he cannot consecrate.  
 
 Obj. 2: Furthermore, *a thing is made and is corrupted out of the same things*, according to the Philosopher in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1 (1104b7).  But someone receives the ability to consecrate from the power of the bishop. Therefore, when he is stripped of office by the bishop, it seems that he loses this ability.  
 
@@ -74,7 +76,7 @@ Furthermore (2), the same thing is proved by the indelible nature of the charact
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that the Mass of a bad priest is not worth less than that of a good priest.Parallel: *ST* III, q. 82, a. 6. For, as Augustine says in the book *On the Body of Christ*, *in the mystery of the Lord’s body and blood nothing greater is accomplished by a good priest, and nothing less is accomplished by a bad priest*.See Lanfranc, *Liber de corpore et sanguine Domini*, ch. 12 (PL 150:1310).***
+Obj. 1: Moreover, it seems that the Mass of a bad priest is not worth less than that of a good priest.Parallel: *ST* III, q. 82, a. 6. For, as Augustine says in the book *On the Body of Christ*, *in the mystery of the Lord’s body and blood nothing greater is accomplished by a good priest, and nothing less is accomplished by a bad priest*.See Lanfranc, *Liber de corpore et sanguine Domini*, ch. 12 (PL 150:1310).  
 
 Obj. 2: Furthermore, baptism given by a good minister is no better than that given by a bad one. Therefore, neither is the Mass said by a good or by a bad priest.  
 
@@ -82,7 +84,7 @@ On the contrary, what is more fruitful is better. But the Mass of a good priest 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the Church’s orders are derived from the order of the heavenly hierarchy; and so just as among the angels different actions are due to different orders, so also in the Church Militant different orders are applied to different acts, just as also in a body different members have different functions, which the mystical body resembles, as is clear from 1 Corinthians 12. However, the orders of the Church cannot be distinguished by the difference in interior goodness, which is unknown, and its degrees are indeterminate. And so the goodness or virtue of someone is not ordered to his being able to do something, but to his doing well whatever he can do. For the habits of the virtues are not powers, as the Philosopher proves,Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 4 (1106a6).  and that is why the fact that one person is capable of an act that another is not, does not depend on their difference in goodness or badness, but on the power received that one person has and not another; and so, because a lay person does not receive the power of consecrating, however great his goodness may be, it does not help him to be able to consecrate.***
+To the first question, I answer that the Church’s orders are derived from the order of the heavenly hierarchy; and so just as among the angels different actions are due to different orders, so also in the Church Militant different orders are applied to different acts, just as also in a body different members have different functions, which the mystical body resembles, as is clear from 1 Corinthians 12. However, the orders of the Church cannot be distinguished by the difference in interior goodness, which is unknown, and its degrees are indeterminate. And so the goodness or virtue of someone is not ordered to his being able to do something, but to his doing well whatever he can do. For the habits of the virtues are not powers, as the Philosopher proves,Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 4 (1106a6).  and that is why the fact that one person is capable of an act that another is not, does not depend on their difference in goodness or badness, but on the power received that one person has and not another; and so, because a lay person does not receive the power of consecrating, however great his goodness may be, it does not help him to be able to consecrate.  
 
 Reply Obj. 1: Every good person is said to be a priest mystically, because he offers himself as mystical sacrifice to God, namely, *a living victim to God* (Rom 12:1).  
 
@@ -92,7 +94,7 @@ Reply Obj. 3: Although receiving the sacrament is greater in its fruit, neverthe
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the power of consecrating does not only belong to the bishop, but it is also conferred on the priests. For the order of priest is an intermediate between the bishop and the people. And so, just as in the angelic hierarchy illuminations arrive at inferior orders by means of the superior ones, so all sacraments that are commonly administered to the whole people are conferred by the priests; and these are all the sacraments that do not establish one in any state or degree above others. And since the Eucharist is one of these, it can be administered and consecrated not only by a bishop but also by a priest. And there is also another reason, so that the memorial of the Lord’s Passion might be more frequent, and come more to the aid of the living and the dead by its greater frequency.***
+To the second question, it should be said that the power of consecrating does not only belong to the bishop, but it is also conferred on the priests. For the order of priest is an intermediate between the bishop and the people. And so, just as in the angelic hierarchy illuminations arrive at inferior orders by means of the superior ones, so all sacraments that are commonly administered to the whole people are conferred by the priests; and these are all the sacraments that do not establish one in any state or degree above others. And since the Eucharist is one of these, it can be administered and consecrated not only by a bishop but also by a priest. And there is also another reason, so that the memorial of the Lord’s Passion might be more frequent, and come more to the aid of the living and the dead by its greater frequency.  
 
 Reply Obj. 1: Although this act is the greatest in itself, nevertheless it is not the greatest as to establishing one in the Church’s order; for by the reception of this sacrament no one is established in a higher level or state among the members of the Church, as happens by holy orders; and so it is not necessary that that act be reserved to the bishops alone.  
 
@@ -102,7 +104,7 @@ Reply Obj. 3: Those blessings are not available for use by the whole people, but
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that certain people have said that heretics who have been cut off from the Church, and likewise the excommunicated and schismatics, since they are outside the unity of the Church, cannot consecrate; and the Master seems to be of this opinion in the text. But since everything that is given through consecration is perpetual, for this reason, just as baptism, which is given through a consecration, is never lost, no matter how much someone falls into heresy or schism or excommunication; so neither can priestly orders be lost in any way, as Augustine says to Parmenianus.Augustine, *Contra epistulam Parmeniani* (CSEL 51), Bk. 2, ch. 13. And since the power of consecrating results from priestly orders, as was said, for this reason heretics and schismatics and those excommunicated consecrate, although to their own ruin, as long as the due form and matter and intention are preserved, which can also happen among unbelievers, as was said of baptism above in Distinction 5.See d. 5, q. 2, a. 2.***
+To the third question, it should be said that certain people have said that heretics who have been cut off from the Church, and likewise the excommunicated and schismatics, since they are outside the unity of the Church, cannot consecrate; and the Master seems to be of this opinion in the text. But since everything that is given through consecration is perpetual, for this reason, just as baptism, which is given through a consecration, is never lost, no matter how much someone falls into heresy or schism or excommunication; so neither can priestly orders be lost in any way, as Augustine says to Parmenianus.Augustine, *Contra epistulam Parmeniani* (CSEL 51), Bk. 2, ch. 13. And since the power of consecrating results from priestly orders, as was said, for this reason heretics and schismatics and those excommunicated consecrate, although to their own ruin, as long as the due form and matter and intention are preserved, which can also happen among unbelievers, as was said of baptism above in Distinction 5.See d. 5, q. 2, a. 2.  
 
 Reply Obj. 1: The words of the canon are to be understood about those who do not preserve the due form or about the carrying out that they lose, for they do not have the right to consecrate, and in law we are said to be able to do only what we can do justly. Or it speaks about the consecration by which holy orders are conferred, for it results in the damnation rather than the sanctification of the recipients. And likewise what Augustine says, that outside the Church there is no place of true sacrifice, is to be understood as to the effect; or outside the Church, that is, outside the Church’s form.  
 
@@ -112,7 +114,7 @@ Reply Obj. 3: Inasmuch as he has holy orders, he belongs to the unity of the Chu
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that someone stripped of office, because he does not lose holy orders, retains the power of consecrating. But the right of consecrating is taken away from him; and so if he consecrates, he sins, but it is consecrated nevertheless.***
+To the fourth question, it should be said that someone stripped of office, because he does not lose holy orders, retains the power of consecrating. But the right of consecrating is taken away from him; and so if he consecrates, he sins, but it is consecrated nevertheless.  
 
 Reply Obj. 1: That canon does not speak by way of assertion, but as if by opposition, as is apparent from the context.  
 
@@ -122,7 +124,7 @@ Reply Obj. 3: It is not essential to priestly orders that someone not be left to
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that we can speak about the Mass in two ways: either as to what is essential in it, namely, the body of Christ, and in this way no matter who says it, it is equally good, because the work performed is equally good and also powerful; or as to what is attached to the sacrament, and secondary, as it were, and in this way, the Mass of a good priest is better, because it does not only have efficacy by the work itself having been performed, but by the work of the one doing it. And so, all other things being equal, it is better to hear the Mass of a good priest than a bad one.***
+To the fifth question, it should be said that we can speak about the Mass in two ways: either as to what is essential in it, namely, the body of Christ, and in this way no matter who says it, it is equally good, because the work performed is equally good and also powerful; or as to what is attached to the sacrament, and secondary, as it were, and in this way, the Mass of a good priest is better, because it does not only have efficacy by the work itself having been performed, but by the work of the one doing it. And so, all other things being equal, it is better to hear the Mass of a good priest than a bad one.  
 
 And by this the solutions to both sides are clear.  
 
@@ -132,7 +134,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second we proceed thus.Parallel: *ST* III, q. 82, a. 10. It seems that a priest is permitted to abstain entirely from consecrating. For Jerome tells of blessed Mark that he cut off his own thumb so that he would be considered rejected from the priesthood.Moos writes in a note: “Thus in the old prologue *On Mark*, erroneously ascribed to Jerome.” Note that this story found its way into *The Golden Legend*, of enormous popularity in the Middle Ages: “He [Mark] was bent over in his profound humility, for it was due to his humility that he cut off his thumb, as we are told, in order to be judged unfit for the priesthood” (Ryan ed., 1:243). Nor did he do this for any reason other than considering himself unworthy of such a sacrament. Therefore, it seems that if some priest abstained from celebration entirely out of reverence for the body of the Lord and consideration of his own weakness, he would not sin.***
+Obj. 1: To the second we proceed thus.Parallel: *ST* III, q. 82, a. 10. It seems that a priest is permitted to abstain entirely from consecrating. For Jerome tells of blessed Mark that he cut off his own thumb so that he would be considered rejected from the priesthood.Moos writes in a note: “Thus in the old prologue *On Mark*, erroneously ascribed to Jerome.” Note that this story found its way into *The Golden Legend*, of enormous popularity in the Middle Ages: “He [Mark] was bent over in his profound humility, for it was due to his humility that he cut off his thumb, as we are told, in order to be judged unfit for the priesthood” (Ryan ed., 1:243). Nor did he do this for any reason other than considering himself unworthy of such a sacrament. Therefore, it seems that if some priest abstained from celebration entirely out of reverence for the body of the Lord and consideration of his own weakness, he would not sin.  
 
 Obj. 2: Furthermore, just as the office of a priest is to consecrate, so also it is to bind and loose. But it is not required that he bind and loose unless he has the care of souls. Therefore, it is also not required of a priest who does not have a people to whom he is bound, that he consecrate, and so he does not sin by abstaining entirely.  
 
@@ -140,7 +142,7 @@ On the contrary, Ambrose says: *it is a grave thing when we do not come to your 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that many men cannot consecrate the same host at the same time.Parallel: *ST* III, q. 82, a. 2. For several actions come from several agents, especially when each one is sufficient to act. But one priest can consecrate alone. Therefore, if several priests consecrated at the same time, there would be several consecrations upon the same host; and so injury would be done to the sacrament.***
+Obj. 1: Moreover, it seems that many men cannot consecrate the same host at the same time.Parallel: *ST* III, q. 82, a. 2. For several actions come from several agents, especially when each one is sufficient to act. But one priest can consecrate alone. Therefore, if several priests consecrated at the same time, there would be several consecrations upon the same host; and so injury would be done to the sacrament.  
 
 Obj. 2: Furthermore, one person saying the words consecrates by the power of the words. But what has been done cannot come to be done, for that which is does not come to be. Therefore, the others do nothing, and so the words they say are superfluous.  
 
@@ -148,7 +150,7 @@ On the contrary, it is the custom of some churches that new priests concelebrate
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that Mass should not be celebrated daily in the Church.Parallel: *ST* III, q. 83, a. 2. For in Mass we call to mind the Lord’s Passion. But the Church celebrates the memorial of the Lord’s Passion once a year. Therefore, Mass should not be said many times in the Church.***
+Obj. 1: Moreover, it seems that Mass should not be celebrated daily in the Church.Parallel: *ST* III, q. 83, a. 2. For in Mass we call to mind the Lord’s Passion. But the Church celebrates the memorial of the Lord’s Passion once a year. Therefore, Mass should not be said many times in the Church.  
 
 Obj. 2: Furthermore, on Good Friday the memorial of the Lord’s Passion is enacted, yet no consecration is done on that day. Therefore, much less should it be done on all the other days.  
 
@@ -160,7 +162,7 @@ Furthermore (2), this sacrament’s bread is called *daily bread*. But it would 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that Mass should be celebrated in the evening.Parallel: *ST* III, q. 83, a. 2. For Christ’s act is our instruction. But Christ himself did this sacrament in the evening at supper. Therefore, it should be done at that hour.***
+Obj. 1: Moreover, it seems that Mass should be celebrated in the evening.Parallel: *ST* III, q. 83, a. 2. For Christ’s act is our instruction. But Christ himself did this sacrament in the evening at supper. Therefore, it should be done at that hour.  
 
 Obj. 2: Furthermore, according to the canons, holy orders are to be celebrated at an evening hour. But sacred orders are not celebrated without a solemn Mass. Therefore, Mass should be celebrated at an evening hour.  
 
@@ -170,7 +172,7 @@ Obj. 4: Or else it seems that only at the sixth hour, for in that hour the Lord 
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that it does not need to be celebrated in a sacred place.Parallels: below, d. 24, q. 2, a. 2, ad 9; *ST* III, q. 83, a. 3. For just as this is not a necessary sacrament, so neither is confirmation. But confirmation can be conferred in a non-sacred place. Therefore, neither does this sacrament need to be celebrated in a sacred space.***
+Obj. 1: Moreover, it seems that it does not need to be celebrated in a sacred place.Parallels: below, d. 24, q. 2, a. 2, ad 9; *ST* III, q. 83, a. 3. For just as this is not a necessary sacrament, so neither is confirmation. But confirmation can be conferred in a non-sacred place. Therefore, neither does this sacrament need to be celebrated in a sacred space.  
 
 Obj. 2: Or else, it seems that it need not be on an altar of stone. For the sacrifices of the Old Law were a figure of this sacrifice. But the sacrifices of the Old Law were done on an altar of acacia wood, as is seen in Exodus 25:10, and again, an altar of gold, as is seen in 1 Kings 7:48, and again, an altar of earth, as is seen in Exodus 20:24. Therefore, in the New Law it is also not necessary that the altar be made only of stone.  
 
@@ -182,7 +184,7 @@ The priestly vestments will be discussed in the treatise on holy orders, Distinc
 
 Quaestiuncula 6  
 
-***Obj. 1: Moreover, it seems that if any of the aforementioned things are omitted, there will be no consecration.Parallel: *ST* III, q. 83, a. 3. For as Dionysius says, *the operations of the hierarchy are ordered according to divine laws*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 3, n. 2 (PG 3:166). But the person who neglects the rite instituted by the Church does not follow divine laws, which were set down for us by its office. Therefore, such a person does not consecrate, since consecrating is a hierarchical act, for it is an act of holy orders.***
+Obj. 1: Moreover, it seems that if any of the aforementioned things are omitted, there will be no consecration.Parallel: *ST* III, q. 83, a. 3. For as Dionysius says, *the operations of the hierarchy are ordered according to divine laws*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 3, n. 2 (PG 3:166). But the person who neglects the rite instituted by the Church does not follow divine laws, which were set down for us by its office. Therefore, such a person does not consecrate, since consecrating is a hierarchical act, for it is an act of holy orders.  
 
 Obj. 2: Furthermore, the sacrament’s entire rite has its signification. But the signification is essential to the sacrament. Therefore, so is the rite of consecrating; and thus, if it is not observed, there will be no true consecration.  
 
@@ -194,7 +196,7 @@ Furthermore (2), in baptism there are certain things that, if they were omitted,
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that according to certain people, a man who abstains from celebration of the Eucharist does not sin, unless he has a congregation committed to him, or he is bound to celebrate out of obedience. But since, according to Gregory, *when gifts grow, the reasons for the gifts grow*,Gregory the Great, *Homilies on the Gospels*, Bk. 1, homily 9, par. 1 (CCSL 141:58): “Cum enim augentur dona, rationes etiam crescunt donorum.” and since the noblest power is given to a priest, he will be culpable for negligence unless he uses it for the honor of God and the salvation of himself and others, living and dead, according to the text: *serving one another with whatever gift each of you has received* (1 Pet 4:10). Unless perhaps someone abstains by the intimate prompting of the Holy Spirit, as is read of a certain holy father in the *Lives of the Fathers*, who never celebrated Mass once he was ordained.See *De vitis patrum*, Bk. 9, ch. 19 (PL 74:80).***
+To the first question, I answer that according to certain people, a man who abstains from celebration of the Eucharist does not sin, unless he has a congregation committed to him, or he is bound to celebrate out of obedience. But since, according to Gregory, *when gifts grow, the reasons for the gifts grow*,Gregory the Great, *Homilies on the Gospels*, Bk. 1, homily 9, par. 1 (CCSL 141:58): “Cum enim augentur dona, rationes etiam crescunt donorum.” and since the noblest power is given to a priest, he will be culpable for negligence unless he uses it for the honor of God and the salvation of himself and others, living and dead, according to the text: *serving one another with whatever gift each of you has received* (1 Pet 4:10). Unless perhaps someone abstains by the intimate prompting of the Holy Spirit, as is read of a certain holy father in the *Lives of the Fathers*, who never celebrated Mass once he was ordained.See *De vitis patrum*, Bk. 9, ch. 19 (PL 74:80).  
 
 Reply Obj. 1: Someone who does not have holy orders can refuse holy orders. But someone who has them, is bound to exercise them.  
 
@@ -202,7 +204,7 @@ Reply Obj. 2: According to everyone, a man owes the other acts of holy orders no
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that according to the custom of certain churches, several priests concelebrate with the bishop when they are ordained. This is to represent that when the Lord instituted this sacrament, he also gave the power of consecrating to the disciples when he ate supper with them, just as the bishop celebrates together with the priests he has ordained.***
+To the second question, it should be said that according to the custom of certain churches, several priests concelebrate with the bishop when they are ordained. This is to represent that when the Lord instituted this sacrament, he also gave the power of consecrating to the disciples when he ate supper with them, just as the bishop celebrates together with the priests he has ordained.  
 
 Reply Obj. 1: Since intention is required for the perfection of the sacraments, for this reason since all have one intention of performing the consecration, there is only one consecration there.  
 
@@ -210,7 +212,7 @@ Reply Obj. 2: As Innocent says,Innocent III, *De sacro altaris mysterio*, Bk. 4,
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that according to Innocent, Mass is celebrated daily in the Church for five reasons. First, because it is always necessary for the medicine to be prepared against daily sins. Second, so that the wood of life may always be in the middle of Paradise. Third, so that every day Christ may be united to us sacramentally, and we to him spiritually. Fourth, so that the memory of the Passion may be kept watchfully among us. Fifth, so that in place of its type we might use that true lamb toward evening, for whom the Jews still to be converted will thirst in the evening, according to the scripture: *they shall return toward evening, and suffer hunger like dogs* (Ps 59 [58]:15).***
+To the third question, it should be said that according to Innocent, Mass is celebrated daily in the Church for five reasons. First, because it is always necessary for the medicine to be prepared against daily sins. Second, so that the wood of life may always be in the middle of Paradise. Third, so that every day Christ may be united to us sacramentally, and we to him spiritually. Fourth, so that the memory of the Passion may be kept watchfully among us. Fifth, so that in place of its type we might use that true lamb toward evening, for whom the Jews still to be converted will thirst in the evening, according to the scripture: *they shall return toward evening, and suffer hunger like dogs* (Ps 59 [58]:15).  
 
 Reply Obj. 1: Christ’s Passion as it happened to our Head is only represented once per year in the Church; but as its effects reach to us, it should be represented every day, for its effect in us is continuous, and that is how it is represented in this sacrament.  
 
@@ -220,7 +222,7 @@ Reply Obj. 3: All our actions should be perfected by Christ. And this is why whe
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that commonly speaking, Mass should be said in the daytime, not at night, for this sacrament belongs to the time of grace, which is signified by the day: *the night is far gone, but the day is at hand* (Rom 13:12). But day is not only judged by the rising of the sun, but by the signs that the sunrise is about to begin, by a certain brightening of the air. However, the Mass is sung on two nights because of the privilege of those nights, namely on the night before Christmas, when Christ was born, and around the beginning of the night of the resurrection, as is seen in the prayer, *O God, who make this most sacred night radiant with the glory of the Lord’s Resurrection*, etc.The Collect for the Easter Vigil. although it is not necessary always to observe this. But the celebration of solemn Mass is established to be done at three times of day; namely at the third hour on feast days, at the sixth hour on a ferial day, and at the ninth hour on days of fasting. For in the Mass we call to mind Christ’s death, who indeed was crucified at the third hour by the tongues of the Jews, and at the sixth hour by the hands of the soldiers, and at the ninth hour he breathed his last. But when holy orders are done, the Mass can be sung even after the ninth hour, and particularly on Holy Saturday, for holy orders pertain to the Sunday; or also so that the preparation may be more diligently made, it may be deferred as much as possible before lunch. And so when it is not a day of fast, it is celebrated between the third hour and the sixth, when it is common to eat; but on fasting days at the ninth hour. However, private Masses may be said from morning until the third hour, or even until the ninth on days of fast.***
+To the fourth question, it should be said that commonly speaking, Mass should be said in the daytime, not at night, for this sacrament belongs to the time of grace, which is signified by the day: *the night is far gone, but the day is at hand* (Rom 13:12). But day is not only judged by the rising of the sun, but by the signs that the sunrise is about to begin, by a certain brightening of the air. However, the Mass is sung on two nights because of the privilege of those nights, namely on the night before Christmas, when Christ was born, and around the beginning of the night of the resurrection, as is seen in the prayer, *O God, who make this most sacred night radiant with the glory of the Lord’s Resurrection*, etc.The Collect for the Easter Vigil. although it is not necessary always to observe this. But the celebration of solemn Mass is established to be done at three times of day; namely at the third hour on feast days, at the sixth hour on a ferial day, and at the ninth hour on days of fasting. For in the Mass we call to mind Christ’s death, who indeed was crucified at the third hour by the tongues of the Jews, and at the sixth hour by the hands of the soldiers, and at the ninth hour he breathed his last. But when holy orders are done, the Mass can be sung even after the ninth hour, and particularly on Holy Saturday, for holy orders pertain to the Sunday; or also so that the preparation may be more diligently made, it may be deferred as much as possible before lunch. And so when it is not a day of fast, it is celebrated between the third hour and the sixth, when it is common to eat; but on fasting days at the ninth hour. However, private Masses may be said from morning until the third hour, or even until the ninth on days of fast.  
 
 Reply Obj. 1: Christ consecrated at an evening hour for the same reason that it was also after dinner; and so just as we do not need to imitate him in the second, so neither in the first.  
 
@@ -232,7 +234,7 @@ Reply Obj. 4: Although Christ was placed on the Cross at the sixth hour, neverth
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that in this sacrament is contained the one who is the cause of all holiness; and so everything that relates to this sacrament’s consecration should also be consecrated, like the consecrating priests themselves, and the ministers, and vestments, and vessels, and everything like them. And therefore this sacrament should also be celebrated on a consecrated altar in a consecrated house. But if there is a present necessity, either because of destruction of the churches in a certain land, or for people on a journey, it is permitted also to celebrate in non-consecrated places, as long as they have a portable consecrated altar and other things like that which are required for the consecration of this mystery. Otherwise it is not permitted unless granted by the bishop.***
+To the fifth question, it should be said that in this sacrament is contained the one who is the cause of all holiness; and so everything that relates to this sacrament’s consecration should also be consecrated, like the consecrating priests themselves, and the ministers, and vestments, and vessels, and everything like them. And therefore this sacrament should also be celebrated on a consecrated altar in a consecrated house. But if there is a present necessity, either because of destruction of the churches in a certain land, or for people on a journey, it is permitted also to celebrate in non-consecrated places, as long as they have a portable consecrated altar and other things like that which are required for the consecration of this mystery. Otherwise it is not permitted unless granted by the bishop.  
 
 Reply Obj. 1: The sacrament of confirmation does not contain Christ himself; and so the sanctification of place is not required as in this sacrament.  
 
@@ -244,7 +246,7 @@ Reply Obj. 4: According to the Church’s statutes the chalice must be only of g
 
 Response to Quaestiuncula 6  
 
-***To the sixth question, it should be said that once those things that are not essential to a thing are removed, the thing nevertheless remains. And this is why, since the determination of the hour or the place or the vestments in the rites are not essential to the sacrament but to the solemnity, if they are omitted, the sacrifice is consecrated nevertheless, as long as those things are present that are essential to the sacrament, namely, the order and intention on the part of the one consecrating, and the matter and form on the part of what is consecrated. Still, the person who does otherwise sins gravely, and should be demoted.***
+To the sixth question, it should be said that once those things that are not essential to a thing are removed, the thing nevertheless remains. And this is why, since the determination of the hour or the place or the vestments in the rites are not essential to the sacrament but to the solemnity, if they are omitted, the sacrifice is consecrated nevertheless, as long as those things are present that are essential to the sacrament, namely, the order and intention on the part of the one consecrating, and the matter and form on the part of what is consecrated. Still, the person who does otherwise sins gravely, and should be demoted.  
 
 Reply Obj. 1: If the divine laws that pertain to the essential institution of a sacrament are changed, nothing happens, as if there were other matter or form. But it is otherwise with the laws that pertain to the solemnity of the sacrament.  
 
@@ -258,7 +260,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus.Parallel: *ST* III, q. 82, a. 3. It seems that a lay person can administer the body of Christ. For the completion of this sacrament consists in the consecration of the matter, as was said above, not in the sacrament’s use. But ordained ministers are the ministers of the sacraments. Therefore, even if the consecration of the matter pertains only to priests, nevertheless the administering should pertain to all.***
+Obj. 1: To the third question we proceed thus.Parallel: *ST* III, q. 82, a. 3. It seems that a lay person can administer the body of Christ. For the completion of this sacrament consists in the consecration of the matter, as was said above, not in the sacrament’s use. But ordained ministers are the ministers of the sacraments. Therefore, even if the consecration of the matter pertains only to priests, nevertheless the administering should pertain to all.  
 
 Obj. 2: Furthermore, the sacrament should be administered by those who treat it with reverence. But some laymen have greater reverence for the sacrament than even priests; and sometimes even women. Therefore, the sacrament can be administered by them.  
 
@@ -270,7 +272,7 @@ Furthermore (2), those to whom it belongs to be ministers of the Church are also
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that a deacon can administer it.Parallel: *ST* III, q. 82, a. 3, corp. and ad 1. For blessed Laurence was a deacon. But the administering of the Lord’s blood was entrusted to him, as is known from his legend.As is written in *The Golden Legend*, ch. 117, Laurence ran after Sixtus while the latter was being led away to his martyrdom, crying out: “Where are you going, father, without your son? ... Try me, surely, to see whether you have chosen a minister suitable to have the dispensing of the Lord’s Blood entrusted to him!” (Ryan ed., 2:64). Therefore, a deacon can administer this sacrament.***
+Obj. 1: Moreover, it seems that a deacon can administer it.Parallel: *ST* III, q. 82, a. 3, corp. and ad 1. For blessed Laurence was a deacon. But the administering of the Lord’s blood was entrusted to him, as is known from his legend.As is written in *The Golden Legend*, ch. 117, Laurence ran after Sixtus while the latter was being led away to his martyrdom, crying out: “Where are you going, father, without your son? ... Try me, surely, to see whether you have chosen a minister suitable to have the dispensing of the Lord’s Blood entrusted to him!” (Ryan ed., 2:64). Therefore, a deacon can administer this sacrament.  
 
 Obj. 2: Furthermore, the administering of this sacrament pertains to the care of the people. But a deacon can have care of souls. Therefore, he can also be a minister of this sacrament.  
 
@@ -278,7 +280,7 @@ On the contrary, it says in Canon Distinction 93: *it is not fitting for the dea
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that someone could licitly receive this sacrament administered by a fornicating priest, or an excommunicated or heretical priest.Parallels: below, d. 24, q. 1, a. 3, qa. 5, ad 3 & 4; *ST* III, q. 64, a. 9, ad 3; q. 82, a. 9; *Quodl*. XI, q. 8, aa. 1–2. For Augustine says: *neither in a good man nor in a bad man does anyone escape the sacraments of God*.As given in the text of the *Decretals*, Part 2, c. 1, q. 1, ch. 35 (PL 187:498); however, the original text, from Augustine, *Contra epistulam Parmeniani*, Bk. 3, ch. 9, par. 10 (CSEL 52:171): “nemo glorietur nec in homine bono, nemo bona dei fugiat nec in homine malo.” Therefore, this sacrament can be received from any kind of priest.***
+Obj. 1: Moreover, it seems that someone could licitly receive this sacrament administered by a fornicating priest, or an excommunicated or heretical priest.Parallels: below, d. 24, q. 1, a. 3, qa. 5, ad 3 & 4; *ST* III, q. 64, a. 9, ad 3; q. 82, a. 9; *Quodl*. XI, q. 8, aa. 1–2. For Augustine says: *neither in a good man nor in a bad man does anyone escape the sacraments of God*.As given in the text of the *Decretals*, Part 2, c. 1, q. 1, ch. 35 (PL 187:498); however, the original text, from Augustine, *Contra epistulam Parmeniani*, Bk. 3, ch. 9, par. 10 (CSEL 52:171): “nemo glorietur nec in homine bono, nemo bona dei fugiat nec in homine malo.” Therefore, this sacrament can be received from any kind of priest.  
 
 Obj. 2: Furthermore, divine power is stronger than human wickedness. But the sacrament contains and causes grace by divine power. Therefore, no matter how wicked the man who gives it is, or whether he is a heretic, whoever receives the sacrament from him obtains grace.  
 
@@ -290,7 +292,7 @@ Furthermore (2), no one should receive the sacrament outside the institution of 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that just as in a natural body there are certain principal members, through which the powers and operations of life pass from the principle of life to the other members, so also in the Church the priests and other ministers are like principal members by whose mediation the sacraments of life should be dispensed to the people. And so, just as consecration is not befitting to laypeople, no matter how holy they are, neither is the administering of this sacrament.***
+To the first question, I answer that just as in a natural body there are certain principal members, through which the powers and operations of life pass from the principle of life to the other members, so also in the Church the priests and other ministers are like principal members by whose mediation the sacraments of life should be dispensed to the people. And so, just as consecration is not befitting to laypeople, no matter how holy they are, neither is the administering of this sacrament.  
 
 Reply Obj. 1: Although in its essence, this sacrament is complete without the sacrament’s use, nevertheless, it is not complete as regards its effect without its use. And therefore this sacrament’s use also pertains to the administering of the ministers of the Church.  
 
@@ -300,7 +302,7 @@ Reply Obj. 3: Just as it belongs to the priest to confer baptism by his office, 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the administering of this sacrament properly belongs to the priest by the fact that he represents Christ, who was the mediator of God and men. Hence, since this sacrament is for reconciling us to God, it ought to be administered by a priest, who is the mediator between God and the people. But just as a priest, as was said, participates in something of the perfective power that belongs to a bishop, so also a deacon participates in something of the administering of this sacrament, for it belongs to him by office to dispense the Lord’s blood but not his body. For the minister of the body must touch the body, but the minister of the blood need not. However, it is not permitted for a deacon to touch the body of Christ, since he does not have consecrated hands. And so he should not administer the body except by the special command of the priest or bishop, or when the priest is far away in an emergency. Or he administers the blood and not the body for this reason, that the mystery of redemption is signified by the blood, which flows down from Christ the head to his members by the office of his ministers, and so also the water which signifies the people is mixed into the blood. But the Incarnation, which the body of Christ signifies, did not happen by human ministry.***
+To the second question, it should be said that the administering of this sacrament properly belongs to the priest by the fact that he represents Christ, who was the mediator of God and men. Hence, since this sacrament is for reconciling us to God, it ought to be administered by a priest, who is the mediator between God and the people. But just as a priest, as was said, participates in something of the perfective power that belongs to a bishop, so also a deacon participates in something of the administering of this sacrament, for it belongs to him by office to dispense the Lord’s blood but not his body. For the minister of the body must touch the body, but the minister of the blood need not. However, it is not permitted for a deacon to touch the body of Christ, since he does not have consecrated hands. And so he should not administer the body except by the special command of the priest or bishop, or when the priest is far away in an emergency. Or he administers the blood and not the body for this reason, that the mystery of redemption is signified by the blood, which flows down from Christ the head to his members by the office of his ministers, and so also the water which signifies the people is mixed into the blood. But the Incarnation, which the body of Christ signifies, did not happen by human ministry.  
 
 Reply Obj. 1: Although he was minister of the blood, nevertheless it is not read that he was minister of the body; and so also to this day in any church the blood is administered to the altar servers by a deacon.  
 
@@ -308,7 +310,7 @@ Reply Obj. 2: A deacon can have the care of souls as to what belongs to legal au
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that if anyone approaches this sacrament with sin, it will be more to his damage than his advancement. But anyone who approaches against the ordering of the Church sins by disobedience. Now simoniacs and schismatics and the excommunicated are suspended from administering this sacrament by the Church’s decree: for they are outside the unity of the Church, in which the sacraments are conferred. Likewise it is forbidden to cohabiting priests because of the supreme spirituality that is required in this sacrament. This is why if someone receives the sacrament from one of these, he sins, and so he does not receive grace. Nevertheless, there is a difference between fornicating priests and the others mentioned: for a man should not share with the others in divine things knowingly, however much they are private; but fornicating priests are not to be avoided unless they are notorious. And there are three ways of being called notorious: either because of public opinion, because people are convinced; or by having confessed it in court; or by the obviousness of the matter, as when it is so evident that no one can turn a blind eye to it. But from other sinners it is permitted to receive the sacraments.***
+To the third question, it should be said that if anyone approaches this sacrament with sin, it will be more to his damage than his advancement. But anyone who approaches against the ordering of the Church sins by disobedience. Now simoniacs and schismatics and the excommunicated are suspended from administering this sacrament by the Church’s decree: for they are outside the unity of the Church, in which the sacraments are conferred. Likewise it is forbidden to cohabiting priests because of the supreme spirituality that is required in this sacrament. This is why if someone receives the sacrament from one of these, he sins, and so he does not receive grace. Nevertheless, there is a difference between fornicating priests and the others mentioned: for a man should not share with the others in divine things knowingly, however much they are private; but fornicating priests are not to be avoided unless they are notorious. And there are three ways of being called notorious: either because of public opinion, because people are convinced; or by having confessed it in court; or by the obviousness of the matter, as when it is so evident that no one can turn a blind eye to it. But from other sinners it is permitted to receive the sacraments.  
 
 Reply Obj. 1: He is not fled because he is wicked, but because of the Church’s prohibition. Or it could be said that Augustine says that the sacraments are not to be fled, for one must also be recognized that a valid sacrament is consecrated by them.  
 
@@ -320,7 +322,7 @@ Question 2
 
 ***On heresy***
 
-***Next it should be asked about heresy, and concerning this, three questions arise:***
+Next it should be asked about heresy, and concerning this, three questions arise:  
 
 first, what a heretic does;  
 
@@ -330,7 +332,7 @@ first, what a heretic does;
 
 ***What a heretic does***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* II-II, q. 10, a. 5; q. 11, a. 12; q. 104, a. 1, ad 1. It seems that ‘heresy’ does not mean a perversion of the faith. For *heresy is the same as division*, as Isidore says.In fact, Isidore nowhere says this; Thomas more correctly cites Isidore below, in his response. But division is opposed to union. Now union happens by charity, for love is the unitive virtue, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 15 (PG 3:714). Therefore, heresy does not pertain to a perversion of the faith, but rather to a perversion of hatred.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* II-II, q. 10, a. 5; q. 11, a. 12; q. 104, a. 1, ad 1. It seems that ‘heresy’ does not mean a perversion of the faith. For *heresy is the same as division*, as Isidore says.In fact, Isidore nowhere says this; Thomas more correctly cites Isidore below, in his response. But division is opposed to union. Now union happens by charity, for love is the unitive virtue, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 15 (PG 3:714). Therefore, heresy does not pertain to a perversion of the faith, but rather to a perversion of hatred.  
 
 Obj. 2: Furthermore, schism conveys division, and so it seems that schismatics are heretics. But schismatics do not always hold a perversion of the faith. Therefore, heresy does not consist in the perversion of the faith.  
 
@@ -376,7 +378,7 @@ Article 2
 
 ***Whether heresy is a greater sin than others***
 
-***Obj. 1: To the second we proceed thus.Parallels: *ST* II-II, q. 10, a. 3; q. 20, a. 3; q. 34, a. 2, ad 2; q. 39, a. 2, ad 3; *ST* III, q. 80, a. 5; *De malo,* q. 2, a. 10; *Super I ad Tim*. 5, lec. 1. It seems that heresy is not the greatest sin. For the greatest sins seem to be the chief sins: for the greatest thing in any genus is what is principal. But heresy is not chief among vices. Therefore, it is not the greatest.***
+Obj. 1: To the second we proceed thus.Parallels: *ST* II-II, q. 10, a. 3; q. 20, a. 3; q. 34, a. 2, ad 2; q. 39, a. 2, ad 3; *ST* III, q. 80, a. 5; *De malo,* q. 2, a. 10; *Super I ad Tim*. 5, lec. 1. It seems that heresy is not the greatest sin. For the greatest sins seem to be the chief sins: for the greatest thing in any genus is what is principal. But heresy is not chief among vices. Therefore, it is not the greatest.  
 
 Obj. 2: Furthermore, according to the Philosopher in the *Ethics* 8,Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1160b9).  the worst is the opposite of the best. But faith, to which heresy is opposed, is not the best of virtues. Therefore, neither is heresy the greatest sin.  
 
@@ -408,7 +410,7 @@ Article 3
 
 ***Whether heretics are to be tolerated***
 
-***Obj. 1: To the third we proceed thus.Parallels: *ST* II-II, q. 10, a. 8, ad 1; q. 11, a. 3; *Quodl.* X, q. 7, a. 1; *Super Matt.* 13. It seems that heretics should be tolerated. For nothing should be attacked except what is against friendship. But a difference of opinions is not against the harmony of friendship, as the Philosopher implies in the *Ethics* 9.Aristotle, *Nicomachean Ethics*, Bk. 9, ch. 6 (1167a24).  Therefore, they are not to be attacked.***
+Obj. 1: To the third we proceed thus.Parallels: *ST* II-II, q. 10, a. 8, ad 1; q. 11, a. 3; *Quodl.* X, q. 7, a. 1; *Super Matt.* 13. It seems that heretics should be tolerated. For nothing should be attacked except what is against friendship. But a difference of opinions is not against the harmony of friendship, as the Philosopher implies in the *Ethics* 9.Aristotle, *Nicomachean Ethics*, Bk. 9, ch. 6 (1167a24).  Therefore, they are not to be attacked.  
 
 Obj. 2: Furthermore, what is necessary is not to be impeded. But heresy is necessary to the Church: *it is necessary for heresies to exist, so that those who are tested may be made manifest* (1 Cor 11:19). Therefore, they are not to be attacked.  
 
@@ -438,7 +440,7 @@ Reply Obj. 5: The Church does not prosecute them so that they may be led to beli
 
 Exposition of the Text  
 
-****Those who are within the Church in name and sacrament, if not in their [way of] life*.Peter Lombard, *Sententiae* IV, 13.1 (72). 1. He says this because of schismatics and heretics, who, according to him, cannot consecrate.***
+*Those who are within the Church in name and sacrament, if not in their [way of] life*.Peter Lombard, *Sententiae* IV, 13.1 (72). 1. He says this because of schismatics and heretics, who, according to him, cannot consecrate.  
 
 *And what could be better than the body and blood of Christ?**Sent* IV 13.1 (72). 3. It seems that the mystical body is, which is signified by it. And it should be said that among things that are only for the sake of signifying, it is true that what is signified is greater than the sign, but not among other things that signify as a result. And so it should be said that the mystical body of Christ, if it is taken with its head, is better than the true body of Christ, but only if the true body of Christ is taken without the divinity to which it is united; otherwise not, for God and all created things are not in the least better than God alone. But if the mystical body of Christ is considered without its head, then the true body of Christ is more noble.  
 

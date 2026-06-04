@@ -1,5 +1,7 @@
 # Sermon
 
+***Petite*** etc. Dicit Apostolus ad Romanos quod quid rogare debeamus saepius ignoramus. Ideo advocatus noster Iesus Christus, de quo Iohannes in Canonica sua: *advocatum habemus* ad *Patrem Iesum Christum, et ipse est propitiatio pro peccatis nostris*, iste advocatus invitat nos hodie ad petendum et promittit nobis dare, imo iurat nobis dare, dum modo petamus in nomine Salvatoris, quae sunt necessaria nostrae saluti.  
+
 Unde in principio Evangelii hodierni: *amen, amen dico vobis: si quid petieritis Patrem in nomine meo dabit vobis*, iste advocatus noster invitat nos ad petendum et docet nos formare petitionem nostram.  
 
 Secundum hoc in istis verbis tria tanguntur:  

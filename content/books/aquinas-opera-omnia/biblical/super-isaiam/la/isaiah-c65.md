@@ -1,5 +1,7 @@
 # Chapter 63
 
+^63:1^ Quis est iste qui venit de Edom tinctis vestibus de Bosra? Iste formosus in stola sua, gradiens in multitudine fortitudinis suæ. Ego qui loquor justitiam et propugnator sum ad salvandum.  
+
 > ^63:2^ Quare ergo rubrum est indumentum tuum et vestimenta tua quasi calcantium in torculari?
 
 > ^63:3^ Torcular calcavi solus, et de gentibus non est vir mecum; calcavi eos in furore meo et conculcavi eos in ira mea; et aspersus est sanguis eorum super vestimenta mea, et omnia indumenta mea inquinavi.

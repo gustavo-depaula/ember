@@ -1,5 +1,7 @@
 # Chapter 32
 
+***^32:1^ Ecce in justitia regnabit rex, et principes in judicio præerunt.***
+
 > ^32:2^ Et erit vir sicut qui absconditur a vento et celat se a tempestate, sicut rivi aquarum in siti et umbra petræ prominentis in terra deserta.
 
 > ^32:3^ Non caligabunt oculi videntium, et aures audientium diligenter auscultabunt,

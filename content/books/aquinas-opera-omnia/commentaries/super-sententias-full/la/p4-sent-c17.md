@@ -1,8 +1,10 @@
 # D. 37 - Cause of sin and punishment
 
+***De causa peccati et poenae***
+
 ***Divisio textus***
 
-***Postquam tractavit illam opinionem quae ponebat, actus peccatorum, inquantum sunt, bonos esse, et a Deo, in hac distinctione prosequitur aliam opinionem oppositam, quae ponit eos nullo modo a Deo esse; et dividitur in partes duas:***
+Postquam tractavit illam opinionem quae ponebat, actus peccatorum, inquantum sunt, bonos esse, et a Deo, in hac distinctione prosequitur aliam opinionem oppositam, quae ponit eos nullo modo a Deo esse; et dividitur in partes duas:  
 
 in prima prosequitur istam opinionem quantum ad hoc in quo a praecedenti differt;  
 
@@ -168,7 +170,7 @@ Articulus 2
 
 ***Utrum actio peccati, inquantum actio, sit a Deo***
 
-***Ad secundum sic proceditur. Videtur quod actio peccati, inquantum est actio, a Deo non sit.***
+Ad secundum sic proceditur. Videtur quod actio peccati, inquantum est actio, a Deo non sit.  
 
 Omne enim quod est a Deo bonum est, et omne bonum alicui bonum est. Quaedam autem peccata sunt quorum actus nulli boni sunt: quia et facienti nocent, et ei in quem fiunt. Ergo tales actus nullo modo a Deo sunt.  
 
@@ -260,7 +262,7 @@ Articulus 2
 
 ***Utrum malum per prius dicatur de poena quam de culpa***
 
-***Ad secundum sic proceditur. Videtur quod malum per prius dicatur de poena quam de culpa.***
+Ad secundum sic proceditur. Videtur quod malum per prius dicatur de poena quam de culpa.  
 
 Bonum enim, cum sit in omnibus generibus, per prius est in substantia quam in aliis, ut ex 1 *Ethic*. patet. Sed malum poenae privat bonum quod est in substantia; sicut mors, quae quaedam poena est, perfectionem substantialem privat; sed malum culpae est malum in actione. Ergo per prius malum dicitur de poena quam de culpa.  
 
@@ -294,7 +296,7 @@ Ad quintum dicendum, quod quidquid invenitur in causa et causato, perParma adds 
 
 Expositio textus  
 
-****Non quia non sit actio vel voluntas mala quae aliquid est, sed quia a vero esse separat homines*. Istud inconvenienter dicitur. Constat enim quod actio, inquantum est actio, non est separata a vero esse, sed inquantum est inordinata. Unde quod peccatum dicatur nihil, non est ratione actionis, sed ratione inordinationis.***
+*Non quia non sit actio vel voluntas mala quae aliquid est, sed quia a vero esse separat homines*. Istud inconvenienter dicitur. Constat enim quod actio, inquantum est actio, non est separata a vero esse, sed inquantum est inordinata. Unde quod peccatum dicatur nihil, non est ratione actionis, sed ratione inordinationis.  
 
 *Hic de substantiis atque naturis tantum accipienda fore tradunt*. Ex hoc non plus habetur, nisi quod substantia et natura uno modo accepta differunt ab actione bona; et mala; et hoc verum est.  
 

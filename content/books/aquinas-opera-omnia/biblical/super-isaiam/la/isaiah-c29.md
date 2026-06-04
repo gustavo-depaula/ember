@@ -1,5 +1,7 @@
 # Chapter 27
 
+^27:1^ In die illa visitabit Dominus in gladio suo duro et grandi et forti super Leviathan serpentem vectem et super Leviathan serpentem tortuosum et occidet cetum qui in mari est.  
+
 > ^27:2^ In die illa vinea meri cantabit ei:
 
 > ^27:3^ Ego Dominus qui servo eam, repente propinabo ei. Ne forte visitetur contra eam, nocte et die servo eam.

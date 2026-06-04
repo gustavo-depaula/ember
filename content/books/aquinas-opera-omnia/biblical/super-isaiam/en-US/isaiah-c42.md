@@ -1,5 +1,7 @@
 # Chapter 40
 
+***^40:1^ Be comforted, be comforted, my people, says your God.***
+
 > ^40:2^ Speak to the heart of Jerusalem, and call to her: for her evil is come to an end, her iniquity is forgiven: she has received of the hand of the Lord double for all her sins.
 
 > ^40:3^ The voice of one crying in the desert: prepare the way of the Lord, make straight in the wilderness the paths of our God.

@@ -1,8 +1,10 @@
 # D. 5 - Divine generation and divine essence
 
+***Divine generation and divine essence***
+
 ***Division of the text***
 
-***Here the Master presents a question about the names signifying the essence in the abstract, whether some of them can stand to the generation of the Son as its subject or terminus. And he does three things about this. First he states the question; second, he answers it, at *in consensus with Catholic expounders, we say regarding this*;*Sent*. I, 5.1(15).1. third, he confirms this answer, at *therefore, it is not to be said that the Father generated a divine essence*.*Sent*. I, 5.1(15).2.***
+Here the Master presents a question about the names signifying the essence in the abstract, whether some of them can stand to the generation of the Son as its subject or terminus. And he does three things about this. First he states the question; second, he answers it, at *in consensus with Catholic expounders, we say regarding this*;*Sent*. I, 5.1(15).1. third, he confirms this answer, at *therefore, it is not to be said that the Father generated a divine essence*.*Sent*. I, 5.1(15).2.  
 
 And the third is divided into two parts.  
 
@@ -58,7 +60,7 @@ Article 1
 
 ***Whether the essence generates***
 
-***To the first we proceed as follows.Parallel text: *ST* I.39.3. It seems that the essence generates.***
+To the first we proceed as follows.Parallel text: *ST* I.39.3. It seems that the essence generates.  
 
 Obj. 1: For the opposition of affirmation and negation is greater than the opposition of relation. But in the divine an opposition of relation makes one person not another. Therefore a contradiction would do this much more. But the person of the Father is the generator. Therefore, if the essence did not generate, the Father will not be the essence—which is impossible.  
 
@@ -88,7 +90,7 @@ Article 2
 
 ***Whether the act of generating can be predicated of any of the essential names***
 
-***To the second we proceed as follows.Parallel texts: above, d. 4, q. 1, a. 2; *ST* I.39.4. It seems that the act of generating is predicated of none of the essential names.***
+To the second we proceed as follows.Parallel texts: above, d. 4, q. 1, a. 2; *ST* I.39.4. It seems that the act of generating is predicated of none of the essential names.  
 
 Obj. 1: For just as the three persons are one essence, so also are they one God. But, by the Master’s reasoning,*Sent*. I, 5.1(15).6. one cannot say that the essence generates, lest it indicate a distinction of essence. Therefore likewise one cannot say God generates, lest a plurality of gods follow.  
 
@@ -112,7 +114,7 @@ Question 2
 
 ***Whether the essence is that of which there is generation***
 
-***Next it is asked whether the essence stands to the generation as that ofThe Latin *de* could be translated as either “from” or “of” (and in some contexts as “about”). Given Aquinas’s explanation in the corpus, “of” seems to be the sense he is stressing, even though “from” might seem to be more natural of a translation in this context. which there is generation. And two things are asked about this:***
+Next it is asked whether the essence stands to the generation as that ofThe Latin *de* could be translated as either “from” or “of” (and in some contexts as “about”). Given Aquinas’s explanation in the corpus, “of” seems to be the sense he is stressing, even though “from” might seem to be more natural of a translation in this context. which there is generation. And two things are asked about this:  
 
 first, whether the Son is generated of the Father’s substance;  
 
@@ -122,7 +124,7 @@ Article 1
 
 ***Whether the Son is generated of the Father’s substance***
 
-***To the first we proceed as follows.Parallel texts: *In III Sent*., d. 11, a. 1; *ST* I.41.3. It seems that the Son is not generated of the Father’s substance.***
+To the first we proceed as follows.Parallel texts: *In III Sent*., d. 11, a. 1; *ST* I.41.3. It seems that the Son is not generated of the Father’s substance.  
 
 Obj. 1: For every preposition is transitive, and transitivity requires diversity or distinction. Therefore, since the Son is not distinguished from the Father’s essence, he cannot be said to be born of his essence.  
 
@@ -152,7 +154,7 @@ Article 2
 
 ***Whether the Son is from nothing***
 
-***To the second we proceed as follows. It seems that that Son is generated from nothing.***
+To the second we proceed as follows. It seems that that Son is generated from nothing.  
 
 Obj. 1: For what is not from previous matter is said to be from nothing. But the Son is like this, since he is not of something as of matter. Therefore and so on.  
 
@@ -176,7 +178,7 @@ Question 3
 
 ***Whether the essence is the terminus of the generation***
 
-***Next it is asked whether the essence is the terminus of the generation.Parallel text: *ST* I.39.5. And it seems not.***
+Next it is asked whether the essence is the terminus of the generation.Parallel text: *ST* I.39.5. And it seems not.  
 
 Obj. 1: Since generation is between two termini, the terminus from which the generation starts and the terminus to which the generation goes. But the Son’s generation has no terminus-from-which, since he is not from non-being. Therefore he also has no terminus-to-which.  
 
@@ -200,7 +202,7 @@ Therefore one must note that, because every notional word signifies the act of a
 
 Exposition of the text  
 
-****But if it were spoken of relatively to the Father, or posited as a relative term, it would not indicate an essence*.*Sent*. I, 5.1(15).2. This appears false, because the name “God” is asserted as a relative term, and nevertheless, it indicates an essence. One should say to this that, although it indicates the essence on the side of what is being signified, still on the part of what it stands for, it indicates a person. This is why the entire explanation of the diversity in these arguments is that they do not conclude. Likewise, there is a different mode of indicating a supposit for the name “God,” as with the name “essence.”***
+*But if it were spoken of relatively to the Father, or posited as a relative term, it would not indicate an essence*.*Sent*. I, 5.1(15).2. This appears false, because the name “God” is asserted as a relative term, and nevertheless, it indicates an essence. One should say to this that, although it indicates the essence on the side of what is being signified, still on the part of what it stands for, it indicates a person. This is why the entire explanation of the diversity in these arguments is that they do not conclude. Likewise, there is a different mode of indicating a supposit for the name “God,” as with the name “essence.”  
 
 *To reveal himself, he begot that which the begetter himself is*.*Sent*. I, 5.1(15).5, quoting Augustine, *De fide et symbolo*, ch. 3, para. 4 (CSEL 41:8; PL 40:183). On the contrary: the generation of the Son, as was said above,Above, d. 4, q. 1, a. 3. is not for the sake of some end—since an end is always of greater dignity than what is for the sake of the end—so it is not for the sake of manifesting the Father. To this one should say that the word “to” designates a consequence, not a final cause. For the manifestation of the Father is a consequence of the generation of the Son.  
 

@@ -1,5 +1,7 @@
 # Chapter 52
 
+^52:1^ Consurge, consurge, induere fortitudine tua Sion, induere vestimentis gloriæ tuæ, Jerusalem civitas Sancti, quia non adjiciet ultra ut pertranseat per te incircumcisus et immundus.  
+
 > ^52:2^ Excutere de pulvere, consurge, sede, Jerusalem; solve vincula colli tui, captiva filia Sion.
 
 > ^52:3^ Quia hæc dicit Dominus: gratis venundati estis et sine argento redimemini.

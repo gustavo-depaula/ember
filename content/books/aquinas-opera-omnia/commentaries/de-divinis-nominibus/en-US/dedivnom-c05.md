@@ -1,10 +1,12 @@
 # C. 4 - On the Good, Light, the Beautiful, Love, Ecstasy, and Zeal; And that Evil Is Not Existing, Nor of an Existing Thing, Nor in Existing Things
 
+On the Good, Light, the Beautiful, Love, Ecstasy, and Zeal; And that Evil Is Not Existing, Nor of an Existing Thing, Nor in Existing Things  
+
 ***Lectio 1***
 
-***How the Good Is in God and How It Is Communicated to Angels and to Rational Souls***
+How the Good Is in God and How It Is Communicated to Angels and to Rational Souls  
 
-***C. IV, § 1. 95. If therefore it is necessary, now by speech let us go to this naming of the good, which the theologians excellently attribute to the super-god deity and from all things determine it, as I suppose, the thearchic essence, calling it goodness; and because that which is good as substantial good, extends goodness to all existing things.***
+C. IV, § 1. 95. If therefore it is necessary, now by speech let us go to this naming of the good, which the theologians excellently attribute to the super-god deity and from all things determine it, as I suppose, the thearchic essence, calling it goodness; and because that which is good as substantial good, extends goodness to all existing things.  
 
 > 96. For just as our sun, not reasoning or preferring, but through being itself, illuminates all things prevailing to participate its light according to proper *ratio*, so indeed also the good, above the sun, as an archetype segregatedly above an obscure image, through this essence proportionally sends out rays of the whole of goodness to all existing things.
 
@@ -214,7 +216,7 @@ Lectio 2
 
 ***How the Good Is Found in Other Corruptible Creatures***
 
-***108. But also concerning those irrational souls or animals, if it were proper to say, whatever ones cut the air and whatever advance on the earth and whatever are extended on the earth and those having spent life in the water or ambiguously; and whatever live covered under the earth and those affected by dust and whatever have simply a sensible soul or life, and all of these are animated and vivified on account of the good;***
+108. But also concerning those irrational souls or animals, if it were proper to say, whatever ones cut the air and whatever advance on the earth and whatever are extended on the earth and those having spent life in the water or ambiguously; and whatever live covered under the earth and those affected by dust and whatever have simply a sensible soul or life, and all of these are animated and vivified on account of the good;  
 
 > 109. and all plants have nutritive and motive life from the good;
 
@@ -268,7 +270,7 @@ Lectio 3
 
 ***On Sensible Light***
 
-***113. What indeed should someone say of the solar ray itself, according to itself? For that light is from the good and is an image of goodness; on account of which also the good is praised by the naming of light, just as an archetype manifested in an image.***
+113. What indeed should someone say of the solar ray itself, according to itself? For that light is from the good and is an image of goodness; on account of which also the good is praised by the naming of light, just as an archetype manifested in an image.  
 
 > 114. For just as the goodness of divinity existing above all things crosses over from the supreme and most advanced substances all the way to the last, and still it is above all things neither with superior things reaching to its excess nor with inferior things crossing over its periphery;
 
@@ -360,7 +362,7 @@ Lectio 4
 
 ***On Intelligible Light***
 
-***§ 5. 125. But this indeed in the *Symbolic Theology*, yet now it befits us to praise the good’s intelligible naming of light.***
+§ 5. 125. But this indeed in the *Symbolic Theology*, yet now it befits us to praise the good’s intelligible naming of light.  
 
 > 126. And it must be said that the good is called intelligible light (Matt 19:17),Plato, *Timaeus,* 6, 29e. because indeed it fills every supercelestial mind with intelligible light,
 
@@ -456,7 +458,7 @@ Lectio 5
 
 ***On the Beautiful and How It Is Attributed to God***
 
-***§ 7. 132. This good is praised by the holy theologians as beautiful and as beauty and as love and as lovable and whatever others are befitting namings of the beautifying and graciously had beauty.***
+§ 7. 132. This good is praised by the holy theologians as beautiful and as beauty and as love and as lovable and whatever others are befitting namings of the beautifying and graciously had beauty.  
 
 > 133. Yet beautiful and beauty must not be divided in the cause that comprehends the whole of things in one.
 
@@ -570,7 +572,7 @@ Lectio 6
 
 ***On the Causality of the Beautiful, As Regards the Diversity of Things Caused***
 
-***142. This one, the good and the beautiful singularly, is the cause of all the many beautiful and good things.***
+142. This one, the good and the beautiful singularly, is the cause of all the many beautiful and good things.  
 
 > 143. From this, all the substantial essences of existing things;
 
@@ -638,7 +640,7 @@ Lectio 7
 
 ***How Are the Motions of Divine Minds and Souls***
 
-***§8. 147. And the divine minds are said to be moved circularly, indeed, unitedly without beginnings and interminable illuminations of the beautiful and the good; yet in a direct line, when they proceed unto the providence of their subjects, crossing over all things rightly; yet obliquely, when also providing for those having less they remain inegressibly in identity around the cause of identity, the beautiful and the good, acting unceasingly around the choir.***
+§8. 147. And the divine minds are said to be moved circularly, indeed, unitedly without beginnings and interminable illuminations of the beautiful and the good; yet in a direct line, when they proceed unto the providence of their subjects, crossing over all things rightly; yet obliquely, when also providing for those having less they remain inegressibly in identity around the cause of identity, the beautiful and the good, acting unceasingly around the choir.  
 
 > § 9. 148. Yet the circular motion of a soul indeed is an entrance into itself from exterior things and a uniform convolution of its intellectual virtues, just as in a certain circle, lavishing upon it not to err and converting it from many exterior things and gathering it: first, into itself; then, thus made uniform, uniting unitively by united virtues, and thus leading by the hand unto the beautiful and the good which is above all existing things and one and the same and without beginning and interminable.
 
@@ -686,9 +688,9 @@ And therefore oblique motion, composed from uniformity and difformity, is consid
 
 Lectio 8  
 
-***On the Causality of the Beautiful and the Good with Respect to the Motions and Rests Both of These and of All Other Things***
+On the Causality of the Beautiful and the Good with Respect to the Motions and Rests Both of These and of All Other Things  
 
-***§10. 151. Therefore, of those and of the three sensible motions in this everything, and of the dwellings and stations and gatherings of each, the beautiful and the good is the much prior cause both contentive and final, which is above every station and motion, on account of which every station and motion and from which and in which and unto which and for the sake of which.***
+§10. 151. Therefore, of those and of the three sensible motions in this everything, and of the dwellings and stations and gatherings of each, the beautiful and the good is the much prior cause both contentive and final, which is above every station and motion, on account of which every station and motion and from which and in which and unto which and for the sake of which.  
 
 > 152. For from it and through it substance and every life both of mind and of soul; and of every nature smallnesses and equalities, magnitudes, all measures, proportions of existing things and harmonies and concretions, parts of the totality; every one and multitude, conjunctions of parts, unitions of every multitude, perfections of totalities; how, how much, how many, infinite, comparisons, discretions; every infinity, every end, all definitions, orders, excesses, elements, forms; every substance, every virtue, every operation, every habit, every sense, every word, every deed, every touch, every science, every unition;
 
@@ -744,7 +746,7 @@ Lectio 9
 
 ***On Love***
 
-***156. Therefore for all things the beautiful and the good is desirable and lovable and cherishable;***
+156. Therefore for all things the beautiful and the good is desirable and lovable and cherishable;  
 
 > 157. and on account of it and for its sake lessers love betters by converting themselves to them, and ordered things coordinated things communicatively, and betters lessers providingly, and these singulars themselves contentively;
 
@@ -894,7 +896,7 @@ Lectio 10
 
 ***On Ecstasy and On Zeal***
 
-***§13. 168. Yet the divine love is also making ecstasy, not dismissing that the lovers should be of themselves, but of the beloved.***
+§13. 168. Yet the divine love is also making ecstasy, not dismissing that the lovers should be of themselves, but of the beloved.  
 
 > 169. And indeed they show superiors made of the providence of those having less and coordinates of the containing of one another and subjects of the more divine conversion to first things.
 
@@ -956,7 +958,7 @@ Lectio 11
 
 ***How God Is Called Both Love and Lovable***
 
-***§14. 173. Yet why did the theologians willing totally sometimes indeed call him love and charity, yet sometimes lovable and cherishable?***
+§14. 173. Yet why did the theologians willing totally sometimes indeed call him love and charity, yet sometimes lovable and cherishable?  
 
 > 174. For he is the cause of this indeed both as sender and as progenitor; yet this he is. And this indeed is moved, yet that moves, or because he is leading and moving of his own self and to his own self.
 
@@ -1020,7 +1022,7 @@ Lectio 12
 
 ***The Words of Hierotheus on Love***
 
-***179. These also our noble perfector of sanctity, moved by God, recited in amative hymns, which it is not unfitting to remember and to set upon this speech concerning love as a certain holy chapter.***
+179. These also our noble perfector of sanctity, moved by God, recited in amative hymns, which it is not unfitting to remember and to set upon this speech concerning love as a certain holy chapter.  
 
 > §15. 180. Love, whether we should call it divine or angelic or intellectual or animal or natural, we understand a certain unitive and concretive virtue, moving superiors indeed unto the providence of those having less, yet coordinates again to an alternating communicative habitude for those in need, subjects to a conversion of those better and super-posited.
 
@@ -1070,7 +1072,7 @@ Lectio 13
 
 ***Doubts***
 
-***§18. 184. And indeed someone should say: if for all things the good and the beautiful is and lovable and desirable and cherishable, for even that which is not desires it, as has been said, and struggles in some way to be in it; and it is what forms unformed things; and in it also non-existing supersubstantially is said and is;***
+§18. 184. And indeed someone should say: if for all things the good and the beautiful is and lovable and desirable and cherishable, for even that which is not desires it, as has been said, and struggles in some way to be in it; and it is what forms unformed things; and in it also non-existing supersubstantially is said and is;  
 
 > 185. how does the multitude of demons not desire the beautiful and the good; yet inclined to matter and lapsed from angelic identity about the desire of the good, there is effected the cause of all evils both for themselves and for others, whatever evils are said to be made? Yet how, totally led out from the good, is the tribe of demons not boniform? Or how can good, made from the good, be varied? And what is that which made evil?
 
@@ -1132,7 +1134,7 @@ Lectio 14
 
 ***The First Question Is Solved: Whether Evil Is Something***
 
-***§19. 187. Therefore perhaps such a doubting speech might indeed say these things. Yet we shall ask it to look to the truth of things.***
+§19. 187. Therefore perhaps such a doubting speech might indeed say these things. Yet we shall ask it to look to the truth of things.  
 
 > 188. And first of all we are confident to say this: evil is not from the good, and if it is from the good, it is not evil; for neither is it of fire to chill nor of the good to produce not good things. And if all existing things are from the good—for nature for the good is: to produce and to conserve; yet for evil: to corrupt and to destroy—nothing of existing things is from evil; and neither shall there be a thing that evil is, if evil also should be through itself. And if not this, that which is evil is not altogether evil, but has a certain part of good, according to which it totally is.
 
@@ -1198,7 +1200,7 @@ Lectio 15
 
 ***The Second Question Is Posed: Whence Is Evil***
 
-***191. Whence therefore is evil? Someone might say; for if there is not evil, virtue and malice are the same and all to the whole and particular to the proportional or neither shall evil be repugnant to virtue. And indeed contraries are chastity and impurity and justice and injustice; and I do not say according to the just and the unjust man and him who is pure and him who is impure. But even before the apparent outer distance of one having virtue to his opposite, in the soul itself prior universally malices stand away from virtues,***
+191. Whence therefore is evil? Someone might say; for if there is not evil, virtue and malice are the same and all to the whole and particular to the proportional or neither shall evil be repugnant to virtue. And indeed contraries are chastity and impurity and justice and injustice; and I do not say according to the just and the unjust man and him who is pure and him who is impure. But even before the apparent outer distance of one having virtue to his opposite, in the soul itself prior universally malices stand away from virtues,  
 
 > 192. and the passions are repugnant to reason and from these it is necessary to grant a certain evil contrary to the good; for the good is not contrary to itself, but as from one principle and begotten from one cause, by communion and unity and friendship it rejoices; and neither is the less good contrary to the greater nor is the less hot or cold contrary to what is more so. Therefore evil is in existing things and is existing and is opposed to the good.
 
@@ -1242,7 +1244,7 @@ Lectio 16
 
 ***The Solution of the Second Principal Question***
 
-***§ 20. 194. Yet true speech says to these things that evil, according as it is evil, makes no substance or generation; yet evil only makes and corrupts the substance of existing things, as much as is in it. Yet if someone should say that it is operative of generation and that by the corruption of this it gives the generation of another, it must be responded truly that corruption does not give generation, but both corruption indeed and evil corrupts and makes only evil; yet generation and substance are made on account of the good, and it shall be corruption on account of itself, yet generative on account of the good; and indeed according as it is evil, it is neither existing nor effective of existing things; yet on account of the good, existing and effective of good things.***
+§ 20. 194. Yet true speech says to these things that evil, according as it is evil, makes no substance or generation; yet evil only makes and corrupts the substance of existing things, as much as is in it. Yet if someone should say that it is operative of generation and that by the corruption of this it gives the generation of another, it must be responded truly that corruption does not give generation, but both corruption indeed and evil corrupts and makes only evil; yet generation and substance are made on account of the good, and it shall be corruption on account of itself, yet generative on account of the good; and indeed according as it is evil, it is neither existing nor effective of existing things; yet on account of the good, existing and effective of good things.  
 
 > 195. Yet more: for neither shall both good and evil be the same according to the same nor shall the corruption and generation of the same according to the same be the same virtue, neither virtue *per se* nor corruption *per se*.
 
@@ -1356,9 +1358,9 @@ Yet ***with the good altogether*** receding***, neither shall anything be*** tot
 
 Lectio 17  
 
-***The Third Question Is Solved: In What Evil Is Situated, Both in General and in Specific and First That It Cannot Be in God***
+The Third Question Is Solved: In What Evil Is Situated, Both in General and in Specific and First That It Cannot Be in God  
 
-***§21. 205. But neither is evil in existing things. For if all existing things are from the good and the good is in all existing things and contains all things, either there shall not be evil in existing things, or it shall be in the good. And indeed it shall not be in the good: for neither is cold in fire nor is evil made in that which makes even evil good. Yet if evil shall be in the good, it seems to fail here how it shall be. If indeed from it, unfitting and impossible: for, as the truth of the eloquences says, *a good tree cannot make evil fruits* nor indeed conversely (Matt 7:18). Yet if not from it, it is manifest that it is from another principle and cause: for either evil shall be from the good or good from evil; or if this is not possible, good and evil shall be from another principle and cause. For every binary is not a principle; yet unity shall be the principle of every binary. For it is unfitting that two perfectly contrary things should proceed and be from one and the same and that this principle should not be simple and singular, but divisible and biform and contrary to its own self and varied.***
+§21. 205. But neither is evil in existing things. For if all existing things are from the good and the good is in all existing things and contains all things, either there shall not be evil in existing things, or it shall be in the good. And indeed it shall not be in the good: for neither is cold in fire nor is evil made in that which makes even evil good. Yet if evil shall be in the good, it seems to fail here how it shall be. If indeed from it, unfitting and impossible: for, as the truth of the eloquences says, *a good tree cannot make evil fruits* nor indeed conversely (Matt 7:18). Yet if not from it, it is manifest that it is from another principle and cause: for either evil shall be from the good or good from evil; or if this is not possible, good and evil shall be from another principle and cause. For every binary is not a principle; yet unity shall be the principle of every binary. For it is unfitting that two perfectly contrary things should proceed and be from one and the same and that this principle should not be simple and singular, but divisible and biform and contrary to its own self and varied.  
 
 > 206. And indeed, neither is it possible that there are two contrary principles of existing things, and those opposed to one another and in all things. For if this should be granted, even God shall not be without injury nor beyond trouble, if there should be something opposed to him: afterwards all things shall be inordinate and always fighting.
 
@@ -1420,7 +1422,7 @@ Lectio 18
 
 ***Evil Is Not in the Good Angels***
 
-***§22. 210. But neither in angels is there evil. For if a boniform angel should enunciate the divine goodness, that existing according to participation secondarily, which has been enunciated first according to cause, the angel is the image of God, the manifestation of hidden light;***
+§22. 210. But neither in angels is there evil. For if a boniform angel should enunciate the divine goodness, that existing according to participation secondarily, which has been enunciated first according to cause, the angel is the image of God, the manifestation of hidden light;  
 
 > 211. a pure mirror, most clear, uncontaminated, unpolluted, immaculate, receiving the whole, if it is fitting to say, beauty of the boniform deiformity;
 
@@ -1468,7 +1470,7 @@ Lectio 19
 
 ***Demons Are Not Naturally Evil, and How Evil Is Found in Them***
 
-***§23. 214. But neither are demons evil by nature; for if evil by nature, neither would they be from the good nor in existing things nor indeed changed from good, existing by nature and always as evil. Therefore afterwards: are they evil to their own selves or to others? If to their own selves indeed they also corrupt themselves; yet if to others, corrupting how or corrupting what? Substance or virtue or operation? If substance indeed, first of all not beyond nature; for by nature they do not corrupt incorruptible things, but things susceptible of corruption. Afterwards: neither this to all things and altogether evil. But neither is anything of existing things corrupted, according as it is substance and nature; but by defect of the ordination that is according to nature, the ratio of harmony and commensuration is made infirm, having to remain similarly. Yet the infirmity is not perfect; for perfect it would destroy both the corruption and the subject and there shall be such corruption and corruption of itself. Such as which is not evil, but failing good; for what is altogether lacking in good neither is in existing things. And there is the same argument concerning the corruption of virtue and operation.***
+§23. 214. But neither are demons evil by nature; for if evil by nature, neither would they be from the good nor in existing things nor indeed changed from good, existing by nature and always as evil. Therefore afterwards: are they evil to their own selves or to others? If to their own selves indeed they also corrupt themselves; yet if to others, corrupting how or corrupting what? Substance or virtue or operation? If substance indeed, first of all not beyond nature; for by nature they do not corrupt incorruptible things, but things susceptible of corruption. Afterwards: neither this to all things and altogether evil. But neither is anything of existing things corrupted, according as it is substance and nature; but by defect of the ordination that is according to nature, the ratio of harmony and commensuration is made infirm, having to remain similarly. Yet the infirmity is not perfect; for perfect it would destroy both the corruption and the subject and there shall be such corruption and corruption of itself. Such as which is not evil, but failing good; for what is altogether lacking in good neither is in existing things. And there is the same argument concerning the corruption of virtue and operation.  
 
 > 215. Then: how are the demons made by God evil? For the good produces and makes good things to subsist.
 
@@ -1566,7 +1568,7 @@ Lectio 20
 
 ***How Evil Is in Souls***
 
-***§24. 222. But someone should say that souls are evil. If for this reason indeed: that they stand together with evil men providingly and savingly; yet this is not evil, but good and from the good which even makes evil good.***
+§24. 222. But someone should say that souls are evil. If for this reason indeed: that they stand together with evil men providingly and savingly; yet this is not evil, but good and from the good which even makes evil good.  
 
 > 223. Yet if we say that souls are made evil, in what are they made evil, except in a defect of good habits and operations, and on account of their proper infirmity not attainment and lapse? For also air which is above us we say is darkened by a defect and absence of light; yet light itself is what also illuminates the darkness.
 
@@ -1598,7 +1600,7 @@ Lectio 21
 
 ***How Evil Is in Natural Things***
 
-***§26. 226. But neither in the whole nature is there evil. For if all natural *rationes* are from universal nature, nothing is contrary to it.***
+§26. 226. But neither in the whole nature is there evil. For if all natural *rationes* are from universal nature, nothing is contrary to it.  
 
 > 227. Yet for particular this indeed shall be according to nature, yet that not according to nature: for of one thing something is beyond nature and for another thing this is according to nature, yet that is beyond nature. Yet for nature malice is this which is beyond nature, namely the privation of the order of natural things. Wherefore nature is not evil, but this is evil for nature: to be impotent to perfect those things that are of proper nature.
 
@@ -1708,9 +1710,9 @@ the first of which is that matter is completive of the universe; for the univers
 
 Lectio 22  
 
-***Certain Secondary Questions Are Solved, and First Whether Evil Is Caused from the Good or from Some Other Cause***
+Certain Secondary Questions Are Solved, and First Whether Evil Is Caused from the Good or from Some Other Cause  
 
-***§30. 237. Yet there is gathered to say: the good is from one and a whole cause; yet evil from many and particular defects.***
+§30. 237. Yet there is gathered to say: the good is from one and a whole cause; yet evil from many and particular defects.  
 
 > 238. God sees evil as good and before him the causes of evils are virtues making good.
 
@@ -1824,9 +1826,9 @@ first thus: for evil, in the way in which anything can make something, can do th
 
 Lectio 23  
 
-***Second, How There Can Be Evil Things, with Divine Providence Existing; Third, On the Desire of Evil***
+Second, How There Can Be Evil Things, with Divine Providence Existing; Third, On the Desire of Evil  
 
-***§33. 248. Yet how totally are evil things with providence also existing? Evil is not, according as it is evil, neither existing nor in existing things, and nothing of existing things is unprovided for: for nor is evil conspicacious subsisting by the good. And if nothing of existing things, evil is not a participator of the good, yet a defect of the good, yet nothing of existing things is deprived universally of the good, in all existing things there is divine providence, and nothing of existing things is not provided for.***
+§33. 248. Yet how totally are evil things with providence also existing? Evil is not, according as it is evil, neither existing nor in existing things, and nothing of existing things is unprovided for: for nor is evil conspicacious subsisting by the good. And if nothing of existing things, evil is not a participator of the good, yet a defect of the good, yet nothing of existing things is deprived universally of the good, in all existing things there is divine providence, and nothing of existing things is not provided for.  
 
 > 249. But also providence kindly uses evil deeds either to either the proper or the common utility of those or others:
 

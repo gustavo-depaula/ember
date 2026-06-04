@@ -1,1 +1,3 @@
 # Articulus 16
+
+Quod vero sexto decimo ponitur, *esse potest dupliciter accipi, simpliciter et absolute, et sic non est Deo proprium: vel cum praecisione, idest nullo addito, et sic est Deo proprium*, calumniatur obiiciens non intelligens quod dicitur. Non enim hic accipitur absolute, secundum quod absolutum dicitur quod non dependet ab alio; sed absolute, idest universaliter. Similiter, quod dicitur *cum praecisione, idest nullo addito*, non bene intellexit. Intellexit enim scribens, quod esse cui nihil additur, sed est esse purum subsistens, est proprium Deo; non autem intellexit quod esse prout sine additione proponitur, sit proprium Deo.

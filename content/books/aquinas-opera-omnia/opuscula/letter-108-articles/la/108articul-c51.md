@@ -1,1 +1,3 @@
 # Articulus 50
+
+Quod vero quinquagesimo ponitur, *ordo alicuius dicitur dupliciter: vel ut subiecti quod ordinatur, vel ut rationis secundum quam ordo attenditur; primo modo non est in divinis ordo naturae, sed secundo modo*, potest recte et non recte intelligi. Ordo enim non est nisi aliquorum distinctorum convenientium in aliquo: quae enim in nullo conveniunt, nullum habent ordinem ad invicem. Ratio igitur ordinis potest accipi in divinis personis vel ex parte distinctionis personarum: et sic ratio ordinis non est natura, sed relatio; vel ex parte convenientiae, et sic natura est ratio ordinis: propter hoc enim dicitur ordo naturae in divinis personis, quia natura divina communicatur filio a patre, et ab utroque spiritui sancto.

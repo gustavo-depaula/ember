@@ -1,6 +1,8 @@
 # Chapter 1
 
-***^1:1^ Visio Isaiæ filii Amos, quam vidit super Judam et Jerusalem in diebus Oziæ, Joatham, Achaz, Ezechiæ, regum Juda.***
+***Lectio 1***
+
+^1:1^ Visio Isaiæ filii Amos, quam vidit super Judam et Jerusalem in diebus Oziæ, Joatham, Achaz, Ezechiæ, regum Juda.  
 
 > **17**. ***Visio Isaiae filii Amos***. Iste liber dividitur in duas partes:
 
@@ -74,7 +76,7 @@ Ad quod dicendum quod omnia quae in hoc libro scripta sunt temporibus prophetaru
 
 Lectio 2  
 
-***^1:2^ Audite cæli, et auribus percipe terra, quoniam Dominus locutus est: filios enutrivi et exaltavi, ipsi autem spreverunt me.***
+^1:2^ Audite cæli, et auribus percipe terra, quoniam Dominus locutus est: filios enutrivi et exaltavi, ipsi autem spreverunt me.  
 
 > ^1:3^ Cognovit bos possessorem suum, et asinus præsepe domini sui; Israel autem me non cognovit, et populus meus non intellexit.
 
@@ -288,7 +290,7 @@ discipulos occidunt, Matth. XXIII *ecce mitto vos sicut oves in medio luporum*.
 
 Lectio 3  
 
-***^1:10^ Audite verbum Domini, principes Sodomorum; percipite auribus legem Dei vestri, populus Gomorrhæ.***
+^1:10^ Audite verbum Domini, principes Sodomorum; percipite auribus legem Dei vestri, populus Gomorrhæ.  
 
 > ^1:11^ Quo mihi multitudinem victimarum vestrarum? Dicit Dominus. Plenus sum; holocausta arietum et adipem pinguium et sanguinem vitulorum et agnorum et hircorum nolui.
 
@@ -376,7 +378,7 @@ Quartum tempus est sub gratia, quando jam usus eorum ex toto abolitus est, quia 
 
 Lectio 4  
 
-***^1:13b^ Neomeniam et sabbatum et festivitates alias non feram; iniqui sunt cœtus vestri;***
+^1:13b^ Neomeniam et sabbatum et festivitates alias non feram; iniqui sunt cœtus vestri;  
 
 > ^1:14^ kalendas vestras et solemnitates vestras odivit anima mea; facta sunt mihi molesta, laboravi sustinens.
 
@@ -478,7 +480,7 @@ Tertio ostendit esse immutabile judicium: ***quia os Domini locutum est***, Num.
 
 Lectio 5  
 
-***^1:21^ Quomodo facta est meretrix civitas fidelis, plena judicii? Justitia habitavit in ea, nunc autem homicidæ.***
+^1:21^ Quomodo facta est meretrix civitas fidelis, plena judicii? Justitia habitavit in ea, nunc autem homicidæ.  
 
 > ^1:22^ Argentum tuum versum est in scoriam, vinum tuum mistum est aqua.
 

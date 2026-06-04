@@ -1,5 +1,7 @@
 # Chapter 33
 
+^33:1^ Væ qui prædaris; nonne et ipse prædaberis? Et qui spernis, nonne et ipse sperneris? Cum consummaveris deprædationem, deprædaberis; cum fatigatus desieris contemnere, contemneris.  
+
 > ^33:2^ Domine miserere nostri, te enim exspectavimus; esto brachium nostrum in mane et salus nostra in tempore tribulationis.
 
 > ^33:3^ A voce angeli fugerunt populi, ab exaltatione tua dispersæ sunt gentes.

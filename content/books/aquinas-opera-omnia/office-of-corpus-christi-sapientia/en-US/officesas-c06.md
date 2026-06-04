@@ -4,13 +4,13 @@
 
 Psalm 118 (119):81–96, 97–112, 113–128  
 
-***My soul has fainted after your salvation: * and in your word I have very much hoped, etc.***
+My soul has fainted after your salvation: * and in your word I have very much hoped, etc.  
 
 > Chapter
 
 ***1 Corinthians 11:26***
 
-***As often as you shall eat this bread and drink this chalice, you will proclaim the death of the Lord until he comes.***
+As often as you shall eat this bread and drink this chalice, you will proclaim the death of the Lord until he comes.  
 
 > Responsory
 

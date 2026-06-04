@@ -1,10 +1,12 @@
 # Q. 7 - On venial sin
 
+***De peccato veniali***
+
 ***Articulus 1***
 
 ***Utrum veniale peccatum convenienter dividatur contra mortale***
 
-***Quaestio est de veniali peccato. Et primo quaeritur utrum veniale peccatum convenienter dividatur contra mortale.***
+Quaestio est de veniali peccato. Et primo quaeritur utrum veniale peccatum convenienter dividatur contra mortale.  
 
 Et videtur quod non. Quia, ut Augustinus dicit XXII contra Faustum, peccatum est dictum vel factum vel concupitum contra legem aeternam. Sed omne peccatum quod est contra legem aeternam, est mortale. Ergo omne peccatum est mortale. Non ergo recte dividitur peccatum in mortale et veniale.  
 
@@ -668,7 +670,7 @@ Articulus 11
 
 ***Utrum peccata venialia post hanc vitam remittantur in Purgatorio***
 
-***Undecimo quaeritur utrum peccata venialia post hanc vitam remittantur in Purgatorio.***
+Undecimo quaeritur utrum peccata venialia post hanc vitam remittantur in Purgatorio.  
 
 Et videtur quod non. Dicitur enim Eccle. XI, 3: *si lignum fuerit praecisum, ubicumque ceciderit, ibi erit, sive ad Austrum, sive ad Aquilonem*. Sed praecisio hominis fit per mortem. Ergo post mortem in illo statu remanebit semper in quo moritur. Non ergo post mortem remittitur homini aliquod peccatum.  
 
@@ -764,7 +766,7 @@ Articulus 12
 
 ***De remissione peccatorum venialium in hac vita***
 
-***Duodecimo quaeritur de remissione peccatorum venialium in hac vita. Utrum scilicet remittantur per aspersionem aquae benedictae, unctionem corporis et huiusmodi.***
+Duodecimo quaeritur de remissione peccatorum venialium in hac vita. Utrum scilicet remittantur per aspersionem aquae benedictae, unctionem corporis et huiusmodi.  
 
 Et videtur quod non. Conferre enim gratiam est proprium sacramentorum novae legis. Sed huiusmodi non dicuntur esse sacramenta. Ergo non conferunt gratiam; non ergo per ea fit remissio alicuius culpae.  
 

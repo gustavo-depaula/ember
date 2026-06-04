@@ -1,5 +1,7 @@
 # Proposition 14
 
+115. In omni anima res sensibiles sunt per hoc, quod est exemplum eis, et res intellectibiles in ea sunt, quia scit eas.  
+
 > 116. Et non facta est ita, nisi quia ipsa expansa est inter res intellectibiles, quae non moventur, et inter res sensibiles, quae moventur.
 
 > 117. Et quia anima sic est, fit, quod imprimit res corporeas, quapropter facta est causa corporum et facta est causata ex intelligentia, quae est ante eam.

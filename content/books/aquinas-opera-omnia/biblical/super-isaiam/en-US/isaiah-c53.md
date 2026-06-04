@@ -1,5 +1,7 @@
 # Chapter 51
 
+^51:1^ Give ear to me, you that follow that which is just, and you that seek the Lord: look unto the rock whence you are hewn, and to the hole of the pit from which you are dug out.  
+
 > ^51:2^ Look unto Abraham your father, and to Sarah that bore you: for I called him alone, and blessed him, and multiplied him.
 
 > ^51:3^ The Lord therefore will comfort Zion, and will comfort all the ruins thereof: and he will make her desert as a place of pleasure, and her wilderness as the garden of the Lord. Joy and gladness shall be found therein, thanksgiving, and the voice of praise.

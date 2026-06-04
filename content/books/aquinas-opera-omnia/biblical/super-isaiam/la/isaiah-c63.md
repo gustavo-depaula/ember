@@ -1,5 +1,7 @@
 # Chapter 61
 
+^61:1^ Spiritus Domini super me, eo quod unxerit me Dominus. Ad annuntiandum mansuetis misit me ut mederer contritis corde et prædicarem captivis indulgentiam et clausis apertionem,  
+
 > ^61:2^ ut prædicarem annum placabilem Domino et diem ultionis Deo nostro, ut consolarer omnes lugentes,
 
 > ^61:3^ ut ponerem consolationem lugentibus Sion et darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu mœroris. Et vocabuntur in ea fortes justitiæ plantatio Domini ad glorificandum;

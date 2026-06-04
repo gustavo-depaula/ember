@@ -1,8 +1,10 @@
 # Chapter 2
 
+***Vox 1***
+
 ***Banausius βᾰ́ναυσος***
 
-***Quod banausius est ille qui consumit sua per magnos sumptus non secundum quod oportet, sicut quod histriones nuptiarum pascit et comediis tribuit in transitu purpuram ferens.***
+Quod banausius est ille qui consumit sua per magnos sumptus non secundum quod oportet, sicut quod histriones nuptiarum pascit et comediis tribuit in transitu purpuram ferens.  
 
 Vox 2  
 
@@ -14,7 +16,7 @@ Vox 3
 
 ***Beatus***
 
-***Quod beati dicendi sunt qui sunt de numero viventium, quibus existunt conditiones felicitatis.***
+Quod beati dicendi sunt qui sunt de numero viventium, quibus existunt conditiones felicitatis.  
 
 Quod beatos dicimus homines.  
 
@@ -74,19 +76,19 @@ Vox 9
 
 ***Bellare***
 
-***Quod bellare nullus eligit per se uel eius quod est bellare gracia uel preparare bellum; alioquin deficientibus hostibus ciues et amicos oppugnarent ne pugne deficerent, set talis esset uiolenter occisor.***
+Quod bellare nullus eligit per se uel eius quod est bellare gracia uel preparare bellum; alioquin deficientibus hostibus ciues et amicos oppugnarent ne pugne deficerent, set talis esset uiolenter occisor.  
 
 Vox 10  
 
 ***Benefacere***
 
-***Quod benefacere est operosius, bene pati autem illaboriosum uidetur esse; et ideo benefacientes plus diligunt beneficiatos, cum ea que laboriose fiunt magis diligantur.***
+Quod benefacere est operosius, bene pati autem illaboriosum uidetur esse; et ideo benefacientes plus diligunt beneficiatos, cum ea que laboriose fiunt magis diligantur.  
 
 Vox 11  
 
 ***Benefactor***
 
-***Quod benefactores beneficiatos uidentur magis amare quam beneficiati benefacientes; et cum hoc uideatur preter racionem, queratur racio huius.***
+Quod benefactores beneficiatos uidentur magis amare quam beneficiati benefacientes; et cum hoc uideatur preter racionem, queratur racio huius.  
 
 Quod benefactor plus diligit beneficiatum, quia beneficiatus est opus benefacientis et sicut omnis homo plus diligit proprium opus quam diligatur, sicut poetis accidit qui diligunt plus sua poemata.  
 
@@ -96,7 +98,7 @@ Vox 12
 
 ***Beneficium***
 
-***Quod si beneficium aliquis ab amico accipit qui sperat beneficiari, debet ei resoluere sponte secundum dignitatem eorum que accipit.***
+Quod si beneficium aliquis ab amico accipit qui sperat beneficiari, debet ei resoluere sponte secundum dignitatem eorum que accipit.  
 
 Quod accipientes beneficia paruificant, dantes uero extollunt beneficia que dederunt.  
 
@@ -106,7 +108,7 @@ Vox 13
 
 ***Beniuolencia***
 
-***Quod beniuolencia uidetur esse amicicia et non est; est enim ad ignotos et latens, amicicia autem non.***
+Quod beniuolencia uidetur esse amicicia et non est; est enim ad ignotos et latens, amicicia autem non.  
 
 Quod beniuolencia non est amacio, quia amacio cum consuetudine, beniuolencia autem ex repentino, quemadmodum circa agonistas accidit.  
 
@@ -170,7 +172,7 @@ Vox 16
 
 ***Bonus***
 
-***Quod nullus est bonus qui non gaudet bonis operibus; et de iusto similiter est dicendum.***
+Quod nullus est bonus qui non gaudet bonis operibus; et de iusto similiter est dicendum.  
 
 Quod quedam bona requiruntur ad felicitatem necessario sicut uirtutes, et quedam ad ipsam operantur organice.  
 
@@ -180,7 +182,7 @@ Vox 17
 
 ***Bona fortune***
 
-***Quod bona fortune sunt illa que sunt bona simpliciter, set non semper alicui sunt bona.***
+Quod bona fortune sunt illa que sunt bona simpliciter, set non semper alicui sunt bona.  
 
 Quod bona fortune homines maximo desiderio persequuntur et orant.  
 
@@ -192,7 +194,7 @@ Vox 18
 
 ***Bonus***
 
-***Quod boni et simpliciter boni sunt ad inuicem et utiles et delectabiles, quia bonorum acciones sunt similes.***
+Quod boni et simpliciter boni sunt ad inuicem et utiles et delectabiles, quia bonorum acciones sunt similes.  
 
 Quod tria sunt que uidentur facere homines bonos, scilicet natura, consuetudo et doctrina.  
 

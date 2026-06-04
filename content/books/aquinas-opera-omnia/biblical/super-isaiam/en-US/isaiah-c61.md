@@ -1,5 +1,7 @@
 # Chapter 59
 
+^59:1^ Behold the hand of the Lord is not shortened that it cannot save, neither is his ear heavy that it cannot hear.  
+
 > ^59:2^ But your iniquities have divided between you and your God, and your sins have hid his face from you that he should not hear.
 
 > ^59:3^ For your hands are defiled with blood, and your fingers with iniquity: your lips have spoken lies, and your tongue utters iniquity.

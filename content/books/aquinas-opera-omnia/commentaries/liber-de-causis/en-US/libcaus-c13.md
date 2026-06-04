@@ -1,5 +1,7 @@
 # Proposition 12
 
+103. Of all the first things, certain ones are in certain others according to the mode by which it is permitted that one of them be in another.  
+
 > 104. This is because life and intelligence are in being, and being and intelligence are in life, and being and life are in intelligence.
 
 > 105. However, being and life in intelligence are two *alachili*, that is, intelligences, and being and intelligence in life are two lives, and intelligence and life in being are two beings.

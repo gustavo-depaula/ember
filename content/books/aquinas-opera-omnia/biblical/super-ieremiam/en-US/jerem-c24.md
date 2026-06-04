@@ -1,10 +1,12 @@
 # C. 22 - Threats against Judah’s rulers
 
+***Threats against Judah’s rulers***
+
 ***Lecture 1***
 
 ***Injunctions to the king of Judah***
 
-***^22:1^ Thus says the Lord: go down to the house of the king of Judah, and there you shall speak this word,***
+^22:1^ Thus says the Lord: go down to the house of the king of Judah, and there you shall speak this word,  
 
 > ^22:2^ and say: hear the word of the Lord, O king of Judah, who sits upon the throne of David, you and your servants, and your people, who enter through these gates.
 
@@ -68,7 +70,7 @@ Lecture 2
 
 ***Vanity of Jehoiakim’s works***
 
-***^ 22:13^ Woe to him who builds his house by unrighteousness, and his chambersHeb. עֲלִיּוֹתָ֖יו: *his upper rooms*. by injustice, that will oppress his friend without cause, and not give him his wages.***
+^ 22:13^ Woe to him who builds his house by unrighteousness, and his chambersHeb. עֲלִיּוֹתָ֖יו: *his upper rooms*. by injustice, that will oppress his friend without cause, and not give him his wages.  
 
 > ^ 22:14^ Who says, ‘I shall build myself a broad house, and spacious chambers’; who opens windows for himself, and makes paneled roofs of cedar, and paints them with sinopia.Sinopia is a dark, reddish-brown, earth pigment, which is so-called from the name of the city where it was mined, Sinopis, in Cappadocia. See Pliny, *Natural History* 35.6.13.
 
@@ -120,7 +122,7 @@ Lecture 3
 
 ***Threat against Jekoniah***
 
-***^22:24^ As I live, says the Lord, that even if Jekoniah, the son of Jehoiakim, the king of Judah, were a ring upon my right hand, I would pull him thence.***
+^22:24^ As I live, says the Lord, that even if Jekoniah, the son of Jehoiakim, the king of Judah, were a ring upon my right hand, I would pull him thence.  
 
 > ^22:25^ And I will give you into the hand of those who seek your soul, and into the hand of those whose face you fear, and into the hand of Nebuchadnezzar, king of Babylon, and into the hand of the Chaldeans.
 
@@ -160,6 +162,6 @@ Lecture 4
 
 Collations  
 
-***A note concerning the verse, ***do not cry for the dead*** (Jer 22:10)—that one must not weep much for the dead because of the uselessness of grieving: *do not give your heart to sadness, but drive it from you* (Sir 38:21); because death is common to all: *we all die, and like water, which does not return again, we are poured out on the earth* (2 Sam 14:14); because of freedom from guilt: *he was taken lest wickedness change his understanding, or falsehood deceive his soul* (Wis 4:11); because of rest from labor: *from henceforth now, says the Spirit, that they may rest from their labors* (Rev 14:13); because of the attainment of glory: *for we know that if our earthly house of this tabernacle were dissolved, we have a building of God, a house not made with hands, but eternal in the heavens* (2 Cor 5:1).***
+A note concerning the verse, ***do not cry for the dead*** (Jer 22:10)—that one must not weep much for the dead because of the uselessness of grieving: *do not give your heart to sadness, but drive it from you* (Sir 38:21); because death is common to all: *we all die, and like water, which does not return again, we are poured out on the earth* (2 Sam 14:14); because of freedom from guilt: *he was taken lest wickedness change his understanding, or falsehood deceive his soul* (Wis 4:11); because of rest from labor: *from henceforth now, says the Spirit, that they may rest from their labors* (Rev 14:13); because of the attainment of glory: *for we know that if our earthly house of this tabernacle were dissolved, we have a building of God, a house not made with hands, but eternal in the heavens* (2 Cor 5:1).  
 
 Also, concerning the verse, ***the wind shall feed all your shepherds*** (Jer 22:22), note that sometimes the shepherds of the Church are fed by the wind of self-importance: *the wind shall bear all of them away, and the breeze shall take them* (Isa 57:13); the wind of excessive expectation: *as one who grasps a shadow, and one who chases the wind, so is one who attends to lying visions* (Sir 34:2); the wind of captivity: *you shall scatter a third part to the wind, and you shall draw the sword after them* (Ezek 5:2); and the wind of future damnation, as it says above: ***as a burning wind I will scatter them before the enemy. In the day of their destruction, I shall show them my back, and not my face*** (Jer 18:17).

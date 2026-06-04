@@ -1,6 +1,8 @@
 # Chapter 7
 
-***^7:1^ And it came to pass in the days of Achaz the son of Joathan, the son of Ozias, king of Judah, that Rasin king of Syria and Phacee the son of Romelia king of Israel, came up to Jerusalem, to fight against it: but they could not prevail over it.***
+***Lecture 1***
+
+^7:1^ And it came to pass in the days of Achaz the son of Joathan, the son of Ozias, king of Judah, that Rasin king of Syria and Phacee the son of Romelia king of Israel, came up to Jerusalem, to fight against it: but they could not prevail over it.  
 
 > ^7:2 ^And they told the house of David, saying: Syria has rested upon Ephraim, and his heart was moved, and the heart of his people, as the trees of the woods are moved with the wind.
 

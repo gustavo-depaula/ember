@@ -1,5 +1,7 @@
 # Proposition 15
 
+124. Omnis sciens, qui scit essentiam suam, est rediens ad essentiam suam reditione completa.  
+
 > 125. Quod est, quia scientia non est nisi actio intellectibilis. Cum ergo scit sciens suam essentiam, tunc redit per operationem suam intellectibilem ad essentiam suam.
 
 > 126. Et hoc non est ita, nisi quoniam sciens et scitum sunt res una, quoniam scientia scientis essentiam suam est ex eo et ad eum: Est ex eo, quia est sciens, et ad eum, quia est scitum.

@@ -1,6 +1,8 @@
 # A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary
 
-***The Christian must not only believe in the Son of God, as we have seen, but also in his Incarnation.Parallel texts: *ST* III.2.1–6; 4.1–3; 5.1–4; *In III Sent*. 2.1.3, qa. 1, 2; *In IV Sent*. 3.3, qa. 2, ad 2; *SCG* IV.29, 30, 32, 33; *Compendium theologiae*, cc. 204, 205, 207, 208. St. John, after having written of things subtle and difficult to understand, points out the Incarnation to us when he says: *and the Word was made flesh* (John 1:14). Now, in order that we may understand something of this, I will give two illustrations at the outset.***
+***Who Was Conceived by the Holy Spirit, Born of the Virgin Mary***
+
+The Christian must not only believe in the Son of God, as we have seen, but also in his Incarnation.Parallel texts: *ST* III.2.1–6; 4.1–3; 5.1–4; *In III Sent*. 2.1.3, qa. 1, 2; *In IV Sent*. 3.3, qa. 2, ad 2; *SCG* IV.29, 30, 32, 33; *Compendium theologiae*, cc. 204, 205, 207, 208. St. John, after having written of things subtle and difficult to understand, points out the Incarnation to us when he says: *and the Word was made flesh* (John 1:14). Now, in order that we may understand something of this, I will give two illustrations at the outset.  
 
 It is clear that there is nothing more like the Word of God than the word which is conceived in our mind but not spoken. Now, no one knows this interior word in our mind except the one who conceives it, and it is known to others only when it is pronounced. So also as long as the Word of God was in the heart of the Father, it was not known except by the Father himself; but when the Word assumed flesh, as when a word becomes audible, then was it first made manifest and known. *Afterwards he was seen upon earth and conversed with men* (Bar 3:38).  
 

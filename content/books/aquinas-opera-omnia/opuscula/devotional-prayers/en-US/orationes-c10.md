@@ -1,5 +1,7 @@
 # O God of All Consolation
 
+Prayer for the attainment of heaven *(Aquinas is said to have prayed this prayer in intimate contemplation of God.)*  
+
 ***O God of all consolation,***
 ***you who see in us nothing***
 ***but your own gifts,***

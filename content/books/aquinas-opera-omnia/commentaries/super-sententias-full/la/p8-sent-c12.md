@@ -1,6 +1,8 @@
 # D. 25 - Conferral of holy orders
 
-***Postquam determinavit Magister de sacramento ordinis, hic determinat de conferentibus et suscipientibus hoc sacramentum; et dividitur in partes duas: in prima determinat de conferentibus; in secunda de suscipientibus, ibi: *sacri canones sanxerunt ut subdiaconus non ordinetur ante quatuordecim annos*, etc.***
+***De conferentibus ordinis***
+
+Postquam determinavit Magister de sacramento ordinis, hic determinat de conferentibus et suscipientibus hoc sacramentum; et dividitur in partes duas: in prima determinat de conferentibus; in secunda de suscipientibus, ibi: *sacri canones sanxerunt ut subdiaconus non ordinetur ante quatuordecim annos*, etc.  
 
 Prima in duas: in prima inquirit de haeretici, utrum possint ordinare; secundo specialiter de simoniacis, ibi: *de simoniacis vero non est ambigendum quin sint haeretici*.  
 
@@ -23,7 +25,7 @@ primo, utrum solus episcopus possit conferre ordinis sacramentum;
 
 ***Utrum solus episcopus possit conferre ordinis sacramentum***
 
-***Ad primum sic proceditur. Videtur quod non tantum episcopus ordinis sacramentum conferat. Quia manus impositio aliquid ad consecrationem facit. Sed sacerdotibus qui ordinantur, non solus episcopus manus imponit, sed sacerdotes astantes. Ergo non solus episcopus confert ordinis sacramentum.***
+Ad primum sic proceditur. Videtur quod non tantum episcopus ordinis sacramentum conferat. Quia manus impositio aliquid ad consecrationem facit. Sed sacerdotibus qui ordinantur, non solus episcopus manus imponit, sed sacerdotes astantes. Ergo non solus episcopus confert ordinis sacramentum.  
 
 Praeterea, tunc unicuique datur potestas ordinis, quando ei exhibetur quod ad actum sui ordinis pertinet. Sed subdiacono datur urceolus cum aqua, manili et manutergio ab archidiacono; similiter acolythis candelabrum cum cereo, et urceolus vacuus. Ergo non solus episcopus confert ordinis sacramentum.  
 
@@ -55,7 +57,7 @@ Articulus 2
 
 ***Utrum haereticus, vel quicumque ab Ecclesia praecisus***
 
-***Ad secundum sic proceditur. Videtur quod haeretici et ab Ecclesia praecisi non possint ordines conferre. Plus enim est aliquem promovere ad ordines quam aliquem absolvere vel ligare. Sed haereticus non potest absolvere vel ligare. Ergo nec ordines conferre.***
+Ad secundum sic proceditur. Videtur quod haeretici et ab Ecclesia praecisi non possint ordines conferre. Plus enim est aliquem promovere ad ordines quam aliquem absolvere vel ligare. Sed haereticus non potest absolvere vel ligare. Ergo nec ordines conferre.  
 
 Praeterea, sacerdos ab Ecclesia separatus potest conficere: quia in eo character indelebiliter manet, per quem hoc potest. Sed episcopus non accipit aliquem characterem in sui promotione. Ergo non est necesse quod episcopalis potestas in eo remaneat post separationem ejus ab Ecclesia.  
 
@@ -106,7 +108,7 @@ primo, utrum aliquis impediatur propter defectum naturae;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod sexus femineus non impediat ordinis susceptionem. Quia officium prophetiae est majus quam sacerdotis officium: quia propheta est medius inter Deum et sacerdotem, sicut sacerdos inter Deum et populum. Sed prophetiae officium aliquando mulieribus est concessum, ut patet 4 Reg. Ergo et sacerdotii officium eis competere potest.***
+Ad primum sic proceditur. Videtur quod sexus femineus non impediat ordinis susceptionem. Quia officium prophetiae est majus quam sacerdotis officium: quia propheta est medius inter Deum et sacerdotem, sicut sacerdos inter Deum et populum. Sed prophetiae officium aliquando mulieribus est concessum, ut patet 4 Reg. Ergo et sacerdotii officium eis competere potest.  
 
 Praeterea, sicut ordo ad quamdam perfectionem pertinet, ita et praelationis officium, et martyrium, et religionis status. Sed praelatio committitur mulieribus in novo testamento, ut patet de abbatissis, et in veteri, ut patet de Debora quae judicavit Israel, judicum 4: competit etiam eis martyrium, et religionis status. Ergo et ordo Ecclesiae.  
 
@@ -118,7 +120,7 @@ Praeterea, in ordinandis praeexigitur corona, quamvis non de necessitate sacrame
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod pueri, et qui carent usu rationis, non possint ordines suscipere. Quia, ut in littera dicitur, sacri canones in suscipientibus ordines certum aetatis tempus determinaverunt. Sed hoc non esset, si pueri recipere possent ordinis sacramentum. Ergo, etc.***
+Ulterius. Videtur quod pueri, et qui carent usu rationis, non possint ordines suscipere. Quia, ut in littera dicitur, sacri canones in suscipientibus ordines certum aetatis tempus determinaverunt. Sed hoc non esset, si pueri recipere possent ordinis sacramentum. Ergo, etc.  
 
 Praeterea, sacramentum ordinis est dignius quam matrimonium. Sed pueri, et alii carentes usu rationis, non possunt contrahere matrimonium. Ergo nec ordines suscipere.  
 
@@ -130,7 +132,7 @@ Praeterea, alia sacramenta in quibus character imprimitur, possunt pueri suscipe
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quaedam requiruntur in recipiente sacramentum quasi de necessitate sacramenti, quae si desint, non potest aliquis suscipere neque sacramentum neque rem sacramenti; quaedam vero requiruntur non de necessitate sacramenti, sed de necessitate praecepti propter congruitatem ad sacramentum; et sine talibus aliquis suscipit sacramentum, sed non rem sacramenti. Dicendum ergo, quod sexus virilis requiritur ad susceptionem ordinis non solum secundo modo, sed etiam primo. Unde etsi mulieri exhibeantur omnia quae in ordinibus fiunt, ordinem non suscipit: quia cum sacramentum sit signum, in his quae in sacramento aguntur, requiritur non solum res, sed significatio rei; sicut dictum est, quod in extrema unctione exigitur quod sit infirmus, ut significetur curatione indigens. Cum ergo in sexu femineo non possit significari aliqua eminentia gradus, quia mulier statum*mulier statum.—mulier ex hoc ipso quod mulier est statum* PLE. subjectionis habet; ideo non potest ordinis sacramentum suscipere. Quidam autem dixerunt, quod sexus virilis est de necessitate praecepti, sed non de necessitate sacramenti: quia etiam in decretis fit mentio de diaconissa et *presbytera*. Sed diaconissa dicitur quae in aliquo actu diaconi participat, sicut quae legit homiliam in Ecclesia; *presbytera* autem dicitur vidua, quia presbyter idem est quod senior.***
+Respondeo dicendum ad primam quaestionem, quod quaedam requiruntur in recipiente sacramentum quasi de necessitate sacramenti, quae si desint, non potest aliquis suscipere neque sacramentum neque rem sacramenti; quaedam vero requiruntur non de necessitate sacramenti, sed de necessitate praecepti propter congruitatem ad sacramentum; et sine talibus aliquis suscipit sacramentum, sed non rem sacramenti. Dicendum ergo, quod sexus virilis requiritur ad susceptionem ordinis non solum secundo modo, sed etiam primo. Unde etsi mulieri exhibeantur omnia quae in ordinibus fiunt, ordinem non suscipit: quia cum sacramentum sit signum, in his quae in sacramento aguntur, requiritur non solum res, sed significatio rei; sicut dictum est, quod in extrema unctione exigitur quod sit infirmus, ut significetur curatione indigens. Cum ergo in sexu femineo non possit significari aliqua eminentia gradus, quia mulier statum*mulier statum.—mulier ex hoc ipso quod mulier est statum* PLE. subjectionis habet; ideo non potest ordinis sacramentum suscipere. Quidam autem dixerunt, quod sexus virilis est de necessitate praecepti, sed non de necessitate sacramenti: quia etiam in decretis fit mentio de diaconissa et *presbytera*. Sed diaconissa dicitur quae in aliquo actu diaconi participat, sicut quae legit homiliam in Ecclesia; *presbytera* autem dicitur vidua, quia presbyter idem est quod senior.  
 
 Ad primum ergo dicendum, quod prophetia non est sacramentum, sed donum Dei; unde non exigitur ibi significatio, sed solum res. Et quia secundum rem, in his quae sunt animae, mulier non differt a viro, cum quandoque mulier inveniatur melior quantum ad animam multis viris; ideo donum prophetiae et alia hujusmodi potest accipere, sed non ordinis sacramentum.  
 
@@ -138,7 +140,7 @@ Et per hoc patet solutio ad secundum et tertium. De abbatissis tamen dicitur, qu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod per pueritiam, et alios defectus quibus tollitur usus rationis, praestatur impedimentum actui; et ideo omnia illa sacramenta quae actum requirunt suscipientis, talibus non competunt, sicut poenitentia, matrimonium, et hujusmodi. Sed quia potestates infusae sunt priores actibus, sicut et naturales, quamvis acquisitae sint posteriores; remoto autem posteriori non tollitur prius; ideo omnia sacramenta in quibus non requiritur actus suscipientis de necessitate sacramenti, sed potestas aliqua spiritualis divinitus datur, possunt pueri suscipere et alii qui usu rationis carent; hac tamen distinctione habita, quod in minoribus ordinibus requiritur discretionis tempus de honestate propter dignitatem sacramenti, sed non de necessitate praecepti, neque de necessitate sacramenti.***
+Ad secundam quaestionem dicendum, quod per pueritiam, et alios defectus quibus tollitur usus rationis, praestatur impedimentum actui; et ideo omnia illa sacramenta quae actum requirunt suscipientis, talibus non competunt, sicut poenitentia, matrimonium, et hujusmodi. Sed quia potestates infusae sunt priores actibus, sicut et naturales, quamvis acquisitae sint posteriores; remoto autem posteriori non tollitur prius; ideo omnia sacramenta in quibus non requiritur actus suscipientis de necessitate sacramenti, sed potestas aliqua spiritualis divinitus datur, possunt pueri suscipere et alii qui usu rationis carent; hac tamen distinctione habita, quod in minoribus ordinibus requiritur discretionis tempus de honestate propter dignitatem sacramenti, sed non de necessitate praecepti, neque de necessitate sacramenti.  
 
 Unde aliqui, si necessitas adsit, et spes profectus, ad minores ordines possunt ante annos discretionis promoveri sine peccato, et suscipient ordinem: quia quamvis tunc non sint idonei ad officia quae eis committuntur, tamen per assuetudinem idonei reddentur. Sed ad majores ordines requiritur usus rationis et de honestate, et de necessitate praecepti propter votum continentiae quod habent annexum; et quia etiam eis sacramenta tractanda committuntur. Sed ad episcopatum, ubi in corpus mysticum accipitur potestas, requiritur actus suscipientis curam pastoralem; et ideo est etiam de necessitate consecrationis episcopalis quod usum rationis habeat. Quidam autem dicunt, quod ad omnes ordines requiritur usus rationis de necessitate sacramenti; sed eorum dictum ratione vel auctoritate non confirmatur.  
 
@@ -154,7 +156,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod servitus non impediat aliquem a susceptione ordinis. Subjectio enim corporalis non repugnat praelationi spirituali. Sed in servo est subjectio corporalis. Ergo non impeditur quin debeat suscipere praelationem spiritualem, quae in ordine datur.***
+Ad secundum sic proceditur. Videtur quod servitus non impediat aliquem a susceptione ordinis. Subjectio enim corporalis non repugnat praelationi spirituali. Sed in servo est subjectio corporalis. Ergo non impeditur quin debeat suscipere praelationem spiritualem, quae in ordine datur.  
 
 Praeterea, illud quod est occasio humilitatis non debet impedire susceptionem alicujus sacramenti. Sed servitus est hujusmodi; unde apostolus consulit quod si aliquis possit, utatur servitute, 1 Corinth. 7. Ergo non debet impedire a promotione ordinis.  
 
@@ -166,7 +168,7 @@ Praeterea, aliquis, ex quo suscipit ordinem, tenetur in ordine ministrare. Sed n
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod propter homicidium aliquis non debeat prohiberi a sacris ordinibus. Quia ordines nostri sumpserunt initium a Levitarum officiis, ut in praecedenti dist. dictum est. Sed Levitae consecraverunt manus suas in sanguinis effusione fratrum suorum, ut patet Exod. 32. Ergo et in novo testamento non debent aliqui a susceptione ordinum prohiberi propter sanguinis effusionem.***
+Ulterius. Videtur quod propter homicidium aliquis non debeat prohiberi a sacris ordinibus. Quia ordines nostri sumpserunt initium a Levitarum officiis, ut in praecedenti dist. dictum est. Sed Levitae consecraverunt manus suas in sanguinis effusione fratrum suorum, ut patet Exod. 32. Ergo et in novo testamento non debent aliqui a susceptione ordinum prohiberi propter sanguinis effusionem.  
 
 Praeterea, propter actum virtutis nullus debet impediri ab aliquo sacramento. Sed aliquando sanguis effunditur per justitiam, sicut a judice; et peccaret habens officium, si non effunderet. Ergo non impeditur propter hoc a sacramenti susceptione.  
 
@@ -176,7 +178,7 @@ Sed contra hoc sunt plura canonum statuta, et Ecclesiae consuetudo.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod illegitime nati non debeant impediri a susceptione ordinum. Quia filius non debet portare iniquitatem patris. Portaret autem, si propter hoc impediretur ab ordinibus suscipiendis. Ergo, etc.***
+Ulterius. Videtur quod illegitime nati non debeant impediri a susceptione ordinum. Quia filius non debet portare iniquitatem patris. Portaret autem, si propter hoc impediretur ab ordinibus suscipiendis. Ergo, etc.  
 
 Praeterea, magis impeditur aliquis propter defectum proprium quam alienum. Sed a susceptione ordinum propter illicitum concubitum suum non semper aliquis impeditur. Ergo nec propter illicitum concubitum patris sui.  
 
@@ -184,7 +186,7 @@ Sed contra est quod dicitur Deuter. 23: *mamzer non ingredietur, hoc est de scor
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod propter defectum membrorum non debeat aliquis impediri. Quia afflictio non debet addi afflicto. Ergo non debet privari ordinis gradu propter poenam corporalis defectus.***
+Ulterius. Videtur quod propter defectum membrorum non debeat aliquis impediri. Quia afflictio non debet addi afflicto. Ergo non debet privari ordinis gradu propter poenam corporalis defectus.  
 
 Praeterea, plus exigitur ad actum ordinis integritas discretionis quam integritas corporis. Sed aliqui possunt promoveri ante annos discretionis. Ergo et cum corporis defectu.  
 
@@ -194,7 +196,7 @@ De bigamia dicetur in tractatu de matrimonio dist. 27.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in susceptione ordinis mancipatur homo divinis officiis. Et quia nullus potest alteri dare quod suum non est; ideo servus qui non habet potestatem sui, non potest ad ordines promoveri: si tamen promovetur, ordinem suscipit, quia libertas non est de necessitate sacramenti, licet sit de necessitate praecepti; cum non impediat potestatem, sed actum tantum. Et similis ratio est de omnibus qui sunt aliis obligati; ut ratiociniis detenti, et hujusmodi personae.***
+Respondeo dicendum ad primam quaestionem, quod in susceptione ordinis mancipatur homo divinis officiis. Et quia nullus potest alteri dare quod suum non est; ideo servus qui non habet potestatem sui, non potest ad ordines promoveri: si tamen promovetur, ordinem suscipit, quia libertas non est de necessitate sacramenti, licet sit de necessitate praecepti; cum non impediat potestatem, sed actum tantum. Et similis ratio est de omnibus qui sunt aliis obligati; ut ratiociniis detenti, et hujusmodi personae.  
 
 Ad primum ergo dicendum, quod in susceptione spiritualis potestatis est aliqua obligatio ad aliqua etiam corporaliter agenda; et ideo per corporalem subjectionem impeditur.  
 
@@ -208,7 +210,7 @@ Ad quintum dicendum, quod si est promotus sciente domino suo, et non reclamante,
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod omnes ordines referuntur ad sacramentum Eucharistiae, quod est sacramentum pacis nobis per sanguinem Christi effusum factae. Et quia homicidium maxime contrariatur paci, et homicidae magis conformantur occidentibus Christum quam ipsi Christo occiso, cui omnes ministri praedicti sacramenti debent conformari; ideo de necessitate praecepti est quod non sit homicida qui ad ordines promovetur, quamvis non sit de necessitate sacramenti.***
+Ad secundam quaestionem dicendum, quod omnes ordines referuntur ad sacramentum Eucharistiae, quod est sacramentum pacis nobis per sanguinem Christi effusum factae. Et quia homicidium maxime contrariatur paci, et homicidae magis conformantur occidentibus Christum quam ipsi Christo occiso, cui omnes ministri praedicti sacramenti debent conformari; ideo de necessitate praecepti est quod non sit homicida qui ad ordines promovetur, quamvis non sit de necessitate sacramenti.  
 
 Ad primum ergo dicendum, quod vetus lex inferebat poenam sanguinis, non autem lex nova; et non est simile de ministris veteris et novae legis, quae est jugum suave et onus leve.  
 
@@ -218,7 +220,7 @@ Ad tertium dicendum, quod nullus facit nisi illud cujus causa est quod est volun
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ordinati, in quadam dignitate prae aliis constituuntur; ideo ex quadam honestate requiritur in eis claritas quaedam, non de necessitate sacramenti, sed de necessitate praecepti: ut scilicet sint bonae famae, bonis moribus ornati, non publice poenitentes. Et quia obscuratur hominis claritas ex vitiosa origine, ideo etiam de illegitimo thoro nati a susceptione ordinum repelluntur, nisi cum eis dispensetur; et tanto est difficilior dispensatio, quanto eorum origo est turpior.***
+Ad tertiam quaestionem dicendum, quod ordinati, in quadam dignitate prae aliis constituuntur; ideo ex quadam honestate requiritur in eis claritas quaedam, non de necessitate sacramenti, sed de necessitate praecepti: ut scilicet sint bonae famae, bonis moribus ornati, non publice poenitentes. Et quia obscuratur hominis claritas ex vitiosa origine, ideo etiam de illegitimo thoro nati a susceptione ordinum repelluntur, nisi cum eis dispensetur; et tanto est difficilior dispensatio, quanto eorum origo est turpior.  
 
 Ad primum ergo dicendum, quod irregularitas non est poena iniquitati debita; et ideo patet quod illegitime nati non portant iniquitatem patris ex hoc quod irregulares sunt.  
 
@@ -226,7 +228,7 @@ Ad secundum dicendum, quod ea quae per actum committuntur, possunt per poenitent
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut ex dictis patet, aliquis efficitur ineptus ad susceptionem ordinis vel propter impedimentum actus, vel propter impedimentum claritatis personae; et ideo patientes defectum in membris impediuntur a susceptione ordinis, si sit talis defectus qui maculam notabilem inferat, per quem obscuretur personae claritas, ut abscissio nasi; vel periculum in executione facere possit; alias non impediuntur. Haec autem integritas exigitur de necessitate praecepti, sed non de necessitate sacramenti.***
+Ad quartam quaestionem dicendum, quod, sicut ex dictis patet, aliquis efficitur ineptus ad susceptionem ordinis vel propter impedimentum actus, vel propter impedimentum claritatis personae; et ideo patientes defectum in membris impediuntur a susceptione ordinis, si sit talis defectus qui maculam notabilem inferat, per quem obscuretur personae claritas, ut abscissio nasi; vel periculum in executione facere possit; alias non impediuntur. Haec autem integritas exigitur de necessitate praecepti, sed non de necessitate sacramenti.  
 
 Et per hoc patet solutio ad objecta.  
 
@@ -246,7 +248,7 @@ primo, quid sit;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod definitio de simonia data sit incompetens, scilicet: *simonia est studiosa voluntas emendi vel vendendi aliquid spirituale, vel spirituali annexum*. Quia ex simonia aliquis efficitur irregularis. Sed pro sola voluntate nullus efficitur irregularis. Ergo simonia non consistit in sola voluntate.***
+Ad primum sic proceditur. Videtur quod definitio de simonia data sit incompetens, scilicet: *simonia est studiosa voluntas emendi vel vendendi aliquid spirituale, vel spirituali annexum*. Quia ex simonia aliquis efficitur irregularis. Sed pro sola voluntate nullus efficitur irregularis. Ergo simonia non consistit in sola voluntate.  
 
 Praeterea, illa sola peccata fiunt per studium quae ex certa malitia committuntur. Sed simonia non semper committitur ex certa malitia, sed quandoque ex infirmitate vel ignorantia. Ergo in definitione ejus *studiosum* poni non debet.  
 
@@ -258,7 +260,7 @@ Praeterea, omnibus temporalibus propter spiritualia uti debemus. Si ergo in empt
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod simonia sit haeresis. Quia Gregorius in registro dicit: *altare, decimas et Spiritum Sanctum emere vel vendere, simoniacam haeresim esse nullus fidelium ignorat*.***
+Ulterius. Videtur quod simonia sit haeresis. Quia Gregorius in registro dicit: *altare, decimas et Spiritum Sanctum emere vel vendere, simoniacam haeresim esse nullus fidelium ignorat*.  
 
 Praeterea, nullum peccatum est gravius infidelitate. Sed simonia est gravior: quia in Decretis dicitur, causa 1, quaest. 2, quod *impia haeresis Macedonii, et eorum qui circa ipsum sunt, est tolerabilior quam simonia*. Ergo simonia est haeresis.  
 
@@ -266,7 +268,7 @@ Sed contra, omnis haeresis est contra aliquem articulum fidei, de quo non recta 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod simoniacus non perdat executionem ordinis. Quia contingit in ordinatione alicujus committi simoniam eo ignorante. Sed homicidium casuale propter hoc quod est per ignorantiam commissum non facit irregularitatem. Ergo et similiter ille qui simoniace ordinatur.***
+Ulterius. Videtur quod simoniacus non perdat executionem ordinis. Quia contingit in ordinatione alicujus committi simoniam eo ignorante. Sed homicidium casuale propter hoc quod est per ignorantiam commissum non facit irregularitatem. Ergo et similiter ille qui simoniace ordinatur.  
 
 Praeterea, ab eo qui non habet executionem ordinis, nullus debet accipere sacramentum. Sed ab eo quem scio simoniacum, debeo ordines accipere si mihi praecipiatur, ne inobediens sim. Ergo non amittit ordinis executionem.  
 
@@ -274,7 +276,7 @@ Sed contra, videtur quod simoniacus nec ordinem recipiat. Quia defectus intentio
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod materia moralium virtutum dividitur in passiones et actiones, ut in 3 Lib., dist. 33, dictum est. Sicut autem in passionibus potest esse peccatum ex eo quod est circa quod non oportet, vel quantum, vel quomodo, et sic de aliis circumstantiis; ita et in actionibus; unde in emptione et venditione, quae sunt quaedam actiones, potest esse peccatum vel in quid vel in quantum. Si in quantum, sic est injustitia; sicut cum quis emit aut vendit non justo pretio: si autem in quid, ut cum vendit aut emit quod non cadit sub pretio, sic est peccatum simoniaci. Et quia omne peccatum in actu voluntatis consistit, ideo in definitione simoniae haec tria praedicta ponuntur; et primo actus voluntatis in hoc quod dicit: *studiosa voluntas*; secundo materia proxima hujus peccati, scilicet emptio et venditio, ibi: *emendi vel vendendi*; tertio materia remota, scilicet objectum actionis praedictae, ibi: *spirituale, aut spirituali annexum*.***
+Respondeo dicendum ad primam quaestionem, quod materia moralium virtutum dividitur in passiones et actiones, ut in 3 Lib., dist. 33, dictum est. Sicut autem in passionibus potest esse peccatum ex eo quod est circa quod non oportet, vel quantum, vel quomodo, et sic de aliis circumstantiis; ita et in actionibus; unde in emptione et venditione, quae sunt quaedam actiones, potest esse peccatum vel in quid vel in quantum. Si in quantum, sic est injustitia; sicut cum quis emit aut vendit non justo pretio: si autem in quid, ut cum vendit aut emit quod non cadit sub pretio, sic est peccatum simoniaci. Et quia omne peccatum in actu voluntatis consistit, ideo in definitione simoniae haec tria praedicta ponuntur; et primo actus voluntatis in hoc quod dicit: *studiosa voluntas*; secundo materia proxima hujus peccati, scilicet emptio et venditio, ibi: *emendi vel vendendi*; tertio materia remota, scilicet objectum actionis praedictae, ibi: *spirituale, aut spirituali annexum*.  
 
 Ad primum ergo dicendum, quod *homines judicant ea quae foris parent, sed Deus intuetur cor*, ut dicitur 1 Reg. 16, et ideo in simonia, et in omnibus aliis peccatis, ex sola voluntate efficitur aliquis peccator secundum reatum poenae, quae ad judicium Dei pertinet, sed non quantum ad reatum poenae quae pertinet ad judicium Ecclesiae; unde homicida voluntate incurrit reatum poenae aeternae, sed non irregularitatem, vel excommunicationem, vel aliquid hujusmodi; et similiter dicendum est de simoniaco.  
 
@@ -288,7 +290,7 @@ Ad quintum dicendum, quod spiritualia in praedicta definitione accipiuntur, ut d
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod aliquid attribuitur alteri dupliciter. Uno modo simpliciter, alio modo propter similitudinem actus: sicut dicit Philosophus, quod incontinentes quandoque dicuntur intemperati, quia faciunt quae intemperati sunt, sed non eodem modo: sicut etiam dicit quod *Milesii stulti non sunt, sed operantur qualia stulti*; et secundum hoc dicendum, quod simoniaci non sunt proprie et per se loquendo haeretici, cum non habeant aliquam falsam opinionem; sed dicuntur haeretici propter similitudinem actus, quia ita operantur ac si aestimarent donum Spiritus Sancti pecunia possideri: quae aestimatio esset haeretica. Unde Gregorius in Regist. dicit: *cum omnis avaritia sit idolorum servitus; quisquis hanc in ecclesiasticis dignitatibus dandis non praecavet, infidelitatis perditioni subjicitur, etiam si fidem quam negligit, tenere videatur*.***
+Ad secundam quaestionem dicendum, quod aliquid attribuitur alteri dupliciter. Uno modo simpliciter, alio modo propter similitudinem actus: sicut dicit Philosophus, quod incontinentes quandoque dicuntur intemperati, quia faciunt quae intemperati sunt, sed non eodem modo: sicut etiam dicit quod *Milesii stulti non sunt, sed operantur qualia stulti*; et secundum hoc dicendum, quod simoniaci non sunt proprie et per se loquendo haeretici, cum non habeant aliquam falsam opinionem; sed dicuntur haeretici propter similitudinem actus, quia ita operantur ac si aestimarent donum Spiritus Sancti pecunia possideri: quae aestimatio esset haeretica. Unde Gregorius in Regist. dicit: *cum omnis avaritia sit idolorum servitus; quisquis hanc in ecclesiasticis dignitatibus dandis non praecavet, infidelitatis perditioni subjicitur, etiam si fidem quam negligit, tenere videatur*.  
 
 Et per hoc patet solutio ad primum.  
 
@@ -296,7 +298,7 @@ Ad secundum dicendum, quod ratione falsae aestimationis quam simoniacus in actu 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod efficacia sacramentorum non est ex humano merito: et ideo propter hominis peccatum non impeditur sacramentum; unde peccatum simoniae nec sacramentum suscipiendum impedit, nec susceptum tollit. Potest tamen impedire ultimam rem sacramenti, si sit peccatum ex parte recipientis. Sed tamen per simoniam aliquis ab executione ordinis aut officii suspenditur. Sed in hoc distinguendum est. Quia si dicatur simoniacus ex hoc quod recipit ordinem per simoniam, non recipit executionem, et est ipso jure suspensus et quo ad se, et quo ad alios: et punitur ulterius per depositionem, quando constiterit de crimine judici. Si autem dicatur simoniacus, quia contulit ordinem simoniace, vel quia dedit vel recepit simoniace beneficium, vel quia mediator fuit simoniae; si sit occultum, suspensus est ipso jure quo ad se: si autem manifestum est, suspensus est quo ad se, et quo ad alios. Et iterum ille qui recepit beneficium per simoniam, tenetur ad restitutionem omnium fructuum perceptorum, et beneficio renuntiare.***
+Ad tertiam quaestionem dicendum, quod efficacia sacramentorum non est ex humano merito: et ideo propter hominis peccatum non impeditur sacramentum; unde peccatum simoniae nec sacramentum suscipiendum impedit, nec susceptum tollit. Potest tamen impedire ultimam rem sacramenti, si sit peccatum ex parte recipientis. Sed tamen per simoniam aliquis ab executione ordinis aut officii suspenditur. Sed in hoc distinguendum est. Quia si dicatur simoniacus ex hoc quod recipit ordinem per simoniam, non recipit executionem, et est ipso jure suspensus et quo ad se, et quo ad alios: et punitur ulterius per depositionem, quando constiterit de crimine judici. Si autem dicatur simoniacus, quia contulit ordinem simoniace, vel quia dedit vel recepit simoniace beneficium, vel quia mediator fuit simoniae; si sit occultum, suspensus est ipso jure quo ad se: si autem manifestum est, suspensus est quo ad se, et quo ad alios. Et iterum ille qui recepit beneficium per simoniam, tenetur ad restitutionem omnium fructuum perceptorum, et beneficio renuntiare.  
 
 Ad primum ergo dicendum, quod propter homicidium non fit aliquis defectus in ipsa ordinatione, sed in ordinato tantum; et ideo sufficit quod ordinatus sit immunis ab homicidio: sed per simoniam fit defectus in ipsa ordinatione; et ideo etiam si ipse sit immunis, tamen est suspensus, quando ad notitiam ejus devenerit.  
 
@@ -310,7 +312,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod sacramenta possint emi et vendi sine simonia. Quia finis omnium sacramentorum est regnum caelorum, et remissio peccatorum. Sed regnum caelorum emitur, ut Gregorius dicit: *regnum caelorum tantum valet, quantum habes*; et Dan. 4, 24, dicitur: *peccata tua eleemosynis redime*. Ergo multo fortius sacramenta emi possunt absque vitio simoniae.***
+Ad secundum sic proceditur. Videtur quod sacramenta possint emi et vendi sine simonia. Quia finis omnium sacramentorum est regnum caelorum, et remissio peccatorum. Sed regnum caelorum emitur, ut Gregorius dicit: *regnum caelorum tantum valet, quantum habes*; et Dan. 4, 24, dicitur: *peccata tua eleemosynis redime*. Ergo multo fortius sacramenta emi possunt absque vitio simoniae.  
 
 Praeterea, matrimonium sacramentum quoddam est. Sed matrimonium aliquando contrahitur interveniente pactione de aliqua pecunia solvenda sine peccato. Ergo sacramenta licite possunt emi.  
 
@@ -326,7 +328,7 @@ Praeterea, episcopalis potestas, quamvis non sit ordo, tamen quoddam sacramental
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam in emptione vel venditione aliorum spiritualium non committatur simonia. Quia totum ecclesiasticum officium quoddam spirituale est. Sed quidam recipiunt certos reditus ad anniversarium celebrandum. Ergo spiritualia possunt sine simonia emi et vendi.***
+Ulterius. Videtur quod etiam in emptione vel venditione aliorum spiritualium non committatur simonia. Quia totum ecclesiasticum officium quoddam spirituale est. Sed quidam recipiunt certos reditus ad anniversarium celebrandum. Ergo spiritualia possunt sine simonia emi et vendi.  
 
 Praeterea, oratio est maxime spirituale. Sed aliquis potest dare pecuniam bonis viris, ut orent pro eo, secundum illud quod dicitur in Luc. 16, 9: *facite vobis amicos de mammona iniquitatis*. Ergo, etc.  
 
@@ -346,7 +348,7 @@ Praeterea, judicium spirituale bonum est, similiter patrocinium in causis, et te
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam non committatur simonia in venditione eorum et emptione quae sunt spiritualibus annexa. Nihil enim est magis spiritualibus annexum quam vasa sacra. Sed illa in necessitate vendi possunt licite. Ergo, etc.***
+Ulterius. Videtur quod etiam non committatur simonia in venditione eorum et emptione quae sunt spiritualibus annexa. Nihil enim est magis spiritualibus annexum quam vasa sacra. Sed illa in necessitate vendi possunt licite. Ergo, etc.  
 
 Praeterea, jus sepulturae spiritualibus annexum est. Sed Abraham emit ab Emor speluncam duplicem in sepulturam. Ergo sine simonia emi potest quod est spiritualibus annexum.  
 
@@ -358,7 +360,7 @@ Praeterea, jus primogeniturae spiritualibus annexum videtur; unde primogeniti an
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod cum sacramenta contineant et causent gratiam, non possunt licite vendi aut emi propter tria. Primo, quia dispensator sacramenti non est Dominus, sed minister; emptio autem debet fieri a domino rei. Secundo, quia pretium emptionis ponitur quasi mensura adaequans illud quod emitur, unde a mensurando numisma dicitur, secundum Philosophum in 5 *Ethica*: gratia autem non potest commensurari alicui corporali bono; unde injuriam gratiae facit qui sacramenta gratiae vendit aut emit. Tertio, quia gratia ex hoc nomen accepit quod gratis datur; unde contra rationem gratiae facit qui sacramenta gratiae quasi venalia tractat.***
+Respondeo dicendum ad primam quaestionem, quod cum sacramenta contineant et causent gratiam, non possunt licite vendi aut emi propter tria. Primo, quia dispensator sacramenti non est Dominus, sed minister; emptio autem debet fieri a domino rei. Secundo, quia pretium emptionis ponitur quasi mensura adaequans illud quod emitur, unde a mensurando numisma dicitur, secundum Philosophum in 5 *Ethica*: gratia autem non potest commensurari alicui corporali bono; unde injuriam gratiae facit qui sacramenta gratiae vendit aut emit. Tertio, quia gratia ex hoc nomen accepit quod gratis datur; unde contra rationem gratiae facit qui sacramenta gratiae quasi venalia tractat.  
 
 Ad primum ergo dicendum, quod locutiones illae sunt metaphoricae, et per similitudinem de emptione loquentes, ipsum meritum emptionem vocantes: quod quidem emptio non est, quia Deo ex nostro merito nihil accrescit, nec meritum nostrum est aequivalens praemio.  
 
@@ -376,7 +378,7 @@ Ad septimum dicendum, quod ibi est distinguendum: quia si non est sibi acquisitu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod actus aliquis potest spiritualis dici vel quantum ad suum principium quod competit alicui ex aliquo spirituali dono vel officio; vel quantum ad sui finem, ut quando per actum ad aliquid spirituale pervenitur. In actibus ergo qui primo modo spirituales sunt, quia spirituale est ex parte agentis, nullo modo sine simonia potest aliquid locare actus suos; sed potest aliquid accipere in sustentationem vitae; in secundis autem actibus, quia spiritualitas non est ex parte agentis, potest etiam emere vel vendere operas suas; sed non vendere hoc spirituale quod ex ejus actu acquiritur.***
+Ad secundam quaestionem dicendum, quod actus aliquis potest spiritualis dici vel quantum ad suum principium quod competit alicui ex aliquo spirituali dono vel officio; vel quantum ad sui finem, ut quando per actum ad aliquid spirituale pervenitur. In actibus ergo qui primo modo spirituales sunt, quia spirituale est ex parte agentis, nullo modo sine simonia potest aliquid locare actus suos; sed potest aliquid accipere in sustentationem vitae; in secundis autem actibus, quia spiritualitas non est ex parte agentis, potest etiam emere vel vendere operas suas; sed non vendere hoc spirituale quod ex ejus actu acquiritur.  
 
 Ad primum ergo dicendum, quod anniversarium celebrare est spiritualis actus primo modo; et ideo nullo modo licet pacisci pro eo celebrando; si tamen cum devotione aliquid detur Ecclesiae, Ecclesia tenetur celebrare pro illis pro quibus rogatur.  
 
@@ -398,7 +400,7 @@ Ad nonum dicendum, quod judex ex officio suo tenetur judicium reddere: similiter
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut ex dictis patet, spirituale quod sub pretio poni non debet, est duplex; scilicet ipsa res sacra, ut sacramenta; et actus competens alicui ex officio sacro; et secundum hoc etiam est duplex spirituali annexum: quoddam annexum est ipsis sacramentis, sicut vasa sacra, et hujusmodi; quaedam sunt annexa officiis sacris, sicut decimae, et juspatronatus, secundum quod juspatronatus est potestas praesentandi clericum ad beneficium ecclesiasticum; et in utroque committitur simonia quantum ad id quod de spiritualitate habet.***
+Ad tertiam quaestionem dicendum, quod sicut ex dictis patet, spirituale quod sub pretio poni non debet, est duplex; scilicet ipsa res sacra, ut sacramenta; et actus competens alicui ex officio sacro; et secundum hoc etiam est duplex spirituali annexum: quoddam annexum est ipsis sacramentis, sicut vasa sacra, et hujusmodi; quaedam sunt annexa officiis sacris, sicut decimae, et juspatronatus, secundum quod juspatronatus est potestas praesentandi clericum ad beneficium ecclesiasticum; et in utroque committitur simonia quantum ad id quod de spiritualitate habet.  
 
 Ad primum ergo dicendum, quod vasa sacra nullo modo ratione consecrationis vendenda sunt, ut scilicet pro consecratione eorum aliquid plus exigatur; tamen in necessitate ecclesiae possunt vendi ex parte ejus quod in eis est non spirituale, scilicet materia auri; et tunc si venduntur ecclesiasticae personae, possunt integra vendi; si autem venduntur aliis non ad usum ecclesiae, debent prius frangi praemissa oratione, ne sancta ab aliis tractentur quam a ministris Ecclesiae.  
 
@@ -414,7 +416,7 @@ Articulus 3
 
 ***Qualiter***
 
-***Ad tertium sic proceditur. Videtur quod simonia non committatur illis tribus modis quos Urbanus Papa determinat, dicens: *quisquis res ecclesiasticas non ad quod institutae sunt, sed ad propria lucra, munere linguae vel indebiti obsequii vel pecuniae, largitur vel adipiscitur, simoniacus est*. Quia, ut supra dictum est, judex spiritualis, si vendit judicium, facit simoniam. Sed licet judici spirituali aliquod munus accipere pecuniae, vel alicujus hujusmodi, ut dicitur *Extra. de simonia*, cap. Etsi quaestiones. Ergo simonia non semper committitur per munus a manu.***
+Ad tertium sic proceditur. Videtur quod simonia non committatur illis tribus modis quos Urbanus Papa determinat, dicens: *quisquis res ecclesiasticas non ad quod institutae sunt, sed ad propria lucra, munere linguae vel indebiti obsequii vel pecuniae, largitur vel adipiscitur, simoniacus est*. Quia, ut supra dictum est, judex spiritualis, si vendit judicium, facit simoniam. Sed licet judici spirituali aliquod munus accipere pecuniae, vel alicujus hujusmodi, ut dicitur *Extra. de simonia*, cap. Etsi quaestiones. Ergo simonia non semper committitur per munus a manu.  
 
 Praeterea, Papa potest etiam munus a manu suscipere pro aliquo spirituali. Sed, ut quidam dicunt, Papa non potest committere simoniam, maxime cum aliqua persona ecclesiastica; quia res Ecclesiae sunt suae. Ergo non semper committitur simonia per munus a manu.  
 
@@ -458,7 +460,7 @@ Ad nonum dicendum, quod in hoc distinguendum est: quia si ante donationem praebe
 
 Expositio textus  
 
-****Neque ex his aliquem in clericatus honorem vel exiguum surrogare*: non quia ordinem non receperit, sed quia male promotus est; quod contingit dupliciter.***
+*Neque ex his aliquem in clericatus honorem vel exiguum surrogare*: non quia ordinem non receperit, sed quia male promotus est; quod contingit dupliciter.  
 
 Uno modo ex parte ordinantis, sive cum est haereticus, sive simoniacus, vel quocumque alio modo ab Ecclesia separatus, et sic est in proposito: sive cum ordinatur a non suo episcopo sine licentia et auctoritate proprii episcopi; et tunc debet deponi, nisi episcopus ponat spem in ratihabitione alterius episcopi, sicut de beato Epiphanio in epistola sua legitur: sive ordinetur ab episcopo qui abrenuntiavit officio et loco. Si enim officium sibi retinuerit, loco abrenuntians, potest conferre minores ordines, et de licentia episcopi etiam majores.  
 

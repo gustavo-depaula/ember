@@ -1,8 +1,10 @@
 # D. 17 - Creation of man in regard to the constitution of his parts
 
+***Creation of man in regard to the constitution of his parts***
+
 ***Division of the text***
 
-***Having shown that man proceeded from God in his likeness, just as from a cause in a certain way univocal, here he addresses the production of man in himself as constituted by his parts. This part is divided into two parts.***
+Having shown that man proceeded from God in his likeness, just as from a cause in a certain way univocal, here he addresses the production of man in himself as constituted by his parts. This part is divided into two parts.  
 
 In the first, he addresses the production of man.  
 
@@ -58,7 +60,7 @@ Article 1
 
 ***Whether the human soul is of the divine essence*ST* I.90.1.***
 
-***To the first we proceed as follows. It seems that the soul is of the divine essence.***
+To the first we proceed as follows. It seems that the soul is of the divine essence.  
 
 Obj. 1: For it is related: *he breathed into his nostrils the breath of life* (Gen 2:7). But that which breathes something emits breath from itself. Therefore, the soul is of the essence of God.  
 
@@ -108,7 +110,7 @@ Article 2
 
 ***Whether the human soul is constituted of any matter***
 
-***To the second we proceed as follows.Parallel text: *ST* I.75.5. It seems that the soul is constituted of some matter.***
+To the second we proceed as follows.Parallel text: *ST* I.75.5. It seems that the soul is constituted of some matter.  
 
 Obj. 1: For everything that is a this-something“This-something” (*hoc aliquid*) is a quasi-technical name for an individual subsisting substance; the term corresponds to “primary substance” in Aristotle’s *Categories*. in nature is composed of matter, as is clear in *On the Soul* 2.Aristotle, *On the Soul* 2.1, 412a11–15. But the rational soul is such a thing. For it is a thing existing on its own without the body, and is distinct numerically from another soul of the same species. Therefore, and so on.  
 
@@ -170,7 +172,7 @@ Article 1
 
 ***Whether the rational soul or intellect is numerically one in all men***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 8, q. 5, a. 2, ad 6; *ST* I.76.2; *SCG* II.73–75; *On Spiritual Creatures*, a. 9; *Disputed Questions on the Soul*, a. 3; *Compendium theologiae*, ch. 85; *On the Unity of the Intellect against the Averroists*, throughout. It seems that the rational soul or the intellect is numerically one in all men.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 8, q. 5, a. 2, ad 6; *ST* I.76.2; *SCG* II.73–75; *On Spiritual Creatures*, a. 9; *Disputed Questions on the Soul*, a. 3; *Compendium theologiae*, ch. 85; *On the Unity of the Intellect against the Averroists*, throughout. It seems that the rational soul or the intellect is numerically one in all men.  
 
 Obj. 1: For no form is multiplied in being on the basis of the division of matter except a material form. But the intellect, as is proved in *On the Soul* 3,Aristotle, *On the Soul* 3.4, 429a25. is not a material form, since it is not the act of a body. This is proved from its very act, since it knows all material forms, which could not be the case if it had one of them in its own nature or were determined to it from the body whose act it were, just as the power of sight would not know all colors if the pupil, which is its organ, had a determinate color. Therefore, the intellect is not multiplied in being on the basis of the division of matter. Thus, it remains one in all individuals of the human species, which are only divided through matter.  
 
@@ -258,7 +260,7 @@ Article 2
 
 ***Whether souls were created outside bodies***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.90.4; 91.4, ad 3, 5; 118.3; *SCG* II.83–84; *On the Power of God*, q. 3, a. 10. It seems that souls were created outside bodies.***
+To the second we proceed as follows.Parallel texts: *ST* I.90.4; 91.4, ad 3, 5; 118.3; *SCG* II.83–84; *On the Power of God*, q. 3, a. 10. It seems that souls were created outside bodies.  
 
 Obj. 1: For Genesis 2:2 says that *on the seventh day God . . . rested from all his work which he had done*, that is, he ceased doing any new work. But a new work is one that has never existed, either in itself or in preceding matter. Therefore, since the soul is immaterial, and one cannot say that it already existed in its matter in the works of the six days, it seems that it already existed in itself. Otherwise, God would be doing a new work in the creation of the soul. Therefore, it seems that souls were created outside bodies, since individual bodies have not existed from the beginning.  
 
@@ -302,7 +304,7 @@ Question 3
 
 ***The formation of the human body***
 
-***Then the question is asked regarding the formation of man with respect to the body. Two questions are asked concerning this:***
+Then the question is asked regarding the formation of man with respect to the body. Two questions are asked concerning this:  
 
 first, of what nature man’s body is composed;  
 
@@ -310,9 +312,9 @@ second, concerning the bodily place in which he was placed, namely, in paradise.
 
 Article 1  
 
-***Whether in the composition of man there is something that has the nature of a heavenly body***
+Whether in the composition of man there is something that has the nature of a heavenly body  
 
-***To the first we proceed as follows.Parallel text: *ST* I.91.1, ad 2. It seems that in the composition of the human body there is some part that has the nature of a heavenly body.***
+To the first we proceed as follows.Parallel text: *ST* I.91.1, ad 2. It seems that in the composition of the human body there is some part that has the nature of a heavenly body.  
 
 Obj. 1: For the same form requires the same perfectible matter. But the form of the human body agrees in intellectual nature with the separated form that moves the body of heaven. Therefore, it seems that something that has the nature of a heavenly body enters into the composition of the human body.  
 
@@ -348,7 +350,7 @@ Article 2
 
 ***Whether the paradise in which Adam was can be a bodily place***
 
-***To the second we proceed as follows.Parallel text: *ST* I.102.1. It seems that the paradise mentioned here cannot be a bodily place.***
+To the second we proceed as follows.Parallel text: *ST* I.102.1. It seems that the paradise mentioned here cannot be a bodily place.  
 
 Obj. 1: For man is not distinguished by bodily things from other animals, with which he shares in life and the senses. Rather, he is distinguished by a spiritual thing, namely, the intellect. Therefore, since he is said to be distinguished in paradise from other animals because other animals were not placed there, it seems that paradise is only a spiritual place.  
 
@@ -390,7 +392,7 @@ Or we may say that this is not to be understood as if man would have to work par
 
 Exposition of the text  
 
-****That the soul was created with the angels and without a body*.*Sent*. II, 17.2(97).2, referring to Augustine, *On the Literal Interpretation of Genesis*, bk. 7, ch. 24 (CSEL 28.1:222; PL 34:368). This position seems irrational. For things that are of a single species also have a single manner of origin. Hence if other souls are created in the body, it cannot be reasonably maintained that the soul of the first man was created outside the body. Though Augustine, without asserting it, says this in *On Genesis* 7.That is, in the quote from the *Sentences* above. See Augustine, *On the Literal Interpretation of Genesis*, bk. 7, ch. 24 (CSEL 28.1:222; PL 34:368).***
+*That the soul was created with the angels and without a body*.*Sent*. II, 17.2(97).2, referring to Augustine, *On the Literal Interpretation of Genesis*, bk. 7, ch. 24 (CSEL 28.1:222; PL 34:368). This position seems irrational. For things that are of a single species also have a single manner of origin. Hence if other souls are created in the body, it cannot be reasonably maintained that the soul of the first man was created outside the body. Though Augustine, without asserting it, says this in *On Genesis* 7.That is, in the quote from the *Sentences* above. See Augustine, *On the Literal Interpretation of Genesis*, bk. 7, ch. 24 (CSEL 28.1:222; PL 34:368).  
 
 *‘For God, however, nature is what he does*.’*Sent*. II, 17.3(98).2, quoting Augustine, *On the Literal Interpretation of Genesis*, bk. 6, ch. 13 (CSEL 28.1:188; PL 34:348). For he is omnipotent through his nature, and he is also the establisher and Creator of natures. For just as artificial forms come forth from the working of man, so also natural forms flowed forth from the intellect of God. Hence that which is made by him has the account of nature.  
 

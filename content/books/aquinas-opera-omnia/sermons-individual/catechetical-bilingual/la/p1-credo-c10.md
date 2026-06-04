@@ -1,6 +1,6 @@
 # A. 9 - The Holy Catholic Church
 
-***Sicut videmus quod in uno homine est una anima et unum corpus, et tamen sunt diversa membra ipsius; ita Ecclesia Catholica est unum corpus, et habet diversa membra. Anima autem quae hoc corpus vivificat, est Spiritus Sanctus. Et ideo post fidem de Spiritu Sancto, iubemur credere sanctam Ecclesiam Catholicam. Unde additur in Symbolo: ***sanctam Ecclesiam Catholicam***.***
+Sicut videmus quod in uno homine est una anima et unum corpus, et tamen sunt diversa membra ipsius; ita Ecclesia Catholica est unum corpus, et habet diversa membra. Anima autem quae hoc corpus vivificat, est Spiritus Sanctus. Et ideo post fidem de Spiritu Sancto, iubemur credere sanctam Ecclesiam Catholicam. Unde additur in Symbolo: ***sanctam Ecclesiam Catholicam***.  
 
 Circa quod sciendum est, quod ***Ecclesia*** est idem quod congregatio. Unde Ecclesia sancta idem est quod congregatio fidelium; et quilibet Christianus est sicut membrum ipsius Ecclesiae, de qua dicitur Eccli. ult., 31: *appropiate ad me indocti, et congregate vos in domum disciplinae*.  
 

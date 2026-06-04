@@ -1,10 +1,12 @@
 # C. 10 - The futility of idol-worship
 
+***The futility of idol-worship***
+
 ***Lecture 1***
 
 ***Impotence of idols***
 
-***^10:1^ Hear the word which the Lord has spoken concerning you, O house of Israel.***
+^10:1^ Hear the word which the Lord has spoken concerning you, O house of Israel.  
 
 > ^10:2^ Thus says the Lord: do not learn according to the ways of the nations, and do not be afraid of the signs of heaven, which the nations fear.
 
@@ -66,7 +68,7 @@ Lecture 2
 
 ***God’s greatness***
 
-***^10:6^ There is none like you, O Lord; you are great, and great is your name in strength.***
+^10:6^ There is none like you, O Lord; you are great, and great is your name in strength.  
 
 > ^10:7^ Who will not fear you, O king of the nations? For yours is the honor; among all the wise of the nations and amidst all their kingdoms, there is none like you.
 
@@ -106,7 +108,7 @@ Lecture 4
 
 ***God’s power to create***
 
-***^10:11^ Therefore, thus shall you speak to them: may the gods, who did not make the heavens and the earth, perish from the earth, and from those places which are under heaven.This verse is remarkable inasmuch as it does not appear to have been originally written in Hebrew (as Thomas Aquinas notes below), but in Chaldean (Aramaic).***
+^10:11^ Therefore, thus shall you speak to them: may the gods, who did not make the heavens and the earth, perish from the earth, and from those places which are under heaven.This verse is remarkable inasmuch as it does not appear to have been originally written in Hebrew (as Thomas Aquinas notes below), but in Chaldean (Aramaic).  
 
 > ^10:12^ He who makes the earth by his might, and prepares the world by his wisdom, and by his knowledge stretches out the heavens.
 
@@ -132,7 +134,7 @@ Lecture 5
 
 ***Idols make men fools***
 
-***^10:14^ Every man is made a fool because of his knowledge, and the craftsman is confounded by his graven image, for what he has cast is false, and there is no breath in them.***
+^10:14^ Every man is made a fool because of his knowledge, and the craftsman is confounded by his graven image, for what he has cast is false, and there is no breath in them.  
 
 > ^10:15^ They are vain and worthy of derision; in the time of visitation they shall perish.
 
@@ -188,7 +190,7 @@ Lecture 7
 
 ***Shepherds’ foolishness***
 
-***^10:21^ For the shepherds have done foolishly, and have not sought the Lord; therefore, they have not understood, and their whole flock is scattered.***
+^10:21^ For the shepherds have done foolishly, and have not sought the Lord; therefore, they have not understood, and their whole flock is scattered.  
 
 > **74**. Here, he outlines the communal punishment in order, because the sins of the rulers are the cause of their blindness. *Their wickedness has blinded them* (Wis 2:21). And this is the cause of the destruction of the people. *If the blind lead the blind, both will fall into a pit* (Matt 15:14). *My sheep are scattered because there was no shepherd, and they have become prey for all the beasts of the field, and they are scattered* (Ezek 34:5).
 
@@ -196,7 +198,7 @@ Lecture 8
 
 ***Noise from the north***
 
-***^10:22^ Behold, the sound of a noise comes, and a great shaking from the land of the north, that he may turn the cities of Judah into wilderness and the habitation of dragons.Heb. תַּנִּין: *serpent, dragon, sea-monster*.***
+^10:22^ Behold, the sound of a noise comes, and a great shaking from the land of the north, that he may turn the cities of Judah into wilderness and the habitation of dragons.Heb. תַּנִּין: *serpent, dragon, sea-monster*.  
 
 > **75**. Here, he determines the order of the punishment, pre-signifying the enemy who is to come from the north. ***From the north shall spread every evil upon the inhabitants of the land*** (Jer 1:14).
 
@@ -204,7 +206,7 @@ Lecture 9
 
 ***Plea for mercy***
 
-***^10:23^ I know, O Lord, that a man’s way is not his own, nor does it pertain to a man to walk and direct his steps.***
+^10:23^ I know, O Lord, that a man’s way is not his own, nor does it pertain to a man to walk and direct his steps.  
 
 > ^10:24^ Correct me, O Lord, but with judgment, and not in your wrath, lest you bring me to nothing.
 
@@ -220,6 +222,6 @@ But he seeks wrath for the enemy: ***pour forth your indignation***, and he give
 
 Collations  
 
-***Note that man is ***a fool*** (Jer 10:14) from the perspective of God’s knowledge because of the pride of his heart: *those who say they are wise have become foolish* (Rom 1:22); because of his curiosity to inquire after things: *much reading has driven you mad* (Acts 26:24); because of the uncertainty of knowledge: *your knowledge and your wisdom have deceived you* (Isa 47:10); because of the perversity of his works: *for you have blinded them with their wickedness* (Wis 2:21).***
+Note that man is ***a fool*** (Jer 10:14) from the perspective of God’s knowledge because of the pride of his heart: *those who say they are wise have become foolish* (Rom 1:22); because of his curiosity to inquire after things: *much reading has driven you mad* (Acts 26:24); because of the uncertainty of knowledge: *your knowledge and your wisdom have deceived you* (Isa 47:10); because of the perversity of his works: *for you have blinded them with their wickedness* (Wis 2:21).  
 
 Also, note that one should bear divine chastisement patiently (Jer 10:19) because of the good will of the one who chastises: *my son, do not reject the discipline of the Lord, nor rebel when you are chastened by him* (Prov 3:11); because of his knowledge of our wrongdoing: *I shall bear the anger of the Lord, for I have sinned against him* (Mic 7:9); because of the expectation of reward: *blessed is the man who endures temptation, for when he has been tried he will receive the crown of life which God has promised to those who love him* (Jas 1:12); because of the futility of grumbling: *why has a living man murmured, a man suffering for his sins?* (Lam 3:39).

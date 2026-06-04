@@ -1,10 +1,12 @@
 # C. 33 - The kingdom and priesthood
 
+***The kingdom and priesthood***
+
 ***Lecture 1***
 
 ***Israel and Judah’s consolation***
 
-***^33:1^ And the word of the Lord came to Jeremiah a second time, while he was still shut up in the court of the prison, saying:***
+^33:1^ And the word of the Lord came to Jeremiah a second time, while he was still shut up in the court of the prison, saying:  
 
 > ^33:2^ thus says the Lord, who will do it, the Lord, and he will form it, and prepare it,Heb. כֹּֽה־אָמַ֥ר יְהוָ֖ה עֹשָׂ֑הּ יְהוָ֗ה יֹוצֵ֥ר אֹותָ֛הּ לַהֲכִינָ֖הּ יְהוָ֥ה שְׁמֹֽו: *thus says the Lord who makes, the Lord who forms her to establish her*. The direct object here is unclear: some translations supply *earth*; the Septuagint supplies *it*. the Lord is his name.
 
@@ -62,7 +64,7 @@ Lecture 2
 
 ***The voice of joy will return***
 
-***^33:10^ Thus says the Lord: there shall yet be heard in this place, which you say is a ruin, because there is neither man nor beast in the cities of Judah and without Jerusalem,Heb. וּבְחֻצֹ֣ות יְרוּשָׁלִַ֔ם: *and in the streets of Jerusalem*. which are desolate without man, and without inhabitant, and without beast***
+^33:10^ Thus says the Lord: there shall yet be heard in this place, which you say is a ruin, because there is neither man nor beast in the cities of Judah and without Jerusalem,Heb. וּבְחֻצֹ֣ות יְרוּשָׁלִַ֔ם: *and in the streets of Jerusalem*. which are desolate without man, and without inhabitant, and without beast  
 
 > ^33:11^ the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those that say: give thanks to the Lord of hosts, for the Lord is good, for his mercy endures forever: and of those that bring their vowsHeb. תּוֹדָ֖ה: *thank offerings*. Cf. Leviticus 22:29. into the house of the Lord; for I will bring back the captivity of the land as in the beginning, says the Lord.
 
@@ -78,7 +80,7 @@ Lecture 3
 
 ***Pastoral peace will return***
 
-***^33:12^ Thus says the Lord of hosts: there shall yet be in this place that is desolate without man, and without beast, and in all the cities thereof, a habitation of shepherds who make their flocks to lie down.***
+^33:12^ Thus says the Lord of hosts: there shall yet be in this place that is desolate without man, and without beast, and in all the cities thereof, a habitation of shepherds who make their flocks to lie down.  
 
 > ^33:13^ And in the cities of the mountain, and in the cities of the plains,Heb. הַשְּׁפֵלָה֙: *the Shephelah*, a narrow lowland region, west of the Judean mountains, near the coast, to the north of Carmel. and in the cities that are towards the south:Heb. וּבְעָרֵ֣י הַנֶּ֔גֶב: *and in the cities of the Negev*, the desert region in southern Judah. and in the land of Benjamin, and round about Jerusalem, and in the cities of Judah shall the flocks again pass under the hand of him that numbers them, says the Lord.
 
@@ -88,7 +90,7 @@ Lecture 4
 
 ***The shoot of justice***
 
-***^33:14^ Behold, the days are coming, says the Lord, that I shall stir upHeb. וַהֲקִֽמֹתִי֙: *raise up, establish*. the good word that I spoke to the house of Israel, and to the house of Judah.The text omitted by the *Septuagint* here (Jer 33:14–16) is similar to Jeremiah 23:4–6.***
+^33:14^ Behold, the days are coming, says the Lord, that I shall stir upHeb. וַהֲקִֽמֹתִי֙: *raise up, establish*. the good word that I spoke to the house of Israel, and to the house of Judah.The text omitted by the *Septuagint* here (Jer 33:14–16) is similar to Jeremiah 23:4–6.  
 
 > ^33:15^ In those days, and at that time, I will make to spring forth for David the shoot of justice, and he shall execute judgment and justice in the earth.
 
@@ -122,7 +124,7 @@ Lecture 5
 
 ***Restoration of the priesthood***
 
-***^33:18^ And of the priest and Levites there shall not perish a man from before my face, to offer holocausts, and to burn sacrifices,Heb. וּמַקְטִ֥יר מִנְחָ֛ה: *to make grain offerings to smoke*. and to slay offerings every day:***
+^33:18^ And of the priest and Levites there shall not perish a man from before my face, to offer holocausts, and to burn sacrifices,Heb. וּמַקְטִ֥יר מִנְחָ֛ה: *to make grain offerings to smoke*. and to slay offerings every day:  
 
 > **181**. Here, he speaks of the restoration of the priesthood. And as the kingdom is restored in Christ himself and in his members, so also the priesthood. For inasmuch as he is a king, he is also a priest. *You are priest forever according to the order of Melchizedek* (Ps 109:4). And he made his members kings and priests. *You have made us a kingdom and priests for our God* (Rev 5:10). *He offered himself as an offering to God, as a pleasing fragrance* (Eph 5:2). And he makes his members offer spiritual victims to God. *The priests and the Levites, the sons of Zadok, who kept the ceremonies of my sanctuary when the children of Israel wandered from me, they shall draw near to me to minister unto me, and they shall stand in my sight to offer me fat and blood, says the Lord God* (Ezek 44:15).
 

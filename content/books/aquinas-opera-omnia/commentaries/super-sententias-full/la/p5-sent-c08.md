@@ -1,6 +1,8 @@
 # D. 7 - Interpretation of expressions signifying the union
 
-****Secundum vero primam dicitur, Deus factus homo etc.* Postquam distinxit Magister tres opiniones de modoEd. read *circa modum*. unionis, hic secundum eas ostendit qualiter locutiones quibus unio significatur, sunt intelligendae.***
+***Divisio textus***
+
+*Secundum vero primam dicitur, Deus factus homo etc.* Postquam distinxit Magister tres opiniones de modoEd. read *circa modum*. unionis, hic secundum eas ostendit qualiter locutiones quibus unio significatur, sunt intelligendae.  
 
 Et dividitur in partes duas.  
 
@@ -214,7 +216,7 @@ Quaestio 2
 
 ***De locutionibus quae exprimunt unionem per hoc participium "factus"***
 
-***Deinde quaeritur de locutionibus quae exprimunt unionem per hoc participium "factus." Et quaeruntur duo:***
+Deinde quaeritur de locutionibus quae exprimunt unionem per hoc participium "factus." Et quaeruntur duo:  
 
 Primo, utrum Deus factus sit homo.  
 
@@ -260,7 +262,7 @@ Articulus 2
 
 ***Utrum haec sit vera: "homo factus est Deus"***
 
-***Ad secundum sic proceditur. Videtur quod haec non sit vera: "homo factus est Deus."***
+Ad secundum sic proceditur. Videtur quod haec non sit vera: "homo factus est Deus."  
 
 Dicit enim Damascenus et habetur in littera, quod *non dicimus hominem deificatum*. Sed idem est dicere hominem factum Deum quod hominem deificatum.Ed. read *Sed idem est dicere hominem deificatum et factum Deum*. Ergo homo non est factus Deus.  
 
@@ -310,7 +312,7 @@ Quaestio 3
 
 ***De locutionibus exprimentibus unionem cum hoc participio "praedestinatus"***
 
-***Deinde quaeritur de locutionibus exprimentibus unionem cum hoc participio "praedestinatus." Et circa hoc quaeruntur duo:***
+Deinde quaeritur de locutionibus exprimentibus unionem cum hoc participio "praedestinatus." Et circa hoc quaeruntur duo:  
 
 Primo, utrum hic homo sit praedestinatus esse Filius Dei.  
 
@@ -320,7 +322,7 @@ Articulus 1
 
 ***Utrum homo Christus sit praedestinatus Filius Dei***
 
-***Ad primum sic proceditur. Videtur quod homo Christus non sit praedestinatusEd. add *esse*. Filius Dei.***
+Ad primum sic proceditur. Videtur quod homo Christus non sit praedestinatusEd. add *esse*. Filius Dei.  
 
 Quia sicut illud quod semper fuit, non fit; itaEd. add *id*. quod semper fuit, non praedestinatur, quia praedestinatio importat antecessionem. Sed homoEd. add *Christus*. supponit suppositum aeternum quod semper fuit Filius Dei. Ergo sicut ratione ista non potest dici quod homo sit factus Deus, ita non potest dici quod sit praedestinatus Filius Dei.  
 
@@ -362,7 +364,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Filius Dei non sit praedestinatus esse homo.***
+Ad secundum sic proceditur. Videtur quod Filius Dei non sit praedestinatus esse homo.  
 
 Praedestinatio enim praecedit praedestinatum. Sed Filium Dei nihil praecedit. Ergo ipse non est praedestinatus esse homo.  
 
@@ -374,7 +376,7 @@ Sed contra, omne quod est praevisum et ordinatum ab aeterno est praedestinatum. 
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod haec sit vera: "Filius Dei est praedestinatus esse Filius Dei." Quaecumque enim praedicantur de Filio hominis, praedicantur de Filio Dei. Sed haec est vera: "Filius hominis est praedestinatus esse Filius Dei," ut dictum est. Ergo et haec: "Filius Dei est praedestinatus esse Filius Dei."***
+Ulterius, videtur quod haec sit vera: "Filius Dei est praedestinatus esse Filius Dei." Quaecumque enim praedicantur de Filio hominis, praedicantur de Filio Dei. Sed haec est vera: "Filius hominis est praedestinatus esse Filius Dei," ut dictum est. Ergo et haec: "Filius Dei est praedestinatus esse Filius Dei."  
 
 Praeterea, Filius Dei, inquantum est homo, est praedestinatus esse Filius Dei. Sed alia quae praedicantur de Filio Dei inquantum homo, praedicantur de ipso etiam sine reduplicatione. Sicut Filius Dei, inquantum homo, est mortuus; et tamen haec conceditur: "Filius Dei est mortuus." Ergo similiter haec debet concedi: "Filius Dei est praedestinatus esse Filius Dei."  
 
@@ -384,7 +386,7 @@ Sed contra, quod semper inest alicui, non praedestinatur ei. Sed esse Filium Dei
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod haec sit vera: "Filius Dei est praedestinatus simpliciter." Sicut enim praedestinatus importat effectum temporalem; ita mittitur et donatur.Ed. read *datur* against the Bruge, Brussels, Paris (841, 842, and 843) and Angers manuscripts. Sed haecBruges manuscript omits *haec*. conceditur: "Filius Dei mittitur et donatur."Ed. read: *sed conceditur quod Filius Dei missus et datus*. Ergo et haecEd. read *Ergo etiam debet concedi quod . . .* against the Bruge, Brussels, Paris (841, 842, and 843) and Angers manuscripts. debet concedi: "Filius DeiBrussels manuscript omits *Filius Dei*. est praedestinatus."***
+Ulterius, videtur quod haec sit vera: "Filius Dei est praedestinatus simpliciter." Sicut enim praedestinatus importat effectum temporalem; ita mittitur et donatur.Ed. read *datur* against the Bruge, Brussels, Paris (841, 842, and 843) and Angers manuscripts. Sed haecBruges manuscript omits *haec*. conceditur: "Filius Dei mittitur et donatur."Ed. read: *sed conceditur quod Filius Dei missus et datus*. Ergo et haecEd. read *Ergo etiam debet concedi quod . . .* against the Bruge, Brussels, Paris (841, 842, and 843) and Angers manuscripts. debet concedi: "Filius DeiBrussels manuscript omits *Filius Dei*. est praedestinatus."  
 
 Praeterea, in aliis qui sunt praedestinati ad vitam aeternam, non oportet quod addatur ad quid praedestinati sunt; sed sufficit eos dicere esse praedestinatos. Sed Filius Dei est praedestinatus esse homo. Ergo Filius Dei debet dici esse praedestinatus simpliciter.  
 
@@ -394,7 +396,7 @@ Sed contra, aeternum non praedestinatur. Sed Filius Dei est aeternus. Ergo non e
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem dicendum quod praedestinatio importat ordinem ad finem, quia praedestinare est mittere vel ordinare in aliquid. Unde quando simpliciter ponitur, intelligitur praeordinatio ad finem ultimum, qui est in conjunctione ad Deum per gratiam vel gloriam, vel unionem in persona. Sed quando additur ei aliquid, tunc importat praeordinationem tantum in illud quod ei adjungitur. Et per hunc modum conceditur quod Filius Dei est praedestinatus esse homo, quia hoc ab aeterno praeordinatum est.***
+Respondeo ad primam quaestionem dicendum quod praedestinatio importat ordinem ad finem, quia praedestinare est mittere vel ordinare in aliquid. Unde quando simpliciter ponitur, intelligitur praeordinatio ad finem ultimum, qui est in conjunctione ad Deum per gratiam vel gloriam, vel unionem in persona. Sed quando additur ei aliquid, tunc importat praeordinationem tantum in illud quod ei adjungitur. Et per hunc modum conceditur quod Filius Dei est praedestinatus esse homo, quia hoc ab aeterno praeordinatum est.  
 
 Ad primum ergo dicendum quod praedestinatio non importat antecessionem ad praedestinatum simpliciter, sed in comparatione ad illud quod sibi praedestinari dicitur. Quamvis autem Filius Dei sit ab aeterno, non tamen ab aeterno fuit homo.  
 
@@ -404,7 +406,7 @@ Ad tertium dicendum quod quamvis non sit gratia Filio Dei quod sit homo, tamen h
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod in Sacra Scriptura dicitur aliquando aliquid fieri, quando innotescit. Hoc ergo quod est esse Filium Dei, potest accipi vel secundum rei veritatem, vel secundum evidentiam, prout scilicet manifestatur. Si primo modo, tunc falsum est quod Filius Dei sit praedestinatus esse Filius Dei, cum non ponatur in locutione aliquid respectu cujus possit denotari antecessio quam importat praedestinatio. Si autem accipiatur secundo modo, sic Glossa Aecumenii super illud Rom. 1:4: *qui praedestinatus est Filius Dei in virtute*, concedit quod Filius Dei destinatus estEd. read *sit*. ut sit Filius Dei, id est ut evidenter appareat: quod fuit in Resurrectione factum. Unde et ipse tunc dixit. Mat. ult. 18: *data est mihi omnis potestas in caelo et in terra.* Et secundum hunc sensum est ratio eadem de ista sicut de praecedenti, qua dicitur Filius Dei praedestinatus esseEd. add *est*. homo; quia praedestinatio importat simpliciter praeordinationem. Quantum ergo ad primum sensum haec est falsa: "Filius Dei est praedestinatus esse Filius Dei."***
+Ad secundam quaestionem dicendum quod in Sacra Scriptura dicitur aliquando aliquid fieri, quando innotescit. Hoc ergo quod est esse Filium Dei, potest accipi vel secundum rei veritatem, vel secundum evidentiam, prout scilicet manifestatur. Si primo modo, tunc falsum est quod Filius Dei sit praedestinatus esse Filius Dei, cum non ponatur in locutione aliquid respectu cujus possit denotari antecessio quam importat praedestinatio. Si autem accipiatur secundo modo, sic Glossa Aecumenii super illud Rom. 1:4: *qui praedestinatus est Filius Dei in virtute*, concedit quod Filius Dei destinatus estEd. read *sit*. ut sit Filius Dei, id est ut evidenter appareat: quod fuit in Resurrectione factum. Unde et ipse tunc dixit. Mat. ult. 18: *data est mihi omnis potestas in caelo et in terra.* Et secundum hunc sensum est ratio eadem de ista sicut de praecedenti, qua dicitur Filius Dei praedestinatus esseEd. add *est*. homo; quia praedestinatio importat simpliciter praeordinationem. Quantum ergo ad primum sensum haec est falsa: "Filius Dei est praedestinatus esse Filius Dei."  
 
 Ad primum ergo dicendum quod eorum quae dicuntur de homine, illa tantum dicuntur de Filio Dei quae non habent repugnantiam intellectuum ad Filium Dei. Sed praedestinatus habet repugnantiam, quia Filius Dei est aeternus. Praedestinatio autem importat antecessionem, quae non est respectu aeterni.  
 
@@ -414,7 +416,7 @@ Et similiter dicendum ad tertium.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod haec similiter est falsa: "Filius Dei est praedestinatus," cum non ponatur aliquid respectu cujus possit antecessio denotari. Sed haec: "Filius Dei inquantum est homo est praedestinatus," est vera, quia importari potest antecessio respectu hominis quantum ad naturam.***
+Ad tertiam quaestionem dicendum quod haec similiter est falsa: "Filius Dei est praedestinatus," cum non ponatur aliquid respectu cujus possit antecessio denotari. Sed haec: "Filius Dei inquantum est homo est praedestinatus," est vera, quia importari potest antecessio respectu hominis quantum ad naturam.  
 
 Ad primum ergo dicendum quod missio non importat temporalitatem in eo qui mitti dicitur, sed magis in eo ad quem mitti dicitur, in quo per novum effectum inhabitatEd. add *et ideo mitti dicitur*. persona divina. Sed praedestinatus ponit posterioritatem respectu praedestinationis in eo qui praedestinatur. Et ideo non est similis ratio.  
 
@@ -424,7 +426,7 @@ Ad tertium dicendum quod quamvis non sit nisi unum suppositum, tamen est duarum 
 
 Expositio textus  
 
-****Factus est sine dubio id quod prius non erat*. Haec locutio est impropria; quia non potest intelligi neque de natura, quia Deus non est factus humana natura; neque de persona sive de supposito, quia illud suppositum fuit semper, secundum secundam opinionem. Unde exponenda est: "idBrussels manuscript and the other editions read *illud*. quod prius non erat," id est, habens naturam quam prius non habebat.***
+*Factus est sine dubio id quod prius non erat*. Haec locutio est impropria; quia non potest intelligi neque de natura, quia Deus non est factus humana natura; neque de persona sive de supposito, quia illud suppositum fuit semper, secundum secundam opinionem. Unde exponenda est: "idBrussels manuscript and the other editions read *illud*. quod prius non erat," id est, habens naturam quam prius non habebat.  
 
 *Quia Deus assumpsit hominem*, id est humanam naturam, ut supra glossavit; alias esset contra hanc opinionem quae dicit, hominem non esse assumptum, sed humanam naturam.  
 

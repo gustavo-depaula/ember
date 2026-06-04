@@ -1,6 +1,8 @@
 # D. 20 - Temporal aspects of penance
 
-***Postquam determinavit Magister de poenitentia, et de potestate ministrorum quibus competit dispensatio hujus sacramenti, hic determinat quaedam quae poenitentiam consequuntur; et dividitur in partes duas: in prima determinat tempus poenitentiae; in secunda determinat quaedam quae ad effectum poenitentiae pertinent, 22 dist., ibi: *cumque multis auctoritatibus supra sit assertum, in vera cordis contritione peccata dimitti . . . quaeritur*, etc.***
+***De tempore poenitentiae***
+
+Postquam determinavit Magister de poenitentia, et de potestate ministrorum quibus competit dispensatio hujus sacramenti, hic determinat quaedam quae poenitentiam consequuntur; et dividitur in partes duas: in prima determinat tempus poenitentiae; in secunda determinat quaedam quae ad effectum poenitentiae pertinent, 22 dist., ibi: *cumque multis auctoritatibus supra sit assertum, in vera cordis contritione peccata dimitti . . . quaeritur*, etc.  
 
 Prima in duas: in prima ostendit tempus poenitentiae usque ad finem vitae esse; in secunda movet quasdam quaestiones quae ex praedictis ortum habent, 21 dist., ibi: *solet etiam quaeri*, etc.  
 
@@ -34,7 +36,7 @@ primo, utrum aliquis in extremo vitae suae per poenitentiam possit consequi veni
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod in extremo vitae suae aliquis poenitere non possit. 2 Machab., 9, 13, dicitur de Antiocho: *orabat scelestus Dominum, a quo non erat misericordiam consecuturus*. Hic autem in fine vitae suae erat. Ergo videtur quod in fine poenitentes veniam non consequuntur.***
+Ad primum sic proceditur. Videtur quod in extremo vitae suae aliquis poenitere non possit. 2 Machab., 9, 13, dicitur de Antiocho: *orabat scelestus Dominum, a quo non erat misericordiam consecuturus*. Hic autem in fine vitae suae erat. Ergo videtur quod in fine poenitentes veniam non consequuntur.  
 
 Praeterea, omnis vere poenitens peccata dimittit. Sed ille qui in fine vitae poenitet, non dimittit peccata, sed a peccatis dimittitur; quia tunc vult poenitentiam agere, quando peccare non potest, ut in littera dicitur. Ergo videtur quod tunc non consequatur veniam.  
 
@@ -46,7 +48,7 @@ Praeterea, sapientia Dei et misericordia vincit humanam malitiam. Sed homo potes
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in fine vitae poenitens non possit a quolibet sacerdote absolvi. Quia ad absolutionem requiritur aliqua jurisdictio, ut dictum est. Sed sacerdos non acquirit jurisdictionem super illum qui in fine poenitet. Ergo non potest eum in fine absolvere.***
+Ulterius. Videtur quod in fine vitae poenitens non possit a quolibet sacerdote absolvi. Quia ad absolutionem requiritur aliqua jurisdictio, ut dictum est. Sed sacerdos non acquirit jurisdictionem super illum qui in fine poenitet. Ergo non potest eum in fine absolvere.  
 
 Praeterea, ille qui sacramentum baptismi in articulo mortis ab alio quam proprio sacerdote recipit, non debet iterum a proprio sacerdote baptizari. Si ergo quilibet sacerdos in articulo mortis posset absolvere a quolibet peccato, non deberet poenitens, si evadit, ad suum sacerdotem recurrere; quod falsum est; quia alias sacerdos non haberet cognitionem de vultu pecoris sui.  
 
@@ -58,7 +60,7 @@ Praeterea, ad idem sunt auctoritates in littera positae.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod poenitentibus in fine non reservetur aliqua poena post mortem. Deus enim, cum sit summe misericors, non exigit ab homine plus quam facere possit. Sed iste qui in fine vitae suae poenituit, nihil aliud facere potuit pro tempore illo quam conteri et confiteri; quod etiam fecit. Ergo videtur quod nihil ab eo post hanc vitam requiratur pro peccatis de quibus poenituit.***
+Ulterius. Videtur quod poenitentibus in fine non reservetur aliqua poena post mortem. Deus enim, cum sit summe misericors, non exigit ab homine plus quam facere possit. Sed iste qui in fine vitae suae poenituit, nihil aliud facere potuit pro tempore illo quam conteri et confiteri; quod etiam fecit. Ergo videtur quod nihil ab eo post hanc vitam requiratur pro peccatis de quibus poenituit.  
 
 Praeterea, poena purgatorii excedit omnem poenam hujus mundi, ut in littera dicitur. Sed poena ad quam obligatur poenitens post confessionem et absolutionem, non est tanta quantae sunt multae poenae justae alterius vitae. Ergo injuste cum poenitente agitur, si post hanc vitam puniatur in purgatorio post absolutionem.  
 
@@ -70,7 +72,7 @@ Praeterea, nullus ex negligentia debet commodum reportare. Sed iste qui in finem
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod Deus, qui dat omnibus abundanter, nulli gratiam denegat qui quod in se est facit ut se ad gratiam praeparet. Haec autem praeparatio, sicut supra, dist. 17, quaest. 1, art. 3, quaestiunc. 1, 2, 3 et 4, dictum est, fit per motum liberi arbitrii; unde quamdiu manet homini usus liberi arbitrii in hac vita, in qua nondum est confirmatum ad malum, potest se praeparare ad gratiam, de peccatis dolendo; et gratiam remissionis peccatorum consequitur.***
+Respondeo dicendum ad primam quaestionem, quod Deus, qui dat omnibus abundanter, nulli gratiam denegat qui quod in se est facit ut se ad gratiam praeparet. Haec autem praeparatio, sicut supra, dist. 17, quaest. 1, art. 3, quaestiunc. 1, 2, 3 et 4, dictum est, fit per motum liberi arbitrii; unde quamdiu manet homini usus liberi arbitrii in hac vita, in qua nondum est confirmatum ad malum, potest se praeparare ad gratiam, de peccatis dolendo; et gratiam remissionis peccatorum consequitur.  
 
 Ad primum ergo dicendum, quod veniam consecutus fuisset, si vere poenituisset. Sed non habuit veram poenitentiam; quia non ex amore justitiae de peccatis commissis dolebat, sed timore poenae quam expectabat, vel dolore poenae quam sustinebat: et hoc etiam multis in fine poenitentibus contingit; quia non est facile ut affectus quem homo toto tempore vitae suae inclinavit in aliquid, subito ad contrarium retrahat; nec tamen est impossibile, quia liberum arbitrium non cogitur ex habitu acquisito, nec providentiae Dei potest terminus praefigi, per quam etiam in extremo vitae verae poenitentiae motus inspiratur quandoque.  
 
@@ -80,7 +82,7 @@ Ad tertium dicendum, quod in contritione sufficit propositum conditionatum satis
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quilibet sacerdos, quantum est de virtute clavium, habet potestatem indifferenter in omnes, et quantum ad omnia peccata; sed quod non possit omnes ab omnibus peccatis absolvere, hoc est quia per ordinationem Ecclesiae habet jurisdictionem limitatam, vel omnino nullam habet. Sed quia necessitas legem non habet; ideo quando articulus necessitatis imminet, per Ecclesiae ordinationem non impeditur quin absolvere possit, ex quo habet claves etiam sacramentaliter; et tantum consequitur ex absolutione alterius sicut si a proprio sacerdote absolveretur. Nec solum a peccatis potest tunc a quolibet sacerdote absolvi, sed etiam ab excommunicatione, a quocumque sit lata; quia haec absolutio etiam ad jurisdictionem pertinet, quae per legem ordinationis Ecclesiae coarctatur.***
+Ad secundam quaestionem dicendum, quod quilibet sacerdos, quantum est de virtute clavium, habet potestatem indifferenter in omnes, et quantum ad omnia peccata; sed quod non possit omnes ab omnibus peccatis absolvere, hoc est quia per ordinationem Ecclesiae habet jurisdictionem limitatam, vel omnino nullam habet. Sed quia necessitas legem non habet; ideo quando articulus necessitatis imminet, per Ecclesiae ordinationem non impeditur quin absolvere possit, ex quo habet claves etiam sacramentaliter; et tantum consequitur ex absolutione alterius sicut si a proprio sacerdote absolveretur. Nec solum a peccatis potest tunc a quolibet sacerdote absolvi, sed etiam ab excommunicatione, a quocumque sit lata; quia haec absolutio etiam ad jurisdictionem pertinet, quae per legem ordinationis Ecclesiae coarctatur.  
 
 Ad primum ergo dicendum, quod aliquis potest uti jurisdictione alterius ex ejus voluntate: quia ea quae jurisdictionis sunt, committi possunt. Unde quia Ecclesia acceptat ut quilibet sacerdos absolvere possit in articulo mortis; ideo ex hoc ipso quis jurisdictionis habet usum, quamvis jurisdictione careat.  
 
@@ -90,7 +92,7 @@ Ad tertium dicendum, quod baptismus habet efficaciam ex ipsa sanctificatione mat
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod poena post remissionem culpae exigitur, ut inaequalitas injustitiae commissae ad aequalitatem reducatur. Aequalitas autem quantitatem consequitur. Unde sicut ad ordinationem culpae exigitur quod poena pro culpa inferatur; ita exigitur quod pro tanta culpa tanta poena. Et ideo cum peccatum inordinatum remanere non possit, quamvis reatus poenae sit diminutus per contritionem et confessionem et absolutionem, oportet quod adhuc in fine poenitens quicumque satisfactionem non implet in hac vita, post hanc vitam puniatur, nisi tanta fuerit contritio quod totaliter a poena purgetur: quod quandoque contingere potest, ut supra dictum est dist. 17 art. 5, quaestiunc. 2.***
+Ad tertiam quaestionem dicendum, quod poena post remissionem culpae exigitur, ut inaequalitas injustitiae commissae ad aequalitatem reducatur. Aequalitas autem quantitatem consequitur. Unde sicut ad ordinationem culpae exigitur quod poena pro culpa inferatur; ita exigitur quod pro tanta culpa tanta poena. Et ideo cum peccatum inordinatum remanere non possit, quamvis reatus poenae sit diminutus per contritionem et confessionem et absolutionem, oportet quod adhuc in fine poenitens quicumque satisfactionem non implet in hac vita, post hanc vitam puniatur, nisi tanta fuerit contritio quod totaliter a poena purgetur: quod quandoque contingere potest, ut supra dictum est dist. 17 art. 5, quaestiunc. 2.  
 
 Ad primum ergo dicendum, quod ille qui in fine vitae poenitet, non punitur post hanc vitam quia non satisfecit quando satisfacere non potuit; sed quia peccavit, et quia satisfacere neglexit quando potuit; unde non sequitur quod Deus requirat ab homine ultra posse.  
 
@@ -104,7 +106,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod poena temporalis cujus reatus post poenitentiam manet, non taxetur secundum quantitatem culpae. Taxatur enim secundum quantitatem delectationis quae fuit in peccato, ut patet Apoc. 18, 7: *quantum glorificavit se, et in deliciis fuit, tantum date illi tormentum et luctum*. Sed quandoque ubi est major delectatio, est minor culpa: quia peccata carnalia quae plus habent delectationis quam spiritualia, minus habent de culpa, secundum Gregorium. Ergo poena non taxatur secundum quantitatem culpae.***
+Ad secundum sic proceditur. Videtur quod poena temporalis cujus reatus post poenitentiam manet, non taxetur secundum quantitatem culpae. Taxatur enim secundum quantitatem delectationis quae fuit in peccato, ut patet Apoc. 18, 7: *quantum glorificavit se, et in deliciis fuit, tantum date illi tormentum et luctum*. Sed quandoque ubi est major delectatio, est minor culpa: quia peccata carnalia quae plus habent delectationis quam spiritualia, minus habent de culpa, secundum Gregorium. Ergo poena non taxatur secundum quantitatem culpae.  
 
 Praeterea, eodem modo aliquis obligatur ad praecepta moralia in nova lege sicut in veteri. Sed in veteri lege debebatur pro peccatis poenitentia septem dierum, ut scilicet septem diebus immundi essent. Cum ergo in novo testamento imponatur poena septennis pro uno peccato mortali, videtur quod quantitas poenae non respiciat quantitatem culpae.  
 
@@ -118,7 +120,7 @@ Praeterea, homo reducitur ad aequalitatem justitiae per poenam inflictam. Sed ho
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod poenitens non sit debitor majoris poenae quam illius quae a sacerdote est sibi injuncta. Sacramentum enim semper consequitur suum effectum, nisi sit defectus ex parte recipientis, vel ex parte conferentis. Sed quandoque imponitur minor poenitentia quam sit condigna; et non est defectus ex parte recipientis, quia paratus esset omnem poenitentiam sibi injunctam facere; nec est defectus ex parte conferentis sacramentum, quia secundum conscientiam suam et discretionem talem poenam taxat. Ergo videtur, cum sacramentum poenitentiae sit ordinatum contra peccatum totaliter destruendum, et quantum ad poenam et quantum ad culpam; quod non remaneat debitor alicujus poenae, poenitentia injuncta peracta.***
+Ulterius. Videtur quod poenitens non sit debitor majoris poenae quam illius quae a sacerdote est sibi injuncta. Sacramentum enim semper consequitur suum effectum, nisi sit defectus ex parte recipientis, vel ex parte conferentis. Sed quandoque imponitur minor poenitentia quam sit condigna; et non est defectus ex parte recipientis, quia paratus esset omnem poenitentiam sibi injunctam facere; nec est defectus ex parte conferentis sacramentum, quia secundum conscientiam suam et discretionem talem poenam taxat. Ergo videtur, cum sacramentum poenitentiae sit ordinatum contra peccatum totaliter destruendum, et quantum ad poenam et quantum ad culpam; quod non remaneat debitor alicujus poenae, poenitentia injuncta peracta.  
 
 Praeterea, Deus est pronior ad remittendum poenam quam ad exigendum. Sed si iste sacerdos majorem poenam satisfactoriam injunxisset, poenitens obligaretur ad eam faciendam. Ergo videtur quod si insufficientem poenam injungat, non exigatur aliquid amplius ab eo.  
 
@@ -130,7 +132,7 @@ Praeterea, error sacerdotis non potest poenitenti prodesse. Prodesset autem, si 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod poenam satisfactoriam non possit unus pro alio explere. Quia ad satisfactionem meritum requiritur. Sed unus pro altero non potest mereri vel demereri, cum sit scriptum: *tu reddis unicuique secundum opera sua*. Ergo unus pro alio non potest satisfacere.***
+Ulterius. Videtur quod poenam satisfactoriam non possit unus pro alio explere. Quia ad satisfactionem meritum requiritur. Sed unus pro altero non potest mereri vel demereri, cum sit scriptum: *tu reddis unicuique secundum opera sua*. Ergo unus pro alio non potest satisfacere.  
 
 Praeterea, satisfactio contra contritionem et confessionem dividitur. Sed unus pro alio non potest conteri aut confiteri. Ergo nec satisfacere.  
 
@@ -144,7 +146,7 @@ Praeterea, caritas magis potest apud Deum quam apud homines. Sed unus potest apu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod poena post dimissionem culpae exigitur ad duo; scilicet ad debitum solvendum, et ad remedium praestandum. Potest ergo taxatio poenae considerari quantum ad duo. Primo quantum ad debitum; et sic quantitas poenae radicaliter respondet quantitati culpae, antequam de ea aliquid dimittatur. Sed tamen quod per primum eorum quae nata sunt remittere poenam, plus remittitur, secundum hoc per aliud minus remittendum vel solvendum restat; quia quanto per contritionem plus de poena dimissum est, tanto per confessionem minus dimittendum restat. Secundo quantum ad remedium vel illius qui peccavit, vel aliorum; et sic quandoque pro minori peccato major injungitur poena: vel quia peccato unius difficilius potest resisti quam peccato alterius; sicut juveni pro fornicatione imponitur major poenitentia quam seni, quamvis minus peccet; vel quia in uno peccatum est periculosius, sicut in sacerdote, quam in alio; vel quia multitudo magis prona est ad illud peccatum; et ideo per poenam unius alii sunt exterrendi. Poena ergo in foro poenitentiae quantum ad utrumque taxanda est; et ideo non semper pro majori peccato major poenitentia imponitur. Sed poena purgatorii solum est ad solvendum debitum, quia jam ulterius non manet locus peccandi; et ideo illa poena taxatur solum secundum quantitatem peccati, considerata tamen contritionis quantitate, et confessione, et absolutione; quia per omnia haec aliquid de poena dimittitur. Unde etiam a sacerdote, injungendo satisfactionem, sunt consideranda.***
+Respondeo dicendum ad primam quaestionem, quod poena post dimissionem culpae exigitur ad duo; scilicet ad debitum solvendum, et ad remedium praestandum. Potest ergo taxatio poenae considerari quantum ad duo. Primo quantum ad debitum; et sic quantitas poenae radicaliter respondet quantitati culpae, antequam de ea aliquid dimittatur. Sed tamen quod per primum eorum quae nata sunt remittere poenam, plus remittitur, secundum hoc per aliud minus remittendum vel solvendum restat; quia quanto per contritionem plus de poena dimissum est, tanto per confessionem minus dimittendum restat. Secundo quantum ad remedium vel illius qui peccavit, vel aliorum; et sic quandoque pro minori peccato major injungitur poena: vel quia peccato unius difficilius potest resisti quam peccato alterius; sicut juveni pro fornicatione imponitur major poenitentia quam seni, quamvis minus peccet; vel quia in uno peccatum est periculosius, sicut in sacerdote, quam in alio; vel quia multitudo magis prona est ad illud peccatum; et ideo per poenam unius alii sunt exterrendi. Poena ergo in foro poenitentiae quantum ad utrumque taxanda est; et ideo non semper pro majori peccato major poenitentia imponitur. Sed poena purgatorii solum est ad solvendum debitum, quia jam ulterius non manet locus peccandi; et ideo illa poena taxatur solum secundum quantitatem peccati, considerata tamen contritionis quantitate, et confessione, et absolutione; quia per omnia haec aliquid de poena dimittitur. Unde etiam a sacerdote, injungendo satisfactionem, sunt consideranda.  
 
 Ad primum ergo dicendum, quod in verbis illis duo tanguntur ex parte culpae, scilicet glorificatio, et deliciae; quorum primum pertinet ad elationem peccantis, qua Deo resistit; secundum ad delectationem peccati. Quamvis autem sit minor delectatio quandoque in culpa majori, tamen est ibi semper major elatio; et ideo ratio non procedit.  
 
@@ -156,7 +158,7 @@ Ad quartum dicendum, quod poena illa est intelligenda, quando nolente sacerdote 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod actus ministri bonus vel malus nihil diversificat in efficacia sacramentorum. Unde sive sacerdos discrete se habeat in injunctione poenitentiae, sive non; nihil diversificatur quantum ad efficaciam absolutionis et confessionis et contritionis; et ideo sive discrete poenitentiam injungat, sive non; semper remanet reatus ad quantitatis ejusdem poenam; et ideo si eam hic non explet, ab eo in purgatorio exigetur.***
+Ad secundam quaestionem dicendum, quod actus ministri bonus vel malus nihil diversificat in efficacia sacramentorum. Unde sive sacerdos discrete se habeat in injunctione poenitentiae, sive non; nihil diversificatur quantum ad efficaciam absolutionis et confessionis et contritionis; et ideo sive discrete poenitentiam injungat, sive non; semper remanet reatus ad quantitatis ejusdem poenam; et ideo si eam hic non explet, ab eo in purgatorio exigetur.  
 
 Ad primum ergo dicendum, quod quandocumque injungitur poenitentia minor condigno, defectus est ex parte imponentis, vel ex parte recipientis. Sed quandoque potest esse sine culpa utriusque; sicut quando imponens debitam diligentiam adhibet, et recipiens paratus est ad implendum; et propter hoc non est inconveniens, si totaliter a reatu poenae non liberetur.  
 
@@ -166,7 +168,7 @@ Ad tertium dicendum, quod sacerdos minorem condigno poenitentiam injungens, non 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod poena satisfactoria est ad duo; scilicet ad solutionem debiti, et ad medicinam pro peccato vitando. Inquantum ergo est ad remedium sequentis peccati, sic satisfactio unius non prodest alteri; quia ex jejunio unius caro alterius non domatur, nec ex actibus unius alius bene agere consuevit, nisi secundum accidens, inquantum aliquis per bona opera potest alteri mereri augmentum gratiae, quae efficacissimum remedium est ad peccatum vitandum. Sed hoc est per modum meriti magis quam per modum satisfactionis.***
+Ad tertiam quaestionem dicendum, quod poena satisfactoria est ad duo; scilicet ad solutionem debiti, et ad medicinam pro peccato vitando. Inquantum ergo est ad remedium sequentis peccati, sic satisfactio unius non prodest alteri; quia ex jejunio unius caro alterius non domatur, nec ex actibus unius alius bene agere consuevit, nisi secundum accidens, inquantum aliquis per bona opera potest alteri mereri augmentum gratiae, quae efficacissimum remedium est ad peccatum vitandum. Sed hoc est per modum meriti magis quam per modum satisfactionis.  
 
 Sed quantum ad satisfactionem debiti unus potest pro alio satisfacere, dummodo sit in caritate, ut opera ejus satisfactoria esse possint. Nec oportet quod major poena imponatur ei qui pro altero satisfacit, quam principali imponeretur, ut quidam dicunt, hac ratione moti, quia poena propria magis satisfacit quam aliena;*aliena.—aliena, sed hoc nihil est* PLE. quia poena habet vim satisfaciendi, maxime ratione caritatis qua homo ipsam sustinet. Et quia major caritas apparet in hoc quod aliquis pro altero satisfacit quam si ipse satisfaceret; ideo minor poena requiritur in eo qui pro altero satisfacit, quam in principali requireretur. Unde dicitur in *Vitis patrum*, quod propter caritatem unius, qui alterius fratris sui caritate ductus, poenitentiam fecit pro peccato quod non commiserat, alteri peccatum quod commiserat, dimissum est.  
 
@@ -186,7 +188,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod per indulgentiam non possit aliquid remitti de poena satisfactoria. Quia super illud 2 Timoth. 2, 13: *negare seipsum non potest*, dicit *Glossa* interlinealis: *quod faceret, si dicta sua non impleret*. Sed ipse dixit Deut. 25, 2: *secundum mensuram delicti erit plagarum modus*. Ergo non potest aliquid remitti de poena satisfactionis taxata secundum quantitatem culpae.***
+Ad tertium sic proceditur. Videtur quod per indulgentiam non possit aliquid remitti de poena satisfactoria. Quia super illud 2 Timoth. 2, 13: *negare seipsum non potest*, dicit *Glossa* interlinealis: *quod faceret, si dicta sua non impleret*. Sed ipse dixit Deut. 25, 2: *secundum mensuram delicti erit plagarum modus*. Ergo non potest aliquid remitti de poena satisfactionis taxata secundum quantitatem culpae.  
 
 Praeterea, inferior non potest absolvere ab eo ad quod superior obligavit. Sed Deus absolvendo a culpa ligat ad poenam temporalem, ut dicit Hugo de sancto Victore. Ergo nullus homo potest absolvere a poena illa, aliquid inde dimittendo.  
 
@@ -200,7 +202,7 @@ Praeterea, Ecclesia generalis non potest errare: quia ille qui in omnibus exaudi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non valeant tantum quantum pronuntiantur. Indulgentiae enim non habent effectum nisi ex vi clavium. Sed ex vi clavium non potest habens clavem dimittere de poena peccati nisi aliquid determinatum, considerata quantitate peccati et contritionis poenitentis. Ergo cum indulgentiae fiant pro libito instituentis indulgentiam, videtur quod non valeant tantum quantum pronuntiantur.***
+Ulterius. Videtur quod non valeant tantum quantum pronuntiantur. Indulgentiae enim non habent effectum nisi ex vi clavium. Sed ex vi clavium non potest habens clavem dimittere de poena peccati nisi aliquid determinatum, considerata quantitate peccati et contritionis poenitentis. Ergo cum indulgentiae fiant pro libito instituentis indulgentiam, videtur quod non valeant tantum quantum pronuntiantur.  
 
 Praeterea, per debitum poenae homo a gloriae adeptione retardatur, quam summe appetere debet. Sed si indulgentiae tantum valent quantum pronuntiantur, in brevi homo per indulgentias discurrens posset ab omni reatu temporalis poenae immunis reddi. Ergo videtur quod deberet his acquirendis, omnibus aliis operibus dimissis, homo vacare.  
 
@@ -216,7 +218,7 @@ Praeterea, 1 Corinth., 15, 14, dicit apostolus: *si inanis est praedicatio nostr
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod pro temporali subsidio non debeat fieri indulgentia. Quia remissio peccatorum est quoddam spirituale. Sed dare spirituale pro temporali est simonia. Ergo hoc fieri non debet.***
+Ulterius. Videtur quod pro temporali subsidio non debeat fieri indulgentia. Quia remissio peccatorum est quoddam spirituale. Sed dare spirituale pro temporali est simonia. Ergo hoc fieri non debet.  
 
 Praeterea, spiritualia subsidia sunt magis necessaria quam temporalia. Sed pro spiritualibus subsidiis non videntur fieri indulgentiae. Ergo multo minus pro temporalibus fieri debent.  
 
@@ -224,7 +226,7 @@ Sed contra est communis Ecclesiae consuetudo, quae pro peregrinationibus et elee
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ab omnibus conceditur indulgentias aliquid valere: quia impium esset dicere, quod Ecclesia aliquid vane faceret.***
+Respondeo dicendum ad primam quaestionem, quod ab omnibus conceditur indulgentias aliquid valere: quia impium esset dicere, quod Ecclesia aliquid vane faceret.  
 
 Sed quidam dicunt, quod non valent ad absolvendum a reatu poenae quam quis in purgatorio secundum judicium Dei meretur, sed valent ad absolutionem ab obligatione qua sacerdos obligavit poenitentem ad poenam aliquam, vel ad quam etiam ordinatur ex canonum statutis. Sed haec opinio non videtur vera. Primo, quia est expresse contra privilegium Petro datum ut quod in terra remitteret, et in caelo remitteretur; unde remissio quae fit quantum ad forum Ecclesiae, valet etiam quantum ad forum Dei; et praeterea Ecclesia hujusmodi indulgentias faciens magis damnificaret quam adjuvaret: quia remitteret ad graviores poenas, scilicet purgatorii, absolvendo a poenitentiis injunctis.  
 
@@ -266,7 +268,7 @@ Ad quintum dicendum, quod causa non requiritur ad hoc quod secundum eam debeat m
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod temporalia ad spiritualia ordinantur, quia propter spiritualia temporalibus uti debemus; et ideo pro temporalibus simpliciter non potest fieri indulgentia, sed pro temporalibus ordinatis ad spiritualia, sicut repressio inimicorum Ecclesiae, qui pacem Ecclesiae perturbant; sicut constructio ecclesiarum et pontium, et aliarum eleemosynarum. Et per hoc patet quod non fit ibi simonia, quia non datur spirituale pro temporali, sed pro spirituali.***
+Ad tertiam quaestionem dicendum, quod temporalia ad spiritualia ordinantur, quia propter spiritualia temporalibus uti debemus; et ideo pro temporalibus simpliciter non potest fieri indulgentia, sed pro temporalibus ordinatis ad spiritualia, sicut repressio inimicorum Ecclesiae, qui pacem Ecclesiae perturbant; sicut constructio ecclesiarum et pontium, et aliarum eleemosynarum. Et per hoc patet quod non fit ibi simonia, quia non datur spirituale pro temporali, sed pro spirituali.  
 
 Unde patet solutio ad primum.  
 
@@ -278,7 +280,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod quilibet sacerdos parochialis possit indulgentiam dare. Indulgentia enim habet efficaciam ex meritorum Ecclesiae abundantia. Sed non est aliqua congregatio, in qua non sit aliqua abundantia meritorum. Ergo quilibet sacerdos potest facere indulgentiam, si habeat plebem subjectam; et similiter quilibet sacerdos praelatus.***
+Ad quartum sic proceditur. Videtur quod quilibet sacerdos parochialis possit indulgentiam dare. Indulgentia enim habet efficaciam ex meritorum Ecclesiae abundantia. Sed non est aliqua congregatio, in qua non sit aliqua abundantia meritorum. Ergo quilibet sacerdos potest facere indulgentiam, si habeat plebem subjectam; et similiter quilibet sacerdos praelatus.  
 
 Praeterea, praelatus quilibet gerit personam totius multitudinis, sicut unus homo gerit personam suam. Sed quilibet potest alteri communicare bona sua pro altero satisfaciendo. Ergo et praelatus potest communicare bona multitudinis sibi commissae; et sic videtur quod possit indulgentias facere.  
 
@@ -286,7 +288,7 @@ Sed contra, minus est excommunicare quam indulgentias facere. Sed hoc non potest
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod diaconus non possit indulgentias facere, vel alius, nisi sacerdos. Quia remissio peccatorum est effectus clavium. Sed non habet claves nisi solus sacerdos. Ergo ipse solus potest indulgentias facere.***
+Ulterius. Videtur quod diaconus non possit indulgentias facere, vel alius, nisi sacerdos. Quia remissio peccatorum est effectus clavium. Sed non habet claves nisi solus sacerdos. Ergo ipse solus potest indulgentias facere.  
 
 Praeterea, plenior remissio poenae est in indulgentiis quam in foro poenitentiali. Sed hoc non potest nisi sacerdos. Ergo nec illud.  
 
@@ -294,7 +296,7 @@ Sed contra, eidem confertur dispensatio thesauri Ecclesiae cui committitur regim
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam episcopus non possit facere indulgentiam. Quia thesaurus Ecclesiae communis est toti Ecclesiae. Sed id quod est commune toti Ecclesiae, non potest dispensari nisi per illum qui toti Ecclesiae praeest. Ergo solus Papa potest indulgentias facere.***
+Ulterius. Videtur quod etiam episcopus non possit facere indulgentiam. Quia thesaurus Ecclesiae communis est toti Ecclesiae. Sed id quod est commune toti Ecclesiae, non potest dispensari nisi per illum qui toti Ecclesiae praeest. Ergo solus Papa potest indulgentias facere.  
 
 Praeterea, nullus potest remittere poenas a jure determinatas, nisi ille qui habet potestatem jus condendi. Sed poenae satisfactoriae sunt pro peccatis determinatae in jure. Ergo remittere hujusmodi poenas potest solus Papa, qui est conditor juris.  
 
@@ -302,7 +304,7 @@ Sed contra est consuetudo Ecclesiae, secundum quam episcopi dant indulgentias.
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod ille qui est in peccato mortali, non possit facere indulgentias. Quia rivus cui fons non influit, nihil profluere potest. Sed praelato in peccato mortali existenti non influit fons gratiae, Scilicet Spiritus sancti. Ergo non potest in alios profluere faciendo indulgentias.***
+Ulterius. Videtur quod ille qui est in peccato mortali, non possit facere indulgentias. Quia rivus cui fons non influit, nihil profluere potest. Sed praelato in peccato mortali existenti non influit fons gratiae, Scilicet Spiritus sancti. Ergo non potest in alios profluere faciendo indulgentias.  
 
 Praeterea, majus est dare indulgentiam quam recipere. Sed ille qui est in peccato mortali, non recipit, ut dicetur. Ergo nec facere potest.  
 
@@ -310,7 +312,7 @@ Sed contra, quia indulgentiae fiunt per potestatem praelatis Ecclesiae traditam.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod indulgentiae effectum habent secundum quod opera satisfactoria unius alteri computantur, non solum ex vi caritatis, sed ex intentione operantis aliquo modo directa ad ipsum.***
+Respondeo dicendum ad primam quaestionem, quod indulgentiae effectum habent secundum quod opera satisfactoria unius alteri computantur, non solum ex vi caritatis, sed ex intentione operantis aliquo modo directa ad ipsum.  
 
 Sed intentio alterius potest ad alterum dirigi tripliciter; aut in speciali, aut in generali, aut in singulari. In singulari quidem, sicut cum quis pro alio satisfacit determinate; et sic quilibet potest alteri sua opera communicare. In speciali autem, sicut cum quis orat pro congregatione sua et familiaribus et benefactoribus, et ad hoc ordinat etiam sua opera satisfactoria; et sic ille qui congregationi praeest, potest opera illa alii communicare applicando intentionem illorum qui sunt de congregatione sua ad hunc determinate. Sed in generali, sicut cum quis opera sua ordinat ad bonum Ecclesiae in generali; et sic ille qui praeest Ecclesiae generaliter, potest opera illa communicare applicando intentionem suam ad hunc vel ad illum. Et quia homo est pars congregationis, et congregatio est pars Ecclesiae; ideo in intentione privati boni includitur intentio boni congregationis et boni totius Ecclesiae; et ideo ille qui praeest Ecclesiae, potest communicare ea quae sunt congregationis, et hujus hominis; et ille qui praeest congregationi ea quae sunt hujus hominis, sed non convertitur.  
 
@@ -322,19 +324,19 @@ Et per hoc patet solutio ad objecta.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod potestas faciendi indulgentias sequitur jurisdictionem, ut supra dictum fuit: et quia diaconi et alii non sacerdotes possunt habere jurisdictionem vel commissam, sicut legati, vel ordinariam, sicut electi, ideo possunt indulgentias facere etiam non sacerdotes; quamvis non possint absolvere in foro poenitentiali, quod est ordinis.***
+Ad secundam quaestionem dicendum, quod potestas faciendi indulgentias sequitur jurisdictionem, ut supra dictum fuit: et quia diaconi et alii non sacerdotes possunt habere jurisdictionem vel commissam, sicut legati, vel ordinariam, sicut electi, ideo possunt indulgentias facere etiam non sacerdotes; quamvis non possint absolvere in foro poenitentiali, quod est ordinis.  
 
 Et per hoc patet solutio ad objecta. Indulgentias enim facere pertinet ad clavem jurisdictionis, non ad clavem ordinis.  
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Papa habet plenitudinem pontificalis potestatis, quasi rex in regno; sed episcopi assumuntur in partem solicitudinis, quasi judices singulis civitatibus praepositi: propter quod etiam solos eos in suis litteris *fratres* vocat, reliquos autem omnes vocat *filios*. Et ideo potestas faciendi indulgentias plene residet in Papa, quia potest facere prout vult, causa tamen existente legitima; sed in episcopis est taxata secundum ordinationem Papae; et ideo possunt facere secundum quod eis taxatum est, et non amplius.***
+Ad tertiam quaestionem dicendum, quod Papa habet plenitudinem pontificalis potestatis, quasi rex in regno; sed episcopi assumuntur in partem solicitudinis, quasi judices singulis civitatibus praepositi: propter quod etiam solos eos in suis litteris *fratres* vocat, reliquos autem omnes vocat *filios*. Et ideo potestas faciendi indulgentias plene residet in Papa, quia potest facere prout vult, causa tamen existente legitima; sed in episcopis est taxata secundum ordinationem Papae; et ideo possunt facere secundum quod eis taxatum est, et non amplius.  
 
 Et per hoc patet solutio ad objecta.  
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod facere indulgentias pertinet ad jurisdictionem. Sed per peccatum homo non amittit jurisdictionem: et ideo indulgentiae aeque valent, si fiant ab eo qui est in peccato mortali, sicut si fierent ab eo qui est sanctissimus; cum non remittat poenam ex vi suorum meritorum, sed ex vi meritorum reconditorum in thesauris Ecclesiae.***
+Ad quartam quaestionem dicendum, quod facere indulgentias pertinet ad jurisdictionem. Sed per peccatum homo non amittit jurisdictionem: et ideo indulgentiae aeque valent, si fiant ab eo qui est in peccato mortali, sicut si fierent ab eo qui est sanctissimus; cum non remittat poenam ex vi suorum meritorum, sed ex vi meritorum reconditorum in thesauris Ecclesiae.  
 
 Ad primum ergo dicendum, quod iste praelatus in peccato mortali indulgentias faciens non profluit aliquid de suo; et ideo non requiritur quod influxum recipiat a fonte ad hoc quod ejus indulgentiae valeant.  
 
@@ -346,7 +348,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod indulgentia valeat existentibus in peccato mortali. Quia aliquis potest alteri mereri, etiam in peccato mortali existenti, gratiam, et multa alia bona. Sed indulgentiae habent efficaciam ex hoc quod merita sanctorum applicantur ad istum. Ergo habent effectum in illis qui sunt in peccato mortali.***
+Ad quintum sic proceditur. Videtur quod indulgentia valeat existentibus in peccato mortali. Quia aliquis potest alteri mereri, etiam in peccato mortali existenti, gratiam, et multa alia bona. Sed indulgentiae habent efficaciam ex hoc quod merita sanctorum applicantur ad istum. Ergo habent effectum in illis qui sunt in peccato mortali.  
 
 Praeterea, ubi est major indigentia, magis habet locum misericordia. Sed ille qui est in peccato mortali, maxime indiget. Ergo ei maxima debet fieri misericordia per indulgentias.  
 
@@ -354,7 +356,7 @@ Sed contra, membrum mortuum non suscipit influentiam ex aliis membris vivis. Sed
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod indulgentiae non valeant religiosis. Non enim competit eis supplere ex quorum superabundantia aliis suppletur. Sed ex superabundantia operum satisfactionis quae sunt in religiosis, aliis suppletur per indulgentias. Ergo eis non competit per indulgentias suppleri.***
+Ulterius. Videtur quod indulgentiae non valeant religiosis. Non enim competit eis supplere ex quorum superabundantia aliis suppletur. Sed ex superabundantia operum satisfactionis quae sunt in religiosis, aliis suppletur per indulgentias. Ergo eis non competit per indulgentias suppleri.  
 
 Praeterea, in Ecclesia non debet aliquid fieri quod inducat religionis dissolutionem. Sed si religiosis indulgentiae prodessent, esset occasio dissolutionis disciplinae regularis: quia religiosi nimis vagarentur per hujusmodi indulgentias et poenas sibi impositas in capitulo negligerent. Ergo religiosis non prosunt.  
 
@@ -362,7 +364,7 @@ Sed contra, nullus ex bono reportat damnum. Sed religio bonum est. Ergo religios
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ei qui non facit hoc pro quo indulgentia datur, possit quandoque indulgentia dari. Quia ei qui non potest operari, voluntas pro facto reputatur. Sed aliquando fit indulgentia pro aliqua eleemosyna facienda, quam aliquis pauper facere non potest, et tamen libenter faceret. Ergo indulgentia ei valet.***
+Ulterius. Videtur quod ei qui non facit hoc pro quo indulgentia datur, possit quandoque indulgentia dari. Quia ei qui non potest operari, voluntas pro facto reputatur. Sed aliquando fit indulgentia pro aliqua eleemosyna facienda, quam aliquis pauper facere non potest, et tamen libenter faceret. Ergo indulgentia ei valet.  
 
 Praeterea, unus potest pro alio satisfacere. Sed indulgentia ad remissionem poenae operatur, sicut et satisfactio. Ergo unus pro alio potest indulgentiam accipere; et sic ille consequitur indulgentiam qui non facit hoc pro quo indulgentia datur.  
 
@@ -370,7 +372,7 @@ Sed contra, remota causa removetur effectus. Si ergo aliquis non facit hoc pro q
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod indulgentia non valeat ei qui facit. Quia facere indulgentias est jurisdictionis. Sed nullus in seipsum potest exercere ea quae sunt jurisdictionis, sicut nullus potest se excommunicare. Ergo nullus potest indulgentiae a se factae particeps esse.***
+Ulterius. Videtur quod indulgentia non valeat ei qui facit. Quia facere indulgentias est jurisdictionis. Sed nullus in seipsum potest exercere ea quae sunt jurisdictionis, sicut nullus potest se excommunicare. Ergo nullus potest indulgentiae a se factae particeps esse.  
 
 Praeterea, secundum hoc, ille qui facit indulgentiam, posset pro aliquo modico facto sibi poenam remittere omnium peccatorum suorum, et ita impune peccare; quod videtur absonum.  
 
@@ -380,7 +382,7 @@ Sed contra, quia tunc esset ipse pejoris conditionis quam alii, si ipse non poss
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quidam dicunt indulgentias valere etiam existentibus in peccato mortali, non quidem ad dimissionem poenae, quia nulli potest dimitti poena, nisi cui jam dimissa est culpa; qui enim non est consecutus operationem Dei in remissione culpae, non potest consequi remissionem poenae a ministro Ecclesiae neque in indulgentiis, neque in foro poenitentiali: valet tamen eis ad acquirendum gratiam. Sed hoc non videtur verum: quia quamvis merita illa quae per indulgentiam communicantur, possent valere ad merendum gratiam, non tamen propter hoc dispensantur, sed determinate ad remissionem poenae; et ideo non valent existentibus in mortali; et ideo in omnibus indulgentiis fit mentio de *vere contritis et confessis*. Si autem fieret communicatio per hunc modum: *facio participem meritorum totius Ecclesiae, vel unius congregationis, vel unius specialis personae*, sic posset valere ad merendum aliquid illi qui est in peccato mortali, ut praedicta opinio dicit.***
+Respondeo dicendum ad primam quaestionem, quod quidam dicunt indulgentias valere etiam existentibus in peccato mortali, non quidem ad dimissionem poenae, quia nulli potest dimitti poena, nisi cui jam dimissa est culpa; qui enim non est consecutus operationem Dei in remissione culpae, non potest consequi remissionem poenae a ministro Ecclesiae neque in indulgentiis, neque in foro poenitentiali: valet tamen eis ad acquirendum gratiam. Sed hoc non videtur verum: quia quamvis merita illa quae per indulgentiam communicantur, possent valere ad merendum gratiam, non tamen propter hoc dispensantur, sed determinate ad remissionem poenae; et ideo non valent existentibus in mortali; et ideo in omnibus indulgentiis fit mentio de *vere contritis et confessis*. Si autem fieret communicatio per hunc modum: *facio participem meritorum totius Ecclesiae, vel unius congregationis, vel unius specialis personae*, sic posset valere ad merendum aliquid illi qui est in peccato mortali, ut praedicta opinio dicit.  
 
 Et per hoc patet solutio ad primum.  
 
@@ -388,7 +390,7 @@ Ad secundum dicendum, quod quamvis sit magis indigens qui est in peccato mortali
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod tam saecularibus quam religiosis valent indulgentiae, dummodo sint in caritate, et servent ea quae pro indulgentiis indicuntur. Non enim religiosi sunt minus adjuvabiles meritis aliorum quam saeculares.***
+Ad secundam quaestionem dicendum, quod tam saecularibus quam religiosis valent indulgentiae, dummodo sint in caritate, et servent ea quae pro indulgentiis indicuntur. Non enim religiosi sunt minus adjuvabiles meritis aliorum quam saeculares.  
 
 Ad primum ergo dicendum, quod quamvis religiosus sit in statu perfectionis; tamen ipse sine peccato vivere non potest; et ideo si aliquando propter peccatum aliquod commissum sit reus alicujus poenae, potest per indulgentiam ab hoc expiari. Non enim est inconveniens, si ille qui est simpliciter superabundans, aliquo tempore indigeat, et quantum ad aliquid; et sic indiget supplemento quo sublevetur; unde dicitur Gal. 6, 2: *alter alterius onera portate*.  
 
@@ -396,7 +398,7 @@ Ad secundum dicendum, quod propter indulgentias non debet dissolvi regularis obs
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod non existente conditione, non consequitur illud quod sub conditione datur. Unde cum indulgentia detur sub hac conditione quod aliquis aliquid faciat vel det; si illud non exerceat, indulgentiam non consequitur.***
+Ad tertiam quaestionem dicendum, quod non existente conditione, non consequitur illud quod sub conditione datur. Unde cum indulgentia detur sub hac conditione quod aliquis aliquid faciat vel det; si illud non exerceat, indulgentiam non consequitur.  
 
 Ad primum ergo dicendum, quod hoc intelligitur quantum ad praemium essentiale; sed non quantum ad alia accidentalia praemia, sicut est dimissio poenae, vel aliquid hujusmodi.  
 
@@ -404,7 +406,7 @@ Ad secundum dicendum, quod opus proprium potest quis applicare per intentionem c
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod indulgentia debet ex aliqua causa dari ad hoc quod aliquis per indulgentiam ad aliquem actum provocetur, qui in utilitatem Ecclesiae et in honorem Dei vergat. Praelatus autem, cui cura Ecclesiae utilitatis propagatione et honoris divini propagandi est commissa, non habet causam ut seipsum ad hoc provocet; et ideo non potest facere indulgentiam sibi tantum, sed potest uti indulgentia quam pro aliis facit, quia aliis subest causa faciendi.***
+Ad quartam quaestionem dicendum, quod indulgentia debet ex aliqua causa dari ad hoc quod aliquis per indulgentiam ad aliquem actum provocetur, qui in utilitatem Ecclesiae et in honorem Dei vergat. Praelatus autem, cui cura Ecclesiae utilitatis propagatione et honoris divini propagandi est commissa, non habet causam ut seipsum ad hoc provocet; et ideo non potest facere indulgentiam sibi tantum, sed potest uti indulgentia quam pro aliis facit, quia aliis subest causa faciendi.  
 
 Ad primum ergo dicendum, quod actum jurisdictionis non potest aliquis in seipsum exercere; sed eis quae auctoritate jurisdictionis dantur aliis potest etiam praelatus uti tam in temporalibus quam in spiritualibus; sicut etiam sacerdos sibi Eucharistiam accipit quam aliis dat; et ita etiam episcopus potest accipere sibi suffragia Ecclesiae quae aliis dispensat, quorum effectus immediatus est remissio poenae per indulgentias, et non jurisdictionis.  
 
@@ -414,7 +416,7 @@ Ad tertium dicendum, quod excommunicatio profertur per modum sententiae, quam nu
 
 Expositio textus  
 
-****Tene certum*. Loquitur de certitudine conjecturae, non de certitudine scientiae; quia nemo scit utrum sit dignus odio, vel amore: Eccl. 9.***
+*Tene certum*. Loquitur de certitudine conjecturae, non de certitudine scientiae; quia nemo scit utrum sit dignus odio, vel amore: Eccl. 9.  
 
 *Arbitrii libertatem quaerit*, idest liberam electionem, ut scilicet homo non dimittat peccatum quia jam non potest peccare, sed quia non vult Deum offendere, etiam si posset; quod etiam in tarde poenitentibus quandoque contingit, ut dictum est.  
 

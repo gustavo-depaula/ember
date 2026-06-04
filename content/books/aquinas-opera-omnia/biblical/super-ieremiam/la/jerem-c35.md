@@ -1,6 +1,8 @@
 # C. 33 - The kingdom and priesthood
 
-***^33:1^ Et factum est verbum Domini ad Jeremiam secundo, cum adhuc clausus esset in atrio carceris, dicens:***
+***Lectio 1***
+
+^33:1^ Et factum est verbum Domini ad Jeremiam secundo, cum adhuc clausus esset in atrio carceris, dicens:  
 
 > ^33:2^ haec dicit Dominus qui facturus est, et formaturus illud, et paraturus, Dominus nomen ejus.
 
@@ -56,7 +58,7 @@ Tertio ponit liberationis fructum quantum ad divinam gloriam: ***et erit mihi in
 
 Lectio 2  
 
-***^33:10^ Haec dicit Dominus: adhuc audietur in loco isto (quem vos dicitis esse desertum, eo quod non sit homo, nec jumentum: in civitatibus Juda; et foris Jerusalem, quae desolatae sunt absque homine, absque habitatore, et absque pecore)***
+^33:10^ Haec dicit Dominus: adhuc audietur in loco isto (quem vos dicitis esse desertum, eo quod non sit homo, nec jumentum: in civitatibus Juda; et foris Jerusalem, quae desolatae sunt absque homine, absque habitatore, et absque pecore)  
 
 > ^33:11^ vox gaudii, et vox laetitiae vox sponsi, et vox sponsae, vox dicentium: confitemini Domino exercituum, quoniam bonus Dominus, quoniam in aeternum misericordia ejus, et portantium vota in domum Domini. Reducam enim conversionem terrae sicut a principio, dicit Dominus.
 
@@ -70,7 +72,7 @@ Tertio assignat rationem: ***reducam enim conversionem terrae***. Thr. ult.: *in
 
 Lectio 3  
 
-***^33:12^ Haec dicit Dominus exercituum: adhuc erit in loco isto deserto absque homine, et absque jumento, et in cunctis civitatibus ejus habitaculum pastorum, et accubantium gregum***
+^33:12^ Haec dicit Dominus exercituum: adhuc erit in loco isto deserto absque homine, et absque jumento, et in cunctis civitatibus ejus habitaculum pastorum, et accubantium gregum  
 
 > ^33:13^ in civitatibus montuosis, et in civitatibus campestribus, et in civitatibus quae ad austrum sunt, et in terra Benjamin et in circuitu Jerusalem, et in civitatibus Juda, adhuc transibunt greges ad manum numerantis, ait Dominus.
 
@@ -78,7 +80,7 @@ Lectio 3
 
 Lectio 4  
 
-***^33:14^ Ecce dies veniunt, dicit Dominus, et suscitabo verbum bonum, quod locutus sum ad domum Israel, et ad domum Juda.***
+^33:14^ Ecce dies veniunt, dicit Dominus, et suscitabo verbum bonum, quod locutus sum ad domum Israel, et ad domum Juda.  
 
 > ^33:15^ In diebus illis, et in tempore illo germinare faciam David germen justitiae, et faciet judicium, et justitiam in terra.
 
@@ -110,7 +112,7 @@ Tertio ponit regni durationem: ***quia haec dicit Dominus, non interibit de Davi
 
 Lectio 5  
 
-***^33:18^ Et de sacerdotibus, et de Levitis non interibit vir a facie mea, qui offerat holocautomata, et incendat sacrificum, et caedat victimas omnibus diebus.***
+^33:18^ Et de sacerdotibus, et de Levitis non interibit vir a facie mea, qui offerat holocautomata, et incendat sacrificum, et caedat victimas omnibus diebus.  
 
 > **181**. Hic ponit restaurationem sacerdotii. Et sicut regnum restauratur in ipso Christo, et in membris ejus, ita et sacerdotium. Ipse enim sicut rex, ita et sacerdos est. Psal. 109: *tu es sacerdos in aeternum secundum ordinem Melchisedech*. Et membra sua reges et sacerdotes fecit. Apoc. 5: *fecisti nos Deo nostro regnum et sacerdotes*. Eph. 5: *seipsum obtulit hostiam Deo in odorem suavitatis*. Et membra ipsius, spirituales hostias Deo offerre facit. Ezech. 44: *sacerdotes et levitate filii Sadoch, qui custodierunt caeremonias sanctuarii mei, cum errarent filii Israel a me: ipsi accedent ad me, ut ministrant mihi, et stabunt in conspectu meo, ut offerant mihi adipem et sanguinem: ait Dominus Deus*.
 

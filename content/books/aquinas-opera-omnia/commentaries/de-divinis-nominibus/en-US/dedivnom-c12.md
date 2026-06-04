@@ -1,10 +1,12 @@
 # C. 11 - On Peace; And What Per Se Being Means; What Per Se Life; And What Per Se Virtue; And What Are Said Thus
 
+On Peace; And What Per Se Being Means; What Per Se Life; And What Per Se Virtue; And What Are Said Thus  
+
 ***Lectio 1***
 
 ***On the Divine Peace and On Its Causality in Common***
 
-***C. XI, §1. 399. Come, therefore, let us praise the divine and foremost peace of gathering with peaceful hymns.***
+C. XI, §1. 399. Come, therefore, let us praise the divine and foremost peace of gathering with peaceful hymns.  
 
 > 400. For it is unitive of all things and the generative and operative consensus and connaturality of the whole of things;
 
@@ -112,7 +114,7 @@ Lectio 2
 
 ***On the Causality of the Divine Peace in Particular***
 
-***405. Therefore concerning the divine peace itself, whatever it is, and silence and that which the holy man Justus calls ineffability and immobility to every known procession and how it rests and keeps silence and how it is in itself and within itself and to its whole self, is super-united whole and neither entering into itself and multiplying itself does it forsake the unition of its own self, but also proceeds to all things, remaining whole inside, through the excess of the unition surpassing all things, is neither speakable nor possible to say or to think for any of existing things, we shall inspect its intelligible and spoken participations, as this as is possible for men and for us by many good men failing.***
+405. Therefore concerning the divine peace itself, whatever it is, and silence and that which the holy man Justus calls ineffability and immobility to every known procession and how it rests and keeps silence and how it is in itself and within itself and to its whole self, is super-united whole and neither entering into itself and multiplying itself does it forsake the unition of its own self, but also proceeds to all things, remaining whole inside, through the excess of the unition surpassing all things, is neither speakable nor possible to say or to think for any of existing things, we shall inspect its intelligible and spoken participations, as this as is possible for men and for us by many good men failing.  
 
 > §2. 406. And first of all this must be said: that it makes to subsist *per se* peace itself both whole and particular,
 
@@ -230,9 +232,9 @@ For a whole line is not one with the whole, because thus it would be necessary t
 
 Lectio 3  
 
-***Certain Objections Are Excluded and It Is Determined About the Peace Made Through the Incarnation of Christ***
+Certain Objections Are Excluded and It Is Determined About the Peace Made Through the Incarnation of Christ  
 
-***§3. 414. Yet how, someone should say, do all things desire peace? For many rejoice over otherness and discretion and do not wish to rest spontaneously at any time.***
+§3. 414. Yet how, someone should say, do all things desire peace? For many rejoice over otherness and discretion and do not wish to rest spontaneously at any time.  
 
 > 415. And if indeed saying this, he says otherness and discretion for the propriety of each of existing things and that no one existing thing of existing things that is wishes to destroy this at any time, indeed we shall not contradict this, but let us announce that even this is the desire of peace: for all things love to have peace for themselves and to be united and that their own things and those that are theirs should be immobile and not prevailing to fall,
 
@@ -306,9 +308,9 @@ Yet wisely would they allay this assault of the passions if, repressing many des
 
 Lectio 4  
 
-***On the Divine Perfections According As They Are Considered Per Se In the Abstract***
+On the Divine Perfections According As They Are Considered Per Se In the Abstract  
 
-***§ 6. 421. But because you also have interrogated me elsewhere through epistle: what perhaps I call *per se* being, *per se* life, and *per se* wisdom, and you said that for yourself you had doubted how I call God sometimes indeed *per se* life yet sometimes the substantifier of *per se* life, I reckon it necessary, O holy man of God, also to absolve you from this doubt in us.***
+§ 6. 421. But because you also have interrogated me elsewhere through epistle: what perhaps I call *per se* being, *per se* life, and *per se* wisdom, and you said that for yourself you had doubted how I call God sometimes indeed *per se* life yet sometimes the substantifier of *per se* life, I reckon it necessary, O holy man of God, also to absolve you from this doubt in us.  
 
 > 422. And first of all, so that even now I might assume the things said manifoldly, it is not contrary to call God *per se* virtue or *per se* life and the substantifier of *per se* life or peace or virtue: for indeed he is called the former from existing things and most of all from things existing first, as the cause of all existing things; yet the latter as above all things and also super-existing supersubstantially over things that are prior.
 

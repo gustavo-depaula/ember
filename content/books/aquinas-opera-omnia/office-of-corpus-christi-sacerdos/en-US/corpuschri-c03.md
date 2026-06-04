@@ -1,5 +1,8 @@
 # Matins
 
+***[℣. O Lord, open my lips.***
+***℟. And my mouth shall declare your praise.***
+
 ℣. O God, come to my assistance;  
 ℟. O Lord, make haste to help me.  
 
@@ -13,7 +16,7 @@ Invitatory (Psalm 94 [95])
 
 Sung to *Christum regem regum adoremus* from the feast of St. Andrew.  
 
-***Come let us praise the Lord with joy: let us joyfully sing to God our savior. Let us come before his presence with thanksgiving; and make a joyful noise to him with psalms. * ℟. *Ant*.***
+Come let us praise the Lord with joy: let us joyfully sing to God our savior. Let us come before his presence with thanksgiving; and make a joyful noise to him with psalms. * ℟. *Ant*.  
 
 > For the Lord is a great God, and a great King above all gods. For in his hand are all the ends of the earth: and the heights of the mountains are his. * ℟. *Ant*.
 
@@ -47,7 +50,7 @@ Sung to *Granum cadens* from the feast of St. Thomas.
 
 ***Psalm 1***
 
-***Blessed is the man who has not walked in the counsel of the ungodly, nor stood in the way of sinners, * nor sat in the chair of pestilence.***
+Blessed is the man who has not walked in the counsel of the ungodly, nor stood in the way of sinners, * nor sat in the chair of pestilence.  
 
 > But his will is in the law of the Lord, * and on his law he shall meditate day and night.
 
@@ -71,7 +74,7 @@ Sung to *Novus homo* from the feast of St. Thomas.
 
 ***Psalm 4***
 
-***When I called upon him, the God of my justice heard me: * when I was in distress, you have enlarged me.***
+When I called upon him, the God of my justice heard me: * when I was in distress, you have enlarged me.  
 
 > Have mercy on me: * and hear my prayer.
 
@@ -101,7 +104,7 @@ Sung to *Crescente aetate* from the feast of St. Bernard.
 
 ***Psalm 15 (16)***
 
-***Preserve me, O Lord, for I have put my trust in you. * I have said to the Lord, you are my God, for you have no need of my goods.***
+Preserve me, O Lord, for I have put my trust in you. * I have said to the Lord, you are my God, for you have no need of my goods.  
 
 > To the saints, who are in his land, * he has made wonderful all my desires in them.
 
@@ -145,7 +148,7 @@ Reading 1
 
 ***[Thomas Aquinas]***
 
-***The boundless favors of divine generosity, shown to the Christian people, bestow an inestimable dignity on them. There neither is nor ever was so great a nation having gods so near to itself as our God is to us. The only-begotten Son of God, desiring that we be participants in his divinity, took on our nature, so that, having become man, he might make men gods. Whatever he assumed of our nature he made instrumental in the work of our salvation. He offered to God the Father his own body as sacrifice for our reconciliation on the altar of the Cross, shed his own blood for our ransom and rebirth, so that, having been redeemed from wretched servitude, we might be washed clean of all sins. And, so that a memory of such great kindnesses might remain always in us, he left behind his Body as food and his Blood as drink, to be consumed by the faithful in the form of bread and wine. O most precious and wondrous banquet, full of health and filled with every delicacy! What can be more precious than this banquet, in which not the flesh of goats and calves, as once was the rule, but Christ the true God, is given to us as nourishment? What is more wondrous than this sacrament? For in it, bread and wine are changed substantially into the Body and Blood of Christ. Indeed Christ, the perfect God and man, is contained under the appearance of a little bread.***
+The boundless favors of divine generosity, shown to the Christian people, bestow an inestimable dignity on them. There neither is nor ever was so great a nation having gods so near to itself as our God is to us. The only-begotten Son of God, desiring that we be participants in his divinity, took on our nature, so that, having become man, he might make men gods. Whatever he assumed of our nature he made instrumental in the work of our salvation. He offered to God the Father his own body as sacrifice for our reconciliation on the altar of the Cross, shed his own blood for our ransom and rebirth, so that, having been redeemed from wretched servitude, we might be washed clean of all sins. And, so that a memory of such great kindnesses might remain always in us, he left behind his Body as food and his Blood as drink, to be consumed by the faithful in the form of bread and wine. O most precious and wondrous banquet, full of health and filled with every delicacy! What can be more precious than this banquet, in which not the flesh of goats and calves, as once was the rule, but Christ the true God, is given to us as nourishment? What is more wondrous than this sacrament? For in it, bread and wine are changed substantially into the Body and Blood of Christ. Indeed Christ, the perfect God and man, is contained under the appearance of a little bread.  
 
 Responsory  
 
@@ -155,14 +158,14 @@ Responsory
 
 Sung to *Te sanctum Dominum* from the feast of the Angels.  
 
-***[℣. Grant, Lord, a blessing.***
-****Benediction*. May the only begotten Son of God mercifully bless and keep us. Amen.]***
+[℣. Grant, Lord, a blessing.  
+*Benediction*. May the only begotten Son of God mercifully bless and keep us. Amen.]  
 
 Reading 2  
 
 ***[Thomas Aquinas]***
 
-***He is consumed entirely by the faithful, but he is in no way broken up, but rather, even though the sacramental sign is divided, he remains entire in each particle of division. For the accidents exist in it without material form in order that faith may have its place, when the visible is invisibly consumed, hidden in the form of another thing, and our senses, which judge events that happen to them, are restored safely from deception. For no sacrament is more salubrious than this, through which sins are purged, virtues are increased, and the soul is filled with an abundance of every spiritual gift. It is offered in the Church for the living and the dead, so that what was instituted for the salvation of all may benefit all.***
+He is consumed entirely by the faithful, but he is in no way broken up, but rather, even though the sacramental sign is divided, he remains entire in each particle of division. For the accidents exist in it without material form in order that faith may have its place, when the visible is invisibly consumed, hidden in the form of another thing, and our senses, which judge events that happen to them, are restored safely from deception. For no sacrament is more salubrious than this, through which sins are purged, virtues are increased, and the soul is filled with an abundance of every spiritual gift. It is offered in the Church for the living and the dead, so that what was instituted for the salvation of all may benefit all.  
 
 No one suffices to express the delicacy of this kind of sacrament, through which spiritual sweetness is tasted in its source, and the memory of the most excellent charity, which Christ showed in his Passion, is recalled. Whereby, so that the immensity of this kind of charity might be impressed more profoundly on the hearts of the faithful, at the Last Supper, when, having celebrated the Passover with his disciples, he was about to leave this world and return to the Father, he instituted this sacrament as an eternal remembrance of his Passion, the fulfillment of ancient precursors, the greatest of the miracles performed by him, and sole solace to those saddened by his absence.  
 
@@ -174,14 +177,14 @@ Responsory
 
 Sung to *Stirps Iesse* from the feast of St. Mary.  
 
-***[℣. Grant, Lord, a blessing.***
-****Benediction*. May the grace of the Holy Spirit enlighten our hearts and minds. Amen.]***
+[℣. Grant, Lord, a blessing.  
+*Benediction*. May the grace of the Holy Spirit enlighten our hearts and minds. Amen.]  
 
 Reading 3  
 
 ***[Thomas Aquinas]***
 
-***It is fitting therefore for the devotion of the faithful, solemnly to honor again the institution of such a salubrious and miraculous sacrament, so that we may venerate the ineffable mode of the divine presence in a visible sacrament, and so that the power of God may be praised, which, in the same sacrament, works so many miracles, and indeed so that the thanks owed to God for such a salubrious and sweet kindness may be discharged. But, although on the day of the Last Supper, when the aforesaid sacrament is known to have been instituted, special mention is made of its institution within the solemnities of the Mass, nevertheless all the remaining worship of this same day is concerned with Christ’s suffering, around whose veneration the Church at that time is occupied. Hence, so that the faithful may solemnly honor again the institution of such a great sacrament by a complete office of celebration, the Roman Pope Urban IV, influenced by the devotion of this sacrament, piously decreed commemoration of the aforementioned institution on the Thursday after the octave of Pentecost, to be celebrated by all the faithful, so that we, who use this sacrament throughout the year for salvation, may honor again, at that time especially, its institution, by which the Holy Spirit taught the hearts of the disciples to understand fully the mysteries of this sacrament. For at the same time this sacrament began to be frequented by the faithful. It is indeed read in the Acts of the Apostles that *they were persevering in the apostolic doctrine by sharing in the breaking of bread, and by prayers*,Acts 2:42. immediately after the departure of the Holy Spirit. So that, on the aforesaid Thursday and through the following octave, remembrance of this same saving institution may be performed more honorably and its ceremony have greater participation, in place of the distributions of material goods that are bestowed in cathedral churches, during current established times, night as well as day, the aforesaid Roman pope grants to those who, during its times, personally take part in this ceremony at church spiritual stipends through apostolic generosity, so that by them the faithful more eagerly and more numerously may come together for the celebration of so great a feast. Hence, to all the truly penitent and to those having confessed, who are present at the office of Matins of this feast in person in the church where it is celebrated, one hundred [days’ indulgence]. To those who attend Mass, the same number. To those who take part in First Vespers of the feast, similarly one hundred. The same number to those in Second Vespers. To those who attend the offices of Prime, Terce, Sext, None, and Compline, forty for any of those hours. To those who personally appear through the octave of this feast at Matins, Vespers, Mass, and the aforesaid office hours, for each of the days of the octave he mercifully allots one hundred days in perpetuity.***
+It is fitting therefore for the devotion of the faithful, solemnly to honor again the institution of such a salubrious and miraculous sacrament, so that we may venerate the ineffable mode of the divine presence in a visible sacrament, and so that the power of God may be praised, which, in the same sacrament, works so many miracles, and indeed so that the thanks owed to God for such a salubrious and sweet kindness may be discharged. But, although on the day of the Last Supper, when the aforesaid sacrament is known to have been instituted, special mention is made of its institution within the solemnities of the Mass, nevertheless all the remaining worship of this same day is concerned with Christ’s suffering, around whose veneration the Church at that time is occupied. Hence, so that the faithful may solemnly honor again the institution of such a great sacrament by a complete office of celebration, the Roman Pope Urban IV, influenced by the devotion of this sacrament, piously decreed commemoration of the aforementioned institution on the Thursday after the octave of Pentecost, to be celebrated by all the faithful, so that we, who use this sacrament throughout the year for salvation, may honor again, at that time especially, its institution, by which the Holy Spirit taught the hearts of the disciples to understand fully the mysteries of this sacrament. For at the same time this sacrament began to be frequented by the faithful. It is indeed read in the Acts of the Apostles that *they were persevering in the apostolic doctrine by sharing in the breaking of bread, and by prayers*,Acts 2:42. immediately after the departure of the Holy Spirit. So that, on the aforesaid Thursday and through the following octave, remembrance of this same saving institution may be performed more honorably and its ceremony have greater participation, in place of the distributions of material goods that are bestowed in cathedral churches, during current established times, night as well as day, the aforesaid Roman pope grants to those who, during its times, personally take part in this ceremony at church spiritual stipends through apostolic generosity, so that by them the faithful more eagerly and more numerously may come together for the celebration of so great a feast. Hence, to all the truly penitent and to those having confessed, who are present at the office of Matins of this feast in person in the church where it is celebrated, one hundred [days’ indulgence]. To those who attend Mass, the same number. To those who take part in First Vespers of the feast, similarly one hundred. The same number to those in Second Vespers. To those who attend the offices of Prime, Terce, Sext, None, and Compline, forty for any of those hours. To those who personally appear through the octave of this feast at Matins, Vespers, Mass, and the aforesaid office hours, for each of the days of the octave he mercifully allots one hundred days in perpetuity.  
 
 Responsory  
 
@@ -199,7 +202,7 @@ Sung to *In caelis gaudent virgines et cantant canticum*.
 
 ***Psalm 19 (20)***
 
-***May the Lord hear you in the day of tribulation: * may the name of the God of Jacob protect you.***
+May the Lord hear you in the day of tribulation: * may the name of the God of Jacob protect you.  
 
 > May he send you help from the sanctuary: * and defend you out of Zion.
 
@@ -229,7 +232,7 @@ Sung to *Sanguis sanctorum martyrum pro Christo effusus est in terra*.
 
 ***Psalm 22 (23)***
 
-***The Lord rules me: and I shall want nothing. * He has set me in a place of pasture.***
+The Lord rules me: and I shall want nothing. * He has set me in a place of pasture.  
 
 > He has brought me up, on the water of refreshment: * he has converted my soul.
 
@@ -257,7 +260,7 @@ Sung to *O quam gloriosus est regnum* from the feast of All Saints.
 
 ***Psalm 41 (42)***
 
-***As the hart pants after the fountains of water; * so my soul pants after you, O God.***
+As the hart pants after the fountains of water; * so my soul pants after you, O God.  
 
 > My soul has thirsted after the strong living God; * when shall I come and appear before the face of God?
 
@@ -309,9 +312,9 @@ Sung to *O quam gloriosus est regnum* from the feast of All Saints.
 
 Reading 4  
 
-***[Gratian, *De consecratione*, d. 2, can. 69, beginning]Based on Ambrose, *On the Mysteries*, ch. 8, paras. 47ff. (in Patrologia Latina, vol. 16, pp. 404ff.).***
+[Gratian, *De consecratione*, d. 2, can. 69, beginning]Based on Ambrose, *On the Mysteries*, ch. 8, paras. 47ff. (in Patrologia Latina, vol. 16, pp. 404ff.).  
 
-***A precursor of this sacrament occurred earlier, when God rained manna on the fathers in the desert, who daily ate the food of heaven. Wherefore it is said: *man ate the bread of angels* (Ps 77:25). But yet those who ate that bread all died in the desert. However, this bread which you take, this living bread which descended from heaven, provides the substance of eternal life. And whoever shall eat this bread, will not die forever, because it is the Body of Christ. Consider which now is more precious, the bread of angels, or Christ’s Flesh, which is wholly the body of life. That manna is from heaven, this above heaven. That is of heaven, this, of the Lord of the heavens. That, subject to corruption, if kept for another day, this free from all corruption. Whoever religiously eats, will not experience corruption. To them water flowed from the rock, to you the Blood [flows] from Christ. The water satisfied them for a time, the Blood cleanses you for eternity. The Jews drank and thirsted, you, when you drink, cannot thirst. That [happened] in a shadow, this in truth. If that at which you marvel is a shadow, how much more is this whose shadow you admire. Hear why this is a shadow, which was done in the time of the forefathers. *They drank*, he said, *from the spiritual rock which followed them*. *The rock, however, was Christ*. *But God was not well pleased with many of them*. *Thus they were cast down in the desert. This was done as a symbol to us* (1 Cor 10:4–5). You know which is better. Light is better than shadow, truth better than a symbol, the Body of the Creator better than manna from heaven.***
+A precursor of this sacrament occurred earlier, when God rained manna on the fathers in the desert, who daily ate the food of heaven. Wherefore it is said: *man ate the bread of angels* (Ps 77:25). But yet those who ate that bread all died in the desert. However, this bread which you take, this living bread which descended from heaven, provides the substance of eternal life. And whoever shall eat this bread, will not die forever, because it is the Body of Christ. Consider which now is more precious, the bread of angels, or Christ’s Flesh, which is wholly the body of life. That manna is from heaven, this above heaven. That is of heaven, this, of the Lord of the heavens. That, subject to corruption, if kept for another day, this free from all corruption. Whoever religiously eats, will not experience corruption. To them water flowed from the rock, to you the Blood [flows] from Christ. The water satisfied them for a time, the Blood cleanses you for eternity. The Jews drank and thirsted, you, when you drink, cannot thirst. That [happened] in a shadow, this in truth. If that at which you marvel is a shadow, how much more is this whose shadow you admire. Hear why this is a shadow, which was done in the time of the forefathers. *They drank*, he said, *from the spiritual rock which followed them*. *The rock, however, was Christ*. *But God was not well pleased with many of them*. *Thus they were cast down in the desert. This was done as a symbol to us* (1 Cor 10:4–5). You know which is better. Light is better than shadow, truth better than a symbol, the Body of the Creator better than manna from heaven.  
 
 Responsory  
 
@@ -321,14 +324,14 @@ Responsory
 
 Sung to *Deus qui sedes super thronos et iudicas* from a certain Sunday.  
 
-***[℣. Grant, Lord, a blessing.***
-****Benediction*. May Christ to all His people give, forever in His sight to live. Amen.]***
+[℣. Grant, Lord, a blessing.  
+*Benediction*. May Christ to all His people give, forever in His sight to live. Amen.]  
 
 Reading 5  
 
 ***[Gratian, *De consecratione*, d. 2, can. 69, continued]***
 
-***Perhaps you say: I see something different. How can you claim to me that I am receiving the Body of Christ? And this is what we must show. How many examples, therefore, do we use, to show that this is not what nature has formed, but what blessing has consecrated, and that there is greater power in blessing than in nature, because by blessing even nature itself can be changed. Hence, Moses held a rod, threw it, and it became a serpent. Again, he grasped the serpent’s tail, and it reverted into its nature as a rod. You see therefore, by prophetic will, its nature is twice changed, both of a serpent and a rod. The rivers of Egypt flowed with a pure course of waters; suddenly from the source of the waters blood began to burst forth, there was no drinkable water in the rivers. Conversely, at the prayers of the prophet, the blood of the rivers ceased, the nature of waters returned. The Hebrew nation was surrounded on all sides, on one side blocked by the Egyptians, on the other side cut off by the sea. Moses raised a rod, the water parted and solidified itself into a kind of wall, and between the waves a foot path appeared. The Jordan reversed course, and it returned, against nature, to the beginning of its source. Is it not clear that the nature of the ocean’s waves or of the river’s course was changed? The people of the forefathers thirsted, Moses touched the rock, and water flowed from the rock. Has not grace acted contrary to nature, so that a rock might spew forth water, which it did not have by nature?***
+Perhaps you say: I see something different. How can you claim to me that I am receiving the Body of Christ? And this is what we must show. How many examples, therefore, do we use, to show that this is not what nature has formed, but what blessing has consecrated, and that there is greater power in blessing than in nature, because by blessing even nature itself can be changed. Hence, Moses held a rod, threw it, and it became a serpent. Again, he grasped the serpent’s tail, and it reverted into its nature as a rod. You see therefore, by prophetic will, its nature is twice changed, both of a serpent and a rod. The rivers of Egypt flowed with a pure course of waters; suddenly from the source of the waters blood began to burst forth, there was no drinkable water in the rivers. Conversely, at the prayers of the prophet, the blood of the rivers ceased, the nature of waters returned. The Hebrew nation was surrounded on all sides, on one side blocked by the Egyptians, on the other side cut off by the sea. Moses raised a rod, the water parted and solidified itself into a kind of wall, and between the waves a foot path appeared. The Jordan reversed course, and it returned, against nature, to the beginning of its source. Is it not clear that the nature of the ocean’s waves or of the river’s course was changed? The people of the forefathers thirsted, Moses touched the rock, and water flowed from the rock. Has not grace acted contrary to nature, so that a rock might spew forth water, which it did not have by nature?  
 
 Responsory  
 
@@ -338,14 +341,14 @@ Responsory
 
 Sung to *Qui cum audissent* from the feast of St. Nicholas.  
 
-***[℣. Grant, Lord, a blessing.***
-****Benediction*. May the Spirit’s fire Divine in our hearts enkindled shine. Amen.]***
+[℣. Grant, Lord, a blessing.  
+*Benediction*. May the Spirit’s fire Divine in our hearts enkindled shine. Amen.]  
 
 Reading 6  
 
 ***[Gratian, *De consecratione*, d. 2, can. 69, continued]***
 
-***The Marath River was very bitter, so that the thirsting people were not able to drink. Moses threw a branch into the water, and nature eliminated the bitterness of its waters, which grace, suddenly intermixed, tempered. During the time of Eliseus the prophet, the blade fell off the battle ax of one of the sons of the prophets and immediately sank. He who had let the iron slip sought out Eliseus. Eliseus put a stick into the water, and the blade floated. Certainly we know that this is an act beyond nature. The species of iron is heavier than the liquid of water. We perceive therefore that grace is greater than nature, but yet we still reckon grace to be of prophetic blessing. But if a human blessing has such great strength that it can change nature, what can we say of that divine consecration, in which the words themselves of the Savior act? For this sacrament you receive is accomplished by the words of Christ. If the word of Elias had such great strength that it could bring down fire from heaven, will not the word of Christ have the power to change the species of the elements?***
+The Marath River was very bitter, so that the thirsting people were not able to drink. Moses threw a branch into the water, and nature eliminated the bitterness of its waters, which grace, suddenly intermixed, tempered. During the time of Eliseus the prophet, the blade fell off the battle ax of one of the sons of the prophets and immediately sank. He who had let the iron slip sought out Eliseus. Eliseus put a stick into the water, and the blade floated. Certainly we know that this is an act beyond nature. The species of iron is heavier than the liquid of water. We perceive therefore that grace is greater than nature, but yet we still reckon grace to be of prophetic blessing. But if a human blessing has such great strength that it can change nature, what can we say of that divine consecration, in which the words themselves of the Savior act? For this sacrament you receive is accomplished by the words of Christ. If the word of Elias had such great strength that it could bring down fire from heaven, will not the word of Christ have the power to change the species of the elements?  
 
 Responsory  
 
@@ -363,7 +366,7 @@ Sung to *Ascendo ad Patrem meum* from the feast of the Ascension.
 
 ***Psalm 42 (43)***
 
-***Judge me, O God, and distinguish my cause from the nation that is not holy: * deliver me from the unjust and deceitful man.***
+Judge me, O God, and distinguish my cause from the nation that is not holy: * deliver me from the unjust and deceitful man.  
 
 > For you are God my strength: * why have you cast me off? and why do I go sorrowful whilst the enemy afflicts me?
 
@@ -425,7 +428,7 @@ Sung to *Gloriam mundi sprevit* from the feast of St. Nicholas.
 
 ***Psalm 83 (84)***
 
-***How lovely are your tabernacles, O Lord of hosts! * My soul longs and faints for the courts of the Lord.***
+How lovely are your tabernacles, O Lord of hosts! * My soul longs and faints for the courts of the Lord.  
 
 > My heart and my flesh * have rejoiced in the living God.
 
@@ -473,13 +476,13 @@ Gospel
 
 ***John 6:56–58***
 
-***At that time Jesus said to his disciples and to the multitude of the Jews: my Flesh truly is food, and my Blood is truly drink. He who eats my Flesh, and drinks my Blood, abides in me, and I in him. As the living Father has sent me, and I live by the Father; so he who eats me, the same also shall live by me.***
+At that time Jesus said to his disciples and to the multitude of the Jews: my Flesh truly is food, and my Blood is truly drink. He who eats my Flesh, and drinks my Blood, abides in me, and I in him. As the living Father has sent me, and I live by the Father; so he who eats me, the same also shall live by me.  
 
 > Reading 7
 
-***A homily of blessed Augustine on the same reading [Alcuin, *Commentaria in S. Joannis evangelium*, bk. 3, ch. 15, verse 56]PL 100:835; verse numbers in PL are one off from current numbers due to division of verse 52 into two parts.***
+A homily of blessed Augustine on the same reading [Alcuin, *Commentaria in S. Joannis evangelium*, bk. 3, ch. 15, verse 56]PL 100:835; verse numbers in PL are one off from current numbers due to division of verse 52 into two parts.  
 
-***Although men desire from food and drink, that they neither hunger nor thirst, this is not assured, unless it is that food and drink which makes those, by whom it is consumed, immortal and incorruptible, that is, a community of the saints themselves, where there will be peace and full and perfect unity. Therefore, indeed, as men of God understood before us, our Lord Jesus Christ put his Body and Blood into these things, which are made into some one thing. Now, one bread is made from many grains, and wine flows together from many clusters of grapes.***
+Although men desire from food and drink, that they neither hunger nor thirst, this is not assured, unless it is that food and drink which makes those, by whom it is consumed, immortal and incorruptible, that is, a community of the saints themselves, where there will be peace and full and perfect unity. Therefore, indeed, as men of God understood before us, our Lord Jesus Christ put his Body and Blood into these things, which are made into some one thing. Now, one bread is made from many grains, and wine flows together from many clusters of grapes.  
 
 Responsory  
 
@@ -494,9 +497,9 @@ Sung to *Felix vitis* from the feast of St. Dominic.
 
 Reading 8  
 
-***[Alcuin, *Commentaria in S. Joannis evangelium*, bk. 3, ch. 15, verses 56–57]PL 100:835–36.***
+[Alcuin, *Commentaria in S. Joannis evangelium*, bk. 3, ch. 15, verses 56–57]PL 100:835–36.  
 
-***Finally he now explains how what he has spoken happens, and what it is to eat his Body and drink his Blood. *He who eats my Body and drinks my Blood abides in me and I in him* (John 6:57). To eat that food and to drink that drink is, therefore, to abide in Christ, and to have him abiding in oneself, and thus the person who does not abide in Christ, and in whom Christ does not abide, without doubt does not eat spiritually his Flesh, although physically and visibly he chews with his teeth the sacraments of the Body and Blood of Christ, but rather he eats and drinks the sacrament of such great importance to his own condemnation, who, impure, presumes to approach the sacraments of Christ, which no one rightly takes except the one who is pure. About whom it is said: *blessed are the pure of heart, because they shall see God* (Matt 5:8).***
+Finally he now explains how what he has spoken happens, and what it is to eat his Body and drink his Blood. *He who eats my Body and drinks my Blood abides in me and I in him* (John 6:57). To eat that food and to drink that drink is, therefore, to abide in Christ, and to have him abiding in oneself, and thus the person who does not abide in Christ, and in whom Christ does not abide, without doubt does not eat spiritually his Flesh, although physically and visibly he chews with his teeth the sacraments of the Body and Blood of Christ, but rather he eats and drinks the sacrament of such great importance to his own condemnation, who, impure, presumes to approach the sacraments of Christ, which no one rightly takes except the one who is pure. About whom it is said: *blessed are the pure of heart, because they shall see God* (Matt 5:8).  
 
 Responsory  
 
@@ -506,14 +509,14 @@ Responsory
 
 Sung to *Verbum caro factum est* from the feast of the Circumcision.  
 
-***[℣. Grant, Lord, a blessing.***
-****Benediction*. May he who is the angels’ king to that high realm his people bring. Amen.]***
+[℣. Grant, Lord, a blessing.  
+*Benediction*. May he who is the angels’ king to that high realm his people bring. Amen.]  
 
 Reading 9  
 
-***[Alcuin, *Commentaria in S. Joannis evangelium*, bk. 3, ch. 15, verse 58]PL 100:836.***
+[Alcuin, *Commentaria in S. Joannis evangelium*, bk. 3, ch. 15, verse 58]PL 100:836.  
 
-****As the living Father*, he said, *sent me*, *I live because of the Father*. *And he who eats me, will live because of me* (John 6:58). Certainly the Son, who was born equal, is not made better through the participation of the Father, as he makes us better through the participation of the Son through the unity of the Body and Blood which that food and drink signifies. We live on behalf of him, by eating him, that is, receiving him as eternal life, which we do not have by ourselves. He himself lives on behalf of the Father, sent by him, because he emptied himself, made obedient up to the sign of the Cross. *As the living Father sent me, I live on behalf of the Father*. *And he who eats me, he himself will live on behalf of me*. This is as if to say: “I live on behalf of the Father, that is, I direct my life to him as to one greater, he brought about my emptying, in which form he sent me. Participation brings about for the one who eats me, that each one lives on behalf of me. Thus, I, humbled, live on behalf of the Father, this man, uplifted, lives on behalf of me.” He said this not about his nature, because he is always equal to the Father, but about that in which he was made lesser in relation to the Father, about which earlier he said: *just as the Father has life in and of himself, he gave his Son life to have in and of himself* (John 5:26), that is, he begot a Son having life in and of himself.***
+*As the living Father*, he said, *sent me*, *I live because of the Father*. *And he who eats me, will live because of me* (John 6:58). Certainly the Son, who was born equal, is not made better through the participation of the Father, as he makes us better through the participation of the Son through the unity of the Body and Blood which that food and drink signifies. We live on behalf of him, by eating him, that is, receiving him as eternal life, which we do not have by ourselves. He himself lives on behalf of the Father, sent by him, because he emptied himself, made obedient up to the sign of the Cross. *As the living Father sent me, I live on behalf of the Father*. *And he who eats me, he himself will live on behalf of me*. This is as if to say: “I live on behalf of the Father, that is, I direct my life to him as to one greater, he brought about my emptying, in which form he sent me. Participation brings about for the one who eats me, that each one lives on behalf of me. Thus, I, humbled, live on behalf of the Father, this man, uplifted, lives on behalf of me.” He said this not about his nature, because he is always equal to the Father, but about that in which he was made lesser in relation to the Father, about which earlier he said: *just as the Father has life in and of himself, he gave his Son life to have in and of himself* (John 5:26), that is, he begot a Son having life in and of himself.  
 
 Responsory  
 
@@ -721,7 +724,7 @@ Sung to *Post plurima supplicia martyr alma* from the feast of St. Catherine.
 
 ***Psalm 104 (105)***
 
-***Give glory to the Lord, and call upon his name: * declare his deeds among the Gentiles.***
+Give glory to the Lord, and call upon his name: * declare his deeds among the Gentiles.  
 
 > Sing to him, and sing praises to him: * relate all his wondrous works.
 
@@ -831,7 +834,7 @@ Reading 10
 
 ***[Gratian, *De consecratione*, d. 2, can. 69, conclusion]***
 
-***You have read about the creation of the entire world, that *he spoke, and it was made, that he commanded, and it was created* (Ps 32:9). Thus speech, which was able from nothing to create what did not exist, now was able to change existing things into that which they were not. For it is not less to give, than to change new natures in things.Corrigan notes that the text *non est enim* may perhaps read instead *nonne est enim*, which would be translated, “for surely giving is less than changing new natures in things.”  Why is this so? Let us use the example of the one whose argument we use, and let us add the truth of the mystery of his Incarnation. Do you doubt that he perceived clearly the custom of nature, since the Lord Jesus was born of Mary? If we seek order, it had been the custom to procreate by man combined with woman. It is clear, therefore that, against the order of nature, a virgin gave birth. And that which we celebrate is the Body of Christ from a Virgin. What order of nature do you find here in the Body of Christ, since against nature the Lord Jesus himself was born of a Virgin? Certainly real was the flesh of Christ which was crucified, which was buried. Truly his Flesh is the sacrament. Our Lord Jesus himself proclaims: *this is my Body* (Matt 26:26). Before the blessing of the celestial words, it is called another species; after the consecration his Body is signified. He himself calls it his Blood. Before the consecration it is called another thing; after the consecration it is called the Blood of Christ. You say: amen, this is so, this is true. May that which speech proclaims perceive the condition.***
+You have read about the creation of the entire world, that *he spoke, and it was made, that he commanded, and it was created* (Ps 32:9). Thus speech, which was able from nothing to create what did not exist, now was able to change existing things into that which they were not. For it is not less to give, than to change new natures in things.Corrigan notes that the text *non est enim* may perhaps read instead *nonne est enim*, which would be translated, “for surely giving is less than changing new natures in things.”  Why is this so? Let us use the example of the one whose argument we use, and let us add the truth of the mystery of his Incarnation. Do you doubt that he perceived clearly the custom of nature, since the Lord Jesus was born of Mary? If we seek order, it had been the custom to procreate by man combined with woman. It is clear, therefore that, against the order of nature, a virgin gave birth. And that which we celebrate is the Body of Christ from a Virgin. What order of nature do you find here in the Body of Christ, since against nature the Lord Jesus himself was born of a Virgin? Certainly real was the flesh of Christ which was crucified, which was buried. Truly his Flesh is the sacrament. Our Lord Jesus himself proclaims: *this is my Body* (Matt 26:26). Before the blessing of the celestial words, it is called another species; after the consecration his Body is signified. He himself calls it his Blood. Before the consecration it is called another thing; after the consecration it is called the Blood of Christ. You say: amen, this is so, this is true. May that which speech proclaims perceive the condition.  
 
 Responsory  
 
@@ -846,9 +849,9 @@ Sung to *Regnum mundi* from the feasts of Virgins.
 
 Reading 11  
 
-***[Gratian, *De consecratione*, d. 2, can. 55; Ambrose, *De sacramentis*, l. 4, cc. 4–5]***
+[Gratian, *De consecratione*, d. 2, can. 55; Ambrose, *De sacramentis*, l. 4, cc. 4–5]  
 
-***There is the bread used on the altar before the words of the sacraments. When the consecration comes, from bread it becomes the Body of Christ. How can what is bread be the Body of Christ? Consecration by whose words, by whose speech? The Lord Jesus. Because through all the rest that is said, praise is offered to God, through prayer he is petitioned for the people, for kings, and for other things. However when the sacrament is made ready, now the priest uses not his own words, but the words of Christ. Therefore Christ’s word makes this a sacrament. What word of Christ? That, of course, by which all things were created: heaven, earth, seas. You see therefore how efficacious is the word of Christ. If therefore so much power is in the word of our Lord Jesus, so that what was not might begin to be, how much more efficacious is it, so that they may be which were, and that they may be converted into something else? And thus what was bread before the consecration now is the Body of Christ after the consecration, because the word of Christ changes the object, and thus from bread it becomes the Body of Christ. And the wine mixed with water in the chalice, becomes Blood by the consecration of the heavenly word.***
+There is the bread used on the altar before the words of the sacraments. When the consecration comes, from bread it becomes the Body of Christ. How can what is bread be the Body of Christ? Consecration by whose words, by whose speech? The Lord Jesus. Because through all the rest that is said, praise is offered to God, through prayer he is petitioned for the people, for kings, and for other things. However when the sacrament is made ready, now the priest uses not his own words, but the words of Christ. Therefore Christ’s word makes this a sacrament. What word of Christ? That, of course, by which all things were created: heaven, earth, seas. You see therefore how efficacious is the word of Christ. If therefore so much power is in the word of our Lord Jesus, so that what was not might begin to be, how much more efficacious is it, so that they may be which were, and that they may be converted into something else? And thus what was bread before the consecration now is the Body of Christ after the consecration, because the word of Christ changes the object, and thus from bread it becomes the Body of Christ. And the wine mixed with water in the chalice, becomes Blood by the consecration of the heavenly word.  
 
 Responsory  
 
@@ -858,14 +861,14 @@ Responsory
 
 Sung to *Solem iustitiae regem* from the feast of the Blessed Virgin Mary.  
 
-***[℣. Grant, Lord, a blessing.***
-****Benediction*. May he who is the angels’ King to that high realm his people bring. Amen.]***
+[℣. Grant, Lord, a blessing.  
+*Benediction*. May he who is the angels’ King to that high realm his people bring. Amen.]  
 
 Reading 12  
 
 ***[Gratian, *De consecratione*, d. 2, can. 55, conclusion]***
 
-***But perhaps you say: I do not see the species of blood, but it is similar. Indeed, just as you took on the likeness of death, so also you drink the likeness of the blood of Christ, so that there be no horror of blood, and so that it still serve as the price of redemption. You have learned that you receive the Body of Christ. Do you wish to know how, by the celestial words, it is consecrated? Learn what the words are. The priest says: *make this offering for us approved, worthy, [and acceptable: that it may become for us the Body and Blood of your most beloved Son, our Lord Jesus Christ. Who, the day before he suffered, took bread into his holy hands, and with eyes lifted up toward heaven, unto you, O holy Father, almighty, eternal God, giving thanks to you, he blessed, broke, and gave unto his apostles, saying: take, and eat of this: for this is My Body, which is broken for many. In like manner, after supper, the day before he suffered, taking also this chalice, and with eyes lifted up toward heaven, unto you, O holy Father, almighty, eternal God, giving thanks to you, he blessed and gave unto his apostles, saying: take, and drink of it: for this is My Blood.]****
+But perhaps you say: I do not see the species of blood, but it is similar. Indeed, just as you took on the likeness of death, so also you drink the likeness of the blood of Christ, so that there be no horror of blood, and so that it still serve as the price of redemption. You have learned that you receive the Body of Christ. Do you wish to know how, by the celestial words, it is consecrated? Learn what the words are. The priest says: *make this offering for us approved, worthy, [and acceptable: that it may become for us the Body and Blood of your most beloved Son, our Lord Jesus Christ. Who, the day before he suffered, took bread into his holy hands, and with eyes lifted up toward heaven, unto you, O holy Father, almighty, eternal God, giving thanks to you, he blessed, broke, and gave unto his apostles, saying: take, and eat of this: for this is My Body, which is broken for many. In like manner, after supper, the day before he suffered, taking also this chalice, and with eyes lifted up toward heaven, unto you, O holy Father, almighty, eternal God, giving thanks to you, he blessed and gave unto his apostles, saying: take, and drink of it: for this is My Blood.]*  
 
 After that, there are all the things of the evangelist up to: *take*, either *the Body*, or *the Blood*. Then there are the words of Christ: *take and drink from this all of you. This is my Blood*. Look at them one at a time. *Who the day before he suffered took*, he said, *bread into his holy hands*. Before it is consecrated, it is bread. When however the words of Christ draw near, it is the Body of Christ. Then hear him saying: *take and eat of this all of you: this is my Body*. And before the words of Christ the chalice is filled with wine and water. When however the words of Christ were spoken, then it became Blood, which redeems the people. Therefore see how powerful is the word of Christ to change all things. Then Jesus himself bears witness, that we receive his Body and his Blood, whose faith and testimony we ought not doubt.  
 

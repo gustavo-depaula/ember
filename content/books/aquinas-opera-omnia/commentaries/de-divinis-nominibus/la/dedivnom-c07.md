@@ -1,8 +1,10 @@
 # C. 6 - On Life
 
+***De vita***
+
 ***Lectio 1***
 
-***De universali causalitate Dei respectu vitae et respectu quarumlibet proprietatum vivendi in angelis***
+De universali causalitate Dei respectu vitae et respectu quarumlibet proprietatum vivendi in angelis  
 
 ***285. Sed de istis quidem in aliis opportunius dictum sit.***
 
@@ -78,9 +80,9 @@ tertio, operatio intellectualis in nobis non potest esse continua quia non possu
 
 Lectio 2  
 
-***De divina causalitate quantum ad proprietatem humanae vitae et inferiorum viventium***
+De divina causalitate quantum ad proprietatem humanae vitae et inferiorum viventium  
 
-***290. Dans autem et viris sicut commixtis, contingentem ad angelorum formam vitam;***
+290. Dans autem et viris sicut commixtis, contingentem ad angelorum formam vitam;  
 
 > 291. Et superemanationem bonitatis et recedentes nos ad seipsam convertens et revocans.
 

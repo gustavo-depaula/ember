@@ -1,8 +1,10 @@
 # D. 41 - The act of sin in comparison to the intention and the will
 
+***De actu peccati per comparationem ad intentionem et ad voluntatem***
+
 ***Divisio textus***
 
-***Ostenso quod ex simpliciParma: *finis*.  intentione vel voluntate actus exterior habet malitiam et bonitatem, hic determinat quamdam quaestionemParma and PLE: *quasdam quaestiones*.  circa praedeterminata; et dividitur in partes duas:***
+Ostenso quod ex simpliciParma: *finis*.  intentione vel voluntate actus exterior habet malitiam et bonitatem, hic determinat quamdam quaestionemParma and PLE: *quasdam quaestiones*.  circa praedeterminata; et dividitur in partes duas:  
 
 in prima inquirit de actu peccati per comparationem ad intentionem;  
 
@@ -58,7 +60,7 @@ Articulus 1
 
 ***Utrum fides habeat universaliter dirigere intentionem***
 
-***Ad primum sic proceditur. Videtur quod fidei non sit intentionem universaliter dirigere.***
+Ad primum sic proceditur. Videtur quod fidei non sit intentionem universaliter dirigere.  
 
 Diversorum enim specie, diversae sunt regulae et mensurae, ut ex 10 *Metaph*., patet: quia mensura est homogenea mensurato. Sed virtutes diversae sunt secundum speciem. Ergo fides non potest dirigere in operationibus omnium virtutum.  
 
@@ -98,7 +100,7 @@ Articulus 2
 
 ***Utrum aliquis actus hominis infidelis possit esse bonus***
 
-***Ad secundum sic proceditur. Videtur quod actusParma adds *nullum*. infidelis hominis bonus esse nonPLE: *non*; Mandonnet omits. possit.***
+Ad secundum sic proceditur. Videtur quod actusParma adds *nullum*. infidelis hominis bonus esse nonPLE: *non*; Mandonnet omits. possit.  
 
 Quia, ut dicitur in Glossa, Rom. 10, omnis vita infidelium peccatum est. Sed non potest esse simul peccatum et bonus actus. Ergo nullus actus infidelis bonus est.  
 
@@ -132,7 +134,7 @@ Quaestio 2
 
 ***De comparatione actus ad voluntatem***
 
-***Deinde quaeritur de comparatione peccati ad voluntatem; et circa hoc quaeruntur duo:***
+Deinde quaeritur de comparatione peccati ad voluntatem; et circa hoc quaeruntur duo:  
 
 primo utrum omne peccatum sit voluntarium;  
 
@@ -208,7 +210,7 @@ Ad quintum dicendum, quod etiam quamvis homo possit puniri secundum omnes partes
 
 Expositio textus  
 
-****Si enim fides intentionem dirigit, et intentio bonum opus facit, ubi non est fides, nec intentio bona nec opus bonum esse videtur*. Ista ratio soluta est in 2 art. primae quaestionis.***
+*Si enim fides intentionem dirigit, et intentio bonum opus facit, ubi non est fides, nec intentio bona nec opus bonum esse videtur*. Ista ratio soluta est in 2 art. primae quaestionis.  
 
 *Quod a quibusdam irrationabiliter astruitur*. Si intelligatur quod quaelibet actio mala sit, et peccatum, opinio irrationabilis est. Si autem intelligatur quod quidquid agant, in peccato semper permanent, dum sine fide sunt, opinio rationabilis est.  
 

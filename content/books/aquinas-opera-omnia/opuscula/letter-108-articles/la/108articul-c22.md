@@ -1,1 +1,3 @@
 # Articulus 21
+
+Quod autem vigesimo primo ponitur, *essentia est principium actuum notionalium prout est coniuncta cum proprietatibus personalibus*, non habet calumniam ex hoc quod dicit essentiam esse coniunctam proprietatibus eo modo quo supra expositum est. Habere autem calumniam magis videtur ex hoc quod dicitur, *essentia est principium actuum notionalium*: est enim falsum, si intelligatur essentia esse principium huiusmodi actuum ut generans vel spirans; sed si intelligatur esse principium actuum notionalium ut quo, consonat dictis Magistri, in VII dist. primi Lib., ubi dicit, quod potentia generandi est divina essentia; potentia autem generandi est principium generationis ut quo generans generat.

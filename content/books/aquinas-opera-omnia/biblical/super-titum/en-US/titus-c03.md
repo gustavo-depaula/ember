@@ -1,5 +1,7 @@
 # C. 2 - Christian Life
 
+***Christian Life***
+
 ***Lecture 1***
 
 ***Conduct of Christians***
@@ -130,7 +132,7 @@ Lecture 2
 
 ***Example of good works***
 
-***^2:7^ In all things show yourself an example of good works, in doctrine, in integrity, in gravity, [n. 59]***
+^2:7^ In all things show yourself an example of good works, in doctrine, in integrity, in gravity, [n. 59]  
 
 > ^2:8^ The sound word that cannot be blamed: that he who is on the contrary part may be afraid, having no evil to say of us. [n. 62]
 

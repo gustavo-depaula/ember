@@ -1,8 +1,10 @@
 # D. 33 - How the properties are compared to the essence and the person
 
+***How the properties are compared to the essence and the person***
+
 ***Division of the text***
 
-***After the Master has considered the essence, the persons, and their properties, here he determines comparisons of these with respect to each other. And this is divided into two parts: in the first, he shows how the properties are related to the essence and the person; in the second, he shows how the persons are related to the essence, at *to what has been said above must be added*.*Sent*. I, 34.1(145).1.***
+After the Master has considered the essence, the persons, and their properties, here he determines comparisons of these with respect to each other. And this is divided into two parts: in the first, he shows how the properties are related to the essence and the person; in the second, he shows how the persons are related to the essence, at *to what has been said above must be added*.*Sent*. I, 34.1(145).1.  
 
 The first of these is divided in two: in the first, he shows the truth; in the second, he excludes an error, at *but some deny this*.*Sent*. I, 33.1(143).6.  
 
@@ -36,7 +38,7 @@ Article 1
 
 ***Whether the personal properties are the divine essence***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.28.2; *SCG* IV.14; *On the Power of God*, q. 8, a. 2; *Quodl. IV*, q. 1; *Compendium theologiae*, cc. 54, 66, 67. It seems that the relations themselves are not the divine essence.***
+To the first we proceed as follows.Parallel texts: *ST* I.28.2; *SCG* IV.14; *On the Power of God*, q. 8, a. 2; *Quodl. IV*, q. 1; *Compendium theologiae*, cc. 54, 66, 67. It seems that the relations themselves are not the divine essence.  
 
 Obj. 1: For the things said relatively in God are either relatives according to being or only according to speech. But the properties are not such only according to speech, since then one would fall into the heresy of Sabellius, as was explained earlier in Hilary’s note.Above, d. 31, exposition of the text. Therefore they are relatives according to being. But the being of such relations, according to the Philosopher,Aristotle, *Categories* 7, 6a37 and b7. is to be oriented toward another. Therefore, since the being of the divine essence is not to orient toward another, but is an absolute being, it seems that it is not the same as the relation that is being toward another.  
 
@@ -92,7 +94,7 @@ Article 2
 
 ***Whether the properties are the persons***
 
-***To the second we proceed as follows.Parallel texts: above, d. 26, q. 2, a. 1; *ST* I.40.1; *Compendium theologiae*, ch. 67. It seems that the properties are not the persons.***
+To the second we proceed as follows.Parallel texts: above, d. 26, q. 2, a. 1; *ST* I.40.1; *Compendium theologiae*, ch. 67. It seems that the properties are not the persons.  
 
 Obj. 1: For if things are the same in reality, then when one is multiplied, the other is as well. Therefore, if the properties are the persons, then there are as many persons as properties. But there are five properties, as was said earlier.Above, d. 23, q. 1, a. 3. Therefore there are five persons—which is false.  
 
@@ -128,7 +130,7 @@ Article 3
 
 ***Whether the properties are in the essence or in the persons***
 
-***To the third we proceed as follows. It seems that the properties are neither in the essence nor in the persons.***
+To the third we proceed as follows. It seems that the properties are neither in the essence nor in the persons.  
 
 Obj. 1: For if things are the same according to reality, the one of them cannot be in the other, because the propositions are transitive;That is, if A is in B, and B is in A, then “by transitivity,” A would be in A as well. whence according to the PhilosopherAristotle, *Physics* 4.3, 210a25‒b18. nothing is in its very self, except incidentally. But the properties are the same in reality with the essence and the persons. Therefore they are not in the essence or the persons.  
 
@@ -156,7 +158,7 @@ Article 4
 
 ***Whether the essential adjectives can be predicated of the properties***
 
-***To the fourth we proceed as follows. It seems that the essential adjectives may be predicated of the properties.***
+To the fourth we proceed as follows. It seems that the essential adjectives may be predicated of the properties.  
 
 Obj. 1: For if things are the same according to the reality, whatever is said of the one seems to be said of the other; otherwise both an affirmation and a negation of the same thing could be true, since the negation is said of what the affirmation is not said. But the properties are God himself, as was proved.Above, a. 2. Therefore the essential adjectives, which are predicated of the divine essence, also should be predicated of the properties.  
 
@@ -186,7 +188,7 @@ Article 5
 
 ***Whether there can be contrary opinions about the notions without sin***
 
-***To the fifth we proceed as follows.Parallel text: *ST* I.32.4. It seems that there cannot be contrary opinions about the notions without sin.***
+To the fifth we proceed as follows.Parallel text: *ST* I.32.4. It seems that there cannot be contrary opinions about the notions without sin.  
 
 Obj. 1: For as Augustine says,Augustine, *On the Trinity*, bk. 1, ch. 3 (CCSL 50; PL 42:822). nowhere does one err in a more dangerous way than in the matter of the Trinity. But there cannot be contrary opinions about the notions without someone erring. Therefore, since such error concerns the matter of the Trinity, it seems that it is most dangerous.  
 
@@ -210,7 +212,7 @@ Reply Obj. 1–3: And thereby the response to the objections is clear.
 
 Exposition of the text  
 
-****Moreover, with many testimonies of the Saints, we have shown above that the persons are distinguished and determined by the properties*.*Sent*. I, 33.1(143).1. Here he is proving that these properties are the persons. The argument is as follows: properties distinguish the persons; but the persons have been distinct from eternity; therefore the properties are from eternity. But nothing is eternal unless it is in God. Therefore the properties are in the persons. Now, whatever is in the persons is the persons themselves; otherwise there would be composition in a person. Therefore and so on.***
+*Moreover, with many testimonies of the Saints, we have shown above that the persons are distinguished and determined by the properties*.*Sent*. I, 33.1(143).1. Here he is proving that these properties are the persons. The argument is as follows: properties distinguish the persons; but the persons have been distinct from eternity; therefore the properties are from eternity. But nothing is eternal unless it is in God. Therefore the properties are in the persons. Now, whatever is in the persons is the persons themselves; otherwise there would be composition in a person. Therefore and so on.  
 
 *In discussing the simplicity of the deity, above, . . . we have shown clearly that that which God has in himself is wholly God*.*Sent*. I, 33.1(143).3. Here he is proving that the properties are the divine essence. His reasoning is as follows: in God, what *has* is the same as what *is had*; but God has the properties, which are in God, as has been proved;Above, a. 2. therefore the properties themselves are God, or the divine essence.  
 

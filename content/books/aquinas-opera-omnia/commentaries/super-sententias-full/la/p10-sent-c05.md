@@ -1,6 +1,8 @@
 # D. 47 - The general judgment
 
-***Postquam determinavit Magister de remuneratione animarum, et punitione, quae praecedit judicium generale; hic incipit determinare de remuneratione et punitione quae erit per judicium generale; et dividitur in partes duas: in prima determinat de ipso generali judicio; in secunda determinat de remuneratione et poena quae generale judicium consequitur, 49 dist., ibi: *post resurrectionem vero facto impletoque judicio, suos fines habebunt civitates duae*.***
+***De judicio generali***
+
+Postquam determinavit Magister de remuneratione animarum, et punitione, quae praecedit judicium generale; hic incipit determinare de remuneratione et punitione quae erit per judicium generale; et dividitur in partes duas: in prima determinat de ipso generali judicio; in secunda determinat de remuneratione et poena quae generale judicium consequitur, 49 dist., ibi: *post resurrectionem vero facto impletoque judicio, suos fines habebunt civitates duae*.  
 
 Prima pars dividitur in duas: in prima determinat ea quae pertinent ad modum judicii, et ad judicis ministerium; in secunda determinat ea quae pertinent ad judicis personam, 48 dist., ibi: *solet etiam quaeri, in qua forma Christus judicabit*.  
 
@@ -28,7 +30,7 @@ primo de ipso judicio;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod generale judicium non sit futurum. Quia, ut dicitur Naum 1, 9, *non judicabit Deus bis in idipsum*. Sed nunc Deus judicat de singulis hominum operibus, cum post mortem unicuique poenas vel praemia pro meritis tribuit, et dum etiam in hac vita quosdam pro bonis vel malis operibus praemiat vel punit. Ergo videtur quod non sit aliud judicium futurum.***
+Ad primum sic proceditur. Videtur quod generale judicium non sit futurum. Quia, ut dicitur Naum 1, 9, *non judicabit Deus bis in idipsum*. Sed nunc Deus judicat de singulis hominum operibus, cum post mortem unicuique poenas vel praemia pro meritis tribuit, et dum etiam in hac vita quosdam pro bonis vel malis operibus praemiat vel punit. Ergo videtur quod non sit aliud judicium futurum.  
 
 Praeterea, in nullo judicio executio sententiae praecedit judicium. Sed sententia divini judicii quo ad homines, est de adeptione regni, vel exclusione a regno, ut patet Matth. 25. Ergo cum modo aliqui adipiscantur regnum aeternum, et quidam excludantur ab ipso perpetuo, videtur quod aliud judicium non sit futurum.  
 
@@ -40,7 +42,7 @@ Praeterea, Joan. 5, 29, dicitur: *procedent qui bona fecerunt, in resurrectionem
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod judicium illud quantum ad disceptationem et sententiam fiat per locutionem vocalem. Quia, ut dicit Augustinus, 20 *de Civ. Dei*, *per quot dies hoc futurum judicium tendatur incertum est*. Sed non esset incertum, si illa quae in judicio dicuntur futura, tantum mentaliter complerentur. Ergo judicium illud vocaliter fiet, et non solum mentaliter.***
+Ulterius. Videtur quod judicium illud quantum ad disceptationem et sententiam fiat per locutionem vocalem. Quia, ut dicit Augustinus, 20 *de Civ. Dei*, *per quot dies hoc futurum judicium tendatur incertum est*. Sed non esset incertum, si illa quae in judicio dicuntur futura, tantum mentaliter complerentur. Ergo judicium illud vocaliter fiet, et non solum mentaliter.  
 
 Praeterea, Gregorius dicit, et habetur in littera: *illi saltem verba judicis audient qui ejus fidem saltem verbo tenuerunt*. Hoc autem non potest intelligi de verbo interiori; quod sic omnes verba judicis audient: quia omnibus et bonis et malis, nota erunt omnia facta aliorum, sicut supra, dist. 43, dictum est. Ergo videtur quod judicium illud vocaliter peragetur.  
 
@@ -52,7 +54,7 @@ Praeterea, sententia proportionaliter debet testimonio respondere. Sed testimoni
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod tempus futuri judicii non sit ignotum. Sicut enim sancti patres expectabant primum adventum, ita et nos expectamus secundum. Sed sancti patres sciverunt tempus adventus primi, sicut patet per numerum hebdomadarum quae describuntur Dan. 9; unde et reprehenduntur Judaei, quod tempus adventus Christi non cognoverunt, ut patet Luc. 12, 56: *hypocritae, faciem caeli et terrae nostis probare; hoc autem tempus quomodo non probatis?* Ergo videtur quod etiam nobis esse debeat determinatum tempus secundi adventus, quo Deus ad judicium veniet.***
+Ulterius. Videtur quod tempus futuri judicii non sit ignotum. Sicut enim sancti patres expectabant primum adventum, ita et nos expectamus secundum. Sed sancti patres sciverunt tempus adventus primi, sicut patet per numerum hebdomadarum quae describuntur Dan. 9; unde et reprehenduntur Judaei, quod tempus adventus Christi non cognoverunt, ut patet Luc. 12, 56: *hypocritae, faciem caeli et terrae nostis probare; hoc autem tempus quomodo non probatis?* Ergo videtur quod etiam nobis esse debeat determinatum tempus secundi adventus, quo Deus ad judicium veniet.  
 
 Praeterea, per signa devenimus in cognitionem signatorum. Sed de judicio futuro multa signa nobis in Scriptura ponuntur, ut patet 14 Matth. et 21 Lucae et 12 Marci. Ergo in cognitionem illius temporis possumus pervenire.  
 
@@ -66,7 +68,7 @@ Praeterea, 1 Thessal. 5, 2: *dies Domini sicut fur in nocte, ita veniet*. Ergo v
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut operatio pertinet ad rerum principium quo producuntur in esse, ita judicium pertinet ad terminum, quo res ad suum finem perducuntur.***
+Respondeo dicendum ad primam quaestionem, quod sicut operatio pertinet ad rerum principium quo producuntur in esse, ita judicium pertinet ad terminum, quo res ad suum finem perducuntur.  
 
 Distinguitur autem duplex Dei operatio. Una qua res primitus in esse producit, instituens naturam, et distinguens ea quae ad completionem ipsius pertinent: a quo quidem opere Deus dicitur quievisse Genes. 2. Alia ejus operatio est qua operatur in gubernatione creaturarum, de qua Joan. 5, 17: *pater meus usque modo operatur, et ego operor*; ita etiam duplex judicium distinguitur, ordine tamen converso.  
 
@@ -82,7 +84,7 @@ Ad tertium dicendum, quod universale judicium, ut dictum est, magis directe resp
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quid sit verum circa hanc quaestionem, definiri pro certo non potest; tamen probabilius aestimatur quod totum illud judicium, et quo ad discussionem, et quo ad accusationem malorum et commendationem bonorum, et quo ad sententiam de utrisque, mentaliter perficietur. Si enim vocaliter singulorum facta narrarentur, inaestimabilis magnitudo temporis ad hoc exigeretur; sicut etiam Augustinus, 20 *de Civ. Dei*, dicit, quod si liber ex cujus Scriptura omnes judicabuntur, ut dicitur Apoc. 20, *carnaliter cogitetur, quis ejus magnitudinem aut longitudinem valeat aestimare? Aut quanto tempore legi poterit liber, in quo scriptae sunt universae vitae universorum?* Non autem minus tempus requiritur ad narrandum oretenus singulorum facta, quam ad legendum, si essent in libro materiali scripta. Unde probabile est quod illa quae dicuntur Matth. 25, non vocaliter, sed mentaliter, intelligenda sint esse perficienda.***
+Ad secundam quaestionem dicendum, quod quid sit verum circa hanc quaestionem, definiri pro certo non potest; tamen probabilius aestimatur quod totum illud judicium, et quo ad discussionem, et quo ad accusationem malorum et commendationem bonorum, et quo ad sententiam de utrisque, mentaliter perficietur. Si enim vocaliter singulorum facta narrarentur, inaestimabilis magnitudo temporis ad hoc exigeretur; sicut etiam Augustinus, 20 *de Civ. Dei*, dicit, quod si liber ex cujus Scriptura omnes judicabuntur, ut dicitur Apoc. 20, *carnaliter cogitetur, quis ejus magnitudinem aut longitudinem valeat aestimare? Aut quanto tempore legi poterit liber, in quo scriptae sunt universae vitae universorum?* Non autem minus tempus requiritur ad narrandum oretenus singulorum facta, quam ad legendum, si essent in libro materiali scripta. Unde probabile est quod illa quae dicuntur Matth. 25, non vocaliter, sed mentaliter, intelligenda sint esse perficienda.  
 
 Ad primum ergo dicendum, quod pro tanto dicit Augustinus quod incertum est per quot dies hoc judicium tendatur, quia non est determinatum utrum perficiatur vocaliter. Si enim vocaliter perficeretur, prolixum tempus ad hoc requireretur; si autem mentaliter, in momento fieri poterit.  
 
@@ -92,7 +94,7 @@ Ad tertium dicendum, quod Christus corporaliter apparebit, ut ab omnibus judex c
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Deus per scientiam suam est causa rerum. Utrumque autem creaturis communicat, dum et rebus tribuit virtutem agendi alias res quarum sint causa, et quibusdam etiam rerum cognitionem praebet; sed in utroque aliqua sibi reservat. Operatur enim quaedam in quibus nulla creatura ei cooperatur; et similiter cognoscit quaedam quae a nulla pura creatura cognoscuntur.***
+Ad tertiam quaestionem dicendum, quod Deus per scientiam suam est causa rerum. Utrumque autem creaturis communicat, dum et rebus tribuit virtutem agendi alias res quarum sint causa, et quibusdam etiam rerum cognitionem praebet; sed in utroque aliqua sibi reservat. Operatur enim quaedam in quibus nulla creatura ei cooperatur; et similiter cognoscit quaedam quae a nulla pura creatura cognoscuntur.  
 
 Haec autem nulla alia magis esse debent quam illa quae soli divinae subjacent potestati, in quibus ei nulla creatura cooperatur; et hujusmodi est finis mundi, in quo erit dies judicii. Non enim per aliquam causam creatam mundus finietur, sicut etiam et mundus esse incepit immediate a Deo; unde dicitur, quod*dicitur, quod.—decenter* PLE. cognitio finis mundi soli Deo reservatur. Et hanc rationem ipse Dominus videtur assignare Act. 1, 7: *non est*, inquit, *vestrum nosse tempora vel momenta, quae pater posuit in sua potestate*; quasi dicat, quae soli potestati ejus reservata sunt.  
 
@@ -110,7 +112,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod nulli homines judicabunt cum Christo. Quia Joan. 5, 22: *pater omne judicium dedit filio, ut omnes honorificent filium, sicut honorificant patrem*. Sed honorificentia talis non debetur alicui quam Christo. Ergo, etc.***
+Ad secundum sic proceditur. Videtur quod nulli homines judicabunt cum Christo. Quia Joan. 5, 22: *pater omne judicium dedit filio, ut omnes honorificent filium, sicut honorificant patrem*. Sed honorificentia talis non debetur alicui quam Christo. Ergo, etc.  
 
 Praeterea, quicumque judicat, habet potestatem super illud quod judicat. Sed ea de quibus debet esse futurum judicium, sicut merita et praemia humana, soli divinae auctoritati subsunt. Ergo nulli competit de his judicare.  
 
@@ -122,7 +124,7 @@ Praeterea, Isai. 3, 14: *Dominus ad judicium veniet cum senioribus populi sui*. 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod judiciaria potestas non respondeat voluntariae paupertati. Hoc enim solum duodecim apostolis promissum est Matth. 19, 28: *sedebitis super sedes duodecim, judicantes duodecim tribus Israel*. Ergo cum non omnes voluntarie pauperes sint apostoli, videtur quod non omnibus judiciaria potestas respondeat.***
+Ulterius. Videtur quod judiciaria potestas non respondeat voluntariae paupertati. Hoc enim solum duodecim apostolis promissum est Matth. 19, 28: *sedebitis super sedes duodecim, judicantes duodecim tribus Israel*. Ergo cum non omnes voluntarie pauperes sint apostoli, videtur quod non omnibus judiciaria potestas respondeat.  
 
 Praeterea, majus est offerre sacrificium Deo de proprio corpore quam de exterioribus rebus. Sed martyres, et etiam virgines, offerunt de proprio corpore sacrificium Deo, voluntarie autem pauperes de exterioribus rebus. Ergo sublimitas judiciariae potestatis magis respondet martyribus et virginibus quam voluntarie pauperibus.  
 
@@ -138,7 +140,7 @@ Praeterea, Matth. 19, super illud: *vos qui reliquistis omnia* etc.; dicit Gloss
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod angeli debeant judicare. Matth. 25, 31: *cum venerit filius in majestate sua; et omnes angeli cum eo*. Sed loquitur de adventu ad judicium. Ergo videtur quod etiam angeli judicabunt.***
+Ulterius. Videtur quod angeli debeant judicare. Matth. 25, 31: *cum venerit filius in majestate sua; et omnes angeli cum eo*. Sed loquitur de adventu ad judicium. Ergo videtur quod etiam angeli judicabunt.  
 
 Praeterea, angelorum ordines nomina sortiuntur ex officio quod exercent. Sed quidam angelorum ordo est ordo thronorum, quod videtur pertinere ad judiciariam potestatem: thronum enim est sedes judicis, solium regis, cathedra doctoris. Ergo aliqui angeli judicabunt.  
 
@@ -150,7 +152,7 @@ Praeterea, non est ejusdem judicare et esse judicis ministrum. Sed angeli erunt 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod post diem judicii daemones non exequantur sententiam judicis in damnatis. Quia daemones magis peccaverunt quam homines. Ergo non est justum quod homines per daemones torqueantur.***
+Ulterius. Videtur quod post diem judicii daemones non exequantur sententiam judicis in damnatis. Quia daemones magis peccaverunt quam homines. Ergo non est justum quod homines per daemones torqueantur.  
 
 Praeterea, sicut daemones suggerunt hominibus mala, ita angeli suggerunt bona. Sed praemiare bonos non erit officium angelorum; sed hoc erit ab ipso Deo immediate. Ergo nec punire malos erit officium daemonum.  
 
@@ -158,7 +160,7 @@ Sed contra est quod homines peccatores se diabolo subjecerunt peccando. Ergo jus
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod judicare multipliciter dicitur. Uno modo causaliter, ut dicatur illud judicare unde apparet aliquis judicandus; et secundum hoc aliqui dicuntur judicare comparatione, inquantum ex comparatione aliorum aliqui judicandi ostenduntur, sicut patet Matth. 12, 41: *viri Ninivitae surgent in judicio cum generatione ista, et condemnabunt eam*. Sed sic judicare in judicio, communiter bonorum et malorum est. Alio modo dicitur judicare, quasi interpretative: interpretamur enim aliquem facere qui facienti consentit; unde illi qui consentient Christo judici, ejus sententiam approbando, judicare dicuntur; et sic judicare est omnium electorum; unde dicitur Sap. 3, 8: *judicabunt* sancti *nationes*. Tertio modo dicitur judicare quasi per similitudinem, quia scilicet similitudinem judicis habet, inquantum sedet in loco eminenti sicut judex; sicut assessores judicare dicuntur; et secundum hunc modum dicunt quidam, quod perfecti viri, quibus judiciaria potestas promittitur Matth. 19, judicabunt, scilicet per honorabilem confessionem, quia superiores ceteris in judicio apparebunt, occurrentes Christo obviam in aera.***
+Respondeo dicendum ad primam quaestionem, quod judicare multipliciter dicitur. Uno modo causaliter, ut dicatur illud judicare unde apparet aliquis judicandus; et secundum hoc aliqui dicuntur judicare comparatione, inquantum ex comparatione aliorum aliqui judicandi ostenduntur, sicut patet Matth. 12, 41: *viri Ninivitae surgent in judicio cum generatione ista, et condemnabunt eam*. Sed sic judicare in judicio, communiter bonorum et malorum est. Alio modo dicitur judicare, quasi interpretative: interpretamur enim aliquem facere qui facienti consentit; unde illi qui consentient Christo judici, ejus sententiam approbando, judicare dicuntur; et sic judicare est omnium electorum; unde dicitur Sap. 3, 8: *judicabunt* sancti *nationes*. Tertio modo dicitur judicare quasi per similitudinem, quia scilicet similitudinem judicis habet, inquantum sedet in loco eminenti sicut judex; sicut assessores judicare dicuntur; et secundum hunc modum dicunt quidam, quod perfecti viri, quibus judiciaria potestas promittitur Matth. 19, judicabunt, scilicet per honorabilem confessionem, quia superiores ceteris in judicio apparebunt, occurrentes Christo obviam in aera.  
 
 Sed istud non videtur sufficere ad promissionem Domini complendam, qua dicitur, *sedebitis judicantes*; videtur enim judicium confessioni superaddere. Et ideo est quartus modus judicandi, qui perfectis viris conveniet, inquantum continentur in eis decreta divinae justitiae, ex quibus homines judicabuntur; sicut si liber in quo continetur lex, judicare dicatur; unde Apoc. 20, *judicium sedit, et libri aperti sunt*. Et per hunc modum hanc judicationem Richardus de Sancto Victore exponit; unde dicit, quod *qui divinae contemplationi assistunt, qui in libro sapientiae quotidie legunt, velut in cordium voluminibus transcribunt quidquid jam perspicua veritatis intelligentia comprehendunt*; et infra: *quid vero sunt judicantium corda divinitus in omnem veritatem edocta, nisi quaedam canonum decreta?*  
 
@@ -172,7 +174,7 @@ Ad tertium dicendum, quod non est inconveniens aliquos sanctorum aliis quaedam r
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod paupertati debetur judiciaria potestas specialiter propter tria. Primo ratione congruitatis: quia voluntaria paupertas est eorum qui omnibus quae mundi sunt contemptis, soli Christo inhaerent; et ideo non est eis aliquid quod eorum judicium a justitia deflectat; unde idonei ad judicandum redduntur, quasi veritatem justitiae prae omnibus diligentes. Secundo per modum meriti; quia humilitati respondet exaltatio pro merito. Inter omnia autem quae hominem in hoc mundo despectum faciunt, praecipuum est paupertas; unde et pauperibus excellentia judiciariae potestatis promittitur, ut sic qui se propter Christum humiliat, exaltetur. Tertio, quia paupertas disponit ad praedictum modum judicandi. Ex hoc enim aliquis sanctorum judicare dicetur, ut ex praedictis patet, quod cor habebit edoctum omni divina veritate, quam aliis potens erit manifestare. In progressu autem ad perfectionem, primum quod relinquendum occurrit, sunt exteriores divitiae, quia haec sunt ultimo acquisita; quod autem est ultimum in generatione, est primum in destructione; unde et inter beatitudines, quibus est progressus ad perfectionem, prima ponitur paupertas. Et sic paupertati respondet judiciaria potestas, inquantum est prima dispositio ad potestatem praedictam. Et hinc est quod non quibuscumque pauperibus, etiam voluntarie, repromittitur potestas praedicta, sed illis qui relinquentes omnia sequuntur Christum secundum perfectionem vitae.***
+Ad secundam quaestionem dicendum, quod paupertati debetur judiciaria potestas specialiter propter tria. Primo ratione congruitatis: quia voluntaria paupertas est eorum qui omnibus quae mundi sunt contemptis, soli Christo inhaerent; et ideo non est eis aliquid quod eorum judicium a justitia deflectat; unde idonei ad judicandum redduntur, quasi veritatem justitiae prae omnibus diligentes. Secundo per modum meriti; quia humilitati respondet exaltatio pro merito. Inter omnia autem quae hominem in hoc mundo despectum faciunt, praecipuum est paupertas; unde et pauperibus excellentia judiciariae potestatis promittitur, ut sic qui se propter Christum humiliat, exaltetur. Tertio, quia paupertas disponit ad praedictum modum judicandi. Ex hoc enim aliquis sanctorum judicare dicetur, ut ex praedictis patet, quod cor habebit edoctum omni divina veritate, quam aliis potens erit manifestare. In progressu autem ad perfectionem, primum quod relinquendum occurrit, sunt exteriores divitiae, quia haec sunt ultimo acquisita; quod autem est ultimum in generatione, est primum in destructione; unde et inter beatitudines, quibus est progressus ad perfectionem, prima ponitur paupertas. Et sic paupertati respondet judiciaria potestas, inquantum est prima dispositio ad potestatem praedictam. Et hinc est quod non quibuscumque pauperibus, etiam voluntarie, repromittitur potestas praedicta, sed illis qui relinquentes omnia sequuntur Christum secundum perfectionem vitae.  
 
 Ad primum ergo dicendum, quod, sicut dicit Augustinus, 21 *de Civ. Dei*, *nec quoniam super duodecim sedes sessuros esse ait, duodecim solos homines cum illo judicaturos putare debemus; alioquin quoniam in locum Judae traditoris apostolum Mathiam legimus ordinatum, Paulus, qui plus aliis laboravit, ubi ad judicandum sedeat, non habebit. Unde duodenario numero significata est universa judicantium multitudo propter duas partes septenarii, scilicet tria et quatuor, quae in se ductae duodenarium faciunt*. Septenarius autem est numerus perfectionis, vel propter hoc quod constat ex duplici senario qui est numerus perfectus, vel quia ad litteram duodecim apostolis loquebatur, in quorum persona hoc omnibus eorum sectatoribus promittebat.  
 
@@ -186,7 +188,7 @@ Ad quintum dicendum, quod inferior non potest judicare superiorem auctoritate pr
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod assessores judicis debent esse judici proportionales vel conformes. Judicium autem filio attribuitur, quia secundum humanam naturam omnibus apparebit, tam bonis quam malis, quamvis tota Trinitas judicet per auctoritatem; et ideo etiam oportet ut assessores judicis humanam naturam habeant, in qua possint ab omnibus bonis et malis videri; et sic angelis non competit judicare; quamvis etiam angeli aliquo modo possint dici judicare, scilicet per sententiae approbationem.***
+Ad tertiam quaestionem dicendum, quod assessores judicis debent esse judici proportionales vel conformes. Judicium autem filio attribuitur, quia secundum humanam naturam omnibus apparebit, tam bonis quam malis, quamvis tota Trinitas judicet per auctoritatem; et ideo etiam oportet ut assessores judicis humanam naturam habeant, in qua possint ab omnibus bonis et malis videri; et sic angelis non competit judicare; quamvis etiam angeli aliquo modo possint dici judicare, scilicet per sententiae approbationem.  
 
 Ad primum ergo dicendum, quod sicut ex Glossa ibidem patet, angeli cum Christo venient, non ut judices, sed ut sint testes humanorum actuum, sub quorum custodia homines bene vel male egerunt.  
 
@@ -196,7 +198,7 @@ Ad tertium dicendum, quod hominibus promittitur angelorum aequalitas quantum ad 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod circa hoc tangitur a Magistro in littera duplex opinio; et utraque Dei justitiae videtur competere. Ex hoc enim quod homo peccat, juste daemoni subjicitur, sed daemon injuste ei praeest. Opinio ergo illa quae ponit daemones in futurum post diem judicii hominibus non praeesse in poenis, respicit ordinem divinae justitiae ex parte daemonum punientium; contraria vero opinio respicit ordinem divinae justitiae ex parte hominum punitorum.***
+Ad quartam quaestionem dicendum, quod circa hoc tangitur a Magistro in littera duplex opinio; et utraque Dei justitiae videtur competere. Ex hoc enim quod homo peccat, juste daemoni subjicitur, sed daemon injuste ei praeest. Opinio ergo illa quae ponit daemones in futurum post diem judicii hominibus non praeesse in poenis, respicit ordinem divinae justitiae ex parte daemonum punientium; contraria vero opinio respicit ordinem divinae justitiae ex parte hominum punitorum.  
 
 Quae autem harum verior sit, certum nobis esse non potest. Verius autem aestimo, quod sicut servabitur ordo in salvatis, quod quidam a quibusdam illuminabuntur et perficientur; eo quod caelestis hierarchiae ordines perpetui erunt; ita salvabitur ordo in poenis, ut homines per daemones puniantur, ne totaliter ordo divinus quo angelos medios inter naturam divinam et humanam constituit, annulletur. Et ideo sicut hominibus per angelos*angelos.—angelos bonos* PLE. divinae illuminationis deferuntur, ita etiam daemones sunt executores divinae justitiae in malos. Nec in hoc aliquid minuetur de daemonum poena; quia in hoc quod etiam alios torquent, ipsi torquebuntur. Ibi enim miserorum societas miseriam non minuet, sed augebit.  
 
@@ -212,7 +214,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non omnes homines in judicio compareant. Quia dicitur Matth. 19, 28: *sedebitis super sedes, judicantes duodecim tribus Israel*. Sed non omnes homines pertinent ad illas duodecim tribus. Ergo videtur quod non omnes homines compareant.***
+Ad tertium sic proceditur. Videtur quod non omnes homines in judicio compareant. Quia dicitur Matth. 19, 28: *sedebitis super sedes, judicantes duodecim tribus Israel*. Sed non omnes homines pertinent ad illas duodecim tribus. Ergo videtur quod non omnes homines compareant.  
 
 Praeterea, idem videtur per hoc quod dicitur in Psal. 1, 6: *non resurgent impii in judicio*. Sed multi hominum sunt tales. Ergo in judicio non comparebunt.  
 
@@ -224,7 +226,7 @@ Praeterea, Apoc. 1, 7, dicitur: *ecce venit cum nubibus, et videbit eum omnis oc
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nulli boni in judicio judicentur. Quia Joan. 3, 18: *qui credit in eum, non judicabitur*. Sed omnes boni crediderunt in eum. Ergo non judicabuntur.***
+Ulterius. Videtur quod nulli boni in judicio judicentur. Quia Joan. 3, 18: *qui credit in eum, non judicabitur*. Sed omnes boni crediderunt in eum. Ergo non judicabuntur.  
 
 Praeterea, illi non sunt beati quibus est incerta sua beatitudo: ex quo Augustinus probat, daemones nunquam fuisse beatos. Sed sancti homines nunc sunt beati. Ergo certi sunt de sua beatitudine. Sed quod est certum, non adducitur in judicium. Ergo boni non judicabuntur.  
 
@@ -236,7 +238,7 @@ Praeterea, universale omnia comprehendit. Sed illud judicium dicitur universale.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nulli mali judicabuntur. Sicut enim est certa infidelium damnatio, ita et eorum qui in mortali decedunt. Sed propter damnationis certitudinem, dicitur Joan. 3, 18: *qui non credit, jam judicatus est*. Ergo eadem ratione nec alii peccatores judicabuntur.***
+Ulterius. Videtur quod nulli mali judicabuntur. Sicut enim est certa infidelium damnatio, ita et eorum qui in mortali decedunt. Sed propter damnationis certitudinem, dicitur Joan. 3, 18: *qui non credit, jam judicatus est*. Ergo eadem ratione nec alii peccatores judicabuntur.  
 
 Praeterea, vox judicis est valde terribilis eis qui per judicium condemnantur. Sed, sicut in littera ex verbis Gregorii habetur, ad infideles allocutio judicis non fiet. Si ergo fieret ad fideles damnandos, infideles de sua infidelitate commodum reportarent; quod est absurdum.  
 
@@ -244,7 +246,7 @@ Sed contra, videtur quod omnes mali sint judicandi. Quia omnibus malis infligetu
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod angeli in futuro judicentur. Quia dicitur 1 Corinth. 6, 3: *nescitis quoniam angelos judicabimus?* Sed hoc non potest referri ad statum praesentis temporis. Ergo hoc referri debet ad futurum judicium.***
+Ulterius. Videtur quod angeli in futuro judicentur. Quia dicitur 1 Corinth. 6, 3: *nescitis quoniam angelos judicabimus?* Sed hoc non potest referri ad statum praesentis temporis. Ergo hoc referri debet ad futurum judicium.  
 
 Praeterea, Job 40, 28, dicitur de Behemoth, per quem diabolus intelligitur: *cunctis videntibus praecipitabitur*; et Marc. 1, 24, exclamavit daemon ad Christum: *venisti ante tempus perdere nos*; et Glossa dicit ibidem, quod daemones in terra dominum cernentes, se continuo judicandos credebant. Ergo videtur quod eis finale judicium reservatur.  
 
@@ -256,7 +258,7 @@ Praeterea, perfectior est bonitas vel malitia angelorum quam aliquorum hominum i
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod potestas judiciaria Christo homini collata est in praemium humilitatis quam in passione exhibuit. Ipse autem sua passione sanguinem pro omnibus fudit quantum ad sufficientiam, licet non in omnibus effectum habuit propter impedimentum in aliquibus inventum. Et ideo congruum est ut omnes homines in judicio congregentur ad videndum ejus exaltationem in humana natura, secundum quam constitutus est a Deo judex vivorum et mortuorum.***
+Respondeo dicendum ad primam quaestionem, quod potestas judiciaria Christo homini collata est in praemium humilitatis quam in passione exhibuit. Ipse autem sua passione sanguinem pro omnibus fudit quantum ad sufficientiam, licet non in omnibus effectum habuit propter impedimentum in aliquibus inventum. Et ideo congruum est ut omnes homines in judicio congregentur ad videndum ejus exaltationem in humana natura, secundum quam constitutus est a Deo judex vivorum et mortuorum.  
 
 Ad primum ergo dicendum, quod sicut dicit Augustinus, 20 *de Civ. Dei*, *non quia dictum est, judicantes duodecim tribus Israel, tribus levi, quae tertiadecima est, judicanda non erit, aut solum illum populum, non etiam gentes ceteras judicabunt*. Ideo autem per duodecim tribus omnes aliae gentes significatae sunt, quia per Christum in sortem duodecim tribuum omnes gentes sunt vocatae.  
 
@@ -266,7 +268,7 @@ Ad tertium dicendum, quod etiam pueri ante perfectam aetatem decedentes in judic
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ad judicium duo pertinent: scilicet discussio meritorum, et retributio praemiorum. Quantum ergo ad receptionem praemiorum, omnes judicabuntur, etiam boni, in eo quod unusquisque recipiet ex divina sententia praemium merito respondens. Sed discussio meritorum non fit nisi ubi est quaedam meritorum commixtio bonorum cum malis. Illi autem qui aedificant super fundamentum fidei aurum et argentum et lapides pretiosos, divinis servitiis totaliter insistentes; quia nullam admixtionem notabilem alicujus mali meriti habent, in eis discussio meritorum locum non habet; sicut illi qui rebus mundi penitus abjectis solicite cogitant solummodo quae sunt Dei; et ideo salvabuntur, sed non judicabuntur. Illi vero qui aedificant super fundamentum fidei lignum et fenum et stipulam, qui adhuc scilicet amant saecularia, et terrenis negotiis implicantur, ita tamen quod nihil Christo praeponant, sed studeant peccata eleemosynis expiare; habent quamdam commixtionem bonorum meritorum cum malis; et ideo discussio meritorum in eis locum habet; unde tales quantum ad hoc judicantur, et tamen salvabuntur.***
+Ad secundam quaestionem dicendum, quod ad judicium duo pertinent: scilicet discussio meritorum, et retributio praemiorum. Quantum ergo ad receptionem praemiorum, omnes judicabuntur, etiam boni, in eo quod unusquisque recipiet ex divina sententia praemium merito respondens. Sed discussio meritorum non fit nisi ubi est quaedam meritorum commixtio bonorum cum malis. Illi autem qui aedificant super fundamentum fidei aurum et argentum et lapides pretiosos, divinis servitiis totaliter insistentes; quia nullam admixtionem notabilem alicujus mali meriti habent, in eis discussio meritorum locum non habet; sicut illi qui rebus mundi penitus abjectis solicite cogitant solummodo quae sunt Dei; et ideo salvabuntur, sed non judicabuntur. Illi vero qui aedificant super fundamentum fidei lignum et fenum et stipulam, qui adhuc scilicet amant saecularia, et terrenis negotiis implicantur, ita tamen quod nihil Christo praeponant, sed studeant peccata eleemosynis expiare; habent quamdam commixtionem bonorum meritorum cum malis; et ideo discussio meritorum in eis locum habet; unde tales quantum ad hoc judicantur, et tamen salvabuntur.  
 
 Ad primum ergo dicendum, quod quia punitio est effectus justitiae, praemiatio autem misericordiae; magis Deo, et judicio, quod est actus justitiae, antonomastice punitio attribuitur, ut interdum judicium pro ipsa condemnatione accipiatur; et sic intelligitur auctoritas inducta, ut per Glossam, ibidem, patet.  
 
@@ -278,7 +280,7 @@ Rationes autem quae sunt in oppositum, procedunt de judicio quantum ad retributi
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod judicium quod est poenarum retributio pro peccatis, omnibus malis competit; judicium autem quod est discussio peccatorum, solum fidelibus: quia in infidelibus non est fidei fundamentum, quo sublato, omnia opera sequentia perfecta rectitudine intentionis carent; unde non est in eis aliqua permixtio bonorum meritorum ad mala, quae discussionem requirant. Sed fideles in quibus manet fidei fundamentum, ad minus fidei actum laudabilem habent, qui quamvis non sit meritorius sine caritate, tamen, quantum est de se, est ordinatus ad meritum; et ideo in eis judicium discussionis locum habet. Unde ipsi fideles, qui fuerunt saltem numero cives civitatis Dei, judicabuntur ut cives, in quos sine discussione meritorum sententia mortis non fertur; sed infideles condemnabuntur ut hostes, qui consueverunt apud homines absque meritorum audientia exterminari.***
+Ad tertiam quaestionem dicendum, quod judicium quod est poenarum retributio pro peccatis, omnibus malis competit; judicium autem quod est discussio peccatorum, solum fidelibus: quia in infidelibus non est fidei fundamentum, quo sublato, omnia opera sequentia perfecta rectitudine intentionis carent; unde non est in eis aliqua permixtio bonorum meritorum ad mala, quae discussionem requirant. Sed fideles in quibus manet fidei fundamentum, ad minus fidei actum laudabilem habent, qui quamvis non sit meritorius sine caritate, tamen, quantum est de se, est ordinatus ad meritum; et ideo in eis judicium discussionis locum habet. Unde ipsi fideles, qui fuerunt saltem numero cives civitatis Dei, judicabuntur ut cives, in quos sine discussione meritorum sententia mortis non fertur; sed infideles condemnabuntur ut hostes, qui consueverunt apud homines absque meritorum audientia exterminari.  
 
 Ad primum ergo dicendum, quod quamvis eis qui in mortali decedunt, pro certo constet de eorum damnatione; quia tamen aliqua quae pertinent ad bene merendum habent annexa, oportet ad manifestationem divinae justitiae, ut discussio de eorum meritis fiat, per quam ostendatur eos juste a civitate sanctorum excludi, cujus esse cives numero exterius videbantur.  
 
@@ -288,7 +290,7 @@ Ratio vero in contrarium adducta procedebat de judicio retributionis.
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod judicium discussionis nullo modo habet locum neque in bonis angelis neque in malis; quia neque in bonis potest aliquid mali inveniri, neque in malis aliquid boni ad judicium pertinens. Sed si loquamur de judicio retributionis, sic est distinguenda duplex retributio. Una respondens propriis meritis angelorum; et haec a principio fuit utrisque facta, dum quidam sunt ad beatitudinem sublimati, quidam vero in miseriam demersi.***
+Ad quartam quaestionem dicendum, quod judicium discussionis nullo modo habet locum neque in bonis angelis neque in malis; quia neque in bonis potest aliquid mali inveniri, neque in malis aliquid boni ad judicium pertinens. Sed si loquamur de judicio retributionis, sic est distinguenda duplex retributio. Una respondens propriis meritis angelorum; et haec a principio fuit utrisque facta, dum quidam sunt ad beatitudinem sublimati, quidam vero in miseriam demersi.  
 
 Alia retributio, quae respondet meritis bonis vel malis per angelos procuratis; et haec retributio in futuro judicio fiet; quia boni angeli amplius gaudium habebunt de salute eorum quos ad meritum induxerunt, et mali amplius torquebuntur, multiplicata malorum ruina, qui per eos ad mala sunt incitati. Unde directe loquendo, judicium nec ex parte judicantium nec ex parte judicandorum erit angelorum, sed hominum; sed indirecte quodammodo respiciet angelos, inquantum actibus hominum fuerunt commixti.  
 
@@ -302,7 +304,7 @@ Quaestio 2
 
 ***De igne judicii***
 
-***Deinde quaeritur de igne qui praecedet faciem judicis; et circa hoc quaeruntur tria:***
+Deinde quaeritur de igne qui praecedet faciem judicis; et circa hoc quaeruntur tria:  
 
 primo de purgatione mundi per ignem futura;  
 
@@ -314,7 +316,7 @@ primo de purgatione mundi per ignem futura;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod nulla mundi purgatio sit futura. Non enim purgatione indiget nisi quod est immundum. Sed creaturae Dei non sunt immundae; unde dicitur actuum 10, 15: *quod Deus creavit, tu ne commune dixeris*, idest immundum. Ergo creaturae mundi non purgabuntur.***
+Ad primum sic proceditur. Videtur quod nulla mundi purgatio sit futura. Non enim purgatione indiget nisi quod est immundum. Sed creaturae Dei non sunt immundae; unde dicitur actuum 10, 15: *quod Deus creavit, tu ne commune dixeris*, idest immundum. Ergo creaturae mundi non purgabuntur.  
 
 Praeterea, purgatio secundum divinam justitiam ordinatur ad auferendam immunditiam culpae, sicut patet de purgatione post mortem. Sed in elementis hujus mundi nulla potest esse culpae infectio. Ergo videtur quod purgatione non indigeant.  
 
@@ -326,7 +328,7 @@ Praeterea, 1 Corinth. 7, super illud: *praeterit figura hujus mundi*, dicit Glos
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod haec purgatio non sit futura per ignem. Ignis enim, cum sit pars mundi, purgatione indiget, sicut et aliae partes. Sed non debet idem esse purgans et purgatum. Ergo videtur quod ignis non purgabit.***
+Ulterius. Videtur quod haec purgatio non sit futura per ignem. Ignis enim, cum sit pars mundi, purgatione indiget, sicut et aliae partes. Sed non debet idem esse purgans et purgatum. Ergo videtur quod ignis non purgabit.  
 
 Praeterea, sicut ignis habet virtutem purgativam, ita et aqua. Cum ergo non omnia sint purgabilia per ignem, sed quaedam necesse sit aqua purgari, sicut etiam vetus lex distinguit; videtur quod ignis non purget, ad minus universaliter.  
 
@@ -338,7 +340,7 @@ Praeterea, 2 Petr., ult., 12, dicitur: *caeli ardentes solventur, et elementa ig
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ignis ille non sit ejusdem speciei cum igne elementari. Nihil enim seipsum consumit. Sed ille ignis quatuor elementa absumet, ut dicit Glossa, 2 Pet., ult. Ergo ignis ille non erit ejusdem speciei cum igne elementari.***
+Ulterius. Videtur quod ignis ille non sit ejusdem speciei cum igne elementari. Nihil enim seipsum consumit. Sed ille ignis quatuor elementa absumet, ut dicit Glossa, 2 Pet., ult. Ergo ignis ille non erit ejusdem speciei cum igne elementari.  
 
 Praeterea, sicut virtus manifestatur per operationem, ita natura per virtutem. Sed ignis ille habebit aliam virtutem ab igne qui est elementum; quia scilicet purgabit universum, quod ignis iste facere non potest. Ergo non erit ejusdem speciei cum isto.  
 
@@ -350,7 +352,7 @@ Praeterea, sicut futura purgatio erit per ignem, ita praecedens fuit per aquam: 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quia mundus, aliquo modo propter hominem factus est, oportet quod quando homo secundum corpus glorificabitur, etiam alia corpora mundi ad statum meliorem mutentur; ut sit et locus convenientior, et aspectus delectabilior. Ad hoc autem quod gloriam corporis homo consequatur, oportet prius removeri ea quae gloriae opponuntur; quae sunt duo, scilicet corruptio, et infectio culpae; quia, ut dicitur 1 Corinth. 15, 50, *corruptio incorruptelam non possidebit*; et a civitate gloriae omnes immundi foris erunt, Apoc. ult.; et similiter etiam oportet elementa mundi purgari a contrariis dispositionibus, antequam in novitatem gloriae adducantur, proportionaliter ei quod de homine dictum est. Quamvis autem res corporalis subjectum infectionis culpae proprie esse non possit; tamen ex culpa quaedam incongruitas in rebus corporalibus corruptis relinquitur ad hoc ut spiritualibus dicentur; et inde videmus quod loca in quibus sunt aliqua crimina commissa, non reputantur idonea ad aliqua sacra in eis exercenda, nisi purgatione quadam praemissa. Et secundum hoc ex peccatis hominum quamdam inidoneitatem ad gloriae susceptionem pars mundi recipit quae in usum nostrum cedit; unde quantum ad hoc mundatione indiget. Similiter etiam circa medium locum propter elementorum contactum multae sunt corruptiones et generationes et alterationes elementorum, quae puritati eorum derogant; et ideo ab his oportet elementa purgari ad hoc quod decenter suscipiant novitatem gloriae.***
+Respondeo dicendum ad primam quaestionem, quod quia mundus, aliquo modo propter hominem factus est, oportet quod quando homo secundum corpus glorificabitur, etiam alia corpora mundi ad statum meliorem mutentur; ut sit et locus convenientior, et aspectus delectabilior. Ad hoc autem quod gloriam corporis homo consequatur, oportet prius removeri ea quae gloriae opponuntur; quae sunt duo, scilicet corruptio, et infectio culpae; quia, ut dicitur 1 Corinth. 15, 50, *corruptio incorruptelam non possidebit*; et a civitate gloriae omnes immundi foris erunt, Apoc. ult.; et similiter etiam oportet elementa mundi purgari a contrariis dispositionibus, antequam in novitatem gloriae adducantur, proportionaliter ei quod de homine dictum est. Quamvis autem res corporalis subjectum infectionis culpae proprie esse non possit; tamen ex culpa quaedam incongruitas in rebus corporalibus corruptis relinquitur ad hoc ut spiritualibus dicentur; et inde videmus quod loca in quibus sunt aliqua crimina commissa, non reputantur idonea ad aliqua sacra in eis exercenda, nisi purgatione quadam praemissa. Et secundum hoc ex peccatis hominum quamdam inidoneitatem ad gloriae susceptionem pars mundi recipit quae in usum nostrum cedit; unde quantum ad hoc mundatione indiget. Similiter etiam circa medium locum propter elementorum contactum multae sunt corruptiones et generationes et alterationes elementorum, quae puritati eorum derogant; et ideo ab his oportet elementa purgari ad hoc quod decenter suscipiant novitatem gloriae.  
 
 Ad primum ergo dicendum, quod cum dicitur: omnis creatura Dei est munda, hoc intelligendum est, quia non habet in substantia sua alicujus malitiae permixtionem, sicut ponebant Manichaei, dicentes bonum et malum esse duas substantias alicubi divisas, et alicubi commixtas; non autem removetur quin aliqua creatura habeat commixtionem naturae extraneae; quae etiam natura in se bona est, sed perfectioni hujusmodi creaturae repugnat. Similiter non removetur ex hoc quin malum alicui creaturae accidat, quamvis non sit permixtum ei quasi pars ipsius substantiae.  
 
@@ -360,7 +362,7 @@ Ad tertium dicendum, quod forma mixti et forma elementi possunt dupliciter consi
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod illa mundi purgatio, ut dictum est, removebit a mundo imperfectionem ex culpa relictam et impuritatem commixtionis, et erit dispositio ad gloriae perfectionem; et ideo quantum ad haec tria convenientissime fiet per ignem. Primo, quia ignis, cum sit nobilissimum elementorum, habet naturales proprietates similiores proprietatibus gloriae, ut maxime patet de luce. Secundo, quia ignis non ita recipit commixtionem extranei propter efficaciam virtutis activae, sicut alia elementa. Tertio, quia sphaera ignis est remota a nostra habitatione, nec ita communis est nobis usus ignis sicut terrae et aquae et aeris, unde non ita inficitur; et praeter hoc habet maximam efficaciam ad purgandum et ad dividendum subtiliando.***
+Ad secundam quaestionem dicendum, quod illa mundi purgatio, ut dictum est, removebit a mundo imperfectionem ex culpa relictam et impuritatem commixtionis, et erit dispositio ad gloriae perfectionem; et ideo quantum ad haec tria convenientissime fiet per ignem. Primo, quia ignis, cum sit nobilissimum elementorum, habet naturales proprietates similiores proprietatibus gloriae, ut maxime patet de luce. Secundo, quia ignis non ita recipit commixtionem extranei propter efficaciam virtutis activae, sicut alia elementa. Tertio, quia sphaera ignis est remota a nostra habitatione, nec ita communis est nobis usus ignis sicut terrae et aquae et aeris, unde non ita inficitur; et praeter hoc habet maximam efficaciam ad purgandum et ad dividendum subtiliando.  
 
 Ad primum ergo dicendum, quod ignis non venit in usum nostrum prout est in materia propria (sic enim remotus est a nobis), sed solum prout est in materia aliena; et quo ad hoc poterit per ignem in sua puritate existentem purgari ipse mundus quantum ad hoc quod habet de extraneo adjunctum.  
 
@@ -392,7 +394,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod ille ignis purgabit etiam caelos superiores. Quia in Psal. 101, 20, dicitur: *opera manuum tuarum sunt caeli. Ipsi peribunt, tu autem permanebis*. Sed etiam superiores caeli sunt opera manuum Dei. Ergo etiam ipsi in illa finali conflagratione peribunt.***
+Ad secundum sic proceditur. Videtur quod ille ignis purgabit etiam caelos superiores. Quia in Psal. 101, 20, dicitur: *opera manuum tuarum sunt caeli. Ipsi peribunt, tu autem permanebis*. Sed etiam superiores caeli sunt opera manuum Dei. Ergo etiam ipsi in illa finali conflagratione peribunt.  
 
 Praeterea, 2 Petri 3, 12, dicitur: *caeli ardentes solventur, et elementa ignis ardore tabescent*. Caeli autem qui ab elementis distinguuntur, sunt caeli superiores, in quibus fixa sunt sidera. Ergo videtur quod etiam illi per ignem illum purgabuntur.  
 
@@ -404,7 +406,7 @@ Praeterea, super illud 2 Thess. 1: *in flamma ignis dantis vindictam*, dicit Glo
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ignis ille alia elementa consumet. Quia, ut dicit Glossa Bedae, 2 Petri ult., *elementa quatuor quibus mundus consistit, ille maximus ignis absumet: nec cuncta intantum consumentur, ut non sint; sed duo ex toto consumet, duo vero in meliorem restituet faciem*. Ergo videtur quod ad minus duo elementa per ignem illum destruenda sint totaliter.***
+Ulterius. Videtur quod ignis ille alia elementa consumet. Quia, ut dicit Glossa Bedae, 2 Petri ult., *elementa quatuor quibus mundus consistit, ille maximus ignis absumet: nec cuncta intantum consumentur, ut non sint; sed duo ex toto consumet, duo vero in meliorem restituet faciem*. Ergo videtur quod ad minus duo elementa per ignem illum destruenda sint totaliter.  
 
 Praeterea, Apoc. 21, 1, dicitur: *primum caelum et prima terra abiit; et jam mare non est*. Sed per caelum aer intelligitur, ut Augustinus dicit: mare autem est aquarum congregatio. Videtur ergo quod illa tria elementa totaliter destruentur.  
 
@@ -418,7 +420,7 @@ Praeterea, illa finalis purgatio, quae fiet per ignem, respondebit primae purgat
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nec omnia elementa per illum ignem purgabuntur. Quia, ut jam dictum est, ignis ille non ascendet nisi quantum ascendit aqua diluvii. Sed aqua diluvii non pervenit usque ad sphaeram ignis. Ergo nec per ultimam purgationem elementum ignis purgabitur.***
+Ulterius. Videtur quod nec omnia elementa per illum ignem purgabuntur. Quia, ut jam dictum est, ignis ille non ascendet nisi quantum ascendit aqua diluvii. Sed aqua diluvii non pervenit usque ad sphaeram ignis. Ergo nec per ultimam purgationem elementum ignis purgabitur.  
 
 Praeterea, Apoc. 21, dicit Glossa, super illud: *vidi caelum novum* etc.: *immutatio aeris et terrae dubitabile non est quin per ignem fiat; sed de aqua dubitatur, nam purgationem in seipsa habere creditur*. Ergo ad minus non est certum quod omnia elementa purgentur.  
 
@@ -430,7 +432,7 @@ Sed contra est Glossa supra inducta quae habetur 2 Petri ult. quod quatuor eleme
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod purgatio mundi ad hoc est ut removeatur a corporibus dispositio contraria perfectioni gloriae, ut supra dictum est: quae quidem perfectio est ultima rerum consummatio; et haec quidem indispositio in omnibus corporibus invenitur, sed diversimode in diversis. In quibusdam enim invenitur indispositio secundum aliquid inhaerens substantiae ipsorum, sicut in istis corporibus inferioribus, quae per mutuam mixtionem decidunt a propria puritate. In quibusdam vero corporibus invenitur indispositio non per aliud substantiae eorum inhaerens, sicut in corporibus caelestibus, in quibus nihil invenitur repugnans ultimae perfectioni universi, nisi motus, qui est via ad perfectionem: nec motus quilibet, sed localis tantum, qui non variat aliquid quod intrinsecum sit rei, ut substantiam aut quantitatem, aut qualitatem, sed solum locum qui est extra rem. Et ideo a substantia caeli superioris non oportet quod aliquid removeatur; sed oportet quod motus ejus quietetur. Quietatio autem motus localis non fit per actionem alicujus contrarii agentis, sed per hoc quod motor desistit a movendo; et ideo corpora caelestia nec per ignem nec per alicujus creaturae actionem purgantur, sed ipsa eorum quietatio, sola voluntate divina accidens, eis loco purgationis erit.***
+Respondeo dicendum ad primam quaestionem, quod purgatio mundi ad hoc est ut removeatur a corporibus dispositio contraria perfectioni gloriae, ut supra dictum est: quae quidem perfectio est ultima rerum consummatio; et haec quidem indispositio in omnibus corporibus invenitur, sed diversimode in diversis. In quibusdam enim invenitur indispositio secundum aliquid inhaerens substantiae ipsorum, sicut in istis corporibus inferioribus, quae per mutuam mixtionem decidunt a propria puritate. In quibusdam vero corporibus invenitur indispositio non per aliud substantiae eorum inhaerens, sicut in corporibus caelestibus, in quibus nihil invenitur repugnans ultimae perfectioni universi, nisi motus, qui est via ad perfectionem: nec motus quilibet, sed localis tantum, qui non variat aliquid quod intrinsecum sit rei, ut substantiam aut quantitatem, aut qualitatem, sed solum locum qui est extra rem. Et ideo a substantia caeli superioris non oportet quod aliquid removeatur; sed oportet quod motus ejus quietetur. Quietatio autem motus localis non fit per actionem alicujus contrarii agentis, sed per hoc quod motor desistit a movendo; et ideo corpora caelestia nec per ignem nec per alicujus creaturae actionem purgantur, sed ipsa eorum quietatio, sola voluntate divina accidens, eis loco purgationis erit.  
 
 Ad primum ergo dicendum, quod, sicut dicit Augustinus 20 *de Civ. Dei*, verba illa Psalmi intelligenda sunt de caelis aereis, qui purgabuntur per ignem ultimae conflagrationis. Vel dicendum, quod si etiam de superioribus caelis intelligantur, tunc dicuntur perire quantum ad motum quo nunc continue moventur.  
 
@@ -440,7 +442,7 @@ Ad tertium dicendum, quod ille labor et illa servitus creaturae qui corporibus c
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod circa hanc quaestionem multiplex est opinio.***
+Ad secundam quaestionem dicendum, quod circa hanc quaestionem multiplex est opinio.  
 
 Quidam enim dicunt, quod omnia elementa manebunt quantum ad materiam: omnia autem mutabuntur quantum ad imperfectionem; sed duo eorum retinebunt propriam formam substantialem, scilicet aer et terra; in duobus vero, scilicet igne et aqua, non remanebit forma substantialis eorum, sed mutabuntur ad formam caeli: et sic tria elementa, scilicet ignis, aer et aqua, caelum dicentur, quamvis aer retineat eamdem formam substantialem quam nunc habet, quia nunc etiam caelum dicitur. Unde et Apoc. 21, 1, non fit mentio nisi de caelo et terra: *vidi*, inquit, *caelum novum et terram novam*. Sed haec opinio est omnino absurda: repugnat enim et Philosophiae, secundum quam poni non potest quod corpora inferiora sint in potentia ad formam caeli, cum nec materiam habeant communem, nec contrarietatem ad invicem; et etiam theologiae, quia secundum hanc positionem non salvabitur perfectio universi cum integritate suarum partium, duobus elementis sublatis. Unde per hoc quod dicit caelum, intelligitur quintum corpus; omnia vero elementa intelliguntur per terram, sicut in Psalmo 148, 7, dicitur: *laudate Dominum de terra*; et sequitur: *ignis, grando, nix, glacies*, etc.  
 
@@ -458,7 +460,7 @@ Ad quartum dicendum, quod in partibus elementorum non oportet considerari solum 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dicunt quod ignis ille ascendet usque ad summitatem spatii continentis quatuor elementa, ut sic elementa totaliter purgentur et ab infectione peccati, quo etiam superiores partes elementorum sunt infectae, ut patet per fumum idolatriae superiora inficientis; et etiam a corruptione, quia elementa secundum omnes partes sui corruptibilia sunt. Sed ista opinio repugnat auctoritati sacrae Scripturae; quia 2 Petri, 3, dicitur, quod illi caeli repositi sunt igni qui fuerunt per aquam purgati; et Augustinus dicit, 20 *de Civ. Dei*, quod ille mundus qui diluvio periit, igni reservatur. Constat autem quod aqua diluvii non ascendit usque ad summitatem spatii elementorum, sed solum usque ad quindecim cubitos super altitudines montium; et praeterea notum est quod vapores elevati a terra, vel fumi quicumque non possunt transire per totam sphaeram ignis, ut perveniant ad summitatem ejus; et ita infectio peccati non pervenit usque ad spatium praedictum. A corruptibilitate etiam elementa non possunt purgari per subtractionem alicujus quod per ignem possit consumi; sed per ignem poterunt consumi impuritates elementorum quae ex eorum permixtione proveniunt. Hujusmodi autem impuritates praecipue sunt circa terram usque ad medium aeris interstitium; unde usque ad illud spatium ignis ultimae conflagrationis elementa purgabit; tantum enim etiam aquae diluvii ascenderunt; quod probabiliter aestimari potest ex montium altitudine quos determinata mensura transcenderat.***
+Ad tertiam quaestionem dicendum, quod quidam dicunt quod ignis ille ascendet usque ad summitatem spatii continentis quatuor elementa, ut sic elementa totaliter purgentur et ab infectione peccati, quo etiam superiores partes elementorum sunt infectae, ut patet per fumum idolatriae superiora inficientis; et etiam a corruptione, quia elementa secundum omnes partes sui corruptibilia sunt. Sed ista opinio repugnat auctoritati sacrae Scripturae; quia 2 Petri, 3, dicitur, quod illi caeli repositi sunt igni qui fuerunt per aquam purgati; et Augustinus dicit, 20 *de Civ. Dei*, quod ille mundus qui diluvio periit, igni reservatur. Constat autem quod aqua diluvii non ascendit usque ad summitatem spatii elementorum, sed solum usque ad quindecim cubitos super altitudines montium; et praeterea notum est quod vapores elevati a terra, vel fumi quicumque non possunt transire per totam sphaeram ignis, ut perveniant ad summitatem ejus; et ita infectio peccati non pervenit usque ad spatium praedictum. A corruptibilitate etiam elementa non possunt purgari per subtractionem alicujus quod per ignem possit consumi; sed per ignem poterunt consumi impuritates elementorum quae ex eorum permixtione proveniunt. Hujusmodi autem impuritates praecipue sunt circa terram usque ad medium aeris interstitium; unde usque ad illud spatium ignis ultimae conflagrationis elementa purgabit; tantum enim etiam aquae diluvii ascenderunt; quod probabiliter aestimari potest ex montium altitudine quos determinata mensura transcenderat.  
 
 Primum ergo concedimus.  
 
@@ -474,7 +476,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod ignis ultimae conflagrationis judicium debet sequi. Augustinus, 20 *de Civ. Dei*, hunc ordinem ponit eorum quae in judicio sunt futura, dicens: *in illo judicio, vel circa illud judicium, has res didicimus esse venturas; Eliam Thesbitem, fidem Judaeorum, Antichristum persecuturum, Christum judicaturum, mortuorum resurrectionem, bonorum malorumque divisionem, mundi conflagrationem, ejusdemque renovationem*. Ergo conflagratio judicium sequitur.***
+Ad tertium sic proceditur. Videtur quod ignis ultimae conflagrationis judicium debet sequi. Augustinus, 20 *de Civ. Dei*, hunc ordinem ponit eorum quae in judicio sunt futura, dicens: *in illo judicio, vel circa illud judicium, has res didicimus esse venturas; Eliam Thesbitem, fidem Judaeorum, Antichristum persecuturum, Christum judicaturum, mortuorum resurrectionem, bonorum malorumque divisionem, mundi conflagrationem, ejusdemque renovationem*. Ergo conflagratio judicium sequitur.  
 
 Praeterea, Augustinus dicit in eodem Lib.: *judicatis impiis, et in ignem aeternum Missis, figura hujus mundi mundanorum ignium conflagratione peribit*. Ergo idem quod prius.  
 
@@ -488,7 +490,7 @@ Praeterea, resurrectio praecedet judicium; alias non videret omnis oculus Christ
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ignis ille non habebit talem effectum in hominibus, qualis in littera designatur. Illud enim consumi dicitur quod reducitur ad nihilum. Sed corpora impiorum non solventur in nihilum, sed in aeternum conservabuntur, ut aeternam poenam sustineant. Ergo ignis ille non erit malis consumptio, ut in littera dicitur.***
+Ulterius. Videtur quod ignis ille non habebit talem effectum in hominibus, qualis in littera designatur. Illud enim consumi dicitur quod reducitur ad nihilum. Sed corpora impiorum non solventur in nihilum, sed in aeternum conservabuntur, ut aeternam poenam sustineant. Ergo ignis ille non erit malis consumptio, ut in littera dicitur.  
 
 Si dicatur, quod consumet malorum corpora, inquantum ea resolvet in cinerem; contra. Sicut corpora malorum, ita et bonorum in cinerem resolventur; hoc enim est Christi privilegium, ut caro ejus corruptionem non videat. Ergo etiam et bonis tunc repertis erit consumptio.  
 
@@ -500,7 +502,7 @@ Praeterea, illa conflagratio quasi in momento perficietur. Sed multi invenientur
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ignis ille non involvet reprobos. Quia Malach. 3, super illud: *purgabit filios levi*, dicit Glossa: *duos ignes legimus futuros: unum qui purgabit electos, et praecedet judicium; alterum qui reprobos cruciabit*. Sed hic est ignis inferni, qui malos involvet: primus autem est ignis finalis conflagrationis. Ergo ignis finalis conflagrationis non erit ille qui malos involvet.***
+Ulterius. Videtur quod ignis ille non involvet reprobos. Quia Malach. 3, super illud: *purgabit filios levi*, dicit Glossa: *duos ignes legimus futuros: unum qui purgabit electos, et praecedet judicium; alterum qui reprobos cruciabit*. Sed hic est ignis inferni, qui malos involvet: primus autem est ignis finalis conflagrationis. Ergo ignis finalis conflagrationis non erit ille qui malos involvet.  
 
 Praeterea, ignis ille Deo obsequitur in purgatione mundi. Ergo deberet remunerari aliis elementis remuneratis, et praecipue cum ignis sit nobilissimum elementorum. Non ergo videtur quod in infernum debeat dejici in damnatorum poenam.  
 
@@ -512,7 +514,7 @@ Praeterea, Dan. 7, 10, dicitur: *igneus fluvius rapidusque egrediebatur a facie 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod illa conflagratio secundum rei veritatem quantum ad sui initium judicium praecedet: quod ex hinc manifeste colligitur quod mortuorum resurrectio judicium praecedet; quod patet ex hoc quod dicitur 1 Thessal. 4, quod illi etiam qui dormierunt, rapientur in nubibus in aera obviam Christo ad judicium venienti. Simul autem erit resurrectio communis, et corporum sanctorum glorificatio: sancti enim resurgentes corpora gloriosa resument, ut patet per illud quod dicitur 1 Corinth. 15, 43: *seminatur in ignobilitate, surget in gloria*. Simul autem cum corpora sanctorum glorificabuntur; et tota creatura suo modo renovabitur, ut patet per id quod dicitur Rom. 8, 21, quod *ipsa creatura liberabitur a servitute corruptionis in libertatem gloriae filiorum Dei*. Cum ergo conflagratio mundi sit dispositio ad renovationem praedictam, ut ex dictis patet; manifeste potest colligi quod illa conflagratio quo ad purgationem mundi judicium praecedet; sed quo ad aliquem actum, qui scilicet est involvere malos, judicium sequetur.***
+Respondeo dicendum ad primam quaestionem, quod illa conflagratio secundum rei veritatem quantum ad sui initium judicium praecedet: quod ex hinc manifeste colligitur quod mortuorum resurrectio judicium praecedet; quod patet ex hoc quod dicitur 1 Thessal. 4, quod illi etiam qui dormierunt, rapientur in nubibus in aera obviam Christo ad judicium venienti. Simul autem erit resurrectio communis, et corporum sanctorum glorificatio: sancti enim resurgentes corpora gloriosa resument, ut patet per illud quod dicitur 1 Corinth. 15, 43: *seminatur in ignobilitate, surget in gloria*. Simul autem cum corpora sanctorum glorificabuntur; et tota creatura suo modo renovabitur, ut patet per id quod dicitur Rom. 8, 21, quod *ipsa creatura liberabitur a servitute corruptionis in libertatem gloriae filiorum Dei*. Cum ergo conflagratio mundi sit dispositio ad renovationem praedictam, ut ex dictis patet; manifeste potest colligi quod illa conflagratio quo ad purgationem mundi judicium praecedet; sed quo ad aliquem actum, qui scilicet est involvere malos, judicium sequetur.  
 
 Ad primum ergo dicendum, quod Augustinus non loquitur determinando, sed opinando: quod patet ex hoc quod sequitur: *quae omnia quidem ventura esse credendum est; sed quibus modis et quo ordine veniant, magis tunc docebit rerum experientia quam nunc ad perfectum hominis intelligentia valeat consequi. Existimo tamen eo quo a me commemorata sunt ordine esse ventura*. Ergo patet quod hoc dixit opinando.  
 
@@ -524,7 +526,7 @@ Ad quartum dicendum, quod ignis ille non exequitur sententiam judicis nisi quo a
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ignis ille finalis conflagrationis quantum ad hoc quod judicium praecedet, aget ut instrumentum divinae justitiae; et iterum per virtutem naturalem ignis. Quantum ergo pertinet ad virtutem naturalem ipsius, similiter aget in bonos et malos, qui vivi reperientur, utrorumque corpora in cinerem resolvendo; inquantum vero aget ut instrumentum divinae justitiae, diversimode aget in diversos quantum ad sensum poenae. Mali enim per actionem ignis cruciabuntur, boni vero in quibus nihil purgandum invenitur, omnino nullum dolorem ex igne sentient, sicut nec pueri senserunt in camino, Dan. 3; quamvis eorum corpora non serventur integra, sicut puerorum servata fuerunt; et hoc divina virtute fieri poterit, ut sine doloris cruciatu resolutionem corporum patiantur. Boni vero in quibus aliquid purgandum reperietur, sentient cruciatum doloris ex illo igne plus vel minus pro meritorum diversitate. Sed quantum ad actum quem post judicium ille ignis habebit, in damnatos tantum aget: quia omnes boni habebunt corpora impassibilia.***
+Ad secundam quaestionem dicendum, quod ignis ille finalis conflagrationis quantum ad hoc quod judicium praecedet, aget ut instrumentum divinae justitiae; et iterum per virtutem naturalem ignis. Quantum ergo pertinet ad virtutem naturalem ipsius, similiter aget in bonos et malos, qui vivi reperientur, utrorumque corpora in cinerem resolvendo; inquantum vero aget ut instrumentum divinae justitiae, diversimode aget in diversos quantum ad sensum poenae. Mali enim per actionem ignis cruciabuntur, boni vero in quibus nihil purgandum invenitur, omnino nullum dolorem ex igne sentient, sicut nec pueri senserunt in camino, Dan. 3; quamvis eorum corpora non serventur integra, sicut puerorum servata fuerunt; et hoc divina virtute fieri poterit, ut sine doloris cruciatu resolutionem corporum patiantur. Boni vero in quibus aliquid purgandum reperietur, sentient cruciatum doloris ex illo igne plus vel minus pro meritorum diversitate. Sed quantum ad actum quem post judicium ille ignis habebit, in damnatos tantum aget: quia omnes boni habebunt corpora impassibilia.  
 
 Ad primum ergo dicendum, quod consumptio ibi accipitur non pro annihilatione, sed pro resolutione in cineres.  
 
@@ -538,7 +540,7 @@ Ad quintum dicendum, quod tres causae sunt quare subito illi qui vivi reperientu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod tota purgatio mundi et innovatio ad purgationem et innovationem hominis ordinabitur; et ideo oportet ut mundi purgatio et innovatio purgationi et innovationi humani generis respondeat. Humani autem generis purgatio quaedam erit, quando mali segregabantur a bonis; unde dicitur Luc. 3, 17: *cujus ventilabrum est in manus sua, et purgabit aream suam, et congregabit triticum suum*, idest electos, *in horreum suum; paleas autem*, idest reprobos, *comburet igne inextinguibili*. Unde ita erit de purgatione mundi, quod quidquid erit turpe et foedum, in infernum cum reprobis retrudetur; quidquid autem erit pulchrum et nobile, in superioribus reservabitur ad gloriam electorum; et ita etiam erit de illo igne conflagrationis, sicut dicit Basilius super illud Psal. 28: *vox Domini intercidentis flammam ignis*: quia quo ad calidum ustivum, et quantum ad id quod in igne grossum reperietur, descendet ad Inferos ad poenam damnatorum; quod vero est ibi subtile et lucidum, remanebit superius ad gloriam electorum.***
+Ad tertiam quaestionem dicendum, quod tota purgatio mundi et innovatio ad purgationem et innovationem hominis ordinabitur; et ideo oportet ut mundi purgatio et innovatio purgationi et innovationi humani generis respondeat. Humani autem generis purgatio quaedam erit, quando mali segregabantur a bonis; unde dicitur Luc. 3, 17: *cujus ventilabrum est in manus sua, et purgabit aream suam, et congregabit triticum suum*, idest electos, *in horreum suum; paleas autem*, idest reprobos, *comburet igne inextinguibili*. Unde ita erit de purgatione mundi, quod quidquid erit turpe et foedum, in infernum cum reprobis retrudetur; quidquid autem erit pulchrum et nobile, in superioribus reservabitur ad gloriam electorum; et ita etiam erit de illo igne conflagrationis, sicut dicit Basilius super illud Psal. 28: *vox Domini intercidentis flammam ignis*: quia quo ad calidum ustivum, et quantum ad id quod in igne grossum reperietur, descendet ad Inferos ad poenam damnatorum; quod vero est ibi subtile et lucidum, remanebit superius ad gloriam electorum.  
 
 Ad primum ergo dicendum, quod ignis qui purgabit electos ante judicium, erit idem cum igne conflagrationis mundi; quamvis quidam contrarium dicant. Convenit enim ut, cum homo sit pars mundi, eodem igne purgetur homo et mundus. Dicuntur autem duo ignes qui purgabit bonos et qui cruciabit malos, et quantum ad officium, et aliquo modo quantum ad substantiam: quia non tota substantia ignis purgantis in infernum retrudetur, ut dictum est.  
 
@@ -548,7 +550,7 @@ Ad tertium dicendum, quod sicut gloria electorum post judicium erit major quam a
 
 Expositio textus  
 
-****Illi saltem verba judicis audient*, etc. Verba haec accipienda sunt non vocalia, sed mentalia, ut supra dictum est.***
+*Illi saltem verba judicis audient*, etc. Verba haec accipienda sunt non vocalia, sed mentalia, ut supra dictum est.  
 
 *Et peribit caelum et terra non secundum substantiam, sed secundum speciem*. Species hic dicitur corruptibilitas elementorum, et alia quae ad ignobilitatem eorum spectant.  
 

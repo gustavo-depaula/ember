@@ -1,10 +1,12 @@
 # C. 6 - On Life
 
+***On Life***
+
 ***Lectio 1***
 
-***On the Universal Causality of God with Respect to Life and with Respect to Whatever Proprieties of Living in the Angels***
+On the Universal Causality of God with Respect to Life and with Respect to Whatever Proprieties of Living in the Angels  
 
-***285. But concerning those indeed let it have been said more opportunely in other works.***
+285. But concerning those indeed let it have been said more opportunely in other works.  
 
 > C. VI. § 1. Yet now we must praise eternal life, from which is *per se* life and every life and from which to live is disseminated to all things participating life in whatever mode according to the propriety of each.
 
@@ -78,9 +80,9 @@ third, intellectual operation in us cannot be continuous because we cannot alway
 
 Lectio 2  
 
-***On the Divine Causality as Regards the Propriety of Human Life and of Inferior Living Things***
+On the Divine Causality as Regards the Propriety of Human Life and of Inferior Living Things  
 
-***290. Yet giving also to men as commixed, contingent life unto the form of the angels;***
+290. Yet giving also to men as commixed, contingent life unto the form of the angels;  
 
 > 291. and the super-emanation of goodness, and converting us, receding, and calling back to itself.
 

@@ -1,6 +1,8 @@
 # D. 40 - On consanguinity
 
-***Postquam determinavit Magister de impedimento matrimonii, quo persona redditur illegitima simpliciter respectu alicujus personae propter distantiam ad ipsam, hic incipit determinare de impedimentis quibus persona redditur simpliciter illegitima respectu alterius propter propinquitatem ad eam; et dividitur in partes duas: in prima determinat de impedimento propinquitatis carnalis; in secunda de impedimento propinquitatis spiritualis, 42 dist., ibi: *jam de spirituali cognatione addamus*.***
+***De consanguinitate***
+
+Postquam determinavit Magister de impedimento matrimonii, quo persona redditur illegitima simpliciter respectu alicujus personae propter distantiam ad ipsam, hic incipit determinare de impedimentis quibus persona redditur simpliciter illegitima respectu alterius propter propinquitatem ad eam; et dividitur in partes duas: in prima determinat de impedimento propinquitatis carnalis; in secunda de impedimento propinquitatis spiritualis, 42 dist., ibi: *jam de spirituali cognatione addamus*.  
 
 Prima in duas: in prima determinat de consanguinitate; in secunda de affinitate, 41 dist., ibi: *nunc de affinitate videndum est*.  
 
@@ -25,7 +27,7 @@ primo, quid sit consanguinitas;
 
 ***Quid sit consanguinitas***
 
-***Ad primum sic proceditur. Videtur quod definitio consanguinitatis quam quidam ponunt, sit incompetens, scilicet: *consanguinitas est vinculum ab eodem stipite descendentium carnali propagatione contractum*. Omnes enim homines ab eodem stipite carnali propagatione descendunt, scilicet ab Adam. Si ergo recta esset praedicta definitio consanguinitatis, omnes homines essent consanguinei ad invicem; quod falsum est.***
+Ad primum sic proceditur. Videtur quod definitio consanguinitatis quam quidam ponunt, sit incompetens, scilicet: *consanguinitas est vinculum ab eodem stipite descendentium carnali propagatione contractum*. Omnes enim homines ab eodem stipite carnali propagatione descendunt, scilicet ab Adam. Si ergo recta esset praedicta definitio consanguinitatis, omnes homines essent consanguinei ad invicem; quod falsum est.  
 
 Praeterea, vinculum non potest esse nisi aliquorum ad invicem convenientium, quia vinculum unit. Sed eorum qui descendunt ab uno stipite, non est major convenientia ad invicem quam aliorum hominum, cum conveniant specie, et differant numero, sicut et alii homines. Ergo consanguinitas non est aliquod vinculum.  
 
@@ -53,7 +55,7 @@ Articulus 2
 
 ***De distinctione ipsius***
 
-***Ad secundum sic proceditur. Videtur quod consanguinitas inconvenienter distinguatur per lineas et per gradus. Dicitur enim linea consanguinitatis esse *ordinata collectio personarum consanguinitate conjunctarum ab eodem stipite descendentium, diversos continens gradus*. Sed nihil est aliud consanguinitas quam collectio talium personarum. Ergo linea consanguinitatis est idem quod consanguinitas. Nihil autem debet distingui per seipsum. Ergo consanguinitas non convenienter per lineas distinguitur.***
+Ad secundum sic proceditur. Videtur quod consanguinitas inconvenienter distinguatur per lineas et per gradus. Dicitur enim linea consanguinitatis esse *ordinata collectio personarum consanguinitate conjunctarum ab eodem stipite descendentium, diversos continens gradus*. Sed nihil est aliud consanguinitas quam collectio talium personarum. Ergo linea consanguinitatis est idem quod consanguinitas. Nihil autem debet distingui per seipsum. Ergo consanguinitas non convenienter per lineas distinguitur.  
 
 Praeterea, illud secundum quod dividitur aliquod commune, non potest poni in definitione communis. Sed descensus ponitur in definitione praedicta consanguinitatis. Ergo non potest dividi consanguinitas per lineam ascendentium et descendentium et transversalium.  
 
@@ -95,7 +97,7 @@ Articulus 3
 
 ***Utrum secundum aliquos gradus impediat matrimonium de jure naturali***
 
-***Ad tertium sic proceditur. Videtur quod consanguinitas de jure naturali non impediat matrimonium. Nulla enim mulier potest esse propinquior viro quam Eva fuit Adae, de qua dicitur Genes. 2, 23: *hoc nunc os ex ossibus meis, et caro de carne mea*. Sed Eva fuit matrimonio conjuncta Adae. Ergo consanguinitas nulla, quantum est de lege naturae, matrimonium impedit.***
+Ad tertium sic proceditur. Videtur quod consanguinitas de jure naturali non impediat matrimonium. Nulla enim mulier potest esse propinquior viro quam Eva fuit Adae, de qua dicitur Genes. 2, 23: *hoc nunc os ex ossibus meis, et caro de carne mea*. Sed Eva fuit matrimonio conjuncta Adae. Ergo consanguinitas nulla, quantum est de lege naturae, matrimonium impedit.  
 
 Praeterea, lex naturalis eadem est apud omnes. Sed apud barbaras nationes nulla persona conjuncta consanguinitate a matrimonio excluditur. Ergo consanguinitas, quantum est de lege naturae, matrimonium non impedit.  
 
@@ -127,7 +129,7 @@ Articulus 4
 
 ***Utrum gradus matrimonium impedientes possint per statutum Ecclesiae determinari***
 
-***Ad quartum sic proceditur. Videtur quod consanguinitatis gradus matrimonium impedientes non potuerint taxari ab Ecclesia usque ad quartum gradum. Matth. 19, 6, dicitur: *quos Deus conjunxit, homo non separet*. Sed illos qui conjunguntur infra quartum consanguinitatis gradum, Deus conjungit; non enim divina lege eorum conjunctio prohibetur. Ergo non debent humano statuto separari.***
+Ad quartum sic proceditur. Videtur quod consanguinitatis gradus matrimonium impedientes non potuerint taxari ab Ecclesia usque ad quartum gradum. Matth. 19, 6, dicitur: *quos Deus conjunxit, homo non separet*. Sed illos qui conjunguntur infra quartum consanguinitatis gradum, Deus conjungit; non enim divina lege eorum conjunctio prohibetur. Ergo non debent humano statuto separari.  
 
 Praeterea, matrimonium est sacramentum, sicut et baptismus. Sed non posset ex statuto Ecclesiae fieri quod ille qui ad baptismum accedit, non reciperet characterem baptismalem, si ex jure divino ejus capax sit. Ergo nec Ecclesiae statutum facere potest quod matrimonium non sit inter illos qui per jus divinum matrimonialiter conjungi non prohibentur.  
 
@@ -169,6 +171,6 @@ Ad septimum dicendum, quod in gradibus consanguinitatis prohibendis Ecclesia pra
 
 Expositio textus  
 
-****Quia truncum inter gradus non computat*. Truncum appellat consanguinitatis radicem, qui est pater filiorum. Principium autem alicujus generis potest accipi dupliciter. Uno modo principium quod est in genere illo; ut si primam partem lineae principium dicamus. Alio modo principium, quia non recipit generis praedicationem, sicut principium lineae dicitur punctus; et hoc modo principium et radix consanguinitatis potest dici dupliciter. Uno modo ipsa persona prima a qua consanguinitas dicitur, quae persona non est consanguinitas, sed consanguinitatis principium; et secundum hoc filius qui distat a persona patris, facit primae distantiae gradum, et filius filii secundum, et sic deinceps. Alio modo prima consanguinitas quae est causa omnis alterius consanguinitatis; et sic ipsa consanguinitas quae est inter patrem et filium, radix ponitur, et computantur secundum hoc pater et filius pro uno principio, a quorum consanguinitate primo distat filius filii; et ideo haec distantia facit primum gradum, et sic deinceps; et secundum hoc diversimode fit computatio graduum in littera. Sed primus modus computandi magis est in communi usu.***
+*Quia truncum inter gradus non computat*. Truncum appellat consanguinitatis radicem, qui est pater filiorum. Principium autem alicujus generis potest accipi dupliciter. Uno modo principium quod est in genere illo; ut si primam partem lineae principium dicamus. Alio modo principium, quia non recipit generis praedicationem, sicut principium lineae dicitur punctus; et hoc modo principium et radix consanguinitatis potest dici dupliciter. Uno modo ipsa persona prima a qua consanguinitas dicitur, quae persona non est consanguinitas, sed consanguinitatis principium; et secundum hoc filius qui distat a persona patris, facit primae distantiae gradum, et filius filii secundum, et sic deinceps. Alio modo prima consanguinitas quae est causa omnis alterius consanguinitatis; et sic ipsa consanguinitas quae est inter patrem et filium, radix ponitur, et computantur secundum hoc pater et filius pro uno principio, a quorum consanguinitate primo distat filius filii; et ideo haec distantia facit primum gradum, et sic deinceps; et secundum hoc diversimode fit computatio graduum in littera. Sed primus modus computandi magis est in communi usu.  
 
 *Sicut sex aetatibus mundi generatio et hominis status finitur; ita propinquitas generis tot gradibus terminetur*. Mundo non assignantur aetates quantum ad substantiam, quia sic in perpetuum durabit; sed quantum ad statum; sic enim transibit mundus, et sic antiquatur et senescit; et secundum hoc distinguuntur aetates mundi metaphorice ad similitudinem aetatis unius hominis. Variantur enim in homine aetates secundum diversas notabiles varietates in statu ipsius; unde prima aetas dicitur infantia usque ad septimum annum; secunda pueritia usque ad quartumdecimum; tertia adolescentia usque ad vigesimum quintum; quae tres aetates computantur quandoque pro una; quarta est juventus usque ad quinquaginta annos; quinta vero aetas est senectus usque ad septuaginta; sexta senium usque in finem. Et similiter in mundo dicitur prima aetas ab Adam usque ad Noe, in qua fuit humani generis institutio et lapsus; secunda a Noe usque ad Abraham, in qua fuit humani generis destructio per diluvium, et renovatio; tertia ab Abraham usque ad David, in qua fuit circumcisionis institutio; quarta a David usque ad transmigrationem Babylonis, in qua lex floruit sub regibus et prophetis; quinta a transmigratione Babylonis usque ad Christum, in qua fuit populi captivatio et liberatio; sexta a Christo usque ad finem, in qua est humani generis redemptio. Sed tamen non oportet quod aequali numero annorum mundi aetas humani generis compleatur, sicut nec aetas unius hominis; quia ultima aetas hominis quandoque habet tantum quantum omnes primae.

@@ -1,5 +1,7 @@
 # Chapter 19
 
+^19:1^ Onus Ægypti. Ecce Dominus ascendet super nubem levem et ingredietur Ægyptum, et movebuntur simulacra Ægypti a facie ejus, et cor Ægypti tabescet in medio ejus.  
+
 > ^19:2^ Et concurrere faciam Ægyptios adversus Ægyptios, et pugnabit vir contra fratrem suum, et vir contra amicum suum, civitas adversus civitatem, regnum adversus regnum.
 
 > ^19:3^ Et dirumpetur spiritus Ægypti in visceribus ejus, et consilium ejus præcipitabo, et interrogabunt simulacra sua et divinos suos et pythones suos et ariolos.

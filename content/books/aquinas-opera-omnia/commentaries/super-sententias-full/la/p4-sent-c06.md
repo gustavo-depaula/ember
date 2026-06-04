@@ -1,8 +1,10 @@
 # D. 26 - Grace
 
+***De gratia***
+
 ***Divisio textus***
 
-***Ostenso quam scientiam et quam potentiam homo in primo statu habuit, hic ostendit quam gratiam accepit; et dividitur in partes duas:***
+Ostenso quam scientiam et quam potentiam homo in primo statu habuit, hic ostendit quam gratiam accepit; et dividitur in partes duas:  
 
 in prima determinat de gratia in se;  
 
@@ -156,7 +158,7 @@ Articulus 3
 
 ***Utrum gratia sit in potentia animae sicut in subjecto***
 
-***Ad tertium sic proceditur. Videtur quod gratia sit in potentia animae sicut in subjecto.***
+Ad tertium sic proceditur. Videtur quod gratia sit in potentia animae sicut in subjecto.  
 
 Illud enim quod naturalibus superadditur, inter naturalem causam et effectum medium non cadit. Sed gratia naturalibus superadditur. Cum igitur potentia sit effectus naturalis ipsius essentiae, videtur quod gratia non cadat medium inter essentiam et potentiam; et ita non sit in essentia sicut in subjecto, sed magis in potentia.  
 
@@ -232,7 +234,7 @@ Articulus 5
 
 ***Utrum gratia dividatur convenienter in gratiam operantem et cooperantem***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter gratia per operantem et cooperantem dividatur.***
+Ad quintum sic proceditur. Videtur quod inconvenienter gratia per operantem et cooperantem dividatur.  
 
 Quia, ut dictum est, gratia non per se respicit opus. Sed unumquodque dividendum est secundum hoc quod sibi per se convenit, ut in 7 *Metaph*., dicitur. Ergo videtur, cum operans et cooperans respectu operis dicantur, quod inconvenienter gratia per haec duo distinguatur.  
 
@@ -306,7 +308,7 @@ Ad quintum dicendum, quod gratia in diversis sacramentis datur ad diversos effec
 
 Expositio textus  
 
-****Haec est gratia operans et cooperans*, de qua scilicet supra mentionem fecit cum dixit: *ipsa gratia praevenit ut pie vivamus, et subsequitur ut semper cum illo vivamus*.***
+*Haec est gratia operans et cooperans*, de qua scilicet supra mentionem fecit cum dixit: *ipsa gratia praevenit ut pie vivamus, et subsequitur ut semper cum illo vivamus*.  
 
 *Voluntas est animi motus cogente nullo ad aliquid non admittendum vel adipiscendum*. Sciendum quod hic non definit voluntatem quae est potentia, sed voluntatem quae est actus; hoc enim commune est fere in omnibus potentiis animae, ut eodem nomine potentia et actus nominetur: et sic fere per totum hic voluntas accipitur.  
 

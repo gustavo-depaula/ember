@@ -1,10 +1,12 @@
 # C. 12 - On Holy of Holies; King of Kings; Lord of Lords; God of Gods
 
+***De Sancto sanctorum; Rege regum; Domino dominorum; Deo deorum***
+
 ***Lectio 1***
 
 ***Exponuntur nomina quae designant rerum gubernationem***
 
-***C. XII, §1. 427. Sed quoniam et de istis quaecumque dicere oportebat, convenientem, ut arbitror, acceperunt finem, laudare nos convenit Eum qui est infinitorum-nominum et sicut Sanctum sanctorum et Regem regnantium et Regnatorem saeculorum et in saecula et adhuc, ut Dominum dominorum et Deum deorum. Et primum quidem est dicendum quid quidem per se sanctitatem esse arbitramur, quid autem regnum, quid autem dominationem, quid autem divinitatem et quid volunt monstrare eloquia duplicatione nominum.***
+C. XII, §1. 427. Sed quoniam et de istis quaecumque dicere oportebat, convenientem, ut arbitror, acceperunt finem, laudare nos convenit Eum qui est infinitorum-nominum et sicut Sanctum sanctorum et Regem regnantium et Regnatorem saeculorum et in saecula et adhuc, ut Dominum dominorum et Deum deorum. Et primum quidem est dicendum quid quidem per se sanctitatem esse arbitramur, quid autem regnum, quid autem dominationem, quid autem divinitatem et quid volunt monstrare eloquia duplicatione nominum.  
 
 > §2. 428. Igitur sanctitas quidem est, ut secundum nos dicatur, ab omni immunditia libera et perfecta et omnino immaculata munditia;
 

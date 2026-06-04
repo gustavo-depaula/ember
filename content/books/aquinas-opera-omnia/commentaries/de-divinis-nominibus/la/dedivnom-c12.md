@@ -1,10 +1,12 @@
 # C. 11 - On Peace; And What Per Se Being Means; What Per Se Life; And What Per Se Virtue; And What Are Said Thus
 
+De pace; et quid vult per se esse; quae per se vita; et quae per se virtus; et quae ita dicuntur  
+
 ***Lectio 1***
 
 ***De divina pace et de eius causalitate in communi***
 
-***C. XI, §1. 399. Age, igitur, divinam et principem congregationis pacem hymnis pacificis laudemus.***
+C. XI, §1. 399. Age, igitur, divinam et principem congregationis pacem hymnis pacificis laudemus.  
 
 > 400. Ipsa enim est omnium unitiva et universorum consensus et connaturalitatis generativa et operativa;
 
@@ -112,7 +114,7 @@ Lectio 2
 
 ***De causalitate divinae pacis in speciali***
 
-***405. Igitur de ipsa quidem divina pace, quodcumque est, et silentio et quod sanctus Iustus ineffabilitatem vocat et ad omnem cognitum processum immobilitatem et quomodo quiescit et silentium agit et quomodo in seipsa et intra seipsam est et ad seipsam totam, tota superunita est et neque ad seipsam ingrediens et multiplicans seipsam, derelinquit sui ipsius unitionem, sed et procedit ad omnia, intus tota manens, per excessum omnia superantis unitionis, neque dicere neque cogitare alicui existentium neque est fas neque possibile, sed sicut ineffabile et hoc et ignotum ipsi attribuentes sicut existenti super omnia, intelligibiles ipsius et dictas participationes, et hoc ut est possibile viris et nobis a multis bonis viris deficientibus, inspiciemus.***
+405. Igitur de ipsa quidem divina pace, quodcumque est, et silentio et quod sanctus Iustus ineffabilitatem vocat et ad omnem cognitum processum immobilitatem et quomodo quiescit et silentium agit et quomodo in seipsa et intra seipsam est et ad seipsam totam, tota superunita est et neque ad seipsam ingrediens et multiplicans seipsam, derelinquit sui ipsius unitionem, sed et procedit ad omnia, intus tota manens, per excessum omnia superantis unitionis, neque dicere neque cogitare alicui existentium neque est fas neque possibile, sed sicut ineffabile et hoc et ignotum ipsi attribuentes sicut existenti super omnia, intelligibiles ipsius et dictas participationes, et hoc ut est possibile viris et nobis a multis bonis viris deficientibus, inspiciemus.  
 
 > §2. 406. Et primum quidem hoc est dicendum, quod ipsam per se pacem et totam et particularem subsistere facit,
 
@@ -230,9 +232,9 @@ Non enim tota linea est unum cum tota, quia sic oporteret quod quaelibet pars li
 
 Lectio 3  
 
-***Excluduntur obiectiones quaedam et determinatur de pace facta per Christi Incarnationem***
+Excluduntur obiectiones quaedam et determinatur de pace facta per Christi Incarnationem  
 
-***§3. 414. Quomodo autem, dicat aliquis, desiderant omnia pacem? Multa enim alteritate et discretione gaudent et non aliquando velint sponte quiescere.***
+§3. 414. Quomodo autem, dicat aliquis, desiderant omnia pacem? Multa enim alteritate et discretione gaudent et non aliquando velint sponte quiescere.  
 
 > 415. Et si quidem dicens hoc, dicit alteritatem et discretionem uniuscuiusque existentium proprietatem et quod hanc neque unum existentium existens quod est velit aliquando perdere, non quidem neque nos ad hoc contradicemus, sed et hoc pacis desiderium esse nuntiamus: omnia enim diligunt ad seipsa et pacem habere et uniri et sua et quae sunt suorum esse immobilia et cadere non valentia,
 
@@ -308,7 +310,7 @@ Lectio 4
 
 ***De divinis perfectionibus secundum quod per se in abstracto considerantur***
 
-***§ 6. 421. Sed quoniam et alibi per epistolam me interrogasti: quid forte dicam per se esse, per se vitam et per se esse sapientiam et ad teipsum dixisti dubitasse quomodo Deum aliquando quidem per se vitam dico aliquando autem per se vitae substantificatorem, necessarium arbitratus sum, sancte Dei vir, et ab hac dubitatione in nobis te absolvere.***
+§ 6. 421. Sed quoniam et alibi per epistolam me interrogasti: quid forte dicam per se esse, per se vitam et per se esse sapientiam et ad teipsum dixisti dubitasse quomodo Deum aliquando quidem per se vitam dico aliquando autem per se vitae substantificatorem, necessarium arbitratus sum, sancte Dei vir, et ab hac dubitatione in nobis te absolvere.  
 
 > 422. Et primum quidem, ut multipliciter dicta et nunc assumam, non est contrarium per se virtutem aut per se vitam dicere Deum et per se vitae aut pacis aut virtutis substantificatorem: haec enim quidem ex existentibus et maxime ex primo existentibus, sicut causa omnium existentium dicitur; illa autem sicut super omnia et etiam quae prius sunt superexistens supersubstantialiter.
 

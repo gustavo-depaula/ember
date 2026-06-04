@@ -1,20 +1,22 @@
 # Prayers in Honor of the Eucharist
 
-***O quam suavis est, Domine, Spiritus tuus, qui ut dulcedinem tuam in filios demonstrares, pane suavissimo de caelo praestito, esurientes reples bonis, fastidiosos divites dimittis inanes.***
+***Orationes ex officio Corporis Christi desumptae***
 
-***O sacrum convivium, in quo Christus sumitur: recolitur memoria passionis eius: mens impletur gratia: et futurae gloriae nobis pignus datur.***
+O quam suavis est, Domine, Spiritus tuus, qui ut dulcedinem tuam in filios demonstrares, pane suavissimo de caelo praestito, esurientes reples bonis, fastidiosos divites dimittis inanes.  
 
-***Memoriam fecit mirabilium suorum misericors et miserator Dominus, escam dedit timentibus se.***
+O sacrum convivium, in quo Christus sumitur: recolitur memoria passionis eius: mens impletur gratia: et futurae gloriae nobis pignus datur.  
 
-***Deus, qui nobis sub sacramento mirabili passionis tuae memoriam reliquisti; tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas [cum Deo Patre in unitate Spiritus Sancti Deus per omnia saecula saeculorum.] Amen.***
+Memoriam fecit mirabilium suorum misericors et miserator Dominus, escam dedit timentibus se.  
 
-***Ecclesiae tuae, quaesumus, Domine, unitatis et pacis propitius dona concede, quae sub oblatis muneribus mystice designantur. Per Dominum nostrum Iesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.***
+Deus, qui nobis sub sacramento mirabili passionis tuae memoriam reliquisti; tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas [cum Deo Patre in unitate Spiritus Sancti Deus per omnia saecula saeculorum.] Amen.  
 
-***Fac nos, quaesumus, Domine, divinitatis tuae sempiterna fruitione repleri, quam pretiosi corporis et sanguinis tui temporalis perceptio praefigurat. Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus per omnia saecula saeculorum. Amen.***
+Ecclesiae tuae, quaesumus, Domine, unitatis et pacis propitius dona concede, quae sub oblatis muneribus mystice designantur. Per Dominum nostrum Iesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.  
+
+Fac nos, quaesumus, Domine, divinitatis tuae sempiterna fruitione repleri, quam pretiosi corporis et sanguinis tui temporalis perceptio praefigurat. Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus per omnia saecula saeculorum. Amen.  
 
 In elevatione Corporis Christi  
 
-***O salutaris Hostia, quae caeli pandis ostium, bella premunt hostilia, da robur, fer auxilium.***
+O salutaris Hostia, quae caeli pandis ostium, bella premunt hostilia, da robur, fer auxilium.  
 
 In elevatione Corporis christi, consueverat dicere cum magna devotione et lacrimis  
 

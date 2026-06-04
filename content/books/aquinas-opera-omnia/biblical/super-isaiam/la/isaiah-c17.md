@@ -1,5 +1,7 @@
 # Chapter 15
 
+^15:1^ Onus Moab. Quia nocte vastata est Ar Moab conticuit; quia nocte vastatus est murus Moab conticuit.  
+
 > ^15:2^ Ascendit domus et Dibon ad excelsa in planctum, super Nabo et super Medaba Moab ululavit. In cunctis capitibus ejus calvitium, et omnis barba radetur.
 
 > ^15:3^ In triviis ejus accincti sunt sacco, super tecta ejus et in plateis ejus omnis ululatus descendit in fletum.

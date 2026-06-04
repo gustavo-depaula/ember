@@ -1,5 +1,7 @@
 # C. 2 - Israel’s idolatry condemned
 
+***Israel’s idolatry condemned***
+
 ***Lecture 1***
 
 ***God’s love for Israel***
@@ -100,7 +102,7 @@ Lecture 2
 
 ***The sins of the fathers***
 
-***^2:4^ Hear the word of the Lord, O house of Jacob, and all the families of the house of Israel.***
+^2:4^ Hear the word of the Lord, O house of Jacob, and all the families of the house of Israel.  
 
 > ^2:5^ Thus says the Lord: what iniquity did your fathers find in me? For they have departed from me, and walked after vanity, and have become empty.
 
@@ -146,7 +148,7 @@ Lecture 3
 
 ***Infidelity and idolatry***
 
-***^2:9^ Therefore, I shall still contend with you in judgment, says the Lord, and with your sons I will debate.***
+^2:9^ Therefore, I shall still contend with you in judgment, says the Lord, and with your sons I will debate.  
 
 > ^2:10^ Cross over to the isles of the Cethim and see; and send to Cedar and consider diligently; and see if there is a deed of this kind:
 
@@ -174,7 +176,7 @@ Lecture 4
 
 ***Israel’s exile is due to guilt***
 
-***^2:14^ Is Israel not my servant, or my home-born slave? Why, therefore, have you become prey?***
+^2:14^ Is Israel not my servant, or my home-born slave? Why, therefore, have you become prey?  
 
 > ^2:15^ The lions have roared over him, and sent forth their voice: they have made his land a desolation. His cities are burned, and there is none who may live in them.
 
@@ -212,7 +214,7 @@ Lecture 5
 
 ***Obstinance in idolatry***
 
-***^2:20^ From of old you have broken my yoke, you have burst my chains asunder, and you have said, ‘I will not serve.’ On every high hill, and under every leafy tree you have lain as a harlot.***
+^2:20^ From of old you have broken my yoke, you have burst my chains asunder, and you have said, ‘I will not serve.’ On every high hill, and under every leafy tree you have lain as a harlot.  
 
 > **10**. Here, he shows that sin is multiplied by an obstinate mind:
 
@@ -224,7 +226,7 @@ Lecture 6
 
 ***Removal of excuses***
 
-***^2:21^ But I have planted you as my chosen vine, every seed true: how, then, have you become for me a perversion, a foreign vine?***
+^2:21^ But I have planted you as my chosen vine, every seed true: how, then, have you become for me a perversion, a foreign vine?  
 
 > ^2:22^ If you were to wash yourself with natron, and multiplied the herb berith unto yourself, still you would be stained with your iniquity before me, says the Lord.
 
@@ -302,7 +304,7 @@ Lecture 7
 
 ***Vain correction***
 
-***^2:29^ Why do you wish to contend with me in judgment? You have all left me, says the Lord.***
+^2:29^ Why do you wish to contend with me in judgment? You have all left me, says the Lord.  
 
 > ^2:30^ In vain have I struck your children; they have not received correction. Your sword has swallowed up your prophets; like a wasting lion is your generation.
 
@@ -316,7 +318,7 @@ Lecture 8
 
 ***Refusal of kindnesses***
 
-***^2:31^ See the word of the Lord: have I become a wilderness to Israel, or a barren land?Literally, a late-ripening land. Why, therefore, has my people said, ‘We have withdrawn; we will come no more to you’?***
+^2:31^ See the word of the Lord: have I become a wilderness to Israel, or a barren land?Literally, a late-ripening land. Why, therefore, has my people said, ‘We have withdrawn; we will come no more to you’?  
 
 > ^2:32^ Can a virgin forget her ornament, or a bride the fillet about her breast? But my people have forgotten me days without number.
 
@@ -330,7 +332,7 @@ Lecture 9
 
 ***Murder of the poor***
 
-***^2:33^ Why do you strive to show your way good to find love? Moreover you have taught malice to be your ways.Jerome seems to misconstrue the Hebrew significantly: מַה־תֵיטִ֥בִי דַרְכֵ֖ךְ לְבַקֵ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַ֣ם אֶת־הָרָעֹ֔ות לִמַ֖דְתְ אֶת־דְרָכָֽיִךְ: *why do you beautify your way to seek love; therefore, you have taught even wicked women your way*. His error was to read הָרָעֹ֔ות as a feminine plural adjective, here used substantively, as an adjective modifying דְרָכָֽיִךְ, a masculine singular noun. The resultant verse in Latin is nonsensical.***
+^2:33^ Why do you strive to show your way good to find love? Moreover you have taught malice to be your ways.Jerome seems to misconstrue the Hebrew significantly: מַה־תֵיטִ֥בִי דַרְכֵ֖ךְ לְבַקֵ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַ֣ם אֶת־הָרָעֹ֔ות לִמַ֖דְתְ אֶת־דְרָכָֽיִךְ: *why do you beautify your way to seek love; therefore, you have taught even wicked women your way*. His error was to read הָרָעֹ֔ות as a feminine plural adjective, here used substantively, as an adjective modifying דְרָכָֽיִךְ, a masculine singular noun. The resultant verse in Latin is nonsensical.  
 
 > ^2:34^ And on your wings is the blood of the souls of the poor and the innocent found? I have not found them in ditches, but in every place which I mentioned above.
 
@@ -372,6 +374,6 @@ Lecture 10
 
 Collations  
 
-***Note that here sin is called ***vanity*** (Jer 2:5), because it chooses what is only imaginary. *Blessed is the man whose hope is in the name of the Lord, who does not consider vanities and false hopes* (Ps 30:5). Because it considers permanent what is only transitory. *Their days have departed in vanity, and their years with haste* (Ps 78:33). Because it is deceitful in its expectation. *Vain hope and a lie belong to a senseless man, and dreams lift up fools* (Sir 34:1). Because its results bear no fruit. *In vain have I labored, I have spent my strength without cause, and in vain* (Isa 49:4).***
+Note that here sin is called ***vanity*** (Jer 2:5), because it chooses what is only imaginary. *Blessed is the man whose hope is in the name of the Lord, who does not consider vanities and false hopes* (Ps 30:5). Because it considers permanent what is only transitory. *Their days have departed in vanity, and their years with haste* (Ps 78:33). Because it is deceitful in its expectation. *Vain hope and a lie belong to a senseless man, and dreams lift up fools* (Sir 34:1). Because its results bear no fruit. *In vain have I labored, I have spent my strength without cause, and in vain* (Isa 49:4).  
 
 One must also note that sacramental purity is ***a source of water*** (Jer 2:13): *after these waters shall have come there, everything shall be healed and live, wherever the torrent comes* (Ezek 47:9). The waters of restored doctrine: *let all who thirst come to the waters, and those without money, make haste, buy and eat* (Isa 55:1). The waters of restoring grace: *it will become in him a well of water springing up to eternal life* (John 4:14). The waters of resplendent glory: *he showed me a river of living water, shining like crystal, coming forth from the throne of God and of the Lamb* (Rev 22:1).

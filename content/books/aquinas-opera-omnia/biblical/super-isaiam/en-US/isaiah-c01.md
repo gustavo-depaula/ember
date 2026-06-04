@@ -1,6 +1,8 @@
 # Prologue of St. Thomas
 
-***Write the vision, and make it plain upon tables: that he who reads it may run through it. For as yet the vision is far off, but it shall appear at the end.***
+***Habakkuk 2:2–3***
+
+Write the vision, and make it plain upon tables: that he who reads it may run through it. For as yet the vision is far off, but it shall appear at the end.  
 
 > **1**. From these words, we can understand three things about the book of the prophet Isaiah, which we have at hand: the author, the manner, and the subject matter.
 

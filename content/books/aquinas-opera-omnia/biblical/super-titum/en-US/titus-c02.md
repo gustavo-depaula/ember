@@ -1,10 +1,12 @@
 # C. 1 - Ministers Against the Reprobate
 
+***Ministers Against the Reprobate***
+
 ***Lecture 1***
 
 ***Greeting***
 
-***^1:1^ Paul, a servant of God and an apostle of Jesus Christ, according to the faith of the elect of God and the acknowledging of the truth, which is according to godliness: [n. 3]***
+^1:1^ Paul, a servant of God and an apostle of Jesus Christ, according to the faith of the elect of God and the acknowledging of the truth, which is according to godliness: [n. 3]  
 
 > ^1:2^ Unto the hope of life everlasting, which God, who does not lie, has promised before the times of the world: [n. 6]
 
@@ -66,7 +68,7 @@ Lecture 2
 
 ***Ordination of priests***
 
-***^1:5^ For this cause I left you in Crete: that you should set in order the things that are wanting and should ordain elders in every city, as I also appointed you: [n. 10]***
+^1:5^ For this cause I left you in Crete: that you should set in order the things that are wanting and should ordain elders in every city, as I also appointed you: [n. 10]  
 
 > ^1:6^ If anyone is without crime, the husband of one wife, having faithful children, not open to the charge of being profligate or insubordinate. [n. 13]
 
@@ -148,7 +150,7 @@ Lecture 3
 
 ***Reprobation of heretics***
 
-***^1:9^ Embracing that faithful word which is according to doctrine, that he may be able to exhort in sound doctrine and to convince those who contradict it. [n. 21]***
+^1:9^ Embracing that faithful word which is according to doctrine, that he may be able to exhort in sound doctrine and to convince those who contradict it. [n. 21]  
 
 > ^1:10^ For there are also many disobedient, vain talkers and seducers: especially they who are of the circumcision: [n. 25]
 
@@ -232,7 +234,7 @@ Lecture 4
 
 ***Lying men***
 
-***^1:13^ This testimony is true. [n. 32] Wherefore, rebuke them sharply, that they may be sound in the faith: [n. 33]***
+^1:13^ This testimony is true. [n. 32] Wherefore, rebuke them sharply, that they may be sound in the faith: [n. 33]  
 
 > ^1:14^ Not giving heed to Jewish fables and commandments of men who turn themselves away from the truth. [n. 36]
 

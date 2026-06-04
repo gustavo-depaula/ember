@@ -1,5 +1,7 @@
 # Chapter 28
 
+^28:1^ Woe to the crown of pride, to the drunkards of Ephraim, and to the fading flower the glory his joy, who were on the head of the fat valley, staggering with wine.  
+
 > ^28:2^ Behold the Lord is mighty and strong, as a storm of hail: a destroying whirlwind, as the violence of many waters overflowing, and sent forth upon a spacious land.
 
 > ^28:3^ The crown of pride of the drunkards of Ephraim shall be trodden under feet.

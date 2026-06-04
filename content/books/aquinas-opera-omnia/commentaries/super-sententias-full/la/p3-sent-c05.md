@@ -1,8 +1,10 @@
 # D. 4 - Condition of the angels with regard to glory and wretchedness
 
+***Quales effecti sunt quantum ad gloriam vel miseriam***
+
 ***Divisio textus***
 
-***Ostenso quales fuerunt angeli in principio suae creationis quantum ad naturam, et quantum ad culpam et innocentiam, hic inquirit quales fuerunt quantum ad gloriam et miseriam; et dividitur in partes tres:***
+Ostenso quales fuerunt angeli in principio suae creationis quantum ad naturam, et quantum ad culpam et innocentiam, hic inquirit quales fuerunt quantum ad gloriam et miseriam; et dividitur in partes tres:  
 
 in prima movet quaestionem;  
 
@@ -80,7 +82,7 @@ Articulus 2
 
 ***Utrum angeli praesciverint suam miseriam vel beatitudinem***
 
-***Ad secundum sic proceditur. Videtur quod angeli suam miseriam vel beatitudinem praesciverunt.***
+Ad secundum sic proceditur. Videtur quod angeli suam miseriam vel beatitudinem praesciverunt.  
 
 Sicut enim angeli ita et hominis miseria est per peccatum. Sed homini suum peccatum quandoque praenuntiatur, sicut Dominus Petro futurum peccatum praedixit, ut legitur Matth. 26:75. Ergo videtur quod etiam angelis suum casum praenuntiare debuerit.  
 
@@ -144,6 +146,6 @@ Qui autem aliam opinionem sustinent, respondent ad auctoritates, exponentes grat
 
 Expositio textus  
 
-****Qui sui eventus ignari fuerunt*. Est enim de ratione felicitatis ut felix ea quae ad ipsum pertinent, non ignoret; quamvis non requiratur ad eam omnium scientiam habere.***
+*Qui sui eventus ignari fuerunt*. Est enim de ratione felicitatis ut felix ea quae ad ipsum pertinent, non ignoret; quamvis non requiratur ad eam omnium scientiam habere.  
 
 *Universaliter autem et summe perfectum est cui nihil unquam deest*. Huic consonat quod Philosophus dicit in 5 *Metaph*., illud esse simpliciter perfectum quod habet in se omnes perfectiones quae in generibus rerum inveniuntur; et hanc perfectionem ibidem Commentator dicit esse in Deo.

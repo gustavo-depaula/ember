@@ -1,10 +1,12 @@
 # C. 2 - Prayers and Obedience
 
+***Orationes et Obedientia***
+
 ***Lectio 1***
 
 ***Orationes pro omnibus hominibus***
 
-***^2:1^ Obsecro igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones, [n. 55] pro omnibus hominibus: [n. 57]***
+^2:1^ Obsecro igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones, [n. 55] pro omnibus hominibus: [n. 57]  
 
 > ^2:2^ pro regibus, et omnibus qui in sublimitate sunt, ut quietam et tranquillam vitam agamus in omni pietate, et castitate:
 
@@ -112,7 +114,7 @@ Lectio 2
 
 ***Modestas feminarum***
 
-***^2:6^ Qui dedit redemptionem semetipsum pro omnibus, testimonium temporibus suis: [n. 65]***
+^2:6^ Qui dedit redemptionem semetipsum pro omnibus, testimonium temporibus suis: [n. 65]  
 
 > ^2:7^ in quo positus sum ego praedicator, et apostolus (veritatem dico, non mentior) doctor gentium in fide, et veritate. [n. 67]
 

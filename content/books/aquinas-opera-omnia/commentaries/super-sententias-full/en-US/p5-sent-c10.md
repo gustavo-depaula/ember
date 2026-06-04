@@ -1,8 +1,10 @@
 # D. 9 - What belongs to the human nature on account of the union
 
+***What belongs to the human nature on account of the union***
+
 ***Division of the text***
 
-***After the Master has considered what belongs to the divine nature from its union with the human, here he considers what belongs to the human nature from its union with the divine—namely, that it be adored with the adoration of latria.***
+After the Master has considered what belongs to the divine nature from its union with the human, here he considers what belongs to the human nature from its union with the divine—namely, that it be adored with the adoration of latria.  
 
 Now, this part is divided into two parts.  
 
@@ -46,7 +48,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows.Parallels: *ST* I-II.60.3; II-II.81.2. It appears that latria is not a virtue.***
+To the first we proceed as follows.Parallels: *ST* I-II.60.3; II-II.81.2. It appears that latria is not a virtue.  
 
 Obj. 1: For every virtue consists in the free will. But servitude is opposed to freedom. Therefore since latria is a servitude, as is said in the text,*Sent*. III, 9.1(28).1; Silano translates this as “service.” it appears that it is not a virtue.  
 
@@ -62,7 +64,7 @@ Furthermore, every act that falls within a precept of the law is an act of virtu
 
 Quaestiuncula 2  
 
-***Obj. 1: Further, it appears that it is a general virtue.Parallels: *ST* II-II.81.4; *Super De Trinitate*, q. 3, a. 2. For Augustine says, *a true sacrifice is every work that is done so that we might be joined to God in holy society*.Augustine, *City of God*, bk. 10, ch. 6 (CCSL 47; PL 41:283). But every work of virtue is like this. Therefore every work of a virtue is a true sacrifice. But to offer sacrifice to God properly pertains to latria. Therefore to pertain all the acts of the virtues, and so it is general virtue.***
+Obj. 1: Further, it appears that it is a general virtue.Parallels: *ST* II-II.81.4; *Super De Trinitate*, q. 3, a. 2. For Augustine says, *a true sacrifice is every work that is done so that we might be joined to God in holy society*.Augustine, *City of God*, bk. 10, ch. 6 (CCSL 47; PL 41:283). But every work of virtue is like this. Therefore every work of a virtue is a true sacrifice. But to offer sacrifice to God properly pertains to latria. Therefore to pertain all the acts of the virtues, and so it is general virtue.  
 
 Obj. 2: Furthermore, by every work of virtue one serves God: *So you also, when you have done all that is commanded you, say, 'we are unworthy servants'* (Luke 17:10). But latria is service owed to God. Therefore every work of the virtues pertains to latria. And thus the same thing as before.  
 
@@ -74,7 +76,7 @@ Furthermore, to a special vice is opposed a specific virtue, whence the Philosop
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it appears that it is a theological virtue.Parallels: *ST* II-II.81.5; *De virtutibus*, q. 1, a. 12, ad 11; *Super de Trinitate*, q. 3, a. 2. For Augustine says, *if it is asked, 'How is God worshiped?' we answer, 'By faith, hope, and love.'*Augustine, *Enchiridion de fide, spe et caritate*, cc. 2, 3 (CCSL 46; PL 40:232). But latria is called the “worship of God,” as is stated in the text.*Sent*. III, 9.1(28).1. Therefore latria is faith, hope, and love, which are the theological virtues.***
+Obj. 1: Furthermore, it appears that it is a theological virtue.Parallels: *ST* II-II.81.5; *De virtutibus*, q. 1, a. 12, ad 11; *Super de Trinitate*, q. 3, a. 2. For Augustine says, *if it is asked, 'How is God worshiped?' we answer, 'By faith, hope, and love.'*Augustine, *Enchiridion de fide, spe et caritate*, cc. 2, 3 (CCSL 46; PL 40:232). But latria is called the “worship of God,” as is stated in the text.*Sent*. III, 9.1(28).1. Therefore latria is faith, hope, and love, which are the theological virtues.  
 
 Obj. 2: Furthermore, a theological virtue is one that has God as its object, just as faith is that by which one believes God, and so for the others. But latria has God as its object, since he is worshiped by means of it. Therefore latria is a theological virtue.  
 
@@ -84,7 +86,7 @@ On the contrary, no theological virtue has an exterior act. But the act of latri
 
 Quaestiuncula 4  
 
-***Obj. 1: Furthermore, it is asked, to which cardinal virtue is it traced back.Parallel: *ST* II-II.81.1. And it appears that it is not traced back to justice, to which it most appears to belong. For justice, as the specific virtue that is one of the four cardinal virtues, consists in the communal sharing of the active life, according to the Philosopher.Aristotle, *Nicomachean Ethics* 5.2, 1130b30–1131a9. But in the present life, for us there is no communal sharing with God. Whence it is said in Daniel 2:11: *none can show it to the king except the gods, whose dwelling is not with the flesh*. Therefore it cannot be a species of justice.***
+Obj. 1: Furthermore, it is asked, to which cardinal virtue is it traced back.Parallel: *ST* II-II.81.1. And it appears that it is not traced back to justice, to which it most appears to belong. For justice, as the specific virtue that is one of the four cardinal virtues, consists in the communal sharing of the active life, according to the Philosopher.Aristotle, *Nicomachean Ethics* 5.2, 1130b30–1131a9. But in the present life, for us there is no communal sharing with God. Whence it is said in Daniel 2:11: *none can show it to the king except the gods, whose dwelling is not with the flesh*. Therefore it cannot be a species of justice.  
 
 Obj. 2: Furthermore, according to the Philosopher in the *Ethics* 5,Aristotle, *Nicomachean Ethics* 5.6, 1134b9–17. what is between a lord and a servant is not properly called “justice,” just as neither is there justice of one to himself. For what a servant is and what he has belong to his lord. Likewise, neither is there justice of a father to his son, who is, as it were, a part of him. But we ourselves are related to God as servants to a lord, and sons to a father. Therefore our relation to God is not one of justice. And thus, latria is not a part of justice.  
 
@@ -96,7 +98,7 @@ Furthermore, to return what is owed is an act of justice. But latria is the wors
 
 Response to Quaestiuncula 1  
 
-***I answer that when something common is found in many things, if it is found in some of them in a special manner, it also takes a special name, just as a curved nose is called “snub.”***
+I answer that when something common is found in many things, if it is found in some of them in a special manner, it also takes a special name, just as a curved nose is called “snub.”  
 
 Likewise, although subservience can be offered to diverse things, in a certain special and supreme way it is owed to God, since in him is the supreme notion of majesty and lordship. And therefore the service and subservience that is owed to him is named and spoken of with a special name, “latria.” However, this name is taken in three ways: sometimes for what is offered to God in subservience, such as a sacrifice, genuflections, and things of this sort; sometimes for the very act of offering such; and sometimes for the habit by which one offers subservience.  
 
@@ -112,7 +114,7 @@ Reply Obj. 4: Piety, insofar as it is the gift, consists in a certain good will 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a certain virtue is called “general” in four ways. In one way, because it is predicated of every virtue, such as legal justice, which is convertible with “virtue,” and is also the same thing in subject [as virtue], but differs from it in notion, as the Philosopher says.Aristotle, *Nicomachean Ethics* 5.1, 1130a9–14. And in this way it is called “general” with respect to its own essence. In a second way a virtue is called “general” insofar as the other virtues depend on participating in its act. And in this way prudence is called a “general virtue,” since all the other moral virtues participate in a rightness of choice from it, and thus its act is blended with the acts of all the other virtues. Nonetheless, in itself, prudence is a specific virtue insofar as it contains a specific notion of the object, namely, what is choiceworthy relative to the deed. In a third way, a virtue is called “general” insofar as it operates as regards the acts of all the virtues, such that all of them enter into it, for its matter; for example, magnanimity, which works great things in all the virtues, as it says in the *Ethics* 4.Aristotle, *Nicomachean Ethics* 4.3, 1123b27–30; Aquinas, *Sent. Ethic.*, bk. 4, lect. 8. And yet in itself it is a specific virtue, since it attends to a specific notion of the object in all things, namely, what is worthy of great honor. Fourth, a certain virtue is called “general” insofar as different virtues come together for it, since the acts of many virtues are needed before its acts; for example, other virtues are needed in advance for magnanimity, since no one can be worthy of great things unless he is virtuous.***
+To the second question, it should be said that a certain virtue is called “general” in four ways. In one way, because it is predicated of every virtue, such as legal justice, which is convertible with “virtue,” and is also the same thing in subject [as virtue], but differs from it in notion, as the Philosopher says.Aristotle, *Nicomachean Ethics* 5.1, 1130a9–14. And in this way it is called “general” with respect to its own essence. In a second way a virtue is called “general” insofar as the other virtues depend on participating in its act. And in this way prudence is called a “general virtue,” since all the other moral virtues participate in a rightness of choice from it, and thus its act is blended with the acts of all the other virtues. Nonetheless, in itself, prudence is a specific virtue insofar as it contains a specific notion of the object, namely, what is choiceworthy relative to the deed. In a third way, a virtue is called “general” insofar as it operates as regards the acts of all the virtues, such that all of them enter into it, for its matter; for example, magnanimity, which works great things in all the virtues, as it says in the *Ethics* 4.Aristotle, *Nicomachean Ethics* 4.3, 1123b27–30; Aquinas, *Sent. Ethic.*, bk. 4, lect. 8. And yet in itself it is a specific virtue, since it attends to a specific notion of the object in all things, namely, what is worthy of great honor. Fourth, a certain virtue is called “general” insofar as different virtues come together for it, since the acts of many virtues are needed before its acts; for example, other virtues are needed in advance for magnanimity, since no one can be worthy of great things unless he is virtuous.  
 
 Therefore the first generality is as that of the universal; the second, as the generality of a cause giving existence; the third, as the generality of one moving something by a command; the fourth, as that of an integral whole embracing many things.  
 
@@ -126,7 +128,7 @@ Reply Obj. 3: Insofar as the acts of the other virtues are done for the glory of
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that those virtues are properly called “theological” that have God as their object and end. Whence no theological virtue properly speaking has its act centered on a created thing, for charity is nothing in a man unless he loves God. However, the object about which latria acts is one that renders to God something that is not God in recognition of servitude. This is why it is not a theological virtue, but is traced back to the cardinal virtues.***
+To the third question, it should be said that those virtues are properly called “theological” that have God as their object and end. Whence no theological virtue properly speaking has its act centered on a created thing, for charity is nothing in a man unless he loves God. However, the object about which latria acts is one that renders to God something that is not God in recognition of servitude. This is why it is not a theological virtue, but is traced back to the cardinal virtues.  
 
 Reply Obj. 1: God is said to be worshiped by faith, hope, and charity not as though worship is elicited by these virtues, but because these virtues order one toward worship, or even because the acts of these virtues materially enter into the worship, in the way explained.Above, resp. 2.  
 
@@ -136,7 +138,7 @@ Reply Obj. 3: The too-much and the too-little, between which we find the mean of
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that, according to the Philosopher,Aristotle, *Nicomachean Ethics* 5.2, 1130b30–1131a9. justice as a specific virtue consists in the goods that men share with each other in this life, such as money, honors, and things of this sort, insofar as one can share things of this sort with another. In these things a judge establishes an equality, according to the law, so that each person has what is owed to him, neither more nor less; and justice consists in this equality. This is why justice, so taken, as he himself says, is only in those who are naturally situated to be ruled by the same law, and are under the same ruler, and are equally ruled. Whence, according to him, such justice is not present in a lord relative to his servant, nor in a father relative to his son, since a servant and a son are things of theirs. This is why justice is not relative to them, just as neither is there justice relative to one’s very self. Still, there is there a certain mode of justice here, insofar as a lord renders to his servant what is owed to him, or vice versa; this is called “just lordship.” And it is in this way that latria is related to justice, since it consists in one rendering to God what is owed to him. Whence it is traced back to justice not as a species is traced back to its genus, but as a virtue connected to a principal virtue, [and] that participates in the mode of the mode of the principal.***
+To the fourth question, it should be said that, according to the Philosopher,Aristotle, *Nicomachean Ethics* 5.2, 1130b30–1131a9. justice as a specific virtue consists in the goods that men share with each other in this life, such as money, honors, and things of this sort, insofar as one can share things of this sort with another. In these things a judge establishes an equality, according to the law, so that each person has what is owed to him, neither more nor less; and justice consists in this equality. This is why justice, so taken, as he himself says, is only in those who are naturally situated to be ruled by the same law, and are under the same ruler, and are equally ruled. Whence, according to him, such justice is not present in a lord relative to his servant, nor in a father relative to his son, since a servant and a son are things of theirs. This is why justice is not relative to them, just as neither is there justice relative to one’s very self. Still, there is there a certain mode of justice here, insofar as a lord renders to his servant what is owed to him, or vice versa; this is called “just lordship.” And it is in this way that latria is related to justice, since it consists in one rendering to God what is owed to him. Whence it is traced back to justice not as a species is traced back to its genus, but as a virtue connected to a principal virtue, [and] that participates in the mode of the mode of the principal.  
 
 Reply Obj. 1–2: And by this, the response to the two first objections, which proceed according to that path, is clear  
 
@@ -148,7 +150,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: below, resp. 4, ad 1; a. 3, resp. 3; *ST* III.25.1, 2; 58.3; *De veritate*, q. 29, a. 4, ad 4; *Super Galat.* 4, lect. 4. It appears that latria should not be shown to Christ’s humanity.***
+To the second we proceed as follows.Parallels: below, resp. 4, ad 1; a. 3, resp. 3; *ST* III.25.1, 2; 58.3; *De veritate*, q. 29, a. 4, ad 4; *Super Galat.* 4, lect. 4. It appears that latria should not be shown to Christ’s humanity.  
 
 Obj. 1: For it is said in a Gloss: *'worship at his footstool'* (Ps 99:5): *Christ’s flesh should not be adored with the adoration of latria that is owed to God alone*.  
 
@@ -162,7 +164,7 @@ Furthermore, the same thing is clear from the authorities and examples noted in 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that neither should a worship of latria be shown to images of Christ.Parallels: *ST* II-II.81.3.ad 3; 94.3.ad 1; III.25.3–5.***
+Obj. 1: Moreover, it appears that neither should a worship of latria be shown to images of Christ.Parallels: *ST* II-II.81.3.ad 3; 94.3.ad 1; III.25.3–5.  
 
 *You shall not make for yourself a graven image nor any likeness of anything that is in heaven above* (Exod 20:4). Therefore much less is is licit to adore an image of Christ.  
 
@@ -176,7 +178,7 @@ Furthermore, Basil saysBasil, *Liber de Spiritu Sancto*, ch. 18, n. 45 (PG 32:15
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that latria should not be shown to the Blessed Virgin.Parallels: below, d. 22, q. 3, a. 3, resp. 3, ad 3; *ST* II-II.103.4.ad 2; III.25.5. For Damascene says that the honor of a mother is carried back to her son.Moos gives no source. Therefore if the Son should be adored with latria, so too the mother.***
+Obj. 1: Moreover, it appears that latria should not be shown to the Blessed Virgin.Parallels: below, d. 22, q. 3, a. 3, resp. 3, ad 3; *ST* II-II.103.4.ad 2; III.25.5. For Damascene says that the honor of a mother is carried back to her son.Moos gives no source. Therefore if the Son should be adored with latria, so too the mother.  
 
 Obj. 2: Furthermore, about her it is sung, *and may he make his mother, along with himself, a participant in the reign of the Father*; and all call her the “Lady of the universe” and the “Queen of the angels.” But latria is shown to God insofar as he is Lord and King. Therefore so too one must show latria to the Virgin Mother.  
 
@@ -188,7 +190,7 @@ Furthermore, she herself adores God with latria. But it does not belong to the s
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that latria should not be shown to the cross.Parallels: *ST* II-II.103.4.ad 3; III.25.4. For just as he suffered on the cross in virtue of his humanity, so his throne is heaven in virtue of his divinity. But heaven should not be adored by latria on account of this. Therefore much less the cross, since latria is owed to Christ by reason of his divinity, not by reason of his humanity.***
+Obj. 1: Moreover, it seems that latria should not be shown to the cross.Parallels: *ST* II-II.103.4.ad 3; III.25.4. For just as he suffered on the cross in virtue of his humanity, so his throne is heaven in virtue of his divinity. But heaven should not be adored by latria on account of this. Therefore much less the cross, since latria is owed to Christ by reason of his divinity, not by reason of his humanity.  
 
 Obj. 2: Furthermore, an inanimate thing is of less dignity than a human being. But a human being should show the honor of latria only to one who is above man. Therefore the cross should not be adored with latria.  
 
@@ -200,7 +202,7 @@ Furthermore, the cross is an image of Christ crucified. But the image of Christ 
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it is asked whether the honor of latria should be shown to the saints. And it seems so. For latria is shown to God by reason of his divinity. But the saints are called “gods” by participation. Therefore latria should be shown to them.***
+Obj. 1: Moreover, it is asked whether the honor of latria should be shown to the saints. And it seems so. For latria is shown to God by reason of his divinity. But the saints are called “gods” by participation. Therefore latria should be shown to them.  
 
 Obj. 2: Furthermore, a divinely impressed image is nobler than a manmade one. But the images of God that a man makes are adored with latria. Therefore much more so should saints be, in whom God has impressed and reformed his image.  
 
@@ -210,7 +212,7 @@ On the contrary, we read in Acts 14:14 about Paul and Barnabas, who forbade thos
 
 Quaestiuncula 6  
 
-***Obj. 1: Moreover, it appears that without sin one can show latria to anything created. For we read, in Revelation 22:9, that John wanted to adore the angel, and the latter forbade him from doing so. However, he would not have forbade it if he wanted to adore him with dulia, since this is owed to the holy angels. Therefore he wanted to adore him with latria, and thus it appears that this can be done without sin.***
+Obj. 1: Moreover, it appears that without sin one can show latria to anything created. For we read, in Revelation 22:9, that John wanted to adore the angel, and the latter forbade him from doing so. However, he would not have forbade it if he wanted to adore him with dulia, since this is owed to the holy angels. Therefore he wanted to adore him with latria, and thus it appears that this can be done without sin.  
 
 Obj. 2: Furthermore, a work is judged according to the intention. But someone adoring an angel who appears in the form of Christ has a good intention, believing him to be Christ. Therefore he does not sin in adoring him.  
 
@@ -220,7 +222,7 @@ On the contrary, if someone shows to another what he ought to show to his tempor
 
 Quaestiuncula 7  
 
-***Obj. 1: Moreover, it appears that, if latria is also shown to something created, both this and the latria shown to God are called this univocally. For matter does not make diverse species. But the worship shown to God and that shown to something created appear to differ only materially. Therefore it is not different in species, and they are called “latria” univocally.***
+Obj. 1: Moreover, it appears that, if latria is also shown to something created, both this and the latria shown to God are called this univocally. For matter does not make diverse species. But the worship shown to God and that shown to something created appear to differ only materially. Therefore it is not different in species, and they are called “latria” univocally.  
 
 Obj. 2: Furthermore, “beatitude” is said univocally, even though some seek it where it is, that is, in God, and others where it is not, such as in riches. Therefore likewise “latria” will be said univocally, whether it is shown to the one to whom it ought to be shown, or to one to whom it ought not.  
 
@@ -232,7 +234,7 @@ Furthermore, “God” is not said univocally of the true God and of an idol. Bu
 
 Response to Quaestiuncula 1  
 
-***I answer that the mode in which something is honored is of two sorts: for something is honored by reason of itself, and by reason of another.***
+I answer that the mode in which something is honored is of two sorts: for something is honored by reason of itself, and by reason of another.  
 
 For, according to the Philosopher in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.12, 1101b10–13. praise and honor differ insofar as praise is owed to someone on account of a goodness that he has from his order toward another, and when he does an act befitting the end, whereas honor is owed to someone on account of a goodness that he has in virtue of himself. Whence, according to itself praise is owed to a man on account of his acts of virtue, which are ordered toward happiness, whereas honor is owed to God and divine things. This is why praise is owed only to the act or to the agent who is master of the act, as acting by choice; so too is honor, although the honor is also owed to the act as is the praise, but it is owed more to the agent.  
 
@@ -250,7 +252,7 @@ Reply Obj. 3: Although to create is not something belonging to Christ’s humani
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that an image can be considered in two ways: either insofar as it is a certain thing—and thus no honor is owed to it, just as none is owed to any other stone or piece of wood—or insofar as it is an image. And because the motion toward an image insofar as it is an image is the same as that toward the thing it is an image of, therefore a single honor is owed to the image and to what it is an image of. And therefore since Christ is adored with latria, so too is his image.***
+To the second question, it should be said that an image can be considered in two ways: either insofar as it is a certain thing—and thus no honor is owed to it, just as none is owed to any other stone or piece of wood—or insofar as it is an image. And because the motion toward an image insofar as it is an image is the same as that toward the thing it is an image of, therefore a single honor is owed to the image and to what it is an image of. And therefore since Christ is adored with latria, so too is his image.  
 
 Reply Obj. 1: Before Christ’s Incarnation, because God is incorporeal, no image could be proposed for him, as is said in Isaiah 40:18. Therefore it was prohibited in the Old Law that images be made for adoration, and especially because they were prone to idolatry, because the entire world was set upon idolatry. But after God was made man, he could have an image, since he had a bodily shape by reason of his assumed humanity, which might be adored together with him. And this is why making images has been permitted in the New Law.  
 
@@ -260,7 +262,7 @@ Reply Obj. 3: The apostles handed on many things that were not written in the ca
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that since the Blessed Virgin is in virtue of herself an acting person, honor is owed to her in virtue of herself. Whence she is adored with an adoration other than that of her Son, so she cannot be adored with latria but with dulia. Nevertheless, since she is honored not only by reason of herself, but also by reason of her Son, as the Mother of God, therefore insofar as she pertains to Christ she is honored with hyperdulia.***
+To the third question, it should be said that since the Blessed Virgin is in virtue of herself an acting person, honor is owed to her in virtue of herself. Whence she is adored with an adoration other than that of her Son, so she cannot be adored with latria but with dulia. Nevertheless, since she is honored not only by reason of herself, but also by reason of her Son, as the Mother of God, therefore insofar as she pertains to Christ she is honored with hyperdulia.  
 
 Reply Obj. 1: The honor of the mother is referred to the Son not as to a subject, namely, such that it would be one motion toward the mother and the son, as is the case with images. Rather, it is referred to the Son as to an end, since the mother is honored for the sake of the Son.  
 
@@ -270,7 +272,7 @@ Reply Obj. 3: Incorruption, which is opposed to returning to dust, is owed to Ch
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that the cross of Christ, even the one on which Christ hung, can be considered in two ways. First, insofar as it is an image of the one crucified, and thus it is adored with the same adoration as is the one crucified, namely latria; this is why we address it as the one crucified, saying: *Hail, O cross, our single hope*.source in the mass? Exaltation of the cross or Good Friday liturgy? Or it can be considered insofar as a kind of thing, and thus, since it does not belong to the person of the Word as a part of him, it cannot be adored with the same adoration as the Word is; rather, insofar as it is a certain thing in the character of Christ himself, it is adored with hyperdulia.Cf. *ST* III.25.4, obj. 2. But the other crosses are adored only as images, and therefore they are adored only with latria.***
+To the fourth question, it should be said that the cross of Christ, even the one on which Christ hung, can be considered in two ways. First, insofar as it is an image of the one crucified, and thus it is adored with the same adoration as is the one crucified, namely latria; this is why we address it as the one crucified, saying: *Hail, O cross, our single hope*.source in the mass? Exaltation of the cross or Good Friday liturgy? Or it can be considered insofar as a kind of thing, and thus, since it does not belong to the person of the Word as a part of him, it cannot be adored with the same adoration as the Word is; rather, insofar as it is a certain thing in the character of Christ himself, it is adored with hyperdulia.Cf. *ST* III.25.4, obj. 2. But the other crosses are adored only as images, and therefore they are adored only with latria.  
 
 Reply Obj. 1: Although heaven is God’s throne, nonetheless it is not united to him in his person, as is Christ’s flesh. Whence heaven is honored with neither latria nor hyperdulia, nor even dulia, since it is not a living thing. But Christ’s humanity is adored with either latria or hyperdulia, and so too the things that refer back to Christ’s humanity, such as the cross, his clothes, and things of this sort.  
 
@@ -280,7 +282,7 @@ Reply Obj. 3: If the honor that is shown to the cross is considered as a certain
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that God is the beginning and end of all things, and insofar he is the first principle we adore him with latria, but insofar as he is the last end we are fulfilled by him. However, in returning to him we are aided by other rational creatures, namely angels and men, and therefore although we should be fulfilled by God alone, still we can be fulfilled by a man in God, as the Apostle says,Perhaps Romans 15:29, 32: “I know that when I come to you I shall come in the fullness of the blessing of Christ. . . so that by God’s will I may come to you with joy and be refreshed in your company.” and Augustine.Augustine, *On Christian Doctrine*, bk. 1, ch. 33 (CCSL 32; PL 34:32) But in going forth from him as from the creating beginning, we are not aided by any created thing, since he created us immediately. And therefore the honor of latria should be shown to him alone, not to anyone in him, however great is his participation of goodness—unless he is honored with him in a single honor, like Christ’s flesh and his images.***
+To the fifth question, it should be said that God is the beginning and end of all things, and insofar he is the first principle we adore him with latria, but insofar as he is the last end we are fulfilled by him. However, in returning to him we are aided by other rational creatures, namely angels and men, and therefore although we should be fulfilled by God alone, still we can be fulfilled by a man in God, as the Apostle says,Perhaps Romans 15:29, 32: “I know that when I come to you I shall come in the fullness of the blessing of Christ. . . so that by God’s will I may come to you with joy and be refreshed in your company.” and Augustine.Augustine, *On Christian Doctrine*, bk. 1, ch. 33 (CCSL 32; PL 34:32) But in going forth from him as from the creating beginning, we are not aided by any created thing, since he created us immediately. And therefore the honor of latria should be shown to him alone, not to anyone in him, however great is his participation of goodness—unless he is honored with him in a single honor, like Christ’s flesh and his images.  
 
 Reply Obj. 1: By that participation the saints are not made to be the first principle of our existence. And therefore latria is not owed to them.  
 
@@ -290,7 +292,7 @@ Reply Obj. 3: Those angels did not appear to Abraham in their proper natures, bu
 
 Response to Quaestiuncula 6  
 
-***To the sixth question, it should be said that, since created things should not be shown latria, if it is shown to one, it is shown to something it should not be shown to. And this makes it the vice contrary to latria, as going past the mean. Whence this cannot occur without sin.***
+To the sixth question, it should be said that, since created things should not be shown latria, if it is shown to one, it is shown to something it should not be shown to. And this makes it the vice contrary to latria, as going past the mean. Whence this cannot occur without sin.  
 
 Reply Obj. 1: John wanted to adore the angel with dulia, but was prohibited on account of three things: first, to show the dignity of John himself, who was of greater dignity than many angels; second, to avoid the appearance of idolatry; and third, to show the exaltation above the angels of the human nature in the man assumed.  
 
@@ -300,7 +302,7 @@ Reply Obj. 3: One who adores an unconsecrated host must adore it in a conditiona
 
 Response to Quaestiuncula 7  
 
-***To the seventh question, it should be said that whenever a certain name is given to some act or accident insofar as it is determined to some one thing, it can be said of something else only improperly or metaphorically. For example, “snubness” is given to the curvature of the nose, so it cannot be said that the cross is “snub” or that wood is “curved” except metaphorically. Likewise, since “latria” is a name given to the servitude of the divine, whatever other servitude might be shown to another cannot be called “latria” except improperly or metaphorically. This is why “latria” is not said univocally of the worship of God and of idolatry.***
+To the seventh question, it should be said that whenever a certain name is given to some act or accident insofar as it is determined to some one thing, it can be said of something else only improperly or metaphorically. For example, “snubness” is given to the curvature of the nose, so it cannot be said that the cross is “snub” or that wood is “curved” except metaphorically. Likewise, since “latria” is a name given to the servitude of the divine, whatever other servitude might be shown to another cannot be called “latria” except improperly or metaphorically. This is why “latria” is not said univocally of the worship of God and of idolatry.  
 
 Reply Obj. 1: The matter included in the notion of the species does indeed make for diverse species, and it impedes univocal naming. This is clear in the example brought in above about the curvature of the nose. And so it is in the proposed matter.  
 
@@ -314,7 +316,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed as follows. It appears that latria is owed to God by reason of his power.***
+To the third we proceed as follows. It appears that latria is owed to God by reason of his power.  
 
 Obj. 1: For servitude relates to lordship. But God is called “Lord” on account of his power of coercing the created thing subject to him, as Boethius says.Boethius, *Quomodo trinitas unus Deus ac non tres dii*, or *De Trinitate*, ch. 5 (PL 64:1253–54). Therefore, since latria is servitude, it appears that it is owed to God by reason of his power.  
 
@@ -324,7 +326,7 @@ Obj. 3: It also appears that it is by reason of his goodness. For we show him la
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the latria is owed to the Father is other than that owed to the Son. For latria directs faith. But the faith has one article about the Father, and another about the Son. Therefore a different latria should be shown to each.***
+Obj. 1: Moreover, it appears that the latria is owed to the Father is other than that owed to the Son. For latria directs faith. But the faith has one article about the Father, and another about the Son. Therefore a different latria should be shown to each.  
 
 Obj. 2: Furthermore, honor, as has been said,Above, a. 2, resp. 1. is owed to the acting person. But the Father and the Son are two persons. Therefore two honors are owed to them.  
 
@@ -334,7 +336,7 @@ On the contrary, even with the distinction of the persons removed, latria is sti
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that latria should not be shown to God in virtue of any bodily rituals. For as the Apostle says in Galatians 4:3 that the men under the Old Law, serving under the elements of this world, were as though children placed under a pedagogue. But, as he also says in v. 4, since the coming of the fullness of time, we are no longer under the pedagogue. Therefore we should not show God latria according to bodily acts.***
+Obj. 1: Moreover, it appears that latria should not be shown to God in virtue of any bodily rituals. For as the Apostle says in Galatians 4:3 that the men under the Old Law, serving under the elements of this world, were as though children placed under a pedagogue. But, as he also says in v. 4, since the coming of the fullness of time, we are no longer under the pedagogue. Therefore we should not show God latria according to bodily acts.  
 
 Obj. 2: Furthermore, it is written: *God is spirit, and those who worship him must worship in spirit and truth* (John 4:24). Therefore it is not necessary that we worship him with bodily acts, whether by genuflecting or singing.  
 
@@ -344,13 +346,13 @@ On the contrary, we have both our spirit and our body from God. But we adore him
 
 Response to Quaestiuncula 1  
 
-***I answer that latria professes the servitude that we owe God because he made us. Whence latria is owed to him as Creator, insofar as he himself is the end and first origin of our existence; this is why in a Gloss on Psalm 7:1, *O Lord my God, in thee do I take refuge*, it says: *he is God by creation, to whom latria is owed*.*Glossa interlinearis*, at Psalm 7:1 (in *Glossa ordinaria*, 3.481). And because he is Creator insofar as he is good, wise, and powerful, and insofar as he is all things of this sort, therefore by reason of all of them latria is owed to him, and not according to only one of them.***
+I answer that latria professes the servitude that we owe God because he made us. Whence latria is owed to him as Creator, insofar as he himself is the end and first origin of our existence; this is why in a Gloss on Psalm 7:1, *O Lord my God, in thee do I take refuge*, it says: *he is God by creation, to whom latria is owed*.*Glossa interlinearis*, at Psalm 7:1 (in *Glossa ordinaria*, 3.481). And because he is Creator insofar as he is good, wise, and powerful, and insofar as he is all things of this sort, therefore by reason of all of them latria is owed to him, and not according to only one of them.  
 
 Whence the response to the objections is clear.  
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, because the Father and the Son and the Holy Spirit are one Creator, therefore one latria is owed to them, since latria is owed to God as Creator.***
+To the second question, it should be said that, because the Father and the Son and the Holy Spirit are one Creator, therefore one latria is owed to them, since latria is owed to God as Creator.  
 
 Reply Obj. 1: Faith is owed to God insofar as he is a knowable reality. And because whatever things are distinguished according to a reality can be thought about separately, but are not convertible, therefore the three persons, who are three diverse realities, hold diverse articles of the faith. But all three persons are one Creator, so also one latria is owed to them.  
 
@@ -360,7 +362,7 @@ Reply Obj. 3: Although the two natures are distinct in themselves, still they ar
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in us there are three kinds of goods: the spiritual, the bodily, and the extrinsic. And because all of these things in us are from God, therefore we owe latria to God in virtue of all of them: in virtue of the spirit we show him the love we owe him, in virtue of the body, prostrations and song, in virtue of external things, sacrifices, candles, and things of this sort. We show God these things not on account of some need of his, but in recognition that all things that we have are from him, and just as we recognize him in all of these things, so too we honor him by all of them.***
+To the third question, it should be said that in us there are three kinds of goods: the spiritual, the bodily, and the extrinsic. And because all of these things in us are from God, therefore we owe latria to God in virtue of all of them: in virtue of the spirit we show him the love we owe him, in virtue of the body, prostrations and song, in virtue of external things, sacrifices, candles, and things of this sort. We show God these things not on account of some need of his, but in recognition that all things that we have are from him, and just as we recognize him in all of these things, so too we honor him by all of them.  
 
 Reply Obj. 1: Bodily things in the Old Law were merely bodily, since they did not contain grace, yet they were signs of spiritual things. But the bodily things that we offer God are not merely bodily; rather, they are sacraments containing grace, and sacramental things. This is why the observance of the New Law and the Old are not alike.  
 
@@ -384,7 +386,7 @@ Article 1
 
 ***Whether latria and dulia are the same***
 
-***To the first we proceed as follows.Parallels: *ST* II-II.103.3–4; *In Psalmos* 40. It appears that dulia is the same thing as latria.***
+To the first we proceed as follows.Parallels: *ST* II-II.103.3–4; *In Psalmos* 40. It appears that dulia is the same thing as latria.  
 
 Obj. 1: For only one honor is owed to God. But dulia and latria are owed to him, as a Gloss on Psalm 7:1, *O Lord my God, in thee do I take refuge*, says: *Lord of all things by power, to which dulia is owed, God of all things by creation, to which latria is owed*.Not *Glossa ordinaria*. Therefore dulia and latria are the same thing.  
 
@@ -412,7 +414,7 @@ Article 2
 
 ***Whether dulia has diverse species***
 
-***To the second we proceed as follows.Parallel: *ST* II-II.103.4. It appears that dulia does not have diverse species.***
+To the second we proceed as follows.Parallel: *ST* II-II.103.4. It appears that dulia does not have diverse species.  
 
 Obj. 1: For dulia is not divided from latria. But latria is not divided by species. Therefore neither is latria.  
 
@@ -440,7 +442,7 @@ Articule 3
 
 ***Whether sinners should be honored with dulia***
 
-***To the third we proceed thus. It appears that sinners should not be honored with dulia.***
+To the third we proceed thus. It appears that sinners should not be honored with dulia.  
 
 Obj. 1: For the honor of dulia, as the Philosopher says,Aristotle, *Nicomachean Ethics* 1.5, 1095b26–29; 4.3, 1123b35. *is the reverence shown to someone in testimony of his virtue*. But sinners, even prelates, do not have virtue. Therefore those who honor them offer a false testimony, which is a sin.  
 
@@ -474,7 +476,7 @@ Reply Sed Contra 7: We do not serve the saints as obligated to them, but with a 
 
 Exposition of the text  
 
-****In love, the offer of sacrifice, and reverence*.*Sent.* III, 9.1(28).2. The “love” refers to the interior honor shown to God, “sacrifice” to the exterior goods that are taken up unto the honor of him; and “reverence” insofar as we give our body to him in submission, as in prostrations and things of this sort.***
+*In love, the offer of sacrifice, and reverence*.*Sent.* III, 9.1(28).2. The “love” refers to the interior honor shown to God, “sacrifice” to the exterior goods that are taken up unto the honor of him; and “reverence” insofar as we give our body to him in submission, as in prostrations and things of this sort.  
 
 *In one adoration with his untainted flesh*.*Sent*. III, 9.1(28).4, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 8 (PG 94:1014). Therefore it appears that the Son should be adored more than the Father or than even himself before the Incarnation. It should be said that his humanity is adored with latria only on account of the divinity, and therefore it does not make him more adorable, but rather there are more things in him to be adored. For what is added, as was said above,Above, q. 1, a. 2, resp. 1; a. 3, resp. 2; d. 5, q. 2, a. 1. does not add to the divine goodness.  
 

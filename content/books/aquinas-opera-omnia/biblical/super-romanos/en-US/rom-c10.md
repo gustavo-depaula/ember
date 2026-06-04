@@ -1,10 +1,12 @@
 # C. 9 - God’s Wrath and Mercy
 
+***God’s Wrath and Mercy***
+
 ***Lecture 1***
 
 ***Paul’s love of the Jews***
 
-***^9:1^ I speak the truth in Christ: I am not lying, my conscience bearing me witness in the Holy Spirit: [n. 735]***
+^9:1^ I speak the truth in Christ: I am not lying, my conscience bearing me witness in the Holy Spirit: [n. 735]  
 
 > ^9:2^ That I have great sadness and continual sorrow in my heart. [n. 737]
 
@@ -112,7 +114,7 @@ Lecture 2
 
 ***The sons of the promise***
 
-***^9:6^ Not as though the word of God has failed. For all are not Israelites that are of Israel. [n. 748]***
+^9:6^ Not as though the word of God has failed. For all are not Israelites that are of Israel. [n. 748]  
 
 > ^9:7^ Neither are all they who are the seed of Abraham, sons: but *in Isaac will your seed be called*. [n. 751]
 
@@ -246,7 +248,7 @@ Lecture 3
 
 ***Justice of God’s election***
 
-***^9:14^ What shall we say then? Is there injustice with God? [n. 765] God forbid! [n. 768]***
+^9:14^ What shall we say then? Is there injustice with God? [n. 765] God forbid! [n. 768]  
 
 > ^9:15^ For he says to Moses: *I will have mercy on whom I will have mercy. And I will show mercy to whom I will show mercy*.
 
@@ -390,7 +392,7 @@ Lecture 4
 
 ***Vessels of wrath and of mercy***
 
-***^9:19^ You will say therefore to me: why does he still find fault? For who resists his will?***
+^9:19^ You will say therefore to me: why does he still find fault? For who resists his will?  
 
 > ^9:20^ O man, who are you who replies against God? Shall the thing formed say to him who formed it: why have you made me thus? [n. 788]
 
@@ -480,7 +482,7 @@ Lecture 5
 
 ***Election both of Jews and gentiles***
 
-***^9:24^ Even us, whom he also has called, not only of the Jews but also of the gentiles. [n. 796]***
+^9:24^ Even us, whom he also has called, not only of the Jews but also of the gentiles. [n. 796]  
 
 > ^9:25^ As in Hosea he says: *I will call those who were not my people, my people; and her who was not beloved, beloved; and her who had not obtained mercy, one who has obtained mercy*. [n. 798]
 

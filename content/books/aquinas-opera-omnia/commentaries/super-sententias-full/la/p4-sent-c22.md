@@ -1,8 +1,10 @@
 # D. 42 - Parts and modes of sin
 
+***De partibus et modis peccati***
+
 ***Divisio primae partis textus***
 
-***Postquam determinavit de peccato in generali, hic determinat de peccato in comparatione ad partes ejus, et dividitur in partes duas:***
+Postquam determinavit de peccato in generali, hic determinat de peccato in comparatione ad partes ejus, et dividitur in partes duas:  
 
 in prima determinat diversas peccatorum partes et modos;  
 
@@ -136,7 +138,7 @@ Articulus 3
 
 ***Utrum peccatum convenienter dividatur in mortale et veniale***
 
-***Ad tertium sic proceditur. Videtur quod peccatum inconvenienter per mortale et veniale dividatur.***
+Ad tertium sic proceditur. Videtur quod peccatum inconvenienter per mortale et veniale dividatur.  
 
 Ea enim quae in infinitum differunt, in uno genere non conveniunt, sicut creator et creatura, ens et non ens. Sed veniale et mortale sunt hujusmodi; cum uni debeatur poena temporalis, alteri aeterna, ut patet in littera. Ergo peccatum per haec duo dividi non debet.  
 
@@ -172,7 +174,7 @@ Articulus 4
 
 ***Utrum peccatum veniale distinguatur a mortali***
 
-***Ad quartum sic proceditur. Videtur quod veniale peccatum a mortali non distinguatur.***
+Ad quartum sic proceditur. Videtur quod veniale peccatum a mortali non distinguatur.  
 
 Quidquid enim tollit virtutem est mortale peccatum. Sed omne peccatum tollit virtutem, quia omne peccatum recessus ab aequalitate est; virtus autem aequalitas quaedam est. Ergo peccatum veniale a mortali non distinguitur.  
 
@@ -216,7 +218,7 @@ Articulus 5
 
 ***Utrum peccatum mortale et veniale differant per poenam aeternam et temporalem***
 
-***Ad quintum sic proceditur. Videtur quod peccatum mortale et veniale non differant per aeternam poenam et temporalem.***
+Ad quintum sic proceditur. Videtur quod peccatum mortale et veniale non differant per aeternam poenam et temporalem.  
 
 Quaecumque enim finita sunt, possunt habere aliquam proportionem ad invicem. Sed conversio quae est in peccato veniali, finita est; et similiter quae est in peccato mortali. Ergo proportionabiles sunt. Sed secundum mensuram delectationis, quae ex parte conversionis se tenet, est quantitas poenae; Apoc. 18:7: *quantum glorificavit se et in deliciis fuit, tantum date illi tormentum et luctum*. Ergo et poena venialis debet proportionari poenae mortalis;Parma: *mortali*.  et ita non differunt secundum aeternum et temporale.  
 
@@ -262,7 +264,7 @@ Ad septimum dicendum, quod positio illa est impossibilis quod sic patet. Si enim
 
 Expositio primae partis textus  
 
-****Quidam dicunt unum esse peccatum, alii vero dicunt diversa esse peccata*. Utraque opinio est vera aliquo modo intellecta: quia si accipiatur voluntas conjuncta actui, sic voluntas et actus exterior sunt unum peccatum; si autem sumatur voluntas separata ab actu, sic sunt duo peccata numero sed unum specie.***
+*Quidam dicunt unum esse peccatum, alii vero dicunt diversa esse peccata*. Utraque opinio est vera aliquo modo intellecta: quia si accipiatur voluntas conjuncta actui, sic voluntas et actus exterior sunt unum peccatum; si autem sumatur voluntas separata ab actu, sic sunt duo peccata numero sed unum specie.  
 
 *Ad quod illi etiam dicunt*. Praeter istam responsionem quae hic ponitur, potest esse alia, quae in primo articulo posita est.  
 
@@ -276,7 +278,7 @@ Sed dicendum quod macula est medium inter actum peccati et reatum, quasi effectu
 
 Divisio secundae partis textus  
 
-****Modi autem peccatorum varias in Scriptura distinctiones habent*. In parte praecedenti determinavit Magister quaedam quae requiruntur ad peccatum quasi partes integrantes ipsum; hic determinat diversas peccatorum divisiones, et dividitur in partes duas:***
+*Modi autem peccatorum varias in Scriptura distinctiones habent*. In parte praecedenti determinavit Magister quaedam quae requiruntur ad peccatum quasi partes integrantes ipsum; hic determinat diversas peccatorum divisiones, et dividitur in partes duas:  
 
 in prima prosequitur divisiones quae respiciunt peccatum in communi; in secunda divisionemParma omits *divisiones quae respiciunt peccatum in communi in secunda*.  peccatorum capitalium, ibi: *praeterea sciendum est septem esse vitia capitalia*.  
 
@@ -334,7 +336,7 @@ Articulus 1
 
 ***Utrum peccata distinguuntur penes radices***
 
-***Ad primum sic proceditur. Videtur quod inconvenienter penes radices distinguantur peccata.***
+Ad primum sic proceditur. Videtur quod inconvenienter penes radices distinguantur peccata.  
 
 Radix enim est similis fundamento. Sed peccatum non habet fundamentum, ut dicitur in glossa, Matth. 7:26. Ergo non habet radicem; ergo penes radices non debent distingui peccata.  
 
@@ -372,7 +374,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod secunda divisio quae in littera assignatur, incompetens sit.***
+Ad secundum sic proceditur. Videtur quod secunda divisio quae in littera assignatur, incompetens sit.  
 
 Quia ejusdem generis eaedem sunt primae differentiae dividentes. Sed peccatum est unum genus, saltem analogum.Parma: *analogicum*. Ergo inconvenienter tot variis divisionibus distinguitur.  
 
@@ -386,7 +388,7 @@ Praeterea, peccatum omissionis quaedam species peccati est, quae sub nullo istor
 
 Quaestiuncula 2  
 
-***Ulterius quaeritur de alia divisione quae est per objecta. Videtur enim quod sit insufficiens. Quia in illum peccans peccare dicitur quem ex suo peccato laedit. Sed Deum peccando laedere non possumus, ut dicitur Job, 35:6: *si peccaveris, quid ei nocebis?* Et *si multiplicatae fuerint iniquitates tuae, quid facies contra illum?*Vulg.: *eum*. Ergo dicitur inconvenienter aliquis in Deum peccare.***
+Ulterius quaeritur de alia divisione quae est per objecta. Videtur enim quod sit insufficiens. Quia in illum peccans peccare dicitur quem ex suo peccato laedit. Sed Deum peccando laedere non possumus, ut dicitur Job, 35:6: *si peccaveris, quid ei nocebis?* Et *si multiplicatae fuerint iniquitates tuae, quid facies contra illum?*Vulg.: *eum*. Ergo dicitur inconvenienter aliquis in Deum peccare.  
 
 Praeterea, illud quod est ratio diligendi, non potest odio haberi. Sed homo est ratio diligendi respectu suiipsius: quia nihil homo diligit, nisi inquantum est bonum sibi. Ergo nullus seipsum habere odio potest. Sed in illum peccamus quem odio habemus. Ergo nullus in seipsum peccat.  
 
@@ -396,7 +398,7 @@ Praeterea, quicumque peccat in proximum peccat in seipsum et in Deum. Ergo pecca
 
 Quaestiuncula 3  
 
-***Ulterius quaeritur de alia divisione, quae sumitur secundum nomina. Quia sapientis non est de nominibus curare. Sed theologus maxime sapiens est. Ergo de divisione peccatorum per nomina non se debet intromittere, sed eis uti ut plures utuntur.***
+Ulterius quaeritur de alia divisione, quae sumitur secundum nomina. Quia sapientis non est de nominibus curare. Sed theologus maxime sapiens est. Ergo de divisione peccatorum per nomina non se debet intromittere, sed eis uti ut plures utuntur.  
 
 Praeterea, sicut delictum dicitur per hoc quod aliquid derelinquitur, ita peccatum dicitur per hoc quod ab aliquo aberratur, cum aversio sit formale in peccato, a quo denominatur. Ergo videtur differentia prima quam assignat nulla esse.  
 
@@ -404,7 +406,7 @@ Praeterea, per ignorantiam non solum contingitAl.: *convenit*. peccare peccato o
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, quod ista divisio assignatur secundum gradus quibus fit progressus ad complementum peccati. Gradus autem isti attenduntur secundum quod unus actus alteri actui additur ad perfectionem peccati; unde oportet quod secundus gradus includat in se peccatum, et ita est quasi divisio totius potestativi.Parma and PLE: *potestativi*; Mandonnet: *peccati*. Additio autem actus ad actum potest esse multipliciter; et secundum hoc sunt diversi gradus in peccato.***
+Respondeo dicendum, quod ista divisio assignatur secundum gradus quibus fit progressus ad complementum peccati. Gradus autem isti attenduntur secundum quod unus actus alteri actui additur ad perfectionem peccati; unde oportet quod secundus gradus includat in se peccatum, et ita est quasi divisio totius potestativi.Parma and PLE: *potestativi*; Mandonnet: *peccati*. Additio autem actus ad actum potest esse multipliciter; et secundum hoc sunt diversi gradus in peccato.  
 
 Unde primus gradus peccati est in primo actu peccati, super quem alia adduntur. Hic autem est actus interiorPLE: *interior*; Parma: *interior, scilicet*; Mandonnet: *interioris*. voluntatis: et hoc est primum membrum divisionis, scilicet peccatum cogitationis.  
 
@@ -426,7 +428,7 @@ Ad quintum dicendum, quod secundum opinionem illorum qui dicunt quod in peccato 
 
 Quaestiuncula 2  
 
-***Ad id quod ulterius quaeritur, dicendum est quod sicut omnis virtus est justitia quodammodo,Parma and PLE: *quoddamodo*; Mandonnet: *quaedam*. ut dicit Philosophus, 5 *Ethicor*., cap. 2, ita omne peccatum est injustitia. Injustitia autem est ex hoc quod detrahitur alicui quod sibi debetur; et ideo injustitia habet quasi duoAl. omit *duo*. objecta: scilicet illud quod detrahitur, et hoc est proprie materia actus, et unde peccatum specificatur: et ille cui detrahitur, sicut homo cui per injustitiam aufertur res sua, et penes hoc objectum sumitur haec peccati divisio: quia homo aliquid debet Deo, sibi et proximo. Deo debet amorem et reverentiam, et hujusmodi; unde quando ab his deficit, dicitur peccare in Deum. Sibi debet munditiam et ordinationem sui sub regimine rationis, et hujusmodi; et quando in his deficit, dicitur in seipsum peccare. Proximo autem quae debeat planum est; et quando in his deficit, dicitur in proximum peccare; et idem est, si contraria horum faceret.***
+Ad id quod ulterius quaeritur, dicendum est quod sicut omnis virtus est justitia quodammodo,Parma and PLE: *quoddamodo*; Mandonnet: *quaedam*. ut dicit Philosophus, 5 *Ethicor*., cap. 2, ita omne peccatum est injustitia. Injustitia autem est ex hoc quod detrahitur alicui quod sibi debetur; et ideo injustitia habet quasi duoAl. omit *duo*. objecta: scilicet illud quod detrahitur, et hoc est proprie materia actus, et unde peccatum specificatur: et ille cui detrahitur, sicut homo cui per injustitiam aufertur res sua, et penes hoc objectum sumitur haec peccati divisio: quia homo aliquid debet Deo, sibi et proximo. Deo debet amorem et reverentiam, et hujusmodi; unde quando ab his deficit, dicitur peccare in Deum. Sibi debet munditiam et ordinationem sui sub regimine rationis, et hujusmodi; et quando in his deficit, dicitur in seipsum peccare. Proximo autem quae debeat planum est; et quando in his deficit, dicitur in proximum peccare; et idem est, si contraria horum faceret.  
 
 Ad primum ergo dicendum, quod non dicitur homo in Deum peccare, quia Deum in aliquo laedat, sed quia Deo subtrahit quod ei debet, et, quantum in ipso est, ejus gloriam minuit, quamvis hoc facere non possit.  
 
@@ -438,7 +440,7 @@ Ad quartum dicendum, quod distinctio ista sumitur secundum illud in quod directe
 
 Quaestiuncula 3  
 
-***Ad illud quod ulterius quaeritur, dicendum quod ista divisio peccatorum quae est secundum nomina, attenditur penes ea ex quibus actus regulatur, scilicet praecepta legis; et hoc dupliciter, quia vel secundum distinctionem praeceptorum in se, et sic delictum respicit praecepta affirmativa, et peccatum praecepta negativa; vel secundum quod diversimode peccans a praeceptis deficit: quia vel deficit a praeceptis secundum rationem per ignorantiam, et sic est delictum; vel secundum voluntatem per contemptum, et sic est peccatum; et sic patet ratio duplicis expositionis.***
+Ad illud quod ulterius quaeritur, dicendum quod ista divisio peccatorum quae est secundum nomina, attenditur penes ea ex quibus actus regulatur, scilicet praecepta legis; et hoc dupliciter, quia vel secundum distinctionem praeceptorum in se, et sic delictum respicit praecepta affirmativa, et peccatum praecepta negativa; vel secundum quod diversimode peccans a praeceptis deficit: quia vel deficit a praeceptis secundum rationem per ignorantiam, et sic est delictum; vel secundum voluntatem per contemptum, et sic est peccatum; et sic patet ratio duplicis expositionis.  
 
 Ad primum ergo dicendum, quod sapiens bene curat nomina, secundum quod exprimunt proprietatem rerum, et non propter se; et quia ex diversis rationibus peccatorum essentiales eorum differentiae inveniuntur, ideo non fuit inconveniens hanc divisionem ponere.  
 
@@ -450,7 +452,7 @@ Articulus 3
 
 ***Utrum divisio capitalium vitiorum sit competens***
 
-***Ad tertium sic proceditur. Videtur incompetens esse divisio vitiorum capitalium quae in littera ponitur.***
+Ad tertium sic proceditur. Videtur incompetens esse divisio vitiorum capitalium quae in littera ponitur.  
 
 Quia illud ex quo oriuntur alia, et quod aliis peccatis principatur, videtur esse peccatorum caput. Sed superbia, ut dicit Gregorius, lib. 31 *Super Job*, cap. 45, est ex qua omnia peccata oriuntur, et est quasi regina aliorumPLE: *aliorum*; Parma: *omnium*; Mandonnet: *suorum*. peccatorum. Ergo ipsa sola debet dici vitium capitale; vel saltem ipsa, et avaritia, ex qua alia oriuntur, ut in littera dicitur.  
 
@@ -504,7 +506,7 @@ Articulus 4
 
 ***Utrum species superbiae convenienter assignantur***
 
-***Ad quartum sic proceditur. Videtur quod inconvenienter species superbiae assignentur.***
+Ad quartum sic proceditur. Videtur quod inconvenienter species superbiae assignentur.  
 
 Credere enim aliquid quod est contrarium articulo fidei est peccatum infidelitatis. Sed omnia bona esse a Deo, continetur in articulis fidei, ut patet in symbolo, ubi dicitur factor visibilium et invisibilium. Ergo videtur quod cum aliquis sibi tribuit bonum quod habet, et non a Deo recognoscit, sit infidelitatis peccatum, et non superbiae.  
 
@@ -598,6 +600,6 @@ Ad sextum dicendum, quod caritas non facit omnes virtutes esse aequales secundum
 
 Expositio secundae partis textus  
 
-****Praeterea sciendum est septem esse vitia capitalia*. Videtur inconvenienter numerare vitia capitalia: quia superbia est aliud ab inani gloria; ergo inanis gloria male ponitur loco superbiae.***
+*Praeterea sciendum est septem esse vitia capitalia*. Videtur inconvenienter numerare vitia capitalia: quia superbia est aliud ab inani gloria; ergo inanis gloria male ponitur loco superbiae.  
 
 Sed dicendum, quod quia, ut ostensum est, superbia habet majorem aptitudinem ut ex ea omnia vitia alia oriantur, quam aliquod aliorum; ideo Gregorius, lib. 31 *Moral*., cap. 45, non posuit superbiam quasi speciale caput vitiorum, sed quasi caput universale omnium, et nominavit eam reginam omnium vitiorum; et loco ejus inter vitia capitalia posuit inanem gloriam, quae est propinquissima filia sua. Isidorus autem, considerans quod ex superbia omnia alia generantur, sed quaedam frequentius, quae magis cum ipsa conveniunt, ponit ibi superbiam speciale caput horum vitiorum quae ut frequenter ab ea oriuntur; et ideo computavit eam inter septem vitia capitalia, ut patet Deuter. 7, in Glossa.

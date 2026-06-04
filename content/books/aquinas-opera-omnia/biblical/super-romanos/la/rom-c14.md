@@ -1,10 +1,12 @@
 # C. 13 - Obedience and Love
 
+***Obedientia et Dilectio***
+
 ***Lectio 1***
 
 ***Obedientia virtutis hierarchiae***
 
-***^13:1^ Omnis anima potestatibus sublimioribus subdita sit: non est enim potestas nisi a Deo: quae autem sunt, a Deo ordinatae sunt. [n. 1016]***
+^13:1^ Omnis anima potestatibus sublimioribus subdita sit: non est enim potestas nisi a Deo: quae autem sunt, a Deo ordinatae sunt. [n. 1016]  
 
 > ^13:2^ Itaque qui resistit potestati, Dei ordinationi resistit. Qui autem resistunt, ipsi sibi damnationem acquirunt: [n. 1025]
 
@@ -182,7 +184,7 @@ Lectio 2
 
 ***Plenitudo legis est dilectio***
 
-***^13:8^ Nemini quidquam debeatis, nisi ut invicem diligatis: qui enim diligit proximum, legem implevit. [n. 1044]***
+^13:8^ Nemini quidquam debeatis, nisi ut invicem diligatis: qui enim diligit proximum, legem implevit. [n. 1044]  
 
 > ^13:9^ Nam: Non adultabis: non occides: non furaberis: non falsum testimonium dices: non concupisces: et si quod est aliud mandatum, in hoc verbo instauratur: diliges proximum tuum sicut teipsum. [n. 1050]
 
@@ -274,7 +276,7 @@ Lectio 3
 
 ***Exhortatio indui Dominum Jesum Christum***
 
-***^13:11^ Et hoc scientes tempus: quia hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus. [n. 1060]***
+^13:11^ Et hoc scientes tempus: quia hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus. [n. 1060]  
 
 > ^13:12^ Nox praecessit, dies autem appropinquavit. [n. 1066] Abjiciamus ergo opera tenebrarum, et induamur arma lucis. [n. 1070]
 

@@ -1,10 +1,12 @@
 # C. 28 - The false prophet Hananiah
 
+***The false prophet Hananiah***
+
 ***Lecture 1***
 
 ***Hananiah’s false prophecy***
 
-***^28:1^ And it came to pass in that year, in the beginning of the reign of Zedekiah, king of Judah, in the fourth year, in the fifth month, that Hananiah son of Azur, a prophet of Gibeon, spoke to me in the house of the Lord before the priests and all the people, saying:***
+^28:1^ And it came to pass in that year, in the beginning of the reign of Zedekiah, king of Judah, in the fourth year, in the fifth month, that Hananiah son of Azur, a prophet of Gibeon, spoke to me in the house of the Lord before the priests and all the people, saying:  
 
 > ^28:2^ thus says the Lord of hosts, the God of Israel: I have broken the yoke of the king of Babylon.
 
@@ -54,7 +56,7 @@ Lecture 2
 
 ***Jeremiah’s response***
 
-***^28:5^ And Jeremiah the prophet spoke to Hananiah the prophet, in the eyes of the priests and in the eyes of the entire people, which stood in the house of the Lord.***
+^28:5^ And Jeremiah the prophet spoke to Hananiah the prophet, in the eyes of the priests and in the eyes of the entire people, which stood in the house of the Lord.  
 
 > ^28:6^ And Jeremiah the prophet said, ‘Amen! May the Lord do so; may the Lord raise up your words, which you have prophesied, to bring back the vessels to the house of the Lord, and all the exiles from Babylon to this place.
 
@@ -78,7 +80,7 @@ Lecture 3
 
 ***Jeremiah’s chain broken***
 
-***^28:10^ And Hananiah the prophet took the chain from the neck of Jeremiah, and broke it.***
+^28:10^ And Hananiah the prophet took the chain from the neck of Jeremiah, and broke it.  
 
 > ^28:11^ And Hananiah spoke in the sight of all the people saying, ‘Thus says the Lord: thus shall I break the yoke of Nebuchadnezzar, king of Babylon, after two years of days from the neck of every nation.’
 
@@ -96,7 +98,7 @@ Lecture 4
 
 ***Hananiah’s death***
 
-***^28:12b^ And the word of the Lord came to Jeremiah, after Hananiah the prophet had broken the yoke from the neck of Jeremiah the prophet, saying:***
+^28:12b^ And the word of the Lord came to Jeremiah, after Hananiah the prophet had broken the yoke from the neck of Jeremiah the prophet, saying:  
 
 > ^28:13^ go, and say to Hananiah: thus says the Lord: you have broken chains of wood, and in their place you shall make chains of iron.
 

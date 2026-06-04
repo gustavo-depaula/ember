@@ -1,5 +1,7 @@
 # On the Members of Christ
 
+***Quaestio 4***
+
 ***De angelis***
 
 ***Deinde quaeritur de membris Christi.***
@@ -24,7 +26,7 @@ Articulus 1
 
 ***Utrum sint compositi ex materia et forma***
 
-***Ad primum sic proceditur. Videtur quod angelus sit compositus ex materia et forma.***
+Ad primum sic proceditur. Videtur quod angelus sit compositus ex materia et forma.  
 
 Augustinus enim dicit in libro *De mirabilibus Sacrae Scripturae*: *omnipotens* Deus *ex materia informi quam prius condidit* corporalium et incorporalium, *sensibilium et insensibilium, intellectualium et intellectu carentium, multiformes species divisit*; angeli autem sunt intellectuales et incorporei; ergo habent materiam de sui compositione.  
 
@@ -64,9 +66,9 @@ Ad quintum dicendum quod in summo bono nulla diversitas esse potest, cum in eo s
 
 Articulus 2  
 
-***Utrum simul in actu possint esse in cognitione matutina et vespertina, hoc est ut simul cognoscant res in propria natura et in Verbo***
+Utrum simul in actu possint esse in cognitione matutina et vespertina, hoc est ut simul cognoscant res in propria natura et in Verbo  
 
-***Ad secundum sic proceditur. Videtur quod angelus non possit cognoscere simul res in Verbo et in propria natura.***
+Ad secundum sic proceditur. Videtur quod angelus non possit cognoscere simul res in Verbo et in propria natura.  
 
 Eadem enim potentia non potest simul geminum actum habere, ut quod intellectus simul intelligat et intelligat; sed alius actus est quo intellectus angeli videt res in Verbo et alius quo videt res in propria natura; ergo impossibile est ut simul videat res in Verbo et in propria natura.  
 
@@ -174,7 +176,7 @@ Articulus 5
 
 ***Utrum possint imprimere vel aliquid facere in istis corporalibus***
 
-***Ad quintum sic proceditur. Videtur quod angeli non possint agere in haec corpora inferiora.***
+Ad quintum sic proceditur. Videtur quod angeli non possint agere in haec corpora inferiora.  
 
 Actio enim esse non potest nisi inter ea que habent aliquam convenientiam ad invicem; sed angelus non habet convenientiam cum istis corporibus, cum corruptibilium et incorruptibilium etiam genus non sit unum, ut dicitur in X *Metaphysicae*; ergo angeli in haec corpora agere non possunt.  
 
@@ -226,7 +228,7 @@ Articulus 1
 
 ***Utrum vegetabilis et sensibilis anima sit a creatione***
 
-***Ad primum sic proceditur. Videtur quod anima vegetabilis et sensibilis educatur in esse per creationem.***
+Ad primum sic proceditur. Videtur quod anima vegetabilis et sensibilis educatur in esse per creationem.  
 
 Ut enim dicit Augustinus in libro *De vera religione*, *substantia* vivens *naturae* ordine praefertur *substantiae non* viventi; sed anima vegetabilis et sensibilis sunt substantiae viventes; ergo sunt nobiliores omnibus substantiis non viventibus; aliquae autem substantiae non viventes sunt immediatae a Deo creatae, ut elementa huius mundi; ergo et anima sensibilis et vegetabilis immediate a Deo creantur, cum nobilitas facti demonstret nobilitatem facientis.  
 
@@ -278,7 +280,7 @@ Quaestio 6
 
 ***Utrum caritas secundum suam essentiam augeatur***
 
-***Deinde quaeritur quantum ad gratiam pertinet, utrum caritas secundum suam essentiam augeatur? Et videtur quod non.***
+Deinde quaeritur quantum ad gratiam pertinet, utrum caritas secundum suam essentiam augeatur? Et videtur quod non.  
 
 Cum enim augmentum sit quaedam mutatio vel variatio, quod secundum essentiam augetur, secundum essentiam variatur vel mutatur; sed quod variatur secundum essentiam vel mutatur, aut generatur aut corrumpitur; ergo, si caritas secundum essentiam augetur, corrumpitur: non enim generatur, cum prius fuerit.  
 
@@ -308,7 +310,7 @@ Articulus 1
 
 ***Utrum Petrus negando Christum peccaverit mortaliter***
 
-***Ad primum sic proceditur. Videtur quod Petrus negando Christum non peccavit mortaliter.***
+Ad primum sic proceditur. Videtur quod Petrus negando Christum non peccavit mortaliter.  
 
 Dicit enim quaedam Glossa quod peccavit per surreptionem; sed peccatum per surreptionem est veniale et non mortale (unde primi motus, qui per surreptionem fiunt, sunt venialia peccata); ergo peccavit venialiter et non mortaliter.  
 
@@ -328,9 +330,9 @@ Ad secundum dicendum quod Bernardus improprie loquitur, et eius verbum ut verifi
 
 Articulus 2  
 
-***Utrum habere plures praebendas sine cura animarum absque dispensatione sit peccatum mortale***
+Utrum habere plures praebendas sine cura animarum absque dispensatione sit peccatum mortale  
 
-***Ad secundum sic proceditur. Videtur quod habere plures praebendas sine cura animarum absque dispensatione sit peccatum mortale.***
+Ad secundum sic proceditur. Videtur quod habere plures praebendas sine cura animarum absque dispensatione sit peccatum mortale.  
 
 Quicumque enim facit contra statutum concilii peccat mortaliter; sed qui habet plures praebendas facit contra statutum concilii generalis; ergo peccat mortaliter.  
 
@@ -366,9 +368,9 @@ Quaestio 8
 
 ***Articulus unicus***
 
-***Utrum omnes sancti qui sunt per Ecclesiam canonizati sint in gloria vel aliqui eorum sint in inferno***
+Utrum omnes sancti qui sunt per Ecclesiam canonizati sint in gloria vel aliqui eorum sint in inferno  
 
-***Deinde quaeritur quantum ad gloriam pertinet, utrum omnes sancti qui sunt per Ecclesiam canonizati sint in gloria vel aliqui eorum sint in inferno? Et videtur quod aliqui possunt esse in inferno de his qui sunt ab Ecclesia canonizati.***
+Deinde quaeritur quantum ad gloriam pertinet, utrum omnes sancti qui sunt per Ecclesiam canonizati sint in gloria vel aliqui eorum sint in inferno? Et videtur quod aliqui possunt esse in inferno de his qui sunt ab Ecclesia canonizati.  
 
 Nullus enim potest esse ita certus de statu alicuius sicut ipsemet, quia *quae sunt hominis* nemo novit *nisi spiritus hominis qui in ipso est*, ut dicitur I Corinthiorum II; sed homo non potest esse certus de se ipso utrum sit in statu salutis: Ecclesiastes IX: nemo scit utrum sit dignus odio vel amore; ergo multo minus Papa scit; ergo potest in canonizando errare.  
 

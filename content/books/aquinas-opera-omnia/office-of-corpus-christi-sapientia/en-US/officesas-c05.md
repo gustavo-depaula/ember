@@ -4,13 +4,13 @@
 
 Psalm 118 (119):33–48, 49–64, 65–80  
 
-***Set before me for a law the way of your justifications, O Lord: * and I will always seek after it, etc.***
+Set before me for a law the way of your justifications, O Lord: * and I will always seek after it, etc.  
 
 > Chapter
 
 ***1 Corinthians 11:23–24***
 
-***The Lord Jesus, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you. Do this in my memory.***
+The Lord Jesus, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you. Do this in my memory.  
 
 > Responsory
 

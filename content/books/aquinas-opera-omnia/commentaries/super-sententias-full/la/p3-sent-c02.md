@@ -1,5 +1,7 @@
 # D. 1 - The procession of created things
 
+***De processione creaturarum***
+
 ***Divisio primae partis textus***
 
 ***Dividitur ergo liber iste in partes duas:***
@@ -120,7 +122,7 @@ Articulus 2
 
 ***Utrum aliquid possit exire ab eo per creationem***
 
-***Ad secundum sic proceditur. Videtur quod per creationem nihil a Deo possit exire in esse.***
+Ad secundum sic proceditur. Videtur quod per creationem nihil a Deo possit exire in esse.  
 
 Omne enim quod fit possibile erat prius fieri: quia si non possibile eratAl.: *quia si non, impossible erat*, “for if it did not, it would be impossible for it to come to be.” fieri, et necesse non fieri ab aequipollenti, et ita factum non esset. Sed quidquid est possibile fieri vel moveri, est possibile per potentiam passivam; quae, cum non sit ens per se existens, oportet quod sit in aliquo ente, quod est in potentia.Parma adds *ad aliquid*. Sed nihil est ens in potentia ad aliquid, quin etiamParma adds *ad*. aliquid sit in actu. Ergo omne quod fit, fit ex aliquo ente in actu praeexistente. Sed nullum tale creatur: quia creare est ex nihilo aliquid facere, ut in littera dicitur. Ergo nihil a Deo potest creari.  
 
@@ -204,7 +206,7 @@ Articulus 4
 
 ***Utrum aliquid aliud a Deo efficiat aliquam rem***
 
-***Ad quartum sic proceditur. Videtur quod nihil aliud efficiat aliquam rem nisi Deus.***
+Ad quartum sic proceditur. Videtur quod nihil aliud efficiat aliquam rem nisi Deus.  
 
 Agens enim quod agit sine medio est perfectius quam illud quod medio indiget in sua actione. Sed Deus est agens perfectissime. Ergo videtur quod omnia nullo mediante producat.  
 
@@ -252,7 +254,7 @@ Articulus 5
 
 ***Utrum mundus sit aeternus***
 
-***Ad quintum sic proceditur. Videtur quod mundus sit aeternus: et ad hoc possunt adduci rationes sumptae ex quattuor, scilicet ex substantia caeli, ex tempore, ex motu, et ex agente vel movente.***
+Ad quintum sic proceditur. Videtur quod mundus sit aeternus: et ad hoc possunt adduci rationes sumptae ex quattuor, scilicet ex substantia caeli, ex tempore, ex motu, et ex agente vel movente.  
 
 Ex substantia caeli sic. Omne quod est ingenitum et incorruptibile, semper fuit et semper erit. Sed materia prima est ingenita et incorruptibilis; quia omne quod generatur, generatur ex subjecto, et quod corrumpitur, corrumpitur in subjectum; materiae autem primae non est aliquod subjectum. Ergo materia prima semper fuit et semper erit. Sed materia nunquam denudatur a forma. Ergo materia ab aeterno fuit perfecta formis suis, quibus species constituuntur; ergo universum ab aeterno fuit, cujus istae species sunt partes. Et haec est ratio Aristotelis, in 1 *Physicor*.  
 
@@ -376,9 +378,9 @@ Et similiter solvuntur multae aliae similes objectiones, ut in 1 libro dictum es
 
 Articulus 6  
 
-***Utrum convenienter exponitur: *in principio creavit Deus caelum et terram*, idest in Filio***
+Utrum convenienter exponitur: *in principio creavit Deus caelum et terram*, idest in Filio  
 
-***Ad sextum sic proceditur. Videtur quod inconvenienter exponatur: *in principio creavit Deus caelum et terram*, idest in Filio.***
+Ad sextum sic proceditur. Videtur quod inconvenienter exponatur: *in principio creavit Deus caelum et terram*, idest in Filio.  
 
 Pater enim est principium totius divinitatis, ut Augustinus dicit, libro 4 *De Trinit*., cap. 20. Ergo per principium appropriate debet intelligi Pater.  
 
@@ -412,7 +414,7 @@ Ad septimum dicendum, quod per caelum etiam intelligitur angelica natura, quae i
 
 Expositio primae partis textus  
 
-****Plato namque tria initia existimavit*. Sciendum quod in hoc Plato erravit, quia posuit formas exemplares per se subsistentes extra intellectum divinum, et neque ipsas neque materiam a Deo esse habere.***
+*Plato namque tria initia existimavit*. Sciendum quod in hoc Plato erravit, quia posuit formas exemplares per se subsistentes extra intellectum divinum, et neque ipsas neque materiam a Deo esse habere.  
 
 *Aristoteles vero duo principia dixit*. Videtur imperfecte tangere positionem ejus: quia ipse ponit tria principia in 1 *Physic*., materiam, formam et privationem.  
 
@@ -428,7 +430,7 @@ Ad aliud dicendum, quod secundum ipsum, primum principium agens et ultimus finis
 
 Divisio secundae partis textus  
 
-***DeterminatoParma: *dicto*. exitu rerum a primo principio, hic prosequitur ordinem earum in ultimum finem; et dividitur in partes tres:***
+DeterminatoParma: *dicto*. exitu rerum a primo principio, hic prosequitur ordinem earum in ultimum finem; et dividitur in partes tres:  
 
 in prima ostendit finem ultimum creaturarum:  
 
@@ -514,7 +516,7 @@ Articulus 2
 
 ***Utrum creaturae sint propter bonitatem Dei***
 
-***Ad secundum sic proceditur. Videtur quod creaturae non sint propter Dei bonitatem.***
+Ad secundum sic proceditur. Videtur quod creaturae non sint propter Dei bonitatem.  
 
 Sicut enim in 1 *Caeli et mundi* dicitur, nihil movetur naturaliter propter illud quod consequi non potest. Sed nulla res potest consequi divinam bonitatem: quia ipsa non recipitur ut perfectio alicujus creaturae vel forma. Ergo res non sunt ordinatae naturaliter in ipsam.  
 
@@ -582,7 +584,7 @@ Articulus 4
 
 ***Utrum anima rationalis debeat uniri corpori***
 
-***Ad quartum sic proceditur. Videtur quod anima rationalis corpori uniri non debuit.***
+Ad quartum sic proceditur. Videtur quod anima rationalis corpori uniri non debuit.  
 
 Ea enim quae sunt ad finem, determinantur secundum rationem finis. Sed anima rationalis est propter divinam beatitudinem et bonitatem. Ergo cum per corpus impediatur a participatione divinae beatitudinis, quia per operationes corporales impeditur anima a contemplatione spiritualium, videtur quod corpori uniri non debuit.  
 
@@ -610,7 +612,7 @@ Articulus 5
 
 ***Utrum anima humana tali corpori debat uniri***
 
-***Ad quintum sic proceditur. Videtur quod animaPLE: *quod anima*; Mandonnet: *quod tali*. tali corpori uniri non debeat.Parma: *debuit*.***
+Ad quintum sic proceditur. Videtur quod animaPLE: *quod anima*; Mandonnet: *quod tali*. tali corpori uniri non debeat.Parma: *debuit*.  
 
 Cum enim forma proportionetur materiae, nobilissimae formae debetur nobilissimum corpus. Sed corpus caeleste est nobilissimum corporum.Parma omits *sed corpus caeleste est nobilissimum corporum*. Ergo videtur quod corpori de natura ejusParma reads *caelesti* instead of *de natura ejus*. debet uniri anima, quae est nobilissima formarum.  
 
@@ -634,6 +636,6 @@ Ad quartum dicendum, quod elementa quanto plus habent de specie et de qualitatib
 
 Expositio secundae partis textus  
 
-****Intelligendo amaret*.According to Mandonnet, all the manuscripts place this exposition of the text here. Hic ponit quattuor, quae se secundum ordinem habent. Intellectus enim secundum apprehensionem boni gignit amorem, amor autem unit amato, et quodammodo illud suum esse facit possidendo. Et ex hac conjunctione sequitur delectatio quae perficit rationem fruitionis.***
+*Intelligendo amaret*.According to Mandonnet, all the manuscripts place this exposition of the text here. Hic ponit quattuor, quae se secundum ordinem habent. Intellectus enim secundum apprehensionem boni gignit amorem, amor autem unit amato, et quodammodo illud suum esse facit possidendo. Et ex hac conjunctione sequitur delectatio quae perficit rationem fruitionis.  
 
 Caetera ex praedictis manifesta sunt.

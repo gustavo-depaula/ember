@@ -1,6 +1,8 @@
 # Prologue
 
-***He sent his Word and healed them, and delivered them from all their destructions.***
+***Psalm 107 [106]:20***
+
+He sent his Word and healed them, and delivered them from all their destructions.  
 
 > By the sin of the first man, the human race incurred two things, namely, death and infirmity. Death, because of its separation from the principle of life, of which it is said, *with you is the font of life* (Ps 36 [35]:9); whoever is separated from this principle necessarily dies, and this happened through the first man. Hence it is said, *by one man sin entered the world, and by sin, death* (Rom 5:12). But the human race incurred infirmity because it forsook grace, which is man’s health. Jeremiah seeks this health when he says: *heal me, Lord, and I shall be healed* (Jer 17:14); and similarly the Psalm says, *have mercy on me, Lord, for I am* *weak* (Ps 6:2).
 

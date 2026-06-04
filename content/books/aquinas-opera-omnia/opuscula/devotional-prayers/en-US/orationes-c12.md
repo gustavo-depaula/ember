@@ -1,5 +1,7 @@
 # I Praise, Glorify, and Bless You, My God
 
+***Prayer of praise and thanksgiving for the benefits of God***
+
 ***I praise,***
 ***glorify and bless you,***
 ***my God,***

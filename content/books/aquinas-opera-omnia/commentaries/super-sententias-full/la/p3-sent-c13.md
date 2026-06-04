@@ -1,8 +1,10 @@
 # D. 12 - Purely bodily creation
 
+***De natura pure corporali***
+
 ***Divisio textus***
 
-***In parte praecedenti determinavit Magister de natura pure spirituali; in parte ista determinat de natura pureParma omits *spirituali; in parte ista determinat de natura pure*. corporali, quantum pertinet ad theologi considerationem, scilicet secundum quod a Deo in operibus sex dierum primitus instituta est.***
+In parte praecedenti determinavit Magister de natura pure spirituali; in parte ista determinat de natura pureParma omits *spirituali; in parte ista determinat de natura pure*. corporali, quantum pertinet ad theologi considerationem, scilicet secundum quod a Deo in operibus sex dierum primitus instituta est.  
 
 Dividitur autem in partes tres:  
 
@@ -112,7 +114,7 @@ Articulus 2
 
 ***Utrum omnia sint creata simul et distincta per species***
 
-***Ad secundum sic proceditur. Videtur quod omnia sint simul creata et distincta per species.***
+Ad secundum sic proceditur. Videtur quod omnia sint simul creata et distincta per species.  
 
 Primo per hoc quod habetur Eccli. 18:1: *qui vivit in aeternum creavit omnia simul*.  
 
@@ -160,7 +162,7 @@ Articulus 3
 
 ***Utrum distinctio dierum salvetur secundum expositionem Augustini***
 
-***Ad tertium sic proceditur. Videtur quod, secundum expositionem Augustini, *Super Genes. ad litt*., lib. 4, cap. 33, etc., dierum distinctio non salvetur.***
+Ad tertium sic proceditur. Videtur quod, secundum expositionem Augustini, *Super Genes. ad litt*., lib. 4, cap. 33, etc., dierum distinctio non salvetur.  
 
 Dies enim nominat quoddam tempus. Sed in rerum formatione, secundum Augustinum, non fuit successio temporis. Ergo nec salvata est distinctio dierum.  
 
@@ -264,7 +266,7 @@ Articulus 5
 
 ***Utrum quattuor coaeva convenienter assignentur***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter assignentur quattuor coaeva, scilicet caelum empyreum, angelica natura, materia quattuor elementorum, et tempus.***
+Ad quintum sic proceditur. Videtur quod inconvenienter assignentur quattuor coaeva, scilicet caelum empyreum, angelica natura, materia quattuor elementorum, et tempus.  
 
 Locus enim consequitur generationem rerum, sicut et tempus. Sed de loco nulla fit mentio inter prima creata. Ergo nec de tempore.  
 
@@ -298,7 +300,7 @@ Ad quintum dicendum, quod verbum, proprie loquendo, importat rationem formae exe
 
 Expositio textus  
 
-****Quam nomine terrae, ut Augustinus ait* Contra Manichaeos*, ideo appellavit Moyses, quia terra inter omnia elementa mundi minus est speciosa*. Sciendum quod, secundum Augustinum, qui nonAl. omit *non*. ponit in distinctione rerum ordinem temporis, oportet quod materia prima intelligatur omnino informis, ut dictum est: et sic vocabitur nomine aquae vel terrae propter similitudinem tantum, ut dicatur terra propter carentiam formae; terra enim inter omnia elementa minus habet de specie, cum sit magis elementum grossum; aqua vero propter receptibilitatem formarum, quia humidum est bene receptibile et terminabile; sed abyssus dicitur ex hoc quod est turpis per accidens, ut in 1 *Physic*. dicitur: abyssus enim dicitur ab “a,” quod est sine, et “bysso,” quod est genus lini candidissimi, id est sine candore; et hoc accidit materiae ratione privationis. Vel dicitur abyssus, quasi sine basi, de aliqua magna profunditate, et praecipuae aquarum, secundum Augustinum: et similiter materia prima abyssus dicitur, inquantum privatur forma, per quam esse substantificum recipit. Sed secundum alios sanctos possumus dicere quod ad litteram erat sub forma substantiali terrae vel aquae.***
+*Quam nomine terrae, ut Augustinus ait* Contra Manichaeos*, ideo appellavit Moyses, quia terra inter omnia elementa mundi minus est speciosa*. Sciendum quod, secundum Augustinum, qui nonAl. omit *non*. ponit in distinctione rerum ordinem temporis, oportet quod materia prima intelligatur omnino informis, ut dictum est: et sic vocabitur nomine aquae vel terrae propter similitudinem tantum, ut dicatur terra propter carentiam formae; terra enim inter omnia elementa minus habet de specie, cum sit magis elementum grossum; aqua vero propter receptibilitatem formarum, quia humidum est bene receptibile et terminabile; sed abyssus dicitur ex hoc quod est turpis per accidens, ut in 1 *Physic*. dicitur: abyssus enim dicitur ab “a,” quod est sine, et “bysso,” quod est genus lini candidissimi, id est sine candore; et hoc accidit materiae ratione privationis. Vel dicitur abyssus, quasi sine basi, de aliqua magna profunditate, et praecipuae aquarum, secundum Augustinum: et similiter materia prima abyssus dicitur, inquantum privatur forma, per quam esse substantificum recipit. Sed secundum alios sanctos possumus dicere quod ad litteram erat sub forma substantiali terrae vel aquae.  
 
 *Terra autem erat inanis et vacua*. Gen. 1:1. Si intelligitur per terram materia informis, sic oportet exponi receptibilitas materiae quodammodo esse similis receptibilitati loci, inquantum in una materia manente succedunt sibi diversae formae, sicut in uno loco diversa corpora; propter quod Plato locum et materiam idem esse dixit, ut in 4 *Physic*. dicitur: et ideo ea quae sunt loci, similitudinarie de materia dicuntur; ut materia dicatur *inanis* et *vacua*, secundum carentiam formae: sed *vacua* inquantum forma implet capacitatem materiae; *inanis*, inquantum forma est finis in quem tendit appetitus materiae.  
 

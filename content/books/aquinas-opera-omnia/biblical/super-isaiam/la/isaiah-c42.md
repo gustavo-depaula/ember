@@ -1,5 +1,7 @@
 # Chapter 40
 
+***^40:1^ Consolamini, consolamini popule meus, dicit Deus vester.***
+
 > ^40:2^ Loquimini ad cor Jerusalem et advocate eam; quoniam completa est malitia ejus dimissa est iniquitas illius; suscepit de manu Domini duplicia pro omnibus peccatis suis.
 
 > ^40:3^ Vox clamantis in deserto: parate viam Domini, rectas facite in solitudine semitas Dei nostri.

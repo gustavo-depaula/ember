@@ -1,5 +1,7 @@
 # C. 30 - God promises liberation
 
+***Lectio 1***
+
 ***^30:1^ Hoc verbum quod factum est ad Jeremiam a Domino, dicens:***
 
 > ^30:2^ haec dicit Dominus Deus Israel, dicens: scribe tibi omnia verba quae locutus sum ad te, in libro.
@@ -150,7 +152,7 @@ Tertio tangit justitiae utilitatem: ***et eritis mihi in populum***. Eccli. 10: 
 
 Lectio 4  
 
-***^30:23^ Ecce turbo Domini furor egrediens, procella ruens in capite impiorum conquiescet.***
+^30:23^ Ecce turbo Domini furor egrediens, procella ruens in capite impiorum conquiescet.  
 
 > ^30:24^ Non avertet iram indignationis Dominus, donec faciat, et compleat cogitationem cordis sui. In novissimo dierum intelligetis ea.
 

@@ -1,8 +1,10 @@
 # D. 28 - Errors about grace
 
+***Errors about grace***
+
 ***Division of the text***
 
-***After he has determined the truth about grace, here he rules out certain errors concerning grace. This is divided into two parts.***
+After he has determined the truth about grace, here he rules out certain errors concerning grace. This is divided into two parts.  
 
 In the first, he rules out the error of Pelagius, who derogated from grace.  
 
@@ -58,7 +60,7 @@ Article 1
 
 ***Whether there is any good that man can do without grace***
 
-***To the first we proceed as follows.Parallel texts: below, d. 39, exposition of the text; *In IV Sent*., d. 17, q. 1, a. 2, resp. and ad 3; *ST* I-II.109.2; *On Truth*, q. 24, a. 14; *Commentary on 2 Corinthians*, ch. 3, lect. 1. It seems that man without grace can do no good.***
+To the first we proceed as follows.Parallel texts: below, d. 39, exposition of the text; *In IV Sent*., d. 17, q. 1, a. 2, resp. and ad 3; *ST* I-II.109.2; *On Truth*, q. 24, a. 14; *Commentary on 2 Corinthians*, ch. 3, lect. 1. It seems that man without grace can do no good.  
 
 Obj. 1: For, as Christ says to his disciples: *without me you can do nothing* (John 15:5). But God only dwells in us through grace. Therefore, it seems that without grace man can do nothing good.  
 
@@ -98,7 +100,7 @@ Article 2
 
 ***Whether without grace man can avoid sin***
 
-***To the second we proceed as follows.Parallel texts: *In II Sent*., d. 20, q. 2, a. 3, ad 5; d. 24, q. 1, a. 4; *ST* I-II.63.2, ad 2; 74.3, ad 2; 109.8; 111.8; *SCG* III.160; *On Truth*, q. 22, a. 5, ad 7; q. 24, a. 1, ad 10, 12; aa. 12–13; *On Evil*, q. 3, a. 1, ad 9; *Commentary on 1 Corinthians*, ch. 12, lect. 1; *Commentary on Hebrews*, ch. 10, lect. 3. It seems that without grace man cannot avoid sin.***
+To the second we proceed as follows.Parallel texts: *In II Sent*., d. 20, q. 2, a. 3, ad 5; d. 24, q. 1, a. 4; *ST* I-II.63.2, ad 2; 74.3, ad 2; 109.8; 111.8; *SCG* III.160; *On Truth*, q. 22, a. 5, ad 7; q. 24, a. 1, ad 10, 12; aa. 12–13; *On Evil*, q. 3, a. 1, ad 9; *Commentary on 1 Corinthians*, ch. 12, lect. 1; *Commentary on Hebrews*, ch. 10, lect. 3. It seems that without grace man cannot avoid sin.  
 
 Obj. 1: First, through what the Master said above,*Sent*. II, 25.5(157).1. that man before the reparation of grace through free decision cannot not sin, even mortally. Therefore, without grace man cannot avoid sin.  
 
@@ -138,7 +140,7 @@ Article 3
 
 ***Whether without grace man can fulfill God’s precepts***
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.109.4; *On Truth*, q. 24, a. 14, ad 1, 2, 7; *Commentary on Romans*, ch. 2, lect. 3. It seems that without grace man cannot fulfill God’s precepts.***
+To the third we proceed as follows.Parallel texts: *ST* I-II.109.4; *On Truth*, q. 24, a. 14, ad 1, 2, 7; *Commentary on Romans*, ch. 2, lect. 3. It seems that without grace man cannot fulfill God’s precepts.  
 
 Obj. 1: For one who keeps the commandments of God merits eternal life, as it is said: *do this, and you will live* (Luke 10:28). But without grace man is not able to do this. Therefore, neither can he fulfill the commandments of the law.  
 
@@ -172,7 +174,7 @@ Article 4
 
 ***Whether without some grace man can prepare himself for grace***
 
-***To the fourth we proceed as follows.Parallel texts: *In II Sent*., d. 5, q. 2, a. 1; *In IV Sent*., d. 17, q. 1, a. 2, resp. and ad 2; *ST* I.62.2; I-II.109.6; *SCG* III.149; *On Truth*, q. 24, a. 15; *Quodl*. I, q. 4, a. 2; *Commentary on John*, ch. 1, lect. 6; *Commentary on Hebrews*, ch. 12, lect. 3. It seems that without some grace man cannot prepare himself for grace.***
+To the fourth we proceed as follows.Parallel texts: *In II Sent*., d. 5, q. 2, a. 1; *In IV Sent*., d. 17, q. 1, a. 2, resp. and ad 2; *ST* I.62.2; I-II.109.6; *SCG* III.149; *On Truth*, q. 24, a. 15; *Quodl*. I, q. 4, a. 2; *Commentary on John*, ch. 1, lect. 6; *Commentary on Hebrews*, ch. 12, lect. 3. It seems that without some grace man cannot prepare himself for grace.  
 
 Obj. 1: This is, first, because of what is said in Jeremiah 10:23: *the way of man is not in himself . . . it is not in man who walks to direct his steps*. But no one is prepared for grace unless his steps are directed and he seeks the way of salvation. Therefore, it is not in man’s power to prepare himself for grace.  
 
@@ -210,7 +212,7 @@ Article 5
 
 ***Whether there is any truth that man can know without grace***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.109.1; *Commentary on 1 Corinthians*, ch. 12, lect. 1. It seems that without grace man can know nothing true.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.109.1; *Commentary on 1 Corinthians*, ch. 12, lect. 1. It seems that without grace man can know nothing true.  
 
 Obj. 1: This is, first, because of what is said in 1 Corinthians 12:3: *no man can say, ‘Jesus is Lord,’ except by the Holy Spirit*. Commenting on this, Ambrose says that every truth, no matter who says it, is from the Holy Spirit.In fact, Ambrosiaster, in a Gloss on 1 Corinthians 12:3 (PL 17:258). But the Holy Spirit only dwells in us through grace. Therefore, no truth can be spoken or known without grace.  
 
@@ -244,7 +246,7 @@ Reply Obj. 5: God himself is the cause of whatever knowledge we have. But this n
 
 Exposition of the text  
 
-****‘That they believe man to be able to fulfill all divine mandates without grace*.’*Sent*. II, 28.1(181).2, quoting Augustine, *De haeresibus*, ch. 88 (CCSL 46; PL 42:47). They took this in the sense that they can be fulfilled simply, as being efficacious for meriting eternal life.***
+*‘That they believe man to be able to fulfill all divine mandates without grace*.’*Sent*. II, 28.1(181).2, quoting Augustine, *De haeresibus*, ch. 88 (CCSL 46; PL 42:47). They took this in the sense that they can be fulfilled simply, as being efficacious for meriting eternal life.  
 
 *‘And God only helps us through his law and doctrine so that we may know the things which we must do and for which we must hope*.’*Sent*. II, 28.1(181).2, quoting Augustine, *De haeresibus*, ch. 88 (CCSL 46; PL 42:47). From this it is clear that Pelagius posited that we cannot have knowledge of what is in the law or what pertains to faith through the natural power of reason. And in this he was of the right opinion.  
 

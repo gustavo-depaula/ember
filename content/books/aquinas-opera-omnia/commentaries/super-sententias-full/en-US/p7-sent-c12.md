@@ -1,6 +1,8 @@
 # D. 11 - Sacrament-and-reality in the Eucharist
 
-***After the Master has considered the reality contained in this sacrament, showing that the true body is contained there, here he intends to examine the conversion of bread into the body of Christ, by which it happens that the body of Christ is contained under the sacrament. And this is divided into two parts: in the first, he examines this conversion of bread into the body of Christ; in the second, he shows how the species remain when the substantial conversion has happened, at: *Christ gave his body and blood under another species for three reasons*.Peter Lombard, *Sententiae* IV, 11.3 (62). 1.***
+***Sacrament-and-reality in the Eucharist***
+
+After the Master has considered the reality contained in this sacrament, showing that the true body is contained there, here he intends to examine the conversion of bread into the body of Christ, by which it happens that the body of Christ is contained under the sacrament. And this is divided into two parts: in the first, he examines this conversion of bread into the body of Christ; in the second, he shows how the species remain when the substantial conversion has happened, at: *Christ gave his body and blood under another species for three reasons*.Peter Lombard, *Sententiae* IV, 11.3 (62). 1.  
 
 Concerning the first he does three things: first, he inquires what the aforementioned conversion is like; second, he considers this question according to what all agree on, at: *and yet I know it is not formal*;*Sent* IV, 11.1 (60). 1. third, he considers what different people have different opinions about, at: *to some it seems to be substantial*.*Sent* IV, 11.1 (60). 1. And this is divided into three parts according to the three opinions that he cites. The second part begins at: *but some say that*, etc.;*Sent* IV, 11.2 (61). 5. the third at: *but others held*, etc.*Sent* IV, 11.2 (61). 6.  
 
@@ -31,7 +33,7 @@ first, whether the bread remains there after the consecration;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 75, a. 2; *SCG* IV, ch. 63; *Super Matt.* 26; *Super I ad Cor*. 11, lec. 4. It seems that the bread’s substance remains after the consecration, as the third opinion says. For Damascene says, *since it is the custom for men to eat bread and wine, he has joined them to divinity, and made those things his own body and blood*.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 13 (PG 94:1144). But a joining requires that both of the things joined actually exist. Therefore, the bread remains with the body of Christ.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 75, a. 2; *SCG* IV, ch. 63; *Super Matt.* 26; *Super I ad Cor*. 11, lec. 4. It seems that the bread’s substance remains after the consecration, as the third opinion says. For Damascene says, *since it is the custom for men to eat bread and wine, he has joined them to divinity, and made those things his own body and blood*.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 13 (PG 94:1144). But a joining requires that both of the things joined actually exist. Therefore, the bread remains with the body of Christ.  
 
 Obj. 2: Furthermore, what remains of the bread in this sacrament after the consecration, since it is sacrament alone, must signify the true body of Christ, and also the mystical body. But this signification does not belong to bread except by reason of its substance, according to which it is made out of many grains, and according as it is able to restore and nourish. Therefore, it must remain in the substance of bread.  
 
@@ -43,7 +45,7 @@ Furthermore (2), if the bread’s substance remained there, then the one receivi
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the appearance of the bread must not remain.Parallels: below, d. 12, q. 1, a. 1, qa. 2; *ST* III, q. 75, a. 5; *SCG* IV, chs. 62, 63, and 65; *De rationibus fidei*, ch. 8; *Super I ad Cor*. 11, lec. 5. For in the sacrament of truth there should be no deception. But since accidents lead to the recognition of what something is, according to the Philosopher in *On the Soul* 1,Aristotle, *On the Soul*, Bk. 1, ch. 1 (402b21). it seems to be a deception to display the accidents of something whose substance no longer remains. Therefore, since the bread’s substance does not remain, its accidents should not remain.***
+Obj. 1: Moreover, it seems that the appearance of the bread must not remain.Parallels: below, d. 12, q. 1, a. 1, qa. 2; *ST* III, q. 75, a. 5; *SCG* IV, chs. 62, 63, and 65; *De rationibus fidei*, ch. 8; *Super I ad Cor*. 11, lec. 5. For in the sacrament of truth there should be no deception. But since accidents lead to the recognition of what something is, according to the Philosopher in *On the Soul* 1,Aristotle, *On the Soul*, Bk. 1, ch. 1 (402b21). it seems to be a deception to display the accidents of something whose substance no longer remains. Therefore, since the bread’s substance does not remain, its accidents should not remain.  
 
 Obj. 2: Furthermore, the reasons assigned in the text do not seem fitting. For although faith slips away from the testing of reason, nevertheless it does not require contradicting reason: for those things that are of faith are not against reason, but above it. But what is seen under another appearance is not only against reason, but even appears against the senses. Therefore, it should not have appeared under a different species for the sake of the merit of faith.  
 
@@ -57,7 +59,7 @@ Furthermore (2), the use of this sacrament is eating, as was said above in Disti
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that also the substantial form of bread should remain.Parallels: *ST* III, q. 75, a. 6; *Super I ad Cor*. 11, lec. 4. For substantial operation cannot happen without substantial form. But to nourish is the operation of a substantial form, for *something nourishes to the extent that it is food*, as it says in *On the Soul* 2.Aristotle, *On the Soul*, Bk. 2, ch. 4 (416b13). Therefore, since the appearances that remain in the sacrament also nourish physically, as certain people say, it seems that the substantial form of bread remains.***
+Obj. 1: Moreover, it seems that also the substantial form of bread should remain.Parallels: *ST* III, q. 75, a. 6; *Super I ad Cor*. 11, lec. 4. For substantial operation cannot happen without substantial form. But to nourish is the operation of a substantial form, for *something nourishes to the extent that it is food*, as it says in *On the Soul* 2.Aristotle, *On the Soul*, Bk. 2, ch. 4 (416b13). Therefore, since the appearances that remain in the sacrament also nourish physically, as certain people say, it seems that the substantial form of bread remains.  
 
 Obj. 2: Furthermore, what is not changed into something of the body of Christ must remain after the consecration. But the bread’s substantial form is not converted into anything of the body of Christ: for if it were converted, it would have had to be converted into the soul, which is the substantial form of the body of Christ, into which nothing is converted, as is evident from the previous distinction.See d. 10, a. 2, qa. 4. Therefore, the substantial form of bread remains, like the accidents.  
 
@@ -71,7 +73,7 @@ Furthermore (2), the sensible appearances of bread and wine are sacrament alone 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that this position, which holds that the bread’s substance remains after the consecration together with the true body, is unbecoming to this sacrament, and impossible, and heretical.***
+To the first question, I answer that this position, which holds that the bread’s substance remains after the consecration together with the true body, is unbecoming to this sacrament, and impossible, and heretical.  
 
 It is unbecoming because it would impede the veneration due to this sacrament, for it would be an occasion of idolatry if the veneration of latria were given to the host while the substance of bread remained there. It would also be against the sacrament’s signification, for the species would not lead to the true body of Christ by the mode of a sign, but rather they would signify the substance of bread. It would also be against the use of the sacrament, for then this food would not be purely spiritual but also physical.  
 
@@ -89,7 +91,7 @@ Reply Obj. 3: Something more unfitting results from this position than that cont
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the accidents of the bread remain there the same in number. However, how they exist there, whether without their subject or in some other way, will be said in the following distinction, Question 1, Article 1. But the reason why they remain is assigned in the text on account of the sacrament’s use, and as to spiritual eating, which is by faith, namely so that faith would be of greater merit in sacramental Communion, and so that it would not be dreadful to us, if it were consumed in his proper appearance, and open to the derision of unbelievers. Another reason can be assigned on the part of the sacrament itself: for spiritual things in sacraments are customarily shown by physical signs. And since the true body of Christ is not physical food, but spiritual food, for this reason it was necessary that through sensible likenesses physical food would be signified, and that it would be contained by those likenesses.***
+To the second question, it should be said that the accidents of the bread remain there the same in number. However, how they exist there, whether without their subject or in some other way, will be said in the following distinction, Question 1, Article 1. But the reason why they remain is assigned in the text on account of the sacrament’s use, and as to spiritual eating, which is by faith, namely so that faith would be of greater merit in sacramental Communion, and so that it would not be dreadful to us, if it were consumed in his proper appearance, and open to the derision of unbelievers. Another reason can be assigned on the part of the sacrament itself: for spiritual things in sacraments are customarily shown by physical signs. And since the true body of Christ is not physical food, but spiritual food, for this reason it was necessary that through sensible likenesses physical food would be signified, and that it would be contained by those likenesses.  
 
 Reply Obj. 1: In this sacrament there is neither deception nor pretense. For the senses are not deceived, since they only need to judge sensible species, which indeed are truly there just as they are presented to the senses. Nor is the intellect deceived, which must judge the substance of things aided by faith.  
 
@@ -101,7 +103,7 @@ Reply Obj. 4: In exhibiting this kind of species, faith can be built up, but if 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the bread’s substantial form does not remain after the consecration, and this is for three reasons. First, because in any change or conversion, the starting terminus is of the same kind as the ending terminus. Now what the conversion terminates in is not form alone nor is it matter alone, but a substance existing actually; and this is what the transubstantiating words declare that bring about what they signify. Hence since in them the pronoun *this* expresses a composite substance in act, it is necessary that what is converted into the body of Christ is also a composite substance, not the bread’s matter alone, and this is why the form of the bread does not remain. Second, because it would remain in vain. For accidents remain so that they can be signs, because this is what they exist for, so that we might receive the understanding of the underlying substance through them, since they are sensible, and in that way they are a path to the understanding of intelligible things. But substantial form is not sensible, but ordered to substantial being. Hence since the substance of the bread does not remain, the substantial form would be there to no purpose. Third, because the accidents would not directly lead to the body of Christ, but to the bread’s substantial form remaining, and so something of the sacrament’s signification would be destroyed.***
+To the third question, it should be said that the bread’s substantial form does not remain after the consecration, and this is for three reasons. First, because in any change or conversion, the starting terminus is of the same kind as the ending terminus. Now what the conversion terminates in is not form alone nor is it matter alone, but a substance existing actually; and this is what the transubstantiating words declare that bring about what they signify. Hence since in them the pronoun *this* expresses a composite substance in act, it is necessary that what is converted into the body of Christ is also a composite substance, not the bread’s matter alone, and this is why the form of the bread does not remain. Second, because it would remain in vain. For accidents remain so that they can be signs, because this is what they exist for, so that we might receive the understanding of the underlying substance through them, since they are sensible, and in that way they are a path to the understanding of intelligible things. But substantial form is not sensible, but ordered to substantial being. Hence since the substance of the bread does not remain, the substantial form would be there to no purpose. Third, because the accidents would not directly lead to the body of Christ, but to the bread’s substantial form remaining, and so something of the sacrament’s signification would be destroyed.  
 
 Reply Obj. 1: This argument moves certain people to claim that substantial form remains there, but it is evident that this argument would lead rather to the conclusion that the bread’s matter remains than that its form does. For bread does not nourish, nor does any food, except as it is converted into something that is nourished; but of what is converted into something else by natural conversion, the form does not remain, but the matter does. Hence the bread’s substantial form, if it remained, would not be able to nourish more than its accidents do. But whether those appearances can nourish will be said in the next distinction.See d. 12, q. 1, a. 2, qa. 5.  
 
@@ -115,7 +117,7 @@ Article 2
 
 ***Whether the bread is annihilated***
 
-***Obj. 1: To the second we proceed thus.Parallels: *ST* III, q. 75, a. 3; *SCG* IV, ch. 63; *Quodl.* V, q. 6, a. 1; *Super Matt.* 26; *Super I ad Cor.* 11, lec. 5. It seems that the bread is annihilated once the conversion has been done. For in any change that is according to something internal to a thing, the starting terminus does not remain except in potency to the thing lying before it, as when something black becomes white, blackness does not remain except in the potency of the subject; and when fire is made from the air, the form of the air, which is the starting terminus, does not remain except in the potency of the shared matter, which is subject to the change. But in the conversion that we are discussing, the starting terminus is the whole substance of the bread. Therefore, since there is not anything to take as underlying the whole substance of the bread, since it is not in a subject as an accident, nor in matter as a form, it seems that it is entirely annihilated.***
+Obj. 1: To the second we proceed thus.Parallels: *ST* III, q. 75, a. 3; *SCG* IV, ch. 63; *Quodl.* V, q. 6, a. 1; *Super Matt.* 26; *Super I ad Cor.* 11, lec. 5. It seems that the bread is annihilated once the conversion has been done. For in any change that is according to something internal to a thing, the starting terminus does not remain except in potency to the thing lying before it, as when something black becomes white, blackness does not remain except in the potency of the subject; and when fire is made from the air, the form of the air, which is the starting terminus, does not remain except in the potency of the shared matter, which is subject to the change. But in the conversion that we are discussing, the starting terminus is the whole substance of the bread. Therefore, since there is not anything to take as underlying the whole substance of the bread, since it is not in a subject as an accident, nor in matter as a form, it seems that it is entirely annihilated.  
 
 Obj. 2: Furthermore, regarding the same thing something is bound to be starting terminus and ending terminus, just as from something white, something black is made, and from something black something white is made. But of a change, of which the ending terminus is the whole substance of a thing, the starting terminus is simply nothing, as is evident in creation. Therefore likewise, since in the conversion that we are discussing the starting terminus is the whole substance of the bread, the ending terminus will simply be nothing. Therefore the substance of the bread is annihilated.  
 
@@ -155,7 +157,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third we proceed thus.Parallels: *ST* III, q. 75, a. 4; *SCG* IV, ch. 63; *Quodl.* V, q. 6, a. 1; *De rationibus fidei,* ch. 8; *Super I ad Cor.* 11, lec. 4 & 5. It seems that the bread cannot be converted into the body of Christ. For a conversion is a kind of change. But in no kind of change is bread converted into the body of Christ; for that is not generation and corruption, because the matter of the bread does not remain; nor is there an alteration, because none of its substance remains in act; nor is there an increase, because nothing is added to the body of Christ, nor is there local motion, for the body of Christ itself did not descend from heaven, as Damascene says.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 13 (PG 94:1143). Therefore, it seems that the bread is in no way converted into the body of Christ.***
+Obj. 1: To the third we proceed thus.Parallels: *ST* III, q. 75, a. 4; *SCG* IV, ch. 63; *Quodl.* V, q. 6, a. 1; *De rationibus fidei,* ch. 8; *Super I ad Cor.* 11, lec. 4 & 5. It seems that the bread cannot be converted into the body of Christ. For a conversion is a kind of change. But in no kind of change is bread converted into the body of Christ; for that is not generation and corruption, because the matter of the bread does not remain; nor is there an alteration, because none of its substance remains in act; nor is there an increase, because nothing is added to the body of Christ, nor is there local motion, for the body of Christ itself did not descend from heaven, as Damascene says.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 13 (PG 94:1143). Therefore, it seems that the bread is in no way converted into the body of Christ.  
 
 Obj. 2: Furthermore, in every conversion there must be something that is changed. Now, what is changed is what is related differently now than before. Therefore, if the bread is converted into the body of Christ, there must be something the same in number that was formerly of the substance of bread and is now of the substance of the body of Christ, which no one holds. Therefore the bread is not converted into the body of Christ.  
 
@@ -169,7 +171,7 @@ Furthermore (2), what neither remains as itself nor is annihilated, must be conv
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that this conversion happens successively.Parallels: *ST* III, q. 75, a. 7; *Quodl*. VII, q. 4, a. 2. For this conversion is done by the power of words. But words cannot do something except while they exist. Therefore, since they have being in succession, it seems that the mentioned conversion happens successively.***
+Obj. 1: Moreover, it seems that this conversion happens successively.Parallels: *ST* III, q. 75, a. 7; *Quodl*. VII, q. 4, a. 2. For this conversion is done by the power of words. But words cannot do something except while they exist. Therefore, since they have being in succession, it seems that the mentioned conversion happens successively.  
 
 Obj. 2: Furthermore, it is impossible for something to be bread and the body of Christ in the same instant. Therefore, there is no single instant in which the body of Christ first exists and the bread last exists. But between two certain instants there is a middle time, as is proved in the *Physics* 6.Aristotle, *Physics*, Bk. 6, ch. 3 (234a5–10). Therefore the conversion of bread into the body of Christ is successive.  
 
@@ -183,7 +185,7 @@ Furthermore (2), in every successive change there is something in the middle bef
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that this conversion is more miraculous than any other change. For the more easily our reason consents to something, the less miraculous it is. But there is no miraculous conversion that our reason consents to less than this one; for certain philosophers led by natural reason even arrived at creation, and also that matter obeys separated substances, and God most of all, for all its formation. Therefore, this conversion is more miraculous than all those changes.***
+Obj. 1: Moreover, it seems that this conversion is more miraculous than any other change. For the more easily our reason consents to something, the less miraculous it is. But there is no miraculous conversion that our reason consents to less than this one; for certain philosophers led by natural reason even arrived at creation, and also that matter obeys separated substances, and God most of all, for all its formation. Therefore, this conversion is more miraculous than all those changes.  
 
 Obj. 2: Furthermore, where there is more resistance, there is greater difficulty in making the conversion, and consequently a greater miracle. But in this conversion there is the greatest resistance, since a whole must be converted into a whole. Therefore, this conversion is of the greatest difficulty; therefore it is the most miraculous.  
 
@@ -195,7 +197,7 @@ Furthermore (2), the higher the terminus of the change, the greater the power th
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that among natural changes there are some changes in which nothing intrinsic to the thing varies, but only what is outside it, as is clear in the case of local motion. But in some changes what is in a thing incidentally varies, namely, quantity or quality, as is clear in the motion of increase or alteration; other changes extend even to the substantial form, like generation and corruption. But natural change cannot extend to variations of matter: for it works from the underlying matter, just like every second agent works with those underlying things that are given to him by the first agent. And these principles must remain in the operation of nature, as is said in the *Physics* 1.Aristotle, *Physics*, Bk. 1, ch. 7 (190a17ff.). But just as the being of a composite, which nature produces from the underlying matter, is subject to nature’s operation, so also that matter which nature presupposes is subject to the action of the first agent, namely, God, from whom this thing receives the imperfect being (namely, being in potency) that it has. Hence divine operation can extend to the variation of matter, namely so that just as nature makes this whole to be this whole, so that it makes the whole water from the whole air, so also God may make that thing from this designated matter. And since designated matter is the principle of individuation, for this reason only by God’s operation can it happen that this particular individual thing become that particular individual thing; and that is the kind of conversion that is in this sacrament, since from this bread is made this body of Christ.***
+To the first question, I answer that among natural changes there are some changes in which nothing intrinsic to the thing varies, but only what is outside it, as is clear in the case of local motion. But in some changes what is in a thing incidentally varies, namely, quantity or quality, as is clear in the motion of increase or alteration; other changes extend even to the substantial form, like generation and corruption. But natural change cannot extend to variations of matter: for it works from the underlying matter, just like every second agent works with those underlying things that are given to him by the first agent. And these principles must remain in the operation of nature, as is said in the *Physics* 1.Aristotle, *Physics*, Bk. 1, ch. 7 (190a17ff.). But just as the being of a composite, which nature produces from the underlying matter, is subject to nature’s operation, so also that matter which nature presupposes is subject to the action of the first agent, namely, God, from whom this thing receives the imperfect being (namely, being in potency) that it has. Hence divine operation can extend to the variation of matter, namely so that just as nature makes this whole to be this whole, so that it makes the whole water from the whole air, so also God may make that thing from this designated matter. And since designated matter is the principle of individuation, for this reason only by God’s operation can it happen that this particular individual thing become that particular individual thing; and that is the kind of conversion that is in this sacrament, since from this bread is made this body of Christ.  
 
 From which it is clear that this conversion differs from all natural conversions in four things. First, in the fact that it extends to the level of matter, which is not found in those conversions. And because matter is the first subject, and there is no other subject, for this reason it differs second in the fact that this conversion does not have a subject like the others have. Third, because in natural conversions a whole is converted into a whole but the essential parts are not converted into parts; for the whole air is converted into water, but the matter of the air is not converted into anything, because it is the same; form is also not converted, because one leaves and another is introduced. But here both the whole is converted into a whole, because bread becomes the body of Christ, and even the parts are converted, because the matter of the bread becomes the matter of the body of Christ, and the substantial form likewise becomes that form which is the body of Christ. Fourth, because in natural conversions what is converted and what it is converted into are both transformed. Indeed, what is converted into something else is always transformed by corruption; but what something is naturally converted into (if indeed it is a simple conversion) is transformed by generation, just as when water is generated from air. But if there is a conversion with an addition to something pre-existing, what is added is transformed according to increase, or at least by restoration of what it has lost, as happens in nourishment. But here what is converted into was pre-existing, and it is not added to, because as was said, what is converted is converted into it, both according to the whole and according to all its parts. Hence the thing that the conversion terminates in, namely, the body of Christ, is not transformed in any way, but only the bread that is converted.  
 
@@ -209,7 +211,7 @@ Reply Obj. 4: Communication conveys a certain conferral, and so it requires some
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the reason why a given change is not instantaneous is the distance between what is moved and the terminus of motion. However, I say ‘distance’ not only according to the dimension of place or quantity, but according to the contrariety of form or nature. And thus where nothing is opposed to the form to be introduced, the form is received in an instant as soon as the agent presents it, as is seen in the illumination of something transparent, since in it there is nothing contrary or opposed to light; and it is the same in a form instantaneously introduced when the matter makes it necessary, once contrary dispostions have been expelled from it.***
+To the second question, it should be said that the reason why a given change is not instantaneous is the distance between what is moved and the terminus of motion. However, I say ‘distance’ not only according to the dimension of place or quantity, but according to the contrariety of form or nature. And thus where nothing is opposed to the form to be introduced, the form is received in an instant as soon as the agent presents it, as is seen in the illumination of something transparent, since in it there is nothing contrary or opposed to light; and it is the same in a form instantaneously introduced when the matter makes it necessary, once contrary dispostions have been expelled from it.  
 
 However, just as air lies under the sun to receive from it the form of light with no existing thing interposed in between, so also all created nature is subject to the divine nod, so that everything that God wills is done immediately, because whatever there is in a creature is material and not contrary to divine disposing; and so those things that he does by himself he can, when he wants, do in an instant. However, he sometimes does them successively, so that he works in us according to our own mode. Nevertheless this happens when what is transformed can be more or less distant from the terminus of transformation, because the succession in motion happens according to this.  
 
@@ -241,7 +243,7 @@ Reply Obj. 4: The change, as was said, is in an instant, but the preceding motio
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the more permanent something is, the more difficult it is to change over. And because the subject remains in any change, for this reason matter remains the most in all changes, since it is subject of all changes. And so that change that extends to matter itself is more difficult and displays greater power than any other transmutation, with regard to what is changed. And since creation and this conversion extend all the way to the essence of matter, as is clear from what has been said, it is clear that these changes show greater power than any others, in which substantial or accidental form is changed, or an external place. But between these two, it seems that creation, simply speaking, surpasses the other, because by it matter’s essence is produced, from which it results that it can be transformed into something else by the one who produced it through this conversion. But on the part of what it is changed into, the change that is in the union of human nature to a divine person surpasses these and all other changes in difficulty; and therefore it is the miracle of all miracles.***
+To the third question, it should be said that the more permanent something is, the more difficult it is to change over. And because the subject remains in any change, for this reason matter remains the most in all changes, since it is subject of all changes. And so that change that extends to matter itself is more difficult and displays greater power than any other transmutation, with regard to what is changed. And since creation and this conversion extend all the way to the essence of matter, as is clear from what has been said, it is clear that these changes show greater power than any others, in which substantial or accidental form is changed, or an external place. But between these two, it seems that creation, simply speaking, surpasses the other, because by it matter’s essence is produced, from which it results that it can be transformed into something else by the one who produced it through this conversion. But on the part of what it is changed into, the change that is in the union of human nature to a divine person surpasses these and all other changes in difficulty; and therefore it is the miracle of all miracles.  
 
 Reply Obj. 1: That change happens from an existing thing into an existing thing in a way beyond other changes, which also happen from existing things into existing things, and from whose examination our intellect formed its own conceptions; and that is why this conversion seems to be against the conceptions of the intellect. And because of this it is more difficult to assent to it than to creation, which is from what does not exist in any way, which sort of change our intellect does not see.  
 
@@ -255,7 +257,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallel: *ST* III, q. 75, a. 8. It seems that the conversion mentioned can be expressed by a substantive verb of another tense than the present, so that it might be said, “what is bread, will be the body of Christ,” or “what is the body of Christ was bread.” For Ambrose says in his book *On the Sacraments* that what was bread before the consecration is now after the consecration the body of Christ.See Ambrose, *On the Sacraments*, Bk. 4, ch. 4, par. 15 (CSEL 73:53): “Ergo tibi ut respondeam, non erat corpus Christi ante consecrationem, sed post consecrationem dico tibi, quia iam corpus est Christi.”***
+Obj. 1: To the fourth we proceed thus.Parallel: *ST* III, q. 75, a. 8. It seems that the conversion mentioned can be expressed by a substantive verb of another tense than the present, so that it might be said, “what is bread, will be the body of Christ,” or “what is the body of Christ was bread.” For Ambrose says in his book *On the Sacraments* that what was bread before the consecration is now after the consecration the body of Christ.See Ambrose, *On the Sacraments*, Bk. 4, ch. 4, par. 15 (CSEL 73:53): “Ergo tibi ut respondeam, non erat corpus Christi ante consecrationem, sed post consecrationem dico tibi, quia iam corpus est Christi.”  
 
 Obj. 2: Furthermore, there is more fittingness when the conversion is more perfect. But this conversion is more perfect than all others, for in it a whole is converted into a whole and parts into parts, as is clear from what has been said. Therefore, since in other conversions we use this way of speaking, namely, that what was water is wine, or that what was air is fire, it seems much more that this can be said: “What was bread, is the body of Christ.”  
 
@@ -263,7 +265,7 @@ On the contrary, ‘What’ [*quod*] is a relative of the same supposit. But one
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that this is true: “bread becomes the body of Christ.” For in everything making follows becoming. But Christ made them, namely, bread and wine, his body and blood, as Damascene says.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 13 (PG 94:1146). Therefore, the bread becomes the body of Christ.***
+Obj. 1: Moreover, it seems that this is true: “bread becomes the body of Christ.” For in everything making follows becoming. But Christ made them, namely, bread and wine, his body and blood, as Damascene says.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 13 (PG 94:1146). Therefore, the bread becomes the body of Christ.  
 
 Obj. 2: Furthermore, everything that is converted into something else becomes it. But bread is converted into the body of Christ. Therefore, it becomes the body of Christ.  
 
@@ -271,7 +273,7 @@ On the contrary, every becoming terminates in a being-done. But this will never 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that this is false: “the body of Christ comes to be from this bread.” For something comes to be and is made out of the same thing. But this is false: “the body of Christ is made from bread, or out of bread.” Therefore also this, “the body of Christ comes to be from this bread.”***
+Obj. 1: Moreover, it seems that this is false: “the body of Christ comes to be from this bread.” For something comes to be and is made out of the same thing. But this is false: “the body of Christ is made from bread, or out of bread.” Therefore also this, “the body of Christ comes to be from this bread.”  
 
 Obj. 2: Furthermore, ‘from’ denotes consubstantiality, as the Master says in Book I, Distinction 36. But there is no consubstantiality of the bread with the body of Christ. Therefore, it cannot be said that the body of Christ comes to be from bread or out of bread.  
 
@@ -279,7 +281,7 @@ On the contrary, Ambrose says, *where the consecration approaches, the body of C
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that this is true: “bread can be the body of Christ.” For motion is the act of what exists in potency. But bread is changed into the body of Christ. Therefore, bread is the body of Christ in potency: therefore it can be the body of Christ.***
+Obj. 1: Moreover, it seems that this is true: “bread can be the body of Christ.” For motion is the act of what exists in potency. But bread is changed into the body of Christ. Therefore, bread is the body of Christ in potency: therefore it can be the body of Christ.  
 
 Obj. 2: Furthermore, Ambrose says that bread can be the body of Christ by consecration, which is done by the words of Christ.This claim is pieced together from various things said by Ambrose in the preceding *loci*.  
 
@@ -287,7 +289,7 @@ On the contrary, if something can be something else, nothing prevents us from ca
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that this conversion differs from all other changes in this, that in all other changes there is a certain shared subject. But in this one there is not, but only two terminuses of conversion. And so all statements expressing a change in which the order of a terminus to a terminus is implied, are granted in this matter, like this one: “Bread is converted into the body of Christ.” But statements that express an identity of subject are not granted, properly speaking. But because in this conversion there is something like identity of subject, namely, shared appearances, which remain here from there, although those appearances are not the subject of the change, for this reason also statements like those quoted from the saints are sometimes found, so that the identity implied is not referred to the subject but to the same appearances. Hence such statements are not to be extended, because they are improper; and the statements, “this was that,” or “what is this will be that,” expressly convey an identity of the subject of the change because of the nature of relation; and so they should not be granted simply speaking.***
+To the first question, I answer that this conversion differs from all other changes in this, that in all other changes there is a certain shared subject. But in this one there is not, but only two terminuses of conversion. And so all statements expressing a change in which the order of a terminus to a terminus is implied, are granted in this matter, like this one: “Bread is converted into the body of Christ.” But statements that express an identity of subject are not granted, properly speaking. But because in this conversion there is something like identity of subject, namely, shared appearances, which remain here from there, although those appearances are not the subject of the change, for this reason also statements like those quoted from the saints are sometimes found, so that the identity implied is not referred to the subject but to the same appearances. Hence such statements are not to be extended, because they are improper; and the statements, “this was that,” or “what is this will be that,” expressly convey an identity of the subject of the change because of the nature of relation; and so they should not be granted simply speaking.  
 
 Reply Obj. 1: The words of Ambrose are to be explained: *what was bread is the body of Christ*; i.e., what is under the appearances of bread, was first bread, and afterward is the body of Christ.  
 
@@ -295,7 +297,7 @@ Reply Obj. 2: According to the Philosopher in *On the Soul* 2, in the beginning 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that when it is said, “this becomes that,” by the force of the speech the subject of the doing is conveyed in the ‘this’; hence this is *per se*: “a man becomes white”; and this is incidental: “black becomes white.” However, the subject of the doing is common to both terminuses; therefore it is clear that the statement mentioned conveys a shared subject, and that should not properly be granted.***
+To the second question, it should be said that when it is said, “this becomes that,” by the force of the speech the subject of the doing is conveyed in the ‘this’; hence this is *per se*: “a man becomes white”; and this is incidental: “black becomes white.” However, the subject of the doing is common to both terminuses; therefore it is clear that the statement mentioned conveys a shared subject, and that should not properly be granted.  
 
 Reply Obj. 1: The words of Damascene should be explained like the words of Ambrose, so that the relation conveyed by the ‘them’ designates oneness of appearances and not oneness of subject.  
 
@@ -303,7 +305,7 @@ Reply Obj. 2: This statement, “the bread is converted into the body of Christ,
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that as is clear in the *Physics* 1,Aristotle, *Physics*, Bk. 1, ch. 7 (190a21ff.). we say, “this becomes this,” in things enduring in themselves, but not for things enduring incidentally; but “this comes to be out of this,” is said properly of non-enduring things. For we say, *a white thing comes to be from a non-white thing*. And if ever something is said to come to be from something permanent, this is inasmuch as something non-permanent is understood with the permanent thing, as when it is said, *a statue comes to be out of bronze*, it is understood, *out of unshaped bronze*.***
+To the third question, it should be said that as is clear in the *Physics* 1,Aristotle, *Physics*, Bk. 1, ch. 7 (190a21ff.). we say, “this becomes this,” in things enduring in themselves, but not for things enduring incidentally; but “this comes to be out of this,” is said properly of non-enduring things. For we say, *a white thing comes to be from a non-white thing*. And if ever something is said to come to be from something permanent, this is inasmuch as something non-permanent is understood with the permanent thing, as when it is said, *a statue comes to be out of bronze*, it is understood, *out of unshaped bronze*.  
 
 And in this way it is clear that this statement, *this becomes this*, expresses identity of subject; but this statement, *this comes to be out of this*, principally expresses the order of terminuses to each other, and consequently, sometimes oneness of subject; hence sometimes it conveys only order without conveying subject, as when it is said, *out of the morning the noon comes to be*, that is, after, as it says in the *Metaphysics* 2;Aristotle, *Metaphysics*, Bk. 2, ch. 2 (994b1). and accordingly, this will be incongruous: *bread becomes the body of Christ*; but this will be granted: *out of bread the body of Christ comes to be*, if the *out of* does not denote a subject, and something like a material cause, but only the order of the terminuses of conversion to each other. But this: *from bread the body of Christ comes to be* is less proper, because the preposition ‘from’ denotes consubstantiality, as Ambrose mentions; nevertheless, ‘from’ is sometimes used for ‘out of’ and so it can be granted that from bread the body of Christ is made as meaning *out of bread*.  
 
@@ -313,7 +315,7 @@ The solution to the second objection is clear from what has been said.
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that since potency pertains to the subject, there should be no doubt that when it is said, *bread can be the body of Christ*, it conveys oneness of subject. And this is why it is not to be granted, because nothing of bread will ever be anything of the body of Christ. But just as this is granted: *bread is converted into the body of Christ*, so this can also be granted: *bread can be converted*; because whatever has a potency has an act, as is said in the book *On Sleep and Waking*.Aristotle, *On Sleep and Waking*, ch. 1 (454a8).***
+To the fourth question, it should be said that since potency pertains to the subject, there should be no doubt that when it is said, *bread can be the body of Christ*, it conveys oneness of subject. And this is why it is not to be granted, because nothing of bread will ever be anything of the body of Christ. But just as this is granted: *bread is converted into the body of Christ*, so this can also be granted: *bread can be converted*; because whatever has a potency has an act, as is said in the book *On Sleep and Waking*.Aristotle, *On Sleep and Waking*, ch. 1 (454a8).  
 
 Reply Obj. 1: That definition does not apply to this conversion, as is clear from what has been said.  
 
@@ -323,7 +325,7 @@ Question 2
 
 ***The matter of the Eucharist***
 
-***Next we ask about the matter of this sacrament; and concerning this, four questions arise:***
+Next we ask about the matter of this sacrament; and concerning this, four questions arise:  
 
 first, whether bread and wine are the matter of this sacrament;  
 
@@ -336,7 +338,7 @@ first, whether bread and wine are the matter of this sacrament;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 74, a. 1; *SCG* IV, ch. 61; *De sacram. altar.,* chs. 9 & 29; *Super I ad Cor.* 11, lec. 5. It seems that there should not be a twofold matter for this sacrament. For the simpler something is, the more noble it is; and so the simplest things are also the most noble. But this sacrament is more noble than any others. Therefore, it should be more simple. Therefore since the other sacraments have only one matter, like water for baptism and chrism for confirmation, it seems that there should not be a twofold matter for this sacrament.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 74, a. 1; *SCG* IV, ch. 61; *De sacram. altar.,* chs. 9 & 29; *Super I ad Cor.* 11, lec. 5. It seems that there should not be a twofold matter for this sacrament. For the simpler something is, the more noble it is; and so the simplest things are also the most noble. But this sacrament is more noble than any others. Therefore, it should be more simple. Therefore since the other sacraments have only one matter, like water for baptism and chrism for confirmation, it seems that there should not be a twofold matter for this sacrament.  
 
 Obj. 2: Furthermore, a sacrament’s matter should correspond to what is sacrament-and-reality in the sacrament, for it is a sign of that. But everything that is reality-and-sacrament, namely, the whole Christ, is contained under the appearance of bread. Therefore, bread is the whole matter of this sacrament, and so the same as before.For more about the sacrament alone, reality alone, and sacrament-and-reality, see the footnote at Dist.1, q.1, a.4, qa. 1, main response.  
 
@@ -350,7 +352,7 @@ Furthermore (2), the matter of the sacrament should correspond to the use of the
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the matter for this sacrament should not be bread and wine. For the sacraments of the Mosaic law were closer to the sacraments of the New Law than the sacraments of the law of nature. But in the Mosaic law the flesh of animals was eaten as a sacrament. Therefore, this should be the matter of this sacrament rather than bread and wine, which were consumed as a sacrament in the law of nature.***
+Obj. 1: Moreover, it seems that the matter for this sacrament should not be bread and wine. For the sacraments of the Mosaic law were closer to the sacraments of the New Law than the sacraments of the law of nature. But in the Mosaic law the flesh of animals was eaten as a sacrament. Therefore, this should be the matter of this sacrament rather than bread and wine, which were consumed as a sacrament in the law of nature.  
 
 Obj. 2: Furthermore, the sacrament’s matter should apply to the sacrament’s use and signification. But the flesh of some animal represents the flesh of Christ more explicitly than bread: for it has greater resemblance to it, and again, it restores one more. Therefore, flesh should be this sacrament’s matter rather than bread.  
 
@@ -362,7 +364,7 @@ Obj. 5: Furthermore, in this sacrament Christ is contained as food for little on
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that bread and wine cannot be the matter of this sacrament except under a determinate quantity.Parallel: *ST* III, q. 74, a. 2. For in the sacraments is required an intention conformed to the intention of the Church. But if someone wished to consecrate all the bread that is in the market and all the wine that is in the cellar, his intention would not agree with the intention of the Church, which intends to consecrate for the faithful’s use. And the words of institution also show this: for he said, *take and eat*. Therefore, a determinate quantity of bread is required.***
+Obj. 1: Moreover, it seems that bread and wine cannot be the matter of this sacrament except under a determinate quantity.Parallel: *ST* III, q. 74, a. 2. For in the sacraments is required an intention conformed to the intention of the Church. But if someone wished to consecrate all the bread that is in the market and all the wine that is in the cellar, his intention would not agree with the intention of the Church, which intends to consecrate for the faithful’s use. And the words of institution also show this: for he said, *take and eat*. Therefore, a determinate quantity of bread is required.  
 
 Obj. 2: Furthermore the power given to the words and the minister is given for the sacrament’s veneration, not its mockery. But if an immoderate quantity of bread and wine were consecrated, it would be changed to mockery. Therefore, it cannot be consecrated except in a determinate quantity.  
 
@@ -374,7 +376,7 @@ Furthermore (2), it is clear that a priest having few parishioners can consecrat
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the matter of the sacrament should be suited to both the sacrament’s signification and its use, and in both ways a twofold matter is required for this sacrament. For this sacrament’s use is eating, which requires both food and drink for its completeness; and so there should also be a twofold matter for this sacrament, one that is consumed as food, and the other as drink. However, a sacrament has two significations. One, according to which it represents the past; and so in this sacrament the Passion of Christ is signified, in which his blood was separated from his body; and therefore the sign of his body and the sign of his blood should be offered separately in this sacrament, by existing in a twofold matter. The sacrament’s other signification concerns the effect brought about by the sacrament, for sacraments effect what they represent. And in this way, since this sacrament is consumed for the health of soul and body, it is necessary that it be accomplished under the appearance of bread to signify the health of the body, and under the appearance of wine to signify the health of the soul, as the Master says in the text.***
+To the first question, I answer that the matter of the sacrament should be suited to both the sacrament’s signification and its use, and in both ways a twofold matter is required for this sacrament. For this sacrament’s use is eating, which requires both food and drink for its completeness; and so there should also be a twofold matter for this sacrament, one that is consumed as food, and the other as drink. However, a sacrament has two significations. One, according to which it represents the past; and so in this sacrament the Passion of Christ is signified, in which his blood was separated from his body; and therefore the sign of his body and the sign of his blood should be offered separately in this sacrament, by existing in a twofold matter. The sacrament’s other signification concerns the effect brought about by the sacrament, for sacraments effect what they represent. And in this way, since this sacrament is consumed for the health of soul and body, it is necessary that it be accomplished under the appearance of bread to signify the health of the body, and under the appearance of wine to signify the health of the soul, as the Master says in the text.  
 
 Reply Obj. 1: Simplicity *per se* is not a cause of nobility, but perfection is. Hence where perfect goodness is found in one simple thing, the simple is nobler than the composite; but when on the other hand the simple is imperfect, but the composite is perfect, then the composite is nobler than the simple, just as man is nobler than earth. And so although this sacrament is more composite by reason of its matter, it is nevertheless more noble, for it is more perfect. And the fact that this composition is required for its perfection is clear from what has been said.  
 
@@ -386,7 +388,7 @@ Reply Obj. 4: As it says above in Distinction 8, Question 2, Article 4, Subquest
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the reason why bread and wine among all foods and drinks are this sacrament’s matter is the divine institution. However, many reasons can be assigned for this institution. The first is on the part of the sacrament’s use: for these two things are most commonly taken as food and drink, and so we are more fittingly led by them to the spiritual food and drink. Second, from the sacrament’s effect, because as it says in the Gloss on 1 Corinthians 11, bread sustains the body beyond all the other foods, and wine delights the heart;See the text of Lombard at d. 8, ch. 7, n. 2. and likewise this sacrament sustains and delights those who are drunk with it by charity more than the other sacraments. Third, from the rite of its celebration: for these two things are more cleanly handled than other things that are taken as food and drink. Fourth, from the signification of this sacrament’s twofold reality: for bread is composed of many grains, and wine is collected from many grapes, which belongs to the signification of the true and mystical body of Christ, as was said above in Distinction 8. Fifth, from the representation of what preceded it: for grains are crushed on the threshing floor, and bread is baked in an oven, and wine is expressed in a wine-press, which is all fitting to represent the Passion of Christ.***
+To the second question, it should be said that the reason why bread and wine among all foods and drinks are this sacrament’s matter is the divine institution. However, many reasons can be assigned for this institution. The first is on the part of the sacrament’s use: for these two things are most commonly taken as food and drink, and so we are more fittingly led by them to the spiritual food and drink. Second, from the sacrament’s effect, because as it says in the Gloss on 1 Corinthians 11, bread sustains the body beyond all the other foods, and wine delights the heart;See the text of Lombard at d. 8, ch. 7, n. 2. and likewise this sacrament sustains and delights those who are drunk with it by charity more than the other sacraments. Third, from the rite of its celebration: for these two things are more cleanly handled than other things that are taken as food and drink. Fourth, from the signification of this sacrament’s twofold reality: for bread is composed of many grains, and wine is collected from many grapes, which belongs to the signification of the true and mystical body of Christ, as was said above in Distinction 8. Fifth, from the representation of what preceded it: for grains are crushed on the threshing floor, and bread is baked in an oven, and wine is expressed in a wine-press, which is all fitting to represent the Passion of Christ.  
 
 Reply Obj. 1: This sacrament should not have been instituted in the species of any sacrament of the Mosaic law, so that it might display the cessation of the prescripts of the law, whose priesthood was more imperfect than the priesthood of Christ. And this is why the return to these species in the New Testament, namely, to the offering of Melchizedek, is fitting, for it shows that the priesthood of the New Testament surpasses the levitical priesthood, as the Apostle proves in Hebrews 7.  
 
@@ -400,7 +402,7 @@ Reply Obj. 5: Although that food is for little ones by humility, it is neverthel
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that some people say that power is not given to the minister and the words to consecrate bread and wine under just any quantity, but under as large a quantity as can be suited to the use of the faithful, for in this way the intention of the one consecrating will be conformed to the Church’s intention. But this does not seem to be true. For it cannot be said that the quantity of the matter is determined according to the use that happens in the present moment; for then a priest living in the desert could not consecrate so many hosts as a priest of some city having many parishioners, which is false, but he can consecrate according to a use that can never happen. Therefore, as much of the bread and wine can be consecrated as can be consumed by men. However, this is not a determinate quantity, particularly since one man can consume a large or a small quantity; hence a large or small quantity does not matter.***
+To the third question, it should be said that some people say that power is not given to the minister and the words to consecrate bread and wine under just any quantity, but under as large a quantity as can be suited to the use of the faithful, for in this way the intention of the one consecrating will be conformed to the Church’s intention. But this does not seem to be true. For it cannot be said that the quantity of the matter is determined according to the use that happens in the present moment; for then a priest living in the desert could not consecrate so many hosts as a priest of some city having many parishioners, which is false, but he can consecrate according to a use that can never happen. Therefore, as much of the bread and wine can be consecrated as can be consumed by men. However, this is not a determinate quantity, particularly since one man can consume a large or a small quantity; hence a large or small quantity does not matter.  
 
 Reply Obj. 1: Sacraments are ordered to something; hence in the sacraments there is a twofold intention. One is directed to the completion of the sacrament, and this is essential to the sacrament; hence if it is omitted the sacrament does not exist. The other is directed to the sacrament’s end; and this intention is subsequent to the sacrament. Hence, whether it is present or absent, nevertheless the sacrament is completed; just as if someone intends to baptize someone so that he may obtain temporal payment, the sacrament of baptism is valid, for according to the first intention it is conformed to the Church’s intention, although not in the second intention. And likewise in this sacrament, if the priest intended to consecrate not for the sake of consuming, but so that it might be used in sorcery, it would be the true body of Christ. Hence even if some priest intended to consecrate a large quantity of bread and wine not for the use of the faithful, but in mockery, it would be consecrated. Now I do not say that he could consecrate all the bread that is in the city at one moment, or all the bread that is in the market; because the form itself, by using a demonstrative pronoun, shows that the matter to be consecrated must be before the priest. Hence a priest while in his own home could not consecrate the bread that is on the altar, which he cannot do for all the bread that is in the market or all the wine that is in the cellar. But however great is the quantity of bread and wine that is set before the priest, I believe that it can be consecrated by him.  
 
@@ -414,7 +416,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second we proceed thus.Parallels: below, d. 19, q. 1, a. 2, qa. 3, ad 1; *ST* III, q. 74, a. 3; *SCG* IV, ch. 69; *De sacram. altar*., ch. 10. It seems that it is not necessary that the bread be from wheat. For this sacrament is a memorial of the Lord’s Passion. But more suited to signifying the Passion would be barley bread, because it is hard and rough, rather than the wheat grain, which is delicate. Therefore, bread made from a different grain can be the matter for this sacrament.***
+Obj. 1: To the second we proceed thus.Parallels: below, d. 19, q. 1, a. 2, qa. 3, ad 1; *ST* III, q. 74, a. 3; *SCG* IV, ch. 69; *De sacram. altar*., ch. 10. It seems that it is not necessary that the bread be from wheat. For this sacrament is a memorial of the Lord’s Passion. But more suited to signifying the Passion would be barley bread, because it is hard and rough, rather than the wheat grain, which is delicate. Therefore, bread made from a different grain can be the matter for this sacrament.  
 
 Obj. 2: Furthermore, in any water the sacrament of baptism can be completed, so that no one is cheated of receiving this sacrament because of a lack of the matter. Therefore, in the same way all bread should be the matter for this sacrament, so that poverty would excuse no one.  
 
@@ -426,7 +428,7 @@ On the contrary, is the practice of the Church, and the fact that the Lord compa
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that if other grains are mixed in with the grains of wheat, the bread made from this can be the matter of this sacrament. For a mixture of dry things does not destroy the species. But a grain of wheat and other grains are dry. Therefore, if they are mixed together, the species of wheat still remains, and so the body of Christ can be consecrated from this.***
+Obj. 1: Moreover, it seems that if other grains are mixed in with the grains of wheat, the bread made from this can be the matter of this sacrament. For a mixture of dry things does not destroy the species. But a grain of wheat and other grains are dry. Therefore, if they are mixed together, the species of wheat still remains, and so the body of Christ can be consecrated from this.  
 
 Obj. 2: Furthermore, flour of wheaten grains alone is seldom found unless one tries hard. Therefore, if the bread that is this sacrament’s matter could not be made from a mixed flour of assorted grains, this sacrament would very rarely be performed, which is absurd.  
 
@@ -438,7 +440,7 @@ Furthermore (2), this sacrament cannot be completed with wheatmeal, as some peop
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that we should not consecrate unleavened bread, but bread with leavening.Parallels: *ST* III, q. 74, a. 4; *SCG* IV, ch. 69; *Contra errores Graec*., pt. 2, ch. 39; *Super Ioan*. 13, lec. 1. For we should consecrate according to how Christ consecrated. But Christ consecrated leavened bread, not unleavened. Therefore, neither should we consecrate unleavened bread. Proof of the middle: before Passover the Jews did not use unleavened bread. But the Lord’s Supper, at which he established this sacrament, was celebrated before Passover, as is clear from John 13:1: *before the day of the Passover feast*, etc. Therefore, he used leavened bread, not unleavened.***
+Obj. 1: Moreover, it seems that we should not consecrate unleavened bread, but bread with leavening.Parallels: *ST* III, q. 74, a. 4; *SCG* IV, ch. 69; *Contra errores Graec*., pt. 2, ch. 39; *Super Ioan*. 13, lec. 1. For we should consecrate according to how Christ consecrated. But Christ consecrated leavened bread, not unleavened. Therefore, neither should we consecrate unleavened bread. Proof of the middle: before Passover the Jews did not use unleavened bread. But the Lord’s Supper, at which he established this sacrament, was celebrated before Passover, as is clear from John 13:1: *before the day of the Passover feast*, etc. Therefore, he used leavened bread, not unleavened.  
 
 Obj. 2: Furthermore, the truth should correspond to the figure. But the figurative lamb was sacrificed on the fourteenth of the month, as Exodus 12:18 has it. Therefore, Christ was sacrificed on the fourteenth day of the month. But on the day before that he gave his body to his disciples to eat. Therefore it was on the thirteenth day of the month. But the Passover began on the fourteenth. Therefore, the Lord’s Supper was before the Passover, and so, the same as above.  
 
@@ -464,7 +466,7 @@ Furthermore (3), the matter should be fitting to the sacrament. But bread withou
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that only wheaten bread can be consecrated, and the reason for this is divine institution, for Christ consecrated this bread. But three reasons can be assigned for this institution. The first is from the effect, because this kind of bread provides better nourishment, and so it pertains to signifying the excellence of grace that is conferred in this sacrament. The second is from the use of the sacrament: for wheaten bread is what is more commonly available for use as food, while other breads are only made when there is a lack of wheat. And so ‘bread’, simply speaking, is understood to be from wheat, as oil from olives, and so it is suited to this sacrament, whose use is in eating, as was said above. The third comes from the reality contained, which is Christ, who compared himself to a grain of wheat, saying, *unless a grain of wheat falls to the earth and dies, it remains just a single grain* (John 12:24).***
+To the first question, I answer that only wheaten bread can be consecrated, and the reason for this is divine institution, for Christ consecrated this bread. But three reasons can be assigned for this institution. The first is from the effect, because this kind of bread provides better nourishment, and so it pertains to signifying the excellence of grace that is conferred in this sacrament. The second is from the use of the sacrament: for wheaten bread is what is more commonly available for use as food, while other breads are only made when there is a lack of wheat. And so ‘bread’, simply speaking, is understood to be from wheat, as oil from olives, and so it is suited to this sacrament, whose use is in eating, as was said above. The third comes from the reality contained, which is Christ, who compared himself to a grain of wheat, saying, *unless a grain of wheat falls to the earth and dies, it remains just a single grain* (John 12:24).  
 
 Reply Obj. 1: In Christ’s Passion there was not any hardness on the part of Christ who was suffering, but the greatest kindness. And so the host of bread signifies and contains Christ himself, which is why barley bread, or another kind, is not so suited to this sacrament as wheaten bread, which is sweeter and more delicate.  
 
@@ -476,7 +478,7 @@ Reply Obj. 4: What that objection refers to is the reason why this sacrament is 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that there are two ways of mixing something extraneous into something: in one way so that the extraneous additive dissolves the species of what it was added to, either by drawing it into its own species, as when a cup of wine is added to a pitcher of water; or by making a middle species, as when both are added equally, so that the equality is not taken only according to quantity, but according to the proportion of strength. In another way such that what is added does not dissolve the species, but it is assumed into the species of what it was added to; as when a drop of water is added to a pitcher of wine. Therefore, if such an admixture of something foreign was made that the species of wheaten bread is dissolved, it could not be consecrated from that bread; but if it were just such a small admixture that the species of wheaten bread remained, and what is added is converted to the nature of wheat, then the sacrament can be consecrated from this. Now the sign of this can be taken from the accidents, namely, color, flavor, and things like that; for the accidents contribute the greatest part to knowing what something is, according to the Philosopher in *On the Soul* 1.Aristotle, *On the Soul*, Bk. 1, ch. 1 (402b21).***
+To the second question, it should be said that there are two ways of mixing something extraneous into something: in one way so that the extraneous additive dissolves the species of what it was added to, either by drawing it into its own species, as when a cup of wine is added to a pitcher of water; or by making a middle species, as when both are added equally, so that the equality is not taken only according to quantity, but according to the proportion of strength. In another way such that what is added does not dissolve the species, but it is assumed into the species of what it was added to; as when a drop of water is added to a pitcher of wine. Therefore, if such an admixture of something foreign was made that the species of wheaten bread is dissolved, it could not be consecrated from that bread; but if it were just such a small admixture that the species of wheaten bread remained, and what is added is converted to the nature of wheat, then the sacrament can be consecrated from this. Now the sign of this can be taken from the accidents, namely, color, flavor, and things like that; for the accidents contribute the greatest part to knowing what something is, according to the Philosopher in *On the Soul* 1.Aristotle, *On the Soul*, Bk. 1, ch. 1 (402b21).  
 
 Reply Obj. 1: Although dry things, while they remain whole, do not lose their species by combining, nevertheless, when they are ground up and stirred together, as happens in bread, they can lose their species.  
 
@@ -486,7 +488,7 @@ Reply Obj. 3: If there is so much corruption that the species of bread does not 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in this there seems to be a difference between Latins and Byzantines: for the Byzantines consecrate bread with yeast, while the Latins consecrate unleavened bread. Now the reason for this difference is that the Lord consecrated unleavened bread, as is manifestly known from the three Gospel writers, and this is how the apostles celebrated it in the early Church, which practice the Roman church received from the apostles, who founded it, as Innocent III says.Innocent III, *De sacro altaris mysterio*, Bk. 4, ch. 4 (PL 217:857–58). But afterward, as Pope Leo says,Leo IX, *Epistle to Michael, Emperor of Constantinople*. at the threat of the heresy of the Ebionites, who said that the prescripts of the law had to be observed together with the Gospel, the holy fathers, lest they seem to agree with the Ebionites, at the prompting of the Holy Spirit wanted the sacrament to be consecrated from yeast bread for a time. After that heresy had ceased, the Roman church returned to the original practice.***
+To the third question, it should be said that in this there seems to be a difference between Latins and Byzantines: for the Byzantines consecrate bread with yeast, while the Latins consecrate unleavened bread. Now the reason for this difference is that the Lord consecrated unleavened bread, as is manifestly known from the three Gospel writers, and this is how the apostles celebrated it in the early Church, which practice the Roman church received from the apostles, who founded it, as Innocent III says.Innocent III, *De sacro altaris mysterio*, Bk. 4, ch. 4 (PL 217:857–58). But afterward, as Pope Leo says,Leo IX, *Epistle to Michael, Emperor of Constantinople*. at the threat of the heresy of the Ebionites, who said that the prescripts of the law had to be observed together with the Gospel, the holy fathers, lest they seem to agree with the Ebionites, at the prompting of the Holy Spirit wanted the sacrament to be consecrated from yeast bread for a time. After that heresy had ceased, the Roman church returned to the original practice.  
 
 The Byzantines wished to preserve the practice introduced by the fathers for a time, and they added further that only yeast bread can be consecrated, and to prove this they wished to assert that the Lord had consecrated yeast bread. And because three Gospel writers say in agreement that the Lord instituted this sacrament on the first day of the feast of unleavened bread, some of them have charged into such disgrace as to say that those Gospel writers wrote something false, and they were corrected by John who says that the Lord supped with his disciples on the day before Passover.  
 
@@ -516,7 +518,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third we proceed thus.Parallels: *ST* III, q. 74, a. 5; *SCG* IV, ch. 69. It seems that Christ’s blood does not have to be consecrated only from wine from grapes. For baptism can happen in any water. But wine is this sacrament’s matter just as water is baptism’s. Therefore, this sacrament can also be done with any wine, like the wine of pomegranates, or mulberries, or the like.***
+Obj. 1: To the third we proceed thus.Parallels: *ST* III, q. 74, a. 5; *SCG* IV, ch. 69. It seems that Christ’s blood does not have to be consecrated only from wine from grapes. For baptism can happen in any water. But wine is this sacrament’s matter just as water is baptism’s. Therefore, this sacrament can also be done with any wine, like the wine of pomegranates, or mulberries, or the like.  
 
 Obj. 2: Furthermore, in some lands there are no grapevines, nor can wine be easily carried to them. Therefore, it must have been provided by divine wisdom that some other liquor can be taken in this sacrament in place of grape wine.  
 
@@ -524,7 +526,7 @@ On the contrary, just as the Lord compared himself to a grain of wheat, in John 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it can also be consecrated from vinegar. For according to Isidore, vinegar is a species of wine.Isidore, *Etymologiarum siue Originum* (ed. Lindsay), Bk. 20, ch. 3, n. 9. But this sacrament can be consecrated from wine of the vine. Therefore also with vinegar.***
+Obj. 1: Moreover, it seems that it can also be consecrated from vinegar. For according to Isidore, vinegar is a species of wine.Isidore, *Etymologiarum siue Originum* (ed. Lindsay), Bk. 20, ch. 3, n. 9. But this sacrament can be consecrated from wine of the vine. Therefore also with vinegar.  
 
 Obj. 2: Furthermore, if consecrated wine turned into vinegar, it would not cease to be Christ’s blood. Therefore, by the same reasoning if it be vinegar before the consecration, Christ’s blood can be consecrated from it.  
 
@@ -532,7 +534,7 @@ On the contrary, Innocent says that *wine befits this sacrament: for the heart o
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the blood of Christ may be consecrated from verjuice.*Agresta* or verjuice is the juice of unripe grapes. Thus verjuice has not attained the maturity of grape juice, which is needed for the first step in the wine-making process. For just as verjuice does not have the complete species of wine, so neither does must. But the blood of Christ can be consecrated from sweet must, for it is said in the *Decretals*, *On Consecration*, Distinction 2, *if it were necessary, a bunch of grapes may be pressed in the chalice*.Gratian’s *Decretals*, Part 3, *De consecratione*, d. 2, ch. 7 (PL 187:1733). Therefore, by the same reasoning, also verjuice.***
+Obj. 1: Moreover, it seems that the blood of Christ may be consecrated from verjuice.*Agresta* or verjuice is the juice of unripe grapes. Thus verjuice has not attained the maturity of grape juice, which is needed for the first step in the wine-making process. For just as verjuice does not have the complete species of wine, so neither does must. But the blood of Christ can be consecrated from sweet must, for it is said in the *Decretals*, *On Consecration*, Distinction 2, *if it were necessary, a bunch of grapes may be pressed in the chalice*.Gratian’s *Decretals*, Part 3, *De consecratione*, d. 2, ch. 7 (PL 187:1733). Therefore, by the same reasoning, also verjuice.  
 
 Obj. 2: Furthermore, verjuice only differs from wine in that it is immature. But maturity and immaturity are accidents. Therefore, it does not differ according to species, and so it seems that the blood of Christ can be equally consecrated from verjuice as from wine.  
 
@@ -540,7 +542,7 @@ On the contrary, what is still becoming, is not yet, according to the Philosophe
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the blood of Christ can be consecrated only from wine of the grapevine, for that is properly wine. But other things are called wine by their likeness to this wine. This wine is also taken more commonly as a drink, just as wheat bread as food. And it has properties more fitting to the sacrament’s effect inasmuch as it warms and delights; and this is why the Lord consecrated wine of the grapevine, as is clear from what is said, *from now on I shall not drink of the fruit of the vine* (Matt 26:29).***
+To the first question, I answer that the blood of Christ can be consecrated only from wine of the grapevine, for that is properly wine. But other things are called wine by their likeness to this wine. This wine is also taken more commonly as a drink, just as wheat bread as food. And it has properties more fitting to the sacrament’s effect inasmuch as it warms and delights; and this is why the Lord consecrated wine of the grapevine, as is clear from what is said, *from now on I shall not drink of the fruit of the vine* (Matt 26:29).  
 
 Reply Obj. 1: All water is of the same species, but that is not how it is with wine.  
 
@@ -548,7 +550,7 @@ Reply Obj. 2: There is no land to which enough wine cannot be carried for celebr
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that according to the Philosopher in the *Metaphysics* 8,Aristotle, *Metaphysics*, Bk. 8, ch. 5 (1044b34–1045a6). vinegar comes to be from wine in the same way that something dead comes to be from something living. Hence, just as a living animal and a dead one are not of the same species, so neither are wine and vinegar. And the contrary properties show this: for wine is warm, but vinegar is cold; and there is no return from vinegar to wine, just as there is no returning to life from death. And so it should be said that if the wine has become entirely vinegar, it cannot be consecrated. But if it is acid as though in the process of turning sour, the judgment is the same as of bread that is in the process of corrupting. And so just as that bread can be consecrated, but the one consecrating sins because of irreverence, so also here.***
+To the second question, it should be said that according to the Philosopher in the *Metaphysics* 8,Aristotle, *Metaphysics*, Bk. 8, ch. 5 (1044b34–1045a6). vinegar comes to be from wine in the same way that something dead comes to be from something living. Hence, just as a living animal and a dead one are not of the same species, so neither are wine and vinegar. And the contrary properties show this: for wine is warm, but vinegar is cold; and there is no return from vinegar to wine, just as there is no returning to life from death. And so it should be said that if the wine has become entirely vinegar, it cannot be consecrated. But if it is acid as though in the process of turning sour, the judgment is the same as of bread that is in the process of corrupting. And so just as that bread can be consecrated, but the one consecrating sins because of irreverence, so also here.  
 
 Reply Obj. 1: He takes wine in a broad way for any liquid that arises from grapes.  
 
@@ -556,7 +558,7 @@ Reply Obj. 2: If consecrated wine that has been reserved becomes vinegar entirel
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that nothing receives its species except at the terminus of generation: but verjuice is still on the way to generating wine, just as blood when it begins to come together is on the way to generating an animal. And so just as that blood is not an animal, so verjuice is not wine; and because of this the blood of Christ cannot be consecrated from it.***
+To the third question, it should be said that nothing receives its species except at the terminus of generation: but verjuice is still on the way to generating wine, just as blood when it begins to come together is on the way to generating an animal. And so just as that blood is not an animal, so verjuice is not wine; and because of this the blood of Christ cannot be consecrated from it.  
 
 Reply Obj. 1: Must has already arrived at the complete species of wine: for its sweetness attests to a maturation that is a species of digestion. Now digestion is the completion of natural heat, as is clear from the *Meteorology* 4,Aristotle, *Meteorology*, Bk. 4, ch. 2 (379b18). and so one can consecrate with must, but it is not as seemly, because of its impurity, that it be consecrated, unless the necessity arises.  
 
@@ -568,7 +570,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallels: *ST* III, q. 74, a. 6; *Super Matt.* 26; *Super I ad Cor.* 11, lec. 6. It seems that water should not be mixed into the wine. For from the Lord’s side when hanging on the Cross, blood and water flowed out, as is said in John 19:34, by which two things the sacraments are especially understood, as Innocent says.In his letter *Cum Marthae* to John, Archbishop of Lyons, November 29, 1202: “For it seems to some that, since from the side of Christ two special sacraments flowed—of the redemption in the blood and of regeneration in the water—into those two the wine and water, which are mixed in the chalice, are changed by divine power” (http://www.geocities.ws/caleb1x/documents/cummarthae.html, accessed January 23, 2015). But water pertains to the sacrament of regeneration, namely, baptism. Therefore, blood alone pertains to the sacrament of redemption, the Eucharist. And so it should be wine without water.***
+Obj. 1: To the fourth we proceed thus.Parallels: *ST* III, q. 74, a. 6; *Super Matt.* 26; *Super I ad Cor.* 11, lec. 6. It seems that water should not be mixed into the wine. For from the Lord’s side when hanging on the Cross, blood and water flowed out, as is said in John 19:34, by which two things the sacraments are especially understood, as Innocent says.In his letter *Cum Marthae* to John, Archbishop of Lyons, November 29, 1202: “For it seems to some that, since from the side of Christ two special sacraments flowed—of the redemption in the blood and of regeneration in the water—into those two the wine and water, which are mixed in the chalice, are changed by divine power” (http://www.geocities.ws/caleb1x/documents/cummarthae.html, accessed January 23, 2015). But water pertains to the sacrament of regeneration, namely, baptism. Therefore, blood alone pertains to the sacrament of redemption, the Eucharist. And so it should be wine without water.  
 
 Obj. 2: Furthermore, wine and water are different species. Therefore, if water is mixed into the wine, there will be a threefold matter for this sacrament, not only a twofold one, as was said.  
 
@@ -580,7 +582,7 @@ Furthermore (2), the matter of the sacrament should be suited to the reality sig
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that without water the blood of Christ cannot be consecrated.Parallels: *ST* III, q. 74, a. 7; *Super I ad Cor*. 11, lec. 6. For Cyprian says: *the Lord’s chalice cannot be water alone and wine alone unless the two are mixed, since neither can the body of the Lord exist from flour, unless both, that is, flour and water, have been united into one thing*.Quoted by the Lombard; from Cyprian, *Epistle 63, ad Caecilium* (CCSL 3), ch. 13, par. 4. But it is clear that from flour without water the body of Christ can in no way be consecrated. Therefore, neither from wine without water.***
+Obj. 1: Moreover, it seems that without water the blood of Christ cannot be consecrated.Parallels: *ST* III, q. 74, a. 7; *Super I ad Cor*. 11, lec. 6. For Cyprian says: *the Lord’s chalice cannot be water alone and wine alone unless the two are mixed, since neither can the body of the Lord exist from flour, unless both, that is, flour and water, have been united into one thing*.Quoted by the Lombard; from Cyprian, *Epistle 63, ad Caecilium* (CCSL 3), ch. 13, par. 4. But it is clear that from flour without water the body of Christ can in no way be consecrated. Therefore, neither from wine without water.  
 
 Obj. 2: Furthermore, signification is of the essence of the sacrament. But water signifies something that is central in the sacrament, namely, the union of the mystical body to its head. Therefore, water is necessary to this sacrament, so that without it it cannot be consecrated.  
 
@@ -592,7 +594,7 @@ Furthermore (2), nothing is of the sacrament’s substance that does not remain 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that manmade water should be added.Parallels: *ST* III, q. 74, a. 7; *Super I ad Cor*. 11, lec. 6. For the sacrament is said to be uniform. But on the part of the body there is something manmade, namely, bread. Therefore, on the part of the blood there should be manmade water.***
+Obj. 1: Moreover, it seems that manmade water should be added.Parallels: *ST* III, q. 74, a. 7; *Super I ad Cor*. 11, lec. 6. For the sacrament is said to be uniform. But on the part of the body there is something manmade, namely, bread. Therefore, on the part of the blood there should be manmade water.  
 
 Obj. 2: Furthermore, if bread were made from manmade water, like rose-water, the body of Christ could be consecrated from this. Therefore, likewise artificial water can be added to the wine.  
 
@@ -600,7 +602,7 @@ On the contrary, baptism is a sacrament of greater necessity than the Eucharist.
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that it should be added in great quantity.Parallels: *ST* III, q. 74, a. 8; *Super I ad Cor*. 11, lec. 6. For what does not exist cannot signify anything. But what is corrupted does not exist. Since therefore water is included to signify, it seems that there should be added so much that it is not corrupted, and that means as much as the wine, or more, because wine is more active.***
+Obj. 1: Moreover, it seems that it should be added in great quantity.Parallels: *ST* III, q. 74, a. 8; *Super I ad Cor*. 11, lec. 6. For what does not exist cannot signify anything. But what is corrupted does not exist. Since therefore water is included to signify, it seems that there should be added so much that it is not corrupted, and that means as much as the wine, or more, because wine is more active.  
 
 Obj. 2: Furthermore, just as blood flowed perceptibly from Christ’s side, so also did water. But if only a little water is included, it cannot be perceived. Therefore, it should be added in greater quantity.  
 
@@ -614,7 +616,7 @@ Furthermore (2), it is necessary that the water be consumed by the wine so that 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that water should be added to wine because of the sacrament’s institution: for the Lord is believed to have probably added some by the practice of that country: for wine there without water is never drunk because of the strength of the wine, although no mention is made of water in the Gospel, because it is not the chief matter in this sacrament. But its addition pertains to this sacrament for both the representation of the Passion of Christ and the signification of the reality behind this sacrament, which is the mystical body signified by the water, because *the many waters are many peoples* (Rev 17:15). And so the addition of water to wine signifies the union of the members to the head by reason of its mingling; and the love of the suffering head for his members, by the fact that from two things joined, one is made; and the progress of redemption from the head to his members, by the very transformation of water into wine. Hence on this text, *Jesus took the bread* (Mark 14:22), the Gloss says, *no one is permitted to offer either water alone or wine alone, lest it seem that the head is separated from the members, or that Christ could suffer for our redemption without love, or that we could be saved without his Passion*.See *Glossa ordinaria*, PL 114:231.***
+To the first question, I answer that water should be added to wine because of the sacrament’s institution: for the Lord is believed to have probably added some by the practice of that country: for wine there without water is never drunk because of the strength of the wine, although no mention is made of water in the Gospel, because it is not the chief matter in this sacrament. But its addition pertains to this sacrament for both the representation of the Passion of Christ and the signification of the reality behind this sacrament, which is the mystical body signified by the water, because *the many waters are many peoples* (Rev 17:15). And so the addition of water to wine signifies the union of the members to the head by reason of its mingling; and the love of the suffering head for his members, by the fact that from two things joined, one is made; and the progress of redemption from the head to his members, by the very transformation of water into wine. Hence on this text, *Jesus took the bread* (Mark 14:22), the Gloss says, *no one is permitted to offer either water alone or wine alone, lest it seem that the head is separated from the members, or that Christ could suffer for our redemption without love, or that we could be saved without his Passion*.See *Glossa ordinaria*, PL 114:231.  
 
 Reply Obj. 1: As Gregory says in his *Commentary on Job*, *because the nature of any one thing is composed of a diversity, in sacred speech a given thing rightly signifies different things*.Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 5, par. 21. Therefore, according as water has the power of cleansing, its signification is suited to baptism; but according as it runs uninterrupted over the earth, it can signify people: *we all die and like water will we be spilled on the ground* (2 Sam 14:14). And in this way its signification is suited to this sacrament.  
 
@@ -624,7 +626,7 @@ Reply Obj. 3: Water is added to bread in its very making; and so it is not neces
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the matter is proportionate to the sacrament; hence it belongs to the essence of the sacrament according as the matter signifies what is of the sacrament’s essence. However, it was said aboveSee d. 8, q. 1, a. 1, qa. 1. that the completion of this sacrament consists in the very consecration of the body and blood of Christ, and not in the use of the consecrated matter, as is the case in baptism and confirmation. And so on the part of the matter, that alone is necessary to the sacrament which signifies the body and blood of Christ, namely, bread and wine. However, what signifies the use and effect of this sacrament, namely, water, is not necessary to this sacrament; hence wine without water can be consecrated, but the one doing this sins.***
+To the second question, it should be said that the matter is proportionate to the sacrament; hence it belongs to the essence of the sacrament according as the matter signifies what is of the sacrament’s essence. However, it was said aboveSee d. 8, q. 1, a. 1, qa. 1. that the completion of this sacrament consists in the very consecration of the body and blood of Christ, and not in the use of the consecrated matter, as is the case in baptism and confirmation. And so on the part of the matter, that alone is necessary to the sacrament which signifies the body and blood of Christ, namely, bread and wine. However, what signifies the use and effect of this sacrament, namely, water, is not necessary to this sacrament; hence wine without water can be consecrated, but the one doing this sins.  
 
 Reply Obj. 1: The words of Cyprian are to be explained thus: *it cannot*, that is, *it must not*; for we can do what we can do by right, and so as to what should be done, it is the same on the part of the body and blood; but not as to what can be done: for water is of the substance of the bread, but not of the substance of the wine.  
 
@@ -634,7 +636,7 @@ Reply Obj. 3: The shedding of blood in Christ’s Passion directly pertains to t
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that without water the blood can be consecrated, and as to what can be done it does not matter what kind of water is added, so long as it is a kind that can be converted into wine; but as to what should be done, only natural water should be added; for those waters are not of the same species, and they are only called water equivocally, just as also was said about the wine and bread.***
+To the third question, it should be said that without water the blood can be consecrated, and as to what can be done it does not matter what kind of water is added, so long as it is a kind that can be converted into wine; but as to what should be done, only natural water should be added; for those waters are not of the same species, and they are only called water equivocally, just as also was said about the wine and bread.  
 
 Reply Obj. 1: Manmade bread is of the same species as that bread that Christ consecrated; whereas artificial water is not of the same species as the water. And so the reasoning is not the same.  
 
@@ -644,7 +646,7 @@ The response is also clear to what is objected in opposition: for water is the c
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that as was said, the water added to the wine is converted into wine, and this is how the whole is converted into blood. And this is why not so much water should be added that the wine is converted into water, or into some third thing by mixture. And so it is always safer to add a small amount, because however little is added, the signification is preserved.***
+To the fourth question, it should be said that as was said, the water added to the wine is converted into wine, and this is how the whole is converted into blood. And this is why not so much water should be added that the wine is converted into water, or into some third thing by mixture. And so it is always safer to add a small amount, because however little is added, the signification is preserved.  
 
 Reply Obj. 1: By the very fact that water is converted into wine, it has its own signification: for we are changed into Christ, not he into us.  
 
@@ -658,7 +660,7 @@ Question 3
 
 ***The Eucharist at the last supper***
 
-***Next it is asked how Christ used this sacrament at its first institution: and concerning this, four questions arise:***
+Next it is asked how Christ used this sacrament at its first institution: and concerning this, four questions arise:  
 
 first, whether he ate his own body;  
 
@@ -670,7 +672,7 @@ Article 1
 
 ***Whether Christ ate his own body***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 81, a. 1; q. 84, a. 7, ad 4. It seems that Christ himself did not eat. For with regard to the Lord’s deeds, no others are to be asserted beyond those which are recounted for us in the Gospel. But in the Gospel is contained that Christ took the bread in his hands, and gave it to his disciples to eat. Therefore, we should not assert that he himself ate.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 81, a. 1; q. 84, a. 7, ad 4. It seems that Christ himself did not eat. For with regard to the Lord’s deeds, no others are to be asserted beyond those which are recounted for us in the Gospel. But in the Gospel is contained that Christ took the bread in his hands, and gave it to his disciples to eat. Therefore, we should not assert that he himself ate.  
 
 Obj. 2: Furthermore, everything that is eaten is taken as food. But *the one taking is not what is taken*, as it says in Book III, Distinction 5.See Bk. 3, d. 5, q. 1, a. 1, qa. 3. Therefore, Christ could not eat his own body.  
 
@@ -698,7 +700,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second we proceed thus.Parallels: *ST* III, q. 81, a. 2; *Super Matt.* 26; *Super Ioan.* 13, lec. 3 & 4. It seems that Christ did not give his body to Judas. For he fulfilled what he commanded. But he had commanded that holy things not be given to dogs (Matt 7:6). Therefore, he did not give his most holy body to Judas.***
+Obj. 1: To the second we proceed thus.Parallels: *ST* III, q. 81, a. 2; *Super Matt.* 26; *Super Ioan.* 13, lec. 3 & 4. It seems that Christ did not give his body to Judas. For he fulfilled what he commanded. But he had commanded that holy things not be given to dogs (Matt 7:6). Therefore, he did not give his most holy body to Judas.  
 
 Obj. 2: Furthermore, according to Augustine, God is not the cause of anyone becoming worse.See Augustine, *de Diuersis quaestionibus octoginta tribus* (CCSL 44A), q. 3. But if Judas took the body of Christ, it caused him to become worse, for he sinned in taking it. Therefore, Christ did not give his body to him to eat.  
 
@@ -712,7 +714,7 @@ Furthermore (2), without exception it is said, *take and eat, all of you* (Matt 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that he gave his body to him in the morsel of bread. For Augustine says, *the morsel that was given to Judas by the Lord was not bad. The doctor gave health, but he, who was unworthy, took it to his ruin*.See Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 6, par. 15: “Num enim mala erat buccella quae tradita est Iudae a Domino? Absit. Medicus non daret uenenum: salutem medicus dedit; sed indigne accipiendo, ad perniciem accepit, qui non pacatus accepit” (cf. Tract. 26, par. 11); Gratian, *Decretals*, Part 3, *De consecratione*, d. 2, ch. 66 (PL 187:1763). However, he would not have been unworthy, if that morsel were only bread. Therefore, that morsel was the body of Christ.***
+Obj. 1: Moreover, it seems that he gave his body to him in the morsel of bread. For Augustine says, *the morsel that was given to Judas by the Lord was not bad. The doctor gave health, but he, who was unworthy, took it to his ruin*.See Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 6, par. 15: “Num enim mala erat buccella quae tradita est Iudae a Domino? Absit. Medicus non daret uenenum: salutem medicus dedit; sed indigne accipiendo, ad perniciem accepit, qui non pacatus accepit” (cf. Tract. 26, par. 11); Gratian, *Decretals*, Part 3, *De consecratione*, d. 2, ch. 66 (PL 187:1763). However, he would not have been unworthy, if that morsel were only bread. Therefore, that morsel was the body of Christ.  
 
 Obj. 2: Furthermore, for the devil to enter into a man is an effect of sin. But it says that *after the morsel, Satan entered into him* (John 13:27). Therefore, by taking the morsel, he sinned: therefore the morsel was the body of Christ.  
 
@@ -720,7 +722,7 @@ On the contrary is what the Gloss says about John 13:26: *he it is to whom I sha
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that according to AugustineThe points may be gathered from *Epistle 44* (CSEL 34.2), n. 5 and *In Iohannis euangelium tractatus* (CCSL 36), Tract. 62, par. 3. Christ gave his body to Judas at the Last Supper with the other disciples, so that he might give an example to us that the sacraments should not be denied to hidden sinners, and that he might remove from him every occasion for doing evil, which he could have taken if he had been singled out from the other disciples in anything before his malice was made known. However, Hilary seems to say the contrary.In the passage cited just above. But the first is more commonly held.***
+To the first question, I answer that according to AugustineThe points may be gathered from *Epistle 44* (CSEL 34.2), n. 5 and *In Iohannis euangelium tractatus* (CCSL 36), Tract. 62, par. 3. Christ gave his body to Judas at the Last Supper with the other disciples, so that he might give an example to us that the sacraments should not be denied to hidden sinners, and that he might remove from him every occasion for doing evil, which he could have taken if he had been singled out from the other disciples in anything before his malice was made known. However, Hilary seems to say the contrary.In the passage cited just above. But the first is more commonly held.  
 
 Reply Obj. 1: Although Judas was a dog in the truth of reality, nevertheless, it was not publicly known; and so he did not wish to expose him before the other disciples, lest he be driven to despair and so sin more freely.  
 
@@ -732,7 +734,7 @@ Reply Obj. 4: Judas drank sacramentally with the others, but not spiritually; he
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that Christ first gave Judas his body with the other disciples, but afterward when he dipped the morsel and offered it to him in recognition of his betrayal, it was simply bread, as is clear from the Gloss cited.***
+To the second question, it should be said that Christ first gave Judas his body with the other disciples, but afterward when he dipped the morsel and offered it to him in recognition of his betrayal, it was simply bread, as is clear from the Gloss cited.  
 
 Reply Obj. 1: Augustine is not speaking of the dipped morsel, but of what he had taken before with the other disciples. Or it could be said that he is said to have received it to his ruin, because while Christ had offered the morsel for his salvation, so that seeing that he was caught he might cease from his wicked plan, he was more irritated by it.  
 
@@ -742,7 +744,7 @@ Article 3
 
 ***Whether Christ gave his own body as suffering, or impassible***
 
-***Obj. 1: It seems that Christ gave his disciples an impassible body at the Last Supper.Parallel: *ST* III, q. 81, a. 3. For about that text, *he was transfigured before them* (Matt 17:2), the Gloss says, *that body that he had by nature, he gave his disciples at the Last Supper, not the mortal and corruptible one*.See *Glossa ordinaria*, PL 114:143.***
+Obj. 1: It seems that Christ gave his disciples an impassible body at the Last Supper.Parallel: *ST* III, q. 81, a. 3. For about that text, *he was transfigured before them* (Matt 17:2), the Gloss says, *that body that he had by nature, he gave his disciples at the Last Supper, not the mortal and corruptible one*.See *Glossa ordinaria*, PL 114:143.  
 
 Obj. 2: Furthermore, about that text, *if your offering is grain prepared in a pan* (Lev 2:7), the Gloss says: *the flesh of Christ which before the Passion did not seem suited to eating, the Cross, strong above all things, made suitable afterward*. But Christ gave his flesh at the Last Supper as suitable for eating. Therefore, he gave it such as it was after the Passion. But after the Passion it was impassible. Therefore, he gave his body as impassible.  
 
@@ -766,11 +768,11 @@ Reply Obj. 4: Chewing conveys a relation of the body of Christ to something outs
 
 Article 4  
 
-***If the body of Christ had been reserved in a pyx, whether it would have died there***
+If the body of Christ had been reserved in a pyx, whether it would have died there  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallels: above, d. 10, a. 2, qa. 1; *ST* III, q. 81, a. 4; *SCG* IV, ch. 64; *Quodl.* V, q. 6, a. 1, ad 1; *Super Ioan.* 6, lec. 7; *Super ad I Cor.* 11, lec. 6. It seems that if the body of Christ had been kept in a pyx, it would not have died there. For the body of Christ only died by crucifixion. But it was not crucified there. Therefore, it would not have died there.***
+Obj. 1: To the fourth we proceed thus.Parallels: above, d. 10, a. 2, qa. 1; *ST* III, q. 81, a. 4; *SCG* IV, ch. 64; *Quodl.* V, q. 6, a. 1, ad 1; *Super Ioan.* 6, lec. 7; *Super ad I Cor.* 11, lec. 6. It seems that if the body of Christ had been kept in a pyx, it would not have died there. For the body of Christ only died by crucifixion. But it was not crucified there. Therefore, it would not have died there.  
 
 Obj. 2: The Jews’ actions were the cause of Christ’s death and the shedding of his blood. But he would not have shed his blood there, nor would the actions of the Jews have taken place there. Therefore, he would not have died there.  
 
@@ -778,7 +780,7 @@ On the contrary, one and the same body would have been in the pyx and on the Cro
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that if after Christ’s death one of the apostles had consecrated this sacrament, the soul of Christ would have been there;Parallel: above, d. 10, a. 2, qa. 1. for otherwise it would have been an incomplete sacrament. But the sacrament’s completion requires not only the body, but also the soul; for the whole Christ is contained in the sacrament. Therefore, the soul would have been there.***
+Obj. 1: Moreover, it seems that if after Christ’s death one of the apostles had consecrated this sacrament, the soul of Christ would have been there;Parallel: above, d. 10, a. 2, qa. 1. for otherwise it would have been an incomplete sacrament. But the sacrament’s completion requires not only the body, but also the soul; for the whole Christ is contained in the sacrament. Therefore, the soul would have been there.  
 
 Obj. 2: Furthermore, the words of the form would not have had less power at that time than they do now. But now the body is consecrated with the soul by the force of the form. Therefore, etc.  
 
@@ -786,7 +788,7 @@ On the contrary, the body of Christ is not more perfect under the sacrament’s 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that God could have caused at that moment the soul to be united to the body of Christ existing in the sacrament. For the soul of Christ belonged more with his proper body than in hell. But when Christ’s body lay in the tomb, his separated soul was in hell. Therefore likewise it could have been in that place where the body of Christ was preserved under the sacrament.***
+Obj. 1: Moreover, it seems that God could have caused at that moment the soul to be united to the body of Christ existing in the sacrament. For the soul of Christ belonged more with his proper body than in hell. But when Christ’s body lay in the tomb, his separated soul was in hell. Therefore likewise it could have been in that place where the body of Christ was preserved under the sacrament.  
 
 Obj. 2: Furthermore, the body of Christ, because it is united to divinity, can exist in the sacrament and in its proper species. Therefore, the soul, too, since it is united to the divinity, could be at the same time in hell and in the body of Christ under the sacrament.  
 
@@ -794,7 +796,7 @@ On the contrary, this would result in contradictories being true at the same tim
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that no words that signify suffering inflicted from without can be attributed to the body of Christ as it exists under the sacrament; and the reason for this is apparent from what has been said. And this is why it cannot be said that in the pyx he would have been crucified or flogged, or anything like that. Nor does it follow from this that two contradictory things are true at the same time; for the body of Christ is not related to what is outside it in the same way in both cases. For all the words that signify suffering from within do apply to it, such as, he sorrows, he suffers, and others like this; and likewise it can be said that he dies on the altar; hence the verse: *you could collect inward suffering while held in the pyx; but inflicted pain does not apply to this*.***
+To the first question, I answer that no words that signify suffering inflicted from without can be attributed to the body of Christ as it exists under the sacrament; and the reason for this is apparent from what has been said. And this is why it cannot be said that in the pyx he would have been crucified or flogged, or anything like that. Nor does it follow from this that two contradictory things are true at the same time; for the body of Christ is not related to what is outside it in the same way in both cases. For all the words that signify suffering from within do apply to it, such as, he sorrows, he suffers, and others like this; and likewise it can be said that he dies on the altar; hence the verse: *you could collect inward suffering while held in the pyx; but inflicted pain does not apply to this*.  
 
 Reply Obj. 1: Outward sufferings pertain to the substance of the body of Christ by means of his proper dimensions, but not by means of the dimensions of the bread. And so because of outward impressions that belong to the species of bread, no inward suffering is attributed to the body of Christ, but because of external impressions belonging to its proper dimensions, suffering is attributed to the body of Christ, both externally under its proper species alone, and inwardly also under its foreign species. And so because of the crucifixion that happened on Calvary, the true body of Christ preserved died under its proper species and under the sacrament.  
 
@@ -802,7 +804,7 @@ And by this the answer to the second objection is clear; for the Jews’ actions
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that since being animate is an intrinsic property, it is clear that just as the body of Christ was lifeless in its proper species, so also under the sacrament. Hence if the body of Christ had been consecrated by any one of the disciples, his soul would not have been there. However, some people say that the form was suspended during that Triduum; and if what had been consecrated before had been reserved, it would have ceased to be there when Christ died. But these are silly things to say, for they are confirmed neither by reason nor by authority.***
+To the second question, it should be said that since being animate is an intrinsic property, it is clear that just as the body of Christ was lifeless in its proper species, so also under the sacrament. Hence if the body of Christ had been consecrated by any one of the disciples, his soul would not have been there. However, some people say that the form was suspended during that Triduum; and if what had been consecrated before had been reserved, it would have ceased to be there when Christ died. But these are silly things to say, for they are confirmed neither by reason nor by authority.  
 
 Reply Obj. 1: Just as was said above in Distinction 10,See d. 10, a. 2, qa. 1. the soul is not there by the force of the sacrament, but because of its concomitance with the body; and so when the body exists without its soul, there is no injury to the perfection of the sacrament if the soul is not contained there.  
 
@@ -810,7 +812,7 @@ Reply Obj. 2: This is not because of a defect of the words’ power, but because
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that while Christ’s body was lying in the tomb, God could have easily caused Christ’s separated soul to be in a place where his body was under the sacrament, for this conveys a relation to without; but under the sacrament it would not have been united to Christ’s body as its form, because this pertains to the interior disposition; hence it would inevitably result that two contradictories exist at the same time.***
+To the third question, it should be said that while Christ’s body was lying in the tomb, God could have easily caused Christ’s separated soul to be in a place where his body was under the sacrament, for this conveys a relation to without; but under the sacrament it would not have been united to Christ’s body as its form, because this pertains to the interior disposition; hence it would inevitably result that two contradictories exist at the same time.  
 
 Reply Obj. 1: That argument concludes only that it would be there as in a place, and this God could easily do.  
 
@@ -818,7 +820,7 @@ Reply Obj. 2: And the second objection should be answered in a similar way. Neve
 
 Exposition of the Text  
 
-****It is formed of some matter of which it was not made at conception*.Peter Lombard, *Sententiae* IV, 11.1 (60). 2. It is evident that these proceed from equivocation on the preposition ‘from’: for when it is said, ‘the body of Christ is made from bread,’ the ‘from’ does not denote the condition of material cause, but only the order between the terminuses of the change.***
+*It is formed of some matter of which it was not made at conception*.Peter Lombard, *Sententiae* IV, 11.1 (60). 2. It is evident that these proceed from equivocation on the preposition ‘from’: for when it is said, ‘the body of Christ is made from bread,’ the ‘from’ does not denote the condition of material cause, but only the order between the terminuses of the change.  
 
 *“It cannot be healthfully investigated,”**Sent* IV, 11.2 (61). 2 citing Lanfranc, *Liber de corpore et sanguine Domini*, c10. namely so that someone strives to comprehend it: for presumption is also dangerous, when someone does not wish to believe more there than he can see with his reason; but to investigate for the defense of the faith is useful.  
 

@@ -1,8 +1,10 @@
 # D. 11 - Angelic guardianship
 
+***Angelic guardianship***
+
 ***Division of the first part of the text***
 
-***After he has examined certain acts that follow on all the orders, namely, to attend and to minister, here he considers the act to which a single order is specially deputed, namely to guard men. This is divided into two parts.***
+After he has examined certain acts that follow on all the orders, namely, to attend and to minister, here he considers the act to which a single order is specially deputed, namely to guard men. This is divided into two parts.  
 
 In the first, he considers the angels with regard to the office of guardianship.  
 
@@ -42,7 +44,7 @@ Article 1
 
 ***Whether the angels guard men***
 
-***To the first we proceed as follows.Parallel text: *ST* I.113.1. It seems that angels do not guard men.***
+To the first we proceed as follows.Parallel text: *ST* I.113.1. It seems that angels do not guard men.  
 
 Obj. 1: For God is the *guardian of men*, as is said in Job 7:17–20. But a guardian who is sufficient by himself for guardianship is more perfect than one who guards by the mediation of others. Therefore, since everything that is most perfect must be attributed to God, it seems that he does not guard us through angels.  
 
@@ -78,7 +80,7 @@ Article 2
 
 ***Whether it pertains to all the orders of the third hierarchy to guard men***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.113.3; *SCG* III.80. It seems that to guard pertains to all the orders of the third hierarchy.***
+To the second we proceed as follows.Parallel texts: *ST* I.113.3; *SCG* III.80. It seems that to guard pertains to all the orders of the third hierarchy.  
 
 Obj. 1: For, according to Dionysius,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 9 (PG 3:259). it is proper to the third hierarchy to receive the divine light by way of accommodation to our hierarchy, that is, as proportioned for immediate transfer to us. But an angel who immediately illuminates a man is called his “guardian.” Therefore, it seems that to guard pertains to all of them.  
 
@@ -106,7 +108,7 @@ Article 3
 
 ***Whether there are angels assigned to the guardianship of all men***
 
-***To the third we proceed as follows.Parallel text: *ST* I.113.4, 5. It seems that there are not angels assigned to the guardianship of all men.***
+To the third we proceed as follows.Parallel text: *ST* I.113.4, 5. It seems that there are not angels assigned to the guardianship of all men.  
 
 Obj. 1: For the guardianship of the angels helps men avoid dangers and enlighten their ignorance. But Adam was free from both of these in his original state. Therefore, he did not have a guardian angel.  
 
@@ -142,7 +144,7 @@ Article 4
 
 ***Whether an angel ever leaves the man to whom it is deputed***
 
-***To the fourth we proceed as follows.Parallel text: *ST* I.113.6. It seems that an angel sometimes leaves the man to whom it is deputed as guardian.***
+To the fourth we proceed as follows.Parallel text: *ST* I.113.6. It seems that an angel sometimes leaves the man to whom it is deputed as guardian.  
 
 Obj. 1: This is first from what is said in Jeremiah: *we would have healed Babylon, but she is not healed. Let us forsake her* (Jer 51:9). But this is said in the person of the angels, as a gloss states.See Origen, *Homilies on Jeremiah*, homily 21, para. 12 (PG 13:541); and *Selections on Jeremiah*, ch. 51, n. 9, (PG 13:602). Therefore, it seems that the angel leaves a man when he does not accept correction to avoid sin.  
 
@@ -176,7 +178,7 @@ Article 5
 
 ***Whether the angels grieve over the damnation of the men they guard***
 
-***To the fifth we proceed as follows.Parallel text: *ST* I.113.7. It seems that the angels grieve over the damnation of the men they guard.***
+To the fifth we proceed as follows.Parallel text: *ST* I.113.7. It seems that the angels grieve over the damnation of the men they guard.  
 
 Obj. 1: For outward mourning is a sign of interior pain. But in Isaiah 33:7 it is said, *the angels of peace weep bitterly*.RSV reads *envoys* instead of *angels*. Therefore, it seems that they grieve.  
 
@@ -202,13 +204,13 @@ Reply Obj. 4: The angels will the salvation of a man with antecedent will, just 
 
 Exposition of the first part of the text  
 
-****And an evil one to train the soul*.*Sent*. II, 11.1(56).2. This seems to be an injustice in the case of man because demons are much stronger than men. For there is no power on earth to compare with theirs, as is said in Job 41. Therefore, it is not just to establish a conflict between a man and a demon.***
+*And an evil one to train the soul*.*Sent*. II, 11.1(56).2. This seems to be an injustice in the case of man because demons are much stronger than men. For there is no power on earth to compare with theirs, as is said in Job 41. Therefore, it is not just to establish a conflict between a man and a demon.  
 
 We must say that, since a free will cannot be compelled to sin, a man can resist no matter how strong a demon is. Hence it is said that an enemy is weak who can only conquer the willing.Hugh of Saint-Cher, OP (ca. 1200–1263 AD), *Postilla ‘Aser pinguis’ in Apocalypsi*, ch. 12, at Revelations 12:10; Gregory the Great, *Morals on the Book of Job*, bk. 5, ch. 22 (CCSL 143A; PL 75:702); Bernard of Siena, *Quadragesimale de christiana religione*, sermon 19, “Feria secunda post II dominicam in quadragesima,” a. 3, ch. 2. In addition to this, a man has on his side an angel’s protection and God’s assistance if he is willing to receive them.  
 
 Division of the second part of the text  
 
-***Here the Master inquires whether the angels progress in merit or reward while they continue in the office of guardianship. This is divided into two parts.***
+Here the Master inquires whether the angels progress in merit or reward while they continue in the office of guardianship. This is divided into two parts.  
 
 First, he lays out two opinions.  
 
@@ -254,7 +256,7 @@ Article 1
 
 ***Whether the angels progress in the vision of God***
 
-***To the fifth we proceed as follows.Parallel text: *ST* I.62.9. It seems that the angels progress in the vision of God.***
+To the fifth we proceed as follows.Parallel text: *ST* I.62.9. It seems that the angels progress in the vision of God.  
 
 Obj. 1: For perfection of virtue does not take away but rather increases one’s power to merit. But the blessed angels have perfect charity, which is the root of all merit, and this charity informs all their acts. Therefore, it seems that they are always meriting more and more that the divine vision be increased in them.  
 
@@ -284,7 +286,7 @@ Article 2
 
 ***Whether the lower angels are illuminated by the higher***
 
-***To the second we proceed as follows.Parallel texts: above, d. 9. a. 2; *ST* I.106.1, 3, and 4; *On Truth*, q. 9. aa. 1–2, 5; *Compendium theologiae*, ch. 126. It seems that the lower angels do not progress in the knowledge of things or divine effects through the illumination of the higher.***
+To the second we proceed as follows.Parallel texts: above, d. 9. a. 2; *ST* I.106.1, 3, and 4; *On Truth*, q. 9. aa. 1–2, 5; *Compendium theologiae*, ch. 126. It seems that the lower angels do not progress in the knowledge of things or divine effects through the illumination of the higher.  
 
 Obj. 1: For every activity of an angel either pertains to its nature or to its reward. But they do not progress in the natural knowledge that they received all at once at their creation, nor do they progress in merit or reward. Therefore, it seems that the knowledge of divine effects does not grow in them.  
 
@@ -318,7 +320,7 @@ Article 3
 
 ***Whether the angels know anything through mutual locution***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.107.1, 2, and 5; *On Truth*, q. 9, aa. 4, 5, 7; *Commentary on 1 Corinthians*, ch. 13, lect. 1. It seems that the angels do not receive knowledge of anything through mutual locution.***
+To the third we proceed as follows.Parallel texts: *ST* I.107.1, 2, and 5; *On Truth*, q. 9, aa. 4, 5, 7; *Commentary on 1 Corinthians*, ch. 13, lect. 1. It seems that the angels do not receive knowledge of anything through mutual locution.  
 
 Obj. 1: For Basil says, *if we lived with an exposed and uncovered soul, the thoughts of our hearts would be opened to one another by our merely wishing it so*.Basil the Great, *Homilies*, homily 6, on Deuteronomy 15:9 (CCSL 20A). But the angels have an intellect that is not obscured by a body. Therefore, one sees the thoughts of another. Thus, they do not require mutual locution.  
 
@@ -358,7 +360,7 @@ Article 4
 
 ***Whether the angels learned of the mystery of the Incarnation through men***
 
-***To the fourth we proceed as follows. It seems that the angels learned of the mystery of the Incarnation through men.***
+To the fourth we proceed as follows. It seems that the angels learned of the mystery of the Incarnation through men.  
 
 Obj. 1: This is first of all because of what we find in Ephesians 3:10: *through the Church the manifold wisdom of God might now be made known to the principalities and powers in the heavenly places*.  
 
@@ -396,7 +398,7 @@ Article 5
 
 ***Whether there can be conflict among the angels***
 
-***To the fifth we proceed as follows.Parallel texts: *In IV Sent*., d. 45, q. 3, a. 3, ad 3; *ST* I.113.8. It seems that there cannot be conflict among the angels.***
+To the fifth we proceed as follows.Parallel texts: *In IV Sent*., d. 45, q. 3, a. 3, ad 3; *ST* I.113.8. It seems that there cannot be conflict among the angels.  
 
 Obj. 1: For all discord and conflict is incompatible with the unity of charity. But the angels are perfected in charity. Therefore, there cannot be conflict among them.  
 
@@ -426,7 +428,7 @@ Article 6
 
 ***Whether the orders will remain after judgment day***
 
-***To the sixth we proceed as follows.Parallel texts: *In IV Sent*., d. 47, q. 1, a. 2, resp.; *ST* I.108.7; *Commentary on 1 Corinthians*, ch. 15, lect. 3. It seems that the orders will not remain after judgment day.***
+To the sixth we proceed as follows.Parallel texts: *In IV Sent*., d. 47, q. 1, a. 2, resp.; *ST* I.108.7; *Commentary on 1 Corinthians*, ch. 15, lect. 3. It seems that the orders will not remain after judgment day.  
 
 Obj. 1: For 1 Corinthians 15:24 says that when Christ *has handed over the kingdom to his God and Father, every principality and power will be brought to naught*. But this will happen at the resurrection. Therefore, it seems that for the same reason the other orders will be brought to naught.  
 
@@ -452,6 +454,6 @@ Reply Obj. 4: In this way, the reply to the fourth objection is clear. For even 
 
 Exposition of the second part of the text  
 
-****For Isaiah, speaking in the person of the angels . . . says, ‘who is this who comes from Edom, with dyed garments from Bosra?’**Sent*. II, 11.2(57).3, quoting Isaiah 63:1. Dionysius saysPseudo-Dionysius, *Celestial Hierarchy*, ch. 7 (PG 3:210). that this is the question of the higher angels waiting to be illuminated by Christ about the hidden mysteries of his Incarnation. But they do not pose the question to Christ himself, but rather to one another, as a sign of their reverence for Christ, like students disputing among themselves as they await the determination of the teacher.***
+*For Isaiah, speaking in the person of the angels . . . says, ‘who is this who comes from Edom, with dyed garments from Bosra?’**Sent*. II, 11.2(57).3, quoting Isaiah 63:1. Dionysius saysPseudo-Dionysius, *Celestial Hierarchy*, ch. 7 (PG 3:210). that this is the question of the higher angels waiting to be illuminated by Christ about the hidden mysteries of his Incarnation. But they do not pose the question to Christ himself, but rather to one another, as a sign of their reverence for Christ, like students disputing among themselves as they await the determination of the teacher.  
 
 *‘What is there which they do not know, since they know the one who knows all things?’**Sent*. II, 11.2(57).10, quoting Gregory the Great, *Dialogorum libri quatuor*, bk. 4, ch. 34 (PL 77:576). This, as the Master says, can be understood of those things that pertain to beatitude, or even because there is nothing for the knowledge of which that medium, namely, the divine essence, is insufficient. Hence it is not by any deficiency in the divine essence that something remains hidden to one who sees it. Rather, it is due to a deficiency in the one seeing, since he does not comprehend it perfectly. But the more perspicacious the intellect of the one seeing, the more things he can see in it. Now, one reaches a higher level of perspicacity only by the gift of God himself who is seen. This is not communicated of necessity, but rather voluntarily. Thus, that mirror is said to be voluntary, since only what it wills to show can be seen in it.

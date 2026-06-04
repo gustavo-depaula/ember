@@ -1,6 +1,8 @@
 # D. 38 - Lying
 
-***Distinctis quinque The Bruges and Paris (842) manuscripts read *quatuor*. praeceptis secundae tabulae et expositis, hic Magister determinat de quibusdam quae praecepto quinto contrariantur, scilicet de mendacio, et perjurio. Dividitur autem haec pars in duas:***
+***Divisio textus***
+
+Distinctis quinque The Bruges and Paris (842) manuscripts read *quatuor*. praeceptis secundae tabulae et expositis, hic Magister determinat de quibusdam quae praecepto quinto contrariantur, scilicet de mendacio, et perjurio. Dividitur autem haec pars in duas:  
 
 in prima determinat de mendacio;  
 
@@ -64,7 +66,7 @@ Articulus 1
 
 ***Utrum definitio mendacii in littera sit conveniens***
 
-***Ad primum sic proceditur. Videtur quod inconvenienter definiatur mendacium in littera.***
+Ad primum sic proceditur. Videtur quod inconvenienter definiatur mendacium in littera.  
 
 Qui enim verum loquitur quod falsum esse credit, mentitur, sicut dicit Augustinus in lib. *De mendacio*. Sed ibi non est falsa vocis significatio. Ergo male mendacium definitur esse falsa vocis significatio. The Bruges and Paris (841) manuscripts omit this sentence through homoteleuton.  
 
@@ -92,7 +94,7 @@ Articulus 2
 
 ***Utrum divisio mendacii in littera sit conveniens***
 
-***Ad secundum sic proceditur. Videtur quod inconvenienter mendacium dividatur in littera.***
+Ad secundum sic proceditur. Videtur quod inconvenienter mendacium dividatur in littera.  
 
 Ea enim quae secundum accidens sunt, cum infinita sint, dimittenda sunt. Sed mendacio, inquantum hujusmodi, accidit quod fiat loco, vel commodo, vel damno alicujus. Ergo secundum ista inconvenienter dividitur mendacium.  
 
@@ -206,7 +208,7 @@ Articulus 5
 
 ***Utrum gradus mendaciorum convenienter assignentur in littera***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter gradus mendaciorum in littera assignentur.***
+Ad quintum sic proceditur. Videtur quod inconvenienter gradus mendaciorum in littera assignentur.  
 
 Quandocumque The Bruges manuscript reads *quandoque*; the Paris (841) manuscript reads *quantumcumque*. enim aliquis falsum scienter loquitur, mentitur. Sed aliquis disputando falsum scienter loquitur etiam in his quae ad fidem pertinent. Ergo dicit mendacium in doctrina religionis. Sed hoc non est gravius mendacio pernicioso. Ergo mendacium quod fit in doctrina, non est primum et gravissimum mendacium.  
 
@@ -240,7 +242,7 @@ Ad quintum dicendum, quod immunditia corporalis hic intelligitur quae habet vici
 
 Expositio textus  
 
-****Ne pro corpore alterius animam suam occidat*. Quod sic vitari potest secundum Augustinum in lib. *De mendacio*. Si enim aliquis ad mortem quaeratur, simpliciter nobis interrogatis de eo sine loci determinatione, respondendum est, quod eum non prodemus, etiam si oporteat nos tormenta sustinere: pro quo facto quemdam episcopum laudat. Si autem interrogemur The Paris (842) manuscript and the edited versions read *interrogamur*. utrum sit in illo loco determinato, respondendum est: scio ubi est, sed non dicam.***
+*Ne pro corpore alterius animam suam occidat*. Quod sic vitari potest secundum Augustinum in lib. *De mendacio*. Si enim aliquis ad mortem quaeratur, simpliciter nobis interrogatis de eo sine loci determinatione, respondendum est, quod eum non prodemus, etiam si oporteat nos tormenta sustinere: pro quo facto quemdam episcopum laudat. Si autem interrogemur The Paris (842) manuscript and the edited versions read *interrogamur*. utrum sit in illo loco determinato, respondendum est: scio ubi est, sed non dicam.  
 
 *Praecipue si iteretur*. Hoc dicitur inquantum multiplicatio venialium disponit ad mortale.  
 

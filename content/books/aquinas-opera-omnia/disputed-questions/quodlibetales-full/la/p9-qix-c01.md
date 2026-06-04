@@ -1,5 +1,7 @@
 # On Christ
 
+***Quaestio 1***
+
 ***Quantum ad naturam divinam***
 
 ***Quaesitum est primo de capite Christo, deinde de membris eius.***
@@ -16,7 +18,7 @@ Articulus unicus
 
 ***Utrum Deus possit facere infinita esse in actu***
 
-***Circa primum quaeritur utrum Deus possit facere infinita esse in actu? Et videtur quod non.***
+Circa primum quaeritur utrum Deus possit facere infinita esse in actu? Et videtur quod non.  
 
 Deus enim potest facere aliquid maius omni eo quod facit, quia eius *potentiam* non adequat *opus*, ut Hugo de Sancto Victore dicit; sed infinito in actu non potest esse aliquid maius; ergo non potest esse quod Deus faciat infinitum in actu.  
 
@@ -50,7 +52,7 @@ Quaestio 2
 
 ***Quantum ad unionem humanae naturae ad divinam***
 
-***Deinde quaeritur de Christo quantum ad unionem humanae naturae cum divina. Et circa hoc quaeruntur tria:***
+Deinde quaeritur de Christo quantum ad unionem humanae naturae cum divina. Et circa hoc quaeruntur tria:  
 
 primo, utrum in Christo sit una hypostasis tantum;  
 
@@ -178,7 +180,7 @@ Quaestio 3
 
 ***Utrum scilicet sint ibi accidentia sine subiecto***
 
-***Deinde quaeritur de Christo quantum ad species sub quibus in sacramento altaris continetur, utrum scilicet sint ibi accidentia sine subiecto? Et videtur quod non.***
+Deinde quaeritur de Christo quantum ad species sub quibus in sacramento altaris continetur, utrum scilicet sint ibi accidentia sine subiecto? Et videtur quod non.  
 
 Deus enim non potest facere contradictoria esse simul vera; hoc autem esset, si ab aliquo removeretur id quod est de sua diffinitione; cum <ergo> in diffinitione accidentis cadat esse in subiecto, quia *accidentis esse est inesse*, videtur quod Deus non possit facere accidens esse sine subiecto.  
 

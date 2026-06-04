@@ -1,5 +1,7 @@
 # Proposition 21
 
+***162. The first is rich in and of itself and there is nothing richer.***
+
 > 163. And an indication of this is its unity, not because its unity is distributed in it, but rather its unity is pure, inasmuch as it is simple, to the highest degree of simplicity.
 
 > 164. But if anyone wishes to know that the first is rich, let him cast forth his mind over composite things and ask about them with very thorough questioning. He will find then that every composite thing is imperfect needing indeed, either another thing, or the things out of which it is composed. But a simple, single thing which is goodness, is one and its unity is goodness and its goodness is one thing.

@@ -1,8 +1,10 @@
 # D. 26 - The personal properties of the divine persons
 
+***The personal properties of the divine persons***
+
 ***Division of the text***
 
-***After having considered the essence and the persons, here the Master considers the properties whereby the persons are distinguished. Now, this is divided into two parts: in the first, he considers the proper properties of the persons; in the second, he considers those appropriated to the persons at *moreover, . . . it is necessary to consider*.*Sent*. I, 31.1(131).1.***
+After having considered the essence and the persons, here the Master considers the properties whereby the persons are distinguished. Now, this is divided into two parts: in the first, he considers the proper properties of the persons; in the second, he considers those appropriated to the persons at *moreover, . . . it is necessary to consider*.*Sent*. I, 31.1(131).1.  
 
 The first part is divided into two: in the first, he considers the personal properties; in the second, he considers the properties of the persons that are not personal.*Sent*. I, 28.1(118).1.  
 
@@ -40,7 +42,7 @@ Article 1
 
 ***Whether “hypostasis” should be said in the divine, properly speaking***
 
-***To the first we proceed as follows.Parallel text: *ST* I.29.2. It seems that “hypostasis” should not properly be spoken of in the divine.***
+To the first we proceed as follows.Parallel text: *ST* I.29.2. It seems that “hypostasis” should not properly be spoken of in the divine.  
 
 Obj. 1: This is so, first, because of what Jerome says in the text, that this name is not worthy of trust, and *a poison lurks beneath its honey*.Jerome, *Epistulae*, letter 15, “To Damasus,” n. 4 (CSEL 54:66; PL 22:357); *Sent*. I, 25.1(105).1.  
 
@@ -78,7 +80,7 @@ Article 2
 
 ***Whether the hypostases remain distinct when the intellect removes the relations***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.40.3; *On the Power of God*, q. 8, a. 4; *Compendium theologiae*, ch. 61. It seems that, upon the intellect’s removal of the relations, the hypostases do remain distinct.***
+To the second we proceed as follows.Parallel texts: *ST* I.40.3; *On the Power of God*, q. 8, a. 4; *Compendium theologiae*, ch. 61. It seems that, upon the intellect’s removal of the relations, the hypostases do remain distinct.  
 
 Obj. 1: For, as Augustine says,Augustine, *On the Trinity*, bk. 5, ch. 5 (CCSL 50; PL 42:914). in everything that is spoken of as toward-another, one can take something that is said as through-itself; for the related is not only related but also is something. Therefore, if a hypostasis according to relation is spoken of as toward-something, it seems that, beyond the understanding of the relation, there is something intelligible subsisting. Thus, with the relative properties removed by the intellect, it seems that the subsisting hypostases themselves remain.  
 
@@ -122,7 +124,7 @@ Article 1
 
 ***Whether relations are in the divine***
 
-***To the first we proceed as follows.Parallel texts: below, d. 33, a. 2; *ST* I.28.1; *SCG* IV.14; *On the Power of God*, q. 8, a. 1; *Compendium theologiae*, cc. 53, 67; *Commentary on John*, ch. 16, lect. 4. It seems that relations are altogether nothing in the divine.***
+To the first we proceed as follows.Parallel texts: below, d. 33, a. 2; *ST* I.28.1; *SCG* IV.14; *On the Power of God*, q. 8, a. 1; *Compendium theologiae*, cc. 53, 67; *Commentary on John*, ch. 16, lect. 4. It seems that relations are altogether nothing in the divine.  
 
 Obj. 1: For, as Boethius says,Boethius, *On the Trinity*, ch. 4 (PL 64:1252). *all things that enter into divine predication change into substance, and toward-something is altogether not predicated*. But whatever is in God is predicated of him. Therefore relations are not in God.  
 
@@ -162,7 +164,7 @@ Article 2
 
 ***Whether relations of origin distinguish the hypostases***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.40.2; *SCG* IV.24; *On the Power of God*, q. 8, a. 3; q. 9, a. 4, ad 15; *Quodl. IV*, q. 4, a. 2. It seems that relations of origin do not distinguish the hypostases.***
+To the second we proceed as follows.Parallel texts: *ST* I.40.2; *SCG* IV.24; *On the Power of God*, q. 8, a. 3; q. 9, a. 4, ad 15; *Quodl. IV*, q. 4, a. 2. It seems that relations of origin do not distinguish the hypostases.  
 
 Obj. 1: For what according to its concept follows after substance cannot be the principle of any distinction within substances. But relation is among things that follow after substance in God, at least according to concept, as do goodness and wisdom, as Damascene says.John Damascene, *On the Orthodox Faith*, bk. 1, ch. 5 (PG 94:802); bk. 1, ch. 12 (PG 94:847–50); bk. 3, ch. 5 (PG 94:999–1002). Therefore, since a hypostasis is a substance, it seems that relation does not make the distinction of hypostases.  
 
@@ -194,7 +196,7 @@ Article 3
 
 ***Whether there are only five notions***
 
-***To the third we proceed as follows.Parallel texts: below, d. 28, q. 1, a. 1; *ST* I.32.3–4; *On the Power of God*, q. 9, a. 9, ad 21, ad 27; q. 10, a. 5, ad 12; *Compendium theologiae*, cc. 57‒60. It seems that there are not only five notions.The five notions or properties are usually named as innascibility, paternity, filiation, common spiration, and procession. In this context, the word “notion” can be used somewhat interchangeably with “property,” depending on how one takes the meaning of that word, as Aquinas explains elsewhere: *hae autem quinque ‘notiones’ personarum dici possunt eo quod per eas nobis innotescit in divinis distinctio personarum; non tamen haec quinque possunt dici proprietates, si hoc in proprietatis ratione observetur ut proprium esse dicatur quod convenit uni soli, nam communis spiratio Patri et Filio convenit. Sed secundum illum modum quo aliquid dicitur ‘proprium’ aliquibus per respectum ad aliud, sicut bipes homini et avi per respectum ad quadrupedia, nihil prohibet etiam communem spirationem proprietatem dici*; “these five properties can be called ‘notions’ of the persons, for the reason that the distinction between the persons in God is brought to our notice through them. On the other hand, they cannot be called properties if the root meaning of a property is insisted on, so that a property is taken to mean a characteristic pertaining to one individual alone: for common spiration pertains to the Father and the Son. But if the word ‘property’ is employed in the sense of an attribute that is proper to some individuals as setting them off from others, in the way that two-footed, for example, is proper to man and bird as distinguished from quadrupeds, there is nothing to prevent even common spiration from being called a property” (*Compendium theologiae*, bk. 1, ch. 59).***
+To the third we proceed as follows.Parallel texts: below, d. 28, q. 1, a. 1; *ST* I.32.3–4; *On the Power of God*, q. 9, a. 9, ad 21, ad 27; q. 10, a. 5, ad 12; *Compendium theologiae*, cc. 57‒60. It seems that there are not only five notions.The five notions or properties are usually named as innascibility, paternity, filiation, common spiration, and procession. In this context, the word “notion” can be used somewhat interchangeably with “property,” depending on how one takes the meaning of that word, as Aquinas explains elsewhere: *hae autem quinque ‘notiones’ personarum dici possunt eo quod per eas nobis innotescit in divinis distinctio personarum; non tamen haec quinque possunt dici proprietates, si hoc in proprietatis ratione observetur ut proprium esse dicatur quod convenit uni soli, nam communis spiratio Patri et Filio convenit. Sed secundum illum modum quo aliquid dicitur ‘proprium’ aliquibus per respectum ad aliud, sicut bipes homini et avi per respectum ad quadrupedia, nihil prohibet etiam communem spirationem proprietatem dici*; “these five properties can be called ‘notions’ of the persons, for the reason that the distinction between the persons in God is brought to our notice through them. On the other hand, they cannot be called properties if the root meaning of a property is insisted on, so that a property is taken to mean a characteristic pertaining to one individual alone: for common spiration pertains to the Father and the Son. But if the word ‘property’ is employed in the sense of an attribute that is proper to some individuals as setting them off from others, in the way that two-footed, for example, is proper to man and bird as distinguished from quadrupeds, there is nothing to prevent even common spiration from being called a property” (*Compendium theologiae*, bk. 1, ch. 59).  
 
 Obj. 1: For what is born for something, due to the mere orientation of the other to it itself, is multiplied according to the multitude of things to which it is related; for a plurality in the effect follows on the multiplication of the cause. But the relations are born due to the mere orientation of one thing to another. Therefore there will be as many relations in God as there are created things that have a relation to him.  
 
@@ -234,7 +236,7 @@ Reply Sed Contra 6: Every property in the divine, and whatever is there, is subs
 
 Exposition of the text  
 
-****Nothing in God is said according to accident*.*Sent*. I, 26.3(107).1, quoting Augustine, *On the Trinity*, bk. 5, ch. 5 (CCSL 50; PL 42:913–14). The argument here seems invalid, since many things are inseparable accidents, and these always follow on the subject and cannot be lost. To which one should say that every subject of an accident can be understood without the accident, even if sometimes an accident follows inseparably on its subject. And therefore, because the very supposit of the relation cannot be understood without the relation, since the relation itself is the subsisting supposit, it cannot be an accident. For in every accident that accrues to a thing there is a certain composition of the subject with the accident, on account of which the former can be understood without the latter. And where there is composition there is changeability as regards the nature of the composition, for everything composed is divisible unless it be impeded by some cause.***
+*Nothing in God is said according to accident*.*Sent*. I, 26.3(107).1, quoting Augustine, *On the Trinity*, bk. 5, ch. 5 (CCSL 50; PL 42:913–14). The argument here seems invalid, since many things are inseparable accidents, and these always follow on the subject and cannot be lost. To which one should say that every subject of an accident can be understood without the accident, even if sometimes an accident follows inseparably on its subject. And therefore, because the very supposit of the relation cannot be understood without the relation, since the relation itself is the subsisting supposit, it cannot be an accident. For in every accident that accrues to a thing there is a certain composition of the subject with the accident, on account of which the former can be understood without the latter. And where there is composition there is changeability as regards the nature of the composition, for everything composed is divisible unless it be impeded by some cause.  
 
 Furthermore, *for men are sons of God by being made so*,*Sent*. I, 26.4(108).2. that is, by creation. Yet not every created thing has the name “filiation,” but only the things that are according to his image. Or better: a man is also said to be a son “by being made so” through adoption, since, although he before would not have been a son, he has now been made a son. And he does not have the fact that he is a son of God from the origin of his birth, as the eternal Son has. And this interpretation is consonant with things that follow. There will be a discussion of this sonship of adoption later.*In III Sent*., d. 10, q. 3, a. 1.  
 

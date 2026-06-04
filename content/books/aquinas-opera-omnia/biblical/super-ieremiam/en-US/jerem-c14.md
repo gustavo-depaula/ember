@@ -1,10 +1,12 @@
 # C. 12 - God’s justice in punishing
 
+***God’s justice in punishing***
+
 ***Lecture 1***
 
 ***Why do the wicked prosper?***
 
-***^12:1^ Indeed, you are just, O Lord, if I should contend with you:Heb. כִּ֥י אָרִ֖יב אֵלֶ֑יךָ: *when I strive with you*. yet I will speak what is just to you.Heb. אַ֤ךְ מִשְׁפָּטִים֙ אֲדַבֵּ֣ר אֹותָ֔ךְ: *yet I will speak of judgments with you*. Why does the way of the wicked prosper, and why does it go well for all who transgress, and deal unjustly?Heb. שָׁל֖וּ כָּל־בֹּ֥גְדֵי בָֽגֶד: *all who act treacherously are at ease*.***
+^12:1^ Indeed, you are just, O Lord, if I should contend with you:Heb. כִּ֥י אָרִ֖יב אֵלֶ֑יךָ: *when I strive with you*. yet I will speak what is just to you.Heb. אַ֤ךְ מִשְׁפָּטִים֙ אֲדַבֵּ֣ר אֹותָ֔ךְ: *yet I will speak of judgments with you*. Why does the way of the wicked prosper, and why does it go well for all who transgress, and deal unjustly?Heb. שָׁל֖וּ כָּל־בֹּ֥גְדֵי בָֽגֶד: *all who act treacherously are at ease*.  
 
 > ^12:2^ You planted them, and they sent out roots; they grow and bear fruit; you are close to their mouth, and far from their reins.
 
@@ -48,7 +50,7 @@ Lecture 2
 
 ***The forsaken inheritance***
 
-***^12:7^ I have left my house, I have forsaken my inheritance; I have given my beloved soulHeb. נָתַ֛תִּי אֶת־יְדִד֥וּת נַפְשִׁ֖י בְּכַ֥ף אֹיְבֶֽיהָ: *I have given the well-beloved of my soul into the hand of her enemy*. into the hands of her enemies.***
+^12:7^ I have left my house, I have forsaken my inheritance; I have given my beloved soulHeb. נָתַ֛תִּי אֶת־יְדִד֥וּת נַפְשִׁ֖י בְּכַ֥ף אֹיְבֶֽיהָ: *I have given the well-beloved of my soul into the hand of her enemy*. into the hands of her enemies.  
 
 > ^12:8^ My inheritance has become for me like a lion in the forest; she gave forth her voice against me, therefore have I hated her.
 
@@ -74,13 +76,13 @@ Alternatively, when he says, ***I have left my house***, these could be the word
 
 Collations  
 
-******The wicked prosper*** (Jer 12:1) because of the loss of their inheritance. *Abraham gave all that he had to Isaac his son, but to the sons of the concubines he gave gifts* (Gen 25:5). Because of their imperfect remuneration: *amen I say to you, they have received their reward* (Matt 6:2). Because they are not worthy of divine correction: *my indignation shall rest upon you, and my zeal shall be taken from you* (Ezek 16:42). *I will not punish your daughters when they fornicate, or your wives when they commit adultery* (Hos 4:14). *If you are without discipline, of which you have all been made partakers, then you are illegitimate and not true sons* (Heb 12:8). Because of the hopelessness of their illness: *your wound is great like the sea. Who shall heal you?* (Lam 2:13). ***Your breach is incurable, your wound very grievous*** (Jer 30:12). Because of their dejection: *but for treachery you have put it to them, you have cast them down while they were being lifted up* (Ps 72:18).Heb. אַ֣ךְ בַּ֭חֲלָקֹות תָּשִׁ֣ית לָ֑מֹו הִ֝פַּלְתָּ֗ם לְמַשּׁוּאֹֽות: *surely you have set them in slippery places, made them fall to ruin*. *Because of this God handed them over to a reprobate mind, that they might do what is not fitting* (Rom 1:28).***
+***The wicked prosper*** (Jer 12:1) because of the loss of their inheritance. *Abraham gave all that he had to Isaac his son, but to the sons of the concubines he gave gifts* (Gen 25:5). Because of their imperfect remuneration: *amen I say to you, they have received their reward* (Matt 6:2). Because they are not worthy of divine correction: *my indignation shall rest upon you, and my zeal shall be taken from you* (Ezek 16:42). *I will not punish your daughters when they fornicate, or your wives when they commit adultery* (Hos 4:14). *If you are without discipline, of which you have all been made partakers, then you are illegitimate and not true sons* (Heb 12:8). Because of the hopelessness of their illness: *your wound is great like the sea. Who shall heal you?* (Lam 2:13). ***Your breach is incurable, your wound very grievous*** (Jer 30:12). Because of their dejection: *but for treachery you have put it to them, you have cast them down while they were being lifted up* (Ps 72:18).Heb. אַ֣ךְ בַּ֭חֲלָקֹות תָּשִׁ֣ית לָ֑מֹו הִ֝פַּלְתָּ֗ם לְמַשּׁוּאֹֽות: *surely you have set them in slippery places, made them fall to ruin*. *Because of this God handed them over to a reprobate mind, that they might do what is not fitting* (Rom 1:28).  
 
 Lecture 3  
 
 ***The desolate vineyard***
 
-***^12:9b^ Come, gather together, all you beasts of the earth; make haste to devour.Heb. לְכ֗וּ אִסְפ֛וּ כָּל־חַיַּ֥ת הַשָּׂדֶ֖ה הֵתָ֥יוּ לְאָכְלָֽה: *go, gather all the wild beasts, bring them to devour*.***
+^12:9b^ Come, gather together, all you beasts of the earth; make haste to devour.Heb. לְכ֗וּ אִסְפ֛וּ כָּל־חַיַּ֥ת הַשָּׂדֶ֖ה הֵתָ֥יוּ לְאָכְלָֽה: *go, gather all the wild beasts, bring them to devour*.  
 
 > ^12:10^ Many shepherds have torn down my vineyard, they have trampled my portion, they have made my pleasant field an empty wilderness.
 
@@ -114,7 +116,7 @@ Lecture 4
 
 ***Punishment of sterility***
 
-***^12:13^ They have sown wheat, and harvested thorns; they have received an inheritance, and it did not profit them.Heb. נֶחְל֖וּ לֹ֣א יֹועִ֑לוּ: *they have tired themselves, but they have not profited*. You shall be ashamed of your fruits, because of the wrath of the fury of the Lord.***
+^12:13^ They have sown wheat, and harvested thorns; they have received an inheritance, and it did not profit them.Heb. נֶחְל֖וּ לֹ֣א יֹועִ֑לוּ: *they have tired themselves, but they have not profited*. You shall be ashamed of your fruits, because of the wrath of the fury of the Lord.  
 
 > **84**. Here, he threatens the punishment of sterility.
 
@@ -128,7 +130,7 @@ Lecture 5
 
 ***Mercy after punishment***
 
-***^12:14^ Thus says the Lord against all my wicked neighbors who touch the inheritance which I distributed to my people Israel: behold, I shall uproot them from their land, and I shall uproot the house of Judah from their midst.***
+^12:14^ Thus says the Lord against all my wicked neighbors who touch the inheritance which I distributed to my people Israel: behold, I shall uproot them from their land, and I shall uproot the house of Judah from their midst.  
 
 > ^12:15^ And when I have uprooted them, I will turn and have mercy upon them, and bring them back; a man to his inheritance, and a man to his own land.
 
@@ -146,4 +148,4 @@ Third, he speaks of their instruction, by the promise of good things if they do 
 
 Collations  
 
-***Note that the rulers ***destroy*** (Jer 12:10)In Jeremiah 12:10, the Latin has the verb, *demoliri*, rather than *destruere*, but the meaning is synonymous. the people through the perversity of their works: ***for the shepherds have done foolishly, and have not sought the Lord; therefore, they have not understood, and their whole flock is scattered*** (Jer 10:21); because of the falseness of their doctrine: ***m**y people have been a lost flock, their shepherds led them astray, and have made them wander in the mountains*** (Jer 50:6); because of the timidity of fear: *O shepherd, and idol that forsakes the flock; the sword is upon his arm and upon his right eye* (Zech 11:17); because of the austerity of their rule: *you commanded with austerity and with power, and my sheep are scattered* (Ezek 34:4–5); because of a slackening of care: *I will raise up a shepherd in the land who will not visit the forsaken, nor seek the lost, nor heal the wounded, nor nourish what stands, but he shall eat the flesh of the fat, and break their hooves* (Zech 11:16).***
+Note that the rulers ***destroy*** (Jer 12:10)In Jeremiah 12:10, the Latin has the verb, *demoliri*, rather than *destruere*, but the meaning is synonymous. the people through the perversity of their works: ***for the shepherds have done foolishly, and have not sought the Lord; therefore, they have not understood, and their whole flock is scattered*** (Jer 10:21); because of the falseness of their doctrine: ***m**y people have been a lost flock, their shepherds led them astray, and have made them wander in the mountains*** (Jer 50:6); because of the timidity of fear: *O shepherd, and idol that forsakes the flock; the sword is upon his arm and upon his right eye* (Zech 11:17); because of the austerity of their rule: *you commanded with austerity and with power, and my sheep are scattered* (Ezek 34:4–5); because of a slackening of care: *I will raise up a shepherd in the land who will not visit the forsaken, nor seek the lost, nor heal the wounded, nor nourish what stands, but he shall eat the flesh of the fat, and break their hooves* (Zech 11:16).

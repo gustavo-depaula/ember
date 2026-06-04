@@ -1,5 +1,7 @@
 # Chapter 37
 
+^37:1^ And it came to pass, when king Ezechias had heard it, that he rent his garments and covered himself with sackcloth, and went into the house of the Lord.  
+
 > ^37:2^ And he sent Eliacim who was over the house, and Sobna the scribe, and the ancients of the priests covered with sackcloth, to Isaiah the son of Amos the prophet.
 
 > ^37:3^ And they said to him: thus says Ezechias: this day is a day of tribulation, and of distress,Vg. omits “and of distress.” and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth.

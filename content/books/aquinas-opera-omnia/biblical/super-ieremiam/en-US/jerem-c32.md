@@ -1,5 +1,7 @@
 # C. 30 - God promises liberation
 
+***God promises liberation***
+
 ***Lecture 1***
 
 ***Command to write***
@@ -98,7 +100,7 @@ Lecture 3
 
 ***God promises healing***
 
-***^30:12^ For thus says the Lord: your breach is incurable, your wound very grievous.***
+^30:12^ For thus says the Lord: your breach is incurable, your wound very grievous.  
 
 > ^30:13^ There is none who may judge your judgment to bind it; you have no useful medicines.
 
@@ -160,7 +162,7 @@ Lecture 4
 
 ***God will accomplish his wrath***
 
-***^30:23^ Behold, the whirlwind of the Lord, his fury going forth, a rushing storm; it shall rest upon the head of the wicked.***
+^30:23^ Behold, the whirlwind of the Lord, his fury going forth, a rushing storm; it shall rest upon the head of the wicked.  
 
 > ^30:24^ The Lord shall not turn aside the wrath of his indignation until he has done and accomplished the thought of his heart; in the end you will understand these things.Heb. תִּתְבּוֹנְנוּ בָהּ: *you shall consider it*.
 

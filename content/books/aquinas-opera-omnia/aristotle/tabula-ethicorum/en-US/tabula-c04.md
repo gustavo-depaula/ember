@@ -1,5 +1,7 @@
 # Chapter 4
 
+***Term 1***
+
 ***Debt***
 
 ***As a general rule, a debt should be payed before making a gift to a friend.***
@@ -8,13 +10,13 @@ Term 2
 
 ***Deception***
 
-***When a man is deceived, thinking he is loved honestly, but he does not see any workings of honesty in the one supposedly loving him, he should blame himself.***
+When a man is deceived, thinking he is loved honestly, but he does not see any workings of honesty in the one supposedly loving him, he should blame himself.  
 
 Term 3  
 
 ***The Deceiver***
 
-***The man who deceives by pretense of love is guilty of greater blame than one who counterfeits money.***
+The man who deceives by pretense of love is guilty of greater blame than one who counterfeits money.  
 
 Term 4  
 
@@ -246,7 +248,7 @@ Term 9
 
 ***The Shrewd man***
 
-***The shrewd man can be rather incontinent, but is not one who does not take note of detail in his actions and is not entirely aware, like a drunk or a sleeping man, and is not plainly evil, but is partly evil.***
+The shrewd man can be rather incontinent, but is not one who does not take note of detail in his actions and is not entirely aware, like a drunk or a sleeping man, and is not plainly evil, but is partly evil.  
 
 Term 10  
 
@@ -288,25 +290,25 @@ Term 13
 
 ***The Educated Man***
 
-***The educated man will seek the amount of certainty in each field of study as its nature allows.***
+The educated man will seek the amount of certainty in each field of study as its nature allows.  
 
 Term 14  
 
 ***Riches***
 
-***Riches are not the good we seek, they are merely useful and sought for the sake of something else.***
+Riches are not the good we seek, they are merely useful and sought for the sake of something else.  
 
 Term 15  
 
 ***The Diligent Man***
 
-***It happens that someone is not diligent when he has the habit of living carelessly.***
+It happens that someone is not diligent when he has the habit of living carelessly.  
 
 Term 17  
 
 ***The Half of Life***
 
-***For half of their life (in sleep), nothing separates the happy from the miserable.***
+For half of their life (in sleep), nothing separates the happy from the miserable.  
 
 Term 17  
 
@@ -320,19 +322,19 @@ Term 18
 
 ***Worthiness***
 
-***All men differ in what they consider worthiness. For some it is freedom, some riches, some a noble status.***
+All men differ in what they consider worthiness. For some it is freedom, some riches, some a noble status.  
 
 Term 19  
 
 ***Measure***
 
-***When sone whole is divided by a measure (dicha), each can then say which part is his own.***
+When sone whole is divided by a measure (dicha), each can then say which part is his own.  
 
 Term 20  
 
 ***Democracy***
 
-***Democracy seems to be found among groups where there is no rule and with those whose ruler is weak.***
+Democracy seems to be found among groups where there is no rule and with those whose ruler is weak.  
 
 In demoncracies friendship can proliferate inasmuch as men may share things in common.  
 

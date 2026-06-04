@@ -1,8 +1,10 @@
 # D. 23 - The name “person”
 
+***The name “person”***
+
 ***Division of the text***
 
-***After having divided the divine names, here the Master excludes a certain name from the generality of other names—that is, this name “person,” which is indeed said according to substance, but it is nevertheless predicated in the plural. And this is divided into two parts: in the first, he presents the exception; in the second, he inquires into the reason for the exception, at *and so here a difficult question arises*.*Sent*. I, 23.1(95).3.***
+After having divided the divine names, here the Master excludes a certain name from the generality of other names—that is, this name “person,” which is indeed said according to substance, but it is nevertheless predicated in the plural. And this is divided into two parts: in the first, he presents the exception; in the second, he inquires into the reason for the exception, at *and so here a difficult question arises*.*Sent*. I, 23.1(95).3.  
 
 As regards the first, he does two things: first, he singles out this name “person” from the other divine names said in reference to the divine substance; and second, because nothing can be singled out from things unless it is contained among them, he shows that the name “person” signifies substance, at *Augustine . . . shows that person is said according to substance*.*Sent*. I, 23.1(95).2.  
 
@@ -30,9 +32,9 @@ fourth, if it in some way signifies substance, whether it is predicated in the p
 
 Article 1  
 
-***Whether “essence,” “subsistence,” “substance,” and “person” are said synonymously of God***
+Whether “essence,” “subsistence,” “substance,” and “person” are said synonymously of God  
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 2, q. 1, a. 3; *ST* I.13.4; *SCG* I.35; *On the Power of God*, q. 7, a. 6; q. 9, a. 1; *Compendium theologiae*, ch. 25. It seems that the listed names have no distinction, since they are, as it were, synonyms.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 2, q. 1, a. 3; *ST* I.13.4; *SCG* I.35; *On the Power of God*, q. 7, a. 6; q. 9, a. 1; *Compendium theologiae*, ch. 25. It seems that the listed names have no distinction, since they are, as it were, synonyms.  
 
 Obj. 1: For Boethius saysBoethius, *In Categorias Aristotelis libri IV*, bk. 1 (PL 64:184): *cum autem tres substantiae sint, materia, species, et quae ex utrisque conficitur undique composita et compacta substantia; hic neque de sola specie, neque de sola materia, sed de utrisque mixtis compositisque proposuit*, “but since there are three substances, namely, matter, species, and what is fashioned from both, that is, substance completely composed and conjoined, here he proposed neither the species alone, nor the matter alone, but what is composed and assembled from both.” in his commentaries on the *Categories* that *ousia* signifies a composite substance. But a composite substance is an individual subsisting in the genus of substance, which is signified by the name “substance,” or “hypostasis,” or “person.” Therefore it seems that this name “essence,” or “ousia,” does not differ in signification from the others.  
 
@@ -88,7 +90,7 @@ Article 2
 
 ***Whether the name “person” is said properly in the divine***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.29.3; *On the Power of God*, q. 9, a. 3. It seems that the name “person” is not said properly in the divine.***
+To the second we proceed as follows.Parallel texts: *ST* I.29.3; *On the Power of God*, q. 9, a. 3. It seems that the name “person” is not said properly in the divine.  
 
 Obj. 1: For “person” signifies the masked man whose figure is being represented, as was said in the previous article. But this cannot fit God, except metaphorically, nor does he even have a figure that could be represented, as Isaiah 40:18 says: *to whom then will you liken God, or what likeness compare with him?* Therefore the name “person” does not properly fit God.  
 
@@ -116,7 +118,7 @@ Article 3
 
 ***Whether “person” signifies substance***
 
-***To the third we proceed as follows.Parallel texts: below, d. 26, q. 1, a. 1; *ST* I.29.4; *On the Power of God*, q. 9, a. 4. It seems that “person” does signify substance.***
+To the third we proceed as follows.Parallel texts: below, d. 26, q. 1, a. 1; *ST* I.29.4; *On the Power of God*, q. 9, a. 4. It seems that “person” does signify substance.  
 
 Obj. 1: It seems to signify substance, first, on the authority of Augustine, presented in the text,*Sent*. I, 23.1(95).2, quoting Augustine, *On the Trinity*, bk. 7, ch. 6 (PL 42:943). which seems to say this expressly.  
 
@@ -176,7 +178,7 @@ Article 4
 
 ***Whether “person” should be predicated in the plural in the divine***
 
-***To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 2, a. 4; *ST* I.30.1; *On the Power of God*, q. 9, a. 5; *Compendium theologiae*, cc. 50, 55; *Quodl. VII*, q. 3, a. 1. It seems that “person” is not predicated in the plural.***
+To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 2, a. 4; *ST* I.30.1; *On the Power of God*, q. 9, a. 5; *Compendium theologiae*, cc. 50, 55; *Quodl. VII*, q. 3, a. 1. It seems that “person” is not predicated in the plural.  
 
 Obj. 1: For, as is noted in the text,*Sent*. I, 23.1(95).3; 2(96).1–3, referring to the words of Augustine, *On the Trinity*, bk. 7, ch. 4. to be three persons is to be three somethings. But it is not granted that the Father, the Son, and the Holy Spirit are three; rather, they are one. Therefore it seems that they cannot be called “three persons.”  
 
@@ -202,7 +204,7 @@ Reply Obj. 4: Substantive names do not receive plurality except due to a multipl
 
 Exposition of the text  
 
-****It is not one thing for God to be, and another to be a person*.*Sent*. I, 23.1(95).2, quoting Augustine, *On the Trinity*, bk. 7, ch. 6 (CCSL 50; PL 42:943). This is said not only in reference to the identity of the reality, since in this way in God there is only one existence, but also according to account, since from the very fact that he has existence subsisting in the divine nature, “person” is said in God. Yet that to which the account of person belongs is the relation, insofar as it is a distinct subsistence; for no other such thing can be posited in the divine. And therefore, as far as its mode of signifying, “person” belongs among substantial names, but as far as what the name “person” supposes in the divine, it pertains to relative names.***
+*It is not one thing for God to be, and another to be a person*.*Sent*. I, 23.1(95).2, quoting Augustine, *On the Trinity*, bk. 7, ch. 6 (CCSL 50; PL 42:943). This is said not only in reference to the identity of the reality, since in this way in God there is only one existence, but also according to account, since from the very fact that he has existence subsisting in the divine nature, “person” is said in God. Yet that to which the account of person belongs is the relation, insofar as it is a distinct subsistence; for no other such thing can be posited in the divine. And therefore, as far as its mode of signifying, “person” belongs among substantial names, but as far as what the name “person” supposes in the divine, it pertains to relative names.  
 
 *We speak of nothing else than the substance of the Father*,*Sent*. I, 23.1(95).2, quoting Augustine, *On the Trinity*, bk. 7, ch. 6 (CCSL 50; PL 42:943). in such a way that still the name “substance” would be understood to mean not essence, but hypostasis.  
 

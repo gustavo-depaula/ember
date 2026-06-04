@@ -1,10 +1,12 @@
 # C. 1 - What Is the Intention of the Discussion and What Is the Tradition Concerning the Divine Names
 
+What Is the Intention of the Discussion and What Is the Tradition Concerning the Divine Names  
+
 ***Lectio 1***
 
 ***On the Mode of Proceeding in This Work***
 
-***C. I, § 1. 1. Yet now, O blessed one, after the *Theological Hypotyposes*, I shall cross over to the opening up of the divine names, as is possible.***
+C. I, § 1. 1. Yet now, O blessed one, after the *Theological Hypotyposes*, I shall cross over to the opening up of the divine names, as is possible.  
 
 > 2. Yet be even now by us the predefined law of the eloquences, that we should assert the truth of things said about God *not in persuasive words of human wisdom* (1 Cor 2:4) but in the demonstration of the power of the theologians, moved by the Spirit,
 
@@ -176,7 +178,7 @@ Lectio 2
 
 ***On the Knowledge That We Can Receive of God Through the Divine Names***
 
-***§ 3. 11. Following these thearchic laws, which both govern all the holy adornments of the supercelestial orders and substances, which indeed is above mind and substance, venerating the hiddenness of the thearchy, with inscrutable and holy reverences of mind, and venerating unspeakable things with a chaste silence, we are extended to splendors shining upon us in the holy eloquences and by these we are illuminated to the thearchic hymns, illuminated by these super-mundanely and figured to the holy enunciations of the hymns both unto seeing through them commensurately the thearchic lights given to us and unto praising the principle of the whole apparition of holy light, which the good gives, as it handed on from itself in the holy eloquences:***
+§ 3. 11. Following these thearchic laws, which both govern all the holy adornments of the supercelestial orders and substances, which indeed is above mind and substance, venerating the hiddenness of the thearchy, with inscrutable and holy reverences of mind, and venerating unspeakable things with a chaste silence, we are extended to splendors shining upon us in the holy eloquences and by these we are illuminated to the thearchic hymns, illuminated by these super-mundanely and figured to the holy enunciations of the hymns both unto seeing through them commensurately the thearchic lights given to us and unto praising the principle of the whole apparition of holy light, which the good gives, as it handed on from itself in the holy eloquences:  
 
 > 12. as that it is the cause and principle and substance and life of all things; and the calling back and resurrection of those cutting themselves off from it; yet the renewal and reformation of those things that have lapsed into the corruptive of the deiform; yet the holy gathering of those things that are moved according to a certain unclean commotion; and the confirmation of the standing; and the uplifting leading by the hand to it of acts from above; and the illumination of those that are illuminated; and the principle of perfection of those things that are perfected; and the thearchy of those things that are deified; and the simplicity of those things that are simplified; and the unity of those things that are united; supersubstantially the super-principal principle of all principles; the good handing on of what is hidden, according as is fitting; and, so that it might be said more simply, the life of the living, the substance of existing things, the principle and cause of all life and substance, on account of its goodness which both leads existing things to being and contains them.
 
@@ -342,7 +344,7 @@ Lectio 3
 
 ***How God Can Be Named***
 
-***21. Existing indeed as circum-apprehensive and comprehensive and pre-apprehensive of all things, yet universally this is incomprehensible by all and neither is there sense of it, nor phantasm, nor opinion, nor name, nor speech, nor touch, nor knowledge; how shall a divine speech concerning the divine names be treated by us, with the deity having been demonstrated to be unspeakable and super-nameable and supersubstantial?***
+21. Existing indeed as circum-apprehensive and comprehensive and pre-apprehensive of all things, yet universally this is incomprehensible by all and neither is there sense of it, nor phantasm, nor opinion, nor name, nor speech, nor touch, nor knowledge; how shall a divine speech concerning the divine names be treated by us, with the deity having been demonstrated to be unspeakable and super-nameable and supersubstantial?  
 
 > 22. But what we have said when we expounded the *Theological Hypotyposes*, one, unknown, supersubstantial, the good itself, what is, triune unity, I say, which is simultaneously God and simultaneously good, it is possible neither to say nor to think. But also the unitions of holy virtues befitting the angels, which it is necessary to call admissions or receptions, of super-unknown and super-clear goodness, are ineffable and unknown, and only shall be in those who above angelic knowledge are considered worthy by the angels themselves.
 

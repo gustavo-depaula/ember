@@ -1,5 +1,7 @@
 # Proposition 32
 
+214. Every substance falling in certain of its dispositions under eternity and falling in certain others of its dispositions under time is being and coming-to-be at the same time.  
+
 > 215. Indeed, [every] thing falling under eternity is truly being and everything falling under time is truly generation. Thus if it is such, then, if one thing falls under eternity and time it is being and generation not by a single mode but by one mode and another.
 
 > 216. Thus it is now manifest from what we have said that everything generated falls with respect to its substance under time and has substance depending on pure being which is the cause of durability and the cause of all sempiternal and destructible things.

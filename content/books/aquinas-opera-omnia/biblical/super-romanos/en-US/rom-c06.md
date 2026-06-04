@@ -1,10 +1,12 @@
 # C. 5 - Redemption from Death by Christ
 
+***Redemption from Death by Christ***
+
 ***Lecture 1***
 
 ***Glory in hope and tribulation***
 
-***^5:1^ Being justified therefore by faith, let us have peace with God, through our Lord Jesus Christ: [n. 381]***
+^5:1^ Being justified therefore by faith, let us have peace with God, through our Lord Jesus Christ: [n. 381]  
 
 > ^5:2^ By whom also we have access through faith into this grace wherein we stand: and glory in the hope of the glory of the sons of God. [n. 383]
 
@@ -106,7 +108,7 @@ Lecture 2
 
 ***Reconciled by Christ’s death***
 
-***^5:6^ For why did Christ, when as yet we were weak, according to the time, die for the ungodly? [n. 394]***
+^5:6^ For why did Christ, when as yet we were weak, according to the time, die for the ungodly? [n. 394]  
 
 > ^5:7^ For scarce for a just man will one die: yet perhaps for a good man some one would dare to die.
 
@@ -184,7 +186,7 @@ Lecture 3
 
 ***Sin and death through Adam***
 
-***^5:12^ Wherefore as by one man sin entered into this world and by sin death: and so death passed upon all men, in whom all have sinned. [n. 406]***
+^5:12^ Wherefore as by one man sin entered into this world and by sin death: and so death passed upon all men, in whom all have sinned. [n. 406]  
 
 > **406**. After indicating the benefits we obtained through Christ’s grace, the Apostle now indicates the evils from which we were set free.
 
@@ -304,7 +306,7 @@ Lecture 4
 
 ***Reign of death from Adam to Moses***
 
-***^5:13^ For until the law sin was in the world: but sin was not imputed, when the law was not. [n. 421]***
+^5:13^ For until the law sin was in the world: but sin was not imputed, when the law was not. [n. 421]  
 
 > ^5:14^ But death reigned from Adam unto Moses, even over them also who have not sinned, after the similitude of the transgression of Adam, who is a figure of him who was to come. [n. 424]
 
@@ -372,7 +374,7 @@ Lecture 5
 
 ***Life of all through the justice of one***
 
-***^5:15^ But not as the offense, so also the gift. For if by the offense of one, many died: much more the grace of God and the gift, by the grace of one man, Jesus Christ, has abounded unto many. [n. 430]***
+^5:15^ But not as the offense, so also the gift. For if by the offense of one, many died: much more the grace of God and the gift, by the grace of one man, Jesus Christ, has abounded unto many. [n. 430]  
 
 > ^5:16^ And not as it was by one sin, so also is the gift. For judgment indeed was by one unto condemnation: but grace is of many offences unto justification. [n. 435]
 
@@ -492,7 +494,7 @@ Lecture 6
 
 ***The superabundance of grace***
 
-***^5:20^ Now the law entered in that sin might abound. [n. 448] And where sin abounded, grace did more abound. [n. 464]***
+^5:20^ Now the law entered in that sin might abound. [n. 448] And where sin abounded, grace did more abound. [n. 464]  
 
 > ^5:21^ That as sin has reigned to death: so also grace might reign by justice unto life everlasting, through Jesus Christ our Lord. [n. 467]
 

@@ -1,5 +1,7 @@
 # Chapter 17
 
+^17:1^ Onus Damasci. Ecce Damascus desinet esse civitas, et erit sicut acervus lapidum in ruina.  
+
 > ^17:2^ Derelictæ civitates Aroer gregibus erunt et requiescent ibi, et non erit qui exterreat.
 
 > ^17:3^ Et cessabit adjutorium ab Ephraim, et regnum a Damasco, et reliquiæ Syriæ sicut gloria filiorum Israel erunt, dicit Dominus exercituum.

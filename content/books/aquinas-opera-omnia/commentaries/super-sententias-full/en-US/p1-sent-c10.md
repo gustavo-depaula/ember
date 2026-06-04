@@ -1,8 +1,10 @@
 # D. 9 - Generation of the Son
 
+***Generation of the Son***
+
 ***Division of the text***
 
-***Having considered things that pertain to the unity of the essence, here he considers what pertains to the distinction of the persons. And this is divided into two parts: in the first, he considers the distinct persons; in the second, he considers the names by which both the distinction of the persons and the unity of the essence are designated, at *after the above, it seems to us that we must discuss the diversity of names*.*Sent*. I, 22.1(90).1.***
+Having considered things that pertain to the unity of the essence, here he considers what pertains to the distinction of the persons. And this is divided into two parts: in the first, he considers the distinct persons; in the second, he considers the names by which both the distinction of the persons and the unity of the essence are designated, at *after the above, it seems to us that we must discuss the diversity of names*.*Sent*. I, 22.1(90).1.  
 
 The first is divided into two: in the first, he considers the persons in reference to their distinction; in the second, he considers them in reference to their equality: *after having indicated, in accordance with the littleness of our power, the coeternity of the three persons, now it remains that we say something about the equality of the same*.*Sent*. I, 19.1(72).1.  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Whether the Son is other than the Father***
 
-***To the first we proceed as follows.Parallel texts: below, d. 19, q. 1, a. 1, ad 2; d. 24, q. 2, a. 1; *ST* I.31.2; *On the Power of God*, q. 9, a. 8. It seems that the Son is not other than the Father.***
+To the first we proceed as follows.Parallel texts: below, d. 19, q. 1, a. 1, ad 2; d. 24, q. 2, a. 1; *ST* I.31.2; *On the Power of God*, q. 9, a. 8. It seems that the Son is not other than the Father.  
 
 Obj. 1: For “other” (*alius*), according to Priscian,Priscian, *Tractatus de arte grammatica*, bk. 2, “De pronomine.” is a relative pronoun indicating a diversity of substance. But the Father and the Son are of one substance. Therefore the Son cannot be said to be other than the Father.  
 
@@ -76,7 +78,7 @@ Article 2
 
 ***Whether the Father and the Son can be called many eternals***
 
-***To the second we proceed as follows.Parallel texts: below, d. 33, a. 4; *ST* I.39.3. It seems that the Father and the Son cannot be called many eternals.***
+To the second we proceed as follows.Parallel texts: below, d. 33, a. 4; *ST* I.39.3. It seems that the Father and the Son cannot be called many eternals.  
 
 Obj. 1: For in the creed of Athanasius it is held that *and yet there are not three eternals*.Athanasian Creed, “Quicumque vult” (PG 28:1582).  
 
@@ -110,7 +112,7 @@ Question 2
 
 ***Coeternity of the Son with the Father***
 
-***Next, one asks about the Son’s coeternity with the Father, and two things are asked about:***
+Next, one asks about the Son’s coeternity with the Father, and two things are asked about:  
 
 first, whether the Father is in some way prior to the Son;  
 
@@ -120,7 +122,7 @@ Article 1
 
 ***Whether the Father is prior to the Son***
 
-***To the first we proceed as follows. It seems that the Father is prior to the Son.***
+To the first we proceed as follows. It seems that the Father is prior to the Son.  
 
 Obj. 1: For as destruction stands to ceasing, so does generation to beginning. But everything that is destroyed ceases to exist. Therefore everything that is generated begins to exist through that generation. Therefore the Son began to exist and so is posterior to the Father.  
 
@@ -146,7 +148,7 @@ Article 2
 
 ***Whether the divine generation should be signified through the present tense***
 
-***To the second we proceed as follows.See *In I Sent*., d. 8, q. 1, a. 3. It seems that the divine generation should be signified through the present tense.***
+To the second we proceed as follows.See *In I Sent*., d. 8, q. 1, a. 3. It seems that the divine generation should be signified through the present tense.  
 
 Obj. 1: For the present most of all fits eternity as it has no succession. But the divine generation is eternal. Therefore it should be signified through the present tense.  
 
@@ -166,7 +168,7 @@ Reply Obj. 2: Through that argument it is proved that the existence of the divin
 
 Exposition of the text  
 
-****But the Apostle says that ‘Christ’ is ‘the power of God and the wisdom of God.’**Sent*. I, 9.2(30).4, quoting Augustine, *On the Trinity*, bk. 6, ch. 1 (CCSL 50; PL 42:923), himself quoting 1 Corinthians 1:24. On the contrary: he is speaking of either the essential wisdom or of the begotten wisdom: if the essential, it is certain that would be in the Father, even if there were no Son, as is true of the essence; whereas if it is the begotten wisdom, above Augustine had said*Sent*. I, 5.1(15).4, quoting Augustine, *On the Trinity*, bk. 7, ch. 1 (CCSL 50; PL 42:931). that the Father is not wise by the wisdom that he begot. Therefore even if the Son did not exist, it would not follow that the Father would not be wise. Then it seems that Augustine’s argument is invalid.***
+*But the Apostle says that ‘Christ’ is ‘the power of God and the wisdom of God.’**Sent*. I, 9.2(30).4, quoting Augustine, *On the Trinity*, bk. 6, ch. 1 (CCSL 50; PL 42:923), himself quoting 1 Corinthians 1:24. On the contrary: he is speaking of either the essential wisdom or of the begotten wisdom: if the essential, it is certain that would be in the Father, even if there were no Son, as is true of the essence; whereas if it is the begotten wisdom, above Augustine had said*Sent*. I, 5.1(15).4, quoting Augustine, *On the Trinity*, bk. 7, ch. 1 (CCSL 50; PL 42:931). that the Father is not wise by the wisdom that he begot. Therefore even if the Son did not exist, it would not follow that the Father would not be wise. Then it seems that Augustine’s argument is invalid.  
 
 To this one should say that the Apostle is speaking of the essential wisdom insofar as it is appropriated to the Son. Now, in what is appropriated, as such, the account of the proper is understood; this is how Augustine is proceeding. Or it can be said, and better, that he is speaking about the begotten wisdom. For he does not say that the Father is wise through that wisdom, but that he possesses that wisdom. However, it is incongruous to say that God now has any wisdom that he did not have before, since this would assert a change in him.  
 

@@ -1,12 +1,14 @@
 # On Angels
 
+***Question 4***
+
 ***On angels***
 
 ***Article 1***
 
 ***On the motion of an angel***
 
-***About angels there was a question concerning the motion of an angel, namely, whether its motion is in an instant. And it seems that it is.***
+About angels there was a question concerning the motion of an angel, namely, whether its motion is in an instant. And it seems that it is.  
 
 Obj. 1: For it is agreed that the change of an angel is simpler than every bodily change. But there is found some bodily change in an instant, such as illumination and things of this sort. Therefore, much more is the motion of an angel in an instant.Cf. Aquinas, *In I Sent*. 37.4.3, obj. 1; *ST* I.53.3, obj. 2.  
 

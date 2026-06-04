@@ -1,16 +1,18 @@
 # O God, You Who Are All-powerful
 
-***O Deus***
-***omnipotens,***
-***omnia sciens,***
-***principio et fine carens,***
-***qui es virtutum donator,***
-***et conservator,The Marietti edition here adds *et remunerator*, “and rewarder.”***
-***digneris me stabilire***
-***solido fidei fundamento,***
-***et tueri***
-***inexpugnabili spei clypeo, atque decorare***
-***nuptiali caritatis vestimento.***
+***Pro obtinendis virtutibus***
+
+O Deus  
+omnipotens,  
+omnia sciens,  
+principio et fine carens,  
+qui es virtutum donator,  
+et conservator, *(The Marietti edition here adds *et remunerator*, “and rewarder.”)*  
+digneris me stabilire  
+solido fidei fundamento,  
+et tueri  
+inexpugnabili spei clypeo, atque decorare  
+nuptiali caritatis vestimento.  
 
 > Da mihi,
 

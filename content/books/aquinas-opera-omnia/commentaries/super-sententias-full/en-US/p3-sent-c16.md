@@ -1,8 +1,10 @@
 # D. 15 - Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest
 
+Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest  
+
 ***Division of the text***
 
-***After the work of creation and distinction, here the Master begins to pursue the work of adornment. This is divided into two parts.***
+After the work of creation and distinction, here the Master begins to pursue the work of adornment. This is divided into two parts.  
 
 In the first, he addresses the works of the last three days, which are dedicated to adornment.  
 
@@ -74,7 +76,7 @@ Article 1
 
 ***Whether the production of the stars is fittingly described***
 
-***To the first we proceed as follows.Parallel text: *ST* I.70.1–2. It seems that the production of the stars is inadequately described.***
+To the first we proceed as follows.Parallel text: *ST* I.70.1–2. It seems that the production of the stars is inadequately described.  
 
 Obj. 1: For from that author of utmost order, things that are prior according to nature have proceeded forth as prior in time. But the sun and the other stars precede the lower bodies by nature, as mover precedes what is moved and an agent its patient. Therefore, the production of the sun and the other stars is unfittingly described as being after the distinction of the lower elements.  
 
@@ -108,7 +110,7 @@ Article 2
 
 ***Whether heavenly bodies have an effect on lower bodies***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.115.3; *SCG* III.82; *On Truth*, q. 5, a. 9; *Compendium theologiae*, ch. 127. It seems that heavenly bodies do not have an effect on lower bodies.***
+To the second we proceed as follows.Parallel texts: *ST* I.115.3; *SCG* III.82; *On Truth*, q. 5, a. 9; *Compendium theologiae*, ch. 127. It seems that heavenly bodies do not have an effect on lower bodies.  
 
 Obj. 1: First, this is because of what the text says,*Sent*. II, 14.11; cf. *Glossa ordinaria* at Genesis 1:14, 1.18–19 (PL 113:87). that bodies of this sort were made to exist as signs. But sign is contradistinguished from cause. Therefore, it seems that they are not the causes of things that occur in lower bodies.  
 
@@ -154,7 +156,7 @@ Article 3
 
 ***Whether higher bodies have causality over the motions of free will***
 
-***To the third we proceed as follows.Parallel texts: *In II Sent*., d. 25, q. 1, a. 2, ad 5; *ST* I.115.4; II-II.95.5; *SCG* III.84–87; *On Truth*, q. 5, a. 10; *Compendium theologiae*, cc. 127–28; *Commentary on Aristotle’s On Interpretation*, bk. 1, lect. 14; *Commentary on Aristotle’s On the Soul*, bk. 3, lect. 4; *Commentary on Aristotle’s Metaphysics*, bk. 6, lect. 3; *Commentary on Matthew*, ch. 2, lect. 1. It seems that higher bodies have causality even over the motions of free will.***
+To the third we proceed as follows.Parallel texts: *In II Sent*., d. 25, q. 1, a. 2, ad 5; *ST* I.115.4; II-II.95.5; *SCG* III.84–87; *On Truth*, q. 5, a. 10; *Compendium theologiae*, cc. 127–28; *Commentary on Aristotle’s On Interpretation*, bk. 1, lect. 14; *Commentary on Aristotle’s On the Soul*, bk. 3, lect. 4; *Commentary on Aristotle’s Metaphysics*, bk. 6, lect. 3; *Commentary on Matthew*, ch. 2, lect. 1. It seems that higher bodies have causality even over the motions of free will.  
 
 Obj. 1: For Dionysius says, treating of the heavenly bodies, *they determine, number, order, and contain the things that are in time*.Pseudo-Dionysius, *On the Divine Names*, ch. 4 (PG 3:698). But the works that proceed from free will are in time. Therefore, they are determined and ordered by the power of the heavenly bodies.  
 
@@ -188,7 +190,7 @@ Question 2
 
 ***The work of the fifth and sixth days***
 
-***Next we raise the question of the production of animals, which pertains to the fifth and sixth days. Concerning this, two questions are asked:***
+Next we raise the question of the production of animals, which pertains to the fifth and sixth days. Concerning this, two questions are asked:  
 
 first, concerning their matter;  
 
@@ -198,7 +200,7 @@ Article 1
 
 ***Whether some animals took their matter from the waters and some from the earth***
 
-***To the first we proceed as follows. What is said, that some animals took their matter from the waters and some from the earth, seems to be false.***
+To the first we proceed as follows. What is said, that some animals took their matter from the waters and some from the earth, seems to be false.  
 
 Obj. 1: For the body of any animal must be sensible. But nothing is sensitive without heat, as the Philosopher says in *On the Soul* 2.Aristotle, *On the Soul* 3.1, 425a3. Therefore, fire, which is the fount of heat, should be especially predominant in the bodies of animals.  
 
@@ -224,9 +226,9 @@ Reply Obj. 4: The Philosopher is speaking of natural place,Aristotle, *On the He
 
 Article 2  
 
-***Whether the adornment of the elements is fittingly described with reference to three genera***
+Whether the adornment of the elements is fittingly described with reference to three genera  
 
-***To the second we proceed as follows. It seems that the adornment of three elements with reference to the three genera of animals is unfittingly described.***
+To the second we proceed as follows. It seems that the adornment of three elements with reference to the three genera of animals is unfittingly described.  
 
 Obj. 1: For fire is more chief among the elements, but no adornment is assigned to it. Therefore, it seems that the adornment of the elements is not adequately set out.  
 
@@ -262,7 +264,7 @@ Question 3
 
 ***The seventh day***
 
-***Next the question is asked about the things pertaining to the seventh day. Concerning this there are three questions:***
+Next the question is asked about the things pertaining to the seventh day. Concerning this there are three questions:  
 
 first, concerning the consummation of the divine works;  
 
@@ -274,7 +276,7 @@ Article 1
 
 ***Whether God completed his work on the seventh day***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.73.1–2; *Commentary on Hebrews*, ch. 4, lect. 1. It seems that God did not consummate his work on the seventh day.***
+To the first we proceed as follows.Parallel texts: *ST* I.73.1–2; *Commentary on Hebrews*, ch. 4, lect. 1. It seems that God did not consummate his work on the seventh day.  
 
 Obj. 1: For a perfect number befits the consummation of the divine works. But the number six is perfect, not seven. Therefore, God should have consummated his work on the sixth day, not the seventh.  
 
@@ -328,7 +330,7 @@ Article 2
 
 ***Whether God is fittingly said to have rested on the seventh day***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.73.1–2; *Commentary on Hebrews*, ch. 4, lect. 1. It seems that God is unfittingly said to have rested on the seventh day.***
+To the second we proceed as follows.Parallel texts: *ST* I.73.1–2; *Commentary on Hebrews*, ch. 4, lect. 1. It seems that God is unfittingly said to have rested on the seventh day.  
 
 Obj. 1: For opposites naturally come about in the same subject. But rest is opposed to motion. Therefore, since God is not moved—*with whom there is no variation or shadow due to change* (Jas 1:17)—it seems that neither can he be said to rest.  
 
@@ -388,7 +390,7 @@ Article 3
 
 ***Whether God should have sanctified the seventh day above the others***
 
-***To the third we proceed as follows.Parallel text: *ST* I.73.3. It seems that God should not have sanctified the seventh day above the others.***
+To the third we proceed as follows.Parallel text: *ST* I.73.3. It seems that God should not have sanctified the seventh day above the others.  
 
 Obj. 1: For activity is more noble than idleness, as is said in the *Ethics* 10.Aristotle, *Nicomachean Ethics* 10.9, 1180a15. Hence happiness consists not in idleness, but in activity. But God was active for six days, whereas he ceased from work on the seventh day. Therefore, he should have sanctified the sixth day rather than the seventh.  
 
@@ -424,7 +426,7 @@ Reply Obj. 5: God, by the same power by which he granted being to things, also p
 
 Exposition of the text  
 
-****‘Beasts of burden, and crawling creatures, and the wild animals*.’*Sent*. II, 15.2(83).1, quoting Genesis 1:24. What a “crawling creature,” or reptile, is has been said earlier.Above: q. 2, a. 2. Now, those animals that provide assistance to man, especially by transporting him, such as horses, donkeys, and animals of this sort, are called “beasts of burden.” “Wild animals” are so called on account of cruelty, being savage, such as lions and bears and animals of this sort.***
+*‘Beasts of burden, and crawling creatures, and the wild animals*.’*Sent*. II, 15.2(83).1, quoting Genesis 1:24. What a “crawling creature,” or reptile, is has been said earlier.Above: q. 2, a. 2. Now, those animals that provide assistance to man, especially by transporting him, such as horses, donkeys, and animals of this sort, are called “beasts of burden.” “Wild animals” are so called on account of cruelty, being savage, such as lions and bears and animals of this sort.  
 
 *Those . . . were not created with the animals, except potentially and materially*.*Sent*. II, 15.4(85).1. So one may understand this both of active potency and of material potency.  
 

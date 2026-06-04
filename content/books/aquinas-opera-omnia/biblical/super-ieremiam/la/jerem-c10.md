@@ -1,6 +1,8 @@
 # C. 8 - Pride, greed, and shamelessness
 
-***^ 8:1^ In tempore illo, ait Dominus: ejicient ossa regis Juda, et ossa principum ejus, et ossa sacerdotum et ossa prophetarum, et ossa eorum qui habitaverunt Jerusalem, de sepulchris suis,***
+***Lectio 1***
+
+^ 8:1^ In tempore illo, ait Dominus: ejicient ossa regis Juda, et ossa principum ejus, et ossa sacerdotum et ossa prophetarum, et ossa eorum qui habitaverunt Jerusalem, de sepulchris suis,  
 
 > ^8:2^ et expandent ea ad solem, et lunam, et omnem militiam caeli quae dilexerunt, et quibus servierunt, post quae ambulaverunt, et quae quaesierunt, et adoraverunt. Non colligentur, et non sepelientur: in sterquilinium super faciem terrae erunt.
 
@@ -14,13 +16,13 @@ Tertio eorum vilitatem. ***Non colligentur***. Isa. 5: *facta sunt morticina eor
 
 Lectio 2  
 
-***^8:3^ Et eligent magis mortem quam vitam omnes qui residui fuerint de cognatione hac pessima in universis locis quae derelicta sunt, ad quae ejeci eos: dicit Dominus exercituum.***
+^8:3^ Et eligent magis mortem quam vitam omnes qui residui fuerint de cognatione hac pessima in universis locis quae derelicta sunt, ad quae ejeci eos: dicit Dominus exercituum.  
 
 > **56**. Hic ostendit oppressionem remanentium significata ex ipsa mortis electione; quae quidem in se non est eligibilis, sed inquantum malorum terminus est. Apoc. 9: *in diebus illis quaerent homines mortem, et non invenient eam; et desiderabunt mori, et fugiet mors ab eis*.
 
 Lectio 3  
 
-***^8:4^ Et dices ad eos: haec dicit Dominus: numquid qui cadit non resurget, et qui aversus est non revertetur?***
+^8:4^ Et dices ad eos: haec dicit Dominus: numquid qui cadit non resurget, et qui aversus est non revertetur?  
 
 > ^8:5^ Quare ergo aversus est populus iste in Jerusalem aversione contentiosa? Apprehenderunt mendacium, et noluerunt reverti.
 
@@ -64,7 +66,7 @@ Et ponit populi ignorantiam: ***populus autem meus non cognovit judicium***, sib
 
 Lectio 4  
 
-***^8:8^ Quomodo dicitis: sapientes nos sumus, et lex Domini nobiscum est? Vere mendacium operatus est stylus mendax scribarum.***
+^8:8^ Quomodo dicitis: sapientes nos sumus, et lex Domini nobiscum est? Vere mendacium operatus est stylus mendax scribarum.  
 
 > ^8:9^ Confusi sunt sapientes, perterriti, et capti sunt. Verbum enim Domini projecerunt, et sapientia nulla est in eis.
 
@@ -80,7 +82,7 @@ Et resumit causam: ***verbum Domini projecerunt***. Eccl. 1: *fons sapientiae ve
 
 Lectio 5  
 
-***^8:10^ Propterea dabo mulieres eorum exteris, agros eorum haeredibus: quia a minimo usque ad maximum omnes avaritiam sequuntur, a propheta usque ad sacerdotem, cuncti faciunt mendacium.***
+^8:10^ Propterea dabo mulieres eorum exteris, agros eorum haeredibus: quia a minimo usque ad maximum omnes avaritiam sequuntur, a propheta usque ad sacerdotem, cuncti faciunt mendacium.  
 
 > ^8:11^ Et sanabant contritionem filiae populi mei ad ignominiam, dicentes, pax, pax; cum non esset pax.
 
@@ -98,7 +100,7 @@ Tertio doli modum, ***et sanabant***. Ezech. 13: *vivificabant animas eorum, et 
 
 Lectio 6  
 
-***^8:12^ Confusi sunt, quia abominationem fecerunt; quinimmo confusione non sunt confusi, et erubescere nescierunt. Idcirco cadent inter corruentes, in tempore visitationis suae corruent, dicit Dominus.***
+^8:12^ Confusi sunt, quia abominationem fecerunt; quinimmo confusione non sunt confusi, et erubescere nescierunt. Idcirco cadent inter corruentes, in tempore visitationis suae corruent, dicit Dominus.  
 
 > **60**. Hic ostendit inverecundiam:
 
@@ -110,7 +112,7 @@ Tertio poenam; ***idcirco cadent inter corruentes***, ut supra 6. Thr. 1: *cum c
 
 Lectio 7  
 
-***^8:13^ Congregans congregabo eos, ait Dominus. Non est uva in vitibus, et non sunt ficus in ficulnea; folium defluxit, et dedi eis quae praetergressa sunt.***
+^8:13^ Congregans congregabo eos, ait Dominus. Non est uva in vitibus, et non sunt ficus in ficulnea; folium defluxit, et dedi eis quae praetergressa sunt.  
 
 > ^8:14^ Quare sedemus? Convenite, et ingrediamur civitatem munitam, et sileamus ibi: quia Dominus Deus noster silere nos fecit, et potum dedit nobis aquam fellis: peccavimus enim Domino.
 
@@ -156,6 +158,6 @@ Quarto assignat diuturnitatis rationem, quia scilicet a peccato curari noluerunt
 
 Collationes  
 
-***Nota, quod multiplex est ***silentium***: scilicet stuporis. Amos 8: *in omni loco projicietur silentium*. Securitatis. Isa. 32: *eritque opus justitiae pax, et cultus justitiae silentium, et securitas usque in sempiternum*. Longanimitatis. Thren. 3: *bonum est praestolari cum silentio salutare Domini*. Et quietis cordis. Eccl. 12: *verba sapientum sicut stimuli, et quasi clavi in altum defixi*.***
+Nota, quod multiplex est ***silentium***: scilicet stuporis. Amos 8: *in omni loco projicietur silentium*. Securitatis. Isa. 32: *eritque opus justitiae pax, et cultus justitiae silentium, et securitas usque in sempiternum*. Longanimitatis. Thren. 3: *bonum est praestolari cum silentio salutare Domini*. Et quietis cordis. Eccl. 12: *verba sapientum sicut stimuli, et quasi clavi in altum defixi*.  
 
 Item nota, quod fugienda est societas malorum, quia alliciunt verbis. 1 Cor. 15: *corrumpunt bonos mores colloquia mala*. Trahunt exemplis. Ps. 17: *cum viro innocente innocens eris, et cum perverso perverteris*. Afficiunt quantum ad famam. Eccl. 13: *qui tangit picem inquinabitur ab eo*. Involvunt quantum ad poenam. Num. 16: *recedite a tabernaculis impiorum, et nolite tangere quae ad eos pertinent, ne involvamini in peccatis eorum*.

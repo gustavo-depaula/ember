@@ -1,5 +1,7 @@
 # Ineffable Creator
 
+Prayer before study *(Aquinas is said to have prayed this prayer often before he spoke, wrote, or preached.)*  
+
 ***Ineffable Creator,***
 ***Who, from the treasuries of your wisdom***
 ***have appointed***

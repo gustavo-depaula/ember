@@ -1,8 +1,10 @@
 # D. 11 - Christ as a creature
 
+***Christ as a creature***
+
 ***Division of the text***
 
-***After the Master has considered how things that pertain to the dignity of human nature can or cannot be said of Christ, here he considers how those things that pertain to a defect of human nature can be said about him. And it is divided into two parts:***
+After the Master has considered how things that pertain to the dignity of human nature can or cannot be said of Christ, here he considers how those things that pertain to a defect of human nature can be said about him. And it is divided into two parts:  
 
 in the first, he asks whether the name “created thing,” which is said of the human nature, can also be said of Christ;  
 
@@ -44,7 +46,7 @@ Article 1
 
 ***Whether the Son of God is a created thing***
 
-***To the first we proceed as follows. It appears that the Son of God is a created thing.***
+To the first we proceed as follows. It appears that the Son of God is a created thing.  
 
 Obj. 1: For Sirach 24:9 says, *from eternity, in the beginning, he created me*; and this is speaking of the divine wisdom. But the Son of God is the wisdom of God. Therefore he is a created thing.  
 
@@ -138,7 +140,7 @@ Article 3
 
 ***Whether Christ, insofar as he is a man, is a created thing***
 
-***To the third we proceed as follows.Parallels: above, d. 4, q. 1, a. 2, resp. 2; *ST* III.16.10. It appears that Christ cannot be called a “created thing” insofar as he is a man.***
+To the third we proceed as follows.Parallels: above, d. 4, q. 1, a. 2, resp. 2; *ST* III.16.10. It appears that Christ cannot be called a “created thing” insofar as he is a man.  
 
 Obj. 1: For whatever is predicated of another as it itself is, is predicated of it simply. But what is predicated of Christ insofar as he is a man is predicated of him as he is, since he is a man essentially. Therefore since “being a created thing” is not predicated simply, it cannot be predicated of him insofar as he is a man.  
 
@@ -172,7 +174,7 @@ Article 4
 
 ***Whether things belonging to human nature can be said of the Son of God***
 
-***To the fourth we proceed as follows.Parallels: above, d. 5, q. 1, a. 2, ad 4; *Super 1 Cor.* 2, lect. 2; *ST* III.10.1.ad 3; 16.4; *Contra errores Graecorum*, ch. 6. It appears that things that belong to human nature cannot be said of the Son of God.***
+To the fourth we proceed as follows.Parallels: above, d. 5, q. 1, a. 2, ad 4; *Super 1 Cor.* 2, lect. 2; *ST* III.10.1.ad 3; 16.4; *Contra errores Graecorum*, ch. 6. It appears that things that belong to human nature cannot be said of the Son of God.  
 
 Obj. 1: For every property or accident of human nature is something created. But the Son of God is not formed by anything created. Therefore no accident of human nature can be predicated of the Son of God.  
 
@@ -222,7 +224,7 @@ Reply Sed Contra 8–10: And from this, the solution to the things that follow i
 
 Exposition of the text  
 
-****All things were made through him*.*Sent.* III, 11.1(32).2, quoting John 1:3. It appears that this is not relevant, since Augustine understands this to be about the Son of God as the Son of God. But it should be said that because in Christ there is no other supposit than the person of the Son of God, therefore just as the Son of God cannot be called a “created thing,” so neither can Christ.***
+*All things were made through him*.*Sent.* III, 11.1(32).2, quoting John 1:3. It appears that this is not relevant, since Augustine understands this to be about the Son of God as the Son of God. But it should be said that because in Christ there is no other supposit than the person of the Son of God, therefore just as the Son of God cannot be called a “created thing,” so neither can Christ.  
 
 *For if he were a creature, he would be commanding that the Gospel be preached to himself*.*Sent*. III, 11.1(32).3, quoting Ambrose, *De fide libri V, ad Gratianum*, bk. 1, ch. 14, n. 86 (CSEL 78; PL 16:549). It appears that this would not follow, since the angels and stones are created things, to which the Gospel need not be preached. It should be said that this should be taken as being about the created things that are men, to whom the Gospel should be preached, either so that they might be cleansed, or perfected, or preserved. However, Christ is a man.  
 

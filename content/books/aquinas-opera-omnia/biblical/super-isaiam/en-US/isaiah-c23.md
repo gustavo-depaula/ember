@@ -1,5 +1,7 @@
 # Chapter 21
 
+^21:1^ The burden of the desert of the sea. As whirlwinds come from Africa,*Africo*. DR: “the south.” it comes from the desert from a terrible land.  
+
 > ^21:2^ A hard*Dura*. DR: “grievous.” vision is told me: he that is unfaithful deals unfaithfully: and he that is a spoiler, spoils. Go up, O Elam, besiege, O Medaba:*Medaba*. Vg.: *Mede*. DR: “Mede.” I have made all the mourning thereof to cease.
 
 > ^21:3^ Therefore are my loins filled with pain, anguish has taken hold of me, as the anguish of a woman in labor: I fell down at the hearing of it, I was troubled at the seeing of it.

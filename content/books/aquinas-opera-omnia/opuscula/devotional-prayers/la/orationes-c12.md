@@ -1,5 +1,7 @@
 # I Praise, Glorify, and Bless You, My God
 
+***Oratio de gratiarum actione pro Dei beneficiis***
+
 ***Laudo,***
 ***glorifico, benedico te,***
 ***Deus meus,***

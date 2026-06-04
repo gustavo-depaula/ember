@@ -1,8 +1,10 @@
 # D. 9 - Distinctions among the orders of the good angels
 
+***Distinctions among the orders of the good angels***
+
 ***Division of the text***
 
-***Having considered what pertains to the state of the creation of the angels, and what pertains to their distinction through conversion and defection, here he examines what pertains to the dignity of the good angels. And this is divided into two parts.***
+Having considered what pertains to the state of the creation of the angels, and what pertains to their distinction through conversion and defection, here he examines what pertains to the dignity of the good angels. And this is divided into two parts.  
 
 In the first, he takes up the distinction between the orders.  
 
@@ -74,7 +76,7 @@ Article 1
 
 ***Whether the definition of hierarchy given by Dionysius is fitting***
 
-***To the first we proceed as follows and propose Dionysius’s definition in the *Celestial Hierarchy* 4: *a hierarchy is a divine order, knowledge, and action approaching likeness to God, to the degree possible, which in accord with the illuminations divinely implanted in it ascends proportionately to the likeness of God*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 3 (PG 3:163). Now, it seems that this is unfitting.***
+To the first we proceed as follows and propose Dionysius’s definition in the *Celestial Hierarchy* 4: *a hierarchy is a divine order, knowledge, and action approaching likeness to God, to the degree possible, which in accord with the illuminations divinely implanted in it ascends proportionately to the likeness of God*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 3 (PG 3:163). Now, it seems that this is unfitting.  
 
 Obj. 1: For a definition should contain nothing superfluous. But he elsewhere defines a hierarchy by saying: *a hierarchy is unity and likeness to God insofar as possible*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 1 (PG 3:119). Therefore, since in the previously assigned description, many things besides the divine likeness are put forth, it seems that they are superfluous.  
 
@@ -110,7 +112,7 @@ Article 2
 
 ***Whether one angel purifies another***
 
-***To the second we proceed as follows. It seems that one angel does not purify another.***
+To the second we proceed as follows. It seems that one angel does not purify another.  
 
 Obj. 1: For purification only happens through grace. But God alone gives grace. Therefore, he alone purifies.  
 
@@ -158,9 +160,9 @@ Reply Obj. 8: These three actions are sometimes joined together and thus differ 
 
 Article 3  
 
-***Whether the angelic hierarchy is divided fittingly into three hierarchies and nine orders***
+Whether the angelic hierarchy is divided fittingly into three hierarchies and nine orders  
 
-***To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 24, q. 2, a. 1, resp. and ad 4; *ST* I.108.2, 3, 5, 6; *SCG* III.80; *Compendium theologiae*, ch. 126; *Commentary on Ephesians*, ch. 1, lect. 7; *Commentary on Colossians*, ch. 1, lect. 4. It seems that the angelic hierarchy is not fittingly divided into three hierarchies and nine orders.***
+To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 24, q. 2, a. 1, resp. and ad 4; *ST* I.108.2, 3, 5, 6; *SCG* III.80; *Compendium theologiae*, ch. 126; *Commentary on Ephesians*, ch. 1, lect. 7; *Commentary on Colossians*, ch. 1, lect. 4. It seems that the angelic hierarchy is not fittingly divided into three hierarchies and nine orders.  
 
 Obj. 1: For the division is either a division of an integral whole into parts or of a genus into species. It is not divided in the first way, since the common definition does not befit the parts, just as the definition of a house does not befit a wall. Nor is it after the manner of genus, since not all orders are equally related to participation in the account of hierarchy. Therefore, it seems that in no way can this division be adequate.  
 
@@ -210,7 +212,7 @@ Article 4
 
 ***Whether the names of the angels are fittingly distinguished***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.108.5; *SCG* III.80; *Compendium theologiae*, ch. 126; *Commentary on Colossians*, ch. 1, lect. 4. It seems that the names of the angels are not fittingly distinguished.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.108.5; *SCG* III.80; *Compendium theologiae*, ch. 126; *Commentary on Colossians*, ch. 1, lect. 4. It seems that the names of the angels are not fittingly distinguished.  
 
 Obj. 1: For the name of the whole should not be imposed on the part. But order is a part of hierarchy. Therefore, since “hierarchy” is the same as “sacred principate,” as has been said,Above: a. 1, resp. it seems that no order should be called a “principate.”  
 
@@ -248,7 +250,7 @@ Article 5
 
 ***Whether all the angels of a single order are equal***
 
-***To the fifth we proceed as follows.Parallel text: *ST* I.108.3. It seems that all the angels of a single order are equal.***
+To the fifth we proceed as follows.Parallel text: *ST* I.108.3. It seems that all the angels of a single order are equal.  
 
 Obj. 1: For there is more in common between those who belong to a single order than between those who belong to a single hierarchy. But Dionysius frequently calls those who belong to a single hierarchy equal in power. Therefore, it seems that all the more are those who belong to a single order equal.  
 
@@ -276,7 +278,7 @@ Article 6
 
 ***Whether all the hierarchies are connected***
 
-***To the sixth we proceed as follows. It seems that not all the hierarchies are connected.***
+To the sixth we proceed as follows. It seems that not all the hierarchies are connected.  
 
 Obj. 1: For there is no connection between those things whose account is to be distinct, since connection is opposed to distinction. But the account of hierarchy consists in the distinction of higher and lower. Therefore, there is no connection between them.  
 
@@ -308,7 +310,7 @@ Article 7
 
 ***Whether the distinction of the orders is from nature***
 
-***To the seventh we proceed as follows.Parallel texts: *In IV Sent*., d. 24, q. 1, a. 1, resp. and ad 3; *ST* I.108.4. It seems that the distinction of orders is not from nature in such a way that it began at creation.***
+To the seventh we proceed as follows.Parallel texts: *In IV Sent*., d. 24, q. 1, a. 1, resp. and ad 3; *ST* I.108.4. It seems that the distinction of orders is not from nature in such a way that it began at creation.  
 
 Obj. 1: For conformity of the mind to God arises through grace. But a hierarchy approaches likeness and conformity to God as much as possible. Therefore, it seems that the orders of a hierarchy are only distinguished through grace.  
 
@@ -336,7 +338,7 @@ Article 8
 
 ***Whether men are taken up into the orders of the angels***
 
-***To the eighth we proceed as follows.Parallel text: *ST* I.108.8. It seems that men are never taken up into the orders of the angels.***
+To the eighth we proceed as follows.Parallel text: *ST* I.108.8. It seems that men are never taken up into the orders of the angels.  
 
 Obj. 1: For, according to Dionysius,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4 (PG 3:179). four ranks of things can be distinguished: the rank of intellectual things, which covers the angels; the rank of rational things, which covers men; the rank of sensible things, which covers the brute animals; and the rank of existing things, where we find insensible things. But sensitive things can never attain to the rank of rational things. Therefore, rational things can never attain to the rank of intellectual things. Thus, men are not taken up into the orders of the angels.  
 
@@ -368,4 +370,4 @@ Reply Obj. 5: The acts of angels on us follow on the orders of the angels more w
 
 Exposition of the text  
 
-****Hence Dionysius teaches that there are three orders of angels*.*Sent*. II, 9.1(47). It should be known that the Master in the following words accepts the opinion of Dionysius in part, namely, with regard to the number of orders; and in part he accepts the opinion of Gregory, namely, with regard to their arrangement. For according to Dionysius, principalities are lower and virtues are in the middle, while according to Gregory it is the other way around. But the order of Dionysius accords with what he earlier enumerated, beginning from the lower orders: *angels, archangels*, and so on.***
+*Hence Dionysius teaches that there are three orders of angels*.*Sent*. II, 9.1(47). It should be known that the Master in the following words accepts the opinion of Dionysius in part, namely, with regard to the number of orders; and in part he accepts the opinion of Gregory, namely, with regard to their arrangement. For according to Dionysius, principalities are lower and virtues are in the middle, while according to Gregory it is the other way around. But the order of Dionysius accords with what he earlier enumerated, beginning from the lower orders: *angels, archangels*, and so on.

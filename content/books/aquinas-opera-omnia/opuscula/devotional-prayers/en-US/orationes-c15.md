@@ -1,5 +1,7 @@
 # My Dear Jesus
 
+Prayer for the preservation of chastity *(The authenticity of this prayer is doubtful. The Italian of the prayer can be found in “Analecta sacri ordinis fratrum praedicatorum,” vol. 16 (January-February, 1923), 365. The English translation is taken from the *St. Thomas Manual*, 91.)*  
+
 ***My dear Jesus,***
 ***I well know that every perfect gift,***
 ***and above all others, the gift of chastity***

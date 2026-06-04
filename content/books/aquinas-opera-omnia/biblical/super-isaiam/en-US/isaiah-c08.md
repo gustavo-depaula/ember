@@ -1,6 +1,8 @@
 # Chapter 6
 
-***^6:1^ In the year that king Ozias died, I saw the Lord sitting upon a throne exalted*Excelsum*. DR: “high.” and elevated: and the house was filled with his majesty,Vg.: omits “and the house was filled with his majesty.” and what was beneath him*Ea quæ sub ipso erant*. DR: “his train.” filled the temple.***
+***Lecture 1***
+
+^6:1^ In the year that king Ozias died, I saw the Lord sitting upon a throne exalted*Excelsum*. DR: “high.” and elevated: and the house was filled with his majesty,Vg.: omits “and the house was filled with his majesty.” and what was beneath him*Ea quæ sub ipso erant*. DR: “his train.” filled the temple.  
 
 > ^6:2^ Upon it stood the seraphim:Vg.: *seraphim*. DR: “seraphims.” the one had six wings, and the other had six wings: with two they covered his face, and with two they covered his feet, and with two they flew.
 
@@ -138,7 +140,7 @@ To which is to be said that Gregory touches on this question in a certain homily
 
 Lecture 2  
 
-***^6:8 ^And I heard the voice of the Lord, saying: whom shall I send? And who shall go for us? And I said: lo, here am I, send me.***
+^6:8 ^And I heard the voice of the Lord, saying: whom shall I send? And who shall go for us? And I said: lo, here am I, send me.  
 
 > ^6:9 ^And he said: go, and you shall say to this people: hearing, hear, and understand not: and see the vision, and know it not.
 

@@ -1,5 +1,8 @@
 # Let This Our Solemn Feast
 
+***Hymn from Matins***
+***[translated by John David Chambers (1805–1893)]***
+
 ***Let this our solemn feast***
 ***with holy joys be crowned;***
 ***and from each loving breast***

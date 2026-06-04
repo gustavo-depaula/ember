@@ -1,6 +1,8 @@
 # Pr. (31:40) - Genesis 31:40
 
-***^31:40^ Day and night was I parched with heat, and with frost, and sleep departed from my eyes.***
+***Genesis 31:40***
+
+^31:40^ Day and night was I parched with heat, and with frost, and sleep departed from my eyes.  
 
 > **1**. These words were spoken by Jacob to commend pastoral care and the pastoral office. In these words three things are mentioned about the pastoral office, namely, assiduity, patience and solicitude.
 

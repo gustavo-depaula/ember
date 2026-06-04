@@ -1,6 +1,8 @@
 # C. 31 - The promise of salvation
 
-***^31:1^ In tempore illo dicit Dominus: ero Deus universis cognationibus Israel, et ipsi erunt mihi in populum.***
+***Lectio 1***
+
+^31:1^ In tempore illo dicit Dominus: ero Deus universis cognationibus Israel, et ipsi erunt mihi in populum.  
 
 > ^31:2^ Haec dicit Dominus: invenit gratiam in deserto populus qui remanserat a gladio. Vadet ad requiem suam Israel?
 
@@ -50,7 +52,7 @@ Secundo assignat prosperitatis rationem: ***quia erit dies***; in quo significat
 
 Lectio 2  
 
-***^31:7^ Quia haec dicit Dominus: exsultate in laetitia Jacob: et hinnite contra caput gentium, personate, et canite, et dicite: salva, Domine, populum tuum, reliquias Israel.***
+^31:7^ Quia haec dicit Dominus: exsultate in laetitia Jacob: et hinnite contra caput gentium, personate, et canite, et dicite: salva, Domine, populum tuum, reliquias Israel.  
 
 > ^31:8^ Ecce ego adducam eos de terra aquilonis, et congregabo eos ab extremis terrae, inter quos erunt caecus, et claudus, praegnans, et pariens simul, coetus magnus revertentium huc.
 
@@ -68,7 +70,7 @@ Tertio assignat rationem ex paterno affectu, quo ad eos movetur: ***quia factus 
 
 Lectio 3  
 
-***^31:10^ Audite verbum Domini, gentes, et annuntiate in insulis quae procul sunt, et dicite: qui dispersit Israel congregabit eum, et custodiet eum sicut pastor gregem suum.***
+^31:10^ Audite verbum Domini, gentes, et annuntiate in insulis quae procul sunt, et dicite: qui dispersit Israel congregabit eum, et custodiet eum sicut pastor gregem suum.  
 
 > ^31:11^ Redemit enim Dominus Jacob, et liberavit eum de manu potentioris.
 
@@ -96,7 +98,7 @@ Secundo specialiter quantum ad sacerdotes: ***inebriabo***, idest abundanter sat
 
 Lectio 4  
 
-***^31:15^ Haec dicit Dominus: vox in excelso audita est, lamentationis, luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.***
+^31:15^ Haec dicit Dominus: vox in excelso audita est, lamentationis, luctus, et fletus Rachel plorantis filios suos, et nolentis consolari super eis, quia non sunt.  
 
 > ^31:16^ Haec dicit Dominus: quiescat vox tua a ploratu, et oculi tui a lacrimis: quia est merces operi tuo, ait Dominus. Et revertentur de terra inimici,
 
@@ -116,7 +118,7 @@ Secundo quantum ad terminum ad quem: ***et est spes novissimis*** ad significand
 
 Lectio 5  
 
-***^31:18^ Audiens audivi Ephraim transmigrantem: castigasti me, Domine, et eruditus sum, quasi juvenculus indomitus. Converte me, et convertar, quia tu Dominus Deus meus.***
+^31:18^ Audiens audivi Ephraim transmigrantem: castigasti me, Domine, et eruditus sum, quasi juvenculus indomitus. Converte me, et convertar, quia tu Dominus Deus meus.  
 
 > ^31:19^ Postquam enim convertisti me, egi poenitentiam, et postquam ostendisti mihi, percussi femur meum. Confusus sum, et erubui, quoniam sustinui opprobrium adolescentiae meae.
 
@@ -132,7 +134,7 @@ Secundo poenitentiam, quia ex poena quam sustinuit peccatum recognoscens, confus
 
 Lectio 6  
 
-***^31:20^ Si filius honorabilis mihi Ephraim, si puer delicatus, quia ex quo locutus sum de eo, adhuc recordabor ejus. Idcirco conturbata sunt viscera mea super eum, miserans miserebor ejus, ait Dominus.***
+^31:20^ Si filius honorabilis mihi Ephraim, si puer delicatus, quia ex quo locutus sum de eo, adhuc recordabor ejus. Idcirco conturbata sunt viscera mea super eum, miserans miserebor ejus, ait Dominus.  
 
 > **163**. Hic suscipit poenitentem.
 
@@ -150,7 +152,7 @@ Secundo ostendit miserationem: ***idcirco conturbata sunt viscera mea***, antrop
 
 Lectio 7  
 
-***^31:21a^ Statue tibi speculam, pone tibi amaritudines; dirige cor tuum in viam rectam in qua ambulasti.***
+^31:21a^ Statue tibi speculam, pone tibi amaritudines; dirige cor tuum in viam rectam in qua ambulasti.  
 
 > **164**. Hic ponitur poenitentis instructio: ***statue tibi speculam***, ut consideres prospera quae nuntiatur vel viam per quam redeas, ***amaritudines***, solicitudinem de reditu. ***Dirige***, considera viam per quam venisti ut per eam redeas:
 
@@ -170,7 +172,7 @@ Secundo ponitur revocationis ratio ex Christi Incarnatione, quae omnes inducere 
 
 Lectio 9  
 
-***^31:23^ Haec dicit Dominus Deus Israel: adhuc dicent verbum istud in terra Juda, et in urbibus ejus, cum convertero captivitatem eorum: benedicat tibi Dominus pulchritudo justitiae, mons sanctus.***
+^31:23^ Haec dicit Dominus Deus Israel: adhuc dicent verbum istud in terra Juda, et in urbibus ejus, cum convertero captivitatem eorum: benedicat tibi Dominus pulchritudo justitiae, mons sanctus.  
 
 > ^31:24^ Et habitabunt in eo Judas, et omnes civitates ejus simul, agricolae, et minantes greges:
 
@@ -190,7 +192,7 @@ Secundo ponitur annuntiantis exultatio: ***ideo quasi de somno suscitatus sum***
 
 Lectio 10  
 
-***^31:27^ Ecce dies veniunt, dicit Dominus, et seminabo domum Israel, et domum Juda semine hominum, et semine jumentorum.***
+^31:27^ Ecce dies veniunt, dicit Dominus, et seminabo domum Israel, et domum Juda semine hominum, et semine jumentorum.  
 
 > ^31:28^ Et sicut vigilavi super eos ut evellerem, et demolirer, et dissiparem, et disperderem, et affligerem; sic vigilabo super eos, ut aedificem, et plantem, ait Dominus.
 
@@ -238,7 +240,7 @@ Tertio quantum ad peccatorum munditiam: ***quia propitiabor iniquitati eorum***.
 
 Lectio 11  
 
-***^31:35^ Haec dicit Dominus, qui dat solem in lumine diei, ordinem lunae, et stellarum in lumine noctis; qui turbat mare, et sonant fluctus ejus, Dominus exercituum nomen illi:***
+^31:35^ Haec dicit Dominus, qui dat solem in lumine diei, ordinem lunae, et stellarum in lumine noctis; qui turbat mare, et sonant fluctus ejus, Dominus exercituum nomen illi:  
 
 > ^31:36^ si defecerint legis istae coram me, dicit Dominus, tunc et semen Israel deficiet ut non sit gens coram me cunctis diebus.
 
@@ -258,7 +260,7 @@ Secundo proponit promissionem: ***et ego abjiciam***; quasi dicat: sicut illud e
 
 Lectio 12  
 
-***^31:38^ Ecce dies veniunt, dicit Dominus, et aedificabitur civitas Domino a turre Hananeel usque ad portam anguli.***
+^31:38^ Ecce dies veniunt, dicit Dominus, et aedificabitur civitas Domino a turre Hananeel usque ad portam anguli.  
 
 > ^31:39^ Et exibit ultra norma mensurae in conspectu ejus super collem Gareb, et circuibit Goatha,
 

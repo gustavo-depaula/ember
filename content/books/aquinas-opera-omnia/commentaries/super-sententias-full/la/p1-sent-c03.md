@@ -1,8 +1,10 @@
 # D. 2 - Unity of the divine essence
 
+***De unitate divinae essentiae***
+
 ***Divisio textus***
 
-***Postquam inquisivit ea de quibus agendum est in hoc opere, hic prosequitur suam intentionem, et dividitur in duas partes. Cum enim, ut supra dictum est, sacrae doctrinae intentio sit circa divina; divinum autem sumitur secundum relationem ad Deum, vel ut principium, vel ut finem, secundum quod Apoc. 22:13, dicitur: *ego sum Alpha, et Omega*; consideratio hujus doctrinae erit de rebus, secundum quod exeunt a Deo ut a principio, et secundum quod referuntur in ipsum ut in finem. Unde in prima parte determinat de rebus divinis secundum exitum a principio; in secunda secundum reditum in finem, et hoc in principio tertii. Aliter potest dividi secundum intentionem Magistri, quod in prima determinat de rebus, in secunda de signis, et hoc in quarto.***
+Postquam inquisivit ea de quibus agendum est in hoc opere, hic prosequitur suam intentionem, et dividitur in duas partes. Cum enim, ut supra dictum est, sacrae doctrinae intentio sit circa divina; divinum autem sumitur secundum relationem ad Deum, vel ut principium, vel ut finem, secundum quod Apoc. 22:13, dicitur: *ego sum Alpha, et Omega*; consideratio hujus doctrinae erit de rebus, secundum quod exeunt a Deo ut a principio, et secundum quod referuntur in ipsum ut in finem. Unde in prima parte determinat de rebus divinis secundum exitum a principio; in secunda secundum reditum in finem, et hoc in principio tertii. Aliter potest dividi secundum intentionem Magistri, quod in prima determinat de rebus, in secunda de signis, et hoc in quarto.  
 
 Item prima in tres: in prima de fruibilibus; in secunda de utibilibus, in secundo libro; in tertia de his quae ordinant utibilia ad fruibilia, quae etiam partim sunt utibilia, partim fruibilia, et hoc in tertio libro.  
 
@@ -76,7 +78,7 @@ Articulus 2
 
 ***Utrum in Deo sint plura attributa***
 
-***Circa secundum sic proceditur. Videtur quod in divina essentia non sit pluralitas attributorum.***
+Circa secundum sic proceditur. Videtur quod in divina essentia non sit pluralitas attributorum.  
 
 Illud enim est maxime unum quod omnino a pluralitate removetur. Albius enim est, secundum Philosophum, 3 *Top*., quod est nigro impermixtius. Sed divina essentia est summe una, quae est principium totius unitatis. Ergo in ea nulla pluralitas attributorum cadere poterit.Al.: *potest*.  
 
@@ -98,9 +100,9 @@ Ad secundum dicendum, quod operatio Dei est sua essentia. Unde sicut essentia es
 
 Articulus 3  
 
-***Utrum pluralitas rationum, quibus attributa differunt, sit tantum in intellectu, vel etiam in Deo***
+Utrum pluralitas rationum, quibus attributa differunt, sit tantum in intellectu, vel etiam in Deo  
 
-***Circa tertium sic proceditur.This article is absent in some early copies of the text; a note found in the Vatican codex provides an explanation for this absence, stating that Aquinas disputed this question while he was in Rome. Videtur quod pluralitas rationum secundum quas attributa differunt, nullo modo sit in Deo, sed tantum in intellectu ratiocinantis.***
+Circa tertium sic proceditur.This article is absent in some early copies of the text; a note found in the Vatican codex provides an explanation for this absence, stating that Aquinas disputed this question while he was in Rome. Videtur quod pluralitas rationum secundum quas attributa differunt, nullo modo sit in Deo, sed tantum in intellectu ratiocinantis.  
 
 Dicit enim Dionysius, 1 cap. *De div. nom*.: *omnem sanctorum theologorum hymnum invenies ad bonos thearchiae processus, manifestative et laudative Dei nominationes dividentem*. Et est sensus, quod nomina quae in laudem divinam sancti assumunt, secundum diversos divinitatis processus, quibus ipse Deus manifestatur, dividuntur. Ergo ista pluralitas non est ex parte Dei, sed ex parte diversorum effectuum, ex quibus intellectus noster Deum diversimode cognoscit et nominat.  
 
@@ -174,7 +176,7 @@ Articulus 4
 
 ***Utrum in divinis sint plures personae***
 
-***Ad quartum sic proceditur. Videtur quod in unitate divinae essentiae non sit pluralitas personarum.***
+Ad quartum sic proceditur. Videtur quod in unitate divinae essentiae non sit pluralitas personarum.  
 
 In omnibus enim creaturis ita est quod ad multiplicationem suppositorum sequitur multiplicatio essentiae secundum numerum, sicut alia humanitas est numero in Socrate et Platone. Sed creaturae sunt exemplatae a Deo. Cum igitur divinam essentiam impossibile sit multiplicari, ut supra ostensum est, videtur quod impossibile sit esse ibi pluralitatem suppositorum, vel personarum.  
 
@@ -196,7 +198,7 @@ Articulus 5
 
 ***Utrum divinae personae differant realiter aut tantum ratione***
 
-***Ad quintum sic proceditur. Videtur quod pluralitas suppositorum in divinis non sit realis, sed tantum rationis.***
+Ad quintum sic proceditur. Videtur quod pluralitas suppositorum in divinis non sit realis, sed tantum rationis.  
 
 Sicut enim dicit Damascenus, lib. 1 *De fide orth*., cap. 2, *tres personae re idem sunt, ratione autem et cogitatione*Parma: *cognitione*. *distinguuntur*. Ergo videtur quod non sit ibi pluralitas realis.  
 
@@ -222,7 +224,7 @@ Ad quartum dicendum, quod licet sapientia secundum suam rationem differat ab ali
 
 Expositio textus  
 
-****Substantiae, vel essentiae*: quia non proprie dicitur substantia, ut infra,  8 dist., dicetur.***
+*Substantiae, vel essentiae*: quia non proprie dicitur substantia, ut infra,  8 dist., dicetur.  
 
 *Creditur et intelligitur*. Ista ordinantur secundum quod acquiritur fides in credente. Primum enim est praedicatorum verbum, sicut dicitur Roman. 10:14: *quomodo credent ei quem non audierunt?* Secundum est assensus fidei in ipso credente; et ultimo per fidem devenitur in intellectum, Isa. 7:9: *nisi credideritis, non intelligetis*.According to an alterative text; the Vulgate reads *si non credideritis, non permanebitis*.  
 

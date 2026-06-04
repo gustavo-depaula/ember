@@ -1,5 +1,7 @@
 # Chapter 6
 
+***Term 1***
+
 ***Rumour***
 
 ***No rumour spread throught all the people can be entirely for without truth.***
@@ -15,13 +17,13 @@ Term 3
 
 ***Deed***
 
-***No deed nor activity is undertaken simply for its own sake, but rather for something or someone else, for some end.***
+No deed nor activity is undertaken simply for its own sake, but rather for something or someone else, for some end.  
 
 Term 4  
 
 ***Dreams***
 
-***Good men have better dreams than others, because their right conduct while they wake brings about continual dreams of doing virtuous things.***
+Good men have better dreams than others, because their right conduct while they wake brings about continual dreams of doing virtuous things.  
 
 We do not control our dreams.  
 
@@ -29,7 +31,7 @@ Term 5
 
 ***The Feverish Man***
 
-***Fasting and rest generally aid a feverish man, but they may not help some patients.***
+Fasting and rest generally aid a feverish man, but they may not help some patients.  
 
 Term 6  
 
@@ -269,7 +271,7 @@ Term 12
 
 ***Fortitude***
 
-***Fortitude does not concern all things that are rightly to be feared by all men, such as disgrace, nor things which are not to be feared, like destitution, neither things which cause little fear.***
+Fortitude does not concern all things that are rightly to be feared by all men, such as disgrace, nor things which are not to be feared, like destitution, neither things which cause little fear.  
 
 Fortitude concerns the most dreadful things.  
 
@@ -329,7 +331,7 @@ Term 15
 
 ***Rage***
 
-***Rage, because of its likeness to true fortitude is called fortitude, because the brave throw themselves courageously into danger, and so do those burning with rage, just as wild and cruel beasts rushing to wound them.***
+Rage, because of its likeness to true fortitude is called fortitude, because the brave throw themselves courageously into danger, and so do those burning with rage, just as wild and cruel beasts rushing to wound them.  
 
 Rage acts most violently against dangers.  
 
@@ -337,13 +339,13 @@ Term 16
 
 ***Regarding the Figure of Proportionality***
 
-***When using a figure showing proportionality, it is necessary to reduce works and craftsmen to that which would align them as equal in a proportional way.***
+When using a figure showing proportionality, it is necessary to reduce works and craftsmen to that which would align them as equal in a proportional way.  
 
 Term 17  
 
 ***Happiness***
 
-***Happiness is not found in a habit but in action, since a habit persists even when one is sleeping or found in misfortune.***
+Happiness is not found in a habit but in action, since a habit persists even when one is sleeping or found in misfortune.  
 
 Happiness consists in an activity, that is desirable for its own sake.  
 
@@ -373,7 +375,7 @@ Term 18
 
 ***Happy***
 
-***The happy life seems to be one lived in accord with virtue and not spent in amusement.***
+The happy life seems to be one lived in accord with virtue and not spent in amusement.  
 
 Happiness in a man still wants of outside prosperity, because his nature is not sufficient in himself for contemplation, but the body must also be in good health, and have food and other things to aid it.  
 

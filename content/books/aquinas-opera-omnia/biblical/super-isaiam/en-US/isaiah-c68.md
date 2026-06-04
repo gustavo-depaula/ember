@@ -1,5 +1,7 @@
 # Chapter 66
 
+^66:1^ Thus says the Lord: heaven is my throne, and the earth my footstool: what is this house that you will build to me? And what is this place of my rest?  
+
 > ^66:2^ My hand made all these things, and all these things were made, says the Lord. But to whom shall I have respect, but to him that is poor and little, and of a contrite spirit, and that trembles at my words?
 
 > ^66:3^ He that sacrifices an ox, is as if he slew a man: he that kills a sheep in sacrifice, as if he should brain a dog: he that offers an oblation, as if he should offer swine’s blood; he that remembers incense, as if he should bless an idol. All these things have they chosen in their ways, and their soul is delighted in their abominations.

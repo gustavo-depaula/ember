@@ -1,5 +1,7 @@
 # Proposition 31
 
+210. Between a thing whose substance and act are in a moment of eternity and a thing whose substance and action are in a moment of time 'now' there exists an intermediary, and it is that whose substance is in the eternal 'now' and whose act is in the temporal 'now'.  
+
 > 211. This is because a thing whose substance falls under time, i.e., because time contains it, is falling under time in all its dispositions, because of which its action also falls under time; since, insofar as the thing's substance falls under time. But a thing falling under time in all its dispositions is separated from a thing falling under eternity in all its dispositions. But there is continuity only in similar things. Therefore it is necessary that there be some other third thing intermediate between each, whose substance falls under eternity and whose action falls under time.
 
 > 212. For it is impossible that there be a thing whose substance falls under time and whose action under eternity; indeed, in this way its operation would be better than its substance; but this is impossible.

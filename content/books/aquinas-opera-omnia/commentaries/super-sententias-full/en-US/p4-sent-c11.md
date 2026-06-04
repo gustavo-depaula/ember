@@ -1,8 +1,10 @@
 # D. 31 - Principle of original sin
 
+***Principle of original sin***
+
 ***Division of the text***
 
-***Having shown that original sin exists and what it is, here he follows up with some of its characteristics. This is divided into three parts.***
+Having shown that original sin exists and what it is, here he follows up with some of its characteristics. This is divided into three parts.  
 
 In the first, he addresses original sin as regards its principle, showing how it is passed down.  
 
@@ -58,7 +60,7 @@ Article 1
 
 ***Whether original sin can pass into offspring by way of the flesh’s origin***
 
-***To the first we proceed as follows.Parallel texts: below, a. 2; d. 31, q. 1, a. 1; *ST* I-II.81.1–2; *SCG* IV.50–52; *On Evil*, q. 4, a. 1; *Compendium theologiae*, ch. 196; *Commentary on Romans*, ch. 5, lect. 3. It seems that original sin cannot pass from the first parent to offspring by way of the origin of the flesh.***
+To the first we proceed as follows.Parallel texts: below, a. 2; d. 31, q. 1, a. 1; *ST* I-II.81.1–2; *SCG* IV.50–52; *On Evil*, q. 4, a. 1; *Compendium theologiae*, ch. 196; *Commentary on Romans*, ch. 5, lect. 3. It seems that original sin cannot pass from the first parent to offspring by way of the origin of the flesh.  
 
 Obj. 1: For the action of a person does not extend to the nature since a person is lower and less powerful than the nature in which he subsists. But the origin of the flesh is due to the nature itself, since generation is ordered for the preservation of the species. Therefore, our first parent’s sin could not have passed into his offspring by way of the origin of the flesh, since this could only happen if the nature were infected through the action of a person.  
 
@@ -100,7 +102,7 @@ Article 2
 
 ***Whether it is necessary for all men to be born in original sin***
 
-***To the second we proceed as follows.Parallel texts: above, d. 30, q. 1, a. 2; *In III Sent*., d. 3, q. 4, a. 3, resp.; *In IV Sent*., d. 43, q. 1, a. 4, resp. and ad 3; *ST* I-II.81.3; III.27.2; 31.8; *SCG* IV.50ff.; IV.83; *On Evil*, q. 4, a. 6; *Quodl*. VI, q. 5, a. 1; *Commentary on Psalms*, Psalm 50; *Commentary on Romans*, ch. 5, lect. 3. It seems that it is not necessary for all men to be born in original sin.***
+To the second we proceed as follows.Parallel texts: above, d. 30, q. 1, a. 2; *In III Sent*., d. 3, q. 4, a. 3, resp.; *In IV Sent*., d. 43, q. 1, a. 4, resp. and ad 3; *ST* I-II.81.3; III.27.2; 31.8; *SCG* IV.50ff.; IV.83; *On Evil*, q. 4, a. 6; *Quodl*. VI, q. 5, a. 1; *Commentary on Psalms*, Psalm 50; *Commentary on Romans*, ch. 5, lect. 3. It seems that it is not necessary for all men to be born in original sin.  
 
 Obj. 1: For baptism returns what was lost through Adam to those who are regenerated through it, since the gift of Christ exceeds the transgression of Adam, as it says (Rom 5:20). But if Adam had not sinned, men would not have generated children in original sin. Therefore, neither do baptized men transmit original sin to their children.  
 
@@ -138,7 +140,7 @@ Question 2
 
 ***The subject of original sin***
 
-***Then the question is asked of the subject of original sin. Concerning this two questions are asked:***
+Then the question is asked of the subject of original sin. Concerning this two questions are asked:  
 
 first, whether original sin is in the soul’s essence as its subject or in some power of the soul;  
 
@@ -148,7 +150,7 @@ Article 1
 
 ***Whether original sin is in a power after the manner of a subject***
 
-***To the first we proceed as follows.Parallel texts: above, d. 30, q. 1, a. 3; *ST* I-II.83.2, 3; *On Truth*, q. 25, a. 6; q. 27, a. 6, ad 2; *On Evil*, q. 4, aa. 4–5. It seems that original sin is in a power as its subject.***
+To the first we proceed as follows.Parallel texts: above, d. 30, q. 1, a. 3; *ST* I-II.83.2, 3; *On Truth*, q. 25, a. 6; q. 27, a. 6, ad 2; *On Evil*, q. 4, aa. 4–5. It seems that original sin is in a power as its subject.  
 
 Obj. 1: For what is separated from the body and immaterial is only united to the body by means of something material. But the rational soul is separate from matter and is immaterial, as the Philosopher proves in *On the Soul* 3.Aristotle, *On the Soul* 3.4, 429a22–26. Therefore, it must be united to the body by means of the powers of the sensitive and nutritive parts, which are material and connected to organs. But original sin passes into the soul from its being joined to the body. Therefore, it is found with greater priority in the powers of the sensitive and nutritive part.  
 
@@ -180,7 +182,7 @@ Article 2
 
 ***Whether the generative power is more infected than the other powers***
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.83.4; *On Truth*, q. 25, a. 6; *On Evil*, q. 4, a. 2, ad 12; a. 5, ad 1. It seems that the generative power is not infected beyond the other powers.***
+To the second we proceed as follows.Parallel texts: *ST* I-II.83.4; *On Truth*, q. 25, a. 6; *On Evil*, q. 4, a. 2, ad 12; a. 5, ad 1. It seems that the generative power is not infected beyond the other powers.  
 
 Obj. 1: For what is not in some way obedient to reason cannot be perfected by virtue or contaminated by fault. But the generative power is of this sort. Therefore, there cannot be the infection of sin in it.  
 
@@ -210,7 +212,7 @@ Reply Obj. 5: We ascribe to the generative power the infection both of original 
 
 Exposition of the text  
 
-****To this it can be said that the cause of original sin is a manifold defect of the flesh, and especially some pollution which the flesh contracts in its conception from the burning of the parents’ joining and their lustful concupiscence*.*Sent*. II, 31.6(211).2. It should be known that the Master resolves this by denying both parts. Namely, his solution is that the infection is neither a fault nor a punishment, but a kind of deficiency. And it is said to be caused by the burning of the parents’ joining not as by what is essentially the cause, but by what is a sign of the cause.***
+*To this it can be said that the cause of original sin is a manifold defect of the flesh, and especially some pollution which the flesh contracts in its conception from the burning of the parents’ joining and their lustful concupiscence*.*Sent*. II, 31.6(211).2. It should be known that the Master resolves this by denying both parts. Namely, his solution is that the infection is neither a fault nor a punishment, but a kind of deficiency. And it is said to be caused by the burning of the parents’ joining not as by what is essentially the cause, but by what is a sign of the cause.  
 
 *This uncleanness appears to be greater in the flesh which has been begotten in concupiscence than in that from which it is begotten*.*Sent*. II, 31.6(211).2. This seems to be false, since then original sin would be greater in the son than in the father.  
 

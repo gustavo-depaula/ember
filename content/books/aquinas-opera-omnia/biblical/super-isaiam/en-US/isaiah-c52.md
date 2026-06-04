@@ -1,5 +1,7 @@
 # Chapter 50
 
+^50:1^ Thus says the Lord: what is this bill of the divorce of your mother, with which I have put her away? Or who is my creditor, to whom I sold you: behold you are sold for your iniquities, and for your wicked deeds have I put your mother away.  
+
 > ^50:2^ Because I came, and there was not a man: I called, and there was none that would hear. Is my hand shortened and become little, that I cannot redeem? Or is there no strength in me to deliver? Behold at my rebuke I will make the sea a desert, I will turn the rivers into dry land: the fishes shall rot for want of water, and shall die for thirst.
 
 > ^50:3^ I will clothe the heavens with darkness, and will make sackcloth their covering.

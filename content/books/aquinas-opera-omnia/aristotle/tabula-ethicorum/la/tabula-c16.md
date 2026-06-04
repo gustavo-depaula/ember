@@ -1,14 +1,16 @@
 # Chapter 16
 
+***Vox 1***
+
 ***Speusippus***
 
-***Quod Speusippus uidetur sequi magis Pictagoricos quam Platonem in posicione principiorum mathematicorum.***
+Quod Speusippus uidetur sequi magis Pictagoricos quam Platonem in posicione principiorum mathematicorum.  
 
 Vox 2  
 
 ***Sciencia***
 
-***Quod omnes sciencie bonum quoddam appetentes et qua indigent inquirentes derelinquunt cognicionem ipsius uniuersalis et quamuis auxilium tale omnes artifices ignorare et neque inquirere non est bene racionale.***
+Quod omnes sciencie bonum quoddam appetentes et qua indigent inquirentes derelinquunt cognicionem ipsius uniuersalis et quamuis auxilium tale omnes artifices ignorare et neque inquirere non est bene racionale.  
 
 Quod sciencia est certitudinalis cognicio et est necessariorum que sunt ingenita.  
 
@@ -32,7 +34,7 @@ Vox 4
 
 ***Sompnus***
 
-***Quod in sompno nequaquam manifesti sunt boni et mali, quia sicut dicunt homines secundum dimidium uite nichil differunt felices a miseris.***
+Quod in sompno nequaquam manifesti sunt boni et mali, quia sicut dicunt homines secundum dimidium uite nichil differunt felices a miseris.  
 
 Quod sompnus est quies anime secundum quod est studiosa et praua.  
 
@@ -40,13 +42,13 @@ Vox 5
 
 ***Superbus***
 
-***Quod superbus et fictor fortitudinis assimulantur audaci, quia circa terribilia; set non sustinent, propter quod multi eorum timidi.***
+Quod superbus et fictor fortitudinis assimulantur audaci, quia circa terribilia; set non sustinent, propter quod multi eorum timidi.  
 
 Vox 6  
 
 ***Sanitas***
 
-***Quod sanitas recipit magis et minus, cum non sit una commensuracio sanitatis in omnibus hominibus.***
+Quod sanitas recipit magis et minus, cum non sit una commensuracio sanitatis in omnibus hominibus.  
 
 Vox 7  
 
@@ -68,7 +70,7 @@ Vox 8
 
 ***Sermones***
 
-***Quod si sermones qui consonant in operabilibus consonant operibus, eis est consenciendum; si autem dissonant, sunt suscipiendi sicut leues tantum qui sonant in aere.***
+Quod si sermones qui consonant in operabilibus consonant operibus, eis est consenciendum; si autem dissonant, sunt suscipiendi sicut leues tantum qui sonant in aere.  
 
 Quod sermones in hac sciencia non sufficiunt ad inducendum hunc finem, id est ad faciendum homines studiosos, quia si essent sufficientes, tunc illi qui docent essent digni magna remuneracione.  
 
@@ -96,7 +98,7 @@ Vox 10
 
 ***Signum***
 
-***Quod signum generati habitus oportet facere superuenientem in opere uoluptatem uel tristiciam.***
+Quod signum generati habitus oportet facere superuenientem in opere uoluptatem uel tristiciam.  
 
 Vox 11  
 
@@ -108,7 +110,7 @@ Vox 12
 
 ***Sex***
 
-***Quod sex est medium secundum rem; equaliter enim excedunt et exceduntur; et hoc secundum arismeticam proporcionem.***
+Quod sex est medium secundum rem; equaliter enim excedunt et exceduntur; et hoc secundum arismeticam proporcionem.  
 
 Vox 13  
 
@@ -120,7 +122,7 @@ Vox 14
 
 ***Superhabundancie***
 
-***Quod superhabundancie et defectus non est medietas, quia sic superhabundancie esset superhabundancia et defectus defectus.***
+Quod superhabundancie et defectus non est medietas, quia sic superhabundancie esset superhabundancia et defectus defectus.  
 
 Vox 15  
 
@@ -138,13 +140,13 @@ Vox 16
 
 ***Sentire***
 
-***Quod sentire et intelligere sint delectabile, quia quicumque uidet et audit et intelligit, sentit et percipit se operari hoc, set qui sentit se sentire sentit se uiuere et esse, esse autem et uiuere maxime est delectabile, quia uiuere est secundum se ipsum bonum.***
+Quod sentire et intelligere sint delectabile, quia quicumque uidet et audit et intelligit, sentit et percipit se operari hoc, set qui sentit se sentire sentit se uiuere et esse, esse autem et uiuere maxime est delectabile, quia uiuere est secundum se ipsum bonum.  
 
 Vox 17  
 
 ***Sensibilia***
 
-***Quod sensibilia non facile possunt determinari, quia iudicium eorum est in sensu.***
+Quod sensibilia non facile possunt determinari, quia iudicium eorum est in sensu.  
 
 Vox 18  
 
@@ -212,7 +214,7 @@ Vox 25
 
 ***Speculacio***
 
-***Quod speculacio humana que est felicissima cognatissima est et similima diuine que eminencia differt ab omnibus.***
+Quod speculacio humana que est felicissima cognatissima est et similima diuine que eminencia differt ab omnibus.  
 
 Quod quantum pertendit se speculacio, et felicitas; et quibus magis existit speculari, et felices esse, non secundum accidens set secundum speculacionem.  
 
@@ -220,7 +222,7 @@ Vox 26
 
 ***Sensus***
 
-***Quod sensus non accipimus ex multociens uidere et audire, set e conuerso habentes usi sumus.***
+Quod sensus non accipimus ex multociens uidere et audire, set e conuerso habentes usi sumus.  
 
 Quod nichil differt ut dicatur sensus operari uel id in quo est sensus, id est animal.  
 
@@ -242,7 +244,7 @@ Vox 29
 
 ***Synesis***
 
-***Quod synesis est de quibus aliquis dubitat et consiliatur; propter quod circa eadem quidem prudencie est.***
+Quod synesis est de quibus aliquis dubitat et consiliatur; propter quod circa eadem quidem prudencie est.  
 
 Quod synesis est iudicatiua solum.  
 
@@ -250,7 +252,7 @@ Vox 30
 
 ***Senes***
 
-***Quod senes et experti et prudentes propter hoc quod habent limpidum uisum, ex experiencia uident efficaciter principia operabilium que alii non uident.***
+Quod senes et experti et prudentes propter hoc quod habent limpidum uisum, ex experiencia uident efficaciter principia operabilium que alii non uident.  
 
 Vox 31  
 
@@ -262,19 +264,19 @@ Vox 32
 
 ***Socrates***
 
-***Quod Socrates dicebat omnes uirtutes prudencias et in hoc peccabat; set sine prudencia non esse, in hoc bene dicebat.***
+Quod Socrates dicebat omnes uirtutes prudencias et in hoc peccabat; set sine prudencia non esse, in hoc bene dicebat.  
 
 Vox 33  
 
 ***Sillogismus***
 
-***Quod in sillogismo continentis et incontinentis oportet esse quatuor proposiciones.***
+Quod in sillogismo continentis et incontinentis oportet esse quatuor proposiciones.  
 
 Vox 34  
 
 ***Satirus***
 
-***Quod Satirus, qui Philopator cognominatus est, superhabundauit in amore patris in tantum quod uidebatur desipere.***
+Quod Satirus, qui Philopator cognominatus est, superhabundauit in amore patris in tantum quod uidebatur desipere.  
 
 Vox 35  
 

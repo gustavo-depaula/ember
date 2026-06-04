@@ -1,10 +1,12 @@
 # C. 4 - Abraham’s Justification
 
+***Iustificatio Abrahae***
+
 ***Lectio 1***
 
 ***Abraham non iustificatus circumcisione***
 
-***^4:1^ Quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem? [n. 322]***
+^4:1^ Quid ergo dicemus invenisse Abraham patrem nostrum secundum carnem? [n. 322]  
 
 > ^4:2^ Si enim Abraham ex operibus justificatus est, habet gloriam, sed non apud Deum. [n. 323]
 
@@ -156,7 +158,7 @@ Lectio 2
 
 ***Circumcisionis signaculum justitiae fidei***
 
-***^4:11^ Et signum accepit circumcisionis, signaculum justitiae fidei, quae est in praeputio: ut sit pater omnium credentium per praeputium, ut reputetur et illis ad justitiam: [n. 341]***
+^4:11^ Et signum accepit circumcisionis, signaculum justitiae fidei, quae est in praeputio: ut sit pater omnium credentium per praeputium, ut reputetur et illis ad justitiam: [n. 341]  
 
 > ^4:12^ et sit pater circumcisionis non iis tantum, qui sunt ex circumcisione, sed et iis qui sectantur vestigia fidei, quae est in praeputio patris nostri Abrahae.
 
@@ -286,7 +288,7 @@ Lectio 3
 
 ***Fides Abrahae in promissio***
 
-***^4:16^ Ideo ex fide, ut secundum gratiam firma sit promissio omni semini, non ei qui ex lege est solum, sed et ei qui ex fide est Abrahae, qui pater est omnium nostrum [n. 359]***
+^4:16^ Ideo ex fide, ut secundum gratiam firma sit promissio omni semini, non ei qui ex lege est solum, sed et ei qui ex fide est Abrahae, qui pater est omnium nostrum [n. 359]  
 
 > ^4:17^ (sicut scriptum est: *Quia patrem multarum gentium posui te*) ante Deum, cui credidit, qui vivificat mortuos, et vocat ea quae non sunt, tamquam ea quae sunt:
 

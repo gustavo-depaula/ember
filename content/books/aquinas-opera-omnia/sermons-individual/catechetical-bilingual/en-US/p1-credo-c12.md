@@ -1,6 +1,8 @@
 # A. 11 - The Resurrection of the Body
 
-***Not only does the Holy Spirit sanctify the Church as regards the souls of its members, but our bodies also will rise again by his power: *we believe in him that raised up Jesus Christ, our Lord, from the dead* (Rom 4:24); and: *by a man came death: and by a man the resurrection of the dead* (1 Cor 15:21).Parallel texts: *ST* I.97.3; III.2.6, ad 2; *SCG* II.44; *ST Supplement*, q. 75, a. 1; *SCG* IV.79, 80, 81; *Compendium theologiae*, cc. 151, 154. Thus, we believe according to our faith in the future resurrection of the dead. In this there are four considerations:***
+***The Resurrection of the Body***
+
+Not only does the Holy Spirit sanctify the Church as regards the souls of its members, but our bodies also will rise again by his power: *we believe in him that raised up Jesus Christ, our Lord, from the dead* (Rom 4:24); and: *by a man came death: and by a man the resurrection of the dead* (1 Cor 15:21).Parallel texts: *ST* I.97.3; III.2.6, ad 2; *SCG* II.44; *ST Supplement*, q. 75, a. 1; *SCG* IV.79, 80, 81; *Compendium theologiae*, cc. 151, 154. Thus, we believe according to our faith in the future resurrection of the dead. In this there are four considerations:  
 
 first, the benefits which proceed from our faith in the resurrection;  
 

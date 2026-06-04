@@ -1,10 +1,12 @@
 # C. 7 - The Law and Sin
 
+***Lex et Peccatum***
+
 ***Lectio 1***
 
 ***Solutio a lege mortis***
 
-***^7:1^ An ignoratis, fratres (scientibus enim legem loquor), quia lex in homine dominatur quanto tempore vivit? [n. 518]***
+^7:1^ An ignoratis, fratres (scientibus enim legem loquor), quia lex in homine dominatur quanto tempore vivit? [n. 518]  
 
 > ^7:2^ Nam quae sub viro est mulier, vivente viro, alligata est legi: si autem mortuus fuerit vir ejus, soluta est a lege viri. [n. 521]
 
@@ -112,7 +114,7 @@ Lectio 2
 
 ***Supra modum peccatum per mandatum***
 
-***^7:7^ Quid ergo dicemus? lex peccatum est? [n. 532] Absit. Sed peccatum non cognovi, nisi per legem: nam concupiscentiam nesciebam, nisi lex diceret: *Non concupisces*. [n. 534]***
+^7:7^ Quid ergo dicemus? lex peccatum est? [n. 532] Absit. Sed peccatum non cognovi, nisi per legem: nam concupiscentiam nesciebam, nisi lex diceret: *Non concupisces*. [n. 534]  
 
 > ^7:8^ Occasione autem accepta, peccatum per mandatum operatum est in me omnem concupiscentiam. [n. 540] Sine lege enim peccatum mortuum erat. [n. 544]
 
@@ -260,7 +262,7 @@ Lectio 3
 
 ***Caro sub lege peccati***
 
-***^7:14^ Scimus enim quia lex spiritualis est: ego autem carnalis sum, venundatus sub peccato. [n. 556]***
+^7:14^ Scimus enim quia lex spiritualis est: ego autem carnalis sum, venundatus sub peccato. [n. 556]  
 
 > ^7:15^ Quod enim operor, non intelligo: non enim quod volo bonum, hoc ago: sed quod odi malum, illud facio. [n. 562]
 
@@ -426,7 +428,7 @@ Lectio 4
 
 ***Pugna mentis contra carnem***
 
-***^7:21^ Invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adjacet: [n. 583]***
+^7:21^ Invenio igitur legem, volenti mihi facere bonum, quoniam mihi malum adjacet: [n. 583]  
 
 > ^7:22^ condelector enim legi Dei secundum interiorem hominem: [n. 585]
 

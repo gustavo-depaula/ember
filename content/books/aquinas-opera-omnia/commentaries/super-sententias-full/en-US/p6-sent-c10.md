@@ -1,8 +1,10 @@
 # D. 32 - God's charity for us
 
+***God's charity for us***
+
 ***Division of the text***
 
-****To the above we must add [something] concerning the love of God, by which he loves us*.*Sent.* III, 32.1(115).1. After the Master has considered the love of charity by which we love God, here he examines the love by which God loves us.***
+*To the above we must add [something] concerning the love of God, by which he loves us*.*Sent.* III, 32.1(115).1. After the Master has considered the love of charity by which we love God, here he examines the love by which God loves us.  
 
 And this consideration is divided into two parts.  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Whether it accords with God’s nature that he love a creature***
 
-***To the first we proceed thus.Parallels: *ST* I.20.1; 82.5.ad 1; *SCG* I.91; *In De divinis nominibus*, ch. 4, lect. 9. It seems that loving a creature does not accord with God’s nature.***
+To the first we proceed thus.Parallels: *ST* I.20.1; 82.5.ad 1; *SCG* I.91; *In De divinis nominibus*, ch. 4, lect. 9. It seems that loving a creature does not accord with God’s nature.  
 
 Obj. 1: For love implies a certain passion of the soul. But other passions of the soul, such as anger and things of this sort, are not in God, except according to effect and by way of likeness. Therefore neither is love in him.  
 
@@ -82,7 +84,7 @@ Article 2
 
 ***Whether God loves every creature***
 
-***To the second we proceed thus.Parallels: above, d. 26, a. 1; *ST* I.20.2; 23.3.ad 1; I-II.110.1; *SCG* I.91; *De caritate*, a. 7, ad 2; *Super Ioan*. 5, lect. 3; *In De divinis nominibus*, ch. 4, lect. 9. It seems that God does not love every creature.***
+To the second we proceed thus.Parallels: above, d. 26, a. 1; *ST* I.20.2; 23.3.ad 1; I-II.110.1; *SCG* I.91; *De caritate*, a. 7, ad 2; *Super Ioan*. 5, lect. 3; *In De divinis nominibus*, ch. 4, lect. 9. It seems that God does not love every creature.  
 
 Obj. 1: For whatever God loves, he loves from charity. But irrational creatures are not loved from charity, as was said above.*In III Sent*., d. 21, q. 1, a. 2. Therefore God does not love them.  
 
@@ -118,7 +120,7 @@ Article 3
 
 ***Whether God has loved creatures from eternity***
 
-***To the third we proceed thus.Parallels: *ST* I.20.2.ad 2; *SCG* IV.23; *Super Rom*. 9, lect. 2; *Super Ephes.* 1, lect. 1. It seems that God has not loved creatures from eternity.***
+To the third we proceed thus.Parallels: *ST* I.20.2.ad 2; *SCG* IV.23; *Super Rom*. 9, lect. 2; *Super Ephes.* 1, lect. 1. It seems that God has not loved creatures from eternity.  
 
 Obj. 1: For love is only of what is good. But creatures were not good from eternity [since they have not existed for eternity]. Therefore he has not loved them from eternity.  
 
@@ -152,7 +154,7 @@ Article 4
 
 ***Whether God loves all things equally***
 
-***To the fourth we proceed thus.Parallels: *In III Sent*., d. 19. a. 5, resp. 1; *In II Sent.*, d. 26, a. 1, ad 2; *ST* I.20.3; *SCG* I.91. It seems that God loves all things equally.***
+To the fourth we proceed thus.Parallels: *In III Sent*., d. 19. a. 5, resp. 1; *In II Sent.*, d. 26, a. 1, ad 2; *ST* I.20.3; *SCG* I.91. It seems that God loves all things equally.  
 
 Obj. 1: For providence, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 12 (PG 3:710). is an effect of love. But *he takes thought for all alike* (Wis 6:7). Therefore he loves all things equally.  
 
@@ -188,7 +190,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***To the fifth we proceed thus.Parallel: *ST* I.20.4. [We divide the article into four subquestions: 1. whether God loves the now-just man foreknown to be lost more than the sinner predestined to be saved; 2. whether God loves the penitent more than the innocent; 3. whether God loves man more than angel; 4. whether God loves the human race more than Christ]. It seems that God loves the now-just man more than the sinner predestined to be saved.***
+To the fifth we proceed thus.Parallel: *ST* I.20.4. [We divide the article into four subquestions: 1. whether God loves the now-just man foreknown to be lost more than the sinner predestined to be saved; 2. whether God loves the penitent more than the innocent; 3. whether God loves man more than angel; 4. whether God loves the human race more than Christ]. It seems that God loves the now-just man more than the sinner predestined to be saved.  
 
 Obj. 1: For it is said in Proverbs 8:17, *I love those who love me*. But [insofar as he is presently a sinner,] that sinner predestined to be saved does not love God, whom the now-just man presently loves. Therefore he loves the now-just man more than the sinner predestined to be saved.  
 
@@ -202,7 +204,7 @@ Furthermore, he loves more the one for whom he wills a greater good. But he will
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it seems that he loves the penitent more than the innocent. For joy follows upon love; but God rejoices more about a penitent, as is clear from Luke 15:7. Therefore he loves him more.***
+Obj. 1: Furthermore, it seems that he loves the penitent more than the innocent. For joy follows upon love; but God rejoices more about a penitent, as is clear from Luke 15:7. Therefore he loves him more.  
 
 Obj. 2: Further, where a person does more, he loves more—on account of which, as the Philosopher says,Aristotle, *Nicomachean Ethics* 9.7, 1168a25. mothers love their children more than fathers do. But God does more for the salvation of a penitent than for the salvation of an innocent. Therefore he loves him more.  
 
@@ -214,7 +216,7 @@ Furthermore, it was said aboveAbove, d. 31, q. 1, a. 4, rep. 1, ad 2. that the o
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that he loves man more than angel. For *it is clear that he did not come to help angels, but the descendants of Abraham* (Heb 2:16); and thus, he did more for men than for angels. Therefore he loves them more.***
+Obj. 1: Furthermore, it seems that he loves man more than angel. For *it is clear that he did not come to help angels, but the descendants of Abraham* (Heb 2:16); and thus, he did more for men than for angels. Therefore he loves them more.  
 
 Obj. 2: Further, men are members of Christ in more ways than angels are, namely [not only with respect to grace but also] with respect to a conformity of nature. But God loves more those who are members of Christ, as is said in the text of the Master.*Sent*. III, 32.1(115).2, quoting Augustine, *In Iohannis euangelium tractatus*, tract. 110, para. 6 (CCSL 36; PL 35:1923). Therefore he loves men more than angels.  
 
@@ -226,7 +228,7 @@ Furthermore, in the beginning he bestowed glory, as it were, upon the angels, bu
 
 Quaestiuncula 4  
 
-***Obj. 1: Furthermore, it seems that God loves the human race more than he loves Christ. For, as is evident from John 3:16, he gave Christ for the redemption of the human race.***
+Obj. 1: Furthermore, it seems that God loves the human race more than he loves Christ. For, as is evident from John 3:16, he gave Christ for the redemption of the human race.  
 
 Obj. 2: Further, *the common good is more divine than the good of one*.Aristotle, *Nicomachean Ethics* 1.2, 1094b9–10. But the good of the human race is a common good, whereas the good of Christ is the good of a single person. Therefore God loves the human race more than he loves Christ.  
 
@@ -236,13 +238,13 @@ Furthermore, *he gives the Spirit [to Christ] without measure* (John 3:34). Ther
 
 Response to Quaestiuncula 1  
 
-***I answer that simply speaking, God wills a greater good for the sinner predestined to be saved than he wills for the now-just man; but in terms of what is the case right now, he wills a greater good for the just man foreknown to be lost. But this determination—“what is the case right now”—does not fall on love’s side but more on the object’s side, because God’s love is not changed over time, for from eternity he willed a greater good for that predestined man. Hence, it is to be conceded, simply, that he loves the one predestined more than the one foreknown to be lost.***
+I answer that simply speaking, God wills a greater good for the sinner predestined to be saved than he wills for the now-just man; but in terms of what is the case right now, he wills a greater good for the just man foreknown to be lost. But this determination—“what is the case right now”—does not fall on love’s side but more on the object’s side, because God’s love is not changed over time, for from eternity he willed a greater good for that predestined man. Hence, it is to be conceded, simply, that he loves the one predestined more than the one foreknown to be lost.  
 
 Reply Obj. 1–5: And from this, the response to the objections is evident, since they argue in terms of what is the case right now.  
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, with respect to the good of the essential reward, God loves the penitent and the innocent equally if they have equal charity, or else he loves that one more who has the greater charity. But with respect to the accidental reward, he loves the innocent more, on account of the dignity of innocence—a dignity that the penitent cannot attain.***
+To the second question, it should be said that, with respect to the good of the essential reward, God loves the penitent and the innocent equally if they have equal charity, or else he loves that one more who has the greater charity. But with respect to the accidental reward, he loves the innocent more, on account of the dignity of innocence—a dignity that the penitent cannot attain.  
 
 Reply Obj. 1: Even if a penitent rises up after a fall with a charity equal to that which he had before, and thus the good willed for him by God is equal considered in itself, nevertheless this good is greater in comparison to the man to whom it is given, just as when someone is needy, a benefit given to him is reckoned more of a benefit than were he not so needy. And on account of this it is said that God and the angels rejoice more over his conversion, even as a person rejoices more over a small sign of health appearing in a sick man than that person does over the full bloom of health the sick man once had. Or it may be said that this [namely, that God and the angels rejoice more over the recovery of one than the safety of the others] is said because of the fact that a penitent frequently rises up after a fall more humble and fervent and cautious.  
 
@@ -252,13 +254,13 @@ Reply Obj. 3: Although the effect of love in question may be greater with respec
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that God loves angels more than human beings in terms of the good of nature, but in terms of the good of glory, angels are related to humans as both exceeding and exceeded, because God will love certain humans more than some angels, certain angels more than some people, and certain angels and people equally; for people will then be equal to the angels in enjoying God, and certain human beings will even be superior to the angels; and God has provided for each one in accordance with the needs and demands of his nature and of his state.***
+To the third question, it should be said that God loves angels more than human beings in terms of the good of nature, but in terms of the good of glory, angels are related to humans as both exceeding and exceeded, because God will love certain humans more than some angels, certain angels more than some people, and certain angels and people equally; for people will then be equal to the angels in enjoying God, and certain human beings will even be superior to the angels; and God has provided for each one in accordance with the needs and demands of his nature and of his state.  
 
 Reply Obj. 1–5: And through this answer the response to the objections is clear. For it does not follow that a father loves a sick son more than a healthy one just because he gives him remedies that he does not give to the healthy one.  
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that God loves Christ not only more than men, but also more than creation in its totality—[and he loves him more] not only with respect to his divine nature, but even with respect to his human nature, insofar as he predestined it to a greater good, namely to union with a divine person.***
+To the fourth question, it should be said that God loves Christ not only more than men, but also more than creation in its totality—[and he loves him more] not only with respect to his divine nature, but even with respect to his human nature, insofar as he predestined it to a greater good, namely to union with a divine person.  
 
 Reply Obj. 1: Even in the fact that Christ was given on behalf of men, the greatest good came to Christ himself, since through this giving of himself his virtue was manifested and he became the cause of human salvation, which makes him supremely honorable.  
 
@@ -266,6 +268,6 @@ Reply Obj. 2: Although he is a single person, Christ is nevertheless the univers
 
 Exposition of the text  
 
-****To the above we must add [something] concerning the love of God, by which he loves us*.*Sent.* III, 32.1(115).1. It seems that the Master ought to have examined this matter in Book I. And it should be answered that it could have been suitably placed in the first Book, too, insofar as the divine love is the divine essence; and it can be fittingly placed here, insofar as God’s love is the exemplar of our love.***
+*To the above we must add [something] concerning the love of God, by which he loves us*.*Sent.* III, 32.1(115).1. It seems that the Master ought to have examined this matter in Book I. And it should be answered that it could have been suitably placed in the first Book, too, insofar as the divine love is the divine essence; and it can be fittingly placed here, insofar as God’s love is the exemplar of our love.  
 
 *God’s love is the divine ousia*.*Sent*. III, 32.1(115).1. This is said because *ousia*, that is, essence, and love are one and the same thing in God, differing only in notion, as was said in Book I.*In I Sent*., d. 2, q. 1, aa. 1, 2.

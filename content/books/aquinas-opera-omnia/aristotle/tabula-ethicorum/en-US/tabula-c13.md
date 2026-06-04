@@ -1,5 +1,7 @@
 # Chapter 13
 
+***Term 1***
+
 ***Operations /actions/Activities***
 
 ***Activities are done for the sake of ends.***
@@ -112,7 +114,7 @@ Term 5
 
 ***Function***
 
-***The function of a man is either in accord with reason or at least not without it, that is, it as least participates in reason.***
+The function of a man is either in accord with reason or at least not without it, that is, it as least participates in reason.  
 
 The function of man is the same in kind as that of a good man, that of a happiest the same in kind as the best harpist.  
 
@@ -130,13 +132,13 @@ Term 7
 
 ***In the Olympic Games***
 
-***In the Olympic games, the best and most courageous are not the ones given crowns, they are given rather to victorious competitors.***
+In the Olympic games, the best and most courageous are not the ones given crowns, they are given rather to victorious competitors.  
 
 Term 8  
 
 ***Oligarchy***
 
-***Oligarchy is a vice of rulers who do not give according to merit, but undeservingly give to themselves what belongs to the city. They accord themselves many good things and give positions of authority always to the same friends so as to easily grow rich.***
+Oligarchy is a vice of rulers who do not give according to merit, but undeservingly give to themselves what belongs to the city. They accord themselves many good things and give positions of authority always to the same friends so as to easily grow rich.  
 
 Term 9  
 
@@ -156,7 +158,7 @@ Term 11
 
 ***Opinion***
 
-***Opinion seems to concern all things, both eternal things and impossible things, and even things in our power.***
+Opinion seems to concern all things, both eternal things and impossible things, and even things in our power.  
 
 Opinions are divided between true and false.  
 

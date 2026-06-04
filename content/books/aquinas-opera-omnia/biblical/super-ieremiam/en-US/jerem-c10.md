@@ -1,10 +1,12 @@
 # C. 8 - Pride, greed, and shamelessness
 
+***Pride, greed, and shamelessness***
+
 ***Lecture 1***
 
 ***The destruction of tombs***
 
-***^8:1^ In that time, says the Lord, they shall cast out the bones of the king of Judah, and the bones of her princes, and the bones of the priests, and the bones of the prophets, and the bones of them that dwell in Jerusalem from their tombs.***
+^8:1^ In that time, says the Lord, they shall cast out the bones of the king of Judah, and the bones of her princes, and the bones of the priests, and the bones of the prophets, and the bones of them that dwell in Jerusalem from their tombs.  
 
 > ^8:2^ And they shall scatter them before the sun, and the moon, and all the host of heaven, which they loved, and which they served, and after which they walked, and which they sought, and worshiped. They shall not be gathered up, neither shall they be buried; they shall be as dung upon the face of the earth.
 
@@ -20,7 +22,7 @@ Lecture 2
 
 ***Death rather than life***
 
-***^8:3^ And they shall choose death rather than life, all who remain from this evil family, which remain in all the places to which I have driven them, says the Lord of hosts.***
+^8:3^ And they shall choose death rather than life, all who remain from this evil family, which remain in all the places to which I have driven them, says the Lord of hosts.  
 
 > **56**. Here, he shows the oppression of those who remain, signified by their choice of death, which in itself is not worthy of choice except in as much as it is an end to evils. *In those days men will seek death, but will not find it; and they shall desire to die, but death shall flee from them* (Rev 9:6).
 
@@ -28,7 +30,7 @@ Lecture 3
 
 ***Stubborn rebellion***
 
-***^8:4^ And you shall say to them, thus says the Lord: shall not he who falls rise again, and he who has turned aside return?***
+^8:4^ And you shall say to them, thus says the Lord: shall not he who falls rise again, and he who has turned aside return?  
 
 > ^8:5^ Why, then, has this people in Jerusalem turned aside in stubborn rebellion? They have set hold on a lie, and do not wish to return.
 
@@ -74,7 +76,7 @@ Lecture 4
 
 ***The wise confounded***
 
-***^8:8^ How can you say, ‘We are wise, for the law of the Lord is with us’? When the lying pen of the scribes has worked falsehood.***
+^8:8^ How can you say, ‘We are wise, for the law of the Lord is with us’? When the lying pen of the scribes has worked falsehood.  
 
 > ^8:9^ The wise are confounded, terrified, and taken prisoner, for they have cast aside the word of the Lord, and there is no wisdom in them.
 
@@ -92,7 +94,7 @@ Lecture 5
 
 ***Universal greed***
 
-***^8:10^ Therefore, I will give their women to strangers, their fields to heirs, because from the least to the greatest they all go after greed; from the prophet to the priest, they all work deceit.***
+^8:10^ Therefore, I will give their women to strangers, their fields to heirs, because from the least to the greatest they all go after greed; from the prophet to the priest, they all work deceit.  
 
 > ^8:11^ And they would heal the wound of the daughter of my people with shame, saying, ‘Peace, peace,’ when there was no peace.
 
@@ -112,7 +114,7 @@ Lecture 6
 
 ***Shamelessness***
 
-***^8:12^ They are ashamed, because they have done abomination; yea, rather, they are not ashamed of shame, for they have not known how to blush. Therefore, they shall fall among those that fall; in the time of their visitation they shall fall down, says the Lord.***
+^8:12^ They are ashamed, because they have done abomination; yea, rather, they are not ashamed of shame, for they have not known how to blush. Therefore, they shall fall among those that fall; in the time of their visitation they shall fall down, says the Lord.  
 
 > **60**. Here, he shows their shamelessness.
 
@@ -126,7 +128,7 @@ Lecture 7
 
 ***Silence in the city***
 
-***^8:13^ I shall surely gather them, says the Lord. There is not a grape on the vines, and there are no figs on the fig tree; the leaf has fallen, and what I had given to them has passed away.***
+^8:13^ I shall surely gather them, says the Lord. There is not a grape on the vines, and there are no figs on the fig tree; the leaf has fallen, and what I had given to them has passed away.  
 
 > ^8:14^ Why shall we sit? Come, and let us go into the fortified city and be silent there; because the Lord our God has made us silent, and has given us water of gall to drink, for we have sinned against the Lord.
 
@@ -172,6 +174,6 @@ Fourth, he gives the reason for the length of time, which is certainly that they
 
 Collations  
 
-***Note that ***silence*** (Jer 8:14) has many senses. Of astonishment: *silence shall be cast out in every place* (Amos 8:3). Of security: *the work of justice shall be peace, and the effect of justice silence and security forever* (Isa 32:17). Of longsuffering: *it is good to wait with silence for the salvation of the Lord* (Lam 3:26). *The words of the wise are like goads, and nails driven deeply* (Eccl 12:11).***
+Note that ***silence*** (Jer 8:14) has many senses. Of astonishment: *silence shall be cast out in every place* (Amos 8:3). Of security: *the work of justice shall be peace, and the effect of justice silence and security forever* (Isa 32:17). Of longsuffering: *it is good to wait with silence for the salvation of the Lord* (Lam 3:26). *The words of the wise are like goads, and nails driven deeply* (Eccl 12:11).  
 
 Also note that the company of evil men is to be avoided, because they entice with their words: *evil conversations corrupt good morals* (1 Cor 15:33). They influence by their examples: *with the upright you will be upright, and with the perverse you will be perverted* (Ps 17:26). They negatively affect one’s reputation: *he who touches pitch will be soiled thereby* (Sir 13:1). They implicate one in punishment: *depart from the tents of the wicked, and touch nothing that belongs to them, lest you become involved in their sins* (Num 16:26).

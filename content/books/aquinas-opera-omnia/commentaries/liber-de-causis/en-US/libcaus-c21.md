@@ -1,5 +1,7 @@
 # Proposition 20
 
+***155. The first cause rules all created things while not mixing with them.***
+
 > 156. This is because the ruling does not weaken its unity, which is exalted over everything, nor does it destroy it; nor does the essence of its unity, removed from things, prevent it from ruling them.
 
 > 157. This is because the first cause is fixed, stable with its ever-pure unity, and it rules all created things and impresses on them the power of life and qualities according to their capacity to receive and their possibility. Indeed the first quality flows goodnesses over all things in a single influx; however, each and every thing receives from that influx according to the mode of its capacity and its being.

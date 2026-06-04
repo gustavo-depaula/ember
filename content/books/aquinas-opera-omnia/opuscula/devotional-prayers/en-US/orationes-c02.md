@@ -1,7 +1,9 @@
 # You, I Devoutly Praise
 
-***You, I devoutly praise,Murray’s translation has been slightly altered here to better correspond to the critical edition of the Latin. hidden Truth, you***
-***who under these forms, are truly hidden.***
+Prayed as a private prayer *(The popular hymn, “Adoro Te Devote,” adapted from the prayer, is included among the Hymns found below.)* (during the elevation of the Host *(According to the Marietti edition.)*) when Aquinas attended his second Mass as a non-celebrant *(See Robert Wielockx, “La preghiera eucaristica di s. Tommaso: analisi testuale e testimonianza storica,” *Atti del convegno: l’anima eucaristica di san Tommaso d’Aquino*, in *Frontiere: Rivista di folosifia e teologia* 7 (2011), 333–34.)*  
+
+You, I devoutly praise, *(Murray’s translation has been slightly altered here to better correspond to the critical edition of the Latin.)* hidden Truth, you  
+who under these forms, are truly hidden.  
 
 - My whole heart submits itself to you for,  
   in contemplating you, I am at a complete loss.

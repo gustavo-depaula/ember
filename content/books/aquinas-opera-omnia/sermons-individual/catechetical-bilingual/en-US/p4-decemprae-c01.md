@@ -1,6 +1,8 @@
 # Pr. - I. Prologue
 
-***Here begins the treatise on the commandments according to brother Thomas Aquinas.***
+***I. Prologue***
+
+Here begins the treatise on the commandments according to brother Thomas Aquinas.  
 
 And first concerning charity.  
 

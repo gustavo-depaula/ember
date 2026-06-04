@@ -1,10 +1,12 @@
 # C. 20 - Pashhur persecutes Jeremiah
 
+***Pashhur persecutes Jeremiah***
+
 ***Lecture 1***
 
 ***Pashhur imprisons Jeremiah***
 
-***^20:1^ And Pashhur, the son of Emmer, the priest, who was appointed chief in the house of the Lord, heard Jeremiah prophesying these words.***
+^20:1^ And Pashhur, the son of Emmer, the priest, who was appointed chief in the house of the Lord, heard Jeremiah prophesying these words.  
 
 > ^20:2^ And Pashhur struck Jeremiah the prophet, and put him in fetters, which were in the upper gate of Benjamin, in the house of the Lord.
 
@@ -72,7 +74,7 @@ Lecture 2
 
 ***Jeremiah’s complaint to the Lord***
 
-***^20:7^ O Lord, you have deceived me, and I was deceived,Heb. פִּתִּיתַ֤נִי יְהוָה֙ וָֽאֶפָּ֔ת: this could also be read, *you have persuaded me, and I was persuaded*, or *you have seduced me, and I was seduced*. you were stronger than I, and you prevailed; I have become a laughingstock all the day; everyone mocks me.***
+^20:7^ O Lord, you have deceived me, and I was deceived,Heb. פִּתִּיתַ֤נִי יְהוָה֙ וָֽאֶפָּ֔ת: this could also be read, *you have persuaded me, and I was persuaded*, or *you have seduced me, and I was seduced*. you were stronger than I, and you prevailed; I have become a laughingstock all the day; everyone mocks me.  
 
 > ^20:8^ For I am speaking now this long time, crying out against iniquity, and I often proclaim destruction; and the word of the Lord has become a reproach to me, and a derision all the day.
 
@@ -128,7 +130,7 @@ Lecture 3
 
 ***Jeremiah curses his birth***
 
-***^20:14^ Cursed is the day on which I was born; the day on which my mother bore me, may it not be blessed!***
+^20:14^ Cursed is the day on which I was born; the day on which my mother bore me, may it not be blessed!  
 
 > ^20:15^ Cursed is the man who announced it to my father, saying: a man-child is born to you, and made him rejoice greatly.
 
@@ -168,4 +170,4 @@ Second is placed the reason for the curse: ***why did I come forth from the womb
 
 Collations  
 
-***A note concerning the verse: ***O Lord, you have deceived me, and I was deceived, you were stronger than I, and you prevailed*** (Jer 20:7), for the Lord seduces by drawing one along with persuasion: *since I was clever, I caught you by guile* (2 Cor 12:16); by alluring one with consolations: *when I had eaten it, my stomach was made bitter* (Rev 10:10); by comforting one with promises. Above: ***why have you deceived this people and Jerusalem, saying, ‘You shall have peace’? And behold the sword has come even unto the soul*** (Jer 4:10). But the Lord prevails by correcting: *he taught me with his mighty hand, that I should not go in the way of this people* (Isa 8:11); by drawing one back from what is harmful: *I shall hedge your way with thorns, and I will stop it with a wall* (Hos 2:6); by holding one fast with love: *I shall draw them with the cords of a man, with the bonds of love* (Hos 11:4).***
+A note concerning the verse: ***O Lord, you have deceived me, and I was deceived, you were stronger than I, and you prevailed*** (Jer 20:7), for the Lord seduces by drawing one along with persuasion: *since I was clever, I caught you by guile* (2 Cor 12:16); by alluring one with consolations: *when I had eaten it, my stomach was made bitter* (Rev 10:10); by comforting one with promises. Above: ***why have you deceived this people and Jerusalem, saying, ‘You shall have peace’? And behold the sword has come even unto the soul*** (Jer 4:10). But the Lord prevails by correcting: *he taught me with his mighty hand, that I should not go in the way of this people* (Isa 8:11); by drawing one back from what is harmful: *I shall hedge your way with thorns, and I will stop it with a wall* (Hos 2:6); by holding one fast with love: *I shall draw them with the cords of a man, with the bonds of love* (Hos 11:4).

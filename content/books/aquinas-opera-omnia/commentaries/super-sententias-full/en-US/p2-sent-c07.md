@@ -1,8 +1,10 @@
 # D. 27 - The properties in connection with the names of the divine persons
 
+***The properties in connection with the names of the divine persons***
+
 ***Division of the text***
 
-***Having asserted that there are three personal properties of the divine persons, here the Master considers the properties themselves in their connection with the persons’ names. This is divided into three parts: in the first, he shows that in all the personal names the aforesaid properties of the persons are being designated; in the second, he proposes a general rule for finding such names that designate the properties, at *and here is to be noticed a general rule*.*Sent*. I, 27.4(116).1.***
+Having asserted that there are three personal properties of the divine persons, here the Master considers the properties themselves in their connection with the persons’ names. This is divided into three parts: in the first, he shows that in all the personal names the aforesaid properties of the persons are being designated; in the second, he proposes a general rule for finding such names that designate the properties, at *and here is to be noticed a general rule*.*Sent*. I, 27.4(116).1.  
 
 The first part is divided into two: in the first, he shows that the aforesaid properties are being designated in the customary personal names, the name “Father,” “Son,” and “Holy Spirit”; in the second, he shows that they are also designated by the other names signifying the persons, at *here it is not to be passed over*.*Sent*. I, 27.3(115).3.  
 
@@ -34,7 +36,7 @@ Article 1
 
 ***Whether the properties are distinct from each other***
 
-***To the first we proceed as follows. It seems that the properties are not distinct from each other.***
+To the first we proceed as follows. It seems that the properties are not distinct from each other.  
 
 Obj. 1: For there is no distinction in the divine except according to origin. But one property does not arise from another, since just as an essence does not generate, neither does a property. Therefore the properties are not distinct from each other.  
 
@@ -66,9 +68,9 @@ Reply Obj. 5: Just as in things pertaining to the essence, the divine activity, 
 
 Article 2  
 
-***Whether the personal act precedes, according to its concept, the relation of the person***
+Whether the personal act precedes, according to its concept, the relation of the person  
 
-***To the second we proceed as follows.Parallel texts: *ST* I.40.4; *On the Power of God*, q. 8, a. 3, ad 7; q. 10, a. 3; *Compendium theologiae*, ch. 63. It seems that the personal act precedes, according to its concept, the relation of the person.***
+To the second we proceed as follows.Parallel texts: *ST* I.40.4; *On the Power of God*, q. 8, a. 3, ad 7; q. 10, a. 3; *Compendium theologiae*, ch. 63. It seems that the personal act precedes, according to its concept, the relation of the person.  
 
 Obj. 1: For “generation,” as has been said,*In I Sent*., d. 5, q. 1, a. 1. signifies a personal act. But the Master says in the text*Sent*. I, 27.1(113).3. that he is the Father because he has begotten. Therefore it seems that generation, according to concept, precedes the Father’s relation.  
 
@@ -112,7 +114,7 @@ Article 1
 
 ***Whether “word” is said properly in the divine***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.34.2; *Disputed Questions on Truth*, q. 4, a. 3; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 12; *Commentary on Hebrews*, ch. 1, lect. 2. It seems that “word” is not said properly in the divine.***
+To the first we proceed as follows.Parallel texts: *ST* I.34.2; *Disputed Questions on Truth*, q. 4, a. 3; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), ch. 12; *Commentary on Hebrews*, ch. 1, lect. 2. It seems that “word” is not said properly in the divine.  
 
 Obj. 1: For every name that signifies a bodily activity cannot belong to God except metaphorically. But “word” (*verbum*) is of this sort, for it is derived from the vibration (*reverberatione*) of the air, as Priscianus says.Priscianus, *Institutiones grammaticae*, bk. 8, “De verbo.” Therefore “word” is not said properly of God.  
 
@@ -152,11 +154,11 @@ Reply Obj. 4: The divine intellect does not understand its own essence through a
 
 Article 2  
 
-***Whether “word” is said personally and, if so, whether only the Son should be called “word”***
+Whether “word” is said personally and, if so, whether only the Son should be called “word”  
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.34.1; I-II.93.1, ad 2; *On the Power of God*, q. 9, a. 9, ad 7; *On Truth*, q. 4, a. 2; q. 4, a. 4, ad 4. It seems that “word” is not said personally.***
+To the second we proceed as follows.Parallel texts: *ST* I.34.1; I-II.93.1, ad 2; *On the Power of God*, q. 9, a. 9, ad 7; *On Truth*, q. 4, a. 2; q. 4, a. 4, ad 4. It seems that “word” is not said personally.  
 
 Obj. 1: For Augustine says that the word that *we intend to hold in our breast is a knowledge with love*.Augustine, *On the Trinity*, bk. 9, ch. 10 (CCSL 50; PL 42:969). But “knowledge” is said essentially. Therefore so is “word.”  
 
@@ -174,7 +176,7 @@ Furthermore (7), as was said in the previous article, “word” signifies the o
 
 Quaestiuncula 2  
 
-***Moreover, about this one asks, if “word” is said personally, whether only the Son should be called “word.”Parallel text: *ST* I.34.2. It seems not.***
+Moreover, about this one asks, if “word” is said personally, whether only the Son should be called “word.”Parallel text: *ST* I.34.2. It seems not.  
 
 Obj. 1: It seems not since just as the Son goes forth from the Father as manifesting him, so does the Holy Spirit. Therefore the account of a word belongs to each of them equally.  
 
@@ -186,7 +188,7 @@ On the contrary, Augustine saysAugustine, *On the Trinity*, bk. 15, ch. 17 (CCSL
 
 Response to Quaestiuncula 1  
 
-***I answer that there are diverse opinions about this. For some say that “speech” is said of God in three ways: for sometimes to speak is the same as to understand, and then it is essential; but sometimes to speak is the same as to generate, and then it is notional; whereas sometimes to speak is the same as to create, and then to speak connotes a reference to what is created, and is essential. Therefore they say that a word corresponds to this act only according to the second manner of speaking, and therefore, although “to speak” is said essentially and personally, still “word” is said only personally. But this does not seem true, since it is not intelligible that something is spoken and yet is not a word. Whence as often as one is said to understand, a word must also be said.***
+I answer that there are diverse opinions about this. For some say that “speech” is said of God in three ways: for sometimes to speak is the same as to understand, and then it is essential; but sometimes to speak is the same as to generate, and then it is notional; whereas sometimes to speak is the same as to create, and then to speak connotes a reference to what is created, and is essential. Therefore they say that a word corresponds to this act only according to the second manner of speaking, and therefore, although “to speak” is said essentially and personally, still “word” is said only personally. But this does not seem true, since it is not intelligible that something is spoken and yet is not a word. Whence as often as one is said to understand, a word must also be said.  
 
 Others said that to speak is universally nothing other than to manifest one’s intellect. Now, a man can manifest his intellect to another, like by a vocal word, or even to his very self, by the word of the heart. Thus, they say that in both ways God manifests his intellect: by establishing a creature, which is his word as though a vocal word; and by generating a Son, insofar as he manifests himself within himself, and this is the same as the word of the heart. Whence they say that the “word” said of God is always personal.  
 
@@ -214,7 +216,7 @@ Reply Sed Contra 7: All the things that were saidThat is, the things that “wor
 
 Response to Quaestiuncula 2  
 
-***To what was further asked, one should say that, if “word” is taken personally, it belongs to the Son alone, and not to the Holy Spirit. For the Holy Spirit proceeds through the mode of the will, so it is properly called “love,” and “gift,” whereas to proceed through the mode of nature or intellect belongs to the Son. And therefore he is properly called both “begotten” and “Word.”***
+To what was further asked, one should say that, if “word” is taken personally, it belongs to the Son alone, and not to the Holy Spirit. For the Holy Spirit proceeds through the mode of the will, so it is properly called “love,” and “gift,” whereas to proceed through the mode of nature or intellect belongs to the Son. And therefore he is properly called both “begotten” and “Word.”  
 
 Reply Obj. 1: For the account of a word, there is required not only the ability to manifest, since then the effect of every cause would be a word, which can be said only metaphorically. Rather, a procession of the intellect must also be understood in that word, and this does not befit the Holy Spirit.  
 
@@ -226,7 +228,7 @@ Article 3
 
 ***Whether “word” always signifies a reference to what is created***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.34.3; I.37.2, ad 3; *On Truth*, q. 4, a. 5; *Quodl. IV*, q. 4, a. 1, ad 1. It seems that “word” always signifies a reference to what is created.***
+To the third we proceed as follows.Parallel texts: *ST* I.34.3; I.37.2, ad 3; *On Truth*, q. 4, a. 5; *Quodl. IV*, q. 4, a. 1, ad 1. It seems that “word” always signifies a reference to what is created.  
 
 Obj. 1: For as Augustine says, *he spoke and they were made—that is, he begot the Word, in whom was creation such that it might come to be*.See Augustine, *On the Literal Interpretation of Genesis*, bk. 1, ch. 2; bk. 2, cc. 6–8; bk. 3, ch. 20 (CSEL 28.1:6, 40–42, 87; PL 34:248, 267–69, 292–93). But through this reference to what is created is indicated. Therefore it seems that “word” signifies a reference to what is created.  
 
@@ -260,6 +262,6 @@ Reply Sed Contra 6: Every creature brought about is common to the entire Trinity
 
 Exposition of the text  
 
-****And so divine nature, if it is the Father, begot the Son*.*Sent*. I, 27.1(113).2. This does not follow, since even though according to reality the Father and the generation are the same, still the word “generation” signifies that property as inhering to and determining that of which it is said. And therefore, because the essence is not determined by a property, one does not say that the essence generates. But “Father” signifies this same property, but as subsisting through itself, and so on account of the real identity one says that the essence is the Father.***
+*And so divine nature, if it is the Father, begot the Son*.*Sent*. I, 27.1(113).2. This does not follow, since even though according to reality the Father and the generation are the same, still the word “generation” signifies that property as inhering to and determining that of which it is said. And therefore, because the essence is not determined by a property, one does not say that the essence generates. But “Father” signifies this same property, but as subsisting through itself, and so on account of the real identity one says that the essence is the Father.  
 
 *They differ from each other*.*Sent*. I, 27.3(115).1. Difference is not properly speaking in the divine, since it is opposed to likeness, just as diversity is opposed to unity. Nonetheless, here it is being taken broadly as meaning “distinction.”

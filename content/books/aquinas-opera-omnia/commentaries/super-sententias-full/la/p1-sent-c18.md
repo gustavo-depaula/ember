@@ -1,8 +1,10 @@
 # D. 17 - Invisible Sending of the Holy Spirit
 
+***De missione invisibili Spiritus Sancti***
+
 ***Divisio primae partis textus***
 
-***Postquam determinavit de missione visibili Spiritus Sancti, hic determinat de missione ejus invisibili; et dividitur in duas partes: in prima determinat veritatem, secundum suam opinionem; secundo, determinat objectiones in contrarium factas, ibi: *hic quaeritur, si caritas Spiritus Sanctus est, cum ipsa augeatur et minuatur in homine . . . , utrum concedendum sit quod Spiritus Sanctus augeatur vel minuatur in homine*.***
+Postquam determinavit de missione visibili Spiritus Sancti, hic determinat de missione ejus invisibili; et dividitur in duas partes: in prima determinat veritatem, secundum suam opinionem; secundo, determinat objectiones in contrarium factas, ibi: *hic quaeritur, si caritas Spiritus Sanctus est, cum ipsa augeatur et minuatur in homine . . . , utrum concedendum sit quod Spiritus Sanctus augeatur vel minuatur in homine*.  
 
 Circa primum tria facit: in prima praedicit intentionem; in secunda proponit veritatem, ibi: *hoc autem ut intelligibilius doceri ac plenius perspici valeat, praemittendum est quiddam ad hoc valde necessarium*; in tertia inducit probationem, ibi: *ne autem in re tanta aliquid de nostro influere videamur, sacris auctoritatibus, quod dictum est, corroboremus*.  
 
@@ -112,7 +114,7 @@ Articulus 3
 
 ***Utrum caritas detur secundum capacitatem naturalium***
 
-***Ad tertium sic proceditur. Videtur quod caritas detur secundum capacitatem naturalium.***
+Ad tertium sic proceditur. Videtur quod caritas detur secundum capacitatem naturalium.  
 
 Ita dicitur Matth. 25:15: *dedit unicuique secundum propriam virtutem*; ubi glossa Hieronymi: *non pro largitate vel parcitate, alii plus vel minus recipiunt; sed secundum virtutem recipientium*.Mandonnet asserts that the quote from Jerome should read instead: *non pro largitate et parcitate alteri plus et alteri minus tribuens, sed pro accipientium viribus*. Sed ante adventum caritatis non intelligitur nisi virtus quae est secundum naturalia. Ergo videtur quod secundum capacitatem naturalium caritas infundatur.  
 
@@ -144,7 +146,7 @@ Articulus 4
 
 ***Utrum caritas certitudinaliter ab habente cognoscatur***
 
-***Ad quartum sic proceditur. Videtur quod caritas certitudinaliter ab habente cognoscatur.***
+Ad quartum sic proceditur. Videtur quod caritas certitudinaliter ab habente cognoscatur.  
 
 Ita enim dicitur in littera: *magis novit quis dilectionem qua diligit, quam fratrem quem diligit*. Sed fratrem suum certitudinaliter cognoscit. Ergo multo magis caritatem qua ipsum diligit.  
 
@@ -214,7 +216,7 @@ Ad quartum dicendum, quod actus dilectionis, secundum quod tendit in alterum, co
 
 Expositio primae partis textus  
 
-****Consequens est ut ipsam praecipue*Al.: *ut ipsa praedicata*, etc. *dilectionem diligat*. Hoc intelligitur et de dilectione creata et increata. Qui enim diligit aliquem vult se diligere illum; et ita actum dilectionis suae diligit; et in ipso diligitur ipsa dilectio increata; sicut exemplar in exemplato, quia nihil est bonum vel diligibile, nisi secundum quod est in eo similitudo boni increati.***
+*Consequens est ut ipsam praecipue*Al.: *ut ipsa praedicata*, etc. *dilectionem diligat*. Hoc intelligitur et de dilectione creata et increata. Qui enim diligit aliquem vult se diligere illum; et ita actum dilectionis suae diligit; et in ipso diligitur ipsa dilectio increata; sicut exemplar in exemplato, quia nihil est bonum vel diligibile, nisi secundum quod est in eo similitudo boni increati.  
 
 *Magis enim novit dilectionem qua diligit, quam fratrem quem diligit*. Totum quod sequitur de certitudine dilectionis, sive de habitu creato intelligatur sive de dilectione increata, exponitur secundum quod aliquid dicitur certum ex se, et non ex parte cognoscentis. Sed actus dilectionis etiam ex parte cognoscentis notus est. Sed utrum ex tali habitu procedat, incertum est.  
 
@@ -230,7 +232,7 @@ Expositio primae partis textus
 
 Divisio secundae partis textus  
 
-****Hic quaeritur, si caritas Spiritus Sanctus est, cum ipsa augeatur et minuatur in homine, utrum concedendum sit quod Spiritus Sanctus augeatur vel minuatur in homine*. In parte ista Magister objicit contra praedeterminata, et dividitur in partes duas: in prima objicit per rationem; in secunda per auctoritates, ibi: *supra dictum est, quod Spiritus Sanctus caritas est Patris et Filii*.***
+*Hic quaeritur, si caritas Spiritus Sanctus est, cum ipsa augeatur et minuatur in homine, utrum concedendum sit quod Spiritus Sanctus augeatur vel minuatur in homine*. In parte ista Magister objicit contra praedeterminata, et dividitur in partes duas: in prima objicit per rationem; in secunda per auctoritates, ibi: *supra dictum est, quod Spiritus Sanctus caritas est Patris et Filii*.  
 
 Prima in tres: primo ponit objectionem; secundo responsionem ibi: *his itaque respondemus dicentes, quod Spiritus Sanctus, sive caritas, penitus immutabilis est*; tertio responsionis confirmationem, ibi: *ut autem certius fiat quod diximus, auctoritate confirmamus*. Objectio autem est duplex, ut patet in littera, et similiter solutio.  
 
@@ -388,7 +390,7 @@ Articulus 4
 
 ***Utrum augmentum caritatis habeat aliquem terminum***
 
-***Ad quartum sic proceditur. Videtur quod augmentum caritatis habeat aliquem terminum.***
+Ad quartum sic proceditur. Videtur quod augmentum caritatis habeat aliquem terminum.  
 
 Perfectio enim non excedit capacitatem perfectibilis. Sed capacitas animae finita est. Ergo non potest recipere nisi perfectionem finitam. Sed omnis motus qui est ad finitum finitus est. Ergo augmentum caritatis, quod est ad perfectionem animae, est finitum.  
 
@@ -452,7 +454,7 @@ Ad quartum dicendum, quod dispositio ad caritatem est secundum actus inferiorum 
 
 Expositio secundae partis textus  
 
-****Sicut Deus dicitur magnificari et exaltari in nobis*, inquantum scilicet magnos nos et altos in se facit: quod non potest esse, nisi secundum ampliorem perceptionem bonitatis ipsius; et ideo oportet redire in hoc quod aliquod creatum a Deo in nobis ponatur.***
+*Sicut Deus dicitur magnificari et exaltari in nobis*, inquantum scilicet magnos nos et altos in se facit: quod non potest esse, nisi secundum ampliorem perceptionem bonitatis ipsius; et ideo oportet redire in hoc quod aliquod creatum a Deo in nobis ponatur.  
 
 *Sunt tamen multi qui eum non habent*. Illi enim eum tantum habere dicuntur quorum est ut hereditas, qui ipso fruuntur vel in spe in vel re.  
 

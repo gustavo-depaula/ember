@@ -1,5 +1,7 @@
 # Sermon
 
+***Osanna*** etc. In verbis istis tria considerare possumus ad laudem Salvatoris nostri:  
+
 primo Salvatoris nostri officium;  
 
 secundo originis privilegium;  

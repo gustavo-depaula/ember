@@ -1,5 +1,7 @@
 # Pr. (31:40) - Genesis 31:40
 
+***Genesis 31:40***
+
 ***^31:40^ Die noctuque aestu urebar, et gelu, fugiebatque somnus ab oculis meis.***
 
 > **1**. Verba sunt Iacob ostendentis et commendantis curam pastoralem, ac pastorale officium, in quibus, circa hoc officium, tria ponuntur, scilicet assiduitas, patientia, sollicitudo.

@@ -1,10 +1,12 @@
 # C. 1 - Hope for the Final Judgment
 
+***Hope for the Final Judgment***
+
 ***Lecture 1***
 
 ***Thanksgiving for the Thessalonians***
 
-***^1:1^ Paul and Sylvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ, [n. 4]***
+^1:1^ Paul and Sylvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ, [n. 4]  
 
 > ^1:2^ Grace unto you: and peace from God our Father and from the Lord Jesus Christ. [n. 7]
 
@@ -64,7 +66,7 @@ Lecture 2
 
 ***The coming judgment***
 
-***^1:6^ If nonetheless it is just with God to repay tribulation to those who trouble you: [n. 12]***
+^1:6^ If nonetheless it is just with God to repay tribulation to those who trouble you: [n. 12]  
 
 > ^1:7^ And to you who are troubled, rest with us, when the Lord Jesus shall be revealed from heaven with the angels of his power,
 

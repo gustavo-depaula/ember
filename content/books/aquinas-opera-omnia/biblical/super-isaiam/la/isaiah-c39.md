@@ -1,5 +1,7 @@
 # Chapter 37
 
+^37:1^ Et factum est cum audisset rex Ezechias scidit vestimenta sua et obvolutus est sacco et intravit in domum Domini.  
+
 > ^37:2^ Et misit Eliacim qui erat super domum, et Sobnam scribam et seniores de sacerdotibus opertos saccis ad Isaiam filium Amos propheta.
 
 > ^37:3^ Et dixerunt ad eum: hæc dicit Ezechias: dies tribulationis et angustiae et correptionis et blasphemiæ dies hæc, quia venerunt filii usque ad partum, et virtus non est pariendi.

@@ -1,6 +1,6 @@
 # D. 39 - On mixed marriages
 
-***Postquam determinavit Magister de impedimentis matrimonii quae faciunt personam illegitimam simpliciter respectu cujuslibet personae, hic determinat de impedimento quod facit eam illegitimam respectu aliquarum personarum, et non respectu omnium; et dividitur in duas: in prima determinat de impedimento quod facit personam illegitimam respectu alicujus alterius personae propter distantiam ab ipsa, scilicet de disparitate cultus; in secunda determinat de impedimento quod facit illegitimam personam respectu alterius personae propter propinquitatem ad eam, 40 dist., ibi: *nunc superest de cognatione aliquid dicere*.***
+Postquam determinavit Magister de impedimentis matrimonii quae faciunt personam illegitimam simpliciter respectu cujuslibet personae, hic determinat de impedimento quod facit eam illegitimam respectu aliquarum personarum, et non respectu omnium; et dividitur in duas: in prima determinat de impedimento quod facit personam illegitimam respectu alicujus alterius personae propter distantiam ab ipsa, scilicet de disparitate cultus; in secunda determinat de impedimento quod facit illegitimam personam respectu alterius personae propter propinquitatem ad eam, 40 dist., ibi: *nunc superest de cognatione aliquid dicere*.  
 
 Prima in duas: in prima determinat de matrimonio quod est in disparitate cultus fidelis ad infidelem; in secunda de matrimonio quod est inter duos infideles, ibi: *sunt tamen nonnulli qui inter infideles asserunt non esse conjugium*.  
 
@@ -27,7 +27,7 @@ primo, utrum aliquis fidelis possit contrahere matrimonium cum infideli;
 
 ***Utrum aliquis fidelis possit contrahere matrimonium cum infideli***
 
-***Ad primum sic proceditur. Videtur quod fidelis possit matrimonium cum infideli contrahere. Quia Joseph contraxit cum Aegyptia, et Esther cum Assuero. In utroque autem matrimonio fuit disparitas cultus: quia alter erat fidelis, alter infidelis. Ergo disparitas cultus praecedens matrimonium, ipsum non impedit.***
+Ad primum sic proceditur. Videtur quod fidelis possit matrimonium cum infideli contrahere. Quia Joseph contraxit cum Aegyptia, et Esther cum Assuero. In utroque autem matrimonio fuit disparitas cultus: quia alter erat fidelis, alter infidelis. Ergo disparitas cultus praecedens matrimonium, ipsum non impedit.  
 
 Praeterea, eadem est fides quam docet vetus lex et nova lex. Sed secundum veterem legem poterat esse matrimonium inter fidelem et infidelem, ut patet Deut. 21, 10: *si egressus ad pugnam . . . videris mulierem pulchram in medio captivorum, et adamaveris eam . . . introeas ad eam dormiens cum ea, et erit tibi uxor*. Ergo et in nova lege licet.  
 
@@ -57,7 +57,7 @@ Articulus 2
 
 ***Utrum inter infideles sit matrimonium***
 
-***Ad secundum sic proceditur. Videtur quod inter infideles non possit esse matrimonium. Matrimonium enim est sacramentum Ecclesiae. Sed baptismus est janua sacramentorum. Ergo infideles, qui non sunt baptizati, matrimonium contrahere non possunt, sicut nec alia sacramenta suscipere.***
+Ad secundum sic proceditur. Videtur quod inter infideles non possit esse matrimonium. Matrimonium enim est sacramentum Ecclesiae. Sed baptismus est janua sacramentorum. Ergo infideles, qui non sunt baptizati, matrimonium contrahere non possunt, sicut nec alia sacramenta suscipere.  
 
 Praeterea, duo mala sunt magis impeditiva boni quam unum. Sed infidelitas unius tantum impedit matrimonii bonum. Ergo multo fortius infidelitas utriusque; et ita inter infideles non potest esse matrimonium.  
 
@@ -85,9 +85,9 @@ Ad quintum dicendum, quod infidelis cognoscens uxorem suam, non peccat, si propt
 
 Articulus 3  
 
-***Utrum si alter conjugum infidelium convertatur ad fidem sine altero, possit in eodem matrimonio commanere***
+Utrum si alter conjugum infidelium convertatur ad fidem sine altero, possit in eodem matrimonio commanere  
 
-***Ad tertium sic proceditur. Videtur quod conjux conversus ad fidem non possit commanere cum uxore infideli nolente converti, cum qua in infidelitate contraxerat. Ubi enim est idem periculum, debet eadem cautela adhiberi. Sed propter periculum subversionis fidei prohibetur ne fidelis cum infideli contrahat. Cum ergo idem periculum sit, si fidelis commaneat cum infideli, cum qua prius contraxerat, et adhuc majus, quia neophiti facilius pervertuntur quam illi qui sunt nutriti in fide; videtur quod fidelis post conversionem non possit commanere cum uxore infideli.***
+Ad tertium sic proceditur. Videtur quod conjux conversus ad fidem non possit commanere cum uxore infideli nolente converti, cum qua in infidelitate contraxerat. Ubi enim est idem periculum, debet eadem cautela adhiberi. Sed propter periculum subversionis fidei prohibetur ne fidelis cum infideli contrahat. Cum ergo idem periculum sit, si fidelis commaneat cum infideli, cum qua prius contraxerat, et adhuc majus, quia neophiti facilius pervertuntur quam illi qui sunt nutriti in fide; videtur quod fidelis post conversionem non possit commanere cum uxore infideli.  
 
 Praeterea, causa 28, qu. 1, dicitur: *non potest infidelis in ejus conjunctione permanere quae jam in Christianam translata est fidem*. Ergo fidelis habet necesse uxorem infidelem dimittere.  
 
@@ -117,7 +117,7 @@ Articulus 4
 
 ***Utrum possit uxorem infidelem relinquere***
 
-***Ad quartum sic proceditur. Videtur quod fidelis conversus non possit uxorem infidelem dimittere, volentem cohabitare sine contumelia Creatoris. Majus enim est vinculum viri ad mulierem quam servi ad dominum. Sed servus conversus non absolvitur a vinculo servitutis, ut patet 1 Cor. 7, et 1 Timoth. 6. Ergo et vir fidelis non potest uxorem infidelem dimittere.***
+Ad quartum sic proceditur. Videtur quod fidelis conversus non possit uxorem infidelem dimittere, volentem cohabitare sine contumelia Creatoris. Majus enim est vinculum viri ad mulierem quam servi ad dominum. Sed servus conversus non absolvitur a vinculo servitutis, ut patet 1 Cor. 7, et 1 Timoth. 6. Ergo et vir fidelis non potest uxorem infidelem dimittere.  
 
 Praeterea, nullus potest alteri praejudicium facere sine ejus consensu. Sed uxor infidelis habebat jus in corpore viri infidelis. Si ergo per hoc quod vir ad fidem convertitur, mulier praejudicium pati posset, ut libere dimitteretur; non posset vir converti ad fidem sine consensu uxoris, sicut nec potest ordinari, aut vovere continentiam, sine consensu uxoris.  
 
@@ -147,7 +147,7 @@ Articulus 5
 
 ***Utrum ea dimissa possit aliam ducere***
 
-***Ad quintum sic proceditur. Videtur quod fidelis discedens ab uxore infideli, non possit aliam ducere in uxorem. Quia insolubilitas matrimonii est de ratione ipsius, cum repudium uxoris sit contra legem naturae, ut supra, distinc. 33, qu. 1, art. 1, dictum est. Sed inter infideles erat verum matrimonium. Ergo nullo modo potest illud matrimonium solvi. Sed manente vinculo matrimonii ad unam, non potest aliquis cum alia contrahere. Ergo fidelis discedens non potest cum alia contrahere.***
+Ad quintum sic proceditur. Videtur quod fidelis discedens ab uxore infideli, non possit aliam ducere in uxorem. Quia insolubilitas matrimonii est de ratione ipsius, cum repudium uxoris sit contra legem naturae, ut supra, distinc. 33, qu. 1, art. 1, dictum est. Sed inter infideles erat verum matrimonium. Ergo nullo modo potest illud matrimonium solvi. Sed manente vinculo matrimonii ad unam, non potest aliquis cum alia contrahere. Ergo fidelis discedens non potest cum alia contrahere.  
 
 Praeterea, crimen superveniens matrimonio non solvit matrimonium. Sed si mulier velit cohabitare sine contumelia Creatoris, non est solutum vinculum matrimonii; quia vir non potest aliam ducere. Ergo peccatum uxoris quae non vult cohabitare sine contumelia Creatoris, non solvit matrimonium, ut possit libere vir aliam uxorem ducere.  
 
@@ -175,9 +175,9 @@ Ad quintum dicendum, quod vinculum paternitatis non solvitur per disparem cultum
 
 Articulus 6  
 
-***Utrum propter alia peccata vir possit dimittere uxorem, sicut propter infidelitatem***
+Utrum propter alia peccata vir possit dimittere uxorem, sicut propter infidelitatem  
 
-***Ad sextum sic proceditur. Videtur quod alia vitia solvant matrimonium, sicut et infidelitas. Adulterium enim directius videtur esse contra matrimonium quam infidelitas. Sed infidelitas in aliquo casu solvit matrimonium, ut liceat ad aliud matrimonium transire. Ergo et adulterium idem facit.***
+Ad sextum sic proceditur. Videtur quod alia vitia solvant matrimonium, sicut et infidelitas. Adulterium enim directius videtur esse contra matrimonium quam infidelitas. Sed infidelitas in aliquo casu solvit matrimonium, ut liceat ad aliud matrimonium transire. Ergo et adulterium idem facit.  
 
 Praeterea, sicut infidelitas est fornicatio spiritualis, ita etiam quodlibet peccatum. Si ergo propter hoc infidelitas matrimonium solvit, quia est fornicatio spiritualis, quodlibet aliud peccatum matrimonium solvit pari ratione.  
 
@@ -205,6 +205,6 @@ Ad quintum dicendum, quod verba Magistri sunt accipienda de sponsalibus: quia pr
 
 Expositio textus  
 
-****Et alienigenam*, *idest haereticam*. Crimen haeresis impedit matrimonium semper contrahendum; sed non dirimit contractum, nisi sit talis haeretica quae baptismi sacramentum non acceperit, aut non in forma Ecclesiae fuerit baptizata.***
+*Et alienigenam*, *idest haereticam*. Crimen haeresis impedit matrimonium semper contrahendum; sed non dirimit contractum, nisi sit talis haeretica quae baptismi sacramentum non acceperit, aut non in forma Ecclesiae fuerit baptizata.  
 
 *Si ambo crediderunt, per agnitionem Dei confirmatur conjugium*. Sed contra. Si mulier ante conversionem fuerit fornicata, tenebitur eam vir recipere, etiam si converti voluerit, ut videtur. Et dicendum, quod si mulier conversa repetat virum suum conversum, vir non potest excipere contra eam de fornicatione prius commissa, si ipse occasionem fornicationi dedit; puta, si noluit cohabitare ei volenti cohabitare sine contumelia Creatoris; alias potest excipere; et tamen ratificatur matrimonium, ita quod ulterius non possit solvi quantum ad vinculum, ut viro liceat aliam uxorem ducere, quamvis possit solvi quantum ad actum.

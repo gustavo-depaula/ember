@@ -1,6 +1,8 @@
 # C. 41 - Ishmael’s treachery
 
-***^41:1^ Et factum est in mense septimo, venit Ismahel filius Nathaniae filii Elisama de semine regali, et optimates regis, et decem viri cum eo ad Godoliam filium Ahicam in Masphath, et comederunt ibi panes simul in Masphath.***
+***Lectio 1***
+
+^41:1^ Et factum est in mense septimo, venit Ismahel filius Nathaniae filii Elisama de semine regali, et optimates regis, et decem viri cum eo ad Godoliam filium Ahicam in Masphath, et comederunt ibi panes simul in Masphath.  
 
 > ^41:2^ Surrexit autem Ismahel filius Nathaniae, et decem viri qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum quem praefecerat rex Babylonis terrae.
 
@@ -52,13 +54,13 @@ Tertio ponit quorumdam liberationem, propter promissionem divitiarum quas se hab
 
 Lectio 3  
 
-***^41:9^ Lacus autem in quem projecerat Ismahel omnia cadavera virorum quos percussit propter Godoliam, ipse est quem fecit rex Asa propter Baasa regem Israel: ipsum replevit Ismahel filius Nathaniae occisis.***
+^41:9^ Lacus autem in quem projecerat Ismahel omnia cadavera virorum quos percussit propter Godoliam, ipse est quem fecit rex Asa propter Baasa regem Israel: ipsum replevit Ismahel filius Nathaniae occisis.  
 
 > **211**. Hic ponit cadaverum intumulationem, ***Asa rex***. 3 Reg. 16: dicitur, quod Asa fecit construi Gabaa Beniamin in Masphat, de his quae praeparaverat Baasa ad aedificandum contra ipsum Rama: et forte fecit in munitionem loci cisternam aliquam. Psal. 87: *aestimatus sum cum descendentibus in lacum, factus sum sine adiutorio inter mortuos liber*.
 
 Lectio 4  
 
-***^41:10^ Et captivas duxit Ismahel omnes reliquias populi qui erant in Masphath, filias regis, et universum populum qui remanserat in Masphath, quos commendaverat Nabuzardan, princeps militiae Godoliae filio Ahicam. Et cepit eos Ismahel filius Nathaniae, et abiit ut transiret ad filios Ammon.***
+^41:10^ Et captivas duxit Ismahel omnes reliquias populi qui erant in Masphath, filias regis, et universum populum qui remanserat in Masphath, quos commendaverat Nabuzardan, princeps militiae Godoliae filio Ahicam. Et cepit eos Ismahel filius Nathaniae, et abiit ut transiret ad filios Ammon.  
 
 > ^41:11^ Audivit autem Johanan filius Caree, et omnes principes bellatorum, qui erant cum eo, omne malum quod fecerat Ismahel filius Nathaniae:
 

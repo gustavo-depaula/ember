@@ -1,6 +1,8 @@
 # D. 35 - On fornication
 
-***Postquam determinavit de impotentia coeundi, quae actum matrimonii impedit, hic determinat de separatione a toro propter peccatum fornicationis, quae similiter actum matrimonii tollit vinculo matrimoniali durante; et dividitur in partes duas: in prima ostendit quomodo adulterium sequens matrimonium tollit actum matrimonii vinculo matrimoniali durante; in secunda ostendit quomodo adulterium praecedens matrimonium, etiam matrimoniale vinculum tollit, ibi: *solet etiam quaeri, an valeat duci in conjugium quae prius est polluta per adulterium*.***
+***De fornicatione***
+
+Postquam determinavit de impotentia coeundi, quae actum matrimonii impedit, hic determinat de separatione a toro propter peccatum fornicationis, quae similiter actum matrimonii tollit vinculo matrimoniali durante; et dividitur in partes duas: in prima ostendit quomodo adulterium sequens matrimonium tollit actum matrimonii vinculo matrimoniali durante; in secunda ostendit quomodo adulterium praecedens matrimonium, etiam matrimoniale vinculum tollit, ibi: *solet etiam quaeri, an valeat duci in conjugium quae prius est polluta per adulterium*.  
 
 Prima in duas: in prima ostendit quando licet uxorem dimittere propter fornicationem; in secunda inquirit, utrum dimittere sit necessitatis, an liceat ei eam retinere, ibi: *dicit tamen Joannes Chrysostomus*, etc.  
 
@@ -25,7 +27,7 @@ primo, utrum liceat viro uxorem dimittere causa fornicationis;
 
 ***Utrum liceat viro uxorem dimittere causa fornicationis***
 
-***Ad primum sic proceditur. Videtur quod propter fornicationem non liceat viro uxorem dimittere. Non enim pro malo est malum reddendum. Sed vir dimittens uxorem propter fornicationem, videtur malum pro malo reddere. Ergo hoc non licet.***
+Ad primum sic proceditur. Videtur quod propter fornicationem non liceat viro uxorem dimittere. Non enim pro malo est malum reddendum. Sed vir dimittens uxorem propter fornicationem, videtur malum pro malo reddere. Ergo hoc non licet.  
 
 Praeterea, majus peccatum est si uterque fornicetur quam si alter tantum. Sed si uterque fornicetur, non poterit fieri divortium propter hoc. Ergo nec si unus tantum fornicatus fuerit.  
 
@@ -51,7 +53,7 @@ Articulus 2
 
 ***Utrum ad hoc teneatur***
 
-***Ad secundum sic proceditur. Videtur quod vir teneatur ex praecepto uxorem fornicantem dimittere. Vir enim, cum sit caput uxoris, tenetur uxorem corrigere. Sed separatio a toro est inducta ad correctionem uxoris fornicantis. Ergo tenetur eam a se separare.***
+Ad secundum sic proceditur. Videtur quod vir teneatur ex praecepto uxorem fornicantem dimittere. Vir enim, cum sit caput uxoris, tenetur uxorem corrigere. Sed separatio a toro est inducta ad correctionem uxoris fornicantis. Ergo tenetur eam a se separare.  
 
 Praeterea, qui consentit peccanti mortaliter, ipse etiam mortaliter peccat. Sed retinens uxorem fornicantem, videtur consentire ei, ut in littera dicitur. Ergo peccat, nisi eam a se ejiciat.  
 
@@ -81,7 +83,7 @@ Articulus 3
 
 ***Utrum possit dimittere proprio judicio, vel judicium Ecclesiae requiratur***
 
-***Ad tertium sic proceditur. Videtur quod proprio judicio potest vir uxorem fornicantem dimittere. Sententiam enim a judice latam absque alio judicio exequi licet. Sed Deus justus judex dedit hanc sententiam, ut propter fornicationem vir uxorem dimittere possit. Ergo non requiritur ad hoc aliud judicium.***
+Ad tertium sic proceditur. Videtur quod proprio judicio potest vir uxorem fornicantem dimittere. Sententiam enim a judice latam absque alio judicio exequi licet. Sed Deus justus judex dedit hanc sententiam, ut propter fornicationem vir uxorem dimittere possit. Ergo non requiritur ad hoc aliud judicium.  
 
 Praeterea, Matth. 1, dicitur, quod Joseph, cum esset justus, cogitavit occulte dimittere Mariam. Ergo videtur quod occulte vir possit divortium celebrare absque Ecclesiae judicio.  
 
@@ -115,7 +117,7 @@ Articulus 4
 
 ***Utrum vir et uxor quantum ad hoc sint aequalis conditionis***
 
-***Ad quartum sic proceditur. Videtur quod vir et uxor non debeant in causa divortii ad paria judicari. Divortium enim conceditur in lege nova loco repudii, quod erat in lege veteri, ut patet Matth. 5. Sed in repudio vir et uxor non judicabantur ad paria: quia vir poterat repudiare uxorem, et non e converso. Ergo nec in divortio debent ad paria judicari.***
+Ad quartum sic proceditur. Videtur quod vir et uxor non debeant in causa divortii ad paria judicari. Divortium enim conceditur in lege nova loco repudii, quod erat in lege veteri, ut patet Matth. 5. Sed in repudio vir et uxor non judicabantur ad paria: quia vir poterat repudiare uxorem, et non e converso. Ergo nec in divortio debent ad paria judicari.  
 
 Praeterea, plus est contra legem naturae quod uxor plures viros habeat quam quod vir plures mulieres: unde hoc quandoque licuit, illud vero nunquam, ut supra, dist. 33, quaest. 1, art. 1, ad 7, dictum est. Ergo plus peccat mulier in adulterio quam vir; et ita non debent ad paria judicari.  
 
@@ -143,7 +145,7 @@ Articulus 5
 
 ***Utrum post divortium debeant manere innupti***
 
-***Ad quintum sic proceditur. Videtur quod post divortium vir alteri nubere possit. Nullus enim tenetur ad perpetuam continentiam. Sed vir in aliquo casu tenetur uxorem fornicantem in perpetuum a se separare, ut patet ex dictis. Ergo videtur quod ad minus in tali casu alteram ducere possit.***
+Ad quintum sic proceditur. Videtur quod post divortium vir alteri nubere possit. Nullus enim tenetur ad perpetuam continentiam. Sed vir in aliquo casu tenetur uxorem fornicantem in perpetuum a se separare, ut patet ex dictis. Ergo videtur quod ad minus in tali casu alteram ducere possit.  
 
 Praeterea, peccanti non est danda major occasio peccandi. Sed si ei qui propter fornicationis culpam dimittitur, non licet aliam copulam quaerere, datur sibi major occasio peccandi: non enim est probabile ut qui in matrimonio non continuit, postea continere possit. Ergo videtur quod liceat ei ad aliam copulam transire.  
 
@@ -169,7 +171,7 @@ Articulus 6
 
 ***Utrum post divortium vir et uxor possint reconciliari***
 
-***Ad sextum sic proceditur. Videtur quod post divortium vir et uxor non possint reconciliari. Regula est enim in jure: *quod semel bene definitum est, nulla debet iteratione retractari*. Sed judicio Ecclesiae definitum est quod debent separari. Ergo non possunt reconciliari ulterius.***
+Ad sextum sic proceditur. Videtur quod post divortium vir et uxor non possint reconciliari. Regula est enim in jure: *quod semel bene definitum est, nulla debet iteratione retractari*. Sed judicio Ecclesiae definitum est quod debent separari. Ergo non possunt reconciliari ulterius.  
 
 Praeterea, si posset esse reconciliatio, praecipue videretur quod post poenitentiam uxoris vir teneatur eam recipere. Sed non tenetur; quia etiam uxor non potest per exceptionem proponere in judicio poenitentiam suam contra virum accusantem de fornicatione. Ergo nullo modo potest esse reconciliatio.  
 
@@ -197,6 +199,6 @@ Ad quintum dicendum, quod si adulterium viri sit occultum, per hoc non aufertur 
 
 Expositio textus  
 
-****Patronus est turpitudinis qui celat crimen uxoris*. Contra, Prov. 11, 13: *fidelis est qui celat crimen amici*. Et dicendum, quod hoc intelligitur quando celatio non est in praejudicium correctionis; alias celans patrocinium turpitudini praestat.***
+*Patronus est turpitudinis qui celat crimen uxoris*. Contra, Prov. 11, 13: *fidelis est qui celat crimen amici*. Et dicendum, quod hoc intelligitur quando celatio non est in praejudicium correctionis; alias celans patrocinium turpitudini praestat.  
 
 *Solet quaeri, an valeat duci in conjugium quae prius est polluta per adulterium*. Sciendum, quod plura sunt crimina quae propter sui enormitatem impediunt matrimonium contrahendum. Primum est incestus; secundum, uxoricidium, tertium rapina alienae sponsae; quartum, quando aliquis insidiando matrimonio filium proprium de sacro fonte suscepit; quintum interfecit presbyterum; sextum, quando aliquis peragit poenitentiam solemnem. Non tamen propter crimina interimitur matrimonium contractum. Sed tamen sunt quaedam crimina quae dirimunt matrimonium contractum. Unum est, quando aliquis cum aliqua conjugata concubuit, et ex hoc machinatur in mortem viri cum effectu; tunc enim ad invicem contrahere non debent; et si contraxerint, separantur. Secundum est, quando praestat fidem adulterae quod ducet eam uxorem. Sed hoc intelligendum est quando tam adulter quam adultera sciebat impedimentum; alias matrimonium non dirimeretur postquam contractum esset. Tertium est, quando contrahit cum ea de facto; primum enim matrimonium facit quod non stat secundum; unde si primum non fuisset verum matrimonium, secundum staret. Sciendum etiam, quod in casu secundo et tertio, scilicet fide data de matrimonio contrahendo, etiam matrimonio contracto per verba de praesenti de facto, nisi fuerit ibi pollutio carnalis, non propter hoc dirimitur matrimonium sequens post mortem viri de novo contractum.

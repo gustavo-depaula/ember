@@ -1,6 +1,8 @@
 # C. 25 - Threat against princes of all nations
 
-***^25:1^ Verbum quod factum est ad Jeremiam de omni populo Juda in anno quarto Joakim filii Josiae regis Juda, ipse est annus primus Nabuchodonosor regis Babylonis.***
+***Lectio 1***
+
+^25:1^ Verbum quod factum est ad Jeremiam de omni populo Juda in anno quarto Joakim filii Josiae regis Juda, ipse est annus primus Nabuchodonosor regis Babylonis.  
 
 > ^25:2^ Et locutus est Jeremias propheta ad omnem populum Juda, et ad universos habitatores Jerusalem, dicens:
 
@@ -46,7 +48,7 @@ Et praecepti contemptum: ***et non audistis***. Deut. 32: *ipsi me provocaverunt
 
 Lectio 2  
 
-***^25:8^ Propterea haec dicit Dominus exercituum: pro eo quod non audistis verba mea,***
+^25:8^ Propterea haec dicit Dominus exercituum: pro eo quod non audistis verba mea,  
 
 > ^25:9^ ecce ego mittam, et assumam universas cognationes aquilonis, ait Dominus, et Nabuchodonosor regem Babylonis servum meum, et adducam eos super terram istam, et super habitatores ejus, et super omnes nationes quae in circuitu illius sunt; et interficiam eos, et ponam eos in stuporem, et in sibilum et in solitudines sempiternas.
 
@@ -80,7 +82,7 @@ Tertio ostendit poenae aequitatem: ***et reddam eis***. Psalm. 27: *secundum ope
 
 Lectio 3  
 
-***^25:15^ Quia sic dicit Dominus exercituum Deus Israel: sume calicem vini furoris hujus de manu mea, et propinabis de illo cunctis gentibus ad quas ego mittam te:***
+^25:15^ Quia sic dicit Dominus exercituum Deus Israel: sume calicem vini furoris hujus de manu mea, et propinabis de illo cunctis gentibus ad quas ego mittam te:  
 
 > ^25:16^ et bibent, et turbabuntur, et insanient a facie gladii, quem ego mittam inter eos.
 
@@ -132,7 +134,7 @@ Tertio ipsis Babylonis: ***et rex Sesach***, idest Babyloniae, quae Hebraice dic
 
 Lectio 4  
 
-***^25:27^ Et dices ad eos: haec dicit Dominus exercituum Deus Israel: bibite, et inebriamini, et vomite, et cadite, neque surgatis a facie gladii quem ego mittam inter vos.***
+^25:27^ Et dices ad eos: haec dicit Dominus exercituum Deus Israel: bibite, et inebriamini, et vomite, et cadite, neque surgatis a facie gladii quem ego mittam inter vos.  
 
 > ^25:28^ Cumque noluerint accipere calicem de manu tua ut bibant, dices ad eos: haec dicit Dominus exercituum: bibentes bibetis:
 
@@ -152,7 +154,7 @@ Secundo ex Domini edicto. ***Gladium***, qui est idem quod potio. Ezech. 21: *ej
 
 Lectio 5  
 
-***^25:30^ Et tu prophetabis ad eos omnia verba haec, et dices ad illos: Dominus de excelso rugiet, et de habitaculo sancto suo dabit vocem suam. Rugiens rugiet super decorem suum. Celeuma quasi calcantium concinetur adversus omnes habitatores terrae.***
+^25:30^ Et tu prophetabis ad eos omnia verba haec, et dices ad illos: Dominus de excelso rugiet, et de habitaculo sancto suo dabit vocem suam. Rugiens rugiet super decorem suum. Celeuma quasi calcantium concinetur adversus omnes habitatores terrae.  
 
 > ^25:31^ Pervenit sonitus usque ad extrema terrae, quia judicium Domino cum gentibus: judicatur ipse cum omni carne. Impios tradidi gladio, dicit Dominus.
 
@@ -180,7 +182,7 @@ Secundo ponit tribulationis effectum, quia privabuntur vita: ***et erunt interfe
 
 Lectio 6  
 
-***^25:34^ Ululate pastores, et clamate, et aspergite vos cinere optimates gregis: quia completi sunt dies vestri ut interficiamini: et dissipationes vestrae, et cadetis quasi vasa pretiosa.***
+^25:34^ Ululate pastores, et clamate, et aspergite vos cinere optimates gregis: quia completi sunt dies vestri ut interficiamini: et dissipationes vestrae, et cadetis quasi vasa pretiosa.  
 
 > ^25:35^ Et peribit fuga a pastoribus, et salvatio ab optimatibus gregis.
 

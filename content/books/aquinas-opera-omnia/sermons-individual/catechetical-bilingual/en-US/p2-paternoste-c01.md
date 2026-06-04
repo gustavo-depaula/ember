@@ -1,6 +1,8 @@
 # Pr. - Our Father, Who Art in Heaven
 
-***Among all other prayers, the Lord’s prayer holds the chief place.Parallel texts: Thomas Aquinas, *Summa theologiae* II-II, q. 83, a. 9; *Commentary on the Sentences*, bk. 3, d. 34, a. 2, q. 6; *Compendium theologiae*, bk. 2, cc. 4–9.; *Commentary on Matthew*, ch. 6, lect. 3. It has five excellent qualities which are required in all prayer. For a prayer must be confident, ordered, suitable, devout, and humble.***
+***Our Father, Who Art in Heaven***
+
+Among all other prayers, the Lord’s prayer holds the chief place.Parallel texts: Thomas Aquinas, *Summa theologiae* II-II, q. 83, a. 9; *Commentary on the Sentences*, bk. 3, d. 34, a. 2, q. 6; *Compendium theologiae*, bk. 2, cc. 4–9.; *Commentary on Matthew*, ch. 6, lect. 3. It has five excellent qualities which are required in all prayer. For a prayer must be confident, ordered, suitable, devout, and humble.  
 
 It must be confident: *let us, therefore, go with confidence to the throne of grace* (Heb 4:16). It must not be wanting in faith, as it is said: *but let him ask in faith, nothing wavering* (Jas 1:6). That this is a most trustworthy prayer is reasonable, since it was formed by him who is our advocate and the most wise petitioner for us: *in whom are hid all the treasures of wisdom and knowledge* (Col 2:3). Of him it is said: *for we have an advocate with the Father, Jesus Christ the just one* (1 John 2:1). Hence, Cyprian says in his book, *On the Lord’s Prayer*: *since we have Christ as our advocate with the Father for our sins, when we pray on account of our faults, we use the very words of our advocate*.  
 

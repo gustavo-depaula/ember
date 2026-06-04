@@ -1,6 +1,8 @@
 # Prologue of St. Thomas
 
-***This is the lover of his brethren, and of the people of Israel; this is he who prays much for the people and for the entire holy city, Jeremiah, the prophet of God.***
+***2 Maccabees 15:14***
+
+This is the lover of his brethren, and of the people of Israel; this is he who prays much for the people and for the entire holy city, Jeremiah, the prophet of God.  
 
 > These are the words of Onias the high priest to Judas Maccabees, commenting on the vision of Jeremiah. From this it is possible to derive four things regarding the present work, namely, the author, the subject matter, the method, and its usefulness.
 

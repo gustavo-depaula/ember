@@ -1,10 +1,12 @@
 # C. 8 - On Virtue, Justice, Salvation, Liberation, In Which Also On Inequality
 
+***On Virtue, Justice, Salvation, Liberation, In Which Also On Inequality***
+
 ***Lectio 1***
 
 ***How Virtue Is Received in God and On His Infinity***
 
-***C. VIII, § I. 330. But because the theologians praise the divine truth and super-wise wisdom as virtue and as justice and as salvation and as liberation, come, let us open up also those namings of God, as is possible for us.***
+C. VIII, § I. 330. But because the theologians praise the divine truth and super-wise wisdom as virtue and as justice and as salvation and as liberation, come, let us open up also those namings of God, as is possible for us.  
 
 > 331. And that the thearchy indeed is segregated from and surpasses every virtue in whatever way both existing and thought, I do not reckon that anyone of those versed in the divine eloquences is ignorant: for many times theology has been handed on determining domination both to it and also of those celestial virtues. How therefore do the theologians praise it also as virtue segregated from every virtue, or how should we receive the naming of virtue in it?
 
@@ -92,7 +94,7 @@ Lectio 2
 
 ***On the Procession of the Divine Virtue to Beings in Particular***
 
-***§4. 335. From this are the deiform virtues of the angelic adornments, from this also they have being unchangeably and all their intellectual and immortal sempiternal motions, and they have received fortitude itself and the non-diminishable desire of the good from the virtue of the infinite good, with this sending to them that ability and being and desiring, which is always, and the very ability to desire which they always have.***
+§4. 335. From this are the deiform virtues of the angelic adornments, from this also they have being unchangeably and all their intellectual and immortal sempiternal motions, and they have received fortitude itself and the non-diminishable desire of the good from the virtue of the infinite good, with this sending to them that ability and being and desiring, which is always, and the very ability to desire which they always have.  
 
 > § 5. 336. Yet there proceed those things that are of unfailing virtue, to men and animals and plants and the whole nature of each thing;
 
@@ -164,7 +166,7 @@ Lectio 3
 
 ***Why It Is Said that God Cannot Do Something***
 
-***§ 6. 339. And indeed Elymas (Acts 13:8) the magician says, *if God is omnipotent, how is he said by our theologian not to be able to do something*? Yet he was reproaching the divine Paul, who said that *God cannot deny himself* (2 Tim 2:15).***
+§ 6. 339. And indeed Elymas (Acts 13:8) the magician says, *if God is omnipotent, how is he said by our theologian not to be able to do something*? Yet he was reproaching the divine Paul, who said that *God cannot deny himself* (2 Tim 2:15).  
 
 > 340. Yet positing this, doubtless I fear lest I deserve laughter for stupidity, to destroy the buildings both infirm and upon sand of unruly boys: struggling and as though striving to hurl against a certain impossible intention against theological deliberation concerning this.
 
@@ -210,7 +212,7 @@ Lectio 4
 
 ***On the Justice of God***
 
-***§ 7. 344. Yet God again is praised as justice, as distributing to all according to dignity and commensuration and beauty and good ordination and adornment (Wis 11:20), and segregating to each all distributions and orders according to the truly existing most just definition, and existing as the cause of the proper operation of these for all things.***
+§ 7. 344. Yet God again is praised as justice, as distributing to all according to dignity and commensuration and beauty and good ordination and adornment (Wis 11:20), and segregating to each all distributions and orders according to the truly existing most just definition, and existing as the cause of the proper operation of these for all things.  
 
 > 345. For the divine justice orders and terminates all things and preserves all from all unmixed and not confused, gives to all existing things what befits each, according to the dignity supervening upon each of existing things.
 
@@ -278,7 +280,7 @@ Lectio 5
 
 ***On the Effects of the Divine Justice: On Salvation, On Liberation, On Inequality***
 
-***§ 9. 351. Therefore this divine justice is praised also as the salvation of all things, saving and guarding the proper and cleansed substance and order of each thing from others and existing cleanly as the cause of proper operation in all things.***
+§ 9. 351. Therefore this divine justice is praised also as the salvation of all things, saving and guarding the proper and cleansed substance and order of each thing from others and existing cleanly as the cause of proper operation in all things.  
 
 > 352. Yet if someone should praise salvation also as savingly rescuing all from worse things altogether elsewhere, we also shall receive this praiser of most lavish salvation.
 

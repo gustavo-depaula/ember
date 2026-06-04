@@ -1,5 +1,7 @@
 # Chapter 58
 
+^58:1^ Cry, cease not, lift up your voice like a trumpet, and show my people their wicked doings, and the house of Jacob their sins.  
+
 > ^58:2^ For they seek me from day to day, and desire to know my ways, as a nation that has done justice, and has not forsaken the judgment of their God: they ask of me the judgments of justice: they are willing to approach to God.
 
 > ^58:3^ Why have we fasted, and you have not regarded: have we humbled our souls, and you have not taken notice? Behold in the day of your fast your own will is found, and you exact of all your debtors.

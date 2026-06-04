@@ -1,5 +1,7 @@
 # Proposition 24
 
+176. The first cause exists in all things according to a single disposition, but all things do not exist in the first cause according to a single disposition.  
+
 > 177. This is because, although the first cause exists in all things, yet each and every one of things receives it according to the mode of its ability [to receive].
 
 > 178. This is because, among things there are those which receive the first cause in a unified reception, and among them there are those which receive it by a multiple reception, and among them there are those that receive it by an eternal reception, and among them there are those which receive it by a temporal reception, and among them there are those which receive it by a spiritual reception, and among them there are those which receive it by a corporeal reception.

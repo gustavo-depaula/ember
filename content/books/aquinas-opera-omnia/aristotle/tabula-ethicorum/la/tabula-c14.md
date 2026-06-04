@@ -1,5 +1,7 @@
 # Chapter 14
 
+***Vox 1***
+
 ***Perierunt***
 
 ***Quod quidam perierunt propter diuicias, alii propter fortitudinem.***
@@ -46,7 +48,7 @@ Vox 7
 
 ***Prauis***
 
-***Quod prauis qui non sunt corrupti secundum probrosa peccata, set secundum quedam puerilia, uidentur existere amicabilia ad se ipsos, quia existimant se esse iustos; set ualde prauis, non.***
+Quod prauis qui non sunt corrupti secundum probrosa peccata, set secundum quedam puerilia, uidentur existere amicabilia ad se ipsos, quia existimant se esse iustos; set ualde prauis, non.  
 
 Quod prauis non insunt amicabilia ad se ipsos, quia non operantur bona que existimant sibi ipsis optima, set eligunt pro eis delectabilia nociua.  
 
@@ -90,7 +92,7 @@ Vox 10
 
 ***Princeps***
 
-***Quod si princeps percutit, non oportet quod per iusticiam repercuciatur; set si aliquis percuciat principem, non solum percuti oportet set puniri.***
+Quod si princeps percutit, non oportet quod per iusticiam repercuciatur; set si aliquis percuciat principem, non solum percuti oportet set puniri.  
 
 Quod princeps est custos iusti et equalis; non enim tribuit plus simpliciter boni ipsi, si non ad ipsum proporcionale est; ideo alteri laborat.  
 
@@ -102,7 +104,7 @@ Vox 11
 
 ***Principari***
 
-***Quod non sinimus principari hominem in quo est natura humana tantum, set illum qui est perfectus secundum racionem. Nam talis dat sibi plus de bonis et efficitur tyrannus.***
+Quod non sinimus principari hominem in quo est natura humana tantum, set illum qui est perfectus secundum racionem. Nam talis dat sibi plus de bonis et efficitur tyrannus.  
 
 Vox 12  
 
@@ -122,7 +124,7 @@ Vox 14
 
 ***Prodigus***
 
-***Quod prodigus est melior illiberali, quia facile sanatur propter etatem uel egestatem.***
+Quod prodigus est melior illiberali, quia facile sanatur propter etatem uel egestatem.  
 
 Quod prodigus non uidetur malus in moribus.  
 
@@ -152,7 +154,7 @@ Vox 15
 
 ***Prodigalitas***
 
-***Quod prodigalitas et illiberalitas sunt circa pecunias superhabundancie et defectus.***
+Quod prodigalitas et illiberalitas sunt circa pecunias superhabundancie et defectus.  
 
 Quod prodigalitas quandoque uicium infert intemperatis hominibus.  
 
@@ -162,13 +164,13 @@ Vox 16
 
 ***Pessimus***
 
-***Quod pessimus est qui ad se ipsum et ad amicos utitur malicia, optimus autem non qui ad se ipsum uirtute set qui ad alterum.***
+Quod pessimus est qui ad se ipsum et ad amicos utitur malicia, optimus autem non qui ad se ipsum uirtute set qui ad alterum.  
 
 Vox 17  
 
 ***Placidus***
 
-***Quod placidi sunt qui omnia laudant que dicuntur et fiunt propter delectacionem in conuiuere et nichil contradicunt set estimant quod oportet bonis et malis sine tristicia conuiuere.***
+Quod placidi sunt qui omnia laudant que dicuntur et fiunt propter delectacionem in conuiuere et nichil contradicunt set estimant quod oportet bonis et malis sine tristicia conuiuere.  
 
 Quod placidus est qui querit delectabile in conuictu, non propter aliquid aliud.  
 
@@ -190,7 +192,7 @@ Vox 19
 
 ***Politicus***
 
-***Quod oportet politicum scire aliqualiter que circa animam, quemadmodum et eum qui oculos curat et omne corpus.***
+Quod oportet politicum scire aliqualiter que circa animam, quemadmodum et eum qui oculos curat et omne corpus.  
 
 Quod politico melius est scribere et dicere acciones ciuiles quam sermones iudicatiuos et concionatiuos.  
 
@@ -198,7 +200,7 @@ Vox 20
 
 ***Passiones***
 
-***Quod passionum persequtor inaniter audiet et inutiliter, quia finis non est cognicio set operacio.***
+Quod passionum persequtor inaniter audiet et inutiliter, quia finis non est cognicio set operacio.  
 
 Quod passiones sunt omnia illa ad que sequitur delectacio uel tristicia; et exemplificat de multis.  
 
@@ -218,25 +220,25 @@ Vox 21
 
 ***Philosophia***
 
-***Quod philosophia mirabiles delectaciones habet firmitate et puritate et magis speculantibus quam querentibus, qui nondum habent set in inquisicione laborant.***
+Quod philosophia mirabiles delectaciones habet firmitate et puritate et magis speculantibus quam querentibus, qui nondum habent set in inquisicione laborant.  
 
 Vox 22  
 
 ***Philotimus***
 
-***Quod philotimus est qui habundat desideriis immoderate appetens magnum honorem; qui uero deficit dicitur aphilotimus; set medius est innominatus.***
+Quod philotimus est qui habundat desideriis immoderate appetens magnum honorem; qui uero deficit dicitur aphilotimus; set medius est innominatus.  
 
 Vox 23  
 
 ***Philosenus***
 
-***Quod Philosenus Erixius orauit ut guttur suum longius esset gruis, ut tactu cibi diuturnius delectaretur.***
+Quod Philosenus Erixius orauit ut guttur suum longius esset gruis, ut tactu cibi diuturnius delectaretur.  
 
 Vox 24  
 
 ***Pugil***
 
-***Quod pugilibus est finis delectabilis cuius gracia corona et honores, percuti autem dolorosum quia carnem sensibilem habent.***
+Quod pugilibus est finis delectabilis cuius gracia corona et honores, percuti autem dolorosum quia carnem sensibilem habent.  
 
 Quod pugil forte non eandem pugnam omnibus circumponit; nichilominus cercius agit quilibet si habeat propriam curam quam si haberet tantum communem, quia magis habebit illud quod conueniens est.  
 
@@ -254,7 +256,7 @@ Vox 26
 
 ***Potencia***
 
-***Quod potencie sunt secundum quas potentes sumus irasci uel tristari uel misereri.***
+Quod potencie sunt secundum quas potentes sumus irasci uel tristari uel misereri.  
 
 Quod potentes sumus a natura, boni autem uel mali non efficimur a natura.  
 
@@ -262,7 +264,7 @@ Vox 27
 
 ***Puer***
 
-***Quod pueri secundum concupiscenciam uiuunt et maxime in hiis delectabilis appetitus.***
+Quod pueri secundum concupiscenciam uiuunt et maxime in hiis delectabilis appetitus.  
 
 Quod sicut puerum oportet uiuere secundum preceptum pedagogi, ita concupiscibilem oportet consonare racioni.  
 
@@ -290,7 +292,7 @@ Vox 29
 
 ***Parentes***
 
-***Quod parentes diligunt filios ut sui ipsorum aliquid existentes, filii autem ut ab illis aliquid existentes.***
+Quod parentes diligunt filios ut sui ipsorum aliquid existentes, filii autem ut ab illis aliquid existentes.  
 
 Quod parentes magis sciunt quod filii sunt geniti ex ipsis quam filii quod sint geniti ex patribus.  
 
@@ -304,7 +306,7 @@ Vox 30
 
 ***Patris regimen***
 
-***Quod patris ad filios regimen habet similitudinem regni; filiorum enim patri est cura.***
+Quod patris ad filios regimen habet similitudinem regni; filiorum enim patri est cura.  
 
 Quod in Persis patres tyrannice utuntur filiis.  
 
@@ -312,7 +314,7 @@ Vox 31
 
 ***Pater***
 
-***Quod pater qui utitur filiis peruerse quasi seruis est corruptus et habet similitudinem tyranni.***
+Quod pater qui utitur filiis peruerse quasi seruis est corruptus et habet similitudinem tyranni.  
 
 Quod patres putantur maximi in beneficiis, quia sunt causa essendi, nutrimenti et discipline.  
 
@@ -342,7 +344,7 @@ Vox 33
 
 ***Paterna amicicia***
 
-***Quod paterna amicicia est talis qualis regalis consistens in beneficii collacione a superexcellenti.***
+Quod paterna amicicia est talis qualis regalis consistens in beneficii collacione a superexcellenti.  
 
 Vox 34  
 
@@ -354,7 +356,7 @@ Vox 35
 
 ***Paterna precepcio***
 
-***Quod paterna precepcio non habet uim coactiuam neque cuiusquam alterius, qui non est persona publica sicut rex.***
+Quod paterna precepcio non habet uim coactiuam neque cuiusquam alterius, qui non est persona publica sicut rex.  
 
 Vox 36  
 
@@ -366,7 +368,7 @@ Vox 37
 
 ***Presencia amici***
 
-***Quod presencia amicorum est delectabilis et in bonis fortunis et infortuniis; alleuiantur enim contristati condolentibus amicis.***
+Quod presencia amicorum est delectabilis et in bonis fortunis et infortuniis; alleuiantur enim contristati condolentibus amicis.  
 
 Quod presencia amici est delectabilis, quia intelligens aliquem sibi esse amicum et condolere minorem tristiciam facit.  
 
@@ -390,13 +392,13 @@ Vox 40
 
 ***Proximum***
 
-***Quod proximum est et mathematicum persuadentem acceptare et rethoricum demonstraciones expetere.***
+Quod proximum est et mathematicum persuadentem acceptare et rethoricum demonstraciones expetere.  
 
 Vox 41  
 
 ***Principium***
 
-***Quod principiorum hec quidem induccione contemplata sunt, hec uero sensu, hec autem consuetudine quadam.***
+Quod principiorum hec quidem induccione contemplata sunt, hec uero sensu, hec autem consuetudine quadam.  
 
 Quod principium uidetur plus quam dimidium tocius esse et multa manifesta fieri per ipsum.  
 
@@ -410,19 +412,19 @@ Vox 42
 
 ***Pictagoras***
 
-***Quod Pictagoras cum doceret quedam iussit discentem honorare ipsum in retribucione quantum existimabat esse rem dignam quam ab ipso doctus fuerat.***
+Quod Pictagoras cum doceret quedam iussit discentem honorare ipsum in retribucione quantum existimabat esse rem dignam quam ab ipso doctus fuerat.  
 
 Vox 43  
 
 ***Placere***
 
-***Quod eidem multi possint ualde placere, et difficile est propter dissimilitudinem morum et forte neque bonum esset.***
+Quod eidem multi possint ualde placere, et difficile est propter dissimilitudinem morum et forte neque bonum esset.  
 
 Vox 44  
 
 ***Prudencia***
 
-***Quod prudencia non est sciencia neque ars neque opinio, quia sciencia est necessariorum, opinio uero contingencium, ars uero circa factibile.***
+Quod prudencia non est sciencia neque ars neque opinio, quia sciencia est necessariorum, opinio uero contingencium, ars uero circa factibile.  
 
 Quod prudencia est habitus uerus cum racione actiuus circa hominis bona et mala.  
 
@@ -450,7 +452,7 @@ Vox 45
 
 ***Prudens***
 
-***Quod prudentis est posse bene consiliari circa conferencia sibi non secundum partem, set secundum totum bene uiuere.***
+Quod prudentis est posse bene consiliari circa conferencia sibi non secundum partem, set secundum totum bene uiuere.  
 
 Quod prudentes sunt qui sibi et aliis possunt bona speculari, sicut Perydea que fuit ualde perita in consiliis.  
 
@@ -478,7 +480,7 @@ Vox 48
 
 ***Peccans***
 
-***Quod peccans in arte uoluntarie est eligibilior quam qui peccat iniustus; e conuerso est de prudencia.***
+Quod peccans in arte uoluntarie est eligibilior quam qui peccat iniustus; e conuerso est de prudencia.  
 
 Vox 49  
 
@@ -496,7 +498,7 @@ Vox 51
 
 ***Preuolantes***
 
-***Quod preuolantes non preconsiliantur; set si racio fortificetur per consilium, non ducuntur a passione, sicut pretitillantes non titillantur.***
+Quod preuolantes non preconsiliantur; set si racio fortificetur per consilium, non ducuntur a passione, sicut pretitillantes non titillantur.  
 
 Quod preuolacio et debilitas sunt modi incontinencie.  
 
@@ -504,7 +506,7 @@ Vox 52
 
 ***Peior***
 
-***Quod peior est si quis non concupiscens uel quietus operatur turpe quam si uehementer concupiscens, et si non iratus percutit quam si iratus.***
+Quod peior est si quis non concupiscens uel quietus operatur turpe quam si uehementer concupiscens, et si non iratus percutit quam si iratus.  
 
 Vox 53  
 
@@ -516,13 +518,13 @@ Vox 54
 
 ***Phalaris***
 
-***Quod Phalaris nepharius homo fuit qui applicabat homines ad lectum suum et quos maiores inueniebat detruncabat.***
+Quod Phalaris nepharius homo fuit qui applicabat homines ad lectum suum et quos maiores inueniebat detruncabat.  
 
 Vox 55  
 
 ***Particulare***
 
-***Quod particulare non habet tantum de sciencia quantum uniuersale, ideo corrumpitur magis in particulari; ideo uidetur esse uerum quod Socrates querebat quod scientem non contingit peccare, quia uniuersalis non est presens.***
+Quod particulare non habet tantum de sciencia quantum uniuersale, ideo corrumpitur magis in particulari; ideo uidetur esse uerum quod Socrates querebat quod scientem non contingit peccare, quia uniuersalis non est presens.  
 
 Vox 56  
 
@@ -536,19 +538,19 @@ Vox 57
 
 ***Pugne***
 
-***Quod pugne et accusaciones sunt ex hoc quod equalibus inequalia et inequalibus equalia dantur.***
+Quod pugne et accusaciones sunt ex hoc quod equalibus inequalia et inequalibus equalia dantur.  
 
 Vox 58  
 
 ***Potencia et sciencia***
 
-***Quod potencia et sciencia contrariorum uidetur esse, habitus autem non; ut a sanitate non contraria, set sana solum.***
+Quod potencia et sciencia contrariorum uidetur esse, habitus autem non; ut a sanitate non contraria, set sana solum.  
 
 Vox 59  
 
 ***Pignus***
 
-***Quod si pignus reddat quis nolens, set propter timorem, non est dicendum iusta operari.***
+Quod si pignus reddat quis nolens, set propter timorem, non est dicendum iusta operari.  
 
 Vox 60  
 

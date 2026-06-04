@@ -1,10 +1,12 @@
 # C. 1 - Salutation and Introduction
 
+***Salutation and Introduction***
+
 ***Lecture 1***
 
 ***Paul the apostle***
 
-***^1:1^ Paul, a servant of Jesus Christ, called to be an apostle, separated unto the Gospel of God. [n. 15]***
+^1:1^ Paul, a servant of Jesus Christ, called to be an apostle, separated unto the Gospel of God. [n. 15]  
 
 > **15**. This letter is divided into two parts, namely, the greeting and the body of the letter, which begins at ***first, I give thanks*** (Rom 1:8).
 
@@ -76,7 +78,7 @@ Lecture 2
 
 ***The promise of the Gospel***
 
-***^1:2^ Which he had promised before, through his prophets, in the holy Scriptures, [n. 26]***
+^1:2^ Which he had promised before, through his prophets, in the holy Scriptures, [n. 26]  
 
 > ^1:3^ Concerning his Son, who was made to him of the seed of David, according to the flesh, [n. 29]
 
@@ -194,7 +196,7 @@ Lecture 3
 
 ***Christ’s power***
 
-***^1:4^ Who was predestined the Son of God in power, according to the Spirit of sanctification, by the resurrection of our Lord Jesus Christ from the dead: [n. 42]***
+^1:4^ Who was predestined the Son of God in power, according to the Spirit of sanctification, by the resurrection of our Lord Jesus Christ from the dead: [n. 42]  
 
 > **42**. Having commended Christ’s origin, he now commends his power, and mentions three things.
 
@@ -306,7 +308,7 @@ Lecture 4
 
 ***Christ’s liberality***
 
-***^1:5^ Through whom we have received grace and apostleship for obedience to the faith, in all nations, for his name: [n. 60]***
+^1:5^ Through whom we have received grace and apostleship for obedience to the faith, in all nations, for his name: [n. 60]  
 
 > ^1:6^ Among whom are you also the called of Jesus Christ: [n. 65]
 
@@ -378,7 +380,7 @@ Lecture 5
 
 ***Prayer of thanksgiving***
 
-***^1:8^ First, I give thanks to my God, through Jesus Christ, for you all: because your faith is proclaimed in the whole world. [n. 74]***
+^1:8^ First, I give thanks to my God, through Jesus Christ, for you all: because your faith is proclaimed in the whole world. [n. 74]  
 
 > ^1:9^ For God is my witness, whom I serve in my spirit in the Gospel of his Son, that without ceasing I make a commemoration of you: [n. 78]
 
@@ -544,7 +546,7 @@ Lecture 6
 
 ***Wrath of God against man’s ungodliness***
 
-***^1:16^ For I am not ashamed of the Gospel. For it is the power of God unto salvation to everyone who believes: to the Jew first and to the Greek. [n. 97]***
+^1:16^ For I am not ashamed of the Gospel. For it is the power of God unto salvation to everyone who believes: to the Jew first and to the Greek. [n. 97]  
 
 > ^1:17^ For the justice of God is revealed therein, from faith unto faith, as it is written: *the just man lives by faith*. [n. 102]
 
@@ -738,7 +740,7 @@ Lecture 7
 
 ***Impiety and injustice of the gentiles***
 
-***^1:20^ For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made. His eternal power also and divinity: so that they are inexcusable. [n. 123]***
+^1:20^ For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made. His eternal power also and divinity: so that they are inexcusable. [n. 123]  
 
 > ^1:21^ Because that, when they knew God, they had not glorified him as God or given thanks, but became vain in their thoughts. And their foolish heart was darkened. [n. 126]
 
@@ -888,7 +890,7 @@ Lecture 8
 
 ***The punishments of the gentiles***
 
-***^1:26^ For this cause, God delivered them up to shameful affections. For their women have changed the natural use into that use which is against nature. [n. 146]***
+^1:26^ For this cause, God delivered them up to shameful affections. For their women have changed the natural use into that use which is against nature. [n. 146]  
 
 > ^1:27^ And, in like manner, the men also, leaving the natural use of the women, have burned in their lusts, one towards another: men with men, working that which is filthy and receiving in themselves the recompense which was due to their error. [n. 150]
 

@@ -1,5 +1,7 @@
 # On God
 
+***Question 1***
+
 ***On the immensity of God***
 
 ***There were questions concerning God,Qq. 1–3. angels,Q. 4. and men.Qq. 5–11.***
@@ -10,7 +12,7 @@ Article 1
 
 ***Whether it is proper to God alone to be everywhere***
 
-***Whereas about the immensity of God there was a question whether it is proper to God alone to be everywhere. It was shown that it is not.***
+Whereas about the immensity of God there was a question whether it is proper to God alone to be everywhere. It was shown that it is not.  
 
 Obj. 1: For number is in the things numbered. But it is agreed that all the parts of the universe are numbered. Therefore, number is in all the parts of the universe, and thus it seems that it is everywhere. Therefore, it is not proper to God alone to be everywhere.Cf. Bonaventure, *In I Sent*., d. 37, P. 1, a. 2, q. 1, obj. 2, 1:642b; Aquinas, *In I Sent*. 37.2.2, obj. 2.  
 
@@ -52,7 +54,7 @@ Question 2
 
 ***Whether God knows evil through good***
 
-***Whereas about the knowledge of God there was a question whether God knows evil through good. And it seems that he does not.***
+Whereas about the knowledge of God there was a question whether God knows evil through good. And it seems that he does not.  
 
 Obj. 1: Because to know one thing through another pertains to a defect of knowledge. But in divine knowledge there can be no defect. Therefore, it seems that God does not know evil through good.Cf. Albert the Great, *In I Sent*., d. 36 B, a. 6, obj. 1, 26:215a; Aquinas, *In I Sent*. 36.1.2, obj. 4.  
 
@@ -88,7 +90,7 @@ Question 3
 
 ***Whether predestination imposes necessity***
 
-***About predestination there was a question whether predestination imposes necessity. And it was shown that it does.***
+About predestination there was a question whether predestination imposes necessity. And it was shown that it does.  
 
 Obj. 1: For it is agreed that someone predestined is saved entirely. But this would not be unless it were necessary for the predestined to be saved. Therefore, it seems that predestination imposes necessity.  
 

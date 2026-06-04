@@ -1,6 +1,8 @@
 # D. 10 - The body of Christ in the Eucharist
 
-***Postquam Magister determinavit quod in hoc sacramento tria inveniuntur, aliquid quod est sacramentum tantum, et aliquid quod est res et sacramentum, et aliquid quod est res tantum; et secundum hoc diversimode diversi manducant: in parte ista incipit prosequi de singulis dictorum trium in speciali; unde dividitur in partes tres: in prima determinat de ipso vero corpore Christi, quod est sacramentum, et res contenta in sacramento; in secunda de speciebus panis et vini, quae sunt in sacramentum tantum;*in sacramentum tantum—sacramentum tantum* PLE. 12 dist., ibi: *si autem quaeritur de accidentibus quae remanent . . . in quo subjecto fundentur, potius mihi videtur fatendum existere sine subjecto quam esse in subjecto*; in tertia determinat de effectu sacramenti, qui est res tantum, in fine dist., ibi: *institutum est hoc sacramentum duabus de causis*.***
+***De corpore Christi in Eucharistiae***
+
+Postquam Magister determinavit quod in hoc sacramento tria inveniuntur, aliquid quod est sacramentum tantum, et aliquid quod est res et sacramentum, et aliquid quod est res tantum; et secundum hoc diversimode diversi manducant: in parte ista incipit prosequi de singulis dictorum trium in speciali; unde dividitur in partes tres: in prima determinat de ipso vero corpore Christi, quod est sacramentum, et res contenta in sacramento; in secunda de speciebus panis et vini, quae sunt in sacramentum tantum;*in sacramentum tantum—sacramentum tantum* PLE. 12 dist., ibi: *si autem quaeritur de accidentibus quae remanent . . . in quo subjecto fundentur, potius mihi videtur fatendum existere sine subjecto quam esse in subjecto*; in tertia determinat de effectu sacramenti, qui est res tantum, in fine dist., ibi: *institutum est hoc sacramentum duabus de causis*.  
 
 Prima in duas: in prima ostendit verum corpus Christi in altari contineri sub sacramento; in secunda determinat de transubstantiatione, per quam fit ut ibi sit verum corpus Christi, dist. 11: *si autem quaeritur, qualis sit illa conversio . . . definire non sufficio*.  
 
@@ -23,7 +25,7 @@ primo, utrum verum corpus Christi contineatur in hoc sacramento;
 
 ***Utrum verum corpus Christi contineatur in hoc sacramento***
 
-***Ad primum sic proceditur. Videtur quod in sacramento altaris non contineatur verum corpus Christi. In his enim quae ad pietatem et reverentiam pertinent divinam, nihil debet esse quod in crudelitatem vel irreverentiam sonet. Sed manducare carnes hominis sonat in quamdam bestialem crudelitatem et irreverentiam manducati. Ergo et in sacramento pietatis, quod ad manducationis usum ordinatur, non debet esse verum corpus Christi quod manducatur.***
+Ad primum sic proceditur. Videtur quod in sacramento altaris non contineatur verum corpus Christi. In his enim quae ad pietatem et reverentiam pertinent divinam, nihil debet esse quod in crudelitatem vel irreverentiam sonet. Sed manducare carnes hominis sonat in quamdam bestialem crudelitatem et irreverentiam manducati. Ergo et in sacramento pietatis, quod ad manducationis usum ordinatur, non debet esse verum corpus Christi quod manducatur.  
 
 Praeterea, sacramenta ordinantur ad utilitatem nostram. Sed Joan. 6, 64, dicitur: *caro non prodest quidquam*. Ergo corpus Christi, sive ejus caro, non debet esse in hoc sacramento, sed solum ejus spiritualis virtus.  
 
@@ -71,7 +73,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Christus non contineatur sub sacramento quantum ad animam. Quia Christo non competit esse in altari, ut dictum est, nisi secundum quod panis in ipsum convertitur. Sed constat quod panis non convertitur in animam Christi. Ergo anima Christi non est ibi.***
+Ad secundum sic proceditur. Videtur quod Christus non contineatur sub sacramento quantum ad animam. Quia Christo non competit esse in altari, ut dictum est, nisi secundum quod panis in ipsum convertitur. Sed constat quod panis non convertitur in animam Christi. Ergo anima Christi non est ibi.  
 
 Praeterea, Christus est in sacramento altaris, ut cibus fidelium. Sed non est cibus secundum animam, sed secundum corpus: quia dicit Joan. 6, 55: *caro mea vere est cibus*. Ergo non est ibi secundum animam.  
 
@@ -83,7 +85,7 @@ Praeterea, corpus Christi non est in sacramento inanimatum. Sed corpus sine anim
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod sub specie panis Christus non contineatur inquantum*contineatur inquantum.—contineatur nisi quantum* PLE. ad carnem animatam. Quia, ut dictum est, corpus Christi est ibi secundum quod cibus. Sed esse cibum non convenit nisi carni; unde Joan. 6, 55: *caro mea vere est cibus*. Ergo non est ibi aliqua pars corporis, nisi caro.***
+Ulterius. Videtur quod sub specie panis Christus non contineatur inquantum*contineatur inquantum.—contineatur nisi quantum* PLE. ad carnem animatam. Quia, ut dictum est, corpus Christi est ibi secundum quod cibus. Sed esse cibum non convenit nisi carni; unde Joan. 6, 55: *caro mea vere est cibus*. Ergo non est ibi aliqua pars corporis, nisi caro.  
 
 Praeterea, quod jam est, non oportet fieri. Si ergo in pane consecrato sunt omnes partes corporis Christi, erit ibi sanguis; ergo non oporteret quod per consecrationem vini iterum ibi fieret.  
 
@@ -95,7 +97,7 @@ Praeterea, in specie panis significatur totum id quod est res tantum sine sacram
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non sit ibi corpus Christi secundum propriam qualitatem.*qualitatem.—quantitatem* PLE. Nihil enim quod manet convertitur in alterum. Sed quantitas panis manet. Ergo non convertitur in quantitatem corporis Christi. Sed corpus Christi non est in altari, ut dictum est, nisi ut est terminus conversionis. Ergo non est ibi secundum propriam quantitatem.***
+Ulterius. Videtur quod non sit ibi corpus Christi secundum propriam qualitatem.*qualitatem.—quantitatem* PLE. Nihil enim quod manet convertitur in alterum. Sed quantitas panis manet. Ergo non convertitur in quantitatem corporis Christi. Sed corpus Christi non est in altari, ut dictum est, nisi ut est terminus conversionis. Ergo non est ibi secundum propriam quantitatem.  
 
 Praeterea, secundum Philosophum in 4 *Physica*, corpus naturale non potest esse simul cum dimensionibus separatis: quia tunc duae dimensiones essent simul. Sed dimensiones panis manent. Ergo sub eisdem dimensionibus non potest esse corpus Christi cum dimensionibus propriae quantitatis.  
 
@@ -109,7 +111,7 @@ Praeterea, de ratione corporis vivi est organizatio, ut patet in 2 *de Anima*. S
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non sit ibi secundum totam quantitatem suam. Constat enim quod quantitas corporis Christi non invenitur extra corpus Christi, ut corpus Christi sit sine propria quantitate. Sed constat quod corpus Christi non est ultra dimensiones panis, neque aliqua pars dimensionis est sub qua non sit corpus Christi. Ergo si est ibi quantitas tota corporis Christi, neque excedit dimensiones panis, neque exceditur. Sed communis animi conceptio est quod duae quantitates, quarum una alteri superposita neque excedit neque exceditur, sunt aequales, ut patet in principio Euclidis. Ergo quantitas corporis Christi tota aequatur quantitati panis: quod est falsum; quia contingit esse etiam majorem et minorem.***
+Ulterius. Videtur quod non sit ibi secundum totam quantitatem suam. Constat enim quod quantitas corporis Christi non invenitur extra corpus Christi, ut corpus Christi sit sine propria quantitate. Sed constat quod corpus Christi non est ultra dimensiones panis, neque aliqua pars dimensionis est sub qua non sit corpus Christi. Ergo si est ibi quantitas tota corporis Christi, neque excedit dimensiones panis, neque exceditur. Sed communis animi conceptio est quod duae quantitates, quarum una alteri superposita neque excedit neque exceditur, sunt aequales, ut patet in principio Euclidis. Ergo quantitas corporis Christi tota aequatur quantitati panis: quod est falsum; quia contingit esse etiam majorem et minorem.  
 
 Praeterea, nullum corpus secundum totam suam quantitatem potest contineri indifferenter a magna et parva quantitate extrinseca. Sed corpus Christi continetur indifferenter sub parva parte vel magna panis consecrati. Ergo non est ibi secundum totam suam quantitatem.  
 
@@ -121,7 +123,7 @@ Praeterea, impossibile est aliquid esse alicubi secundum partem quantitatis et n
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in sacramento altaris continetur aliquid dupliciter: uno modo ex vi sacramenti, alio modo ex naturali concomitantia.***
+Respondeo dicendum ad primam quaestionem, quod in sacramento altaris continetur aliquid dupliciter: uno modo ex vi sacramenti, alio modo ex naturali concomitantia.  
 
 Ex vi quidem sacramenti continetur ibi illud ad quod conversio terminatur. Ad quid autem terminatur conversio, sciri potest ex tribus. Primo ex eo quod convertebatur: non enim convertitur materia sacramenti nisi in id ad quod habet similitudinem secundum proprietatem naturae suae, sicut vinum in sanguinem. Secundo ex significatione formae, cujus virtute fit conversio; unde in illud conversio terminatur quod est significatum per formam. Tertio ex usu sacramenti: quia quod pertinet ad cibum, continetur sub specie panis ex vi sacramenti; quod pertinet ad potum, sub specie vini.  
 
@@ -131,7 +133,7 @@ Et per hoc patet responsio ad objecta.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod duplex est usus sacramenti; scilicet manducare et bibere. Manducare autem est usus cibi sicci; sed bibere est usus cibi humidi, qui ‘potus’ dicitur; et ideo sub specie panis, qui ad usum manducationis ordinatur, continetur ex vi sacramenti non solum caro Christi, sed os, et omnes hujusmodi partes; non autem sanguis, quia continetur ex vi sacramenti sub specie vini, qui ad usum potus ordinatur; quamvis ex naturali concomitantia et sanguis sit sub specie panis, et caro sub specie vini.***
+Ad secundam quaestionem dicendum, quod duplex est usus sacramenti; scilicet manducare et bibere. Manducare autem est usus cibi sicci; sed bibere est usus cibi humidi, qui ‘potus’ dicitur; et ideo sub specie panis, qui ad usum manducationis ordinatur, continetur ex vi sacramenti non solum caro Christi, sed os, et omnes hujusmodi partes; non autem sanguis, quia continetur ex vi sacramenti sub specie vini, qui ad usum potus ordinatur; quamvis ex naturali concomitantia et sanguis sit sub specie panis, et caro sub specie vini.  
 
 Ad primum ergo dicendum, quod ponitur ibi pars pro toto, scilicet caro pro toto corpore: et hanc partem specialiter posuit, ut per similitudinem manducationis corporalis, cui praecipue caro apta est, manuduceret ad sacramentalem, quamvis etiam ossa et aliae hujusmodi partes manducationi aliquo modo competant, cum secundum Avicennam quaedam animalia ipsis nutriantur.  
 
@@ -141,7 +143,7 @@ Ad tertium dicendum, quod visus corporalis, ut dicetur, non potest videre corpus
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod substantia panis, quae convertitur in corpus Christi, non habet aliquam proportionem similitudinis ad quantitatem vel alia accidentia Christi, sed tantummodo ad substantiam ejus corporis: et ideo, cum nihil convertatur in corpus Christi de pane nisi substantia panis, quia accidentia manent, constat quod conversio illa terminatur directe ad substantiam, non autem ad accidentia, quia accidentia panis remanent; et ideo quantitas et alia accidentia propria corporis non sunt ibi ex vi sacramenti; sunt tamen ibi secundum rei veritatem ex naturali concomitantia accidentis ad subjectum, ut de anima dictum est.***
+Ad tertiam quaestionem dicendum, quod substantia panis, quae convertitur in corpus Christi, non habet aliquam proportionem similitudinis ad quantitatem vel alia accidentia Christi, sed tantummodo ad substantiam ejus corporis: et ideo, cum nihil convertatur in corpus Christi de pane nisi substantia panis, quia accidentia manent, constat quod conversio illa terminatur directe ad substantiam, non autem ad accidentia, quia accidentia panis remanent; et ideo quantitas et alia accidentia propria corporis non sunt ibi ex vi sacramenti; sunt tamen ibi secundum rei veritatem ex naturali concomitantia accidentis ad subjectum, ut de anima dictum est.  
 
 Ad primum ergo dicendum, quod ratio illa probat quod non sit ibi ex vi sacramenti; et hoc concedo.  
 
@@ -153,7 +155,7 @@ Ad quartum dicendum, quod quamvis corpus Christi cum quantitate propria sit sub 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod qua ratione ponitur ibi pars quantitatis, eadem ratione ibi poni debet etiam tota quantitas: quia sicut corpus Christi non separatur a propria quantitate, ita una pars quantitatis non separatur ab alia: utrumque enim sine mutatione intrinseca corporis Christi non posset evenire.***
+Ad quartam quaestionem dicendum, quod qua ratione ponitur ibi pars quantitatis, eadem ratione ibi poni debet etiam tota quantitas: quia sicut corpus Christi non separatur a propria quantitate, ita una pars quantitatis non separatur ab alia: utrumque enim sine mutatione intrinseca corporis Christi non posset evenire.  
 
 Ad primum ergo dicendum, quod in superpositione directe quantitas applicatur quantitati. Et quia quantitas Christi non directe applicatur quantitati panis, quia non mediante ipsa corpus Christi sub dimensione panis est; ideo non est ibi aliqua superpositio quantitatis ad quantitatem, nec aliqua commensuratio quantitatum; et ideo non sequitur quod sint aequales.  
 
@@ -167,7 +169,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod corpus Christi contineatur sub sacramento circumscriptive. Omne enim corpus quod est in loco, circumscribitur. Sed corpus Christi est sub sacramento sicut in loco: quod patet, quia non est alium modum assignare de modis essendi in quos assignat Philosophus in 4 *Physica*. Ergo corpus Christi est in loco circumscriptive.***
+Ad tertium sic proceditur. Videtur quod corpus Christi contineatur sub sacramento circumscriptive. Omne enim corpus quod est in loco, circumscribitur. Sed corpus Christi est sub sacramento sicut in loco: quod patet, quia non est alium modum assignare de modis essendi in quos assignat Philosophus in 4 *Physica*. Ergo corpus Christi est in loco circumscriptive.  
 
 Praeterea, in *Sex principiis* dicitur, quod *proprium est positionis primo loco substantiae inhaerere*. Sed corporis Christi substantia non denudatur aliis proprietatibus, prout est sub sacramento. Ergo neque positione: ergo secundum quod est sub sacramento, est in loco: quia positio ordinem partium in loco dicit.  
 
@@ -181,7 +183,7 @@ Praeterea, omne corpus quod circumscribitur loco aliquo, partes ejus habent situ
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod contineatur sub eis saltem definitive. Quia plus distat a natura loci angelus quam corpus Christi. Sed angelus non potest esse in loco quin loco definiatur, ut communiter dicitur. Ergo multo fortius corpus Christi est definitive sub speciebus illis.***
+Ulterius. Videtur quod contineatur sub eis saltem definitive. Quia plus distat a natura loci angelus quam corpus Christi. Sed angelus non potest esse in loco quin loco definiatur, ut communiter dicitur. Ergo multo fortius corpus Christi est definitive sub speciebus illis.  
 
 Praeterea, omne corporale individuum est determinatum ad hic et nunc. Sed corpus Christi est hujusmodi. Ergo determinatur ad hic. Ergo est definitive sub speciebus.  
 
@@ -193,7 +195,7 @@ Praeterea, omne quod potest sine sua mutatione alibi esse quam hic, non est hic 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod corpus Christi non possit esse totum sub qualibet parte specierum. Dimensiones enim panis remanentes possunt in infinitum dividi. Si ergo in qualibet parte dimensionum illarum esset corpus Christi totum, esset infinities sub eisdem dimensionibus; quod est impossibile.***
+Ulterius. Videtur quod corpus Christi non possit esse totum sub qualibet parte specierum. Dimensiones enim panis remanentes possunt in infinitum dividi. Si ergo in qualibet parte dimensionum illarum esset corpus Christi totum, esset infinities sub eisdem dimensionibus; quod est impossibile.  
 
 Praeterea, quaecumque uni et eidem sunt simul, sibi invicem sunt simul. Sed si in qualibet parte dimensionum est totum corpus Christi, ubicumque est pars corporis Christi, esset totum corpus Christi. Ergo ubi esset una pars, esset alia, et hoc repugnat distinctioni partium, quae requiritur in corpore organico. Ergo non est possibile quod totum corpus Christi sub qualibet parte specierum sit.  
 
@@ -205,7 +207,7 @@ Praeterea, panis consecratus est quoddam totum homogeneum, idest unius rationis 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod corpus Christi movetur ad motum hostiae. Omne enim quod desinit esse ubi prius erat, et incipit esse ubi prius non erat, movetur vel per se vel per accidens. Sed corpus Christi translata hostia desinit esse ubi prius erat, scilicet in altari; et incipit esse ubi prius non erat, scilicet in pixide, vel in ore. Ergo corpus Christi movetur ad motum hostiae, vel per se vel per accidens.***
+Ulterius. Videtur quod corpus Christi movetur ad motum hostiae. Omne enim quod desinit esse ubi prius erat, et incipit esse ubi prius non erat, movetur vel per se vel per accidens. Sed corpus Christi translata hostia desinit esse ubi prius erat, scilicet in altari; et incipit esse ubi prius non erat, scilicet in pixide, vel in ore. Ergo corpus Christi movetur ad motum hostiae, vel per se vel per accidens.  
 
 Praeterea, secundum Philosophum in 2 *Topicor*., *moventibus nobis, moventur ea quae in nobis sunt*. Sed corpus Christi vere continetur sub speciebus illis. Ergo speciebus translatis, et ipsum transfertur.  
 
@@ -217,7 +219,7 @@ Praeterea, quod movetur per accidens ad motum alterius, definitive est in illo; 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod locus dicitur circumscribere locatum ex eo quod in circuitu describit figuram locati: quia loci proprii et locati oportet esse unam figuram; figura autem est qualitas circa quantitatem. Et quia corpus Christi non habet ordinem ad species sub quibus continetur mediante quantitate, sed e converso, ut dictum est; ideo neque figura corporis Christi respondet figurae specierum, sicut patet ad sensum. Et ideo patet quod non est sub speciebus circumscriptive, et per consequens nec est in eis sicut in loco: quia nihil per se, proprie loquendo, est in loco ut in loco, nisi quod loco circumscribitur.***
+Respondeo dicendum ad primam quaestionem, quod locus dicitur circumscribere locatum ex eo quod in circuitu describit figuram locati: quia loci proprii et locati oportet esse unam figuram; figura autem est qualitas circa quantitatem. Et quia corpus Christi non habet ordinem ad species sub quibus continetur mediante quantitate, sed e converso, ut dictum est; ideo neque figura corporis Christi respondet figurae specierum, sicut patet ad sensum. Et ideo patet quod non est sub speciebus circumscriptive, et per consequens nec est in eis sicut in loco: quia nihil per se, proprie loquendo, est in loco ut in loco, nisi quod loco circumscribitur.  
 
 Ad primum ergo dicendum, quod comparatio corporis Christi ad species sub quibus est, non est similis alicui comparationi naturali; et ideo non potest reduci, proprie loquendo, ad aliquem modorum a Philosopho assignatorum; tamen habet aliquam similitudinem cum illo modo quo aliquid dicitur esse in loco secundum quod esse in loco est esse in aliquo separato extra substantiam suam, quod non est ejus causa: et secundum hoc etiam Innocentius dicit corpus Christi esse in pluribus locis, quod continetur sub pluribus speciebus.  
 
@@ -229,7 +231,7 @@ Ad quartum dicendum, quod corpus naturale non habet quod repleat locum ex parte 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ad hoc quod aliquid sit in loco definitive, duo requiruntur. Primum est ut competat ibi esse ei, quia quod non est in aliquo loco, non potest loco illo definiri. Secundum est quod sit ibi sicut in loco commensurato aliquo modo suae quantitati vel virtuti. Corpus enim bicubitale non definitur loco unius cubiti, quamvis aliquo modo sit ibi; neque anima est definitive in manu, quia est in aliis partibus, eo quod non est in manu secundum totam virtutem suam. Et ideo omne quod habet quantitatem finitam, vel virtutem, oportet quod sit definitive in loco in quo est; et ideo angeli definitive sunt in loco, non tamen Deus. Corpus autem Christi quamvis secundum veritatem sit sub speciebus, non tamen competit ei esse ibi ratione sui: quia neque ratione suae quantitatis, ut dictum est, neque ratione suae virtutis, sed ratione illius quod in ipsum conversum est ibi praeexistens, cujus dimensiones adhuc manent, quibus ad locum illum determinabatur; et ideo non definitur loco illo, sed simili modo potest esse alibi, ubicumque fuerint panis dimensiones conversi in ipsum.***
+Ad secundam quaestionem dicendum, quod ad hoc quod aliquid sit in loco definitive, duo requiruntur. Primum est ut competat ibi esse ei, quia quod non est in aliquo loco, non potest loco illo definiri. Secundum est quod sit ibi sicut in loco commensurato aliquo modo suae quantitati vel virtuti. Corpus enim bicubitale non definitur loco unius cubiti, quamvis aliquo modo sit ibi; neque anima est definitive in manu, quia est in aliis partibus, eo quod non est in manu secundum totam virtutem suam. Et ideo omne quod habet quantitatem finitam, vel virtutem, oportet quod sit definitive in loco in quo est; et ideo angeli definitive sunt in loco, non tamen Deus. Corpus autem Christi quamvis secundum veritatem sit sub speciebus, non tamen competit ei esse ibi ratione sui: quia neque ratione suae quantitatis, ut dictum est, neque ratione suae virtutis, sed ratione illius quod in ipsum conversum est ibi praeexistens, cujus dimensiones adhuc manent, quibus ad locum illum determinabatur; et ideo non definitur loco illo, sed simili modo potest esse alibi, ubicumque fuerint panis dimensiones conversi in ipsum.  
 
 Ad primum ergo dicendum, quod angelus est in loco quo definitur, non quia aliquid convertatur in ipsum, sed ratione suae operationis, virtutis, et essentiae; et ideo non potest esse nisi in uno loco, quia substantia rei non est nisi semel.  
 
@@ -239,7 +241,7 @@ Ad tertium dicendum, quod finitum et infinitum sunt passiones quantitatis, secun
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod circa hoc est duplex opinio: quidam enim dicunt, quod hostia remanente integra, Christus totus est sub tota hostia, non tamen sub qualibet hostiae parte; sed hostia divisa, Christus totus remanet sub qualibet parte. Et ponunt exemplum de speculo; quia Augustinus dicit, quod sicut fracto speculo multiplicantur species vel imagines; sic post fractionem quot sunt partes, toties est ibi Christus: constat autem quod ante fractionem speculi non erat ibi nisi una imago. Istud autem non potest stare; quia hostia integra manente, aliquo modo est corpus Christi sub partibus hostiae. Si ergo non sit ibi secundum totum, erit secundum partem: sed omne quod est totum in toto, et pars ejus in parte, est ibi situaliter; et ita corpus Christi esset situaliter sub sacramento, et circumscriptive; quod est impossibile. Exemplum autem non est conveniens: quia imago speculi non est ibi ut forma absolute quiescens in subjecto, sed aggeneratur ex reverberatione; et ideo quamdiu est una superficies speculi, fit una reverberatio, et per consequens una imago resultat; fracto autem speculo sunt multae superficies, et per consequens multae reflexiones, et imagines multae resultantes. Si autem esset forma absolute quiescens in subjecto; aut esset consequens quantitatem, sicut albedo quae fundatur in superficie; aut praecedens quantitatem, sicut forma substantialis. Si primo modo, de necessitate esset tota in toto et pars in parte ante fractionem speculi et post; si autem esset praecedens quantitatem, esset ante et post, et tota in toto, et tota in partibus, sicut tota forma substantialis ligni est in qualibet parte ejus, quia totalitas formae substantialis non recipit quantitatis totalitatem, sicut est de totalitate formarum accidentalium, quae fundantur in quantitate, et praesupponunt ipsam.***
+Ad tertiam quaestionem dicendum, quod circa hoc est duplex opinio: quidam enim dicunt, quod hostia remanente integra, Christus totus est sub tota hostia, non tamen sub qualibet hostiae parte; sed hostia divisa, Christus totus remanet sub qualibet parte. Et ponunt exemplum de speculo; quia Augustinus dicit, quod sicut fracto speculo multiplicantur species vel imagines; sic post fractionem quot sunt partes, toties est ibi Christus: constat autem quod ante fractionem speculi non erat ibi nisi una imago. Istud autem non potest stare; quia hostia integra manente, aliquo modo est corpus Christi sub partibus hostiae. Si ergo non sit ibi secundum totum, erit secundum partem: sed omne quod est totum in toto, et pars ejus in parte, est ibi situaliter; et ita corpus Christi esset situaliter sub sacramento, et circumscriptive; quod est impossibile. Exemplum autem non est conveniens: quia imago speculi non est ibi ut forma absolute quiescens in subjecto, sed aggeneratur ex reverberatione; et ideo quamdiu est una superficies speculi, fit una reverberatio, et per consequens una imago resultat; fracto autem speculo sunt multae superficies, et per consequens multae reflexiones, et imagines multae resultantes. Si autem esset forma absolute quiescens in subjecto; aut esset consequens quantitatem, sicut albedo quae fundatur in superficie; aut praecedens quantitatem, sicut forma substantialis. Si primo modo, de necessitate esset tota in toto et pars in parte ante fractionem speculi et post; si autem esset praecedens quantitatem, esset ante et post, et tota in toto, et tota in partibus, sicut tota forma substantialis ligni est in qualibet parte ejus, quia totalitas formae substantialis non recipit quantitatis totalitatem, sicut est de totalitate formarum accidentalium, quae fundantur in quantitate, et praesupponunt ipsam.  
 
 Corpus autem Christi continetur absolute sub speciebus; et hoc non convenit substantiae mediante quantitate, ut dictum est, sed ratione substantiae, inquantum substantia panis est conversa; et ideo etiam ante fractionem est totum in tota, et totum in partibus: quia ubicumque erat tota natura panis, est tota natura corporis Christi, et per consequens etiam totum corpus, et tota quantitas ejus. Et haec est alia opinio quae magis vera videtur.  
 
@@ -251,7 +253,7 @@ Ad tertium dicendum, quod spiritui competit esse totum in toto, et in qualibet p
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod moveri in loco includit esse in loco; unde ad hoc quod aliquid per se moveatur in loco, oportet quod per se sit in loco, et quod per se moveatur, non ad motum alterius. Sed per accidens aliquid movetur in loco dupliciter: uno modo quia per accidens est in loco, sicut formae moventur per accidens; alio modo quia per se est in loco, sed per accidens movetur in loco, sicut patet in his quae vehuntur; quia locus quem mutant, est per se eorum proprius locus, vel communis. Corpus autem Christi in loco quem species transmutant, non est per se neque sicut in loco proprio, neque sicut in loco communi, sicut ex dictis patere potest; et ideo per se in illo moveri non potest, neque per accidens, sicut corpora per accidens moventur; sed hoc modo quo aliquid et per accidens est in loco, et per accidens movetur. Nec differt, ut quidam dicunt differre, utrum species moveantur in eodem loco, aut transferantur de loco ad locum: quia quod in eodem loco secundum substantiam manens movetur, mutat locum non solum secundum partes, sed secundum totum, ut in 6 Physic. probatur.***
+Ad quartam quaestionem dicendum, quod moveri in loco includit esse in loco; unde ad hoc quod aliquid per se moveatur in loco, oportet quod per se sit in loco, et quod per se moveatur, non ad motum alterius. Sed per accidens aliquid movetur in loco dupliciter: uno modo quia per accidens est in loco, sicut formae moventur per accidens; alio modo quia per se est in loco, sed per accidens movetur in loco, sicut patet in his quae vehuntur; quia locus quem mutant, est per se eorum proprius locus, vel communis. Corpus autem Christi in loco quem species transmutant, non est per se neque sicut in loco proprio, neque sicut in loco communi, sicut ex dictis patere potest; et ideo per se in illo moveri non potest, neque per accidens, sicut corpora per accidens moventur; sed hoc modo quo aliquid et per accidens est in loco, et per accidens movetur. Nec differt, ut quidam dicunt differre, utrum species moveantur in eodem loco, aut transferantur de loco ad locum: quia quod in eodem loco secundum substantiam manens movetur, mutat locum non solum secundum partes, sed secundum totum, ut in 6 Physic. probatur.  
 
 Et secundum hoc patet solutio ad utramque partem, praeter ultimum.  
 
@@ -263,7 +265,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod oculus glorificatus possit videre ipsum verum corpus Christi sub speciebus existens. Ipse enim Christus sub speciebus existens, videt seipsum ibi corporali oculo. Sed corpora glorificata conformantur corpori ejus, ut dicitur Philipp. 3. Ergo et alius oculus glorificatus, puta Virginis, potest hoc idem.***
+Ad quartum sic proceditur. Videtur quod oculus glorificatus possit videre ipsum verum corpus Christi sub speciebus existens. Ipse enim Christus sub speciebus existens, videt seipsum ibi corporali oculo. Sed corpora glorificata conformantur corpori ejus, ut dicitur Philipp. 3. Ergo et alius oculus glorificatus, puta Virginis, potest hoc idem.  
 
 Praeterea, ideo, ut infra dicetur, corpus Christi sub alia specie proponitur, ut fides habeat meritum. Sed illi qui sunt in gloria, non habent fidem. Ergo ipsi ad ipsam substantiam corporis ejus videndam pertingunt corporali oculo, etiam secundum quod est sub sacramento.  
 
@@ -275,7 +277,7 @@ Praeterea, corpus non est natum movere visum nisi moto medio. Sed medium non mov
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod quando apparet in specie carnis vel pueri in altari, quod videatur in specie propria. Corpus enim Christi non est nisi sub specie propria, vel sub specie panis. Sed tunc desinunt ibi esse species panis. Ergo si non est species propria illa in qua videtur, nullo modo erit ibi.***
+Ulterius. Videtur quod quando apparet in specie carnis vel pueri in altari, quod videatur in specie propria. Corpus enim Christi non est nisi sub specie propria, vel sub specie panis. Sed tunc desinunt ibi esse species panis. Ergo si non est species propria illa in qua videtur, nullo modo erit ibi.  
 
 Praeterea, illa ostensio est ad aedificationem fidei. Sed non confirmaretur fides, si Christus in specie alterius carnis appareret. Ergo in specie propria ibi apparet.  
 
@@ -287,7 +289,7 @@ Praeterea, superficies illius speciei quae ibi apparet, tangit aerem circumstant
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in hoc casu debeat sumi. Quia in sumente exigitur devotio. Sed talis ostensio fit ad augmentandam devotionem. Ergo tunc magis debet sumi.***
+Ulterius. Videtur quod in hoc casu debeat sumi. Quia in sumente exigitur devotio. Sed talis ostensio fit ad augmentandam devotionem. Ergo tunc magis debet sumi.  
 
 Praeterea, ille qui consecrat, secundum canones debet sumere: quod non posset nisi illud quod sub specie carnis apparet, sumeret. Ergo debet sumere.  
 
@@ -295,7 +297,7 @@ Sed contra, nihil horrendum est committendum in hoc sacramento. Sed horrendum es
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod nec angelus possit videre corpus Christi sub sacramento. Quia quidam sancti sunt majores quibusdam angelis, ut habetur per Glossam 1 Corinth., 6, super illud: *angelos judicabimus*. Sed oculus glorificatus hominis sancti non potest ipsum videre. Ergo nec angelus.***
+Ulterius. Videtur quod nec angelus possit videre corpus Christi sub sacramento. Quia quidam sancti sunt majores quibusdam angelis, ut habetur per Glossam 1 Corinth., 6, super illud: *angelos judicabimus*. Sed oculus glorificatus hominis sancti non potest ipsum videre. Ergo nec angelus.  
 
 Praeterea, quod est visibile, si ab aliquo non videatur, hoc est propter defectum videntis. Sed oculus glorificatus, qui non videt corpus Christi sub sacramento, ab omni defectu est immunis. Ergo corpus Christi non est de se visibile sub sacramento existens. Sed quod de se non est visibile, a nullo potest videri. Ergo nec angelus corpus Christi videre potest sub sacramento.  
 
@@ -303,7 +305,7 @@ Sed contra, Gregorius: *quia est quod non videant qui videntem omnia vident?* Se
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod comprehendi possit intellectu viatoris. Quod enim est supra intellectum, est supra sermonem, ut patet in Lib. *de Causis*. Sed nos loquimur de corpore Christi sub sacramento contento. Ergo non est omnino supra intellectum nostrum.***
+Ulterius. Videtur quod comprehendi possit intellectu viatoris. Quod enim est supra intellectum, est supra sermonem, ut patet in Lib. *de Causis*. Sed nos loquimur de corpore Christi sub sacramento contento. Ergo non est omnino supra intellectum nostrum.  
 
 Praeterea, nullus tenetur ad impossibile. Sed quilibet tenetur concedere, et mente tenere, corpus Christi verum esse sub sacramento. Ergo mente capi potest.  
 
@@ -311,7 +313,7 @@ Sed contra, intellectus noster ortum habet a sensu. Sed corpus Christi sub sacra
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod nihil videtur corporali visu, nisi per hoc quod oculus ejus movetur ab objecto secundum similitudinem coloris in ipso existentis: quae quidem similitudo primo fit in medio, et deinde in sensu. Corpus autem Christi non habet ordinem ad species, sub quibus est, ratione quantitatis suae; et ideo non potest aggenerari similitudo coloris ejus in aere contingente species, duplici ratione. Primo, quia omnis actio corporalis requirit contactum; tactus autem corporalis consequitur quantitatem, quia nihil aliud est quam conjunctio terminorum duarum quantitatum; et ideo corpus Christi non tangit aerem circumstantem; et propter hoc non potest in ipso aggenerare similitudinem coloris sui. Secundo, quia color consequitur quantitatem, cum immediatum subjectum ejus sit superficies: et quia corpus Christi non habet ordinem ad hunc locum ratione suae quantitatis, ideo nec ratione sui coloris; et ideo sicut non conjungitur aeri circumstanti secundum quantitatem, ita non assimilat sibi ipsum, aggenerando similitudinem coloris sui in eo.***
+Respondeo dicendum, ad primam quaestionem, quod nihil videtur corporali visu, nisi per hoc quod oculus ejus movetur ab objecto secundum similitudinem coloris in ipso existentis: quae quidem similitudo primo fit in medio, et deinde in sensu. Corpus autem Christi non habet ordinem ad species, sub quibus est, ratione quantitatis suae; et ideo non potest aggenerari similitudo coloris ejus in aere contingente species, duplici ratione. Primo, quia omnis actio corporalis requirit contactum; tactus autem corporalis consequitur quantitatem, quia nihil aliud est quam conjunctio terminorum duarum quantitatum; et ideo corpus Christi non tangit aerem circumstantem; et propter hoc non potest in ipso aggenerare similitudinem coloris sui. Secundo, quia color consequitur quantitatem, cum immediatum subjectum ejus sit superficies: et quia corpus Christi non habet ordinem ad hunc locum ratione suae quantitatis, ideo nec ratione sui coloris; et ideo sicut non conjungitur aeri circumstanti secundum quantitatem, ita non assimilat sibi ipsum, aggenerando similitudinem coloris sui in eo.  
 
 Ad primum ergo dicendum, quod si oculus Christi esset extra species sacramenti, non videret substantiam suam intra species contentam ex natura gloriae nisi miraculose; et ideo non oportet quod oculus glorificatus videat, nisi forte per miraculum.  
 
@@ -321,7 +323,7 @@ Ad tertium dicendum, quod sensus in hoc sacramento non decipitur: quia sensus no
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod absque omni dubio dicendum est, illud quod ibi apparet, esse verum corpus Christi (alias non adoraretur), sicut et prius erat quando in specie panis videbatur. Sed utrum species illa quae ibi apparet, sit species corporis Christi, difficile est determinare.***
+Ad secundam quaestionem dicendum, quod absque omni dubio dicendum est, illud quod ibi apparet, esse verum corpus Christi (alias non adoraretur), sicut et prius erat quando in specie panis videbatur. Sed utrum species illa quae ibi apparet, sit species corporis Christi, difficile est determinare.  
 
 Quidam enim dicunt, quod species illa carnis vel pueri est tantum in oculo videntis: et hoc forte aliquando verum est, cum ab uno videatur in specie panis, et ab alio in specie carnis vel pueri; et ab eodem etiam quandoque post modicum iterum in specie panis videtur, quod prius in specie carnis videbatur: et secundum hoc potest fieri divino miraculo ut similitudo corporis Christi fiat in oculo, sicut naturaliter fieret, si corpus Christi praesens esset. Nec est deceptio; quia non fit nisi ad instructionem fidei, et devotionem excitandam.  
 
@@ -339,7 +341,7 @@ Ad tertium dicendum, quod quamvis illa accidentia carnis ibi prius non essent, t
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod usus sacramenti debet materiae sacramenti competere, sicut ablutio aquae in baptismo. Et quia corpus Christi in hoc sacramento sub specie panis nobis proponitur, ideo usus sacramenti est per manducationem, ut supra dictum est. Cum ergo in specie propria, vel in specie carnis cruentatae apparens, vel in simili specie, non habeat rationem cibi, non debet assumi ab eo cui sic apparet, sed ab alio cui sub specie panis apparet. Si autem omnibus sub specie carnis appareret, tunc deberet cum reliquiis poni.***
+Ad tertiam quaestionem dicendum, quod usus sacramenti debet materiae sacramenti competere, sicut ablutio aquae in baptismo. Et quia corpus Christi in hoc sacramento sub specie panis nobis proponitur, ideo usus sacramenti est per manducationem, ut supra dictum est. Cum ergo in specie propria, vel in specie carnis cruentatae apparens, vel in simili specie, non habeat rationem cibi, non debet assumi ab eo cui sic apparet, sed ab alio cui sub specie panis apparet. Si autem omnibus sub specie carnis appareret, tunc deberet cum reliquiis poni.  
 
 Ad primum ergo dicendum, quod devotio non excitatur hic ad manducandum, quia non in specie cibi proponitur, sed ad venerandum.  
 
@@ -347,7 +349,7 @@ Ad secundum dicendum, quod in tali casu sacerdos debet iterum celebrare, ut quid
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod angelus nihil videt corporali visione; quia etsi corpus assumat, non tamen conceditur quod videat per corpus assumptum; unde relinquitur quod in ipso non est nisi intellectualis visus, qui quidem non est recipiendo a sensibilibus, ut in 2 Lib. dictum est, dist. 3, qu. 2, art. 1 ad 2, sed vel per species innatas, quantum ad ea quae naturali cognitione intelligunt, vel per Verbum quod vident, quantum ad ea quae supra naturalem cognitionem ipsorum sunt. Et quia angeli sunt beati, oportet quod habeant plenam visionem eorum omnium de quibus est fides quantum ad visionem gloriosam, quae fidei succedit; et ideo sicut fides credit corpus Christi esse sub sacramento, ita in visione beata angeli vident. Credo autem quod omnia quae sunt fidei, sunt supra naturalem cognitionem angelorum, sicut supra rationem naturalem hominum; et ideo mysteria fidei dicuntur esse *abscondita a saeculis in Deo*, ut dicitur Eph. 3; unde naturali cognitione non vident angeli corpus Christi sub sacramento, sed solum beata. Daemones vero nullo modo vident plenarie, sed *credunt, et contremiscunt*.***
+Ad quartam quaestionem dicendum, quod angelus nihil videt corporali visione; quia etsi corpus assumat, non tamen conceditur quod videat per corpus assumptum; unde relinquitur quod in ipso non est nisi intellectualis visus, qui quidem non est recipiendo a sensibilibus, ut in 2 Lib. dictum est, dist. 3, qu. 2, art. 1 ad 2, sed vel per species innatas, quantum ad ea quae naturali cognitione intelligunt, vel per Verbum quod vident, quantum ad ea quae supra naturalem cognitionem ipsorum sunt. Et quia angeli sunt beati, oportet quod habeant plenam visionem eorum omnium de quibus est fides quantum ad visionem gloriosam, quae fidei succedit; et ideo sicut fides credit corpus Christi esse sub sacramento, ita in visione beata angeli vident. Credo autem quod omnia quae sunt fidei, sunt supra naturalem cognitionem angelorum, sicut supra rationem naturalem hominum; et ideo mysteria fidei dicuntur esse *abscondita a saeculis in Deo*, ut dicitur Eph. 3; unde naturali cognitione non vident angeli corpus Christi sub sacramento, sed solum beata. Daemones vero nullo modo vident plenarie, sed *credunt, et contremiscunt*.  
 
 Ad primum ergo dicendum, quod beati visione intellectuali gloriae vident corpus Christi sub sacramento, quamvis non corporali, in qua cum angelis non communicant.  
 
@@ -355,7 +357,7 @@ Ad secundum dicendum, quod de se secundum quod est sub sacramento, non est visib
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod sicut in 3 Lib. dictum est, dist. 34, qu. 1, art. 2, quaestiunc. 1, illa tantum intellectus noster videre dicitur, proprie loquendo, quorum essentiae ei repraesentantur sive lumine naturali, sive lumine gratiae aut gloriae; et ideo per consequens videre dicitur illa a principio quae statim cognitis terminis, quasi visis essentiis terminorum, cognoscuntur, et per consequens tantum illa quae reducuntur in illa principia, sicut conclusiones scientiarum; quae vero nullo modo ordinem habent ad principia naturaliter cognita, nec ad sensus perceptionem, non potest in statu viae videre. Et quia corpus Christi esse sub sacramento nullum ordinem habet ad principia naturaliter cognita, quae sunt principia scientiarum, nec etiam sensu a nobis apprehendi potest; ideo intellectus viatoris nullo modo hoc videre potest, et multo minus comprehendere: quia aliquid videtur quod non comprehenditur, sicut essentia divina in patria: nisi videre largo modo dicto, secundum quod dicimur ea quae sunt fidei, videre *in speculo et aenigmate*, 1 Corinth. 13.***
+Ad quintam quaestionem dicendum, quod sicut in 3 Lib. dictum est, dist. 34, qu. 1, art. 2, quaestiunc. 1, illa tantum intellectus noster videre dicitur, proprie loquendo, quorum essentiae ei repraesentantur sive lumine naturali, sive lumine gratiae aut gloriae; et ideo per consequens videre dicitur illa a principio quae statim cognitis terminis, quasi visis essentiis terminorum, cognoscuntur, et per consequens tantum illa quae reducuntur in illa principia, sicut conclusiones scientiarum; quae vero nullo modo ordinem habent ad principia naturaliter cognita, nec ad sensus perceptionem, non potest in statu viae videre. Et quia corpus Christi esse sub sacramento nullum ordinem habet ad principia naturaliter cognita, quae sunt principia scientiarum, nec etiam sensu a nobis apprehendi potest; ideo intellectus viatoris nullo modo hoc videre potest, et multo minus comprehendere: quia aliquid videtur quod non comprehenditur, sicut essentia divina in patria: nisi videre largo modo dicto, secundum quod dicimur ea quae sunt fidei, videre *in speculo et aenigmate*, 1 Corinth. 13.  
 
 Ad primum ergo dicendum, quod sicut imperfecte videmus, ita etiam et deficienter loquimur.  
 
@@ -363,7 +365,7 @@ Ad secundum dicendum, quod nullus tenetur videre in praesenti, sed tenetur crede
 
 Expositio textus  
 
-****Non hoc corpus quod videtis, manducaturi estis*. Intelligendum est per se, idest secundum quod videtur in forma sua.***
+*Non hoc corpus quod videtis, manducaturi estis*. Intelligendum est per se, idest secundum quod videtur in forma sua.  
 
 *Ipsum quidem et non ipsum corpus*. Videtur esse contradictio. Et dicendum, quod non est: quia ipsum corpus Christi in propria specie non manducatur; et hoc dicit *visibiliter* Augustinus, quia in propria specie corpus Christi videri potest; sed sub specie panis manducatur; et hoc dicit *invisibiliter*, quia in propria specie videri non potest.  
 

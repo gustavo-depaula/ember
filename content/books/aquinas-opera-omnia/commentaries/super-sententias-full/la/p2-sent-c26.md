@@ -1,8 +1,10 @@
 # D. 46 - Certain things that seem to show the inefficacy of the divine will
 
+***De quibusdam quae videntur divinam voluntatem ostendere inefficacem***
+
 ***Divisio textus***
 
-***Postquam determinavit de voluntate divina quid sit, et quot modis dicatur, hic inquirit de efficacia ipsius, et dividitur in partes duas: in prima movet quasdam quaestiones de quibusdam quae videntur divinam voluntatem ostendere inefficacem; in secunda ostendit ipsam esse efficacem in omnibus, 47 dist.: *voluntas quippe Dei semper efficax est*.***
+Postquam determinavit de voluntate divina quid sit, et quot modis dicatur, hic inquirit de efficacia ipsius, et dividitur in partes duas: in prima movet quasdam quaestiones de quibusdam quae videntur divinam voluntatem ostendere inefficacem; in secunda ostendit ipsam esse efficacem in omnibus, 47 dist.: *voluntas quippe Dei semper efficax est*.  
 
 Prima pars dividitur in duas, secundum duo quae possunt divinam voluntatem inefficacem ostendere, vel quod non fiat quod vult vel quod fiat quod non vult. In prima ergo parte pertractat quaestionem hanc, utrum aliquid velit fieri quod non fiat; in secunda, utrum aliquid fit quod non velit, ibi: *ideoque cum constet omnia bona quae fiunt, ejus fieri voluntate (...), recte quaeri solet, utrum et mala omnia quae fiunt, id est peccata, Dei fiant voluntate*.  
 
@@ -170,7 +172,7 @@ Ad quartum dicendum, quod sicut malum oppositum gratiae non est volitum a Deo, i
 
 Expositio textus  
 
-****Non quia nullus hominum est qui non illuminetur, sed quia nisi ab illo nullus illuminatur*. Hoc intelligitur de lumine gratiae. Si autem de lumine naturalis intellectus intelligatur, sic absolute omnem hominem illuminat: quia, secundum Ambrosium, ut supra, omne verum a quocumque dicatur, a Spiritu Sancto est.***
+*Non quia nullus hominum est qui non illuminetur, sed quia nisi ab illo nullus illuminatur*. Hoc intelligitur de lumine gratiae. Si autem de lumine naturalis intellectus intelligatur, sic absolute omnem hominem illuminat: quia, secundum Ambrosium, ut supra, omne verum a quocumque dicatur, a Spiritu Sancto est.  
 
 *Est enim aliquid quod in se bonum est*. Ratio hujus distinctionis est haec, quia, secundum Dionysium, cap. 4 *De divinis nominibus*, bonum constat ex una causa perfecta; sed malum omnifariam contingit ex particularibus defectibus. Ad hoc ergo quod aliquis actus sit absolute bonus, oportet quod congregetur bonitas objecti, a qua actus est bonus in se, ut dare eleemosynam vel aliquid hujusmodi, et bonum ex parte agentis, ut scilicet bene faciat;  
 

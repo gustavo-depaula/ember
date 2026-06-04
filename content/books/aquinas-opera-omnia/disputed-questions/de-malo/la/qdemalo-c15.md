@@ -1,10 +1,12 @@
 # Q. 15 - On lust
 
+***De luxuria***
+
 ***Articulus 1***
 
 ***Utrum omnis actus luxuriae sit peccatum***
 
-***Quaestio est de luxuria. Et primo quaeritur utrum omnis actus luxuriae sit peccatum.***
+Quaestio est de luxuria. Et primo quaeritur utrum omnis actus luxuriae sit peccatum.  
 
 Et videtur quod non. Fornicatio enim est actus luxuriae. Sed ipsa connumeratur quibusdam quae non sunt peccata, sed secundum se licita: dicitur enim Act., XV, 28-29: *visum est spiritui sancto et nobis, nihil ultra imponere oneris vobis quam haec necessaria, ut abstineatis vos ab immolatis simulacrorum, et sanguine, et suffocato, et fornicatione*. Sed nullus cibi esus secundum se est peccatum, secundum illud I ad Tim., IV, 4: *nihil reiiciendum quod cum gratiarum actione percipitur*. Ergo neque fornicatio est peccatum; et ita non omnis actus luxuriae est peccatum.  
 
@@ -154,7 +156,7 @@ Articulus 3
 
 ***De speciebus luxuriae***
 
-***Tertio quaeritur de speciebus luxuriae, quae sunt fornicatio, adulterium, incestus, stuprum, raptus, et vitium contra naturam.***
+Tertio quaeritur de speciebus luxuriae, quae sunt fornicatio, adulterium, incestus, stuprum, raptus, et vitium contra naturam.  
 
 Et videtur quod inconvenienter distinguantur. Diversitas enim materiae non diversificat speciem. Sed praedicta non distinguuntur nisi secundum materiam, prout scilicet aliquis polluit vel coniugatam, vel virginem, vel alterius conditionis mulierem. Ergo praedicta non sunt diversae species luxuriae.  
 

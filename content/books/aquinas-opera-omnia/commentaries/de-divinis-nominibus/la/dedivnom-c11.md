@@ -1,10 +1,12 @@
 # C. 10 - On Omnipotent; Ancient of Days; In Which Also On Aevum and On Time
 
+***De omnipotente; vetere dierum; in quo et de aevo et de tempore***
+
 ***Lectio 1***
 
 ***Quomodo Deus dicitur omnipotens***
 
-***C. X, §1. 384. Vide autem verbo multorum-nominum Deum, sicut Omnipotentem, sicut Veterem Dierum laudare.***
+C. X, §1. 384. Vide autem verbo multorum-nominum Deum, sicut Omnipotentem, sicut Veterem Dierum laudare.  
 
 > 385. Hoc enim dicitur quidem propter hoc quod omnium ipse est omnipotens sessio, continens et circumhabens tota et collocans et fundans et circumstringens et firmum in seipso omne perficiens et ex seipso tota, quemadmodum ex radice omnitenente, producens et ad seipsum omnia, quemadmodum et plantationem omnitenentem, convertens;
 
@@ -80,7 +82,7 @@ Lectio 2
 
 ***Quare Deus dicatur Antiquus dierum***
 
-***388. Dierum autem antiquus laudatur Deus propter hoc quod omnium est et aevum et tempus et ante dies et aevum et tempora.***
+388. Dierum autem antiquus laudatur Deus propter hoc quod omnium est et aevum et tempus et ante dies et aevum et tempora.  
 
 > 389. Et quidem et tempus et diem et quartam partem anni et aevum, ut decet Deum, ipsum dicere convenit, sicut existentem secundum omnem motum intransmutabilem et immobile et in hoc quod semper movetur manentem in seipso.
 
@@ -124,7 +126,7 @@ Lectio 3
 
 ***De aevo et tempore***
 
-***§3. 392. Oportet autem, sicut arbitror, et temporis et aevi naturam, ex eloquiis videre.***
+§3. 392. Oportet autem, sicut arbitror, et temporis et aevi naturam, ex eloquiis videre.  
 
 > 393. Etenim non omnino et absolute ingenita et vere aeterna ubique dicit aeterna, sed et incorruptibilia et immortalia et invariabilia et existentia eodem modo, sicut quando dicit: *elevamini portae aeternales* et similia. Multoties autem et antiquissima, aevi nominatione figurat et totam rursus temporis appositionem secundum nos, quando aevum appellat.
 

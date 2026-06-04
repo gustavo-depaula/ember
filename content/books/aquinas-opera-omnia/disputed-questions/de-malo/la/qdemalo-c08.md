@@ -1,10 +1,12 @@
 # Q. 8 - On the capital vices, and pride
 
+***De vitiis capitalibus***
+
 ***Articulus 1***
 
 ***De numero vitiorum capitalium***
 
-***Quaestio est de vitiis capitalibus. Et primo quaeritur de numero vitiorum capitalium quot et quae sunt.***
+Quaestio est de vitiis capitalibus. Et primo quaeritur de numero vitiorum capitalium quot et quae sunt.  
 
 Et videtur quod sint septem. Dicit enim Gregorius XXXI Moral.: *septem sunt principalia vitia, scilicet inanis gloria, invidia, ira, tristitia, avaritia, ventris ingluvies, luxuria*. Sed contra, capitalia vitia videntur dici ex quibus alia oriuntur. Sed omnia vitia oriuntur ex uno vitio, vel ex duobus: dicitur enim I ad Tim., VI, 10: *radix omnium malorum cupiditas*; et Eccli., X, 15, dicitur: *initium omnis peccati superbia*. Ergo non sunt septem vitia capitalia.  
 
@@ -356,7 +358,7 @@ Articulus 4
 
 ***De speciebus superbiae***
 
-***Quarto quaeritur de speciebus superbiae quas assignat Gregorius XXIII Moralium, dicens: *quatuor quippe sunt species quibus omnis tumor arrogantium demonstratur, cum bonum aut a semetipsis habere se existimant, aut si sibi datum desuper credunt, pro suis se hoc accepisse meritis putant, aut certe cum iactant se habere quod non habent, aut despectis ceteris singulariter videri appetunt*.***
+Quarto quaeritur de speciebus superbiae quas assignat Gregorius XXIII Moralium, dicens: *quatuor quippe sunt species quibus omnis tumor arrogantium demonstratur, cum bonum aut a semetipsis habere se existimant, aut si sibi datum desuper credunt, pro suis se hoc accepisse meritis putant, aut certe cum iactant se habere quod non habent, aut despectis ceteris singulariter videri appetunt*.  
 
 Et videtur quod inconvenienter huiusmodi species superbiae assignentur. Quod enim aliquis existimet bonum se habere non ab alio, sed a semetipso, ad infidelitatem pertinet; cum fides recta hoc habeat, quod Deus omnium bonorum est auctor. Ergo non debet poni species superbiae quod aliquis existimet bonum a semetipso se habere, sed magis species erroris vel infidelitatis.  
 

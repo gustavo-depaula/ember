@@ -1,6 +1,8 @@
 # Chapter 4
 
-***^4:1^ And in that day seven women shall take hold of one man, saying: we will eat our own bread, and wear our own apparel: only let your name be called upon usDR: “let us be called by thy name.” take away our reproach.***
+***Lecture 1***
+
+^4:1^ And in that day seven women shall take hold of one man, saying: we will eat our own bread, and wear our own apparel: only let your name be called upon usDR: “let us be called by thy name.” take away our reproach.  
 
 > **133**. ***And in that day seven women shall take hold of one man***. After he denounces the calumny of the oppressors in chapters 2 and 3, in this chapter, the prophet sets out the consolation of the oppressed. And this is divided into two parts:
 
@@ -22,7 +24,7 @@ To this is to be said that, as the Philosopher says,*Nicomachean Ethics* 8.12 (1
 
 Lecture 2  
 
-***^4:2 ^In that day the bud of the Lord shall be in magnificence and glory, and the fruit of the earth shall be high, and a great joy to them that shall have escaped of Israel.***
+^4:2 ^In that day the bud of the Lord shall be in magnificence and glory, and the fruit of the earth shall be high, and a great joy to them that shall have escaped of Israel.  
 
 > ^4:3 ^And it shall come to pass, that every one that shall be left in Zion, and that shall remain in Jerusalem, shall be called holy, every one that is written in life in Jerusalem.
 

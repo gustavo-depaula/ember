@@ -1,6 +1,8 @@
 # C. 20 - Pashhur persecutes Jeremiah
 
-***^20:1^ Et audivit Phassur filius Emmer sacerdos, qui constitutus erat princeps in domo Domini, Jeremiam prophetantem sermones istos.***
+***Lectio 1***
+
+^20:1^ Et audivit Phassur filius Emmer sacerdos, qui constitutus erat princeps in domo Domini, Jeremiam prophetantem sermones istos.  
 
 > ^20:2^ Et percussit Phassur Jeremiam prophetam, et misit eum in nervum, quod erat in porta Benjamin superiori in domo Domini.
 
@@ -66,7 +68,7 @@ Tertio quantum ad ipsius domesticos: ***tu autem Phassur, et omnes habitatores d
 
 Lectio 2  
 
-***^20:7^ Seduxisti me, Domine, et seductus sum; fortior me fuisti, et invaluisti. Factus sum in derisum tota die, omnes subsannant me:***
+^20:7^ Seduxisti me, Domine, et seductus sum; fortior me fuisti, et invaluisti. Factus sum in derisum tota die, omnes subsannant me:  
 
 > ^20:8^ quia jam olim loquor vociferans iniquitatem, et vastitatem clamito. Et factus est mihi sermo Domini in opprobrium, et in derisum tota die.
 
@@ -120,7 +122,7 @@ Quarto ponitur gratiarum actio, ***cantate Domino***. Psal. 71: *quia liberavit 
 
 Lectio 3  
 
-***^20:14^ Maledicta dies in qua natus sum; dies in qua peperit me mater mea, non sit benedicta.***
+^20:14^ Maledicta dies in qua natus sum; dies in qua peperit me mater mea, non sit benedicta.  
 
 > ^20:15^ Maledictus vir qui annuntiavit patri meo, dicens: natus est tibi puer masculus, et quasi gaudio laetificavit eum.
 
@@ -160,4 +162,4 @@ Secundo ponitur maledictionis ratio: ***quare de vulva egressus sum?*** Supra 15
 
 Collationes  
 
-***Nota super illo verbo, ***seduxisti me, Domine, et seductus sum; fortior me fuisti, et invaluisti***, quia Dominus seducit trahendo persuasionibus. 2 Cor. ult.: *cum essem astutus, dolo vos cepi*. Alliciendo consolationibus. Apocal. 10: *cum devorassem eam, amaricatus est venter meus*. Confortando promissionibus. Supra 4: ***ergo ne decepisti populum istum, et Jerusalem, dicens: pax erit vobis? Et ecce pervenit gladius usque ad animam***. Invalescit autem Dominus corrigendo. Isa. 8: *in forti manu sua erudivit me, ne irem in via populi hujus*. A noxiis retrahendo. Oseae 2: *sepiam viam tuam spinis, et sepiam eam maceria*. Amore alligando. Oseae 11: *in funiculis Adam traham eos, in vinculis caritatis*.***
+Nota super illo verbo, ***seduxisti me, Domine, et seductus sum; fortior me fuisti, et invaluisti***, quia Dominus seducit trahendo persuasionibus. 2 Cor. ult.: *cum essem astutus, dolo vos cepi*. Alliciendo consolationibus. Apocal. 10: *cum devorassem eam, amaricatus est venter meus*. Confortando promissionibus. Supra 4: ***ergo ne decepisti populum istum, et Jerusalem, dicens: pax erit vobis? Et ecce pervenit gladius usque ad animam***. Invalescit autem Dominus corrigendo. Isa. 8: *in forti manu sua erudivit me, ne irem in via populi hujus*. A noxiis retrahendo. Oseae 2: *sepiam viam tuam spinis, et sepiam eam maceria*. Amore alligando. Oseae 11: *in funiculis Adam traham eos, in vinculis caritatis*.

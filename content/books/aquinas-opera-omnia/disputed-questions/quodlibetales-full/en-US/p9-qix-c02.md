@@ -1,5 +1,7 @@
 # On the Members of Christ
 
+***On angels***
+
 ***Question 4***
 
 ***On angels***
@@ -26,7 +28,7 @@ Article 1
 
 ***Whether they are composed out of matter and form***
 
-***To the first we proceed thus. It seems that an angel is composed out of matter and form.***
+To the first we proceed thus. It seems that an angel is composed out of matter and form.  
 
 Obj. 1: For Augustine says in the book *On the Marvels of Sacred Scripture*: *the omnipotent* God, *before he fashioned out of unformed matter* corporeal and incorporeal things, *sensible and insensible things, intellectual things and things lacking intellect, first divided multiform species*.This is not Augustine of Hippo, but rather, Augustine of Ireland, *On the Marvels of Sacred Scripture*, ch. 1 (PL 35:2151). Yet angels are intellectual and incorporeal. Therefore, they have matter from their composition.Pseudo-Dionysius, *On the Divine Names* 4.1 (PG 3:694–95); Aquinas, *In II Sent*. 3.1.1, s.c.  
 
@@ -66,9 +68,9 @@ Reply Obj. 5: It must be said that in the highest good there can be no diversity
 
 Article 2  
 
-***Whether angels can be simultaneously in actual morning and evening knowledge, that is, so that simultaneously they might know things in their proper nature and in the Word***
+Whether angels can be simultaneously in actual morning and evening knowledge, that is, so that simultaneously they might know things in their proper nature and in the Word  
 
-***To the second we proceed thus. It seems that an angel cannot know things simultaneously in the Word and in their proper nature.***
+To the second we proceed thus. It seems that an angel cannot know things simultaneously in the Word and in their proper nature.  
 
 Obj. 1: For in the same way a power cannot do the same act twice simultaneously, the intellect cannot think and think simultaneously. But that by which the intellect of an angel sees things in the Word is one act and that by which it sees things in their proper nature is another. Therefore, it is impossible for it to see simultaneously things in the Word and in their proper nature.  
 
@@ -100,9 +102,9 @@ Reply Obj. 4: Between act and object nothing falls as a medium, just as species 
 
 Article 3  
 
-***Whether angels could have merited enjoyment and enjoyed by the same act of charity***
+Whether angels could have merited enjoyment and enjoyed by the same act of charity  
 
-***To the third we proceed thus. It seems that an angel did not merit its own beatitude.***
+To the third we proceed thus. It seems that an angel did not merit its own beatitude.  
 
 Obj. 1: For what is blessed is perfect, yet what merits is still imperfect. But the same thing cannot be simultaneously perfect and imperfect. Therefore, an angel cannot merit beatitude while it has it.  
 
@@ -176,7 +178,7 @@ Article 5
 
 ***Whether angels can impress upon or make something in those bodily things***
 
-***To the fifth we proceed thus. It seems that angels cannot act upon these lower bodies.***
+To the fifth we proceed thus. It seems that angels cannot act upon these lower bodies.  
 
 Obj. 1: For action can only be between those things which fit somehow with one another. But an angel does not fit somehow with those bodies, since there is no one genus of corruptible and incorruptible things, as is said in the tenth book of the *Metaphysics*.Aristotle, *Metaphysics* 10.10, 1058b26–29. Therefore, angels cannot act upon these bodies.  
 
@@ -228,7 +230,7 @@ Article 1
 
 ***Whether the vegetative soul and the sensitive soul are a result of creation***
 
-***To the first we proceed thus. It seems that the vegetative soul and the sensitive soul are brought to exist through creation.***
+To the first we proceed thus. It seems that the vegetative soul and the sensitive soul are brought to exist through creation.  
 
 Obj. 1: For as Augustine says in the book *On True Religion*, a living *substance* is greater by the order *of nature* than a *non-living substance*.Augustine, *On True Religion* 29.52 (CCSL 32:221; PL 34:145). But the vegetative soul and the sensitive soul are living substances. Therefore, they are nobler than all non-living substances. Yet some non-living substances are created immediately by God, such as the elements of this world.Cf. Galatians 4:3; Colossians 2:8, 20; Aquinas, *Commentary on Galatians*, ch. 4, lect. 1, n. 198; *Commentary on Colossians*, ch. 2, lect. 2, 4; Peter Lombard, *Sentences*, bk. 2, d. 12, ch. 1, p. 384 (PL 192:675). Therefore, the sensitive soul and the vegetative soul also are created immediately by God, since the nobility of the thing made demonstrates the nobility of the maker.  
 
@@ -280,7 +282,7 @@ Question 6
 
 ***Whether charity is increased according to its essence***
 
-***Then there is a question regarding grace, whether charity is increased according to its essence. And it seems that it is not.***
+Then there is a question regarding grace, whether charity is increased according to its essence. And it seems that it is not.  
 
 Obj. 1: For since an increase is a certain change or variation, that which is increased according to essence is varied or changed according to essence. But that which is varied according to essence or changed is either generated or corrupted. Therefore, if charity is increased according to essence, it is corrupted; for it is not generated, since it was before.  
 
@@ -310,7 +312,7 @@ Article 1
 
 ***Whether Peter sinned mortally by denying Christ***
 
-***To the first we proceed thus. It seems that Peter did not sin mortally by denying Christ.***
+To the first we proceed thus. It seems that Peter did not sin mortally by denying Christ.  
 
 Obj. 1: For a certain gloss says that he sinned through something unexpected.*Glossa interlinearis*, at Luke 22:57, in *Glossa ordinaria* 5.981; Ambrose of Milan, *Exposition on the Gospel of Luke* 10.72 (CCSL 14:367; PL 15:1822); Gregory the Great, *Morals on the Book of Job* 3.32.63 (CCSL 143:154; PL 75:630–31). But sin through what is unexpected is venial and not mortal (hence the first motions, which come to be through what is unexpected, are venial sins). Therefore, he sinned venially and not mortally.  
 
@@ -330,9 +332,9 @@ Reply Obj. 2: It must be said that Bernard is speaking improperly, and, so that 
 
 Article 2  
 
-***Whether to have many prebends without the care of souls, and without a dispensation, is a mortal sin***
+Whether to have many prebends without the care of souls, and without a dispensation, is a mortal sin  
 
-***To the second we proceed thus. It seems that to have many prebends without the care of souls, and without a dispensation, is a mortal sin.***
+To the second we proceed thus. It seems that to have many prebends without the care of souls, and without a dispensation, is a mortal sin.  
 
 Obj. 1: For whoever acts against a statute of a council sins mortally. But he who has many prebends acts against a statute of a general council. Therefore, he sins mortally.  
 
@@ -368,9 +370,9 @@ Question 8
 
 ***Article 1***
 
-***Whether all the saints who are canonized through the Church are in glory, or are some of them in hell***
+Whether all the saints who are canonized through the Church are in glory, or are some of them in hell  
 
-***Then there is a question regarding glory, whether all the saints who are canonized through the Church are in glory, or are some of them in hell. And it seems that some men canonized by the Church can be in hell.***
+Then there is a question regarding glory, whether all the saints who are canonized through the Church are in glory, or are some of them in hell. And it seems that some men canonized by the Church can be in hell.  
 
 Obj. 1: For no one can be as sure of the state of someone else as he can be of his own self, because *those things which are of a man* no one knows *unless the spirit of the man which is in him*, as is said in 1 Corinthians 2:11. But a man cannot be sure of himself whether he is in the state of salvation. Ecclesiastes 9:1: *no one knows whether he is worthy of hatred or of love*. Therefore, much less does the pope know. Therefore, he can err in canonizing.  
 

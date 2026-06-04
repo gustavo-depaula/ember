@@ -1,8 +1,10 @@
 # D. 26 - Hope
 
+***Hope***
+
 ***Division of the text***
 
-***After the Master has considered faith, here in the second place he considers hope. And this is divided into two parts:***
+After the Master has considered faith, here in the second place he considers hope. And this is divided into two parts:  
 
 in the first, he considers hope;  
 
@@ -54,7 +56,7 @@ Article 1
 
 ***Whether hope is an emotion***
 
-***To the first we proceed thus.Parallels: *ST* I-II.25.3; 40.2, 3. It seems that hope is not an emotion—that is, a passion.***
+To the first we proceed thus.Parallels: *ST* I-II.25.3; 40.2, 3. It seems that hope is not an emotion—that is, a passion.  
 
 Obj. 1: For hope is expectation. But expectation means immobility. Therefore, since every emotion consists in motion, it seems that hope is not an emotion.  
 
@@ -92,7 +94,7 @@ Article 2
 
 ***Whether hope exists in any other power than the concupiscible power***
 
-***To the second we proceed thus.Parallels: *ST* I-II.23.1; 40.2. It seems that hope does not exist in any other power than the concupiscible power.***
+To the second we proceed thus.Parallels: *ST* I-II.23.1; 40.2. It seems that hope does not exist in any other power than the concupiscible power.  
 
 Obj. 1: For the arduous or difficult does not add any character to the desirable over and above the good, because difficult has the character of something to be fled rather than desired, while something arduous does not differ from a non-arduous good except by more or less. But the concupiscible power concerns the good that is desired. Therefore, since the object of hope is the arduous or difficult good, it seems that hope is in the concupiscible power.  
 
@@ -140,7 +142,7 @@ Article 3
 
 ***Whether hope differs from the other passions, such as fear, etc.***
 
-***To the third we proceed thus.Parallels: *ST* I-II.23.2–4; 25.1; 40.1; *De spe*, a. 1; *Compendium theol.*, pt. 2, ch. 7. It seems that hope does not differ from other passions, or emotions.***
+To the third we proceed thus.Parallels: *ST* I-II.23.2–4; 25.1; 40.1; *De spe*, a. 1; *Compendium theol.*, pt. 2, ch. 7. It seems that hope does not differ from other passions, or emotions.  
 
 Obj. 1: For hope implies expectation. But every movement of desire seems to be expectation, which means nothing other than stretching forward toward something good. Therefore, hope is not distinguished from other emotions that pertain to desire.  
 
@@ -182,9 +184,9 @@ Reply Obj. 5: Since something arduous or difficult is the proper object of the i
 
 Article 4  
 
-***Whether hope is the principal passion, or whether love, desire, daring, or repentance is***
+Whether hope is the principal passion, or whether love, desire, daring, or repentance is  
 
-***To the fourth we proceed thus.Parallels: *ST* I-II.25.4; 84.4.ad 2; II-II.141.7.ad 3; *De veritate*, q. 26, a. 5. It seems that hope is not the principal passion.***
+To the fourth we proceed thus.Parallels: *ST* I-II.25.4; 84.4.ad 2; II-II.141.7.ad 3; *De veritate*, q. 26, a. 5. It seems that hope is not the principal passion.  
 
 Obj. 1: For love changes the affections more vehemently than hope, which is why it makes a person go outside of himself, as Dionysius says in *On the Divine Names*.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 13 (PG 3:711). But love is not listed as one of the principal passions. Therefore, neither should hope be.  
 
@@ -224,7 +226,7 @@ Article 5
 
 ***Whether hope can be in the intellectual part***
 
-***To the fifth we proceed thus.Parallels: above, a. 2, ad 1; *ST* II-II.18.1; *De spe,* a. 2. It seems that hope cannot exist in the intellectual part.***
+To the fifth we proceed thus.Parallels: above, a. 2, ad 1; *ST* II-II.18.1; *De spe,* a. 2. It seems that hope cannot exist in the intellectual part.  
 
 Obj. 1: For the passions only exist in the sensitive part, as the Philosopher says in the *Physics* 7.Aristotle, *Physics* 7.3, 248a8; Aquinas, *In Physic.*, bk. 7, lect. 6, n. 7. But hope is a passion. Therefore, it is in the sensitive part.  
 
@@ -262,7 +264,7 @@ Question 2
 
 ***The virtue of hope***
 
-***Next we investigate hope as a virtue; and concerning this there are five things to be asked:***
+Next we investigate hope as a virtue; and concerning this there are five things to be asked:  
 
 first, whether hope is a virtue;  
 
@@ -278,7 +280,7 @@ Article 1
 
 ***Whether hope is a virtue***
 
-***To the first we proceed thus.Parallels: *ST* II-II.17.1; *De spe*, a. 1. It seems that hope is not a virtue.***
+To the first we proceed thus.Parallels: *ST* II-II.17.1; *De spe*, a. 1. It seems that hope is not a virtue.  
 
 Obj. 1: For hope is divided against fear, joy, and sadness. But none of these is included in the genus of virtues—in fact, sadness is included in the genus of vices, as acedia and envy, and also included among sacraments as penance; while joy is in the genus of fruits, as is clear from Galatians 5; and fear is in the genus of gifts, as Isaiah 11 says. Therefore, hope should also not be called a virtue.  
 
@@ -316,7 +318,7 @@ Article 2
 
 ***Whether hope is a theological virtue***
 
-***To the second we proceed thus.Parallels: *ST* I-II.62.3; II-II.17.5; *De spe*, a. 1, ad 6, 7. It seems that hope is not a theological virtue.***
+To the second we proceed thus.Parallels: *ST* I-II.62.3; II-II.17.5; *De spe*, a. 1, ad 6, 7. It seems that hope is not a theological virtue.  
 
 Obj. 1: For every theological virtue has God as its object. But the object of the irascible faculty cannot be God, because since it is an appetite of the sensual part, it does not extend beyond sensible goods. Therefore, since hope pertains to the irascible appetite, it seems that hope is not a theological virtue.  
 
@@ -356,7 +358,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: *ST* II-II.17.6; *De spe*, a. 3, ad 9. It seems that hope is not a virtue distinct from the other theological virtues.***
+To the third we proceed thus.Parallels: *ST* II-II.17.6; *De spe*, a. 3, ad 9. It seems that hope is not a virtue distinct from the other theological virtues.  
 
 Obj. 1: For, virtues are distinguished by their acts and their objects. But hope is a looking forward to future beatitude, which is also the object of all the theological virtues. Therefore, hope is not distinguished from the other theological virtues.  
 
@@ -372,7 +374,7 @@ Furthermore, hope in the will is called by its resemblance to the hope that is i
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that hope cannot exist unless it is formed by charity.Parallels: *ST* I-II.62.4; II-II.17.8; *De caritate*, a. 3, ad 15; *De spe*, a. 3. For hope presupposes merit, as is clear from its definition. But merit cannot exist in someone who has unformed virtue. Therefore, hope cannot be unformed.***
+Obj. 1: Moreover, it seems that hope cannot exist unless it is formed by charity.Parallels: *ST* I-II.62.4; II-II.17.8; *De caritate*, a. 3, ad 15; *De spe*, a. 3. For hope presupposes merit, as is clear from its definition. But merit cannot exist in someone who has unformed virtue. Therefore, hope cannot be unformed.  
 
 Obj. 2: Furthermore, by the very fact that one’s faith tends toward God, it is formed faith. But hope tends toward God. Therefore, hope is always formed.  
 
@@ -384,7 +386,7 @@ Furthermore, anyone who does not have hope is in despair. But anyone who sins mo
 
 Response to Quaestiuncula 1  
 
-***I answer that, as was said above in Distinction 13,*In III Sent*., d. 13, q. 1, a. 4, resp. 2. the theological virtues are for ordering us to the final end. Now, for a person to begin to act for the sake of an end, he must first know that end, and second, he must desire it. But the will desires both possible and impossible things, and no one acts for something that is impossible to attain, although he may desire it; and for this reason, for the will to begin to act it must tend toward something as possible. And this inclination in the will, tending toward the eternal good as something possible to it by grace, is the act of hope. Thus, hope is something distinct from faith and charity: for faith causes knowledge of the end, inasmuch as it shows the end to be good, and thus the movement of charity arises. But inasmuch as it shows the end to be possible, the movement of hope arises—because faith is the foundation of all virtues, preceding them all in the natural order of acts.***
+I answer that, as was said above in Distinction 13,*In III Sent*., d. 13, q. 1, a. 4, resp. 2. the theological virtues are for ordering us to the final end. Now, for a person to begin to act for the sake of an end, he must first know that end, and second, he must desire it. But the will desires both possible and impossible things, and no one acts for something that is impossible to attain, although he may desire it; and for this reason, for the will to begin to act it must tend toward something as possible. And this inclination in the will, tending toward the eternal good as something possible to it by grace, is the act of hope. Thus, hope is something distinct from faith and charity: for faith causes knowledge of the end, inasmuch as it shows the end to be good, and thus the movement of charity arises. But inasmuch as it shows the end to be possible, the movement of hope arises—because faith is the foundation of all virtues, preceding them all in the natural order of acts.  
 
 Reply Obj. 1: The object of all the theological virtues is the same thing according to reality, but it differs according to notion: for, as it is the first truth, it is the object of faith; as it is the greatest good, it is the object of charity; as it is the highest of arduous things, it is the object of hope. And since beatitude names the most arduous thing, as the complete state of all goods combined, as Boethius says,Boethius, *Consolation of Philosophy*, bk. 3, prose 2 (PL 63:724). this is why beatitude is especially mentioned in the definition of hope. Now, habits and powers do not differ by their objects according to a real difference in object, but according to the different notions of the object, and these notions formally complete the object itself.  
 
@@ -396,7 +398,7 @@ Reply Obj. 4: Tending toward the desirable belongs just as much to the irascible
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as was said above,Above, q. 1, a. 3. desire and love differ in that love implies a certain suitability and connaturality with the object of love, which is perfected when the object of love is had in some way. But desire implies a movement toward something lovable that is not yet had; and for this reason the movement of the appetite begins in desire and ends in completed love. Thus, desire is a kind of beginning of love, and like a kind of imperfect love.***
+To the second question, it should be said that, as was said above,Above, q. 1, a. 3. desire and love differ in that love implies a certain suitability and connaturality with the object of love, which is perfected when the object of love is had in some way. But desire implies a movement toward something lovable that is not yet had; and for this reason the movement of the appetite begins in desire and ends in completed love. Thus, desire is a kind of beginning of love, and like a kind of imperfect love.  
 
 But having something happens first according as it exists in potentiality, because what exists in the faculty of the one who has it, is considered to be had already, in a way; therefore, the first thing that introduces love is the faculty of having what is desired. But hope consists in this faculty, and thus, love of something distant, which is not had actually, presupposes hope. But since hope is only about a good, and the first movement of the appetite toward good is desire, for this reason hope presupposes desire, and it is a middle in between love and desire.  
 
@@ -412,7 +414,7 @@ Article 4
 
 ***Whether hope contains certainty in its act***
 
-***To the fourth we proceed thus.Parallels: *ST* II-II.18.4; *De spe*, a. 2, ad 4. It seems that hope does not contain certainty in its act.***
+To the fourth we proceed thus.Parallels: *ST* II-II.18.4; *De spe*, a. 2, ad 4. It seems that hope does not contain certainty in its act.  
 
 Obj. 1: For certainty pertains to the understanding, because it is opposed to doubt. But hope does not pertain to the understanding but the affections. Therefore, certainty does not pertain to hope.  
 
@@ -454,7 +456,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***To the fifth we proceed thus.Parallels: *In III Sent*., d. 13, q. 1, a. 2, resp. 1, ad 1; *ST* I-II.65.5.ad 3; II-II.18.2.ad 1; III.7.4; 6.ad 1; 8.ad 2; 9.ad 1; *De veritate*, q. 29, a. 4, ad 15; *De spe*, a. 1, ad 12; 4.ad 16; *In Psalmos 15,* 30; *Super Heb.* 2, lect. 3. It seems that there was hope in Christ.***
+To the fifth we proceed thus.Parallels: *In III Sent*., d. 13, q. 1, a. 2, resp. 1, ad 1; *ST* I-II.65.5.ad 3; II-II.18.2.ad 1; III.7.4; 6.ad 1; 8.ad 2; 9.ad 1; *De veritate*, q. 29, a. 4, ad 15; *De spe*, a. 1, ad 12; 4.ad 16; *In Psalmos 15,* 30; *Super Heb.* 2, lect. 3. It seems that there was hope in Christ.  
 
 Obj. 1: For Psalm 31:1 says: *in you have I hoped*;RSV reads, “In thee, O Lord, do I seek refuge.” and it is interpreted as being spoken in the person of Christ. Therefore, he had hope.  
 
@@ -464,7 +466,7 @@ On the contrary, hope is about things not seen (Rom 8:24). But Christ could see 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that angels and the souls of saints have hope.Parallels: Below, d. 31, q. 2, a. 1, resp. 2, 3; *ST* I-II.67.4-5; II-II.18.2; 19.11.ad 3; *De spe*, a. 4; *De virtutibus cardinalibus*, a. 4, ad 10. For joy increases in the angels over the salvation of those they guard: *there is joy before the angels of God over one sinner who repents* (Luke 15:10). And similarly too the saints rejoice over the goods of others, which happen every day. Therefore, they have something that they might hope about.***
+Obj. 1: Moreover, it seems that angels and the souls of saints have hope.Parallels: Below, d. 31, q. 2, a. 1, resp. 2, 3; *ST* I-II.67.4-5; II-II.18.2; 19.11.ad 3; *De spe*, a. 4; *De virtutibus cardinalibus*, a. 4, ad 10. For joy increases in the angels over the salvation of those they guard: *there is joy before the angels of God over one sinner who repents* (Luke 15:10). And similarly too the saints rejoice over the goods of others, which happen every day. Therefore, they have something that they might hope about.  
 
 Obj. 2: Furthermore, the souls of the saints expect the garment that is the glorified body. This is why it is said to them, *that they should expect still a little while until the number of their fellow servants should be filled up* (Rev 6:11).RSV reads, “they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brethren should be complete.” But expectation belongs to hope. Therefore, the saints have hope.  
 
@@ -472,7 +474,7 @@ On the contrary, *when the perfect comes, what is partial will pass away* (1 Cor
 
 Quaestiuncula 3  
 
-***Obj. 1: It seems that the patriarchs who were in limbo did not have hope.Parallel: *In IV Sent.*, d. 45, q. 1, a. 2, resp. 3. For *hope deferred makes the heart sick*, as it says in Proverbs 13:12. But among the holy patriarchs who were in limbo, there was no affliction. Therefore they did not have hope.***
+Obj. 1: It seems that the patriarchs who were in limbo did not have hope.Parallel: *In IV Sent.*, d. 45, q. 1, a. 2, resp. 3. For *hope deferred makes the heart sick*, as it says in Proverbs 13:12. But among the holy patriarchs who were in limbo, there was no affliction. Therefore they did not have hope.  
 
 Obj. 2: Furthermore, hope comes from merits. But they were not in the state of meriting, just as neither are those who are in purgatory. Therefore, they did not have hope.  
 
@@ -480,7 +482,7 @@ On the contrary, anyone who desires something that he does not yet have, looks f
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that even the damned and the demons have hope.Parallels: *ST* II-II.18.3. For Job says about himself: *the hope of a man is disappointed* (Job 41:9). Therefore, he has hope.***
+Obj. 1: Moreover, it seems that even the damned and the demons have hope.Parallels: *ST* II-II.18.3. For Job says about himself: *the hope of a man is disappointed* (Job 41:9). Therefore, he has hope.  
 
 Obj. 2: Furthermore, just as faith is unformed, so is hope. But they have unformed faith. Therefore, they have the same kind of hope.  
 
@@ -488,7 +490,7 @@ On the contrary, hope is not about impossible things. But the demons and the dam
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that Christ did not have hope, because hope includes an imperfection, since it is founded upon a mysterious unknowing. But as regards the perfections of the soul, there was nothing of imperfection in Christ; and thus there could not be hope within him.***
+To the first question, I answer that Christ did not have hope, because hope includes an imperfection, since it is founded upon a mysterious unknowing. But as regards the perfections of the soul, there was nothing of imperfection in Christ; and thus there could not be hope within him.  
 
 Reply Obj. 1: “Hope” there is taken for looking forward to a reward of special distinction, For an explanation of the distinction between the chief reward that is eternal beatitude (the “*aurea*“), and special distinctions given as an extra reward (the “*aureolae*“), see *In IV Sent*., d. 49, q. 5, a. 1. about which there cannot be hope, properly speaking, because hope has God for its object. Therefore it does not follow that Christ had hope, properly speaking.  
 
@@ -496,13 +498,13 @@ Reply Obj. 2: And the same thing should be said to the second objection, because
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that angels and the souls of the blessed, properly speaking, do not have hope, and this is evident from two things. First, because hope, as a theological virtue, has God for its object, and their joy, which they have from God, cannot grow, therefore, what increases in them does not pertain to hope. Second, because hope is about the arduous and difficult; and since for those who have the essence of glory, which consists in the vision of God, anything else created is tiny; and therefore there can be no hope, either about the joy that increases in them at the salvation of the others, or about the joy that increases in the soul at receiving the glorified body. But there can be desire for these things, and this desire is broadly called “expectation.”***
+To the second question, it should be said that angels and the souls of the blessed, properly speaking, do not have hope, and this is evident from two things. First, because hope, as a theological virtue, has God for its object, and their joy, which they have from God, cannot grow, therefore, what increases in them does not pertain to hope. Second, because hope is about the arduous and difficult; and since for those who have the essence of glory, which consists in the vision of God, anything else created is tiny; and therefore there can be no hope, either about the joy that increases in them at the salvation of the others, or about the joy that increases in the soul at receiving the glorified body. But there can be desire for these things, and this desire is broadly called “expectation.”  
 
 Reply Obj. 1–2: And by this the answers the objections are clear.  
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that those who are in purgatory, and the patriarchs who were in limbo, did have hope, because hope does not pass away unless a person has in actuality what he hoped for; just as hope passes away when one sees what he believed. However, those who were in the limbo of the fathers, and those who are now in purgatory, do not yet have beatitude, which is what hope is about. Therefore, their hope, which they had in this life, did not pass away.***
+To the third question, it should be said that those who are in purgatory, and the patriarchs who were in limbo, did have hope, because hope does not pass away unless a person has in actuality what he hoped for; just as hope passes away when one sees what he believed. However, those who were in the limbo of the fathers, and those who are now in purgatory, do not yet have beatitude, which is what hope is about. Therefore, their hope, which they had in this life, did not pass away.  
 
 Reply Obj. 1: The deferral of the ancient patriarchs’ hope did not cause them affliction, because they were not able to feel affliction. Or it could be said that although hope causes affliction by reason of a lack to the one hoping, nevertheless, by reason of its certainty it causes delight. And since the hope that is in them could not fail, the delight that was caused by hope’s certainty absorbed every affliction that could arise from a lack.  
 
@@ -510,7 +512,7 @@ Reply Obj. 2: Although they are not in the state of meriting, nevertheless, they
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that hope is founded upon the faculty of attaining what is hoped, whether truly or estimated. Now, among the demons and the damned, there is no faculty for attaining beatitude, whether in the truth of the thing, nor in their estimation, because they are not ignorant of their damnation. And therefore, the hope of future beatitude cannot exist in them.***
+To the fourth question, it should be said that hope is founded upon the faculty of attaining what is hoped, whether truly or estimated. Now, among the demons and the damned, there is no faculty for attaining beatitude, whether in the truth of the thing, nor in their estimation, because they are not ignorant of their damnation. And therefore, the hope of future beatitude cannot exist in them.  
 
 Reply Obj. 1: Hope there is taken improperly for the expectation of the delaying of judgment. This is also why they say to Christ, *have you come here to torture us before the time?* (Matt 8:29).  
 
@@ -518,7 +520,7 @@ Reply Obj. 2: Faith is not so much about those things that pertain to oneself as
 
 Exposition of the text  
 
-****Hope is the virtue by which spiritual and eternal goods are hoped for*.*Sent.* III. 26. 1 (91). 1. To the contrary: eternity is only one thing. Therefore, *eternal goods* should not be spoken of in the plural. Furthermore, hope is about the future. However, all the future is temporal, and nothing temporal is eternal. Therefore, hope is not about eternal things. Furthermore, nothing temporal is eternal. Therefore, it was superfluous that he said, *spiritual goods*. In response, it should be said that what is in itself eternal is only one thing, but eternity is participated in by many goods in beatitude, namely, by the different gifts or “dowries,”For an explanation of the “dowries” of the blessed, see *In IV Sent*., d. 44, q. 2, a. 2, resp. 4. and these participations are called “eternal” goods, not because they have no beginning, but because they have no end. Or it could be referred to the plurality of attributes. To the second, it should be said that what is in itself eternal is future to the person who hopes; and this is how hope can exist about God. To the third, it should be said that they are called “spiritual” on account of the dowries of the body, which are bodily, and in a certain way eternal, inasmuch as they will endure forever. Or it could be said that it indicates both, insofar as one attains, as if by degrees, the proper object of hope; for it is about a spiritual good—not just any spiritual good, but the eternal one that is God.***
+*Hope is the virtue by which spiritual and eternal goods are hoped for*.*Sent.* III. 26. 1 (91). 1. To the contrary: eternity is only one thing. Therefore, *eternal goods* should not be spoken of in the plural. Furthermore, hope is about the future. However, all the future is temporal, and nothing temporal is eternal. Therefore, hope is not about eternal things. Furthermore, nothing temporal is eternal. Therefore, it was superfluous that he said, *spiritual goods*. In response, it should be said that what is in itself eternal is only one thing, but eternity is participated in by many goods in beatitude, namely, by the different gifts or “dowries,”For an explanation of the “dowries” of the blessed, see *In IV Sent*., d. 44, q. 2, a. 2, resp. 4. and these participations are called “eternal” goods, not because they have no beginning, but because they have no end. Or it could be referred to the plurality of attributes. To the second, it should be said that what is in itself eternal is future to the person who hopes; and this is how hope can exist about God. To the third, it should be said that they are called “spiritual” on account of the dowries of the body, which are bodily, and in a certain way eternal, inasmuch as they will endure forever. Or it could be said that it indicates both, insofar as one attains, as if by degrees, the proper object of hope; for it is about a spiritual good—not just any spiritual good, but the eternal one that is God.  
 
 *For [hope] is a sure expectation of future blessedness*.*Sent*. III, 26.1(91).1. This definition is given by its act, as was said, whereas the first definition was given by its genus.  
 

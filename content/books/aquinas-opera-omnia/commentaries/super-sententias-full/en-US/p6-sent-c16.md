@@ -1,8 +1,10 @@
 # D. 38 - Lying
 
+***Lying***
+
 ***Division of the text***
 
-***Having considered and explained the five precepts of the second tablet, here the Master considers certain things opposed to the fifth precept, namely, lying and perjury. Now, this part is divided into two:***
+Having considered and explained the five precepts of the second tablet, here the Master considers certain things opposed to the fifth precept, namely, lying and perjury. Now, this part is divided into two:  
 
 in the first, he considers lying;  
 
@@ -68,7 +70,7 @@ Article 1
 
 ***Whether the definition of lying stated in the text is fitting***
 
-***To the first we proceed thus.Parallel: *ST* II-II.110.1. It appears that a lie is not well defined in the text.*Sent.* III, 38.3(146).1; the definition in question is taken from Augustine, "false signification of speech with the intention of deceiving." *Contra Mendacium*, ch. 21, n. 26 (PL 40:537).***
+To the first we proceed thus.Parallel: *ST* II-II.110.1. It appears that a lie is not well defined in the text.*Sent.* III, 38.3(146).1; the definition in question is taken from Augustine, "false signification of speech with the intention of deceiving." *Contra Mendacium*, ch. 21, n. 26 (PL 40:537).  
 
 Obj. 1: For one who says something true that he believes is false is lying, as Augustine says in *On Lying*.Augustine, *De mendacio*, ch. 3, para. 3 (CSEL 41:415; PL 40:489). But here the signification of the speech is not false. Therefore a lie is badly defined as false signification in speech.  
 
@@ -96,7 +98,7 @@ Article 2
 
 ***Whether the division of lying in the text is fitting***
 
-***To the second we proceed as follows.Parallels: below, a. 5; *ST* II-II.110.2; *De decem praeceptis,* a. 8; *In Psalmos* 5. It seems that lying is not divided well in the text.***
+To the second we proceed as follows.Parallels: below, a. 5; *ST* II-II.110.2; *De decem praeceptis,* a. 8; *In Psalmos* 5. It seems that lying is not divided well in the text.  
 
 Obj. 1: For incidentals should be set aside, since they are infinitely many. But it is incidental to a lie as such where it occurs, and whether it is advantageous, or damaging to someone. Therefore lying is not fittingly divided in reference to these things.  
 
@@ -128,7 +130,7 @@ Article 3
 
 ***Whether every lie is a sin***
 
-***To the third we proceed thus.Parallels: *ST* II-II.69.1, 2; 110.3; *Quodl*. VIII, q. 6, a. 4; *Super De Trinitate*, q. 3, a. 1; *Sent. Ethic*. IV, lect. 20. It appears that not every lie is a sin.***
+To the third we proceed thus.Parallels: *ST* II-II.69.1, 2; 110.3; *Quodl*. VIII, q. 6, a. 4; *Super De Trinitate*, q. 3, a. 1; *Sent. Ethic*. IV, lect. 20. It appears that not every lie is a sin.  
 
 Obj. 1: For no sin comes from an instinct of the Holy Spirit. But in Genesis 27:19 Jacob said, as is noted in the text,*Sent*. III, 38.6(149).3. that he was the firstborn when he was not, on account of the familiar counsel of the Holy Spirit that he received from his mother. And thus he lied. Therefore that lie was not a sin.  
 
@@ -170,7 +172,7 @@ Article 4
 
 ***Whether every lie is a mortal sin***
 
-***To the fourth we proceed thus.Parallels: *ST* II-II.70.4; 110.4; *De decem praeceptis*, a. 8; *In Psalmos* 5. It appears that every lie is a mortal sin.***
+To the fourth we proceed thus.Parallels: *ST* II-II.70.4; 110.4; *De decem praeceptis*, a. 8; *In Psalmos* 5. It appears that every lie is a mortal sin.  
 
 Obj. 1: For every sin that leads to one’s destruction is a mortal sin. But Psalm 5:6 says, *thou destroyest those who speak lies*. Therefore every lie is a mortal sin.  
 
@@ -210,7 +212,7 @@ Article 5
 
 ***Whether the grades of lies are well assigned in the text***
 
-***To the fifth we proceed thus.Parallels: *ST* II-II.110.2; *De decem praeceptis*, a. 8; *In Psalmos* 5. It appears that the grades of lies are incongruously assigned in the text.*Sent.* III, 38.2(145).1; the grades are taken from Augustine: "the first and to be carefully avoided is that capital lie which is done in the teaching of religion; to this lie one ought not be induced for any reason whatever. The second is such that it profits no one, but hurts someone. The third is that which profits one so as to hurt another. The fourth, that which is done exclusively for the lust of lying and deceiving, which is an astonishing lie. The fifth, that which is done out of a deep desire to please by sweet-talk. All these being avoided, there follows a sixth kind, which hurts no one and helps someone, as when, if someone else's money is about to be unjustly taken from him, one who knows where the money is should lie about this knowledge. The seventh, which hurts no one and profits someone, as when, not wishing to betray a man who is sought in order to be put to death, one should lie. The eighth is that which hurts no one, and helps to preserve someone from bodily uncleanness." *De Mendacio*, ch. 14, n. 25 (CSEL 41:444; PL 40:505).***
+To the fifth we proceed thus.Parallels: *ST* II-II.110.2; *De decem praeceptis*, a. 8; *In Psalmos* 5. It appears that the grades of lies are incongruously assigned in the text.*Sent.* III, 38.2(145).1; the grades are taken from Augustine: "the first and to be carefully avoided is that capital lie which is done in the teaching of religion; to this lie one ought not be induced for any reason whatever. The second is such that it profits no one, but hurts someone. The third is that which profits one so as to hurt another. The fourth, that which is done exclusively for the lust of lying and deceiving, which is an astonishing lie. The fifth, that which is done out of a deep desire to please by sweet-talk. All these being avoided, there follows a sixth kind, which hurts no one and helps someone, as when, if someone else's money is about to be unjustly taken from him, one who knows where the money is should lie about this knowledge. The seventh, which hurts no one and profits someone, as when, not wishing to betray a man who is sought in order to be put to death, one should lie. The eighth is that which hurts no one, and helps to preserve someone from bodily uncleanness." *De Mendacio*, ch. 14, n. 25 (CSEL 41:444; PL 40:505).  
 
 Obj. 1: For whenever someone knowingly speaks something false, he lies. But someone in a disputation knowingly speaks something false, even in things that pertain to the faith. Therefore he speaks a lie in the teaching of religion. But this is not more grave than a pernicious lie. Therefore the lie that occurs in teaching is not the first and gravest sin.  
 
@@ -244,7 +246,7 @@ Reply Obj. 5: “Bodily defilement” is here understood as what has a proximity
 
 Exposition of the text  
 
-****Lest they kill their own soul for the sake of someone else’s body*.*Sent.* III, 38.1(144).1, quoting Augustine, *Enarrationes in Psalmos*, Ps 5, para. 7 (CCSL 38; PL 36:85). This can be avoided in the following way, according to Augustine in *On Lying*.Augustine, *De mendacio*, ch. 13, para. 22 (CSEL 41:444; PL 40:503). For if someone were sought [to be put] to death, when we are simply asked [where he is], without any determination about the location being made, one should respond, “we will not betray him even if we must endure torture”; for this deed he praises a certain bishop. But if we are asked whether he is in some determinate location, one should respond, “I know where he is, but I will not say.”***
+*Lest they kill their own soul for the sake of someone else’s body*.*Sent.* III, 38.1(144).1, quoting Augustine, *Enarrationes in Psalmos*, Ps 5, para. 7 (CCSL 38; PL 36:85). This can be avoided in the following way, according to Augustine in *On Lying*.Augustine, *De mendacio*, ch. 13, para. 22 (CSEL 41:444; PL 40:503). For if someone were sought [to be put] to death, when we are simply asked [where he is], without any determination about the location being made, one should respond, “we will not betray him even if we must endure torture”; for this deed he praises a certain bishop. But if we are asked whether he is in some determinate location, one should respond, “I know where he is, but I will not say.”  
 
 *Particularly if it should be repeated*.*Sent*. III, 38.1(144).2. This is said insofar as the multiplication of venial sins disposes one to mortal sin.  
 

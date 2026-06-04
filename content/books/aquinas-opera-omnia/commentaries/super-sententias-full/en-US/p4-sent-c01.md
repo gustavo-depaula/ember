@@ -1,8 +1,10 @@
 # D. 21 - Temptation of our first parents
 
+***Temptation of our first parents***
+
 ***Division of the text***
 
-***After he has considered the establishment of human nature, here the Master considers its fall through sin. This is divided into two parts.***
+After he has considered the establishment of human nature, here the Master considers its fall through sin. This is divided into two parts.  
 
 In the first, he examines the fall of human nature in our first parents with regard to their actual sin.  
 
@@ -100,7 +102,7 @@ Article 1
 
 ***Whether God tempts anyone***
 
-***Concerning the first, we proceed as follows. It seems that it does not belong to God to tempt.The Latin *tentare* or *temptare* means primarily “to test, to put to the trial.” The Greek and Hebrew words in Scripture that are usually translated as “to tempt” have the same primary meaning, as did the English word “tempt” in times past. This original meaning of the word “tempt” can still be seen in the related words “attempt” and “tentative,” and in references to “tempting God” or “tempting fate,” which can mean putting God or fate to the test at great risk to oneself. Contemporary English associates the word “tempt” above all with leading someone into sin, for reasons that will become clear in the text that follows.***
+Concerning the first, we proceed as follows. It seems that it does not belong to God to tempt.The Latin *tentare* or *temptare* means primarily “to test, to put to the trial.” The Greek and Hebrew words in Scripture that are usually translated as “to tempt” have the same primary meaning, as did the English word “tempt” in times past. This original meaning of the word “tempt” can still be seen in the related words “attempt” and “tentative,” and in references to “tempting God” or “tempting fate,” which can mean putting God or fate to the test at great risk to oneself. Contemporary English associates the word “tempt” above all with leading someone into sin, for reasons that will become clear in the text that follows.  
 
 Obj. 1: For temptation is for the sake of gaining experience of something unknown. But God is ignorant of nothing. Therefore, it does not belong to him to tempt.  
 
@@ -138,7 +140,7 @@ Article 2
 
 ***Whether temptation by the devil is a sin***
 
-***To the second we proceed as follows. It seems that temptation from the enemy is also a sin.***
+To the second we proceed as follows. It seems that temptation from the enemy is also a sin.  
 
 Obj. 1: For a lesser power cannot repel the intention of a greater power. But the power of a demon is greater than the power of a man, as is said: *there is no power upon earth that can be compared with him* (Job 41:33).RSV reads *upon earth there is not his like, a creature without fear*. Therefore, since the intention of a demon is to lead men to sin, it seems that man always sins when he is tempted by a demon.  
 
@@ -170,7 +172,7 @@ Article 3
 
 ***Whether temptation is to be desired***
 
-***To the third we proceed as follows.Parallel texts: *ST* III.41.2, ad 2; *Commentary on Matthew*, ch. 4. It seems that temptation should be desired.***
+To the third we proceed as follows.Parallel texts: *ST* III.41.2, ad 2; *Commentary on Matthew*, ch. 4. It seems that temptation should be desired.  
 
 Obj. 1: First, this is through the fact that it is said: *count it all joy, my brethren, when you meet various trials* (Jas 1:2). But that which we should rejoice over when we have it is what we should desire when we do not have it. Therefore, temptation should be desired.  
 
@@ -208,7 +210,7 @@ Question 2
 
 ***The temptation of our first parents***
 
-***Then the question is asked specifically about the temptation of our first parents. Concerning this three questions are asked:***
+Then the question is asked specifically about the temptation of our first parents. Concerning this three questions are asked:  
 
 first, about the stages of the temptation;  
 
@@ -220,7 +222,7 @@ Article 1
 
 ***Whether the devil tempted Eve out of envy and in the form of a serpent***
 
-***To the first we proceed as follows. It seems that the stages of temptation were not as they are described in the text.*Sent*. II, 21.5(126)‒6(127).***
+To the first we proceed as follows. It seems that the stages of temptation were not as they are described in the text.*Sent*. II, 21.5(126)‒6(127).  
 
 Obj. 1: For envy is with respect to a superior. Hence it is said: *envy slays the little one* (Job 5:2).RSV reads *jealousy slays the simple*. But Adam was not superior to the demon, at least in the demon’s own estimation, since he was exceedingly prideful. Therefore, there is no motive to temptation due to envy.  
 
@@ -256,7 +258,7 @@ Article 2
 
 ***Whether the sin of Adam was graver than all other sins***
 
-***To the second we proceed as follows.Parallel text: *ST* II-II.158.3. It seems that the sin of Adam was graver than all other sins.***
+To the second we proceed as follows.Parallel text: *ST* II-II.158.3. It seems that the sin of Adam was graver than all other sins.  
 
 Obj. 1: For, as Augustine says in the *City of God*: *one who has great ease in not sinning has great iniquity in sinning*.Augustine, *The City of God*, bk. 14, ch. 15 (CCSL 48; PL 41:423). But Adam was more easily able to avoid sin than anyone who followed him. Therefore, he sinned more gravely.  
 
@@ -290,7 +292,7 @@ Article 3
 
 ***Whether in the state of innocence Adam could have sinned venially***
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.89.3; *Disputed Questions on Evil*, q. 2, a. 8, ad 1; q. 7, a. 3, ad 13; a. 7. It seems that in the first state Adam could have sinned venially.***
+To the third we proceed as follows.Parallel texts: *ST* I-II.89.3; *Disputed Questions on Evil*, q. 2, a. 8, ad 1; q. 7, a. 3, ad 13; a. 7. It seems that in the first state Adam could have sinned venially.  
 
 Obj. 1: For disposition precedes perfection. But a venial sin is a disposition to mortal sin. Therefore, it seems that he sinned venially prior to sinning mortally.  
 
@@ -330,7 +332,7 @@ Reply Obj. 6: Just as in the speculative intellective part, the highest part is 
 
 Exposition of the text  
 
-****The devil tempted through the serpent in whom he spoke*.*Sent*. II, 21.2(123).2. The manner in which good or wicked angels can speak in assumed bodies has been treated of above.Aquinas, *Commentary on the Sentences*, bk. 2 (*In II Sent*.), d. 8, q. 1, a. 4.***
+*The devil tempted through the serpent in whom he spoke*.*Sent*. II, 21.2(123).2. The manner in which good or wicked angels can speak in assumed bodies has been treated of above.Aquinas, *Commentary on the Sentences*, bk. 2 (*In II Sent*.), d. 8, q. 1, a. 4.  
 
 *‘The serpent is said to be more cunning*.’*Sent*. II, 21.3(124).1, quoting Genesis 3:1. This seems to be false, since any animal that the devil assumed would have had the same cleverness if he was not crafty by his own cleverness, as he adds.  
 

@@ -1,5 +1,7 @@
 # Preface of St. Jerome
 
+Jeremias Propheta, cui hic prologus scribitur, sermone quidem apud Hebraeos Isaiae et Osee, et quibusdam aliis prophetis videtur esse rusticior, sed sensibus par est, quippe qui eodem spiritu prophetaverit.  
+
 Porro simplicitas eloquii, de loco ei in quo natus est, accidit: fuit enim Anathothites, qui est usque hodie viculus, tribus ab Jerosolymis distans millibus, sacerdos ex sacerdotibus, et in matris utero sanctificatus, virginitate sua evangelicum virum Christi Ecclesiae dedicans.  
 
 Hic vaticinari exorsus est puer, et captivitatem urbis atque Judaeae non solum Spiritu, sed et oculis carnis intuitus est. Jam decem tribus Israel, Assyrii in Medos transtulerant, jam terras earum coloniae gentium possidebant.  
@@ -14,7 +16,7 @@ Caeterum ad compendium mali, rectius fuerat modum furori eorum, silentio meo pon
 
 In hunc prologum expositio S. Thomae  
 
-***Hic autem libro Jeremiae, qui librum de Hebraeo in Latinum transtulit, praemittit prooemium in quo more theorico tria facit.***
+Hic autem libro Jeremiae, qui librum de Hebraeo in Latinum transtulit, praemittit prooemium in quo more theorico tria facit.  
 
 Primo reddit attentos;  
 

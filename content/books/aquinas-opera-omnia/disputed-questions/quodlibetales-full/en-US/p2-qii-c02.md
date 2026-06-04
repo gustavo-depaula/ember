@@ -1,5 +1,7 @@
 # On Angels
 
+***Question 2***
+
 ***Regarding the composition of angels***
 
 ***Then there were questions concerning angels.***
@@ -18,7 +20,7 @@ Article 1
 
 ***Whether an angel is substantially composed of essence and existence***
 
-***To the first we proceed thus. It seems that an angel is not composed substantially of essence and existence.***
+To the first we proceed thus. It seems that an angel is not composed substantially of essence and existence.  
 
 Obj. 1: For the essence of an angel is the angel itself, because *the quiddity of a simple thing is the simple thing itself*.Avicenna, *The Metaphysics of The Healing* 5.5, 274; cf. Aquinas, *In I Sent*. 26.1.1, ad 3. If, therefore, an angel were composed of essence and existence, it would be composed of its own self and another; yet this is unfitting. Therefore, it is not substantially composed of essence and existence.  
 
@@ -42,7 +44,7 @@ Article 2
 
 ***Whether in an angel supposit is one thing and nature another***
 
-***To the second we proceed thus. It seems that in an angel supposit and nature are the same.***
+To the second we proceed thus. It seems that in an angel supposit and nature are the same.  
 
 Obj. 1: For in things which are composed of matter and form, supposit and nature differ because supposit, above nature, adds individual matter to species, which cannot be in an angel if an angel is not composed of matter and form. Therefore, in an angel supposit and nature do not differ.  
 
@@ -84,7 +86,7 @@ Question 3
 
 ***On the time through which God moves a spiritual creature***
 
-***Then there was a question concerning the time through which God moves a spiritual creature according to Augustine,Augustine, *On the Literal Interpretation of Genesis* 8.20–26 (CSEL 28:258–65; PL 34:388–92). namely, whether it is the same as the time which measures the motion of bodily things. And it seems that this is the case.***
+Then there was a question concerning the time through which God moves a spiritual creature according to Augustine,Augustine, *On the Literal Interpretation of Genesis* 8.20–26 (CSEL 28:258–65; PL 34:388–92). namely, whether it is the same as the time which measures the motion of bodily things. And it seems that this is the case.  
 
 Obj. 1: Since neither AugustineAugustine, *On the Literal Interpretation of Genesis* 8.20–26 (CSEL 28:258–65; PL 34:388–92). nor any philosopher distinguish these times, it seems vain to distinguish these times.  
 

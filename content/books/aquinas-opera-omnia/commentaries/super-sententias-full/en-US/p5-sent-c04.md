@@ -1,8 +1,10 @@
 # D. 3 - How the human nature was assumed
 
+***How the human nature was assumed***
+
 ***Division of the text***
 
-***Having shown what the Son of God was in human nature, and in what order he assumed it, here he shows how it is that it was assumed.***
+Having shown what the Son of God was in human nature, and in what order he assumed it, here he shows how it is that it was assumed.  
 
 And this is divided into two parts:  
 
@@ -62,7 +64,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first question we proceed thus.Parallels: *Quodl.* VI, q. 5, a. 1; *Compend. theol.*, ch. 224; *Super Ave Maria; In Psalmos 45; In Jeremiam*, 1. It seems that the Blessed Virgin was sanctified before the conception of her flesh was completed.***
+To the first question we proceed thus.Parallels: *Quodl.* VI, q. 5, a. 1; *Compend. theol.*, ch. 224; *Super Ave Maria; In Psalmos 45; In Jeremiam*, 1. It seems that the Blessed Virgin was sanctified before the conception of her flesh was completed.  
 
 Obj. 1: For this is what the Apostle says, *if the root is holy, so are the branches* (Rom 11:16). But parents are related to the child conceived as a root to a branch. Therefore, the Virgin’s sanctification came to her through her parents having been sanctified. But if she were sanctified in her parents, her sanctification would have preceded her conception. Therefore, since it should be believed that whatever could be bestowed on her was bestowed on her, it seems that she was sanctified before her conception.  
 
@@ -76,7 +78,7 @@ Furthermore, a unique conception and birth was owed to the only-begotten Son of 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that she was sanctified before her ensoulment.Parallels: *ST* III.27.2; *Quodl.* VI, q. 5, a. 1; *Compendium theol.*, ch. 224; *In Psalmos* 45; *In Ieremiam*, 1. For Ambrose says about John the Baptist, commenting on Luke 1:15, that *the spirit of life was not yet in him, and the spirit of grace was already in him*.Ambrose, *Expositio evangelii secundum Lucam*, bk. 1, ln. 511, n. 33 (CCSL 14; PL 15:1547). But the spirit of life is the soul. Therefore grace came into John the Baptist before his soul. But what was granted to John the Baptist should without a doubt be granted as owed to the Blessed Virgin. Therefore, she too was sanctified before her ensoulment.***
+Obj. 1: Moreover, it seems that she was sanctified before her ensoulment.Parallels: *ST* III.27.2; *Quodl.* VI, q. 5, a. 1; *Compendium theol.*, ch. 224; *In Psalmos* 45; *In Ieremiam*, 1. For Ambrose says about John the Baptist, commenting on Luke 1:15, that *the spirit of life was not yet in him, and the spirit of grace was already in him*.Ambrose, *Expositio evangelii secundum Lucam*, bk. 1, ln. 511, n. 33 (CCSL 14; PL 15:1547). But the spirit of life is the soul. Therefore grace came into John the Baptist before his soul. But what was granted to John the Baptist should without a doubt be granted as owed to the Blessed Virgin. Therefore, she too was sanctified before her ensoulment.  
 
 Obj. 2: Furthermore, it says in Jeremiah 1:5, *before I formed you in the womb, I knew you*. And he is not speaking there about the knowledge by which he knows the good and the wicked, for by this no privilege would be shown to Jeremiah himself, to whom these words were spoken. Therefore it must be understood about the knowledge of approbation. But this knowledge is only of the good and those who have grace. Therefore before Jeremiah was formed, he had grace, and therefore, even before he was ensouled, for the soul is only infused in a formed fetus. Therefore much more was the Blessed Virgin sanctified before her ensoulment.  
 
@@ -88,7 +90,7 @@ Furthermore, contraries are naturally apt to arise as regards the same thing. Bu
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that she was also not sanctified before her birth from the womb.Parallels: *ST* III.27.1; *Quodl.* VI, q. 5, a. 1; *Compendium theol.*, ch. 224; *Super Ave Maria*; *In Psalmos,* 45; *In Ieremiam,* 1. For as Augustine says in his *Letter to Dardanus*, *the sanctification by which we are each made the temple of God belongs only to those who have been reborn*.Augustine, *Epistulae*, epist. 187: Ad Dardanum, para. 10 (CSEL 57; PL 33:844). Now, no one is born again unless he has first been born. Therefore no one has grace before he is born. But sanctification is the effect of grace. Therefore the Blessed Virgin was not sanctified in her mother’s womb.***
+Obj. 1: Moreover, it seems that she was also not sanctified before her birth from the womb.Parallels: *ST* III.27.1; *Quodl.* VI, q. 5, a. 1; *Compendium theol.*, ch. 224; *Super Ave Maria*; *In Psalmos,* 45; *In Ieremiam,* 1. For as Augustine says in his *Letter to Dardanus*, *the sanctification by which we are each made the temple of God belongs only to those who have been reborn*.Augustine, *Epistulae*, epist. 187: Ad Dardanum, para. 10 (CSEL 57; PL 33:844). Now, no one is born again unless he has first been born. Therefore no one has grace before he is born. But sanctification is the effect of grace. Therefore the Blessed Virgin was not sanctified in her mother’s womb.  
 
 Obj. 2: One might say that there are two births—that is, the birth in the womb, which is called “conception,” and the birth out of the womb, which is commonly called “birth”—and that the Blessed Virgin’s birth in the womb preceded the regeneration of sanctification.  
 
@@ -104,7 +106,7 @@ I answer that, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 12
 
 Response to Quaestiuncula 1  
 
-***To the first question, it should be said that there is no way she could have been sanctified in her parents, nor even in the very act of her conception.***
+To the first question, it should be said that there is no way she could have been sanctified in her parents, nor even in the very act of her conception.  
 
 For a specific person’s condition does not pass from the parents into their offspring unless it pertains to their bodily nature; for example, the father’s knowledge of grammar does not pass into his son, for it is a personal perfection. This is also why the sanctification of her parents could not be transferred to the Blessed Virgin, unless not only what pertains to the person were healed in them, but also what pertains to their nature as such; this God could certainly have done, but it would not have been fitting. For the perfect healing of a nature pertains to the perfection of glory. And therefore her parents would not have been healed while in the wayfaring state in such a way that they would be able to conceive their child without original sin. And therefore the Blessed Virgin was conceived in original sin, because of which Blessed Bernard wrote to Lyon that her conception was not to be celebrated,Bernard, *Letter to the Canons of Lyon, on the Conception of Mary*, epist. 174, n. 9 (PL 182:336). although it may be celebrated in some churches out of devotion, not considering it as her conception but rather as her sanctification, for it is uncertain exactly when that took place.  
 
@@ -116,7 +118,7 @@ Reply Obj. 3: The marriage bed in which the Blessed Virgin was conceived is beli
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the Blessed Virgin’s sanctification could not have occurred in a becoming way before the infusion of her soul, because she was not yet capable of grace, but also not in the very instant of its infusion, such that by grace infused into her at that time she would be preserved from incurring original sin. For Christ was unique in the human race in not needing redemption, for he is our head, but all share in needing to be redeemed through him. Now, this could not be if any other soul were found that had never been infected by the original stain. And therefore this was not granted to the Blessed Virgin or anyone other than Christ.***
+To the second question, it should be said that the Blessed Virgin’s sanctification could not have occurred in a becoming way before the infusion of her soul, because she was not yet capable of grace, but also not in the very instant of its infusion, such that by grace infused into her at that time she would be preserved from incurring original sin. For Christ was unique in the human race in not needing redemption, for he is our head, but all share in needing to be redeemed through him. Now, this could not be if any other soul were found that had never been infected by the original stain. And therefore this was not granted to the Blessed Virgin or anyone other than Christ.  
 
 Reply Obj. 1: These words about John the Baptist refer to the time that he leaped for joy in the womb at the arrival of the Mother of God, which occurred in the sixth month after his conception, as the words of the angel show (Luke 1:36). This is why it is clear that he had a rational soul at that time. Therefore either the “spirit of life” does not mean the rational soul, but the outward breathing of air, or if the soul is not yet understood to be present because it was not yet manifest, “spirit of life” is said in that manner of speaking wherein things are said to happen when they become known.  
 
@@ -126,7 +128,7 @@ Reply Obj. 3: This purity was due only to the God-man, as he himself, as the uni
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the Blessed Virgin was sanctified before her birth from the womb, which can be gathered from the fact that she above all the other saints was most pure from sin, as the text states,*Sent*. III. 3. 2(8). as the chosen mother of divine Wisdom, in which *no defilement occurs*, as it says in Wisdom 7:22. Whence, since this purity may be found to have existed in some people such that they were cleansed before their birth from the womb—such as John the Baptist, of whom we read in Luke 1:15, *he will be filled with the Holy Spirit, even from his mother’s womb*; and Jeremiah, of whom it says, *before I formed you in the womb I knew you, and before you were born I consecrated you* (Jer 1:5)*—*one should not doubt that this was bestowed on the Mother of God in a much more excellent way.***
+To the third question, it should be said that the Blessed Virgin was sanctified before her birth from the womb, which can be gathered from the fact that she above all the other saints was most pure from sin, as the text states,*Sent*. III. 3. 2(8). as the chosen mother of divine Wisdom, in which *no defilement occurs*, as it says in Wisdom 7:22. Whence, since this purity may be found to have existed in some people such that they were cleansed before their birth from the womb—such as John the Baptist, of whom we read in Luke 1:15, *he will be filled with the Holy Spirit, even from his mother’s womb*; and Jeremiah, of whom it says, *before I formed you in the womb I knew you, and before you were born I consecrated you* (Jer 1:5)*—*one should not doubt that this was bestowed on the Mother of God in a much more excellent way.  
 
 Reply Obj. 1: Augustine’s words should be understood to be about the regeneration that happens by the common law, which is indicated by his saying, *by which we are each made temples of God*. For this sanctification happens through the sacraments, which are administered by the Church’s ministers, and those who are in the maternal wombs cannot benefit from their working. But God did not restrict grace to the sacraments. Whence, by a certain privilege he sanctifies some outside of this manner, in their mothers’ wombs.  
 
@@ -136,11 +138,11 @@ Reply Obj. 3: Although the Blessed Virgin’s sanctification in the womb is not 
 
 Article 2  
 
-***Whether the Blessed Virgin was completely cleansed from original sin by her sanctification in the womb***
+Whether the Blessed Virgin was completely cleansed from original sin by her sanctification in the womb  
 
 ***Quaestiuncula 1***
 
-***To the second question we proceed thus.Parallels: below, a. 2, resp. 3; *ST* III.27.3; 27.4.ad 1; 27.5.ad 2; *Compend. theol.*, cc. 224, 225; *In Jeremiam,* 1. It seems that the Mother of God was not completely cleansed from original sin by sanctification while in the womb.***
+To the second question we proceed thus.Parallels: below, a. 2, resp. 3; *ST* III.27.3; 27.4.ad 1; 27.5.ad 2; *Compend. theol.*, cc. 224, 225; *In Jeremiam,* 1. It seems that the Mother of God was not completely cleansed from original sin by sanctification while in the womb.  
 
 Obj. 1: For when the stain is removed, the guilt cannot remain. But after her sanctification, the guilt of original sin remained in her; for if she had died before Christ’s death, she would not have had the divine vision. Therefore she was not freed from original sin by her sanctification.  
 
@@ -154,7 +156,7 @@ Furthermore (5), the corruption of the *fomes* is the reason why we cannot say, 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that by her sanctification in the womb, she did not acquire immunity from actual sin.Parallels: *In IV Sent*., d. 6, q. 1, a. 1, resp. 2; *ST* III.27.4; *In orationem dominicam*, 5th petition; *Super Ave Maria*; *Super Matth*. 12. For Augustine saysAugustine, *Quaestiones Veteri et Novi Testamenti*, q. 73 (PL 35:2267). Augustine repudiated this work later. that *Mary, through whom the mystery of the Incarnation of the Savior was accomplished, had doubts at the death of the Lord, but she did not remain in doubt*. But doubting about the faith is a sin. Therefore she was not entirely immune from sin.***
+Obj. 1: Moreover, it seems that by her sanctification in the womb, she did not acquire immunity from actual sin.Parallels: *In IV Sent*., d. 6, q. 1, a. 1, resp. 2; *ST* III.27.4; *In orationem dominicam*, 5th petition; *Super Ave Maria*; *Super Matth*. 12. For Augustine saysAugustine, *Quaestiones Veteri et Novi Testamenti*, q. 73 (PL 35:2267). Augustine repudiated this work later. that *Mary, through whom the mystery of the Incarnation of the Savior was accomplished, had doubts at the death of the Lord, but she did not remain in doubt*. But doubting about the faith is a sin. Therefore she was not entirely immune from sin.  
 
 Obj. 2: Furthermore, commenting on Luke 1:35, *the Holy Spirit will come upon you*, Ambrose says, *the Holy Spirit coming down purified her mind from all filth of corruption*.This text is not found in Ambrose. But the filth of corruption results from sin. Therefore the Blessed Virgin sinned after her first sanctification.  
 
@@ -166,7 +168,7 @@ Furthermore, Wisdom 1:4 says: *wisdom will not enter a deceitful soul, nor dwell
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that through her second sanctification, which was at the conception of the Savior, she was not confirmed in the good.Parallels: *ST* I.100.2; III.27.5.ad 2; *De veritate*, q. 44, a. 9, sed contra and ad 2. For what someone already has, he cannot gain further. But if the Blessed Virgin had immunity from sin from her first sanctification, she was confirmed from that time. For one does not have the certainty of being without sin except through a confirmed righteousness. Therefore through her second sanctification she gained the confirmation of grace.***
+Obj. 1: Moreover, it seems that through her second sanctification, which was at the conception of the Savior, she was not confirmed in the good.Parallels: *ST* I.100.2; III.27.5.ad 2; *De veritate*, q. 44, a. 9, sed contra and ad 2. For what someone already has, he cannot gain further. But if the Blessed Virgin had immunity from sin from her first sanctification, she was confirmed from that time. For one does not have the certainty of being without sin except through a confirmed righteousness. Therefore through her second sanctification she gained the confirmation of grace.  
 
 Obj. 2: Furthermore, in no one who is a mere earthly wayfarer can free decision be confirmed as secure toward righteousness, for the potential for sinning and the potential for dying seem to run side by side, such that the potential for sinning is not taken away before the potential for dying. But even after the Blessed Virgin conceived the Savior, she was a mere wayfarer before her death. Therefore there was no confirmation of righteousness in her.  
 
@@ -178,7 +180,7 @@ Furthermore, where the fullness of light is present, the capacity for darkness d
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the Blessed Virgin’s two sanctifications are distinguished as the first, when she was sanctified in the womb, and the second, when she conceived the Savior. Now, a sanctification means a cleansing from sin, which cannot happen without grace, but it belongs to grace to cause a certain firmness. Therefore sanctification in general has two effects: to cleanse and to confirm, and for both, the second sanctification perfects the first.***
+To the first question, I answer that the Blessed Virgin’s two sanctifications are distinguished as the first, when she was sanctified in the womb, and the second, when she conceived the Savior. Now, a sanctification means a cleansing from sin, which cannot happen without grace, but it belongs to grace to cause a certain firmness. Therefore sanctification in general has two effects: to cleanse and to confirm, and for both, the second sanctification perfects the first.  
 
 For in the first, as is commonly held by everyone, she was purified of original sin both as to its stain and as to its guilt. But there are several opinions about her cleansing from the *fomes*, or tinder of sin.  
 
@@ -210,7 +212,7 @@ Reply Sed Contra 5: In us the necessity of sinning at least venially arises from
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that just as in the first sanctification there was a certain beginning of cleansing, when original sin was removed as regards the fault, and the *fomes* was bound, so too there was a certain beginning of confirmation. For by sanctifying grace she acquired immunity from sin thereafter. And this immunity was caused by three things: namely, from the binding of the *fomes*, which did not incite her toward evil; from the inclination of grace, which ordered her toward the good, although her free decision was not yet firmly established on the last end, as it is in the blessed, who have attained the end of life; and lastly, from the preservation of divine providence, which guarded her untouched by any sin, just as it also had protected man from anything harmful in his first state.***
+To the second question, it should be said that just as in the first sanctification there was a certain beginning of cleansing, when original sin was removed as regards the fault, and the *fomes* was bound, so too there was a certain beginning of confirmation. For by sanctifying grace she acquired immunity from sin thereafter. And this immunity was caused by three things: namely, from the binding of the *fomes*, which did not incite her toward evil; from the inclination of grace, which ordered her toward the good, although her free decision was not yet firmly established on the last end, as it is in the blessed, who have attained the end of life; and lastly, from the preservation of divine providence, which guarded her untouched by any sin, just as it also had protected man from anything harmful in his first state.  
 
 Reply Obj. 1: Against the first objection it should be said that doubting, which indicates a weakness of faith, cannot happen without sin. But such a doubt was not present in the Blessed Virgin at the time of the Passion; rather, the firmest faith remained in her even when the apostles were doubting. But in her there was a certain doubt of marvel, when she considered how disgracefully treated was the one whom she had so worthily given birth to.  
 
@@ -222,7 +224,7 @@ Reply Sed Contra: We grant the other two arguments.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in her second sanctification, both her cleansing and her confirmation in the good were in a certain way completed, according to the perfection of life on the way. But in her glorious Assumption these were completed according to the perfection of the heavenly homeland, which is evident in this way. For in the first sanctification the inclination of the *fomes* was removed, although its essence did remain. But in the second sanctification the *fomes* itself was extinguished in its essence, while certain penalties caused by sin did remain; from these she was fully freed by the glory of the Assumption. Likewise this is also the case from the other side: in her first sanctification, grace was bestowed efficaciously inclining her free decision toward the good, although not enough to remove her decision’s ability to bend toward evil, which even man in his first state had. But in the second sanctification an additional grace was added that so filled the power of her free decision that she could not bend toward evil—not by removing the nature of the free decision, but by removing its defect, just as the matter of the heavens, because it subsists under a form that excludes all privation from it, is not in potency to corruption. But in the Virgin’s third exaltation, she was joined to the end through a perfect grace drawing her into glory, which causes a perfect immobility.***
+To the third question, it should be said that in her second sanctification, both her cleansing and her confirmation in the good were in a certain way completed, according to the perfection of life on the way. But in her glorious Assumption these were completed according to the perfection of the heavenly homeland, which is evident in this way. For in the first sanctification the inclination of the *fomes* was removed, although its essence did remain. But in the second sanctification the *fomes* itself was extinguished in its essence, while certain penalties caused by sin did remain; from these she was fully freed by the glory of the Assumption. Likewise this is also the case from the other side: in her first sanctification, grace was bestowed efficaciously inclining her free decision toward the good, although not enough to remove her decision’s ability to bend toward evil, which even man in his first state had. But in the second sanctification an additional grace was added that so filled the power of her free decision that she could not bend toward evil—not by removing the nature of the free decision, but by removing its defect, just as the matter of the heavens, because it subsists under a form that excludes all privation from it, is not in potency to corruption. But in the Virgin’s third exaltation, she was joined to the end through a perfect grace drawing her into glory, which causes a perfect immobility.  
 
 Reply Obj. 1: Against this objection it should be said that in the first sanctification she obtained immunity from sin not by a confirming grace, but by the *fomes* being restrained from inclining to evil, and by the protection of divine providence, without which, even if the *fomes* were completely extinguished, she would have been able to sin, just as Adam also sinned, unless there were in her a consummated grace.  
 
@@ -234,7 +236,7 @@ Question 2
 
 ***The Blessed Virgin's role in the conception of Christ***
 
-***Next, the Blessed Virgin’s reproductive power is considered. And two things are asked about this:***
+Next, the Blessed Virgin’s reproductive power is considered. And two things are asked about this:  
 
 first, whether she actively did anything toward Christ’s conception;  
 
@@ -244,7 +246,7 @@ Article 1
 
 ***Whether the Virgin actively contributed anything toward Christ’s conception***
 
-***To the first question we proceed thus.Parallels: *ST* III.32.4; 33.4, ad 2. It seems that the Blessed Virgin actively cooperated in Christ’s conception.***
+To the first question we proceed thus.Parallels: *ST* III.32.4; 33.4, ad 2. It seems that the Blessed Virgin actively cooperated in Christ’s conception.  
 
 Obj. 1: For a purely passive potency is only receptive. But Damascene says, as is quoted in the text,*Sent*. III, 3.1(7).3, citing John Damascene, *On the Orthodox Faith*, bk. 3, ch. 2 (PG 94:986). that the Holy Spirit not only gave the Virgin the potency for receiving the Word, but also at the same time the potency for begetting. Therefore by her “potency for begetting” we understand an active power in her, and thus she actively did something in Christ’s conception.  
 
@@ -306,7 +308,7 @@ Article 2
 
 ***Whether Christ’s generation from the Virgin is natural or miraculous***
 
-***To the second question we proceed thus.Parallel: *ST* III.33.4. It seems that Christ’s generation from the Virgin was natural.***
+To the second question we proceed thus.Parallel: *ST* III.33.4. It seems that Christ’s generation from the Virgin was natural.  
 
 Obj. 1: For sonship follows birth. But Christ is called the natural son of his mother, just as he is also the natural Son of the Father, as Augustine says in his book *On the Faith, to Peter*.Rather, Fulgentius, *De fide ad Petrum seu de regula fidei*, ch. 14 (CCSL 91A; PL 40:675). Therefore he is born from his mother by a natural generation.  
 
@@ -342,7 +344,7 @@ Question 3
 
 ***The Annunciation***
 
-***Next, we will inquire about the Annunciation made to the Blessed Virgin by the angel. Concerning this two things are asked about:***
+Next, we will inquire about the Annunciation made to the Blessed Virgin by the angel. Concerning this two things are asked about:  
 
 first, the fittingness of the Annunciation;  
 
@@ -350,11 +352,11 @@ second, the fittingness of the messenger.
 
 Article 1  
 
-***Whether it was fitting for the Virgin to have the Savior’s conception announced to her***
+Whether it was fitting for the Virgin to have the Savior’s conception announced to her  
 
 ***Quaestiuncula 1***
 
-***To the first question we proceed thus.Parallel: *ST* III.30.1. It seems that it was not fitting for the Savior’s conception to be announced to the Virgin.***
+To the first question we proceed thus.Parallel: *ST* III.30.1. It seems that it was not fitting for the Savior’s conception to be announced to the Virgin.  
 
 Obj. 1: For she had faith. But it always pertained to faith to believe in the future Incarnation. Therefore it was not more fitting that it be made evident to her by way of an annunciation.  
 
@@ -368,7 +370,7 @@ Furthermore, in Christ’s conception a certain marriage happened through the in
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the Annunciation did not happen by way of physical sight.Parallel: *ST* III.30.3. For as Augustine says,Augustine, *The Literal Interpretation of Genesis*, bk. 12, para. 24, n. 36 (CSEL 28.1:416–417; PL 34:474). among the three kinds of vision— bodily, spiritual, and intellectual—intellectual vision is the most excellent. But what is of greater dignity is more becoming for the Mother of God. Therefore the Annunciation occurred by intellectual sight, not physical sight.***
+Obj. 1: Moreover, it seems that the Annunciation did not happen by way of physical sight.Parallel: *ST* III.30.3. For as Augustine says,Augustine, *The Literal Interpretation of Genesis*, bk. 12, para. 24, n. 36 (CSEL 28.1:416–417; PL 34:474). among the three kinds of vision— bodily, spiritual, and intellectual—intellectual vision is the most excellent. But what is of greater dignity is more becoming for the Mother of God. Therefore the Annunciation occurred by intellectual sight, not physical sight.  
 
 Obj. 2: Furthermore, the bodily appearances of angels can be counted among signs and wonders by the fact that they are unusual and beyond the common course of nature. Now, *signs are given not to the faithful, but to those without faith*, as the Apostle says in 1 Corinthians 14:22. Therefore, since the Blessed Virgin had the greatest faith, it does not seem that the bodily appearance of an angel would have been made to her.  
 
@@ -376,7 +378,7 @@ On the contrary, commenting on Luke 1:29, *when she had heard these things she w
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that it was appropriate that the Virgin have her conception announced to her for many reasons. First, because since the mind is closer to God than is the body, it was unbecoming that God’s wisdom should dwell in her womb without her mind being resplendent in the knowledge of this greatest wisdom. And thus it was unseemly for her to be unaware of what was happening in her; instead it had to be announced to her. Second, because she herself was to be the most certain witness of this unique conception, which is why it was necessary that she be instructed in so great a mystery through the Annunciation. Third, because God does not love forced service, but willing service, so that those who yield, merit by their very attendance. For this reason, since the Blessed Virgin was uniquely and most excellently chosen for the service of God, whom she bore in her womb, nursed with her milk, and held in her arms, it was seemly that her consent should be sought by the angel’s announcing. And humbly presenting this consent, she offered herself in prompt and eager obedience, saying, *behold the handmaid of the Lord* (Luke 1:38).***
+To the first question, I answer that it was appropriate that the Virgin have her conception announced to her for many reasons. First, because since the mind is closer to God than is the body, it was unbecoming that God’s wisdom should dwell in her womb without her mind being resplendent in the knowledge of this greatest wisdom. And thus it was unseemly for her to be unaware of what was happening in her; instead it had to be announced to her. Second, because she herself was to be the most certain witness of this unique conception, which is why it was necessary that she be instructed in so great a mystery through the Annunciation. Third, because God does not love forced service, but willing service, so that those who yield, merit by their very attendance. For this reason, since the Blessed Virgin was uniquely and most excellently chosen for the service of God, whom she bore in her womb, nursed with her milk, and held in her arms, it was seemly that her consent should be sought by the angel’s announcing. And humbly presenting this consent, she offered herself in prompt and eager obedience, saying, *behold the handmaid of the Lord* (Luke 1:38).  
 
 Reply Obj. 1: The determinate time when the Incarnation would occur and by what virgin it was to be fulfilled did not fall under the faith, and that is why she needed to be instructed about this through the Annunciation. For she did hold with the firmest faith that there would be an Incarnation, which was included in the faith of the ancients.  
 
@@ -386,7 +388,7 @@ Reply Obj. 3: Things that have a prophecy of predestination are completed withou
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it is most appropriate that the Annunciation was made through a physical vision. First, so that the Annunciation would be more certain, for we are less deceived about things that we visibly perceive. Second, because, as Dionysius says in his ninth *Letter to Titus*,Pseudo-Dionysius, *Epistle 9: To Titus*, n. 1 (PG 3:1107). this is the reason that divine things are set before us in physical figures, so that each kind of human life may be illuminated by divine knowledge according to its own properties: the life of the senses by the images of figures, and the life of the intellect by the contemplation of spiritual truth. In the same way, it was also seemly that the Virgin’s perspective should be ennobled in both ways: the interior sight by the revelation of so great a mystery, and the external sight by the physical vision of an angel. Third, because the Annunciation should be proportioned to what it announced. Now, what it announced was the visible sending of the Son of God into the world, so the announcing angel appeared in a physical vision.***
+To the second question, it should be said that it is most appropriate that the Annunciation was made through a physical vision. First, so that the Annunciation would be more certain, for we are less deceived about things that we visibly perceive. Second, because, as Dionysius says in his ninth *Letter to Titus*,Pseudo-Dionysius, *Epistle 9: To Titus*, n. 1 (PG 3:1107). this is the reason that divine things are set before us in physical figures, so that each kind of human life may be illuminated by divine knowledge according to its own properties: the life of the senses by the images of figures, and the life of the intellect by the contemplation of spiritual truth. In the same way, it was also seemly that the Virgin’s perspective should be ennobled in both ways: the interior sight by the revelation of so great a mystery, and the external sight by the physical vision of an angel. Third, because the Annunciation should be proportioned to what it announced. Now, what it announced was the visible sending of the Son of God into the world, so the announcing angel appeared in a physical vision.  
 
 Reply Obj. 1: Against this objection it should be said that although intellectual vision is better than physical vision, nevertheless, both together are found to be more effective than one alone, because of the connaturality of human knowledge with the senses.  
 
@@ -398,7 +400,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second question we proceed thus.Parallel: *ST* III.30.2. It seems that the Annunciation should not have happened through an angel.***
+To the second question we proceed thus.Parallel: *ST* III.30.2. It seems that the Annunciation should not have happened through an angel.  
 
 Obj. 1: For the sending by which the Son is sent to be a man is more excellent than the sending by which he is sent to be with a man, on the part of the effect. But the sending by which he is sent into the mind, in order to be with a man, is not completed by the mediation of an angel, who cannot slip into the mind, as was said in Book II.*In II Sent*., d. 11, a. 4. Therefore, also when he was sent to be a man, it was not fitting to be done by an angel’s annunciation.  
 
@@ -412,7 +414,7 @@ Furthermore, as Dionysius proves,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4,
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the announcing angel was from the highest order of angels.Parallel: *ST* III.30.2.ad 4. For Gregory says in his homily on the hundred sheep, *it was appropriate for the highest messenger to be sent, who was announcing the highest of all things*.Gregory, *Homiliae in evangelia*, bk. 2, hom. 34: De centum ovibus, para. 8 (CCSL 141:306; PL 76:1250). But those who are in the order of seraphim are the highest among the angels. Therefore, the Annunciation was done by one of them.***
+Obj. 1: Moreover, it seems that the announcing angel was from the highest order of angels.Parallel: *ST* III.30.2.ad 4. For Gregory says in his homily on the hundred sheep, *it was appropriate for the highest messenger to be sent, who was announcing the highest of all things*.Gregory, *Homiliae in evangelia*, bk. 2, hom. 34: De centum ovibus, para. 8 (CCSL 141:306; PL 76:1250). But those who are in the order of seraphim are the highest among the angels. Therefore, the Annunciation was done by one of them.  
 
 Obj. 2: Furthermore, Jerome says*Glossa ordinaria,* at Isaiah 63:1, 4.500–1 (PL 113:1306). the question asked in Isaiah 63:1, *who is this that comes from Edom?* is the question of the lower angels who are not fully aware of the mystery of the Incarnation. But the mystery of the Incarnation could only be made known by those to whom it had been fully revealed. Therefore the Annunciation was done by one of the highest angels.  
 
@@ -420,7 +422,7 @@ On the contrary, the Church sings, *we know the archangel Gabriel was sent by Go
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the Annunciation was made by an angel, and many reasons can be taken for this. First, because as Jerome says,*Serm. de Assumptione*, n. 5 (PL 30:126); this work was spuriously attributed to Jerome; but it is also found in Peter Chrysologus, *Collectio Sermonum* (CCSL 24; 24A; 24B), serm. 143, ln. 26. virginity is akin to the angels, and so it was becoming for an angel to be sent to bring word to a virgin. Second, because the ruin of humankind began with the devil addressing a woman, which is why Bede says, *it appears a fitting introduction to the restoration of human nature that an angel should address a virgin*. Third, because the one being announced is the king of men and angels, and his birth was for mankind’s salvation, in such a way that damage caused by the angels might also be repaired. And thus it was becoming that angels should present this mystery as much as men.***
+To the first question, I answer that the Annunciation was made by an angel, and many reasons can be taken for this. First, because as Jerome says,*Serm. de Assumptione*, n. 5 (PL 30:126); this work was spuriously attributed to Jerome; but it is also found in Peter Chrysologus, *Collectio Sermonum* (CCSL 24; 24A; 24B), serm. 143, ln. 26. virginity is akin to the angels, and so it was becoming for an angel to be sent to bring word to a virgin. Second, because the ruin of humankind began with the devil addressing a woman, which is why Bede says, *it appears a fitting introduction to the restoration of human nature that an angel should address a virgin*. Third, because the one being announced is the king of men and angels, and his birth was for mankind’s salvation, in such a way that damage caused by the angels might also be repaired. And thus it was becoming that angels should present this mystery as much as men.  
 
 Reply Obj. 1: Although when the Son is sent into the mind, an angel does not enter the mind, nevertheless an angel may prepare for the coming of the Son by purifying, illuminating, and perfecting the mind for the reception of divine wisdom. So too, when the Son was sent in the flesh, the angel did not come to assume flesh, but to instruct the Virgin from whom flesh would be assumed.  
 
@@ -430,7 +432,7 @@ Reply Obj. 3: In man’s first condition, the first woman received the divine co
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the announcing angel was not from the highest nor from the middle hierarchy, but from the lowest; nor was he from the first order of that hierarchy, but from the middle, which is the order of archangels. Many reasons for this are clear. First because, since Christ was born in order to repair the insubordination that happened among the angels, it was fitting that in his own conception that ordering of the heavenly hierarchy, in which the highest angels illuminate men by means of the lowest, should most be preserved. Second, so that their ministry would be shared more. For since the lowest angels act according to what they receive from the higher ones, and not vice versa, when the lower angels announce something, the annunciation is explicated by the higher ones to the lower ones, which would not be the case if the higher ones announced it directly. Third, because in this way the properties of the orders are preserved, as was said in Book II.*In II Sent*., d. 9, aa. 3, 4, 7. For the lowest hierarchy has the office of directing humans according to a certain limitation, either of one province, like the order of principalities, or of one man, like the orders of angels and archangels. But they differ, because it belongs to angels to direct someone in the actions that pertain to him alone, and so they are said to make known the least things. But it pertains to archangels to direct someone in those actions that redound on the whole multitude; this is also why archangels are intermediaries between principalities and angels, which their name also shows, for they are called “archangels,” as though “ruling angels.”***
+To the second question, it should be said that the announcing angel was not from the highest nor from the middle hierarchy, but from the lowest; nor was he from the first order of that hierarchy, but from the middle, which is the order of archangels. Many reasons for this are clear. First because, since Christ was born in order to repair the insubordination that happened among the angels, it was fitting that in his own conception that ordering of the heavenly hierarchy, in which the highest angels illuminate men by means of the lowest, should most be preserved. Second, so that their ministry would be shared more. For since the lowest angels act according to what they receive from the higher ones, and not vice versa, when the lower angels announce something, the annunciation is explicated by the higher ones to the lower ones, which would not be the case if the higher ones announced it directly. Third, because in this way the properties of the orders are preserved, as was said in Book II.*In II Sent*., d. 9, aa. 3, 4, 7. For the lowest hierarchy has the office of directing humans according to a certain limitation, either of one province, like the order of principalities, or of one man, like the orders of angels and archangels. But they differ, because it belongs to angels to direct someone in the actions that pertain to him alone, and so they are said to make known the least things. But it pertains to archangels to direct someone in those actions that redound on the whole multitude; this is also why archangels are intermediaries between principalities and angels, which their name also shows, for they are called “archangels,” as though “ruling angels.”  
 
 Therefore, since the Blessed Virgin’s consent, which was being sought in the Annunciation, was an act of an individual person that redounded to the salvation of the multitude—or rather, of the whole human race—the angel who brought the news had to be of the order of archangels, and the highest among them.  
 
@@ -440,7 +442,7 @@ Reply Obj. 2: The lower angels were not entirely unaware of the mystery of the I
 
 Exposition of the text  
 
-****The power of the Most High will overshadow you*.*Sentences* III, 3.1(7).3, quoting Luke 1:38. The power of the Most High, according to the subsequent explanation of John Damascene, is understood as the Son, about whom it says, *Christ, the power of God and the wisdom of God* (1 Cor 1:24). This is how the angel’s words foretell the coming of the two divine persons into the Virgin: the Holy Spirit to purify and furnish the reproductive power, and the Son to assume flesh. And this is why he says, *the power . . . will overshadow you*. For the power of the Most High was overshadowed by accepting our weakness. Or it could be said that *it will overshadow you*, means the blotting out of any form of the *fomes*. For by the Son’s coming into her all traces of the *fomes* had been uprooted from her; and this uprooting is called “overshadowing,” just as the *fomes* is called a “fire,” for shadow offers a coolness against the heat.***
+*The power of the Most High will overshadow you*.*Sentences* III, 3.1(7).3, quoting Luke 1:38. The power of the Most High, according to the subsequent explanation of John Damascene, is understood as the Son, about whom it says, *Christ, the power of God and the wisdom of God* (1 Cor 1:24). This is how the angel’s words foretell the coming of the two divine persons into the Virgin: the Holy Spirit to purify and furnish the reproductive power, and the Son to assume flesh. And this is why he says, *the power . . . will overshadow you*. For the power of the Most High was overshadowed by accepting our weakness. Or it could be said that *it will overshadow you*, means the blotting out of any form of the *fomes*. For by the Son’s coming into her all traces of the *fomes* had been uprooted from her; and this uprooting is called “overshadowing,” just as the *fomes* is called a “fire,” for shadow offers a coolness against the heat.  
 
 *Like a divine seed*.*Sent*. III, 3.1(7).3, citing John Damascene, *On the Orthodox Faith*, bk. 3, ch. 2 (PG 94:982). He does not simply say *seed*, so as to avoid the error of the Apollinarists, who held that the Holy Spirit came into the Virgin’s womb truly as a seed. However, there is a likeness to a seed insofar as a seed is active in generation, and so too the Holy Spirit in Christ’s conception, or the Son, whom he calls the power of the Most High.  
 
@@ -454,7 +456,7 @@ Question 4
 
 ***Christ's propagation from his ancestors***
 
-***After the Master has showed the condition of the flesh assumed, and of the mother from whom it was assumed, here he raises certain questions about what has been determined. And this is divided into two parts.***
+After the Master has showed the condition of the flesh assumed, and of the mother from whom it was assumed, here he raises certain questions about what has been determined. And this is divided into two parts.  
 
 In the first, he raises a question about the propagation of Christ’s flesh from his remote ancestors, namely, Abraham and Adam.  
 
@@ -488,7 +490,7 @@ Article 1
 
 ***Whether Christ’s flesh was in bondage to sin in his ancient ancestors***
 
-***To the first we proceed thus.Parallels: *ST* III.31.7; 31.8.ad 2; *Super Isaiam* 11; *Super Ioan. 3,* lect. 5. It seems that Christ’s flesh was not infected by the sin in his ancient ancestors.***
+To the first we proceed thus.Parallels: *ST* III.31.7; 31.8.ad 2; *Super Isaiam* 11; *Super Ioan. 3,* lect. 5. It seems that Christ’s flesh was not infected by the sin in his ancient ancestors.  
 
 Obj. 1: For a heavenly body is not infected or changed by its union with any other body. But Christ’s body was of a heavenly nature, which is seen in what is said of him: *he who comes from heaven is above all* (John 3:31). Therefore Christ’s flesh could not have been infected in his ancient ancestors.  
 
@@ -528,7 +530,7 @@ Article 2
 
 ***Whether Christ’s flesh existed in his ancient forebears as a determinate amount***
 
-***To the second question we proceed thus.Parallel: *ST* III.31.6. It seems that Christ’s flesh existed in his ancient forebears according to some determinate thing that could be shown.***
+To the second question we proceed thus.Parallel: *ST* III.31.6. It seems that Christ’s flesh existed in his ancient forebears according to some determinate thing that could be shown.  
 
 Obj. 1: For as we have in the text from Augustine,*Sent*. III, 3.3(9).1, referring to Augustine, *The Literal Interpretation of Genesis*, bk. 10, para. 19 (CSEL 28.1:321; PL 34:423). Christ’s flesh was in Abraham according to physical substance. But physical substance names something particular and demonstrable. Therefore Christ’s flesh existed in Abraham and in others in this way.  
 
@@ -572,7 +574,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third question we proceed thus.Parallels: *In IV Sent.,* d. 1, q. 2, a. 2, resp. 3, ad 2; *ST* III.31.8; *Super Heb*. 7, lect. 2. It seems that no one who is descended from the stock of Abraham paid tithes in him.***
+To the third question we proceed thus.Parallels: *In IV Sent.,* d. 1, q. 2, a. 2, resp. 3, ad 2; *ST* III.31.8; *Super Heb*. 7, lect. 2. It seems that no one who is descended from the stock of Abraham paid tithes in him.  
 
 Obj. 1: For, as Augustine says,Augustine, *Literal Interpretation of Genesis*, bk. 10, para. 20 (CSEL 28.1:322; PL 34:424). he who paid the tithe in him was cured. But no one among the ancient patriarchs can be cured or sanctified, as was said above. Therefore no one could have paid tithes in Abraham.  
 
@@ -586,7 +588,7 @@ Furthermore (5), tithing is a certain sign of divine servitude, since it pertain
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that Christ also paid the tithe in Abraham. For Christ had no relationship to Abraham except by means of the Blessed Virgin. But the Blessed Virgin paid the tithe in Abraham. Therefore, so did Christ.***
+Obj. 1: Moreover, it seems that Christ also paid the tithe in Abraham. For Christ had no relationship to Abraham except by means of the Blessed Virgin. But the Blessed Virgin paid the tithe in Abraham. Therefore, so did Christ.  
 
 Obj. 2: Furthermore, paying tithes applies to the sons of Abraham by reason of original sin, as we have in the text,*Sent*. III, 3.3(9).2. for they were propagated from him through concupiscence. But Christ’s flesh in Abraham was in bondage to sin, as it also says in the text.*Sent*. III, 3.1(7).1. Therefore, Christ too paid tithes in him.  
 
@@ -598,7 +600,7 @@ Furthermore (5), what is multiplied miraculously, not by power of nature, is not
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that those who descended from Abraham through physical intimacy were tithed in Abraham. However, Christ was not tithed in him, the reason for which is that tithing was not only a moral act but also a figurative act.***
+To the first question, I answer that those who descended from Abraham through physical intimacy were tithed in Abraham. However, Christ was not tithed in him, the reason for which is that tithing was not only a moral act but also a figurative act.  
 
 For it is a moral act insofar as a certain part of the fruits of the land and of other things was brought together for the use of God’s ministers and the poor, so that there would be food in the house of the Lord, as is said in Malachi 3:10.  
 
@@ -616,7 +618,7 @@ Reply Sed Contra 4–5: We grant the fourth and fifth arguments.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that Christ was in no way tithed in Abraham, and the reason for this is evident from what has been said.***
+To the second question, it should be said that Christ was in no way tithed in Abraham, and the reason for this is evident from what has been said.  
 
 Reply Obj. 1: Christ only descended from Abraham by means of the Blessed Virgin, so the way he descended from Abraham is the way that he descended from the Blessed Virgin. And since he is not descended from the Blessed Virgin through intercourse, he is not descended from Abraham through intercourse either, although the Blessed Virgin is descended from Abraham through intercourse. Therefore, it does not follow that if the Blessed Virgin was tithed in Abraham, Christ would have been tithed in him as well.  
 
@@ -630,7 +632,7 @@ Question 5
 
 ***Christ's propagation from the Blessed Virgin***
 
-***Next, we must inquire about the propagation of Christ’s flesh from his mother, and concerning this there are three things to ask about:***
+Next, we must inquire about the propagation of Christ’s flesh from his mother, and concerning this there are three things to ask about:  
 
 first, the matter from which his body was conceived;  
 
@@ -642,7 +644,7 @@ Article 1
 
 ***Whether Christ’s body came from the Virgin’s most pure blood***
 
-***To the first question we proceed thus.Parallel: *ST* III.31.5; *John Damascene, On the Orthodox Faith,* bk. 3, ch. 2 (PG 94:986). It seems that Christ’s body was not formed only from the Virgin’s most pure blood, as Damascene says.***
+To the first question we proceed thus.Parallel: *ST* III.31.5; *John Damascene, On the Orthodox Faith,* bk. 3, ch. 2 (PG 94:986). It seems that Christ’s body was not formed only from the Virgin’s most pure blood, as Damascene says.  
 
 Obj. 1: For things that are of the same species have matter that is of the same account, because a natural form requires determinate matter. But the matter of other men is from what is separated from the man and woman. Therefore, since Christ, as man, was of the same species as other men, it seems that his body was not formed from only the Virgin Mother’s blood.  
 
@@ -676,9 +678,9 @@ Reply Obj. 5: The blood that is thought to be the matter for the human body is n
 
 Article 2  
 
-***Whether the conception of Christ’s body was instantaneous or completed successively***
+Whether the conception of Christ’s body was instantaneous or completed successively  
 
-***To the second question we proceed thus.Parallels: *ST* III.33.1; *SCG* IV.44; *Compend. theol.*, ch. 218; *Super Ioan.* 1, lect. 9; 2, lect. 15. It seems that the conception of Christ’s body was not instantaneous, but completed successively.***
+To the second question we proceed thus.Parallels: *ST* III.33.1; *SCG* IV.44; *Compend. theol.*, ch. 218; *Super Ioan.* 1, lect. 9; 2, lect. 15. It seems that the conception of Christ’s body was not instantaneous, but completed successively.  
 
 Obj. 1: For Hebrews 2:17 says, *Christ had to be made like his brethren in every respect*. But other human beings, who are called “his brethren” here, are conceived successively. Therefore, Christ’s conception should also have been successive.  
 
@@ -718,7 +720,7 @@ Article 3
 
 ***Whether being sanctified belongs to Christ, that is, did he need sanctification***
 
-***To the third question we proceed thus.Parallel: *ST* III.34.1. It seems that being sanctified does not belong to Christ.***
+To the third question we proceed thus.Parallel: *ST* III.34.1. It seems that being sanctified does not belong to Christ.  
 
 Obj. 1: For, as it says in Hebrews 7:26–27, *for it was fitting that we should have such a high priest . . . he has no need, to offer sacrifices daily, first for his own sins and then for those of the people*. But just as Christ came to pray and offer a sacrifice for the people, he also came to sanctify the people. Therefore, he did not need to be sanctified himself.  
 
@@ -750,7 +752,7 @@ Reply Obj. 4: The fourth objection we grant, because that answer is not valid.
 
 Exposition of the text  
 
-****That flesh . . . would have been in bondage to sin in Mary*.*Sentences* III, 3.3(9).1. But to the contrary: what does not exist cannot be in bondage to sin. But Christ’s flesh did not exist except in himself. Therefore it is false to say this. It should be said that although Christ’s flesh did not exist except in himself, nevertheless, it did exist materially in the Blessed Virgin, and in others, but in a different way. For in the Blessed Virgin that matter pre-existed in its essence, but in the others who went before, it existed only in its origin, as was said. And according to the mode that it existed in each of them, it was in bondage to sin.***
+*That flesh . . . would have been in bondage to sin in Mary*.*Sentences* III, 3.3(9).1. But to the contrary: what does not exist cannot be in bondage to sin. But Christ’s flesh did not exist except in himself. Therefore it is false to say this. It should be said that although Christ’s flesh did not exist except in himself, nevertheless, it did exist materially in the Blessed Virgin, and in others, but in a different way. For in the Blessed Virgin that matter pre-existed in its essence, but in the others who went before, it existed only in its origin, as was said. And according to the mode that it existed in each of them, it was in bondage to sin.  
 
 *So too was the Levitical order*.*Sent*. III. 3(9). 2. It seems that the Apostle’s argument will not hold up. For it can happen that the Pope’s father paid tithes to some simple priest, but the Pope would not be less than that priest because of this. And so it does not seem to follow that if Abraham paid tithes to Melchizedek, the Levitical order was less than Melchizedek because of it. But it should be said, according to some, that the Apostle is proceeding from the supposition that Abraham was greater than all his posterity. This is why, if Melchizedek had been greater than Abraham, he would have consequently been greater than Levi or Aaron. But since this supposition is either doubtful or false, at least because of the Blessed Virgin, it is therefore better to say that the Apostle did not intend to prove that Melchizedek was personally greater than Aaron, but that the priesthood of Christ represented by the priesthood of Melchizedek is greater than the priesthood of Aaron. So the strength of the Apostle’s argument is founded upon a figure, for Abraham giving tithes to Melchizedek represented that he, along with his whole posterity, was less than the priesthood of Christ, represented by Melchizedek.  
 

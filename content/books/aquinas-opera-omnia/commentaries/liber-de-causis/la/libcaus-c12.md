@@ -1,5 +1,7 @@
 # Proposition 11
 
+100. Omnis intelligentia intelligit res sempiternas, quae non destruuntur neque cadunt sub tempore.  
+
 > 101. Quod est, quoniam, si intelligentia est semper, quae non movetur, tunc ipsa est causa rebus sempiternis, quae non destruuntur nec permutantur neque cadunt sub generatione et corruptione. Et intelligentia quidem non est ita, nisi quia intelligit rem per esse suum, et esse suum est sempiternum, quod non corrumpitur.
 
 > 102. Cum ergo hoc sit ita, dicimus, quod res destructibiles sunt ex corporeitate, scilicet ex causa corporea temporali, non ex causa intellectibili aeterna.

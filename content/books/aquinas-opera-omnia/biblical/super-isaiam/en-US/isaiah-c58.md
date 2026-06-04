@@ -1,5 +1,7 @@
 # Chapter 56
 
+^56:1^ Thus says the Lord: keep judgment, and do justice: for my salvation is near to come, and my justice to be revealed.  
+
 > ^56:2^ Blessed is the man that doth this, and the son of man that shall lay hold on this: that keeps the sabbath from profaning it, that keeps his hands from doing any evil.
 
 > ^56:3^ And let not the son of the stranger, that adheres to the Lord, speak, saying: the Lord will divide and separate me from his people. And let not the eunuch say: behold I am a dry tree.

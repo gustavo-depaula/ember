@@ -1,5 +1,7 @@
 # Chapter 62
 
+^62:1^ For Zion’s sake I will not hold my peace, and for the sake of Jerusalem, I will not rest till her just one come forth as brightness, and her savior be lighted as a lamp.  
+
 > ^62:2^ And the Gentiles shall see your just one, and all kings your glorious one: and you shall be called by a new name, which the mouth of the Lord shall name.
 
 > ^62:3^ And you shall be a crown of glory in the hand of the Lord, and a royal diadem in the hand of your God.

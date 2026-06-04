@@ -1,6 +1,8 @@
 # Chapter 11
 
-***^11:1^ And there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root.***
+***Lecture 1***
+
+^11:1^ And there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root.  
 
 > **352**. ***And there shall come forth a rod out of the root***. The destruction of their adversary having been set out, the restoration of the people, who had been divided into the two tribes and the ten tribes, is promised. And this is divided into two parts.
 
@@ -70,7 +72,7 @@ fifth, because of certitude of fruit: *as the vine I have brought forth a pleasa
 
 Lecture 2  
 
-***^11:2^ And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude, the spirit of knowledge, and of godliness.***
+^11:2^ And the spirit of the Lord shall rest upon him: the spirit of wisdom, and of understanding, the spirit of counsel, and of fortitude, the spirit of knowledge, and of godliness.  
 
 > ^11:3^ And the spirit of the fear of the Lord shall fill him.*Replebit eum spiritus timoris Domini*. DR: “he shall be filled with the spirit of the fear of the Lord.” He shall not judge according to the sight of the eyes, nor reprove according to the hearing of the ears.
 

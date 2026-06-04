@@ -1,5 +1,7 @@
 # On Angels
 
+***Question 3***
+
 ***On angels***
 
 ***Then there were two questions concerning angels:***
@@ -10,9 +12,9 @@ second, concerning the motion of an angel, whether it can be moved from place to
 
 Article 1  
 
-***Whether an angel depends upon a bodily place according to its essence, or is it in a place only according to its activity***
+Whether an angel depends upon a bodily place according to its essence, or is it in a place only according to its activity  
 
-***To the first we proceed thus. It seems that an angel is not in a place only through action.***
+To the first we proceed thus. It seems that an angel is not in a place only through action.  
 
 Obj. 1: For *existing is prior to acting*.This famous adage is found in Hilary of Poitiers, *On the Trinity* 11.19 (CCSL 62A:549; PL 10:413); cf. Aristotle, *Metaphysics* 9.8, 1049b24–27; Aquinas, *Sentences*, bk. 3, d. 18, q. 1, a. 3, obj. 1, ad 1. Therefore, being in a place is prior to acting in a place. But the posterior is not the cause of the prior. Therefore, acting in a place is not the cause why an angel exists in a place.  
 
@@ -32,7 +34,7 @@ Article 2
 
 ***On the motion of an angel***
 
-***To the second we proceed thus. It seems that an angel cannot be moved from place to place unless it passes through a medium.***
+To the second we proceed thus. It seems that an angel cannot be moved from place to place unless it passes through a medium.  
 
 Obj. 1: For everything which is moved is in *being changed prior* to being in *having been changed*, as is proved in the sixth book of the *Physics*.Aristotle, *Physics* 6.6, 237a17–b9. But if an angel is moved from place to place, for example from A to B, when it is in B it is in *having been changed*. Therefore, before this it was in *being changed*. But it was not in *being changed* when it was in A, because it was not yet then being moved. Therefore, it was in *being changed* when in C, which is a medium between A and B. And thus, it is necessary for it to pass through a medium.  
 

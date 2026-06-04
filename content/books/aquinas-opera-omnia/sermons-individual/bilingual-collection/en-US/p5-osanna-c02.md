@@ -1,5 +1,7 @@
 # Sermon
 
+***Hosanna*** (Matt 21:9), et cetera. In these words we can consider three things to the praise of our Savior:  
+
 first, the task of our Savior;  
 
 second, the privilege of his origin;  

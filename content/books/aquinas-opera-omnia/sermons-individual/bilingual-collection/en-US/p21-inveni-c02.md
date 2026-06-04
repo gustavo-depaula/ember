@@ -1,5 +1,7 @@
 # Sermon
 
+***I have found David, my servant***,Psalm 89:20. et cetera. From these words we can learn four praiseworthy things of this holy bishop:  
+
 first, his wondrous election;  
 
 second, his unique consecration;  

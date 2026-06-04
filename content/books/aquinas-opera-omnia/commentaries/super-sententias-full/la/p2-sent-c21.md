@@ -1,8 +1,10 @@
 # D. 41 - Causality of predestination
 
+***De causalitate praedestinationis***
+
 ***Divisio textus***
 
-***Hic determinat Magister de causalitate praedestinationis et reprobationis excludens errorem eorum qui utriusque causam ex parte nostra assignabant; et dividitur in partes duas: in prima ostendit utrumque ex parte nostra causam non habere; in secunda ostendit, scientiam Dei nunquam diminui, ibi: *praeterea considerare oportet, utrum ea omnia quae semel scit vel praescit Deus, semper sciat et scierit, ac praesciat et praescierit*.***
+Hic determinat Magister de causalitate praedestinationis et reprobationis excludens errorem eorum qui utriusque causam ex parte nostra assignabant; et dividitur in partes duas: in prima ostendit utrumque ex parte nostra causam non habere; in secunda ostendit, scientiam Dei nunquam diminui, ibi: *praeterea considerare oportet, utrum ea omnia quae semel scit vel praescit Deus, semper sciat et scierit, ac praesciat et praescierit*.  
 
 Prima in duas: in prima ostendit veritatem; in secunda excludit errorem, ibi: *opinati sunt tamen quidam, Deum ideo elegisse Jacob, quia talem futurum praescivit qui in eum crederet*.  
 
@@ -36,7 +38,7 @@ Articulus 1
 
 ***Utrum in Deo sit electio***
 
-***Ad primum sic proceditur. Videtur quod electio nullo modo in Deo sit ab aeterno.Parma omits *ab aeterno*.***
+Ad primum sic proceditur. Videtur quod electio nullo modo in Deo sit ab aeterno.Parma omits *ab aeterno*.  
 
 Electio enim, secundum Philosophum, in 3 *Ethic*., cap. 7, sequitur consilium sicut conclusio ejus. Consilium autem, ut ibidem dicit, est quaestio quaedam. Cum igitur Deo non competat inquisitiva cognitio, videtur quod Deo non competat electio.  
 
@@ -64,7 +66,7 @@ Articulus 2
 
 ***Utrum electio praecedat secundum rationem praedestinationem***
 
-***Ad secundum sic proceditur. Videtur quod electio praedestinationem non praecedat secundum rationem.***
+Ad secundum sic proceditur. Videtur quod electio praedestinationem non praecedat secundum rationem.  
 
 Electio enim addit aliquid supra praescientiam, alias etiam esset malorum. Addit autem actum voluntatis, ut patet ex Philosopho, 3 *Ethic*., cap. 5, et lib. 6, c. 2. Cum ergo praedestinatio nihil addat supra praescientiam nisi voluntatem salutis quorumdam, videtur quod electio praedestinationem non praecedat secundum rationem, sed sit idem sibi.  
 
@@ -88,7 +90,7 @@ Articulus 3
 
 ***Utrum praescientia meritorum sit causa praedestinationis***
 
-***Deinde quaeritur, utrum praescientia meritorum sit causa praedestinationis. Et videtur quod sic.***
+Deinde quaeritur, utrum praescientia meritorum sit causa praedestinationis. Et videtur quod sic.  
 
 Primo per Glossam Ambrosii, quae habetur, *Super epistolam ad Rom*., cap. 9, ubi haec verba ex persona Dei proponit: *dabo illi gratiam quem scio ad me toto corde post errorem reversurum*. Sed propositum dandi gratiam dicitur praedestinatio. Ergo videtur quod praescientiam meritorum praesupponat.  
 
@@ -128,7 +130,7 @@ Articulus 4
 
 ***Utrum praedestinatio juvetur aliquo opere humano***
 
-***Quarto quaeritur, utrum praedestinatio juvetur aliquo opere humano. Et videtur quod non.***
+Quarto quaeritur, utrum praedestinatio juvetur aliquo opere humano. Et videtur quod non.  
 
 Causa enim quae per se inducit effectum sine adjutorio alterius perfectior est quam quae adjuvatur ad effectum inducendum. Sed praedestinatio est causa perfectissima. Ergo non juvatur aliquo ad effectum suum.  
 
@@ -154,7 +156,7 @@ Articulus 5
 
 ***Utrum quidquid olim Deus scivit, modo sciat***
 
-***Quinto quaeritur, utrum quidquid Deus sciverit olim, modo sciat. Et videtur quod sic.***
+Quinto quaeritur, utrum quidquid Deus sciverit olim, modo sciat. Et videtur quod sic.  
 
 Scientia enim Dei, ut supra habitum est, est invariabilis. Sed omnis scientia quae desinit esse alicujus cujus prius fuerat, variatur. Ergo videtur quod quidquid Deus olim scivit, modo sciat.  
 
@@ -192,6 +194,6 @@ Ad quintum dicendum, quod accipiendo enuntiabile ut est res quaedam, sic procedi
 
 Expositio textus  
 
-****Sed hoc frivolum est*. Hoc pro tanto dicit quod nimis est exorta expositio ut dicatur illos esse dignos gratia quia non sunt ita indigni ut alii.***
+*Sed hoc frivolum est*. Hoc pro tanto dicit quod nimis est exorta expositio ut dicatur illos esse dignos gratia quia non sunt ita indigni ut alii.  
 
 *Sicut antiqui patres crediderunt, Christum nasciturum et moriturum, nos autem credimus eum natum et mortuum*. Diversitas enuntiabilis non impedit unitatem rei creditae: quia vel objectum fidei est res et non enuntiabile, ut quidam dicunt, vel enuntiabile, secundum quod abstrahit ab omni differentia temporis; et tempus determinatum non est de substantia fidei, sed fidei advenit, secundum quod determinatur per doctrinam, prout fides ex auditu est.

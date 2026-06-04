@@ -1,5 +1,7 @@
 # Proposition 18
 
+143. All things are beings because of the first being, and all living things are in motion by their own essence because of the first life, and all intellectual things have knowledge because of the first intelligence.  
+
 > 144. This is because, if every cause gives something to its object, then doubtless the first being gives being to all its objects.
 
 > 145. And in the same way, life gives motion to its objects, because life is a procession going forth from the first being, which is motionless, sempiternal, and the first motion.

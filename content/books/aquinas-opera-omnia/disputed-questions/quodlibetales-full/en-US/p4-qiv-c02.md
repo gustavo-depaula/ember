@@ -1,5 +1,7 @@
 # On Human Things
 
+***On grace***
+
 ***Question 6***
 
 ***On grace***
@@ -16,7 +18,7 @@ Article 1
 
 ***Whether God always makes new grace***
 
-***About the first it was asked whether God always makes new grace. And it seems that he does.***
+About the first it was asked whether God always makes new grace. And it seems that he does.  
 
 Obj. 1: For Augustine, in the eighth book of *On the Literal Meaning of Genesis*, compares the infusion of grace to illumination: *just as*, he says, *the air with light present has not been made lucid, but is made, because, if it had been made, it would not be made, but, even with light absent, it would remain lucid, thus man, with God present to him, is illuminated, yet with him absent, he is darkened* continually, *from which he is departed not by intervals of places, but by aversion of will*.Augustine, *On the Literal Interpretation of Genesis* 8.12, para. 26 (CSEL 28:250; PL 34:383). But the sun always makes new light in the air. Therefore, God always makes new grace in the soul.  
 
@@ -46,7 +48,7 @@ Article 1
 
 ***On the sacrament of penance***
 
-***To the first we proceed thus. It seems that fault is remitted through the absolution of the priest.***
+To the first we proceed thus. It seems that fault is remitted through the absolution of the priest.  
 
 Obj. 1: For Hugh of St. Victor says in the book *On the Sacraments* that *the sentence of heaven* follows *the sentence of Peter*.Hugh of Saint Victor, *On the Sacraments of the Christian Faith* 2.14.8 (PL 176:566B–C). But the sentence of heaven concerns the remission of fault. Therefore, the remission of fault follows the sentence of Peter, which is of the priest absolving.  
 
@@ -72,7 +74,7 @@ Article 2
 
 ***On the sacrament of matrimony***
 
-***To the second we proceed thus. It seems that a man can receive the cross unto crossing beyond the sea with his wife unwilling, even if he fears for her incontinence.***
+To the second we proceed thus. It seems that a man can receive the cross unto crossing beyond the sea with his wife unwilling, even if he fears for her incontinence.  
 
 Obj. 1: For a man should not neglect his own salvation for another’s salvation. But a man procures his own salvation through this: that he is signed with the cross, attaining a full remission of sins. Therefore, he should not neglect this in order to provide for the salvation of his wife.  
 
@@ -110,7 +112,7 @@ Article 1
 
 ***On obedience to the precepts of prelates***
 
-***To the first we proceed thus. It seems that a subject is not held to obey his prelate commanding the revelation of a hidden crime.***
+To the first we proceed thus. It seems that a subject is not held to obey his prelate commanding the revelation of a hidden crime.  
 
 Obj. 1: For no one is held to obey someone in something not placed under his judgment. But hidden things are not placed under human judgment, but divine judgment only.Cf. Gratian, *Decretum*, P. 1, D. 32, c. 11, 1:120; *Liber extravagantium decretalium* (*Decretales Gregorii IX*), bk. 5, tit. 3, cc. 33–34, 2:763. Therefore, about their revelation no one is held to obey a prelate commanding.  
 
@@ -128,7 +130,7 @@ Article 2
 
 ***About dispensation***
 
-***To the second we proceed thus. It seems that the pope cannot dispense with the irregularity of bigamy.***
+To the second we proceed thus. It seems that the pope cannot dispense with the irregularity of bigamy.  
 
 Obj. 1: For man cannot dispense what are instituted *divinely*, as Bernard says in the book *On Dispensation and Precept*.Bernard of Clairvaux, *On Dispensation and Precept*, ch. 3, para. 6, 3:257–58 (PL 182:864). But the doctrine of the Apostle, which contains that a bigamist should not be promoted, as is clear in 1 Timothy 3:2 and in Titus 1:6, is divinely promulgated, according to that saying of the Apostle: *can it be that you seek a proof of him who speaks in me, Christ?* (2 Cor 13:3). Therefore, the pope cannot dispense with bigamists.  
 
@@ -144,7 +146,7 @@ Article 3
 
 ***About excommunication***
 
-***To the third we proceed thus. It seems that the excommunicated about whose excommunication the wise have different opinions should not be avoided.***
+To the third we proceed thus. It seems that the excommunicated about whose excommunication the wise have different opinions should not be avoided.  
 
 Obj. 1: For, according to the laws, a bishop cannot remove a benefice which he has granted to a cleric without fault.*Liber extravagantium decretalium* (*Decretales Gregorii IX*), bk. 5, tit. 1, c. 12, 2:735. But no less is the communion of the faithful due to any faithful than a benefice is due to a cleric conferred upon him by the bishop. Therefore, neither must the communion of the faithful be subtracted from someone without fault. But when it is doubted whether a cause is present,Cf. above: *Quodlibet II*, q. 8, a. 2, ad 2. the mind of a good man should be more prompt to interpret it in the best way.Cf. above: *Quodlibet II*, q. 5, a. 2, s.c. 2; Marcus Tullius Cicero, *Oration for Lucius Murena* 31.64; Augustine, *The Lord’s Sermon on the Mount* 2.18, para. 59 (CCSL 35:154; PL 34:1293–94). Therefore, from the fact there is doubt about the excommunication of some, someone should rather maintain they are not excommunicated, and thus he should not avoid them.  
 
@@ -162,7 +164,7 @@ Article 4
 
 ***About the distribution of benefices***
 
-***To the fourth we proceed thus. It seems that a prelate of a church cannot commit the care of the church to his relative, even though suitable, with a better man passed over.***
+To the fourth we proceed thus. It seems that a prelate of a church cannot commit the care of the church to his relative, even though suitable, with a better man passed over.  
 
 Obj. 1: A father seeks for his daughter a bridegroom as greatly suitable as he is able, and a bridegroom for his bride seeks the most faithful guard he can.Perhaps this is a reference to the soldier who, in the year 1250 AD, when King Louis was captured, guarded Queen Margaret in Damietta, as John Joinville relates: *Histoire de saint Louis*, ed. Natalis de Wailly (Paris: Libratrie de L. Hachette et C, 1906), ch. 88, para. 397, 166. But a greater prelate is compared to a church subject to him either just as a father to his daughter or just as a bridegroom to his bride. Therefore, as best he can, he ought to provide a suitable person for it.  
 
@@ -202,7 +204,7 @@ Article 1
 
 ***Whether someone can without sin desire to know the magic sciences***
 
-***To the first we proceed thus. It seems that a man can without sin desire to know the magic sciences.***
+To the first we proceed thus. It seems that a man can without sin desire to know the magic sciences.  
 
 Obj. 1: For it is not sin to desire that through which the intellect of man is placed in the best condition. But through any science the intellect of man is placed in the best condition because the true is the good of the intellect, as is said in the sixth book of the *Ethics*.Aristotle, *Ethics* 6.1, 1139a27–28. Yet science is of true things.Aristotle, *Posterior Analytics* 2.19, 101b5–8. Therefore, man licitly can desire to know any science, and thus without sin man can desire to know the magic sciences.  
 
@@ -222,7 +224,7 @@ Article 2
 
 ***Whether a statement which once is true, always is true***
 
-***To the second we proceed thus. It seems that it is not necessary that a statement which once is true, always is true.***
+To the second we proceed thus. It seems that it is not necessary that a statement which once is true, always is true.  
 
 Obj. 1: For if this were true in other statements, for the same reason this would be true in statements concerning the future; but in those this is not true because, as the Philosopher says in the second book of *On Generation*: *he who is about to walk, shall not walk*.Aristotle, *On Generation and Corruption* 2.11, 337b7. Therefore, it is not necessary that a statement which once is true, always is true.  
 
@@ -242,9 +244,9 @@ Reply Obj. 3: It must be said that diversity of connotation removes identity of 
 
 Article 3  
 
-***Whether a master in determining theological questions ought more to use reason or authority***
+Whether a master in determining theological questions ought more to use reason or authority  
 
-***To the third we proceed thus. It seems that a master determining theological questions more ought to use authorities than reasons.***
+To the third we proceed thus. It seems that a master determining theological questions more ought to use authorities than reasons.  
 
 Obj. 1: For in any science the best questions are determined through the first principles of that science. But the first principles of the theological science are the articles of faith, which are made known to us through authorities. Therefore, theological questions especially must be determined through authorities.  
 
@@ -282,7 +284,7 @@ Article 1
 
 ***Whether someone without perfect charity can offer himself to martyrdom***
 
-***To the first we proceed thus. It seems that someone without perfect charity can offer himself to martyrdom.***
+To the first we proceed thus. It seems that someone without perfect charity can offer himself to martyrdom.  
 
 Obj. 1: Because, on Psalm 119 [118]:127: *for this reason, I have loved your mandates over gold and topaz*, the Gloss says that the smallest *charity* more *loves the law of God than . . . a thousand gold and silver pieces*, and for the same reason, more than all temporal things.*Glossa ordinaria* and *interlinearis*, at Psalm 118:72, 3.1372 (PL 191:1079; 113:1041); Augustine, *Enarrationes in Psalmos*, at Psalm 118:72, sermon 17, para. 10 (CCSL 40:1722; PL 37:1550). But that which we love less we offer for that which we love more. Therefore, someone who has the smallest charity can offer both all temporal things and even his very own life for Christ.  
 
@@ -298,7 +300,7 @@ Article 2
 
 ***Whether to endure martyrdom for Christ is in a precept***
 
-***To the second we proceed thus. It seems that to suffer martyrdom on account of Christ is not in a precept.***
+To the second we proceed thus. It seems that to suffer martyrdom on account of Christ is not in a precept.  
 
 Obj. 1: For it seems less that a man should give his own things than that he should lay down his own proper body, as Gregory says in that homily, *I am the good pastor*.Gregory the Great, *On the Gospels*, bk. 1, homily 14, on John 10:11–16 (PL 76:1127). But to dismiss all one’s things on account of Christ does not fall under a precept, but under a counsel. Therefore, to expose one’s body to martyrdom also does not fall under a precept.  
 
@@ -314,7 +316,7 @@ On evils
 
 ***On first movements***
 
-***Then there were questions concerning evils, namely, concerning first movements. About this there were two questions:***
+Then there were questions concerning evils, namely, concerning first movements. About this there were two questions:  
 
 first, whether first movements are always sins;  
 
@@ -348,7 +350,7 @@ Article 2
 
 ***Whether in infidels they are mortal sins***
 
-***To the second we proceed thus. It seems that first movements in infidels are mortal sins.***
+To the second we proceed thus. It seems that first movements in infidels are mortal sins.  
 
 Obj. 1: Because, just as Anselm says in the book *On Grace and Free Will*: damnation follows *those who are not in Christ* Jesus if they should feel concupiscence, *even if they should not* consent.Anselm of Canterbury, *On the Harmony of Foreknowledge and Predestination and the Grace of God with Free Choice* (*De concordia*), q. 3, ch. 7 (PL 158:530). But to feel concupiscence is to have the first movement of concupiscence. Therefore, infidels, who are not in Christ Jesus, sin mortally according to the first movements because damnation is not due except to mortal sin.  
 
@@ -374,9 +376,9 @@ On precepts
 
 ***Article 1***
 
-***Whether boys not practiced in keeping the precepts should be received, or obligated by vow or by oath, or allured by benefices to the entrance of religion***
+Whether boys not practiced in keeping the precepts should be received, or obligated by vow or by oath, or allured by benefices to the entrance of religion  
 
-***The question is whether boys not practiced in keeping the precepts should be received, or obligated by vow or by oath, or allured by benefices to the entrance of religion. And it seems they should not.***
+The question is whether boys not practiced in keeping the precepts should be received, or obligated by vow or by oath, or allured by benefices to the entrance of religion. And it seems they should not.  
 
 Obj. 1: For the perfection of the counsels, to which religions are ordered, has assumed its beginning from Christ. But Christ first gave a counsel of perfection to an adolescent who had observed the precepts, as is clear in Matthew 19.Matthew 19:16–21. Therefore, only those who are practiced in keeping the precepts should be obligated or received into religion.Cf. above: *Quodlibet III*, q. 5, a. 3, obj. 1.  
 
@@ -526,7 +528,7 @@ Article 2
 
 ***Whether the counsels are directed to the precepts***
 
-***Second, it was asked whether the counsels are directed to the precepts. And it seems that they are not.***
+Second, it was asked whether the counsels are directed to the precepts. And it seems that they are not.  
 
 Obj. 1: For that to which something else is directed is posterior, because the end is prior in intention and posterior in execution. Cf. below: *Quodlibet VIII*, q. 1, a. 2, ad 1. But it happens that the observance of the precepts is prior in execution than the fulfillment of the counsels, as is clear in Matthew 19 concerning the adolescent who said he had observed the precepts of the law from his youth,Matthew 19:16–21. to whom there is given a counsel of perfection.Cf. Aquinas, *Commentary on Aristotle’s Ethics*, bk. 5, lect. 1; bk. 5, lect. 10. Therefore, it seems that the counsels are not directed to the precepts as to an end, but rather conversely.Cf. above: *Quodlibet III*, q. 5, a. 3, obj. 1.  
 

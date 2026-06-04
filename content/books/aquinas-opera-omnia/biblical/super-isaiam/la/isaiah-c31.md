@@ -1,5 +1,7 @@
 # Chapter 29
 
+^29:1^ Væ Ariel, Ariel civitas, quam expugnavit David. Additus est annus ad annum, solemnitates evolutæ sunt.  
+
 > ^29:2^ Et circumvallabo Ariel et erit tristis et mœrens. Et erit mihi quasi Ariel.
 
 > ^29:3^ Et circumdabo quasi sphæram in circuitu tuo et jaciam contra te aggerem et munimenta ponam in obsidionem tuam.

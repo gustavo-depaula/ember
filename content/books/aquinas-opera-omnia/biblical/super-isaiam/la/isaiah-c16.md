@@ -1,5 +1,7 @@
 # Chapter 14
 
+^14:1^ Prope est ut veniat tempus ejus, et dies ejus non elongabuntur. Miserebitur enim Dominus Jacob et eliget adhuc de Israel et requiescere eos faciet super humum suam. Adjungetur advena ad eos et adhærebit domui Jacob,  
+
 > ^14:2^ et tenebunt eos populi et adducent eos in locum suum; et possidebit eos domus Israel super terram Domini in servos et ancillas, et erunt capientes eos qui se ceperant et subjicient exactores suos.
 
 > ^14:3^ Et erit in die illa, cum requiem dederit tibi Deus a labore tuo et a concussione tua et a servitute dura qua ante servisti,

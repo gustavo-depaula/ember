@@ -1,5 +1,7 @@
 # L. 4 - Commentary on the Solution
 
+Huic quaestioni talis poterit adhiberi solutio. Multa sunt quae cum separari actu non possunt, animo tamen et cogitatione separantur. Ut cum triangulum vel caetera a subiecta materia nullus actu separat, mente tamen segregans ipsum triangulum proprietatemque eius praeter materiam speculatur.  
+
 > Amoveamus igitur primi boni praesentiam paulisper ex animo, quod esse quidem constat idque ex omnium doctorum indoctorumque sententia barbararumque gentium religionibus cognosci potest.
 
 > Hoc igitur paulisper amoto, ponamus omnia esse quae sunt bona atque ea consideremus quemadmodum bona esse possent si a primo bono minime defluxissent. Hinc intueor aliud in eis esse quod bona sunt, aliud quod sunt. Ponatur enim una eademque substantia bona esse, alba, gravis, rotunda. Tunc aliud esset ipsa illa substantia, aliud eius rotunditas, aliud color, aliud bonitas. Nam si haec singula idem essent quod ipsa substantia, idem esset gravitas quod color, quod bonum, et bonum quod gravitas; quod fieri natura non sinit. Aliud igitur tunc in eis esset esse, aliud aliquid esse; ac tunc bona quidem essent, esse tamen ipsum minime haberent bonum. Igitur si ullo modo essent, non a bono ac bona essent; ac non idem essent quod bona, sed eis aliud esset esse aliud bonis esse.

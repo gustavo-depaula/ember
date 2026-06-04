@@ -1,8 +1,10 @@
 # D. 33 - Number of original sin
 
+***De peccato originale quantum ad numerum***
+
 ***Divisio textus***
 
-***Postquam determinavit de peccato originali quantum ad principium et quantum ad terminum, ostendens quomodo a parentibus contrahatur et quomodo per baptismum dimittatur hic determinat de eo quantum ad numerum, inquirens utrum originale sit unum vel multa; et dividitur in duas.***
+Postquam determinavit de peccato originali quantum ad principium et quantum ad terminum, ostendens quomodo a parentibus contrahatur et quomodo per baptismum dimittatur hic determinat de eo quantum ad numerum, inquirens utrum originale sit unum vel multa; et dividitur in duas.  
 
 In prima inquirit, si peccatum originale sit unum, quasi ex uno peccato causatum et inductum; an multa, quasi ex peccatis omnium praecedentium parentum relictum:  
 
@@ -98,7 +100,7 @@ Articulus 1
 
 ***Utrum aliquis contrahat maculam ex parentibus proximis***
 
-***Ad primum sic proceditur. Videtur quod ex proximis parentibus aliquis contrahat maculam originaliter.***
+Ad primum sic proceditur. Videtur quod ex proximis parentibus aliquis contrahat maculam originaliter.  
 
 In successiva enim generatione hominum quanto accipitur generans proximius, tanto efficacius similitudinem suam in genito inducit; unde filii magis assimilantur patribus quam avis et proavis, et sic deinceps. Sed traductio originalis est secundum assimilationem generantis ad genitum: quia in originali natus etiam in originali generat. Ergo magis contrahit natus originaliter peccatum proximi parentis quamParma: *originale per . . . quam per*. peccatum Adae.  
 
@@ -136,7 +138,7 @@ Articulus 2
 
 ***Utrum culpa proximorum parentum redundet in filios quantum ad poenam***
 
-***Ad secundum sic proceditur. Videtur quod culpa proximorum parentum in filios redundet quantum ad poenam.***
+Ad secundum sic proceditur. Videtur quod culpa proximorum parentum in filios redundet quantum ad poenam.  
 
 Primo per id quod dicitur Exod. 20:5: *ego sum Deus zelotes, visitans iniquitates patrum in filios*, et loquitur ibi de visitatione correctionis, quae per poenam fit. Ergo pro peccatis parentum filii puniuntur.  
 
@@ -216,7 +218,7 @@ Articulus 1
 
 ***Utrum poena sensibilis debeatur peccato originali secundum se***
 
-***Ad primum sic proceditur. Videtur quod peccato originali secundum se debeatur poena sensibilis.***
+Ad primum sic proceditur. Videtur quod peccato originali secundum se debeatur poena sensibilis.  
 
 Dicit enim Augustinus,Mandonnet: *Fulgentius*. *De fide ad Petrum*: *firmissime tene, et nullatenus dubites parvulos qui sine sacramento baptismatis de hoc saeculo transierunt, aeterno supplicio puniendos*. Sed supplicium poenam sensibilem nominat. Ergo parvuli qui pro solo originali punientur, sensibilem poenam sustinebunt.  
 
@@ -248,7 +250,7 @@ Articulus 2
 
 ***Utrum pueri non baptizati sentiant in anima afflictionem spiritualem***
 
-***Ad secundum sic proceditur. Videtur quod pueri non baptizati afflictionem spiritualem in anima sentiant.***
+Ad secundum sic proceditur. Videtur quod pueri non baptizati afflictionem spiritualem in anima sentiant.  
 
 Quia, sicut dicit Chrysostomus, *In Matth*., in damnatis gravior erit poena quod Dei visione carebunt, quam quod igne inferni cremabuntur. Sed pueri visione divina carebunt. Ergo afflictionem spiritualem ex hoc sentient.  
 
@@ -290,7 +292,7 @@ Ad quintum dicendum, quod quamvis pueri non baptizati sint separati a Deo quantu
 
 Expositio textus  
 
-****Quod vero in actuali peccato Adae plura notari valeant peccata, Augustinus in* Enchiridio *insinuat*. Sciendum est quod in aliquo peccato possunt notari deformitates plurium peccatorum dupliciter. Aut proprie, et sic in peccato Adae apparet deformitas superbiae, gulae et inobedientiae, et hujus modi; aut quasi metaphorice, et sic in eo ostenditur deformitas homicidii, quia seipsum spiritualiter occidit, et fornicationis, quia spiritualiter fornicatus est, a Deo recedens; et tamen est unum solum peccatum, has deformitates ex diversis circumstantiis habens, speciem peccati ex ultimo fine retinens; et ideo etiam non oportet quod peccatum originale quod ex eo causaturParma: *causatum*. sit multa.***
+*Quod vero in actuali peccato Adae plura notari valeant peccata, Augustinus in* Enchiridio *insinuat*. Sciendum est quod in aliquo peccato possunt notari deformitates plurium peccatorum dupliciter. Aut proprie, et sic in peccato Adae apparet deformitas superbiae, gulae et inobedientiae, et hujus modi; aut quasi metaphorice, et sic in eo ostenditur deformitas homicidii, quia seipsum spiritualiter occidit, et fornicationis, quia spiritualiter fornicatus est, a Deo recedens; et tamen est unum solum peccatum, has deformitates ex diversis circumstantiis habens, speciem peccati ex ultimo fine retinens; et ideo etiam non oportet quod peccatum originale quod ex eo causaturParma: *causatum*. sit multa.  
 
 *Non est putandum gravius fuisse peccato in Spiritum Sanctum*. Contra. Homo primus habuit minus impellens ad peccatum quam sequentes. Quanto autem aliquis minori tentatione cadit, gravius peccat. Ergo primus homo gravius peccavit caeteris sequentibus.  
 

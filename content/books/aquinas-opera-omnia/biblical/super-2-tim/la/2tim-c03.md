@@ -1,5 +1,7 @@
 # C. 2 - Suffering for Christ
 
+***Patiens pro Christo***
+
 ***Lectio 1***
 
 ***Miles Christi***
@@ -106,7 +108,7 @@ Lectio 2
 
 ***Morire et Resurgite cum Christo***
 
-***^2:8^ Memor esto Dominum Jesum Christum resurrexisse a mortuis ex semine David, secundum Evangelium meum, [n. 48]***
+^2:8^ Memor esto Dominum Jesum Christum resurrexisse a mortuis ex semine David, secundum Evangelium meum, [n. 48]  
 
 > ^2:9^ in quo laboro usque ad vincula, quasi male operans: sed verbum Dei non est alligatum. [n. 50]
 
@@ -230,7 +232,7 @@ Lectio 3
 
 ***Vasa contumeliae***
 
-***^2:16^ Profana autem et vaniloquia devita: multum enim proficiunt ad impietatem: [n. 63]***
+^2:16^ Profana autem et vaniloquia devita: multum enim proficiunt ad impietatem: [n. 63]  
 
 > ^2:17^ et sermo eorum ut cancer serpit: ex quibus est Hymenaeus et Philetus, [n. 67]
 
@@ -324,7 +326,7 @@ Lectio 4
 
 ***Praecepta sanctitatis***
 
-***^2:21^ Si quis ergo emundaverit se ab istis, erit vas in honorem sanctificatum, et utile Domino ad omne opus bonum paratum. [n. 75]***
+^2:21^ Si quis ergo emundaverit se ab istis, erit vas in honorem sanctificatum, et utile Domino ad omne opus bonum paratum. [n. 75]  
 
 > ^2:22^ Juvenilia autem desideria fuge, sectare vero justitiam, fidem, spem, caritatem, et pacem cum iis qui invocant Dominum de corde puro. [n. 78]
 

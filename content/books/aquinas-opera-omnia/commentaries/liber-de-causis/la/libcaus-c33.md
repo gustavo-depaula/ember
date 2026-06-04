@@ -1,5 +1,7 @@
 # Proposition 32
 
+214. Omnis substantia cadens in quibusdam dispositionibus suis sub aeternitate et cadens in quibusdam dispositionibus suis sub tempore est ens et generatio simul.  
+
 > 215. Omnis enim res cadens sub aeternitate est ens vere, et omnis res cadens sub tempore est generatio vere. Si ergo hoc ita est, tunc, si res una est cadens sub aeternitate et tempore, est ens et generatio non per modum unum, sed per modum et modum.
 
 > 216. Iam ergo manifestum est ex eo, quod diximus, quod omne generatum cadens per substantiam suam sub tempore est habens substantiam pendentem per ens purum, quod est causa durabilitatis et causa rerum sempiternarum omnium et destructibilium.

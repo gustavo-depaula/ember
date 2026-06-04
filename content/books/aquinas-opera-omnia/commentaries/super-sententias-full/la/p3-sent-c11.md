@@ -1,8 +1,10 @@
 # D. 10 - Angelic acts that follow on the distinct orders
 
+***De quibusdam actibus qui consequuntur omnes ordines***
+
 ***Divisio textus***
 
-***Posita distinctione ordinum, Magister hic determinat quosdam actus qui ordines distinctos consequuntur; et dividitur in partes duas:***
+Posita distinctione ordinum, Magister hic determinat quosdam actus qui ordines distinctos consequuntur; et dividitur in partes duas:  
 
 in prima determinat de quibusdam actibus qui consequuntur omnes ordines, scilicet assistere et ministrare;  
 
@@ -118,7 +120,7 @@ Articulus 3
 
 ***Utrum omnes angeli secundae hierarchiae mittantur***
 
-***Ad tertium sic proceditur. Videtur quod omnes angeli secundae hierarchiae mittantur.***
+Ad tertium sic proceditur. Videtur quod omnes angeli secundae hierarchiae mittantur.  
 
 Omnes enim angeli vel assistunt, vel ministrant. Sed assistere est proprium primae hierarchiae, cujus est circa Deum esse, secundum Dionysium, *De cael. hier*., cap. 7. Ergo omnes alii in ministerium mittuntur.  
 
@@ -152,7 +154,7 @@ Articulus 4
 
 ***Utrum angeli impediantur a contemplatione per executionem ministerii***
 
-***Ad quartum sic proceditur. Videtur quod angeli per executionem ministerii a contemplatione retardentur:***
+Ad quartum sic proceditur. Videtur quod angeli per executionem ministerii a contemplatione retardentur:  
 
 Quia, ut habetur Tobiae 12:20, angelus in ministerio existens, dixit: *tempus est ut revertar ad eum qui me misit*. Sed non revertitur nisi per contemplationem. Ergo videtur quod per ministerium a contemplatione Dei abscesserit.  
 
@@ -178,6 +180,6 @@ Ad quartum dicendum, quod caelum empyreum non est locus contemplationis secundum
 
 Expositio textus  
 
-****Item Dionysius in hierarchia . . . ait*. Verba quae sequuntur sunt Gregorii, *Hom*. 34 *in Evang*., inducentis auctoritatem Dionysii non quantum ad verba, sed quantum ad sensum.***
+*Item Dionysius in hierarchia . . . ait*. Verba quae sequuntur sunt Gregorii, *Hom*. 34 *in Evang*., inducentis auctoritatem Dionysii non quantum ad verba, sed quantum ad sensum.  
 
 *Et putant quidam Michaelem, Gabrielem et Raphaelem de superiori ordine fuisse*. Hoc expresse contradicit Scripturae: quia Michael, Daniel. 10, ponitur in ordine principum; Gabriel autem dicitur de ordine archangelorum; Raphael autem posset poni in ordine angelorum secundum ea quae circa singulares personas exercuit.

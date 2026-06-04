@@ -1,13 +1,15 @@
 # O Merciful God
 
-***Concede mihi,***
-***misericors Deus,***
-***quae tibi***
-***sunt placita,***
-***ardenter concupiscere,***
-***prudenter investigare,***
-***veraciter agnoscere,***
-***et perfecte adimplere.Here, and in the following line, the punctuation in the Latin diverges from the Marietti edition.***
+***Oratio ad vitam sapienter instituendam***
+
+Concede mihi,  
+misericors Deus,  
+quae tibi  
+sunt placita,  
+ardenter concupiscere,  
+prudenter investigare,  
+veraciter agnoscere,  
+et perfecte adimplere. *(Here, and in the following line, the punctuation in the Latin diverges from the Marietti edition.)*  
 
 > Ad laudem
 > et gloriam nominis tui,
@@ -71,13 +73,13 @@
 > Fac me, Domine Deus meus,
 
 > obedientem sine contradictione,
-> pauperem sine deiectione,The Marietti edition here includes the words: *castum sine corruptione*, “chaste without corruption.”
+> pauperem sine deiectione, *(The Marietti edition here includes the words: *castum sine corruptione*, “chaste without corruption.”)*
 > patientem sine murmuratione,
 > humilem sine fictione,
 > hilarem sine dissolutione,
 > maturum sine gravedine,
 > agilem sine levitate,
-> veracem sine duplicitate,The Marietti edition places this line after *timentem te sine desperatione*.
+> veracem sine duplicitate, *(The Marietti edition places this line after *timentem te sine desperatione*.)*
 
 > timentem te
 > sine desperatione,

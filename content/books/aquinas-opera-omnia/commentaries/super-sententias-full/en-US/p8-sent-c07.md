@@ -1,6 +1,8 @@
 # D. 20 - Temporal aspects of penance
 
-***After the Master has examined penance and the power of the ministers to whom the administration of this sacrament belongs, here he examines certain things that come along with penance. And this is divided into two parts: in the first, he determines the time for penance; in the second, he determines certain things that belong to the effect of penance, at: *and since it was asserted above with many authorities, that sins are remitted in true contrition of heart . . . it is asked*, etc.*Sententiae* IV, 22.1 (125). 1.***
+***Temporal aspects of penance***
+
+After the Master has examined penance and the power of the ministers to whom the administration of this sacrament belongs, here he examines certain things that come along with penance. And this is divided into two parts: in the first, he determines the time for penance; in the second, he determines certain things that belong to the effect of penance, at: *and since it was asserted above with many authorities, that sins are remitted in true contrition of heart . . . it is asked*, etc.*Sententiae* IV, 22.1 (125). 1.  
 
 The first is in two parts: in the first part, he shows that the time for penance lasts until the end of life; in the second, he raises certain questions that have arisen from what has been said, at: *it is also usual to ask*, etc.*Sent*. IV, 21.1 (116). 1.  
 
@@ -34,7 +36,7 @@ first, whether by repentance someone can obtain the forgiveness of sins at the e
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus. It seems that someone cannot repent at the end of his life. For in 2 Maccabees 9:13, it is said of Antiochus, *then the abominable fellow prayed to the Lord, from whom he would not obtain mercy*. But this was the end of his life. Therefore, it seems that those repenting at the end do not obtain forgiveness.***
+Obj. 1: To the first question we proceed thus. It seems that someone cannot repent at the end of his life. For in 2 Maccabees 9:13, it is said of Antiochus, *then the abominable fellow prayed to the Lord, from whom he would not obtain mercy*. But this was the end of his life. Therefore, it seems that those repenting at the end do not obtain forgiveness.  
 
 Obj. 2: Furthermore, everyone who truly repents leaves sin. But the person who repents at the end of his life does not leave his sin, but is left by his sins; for he wants to do penance when he can no longer sin, as it says in the text. Therefore, it seems that he does not obtain forgiveness at that time.  
 
@@ -46,7 +48,7 @@ Furthermore (2), God’s wisdom and mercy conquers human wickedness. But a man c
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that a penitent at the end of his life cannot be absolved by just any priest whatsoever.Parallels: above, d. 18, q. 2, a. 5, qa. 1; d. 19, q. 1, a. 3, qa. 1. For a certain jurisdiction is required for absolution, as has been said.In the preceding distinction, q. 1, a. 3, qa. 3. But the priest does not acquire jurisdiction over someone who repents at the end. Therefore, he cannot absolve him at the end.***
+Obj. 1: Moreover, it seems that a penitent at the end of his life cannot be absolved by just any priest whatsoever.Parallels: above, d. 18, q. 2, a. 5, qa. 1; d. 19, q. 1, a. 3, qa. 1. For a certain jurisdiction is required for absolution, as has been said.In the preceding distinction, q. 1, a. 3, qa. 3. But the priest does not acquire jurisdiction over someone who repents at the end. Therefore, he cannot absolve him at the end.  
 
 Obj. 2: Furthermore, that person who receives the sacrament of baptism at the moment of death from someone other than his own priest does not have to be baptized again by his own priest. Therefore, if any priest could absolve anyone from sin at the moment of death, the penitent, if he survived, would not have to return to his own priest, which is false; for otherwise the priest would not have knowledge of the face of his flock.  
 
@@ -58,7 +60,7 @@ Furthermore (2), the authorities cited in the text say the same.
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that there is no punishment after death reserved for those who repent at the end. For God, who is consummately merciful, does not demand from man more than he can do. But anyone who repented at the end of his life would have time for nothing more than to have contrition and confess, which he has also done. Therefore, it seems that after this life nothing is required of him for the sins he has repented.***
+Obj. 1: Moreover, it seems that there is no punishment after death reserved for those who repent at the end. For God, who is consummately merciful, does not demand from man more than he can do. But anyone who repented at the end of his life would have time for nothing more than to have contrition and confess, which he has also done. Therefore, it seems that after this life nothing is required of him for the sins he has repented.  
 
 Obj. 2: Furthermore, the punishment of purgatory surpasses all punishment in this world, as it says in the text. But the punishment that a penitent is obliged to after confession and absolution is not as great as the many just punishments of the other life. Therefore, it would be unjust to the penitent if after absolution he were punished in purgatory after this life.  
 
@@ -70,7 +72,7 @@ Furthermore (2), negligence should not work to anyone’s advantage. But the one
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that God, who gives abundantly to all, refuses grace to no one who does what is in him to prepare himself for grace. But, as it says above in Distinction 17, Question 1, Article 3, Subquestions 1, 2, 3, and 4, this preparation is done by the movement of the free will, and so as long as the use of the free will remains to a man in this life, when he cannot yet be confirmed in evil, he can prepare himself for grace by his sorrow for sins, and he obtains the grace of the remission of sins.***
+To the first question, I answer that God, who gives abundantly to all, refuses grace to no one who does what is in him to prepare himself for grace. But, as it says above in Distinction 17, Question 1, Article 3, Subquestions 1, 2, 3, and 4, this preparation is done by the movement of the free will, and so as long as the use of the free will remains to a man in this life, when he cannot yet be confirmed in evil, he can prepare himself for grace by his sorrow for sins, and he obtains the grace of the remission of sins.  
 
 Reply Obj. 1: He would have obtained forgiveness if he had truly repented. But he did not have true repentance, for he was not sorry for his sins out of love of justice, but out of fear of the punishment that he expected or sorrow for the punishment that he was suffering. And this also happens to many people who repent at the end, for it is not easy to suddenly reverse affections that have inclined toward something for a man’s entire life. Nor, however, is it impossible, for free will is not compelled by acquired habit, nor can a limit be set to God’s providence, by which the movement of true repentance is sometimes inspired at the very end of life.  
 
@@ -80,7 +82,7 @@ Reply Obj. 3: In contrition, the conditional intention of satisfaction and confe
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that any priest, as someone with the power of the keys, has that power indifferently for all people and with regard to all sins. But the fact that he cannot absolve all people from all sins is because by the order of the Church he has limited jurisdiction, or none at all. But because necessity knows no law, in an emergency he is not prevented by the order of the Church from giving absolution by the fact that he also holds the keys sacramentally; and a person obtains as much from another’s absolution as if he were absolved by his own priest. Nor at that moment can he be absolved only from sin by any priest, but also from the excommunication imposed by anyone. For this absolution also pertains to jurisdiction, which is restricted by law by order of the Church.***
+To the second question, it should be said that any priest, as someone with the power of the keys, has that power indifferently for all people and with regard to all sins. But the fact that he cannot absolve all people from all sins is because by the order of the Church he has limited jurisdiction, or none at all. But because necessity knows no law, in an emergency he is not prevented by the order of the Church from giving absolution by the fact that he also holds the keys sacramentally; and a person obtains as much from another’s absolution as if he were absolved by his own priest. Nor at that moment can he be absolved only from sin by any priest, but also from the excommunication imposed by anyone. For this absolution also pertains to jurisdiction, which is restricted by law by order of the Church.  
 
 Reply Obj. 1: Anyone can use the jurisdiction of another by that person’s will, for those things that belong to jurisdiction can be delegated. Therefore, since the Church accepts that any priest can give absolution at the moment of death, this very fact gives a person the use of jurisdiction when he lacks it.  
 
@@ -90,7 +92,7 @@ Reply Obj. 3: Baptism has efficacy from the sanctification of the matter, and th
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that punishment is required after the remission of guilt so that the inequality of injustice committed may be brought back to equality. Now equality is consequent on quantity. And therefore as the ordering of guilt requires that punishment be imposed for guilt, so it is required that there be as much punishment as guilt. And therefore since sin cannot remain unordered, although the liability to punishment is diminished by contrition and confession and absolution, anyone who, repenting at the end, does not complete any satisfaction in this life, must be punished after this life, unless his contrition was so great that it completely purified him of punishment, which sometimes does happen, as was said above in Distinction 17, Article 5, Subquestion 2.***
+To the third question, it should be said that punishment is required after the remission of guilt so that the inequality of injustice committed may be brought back to equality. Now equality is consequent on quantity. And therefore as the ordering of guilt requires that punishment be imposed for guilt, so it is required that there be as much punishment as guilt. And therefore since sin cannot remain unordered, although the liability to punishment is diminished by contrition and confession and absolution, anyone who, repenting at the end, does not complete any satisfaction in this life, must be punished after this life, unless his contrition was so great that it completely purified him of punishment, which sometimes does happen, as was said above in Distinction 17, Article 5, Subquestion 2.  
 
 Reply Obj. 1: Someone who repents at the end of his life is not punished after this life because he did not make satisfaction when he could not, but because he sinned and neglected to make satisfaction when he could. Therefore, it does not follow that God requires more from a man than he can do.  
 
@@ -104,7 +106,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallels: *ST* I-II, q. 105, a. 2, ad 9; *Quodl.* I, q. 9, a. 2. It seems that the temporal punishment whose obligation remains after penance is not reckoned according to one’s guilt. For it is reckoned according to the quantity of pleasure that was taken in sin, as is clear from Revelation 18:7: *as she glorified herself and lived in pleasures, so give her a like measure of torment and grief*. But sometimes where there is more pleasure, there is less guilt: for according to Gregory, carnal sins, which contain more pleasure than spiritual ones, have less guilt.Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 33, par. 12. Therefore, the punishment is not reckoned according to the amount of guilt.***
+Obj. 1: To the second question we proceed thus.Parallels: *ST* I-II, q. 105, a. 2, ad 9; *Quodl.* I, q. 9, a. 2. It seems that the temporal punishment whose obligation remains after penance is not reckoned according to one’s guilt. For it is reckoned according to the quantity of pleasure that was taken in sin, as is clear from Revelation 18:7: *as she glorified herself and lived in pleasures, so give her a like measure of torment and grief*. But sometimes where there is more pleasure, there is less guilt: for according to Gregory, carnal sins, which contain more pleasure than spiritual ones, have less guilt.Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 33, par. 12. Therefore, the punishment is not reckoned according to the amount of guilt.  
 
 Obj. 2: Furthermore, a person is obliged to the moral precepts in the same way in the new law as in the old. But in the old law the penance due for sins was seven days, so that, namely, they were unclean for seven days. Therefore, since a seven-year punishment is imposed in the New Testament for one mortal sin, it seems that the amount of punishment does not have to do with the amount of guilt.  
 
@@ -118,7 +120,7 @@ Furthermore (2), a man is brought back to the equality of justice by punishment 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the penitent does not have to pay a greater debt of punishment than what the priest has imposed on him. For the sacrament always accomplishes its own effect, unless there is a defect on the part of the one receiving or conferring it. But sometimes less penance is imposed than is befitting. And this is not a defect on the part of the recipient, for he was prepared to do any penance imposed on him; nor is it a defect on the part of the one conferring the sacrament, for he assigned the penance according to his conscience and discretion. Therefore, since the sacrament of penance is ordered toward the total destruction of sin, both as to fault and as to punishment, it seems that there is no punishment left to pay once the penance enjoined has been performed.***
+Obj. 1: Moreover, it seems that the penitent does not have to pay a greater debt of punishment than what the priest has imposed on him. For the sacrament always accomplishes its own effect, unless there is a defect on the part of the one receiving or conferring it. But sometimes less penance is imposed than is befitting. And this is not a defect on the part of the recipient, for he was prepared to do any penance imposed on him; nor is it a defect on the part of the one conferring the sacrament, for he assigned the penance according to his conscience and discretion. Therefore, since the sacrament of penance is ordered toward the total destruction of sin, both as to fault and as to punishment, it seems that there is no punishment left to pay once the penance enjoined has been performed.  
 
 Obj. 2: Furthermore, God is more likely to forgive punishment than to demand it. But if some priest had imposed a greater punishment in satisfaction, the penitent would be obliged to do it. Therefore, it seems that if he imposes insufficient punishment, nothing more will be demanded from the penitent.  
 
@@ -130,7 +132,7 @@ Furthermore (2), the error of the priest cannot benefit the penitent. But it wou
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that one person cannot fulfill the punishment satisfying for another.Parallels: *ST* III, q. 48, a. 2, ad 1; *SCG* III, ch. 158; *SCG* IV, ch. 55, n. 20; *de Veritate*, q. 29, a. 7. For merit is required for satisfaction. But one person cannot merit or demerit for another, since it is written: *you will render to each according to his works* (Ps 62:12). Therefore, one person cannot make satisfaction for another.***
+Obj. 1: Moreover, it seems that one person cannot fulfill the punishment satisfying for another.Parallels: *ST* III, q. 48, a. 2, ad 1; *SCG* III, ch. 158; *SCG* IV, ch. 55, n. 20; *de Veritate*, q. 29, a. 7. For merit is required for satisfaction. But one person cannot merit or demerit for another, since it is written: *you will render to each according to his works* (Ps 62:12). Therefore, one person cannot make satisfaction for another.  
 
 Obj. 2: Furthermore, satisfaction is divided against contrition and confession. But one person cannot have contrition or make a confession for another. Therefore, neither can he make satisfaction.  
 
@@ -144,7 +146,7 @@ Furthermore (2), charity is able to do more with God than among men. But among m
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that punishment is required after faults are forgiven for two reasons, namely, to resolve a debt and to offer a remedy. Therefore, the reckoning of punishment is considered as to two things. First, as to the debt; and then the amount of the punishment fundamentally corresponds to the amount of guilt before any of it is forgiven. But nevertheless, what is forgiven by the first of those things that are apt to forgive punishment is more remitted according to this, that less remains to be remitted or to be loosed; for however much more of the penalty has been forgiven by contrition, that much less remains to be forgiven by confession. Second, as to the remedy either of the person who sinned or others; and this is how sometimes a greater penalty is imposed for a lesser sin, either because it can be more difficult to resist one person’s sin than another’s, as a greater penance is imposed on a young person for fornication than on an old person, although he may sin less; or because in one person, like a priest, a sin is more dangerous than in another. Or because the multitude tends more to that sin, and so by the punishment of one person, the others may be frightened away from it. Therefore, in the penitential forum punishment must be reckoned for both reasons. And so a greater penance is not always imposed for a greater sin. But the punishment of purgatory is only for paying the debt, for at that point there is no further room for sinning. And so that punishment is allotted only according to the quantity of sin, considering as well the quantity of contrition, and confession, and absolution. For by all these things some of the punishment is remitted. Therefore, these things must also be considered by a priest when imposing satisfaction.***
+To the first question, I answer that punishment is required after faults are forgiven for two reasons, namely, to resolve a debt and to offer a remedy. Therefore, the reckoning of punishment is considered as to two things. First, as to the debt; and then the amount of the punishment fundamentally corresponds to the amount of guilt before any of it is forgiven. But nevertheless, what is forgiven by the first of those things that are apt to forgive punishment is more remitted according to this, that less remains to be remitted or to be loosed; for however much more of the penalty has been forgiven by contrition, that much less remains to be forgiven by confession. Second, as to the remedy either of the person who sinned or others; and this is how sometimes a greater penalty is imposed for a lesser sin, either because it can be more difficult to resist one person’s sin than another’s, as a greater penance is imposed on a young person for fornication than on an old person, although he may sin less; or because in one person, like a priest, a sin is more dangerous than in another. Or because the multitude tends more to that sin, and so by the punishment of one person, the others may be frightened away from it. Therefore, in the penitential forum punishment must be reckoned for both reasons. And so a greater penance is not always imposed for a greater sin. But the punishment of purgatory is only for paying the debt, for at that point there is no further room for sinning. And so that punishment is allotted only according to the quantity of sin, considering as well the quantity of contrition, and confession, and absolution. For by all these things some of the punishment is remitted. Therefore, these things must also be considered by a priest when imposing satisfaction.  
 
 Reply Obj. 1: In those words two things are touched upon on the side of guilt, namely, glorification and delight. The first of these pertains to the sinner’s hubris, by which he resists God; the second, to the pleasure he takes in sin. Now although sometimes there is less pleasure in a greater sin, nevertheless there is always a greater hubris in it; and so the argument does not proceed.  
 
@@ -156,7 +158,7 @@ Reply Obj. 4: That punishment is to be understood when this happens against a pr
 
 Response to Quaestiuncula 2  
 
-***To the second question, It should be said that the good or bad action of a minister makes no difference to the efficacy of the sacraments. Therefore, either a priest carries himself discerningly in the imposition of penance, or not; it makes no difference to the efficacy of the absolution and confession and contrition. And therefore whether he imposes a penance discerningly or not, the guilt always remains of the same amount for punishment. And therefore if the penitent does not fulfill this, it will be required of him in purgatory.***
+To the second question, It should be said that the good or bad action of a minister makes no difference to the efficacy of the sacraments. Therefore, either a priest carries himself discerningly in the imposition of penance, or not; it makes no difference to the efficacy of the absolution and confession and contrition. And therefore whether he imposes a penance discerningly or not, the guilt always remains of the same amount for punishment. And therefore if the penitent does not fulfill this, it will be required of him in purgatory.  
 
 Reply Obj. 1: Whenever a smaller penance is imposed than is appropriate, it is a defect on the part of the one imposing it, or on the part of the recipient. But sometimes it can be without the fault of either one, as when the one imposing it applies due diligence, and the one receiving it is ready to fulfill it; and because of this it is not unfitting if is not completely freed from liability to punishment.  
 
@@ -166,7 +168,7 @@ Reply Obj. 3: The priest imposing a less-fitting penance does not always sin, bo
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that satisfactory punishment is for two things; namely, the resolution of a debt, and a medicine for avoiding sin. To the extent, therefore, that it is a remedy for subsequent sin, the satisfaction of one person cannot benefit another; for one person’s fasting does not tame another’s flesh, nor from the acts of one person does another grow accustomed to acting well, except accidentally, to the extent that someone can, by his own good works, merit for another an increase of grace, which is the most efficacious remedy for avoiding sin. But this is more by the mode of merit than by the mode of satisfaction.***
+To the third question, it should be said that satisfactory punishment is for two things; namely, the resolution of a debt, and a medicine for avoiding sin. To the extent, therefore, that it is a remedy for subsequent sin, the satisfaction of one person cannot benefit another; for one person’s fasting does not tame another’s flesh, nor from the acts of one person does another grow accustomed to acting well, except accidentally, to the extent that someone can, by his own good works, merit for another an increase of grace, which is the most efficacious remedy for avoiding sin. But this is more by the mode of merit than by the mode of satisfaction.  
 
 But as to the resolution of the debt, one person can make satisfaction for another, as long as it is in charity, so that his works may be satisfactory ones. Nor is it necessary that a greater punishment be imposed on someone who makes satisfaction for another than would be imposed on the main person, as some say, moved by the fact that one’s own punishment makes satisfaction more than someone else’s. But this is nothing, for punishment has the power of making satisfaction mostly by reason of the charity with which a man endures it. And since greater charity appears in someone’s making satisfaction for another than if he himself made satisfaction, therefore less punishment is required in the one who makes satisfaction for another than would be required in the main person. Therefore it is said in the *Lives of the Fathers**Vitae Patrum*, bk. 5, libell. 5, n. 27 (PL 73:880). that because of the charity of one man, who out of charity for a brother did penance for a sin that he had not committed, the other was forgiven the sin that he had committed.  
 
@@ -186,7 +188,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus.Parallels: *Orat. Dom.* 6; *Quodl.* II, q. 8, a. 2. It seems that none of the satisfactory punishment could be forgiven by an indulgence. For commenting on 2 Timothy 2:13: *he cannot deny himself*, the interlinear Gloss says, *which he would do, if he did not fulfill his own words*. But he himself said, *the number of lashes shall be proportionate to the offense* (Deut 25:2). Therefore, none of the punishment assigned as satisfaction according to the amount of guilt can be forgiven.***
+Obj. 1: To the third question we proceed thus.Parallels: *Orat. Dom.* 6; *Quodl.* II, q. 8, a. 2. It seems that none of the satisfactory punishment could be forgiven by an indulgence. For commenting on 2 Timothy 2:13: *he cannot deny himself*, the interlinear Gloss says, *which he would do, if he did not fulfill his own words*. But he himself said, *the number of lashes shall be proportionate to the offense* (Deut 25:2). Therefore, none of the punishment assigned as satisfaction according to the amount of guilt can be forgiven.  
 
 Obj. 2: Furthermore, someone of lower rank cannot release someone from what his superior obliged. But when God absolves a man from guilt, he binds him to temporal punishment, as Hugh of St. Victor says.Hugh of St. Victor, *Summa Sentententiae*, tract. 6, ch. 11 (PL 176:148). Therefore, no man can absolve from that punishment by dismissing some of it.  
 
@@ -200,7 +202,7 @@ Furthermore (2), the general Church cannot err, for *the one who was heard in ev
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that they are not worth as much as they are announced to be.Parallel: *Quodl*. II, q. 8, a. 2. For indulgences have no effect except by the power of the keys. But by the power of the keys, the person holding the keys can only remit a certain determinate amount of the punishment for sin, once he has considered the amount of the sin and the contrition of the penitent. Therefore, since indulgences are made at the will of the one establishing the indulgence, it seems that they are not worth as much as announced.***
+Obj. 1: Moreover, it seems that they are not worth as much as they are announced to be.Parallel: *Quodl*. II, q. 8, a. 2. For indulgences have no effect except by the power of the keys. But by the power of the keys, the person holding the keys can only remit a certain determinate amount of the punishment for sin, once he has considered the amount of the sin and the contrition of the penitent. Therefore, since indulgences are made at the will of the one establishing the indulgence, it seems that they are not worth as much as announced.  
 
 Obj. 2: Furthermore, by the debt of punishment a man is delayed from attaining glory, which he should desire above all else. But if indulgences were worth as much as they are announced to be, then by obtaining indulgences a person could quickly make himself free of all charge of temporal punishment. Therefore, it seems that a person would be obliged to devote himself to acquiring these, and abandon all his other works.  
 
@@ -216,7 +218,7 @@ Furthermore (2), the Apostle says, *if our proclamation is in vain, then our fai
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that indulgences should not be done for temporal relief. For the remission of sins is something spiritual. But to give the spiritual in exchange for the temporal is simony. Therefore, it should not be done.***
+Obj. 1: Moreover, it seems that indulgences should not be done for temporal relief. For the remission of sins is something spiritual. But to give the spiritual in exchange for the temporal is simony. Therefore, it should not be done.  
 
 Obj. 2: Furthermore, spiritual help is more necessary than temporal help. But indulgences do not seem to be established for spiritual relief. Therefore, much less should they be done for temporal help.  
 
@@ -224,7 +226,7 @@ On the contrary, is the common custom of the Church, which grants indulgences fo
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that it is granted by everyone that indulgences are worth something, for it would be impious to say that the Church did something worthless.***
+To the first question, I answer that it is granted by everyone that indulgences are worth something, for it would be impious to say that the Church did something worthless.  
 
 But some people say that they do not avail to the forgiveness of the punishment that someone deserves in purgatory according to God’s judgment, but they do serve for the forgiveness from the obligation by which a priest obliges a penitent to some penalty, or that he is commanded to by the statutes of canon law. But this opinion does not seem true. First, because it is expressly against the privilege given to Peter that whatever he forgave on earth would be forgiven in heaven; and so the forgiveness that happens in the forum of the Church works also in the forum of God. And especially in establishing indulgences like this, the Church would harm more than help, for it would condemn someone to more serious penalties, namely, purgatory, by releasing him from the penances imposed.  
 
@@ -242,7 +244,7 @@ Reply Obj. 4: A greater remedy for avoiding sin is furnished by grace than by ha
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that there are many opinions about this.***
+To the second question, it should be said that there are many opinions about this.  
 
 For some people say that indulgences like this are not worth as much as they are proclaimed to be, but for each person they are worth as much as his faith and devotion requires. But they say that the Church announces it to be for this so that it may lure men to do good by a certain pious deception, like a mother who promises an apple to her son to entice him to walk. But this seems extremely dangerous to say. For as Augustine says in Letter 8 to Jerome, *if any falsity is detected in Sacred Scripture, the strength of Sacred Scripture’s authority perishes immediately*.Augustine, *Letter 28*, to Jerome, par. 3 (CSEL 34.1:107). And likewise, if any falsity were detected in the Church’s pronouncements, the Church’s instruction would not have any authority for strengthening the faith.  
 
@@ -266,7 +268,7 @@ Reply Obj. 5: The cause is not required for the measure of the remission of puni
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that temporal things are ordered to spiritual things, because we should use temporal things for the sake of spiritual things. And thus simply speaking, indulgences cannot be established for temporal things, but for temporal things ordered to spiritual things, like the repression of the Church’s enemies who disturb the Church’s peace, the construction of churches and bridges, and the collection of other kinds of alms. And by this it is clear that no simony is taking place there, for a spiritual good is not being given for a temporal one, but for a spiritual one.***
+To the third question, it should be said that temporal things are ordered to spiritual things, because we should use temporal things for the sake of spiritual things. And thus simply speaking, indulgences cannot be established for temporal things, but for temporal things ordered to spiritual things, like the repression of the Church’s enemies who disturb the Church’s peace, the construction of churches and bridges, and the collection of other kinds of alms. And by this it is clear that no simony is taking place there, for a spiritual good is not being given for a temporal one, but for a spiritual one.  
 
 Therefore, the solution to the first is clear.  
 
@@ -278,7 +280,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth question we proceed thus. It seems that any parish priest may give an indulgence. For an indulgence has efficacy from the abundance of the Church’s merits. But there is no congregation in which there is not some abundance of merits. Therefore, any priest can establish indulgences, if he has people subject to him; and likewise any prelate priest.***
+Obj. 1: To the fourth question we proceed thus. It seems that any parish priest may give an indulgence. For an indulgence has efficacy from the abundance of the Church’s merits. But there is no congregation in which there is not some abundance of merits. Therefore, any priest can establish indulgences, if he has people subject to him; and likewise any prelate priest.  
 
 Obj. 2: Furthermore, anyone with people under him bears the person of the whole multitude, as one man bears his own person. But anyone can share his own goods with another to make satisfaction for another. Therefore, anyone with people in his charge can share the goods of the multitude committed to him; and so it seems that he can establish indulgences.  
 
@@ -286,7 +288,7 @@ On the contrary, it is a smaller thing to excommunicate than to establish indulg
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that neither a deacon nor anyone else but a priest can establish indulgences.Parallel: *Quodl*. II, q. 8, a. 2, ad 2. For the remission of sins is an effect of the keys. But no one has the keys but a priest. Therefore, he is the only one who can establish indulgences.***
+Obj. 1: Moreover, it seems that neither a deacon nor anyone else but a priest can establish indulgences.Parallel: *Quodl*. II, q. 8, a. 2, ad 2. For the remission of sins is an effect of the keys. But no one has the keys but a priest. Therefore, he is the only one who can establish indulgences.  
 
 Obj. 2: Furthermore, there is a greater remission of punishment in indulgences than in the penitential forum. But only a priest has power there. Therefore, also in the other.  
 
@@ -294,7 +296,7 @@ On the contrary, the dispensation of the treasures of the Church is conferred on
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that not even a bishop can establish an indulgence.Parallel: *Quodl*. II, q. 8, a. 2. For the Church’s treasury is shared by the whole Church. But what is common to the whole Church can only be dispensed by the one who is in charge of the whole Church. Therefore, only the pope can establish indulgences.***
+Obj. 1: Moreover, it seems that not even a bishop can establish an indulgence.Parallel: *Quodl*. II, q. 8, a. 2. For the Church’s treasury is shared by the whole Church. But what is common to the whole Church can only be dispensed by the one who is in charge of the whole Church. Therefore, only the pope can establish indulgences.  
 
 Obj. 2: Furthermore, no one can forgive the penalties determined by law unless he has the power of establishing law. But satisfactory penalties for sins are determined in the law. Therefore, to forgive penalties like this can only be done by the pope, who is the law-maker.  
 
@@ -302,7 +304,7 @@ On the contrary, according to the Church’s custom, bishops give indulgences.
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that someone who is in mortal sin cannot establish indulgences. For the stream that no spring flows into cannot flow onward. But the font of grace, namely, of the Holy Spirit, does not flow into a prelate who is stuck in mortal sin. Therefore, he cannot pour it forth into others by establishing indulgences.***
+Obj. 1: Moreover, it seems that someone who is in mortal sin cannot establish indulgences. For the stream that no spring flows into cannot flow onward. But the font of grace, namely, of the Holy Spirit, does not flow into a prelate who is stuck in mortal sin. Therefore, he cannot pour it forth into others by establishing indulgences.  
 
 Obj. 2: Furthermore, it is a greater thing to grant an indulgence than to receive one. But someone who is in mortal sin does not receive one, as will be said. Therefore, he cannot establish one either.  
 
@@ -310,7 +312,7 @@ On the contrary, indulgences are established by the power conferred on the prela
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that indulgences have their effect according as one person’s works of satisfaction are counted for another, not only by the force of charity, but by the intention of the one doing it directed in some way toward him.***
+To the first question, I answer that indulgences have their effect according as one person’s works of satisfaction are counted for another, not only by the force of charity, but by the intention of the one doing it directed in some way toward him.  
 
 But the one person’s intention can be directed to another in three ways: either specifically, or in general, or individually. Individually, as when someone satisfies determinately for someone else; and in this way anyone can share his works with another. But specifically, as when someone prays for his own community and household and benefactors, and also directs his works of satisfaction toward this; and in this way, the person in charge of the community can share those works with another by applying the intention of those people who are of his community to someone determinately. But in general, as when someone directs his works to the good of the Church in general; and then the one who has charge of the Church in general can share those works by applying his own intention to this person or that one. And since a person is part of a community, and a community is part of the Church, the intention of the good of the community and the good of the whole Church is included in the intention of his private good. And thus someone who has charge of the Church can share those things that belong to the community and to this particular man; and someone who has charge of a community can share what belongs to this person, but not vice versa.  
 
@@ -322,19 +324,19 @@ And by this the answers to the objections are clear.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the power of granting indulgences follows jurisdiction, as was said above. And since deacons and other non-priests can have jurisdiction either committed to them, like envoys, or ordinarily, like bishops-elect, therefore they are able to make indulgences even though they are not priests; although they cannot absolve in the penitential forum, which belongs to holy orders.***
+To the second question, it should be said that the power of granting indulgences follows jurisdiction, as was said above. And since deacons and other non-priests can have jurisdiction either committed to them, like envoys, or ordinarily, like bishops-elect, therefore they are able to make indulgences even though they are not priests; although they cannot absolve in the penitential forum, which belongs to holy orders.  
 
 And by this the solution to the objections is clear. For making indulgences pertains to the key of jurisdiction, not to the key of holy orders.  
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the pope has the fullness of pontifical power, like a king in his kingdom, but bishops are taken up into part of this concern, like judges set over individual cities. This is also why he calls them alone *brothers* in his letters, but he calls all those remaining *sons*. And therefore the power of establishing indulgences resides fully in the pope, for he can do as he wishes, with a legitimate reason arising, of course. But among the bishops it is fixed according to the pope’s direction; and therefore they can establish them to the extent that it is allotted to them, and not more.***
+To the third question, it should be said that the pope has the fullness of pontifical power, like a king in his kingdom, but bishops are taken up into part of this concern, like judges set over individual cities. This is also why he calls them alone *brothers* in his letters, but he calls all those remaining *sons*. And therefore the power of establishing indulgences resides fully in the pope, for he can do as he wishes, with a legitimate reason arising, of course. But among the bishops it is fixed according to the pope’s direction; and therefore they can establish them to the extent that it is allotted to them, and not more.  
 
 And by this the answers to the objections are clear.  
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that to establish indulgences pertains to jurisdiction. But by sin a man does not lose jurisdiction; and so the indulgences are equally valid if they are established by someone who is in mortal sin as if they were established by the holiest person, since he does not remit punishment by the force of his own merits, but by the force of the merits locked in the treasury of the Church.***
+To the fourth question, it should be said that to establish indulgences pertains to jurisdiction. But by sin a man does not lose jurisdiction; and so the indulgences are equally valid if they are established by someone who is in mortal sin as if they were established by the holiest person, since he does not remit punishment by the force of his own merits, but by the force of the merits locked in the treasury of the Church.  
 
 Reply Obj. 1: The prelate who establishes indulgences while in mortal sin does not pour out anything from himself; and therefore it is not required that he receive an influx from the font for his indulgences to be valid.  
 
@@ -346,7 +348,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fifth question we proceed thus.Parallel: *Quodl.* II, q. 8, a. 2. It seems that an indulgence would work for those abiding in mortal sin. For anyone can merit grace for another, even someone abiding in mortal sin, as well as many other goods. But indulgences have efficacy from the merits of the saints being applied to someone. Therefore, they have their effect among those who are in mortal sin.***
+Obj. 1: To the fifth question we proceed thus.Parallel: *Quodl.* II, q. 8, a. 2. It seems that an indulgence would work for those abiding in mortal sin. For anyone can merit grace for another, even someone abiding in mortal sin, as well as many other goods. But indulgences have efficacy from the merits of the saints being applied to someone. Therefore, they have their effect among those who are in mortal sin.  
 
 Obj. 2: Furthermore, where there is greater need, there is greater room for mercy. But someone who is in mortal sin needs it the most. Therefore, the greatest mercy should be shown to him by indulgences.  
 
@@ -354,7 +356,7 @@ On the contrary, dead members do not receive an influx from the other, living, m
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seeems that indulgences are not valid for those in religious life. For it is not fitting to supply those from whose superabundance others are supplied. But from the superabundance of works of satisfaction that are among religious, indulgences are supplied to others. Therefore, it is not appropriate for religious to be supplied by indulgences.***
+Obj. 1: Moreover, it seeems that indulgences are not valid for those in religious life. For it is not fitting to supply those from whose superabundance others are supplied. But from the superabundance of works of satisfaction that are among religious, indulgences are supplied to others. Therefore, it is not appropriate for religious to be supplied by indulgences.  
 
 Obj. 2: Furthermore, in the Church nothing should be done that would lead to the dissolution of religious life. But if indulgences could benefit religious, it would be an occasion for the dissolution of the discipline of the rule, for religious would spend all their time on indulgences like this and would neglect the penances imposed in their chapter. Therefore, they do not benefit religious.  
 
@@ -362,7 +364,7 @@ On the contrary, no one suffers a loss from something good. But religious life i
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that a person who does not do what the indulgence is given for could sometimes be given an indulgence. For when someone cannot do a deed, the will to do it is counted in its place. But sometimes indulgences are granted to those who give a certain amount in alms, which some poor man cannot do, and yet he would gladly do it. Therefore, the indulgence is valid for him.***
+Obj. 1: Moreover, it seems that a person who does not do what the indulgence is given for could sometimes be given an indulgence. For when someone cannot do a deed, the will to do it is counted in its place. But sometimes indulgences are granted to those who give a certain amount in alms, which some poor man cannot do, and yet he would gladly do it. Therefore, the indulgence is valid for him.  
 
 Obj. 2: Furthermore, one person can make satisfaction for another. But an indulgence works toward the remission of punishment, just as satisfaction does. Therefore, one person can receive an indulgence for another, and so the one obtains the indulgence who did not do what the indulgence is given for.  
 
@@ -370,7 +372,7 @@ On the contrary, when the cause is removed, the effect is removed. Therefore, if
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that an indulgence is not valid for the one who establishes it. For to establish indulgences belongs to jurisdiction. But no one can exercise over himself those things that belong to jurisdiction, as, for example, no one can excommunicate himself. Therefore, no one can be a partaker of an indulgence established by himself.***
+Obj. 1: Moreover, it seems that an indulgence is not valid for the one who establishes it. For to establish indulgences belongs to jurisdiction. But no one can exercise over himself those things that belong to jurisdiction, as, for example, no one can excommunicate himself. Therefore, no one can be a partaker of an indulgence established by himself.  
 
 Obj. 2: Furthermore, according to this, the one who establishes an indulgence could remit the punishment for all his own sins by some little tiny deed, and thus he could sin with impunity; which seems absurd.  
 
@@ -380,7 +382,7 @@ On the contrary, he would be in a worse condition than others if he could not en
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that some people say that indulgences are also valid for those abiding in mortal sin, not, of course, for the remission of their punishment, for no one can have his punishment forgiven unless his fault is already forgiven, for whoever has not obtained the forgiveness of sin by God’s working cannot obtain the remission of punishment by the ministry of the Church, whether in indulgences or in the penitential forum; yet it it is valid for them for acquiring grace. But this does not seem to be true. For although those merits that are shared through indulgences could work toward meriting grace, nevertheless they are not administered for this reason, but specifically for the remission of punishment. And therefore they are not valid for those still in mortal sin; and therefore in every indulgence mention is made of *those who are truly contrite and have confessed*. If, however, the sharing happened by this mode: *I become a partaker of the merits of the whole Church or of one community or of one specific person*, then it could be valid for meriting something for someone who is in mortal sin, as the previous opinion says.***
+To the first question, I answer that some people say that indulgences are also valid for those abiding in mortal sin, not, of course, for the remission of their punishment, for no one can have his punishment forgiven unless his fault is already forgiven, for whoever has not obtained the forgiveness of sin by God’s working cannot obtain the remission of punishment by the ministry of the Church, whether in indulgences or in the penitential forum; yet it it is valid for them for acquiring grace. But this does not seem to be true. For although those merits that are shared through indulgences could work toward meriting grace, nevertheless they are not administered for this reason, but specifically for the remission of punishment. And therefore they are not valid for those still in mortal sin; and therefore in every indulgence mention is made of *those who are truly contrite and have confessed*. If, however, the sharing happened by this mode: *I become a partaker of the merits of the whole Church or of one community or of one specific person*, then it could be valid for meriting something for someone who is in mortal sin, as the previous opinion says.  
 
 And by this the answer to the first objection is clear.  
 
@@ -388,7 +390,7 @@ Reply Obj. 2: Although someone in mortal sin needs it more, nevertheless he is l
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that indulgences work just as well for religious as for those in the world, as long as they are in charity and carry out those things that are appointed for the indulgence. For religious are not less able to be helped by the merits of others than those in the world.***
+To the second question, it should be said that indulgences work just as well for religious as for those in the world, as long as they are in charity and carry out those things that are appointed for the indulgence. For religious are not less able to be helped by the merits of others than those in the world.  
 
 Reply Obj. 1: Although someone in religious life is in a state of perfection, nevertheless he cannot live without sinning. And therefore if sometimes because of some sin committed he were liable to a certain punishment, he can be expiated from this by an indulgence. Nor is it unfitting, if a person who has a superabundance simply speaking should be needful at a certain time and in a certain respect. And so he needs the reinforcements by which he is supported, as it says in Galatians 6:2, *bear one another’s burdens*.  
 
@@ -396,7 +398,7 @@ Reply Obj. 2: Observance of the rule should not be slackened because of indulgen
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that one does not obtain what is given under a condition without fulfilling the condition. This is why, since an indulgence is given under the condition that someone do or give something, if he does not accomplish that, he does not obtain the indulgence.***
+To the third question, it should be said that one does not obtain what is given under a condition without fulfilling the condition. This is why, since an indulgence is given under the condition that someone do or give something, if he does not accomplish that, he does not obtain the indulgence.  
 
 Reply Obj. 1: This is understood as to the essential reward, but not as to accidental rewards, like the remission of punishment or things like that.  
 
@@ -404,7 +406,7 @@ Reply Obj. 2: Someone can apply his own work by his intention to anyone he wishe
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that an indulgence should be given for some cause so that a person may be provoked to a certain act by the indulgence, which would be directed to the Church’s benefit and the honor of God. Now a prelate, to whom the task of extending the Church’s benefit and increasing the divine honor has been committed, has no reason to provoke himself to this. And so he cannot establish an indulgence for himself alone, but he can make use of an indulgence that he has established for others, since his reason for establishing it is founded in others.***
+To the fourth question, it should be said that an indulgence should be given for some cause so that a person may be provoked to a certain act by the indulgence, which would be directed to the Church’s benefit and the honor of God. Now a prelate, to whom the task of extending the Church’s benefit and increasing the divine honor has been committed, has no reason to provoke himself to this. And so he cannot establish an indulgence for himself alone, but he can make use of an indulgence that he has established for others, since his reason for establishing it is founded in others.  
 
 Reply Obj. 1: A person cannot exercise an act of jurisdiction over himself, but a prelate can also make use of those things that are given by the authority of jurisdiction to others both in temporal matters and in spiritual ones; as a priest also takes for himself the Eucharist which he gives to others. And so a bishop can also receive the intercessions of the Church that he dispenses to others, whose immediate effect is the remission of punishment by indulgences and not of jurisdiction.  
 
@@ -414,7 +416,7 @@ Reply Obj. 3: Excommunication is uttered in the manner of a sentence, which no o
 
 Exposition of the Text  
 
-****Hold on to what is certain*.*Sententiae* IV, 20.1 (109). 2. He speaks about the certainty of a guess, not the certainty of knowledge; for *no one knows whether he is deserving of hate or love* (Eccl. 9:1).***
+*Hold on to what is certain*.*Sententiae* IV, 20.1 (109). 2. He speaks about the certainty of a guess, not the certainty of knowledge; for *no one knows whether he is deserving of hate or love* (Eccl. 9:1).  
 
 *Blotting out what one has committed requires freedom of will*,*Sent*. IV, 20.1 (109). 4. that is, free choice, so that, namely, a man does not abandon sin because he can no longer sin, but because he does not want to offend God, even if he were able. And this also happens sometimes among those who repent late in life, as was said.  
 

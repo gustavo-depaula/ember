@@ -1,8 +1,10 @@
 # D. 6 - Effects of the fall of the angels with regard to their nature
 
+***Effects of the fall of the angels with regard to their nature***
+
 ***Division of the text***
 
-***Having shown the separation of the wicked angels from the good by defection and conversion, here he begins to consider what follows for the averted and converted in keeping with what they have in common and where they differ. And it is divided into three parts.***
+Having shown the separation of the wicked angels from the good by defection and conversion, here he begins to consider what follows for the averted and converted in keeping with what they have in common and where they differ. And it is divided into three parts.  
 
 In the first, he examines what follows for them with regard to the condition of their nature.  
 
@@ -56,7 +58,7 @@ Article 1
 
 ***Whether Lucifer was the highest of all the angels***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.63.7; *SCG* III.109. It seems that Lucifer was not the highest of all.***
+To the first we proceed as follows.Parallel texts: *ST* I.63.7; *SCG* III.109. It seems that Lucifer was not the highest of all.  
 
 Obj. 1: For it is said to him: *you a cherub stretched out, and protecting* (Ezek 28:14).RSV reads *with an anointed guardian cherub I placed you*. But the order of Cherubim, according to DionysiusPseudo-Dionysius, *Celestial Hierarchy*, ch. 7 (PG 3:205). and Gregory,Gregory the Great, *Homilies on the Gospels*, bk. 2, homily 34 (CCSL 141; PL 76:1249). is not the highest order. Therefore, it seems that he did not belong to the highest order.  
 
@@ -86,7 +88,7 @@ Article 2
 
 ***Whether the sin of the first angel was the occasion for the others to sin***
 
-***To the second we proceed as follows.Parallel text: *ST* I.63.8. It seems that the sin of the first angel was not the occasion for the others to sin.***
+To the second we proceed as follows.Parallel text: *ST* I.63.8. It seems that the sin of the first angel was not the occasion for the others to sin.  
 
 Obj. 1: For what is deformed cannot move anything to imitate it by way of occasion. But as soon as the angel sinned, it was deformed. Therefore, it did not move others to imitate it.  
 
@@ -118,7 +120,7 @@ Article 3
 
 ***Whether it is fitting to assign a place to the angels after their fall***
 
-***To the third we proceed as follows.Parallel text: *ST* I.64.4. It seems unfitting to assign a place to the wicked angels after their fall.***
+To the third we proceed as follows.Parallel text: *ST* I.64.4. It seems unfitting to assign a place to the wicked angels after their fall.  
 
 Obj. 1: For to one who receives no impression from a place, every place is equally fitting. But the demons, since they are incorporeal substances, do not receive any local and bodily impressions, since they are neither illuminated by bodily light, nor do they get cold. Therefore, it seems that it is meaningless to say that one place is more due to them than another.  
 
@@ -158,7 +160,7 @@ Article 4
 
 ***Whether there is an order among the demons***
 
-***To the fourth we proceed as follows.Parallel texts: *In IV Sent*., d. 47, q. 1, a. 2, resp.; *ST* I.109.1; *Commentary on Ephesians*, ch. 6, lect. 3. It seems that there is not an order among the demons.***
+To the fourth we proceed as follows.Parallel texts: *In IV Sent*., d. 47, q. 1, a. 2, resp.; *ST* I.109.1; *Commentary on Ephesians*, ch. 6, lect. 3. It seems that there is not an order among the demons.  
 
 Obj. 1: For it is said (Job 10:21–22) that *there is no order in the land of wretchedness and darkness, but rather everlasting horror dwells there*. But the demons inhabit this land. Therefore, there is not an order among them.  
 
@@ -188,7 +190,7 @@ Article 5
 
 ***Whether the demons who are overcome by the saints are thrust down to hell***
 
-***To the first we proceed as follows. It seems that the demons who are overcome by the saints are not thrust down again into hell.***
+To the first we proceed as follows. It seems that the demons who are overcome by the saints are not thrust down again into hell.  
 
 Obj. 1: For to inflict a punishment on one who loses in a fight is to incite him to fight all the more bitterly. But this does not fit with God’s mercy. Therefore, and so on.  
 
@@ -214,7 +216,7 @@ Reply Obj. 4: Their evil is always ordered by way of punishment, which they both
 
 Exposition of the text  
 
-****‘A dragon,’* falling from heaven*, ‘dragged down with him a third part of the stars*.’*Sent*. II, 6.2(27).1, quoting Revelation 12:3–4. The “dragon” is understood as Lucifer himself. The “tail” is understood as the persuasion by which he expressed his desire to the others. The “stars,” are understood as the angels shining with natural light, of whom a third are said to have fallen, with regard not to number, but to quality. Those who remained are the ones who cling to God by attending and ministering, while the others fell through defection.***
+*‘A dragon,’* falling from heaven*, ‘dragged down with him a third part of the stars*.’*Sent*. II, 6.2(27).1, quoting Revelation 12:3–4. The “dragon” is understood as Lucifer himself. The “tail” is understood as the persuasion by which he expressed his desire to the others. The “stars,” are understood as the angels shining with natural light, of whom a third are said to have fallen, with regard not to number, but to quality. Those who remained are the ones who cling to God by attending and ministering, while the others fell through defection.  
 
 *‘Against the princes and powers of this world*.’*Sent*. II, 6.2(27).2, quoting Ephesians 6:12. It should be known that even though it is probable that some fell from each order, the demons are not named after those orders whose names are taken from the gifts of sanctifying grace, as, for example, the seraphim are named after the burning fire of charity and thrones after the divine indwelling. Rather, they are named after the others whose names are taken from the graces freely given, which pertain to knowledge and power.  
 

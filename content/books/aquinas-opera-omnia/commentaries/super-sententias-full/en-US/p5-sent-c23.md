@@ -1,8 +1,10 @@
 # D. 22 - What follows from the death of Christ
 
+***What follows from the death of Christ***
+
 ***Division of the text***
 
-***Having considered the things that pertain to Christ’s death, that is, according to what notion he is said to have died, here the Master considers the things that follow upon Christ’s death. It is divided into two parts:***
+Having considered the things that pertain to Christ’s death, that is, according to what notion he is said to have died, here the Master considers the things that follow upon Christ’s death. It is divided into two parts:  
 
 in the first, he considers Christ’s death through its relation to his humanity absolutely;  
 
@@ -48,9 +50,9 @@ second, whether the man was everywhere at that point—or even before this, or e
 
 Article 1  
 
-***Whether Christ could be called a man during the three days in which he lay in the tomb***
+Whether Christ could be called a man during the three days in which he lay in the tomb  
 
-***To the first we proceed as follows.Parallels: *ST* III.50.4; *Quodl.* II, q. 1, a. 1; III, q. 2, q. 2; *Compendium theol*., ch. 229. It appears that Christ was a man during the three days.***
+To the first we proceed as follows.Parallels: *ST* III.50.4; *Quodl.* II, q. 1, a. 1; III, q. 2, q. 2; *Compendium theol*., ch. 229. It appears that Christ was a man during the three days.  
 
 Obj. 1: For “rational” is the difference that completes man. But Christ could be said to be rational during the three days, since the rational soul was united to him. Therefore he could be called a “man.”  
 
@@ -98,7 +100,7 @@ Article 2
 
 ***Whether Christ the man was everywhere***
 
-***To the second we proceed as follows. It appears that Christ the man was everywhere.***
+To the second we proceed as follows. It appears that Christ the man was everywhere.  
 
 Obj. 1: For according to Damascene,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 3 (PG 94:994). the natures share their properties with each other. But Christ is everywhere God. Therefore he is everywhere a man.  
 
@@ -136,7 +138,7 @@ Question 2
 
 ***Christ's descent into hell***
 
-***Next, it is asked about Christ’s descent into hell; and regarding this, two things are asked:***
+Next, it is asked about Christ’s descent into hell; and regarding this, two things are asked:  
 
 first, about Christ’s descent into hell;  
 
@@ -148,7 +150,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows.Parallels: *ST* III.52.1; *Compendium theol.*, ch. 235; *In Symbolorum Apostolorum,* a. 5. It appears that Christ should not have descended into hell.***
+To the first we proceed as follows.Parallels: *ST* III.52.1; *Compendium theol.*, ch. 235; *In Symbolorum Apostolorum,* a. 5. It appears that Christ should not have descended into hell.  
 
 Obj. 1: For, as Augustine says in *To Dardanus*,Augustine, *Epistulae*, epist. 187: Ad Dardanum, para. 2 (CSEL 57:84; PL 33:834). the name “hell” in scripture always is taken as a bad thing. But that which is always taken as bad does not befit Christ. Therefore neither should he descend to hell.  
 
@@ -162,7 +164,7 @@ Furthermore, Acts 2:24 says, *God raised him up, having loosed the pangs of hell
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he descended all the way to the hell of the damned.Parallel: *ST* III.52.2. For by his death he freed the human race not only from original sin, but also from actual sin. But the hell of the damned is the place of punishment corresponding to actual sin, just as the limbo of the patriarchs the one owed to original sin. Therefore it appears that he should have descended even to that hell, just as he descended to limbo.***
+Obj. 1: Moreover, it appears that he descended all the way to the hell of the damned.Parallel: *ST* III.52.2. For by his death he freed the human race not only from original sin, but also from actual sin. But the hell of the damned is the place of punishment corresponding to actual sin, just as the limbo of the patriarchs the one owed to original sin. Therefore it appears that he should have descended even to that hell, just as he descended to limbo.  
 
 Obj. 2: Furthermore, Christ’s Ascension corresponds to his descent, since *he who descended is he who also ascended* (Eph 4:10). But he ascended about all the heavens. Therefore he ought to have descended even as far as the lower hell.  
 
@@ -174,7 +176,7 @@ Furthermore, just as the empyrean heaven is the place of eternal glory, so too h
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that he should not have spent a period of time in limbo.Parallel: *ST* III.52.4. For he descended to hell so that he might free the saints who were detained there. But immediately upon his descending there the saints were freed. Therefore it appears that he should not have spent any space of time there.***
+Obj. 1: Moreover, it appears that he should not have spent a period of time in limbo.Parallel: *ST* III.52.4. For he descended to hell so that he might free the saints who were detained there. But immediately upon his descending there the saints were freed. Therefore it appears that he should not have spent any space of time there.  
 
 Obj. 2: Furthermore, just as someone is excluded from heaven due to sin, so too one is freed from hell through his cleansing from sin. But the devil, who sinned immediately, fell from heaven. Therefore it appears that the saints, insofar as they were immediately cleansed from sin, were led forth from hell, and thus so too Christ immediately departed.  
 
@@ -186,7 +188,7 @@ Furthermore, the place of a separated soul is hell or heaven. But Christ’s sou
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that Christ, so that he might free us from all defects, wished to receive into himself the defects that were universally present in all of us and did not indicate a lack of grace. Now, it was common to all men before Christ’s Passion that they were descending into hell because of the debt of original sin. But in the name “hell” two things are indicated: namely, the place and the penalty—either that of loss or that of the senses, that is, the punishment of torment. Now, the punishment of loss—that is, the lack of the divine vision—indicates a lack of grace, because consummated grace—that is, glory—could not be in those [who lack this vision]. Likewise, the punishment of the senses does not make satisfaction after this life, because those [who experience it] are not in the state of meriting; rather, it is either a purification or a damnation. But purification is owed for some impurity, and damnation is owed for mortal sin, so the punishment of the senses also after this life indicate a lack of grace. And therefore it was fitting that Christ descend into hell insofar as “hell” indicates a place, but not insofar as it imports a penalty.***
+To the first question, I answer that Christ, so that he might free us from all defects, wished to receive into himself the defects that were universally present in all of us and did not indicate a lack of grace. Now, it was common to all men before Christ’s Passion that they were descending into hell because of the debt of original sin. But in the name “hell” two things are indicated: namely, the place and the penalty—either that of loss or that of the senses, that is, the punishment of torment. Now, the punishment of loss—that is, the lack of the divine vision—indicates a lack of grace, because consummated grace—that is, glory—could not be in those [who lack this vision]. Likewise, the punishment of the senses does not make satisfaction after this life, because those [who experience it] are not in the state of meriting; rather, it is either a purification or a damnation. But purification is owed for some impurity, and damnation is owed for mortal sin, so the punishment of the senses also after this life indicate a lack of grace. And therefore it was fitting that Christ descend into hell insofar as “hell” indicates a place, but not insofar as it imports a penalty.  
 
 Reply Obj. 1: The name “hell,” insofar as it indicates a place, does not express only something bad, and in this way it can befit Christ. However, insofar as it indicates the penalty of loss or of the senses, in this way it cannot befit Christ, since then it expresses also the evil of fault. Or it should be said that “descending into hell” expresses something bad as meaning falling under the power of infernal things, but “descending into hell” expresses the greatest dignity if it occurs for the sake of despoiling it after the manner of its lord; and it befits Christ in this latter way.  
 
@@ -196,7 +198,7 @@ Reply Obj. 3: Christ is not said to have descended into hell insofar as the name
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that hell has four parts. One is the hell of the damned, in which there is darkness—both with respect to the lack of the divine vision and with respect to the lack of charity—and there is also a sensible punishment there; and this hell is the place of the damned. Another is the hell above this one, in which there is darkness—both on account of the lack of the divine vision and on account of the lack of grace—but there is no sensible punishment there; and this is called the limbo of the children. There is another above this, in which there is the darkness as regards the lack of the divine vision, but not as regards the lack of grace, but there is a punishment of the senses there; this is called “purgatory.” And there is another yet above this, in which there is the darkness as regards the lack of the divine vision, but not as regards the lack of grace, nor is there a sensible punishment; and this is the hell of the holy patriarchs. And Christ descended into this one only, as regards place, but not as regards the experience of darkness.***
+To the second question, it should be said that hell has four parts. One is the hell of the damned, in which there is darkness—both with respect to the lack of the divine vision and with respect to the lack of charity—and there is also a sensible punishment there; and this hell is the place of the damned. Another is the hell above this one, in which there is darkness—both on account of the lack of the divine vision and on account of the lack of grace—but there is no sensible punishment there; and this is called the limbo of the children. There is another above this, in which there is the darkness as regards the lack of the divine vision, but not as regards the lack of grace, but there is a punishment of the senses there; this is called “purgatory.” And there is another yet above this, in which there is the darkness as regards the lack of the divine vision, but not as regards the lack of grace, nor is there a sensible punishment; and this is the hell of the holy patriarchs. And Christ descended into this one only, as regards place, but not as regards the experience of darkness.  
 
 Reply Obj. 1: By his Passion Christ freed from mortal sin those who are on the path, either so that they might not commit it, or so that they might be absolved for what they have committed, if they wish it. However, he did not free those who already had descended with their mortal sin, to whom that hell of the damned is owed.  
 
@@ -206,7 +208,7 @@ Reply Obj. 3: The places wherein the holy patriarchs were are also called the �
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that, since the soul and the body are proportionate, his soul should be in hell just as his body should be in the grave, so that thereby he might become like his brothers in both respects—and also so that in his Resurrection a new life might begin, both as regards the liberation of souls and as regards the resurrection of bodies, being begun in his own body.***
+To the third question, it should be said that, since the soul and the body are proportionate, his soul should be in hell just as his body should be in the grave, so that thereby he might become like his brothers in both respects—and also so that in his Resurrection a new life might begin, both as regards the liberation of souls and as regards the resurrection of bodies, being begun in his own body.  
 
 Reply Obj. 1: Christ wished to free us while bearing in himself our defects. And therefore as long as he was dead he wished to be in hell as regards his soul, just as he wished to be in the tomb as regards his body.  
 
@@ -220,7 +222,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* III.52.5; *Compendium theol.,* ch. 235; *In Symbolorum Apostolorum,* a. 5; *Super Ephes*. 4, lect. 3. It appears that Christ did not illuminate the limbo of the patriarchs.***
+To the second we proceed as follows.Parallels: *ST* III.52.5; *Compendium theol.,* ch. 235; *In Symbolorum Apostolorum,* a. 5; *Super Ephes*. 4, lect. 3. It appears that Christ did not illuminate the limbo of the patriarchs.  
 
 Obj. 1: For it is of the notion of hell that it appear dark, just as light is of the notion of paradise. Therefore being illuminated does not befit hell.  
 
@@ -234,7 +236,7 @@ Furthermore, Ambrose says, *he poured forth the light of eternal life in hell*.A
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that Christ drew souls out even from the hell of the damned.Parallels: *ST* III.52.7; *In Symbolorum Apostolorum*, a. 5. For he himself said, *thou hast delivered my soul from the depths of Sheol* (Ps 86:13), and Job 17:16 says, *my bones will descend into the deepest hell*.RSV here has “will it go down to the bars of Sheol?” But the depths of hell into which Job descended, and from which he was led forth, was certainly the lower hell, and the lower hell is the hell of the damned. Therefore he led souls forth from the hell of the damned.***
+Obj. 1: Moreover, it appears that Christ drew souls out even from the hell of the damned.Parallels: *ST* III.52.7; *In Symbolorum Apostolorum*, a. 5. For he himself said, *thou hast delivered my soul from the depths of Sheol* (Ps 86:13), and Job 17:16 says, *my bones will descend into the deepest hell*.RSV here has “will it go down to the bars of Sheol?” But the depths of hell into which Job descended, and from which he was led forth, was certainly the lower hell, and the lower hell is the hell of the damned. Therefore he led souls forth from the hell of the damned.  
 
 Obj. 2: Furthermore, *as for you also, because of the blood of my covenant with you, I will set your captives free from the waterless pit* (Zech 9:11), and a Gloss says, *you have set free those who were held captive in prison, where no mercy refreshed them, for which the rich man pleaded*.Jerome, *Commentarii in prophetas minores,* bk. 2, *In Zechariam*, ch. 9 (CCSL 76A; PL 25:1485). But such were damned in hell. Therefore they too were freed.  
 
@@ -248,7 +250,7 @@ Furthermore, in hell there is no redemption. Therefore no one was freed from the
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that he freed those who were in the limbo of the children. For they were detained only for original sin, as were the holy patriarchs. But the latter were led forth. Therefore so were the children.***
+Obj. 1: Moreover, it appears that he freed those who were in the limbo of the children. For they were detained only for original sin, as were the holy patriarchs. But the latter were led forth. Therefore so were the children.  
 
 Obj. 2: Furthermore, in them there was only the sin of another. Therefore they should have been freed by another.  
 
@@ -260,7 +262,7 @@ Furthermore, after this life grace is given only to one who has grace. But the c
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it appears that he freed those who were in purgatory.Parallel: *ST* III.52.8. For the impediment of original sin was greater than that of venial sin. But he liberated those who were in limbo from the impediment of original sin. Therefore much more so did he liberate those with the impediment of venial sin, and thus it appears that he led souls forth from purgatory.***
+Obj. 1: Moreover, it appears that he freed those who were in purgatory.Parallel: *ST* III.52.8. For the impediment of original sin was greater than that of venial sin. But he liberated those who were in limbo from the impediment of original sin. Therefore much more so did he liberate those with the impediment of venial sin, and thus it appears that he led souls forth from purgatory.  
 
 Obj. 2: Furthermore, Christ’s Passion does not have less efficacy than does the sacrament of the Passion. But through the sacrament of Christ’s Passion, that is, baptism, someone is freed from every penalty that is owed in purgatory. Therefore it appears that much more fully did Christ free through his Passion those who were there.  
 
@@ -272,7 +274,7 @@ Furthermore (5), one ought to suffer through himself the purification for a sin 
 
 Response to Quaestiuncula 1  
 
-***I answer that, the exterior darkness of hell corresponds to an interior darkness. Due to this Christ, through the demonstration of his Godhead, expelled every interior darkness from the patriarchs who were in limbo. Therefore it was fitting that even through the presence of his humanity, as regards his soul, he also would exclude from them the exterior darkness by illuminating the place of hell.***
+I answer that, the exterior darkness of hell corresponds to an interior darkness. Due to this Christ, through the demonstration of his Godhead, expelled every interior darkness from the patriarchs who were in limbo. Therefore it was fitting that even through the presence of his humanity, as regards his soul, he also would exclude from them the exterior darkness by illuminating the place of hell.  
 
 Reply Obj. 1: This hell should now be empty, since after that time no one descends to that limbo. And therefore it was becoming that there be something in it that is against the notion of hell.  
 
@@ -282,7 +284,7 @@ Reply Obj. 3: He led them from darkness when he illuminated them, and leading th
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a punishment cannot be taken away while the fault remains. Now, those who are damned in hell are obstinate in their malice, like the demons, and therefore they were not able to be freed from their punishment. And this was not due to an insufficiency of the one causing the freedom, but to their indisposition.***
+To the second question, it should be said that a punishment cannot be taken away while the fault remains. Now, those who are damned in hell are obstinate in their malice, like the demons, and therefore they were not able to be freed from their punishment. And this was not due to an insufficiency of the one causing the freedom, but to their indisposition.  
 
 Reply Obj. 1: The limbo of the patriarchs is called the “lower hell” not simply speaking, but in reference to the abode from which David’s soul and even that of Christ were led forth. So too that place can be called the “deepest hell” comparatively, such that it is deep in relation to the fiery air of the heavens, in which are the demons, and the place where we abide now is deeper, but the limbo of the patriarchs, from which Job was freed, was the deepest.  
 
@@ -294,7 +296,7 @@ Reply Obj. 4: This is speaking of the visitation that will occur in the general 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that Christ’s redemption had place only in those who were Christ’s members. Whence, since the children who were in limbo were never members of Christ, either through their own faith or through the sacrament of faith, which now is baptism but then was circumcision or sacrifice, it is certain that they were not freed.***
+To the third question, it should be said that Christ’s redemption had place only in those who were Christ’s members. Whence, since the children who were in limbo were never members of Christ, either through their own faith or through the sacrament of faith, which now is baptism but then was circumcision or sacrifice, it is certain that they were not freed.  
 
 Reply Obj. 1: Unlike with the children, there was grace in the patriarchs, through which they were members of Christ. And therefore they partook of the effect of his redemption, but this was not so for the children.  
 
@@ -304,7 +306,7 @@ Reply Obj. 3: Although as regards the genus of the sin their sin could be propit
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that, although this is not found to have been determined by the saints, still it can be said that those who were in purgatory were not freed. For because the punishment of purgatory is owed to actual sin, it must be expiated through the proper acts or suffering of the one who sinned, or that of another specific person acting on their behalf. Now, in purgatory a fault cannot be expiated through any meritorious act, since these souls are not in the state of meriting. Whence, their fault must be expiated through a punishment that they themselves endure, unless they be freed through the suffrage of those who are in the state of meriting. Now, Christ’s Passion immediately removes the impediment arising from original sin, which was contracted from another. But its efficacy extends to removing the punishment owed to an actual sin that someone has committed of himself, by the mediation of a sacrament offered for the person or by some act of that person, or that of another related to that person. And therefore it was not becoming that they be freed from purgatory through Christ’s Passion alone—unless it is said that in their life they merited that they be freed through Christ’s Passion. Or it was from a special grace that those who were found in purgatory were absolved through Christ’s Passion, although now those who are in purgatory do not attain the effect of full liberation from Christ’s Passion alone.***
+To the fourth question, it should be said that, although this is not found to have been determined by the saints, still it can be said that those who were in purgatory were not freed. For because the punishment of purgatory is owed to actual sin, it must be expiated through the proper acts or suffering of the one who sinned, or that of another specific person acting on their behalf. Now, in purgatory a fault cannot be expiated through any meritorious act, since these souls are not in the state of meriting. Whence, their fault must be expiated through a punishment that they themselves endure, unless they be freed through the suffrage of those who are in the state of meriting. Now, Christ’s Passion immediately removes the impediment arising from original sin, which was contracted from another. But its efficacy extends to removing the punishment owed to an actual sin that someone has committed of himself, by the mediation of a sacrament offered for the person or by some act of that person, or that of another related to that person. And therefore it was not becoming that they be freed from purgatory through Christ’s Passion alone—unless it is said that in their life they merited that they be freed through Christ’s Passion. Or it was from a special grace that those who were found in purgatory were absolved through Christ’s Passion, although now those who are in purgatory do not attain the effect of full liberation from Christ’s Passion alone.  
 
 Reply Obj. 1: Although the impediment of original sin is more grave, still it can be totally destroyed by another, which is not the case for the impediment of venial sin, for the stated reason.  
 
@@ -318,7 +320,7 @@ Question 3
 
 ***Christ's Ascension***
 
-***Next, one asks about Christ’s Ascension, and regarding this three things are asked:***
+Next, one asks about Christ’s Ascension, and regarding this three things are asked:  
 
 first, whether Christ ascended;  
 
@@ -330,7 +332,7 @@ Article 1
 
 ***Whether Christ should have ascended***
 
-***To the first we proceed as follows.Parallels: *ST* III.57.1; *Compendium theol*., ch. 240; *In Symbolorum Apostolorum,* a. 6. It appears that Christ did not ascend.***
+To the first we proceed as follows.Parallels: *ST* III.57.1; *Compendium theol*., ch. 240; *In Symbolorum Apostolorum,* a. 6. It appears that Christ did not ascend.  
 
 Obj. 1: For every motion, since it is a going forth from potency to act, is the act of the imperfect, and happens on account of a need. But ascension is a motion. Therefore, since there was no imperfection or need in Christ, who had already been wholly glorified through his Resurrection, it appears that he did not ascend.  
 
@@ -366,7 +368,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* III.57.3; *Compendium theol.,* ch. 240. It appears that the motion of the Ascension was violent.***
+To the second we proceed as follows.Parallels: *ST* III.57.3; *Compendium theol.,* ch. 240. It appears that the motion of the Ascension was violent.  
 
 Obj. 1: For Acts 1:9 says, *he was lifted up*.The verse as St. Thomas gives it—literally, he was carried by hand into heaven"—does not correspond to the Vulgate as we have it now; the quotation we have given in its place comes the closest in the sense to the relevant sense of being "carried." Also see 1:11: *This Jesus, who has been taken up from you into heaven, . .* . The Moos edition points out that the phrase *ferebatur in caelum* is found in Luke 24:51.  But being carried, as is said in the *Physics* 7,Aristotle, *Physics* 7.2, 243a10; Aquinas, *In Physic.*, bk. 7, lect. 3, nn. 2–4. is a species of violent motion. So his Ascension was a violent motion.  
 
@@ -382,7 +384,7 @@ Furthermore, no violent motion is done through the mobile’s own power. But Chr
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the motion of ascent was not sudden. For Augustine says, among the questions about the resurrection,Augustine, *Epistulae*, epist. 102, para. 6 (CCSL 31B:11; PL 33:372). that the motions of glorified bodies are as the motion of the rays of the sun. But the motion of a ray is instantaneous. Therefore so too was the motion of Christ’s glorified body.***
+Obj. 1: Moreover, it appears that the motion of ascent was not sudden. For Augustine says, among the questions about the resurrection,Augustine, *Epistulae*, epist. 102, para. 6 (CCSL 31B:11; PL 33:372). that the motions of glorified bodies are as the motion of the rays of the sun. But the motion of a ray is instantaneous. Therefore so too was the motion of Christ’s glorified body.  
 
 Obj. 2: Christ’s glorified body was wholly subject to his spirit’s will. But the will can move instantaneously from place to place. Therefore so too could Christ’s glorified body.  
 
@@ -394,7 +396,7 @@ Furthermore, a sudden motion cannot be perceived. But the apostles saw Christ’
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that he should have ascended immediately after his Resurrection.Parallels: *ST* III.57.1.ad 4. For his Ascension was the exemplar for that of the other saints. But the other saints are going to ascend after the resurrection of their bodies. Therefore so should Christ.***
+Obj. 1: Moreover, it appears that he should have ascended immediately after his Resurrection.Parallels: *ST* III.57.1.ad 4. For his Ascension was the exemplar for that of the other saints. But the other saints are going to ascend after the resurrection of their bodies. Therefore so should Christ.  
 
 Obj. 2: Furthermore, just as he ought to prove the truth of his Resurrection, so he ought to prove the truth of his death. But in order to prove the truth of his death, he deferred his Resurrection until the third day. Therefore likewise he should have ascended on the third day after the Resurrection.  
 
@@ -406,7 +408,7 @@ Furthermore, the divine consolations exceed human tribulation. But the apostles 
 
 Response to Quaestiuncula 1  
 
-***I answer that a motion is called “natural” whose principle is the thing’s nature. Now, “nature” is said in two ways: namely, of the form, which is the active principle of the motion, and of the matter, which is its passive principle. Therefore in virtue of this a motion called “natural” in two ways: in one way, because the active principle of the motion is within what is moving, and in this way heavy and light bodies move naturally, and in another way, because there is a natural disposition within what is moving, through which disposition the thing is mobile due to another moving it. And this latter happens in two ways. It happens either because there is in it an aptitude to being moved by that mover along with an inclination to a contrary motion, as is the case in an animal’s body; and then this motion is called “violent” as regards the nature of the body as body, but “natural” as regards the nature of the body as animate, as the Philosopher says.Aristotle, *Physics* 8.4, 254b18; Aquinas, *In Physic.*, bk. 8, lect. 7, n. 3. Or there is no aptitude inclining to the contrary, as is the case in the motion of the celestial bodies, which are moved by a separated substance and yet are said to be moved “naturally,” as the Commentator says in *On the Heavens* 1.Averroes, *Commentary on On the Heavens and the Earth*, bk. 1, text. 89. In this latter way, the motion of Christ’s Ascension was natural, since, because the glorified body is wholly subject to the soul, there cannot be any inclination to the contrary of what the soul wills. Whence any inclination of heaviness or levity in it repugnant to the will is removed, just as the inclination of hot of cold toward mutual corruption.***
+I answer that a motion is called “natural” whose principle is the thing’s nature. Now, “nature” is said in two ways: namely, of the form, which is the active principle of the motion, and of the matter, which is its passive principle. Therefore in virtue of this a motion called “natural” in two ways: in one way, because the active principle of the motion is within what is moving, and in this way heavy and light bodies move naturally, and in another way, because there is a natural disposition within what is moving, through which disposition the thing is mobile due to another moving it. And this latter happens in two ways. It happens either because there is in it an aptitude to being moved by that mover along with an inclination to a contrary motion, as is the case in an animal’s body; and then this motion is called “violent” as regards the nature of the body as body, but “natural” as regards the nature of the body as animate, as the Philosopher says.Aristotle, *Physics* 8.4, 254b18; Aquinas, *In Physic.*, bk. 8, lect. 7, n. 3. Or there is no aptitude inclining to the contrary, as is the case in the motion of the celestial bodies, which are moved by a separated substance and yet are said to be moved “naturally,” as the Commentator says in *On the Heavens* 1.Averroes, *Commentary on On the Heavens and the Earth*, bk. 1, text. 89. In this latter way, the motion of Christ’s Ascension was natural, since, because the glorified body is wholly subject to the soul, there cannot be any inclination to the contrary of what the soul wills. Whence any inclination of heaviness or levity in it repugnant to the will is removed, just as the inclination of hot of cold toward mutual corruption.  
 
 However, some say that it was also a natural motion from the fact that the active principle was in the nature of his body, as happens in the motion of heavy and light things, for in a glorified body the nature of the empyrean heaven reigns, which body belongs to the composition of the human body. But this is impossible. For if something of the empyrean heaven were part of our body, it would have to be mixed with the elements—otherwise it would be distinct from them and would not be a part of [the body], as it would be one only by aggregation. Furthermore, if it were a part, it would not incline to motion in a straight line, but toward none at all. For it is of the nature of the empyrean heaven to move only with circular motion, which is natural to the fifth essence.  
 
@@ -420,7 +422,7 @@ Reply Obj. 4: That place is foreign to flesh insofar as it is flesh, but not ins
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the opinion that is easier to sustain is that at the Ascension Christ’s body moved over a perceptible time by his own will, but it was able to move in an imperceptible time—though not in an instant. For in its Ascension Christ’s body must traverse what is in between, since through its substance it would have been determined to place, and it is impossible that it be in diverse places simultaneously. And thus, it was necessary that he be in diverse intermediate places in diverse instants, and thus that that motion had to be successive.***
+To the second question, it should be said that the opinion that is easier to sustain is that at the Ascension Christ’s body moved over a perceptible time by his own will, but it was able to move in an imperceptible time—though not in an instant. For in its Ascension Christ’s body must traverse what is in between, since through its substance it would have been determined to place, and it is impossible that it be in diverse places simultaneously. And thus, it was necessary that he be in diverse intermediate places in diverse instants, and thus that that motion had to be successive.  
 
 Reply Obj. 1: The likeness is being considered here in reference to its perceivability, not in reference to the genus of the motion. For the motion of rays is not a motion of alteration, as is said in *On Sense and the Sensed*.Aristotle, *On Sense and the Sensible* 6, 446b27; Aquinas, *Sent. De sensu*, lect. 16, nn. 240–41. This is why it can be sudden. However, the motion of glorified bodies is a local motion, and therefore it must be successive.  
 
@@ -430,7 +432,7 @@ Reply Obj. 3: That argument follows for a power moving a thing out of a necessit
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the things done surrounding Christ were accomplished in dispensations for the sake of some benefit. And therefore to show the truth of his Resurrection it was necessary that he not ascend immediately after his Resurrection, but instead he conversed with the apostles for a period, so that every doubt might be destroyed by their extensive familiarity with him. For if he were to have appeared to them only once, it could have seemed to them that it was just an illusion, so instead he appeared to them many times during those forty days. The Ascension was delayed also for the consolation of the apostles, who were so grieved over his death; this is why the Gloss on Acts 1 says that just as there were forty hours of the death of Christ, so there were forty days in which he conversed with them after the Resurrection.*Glossa ordinaria*, at Acts 1:3, 6.969 (PL 114:426). For the divine consolation exceeds human grief.***
+To the third question, it should be said that the things done surrounding Christ were accomplished in dispensations for the sake of some benefit. And therefore to show the truth of his Resurrection it was necessary that he not ascend immediately after his Resurrection, but instead he conversed with the apostles for a period, so that every doubt might be destroyed by their extensive familiarity with him. For if he were to have appeared to them only once, it could have seemed to them that it was just an illusion, so instead he appeared to them many times during those forty days. The Ascension was delayed also for the consolation of the apostles, who were so grieved over his death; this is why the Gloss on Acts 1 says that just as there were forty hours of the death of Christ, so there were forty days in which he conversed with them after the Resurrection.*Glossa ordinaria*, at Acts 1:3, 6.969 (PL 114:426). For the divine consolation exceeds human grief.  
 
 Reply Obj. 1: It will not be necessary to prove the resurrection of the other saints, since it will be manifest to all. Therefore it is not necessary that it be deferred.  
 
@@ -444,7 +446,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed as follows.Parallels: above, q. 2, a. 1, resp. 2, ad 2; *ST* III.57.4; *SCG* IV.87. It appears that Christ did not ascend above all the heavens.***
+To the third we proceed as follows.Parallels: above, q. 2, a. 1, resp. 2, ad 2; *ST* III.57.4; *SCG* IV.87. It appears that Christ did not ascend above all the heavens.  
 
 Obj. 1: For Christ’s body is necessarily in a place. But according to the Philosopher in *On the Heavens*,Aristotle, *On the Heavens* 1.9, 279a9; Aquinas, *De Caelo*, bk. 1, lect. 21, n. 1. there is no place outside all the heavens. Therefore he could not have ascended above all the heavens.  
 
@@ -456,7 +458,7 @@ On the contrary, he was *exalted above the heavens* (Heb 7:26), and moreover, *h
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he did not ascend to the right hand of the Father.Parallels: *ST* III.58.1–3; *Compendium theol*., cc. 240, 246; *In Symbolorum Apostolorum*, a. 6; *Super Eph*. 1, lect. 7; *Super Heb*. 1, lect. 2, 6; 8, lect. 1; 10, lect. 1. For right and left are differences of site or position. But God has no position, since he is most spiritual. Therefore he has no right or left.***
+Obj. 1: Moreover, it appears that he did not ascend to the right hand of the Father.Parallels: *ST* III.58.1–3; *Compendium theol*., cc. 240, 246; *In Symbolorum Apostolorum*, a. 6; *Super Eph*. 1, lect. 7; *Super Heb*. 1, lect. 2, 6; 8, lect. 1; 10, lect. 1. For right and left are differences of site or position. But God has no position, since he is most spiritual. Therefore he has no right or left.  
 
 Obj. 2: Furthermore, the Son is said to be metaphorically at the right of the Father, as the Psalter says, *your hand shatters your enemies*.This may be a psalter by Gregory the Great; but see also Exod 16:6. But this preposition “at” denotes distinction, since prepositions are transitive. Therefore, since the Son is not distinguished from himself, it appears that to sit at the right of the Father does not befit him.  
 
@@ -470,7 +472,7 @@ Furthermore, in the Creed it is said, *he ascended into heaven, and sits at the 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that it does not belong to Christ alone to sit at the right hand of the Father.Parallel: *ST* III.58.4. For according to Ephesians 2:6, he *made us sit with him in the heavenly places in Christ Jesus*. Therefore if Christ sits at the right hand, he also makes us sit at the right hand.***
+Obj. 1: Moreover, it appears that it does not belong to Christ alone to sit at the right hand of the Father.Parallel: *ST* III.58.4. For according to Ephesians 2:6, he *made us sit with him in the heavenly places in Christ Jesus*. Therefore if Christ sits at the right hand, he also makes us sit at the right hand.  
 
 Obj. 2: Furthermore, [the Father] *made him sit at his right hand* (Eph 1:20), and the Gloss says, *that is, in eternal beatitude*.*Glossa ordinaria*, at Ephesians 1:20, 6.532 (PL 114:590). But eternal beatitude is communicated to all the saints. Therefore it befits all the saints to sit at his right hand, not only to Christ.  
 
@@ -484,7 +486,7 @@ Furthermore, equality is in the Son by appropriation, as Augustine says.Augustin
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the terminus of Christ’s Ascension is both a place and a dignity, though not a dignity that he at that time newly acquired, but one that he at that time made known. Now, insofar as the terminus is a place, thereby he is exalted up to the highest of bodily places. This does not mean that he could not depart from there; rather, the most elevated place is owed to him as befitting him, wherever he might be, but he was actually exalted then to that [place] owed to him in congruence.***
+To the first question, I answer that the terminus of Christ’s Ascension is both a place and a dignity, though not a dignity that he at that time newly acquired, but one that he at that time made known. Now, insofar as the terminus is a place, thereby he is exalted up to the highest of bodily places. This does not mean that he could not depart from there; rather, the most elevated place is owed to him as befitting him, wherever he might be, but he was actually exalted then to that [place] owed to him in congruence.  
 
 Reply Obj. 1: He is not said to have ascended above the heavens because he is beyond the empyrean heaven, but because he ascended into the most elevated part of the empyrean heaven.  
 
@@ -494,7 +496,7 @@ Reply Obj. 3: Although a bodily nature is beneath the nature of spirit, still th
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the right side is the nobler part of the body, so one who sits to the right of another is joined to him in a nobler way. Now, the noblest way that someone can be joined to the Father is either noblest simply speaking—and thus he is equal to him, and this belongs to the Son in virtue of his divine nature—or it is the noblest that is possible for a created thing—and this is to be joined to him in the union of the person of his Son, and thus to sit at the right hand belongs to Christ in virtue of his human nature. For the “sitting” signifies the firmness of this union.***
+To the second question, it should be said that the right side is the nobler part of the body, so one who sits to the right of another is joined to him in a nobler way. Now, the noblest way that someone can be joined to the Father is either noblest simply speaking—and thus he is equal to him, and this belongs to the Son in virtue of his divine nature—or it is the noblest that is possible for a created thing—and this is to be joined to him in the union of the person of his Son, and thus to sit at the right hand belongs to Christ in virtue of his human nature. For the “sitting” signifies the firmness of this union.  
 
 Reply Obj. 1: This is not “being to the right” said properly, but metaphorically.  
 
@@ -506,7 +508,7 @@ Reply Obj. 4: Insofar as he goes forth from the Father through generation, Chris
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that being equal to the Father belongs to nothing created, and neither does being joined to his Son in the unity of the person, in virtue of which Christ is said to “sit at the right hand.” And therefore this belongs to nothing created.***
+To the third question, it should be said that being equal to the Father belongs to nothing created, and neither does being joined to his Son in the unity of the person, in virtue of which Christ is said to “sit at the right hand.” And therefore this belongs to nothing created.  
 
 Reply Obj. 1: [The Father] causes us to sit together with him insofar as he has made us stable in glory and has given us judicial power, but he does not make us sit at his right hand. Or it should be said that he makes us sit together with him even at his right hand, but he does not do so in ourselves, but in Christ, inasmuch as he is of one nature with us, which nature—insofar as it is in Christ—he has placed at the right hand of the Father.  
 
@@ -518,7 +520,7 @@ Reply Obj. 4: The Holy Spirit can be said to “sit at the right hand of the Fat
 
 Exposition of the text  
 
-****The mystery of faith is free from philosophical arguments*,*Sent.* III, 22.1(70).3. because they can neither be proved or disproved by them.***
+*The mystery of faith is free from philosophical arguments*,*Sent.* III, 22.1(70).3. because they can neither be proved or disproved by them.  
 
 *Perhaps he was a man in this way too before his death, and then again after the Resurrection*.*Sent*. III, 22.1(70).3. He says this on account of the third opinion, which had not yet been condemned in his time, which said that even before his death he was a man in this way.  
 

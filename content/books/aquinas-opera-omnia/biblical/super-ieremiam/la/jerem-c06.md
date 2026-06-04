@@ -1,6 +1,8 @@
 # C. 4 - The threat of captivity
 
-***^4:1^ Si reverteris, Israel, ait Dominus, ad me convertere. Si abstuleris offendicula tua a facie mea, non commoveberis.***
+***Lectio 1***
+
+^4:1^ Si reverteris, Israel, ait Dominus, ad me convertere. Si abstuleris offendicula tua a facie mea, non commoveberis.  
 
 > ^4:2^ Et juravit vivit Dominus, in veritate, et in judicio, et in justitia: et benedicent eum gentes, ipsumque laudabunt.
 
@@ -24,7 +26,7 @@ Tertio ampliationem religionis in gentibus: ***et benedicent gentes***, Dominum,
 
 Lectio 2  
 
-***^4:3^ Haec enim dicit Dominus viro Juda, et habitatori Jerusalem. Novate vobis novale, et nolite serere super spinas.***
+^4:3^ Haec enim dicit Dominus viro Juda, et habitatori Jerusalem. Novate vobis novale, et nolite serere super spinas.  
 
 > ^4:4^ Circumcidimini Domino, et auferte praeputia cordium vestrorum, viri Juda, et habitatores Jerusalem, ne forte egrediatur ut ignis indignatio mea, et succendatur, et non sit qui extinguat, propter malitiam cogitationum vestrarum.
 
@@ -74,7 +76,7 @@ Tertio assignatur ratio: ***quia malum ego adduco ab aquilone***. Supra 1: ***ab
 
 Lectio 3  
 
-***^4:7^ Ascendit leo de cubili suo, et praedo gentium se levavit. Egressus est de loco suo, ut ponat terram tuam in solitudinem. Civitates tuae vastabuntur, remanentes absque habitatore.***
+^4:7^ Ascendit leo de cubili suo, et praedo gentium se levavit. Egressus est de loco suo, ut ponat terram tuam in solitudinem. Civitates tuae vastabuntur, remanentes absque habitatore.  
 
 > ^4:8^ Super hoc accingite vos ciliciis, plangite et ululate, quia non est aversa ira furoris Domini a nobis.
 
@@ -104,7 +106,7 @@ Tertio specialiter stuporem suum: ***et dixi, heu. Dicens, pax erit vobis***. Su
 
 Lectio 4  
 
-***^4:11^ In tempore illo dicetur populo huic, et Jerusalem: ventus urens in viis quae sunt in deserto viae filiae populi mei, non ad ventilandum, et ad purgandum.***
+^4:11^ In tempore illo dicetur populo huic, et Jerusalem: ventus urens in viis quae sunt in deserto viae filiae populi mei, non ad ventilandum, et ad purgandum.  
 
 > ^4:12^ Spiritus plenus ex his veniet mihi. Et nunc ego; sed loquar judicia mea cum eis.
 
@@ -114,7 +116,7 @@ Lectio 4
 
 Lectio 5  
 
-***^4:13^ Ecce quasi nubes ascendet, et quasi tempestas currus ejus. Velociores aquilis equi illius. Vae nobis, quoniam vastati sumus.***
+^4:13^ Ecce quasi nubes ascendet, et quasi tempestas currus ejus. Velociores aquilis equi illius. Vae nobis, quoniam vastati sumus.  
 
 > ^4:14^ Lava a malitia cor tuum, Jerusalem, ut salva fias. Usquequo morabuntur in te cogitationes noxiae?
 
@@ -148,7 +150,7 @@ Tertio ponit obsidionis meritum: ***viae tuae***, idest actiones, ***os***, usqu
 
 Lectio 7  
 
-***^4:19^ Ventrem meum, ventrem meum doleo, sensus cordis mei turbati sunt in me. Non tacebo, quoniam vocem buccinae audivit anima mea, clamorem praelii.***
+^4:19^ Ventrem meum, ventrem meum doleo, sensus cordis mei turbati sunt in me. Non tacebo, quoniam vocem buccinae audivit anima mea, clamorem praelii.  
 
 > ^4:20^ Contritio super contritionem vocata est, et vastata est omnis terra. Repente vastata sunt tabernacula mea, subito pelles meae.
 
@@ -176,7 +178,7 @@ Tertio assignat vastationis rationem, scilicet privationem debitae scientiae: **
 
 Lectio 8  
 
-***^4:23^ Aspexi terram, et ecce vacua erat, et nihili; et caelos, et non erat lux in eis.***
+^4:23^ Aspexi terram, et ecce vacua erat, et nihili; et caelos, et non erat lux in eis.  
 
 > ^4:24^ Vidi montes, et ecce movebantur, et omnes colles conturbati sunt.
 
@@ -214,7 +216,7 @@ Tertio divinae sententiae firmitatem, ***cogitavi***. Isa. 14: *hoc consilium qu
 
 Lectio 9  
 
-***^4:29^ A voce equitis et mittentis sagittam, fugit omnis civitas. Ingressi sunt ardua, et ascenderunt rupes: universae urbes derelictae sunt, et non habitat in eis homo.***
+^4:29^ A voce equitis et mittentis sagittam, fugit omnis civitas. Ingressi sunt ardua, et ascenderunt rupes: universae urbes derelictae sunt, et non habitat in eis homo.  
 
 > ^4:30^ Tu autem vastata quid facies? Cum vestieris te coccino, cum ornata fueris monili aureo, et pinxeris stibio oculos tuos, frustra componeris. Contempserunt te amatores tui, animam tuam quaerent.
 
@@ -230,6 +232,6 @@ Tertio ponit dolorem sicut in partu, ***vocem puerperae***, quae primo filium pa
 
 Collationes  
 
-***Notandum, quod multiplex est ***circumcisio***: scilicet mentis a pravis cogitationibus. Lev. 26: *donec erubescat incircumcisa mens eorum*. Cordis a pravis affectionibus. Roman. 2: *circumcisio cordis in spiritu non littera*. Oris a pravis locutionibus. Exod. 6: *incircumcisus labiis ego sum*. Auris a detractionibus et pravis verbis. Infra 6: ***incircumcisae aures eorum, et audire non possunt***. Carnis, significans circumcisionem a carnalibus concupiscentiis. Genes. 17: *circumcidetis carnem praeputii vestri, ut sit in signum foederis inter me et vos*.***
+Notandum, quod multiplex est ***circumcisio***: scilicet mentis a pravis cogitationibus. Lev. 26: *donec erubescat incircumcisa mens eorum*. Cordis a pravis affectionibus. Roman. 2: *circumcisio cordis in spiritu non littera*. Oris a pravis locutionibus. Exod. 6: *incircumcisus labiis ego sum*. Auris a detractionibus et pravis verbis. Infra 6: ***incircumcisae aures eorum, et audire non possunt***. Carnis, significans circumcisionem a carnalibus concupiscentiis. Genes. 17: *circumcidetis carnem praeputii vestri, ut sit in signum foederis inter me et vos*.  
 
 Item notandum, quod ***lavatur cor*** aqua baptismatis. Ezech. 16: *lavi te aqua, et emundavi sanguinem tuum ex te*. Lacrymis compunctionis. Ps. 6: *lavabo per singulas noctes lectum meum, lacrymis meis stratum meum rigabo*. Vino divini amoris. Gen. 49: *lavabit in vino stolam suam, et in sanguine uvae pallium suum*. Lacte divini sermonis. Cant. 5: *oculi ejus sicut columbae super rivulos aquarum, quae lacte sunt lotae*. Ardore correctionis. Isai. 4: *si abluerit Dominus sordem filiarum Sion, et sanguinem Jerusalem laverit de medio ejus in spiritu judicii, et in spiritu ardoris*. Sanguine dominicae passionis. Apoc. 7: *laverunt stolas suas, et candidas eas fecerunt in sanguine Agni*.

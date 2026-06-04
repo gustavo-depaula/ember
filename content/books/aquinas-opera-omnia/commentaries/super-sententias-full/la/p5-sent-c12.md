@@ -1,6 +1,8 @@
 # D. 11 - Christ as a creature
 
-****Solet etiam quaeri utrum debeat simpliciter concedi etc.* Postquam determinavit Magister, qualiter ea quae sunt dignitatis in humana natura de Christo dici possunt vel non possunt: hic determinat quomodo de ipso*Deo*.—*-ipso* PLE. The other editions read *Deo*. dici possunt ea quae ad defectum naturae humanae pertinent. Et dividitur in duas partes.***
+***Divisio textus***
+
+*Solet etiam quaeri utrum debeat simpliciter concedi etc.* Postquam determinavit Magister, qualiter ea quae sunt dignitatis in humana natura de Christo dici possunt vel non possunt: hic determinat quomodo de ipso*Deo*.—*-ipso* PLE. The other editions read *Deo*. dici possunt ea quae ad defectum naturae humanae pertinent. Et dividitur in duas partes.  
 
 In prima inquirit utrum nomen creaturae quod de humana natura dicitur, de Christo dici possit.  
 
@@ -136,7 +138,7 @@ Articulus 3
 
 ***Utrum Christus possit dici creatura secundum quod homo***
 
-***Ad tertium sic proceditur. Videtur quod Christus non possit dici creatura secundum quod homo.***
+Ad tertium sic proceditur. Videtur quod Christus non possit dici creatura secundum quod homo.  
 
 Quidquid enim praedicatur de altero secundum quod ipsum est, praedicatur de eo simpliciter. Sed quod praedicatur de Christo secundum quod homo, praedicatur de eo secundum quod ipsum est, quia ipseEd. omit *ipse*. est essentialiter homo. Ergo cum esse creaturam non praedicetur de ChristoEd. omit *de Christo*. simpliciter, non potest praedicari de eo secundum quod homo.  
 
@@ -170,7 +172,7 @@ Articulus 4
 
 ***Utrum ea quae sunt humanae naturae possint dici de Filio Dei***
 
-***Ad quartum sic proceditur. Videtur quod ea quae sunt humanae naturae non possuntEd. read *possint*. dici de Filio Dei.***
+Ad quartum sic proceditur. Videtur quod ea quae sunt humanae naturae non possuntEd. read *possint*. dici de Filio Dei.  
 
 Omnis enimBruges manuscript omits *enim*. proprietas vel accidens humanae naturae, est quid creatum. Sed Filius Dei non informatur aliquo creato. Ergo non potest praedicari de Filio Dei aliquod accidens naturae humanae.  
 
@@ -220,7 +222,7 @@ Et ex dictis patet solutio ad consequentia.
 
 Expositio textus  
 
-****Omnia per ipsum facta sunt*. Videtur hoc non esse ad propositum quia Augustinus intendit de Filio Dei, inquantum est Filius Dei. Et dicendum quod quia non est in Christo aliud suppositum nisi persona Filii Dei; ideo sicut de Filio Dei dici non potest quod sit creatura, ita nec de Christo.***
+*Omnia per ipsum facta sunt*. Videtur hoc non esse ad propositum quia Augustinus intendit de Filio Dei, inquantum est Filius Dei. Et dicendum quod quia non est in Christo aliud suppositum nisi persona Filii Dei; ideo sicut de Filio Dei dici non potest quod sit creatura, ita nec de Christo.  
 
 *Nam si creatura esset, sibi mandaret Evangelium praedicari*. Videtur quod hoc non sequitur,Ed. read *sequatur*. quia angeli et lapides sunt creaturae quibus non est Evangelium praedicandum. EtEd. read *Et*. dicendum quod intelligitur de creaturis quae sunt homines, quibus hominibusEd. omit *hominibus*. Evangelium praedicandum est, vel ut emundentur vel ut perficiantur vel ut conserventur. Christus autem homo est.  
 

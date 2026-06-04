@@ -1,8 +1,10 @@
 # D. 29 - Order of charity
 
+***Order of charity***
+
 ***Division of the text***
 
-****After the above matters, we must discuss the order of charity*.*Sent.* III, 29.1(108).1. After the Master has determined what is to be loved from charity, here he determines about the order of charity.***
+*After the above matters, we must discuss the order of charity*.*Sent.* III, 29.1(108).1. After the Master has determined what is to be loved from charity, here he determines about the order of charity.  
 
 This consideration is divided into two parts.  
 
@@ -82,7 +84,7 @@ Article 1
 
 ***Whether charity has an order***
 
-***To the first we proceed thus.Parallels: *ST* II-26.1; *De caritate*, a. 9. It seems that charity does not have an order.***
+To the first we proceed thus.Parallels: *ST* II-26.1; *De caritate*, a. 9. It seems that charity does not have an order.  
 
 Obj. 1: For Bernard says that *love knows no grade, it considers no dignity*.Bernard, *Sermones super Cantica Canticorum*, serm. 64, n. 10 (PL 183:1088); serm. 79, n. 1 (PL 182:1163); serm. 83, n. 3 (PL 182:1182). But every order involves some grade. There is not, therefore, any order in charity.  
 
@@ -114,9 +116,9 @@ Reply Obj. 5: In one genus there can only be one highest. So, if I love somethin
 
 Article 2  
 
-***Whether the order of charity is to be looked to regarding affection or regarding its effect***
+Whether the order of charity is to be looked to regarding affection or regarding its effect  
 
-***To the second we proceed thus. It seems that the order of charity is not to be looked to according to affection, but only according to effect.***
+To the second we proceed thus. It seems that the order of charity is not to be looked to according to affection, but only according to effect.  
 
 Obj. 1: For just as the first truth on which faith depends is one in all, so the highest goodness on which charity depends is one. But faith is equally certain about all the things which are believed on faith. Therefore charity, too, has equal affection for everything loved from charity. And so there is no order of affection in charity, but only an order of effects.  
 
@@ -152,7 +154,7 @@ Article 3
 
 ***Whether God is to be loved above all things from charity***
 
-***To the third we proceed thus.Parallels: *ST* II-II.26.2; *De caritate*, a. 4, ad 2; a. 9. It seems that God is not to be loved above all things from charity.***
+To the third we proceed thus.Parallels: *ST* II-II.26.2; *De caritate*, a. 4, ad 2; a. 9. It seems that God is not to be loved above all things from charity.  
 
 Obj. 1: For as Dionysius says, *love is a unitive power*.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 15 (PG 3:714). But anyone is more united to himself than he is to God. Therefore he ought from charity to love himself more than he loves God.  
 
@@ -196,7 +198,7 @@ Article 4
 
 ***Whether the love of God permits consideration of a wage***
 
-***To the fourth we proceed thus.Parallel: *ST* II-II.27.3. It seems that love of God forbids looking to some wage.***
+To the fourth we proceed thus.Parallel: *ST* II-II.27.3. It seems that love of God forbids looking to some wage.  
 
 Obj. 1: For in John 10, the wage-seeker is reproved, but “wage-seeker” signifies one who seeks a wage. Therefore the love of God from charity cannot admit consideration of a wage.  
 
@@ -236,7 +238,7 @@ Article 5
 
 ***Whether from charity a man ought to love himself more than his neighbor***
 
-***To the fifth we proceed thus.Parallels: *ST* II-II.26.4; 44.8, ad 2; *De caritate*, a. 9; *Super 2 Tim*. 3, lect. 1. It seems that a man ought not to love himself more than he loves his neighbor from charity.***
+To the fifth we proceed thus.Parallels: *ST* II-II.26.4; 44.8, ad 2; *De caritate*, a. 9; *Super 2 Tim*. 3, lect. 1. It seems that a man ought not to love himself more than he loves his neighbor from charity.  
 
 Obj. 1: For that on account of which something else is given up is more loved. But charity makes a man in a way give up his very self and cleave to the beloved, since, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 13 (PG 3:711). love places a man outside himself and places him in the beloved. Therefore he loves his friend more than himself.  
 
@@ -276,9 +278,9 @@ Reply Obj. 6: The company and conversation of friends is delightful to us insofa
 
 Article 6  
 
-***Whether from charity a man ought to love strangers more than those who are close to him***
+Whether from charity a man ought to love strangers more than those who are close to him  
 
-***To the sixth we proceed thus.Parallels: *ST* II-II.26.7; *De caritate*, a. 9, ad 12, 14. It seems that from charity a man ought to love strangers more than those who are close to him.***
+To the sixth we proceed thus.Parallels: *ST* II-II.26.7; *De caritate*, a. 9, ad 12, 14. It seems that from charity a man ought to love strangers more than those who are close to him.  
 
 Obj. 1: For charity, like friendship, has the noble good as its foundation. But a greater nobility or virtue is sometimes found in strangers more than in those who are close to us. Therefore strangers are sometimes more to be loved from charity than those who are close to us.  
 
@@ -320,7 +322,7 @@ Article 7
 
 ***Concerning the order of charity to be observed among those who are close to us***
 
-***To the seventh we proceed thus.Parallels: *ST* II-II.26.8–12; *De caritate*, a. 9; *Super Eph*. 5, lect. 10; *Sent. Ethic.* VIII, lect. 12; IX, lect. 7. It seems that one’s father is not to be loved most of all [among those who are close to us].***
+To the seventh we proceed thus.Parallels: *ST* II-II.26.8–12; *De caritate*, a. 9; *Super Eph*. 5, lect. 10; *Sent. Ethic.* VIII, lect. 12; IX, lect. 7. It seems that one’s father is not to be loved most of all [among those who are close to us].  
 
 Obj. 1: For effect corresponds to affection, and makes the latter manifest. But we ought to show love’s effect more to children than to fathers, for, according to 2 Corinthians 12:14, children ought not to lay up wealth for their parents, but conversely. Therefore children are more to be loved than parents.  
 
@@ -372,7 +374,7 @@ Article 8
 
 ***Quaestiuncula 1***
 
-***To the eighth we proceed thus.Parallels: *ST* II-II.24.9; *Super Isaiam* 44. It seems that those degrees of charity [given in the text] are unfittingly distinguished.***
+To the eighth we proceed thus.Parallels: *ST* II-II.24.9; *Super Isaiam* 44. It seems that those degrees of charity [given in the text] are unfittingly distinguished.  
 
 Obj. 1: For the perfection of charity consists in this: that God is loved with one’s whole heart. But this is not possible in the wayfaring state, as was said above.Above, d. 27. q. 3, a. 2. Therefore charity in the wayfaring state cannot be perfect.  
 
@@ -386,7 +388,7 @@ On the contrary, the spiritual life bears a likeness to natural life. But determ
 
 Quaestiuncula 2  
 
-***Obj. 1: Furthermore, it seems that all are bound to aim for the practice of perfect charity.Parallel: *De caritate*, a. 11, ad 1. For, as Bernard says, “to stand still in the way of God is to fall backwards.”Bernard, *Epistulae*, epist. 254 (*ad abbatem Garinum*), nn. 4, 5 (PL 182:460–61). But everyone who advances forward in the way of God is tending to the goal of perfection. Therefore all are bound to tend to the perfection of charity.***
+Obj. 1: Furthermore, it seems that all are bound to aim for the practice of perfect charity.Parallel: *De caritate*, a. 11, ad 1. For, as Bernard says, “to stand still in the way of God is to fall backwards.”Bernard, *Epistulae*, epist. 254 (*ad abbatem Garinum*), nn. 4, 5 (PL 182:460–61). But everyone who advances forward in the way of God is tending to the goal of perfection. Therefore all are bound to tend to the perfection of charity.  
 
 Obj. 2: Further, each man is bound to love his neighbor more than his own body. But to lay down one’s bodily life for one’s brethren is something that belongs to perfect charity. Therefore each man is bound to perfect charity.  
 
@@ -398,7 +400,7 @@ On the contrary, anyone sins by omitting that to which he is bound. If, therefor
 
 Quaestiuncula 3  
 
-***Obj. 1: Furthermore, it seems that one who has attained perfect charity is bound to everything that belongs to perfection.Parallels: *ST* II-II.186.2; *De caritate*, a. 11, ad 12; *Quodl*. I, q. 7, a. 2; *Contra impugnantes*, ch. 2. For, as Gregory says, *when gifts increase, the reckonings of the gifts also increase*;Gregory the Great, *Homilia in evangelia*, bk. 1, hom. 9, para. 1 (CCSL 141:58; PL 76:1106). and in Luke 12:48 it is said, *everyone to whom much has been given, much will be required*. But more is committed to him who has perfect charity. Therefore he is bound to more, in keeping with the demands arising from the gifts he has received. And so it seems that he is bound to [all] those things that belong to perfection.***
+Obj. 1: Furthermore, it seems that one who has attained perfect charity is bound to everything that belongs to perfection.Parallels: *ST* II-II.186.2; *De caritate*, a. 11, ad 12; *Quodl*. I, q. 7, a. 2; *Contra impugnantes*, ch. 2. For, as Gregory says, *when gifts increase, the reckonings of the gifts also increase*;Gregory the Great, *Homilia in evangelia*, bk. 1, hom. 9, para. 1 (CCSL 141:58; PL 76:1106). and in Luke 12:48 it is said, *everyone to whom much has been given, much will be required*. But more is committed to him who has perfect charity. Therefore he is bound to more, in keeping with the demands arising from the gifts he has received. And so it seems that he is bound to [all] those things that belong to perfection.  
 
 Obj. 2: Further, as an imperfect man stands to what is commonly required of Christians, so a perfect man stands to those things that belong to perfection. But the imperfect one is bound to what is commonly required; therefore the perfect one is bound to those things that belong to perfection.  
 
@@ -410,7 +412,7 @@ Furthermore, it belongs to perfection not to give offense by one’s speech and 
 
 Response to Quaestiuncula 1  
 
-***I answer that, just as diverse ages are distinguished in bodily growth according to some notable effects to which nature advances when before, in an earlier stage, it was unable to exercise these effects, so, too, in spiritual growth diverse degrees of charity are assigned according to some notable effects that charity produces in the one who has charity.***
+I answer that, just as diverse ages are distinguished in bodily growth according to some notable effects to which nature advances when before, in an earlier stage, it was unable to exercise these effects, so, too, in spiritual growth diverse degrees of charity are assigned according to some notable effects that charity produces in the one who has charity.  
 
 The first effect of charity is that a man draws back from sin; and therefore the mind of the one who has charity is at first occupied most of all with this—that he should be cleansed from past sins and avoid future ones. And with respect to this effect, charity is called “beginning.” The second effect is that the one who is now confident of having liberation from sins should extend himself to gaining good things. And with respect to this effect, charity is called “advancing”—not because it does not advance in other states as well, but because in this state its special care is to gain good things; during it, a man is always panting for progress. The third effect is that a man, now thoroughly nourished with those good things, possesses them as, in a certain way, natural to him, and rests in them and is delighted by them. And this pertains to “perfect” charity.  
 
@@ -428,7 +430,7 @@ Reply Obj. 4: Although a beginner does advance, still his mind is more occupied 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the quantity of charity can be viewed in two ways, and this distinction applies to the quantity of any virtue, whether moral or natural: in one way, according to the intensity of charity; in another way, according to its object. And in keeping with this distinction, a twofold perfection of charity can be considered: one according to intensity, viz., that it should love perfectly; the other according to its object or effect, that it should do perfect things. Now, in regard to charity, each of these perfections can be viewed in two ways. For (1) it has perfection with respect to its being, insofar as it is perfect in its species; and this is the perfection of sufficiency, to which all of us are bound even as we are bound to [have the virtue of] charity itself, since in both ways charity has a determinate quantity beneath which it does not extend. And in this [having of sufficient quantity] stands its essential perfection. (2) It has a further perfection with respect to well-being, and in regard to this perfection, too, a distinction is to be made, since one is bound to tend to, though one is not bound to have, the perfection that has to do with intensity, whereas someone is not bound, simply speaking, either to tend to or to have the perfection that has to do with charity’s objects, but he is bound not to despise it or harden himself against it. And the reason is that the essential reward to which we are bound to tend is measured not by the greatness of one’s deeds but by the intensity of one’s charity, since God thinks more of how much charity a deed was done from, than how much was done. Nevertheless, one is bound in particular cases to do some works similar to works of perfection, as will be said.***
+To the second question, it should be said that the quantity of charity can be viewed in two ways, and this distinction applies to the quantity of any virtue, whether moral or natural: in one way, according to the intensity of charity; in another way, according to its object. And in keeping with this distinction, a twofold perfection of charity can be considered: one according to intensity, viz., that it should love perfectly; the other according to its object or effect, that it should do perfect things. Now, in regard to charity, each of these perfections can be viewed in two ways. For (1) it has perfection with respect to its being, insofar as it is perfect in its species; and this is the perfection of sufficiency, to which all of us are bound even as we are bound to [have the virtue of] charity itself, since in both ways charity has a determinate quantity beneath which it does not extend. And in this [having of sufficient quantity] stands its essential perfection. (2) It has a further perfection with respect to well-being, and in regard to this perfection, too, a distinction is to be made, since one is bound to tend to, though one is not bound to have, the perfection that has to do with intensity, whereas someone is not bound, simply speaking, either to tend to or to have the perfection that has to do with charity’s objects, but he is bound not to despise it or harden himself against it. And the reason is that the essential reward to which we are bound to tend is measured not by the greatness of one’s deeds but by the intensity of one’s charity, since God thinks more of how much charity a deed was done from, than how much was done. Nevertheless, one is bound in particular cases to do some works similar to works of perfection, as will be said.  
 
 Reply Obj. 1: Bernard’s statement is rightly understood of advancement in regard to intensity, for which a man always ought to strive.  
 
@@ -440,7 +442,7 @@ Reply Obj. 4: In things not determined to one, a power in its totality cannot be
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that “one who has perfect charity” can be understood in two ways. (1) In one way, according to the perfection of charity considered with respect to its objects, as those people are called “perfect” to whom it pertains to do works of perfection either from vow, such as religious, or from office, such as prelates. And so, in terms of what is owed, such “perfect” people are not bound to anything to which others are not bound except for those specific things they vowed to do or things connected with their office. Hence neither prelates nor religious are bound to all of the counsels. (2) In another way, according to the perfection of charity considered with respect to its intensity, as might be found in a layman in the world who is fervent in charity. And such a man is not obliged to undertake works of perfection except in the way that others are, but he is obliged to love God more intensely for the goods he has received; he is also inclined to do this from his habit of perfect charity.***
+To the third question, it should be said that “one who has perfect charity” can be understood in two ways. (1) In one way, according to the perfection of charity considered with respect to its objects, as those people are called “perfect” to whom it pertains to do works of perfection either from vow, such as religious, or from office, such as prelates. And so, in terms of what is owed, such “perfect” people are not bound to anything to which others are not bound except for those specific things they vowed to do or things connected with their office. Hence neither prelates nor religious are bound to all of the counsels. (2) In another way, according to the perfection of charity considered with respect to its intensity, as might be found in a layman in the world who is fervent in charity. And such a man is not obliged to undertake works of perfection except in the way that others are, but he is obliged to love God more intensely for the goods he has received; he is also inclined to do this from his habit of perfect charity.  
 
 Reply Obj. 1: The one who has perfect charity is bound to love God more, that is, to act more intensely and more perfectly [in regard to what is required of all], but is not bound to perform other, additional works on the basis of what God has given him, although perhaps another man is more bound to perform such works on the basis of what God has forgiven him. Now, although what is given is much more [valuable] than what is forgiven, since good is more good than evil is evil, nevertheless, the one who is a debtor from being forgiven is bound to some things, such as making satisfaction for sins, to which the other one is not bound.  
 
@@ -452,7 +454,7 @@ Reply Sed Contra: Nevertheless it should be known that the argument made in supp
 
 Exposition of the text  
 
-****The charity of many is disordered.**Sent.* III, 29.2(109).5, attributed to Ambrose but actually from Origen, *Glossa Ordinaria* (on Song of Songs 2:4) (PL 113:1137). In this passage the term “charity” is being used broadly for love or friendship.***
+*The charity of many is disordered.**Sent.* III, 29.2(109).5, attributed to Ambrose but actually from Origen, *Glossa Ordinaria* (on Song of Songs 2:4) (PL 113:1137). In this passage the term “charity” is being used broadly for love or friendship.  
 
 *If these last are good, they are to be placed ahead of wicked children.**Sent*. III, 29.2(109).5, attributed to Ambrose but actually from Origen*, Glossa Ordinaria,* at Song of Songs 2:4, (PL 113:1137*)*. But not in those affairs that have reference to what parent and child naturally share in common, like the distribution of an inheritance, education, and things of this sort; unless perhaps the superabundant malice of those children makes them unworthy of fatherly favor.  
 

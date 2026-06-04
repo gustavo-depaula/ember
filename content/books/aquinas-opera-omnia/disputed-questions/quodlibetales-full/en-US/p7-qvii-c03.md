@@ -1,8 +1,10 @@
 # On the Bodies of the Damned
 
+***Question 5***
+
 ***On the bodies of the damned***
 
-***Then there were questions about the bodies of the damned. And about this there were three questions:***
+Then there were questions about the bodies of the damned. And about this there were three questions:  
 
 first, whether the bodies of the damned are incorruptible;  
 
@@ -14,7 +16,7 @@ Article 1
 
 ***Whether the bodies of the damned are incorruptible***
 
-***To the first we proceed thus. It seems that the bodies of the damned will not be incorruptible.***
+To the first we proceed thus. It seems that the bodies of the damned will not be incorruptible.  
 
 Obj. 1: For a body cannot be incorruptible except through its nature, as a celestial body; or through the grace of innocence, as the body of man in his first state; or through glory, just as the body of Christ after the Resurrection. But none of these apply to the bodies of the damned. Therefore, the bodies of the damned will not be incorruptible.  
 
@@ -40,7 +42,7 @@ Article 2
 
 ***Whether the bodies of the damned will rise with their deformities***
 
-***To the second we proceed thus. It seems that the bodies of the damned will rise without deformities.***
+To the second we proceed thus. It seems that the bodies of the damned will rise without deformities.  
 
 Obj. 1: For the resurrection will be effected by divine power, which is most perfect. But to a perfect power belongs a perfect activity and a perfect effect. Therefore, the bodies of those rising will be perfect, and thus the bodies of the damned will rise without deformities.  
 
@@ -52,9 +54,9 @@ Reply Obj. 1: These things being seen, the solution to the objections easily is 
 
 Article 3  
 
-***Whether the bodies of the damned will be punished in hell by bodily worm and bodily weeping***
+Whether the bodies of the damned will be punished in hell by bodily worm and bodily weeping  
 
-***To the third we proceed thus. It seems that the bodies of the damned will be punished by bodily worms and bodily weeping.***
+To the third we proceed thus. It seems that the bodies of the damned will be punished by bodily worms and bodily weeping.  
 
 Obj. 1: Judith 16:21 says: *he will give fire and worm unto their flesh*. But a spiritual worm is not given to the flesh but rather to the soul. Therefore, the worm by which the reprobate will be punished will be not only spiritual, but also bodily.  
 

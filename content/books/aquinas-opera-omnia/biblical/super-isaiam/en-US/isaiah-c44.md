@@ -1,5 +1,7 @@
 # Chapter 42
 
+^42:1^ Behold my servant, I will uphold him: my elect, my soul delights in him: I have given my spirit upon him, he shall bring forth judgment to the Gentiles.  
+
 > ^42:2^ He shall not cry, nor have respect to person, neither shall his voice be heard abroad.
 
 > ^42:3^ The bruised reed he shall not break, and smoking flax he shall not quench, he shall bring forth judgment unto truth.

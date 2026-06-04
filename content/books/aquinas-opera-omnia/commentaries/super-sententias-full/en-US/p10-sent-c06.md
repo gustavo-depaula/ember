@@ -1,6 +1,8 @@
 # D. 48 - The second coming
 
-***After the Master has considered the divine judgment as regards the mode of the judgment and the judge’s ministers, here he determines what pertains to the person of the judge. And it is divided into two parts. In the first part, he shows what form Christ will appear in when he comes to judge. In the second, he determines the circumstances of the judgment: *some hold that the Lord will descend into the valley of Josaphat for the judgment*.*Sententiae* IV, 48.4 (278). 1.***
+***The second coming***
+
+After the Master has considered the divine judgment as regards the mode of the judgment and the judge’s ministers, here he determines what pertains to the person of the judge. And it is divided into two parts. In the first part, he shows what form Christ will appear in when he comes to judge. In the second, he determines the circumstances of the judgment: *some hold that the Lord will descend into the valley of Josaphat for the judgment*.*Sententiae* IV, 48.4 (278). 1.  
 
 The first part is divided into two parts. In the first, he shows that Christ will judge in the form of man. In the second, he invokes a likeness, namely, that Christ as man is the cause of the resurrection of bodies: *and as it is said that Christ, for the aforementioned cause, will judge according to the form of a servant, so also it is said that he will raise the bodies of the dead according to his humanity*.*Sent*. IV, 48.3 (277). 1.  
 
@@ -27,7 +29,7 @@ first, whether Christ will judge in the form of man;
 
 ***Whether Christ will judge in the form of man***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 59, a. 2; *Super Matt.* 25; *SCG* IV, ch. 96; *Quodl.* X, q. 1, a. 2; *Super Ioan.* 5, lec. 4 & 5; *Comp. theo.* 241; *Expos. super Symbol.* It seems that Christ will not judge in the form of a slave. For judgment requires authority in the one judging. But authority over the living and the dead is in Christ as God, for this is how he is Lord and Creator of all. Therefore he will judge in the form of divinity.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 59, a. 2; *Super Matt.* 25; *SCG* IV, ch. 96; *Quodl.* X, q. 1, a. 2; *Super Ioan.* 5, lec. 4 & 5; *Comp. theo.* 241; *Expos. super Symbol.* It seems that Christ will not judge in the form of a slave. For judgment requires authority in the one judging. But authority over the living and the dead is in Christ as God, for this is how he is Lord and Creator of all. Therefore he will judge in the form of divinity.  
 
 Obj. 2: Furthermore, unsurpassable power is required in a judge. Thus: *do not seek to become a judge, unless you are able to remove iniquities* (Sir 7:6). But unsurpassable power befits Christ as God. Therefore he will judge in the form of divinity.  
 
@@ -59,7 +61,7 @@ Article 2
 
 ***Whether in judgment he will appear in glorious figure***
 
-***Obj. 1: To the second we proceed thus.Parallel: *Comp. theo.* 241. It seems that at the judgment Christ will not appear in the glorious form of his humanity: *they shall look on him whom they have pierced* (Jn 19:37).Alluding to Zechariah 12:10. A Gloss adds: *for he is to come in the flesh in which he was crucified*. But he was crucified in a weak form. Therefore he will appear in the form of weakness, not the glorious form.***
+Obj. 1: To the second we proceed thus.Parallel: *Comp. theo.* 241. It seems that at the judgment Christ will not appear in the glorious form of his humanity: *they shall look on him whom they have pierced* (Jn 19:37).Alluding to Zechariah 12:10. A Gloss adds: *for he is to come in the flesh in which he was crucified*. But he was crucified in a weak form. Therefore he will appear in the form of weakness, not the glorious form.  
 
 Obj. 2: Furthermore, it is said: *then will appear the sign of the Son of man in heaven* (Mt 24:30), that is the sign of the cross. And Chrysostom saysJohn Chrysostom, *Homilies on Matthew*, nn. 76–77, PG 58:698. that at the judgment Christ will come showing not only the marks of his wounds but also his most reproachful death itself. Therefore it seems that he will not appear in glorious form.  
 
@@ -91,7 +93,7 @@ Article 3
 
 ***Whether he could appear in the nature of divinity to anyone without joy***
 
-***Obj. 1: To the third we proceed thus.Parallel: *Comp. theo.* 165. It seems that the divinity can be seen by the wicked without joy. For it is obvious that the impious will most manifestly know that Christ is God. Therefore they will see his divinity, and yet they will not rejoice at the vision of Christ. Therefore the divinity can be seen without joy.***
+Obj. 1: To the third we proceed thus.Parallel: *Comp. theo.* 165. It seems that the divinity can be seen by the wicked without joy. For it is obvious that the impious will most manifestly know that Christ is God. Therefore they will see his divinity, and yet they will not rejoice at the vision of Christ. Therefore the divinity can be seen without joy.  
 
 Obj. 2: Furthermore, the perverse will of the impious is not more adverse to Christ’s humanity than to his divinity. But the fact that they will see the glory of his humanity will be painful for them, as was said. Therefore all the more, they would be saddened rather than rejoice if they saw his divinity.  
 
@@ -125,7 +127,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallel: *In IV Sent*. d. 47, q. 1, a. 1, qa. 3, ad 2. It seems that certain signs will not precede the Lord’s coming for judgment. For: *when people say, “there is peace and security,” then sudden destruction will come upon them* (1 Thess 5:3). But there would not be peace and security if men were terrified by the preceding signs. Therefore signs will not precede that coming.***
+Obj. 1: To the fourth we proceed thus.Parallel: *In IV Sent*. d. 47, q. 1, a. 1, qa. 3, ad 2. It seems that certain signs will not precede the Lord’s coming for judgment. For: *when people say, “there is peace and security,” then sudden destruction will come upon them* (1 Thess 5:3). But there would not be peace and security if men were terrified by the preceding signs. Therefore signs will not precede that coming.  
 
 Obj. 2: Furthermore, signs are ordered to manifestation. But his coming ought to be in secret. Hence: *the day of the Lord will come like a thief in the night* (1 Thess 5:2). Therefore signs should not precede it.  
 
@@ -137,7 +139,7 @@ Furthermore (2), Jerome posits fifteen signs preceding the judgment,These fiftee
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that at the time of the judgment, the sun and moon will be darkened in reality. For, as Rabanus comments on Matthew (24:29), nothing prevents our understanding that at that time the sun and moon with the rest of the stars will truly be deprived of their light, as is obvious happened to the sun at the time of the Lord’s Passion.***
+Obj. 1: Moreover, it seems that at the time of the judgment, the sun and moon will be darkened in reality. For, as Rabanus comments on Matthew (24:29), nothing prevents our understanding that at that time the sun and moon with the rest of the stars will truly be deprived of their light, as is obvious happened to the sun at the time of the Lord’s Passion.  
 
 Obj. 2: Furthermore, the light of the heavenly bodies is ordered to the generation of lower bodies. For they have an influence on lower bodies by it, not only by motion, as Averroes says in *On the Substance of the Heavenly Sphere*.Averroes, *On the Substance of the Heavenly Sphere*, ch. 2. But at that time generation will cease. Therefore neither will light remain in the heavenly bodies.  
 
@@ -149,7 +151,7 @@ Furthermore (2), it is incongruous for the same thing to be the cause of a thing
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the virtues of heaven will not be moved when the Lord comes.Parallels: *Super Matt*. 24; *Resp. de Art. 36*, a. 4; *Resp. de Art. 42*, a. 17. For only the blessed angels can be called the virtues of heaven. But immutability pertains to the notion of beatitude. Therefore they will not be able to be moved.***
+Obj. 1: Moreover, it seems that the virtues of heaven will not be moved when the Lord comes.Parallels: *Super Matt*. 24; *Resp. de Art. 36*, a. 4; *Resp. de Art. 42*, a. 17. For only the blessed angels can be called the virtues of heaven. But immutability pertains to the notion of beatitude. Therefore they will not be able to be moved.  
 
 Obj. 2: Furthermore, ignorance is the cause of wonderment, as is clear at the beginning of the *Metaphysics*.Aristotle, *Metaphysics*, Bk. 1, ch. 2, 982b12–28. But just as fear is far from the angels, so also is ignorance. For, as Gregory says:Gregory the Great, *Dialogues* (SC 265), Bk. 4, ch. 33. *what is there that those who see the one who sees all do not see?* Therefore they will not be able to be moved by wonderment, as it says in the text.  
 
@@ -161,7 +163,7 @@ Furthermore (2), it is said: *stars shall fall from heaven and the virtues of he
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the judgment will not take place in the valley of Jehoshaphat or the surrounding area.Parallels: *Quodl*. X, q. 1, a. 2; *Comp. theo*. 244. For it is at least necessary for all those to be judged to stand on the earth or only for those to be lifted in the clouds who will have the task of judging. But the whole of the Promised Land could not hold the multitude of those to be judged. Therefore it cannot be the case that the judgment will be around this valley.***
+Obj. 1: Moreover, it seems that the judgment will not take place in the valley of Jehoshaphat or the surrounding area.Parallels: *Quodl*. X, q. 1, a. 2; *Comp. theo*. 244. For it is at least necessary for all those to be judged to stand on the earth or only for those to be lifted in the clouds who will have the task of judging. But the whole of the Promised Land could not hold the multitude of those to be judged. Therefore it cannot be the case that the judgment will be around this valley.  
 
 Obj. 2: Furthermore, as was said above, judgment has been given to Christ in his humanity that he who was unjustly judged may judge justly. But he was unjustly judged in Pilate’s praetorium and bore the sentence of unjust judgment in Golgotha. Therefore these places should instead be designated for the judgment.  
 
@@ -173,7 +175,7 @@ Furthermore (2), it is said: *he who was taken up from you into heaven will come
 
 Response to Quaestiuncula 1  
 
-***I answer that, as was said above, Christ coming to judge will appear in glorious form because of the authority that a judge is due. Now it pertains to the dignity of judiciary power to have certain signs inducing reverence and subjection. And thus many signs will precede the arrival of Christ when he comes for judgment so that the hearts of men may be led to subjection to the coming judge and, admonished by such signs, prepared for judgment. But as to what these signs are, this cannot be easily known. For, as Augustine says in a letter to Hesychius on the end of the world, the signs that we read of in the Gospels pertain not only to Christ’s coming for judgment but also to the time of the destruction of Jerusalem and that coming of Christ by which Christ continuously visits his Church. So that perhaps if these signs are diligently considered we find that none of them pertains to the future coming, as he says. For the signs touched on in the Gospels, such as strife, terrors, and so forth, have existed from the beginning of the human race, unless perhaps it is said that they will grow much worse at that time. But as to what measure of the circumstances would indicate the second coming was near, that is uncertain. The signs that Jerome gives, however, he does not assert but says that he found them written in the annals of the Jews, which also contain very little plausibility.***
+I answer that, as was said above, Christ coming to judge will appear in glorious form because of the authority that a judge is due. Now it pertains to the dignity of judiciary power to have certain signs inducing reverence and subjection. And thus many signs will precede the arrival of Christ when he comes for judgment so that the hearts of men may be led to subjection to the coming judge and, admonished by such signs, prepared for judgment. But as to what these signs are, this cannot be easily known. For, as Augustine says in a letter to Hesychius on the end of the world, the signs that we read of in the Gospels pertain not only to Christ’s coming for judgment but also to the time of the destruction of Jerusalem and that coming of Christ by which Christ continuously visits his Church. So that perhaps if these signs are diligently considered we find that none of them pertains to the future coming, as he says. For the signs touched on in the Gospels, such as strife, terrors, and so forth, have existed from the beginning of the human race, unless perhaps it is said that they will grow much worse at that time. But as to what measure of the circumstances would indicate the second coming was near, that is uncertain. The signs that Jerome gives, however, he does not assert but says that he found them written in the annals of the Jews, which also contain very little plausibility.  
 
 Reply Obj. 1: According to Augustine in the letter to Hesychius mentioned above, around the end of the world there will be a universal persecution of the wicked against the good. This is how at the same time some, namely, the good, will fear and some, namely, the wicked, will feel secure. Now when they said *peace and security*, this is to be referred to the wicked, who will give too little consideration to the signs of the future judgment, whereas when it is said: *men fainting for fear* (Lk 21:26), this pertains to the good. Or we may say that all these signs that will happen around the judgment are reckoned as falling within the time of judgment such that the day of judgment contains all of them. Hence even though people will be terrified by the signs appearing around the day of judgment, before these signs begin to appear the impious will believe themselves to be in peace and security, not immediately seeing the world consummated after the death of the Antichrist, as they had thought.  
 
@@ -183,7 +185,7 @@ Reply Obj. 3: At his first coming Christ came hidden, though the determinate tim
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that if we are speaking of the sun and moon as regards the very moment of Christ’s coming, then it is not credible that they would be darkened by the privation of their light. For the whole world will be renewed when Christ comes and the saints arise, as has been said. If, however, we are speaking of them with reference to a time shortly before the judgment, then it will be possible for the sun, the moon, and the other luminaries of heaven to be darkened by the privation of their light, either at different times or at the same time, with divine power doing this to terrify men.***
+To the second question, it should be said that if we are speaking of the sun and moon as regards the very moment of Christ’s coming, then it is not credible that they would be darkened by the privation of their light. For the whole world will be renewed when Christ comes and the saints arise, as has been said. If, however, we are speaking of them with reference to a time shortly before the judgment, then it will be possible for the sun, the moon, and the other luminaries of heaven to be darkened by the privation of their light, either at different times or at the same time, with divine power doing this to terrify men.  
 
 Reply Obj. 1: Rabanus is speaking with regard to the time preceding the judgment.  
 
@@ -193,7 +195,7 @@ Reply Obj. 3: As has been said, it does not seem probable that the elemental qua
 
 Response to Quaestiuncula 3  
 
-***To the third question it should be said that we speak of virtues among the angels in two ways, as is clear from Dionysius.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 11 (PG 3:283). For sometimes the name ‘virtues’ is appropriated to a single order, which according to Dionysius is the middle order of the middle hierarchy and according to Gregory is the highest of the lowest hierarchy. In the other way, ‘virtues’ is taken generally for all the heavenly spirits. And it can be taken in both ways in the case in question. For in the text it is explained as being taken in the second way, namely for all the angels, and then they are said to be moved on account of wonder at the newness that will be in the world, as it says in the text. ‘Virtues’ can also be explained as being the proper name of an order, and then this order is said to be moved more than the others by reason of the effect. For, according to Gregory, we attribute to this order the working of miracles, which will occur most of all around that time. Or else because this order, since it pertains to the middle hierarchy according to Dionysius, does not have a limited power. Hence its ministry must concern universal causes. This is why the proper task of the virtues seems to be moving the heavenly bodies, which are the cause of what goes on in lower nature. And this, too, is reflected in their name, since they are called the ‘virtues of heaven.’ Therefore they will be moved at that time because they will cease from their effect, no longer moving the heavenly bodies, just as the angels who are deputed for the guardianship of men will no longer devote themselves to the task of guardianship.***
+To the third question it should be said that we speak of virtues among the angels in two ways, as is clear from Dionysius.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 11 (PG 3:283). For sometimes the name ‘virtues’ is appropriated to a single order, which according to Dionysius is the middle order of the middle hierarchy and according to Gregory is the highest of the lowest hierarchy. In the other way, ‘virtues’ is taken generally for all the heavenly spirits. And it can be taken in both ways in the case in question. For in the text it is explained as being taken in the second way, namely for all the angels, and then they are said to be moved on account of wonder at the newness that will be in the world, as it says in the text. ‘Virtues’ can also be explained as being the proper name of an order, and then this order is said to be moved more than the others by reason of the effect. For, according to Gregory, we attribute to this order the working of miracles, which will occur most of all around that time. Or else because this order, since it pertains to the middle hierarchy according to Dionysius, does not have a limited power. Hence its ministry must concern universal causes. This is why the proper task of the virtues seems to be moving the heavenly bodies, which are the cause of what goes on in lower nature. And this, too, is reflected in their name, since they are called the ‘virtues of heaven.’ Therefore they will be moved at that time because they will cease from their effect, no longer moving the heavenly bodies, just as the angels who are deputed for the guardianship of men will no longer devote themselves to the task of guardianship.  
 
 Reply Obj. 1: This change does not vary something pertaining to their state but refers either to their effects, which can be changed without their being changed, or to a new consideration of things that they were previously unable to see in their concrete species. But beatitude does not take away this interchange of thoughts from them. Hence Augustine saysAugustine, *On the Literal Meaning of Genesis* (CSEL 28.1), Bk. 8, par. 22. that God moves the spiritual creature through time.  
 
@@ -203,7 +205,7 @@ Reply Obj. 3: The reply to the third objection is clear from what has been said.
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that not much can be known with certitude about how that judgment will take place and how men will gather together for judgment, though it can be gathered with some probability from the Scriptures that he will descend around the place of the Mount of Olives, as he also ascended from that place, to show that the one who descends and the one who ascended are the same.***
+To the fourth question, it should be said that not much can be known with certitude about how that judgment will take place and how men will gather together for judgment, though it can be gathered with some probability from the Scriptures that he will descend around the place of the Mount of Olives, as he also ascended from that place, to show that the one who descends and the one who ascended are the same.  
 
 Reply Obj. 1: A great multitude can be held in a small space. But it suffices to posit any amount of space around that place to contain the multitude of those to be judged as long as they can see Christ from that space. Being above in the air and shining with greatest clarity, he will be able to be seen from far away.  
 
@@ -227,7 +229,7 @@ first, whether there is going to be a renewal of the world;
 
 ***Whether there is going to be a renewal of the world***
 
-***Obj. 1: To the first we proceed thus.Parallels: *In IV Sent.* d. 47, q. 2, a. 1, qa. 1; *SCG* IV, ch. 97; *Comp. theo.* 169. It seems that the world will never be renewed. For nothing will be that has not at some time already been according to species: *what has been is what will be* (Eccl 1:9). But the world has never had a disposition other than that which it now has as regards essential parts, genera, and species. Therefore it will never be renewed.***
+Obj. 1: To the first we proceed thus.Parallels: *In IV Sent.* d. 47, q. 2, a. 1, qa. 1; *SCG* IV, ch. 97; *Comp. theo.* 169. It seems that the world will never be renewed. For nothing will be that has not at some time already been according to species: *what has been is what will be* (Eccl 1:9). But the world has never had a disposition other than that which it now has as regards essential parts, genera, and species. Therefore it will never be renewed.  
 
 Obj. 2: Furthermore, renewal is a kind of alteration. But it is impossible for the universe to be altered because everything altered is traceable to something that alters and is not altered yet that is moved in place. But we cannot posit such a thing outside the universe. Therefore it cannot be the case that the world will be renewed.  
 
@@ -259,7 +261,7 @@ Article 2
 
 ***Whether the motion of the heavenly bodies will cease when the world is renewed***
 
-***Obj. 1: To the second we proceed thus.Parallels: *In IV Sent.* d. 47, q. 2, a. 2, qa. 1; *In IV Sent*. d. 43, a. 3, qa. 1; *Super Heb.* 1, lec. 5; *SCG* IV, ch. 97; *De potentia*, q. 5, a. 5; *Super Ioan.* 6, lec. 4; *Comp. theo.* 171. It seems that the motion of the heavenly bodies will not cease at the renewal of the world. For it is said: *while the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease* (Gen 8:22). But night and day and winter and summer come about through the motion of the sun. Therefore the sun’s motion will never cease.***
+Obj. 1: To the second we proceed thus.Parallels: *In IV Sent.* d. 47, q. 2, a. 2, qa. 1; *In IV Sent*. d. 43, a. 3, qa. 1; *Super Heb.* 1, lec. 5; *SCG* IV, ch. 97; *De potentia*, q. 5, a. 5; *Super Ioan.* 6, lec. 4; *Comp. theo.* 171. It seems that the motion of the heavenly bodies will not cease at the renewal of the world. For it is said: *while the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease* (Gen 8:22). But night and day and winter and summer come about through the motion of the sun. Therefore the sun’s motion will never cease.  
 
 Obj. 2: Furthermore: *thus says the Lord, who gives the sun for light by day and the fixed order of the moon and the stars for light by night, who stirs up the sea so that its waves roar . . . “if this fixed order departs from before me,” says the Lord, “then shall the descendants of Israel cease from being a nation before me for all days”* (Jer 31:35–36). But the seed of Israel will never fail but will remain forever. Therefore the laws of day and night as well as the waves of the sea, which are caused by the motion of heaven, will exist forever. Therefore the motion of heaven will never cease.  
 
@@ -329,7 +331,7 @@ Article 3
 
 ***Whether the heavenly bodies will shine with greater clarity***
 
-***Obj. 1: To the third we proceed thus.Parallels: *Super Heb.* 12, lec. 5; *Resp. de Art.* 36, a. 27; *Resp. de Art.* 42, a. 36. It seems that the brilliance of the heavenly bodies will not be increased in this renewal. For this renewal in lower bodies will be through purifying fire. But purifying fire never reaches the heavenly bodies, as was said in the preceding Distinction. Therefore the heavenly bodies will not be renewed by receiving greater brilliance.***
+Obj. 1: To the third we proceed thus.Parallels: *Super Heb.* 12, lec. 5; *Resp. de Art.* 36, a. 27; *Resp. de Art.* 42, a. 36. It seems that the brilliance of the heavenly bodies will not be increased in this renewal. For this renewal in lower bodies will be through purifying fire. But purifying fire never reaches the heavenly bodies, as was said in the preceding Distinction. Therefore the heavenly bodies will not be renewed by receiving greater brilliance.  
 
 Obj. 2: Furthermore, just as the heavenly bodies are the cause of generation in these lower bodies through motion, so also are they through light. But when generation ceases, the motion will cease, as has been said. Therefore likewise the light of the heavenly bodies will cease rather than increase.  
 
@@ -365,7 +367,7 @@ Article 4
 
 ***Whether certain elements will be adorned with the glory of clarity***
 
-***Obj. 1: To the fourth we proceed thus.Parallels: above, a. 2, ad 5; *Super Rom.* 8, lec. 4. It seems that the elements will not be renewed through the reception of any brilliance. For just as light is the proper quality of a heavenly body, so ‘hot’ and ‘cold,’ ‘moist’ and ‘dry’ are the proper qualities of the elements. Therefore just as heaven is renewed by an increase of brilliance, so also the elements should be renewed by an increase of active and passive qualities.***
+Obj. 1: To the fourth we proceed thus.Parallels: above, a. 2, ad 5; *Super Rom.* 8, lec. 4. It seems that the elements will not be renewed through the reception of any brilliance. For just as light is the proper quality of a heavenly body, so ‘hot’ and ‘cold,’ ‘moist’ and ‘dry’ are the proper qualities of the elements. Therefore just as heaven is renewed by an increase of brilliance, so also the elements should be renewed by an increase of active and passive qualities.  
 
 Obj. 2: Furthermore, ‘rare’ and ‘dense’ are proper qualities of the elements, which the elements will not lose in that renewal, as has been said. But the elements’ rarity and density seem to resist brightness, since a bright body must in some way be condensed. Hence the air’s rarity does not seem able to admit of brightness, and likewise neither does the density of the earth, which takes away penetrability. Therefore it cannot be the case that the elements will be renewed through the addition of any brightness.  
 
@@ -397,7 +399,7 @@ Article 5
 
 ***Whether brute animals, plants, and mineral bodies will remain***
 
-***Obj. 1: To the fifth we proceed thus.Parallels: *De potentia,* q. 5, a. 9; *Comp. theo.* 170. It seems that plants and animals will remain in this renewal. For nothing ought to be subtracted from the elements that pertains to their adornment. But the elements are said to be adorned by the animals and plants. Therefore they will not be taken away in this renewal.***
+Obj. 1: To the fifth we proceed thus.Parallels: *De potentia,* q. 5, a. 9; *Comp. theo.* 170. It seems that plants and animals will remain in this renewal. For nothing ought to be subtracted from the elements that pertains to their adornment. But the elements are said to be adorned by the animals and plants. Therefore they will not be taken away in this renewal.  
 
 Obj. 2: Furthermore, just as the elements have served man, so also have animals, plants, and mineral bodies. But the elements will be glorified on account of the aforementioned service. Therefore animals, plants, and minerals will also be glorified.  
 
@@ -427,7 +429,7 @@ Reply Obj. 5: The natural appetite for perpetuity that is in animals and plants 
 
 Exposition of the Text  
 
-****Even though he will raise them by the power of his divinity, and not of his humanity*.*Sententiae* IV, 48.3 (277). 1. On the contrary, it is said in a Gloss*Glossa ordinaria*, PL 114:549. on 1 Corinthians 15 that Christ’s resurrection was the cause of our resurrection. But Christ rose in his humanity. Therefore it is by the power of his humanity that he will raise bodies. And it should be said that, as Damascene says in Book 3,John Damascene, *On the Orthodox Faith*, Bk. 3, ch. 15, PG 94:1509. Christ’s humanity is like an organ of his divinity, as the body is an organ of the soul. From this a given effect can be attributed to Christ’s humanity in two ways. In one way, in itself, as we attribute to it touching a leper and things of this sort. In the other way, as the instrument of his divinity, as we attribute to it the cleansing of the leper by his touch. Now we attribute to Christ’s humanity that his resurrection causes ours, in the way that he cleanses a leper by his touch. And because an instrument acts only by the power of the principal agent, so it is that we say that Christ will raise bodies not by the power of his humanity but of his divinity, although his resurrection is the cause of our resurrection in the way that touching a leper is the cause of cleansing.***
+*Even though he will raise them by the power of his divinity, and not of his humanity*.*Sententiae* IV, 48.3 (277). 1. On the contrary, it is said in a Gloss*Glossa ordinaria*, PL 114:549. on 1 Corinthians 15 that Christ’s resurrection was the cause of our resurrection. But Christ rose in his humanity. Therefore it is by the power of his humanity that he will raise bodies. And it should be said that, as Damascene says in Book 3,John Damascene, *On the Orthodox Faith*, Bk. 3, ch. 15, PG 94:1509. Christ’s humanity is like an organ of his divinity, as the body is an organ of the soul. From this a given effect can be attributed to Christ’s humanity in two ways. In one way, in itself, as we attribute to it touching a leper and things of this sort. In the other way, as the instrument of his divinity, as we attribute to it the cleansing of the leper by his touch. Now we attribute to Christ’s humanity that his resurrection causes ours, in the way that he cleanses a leper by his touch. And because an instrument acts only by the power of the principal agent, so it is that we say that Christ will raise bodies not by the power of his humanity but of his divinity, although his resurrection is the cause of our resurrection in the way that touching a leper is the cause of cleansing.  
 
 *“The resurrection of souls happens through the Word, the Son of God; the resurrection of bodies happens through the Word made flesh in the son of man.”**Sent*. IV, 48.3 (277). 2 citing Augustine, *In Ioannem*, tr. 19 nn 15–16. On the contrary, just as Christ’s resurrection is said to be the cause of our corporeal resurrection, so also it is the cause of our spiritual resurrection, as is clear through the passage: *raised for our justification* (Rom 4:25). And it should be said that both happen principally by divine power and, as it were, instrumentally through the operation of Christ’s humanity. Yet the spiritual resurrection is appropriated to the divinity and the corporeal to the humanity by a kind of appropriation, to preserve likeness between the effect and the cause.  
 

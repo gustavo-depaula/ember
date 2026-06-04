@@ -1,6 +1,8 @@
 # C. 32 - Allegory of the field
 
-***^32:1^ Verbum quod factum est ad Jeremiam a Domino in anno decimo Sedeciae regis Juda: ipse est annus octavus decimus Nabuchodonosor.***
+***Lectio 1***
+
+^32:1^ Verbum quod factum est ad Jeremiam a Domino in anno decimo Sedeciae regis Juda: ipse est annus octavus decimus Nabuchodonosor.  
 
 > ^32:2^ Tunc exercitus regis Babylonis obsidebat Jerusalem, et Jeremias propheta erat clausus in atrio carceris, qui erat in domo regis Juda:
 
@@ -56,7 +58,7 @@ Tertio ponitur emptionis confirmatio: ***scripsi in libro, et signavi***, sigill
 
 Lectio 2  
 
-***^32:12^ Et dedi librum possessionis Baruch filio Neri filii Maasiae in oculis Hanameel patruelis mei, in oculis testium, qui scripti erant in libro emptionis, et in oculis omnium Judaeorum qui sedebant in atrio carceris.***
+^32:12^ Et dedi librum possessionis Baruch filio Neri filii Maasiae in oculis Hanameel patruelis mei, in oculis testium, qui scripti erant in libro emptionis, et in oculis omnium Judaeorum qui sedebant in atrio carceris.  
 
 > ^32:13^ Et praecepi Baruch coram eis, dicens:
 
@@ -76,7 +78,7 @@ Tertio assignantur in custodiam: ***et pones illos in vase fictili***.
 
 Lectio 3  
 
-***^32:16^ Et oravi ad Dominum postquam tradidi librum possessionis Baruch filio Neri, dicens:***
+^32:16^ Et oravi ad Dominum postquam tradidi librum possessionis Baruch filio Neri, dicens:  
 
 > ^32:17^ heu, heu, heu, Domine Deus. Ecce tu fecisti caelum, et terram in fortitudine tua magna, et in brachio tuo extento. Non erit tibi difficile omne verbum,
 
@@ -112,7 +114,7 @@ Secundo ponit justitiae executionem: ***cujus oculi aperti sunt super omnes vias
 
 Lectio 4  
 
-***^32:20^ Qui posuisti signa, et portenta in terra Aegypti usque ad diem hanc, et in Israel, et in hominibus, et tibi fecisti nomen sicut est dies haec.***
+^32:20^ Qui posuisti signa, et portenta in terra Aegypti usque ad diem hanc, et in Israel, et in hominibus, et tibi fecisti nomen sicut est dies haec.  
 
 > ^32:21^ Et eduxisti populum tuum Israel de terra Aegypti in signis, et in portentis, et in manu robusta, et in brachio extento, et in terrore magno;
 
@@ -134,7 +136,7 @@ Tertio poenae inflictionem: ***et evenerunt***. Habac. 1: *ipse super omnem muni
 
 Lectio 5  
 
-***^32:25^ Et tu dicis mihi, Domine Deus: eme agrum argento, et adhibe testes, cum urbs data sit in manus Chaldaeorum?***
+^32:25^ Et tu dicis mihi, Domine Deus: eme agrum argento, et adhibe testes, cum urbs data sit in manus Chaldaeorum?  
 
 > **174**. Hic miratur divinam jussionem: ***et tu dicis mihi . . . eme agrum?*** quod mirum est, cum non sit nunc tempus emendi. Ezech. 7: *qui emit non laetetur, et qui vendit non lugeat: quia ira super omnem populum ejus*.
 
@@ -216,7 +218,7 @@ Tertio sanctitatis acceptationem: ***et laetabor***, idest acceptabo bona eorum.
 
 Lectio 7  
 
-***^32:41b^ Et plantabo eos in terra ista, in veritate, in toto corde meo, et in tota anima mea;***
+^32:41b^ Et plantabo eos in terra ista, in veritate, in toto corde meo, et in tota anima mea;  
 
 > ^32:42^ quia haec dicit Dominus: sicut adduxi super populum istum omne malum hoc grande, sic adducam super eos omne bonum quod ego loquor ad eos.
 

@@ -1,8 +1,10 @@
 # D. 29 - Grace in the original state of man
 
+***Grace in the original state of man***
+
 ***Division of the text***
 
-***After he has addressed grace absolutely, here he addresses it by comparison to the state of the first man in his first state. This is divided into two parts.***
+After he has addressed grace absolutely, here he addresses it by comparison to the state of the first man in his first state. This is divided into two parts.  
 
 In the first, he inquires whether man in the first state had grace.  
 
@@ -62,7 +64,7 @@ Article 1
 
 ***Whether nature in the state of innocence needed grace***
 
-***To the first we proceed as follows. It seems that man in the state of innocence did not need grace.***
+To the first we proceed as follows. It seems that man in the state of innocence did not need grace.  
 
 Obj. 1: For grace is given to men that they may be received by God. But when human nature was integral, without any corruption of sin, man was received by God from natural goodness. For every good, especially one not mixed with evil, is received by God. Therefore, he did not need a superadded grace.  
 
@@ -98,7 +100,7 @@ Article 2
 
 ***Whether man before sin had grace***
 
-***To the second we proceed as follows.Parallel texts: *In II Sent*., d. 20, q. 2, a. 3; *ST* I.95.1; *On Evil*, q. 18, a. 4, ad 3. It seems that man before sin did not have grace.***
+To the second we proceed as follows.Parallel texts: *In II Sent*., d. 20, q. 2, a. 3; *ST* I.95.1; *On Evil*, q. 18, a. 4, ad 3. It seems that man before sin did not have grace.  
 
 Obj. 1: For whoever has grace can progress to the merit of life by the fact that through grace one merits an increase of grace and its consummation. But, as the Master said above,*Sent*. II, 24.1(140).2. man in the first state did not have that whereby he could progress to the merit of life. Therefore, he did not have grace.  
 
@@ -138,7 +140,7 @@ Article 3
 
 ***Whether man in the first state would have had as much grace as he had after sin***
 
-***To the third we proceed as follows. It seems that in the first state man would not have had as much grace as after sin.***
+To the third we proceed as follows. It seems that in the first state man would not have had as much grace as after sin.  
 
 Obj. 1: For, as the Philosopher says,Aristotle, *Nicomachean Ethics* 10.8, 1178b10–18. it is ridiculous to posit temperance and fortitude in the gods, since in them the passions are not innate nor enter in, concerning which fortitude and temperance partake in a mean. But in the first state Adam would have lacked passions of this sort. Therefore, he consequently would have lacked these virtues, which man had after sin. Therefore, man would not have had as many graces before sin as he had after sin.  
 
@@ -174,9 +176,9 @@ Reply Obj. 5: Christ suffered to repair man’s nature. Hence it is not apparent
 
 Article 4  
 
-***Whether man’s works are more efficacious for meriting grace after sin than before sin***
+Whether man’s works are more efficacious for meriting grace after sin than before sin  
 
-***To the fourth we proceed as follows. It seems that after sin man’s works would have been more efficacious for meriting than before sin.***
+To the fourth we proceed as follows. It seems that after sin man’s works would have been more efficacious for meriting than before sin.  
 
 Obj. 1: For in the first state, just as man had nothing impelling him to evil, so also he had nothing drawing him away from the good. But the Master said above*Sent*. II, 24.1(140).7. that the first man would not have merited by resisting temptation because there was nothing to impel him to evil. Therefore, by doing the good he likewise would have merited either nothing or very little, since there was nothing to impede him from the good.  
 
@@ -210,9 +212,9 @@ Reply Obj. 5: Even though man now reaches the same term he would have reached be
 
 Article 5  
 
-***Whether the expulsion from paradise and the privation of original justice is a fitting punishment for the first transgression***
+Whether the expulsion from paradise and the privation of original justice is a fitting punishment for the first transgression  
 
-***To the fifth we proceed as follows. It seems that man’s punishment for the sin of the first transgression is unfittingly determined in the text.*Sent*. II, 29.3(187).1.***
+To the fifth we proceed as follows. It seems that man’s punishment for the sin of the first transgression is unfittingly determined in the text.*Sent*. II, 29.3(187).1.  
 
 Obj. 1: For what was made for the sake of man should be of service to some man. But the earthly paradise was made for man’s sake, as were the other creatures. Therefore, since it is of no service to man after he has been cast out, it seems that he should not have been expelled from there.  
 
@@ -248,7 +250,7 @@ Reply Obj. 6: Thus, to the sixth objection we should say that the tree of life w
 
 Exposition of the text  
 
-****It operates by freeing and preparing the will of man to the good*.*Sent*. II, 29.1(185).2. Freeing refers to expelling sin, and preparing to informing the soul.***
+*It operates by freeing and preparing the will of man to the good*.*Sent*. II, 29.1(185).2. Freeing refers to expelling sin, and preparing to informing the soul.  
 
 *‘Yet the same free decision was not sufficient to have or retain righteousness without the imparting of divine aid*.’*Sent*. II, 29.1(185).2, quoting Augustine, *Enchiridion de fide, spe et caritate*, ch. 106 (CCSL 46; PL 40:281). On the contrary, it was said above that, although man did not have that whereby he could make progress, he did have that whereby he could stand. Therefore, free decision was sufficient to retain righteousness.  
 

@@ -1,8 +1,10 @@
 # D. 8 - The divine essence
 
+***The divine essence***
+
 ***Division of the first part of the text***
 
-***Having manifested the Trinity of persons in the unity of essence, here he begins to go through his consideration of things that pertain to each of them. Now, in the divine there are three aspects: the common essence, the distinct person, and the distinguishing property. Therefore this part is divided into two: in the first, he considers them according to themselves; in the second, he considers how they are related to each other, at *after what has been said above, it is necessary to consider more deeply and inquire*.*Sent*. I, 33.1(143).1.***
+Having manifested the Trinity of persons in the unity of essence, here he begins to go through his consideration of things that pertain to each of them. Now, in the divine there are three aspects: the common essence, the distinct person, and the distinguishing property. Therefore this part is divided into two: in the first, he considers them according to themselves; in the second, he considers how they are related to each other, at *after what has been said above, it is necessary to consider more deeply and inquire*.*Sent*. I, 33.1(143).1.  
 
 The first part is divided into three. In the first, he considers the essence; in the second, he considers the persons, at *now let us proceed to the distinction of persons*;*Sent*. I, 9.1(29).1. in the third, he considers the properties, at *it is now necessary that we say something about the properties of the persons*.*Sent*. I, 26.1(105).1.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether “to exist” is said properly of God***
 
-***To the first we proceed as follows. It seems that “to exist” is not properly said of God.***
+To the first we proceed as follows. It seems that “to exist” is not properly said of God.  
 
 Obj. 1: For that is proper to something that belongs to it alone. But to exist belongs not only to God but also to created things. Therefore it seems that to exist does not properly belong to God.  
 
@@ -64,7 +66,7 @@ Article 2
 
 ***Whether God is the existence of all things***
 
-***To the second we proceed as follows. It seems that God is the existence of all things.***
+To the second we proceed as follows. It seems that God is the existence of all things.  
 
 Obj. 1: This seems so because of what Dionysius says in the *Heavenly Hierarchy* that *the existence of all things is the above-existence of the divinity*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 1 (PG 3:178). He also says this in *On the Divine Name*s: *God himself is the existence for all existing things*.Pseudo-Dionysius, *On the Divine Names*, ch. 5, para. 4 (PG 3:818).  
 
@@ -96,7 +98,7 @@ Article 3
 
 ***Whether the name “he who is” is the first among the divine names***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.13.11; *On the Power of God*, q. 2, a. 1; q. 7, a. 5; q. 10, a. 1, ad 9; *Commentary on Dionysius’s On the Divine Names*, ch. 5, lect. 1. For it seems that the name “he who is” is not the first among the divine names.***
+To the third we proceed as follows.Parallel texts: *ST* I.13.11; *On the Power of God*, q. 2, a. 1; q. 7, a. 5; q. 10, a. 1, ad 9; *Commentary on Dionysius’s On the Divine Names*, ch. 5, lect. 1. For it seems that the name “he who is” is not the first among the divine names.  
 
 Obj. 1: For one should treat prior things prior. But Dionysius treats the good before the existent in *On the Divine Names*.Pseudo-Dionysius, *On the Divine Names*, cc. 4, 5 (PG 3:694, 3:815). Therefore it seems that “good” is prior to “being.”  
 
@@ -126,7 +128,7 @@ Question 2
 
 ***Eternity***
 
-***Next, one asks about the measure of the divine existence, which is eternity. Three things are asked about this:***
+Next, one asks about the measure of the divine existence, which is eternity. Three things are asked about this:  
 
 first, what eternity is;  
 
@@ -138,7 +140,7 @@ Article 1
 
 ***Whether Boethius’s definition of eternity is fitting***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.10.1; *Commentary on the Book of Causes*, lect. 2.***
+To the first we proceed as follows.Parallel texts: *ST* I.10.1; *Commentary on the Book of Causes*, lect. 2.  
 
 Obj. 1: In the *Consolation of Philosophy*, Boethius asserts as the definition of eternity: *eternity is the simultaneously whole and perfect possession of boundless life*.Boethius, *Consolation of Philosophy*, bk. 5, prose 6 (PG 63:858). But this definition seems to be assigned unfittingly. This seems so because “boundless” signifies a negation. But no negation makes one certain about anything. Therefore it seems that it should not be placed in the definition of eternity.  
 
@@ -172,7 +174,7 @@ Article 2
 
 ***Whether eternity belongs to God alone***
 
-***To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 49, q. 1, a. 2, qa. 3; *ST* I.10.3; *Quodl. X*, q. 2; *Commentary on Dionysius’s On the Divine Names*, ch. 10, lect. 3; *Commentary on the Book of Causes*, lect. 2. It seems that eternity does not belong to God alone.***
+To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 49, q. 1, a. 2, qa. 3; *ST* I.10.3; *Quodl. X*, q. 2; *Commentary on Dionysius’s On the Divine Names*, ch. 10, lect. 3; *Commentary on the Book of Causes*, lect. 2. It seems that eternity does not belong to God alone.  
 
 Obj. 1: For eternity is nobler than goodness. But goodness is communicated to created things, such that a created thing is good due to God being good. Therefore it seems that so is eternity, so that other things are eternal due to him.  
 
@@ -206,7 +208,7 @@ Article 3
 
 ***Whether temporal words can be said of God***
 
-***To the third we proceed as follows.Parallel text: above, d. 4, q. 2, a. 2. It appears that temporal words cannot be said of God.***
+To the third we proceed as follows.Parallel text: above, d. 4, q. 2, a. 2. It appears that temporal words cannot be said of God.  
 
 Obj. 1: For to each thing there corresponds a proper measure. But time is the proper measure of motion. Therefore, since in God there is no motion, it seems that nothing temporal can be said of God.  
 
@@ -236,7 +238,7 @@ Reply Obj. 6: The future tense is most remote from divine predication, because i
 
 Exposition of the first part of the text  
 
-****Now we must turn to the truth, or property, and the unchangeability and simplicity of the divine nature, or substance, or essence*.*Sent*. I, 8.1(21).1. It is asked, since there are many essential attributes, why does he make mention only of these three? And one should say that the Master intends to touch only on those that pertain to the perfection of the divine existence insofar as it is perfect existence. Now, the perfection of existence can be attended to in three ways: either insofar as privation or non-existence is excluded, and such perfection is touched on by “truth” or “property,” which are being taken as the same thing, as was said in the previous article; or insofar as potentiality is excluded, and “unchangeability” is placed here for this; or as regards the integrity of the existence itself, and “simplicity” is placed here for this. For whatever is in a simple thing is its very existence.***
+*Now we must turn to the truth, or property, and the unchangeability and simplicity of the divine nature, or substance, or essence*.*Sent*. I, 8.1(21).1. It is asked, since there are many essential attributes, why does he make mention only of these three? And one should say that the Master intends to touch only on those that pertain to the perfection of the divine existence insofar as it is perfect existence. Now, the perfection of existence can be attended to in three ways: either insofar as privation or non-existence is excluded, and such perfection is touched on by “truth” or “property,” which are being taken as the same thing, as was said in the previous article; or insofar as potentiality is excluded, and “unchangeability” is placed here for this; or as regards the integrity of the existence itself, and “simplicity” is placed here for this. For whatever is in a simple thing is its very existence.  
 
 *Nature, or substance, or essence*.*Sent*. I, 8.1(21).1. Note that these three are being taken for the same thing. For “nature” is not being taken here insofar as it names the principle of any act, but insofar as it indicates the form following on the whole, just as humanity is the nature of a man. Likewise, “substance” is not being taken here for the individual subsisting in the genus of substance, but insofar as it names the existence of the first predicate, insofar as it is divided against accident. And this is the same as an essence not existing in something as in a subject.  
 
@@ -258,7 +260,7 @@ Question 3
 
 ***Divine unchangeability***
 
-****The essence of the one God is also properly called unchangeable*.*Sent*. I, 8.2(22).1. Here he treats of the second attribute, that is, his immutability, showing that God alone is unchangeable, whereas all created things are changeable in some way. About this three things are asked:***
+*The essence of the one God is also properly called unchangeable*.*Sent*. I, 8.2(22).1. Here he treats of the second attribute, that is, his immutability, showing that God alone is unchangeable, whereas all created things are changeable in some way. About this three things are asked:  
 
 first, whether God is altogether unchangeable;  
 
@@ -270,7 +272,7 @@ Article 1
 
 ***Whether God is in any way changeable***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.9.1; *SCG* I.13‒14; II.25; *On the Power of God*, q. 8, a. 1, ad 9; *Compendium theologiae*, ch. 4; *Commentary on Boethius’s On the Trinity*, q. 5, a. 4, ad 2. It appears that God is changeable in a certain way.***
+To the first we proceed as follows.Parallel texts: *ST* I.9.1; *SCG* I.13‒14; II.25; *On the Power of God*, q. 8, a. 1, ad 9; *Compendium theologiae*, ch. 4; *Commentary on Boethius’s On the Trinity*, q. 5, a. 4, ad 2. It appears that God is changeable in a certain way.  
 
 Obj. 1: For Wisdom 7:24 says, *wisdom is more mobile than any motion*. But the divine wisdom, of which it is speaking, is God himself. Therefore and so on.  
 
@@ -300,7 +302,7 @@ Article 2
 
 ***Whether every created thing is changeable***
 
-***To the second we proceed as follows.Parallel texts: below, d. 19, q. 5, a. 3; *In II Sent*., d. 7, q. 1, a. 1; *ST* I.9.2; III.57.1, ad 1; *Disputed Questions on Evil*, q. 16, a. 2, ad 6; *Quodl. X*, q. 2. It appears that not every created thing is changeable.***
+To the second we proceed as follows.Parallel texts: below, d. 19, q. 5, a. 3; *In II Sent*., d. 7, q. 1, a. 1; *ST* I.9.2; III.57.1, ad 1; *Disputed Questions on Evil*, q. 16, a. 2, ad 6; *Quodl. X*, q. 2. It appears that not every created thing is changeable.  
 
 Obj. 1: For every change is a generation or a corruption or a motion, as is said in *Physics* 5.Aristotle, *Physics* 5.1, 224a34‒35. But there are some things in which are found none of these, like angels and the like, which are separated from matter and motion, according to the philosophers.Aristotle, *Metaphysics* 12.8, 1073b18‒1074a20; 12.9, 1075a1‒5. Therefore not everything created is changeable.  
 
@@ -336,7 +338,7 @@ Article 3
 
 ***Whether the modes of change in created things is fittingly assigned by Augustine***
 
-***To the third we proceed as follows. It seems that Augustine has not fittingly assigned the modes of change in created things.Augustine’s division is summarized in *Sent*. I, 8.2(22).2: *God does not move through places or times, but the creature moves through both*. *To move through times is to change according to affections. But God cannot change according to place or affection*. This summary is based on Augustine, *On the Literal Interpretation of Genesis*, bk. 8, ch. 20 (CSEL 28.1:388; PL 34:388).***
+To the third we proceed as follows. It seems that Augustine has not fittingly assigned the modes of change in created things.Augustine’s division is summarized in *Sent*. I, 8.2(22).2: *God does not move through places or times, but the creature moves through both*. *To move through times is to change according to affections. But God cannot change according to place or affection*. This summary is based on Augustine, *On the Literal Interpretation of Genesis*, bk. 8, ch. 20 (CSEL 28.1:388; PL 34:388).  
 
 Obj. 1: For according to this, change is where one finds motion, as according to quantity or according to quality. But there is no motion in “when,” as the Philosopher says.Aristotle, *Physics* 5.1, 225b9‒12. Therefore it seems that created things “moving through times” says nothing.  
 
@@ -358,7 +360,7 @@ Reply Obj. 4: Time is spoken of in two ways. In one way, it is the number of the
 
 Division of the second part of the text  
 
-****The same substance alone is properly and truly simple*.*Sent*. I, 8.3(23).1. This is the third part of the distinction, wherein the Master considers the divine simplicity. And it is divided into two parts: in the first, he proposes what he intends; in the second, he shows what he proposed, at *in order to understand how that substance is simple, as Augustine teaches you*.*Sent*. I, 8.3(23).1. And this latter is divided into two: in the first, he manifests the multiplicity of what is created; in the second, the divine simplicity, at *but God, although he is called in many ways, yet is truly and most highly simple*.*Sent*. I, 8.4(24).3, quoting Augustine, *On the Trinity*, bk. 6, ch. 7 (CCSL 50; PL 42:928).***
+*The same substance alone is properly and truly simple*.*Sent*. I, 8.3(23).1. This is the third part of the distinction, wherein the Master considers the divine simplicity. And it is divided into two parts: in the first, he proposes what he intends; in the second, he shows what he proposed, at *in order to understand how that substance is simple, as Augustine teaches you*.*Sent*. I, 8.3(23).1. And this latter is divided into two: in the first, he manifests the multiplicity of what is created; in the second, the divine simplicity, at *but God, although he is called in many ways, yet is truly and most highly simple*.*Sent*. I, 8.4(24).3, quoting Augustine, *On the Trinity*, bk. 6, ch. 7 (CCSL 50; PL 42:928).  
 
 The first is divided into two: in the first of these he excludes simplicity from the bodily creature; in the second, he excludes it from the spiritual creature, at *as for the spiritual creature, such as the soul, it is simple in comparison to the body; but if it is not compared to the body, then it is manifold and not simple*.*Sent*. I, 8.4(24).2, quoting Augustine, *On the Trinity*, bk. 6, ch. 6 (CCSL 50; PL 42:928).  
 
@@ -392,7 +394,7 @@ Article 1
 
 ***Whether God is altogether simple***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.3.7; *SCG* I.16 & 18; *On the Power of God*, q. 7, a. 1; *Compendium theologiae*, ch. 9; *Commentary on the Book of Causes*, lect. 21. It seems that God is not wholly simple.***
+To the first we proceed as follows.Parallel texts: *ST* I.3.7; *SCG* I.16 & 18; *On the Power of God*, q. 7, a. 1; *Compendium theologiae*, ch. 9; *Commentary on the Book of Causes*, lect. 21. It seems that God is not wholly simple.  
 
 Obj. 1: For the being to which no addition is made is the common, or universal, being predicated of all things, about which nothing can be truly denied. But God is not such. Therefore to his existence something can be added. Therefore he is not simple.  
 
@@ -426,7 +428,7 @@ Article 2
 
 ***Whether God is in the category of substance***
 
-***To the second we proceed as follows.Parallel texts: below, d. 19, q. 4, a. 2; *ST* I.3.5; *SCG* I.25; *On the Power of God*, q. 7. a. 3; *Compendium theologiae*, ch. 12; *On Being and Essence*, ch. 6. It seems that God is in the category of substance.***
+To the second we proceed as follows.Parallel texts: below, d. 19, q. 4, a. 2; *ST* I.3.5; *SCG* I.25; *On the Power of God*, q. 7. a. 3; *Compendium theologiae*, ch. 12; *On Being and Essence*, ch. 6. It seems that God is in the category of substance.  
 
 Obj. 1: For everything that exists is either substance or accident. But God is not an accident, so he is a substance. Therefore, since substance is predicated of him as a substantial predicate and not vice versa, since not every substance is God, it seems that it is predicated of him as a genus, so God is in the genus of substance.  
 
@@ -456,7 +458,7 @@ Article 3
 
 ***Whether the other categories are said of God***
 
-***To the third we proceed as follows. It seems that the other categories are also said of God.***
+To the third we proceed as follows. It seems that the other categories are also said of God.  
 
 Obj. 1: For of whatever the species is predicated, so is the genus. But knowledge, which is a species of quality, is found in God, as is magnitude, or greatness, which is a species of quantity. Therefore both quantity and quality are said of him.  
 
@@ -488,7 +490,7 @@ Question 5
 
 ***Simplicity of a created thing***
 
-***Next we ask about simplicity on the side of what is created. And three things are asked about this:***
+Next we ask about simplicity on the side of what is created. And three things are asked about this:  
 
 first, whether any created thing is simple;  
 
@@ -526,7 +528,7 @@ Article 2
 
 ***Whether the soul is simple***
 
-***To the second we proceed as follows.Parallel texts: *In II Sent*., d. 17, q. 1, a. 2; *ST* I.75.5; *SCG* II.50; *Quodl. III*, q. 8; *IX*, q. 4, a. 1; *Disputed Question on Spiritual Creatures*, a. 1; a. 9, ad 9; *Disputed Questions on the Soul*, a. 6. Note that it becomes clear in the response that the soul Aquinas has in mind is the human soul. It seems that the soul is simple.***
+To the second we proceed as follows.Parallel texts: *In II Sent*., d. 17, q. 1, a. 2; *ST* I.75.5; *SCG* II.50; *Quodl. III*, q. 8; *IX*, q. 4, a. 1; *Disputed Question on Spiritual Creatures*, a. 1; a. 9, ad 9; *Disputed Questions on the Soul*, a. 6. Note that it becomes clear in the response that the soul Aquinas has in mind is the human soul. It seems that the soul is simple.  
 
 Obj. 1: For the soul is the form of the body, as the Philosopher says.Aristotle, *On the Soul* 2.1, 412a21. But he says in the same placeAristotle, *On the Soul* 2.1, 412a7‒9. that neither form nor matter is composed. Therefore the soul is not composed.  
 
@@ -576,7 +578,7 @@ Article 3
 
 ***Whether the whole soul is in every part of the body***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.76.8; *SCG* II.72; *On Spiritual Creatures*, a. 4; *Disputed Questions on the Soul*, a. 10. It seems that the whole soul is not in every part of the body.***
+To the third we proceed as follows.Parallel texts: *ST* I.76.8; *SCG* II.72; *On Spiritual Creatures*, a. 4; *Disputed Questions on the Soul*, a. 10. It seems that the whole soul is not in every part of the body.  
 
 Obj. 1: For because the soul is a simple form, its wholeness is considered in reference to its powers. But not all the powers of the soul are in every part of the body. Therefore the whole is not in every part of the body.  
 
@@ -608,7 +610,7 @@ Reply Obj. 4: The soul is not in the body or in the parts of the body as in a pl
 
 Exposition of the second part of the text  
 
-****Desire is one thing, fear another, joy another, sadness another*.*Sent*. I, 8.4(24).2, quoting Augustine, *On the Trinity*, bk. 6, ch. 6 (CCSL 50; PL 42:928). This seems not to designate a composition of the soul, since these things, according to the Philosopher,Aristotle, *On the Soul* 1.1, 403a3‒25. are passions of the composite. And to this one should say that love, fear, and all such are spoken of in two ways: either according to the bodily passion, and in this sense they are passions of the composite, nor do they remain in the separated soul; or insofar as they consist in an apprehension and intellectual affection, and in this sense they befall the soul itself according to itself, and are in it even after separation from the body. Whence the Philosopher also assertsAristotle, *Metaphysics* 12.7, 1072b18; *Nicomachean Ethics* 7.14, 1154b26. that there is delight even in the divine nature.***
+*Desire is one thing, fear another, joy another, sadness another*.*Sent*. I, 8.4(24).2, quoting Augustine, *On the Trinity*, bk. 6, ch. 6 (CCSL 50; PL 42:928). This seems not to designate a composition of the soul, since these things, according to the Philosopher,Aristotle, *On the Soul* 1.1, 403a3‒25. are passions of the composite. And to this one should say that love, fear, and all such are spoken of in two ways: either according to the bodily passion, and in this sense they are passions of the composite, nor do they remain in the separated soul; or insofar as they consist in an apprehension and intellectual affection, and in this sense they befall the soul itself according to itself, and are in it even after separation from the body. Whence the Philosopher also assertsAristotle, *Metaphysics* 12.7, 1072b18; *Nicomachean Ethics* 7.14, 1154b26. that there is delight even in the divine nature.  
 
 *God . . . is a Creator without need*.*Sent*. I, 8.6(26).1, quoting Augustine, *On the Trinity*, bk. 6, ch. 4 (CCSL 50; PL 42:927). He says this because all agents other than he act for the sake of an end other than themselves, and therefore they stand in need by the acquisition of their end. God himself, however, does all things for the sake of his very self, as is said in Proverbs 16:4: *the Lord has made the universe for the sake of his very self*;RSV: *the Lord has made everything for its purpose*. and therefore he acts without need.  
 

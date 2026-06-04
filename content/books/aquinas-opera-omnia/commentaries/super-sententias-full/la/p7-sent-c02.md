@@ -1,6 +1,8 @@
 # D. 1 - Sacraments in general
 
-***Prima in duas: in prima dicitur de quo est intentio: in secunda prosequitur, ibi: *sacramentum est sacrae rei signum*. Circa primum duo facit: primo proponit materiam de qua agendum est. Secundo ostendit quid de ea primo dicendum sit, ibi: *de quibus quattuor primo consideranda sunt*.***
+***De sacramentis in generali***
+
+Prima in duas: in prima dicitur de quo est intentio: in secunda prosequitur, ibi: *sacramentum est sacrae rei signum*. Circa primum duo facit: primo proponit materiam de qua agendum est. Secundo ostendit quid de ea primo dicendum sit, ibi: *de quibus quattuor primo consideranda sunt*.  
 
 *Sacramentum est sacrae rei signum*. Hic determinare incipit de sacramentis in communi; et dividitur in partes duas: in prima determinat de sacramentis secundum se; in secunda de divisione sacramenti in suas partes, ibi: *duo autem sunt in quibus sacramentum consistit*. Prima in duas: in prima ostendit quid est sacramentum; in secunda necessitatem institutionis sacramentorum, ibi, *triplici autem ex causa sacramenta instituta sunt*. Prima in duas: in prima venatur genus sacramenti; in secunda differentias, ibi: *signorum vero alia sunt naturalia . . . alia data*. Circa primum duo facit: primo ponit sacramentum in genere signi; secundo definit signum, ibi: *signum vero est res praeter speciem quam ingerit sensibus, aliquid aliud ex se faciens in cognitionem venire*.  
 
@@ -26,7 +28,7 @@ Primo, quid sit sacramentum;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod inconvenienter definiatur sacramentum per hoc quod dicitur: *sacramentum est sacrae rei signum*. Sacramenta enim sunt alligamenta sanitatis, ut dicitur in Glossa super illud Psalm. 146, 3: *qui sanat contritos corde*. Sed de ratione medicamenti non est ut aliquid significet, sed solum ut efficiat sanitatem. Ergo sacramentum non est signum.***
+Ad primum sic proceditur. Videtur quod inconvenienter definiatur sacramentum per hoc quod dicitur: *sacramentum est sacrae rei signum*. Sacramenta enim sunt alligamenta sanitatis, ut dicitur in Glossa super illud Psalm. 146, 3: *qui sanat contritos corde*. Sed de ratione medicamenti non est ut aliquid significet, sed solum ut efficiat sanitatem. Ergo sacramentum non est signum.  
 
 Praeterea, omnes creaturae sensibiles sunt signa invisibilium divinorum, ut patet Rom. 1, nec tamen dici possunt sacramenta. Ergo male definitur sacramentum *sacrae rei signum*.  
 
@@ -38,7 +40,7 @@ Praeterea, signum contra causam dividitur. Sed aliquod sacramentum est causa. Er
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod male definiatur signum, cum dicitur: *signum est res praeter speciem quam ingerit sensibus, aliquid aliud ex se faciens in cognitionem venire*. Unum enim oppositorum non debet poni in definitione alterius. Sed res et signa ex opposito dividuntur, ut patuit in 1 dist. primi libri. Ergo res non debet poni in definitione signi.***
+Ulterius. Videtur quod male definiatur signum, cum dicitur: *signum est res praeter speciem quam ingerit sensibus, aliquid aliud ex se faciens in cognitionem venire*. Unum enim oppositorum non debet poni in definitione alterius. Sed res et signa ex opposito dividuntur, ut patuit in 1 dist. primi libri. Ergo res non debet poni in definitione signi.  
 
 Praeterea, secundum Philosophum in libro *Priorum*, omnis effectus suae causae signum esse potest. Sed quidam effectus sunt spirituales, qui nullam speciem ingerunt sensibus. Ergo non omne signum aliquam speciem sensibus ingerit.  
 
@@ -46,7 +48,7 @@ Praeterea, omnis locutio fit per aliqua signa. Sed angeli loquuntur non prolato 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod haec definitio male detur: *sacramentum est invisibilis gratiae visibilis forma, ut imaginem gerat, et causa existat*. Sicut enim in littera dicitur, in duobus sacramenta consistunt, scilicet in rebus et verbis. Sed sicut res sunt visibiles, ita verba sunt audibilia. Ergo debuit dicere: visibilis et audibilis forma.***
+Ulterius. Videtur quod haec definitio male detur: *sacramentum est invisibilis gratiae visibilis forma, ut imaginem gerat, et causa existat*. Sicut enim in littera dicitur, in duobus sacramenta consistunt, scilicet in rebus et verbis. Sed sicut res sunt visibiles, ita verba sunt audibilia. Ergo debuit dicere: visibilis et audibilis forma.  
 
 Praeterea, omnis forma est intrinseca vel exemplaris. Sed sacramenta non sunt formae intrinsecae invisibilis gratiae, ut per se patet: nec iterum formae exemplares, cum gratia invisibilis non imitetur rem visibilem, sed e converso. Ergo sacramentum nullo modo est forma invisibilis gratiae.  
 
@@ -58,7 +60,7 @@ Praeterea, in definitione generis non debet poni differentia constitutiva alicuj
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod definitio quam ponit Augustinus, sit incompetens; scilicet: *sacramentum est in quo sub tegumento rerum visibilium divina virtus secretius operatur salutem*. Occultatio enim manifestationi opponitur. Sed signum instituitur ad manifestandum. Cum ergo tegumentum occultationem importet, videtur quod male ponatur in definitione sacramenti.***
+Ulterius. Videtur quod definitio quam ponit Augustinus, sit incompetens; scilicet: *sacramentum est in quo sub tegumento rerum visibilium divina virtus secretius operatur salutem*. Occultatio enim manifestationi opponitur. Sed signum instituitur ad manifestandum. Cum ergo tegumentum occultationem importet, videtur quod male ponatur in definitione sacramenti.  
 
 Praeterea, frequenter accipientes sacramenta, salutem non consequuntur. Ergo operatio salutis non debet poni in definitione sacramenti.  
 
@@ -66,7 +68,7 @@ Praeterea, in sanctis hominibus divina virtus operatur ad salutem ipsorum, ut di
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod definitio Hugonis a sancto Victore, sit incompetens, quae talis est: *sacramentum est corporale vel materiale elementum, extrinsecus oculis suppositum, ex institutione signans, ex similitudine repraesentans, et ex sanctificatione invisibilem gratiam continens*. Materia enim non praedicatur de toto. Sed materiale elementum est materia sacramenti. Ergo male ponitur in definitione sacramenti ut genus.***
+Ulterius. Videtur quod definitio Hugonis a sancto Victore, sit incompetens, quae talis est: *sacramentum est corporale vel materiale elementum, extrinsecus oculis suppositum, ex institutione signans, ex similitudine repraesentans, et ex sanctificatione invisibilem gratiam continens*. Materia enim non praedicatur de toto. Sed materiale elementum est materia sacramenti. Ergo male ponitur in definitione sacramenti ut genus.  
 
 Praeterea, in quibusdam sacramentis non est elementum, sed elementatum, sicut in extrema unctione est oleum. Ergo definitio non est communis omnibus sacramentis.  
 
@@ -76,7 +78,7 @@ Praeterea, si est aliqua similitudo, illa est ex naturali proprietate materialis
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sacramentum secundum proprietatem vocabuli videtur importare sanctitatem active, ut dicatur sacramentum quo aliquid sacratur, sicut ornamentum quo aliquid ornatur. Sed quia actiones activorum dicuntur esse proportionatae conditionibus passivorum, ideo in sanctificatione qua homo sanctificatur, debet esse talis sanctificandi modus qui homini competat secundum quod rationalis est, quia ex hoc est homo. Inquantum autem est rationalis, habet cognitionem a sensibilibus ortam; unde oportet quod sanctificetur hoc modo quod sua sanctificatio sibi innotescat per similitudines sensibilium rerum; et secundum hoc invenitur diversa acceptio sacramenti. Aliquando enim sacramentum importat rem qua fit consecratio; et sic passio Christi dicitur sacramentum; et haec est prima acceptio quam Magister ponit.***
+Respondeo dicendum ad primam quaestionem, quod sacramentum secundum proprietatem vocabuli videtur importare sanctitatem active, ut dicatur sacramentum quo aliquid sacratur, sicut ornamentum quo aliquid ornatur. Sed quia actiones activorum dicuntur esse proportionatae conditionibus passivorum, ideo in sanctificatione qua homo sanctificatur, debet esse talis sanctificandi modus qui homini competat secundum quod rationalis est, quia ex hoc est homo. Inquantum autem est rationalis, habet cognitionem a sensibilibus ortam; unde oportet quod sanctificetur hoc modo quod sua sanctificatio sibi innotescat per similitudines sensibilium rerum; et secundum hoc invenitur diversa acceptio sacramenti. Aliquando enim sacramentum importat rem qua fit consecratio; et sic passio Christi dicitur sacramentum; et haec est prima acceptio quam Magister ponit.  
 
 Aliquando vero includit modum consecrationis, qui homini competit secundum quod causae sanctificantes et sua sanctificatio per similitudines sensibilium sibi notificantur; et sic sacramenta novae legis sacramenta dicuntur: quia et consecrant, et sanctitatem significant modo praedicto, et etiam primas sanctificationis causas significant; sicut baptismus et*baptismus et.—baptismus sanctificat et* PLE. puritatem designat, et mortis Christi signum est.  
 
@@ -96,7 +98,7 @@ Ad quintum dicendum, quod signum, quantum est in se, importat aliquid manifestum
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut dictum est, signum importat aliquod notum quo ad nos, quo manuducimur in alterius cognitionem. Res autem primo notae nobis, sunt res cadentes sub sensu, a quo omnis nostra cognitio ortum habet; et ideo signum quantum ad primam sui institutionem significat aliquam rem sensibilem, prout per eam manuducimur in cognitionem alicujus occulti; et sic Magister accipit hic signum. Contingit autem aliquando quod aliquod magis notum quo ad nos, etiam si non sit res cadens sub sensu, quasi secundaria significatione dicatur signum; sicut dicit Philosophus in 2 *Ethic*., quod signum generati habitus in nobis oportet accipere fientem in opere delectationem, quae non est delectatio sensibilis, cum sit rationis.***
+Ad secundam quaestionem dicendum, quod, sicut dictum est, signum importat aliquod notum quo ad nos, quo manuducimur in alterius cognitionem. Res autem primo notae nobis, sunt res cadentes sub sensu, a quo omnis nostra cognitio ortum habet; et ideo signum quantum ad primam sui institutionem significat aliquam rem sensibilem, prout per eam manuducimur in cognitionem alicujus occulti; et sic Magister accipit hic signum. Contingit autem aliquando quod aliquod magis notum quo ad nos, etiam si non sit res cadens sub sensu, quasi secundaria significatione dicatur signum; sicut dicit Philosophus in 2 *Ethic*., quod signum generati habitus in nobis oportet accipere fientem in opere delectationem, quae non est delectatio sensibilis, cum sit rationis.  
 
 Ad primum ergo dicendum, quod definitio*definitio.—divisio* PLE. illa non est per oppositas res, sed per oppositas rationes; unde etiam ibidem dictum est, quod omne signum est res.  
 
@@ -106,7 +108,7 @@ Ad tertium dicendum similiter de locutione angelorum, quod fit per ea quae sunt 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod illa definitio Magistri completissime rationem sacramenti designat, prout nunc de sacramentis loquimur. Ponitur enim efficientia sanctitatis in hoc quod dicitur: *ut causa existat*; et modus competens homini quantum ad cognitionem, in hoc quod dicitur: *invisibilis gratiae visibilis forma*; et modus significationis homini connaturalis, scilicet ex similitudine sensibilium, in hoc quod dicitur: *ut imaginem gerat*.***
+Ad tertiam quaestionem dicendum, quod illa definitio Magistri completissime rationem sacramenti designat, prout nunc de sacramentis loquimur. Ponitur enim efficientia sanctitatis in hoc quod dicitur: *ut causa existat*; et modus competens homini quantum ad cognitionem, in hoc quod dicitur: *invisibilis gratiae visibilis forma*; et modus significationis homini connaturalis, scilicet ex similitudine sensibilium, in hoc quod dicitur: *ut imaginem gerat*.  
 
 Ad primum ergo dicendum, quod quia visus est nobilior inter alios sensus, et plures differentias rerum ostendit, ut dicitur in 1 *Metaphysica*; ideo, ut Augustinus dicit, nomen visus ad omnes alios sensus extenditur; et ideo visibilis ponitur hic pro sensibili communiter.  
 
@@ -120,7 +122,7 @@ Ad quintum dicendum, quod sacramentum non dividitur per sacramenta veteris et no
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod definitio illa Augustini, si tamen in verbis illis sacramentum definire intendit, datur de sacramento quantum ad id quod est principale in ratione ipsius, scilicet causare sanctitatem. Et quia sacramenta non sunt primae*primae.—propriae* PLE. causae sanctitatis, sed quasi causae secundariae et instrumentales; ideo definiuntur sacramenta, sanctificationis instrumenta. Actio autem non attribuitur instrumento, sed principali agenti, cujus virtute instrumenta ad opus applicantur, prout sunt mota ab ipso; et ideo sacramenta non dicit esse sanctificantia, sed quod in eis divina virtus occulta existens sanctificat.***
+Ad quartam quaestionem dicendum, quod definitio illa Augustini, si tamen in verbis illis sacramentum definire intendit, datur de sacramento quantum ad id quod est principale in ratione ipsius, scilicet causare sanctitatem. Et quia sacramenta non sunt primae*primae.—propriae* PLE. causae sanctitatis, sed quasi causae secundariae et instrumentales; ideo definiuntur sacramenta, sanctificationis instrumenta. Actio autem non attribuitur instrumento, sed principali agenti, cujus virtute instrumenta ad opus applicantur, prout sunt mota ab ipso; et ideo sacramenta non dicit esse sanctificantia, sed quod in eis divina virtus occulta existens sanctificat.  
 
 Ad primum ergo dicendum, quod sacramentum est causa et signum. Est quidem causa instrumentalis; et ideo virtus agentis principalis occulte in ipso operatur, sicut virtus artis vel artificis in serra. Sed inquantum est signum, est ad manifestandum hujusmodi occultationem; ut sic ante significationem sit occultum; sed postquam significatio facta est actu, sit manifestum.  
 
@@ -130,7 +132,7 @@ Ad tertium dicendum, quod in sacramentis Deus operatur salutem sicut in instrume
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod definitio Hugonis de sancto Victore eadem est cum definitione quam Magister in littera ponit, hoc excepto quod addit causam significationis, quae est institutio, et causam efficientiae, quae est sanctificatio: idem enim est dictum *materiale elementum exterius oculis suppositum, et ex institutione significans*, quod *invisibilis gratiae visibilis forma*; et *ex similitudine repraesentans*, idem est ei quod dicitur, *ut imaginem gerat*; et *ex sanctificatione invisibilem gratiam continens*, idem est ei quod dicitur: *ut causa existat*.***
+Ad quintam quaestionem dicendum, quod definitio Hugonis de sancto Victore eadem est cum definitione quam Magister in littera ponit, hoc excepto quod addit causam significationis, quae est institutio, et causam efficientiae, quae est sanctificatio: idem enim est dictum *materiale elementum exterius oculis suppositum, et ex institutione significans*, quod *invisibilis gratiae visibilis forma*; et *ex similitudine repraesentans*, idem est ei quod dicitur, *ut imaginem gerat*; et *ex sanctificatione invisibilem gratiam continens*, idem est ei quod dicitur: *ut causa existat*.  
 
 Ad primum ergo dicendum, quod sicut formae artificiales sunt accidentales, tamen in artificialibus tota substantia est materia, et propter hoc praedicatur, ut dicatur, phiala est aurum; ita etiam cum in sacramentis forma non det esse substantiale, sed accidentale in genere causae et signi, non est inconveniens ut materia sacramenti de ipso praedicetur, et in ejus definitione sicut genus ponatur; hoc enim etiam in aliis accidentibus contingit, ut dicitur in 7 *Metaphysica*, ut cum dicitur: *simum est nasus curvus*.  
 
@@ -146,7 +148,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod sacramentis humanum genus etiam post lapsum non indigeat. Per gratiam enim et virtutes peccati vulnera sanantur in nobis: quia gratia a sanctis dicitur sanitas et decor animae. Philosophus etiam in 2 *Ethic*. comparat virtutem sanitati corporali. Cum ergo sacramenta sint instituta ut medicinae peccati, ut Hugo de sancto Victore dicit, videtur quod eis non indigeamus.***
+Ad secundum sic proceditur. Videtur quod sacramentis humanum genus etiam post lapsum non indigeat. Per gratiam enim et virtutes peccati vulnera sanantur in nobis: quia gratia a sanctis dicitur sanitas et decor animae. Philosophus etiam in 2 *Ethic*. comparat virtutem sanitati corporali. Cum ergo sacramenta sint instituta ut medicinae peccati, ut Hugo de sancto Victore dicit, videtur quod eis non indigeamus.  
 
 Praeterea, contraria contrariis curantur. Sed homo morbum peccati incurrerat, se per affectum rebus temporalibus subjiciendo. Ergo videtur inconveniens modus curationis ut sub rebus sensibilibus humilietur, sicut Magister dicit.  
 
@@ -160,7 +162,7 @@ Praeterea, medicina vulneri debet esse proportionata. Sed vulnus peccati devener
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam ante peccatum homo eis indiguisset. Homo enim etiam ante peccatum gratia indigebat, ut in 2 Lib., dist. 24, art. 4 ad 2, dictum est. Sed sacramenta sunt instituta ad gratiae collationem. Ergo homo eis in statu innocentiae indiguisset.***
+Ulterius. Videtur quod etiam ante peccatum homo eis indiguisset. Homo enim etiam ante peccatum gratia indigebat, ut in 2 Lib., dist. 24, art. 4 ad 2, dictum est. Sed sacramenta sunt instituta ad gratiae collationem. Ergo homo eis in statu innocentiae indiguisset.  
 
 Praeterea, Dionysius assignat hanc causam institutionis hujusmodi sensibilium figurarum in sacramentis: quia per hujusmodi sensibiles figuras materiale nostrum melius reducitur ad spiritualia, propter connaturalitatem cognitionis nostrae ad sensibilia. Sed homo in statu innocentiae materialis erat, et ex sensibilibus cognitionem accipiens, propter quod etiam in paradiso dicitur positus ad operandum, ut naturales vires rerum experiretur. Ergo et hunc indiguit hujusmodi sacramentis.  
 
@@ -172,7 +174,7 @@ Praeterea, sacramenta virtutem sortiuntur ex passione Christi: unde et de latere
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in statu legis naturae sacramenta non fuerunt necessaria. Non minus enim est necessaria eruditio quae fit per praecepta quam illa quae fit per sacramenta. Sed praecepta non fuerunt alia data ad bene vivendum, praeter ea quibus naturali ratione ad bene vivendum informabantur. Ergo videtur quod nec sacramenta debuerunt pro tempore illo institui, cum ea lex naturalis non dictet: quod patet ex hoc quod non sunt eadem apud omnes et secundum omne tempus.***
+Ulterius. Videtur quod in statu legis naturae sacramenta non fuerunt necessaria. Non minus enim est necessaria eruditio quae fit per praecepta quam illa quae fit per sacramenta. Sed praecepta non fuerunt alia data ad bene vivendum, praeter ea quibus naturali ratione ad bene vivendum informabantur. Ergo videtur quod nec sacramenta debuerunt pro tempore illo institui, cum ea lex naturalis non dictet: quod patet ex hoc quod non sunt eadem apud omnes et secundum omne tempus.  
 
 Praeterea, sacramenta, quando instituta sunt, necessaria sunt ad salutem, ut patet Joan. 3, 5: *nisi quis renatus fuerit ex aqua et Spiritu Sancto, non potest introire in regnum Dei*. Sed ea quae ante legem scriptam videntur esse sacramenta, erant voto celebrata, et non necessitate, ut Hugo de sancto Victore dicit. Ergo non erant sacramenta, et per consequens nec necessaria.  
 
@@ -180,7 +182,7 @@ Sed contra, secundum Hugonem, quandocumque fuit morbus, fuit et medicina morbi. 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod nec debuerunt supra illa sacramenta legis naturae alia superaddi in lege Moysi. Quod enim superadditur alteri, debet esse magis ad perfectionem accedens. Sed sacramenta quae fuerunt in lege naturae, erant propinquissima perfectis sacramentis, quae sunt in lege nova, ut patet de oblatione Melchisedech. Ergo non debuit fieri superadditio per legem Moysi.***
+Ulterius. Videtur quod nec debuerunt supra illa sacramenta legis naturae alia superaddi in lege Moysi. Quod enim superadditur alteri, debet esse magis ad perfectionem accedens. Sed sacramenta quae fuerunt in lege naturae, erant propinquissima perfectis sacramentis, quae sunt in lege nova, ut patet de oblatione Melchisedech. Ergo non debuit fieri superadditio per legem Moysi.  
 
 Praeterea, superadditio ad id quod bonum erat, vel mutatio ejus, non debet fieri nisi propter meliorationem. Sed sacramenta veteris legis non habebant alium effectum meliorem effectu sacramentorum legis naturae: quia utraque sacramenta significabant tantum. Ergo non debuit fieri aliqua mutatio ipsorum, vel superadditio ad ea.  
 
@@ -188,7 +190,7 @@ Sed contra, sacramenta, ut Magister in littera dicit, ad eruditionem instituta s
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod in lege nova non debuerunt aliqua sacramenta remanere. Veniente enim veritate cessat figura. Sed gratia et veritas jam per Christum Jesum facta est, Joan. 1. Non ergo indigemus sacramentis gratiam ipsius et veritatem signantibus.***
+Ulterius. Videtur quod in lege nova non debuerunt aliqua sacramenta remanere. Veniente enim veritate cessat figura. Sed gratia et veritas jam per Christum Jesum facta est, Joan. 1. Non ergo indigemus sacramentis gratiam ipsius et veritatem signantibus.  
 
 Praeterea, apostolus Galat. 3, dicit, quod antiqui patres erant sub elementis mundi servientes, sicut pueri sub paedagogo usque ad praefinitum tempus a patre. Sed tempus plenitudinis est tempus incarnationis, ut ibidem dicitur. Ergo cum sacramentum sit materiale elementum, videtur quod ex tunc non debuerimus sub sacramentis salutem quaerere.  
 
@@ -196,7 +198,7 @@ Sed contra, quando est tempus medicandi, tunc magis necessariae sunt medicinae. 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod sacramenta non erant necessaria necessitate absoluta, sicut necessarium est Deum esse, cum ex sola divina bonitate instituta sint, sed de necessitate quae est ex suppositione finis; non ita tamen quod sine his Deus hominem sanare non posset, quia sacramentis virtutem suam non alligavit, ut in littera dicitur (sicut cibus necessarius est ad vitam humanam), sed quia per sacramenta magis congrue fit hominis reparatio; sicut equus dicitur necessarius ad iter, quia in equo facilius homo vadit.***
+Respondeo dicendum, ad primam quaestionem, quod sacramenta non erant necessaria necessitate absoluta, sicut necessarium est Deum esse, cum ex sola divina bonitate instituta sint, sed de necessitate quae est ex suppositione finis; non ita tamen quod sine his Deus hominem sanare non posset, quia sacramentis virtutem suam non alligavit, ut in littera dicitur (sicut cibus necessarius est ad vitam humanam), sed quia per sacramenta magis congrue fit hominis reparatio; sicut equus dicitur necessarius ad iter, quia in equo facilius homo vadit.  
 
 Hujusmodi autem congruitatis causa potest accipi ex hoc quod homo per peccatum praecipue circa sensibilia corruptus erat, eis detentus ne in Deum surgere posset. Erat autem praedicta corruptio quantum ad cognitionem: quia humana mens circa sensibilia tantum occupari noverat, intantum ut quidam nihil extra sensibilia crederent; et si qui ad cognitionem intelligibilium pervenirent, ea secundum modum rerum sensibilium judicabant. Similiter quantum ad affectionem: quia eis quasi summis bonis inhaerebant, Deo postposito. Similiter etiam quantum ad actionem: quia homo eis inordinate utebatur.  
 
@@ -212,7 +214,7 @@ Ad quartum dicendum, quod corporalis exercitatio secundum se accepta ad modicum 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod utilitas sacramentorum est eruditio et curatio. Quantum autem ad curationem omnibus patet quod non erant necessaria sacramenta in statu innocentiae, cum tunc morbus non esset. Sed quidam dicunt, quod erant necessaria quantum ad eruditionem: quia homo in statu etiam illo sensibilibus utebatur, et ita ex sensibilibus spiritualia significari congruebat. Sed hoc non videtur conveniens: quia significatio fit ad acquirendum cognitionem de eo quod significatur. Quamvis autem in primo statu sensibilia cognosceret, et in eis etiam spiritualium similitudines inspiceret, non tamen ex sensibilibus spiritualium cognitionem accepit, sed magis ex influentia divini luminis; et ideo sacramentis ad eruditionem non indigebat. Et hoc etiam in littera Magister videtur significare: quia refert hoc quod de eruditione dicit, ad defectum cognitionis qui est in statu peccati. Et ideo dicendum est cum aliis, quod in statu innocentiae sacramenta non fuissent necessaria.***
+Ad secundam quaestionem dicendum, quod utilitas sacramentorum est eruditio et curatio. Quantum autem ad curationem omnibus patet quod non erant necessaria sacramenta in statu innocentiae, cum tunc morbus non esset. Sed quidam dicunt, quod erant necessaria quantum ad eruditionem: quia homo in statu etiam illo sensibilibus utebatur, et ita ex sensibilibus spiritualia significari congruebat. Sed hoc non videtur conveniens: quia significatio fit ad acquirendum cognitionem de eo quod significatur. Quamvis autem in primo statu sensibilia cognosceret, et in eis etiam spiritualium similitudines inspiceret, non tamen ex sensibilibus spiritualium cognitionem accepit, sed magis ex influentia divini luminis; et ideo sacramentis ad eruditionem non indigebat. Et hoc etiam in littera Magister videtur significare: quia refert hoc quod de eruditione dicit, ad defectum cognitionis qui est in statu peccati. Et ideo dicendum est cum aliis, quod in statu innocentiae sacramenta non fuissent necessaria.  
 
 Ad primum ergo dicendum, quod sacramenta non sunt instituta ad gratiam conferendam, nisi prout gratia est sanans formaliter morbum peccati; et sic in statu innocentiae homo gratia non indigebat.  
 
@@ -222,7 +224,7 @@ Ad tertium dicendum, quod matrimonium non fuisset in statu innocentiae in remedi
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ea quae ab homine fiunt, a cognitione ortum oportet habere; alias non essent humana opera; unde oportet quod operatio cognitioni respondeat, sicut effectus causae. In statu autem legis naturae non sufficiebat ad salutem sola naturalis cognitio, sed exigebatur fides aliquorum quae supra rationem sunt; et post lapsum exigebatur fides de reparatore, per quem erat medicina morbi; et ideo in statu illo non tantum erant necessaria opera quae sunt de dictamine legis naturalis, sed etiam alia quae essent protestationes et signa eorum quae ad reparationem pertinebant; et haec erant illius temporis sacramenta, sicut sacrificia, decimae, oblationes, et hujusmodi.***
+Ad tertiam quaestionem dicendum, quod ea quae ab homine fiunt, a cognitione ortum oportet habere; alias non essent humana opera; unde oportet quod operatio cognitioni respondeat, sicut effectus causae. In statu autem legis naturae non sufficiebat ad salutem sola naturalis cognitio, sed exigebatur fides aliquorum quae supra rationem sunt; et post lapsum exigebatur fides de reparatore, per quem erat medicina morbi; et ideo in statu illo non tantum erant necessaria opera quae sunt de dictamine legis naturalis, sed etiam alia quae essent protestationes et signa eorum quae ad reparationem pertinebant; et haec erant illius temporis sacramenta, sicut sacrificia, decimae, oblationes, et hujusmodi.  
 
 Ad primum ergo dicendum, quod praecepta quae ordinant ad bene vivendum, sunt praecepta legis naturae, quae respondent cognitioni naturali. Et quia cognitio naturalis sufficienter ea dictabat, nondum per contrariam consuetudinem omnino obtenebrata, ideo non erat tanta necessitas ut eorum expressio fieret, sicut sacramentorum, quae supernaturali cognitioni respondent.  
 
@@ -230,7 +232,7 @@ Ad secundum dicendum, quod ante legem scriptam erant quaedam sacramenta necessit
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod cum sacramentorum usus fidei proportionaliter respondeat, sicut dictum est, oportuit quod secundum diversum statum fidei diversimode sacramenta traderentur. Fides autem quantum ad articulorum explicationem semper magis et magis crevit secundum propinquitatem temporis gratiae, ut 3 Lib., dist. 25, dictum est; et secundum hoc oportuit sacramenta magis ac magis determinari.***
+Ad quartam quaestionem dicendum, quod cum sacramentorum usus fidei proportionaliter respondeat, sicut dictum est, oportuit quod secundum diversum statum fidei diversimode sacramenta traderentur. Fides autem quantum ad articulorum explicationem semper magis et magis crevit secundum propinquitatem temporis gratiae, ut 3 Lib., dist. 25, dictum est; et secundum hoc oportuit sacramenta magis ac magis determinari.  
 
 Et propter hoc, quia in Abraham fides primo habuit quasi notabilem quantitatem, ut propter fidei religionem ab aliis separaretur (unde et pater fidei dicitur), ideo sibi signaculum, sive sacramentum fidei, determinatum fuit, scilicet circumcisio.  
 
@@ -242,7 +244,7 @@ Ad secundum dicendum, quod quamvis non sit facta melioratio per sacramenta veter
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod eadem fides est modernorum et antiquorum, ut Augustinus dicit, quia quem illi credebant venturum, nos credimus jam venisse; et ideo cum sacramenta fidei correspondeant, sicut protestationes ipsius, et ab ea virtutem habentia, oportet quod sicut antiqui patres redemptionis Christi participes effecti sunt per sacramenta quae erant signa futuri ita et in nos redemptio ejus perveniat mediantibus aliquibus sacramentis significantibus quod jam factum est, quae sunt sacramenta novae legis.***
+Ad quintam quaestionem dicendum, quod eadem fides est modernorum et antiquorum, ut Augustinus dicit, quia quem illi credebant venturum, nos credimus jam venisse; et ideo cum sacramenta fidei correspondeant, sicut protestationes ipsius, et ab ea virtutem habentia, oportet quod sicut antiqui patres redemptionis Christi participes effecti sunt per sacramenta quae erant signa futuri ita et in nos redemptio ejus perveniat mediantibus aliquibus sacramentis significantibus quod jam factum est, quae sunt sacramenta novae legis.  
 
 Ad primum ergo dicendum, quod, sicut dicit Dionysius in *Eccles. Hier*., status novae legis medius est inter statum veteris legis et statum caelestis patriae; et ideo etiam ea quae sunt novae legis, et sunt veritas respectu signorum*signorum.—significationum* PLE. veteris legis, et sunt figurae respectu manifestae et plenae cognitionis veritatis, quae erit in patria; et ideo adhuc oportet in nova lege quod maneant aliquae figurae, quae scilicet in patria, ubi erit plenaria perceptio veritatis, omnes*omnes cessabunt.—omnes figurae cessabunt* PLE. cessabunt.  
 
@@ -252,7 +254,7 @@ Articulus 3
 
 ***Ex quibus consistat sacramentum***
 
-***Ad tertium sic proceditur. Videtur quod sacramenta non consistant in verbis et rebus. Sacramentum enim est aliquid unum. Sed ex duobus quae non sunt conjuncta, non potest aliquid unum fieri, nec unum potest esse forma alterius. Cum ergo verba et res sint omnino separata, videtur quod ex eis non possit constare sacramentum, ut habeat pro forma verba, et res pro materia.***
+Ad tertium sic proceditur. Videtur quod sacramenta non consistant in verbis et rebus. Sacramentum enim est aliquid unum. Sed ex duobus quae non sunt conjuncta, non potest aliquid unum fieri, nec unum potest esse forma alterius. Cum ergo verba et res sint omnino separata, videtur quod ex eis non possit constare sacramentum, ut habeat pro forma verba, et res pro materia.  
 
 Praeterea, sicut in sacramentis requiruntur verba, ita et facta quaedam, ut dicit Hugo de sancto Victore. Sed facta non ponuntur de integritate sacramenti. Ergo nec verba.  
 
@@ -286,7 +288,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod sacramenta Novae Legis non sint causa gratiae. Dicit enim Bernardus: *sicut investitur canonicus per librum, abbas per baculum, episcopus per anulum; sic divisiones gratiarum diversis sunt tradita sacramentis*. Sed liber non est causa canonicatus, nec anulus episcopatus. Ergo nec sacramenta gratiae.***
+Ad quartum sic proceditur. Videtur quod sacramenta Novae Legis non sint causa gratiae. Dicit enim Bernardus: *sicut investitur canonicus per librum, abbas per baculum, episcopus per anulum; sic divisiones gratiarum diversis sunt tradita sacramentis*. Sed liber non est causa canonicatus, nec anulus episcopatus. Ergo nec sacramenta gratiae.  
 
 Praeterea, si sunt causae gratiae, oportet quod sint secundum aliquod genus causae. Sed constat quod non sunt materiales nec formales, cum sint extra essentiam gratiae; nec iterum sunt causae finales, quia magis sacramenta propter gratiam habendam quaeruntur quam e converso: nec iterum causae efficientes, quia solus Deus efficit gratiam, adeo quod nec angelis, qui sunt nobiliores sensibilibus creaturis, hoc communicatur. Ergo nullo modo sacramenta sunt causa gratiae.  
 
@@ -304,7 +306,7 @@ Praeterea, Augustinus dicit, quod aqua baptismi *corpus tangit, et cor abluit*. 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in sacramentis non sit aliqua virtus specialis*specialis.—spiritualis* PLE. ad gratiam inducendam. Quod enim non est in aliquo genere entium, non est ens. Sed hujusmodi virtus non potest reduci ad aliquod decem generum: quia non est forma substantialis, ut per se patet: neque in aliquod aliorum generum praeter qualitatem, nec etiam in qualitatem, ut patet discurrenti per quattuor species qualitatis. Ergo non est ens.***
+Ulterius. Videtur quod in sacramentis non sit aliqua virtus specialis*specialis.—spiritualis* PLE. ad gratiam inducendam. Quod enim non est in aliquo genere entium, non est ens. Sed hujusmodi virtus non potest reduci ad aliquod decem generum: quia non est forma substantialis, ut per se patet: neque in aliquod aliorum generum praeter qualitatem, nec etiam in qualitatem, ut patet discurrenti per quattuor species qualitatis. Ergo non est ens.  
 
 Praeterea, constat quod sacramenta non habent a seipsis hujusmodi virtutem. Si ergo est in eis, oportet quod a Deo habeant eam: nec est assignare, ut videtur, quando eis data sit. Non enim in ista institutione sacramentorum dari eis potuit: quia res istae et haec verba tunc non erant, et non enti nihil datur: nec iterum quotidie eis dat hanc virtutem: quia creatio dicitur esse hoc tempore solum quantum ad animas rationales et quantum ad gratiam: nec alio modo potest eis dari, nisi in eis creetur: nec iterum est probabile quod tam nobilis virtus creetur in verbis, quae statim esse desinunt; et res etiam in brevi corrumpuntur. Ergo nullo modo hujusmodi virtus est in sacramentis.  
 
@@ -320,7 +322,7 @@ Praeterea, sacramenta medicinae quaedam sunt. Sed omnis medicina habet aliquam v
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod haec virtus non sit in sacramentis a passione Christi. Christus enim, secundum quod homo, non dat Spiritum Sanctum, neque gratiam causat, ut in 1 Lib., dist. 14, qu. 3, art. unic., dictum est. Sed passio convenit ei secundum quod homo. Ergo efficacia virtutis quae est in sacramentis ad gratiam causandam, non potest esse a Christi passione, sed ab ejus divinitate.***
+Ulterius. Videtur quod haec virtus non sit in sacramentis a passione Christi. Christus enim, secundum quod homo, non dat Spiritum Sanctum, neque gratiam causat, ut in 1 Lib., dist. 14, qu. 3, art. unic., dictum est. Sed passio convenit ei secundum quod homo. Ergo efficacia virtutis quae est in sacramentis ad gratiam causandam, non potest esse a Christi passione, sed ab ejus divinitate.  
 
 Praeterea, Rom. 4, 25, dicitur, quod *resurrexit propter justificationem nostram*. Sed justificatio fit per infusionem gratiae. Ergo magis a resurrectione sacramenta praedictam virtutem habent.  
 
@@ -332,7 +334,7 @@ Praeterea, sacramenta sunt medicinae contra peccata. Sed peccata sunt ablata per
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod sacramenta novae legis non contineant gratiam. Idem enim est subjectum gratiae et gloriae. Sed nihil potest esse subjectum gloriae nisi creatura rationalis. Ergo nec in sacramento, quod est materiale elementum, potest esse gratia.***
+Ulterius. Videtur quod sacramenta novae legis non contineant gratiam. Idem enim est subjectum gratiae et gloriae. Sed nihil potest esse subjectum gloriae nisi creatura rationalis. Ergo nec in sacramento, quod est materiale elementum, potest esse gratia.  
 
 Si dicatur quod gratia non est in sacramentis sicut in subjecto, sed sicut in vase; contra. Esse in vase significat esse in loco, secundum Philosophum in 4 *Physic*. Sed accidenti non competit esse in loco. Ergo non potest esse verum quod dictum est.  
 
@@ -346,7 +348,7 @@ Praeterea hoc patet per definitionem Hugonis de sancto Victore supra positam.
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod gratia quae est in sacramentis, non differat ab illa quae est in virtutibus et donis. Gratia enim quae est in sacramentis, est gratia gratum faciens, quia facit dignum vita aeterna, ut patet de baptismo. Sed gratia gratum faciens est una tantum, quod patet ex unitate subjecti, quod est essentia animae, et ex unitate effectus, quod est Deo acceptum facere. Ergo cum gratia quae est in virtutibus et donis, sit gratia gratum faciens, videtur quod eadem gratia sit hic et ibi.***
+Ulterius. Videtur quod gratia quae est in sacramentis, non differat ab illa quae est in virtutibus et donis. Gratia enim quae est in sacramentis, est gratia gratum faciens, quia facit dignum vita aeterna, ut patet de baptismo. Sed gratia gratum faciens est una tantum, quod patet ex unitate subjecti, quod est essentia animae, et ex unitate effectus, quod est Deo acceptum facere. Ergo cum gratia quae est in virtutibus et donis, sit gratia gratum faciens, videtur quod eadem gratia sit hic et ibi.  
 
 Praeterea, unum uni opponitur. Sed tam gratia quae est in sacramentis quam illa quae est in virtutibus, opponitur peccato, quia utraque peccatum destruit. Ergo est una tantum gratia.  
 
@@ -358,7 +360,7 @@ Praeterea, virtutes et dona sunt connexa propter gratiam, ut in 3 Lib., dist. 36
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod omnes coguntur ponere, sacramenta novae legis aliquo modo causas gratiae esse, propter auctoritates quae hoc expresse dicunt.***
+Respondeo dicendum, ad primam quaestionem, quod omnes coguntur ponere, sacramenta novae legis aliquo modo causas gratiae esse, propter auctoritates quae hoc expresse dicunt.  
 
 Sed diversi diversimode eas causas ponunt. Quidam enim dicunt, quod non sunt causae quasi facientes aliquid in anima, sed causae sine quibus non: quia increata virtus, quae sola effectus ad gratiam pertinentes in anima facit, sacramentis assistit per quamdam Dei ordinationem, et quasi pactionem. Sic enim ordinavit et quasi pepigit Deus, ut qui sacramenta accipiunt, simul ab iis gratiam recipiant, non quasi sacramenta aliquid faciant ad hoc. Et est simile de illo qui accipit denarium plumbeum facta tali ordinatione, ut qui habuerit unum de illis denariis, habeat centum libras a rege: qui quidem denarius non dat illas centum libras, sed solus rex accipienti ipsum. Et quia pactio talis non erat facta in sacramentis veteris legis, ut accedentes ad ipsa gratiam acciperent, ideo dicuntur gratiam non conferre, sed promittebant tantum.  
 
@@ -386,7 +388,7 @@ Ad sextum dicendum, quod in transubstantiatione, cum sit quasi quidam motus vel 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod propter auctoritates inductas necesse est ponere aliquam virtutem supernaturalem in sacramentis. Sustinentes autem primam opinionem dicunt, quod illa virtus non est nisi quidam ordo ad aliquid. Sed hoc nihil est dictu: quia semper virtus nominat principium alicujus, praecipue prout sumitur hic pro virtute causae. Ad aliquid autem, sive relatio, non potest esse principium actionis, vel terminus, ut probatur in 5 Physic.; et ideo nullo modo ille ordo potest habere nomen virtutis neque rationem.***
+Ad secundam quaestionem dicendum, quod propter auctoritates inductas necesse est ponere aliquam virtutem supernaturalem in sacramentis. Sustinentes autem primam opinionem dicunt, quod illa virtus non est nisi quidam ordo ad aliquid. Sed hoc nihil est dictu: quia semper virtus nominat principium alicujus, praecipue prout sumitur hic pro virtute causae. Ad aliquid autem, sive relatio, non potest esse principium actionis, vel terminus, ut probatur in 5 Physic.; et ideo nullo modo ille ordo potest habere nomen virtutis neque rationem.  
 
 Et propter hoc dicendum aliter, quod virtus agendi proportionatur agenti. Unde alio modo oportet ponere virtutem agendi in agente principali; alio modo in agente instrumentali. Agens enim principale agit secundum exigentiam suae formae; et ideo virtus activa in ipso est aliqua forma vel qualitas habens completum esse in natura. Instrumentum autem agit ut motum ab alio; et ideo competit sibi virtus proportionata motui: motus autem non est ens completum sed est via in ens quasi medium quid inter potentiam puram et actum purum, ut dicitur in 3 Physic. Et ideo virtus instrumenti inquantum hujusmodi, secundum quod agit ad effectum ultra id quod competit sibi secundum suam naturam, non est ens completum habens esse fixum in natura, sed quoddam ens incompletum, sicut est virtus immutandi visum in aere, inquantum est instrumentum motum ab exteriori visibili; et hujusmodi entia consueverunt intentiones nominari, et habent aliquid simile cum ente, quod est in anima quod est ens diminutum, ut dicitur in 6 *Metaphysica*. Et quia sacramenta non faciunt effectum spiritualem nisi inquantum sunt instrumenta; ideo virtus spiritualis est in eis non quasi ens fixum, sed sicut ens incompletum.  
 
@@ -402,7 +404,7 @@ Ad quintum dicendum, quod sicut virtus absoluta non est complete in quolibet con
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod instrumentum praedicto modo virtutem non accipit nisi secundum quod principali agenti continuatur, ut virtus ejus quodammodo in instrumentum transfundatur. Principale autem et per se agens ad justificationem est Deus sicut causa efficiens, et passio Christi sicut meritoria. Huic autem causae continuatur sacramentum per fidem ecclesiae, quae et instrumentum refert ad principalem causam, et signum ad signatum; et ideo efficacia instrumentorum, sive sacramentorum, vel virtus, est ex tribus: scilicet ex institutione divina sicut ex principali causa agente, ex passione Christi sicut ex causa prima meritoria, ex fide ecclesiae sicut ex continuante instrumentum principali agenti.***
+Ad tertiam quaestionem dicendum, quod instrumentum praedicto modo virtutem non accipit nisi secundum quod principali agenti continuatur, ut virtus ejus quodammodo in instrumentum transfundatur. Principale autem et per se agens ad justificationem est Deus sicut causa efficiens, et passio Christi sicut meritoria. Huic autem causae continuatur sacramentum per fidem ecclesiae, quae et instrumentum refert ad principalem causam, et signum ad signatum; et ideo efficacia instrumentorum, sive sacramentorum, vel virtus, est ex tribus: scilicet ex institutione divina sicut ex principali causa agente, ex passione Christi sicut ex causa prima meritoria, ex fide ecclesiae sicut ex continuante instrumentum principali agenti.  
 
 Ad primum ergo dicendum, quod Christus, secundum quod homo, est causa meritoria nostrae justificationis; sed secundum quod Deus, est causa influens gratiam.  
 
@@ -412,7 +414,7 @@ Ad tertium dicendum, quod fides dat efficaciam sacramentis, inquantum causae pri
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, quia omne agens agit sibi simile, ideo effectus agentis oportet quod aliquo modo sit in agente. In quibusdam enim est idem secundum speciem; et ista dicuntur agentia univoca, sicut calor est in igne calefaciente. In quibusdam vero est idem secundum proportionem sive analogiam, sicut cum sol calefacit. Est enim in sole aliquid quod ita facit eum calefacientem sicut calor facit ignem calidum; et secundum hoc calor dicitur esse in sole aequivoce, ut dicitur in libro *de Substantia orbis*. Ex quo patet quod illud quod est in effectu ut forma dans esse, est in agente, inquantum hujusmodi, ut virtus activa; et ideo sicut se habet agens ad virtutem activam, ita se habet ad continendam formam effectus.***
+Ad quartam quaestionem dicendum, quod, quia omne agens agit sibi simile, ideo effectus agentis oportet quod aliquo modo sit in agente. In quibusdam enim est idem secundum speciem; et ista dicuntur agentia univoca, sicut calor est in igne calefaciente. In quibusdam vero est idem secundum proportionem sive analogiam, sicut cum sol calefacit. Est enim in sole aliquid quod ita facit eum calefacientem sicut calor facit ignem calidum; et secundum hoc calor dicitur esse in sole aequivoce, ut dicitur in libro *de Substantia orbis*. Ex quo patet quod illud quod est in effectu ut forma dans esse, est in agente, inquantum hujusmodi, ut virtus activa; et ideo sicut se habet agens ad virtutem activam, ita se habet ad continendam formam effectus.  
 
 Et quia agens instrumentale non habet virtutem agendi ad aliquod ens completum, sed per modum intentionis, ut dictum est, et forma introducta continetur in eo per modum intentionis, sicut sunt species colorum in aere, a quibus aer non denominatur coloratus; etiam hoc modo gratia est in sacramentis sicut in instrumento, non complete, sed incomplete quantum ad quattuor.  
 
@@ -434,7 +436,7 @@ Ad quartum dicendum, quod continere dicuntur, inquantum aliquo modo sunt causa i
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod, sicut in 2 Lib., 26 dist., quaest. unic., art. 3, et 4, dictum est, gratia gratum faciens est una, et est in essentia animae sicut in subjecto, et ab ipsa fluunt virtutes et dona ad perficiendum potentias animae, sicut etiam potentiae fluunt ab essentia; et distinguuntur istae virtutes secundum diversos actus, ad quos oportet potentias animae perfici. Similiter etiam a gratia illa quae est in essentia animae, effluit aliquid ad reparandum defectus qui ex peccato inciderunt; et hoc diversificatur secundum diversitatem defectuum. Sed quia hujusmodi defectus non sunt ita noti sicut actus ad quos virtutes perficiunt; ideo hic effectus ad reparandum defectum non habet speciale nomen, sicut virtus, sed retinet nomen suae causae, et dicitur gratia sacramentalis, ad quam directe sacramenta ordinantur: quae quidem non potest esse sine gratia quae respicit essentiam animae, sicut nec virtus. Sed tamen gratia quae est in essentia animae, non potest esse sine virtutibus; et ideo virtutes in ea habent connexionem. Potest autem esse sine gratia sacramentali; et ideo gratiae sacramentales connexionem non habent. Et ita patet quod gratia quam sacramentum directe continet, differt a gratia quae est in virtutibus, et donis; quamvis etiam illam gratiam per quamdam continuationem contineant.***
+Ad quintam quaestionem dicendum, quod, sicut in 2 Lib., 26 dist., quaest. unic., art. 3, et 4, dictum est, gratia gratum faciens est una, et est in essentia animae sicut in subjecto, et ab ipsa fluunt virtutes et dona ad perficiendum potentias animae, sicut etiam potentiae fluunt ab essentia; et distinguuntur istae virtutes secundum diversos actus, ad quos oportet potentias animae perfici. Similiter etiam a gratia illa quae est in essentia animae, effluit aliquid ad reparandum defectus qui ex peccato inciderunt; et hoc diversificatur secundum diversitatem defectuum. Sed quia hujusmodi defectus non sunt ita noti sicut actus ad quos virtutes perficiunt; ideo hic effectus ad reparandum defectum non habet speciale nomen, sicut virtus, sed retinet nomen suae causae, et dicitur gratia sacramentalis, ad quam directe sacramenta ordinantur: quae quidem non potest esse sine gratia quae respicit essentiam animae, sicut nec virtus. Sed tamen gratia quae est in essentia animae, non potest esse sine virtutibus; et ideo virtutes in ea habent connexionem. Potest autem esse sine gratia sacramentali; et ideo gratiae sacramentales connexionem non habent. Et ita patet quod gratia quam sacramentum directe continet, differt a gratia quae est in virtutibus, et donis; quamvis etiam illam gratiam per quamdam continuationem contineant.  
 
 Ad primum ergo dicendum, quod gratia gratum faciens, prout est in essentia animae, est una, sed secundum quod fluit ad defectus potentiarum tollendos, et potentias perficiendas multiplicatur.  
 
@@ -448,7 +450,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod sacramenta Veteris Legis gratiam conferebant. Ut enim supra dictum est, sacramenta a sacrando dicuntur, sicut ornatus ab ornando, et munimenta a muniendo. Sed sine gratia non potest aliquid sacrari. Ergo sacramenta Veteris Legis gratiam conferebant.***
+Ad quintum sic proceditur. Videtur quod sacramenta Veteris Legis gratiam conferebant. Ut enim supra dictum est, sacramenta a sacrando dicuntur, sicut ornatus ab ornando, et munimenta a muniendo. Sed sine gratia non potest aliquid sacrari. Ergo sacramenta Veteris Legis gratiam conferebant.  
 
 Praeterea, in canone Missae fit oratio, ut sacrificium ecclesiae Deo sit acceptum, sicut sacrificia antiquorum accepta fuerunt; et Dan. 3, petitur ut sacrificium humiliati et contriti spiritus suscipiatur a Deo, sicut holocaustum arietum et taurorum. Sed sacrificium ecclesiae et sacrificium contriti spiritus gratiam conferunt. Ergo et sacramenta veteris legis gratiam conferebant.  
 
@@ -464,7 +466,7 @@ Praeterea, per gratiam est vita animae. Sed de praeceptis veterum sacramentorum 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod eorum usus non erat meritorius. Nihil enim est meritorium nisi sit Deo acceptum. Sed sacramenta illa non erant Deo accepta; super illud enim Isaiae 1: *sanguinem hircorum nolui*, dicit Glossa: *praeterito utens tempore, ostendit se nunquam sacrificia Judaeorum amasse*. Ergo eorum usus non erat meritorius.***
+Ulterius. Videtur quod eorum usus non erat meritorius. Nihil enim est meritorium nisi sit Deo acceptum. Sed sacramenta illa non erant Deo accepta; super illud enim Isaiae 1: *sanguinem hircorum nolui*, dicit Glossa: *praeterito utens tempore, ostendit se nunquam sacrificia Judaeorum amasse*. Ergo eorum usus non erat meritorius.  
 
 Praeterea, nullum opus inutile est meritorium. Sed occisio tot animalium erat omnino inutilis. Ergo non erat meritoria.  
 
@@ -478,7 +480,7 @@ Praeterea, omnis actus virtutis formatae est meritorius. Sed usus sacramentorum 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non purgabant ab immunditiis carnis. Aut enim illae immunditiae sunt pure corporales, aut spirituales. A corporalibus pure non mundabant, immo magis inquinare videbantur. Similiter nec a spiritualibus, quia spirituales ab anima in corpus fiunt: quia secundum Augustinum, non inquinatur corpus, nisi prius anima inquinata fuerit. Dicta autem sacramenta animam non mundabant, cum gratiam non conferrent. Ergo neque carnem.***
+Ulterius. Videtur quod non purgabant ab immunditiis carnis. Aut enim illae immunditiae sunt pure corporales, aut spirituales. A corporalibus pure non mundabant, immo magis inquinare videbantur. Similiter nec a spiritualibus, quia spirituales ab anima in corpus fiunt: quia secundum Augustinum, non inquinatur corpus, nisi prius anima inquinata fuerit. Dicta autem sacramenta animam non mundabant, cum gratiam non conferrent. Ergo neque carnem.  
 
 Praeterea, inter omnia sacramenta veteris legis magis erat purgativum cinis vitulae aspersus. Sed hic magis immundabat quam purgaret: quia sacerdos, qui vitulum immolaverat, immundus efficiebatur, ut patet Num. 19. Ergo nec alia sacramenta purgabant.  
 
@@ -490,7 +492,7 @@ Praeterea, sicut sacramenta nostra dicuntur spiritualia, ita et illa carnalia di
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod in sacramento est duo considerare; scilicet ipsum sacramentum, et usum sacramenti. Ipsum sacramentum dicitur a quibusdam opus operatum; usus autem sacramenti est ipsa operatio, quae a quibusdam opus operans dicitur. Cum ergo dicitur sacramentum, per se loquendo, gratiam conferre vel non conferre, justificare vel non justificare, referendum est ad opus operatum. De opere autem operato in sacramentis veteris legis duplex est opinio. Quidam enim dicunt, quod in illis sacramentis opus operatum erat signum sacramentorum novae legis, et passionis Christi, a quo efficaciam habent; et ideo illud opus operatum erat cum quadam protestatione fidei; et ideo indirecte et ex consequenti habebant justificare, quasi mediantibus nostris sacramentis per ea significatis a Deo significationem*significationem.—sanctificationem* PLE. habentia, ut dicit Hugo de sancto Victore. Nostra autem sacramenta directe et immediate justificant, quia ad hoc directe sunt instituta. Sed haec opinio non videtur convenire dictis sanctorum: dicunt enim, quod lex erat occasio mortis, inquantum ostendebat peccatum, et gratiam adjutricem non conferebat. Nec differt quantum ad hoc qualitercumque vel directe vel indirecte gratiam conferrent. Et praeterea secundum hoc nulla esset vel valde modica praeeminentia sacramentorum novae legis ad sacramenta veteris legis: quia etiam sacramenta novae legis a fide et significatione causandi efficaciam habent, ut dictum est. Et ideo alii dicunt, et melius, quod nullo modo sacramenta ipsa veteris legis, idest opus operatum in eis, gratiam conferebant, excepta circumcisione, de qua post dicetur.***
+Respondeo dicendum, ad primam quaestionem, quod in sacramento est duo considerare; scilicet ipsum sacramentum, et usum sacramenti. Ipsum sacramentum dicitur a quibusdam opus operatum; usus autem sacramenti est ipsa operatio, quae a quibusdam opus operans dicitur. Cum ergo dicitur sacramentum, per se loquendo, gratiam conferre vel non conferre, justificare vel non justificare, referendum est ad opus operatum. De opere autem operato in sacramentis veteris legis duplex est opinio. Quidam enim dicunt, quod in illis sacramentis opus operatum erat signum sacramentorum novae legis, et passionis Christi, a quo efficaciam habent; et ideo illud opus operatum erat cum quadam protestatione fidei; et ideo indirecte et ex consequenti habebant justificare, quasi mediantibus nostris sacramentis per ea significatis a Deo significationem*significationem.—sanctificationem* PLE. habentia, ut dicit Hugo de sancto Victore. Nostra autem sacramenta directe et immediate justificant, quia ad hoc directe sunt instituta. Sed haec opinio non videtur convenire dictis sanctorum: dicunt enim, quod lex erat occasio mortis, inquantum ostendebat peccatum, et gratiam adjutricem non conferebat. Nec differt quantum ad hoc qualitercumque vel directe vel indirecte gratiam conferrent. Et praeterea secundum hoc nulla esset vel valde modica praeeminentia sacramentorum novae legis ad sacramenta veteris legis: quia etiam sacramenta novae legis a fide et significatione causandi efficaciam habent, ut dictum est. Et ideo alii dicunt, et melius, quod nullo modo sacramenta ipsa veteris legis, idest opus operatum in eis, gratiam conferebant, excepta circumcisione, de qua post dicetur.  
 
 Ad primum dicendum ergo secundum hoc quod sanctificatio quandoque importat emundationem et confirmationem spiritualem, quae fit per gratiam; et sic sacramenta veteris legis non dicebantur sacramenta, nisi quasi signa sanctificantium, ut dictum est. Alio modo sanctificatio importat mancipationem alicujus ad aliquod sacrum; et sic dicebantur sacramenta, et quasi sanctificantia, quia per ea fiebat quaedam idoneitas ad sacros usus et in templo et in vasis et in ministris et in populo. Et per hunc etiam modum apud gentiles dicebantur sacramenta militaria, quibus homo mancipabatur officio militari, quod sacramentum*sacramentum.—sacrum* PLE. reputabant, sicut et omnia quae ad communitatem pertinebant.  
 
@@ -504,7 +506,7 @@ Ad quintum dicendum, quod quamvis illa sacramenta peccata non diluerent quantum 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod de usu sacramentorum, qui opus operans a quibusdam dicitur, est etiam duplex opinio. Quidam enim dixerunt, quod usus ipse non erat meritorius, etiamsi in fide et caritate fierent: et hoc videtur Magister in littera dicere. Sed hoc videtur absurdum, quod labores sanctorum patrum in hujusmodi sacramentis Deo accepti non fuerint, et quod opus virtutis possit esse non meritorium. Et ideo communiter tenetur, quod usus eorum meritorius esse poterat, si ex caritate fieret. Aliqui tamen excusant Magistrum, dicentes, quod ipse intellexerit ipsa opera operata non justificare quantumcumque in caritate fierent, quamvis ipsa operatio ex caritate facta possit esse meritoria in eo qui est in statu merendi.***
+Ad secundam quaestionem dicendum, quod de usu sacramentorum, qui opus operans a quibusdam dicitur, est etiam duplex opinio. Quidam enim dixerunt, quod usus ipse non erat meritorius, etiamsi in fide et caritate fierent: et hoc videtur Magister in littera dicere. Sed hoc videtur absurdum, quod labores sanctorum patrum in hujusmodi sacramentis Deo accepti non fuerint, et quod opus virtutis possit esse non meritorium. Et ideo communiter tenetur, quod usus eorum meritorius esse poterat, si ex caritate fieret. Aliqui tamen excusant Magistrum, dicentes, quod ipse intellexerit ipsa opera operata non justificare quantumcumque in caritate fierent, quamvis ipsa operatio ex caritate facta possit esse meritoria in eo qui est in statu merendi.  
 
 Ad primum ergo dicendum, quod sacrificia illa per se loquendo nunquam fuerunt Deo accepta, quia gratiam non continebant, per quam Deo aliquid est acceptum; sed per accidens erant et accepta et non accepta. Accepta quidem propter significationem et devotionem offerentium; sed non accepta et abominabilia propter peccata et abusum offerentium, et quia eadem idolis immolabantur, et sic inquantum erant Deo accepta, poterant esse meritoria.  
 
@@ -516,7 +518,7 @@ Ad quartum dicendum, quod Origenes loquitur de illis sacrificiis, secundum quod 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod veteris legis intentio erat homines ad timorem et reverentiam Dei inducere, et a carnalibus ad spiritualia trahere paulatim; et ideo instituit multa impedimenta, quibus homines ab usu illorum sacramentorum frequenter impedirentur, ut sic magis in reverentia haberentur, quia omne rarum carum; et sic etiam paulatim a carnalibus observantiis dissuescerent, quandoque totaliter abstrahendi in tempore gratiae. Et haec impedimenta immunditiae carnis dicebantur, quibus homo corporaliter accedere ad sancta inidoneus efficiebatur; et ab his carnis immunditiis sacramenta legis purgabant.***
+Ad tertiam quaestionem dicendum, quod veteris legis intentio erat homines ad timorem et reverentiam Dei inducere, et a carnalibus ad spiritualia trahere paulatim; et ideo instituit multa impedimenta, quibus homines ab usu illorum sacramentorum frequenter impedirentur, ut sic magis in reverentia haberentur, quia omne rarum carum; et sic etiam paulatim a carnalibus observantiis dissuescerent, quandoque totaliter abstrahendi in tempore gratiae. Et haec impedimenta immunditiae carnis dicebantur, quibus homo corporaliter accedere ad sancta inidoneus efficiebatur; et ab his carnis immunditiis sacramenta legis purgabant.  
 
 Ad primum ergo dicendum, quod immunditiae illae non erant spirituales, quasi a peccato causatae semper, sed quasi a sacramentis*sacramentis.—sacris* PLE. prohibentes.  
 
@@ -526,7 +528,7 @@ Ad tertium dicendum, quod in nova lege non sunt irregularitates tot sicut in vet
 
 Expositio textus  
 
-****Observantiae caeremoniales*. Caeremonialia dicuntur quae secundum se non habent causam manifestam ipsorum factorum, quamvis possint habere causam manifestam suae institutionis. Dicitur autem caeremonia, quasi munia Cereris; quae erat dea frugum, quia ei prius sacrificia instituta sunt, et exinde translatum est nomen ad omnem divinum cultum. Vel, sicut dicit Valerius Maximus, dicuntur a Caere oppido, in quo prius Romani suos ritus instituerunt.***
+*Observantiae caeremoniales*. Caeremonialia dicuntur quae secundum se non habent causam manifestam ipsorum factorum, quamvis possint habere causam manifestam suae institutionis. Dicitur autem caeremonia, quasi munia Cereris; quae erat dea frugum, quia ei prius sacrificia instituta sunt, et exinde translatum est nomen ad omnem divinum cultum. Vel, sicut dicit Valerius Maximus, dicuntur a Caere oppido, in quo prius Romani suos ritus instituerunt.  
 
 *Mundabant etiam interdum a corporali lepra*; idest, mundatum ostendebant, quando signa quae apparuerant, cessabant.  
 
@@ -536,7 +538,7 @@ Quaestio 2
 
 ***Circumcisio***
 
-***Postquam determinavit Magister differentiam sacramentorum veteris et novae legis, hic determinat de quodam sacramento veteris legis, scilicet circumcisione, quod cum sacramentis novae legis aliquam convenientiam habet; et dividitur in partes duas: in prima determinat de circumcisione; in secunda movet quamdam quaestionem circa praedeterminata, ibi: *si vero quaeritur*, etc. Prima in tres: in prima determinat efficaciam circumcisionis; in secunda institutionem ipsius, ibi: *hic dicendum est in quo instituta fuerit circumcisio*; in tertia determinat de mutatione ipsius per baptismum, ibi: *ideo autem mutata est*, etc. Circa primum duo facit: primo ostendit quam efficaciam circumcisio habeat; secundo ostendit quod eamdem efficaciam contra originale habebant quaedam remedia ante praeceptum de circumcisione datum, ibi: *quaeritur autem de viris qui fuerunt ante circumcisionem*.***
+Postquam determinavit Magister differentiam sacramentorum veteris et novae legis, hic determinat de quodam sacramento veteris legis, scilicet circumcisione, quod cum sacramentis novae legis aliquam convenientiam habet; et dividitur in partes duas: in prima determinat de circumcisione; in secunda movet quamdam quaestionem circa praedeterminata, ibi: *si vero quaeritur*, etc. Prima in tres: in prima determinat efficaciam circumcisionis; in secunda institutionem ipsius, ibi: *hic dicendum est in quo instituta fuerit circumcisio*; in tertia determinat de mutatione ipsius per baptismum, ibi: *ideo autem mutata est*, etc. Circa primum duo facit: primo ostendit quam efficaciam circumcisio habeat; secundo ostendit quod eamdem efficaciam contra originale habebant quaedam remedia ante praeceptum de circumcisione datum, ibi: *quaeritur autem de viris qui fuerunt ante circumcisionem*.  
 
 Hic quaeruntur sex:  
 
@@ -553,7 +555,7 @@ primo, de necessitate circumcisionis;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod non fuerit necessarium circumcisionem dari. Sapientis est enim facere aliquid quanto brevius potest. Sed per fidem et sacramenta legis naturae sufficienter originale purgabatur. Ergo, non oportebat in remedium originalis circumcisionem dari.***
+Ad primum sic proceditur. Videtur quod non fuerit necessarium circumcisionem dari. Sapientis est enim facere aliquid quanto brevius potest. Sed per fidem et sacramenta legis naturae sufficienter originale purgabatur. Ergo, non oportebat in remedium originalis circumcisionem dari.  
 
 Praeterea, peccato originali, quia ex alio contractum est, non debetur poena sensibilis, nec expiatio per satisfactionem. Sed circumcisio poenam sensibilem habebat. Ergo non erat conveniens remedium contra originale.  
 
@@ -561,7 +563,7 @@ Sed contra, circumcisio est signaculum fidei, quae est in praeputio patris nostr
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non debuerit dari ante legem scriptam. Quia in lege naturae non erat aliqua distinctio, cum lex communis omnibus esset. Sed circumcisio signum distinctivum est: quia secundum Damascenum, est signum determinans Israel a gentibus. Ergo non debebat dari ante legem scriptam.***
+Ulterius. Videtur quod non debuerit dari ante legem scriptam. Quia in lege naturae non erat aliqua distinctio, cum lex communis omnibus esset. Sed circumcisio signum distinctivum est: quia secundum Damascenum, est signum determinans Israel a gentibus. Ergo non debebat dari ante legem scriptam.  
 
 Praeterea, praecepta quae non sunt indita rationi naturali, debent ad populum per ministrorum officium tradi. Sed circumcisio non erat de dictamine legis naturalis. Ergo cum ante legem scriptam non esset ministrorum distinctio, videtur quod tunc dari non debuerit.  
 
@@ -569,7 +571,7 @@ Sed contra, circumcisio, secundum apostolum, est signum fidei. Sed etiam ante le
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non debuerit differri usque ad tempus Abrahae. Quia etiam ante ipsum erant fideles ab infidelibus distincti. Sed circumcisio est signum fidei. Ergo ante tempus Abrahae dari debuit.***
+Ulterius. Videtur quod non debuerit differri usque ad tempus Abrahae. Quia etiam ante ipsum erant fideles ab infidelibus distincti. Sed circumcisio est signum fidei. Ergo ante tempus Abrahae dari debuit.  
 
 Praeterea, circumcisio majorem habet efficaciam quam sacramenta legis naturae; alias postea instituta non fuisset. Sed non minor erat necessitas efficacis remedii ante Abraham quam post. Ergo etiam ante eum dari debuit.  
 
@@ -577,7 +579,7 @@ Sed contra, fides quae sacramentis efficaciam significandi dat, est fides mediat
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circumcisio primo et principaliter necessaria fuit ad expressiorem significationem, quam sacramenta praecedentia fuissent. Oportuit enim quod secundum processum temporis, sicut explicatio fidei crescebat, ita cresceret distinctio signorum sacramentalium. Habet autem circumcisio expressam similitudinem ablationis originalis peccati quantum ad quatuor. Primo quantum ad membrum generationis, per quam originale transfunditur. Secundo quantum ad figuram circularem, in qua significatur circulus, qui est in processu originalis infectionis, secundum quod persona corrumpit naturam, et natura personam. Tertio quantum ad poenam, quae erat in circumcisione contra delectationem concupiscentiae, in qua praecipue viget fomitis virtus. Quarto quantum ad sanguinis effusionem, in quo significatur passio Christi, per quam pro originali satisfaciendum erat. Et quantum ad hanc utilitatem definitur circumcisio, quod est signaculum curationis ab originali. Sed ex consequenti fuit alia utilitas circumcisionis scilicet distinctio fidelis populi ab infideli propter fidem ejus cui data fuit circumcisio; et quantum ad hoc definit Damascenus, circumcisionem sic: *circumcisio est signum determinans Israel a gentibus, cum quibus conversabatur*. Habuit etiam mysticam significationem; et moralem, quia erat signum castitatis servandae; et allegoricam, inquantum significabat purgationem per Christum futuram; et quasi anagogicam, inquantum significabat depositionem corruptibilitatis carnis et sanguinis in resurrectione.***
+Respondeo dicendum ad primam quaestionem, quod circumcisio primo et principaliter necessaria fuit ad expressiorem significationem, quam sacramenta praecedentia fuissent. Oportuit enim quod secundum processum temporis, sicut explicatio fidei crescebat, ita cresceret distinctio signorum sacramentalium. Habet autem circumcisio expressam similitudinem ablationis originalis peccati quantum ad quatuor. Primo quantum ad membrum generationis, per quam originale transfunditur. Secundo quantum ad figuram circularem, in qua significatur circulus, qui est in processu originalis infectionis, secundum quod persona corrumpit naturam, et natura personam. Tertio quantum ad poenam, quae erat in circumcisione contra delectationem concupiscentiae, in qua praecipue viget fomitis virtus. Quarto quantum ad sanguinis effusionem, in quo significatur passio Christi, per quam pro originali satisfaciendum erat. Et quantum ad hanc utilitatem definitur circumcisio, quod est signaculum curationis ab originali. Sed ex consequenti fuit alia utilitas circumcisionis scilicet distinctio fidelis populi ab infideli propter fidem ejus cui data fuit circumcisio; et quantum ad hoc definit Damascenus, circumcisionem sic: *circumcisio est signum determinans Israel a gentibus, cum quibus conversabatur*. Habuit etiam mysticam significationem; et moralem, quia erat signum castitatis servandae; et allegoricam, inquantum significabat purgationem per Christum futuram; et quasi anagogicam, inquantum significabat depositionem corruptibilitatis carnis et sanguinis in resurrectione.  
 
 Ad primum ergo dicendum, quod has utilitates habuit circumcisio prae sacramentis legis naturae; et ideo post illa institui debuit.  
 
@@ -585,7 +587,7 @@ Ad secundum dicendum, quod poena illa non erat ad satisfactionem, sed tantum ad 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod lex scripta non debuit dari divinitus nisi populo fideli; et ideo oportuit populum fidelem prius congregari, et ab aliis distingui, quam lex divinitus ei daretur. Hoc autem non poterat fieri nisi per aliquod signum in quo fideles ad invicem convenirent, et ab aliis distinguerentur, quod ad circumcisionem pertinet; et ideo ante legislationem debuit circumcisio dari.***
+Ad secundam quaestionem dicendum, quod lex scripta non debuit dari divinitus nisi populo fideli; et ideo oportuit populum fidelem prius congregari, et ab aliis distingui, quam lex divinitus ei daretur. Hoc autem non poterat fieri nisi per aliquod signum in quo fideles ad invicem convenirent, et ab aliis distinguerentur, quod ad circumcisionem pertinet; et ideo ante legislationem debuit circumcisio dari.  
 
 Ad primum ergo dicendum, quod circumcisio erat quodammodo legis naturae, inquantum tempore legis naturae data fuit, et quodammodo legis scriptae, inquantum ad ipsam praeparabat. Dispositiones autem distinctionem habent penes ea ad quae disponunt.  
 
@@ -593,7 +595,7 @@ Ad secundum dicendum, quod peccatum originale a nobis non habemus, sed aliunde; 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ex corruptione peccati originalis humanum genus circa tempora Abrahae usque ad profundissima peccatorum venerat, scilicet in infidelitatem, et turpissimum vitium contra naturam; et ideo tunc temporis primo conveniebat promissionem fieri manifestam de semine nascituro, in quo omnes gentes benedicerentur, et a peccatis mundarentur. Tunc etiam oportebat in significationem aliquod exemplum fidei hominibus proponi contra infidelitatem; tunc signa castitatis dari contra corruptissimam concupiscentiam; et ideo Abrahae primo data est circumcisio in signum paternitatis, ut ex quo nasciturus erat peccatorum destructor et in signum fidei, et distinctionis ab infidelibus, et in signum castitatis et munditiae.***
+Ad tertiam quaestionem dicendum, quod ex corruptione peccati originalis humanum genus circa tempora Abrahae usque ad profundissima peccatorum venerat, scilicet in infidelitatem, et turpissimum vitium contra naturam; et ideo tunc temporis primo conveniebat promissionem fieri manifestam de semine nascituro, in quo omnes gentes benedicerentur, et a peccatis mundarentur. Tunc etiam oportebat in significationem aliquod exemplum fidei hominibus proponi contra infidelitatem; tunc signa castitatis dari contra corruptissimam concupiscentiam; et ideo Abrahae primo data est circumcisio in signum paternitatis, ut ex quo nasciturus erat peccatorum destructor et in signum fidei, et distinctionis ab infidelibus, et in signum castitatis et munditiae.  
 
 Ad primum ergo dicendum, quod ante Abraham fere omnes fideles erant: circa tempora enim ejus dicitur idolatria incepisse.  
 
@@ -605,7 +607,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod omnibus populis circumcisio dari debuerit. Data est enim in remedium contra originale. Sed morbus iste communis omnibus erat. Ergo et medicina debuit esse communis.***
+Ad secundum sic proceditur. Videtur quod omnibus populis circumcisio dari debuerit. Data est enim in remedium contra originale. Sed morbus iste communis omnibus erat. Ergo et medicina debuit esse communis.  
 
 Praeterea, circumcisio data est in signum fidei. Sed Abrahae fidem imitari omnes tenebantur: ac fides semper fuit de necessitate salutis. Ergo omnibus circumcisio dari debuit.  
 
@@ -617,7 +619,7 @@ Praeterea, circumcisio significabat medicinam futuram per Christum. Sed tantum e
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod debuit hoc remedium etiam mulieribus communiter dari. Circumcisio enim data erat in medicinam contra primam transgressionem. Sed prima transgressio incepit a femina. Ergo et feminis remedium dari debuit.***
+Ulterius. Videtur quod debuit hoc remedium etiam mulieribus communiter dari. Circumcisio enim data erat in medicinam contra primam transgressionem. Sed prima transgressio incepit a femina. Ergo et feminis remedium dari debuit.  
 
 Praeterea, ubi eadem causa, et idem effectus. Sed eadem causa in viris est, ut circumcisio eis daretur, et in mulieribus: quia et ipsae ad populum Dei pertinent, et in eis corruptio originalis est. Ergo eis remedium dari debuit.  
 
@@ -625,7 +627,7 @@ Sed contra, Hugo de sancto Victore dicit, quod *solis masculis data est circumci
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod Christo circumcidi non competebat. Sabbati enim observatio vicinior erat praeceptis moralibus, inter quae etiam computatur, quam circumcisio. Sed Christus sabbatum litteraliter non observabat; unde dicebant de ipso, Joan. 9, 16: *non est hic homo a Deo, qui sabbatum non custodit*. Ergo nec circumcisionem servare debuit.***
+Ulterius. Videtur quod Christo circumcidi non competebat. Sabbati enim observatio vicinior erat praeceptis moralibus, inter quae etiam computatur, quam circumcisio. Sed Christus sabbatum litteraliter non observabat; unde dicebant de ipso, Joan. 9, 16: *non est hic homo a Deo, qui sabbatum non custodit*. Ergo nec circumcisionem servare debuit.  
 
 Praeterea, Hebr. 7, dicit Glossa, quod Christus in lumbis Abrahae decimatus non fuit, quia decima figurabat medicinam originalis, quod in Christo non fuit. Sed similiter circumcisio, ut dictum est, significat emundationem ab originali. Ergo Christo non competebat.  
 
@@ -633,7 +635,7 @@ Sed contra, Gal. 4, 4: *misit Deus filium suum, natum de muliere, factum sub leg
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut peccatum per Adam in omnes transierat, ita oportebat per Christum in omnes sanctificationem a peccato transire; unde ad praerogativam sanctitatis ejus insinuandam oportebat quidquid ad Christum pertinebat, speciali sanctitate pollere. Et ideo in populo de quo Christus nasciturus erat, oportebat specialiter cultum Dei esse, et ipsum apud eos significari. Et quia circumcisio est signum distinguens populum Dei ab aliis, ideo oportebat populo Israel specialiter circumcisionem datam esse non solum quantum ad illos qui de stirpe Jacob erant, sed quantum ad omnes qui ad populum illum qualitercumque pertinebant.***
+Respondeo dicendum ad primam quaestionem, quod sicut peccatum per Adam in omnes transierat, ita oportebat per Christum in omnes sanctificationem a peccato transire; unde ad praerogativam sanctitatis ejus insinuandam oportebat quidquid ad Christum pertinebat, speciali sanctitate pollere. Et ideo in populo de quo Christus nasciturus erat, oportebat specialiter cultum Dei esse, et ipsum apud eos significari. Et quia circumcisio est signum distinguens populum Dei ab aliis, ideo oportebat populo Israel specialiter circumcisionem datam esse non solum quantum ad illos qui de stirpe Jacob erant, sed quantum ad omnes qui ad populum illum qualitercumque pertinebant.  
 
 Ad primum ergo dicendum, quod circumcisio erat remedium contra originale cum significatione sanctificationis nascituri seminis, propter quod erat in membro generationis; et ideo hoc remedium illi tantum populo competebat ex quo Christus nasciturus erat. Apud alios autem manebant adhuc eadem remedia quae fuerant ante circumcisionem data, quia eis non oportebat specialia sanctitatis documenta et remedia dare.  
 
@@ -643,7 +645,7 @@ Ad tertium dicendum, quod quantum ad promissionem factam Abrahae, separatus est 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod peccatum originale, ut 2 Lib., dist. 31, quaest. 1, art. 1, dictum est, quantum ad culpam et reatum descendit a patre in filios; quantum ad poenalitates descendit a femina: quia pater est efficiens in generatione, et mater materiam ministrat. Circumcisio autem data est contra originale ad tollendum culpam, non autem ad tollendum carnis corruptionem; et ideo viris, et non mulieribus data est: et haec est causa quae in objectione tacta est. Per hoc etiam ostenditur sacramentum imperfectum, et sua imperfectio in expectationem perfectionis ducit.***
+Ad secundam quaestionem dicendum, quod peccatum originale, ut 2 Lib., dist. 31, quaest. 1, art. 1, dictum est, quantum ad culpam et reatum descendit a patre in filios; quantum ad poenalitates descendit a femina: quia pater est efficiens in generatione, et mater materiam ministrat. Circumcisio autem data est contra originale ad tollendum culpam, non autem ad tollendum carnis corruptionem; et ideo viris, et non mulieribus data est: et haec est causa quae in objectione tacta est. Per hoc etiam ostenditur sacramentum imperfectum, et sua imperfectio in expectationem perfectionis ducit.  
 
 Ad primum ergo dicendum, quod quamvis transgressio a femina inceperit, tamen transfusionis originalis peccati causa non fuit femina, sed vir: quia si vir non peccasset originale transfusum non fuisset; ideo dicit apostolus Rom. 5, 12, quod: *per hominem peccatum intravit in mundum*.  
 
@@ -651,7 +653,7 @@ Ad secundum dicendum, quod jam patet quod non est eadem causa et viris et mulier
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Christo circumcisio competebat non propter indigentiam, sed propter decentiam: cujus potest in Christo multiplex ratio assignari. Prima est, ut ipse se ostenderet filium Abrahae, cui praeceptum circumcisionis erat factum, et promissio nascituri seminis; et sic Dei promissionem impletam insinuaret. Secunda, ut circumcisionem, sicut et alia legalia, suscipiens, ab onere legis nos liberaret. Tertia, ut fratrem Judaeorum se ostenderet, ne haberent justam occasionem ipsum repellendi.***
+Ad tertiam quaestionem dicendum, quod Christo circumcisio competebat non propter indigentiam, sed propter decentiam: cujus potest in Christo multiplex ratio assignari. Prima est, ut ipse se ostenderet filium Abrahae, cui praeceptum circumcisionis erat factum, et promissio nascituri seminis; et sic Dei promissionem impletam insinuaret. Secunda, ut circumcisionem, sicut et alia legalia, suscipiens, ab onere legis nos liberaret. Tertia, ut fratrem Judaeorum se ostenderet, ne haberent justam occasionem ipsum repellendi.  
 
 Ad primum ergo dicendum, quod Christus in pueritia in nullo ab aliis pueris segregatus fuit quantum ad exteriorem conversationem; et ideo omnia quae ad pueros pertinebant in veteri lege, in se implere voluit. Sed quando jam ad perfectam aetatem pervenit, ostendere debuit se dominum legis esse, et legem usque ad ipsum impositam fuisse; et ideo in quibusdam supra legem operatus est, sicut de observatione sabbati, et in tactu leprosi.  
 
@@ -663,7 +665,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod octavus dies non requireretur ad circumcisionem. Alia enim remedia contra originale data sive in lege naturae sive in lege gratiae, tempus determinatum non habent. Ergo nec circumcisio habere debuit ad idem data.***
+Ad tertium sic proceditur. Videtur quod octavus dies non requireretur ad circumcisionem. Alia enim remedia contra originale data sive in lege naturae sive in lege gratiae, tempus determinatum non habent. Ergo nec circumcisio habere debuit ad idem data.  
 
 Praeterea, poterat contingere quod dies octavus erat dies sabbati. Sed in die illo praecepta erat quies ab exterioribus operibus. Ergo non erat de necessitate circumcisionis quod octavo die fieret.  
 
@@ -677,7 +679,7 @@ Praeterea, significatio est de necessitate sacramenti. Sed octava dies facit ad 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod determinatio membri non fuerit de necessitate circumcisionis. In sacramentis enim signum debet respondere signato. Sed purgatio originalis quae significatur per circumcisionem, non est secundum aliquam partem determinatam, sed secundum totum. Ergo nec circumcisio debet aliquam partem determinatam habere.***
+Ulterius. Videtur quod determinatio membri non fuerit de necessitate circumcisionis. In sacramentis enim signum debet respondere signato. Sed purgatio originalis quae significatur per circumcisionem, non est secundum aliquam partem determinatam, sed secundum totum. Ergo nec circumcisio debet aliquam partem determinatam habere.  
 
 Praeterea, sacramenta maximam honestatem in se habere debent. Sed membra generationis videntur esse turpia et verecunda. Ergo non decuit ut in illo membro determinate aliquod sacramentum daretur.  
 
@@ -685,7 +687,7 @@ Sed contra est quod dicitur Gen. 17, 2: *circumcidetis carnem praeputii vestri*.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod cultellus lapideus sit de necessitate circumcisionis. Circumcisioni enim baptismus successit. Sed determinatum instrumentum ablutionis, scilicet aqua, est de necessitate baptismi. Ergo et determinatum instrumentum incisionis esse debuit de necessitate circumcisionis, et praecipue propter significationem quae in littera ponitur; significatio enim est de ratione sacramenti.***
+Ulterius. Videtur quod cultellus lapideus sit de necessitate circumcisionis. Circumcisioni enim baptismus successit. Sed determinatum instrumentum ablutionis, scilicet aqua, est de necessitate baptismi. Ergo et determinatum instrumentum incisionis esse debuit de necessitate circumcisionis, et praecipue propter significationem quae in littera ponitur; significatio enim est de ratione sacramenti.  
 
 Praeterea, Gregorius dicit super Ezech.: *in sanctorum vita cognoscimus quid in Scriptura intelligere debeamus*. Sed sancti et praecipue legislatores, lapideo instrumento fecerunt circumcisionem, sicut legimus Josue 5 et Exod. 4 de Moyse. Ergo lapideum instrumentum erat de necessitate praecepti.  
 
@@ -693,7 +695,7 @@ Sed contra, circumcisio non habebat vim nisi ex divina institutione. Sed in ejus
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circumcisio et erat in praecepto, et erat sacramentum. Octava ergo dies erat de necessitate circumcisionis quantum ad obligationem praecepti, ita quod reus transgressionis erat qui illud tempus non observabat. Sed non erat de necessitate ejus quantum ad efficaciam sacramenti: quia etiam in alio tempore circumcisio facta suum effectum sacramentalem habebat. Sicut etiam accidit de ministrantibus nostra sacramenta, qui servant materiam et formam debitam, et omittunt aliquid de ritu ad solemnitatem sacramenti ab ecclesia instituto. Determinationis autem hujus temporis causa est et mystica, quae tangitur in littera, et litteralis quae tangitur a Rabbi Moyse: quia puer ante octavum diem est ita tener quasi in ventre matris; et ideo sicut animalia non offerebantur propter praedictam causam ante octavum diem, ita nec puer circumcidebatur.***
+Respondeo dicendum ad primam quaestionem, quod circumcisio et erat in praecepto, et erat sacramentum. Octava ergo dies erat de necessitate circumcisionis quantum ad obligationem praecepti, ita quod reus transgressionis erat qui illud tempus non observabat. Sed non erat de necessitate ejus quantum ad efficaciam sacramenti: quia etiam in alio tempore circumcisio facta suum effectum sacramentalem habebat. Sicut etiam accidit de ministrantibus nostra sacramenta, qui servant materiam et formam debitam, et omittunt aliquid de ritu ad solemnitatem sacramenti ab ecclesia instituto. Determinationis autem hujus temporis causa est et mystica, quae tangitur in littera, et litteralis quae tangitur a Rabbi Moyse: quia puer ante octavum diem est ita tener quasi in ventre matris; et ideo sicut animalia non offerebantur propter praedictam causam ante octavum diem, ita nec puer circumcidebatur.  
 
 Ad primum ergo dicendum, quod remedium quod praecessit circumcisionem, computatur simpliciter inter sacramenta legis naturae, quae non habebant tantam determinationem secundum Hugonem de sancto Victore, quantam habent sacramenta legis scriptae, ad quam quodammodo pertinet circumcisio. Remedium autem quod circumcisionem sequitur, scilicet baptismus, est magis generale et perfectius, nec debuit ita restringi. Et ideo non est similis ratio de circumcisione et aliis.  
 
@@ -705,7 +707,7 @@ Ad quartum dicendum, quod Magister videtur sentire in littera, quod licebat immi
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod circumcisio erat in signum purgationis originalis peccati, et in signum distinctionis populi, ex quo Christus propagandus erat, et in signum castitatis servandae, ut dictum est; et quantum ad omnia haec decuit ut in membro generationis fieret, quia per actum generationis et originale contrahitur, et Christus ab illo populo descendit, et in illo actu castitas consistit; et ideo membrum generationis erat de necessitate circumcisionis et quantum ad efficaciam sacramenti, et quantum ad obligationem praecepti.***
+Ad secundam quaestionem dicendum, quod circumcisio erat in signum purgationis originalis peccati, et in signum distinctionis populi, ex quo Christus propagandus erat, et in signum castitatis servandae, ut dictum est; et quantum ad omnia haec decuit ut in membro generationis fieret, quia per actum generationis et originale contrahitur, et Christus ab illo populo descendit, et in illo actu castitas consistit; et ideo membrum generationis erat de necessitate circumcisionis et quantum ad efficaciam sacramenti, et quantum ad obligationem praecepti.  
 
 Ad primum ergo dicendum, quod quamvis originale peccatum quantum ad essentiam non determinet aliquam partem corporis, neque quantum ad effectum; tamen quantum ad causam determinat, ut dictum est.  
 
@@ -713,7 +715,7 @@ Ad secundum dicendum, quod membrum generationis, quod de se nobile erat, propter
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sacramentum quod est signum et causa, efficit quod figurat; et ideo illa significatio est de necessitate sacramenti quae ad effectum sacramenti refertur, non autem illa quae refertur ad causam principalem effectus, sed est de bene esse ipsius. Cultellus autem lapideus non est de necessitate incisionis, per quam significat circumcisio suum effectum, scilicet purgationem originalis; sed habet aliquam similitudinem ad causam principalem meritoriam remissionis originalis, scilicet Christum; et ideo non erat de necessitate circumcisionis neque quantum ad obligationem praecepti, neque quantum ad efficaciam sacramenti, quod fieret cultello lapideo, quod ritus Judaeorum usque hodie ostendit: sed in principalibus circumcisionibus, in quibus Christum significari oportebat, tale instrumentum adhibitum est.***
+Ad tertiam quaestionem dicendum, quod sacramentum quod est signum et causa, efficit quod figurat; et ideo illa significatio est de necessitate sacramenti quae ad effectum sacramenti refertur, non autem illa quae refertur ad causam principalem effectus, sed est de bene esse ipsius. Cultellus autem lapideus non est de necessitate incisionis, per quam significat circumcisio suum effectum, scilicet purgationem originalis; sed habet aliquam similitudinem ad causam principalem meritoriam remissionis originalis, scilicet Christum; et ideo non erat de necessitate circumcisionis neque quantum ad obligationem praecepti, neque quantum ad efficaciam sacramenti, quod fieret cultello lapideo, quod ritus Judaeorum usque hodie ostendit: sed in principalibus circumcisionibus, in quibus Christum significari oportebat, tale instrumentum adhibitum est.  
 
 Ad primum ergo dicendum, quod aqua de se habet maximam convenientiam ad ablutionem, per quam baptismus significat quod efficit, non autem lapis ad incisionem; et ideo non est simile.  
 
@@ -725,7 +727,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod circumcisio characterem imprimebat in anima. In sacramentis enim effectus figurae respondet. Sed circumcisio exterius erat signum distinctivum, non solum purgativum. Ergo et interius characterem distinguentem imprimebat.***
+Ad quartum sic proceditur. Videtur quod circumcisio characterem imprimebat in anima. In sacramentis enim effectus figurae respondet. Sed circumcisio exterius erat signum distinctivum, non solum purgativum. Ergo et interius characterem distinguentem imprimebat.  
 
 Praeterea, omne sacramentum quod non reiteratur in nova lege, characterem imprimit. Sed circumcisio in veteri lege non reiterabatur. Ergo characterem imprimebat.  
 
@@ -737,7 +739,7 @@ Praeterea, character nos Trinitati configurat. Sed hoc indifferenter competit vi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod circumcisio a peccato non purgaret. Rom. 3, 20: *ex operibus legis non justificatur omnis caro coram illo*. Sed alia opera legis, ut sacrificia, non videntur minus honesta fuisse quam circumcisio. Ergo nec circumcisio a peccato justificabat.***
+Ulterius. Videtur quod circumcisio a peccato non purgaret. Rom. 3, 20: *ex operibus legis non justificatur omnis caro coram illo*. Sed alia opera legis, ut sacrificia, non videntur minus honesta fuisse quam circumcisio. Ergo nec circumcisio a peccato justificabat.  
 
 Praeterea, si ab aliquo peccato purgabat, praecipue videtur quod ab originali. Sed ab originali non purgabat, quod patet per hoc quod Joannes circumcisus octava die, ut dicitur Luc. 1, dixit ad Jesum Matth. 3, 14: *ergo a te debeo baptizari*; Glossa: *a peccato originali mundari*. Ergo nullo modo a peccato mundabat.  
 
@@ -749,7 +751,7 @@ Sed in contrarium sunt auctoritates in littera positae.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod circumcisio gratiam non conferret. Sacramentum enim non efficit nisi quod figurat. Sed circumcisio non significat gratiae collationem, sed solum culpae ablationem. Ergo gratiam non confert.***
+Ulterius. Videtur quod circumcisio gratiam non conferret. Sacramentum enim non efficit nisi quod figurat. Sed circumcisio non significat gratiae collationem, sed solum culpae ablationem. Ergo gratiam non confert.  
 
 Praeterea, baptismus non amplius facit, nisi quod aufert culpam, et confert gratiam. Si ergo hoc ipsum circumcisio faciebat, baptismus in nullo circumcisionem excedit.  
 
@@ -761,7 +763,7 @@ Praeterea, tenebra non expellitur nisi per praesentiam lucis. Sed gratia opponit
 
 Quaestiuncula 1  
 
-***Respondeo ad primam quaestionem dicendum, quod character spiritualis est quoddam signum distinctivum per hoc quod hominem in aliquo statu perfectionis constituit, sicut in baptismo, confirmatione, et ordine, ut magis infra patebit. Circumcisio autem principaliter erat signum ad purgandum constitutum; et ideo in ipsa non ponebatur homo in aliquo alio statu, et sic non competebat quod in ipsa character spiritualis conferretur.***
+Respondeo ad primam quaestionem dicendum, quod character spiritualis est quoddam signum distinctivum per hoc quod hominem in aliquo statu perfectionis constituit, sicut in baptismo, confirmatione, et ordine, ut magis infra patebit. Circumcisio autem principaliter erat signum ad purgandum constitutum; et ideo in ipsa non ponebatur homo in aliquo alio statu, et sic non competebat quod in ipsa character spiritualis conferretur.  
 
 Ad primum ergo dicendum, quod circumcisio principaliter significat per se ablationem, sed distinctionem ex consequenti et per accidens, inquantum aliqui circumcidebantur, et aliqui non; et ideo oportebat quod responderet ei effectus quantum ad principalem significationem, non autem quantum ad secundariam.  
 
@@ -771,7 +773,7 @@ Ad tertium dicendum, quod sicut in baptismo manet character spiritualis, ratione
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod peccatum quod ex alio contrahitur, conveniens est ut per alium tollatur; et ideo in quolibet statu post peccatum fuit aliquod remedium per quod originale peccatum ex virtute passionis Christi tolleretur. Et iterum quia non poterat puer natus, antequam haberet usum liberi arbitrii, se ad gratiam praeparare, ne omnino sine remedio relinqueretur, oportuit aliquod remedium dari quod ex ipso opere operato peccatum aboleret; et tale remedium fuit circumcisio; et ideo ab omnibus conceditur, quod peccatum auferebat, sicut significabat ablationem; et in hoc cum sacramentis novae legis quodammodo conveniebat, quia efficiebat hoc quod figurabat. Operabatur autem circumcisio peccati dimissionem a posteriori. In peccato enim originali tria sunt, scilicet culpa, reatus carentiae visionis divinae, et fomes. Prima duo totaliter tolluntur; sed tertium per sacramentum diminuitur; et ideo circumcisio, quae erat particularis abscissio, directe significabat et causabat diminutionem fomitis, et per consequens auferebat reatum visionis aeternae, et per consequens culpam. In baptismo autem e contrario est: quia prius destruit culpam, cujus ablationem significat ablutio exterior et etiam causat, et per consequens destruit alia.***
+Ad secundam quaestionem dicendum, quod peccatum quod ex alio contrahitur, conveniens est ut per alium tollatur; et ideo in quolibet statu post peccatum fuit aliquod remedium per quod originale peccatum ex virtute passionis Christi tolleretur. Et iterum quia non poterat puer natus, antequam haberet usum liberi arbitrii, se ad gratiam praeparare, ne omnino sine remedio relinqueretur, oportuit aliquod remedium dari quod ex ipso opere operato peccatum aboleret; et tale remedium fuit circumcisio; et ideo ab omnibus conceditur, quod peccatum auferebat, sicut significabat ablationem; et in hoc cum sacramentis novae legis quodammodo conveniebat, quia efficiebat hoc quod figurabat. Operabatur autem circumcisio peccati dimissionem a posteriori. In peccato enim originali tria sunt, scilicet culpa, reatus carentiae visionis divinae, et fomes. Prima duo totaliter tolluntur; sed tertium per sacramentum diminuitur; et ideo circumcisio, quae erat particularis abscissio, directe significabat et causabat diminutionem fomitis, et per consequens auferebat reatum visionis aeternae, et per consequens culpam. In baptismo autem e contrario est: quia prius destruit culpam, cujus ablationem significat ablutio exterior et etiam causat, et per consequens destruit alia.  
 
 Ad primum ergo dicendum, quod sacrificia erant instituta ad satisfaciendum pro peccatis actualibus, quae homo ex se perpetravit; et ideo non oportebat quod peccata tollerentur per sacrificia, sicut peccatum originale per circumcisionem.  
 
@@ -783,7 +785,7 @@ Ad quartum dicendum, quod circumcisio directe contra originale ordinata fuit, se
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod circa hoc est multiplex opinio. Quidam enim dixerunt, quod circumcisio, quantum est de se, culpam tollebat, sed gratiam non conferebat, innitentes cuidam Glossae quae habetur Rom. 4, quae dicit: *in circumcisione peccata remittebantur, sed non gratia per eam praestabatur*. Dicebant enim, quod cum originale nihil aliud sit quam concupiscentia intensa cum carentia debitae justitiae, circumcisio sine hoc quod gratia conferretur, poterat auferre debitum, non auferendo reatum, ut patet per hoc quod si homo illam justitiam non habebat, non ei imputaretur ad poenam. Sed hoc non potest esse: quia manente inordinatione culpae, nullo modo potest non imputari a Deo ad poenam, cum culpae inordinatio per poenam ordinetur. Et ideo oportet, si imputatio ad poenam tollitur, quod inordinatio tollatur; quod sine gratia fieri non potest.***
+Ad tertiam quaestionem dicendum, quod circa hoc est multiplex opinio. Quidam enim dixerunt, quod circumcisio, quantum est de se, culpam tollebat, sed gratiam non conferebat, innitentes cuidam Glossae quae habetur Rom. 4, quae dicit: *in circumcisione peccata remittebantur, sed non gratia per eam praestabatur*. Dicebant enim, quod cum originale nihil aliud sit quam concupiscentia intensa cum carentia debitae justitiae, circumcisio sine hoc quod gratia conferretur, poterat auferre debitum, non auferendo reatum, ut patet per hoc quod si homo illam justitiam non habebat, non ei imputaretur ad poenam. Sed hoc non potest esse: quia manente inordinatione culpae, nullo modo potest non imputari a Deo ad poenam, cum culpae inordinatio per poenam ordinetur. Et ideo oportet, si imputatio ad poenam tollitur, quod inordinatio tollatur; quod sine gratia fieri non potest.  
 
 Et ideo alii dicunt, quod circumcisio ex sua virtute culpam tollebat, et gratia circumcisione conferebatur, non ex vi circumcisionis, sed ex divina liberalitate ablato gratiae impedimento. Sed hoc non potest esse: quia quamvis ex parte recipientis prius sit expulsio contrarii quam introductio formae, tamen ex parte causae agentis est prius introductio formae: quia non expellitur contrarium nisi introducendo formam; et ideo nisi circumcisio aliquo modo gratiam conferret, nullo modo culpam tolleret.  
 
@@ -803,7 +805,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod circumcisio cessare non debuerit. Gen. 17, dicitur, quod circumcisio datur in foedus aeternum. Sed aeternum est quod nullo fine clauditur. Ergo circumcisio cessare non debuit.***
+Ad quintum sic proceditur. Videtur quod circumcisio cessare non debuerit. Gen. 17, dicitur, quod circumcisio datur in foedus aeternum. Sed aeternum est quod nullo fine clauditur. Ergo circumcisio cessare non debuit.  
 
 Praeterea, illud quod cum lege non incipit, cum lege cessare non debet. Sed circumcisio ante legem incepit: non enim est ex lege, sed ex patribus, ut dicitur Joan. 7. Ergo cum lege cessare non debuit.  
 
@@ -815,7 +817,7 @@ Praeterea, veniente perfecto frustra imperfectum remaneret ad idem ordinatum. Se
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nec alia legalia cessare debuerint. Christus enim, ut dicitur Matth. 5, non venit legem solvere, sed implere. Sed lex consistebat non tantum in moralibus, sed etiam in sacramentis legalibus. Ergo non venit ea solvere.***
+Ulterius. Videtur quod nec alia legalia cessare debuerint. Christus enim, ut dicitur Matth. 5, non venit legem solvere, sed implere. Sed lex consistebat non tantum in moralibus, sed etiam in sacramentis legalibus. Ergo non venit ea solvere.  
 
 Praeterea, apud Deum non est transmutatio. Sed signum mutationis voluntatis est ut praeceptum quod prius datum est, postea revocetur. Cum ergo Deus haec sacramenta praeceperit, videtur quod cessare non debuerant.  
 
@@ -827,7 +829,7 @@ Praeterea, Hebr. 7, 12: *translato sacerdotio necesse est ut et legis translatio
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod tempore gratiae poterant sine peccato observari. Omnis enim Christi actio nostra est instructio. Sed Christus tempore gratiae ea observavit, sicut in multis patet. Ergo licitum est tempore gratiae ea servare.***
+Ulterius. Videtur quod tempore gratiae poterant sine peccato observari. Omnis enim Christi actio nostra est instructio. Sed Christus tempore gratiae ea observavit, sicut in multis patet. Ergo licitum est tempore gratiae ea servare.  
 
 Praeterea, tempore apostolorum etiam observabantur, sicut patet Act. 16, de Paulo, qui circumcidit Timotheum, et de eodem Act. 21, *qui purificatus per legem, templum intravit*, et hostias obtulit: quod non fecisset ad vitandum scandalum, si peccatum fuisset; quia veritas vitae non est dimittenda propter scandalum. Ergo sine peccato tempore gratiae observari poterant.  
 
@@ -839,7 +841,7 @@ Praeterea, Gal. 4, super illud: *quomodo convertimini rursus ad egena et infirma
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod usque modo teneamur aliqua legalia observare. Tenemur enim ad observanda praecepta novi testamenti, et statuta ecclesiae. Sed praeceptum apostolorum in novo testamento fuit de quibusdam legalibus observandis. Act. 15, 28: *visum est Spiritui Sancto et nobis nihil ultra imponere vobis oneris quam ut abstineatis vos ab immolatis simulacrorum, et sanguine, et suffocato, et fornicatione*. Ergo adhuc tenemur ad haec legalia servanda.***
+Ulterius. Videtur quod usque modo teneamur aliqua legalia observare. Tenemur enim ad observanda praecepta novi testamenti, et statuta ecclesiae. Sed praeceptum apostolorum in novo testamento fuit de quibusdam legalibus observandis. Act. 15, 28: *visum est Spiritui Sancto et nobis nihil ultra imponere vobis oneris quam ut abstineatis vos ab immolatis simulacrorum, et sanguine, et suffocato, et fornicatione*. Ergo adhuc tenemur ad haec legalia servanda.  
 
 Praeterea, sed si dicatur, quod fuit permissio apostolorum pro tempore illo; contra. Glossa ibidem dicit, haec esse necessaria. Sed necessaria sunt sine quibus non est salus, et de quibus non est permissio, sed praeceptum. Ergo adhuc observare tenemur.  
 
@@ -849,7 +851,7 @@ Sed contra, Petrus ibidem dicit, Act. 15, quod per gratiam Christi salvamur in l
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod cum venit quod perfectum est, evacuari debet quod ex parte est, si ad idem ordinetur: quia gratia non facit per duo quod per unum potest facere, sicut nec natura. Circumcisio autem imperfecta erat respectu baptismi tripliciter. Primo quantum ad significationem: quia non ita significabat expresse emundationem totius hominis ab immunditia totius culpae originalis, sicut ablutio baptismalis. Secundo quantum ad efficaciam: quia non tam abundans gratia ad operandum et reprimendum fomitem in circumcisione dabatur sicut in baptismo. Tertio quantum ad utilitatem: quia non erat ejus utilitas ita communis sicut baptismi, cum haberet determinatum populum, determinatum sexum, et determinatum tempus, quod in baptismo non accidit; et ideo adveniente tempore plenitudinis debuit cessare, baptismo substituto.***
+Respondeo dicendum ad primam quaestionem, quod cum venit quod perfectum est, evacuari debet quod ex parte est, si ad idem ordinetur: quia gratia non facit per duo quod per unum potest facere, sicut nec natura. Circumcisio autem imperfecta erat respectu baptismi tripliciter. Primo quantum ad significationem: quia non ita significabat expresse emundationem totius hominis ab immunditia totius culpae originalis, sicut ablutio baptismalis. Secundo quantum ad efficaciam: quia non tam abundans gratia ad operandum et reprimendum fomitem in circumcisione dabatur sicut in baptismo. Tertio quantum ad utilitatem: quia non erat ejus utilitas ita communis sicut baptismi, cum haberet determinatum populum, determinatum sexum, et determinatum tempus, quod in baptismo non accidit; et ideo adveniente tempore plenitudinis debuit cessare, baptismo substituto.  
 
 Ad primum ergo dicendum, quod aeternum hic accipitur pro saeculo; quod habet quidem finem, sed non est determinatus nobis. Vel etiam dicendum, quod circumcisio corporalis potuit esse in foedus aeternum quantum ad suum significatum, et quantum ad id quod ei succedit; sicut etiam fides potest dici semper manere ratione visionis, quae ei succedit in patria.  
 
@@ -859,7 +861,7 @@ Ad tertium dicendum, quod principalis significatio ad quam circumcisio instituta
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod triplex erat praecipua ratio cessationis legalium. Una est, quia lex instituta fuit ad significandum gratiam novi testamenti, quae per Christum facta est; et ideo veniente Christo cessare debuerunt, sicut veniente corpore cessat umbra; et hanc causam tangit apostolus Hebr. 10, 1: *umbram habens lex futurorum bonorum*.***
+Ad secundam quaestionem dicendum, quod triplex erat praecipua ratio cessationis legalium. Una est, quia lex instituta fuit ad significandum gratiam novi testamenti, quae per Christum facta est; et ideo veniente Christo cessare debuerunt, sicut veniente corpore cessat umbra; et hanc causam tangit apostolus Hebr. 10, 1: *umbram habens lex futurorum bonorum*.  
 
 Alia ratio est ex imperfectione: quia in legalibus gratia non conferebatur quantam oportebat in novo testamento dari. Sicut enim virtus naturalis rei naturali proportionatur, ita virtus sacramentalis sacramento; unde oportuit alia sacramenta institui, in quibus amplior gratia conferretur; et hanc causam tangit apostolus Heb. 7, 18: *reprobatio quidem fit prioris mandati propter infirmitatem et inutilitatem*.  
 
@@ -873,7 +875,7 @@ Ad tertium dicendum, quod Dominus ipso facto revocavit, adimplens in se quod in 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod haec quaestio videtur habere difficultatem ex quibusdam contrarietatibus quae super hoc inveniuntur tam in canone, quam in dictis sanctorum. Quandoque enim inveniuntur observata legalia tempore gratiae, quandoque autem prohibita; et de hoc etiam Petrus a Paulo redargutus videtur Gal. 2.***
+Ad tertiam quaestionem dicendum, quod haec quaestio videtur habere difficultatem ex quibusdam contrarietatibus quae super hoc inveniuntur tam in canone, quam in dictis sanctorum. Quandoque enim inveniuntur observata legalia tempore gratiae, quandoque autem prohibita; et de hoc etiam Petrus a Paulo redargutus videtur Gal. 2.  
 
 Et ideo super hoc Hieronymus et Augustinus diversa sensisse videntur. Volebat enim Hieronymus quod legalia statim post passionem Christi quantum ad hos ad quos gratia novi testamenti manifeste divulgata erat, fuerunt mortifera; sed apostolos quadam pia dispensatione his usos fuisse ad vitandum scandalum Judaeorum; et ideo Petrus judaizans non peccavit, dispensatorie id faciens, secundum quod etiam dicitur 1 Corinth. 9, 22: *omnibus omnia factus sum*; et similiter Paulus dispensatorie eum redarguit, ne gentiles exemplo Petri, quorum ipse apostolus erat, veteris legis sacramenta quasi necessaria quaererent: quia et ipse invenitur eadem pia simulatione servasse; et sic uterque excusatur, et Petrus a culpa, et Paulus a procaci reprehensione.  
 
@@ -907,7 +909,7 @@ Articulus 6
 
 ***Quaestiuncula 1***
 
-***Ad sextum sic proceditur. Videtur quod ante circumcisionem non valebat ad remissionem originalis peccati pro parvulis sola fides. Efficacior enim est caritas quam fides. Sed caritas aliena nunquam suffecit ad meritum. Ergo nec fides ad justificationem.***
+Ad sextum sic proceditur. Videtur quod ante circumcisionem non valebat ad remissionem originalis peccati pro parvulis sola fides. Efficacior enim est caritas quam fides. Sed caritas aliena nunquam suffecit ad meritum. Ergo nec fides ad justificationem.  
 
 Praeterea, si fides aliena valebat, ergo eadem ratione etiam infidelitas nocebat; et ita ex peccato actuali parentum puer puniretur; quod est inconveniens.  
 
@@ -919,7 +921,7 @@ Praeterea, peccatum quod ex altero contrahitur, ex altero potest habere medicina
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod fides non suffecerit sine aliquo exteriori signo. Dicit enim Augustinus contra Faustum, quod in nullum nomen religionis, sive verum, sive falsum, poterant homines sine aliquo signo visibili adunari. Sed per illud quo originale deletur, homines in religionem verae fidei adunantur: quia oportet hujusmodi remedium esse intrantium. Ergo oportebat quod fieret aliquo visibili signo.***
+Ulterius. Videtur quod fides non suffecerit sine aliquo exteriori signo. Dicit enim Augustinus contra Faustum, quod in nullum nomen religionis, sive verum, sive falsum, poterant homines sine aliquo signo visibili adunari. Sed per illud quo originale deletur, homines in religionem verae fidei adunantur: quia oportet hujusmodi remedium esse intrantium. Ergo oportebat quod fieret aliquo visibili signo.  
 
 Praeterea, actus mentis potest se extendere ad natos et non natos, sed conceptos, aequaliter. Si ergo fides sine exteriori signo sufficiebat ad deletionem originalis, videtur quod poterant etiam nondum nati ab originali peccato per fidem mundari.  
 
@@ -931,7 +933,7 @@ Praeterea, omnia sacramenta illius temporis habebant totam efficaciam suam ex fi
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in adultis non requireretur sacrificium, vel aliud hujusmodi. Non minus enim valet alicui fides propria quam alteri fides aliena. Sed pueris sufficiebat fides aliena sine exteriori signo, ut probatum est. Ergo et adultis.***
+Ulterius. Videtur quod in adultis non requireretur sacrificium, vel aliud hujusmodi. Non minus enim valet alicui fides propria quam alteri fides aliena. Sed pueris sufficiebat fides aliena sine exteriori signo, ut probatum est. Ergo et adultis.  
 
 Praeterea, Hugo de sancto Victore dicit, quod nullus obligabatur ad sacramenta illius temporis, sed voto celebrabantur. Sed quod est hujusmodi, non est de necessitate salutis. Ergo absque sacrificiis poterat emundari ab originali.  
 
@@ -939,7 +941,7 @@ Sed contra est quod Gregorius in littera dicit, quod pro parvulis sola fides, pr
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, quod peccatum originale est peccatum naturae: natura autem reparari non poterat nisi per Christum; et ideo nunquam poterat remitti peccatum originale alicujus nisi facta relatione, et quadam continuatione illius qui curari debebat, ad Christum, quod per fidem fiebat; et ideo fides mediatoris semper fuit efficax ad curandum ab originali: in illis quidem qui usum liberi arbitrii habebant, propria; in aliis vero aliena, ut nec eis omnino deesset divinum remedium.***
+Respondeo dicendum, quod peccatum originale est peccatum naturae: natura autem reparari non poterat nisi per Christum; et ideo nunquam poterat remitti peccatum originale alicujus nisi facta relatione, et quadam continuatione illius qui curari debebat, ad Christum, quod per fidem fiebat; et ideo fides mediatoris semper fuit efficax ad curandum ab originali: in illis quidem qui usum liberi arbitrii habebant, propria; in aliis vero aliena, ut nec eis omnino deesset divinum remedium.  
 
 Ad primum ergo dicendum, quod fides in cognitione est, caritas autem in affectione. Affectio autem est ejus quod est sibi bonum; sed cognitio est ejus quod est verum simpliciter; et ideo fides poterat magis respicere mediatorem, prout erat causa salutis alteri, quam caritas; et propter hoc magis justificatio quae fit in sacramentis, attribuitur fidei quam caritati.  
 
@@ -949,7 +951,7 @@ Et per hoc patet solutio ad tertium: quia formatio et informitas fidei sunt cond
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, quod non sufficiebat fides sine protestatione fidei facta per aliquod exterius signum; et erat differentia inter parvulos et adultos quantum ad hoc tantum quod parvulis sufficiebat fides aliena cum exteriori signo ab aliis facto, sed adultis fides propria cum signo ab eis facto. Sed quia hoc non videtur consonare cum verbis Gregorii in littera positis, ideo alii probabilius dicunt, quod parvulis sufficiebat sola fides sine omni exteriori signo; non autem habitus fidei solum, sed motus ejus relatus ad salutem pueri in vi cujusdam intensionis*intensionis.—professionis* PLE. interioris fidei, quicumque esset ille qui quoquomodo professionem fidei suae ad puerum referret; magis tamen pertinebat hoc ad parentes, qui pueri curam habere debebant, et per quos originale contraxerat.***
+Ad secundam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, quod non sufficiebat fides sine protestatione fidei facta per aliquod exterius signum; et erat differentia inter parvulos et adultos quantum ad hoc tantum quod parvulis sufficiebat fides aliena cum exteriori signo ab aliis facto, sed adultis fides propria cum signo ab eis facto. Sed quia hoc non videtur consonare cum verbis Gregorii in littera positis, ideo alii probabilius dicunt, quod parvulis sufficiebat sola fides sine omni exteriori signo; non autem habitus fidei solum, sed motus ejus relatus ad salutem pueri in vi cujusdam intensionis*intensionis.—professionis* PLE. interioris fidei, quicumque esset ille qui quoquomodo professionem fidei suae ad puerum referret; magis tamen pertinebat hoc ad parentes, qui pueri curam habere debebant, et per quos originale contraxerat.  
 
 Ad primum ergo dicendum secundum hoc, quod illud per quod homines tempore legis naturae in veram religionem congregabantur, non habebat virtutem nisi ex fide; et ideo non erat necessitatis, sed pro voto celebrabatur, ut unus alii innotesceret.  
 
@@ -959,13 +961,13 @@ Ad tertium dicendum, quod fidei efficacia non est diminuta, cum omnia sacramenta
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod illa sacramenta legis naturae non erant ex praecepto divino obligantia, sed ex voto celebrabantur, secundum quod unicuique dictabat sua mens, ut fidem suam aliis exteriori signo profiteretur ad honorem Dei, secundum quod habitus caritatis inclinabat ad exteriores actus; et sic dicimus de caritate quod sufficit motus interior. Quando autem tempus habet operandi, requiruntur etiam exteriores actus. Ita etiam quantum ad adultos in lege naturae sufficiebat sola fides, cum etiam modo sufficiat ei qui non ex contemptu sacramenta dimittit; sed ipsa fides, quando tempus habebatur, instigabat ut se aliquibus signis exterioribus demonstraret. Quando autem illa signa adhibebantur, non erat efficacia remissionis culpae ex illis exterioribus, sed ex interiori fide; et sic intelligenda sunt verba Gregorii.***
+Ad tertiam quaestionem dicendum, quod illa sacramenta legis naturae non erant ex praecepto divino obligantia, sed ex voto celebrabantur, secundum quod unicuique dictabat sua mens, ut fidem suam aliis exteriori signo profiteretur ad honorem Dei, secundum quod habitus caritatis inclinabat ad exteriores actus; et sic dicimus de caritate quod sufficit motus interior. Quando autem tempus habet operandi, requiruntur etiam exteriores actus. Ita etiam quantum ad adultos in lege naturae sufficiebat sola fides, cum etiam modo sufficiat ei qui non ex contemptu sacramenta dimittit; sed ipsa fides, quando tempus habebatur, instigabat ut se aliquibus signis exterioribus demonstraret. Quando autem illa signa adhibebantur, non erat efficacia remissionis culpae ex illis exterioribus, sed ex interiori fide; et sic intelligenda sunt verba Gregorii.  
 
 Et per hoc patet solutio ad objecta.  
 
 Expositio textus  
 
-****In sinu Abrahae*, sinus Abrahae dicitur limbus patrum, in quo distincti erant sancti ab aliis; et quia Abraham primus ab infidelibus loco et ritu se separasse legitur, ideo dicitur Abrahae sinus.***
+*In sinu Abrahae*, sinus Abrahae dicitur limbus patrum, in quo distincti erant sancti ab aliis; et quia Abraham primus ab infidelibus loco et ritu se separasse legitur, ideo dicitur Abrahae sinus.  
 
 *Lapideo cultro*, intelligendum est non semper, sed in quibusdam notabilibus circumcisionibus, sicut legitur Exod. 4, et Josue 5.  
 

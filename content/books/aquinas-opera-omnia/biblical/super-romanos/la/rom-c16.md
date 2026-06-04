@@ -1,10 +1,12 @@
 # C. 15 - The Gospel for Both Jews and Gentiles
 
+***Evangelium pro et Judaeis et Gentibus***
+
 ***Lectio 1***
 
 ***Firmiores imbecillitates infirmorum sustinere debent***
 
-***^15:1^ Debemus autem nos firmiores imbecillitates infirmorum sustinere, et non nobis placere. [n. 1142]***
+^15:1^ Debemus autem nos firmiores imbecillitates infirmorum sustinere, et non nobis placere. [n. 1142]  
 
 > ^15:2^ Unusquisque vestrum proximo suo placeat in bonum, ad aedificationem. [n. 1143]
 
@@ -144,7 +146,7 @@ Lectio 2
 
 ***Paulus apostolus gentibus est***
 
-***^15:14^ Certus sum autem fratres mei et ego ipse de vobis, quoniam et ipsi pleni estis dilectione, repleti omni scientia, ita ut possitis alterutrum monere. [n. 1163]***
+^15:14^ Certus sum autem fratres mei et ego ipse de vobis, quoniam et ipsi pleni estis dilectione, repleti omni scientia, ita ut possitis alterutrum monere. [n. 1163]  
 
 > ^15:15^ Audacius autem scripsi vobis fratres ex parte, tamquam in memoriam vos reducens: propter gratiam, [n. 1165] quae data est mihi a Deo, [n. 1167]
 
@@ -260,7 +262,7 @@ Lectio 3
 
 ***Cur visitatio Pauli ad Romanos postpositum erat***
 
-***^15:22^ Propter quod et impediebar plurimum venire ad vos, et prohibitus sum usque adhuc. [n. 1178]***
+^15:22^ Propter quod et impediebar plurimum venire ad vos, et prohibitus sum usque adhuc. [n. 1178]  
 
 > ^15:23^ Nunc vero ulterius locum non habens in his regionibus, cupiditatem autem habens veniendi ad vos ex multis jam praecedentibus annis: [n. 1180]
 

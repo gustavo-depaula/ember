@@ -1,8 +1,10 @@
 # D. 38 - Whether divine knowledge is the cause of what is known
 
+***Whether divine knowledge is the cause of what is known***
+
 ***Division of the text***
 
-***Having made clear what things God’s knowledge is about, here he considers his knowledge through its relation to the very things known. This is divided into two parts: in the first, he asks whether God’s knowledge is the cause of the things known; in the second, he shows what sort of cause it is, at *moreover, it is usual to ask whether God’s knowledge can be increased or diminished*.*Sent*. I, 39.1(175).1.***
+Having made clear what things God’s knowledge is about, here he considers his knowledge through its relation to the very things known. This is divided into two parts: in the first, he asks whether God’s knowledge is the cause of the things known; in the second, he shows what sort of cause it is, at *moreover, it is usual to ask whether God’s knowledge can be increased or diminished*.*Sent*. I, 39.1(175).1.  
 
 The first is divided into two parts: in the first, he asks about the causality of the divine knowledge; in the second, he asks about its infallibility, at *but against what has been said above, . . . it is usual for some to make the following objection*.*Sent*. I, 38.2(174).1.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether God’s knowledge is the cause of realities***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.14.8; *On Truth*, q. 2, a. 14. It seems that God’s knowledge is not the cause of realities.***
+To the first we proceed as follows.Parallel texts: *ST* I.14.8; *On Truth*, q. 2, a. 14. It seems that God’s knowledge is not the cause of realities.  
 
 Obj. 1: For God’s knowledge is compared, both by the saints and by the prophets, to the knowledge of an artisan. But an artisan’s knowledge is the cause of the things known as makeable through his art. Therefore it seems that God’s knowledge is the cause of the realities.  
 
@@ -70,7 +72,7 @@ Article 2
 
 ***Whether God’s knowledge is uniformly about the realities known***
 
-***To the second we proceed as follows.Parallel texts: below, d. 39, q. 1, a. 1; d. 41, a. 5; *ST* I.14.15; *On Truth*, q. 2, a. 5, ad 11; a. 13. It seems that God’s knowledge is not uniformly about the realities known.***
+To the second we proceed as follows.Parallel texts: below, d. 39, q. 1, a. 1; d. 41, a. 5; *ST* I.14.15; *On Truth*, q. 2, a. 5, ad 11; a. 13. It seems that God’s knowledge is not uniformly about the realities known.  
 
 Obj. 1: For all knowledge that is about things otherwise than they are, is false. But God’s knowledge is the truest knowledge. Therefore, since not all realities have one mode, it seems that it is not uniformly about all things.  
 
@@ -100,7 +102,7 @@ Article 3
 
 ***Whether God’s knowledge is about statements***
 
-***To the third we proceed as follows.Parallel texts: below, d. 41, a. 5; *ST* I.14.14; *SCG* I.58, 59; *On Truth*, q. 2, a. 7. It seems that God’s knowledge is not about statements.***
+To the third we proceed as follows.Parallel texts: below, d. 41, a. 5; *ST* I.14.14; *SCG* I.58, 59; *On Truth*, q. 2, a. 7. It seems that God’s knowledge is not about statements.  
 
 Obj. 1: For God’s knowledge is about realities through the ideas of them. But an idea is a likeness of an uncomposed reality. Therefore it seems that God does not have knowledge of complex things, or things expressible in statements.  
 
@@ -134,7 +136,7 @@ Article 4
 
 ***Whether God’s knowledge can be about non-beings***
 
-***To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 14, a. 2, qa. 2; *ST* I.14.9; *SCG* I.66; *On Truth*, q. 2, a. 8. It seems that God’s knowledge cannot be about non-beings.***
+To the fourth we proceed as follows.Parallel texts: *In III Sent*., d. 14, a. 2, qa. 2; *ST* I.14.9; *SCG* I.66; *On Truth*, q. 2, a. 8. It seems that God’s knowledge cannot be about non-beings.  
 
 Obj. 1: For “knowledge” indicates a reference to the knowable thing. But the things that signify a reference to the created are said of God only when created things exist: names like “Lord,” “Creator,” and the like. Therefore it seems that God cannot be said to know any realities except when they exist.  
 
@@ -164,7 +166,7 @@ Article 5
 
 ***Whether God’s knowledge is about contingent things***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.14.13; I.86.4; *SCG* I.67; *On Truth*, q. 2, a. 12; *Disputed Questions on Evil*, q. 16, a. 7; *Quodl. XI*, q. 3; *Compendium theologiae*, ch. 133; *Commentary on Aristotle’s De interpretatione*, lect. 14. It seems that God’s knowledge is not of contingent things.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.14.13; I.86.4; *SCG* I.67; *On Truth*, q. 2, a. 12; *Disputed Questions on Evil*, q. 16, a. 7; *Quodl. XI*, q. 3; *Compendium theologiae*, ch. 133; *Commentary on Aristotle’s De interpretatione*, lect. 14. It seems that God’s knowledge is not of contingent things.  
 
 Obj. 1: For God’s knowledge is the cause of all knowable goods. But every necessary cause brings about a necessary effect, for when the cause is posited, necessarily its effect is posited, unless the cause is deficient for the lesser part, as is a natural cause. Therefore, since God’s knowledge is not deficient, it seems that what it causes is necessary; so it is not of contingent things.  
 
@@ -232,6 +234,6 @@ Reply Obj. 7: God knows not only things that are present to us, but things that 
 
 Exposition of the text  
 
-****Because it will be, it is known by God before it happens*.*Sent*. I, 38.1(173).8, quoting Origen, *Commentaria in Epistolam B. Pauli ad Romanos*, bk. 7, n. 8, on Romans 8:30 (PG 14:1126). Here is denoted the cause of the consequence, not of being.***
+*Because it will be, it is known by God before it happens*.*Sent*. I, 38.1(173).8, quoting Origen, *Commentaria in Epistolam B. Pauli ad Romanos*, bk. 7, n. 8, on Romans 8:30 (PG 14:1126). Here is denoted the cause of the consequence, not of being.  
 
 *For he foreknew the sins were theirs, not his own*.*Sent*. I, 38.1(173).9, quoting Augustine, *Tractates on the Gospel of John*, tract. 53, para. 4 (CCSL 36; PL 35:1176). This is as if one were to say that, if his foreknowledge of their sins forced them to sin, then they themselves did not sin, since they were coerced. But God himself is not a coercer.

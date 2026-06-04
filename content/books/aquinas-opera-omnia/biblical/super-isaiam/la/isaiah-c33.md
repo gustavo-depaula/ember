@@ -1,5 +1,7 @@
 # Chapter 31
 
+^31:1^ Væ qui descendunt in Ægyptum ad auxilium in equis sperantes et habentes fiduciam super quadrigis quia multæ sunt et super equitibus quia prævalidi nimis, et non sunt confisi super Sanctum Israel et Dominum non requisierunt.  
+
 > ^31:2^ Ipse autem sapiens adduxit malum, et verba sua non abstulit, et consurget contra domum pessimorum et contra auxilium operantium iniquitatem.
 
 > ^31:3^ Ægyptus homo et non Deus; et equi eorum caro et non spiritus. Et Dominus inclinabit manum suam, et corruet auxiliator, et cadet cui præstatur auxilium, simulque omnes consumentur.

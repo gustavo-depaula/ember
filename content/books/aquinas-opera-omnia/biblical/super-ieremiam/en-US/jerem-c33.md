@@ -1,10 +1,12 @@
 # C. 31 - The promise of salvation
 
+***The promise of salvation***
+
 ***Lecture 1***
 
 ***Everlasting love for Israel***
 
-***^31:1^ At that time, says the Lord, I shall be God to all the families of Israel, and they shall be to me as a people.***
+^31:1^ At that time, says the Lord, I shall be God to all the families of Israel, and they shall be to me as a people.  
 
 > ^31:2^ Thus says the Lord: the people who remain from the sword have found favor in the wilderness. And shall Israel go to his rest?
 
@@ -56,7 +58,7 @@ Lecture 2
 
 ***Promise of reunion***
 
-***^31:7^ For thus says the Lord: exult in joy, O Jacob, and neigh against the head of the nations; make a sound, and sing, and say: O Lord, save your people, the remnant of Israel.***
+^31:7^ For thus says the Lord: exult in joy, O Jacob, and neigh against the head of the nations; make a sound, and sing, and say: O Lord, save your people, the remnant of Israel.  
 
 > ^31:8^ Behold, I shall lead them from the land of the north, and I shall gather them from the ends of the earth, among whom shall be the blind and the lame, the pregnant, and she that travails together, a great company of those who return to this place.
 
@@ -76,7 +78,7 @@ Lecture 3
 
 ***Praise on Mount Zion***
 
-***^31:10^ Hear the word of the Lord, O nations, and tell it in the islands which are afar off, and say: he who scattered Israel shall gather him, and he shall keep him as a shepherd his flock.***
+^31:10^ Hear the word of the Lord, O nations, and tell it in the islands which are afar off, and say: he who scattered Israel shall gather him, and he shall keep him as a shepherd his flock.  
 
 > ^31:11^ For the Lord has redeemed Jacob, and freed him from the hand of the more powerful.
 
@@ -106,7 +108,7 @@ Lecture 4
 
 ***Return of Rachel’s children***
 
-***^31:15^ Thus says the Lord: a voice was heard on high:Heb. בְּרָמָה: *in Ramah*, a place on the border of Benjamin and Ephraim, some five miles north of Jerusalem. Rachel is here depicted as weeping because, as the mother of Benjamin, his descendants are her children. lamentation, grief, and wailing, Rachel weeping for her children, she refuses to be comforted for them, because they are not.***
+^31:15^ Thus says the Lord: a voice was heard on high:Heb. בְּרָמָה: *in Ramah*, a place on the border of Benjamin and Ephraim, some five miles north of Jerusalem. Rachel is here depicted as weeping because, as the mother of Benjamin, his descendants are her children. lamentation, grief, and wailing, Rachel weeping for her children, she refuses to be comforted for them, because they are not.  
 
 > ^31:16^ Thus says the Lord: let your voice be still from weeping, and your eyes from tears, for there is a reward for your work, says the Lord, and they shall come from the land of the enemy.
 
@@ -128,7 +130,7 @@ Lecture 5
 
 ***Ephraim’s conversion***
 
-***^31:18^ For I have surely heard Ephraim going into exile: ‘You have chastised me, O Lord, and I was chastened, as an unbroken calf: turn me and I shall be turned, because you are the Lord my God.***
+^31:18^ For I have surely heard Ephraim going into exile: ‘You have chastised me, O Lord, and I was chastened, as an unbroken calf: turn me and I shall be turned, because you are the Lord my God.  
 
 > ^31:19^ After you turned me,Heb. שׁוּבִי: *I returned*. I repented; and after you showed me,Heb. הִוָּדְעִי: *I was instructed*. In this and the preceding verb, Jerome interprets the passage as having God as the subject, but in the Hebrew, Ephraim remains the subject. I struck my thigh. I was put to shame, and I blushed, for I have borne the reproach of my youth.’
 
@@ -146,7 +148,7 @@ Lecture 6
 
 ***God promises mercy***
 
-***^31:20^ Is Ephraim a son who brings me honor, is he a delicate boy? For from the point when I spoke of him, I shall remember him still. Therefore, are my inward parts moved for him; I shall surely have mercy upon him, says the Lord.***
+^31:20^ Is Ephraim a son who brings me honor, is he a delicate boy? For from the point when I spoke of him, I shall remember him still. Therefore, are my inward parts moved for him; I shall surely have mercy upon him, says the Lord.  
 
 > **163**. Here, he takes up the penitent.
 
@@ -166,7 +168,7 @@ Lecture 7
 
 ***Call to the straight way***
 
-***^31:21a^ Establish for yourself a watchtower; make bitternessHeb. תַּמְרוּרִים: *tamrurim*, a word of uncertain meaning, but probably meaning *signposts*. Jerome seems to have been confused by the word and to have arrived at his translation, *amaritudines*, by a spurious connection with a similar sounding word, *marar*, meaning “bitter.” for yourself; direct your heart to the straight way upon which you have walked.***
+^31:21a^ Establish for yourself a watchtower; make bitternessHeb. תַּמְרוּרִים: *tamrurim*, a word of uncertain meaning, but probably meaning *signposts*. Jerome seems to have been confused by the word and to have arrived at his translation, *amaritudines*, by a spurious connection with a similar sounding word, *marar*, meaning “bitter.” for yourself; direct your heart to the straight way upon which you have walked.  
 
 > **164**. Here, the instruction of the penitent is given: ***establish for yourself a watchtower*** (*speculam*), so that you may consider the prosperity which has been announced, or so that you may consider the way by which you may return; ***bitterness***, concern for the return; ***direct***, consider the way by which you came, that by it you may return.
 
@@ -190,7 +192,7 @@ Lecture 9
 
 ***Joy of Israel and Judah***
 
-***^31:23^ Thus says the Lord of hosts, the God of Israel: they shall still say this word in the land of Judah, and in her cities, when I return their captivity, ‘May the Lord bless you, O beauty of justice,Heb. נְוֵה-צֶדֶק: *habitation of righteousness*. O holy mountain.’***
+^31:23^ Thus says the Lord of hosts, the God of Israel: they shall still say this word in the land of Judah, and in her cities, when I return their captivity, ‘May the Lord bless you, O beauty of justice,Heb. נְוֵה-צֶדֶק: *habitation of righteousness*. O holy mountain.’  
 
 > ^31:24^ And Judah shall dwell in it and all his cities together, the farmer, and the tender of the flocks.
 
@@ -212,7 +214,7 @@ Lecture 10
 
 ***The new covenant***
 
-***^31:27^ Behold, the days are coming, says the Lord, when I shall sow the house of Israel and the house of Judah with the seed of men and the seed of beasts.***
+^31:27^ Behold, the days are coming, says the Lord, when I shall sow the house of Israel and the house of Judah with the seed of men and the seed of beasts.  
 
 > ^31:28^ And as I have kept watch upon them to pull up, and to tear down, and to scatter, and to destroy, and to afflict, so shall I keep watch over them, to build up, and to plant, says the Lord.
 
@@ -262,7 +264,7 @@ Lecture 11
 
 ***Immutable as the heavens***
 
-***^31:35^ Thus says the Lord, who gives the sun as the light of the day, the orderHeb. חֻקֹּת: *ordinances*, particularly those which the mind of man is incapable of comprehending. of the moon and the stars, as the light of the night; who stirs up the sea, and its waves roar; the Lord of hosts is his name:***
+^31:35^ Thus says the Lord, who gives the sun as the light of the day, the orderHeb. חֻקֹּת: *ordinances*, particularly those which the mind of man is incapable of comprehending. of the moon and the stars, as the light of the night; who stirs up the sea, and its waves roar; the Lord of hosts is his name:  
 
 > ^31:36^ if these laws fail from before me, says the Lord, then the seed of Israel shall fail, that he should not be a nation before me all days.
 
@@ -284,7 +286,7 @@ Lecture 12
 
 ***Restoration of the city***
 
-***^31:38^ Behold, the days are coming, says the Lord, when the city shall be built for the Lord, from the tower of Hananel to the gate of the corner.***
+^31:38^ Behold, the days are coming, says the Lord, when the city shall be built for the Lord, from the tower of Hananel to the gate of the corner.  
 
 > ^31:39^ And the measuring line shall go forth in his sight, upon the hill of Gareb, and shall go about Goatha,
 

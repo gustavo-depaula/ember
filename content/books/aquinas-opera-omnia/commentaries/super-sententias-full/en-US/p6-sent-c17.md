@@ -1,5 +1,7 @@
 # D. 39 - Perjury and oaths
 
+***Perjury and oaths***
+
 ***Division of the text***
 
 ***Having considered lying, here the Master considers perjury.***
@@ -106,7 +108,7 @@ Article 1
 
 ***Whether to swear an oath is the same as to invoke God as a witness***
 
-***To the first we proceed thus.Parallel: *ST* II-II.89.1. It appears that swearing an oath is not the same as invoking God as a witness.***
+To the first we proceed thus.Parallel: *ST* II-II.89.1. It appears that swearing an oath is not the same as invoking God as a witness.  
 
 Obj. 1: For sometimes, as is said in the text,*Sent*. III, 39.7(156).3. it is licit to swear by created things. But in such a case it appears that divine testimony is not being invoked, but rather the testimony of a created thing. Therefore to swear an oath is not to invoke God as a witness.  
 
@@ -146,7 +148,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* II-II.89.5; *Super Matth.* 5. It seems that swearing an oath is among the things that should be desired in themselves.***
+To the second we proceed as follows.Parallels: *ST* II-II.89.5; *Super Matth.* 5. It seems that swearing an oath is among the things that should be desired in themselves.  
 
 Obj. 1: For as it says in the text, to swear is *to render God his right*.*Sent*. III, 39.7(156).1, quoting Augustine, *Sermones ad populum*, serm. 180: De verbis Apostolorum, ch. 6 (CCSL 41B:669; PL 38:975). But this is a most honorable thing, and should be desired. Therefore so is an oath.  
 
@@ -160,7 +162,7 @@ Furthermore, frequent attention to anything good in itself is advantageous. But 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that it is also not licit.Parallels: *ST* II-II.89.2; *De decem praeceptis*, a. 2; *Super Matth*. 5; *Super Rom*. 1, lect. 5; *Super Heb.* 6, lect. 4. For everything forbidden is illicit. But swearing an oath is forbidden in Matthew 5:34: *but I say to you, Do not swear at all*; and in James 5:12, *but above all, my brethren, do not swear*. Therefore swearing an oath is illicit.***
+Obj. 1: Moreover, it appears that it is also not licit.Parallels: *ST* II-II.89.2; *De decem praeceptis*, a. 2; *Super Matth*. 5; *Super Rom*. 1, lect. 5; *Super Heb.* 6, lect. 4. For everything forbidden is illicit. But swearing an oath is forbidden in Matthew 5:34: *but I say to you, Do not swear at all*; and in James 5:12, *but above all, my brethren, do not swear*. Therefore swearing an oath is illicit.  
 
 Obj. 2: Furthermore, willing something is forbidden only if it is the willing of a sin. But wanting to swear an oath is forbidden when it is said, “do not wish to swear an oath,” as the saints and masters say. Therefore swearing an oath is illicit.  
 
@@ -172,7 +174,7 @@ Furthermore, no act that falls on its appropriate matter is illicit, as long as 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the three “attendants” listed in the text*Sent*. III, 39.2(151).1, quoting Jerome, *In Hieremiam prophetam libri VI*, bk. 1, on 4:2 (CCSL 74:51; PL 24:706).—that is, truth, justice, and judgment—are not required for an oath to be licit.Parallels: *ST* II-II.89.3; 98.1.ad 1; *De decem praeceptis*, a. 2; *Super Matth*. 5. For where there is no truth, there is no justice, since the truth is a part of justice. But a part should not be divided against its whole. Therefore truth should not be counted alongside justice.***
+Obj. 1: Moreover, it appears that the three “attendants” listed in the text*Sent*. III, 39.2(151).1, quoting Jerome, *In Hieremiam prophetam libri VI*, bk. 1, on 4:2 (CCSL 74:51; PL 24:706).—that is, truth, justice, and judgment—are not required for an oath to be licit.Parallels: *ST* II-II.89.3; 98.1.ad 1; *De decem praeceptis*, a. 2; *Super Matth*. 5. For where there is no truth, there is no justice, since the truth is a part of justice. But a part should not be divided against its whole. Therefore truth should not be counted alongside justice.  
 
 Obj. 2: Furthermore, a judgment appears to be nothing other than an execution of justice. Thus, it is superfluous to add judgment when justice is already included.  
 
@@ -184,7 +186,7 @@ Obj. 5: Furthermore, these three things are required in all our deeds. Therefore
 
 Response to Quaestiuncula 1  
 
-***I answer that, just as in a confirmation made through arguments there are two elements—namely, the middle [term] that causes the proof, and that which is proved—so too in a confirmation made by oath there is the human statement as the thing to be proved, and the divine witness as the proving middle. Now, in the syllogistic art the middle should be taken from the same genus [as the conclusion], so in necessary matters necessary things are taken as middles, and in contingent matters, contingent middles.***
+I answer that, just as in a confirmation made through arguments there are two elements—namely, the middle [term] that causes the proof, and that which is proved—so too in a confirmation made by oath there is the human statement as the thing to be proved, and the divine witness as the proving middle. Now, in the syllogistic art the middle should be taken from the same genus [as the conclusion], so in necessary matters necessary things are taken as middles, and in contingent matters, contingent middles.  
 
 However, the least firmness belongs to the truth of human speech, both because error easily befalls reason, and because a language is prone to defect. And therefore on certain occasions it is fitting, if there is a pressing need, to take up the divine truth, which is altogether infallible, to confirm our statements. And therefore swearing an oath should not be counted among things that should be desired through themselves, but rather as among things that occur on account of a necessity, the way useful goods, like cutting a wound, or such, are desired.  
 
@@ -196,7 +198,7 @@ Reply Obj. 3: In a divine oath the middle is taken from the same genus, since ju
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that something can be unbecoming in two ways: either through itself, or from what follows from it. Now, what is unbecoming from itself in no way can be licit, however pressing the need; this is clear in debauchery and in other things that are evil by their genus. However, what is unbecoming on account of a danger that follows it requires two things for it to occur in a fitting way: the one is sufficient caution for avoiding that danger, and the other is a useful consequence. This is clear in the cutting of a wound, for if heath is produced by it, and such caution is applied such that other members are not harmed, then it occurs fittingly.***
+To the second question, it should be said that something can be unbecoming in two ways: either through itself, or from what follows from it. Now, what is unbecoming from itself in no way can be licit, however pressing the need; this is clear in debauchery and in other things that are evil by their genus. However, what is unbecoming on account of a danger that follows it requires two things for it to occur in a fitting way: the one is sufficient caution for avoiding that danger, and the other is a useful consequence. This is clear in the cutting of a wound, for if heath is produced by it, and such caution is applied such that other members are not harmed, then it occurs fittingly.  
 
 Now, an oath appears to have a certain unfittingness, as was said, on account of our human words’ ability to fail—to which the unchangeable truth is being applied. However, if human words were so defective that they would always fail, then every oath would be unbecoming of itself, and by no necessity would it be licit to swear an oath. But because human words do not always fail, but sometimes the bear the truth, therefore if diligent caution is applied so that the defect might be avoided, it is licit to swear an oath on account of some pressing necessity.  
 
@@ -208,7 +210,7 @@ Reply Obj. 3: In these deeds, where we look for a divine judgment and witness, a
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that three elements are required for an oath to be sworn rightly. One is on the side of the very thing about which one is swearing; and in this way truthfulness, whereby the statement is adequate to the truth, is required—or else the statement would not be worthy of confirmation. Another is required on the side of the cause for the sake of which one is swearing; and in this way justice is required—or else the appropriate necessity would not be present. And the third thing is required on the side of the one swearing it; and in this way it is required that the oath be sworn with discernment—or else the appropriate caution would not be used; and this is the judgment.***
+To the third question, it should be said that three elements are required for an oath to be sworn rightly. One is on the side of the very thing about which one is swearing; and in this way truthfulness, whereby the statement is adequate to the truth, is required—or else the statement would not be worthy of confirmation. Another is required on the side of the cause for the sake of which one is swearing; and in this way justice is required—or else the appropriate necessity would not be present. And the third thing is required on the side of the one swearing it; and in this way it is required that the oath be sworn with discernment—or else the appropriate caution would not be used; and this is the judgment.  
 
 Reply Obj. 1: “Truth” here is not being taken as the part of justice, but as speech’s adequateness to reality.  
 
@@ -226,7 +228,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: *ST* II-II.89.7; *Quodl.* III, q. 5, a. 2 and 4; V, q. 13, a. 2; XII, q. 14, a. 2. It appears that an incautious oath is binding.***
+To the third we proceed thus.Parallels: *ST* II-II.89.7; *Quodl.* III, q. 5, a. 2 and 4; V, q. 13, a. 2; XII, q. 14, a. 2. It appears that an incautious oath is binding.  
 
 Obj. 1: For an oath is called “incautious” if it tends toward an evil outcome, or something less good. But such was the oath that Joshua made to the Gibeonites,See Joshua 9. which was against God’s command wherein he commanded they make no covenant with the nations; and yet he kept that oath, considering himself bound. Therefore an incautious oath is binding.  
 
@@ -240,7 +242,7 @@ Furthermore, nothing attains it proper power except when it has been perfected, 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that a coerced oath is not binding. For no one can be bound to some specific thing if he does not bind himself. But one is said to do only what he does willingly. Therefore, since a coerced oath excludes the will of the one swearing it, it appears that such an oath is not binding.***
+Obj. 1: Moreover, it appears that a coerced oath is not binding. For no one can be bound to some specific thing if he does not bind himself. But one is said to do only what he does willingly. Therefore, since a coerced oath excludes the will of the one swearing it, it appears that such an oath is not binding.  
 
 Obj. 2: Furthermore, the bond of marriage is greater than that of an oath, since if someone swore an oath that he would never marry, and later became married, he is held to preserving his marriage. But the coercion of a contract impedes marriage. Therefore it also impedes the binding of an oath.  
 
@@ -252,7 +254,7 @@ Furthermore, an oath that is not lacking any of its attendants is binding. But c
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that an oath does not bind according to the intention of the receiver. For no one ought to be bound to something unknown. But the intention of the one receiving the oath is unknown to me. Therefore my oath does not bind me according to his intention.***
+Obj. 1: Moreover, it appears that an oath does not bind according to the intention of the receiver. For no one ought to be bound to something unknown. But the intention of the one receiving the oath is unknown to me. Therefore my oath does not bind me according to his intention.  
 
 Obj. 2: Furthermore, an oath is shown to confirm the speech of the one swearing it. But the swearer’s intention is closer to his own speech than is someone else’s intention. Therefore it binds more according to the intention of the swearer than that of the receiver.  
 
@@ -264,7 +266,7 @@ Furthermore, one should not defend anyone’s fraud and deception. But this woul
 
 Response to Quaestiuncula 1  
 
-***I answer that an oath is of two sorts: one assertive, and the other promissory. A promissory oath is about what is expected the one swearing the oath will do in the future, whether by himself or through another. An assertive oath is one is made to confirm a truth, whether present or past, if we too were not present for it. Therefore in an assertive oath there is only one binding, that by which someone is bound to sin if truthfulness is absent from his oath. However, in a promissory oath there are two bindings: one by which someone is bound to doing what he promised to do by the oath, and another by which he is bound to sin if he does not do it.***
+I answer that an oath is of two sorts: one assertive, and the other promissory. A promissory oath is about what is expected the one swearing the oath will do in the future, whether by himself or through another. An assertive oath is one is made to confirm a truth, whether present or past, if we too were not present for it. Therefore in an assertive oath there is only one binding, that by which someone is bound to sin if truthfulness is absent from his oath. However, in a promissory oath there are two bindings: one by which someone is bound to doing what he promised to do by the oath, and another by which he is bound to sin if he does not do it.  
 
 Therefore, seeing these things, note that, just as not every assertion is worthy of being confirmed by an oath, so too neither is every promise, but only one that contains some benefit. Whence, if a promise confirmed by oath is about something that impedes one’s salvation, whether it be contrary to one’s salvation or to the perfect path to salvation, from this very fact the oath becomes improper, as an act falling on an improper matter. This is why it binds with the second binding, which is to sin, nor does there remain in it a power of binding with the first binding, toward doing it. For the first binding is to avoid the second binding, so an oath that necessarily binds one to sin, by that very fact is emptied from the other binding.  
 
@@ -276,7 +278,7 @@ Reply Obj. 3: Although sometimes fleeing being put over others can come from a g
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the coercion in an assertive oath cannot be sufficient [to force one to swear it], since nothing can sufficiently coerce a man to sin mortally—which latter happens if one asserts something false with an oath. Whence such an oath, to whatever degree coerced, does bind one to sin.***
+To the second question, it should be said that the coercion in an assertive oath cannot be sufficient [to force one to swear it], since nothing can sufficiently coerce a man to sin mortally—which latter happens if one asserts something false with an oath. Whence such an oath, to whatever degree coerced, does bind one to sin.  
 
 However, in a promissory oath, note that the coercion can be sufficiently coercive as regards what was promised. For to avoid a greater danger someone can promise something that is a loss to himself, which can occur without sin. And then such coercion, if what can occur in a resolute man is sufficient, takes away the binding of the oath in the forum of contention, since the action due to the binding of that oath does not belong to him who exerted the power [of coercing the oath]. But in the forum of conscience it is binding, since a man ought to subject himself more to a temporal loss than to breaking faith. Nevertheless, this [kind of oath] holds a remedy for demanding repayment from another in a court judgment; if the latter swears that he will not pay, the former can denounce him to the judge, who from his office ought force a seizure for the sake of restitution. However, if he swore he would not denounce him, he has sworn against fraternal correction, and is not bound to uphold this.  
 
@@ -288,7 +290,7 @@ Reply Obj. 3: Lucy is speaking of violence simply speaking, wherein the one suff
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that a promissory oath, as was said, binds one with the necessity of avoiding fault. Whence it binds one to doing everything wherein no fault is incurred when it is done. Therefore one should make a distinction about the one who swears the oath, for he swears it either simply speaking or deceptively. If he swears the oath deceptively, a fault can follow from two sides: that is, from the breaking of the oath, and from the deception. Therefore, although from the very notion of an oath, as an oath, it does not bind one to keep it unless according to one’s own intention, still from the need of the oath, insofar as it was deceptive, one is bound to keeping it in such a way that another is not harmed by the deception. And this happens when he fulfills the oath according to the intention of the one who receives it.***
+To the third question, it should be said that a promissory oath, as was said, binds one with the necessity of avoiding fault. Whence it binds one to doing everything wherein no fault is incurred when it is done. Therefore one should make a distinction about the one who swears the oath, for he swears it either simply speaking or deceptively. If he swears the oath deceptively, a fault can follow from two sides: that is, from the breaking of the oath, and from the deception. Therefore, although from the very notion of an oath, as an oath, it does not bind one to keep it unless according to one’s own intention, still from the need of the oath, insofar as it was deceptive, one is bound to keeping it in such a way that another is not harmed by the deception. And this happens when he fulfills the oath according to the intention of the one who receives it.  
 
 However, if he swears the oath simply speaking, without any deception, then he is bound by it in the forum of conscience only according to his own intention. But in the forum of contention, where that intention is not known, he is bound according to how the words are customarily taken.  
 
@@ -298,7 +300,7 @@ Article 4
 
 ***Whether perjury is a lie confirmed by an oath***
 
-***To the fourth we proceed thus.Parallel text: *ST* II-II.98.1. It appears that perjury is not a lie confirmed by an oath.***
+To the fourth we proceed thus.Parallel text: *ST* II-II.98.1. It appears that perjury is not a lie confirmed by an oath.  
 
 Obj. 1: For every lie is a false signification of speech, as was said in the previous distinction. But perjury can occur without any false signification of speech, since, as is said in the text,*Sent*. III, 39.3(152).3. he who swears to something true that he thinks is false commits perjury. Therefore not every perjury is a lie confirmed by an oath.  
 
@@ -334,7 +336,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***To the fifth we proceed thus.Parallel: *ST* II-II.98.3. It appears that not every perjury is a mortal sin.***
+To the fifth we proceed thus.Parallel: *ST* II-II.98.3. It appears that not every perjury is a mortal sin.  
 
 Obj. 1: For just as it is possible to lie as a joke, so it is in perjury. But a jocose lie is not a mortal sin. Therefore neither is perjury.  
 
@@ -348,7 +350,7 @@ Furthermore, everything contrary to a precept of the law is a mortal sin. But pe
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that it is not licit to receive or require an oath.Parallels: *ST* II-II.98.4; *Super Rom*. 1, lect. 5. For a Gloss on Romans 1:9—*God is my witness*—says, *you do not do evil, you who use an oath well so that you might persuade another of something useful; but it is due to an evil*, and here supply, *that of the one who receives the oath*.Augsutine, *De sermone Domini in monte*, bk. 1, para. 51 (CCSL 35:1261; PL 35:1256). Therefore the one who receives the oath sins.***
+Obj. 1: Moreover, it appears that it is not licit to receive or require an oath.Parallels: *ST* II-II.98.4; *Super Rom*. 1, lect. 5. For a Gloss on Romans 1:9—*God is my witness*—says, *you do not do evil, you who use an oath well so that you might persuade another of something useful; but it is due to an evil*, and here supply, *that of the one who receives the oath*.Augsutine, *De sermone Domini in monte*, bk. 1, para. 51 (CCSL 35:1261; PL 35:1256). Therefore the one who receives the oath sins.  
 
 Obj. 2: Furthermore, he who requires an oath from someone either knows he swears to something true, or knows he swears to something false, or does not know whether he swears to something true or false. If he knows he is swearing to something true, he appears to sin, since he makes him swear for no reason. If he knows he is swearing to something false, he is killing him, as is said in the text.*Sent*. III, 39.12(161).1. However, if he does not know either way, Augustine says on Romans 1:9, *God is my witness*, *I do not dare to say this is not a sin, but a human temptation*.Augustine, *Sermones ad populum*, serm. 180, para. 10 (CCSL 41Bb:679; PL 39:978). Therefore to require an oath is in every way a sin.  
 
@@ -360,7 +362,7 @@ Furthermore, without what is necessary to observe judicial order, an oath does n
 
 Response to Quaestiuncula 1  
 
-***I answer that oaths are of two sorts. There are some in which someone is aware that he is swearing it, and then if he swears to something false, I believe that he always sins mortally, whether it is a solemn oath or not. This is so chiefly when he is aware that he swears to something false. But there are some oaths in which a man does not attend to the oath, and it is as if he is not aware that he is swearing, but due to a slip of the tongue he stumbles in the oath. And because then he, as it were, unknowingly swears, and the ignorance is not thought to be voluntary, in such a case it appears that he does not swear voluntarily. Whence, if what he swears to is false, whether or not he is aware that it is false, as long as it is not a pernicious lie, I do not say this is a mortal sin, but a venial sin. Yet one should beware of it, because it is extremely close to a mortal sin.***
+I answer that oaths are of two sorts. There are some in which someone is aware that he is swearing it, and then if he swears to something false, I believe that he always sins mortally, whether it is a solemn oath or not. This is so chiefly when he is aware that he swears to something false. But there are some oaths in which a man does not attend to the oath, and it is as if he is not aware that he is swearing, but due to a slip of the tongue he stumbles in the oath. And because then he, as it were, unknowingly swears, and the ignorance is not thought to be voluntary, in such a case it appears that he does not swear voluntarily. Whence, if what he swears to is false, whether or not he is aware that it is false, as long as it is not a pernicious lie, I do not say this is a mortal sin, but a venial sin. Yet one should beware of it, because it is extremely close to a mortal sin.  
 
 Reply Obj. 1: The account of lying and perjury are unlike, because an oath should be approached only with great caution, as was said, and for the sake of some utility. Whence, if someone perjures himself as a joke, he will not be excused.  
 
@@ -370,7 +372,7 @@ Reply Obj. 3: To swear an oath without cause is not directly, but indirectly, op
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that just as swearing an oath is not always evil, but sometimes is licit, when one swears by necessity and with caution, so too receiving or requiring an oath, due to a necessary cause and observing other appropriate circumstances, can occur without sin.***
+To the second question, it should be said that just as swearing an oath is not always evil, but sometimes is licit, when one swears by necessity and with caution, so too receiving or requiring an oath, due to a necessary cause and observing other appropriate circumstances, can occur without sin.  
 
 Reply Obj. 1: The evil of fault is not meant there, but rather the evil of penalty, which arises from the ignorance of the one who receives the oath. For if he knew whether what one swears to is true, there would be no point to swearing the oath.  
 
@@ -380,7 +382,7 @@ Reply Obj. 3: He who swears by idols sins as regards the form of the oath, but n
 
 Exposition of the text  
 
-****Now let us consider perjury*.*Sent.* III, 39.1(150).1. It appears that this treatise should have been placed in the exposition of the second precept. But it should be said that lying is presupposed to understanding perjury. Therefore he necessarily treated perjury after treating lying.***
+*Now let us consider perjury*.*Sent.* III, 39.1(150).1. It appears that this treatise should have been placed in the exposition of the second precept. But it should be said that lying is presupposed to understanding perjury. Therefore he necessarily treated perjury after treating lying.  
 
 *And so he forbade this to the weak*.*Sent*. III, 39.5(154).2. This was on account of two dangers: first, so that they might not believe that there is some divine power present in created things; and second, so that they not break faith, not believing themselves to be bound by such an oath.  
 

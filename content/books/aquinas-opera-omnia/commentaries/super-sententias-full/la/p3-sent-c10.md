@@ -1,8 +1,10 @@
 # D. 9 - Distinctions among the orders of the good angels
 
+***De distinctione ordinum bonorum angelorum***
+
 ***Divisio textus***
 
-***Determinatis his quae pertinent ad statum creationis angelorum et ad distinctionem eorum per conversionem et aversionem, hic determinat ea quae pertinent ad dignitatem bonorum; et dividitur in partes duas:***
+Determinatis his quae pertinent ad statum creationis angelorum et ad distinctionem eorum per conversionem et aversionem, hic determinat ea quae pertinent ad dignitatem bonorum; et dividitur in partes duas:  
 
 in prima determinat de distinctione ordinum;  
 
@@ -74,7 +76,7 @@ Articulus 1
 
 ***Utrum definitio hierarchiae data a Dionysio sit conveniens***
 
-***Ad primum sic proceditur: et ponitur definitio Dionysii in 3 cap. *Caelest. hierar*.: *hierarchia est divinus ordo et scientia et actio, deiforme, quantum possibile est, similans*,Nicolaï: *deiformi quam possibile est assimilans*. *ad inditas ei divinitus illuminationes proportionabiliter in Dei similitudinem conscendens*. Videtur autem quod sit incompetens.***
+Ad primum sic proceditur: et ponitur definitio Dionysii in 3 cap. *Caelest. hierar*.: *hierarchia est divinus ordo et scientia et actio, deiforme, quantum possibile est, similans*,Nicolaï: *deiformi quam possibile est assimilans*. *ad inditas ei divinitus illuminationes proportionabiliter in Dei similitudinem conscendens*. Videtur autem quod sit incompetens.  
 
 Quia definitio nihil superfluum debet continere. Sed ipse alibi definiens hierarchiam dicit: *hierarchia est ad Deum, quantum possibile est, unitas et similitudo*. Cum ergo in praeassignata descriptione praeter divinam similitudinem multa ponantur, videtur quod sint superflua.  
 
@@ -158,9 +160,9 @@ Ad octavum dicendum, quod istae tres actiones quandoque conjunguntur; et ideo no
 
 Articulus 3  
 
-***Utrum hierarchia angelica dividatur convenienter in tres hierarchias et novem ordines***
+Utrum hierarchia angelica dividatur convenienter in tres hierarchias et novem ordines  
 
-***Ad tertium sic proceditur. Videtur quod inconvenienter dividatur angelica hierarchia in tres hierarchias et in novem ordines.***
+Ad tertium sic proceditur. Videtur quod inconvenienter dividatur angelica hierarchia in tres hierarchias et in novem ordines.  
 
 Aut enim illa divisio est per divisionem totius integralis in partes, vel generis in species. Primo modo non dividitur, quia definitio communis non conveniret partibus, sicut definitio domus non convenit parieti: nec item per modum generis, quia non omnes ordines aequaliter se habent ad participandum rationem hierarchiae. Ergo videtur quod nullo modo possit esse competens divisio.  
 
@@ -210,7 +212,7 @@ Articulus 4
 
 ***Utrum nomina angelorum convenienter distinguantur***
 
-***Ad quartum sic proceditur. Videtur quod nomina angelorum non convenienter distinguantur.***
+Ad quartum sic proceditur. Videtur quod nomina angelorum non convenienter distinguantur.  
 
 Nomen enim totius non debet parti imponi. Sed ordo est pars hierarchiae. Cum ergo hierarchia sit idem quod sacer principatus, ut dictum est, videtur quod nullus ordo principatus debeat dici.  
 
@@ -248,7 +250,7 @@ Articulus 5
 
 ***Utrum omnes angeli unius ordinis sint aequales***
 
-***Ad quintum sic proceditur. Videtur quod omnes angeli unius ordinis sint aequales.***
+Ad quintum sic proceditur. Videtur quod omnes angeli unius ordinis sint aequales.  
 
 Major enim est convenientia eorum qui sunt unius ordinis, quam eorum qui sunt unius hierarchiae. Sed Dionysius frequenter vocat aequipotentes eos qui sunt unius hierarchiae. Ergo videtur multo fortius quod illi qui sunt unius ordinis sint aequales.  
 
@@ -308,7 +310,7 @@ Articulus 7
 
 ***Utrum distinctio ordinum sit a natura***
 
-***Ad septimum sic proceditur. Videtur quod distinctio ordinum non sit a natura, ita quod a creatione inceperit.***
+Ad septimum sic proceditur. Videtur quod distinctio ordinum non sit a natura, ita quod a creatione inceperit.  
 
 Conformitas enim mentis ad Deum est per gratiam. Sed hierarchia est deiforme inquantum possibile est, similans. Ergo videtur quod ordines hierarchiae non distinguantur nisi per gratiam.  
 
@@ -336,7 +338,7 @@ Articulus 8
 
 ***Utrum homines assumantur ad ordines angelorum***
 
-***Ad octavum sic proceditur. Videtur quod homines nunquam ad ordines angelorum assumantur.***
+Ad octavum sic proceditur. Videtur quod homines nunquam ad ordines angelorum assumantur.  
 
 Quia, secundum Dionysium, 4 cap. *Cael. hier*., distinguuntur quattuor gradus rerum: scilicet intellectualium, in quo comprehenduntur angeli; rationalium, in quo sunt homines; sensibilium, in quo sunt bruta animalia; et existentium, in quo sunt res insensibiles. Sed sensitiva nunquam possunt pertingere ad gradum rationalium. Ergo rationalia nunquam possunt pertingere ad gradum intellectualium; et ita homines non assumuntur ad ordines angelorum.  
 
@@ -368,4 +370,4 @@ Ad quintum dicendum, quod actus angelorum in nos consequitur ordines angelorum m
 
 Expositio textus  
 
-****Unde Dionysius tres ordines angelorum esse tradit*. Sciendum, quod Magister in verbis sequentibus partim accipit sententiam Dionysii, scilicet quantum ad numerum ordinum, partim sententiam Gregorii quantum ad eorum dispositionem quia secundum Dionysium principatus sunt de inferioribus et virtutes de mediis; secundum Gregorium e converso. Sed ordo Dionysii est secundum quod ipse prius enumeravit, incipiens ab inferioribus, ibi: *angelos, archangelos*, etc.***
+*Unde Dionysius tres ordines angelorum esse tradit*. Sciendum, quod Magister in verbis sequentibus partim accipit sententiam Dionysii, scilicet quantum ad numerum ordinum, partim sententiam Gregorii quantum ad eorum dispositionem quia secundum Dionysium principatus sunt de inferioribus et virtutes de mediis; secundum Gregorium e converso. Sed ordo Dionysii est secundum quod ipse prius enumeravit, incipiens ab inferioribus, ibi: *angelos, archangelos*, etc.

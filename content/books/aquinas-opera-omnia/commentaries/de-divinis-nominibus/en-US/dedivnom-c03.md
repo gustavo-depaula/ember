@@ -1,10 +1,12 @@
 # C. 2 - On United and Discrete Theology and What Is Divine Unition and Discretion
 
+***On United and Discrete Theology and What Is Divine Unition and Discretion***
+
 ***Lectio 1***
 
 ***What Things Are Said Commonly and What Distinctly in the Trinity***
 
-***C. II, § 1. 31. *Per se* goodness, determining and manifesting the whole thearchic essence, whatever it is, is praised by the eloquences. For what else is there to say from the holy theology, when it says that the thearchy itself narrating says, *why do you ask me about the good? No one is good but God alone* (Matt 19:17, Mark 10:18, Luke 18:19). Therefore, this having been inquired into also in the others, we must demonstrate that all the namings of God befitting God always are praised by the eloquences, not particularly, but in the whole and perfect and integral and first deity, and all these simply, absolutely, and totally unobservedly are appointed to the universal totality of the perfect and all deity.***
+C. II, § 1. 31. *Per se* goodness, determining and manifesting the whole thearchic essence, whatever it is, is praised by the eloquences. For what else is there to say from the holy theology, when it says that the thearchy itself narrating says, *why do you ask me about the good? No one is good but God alone* (Matt 19:17, Mark 10:18, Luke 18:19). Therefore, this having been inquired into also in the others, we must demonstrate that all the namings of God befitting God always are praised by the eloquences, not particularly, but in the whole and perfect and integral and first deity, and all these simply, absolutely, and totally unobservedly are appointed to the universal totality of the perfect and all deity.  
 
 > 32. And indeed, as we remembered in the *Theological Hypotyposes*, if anyone should say that this is said not of the whole deity, he also dares unfittingly to tear apart the super-united unity. Therefore it must be said that even the Word, good itself by nature, said, *I am good* (Matt 20:15); and indeed one of the God-received prophets praises the good Spirit (Ps 143:10); and again, if anyone should have said that: *I am who am,* (Ex 3:14) is not praised of the whole deity, yet he tries to circumscribe it according to one part, how shall they hear: *these things he says who is, who was, who is to come, omnipotent* (Rev 1:8); and: *yet you are the very same* (Ps 102:27); and: *the Spirit of truth*, who is, *who proceeds from the Father*? (John 15:26) And if they say that not the whole thearchy is life, how can what the holy Word said be true: *as the Father raises the dead and vivifies, so also the Son vivifies whom he wills* (John 5:21); and: *the Holy Spirit is who vivifies*? (John 6:63) Yet because the whole deity has also the domination of the whole of things, indeed it is not said of the deigenic or filial deity, as I reckon, in as many places of theology as Lord is said frequently in Father and Son; but also *the Holy Spirit is Lord* (2 Cor 3:17); and there is praised the beautiful and the wise in the whole deity, and light and deific and cause; and all things whatever that are of the whole thearchy, the eloquences reduce to all thearchic praising: comprehensively indeed, as when they say, *all things are from God* (1 Cor 2:12); yet diffusively, as when they say, *all things were made through him and in him, and all things consist in him* (Col 1:16); and: *send out your Spirit and they shall be created* (Ps 104:30).
 
@@ -86,7 +88,7 @@ Lectio 2
 
 ***Of What Sort Is Unition and Discretion in Divine Matters***
 
-***§ 4. 38. Yet it is necessary, as I reckon, taking it up again, for us to expound more the perfect mode of divine unition and discretion, in order that every speech should be made conspicuous to us: rejecting indeed everything various and not plain, yet discretely and plainly and ordinately, determining proper things according to virtue.***
+§ 4. 38. Yet it is necessary, as I reckon, taking it up again, for us to expound more the perfect mode of divine unition and discretion, in order that every speech should be made conspicuous to us: rejecting indeed everything various and not plain, yet discretely and plainly and ordinately, determining proper things according to virtue.  
 
 > 39. For our holy masters of theological tradition, which I have said also in other works, indeed call the divine unitions, which are of the super-ineffable and super-unknown singularity, hidden and inegressible super-gatherings;
 
@@ -218,9 +220,9 @@ second, how some discretion pertains to the unity of essence, at ***yet if also 
 
 Lectio 3  
 
-***How Under the Common Mode of Discretion There Is Contained a Certain Proper Unition, Which Is According to the Proportion of Creatures from God, Pertaining to the Whole Trinity***
+How Under the Common Mode of Discretion There Is Contained a Certain Proper Unition, Which Is According to the Proportion of Creatures from God, Pertaining to the Whole Trinity  
 
-***49. Yet if also a procession befitting the good, of the divine and super-united unition, driving and multiplying goodness itself into plurality, is a divine discretion, then there are united indeed according to divine discretion the incomprehensible traditions, substantifications, vivifications, sapientifications, and other gifts of goodness which is the cause of all things, according to which from participations and participatings participated things are praised not participably. And this is common and united and one to the whole deity, that all the whole itself is participated from each of the participating things and from none, by no part.***
+49. Yet if also a procession befitting the good, of the divine and super-united unition, driving and multiplying goodness itself into plurality, is a divine discretion, then there are united indeed according to divine discretion the incomprehensible traditions, substantifications, vivifications, sapientifications, and other gifts of goodness which is the cause of all things, according to which from participations and participatings participated things are praised not participably. And this is common and united and one to the whole deity, that all the whole itself is participated from each of the participating things and from none, by no part.  
 
 > 50. In which mode a point in the middle of a circle from all the lines placed around it in the circle, and just as many impressions of a seal participate the archetype seal and with the whole and the same existing in each of the impressions and in none according to no part.
 
@@ -272,7 +274,7 @@ Lectio 4
 
 ***That the Divine Discretions Cannot be Manifested Sufficiently by Us***
 
-***§ 7. 54. But indeed whatever causes of these unitions and discretions we found in the eloquences befitting God, in the *Theological Hypotyposes*, treating the proper things of each, we expounded as was possible, reflecting on certain things indeed whereas opening up by speech and adducing both a holy and a revealed understanding into manifest visions of the eloquences, yet for certain things, as for mystic things, united according to the divine tradition above intellectual operation.***
+§ 7. 54. But indeed whatever causes of these unitions and discretions we found in the eloquences befitting God, in the *Theological Hypotyposes*, treating the proper things of each, we expounded as was possible, reflecting on certain things indeed whereas opening up by speech and adducing both a holy and a revealed understanding into manifest visions of the eloquences, yet for certain things, as for mystic things, united according to the divine tradition above intellectual operation.  
 
 > 55. For all divine things and whatever have been manifested to us, are known by participations only. Yet these, whatever sort they are, according to proper principle and gathering, are above mind and every substance and knowledge.
 
@@ -448,9 +450,9 @@ in another mode, because ***what is*** among all new things ***more new*** and w
 
 Lectio 6  
 
-***On the Divine Discretion That Is Considered According to the Procession of Creatures***
+On the Divine Discretion That Is Considered According to the Procession of Creatures  
 
-***C. II, § 1. 71. Therefore concerning these that indeed is enough; yet let us proceed to the intention of the word, the common and united names of divine discretion, according as it is possible for us, reconsidering.***
+C. II, § 1. 71. Therefore concerning these that indeed is enough; yet let us proceed to the intention of the word, the common and united names of divine discretion, according as it is possible for us, reconsidering.  
 
 > 72. And so that we might predetermine consequently concerning all, we say that the divine discretion is, as has been said, the processions befitting the thearchy by the good. For giving to all existing things and super-filling the participations of all good things, unitively indeed it is discerned and into a plurality it is driven singularly and it is multiplied from one inegressibly.
 

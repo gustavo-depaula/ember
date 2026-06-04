@@ -1,8 +1,10 @@
 # On a Purely Bodily Creature
 
+***Question 14***
+
 ***On a purely bodily creature***
 
-***Then there were questions about a purely bodily creature. And about this there were two questions:***
+Then there were questions about a purely bodily creature. And about this there were two questions:  
 
 first, concerning the arc of clouds called a rainbow, whether it is a sign of no future flood;  
 
@@ -12,7 +14,7 @@ Article 1
 
 ***On the arc of clouds called a rainbow***
 
-***To the first we proceed thus. It seems that the arc of cloudsCf. Alfred of Sareshel, *Commentary on the Metheora of Aristotle*, ed. James K. Otte, Studien und texte zur Geistesgeschichte des Mittelalters 19 (Leiden: E. J. Brill, 1988), 3.10, 51. is not a sign of no future flood.***
+To the first we proceed thus. It seems that the arc of cloudsCf. Alfred of Sareshel, *Commentary on the Metheora of Aristotle*, ed. James K. Otte, Studien und texte zur Geistesgeschichte des Mittelalters 19 (Leiden: E. J. Brill, 1988), 3.10, 51. is not a sign of no future flood.  
 
 Obj. 1: For that which is done out of necessity of nature does not seem to be instituted to signify anything. But the arc of clouds comes forth out of necessity on account of the opposition of the sun to a bedewed cloud.Cf. Aristotle, *Meteorology* 3.5, 373b13–32. Therefore, it does not seem to signify there will be no future flood.  
 
@@ -38,7 +40,7 @@ Article 2
 
 ***Whether it can be proven demonstratively that the world is not eternal***
 
-***To the second we proceed thus. It seems that it can be proven demonstratively that the world is not eternal.***
+To the second we proceed thus. It seems that it can be proven demonstratively that the world is not eternal.  
 
 Obj. 1: For if the world were eternal, there could not be computed the number of years from the beginning of the world. Yet this number is inscribed in the paschal candle. Thus, therefore, the pascal candle could not be blessed in the Church.Cf. Philippe Grand, “Le Quodlibet XIV de Gerard of Abbeville. La vie de Gérard d’Abbeville,” *Middle Ages Doctrinal and Literary History Archives* 31 (1964): 266; Peter Comestor, *Historia Scholastica*, Genesis 5 (PL 198:1059).  
 

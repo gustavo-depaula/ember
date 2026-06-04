@@ -1,5 +1,7 @@
 # Chapter 50
 
+^50:1^ Hæc dicit Dominus: quis est hic liber repudii matris vestræ quo dimisi eam? Aut quis est creditor meus cui vendidi vos? Ecce enim in iniquitatibus vestris venditi estis, et in sceleribus vestris dimisi matrem vestram.  
+
 > ^50:2^ Quia veni, et non erat vir; vocavi, et non erat qui audiret. Numquid abbreviata et parvula facta est manus mea ut non possim redimere, aut non est in me virtus ad liberandum? Ecce in increpatione mea desertum faciam mare, ponam flumina in siccum; computrescent pisces sine aqua et morientur in siti.
 
 > ^50:3^ Induam cælos tenebris et saccum ponam operimentum eorum.

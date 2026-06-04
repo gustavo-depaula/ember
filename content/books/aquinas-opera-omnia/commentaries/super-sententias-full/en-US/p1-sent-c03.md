@@ -1,8 +1,10 @@
 # D. 2 - Unity of the divine essence
 
+***Unity of the divine essence***
+
 ***Division of the text***
 
-***After having inquired about the things to be treated in this work, here he undertakes his intention. And it is divided into two parts. For because, as was said above in our prologue,*In I Sent*., prol. the intention of sacred doctrine is about divine things, but “divine” is taken according to a relation to God, insofar as he is either the principle or the end—according to Revelation 22:13, *I am the Alpha and the Omega*—the consideration of this doctrine will be about realities insofar as they go forth from God as from their principle, and insofar as they are carried back to him as to their end. Whence in the first part he considers divine realities insofar as they go forth from the principle in Books I and II, and in the second, insofar as they return to their end, and this is in the beginning of Book III. It can be divided in another way, according to the intention of the Master,*Sent*. I, 1.3.11. such that in the first part he considers things in Books I–III, and in the second he considers signs, and this latter occurs in Book IV.***
+After having inquired about the things to be treated in this work, here he undertakes his intention. And it is divided into two parts. For because, as was said above in our prologue,*In I Sent*., prol. the intention of sacred doctrine is about divine things, but “divine” is taken according to a relation to God, insofar as he is either the principle or the end—according to Revelation 22:13, *I am the Alpha and the Omega*—the consideration of this doctrine will be about realities insofar as they go forth from God as from their principle, and insofar as they are carried back to him as to their end. Whence in the first part he considers divine realities insofar as they go forth from the principle in Books I and II, and in the second, insofar as they return to their end, and this is in the beginning of Book III. It can be divided in another way, according to the intention of the Master,*Sent*. I, 1.3.11. such that in the first part he considers things in Books I–III, and in the second he considers signs, and this latter occurs in Book IV.  
 
 Furthermore, the first is divided into three parts: in the first he treats the things that can be enjoyed in Book I; in the second, of things that can be used in Book II; and in the third, of things that order the useful to the enjoyable, which are also partly useful and partly enjoyable in Book III.  
 
@@ -47,7 +49,7 @@ Article 1
 
 ***Whether God is only one***
 
-***To the first we proceed as follows.Parallel texts: below, d. 24, a. 1; *In II Sent*., d. 1, q. 1, a. 1; *ST* I.11.3; 103.3; *SCG* I.42; *On the Power of God*, q. 3, a. 6; *Compendium theologiae*, ch. 15; *Commentary on Dionysius’s On the Divine Names*, ch. 13, lect. 2, 3; *Commentary on the Metaphysics*, bk. 8, lect. 12; bk. 12, lect. 10. It appears that it is not necessary to assert that God is one.***
+To the first we proceed as follows.Parallel texts: below, d. 24, a. 1; *In II Sent*., d. 1, q. 1, a. 1; *ST* I.11.3; 103.3; *SCG* I.42; *On the Power of God*, q. 3, a. 6; *Compendium theologiae*, ch. 15; *Commentary on Dionysius’s On the Divine Names*, ch. 13, lect. 2, 3; *Commentary on the Metaphysics*, bk. 8, lect. 12; bk. 12, lect. 10. It appears that it is not necessary to assert that God is one.  
 
 Obj. 1: For only one thing proceeds from the first and simple one, according to the Philosopher.Aristotle, *Physics* 8.6, 259a10‒20; 260a19‒23; *Metaphysics* 8.6, 1045b1‒8. But created things are found to participate in many goodnesses, such as wisdom, goodness, peace, and the like. Therefore it seems that they proceed from many first principles, and thus one is to assert that there are many gods. And this seems to have been the error of the gentiles, as Dionysius says;Pseudo-Dionysius, *On the Divine Names*, ch. 11, para. 6 (PG 3:954). this is evident also from the fact that they assert that there is one god for wisdom, another who is the goddess “Peace,” and so on for the others.  
 
@@ -77,7 +79,7 @@ Article 2
 
 ***Whether there is a plurality of attributes in God***
 
-***As regards the second we proceed as follows.Parallel text: below, d. 22, q. 3, a. 1. It seems that in the divine essence there is no plurality of attributes.***
+As regards the second we proceed as follows.Parallel text: below, d. 22, q. 3, a. 1. It seems that in the divine essence there is no plurality of attributes.  
 
 Obj. 1: For that is most one which is wholly removed from plurality. For, according to the Philosopher,Aristotle, *Topics* 3.5, 119a28. that is whiter which is less mixed with black. But the divine essence is supremely one, that which is the principle of the whole of unity. Therefore no plurality of attributes can fall within it.  
 
@@ -99,9 +101,9 @@ Reply Obj. 2: God’s activity is his own essence. Whence, just as his essence i
 
 Article 3  
 
-***Whether the plurality of accounts, according to which the attributes differ, is only in the intellect or also in God***
+Whether the plurality of accounts, according to which the attributes differ, is only in the intellect or also in God  
 
-***As regards the third, we proceed as follows.Parallel texts: below, d. 22, a. 3; *ST* I.13.4; *SCG* I.35; *On the Power of God*, q. 7, a. 6; *Compendium theologiae*, ch. 25. It seems that the plurality of accounts, according to which the attributes differ, is in no way in God, but is only in the intellect of the one reasoning about them.***
+As regards the third, we proceed as follows.Parallel texts: below, d. 22, a. 3; *ST* I.13.4; *SCG* I.35; *On the Power of God*, q. 7, a. 6; *Compendium theologiae*, ch. 25. It seems that the plurality of accounts, according to which the attributes differ, is in no way in God, but is only in the intellect of the one reasoning about them.  
 
 Obj. 1: For Dionysius says, *you will find every hymn of the holy theologians to be processions according to the goods of the thearchy, each hymn dividing the names of God with manifestation and praise*.Pseudo-Dionysius, *On the Divine Names*, ch. 1, para. 4 (PG 3:590). And the meaning is that the names that the saints take up for the divine praise are divided according to the diverse processions of the divinity, whereby God himself is manifested. Therefore this plurality is not on the side of God, but on the side of his diverse effects, from which our intellect knows and names God in diverse ways.  
 
@@ -175,7 +177,7 @@ Article 4
 
 ***Whether there is a plurality of persons in the divine essence***
 
-***To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 23, a. 4; *ST* I.30.1; *On the Power of God*, q. 9, a. 5; *Compendium theologiae*, cc. 50, 55; *Quodl. VII*, q. 3, a. 1. It appears that there is no plurality of persons within the unity of the divine essence.***
+To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 23, a. 4; *ST* I.30.1; *On the Power of God*, q. 9, a. 5; *Compendium theologiae*, cc. 50, 55; *Quodl. VII*, q. 3, a. 1. It appears that there is no plurality of persons within the unity of the divine essence.  
 
 Obj. 1: For in all created things it is the case that from the multiplication of suppositsA *suppositum* is an individual instance of a nature (for example, Socrates is a supposit of man), the name “suppositum” is derived from the logical relation of the particular being “placed-under” (*sub-positum*) its universal species. follows a numerical multiplication of the essence; for example, the humanity in Socrates and that in Plato are numerically different. But created things have their exemplar in God. Therefore, since it is impossible that the divine essence be multiplied, as was shown above,See a. 1. it seems impossible that a plurality of supposits, or persons, be there.  
 
@@ -197,7 +199,7 @@ Article 5
 
 ***Whether the plurality of persons really differ or is only something of reason***
 
-***To the fifth we proceed as follows.Parallel texts: *In I Sent*., d. 26, q. 2, a. 1; d. 33, a. 1; d. 34, q. 1, a. 1; *In III Sent*., d. 6, q. 2, a. 1, ad 2; *ST* I.3.3; 28.2, 3; 39.1; *SCG* IV.14; *On the Power of God*, q. 8, a. 1; *Compendium theologiae*, ch. 53; *Commentary on John*, ch. 16, lect. 4. It seems that the plurality of supposits in the divine is not real, but only something of reason.***
+To the fifth we proceed as follows.Parallel texts: *In I Sent*., d. 26, q. 2, a. 1; d. 33, a. 1; d. 34, q. 1, a. 1; *In III Sent*., d. 6, q. 2, a. 1, ad 2; *ST* I.3.3; 28.2, 3; 39.1; *SCG* IV.14; *On the Power of God*, q. 8, a. 1; *Compendium theologiae*, ch. 53; *Commentary on John*, ch. 16, lect. 4. It seems that the plurality of supposits in the divine is not real, but only something of reason.  
 
 Obj. 1: For as Damascene says, the three persons are the same in reality, but they are distinguished by reason and cognition.John Damascene, *On the Orthodox Faith*, bk. 1, ch. 2 (PG 94:791). Therefore it seems that the plurality there is not real.  
 
@@ -223,7 +225,7 @@ Reply Obj. 4: Although wisdom does differ from the other attributes according to
 
 Exposition of the text  
 
-****The Trinity is said . . . to be of one and the same substance, or essence*.*Sent*. I, 2.1(4).1, quoting Augustine, *On the Trinity*, bk. 1, ch. 2 (CCSL 50; PL 42:822). He says both because substance is not said properly here, as will be explained below, in Distinction 8.*Sent*. I, 8.4.***
+*The Trinity is said . . . to be of one and the same substance, or essence*.*Sent*. I, 2.1(4).1, quoting Augustine, *On the Trinity*, bk. 1, ch. 2 (CCSL 50; PL 42:822). He says both because substance is not said properly here, as will be explained below, in Distinction 8.*Sent*. I, 8.4.  
 
 *Believed, and understood*.*Sent*. I, 2.1(4).1, quoting Augustine, *On the Trinity*, bk. 1, ch. 2 (CCSL 50; PL 42:822). These are ordered according to how faith in the believer is acquired. For first there is the word of the preacher, as is said in Romans 10:14: *how are they to believe in him of whom they have never heard? And how are they to hear without a preacher?* Second, there is the assent of faith in the very one who believes; and lastly, through faith one comes to understanding: *if you will not believe, you will not understand* (Isa 7:9).RSV: *if you will not believe, surely you shall not be established*.  
 

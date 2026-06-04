@@ -1,10 +1,12 @@
 # C. 11 - Salvation of Both Jews and Gentiles
 
+***Salvatio et Judaeorum et Gentium***
+
 ***Lectio 1***
 
 ***Electio Dei reliquiarum Judaeorum***
 
-***^11:1^ Dico ergo: numquid Deus repulit populum suum? Absit. Nam et ego Israëlita sum ex semine Abraham, de tribu Benjamin: [n. 859]***
+^11:1^ Dico ergo: numquid Deus repulit populum suum? Absit. Nam et ego Israëlita sum ex semine Abraham, de tribu Benjamin: [n. 859]  
 
 > ^11:2^ non repulit Deus plebem suam, quam praescivit. An nescitis in Elia quid dicit Scriptura? quemadmodum interpellat Deum adversum Israël: [n. 862]
 
@@ -116,7 +118,7 @@ Lectio 2
 
 ***Delictum Judaeorum pro salvationem gentium***
 
-***^11:11^ Dico ergo: numquid sic offenderunt ut caderent? Absit. Sed illorum delicto, salus est gentibus ut illos aemulentur. [n. 878]***
+^11:11^ Dico ergo: numquid sic offenderunt ut caderent? Absit. Sed illorum delicto, salus est gentibus ut illos aemulentur. [n. 878]  
 
 > ^11:12^ Quod si delictum illorum divitiae sunt mundi, et diminutio eorum divitiae gentium: quanto magis plenitudo eorum? [n. 883]
 
@@ -230,7 +232,7 @@ Lectio 3
 
 ***Prohibitio gloriationis contra Judaeos***
 
-***^11:17^ Quod si aliqui ex ramis fracti sunt, tu autem cum oleaster esses, insertus es in illis, et socius radicis, et pinguedinis olivae factus es, [n. 894]***
+^11:17^ Quod si aliqui ex ramis fracti sunt, tu autem cum oleaster esses, insertus es in illis, et socius radicis, et pinguedinis olivae factus es, [n. 894]  
 
 > ^11:18^ noli gloriari adversus ramos. Quod si gloriaris: non tu radicem portas, sed radix te. [n. 897]
 
@@ -332,7 +334,7 @@ Lectio 4
 
 ***Incredulitas hominis est causa misericordiae divinae***
 
-***^11:25^ Nolo enim vos ignorare, fratres, mysterium hoc (ut non sitis vobis ipsis sapientes), quia caecitas ex parte contigit in Israël, donec plenitudo gentium intraret, [n. 912]***
+^11:25^ Nolo enim vos ignorare, fratres, mysterium hoc (ut non sitis vobis ipsis sapientes), quia caecitas ex parte contigit in Israël, donec plenitudo gentium intraret, [n. 912]  
 
 > ^11:26^ et sic omnis Israël salvus fieret, sicut scriptum est: *veniet ex Sion, qui eripiat, et avertat impietatem a Jacob*. [n. 917]
 
@@ -452,7 +454,7 @@ Lectio 5
 
 ***Sapientia incomprehensibilia Dei***
 
-***^11:33^ O altitudo divitiarum sapientiae, et scientiae Dei: quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus! [n. 933]***
+^11:33^ O altitudo divitiarum sapientiae, et scientiae Dei: quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus! [n. 933]  
 
 > ^11:34^ Quis enim cognovit sensum Domini? aut quis consiliarius ejus fuit? [n. 938]
 

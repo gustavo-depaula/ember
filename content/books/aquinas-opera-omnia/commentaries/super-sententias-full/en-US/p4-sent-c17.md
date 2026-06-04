@@ -1,8 +1,10 @@
 # D. 37 - Cause of sin and punishment
 
+***Cause of sin and punishment***
+
 ***Division of the text***
 
-***After he has dealt with the opinion positing that the acts of sins, inasmuch as they exist, are good and from God, in this distinction he follows up with the other, opposing opinion, which posits that they are in no way from God. And it is divided into two parts.***
+After he has dealt with the opinion positing that the acts of sins, inasmuch as they exist, are good and from God, in this distinction he follows up with the other, opposing opinion, which posits that they are in no way from God. And it is divided into two parts.  
 
 In the first, he pursues the latter opinion in how it differs from the preceding.  
 
@@ -50,7 +52,7 @@ Article 1
 
 ***Whether sin is a substance or some nature***
 
-***To the first we proceed as follows.Parallel texts: above, d. 34, q. 1, a. 2; *ST* I.48.1; *SCG* III.7–9; *On Evil*, q. 1, a. 1; *Compendium theologiae*, ch. 115; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 14. It seems that sin is not a substance or nature.***
+To the first we proceed as follows.Parallel texts: above, d. 34, q. 1, a. 2; *ST* I.48.1; *SCG* III.7–9; *On Evil*, q. 1, a. 1; *Compendium theologiae*, ch. 115; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 14. It seems that sin is not a substance or nature.  
 
 Obj. 1: For nothing that exists in another as in a subject is a substance, as is clear from the definition of “substance.” But sin, no matter how it is taken, is in the sinner as its subject. Therefore, it is not a substance or nature.  
 
@@ -94,7 +96,7 @@ Article 2
 
 ***Whether every being is from God***
 
-***To the second we proceed as follows.Parallel texts: *In II Sent*., d. 1, q. 1, a. 2; *ST* I.44.1; 65.1; *SCG* II.15; *On the Power of God*, q. 3, a. 5; *Compendium theologiae*, ch. 68; *Commentary on Dionysius’s On the Divine Names*, ch. 5, lect. 1. It seems that not every being is from God.***
+To the second we proceed as follows.Parallel texts: *In II Sent*., d. 1, q. 1, a. 2; *ST* I.44.1; 65.1; *SCG* II.15; *On the Power of God*, q. 3, a. 5; *Compendium theologiae*, ch. 68; *Commentary on Dionysius’s On the Divine Names*, ch. 5, lect. 1. It seems that not every being is from God.  
 
 Obj. 1: For “true” and “being” are convertible. But that someone sins is something true that is not from God. Therefore, not everything that is, is from God.  
 
@@ -126,7 +128,7 @@ Question 2
 
 ***The cause of sin***
 
-***Then the question of the cause of sin is asked. Concerning this two questions are asked:***
+Then the question of the cause of sin is asked. Concerning this two questions are asked:  
 
 first, whether God is the cause of sin itself, absolutely speaking;  
 
@@ -136,7 +138,7 @@ Article 1
 
 ***Whether God is the cause of sin simply***
 
-***To the first we proceed as follows.Parallel texts: above, d. 34, q. 1, a. 3; *ST* I.48.6; 49.2; I-II.79.1; II-II.6.2, ad 2; *SCG* III.162; *On Evil*, q. 3, a. 1; *Commentary on Romans*, ch. 1, lect. 7. It seems that God is the cause of sin simply.***
+To the first we proceed as follows.Parallel texts: above, d. 34, q. 1, a. 3; *ST* I.48.6; 49.2; I-II.79.1; II-II.6.2, ad 2; *SCG* III.162; *On Evil*, q. 3, a. 1; *Commentary on Romans*, ch. 1, lect. 7. It seems that God is the cause of sin simply.  
 
 Obj. 1: For, as it says in a Gloss on Romans 9,*Glossa ordinaria*, at Romans 9:16–19, 6.124–26 (PL 114:502–3). God works in the hearts of men and inclines their wills to whatever he wills, whether good or evil. But he is called the “author of good works” because he inclines man’s will to good. Therefore, for the same reason, he can also be called the “author of sins,” which are evil works.  
 
@@ -168,7 +170,7 @@ Article 2
 
 ***Whether the action of sin, precisely as an action, is from God***
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.79.2, I.49.2; *On Evil*, q. 3, a. 2. It seems that the action of sin, precisely as an action, is not from God.***
+To the second we proceed as follows.Parallel texts: *ST* I-II.79.2, I.49.2; *On Evil*, q. 3, a. 2. It seems that the action of sin, precisely as an action, is not from God.  
 
 Obj. 1: For everything that is from God is good, and every good is good to someone. Now, there are some sins whose acts are not good to anyone because they harm the one who does them and the one to whom they are done. Therefore, these kinds of acts are not from God in any way.  
 
@@ -214,7 +216,7 @@ Question 3
 
 ***The cause of punishment***
 
-***Then the question is asked of the cause of punishment. And concerning this two questions are asked:***
+Then the question is asked of the cause of punishment. And concerning this two questions are asked:  
 
 first, whether God is the cause of punishment;  
 
@@ -224,7 +226,7 @@ Article 1
 
 ***Whether punishment is from God***
 
-***To the first we proceed as follows.Parallel texts: above, d. 32, q. 2, a. 1; d. 34, q. 1, a. 3; *ST* I.49.2; *SCG* II.41; III.71; *On Evil*, q. 1, a. 5; *Compendium theologiae*, ch. 141; *Commentary on John*, ch. 9, lect. 1; *Commentary on Romans*, ch. 1, lect. 7. It seems that punishment is not from God.***
+To the first we proceed as follows.Parallel texts: above, d. 32, q. 2, a. 1; d. 34, q. 1, a. 3; *ST* I.49.2; *SCG* II.41; III.71; *On Evil*, q. 1, a. 5; *Compendium theologiae*, ch. 141; *Commentary on John*, ch. 9, lect. 1; *Commentary on Romans*, ch. 1, lect. 7. It seems that punishment is not from God.  
 
 Obj. 1: For every evil is contrary to some good. But punishment is an evil, since it does harm. Therefore, it is contrary to a good. But what is contrary to a good cannot be from the highest good. For then the highest good could not be the author of peace, but rather of conflict and dissension, if contraries proceeded from him. Therefore, punishment is not from God.  
 
@@ -260,7 +262,7 @@ Article 2
 
 ***Whether “evil” is said of punishment with greater priority than fault***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.48.6; II-II.19.1; *On Evil*, q. 1, a. 5. It seems that “evil” is said of punishment with greater priority than fault.***
+To the second we proceed as follows.Parallel texts: *ST* I.48.6; II-II.19.1; *On Evil*, q. 1, a. 5. It seems that “evil” is said of punishment with greater priority than fault.  
 
 Obj. 1: For good, though it is in all genera, is in substance with greater priority than the others, as is clear from the *Ethics* 1.Aristotle, *Nicomachean Ethics* 1.6, 1096a21. But the evil of punishment deprives of the good in a substance, such as death—which is a kind of punishment—deprives of substantial perfection. But the evil of fault is an evil in an action. Therefore, “evil” is said of punishment with greater priority than fault.  
 
@@ -294,7 +296,7 @@ Reply Obj. 5: Whatever is found in the cause, and what it causes, is found in th
 
 Exposition of the text  
 
-****Not because it is not an evil action or will, which is something, but because it separates men from true being*.*Sent*. II, 37.1(243).2. This is unfittingly said. For it is obvious that an action is not separate from true being precisely as an action, but instead as disordered. Hence the fact that sin is called “nothing” is not by reason of the action, but by reason of the disorder.***
+*Not because it is not an evil action or will, which is something, but because it separates men from true being*.*Sent*. II, 37.1(243).2. This is unfittingly said. For it is obvious that an action is not separate from true being precisely as an action, but instead as disordered. Hence the fact that sin is called “nothing” is not by reason of the action, but by reason of the disorder.  
 
 *They teach that they are to be taken as concerning natures or substances only*.*Sent*. II, 37.1(243).3. From this we have nothing more than that substance and nature, taken in one way, are different from good and evil action. And this is true.  
 

@@ -1,8 +1,10 @@
 # D. 4 - Agencies in the conception of Christ
 
+***Agencies in the conception of Christ***
+
 ***Division of the text***
 
-***After having considered the Incarnation on the part of what was assumed [Distinction 2], showing what was assumed and what its condition was before it was assumed [Distinction 3], in this part he considers what brought about the very thing assumed. And this is divided into two parts:***
+After having considered the Incarnation on the part of what was assumed [Distinction 2], showing what was assumed and what its condition was before it was assumed [Distinction 3], in this part he considers what brought about the very thing assumed. And this is divided into two parts:  
 
 In the first, he shows why bringing about the assumed nature is appropriated to the Holy Spirit.  
 
@@ -60,11 +62,11 @@ second, whether by reason of this agency the Holy Spirit can be called the fathe
 
 Article 1  
 
-***Whether the agency of Christ’s conception should be appropriated to certain divine person***
+Whether the agency of Christ’s conception should be appropriated to certain divine person  
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *In I Sent.*, d. 11, a. 1, ad 4; above, d. 1, q. 2, a. 2, ad 6; d. 2, q. 2, a. 2, resp. 2; *ST* III.32.1, 3; *SCG* IV.46; *Compend. theol.,* ch. 209; *Super Matth.* 1. It seems that this agency should not be appropriated to any of the three divine persons.***
+To the first we proceed thus.Parallels: *In I Sent.*, d. 11, a. 1, ad 4; above, d. 1, q. 2, a. 2, ad 6; d. 2, q. 2, a. 2, resp. 2; *ST* III.32.1, 3; *SCG* IV.46; *Compend. theol.,* ch. 209; *Super Matth.* 1. It seems that this agency should not be appropriated to any of the three divine persons.  
 
 Obj. 1: For God’s operation is his own essence. But the essence is common to the three persons, and cannot be appropriated to any of them. Therefore neither should the divine operation by which Christ’s conception as man was completed be appropriated to a particular person.  
 
@@ -74,7 +76,7 @@ On the contrary, every divine activity comes from God according to the notion of
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it should be appropriated to the Father. For power is appropriated to him. Now, the active power that is in God alone is the principle of bringing things about. Therefore every agency should be especially appropriated to the Father.***
+Obj. 1: Moreover, it seems that it should be appropriated to the Father. For power is appropriated to him. Now, the active power that is in God alone is the principle of bringing things about. Therefore every agency should be especially appropriated to the Father.  
 
 Obj. 2: Furthermore, as the Master says above,*Sent*. III. 1. prol. the sending of the Son is his Incarnation. But the eternal sending of the Son is properly attributed to the Father. Therefore bringing about the Incarnation should also be attributed to the Father.  
 
@@ -82,7 +84,7 @@ On the contrary, according to Origen,Moos notes that an editor had cited Book 3 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it should be attributed to the Son. For, as we have from the words of Damascene in Distinction 3,*Sent*. III, 3.1(7).3, referring to John Damascene, *On the Orthodox Faith*, bk. 3, ch. 2 (PG 94:982). divine wisdom, like a divine seed, united flesh from the most pure blood of the Virgin to itself. But as the Philosopher says in the *Physics* 2,Aristotle, *Physics* 2.3, 195a21–23; Aquinas, *In Physic.,* bk. 2, lect. 5, n. 10. a seed is an active principle. Therefore the agency of the Incarnation should be appropriated to the Son.***
+Obj. 1: Moreover, it seems that it should be attributed to the Son. For, as we have from the words of Damascene in Distinction 3,*Sent*. III, 3.1(7).3, referring to John Damascene, *On the Orthodox Faith*, bk. 3, ch. 2 (PG 94:982). divine wisdom, like a divine seed, united flesh from the most pure blood of the Virgin to itself. But as the Philosopher says in the *Physics* 2,Aristotle, *Physics* 2.3, 195a21–23; Aquinas, *In Physic.,* bk. 2, lect. 5, n. 10. a seed is an active principle. Therefore the agency of the Incarnation should be appropriated to the Son.  
 
 Obj. 2: Furthermore, Bernard says in *On Consideration*,Bernard, *De consideratione libri V*, vol. 3, bk. 5, para. 22–23 (Bernardi opera, ed. J. Leclercq et H.M. Rochais, 1963; PL 182:801). that God’s wisdom is that evangelical woman who mixed three things sprung from the yeast of the glorious Virgin’s faith—namely, the new, the old, and the eternal: the new in the creation of the soul from nothing; the old in the assumption of a body from Adam’s nature; the eternal in the union of the Godhead. But wisdom is attributed to the Son. Therefore the agency of the Incarnation should be attributed to the Son.  
 
@@ -90,7 +92,7 @@ On the contrary, it seems unfitting that something should make itself or beget i
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that it should also not be appropriated to the Holy Spirit, such that we would say, *conceived of the Holy Spirit*.Parallels: *ST* III.32.2; *Super Matth*. 1. For the Holy Spirit is charity, and the gift of God, as we said in Book I.*In I Sent*., d. 17, q. 2, prol.; d. 18, q. 1, a. 1. But it is not fitting to say that Christ was conceived by charity or by the gift of God. Therefore, neither should it be said that he was conceived by the Holy Spirit.***
+Obj. 1: Moreover, it seems that it should also not be appropriated to the Holy Spirit, such that we would say, *conceived of the Holy Spirit*.Parallels: *ST* III.32.2; *Super Matth*. 1. For the Holy Spirit is charity, and the gift of God, as we said in Book I.*In I Sent*., d. 17, q. 2, prol.; d. 18, q. 1, a. 1. But it is not fitting to say that Christ was conceived by charity or by the gift of God. Therefore, neither should it be said that he was conceived by the Holy Spirit.  
 
 Obj. 2: Furthermore, as can be gathered from Augustine’s words in Book I,*In I Sent*., d. 36, prol. this preposition “of” denotes consubstantiality, or a shared substance. This is why we do not say that something is made of something else, unless it is of its substance. For we do say that the Son is of the Father, but not that the heavens and the earth are of God. But Christ as man is not consubstantial with the Holy Spirit. Therefore he should not be said to be conceived of the Holy Spirit.  
 
@@ -98,7 +100,7 @@ On the contrary, it says in Matthew 1:20, *that which is conceived in her is of 
 
 Response to Quaestiuncula 1  
 
-***I answer the first question that, as Dionysius says in *On the Divine Names*,Pseudo-Dionysius, *On the Divine Names*, ch. 2, n. 1 (PG 3:635). every name of God that designates his activity in creation belongs to the whole Trinity. Therefore in any divine activity are displayed things appropriated to the three persons, like wisdom, power, and goodness. And these were also displayed in the activity of the Incarnation, as Damascene says:John Damascene, *On the Orthodox Faith*, bk. 3, ch. 1 (PG 94:983). goodness, since he did not despise the weakness of his own creations; power, since he united things that were most distant; and wisdom, as he found the fitting manner for what seemed impossible; and even his justice, in that he restored the health of the human race by the way of making satisfaction.***
+I answer the first question that, as Dionysius says in *On the Divine Names*,Pseudo-Dionysius, *On the Divine Names*, ch. 2, n. 1 (PG 3:635). every name of God that designates his activity in creation belongs to the whole Trinity. Therefore in any divine activity are displayed things appropriated to the three persons, like wisdom, power, and goodness. And these were also displayed in the activity of the Incarnation, as Damascene says:John Damascene, *On the Orthodox Faith*, bk. 3, ch. 1 (PG 94:983). goodness, since he did not despise the weakness of his own creations; power, since he united things that were most distant; and wisdom, as he found the fitting manner for what seemed impossible; and even his justice, in that he restored the health of the human race by the way of making satisfaction.  
 
 However, each divine activity is can be appropriated to one person more than another insofar as the attribute that is appropriated to that person is more manifest in him. Now, divine goodness is manifest in God’s activity when, without any need of his own, he communicates what is his to his creation; and to the degree that those are communicated, the less they are owed to the creature; and to the degree that they are proper to God, the more God’s goodness is displayed thereby. For example, there are things that are gratuitously added to nature, and because of this graces are attributed to the Holy Spirit, to whom goodness is appropriated.  
 
@@ -112,7 +114,7 @@ We grant the third objection.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that what should be appropriated to the Father are those divine activities that especially manifest power; this is why the work of creation is appropriated to the Father. For the Father’s power is found at work in the production of an effect, but goodness is in the generous bestowal of it. Therefore, in the work of creation, things are produced in existence, but nothing is bestowed on them at that time beyond what the account of their nature requires, as it is in the work of re-creation, in which things are not entirely produced out of non-existence, but something is bestowed on them above their condition. And thus the things that pertain to re-creation are appropriated to the Holy Spirit, and not the Father.***
+To the second question, it should be said that what should be appropriated to the Father are those divine activities that especially manifest power; this is why the work of creation is appropriated to the Father. For the Father’s power is found at work in the production of an effect, but goodness is in the generous bestowal of it. Therefore, in the work of creation, things are produced in existence, but nothing is bestowed on them at that time beyond what the account of their nature requires, as it is in the work of re-creation, in which things are not entirely produced out of non-existence, but something is bestowed on them above their condition. And thus the things that pertain to re-creation are appropriated to the Holy Spirit, and not the Father.  
 
 Reply Obj. 1: It should be said against this objection that although “power” through itself names the active principle, nevertheless in things that act by will, the will commands what the power executes. Now, the object of the will is the good, and thus goodness is ruling principle in the operation of one who acts through his will, and the executing power is, as it were, secondary. This is especially so when the whole notion of the effect is the goodness of the agent. And that is why works of this kind are appropriated to the Holy Spirit.  
 
@@ -120,7 +122,7 @@ Reply Obj. 2: In the Incarnation there are two things: the person doing the assu
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that as the Philosopher says in the *Metaphysics* 1,Aristotle, *Metaphysics* 1.2, 982a17–18; Aquinas, *In Physic.*, bk. 1, lect. 2, n. 42. it belongs to wisdom to order things. For this reason, those divine actions that pertain to God’s ordering, such as governance and the like, are attributed to the Son, to whom wisdom is appropriated. However, in the work of the Incarnation we find a certain gratuitous bestowal by which to be assumed into the unity of a divine person was given to a human nature, both to be filled with every grace, as the first thing, and even the carrying out of that gift, as the second—which pertain to God’s ordering. And this is why it belongs to the Holy Spirit to be the one who brings about the Incarnation, but to carry out the mystery of the Incarnation belongs to the Son.***
+To the third question, it should be said that as the Philosopher says in the *Metaphysics* 1,Aristotle, *Metaphysics* 1.2, 982a17–18; Aquinas, *In Physic.*, bk. 1, lect. 2, n. 42. it belongs to wisdom to order things. For this reason, those divine actions that pertain to God’s ordering, such as governance and the like, are attributed to the Son, to whom wisdom is appropriated. However, in the work of the Incarnation we find a certain gratuitous bestowal by which to be assumed into the unity of a divine person was given to a human nature, both to be filled with every grace, as the first thing, and even the carrying out of that gift, as the second—which pertain to God’s ordering. And this is why it belongs to the Holy Spirit to be the one who brings about the Incarnation, but to carry out the mystery of the Incarnation belongs to the Son.  
 
 Reply Obj. 1: In the natural conception of a man, the seed bears the notion of an active principle, and even the notion of a terminus, inasmuch as the power in the seed draws to itself what will nourish it and bring it to its complete size. Therefore as to the first, a seed’s activity is appropriated to the Holy Spirit, but as to the second, the notion of a seed is appropriated to the Son, because his conception had its terminus in the hypostasis of the Son.  
 
@@ -130,7 +132,7 @@ We grant the third objection.
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that, by the reason already mentioned the effecting of the Incarnation is appropriated to the Holy Spirit, and therefore it can be said that Christ was conceived of the Holy Spirit, whether this preposition “of” names the relationship of an efficient cause, or even designates the reason for doing it; for the very reason for accomplishing the Incarnation is the goodness appropriated to the Holy Spirit.***
+To the fourth question, it should be said that, by the reason already mentioned the effecting of the Incarnation is appropriated to the Holy Spirit, and therefore it can be said that Christ was conceived of the Holy Spirit, whether this preposition “of” names the relationship of an efficient cause, or even designates the reason for doing it; for the very reason for accomplishing the Incarnation is the goodness appropriated to the Holy Spirit.  
 
 Reply Obj. 1: Although the Holy Spirit is charity and gift, still by the names “charity” and “gift” he is not signified as a subsistent person capable of acting. Therefore it cannot be said that Christ was conceived of charity or of gift, if the “of” describes the bearing of an efficient cause—although pershaps it could be granted insofar as the “of” indicates the notion of doing.  
 
@@ -144,7 +146,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second question we proceed thus.Parallels: below, d. 4, expos. text.; *ST* III.32.3; *SCG* IV.47; *Compend. theol.*, ch. 223; *Super Matth.* 1. It seems that Christ as man could be called the son of the Holy Spirit.***
+To the second question we proceed thus.Parallels: below, d. 4, expos. text.; *ST* III.32.3; *SCG* IV.47; *Compend. theol.*, ch. 223; *Super Matth.* 1. It seems that Christ as man could be called the son of the Holy Spirit.  
 
 Obj. 1: For the human nature that Christ assumed was the work of the whole Trinity without differentiation. But the man Christ Jesus is fittingly called the Son of the Father. Therefore he can also be called the son of the Holy Spirit, or of the whole Trinity.  
 
@@ -158,7 +160,7 @@ Furthermore (5), as the Master said above in Distinction 1,*Sent*. III, 1.1.4. t
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that Christ could be called the son of the Trinity. For Christ as man is something created. But we are called the Trinity’s sons through our creation: *is he not your father?* (Deut 32:6). Therefore Christ can also be called the son of the Trinity, insofar as he is a man.***
+Obj. 1: Moreover, it seems that Christ could be called the son of the Trinity. For Christ as man is something created. But we are called the Trinity’s sons through our creation: *is he not your father?* (Deut 32:6). Therefore Christ can also be called the son of the Trinity, insofar as he is a man.  
 
 Obj. 2: Furthermore, a Gloss on Romans 8:29, *so that he might be the first-born among many brethren*, adds, *in his human nature, according to which he has brethren; but in his divine nature he does not have any*. But those who are born of the same father are said to be “brethren.” Therefore, since the whole Trinity is the father of those who are said to be Christ’s brothers, it seems that it is the father of Christ too, in his human nature.  
 
@@ -170,7 +172,7 @@ Furthermore (5), according to Damascene,John Damascene, *On the Orthodox Faith*,
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that according to Augustine in the text,*Sent*. III. 4. 2(12).1–4. Christ is the son neither of the Holy Spirit nor of the Trinity, but of God the Father alone. But this is denied by different people for different reasons.***
+To the first question, I answer that according to Augustine in the text,*Sent*. III. 4. 2(12).1–4. Christ is the son neither of the Holy Spirit nor of the Trinity, but of God the Father alone. But this is denied by different people for different reasons.  
 
 For some deny this not as simply false, but as unfittingly said, inasmuch as it presents an occasion for error—both about the Son’s eternal generation, in which a certain confusion of the relations would result if the Son were said to be his own son, and the Holy Spirit’s—and about his generation in time, lest the Holy Spirit would seem to have generated Christ as man out of his own substance if he were called his father. And just as he cannot be called the son of the Trinity simply speaking, neither can he be called that through his creation, in order to avoid the error of Arius, who said that Christ was merely something created; nor through his grace, in order to avoid the error of Nestorius, who said that there were two persons in Christ, and that the union of divinity to Christ the man was only by grace, not at the level of the person.  
 
@@ -212,7 +214,7 @@ Question 2
 
 ***The Blessed Virgin's motherhood of Christ***
 
-***Next we will inquire into Christ’s conception in relation to the mother who conceived him; and concerning this there are two things to ask:***
+Next we will inquire into Christ’s conception in relation to the mother who conceived him; and concerning this there are two things to ask:  
 
 first, whether the Blessed Virgin could be called the "mother of the man Jesus Christ";  
 
@@ -222,7 +224,7 @@ Article 1
 
 ***Whether the Blessed Virgin could be called the mother of the man Jesus Christ***
 
-***To the first question we proceed thus.Parallels: above, d. 3, q. 2, a. 1; *ST* III.35.3; *SCG* IV.34, 45; *Super Gal.* 4, lect. 2. It seems that the Blessed Virgin could not be called the mother of that man.***
+To the first question we proceed thus.Parallels: above, d. 3, q. 2, a. 1; *ST* III.35.3; *SCG* IV.34, 45; *Super Gal.* 4, lect. 2. It seems that the Blessed Virgin could not be called the mother of that man.  
 
 Obj. 1: For in Christ’s conception the Blessed Virgin supplied only the matter, because the Holy Spirit did the whole act. But something cannot be called a mother on account of being its matter, as a tree is not the mother of a stool. Therefore the Blessed Virgin cannot be called the "mother" of that man.  
 
@@ -258,7 +260,7 @@ Article 2
 
 ***Whether she should be called the Mother of God***
 
-***To the second question we proceed thus. It seems that the Blessed Virgin should not be called the Mother of God.***
+To the second question we proceed thus. It seems that the Blessed Virgin should not be called the Mother of God.  
 
 Obj. 1: For she is only his mother to the extent he received existence from her. But he did not receive his divinity from her, but only his humanity. Therefore she should not be called the Mother of God, but the mother of the man.  
 
@@ -292,7 +294,7 @@ Question 3
 
 ***The role of grace in the conception of Christ***
 
-***Next we must ask about Christ’s conception in relation to Christ’s grace by which his conception was accomplished. And concerning this there are two things to ask:***
+Next we must ask about Christ’s conception in relation to Christ’s grace by which his conception was accomplished. And concerning this there are two things to ask:  
 
 first, whether any merits preceded that conception; or union;  
 
@@ -302,7 +304,7 @@ Article 1
 
 ***Whether any merits among the ancient patriarchs preceded that conception***
 
-***To the first question we proceed thus.Parallels: *ST* I-II.98.4; III.2.11; *Super Heb.* 1, lect. 4. It seems that the ancient patriarchs merited the Incarnation.***
+To the first question we proceed thus.Parallels: *ST* I-II.98.4; III.2.11; *Super Heb.* 1, lect. 4. It seems that the ancient patriarchs merited the Incarnation.  
 
 Obj. 1: For Isaiah 26:8 says: *in the path of thy judgments, O Lord, we wait for thee*. But it pertains to judgment to return something for one’s merits. Therefore, the coming of the Son of God in the flesh, which the holy patriarchs were awaiting, had to be granted to them for their merits.  
 
@@ -346,7 +348,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second question we proceed thus.Parallels: *ST* III.2.12; 34.3.ad 2. It seems that grace was not natural to that man.***
+To the second question we proceed thus.Parallels: *ST* III.2.12; 34.3.ad 2. It seems that grace was not natural to that man.  
 
 Obj. 1: For grace and nature are divided as opposites. But one opposite does not name the other. Therefore, a grace should not be called natural.  
 
@@ -360,7 +362,7 @@ On the contrary, the proximate causes of natural things are themselves natural. 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that Christ was not filled bodily with divine grace or divinity, which it says in the text.*Sent*. III, 4.2(12).3. Parallels: *ST* III.2.10.ad 2; *Super Col*. 2, lect. 2. For everything that is in someone physically is in him by circumscription. But divinity cannot be circumscribed. Therefore, it cannot dwell in Christ physically.***
+Obj. 1: Moreover, it seems that Christ was not filled bodily with divine grace or divinity, which it says in the text.*Sent*. III, 4.2(12).3. Parallels: *ST* III.2.10.ad 2; *Super Col*. 2, lect. 2. For everything that is in someone physically is in him by circumscription. But divinity cannot be circumscribed. Therefore, it cannot dwell in Christ physically.  
 
 Obj. 2: Furthermore, God is more distant from physicality than an angel, which is physical in relation to God, as John Damascene says.John Damascene, *On the Orthodox Faith*, bk. 2, ch. 3 (PG 94:867). But an angel is not in any place, whether in a body or in a bodily way. Therefore, much less would divinity be.  
 
@@ -370,7 +372,7 @@ On the contrary, divinity was united to the whole of [Christ’s] human nature. 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that we can speak about grace in Christ in two ways: either the grace of union, or the habitual grace by which his soul was perfected. Now, the grace of union is said to be natural to Christ because it is ordered to the union in the divine person, in virtue of which that man is said to be the natural Son of the Father.***
+To the first question, I answer that we can speak about grace in Christ in two ways: either the grace of union, or the habitual grace by which his soul was perfected. Now, the grace of union is said to be natural to Christ because it is ordered to the union in the divine person, in virtue of which that man is said to be the natural Son of the Father.  
 
 But habitual grace can also be said to be natural in Christ in two ways. In one way, because it is stands according to the mode of natural properties, which are inseparably consequent on their subject. In the other way, because it is caused by one of his natures—that is, the divine nature, not the human one.  
 
@@ -380,7 +382,7 @@ Reply Obj. 2–4: And by this, the answers to the other objections are clear.
 
 Response to Quaestiuncula 2  
 
-***To what is further asked about, it should be said that there are three ways the fullness of divinity is said to dwell in Christ bodily.***
+To what is further asked about, it should be said that there are three ways the fullness of divinity is said to dwell in Christ bodily.  
 
 In the first way, because the Godhead was united not only to his soul, but also to his flesh.  
 
@@ -396,7 +398,7 @@ Reply Obj. 3: In other holy people God exists through the grace of his acceptanc
 
 Exposition of the text  
 
-****When one of the three is named . . . the Trinity is understood*.*Sentences* III, 4.1(11).2, citing Augustine, *Enchiridion de fide, spe et caritate*, ch. 38/12 (CCSL 46; PL 40:251). Against this: we say the Son of God was incarnate, which is not understood of the Father and the Holy Spirit. It should be said to this that this statement should be understood as being about things that pertain to the [divine] essence, wherein if something is said about only one person, it must be understood of the others.***
+*When one of the three is named . . . the Trinity is understood*.*Sentences* III, 4.1(11).2, citing Augustine, *Enchiridion de fide, spe et caritate*, ch. 38/12 (CCSL 46; PL 40:251). Against this: we say the Son of God was incarnate, which is not understood of the Father and the Holy Spirit. It should be said to this that this statement should be understood as being about things that pertain to the [divine] essence, wherein if something is said about only one person, it must be understood of the others.  
 
 *But it is not to be granted that whatever is born of some thing is necessarily to be called the son of that thing*.*Sent*. III, 4.2(12).2, citing *Enchiridion de fide, spe et caritate*, ch. 39/12 (CCSL 46; PL 40:251). Therefore, it must be noted that this preposition “of” or “from” denotes efficient or material cause. Now, for something born from something else materially to receive the name “sonship,” it must be produced in a likeness of species with what it was born from, just as a son is born from a mother. And this is why hair and stomach worms are not called the “sons” of the person they materially arise from. Also, for someone actively born from another to be called his “son,” he must be produced from the substance of the agent, and also in a likeness of the same species, and it must not be an instrumental agent, but a principal one. However, the first two conditions are lacking in the Holy Spirit, which is why Christ cannot be called his “son.” Moreover, the second and third conditions are lacking in the case of water, since someone spiritually reborn does not assume the likeness of water, but the likeness of God; and water is the instrument of divine power working in him. Nevertheless, in the *Ecclesiastical Hierarchy*, Dionysius calls the water of baptism the “mother of filiality”;Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 2, n. 7 (PG 3:395). but he is not speaking properly.  
 

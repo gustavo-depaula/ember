@@ -1,6 +1,8 @@
 # Pr. - Acts 9:15
 
-***^9:15^ Dixit autem ad eum Dominus: vade, quoniam vas electionis est mihi iste, ut portet nomen meum coram gentibus, et regibus, et filiis Israël.***
+***Actus 9:15***
+
+^9:15^ Dixit autem ad eum Dominus: vade, quoniam vas electionis est mihi iste, ut portet nomen meum coram gentibus, et regibus, et filiis Israël.  
 
 > **1**. Homines in Sacra Scriptura inveniuntur vasis comparati propter quatuor, scilicet: propter constitutionem, repletionem, usum et fructum.
 

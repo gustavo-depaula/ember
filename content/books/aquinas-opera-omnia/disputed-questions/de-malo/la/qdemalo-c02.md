@@ -1,10 +1,12 @@
 # Q. 2 - On sin
 
+***De peccatis***
+
 ***Articulus 1***
 
 ***Utrum in quolibet peccato sit aliquis actus***
 
-***Quaestio est de peccatis. Et primo quaeritur utrum in quolibet peccato sit aliquis actus.***
+Quaestio est de peccatis. Et primo quaeritur utrum in quolibet peccato sit aliquis actus.  
 
 Et videtur quod sic. Dicit enim Augustinus quod *peccatum est dictum vel factum vel concupitum contra legem Dei*. Sed in quolibet illorum trium importatur aliquis actus. Ergo in quolibet peccato est aliquis actus.  
 
@@ -382,9 +384,9 @@ Alia tria concedimus; procedunt enim de executione singularis actus. Concedimus 
 
 Articulus 6  
 
-***Utrum circumstantia det speciem peccato, aut variet ipsam transferendo in aliud genus peccati***
+Utrum circumstantia det speciem peccato, aut variet ipsam transferendo in aliud genus peccati  
 
-***Sexto quaeritur utrum circumstantia det speciem peccato, aut variet ipsam transferendo in aliud genus peccati.***
+Sexto quaeritur utrum circumstantia det speciem peccato, aut variet ipsam transferendo in aliud genus peccati.  
 
 Et videtur quod non. Principium enim speciei est intrinsecum; circumstantia autem est extrinseca, ut ipsum nomen sonat. Ergo circumstantia non dat speciem peccato.  
 
@@ -480,7 +482,7 @@ Articulus 7
 
 ***Utrum aliqua circumstantia aggravet peccatum quae non conferat peccato speciem***
 
-***Septimo quaeritur utrum aliqua circumstantia aggravet peccatum quae non conferat peccato speciem.***
+Septimo quaeritur utrum aliqua circumstantia aggravet peccatum quae non conferat peccato speciem.  
 
 Et videtur quod non. Peccatum enim habet malitiam ex parte aversionis. Sed circumstantia se tenet ex parte conversionis. Non ergo circumstantia aggravat malitiam peccati.  
 
@@ -522,9 +524,9 @@ Ad octavum dicendum, quod in obiecto aliquo est multas conditiones invenire, et 
 
 Articulus 8  
 
-***Utrum circumstantia aggravet in infinitum, ita scilicet quod de veniali faciat mortale***
+Utrum circumstantia aggravet in infinitum, ita scilicet quod de veniali faciat mortale  
 
-***Octavo quaeritur utrum circumstantia aggravet in infinitum, ita scilicet quod de veniali faciat mortale.***
+Octavo quaeritur utrum circumstantia aggravet in infinitum, ita scilicet quod de veniali faciat mortale.  
 
 Et videtur quod sic. Adam enim in statu innocentiae venialiter peccare non potuit. Ergo omne peccatum fuisset sibi mortale. Sed postea non omne peccatum fuit sibi mortale, nec est haec diversitas nisi secundum circumstantiam personae. Ergo circumstantia aggravat in infinitum.  
 

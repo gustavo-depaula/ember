@@ -1,8 +1,11 @@
 # Compline
 
+[℣.Grant, Lord, a blessing.The hour of Compline is not found in BNF 1143. Instead, the hour has been adapted from the Inchcolm Antiphonary manuscript (MS 211.IV), in the Edinburgh University Library, which is a fragmentary manuscript that contains many of the same items as BNF 1143, though the antiphons for Compline are unique to it.  
+*Benediction*. May almighty God grant us a quiet night and a perfect end. Amen.  
+
 *Short reading* (1 Pet 5:8–9)  
 
-***Brothers: be sober and watch: because your adversary the devil, as a roaring lion, goes about seeking whom he may devour. Resist him, strong in faith.***
+Brothers: be sober and watch: because your adversary the devil, as a roaring lion, goes about seeking whom he may devour. Resist him, strong in faith.  
 
 > ℣. But you, O Lord, have mercy upon us.
 > ℟. Thanks be to God.
@@ -31,7 +34,7 @@ As it was in the beginning, is now, * and ever shall be, world without end. Amen
 
 Psalms 4, 30 (31), 90 (91), & 133 (134)  
 
-***[Psalm 4] When I called upon him, the God of my justice heard me: * when I was in distress, you have enlarged me.***
+[Psalm 4] When I called upon him, the God of my justice heard me: * when I was in distress, you have enlarged me.  
 
 > Have mercy on me: * and hear my prayer.
 
@@ -123,8 +126,8 @@ Psalms 4, 30 (31), 90 (91), & 133 (134)
 
 ***[Jeremiah 14:9]***
 
-***[But you, O Lord, are among us, and your name is called upon by us: forsake us not, O Lord our God.***
-***℟. Thanks be to God.***
+[But you, O Lord, are among us, and your name is called upon by us: forsake us not, O Lord our God.  
+℟. Thanks be to God.  
 
 ℟. Into your hands, O Lord, * do I commend my spirit.  
 ℟. Into your hands, O Lord, * do I commend my spirit.  
@@ -135,10 +138,10 @@ Glory be, etc.
 
 Hymn  
 
-***Before the ending of the day,Cambrai, Médiathèque d’agglomération, Ms. 38, indicates *Verbum Supernum* for the hymn for compline.***
-***Creator of the world, we pray***
-***That with your wonted favor thou***
-***Wouldst be our guard and keeper now.***
+Before the ending of the day,Cambrai, Médiathèque d’agglomération, Ms. 38, indicates *Verbum Supernum* for the hymn for compline.  
+Creator of the world, we pray  
+That with your wonted favor thou  
+Wouldst be our guard and keeper now.  
 
 - From all ill dreams defend our eyes,  
   From nightly fears and fantasies;  

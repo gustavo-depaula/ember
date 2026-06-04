@@ -1,10 +1,12 @@
 # C. 7 - On Wisdom, Mind, Reason, Truth, and Faith
 
+***De sapientia, mente, ratione, veritate et fide***
+
 ***Lectio 1***
 
 ***Quomodo sapientia in Deo accipiatur***
 
-***C. VII. §1. 297. Age autem, si videtur, bonam et aeternam vitam et sicut sapientem et sicut per se sapientiam laudemus; magis autem sicut omnis sapientiae substantificativam et super omnem sapientiam et prudentiam superexistentem.***
+C. VII. §1. 297. Age autem, si videtur, bonam et aeternam vitam et sicut sapientem et sicut per se sapientiam laudemus; magis autem sicut omnis sapientiae substantificativam et super omnem sapientiam et prudentiam superexistentem.  
 
 > 298. Non enim tantum Deus est superplenus sapientia *et prudentiae ipsius non est numerus* sed super omnem rationem et mentem et sapientiam supercollocatur.
 
@@ -80,7 +82,7 @@ Lectio 2
 
 ***Quod divina sapientia est omnis sapientiae causa***
 
-***304. Hanc igitur irrationabilem et amentem et stultam sapientiam excedenter laudantes, dicimus quod omnis est mentis et rationis et omnis sapientiae et prudentiae causa et ipsa est omne consilium et ab ipsa est omnis cognitio et prudentia et in ipsa *sunt omnes thesauri sapientiae et cognitionis absconditi*. Etenim iuxta consequentiam iam praedictorum, supersapiens et omnisapiens causa et ipsius per se sapientiae et totius et particularis est substantificatrix;***
+304. Hanc igitur irrationabilem et amentem et stultam sapientiam excedenter laudantes, dicimus quod omnis est mentis et rationis et omnis sapientiae et prudentiae causa et ipsa est omne consilium et ab ipsa est omnis cognitio et prudentia et in ipsa *sunt omnes thesauri sapientiae et cognitionis absconditi*. Etenim iuxta consequentiam iam praedictorum, supersapiens et omnisapiens causa et ipsius per se sapientiae et totius et particularis est substantificatrix;  
 
 > §2. 305. Ex ipsa intelligibiles et intellectuales angelicarum mentium virtutes, simplices et beatos et bonos habent intellectus;
 
@@ -160,7 +162,7 @@ Lectio 3
 
 ***Quomodo per divinam sapientiam Deus cognoscat***
 
-***313. Quomodo enim intelliget aliquid intelligibilium non habens intellectuales operationes? Aut quomodo cognoscet sensibilia, super omnem sensum collocatus? Et quidem omnia Ipsum scire dicunt eloquia et nihil effugere divinam cognitionem.***
+313. Quomodo enim intelliget aliquid intelligibilium non habens intellectuales operationes? Aut quomodo cognoscet sensibilia, super omnem sensum collocatus? Et quidem omnia Ipsum scire dicunt eloquia et nihil effugere divinam cognitionem.  
 
 > 314. Sed, quod dixi multoties, divina, ut decet Deum, intelligere convenit: etenim sine mente et non sensibile, secundum excessum, non secundum defectum in Deo est ordinandum; sicut irrationale reponimus ei qui est super rationem; et imperfectionem ei qui est superperfectus et praeperfectus; et impalpabilem et invisibilem caliginem, lumini inaccessibili secundum excessum visibilis luminis.
 
@@ -214,7 +216,7 @@ Lectio 4
 
 ***Quomodo Deus cognoscatur***
 
-***§3. 320. Praeterea inquirere oportet quomodo nos cognoscimus Deum neque intelligibilem neque sensibilem neque aliquid universaliter existentium existentem.***
+§3. 320. Praeterea inquirere oportet quomodo nos cognoscimus Deum neque intelligibilem neque sensibilem neque aliquid universaliter existentium existentem.  
 
 > 321. Numquid igitur verum est dicere quoniam Deum cognoscimus, non ex natura Ipsius? Ignotum enim est hoc et omnem rationem et mentem excedens; sed ex omnium totorum ordinatione, sicut ex ipso proposita et imagines quasdam et assimilationes divinorum ipsius exemplarium habente, ad illud quod est super omnia via et ordine secundum virtutem ascendimus, in omnium ablatione et excessu et in omnium causa;
 
@@ -266,7 +268,7 @@ Lectio 5
 
 ***De his quae sapientiae adjunguntur seu de ratione, de veritate et de fide***
 
-***§4. 325. Ratio autem Deus laudatur a sanctis eloquiis non tantum quoniam et rationis et mentis et sapientiae est largitor, sed quoniam omnium causas, in seipso uniformiter praeaccipit et quoniam per omnia vadit, pertingens, ut eloquia dicunt, usque ad finem omnium; et ante hoc, quoniam super omnem simplicitatem, divina simplificatur ratio et ab omnibus est super omnia secundum supersubstantiale absoluta.***
+§4. 325. Ratio autem Deus laudatur a sanctis eloquiis non tantum quoniam et rationis et mentis et sapientiae est largitor, sed quoniam omnium causas, in seipso uniformiter praeaccipit et quoniam per omnia vadit, pertingens, ut eloquia dicunt, usque ad finem omnium; et ante hoc, quoniam super omnem simplicitatem, divina simplificatur ratio et ab omnibus est super omnia secundum supersubstantiale absoluta.  
 
 > 326. Haec ratio est simplex et existens existentis veritas, circa quam sicut mundam et non erroneam totorum cognitionem, divina fides est quae est manens credentium collocatio, quae istos collocat in veritate et in ipsis veritatem, intransmutabili identitate, simplicem veritatis cognitionem habentibus credentibus.
 

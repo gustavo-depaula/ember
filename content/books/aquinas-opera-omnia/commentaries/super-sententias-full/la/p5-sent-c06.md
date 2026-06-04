@@ -1,6 +1,8 @@
 # D. 5 - The union in the Incarnation
 
-***Postquam determinavit Magister circa divinam Incarnationem quid sit assumens, et quid assumptum; hic determinat de utroque simul cujusmodi sit quantum ad intentiones eorum, utrum scilicet assumens et assumptum habeant rationem naturae vel personae. Et dividitur in tres partes.***
+***Divisio textus***
+
+Postquam determinavit Magister circa divinam Incarnationem quid sit assumens, et quid assumptum; hic determinat de utroque simul cujusmodi sit quantum ad intentiones eorum, utrum scilicet assumens et assumptum habeant rationem naturae vel personae. Et dividitur in tres partes.  
 
 In prima movet quaestionem.  
 
@@ -94,7 +96,7 @@ Sed contra, omne quod est et non est creatum, est aeternum. Sed unio est, quia p
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod sit minima unionum. Quia quanto unita magis distant, tantoBruges and Brussels manuscripts add: *necessaria*; Brussels manuscript also adds in the margins: *vel tanto*. est minor unio. Sed divina natura et humana quae dicuntur unita, maxime distant. Ergo unio est minima.***
+Ulterius, videtur quod sit minima unionum. Quia quanto unita magis distant, tantoBruges and Brussels manuscripts add: *necessaria*; Brussels manuscript also adds in the margins: *vel tanto*. est minor unio. Sed divina natura et humana quae dicuntur unita, maxime distant. Ergo unio est minima.  
 
 Praeterea, quanto est major compositio, tanto estEd. omit *est*. minor unio. Sed in Christo est maxima compositio; quia post omnemEd. omit *omnem*. compositionem quam natura facit in homine, quae est maxima interEd. add *omnes*. compositiones naturales, est ibi conjunctio divinitatis ad humanitatem.Ed. read *et humanitatis*. Ergo estEd. add *ibi*. minima unio.  
 
@@ -104,7 +106,7 @@ Sed contra, est quod dicit Bernardus quod inter omnes unitates *arcem tenet unio
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod unioBruges manuscript omits *unio*. non differat ab assumptione. Assumptio enim dicitur quasi ad se sumptio. Sed quidquid ad se sumitur, aliquo modo sumenti unitur. Ergo assumptio est idem quod unio.***
+Ulterius, videtur quod unioBruges manuscript omits *unio*. non differat ab assumptione. Assumptio enim dicitur quasi ad se sumptio. Sed quidquid ad se sumitur, aliquo modo sumenti unitur. Ergo assumptio est idem quod unio.  
 
 Si dicatur quod differunt, quia uniens est unitum, sed assumens non est assumptum.  
 
@@ -118,7 +120,7 @@ Sed contra, divina natura dicitur unita humanae. Non autem dicitur assumpta. Erg
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod unio relatio quaedam est. Omnis autem relatio, secundum Philosophum, 5 *Meta*., fundatur vel supra quantitatem, autEd. read *secundum*. quod reducitur ad genus quantitatis, aut supra actionem etEd. read *vel*. passionem. Unum autem reducitur ad genus quantitatis quasi principium quantitatis discretae. Et supra ipsam fundatur identitas, secundum quod est unum in substantia;—aequalitas, secundum quod est unum in quantitate;—similitudo, secundum quod est unum in qualitate.—Unitio autem est quaedam actio vel passio qua ex multis efficitur aliquo modo unum; et hanc actionem sequitur ista relatio quae est unio. Relationum autem tam harum quam illarum quaedam innascuntur ex motu utriusque; et tunc oportet quod illae relationes sint realiter in utroque extremorum, sicut paternitas et hujusmodi—quaedam autem innascuntur ex motu unius sine immutatione alterius, quo accidit in his quorum unum dependet ad alterum,Bruges manuscript reads *ab altero*. etBrussels manuscript reads *sed*. non e converso, sicut scientia ad scitum; et in talibus relatio est secundum rem in eo quod dependet ad alterum, in altero vero est secundum rationem tantum.—Cum igitur in Incarnatione non sit aliqua mutatio facta in natura divina, sed in humana quae tracta est ad unitatem in persona divina, erit haec relatio, scilicet unio, secundum rem in natura humana, in divina autem secundum rationem tantum, secundum quod dicit Philosophus in 5 *Meta*., quod *aliqua sunt relativa, non quia ipsa referuntur, sed quia alia referuntur ad ipsa*. Unde unio secundum rem creatura quaedam est.***
+Respondeo dicendum ad primam quaestionem, quod unio relatio quaedam est. Omnis autem relatio, secundum Philosophum, 5 *Meta*., fundatur vel supra quantitatem, autEd. read *secundum*. quod reducitur ad genus quantitatis, aut supra actionem etEd. read *vel*. passionem. Unum autem reducitur ad genus quantitatis quasi principium quantitatis discretae. Et supra ipsam fundatur identitas, secundum quod est unum in substantia;—aequalitas, secundum quod est unum in quantitate;—similitudo, secundum quod est unum in qualitate.—Unitio autem est quaedam actio vel passio qua ex multis efficitur aliquo modo unum; et hanc actionem sequitur ista relatio quae est unio. Relationum autem tam harum quam illarum quaedam innascuntur ex motu utriusque; et tunc oportet quod illae relationes sint realiter in utroque extremorum, sicut paternitas et hujusmodi—quaedam autem innascuntur ex motu unius sine immutatione alterius, quo accidit in his quorum unum dependet ad alterum,Bruges manuscript reads *ab altero*. etBrussels manuscript reads *sed*. non e converso, sicut scientia ad scitum; et in talibus relatio est secundum rem in eo quod dependet ad alterum, in altero vero est secundum rationem tantum.—Cum igitur in Incarnatione non sit aliqua mutatio facta in natura divina, sed in humana quae tracta est ad unitatem in persona divina, erit haec relatio, scilicet unio, secundum rem in natura humana, in divina autem secundum rationem tantum, secundum quod dicit Philosophus in 5 *Meta*., quod *aliqua sunt relativa, non quia ipsa referuntur, sed quia alia referuntur ad ipsa*. Unde unio secundum rem creatura quaedam est.  
 
 Ad primum ergo dicendum quod unio illa est in Deo secundum rationem tantum, et non secundum rem.  
 
@@ -128,13 +130,13 @@ Ad tertium dicendum quod unio quae de Deo praedicatur non est neque Creator nequ
 
 Solutio 2  
 
-***Ad secundam autemEd. omit *autem*. quaestionem dicendum estEd. omit *est*. quod unio ista potest dupliciter considerari—vel quantum ad id in quo fit unio—vel quantum ad ipsaEd. read *ea*. quae uniuntur. Si primo modo, cum unio fiat in persona divina, quae est maxime unum et simplicissimum, sic est maxima unio post unionem essentiae in tribus personis. Quamvis enim persona sit ita simplex et unum sicut essentia, tamen quaelibet trium personarum est idem re cum ipsa essentia, in qua uniuntur; non tamenEd. read *autem*. utraque natura in Christo est idem re cum ipsa persona in qua fit unio, quia humana natura non est idem re cum persona divina, quamvis altera natura, scilicet divina, sit omnino idem re cum ipsa. Et ita unio personarum in una essentia est major quam unio naturarum in una persona. Si secundo modo, sic non est maxima unio. Sed prima consideratio est unionis secundum se, quia secundum id quod unum est; haec autem est consideratio unionis, nonThe Nicolaï edition omits *non*. secundum quod unio.—Et ideo dicendum quod unioBruges and Brussels manuscripts omit *unio*. est maxima simpliciter, quamvis sit non maxima secundum quid.***
+Ad secundam autemEd. omit *autem*. quaestionem dicendum estEd. omit *est*. quod unio ista potest dupliciter considerari—vel quantum ad id in quo fit unio—vel quantum ad ipsaEd. read *ea*. quae uniuntur. Si primo modo, cum unio fiat in persona divina, quae est maxime unum et simplicissimum, sic est maxima unio post unionem essentiae in tribus personis. Quamvis enim persona sit ita simplex et unum sicut essentia, tamen quaelibet trium personarum est idem re cum ipsa essentia, in qua uniuntur; non tamenEd. read *autem*. utraque natura in Christo est idem re cum ipsa persona in qua fit unio, quia humana natura non est idem re cum persona divina, quamvis altera natura, scilicet divina, sit omnino idem re cum ipsa. Et ita unio personarum in una essentia est major quam unio naturarum in una persona. Si secundo modo, sic non est maxima unio. Sed prima consideratio est unionis secundum se, quia secundum id quod unum est; haec autem est consideratio unionis, nonThe Nicolaï edition omits *non*. secundum quod unio.—Et ideo dicendum quod unioBruges and Brussels manuscripts omit *unio*. est maxima simpliciter, quamvis sit non maxima secundum quid.  
 
 Et per hoc patet responsio ad ea quae objiciuntur.  
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendumEd. add *est*. quod prima differentia assumptionis et unionis est quod assumptio est actio vel passio; unio autem est relatio tantum, quamvis unitio sit etiam actio.—Secunda differentia est quia assumptio dicitur per comparationem ad terminum a quo separatur vel accipiturEd. add *secundum*. quod uniendum est; sed unio dicitur per comparationem ad terminum siveEd. read *vel*. effectum conjunctionis, qui est esse unum.—Et inde sumitur tertia differentia, quod uniens est unitum; quia unitum significatur secundum quod jam factum est unum, assumptum autem secundum quod est in via ad hoc. Et ideo assumens non est assumptum.—Quarta differentia est, quia assumptio determinat id ad quod fit conjunctio, in hocEd. read *secundum*. quod dicitur assumptio, quasi ad se sumptio; unio autem non. Et ideo quicumque facit conjunctionem,Bruges manuscript adds *et unionem*. potest dici unire; non autem potest dici assumere, nisi sibi conjungat. Unde Pater univit naturam humanam divinae,Ed. read *cum divina*. non autem assumpsit.—Quinta differentia est quod unio, quantum est de se, aequaliter respicit utrumque extremorum; assumptio autem non, immo requirit esse fixum et stans in uno, ad quod aliud trahatur. Et inde est quod natura divina potest dici unita in persona humanae,Ed. add *naturae*. non autem potest dici assumpta.***
+Ad tertiam quaestionem dicendumEd. add *est*. quod prima differentia assumptionis et unionis est quod assumptio est actio vel passio; unio autem est relatio tantum, quamvis unitio sit etiam actio.—Secunda differentia est quia assumptio dicitur per comparationem ad terminum a quo separatur vel accipiturEd. add *secundum*. quod uniendum est; sed unio dicitur per comparationem ad terminum siveEd. read *vel*. effectum conjunctionis, qui est esse unum.—Et inde sumitur tertia differentia, quod uniens est unitum; quia unitum significatur secundum quod jam factum est unum, assumptum autem secundum quod est in via ad hoc. Et ideo assumens non est assumptum.—Quarta differentia est, quia assumptio determinat id ad quod fit conjunctio, in hocEd. read *secundum*. quod dicitur assumptio, quasi ad se sumptio; unio autem non. Et ideo quicumque facit conjunctionem,Bruges manuscript adds *et unionem*. potest dici unire; non autem potest dici assumere, nisi sibi conjungat. Unde Pater univit naturam humanam divinae,Ed. read *cum divina*. non autem assumpsit.—Quinta differentia est quod unio, quantum est de se, aequaliter respicit utrumque extremorum; assumptio autem non, immo requirit esse fixum et stans in uno, ad quod aliud trahatur. Et inde est quod natura divina potest dici unita in persona humanae,Ed. add *naturae*. non autem potest dici assumpta.  
 
 Ad primum ergo dicendum quod quamvis assumptio ordinetur ad unionem, non tamen includit in sua significatione terminum, qui est fieri unum, sicut includitur in significatione unionis.  
 
@@ -192,7 +194,7 @@ Articulus 3
 
 ***Utrum in Christo sit una tantum persona et sic unio sit facta in persona***
 
-***Ad tertium sic proceditur. Videtur quod in Christo non sit una tantum persona, et sic non sit unio facta in persona.***
+Ad tertium sic proceditur. Videtur quod in Christo non sit una tantum persona, et sic non sit unio facta in persona.  
 
 Nulla enimBrussels manuscript omits *enim*. natura invenitur sine illis quae per se consequuntur ad naturam illam. Sed personalitas per se consequitur naturam humanam, similiter et divinam. Ergo utraque natura tenet suam personalitatem.  
 
@@ -304,7 +306,7 @@ Articulus 3
 
 ***Utrum natura, circumscriptis personis, assumere possit***
 
-***Ad tertium sic proceditur. Videtur quod natura, circumscriptis personis, assumere non possit.***
+Ad tertium sic proceditur. Videtur quod natura, circumscriptis personis, assumere non possit.  
 
 Natura enim sine suppositis est nuda in contemplationeThe Nicolaï, Venice, and Parma editions read *in nuda est contemplatione*. tantum. Sed quod est tantum in contemplatione, non habet esse; et quod non est, non agit. Ergo natura sine personis assumere non posset.  
 
@@ -430,7 +432,7 @@ Ad quartum dicendum quod consumere dicitur proprie destruere quod exstitit. Et s
 
 Expositio textus  
 
-****Nec divinitas, inquit, Christi etc. aliena est a natura Patris, nec humanitas a natura matris*. Contra. Christus communicat cum Patre in una natura numero, cum matre vero non. Ergo non est recta similitudo. EtEd. omit *et*. dicendum quod non oportet quod sit similitudo quantum ad omnia, sed sufficit quod sit quantum ad aliquid.***
+*Nec divinitas, inquit, Christi etc. aliena est a natura Patris, nec humanitas a natura matris*. Contra. Christus communicat cum Patre in una natura numero, cum matre vero non. Ergo non est recta similitudo. EtEd. omit *et*. dicendum quod non oportet quod sit similitudo quantum ad omnia, sed sufficit quod sit quantum ad aliquid.  
 
 *Cum de Christo audis, quod*Ed. read *quia*. *in forma Dei etc.* Sciendum quod divina natura dicitur forma, non quod sit actus alicujus naturae, sed quia non habetBrussels manuscript reads *habuit*. partem sui materiamThe Piana, Antwerp, Nicolaï, Venice, and Parma editions read *naturam*. nec aliquid potentialitatis in ipsa est. Natura vero humana dicitur forma, non quia comprehendatEd. read *comprehendit*. principia tantum formalia—comprehendit enim et formam et materiam—sed per modum quo quidditas compositi dicitur forma totius.  
 

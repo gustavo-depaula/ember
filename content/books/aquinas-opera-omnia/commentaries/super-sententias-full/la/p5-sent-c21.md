@@ -1,6 +1,8 @@
 # D. 20 - Causes of the Passion
 
-***Postquam determinavit Magister quomodo per Passionem Christi liberamur a malis, hic determinat de causis Passionis.***
+***Divisio textus***
+
+Postquam determinavit Magister quomodo per Passionem Christi liberamur a malis, hic determinat de causis Passionis.  
 
 Dividitur autem in duas partes.  
 
@@ -70,7 +72,7 @@ Praeterea, non est decens ut aliqua perfectio universo deesset. Sed de perfectio
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non debuerit per satisfactionem reparari. Per eadem enim res reparatur per quae constituitur. Sed humana natura instituta fuit solo verbo Dei, quia *dixit et facta sunt*. Ergo solo verbo DeiThe Vivès edition omits *Dei.* debuit reparari et mandato; et non per aliquam satisfactionem creaturae.***
+Ulterius, videtur quod non debuerit per satisfactionem reparari. Per eadem enim res reparatur per quae constituitur. Sed humana natura instituta fuit solo verbo Dei, quia *dixit et facta sunt*. Ergo solo verbo DeiThe Vivès edition omits *Dei.* debuit reparari et mandato; et non per aliquam satisfactionem creaturae.  
 
 Praeterea, sicut in opere conditionis maxime manifestatur potentia, ita in opere reparationis maxime manifestatur divina misericordia. Sed majoris misericordiae est peccatum absque omni poena satisfactionis dimittere quam satisfactionem requirere. Ergo absque omni satisfactione debuit humana natura reparari.  
 
@@ -82,7 +84,7 @@ Praeterea, satisfactio est medicina peccati. Sed dimittere morbum absque medicin
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non fuerit necessarium naturam humanam reparari modo dicto. Solus enim Deus naturam humanam reparare potuit.Ed. read *potest.* Sed in Deum non cadit necessitas, sicut nec coactio. Ergo non fuit necessarium humanam naturam reparari modo dicto.***
+Ulterius, videtur quod non fuerit necessarium naturam humanam reparari modo dicto. Solus enim Deus naturam humanam reparare potuit.Ed. read *potest.* Sed in Deum non cadit necessitas, sicut nec coactio. Ergo non fuit necessarium humanam naturam reparari modo dicto.  
 
 Praeterea, quanto aliquid est magis necessarium, tanto est minus voluntarium; et quanto est minus voluntarium, tanto est minus gratiarum actione dignum. Sed opus reparationis humanaeBruges manuscript adds *naturae*; the Vivès edition reads *et* in place of *est.* est maxime dignum unde gratias Deo agamus. Ergo nullo modo est necessarium.  
 
@@ -96,7 +98,7 @@ Praeterea, impossibile est aliquid esse inordinatum in universo. Sed si culpae h
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod congruentissimum fuit humanam naturam, ex quo lapsa fuit, reparari. Fuit enim conveniens quantum ad ipsum Deum, quia in hoc manifestatur misericordia Dei, potentia et sapientia: misericordia quidem sive bonitas, quia *proprii plasmatis non despexit infirmitatem*; potentia vero inquantum ipse omnium defectuum nostrorum sua virtute vicit; sapientia autem inquantum nihil frustra fecisse invenitur. Conveniens etiam fuit quantum ad humanam naturam, quia generaliter lapsa erat.Bruges manuscript omits *erat.* Similiter etiamBruges manuscript omits *etiam.* ex perfectione universi, quod totum quodammodo ad salutem hominis ordinatur.***
+Respondeo dicendum ad primam quaestionem quod congruentissimum fuit humanam naturam, ex quo lapsa fuit, reparari. Fuit enim conveniens quantum ad ipsum Deum, quia in hoc manifestatur misericordia Dei, potentia et sapientia: misericordia quidem sive bonitas, quia *proprii plasmatis non despexit infirmitatem*; potentia vero inquantum ipse omnium defectuum nostrorum sua virtute vicit; sapientia autem inquantum nihil frustra fecisse invenitur. Conveniens etiam fuit quantum ad humanam naturam, quia generaliter lapsa erat.Bruges manuscript omits *erat.* Similiter etiamBruges manuscript omits *etiam.* ex perfectione universi, quod totum quodammodo ad salutem hominis ordinatur.  
 
 Ad primum igiturBrussels and Paris (842) manuscripts read *ergo.* dicendum quod "naturale" dupliciter dicitur. Uno modo id quod consequitur ex principiis speciei; et hoc non mutatur per peccatum nec in homine nec in daemone, sicut nec species. Alio modo dicitur naturale id ad quod natura est ordinata; et quantum ad hoc, naturale per peccatum tollitur, inquantum aufertur beatitudo ad quam natura est ordinata, et diminuitur habilitas ad ipsam; et sic natura humanaParis (842) manuscript and the other editions omit *humana.* corrupta erat, quia non poterat perveniriEd. read *perduci* against Bruges, Brussels, Paris (841 and 842) and Vatican (111, 190, and 755) manuscripts. ad beatitudinem ab aliquo illius naturae corruptae, nisi natura reparata esset.  
 
@@ -108,7 +110,7 @@ Ad quartum dicendum quod exclusio a visione Dei potest dici "aeterna" propter du
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod congruum etiam fuit quod humana natura per satisfactionem repararetur. Primo ex parte Dei, quia in hoc divina justitia manifestatur quod culpa per poenam diluitur. Secundo ex parte hominis, qui satisfaciens, perfectius integratur. Non enim tantae gloriae esset post peccatum, quantae erat in statu innocentiae, si non plenarie satisfecisset; quia magis est homini gloriosum ut peccatum commissum satisfaciendo plenarie expurget, quam si sine satisfactione dimitteretur. Sicut etiam magis homini gloriosum est quod vitam aeternam ex meritis habeat, quam si sine meritis ad eam perveniret; quia quod quis meretur, quodammodo ex se habet, inquantum illud meretur.Ed. read *meruit.* Similiter satisfactio facit ut satisfaciens sit quodammodo causa suae purgationis. Tertio etiam ex parte universi, ut scilicet culpa per poenam satisfactionis ordinetur, et sic nihil inordinatum in universo remaneat.***
+Ad secundam quaestionem dicendum quod congruum etiam fuit quod humana natura per satisfactionem repararetur. Primo ex parte Dei, quia in hoc divina justitia manifestatur quod culpa per poenam diluitur. Secundo ex parte hominis, qui satisfaciens, perfectius integratur. Non enim tantae gloriae esset post peccatum, quantae erat in statu innocentiae, si non plenarie satisfecisset; quia magis est homini gloriosum ut peccatum commissum satisfaciendo plenarie expurget, quam si sine satisfactione dimitteretur. Sicut etiam magis homini gloriosum est quod vitam aeternam ex meritis habeat, quam si sine meritis ad eam perveniret; quia quod quis meretur, quodammodo ex se habet, inquantum illud meretur.Ed. read *meruit.* Similiter satisfactio facit ut satisfaciens sit quodammodo causa suae purgationis. Tertio etiam ex parte universi, ut scilicet culpa per poenam satisfactionis ordinetur, et sic nihil inordinatum in universo remaneat.  
 
 Ad primum igiturParis (842) manuscript and the other editions read *ergo.* dicendum quod esse rei praecedit operari ipsius; et ideo non potest esse quod aliquis per suam operationem in esse constituatur, nec quod sit aliquo modo causa sui ipsius; sed sicut homo est causa suae corruptionis peccando, ita et decens est ut sit quodammodo causa suae purgationis satisfaciendo.  
 
@@ -118,7 +120,7 @@ Ad tertium dicendum quod naturae, prout consideratur nuda contemplatione,Ed. rea
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod reparatio humanae naturae a Deo facta est; unde potest dupliciter considerari: scilicet ex parte Dei, et ex parte ipsius naturae reparandae. Ex parte autem Dei potest attendi triplex necessitas. Una est necessitas coactionis; et haec respectu nullius potest Deo attribui, quia non potest in eo aliquid violentum esse, neque extra naturam, cum sit immutabilis, ut Philosophus dicit, 5 *Meta*. Alia necessitas est absoluta; et haec quidem cadit in Deo respectu ipsorumEd. read *illorum.* quae in ipso sunt, quae scilicet naturam suam consequuntur, quia impossibile est ea aliter se habere, sicut necessarium est Deum esse, vel esse bonum et alia hujusmodi. Sed haec necessitas non est Dei respectu alicujus effectus, quia non agit ex necessitate naturae, sed ex libertate voluntatis. Tertia necessitas est ex suppositione, non quidem finis, quia non est dubium quin Deus ad aliquem finem posset inducere multis aliis viis etiam quam illisBruges manuscript omits *etiam quam illis.* quae modo determinatae sunt ad finem aliquem; sed ex suppositione alicujus quod est in ipso, scilicet praescientiae velBruges manuscript omits *vel.* voluntatis, quae mutari non possunt: secundum quem modum dicitur quod necessarium est praedestinatum salvari; et haec dicitur "necessitas immutabilitatis" a quibusdam. Et per hunc modum necessarium fuit ex parte Dei humanam naturam reparari,PLE: *reparari*. quia ipse praeviderat et ordinaverat reparandam. Sed haec necessitas, ut dictum est, est necessitas conditionis, non absoluta; sive consequentiae, non consequentis.***
+Ad tertiam quaestionem dicendum quod reparatio humanae naturae a Deo facta est; unde potest dupliciter considerari: scilicet ex parte Dei, et ex parte ipsius naturae reparandae. Ex parte autem Dei potest attendi triplex necessitas. Una est necessitas coactionis; et haec respectu nullius potest Deo attribui, quia non potest in eo aliquid violentum esse, neque extra naturam, cum sit immutabilis, ut Philosophus dicit, 5 *Meta*. Alia necessitas est absoluta; et haec quidem cadit in Deo respectu ipsorumEd. read *illorum.* quae in ipso sunt, quae scilicet naturam suam consequuntur, quia impossibile est ea aliter se habere, sicut necessarium est Deum esse, vel esse bonum et alia hujusmodi. Sed haec necessitas non est Dei respectu alicujus effectus, quia non agit ex necessitate naturae, sed ex libertate voluntatis. Tertia necessitas est ex suppositione, non quidem finis, quia non est dubium quin Deus ad aliquem finem posset inducere multis aliis viis etiam quam illisBruges manuscript omits *etiam quam illis.* quae modo determinatae sunt ad finem aliquem; sed ex suppositione alicujus quod est in ipso, scilicet praescientiae velBruges manuscript omits *vel.* voluntatis, quae mutari non possunt: secundum quem modum dicitur quod necessarium est praedestinatum salvari; et haec dicitur "necessitas immutabilitatis" a quibusdam. Et per hunc modum necessarium fuit ex parte Dei humanam naturam reparari,PLE: *reparari*. quia ipse praeviderat et ordinaverat reparandam. Sed haec necessitas, ut dictum est, est necessitas conditionis, non absoluta; sive consequentiae, non consequentis.  
 
 Et similiter ex parte hominis potest considerari triplex necessitas. Una necessitasBruges manuscript reads *una est.* absoluta quae est respectu eorum quae naturaliter homini insunt; sicut hominem necessarium est esse risibilem et alia hujusmodi. Et sic non est necessarium humanam naturam reparari, quia reparatio non consequiturEd. read *sequitur.* ex principiis naturalibus. Alia est necessitas coactionis; et haec quidem est respectu illorumEd. read *eorum.* quae homo majori virtute coactus facit et involuntarius simpliciter vel secundum quid. Et talis necessitas non fuit in natura humana respectu reparationis, quia Deus ad virtutem non cogit. Tertia vero necessitas est ex suppositione finis, sicut necessarium est homini habere navem, si debet ire ultra mare. Et hac necessitate necessarium fuit humanam naturam reparari, si scilicet ad visionem Dei admitti debuit.  
 
@@ -134,7 +136,7 @@ Articulus 2
 
 ***Utrum aliqua pura creatura potuerit satisfacere pro humana natura***
 
-***Ad secundum sic proceditur. Videtur quod aliqua pura creatura satisfacere poterat pro humana natura.***
+Ad secundum sic proceditur. Videtur quod aliqua pura creatura satisfacere poterat pro humana natura.  
 
 Sicut enim pro peccato debetur satisfactio, ita pro beneficio debetur gratiarum actio. Sed sufficit Deo gratiarum actio quantum homo potest sibi reddere, etiam si non sit suis beneficiis aequalis; quia, ut dicit Philosophus inEd. omit *in.* 8 *Eth*., *secundum potentiam famulans homo diis et patribus, videtur justus esse, quamvis ad aequalia non possit*. Ergo videtur quod similiter sit sufficiens satisfactio quam homo potest reddere ad expiandum peccatum.  
 
@@ -172,7 +174,7 @@ Articulus 3
 
 ***Utrum debuerit fieri satisfactio per Passionem Christi***
 
-***Ad tertium sic proceditur. Videtur quod satisfactio non debuit fieri per Passionem Christi.***
+Ad tertium sic proceditur. Videtur quod satisfactio non debuit fieri per Passionem Christi.  
 
 Minus enim peccatum non expiatur per majus, sed magis aggravatur. Sed majus fuit peccatum occidentium Christum quam comestio pomi vetiti, qua natura humana corrupta est. Ergo corruptio humanae naturae non potest expiari per passionem Christi.  
 
@@ -232,7 +234,7 @@ Praeterea, Luc, 1:37: *non erit*Bruges manuscript reads *fuit.* *impossibile apu
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod alius modus fuisset convenientior. Si enim Christus mortem subiisset naturalem, nihilominus genus humanum redemptum fuisset, quia mortem solvisset quam non debebat. EtEd. read *sed.* hoc fuisset sine omniEd. omit *omni.* peccato alicujus. Ergo videtur quod hic fuisset modus convenientior, quia unumquodque tanto est convenientius, quanto ad ipsum pauciora inconvenientia sequuntur.***
+Ulterius, videtur quod alius modus fuisset convenientior. Si enim Christus mortem subiisset naturalem, nihilominus genus humanum redemptum fuisset, quia mortem solvisset quam non debebat. EtEd. read *sed.* hoc fuisset sine omniEd. omit *omni.* peccato alicujus. Ergo videtur quod hic fuisset modus convenientior, quia unumquodque tanto est convenientius, quanto ad ipsum pauciora inconvenientia sequuntur.  
 
 Praeterea, diabolus omnino nos injuste invaserat, nec aliquod jus in nobis habebat. Sed nihil est convenientius quam quod vis vi repellatur. Ergo convenientissimus modus fuisset ut per potentiam nos eriperet a potestate diaboli, nonThe Nicolaï edition reads *nos.* redimendo.  
 
@@ -246,7 +248,7 @@ Praeterea, optimi est optima adducere. Si igitur Deus est optimus, modum optimum
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod quantum est ex parte Dei, fuit alius modus possibilis nostrae liberationis, quia ejus potentia limitata non est: quem si elegisset, convenientissimus fuisset, non tamen habuisset rationem redemptionis, sed liberationis tantum, quia liberatio non fuisset facta per solutionem pretii. Ex parte autem hominis non fuit alius modus possibilis nisi quem Deus ei dedit; quia per se satisfacere non poterat, sed solum divino munere. Sed ex parte nostra simul et Dei fuit quidem alius modus possibilis, sed nullus ita conveniens.***
+Respondeo dicendum ad primam quaestionem quod quantum est ex parte Dei, fuit alius modus possibilis nostrae liberationis, quia ejus potentia limitata non est: quem si elegisset, convenientissimus fuisset, non tamen habuisset rationem redemptionis, sed liberationis tantum, quia liberatio non fuisset facta per solutionem pretii. Ex parte autem hominis non fuit alius modus possibilis nisi quem Deus ei dedit; quia per se satisfacere non poterat, sed solum divino munere. Sed ex parte nostra simul et Dei fuit quidem alius modus possibilis, sed nullus ita conveniens.  
 
 Ad primum igiturParis (842) manuscript and the other editions read *ergo.* dicendum quod homo si alio modo liberaretur, non redimeretur; quia redemptio sufficientem satisfactionem importat. Sed tamen alio modo liberari potuit.  
 
@@ -258,7 +260,7 @@ Ad quartum dicendum quod fides antiquorum fuit de passione Christi futura, praes
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod quantum est ex parte nostra, convenientior modus esse non potuit. Sed tamen Deo non aufertur potentia, quin potuisset alium convenientiorem modum fecisse, cujus potentia limitata non est. Sed hoc esset secundum alium ordinem rebus impositum.***
+Ad secundam quaestionem dicendum quod quantum est ex parte nostra, convenientior modus esse non potuit. Sed tamen Deo non aufertur potentia, quin potuisset alium convenientiorem modum fecisse, cujus potentia limitata non est. Sed hoc esset secundum alium ordinem rebus impositum.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod Christus pro omnibus peccatis quantum ad sufficientiam debuit satisfacere, non solum pro originali, sed etiam pro actuali, pro quo infligitur violenta mors; et ideo, ut sua satisfactio omnem comprehenderet, decens fuit ut morte turpissima quantum ad genus mortis moreretur, ut sic non solum sub angelis descenderet per mortem, sed etiam sub hominibus per genus mortis, quantum ad acerbitatem simul et turpitudinem. Nec peccatum aliorum aliquid de convenientia satisfactionis adimit; quia satisfactio non est ex passione ex parte infligentium passionem, sed ex parte patientis.  
 
@@ -274,7 +276,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod Deus Pater Filium non tradiderit ad passionem.***
+Ad quintum sic proceditur. Videtur quod Deus Pater Filium non tradiderit ad passionem.  
 
 Maxima enim crudelitas est filium innocentem tradere. Sed Christus innocentissimus fuit. Ergo cum crudelitas non sit in Deo, videtur quod ipse Christum ad passionem non tradiderit.  
 
@@ -290,7 +292,7 @@ Praeterea, omnis poena est a Deo. Sed Passio Christi quaedam poena fuit. Ergo fu
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod Passio Christi non fuerit bona. Quia, secundum Boetium: cujus generatio est bona, corruptio est mala. Sed Christi generatio optima fuit. Ergo passio mortis ipsius fuit pessima.***
+Ulterius, videtur quod Passio Christi non fuerit bona. Quia, secundum Boetium: cujus generatio est bona, corruptio est mala. Sed Christi generatio optima fuit. Ergo passio mortis ipsius fuit pessima.  
 
 Praeterea, omne injustum estBruges and Paris (841 and 842) manuscripts omit *est.* malum. Sed Christus injuste passus est. 1 Petr. 2:23: *tradebat autem judicanti se injuste*. Ergo passioEd. add *Christi.* illa mala fuit.  
 
@@ -302,7 +304,7 @@ Praeterea, omne quod est ex caritate, est bonum. Sed Christus ex maxima caritate
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod in passione Christi fuit tria considerare. Unum ex parte patientis, quiaPLE: *qui*. scilicet voluntarie passus est ex caritate. Aliud autem ex parte occidentium, qui ex iniqua voluntate eum occiderunt. Tertium est ex parte ipsorum pro quibus passus est, scilicet effectus salutis in toto humano genere. Et secundum hoc tripliciter Deus Pater, immo tota Trinitas, eum tradidit. Uno modo, praeordinando passionem ejus ad salutem humani generis. Secundo, Christo homini voluntatem dando, et caritatem ex qua pati voluit. Tertio, dando potestatem, et non cohibendo voluntatem occidentium, sicut dicitur Joan. 19:11: *non haberes in me potestatem, nisi fuisset tibi data desuper*.***
+Respondeo dicendum ad primam quaestionem quod in passione Christi fuit tria considerare. Unum ex parte patientis, quiaPLE: *qui*. scilicet voluntarie passus est ex caritate. Aliud autem ex parte occidentium, qui ex iniqua voluntate eum occiderunt. Tertium est ex parte ipsorum pro quibus passus est, scilicet effectus salutis in toto humano genere. Et secundum hoc tripliciter Deus Pater, immo tota Trinitas, eum tradidit. Uno modo, praeordinando passionem ejus ad salutem humani generis. Secundo, Christo homini voluntatem dando, et caritatem ex qua pati voluit. Tertio, dando potestatem, et non cohibendo voluntatem occidentium, sicut dicitur Joan. 19:11: *non haberes in me potestatem, nisi fuisset tibi data desuper*.  
 
 Ad primum igiturBrussels and Paris (842) manuscript as well as the other editions read *ergo.* dicendum quod Deus Pater non tradidit Christum in mortem, quasi cogendo ipsum mori, sed dando ei voluntatem bonam qua mori vellet; et ideo non sequitur quod fuerit aliqua crudelitas in Deo.  
 
@@ -314,7 +316,7 @@ Ad quartum dicendum quod facere aliquod malum propter bonum finem consequendum, 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod judicium absolutum est de re, quando consideratur ipsa secundum quod est actu in rerum natura existens; et hoc est quando consideratur cum omnibus circumstantiis quae sunt in ipsa. Sed quando consideratur res secundum aliquid quod in re est sine consideratione aliorum, judicium illud non est de re simpliciter, sed secundum quid.***
+Ad secundam quaestionem dicendum quod judicium absolutum est de re, quando consideratur ipsa secundum quod est actu in rerum natura existens; et hoc est quando consideratur cum omnibus circumstantiis quae sunt in ipsa. Sed quando consideratur res secundum aliquid quod in re est sine consideratione aliorum, judicium illud non est de re simpliciter, sed secundum quid.  
 
 Si igitur consideretur passio secundum quod est in patiente cum omnibus quae circumstant, scilicet caritate Christi et efficacia ipsius, sic est bona simpliciter dicenda. Si autem consideretur secundum quod est passio tantum, scilicet inquantum adimit vitam, nihil aliud considerando, sic est malum in genere mali naturae; unde dicenda est bona simpliciter et mala secundum quid.  
 
@@ -326,7 +328,7 @@ Ad tertium dicendum quod opus operans Judaeorum est malum simpliciter; sed passi
 
 Expositio textus  
 
-****Quia sic justitia superatus est diabolus, non potentia*. Contra. Justitia Dei non potestBruges manuscript reads *poterat.* esse sine potentia, nequeParis (842) manuscript and the other editions read *nec.* e converso. EtEd. omit *et.* dicendum quod intelligendum est: *non potentia* tantum. Sed si etiam potentia tantum diabolum superasset, adhuc esset justitiaPLE: *esset iustitia ex parte dei liberantis quamuis non esset*. ex parte Dei liberantis quamvis non esset ex parteBruges and Brussels manuscripts read *Dei habentis*; the Vivès edition omits *Dei liberantis, quamvis non esset ex parte* through homoteleuton. nostra.***
+*Quia sic justitia superatus est diabolus, non potentia*. Contra. Justitia Dei non potestBruges manuscript reads *poterat.* esse sine potentia, nequeParis (842) manuscript and the other editions read *nec.* e converso. EtEd. omit *et.* dicendum quod intelligendum est: *non potentia* tantum. Sed si etiam potentia tantum diabolum superasset, adhuc esset justitiaPLE: *esset iustitia ex parte dei liberantis quamuis non esset*. ex parte Dei liberantis quamvis non esset ex parteBruges and Brussels manuscripts read *Dei habentis*; the Vivès edition omits *Dei liberantis, quamvis non esset ex parte* through homoteleuton. nostra.  
 
 *Peccantem peccati auctor*Paris (841 and 842) manuscripts read *actor.* *illico invasit.* Contra. Magis peccavit diabolus quam homo. Ergo magis debuit invadi ipse quam homo. EtEd. omit *et.* dicendum quod ambos invasit sententia judicis secundum culpae modum, sed hominem invasit etiamEd. read *et.* peccati auctor; tum quia homo illi se subdidit, tum quia homo ex ordine naturae sub angelis erat; unde etiam homini ad exercitium datur.  
 

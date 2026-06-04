@@ -1,6 +1,8 @@
 # Pr. (Eccl 10:4) - Ecclesiasticus 10:4
 
-***^10:4^ The power of the earth is in the hand of God, and all iniquity of nations is execrable, and in his time he will raise up a profitable ruler over it.***
+***Ecclesiasticus 10:4***
+
+^10:4^ The power of the earth is in the hand of God, and all iniquity of nations is execrable, and in his time he will raise up a profitable ruler over it.  
 
 > **1**. These words suit the subject matter of this epistle. For in the preceding epistles he instructed the Church in matters pertaining to its unity; now he instructs the Church’s rulers, who are, as it were, its chief members. In regard to rulers it is necessary to see how they are established and what purpose they serve.
 

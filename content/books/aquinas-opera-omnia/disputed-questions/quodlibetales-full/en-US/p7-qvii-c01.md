@@ -1,5 +1,7 @@
 # About Spiritual Substances
 
+***Question 1***
+
 ***On the knowledge of spiritual substances***
 
 ***There were three questions:***
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether any created intellect can see the divine essence immediately***
 
-***To the first we proceed thus. It seems that no created intellect can see the divine essence immediately.***
+To the first we proceed thus. It seems that no created intellect can see the divine essence immediately.  
 
 Obj. 1: For a created intellect, since it relates indifferently to all intelligible things, cannot know something determinately unless it be determined through its object. But the divine essence is not an object which can determine the intellect, because it is the greatest amongst beings and of maximal generality in no way determined. Therefore, a created intellect cannot see it.  
 
@@ -66,7 +68,7 @@ Article 2
 
 ***Whether a created intellect can understand many things simultaneously***
 
-***To the second we proceed thus. It seems that a created intellect can understand many things simultaneously.***
+To the second we proceed thus. It seems that a created intellect can understand many things simultaneously.  
 
 Obj. 1: For sensitive potency, since it is material, is more limited than intellective potency. But sense can sense many things simultaneously, just as the common sense senses white and sweet simultaneously while it recognizes their difference.Cf. Aristotle, *On the Soul* 3.2, 426b12–15. Therefore, much more so can the intellect understand many things simultaneously.  
 
@@ -104,7 +106,7 @@ Article 3
 
 ***Whether an angelic intellect can know singulars***
 
-***To the third we proceed thus. It seems that an angelic intellect cannot know singulars.***
+To the third we proceed thus. It seems that an angelic intellect cannot know singulars.  
 
 Obj. 1: For if it knows, either it knows through an acquired species, or through a con-created species. But it does not know through an acquired species, because that species either would be particular and consequently material, and thus it could not be in an immaterial angelic intellect; or it would be universal and so a singular could not be known through it. Similarly, neither does it know through a con-created species, because a species con-created with an angel was in it from the beginning of its creation, yet in order to know something it suffices that its species be in the intellect. And thus, if through a con-created species some particular could be known while it is present, an angelic intellect would have known it from the beginning of its creation when it was yet future, which cannot be, because to know future things belongs to God alone: *announce those things which are to come unto the future and we shall know that you are gods* (Isa 41:22–23). Therefore, an angel cannot know singulars.  
 
@@ -142,9 +144,9 @@ Reply Obj. 5: It must be said that that one species is made a proper reason of k
 
 Article 4  
 
-***Whether the knowledge which Augustine calls the mind’s offspring is an accident or not***
+Whether the knowledge which Augustine calls the mind’s offspring is an accident or not  
 
-***To the fourth we proceed thus. It seems that the knowledge posited by Augustine as the mind’s offspring is not in the mind as an accident is in a subject.Augustine, *On the Trinity* 9.12, para. 18 (CCSL 50:310; PL 42:972).***
+To the fourth we proceed thus. It seems that the knowledge posited by Augustine as the mind’s offspring is not in the mind as an accident is in a subject.Augustine, *On the Trinity* 9.12, para. 18 (CCSL 50:310; PL 42:972).  
 
 Obj. 1: For no accident exceeds its subject. But knowledge exceeds the mind, because the mind not only knows its own self, but also other things through knowledge.Augustine, *On the Trinity* 9.4, para. 5 (CCSL 50:298; PL 42:963). Therefore, knowledge is not an accident of the mind.  
 
@@ -166,7 +168,7 @@ Question 2
 
 ***On the enjoyment of the soul of Christ in his Passion***
 
-***Then there was a question concerning the enjoyment of the soul of Christ in his Passion. And it seems that that enjoyment would have reached even to the essence of the soul.***
+Then there was a question concerning the enjoyment of the soul of Christ in his Passion. And it seems that that enjoyment would have reached even to the essence of the soul.  
 
 Obj. 1: For the soul of Christ enjoyed perfectly. Yet the enjoyment would not have been perfect if it did not reach to the essence of the soul but rather stopped at one power only, namely, superior reason. Therefore, it reached even to the essence of the soul.  
 
@@ -184,7 +186,7 @@ Question 3
 
 ***On the plurality found in spiritual substances***
 
-***Then there were questions concerning the plurality found in spiritual substances. And about this there were two questions:***
+Then there were questions concerning the plurality found in spiritual substances. And about this there were two questions:  
 
 first, whether divine immeasurability excludes plurality of persons;  
 
@@ -194,7 +196,7 @@ Article 1
 
 ***Whether divine immensurability excludes plurality of persons***
 
-***To the first we proceed thus. It seems that divine immeasurability excludes plurality of persons.***
+To the first we proceed thus. It seems that divine immeasurability excludes plurality of persons.  
 
 Obj. 1: For every immensurable thing, since it is indeterminate, stays in one. But whatever is in divine things is immensurable. When, therefore, a person is in divine things, it will stay in one, such that there will not be many persons there.  
 
@@ -216,7 +218,7 @@ Article 2
 
 ***Whether angelic simplicity is composed of accident and subject***
 
-***To the second we proceed thus. It seems that angels are not composed of accident and subject.***
+To the second we proceed thus. It seems that angels are not composed of accident and subject.  
 
 Obj. 1: Since accidental being is caused by substantial being, therefore, so too is accidental composition caused by substantial composition. But in angels there is not substantial composition, because they are simple substances, as Dionysius says.Pseudo-Dionysius, *The Celestial Hierarchy* 1.3 (PG 3:122–23); 2.2 (PG 3:138); *On the Divine Names* 7.2 (PG 3:867–70); 4.1 (PG 3:694). Therefore, neither is there accidental composition.  
 

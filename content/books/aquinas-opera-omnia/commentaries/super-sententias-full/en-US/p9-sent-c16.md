@@ -1,6 +1,8 @@
 # D. 41 - On affinity
 
-***After the Master has considered the impediment of consanguinity, here he considers the impediment to marriage that arises from affinity; and this is divided into two parts: in the first he shows how affinity impedes marriage; in the second he gives the names of affinity, where he says: *let that text of Alexander also be noted*, etc.*Sententiae* IV, 41.5–9 (232–236). 3.***
+***On affinity***
+
+After the Master has considered the impediment of consanguinity, here he considers the impediment to marriage that arises from affinity; and this is divided into two parts: in the first he shows how affinity impedes marriage; in the second he gives the names of affinity, where he says: *let that text of Alexander also be noted*, etc.*Sententiae* IV, 41.5–9 (232–236). 3.  
 
 The first is in three parts: in the first he shows how affinity impedes marriage, just as consanguinity does; in the second he shows how a marriage may be dissolved because of consanguinity and affinity, where he says: *and it is to be known that the Church separates those who are joined within the said degrees of consanguinity*;*Sent*. IV, 41.3 (230). 1. in the third, he considers incest, in which the bond of consanguinity and affinity is violated by physical intimacy, by differentiating from other vices of the same genus, where he says: *here it is to be said that fornication is one thing, defilement another thing*, etc.*Sent*. IV, 41.5–9 (232–236). 1.  
 
@@ -26,7 +28,7 @@ first, concerning the cause of affinity;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question, we proceed thus. It seems that affinity is not caused in someone by the marriage of a blood relation. For *whatever is the cause of a thing being such, is yet more so*.See Aristotle, *Posterior Analytics*, Bk 1, ch. 2 (72a29). But a woman taken in marriage is not related to her husband’s family members, except by reason of her husband. Therefore since she does not have affinity to her husband, neither will she have an affinity with his relatives.***
+Obj. 1: To the first question, we proceed thus. It seems that affinity is not caused in someone by the marriage of a blood relation. For *whatever is the cause of a thing being such, is yet more so*.See Aristotle, *Posterior Analytics*, Bk 1, ch. 2 (72a29). But a woman taken in marriage is not related to her husband’s family members, except by reason of her husband. Therefore since she does not have affinity to her husband, neither will she have an affinity with his relatives.  
 
 Obj. 2: Furthermore, of those who are separated from each other, if something is joined to one of them, it is not necessary on account of this that it be joined to the other. But blood relatives are separated from each other. Therefore, it is not necessary that if a certain woman is joined to a certain man, because of this she is related to all his relatives by affinity.  
 
@@ -38,7 +40,7 @@ Furthermore (2), this is clear from the authorities cited in the text.
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that after the death of the husband, no affinity remains between his wife and his relatives. For *when the cause ceases, the effect ceases*.The phrase seemingly originates in the rescripts of Innocent III, where we find “cessante causa cesset effectus” (Gregory IX, *Decretals*, Bk. 2, tit. 24, can. 26, and Bk. 2, tit. 28, can. 60). But the cause of affinity was marriage, which ceased at the death of the man: for then the woman is freed from the rule of her husband, as is said in Romans 7:2. Therefore, the affinity mentioned does not remain either.***
+Obj. 1: Moreover, it seems that after the death of the husband, no affinity remains between his wife and his relatives. For *when the cause ceases, the effect ceases*.The phrase seemingly originates in the rescripts of Innocent III, where we find “cessante causa cesset effectus” (Gregory IX, *Decretals*, Bk. 2, tit. 24, can. 26, and Bk. 2, tit. 28, can. 60). But the cause of affinity was marriage, which ceased at the death of the man: for then the woman is freed from the rule of her husband, as is said in Romans 7:2. Therefore, the affinity mentioned does not remain either.  
 
 Obj. 2: Furthermore, consanguinity causes affinity. But consanguinity to the man’s relatives ceases by the death of the man. Therefore, the affinity of his wife with them does as well.  
 
@@ -46,7 +48,7 @@ On the contrary, affinity is caused by consanguinity. But consanguinity is a per
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that illicit sleeping together does not cause affinity. For affinity is a certain decent thing. But decent things are not caused by indecent things. Therefore, affinity cannot be caused by indecent sleeping together.***
+Obj. 1: Moreover, it seems that illicit sleeping together does not cause affinity. For affinity is a certain decent thing. But decent things are not caused by indecent things. Therefore, affinity cannot be caused by indecent sleeping together.  
 
 Obj. 2: Furthermore, where there is consanguinity, there cannot be affinity: for affinity is a *closeness of persons arising from carnal intimacy, lacking any kinship*.Raymund of Peñafort, *Summa*, Bk. 4, tit. 15 (510b); Albert the Great, *In IV Sent*., d. 41, a. 2 (BO 30:455); Bonaventure, *In IV Sent*., d. 41, tractatio quaest. (QR 4:857). But sometimes it would happen to those who are consanguineous that they would have an affinity with each other, if illicit sleeping together caused affinity, as when a man carnally and incestuously knows a woman who is consanguineous with him. Therefore, affinity is not caused by illicit sleeping together.  
 
@@ -58,7 +60,7 @@ Furthermore (2), physical intercourse is the cause of affinity, as is clear from
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that no affinity can be caused by a betrothal. For affinity is a perpetual bond.Gratian, *Decretals*, pt. 2, cause 35, q. 10, can. 1. But betrothals are sometimes broken. Therefore they cannot be the cause of affinity.***
+Obj. 1: Moreover, it seems that no affinity can be caused by a betrothal. For affinity is a perpetual bond.Gratian, *Decretals*, pt. 2, cause 35, q. 10, can. 1. But betrothals are sometimes broken. Therefore they cannot be the cause of affinity.  
 
 Obj. 2: Furthermore, if someone violated some woman and penetrated her, but did not succeed in bringing the act to consummation, affinity is not contracted by this.See *Glossa ordin. in Decretrum*, pt. 2, cause 35, qq. 2 and 3, can. 11, and Raymund of Peñafort, *Summa*, Bk. 4, tit. 15 (512b). But that kind of act is closer to physical union than someone who contracts a betrothal. Therefore, affinity is not caused by a betrothal.  
 
@@ -68,7 +70,7 @@ On the contrary, Pope Alexander III prohibited a certain woman from being united
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that affinity is also a cause of affinity. For Pope Julius says, *no man may take to wife the abandoned relative of his own wife*;See Gratian, *Decretals*, pt. 2, cause 35, qq. 2 and 3, append. ad can. 21, ‘Contradicimus’; cf. can. 12, ‘Et hoc quoque’; as well as Theodore of Canterbury, *Poenitentiale*, ch. 11 (PL 99:934). and in the following chapter it says that two women related to each other are prohibited from marrying the same man, one after the other.See Gratian, *Decretals*, pt. 2, cause 35, qq. 2 and 3, can. 22, ‘Porro duorum.’ But this would only be by reason of the affinity that is contracted by the union to someone with an affinity. Therefore, affinity is a cause of affinity.***
+Obj. 1: Moreover, it seems that affinity is also a cause of affinity. For Pope Julius says, *no man may take to wife the abandoned relative of his own wife*;See Gratian, *Decretals*, pt. 2, cause 35, qq. 2 and 3, append. ad can. 21, ‘Contradicimus’; cf. can. 12, ‘Et hoc quoque’; as well as Theodore of Canterbury, *Poenitentiale*, ch. 11 (PL 99:934). and in the following chapter it says that two women related to each other are prohibited from marrying the same man, one after the other.See Gratian, *Decretals*, pt. 2, cause 35, qq. 2 and 3, can. 22, ‘Porro duorum.’ But this would only be by reason of the affinity that is contracted by the union to someone with an affinity. Therefore, affinity is a cause of affinity.  
 
 Obj. 2: Furthermore, physical intercourse unites just as propagation of the flesh does: for the degrees of affinity and consanguinity are counted equally. But consanguinity is the cause of affinity. Therefore, so is affinity.  
 
@@ -82,7 +84,7 @@ Furthermore (6), consanguinity is a stronger bond than affinity. But those consa
 
 Response to Quaestiuncula 1  
 
-***I answer that, a certain natural friendship is founded on a sharing at the level of nature, as was said above. But there are two ways of sharing something in common at the natural level, according to the Philosopher in the *Ethics* 8.Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1161b11). In one way, by the propagation of the flesh; in another way, by the union that is ordered to the propagation of the flesh; for which reason he himself says in the same place that the friendship of a husband and wife is natural.Ibid., 1162a16. And so, just as a person connected to another through propagation of the flesh forms a certain bond of natural friendship, so also if they are joined by physical intimacy. But the difference is this, that a person connected to another through propagation of the flesh, like the son to the father, becomes a sharer of the same root and blood; and so the son is tied with the same kind of bond to his father’s relatives as the father was tied, namely, in consanguinity, although according to another degree, because of his greater distance from the root. But persons united by physical intimacy do not become sharers of the same root, but joined almost extrinsically; and thus by this another kind of bond is made, which is called affinity; and this is what is stated in this verse: *the bride changes the genus, but the daughter changes the degree*:See Raymund of Peñafort, *Summa*, Bk. 4, tit. 15 (511a); Albert the Great, *In IV Sent*., d. 41, a. 4 (BO 30:457); Bonaventure, *In IV Sent*., d. 41, tractatio quaest. (QR 4:857). for in fact the person connected by generation falls into the same genus of kinship, but in a different degree. But by physical intimacy, someone falls into another genus.***
+I answer that, a certain natural friendship is founded on a sharing at the level of nature, as was said above. But there are two ways of sharing something in common at the natural level, according to the Philosopher in the *Ethics* 8.Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1161b11). In one way, by the propagation of the flesh; in another way, by the union that is ordered to the propagation of the flesh; for which reason he himself says in the same place that the friendship of a husband and wife is natural.Ibid., 1162a16. And so, just as a person connected to another through propagation of the flesh forms a certain bond of natural friendship, so also if they are joined by physical intimacy. But the difference is this, that a person connected to another through propagation of the flesh, like the son to the father, becomes a sharer of the same root and blood; and so the son is tied with the same kind of bond to his father’s relatives as the father was tied, namely, in consanguinity, although according to another degree, because of his greater distance from the root. But persons united by physical intimacy do not become sharers of the same root, but joined almost extrinsically; and thus by this another kind of bond is made, which is called affinity; and this is what is stated in this verse: *the bride changes the genus, but the daughter changes the degree*:See Raymund of Peñafort, *Summa*, Bk. 4, tit. 15 (511a); Albert the Great, *In IV Sent*., d. 41, a. 4 (BO 30:457); Bonaventure, *In IV Sent*., d. 41, tractatio quaest. (QR 4:857). for in fact the person connected by generation falls into the same genus of kinship, but in a different degree. But by physical intimacy, someone falls into another genus.  
 
 Reply Obj. 1: Although the cause is more powerful than the effect, it is nevertheless not always necessary that the same name befits cause and effect: for sometimes what is in the effect is found in the cause not in the same way, but in a higher way, and thus it does not belong to the cause and effect under the same name, nor under the same account, as is evident in all causes acting equivocally; and in this way the union of a husband and wife is stronger than the union of a wife to the blood-relatives of her husband; but nonetheless, it should not be called affinity, but marriage, which is a certain unity, just as a man is the same thing as himself, not consanguineous with himself.  
 
@@ -92,7 +94,7 @@ Reply Obj. 3: Sometimes a relation arises from the motion of either of two extre
 
 Response to Quaestiuncula 2  
 
-***To the second question, it must be said that any relation ceases to be in one of two ways. In one way, from the corruption of the subject; in another way, by taking away the cause; just as likeness ceases to be when one of two like things dies, or when the qualities that were the cause of the likeness are taken away. But there are certain relations which have for their cause an action or a passion, or a motion, as is said in Book 5 of the *Metaphysics*:Aristotle, *Metaphysics*, Bk. 4, ch. 15 (1021a14). of which some are caused by motion, as long as something is actually moving, like the very relation that is between mover and moved; but some inasmuch as they have an aptitude to motion, like the motion and the moveable thing, and the master and slave; but some, from the fact that something was moved before, in the way a father and son are related to each other, not from a being-generated now, but from having been generated. But an aptitude to movement, and even being in motion itself, pass away; but to-have-been-moved is perpetual, for what has been done can never cease to have been done; and thus paternity and filiation are never destroyed by the destruction of the cause, but only by the corruption of the subject at either of the two extremes.***
+To the second question, it must be said that any relation ceases to be in one of two ways. In one way, from the corruption of the subject; in another way, by taking away the cause; just as likeness ceases to be when one of two like things dies, or when the qualities that were the cause of the likeness are taken away. But there are certain relations which have for their cause an action or a passion, or a motion, as is said in Book 5 of the *Metaphysics*:Aristotle, *Metaphysics*, Bk. 4, ch. 15 (1021a14). of which some are caused by motion, as long as something is actually moving, like the very relation that is between mover and moved; but some inasmuch as they have an aptitude to motion, like the motion and the moveable thing, and the master and slave; but some, from the fact that something was moved before, in the way a father and son are related to each other, not from a being-generated now, but from having been generated. But an aptitude to movement, and even being in motion itself, pass away; but to-have-been-moved is perpetual, for what has been done can never cease to have been done; and thus paternity and filiation are never destroyed by the destruction of the cause, but only by the corruption of the subject at either of the two extremes.  
 
 And the same thing must be said about affinity, which is caused by the fact that certain people were joined, not that they are joined. Therefore it is not dissolved so long as those people remain between whom the affinity was contracted, even if that person dies by reason of whom the affinity was contracted.See Gratian, *Decretals*, pt. 2, cause 35, q. 10, can. 1.  
 
@@ -102,7 +104,7 @@ Reply Obj. 2: Consanguinity is not the proximate cause of affinity, but the unio
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that according to the Philosopher in the *Ethics* 8,Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1162a16). the union of a husband and wife is called natural principally because of the bringing forth of children, and secondarily because of the sharing of works. And of these two, the first pertains to marriage by reason of physical intimacy, but the second inasmuch as it is a certain partnership in common life. But the first of these is found in any physical intimacy where there is commingling of seeds, for from any union like this children can be produced, although the second kind of union may be lacking; and thus, since marriage causes affinity because of a certain physical intercourse, even fornication causes affinity, insofar as it possesses something of the natural union.***
+To the third question, it should be said that according to the Philosopher in the *Ethics* 8,Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1162a16). the union of a husband and wife is called natural principally because of the bringing forth of children, and secondarily because of the sharing of works. And of these two, the first pertains to marriage by reason of physical intimacy, but the second inasmuch as it is a certain partnership in common life. But the first of these is found in any physical intimacy where there is commingling of seeds, for from any union like this children can be produced, although the second kind of union may be lacking; and thus, since marriage causes affinity because of a certain physical intercourse, even fornication causes affinity, insofar as it possesses something of the natural union.  
 
 Reply Obj. 1: In fornication there is something natural, which is common to fornication and matrimony, and it causes affinity based on that aspect; but there is something else disordered here which distinguishes it from marriage, and based on that aspect affinity is not caused; and so affinity always remains decent, although its cause may be in some way indecent.  
 
@@ -112,7 +114,7 @@ Reply Obj. 3: Intercourse against nature does not include the commingling of see
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that just as a betrothal does not contain the full notion of marriage, but it is a certain preparation for marriage, so affinity is not caused by betrothal as it is caused by marriage, but rather something like affinity, which is called the *justice of public propriety* which impedes marriage, just as affinity and consanguinity do, and according to the same degrees; and it is defined in this way: *the justice of public propriety is a close relationship arising between betrothed people, deriving strength from the institution of the Church for the sake of propriety*.See Albert the Great, *In IV Sent*., d. 41, a. 7 (BO 30:461). From this the reason for its name and its cause are clear; namely that such a close relationship was instituted by the Church for the sake of propriety.***
+To the fourth question, it should be said that just as a betrothal does not contain the full notion of marriage, but it is a certain preparation for marriage, so affinity is not caused by betrothal as it is caused by marriage, but rather something like affinity, which is called the *justice of public propriety* which impedes marriage, just as affinity and consanguinity do, and according to the same degrees; and it is defined in this way: *the justice of public propriety is a close relationship arising between betrothed people, deriving strength from the institution of the Church for the sake of propriety*.See Albert the Great, *In IV Sent*., d. 41, a. 7 (BO 30:461). From this the reason for its name and its cause are clear; namely that such a close relationship was instituted by the Church for the sake of propriety.  
 
 Reply Obj. 1: Betrothal, not by reason of itself, but by reason of that to which it is ordered, causes this kind of affinity, which is called the *justice of public propriety*; and thus as marriage is a perpetual bond, so also is the mode of affinity mentioned.  
 
@@ -122,7 +124,7 @@ Reply Obj. 3: Any impediments that prevent betrothals from being betrothals prev
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that there are two modes in which something comes forth from something else. According to one, it comes forth in likeness of species, as a human is generated by a human; according to the other, it comes forth unlike in species, and this coming forth is always in an inferior species, as is evident in all equivocal agents. But no matter how often the first mode of procession is repeated, the same species always remains, for example when a human is generated by another human through an act of the generative power, this man will also generate a human, and so on in succession. But just as it makes another species in the first instance, the second mode will make a new species as often as it is repeated; for example, what comes from moving a point is not a point but a line, for the movement of a point makes a line; but from a line moved linearly, a line does not come forth, but a plane; and from a plane, a three-dimensional body; and beyond that nothing can arise from such a mode of coming forth.***
+To the fifth question, it should be said that there are two modes in which something comes forth from something else. According to one, it comes forth in likeness of species, as a human is generated by a human; according to the other, it comes forth unlike in species, and this coming forth is always in an inferior species, as is evident in all equivocal agents. But no matter how often the first mode of procession is repeated, the same species always remains, for example when a human is generated by another human through an act of the generative power, this man will also generate a human, and so on in succession. But just as it makes another species in the first instance, the second mode will make a new species as often as it is repeated; for example, what comes from moving a point is not a point but a line, for the movement of a point makes a line; but from a line moved linearly, a line does not come forth, but a plane; and from a plane, a three-dimensional body; and beyond that nothing can arise from such a mode of coming forth.  
 
 Now we find two modes in the procession of relationships, by which a bond like this is caused. The one, by propagation of the flesh, and this always makes the same species of relationship; the other by marital union, and this makes another species in the beginning, as it is evident that a married woman does not become consanguineous with her husband’s relatives, but establishes an affinity. Therefore, even if this mode of proceeding is repeated, it will not be affinity, but another genus of relationship. And for this reason the person who is joined maritally to someone with an affinity does not have an affinity himself, but it is another kind of affinity, which is called the second kind. And vice versa, if someone is joined by marriage to someone with an affinity of the second kind, he will not have an affinity of the second kind, but of a third; as is shown in the verse cited above: *the bride changes genus, the daughter changes degree*.In article 1.  
 
@@ -146,7 +148,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question, we proceed thus.Parallel: above, d. 34, a. 5. It seems that affinity does not impede marriage. For nothing impedes marriage unless it is contrary to it. But affinity is not contrary to marriage, for it is its effect. Therefore, it does not impede marriage.***
+Obj. 1: To the second question, we proceed thus.Parallel: above, d. 34, a. 5. It seems that affinity does not impede marriage. For nothing impedes marriage unless it is contrary to it. But affinity is not contrary to marriage, for it is its effect. Therefore, it does not impede marriage.  
 
 Obj. 2: Furthermore, by marriage a wife is made something of her husband’s. But the blood relatives of a deceased man inherit his belongings.*Digests*, Bk. 38, tit. 16, leg. 1, ‘Intestati.’ Therefore, they can inherit his wife, to whom an affinity still remains, as was shown.See a. 1, qa. 2. Therefore, affinity does not impede marriage.  
 
@@ -154,7 +156,7 @@ On the contrary, it says in Leviticus 18:8: *thou shall not reveal the nakedness
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that affinity also has degrees of its own. For every close relationship has certain degrees of its own. But affinity is a certain close relationship. Therefore, it has degrees in itself apart from the degrees of consanguinity that cause it.***
+Obj. 1: Moreover, it seems that affinity also has degrees of its own. For every close relationship has certain degrees of its own. But affinity is a certain close relationship. Therefore, it has degrees in itself apart from the degrees of consanguinity that cause it.  
 
 Obj. 2: Furthermore, in the text it says that *the progeny of the second union cannot receive the inheritance of the first husband*. But this would not be unless the son of one person with an affinity also had an affinity himself. Therefore, affinity has degrees of its own, like consanguinity.  
 
@@ -162,7 +164,7 @@ On the contrary, affinity is caused by consanguinity. Therefore also, all degree
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the degrees of affinity do not extend like the degrees of consanguinity. For the bond of affinity is less strong than that of consanguinity, since affinity is caused by consanguinity in diversity of species, as by an equivocal cause. But the stronger the bond, the longer consanguinity lasts. Therefore, the bond of affinity does not last up to as many degrees as consanguinity.***
+Obj. 1: Moreover, it seems that the degrees of affinity do not extend like the degrees of consanguinity. For the bond of affinity is less strong than that of consanguinity, since affinity is caused by consanguinity in diversity of species, as by an equivocal cause. But the stronger the bond, the longer consanguinity lasts. Therefore, the bond of affinity does not last up to as many degrees as consanguinity.  
 
 Obj. 2: Furthermore, human law must imitate divine law. But according to divine law, some degrees of consanguinity were prohibited, in which degrees affinity did not impede marriage; just as is evident regarding the wife of one’s brother, whom someone could marry if he were dead, but not his own sister.See Deuteronomy 25:5; Leviticus 18:9–11. Therefore, also now there should not be an equal prohibition concerning affinity as concerning consanguinity.  
 
@@ -170,7 +172,7 @@ On the contrary, it is from the very fact that someone is joined to my blood rel
 
 Response to Quaestiuncula 1  
 
-***I answer that, affinity preceding marriage impedes it from being contracted, and nullifies the contract by the same reason that consanguinity does; for just as there is a certain necessity in blood relatives living together, so also with those who have an affinity; and just as there is a certain bond of friendship among blood relatives, so also among those with an affinity. But if the affinity should arise after the marriage, it does not nullify it, as was said above.See d. 34, q. 1, a. 1, ad 7.***
+I answer that, affinity preceding marriage impedes it from being contracted, and nullifies the contract by the same reason that consanguinity does; for just as there is a certain necessity in blood relatives living together, so also with those who have an affinity; and just as there is a certain bond of friendship among blood relatives, so also among those with an affinity. But if the affinity should arise after the marriage, it does not nullify it, as was said above.See d. 34, q. 1, a. 1, ad 7.  
 
 Reply Obj. 1: Affinity is not opposed to the marriage by which it is caused, but it is opposed to the marriage that would be contracted with someone with whom one has an affinity, inasmuch as it impedes the multiplication of friendship and the repression of concupiscence, which are sought through marriage.  
 
@@ -178,7 +180,7 @@ Reply Obj. 2: The things a man possesses do not become something one with him, a
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a thing is not divided by an essential division unless by reason of what belongs to it according to its own genus, as animal is divided by rational and irrational, but not by white or black. But the propagation of the flesh is related to consanguinity essentially, for the bond of consanguinity is contracted by it immediately; but it is only connected to affinity by means of consanguinity, which is its cause. Therefore, since the degrees of relationship are distinguished by the propagation of the flesh, the distinction of degrees has to do with consanguinity essentially and immediately, but with affinity only by means of consanguinity. And thus for finding the degrees of affinity there is the general rule that in whatever degree of consanguinity a man is related to me, his wife is related to me in that degree of affinity.***
+To the second question, it should be said that a thing is not divided by an essential division unless by reason of what belongs to it according to its own genus, as animal is divided by rational and irrational, but not by white or black. But the propagation of the flesh is related to consanguinity essentially, for the bond of consanguinity is contracted by it immediately; but it is only connected to affinity by means of consanguinity, which is its cause. Therefore, since the degrees of relationship are distinguished by the propagation of the flesh, the distinction of degrees has to do with consanguinity essentially and immediately, but with affinity only by means of consanguinity. And thus for finding the degrees of affinity there is the general rule that in whatever degree of consanguinity a man is related to me, his wife is related to me in that degree of affinity.  
 
 Reply Obj. 1: Degrees in closeness of relationship can only be taken according to ascent and descent of propagation, against which affinity is measured only through by means of consanguinity; and thus affinity does not have degrees of its own, but taken on a par with the degrees of consanguinity.  
 
@@ -186,7 +188,7 @@ Reply Obj. 2: The son of someone who has an affinity with me by another marriage
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that by the fact that the degree of affinity is taken according to the degree of consanguinity, it is necessary that there be as many degrees of affinity as there are degrees of consanguinity. But nevertheless, since affinity is less of a bond than consanguinity, both in former times and now a dispensation was given more easily in the remote degrees of affinity than in the remote degrees of consanguinity.***
+To the third question, it should be said that by the fact that the degree of affinity is taken according to the degree of consanguinity, it is necessary that there be as many degrees of affinity as there are degrees of consanguinity. But nevertheless, since affinity is less of a bond than consanguinity, both in former times and now a dispensation was given more easily in the remote degrees of affinity than in the remote degrees of consanguinity.  
 
 Reply Obj. 1: That inferiority of the bond of affinity with respect to consanguinity makes a difference in the kind of relationship, not in its degree; and so that argument is not to the point.  
 
@@ -194,11 +196,11 @@ Reply Obj. 2: A brother could not take the wife of his own deceased brother, unl
 
 Article 3  
 
-***Concerning the illegitimacy of children which results from this impediment to marriage***
+Concerning the illegitimacy of children which results from this impediment to marriage  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question, we proceed thus. It seems that sons who are born outside of a valid marriage are not illegitimate. For a legitimate son is said to be born according to the law. But any son is born according to the law of nature, at least according to the law of nature, which is the strongest law. Therefore, any son is legitimate.***
+Obj. 1: To the third question, we proceed thus. It seems that sons who are born outside of a valid marriage are not illegitimate. For a legitimate son is said to be born according to the law. But any son is born according to the law of nature, at least according to the law of nature, which is the strongest law. Therefore, any son is legitimate.  
 
 Obj. 2: Furthermore, it is commonly said that a legitimate son is someone who is born of a legitimate marriage, or one that is considered legitimate in the eyes of the Church.See Raymond of Peñafort, *Summa*, Bk. 4, tit. 24, sec. 1 (532a). But it sometimes happens that a certain marriage is considered legitimate in the eyes of the Church which has an impediment to being a valid marriage, yet it is known by those contracting before the Church. And if they marry secretly, and they do not know the impediment, it seems legitimate before the Church, by the fact that they are not prohibited by the Church. Therefore, the sons born outside valid marriage are not illegitimate.  
 
@@ -206,7 +208,7 @@ On the contrary, something is said to be illegitimate which is against the law. 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the illegitimate sons should not suffer any disadvantage by it. For a son should not be punished for the sin of his father, as is clear from the sentence of the Lord in Ezekiel 18:20. But that someone is born from illicit intercourse is not his own sin, but the sin of his father. Therefore, he should not incur any damage from this.***
+Obj. 1: Moreover, it seems that the illegitimate sons should not suffer any disadvantage by it. For a son should not be punished for the sin of his father, as is clear from the sentence of the Lord in Ezekiel 18:20. But that someone is born from illicit intercourse is not his own sin, but the sin of his father. Therefore, he should not incur any damage from this.  
 
 Obj. 2: Furthermore, human justice is patterned on divine justice. But God deals out natural goods equally to legitimate and illegitimate sons. Therefore also according to human law, illegitimate sons should be made equal with legitimate ones.  
 
@@ -214,7 +216,7 @@ On the contrary, it says in Genesis 25:5–6 that Abraham gave all his goods to 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that an illegitimate son cannot be legitimized. For the legitimate son is as far removed from the illegitimate as, conversely, the illegitimate is removed from the legitimate. But a legitimate son is never made illegitimate. Therefore, neither is an illegitimate one made legitimate.***
+Obj. 1: Moreover, it seems that an illegitimate son cannot be legitimized. For the legitimate son is as far removed from the illegitimate as, conversely, the illegitimate is removed from the legitimate. But a legitimate son is never made illegitimate. Therefore, neither is an illegitimate one made legitimate.  
 
 Obj. 2: Furthermore, illegitimate intercourse causes an illegitimate son. But illegitimate intercourse never becomes legitimate. Therefore, neither can an illegitimate son be made legitimate.  
 
@@ -222,7 +224,7 @@ On the contrary, what is decreed by the law can be revoked by the law. But the i
 
 Response to Quaestiuncula 1  
 
-***I answer that, the status of sons has four varieties.See Bernardus Parmensis de Bottone, *Glossa ordin. in Decretal. Gregor. IX*, Bk. 4, tit. 17, ch. 6, ‘Tanta vis’ (1089b); Raymond of Peñafort, *Summa*, Bk. 4, tit. 24, sec. 1 (532b). For some are natural and legitimate, like those who are born from legitimate marriage. Some are natural and illegitimate, as sons who are born from simple fornication. Some are legitimate and not natural, like adoptive sons. And some are neither legitimate nor natural, like bastards, born from adultery or rape: for such are born both against positive law and expressly against the law of nature. And in this way it must be granted that certain sons are illegitimate.***
+I answer that, the status of sons has four varieties.See Bernardus Parmensis de Bottone, *Glossa ordin. in Decretal. Gregor. IX*, Bk. 4, tit. 17, ch. 6, ‘Tanta vis’ (1089b); Raymond of Peñafort, *Summa*, Bk. 4, tit. 24, sec. 1 (532b). For some are natural and legitimate, like those who are born from legitimate marriage. Some are natural and illegitimate, as sons who are born from simple fornication. Some are legitimate and not natural, like adoptive sons. And some are neither legitimate nor natural, like bastards, born from adultery or rape: for such are born both against positive law and expressly against the law of nature. And in this way it must be granted that certain sons are illegitimate.  
 
 Reply Obj. 1: Although those who are born from illicit intercourse are born according to the nature that is common to men and other animals, yet they are born against the law of nature that is proper to men: for fornication and adultery and things of this kind are against the law of nature; and thus according to no law are such as these legitimate.  
 
@@ -230,7 +232,7 @@ Reply Obj. 2: Ignorance excuses illicit intercourse from sin, unless it is prete
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that someone is said to incur damages in two ways. In one way, by the fact that something is taken away from him that was owed to him; and thus an illegitimate son incurs no damage. In another way, the knowledge that something is not owed him, that otherwise would have been due him, and in this way, an illegitimate son incurs two kinds of damage. One, because he is not admitted to legitimate acts, like offices and dignities, which require a certain respectability in those who exercise them. They incur another damage when they do not succeed to the paternal inheritance.See Gregory IX, *Decretals*, Bk. 4, tit. 17, ch. 10, ‘Referente.’ But nevertheless natural sons can succeed in the sixth part alone,See *Novell*., coll. 7, tit. 1, nov. 89, ch. 12, ‘Discretis igitur,’ sec. 3. but bastards in no part,See *Novell*., coll. 7, tit. 1, nov. 89, ch. 15, ‘Ultima.’ although by natural law their parents are bound to provide for them in necessity. Thus it belongs to the bishop’s care to force one of the parents to provide for them.See Gregory IX, *Decretals*, Bk. 4, tit. 7, ch. 5, ‘Cum haberet’; cf. Raymond of Peñafort, *Summa*, Bk. 4, tit. 24, sec. 3 (533b).***
+To the second question, it should be said that someone is said to incur damages in two ways. In one way, by the fact that something is taken away from him that was owed to him; and thus an illegitimate son incurs no damage. In another way, the knowledge that something is not owed him, that otherwise would have been due him, and in this way, an illegitimate son incurs two kinds of damage. One, because he is not admitted to legitimate acts, like offices and dignities, which require a certain respectability in those who exercise them. They incur another damage when they do not succeed to the paternal inheritance.See Gregory IX, *Decretals*, Bk. 4, tit. 17, ch. 10, ‘Referente.’ But nevertheless natural sons can succeed in the sixth part alone,See *Novell*., coll. 7, tit. 1, nov. 89, ch. 12, ‘Discretis igitur,’ sec. 3. but bastards in no part,See *Novell*., coll. 7, tit. 1, nov. 89, ch. 15, ‘Ultima.’ although by natural law their parents are bound to provide for them in necessity. Thus it belongs to the bishop’s care to force one of the parents to provide for them.See Gregory IX, *Decretals*, Bk. 4, tit. 7, ch. 5, ‘Cum haberet’; cf. Raymond of Peñafort, *Summa*, Bk. 4, tit. 24, sec. 3 (533b).  
 
 Reply Obj. 1: To incur damages in this second way is not a punishment, and thus we do not say that it is a punishment for someone that he does not succeed to the throne of a certain kingdom because he is not the son of the king. And likewise, it is not a punishment that those things that are for legitimate sons are not owed to someone who is not legitimate.  
 
@@ -238,7 +240,7 @@ Reply Obj. 2: Illegitimate intercourse is not against the law as an act of the g
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that an illegitimate son can be legitimized, not that he can be made born from legitimate intercourse, for that intercourse has already passed by, and from the fact that it was once illegitimate, it can never be made legitimate. But rather he is said to be legitimized inasmuch as the damages that the illegitimate son incurs are taken away by the authority of law. And there are six ways of legitimizing:See Raymond of Peñafort, *Summa*, Bk. 4, tit. 24, sec. 2 (533a). two according to the canons, one when someone takes as his wife a woman of whom he has borne illegitimate sons, if it was not adultery;Gregory IX, *Decretals*, Bk. 4, tit. 17, ch. 1, ‘Conquestus’; ch. 6, ‘Tanta est vis. and the other, by special indulgence and dispensation of his lordship the Pope.Gregory IX, *Decretals*, Bk. 4, tit. 17, ch. 13, ‘Per venerabilem.’ But four other means are according to the laws. The first is if the father presents a natural son to the court of the Emperor;See *Novell*, coll. 7, tit. 1, nov. 89, ch. 2, ‘Primus itaque.’ for by this very fact he is legitimized on account of the honor of the court. Second, if the father names him a legitimate heir in his will and the son brings forth the will afterward.Ibid. The third is if there is no legitimate son, and the son presents himself to the prince.Ibid. The fourth is if the father, acting through a public document, or with the signature of three witnesses, names him legitimate, and does not add to that “natural.”See *Novell*., coll. 8, tit. 18, nov. 117, ch. 2, ‘Ad hoc autem.’***
+To the third question, it should be said that an illegitimate son can be legitimized, not that he can be made born from legitimate intercourse, for that intercourse has already passed by, and from the fact that it was once illegitimate, it can never be made legitimate. But rather he is said to be legitimized inasmuch as the damages that the illegitimate son incurs are taken away by the authority of law. And there are six ways of legitimizing:See Raymond of Peñafort, *Summa*, Bk. 4, tit. 24, sec. 2 (533a). two according to the canons, one when someone takes as his wife a woman of whom he has borne illegitimate sons, if it was not adultery;Gregory IX, *Decretals*, Bk. 4, tit. 17, ch. 1, ‘Conquestus’; ch. 6, ‘Tanta est vis. and the other, by special indulgence and dispensation of his lordship the Pope.Gregory IX, *Decretals*, Bk. 4, tit. 17, ch. 13, ‘Per venerabilem.’ But four other means are according to the laws. The first is if the father presents a natural son to the court of the Emperor;See *Novell*, coll. 7, tit. 1, nov. 89, ch. 2, ‘Primus itaque.’ for by this very fact he is legitimized on account of the honor of the court. Second, if the father names him a legitimate heir in his will and the son brings forth the will afterward.Ibid. The third is if there is no legitimate son, and the son presents himself to the prince.Ibid. The fourth is if the father, acting through a public document, or with the signature of three witnesses, names him legitimate, and does not add to that “natural.”See *Novell*., coll. 8, tit. 18, nov. 117, ch. 2, ‘Ad hoc autem.’  
 
 Reply Obj. 1: Favor can be granted to someone without injustice; but no one can suffer a greater condemnation without fault; and thus the illegitimate can be made legitimate rather than vice versa. For even if sometimes a legitimate son is deprived of his inheritance because of fault, he is still not called an illegitimate son, for he had a legitimate generation.  
 
@@ -246,11 +248,11 @@ Reply Obj. 2: An illegitimate act has a defect inseparable from itself, by which
 
 Article 4  
 
-***Concerning incest, which someone incurs by the violation of consanguinity and affinity***
+Concerning incest, which someone incurs by the violation of consanguinity and affinity  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth question, we proceed thus.Parallel: *ST* II-II, q. 154, aa. 1 & 9; *De malo*, q. 15, a. 3. It seems that incest does not differ in species from other species of lust which the Master touches upon in the text. For matter does not diversify species. But those things that the Master enumerates in the text only differ on account of matter. Therefore, they are not different species of sin.***
+Obj. 1: To the fourth question, we proceed thus.Parallel: *ST* II-II, q. 154, aa. 1 & 9; *De malo*, q. 15, a. 3. It seems that incest does not differ in species from other species of lust which the Master touches upon in the text. For matter does not diversify species. But those things that the Master enumerates in the text only differ on account of matter. Therefore, they are not different species of sin.  
 
 Obj. 2: Furthermore, on Colossians 3:5, *fornication, uncleanness, lust, concupiscence, and covetousness*, the interlinear gloss says that fornication is all intercourse outside of legitimate wedlock. But incest is one of these. Therefore, it is fornication: and so it is not divided in species from fornication.  
 
@@ -258,7 +260,7 @@ On the contrary, virtues and vices are distinguished in species according to the
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that he divides the species of lust unfittingly.Parallels: see preceding quaestiuncula. For the Apostle in Ephesians 5:3, seems to set forth only two species, where it says: *let not fornication and all uncleanness . . . be named among you*.***
+Obj. 1: Moreover, it seems that he divides the species of lust unfittingly.Parallels: see preceding quaestiuncula. For the Apostle in Ephesians 5:3, seems to set forth only two species, where it says: *let not fornication and all uncleanness . . . be named among you*.  
 
 Obj. 2: Furthermore, in Colossians 3:5, he sets forth four species, namely, *fornication, uncleanness, concupiscence, and covetousness*.  
 
@@ -274,7 +276,7 @@ Obj. 7: Furthermore, among the species of lust, sacrilege is also named, which i
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that he does a bad job of putting the species of this vice in order.Parallel: *ST* II-II, q. 154. For virginal chastity is more noble than conjugal chastity. But adultery is against conjugal chastity, while seduction is against virginal chastity. Therefore seduction is a graver sin; and thus it should be placed ahead of adultery.***
+Obj. 1: Moreover, it seems that he does a bad job of putting the species of this vice in order.Parallel: *ST* II-II, q. 154. For virginal chastity is more noble than conjugal chastity. But adultery is against conjugal chastity, while seduction is against virginal chastity. Therefore seduction is a graver sin; and thus it should be placed ahead of adultery.  
 
 Obj. 2: Furthermore, no dispensation can be granted so that someone may licitly lie together with a woman with whom he is committing adultery; but it can happen through a certain dispensation that someone licitly lies together with someone with whom he commits incest; as, for example, by a dispensation, he can take as his wife a blood relative in the fourth degree, with whom it would formerly have been incest. Therefore, adultery is a graver sin than incest, and thus it should not be overlooked.  
 
@@ -282,7 +284,7 @@ Obj. 3: Furthermore, there can be marriage for a girl who is carried off by forc
 
 Response to Quaestiuncula 1  
 
-***I answer that, as was said above, in Distinction 16, Question 3, Article 2, questiuncula 3, a circumstance changes a sin to another genus when it adds the deformity of another genus of sin. And in keeping with this, these modes of lust that are here enumerated differ in species; for fornication does not carry in itself any other deformity but what pertains to the genus of lust, for it is a man who is free sleeping with a woman who is free; and fornication is named from *fornix*, for beside *fornices*, that is, triumphal arches, and in other places where men come together, prostitutes used to congregate, and there they were defiled.***
+I answer that, as was said above, in Distinction 16, Question 3, Article 2, questiuncula 3, a circumstance changes a sin to another genus when it adds the deformity of another genus of sin. And in keeping with this, these modes of lust that are here enumerated differ in species; for fornication does not carry in itself any other deformity but what pertains to the genus of lust, for it is a man who is free sleeping with a woman who is free; and fornication is named from *fornix*, for beside *fornices*, that is, triumphal arches, and in other places where men come together, prostitutes used to congregate, and there they were defiled.  
 
 But seduction, which is the illicit deflowering of a virgin, adds another deformity, namely, the injuring of the woman violated, who is not so apt to be married as before; and this injury even has a special prohibition of law of its own.See Exodus 22:16; Deuteronomy 22:28–29. Likewise, adultery also, which is to violate the marital bed of another, adds a special deformity of another kind, which is the illicit use of what is someone else’s, which pertains to the genus of injustice. Similarly also, incest—-the abuse of blood relatives or of those possessing an affinity, which has its name from *incendium*, fire, or from the privation of chastity, antonomastically as it were, since it violates chastity in those who are joined by the greatest of bonds—adds this special deformity, namely, the violation of the natural bond. Likewise rape, which is committed when a girl is violently abducted from the home of her father, so that the ruined maiden may be had in marriage. Whether the force is directed against the girl or her parents, it is clear that it adds another kind of deformity, namely violence, which the law prohibits in any thing whatsoever. And so it is clear that they are different species of sins; for which reason also the circumstances by which they are diversified are not to be omitted in confession.  
 
@@ -292,7 +294,7 @@ Reply Obj. 2: That species of lust that does not add some special deformity of a
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the species of lust are distinguished first by intercourse according to nature and against nature. But since lust against nature is unnameable, let it be left behind. But if the sin is intercourse according to nature, then either it does not add a certain deformity above the genus of lust, and so it is *fornication*, or it does add, and this in two ways; for either regarding the mode of acting, and then it is *rape*, which conveys violence; or by the condition of the one with whom lust is committed, and this condition either is hers absolutely, like virginity, and then it is *seduction*; or it is hers by relationship to someone else; and this, either to the one lying with her, as the condition of consanguinity or affinity is, and thus it is *incest*; or to some other, like marriage; and then it is *adultery*.***
+To the second question, it should be said that the species of lust are distinguished first by intercourse according to nature and against nature. But since lust against nature is unnameable, let it be left behind. But if the sin is intercourse according to nature, then either it does not add a certain deformity above the genus of lust, and so it is *fornication*, or it does add, and this in two ways; for either regarding the mode of acting, and then it is *rape*, which conveys violence; or by the condition of the one with whom lust is committed, and this condition either is hers absolutely, like virginity, and then it is *seduction*; or it is hers by relationship to someone else; and this, either to the one lying with her, as the condition of consanguinity or affinity is, and thus it is *incest*; or to some other, like marriage; and then it is *adultery*.  
 
 Reply Obj. 1: Uncleanness is set forth for every species of lust that adds a specific deformity above the genus of lust; and so it includes the other four species.  
 
@@ -310,7 +312,7 @@ Reply Obj. 7: That sacrilege is reducible to the species mentioned here. For the
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that intercourse is more of a sin the more it is removed from marital intercourse. But among the kinds listed here, one is removed from marriage both as to the essence of marriage, and as to its cause, which is consent. That one is rape, and thus it is the greatest sin among those which are here enumerated. But the others are removed from marriage only as regards its essence, and this happens in two ways: for a man sleeps with a woman who is either not joined to him in marriage, or she is not joined and cannot be joined; and the second is more removed. However, in the first case, either some impediment to subsequent marriage is established by this intercourse, or not; and the former is more removed. However, if the couple cannot be joined in marriage, either they cannot be joined so long as some condition remains, or they cannot simply speaking, in perpetuity; and the latter is more removed.***
+To the third question, it should be said that intercourse is more of a sin the more it is removed from marital intercourse. But among the kinds listed here, one is removed from marriage both as to the essence of marriage, and as to its cause, which is consent. That one is rape, and thus it is the greatest sin among those which are here enumerated. But the others are removed from marriage only as regards its essence, and this happens in two ways: for a man sleeps with a woman who is either not joined to him in marriage, or she is not joined and cannot be joined; and the second is more removed. However, in the first case, either some impediment to subsequent marriage is established by this intercourse, or not; and the former is more removed. However, if the couple cannot be joined in marriage, either they cannot be joined so long as some condition remains, or they cannot simply speaking, in perpetuity; and the latter is more removed.  
 
 And from this it is clear that simple fornication is the least sin among them; for no new impediment to subsequent marriage is created in the one who is slept with; and after this, it is seduction, by which an impediment arises in the woman, so that she may not easily get married afterward; and after this it is adultery, which is lying with a woman who cannot be taken as a wife, for her husband is alive; and after this it is incest, which is committed with a woman who simply speaking cannot be one’s wife; and after this it is rape, which is opposed to marriage not only in its essence, but also in its cause. And this how they are ordered when considered according to their own genus. Yet this order can be varied according to diverse circumstances. Nevertheless, of all of these, the gravest sin is the sin against nature.  
 
@@ -322,11 +324,11 @@ Reply Obj. 3: Although afterward she may be taken in marriage, if the girl and h
 
 Article 5  
 
-***Concerning the separation of a marriage that happens because of consanguinity and affinity***
+Concerning the separation of a marriage that happens because of consanguinity and affinity  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fifth question, we proceed thus. It seems that a conjugal union that is contracted between those who have an affinity or are consanguineous may not always be dissolved through a separation. For *those whom God has joined, man should not separate* (Matt 19:6). Therefore since God is understood to do what the Church does, which sometimes joins such people in ignorance, it seems that if the Church later becomes aware of their relation, they may not be separated.***
+Obj. 1: To the fifth question, we proceed thus. It seems that a conjugal union that is contracted between those who have an affinity or are consanguineous may not always be dissolved through a separation. For *those whom God has joined, man should not separate* (Matt 19:6). Therefore since God is understood to do what the Church does, which sometimes joins such people in ignorance, it seems that if the Church later becomes aware of their relation, they may not be separated.  
 
 Obj. 2: Furthermore, the bond of marriage is more favored than ownership. But a man acquires ownership of things that he did not own, by court order, after having them for a long time. Therefore, by enduring a long time, a marriage may be ratified, even if before it was not authorized.  
 
@@ -336,7 +338,7 @@ On the contrary, consanguinity or affinity impede the marriage from being contra
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that for the separation of a marriage that was contracted between people with an affinity or blood relationship, one need not proceed by the way of accusation. For inscription, by which someone obliges himself to damages if he should fail to prove his case, precedes accusation.Gratian, *Decretals*, pt. 2, cause 2, q. 8, can. 3 and can. 4. But these things are not required when it is a question of the separation of a marriage.See Raymond of Peñafort, *Summa*, Bk. 4, tit. 22, sec. 1 (527b). Therefore, accusation does not have a place here.***
+Obj. 1: Moreover, it seems that for the separation of a marriage that was contracted between people with an affinity or blood relationship, one need not proceed by the way of accusation. For inscription, by which someone obliges himself to damages if he should fail to prove his case, precedes accusation.Gratian, *Decretals*, pt. 2, cause 2, q. 8, can. 3 and can. 4. But these things are not required when it is a question of the separation of a marriage.See Raymond of Peñafort, *Summa*, Bk. 4, tit. 22, sec. 1 (527b). Therefore, accusation does not have a place here.  
 
 Obj. 2: Furthermore, in a case of marriage, only close relatives are heard, as was said in the text. But in accusations, outsiders are heard also. Therefore, in a case of separation of a marriage, one does not proceed by way of accusation.  
 
@@ -348,7 +350,7 @@ On the contrary, everything illicit may be accused. But a marriage of people rel
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that in such a case, things should not proceed by witnesses as in other cases. For in other cases anyone who is above reproach is brought in to testify. But here, no outsiders are admitted, even if they are above reproach. Therefore, etc.***
+Obj. 1: Moreover, it seems that in such a case, things should not proceed by witnesses as in other cases. For in other cases anyone who is above reproach is brought in to testify. But here, no outsiders are admitted, even if they are above reproach. Therefore, etc.  
 
 Obj. 2: Furthermore, witnesses suspected of private hate or love are barred from testifying.See Gratian, *Decretals*, pt. 2, cause 3, q. 5, can. 4; can. 2. But close relatives can most greatly be suspected of love for one party and hatred for the other. Therefore, their testimony should not be heard.  
 
@@ -358,7 +360,7 @@ On the contrary, witnesses are introduced in cases so that when there is doubt a
 
 Response to Quaestiuncula 1  
 
-***I answer that, since all intercourse outside of legitimate marriage is a mortal sin, the Church endeavors to impede it in every way, which includes separating those between whom there cannot be a valid marriage, and particularly those who are consanguineous or who have an affinity, who cannot contract carnally without incest.***
+I answer that, since all intercourse outside of legitimate marriage is a mortal sin, the Church endeavors to impede it in every way, which includes separating those between whom there cannot be a valid marriage, and particularly those who are consanguineous or who have an affinity, who cannot contract carnally without incest.  
 
 Reply Obj. 1: Although the Church is buttressed by divine authority and gift, nevertheless insofar as it is a congregation of human beings, something of human defect enters into its acts, because it is not divine; and thus that union that happens in the eyes of the Church, when it is unaware of an impediment, does not have inseparability from divine authority, but it is introduced against divine authority by human error, which excuses it from sin, since it is an error of fact,*Digests*, Bk. 22, tit. 6, leg. 8, ‘Error facti’; leg. 9, ‘Regula est.’ as long as the error lasts; and because of this, when the error comes to the Church’s attention, it must divide the union mentioned.  
 
@@ -368,7 +370,7 @@ Reply Obj. 3: A matter between two people in litigation does not prejudice the a
 
 Response to Quaestiuncula 2  
 
-***To the second question, it must be said that accusation was instituted for this purpose, lest someone be sustained as innocent who is guilty. But just as it happens by ignorance that some man is considered innocent in whom there is guilt, so also out of ignorance of some circumstance it happens that a certain deed is believed licit which is illicit; and thus, as a man is accused sometimes, so also a deed itself can be accused; and thus marriage is excused when because of ignorance of an impediment, what is illegitimate is deemed legitimate.***
+To the second question, it must be said that accusation was instituted for this purpose, lest someone be sustained as innocent who is guilty. But just as it happens by ignorance that some man is considered innocent in whom there is guilt, so also out of ignorance of some circumstance it happens that a certain deed is believed licit which is illicit; and thus, as a man is accused sometimes, so also a deed itself can be accused; and thus marriage is excused when because of ignorance of an impediment, what is illegitimate is deemed legitimate.  
 
 Reply Obj. 1: Obligation to the penalty of damages has a role when a person is accused of a crime, for then it is a question of his punishment. But when a deed is accused, then it is not a matter of punishing someone, but of impeding what is illicit. And thus in marriage, the accuser does not oblige himself to a certain penalty; but such an accusation can be made both in words or in writing, so that it expresses both the person accusing the marriage, and the impediment for which it is accused.  
 
@@ -380,13 +382,13 @@ Reply Obj. 4: That person who at first kept quiet, is sometimes heard afterward,
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in this case it is necessary that the truth be made clear by witnesses, just as in other cases. Nevertheless, as the jurists say, many special conditions pertain in this case, namely that the same person can be plaintiff and witness;See Raymond of Peñafort, *Summa*, Bk. 4, tit. 20 (525a). and that no oath is taken concerning calumny, since this is almost a spiritual cause;See Gregory IX, *Decretals*, Bk. 2, tit. 7, ch. 2, ‘Litteras.’ and that those consanguineous are admitted to testify;See Gregory IX, *Decretals*, Bk. 2, tit. 20, ch. 5, ‘Quoties aliqui’; Raymond of Peñafort, *Summa*, Bk. 4, tit. 20 (524b). and that judicial order is not observed at all,See Gregory IX, *Decretals*, Bk. 2, tit. 6, ch. 1, ‘Ad hoc Deus.’ for such a denunciation having been made, someone obstinate can be excommunicated by a lawsuit uncontested;See Gregory IX, *Decretals*, Bk. 2, tit. 6, ch. 3, ‘Tuae fraternitatis.’ and here the testimony is worth hearing,See Gratian, *Decretals*, pt. 2, cause 35, q. 6, can. 8, ‘De parentela’; see *Glossa ordin. in Decretum*, in can. citatum (II, 1734a). and after publication of the witnesses, the witnesses can be introduced.See Gregory IX, *Decretals*, Bk. 2, tit. 20, ch. 26, ‘Series’; cf. Bernardus de Bottone, *Glossa ordin. in Decretal. Gregor. IX*, in cap. citatum (512a). And all of this is so that the sin may be impeded which can exist in such a union.***
+To the third question, it should be said that in this case it is necessary that the truth be made clear by witnesses, just as in other cases. Nevertheless, as the jurists say, many special conditions pertain in this case, namely that the same person can be plaintiff and witness;See Raymond of Peñafort, *Summa*, Bk. 4, tit. 20 (525a). and that no oath is taken concerning calumny, since this is almost a spiritual cause;See Gregory IX, *Decretals*, Bk. 2, tit. 7, ch. 2, ‘Litteras.’ and that those consanguineous are admitted to testify;See Gregory IX, *Decretals*, Bk. 2, tit. 20, ch. 5, ‘Quoties aliqui’; Raymond of Peñafort, *Summa*, Bk. 4, tit. 20 (524b). and that judicial order is not observed at all,See Gregory IX, *Decretals*, Bk. 2, tit. 6, ch. 1, ‘Ad hoc Deus.’ for such a denunciation having been made, someone obstinate can be excommunicated by a lawsuit uncontested;See Gregory IX, *Decretals*, Bk. 2, tit. 6, ch. 3, ‘Tuae fraternitatis.’ and here the testimony is worth hearing,See Gratian, *Decretals*, pt. 2, cause 35, q. 6, can. 8, ‘De parentela’; see *Glossa ordin. in Decretum*, in can. citatum (II, 1734a). and after publication of the witnesses, the witnesses can be introduced.See Gregory IX, *Decretals*, Bk. 2, tit. 20, ch. 26, ‘Series’; cf. Bernardus de Bottone, *Glossa ordin. in Decretal. Gregor. IX*, in cap. citatum (512a). And all of this is so that the sin may be impeded which can exist in such a union.  
 
 And by this is evident the answer to the objections.  
 
 Exposition of the Text  
 
-****Nor is that to be passed over which Gregory wrote to Bishop Venerius*.*Sententiae* IV, 41.2 (229). 5. The whole thing has been abrogated by new laws, but still the degrees of consanguinity and affinity are restricted up to the fourth degree.***
+*Nor is that to be passed over which Gregory wrote to Bishop Venerius*.*Sententiae* IV, 41.2 (229). 5. The whole thing has been abrogated by new laws, but still the degrees of consanguinity and affinity are restricted up to the fourth degree.  
 
 *And it is to be known that the Church separates those who are joined within the said degrees of consanguinity*.*Sent*. IV, 41.3 (230). 1. It should be known that since the Church does not intend to deprive anyone of his right, if, deceived by false witnesses, she should separate a marriage when one of the persons has been violated by force, restitution should justly be made to her, even if the other has taken a vow of religious life, so that in any case it would not be permitted to him to request the debt, but only to render it.  
 

@@ -1,10 +1,12 @@
 # Q. 5 - On the punishment of original sin
 
+***De poena originalis peccati***
+
 ***Articulus 1***
 
 ***Utrum sit conveniens poena originalis peccati carentia divinae visionis***
 
-***Quaestio est de poena originalis peccati. Et primo quaeritur utrum sit conveniens poena originalis peccati carentia divinae visionis.***
+Quaestio est de poena originalis peccati. Et primo quaeritur utrum sit conveniens poena originalis peccati carentia divinae visionis.  
 
 Et videtur quod non. Quia, ut dicitur II Physic., frustra est quod est ad finem quem non consequitur. Sed homo naturaliter ordinatur ad beatitudinem sicut ad finem ultimum: quae quidem beatitudo in divina visione consistit. Ergo frustra est homo, si non perveniat ad visionem divinam. Sed Deus propter peccatum originale non destitit causare hominum generationem, ut Damascenus dicit. Cum ergo in operibus Dei nihil sit frustra, videtur quod homo propter peccatum quod ex sua origine contrahit non incurrat reatum carentiae visionis divinae.  
 
@@ -132,7 +134,7 @@ Articulus 3
 
 ***Utrum patiantur afflictionem interioris doloris qui cum solo originali decedunt***
 
-***Tertio quaeritur utrum patiantur afflictionem interioris doloris qui cum solo originali decedunt.***
+Tertio quaeritur utrum patiantur afflictionem interioris doloris qui cum solo originali decedunt.  
 
 Et videtur quod sic. Omne enim quod naturaliter desideratur, si non habeatur quando est tempus habendi, causat afflictionem et dolorem; sicut patet, si quis cibum non habeat quando est naturae necessarius. Sed homo naturaliter appetit beatitudinem: tempus autem habendi ipsam est post hanc vitam. Cum ergo illi qui cum peccato originali decedunt, beatitudinem non consequantur, quia carent visione divina, videtur quod afflictionem patiantur.  
 
@@ -168,7 +170,7 @@ Articulus 4
 
 ***Utrum mors et alii defectus huius vitae sint poena originalis peccati***
 
-***Quarto quaeritur utrum mors et alii defectus huius vitae sint poena originalis peccati.***
+Quarto quaeritur utrum mors et alii defectus huius vitae sint poena originalis peccati.  
 
 Et videtur quod non. Dicit enim Seneca: *mors est hominis natura, non poena*. Eadem ergo ratione nec alii defectus qui ad mortem ordinantur.  
 

@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Send out your Spirit*** (Ps 104:30), et cetera.***
+
 Early in the morning today we have said some things in keeping with the measure of our understanding about the property of the Holy Spirit and his mission. Now it remains to speak about the effects of the Holy Spirit and whom or what it befits to receive these effects.  
 
 **3**. In the words cited above we are given to understand the twofold effect of the Holy Spirit, namely, (3.1) creation and (3.2) renewal, where it says, ***and they will be created and you will renew***.  

@@ -1,6 +1,8 @@
 # Pr. (Gen 49:1) - Genesis 49:1
 
-***^49:1^ And Jacob called his sons, and said to them: gather yourselves together that I may tell you the things that shall befall you in the last days.***
+***Genesis 49:1***
+
+^49:1^ And Jacob called his sons, and said to them: gather yourselves together that I may tell you the things that shall befall you in the last days.  
 
 > **1**. These words are applicable to this epistle. For they touch on two things applicable to it, namely its fruit and its matter.
 

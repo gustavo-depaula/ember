@@ -1,5 +1,7 @@
 # Chapter 5
 
+***Term 1***
+
 ***The Drunk Man***
 
 ***If a man is drunk when he commits murder his punishnment is doubled.***
@@ -56,13 +58,13 @@ Term 4
 
 ***To Choose***
 
-***Choosing the best thing seems to be distinct from having an opinion, but it can happen that someone has an opinion of what is best but does not choose it.***
+Choosing the best thing seems to be distinct from having an opinion, but it can happen that someone has an opinion of what is best but does not choose it.  
 
 Term 5  
 
 ***An Object of Choice***
 
-***A matter firstly is judged by counsel, and then it becomes an object of choice. This is because everyone cease to ask how he should act, and after taking counsel, he can again deliberate with himself on the matter.***
+A matter firstly is judged by counsel, and then it becomes an object of choice. This is because everyone cease to ask how he should act, and after taking counsel, he can again deliberate with himself on the matter.  
 
 For something to be an object of our choice, it is something we desire, something counseled, and something within our power.  
 
@@ -76,7 +78,7 @@ Term 7
 
 ***The Self-Depreciator***
 
-***The self-depreciator is he who does not give himself credit for great things or he who downplays them.***
+The self-depreciator is he who does not give himself credit for great things or he who downplays them.  
 
 Self-depreciators are those who downplay themselves and appear to be gracious, they do not ascrible to themselves any renown, as Socrates did.  
 
@@ -84,7 +86,7 @@ Term 8
 
 ***The Equal***
 
-***The equal is the middlepoint between excess which is too much and the deficit which is too little.***
+The equal is the middlepoint between excess which is too much and the deficit which is too little.  
 
 Equal is said with respect either to something or to us, that it is neither too much nor too little, but this amount is not one and the same for all things, and he explains this.  
 
@@ -104,19 +106,19 @@ Term 10
 
 ***An Man who is Just in Equality***
 
-***A man is just in equality when he acts equally in proportion between himself and another, and between two others.***
+A man is just in equality when he acts equally in proportion between himself and another, and between two others.  
 
 Term 11  
 
 ***The Excellence of a Horse***
 
-***The excellence of a horse is what makes a horse good for running, riding, and anticipating enemies.***
+The excellence of a horse is what makes a horse good for running, riding, and anticipating enemies.  
 
 Term 12  
 
 ***Virtue *Epyeika Epiikeia Equity****
 
-***Equity is neither absolutely the same as justice, nor does it fall in an entirely different category from it.***
+Equity is neither absolutely the same as justice, nor does it fall in an entirely different category from it.  
 
 We praise one kind of man as equitable, and we praise the kind of man that is prompt, and extend our praise of that man to other things, to acts of virtue, praising him more than is really just.  
 
@@ -146,13 +148,13 @@ Term 14
 
 ***The Experienced***
 
-***The experienced judge rightly concerning particulars and understand how these are to be accomplished. The inexperienced, however, do not.***
+The experienced judge rightly concerning particulars and understand how these are to be accomplished. The inexperienced, however, do not.  
 
 Term 15  
 
 ***Wit***
 
-***Wittiness is the middle position of delight in amusements. One in excess is called a buffoon, the one who falls short is called boorish.***
+Wittiness is the middle position of delight in amusements. One in excess is called a buffoon, the one who falls short is called boorish.  
 
 Tact belongs to the wity man, that is, he is always a good conversaltionalist.  
 

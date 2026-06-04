@@ -1,8 +1,10 @@
 # D. 1 - Enjoyment and use
 
+***Enjoyment and use***
+
 ***Division of the text***
 
-***Having concluded the prologue, this is the beginning of the present work wherein the Master intends to hand on to us the doctrine of divine things, for the inquiry of truth and the destruction of error. This is also why in the entire work he proceeds in an argumentative way, and principally uses arguments from authority. Now, the text is divided into two parts: in the first, he inquires about those things to be dealt with and the order in which they should be treated; in the second, he carries out his intention. And this is divided into two parts, the second part beginning at *here we must consider whether the virtues are to be used or enjoyed*.*Sent*. I, 1.3.7.***
+Having concluded the prologue, this is the beginning of the present work wherein the Master intends to hand on to us the doctrine of divine things, for the inquiry of truth and the destruction of error. This is also why in the entire work he proceeds in an argumentative way, and principally uses arguments from authority. Now, the text is divided into two parts: in the first, he inquires about those things to be dealt with and the order in which they should be treated; in the second, he carries out his intention. And this is divided into two parts, the second part beginning at *here we must consider whether the virtues are to be used or enjoyed*.*Sent*. I, 1.3.7.  
 
 However, those things that one should consider in this doctrine fall within this doctrine’s consideration insofar as they are referred to one thing—namely, to God, from whom and to whom they are. And therefore, he divides the things to be treated into absolute and relative; hence, it is divided into two parts. In the first, he presents the division of things to be treated into absolute and relative according to knowledge, in the second, according to desire, at *in the case of things, we must consider*.*Sent*. I, 1.2.1, quoting Augustine, *On Christian Doctrine*, bk. 1, ch. 2 (CCSL 32; PL 34:20).  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Whether to enjoy is an act of the intellect***
 
-***Proceeding to the first, it seems that to enjoy is an act of the intellect.Parallel text: *ST* I-II.11.1–2.***
+Proceeding to the first, it seems that to enjoy is an act of the intellect.Parallel text: *ST* I-II.11.1–2.  
 
 Obj. 1: For the noblest act belongs to the noblest power. But the highest power in man is his intellect. Therefore, since to enjoy is the most perfect of man’s acts, because it places man in his last end, it seems to be an act of the intellect.  
 
@@ -96,7 +98,7 @@ Article 2
 
 ***Whether to use is an act of reason***
 
-***As regards the second, we proceed as follows.Parallel text: *ST* I-II.16.1. It appears that to use is an act of reason.***
+As regards the second, we proceed as follows.Parallel text: *ST* I-II.16.1. It appears that to use is an act of reason.  
 
 Obj. 1: For to order one thing to another belongs to a connecting power, and reason is such. But “to use” signifies an order to an end. Therefore it is an act of reason.  
 
@@ -134,7 +136,7 @@ Article 1
 
 ***Whether God alone should be enjoyed***
 
-***To the first we proceed as follows.Parallel texts: *ST* I-II.11.3; Commentary on Philemon, lect. 2. It appears that not only God should be enjoyed.***
+To the first we proceed as follows.Parallel texts: *ST* I-II.11.3; Commentary on Philemon, lect. 2. It appears that not only God should be enjoyed.  
 
 Obj. 1: For, as is said in the text,*Sent*. I, 1.2.1, quoting Augustine, *On Christian Doctrine*, bk. 1, ch. 3 (CCSL 32; PL 34:20). one should enjoy those things that make us blessed. Now, a created beatitude does make us blessed. Therefore it should be enjoyed, and not, therefore, God.  
 
@@ -162,7 +164,7 @@ Article 2
 
 ***Whether we enjoy God by one enjoyment***
 
-***To the second we proceed as follows. It appears that we do not enjoy God by one enjoyment.***
+To the second we proceed as follows. It appears that we do not enjoy God by one enjoyment.  
 
 Obj. 1: For acts are distinguished according to their objects. But the objects of enjoyment are three realities distinct by personal properties: the Father, the Son, and the Holy Spirit. Therefore there are three enjoyments.  
 
@@ -190,7 +192,7 @@ Question 3
 
 ***Whether one should use all things other than God***
 
-***Next we ask about the things that can be used, whether one should use all things other than God. And it seems that one should not.***
+Next we ask about the things that can be used, whether one should use all things other than God. And it seems that one should not.  
 
 Obj. 1: For to use something is to take it up into the employment of the will.Augustine, *On the Trinity*, bk. 10, ch. 11 (CCSL 50; PL 42:982). But what is taken up in this way is only a thing subject to our activity. However, not all created things are this way, for example, the heavens and the angels, which cannot be made or acted upon by us. Therefore we cannot use all things.  
 
@@ -264,7 +266,7 @@ Article 2
 
 ***Whether in the heavenly fatherland use will still occur***
 
-***We proceed to the second as follows. It seems that in the heavenly fatherland no one will be using anything.***
+We proceed to the second as follows. It seems that in the heavenly fatherland no one will be using anything.  
 
 Obj. 1: For the path is not necessary to one in possession of the end; this is why Bernard says, *what need is there of steps for one already in possession of the throne?*Bernard of Clairvaux, *On Consideration*, bk. 5, para. 1 (PL 182:788). But use is of things that are for the sake of an end, which things stand in the manner of a path. Therefore in the blessed, who have attained the end, there will be no use.  
 
@@ -286,7 +288,7 @@ Reply Sed Contra: We grant the other side.
 
 Exposition of the text  
 
-***As regards the text, there is a question about what is said at *it has become clear to us that the study of the sacred page is principally concerned with things or with signs*.*Sent*. I, 1.1.1. For this division seems inappropriate, insofar as the same thing can be a sign and a real thing; for example, the true Body of Christ is both, as is the character in baptism. Furthermore, he himself says that every sign is a reality,*Sent*. I, 1.1.1, quoting Augustine, *On Christian Doctrine*, bk. 1, ch. 2 (CCSL 32). and so it appears that this is not a division of opposites. Moreover, all created things are a sign of the divine goodness, and thus it seems that nearly all the things treated in this doctrine are signs. To this, one should say that such a division is not made through opposed realities, but through opposed accounts, according to the absolute and the relative. For a sign is what is instituted for signifying something, but a reality is what has an absolute signification, one not related to another. Whence it is not unfitting that the same thing be a sign and a reality in respect to diverse things, just as the same man is a father and a son. Whence the solution to the first objection is clear. But to the second, it is said that “real thing” is taken in two ways in the procedure of this statement. For it is taken commonly for every being—and in this way every sign is a real thing—and it is also taken strictly for what is only a real thing and not a sign. And in this latter way it is divided from “sign.” To the third, I say that although created things are a sign of something, still they have not been principally instituted for the sake of this, and therefore they are not contained under signs, except in a certain respect.***
+As regards the text, there is a question about what is said at *it has become clear to us that the study of the sacred page is principally concerned with things or with signs*.*Sent*. I, 1.1.1. For this division seems inappropriate, insofar as the same thing can be a sign and a real thing; for example, the true Body of Christ is both, as is the character in baptism. Furthermore, he himself says that every sign is a reality,*Sent*. I, 1.1.1, quoting Augustine, *On Christian Doctrine*, bk. 1, ch. 2 (CCSL 32). and so it appears that this is not a division of opposites. Moreover, all created things are a sign of the divine goodness, and thus it seems that nearly all the things treated in this doctrine are signs. To this, one should say that such a division is not made through opposed realities, but through opposed accounts, according to the absolute and the relative. For a sign is what is instituted for signifying something, but a reality is what has an absolute signification, one not related to another. Whence it is not unfitting that the same thing be a sign and a reality in respect to diverse things, just as the same man is a father and a son. Whence the solution to the first objection is clear. But to the second, it is said that “real thing” is taken in two ways in the procedure of this statement. For it is taken commonly for every being—and in this way every sign is a real thing—and it is also taken strictly for what is only a real thing and not a sign. And in this latter way it is divided from “sign.” To the third, I say that although created things are a sign of something, still they have not been principally instituted for the sake of this, and therefore they are not contained under signs, except in a certain respect.  
 
 Next, one might ask about what is said at *and we will first discuss things, and afterwards signs*.*Sent*. I, 1.1.3, quoting Augustine, *On Christian Doctrine*, bk. 1, ch. 2, para. 2 (CCSL 32; PL 34:20). For it seems that in the *Sentences* he should first treat signs, since real things are learned about through signs, as it says in the text.*Sent*. I, 1.1.1. So we come to the knowledge of realities through the knowledge of their signs. To this one should say that it follows that one should consider the signs before the realities that are signified through those signs if the signs and realities are of the same order. However, sacramental signs [treated in Book IV] are not related in this way to the things that are treated in Books I–III. Or one should say that the order to be followed in receiving knowledge is other than that in imparting it. For one receiving knowledge proceeds from signs to the things signified by what is, as it were, a mode of resolution, since signs are more known to him; but someone imparting the knowledge of signs must manifest the realities before signs, in that signs are taken from a likeness with the realities, so one must first know the realities in order to know their signs, according to whose likeness they are taken.  
 

@@ -1,8 +1,10 @@
 # D. 5 - Divine generation and divine essence
 
+***De divina generatione et divina essentia***
+
 ***Divisio textus***
 
-***Hic ponit Magister quaestionem de nominibus significantibus essentiam in abstracto, utrum aliquod eorum possit se habere ad generationem ut subjectum vel terminus: et circa hoc tria facit. Primo movet quaestionem; secundo determinat eam, ibi: *ad quod Catholicis tractatoribus consentientes dicimus*; tertio determinationem confirmat, ibi: *ideo non est dicendum, quod Pater genuit divinam essentiam*;***
+Hic ponit Magister quaestionem de nominibus significantibus essentiam in abstracto, utrum aliquod eorum possit se habere ad generationem ut subjectum vel terminus: et circa hoc tria facit. Primo movet quaestionem; secundo determinat eam, ibi: *ad quod Catholicis tractatoribus consentientes dicimus*; tertio determinationem confirmat, ibi: *ideo non est dicendum, quod Pater genuit divinam essentiam*;  
 
 et haec dividitur in duas partes.  
 
@@ -88,7 +90,7 @@ Articulus 2
 
 ***Utrum actus generandi praedicetur ab aliquo nominum essentialium***
 
-***Ad secundum sic proceditur. Videtur quod actus generandi de nullo nominum essentialium praedicetur.***
+Ad secundum sic proceditur. Videtur quod actus generandi de nullo nominum essentialium praedicetur.  
 
 Sicut enim tres personae sunt una essentia, ita etiam sunt unus Deus. Sed, secundum rationem Magistri, non potest dici essentia generare, ne notetur essentiae distinctio. Ergo similiter non potest dici, Deus generat, ne sequatur deorum pluralitas.  
 
@@ -112,7 +114,7 @@ Quaestio 2
 
 ***Utrum essentia se habeat ad generationem sicut id de quo est generatio***
 
-***Deinde quaeritur, utrum essentia se habeat ad generationem sicut id de quo est generatio; et circa hoc duo quaeruntur:***
+Deinde quaeritur, utrum essentia se habeat ad generationem sicut id de quo est generatio; et circa hoc duo quaeruntur:  
 
 primo utrum Filius generetur de substantia Patris;  
 
@@ -122,7 +124,7 @@ Articulus 1
 
 ***Utrum Filius sit genitus de substantia Patris***
 
-***Ad primum sic proceditur. Videtur quod Filius non sit genitus de substantia Patris.***
+Ad primum sic proceditur. Videtur quod Filius non sit genitus de substantia Patris.  
 
 Omnis enim praepositio transitiva est. Transitio autem requirit diversitatem vel distinctionem. Cum igitur Filius non distinguatur ab essentia Patris, non potest dici de essentia ejus natus.  
 
@@ -200,7 +202,7 @@ Sciendum igitur, quod, cum omne verbum notionale significet actum personae ut di
 
 Expositio textus  
 
-****Si autem relative diceretur ad Patrem vel pro relativo poneretur, non indicaret essentiam*. Videtur falsum, quia hoc nomen Deus pro relativo ponitur, et tamenParma: *cum hoc*. indicat essentiam. Dicendum, quod quamvis indicet essentiam ex parte significati, tamen ex parte suppositi indicat personam; unde tota ratio diversitatis in istis rationibus est quod non concludunt. Similiter de hoc nomine “Deus,” sicut de hoc nomine “essentia,” est diversus modus supponendi.***
+*Si autem relative diceretur ad Patrem vel pro relativo poneretur, non indicaret essentiam*. Videtur falsum, quia hoc nomen Deus pro relativo ponitur, et tamenParma: *cum hoc*. indicat essentiam. Dicendum, quod quamvis indicet essentiam ex parte significati, tamen ex parte suppositi indicat personam; unde tota ratio diversitatis in istis rationibus est quod non concludunt. Similiter de hoc nomine “Deus,” sicut de hoc nomine “essentia,” est diversus modus supponendi.  
 
 *Hoc ad seipsum indicandum genuit*. Contra: generatio Filii, ut supra dictum est, dist. 4, q. 1, art. 3, non est propter aliquem finem. Cum finis sit dignior eo quod est ad finem. Ergo non est propter manifestationem Patris. Dicendum, quod ly “ad hoc” est consecutivum, et non finalem causam designans: manifestatio enim Patris consecuta est ad generationem Filii.  
 

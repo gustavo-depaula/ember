@@ -1,8 +1,10 @@
 # D. 9 - Generation of the Son
 
+***De generatione Filii***
+
 ***Divisio textus***
 
-***Postquam determinavit Magister ea quae pertinent ad unitatem essentiae, hic determinat ea quae pertinent ad distinctionem personarum, et dividitur in partes duas: in prima determinat de personis distinctis; in secunda de nominibus, quibus et personarum distinctio et essentiae unitas designatur, 22 dist.: *post praedicta, disserendum videtur de nominum diversitate*.***
+Postquam determinavit Magister ea quae pertinent ad unitatem essentiae, hic determinat ea quae pertinent ad distinctionem personarum, et dividitur in partes duas: in prima determinat de personis distinctis; in secunda de nominibus, quibus et personarum distinctio et essentiae unitas designatur, 22 dist.: *post praedicta, disserendum videtur de nominum diversitate*.  
 
 Prima in duas: in prima determinat de personis quantum ad ipsarum distinctionem: in secunda quantum ad earum aequalitatem, 19 dist.: *nunc postquam coaeternitatem trium personarum pro modulo facultatis nostrae insinuavimus, jam de earumdem aequalitate aliquid eloqui superest*.  
 
@@ -76,7 +78,7 @@ Articulus 2
 
 ***Utrum Pater et Filius possint dici plures aeterni***
 
-***Ad secundum sic proceditur. Videtur quod Pater et Filius non possint dici plures aeterni.***
+Ad secundum sic proceditur. Videtur quod Pater et Filius non possint dici plures aeterni.  
 
 Per id quod habetur in symbolo Athanasii: *et tamen non tres aeterni*.  
 
@@ -146,7 +148,7 @@ Articulus 2
 
 ***Utrum generatio divina debeat significari per tempus praesens***
 
-***Ad secundum sic proceditur. Videtur quod generatio divina debeat significari per praesens tempus.***
+Ad secundum sic proceditur. Videtur quod generatio divina debeat significari per praesens tempus.  
 
 Praesens enim maxime aeternitati competit, eo quod non habet successionem. Sed generatio divina est aeterna. Ergo debet significari per praesens tempus.  
 
@@ -166,7 +168,7 @@ Ad secundum dicendum, quod per illam rationem probatur quod esse divinae generat
 
 Expositio textus  
 
-****Dicit autem Apostolus Christum esse Dei virtutem et Dei sapientiam*. Contra, aut loquitur de essentiali sapientia, aut de sapientia genita. Si de essentiali, constat quod illa esset in Patre, etiam si Filius non esset, sicut et essentia. SiParma: *sed*. de sapientia genita, supra ab Augustino dictum est dist. 5, quod Pater non est sapiens sapientia quam genuit. Ergo etiam si Filius non esset, non sequeretur quod Pater sapiens non esset; et ita videtur ratio Augustini nihil valere.***
+*Dicit autem Apostolus Christum esse Dei virtutem et Dei sapientiam*. Contra, aut loquitur de essentiali sapientia, aut de sapientia genita. Si de essentiali, constat quod illa esset in Patre, etiam si Filius non esset, sicut et essentia. SiParma: *sed*. de sapientia genita, supra ab Augustino dictum est dist. 5, quod Pater non est sapiens sapientia quam genuit. Ergo etiam si Filius non esset, non sequeretur quod Pater sapiens non esset; et ita videtur ratio Augustini nihil valere.  
 
 Et dicendum, quod loquitur de sapientia essentiali, secundum quod est appropriata Filio. In appropriato autem, inquantum hujusmodi, intelligitur ratio proprii; et sic procedit Augustinus. Vel potest melius dici, quod loquitur de sapientia genita; non enim dicit, quod per illam sapientiam Pater sit sapiens, sed quod illam sapientiam habeat. Inconveniens autem est dicere, Deum nunc habere aliquam sapientiam quam non semper habuit, quia hoc poneret mutationem in ipso.  
 

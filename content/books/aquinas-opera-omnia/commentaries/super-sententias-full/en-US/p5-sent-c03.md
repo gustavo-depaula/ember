@@ -1,8 +1,10 @@
 # D. 2 - The nature assumed in the Incarnation
 
+***The nature assumed in the Incarnation***
+
 ***Division of the text***
 
-***After considering the Incarnation from the side of the one doing the assuming, in this part he considers it from the side of the nature that was assumed.***
+After considering the Incarnation from the side of the one doing the assuming, in this part he considers it from the side of the nature that was assumed.  
 
 This is divided into three parts:  
 
@@ -70,7 +72,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *ST* III.4.1; *SCG* IV.53, 55; *Super Heb.* 2, lect. 4. It appears that human nature is not more assumable than an non-rational creature.***
+To the first we proceed thus.Parallels: *ST* III.4.1; *SCG* IV.53, 55; *Super Heb.* 2, lect. 4. It appears that human nature is not more assumable than an non-rational creature.  
 
 Obj. 1: For, as Augustine says to Volusianus, in wondrous things the entire account of the thing done is the power of the one doing it.Augustine, *Epistulae,* epist. 137: Ad Volusianum, para. 8, ch. 2 (CCSL 31B:263; PL 33:519). But of all wondrous things, the most wondrous is when something created is assumed into the unity of an uncreated person. Therefore, the entire account of assumability comes from the power of the one who causes the assumption. But since that power is infinite, it would be equally capable of assuming a human nature or an irrational nature. Therefore, a human nature should not be said to be more assumable than an irrational nature.  
 
@@ -82,7 +84,7 @@ On the contrary, a nobler created thing has a capacity for a nobler gift. Theref
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that an angelic nature is not less assumable than a human nature. For God assumed a human nature because of his mercy, to relieve human misery. But there is misery in the angelic nature just as there is in the human nature. Therefore, since the height of mercy is to relieve every misery, it appears that an angelic nature is assumable in the same way as a human nature.***
+Obj. 1: Moreover, it seems that an angelic nature is not less assumable than a human nature. For God assumed a human nature because of his mercy, to relieve human misery. But there is misery in the angelic nature just as there is in the human nature. Therefore, since the height of mercy is to relieve every misery, it appears that an angelic nature is assumable in the same way as a human nature.  
 
 Obj. 2: Furthermore, things that are more like each other are more easily united. But the angelic nature is more like the divine than is human nature, because, as Gregory says,Gregory the Great, *Homiliae in evangelia*, bk. 2, hom. 34, para. 7 (CCSL 141:305; PL 76:1250). *a more express image of God is planted in the angel, inasmuch as the nature in it is more subtle*. Therefore an angelic nature is more assumable than is human nature.  
 
@@ -90,7 +92,7 @@ On the contrary, God’s assumption of human nature was brought about to provide
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the whole universe is more assumable than human nature. For a universal effect is most like a universal cause. But the universe is a universal effect of God, who is a universal cause. Therefore the universe is more like God than human nature is, since it is a certain particular effect, and thus the universe is more assumable.***
+Obj. 1: Moreover, it seems that the whole universe is more assumable than human nature. For a universal effect is most like a universal cause. But the universe is a universal effect of God, who is a universal cause. Therefore the universe is more like God than human nature is, since it is a certain particular effect, and thus the universe is more assumable.  
 
 Obj. 2: Furthermore, the consummation of the whole universe is perfected through its assumption. But the universe would be more perfect if all its parts were assumed. Therefore, the universe is more assumable.  
 
@@ -110,7 +112,7 @@ But if liberation from sin is set forth as the end of the assumption, then in th
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, concerning his absolute power, God was able to assume an irrational created thing. Nor is this impeded by the fact that an irrational created thing has no personhood, because personhood is not owed even to the assumed human nature, by reason of itself, as will be clear below in Distinction 6,See below, d. 6, q. 1, aa. 1, 2. but only by reason of the one assuming it; this is why here there is only the uncreated personhood. Furthermore, even though a person is not found in an irrational nature, still a hypostasis, and supposit, is found in it, whereas the union is made not only in the person, but in the hypostasis and supposit as well. But it was not fitting that it be assumed, and especially so because the assumed nature is beatified to the highest degree, as is said in Psalm 65:4, *blessed is he whom you have chosen and assumed*.The RSV reads, *blessed is he whom thou dost choose and bring near*. But the irrational created thing cannot partake of beatitude, which consists in an act of the mind.***
+To the first question, I answer that, concerning his absolute power, God was able to assume an irrational created thing. Nor is this impeded by the fact that an irrational created thing has no personhood, because personhood is not owed even to the assumed human nature, by reason of itself, as will be clear below in Distinction 6,See below, d. 6, q. 1, aa. 1, 2. but only by reason of the one assuming it; this is why here there is only the uncreated personhood. Furthermore, even though a person is not found in an irrational nature, still a hypostasis, and supposit, is found in it, whereas the union is made not only in the person, but in the hypostasis and supposit as well. But it was not fitting that it be assumed, and especially so because the assumed nature is beatified to the highest degree, as is said in Psalm 65:4, *blessed is he whom you have chosen and assumed*.The RSV reads, *blessed is he whom thou dost choose and bring near*. But the irrational created thing cannot partake of beatitude, which consists in an act of the mind.  
 
 Reply Obj. 1: The response to the first objection is evident, since it proceeds by arguing from absolute power, and not from ordained power.  
 
@@ -120,7 +122,7 @@ Reply Obj. 3: A created thing’s likeness to God is of two sorts. One is accord
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that when speaking of his absolute power, God was able to assume an angelic nature. But the angelic nature did not have any suitability for being assumed, chiefly for two reasons: first, because its sin was incurable, and second, because it is not becoming that God take away any perfection of a created thing by assuming it, and personhood is a perfection of a created thing. But if the nature assumed were to have its own proper personhodd after its assumption, there could not be a union in the person, because there would be two persons. Whence, it was necessary that what was assumed not have personhood, yet it has a birth. Now, in an angelic nature there is found no potency for personhood without the act, since it does not come into existence through generation. And so it was not suitable that an angelic nature be assumed.***
+To the second question, it should be said that when speaking of his absolute power, God was able to assume an angelic nature. But the angelic nature did not have any suitability for being assumed, chiefly for two reasons: first, because its sin was incurable, and second, because it is not becoming that God take away any perfection of a created thing by assuming it, and personhood is a perfection of a created thing. But if the nature assumed were to have its own proper personhodd after its assumption, there could not be a union in the person, because there would be two persons. Whence, it was necessary that what was assumed not have personhood, yet it has a birth. Now, in an angelic nature there is found no potency for personhood without the act, since it does not come into existence through generation. And so it was not suitable that an angelic nature be assumed.  
 
 Reply Obj. 1: When it is objected that the angelic nature is more like God than is the human nature, it must be said that this is true if divine nature is considered absolutely in itself. However, if it is considered insofar as it in persons distinct through relations of origin, in this way [the divine nature] agrees more with man, as has been said. Likewise, even if one considers this insofar as God is the exemplar of all creation, for in man there is found a likeness with every creature, as has been said, but it is not so in the angel. Likewise, if one considers this insofar as God governs the universe, for as the whole God is in each part of the universe through his essence, presence, and power, so also is the soul in each part of the body.  
 
@@ -128,7 +130,7 @@ Reply Obj. 2: The sin that is the cause of the misery of the angels has no remed
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that something can belong to some whole in two ways: either by reason of its part, as a man might be called gray on account of his hair; or by reason of itself—that is, it belongs primarily to the whole itself—and what belongs to the whole also belongs to all its parts, as is proved in the *Physics* 6.Aristotle, *Physics* 6.1, 231a29–b1; Thomas Aquinas, *In Physic.*, bk. 6, lect. 1, n. 4. Therefore the universe can be assumed in two ways: either by reason of its part—and in this way it was assumable, and was assumed when human nature was assumed—or by reason of itself—and in this way it could not be assumed, because not all its parts were assumable, as is clear from what has been said.***
+To the third question, it should be said that something can belong to some whole in two ways: either by reason of its part, as a man might be called gray on account of his hair; or by reason of itself—that is, it belongs primarily to the whole itself—and what belongs to the whole also belongs to all its parts, as is proved in the *Physics* 6.Aristotle, *Physics* 6.1, 231a29–b1; Thomas Aquinas, *In Physic.*, bk. 6, lect. 1, n. 4. Therefore the universe can be assumed in two ways: either by reason of its part—and in this way it was assumable, and was assumed when human nature was assumed—or by reason of itself—and in this way it could not be assumed, because not all its parts were assumable, as is clear from what has been said.  
 
 Reply Obj. 1: Although God is a universal cause, he is nevertheless simple to the highest degree. And therefore a united universal effect in which all natures are in a certain manner gathered, namely human nature, belongs with him more than does a universal effect that is not, simply speaking, united—as is the universe, from whose parts together does not arise one thing, simply speaking, since they remain distinct in act.  
 
@@ -140,7 +142,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed thus.Parallel: *ST* III.4.5. It seems that the Son of God should have assumed human nature in all the supposits of human nature.***
+To the second we proceed thus.Parallel: *ST* III.4.5. It seems that the Son of God should have assumed human nature in all the supposits of human nature.  
 
 Obj. 1: For, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 6 (PG 94:1006). *what cannot be assumed cannot be cured*. But human nature is curable in all its supposits. Therefore it should have been assumed in all its supposits.  
 
@@ -152,7 +154,7 @@ On the contrary, the Son of God assumed flesh for this reason: that he might be 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that [the Son of God] should not have assumed human nature in someone generated from the lineage of Adam.Parallels: *ST* III.4.6; 31.1; *Compend. theol*., ch. 217; *Super Isiam* 11. For as the Apostle says in Hebrews 7:26, *it was fitting that there should be for us such a high priest, who would be separated from sinners*. But he would be better separated from sinners if he had not assumed flesh from the lineage of sinners. Therefore he should not have assumed flesh from the lineage of Adam.***
+Obj. 1: Moreover, it seems that [the Son of God] should not have assumed human nature in someone generated from the lineage of Adam.Parallels: *ST* III.4.6; 31.1; *Compend. theol*., ch. 217; *Super Isiam* 11. For as the Apostle says in Hebrews 7:26, *it was fitting that there should be for us such a high priest, who would be separated from sinners*. But he would be better separated from sinners if he had not assumed flesh from the lineage of sinners. Therefore he should not have assumed flesh from the lineage of Adam.  
 
 Obj. 2: Furthermore, original sin is the sin of a nature, and not of a person, except accidentally. Therefore, what is required to make satisfaction is only that someone be of human nature. But if some man did not come from the lineage of Adam, he would certainly still belong to human nature. Therefore he could fittingly make satisfaction on behalf of human nature.  
 
@@ -160,7 +162,7 @@ On the contrary, medicine should be applied to the location of the wound. But hu
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that human nature should have been assumed in Adam himself.Parallel: *ST* III.4.6.ad 2. For the assumption of flesh is ordered to making satisfaction. But it is fitting that the same one who sinned should also make satisfaction. Therefore [the Son of God] should have assumed the human nature in Adam himself.***
+Obj. 1: Moreover, it seems that human nature should have been assumed in Adam himself.Parallel: *ST* III.4.6.ad 2. For the assumption of flesh is ordered to making satisfaction. But it is fitting that the same one who sinned should also make satisfaction. Therefore [the Son of God] should have assumed the human nature in Adam himself.  
 
 Obj. 2: Furthermore, the restoration of human nature ought to have been done in such a way that nothing of man’s dignity would perish. But in his first state Adam possessed this, that he would not need another man’s help for his own salvation. Now, this is not restored to him when human nature was assumed in another man, because he needs the favor of that man for his own salvation. Therefore it was not becoming that human nature be assumed in any but Adam himself.  
 
@@ -168,7 +170,7 @@ On the contrary, contraries do not have the same cause. But Adam was the cause o
 
 Response to Quaestiuncula 1  
 
-***I answer that, to the first question it must be said that it was unbecoming that he assume human nature in all its supposits, and this for four reasons. First, because all the supposits of human nature would be reduced to at least three supposits. For, since the one assuming and what is being assumed are united in the same supposit, there could not be more supposits of the assumed nature than there are of the assuming nature. Second, on account of the end of the assumption, for it is ordered to the restoration of the human race through the mode of a certain mediation between God and man. Now, a mediator who intends to accomplish a unity of peace, in a fitting way ought to be one. Third, on account of the unity of the very one assuming. For just as it was becoming that the divine nature become incarnate only in one supposit, so it was becoming that one individual nature be assumed, for in this way the joining of one to one is done suitably. Fourth, on account of the dignity of the incarnate Son himself, *in order that he might be the first-born among many brethren (*Rom 8:29) in spiritual generation, just as he is the first-born of creation in the emanation of things from the one principle. However, this primogeniture would not belong to him if numerically many human natures were assumed.***
+I answer that, to the first question it must be said that it was unbecoming that he assume human nature in all its supposits, and this for four reasons. First, because all the supposits of human nature would be reduced to at least three supposits. For, since the one assuming and what is being assumed are united in the same supposit, there could not be more supposits of the assumed nature than there are of the assuming nature. Second, on account of the end of the assumption, for it is ordered to the restoration of the human race through the mode of a certain mediation between God and man. Now, a mediator who intends to accomplish a unity of peace, in a fitting way ought to be one. Third, on account of the unity of the very one assuming. For just as it was becoming that the divine nature become incarnate only in one supposit, so it was becoming that one individual nature be assumed, for in this way the joining of one to one is done suitably. Fourth, on account of the dignity of the incarnate Son himself, *in order that he might be the first-born among many brethren (*Rom 8:29) in spiritual generation, just as he is the first-born of creation in the emanation of things from the one principle. However, this primogeniture would not belong to him if numerically many human natures were assumed.  
 
 Reply Obj. 1: Properly, the nature is assumed through the Incarnation, as will be shown below;Below, d. 5, q. 1, a. 2. and also even the sin of the nature is properly and primarily cured. Whence, if some nature is not assumable, it is not curable. Nevertheless, it is not necessary that if this individual nature is not assumed, the supposit of this nature would not be cured; because through the fact that the nature has been assumed in some individual, the cure is prepared for all who have a like nature. This is just as, in the contrary case, when one person infects the human nature that is in him, he transmits sin to all men.  
 
@@ -180,7 +182,7 @@ We concede the fourth objection.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it was not becoming that the Son of God assume human nature from any source other than the lineage of Adam, and this chiefly for three reasons. First, to uphold the justice of satisfaction, for if it had not been from the race of Adam, it would not pertain to the Son of God to make satisfaction for the sin of Adam. Second, for the perfect reintegration of the dignity of Adam, who had it such that he himself and his race needed no other creature to save or sustain them. And this would not have returned to his race if he would have been redeemed through someone who did not belong to his race. Third, to preserve the dignity specifically of Adam himself, who in a certain way uniquely possessed the image of God: just as God, as the first being, is the principle of all beings through creation, so too Adam, as the first man, is the principle of all men through generation. If Christ had not become a man from his race, Adam would have lost this.***
+To the second question, it should be said that it was not becoming that the Son of God assume human nature from any source other than the lineage of Adam, and this chiefly for three reasons. First, to uphold the justice of satisfaction, for if it had not been from the race of Adam, it would not pertain to the Son of God to make satisfaction for the sin of Adam. Second, for the perfect reintegration of the dignity of Adam, who had it such that he himself and his race needed no other creature to save or sustain them. And this would not have returned to his race if he would have been redeemed through someone who did not belong to his race. Third, to preserve the dignity specifically of Adam himself, who in a certain way uniquely possessed the image of God: just as God, as the first being, is the principle of all beings through creation, so too Adam, as the first man, is the principle of all men through generation. If Christ had not become a man from his race, Adam would have lost this.  
 
 Reply Obj. 1: To what is objected—that he ought to be separated from sinners—it must be said that this is true inasmuch as they are sinners, but not inasmuch as they are men. For he came to destroy the sin and save the nature. Therefore, he possessed a suitability in the things that pertain to the nature, but an opposition in things that look to sin, because he neither contracted nor committed sin.  
 
@@ -190,7 +192,7 @@ We concede the third objection.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that it was in no way becoming that the Son of God assume the human nature in Adam himself, and this for two reasons. First, because Adam was complete by his own proper personhood; whence, he could not be assumed into the unity of the divine person unless his own personhood were destroyed—which was not fitting, as was said above of the angels.Above, a. 1, resp. 2. Second, because through the assumption a communication of properties arises, such that whatever is said of the man would be said of God, it would follow that one might say, “God sinned,” because Adam sinned—which is absurd.***
+To the third question, it should be said that it was in no way becoming that the Son of God assume the human nature in Adam himself, and this for two reasons. First, because Adam was complete by his own proper personhood; whence, he could not be assumed into the unity of the divine person unless his own personhood were destroyed—which was not fitting, as was said above of the angels.Above, a. 1, resp. 2. Second, because through the assumption a communication of properties arises, such that whatever is said of the man would be said of God, it would follow that one might say, “God sinned,” because Adam sinned—which is absurd.  
 
 Reply Obj. 1: There was a personal infection in Adam happened through his sin, an infection of both the nature created in him and of that to be propagated from him. And according to some, by the help of grace he was able to make satisfaction for his personal infection; but someone was still needed who would make satisfaction for the sin of the nature. Therefore, it was not necessary that he be the same as in Adam in person, but only the same in nature.  
 
@@ -204,7 +206,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: below, d. 4, q. 2, a. 1; *In IV Sent*., d. 3, a. 3, resp. 2, ad 2; *ST* III.5.2: III.6.5; III.31.1.ad1; *SCG* IV.30; *Compend. theol.*, ch. 208; *Super Ioan.* 2, lect. 1; *Super Heb*. 8, lect. 1. It seems that the Son of God did not assume flesh.***
+To the third we proceed thus.Parallels: below, d. 4, q. 2, a. 1; *In IV Sent*., d. 3, a. 3, resp. 2, ad 2; *ST* III.5.2: III.6.5; III.31.1.ad1; *SCG* IV.30; *Compend. theol.*, ch. 208; *Super Ioan.* 2, lect. 1; *Super Heb*. 8, lect. 1. It seems that the Son of God did not assume flesh.  
 
 Obj. 1: For Galatians 5:17 says, *the desires of the flesh are against the Spirit*. But in Christ there was no such battle. Therefore, he did not have true flesh.  
 
@@ -218,7 +220,7 @@ Furthermore (5), a man is not born of a man unless through the transmission of f
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that he assumed flesh, and not a soul.Parallels: *ST* III.5.3, 4; *SCG* IV.32, 33; *De veritate*, q. 20, a. 1; *Compend. theol*., cc. 204, 205; *Super Ioan*. 1, lect. 7; *Super Rom*. 1, lect. 2. For John 1:14 says, *the Word was made flesh*. Now, this was not done through conversion into flesh, but through an assumption of flesh. Therefore, it seems that he assumed only flesh.***
+Obj. 1: Moreover, it seems that he assumed flesh, and not a soul.Parallels: *ST* III.5.3, 4; *SCG* IV.32, 33; *De veritate*, q. 20, a. 1; *Compend. theol*., cc. 204, 205; *Super Ioan*. 1, lect. 7; *Super Rom*. 1, lect. 2. For John 1:14 says, *the Word was made flesh*. Now, this was not done through conversion into flesh, but through an assumption of flesh. Therefore, it seems that he assumed only flesh.  
 
 Obj. 2: Furthermore, a body needs to be united to a soul only in order to be vivified through it. But for a body to be vivified, it is enough that the principle of life be united to a body that can be alive. Therefore, since God, who is the principle of life, united a body to himself, it seems that the union of the body to a soul would be superfluous.  
 
@@ -232,7 +234,7 @@ Furthermore (6), it would follow that God would be the immediate mover of Christ
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that he would not have assumed the form of the whole resulting from the composition of its parts. For the form of the whole is that in which the particulars come together as in the common nature. But Damascene says, as can be seen in the text, that *in the Lord Jesus Christ one cannot find a common species*.*Sent*. III, 2.1.3, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 3 (PG 94:994). Therefore, the form of the whole was not in him.***
+Obj. 1: Moreover, it seems that he would not have assumed the form of the whole resulting from the composition of its parts. For the form of the whole is that in which the particulars come together as in the common nature. But Damascene says, as can be seen in the text, that *in the Lord Jesus Christ one cannot find a common species*.*Sent*. III, 2.1.3, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 3 (PG 94:994). Therefore, the form of the whole was not in him.  
 
 Obj. 2: Furthermore, as Boethius says, *the species is the whole existence of the individuals*.Boethius, *In Porphyrii Isagogen commentorum editio secunda*, bk. 3, ch. 12 (CSEL 48:236; PL 64:115–116). But there was nothing in Christ on the side of the body and soul that would enclose his whole existence, because he possessed the divine existence neither through the soul nor through the body. Therefore, since the form of the whole is the species in potency, it seems that the form of the whole was not in Christ.  
 
@@ -272,7 +274,7 @@ Reply Sed Contra 4–5: We concede the fourth and fifth arguments.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that there were two errors about this matter as well. One was that of Arius and Eunomius, who said that the Son of God assumed flesh without a soul, because they were of the opinion that the divinity gave life to his body without a soul. The other error was that of Appollinarius, who said that in Christ the body had already been animated with a soul, but one lacking sense and intellect. Each error derogates from the truth of his humanity and the dignity of Christ’s body.***
+To the second question, it should be said that there were two errors about this matter as well. One was that of Arius and Eunomius, who said that the Son of God assumed flesh without a soul, because they were of the opinion that the divinity gave life to his body without a soul. The other error was that of Appollinarius, who said that in Christ the body had already been animated with a soul, but one lacking sense and intellect. Each error derogates from the truth of his humanity and the dignity of Christ’s body.  
 
 For no matter can be perfected in any existence unless it be through something that is its form. Whence, since God could in no way be the form of a body—because he would then have to be a part, and not immaterial to the highest degree—it follows that Christ’s body, if it lacked a soul in all ways, would be as a non-living body. And if it were to lack a sensitive and rational soul, it would be as the body of a plant; whence it would be much less noble than our body. Likewise also, since it is of the notion of a man that he have a rational soul, if Christ had lacked one, he would not have been a true man.  
 
@@ -290,7 +292,7 @@ Reply Sed Contra **4–6**: We concede the other three arguments.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that some have asserted that God assumed a soul and a body, but not in such a way that any humanity resulted from their conjunction. And this opinion similarly takes away the truth of Christ’s humanity and the dignity of Christ’s body. For Christ could not have been a true man, nor could his body be truly alive, unless the soul had been united to the body as its form, in such a way that something one was produced from them. But we will speak about this opinion below.Below, d. 3, q. 4, a. 2. Whence it must be said that just as there was a true body and a true soul in Christ, so too there was a true humanity, that is, a true human nature, resulting from their being joined together.***
+To the third question, it should be said that some have asserted that God assumed a soul and a body, but not in such a way that any humanity resulted from their conjunction. And this opinion similarly takes away the truth of Christ’s humanity and the dignity of Christ’s body. For Christ could not have been a true man, nor could his body be truly alive, unless the soul had been united to the body as its form, in such a way that something one was produced from them. But we will speak about this opinion below.Below, d. 3, q. 4, a. 2. Whence it must be said that just as there was a true body and a true soul in Christ, so too there was a true humanity, that is, a true human nature, resulting from their being joined together.  
 
 Reply Obj. 1: It must be said, in respect to this objection, that Damascene intended to say that the union was not made in one nature, as the Eutychians asserted; and therefore he wished to say that some third common nature would not result from the joining of the divinity to the humanity, for then there would be neither divinity nor humanity, just as the humanity is neither the soul nor the body. Whence Christ would be neither God nor man, but only Christ. However, he did not intend to say that the form of the whole would not result from the joining of the soul and body, through which Christ would be in the common species with other men.  
 
@@ -304,7 +306,7 @@ Question 2
 
 ***The order of the assumption of human nature***
 
-***Next, the order of assumption is considered; and about this there are three things to consider:***
+Next, the order of assumption is considered; and about this there are three things to consider:  
 
 first, whether he assumed one part of human nature by the mediation of another part;  
 
@@ -318,7 +320,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: below, d. 21, q. 1, a. 1, resp. 1, ad 1; *ST* III. 6.1; 6.4.ad 3; 50.2.ad 2; *SCG* IV.44; *De spiritualibus creatoris*, a. 3, ad 5. It appears that he did not assume flesh by the mediation of the soul.***
+To the first we proceed thus.Parallels: below, d. 21, q. 1, a. 1, resp. 1, ad 1; *ST* III. 6.1; 6.4.ad 3; 50.2.ad 2; *SCG* IV.44; *De spiritualibus creatoris*, a. 3, ad 5. It appears that he did not assume flesh by the mediation of the soul.  
 
 Obj. 1: For if one removes the middle in virtue of which things are joined together, the extremes are separated, as is clear with planks that are nailed together. But in Christ’s death the soul is separated from the flesh, yet neither is the Godhead thereby separated from the flesh. Therefore the soul is not the middle by which the Godhead is united to the flesh.  
 
@@ -332,7 +334,7 @@ Furthermore, things that are exceedingly distant are joined only if through an i
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that he did not assume the soul by the mediation of spirit.Parallel: *ST* III.6.2. For it is impossible that something is united to a superior and an inferior through the same medium, for that by which it is united to the inferior is beneath it, and that by which it is united to the superior is above it. But the soul is united to the body by the mediation of spirit, which is beneath it, as some say. Therefore it is not united to God, who is above it, by the mediation of spirit.***
+Obj. 1: Moreover, it appears that he did not assume the soul by the mediation of spirit.Parallel: *ST* III.6.2. For it is impossible that something is united to a superior and an inferior through the same medium, for that by which it is united to the inferior is beneath it, and that by which it is united to the superior is above it. But the soul is united to the body by the mediation of spirit, which is beneath it, as some say. Therefore it is not united to God, who is above it, by the mediation of spirit.  
 
 Obj. 2: Furthermore, the middle must differ from its extremes. But the mind, which Augustine calls a “spirit,”Augustine, *On the Literal Meaning of Genesis*, bk. 12, para. 24; ch. 18, n. 7 (CSEL 28.1:417; PL 34:460). is not outside the essence of the soul—indeed, it is what is most sublime in our soul, and that in which God’s image is found, as the same Augustine says.Augustine, *On the Trinity*, bk. 14, ch. 3 (CCSL 50; PL 42:1038). Therefore he did not assume the soul by the mediation of the spirit.  
 
@@ -344,7 +346,7 @@ Furthermore, just as the soul is superior to the body, so too the spirit is supe
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that he did not assume the whole by the mediation of its parts.Parallels: below, d. 2, q. 2, a. 3, resp. 1; *ST* III.6.5. For what belongs to the whole by reason of its parts belongs not only to the whole but also to the parts. But the Godhead is predicated of the parts of human nature (for we do not say that the soul is God, or that the body is God), but it is predicated of the whole, as when we say that God is a man. Therefore, since through the assumption of the human nature, God is predicated of a man, and conversely, it appears that he assumed the parts only by the mediation of the whole.***
+Obj. 1: Moreover, it appears that he did not assume the whole by the mediation of its parts.Parallels: below, d. 2, q. 2, a. 3, resp. 1; *ST* III.6.5. For what belongs to the whole by reason of its parts belongs not only to the whole but also to the parts. But the Godhead is predicated of the parts of human nature (for we do not say that the soul is God, or that the body is God), but it is predicated of the whole, as when we say that God is a man. Therefore, since through the assumption of the human nature, God is predicated of a man, and conversely, it appears that he assumed the parts only by the mediation of the whole.  
 
 Obj. 2: Furthermore, the singularity of each part of the man is other than the singularity or incommunicability of the divine person, because the parts are many but the assuming person is one. Now, the singularity of the assuming person is the same as that of the whole man, since the hypostasis of both is the same, as Damascene says.John Damascene, *On the Orthodox Faith*, bk. 3, ch. 3 (PG 94:994). Therefore it appears that he assumed the parts only by the mediation of the whole.  
 
@@ -362,7 +364,7 @@ However, a medium of necessity is one without which the joining together of the 
 
 Response to Quaestiuncula 1  
 
-***To the first question, therefore, having seen these things, it should be said that the soul is in a certain way the medium by which the body is united to the divinity. But it should be notes that if the soul is compared to actual union, it is only a congruent medium. For it is not becoming that the divinity be united to the body unless it has a soul, because it is closer to God; because it is in more ways unitable to God than is the body, since it is even unitable to him through grace and glory; and because it is united to the body for the sake of the soul’s restoration. But if it the soul is compared to unitability, in this way it is a necessary medium, as formally causing the unitability in the body, for the body, while maintaining its order to the end of the union—insofar as the rational creature was said to be more assumable than the other creatures—cannot be united [to God] except through its partaking in God’s image by the mediation of the soul. Whence inanimate bodies are cannot be united [to God].***
+To the first question, therefore, having seen these things, it should be said that the soul is in a certain way the medium by which the body is united to the divinity. But it should be notes that if the soul is compared to actual union, it is only a congruent medium. For it is not becoming that the divinity be united to the body unless it has a soul, because it is closer to God; because it is in more ways unitable to God than is the body, since it is even unitable to him through grace and glory; and because it is united to the body for the sake of the soul’s restoration. But if it the soul is compared to unitability, in this way it is a necessary medium, as formally causing the unitability in the body, for the body, while maintaining its order to the end of the union—insofar as the rational creature was said to be more assumable than the other creatures—cannot be united [to God] except through its partaking in God’s image by the mediation of the soul. Whence inanimate bodies are cannot be united [to God].  
 
 Reply Obj. 1: If the medium that is the cause of the actual joining together is taken away, it is necessary that the things united be dissolved, just as when love is removed, the hearts of men will no longer be one; for when the cause is removed the effect is always removed. Yet the removal of a medium of fittingness, which made for the suitability of the union, does not necessitate that the things united are dissolved. Likewise, moreover, it is not necessary that, if a medium that causes their ability to be joined together be taken away, then the union is dissolved. For it can be that it would cause the ability to be joined together even after it went away, as long as there remained an ordering to it and the possibility of it; for sometimes it happens that a medium’s actual joining together does not cause the extremes’ ability to be joined together, but rather the medium’s ability to join them. For example, the actual contemplation of principles is the medium by which one acquires possession of the conclusion, yet when one ceases actually to consider the principles one does not lose the habit of the conclusion, because there still remains an aptitude for contemplating the principles. Whence since the soul is a medium of fittingness and the cause of unitability within the body, the soul's departure does not necessitate that the conjunction of the divinity with the flesh be interrupted. For there still remains within the body the aptitude for and ordering to the soul, by reason of which there remains in the flesh the union’s suitability, and the ability to be united to the divinity.  
 
@@ -372,7 +374,7 @@ Reply Obj. 3: A created thing, from its very self, is able to receive the influe
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, according to Augustine,Augustine, *On the Literal Meaning of Genesis*, bk. 12, para. 24 (CSEL 28.1:417; PL 34:459) “spirit” is said in many ways. In one way, it is a subtle body, like air. In another way, a body wholly subject to the soul, as the bodies of the saints in the resurrection (1 Corinthians 15:44–49). In a third way, any soul of the beasts: *who knows whether . . . the spirit of the beast goes down to the earth?* (Eccl 3:21). In a fourth, the imaginary power: *I will sing with the spirit and I will sing with the mind also* (1 Cor 14:15). In a fifth, the very mind of a man or angel: *be renewed in the spirit of your minds* (Eph 4:23). Sixth, the divine substance itself: *God is spirit* (John 4:24). Now, however, we are speaking of spirit insofar as one means the mind. Whence it should be said that the divinity assumed the soul by the mediation of the spirit, just as it assumed the body by the mediation of the soul. For just as the body cannot be assumed except through its having a soul, so the soul cannot be assumed except through there being a mind in it, through which it has the image of God.***
+To the second question, it should be said that, according to Augustine,Augustine, *On the Literal Meaning of Genesis*, bk. 12, para. 24 (CSEL 28.1:417; PL 34:459) “spirit” is said in many ways. In one way, it is a subtle body, like air. In another way, a body wholly subject to the soul, as the bodies of the saints in the resurrection (1 Corinthians 15:44–49). In a third way, any soul of the beasts: *who knows whether . . . the spirit of the beast goes down to the earth?* (Eccl 3:21). In a fourth, the imaginary power: *I will sing with the spirit and I will sing with the mind also* (1 Cor 14:15). In a fifth, the very mind of a man or angel: *be renewed in the spirit of your minds* (Eph 4:23). Sixth, the divine substance itself: *God is spirit* (John 4:24). Now, however, we are speaking of spirit insofar as one means the mind. Whence it should be said that the divinity assumed the soul by the mediation of the spirit, just as it assumed the body by the mediation of the soul. For just as the body cannot be assumed except through its having a soul, so the soul cannot be assumed except through there being a mind in it, through which it has the image of God.  
 
 Reply Obj. 1: That argument is based on an equivocal use of “spirit,” as is clear from the things said.  
 
@@ -384,7 +386,7 @@ Reply Sed Contra: We concede the other two arguments.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that parts are prior in origin to the whole, as what constitute it. However, in completion the whole is prior to the parts, because the notion of the complete nature is found in the whole itself first, and it reaches its parts by the mediation of the whole,Cf. *ST* III.6.5. insofar as they are its parts. This is also why they are in a genus through a reduction. And therefore it should be said that in a certain way he assumed the whole by the mediation of the parts—namely, insofar as the parts constituted the human nature as its origin, to which nature the assumption was owed through itself. However, in a certain way he assumed the parts by the mediation of the whole, insofar as the notion of a human nature, which is assumable through itself, is found in the whole first, and through this, in the parts.***
+To the third question, it should be said that parts are prior in origin to the whole, as what constitute it. However, in completion the whole is prior to the parts, because the notion of the complete nature is found in the whole itself first, and it reaches its parts by the mediation of the whole,Cf. *ST* III.6.5. insofar as they are its parts. This is also why they are in a genus through a reduction. And therefore it should be said that in a certain way he assumed the whole by the mediation of the parts—namely, insofar as the parts constituted the human nature as its origin, to which nature the assumption was owed through itself. However, in a certain way he assumed the parts by the mediation of the whole, insofar as the notion of a human nature, which is assumable through itself, is found in the whole first, and through this, in the parts.  
 
 Reply Obj. 1: Although “God” is not predicated of the parts of the human nature, still those parts cause the assumability in the whole as its origin, just as a man is called an “animal,” but the body or the soul is not called an “animal,” even though being an animal is caused in a man by the soul and body.  
 
@@ -402,7 +404,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: below, d. 13, q. 3, a. 1; *ST* III.2.10; III.6.6; *De veritate,* q. 29. a. 2; *Quodl.* IX, q. 2, a. 1, ad 3; *Compend. theol.*, ch. 214. It appears that human nature was assumed by the mediation of grace.***
+To the second we proceed as follows.Parallels: below, d. 13, q. 3, a. 1; *ST* III.2.10; III.6.6; *De veritate,* q. 29. a. 2; *Quodl.* IX, q. 2, a. 1, ad 3; *Compend. theol.*, ch. 214. It appears that human nature was assumed by the mediation of grace.  
 
 Obj. 1: For as Augustine says,Augustine, *On the Trinity*, bk. 13, ch. 19 (CCSL 50; PL 42:1033); *In Iohannis euangelium tractatus*, tr. 82, n. 4 (CCSL 36; PL 35:1844); see also *City of God*, bk. 10, ch. 29 (PL 41:307). *in things that arise in time, the highest grace is that God be joined to man in the unity of person without any preceding merits*. But in things that happen by grace, grace is the medium. Therefore human nature is united to the divinity by the mediation of grace.  
 
@@ -416,7 +418,7 @@ Furthermore, in things that occur miraculously, no disposing medium is required.
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the Son of God assumed [human nature] by the mediation of the Holy Spirit. For a created word is united to a vocal sound by the mediation of breath. But just as a word of the human mind is united to a vocal sound, so it the divine Word united to flesh, as Augustine says.Augustine, *On the Trinity*, bk. 15, ch. 11 (CCSL 50A; PL 42:1072). Therefore that union was made by the mediation of the Holy Spirit.***
+Obj. 1: Moreover, it appears that the Son of God assumed [human nature] by the mediation of the Holy Spirit. For a created word is united to a vocal sound by the mediation of breath. But just as a word of the human mind is united to a vocal sound, so it the divine Word united to flesh, as Augustine says.Augustine, *On the Trinity*, bk. 15, ch. 11 (CCSL 50A; PL 42:1072). Therefore that union was made by the mediation of the Holy Spirit.  
 
 Obj. 2: Furthermore, in every joining together that arises through a gratuitous will, love falls between them. But the Son of God’s union to human nature was of this sort. Therefore the Holy Spirit, who is love, is the medium in it.  
 
@@ -426,7 +428,7 @@ On the contrary, the middle is more united to each extreme than are the extremes
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that no union falls between the human and divine natures. For no accident falls between in any substantial union. But the union, since it is a relation, is a certain accident. Therefore since the union of the divinity with the humanity is not accidental, but is in the substance that is called the “hypostasis,” it appears that no middle can be present in the union.***
+Obj. 1: Moreover, it appears that no union falls between the human and divine natures. For no accident falls between in any substantial union. But the union, since it is a relation, is a certain accident. Therefore since the union of the divinity with the humanity is not accidental, but is in the substance that is called the “hypostasis,” it appears that no middle can be present in the union.  
 
 Obj. 2: Furthermore, if that union were a real thing, either it is eternal or temporal. If eternal, since one cannot understand a composition without its components, as the Philosopher says,Aristotle, *Topics* 6.13, 150b23–25; *Physics* 1.4, 187b11–12. then the man must have been united to God from eternity. But if temporal, since a union is in each extreme, it appears that there is something temporal in God—which is impossible. Therefore the union is not some real thing fall between the human and divine natures.  
 
@@ -438,7 +440,7 @@ I answer that, one should note, having supposed the distinction presented in the
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, as the Master says in Book II,*Sent*. II, 26.8(169).1  “grace” is spoken of in two ways: in one way, as meaning God himself giving gratuitously, or his gratuitous will, and in another way, as that gift that is given gratuitously. Therefore in the first way of taking “grace,” grace is the medium of the union as causing the union as effecting it, for by his gratuitous will, without any preceding merits, he assumed flesh. In the second way of taking “grace,” no habitual gift falls as a medium there, as something formally causing the union; rather, it is only as a medium of congruence, as is also knowledge and the perfection of the body and things of this sort that it is becoming for the nature not to lack. Unless perhaps the union itself is called a “grace,” which is a certain gift given gratuitously. This is a medium in a certain way, as will be explained below.***
+To the first question, I answer that, as the Master says in Book II,*Sent*. II, 26.8(169).1  “grace” is spoken of in two ways: in one way, as meaning God himself giving gratuitously, or his gratuitous will, and in another way, as that gift that is given gratuitously. Therefore in the first way of taking “grace,” grace is the medium of the union as causing the union as effecting it, for by his gratuitous will, without any preceding merits, he assumed flesh. In the second way of taking “grace,” no habitual gift falls as a medium there, as something formally causing the union; rather, it is only as a medium of congruence, as is also knowledge and the perfection of the body and things of this sort that it is becoming for the nature not to lack. Unless perhaps the union itself is called a “grace,” which is a certain gift given gratuitously. This is a medium in a certain way, as will be explained below.  
 
 Reply Obj. 1: As [Augustine] explains himself,Augustine, *Enchiridion de fide, spe et caritate*, ch. 12 (CCSL 46; PL 40:237). that assumption pertains to the greatest grace, since the greatest gift has been gathered to man such that he be the Son of God without any preceding merits. Whence the “divine grace” here signifies the divine will making the union gratuitously, and not any habit by the intervention of which the union is completed.  
 
@@ -448,7 +450,7 @@ Reply Obj. 3: Although to be assumed into the unity of the divine person is abov
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the Holy Spirit cannot be called the medium in that union, except as one causing the union as effecting it. However, this is the effect of the whole Trinity, though it is appropriated to the Holy Spirit—as will be explained in Distinction 4.Below, d. 4, q. 1, a. 2, ad 1.***
+To the second question, it should be said that the Holy Spirit cannot be called the medium in that union, except as one causing the union as effecting it. However, this is the effect of the whole Trinity, though it is appropriated to the Holy Spirit—as will be explained in Distinction 4.Below, d. 4, q. 1, a. 2, ad 1.  
 
 Reply Obj. 1: Not even a created word is united to the vocal sound by the mediation of breath, except as through a medium that effects the union. For, as the Philosopher says,Aristotle, *On the Soul* 2.8, 420b27–29. *the striking of the exhaled air against the windpipe is the cause of the vocal sound*; and in this way too the effecting of the flesh, to which the uncreated Word is united, is also appropriated to the Holy Spirit.  
 
@@ -458,7 +460,7 @@ Reply Obj. 3: The Holy Spirit is also said to be closer to us insofar as all gif
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that, between the human and divine natures it is necessary that there fall a middle union, not as cause, but as an effect following the joining together of the natures. For it is the nature of a relation in other kinds of things that it have a cause, since it holds the minimum of the nature of a being, as the Commentator says in the *Metaphysics* 12.Averroes, *Commentary on the Metaphysics*, bk. 12, text. 10. Whence, although a relation is not through itself there terminus of a motion, since there is *no motion into being toward-something*, as is shown in the *Physics* 5,Aristotle, *Physics* 5.2, 225b11. still because motion is through itself terminated at some being, some relation follows it of necessity. For example, from a motion of alteration being terminated at whiteness, the relation of likeness toward all white things follows; and likewise, from a motion of generation being terminated at a form, the relation in virtue of which the matter is said to be under the form follows. So too then, from the motion of the assumption of human nature being terminated at the person, this relation called “union” follows. Whence the union is a medium not as something causing the union, but rather as something following on it. This is just as we also said above that water in the medium in touch from the fact that touching things must be moistened.***
+To the third question, it should be said that, between the human and divine natures it is necessary that there fall a middle union, not as cause, but as an effect following the joining together of the natures. For it is the nature of a relation in other kinds of things that it have a cause, since it holds the minimum of the nature of a being, as the Commentator says in the *Metaphysics* 12.Averroes, *Commentary on the Metaphysics*, bk. 12, text. 10. Whence, although a relation is not through itself there terminus of a motion, since there is *no motion into being toward-something*, as is shown in the *Physics* 5,Aristotle, *Physics* 5.2, 225b11. still because motion is through itself terminated at some being, some relation follows it of necessity. For example, from a motion of alteration being terminated at whiteness, the relation of likeness toward all white things follows; and likewise, from a motion of generation being terminated at a form, the relation in virtue of which the matter is said to be under the form follows. So too then, from the motion of the assumption of human nature being terminated at the person, this relation called “union” follows. Whence the union is a medium not as something causing the union, but rather as something following on it. This is just as we also said above that water in the medium in touch from the fact that touching things must be moistened.  
 
 Reply Obj. 1: Nothing prevents an accident from being the medium in substantial conjunction as following upon the conjunction. Yet it is impossible that it be a medium causing the conjunction.  
 
@@ -472,7 +474,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed as follows.Parallels: *ST* III.6.3, 4; *SCG* IV.33, 44. It appears that the flesh was conceived before it was assumed.***
+To the third we proceed as follows.Parallels: *ST* III.6.3, 4; *SCG* IV.33, 44. It appears that the flesh was conceived before it was assumed.  
 
 Obj. 1: For what is not cannot be assumed. But flesh becomes a being through its conception. Therefore the flesh was conceived before it was assumed.  
 
@@ -482,7 +484,7 @@ On the contrary, the sharing of properties—such that what is said of the man i
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the flesh was assumed before it was animated, or ensouled. For what is first in a resolution is last in a composition. But when the soul was separated from the flesh, the union of the flesh with the divinity remained. Therefore the flesh was assumed by the divinity before it was animated.***
+Obj. 1: Moreover, it appears that the flesh was assumed before it was animated, or ensouled. For what is first in a resolution is last in a composition. But when the soul was separated from the flesh, the union of the flesh with the divinity remained. Therefore the flesh was assumed by the divinity before it was animated.  
 
 Obj. 2: Furthermore, the soul, since it is a form, requires its proper matter, namely the organ-bearing body that it is in. Now, this latter comes to be through the conception of the flesh. Therefore the conception precedes the animation. But the conception of the flesh is simultaneous with its assumption, as was shown. Therefore flesh was assumed prior to its being animated by the rational soul.  
 
@@ -490,7 +492,7 @@ On the contrary, the flesh is united to the divinity by the mediation of the sou
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the soul was assumed before being joined to the body. For an extreme is joined to the intermediate before being joined to the other extreme. But the divinity is united to the flesh by the mediation of the soul. Therefore it is united to the soul before the flesh. But the divinity and the soul are united to the flesh at the same time. Therefore the divinity is united to the soul before being united to the flesh.***
+Obj. 1: Moreover, it appears that the soul was assumed before being joined to the body. For an extreme is joined to the intermediate before being joined to the other extreme. But the divinity is united to the flesh by the mediation of the soul. Therefore it is united to the soul before the flesh. But the divinity and the soul are united to the flesh at the same time. Therefore the divinity is united to the soul before being united to the flesh.  
 
 Obj. 2: Furthermore, Christ’s person is said to be composed from three substances: divinity, soul, and flesh. The highest of these is the Godhead, the lowest is flesh, and the soul is the middle. But the divinity would be united to the soul before being united to the flesh. Therefore if a middle communicates with its extremes, it appears that the soul is after the Godhead but before the flesh. But the soul was created and assumed at the same time. Therefore the soul was assumed before it was united to the flesh.  
 
@@ -502,7 +504,7 @@ And therefore none of the following three things are possible: that the flesh be
 
 Response to Quaestiuncula 1  
 
-***The response to the first question is clear from this, for it is not possible that the flesh was conceived first and later assumed. For were it to have been conceived before the assumption, it would have its own proper hypostasis, and then after the assumption either that hypostasis would have remained—and thus, there could not have arisen a union in the [divine] hypostasis—or it would not have remained, and this could occur without the prior corruption of the conceived flesh—for the notion of a hypostasis is not accidental to a thing, such that it could be one in number while the other hypostasis still remains.***
+The response to the first question is clear from this, for it is not possible that the flesh was conceived first and later assumed. For were it to have been conceived before the assumption, it would have its own proper hypostasis, and then after the assumption either that hypostasis would have remained—and thus, there could not have arisen a union in the [divine] hypostasis—or it would not have remained, and this could occur without the prior corruption of the conceived flesh—for the notion of a hypostasis is not accidental to a thing, such that it could be one in number while the other hypostasis still remains.  
 
 Reply Obj. 1: Although that which does not exist cannot be assumed, still it is possible that it be assumed in the same instant in which it has existence, such that the existence of the thing assumed does not precede the assumption in time, but it does in its nature.  
 
@@ -510,7 +512,7 @@ Reply Obj. 2: Although a motion according to its principle or medium cannot be s
 
 Response to Quaestiuncula 2  
 
-***To the second question, the response is clear, from things said before. For it is not possible that the flesh was assumed first and animated later, for two reasons: first, because it has its assumability from the soul, which the soul cannot confer on it before it is united to it; and second, because parts have their assumability from the whole, as was said before.***
+To the second question, the response is clear, from things said before. For it is not possible that the flesh was assumed first and animated later, for two reasons: first, because it has its assumability from the soul, which the soul cannot confer on it before it is united to it; and second, because parts have their assumability from the whole, as was said before.  
 
 Reply Obj. 1: The body is assumable insofar as it has an order to the soul and to the whole, which order it cannot have except after it is united to the soul, and it is made an actual part of a human nature. And yet, when the soul is separated and the whole dissolved, there still remains that order in the body, according to the hope of the resurrection. This is like the way even an acquired habit, such as political virtue, is caused by an actual activity, and yet when the actual activity passes away the habit remains. Whence it is clear that the body cannot be assumed before it is united to the soul, and yet if the soul is separated after the union the flesh will nevertheless remain assumed and united to the divinity.  
 
@@ -518,7 +520,7 @@ Reply Obj. 2: A form does not presuppose its proper and disposed matter in the o
 
 Response to Quaestiuncula 3  
 
-***To the third question, the response is clear from the foregoing. For the soul could not have been assumed before it was united to the flesh, since it is assumable through its being a part of human nature.***
+To the third question, the response is clear from the foregoing. For the soul could not have been assumed before it was united to the flesh, since it is assumable through its being a part of human nature.  
 
 Reply Obj. 1: An extreme is not always joined to its intermediate prior in time to its being joined to the other extreme. For the air and one’s sight are acted upon by a color simultaneously, although the air is acted upon first in the order of nature, since the air being acted upon causes one’s sight to be acted upon. Likewise too, it is not necessary that the Godhead be united to the soul prior in time to its being united to the flesh.  
 
@@ -526,7 +528,7 @@ Reply Obj. 2: Although the soul is of greater dignity than the body, still it is
 
 Exposition of the text  
 
-****Jerome teaches clearly that by the term human nature or humanity are to be understood soul and flesh*.*Sentences* III, 1.1(4).1. One should not understand the soul and the body by “humanity,” as though it could be said properly that humanity is the soul and the body. Rather, it should be understood the way parts are understood in the whole, as the walls and roof are in the house and yet they are not predicated of the whole. This is also why in the authority of Jerome is added, *the humanity, which is comprised of the soul and the body*.*Sent*. III, 2.1(4).1, actually quoting Pelagius the heretic, *Libellus fidei ad Innocentium Papam*, n. 4. He does not say, “which is the soul and the body.”***
+*Jerome teaches clearly that by the term human nature or humanity are to be understood soul and flesh*.*Sentences* III, 1.1(4).1. One should not understand the soul and the body by “humanity,” as though it could be said properly that humanity is the soul and the body. Rather, it should be understood the way parts are understood in the whole, as the walls and roof are in the house and yet they are not predicated of the whole. This is also why in the authority of Jerome is added, *the humanity, which is comprised of the soul and the body*.*Sent*. III, 2.1(4).1, actually quoting Pelagius the heretic, *Libellus fidei ad Innocentium Papam*, n. 4. He does not say, “which is the soul and the body.”  
 
 *And so they are in error who contend that, whenever Christ’s humanity is recalled, it is not the substance that is understood by the term humanity, but some property by which he is called a man*.*Sent*. III, 2.1(4).2. By this property, which they call “humanity,” can be understood the form following the composition of the parts—namely, of the soul and body, in which form all the individuals share as in their common nature.  
 

@@ -1,6 +1,8 @@
 # C. 3 - With what frivolous arguments he attacks another solution to the problem, if this solution happens to be held
 
-***His autem rationibus positis, nititur quandam solutionem infringere, quae est si aliquis dicat quod ad ministerium sacerdotis pertinet oratio absolutionem divinam impetrans, sed post debet dicere indicative: *absolvo te ab omnibus peccatis tuis*, id est: absolutum te ostendo.***
+***Quam frivolis rationibus impugnetur cuiusdam solutio, si forte haec sustineatur***
+
+His autem rationibus positis, nititur quandam solutionem infringere, quae est si aliquis dicat quod ad ministerium sacerdotis pertinet oratio absolutionem divinam impetrans, sed post debet dicere indicative: *absolvo te ab omnibus peccatis tuis*, id est: absolutum te ostendo.  
 
 Quam quidem solutionem nec ego approbo, si simpliciter, ut sonant verba, intelligatur. Non enim oratione sacerdotis impetratur remissio peccatorum, sed passione Christi: alioquin si sacerdos esset in peccato mortali absolvere non posset. Praemittitur autem oratio ut impetretur confitenti idoneitas ad suscipiendum effectum sacramenti; quae quidem oratio, etsi plus valeat a iusto quam a peccatore oblata propter meritum personae quod additur, tamen etiam a peccatore sacerdote oblata non est cassa, quia proponitur ab eo in persona totius Ecclesiae. In formis autem sacramentorum non plus facit verbum a iusto prolatum quam a peccatore, quia non operatur ibi meritum hominis, sed passio Christi et virtus Dei.  
 

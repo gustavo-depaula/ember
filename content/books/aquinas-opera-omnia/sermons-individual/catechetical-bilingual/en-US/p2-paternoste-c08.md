@@ -1,6 +1,8 @@
 # A. 7 - But Deliver Us from Evil. Amen.
 
-***The Lord has already taught us to pray for forgiveness of our sins, and how we can avoid temptations.Parallel texts: *ST* I-II.69.3, ad 3; a. 4; *ST* II-II.45.1, 6; *In III Sent*. 34.1.4. In this petition, he teaches us to pray to be preserved from evil, and indeed from all evil in general, such as sin, illness, affliction, and all others, as Augustine explains it. But since we have already mentioned sin and temptation, we now must consider other evils, such as adversity and all afflictions of this world. From these God preserves us in a fourfold manner.***
+***But Deliver Us from Evil. Amen.***
+
+The Lord has already taught us to pray for forgiveness of our sins, and how we can avoid temptations.Parallel texts: *ST* I-II.69.3, ad 3; a. 4; *ST* II-II.45.1, 6; *In III Sent*. 34.1.4. In this petition, he teaches us to pray to be preserved from evil, and indeed from all evil in general, such as sin, illness, affliction, and all others, as Augustine explains it. But since we have already mentioned sin and temptation, we now must consider other evils, such as adversity and all afflictions of this world. From these God preserves us in a fourfold manner.  
 
 First, he preserves us such that affliction does not come. Yet this is very rare because it is the lot of the just in this world to suffer, for it is written: *all that will live godly in Christ Jesus shall suffer persecution* (2 Tim 3:12). Once in a while, however, God does prevent a man from being afflicted by some evil; this is when he knows such a one to be weak and unable to bear it. Just so a physician does not prescribe violent medicines to a weak patient. *Behold, I have given before you a door opened, which no man can shut; because you have little strength* (Rev 3:8). In heaven this will be a general thing, for there no one shall be afflicted. *In six troubles*, namely, of this present life, which is divided into six periods, *he shall deliver you, and in the seventh, evil shall not touch you* (Job 5:19)*. They shall no more hunger nor thirst* (Rev 7:16).  
 
@@ -18,7 +20,7 @@ The Holy Spirit through the gift of wisdom has us use this prayer, and by it we 
 
 A Short Explanation of the Whole Lord’s Prayer  
 
-***By way of brief summary, it should be known that the Lord’s Prayer contains all that we ought to desire and all that we ought to avoid. Now, of all desirable things, that must be most desired which is most loved, and that is God.***
+By way of brief summary, it should be known that the Lord’s Prayer contains all that we ought to desire and all that we ought to avoid. Now, of all desirable things, that must be most desired which is most loved, and that is God.  
 
 Therefore, you seek, first of all, the glory of God when you say: ***hallowed be thy name***.  
 

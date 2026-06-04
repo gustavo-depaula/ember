@@ -1,8 +1,10 @@
 # D. 21 - Exclusive diction in the divine
 
+***Exclusive diction in the divine***
+
 ***Division of the text***
 
-***Having shown the equality of the persons, therefore, because the Master made use of certain expressions in his proposition wherein exclusive diction was added to personal terms—for example, when it is said that the Father *alone* has as much power as all three do together, and the like)This is not an exact quotation in the previous distinctions, though the exclusive diction is used of the Father’s greatness (or magnitude) in Peter Lombard’s *Sentences*, bk. 1, d. 19, ch. 12 (83), para. 1 (*Sent*. I, 1.19.12[83].1), and of his power in *Sent*. I, 20.1(84).2.—in this part he inquires about the truth of expressions of this sort, how exclusive diction of this sort can be joined to the divine names. Therefore this is divided into two parts: in the first, he asks whether exclusive diction can be joined to a personal name placed in the subject along with a personal predicate; in the second, he asks whether it can be joined to a personal name when what is essential is being predicated of him, such as “the Father alone is God,” at *after these, it is asked whether, as it is said, the Father alone is father, or the Son alone is son, it can also be said: the Father alone is God, or the Son alone is God*.*Sent*. I, 21.2(88).1.***
+Having shown the equality of the persons, therefore, because the Master made use of certain expressions in his proposition wherein exclusive diction was added to personal terms—for example, when it is said that the Father *alone* has as much power as all three do together, and the like)This is not an exact quotation in the previous distinctions, though the exclusive diction is used of the Father’s greatness (or magnitude) in Peter Lombard’s *Sentences*, bk. 1, d. 19, ch. 12 (83), para. 1 (*Sent*. I, 1.19.12[83].1), and of his power in *Sent*. I, 20.1(84).2.—in this part he inquires about the truth of expressions of this sort, how exclusive diction of this sort can be joined to the divine names. Therefore this is divided into two parts: in the first, he asks whether exclusive diction can be joined to a personal name placed in the subject along with a personal predicate; in the second, he asks whether it can be joined to a personal name when what is essential is being predicated of him, such as “the Father alone is God,” at *after these, it is asked whether, as it is said, the Father alone is father, or the Son alone is son, it can also be said: the Father alone is God, or the Son alone is God*.*Sent*. I, 21.2(88).1.  
 
 And this latter is divided into two: in the first, he shows that such expressions should not be conceded simply speaking, as when one says, “the Father alone is God”; in the second, he shows that according to a certain understanding they can be conceded, and if they are conceded, nothing incongruous follows, at *‘And yet,’ as Augustine says, ‘although the above were to be said of the Father alone, it does not follow that the Son and the Holy Spirit would be excluded.’**Sent*. I, 21.3(89).2, quoting Augustine, *On the Trinity*, bk. 6, cc. 7, 9 (*Patrologia Latina* [PL] 42:929, 930).  
 
@@ -28,11 +30,11 @@ second, whether it can be added to a personal term when the predicate is essenti
 
 Article 1  
 
-***Whether the propositions, “God alone is God” and “God alone is Father,” are false***
+Whether the propositions, “God alone is God” and “God alone is Father,” are false  
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows.Parallel text: Aquinas, *Summa theologiae* (*ST*) I, q. 31, a. 3. It seems that “God alone is God” is false.***
+To the first we proceed as follows.Parallel text: Aquinas, *Summa theologiae* (*ST*) I, q. 31, a. 3. It seems that “God alone is God” is false.  
 
 Obj. 1: For every adjective asserts its reality about what stands under it. But “alone” is an adjective. Therefore when one says, “God alone,” he implies a solitude about God. But as Hilary says, and was noted above, *we must confess, then, that he is neither solitary, nor diverse*.*Sent*. I, 2.4(7).3, quoting Hilary, *On the Trinity*, bk. 4, para. 18 (PL 10:111). Therefore it seems that “God alone is God” is false.  
 
@@ -44,7 +46,7 @@ On the contrary (4), the proper is what belongs to one alone. But to be divine o
 
 Quaestiuncula 2  
 
-***Moreover, one asks whether “God alone is Father” is true, for it seems to be false.***
+Moreover, one asks whether “God alone is Father” is true, for it seems to be false.  
 
 Obj. 1: For what is found in another cannot be in one alone. But paternity is not only in God, but also in men, and even in a certain way in angels, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 2, para. 2 (*Patrologia Graeca* [PG] 3:646). Therefore it cannot be said that God alone is Father.  
 
@@ -52,7 +54,7 @@ On the contrary, of whatever the common is predicated with precision, the proper
 
 Response to Quaestiuncula 1  
 
-***I answer that, following the Philosopher,Aristotle, *Sophistical Refutations* 22, 178a39‒b1. “alone” is the same thing as what is not with another, wherein companionship is being removed. Therefore this word “alone” can remove companionship simply speaking, or with respect to someone. And it is said to remove companionship simply speaking when the association of another that is of the same nature and condition with him is taken away; for example, we say, “the man is alone in the house” even when there are many other animals there, and we say “the religious goes alone” when he travels without a brother of his order, even if many others go there simultaneously. And in this way “alone” is the same thing as “solitary.” And it is also categorematic diction implying solitude in reference to its subject, just like any other adjective, and thus in no way can it be taken in divine things. For one person always has the companionship of society with another person who is connatural to and like himself.***
+I answer that, following the Philosopher,Aristotle, *Sophistical Refutations* 22, 178a39‒b1. “alone” is the same thing as what is not with another, wherein companionship is being removed. Therefore this word “alone” can remove companionship simply speaking, or with respect to someone. And it is said to remove companionship simply speaking when the association of another that is of the same nature and condition with him is taken away; for example, we say, “the man is alone in the house” even when there are many other animals there, and we say “the religious goes alone” when he travels without a brother of his order, even if many others go there simultaneously. And in this way “alone” is the same thing as “solitary.” And it is also categorematic diction implying solitude in reference to its subject, just like any other adjective, and thus in no way can it be taken in divine things. For one person always has the companionship of society with another person who is connatural to and like himself.  
 
 However, if “alone” excludes companionship in some determinate respect, then this is syncategorematic diction, bringing in a certain order or bearing of one to another, by reason of an implied negation, rather than implying a certain form. And in reference to this I say that this, “God alone creates,” does this in two ways. For it removes the companionship of another from the form of the subject, with the understood implication of “the one that is,” or “he who is”; and in this way the meaning is “God alone, that is, he who is God in such a way that besides him no other is God, creates,” and in this way this is true. Or it removes companionship in the participation of the predicate, and in this sense this is also true; for the meaning is that no one else besides God creates. And the judgment about “the Father alone is Father,” or “the Father alone begets,” is the same. For all expressions of this sort are false in the first sense, and true in the other two.  
 
@@ -66,13 +68,13 @@ Reply Sed Contra 4: This we concede, as it proceeds according to the third meani
 
 Response to Quaestiuncula 2  
 
-***To what is asked further—whether “God alone is a Father” is true—one should respond that it can be judged according to three senses. For if this word “alone” implies solitude in God, the expression is false. But if it brings in an exclusion from the form of the subject, then it is true, and the meaning is: “God, besides whom there is no other, is a Father.” However, if it removes companionship from the participation of the predicate, then I say it is twofold. For in the name “father” one can understand only the property of paternity insofar as the predicate is held formally—and then it is false, since paternity is not only in God, but also in men. Or one can understand the very person subsisting by a distinct paternity—and then it is true, and in this way it is proved and disproved. Yet it must be noted that paternity is not univocally of the same account in God and in created things, even though it is the same account analogically—which indeed has something identical in the account but also something diverse. So too if the predicate is taken formally. Nevertheless, “God alone is a Father” can in a certain way be true, and according to the same mode of speaking in which it is said, *no one is good but God alone* (Luke 18:19).***
+To what is asked further—whether “God alone is a Father” is true—one should respond that it can be judged according to three senses. For if this word “alone” implies solitude in God, the expression is false. But if it brings in an exclusion from the form of the subject, then it is true, and the meaning is: “God, besides whom there is no other, is a Father.” However, if it removes companionship from the participation of the predicate, then I say it is twofold. For in the name “father” one can understand only the property of paternity insofar as the predicate is held formally—and then it is false, since paternity is not only in God, but also in men. Or one can understand the very person subsisting by a distinct paternity—and then it is true, and in this way it is proved and disproved. Yet it must be noted that paternity is not univocally of the same account in God and in created things, even though it is the same account analogically—which indeed has something identical in the account but also something diverse. So too if the predicate is taken formally. Nevertheless, “God alone is a Father” can in a certain way be true, and according to the same mode of speaking in which it is said, *no one is good but God alone* (Luke 18:19).  
 
 Article 2  
 
 ***Whether the proposition, “the Father alone is God,” is true***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.31.4; *Commentary on Matthew*, ch. 11. It seems that “the Father alone is God,” or “the Son alone is God” is true.***
+To the second we proceed as follows.Parallel texts: *ST* I.31.4; *Commentary on Matthew*, ch. 11. It seems that “the Father alone is God,” or “the Son alone is God” is true.  
 
 Obj. 1: For just as to be God belongs to the three persons, so too does to be the most high. But it is written, about the Son, *you alone are the most high*.In the *Gloria* of the Mass. Therefore one can also say, “the Son alone is God.”  
 
@@ -108,9 +110,9 @@ Reply Obj. 4–5: And as regards what is objected about a part and a consequent,
 
 Question 2  
 
-***Whether there can be exclusive diction in the divine on the side of the predicate***
+Whether there can be exclusive diction in the divine on the side of the predicate  
 
-***Next, one asks how, in the divine, exclusive diction can be added on the side of the predicate. And two things are asked about this:***
+Next, one asks how, in the divine, exclusive diction can be added on the side of the predicate. And two things are asked about this:  
 
 first, whether “the Trinity is God alone” is true;  
 
@@ -120,7 +122,7 @@ Article 1
 
 ***Whether that proposition, “the Trinity is God alone,” is true***
 
-***To the first we proceed as follows. It seems that “the Trinity is God alone” is false.***
+To the first we proceed as follows. It seems that “the Trinity is God alone” is false.  
 
 Obj. 1: For “alone” is a disposition of a subject, just like “every.” But the word “every” is not congruently added to the predicate. Therefore it seems that the case is the same for the word “alone.”  
 
@@ -178,4 +180,4 @@ Reply Obj. 3: If the word “alone” is taken properly, that argument proves no
 
 Exposition of the text  
 
-****No one knows the Father, except the Son*.*Sent*. I, 21.3(89).2, quoting Matthew 11:27. It seems that Augustine interprets this poorly, because “no one” is the same thing as “no man,” but the Father and the Holy Spirit are not contained under “man,” as the name “man” is not predicated of them; and thus it is unfitting that Augustine adds, *it does not follow that the Father or the Holy Spirit is separated because they are inseparable*.*Sent*. I, 21.3(89).2, quoting Augustine, *Against Maximinus*, bk. 2, ch. 13, para. 1 (PL 42:769). To this some say that this word “except” is not added to make an exception, but in opposition, so that the meaning is, “no mere man knows the Father with a knowledge of comprehension, but only the Son does.” But it is better to say that the word “no one” holds one thing from its proper signification, and something else from the name’s usage. From what is proper to its signification, it has it that “no one” signifies the same thing as “no man,” and in this way the person of the Father, or that of the Holy Spirit, is not being included under this distribution. But because a man exists insofar as he has intellect, nor is there anything manifest to us according to sensation that has intellect, except man, therefore from common usage, “no one” distributes in such a way as to cover every intellectual nature. And in this way, under distribution a descent to the divine, angelic, and human persons can occur.***
+*No one knows the Father, except the Son*.*Sent*. I, 21.3(89).2, quoting Matthew 11:27. It seems that Augustine interprets this poorly, because “no one” is the same thing as “no man,” but the Father and the Holy Spirit are not contained under “man,” as the name “man” is not predicated of them; and thus it is unfitting that Augustine adds, *it does not follow that the Father or the Holy Spirit is separated because they are inseparable*.*Sent*. I, 21.3(89).2, quoting Augustine, *Against Maximinus*, bk. 2, ch. 13, para. 1 (PL 42:769). To this some say that this word “except” is not added to make an exception, but in opposition, so that the meaning is, “no mere man knows the Father with a knowledge of comprehension, but only the Son does.” But it is better to say that the word “no one” holds one thing from its proper signification, and something else from the name’s usage. From what is proper to its signification, it has it that “no one” signifies the same thing as “no man,” and in this way the person of the Father, or that of the Holy Spirit, is not being included under this distribution. But because a man exists insofar as he has intellect, nor is there anything manifest to us according to sensation that has intellect, except man, therefore from common usage, “no one” distributes in such a way as to cover every intellectual nature. And in this way, under distribution a descent to the divine, angelic, and human persons can occur.

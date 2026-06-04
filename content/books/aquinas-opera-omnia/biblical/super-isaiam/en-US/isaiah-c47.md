@@ -1,5 +1,7 @@
 # Chapter 45
 
+^45:1^ Thus says the Lord to my anointed Cyrus, whose right hand I have taken hold of, to subdue nations before his face, and to turn the backs of kings, and to open the doors before him, and the gates shall not be shut.  
+
 > ^45:2^ I will go before you, and will humble the great ones of the earth: I will break in pieces the gates of brass, and will burst the bars of iron.
 
 > ^45:3^ And I will give you hidden treasures, and the concealed riches of secret places: that you may know that I am the Lord who call you by your name, the God of Israel.

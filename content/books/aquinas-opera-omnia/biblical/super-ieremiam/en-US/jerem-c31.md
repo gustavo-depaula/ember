@@ -1,10 +1,12 @@
 # C. 29 - The consolations of false prophets
 
+***The consolations of false prophets***
+
 ***Lecture 1***
 
 ***Liberation after seventy years***
 
-***^29:1^ And these are the words of the book which Jeremiah the prophet sent from Jerusalem to the remnant of the elders of the exile, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had led from Jerusalem to Babylon,***
+^29:1^ And these are the words of the book which Jeremiah the prophet sent from Jerusalem to the remnant of the elders of the exile, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had led from Jerusalem to Babylon,  
 
 > ^29:2^ after Jekoniah the king had gone forth, and the queen, and the eunuchs, and the princes of Judah, and Jerusalem, and the workman and the engraver, from Jerusalem,
 
@@ -88,7 +90,7 @@ Lecture 2
 
 ***Death for those in Jerusalem***
 
-***^29:17^ Thus says the Lord of hosts: behold, I shall send the sword among them, and famine, and pestilence; and I shall make them like bad figs, which cannot be eaten, because they are bad.***
+^29:17^ Thus says the Lord of hosts: behold, I shall send the sword among them, and famine, and pestilence; and I shall make them like bad figs, which cannot be eaten, because they are bad.  
 
 > ^29:18^ And I shall follow them with the sword, and with famine, and with pestilence; and I shall make them a vexation to all the kingdoms of the earth, as a curse, and as an astonishment, and as a hissing, and as a reproach to all the nations to which I have driven them.
 
@@ -106,7 +108,7 @@ Lecture 3
 
 ***False prophets’ punishment***
 
-***^29:21^ Thus says the Lord of hosts, the God of Israel, to Ahab, the son of Koliah, and to Zedekiah, the son of Maasiah, who prophesies to you falsely in my name: behold, I shall give them over into the hand of Nebuchadnezzar, king of Babylon, and he shall strike them before your eyes.***
+^29:21^ Thus says the Lord of hosts, the God of Israel, to Ahab, the son of Koliah, and to Zedekiah, the son of Maasiah, who prophesies to you falsely in my name: behold, I shall give them over into the hand of Nebuchadnezzar, king of Babylon, and he shall strike them before your eyes.  
 
 > ^29:22^ And of them a curse shall be taken up by all the exiles of Judah, who are in Babylon, saying, ‘May the Lord make you as Zedekiah, and Ahab, whom the king of Babylon roasted in fire.’
 
@@ -144,7 +146,7 @@ Lecture 4
 
 ***False prophets’ guilt***
 
-***^29:23a^ Because they committed folly in Israel, and adultery with the wives of their friends, and spoke a word in my name falsely, which I did not send to them.***
+^29:23a^ Because they committed folly in Israel, and adultery with the wives of their friends, and spoke a word in my name falsely, which I did not send to them.  
 
 > **150**. Here, he speaks of their guilt:
 

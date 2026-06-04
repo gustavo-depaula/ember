@@ -1,8 +1,10 @@
 # D. 7 - The commonness of the power of generation
 
+***The commonness of the power of generation***
+
 ***Division of the text***
 
-***After having manifested the proper principle of the divine generation, which is the nature and not the will, here he looks into the commonness of the principle—that is, whether the power for generating is common to the Father and the Son. And this is divided into two parts: in the first, he looks into the commonness of the generative power, taken concretely; in the second, he looks into its commonness taken in the abstract, at *also, it is asked by some whether the Father by nature has the power to beget the Son, and whether this is a power which is in the Son*.*Sent*. I, 7.2(20).1.***
+After having manifested the proper principle of the divine generation, which is the nature and not the will, here he looks into the commonness of the principle—that is, whether the power for generating is common to the Father and the Son. And this is divided into two parts: in the first, he looks into the commonness of the generative power, taken concretely; in the second, he looks into its commonness taken in the abstract, at *also, it is asked by some whether the Father by nature has the power to beget the Son, and whether this is a power which is in the Son*.*Sent*. I, 7.2(20).1.  
 
 The first part is divided into three: first, he answers the question; second, he presents a doubt, at *but we are strongly shaken by what Augustine says*;*Sent*. I, 7.1(19).2. and third, he presents a solution, at *and so how shall that phrase be taken which is set out above?**Sent*. I, 7.1(19).4.  
 
@@ -34,7 +36,7 @@ Article 1
 
 ***Whether there is a generative power in God***
 
-***To the first we proceed as follows. It seems that there is no power to generate in God.Parallel texts: *ST* I.41.4; *On the Power of God*, q. 2, a. 1.***
+To the first we proceed as follows. It seems that there is no power to generate in God.Parallel texts: *ST* I.41.4; *On the Power of God*, q. 2, a. 1.  
 
 Obj. 1: For whatever goes forth from a power, whether it be the power of an agent or one of matter, is in potency before it is in act. But the generation of the Son from the Father is not like this, since it is eternal. Therefore it does not go forth from any power. Therefore in God there is no power to generate.  
 
@@ -62,7 +64,7 @@ Article 2
 
 ***Whether the power of generating is relative***
 
-***We proceed to the second as follows.Parallel texts: *ST* I.41.5; *On the Power of God*, q. 2, a. 2. It seems that the power of generating is toward-something, or relative.As noted above in d. 2, q. 1, a. 3, although *ad aliquid* is usually translated as “relation,” it is here rendered with the more literal “toward-something.” As awkward as it sounds, “toward-something” is more concrete than “relation” and emphasizes the character of relation as an orientation of a subject, whereas “relation” can sound more abstract and perhaps as something existing “between” the things related. (Additionally, “relation” in English tends to be restricted to persons and especially to persons genetically linked.) A further reason for this translation is that Aquinas will sometimes explain what a *relatio* is by saying that it is *ad aliquid*; so the phrases apparently do not express exactly the same account in his mind.***
+We proceed to the second as follows.Parallel texts: *ST* I.41.5; *On the Power of God*, q. 2, a. 2. It seems that the power of generating is toward-something, or relative.As noted above in d. 2, q. 1, a. 3, although *ad aliquid* is usually translated as “relation,” it is here rendered with the more literal “toward-something.” As awkward as it sounds, “toward-something” is more concrete than “relation” and emphasizes the character of relation as an orientation of a subject, whereas “relation” can sound more abstract and perhaps as something existing “between” the things related. (Additionally, “relation” in English tends to be restricted to persons and especially to persons genetically linked.) A further reason for this translation is that Aquinas will sometimes explain what a *relatio* is by saying that it is *ad aliquid*; so the phrases apparently do not express exactly the same account in his mind.  
 
 Obj. 1: For when the understanding of the distinct persons is removed from the divine, there still remains the understanding of all the things that are said of him absolutely, like goodness, wisdom, and the like. But when the understanding of the persons is removed, the power of generating does not remain. For with the persons removed, the generation is removed, and with the generation removed, the power to generate is removed. For in the divine there can be nothing in potency that is not in act; otherwise God would be changeable. Therefore it is not one of the absolutes, but one of those spoken of as toward-something.  
 
@@ -90,9 +92,9 @@ Reply Sed Contra: And thereby the solution to the things that followed is also c
 
 Article 3  
 
-***Whether the power to generate and the power to create are univocally called “powers”***
+Whether the power to generate and the power to create are univocally called “powers”  
 
-***To the third we proceed as follows. It seems that “power” is not said univocally of the power to generate and the power to create.***
+To the third we proceed as follows. It seems that “power” is not said univocally of the power to generate and the power to create.  
 
 Obj. 1: For powers are distinguished through their acts, and the acts through their objects. But the Son of God and created things are not spoken of univocally in anything. Therefore neither are generation and creation, and so neither is the power to generate and to create.  
 
@@ -120,7 +122,7 @@ Question 2
 
 ***The commonness of the power of generation***
 
-***Next one asks about the commonness of this power, and two things are asked about it:***
+Next one asks about the commonness of this power, and two things are asked about it:  
 
 first, whether the power of generating is in the Son;  
 
@@ -160,11 +162,11 @@ Reply Sed Contra 4: The divine will and knowledge do not have the account of a p
 
 Article 2  
 
-***Whether the Son can generate another son; whether the Father can generate another son***
+Whether the Son can generate another son; whether the Father can generate another son  
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows. It seems that the Son can generate another son.***
+To the second we proceed as follows. It seems that the Son can generate another son.  
 
 Obj. 1: For anything is capable of activity according to its unimpeded power. But the power of generating is in some way in the Son, as was said in the previous article. Therefore, since the power of God cannot be impeded, it seems that the Son can generate another son.  
 
@@ -180,11 +182,11 @@ Furthermore, if the Son were to generate, there would not be the highest union a
 
 Quaestiuncula 2  
 
-***Furthermore, it is asked whether the Father can generate another son. And it seems that he could. For his power is in no way diminished by generation. Therefore for the same reason for which he can generate one Son, he can also generate several.***
+Furthermore, it is asked whether the Father can generate another son. And it seems that he could. For his power is in no way diminished by generation. Therefore for the same reason for which he can generate one Son, he can also generate several.  
 
 Response to Quaestiuncula 1  
 
-***I answer that some have said that the Son can generate another son, but such power will never be brought to act, because of its unfittingness, as Augustine says in the text.*Sent*. I, 7.1(19).2, citing Augustine, *Against Maximinus*, bk. 2, ch. 12 (CCSL 87A; PL 42:766). But this amounts to nothing, because in perpetual things, according to the Philosopher,Aristotle, *Physics* 3.4, 203b230. being and being able-to-be do not differ—and much less do they differ in the divine. Whence, whatever is not in God cannot be there; otherwise God would be changeable. Whence one should say simply speaking that the Son cannot generate a son.***
+I answer that some have said that the Son can generate another son, but such power will never be brought to act, because of its unfittingness, as Augustine says in the text.*Sent*. I, 7.1(19).2, citing Augustine, *Against Maximinus*, bk. 2, ch. 12 (CCSL 87A; PL 42:766). But this amounts to nothing, because in perpetual things, according to the Philosopher,Aristotle, *Physics* 3.4, 203b230. being and being able-to-be do not differ—and much less do they differ in the divine. Whence, whatever is not in God cannot be there; otherwise God would be changeable. Whence one should say simply speaking that the Son cannot generate a son.  
 
 And the reason for this is that that son would in no way be distinct from the other. For, because divine persons are not distinguished according to the division of matter since they are not material, no distinction remains there other than one through relations of origin. Now, it is impossible that one relation of origin, like filiation, be multiplied in number, since this would be a material multiplication. Whence in God there can only be one filiation, and by one filiation only one son is constituted, so in the divine there cannot be several sons, nor several fathers. And this pertains to the Son’s perfection, since in the divine there is nothing pertaining to filiation outside his very self, whereby he is the perfect Son.  
 
@@ -198,11 +200,11 @@ Reply Obj. 4: “Dignity” is among things said absolutely, so the dignity of t
 
 Response to Quaestiuncula 2  
 
-***The solution to the last question asked is also clear from what has been said. For it is impossible that in the divine there be several sons. This is not due to a defect in the Father’s power, but due to the distinction of supposits of the divine nature, which would be taken away, as was said in body of the article.***
+The solution to the last question asked is also clear from what has been said. For it is impossible that in the divine there be several sons. This is not due to a defect in the Father’s power, but due to the distinction of supposits of the divine nature, which would be taken away, as was said in body of the article.  
 
 Exposition of the text  
 
-****For the divine generation would be without measure, if the Son who had been generated had generated a grandson to the Father*.*Sent*. I, 7.1(19).2, quoting Augustine, *Against Maximinus*, bk. 2, ch. 12 (CCSL 87A; PL 42:766). For it seems not unfitting if the begotten one were always to beget another; indeed, it seems like the greatest good, since every generation whatsoever would be an infinite good. And to this it can be said that there are three ways it is unfitting: first, because if this were to go to infinity, since everything infinite is imperfect, the divine generation would never be perfect, and this argument is taken from the text; second, because there could be no distinction between the many begotten ones, as was said in the preceding article; and third, because although communication belongs to the nobility and simplicity of a nature, still an infinite communication occurs only from a defect of a nature. For because a nature cannot be preserved in eternal existence in a single individual, it intends through an infinite succession of individuals to preserve its perpetuity, at least insofar as they are the same in species. And this in no way befits God.***
+*For the divine generation would be without measure, if the Son who had been generated had generated a grandson to the Father*.*Sent*. I, 7.1(19).2, quoting Augustine, *Against Maximinus*, bk. 2, ch. 12 (CCSL 87A; PL 42:766). For it seems not unfitting if the begotten one were always to beget another; indeed, it seems like the greatest good, since every generation whatsoever would be an infinite good. And to this it can be said that there are three ways it is unfitting: first, because if this were to go to infinity, since everything infinite is imperfect, the divine generation would never be perfect, and this argument is taken from the text; second, because there could be no distinction between the many begotten ones, as was said in the preceding article; and third, because although communication belongs to the nobility and simplicity of a nature, still an infinite communication occurs only from a defect of a nature. For because a nature cannot be preserved in eternal existence in a single individual, it intends through an infinite succession of individuals to preserve its perpetuity, at least insofar as they are the same in species. And this in no way befits God.  
 
 *‘For it is not that he could not do so, but that it was not fitting that he should do so,’ may be understood as follows: that is, it was not because of his powerlessness that the Son did not generate, but because it was not fitting for him to do so*.*Sent*. I, 7.1(19).5, quoting Augustine, *Against Maximinus*, bk. 2, ch. 12 (CCSL 87A; PL 42:766). This exposition seems rather tortured, and cannot be taken from Augustine’s words. But one should say to this that the Master takes this exposition from the fact that the word “not” can be taken merely negatively, and that is how the objection went. Or it can be taken as a privative, so that “he could not” is, as it were, an indefinite term; and thereby when he says, *for it is not that he could not*, lack of power is being denied.  
 

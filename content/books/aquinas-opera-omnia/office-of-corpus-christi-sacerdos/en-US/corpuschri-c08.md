@@ -1,5 +1,8 @@
 # None
 
+***[℣. O God, come to my assistance;***
+***℟. O Lord, make haste to help me.***
+
 Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
 As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
@@ -10,7 +13,7 @@ Sung to *Ex quo omnia* from the feast of the Trinity.
 
 ***Psalm 118 (119):129–144, 145–160, 161–176***
 
-***[Psalm 118 (119):129–144—*Phe*] Your testimonies are wonderful: * therefore my soul has sought them.***
+[Psalm 118 (119):129–144—*Phe*] Your testimonies are wonderful: * therefore my soul has sought them.  
 
 > The declaration of your words gives light: * and gives understanding to little ones.
 
@@ -122,7 +125,7 @@ Sung to *Ex quo omnia* from the feast of the Trinity.
 
 ***1 Corinthians 11:27***
 
-***Whosoever shall eat this bread and drink the chalice of the Lord unworthily, will be answerable for the Body and Blood of the Lord.***
+Whosoever shall eat this bread and drink the chalice of the Lord unworthily, will be answerable for the Body and Blood of the Lord.  
 
 > Responsory
 

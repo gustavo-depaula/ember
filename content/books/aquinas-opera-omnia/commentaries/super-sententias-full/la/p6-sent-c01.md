@@ -1,6 +1,8 @@
 # D. 23 - The virtues and faith
 
-***Postquam determinavit Magister de his quae ad Christum pertinent, quibus nos effective reparavit, hic incipit determinare de reparantibus formaliter, quae sunt habitus gratuiti animam informantes.***
+***Divisio textus***
+
+Postquam determinavit Magister de his quae ad Christum pertinent, quibus nos effective reparavit, hic incipit determinare de reparantibus formaliter, quae sunt habitus gratuiti animam informantes.  
 
 Dividitur autem haec pars in duas;  
 
@@ -100,7 +102,7 @@ Articulus 1
 
 ***Utrum indigeamus habitibus in operationibus humanis***
 
-***Ad primum sic proceditur. Videtur quod habitibus non indigeamus in operibus humanis.***
+Ad primum sic proceditur. Videtur quod habitibus non indigeamus in operibus humanis.  
 
 Potentiae enim rationales, quae sunt hominis inquantum homo, sunt nobiliores potentiis naturalibus. Sed potentiae naturales non indigent habitibus ad suos actus producendos. Ergo nec potentiae rationales humanae.  
 
@@ -142,7 +144,7 @@ Articulus 2
 
 ***Utrum habitus in nobis existens cognosci possit***
 
-***Ad secundum sic proceditur. Videtur quod habitus in nobis existens cognosci non possit.***
+Ad secundum sic proceditur. Videtur quod habitus in nobis existens cognosci non possit.  
 
 Inter alios enim habitus praecipuus est caritas. Sed habens caritatem nescit se habere eam: quia *nemo scit, utrum dignus odio vel amore*The edited versions have *an amore vel odio dignus sit*. *sit*, ut dicitur Eccle. 9:1. Ergo nec alios habitus potest aliquisThe edited versions have *quis*. cognoscere.  
 
@@ -196,7 +198,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod virtutes non sint habitus, sed potentiae.***
+Ad tertium sic proceditur. Videtur quod virtutes non sint habitus, sed potentiae.  
 
 Nulla enim res habet esse per habitum, sed per potentiam naturalem. Sed omnis res habetThe edited versions read *omnes res habent*. virtutem essendi vel semper, velThe Vivès edition omits *semper vel*. determinato tempore, ut dicitur in 1 *De cael. et mun*. Ergo virtus non est habitus.  
 
@@ -210,7 +212,7 @@ Praeterea, potentiae sunt a natura, et omnibus communes; quod de virtutibus non 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod virtutes sint passiones. Medium enim et extrema sunt unjus generis. Sed quaedam virtutes sunt medium in passionibus, ut in 2 *Ethic*. dicitur. Ergo ad minus illae sunt passiones.***
+Ulterius. Videtur quod virtutes sint passiones. Medium enim et extrema sunt unjus generis. Sed quaedam virtutes sunt medium in passionibus, ut in 2 *Ethic*. dicitur. Ergo ad minus illae sunt passiones.  
 
 Praeterea, laudabile est proprietas virtutis. Sed quaedam passiones sunt laudabiles, sicut verecundia, poenitentia et hujusmodi. Ergo ad minus aliquae virtutes sunt passiones.Piana, Antwerp, Nicolaï, Venice (2nd ed.), and Parma editions read *Ergo ad minus aliquae passiones sunt virtutes*.  
 
@@ -220,7 +222,7 @@ Sed contra, in omnibus virtutibus requiritur voluntarium, cujus principium est i
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod virtutes non sint habitus, sed actus. Solis enim virtutibus meremur. Sed non meremur nisi actibus: non enim optimi et fortissimi coronantur, sed agonizantes qui vincunt, ut dicitur in 1 *Ethicor*. Ergo virtutes sunt actus.***
+Ulterius. Videtur quod virtutes non sint habitus, sed actus. Solis enim virtutibus meremur. Sed non meremur nisi actibus: non enim optimi et fortissimi coronantur, sed agonizantes qui vincunt, ut dicitur in 1 *Ethicor*. Ergo virtutes sunt actus.  
 
 Praeterea, virtus est ultimum potentiae, ut dicitur in 1 *De cael. et mund*. Sed ultima perfectio potentiae est actus. Ergo virtus est actus.  
 
@@ -232,7 +234,7 @@ Praeterea, Augustinus dicit, quod virtutes in nobis solus Deus operatur. Sed nos
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod nomen virtutis, secundum sui primam impositionem, videtur in quamdam violentiam sonare; unde in 3 *De caeli et mund*. dicitur, quod motus accidentalis, idest violentus, est qui est a virtute, idest a violentia, non cum auxilio naturae. Sed quia non potest aliquid alteri violentiam inferre nisi per potentiam perfectam, secundum quam agat et non patiatur; inde tractum est nomen virtutis ad significandum omnem potentiam perfectam, sive quaThe Bruges, Paris (841, 842) manuscripts read *quo*, but Paris (842) expunges *qua*. potest aliquid in seipso subsistere, sive quaThe Bruges, Paris (841, 842) manuscripts read *quo*, but Paris (842) expunges *qua*. potestThe Brussels manuscript adds *aliquid*. operari: et sic dicitur in 1 *De cael. et mund*. quod virtus est ultimum potentiae: quia perfectio potentiae mensuratur ex ultimo et maximo quod quis potest. Et quia malum in actu contingit ex defectu potentiae agentis, ideo ad perfectionem potentiae exigitur quod bene operetur in suo genere: et propter hoc in 2 *Ethic.* dicitur, quod virtus est quae bonum facit habentem, et opus ejus bonum reddit; et in 6The Bruges, Brussels, and Paris (841, 842) manuscripts read *7*. *Physicor*. dicitur quod virtus est dispositio perfecti ad optimum, eorum scilicet ad quae potentia se extendit. Et quia de virtutibus humanis loquimur; ideo virtus humana erit quae perficiet humanam potentiam ad actum bonum et optimum. Cum autem homo ex hoc sit homo quodThe edited versions read: *cum autem homo ex hoc quod sit homo habet*; the Paris (841, 842) and Paris 15770 manuscripts add *quod* before *habet*. habet rationem et intellectum, illae potentiae humanae sunt quae aliqualiter rationales sunt, vel per essentiam, sicut quae sunt in parte intellectiva, vel per participationem, sicut quae sunt in parte sensitiva rationi obedientes. Hae autem potentiae, ut prius dictum est, ex natura potentiae non possunt esse determinatae ad actus bonos, nec perfecte determinantur nisi per habitus: unde virtutes humanae, de quibus loquimur, non sunt potentiae, sed habitus.***
+Respondeo dicendum ad primam quaestionem, quod nomen virtutis, secundum sui primam impositionem, videtur in quamdam violentiam sonare; unde in 3 *De caeli et mund*. dicitur, quod motus accidentalis, idest violentus, est qui est a virtute, idest a violentia, non cum auxilio naturae. Sed quia non potest aliquid alteri violentiam inferre nisi per potentiam perfectam, secundum quam agat et non patiatur; inde tractum est nomen virtutis ad significandum omnem potentiam perfectam, sive quaThe Bruges, Paris (841, 842) manuscripts read *quo*, but Paris (842) expunges *qua*. potest aliquid in seipso subsistere, sive quaThe Bruges, Paris (841, 842) manuscripts read *quo*, but Paris (842) expunges *qua*. potestThe Brussels manuscript adds *aliquid*. operari: et sic dicitur in 1 *De cael. et mund*. quod virtus est ultimum potentiae: quia perfectio potentiae mensuratur ex ultimo et maximo quod quis potest. Et quia malum in actu contingit ex defectu potentiae agentis, ideo ad perfectionem potentiae exigitur quod bene operetur in suo genere: et propter hoc in 2 *Ethic.* dicitur, quod virtus est quae bonum facit habentem, et opus ejus bonum reddit; et in 6The Bruges, Brussels, and Paris (841, 842) manuscripts read *7*. *Physicor*. dicitur quod virtus est dispositio perfecti ad optimum, eorum scilicet ad quae potentia se extendit. Et quia de virtutibus humanis loquimur; ideo virtus humana erit quae perficiet humanam potentiam ad actum bonum et optimum. Cum autem homo ex hoc sit homo quodThe edited versions read: *cum autem homo ex hoc quod sit homo habet*; the Paris (841, 842) and Paris 15770 manuscripts add *quod* before *habet*. habet rationem et intellectum, illae potentiae humanae sunt quae aliqualiter rationales sunt, vel per essentiam, sicut quae sunt in parte intellectiva, vel per participationem, sicut quae sunt in parte sensitiva rationi obedientes. Hae autem potentiae, ut prius dictum est, ex natura potentiae non possunt esse determinatae ad actus bonos, nec perfecte determinantur nisi per habitus: unde virtutes humanae, de quibus loquimur, non sunt potentiae, sed habitus.  
 
 Ad primum ergo dicendum, quod potentia naturalis qua quis potest esse, determinata est ad unum, scilicet ad esse: ideo ipsius perfectio secundum ipsam naturam potentiae esse potest; et ideo ipsa potentia virtus dicitur. Et similiter dicendum est de aliis potentiis naturalibus. Secus autem est deThe Bruges manuscript adds *aliis*. potentiis rationalibus, quae ad plurima se extendunt.  
 
@@ -242,7 +244,7 @@ Ad tertium dicendum, quod vis accipitur pro omni eo quod est principium operatio
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod ratio passionis contrariatur rationi virtutis: quia virtus in perfectionem potentiae sonat, ut dictum est. Omnis autem passio contingit ex hoc quod passum vincitur ab agente, et trahitur ad terminos ejus: unde passio virtus dici non potest. Sed in hoc perfectio potentiae consistit quod non permittatThe edited versions read *permittit*. se trahi ad aliud nisi secundum quod ei congruit: unde virtutis est potentiam continere, ne per passiones immoderate distrahatur: et ideo virtus non est passio, sed passionum ordinatrix.***
+Ad secundam quaestionem dicendum, quod ratio passionis contrariatur rationi virtutis: quia virtus in perfectionem potentiae sonat, ut dictum est. Omnis autem passio contingit ex hoc quod passum vincitur ab agente, et trahitur ad terminos ejus: unde passio virtus dici non potest. Sed in hoc perfectio potentiae consistit quod non permittatThe edited versions read *permittit*. se trahi ad aliud nisi secundum quod ei congruit: unde virtutis est potentiam continere, ne per passiones immoderate distrahatur: et ideo virtus non est passio, sed passionum ordinatrix.  
 
 Ad primum ergo dicendum, quod virtus dicitur medium in passionibus active, inquantum passiones ad medium reducit: unde non oportet quod sit in genere passionum.  
 
@@ -252,7 +254,7 @@ Ad tertium dicendum, quod peccatum sonat in defectum potentiae operantis: unde p
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod virtus proprie loquendo includit respectum ad aliquid cujus principium sit, sicut currendi, vel essendi. Et quia actus, inquantum hujusmodi, cum sit ultimum, non ordinatur ad aliquid sicut principium sed magis sicut alicujusParma and Vivès editions omit *principium sed magis sicut alicujus*; Piana, Antwerp, Nicolaï, and Venice (2nd ed.) editions omit *alicujus*. effectus; ideo actus virtus dici non potest, nisi eo modo loquendi, quo habitus per actus nominantur, sicut causae per effectus: et de hoc in 2 lib., dist. 27, quaest. 1, art. 1, plenius dictum est.***
+Ad tertiam quaestionem dicendum, quod virtus proprie loquendo includit respectum ad aliquid cujus principium sit, sicut currendi, vel essendi. Et quia actus, inquantum hujusmodi, cum sit ultimum, non ordinatur ad aliquid sicut principium sed magis sicut alicujusParma and Vivès editions omit *principium sed magis sicut alicujus*; Piana, Antwerp, Nicolaï, and Venice (2nd ed.) editions omit *alicujus*. effectus; ideo actus virtus dici non potest, nisi eo modo loquendi, quo habitus per actus nominantur, sicut causae per effectus: et de hoc in 2 lib., dist. 27, quaest. 1, art. 1, plenius dictum est.  
 
 Ad primum ergo dicendum, quod meremur et habitibus et actibus; sed actibus quasi instrumentis merendi, quia merita essentialiter sunt actus: habitibusThe edited versions add *autem*. quasi principiis meritorum; et sic virtutibus mereri dicimur.  
 
@@ -266,7 +268,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod habitus intellectuales non possint dici virtutes.***
+Ad quartum sic proceditur. Videtur quod habitus intellectuales non possint dici virtutes.  
 
 Virtus enim, ut diciturThe Bruges manuscript adds *in*. 2 *Ethic.*, est habitus voluntarius, et circa voluptates et tristitias optimorum operativa. Sed hoc habitibus intellectualibus non competit. Ergo non sunt virtutes.  
 
@@ -282,7 +284,7 @@ Praeterea, propter quod unumquodque,The Bruges manuscript adds *tale*. et illud 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod virtutes morales ab intellectualibus non distinguantur. Morales enim virtutes a more dicuntur: qui videtur idem quod consuetudo, vel parum differre, ut dicitur in 2 *Ethic.* Sed consuetudo facit facilitatem, ut dicit Victorinus; et hoc patet tam in agendis quam in considerandis. Ergo virtutes morales ab intellectualibus distingui non debent.***
+Ulterius. Videtur quod virtutes morales ab intellectualibus non distinguantur. Morales enim virtutes a more dicuntur: qui videtur idem quod consuetudo, vel parum differre, ut dicitur in 2 *Ethic.* Sed consuetudo facit facilitatem, ut dicit Victorinus; et hoc patet tam in agendis quam in considerandis. Ergo virtutes morales ab intellectualibus distingui non debent.  
 
 Praeterea, ad scientiam moralem nihil pertinet nisi morale. Sed ad eam pertinent virtutes intellectuales, de eisThe edited versions read *de quibus*. Philosophus, in 6 *Ethicorum,* determinat. Ergo intellectuales virtutes sunt morales.  
 
@@ -296,7 +298,7 @@ Praeterea, diversorum perfectibilium diversae sunt perfectiones. Sed virtutes in
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod virtutes theologicae non debeant distingui ab utrisque. Ad ea enim ad quae potentia est naturaliter determinata, non indiget aliquo habitu superinducto. Sed cognitio Dei omnibus naturaliter est inserta, ut dicit Damascenus; et similiter desiderium summi boni, ut dicit Boetius 4 *De consolat.* Ergo non indigemus aliquibus virtutibus quae Deum habeant pro objecto, quod dicitur ad virtutes theologicas pertinere.***
+Ulterius. Videtur quod virtutes theologicae non debeant distingui ab utrisque. Ad ea enim ad quae potentia est naturaliter determinata, non indiget aliquo habitu superinducto. Sed cognitio Dei omnibus naturaliter est inserta, ut dicit Damascenus; et similiter desiderium summi boni, ut dicit Boetius 4 *De consolat.* Ergo non indigemus aliquibus virtutibus quae Deum habeant pro objecto, quod dicitur ad virtutes theologicas pertinere.  
 
 Praeterea, sicut nos ponimus fruitionem divinam finem omnium actuum humanorum, ita philosophi posuerunt felicitatem. Sed ipsi non posuerunt aliquas virtutes quae haberent felicitatem pro objecto. Ergo nec nos indigemus aliquibus virtutibus quae Deum habeant pro objecto.  
 
@@ -310,7 +312,7 @@ Praeterea, magis distat Deus a creaturis quam quaevis creaturae ab invicem. Sed 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut ex praedictis patet, virtus est habitus perficiens potentiam humanam ad bonum actum. Contingit autem aliquem actumThe Vivès edition omits *aliquem actum*. dici bonum dupliciter: uno modo formaliter et per se; alio modo materialiter et per accidens. Quia enim actus a proprio objecto formam recipit,The Bruges manuscript reads *accipit*. ille actus formaliter dicitur bonus cujus objectum est bonum secundum rationem boni: et quia bonum est objectum voluntatis, ideo per modum istum actus bonus dici non potest nisi actus voluntatis, aut appetitivae partis. Materialiter autem actus dicitur bonus qui congruit potentiae operanti, quamvis ejus objectum non sit bonum sub ratione boni, sicut cum quis recte intelligit, et oculus clare videt. Et inde est quod voluntas imperat actusThe Bruges manuscript reads *aliis actibus*; Piana and Antwerp editions read *importat*. aliarum potentiarum, inquantum actus earum materialiter se habent ad rationem boni, quod est voluntatis objectum: et secundum hoc aliquid de formali bonitate voluntatis pervenit ad alios actus qui a voluntate imperantur, secundum quam laudabiles et meritorii sunt; ut cum quis ex recta intentione considerat vel ambulat. Tamen ista bonitas est praeter propriam rationem actus secundum suam speciem. Contingit enim actum alicujus potentiae non appetitivae esse bonum bonitate voluntatis, non autem bonitate sui generis: sicut cum quis propter Deum ambulat claudicando, vel ex bona intentione considerat ea in quibus hebes est.***
+Respondeo dicendum ad primam quaestionem, quod, sicut ex praedictis patet, virtus est habitus perficiens potentiam humanam ad bonum actum. Contingit autem aliquem actumThe Vivès edition omits *aliquem actum*. dici bonum dupliciter: uno modo formaliter et per se; alio modo materialiter et per accidens. Quia enim actus a proprio objecto formam recipit,The Bruges manuscript reads *accipit*. ille actus formaliter dicitur bonus cujus objectum est bonum secundum rationem boni: et quia bonum est objectum voluntatis, ideo per modum istum actus bonus dici non potest nisi actus voluntatis, aut appetitivae partis. Materialiter autem actus dicitur bonus qui congruit potentiae operanti, quamvis ejus objectum non sit bonum sub ratione boni, sicut cum quis recte intelligit, et oculus clare videt. Et inde est quod voluntas imperat actusThe Bruges manuscript reads *aliis actibus*; Piana and Antwerp editions read *importat*. aliarum potentiarum, inquantum actus earum materialiter se habent ad rationem boni, quod est voluntatis objectum: et secundum hoc aliquid de formali bonitate voluntatis pervenit ad alios actus qui a voluntate imperantur, secundum quam laudabiles et meritorii sunt; ut cum quis ex recta intentione considerat vel ambulat. Tamen ista bonitas est praeter propriam rationem actus secundum suam speciem. Contingit enim actum alicujus potentiae non appetitivae esse bonum bonitate voluntatis, non autem bonitate sui generis: sicut cum quis propter Deum ambulat claudicando, vel ex bona intentione considerat ea in quibus hebes est.  
 
 Sic ergo virtus potest dici dupliciter. Uno modo habitus perficiens ad actum bonum potentiae humanae, sive sit bonus materialiter, sive formaliter; et sic habitus intellectuales et speculativi virtutes dici possunt, quibus intellectus et ratio ad verum determinantur, cujus consideratio bonus actus ipsorum est; et sic loquitur Philosophus in *Ethic*. de virtute. Alio modo potest dici virtus magis stricte, et secundum quod est in usu loquendi, habitus perficiens ad actum qui est bonus non solum materialiter, sedThe edited versions add *etiam*. formaliter: et sic solum habitus respicientes appetitivam partem virtutes dici possunt, non autem intellectuales, et specialiter speculativi.  
 
@@ -324,7 +326,7 @@ Ad quartum dicendum, quod ipsaThe edited versions omit *ipsa*. consideratio veri
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod mos dicitur dupliciter. Uno modo idem est quod consuetudo. Consuetudo autem importat quamdam frequentiam circa ea quae facere vel non facere in nobis est. Naturalia enim, et quae semel fiunt,The edited versions read *vel quae semper fiunt*. consueta non dicuntur: sed quiaThe edited versions omit *quia*. per voluntatem contingit aliquid esseThe edited versions omit *esse*. in nobis facere vel non facere. Inde tractum est nomen moris ad significandum actus voluntarios, vel appetitivae partis, secundum inclinationem appetitus ad hujusmodi actus: quae quidem inclinatio quandoque est ex natura, quandoque ex consuetudine, quandoque ex infusione. Unde et dicuntur mores animalium ea quae proveniunt in ipsis ex passionibus appetitivae partis, sicut quod solicitantur circa filios, et quod repugnant, et hujusmodi: sicut patet in 9 *De animalibus* quamvis in eis dicantur mores magis secundum similitudinem quam secundum proprietatem: quia non agunt quasi dominium suorum actuum habentia, sed magis a natura aguntur, ut dicit Damascenus. Et sic etiam apud Graecos hoc nomen ethos dupliciter sumitur:The Bruges manuscript adds *vel dicitur*; the Paris (842) manuscript reads *dicitur*. et secundum quod importat diuturnitatem quamdam, dicitur febris Ethica: secundum autem quod importat morem secundo modo acceptum, diciturThe Bruges and Paris (841, 842) manuscripts add *inde*. scientia Ethica, quam nos moralem dicimus.***
+Ad secundam quaestionem dicendum, quod mos dicitur dupliciter. Uno modo idem est quod consuetudo. Consuetudo autem importat quamdam frequentiam circa ea quae facere vel non facere in nobis est. Naturalia enim, et quae semel fiunt,The edited versions read *vel quae semper fiunt*. consueta non dicuntur: sed quiaThe edited versions omit *quia*. per voluntatem contingit aliquid esseThe edited versions omit *esse*. in nobis facere vel non facere. Inde tractum est nomen moris ad significandum actus voluntarios, vel appetitivae partis, secundum inclinationem appetitus ad hujusmodi actus: quae quidem inclinatio quandoque est ex natura, quandoque ex consuetudine, quandoque ex infusione. Unde et dicuntur mores animalium ea quae proveniunt in ipsis ex passionibus appetitivae partis, sicut quod solicitantur circa filios, et quod repugnant, et hujusmodi: sicut patet in 9 *De animalibus* quamvis in eis dicantur mores magis secundum similitudinem quam secundum proprietatem: quia non agunt quasi dominium suorum actuum habentia, sed magis a natura aguntur, ut dicit Damascenus. Et sic etiam apud Graecos hoc nomen ethos dupliciter sumitur:The Bruges manuscript adds *vel dicitur*; the Paris (842) manuscript reads *dicitur*. et secundum quod importat diuturnitatem quamdam, dicitur febris Ethica: secundum autem quod importat morem secundo modo acceptum, diciturThe Bruges and Paris (841, 842) manuscripts add *inde*. scientia Ethica, quam nos moralem dicimus.  
 
 Sic ergo loquendo de more actus nosterThe edited versions omit *noster*. ita se habet ad hoc quod sit moralis, sicut se habet ad voluntatem et appetitum. Sunt enim aliqui actus a parte appetitiva eliciti, sicut velle, eligere, concupiscere, et hujusmodi; et tales actus essentialiter morales sunt. Alii vero sunt actus a parte appetitiva non eliciti, sed imperati, sicut ambulare, considerare et hujusmodi; et isti non sunt morales quantum ad speciem suam, sed solum quantum ad usum eorum, prout imperantur a voluntate; et ita virtutes, quae perficiunt appetitivam partem, proprie dicuntur morales. Virtutes autem perficientes intellectivam, perficiunt eam ad actus perfectos in genere cognitionis, non autem secundum ordinem ad imperium voluntatis. Per scientiam enim non fit ut aliquis recta intentione consideret sed ut verum in singulis videatur ei: et ideo virtutes morales ab intellectualibus distinguuntur.  
 
@@ -338,7 +340,7 @@ Ad quartum dicendum, quod medium determinatur per virtutem intellectualem et mor
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod in omnibus quae agunt propter finem oportet esse inclinationem ad finem, et quasiThe edited versions omit *quasi*. quamdam inchoationem finis:The Bruges manuscript reads *ad finem*. alias nunquam operarentur propter finem. Finis autem ad quem divina largitas hominem ordinavit vel praedestinavit, scilicet fruitio sui ipsius, est omnino supra facultatem naturae creatae elevatus: quia *nec oculus vidit, nec auris audivit, nec in cor hominis ascendit, quae praeparavit Deus diligentibus se*, ut dicitur 1 Corinth. 2:9. Unde per naturalia tantum homo non habet sufficienter inclinationem inThe edited versions read *ad*. illum finem; et ideo oportet quod superaddatur homini aliquid per quod habeat inclinationem in finem illum, sicut per naturalia habet inclinationem adThe edited versions read *in*. finem sibi connaturalem: et ista superaddita dicuntur virtutes theologicae ex tribus. Primo quantum ad objectum: quiaThe Bruges manuscript omits *quia*. cum finis ad quem ordinati sumus, sit ipse Deus, inclinatio quae praeexigitur, consistit in operatione quae est circa ipsum Deum. Secundo quantum ad causam: quia sicut ille finis est a Deo nobis ordinatus non per naturam nostram, ita inclinationem in finem operatur in nobis solus Deus: et sic dicuntur virtutes theologicae, quasi a solo Deo in nobis creatae. Tertio quantum ad cognitionem, quia cum finis sit supra cognitionem naturae,The Vivès edition through homoteleuton omits *quia cum finis sit supra cognitionem naturae*. inclinatio in finem non potest per naturalem rationem cognosci, sed per revelationem divinam: et ideo dicuntur theologicae, quia divino sermone sunt nobis manifestatae: unde philosophi nihil de eis cognoverunt.***
+Ad tertiam quaestionem dicendum, quod in omnibus quae agunt propter finem oportet esse inclinationem ad finem, et quasiThe edited versions omit *quasi*. quamdam inchoationem finis:The Bruges manuscript reads *ad finem*. alias nunquam operarentur propter finem. Finis autem ad quem divina largitas hominem ordinavit vel praedestinavit, scilicet fruitio sui ipsius, est omnino supra facultatem naturae creatae elevatus: quia *nec oculus vidit, nec auris audivit, nec in cor hominis ascendit, quae praeparavit Deus diligentibus se*, ut dicitur 1 Corinth. 2:9. Unde per naturalia tantum homo non habet sufficienter inclinationem inThe edited versions read *ad*. illum finem; et ideo oportet quod superaddatur homini aliquid per quod habeat inclinationem in finem illum, sicut per naturalia habet inclinationem adThe edited versions read *in*. finem sibi connaturalem: et ista superaddita dicuntur virtutes theologicae ex tribus. Primo quantum ad objectum: quiaThe Bruges manuscript omits *quia*. cum finis ad quem ordinati sumus, sit ipse Deus, inclinatio quae praeexigitur, consistit in operatione quae est circa ipsum Deum. Secundo quantum ad causam: quia sicut ille finis est a Deo nobis ordinatus non per naturam nostram, ita inclinationem in finem operatur in nobis solus Deus: et sic dicuntur virtutes theologicae, quasi a solo Deo in nobis creatae. Tertio quantum ad cognitionem, quia cum finis sit supra cognitionem naturae,The Vivès edition through homoteleuton omits *quia cum finis sit supra cognitionem naturae*. inclinatio in finem non potest per naturalem rationem cognosci, sed per revelationem divinam: et ideo dicuntur theologicae, quia divino sermone sunt nobis manifestatae: unde philosophi nihil de eis cognoverunt.  
 
 Ad primum ergoThe Bruges manuscript omits *ergo*; the Paris (841) manuscript reads *igitur*. dicendum, quod quamvis homo naturaliter ordinetur ad Deum et per cognitionem et per affectionem, inquantum est naturaliter ejus particeps, tamen quia est quaedam ejus participatio supra naturam, ideo requiriturThe edited versions read *quaeritur*. quaedam cognitio et affectio supra naturam: et ad hanc exiguntur virtutes theologicae.  
 
@@ -352,7 +354,7 @@ Articulus 5
 
 ***Utrum virtutes theologicae sint tantum tres***
 
-***Ad quintum sic proceditur. Videtur quod sint plures virtutes theologicae quam tres.***
+Ad quintum sic proceditur. Videtur quod sint plures virtutes theologicae quam tres.  
 
 Quia virtus theologica, ut dictum est, habet Deum pro objecto. Sed timor Dei habet Deum pro objecto. Ergo est virtus theologica.  
 
@@ -400,9 +402,9 @@ quinto de ordine ejus ad alias virtutes.
 
 Articulus 1  
 
-***Utrum definitio Apostoli quam ponit de fide, sit conveniens secundum omnem partem***
+Utrum definitio Apostoli quam ponit de fide, sit conveniens secundum omnem partem  
 
-***Ad primum sic proceditur. Apostolus Hebr. 11:1, dicit, quod *fides est substantia sperandarum rerum, argumentum non apparentium*; et videtur quod inconvenienter definiat fidem.***
+Ad primum sic proceditur. Apostolus Hebr. 11:1, dicit, quod *fides est substantia sperandarum rerum, argumentum non apparentium*; et videtur quod inconvenienter definiat fidem.  
 
 NullusThe edited versions add *enim*. habitus est substantia. Fides est habitus. Ergo non est substantia.  
 
@@ -444,7 +446,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod credere non sit cum assensione cogitare, ut dicit Augustinus.***
+Ad secundum sic proceditur. Videtur quod credere non sit cum assensione cogitare, ut dicit Augustinus.  
 
 Assentire enim voluntatis esse videtur, sicut consentire. Sed credere ad cognitionem pertinet. Ergo credere non est assentire.  
 
@@ -456,7 +458,7 @@ Praeterea, si credere est cum assensione cogitare, et scire, etiam est hujusmodi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod inconvenienter multiplicetur credere, secundum quod est actus fidei. Unius enim habitus unus est actus, ex quo habitus per actus discernuntur. Sed fides est unus habitus. Ergo tantum unus actus debet assignari.***
+Ulterius. Videtur quod inconvenienter multiplicetur credere, secundum quod est actus fidei. Unius enim habitus unus est actus, ex quo habitus per actus discernuntur. Sed fides est unus habitus. Ergo tantum unus actus debet assignari.  
 
 Praeterea, de eo quod demonstratur, non est fides, sed scientia: quia quod demonstratur, non est non apparens. Sed Deum esse, demonstrative probatur etiam a philosophis. Ergo actus fidei non est credere Deum esse.  
 
@@ -468,7 +470,7 @@ Praeterea, per hoc quod homo Deum amat, in eum tendit et adhaeret ei, et membris
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod actus fidei habeat minorem certitudinem quam actus scientiae. Quia, ut dicit Hugo de sancto Victore, fides est certitudo de absentibus, infra scientiam, et supra opinionem. Ergo sicut fides est certior quam opinio, ita est minus certa quam scientia.***
+Ulterius. Videtur quod actus fidei habeat minorem certitudinem quam actus scientiae. Quia, ut dicit Hugo de sancto Victore, fides est certitudo de absentibus, infra scientiam, et supra opinionem. Ergo sicut fides est certior quam opinio, ita est minus certa quam scientia.  
 
 Praeterea, certius est quod estThe Bruges, Paris (841, 842), Paris 15539, and Vatican (111) manuscripts omit *quod est*; the Vatican (755) manuscript omits *est*. dubitationi impermixtius, sicut albius est quod est nigro impermixtius. Sed ea quae sunt scita, nullo modo possunt habere dubitationem; ea autem quae sunt credita, possunt habere aliquem motum dubitationis salva fide. Ergo fides non habet tantam certitudinem sicut scientia.  
 
@@ -480,7 +482,7 @@ Praeterea, quanto ratio quae facit fidem, firmior est, tanto fides fitThe edited
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut dicit Philosophus in 3 *De anima*, duplex est operatio intellectus. Una quae comprehendit quidditates simplices rerum; et haec operatio vocatur a philosophis formatio vel simplex intelligentia; et huic intellectoThe edited versions read *intellectui.* respondet vox incomplexa significans hunc intellectum: unde sicut in voce incomplexa non invenitur veritas et falsitas, ita nec in hac operatione intellectus: et ideo sicut vox incomplexa propter hoc quod non est in ea veritas et falsitas, non conceditur nec negatur; ita secundum hanc operationem intellectus non assentit necThe edited versions read *vel*. dissentit: et propter hoc in hac operatione non potest inveniri fides, cujus est assentire; sed in alia operatione, qua intellectus componit et dividit, in qua jam invenitur verum et falsum, sicut in enuntiatione: et propter hoc intellectus in hac sua operatione assentit vel dissentit, sicut et enuntiatio conceditur aut negatur: et ideo in hac operatione invenitur fides, quae habet assensum.***
+Respondeo dicendum ad primam quaestionem, quod, sicut dicit Philosophus in 3 *De anima*, duplex est operatio intellectus. Una quae comprehendit quidditates simplices rerum; et haec operatio vocatur a philosophis formatio vel simplex intelligentia; et huic intellectoThe edited versions read *intellectui.* respondet vox incomplexa significans hunc intellectum: unde sicut in voce incomplexa non invenitur veritas et falsitas, ita nec in hac operatione intellectus: et ideo sicut vox incomplexa propter hoc quod non est in ea veritas et falsitas, non conceditur nec negatur; ita secundum hanc operationem intellectus non assentit necThe edited versions read *vel*. dissentit: et propter hoc in hac operatione non potest inveniri fides, cujus est assentire; sed in alia operatione, qua intellectus componit et dividit, in qua jam invenitur verum et falsum, sicut in enuntiatione: et propter hoc intellectus in hac sua operatione assentit vel dissentit, sicut et enuntiatio conceditur aut negatur: et ideo in hac operatione invenitur fides, quae habet assensum.  
 
 Cum autem ab assentiendo sententia dicatur, quae, ut dicit Isaac, est determinata acceptio alterius partis contradictionis; oportet quod qui assentit, intellectum ad alteram partem contradictionis determinet. Quod quidem contingit tripliciter, secundum triplicem nostri intellectus considerationem. Potest enim uno modoThe edited versions read *Potest enim intellectus noster considerari uno modo*. intellectus noster considerari secundum se; et sic determinatur ex praesentia intelligibilis, sicut materia determinatur ex praesentia formae: et hoc quidem contingit in his quae statim lumine intellectus agentis intelligibilia fiunt, sicut sunt prima principia, quorum est intellectus: et similiter determinatur judicium sensitivae partis ex hoc quod sensibile subjacet sensuiThe edited versions read *sensibus*. quorum principalior et certior est visus; et ideo praedicta cognitio intellectus vocatur visio.  
 
@@ -504,7 +506,7 @@ Ad quartum dicendum, quod jam patet ex dictis quod illa assignatio soli credenti
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod sicut ex praedictis patet, actus credentis ex tribus dependet, scilicet ex intellectu, qui terminaturThe Bruges manuscript reads *determinatur*. ad unum; ex voluntate, quae determinat intellectum per suum imperium;The edited versions add *et*. ex ratione, quae inclinat voluntatem: et secundum hoc tres actus assignantur fidei. Ex hoc enim quod intellectus terminatur ad unum, actus fidei est credere Deum, quia objectum fidei est Deus secundum quod in se consideratur, vel aliquid circa ipsum, vel ab ipso. Ex hoc veroPelster reads *enim*. quod intellectus determinatur a voluntate, secundum hoc actus fidei est credere in Deum,The Bruges manuscript reads *Deo*. idest amando in eum tendere: est enim voluntatis amare. Secundum autem quod ratio voluntatem inclinatThe edited versions add *ad*. actus fidei, est credere Deo: ratio enim quareThe edited versions read *qua*. voluntas inclinatur ad assentiendum his quae non videt, est quiaThe Vatican (190) manuscript reads *quod*. Deus ea dicit: sicut homo in his quae non videt, credit testimonio alicujus boni viri qui videtThe edited versions add *ea;* Pelster adds *quod*. quae ipse non videt.***
+Ad secundam quaestionem dicendum, quod sicut ex praedictis patet, actus credentis ex tribus dependet, scilicet ex intellectu, qui terminaturThe Bruges manuscript reads *determinatur*. ad unum; ex voluntate, quae determinat intellectum per suum imperium;The edited versions add *et*. ex ratione, quae inclinat voluntatem: et secundum hoc tres actus assignantur fidei. Ex hoc enim quod intellectus terminatur ad unum, actus fidei est credere Deum, quia objectum fidei est Deus secundum quod in se consideratur, vel aliquid circa ipsum, vel ab ipso. Ex hoc veroPelster reads *enim*. quod intellectus determinatur a voluntate, secundum hoc actus fidei est credere in Deum,The Bruges manuscript reads *Deo*. idest amando in eum tendere: est enim voluntatis amare. Secundum autem quod ratio voluntatem inclinatThe edited versions add *ad*. actus fidei, est credere Deo: ratio enim quareThe edited versions read *qua*. voluntas inclinatur ad assentiendum his quae non videt, est quiaThe Vatican (190) manuscript reads *quod*. Deus ea dicit: sicut homo in his quae non videt, credit testimonio alicujus boni viri qui videtThe edited versions add *ea;* Pelster adds *quod*. quae ipse non videt.  
 
 Ad primum ergoPelster reads *igitur*. dicendum, quod per omnia praedicta non nominatur nisi unus completus actus fidei; sed ex diversis quae in fide inveniuntur diversimode nominatur: illo enim actu quo credit Deum, credit Deo et credit in Deum.The Vatican (190) manuscript and the edited versions read *illo enim actu quo credit in Deum, credit Deo et credit Deum*.  
 
@@ -518,7 +520,7 @@ Ad quintum dicendum, quod illa quatuor pertinent ad fidem secundum ordinem ad vo
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod certitudo nihil aliud est quam determinatio intellectus ad unum. Tanto autem major est certitudo, quanto est fortius quod determinationem causat. Determinatur autem intellectus ad unum tripliciter, ut dictum est. In intellectu enim principiorum causatur determinatio ex hoc quod aliquid per lumen intellectus sufficienter inspici per ipsum potest. In scientia vero conclusionum causatur determinatio ex hoc quod conclusio secundum actum rationis in principia per se visa resolvitur: in fide vero ex hoc quod voluntas intellectui imperat. Sed quia voluntas hoc modo non determinat intellectum ut faciat inspici quae creduntur, sicut inspiciuntur principia per se nota, vel quae in ipsa resolvuntur; sed hoc modo ut intellectus uniThe edited versions omit *uni*. firmiter adhaereat; ideo certitudo quae est in scientia et intellectu, est ex ipsa evidentia eorum quae certa esse dicuntur; certitudo autem fidei est ex firma adhaesione ad id quod creditur.***
+Ad tertiam quaestionem dicendum, quod certitudo nihil aliud est quam determinatio intellectus ad unum. Tanto autem major est certitudo, quanto est fortius quod determinationem causat. Determinatur autem intellectus ad unum tripliciter, ut dictum est. In intellectu enim principiorum causatur determinatio ex hoc quod aliquid per lumen intellectus sufficienter inspici per ipsum potest. In scientia vero conclusionum causatur determinatio ex hoc quod conclusio secundum actum rationis in principia per se visa resolvitur: in fide vero ex hoc quod voluntas intellectui imperat. Sed quia voluntas hoc modo non determinat intellectum ut faciat inspici quae creduntur, sicut inspiciuntur principia per se nota, vel quae in ipsa resolvuntur; sed hoc modo ut intellectus uniThe edited versions omit *uni*. firmiter adhaereat; ideo certitudo quae est in scientia et intellectu, est ex ipsa evidentia eorum quae certa esse dicuntur; certitudo autem fidei est ex firma adhaesione ad id quod creditur.  
 
 In his ergo quae per fidem credimus, ratio voluntatem inclinans, ut dictum est, est ipsa veritas prima, sive Deus, cui creditur, quae habet majorem firmitatem quam lumen intellectus humani, in quo conspiciuntur principia, vel ratio humana, secundum quam conclusiones in principia resolvuntur; et ideo fides habet majorem certitudinem quantum ad firmitatem adhaesionis, quam sit certitudo scientiae vel intellectus: quamvis in scientia et intellectu sit major evidentia eorum quibus assentitur.  
 
@@ -534,7 +536,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod fides sit in voluntate sicut in subjecto.***
+Ad tertium sic proceditur. Videtur quod fides sit in voluntate sicut in subjecto.  
 
 Quia, secundum Hugonem de Sanct. Vict., fides habet in cognitioneThe edited versions read *cogitatione*. materiam, sed in affectu substantiam. Sed illud est subjectum accidentis ubi est sua essentia quae substantia dicitur. Ergo fides est in affectu sicut in subjecto.  
 
@@ -550,7 +552,7 @@ Praeterea, ad eamdem vim pertinet fides et id quod fidei succedit in gloria. Sed
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod pertineat ad intellectum practicum. Sicut enim dicit Philosophus in 3 *De anima*, intellectus speculativus nihil dicit deThe Bruges, Paris (841, 842), Angers, Vatican (190, 755, 111), and Paris 15770 manuscripts read *nisi*. fugiendo vel imitabili.The Brussels manuscript and Nicolaï edition read *immutabili;* Vivès edition reads *amabili*. Sed per fidem instruimur quid vitare debeamus. Ergo fides est in intellectu practico.***
+Ulterius. Videtur quod pertineat ad intellectum practicum. Sicut enim dicit Philosophus in 3 *De anima*, intellectus speculativus nihil dicit deThe Bruges, Paris (841, 842), Angers, Vatican (190, 755, 111), and Paris 15770 manuscripts read *nisi*. fugiendo vel imitabili.The Brussels manuscript and Nicolaï edition read *immutabili;* Vivès edition reads *amabili*. Sed per fidem instruimur quid vitare debeamus. Ergo fides est in intellectu practico.  
 
 Praeterea, intellectus speculativus proportionaliter respondet imaginationi, sicut intellectus practicus aestimationi, quae est in parte sensitiva. Sed imaginatio non facit confidentiam et terrorem, ut dicitur in 2 *De anima*, immo per eam nos habemus ad terribilia ac si essemus in pictura considerantes. Ergo nec intellectus speculativus. Sed fides est principium spei et facit tremorem: quia daemones credunt et contremiscunt, ut dicitur Jacob. 2,The Bruges, Brussels, Paris (841, 842), Vatican (190, 755, 111) manuscripts read *1*.19. Ergo fides non est in intellectu speculativo.  
 
@@ -562,7 +564,7 @@ Praeterea, cognitio practica est causa cognitorum. Sed fides non est causa rerum
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sit virtus intellectualis. Virtus enim intellectualis est quae habet pro subjectoThe Bruges, Paris (841), Vatican (755, 111), and Paris 15770 manuscripts read *objecto*. intellectum. Sed fidei subjectum est intellectus. Ergo est virtus intellectualis.***
+Ulterius. Videtur quod sit virtus intellectualis. Virtus enim intellectualis est quae habet pro subjectoThe Bruges, Paris (841), Vatican (755, 111), and Paris 15770 manuscripts read *objecto*. intellectum. Sed fidei subjectum est intellectus. Ergo est virtus intellectualis.  
 
 Praeterea, articuli fidei, quorum est fides, sunt sicut principia in aliis scientiis, ex quibus procedit theologia. Sed intellectus principiorum est virtus intellectualis, ut patet per Philosophum in 6 *Ethic.* Ergo et fides articulorum est virtus intellectualis.  
 
@@ -574,7 +576,7 @@ Praeterea, virtus est ultimum in re de potentia, ut dicitur in 1 *Caeli et mundi
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod voluntas importat actum intellectus sicut etiamThe edited versions read *et*. actum irascibilis et concupiscibilis. Ad hoc autem quod actus irascibilis et concupiscibilis sit perfectus, oportet quod non solum sit aliquis habitus in voluntate vel ratione imperante,The Bruges, Brussels, Paris (841, 842), Vatican (111), and Paris 15770 manuscripts read *operante*. sed etiam quod sit aliquis habitus in irascibili velThe edited versions read *et;* the Brussels manuscript adds *in*. concupiscibili exequente, ut faciliter actum exequatur; unde et oportet aliquem habitum esse in intellectu ad hoc quod voluntati faciliter obediat in his quae sunt supra rationem; et hicThe edited versions and Pelster read *hoc*. est habitus fidei; et ideo subjectum fidei est intellectus.***
+Respondeo dicendum ad primam quaestionem, quod voluntas importat actum intellectus sicut etiamThe edited versions read *et*. actum irascibilis et concupiscibilis. Ad hoc autem quod actus irascibilis et concupiscibilis sit perfectus, oportet quod non solum sit aliquis habitus in voluntate vel ratione imperante,The Bruges, Brussels, Paris (841, 842), Vatican (111), and Paris 15770 manuscripts read *operante*. sed etiam quod sit aliquis habitus in irascibili velThe edited versions read *et;* the Brussels manuscript adds *in*. concupiscibili exequente, ut faciliter actum exequatur; unde et oportet aliquem habitum esse in intellectu ad hoc quod voluntati faciliter obediat in his quae sunt supra rationem; et hicThe edited versions and Pelster read *hoc*. est habitus fidei; et ideo subjectum fidei est intellectus.  
 
 Ad primum ergo dicendum, quod substantia non sumitur ibi pro essentia, sed pro forma. Fidei autem forma quodammodo est caritas, ut infra patebit, quae in voluntate est.  
 
@@ -586,7 +588,7 @@ Ad quartum dicendum, quod infidelitas est etiam in intellectu sicut in subjecto;
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod intellectus speculativus et practicus in hoc differunt quod intellectus speculativus consideratThe Vivès edition through homoteleuton omits *verum absolute, practicus autem considerat*. verum absolute, practicus autem considerat verum in ordine ad opus. Contingit autem quandoque quod verum ipsum quod in se considerabatur, non potest considerari ut regula operis, sicut accidit in mathematicis, et in his quae a motu separata sunt; unde hujusmodi veri consideratio est tantum in intellectu speculativo. Quandoque autem verum quod in seVivès edition reads *re*. consideratur, potest ut regula operis considerari: et tunc intellectus speculativus fit practicus per extensionem ad opus.***
+Ad secundam quaestionem dicendum, quod intellectus speculativus et practicus in hoc differunt quod intellectus speculativus consideratThe Vivès edition through homoteleuton omits *verum absolute, practicus autem considerat*. verum absolute, practicus autem considerat verum in ordine ad opus. Contingit autem quandoque quod verum ipsum quod in se considerabatur, non potest considerari ut regula operis, sicut accidit in mathematicis, et in his quae a motu separata sunt; unde hujusmodi veri consideratio est tantum in intellectu speculativo. Quandoque autem verum quod in seVivès edition reads *re*. consideratur, potest ut regula operis considerari: et tunc intellectus speculativus fit practicus per extensionem ad opus.  
 
 Hoc autem contingit dupliciter. QuiaThe Bruges manuscript adds *etiam*. aliquando illud verum quod utroque modo potest considerari, non habet magnam utilitatem, nisi inquantum ordinatur ad opus: quia cum sit contingens, non habet fixam veritatem: sicut est consideratio de operibus virtutum; et tunc talis consideratio, quamvis possit esse et speculativi et practici intellectus, tamen principaliter est practici intellectus. Aliquando autemThe edited versions read *vero*. illius veri consideratio habet in se dignitatem quamdam, etiam si nunquam ad opus ordinetur, sicut accidit in consideratione divinorum, quorum cognitio dirigit in opere; et tamen visio Dei est ultimus finis operis; et tunc illa consideratio principaliter est in intellectu speculativo, et secundario in practico.  
 
@@ -600,7 +602,7 @@ Ad tertium dicendum, quod conjunctio intellectus ad voluntatem non facit intelle
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod cum virtus ponat potentiam in ultimo quantum ad actum, non sufficit ad rationem virtutis quod potentia per actum ponatur in ultimo quantum ad objectum, sed oportet quod ponatur in ultimo quantum ad modum agendi, ut scilicet actusThe Vivès edition reads *actu*. sit bonus non solum ex eo quod bonum est quod fit, sed eo quod bene fit, sicut patet in virtutibus moralibus. Bonum autem intellectus est verum, quod est finis et perfectio ejus. Unde non sufficit ad rationem virtutis intellectualis quod per eam cognoscatur verum; sed oportet quod actus quo verum consideratur, sit perfectus etiam ex modo, ut bene quis intelligat. Bene autem operari intellectumThe Bruges manuscript reads *intellectui*. non contingit ex hoc quod ex bona voluntate ejus operatio procedit,The Bruges manuscript reads *procedat*. ut dictum est; sed exThe Vatican (190) manuscript and the edited versions omit *ex*. efficacia intellectus ad objectum proprium conspiciendum vel inThe Vatican (190) manuscript reads *per*. se vel per resolutionem ad id quod in se conspicitur. Fides autem per actum suum ponit intellectum in ultimo quantum ad objectum, inquantum facit assentire primae veritati; non autem quantum ad modum proprium ipsius intellectus: quia intellectus noster non est per fidem tantae efficaciae, ut id quod credit, inspicere per se possit, vel ad ea quae inspicit reducere; et ideo fides non est virtus intellectualis.***
+Ad tertiam quaestionem dicendum, quod cum virtus ponat potentiam in ultimo quantum ad actum, non sufficit ad rationem virtutis quod potentia per actum ponatur in ultimo quantum ad objectum, sed oportet quod ponatur in ultimo quantum ad modum agendi, ut scilicet actusThe Vivès edition reads *actu*. sit bonus non solum ex eo quod bonum est quod fit, sed eo quod bene fit, sicut patet in virtutibus moralibus. Bonum autem intellectus est verum, quod est finis et perfectio ejus. Unde non sufficit ad rationem virtutis intellectualis quod per eam cognoscatur verum; sed oportet quod actus quo verum consideratur, sit perfectus etiam ex modo, ut bene quis intelligat. Bene autem operari intellectumThe Bruges manuscript reads *intellectui*. non contingit ex hoc quod ex bona voluntate ejus operatio procedit,The Bruges manuscript reads *procedat*. ut dictum est; sed exThe Vatican (190) manuscript and the edited versions omit *ex*. efficacia intellectus ad objectum proprium conspiciendum vel inThe Vatican (190) manuscript reads *per*. se vel per resolutionem ad id quod in se conspicitur. Fides autem per actum suum ponit intellectum in ultimo quantum ad objectum, inquantum facit assentire primae veritati; non autem quantum ad modum proprium ipsius intellectus: quia intellectus noster non est per fidem tantae efficaciae, ut id quod credit, inspicere per se possit, vel ad ea quae inspicit reducere; et ideo fides non est virtus intellectualis.  
 
 Ad primum ergo dicendum, quod non omnis habitus qui habet pro subjecto intellectum potest dici virtus intellectualis, nisi perficiat intellectum et quantum ad objectum et quantum ad modum actus.  
 
@@ -634,7 +636,7 @@ Praeterea, per virtutemThe edited versions read *virtutes*. efficimur filii Dei.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod fides non sit una virtus. Quidam enim articuli fidei sunt de aeternis, ut qui pertinent ad Trinitatem personarum; quidam vero de temporalibus, sicut qui pertinent ad Incarnationem Christi. Sed scientia et sapientia sunt diversa dona per hoc quod sunt de temporalibus et aeternis. Ergo fides non est una virtus.***
+Ulterius. Videtur quod fides non sit una virtus. Quidam enim articuli fidei sunt de aeternis, ut qui pertinent ad Trinitatem personarum; quidam vero de temporalibus, sicut qui pertinent ad Incarnationem Christi. Sed scientia et sapientia sunt diversa dona per hoc quod sunt de temporalibus et aeternis. Ergo fides non est una virtus.  
 
 Praeterea, spes et timor differunt per hoc quod spes est de bonis futuris, timor vero de malis. Sed fides est de utrisque, quia est de suppliciis et praemiis. Ergo fides non est una virtus.  
 
@@ -646,7 +648,7 @@ Praeterea, sicut prudentia dirigit intentionem in politicis, ita fides in gratui
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut supra dictum est, cum virtutis sit reddere opus bonum, operatio potest dici bona vel formaliter, inquantum procedit ex potentia quae movetur in bonum secundum rationem boni, vel materialiter, secundum quod est congruaThe Bruges, Paris (841, 842), and Paris 15.770 manuscripts and Pelster read *congruus*. et connaturalis potentiae. Et utroque modo actus fidei est bonus; quia et congruit intellectui inquantum est verorum; et iterum procedit a voluntate imperante, quae movetur in bonum quasi in objectum. Ex parte autem intellectus, quamvis habeat bonitatem ratione objecti, non tamen habet perfectionem, quia deficit modus, ut dictum est, eo quod non habetThe edited versions read *habeat*. conspicuam veritatem, cui adhaeret. Sed ex parte voluntatis potest habere perfectionem; inquantum voluntas perfecta in appetitu boni firmitatem et certitudinem facit in fide: et ideo Bernardus dicit, quod fides est *voluntaria quaedam et certa praelibatio nondum propalatae veritatis*. Unde patet quod fides est virtus, non quidem intellectualis, sed eo modo quo communiter loquimur de virtute, quae producit actum bonum ex bonitate voluntatis procedentem. Nec tamen est virtus moralis: quia non est ordinativa appetitus sensibilis, ut consistat circa delectationes et tristitias et operationes, sicut circa materiam velThe edited versions read *et*. objectum: sed est virtus theologica; quod quidem genus philosophi non cognoverunt.***
+Respondeo dicendum ad primam quaestionem, quod, sicut supra dictum est, cum virtutis sit reddere opus bonum, operatio potest dici bona vel formaliter, inquantum procedit ex potentia quae movetur in bonum secundum rationem boni, vel materialiter, secundum quod est congruaThe Bruges, Paris (841, 842), and Paris 15.770 manuscripts and Pelster read *congruus*. et connaturalis potentiae. Et utroque modo actus fidei est bonus; quia et congruit intellectui inquantum est verorum; et iterum procedit a voluntate imperante, quae movetur in bonum quasi in objectum. Ex parte autem intellectus, quamvis habeat bonitatem ratione objecti, non tamen habet perfectionem, quia deficit modus, ut dictum est, eo quod non habetThe edited versions read *habeat*. conspicuam veritatem, cui adhaeret. Sed ex parte voluntatis potest habere perfectionem; inquantum voluntas perfecta in appetitu boni firmitatem et certitudinem facit in fide: et ideo Bernardus dicit, quod fides est *voluntaria quaedam et certa praelibatio nondum propalatae veritatis*. Unde patet quod fides est virtus, non quidem intellectualis, sed eo modo quo communiter loquimur de virtute, quae producit actum bonum ex bonitate voluntatis procedentem. Nec tamen est virtus moralis: quia non est ordinativa appetitus sensibilis, ut consistat circa delectationes et tristitias et operationes, sicut circa materiam velThe edited versions read *et*. objectum: sed est virtus theologica; quod quidem genus philosophi non cognoverunt.  
 
 Ad primum ergo dicendum, quod prima propositio habet veritatem de virtutibus quas philosophi cognoverunt, qui praeter intellectuales, nullas virtutes nisi morales posuerunt.  
 
@@ -660,7 +662,7 @@ Ad quintum dicendum, quod fides habet exemplar in Deo quantum ad id quod perfect
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod habitus multitudinem et unitatem habet ex objecto. Objectum autem fidei est veritas prima, quae est simplex et invariabilis. Et ideo in fide invenitur duplex unitas: ex hoc enim quod unum et simplex est cui fides innititur, habitus fidei in habente non dividitur in plures habitus: ex hoc autem quod veritas est, habet potentiam uniendi diversos habentes fidem in similitudinem unius fidei, quae attenditur secundum idem creditum: quia, sicut dicit Dionysius, veritas habet vim colligendi et uniendi, e contrario error et ignorantia divisiva sunt.***
+Ad secundam quaestionem dicendum, quod habitus multitudinem et unitatem habet ex objecto. Objectum autem fidei est veritas prima, quae est simplex et invariabilis. Et ideo in fide invenitur duplex unitas: ex hoc enim quod unum et simplex est cui fides innititur, habitus fidei in habente non dividitur in plures habitus: ex hoc autem quod veritas est, habet potentiam uniendi diversos habentes fidem in similitudinem unius fidei, quae attenditur secundum idem creditum: quia, sicut dicit Dionysius, veritas habet vim colligendi et uniendi, e contrario error et ignorantia divisiva sunt.  
 
 Ad primum ergo dicendum, quod fides non est de aliquo temporali sicut de objecto; sed inquantum pertinet ad veritatem aeternam, quae est objectum fidei, sic cadit sub fide; sicut fides credit Passionem, inquantum Deus est passus.The Bruges manuscript omits *est*; the edited versions read *Deus passus est*.  
 
@@ -738,7 +740,7 @@ Praeterea, aThe edited versions omit *a*. forma rei est decor ejus. Sed fides fi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod fides informis sit virtus. Quia dicit Augustinus in lib. *De vera innocentia*, quod ceterae virtutes praeter caritatem possunt inesse bonis et malis. Ergo fides, secundum quod est virtus, potest esse in malis. Sed fides quae est in malis, est fidesThe edited versions omit *fides* against the Brussels and Paris (841, 842) manuscripts, the Bruges manuscript reads *potest esse fides informis*. informis. Ergo fides informis est virtus.***
+Ulterius. Videtur quod fides informis sit virtus. Quia dicit Augustinus in lib. *De vera innocentia*, quod ceterae virtutes praeter caritatem possunt inesse bonis et malis. Ergo fides, secundum quod est virtus, potest esse in malis. Sed fides quae est in malis, est fidesThe edited versions omit *fides* against the Brussels and Paris (841, 842) manuscripts, the Bruges manuscript reads *potest esse fides informis*. informis. Ergo fides informis est virtus.  
 
 Praeterea, virtus est circa difficilia, et ex hoc habet laudem, ut dicit Philosophus. Sed difficillimum est credere articulos fidei; unde Augustinus dicit et habetur in sequenti distinctione,The edited versions omit *et habetur in sequenti distinctione*. quod laus fidei est credere quodThe edited versions read *quae*. non videt. Ergo videtur quod fides informis, quae omnes articulos credit, sit virtus.  
 
@@ -750,7 +752,7 @@ Praeterea, virtute nullus male utitur, ut dicit Augustinus. Sed fide informi ali
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod fides formata et informis differant specie. Quia, ut dicit Philosophus inThe edited versions omit *in*. 5 *Metaph*., quaecumque differunt genere, differunt et specie. Sed fides formata et informis differunt genere: quia fides formata est virtus, non autem fides informis. Ergo fides formata et informis differunt specie.***
+Ulterius. Videtur quod fides formata et informis differant specie. Quia, ut dicit Philosophus inThe edited versions omit *in*. 5 *Metaph*., quaecumque differunt genere, differunt et specie. Sed fides formata et informis differunt genere: quia fides formata est virtus, non autem fides informis. Ergo fides formata et informis differunt specie.  
 
 Praeterea, species rei est de forma sua. Sed fidei forma est caritas. Ergo fides informis non est illius speciei cujus est fides formata.  
 
@@ -762,7 +764,7 @@ Praeterea, illud quod est extra essentiam rei, non variat speciem, sicut lumen a
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in agentibus ordinatis fines agentium secundorum ordinantur ad finem agentis primi sicut totum universum ordinatur ad primum bonum, quod est Deus, ut dicit Philosophus, quasiThe edited versions read *sicut*. exercitus ad bonum ducis; et ideo actio primi agentis est et prior et posterior. Prior in movendo,The Brussels manuscript reads *modificando*. quia actiones omnium secundorum agentium fundantur super actionem primi agentis, quae cum sit una, communiter omnes firmans, specificatur ejus effectus in hoc et in illo secundum exigentiam illius; sicut uno praecepto ducis praecipientis bellum unus accipit gladium, alius parat equum, et sic de aliis. Est autem posteriorThe edited versions add *in*. utendo aliorum actibus ad finem proprium; et sic omnes actiones aliorum agentium modificantur per actionem primi agentis.***
+Respondeo dicendum ad primam quaestionem, quod in agentibus ordinatis fines agentium secundorum ordinantur ad finem agentis primi sicut totum universum ordinatur ad primum bonum, quod est Deus, ut dicit Philosophus, quasiThe edited versions read *sicut*. exercitus ad bonum ducis; et ideo actio primi agentis est et prior et posterior. Prior in movendo,The Brussels manuscript reads *modificando*. quia actiones omnium secundorum agentium fundantur super actionem primi agentis, quae cum sit una, communiter omnes firmans, specificatur ejus effectus in hoc et in illo secundum exigentiam illius; sicut uno praecepto ducis praecipientis bellum unus accipit gladium, alius parat equum, et sic de aliis. Est autem posteriorThe edited versions add *in*. utendo aliorum actibus ad finem proprium; et sic omnes actiones aliorum agentium modificantur per actionem primi agentis.  
 
 Cum ergoThe Brussels manuscript reads *igitur*. in viribus animae voluntas habeat locum primi motoris, actus ejus est prior quodammodo actibus aliarum virium, inquantum imperat eos secundum intentionem finis ultimi, et utitur eis in consecutione ejusdem. Et ideo vires motae a voluntate, duo ab ea recipiunt. Primo formam aliquam ipsius secundum quod omne movens et agens imprimit suam similitudinem in motis et patientibus ab eo. Haec autem forma vel est secundum formam ipsius voluntatis, secundum quodThe Brussels manuscript reads *quam*. omnes vires motae a voluntate libertatemThe Brussels manuscript reads *libertates*. ab ea participant; vel est secundum habitum perficientem voluntatem, qui est caritas; et sic omnes habitus qui sunt in viribus motis a voluntate caritateThe edited versions omit *caritate*. perfecta, participant formam caritatis. Haec tamen forma quam a voluntate vires motae participant, est omnibus communis; unde praeter eam habitus, qui sunt perfectiones earum, habent specialesThe Piana and Antwerp editions read *spirituales*. formas, secundum quod congruit potentiae quam perficiunt, per comparationem ad actus et objecta.The Piana and Antwerp editions read *nec comparationem ad actus objecta*. Secundo recipiunt a voluntate consummationem in fine; et sic caritas dicitur finis aliarum virtutum, inquantum per eam fini ultimo conjunguntur.  
 
@@ -776,7 +778,7 @@ Ad tertium dicendum, quod fides formatur a gratia mediante caritate: quia inquan
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendumThe Brussels manuscript omits *dicendum*. quod virtutis est facere actum perfectum. Actus autem potentiae motae ab alia potentia non potest esse perfectus nisi et superior potentia sit perfecta per habitum, ut non deficiat in dirigendo vel movendo, et inferior, ut non deficiat in exequendo; sicut patet in actu concupiscibilis, qui ad hoc quod sit perfectus, requiritur quod concupiscibilis sit perfecta per habitum temperantiae et ratio per habitum prudentiae: quod si desit prudentia in ratione, quantumcumque sit dispositio in concupiscibili ad actum temperantiae, virtutis rationem non habebit, ut dicit Philosophus. Quia ergo credere est actus intellectus, secundum quod est motus a voluntate; ad hoc quod iste actus perfectus sit, oportet quod intellectus perfectus sit per lumen fidei, et voluntas sit perfecta per habitum caritatis; et ideo informis fides non habet actum perfectum, et ideo non potest esse virtus.***
+Ad secundam quaestionem dicendumThe Brussels manuscript omits *dicendum*. quod virtutis est facere actum perfectum. Actus autem potentiae motae ab alia potentia non potest esse perfectus nisi et superior potentia sit perfecta per habitum, ut non deficiat in dirigendo vel movendo, et inferior, ut non deficiat in exequendo; sicut patet in actu concupiscibilis, qui ad hoc quod sit perfectus, requiritur quod concupiscibilis sit perfecta per habitum temperantiae et ratio per habitum prudentiae: quod si desit prudentia in ratione, quantumcumque sit dispositio in concupiscibili ad actum temperantiae, virtutis rationem non habebit, ut dicit Philosophus. Quia ergo credere est actus intellectus, secundum quod est motus a voluntate; ad hoc quod iste actus perfectus sit, oportet quod intellectus perfectus sit per lumen fidei, et voluntas sit perfecta per habitum caritatis; et ideo informis fides non habet actum perfectum, et ideo non potest esse virtus.  
 
 Ad primum ergo dicendum, quod Augustinus large accipit nomen virtutis pro quacumque dispositione inclinante ad actum quo bonum agitur.  
 
@@ -786,7 +788,7 @@ Ad tertium dicendum, quod etiam dispositio ad virtutem opponitur vitio; unde non
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod differentia habituum pensanda est ex actibus. Contingit autem aliquos actus dupliciter considerari: vel secundum speciem naturae, vel secundum speciem moris: et quandoque conveniunt secundum speciem quantum ad unum dictorum, et differunt secundum aliud; sicut occidere nocentem et innocentem non differunt secundum speciem naturae, sed secundum speciem moris: quia unum est actus vitii, scilicet homicidii, alterum actus virtutis, sive justitiae: sed occidere latronem et liberare innocentem, sunt actus diversi secundum speciem naturae, et conveniunt secundum speciem moris, quia sunt actus justitiae. Si ergo actus fidei formatae et informis considerentur secundum speciem naturae, sic sunt idem specie, quia speciem naturalem habet actus ex objecto proprio. Si autem considerentur secundum esse moris, tunc differunt secundum completum et incompletum in eadem specie; sicut actus quo quisThe Vivès edition omits *quis*. facit justa non ut justus, et quiThe edited versions read *quo*. facit justa ut justus. Et similiter fides formata et informis in specie naturae sunt penitus idem; sed in specie moris differunt, non quasi in diversis speciebus existentes, sed sicut perfectum et imperfectum in eadem specie, sicut dispositio et habitus virtutis.***
+Ad tertiam quaestionem dicendum, quod differentia habituum pensanda est ex actibus. Contingit autem aliquos actus dupliciter considerari: vel secundum speciem naturae, vel secundum speciem moris: et quandoque conveniunt secundum speciem quantum ad unum dictorum, et differunt secundum aliud; sicut occidere nocentem et innocentem non differunt secundum speciem naturae, sed secundum speciem moris: quia unum est actus vitii, scilicet homicidii, alterum actus virtutis, sive justitiae: sed occidere latronem et liberare innocentem, sunt actus diversi secundum speciem naturae, et conveniunt secundum speciem moris, quia sunt actus justitiae. Si ergo actus fidei formatae et informis considerentur secundum speciem naturae, sic sunt idem specie, quia speciem naturalem habet actus ex objecto proprio. Si autem considerentur secundum esse moris, tunc differunt secundum completum et incompletum in eadem specie; sicut actus quo quisThe Vivès edition omits *quis*. facit justa non ut justus, et quiThe edited versions read *quo*. facit justa ut justus. Et similiter fides formata et informis in specie naturae sunt penitus idem; sed in specie moris differunt, non quasi in diversis speciebus existentes, sed sicut perfectum et imperfectum in eadem specie, sicut dispositio et habitus virtutis.  
 
 Ad primum ergo dicendum, quod virtus est genus fidei secundum esse moris; a quo tamen non penitus fides informis est aliena, sed est sicut imperfectum in illo genere.  
 
@@ -798,7 +800,7 @@ Articulus 2
 
 ***Utrum fides informis sit donum Dei, vel habitus acquisitus***
 
-***Ad secundum sic proceditur. Videtur quod fides informis non sit donum Dei, sed habitus acquisitus.***
+Ad secundum sic proceditur. Videtur quod fides informis non sit donum Dei, sed habitus acquisitus.  
 
 Augustinus enim dicit, quod per scientiam fides acquiritur, nutritur, et defenditur. Sed nullus habitus acquisitus per scientiam aliquam est donum Dei, quasi habitus infusus. Ergo fides informis non est habitus infusus.  
 
@@ -852,7 +854,7 @@ Praeterea, Rom. 1, super illud: *ex fide in fidem*, dicit Glossa: *fides informi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in haereticis maneat fides informis. Ipsi enim credunt Deum trinum et unum, et Deum factum hominem. Sed haec sunt supra naturam. Cum ergo ea quae sunt supra naturam, non possint credi sine habitu fidei infuso, videtur quod in eis maneat fides infusa.***
+Ulterius. Videtur quod in haereticis maneat fides informis. Ipsi enim credunt Deum trinum et unum, et Deum factum hominem. Sed haec sunt supra naturam. Cum ergo ea quae sunt supra naturam, non possint credi sine habitu fidei infuso, videtur quod in eis maneat fides infusa.  
 
 Praeterea, in scientiis ita est quod qui obliviscitur unum scibilium quae pertinent ad unam scientiam, adhuc manet habitus quantum ad alia scibilia. Sed fides est habitus articulorum. Ergo si aliquis haereticus discredit unum articulum, adhuc manet fides in eo quantum ad alium articulum.  
 
@@ -864,7 +866,7 @@ Praeterea, esset simul fidelis et infidelis quod est impossibile.
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod de ratione fidei est quod credens assentiat aliquibus quae non videt nec secundum se, nec resolvere ea potest ad ea quae videt, sed inclinatur ad credendum ex aliqua ratione quae sufficit ad determinandum assensum in illudThe edited versions read *id*. quod creditur, quamvis non sufficiat ad inducendumThe edited versions add *ad*. visionem ejus quod creditur. Ratio autem haec inducens ad credendum potest sumi vel ex aliquo creato, sicut quando per aliquod signum inducimur ad aliquod credendum vel de DeoThe Brussels manuscript reads *eo*. vel de aliis rebus; vel sumitur ab ipsa veritate increata, sicut credimus aliqua quae nobis divinitus dicta sunt per ministros. Et primo modo dicta fides cogit intellectum ad credendum per hoc quod non apparet aliquid contrarium; sed secundo modo intellectus non cogitur, sed ex voluntate inclinatur. Et primo modo est fides in daemonibus, inquantum ex ipsa naturali cognitione simul, et ex miraculis quae vident supra naturam esse multo subtilius quam nos, coguntur ad credendum ea quae naturalem ipsorum cognitionem excedunt, non autem secundo modo.***
+Respondeo dicendum ad primam quaestionem, quod de ratione fidei est quod credens assentiat aliquibus quae non videt nec secundum se, nec resolvere ea potest ad ea quae videt, sed inclinatur ad credendum ex aliqua ratione quae sufficit ad determinandum assensum in illudThe edited versions read *id*. quod creditur, quamvis non sufficiat ad inducendumThe edited versions add *ad*. visionem ejus quod creditur. Ratio autem haec inducens ad credendum potest sumi vel ex aliquo creato, sicut quando per aliquod signum inducimur ad aliquod credendum vel de DeoThe Brussels manuscript reads *eo*. vel de aliis rebus; vel sumitur ab ipsa veritate increata, sicut credimus aliqua quae nobis divinitus dicta sunt per ministros. Et primo modo dicta fides cogit intellectum ad credendum per hoc quod non apparet aliquid contrarium; sed secundo modo intellectus non cogitur, sed ex voluntate inclinatur. Et primo modo est fides in daemonibus, inquantum ex ipsa naturali cognitione simul, et ex miraculis quae vident supra naturam esse multo subtilius quam nos, coguntur ad credendum ea quae naturalem ipsorum cognitionem excedunt, non autem secundo modo.  
 
 Ad primum ergo dicendum, quod quamvis in intellectu daemonis non sit obscuritas quae est in nobis ex sensu, est tamen obscuritas alia per hoc quod non possunt per naturalemThe Piana and Antwerp editions read *quod possunt per cognitionem naturalem*; The Venice (2nd. ed.) and Parma editions read *quod possunt per cognitionem supernaturalem*. cognitionem ad visionem veritatis pertingere, quam credere per aliqua signa compelluntur.  
 
@@ -874,7 +876,7 @@ Ad tertium dicendum, quod in eis intellectus cogitur ad assentiendum; unde non o
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod sicut supra dictum est, fidei habitus infusus in duobus nos adjuvat, scilicet ut credamus quae credenda sunt, et ut eis quae non sunt credenda, nullo modo assentiamus. Primum autem homo potest ex ipsa aestimatione sine habitu infuso; sed secundum, scilicet ut discrete in haec et non in illa inclinetur, est ex habitu infuso tantum; quae quidem discretio est secundum quam non credimus omni spiritui: quae quia in haeretico non est, constat quod habitus fidei in ipso non manet. Et si aliqua credenda credat, hoc est ex ratione humana: si enim habitu fidei ad haec credenda inclinaretur, contraria fidei refutaret, sicut omnis habitus renititur eis quae contra illum habitum sunt.***
+Ad secundam quaestionem dicendum, quod sicut supra dictum est, fidei habitus infusus in duobus nos adjuvat, scilicet ut credamus quae credenda sunt, et ut eis quae non sunt credenda, nullo modo assentiamus. Primum autem homo potest ex ipsa aestimatione sine habitu infuso; sed secundum, scilicet ut discrete in haec et non in illa inclinetur, est ex habitu infuso tantum; quae quidem discretio est secundum quam non credimus omni spiritui: quae quia in haeretico non est, constat quod habitus fidei in ipso non manet. Et si aliqua credenda credat, hoc est ex ratione humana: si enim habitu fidei ad haec credenda inclinaretur, contraria fidei refutaret, sicut omnis habitus renititur eis quae contra illum habitum sunt.  
 
 Ad primum ergo dicendum, quod quamvis credant aliquid quod est supra naturam, non tamen credunt illud per habitum infusum quo dirigantur, sed per aestimationem humanam.  
 
@@ -888,7 +890,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod fides informis evacuetur caritate adveniente.***
+Ad quartum sic proceditur. Videtur quod fides informis evacuetur caritate adveniente.  
 
 1 Corinth. 13:10: *cum venerit quod perfectum est, evacuabitur quod ex parte est*, sicut veniente visione evacuabitur fides. Sed fides informis est imperfecta respectu fidei formatae. Ergo fides informis tollitur adveniente formata.  
 
@@ -902,7 +904,7 @@ Praeterea, nihil corrumpitur nisi a suo contrario. Sed fides informis non contra
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiamsi maneat quantum ad habitum, non manetThe edited versions read *maneat*, the Bruges, Paris (841, 15770) manuscripts read *quod non manet*. quantum ad actum. Per actum enim fidei informis etsi aliquid fiat quod est bonum, non tamen aliquid bene. Sed per actum fidei formatae aliquid bene fit. Ergo fides informis non manet quantum ad actum suum adveniente caritate.***
+Ulterius. Videtur quod etiamsi maneat quantum ad habitum, non manetThe edited versions read *maneat*, the Bruges, Paris (841, 15770) manuscripts read *quod non manet*. quantum ad actum. Per actum enim fidei informis etsi aliquid fiat quod est bonum, non tamen aliquid bene. Sed per actum fidei formatae aliquid bene fit. Ergo fides informis non manet quantum ad actum suum adveniente caritate.  
 
 Praeterea, lumen minus non illuminat praesente majore lumine. Sed fides informis est minus lumen quam caritas. Ergo praesente caritate actus fidei informis non manet.  
 
@@ -914,7 +916,7 @@ Praeterea, actus fidei informis est credere Deo vel Deum. Sed hocThe edited vers
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod fides informis non possit fieri fides formata. Fides enim informis mortua est, ut dicitur Jac. 2:26.The Bruges, Brussels, and Paris (ms. 841, 842) manuscripts refer instead to James 1. Sed opus mortuum non vivificatur. Ergo nec fides informis vivificaturThe Vivès edition, through homoteleuton, omits *ergo nec fides informis vivificatur*. per formam caritatis.***
+Ulterius. Videtur quod fides informis non possit fieri fides formata. Fides enim informis mortua est, ut dicitur Jac. 2:26.The Bruges, Brussels, and Paris (ms. 841, 842) manuscripts refer instead to James 1. Sed opus mortuum non vivificatur. Ergo nec fides informis vivificaturThe Vivès edition, through homoteleuton, omits *ergo nec fides informis vivificatur*. per formam caritatis.  
 
 Praeterea, fides est accidens. Sed accidentia, ut dicit Boetius, variari non possunt. Ergo videtur quod illa eadem fides quae fuit informis, non possit fieri formata.  
 
@@ -926,7 +928,7 @@ Praeterea, habitus infusus plus convenit cum gratia quam potentia naturalis. Sed
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem dicendum, quod remoto eo quod non pertinet ad speciem rei, non oportet quod substantia rei tollatur; sicut si ab aere tollatur tenebra, adhuc manet aer. Informitas autem fidei non pertinet ad speciem fidei: quia species fidei est per modum quem habet ex natura potentiae, in qua est sicut in subjecto per relationem ad suum objectum. Dicitur autem formata et informis per relationem ad aliquid extrinsecum, scilicet ad voluntatem, ut dictum est; sicut aer formatur lumine per oppositionem corporis luminosi; et ideo patet quod informitas non pertinet ad speciem fidei. Cum ergo caritas adveniens non tollat nisi informitatem a fide, constat quod substantia habitus fidei adhuc manet.***
+Respondeo ad primam quaestionem dicendum, quod remoto eo quod non pertinet ad speciem rei, non oportet quod substantia rei tollatur; sicut si ab aere tollatur tenebra, adhuc manet aer. Informitas autem fidei non pertinet ad speciem fidei: quia species fidei est per modum quem habet ex natura potentiae, in qua est sicut in subjecto per relationem ad suum objectum. Dicitur autem formata et informis per relationem ad aliquid extrinsecum, scilicet ad voluntatem, ut dictum est; sicut aer formatur lumine per oppositionem corporis luminosi; et ideo patet quod informitas non pertinet ad speciem fidei. Cum ergo caritas adveniens non tollat nisi informitatem a fide, constat quod substantia habitus fidei adhuc manet.  
 
 Ad primum ergoThe Bruges manuscript reads *igitur*. dicendum, quod imperfectio quam habet fides respectu visionis, est secundum genus cognitionis; et ideo pertinet ad speciem fidei; et propter hoc visio adveniens fidem evacuat; non autem ita est in proposito, ut dictum est.  
 
@@ -936,7 +938,7 @@ Ad tertium dicendum, quod gratia in habente fidem non causat alium habitum fidei
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod sicut manet habitus fidei informis sine informitate, ita et actus sine informitate: quia habitus est quo quis agit, cum tempus affuerit, ut dicit Augustinus.***
+Ad secundam quaestionem dicendum, quod sicut manet habitus fidei informis sine informitate, ita et actus sine informitate: quia habitus est quo quis agit, cum tempus affuerit, ut dicit Augustinus.  
 
 Ad primum ergoThe Bruges manuscript reads *igitur*. dicendum, quod hoc quod aliquis per fidem informem faciat bonum, pertinet ad substantiam habitus; et ideo hoc manet: sed quod faciat non bene, hoc pertinet ad informitatem, et ideo non manet.  
 
@@ -946,7 +948,7 @@ Ad tertium dicendum, quod actus fidei informis deficit ab actu fidei formatae ra
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dicit Philosophus in 6 *Ethic*., in homine ante completum esse virtutis moralis, existit quaedam naturalis inclinatio ad virtutem illam, quae dicitur virtus naturalis; et haec eadem virtutis rationem sumit, secundum quod a superiori potentia, scilicet ratione, perfectionem accipit; et similiter fides informis praeexistit in intellectu ante completum esse virtutis; sed rationem virtutis accipit ex perfectione superioris potentiae, scilicet voluntatis: unde una et eadem fides quae prius erat informis, postea fit formata. Nec est alia fides quae advenit: quia fides formata et informis non differunt specie, ut ex dictis patet. Duae autem formae unius speciei simul esse non possunt: quia formae diversificantur secundum numerum ex diversitate materiae vel subjecti.***
+Ad tertiam quaestionem dicendum, quod, sicut dicit Philosophus in 6 *Ethic*., in homine ante completum esse virtutis moralis, existit quaedam naturalis inclinatio ad virtutem illam, quae dicitur virtus naturalis; et haec eadem virtutis rationem sumit, secundum quod a superiori potentia, scilicet ratione, perfectionem accipit; et similiter fides informis praeexistit in intellectu ante completum esse virtutis; sed rationem virtutis accipit ex perfectione superioris potentiae, scilicet voluntatis: unde una et eadem fides quae prius erat informis, postea fit formata. Nec est alia fides quae advenit: quia fides formata et informis non differunt specie, ut ex dictis patet. Duae autem formae unius speciei simul esse non possunt: quia formae diversificantur secundum numerum ex diversitate materiae vel subjecti.  
 
 Ad primum ergo dicendum, quod opus mortuum transit, et non potest idem numero iterum sumi, et ideo vivificari non potest; sed habitus informis manet, et ideo formari potest.  
 
@@ -956,7 +958,7 @@ Ad tertium dicendum, quod ex gratia et fide non fit unum accidens; sed modus car
 
 Expositio textus  
 
-****Accipitur autem fides tribus modis*. Fides proprie dicitur ex hoc quod aliquis assentit eis quae non videt. Hoc autemThe Brussels manuscript reads *et hoc*. contingit dupliciter. Uno modo secundum quod homo inducitur per rationem humanam: et sic dicitur fides opinio vehemens. Et adhuc magis extenso nomine omnis certitudo quae fit per rationem humanam, etiamsi ad visionem inducat, dicitur fides, secundum quod argumentum diciturThe edited versions add *ratio*. rei dubiae faciens fidem. Dicitur autem et veracitas hominis fides, inquantum est causa quod credat quis etiam de his quae non videt; et sic dicit Tullius, quod fides est fundamentum justitiae, fidem pro fidelitate accipiens. Et ulterius ipsa conscientia secundum quam aliquis hanc veracitatem tenet, dicitur fides. Rom. 14:23: *omne quod non est ex fide*, Glossa: *idest ex conscientia*. Alio modo secundum quod homo inducitur per rationem divinam: et sic dicitur fides ipse habitus quo creditur, sive sit formatus sive informis, et actus, et objectum, et sacramentum, inquantum est causa et signum hujus fidei, et quaelibet certitudo quae habetur de divinis, extenso nomine dicitur fides etiamsi videantur.***
+*Accipitur autem fides tribus modis*. Fides proprie dicitur ex hoc quod aliquis assentit eis quae non videt. Hoc autemThe Brussels manuscript reads *et hoc*. contingit dupliciter. Uno modo secundum quod homo inducitur per rationem humanam: et sic dicitur fides opinio vehemens. Et adhuc magis extenso nomine omnis certitudo quae fit per rationem humanam, etiamsi ad visionem inducat, dicitur fides, secundum quod argumentum diciturThe edited versions add *ratio*. rei dubiae faciens fidem. Dicitur autem et veracitas hominis fides, inquantum est causa quod credat quis etiam de his quae non videt; et sic dicit Tullius, quod fides est fundamentum justitiae, fidem pro fidelitate accipiens. Et ulterius ipsa conscientia secundum quam aliquis hanc veracitatem tenet, dicitur fides. Rom. 14:23: *omne quod non est ex fide*, Glossa: *idest ex conscientia*. Alio modo secundum quod homo inducitur per rationem divinam: et sic dicitur fides ipse habitus quo creditur, sive sit formatus sive informis, et actus, et objectum, et sacramentum, inquantum est causa et signum hujus fidei, et quaelibet certitudo quae habetur de divinis, extenso nomine dicitur fides etiamsi videantur.  
 
 *Non sicut corpora.*The Bruges manuscript adds *etc*. Sciendum, quod hicThe edited versions add *Augustinus*, and omit the same below. experimentalem cognitionem quam quis habet de fide sua separat Augustinus a quatuor generibus visionum: scilicet a visione exteriori, per hoc quod dicit: *sicut corpora*; et a visione imaginationis quae ex ipsa relinquitur, in hoc quod dicit: *et per ipsorum imaginationem*; et a visione imaginativae, quae ex diversis imaginibus rerum visarum format aliquam rem nunquam visam, in hoc quod dicit: *non sicut ea quae non videmus*; et a visione intellectuali eorum quae sunt extra nos, per hoc quod dicit:The edited versions read *dicit*. *nec sicut hominem*.  
 

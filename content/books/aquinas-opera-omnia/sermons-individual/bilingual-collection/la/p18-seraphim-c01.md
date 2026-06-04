@@ -1,5 +1,7 @@
 # Sermon
 
+Inter omnes religiones et sectas fides christiana hoc privilegio gaudet quod plura super naturalia et super rationalia, id est super rationem, continet quam aliqua alia. Cuius ratio est quia in ipsa promissa sunt quaedam excellentissima quae non solum intellectum, verum etiam desiderium rationalis creature excedunt. Unde et Apostolus dicit quod *oculus non vidit nec auris audivit et in cor hominis non adscendit quae* etc.  
+
 Et ideo secundum convenientiam promissorum est in fide christiana excellentia credendorum. In lege autem veteri promissa sunt terrena et carnalia Isaiae I: *si volueritis et audieritis me* etc. Et propterea non fuit necessarium quod in ea expressim fieret revelatio rerum quae rationem excedunt, licet inplicite et quodam modo occulte multa rationem excedentia in ipsa tradita sunt. Et hoc est quod dicit Dominus in evangelio hodierno: *si terrena dixi vobis et non creditis, quomodo si dixero* etc. Si ergo ipsi Christo qui dixit eis terrena per prophetas, cum ipse sit Verbum a quo est omne verbum ad prophetas factum, non credunt, quomodo credunt ei si dixerit celestia? Illa autem quae sunt supra rationem non possumus scire sed credere oportet; nam scire rationis est, credere autem voluntatis.  
 
 Et ideo conveniens fuit quod eorum qui revelaverunt et eorum quae revelantur esset excellens auctoritas, et precipue in hiis quae ad sacram Trinitatem pertinent.  

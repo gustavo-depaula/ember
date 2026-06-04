@@ -1,8 +1,10 @@
 # D. 36 - Sin and punishment
 
+***De peccato et poena***
+
 ***Divisio textus***
 
-***Pertractata illa opinione quae ponit actus peccatorum, inquantum sunt actus, bonos esse, et a Deo, occasione ultimae objectionis contra hanc opinionem inductae, quae sumebatur ex differentia culpae et poenae, hic inquirit utrum possit esse idem culpa et poena;***
+Pertractata illa opinione quae ponit actus peccatorum, inquantum sunt actus, bonos esse, et a Deo, occasione ultimae objectionis contra hanc opinionem inductae, quae sumebatur ex differentia culpae et poenae, hic inquirit utrum possit esse idem culpa et poena;  
 
 et dividitur in partes tres:  
 
@@ -236,7 +238,7 @@ Articulus 5
 
 ***Utrum distinctio bonorum sit conveniens***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter ponitur distinctio bonorum, ut quaedam dicantur bona ex genere, et quaedam ex fine et ex causa.***
+Ad quintum sic proceditur. Videtur quod inconvenienter ponitur distinctio bonorum, ut quaedam dicantur bona ex genere, et quaedam ex fine et ex causa.  
 
 Quod enim alicui convenit secundum genus suum, non poterit removeri ab eo per aliquam differentiam additam; quaecumque enim differentia animali addatur, semper in eo sensibile remanebit. Sed reficere esurientem et similes actus quos dicit bonos ex genere, male fieri possunt, ut si propter inanem gloriam fiant. Ergo inconvenienter boniAl. omit *boni*. ex genere dicuntur.  
 
@@ -268,7 +270,7 @@ Ad quintum dicendum, quod actus aliquis habet duplicem finem: scilicet proximum 
 
 Expositio textus  
 
-****Istas poenas pauci vident*. Rationem hujus reddit Philosophus in 9 *Ethicor*., c. 19, quia natura intellectualis, quae suis bonis per hujusmodi destituitur, occulta est; sed natura exterior magis apparet: unde magis est creditum a sensibilibusAl.: *credendum sensibilibus*. hominibus se esse hoc quod sunt propter naturam sensibilem quam per naturam intellectualem; et hoc ideo quia quod nocet eis secundum intellectualem naturam, non reputant poenam, sed solum quae nocent secundum naturam exteriorem eis notam, quamvis e contrario sit secundum rei veritatem.***
+*Istas poenas pauci vident*. Rationem hujus reddit Philosophus in 9 *Ethicor*., c. 19, quia natura intellectualis, quae suis bonis per hujusmodi destituitur, occulta est; sed natura exterior magis apparet: unde magis est creditum a sensibilibusAl.: *credendum sensibilibus*. hominibus se esse hoc quod sunt propter naturam sensibilem quam per naturam intellectualem; et hoc ideo quia quod nocet eis secundum intellectualem naturam, non reputant poenam, sed solum quae nocent secundum naturam exteriorem eis notam, quamvis e contrario sit secundum rei veritatem.  
 
 *Media quae sunt, et peccata sunt*Parma: *enumerat multa quae peccata sunt*. *et poenae peccati*. Intelligendum est de his quae sunt in genere culpae; alias falsum esset: quia quaedam sunt tantummodo poenae et nullo modo culpae.  
 

@@ -1,5 +1,7 @@
 # Chapter 46
 
+^46:1^ Bel is broken, Nebo is destroyed: their idols are put upon beasts and cattle, your burdens of heavy weight even unto weariness.  
+
 > ^46:2^ They are consumed, and are broken together: they could not save him that carried them, and their souls*Anima eorum*. DR: “they themselves.” shall go into captivity.
 
 > ^46:3^ Hearken unto me, O house of Jacob, all the remnant of the house of Israel who are carried by my bowels, are borne up by my womb.

@@ -1,5 +1,7 @@
 # On Man
 
+***On the parts of human nature***
+
 ***Question 5***
 
 ***On the soul***
@@ -22,7 +24,7 @@ Article 1
 
 ***Whether sensitive and intellective souls are of the same substance***
 
-***Concerning the soul, there was a question whether sensitive and intellective souls are of the same substance. And it was shown that they are not.***
+Concerning the soul, there was a question whether sensitive and intellective souls are of the same substance. And it was shown that they are not.  
 
 Obj. 1: For the sensitive soul is drawn out of the potency of matter, whereas the intellective is through creation. Therefore, there is not the same substance of each.  
 
@@ -60,7 +62,7 @@ Question 6
 
 ***Whether the body rises the same in number***
 
-***Then concerning the body there was a question whether it rises the same in number. And it was shown that it does not.***
+Then concerning the body there was a question whether it rises the same in number. And it was shown that it does not.  
 
 Obj. 1: Because, according to the Philosopher in the *Topics*, something is called the same in number which is the same in property, in accident, and in definition.Aristotle, *Topics* 1.7, 103a23–31. But of bodies in the resurrection there will not be the same properties, because they are now risible, then not; nor the same accidents, because now they are white, curled,Cf. above: *Quodlibet VII*, q. 1, a. 3, resp. musical,Cf. Aristotle, *Metaphysics* 4.4, 1006b16, 1007b4–14; 5.2, 1014a5. and things of this sort, which then shall not be; and nor even the same definition, because now a body is defined as being mortal, then it will not be mortal. Therefore, it seems that it does not rise the same in number.  
 
@@ -100,9 +102,9 @@ third, concerning the sacrament of matrimony.Q. 9.
 
 Article 1  
 
-***Whether only a bishop ought to confer the sacrament of confirmation, or also another person***
+Whether only a bishop ought to confer the sacrament of confirmation, or also another person  
 
-***About the first there was a question whether only a bishop ought to confer the sacrament of confirmation, or also another person. And it seems that not only a bishop can confer this sacrament, but also any priest.***
+About the first there was a question whether only a bishop ought to confer the sacrament of confirmation, or also another person. And it seems that not only a bishop can confer this sacrament, but also any priest.  
 
 Obj. 1: For it is agreed that spiritual grace is conferred in confirmation. But the bestowal of grace of this sort is ordered such that it cannot be impeded. Yet it is agreed that it is impeded often through the absence of bishops because they are not present everywhere. Therefore, it ought to be conferred through the ministry of priests, who are present everywhere.  
 
@@ -138,9 +140,9 @@ second, concerning those who are excluded from participation of this sacrament t
 
 Article 1  
 
-***Whether someone can hear the Mass of a fornicator priest without sinning mortally***
+Whether someone can hear the Mass of a fornicator priest without sinning mortally  
 
-***About the first there was a question whether someone can hear the Mass of a fornicator priest without sinning mortally. And it seems that he cannot.***
+About the first there was a question whether someone can hear the Mass of a fornicator priest without sinning mortally. And it seems that he cannot.  
 
 Obj. 1: For the Church has commanded under anathema that no one should hear Mass by a fornicator priest.Gratian, *Decretum*, Part 1, Distinction 32, canon 5, 1:117; Aquinas, *In IV Sent*. 13.1.3, qa. 3, s.c. But to act against a mandate of the Church of this sort is to sin mortally. Therefore, whoever hears Mass by such a priest sins mortally.  
 
@@ -158,9 +160,9 @@ Reply Obj. 1: It must be said that, if it is endured by prelates, it is not excu
 
 Article 2  
 
-***Whether someone sins mortally by speaking, eating, or standing with excommunicated persons***
+Whether someone sins mortally by speaking, eating, or standing with excommunicated persons  
 
-***Concerning the second there was a question whether someone sins mortally by speaking, eating, or standingCf. Gratian, *Decretum*, P. 2, C. 11, q. 3, c. 26, 1:652.  with excommunicated persons. And it seems that he does.***
+Concerning the second there was a question whether someone sins mortally by speaking, eating, or standingCf. Gratian, *Decretum*, P. 2, C. 11, q. 3, c. 26, 1:652.  with excommunicated persons. And it seems that he does.  
 
 Obj. 1: Because many masters of the decretals and great men say this.Cf. Raymond of Peñafort, *Summa de penitentia*, bk. 3, tit. 33, 780–81.  
 
@@ -198,7 +200,7 @@ Article 1
 
 ***On those rendered impotent by spells***
 
-***About the first there was a question whether being rendered impotent by spells impedes matrimony. And it was shown that it does not.***
+About the first there was a question whether being rendered impotent by spells impedes matrimony. And it was shown that it does not.  
 
 Obj. 1: Because the work of God is stronger than the work of the devil. But matrimony is a work of God, whereas bewitchment a work of the devil. Therefore, matrimony is stronger than bewitchment. Therefore, marriage is not impeded through it.Cf. Albert the Great, *In IV Sent*., d. 34 C, a. 8, obj. 4, 30:336b.  
 
@@ -216,7 +218,7 @@ Article 2
 
 ***On the feeble***
 
-***About the second there was a question whether feebleness impedes matrimony. And it seems that not.***
+About the second there was a question whether feebleness impedes matrimony. And it seems that not.  
 
 Obj. 1: Because the elderly are feeble, and, nevertheless, they contract matrimony.Cf. Albert the Great, *In IV Sent*., d. 34 B, a. 4, obj. 2, 30:331a; Aquinas, *In IV Sent*. 34.1.2, obj. 3.  
 
@@ -246,7 +248,7 @@ Article 1
 
 ***Whether someone ought to correct his neighbor or brother in public or in private***
 
-***First, should someone correct his neighbor or his brother in public or in private? And it seems that he should do so secretly.***
+First, should someone correct his neighbor or his brother in public or in private? And it seems that he should do so secretly.  
 
 Obj. 1: Matthew 18:15: *if your brother has sinned against you, go and correct him between you and him only*. Therefore, it seems that a delinquent brother must be corrected secretly.  
 
@@ -264,9 +266,9 @@ Reply 3: Whereas to the other it must be said that what is from the constitution
 
 Article 2  
 
-***Whether, if someone knows a sin of his neighbor, he sins mortally by referring that at once to his prelate***
+Whether, if someone knows a sin of his neighbor, he sins mortally by referring that at once to his prelate  
 
-***Second there was a question whether, if someone knows a sin of his neighbor, he sins mortally by referring that at once to his prelate. And it seems that he does.***
+Second there was a question whether, if someone knows a sin of his neighbor, he sins mortally by referring that at once to his prelate. And it seems that he does.  
 
 Obj. 1: Because to act against the order of the Gospel is mortal sin.Matthew 18:15–17. But to refer at once to a prelate is against the order of the Gospel. Therefore, he sins mortally.  
 
@@ -292,4 +294,4 @@ Question 11
 
 ***Regarding the relationship to things men use <*missing text*>***
 
-***<Question 11, regarding the relationship to the things which men use, *is missing*.>***
+<Question 11, regarding the relationship to the things which men use, *is missing*.>

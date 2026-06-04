@@ -1,6 +1,8 @@
 # D. 4 - The effects of baptism
 
-***After the Master has considered baptism in what pertains to it in itself, here he considers its effect on those receiving it. And this is divided into two parts: in the first, he considers the effect of baptism commonly on all men; in the second, on infants in particular, at: *it is also usual to ask whether a grace is given to children in baptism*.Peter Lombard, *Sententiae* IV, 4.7 (32), 3.***
+***The effects of baptism***
+
+After the Master has considered baptism in what pertains to it in itself, here he considers its effect on those receiving it. And this is divided into two parts: in the first, he considers the effect of baptism commonly on all men; in the second, on infants in particular, at: *it is also usual to ask whether a grace is given to children in baptism*.Peter Lombard, *Sententiae* IV, 4.7 (32), 3.  
 
 The first is divided into three parts: in the first of these he shows how some people receive the sacrament and the reality of the sacrament; in the second how some people receive the sacrament but not the reality, at: *But those who approach without faith or under false pretenses, receive the sacrament, but not the thing*;*Sent*. IV, 4.2 (27), 1. in the third, how some people receive the reality, but not the sacrament, at: *there are also others, as we said earlier, who receive the thing and not the sacrament*.*Sent*. IV, 4.4 (29), 1.  
 
@@ -31,7 +33,7 @@ first, if there is a character;
 
 ***If there is a baptismal character***
 
-***Obj. 1: To the first we proceed thus.Parallels: below, a. 4, qa. 1, ad 1; *ST* III, q. 63, a. 1; *De eccles. sacram.* It seems that the character is not in the soul. For, as the Philosopher says in the *Ethics* 2,Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 4, 1105b19–20. everything that is in the soul is either a power, or a passion, or a habit. But a character is not a power, for powers are common to all men, but a character is not, since it is a distinctive sign, as its name shows; and besides, powers are from nature, but a character is not. Nor again is it a passion, for passions of the soul are produced with a certain bodily change, as is said in *On the Soul* 1;Moos’s edition has Thomas referring to *Nicomachean Ethics*, Bk. 4, ch. 9, at 1128b14–15; but there are pertinent passages in *On the Soul*, e.g., Bk. 1, ch. 1, 403a3ff. and they pertain to the sensitive part, as is said in the *Physics* 7.Aristotle, *Physics*, Bk. 7, ch. 2, 244b11–12. Nor again is it a habit, for a habit is ordered to acting, as is evident from Augustine’s definition: *a habit is that whereby one acts, when he does a work*.Augustine, *On the Good of Marriage*, ch. 21, par. 25 (CSEL 41:219). The exact words are: “Ipse est enim habitus, quo aliquid agitur, cum opus est; cum autem non agitur, potest agi, sed non opus est.” Therefore, the character conferred in baptism is not anything in the soul.***
+Obj. 1: To the first we proceed thus.Parallels: below, a. 4, qa. 1, ad 1; *ST* III, q. 63, a. 1; *De eccles. sacram.* It seems that the character is not in the soul. For, as the Philosopher says in the *Ethics* 2,Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 4, 1105b19–20. everything that is in the soul is either a power, or a passion, or a habit. But a character is not a power, for powers are common to all men, but a character is not, since it is a distinctive sign, as its name shows; and besides, powers are from nature, but a character is not. Nor again is it a passion, for passions of the soul are produced with a certain bodily change, as is said in *On the Soul* 1;Moos’s edition has Thomas referring to *Nicomachean Ethics*, Bk. 4, ch. 9, at 1128b14–15; but there are pertinent passages in *On the Soul*, e.g., Bk. 1, ch. 1, 403a3ff. and they pertain to the sensitive part, as is said in the *Physics* 7.Aristotle, *Physics*, Bk. 7, ch. 2, 244b11–12. Nor again is it a habit, for a habit is ordered to acting, as is evident from Augustine’s definition: *a habit is that whereby one acts, when he does a work*.Augustine, *On the Good of Marriage*, ch. 21, par. 25 (CSEL 41:219). The exact words are: “Ipse est enim habitus, quo aliquid agitur, cum opus est; cum autem non agitur, potest agi, sed non opus est.” Therefore, the character conferred in baptism is not anything in the soul.  
 
 Obj. 2: Furthermore, all that there is is reducible to some genus of being. But a character does not seem to be reducible to any category of being, except perhaps for quality. But it cannot be a quality, since it is contained under no species of quality.As given by Aristotle in the *Categories*, ch. 8. For it is not a habit, as has been proved; nor is it a disposition, since it is not easily moveable, but rather completely indelible. Nor again is it a natural power, as has been proved; nor is it an inability, since then the sacraments that imprint characters would do more to hinder than to help; nor again is it a passion, as has been proved; nor a passible quality, since it is not such as to cause a passion in the senses, nor is it born from any passion. Nor again is it a form, and a figure standing firm around anything, for a figure is a termination of quantity, but the soul does not have any quantity. Therefore, a character is nothing.  
 
@@ -79,7 +81,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second we proceed thus.Parallel: *ST* III, q. 63, a. 2. It seems that the definition of character attributed to Dionysius is not well-formulated, which is as follows: *character is a sacred sign of the communion of faith, and of holy ordination, given by a hierarch in divine blessedness*. For a sign, as was said in Distinction 1, is something that impresses a certain species on the senses and makes something beyond it come into the understanding. But a character does not impress anything on the senses. Therefore, it is not a sign.***
+Obj. 1: To the second we proceed thus.Parallel: *ST* III, q. 63, a. 2. It seems that the definition of character attributed to Dionysius is not well-formulated, which is as follows: *character is a sacred sign of the communion of faith, and of holy ordination, given by a hierarch in divine blessedness*. For a sign, as was said in Distinction 1, is something that impresses a certain species on the senses and makes something beyond it come into the understanding. But a character does not impress anything on the senses. Therefore, it is not a sign.  
 
 Obj. 2: Furthermore, it is more fitting for the powers that are the principle of action or passion to be signified rather than to signify, for causes are signified by their effects. But character, as was said, is a spiritual power. Therefore, it is not a sign.  
 
@@ -91,7 +93,7 @@ Obj. 5: Furthermore, the hierarch, as was said, is the pontiff. But in certain s
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that a certain other teacher’s definition was not well-formulated, which is as follows:Parallel: *ST* III, q. 63, a. 3. *a character is a distinguishing mark imprinted from the eternal character on a rational soul according to the image, sealing a created trinity to the creating and recreating Trinity, and distinguishing from those not configured according to the state of faith*. For where there is a great difference, it is not necessary for a sign of distinction to be given. But unbelievers differ tremendously from the faithful, both in life and in religious practice. Therefore, it is not necessary that any distinctive sign be given.***
+Obj. 1: Moreover, it seems that a certain other teacher’s definition was not well-formulated, which is as follows:Parallel: *ST* III, q. 63, a. 3. *a character is a distinguishing mark imprinted from the eternal character on a rational soul according to the image, sealing a created trinity to the creating and recreating Trinity, and distinguishing from those not configured according to the state of faith*. For where there is a great difference, it is not necessary for a sign of distinction to be given. But unbelievers differ tremendously from the faithful, both in life and in religious practice. Therefore, it is not necessary that any distinctive sign be given.  
 
 Obj. 2: Furthermore, a sign of distinction like this is either done for the sake of men, for the sake of God, or for the sake of the angels. But this is not for the sake of men, since not only are other men incapable of recognizing this character, but even the one who has it cannot perceive that he has it, whereas a sign needs to be noticeable. Nor is this a sign for God, who knows how to discern believers from unbelievers without this sign; and likewise, neither is it for the angels. Therefore, a character is not that sign of distinction.  
 
@@ -103,7 +105,7 @@ Obj. 5: Furthermore, a contrary distinguishes sufficiently from its contrary. Bu
 
 Response to Quaestiuncula 1  
 
-***To the first question I answer that definition is nowhere found laid down by Dionysius, but it can be taken from the words of his cited above; and it may be taken more fittingly if it were said as follows: *character is a sign of communion in a share of divine things and of the sacred ordination of the faithful, given by divine blessedness*. And it touches upon the four causes. First, the genus of character as character, namely, sign, which pertains to the formal cause. Second, the final cause, for this sign is given for two things—namely, so that the one receiving it may be configured as inscribed in the sharing of divine sacraments and sacred actions; and with regard to this he says: *of the communion in a share of divine things*; and so that the one to be added to this order may be configured to the others to whom the same power has been given, which he refers to in saying: *and of the sacred ordination of the faithful*; which two things excommunication suspends for a time, for it deprives a man of participation in divine things and the communion of the faithful. Third, he includes the matter in which, by saying: *given by a priest*.This phrase, *datum a sacerdote*, is not present in either the original or the rephrased definition, but it seems to parallel *datum a hierarcha*, discussed below. Fourth, the efficent cause, namely *by divine blessedness*.***
+To the first question I answer that definition is nowhere found laid down by Dionysius, but it can be taken from the words of his cited above; and it may be taken more fittingly if it were said as follows: *character is a sign of communion in a share of divine things and of the sacred ordination of the faithful, given by divine blessedness*. And it touches upon the four causes. First, the genus of character as character, namely, sign, which pertains to the formal cause. Second, the final cause, for this sign is given for two things—namely, so that the one receiving it may be configured as inscribed in the sharing of divine sacraments and sacred actions; and with regard to this he says: *of the communion in a share of divine things*; and so that the one to be added to this order may be configured to the others to whom the same power has been given, which he refers to in saying: *and of the sacred ordination of the faithful*; which two things excommunication suspends for a time, for it deprives a man of participation in divine things and the communion of the faithful. Third, he includes the matter in which, by saying: *given by a priest*.This phrase, *datum a sacerdote*, is not present in either the original or the rephrased definition, but it seems to parallel *datum a hierarcha*, discussed below. Fourth, the efficent cause, namely *by divine blessedness*.  
 
 Nevertheless, the definition laid down before can also be defended, so that it amounts to the same thing as this one; so that the phrase *of the communion of the faith* may be referred to the participation in the sacraments and the actions of the faithful. But when he says, *and of holy ordination*, he lays down the ordering of one to another; *given to the one approaching by the hierarch* is included as to the efficient instrumental cause, which is the minister, who represents the interior agent cause by external configuration.  
 
@@ -119,7 +121,7 @@ Reply Obj. 5: This phrasing—*given to the one approaching by the hierarch—*c
 
 Response to Quaestiuncula 2  
 
-***To the second question it should be said that in that definition as well, the four causes of a character are touched upon. For the formal cause is touched upon in including the genus, when he says, *distinguishing mark*, i.e., distinctive sign; and it is a more proximate genus than that included in the preceding definition. The efficient cause is touched upon in saying, *eternal character*, i.e., the Son, who is the figure of the substance of the Father (Heb 1:3). It puts down the material cause in which, when it says: *imprinted on the rational soul according to the image*. But the final cause is included in two ways—namely, configuration, when it says, *sealing a created trinity to the creating and recreating Trinity*, i.e., configuring; and distinction, when it says, *and distinguishing from those not configured according to the state of faith*. And just as here a proximate genus is laid down, so also a proximate end, and a proximate subject, and an appropriated efficient cause—in which this definition surpasses the definition mentioned, as it is given rather through proximate causes.***
+To the second question it should be said that in that definition as well, the four causes of a character are touched upon. For the formal cause is touched upon in including the genus, when he says, *distinguishing mark*, i.e., distinctive sign; and it is a more proximate genus than that included in the preceding definition. The efficient cause is touched upon in saying, *eternal character*, i.e., the Son, who is the figure of the substance of the Father (Heb 1:3). It puts down the material cause in which, when it says: *imprinted on the rational soul according to the image*. But the final cause is included in two ways—namely, configuration, when it says, *sealing a created trinity to the creating and recreating Trinity*, i.e., configuring; and distinction, when it says, *and distinguishing from those not configured according to the state of faith*. And just as here a proximate genus is laid down, so also a proximate end, and a proximate subject, and an appropriated efficient cause—in which this definition surpasses the definition mentioned, as it is given rather through proximate causes.  
 
 Reply Obj. 1: A character is a sign not only as a mark of distinction, but as something causing distinction, even as the other sacramental signs are; and thus it needs this for bringing about the distinction.  
 
@@ -137,7 +139,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: It seems that character is in the essence of the soul as a subject.Parallel: *ST* III, q. 63, a. 4. For dispositions and habits are in the same subject. But a character disposes one for the habit of grace. Since, therefore grace is in the essence of the soul as its subject, it seems that the character is as well.***
+Obj. 1: It seems that character is in the essence of the soul as a subject.Parallel: *ST* III, q. 63, a. 4. For dispositions and habits are in the same subject. But a character disposes one for the habit of grace. Since, therefore grace is in the essence of the soul as its subject, it seems that the character is as well.  
 
 Obj. 2: Furthermore, the powers of the soul have no subject but the essence of the soul. But a character, as has been said, is a certain spiritual power. Therefore, it is in the essence of the soul as its subject.  
 
@@ -145,7 +147,7 @@ On the contrary, character configures a created trinity to the uncreated one, as
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is not in one power, but in several.Parallel: *ST* III, q. 63, a. 4. For, as is evident from the definition given, a character is in a rational soul as an image, according to which is the configuration of man to God as well. But an image does not consist in one power alone, but in several. Therefore, neither does a character.***
+Obj. 1: Moreover, it seems that it is not in one power, but in several.Parallel: *ST* III, q. 63, a. 4. For, as is evident from the definition given, a character is in a rational soul as an image, according to which is the configuration of man to God as well. But an image does not consist in one power alone, but in several. Therefore, neither does a character.  
 
 Obj. 2: Furthermore, whatever has a power has an action, and vice versa, as is said in *On Sleep and Waking* 1.Aristotle, *On Sleep*, ch. 1, 454a8. But spiritual action, to which a character is directed, is through several powers, since both affective and intellective powers are required for it. Therefore, the character, as a spiritual power, is in several of the powers.  
 
@@ -153,7 +155,7 @@ On the contrary, one accident is not in several subjects. But in one sacrament, 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it is in the affective power rather than the cognitive power.Parallel: *ST* III, q. 63, a. 4, ad 3. For a character disposes for grace. But grace regards the affections more. Therefore, so does a character.***
+Obj. 1: Moreover, it seems that it is in the affective power rather than the cognitive power.Parallel: *ST* III, q. 63, a. 4, ad 3. For a character disposes for grace. But grace regards the affections more. Therefore, so does a character.  
 
 Obj. 2: Furthermore, a character is for the sake of likening us to God. But it is through the affections that we grow most near to God and become most like him. Therefore, a character is in the affective power.  
 
@@ -161,7 +163,7 @@ On the contrary, Dionysius compares the character to a light. But light applies 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the character is not indelibly impressed on the power in which it is.Parallels: *ST* III, q. 63, a. 5; q. 66, a. 9; *Super Rom*. 7, lec. 1. For accidents have endurance from their cause and from their subject. But grace is from the same cause and in the same subject as a character. Therefore, since grace can be lost, a character can likewise also be erased.***
+Obj. 1: Moreover, it seems that the character is not indelibly impressed on the power in which it is.Parallels: *ST* III, q. 63, a. 5; q. 66, a. 9; *Super Rom*. 7, lec. 1. For accidents have endurance from their cause and from their subject. But grace is from the same cause and in the same subject as a character. Therefore, since grace can be lost, a character can likewise also be erased.  
 
 Obj. 2: Furthermore, *when what is perfect has come, what is partial shall be emptied out* (1 Cor 13:10). But character is partial: for it is given to distinguish one in sacramental works, which belong to the state of the wayfarer. Therefore, in the fatherland the character will cease, and thus it is effaceable.  
 
@@ -169,7 +171,7 @@ On the contrary, if a character could be erased, it would certainly be erased by
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that Christ had a character.Parallel: *ST* III, q. 63, a. 3. For he himself was a priest *according to the order of Melchizedek* (Heb 7:17), which is the priesthood of the New Testament. But this priesthood requires a character. Therefore, Christ had a character.***
+Obj. 1: Moreover, it seems that Christ had a character.Parallel: *ST* III, q. 63, a. 3. For he himself was a priest *according to the order of Melchizedek* (Heb 7:17), which is the priesthood of the New Testament. But this priesthood requires a character. Therefore, Christ had a character.  
 
 Obj. 2: Furthermore, nothing of perfection, whether in the soul or in dignity, should be denied to Christ. But a character beautifies and ennobles a soul in which it is. Therefore, in Christ there was a character.  
 
@@ -177,7 +179,7 @@ On the contrary, a character is for those who have been regenerated, and who rec
 
 Response to Quaestiuncula 1  
 
-***The first question I answer by saying that nature is laid out as a substratum proportionate to spirituality, as the perfectible is related to perfection. Hence, just as grace, which is the principle of spiritual life, is in the essence of the soul as its subject, so also character, which is a spiritual power, has as its subject the natural power of the soul, and not (as some people say) the essence of the soul, except indirectly through the powers of the soul.***
+The first question I answer by saying that nature is laid out as a substratum proportionate to spirituality, as the perfectible is related to perfection. Hence, just as grace, which is the principle of spiritual life, is in the essence of the soul as its subject, so also character, which is a spiritual power, has as its subject the natural power of the soul, and not (as some people say) the essence of the soul, except indirectly through the powers of the soul.  
 
 Reply Obj. 1: It is not necessary for a disposition to be in the same genus as that to which it disposes, except when a disposition becomes a perfection afterward, as science, which was first a disposition, afterward becomes a habit; and thus science the disposition and science the habit are in the same proximate subject. But when the disposition and the perfection differ by essence, this is not necessary; rather, they can be in diverse subjects, especially when they have a different order to each other, as when a sensible operation is a disposition to an intelligible operation. And in a similar way, character is a disposition to grace.  
 
@@ -185,7 +187,7 @@ Reply Obj. 2: That objection has to do with natural powers; but the spiritual po
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that something can exist in multiple powers in two ways: either such that it is equally in all of them, as the essence of the soul is in all the powers; or such that it is in one primarily and, as a result, it relates to the others by means of the one in which it first is; as choice is in the intellect and the appetite, and it is formally perfected in the appetite, as is clear from the Philosopher in the *Ethics* 6.Aristotle, *Nicomachean Ethics*, Bk. 6, ch. 2, 1139b4–5. In the first way, therefore, no accident can exist in several powers, for an accident is numbered and distinguished by virtue of matter and distinction of subject. And thus, since a character is an accident, it cannot be in several powers of the soul in the first way, but only in the second way, for it regards one [power] first, and the others consequently.***
+To the second question, it should be said that something can exist in multiple powers in two ways: either such that it is equally in all of them, as the essence of the soul is in all the powers; or such that it is in one primarily and, as a result, it relates to the others by means of the one in which it first is; as choice is in the intellect and the appetite, and it is formally perfected in the appetite, as is clear from the Philosopher in the *Ethics* 6.Aristotle, *Nicomachean Ethics*, Bk. 6, ch. 2, 1139b4–5. In the first way, therefore, no accident can exist in several powers, for an accident is numbered and distinguished by virtue of matter and distinction of subject. And thus, since a character is an accident, it cannot be in several powers of the soul in the first way, but only in the second way, for it regards one [power] first, and the others consequently.  
 
 Reply Obj. 1: Even powers have considerable order to each other, as was said in Book I; and thus, what is in one can sometimes overflow into the others.  
 
@@ -193,7 +195,7 @@ Reply Obj. 2: When many powers are required for one action, one power is princip
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the image chiefly consists in the cognitive power. For the will arises from memory and intelligence; hence the whole image is in the intellective part as its root. And thus, everything that is attributed to man by reason of this image chiefly concerns the intellective part, and, in consequence, the affective part. For it is from the intellective part that a man is a man, but it is from the affective part that a man is good or bad. And so, since character regards the image, it is chiefly in the intellective part.***
+To the third question, it should be said that the image chiefly consists in the cognitive power. For the will arises from memory and intelligence; hence the whole image is in the intellective part as its root. And thus, everything that is attributed to man by reason of this image chiefly concerns the intellective part, and, in consequence, the affective part. For it is from the intellective part that a man is a man, but it is from the affective part that a man is good or bad. And so, since character regards the image, it is chiefly in the intellective part.  
 
 Reply Obj. 1: Grace is neither in the intellective nor in the affective, but in the essence of the soul. Nevertheless, it concerns the affective more closely, since grace is given for acting well. Now, how well someone may act depends especially on the will. But a character is given simply for exercising certain spiritual actions; and whether they are done well or badly is by grace and by the habit of virtues. And thus, the same argument does not apply to grace and to the character.  
 
@@ -201,7 +203,7 @@ Reply Obj. 2: Assimilation in goodness toward God is especially through willing,
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that the imprinting of a character is through a certain sanctification of the rational soul, just as sanctification is called an appointment of something for something sacred. Now for this sanctification, the soul to be sanctified is not more actively prepared than water, or oil, or chrism to be sanctified, except in that man subjects himself to this sanctification by his own consent, while the things mentioned are subjected to it since they lack free will; and so, no matter how the soul is changed by its proper operations, it will never lose its character, just as neither do chrism, oil, or consecrated bread ever lose their sanctification, however much they are changed, so long as they are not corrupted.***
+To the fourth question, it should be said that the imprinting of a character is through a certain sanctification of the rational soul, just as sanctification is called an appointment of something for something sacred. Now for this sanctification, the soul to be sanctified is not more actively prepared than water, or oil, or chrism to be sanctified, except in that man subjects himself to this sanctification by his own consent, while the things mentioned are subjected to it since they lack free will; and so, no matter how the soul is changed by its proper operations, it will never lose its character, just as neither do chrism, oil, or consecrated bread ever lose their sanctification, however much they are changed, so long as they are not corrupted.  
 
 Reply Obj. 1: The cause of the indelibility of a character is on the part of the subject, which is incorruptible, and on the part of the cause, which is invariable. However, grace has in a certain way a cause that is not efficient but disposing on the part of the subject: for, according to Augustine, *he who created you without you, will not justify you without you*.See Augustine, *Sermon* 169, n. 11 (PL 38:923): “qui ergo fecit te sine te, non te iustificat sine te.” And thus, by the indisposition of the subject, grace is lost.  
 
@@ -209,7 +211,7 @@ Reply Obj. 2: By a character, man is configured to what has to do with the socie
 
 Response to Quaestiuncula 5  
 
-***To the fifth question it should be said that some people say that Christ did not have a baptismal character, since he received nothing from baptism, but that he did have the character of holy orders, which pertains to a certain eminent status. But it is better if it were said that Christ had no character; for he had the fullness of power in the sacraments, as the one instituting them and providing them with their efficacy. Hence, just as he could induce the effect of a sacrament in someone without an outward sacrament, in the same way no interior sacramental character was required for this on his part.***
+To the fifth question it should be said that some people say that Christ did not have a baptismal character, since he received nothing from baptism, but that he did have the character of holy orders, which pertains to a certain eminent status. But it is better if it were said that Christ had no character; for he had the fullness of power in the sacraments, as the one instituting them and providing them with their efficacy. Hence, just as he could induce the effect of a sacrament in someone without an outward sacrament, in the same way no interior sacramental character was required for this on his part.  
 
 Reply Obj. 1: He himself was a priest as the one instituting the priesthood; thus to have a character does not pertain to him but to that man who receives his priesthood from elsewhere, so that he may be configured to the principal priest by the character.  
 
@@ -221,7 +223,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallels: *ST* III, q. 63, a. 5; *Super Heb*. 11. lec. 7. It seems that a character is not imprinted only in the sacraments of the New Law. For the effect of a character is to configure and distinguish. But the virtues do this: for in them the good are distinguished from the bad and made like unto God. Therefore, a character is imprinted by the virtues and not only by the sacraments of the New Law.***
+Obj. 1: To the fourth we proceed thus.Parallels: *ST* III, q. 63, a. 5; *Super Heb*. 11. lec. 7. It seems that a character is not imprinted only in the sacraments of the New Law. For the effect of a character is to configure and distinguish. But the virtues do this: for in them the good are distinguished from the bad and made like unto God. Therefore, a character is imprinted by the virtues and not only by the sacraments of the New Law.  
 
 Obj. 2: Furthermore, just as by the sacraments of the New Law a faithful people is distinguished from unbelievers, so were they distinguished by the sacraments of the Old Law. Therefore, the sacraments of the New Law do not imprint a character any more than the sacraments of the Old Law.  
 
@@ -229,7 +231,7 @@ On the contrary, someone having a character is not baptized, for the other chara
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that a character is imprinted by all the sacraments of the New Law.Parallels: below, d. 7, q. 2, a. 1, qa. 1; d. 23, q. 1, a. 2, qa. 3; *ST* III, q. 63, a. 6; *De eccles. sacram*.; *Super Heb*. 11, lec. 7. For in every sacrament of the New Law there is something that is purely a sacrament, and something that is purely a reality, and something that is reality-and-sacrament. But in baptism, that which is reality-and-sacrament is the character. Therefore, in any sacrament of the New Law a character is imprinted.***
+Obj. 1: Moreover, it seems that a character is imprinted by all the sacraments of the New Law.Parallels: below, d. 7, q. 2, a. 1, qa. 1; d. 23, q. 1, a. 2, qa. 3; *ST* III, q. 63, a. 6; *De eccles. sacram*.; *Super Heb*. 11, lec. 7. For in every sacrament of the New Law there is something that is purely a sacrament, and something that is purely a reality, and something that is reality-and-sacrament. But in baptism, that which is reality-and-sacrament is the character. Therefore, in any sacrament of the New Law a character is imprinted.  
 
 Obj. 2: Furthermore, in every sacrament of the New Law grace is conferred, and the one receiving it is distinguished from the one not receiving it. Therefore, since a character disposes for grace and distinguishes, it seems that in any sacrament of the New Law a character is imprinted.  
 
@@ -237,7 +239,7 @@ On the contrary, no sacrament in which a character is imprinted can be received 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that in the sacrament of baptism a character is not imprinted. For baptism of blood is more worthy than baptism with water, for it merits a golden crown. Aquinas uses the term *aureola*, “little crown,” to express an extra honor or distinction awarded to some of the blessed in addition to the *aurea*, “golden crown” or “halo” that represents the main substantial reward of heavenly beatitude. See the more thorough explanation at Dist. 49, question 5. See also Dist. 8, q. 1, a. 2, qa 1, ad 2. But in baptism of blood, no character is imprinted. Therefore, neither in baptism of water.***
+Obj. 1: Moreover, it seems that in the sacrament of baptism a character is not imprinted. For baptism of blood is more worthy than baptism with water, for it merits a golden crown. Aquinas uses the term *aureola*, “little crown,” to express an extra honor or distinction awarded to some of the blessed in addition to the *aurea*, “golden crown” or “halo” that represents the main substantial reward of heavenly beatitude. See the more thorough explanation at Dist. 49, question 5. See also Dist. 8, q. 1, a. 2, qa 1, ad 2. But in baptism of blood, no character is imprinted. Therefore, neither in baptism of water.  
 
 Obj. 2: Furthermore, the only thing baptism of water has over and above baptism of spirit is water. But baptism cannot imprint its character by reason of the water, otherwise the baptism of John would have imprinted a character, which cannot be, since those baptized by John were baptized again, as was said above in Distinction 2, Article 4. Therefore, neither does baptism of water imprint a character.  
 
@@ -245,7 +247,7 @@ On the contrary, is the authority of Dionysius, from whom the tradition of the c
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the character is from the Son alone as its first efficient cause.Parallel: *ST* III, q. 63, a. 3. For *character is a distinction imprinted on the rational soul by the eternal character*, etc., as was said above in Article 2, Subquestion 2. But the eternal character is the Son alone, just as he is also the image. Therefore, the character is imprinted by the Son alone.***
+Obj. 1: Moreover, it seems that the character is from the Son alone as its first efficient cause.Parallel: *ST* III, q. 63, a. 3. For *character is a distinction imprinted on the rational soul by the eternal character*, etc., as was said above in Article 2, Subquestion 2. But the eternal character is the Son alone, just as he is also the image. Therefore, the character is imprinted by the Son alone.  
 
 Obj. 2: Furthermore, by a character the soul is configured and made to be like God. But the principle of likening to God is the Son; hence Augustine names the Son ‘the Likeness’, by whom we are reformed unto oneness, as is clear from Book I, Distinction 3. Therefore, the character is only from the Son.  
 
@@ -253,7 +255,7 @@ On the contrary, Dionysius says that the sign of a character is *given by divine
 
 Response to Quaestiuncula 1  
 
-***The first question I answer by saying that, as the Philosopher says in the *Ethics* 2, *virtue works those things from which it is born*,Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 2, 1104a27–29; that is, the kind of actions that give rise to a virtue are the very actions the virtue empowers the agent to perform. speaking of acquired virtue; and it is similar in all virtues that are caused in some way from certain actions. Hence, since a character is a virtue or spiritual power ordered to sacramental actions, if a character should be imprinted from something that is done by us, it has to be imprinted by the sacraments of the New Law, and by them alone, for that power is directly ordered only to those actions.***
+The first question I answer by saying that, as the Philosopher says in the *Ethics* 2, *virtue works those things from which it is born*,Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 2, 1104a27–29; that is, the kind of actions that give rise to a virtue are the very actions the virtue empowers the agent to perform. speaking of acquired virtue; and it is similar in all virtues that are caused in some way from certain actions. Hence, since a character is a virtue or spiritual power ordered to sacramental actions, if a character should be imprinted from something that is done by us, it has to be imprinted by the sacraments of the New Law, and by them alone, for that power is directly ordered only to those actions.  
 
 Reply Obj. 1: The spiritual actions to which a character is ordered are exercised only within the Church; and thus the power for these actions would be given to someone for naught unless it were given in such a way that it might become known to those who are in the Church, so that they admitted him to such actions. But by grace and the virtues he could not become known, since they are unknown; and thus, it was necessary that the character be imprinted by the visible signs of the sacraments.  
 
@@ -261,7 +263,7 @@ Reply Obj. 2: Sacraments of the Old Law conferred nothing by the work performed,
 
 Response to Quaestiuncula 2  
 
-***To the second question it should be said that sacraments of the New Law are a kind of sanctification. But ‘sanctification’ is taken in two ways. In one way, as a cleansing, for what is holy is clean. In another way, for a dedication to something sacred, as an altar, or something like it, is said to be sanctified. All the sacraments, therefore, are sanctifications in the first way, for they are all given as a remedy against some defect, as was said before in Distinction 2; but some of them are also sanctifications in the second way, as is particularly evident in holy orders, for the ordained is dedicated to something sacred; but not all the sacraments, as is clear in the case of penance. Now anyone who is dedicated to exercising something sacred and spiritual, and only such a person, needs to have a spiritual power. And therefore not all the sacraments of the New Law imprint a character, but certain ones that are also sanctifications in the second way.***
+To the second question it should be said that sacraments of the New Law are a kind of sanctification. But ‘sanctification’ is taken in two ways. In one way, as a cleansing, for what is holy is clean. In another way, for a dedication to something sacred, as an altar, or something like it, is said to be sanctified. All the sacraments, therefore, are sanctifications in the first way, for they are all given as a remedy against some defect, as was said before in Distinction 2; but some of them are also sanctifications in the second way, as is particularly evident in holy orders, for the ordained is dedicated to something sacred; but not all the sacraments, as is clear in the case of penance. Now anyone who is dedicated to exercising something sacred and spiritual, and only such a person, needs to have a spiritual power. And therefore not all the sacraments of the New Law imprint a character, but certain ones that are also sanctifications in the second way.  
 
 Reply Obj. 1: Although the reality-and-sacrament in baptism happens to be a character, nevertheless it is not necessary that it be a character in all the sacraments in which there is a reality-and-sacrament. But that which is the reality-and-sacrament in each will be shown further on, one sacrament at a time.For more about the sacrament alone, reality alone, and sacrament-and-reality, see the footnote at Dist.1, q.1, a.4, qa. 1, main response.  
 
@@ -269,7 +271,7 @@ Reply Obj. 2: Although any sacrament may distinguish those receiving from those 
 
 Response to Quaestiuncula 3  
 
-***To the third question it should be said that just as in natural things there is an active power and a natural passive power, so also in spiritual things there is, as it were, a passive spiritual power by which a man is made receptive to spiritual actions. And this kind of spiritual power is conferred in baptism, for the non-baptized are not able to receive the effects of the other sacraments, and hence, accordingly, they are also not able to give them to others. And this is the first distinction, by which all the faithful people, to whom it belongs to take part in the sacraments, are together distinguished from others. There is another active spiritual power that is ordered to the administering of the sacraments, and the exercise of other sacred hierarchical actions; and this power is bestowed in confirmation and holy orders, as will be clear when we treat them in their own places. And since not all are agents in the ecclesiastical hierarchy (as, for instance, perfecting, purifying, and illuminating), as all are recipients of purification, illumination, and perfecting (as Dionysius says),Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 6, PG 3:530. therefore these two characters do not distinguish the people of God universally from others, but certain members of the people from others.***
+To the third question it should be said that just as in natural things there is an active power and a natural passive power, so also in spiritual things there is, as it were, a passive spiritual power by which a man is made receptive to spiritual actions. And this kind of spiritual power is conferred in baptism, for the non-baptized are not able to receive the effects of the other sacraments, and hence, accordingly, they are also not able to give them to others. And this is the first distinction, by which all the faithful people, to whom it belongs to take part in the sacraments, are together distinguished from others. There is another active spiritual power that is ordered to the administering of the sacraments, and the exercise of other sacred hierarchical actions; and this power is bestowed in confirmation and holy orders, as will be clear when we treat them in their own places. And since not all are agents in the ecclesiastical hierarchy (as, for instance, perfecting, purifying, and illuminating), as all are recipients of purification, illumination, and perfecting (as Dionysius says),Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 6, PG 3:530. therefore these two characters do not distinguish the people of God universally from others, but certain members of the people from others.  
 
 Reply Obj. 1: Baptism of blood does not have sacramental efficacy, but only meritorious efficacy; and thus, there is no spiritual power conferred there for hierarchical actions, nor is there a character as in baptism of water, which is a sacrament.  
 
@@ -277,7 +279,7 @@ Reply Obj. 2: Neither baptism of spirit alone nor baptism of water alone suffice
 
 Response to Quaestiuncula 4  
 
-***To the fourth question it should be said that every effect in creation is commonly from the whole Trinity; hence the character, too, is not only from the Son, but from the three Persons. However, it is attributed to the Son on the one hand because of the account of likeness to what is proper to the Person, since he is image and figure by appropriation, or the character of the Father; on the other hand, because the virtue of Christ’s Passion is working in the sacraments.***
+To the fourth question it should be said that every effect in creation is commonly from the whole Trinity; hence the character, too, is not only from the Son, but from the three Persons. However, it is attributed to the Son on the one hand because of the account of likeness to what is proper to the Person, since he is image and figure by appropriation, or the character of the Father; on the other hand, because the virtue of Christ’s Passion is working in the sacraments.  
 
 And by this the solution to the objections is clear.  
 
@@ -285,7 +287,7 @@ Question 2
 
 ***The effects of baptism***
 
-***Next we will inquire as to the effect of baptism, which is the reality and not the sacrament; and concerning this, three questions arise:***
+Next we will inquire as to the effect of baptism, which is the reality and not the sacrament; and concerning this, three questions arise:  
 
 first, its effect as to the removal of evil;  
 
@@ -297,7 +299,7 @@ first, its effect as to the removal of evil;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: *In II Sent.*, d. 32, q. 1, a. 1, arg. 1 and a. 2, ad 3; below, d. 12, q. 2, a. 2, qa. 1, ad 3; d. 14, q. 2, a. 1, qa. 2, ad 3; d. 17, q. 2, a. 2, qa. 6, ad 3; *ST* III, q. 69, a. 1; q. 79, a. 5, ad 1; *SCG* IV, chs. 69 & 72. It seems that baptism does not remove actual fault. For baptism does not take away actual sin unless contrition is present: for no one who is constituted arbiter of his own will, which is the only place actual sin can be, can embark upon a new life unless he repents of his old life, as it says in the text. But contrition in and of itself, even without baptism, blots out actual fault. Therefore, baptism does nothing toward the effacement of actual fault.***
+Obj. 1: To the first we proceed thus.Parallels: *In II Sent.*, d. 32, q. 1, a. 1, arg. 1 and a. 2, ad 3; below, d. 12, q. 2, a. 2, qa. 1, ad 3; d. 14, q. 2, a. 1, qa. 2, ad 3; d. 17, q. 2, a. 2, qa. 6, ad 3; *ST* III, q. 69, a. 1; q. 79, a. 5, ad 1; *SCG* IV, chs. 69 & 72. It seems that baptism does not remove actual fault. For baptism does not take away actual sin unless contrition is present: for no one who is constituted arbiter of his own will, which is the only place actual sin can be, can embark upon a new life unless he repents of his old life, as it says in the text. But contrition in and of itself, even without baptism, blots out actual fault. Therefore, baptism does nothing toward the effacement of actual fault.  
 
 Obj. 2: Furthermore, there are different medicines for different things: since *what heals the heel does not heal the eye*, as Jerome says.See Pseudo-Jerome, *Expositio Euangelii secundum Marcum*, ch. 9: *medicina cuiusque uulneris adhibenda est ei. Non sanat oculum quod calcaneo adhibetur* (CCSL 82:42). But baptism is directly ordained as a medicine against original sin. Therefore, it cannot heal from actual sin.  
 
@@ -309,7 +311,7 @@ Furthermore (2), baptism is ordered to the removal of original fault. But origin
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it does not take away all the temporal punishment due to actual sin.Parallels: below, d. 14, q. 2, a. 1, qa. 2, ad 3; d. 18, q. 1, a. 3, qa. 2; *In III Sent*., d. 19, a. 3, qa. 2 and exposition of the text; *ST* III, q. 49, a. 3, ad 2; q. 68, a. 5; q. 69, a. 2; q. 79, a. 5, ad 1; q. 86, a. 4, ad 3; *SCG* IV, chs. 59 & 72; *Super Rom*. 11, lec. 4. For as Augustine says, either man punishes sin, or God does.See Augustine, *Exposition of Psalm 58* (CCSL 39), n. 13: “iniquitas omnis, parua magna ue sit, puniatur necesse est, aut ab ipso homine paenitente, aut a deo uindicante.” Therefore, if man did not punish a sin that he himself had committed, it would be punished by God; and in this way, the punishment for actual sin is not completely taken away by baptism.***
+Obj. 1: Moreover, it seems that it does not take away all the temporal punishment due to actual sin.Parallels: below, d. 14, q. 2, a. 1, qa. 2, ad 3; d. 18, q. 1, a. 3, qa. 2; *In III Sent*., d. 19, a. 3, qa. 2 and exposition of the text; *ST* III, q. 49, a. 3, ad 2; q. 68, a. 5; q. 69, a. 2; q. 79, a. 5, ad 1; q. 86, a. 4, ad 3; *SCG* IV, chs. 59 & 72; *Super Rom*. 11, lec. 4. For as Augustine says, either man punishes sin, or God does.See Augustine, *Exposition of Psalm 58* (CCSL 39), n. 13: “iniquitas omnis, parua magna ue sit, puniatur necesse est, aut ab ipso homine paenitente, aut a deo uindicante.” Therefore, if man did not punish a sin that he himself had committed, it would be punished by God; and in this way, the punishment for actual sin is not completely taken away by baptism.  
 
 Obj. 2: Furthermore, guilt can only be ordered by punishment. But God leaves nothing disordered. Therefore, he does not forgive anything without inflicting a certain penalty for the fault; and thus baptism does not absolve from all punishment.  
 
@@ -321,7 +323,7 @@ Furthermore (2), as is said in the Gloss on Romans 6:6, by suffering his single 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it also removes every punishment of original sin.Parallels: below, d. 46, q. 2, a. 2, qa. 1, ad 3; *In II Sent*., d. 32, q. 1, a. 2; d. 44, q. 2, a. 2, ad 2 & 3; *ST* I-II, q. 85, a. 5, ad 2; q. 87, a. 7, ad 1; q. 109, a. 9; *ST* II-II, q. 104, a. 6, ad 1; *ST* III, q. 49, a. 3, ad 3; q. 52, a. 5, ad 2; q. 69, a. 3 and a. 7, ad 3; *SCG* IV, ch. 55; *De malo*, q. 4, a. 6, ad 4; *Quodl*. VI, q. 9, a. 1. For the gift of Christ is more efficacious than the sin of Adam, as the Apostle says in Romans 5. But every punishment for original sin was incurred through the sin of Adam. Therefore, every punishment is taken away by the gift of Christ, which is most at work in baptism.***
+Obj. 1: Moreover, it seems that it also removes every punishment of original sin.Parallels: below, d. 46, q. 2, a. 2, qa. 1, ad 3; *In II Sent*., d. 32, q. 1, a. 2; d. 44, q. 2, a. 2, ad 2 & 3; *ST* I-II, q. 85, a. 5, ad 2; q. 87, a. 7, ad 1; q. 109, a. 9; *ST* II-II, q. 104, a. 6, ad 1; *ST* III, q. 49, a. 3, ad 3; q. 52, a. 5, ad 2; q. 69, a. 3 and a. 7, ad 3; *SCG* IV, ch. 55; *De malo*, q. 4, a. 6, ad 4; *Quodl*. VI, q. 9, a. 1. For the gift of Christ is more efficacious than the sin of Adam, as the Apostle says in Romans 5. But every punishment for original sin was incurred through the sin of Adam. Therefore, every punishment is taken away by the gift of Christ, which is most at work in baptism.  
 
 Obj. 2: Furthermore, baptism is ordered more directly against original sin than against actual sin. But it takes away all the punishment due to actual sin, as Ambrose says.In the reference just above. Therefore, it also takes away all the punishment for original sin.  
 
@@ -335,7 +337,7 @@ Furthermore (2), the necessity of dying, and of being reduced to dust, and the s
 
 Response to Quaestiuncula 1  
 
-***The first question I answer by saying that in the generation of anything, the introduction of a form drives out all contrary forms, and even the disposition to the contrary form—except sometimes when it remains from an indisposition of the thing receiving the form. Hence, since baptism is a regeneration unto spiritual life, everything that is contrary to spiritual life, i.e., that cannot coexist with grace which is the principle of spiritual life, is removed by baptism; and thus, baptism wipes away both original sin and actual mortal sin, and considered in itself even wipes away venial sin, which disposes to a privation of grace, although sometimes when mortal sin is removed, venial sin may remain after baptism because of an indisposition of the one receiving baptism.***
+The first question I answer by saying that in the generation of anything, the introduction of a form drives out all contrary forms, and even the disposition to the contrary form—except sometimes when it remains from an indisposition of the thing receiving the form. Hence, since baptism is a regeneration unto spiritual life, everything that is contrary to spiritual life, i.e., that cannot coexist with grace which is the principle of spiritual life, is removed by baptism; and thus, baptism wipes away both original sin and actual mortal sin, and considered in itself even wipes away venial sin, which disposes to a privation of grace, although sometimes when mortal sin is removed, venial sin may remain after baptism because of an indisposition of the one receiving baptism.  
 
 Reply Obj. 1: For the destruction of actual sin, baptism does not require contrition as a co-cause as though it were not sufficient for this by itself, but it requires contrition only to avoid its being received insincerely, which is a contrary disposition impeding baptism’s effect.  
 
@@ -345,7 +347,7 @@ Reply Obj. 3: Baptism, of itself, as has been said, removes all sin, original an
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that by his own death Christ sufficiently satisfied for the sins of the entire human race—even if there had been many more of them. And since by baptism man is baptized into the death of Christ, and dies and is buried together with him, as it says in Romans 6, for this reason baptism, considered in itself, imparts the whole efficacy of the Passion to the baptized; and because of this it absolves not only from fault, but from the punishment for satisfaction.***
+To the second question, it should be said that by his own death Christ sufficiently satisfied for the sins of the entire human race—even if there had been many more of them. And since by baptism man is baptized into the death of Christ, and dies and is buried together with him, as it says in Romans 6, for this reason baptism, considered in itself, imparts the whole efficacy of the Passion to the baptized; and because of this it absolves not only from fault, but from the punishment for satisfaction.  
 
 Reply Obj. 1: By baptism man is incorporated into Christ and made his member; thus, the punishment that Christ underwent is reputed as satisfaction for him, for if one member suffers, all the others suffer with it, as is said in 1 Corinthians 12:26. And thus, God in Christ punished those sins, as is said: *the Lord has laid on him the iniquity of us all* (Isa 53:6).  
 
@@ -355,7 +357,7 @@ Reply Obj. 3: Although the Eucharist is a memorial of the Passion of Christ, nev
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in original sin the progression was such that a person corrupted the nature, and the nature corrupts the person. Hence, one thing is considered in this sin that pertains to the nature, and another that pertains to the person. Now, Christ’s Passion sufficiently took away original sin as to both. But since the sacrament is applied to persons, for this reason baptism takes away from man whatever redounded into the person from the corruption of the nature; and because of this, baptism removes the very infection of fault insofar as it affects the person, and that punishment which the person’s act incurred, namely, the loss of the divine vision; but it does not actually remove the infection as it affects the nature, which is clear by the fact that a baptized person transmits original sin to his offspring by the act of nature. Likewise, neither does it remove the punishments that follow upon the principles of nature when stripped of the grace of the first state of innocence, of which sort are the rebellion of the flesh against the spirit, death, and other penalties like that, which follow from the fact that man is composed of contraries both as regards his body and, in a certain way, as regards his soul, namely, in the sensual appetite and the intellect. But by baptismal grace it is brought about that these remaining punishments do not dominate in the person but rather are subjected to him, and they fall to his benefit, inasmuch as they are the matter of virtue, and the occasion of humility and discipline.***
+To the third question, it should be said that in original sin the progression was such that a person corrupted the nature, and the nature corrupts the person. Hence, one thing is considered in this sin that pertains to the nature, and another that pertains to the person. Now, Christ’s Passion sufficiently took away original sin as to both. But since the sacrament is applied to persons, for this reason baptism takes away from man whatever redounded into the person from the corruption of the nature; and because of this, baptism removes the very infection of fault insofar as it affects the person, and that punishment which the person’s act incurred, namely, the loss of the divine vision; but it does not actually remove the infection as it affects the nature, which is clear by the fact that a baptized person transmits original sin to his offspring by the act of nature. Likewise, neither does it remove the punishments that follow upon the principles of nature when stripped of the grace of the first state of innocence, of which sort are the rebellion of the flesh against the spirit, death, and other penalties like that, which follow from the fact that man is composed of contraries both as regards his body and, in a certain way, as regards his soul, namely, in the sensual appetite and the intellect. But by baptismal grace it is brought about that these remaining punishments do not dominate in the person but rather are subjected to him, and they fall to his benefit, inasmuch as they are the matter of virtue, and the occasion of humility and discipline.  
 
 Reply Obj. 1: The Passion of Christ, in the manner of a cause, sufficiently removes both that evil which is of the person and that which is of the nature. But since all men share in nature, the effect, according to the shared law of the healing of nature, will not be until the end of the world, when, with all the elect already gathered, together with them the rest of insensible creation will also be freed from its servitude to corruption, as it says in Romans 8:21.  
 
@@ -371,7 +373,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second we proceed thus.Parallels: *ST* II-II, q. 47, a. 14, ad 3; *ST* III, q. 69, a. 6. It seems that by baptism, grace and virtues are not conferred on children. For Augustine says in his book *On the Baptism of Infants*: *the faith that exists in the will of believers does not make infants members of the faithful, but rather the sacrament of faith does*.See Augustine, *Epistle 98, to Boniface*, n. 10: “Itaque parvulum etsi nondum fides illa, quae in credentium voluntate consistit, iam tamen ipsius fidei sacramentum fidelem facit” (CSEL 34.2:531). But the faith that is a virtue exists in the will of believers, as was said in Book III, Distinction 23, Question 2, Article 3, Subquestion 1. Therefore, baptized infants do not have the virtue of faith, and by the same argument neither do they have other virtues that also exist in the will.***
+Obj. 1: To the second we proceed thus.Parallels: *ST* II-II, q. 47, a. 14, ad 3; *ST* III, q. 69, a. 6. It seems that by baptism, grace and virtues are not conferred on children. For Augustine says in his book *On the Baptism of Infants*: *the faith that exists in the will of believers does not make infants members of the faithful, but rather the sacrament of faith does*.See Augustine, *Epistle 98, to Boniface*, n. 10: “Itaque parvulum etsi nondum fides illa, quae in credentium voluntate consistit, iam tamen ipsius fidei sacramentum fidelem facit” (CSEL 34.2:531). But the faith that is a virtue exists in the will of believers, as was said in Book III, Distinction 23, Question 2, Article 3, Subquestion 1. Therefore, baptized infants do not have the virtue of faith, and by the same argument neither do they have other virtues that also exist in the will.  
 
 Obj. 2: Furthermore, if anything is newly received into something, either the recipient or the one infusing must be different than before. But the soul of a baptized child does not carry itself differently after he is baptized than before, for he has no proper motion, lacking the use of free will; nor does God, who is the one infusing grace and virtues. Therefore, children do not receive grace and virtues in baptism.  
 
@@ -385,7 +387,7 @@ Furthermore (2), no one is admitted to glory unless he has the nuptial garment, 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that in adults, virtues are not increased by baptism.Parallels: above, d. 3, q. 1, a. 1, qa. 3; below, d. 9, a. 1, qa. 2; d. 18, q. 1, a. 3, qa. 1; *ST* III, q. 69, a. 4. For the increase of virtues happens by merit, since, according to Augustine, charity merits an increase so that once increased, it may merit also to be perfected.See Augustine, *Epistle 186*, ch. 3, n. 10: “ipsa gratia meretur augeri, ut aucta mereatur et perfici” (CSEL 57:53). But in baptism, no merit of the baptized works for the work being performed. Therefore, by this work being performed, the virtues are not increased in baptism.***
+Obj. 1: Moreover, it seems that in adults, virtues are not increased by baptism.Parallels: above, d. 3, q. 1, a. 1, qa. 3; below, d. 9, a. 1, qa. 2; d. 18, q. 1, a. 3, qa. 1; *ST* III, q. 69, a. 4. For the increase of virtues happens by merit, since, according to Augustine, charity merits an increase so that once increased, it may merit also to be perfected.See Augustine, *Epistle 186*, ch. 3, n. 10: “ipsa gratia meretur augeri, ut aucta mereatur et perfici” (CSEL 57:53). But in baptism, no merit of the baptized works for the work being performed. Therefore, by this work being performed, the virtues are not increased in baptism.  
 
 Obj. 2: Furthermore, in the one who has already reached his determinate quantity, physical food does not cause growth. But it can be that someone before baptism reaches the quantity of baptismal grace that a child receives, in whom there is no impediment. Therefore, baptism adds nothing above grace.  
 
@@ -393,7 +395,7 @@ On the contrary, commenting on the Psalm: *he has led me beside waters of refres
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the effect of baptism is not illumination.Parallels: above, d. 3, q. 1, a. 1, qa. 4, ad 3; a. 3, qa. 1; d. 5, q. 2, a. 1, qa. 2; d. 8, q. 1, a. 1, qa. 1, ad 1; *ST* III, q. 69, a. 5. For illumination relates to teaching. But the teaching of the faith happens through catechising, which precedes baptism. Therefore, it is not the effect of baptism.***
+Obj. 1: Moreover, it seems that the effect of baptism is not illumination.Parallels: above, d. 3, q. 1, a. 1, qa. 4, ad 3; a. 3, qa. 1; d. 5, q. 2, a. 1, qa. 2; d. 8, q. 1, a. 1, qa. 1, ad 1; *ST* III, q. 69, a. 5. For illumination relates to teaching. But the teaching of the faith happens through catechising, which precedes baptism. Therefore, it is not the effect of baptism.  
 
 Obj. 2: Furthermore, illumination is ordered against ignorance. But according to some, baptism is not directed against ignorance, but rather holy orders is. Therefore, illumination is not an effect of baptism, but rather of holy orders.  
 
@@ -401,7 +403,7 @@ On the contrary, DamasceneJohn Damascene, *On the Orthodox Faith*, Bk. 4, ch. 9 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that making one fruitful is not an effect of baptism.See the preceding qa. 3. For that by which one actively generates and that by which one is passively generated are not the same. But baptism is the passive regeneration of the baptized. Therefore, since fruitfulness implies active generation, it seems that it does not pertain to baptism.***
+Obj. 1: Moreover, it seems that making one fruitful is not an effect of baptism.See the preceding qa. 3. For that by which one actively generates and that by which one is passively generated are not the same. But baptism is the passive regeneration of the baptized. Therefore, since fruitfulness implies active generation, it seems that it does not pertain to baptism.  
 
 Obj. 2: Furthermore, fruitfulness is a property that results from something attaining its own perfect state, for, as is said in *Meteorology* 4,Aristotle, *Meteorology*, Bk. 4, ch. 3, 380a14–16; cf. *On the Soul*, Bk. 2, ch. 4, 415a26–30. a thing is perfect when it can generate another. But according to Dionysius,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 3 (PG 3:503). baptism is not ordered toward perfecting, like the Eucharist and confirmation, but rather toward illuminating and purifying. Therefore, baptism does not have fruitfulness as one of its effects.  
 
@@ -409,7 +411,7 @@ On the contrary, the Gloss says on that phrase of the Psalm: *on the water of re
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that being incorporated into Christ is not an effect of baptism.See the preceding qa. 3. For someone is incorporated into Christ and his members by formed faith, as the Master said in Book III, Distinction 23. But even before baptism, someone might have formed faith. Therefore, incorporation is not an effect of baptism.***
+Obj. 1: Moreover, it seems that being incorporated into Christ is not an effect of baptism.See the preceding qa. 3. For someone is incorporated into Christ and his members by formed faith, as the Master said in Book III, Distinction 23. But even before baptism, someone might have formed faith. Therefore, incorporation is not an effect of baptism.  
 
 Obj. 2: Furthermore, incorporation is an effect of the Eucharist. But different sacraments are not ordained to the same effect. Therefore, this is not an effect of baptism.  
 
@@ -417,7 +419,7 @@ On the contrary, Augustine says to Boniface, that in baptism one is made a membe
 
 Quaestiuncula 6  
 
-***Obj. 1: Moreover, it seems that the opening of the door of heaven is not an effect of baptism.Parallels: *In III Sent*., d. 18, a. 6, qa. 3, ad 2; *ST* III, q. 39, a. 5; q. 69, a. 7; *SCG* IV, ch. 59. For before Christ’s Passion, some people were baptized. But the door was not open to them at that time, for if some of them then died, they did not enter the kingdom. Therefore, baptism does not open the door of the kingdom of heaven.***
+Obj. 1: Moreover, it seems that the opening of the door of heaven is not an effect of baptism.Parallels: *In III Sent*., d. 18, a. 6, qa. 3, ad 2; *ST* III, q. 39, a. 5; q. 69, a. 7; *SCG* IV, ch. 59. For before Christ’s Passion, some people were baptized. But the door was not open to them at that time, for if some of them then died, they did not enter the kingdom. Therefore, baptism does not open the door of the kingdom of heaven.  
 
 Obj. 2: Furthermore, baptism represents Christ’s Passion, not his resurrection, as it seems. But in the resurrection the door is opened, as is clear from the Collect that is said on Easter: *O God, who, on this day, through Thine Only-begotten, hast, by having conquered death, unsealed to us the entrance to eternity*. Therefore, this effect should not be attributed to baptism.  
 
@@ -425,7 +427,7 @@ On the contrary, is the authority of Bede cited above, Distinction 1, that circu
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that there are several opinions about this. For certain people have said that no virtues at all are given to infants in baptism, but they are only cleansed from original sin; but afterward, when they die or when they arrive at adulthood, virtues are conferred on them, if they have preserved their innocence. But this opinion cannot stand: for *wood, when it has been cut, will stay where it falls* (Eccl 11:3). And therefore if virtues, as well as operating and cooperating grace, were not conferred on children before they died, neither will they be conferred on them in death, and then they would not be saved, which is false. However, this opinion seems to have come from believing virtues to be only their acts, which is false, as was said in Book II, Distinction 27, Question 1, Article 1.***
+To the first question, I answer that there are several opinions about this. For certain people have said that no virtues at all are given to infants in baptism, but they are only cleansed from original sin; but afterward, when they die or when they arrive at adulthood, virtues are conferred on them, if they have preserved their innocence. But this opinion cannot stand: for *wood, when it has been cut, will stay where it falls* (Eccl 11:3). And therefore if virtues, as well as operating and cooperating grace, were not conferred on children before they died, neither will they be conferred on them in death, and then they would not be saved, which is false. However, this opinion seems to have come from believing virtues to be only their acts, which is false, as was said in Book II, Distinction 27, Question 1, Article 1.  
 
 And thus, others say that grace and virtues are given to children in baptism, not in themselves, but in their root, namely, grace, which is the root of all the virtues, just as the essence of the soul is the root of the powers of the soul. But afterward, when the powers are released, once the organs are completed, the virtues flow out into those powers from the very essence of the soul. But this cannot be so for many reasons, since then if the child should go mad before reaching adulthood, the powers would never be released in him, and then he would never have the virtues explicitly; and furthermore, because if the powers were bound by some impediment, it would impede the act, not the habit, for people who are sleeping and drunk have habits, but those habits are hampered.  
 
@@ -441,7 +443,7 @@ Reply Obj. 4: A habit makes one capable of acting by taking away the incapacity 
 
 Response to Quaestiuncula 2  
 
-***To the second question, I answer that a virtue is generated and increased by the same causes, as the Philosopher says in the *Ethics* 2;Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103b7. and thus, since it belongs to baptism to confer virtue and grace on those who do not have them, it must also increase them in those who do have them.***
+To the second question, I answer that a virtue is generated and increased by the same causes, as the Philosopher says in the *Ethics* 2;Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103b7. and thus, since it belongs to baptism to confer virtue and grace on those who do not have them, it must also increase them in those who do have them.  
 
 Reply Obj. 1: Although in baptism the merit of the baptized is not at work, nevertheless the merit of Christ is at work there, which is more efficacious.  
 
@@ -449,7 +451,7 @@ Reply Obj. 2: Grace does not have any determinate limit to which it extends, or 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it must be said that light is that by which we are led to the vision of a certain thing. Now, baptism leads to external and interior spiritual vision: interior, inasmuch as baptism is called the sacrament of faith, which makes the eye of the mind suited to seeing divine things; and external, because it is granted to the baptized and not to others to gaze upon the sacred Eucharist, as Dionysius says;Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, n. 7 (PG 3:436). and thus both Damascene and Dionysius attribute illuminative force to baptism.***
+To the third question, it must be said that light is that by which we are led to the vision of a certain thing. Now, baptism leads to external and interior spiritual vision: interior, inasmuch as baptism is called the sacrament of faith, which makes the eye of the mind suited to seeing divine things; and external, because it is granted to the baptized and not to others to gaze upon the sacred Eucharist, as Dionysius says;Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, n. 7 (PG 3:436). and thus both Damascene and Dionysius attribute illuminative force to baptism.  
 
 Reply Obj. 1: Faith comes chiefly from infusion, and in this regard is given by baptism; but as to its determination, it comes from hearing; and thus man is prepared for faith by catechism.  
 
@@ -457,7 +459,7 @@ Reply Obj. 2: ‘Science’ says more than ‘illumination’. For it implies co
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be answered that fruitfulness is said in two ways. In one way, with respect to the fruit produced in whatever is said to be made fruitful, as operations of the virtues are called certain fruits of good; and in this way the soul is made fruitful in baptism, since in it the virtues are given to those who do not have them and are increased in those who do have them. In another way, fruitfulness is said with respect to the fruit produced in another, as when someone brings about fruit in the people of God by teaching and pastoral care; and in this way fruitfulness does not pertain to baptism but more to the sacrament of Orders.***
+To the fourth question, it should be answered that fruitfulness is said in two ways. In one way, with respect to the fruit produced in whatever is said to be made fruitful, as operations of the virtues are called certain fruits of good; and in this way the soul is made fruitful in baptism, since in it the virtues are given to those who do not have them and are increased in those who do have them. In another way, fruitfulness is said with respect to the fruit produced in another, as when someone brings about fruit in the people of God by teaching and pastoral care; and in this way fruitfulness does not pertain to baptism but more to the sacrament of Orders.  
 
 Reply Obj. 1: That by which something has generation in a certain nature is that by which it performs the operations of that nature. And thus, since by baptism man is regenerated unto spiritual life, by it man is also made actively fruitful, and, as it were, a generator of spiritual works.  
 
@@ -465,7 +467,7 @@ Reply Obj. 2: That argument deals with the second kind of making fruitful.
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be answered that to be incorporated into Christ happens in two ways, namely, by merit, and in number. For by merit someone can indeed be made part of the Church (which is to be incorporated into Christ) even before actually receiving baptism, although after the time of revealed grace this does not happen before a person plans to be baptized or is baptized. But someone cannot be made a member of the Church in number except by baptism; hence no one is admitted to the reception of the Eucharist and the other sacraments before he has been baptized, as was said before.***
+To the fifth question, it should be answered that to be incorporated into Christ happens in two ways, namely, by merit, and in number. For by merit someone can indeed be made part of the Church (which is to be incorporated into Christ) even before actually receiving baptism, although after the time of revealed grace this does not happen before a person plans to be baptized or is baptized. But someone cannot be made a member of the Church in number except by baptism; hence no one is admitted to the reception of the Eucharist and the other sacraments before he has been baptized, as was said before.  
 
 Reply Obj. 1: That objection deals with the first kind of incorporation.  
 
@@ -473,7 +475,7 @@ Reply Obj. 2: The reception of the Eucharist absolutely presupposes incorporatio
 
 Response to Quaestiuncula 6  
 
-***To the sixth question, it should be said that for the gate of the heavenly kingdom to be opened is nothing other than to remove the impediment by which the entrance to the heavenly kingdom was blocked for the whole of human nature. This impediment, therefore, was absolutely removed for all men sufficiently by the Passion of Christ; but that removal happens effectively in any particular person according as he is now made a participant of Christ’s Passion by baptism; and so baptism, in the manner of an instrumental cause, opens the gate of the heavenly kingdom with respect to that particular person, but the Passion does so as a satisfactory cause with respect to all.***
+To the sixth question, it should be said that for the gate of the heavenly kingdom to be opened is nothing other than to remove the impediment by which the entrance to the heavenly kingdom was blocked for the whole of human nature. This impediment, therefore, was absolutely removed for all men sufficiently by the Passion of Christ; but that removal happens effectively in any particular person according as he is now made a participant of Christ’s Passion by baptism; and so baptism, in the manner of an instrumental cause, opens the gate of the heavenly kingdom with respect to that particular person, but the Passion does so as a satisfactory cause with respect to all.  
 
 Reply Obj. 1: The reason for this was that Christ’s Passion, by the power of which baptism acts, had not yet happened; nor had the entrance to heaven been opened by it. Hence, this argument proves that baptism would not have this power as a principal cause.  
 
@@ -485,7 +487,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third we proceed thus.Parallel: *ST* III, q. 69, a. 8. It seems that baptism does not have an equal effect on all as to the removal of evil. For in adults it removes actual and original sin; but in children, only original sin. Therefore, it effects more in adults than in children as to the removal of evil.***
+Obj. 1: To the third we proceed thus.Parallel: *ST* III, q. 69, a. 8. It seems that baptism does not have an equal effect on all as to the removal of evil. For in adults it removes actual and original sin; but in children, only original sin. Therefore, it effects more in adults than in children as to the removal of evil.  
 
 Obj. 2: Furthermore, the mitigation of the kindling for sin is an effect of baptism. But after baptism this kindling is found to be more mitigated in certain people than in others. Therefore, baptism is more efficacious in them for removing evil.  
 
@@ -493,7 +495,7 @@ On the contrary, baptism has efficacy for removing evil according as it has a ce
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that in baptism equal grace, too, is conferred on all who do not receive it insincerely. For in baptism Christ’s Passion is at work, which has, in a way, infinite efficacy. But something finite added to the infinite does not make anything greater. Therefore, since the devotion of the one approaching baptism, which is greater in one person than in another, is a certain finite good, it seems that neither devotion nor anything else of the sort could make it so that all did not obtain an equal grace in baptism.***
+Obj. 1: Moreover, it seems that in baptism equal grace, too, is conferred on all who do not receive it insincerely. For in baptism Christ’s Passion is at work, which has, in a way, infinite efficacy. But something finite added to the infinite does not make anything greater. Therefore, since the devotion of the one approaching baptism, which is greater in one person than in another, is a certain finite good, it seems that neither devotion nor anything else of the sort could make it so that all did not obtain an equal grace in baptism.  
 
 Obj. 2: Furthermore, a cooperating cause is not required for obtaining the effect of baptism, but only for the removal of any impediment. But no one receives grace in baptism unless impediments be removed from him. Therefore, all receive equal grace.  
 
@@ -501,7 +503,7 @@ On the contrary, Damascene saysJohn Damascene, *On the Orthodox Faith*, Bk. 4, c
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that neither do infants obtain equal grace in baptism. For among the angels, grace was infused according to the quantity of natural endowments. But one child has better natural endowments than another. Therefore, he also receives greater grace in baptism.***
+Obj. 1: Moreover, it seems that neither do infants obtain equal grace in baptism. For among the angels, grace was infused according to the quantity of natural endowments. But one child has better natural endowments than another. Therefore, he also receives greater grace in baptism.  
 
 Obj. 2: Furthermore, some people, who preserve their baptismal innocence until the end, receive final grace in baptism, but others do not.“Final grace” is what we would call today the grace of perseverance. Therefore among infants, too, some obtain greater grace than others.  
 
@@ -509,7 +511,7 @@ On the contrary, baptismal grace in infancy is not opposed to anything but origi
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that baptism, in anyone who does not receive it insincerely, universally removes any guilt infecting the person that it finds, as has been said, and in this way it attains an extreme.Parallels: below, d. 6, q. 1, a. 2, qa. 3, ad 2; d. 23, q. 2, a. 2, qa. 3, ad 2; d. 25, q. 2, a. 1, ad 2; d. 34, a. 4, ad 1; *ST* I-II, q. 113, a. 3, ad 1; *ST* III, q. 68, a. 12; *De veritate*, q. 28, a. 3, ad 2. Now things that are in the extreme cannot receive extension, and therefore as to the removal of guilt, baptism has an equal effect in all; and it is the same with the personal punishment, which corresponds to original sin as it infects the person, namely, the loss of the divine vision. But against any other punishment following upon the principles of corrupted nature, such as concupiscence or the kindling for sin, a remedy is applied in baptism, so that through the grace conferred in baptism they may not dominate. And so it is the same with that punishment as with grace.***
+To the first question, I answer that baptism, in anyone who does not receive it insincerely, universally removes any guilt infecting the person that it finds, as has been said, and in this way it attains an extreme.Parallels: below, d. 6, q. 1, a. 2, qa. 3, ad 2; d. 23, q. 2, a. 2, qa. 3, ad 2; d. 25, q. 2, a. 1, ad 2; d. 34, a. 4, ad 1; *ST* I-II, q. 113, a. 3, ad 1; *ST* III, q. 68, a. 12; *De veritate*, q. 28, a. 3, ad 2. Now things that are in the extreme cannot receive extension, and therefore as to the removal of guilt, baptism has an equal effect in all; and it is the same with the personal punishment, which corresponds to original sin as it infects the person, namely, the loss of the divine vision. But against any other punishment following upon the principles of corrupted nature, such as concupiscence or the kindling for sin, a remedy is applied in baptism, so that through the grace conferred in baptism they may not dominate. And so it is the same with that punishment as with grace.  
 
 Reply Obj. 1: It is not from baptism’s efficacy that it does not destroy as many sins in one person as in another, but it is because it did not find as many in one person as in another; for in anyone it destroys all the sins that it finds.  
 
@@ -517,7 +519,7 @@ Reply Obj. 2: That objection concerns the second kind of punishment, which can b
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the acts of active things are received in a passive thing according to its own disposition; and so, although baptism in itself (as also Christ’s Passion, which is at work in it) is related equally to all, nevertheless, since some people approach baptism with a greater preparation of faith and devotion than others, for this reason some people obtain greater grace. For no one receives a maximum grace such that it could not be extended by baptism.***
+To the second question, it should be said that the acts of active things are received in a passive thing according to its own disposition; and so, although baptism in itself (as also Christ’s Passion, which is at work in it) is related equally to all, nevertheless, since some people approach baptism with a greater preparation of faith and devotion than others, for this reason some people obtain greater grace. For no one receives a maximum grace such that it could not be extended by baptism.  
 
 Reply Obj. 1: The devotion of the baptized is not added in the manner of a cooperating cause, such that it would act efficiently for the reception of grace; but it is added in the manner of a material disposition. And therefore the effect of baptism is participated in according to this diversity.  
 
@@ -525,7 +527,7 @@ Reply Obj. 2: When an adult is baptized, in order to receive baptism’s effect 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that for the baptism of infants, nothing is required on their part; but for a disposition to salvation, they have, as it were, the faith of the Church, and for the bringing about of salvation, the power of Christ’s Passion, which is at work in baptism. And these two things are equally related to infants, and thus they do not differ in receiving the effect of baptism, but all receive equal grace.***
+To the third question, it should be said that for the baptism of infants, nothing is required on their part; but for a disposition to salvation, they have, as it were, the faith of the Church, and for the bringing about of salvation, the power of Christ’s Passion, which is at work in baptism. And these two things are equally related to infants, and thus they do not differ in receiving the effect of baptism, but all receive equal grace.  
 
 Reply Obj. 1: It is not the same with infants as with angels, for the angels differ in species, according to the opinion of many, but infants do not; hence there is not such a great difference in natural endowments among infants as among angels. Or it could be said that among the angels the proportion of exertion that was required on their part was also in proportion to the level of their natural endowments, and therefore they received grace according to the proportion of their natural endowments; but among infants no act is required on their part, so it is not the same.  
 
@@ -535,19 +537,18 @@ Question 3
 
 ***The recipients of baptism***
 
-***Then inquiry is made about those receiving baptism; and about this, three questions arise:***
+Then inquiry is made about those receiving baptism; and about this, three questions arise:  
 
 first, about infants and others lacking the use of reason, who everyone agrees do receive the sacrament and the reality of the sacrament;  
 
 - second, about the insincere, who receive the sacrament and not the reality of the sacrament;
 - third, about those baptized with the baptism of the spirit and of blood, who do not receive the sacrament but do receive the reality of the sacrament.
 - Article 1
-
-***About infants and others lacking the use of reason, who everyone agrees do receive the sacrament and the reality of the sacrament***
+About infants and others lacking the use of reason, who everyone agrees do receive the sacrament and the reality of the sacrament  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: below, d. 9, a. 5, qa. 4, ad 2; d. 18, q. 1, a. 3, qa. 1; *ST* I-II, q. 113, a. 3, ad 1; *ST* III, q. 68, a. 9; *De malo*, q. 4, a. 1; *Quodl.* IV, q. 7, a. 1 and q. 12, a. 1. It seems that infants cannot receive the sacrament. For it says at the end of Mark (16:16): *whoever believes and is baptized, will be saved*; from which it is evident that believing is presupposed for baptism. But children cannot believe, for they are not able to think about anything with assent. Therefore, infants cannot receive the sacrament of baptism.***
+Obj. 1: To the first we proceed thus.Parallels: below, d. 9, a. 5, qa. 4, ad 2; d. 18, q. 1, a. 3, qa. 1; *ST* I-II, q. 113, a. 3, ad 1; *ST* III, q. 68, a. 9; *De malo*, q. 4, a. 1; *Quodl.* IV, q. 7, a. 1 and q. 12, a. 1. It seems that infants cannot receive the sacrament. For it says at the end of Mark (16:16): *whoever believes and is baptized, will be saved*; from which it is evident that believing is presupposed for baptism. But children cannot believe, for they are not able to think about anything with assent. Therefore, infants cannot receive the sacrament of baptism.  
 
 Obj. 2: Furthermore, in baptism there comes to be a certain obligation in a man to those things that are to be kept in the Christian faith. But an obligation cannot arise except in someone who is established as arbiter of his own will. Therefore, infants cannot receive the sacrament of baptism.  
 
@@ -559,7 +560,7 @@ Furthermore (2), baptism replaces circumcision. But circumcision was conferred o
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it would be better if baptism were deferred, rather than being given right away in infancy, unless a necessity of imminent death arose.Parallels: below, d. 6, q. 2, a. 1, qa. 2, ad 1; d. 17, q. 3, a. 1, qa. 4; *ST* III, q. 39, a. 3, ad 1; q. 68, a. 3. For every action of Christ is for our instruction. But Christ willed to receive baptism in the thirtieth year of his life, as is said in Luke 3:23. Therefore, among us it should likewise be deferred until adulthood.***
+Obj. 1: Moreover, it seems that it would be better if baptism were deferred, rather than being given right away in infancy, unless a necessity of imminent death arose.Parallels: below, d. 6, q. 2, a. 1, qa. 2, ad 1; d. 17, q. 3, a. 1, qa. 4; *ST* III, q. 39, a. 3, ad 1; q. 68, a. 3. For every action of Christ is for our instruction. But Christ willed to receive baptism in the thirtieth year of his life, as is said in Luke 3:23. Therefore, among us it should likewise be deferred until adulthood.  
 
 Obj. 2: Furthermore, effective medicine should be taken when it will help most. But baptism would help most at the end of one’s life, or at least in adulthood; for then it would wash away all the crimes of adolescence and youth. Therefore, it should be deferred until then.  
 
@@ -571,7 +572,7 @@ Furthermore (2), it is better to impede evil lest it occur, than to destroy it w
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that baptism should not be given to adults lacking the use of reason. For in adults, not only is original sin washed away through baptism, but also actual sins as well. But against actual sin that someone has committed himself, the proper movement of free will is required [as a condition for baptism]. Therefore, to these adults who do not have the use of free will, baptism should not be given.***
+Obj. 1: Moreover, it seems that baptism should not be given to adults lacking the use of reason. For in adults, not only is original sin washed away through baptism, but also actual sins as well. But against actual sin that someone has committed himself, the proper movement of free will is required [as a condition for baptism]. Therefore, to these adults who do not have the use of free will, baptism should not be given.  
 
 Obj. 2: Furthermore, a sacrament should not be administered to anyone speaking against it. But sometimes the mentally disabled and insane speak against it. Therefore, baptism should not be given to them.  
 
@@ -583,7 +584,7 @@ Furthermore (2), infants who never had the use of reason are baptized. Therefore
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that different states of the world are compared to the different ages of one man, as Augustine says in the *Eighty-Three Questions*.Augustine, *de Diuersis quaestionibus octoginta tribus* (CCSL 44A), qu. 58: *”*sunt enim aetates sex etiam in uno homine: infantia, pueritia, adolescentia, iuuentus, grauitas et senectus.” Hence as there was no state of the world in which the path of salvation was closed off to the human race, so too there is no state of a man in which the path of salvation is closed off to him. Hence, since there is original sin in infants, by which they are prevented from obtaining eternal salvation, it is necessary that some remedy be applied to them to remove this impediment. But this is baptism. Hence, whoever denies that baptism can be administered to infants speaks against divine mercy; and thus to say this is heresy.***
+To the first question, I answer that different states of the world are compared to the different ages of one man, as Augustine says in the *Eighty-Three Questions*.Augustine, *de Diuersis quaestionibus octoginta tribus* (CCSL 44A), qu. 58: *”*sunt enim aetates sex etiam in uno homine: infantia, pueritia, adolescentia, iuuentus, grauitas et senectus.” Hence as there was no state of the world in which the path of salvation was closed off to the human race, so too there is no state of a man in which the path of salvation is closed off to him. Hence, since there is original sin in infants, by which they are prevented from obtaining eternal salvation, it is necessary that some remedy be applied to them to remove this impediment. But this is baptism. Hence, whoever denies that baptism can be administered to infants speaks against divine mercy; and thus to say this is heresy.  
 
 Reply Obj. 1: Although infants do not have the act of faith, nevertheless, they have the habit that they receive in baptism, just as they also have the habit of other virtues. But if the word of the Lord were understood about the act of faith, then it is to be referred to those only who were to be instructed by the teaching of the Apostles, of whom it is said, *preach the Gospel to all creation* (Mark 16:15); for none of those to whom the Gospel was preached should have been baptized unless he believed.  
 
@@ -593,7 +594,7 @@ Reply Obj. 3: Just as it is not fitting to send a man into battle immediately af
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it is more praiseworthy that infants be baptized as soon as conveniently possible, not waiting for a mature age, for three reasons. First, because, on account of the weakness of nature, they can easily die and be damned; hence, in order to avoid the danger of damnation, baptism should come to them beforehand. Second, on account of the attacks of demons, who do not have as much power, whether for spiritual harm or for bodily harm, among baptized children cleansed of original sin as they do among those who still have it. Third, because in infancy a man can be more easily led to something and it will stick with him more firmly, as the Philosopher says in the *Ethics* 2, Chapter 1: *to have been accustomed to something immediately from youth makes no small difference, but a great one; or rather, all the difference*; Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103b23–25. and Dionysius gives this reason at the end of the *Ecclesiastical Hierarchy*, where he says: *however the high priest hands the child to the sacred symbols*, that is, sacramental signs, *so that he may be familiar with them, and may not form any other life than the one that always contemplates divine things*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 7, n. 11 (PG 3:567).***
+To the second question, it should be said that it is more praiseworthy that infants be baptized as soon as conveniently possible, not waiting for a mature age, for three reasons. First, because, on account of the weakness of nature, they can easily die and be damned; hence, in order to avoid the danger of damnation, baptism should come to them beforehand. Second, on account of the attacks of demons, who do not have as much power, whether for spiritual harm or for bodily harm, among baptized children cleansed of original sin as they do among those who still have it. Third, because in infancy a man can be more easily led to something and it will stick with him more firmly, as the Philosopher says in the *Ethics* 2, Chapter 1: *to have been accustomed to something immediately from youth makes no small difference, but a great one; or rather, all the difference*; Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103b23–25. and Dionysius gives this reason at the end of the *Ecclesiastical Hierarchy*, where he says: *however the high priest hands the child to the sacred symbols*, that is, sacramental signs, *so that he may be familiar with them, and may not form any other life than the one that always contemplates divine things*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 7, n. 11 (PG 3:567).  
 
 Reply Obj. 1: Christ received baptism as the one instituting it and consecrating it. To announce the way of salvation, however, pertains to the office of teacher or priest; and thus, he could not be baptized before the age of maturity that befits a teacher or priest. Nor is it the same with others who receive baptism so that they might be helped by it.  
 
@@ -603,7 +604,7 @@ Reply Obj. 3: Baptismal grace is not through man’s acquisition but by the gift
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that a distinction must be made about the mentally disabled. For some have been mentally disabled from birth, and never have any lucid intervals; and for these, the same judgment holds as for infants. But some have incurred mental disability from an illness or something of the sort, and they do have certain lucid intervals; and for these people it should be said that if before they incurred mental disability, or during lucid intervals, they had planned to receive baptism, then they can be baptized if there be necessity, and they can receive the sacrament of baptism as well as the reality of the sacrament, even if, at the moment they are baptized, the mental disability has returned and they actually dissent. However, if they spoke against baptism before the mental disability, they do not receive either the sacrament or the reality of the sacrament.***
+To the third question, it should be said that a distinction must be made about the mentally disabled. For some have been mentally disabled from birth, and never have any lucid intervals; and for these, the same judgment holds as for infants. But some have incurred mental disability from an illness or something of the sort, and they do have certain lucid intervals; and for these people it should be said that if before they incurred mental disability, or during lucid intervals, they had planned to receive baptism, then they can be baptized if there be necessity, and they can receive the sacrament of baptism as well as the reality of the sacrament, even if, at the moment they are baptized, the mental disability has returned and they actually dissent. However, if they spoke against baptism before the mental disability, they do not receive either the sacrament or the reality of the sacrament.  
 
 Reply Obj. 1: Just as in an adult who has the use of reason, the movement of free will, which he has while he is baptized, disposes him to receive baptismal grace, so also does the movement of free will in a mentally disabled person, which he had when he was of sound mind.  
 
@@ -613,11 +614,11 @@ Reply Obj. 3: People are not to be baptized while sleeping, unless they are in d
 
 Article 2  
 
-***About the insincere, who receive the sacrament and not the reality of the sacrament***
+About the insincere, who receive the sacrament and not the reality of the sacrament  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second we proceed thus.Parallels: above, q. 2, a. 1, qa. 1, ad 3; d. 12, q. 2, a. 1, qa. 3, ad 3; *ST* III, q. 69, a. 9; q. 87, a. 3, ad 2. It seems that no indisposition of the human will could impede the effect of baptism. For things that are by nature are more permanent than things that are by will. But original sin is a sin of the nature, yet it does not impede baptism’s effect. Therefore, neither can any indisposition of the will impede baptism in its effect.***
+Obj. 1: To the second we proceed thus.Parallels: above, q. 2, a. 1, qa. 1, ad 3; d. 12, q. 2, a. 1, qa. 3, ad 3; *ST* III, q. 69, a. 9; q. 87, a. 3, ad 2. It seems that no indisposition of the human will could impede the effect of baptism. For things that are by nature are more permanent than things that are by will. But original sin is a sin of the nature, yet it does not impede baptism’s effect. Therefore, neither can any indisposition of the will impede baptism in its effect.  
 
 Obj. 2: Furthermore, in natural things an indisposition of matter does not completely impede an agent’s effect, except when the contrary disposition in the matter is stronger than the agent’s power, as is seen when the wetness of wood is compared to the heat of a fire. But divine power, which is invisibly working our salvation in the sacraments, as Augustine says,Cf. Isidore, *Etymologiarum* (ed. Lindsay), Bk. 6, ch. 19, par. 40. is more powerful than any indisposition whatsoever of our will. Therefore, the effect of baptism cannot completely be taken away because of an indisposition of the will.  
 
@@ -629,7 +630,7 @@ Furthermore (2), according to Augustine, *he who created you without you will no
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that an indisposition of the will like this should not be called insincerity. For the will can be indisposed to receive baptismal grace by every genus of sin. But insincerity is a special sin, because it is opposed to a special virtue, namely, truthfulness, as is clear from what the Philosopher says in the *Ethics* 4.Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 7, 1127a20. Therefore, it should not be called the universal impediment to baptismal grace.***
+Obj. 1: Moreover, it seems that an indisposition of the will like this should not be called insincerity. For the will can be indisposed to receive baptismal grace by every genus of sin. But insincerity is a special sin, because it is opposed to a special virtue, namely, truthfulness, as is clear from what the Philosopher says in the *Ethics* 4.Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 7, 1127a20. Therefore, it should not be called the universal impediment to baptismal grace.  
 
 Obj. 2: Furthermore, Augustine says that he is insincere who does not believe.Augustine, *On Baptism Against the Donatists*, Bk. 1, ch. 12, par. 18 (CSEL 51:162); cf. Bk. 7, ch. 53, par. 101 (CSEL 51:372). But just as faith is given in baptism, so too are the other virtues, and especially charity, by which one becomes a child of God. Therefore, insincerity should not be considered an impediment to baptism, any more than what is opposed to the other virtues.  
 
@@ -641,7 +642,7 @@ Obj. 5: Furthermore, in another way someone is said to be insincere by Augustine
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that baptism would not have its effect once the insincerity has ended.Parallels: above, d. 1, q. 2, a. 4, qa. 1, ad 3; d. 15, q. 1, a. 3, qa. 3, ad 2; *ST* III, q. 69, a. 10. For the work of the dead is never to be brought to life, as will be said later in Distinction 14. But whatever happens in mortal sin is called the work of the dead. Since, then, someone who approaches baptism insincerely is in mortal sin, that baptism will never bring him to life such that it would confer grace on him.***
+Obj. 1: Moreover, it seems that baptism would not have its effect once the insincerity has ended.Parallels: above, d. 1, q. 2, a. 4, qa. 1, ad 3; d. 15, q. 1, a. 3, qa. 3, ad 2; *ST* III, q. 69, a. 10. For the work of the dead is never to be brought to life, as will be said later in Distinction 14. But whatever happens in mortal sin is called the work of the dead. Since, then, someone who approaches baptism insincerely is in mortal sin, that baptism will never bring him to life such that it would confer grace on him.  
 
 Obj. 2: Furthermore, the effect of baptism is to absolve from all fault and punishment. But this does not happen when the insincerity has ended, for such a one is not absolved from the punishment of the sins he has committed after baptism, otherwise it would be of greater efficacy to people receiving it insincerely than to others for whom it does not accomplish the wiping out of subsequent sins. Therefore, baptism does not have its effect once the insincerity has stopped.  
 
@@ -653,7 +654,7 @@ Furthermore (2), a remedy can be applied to any fault in the wayfaring state. Bu
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that there are two effects of baptism. The first is the reality-and-sacrament, which is the character. And because the character is not imprinted for preparing man’s will so that something might be done well, since it is not a habit, but a power, as has been said, for this reason an indisposition of will does not impede this effect, as long as the will to receive the sacrament exists in some way. The other effect is that which is reality and not sacrament, namely, grace and the things that follow from it, by which man’s will is prepared to cooperate well; and thus, to receive *this* effect, not just any will to receive the sacrament suffices, but it requires the kind of will from which all indisposition contrary to baptismal grace is removed, for contrary things cannot coexist; hence, while a contrary disposition remains, baptism could not have its final effect.For more about the sacrament alone, reality alone, and sacrament-and-reality, see the footnote at Dist.1, q.1, a.4, qa. 1, main response.***
+To the first question, I answer that there are two effects of baptism. The first is the reality-and-sacrament, which is the character. And because the character is not imprinted for preparing man’s will so that something might be done well, since it is not a habit, but a power, as has been said, for this reason an indisposition of will does not impede this effect, as long as the will to receive the sacrament exists in some way. The other effect is that which is reality and not sacrament, namely, grace and the things that follow from it, by which man’s will is prepared to cooperate well; and thus, to receive *this* effect, not just any will to receive the sacrament suffices, but it requires the kind of will from which all indisposition contrary to baptismal grace is removed, for contrary things cannot coexist; hence, while a contrary disposition remains, baptism could not have its final effect.For more about the sacrament alone, reality alone, and sacrament-and-reality, see the footnote at Dist.1, q.1, a.4, qa. 1, main response.  
 
 Reply Obj. 1: By the very fact that original sin is not something voluntary in a person’s will, it is not capable of causing a certain disposition in the will, wherein the final effect of baptism should be effected; and thus, it cannot impede the effect of baptism.  
 
@@ -663,7 +664,7 @@ Reply Obj. 3: Just as in what looks to the being of nature, God works certain th
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that for someone to receive the effect of a certain agent, it is necessary that he have the due disposition to the acting cause, as well as to the effect to be received. And thus, there are two kinds of indisposition of the will that impede the final effect of baptism: one in its ordering to the sacrament itself, the other in its ordering to the sacrament’s effect.***
+To the second question, it should be said that for someone to receive the effect of a certain agent, it is necessary that he have the due disposition to the acting cause, as well as to the effect to be received. And thus, there are two kinds of indisposition of the will that impede the final effect of baptism: one in its ordering to the sacrament itself, the other in its ordering to the sacrament’s effect.  
 
 Now toward the sacrament itself, the will can be indisposed in two ways: one way by the removal of what is necessary; another way, by the lodging of something contrary. Since every action is by contact, however, the one receiving the sacrament must somehow make contact with it, both by the intellect, which makes contact through faith, as well as by the affections, which make contact through devotion. And thus, someone is considered indisposed who does not believe, as is he who approaches without devotion. Likewise, there are two contraries that must be taken away. One is on the part of the things that are done outwardly; and indisposed in this way is he who celebrates otherwise than the Church does. The other is on the part of the internal power that secretly works salvation; and this is how someone who scorns the sacrament is indisposed.  
 
@@ -681,7 +682,7 @@ Reply Obj. 5: We are not speaking here about the contempt of someone who rejects
 
 Response to Quaestiuncula 3  
 
-***To the third question, I answer that in baptism a character is imprinted, which is the immediate cause disposing one to grace; and thus, since insincerity does not take away the character, once the insincerity that was impeding the effect of the character has ended, the character, which is present in the soul, begins to have its effect; and in this way, baptism obtains its effect once the insincerity has ceased.***
+To the third question, I answer that in baptism a character is imprinted, which is the immediate cause disposing one to grace; and thus, since insincerity does not take away the character, once the insincerity that was impeding the effect of the character has ended, the character, which is present in the soul, begins to have its effect; and in this way, baptism obtains its effect once the insincerity has ceased.  
 
 Reply Obj. 1: Baptism has efficacy not only by the action of the one doing it, but still more from the action itself being accomplished, which is a work of God and not of man; and thus, it cannot be a work of the dead.  
 
@@ -691,11 +692,11 @@ Reply Obj. 3: In the Eucharist, no character is imprinted by virtue of which som
 
 Article 3  
 
-***About those baptized with the baptism of the spirit and of blood, who do not receive the sacrament but do receive the reality of the sacrament***
+About those baptized with the baptism of the spirit and of blood, who do not receive the sacrament but do receive the reality of the sacrament  
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third, we proceed thus.Parallels: *ST* III, q. 66, a. 11; *Quodl.* VI, q. 3, a. 1; *Super Ioan*. 3, lec. 1. It seems that, besides baptism of water, there should not be other baptisms. For in all things that are of one species, there is one manner of generation. But baptism is regeneration unto spiritual life, which has the same account in all who are generated. Therefore, there should not be regeneration except in one manner, and so there should be only baptism of water.***
+Obj. 1: To the third, we proceed thus.Parallels: *ST* III, q. 66, a. 11; *Quodl.* VI, q. 3, a. 1; *Super Ioan*. 3, lec. 1. It seems that, besides baptism of water, there should not be other baptisms. For in all things that are of one species, there is one manner of generation. But baptism is regeneration unto spiritual life, which has the same account in all who are generated. Therefore, there should not be regeneration except in one manner, and so there should be only baptism of water.  
 
 Obj. 2: Furthermore, baptism is condivided against the other sacraments of the New Law. But the other sacraments do not exist in multiple forms, for there are not several confirmations or priesthoods, and the same holds for the others. Therefore, besides the baptism of water, there should not be any other baptism.  
 
@@ -707,7 +708,7 @@ Furthermore (2), commenting on the text *instruction about baptisms* (Heb 6:2), 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that baptism of repentance does not suffice for salvation.Parallels: *ST* III, q. 66, a. 11; *Quodl*. VI, q. 3, a. 1; *Super Ioan*. 3, lec. 1. For the baptismal character seems to be one of the things pertaining to salvation, in the fact that by it the people of God are distinguished from those not of the people of God. But no character is imprinted by the baptism of repentance. Therefore, it does not suffice for salvation.***
+Obj. 1: Moreover, it seems that baptism of repentance does not suffice for salvation.Parallels: *ST* III, q. 66, a. 11; *Quodl*. VI, q. 3, a. 1; *Super Ioan*. 3, lec. 1. For the baptismal character seems to be one of the things pertaining to salvation, in the fact that by it the people of God are distinguished from those not of the people of God. But no character is imprinted by the baptism of repentance. Therefore, it does not suffice for salvation.  
 
 Obj. 2: Furthermore, once a sufficient cause is given, it seems superfluous to add other causes. If therefore baptism of repentance sufficed for salvation in cases of imminent need, then once the emergency was over, the person would not have to be baptized with the baptism of water, which is false.  
 
@@ -719,7 +720,7 @@ Furthermore (2), it is said, *the grace of God is eternal life* (Rom 6:23). But 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that baptism of blood does not take the place of baptism of water.Parallels: *ST* III, q. 66, a. 11; *Quodl*. VI, q. 3, a. 1; *Super Ioan*. 3, lec. 1. For baptism of water has its efficacy by the work done, but baptism of blood only by the work of the one doing it; hence, without charity it would be no benefit, as is said in 1 Corinthians 13:1–3. But in children, nothing has efficacy by the work of the one doing it, because they do not have the use of free will. Therefore, in them, baptism of blood cannot take the place of baptism of water.***
+Obj. 1: Moreover, it seems that baptism of blood does not take the place of baptism of water.Parallels: *ST* III, q. 66, a. 11; *Quodl*. VI, q. 3, a. 1; *Super Ioan*. 3, lec. 1. For baptism of water has its efficacy by the work done, but baptism of blood only by the work of the one doing it; hence, without charity it would be no benefit, as is said in 1 Corinthians 13:1–3. But in children, nothing has efficacy by the work of the one doing it, because they do not have the use of free will. Therefore, in them, baptism of blood cannot take the place of baptism of water.  
 
 Obj. 2: Furthermore, in the baptism of blood, there is nothing but suffering and the reason for it. But sometimes the suffering is not proportionate to taking away the whole punishment due to sins; nor would even devotion to the reason for the suffering, when someone suffers for God, suffice for doing this. Therefore, baptism of blood does not always take away the whole punishment due to sin, and so, it would not take the place of baptism of water in everything.  
 
@@ -731,7 +732,7 @@ Furthermore (2), baptism of water has efficacy from the Passion of Christ, to wh
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that baptism of water is more powerful than baptism of blood.Parallels: *ST* III, q. 66, a. 12; *Super Heb*. 6, lec. 1. For baptism of blood has its effect by the work of the one doing it, who is the one suffering. But baptism of water has its efficacy from the Passion of Christ. Therefore, since the Passion of Christ is more effective than the work of some mere man acting, baptism of water will be nobler than baptism of blood.***
+Obj. 1: Moreover, it seems that baptism of water is more powerful than baptism of blood.Parallels: *ST* III, q. 66, a. 12; *Super Heb*. 6, lec. 1. For baptism of blood has its effect by the work of the one doing it, who is the one suffering. But baptism of water has its efficacy from the Passion of Christ. Therefore, since the Passion of Christ is more effective than the work of some mere man acting, baptism of water will be nobler than baptism of blood.  
 
 Obj. 2: Furthermore, by baptism of water, grace is given to man through which the golden crown is owed to him, but by baptism of blood a man is owed a special reward.The “golden crown” or *aurea* refers to the essential reward of heaven, the beatific vision, while the “special reward” or *aureola*, literally the little golden crown, refers to an additional reward given for some outstanding manifestation of Christian virtue. Therefore, since the golden crown is nobler than any special reward, baptism of water will also be nobler than baptism of blood.  
 
@@ -739,7 +740,7 @@ On the contrary, on this text: *Take the meat and the unleavened cakes, and put 
 
 Response to Quaestiuncula 1  
 
-***The first question I answer by saying that, properly speaking, there is only one baptism, which is celebrated in water under a determinate form of words, of which the Lord says: *teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit* (Matt 28:19). The other kinds are called baptisms by their order to this baptism, and this in three ways.***
+The first question I answer by saying that, properly speaking, there is only one baptism, which is celebrated in water under a determinate form of words, of which the Lord says: *teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit* (Matt 28:19). The other kinds are called baptisms by their order to this baptism, and this in three ways.  
 
 In the first way, something is called a baptism as being a sign of this baptism; and this is the way the Flood is called a baptism, inasmuch as it signifies our baptism with respect to the salvation of the spiritual life by the salvation of the human race that happened then in the ark, as is clear from 1 Peter 3:20; and the crossing of the Red Sea, which signifies our baptism with respect to liberation from slavery to demons, as is clear from 1 Corinthians 10:1–2; and the washings that were done under the law, which signify our baptism in the purification of sins that happened in it.  
 
@@ -755,7 +756,7 @@ Reply Obj. 3: The two baptisms that the Master mentions in the text do not resem
 
 Response to Quaestiuncula 2  
 
-***To the second question, I answer that something is said to be sufficient for salvation in two ways. In one way, simply and absolutely; and in this way, baptism of repentance without baptism of water is not sufficient for salvation. In another way, in a certain respect and in certain cases; and in this way, it is sufficient, when a moment of dire need prevents the sacrament from being actually received. For at times like that, although there is repentance without actual baptism, it is nevertheless with the desire and intention of baptism; and the will is counted in place of the deed for someone who does not have the time to act.***
+To the second question, I answer that something is said to be sufficient for salvation in two ways. In one way, simply and absolutely; and in this way, baptism of repentance without baptism of water is not sufficient for salvation. In another way, in a certain respect and in certain cases; and in this way, it is sufficient, when a moment of dire need prevents the sacrament from being actually received. For at times like that, although there is repentance without actual baptism, it is nevertheless with the desire and intention of baptism; and the will is counted in place of the deed for someone who does not have the time to act.  
 
 Reply Obj. 1: The account of the baptismal character is the same as of the outward washing with water: both are, simply speaking, necessary for salvation, but in certain cases the intention suffices, when a moment of dire need prevents the sacrament.  
 
@@ -765,7 +766,7 @@ Reply Obj. 3: Although the age of children makes them more deserving of mercy, n
 
 Response to Quaestiuncula 3  
 
-***To the third question, I answer that baptism of water has its efficacy from the Passion of Christ, inasmuch as it represents the Passion sacramentally; however, baptism of blood conforms one to the Passion of Christ not by a sacramental representation, but in reality. And therefore, in those things that are sacramental, like the imprinting of the character and things of that sort, baptism of blood does not supply the place of baptism of water; but in the fact that it is the reality alone, it completely supplies the place of baptism of water, when a dire need prevents the sacrament. For just as man is freed from all existing fault and punishment by the baptism of water, so too in the baptism of blood.***
+To the third question, I answer that baptism of water has its efficacy from the Passion of Christ, inasmuch as it represents the Passion sacramentally; however, baptism of blood conforms one to the Passion of Christ not by a sacramental representation, but in reality. And therefore, in those things that are sacramental, like the imprinting of the character and things of that sort, baptism of blood does not supply the place of baptism of water; but in the fact that it is the reality alone, it completely supplies the place of baptism of water, when a dire need prevents the sacrament. For just as man is freed from all existing fault and punishment by the baptism of water, so too in the baptism of blood.  
 
 Reply Obj. 1: Baptism of blood does not have this efficacy only by the work of the one doing it—neither as regards the punishment by which someone completes martyrdom, which sometimes happens to be not sufficient for satisfying for sins, nor as regards the devotion of a just will, for it sometimes happens that someone with a will informed by greater charity cannot be freed from all punishment without martyrdom; but rather, it has this efficacy by its imitation of the Passion of Christ. Hence it is said of the martyrs, *they have washed their robes in the blood of the Lamb* (Rev 7:14); and thus, although children do not have the use of free will, if they are killed for Christ, they are saved, baptized in his blood.  
 
@@ -775,7 +776,7 @@ Reply Obj. 3: In other works or states of supererogation or perfection, and even
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it is to be said that either of these baptisms has its efficacy from the Passion of Christ, according as each conforms one to it. And since baptism of water conforms someone to the Passion by sacramental signification, but baptism of blood does it in reality, for this reason, in regard to sacramental things, like the imprint of the character and such, baptism of water is superior. But in regard to those things that are the reality of the sacrament, baptism of blood is superior, for in baptism of blood the grace is both increased more in the one who has it, and given more to the one who does not have it, if there is no impediment to it; and although the remission of sins is no greater, since both baptisms take away all fault and punishment, nevertheless, it is more efficacious and fruitful in the baptism of blood, since one is not soiled by second stains, as Damascene says.In the text cited immediately above. For what some people say, that in baptism of blood grace is not conferred, appears to be false in the case of the children who are killed for Christ, and also the adults, to whom grace can be given in the very act of suffering, just like in the baptism of water, if they are disposed to it and do not place any obstacle to the Holy Spirit. And this is clear from Augustine, who, comparing these baptisms, says: *the baptized person professes his faith before the priest, the martyr, before his persecutor; the former is sprinkled with water after his profession, the latter, with blood; the former receives the Holy Spirit by the imposition of the hands of the bishop, the latter is made a temple of the Holy Spirit*.St. Thomas attributed this quotation to Augustine’s *Ad Fortunatus*, but it is found in Gennadius Massiliensis, *De ecclesiasticis dogmatibus*, ch. 41 (PL 58:1220). But no one is made a temple of the Holy Spirit except by receiving grace.***
+To the fourth question, it is to be said that either of these baptisms has its efficacy from the Passion of Christ, according as each conforms one to it. And since baptism of water conforms someone to the Passion by sacramental signification, but baptism of blood does it in reality, for this reason, in regard to sacramental things, like the imprint of the character and such, baptism of water is superior. But in regard to those things that are the reality of the sacrament, baptism of blood is superior, for in baptism of blood the grace is both increased more in the one who has it, and given more to the one who does not have it, if there is no impediment to it; and although the remission of sins is no greater, since both baptisms take away all fault and punishment, nevertheless, it is more efficacious and fruitful in the baptism of blood, since one is not soiled by second stains, as Damascene says.In the text cited immediately above. For what some people say, that in baptism of blood grace is not conferred, appears to be false in the case of the children who are killed for Christ, and also the adults, to whom grace can be given in the very act of suffering, just like in the baptism of water, if they are disposed to it and do not place any obstacle to the Holy Spirit. And this is clear from Augustine, who, comparing these baptisms, says: *the baptized person professes his faith before the priest, the martyr, before his persecutor; the former is sprinkled with water after his profession, the latter, with blood; the former receives the Holy Spirit by the imposition of the hands of the bishop, the latter is made a temple of the Holy Spirit*.St. Thomas attributed this quotation to Augustine’s *Ad Fortunatus*, but it is found in Gennadius Massiliensis, *De ecclesiasticis dogmatibus*, ch. 41 (PL 58:1220). But no one is made a temple of the Holy Spirit except by receiving grace.  
 
 Reply Obj. 1: Baptism of blood, too, has its efficacy from the Passion of Christ, to which it conforms more expressly than baptism of water.  
 
@@ -783,7 +784,7 @@ Reply Obj. 2: In baptism of blood one merits not only a special reward, but also
 
 Exposition of the Text  
 
-****All children who in baptism are cleansed from original sin, receive both the sacrament and thing*.Peter Lombard, *Sententiae* IV, 4.1 (26). 2. However, not only little ones, but also sometimes adults. Nevertheless, with infants there is no doubt that they receive it; there is, however, with adults, for they can impede it by insincerity; and therefore he uses children in his example instead.***
+*All children who in baptism are cleansed from original sin, receive both the sacrament and thing*.Peter Lombard, *Sententiae* IV, 4.1 (26). 2. However, not only little ones, but also sometimes adults. Nevertheless, with infants there is no doubt that they receive it; there is, however, with adults, for they can impede it by insincerity; and therefore he uses children in his example instead.  
 
 *“Unless he repent of his old life.”**Sent*. IV, 4.2 (27), 2, citing Pseudo-Augustine, *Sermo* 351 or *Liber de poenitentia*, ch. 2, n. 2. To the contrary: then baptism is not the first sacrament, but repentance. And it should be said that he speaks of repentance as a virtue, not as a sacrament.  
 

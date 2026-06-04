@@ -1,5 +1,7 @@
 # Evening Collation
 
+***Ecce rex tuus*** etc. Dictum fuit hodie quod in verbis istis possumus videre adventus Christi demonstrationem, ibi: ***ecce***; venientis conditionem: ***rex tuus***; venientis utilitatem: ***venit tibi***; modum vel humilitatem quia ***mansuetus***. Circa primum dictum fuit quod per hoc quod dico: "ecce" solemus intelligere rei certificationem, temporis determinationem, manifestationem et confortationem.  
+
 Similiter de conditione advenientis dictum fuit quod est ***rex*** et quod rex quatuor importat, scilicet unitatem, plenariam potestatem, amplam iurisdictionem et iustitiae equitatem. Et dictum fuit quod adventus alicuius exequitur, nuntiatur vel expectatur cum solemnitate propter duo, scilicet propter magnitudinem vel propter amicitiam vel affinitatem. Et ista duo fuerunt in Christo quia fuit rex et amicus noster et propinquus et propter hoc dicitur ***rex noster***.  
 
 Ubi notandum quod ipse Deus rex est universae creaturae sicut dicitur in Iudith: *Deus* noster *Creator aquarum et* rex universae *creaturae*. Specialiter autem Christus dicitur ***rex tuus***, scilicet hominis, propter quatuor:  

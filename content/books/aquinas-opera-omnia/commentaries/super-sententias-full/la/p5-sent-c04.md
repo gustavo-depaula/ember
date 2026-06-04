@@ -1,6 +1,8 @@
 # D. 3 - How the human nature was assumed
 
-***Ostenso quid Filius Dei in humana natura et quo ordine assumpserit, hic ostendit quale sit quod assumptum est;***
+***Divisio textus***
+
+Ostenso quid Filius Dei in humana natura et quo ordine assumpserit, hic ostendit quale sit quod assumptum est;  
 
 et dividitur in partes duas.  
 
@@ -58,7 +60,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod Beata Virgo sanctificata fuerit antequam conceptio carnis ejus finiretur.***
+Ad primum sic proceditur. Videtur quod Beata Virgo sanctificata fuerit antequam conceptio carnis ejus finiretur.  
 
 Sicut enim Apostolus dicit Rom. 11:16: *si radix sancta et rami*. Sed parentes comparantur ad prolem conceptam, sicut radix ad ramos. Ergo sanctificatis parentibus Virginis, sanctificatio ad ipsam pervenisset. Sed si in parentibus sanctificata esset,Bruges manuscript reads *fuisset*. sanctificatio conceptionem ejus praecessisset. Cum ergo credendum sit ei collatum esse quidquid conferri potuit, videtur quod ante conceptionem sanctificata sit.  
 
@@ -72,7 +74,7 @@ Praeterea, unigenito Dei Filio singularis conceptio et partus debebatur. Sed Chr
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod ante animationem sanctificata fuerit. Ambrosius enim dicit Luc. 1:15, de Joanne Baptista: *nondum illi inerat spiritus vitae, et jam inerat spiritus gratiae*. Sed spiritus vitaeThe Vivès edition omits *vitae*. anima est. Ergo in Joanne Baptista gratia animam praevenit. Sed quod Joanni Baptistae concessum est, dubitari non debet Beatae Virgini concessum esse. Ergo et ipsa ante animationem sanctificata fuit.***
+Ulterius, videtur quod ante animationem sanctificata fuerit. Ambrosius enim dicit Luc. 1:15, de Joanne Baptista: *nondum illi inerat spiritus vitae, et jam inerat spiritus gratiae*. Sed spiritus vitaeThe Vivès edition omits *vitae*. anima est. Ergo in Joanne Baptista gratia animam praevenit. Sed quod Joanni Baptistae concessum est, dubitari non debet Beatae Virgini concessum esse. Ergo et ipsa ante animationem sanctificata fuit.  
 
 Praeterea, Jerem. 1:5, dicitur: *priusquam*The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *antequam*. *te formarem in utero, novi te*. Nec loquitur ibi de simpliciEd. omit *simplici*. notitia qua bonos et malos cognoscit, quia per hoc nulla praerogativa ostenderetur ipsius Jeremiae, ad quem dictaBruges manuscript reads *ipsa*. verba proferuntur. Ergo oportet intelligi de notitia approbationis. Sed haec notitia est solum bonorum et habentium gratiam. Ergo Jeremias antequam formaretur, gratiam habuit. Ergo et antequam animaretur, quia anima non infunditur nisi formato puerperio. Ergo multo amplius ante animationem Beata Virgo sanctificata fuit.  
 
@@ -84,7 +86,7 @@ Praeterea, contraria nata sunt fieri circa idem. Sed gratia sanctificationis pra
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod nec etiam ante nativitatem ex utero. Sicut enim dicit Augustinus: *sanctificatio qua singuli efficimur templum Dei, non nisi renatorum est*. Nemo autem renascitur nisi prius nascatur. Ergo nullus habet gratiam antequam nascatur. Sed sanctificatio est effectus gratiae. Ergo Beata Virgo in utero matris sanctificata non fuit.***
+Ulterius, videtur quod nec etiam ante nativitatem ex utero. Sicut enim dicit Augustinus: *sanctificatio qua singuli efficimur templum Dei, non nisi renatorum est*. Nemo autem renascitur nisi prius nascatur. Ergo nullus habet gratiam antequam nascatur. Sed sanctificatio est effectus gratiae. Ergo Beata Virgo in utero matris sanctificata non fuit.  
 
 Si dicatur quod est duplex nativitas, scilicet nativitas in utero quae conceptio dicitur, et nativitas ex utero quae communiter nativitas nominatur, et Beatae Virginis regenerationem sanctificationis praecessit nativitas in utero, sed non nativitas ex utero.  
 
@@ -100,7 +102,7 @@ Respondeo dicendum quod, sicut dicit Dionysius, c. 12, *De divin. nom*., *sancti
 
 Solutio 1  
 
-***Ad primam ergo quaestionem dicendum quod nullo modo in parentibus sanctificari potuit, neque etiam in ipso actu conceptionis ejus.***
+Ad primam ergo quaestionem dicendum quod nullo modo in parentibus sanctificari potuit, neque etiam in ipso actu conceptionis ejus.  
 
 Conditio enim spiritualisPLE: *spiritualis*. The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *specialis personalis*. a parentibus in prolem non transit, nisi sit ad naturamThe Piana, Antwerp, Nicolaï, Venice, and Parma editions add *corporalem*. pertinens; ut grammatica patris in filium non transit, quia perfectio personalis est. Unde et sanctificatio parentum in Beatam Virginem transfundi non potuit, nisi curatum esset in eis non solum idBruges manuscript reads *illud*. quod personae est, sed etiam idBruges manuscript reads *illud*. quod naturae est inquantum hujusmodi. Quod quidem Deus facere potuit, sed non decuit. Perfecta enim naturae curatio ad perfectionem gloriae pertinet. Et ideo sic in statu viae parentes ejus curati non fuerunt ut prolem suam sine peccato originali conciperent.The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *concipere possent*. Et ideo Beata Virgo in peccato originali fuit concepta, propter quod B. Bernardus *Epist*. 174 *ad Lugdunenses* scribit conceptionem illius celebrandam non esse, quamvis in quibusdam Ecclesiis ex devotione celebretur, non considerando conceptionem, sed potius sanctificationem. Quae quando determinate fuerit, incertum est.  
 
@@ -112,7 +114,7 @@ Ad tertium dicendum quod concubitus quo Beata Virgo concepta fuit, meritorius cr
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum estEd. omit *est*. quod sanctificatio Beatae Virginis non potuit esse decenter ante infusionem animae, quia gratiae nondum capax erat, sed nec etiam in ipso instanti infusionis, ut scilicet per gratiam tunc sibi infusam conservaretur, ne culpam originalem incurreret. Christus enim hoc singulariter in humano genere habet ut redemptione non egeat, quia caput nostrum est; sed omnibus convenit redimi per ipsum. Hoc autem esse non posset, si alia anima inveniretur quae nunquam originali macula infecta fuisset. Et ideo nec Beatae Virgini, nec alicui praeter Christum hoc concessum est.***
+Ad secundam quaestionem dicendum estEd. omit *est*. quod sanctificatio Beatae Virginis non potuit esse decenter ante infusionem animae, quia gratiae nondum capax erat, sed nec etiam in ipso instanti infusionis, ut scilicet per gratiam tunc sibi infusam conservaretur, ne culpam originalem incurreret. Christus enim hoc singulariter in humano genere habet ut redemptione non egeat, quia caput nostrum est; sed omnibus convenit redimi per ipsum. Hoc autem esse non posset, si alia anima inveniretur quae nunquam originali macula infecta fuisset. Et ideo nec Beatae Virgini, nec alicui praeter Christum hoc concessum est.  
 
 Ad primum circa hoc objectumEd. omit *circa hoc objectum* and have *ergo*. dicendum, quod haec verba de Joanne Baptista dicuntur pro tempore illo quando ad ingressum Matris Dei exultavit in utero, quod fuit in sexto mense a conceptione ejus, ut verba angeli ostendunt, Luc. 1:36. Unde constat quod tunc animam rationalem habebat. Et ideo vel per spiritum vitae non intelligitur anima rationalis, sed respiratio exterioris aeris; vel dicitur spiritus vitae, si intelligitur de anima, nondum inesse, quia nondum manifestabatur per modum quo dicuntur res fieri quando innotescunt.  
 
@@ -122,7 +124,7 @@ Ad tertium dicendum quod haec puritas soli homini Deo debebatur, ut ipse quasi u
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum estEd. omit *est*. quod Beata Virgo ante nativitatem ex utero sanctificata fuit: quod colligi potest ex hoc quod ipsa super omnes alios sanctos a peccato purior fuit, ut exThe Vivès edition adds *hac*. littera habetur, veluti divinae Sapientiae mater electa, in quam *nihil coinquinatum incurrit* ut dicitur Sap. 7:25. Unde cum haec puritas in quibusdam fuisse inveniatur ut ante nativitatem ex utero a peccato mundarentur, sicut de Joanne Baptista de quo legitur Luc. 1:15: *Spiritu Sancto replebitur adhuc ex utero matris suae*; et de Jeremia de quo dicitur Jerem. 1:5: *priusquam exires de ventre, sanctificavi te*; non est dubitandum hoc multo excellentius Matri Dei collatum fuisse.***
+Ad tertiam quaestionem dicendum estEd. omit *est*. quod Beata Virgo ante nativitatem ex utero sanctificata fuit: quod colligi potest ex hoc quod ipsa super omnes alios sanctos a peccato purior fuit, ut exThe Vivès edition adds *hac*. littera habetur, veluti divinae Sapientiae mater electa, in quam *nihil coinquinatum incurrit* ut dicitur Sap. 7:25. Unde cum haec puritas in quibusdam fuisse inveniatur ut ante nativitatem ex utero a peccato mundarentur, sicut de Joanne Baptista de quo legitur Luc. 1:15: *Spiritu Sancto replebitur adhuc ex utero matris suae*; et de Jeremia de quo dicitur Jerem. 1:5: *priusquam exires de ventre, sanctificavi te*; non est dubitandum hoc multo excellentius Matri Dei collatum fuisse.  
 
 Ad primum ergo dicendum quod verbum Augustini intelligendum est de regeneratione quae fit per legem communem, quod notatur in hoc quod dicit: *qua*The Vivès edition reads *quia*. *singuli efficimur templum Dei*. Haec enim sanctificatio fit per sacramenta quae per ministros Ecclesiae dispensantur, quorum operationi qui in maternis uteris sunt subjacere non possunt. Sed Deus gratiam sacramentis non alligavit. Unde praeter hunc modum in maternis uteris aliquos quodam privilegio sanctificat.  
 
@@ -132,11 +134,11 @@ Ad tertium dicendum quod quamvis sanctificatio Beatae Virginis in utero expresse
 
 Articulus 2  
 
-***Utrum Beatissima Virgo per sanctificationem in utero fuerit totaliter ab originali mundata***
+Utrum Beatissima Virgo per sanctificationem in utero fuerit totaliter ab originali mundata  
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod per sanctificationem in utero Dei Genitrix a peccato originali totaliter mundata non sit.***
+Ad secundum sic proceditur. Videtur quod per sanctificationem in utero Dei Genitrix a peccato originali totaliter mundata non sit.  
 
 Remota enim macula, reatus remanere non potest. Sed post sanctificationem originalis peccati adhuc reatus mansit in ea; quia si ante mortem Christi defuncta fuisset, visione divina caruisset. Ergo per sanctificationem a macula originali liberata non fuit.  
 
@@ -150,7 +152,7 @@ Praeterea, corruptio fomitis est causa quare dicere non possumus: "peccatum non 
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod sanctificationem in utero immunitatem a peccato actuali consecuta non sit. Sicut enim dicit Augustinus: *Maria per quam gestum est mysterium Incarnationis Salvatoris, in morte Domini dubitavit, non tamen in dubitatione permansit*. Sed dubitatio de fide peccatum est. Ergo non fuit a peccato omnino immunis.***
+Ulterius, videtur quod sanctificationem in utero immunitatem a peccato actuali consecuta non sit. Sicut enim dicit Augustinus: *Maria per quam gestum est mysterium Incarnationis Salvatoris, in morte Domini dubitavit, non tamen in dubitatione permansit*. Sed dubitatio de fide peccatum est. Ergo non fuit a peccato omnino immunis.  
 
 Praeterea, Ambrosius dicit super illud Luc. 1:35: *Spiritus Sanctus superveniet in te: superveniens Spiritus Sanctus in Virginem, mentem ipsius ab omni sorde vitiorum castificavit*. Sed sordes vitiorum ex peccato consequuntur. Ergo Beata Virgo post primam sanctificationem peccavit.  
 
@@ -162,7 +164,7 @@ Praeterea, Sap. 1:4, dicitur: *in malevolam animam non introibit sapientia, nec 
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod per secundam sanctificationem quae in conceptione Salvatoris fuit, confirmationem in bono consecuta non sit.Ed. read *fuerit*. Quod enim quis jam habet, adipisci ulterius non potest. Sed si Beata Virgo ex prima sanctificatione immunitatem a peccato habuit, ex tunc confirmata fuit. Non enim certitudo impeccabilitatis habetur nisi per justitiam confirmatam. Ergo per secundam sanctificationem confirmationem gratiae adepta non est.***
+Ulterius, videtur quod per secundam sanctificationem quae in conceptione Salvatoris fuit, confirmationem in bono consecuta non sit.Ed. read *fuerit*. Quod enim quis jam habet, adipisci ulterius non potest. Sed si Beata Virgo ex prima sanctificatione immunitatem a peccato habuit, ex tunc confirmata fuit. Non enim certitudo impeccabilitatis habetur nisi per justitiam confirmatam. Ergo per secundam sanctificationem confirmationem gratiae adepta non est.  
 
 Praeterea, in nullo qui purus viator fuerit liberum arbitrium confirmatum ad justitiam comprobari potest. Potentia enim peccandi et potentia moriendi ex eodem passu currere videntur, ut non prius tollatur potentia peccandi quam potentia moriendi. Sed Beata Virgo etiam postquam Salvatorem concepit, ante mortem suam pura viatrix fuit. Ergo in ea confirmatio justitiae non fuit.  
 
@@ -174,7 +176,7 @@ Praeterea, ubi est plenitudo lucis, habilitas ad tenebram non remanet. Sed in co
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem dicendum quod duplex sanctificatio Beatae Virginis esse dignoscitur: prima qua in utero sanctificata fuit; secunda in conceptione Salvatoris. Et quia sanctificatio emundationem a culpa dicit, quae sine gratia esse non potest, gratiae autem est firmitatem quamdam facere; ideo effectus sanctificationis in generali est duplex: scilicet emundare et confirmare. Et quantum ad utrumque secunda sanctificatio perfecitBruges and Brussels manuscripts read *perficit*. primam.***
+Respondeo ad primam quaestionem dicendum quod duplex sanctificatio Beatae Virginis esse dignoscitur: prima qua in utero sanctificata fuit; secunda in conceptione Salvatoris. Et quia sanctificatio emundationem a culpa dicit, quae sine gratia esse non potest, gratiae autem est firmitatem quamdam facere; ideo effectus sanctificationis in generali est duplex: scilicet emundare et confirmare. Et quantum ad utrumque secunda sanctificatio perfecitBruges and Brussels manuscripts read *perficit*. primam.  
 
 In prima enim, secundum quod ab omnibus communiter tenetur,Bruges manuscript reads *conceditur communiter*. a peccato originali quantum ad maculam et reatum purgata fuit. Sed de emundatione ejus a fomite diversimode opinantur.  
 
@@ -206,7 +208,7 @@ Ad quintum dicendum quod necessitas peccandi saltem venialiter provenit inThe Vi
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum estEd. omit *est*. quod sicut in prima sanctificatione fuit quaedam inchoatio emendationis,PLE: *emundationis*. remoto peccato originali quantum ad culpam et ligato fomite; ita etiam fuit quaedam inchoatio confirmationis, quia per gratiam sanctificantem immunitatem a peccato deinceps consecuta est. Quae quidem immunitas a tribus causabatur:The Nicolaï edition reads *causatur*. scilicet ex ligatione fomitis qui ad malum non incitabat; ex inclinationeBruges manuscript reads *per infusionem*. gratiae quae in bonum ordinabat, quamvis nondum per eam liberum arbitrium esset in fine ultimo stabilitum, sicut est in beatis qui ad finem viae pervenerunt; et iterum ex conservatione divinae providentiae quae eam intactam custodivit ab omni peccato, sicut et in primo statu hominem ab omni nocivo protexisset.***
+Ad secundam quaestionem dicendum estEd. omit *est*. quod sicut in prima sanctificatione fuit quaedam inchoatio emendationis,PLE: *emundationis*. remoto peccato originali quantum ad culpam et ligato fomite; ita etiam fuit quaedam inchoatio confirmationis, quia per gratiam sanctificantem immunitatem a peccato deinceps consecuta est. Quae quidem immunitas a tribus causabatur:The Nicolaï edition reads *causatur*. scilicet ex ligatione fomitis qui ad malum non incitabat; ex inclinationeBruges manuscript reads *per infusionem*. gratiae quae in bonum ordinabat, quamvis nondum per eam liberum arbitrium esset in fine ultimo stabilitum, sicut est in beatis qui ad finem viae pervenerunt; et iterum ex conservatione divinae providentiae quae eam intactam custodivit ab omni peccato, sicut et in primo statu hominem ab omni nocivo protexisset.  
 
 Ad primum ergo circaEd. read *contra*. hoc objectum dicendum quod dubitatio quae sonat infirmitatem fidei, sine peccato esse non potest. Nec talis dubitatio in Beata Virgine fuit in tempore Passionis; sed in ea remansit fides firmissima, etiam apostolis dubitantibus. Sed fuit in ea dubitatio admirationis quaedam, dum considerabat eum quem tam digne genuerat, sic ignominiose tractari.  
 
@@ -218,7 +220,7 @@ Alia duo concedimus.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod in secunda sanctificatione, et emundatio et confirmatio in bono quodammodo consummata est secundum perfectionem viae; sed in Assumptione ejus gloriosa, consummata est secundum perfectionem patriae. Quod sic patet.—In prima enim sanctificatione ablata fuit inclinatio fomitis remanente essentia ejus.—In secunda vero fuit extinctus ipse fomes per essentiam, remanentibus adhuc poenalitatibus ex peccato causatis, a quibus plene liberata fuit per gloriam Assumptionis. Similiter etiam est ex parte altera.—In prima sanctificatione gratia collata fuit ad bonum efficaciter liberum arbitrium inclinans, quamvis non esset sufficiens ad tollendum flexibilitatem liberi arbitrii in malum, quam etiam homo in primo statu habuit.—In secunda vero sanctificatione gratia superaddita fuit, quae ita potentiam liberi arbitrii impleret ut in contrarium flecti non posset, non quidem naturam liberi arbitriiEd. read *libero arbitrio*. tollendo, sed defectum. Sicut materia caeli ex eo quod substatBrussels manuscript and the Piana, Antwerp, Nicolaï, Venice, Parma, and Vivès editions read *subsistit*. formae quae omnem privationem ab ea excludit, non est in potentia ad corruptionem.—Sed in tertia exaltatione ejus per gratiam perfectam in gloriam transeuntem, fini conjuncta est, ex quo perfecta immobilitas causatur.***
+Ad tertiam quaestionem dicendum quod in secunda sanctificatione, et emundatio et confirmatio in bono quodammodo consummata est secundum perfectionem viae; sed in Assumptione ejus gloriosa, consummata est secundum perfectionem patriae. Quod sic patet.—In prima enim sanctificatione ablata fuit inclinatio fomitis remanente essentia ejus.—In secunda vero fuit extinctus ipse fomes per essentiam, remanentibus adhuc poenalitatibus ex peccato causatis, a quibus plene liberata fuit per gloriam Assumptionis. Similiter etiam est ex parte altera.—In prima sanctificatione gratia collata fuit ad bonum efficaciter liberum arbitrium inclinans, quamvis non esset sufficiens ad tollendum flexibilitatem liberi arbitrii in malum, quam etiam homo in primo statu habuit.—In secunda vero sanctificatione gratia superaddita fuit, quae ita potentiam liberi arbitrii impleret ut in contrarium flecti non posset, non quidem naturam liberi arbitriiEd. read *libero arbitrio*. tollendo, sed defectum. Sicut materia caeli ex eo quod substatBrussels manuscript and the Piana, Antwerp, Nicolaï, Venice, Parma, and Vivès editions read *subsistit*. formae quae omnem privationem ab ea excludit, non est in potentia ad corruptionem.—Sed in tertia exaltatione ejus per gratiam perfectam in gloriam transeuntem, fini conjuncta est, ex quo perfecta immobilitas causatur.  
 
 Ad primum ergo circaEd. read *contra*. hoc objectum dicendum quod in prima sanctificatione consecuta est immunitatem a peccato, non per gratiam confirmantem, sed per ligationem fomitis ad malum inclinantis et per custodiam divinae providentiae, sine qua, etiam fomite omnino extincto, peccare potuisset; sicut et Adam peccavit, nisi esset in ea gratia consummata.  
 
@@ -228,7 +230,7 @@ Ad tertium dicendum quod si per impossibile ponatur Beatam Virginem post secunda
 
 Quaestio 2  
 
-***Deinde quaeritur de potentia generativa Beatae Virginis. Et circa hoc quaeruntur duo:***
+Deinde quaeritur de potentia generativa Beatae Virginis. Et circa hoc quaeruntur duo:  
 
 Primo, utrum aliquid ad Christi conceptionem active operata sit.  
 
@@ -238,7 +240,7 @@ Articulus 1
 
 ***Utrum Virgo aliquid active ad Christi conceptionem operata fuerit***
 
-***Ad primum sic proceditur. Videtur quod Beata Virgo aliquid active in conceptione Christi cooperataBruges manuscript reads *operata*. sit.***
+Ad primum sic proceditur. Videtur quod Beata Virgo aliquid active in conceptione Christi cooperataBruges manuscript reads *operata*. sit.  
 
 Potentia enim pure passiva est receptiva tantum. Sed Damascenus dicit, ut in littera habetur, quod non tantum dedit Spiritus Sanctus Virgini potentiam receptivam Verbi, sed simul etiam generativam. Ergo oportet quod per potentiam generativam intelligatur virtus activa ipsius; et ita in conceptione Christi aliquid active operata sit.The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *est*.  
 
@@ -300,7 +302,7 @@ Articulus 2
 
 ***Utrum generatio Christi ex Virgine sit naturalis vel miraculosa***
 
-***Ad secundum sic proceditur. Videtur quod generatio Christi ex Virgine sit naturalis.***
+Ad secundum sic proceditur. Videtur quod generatio Christi ex Virgine sit naturalis.  
 
 Filiatio enim nativitatem consequitur. Sed Christus dicitur naturalis filius matris, sicut et naturalis Filius Patris, ut Augustinus dicit in lib. *De fide ad Petrum*. Ergo generatione naturali nascitur ex matre.  
 
@@ -334,7 +336,7 @@ Ad quintum dicendum quod Beata Virgo dicitur genuisse Christum, non sicut princi
 
 Quaestio 3  
 
-***Deinde quaeritur de Annuntiatione facta per angelum ad Beatam Virginem. Et circa hoc duo quaeruntur:***
+Deinde quaeritur de Annuntiatione facta per angelum ad Beatam Virginem. Et circa hoc duo quaeruntur:  
 
 primo, de convenientia Annuntiationis.  
 
@@ -346,7 +348,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod non oportebat Virgini annuntiari Salvatoris conceptionem.***
+Ad primum sic proceditur. Videtur quod non oportebat Virgini annuntiari Salvatoris conceptionem.  
 
 Ipsa enim fidem habebat. Sed semper ad fidem pertinuit credere Incarnationem futuram. Ergo non oportebat ulterius quod per modum Annuntiationis sibi patefieret.  
 
@@ -360,7 +362,7 @@ Praeterea, in conceptione Christi factum est quoddam matrimonium per indivisibil
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod Annuntiatio non fuerit per modum corporalis visionis. Ut enim dicit Augustinus, inter tria visionis genera, quae sunt corporale, spirituale et intellectuale, intellectualis visio praestantior est. Sed quod dignius est, Matrem Dei magis decet. Ergo per intellectualem visionem et non per corporalem, facta est Annuntiatio.***
+Ulterius, videtur quod Annuntiatio non fuerit per modum corporalis visionis. Ut enim dicit Augustinus, inter tria visionis genera, quae sunt corporale, spirituale et intellectuale, intellectualis visio praestantior est. Sed quod dignius est, Matrem Dei magis decet. Ergo per intellectualem visionem et non per corporalem, facta est Annuntiatio.  
 
 Praeterea, apparitiones corporales angelorum eo quod insolitae sunt et praeter communem cursum naturae, inter signa et mirabilia computari possunt. *Signa* autem *data, sunt non fidelibus, sed infidelibus*, ut dicit Apostolus, 1 Cor., 14:22. Cum igitur Beata Virgo fidelissima fuerit, non videtur ad eam apparitionem corporalem angeli fuisse factam.The Nicolaï, Venice, Parma, and Vivès editions read *apparitio corporalis angeli fuisse facta*.  
 
@@ -368,7 +370,7 @@ Sed contra, Luc. 1, super illud: *quae cum audisset turbata est in sermone, etc*
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod congruum fuit Virgini annuntiarti suam conceptionem multis de causis. Primo, quia cum mens Deo sit vicinior quam corpus, non decebat ut Dei sapientia ejus uterum inhabitaret sine hoc quod mens cognitione summae sapientiae resplenderet. Et ideo non decuit eam ignorare quod in ea fiebat, sed oportuit hoc sibi annuntiari. Secundo, quia ipsa futura erat certissima testis inusitatae conceptionis. Unde oportuit utEd. read *quod*. de tam magno mysterio per Annuntiationem erudiretur. Tertio, quia Deus non diligit coacta sed voluntaria servitia, ut qui obsequuntur ex ipso ministerio mereantur. Unde cum Beata Virgo singulariter et excellenter in Dei ministerium eligeretur, quemEd. add *in*. utero portavit, lacte aluit et brachiis bajulavit, decuit ut consensus ejus angelo nuntiante requireretur, quem humiliter praebens, ad obsequium se sedulam acEd. read *et*. promptam obtulit, dicens: *ecce ancilla Domini, etc*.***
+Respondeo dicendum ad primam quaestionem, quod congruum fuit Virgini annuntiarti suam conceptionem multis de causis. Primo, quia cum mens Deo sit vicinior quam corpus, non decebat ut Dei sapientia ejus uterum inhabitaret sine hoc quod mens cognitione summae sapientiae resplenderet. Et ideo non decuit eam ignorare quod in ea fiebat, sed oportuit hoc sibi annuntiari. Secundo, quia ipsa futura erat certissima testis inusitatae conceptionis. Unde oportuit utEd. read *quod*. de tam magno mysterio per Annuntiationem erudiretur. Tertio, quia Deus non diligit coacta sed voluntaria servitia, ut qui obsequuntur ex ipso ministerio mereantur. Unde cum Beata Virgo singulariter et excellenter in Dei ministerium eligeretur, quemEd. add *in*. utero portavit, lacte aluit et brachiis bajulavit, decuit ut consensus ejus angelo nuntiante requireretur, quem humiliter praebens, ad obsequium se sedulam acEd. read *et*. promptam obtulit, dicens: *ecce ancilla Domini, etc*.  
 
 Ad primum ergo dicendum quod non erat determinate sub fide cadens tempus Incarnationis, et per quam virginem hoc esset implendum; unde de hoc instruenda erat per Annuntiationem. Incarnationem enim futuram esse, quod antiquorum fidei subjacebat, firmissima fide tenebat.  
 
@@ -378,7 +380,7 @@ Ad tertium dicendum quod ea de quibus est prophetia praedestinationis complentur
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod convenientissime per corporalem visionem Annuntiatio facta est. Primo, ut Annuntiatio esset certior. In his enim quae visibiliter cernimus minus decipimur. Secundo, quia, ut Dionysius dicit in *Epistola 9 ad Titum*, haec est causa quare nobis divina per figuras corporales proponuntur, ut utraque vita hominis secundum suam proprietatem divina cognitione illuminetur: sensitiva scilicet imaginatione figurarum; intellectiva vero contemplatione spiritualis veritatis. Similiter etiam decuit ut Virginis aspectus uterque suo modo nobilitaretur, interior scilicet per revelationem tanti mysterii, et exterior per corporalem angeli visionem. Tertio, quia Annuntiatio debebat proportionari ei quod annuntiabatur. Annuntiabatur autem missio visibilis Filii Dei in mundum. Unde decenter angelus nuntians corporali visione apparuit.***
+Ad secundam quaestionem dicendum quod convenientissime per corporalem visionem Annuntiatio facta est. Primo, ut Annuntiatio esset certior. In his enim quae visibiliter cernimus minus decipimur. Secundo, quia, ut Dionysius dicit in *Epistola 9 ad Titum*, haec est causa quare nobis divina per figuras corporales proponuntur, ut utraque vita hominis secundum suam proprietatem divina cognitione illuminetur: sensitiva scilicet imaginatione figurarum; intellectiva vero contemplatione spiritualis veritatis. Similiter etiam decuit ut Virginis aspectus uterque suo modo nobilitaretur, interior scilicet per revelationem tanti mysterii, et exterior per corporalem angeli visionem. Tertio, quia Annuntiatio debebat proportionari ei quod annuntiabatur. Annuntiabatur autem missio visibilis Filii Dei in mundum. Unde decenter angelus nuntians corporali visione apparuit.  
 
 Ad primum ergo circaEd. read *contra*. hoc objectum dicendum quod, quamvis intellectualis visio sit melior corporali, tamen utraque simul efficacior invenitur quam altera, propter connaturalitatem humanae cognitionis ad sensum.  
 
@@ -390,7 +392,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Annuntiatio per angelum fieri non debuit.***
+Ad secundum sic proceditur. Videtur quod Annuntiatio per angelum fieri non debuit.  
 
 Missio enim qua Filius mittitur ut sit homo, est excellentior ea qua mittitur ut sit cum homine, ex parte effectus. Sed missio qua mittitur in mentem ut sit cum homine, non completur mediante angelo, qui menti non illabitur, ut in 2 lib., d. 9 dictum est. Ergo nec quando missus est ut esset homo, oportuit per Annuntiationem angeli fieri.  
 
@@ -404,7 +406,7 @@ Praeterea, ut probat Dionysius, 4 c. *Caelest. hierar*., angeli medii sunt inter
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod angelus nuntians fuerit de supremis ordinibus. Dicit enim Gregorius: *Summum nuntium mitti decuit, qui summum omnium nuntiaret*. Sed illi qui sunt in ordine Seraphim, sunt summi inter angelos. Ideo per aliquem eorum Annuntiatio facta est.***
+Ulterius, videtur quod angelus nuntians fuerit de supremis ordinibus. Dicit enim Gregorius: *Summum nuntium mitti decuit, qui summum omnium nuntiaret*. Sed illi qui sunt in ordine Seraphim, sunt summi inter angelos. Ideo per aliquem eorum Annuntiatio facta est.  
 
 Praeterea, Hieronymus dicit quod ista est quaestio inferiorum angelorum mysterium Incarnationis non plene cognoscentium, quae ponitur Isai., 63:1: *quis est iste qui venit de Edom?* Sed non potuit nuntiari Incarnationis mysterium nisi per illos quibus plene revelatum est. Ergo Annuntiatio per aliquem de supremis angelis facta est.  
 
@@ -412,7 +414,7 @@ Sed contra est quod Ecclesia cantat in festo Purificationis: *Gabrielem archange
 
 Solutio 1  
 
-***Respondeo dicendum ad primum quaesitum, quod Annuntiatio per angelum facta est. Cujus ratio multipliciter accipi potest. Primo, quia ut dicit Hieronymus, *angelis est cognata virginitas*; unde decuit ut ad virginem nuntiandamBruges manuscript reads in the margins *ad virginem concipiendum Filium Dei*. angelus mitteretur. Secundo, quia perditio humana initium sumpsit ex hoc quod diabolus mulierem allocutus est. Unde dicit Beda: *congruum apparet humanae naturae reparationis exordium ut angelus virginem alloquatur.*Ed. read *alloqueretur*. Tertio, quia ille annuntiabatur qui est rex hominum et angelorum, et ejus nativitas, sicut in salutemBruges manuscript adds *omnium*. hominum fuit, ita et in reparationem ruinae angelicae. Et ideo decuit ut tam homines quam angeli huic mysterio ministerium exhiberent.***
+Respondeo dicendum ad primum quaesitum, quod Annuntiatio per angelum facta est. Cujus ratio multipliciter accipi potest. Primo, quia ut dicit Hieronymus, *angelis est cognata virginitas*; unde decuit ut ad virginem nuntiandamBruges manuscript reads in the margins *ad virginem concipiendum Filium Dei*. angelus mitteretur. Secundo, quia perditio humana initium sumpsit ex hoc quod diabolus mulierem allocutus est. Unde dicit Beda: *congruum apparet humanae naturae reparationis exordium ut angelus virginem alloquatur.*Ed. read *alloqueretur*. Tertio, quia ille annuntiabatur qui est rex hominum et angelorum, et ejus nativitas, sicut in salutemBruges manuscript adds *omnium*. hominum fuit, ita et in reparationem ruinae angelicae. Et ideo decuit ut tam homines quam angeli huic mysterio ministerium exhiberent.  
 
 Ad primum ergo dicendum quod quamvis quando Filius in mentem mittitur, angelus in mentem non illabatur; tamen Filio venienti obsequitur praeparans mentem purgando, illuminando, et perficiendo ad divinae sapientiae susceptionem. Ita etiam et quando Filius in carnem missus est, angelus non venit ut carnem assumeret, sed ut Virginem instrueret, de qua caro assumenda erat.  
 
@@ -422,7 +424,7 @@ Ad tertium dicendum quod in prima conditione mulier prima non accepit divinum pr
 
 Solutio 2  
 
-***Ad secundam quaestionem ergoThe Nicolaï edition omits *ergo*. dicendum est quod angelus nuntians non fuit de suprema nec de media hierarchia, sed de infima; nec de primo ordine ejusdem hierarchiae, sed de medio qui est ordo archangelorum. Cujus ratio multiplex patet. Primo, quia cum Christus nasceretur ut inordinationem quae in angelis acciderat repararet, decuit ut in sua conceptione ordo ille caelestis hierarchiae maxime servaretur, ut scilicet supremi angeli mediantibus infimis homines illuminarent. Secundo, ut mysterium tantum communiusThe Piana and Antwerp editions read *ut mysterium incarnationis tantum conveniens esset*; the Nicolaï, Venice, and Parma editions omit *tantum*; the Vivès edition reads *tantum mysterium incarnationis communius esset*. esset.PLE: *ministerium tantum communius*. Cum enim inferiores angeli agant secundum id quod a superioribus recipiunt, et nonBruges manuscript omits *non*. e converso, dum inferiores angeli nuntiant, Annuntiatio per superiores ad inferiores expletur. Quod non esset,Bruges manuscript adds *similiter*. si superiores immediate annuntiarent. Tertio, quia sic salvatur proprietas ordinum, sicut in 2 lib. d. 9 dictum est. InfimaEd. add *enim*. hierarchia officium habet dirigendi homines secundum quamdam limitationem: vel unius provinciae, sicut ordo principatuum; vel unius hominis, sicut ordines archangelorum et angelorum, sed differunt. Quia ad angelos pertinet dirigere in actibus alicujus hominis qui ad ipsum tantum pertinent; unde dicuntur minima nuntiare. Ad archangelos vero pertinet dirigere in actibus alicujus hominis qui tamen in totam multitudinem redundant; unde et medii sunt inter principatus et angelos quod et eorum nomen ostendit. Dicuntur enim archangeli, quasi principes angeli.***
+Ad secundam quaestionem ergoThe Nicolaï edition omits *ergo*. dicendum est quod angelus nuntians non fuit de suprema nec de media hierarchia, sed de infima; nec de primo ordine ejusdem hierarchiae, sed de medio qui est ordo archangelorum. Cujus ratio multiplex patet. Primo, quia cum Christus nasceretur ut inordinationem quae in angelis acciderat repararet, decuit ut in sua conceptione ordo ille caelestis hierarchiae maxime servaretur, ut scilicet supremi angeli mediantibus infimis homines illuminarent. Secundo, ut mysterium tantum communiusThe Piana and Antwerp editions read *ut mysterium incarnationis tantum conveniens esset*; the Nicolaï, Venice, and Parma editions omit *tantum*; the Vivès edition reads *tantum mysterium incarnationis communius esset*. esset.PLE: *ministerium tantum communius*. Cum enim inferiores angeli agant secundum id quod a superioribus recipiunt, et nonBruges manuscript omits *non*. e converso, dum inferiores angeli nuntiant, Annuntiatio per superiores ad inferiores expletur. Quod non esset,Bruges manuscript adds *similiter*. si superiores immediate annuntiarent. Tertio, quia sic salvatur proprietas ordinum, sicut in 2 lib. d. 9 dictum est. InfimaEd. add *enim*. hierarchia officium habet dirigendi homines secundum quamdam limitationem: vel unius provinciae, sicut ordo principatuum; vel unius hominis, sicut ordines archangelorum et angelorum, sed differunt. Quia ad angelos pertinet dirigere in actibus alicujus hominis qui ad ipsum tantum pertinent; unde dicuntur minima nuntiare. Ad archangelos vero pertinet dirigere in actibus alicujus hominis qui tamen in totam multitudinem redundant; unde et medii sunt inter principatus et angelos quod et eorum nomen ostendit. Dicuntur enim archangeli, quasi principes angeli.  
 
 Quia ergo consensus Beatae Virginis, qui per Annuntiationem requirebatur, actus singularis personae erat in multitudinis salutem redundans, immo totius humani generis, angelus nuntians de ordine archangelorum esse debuit et inter eos summus.  
 
@@ -432,7 +434,7 @@ Ad secundum dicendum quod angeli inferiores non penitus mysterium Incarnationis 
 
 Expositio textus  
 
-****Virtus Altissimi obumbrabit tibi*. Virtus Altissimi, secundum expositionem Damasceni sequentem,Bruges manuscript reads *frequenter*. intelligitur Filius de quo 1 Cor., 1:24 dicitur: *Christum Dei virtutem et Dei sapientiam*; ut sic in verbis angeli praenuntietur duarum personarum adventus in Virginem, scilicet Spiritus Sancti ad purgandum et potentiam generativam praestandum, et Filii ad carnem assumendum. Propter quod dicit: *obumbrabit tibi*. Virtus enim Altissimi per susceptionem nostrae infirmitatis obumbrata est. Vel dicitur: *obumbrabit tibi*, ad significandumThe Vivès edition reads *signandum*. extinctionem omnimodam fomitis, quia per adventum Filii in ipsam omnes reliquiae fomitis ab ea extirpatae sunt. Et haec extirpatio obumbratio dicitur, sicut et fomes incendium. Umbra autemThe Nicolaï, Venice, Parma, and Vivès editions read *enim*. contra aestum refrigerium praestat.***
+*Virtus Altissimi obumbrabit tibi*. Virtus Altissimi, secundum expositionem Damasceni sequentem,Bruges manuscript reads *frequenter*. intelligitur Filius de quo 1 Cor., 1:24 dicitur: *Christum Dei virtutem et Dei sapientiam*; ut sic in verbis angeli praenuntietur duarum personarum adventus in Virginem, scilicet Spiritus Sancti ad purgandum et potentiam generativam praestandum, et Filii ad carnem assumendum. Propter quod dicit: *obumbrabit tibi*. Virtus enim Altissimi per susceptionem nostrae infirmitatis obumbrata est. Vel dicitur: *obumbrabit tibi*, ad significandumThe Vivès edition reads *signandum*. extinctionem omnimodam fomitis, quia per adventum Filii in ipsam omnes reliquiae fomitis ab ea extirpatae sunt. Et haec extirpatio obumbratio dicitur, sicut et fomes incendium. Umbra autemThe Nicolaï, Venice, Parma, and Vivès editions read *enim*. contra aestum refrigerium praestat.  
 
 *Sicut divinum semen*. Non dicit simpliciter *semen*, ut caveret errorem Apollinaristarum qui ponebant Spiritum Sanctum in uterum Virginis vere sicut semen venisse. In hoc tamen similitudinem seminis habet quod sicut semen est activum in generatione, ita et Spiritus Sanctus in conceptione Christi, vel Filius quem virtutem Altissimi dicit.Bruges manuscript reads *esse dicitur*.  
 
@@ -444,7 +446,7 @@ Expositio textus
 
 Quaestio 4  
 
-***Postquam ostendit MagisterBruges and Brussels manuscripts omit *Magister*. conditionem carnis assumptae et matris de qua assumpta est, hic movet quasdam dubitationes circa determinata; et dividitur in partes duas.***
+Postquam ostendit MagisterBruges and Brussels manuscripts omit *Magister*. conditionem carnis assumptae et matris de qua assumpta est, hic movet quasdam dubitationes circa determinata; et dividitur in partes duas.  
 
 In prima movet dubitationem circa propagationem carnis Christi ex remotis parentibus, scilicet Abraham et Adam.  
 
@@ -478,7 +480,7 @@ Articulus 1
 
 ***Utrum caro Christi in antiquis patribus fuerit peccato obnoxia***
 
-***Ad primum sic proceditur. Videtur quod caro Christi in antiquis patribus peccato infecta non fuerit.***
+Ad primum sic proceditur. Videtur quod caro Christi in antiquis patribus peccato infecta non fuerit.  
 
 Corpus enim caeleste non inficitur nec alteratur ex conjunctione ad aliud corpus. Sed corpus Christi naturae caelestis fuit. Quod videtur ex hoc quod dicitur de ipso Joan., 3:31: *qui de caelo venit super omnes est*. Ergo caro Christi in antiquis patribus infecta esse non potuit.  
 
@@ -518,7 +520,7 @@ Articulus 2
 
 ***Utrum caro Christi fuit in antiquis patribus secundum quantitatem determinatam***
 
-***Ad secundum sic proceditur. Videtur, quod caro Christi fuerit in antiquis patribus secundum aliquid demonstrabile determinatum.***
+Ad secundum sic proceditur. Videtur, quod caro Christi fuerit in antiquis patribus secundum aliquid demonstrabile determinatum.  
 
 Ut enim in littera ex Augustino habetur, caro Christi fuit in Abraham secundum corpulentam substantiam. Sed corpulenta substantia nominat aliquid determinatum demonstrabile. Ergo per hunc modum fuit caro Christi in Abraham et in aliis.  
 
@@ -562,7 +564,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur, quod nullus qui de stirpe Abrahae descendit, in ipso decimatus sit.***
+Ad tertium sic proceditur. Videtur, quod nullus qui de stirpe Abrahae descendit, in ipso decimatus sit.  
 
 Quia, ut dicit Augustinus, quod in eo decimabatur, curabatur. Sed nullus in parentibus curari vel sanctificari potest, ut supra dictum est. Ergo nullus in Abraham decimari potuit.  
 
@@ -576,7 +578,7 @@ Praeterea, decimatio quoddam signum servitutis divinae est, cum ad latriam perti
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod etiam Christus in Abraham decimatus sit. Christus enim non habet habitudinem ad Abraham nisi mediante Beata Virgine. Sed Beata Virgo fuit in Abraham decimata. Ergo et Christus.***
+Ulterius, videtur quod etiam Christus in Abraham decimatus sit. Christus enim non habet habitudinem ad Abraham nisi mediante Beata Virgine. Sed Beata Virgo fuit in Abraham decimata. Ergo et Christus.  
 
 Praeterea, decimatio convenit filiis Abrahae inEd. read *ex*. eo, ut exEd. read *in*. littera habetur, ratione peccati originalis: quia per concupiscentiam ex eo propagandi erant. Sed caro Christi in Abraham fuit peccato obnoxia, ut in littera dicitur. Ergo et in eo Christus decimatus fuit.  
 
@@ -588,7 +590,7 @@ Praeterea, quod multiplicatur miraculose,Ed. add *et*. non virtute naturae, non 
 
 Solutio 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod illi qui ex Abraham per concubitum descenderunt, in eoEd. read *Abraham*. decimati sunt; Christus autem in eo decimatus non est. Cujus ratio est, quia decimatio non tantum erat actus moralis, sed etiam figuralis;***
+Respondeo dicendum, ad primam quaestionem, quod illi qui ex Abraham per concubitum descenderunt, in eoEd. read *Abraham*. decimati sunt; Christus autem in eo decimatus non est. Cujus ratio est, quia decimatio non tantum erat actus moralis, sed etiam figuralis;  
 
 est enim actus moralis secundum hoc quod pars quaedam terrae nascentium, et aliorum, in usum ministrorum Dei et pauperum conferebatur, ut esset cibus in domo Domini, ut habetur Malach. 3.  
 
@@ -606,7 +608,7 @@ Quartum et quintum concedimus.
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod Christus nullo modo in Abraham decimatus fuit: cujus ratio patet ex praedictis.***
+Ad secundam quaestionem dicendum, quod Christus nullo modo in Abraham decimatus fuit: cujus ratio patet ex praedictis.  
 
 Ad primum ergo dicendum circaEd. read *contra*. hoc objectum, quod quia Christus non descendit ab Abraham nisi mediante Beata Virgine; ideo sicut descendit a Beata Virgine, ita descendit ab Abraham; unde cum a Beata Virgine descenderit non per concubitum, nec ab Abraham per concubitum descendit; quamvis Beata Virgo ab Abraham per concubitum descenderit. Unde non sequitur quod si Beata Virgo in Abraham decimata fuit, in eo Christus decimatus fuerit.  
 
@@ -618,7 +620,7 @@ Alia duo concedimus.
 
 Quaestio 5  
 
-***Deinde quaeritur de propagatione carnis Christi ex matre ejus; et circa hoc quaeruntur tria:***
+Deinde quaeritur de propagatione carnis Christi ex matre ejus; et circa hoc quaeruntur tria:  
 
 primo de materia ex qua conceptum est corpus ejus;  
 
@@ -630,7 +632,7 @@ Articulus 1
 
 ***Utrum corpus Christi fuerit ex purissimis Virginis sanguinibus***
 
-***Ad primum sic proceditur. Videtur, quod corpus Christi non fuerit formatum solum ex purissimis sanguinibus Virginis, sicut Damascenus dicit.***
+Ad primum sic proceditur. Videtur, quod corpus Christi non fuerit formatum solum ex purissimis sanguinibus Virginis, sicut Damascenus dicit.  
 
 Eorum enim quae specie conveniunt, est materia uniusEd. read *ejusdem*. rationis: quia forma naturalis materiam determinatam requirit. Sed aliorum hominum materia est ex eo quod ex viro et muliere deciditur. Cum ergo Christus, inquantum homo, fuerit ejusdem speciei cum aliis hominibus, videtur quod corpus ejus non solum ex sanguinibus Matris Virginis formatum sit.  
 
@@ -666,7 +668,7 @@ Articulus 2
 
 ***Utrum conceptio corporis Christi fuerit subito, vel successive***
 
-***Ad secundum sic proceditur. Videtur quod conceptio corporis Christi non fuerit subito, sed successive completa.***
+Ad secundum sic proceditur. Videtur quod conceptio corporis Christi non fuerit subito, sed successive completa.  
 
 Heb. 2 dicitur, quodEd. read *quia*. Christus debuit per omnia fratribus similari. Sed alii homines, qui fratres ejus dicuntur ibidem,Bruges manuscript omits *ibidem*. successive concipiuntur. Ergo et Christi conceptio debuit esse successiva.  
 
@@ -738,7 +740,7 @@ Quartum concedimus: quia responsio illa non valet.
 
 Expositio textus  
 
-****Obnoxia fuit peccato in Maria*. Sed contra. Quod non est, non potest esse peccato obnoxium. Sed caro Christi non fuit nisi in ipso. Ergo falsum est quod hicThe Antwerp, Venice, and Parma editions omit *hic*. dicitur. SedThe Piana, Antwerp, Nicolaï, Venice, and Parma editions omit *sed*. dicendum, quod quamvis caro Christi actu non fuerit nisi in ipso, tamen materialiter fuit in Beata Virgine et in aliis, sed differenter: quia in Beata Virgine praeexistebat materia illa essentialiter, sed in aliis prioribus originaliter tantum, ut dictum est; et secundum illum modum quo in unoquoque fuit, sic peccato obnoxia erat.***
+*Obnoxia fuit peccato in Maria*. Sed contra. Quod non est, non potest esse peccato obnoxium. Sed caro Christi non fuit nisi in ipso. Ergo falsum est quod hicThe Antwerp, Venice, and Parma editions omit *hic*. dicitur. SedThe Piana, Antwerp, Nicolaï, Venice, and Parma editions omit *sed*. dicendum, quod quamvis caro Christi actu non fuerit nisi in ipso, tamen materialiter fuit in Beata Virgine et in aliis, sed differenter: quia in Beata Virgine praeexistebat materia illa essentialiter, sed in aliis prioribus originaliter tantum, ut dictum est; et secundum illum modum quo in unoquoque fuit, sic peccato obnoxia erat.  
 
 *Ita et leviticus ordo*. Videtur quod ratio Apostoli non valeat. Potest enim contingere quod pater Papae alicui simplici sacerdoti decimas solverit: nec propter hoc Papa sacerdote illo minor esset; et sic non videtur sequi, si Abraham Melchisedech decimas solverit, quod propter hoc leviticus ordo Melchisedech minor fuerit. Sed dicendum secundum quosdam, quod Apostolus procedit ex suppositione hujus quod Abraham tota posteritate sua major fuerit; unde si Melchisedech major fuerit quam Abraham, per consequens major fuit quam levi vel Aaron. Sed quia haec suppositio vel dubia est, vel falsa, saltem propter Beatam Virginem; ideo melius dicendum, quod Apostolus non intendit probare quod Melchisedech personaliter major fuerit quam Aaron, sed quod sacerdotium Christi figuratum per sacerdotium Melchisedech majus est quam sacerdotium Aaron. Unde virtus rationis Apostoli fundatur super figuram. Figuravit enim Abraham decimas Melchisedech dans, quod ipse cum tota sua posteritate minor esset sacerdotio Christi per Melchisedech figurati.  
 

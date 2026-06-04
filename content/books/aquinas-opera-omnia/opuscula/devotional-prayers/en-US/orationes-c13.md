@@ -1,5 +1,7 @@
 # Here silent is Christ’s Herald
 
+In honor of St. Peter Martyr (Peter of Verona) *(Though the authenticity of this prayer is uncertain, Aquinas is said to have written it around the year 1263 during a visit to the tomb of Peter Martyr at St. Eustorgio’s Convent in Milan (see Antonio Touron, *Ristretto delle vite de i primi discepoli di S. Domenico* [Rome: Pagliarini, 1744], 44–45). The Latin for this text is from the Parma edition (1869) with emendations noted. It is here translated in verse by Msgr. H. T. Henry.)*  
+
 ***Here silent is Christ’s Herald;***
 ***here quenched, the people’s light;***
 ***here lies the martyred champion***

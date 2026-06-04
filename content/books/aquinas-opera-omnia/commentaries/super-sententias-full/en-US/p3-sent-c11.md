@@ -1,8 +1,10 @@
 # D. 10 - Angelic acts that follow on the distinct orders
 
+***Angelic acts that follow on the distinct orders***
+
 ***Division of the text***
 
-***Having laid out the distinctions between orders, here the Master considers some acts that follow on the distinct orders. This is divided into two parts.***
+Having laid out the distinctions between orders, here the Master considers some acts that follow on the distinct orders. This is divided into two parts.  
 
 In the first, he considers some acts that follow on all the orders, namely, to attend and to minister.  
 
@@ -46,7 +48,7 @@ Article 1
 
 ***Whether all the angels attend***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.112.3; *Commentary on Hebrews*, ch. 1, lect. 6; *Commentary on Job*, ch. 1, lect. 2. It seems that all the angels attend.***
+To the first we proceed as follows.Parallel texts: *ST* I.112.3; *Commentary on Hebrews*, ch. 1, lect. 6; *Commentary on Job*, ch. 1, lect. 2. It seems that all the angels attend.  
 
 Obj. 1: For they are said to attend the king, who, being present, behold his countenance. But it is said of the angels deputed for guardianship that they *always behold the face of my Father* (Matt 18:10), yet these are of a lower order. Therefore, it seems that they all attend God.  
 
@@ -74,7 +76,7 @@ Article 2
 
 ***Whether all the angels are sent for ministry***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.112.2; *Commentary on Hebrews*, ch. 1, lect. 6. It seems that all the angels are sent for ministry.***
+To the second we proceed as follows.Parallel texts: *ST* I.112.2; *Commentary on Hebrews*, ch. 1, lect. 6. It seems that all the angels are sent for ministry.  
 
 Obj. 1: For no one doubts that the divine persons infinitely surpass all the angels. But divine persons, namely, the Son and the Holy Spirit, are sent, as has been said in Book I.*In I Sent*., d. 15, q. 1, a. 2. Therefore, all the more are all the angels sent.  
 
@@ -118,7 +120,7 @@ Article 3
 
 ***Whether all the angels of the second hierarchy are sent***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.112.4; *Commentary on Hebrews*, ch. 1, lect. 6. It seems that all the angels of the second hierarchy are sent.***
+To the third we proceed as follows.Parallel texts: *ST* I.112.4; *Commentary on Hebrews*, ch. 1, lect. 6. It seems that all the angels of the second hierarchy are sent.  
 
 Obj. 1: For all angels either attend or minister. But to attend is proper to the first hierarchy, to which it belongs to surround God, according to Dionysius.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7 (PG 3:206). Therefore, all the others are sent for ministry.  
 
@@ -152,7 +154,7 @@ Article 4
 
 ***Whether the angels are impeded from contemplation by carrying out a ministry***
 
-***To the fourth we proceed as follows. It seems that the angels are held back from contemplation by carrying out a ministry.***
+To the fourth we proceed as follows. It seems that the angels are held back from contemplation by carrying out a ministry.  
 
 Obj. 1: For it is related that an angel in a state of ministry said: *I am ascending to him who sent me* (Tob 12:20). But he could only return through contemplation. Therefore, it seems that the angel ceased from the contemplation of God through ministry.  
 
@@ -178,6 +180,6 @@ Reply Obj. 4: The empyrean heaven is not the place of contemplation by necessity
 
 Exposition of the text  
 
-****Also, in the Hierarchy, Dionysius . . . speaks of the order of precedence among spirits*.*Sent*. II, 10.1(54).1. Silano translation slightly modified. The words that follow are those of GregoryGregory the Great, *Homilies on the Gospels*, bk. 2, homily 34, para. 14 (CCSL 141:313; PL 76:1255). citing the authority of Dionysius, not word-for-word, but giving the sense.***
+*Also, in the Hierarchy, Dionysius . . . speaks of the order of precedence among spirits*.*Sent*. II, 10.1(54).1. Silano translation slightly modified. The words that follow are those of GregoryGregory the Great, *Homilies on the Gospels*, bk. 2, homily 34, para. 14 (CCSL 141:313; PL 76:1255). citing the authority of Dionysius, not word-for-word, but giving the sense.  
 
 *And they hold that Michael, Gabriel, Raphael were from a superior order*.*Sent*. II, 10.2(55).1. This expressly contradicts Scripture, since Michael (Dan 10:13) is placed in the order of the “princes,” Gabriel is said to belong to the order of archangels, and Raphael could be placed in the order of angels based on the fact that he carried out things concerning individual persons.

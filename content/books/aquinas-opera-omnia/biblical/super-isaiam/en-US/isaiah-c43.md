@@ -1,5 +1,7 @@
 # Chapter 41
 
+^41:1^ Let the islands keep silence before me, and the nations take new strength: let them come near, and then speak, let us come near to judgment together.  
+
 > ^41:2^ Who has raised up the just one from the east, has called him to follow him? He shall give the nations in his sight, and he shall rule over kings: he shall give them as the dust to his sword, as stubble driven by the wind, to his bow.
 
 > ^41:3^ He shall pursue them, he shall pass in peace, no path shall appear in*In*. DR: “after.” his feet.

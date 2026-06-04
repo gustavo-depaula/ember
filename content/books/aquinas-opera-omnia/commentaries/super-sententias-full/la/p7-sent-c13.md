@@ -1,6 +1,8 @@
 # D. 12 - Appearance and effects of the Eucharist
 
-***Postquam determinavit Magister de uno trium, in quibus consistit integritas hujus sacramenti, scilicet de eo quod est res et sacramentum; in parte ista intendit determinare de aliis duobus, scilicet de eo quod est sacramentum tantum, et de eo quod est res tantum; unde dividitur in partes duas: in prima determinat de eo quod est*est res.—est sacramentum tantum; in secunda, de effectu sacramenti qui est res* PLE. res tantum, ibi: *institutum est hoc sacramentum duabus de causis*.***
+***De sacramento tantum et de re tantum***
+
+Postquam determinavit Magister de uno trium, in quibus consistit integritas hujus sacramenti, scilicet de eo quod est res et sacramentum; in parte ista intendit determinare de aliis duobus, scilicet de eo quod est sacramentum tantum, et de eo quod est res tantum; unde dividitur in partes duas: in prima determinat de eo quod est*est res.—est sacramentum tantum; in secunda, de effectu sacramenti qui est res* PLE. res tantum, ibi: *institutum est hoc sacramentum duabus de causis*.  
 
 Prima in duas: in prima determinat de accidentibus, quae sunt sacramenta, idest signa utriusque corporis Christi, scilicet veri et mystici; in secunda determinat de actu sacerdotis, qui est sacramentum sive signum passionis Christi, ibi: *post haec quaeritur, si quod gerit sacerdos, proprie dicatur sacrificium*.  
 
@@ -28,7 +30,7 @@ primo, utrum accidentia sint hic sine substantia;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod accidentia sine substantia esse, Deus facere non possit. Si enim esse rei separaretur ab ente, ens esset non ens. Sed hoc Deus non potest facere: quia non potest facere quod duo contradictoria sint simul vera. Ergo non potest separare esse rei ab ente. Sed accidentis esse est inesse, secundum Philosophum. Ergo Deus non potest facere quin accidens insit.***
+Ad primum sic proceditur. Videtur quod accidentia sine substantia esse, Deus facere non possit. Si enim esse rei separaretur ab ente, ens esset non ens. Sed hoc Deus non potest facere: quia non potest facere quod duo contradictoria sint simul vera. Ergo non potest separare esse rei ab ente. Sed accidentis esse est inesse, secundum Philosophum. Ergo Deus non potest facere quin accidens insit.  
 
 Praeterea, quicumque separat definitionem a definito, ponit duo contradictoria esse simul vera: quia hoc ipsum quod est homo, est animal rationale mortale; et ita si ponatur esse homo et non esse animal rationale mortale, ponitur esse homo et non esse. Sed definitio accidentis est quod inest substantiae; unde etiam in definitione singulorum accidentium oportet quod ponatur substantia. Ergo cum Deus non possit facere contradictoria simul esse vera, neque facere poterit quod accidens sit sine substantia.  
 
@@ -40,7 +42,7 @@ Praeterea, potest Deus plura facere quam homo possit intelligere vel imaginari. 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit congruum huic sacramento quod accidentia sint sine substantia. In sacramento enim perfectissimo non congruit esse aliquid quod divinae ordinationi repugnet. Sed divina ordinatio est quod accidens sit in subjecto. Ergo in hoc sacramento non competit quod sit sine subjecto.***
+Ulterius. Videtur quod non sit congruum huic sacramento quod accidentia sint sine substantia. In sacramento enim perfectissimo non congruit esse aliquid quod divinae ordinationi repugnet. Sed divina ordinatio est quod accidens sit in subjecto. Ergo in hoc sacramento non competit quod sit sine subjecto.  
 
 Praeterea, sacramentum veritatis non decet aliqua fallacia. Sed hoc sacramentum est maximae veritatis, quia continet illum qui dixit, Joan. 14, 6: *ego sum veritas*. Cum ergo existentibus accidentibus sine subjecto sequatur fallacia; quia accidentia, quantum est in se, significant substantiam propriam subesse: videtur quod non competat huic sacramento accidentia esse sine subjecto.  
 
@@ -52,7 +54,7 @@ Praeterea, hoc sacramentum dicitur mysterium fidei. Sed fides non solum est supr
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod accidentia non sint in hoc sacramento sine substantia. Esse enim in substantia aequaliter convenit omnibus accidentibus. Sed albedo non est hic sine subjecto: quod patet ex hoc quod dividitur per accidens, quod non competit nisi existenti in subjecto. Ergo nec quantitas aut aliquod accidens est hic sine subjecto.***
+Ulterius. Videtur quod accidentia non sint in hoc sacramento sine substantia. Esse enim in substantia aequaliter convenit omnibus accidentibus. Sed albedo non est hic sine subjecto: quod patet ex hoc quod dividitur per accidens, quod non competit nisi existenti in subjecto. Ergo nec quantitas aut aliquod accidens est hic sine subjecto.  
 
 Praeterea, illud quod sensus percipit in hoc sacramento, est ibi secundum veritatem; alias esset fictio in hoc sacramento. Sed sensus non tantum percipit ibi quantitatem aut albedinem, sed etiam quantum et album. Ergo non est ibi accidens sine subjecto.  
 
@@ -70,7 +72,7 @@ Praeterea, species ad hoc remanent in sacramento, ut ducant per significationem 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut dicitur prima propositione lib. *de Causis*, *causa prima est vehementioris impressionis supra causatum causae secundae quam ipsa causa secunda*. Unde quando causa secunda removet influentiam suam a causato, adhuc potest remanere influentia causae primae in causatum illud; sicut remoto rationali, remanet vivum, quo remoto remanet esse. Cum ergo causa prima accidentium et omnium existentium Deus sit; causa autem secunda accidentium sit substantia, quia accidentia ex principiis substantiae causantur; poterit Deus accidentia in esse conservare, remota etiam causa secunda, scilicet substantia. Et ideo absque omni dubitatione dicendum est, quod Deus potest facere accidens sine subjecto.***
+Respondeo dicendum ad primam quaestionem, quod, sicut dicitur prima propositione lib. *de Causis*, *causa prima est vehementioris impressionis supra causatum causae secundae quam ipsa causa secunda*. Unde quando causa secunda removet influentiam suam a causato, adhuc potest remanere influentia causae primae in causatum illud; sicut remoto rationali, remanet vivum, quo remoto remanet esse. Cum ergo causa prima accidentium et omnium existentium Deus sit; causa autem secunda accidentium sit substantia, quia accidentia ex principiis substantiae causantur; poterit Deus accidentia in esse conservare, remota etiam causa secunda, scilicet substantia. Et ideo absque omni dubitatione dicendum est, quod Deus potest facere accidens sine subjecto.  
 
 Ad primum ergo dicendum, quod inesse non dicit esse accidentis absolute, sed magis modum essendi qui sibi competit ex ordine ad causam proximam sui esse. Et quia remoto ordine accidentis ad causam proximam, adhuc potest remanere ordo ipsius ad causam primam, secundum quem modus ipsius essendi non est inesse, sed ab alio esse; ideo potest Deus facere quod sit accidens, et non insit: nec tamen esse accidentis ab accidente removebitur, sed modus essendi.  
 
@@ -80,7 +82,7 @@ Ad tertium dicendum, quod sicut ab accidentibus in hoc sacramento removetur esse
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod accidentia remanere in hoc sacramento quare congruat, supra dictum est, dist. praec. Sed accidentia esse sine subjecto congruit huic sacramento multipliciter. Primo quantum ad significationem; quia species sine substantia existentes expressius ducunt in corpus Christi, quod sub eis continetur, et immediatius; si enim subjectum haberent, ducerent immediate in subjectum illud. Secundo propter effectum, qui est unio membrorum ad caput, in quo fit per fidem; et ideo in hoc sacramento oportet aliquid esse supra naturam, per quod intellectus noster assuescat ad ea quae sunt fidei credenda. Tertio quantum ad usum, quia est cibus spiritualis; et ideo competit quod nullum accidentibus subjectum subsit, quod cibus corporalis esse possit. Quarto quantum ad perfectionem; quia enim hoc sacramentum est perfectissimum, ideo omnia quae sunt in hoc sacramento, altissimum statum accipiunt, sicut quod substantia panis in corpus gloriosum divinitati unitum convertitur; et propter hoc etiam accidentibus datur in hoc sacramento sine subjecto esse.***
+Ad secundam quaestionem dicendum, quod accidentia remanere in hoc sacramento quare congruat, supra dictum est, dist. praec. Sed accidentia esse sine subjecto congruit huic sacramento multipliciter. Primo quantum ad significationem; quia species sine substantia existentes expressius ducunt in corpus Christi, quod sub eis continetur, et immediatius; si enim subjectum haberent, ducerent immediate in subjectum illud. Secundo propter effectum, qui est unio membrorum ad caput, in quo fit per fidem; et ideo in hoc sacramento oportet aliquid esse supra naturam, per quod intellectus noster assuescat ad ea quae sunt fidei credenda. Tertio quantum ad usum, quia est cibus spiritualis; et ideo competit quod nullum accidentibus subjectum subsit, quod cibus corporalis esse possit. Quarto quantum ad perfectionem; quia enim hoc sacramentum est perfectissimum, ideo omnia quae sunt in hoc sacramento, altissimum statum accipiunt, sicut quod substantia panis in corpus gloriosum divinitati unitum convertitur; et propter hoc etiam accidentibus datur in hoc sacramento sine subjecto esse.  
 
 Ad primum ergo dicendum, quod divina dispositio quae aliquid ordinat secundum legem communem, etiam sibi aliqua reservat praeter legem communem facienda ad aliquod privilegium gratiae communicandum; nec ex hoc sequitur aliqua inordinatio, quia divina dispositio unicuique rei ordinem imponit.  
 
@@ -90,7 +92,7 @@ Ad tertium dicendum, quod verbo inest virtus transubstantiandi; et ideo ad hoc q
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod vera substantia panis simul remaneat sub sacramento cum corpore Christi; et secundum hoc accidentia non essent in hoc sacramento sine subjecto. Sed haec opinio in praecedenti dist. improbata est.***
+Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod vera substantia panis simul remaneat sub sacramento cum corpore Christi; et secundum hoc accidentia non essent in hoc sacramento sine subjecto. Sed haec opinio in praecedenti dist. improbata est.  
 
 Alia opinio est quod remanet ibi forma substantialis, et in ea fundantur omnia accidentia quae apparent. Sed non minus difficile est materialem formam substantialem a materia separare quam accidentia a substantiis. Et praeterea quantitas non respicit formam nisi ratione materiae; unde formae immateriales dimensionibus carent; et ideo, cum alia accidentia mediante quantitate referantur ad substantiam, non poterit forma existens sine materia, accidentium sensibilium subjectum esse. Boetius etiam dicit in lib. *De Trin*. quod forma simplex subjectum esse non potest.  
 
@@ -116,7 +118,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod accidentia quae remanent in hoc sacramento, non possunt immutare aliquid extrinsecum. Illa enim agunt et patiuntur ad invicem quae communicant in materia, ut dicitur in 1 *de Generat*. Sed accidentia illa non communicant in materia cum corporibus exterioribus. Ergo non possunt ea immutare.***
+Ad secundum sic proceditur. Videtur quod accidentia quae remanent in hoc sacramento, non possunt immutare aliquid extrinsecum. Illa enim agunt et patiuntur ad invicem quae communicant in materia, ut dicitur in 1 *de Generat*. Sed accidentia illa non communicant in materia cum corporibus exterioribus. Ergo non possunt ea immutare.  
 
 Praeterea, actio naturalis requirit contactum naturalem, ut patet in 1 *de Generat*. Sed mathematicis, idest dimensionibus separatis, non convenit tactus physicus, sed mathematicus tantum, sicut et locus, ut ibidem dicitur. Ergo cum in hoc sacramento sint dimensiones separatae, in quibus alia accidentia fundantur, ut dictum est, videtur quod non possint agere in aliquid extrinsecum.  
 
@@ -128,7 +130,7 @@ Praeterea, omne quod habet esse, habet agere aliquo modo: quia nulla res destitu
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non possint aliquid extrinsecum immutare substantialiter. Generans enim debet esse simile generato. Sed omne generatum est compositum ex materia et forma. Cum ergo accidentia illa sint formae tantum, non possunt immutare generatum aliquid extra se. Et hac ratione utitur Philosophus in 7 *Metaphysica* contra Platonem, qui ponebat formas separatas esse causas generationis sensibilium.***
+Ulterius. Videtur quod non possint aliquid extrinsecum immutare substantialiter. Generans enim debet esse simile generato. Sed omne generatum est compositum ex materia et forma. Cum ergo accidentia illa sint formae tantum, non possunt immutare generatum aliquid extra se. Et hac ratione utitur Philosophus in 7 *Metaphysica* contra Platonem, qui ponebat formas separatas esse causas generationis sensibilium.  
 
 Praeterea, nihil agit ultra suam speciem, sed citra quandoque: quia effectus non est nobilior causa. Sed substantia est nobilior omni accidente. Ergo illa accidentia non possunt aliquam substantiam generare.  
 
@@ -136,7 +138,7 @@ Sed contra, species istae habent eamdem virtutem quam habebant ante transubstant
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ista accidentia nullo modo possint corrumpi. Quia ista accidentia sunt formae tantum. Sed forma est invariabili essentia consistens, ut dicitur in *Lib. Sex Principiorum*. Ergo hujusmodi species non corrumpuntur.***
+Ulterius. Videtur quod ista accidentia nullo modo possint corrumpi. Quia ista accidentia sunt formae tantum. Sed forma est invariabili essentia consistens, ut dicitur in *Lib. Sex Principiorum*. Ergo hujusmodi species non corrumpuntur.  
 
 Praeterea, omnis res per se subsistens sine materia, est incorruptibilis: quia materia est corruptionis principium, sicut patet in angelis et animabus. Sed hujusmodi species sunt formae sine materia subsistentes. Ergo sunt incorruptibiles.  
 
@@ -148,7 +150,7 @@ Praeterea, quamdiu species manent, et corpus Christi manet sub sacramento. Sed c
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod ex eis non possit aliquid generari. Corruptio enim generationi vel factioni opponitur. Sed omne quod non habet materiam partem sui, si fit, oportet quod ex nihilo fiat. Ergo si corrumpitur, oportet quod in nihilum tendat, et nihil ex eo fiat.***
+Ulterius. Videtur quod ex eis non possit aliquid generari. Corruptio enim generationi vel factioni opponitur. Sed omne quod non habet materiam partem sui, si fit, oportet quod ex nihilo fiat. Ergo si corrumpitur, oportet quod in nihilum tendat, et nihil ex eo fiat.  
 
 Praeterea, substantia et accidens magis differunt quam corpus et spiritus. Sed ex corpore non potest fieri spiritus, ut patet in *Lib. de Duabus Naturis*. Ergo ex speciebus illis quae sunt accidentia tantum, non potest substantia aliqua generari.  
 
@@ -162,7 +164,7 @@ Praeterea, Innocentius dicit: *in quo similitudo deficeret, in eo sacramentum no
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod non possint nutrire. Quia omnis cibus qui nutrit, in corpus transit, et superfluitates ex eo resolvuntur. Sed cibus iste non vadit in corpus, ut Ambrosius in littera dicit. Ergo non nutrit.***
+Ulterius. Videtur quod non possint nutrire. Quia omnis cibus qui nutrit, in corpus transit, et superfluitates ex eo resolvuntur. Sed cibus iste non vadit in corpus, ut Ambrosius in littera dicit. Ergo non nutrit.  
 
 Praeterea, *ex eisdem nutrimur ex quibus sumus*, ut dicitur in 2 *de Generat*. Sed non sumus ex accidentibus. Ergo ex eis non nutrimur.  
 
@@ -174,7 +176,7 @@ Praeterea, nihil aufert sitim vel famem, nisi quod nutrit. Sed sensibiliter repe
 
 Quaestiuncula 6  
 
-***Ulterius. Videtur quod nullus liquor possit speciebus illis permisceri. Quia, ut in 1 *de Generat*., probat Philosophus, accidens non permiscetur substantiae. Sed quilibet liquor substantia quaedam est. Cum ergo illae species sint tantum accidentia, videtur quod nihil possit eis permisceri.***
+Ulterius. Videtur quod nullus liquor possit speciebus illis permisceri. Quia, ut in 1 *de Generat*., probat Philosophus, accidens non permiscetur substantiae. Sed quilibet liquor substantia quaedam est. Cum ergo illae species sint tantum accidentia, videtur quod nihil possit eis permisceri.  
 
 Praeterea, sicut hoc sacramentum sub certa forma verborum consecratur, ita et aqua benedicta. Sed si aqua permiscetur aquae benedictae, totum fit benedictum. Si ergo aliquis liquorum permisceri posset vino consecrato, esset totum consecratum; et sic liquor ille transiret in sanguinem Christi sine forma verborum, quod falsum est.  
 
@@ -190,7 +192,7 @@ Praeterea, majus est corrumpi quam permisceri. Sed species illae possunt corrump
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod agere non est nisi rei per se subsistentis; et ideo neque materia agit neque forma, sed compositum; quod tamen non agit ratione materiae, sed ratione formae, quae est actus, et actionis principium. Et quia quantitas se tenet ex parte materiae, et qualitas ex parte formae; ideo quantitas non agit nisi mediante qualitate, quae est per se actionis principium; unde qualitates sunt sensibiles primo, quantitates secundo. Quia ergo in sacramento quantitates retinent eumdem modum essendi quem habebant substantia panis existente, ideo habent eumdem modum agendi, ut immutent et agant naturaliter sicut prius. Quantitatis enim, quae alium modum essendi habet, quia non est in subjecto, non est agere nisi mediante qualitate.***
+Respondeo dicendum ad primam quaestionem, quod agere non est nisi rei per se subsistentis; et ideo neque materia agit neque forma, sed compositum; quod tamen non agit ratione materiae, sed ratione formae, quae est actus, et actionis principium. Et quia quantitas se tenet ex parte materiae, et qualitas ex parte formae; ideo quantitas non agit nisi mediante qualitate, quae est per se actionis principium; unde qualitates sunt sensibiles primo, quantitates secundo. Quia ergo in sacramento quantitates retinent eumdem modum essendi quem habebant substantia panis existente, ideo habent eumdem modum agendi, ut immutent et agant naturaliter sicut prius. Quantitatis enim, quae alium modum essendi habet, quia non est in subjecto, non est agere nisi mediante qualitate.  
 
 Ad primum ergo dicendum, quod materia accidentis est proximum subjectum ejus; proximum autem subjectum qualitatis corporalis est quantitas, ut superficies coloris; et ideo qualitas quae est actionis principium, communicat quodammodo in materia cum his quae sunt extra, quia quantitas hinc inde subesse invenitur.  
 
@@ -200,7 +202,7 @@ Ad tertium dicendum, quod quantum ad immutationem accidentalem satis simile inve
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in actionibus naturalibus formae substantiales non sunt immediatum*immediatum actionis.—immediatum et proximum actionis* PLE. actionis principium, sed agunt mediantibus qualitatibus activis et passivis, sicut propriis instrumentis; ut dicitur in 2 de anima, quod calor naturalis est quo anima agit; et ideo qualitates non solum agunt in virtute propria, sed etiam in virtute formae substantialis. Unde actio earum non solum terminatur ad formam accidentalem, sed etiam ad formam substantialem; et propter hoc generatio est terminus alterationis. Hujusmodi autem virtutem instrumentalem recipiunt eo ipso quo a principiis essentialibus causantur. Unde sicut remotis substantiis remanet accidentibus idem esse secundum speciem virtute divina, ita etiam remanet eis eadem virtus quae et prius; et ideo, sicut ante poterant immutare ad formam substantialem, ita et nunc.***
+Ad secundam quaestionem dicendum, quod in actionibus naturalibus formae substantiales non sunt immediatum*immediatum actionis.—immediatum et proximum actionis* PLE. actionis principium, sed agunt mediantibus qualitatibus activis et passivis, sicut propriis instrumentis; ut dicitur in 2 de anima, quod calor naturalis est quo anima agit; et ideo qualitates non solum agunt in virtute propria, sed etiam in virtute formae substantialis. Unde actio earum non solum terminatur ad formam accidentalem, sed etiam ad formam substantialem; et propter hoc generatio est terminus alterationis. Hujusmodi autem virtutem instrumentalem recipiunt eo ipso quo a principiis essentialibus causantur. Unde sicut remotis substantiis remanet accidentibus idem esse secundum speciem virtute divina, ita etiam remanet eis eadem virtus quae et prius; et ideo, sicut ante poterant immutare ad formam substantialem, ita et nunc.  
 
 Ad primum ergo dicendum, quod nos non ponimus omnino hujusmodi qualitates separatas, sicut Plato ponebat formas naturales, cum ponamus pro subjecto id quod erat proximum subjectum eorum primo; et ideo non est similis ratio hinc inde. Tamen hic etiam generans non est omnino simile generato: quia generatum est substantia, generans autem non. Sed hoc ideo contingit, quia, ut dictum est, hujusmodi qualitates habent instrumentalem virtutem generandi. Generatum autem non oportet quod assimiletur instrumento, sed principali generanti, ut dicit Commentator in 11 *Metaphysica*.: quia instrumentum non agit virtute sua sed alterius, et illi assimilat, non sibi; unde generatum hic assimilatur substantiae quae prius erat. Plato autem formas separatas non ponebat instrumentalia generantia, sed primas causas generationis et principales.  
 
@@ -208,7 +210,7 @@ Ad secundum dicendum, quod propria virtute nihil agit ultra suam speciem: sed vi
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod unaquaeque res habet proprium esse suae speciei. Non enim esse in omnibus est unius speciei, sicut nec animalitas est unius speciei in omnibus animalibus, nec humanitas eadem numero in omnibus hominibus, sicut et unaquaeque res habet propriam actionem. Unde sicut in qualitatibus quae remanent in sacramento, remanet actio conformis actioni substantiae prius existentis; ita etiam esse subsistens quod convenit dimensionibus remanentibus, est conforme illi esse quod prius substantia panis habebat. Unde sicut qualitas facit eamdem actionem quam prius faciebat, substantia panis et vini existente; ita esse, in quo dimensiones subsistunt, tollitur eisdem passionibus quibus antea tolleretur, eadem substantia existente; et propter hoc eodem modo corrumpuntur accidentia remanentia, sicut et prius corrumpi poterant.***
+Ad tertiam quaestionem dicendum, quod unaquaeque res habet proprium esse suae speciei. Non enim esse in omnibus est unius speciei, sicut nec animalitas est unius speciei in omnibus animalibus, nec humanitas eadem numero in omnibus hominibus, sicut et unaquaeque res habet propriam actionem. Unde sicut in qualitatibus quae remanent in sacramento, remanet actio conformis actioni substantiae prius existentis; ita etiam esse subsistens quod convenit dimensionibus remanentibus, est conforme illi esse quod prius substantia panis habebat. Unde sicut qualitas facit eamdem actionem quam prius faciebat, substantia panis et vini existente; ita esse, in quo dimensiones subsistunt, tollitur eisdem passionibus quibus antea tolleretur, eadem substantia existente; et propter hoc eodem modo corrumpuntur accidentia remanentia, sicut et prius corrumpi poterant.  
 
 Prius autem corrumpi poterant dupliciter. Uno modo manente substantia subjecti, per aliquam accidentalem mutationem: sicut ex parte qualitatum secundum aliquam alterationem vinum saporem vel colorem mutare poterat; et ita color qui prius erat, aut sapor, corrumpebatur; sed quantitas praedicto modo non poterat corrumpi per motum in quantitate, scilicet augmentum, quia vinum et panis non sunt corpora animata, quae possunt esse subjectum augmenti et diminutionis, sed per additionem vel divisionem: quia secundum Philosophum in 3 *Metaphysica*, in additione quantitatis ad quantitatem una quantitas esse incipit duabus esse desinentibus, et e contrario est in divisione. Alio modo per corruptionem substantiae: quae quidem contingit ex transmutatione accidentium, et ex parte qualitatum: quia sicut generatio, ita et corruptio est terminus alterationis; et ex parte quantitatis: quia cum unaquaeque res naturalis habeat quantitatem determinatam, intantum poterit divisio fieri quod species non remanebit.  
 
@@ -222,7 +224,7 @@ Ad tertium dicendum, quod species sic remanere miraculosum est; sed quod sic rem
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod quidam dicunt, quod quamvis illae species possint corrumpi et putrefieri, tamen ex tali putrefactione vel corruptione non generantur vermes, vel aliquid hujusmodi. Sed hoc nihil est. Constat enim quod accidentia quando corrumpuntur, non hoc modo desinunt ut dispareant omnino, ac si totaliter annihilarentur; sed succedit illis accidentibus aliquid sensibile; et hoc oportet esse de novo generatum. Nec est differentia, quidquid sit illud, utrum sit vermis, vel cinis, vel aliquid hujusmodi; quia similis difficultas est de omnibus.***
+Ad quartam quaestionem dicendum, quod quidam dicunt, quod quamvis illae species possint corrumpi et putrefieri, tamen ex tali putrefactione vel corruptione non generantur vermes, vel aliquid hujusmodi. Sed hoc nihil est. Constat enim quod accidentia quando corrumpuntur, non hoc modo desinunt ut dispareant omnino, ac si totaliter annihilarentur; sed succedit illis accidentibus aliquid sensibile; et hoc oportet esse de novo generatum. Nec est differentia, quidquid sit illud, utrum sit vermis, vel cinis, vel aliquid hujusmodi; quia similis difficultas est de omnibus.  
 
 Et ideo alii dixerunt, quod substantia panis ibi remanet, ex qua materialiter aliqua generari possunt. Sed haec opinio supra improbata est. Et ideo alii dixerunt, quod ex mutua actione accidentium sacramenti ad corpora circumstantia generantur vermes ex aere continente. Sed hoc non videtur esse verum; quia accidentia illa non habent ibi aliam actionem quam haberent si substantia remansisset; sed quando substantia erat, non poterant vermes ex aere generari, vel cinis, per talem actionem; unde nec nunc.  
 
@@ -256,7 +258,7 @@ Ad quartum dicendum, quod secundum quamlibet positionem oportet ponere aliquid i
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod quidam dixerunt quod species illae non nutriunt, sed reficiunt et inebriant ex sola immutatione accidentali, sicut aliqui inebriantur odore vini, et reficiuntur et famem amittunt ex sapore et odore. Sed hoc non potest esse; quia talis immutatio quamvis ad horam reficiat, tamen sustentare non potest; quod tamen facerent species illae, si in magna quantitate sumerentur. Et ideo alii dixerunt, quod remanet forma substantialis panis, et illa habet eamdem operationem quam habebat panis, et ideo nutrit sicut panis nutriret. Sed hoc non potest esse; quia operatio formae non est pati, sed agere; nutrimentum autem non nutrit, nisi ex hoc quod convertitur in substantiam nutriti; et ideo nutrit secundum quod*quod ex.—quod patitur et secundum quod ex* PLE. ex eo aliquid generatur; quod non potest dici de forma. Et ideo dicendum est, quod cum generari aliquid ex illis speciebus possit per modum praedictum, eodem modo et nutrire possunt.***
+Ad quintam quaestionem dicendum, quod quidam dixerunt quod species illae non nutriunt, sed reficiunt et inebriant ex sola immutatione accidentali, sicut aliqui inebriantur odore vini, et reficiuntur et famem amittunt ex sapore et odore. Sed hoc non potest esse; quia talis immutatio quamvis ad horam reficiat, tamen sustentare non potest; quod tamen facerent species illae, si in magna quantitate sumerentur. Et ideo alii dixerunt, quod remanet forma substantialis panis, et illa habet eamdem operationem quam habebat panis, et ideo nutrit sicut panis nutriret. Sed hoc non potest esse; quia operatio formae non est pati, sed agere; nutrimentum autem non nutrit, nisi ex hoc quod convertitur in substantiam nutriti; et ideo nutrit secundum quod*quod ex.—quod patitur et secundum quod ex* PLE. ex eo aliquid generatur; quod non potest dici de forma. Et ideo dicendum est, quod cum generari aliquid ex illis speciebus possit per modum praedictum, eodem modo et nutrire possunt.  
 
 Ad primum ergo dicendum, quod hoc quod dicitur, *quod non transit in corpus*, intelligendum est quantum ad rem contentam sub sacramento, scilicet verum corpus Christi, quod non mutatur in manducantem, sed ipsum in se mutat spiritualiter. Sed species in corpus comedentis convertuntur, sicut et in aliquod aliud corpus converti possunt, ut dictum est.  
 
@@ -266,7 +268,7 @@ Ad tertium dicendum, quod illa nutritio non est omnino secundum ordinem naturae,
 
 Quaestiuncula 6  
 
-***Ad sextam quaestionem dicendum, quod quidam dicunt, quod quicumque liquor addatur speciebus vini in quantacumque quantitate, statim desinit ibi esse corpus Christi; quia dimensiones illae non manent eaedem, et iterum liquor additus per totum diffunditur. Unde cum corpus Christi non sit sub speciebus cum alio corpore, oportet quod in toto desinat esse corpus Christi.***
+Ad sextam quaestionem dicendum, quod quidam dicunt, quod quicumque liquor addatur speciebus vini in quantacumque quantitate, statim desinit ibi esse corpus Christi; quia dimensiones illae non manent eaedem, et iterum liquor additus per totum diffunditur. Unde cum corpus Christi non sit sub speciebus cum alio corpore, oportet quod in toto desinat esse corpus Christi.  
 
 Sed haec positio non potest stare. Constat enim quod corpus Christi manet quamdiu illa accidentia manent; illa autem accidentia non corrumpuntur aliter quam corrumperetur substantia panis et vini. Constat autem quod ex parvo liquore addito non destrueretur vinum, et ideo nec species vini remanentes. Rationes enim praedictae non cogunt. Primo, quia non quaelibet dimensionum destructio tollit sacramentum; sicut enim additio, ita et divisio facit aliam dimensionem, ut ex dictis patet per Philosophum. Divisio autem non tollit veritatem sacramenti, ut patet in pane qui frangitur; unde nec additio; quia illa varietas dimensionum quam facit talis additio et divisio, est quantum ad determinationem ipsarum, non quantum ad indeterminatum esse earum, secundum quod competit eis subsistere; neque quantum ad esse quo subsistunt conformes substantiae praecedenti. Similiter etiam parvus liquor constat quod non potest diffundi per omnes dimensiones; nisi rarefieret et transmutaretur in aliam speciem. Unde non oportet quod occupet omnes dimensiones.  
 
@@ -288,7 +290,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod ipsum verum corpus Christi frangatur in sacramento. Omne enim quod manducatur, masticatur et frangitur. Sed verum corpus Christi manducatur: Joan. 6, 57: *qui manducat carnem meam*, etc. Ergo et frangitur.***
+Ad tertium sic proceditur. Videtur quod ipsum verum corpus Christi frangatur in sacramento. Omne enim quod manducatur, masticatur et frangitur. Sed verum corpus Christi manducatur: Joan. 6, 57: *qui manducat carnem meam*, etc. Ergo et frangitur.  
 
 Praeterea, hoc sacramentum est memoriale Dominicae passionis. Sed in passione ipsum corpus Christi est perforatum clavis et lancea. Ergo in sacramento ipsum corpus Christi frangitur.  
 
@@ -300,7 +302,7 @@ Praeterea, omne corpus frangibile est passibile. Sed corpus Christi est impassib
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nec etiam species frangantur. Signum enim debet respondere signato. Sed species sunt signum corporis Christi. Cum ergo verum corpus Christi non frangatur, nec ipsae species frangentur.***
+Ulterius. Videtur quod nec etiam species frangantur. Signum enim debet respondere signato. Sed species sunt signum corporis Christi. Cum ergo verum corpus Christi non frangatur, nec ipsae species frangentur.  
 
 Praeterea, secundum Philosophum in 4 *Meteor*., corporea dicuntur frangibilia et comminuibilia secundum determinatam dispositionem pororum. Sed species illae non habent poros: quia sub omnibus partibus specierum est aequaliter corpus Christi, et sub nulla aliquid aliud. Ergo species illae neque frangi neque comminui possunt.  
 
@@ -312,7 +314,7 @@ Praeterea, magis competit quantitati dividi quam corrumpi, vel in aliud converti
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod inconvenienter assignetur in littera significatio partium fractionis. Quia partes fractionis fractioni respondent. Sed fractio significat passionem Christi, ut in littera dicitur. Ergo partes fractionis debent significare partes veri corporis Christi, in quas per passionem divisum est corpus ejus.***
+Ulterius. Videtur quod inconvenienter assignetur in littera significatio partium fractionis. Quia partes fractionis fractioni respondent. Sed fractio significat passionem Christi, ut in littera dicitur. Ergo partes fractionis debent significare partes veri corporis Christi, in quas per passionem divisum est corpus ejus.  
 
 Praeterea, hoc sacramentum est maxime sacramentum unionis. Sed distinctio partium unioni opponitur. Ergo non competit in hoc sacramento significari partes distinctas corporis mystici.  
 
@@ -328,7 +330,7 @@ Praeterea, sicut membra distinguuntur ab invicem, ita caput distinguitur a membr
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut supra dictum est, corpus Christi non comparatur ad species sub quibus continetur, mediantibus suis dimensionibus; immo dimensiones ejus sunt ibi quasi ex consequenti; ideo quidquid convenit corpori Christi mediantibus dimensionibus suis, hoc non convenit ei secundum quod est sub sacramento. Cum ergo divisio quantitativa ei convenire non possit nisi mediante dimensione propria, constat quod fractione specierum ipsum corpus ejus non dividitur neque frangitur, etiam si passibile esset, sicut in coena fuit.***
+Respondeo dicendum ad primam quaestionem, quod sicut supra dictum est, corpus Christi non comparatur ad species sub quibus continetur, mediantibus suis dimensionibus; immo dimensiones ejus sunt ibi quasi ex consequenti; ideo quidquid convenit corpori Christi mediantibus dimensionibus suis, hoc non convenit ei secundum quod est sub sacramento. Cum ergo divisio quantitativa ei convenire non possit nisi mediante dimensione propria, constat quod fractione specierum ipsum corpus ejus non dividitur neque frangitur, etiam si passibile esset, sicut in coena fuit.  
 
 Ad primum ergo dicendum, quod in manducatione sunt multa; et fractio sive masticatio, et trajectio in ventrem sive nutritio. Primum autem convenit ipsis speciebus tantum; sed secundum et speciebus continentibus et corpori contento: quia ubi sunt species, est verum corpus Christi. Sed tertium, si loquamur spiritualiter, convenit corpori Christi, si autem corporaliter, speciebus, ut dictum est. Et ideo manducatio aliquo modo competit corpori Christi, sed non fractio, seu divisio.  
 
@@ -338,7 +340,7 @@ Ad tertium dicendum, quod forma substantialis materialis aliquo modo habet ordin
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quidam dixerunt, quod fractio secundum rei veritatem non erat in hoc sacramento. Sed hoc non potest esse: quia fractio importat passionem, sive motum quemdam, et multitudinem ad quam terminatur motus; et utrumque horum est sensibile per se. Sunt enim sensibilia communia, quae contra sensibilia per accidens dividuntur in 2 *de Anima*; et ita judicium de his pertinet ad sensitivam partem; unde cum sensus judicet fractionem, si non esset fractio, esset falsum judicium; quod non competit in sacramento veritatis. Et ideo alii dixerunt, quod est ibi fractio sine subjecto. Sed hoc non potest dici; quia fractio cum sit quidam motus, secundum rationem suae speciei, requirit terminum a quo et in quem; et ideo oportet ibi esse unum quod in multa dividitur, et hoc est subjectum fractionis. Et praeterea actio vel passio habet magis debile esse quam qualitas; unde cum qualitates in hoc sacramento ponamus in subjecto, multo fortius passionem. Et ideo, cum fractio non possit esse in corpore Christi sicut in subjecto, ut dictum est, oportet quod sit in speciebus.***
+Ad secundam quaestionem dicendum, quod quidam dixerunt, quod fractio secundum rei veritatem non erat in hoc sacramento. Sed hoc non potest esse: quia fractio importat passionem, sive motum quemdam, et multitudinem ad quam terminatur motus; et utrumque horum est sensibile per se. Sunt enim sensibilia communia, quae contra sensibilia per accidens dividuntur in 2 *de Anima*; et ita judicium de his pertinet ad sensitivam partem; unde cum sensus judicet fractionem, si non esset fractio, esset falsum judicium; quod non competit in sacramento veritatis. Et ideo alii dixerunt, quod est ibi fractio sine subjecto. Sed hoc non potest dici; quia fractio cum sit quidam motus, secundum rationem suae speciei, requirit terminum a quo et in quem; et ideo oportet ibi esse unum quod in multa dividitur, et hoc est subjectum fractionis. Et praeterea actio vel passio habet magis debile esse quam qualitas; unde cum qualitates in hoc sacramento ponamus in subjecto, multo fortius passionem. Et ideo, cum fractio non possit esse in corpore Christi sicut in subjecto, ut dictum est, oportet quod sit in speciebus.  
 
 Ad primum ergo dicendum, quod signum respondet signato quantum ad id quod*quod est.—quod fuit sed non quantum ad id quod est* PLE. est: est enim hoc sacramentum signum rememorativum respectu Dominicae passionis.  
 
@@ -348,7 +350,7 @@ Ad tertium dicendum, quod illud de speciebus quod est in una portione, non est i
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut in hoc sacramento est duplex res sacramenti, scilicet corpus Christi verum et mysticum; ita etiam fractio duo significat, scilicet ipsam divisionem corporis veri, quae facta est in passione, et haec significatio tangitur in littera, et distributionem virtutis redemptionis Christi per diversa membra ecclesiae; et hanc significationem tangit Dionysius in 3 cap. *Eccl. Hierar*. Et secundum hoc accipitur significatio partium secundum diversum membrorum statum. Quia quidam sunt adhuc vivi, et hi significantur per partem quae comeditur: quia ipsi atteruntur diversis poenalitatibus, et sunt in ipso motu, ut incorporentur Christo. Quidam autem sunt mortui: et hi sunt in duplici statu. Quia quidam in plena participatione beatitudinis; et hoc est corpus Christi quod jam surrexit, sicut ipse Christus, et Beata Virgo; et hi significantur per partem in calice missam, quia *illi inebriantur ab ubertate domus Dei*. Quidam autem sunt in expectatione plenae beatitudinis, qui vel stolam animae tantum habent, vel neutram, ut hi qui sunt in Purgatorio; et hi significantur per tertiam partem quae reservatur usque in finem: quia hi perfectam gloriam consequuntur in fine mundi, et interim in speciebus quiescunt.***
+Ad tertiam quaestionem dicendum, quod sicut in hoc sacramento est duplex res sacramenti, scilicet corpus Christi verum et mysticum; ita etiam fractio duo significat, scilicet ipsam divisionem corporis veri, quae facta est in passione, et haec significatio tangitur in littera, et distributionem virtutis redemptionis Christi per diversa membra ecclesiae; et hanc significationem tangit Dionysius in 3 cap. *Eccl. Hierar*. Et secundum hoc accipitur significatio partium secundum diversum membrorum statum. Quia quidam sunt adhuc vivi, et hi significantur per partem quae comeditur: quia ipsi atteruntur diversis poenalitatibus, et sunt in ipso motu, ut incorporentur Christo. Quidam autem sunt mortui: et hi sunt in duplici statu. Quia quidam in plena participatione beatitudinis; et hoc est corpus Christi quod jam surrexit, sicut ipse Christus, et Beata Virgo; et hi significantur per partem in calice missam, quia *illi inebriantur ab ubertate domus Dei*. Quidam autem sunt in expectatione plenae beatitudinis, qui vel stolam animae tantum habent, vel neutram, ut hi qui sunt in Purgatorio; et hi significantur per tertiam partem quae reservatur usque in finem: quia hi perfectam gloriam consequuntur in fine mundi, et interim in speciebus quiescunt.  
 
 Ad primum ergo dicendum, quod ipsum corpus Christi verum significat corpus Christi mysticum; unde partes corporis veri significant partes corporis mystici.  
 
@@ -379,7 +381,7 @@ primo, de effectu ejus quantum ad consecutionem boni;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod per hoc sacramentum non augeantur virtutes. Quia diversarum causarum diversi sunt effectus. Sed augmentum virtutis est effectus baptismi, et etiam confirmationis, ut supra dictum est. Ergo non est effectus Eucharistiae.***
+Ad primum sic proceditur. Videtur quod per hoc sacramentum non augeantur virtutes. Quia diversarum causarum diversi sunt effectus. Sed augmentum virtutis est effectus baptismi, et etiam confirmationis, ut supra dictum est. Ergo non est effectus Eucharistiae.  
 
 Praeterea, per augmentum caritatis ad perfectionem caritatis venitur. Si ergo per hoc sacramentum caritas et aliae virtutes augerentur, toties posset sumi quod homo in hac vita ad perfectam caritatem veniret, et ad summum gradum ipsius; quod non est nisi in patria, ut Augustinus dicit.  
 
@@ -391,7 +393,7 @@ Praeterea, effectus hujus sacramenti est plenitudo gratiae, ut patet in oratione
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod hoc sacramentum prosit etiam beatis ad augmentum gloriae. In collecta enim beati Leonis Papae, ut Innocentius dicit, ita dicitur: *annue nobis Domine, ut animae famuli tui Leonis haec prosit oblatio*. Sed constat beatum Leonem in gloria esse. Ergo prodest beatis ad gloriae augmentum.***
+Ulterius. Videtur quod hoc sacramentum prosit etiam beatis ad augmentum gloriae. In collecta enim beati Leonis Papae, ut Innocentius dicit, ita dicitur: *annue nobis Domine, ut animae famuli tui Leonis haec prosit oblatio*. Sed constat beatum Leonem in gloria esse. Ergo prodest beatis ad gloriae augmentum.  
 
 Praeterea, hoc sacramentum offertur etiam pro parvulis decedentibus in innocentia baptismali. Sed constat quod tales ad gloriam transeunt. Ergo prodest etiam hoc sacramentum ad augmentum gloriae.  
 
@@ -399,7 +401,7 @@ Sed contra, sacramenta ecclesiae non prosunt alicui qui non sit in statu profici
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod effectus hujus sacramenti non possit impediri nisi per peccatum mortale. Quia, sicut Ambrosius in littera dicit, *spiritualiter manducat qui innocentiam ad altare portat*. Sed quicumque sine peccato mortali accedit, portat innocentiam ad altare; quia venialia peccata innocentiam non tollunt. Cum ergo spiritualiter manducans effectum sacramenti percipiat, videtur quod effectus sacramenti non possit impediri nisi per peccatum mortale.***
+Ulterius. Videtur quod effectus hujus sacramenti non possit impediri nisi per peccatum mortale. Quia, sicut Ambrosius in littera dicit, *spiritualiter manducat qui innocentiam ad altare portat*. Sed quicumque sine peccato mortali accedit, portat innocentiam ad altare; quia venialia peccata innocentiam non tollunt. Cum ergo spiritualiter manducans effectum sacramenti percipiat, videtur quod effectus sacramenti non possit impediri nisi per peccatum mortale.  
 
 Praeterea, baptismus non est nobilius sacramentum quam istud. Sed nihil impedit effectum baptismi nisi peccatum mortale. Ergo nec effectum hujus sacramenti.  
 
@@ -411,7 +413,7 @@ Praeterea, ad hoc quod aliquis adultus gratiam recipiat, oportet quod se ad grat
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod proprius effectus cujuslibet sacramenti debet assumi ex similitudine ad materiam illius sacramenti; sicut expurgatio veteris vitae est effectus baptismi per ablutionem aquae significata. Et ideo cum materiale in hoc sacramento sit cibus, oportet quod effectus proprius hujus sacramenti accipiatur secundum similitudinem ad effectum cibi. Cibus autem corporalis primo in cibatum convertitur, et ex tali conversione, deperdita restaurat, et quantitatem auget; sed spiritualis cibus non convertitur in manducantem, sed eum ad se convertit. Unde proprius effectus hujus sacramenti est conversio hominis in Christum, ut dicat cum Apostolo, Galat. 2, 20: *vivo ego, jam non ego; vivit vero in me Christus*; et ad hoc sequuntur duo effectus: augmentum spiritualis quantitatis in augmento virtutum, et restauratio deperditorum in remissione venialium vel reparatione cujuscumque defectus praecedentis.***
+Respondeo dicendum ad primam quaestionem, quod proprius effectus cujuslibet sacramenti debet assumi ex similitudine ad materiam illius sacramenti; sicut expurgatio veteris vitae est effectus baptismi per ablutionem aquae significata. Et ideo cum materiale in hoc sacramento sit cibus, oportet quod effectus proprius hujus sacramenti accipiatur secundum similitudinem ad effectum cibi. Cibus autem corporalis primo in cibatum convertitur, et ex tali conversione, deperdita restaurat, et quantitatem auget; sed spiritualis cibus non convertitur in manducantem, sed eum ad se convertit. Unde proprius effectus hujus sacramenti est conversio hominis in Christum, ut dicat cum Apostolo, Galat. 2, 20: *vivo ego, jam non ego; vivit vero in me Christus*; et ad hoc sequuntur duo effectus: augmentum spiritualis quantitatis in augmento virtutum, et restauratio deperditorum in remissione venialium vel reparatione cujuscumque defectus praecedentis.  
 
 Ad primum ergo dicendum, quod augmentum dicitur dupliciter. Uno modo communiter, prout invenitur in viventibus et non viventibus, secundum quod quaelibet additio augmentum facit; et hoc modo virtutes augentur per omnia sacramenta quae gratiam inveniunt in subjecto, ex eo quod ipsa de se nata sunt gratiam causare. Alio modo augmentum dicitur proprie, prout est in viventibus ex conjunctione nutrimenti; et talis modus augmenti virtutum est proprius huic sacramento.  
 
@@ -421,7 +423,7 @@ Ad tertium dicendum, quod caritatis proprium est transformare amantem in amatum,
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod gloria comprehendit sanctorum praemium; quod quidem est duplex; scilicet essentiale gaudium quod de divinitate habent; et accidentale, idest gaudium quod habent de quocumque bono creato. Quantum autem ad praemium essentiale, secundum probabiliorem opinionem, eorum gloria augeri non potest; sed quantum ad praemium accidentale usque ad diem judicii augeri potest; alioquin tunc non augeretur gaudium de gloria corporis; unde de omnibus beneficiis eis gloria accrescit; quia *gaudium est angelis Dei super uno peccatore poenitentiam agente*; Luc. 15, 10; et ita etiam de omnibus quae in Dei honorem fiunt, gaudent, et maxime de his in quibus de eorum gloria Deo gratias agimus. Unde simpliciter loquendo, hoc est quantum ad essentiam gloriae, hoc sacramentum non auget in beatis gloriam; sed secundum quid, scilicet quantum ad accidentale praemium, auget.***
+Ad secundam quaestionem dicendum, quod gloria comprehendit sanctorum praemium; quod quidem est duplex; scilicet essentiale gaudium quod de divinitate habent; et accidentale, idest gaudium quod habent de quocumque bono creato. Quantum autem ad praemium essentiale, secundum probabiliorem opinionem, eorum gloria augeri non potest; sed quantum ad praemium accidentale usque ad diem judicii augeri potest; alioquin tunc non augeretur gaudium de gloria corporis; unde de omnibus beneficiis eis gloria accrescit; quia *gaudium est angelis Dei super uno peccatore poenitentiam agente*; Luc. 15, 10; et ita etiam de omnibus quae in Dei honorem fiunt, gaudent, et maxime de his in quibus de eorum gloria Deo gratias agimus. Unde simpliciter loquendo, hoc est quantum ad essentiam gloriae, hoc sacramentum non auget in beatis gloriam; sed secundum quid, scilicet quantum ad accidentale praemium, auget.  
 
 Ad primum ergo dicendum, quod sicut Innocentius solvit, ubicumque talis loquendi modus invenitur, ita debet intelligi, ut ad hoc prosit ut a fidelibus magis ac magis glorificetur in terris.  
 
@@ -429,7 +431,7 @@ Ad secundum dicendum, quod pro pueris baptizatis Missarum solemnia celebrantur, 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod omnis perfectio acquirenda impeditur per remotionem propriae dispositionis. Sicut autem dispositiones materiales se habent ad perfectionem formae, ita actus se habent ad perfectionem finis; unde cum hoc sacramentum perficiat conjungendo fini, ut supra dictum est; ad hoc quod effectum suum plene habeat in sumente, oportet quod adsit actualis devotio. Et quia interdum absque mortali peccato actualis devotio impediri potest, cum distractiones variae ipsam impediant, et peccata venialia virtutum actum tollant; absque peccato mortali potest effectus hujus sacramenti impediri, ita quod aliquis augmentum gratiae non consequatur; nec tamen reatum peccati mortalis incurret, sed forte reatum venialis peccati, ex hoc quod imparatus accedit.***
+Ad tertiam quaestionem dicendum, quod omnis perfectio acquirenda impeditur per remotionem propriae dispositionis. Sicut autem dispositiones materiales se habent ad perfectionem formae, ita actus se habent ad perfectionem finis; unde cum hoc sacramentum perficiat conjungendo fini, ut supra dictum est; ad hoc quod effectum suum plene habeat in sumente, oportet quod adsit actualis devotio. Et quia interdum absque mortali peccato actualis devotio impediri potest, cum distractiones variae ipsam impediant, et peccata venialia virtutum actum tollant; absque peccato mortali potest effectus hujus sacramenti impediri, ita quod aliquis augmentum gratiae non consequatur; nec tamen reatum peccati mortalis incurret, sed forte reatum venialis peccati, ex hoc quod imparatus accedit.  
 
 Ad primum ergo dicendum, quod innocentiam portans spiritualiter manducat habitu, sed non semper actu; et ad hoc quod effectum sacramenti percipiat, oportet quod actu spiritualiter manducet.  
 
@@ -443,7 +445,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod virtute hujus sacramenti venialia peccata non dimittantur. Qua enim ratione dimittitur unum, et aliud. Sed omnia non dimittuntur; quia sic aliquis esset frequenter absque omni veniali peccato; quod est contra illud quod dicitur 1 Joan. 1, 8: *si dixerimus quod peccatum non habemus, nosipsos seducimus*. Ergo non delet aliquod peccatum veniale.***
+Ad secundum sic proceditur. Videtur quod virtute hujus sacramenti venialia peccata non dimittantur. Qua enim ratione dimittitur unum, et aliud. Sed omnia non dimittuntur; quia sic aliquis esset frequenter absque omni veniali peccato; quod est contra illud quod dicitur 1 Joan. 1, 8: *si dixerimus quod peccatum non habemus, nosipsos seducimus*. Ergo non delet aliquod peccatum veniale.  
 
 Praeterea, peccatum non deletur nisi per id quod habet oppositionem ad ipsum. Sed veniale peccatum non habet oppositionem ad gratiam, quam hoc sacramentum confert. Ergo virtute hujus sacramenti venialia non dimittuntur.  
 
@@ -455,7 +457,7 @@ Praeterea, ut ex verbis Ambrosii in littera positis accipi potest, hoc sacrament
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam virtute hujus sacramenti dimittantur mortalia. Dicitur enim in collecta illa: *purificent nos, quaesumus Domine, sacramenta quae sumpsimus*; et mox: *praesta ut hoc tuum sacramentum sit ablutio scelerum*. Sed scelera dicuntur mortalia peccata. Ergo delet peccata mortalia.***
+Ulterius. Videtur quod etiam virtute hujus sacramenti dimittantur mortalia. Dicitur enim in collecta illa: *purificent nos, quaesumus Domine, sacramenta quae sumpsimus*; et mox: *praesta ut hoc tuum sacramentum sit ablutio scelerum*. Sed scelera dicuntur mortalia peccata. Ergo delet peccata mortalia.  
 
 Praeterea, hoc sacramentum expressius passionem Christi repraesentat quam baptismus. Sed baptismus virtute passionis in eo operantis delet peccata mortalia. Ergo et hoc sacramentum.  
 
@@ -469,7 +471,7 @@ Praeterea, hoc sacramentum non habet aliquem effectum in indigne accedentibus. S
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod remittat poenam peccati mortalis. Deus enim pronior est ad miserendum quam ad puniendum, ut dicit Glossa in principio Hier. Sed indigne accedens incurrit reatum poenae mortalis peccati. Ergo digne accedens ab eo absolvitur.***
+Ulterius. Videtur quod remittat poenam peccati mortalis. Deus enim pronior est ad miserendum quam ad puniendum, ut dicit Glossa in principio Hier. Sed indigne accedens incurrit reatum poenae mortalis peccati. Ergo digne accedens ab eo absolvitur.  
 
 Praeterea, hoc sacramentum non minus valet vivis quam mortuis. Sed mortuis valet ad remissionem poenae, quia ad hoc pro eis offertur. Ergo multo magis vivis.  
 
@@ -481,7 +483,7 @@ Praeterea, satisfactio non exigitur nisi ad dimissionem poenae. Si ergo hoc sacr
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod virtute hujus sacramenti fit quaedam transformatio hominis ad Christum per amorem, ut dictum est, et hic est proprius ejus effectus. Et quia ex fervore caritatis peccata venialia dimittuntur, propter hoc quod dicto fervori contrariantur, ideo ex consequenti, virtute hujus sacramenti, venialia delentur.***
+Respondeo dicendum ad primam quaestionem, quod virtute hujus sacramenti fit quaedam transformatio hominis ad Christum per amorem, ut dictum est, et hic est proprius ejus effectus. Et quia ex fervore caritatis peccata venialia dimittuntur, propter hoc quod dicto fervori contrariantur, ideo ex consequenti, virtute hujus sacramenti, venialia delentur.  
 
 Ad primum ergo dicendum, quod tantus potest esse devotionis fervor, quod omnia venialia peccata deleat. Nec est inconveniens quod aliqua hora homo sit absque omni peccato veniali; quamvis hoc diu durare non possit propter difficultatem vitandi peccata venialia. Nec tamen oportet quod semper omnia peccata venialia deleat, sed secundum mensuram devotionis: quia non est proximus effectus ejus deletio venialium, sed ex consequenti, ut ex dictis patet.  
 
@@ -491,7 +493,7 @@ Ad tertium dicendum, quod baptismus habet pro principali effectu delere peccatum
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod effectus sacramenti, ut dictum est, respondet his quae exterius in sacramento geruntur. Exterius autem usus hujus sacramenti est per manducationem, quae non debetur nisi rei viventi; et ideo effectus hujus sacramenti praesupponit vitam in sumente. Et quia peccatum mortale vitam spiritualem tollit, ideo hoc sacramentum non est ad abluenda peccata mortalia in sumentibus, sed illos solum defectus qui cum vita esse possunt.***
+Ad secundam quaestionem dicendum, quod effectus sacramenti, ut dictum est, respondet his quae exterius in sacramento geruntur. Exterius autem usus hujus sacramenti est per manducationem, quae non debetur nisi rei viventi; et ideo effectus hujus sacramenti praesupponit vitam in sumente. Et quia peccatum mortale vitam spiritualem tollit, ideo hoc sacramentum non est ad abluenda peccata mortalia in sumentibus, sed illos solum defectus qui cum vita esse possunt.  
 
 Ad primum ergo dicendum, quod sicut Innocentius dicit, hujusmodi locutiones sunt impropriae. Dicitur enim hoc sacramentum scelera vel crimina abluere vel tollere, inquantum ea impedit, contra ipsa robur ministrando. Vel dicendum, quod in aliquo potest esse peccatum mortale, qui ejus conscientiam non habet; et talis si devote accedit, veniam consequitur, ut supra, dist. 9, dictum est.  
 
@@ -505,7 +507,7 @@ Et quod in contrarium dicitur, quod non offertur nisi pro membris Christi, intel
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Eucharistia, inquantum est sacramentum, ut dictum est, pro principali effectu habet unionem hominis ad Christum; et ideo per modum sacramenti non aufert nisi ea quae in habente vitam huic unioni opposita invenit. Poena autem peccato mortali debita, quod jam deletum est, non est hujusmodi: ideo inquantum est sacramentum, non habet effectum poenae mortalis dimissionem; sed inquantum est sacrificium, accipit rationem satisfactionis; et secundum hoc in parte vel in toto poenam tollit, sicut et aliae satisfactiones secundum mensuram poenae debitae pro peccato et devotionis qua sacramentum offertur. Nec tamen semper virtute hujus sacramenti tota poena tollitur.***
+Ad tertiam quaestionem dicendum, quod Eucharistia, inquantum est sacramentum, ut dictum est, pro principali effectu habet unionem hominis ad Christum; et ideo per modum sacramenti non aufert nisi ea quae in habente vitam huic unioni opposita invenit. Poena autem peccato mortali debita, quod jam deletum est, non est hujusmodi: ideo inquantum est sacramentum, non habet effectum poenae mortalis dimissionem; sed inquantum est sacrificium, accipit rationem satisfactionis; et secundum hoc in parte vel in toto poenam tollit, sicut et aliae satisfactiones secundum mensuram poenae debitae pro peccato et devotionis qua sacramentum offertur. Nec tamen semper virtute hujus sacramenti tota poena tollitur.  
 
 Ad primum ergo dicendum, quod indigne accedens cum conscientia mortalis peccati, mortaliter peccat; et ideo reatum poenae debitae mortali peccato incurrit. Digne autem accedens meretur vitam aeternam, ad quam meritum ordinatur, sicut mortale peccatum ad poenam. Non autem ordinatur meritum directe principaliter ad remissionem poenae; et ideo ratio non procedit.  
 
@@ -517,7 +519,7 @@ Quaestio 3
 
 ***De frequentatione hujus sacramenti***
 
-***Deinde quaeritur de frequentatione hujus sacramenti; et circa hoc quaeruntur duo:***
+Deinde quaeritur de frequentatione hujus sacramenti; et circa hoc quaeruntur duo:  
 
 primo, de frequentatione;  
 
@@ -528,7 +530,7 @@ primo, de frequentatione;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod non debeat homo frequentare hoc sacramentum, sed semel tantum in vita sua sumere. Injuriam enim facit sacramento qui sacramentum iterat. Sed rei digniori minus facienda est injuria. Cum ergo hoc sacramentum sit dignius aliis quibusdam quae non iterantur, videtur quod non nisi semel accipi debeat.***
+Ad primum sic proceditur. Videtur quod non debeat homo frequentare hoc sacramentum, sed semel tantum in vita sua sumere. Injuriam enim facit sacramento qui sacramentum iterat. Sed rei digniori minus facienda est injuria. Cum ergo hoc sacramentum sit dignius aliis quibusdam quae non iterantur, videtur quod non nisi semel accipi debeat.  
 
 Praeterea, apostolus probat, Hebr. 10, ex unitate hostiae vel passionis Christi, unitatem baptismi. Sed hoc sacramentum magis convenit cum passione Christi, inquantum est hostia, quam baptismus. Ergo cum baptismus semel tantum percipiatur, et hoc sacramentum semel tantum debet percipi.  
 
@@ -536,7 +538,7 @@ Sed contra, *cum frequentatione mysterii crescit nostrae salutis effectus*, ut i
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod qualibet die. Ambrosius enim dicit: *iste panis quotidianus est; accipe quotidie quod quotidie tibi prosit*.***
+Ulterius. Videtur quod qualibet die. Ambrosius enim dicit: *iste panis quotidianus est; accipe quotidie quod quotidie tibi prosit*.  
 
 Praeterea, isto sacramento excitatur fervor caritatis, qua homo Christo unitur. Sed hoc expedit ut quotidie fiat. Ergo quotidie communicandum est.  
 
@@ -544,7 +546,7 @@ Sed contra est quod Augustinus dicit in Lib. *de Eccl. Dogmat*.: *quotidie Eucha
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sit semel in anno communicandum tantum. Quia agnus paschalis signum fuit hujus sacramenti. Sed sumebatur tantum semel in anno. Ergo et hoc sacramentum debet semel in anno tantum percipi.***
+Ulterius. Videtur quod sit semel in anno communicandum tantum. Quia agnus paschalis signum fuit hujus sacramenti. Sed sumebatur tantum semel in anno. Ergo et hoc sacramentum debet semel in anno tantum percipi.  
 
 Praeterea, hoc sacramentum est memoriale Dominicae passionis. Sed passionem Domini commemorat ecclesia semel in anno. Ergo tunc tantum debet esse tempus communicandi.  
 
@@ -552,7 +554,7 @@ Sed contra est quod dicit Fabianus Papa: *et si non pluries, ter saltem in anno 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod homo possit una die pluries communicare. Quia majus est celebrare quam communicare. Sed sacerdos potest una die celebrare pluries, si necesse sit. Ergo et alius fidelis potest pluries communicare.***
+Ulterius. Videtur quod homo possit una die pluries communicare. Quia majus est celebrare quam communicare. Sed sacerdos potest una die celebrare pluries, si necesse sit. Ergo et alius fidelis potest pluries communicare.  
 
 Praeterea, quotiescumque aegritudo corporalis iteratur, extrema unctio potest iterari. Sed Eucharistia ordinatur contra aegritudinem peccatorum venialium, quae uno die pluries iterantur. Ergo una die potest homo pluries communicare.  
 
@@ -560,7 +562,7 @@ Sed contra est quod dicitur *de Consecr*., dist. 1: *sufficiat sacerdoti semel i
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ea quae in hoc sacramento geruntur, habent similitudinem cum his quae accidunt in corporali nutrimento. Quia enim fit quasi continua deperditio naturalis humiditatis per actionem caloris naturalis et exercitium laboris, ideo oportet frequenter corporalem cibum assumere ad restaurationem deperditi, ne perditio continua mortem inducat. Similiter autem ex concupiscentia innata et occupatione circa exteriora fit deperditio devotionis et fervoris, secundum quae homo in Deum colligitur; unde oportet quod pluries deperdita restaurentur, ne homo totaliter alienetur a Deo.***
+Respondeo dicendum ad primam quaestionem, quod ea quae in hoc sacramento geruntur, habent similitudinem cum his quae accidunt in corporali nutrimento. Quia enim fit quasi continua deperditio naturalis humiditatis per actionem caloris naturalis et exercitium laboris, ideo oportet frequenter corporalem cibum assumere ad restaurationem deperditi, ne perditio continua mortem inducat. Similiter autem ex concupiscentia innata et occupatione circa exteriora fit deperditio devotionis et fervoris, secundum quae homo in Deum colligitur; unde oportet quod pluries deperdita restaurentur, ne homo totaliter alienetur a Deo.  
 
 Ad primum ergo dicendum, quod perfectio hujus sacramenti, ut dictum est, dist. 8, consistit in consecratione materiae, non in usu ipsius; et ideo consecratio non repetitur super eamdem materiam propter reverentiam sacramenti, sed usus potest repeti.  
 
@@ -568,13 +570,13 @@ Ad secundum dicendum, quod baptismus repraesentat illam hostiam, secundum quod f
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in hoc sacramento duo requiruntur ex parte recipientis; scilicet desiderium conjunctionis ad Christum, quod facit amor; et reverentia sacramenti, quae ad donum timoris pertinet. Primum autem incitat ad frequentationem hujus sacramenti quotidianam, sed secundum retrahit. Unde si aliquis experimentaliter cognosceret ex quotidiana sumptione fervorem amoris augeri, et reverentiam non minui, talis deberet quotidie communicare; si autem sentiret per quotidianam frequentationem reverentiam minui, et fervorem non multum augeri, talis deberet interdum abstinere, ut cum majori reverentia et devotione postmodum accederet. Unde quantum ad hoc unusquisque relinquendus est judicio suo; et hoc est quod Augustinus dicit: *Dixit quispiam, non quotidie accipiendam esse Eucharistiam, alius affirmet quotidie sumendam; faciat unusquisque quod secundum fidem suam pie credit esse faciendum*; et probat per exemplum Zachaei et centurionis; quorum unus recipit Dominum gaudens, Luc. 19, alius dicit Matth. 8, 8: *non sum dignus ut intres sub tectum meum*; et uterque misericordiam consecutus est.***
+Ad secundam quaestionem dicendum, quod in hoc sacramento duo requiruntur ex parte recipientis; scilicet desiderium conjunctionis ad Christum, quod facit amor; et reverentia sacramenti, quae ad donum timoris pertinet. Primum autem incitat ad frequentationem hujus sacramenti quotidianam, sed secundum retrahit. Unde si aliquis experimentaliter cognosceret ex quotidiana sumptione fervorem amoris augeri, et reverentiam non minui, talis deberet quotidie communicare; si autem sentiret per quotidianam frequentationem reverentiam minui, et fervorem non multum augeri, talis deberet interdum abstinere, ut cum majori reverentia et devotione postmodum accederet. Unde quantum ad hoc unusquisque relinquendus est judicio suo; et hoc est quod Augustinus dicit: *Dixit quispiam, non quotidie accipiendam esse Eucharistiam, alius affirmet quotidie sumendam; faciat unusquisque quod secundum fidem suam pie credit esse faciendum*; et probat per exemplum Zachaei et centurionis; quorum unus recipit Dominum gaudens, Luc. 19, alius dicit Matth. 8, 8: *non sum dignus ut intres sub tectum meum*; et uterque misericordiam consecutus est.  
 
 Et per hoc patet solutio ad objecta.  
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod secundum diversos status fidei diversus mos de hoc inolevit. Nam in primitiva ecclesia, quando vigebat devotio major ex propinquitate passionis Christi, et erat major impugnatio ab infidelibus, quia haec mensa adversus tribulationes ecclesiae praeparatur, quotidie communicandum fidelibus indicebatur; unde Anacletus Papa dicit: *peracta consecratione omnes communicent, qui nolunt ecclesiasticis carere liminibus. Sic enim apostoli statuerunt*. Postmodum indictum fuit ut saltem ter in anno communicarent, ut dictum est, propter solemnitatem illorum dierum. Sed postmodum arctatum est, ut saltem semel in anno, scilicet in Pascha, communicent; et ad hoc etiam multi idonei non inveniuntur. Et quamvis statutum ecclesiae non liceat praeterire, tamen licet pluries communicare. Unde Augustinus laudat omnibus diebus Dominicis communicandum esse; et ita pluries in anno potest communicare quis.***
+Ad tertiam quaestionem dicendum, quod secundum diversos status fidei diversus mos de hoc inolevit. Nam in primitiva ecclesia, quando vigebat devotio major ex propinquitate passionis Christi, et erat major impugnatio ab infidelibus, quia haec mensa adversus tribulationes ecclesiae praeparatur, quotidie communicandum fidelibus indicebatur; unde Anacletus Papa dicit: *peracta consecratione omnes communicent, qui nolunt ecclesiasticis carere liminibus. Sic enim apostoli statuerunt*. Postmodum indictum fuit ut saltem ter in anno communicarent, ut dictum est, propter solemnitatem illorum dierum. Sed postmodum arctatum est, ut saltem semel in anno, scilicet in Pascha, communicent; et ad hoc etiam multi idonei non inveniuntur. Et quamvis statutum ecclesiae non liceat praeterire, tamen licet pluries communicare. Unde Augustinus laudat omnibus diebus Dominicis communicandum esse; et ita pluries in anno potest communicare quis.  
 
 Ad primum ergo dicendum, quod agnus paschalis fuit figura hujus sacramenti ratione passionis Christi, quae semel tantum facta est; et ideo semel tantum in anno sumebatur: sed manna, quod fuit figura hujus sacramenti, inquantum hoc sacramentum est cibus fidelium, quolibet die sumebatur.  
 
@@ -582,7 +584,7 @@ Ad secundum dicendum, quod ecclesia tempore passionis recolit ipsam passionem se
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod homo non debet pluries in una die communicare, ut saltem quantum ad unam diem repraesentetur unitas Dominicae passionis, et ut quantum ad aliquid reverentia sacramento exhibeatur semel tantum sumendo.***
+Ad quartam quaestionem dicendum, quod homo non debet pluries in una die communicare, ut saltem quantum ad unam diem repraesentetur unitas Dominicae passionis, et ut quantum ad aliquid reverentia sacramento exhibeatur semel tantum sumendo.  
 
 Ad primum ergo dicendum, quod sacerdos est quasi persona publica, et ideo oportet quod non solum pro se, sed etiam pro aliis celebret; et ideo necessitate cogente potest pluries celebrare in die. Sed non est eadem ratio de illis qui non sumunt nisi ratione sui.  
 
@@ -594,7 +596,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod liceat omnino a communione cessare. Quia nullus tenetur nisi ad ea quae sunt necessitatis. Sed hoc sacramentum, ut supra, dist. 9, dictum est, non est necessitatis. Ergo aliquis potest omnino a sacramenti sumptione cessare.***
+Ad secundum sic proceditur. Videtur quod liceat omnino a communione cessare. Quia nullus tenetur nisi ad ea quae sunt necessitatis. Sed hoc sacramentum, ut supra, dist. 9, dictum est, non est necessitatis. Ergo aliquis potest omnino a sacramenti sumptione cessare.  
 
 Praeterea, quod fit ad reverentiam Dei, non est peccatum. Sed aliquis potest ex reverentia sacramenti omnino cessare. Ergo si omnino cesset, non est peccatum.  
 
@@ -606,7 +608,7 @@ Praeterea, statutum est ecclesiae, ut saltem semel in anno fideles communicent. 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ille qui consecrat, possit a communione cessare. Quia ubi est major necessitas, ibi secundum ordinem debitum caritatis est magis subveniendum. Sed potest contingere quod postquam sacerdos consecraverit, aliquis infirmetur ad mortem, et instanter petat corpus Christi in ultima necessitate constitutus. Ergo cum sit hoc sacramentum caritatis, debet sacerdos ipse a communione desistere, et infirmo dare.***
+Ulterius. Videtur quod ille qui consecrat, possit a communione cessare. Quia ubi est major necessitas, ibi secundum ordinem debitum caritatis est magis subveniendum. Sed potest contingere quod postquam sacerdos consecraverit, aliquis infirmetur ad mortem, et instanter petat corpus Christi in ultima necessitate constitutus. Ergo cum sit hoc sacramentum caritatis, debet sacerdos ipse a communione desistere, et infirmo dare.  
 
 Praeterea, gravius est peccatum peccato superaddere quam unum simplex peccatum committere. Sed habens conscientiam peccati mortalis peccat consecrando, peccat etiam communicando. Ergo ex quo consecravit, debet saltem a sumptione cessare.  
 
@@ -618,7 +620,7 @@ Praeterea, hoc idem videtur ex verbis Domini, quibus dixit hoc sacramentum insti
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod laudabilius sit abstinere ab hoc sacramento quam accedere. Quia ad Deum maxime per humilitatem appropinquamus. Sed quod homo ex reverentia sacramenti a communione desistit, humilitatis est. Ergo videtur magis meritorium et fructuosum, quam etiam sumere.***
+Ulterius. Videtur quod laudabilius sit abstinere ab hoc sacramento quam accedere. Quia ad Deum maxime per humilitatem appropinquamus. Sed quod homo ex reverentia sacramenti a communione desistit, humilitatis est. Ergo videtur magis meritorium et fructuosum, quam etiam sumere.  
 
 Praeterea, caritatis verae est magis Dei gloriam quam commodum proprium quaerere. Sed iste qui abstinet, videtur propter gloriam Dei facere quam reveretur; qui autem sumit, propter proprium commodum facere, quia fructum sacrum quaerit. Ergo illud est perfectioris caritatis, et ita magis meritorium.  
 
@@ -626,7 +628,7 @@ Sed contra, in aliis sacramentis ei cui licet sacramentum accipere, melius est a
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod nulli licet omnino a communione cessare: quia ecclesia statuit tempus in quo fideles communicare debeant; unde qui omnino desistunt, efficiuntur rei transgressionis praecepti. Institutio autem ecclesiae fuit necessaria: quia enim in quotidiana pugna sumus, vita spiritualis in nobis evanesceret, nisi aliquando cibum vitae sumeremus.***
+Respondeo dicendum ad primam quaestionem, quod nulli licet omnino a communione cessare: quia ecclesia statuit tempus in quo fideles communicare debeant; unde qui omnino desistunt, efficiuntur rei transgressionis praecepti. Institutio autem ecclesiae fuit necessaria: quia enim in quotidiana pugna sumus, vita spiritualis in nobis evanesceret, nisi aliquando cibum vitae sumeremus.  
 
 Ad primum ergo dicendum, quod hoc sacramentum de sui institutione prima, quamvis non sit de necessitate salutis, tamen ex institutione ecclesiae necessarium efficitur; et sine hoc etiam necessarium esset non simpliciter, ut sine quo non esset salus, sed ex suppositione finis; si scilicet homo in vita spirituali firmus persistere vellet.  
 
@@ -636,7 +638,7 @@ Ad tertium dicendum, quod verbum Augustini referendum est ad hoc quod quotidie s
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod semper ille qui consecrat, debet sumere corpus et sanguinem Christi, nisi impediatur vel per violentiam, vel per mortem, vel per infirmitatem, aut aliquid hujusmodi: cujus ratio potest sumi ex parte ipsius sacramenti, quod in ipsa sumptione complementum suae significationis accipit: quia, ut dicit Augustinus, dum sanguis in ore fidelium de calice funditur, sanguinis effusio de latere Christi designatur: et etiam complementum suae efficaciae, quia ultimum effectum proprium habet in hoc quod sumitur. Ut ergo sacramentum sit perfectum, oportet illum qui sacramentum celebravit, communicare. Potest etiam sumi ratio ex parte ipsius consecrantis: quia cum ipse sit aliis dispensator divinorum, debet primo in participatione divinorum fieri, ut Dionysius dicit in 3 cap. Eccles. Hierar.***
+Ad secundam quaestionem dicendum, quod semper ille qui consecrat, debet sumere corpus et sanguinem Christi, nisi impediatur vel per violentiam, vel per mortem, vel per infirmitatem, aut aliquid hujusmodi: cujus ratio potest sumi ex parte ipsius sacramenti, quod in ipsa sumptione complementum suae significationis accipit: quia, ut dicit Augustinus, dum sanguis in ore fidelium de calice funditur, sanguinis effusio de latere Christi designatur: et etiam complementum suae efficaciae, quia ultimum effectum proprium habet in hoc quod sumitur. Ut ergo sacramentum sit perfectum, oportet illum qui sacramentum celebravit, communicare. Potest etiam sumi ratio ex parte ipsius consecrantis: quia cum ipse sit aliis dispensator divinorum, debet primo in participatione divinorum fieri, ut Dionysius dicit in 3 cap. Eccles. Hierar.  
 
 Ad primum ergo dicendum, quod in tali casu non oportet quod sacerdos communionem intermittat; sed potest dare infirmo petenti partem hostiae consecratae.  
 
@@ -646,7 +648,7 @@ Ad tertium dicendum, quod perfectio sacramenti hujus in utroque consistit, ut ex
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in his quae sunt ex genere suo bona, peccatum non accidit, nisi ex aliquo accidente, dum inordinate explentur; et ideo ea perficere per se bonum est; sed abstinere ab eis non est bonum nisi ratione accidentis alicujus. Unde cum Eucharistiam accipere sit bonum ex genere, assumere eam est bonum per se, abstinere est bonum per accidens, inquantum scilicet timetur ne inordinate sumatur. Et quia quod est per se, praejudicat ei quod est per accidens; ideo simpliciter loquendo, melius est Eucharistiam sumere quam ab ea abstinere; sed in casu aliquo nihil prohibet esse melius abstinere, quando aliquis probabiliter praesumit ex sumptione reverentiam minui. Si autem haec duo comparemus, adhuc invenitur praevalere sumptio sacramenti abstinentiae a sacramento, tum ratione effectus sacramenti, tum ratione praeparationis, quantulacumque sit; tum etiam ratione virtutis elicientis actum: quia sumere videtur esse caritatis, in qua radix meriti consistit; abstinere autem timoris: amor autem timori praevalet.***
+Ad tertiam quaestionem dicendum, quod in his quae sunt ex genere suo bona, peccatum non accidit, nisi ex aliquo accidente, dum inordinate explentur; et ideo ea perficere per se bonum est; sed abstinere ab eis non est bonum nisi ratione accidentis alicujus. Unde cum Eucharistiam accipere sit bonum ex genere, assumere eam est bonum per se, abstinere est bonum per accidens, inquantum scilicet timetur ne inordinate sumatur. Et quia quod est per se, praejudicat ei quod est per accidens; ideo simpliciter loquendo, melius est Eucharistiam sumere quam ab ea abstinere; sed in casu aliquo nihil prohibet esse melius abstinere, quando aliquis probabiliter praesumit ex sumptione reverentiam minui. Si autem haec duo comparemus, adhuc invenitur praevalere sumptio sacramenti abstinentiae a sacramento, tum ratione effectus sacramenti, tum ratione praeparationis, quantulacumque sit; tum etiam ratione virtutis elicientis actum: quia sumere videtur esse caritatis, in qua radix meriti consistit; abstinere autem timoris: amor autem timori praevalet.  
 
 Ad primum ergo dicendum, quod caritas est quae Deo directe nos conjungit; sed humilitas ad hanc unionem disponit, inquantum hominem Deo subdit; unde meritum magis consistit in caritate quam in humilitate.  
 
@@ -654,7 +656,7 @@ Ad secundum dicendum, quod in hoc maxime est gloria Dei et bonitas, quod se crea
 
 Expositio textus  
 
-****Sicut et Christus se ostendit*, etc. Contra, veritatem non decet aliqua fictio. Ergo non debuit eis aliud ostendere quam quod in ipso erat. Et ideo dicendum, quod Christus eis speciem suam naturalem ostendit, et sensus exterior per eam movebatur; sed propter dubitationem resurrectionis, sensus interioris judicium impediebatur; unde *eum talem inspiciebant exterius*, ut Gregorius dicit *qualis erat apud eos interius*; et ita non erat aliqua deceptio ex parte Christi, sicut non est aliqua deceptio in Sacra Scriptura ex hoc quod finguntur figurae angelis et ipsi Deo; non enim ad hoc fit ut in eis intellectus remaneat, sed ut ex his in significata eorum surgat; et ita etiam per speciem illam in qua eis apparuit, voluit eis Dominus interiorem eorum dispositionem significare.***
+*Sicut et Christus se ostendit*, etc. Contra, veritatem non decet aliqua fictio. Ergo non debuit eis aliud ostendere quam quod in ipso erat. Et ideo dicendum, quod Christus eis speciem suam naturalem ostendit, et sensus exterior per eam movebatur; sed propter dubitationem resurrectionis, sensus interioris judicium impediebatur; unde *eum talem inspiciebant exterius*, ut Gregorius dicit *qualis erat apud eos interius*; et ita non erat aliqua deceptio ex parte Christi, sicut non est aliqua deceptio in Sacra Scriptura ex hoc quod finguntur figurae angelis et ipsi Deo; non enim ad hoc fit ut in eis intellectus remaneat, sed ut ex his in significata eorum surgat; et ita etiam per speciem illam in qua eis apparuit, voluit eis Dominus interiorem eorum dispositionem significare.  
 
 *Qui confessus est coram Nicolao Papa*, etc. Videtur ex hoc quod haec opinio omnino sit tenenda, quia in principio confessionis hujus dicitur: *consentio Romanae ecclesiae, et apostolicae sedi*. Ergo nulli licet aliter tenere. Et dicendum, quod quia Berengarius negaverat verum corpus Christi in altari esse, coactus fuit hanc confessionem facere; unde non intendit dicere, quod ipsum corpus Christi frangatur, sed quod sub speciebus, in quibus est fractio, verum corpus Christi sit; et in hoc se dicit consentire apostolicae sedi, a contrario errore reversus.  
 

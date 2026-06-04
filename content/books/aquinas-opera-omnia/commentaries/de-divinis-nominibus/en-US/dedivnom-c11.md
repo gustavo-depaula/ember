@@ -1,10 +1,12 @@
 # C. 10 - On Omnipotent; Ancient of Days; In Which Also On Aevum and On Time
 
+***On Omnipotent; Ancient of Days; In Which Also On Aevum and On Time***
+
 ***Lectio 1***
 
 ***How God Is Called Omnipotent***
 
-***C. X, §1. 384. Yet see to it that you praise by the word the God of many names, as omnipotent, as Ancient of Days (Dan 7:9).***
+C. X, §1. 384. Yet see to it that you praise by the word the God of many names, as omnipotent, as Ancient of Days (Dan 7:9).  
 
 > 385. For this is said indeed on account of the fact that he is the omnipotent session of all things, containing and circum-possessing the whole of things and gathering and founding and binding and perfecting every firm thing in himself, as from an all-holding root, producing and converting all things to himself, as also an all-holding plantation.
 
@@ -80,7 +82,7 @@ Lectio 2
 
 ***Why God Is Called Ancient of Days***
 
-***388. Yet God is praised as Ancient of Days on account of the fact that he is both the aevum and the time of all things and before days and the aevum and times.***
+388. Yet God is praised as Ancient of Days on account of the fact that he is both the aevum and the time of all things and before days and the aevum and times.  
 
 > 389. And indeed it is fitting to call him time and day and fourth part of a year and aevum, as befits God, as existing as unchangeable according to every motion and immobile and in this: that he always is moved remaining in himself.
 
@@ -124,7 +126,7 @@ Lectio 3
 
 ***On Aevum and Time***
 
-***§3. 392. Yet it is necessary, as I reckon, to see from the eloquences the nature both of time and of the aevum.***
+§3. 392. Yet it is necessary, as I reckon, to see from the eloquences the nature both of time and of the aevum.  
 
 > 393. For it calls eternal not the altogether and absolutely unbegotten and truly eternal everywhere, but also the incorruptible and immortal and invariable and existing in the same way, as when it says, *lift up, eternal gates* (Ps 24:7); and similar things. Yet many times also it figures most ancient things by the naming of aevum and the whole setting out of time again according to us, when it labels aevum.
 

@@ -1,5 +1,7 @@
 # Q. 11 - On acedia
 
+***De accidia***
+
 ***Articulus 1***
 
 ***Utrum accidia sit peccatum***

@@ -1,10 +1,12 @@
 # C. 17 - Causes of Israel’s obstinance
 
+***Causes of Israel’s obstinance***
+
 ***Lecture 1***
 
 ***Curses and blessings***
 
-***^17:1^ The sin of Judah is written with an iron pen, and a nail of diamond,*Unguis* literally means “fingernail” or “claw”; the sharp point of a stylus is meant here. it is graven upon the breadth of their heart, and on the horns of their altars.***
+^17:1^ The sin of Judah is written with an iron pen, and a nail of diamond,*Unguis* literally means “fingernail” or “claw”; the sharp point of a stylus is meant here. it is graven upon the breadth of their heart, and on the horns of their altars.  
 
 > ^17:2^ When their sons shall remember their altars, and their groves, and their leafy trees, upon the high mountains,
 
@@ -94,7 +96,7 @@ Lecture 2
 
 ***Folly of riches***
 
-***^17:11^ As the partridge has hatched what she did not lay, so he who has gotten riches and not by judgment; he shall leave them in the midst of his days, and at the last he shall be a fool.***
+^17:11^ As the partridge has hatched what she did not lay, so he who has gotten riches and not by judgment; he shall leave them in the midst of his days, and at the last he shall be a fool.  
 
 > ^17:12^ A high and glorious throne from the beginning is the place of our sanctification.Heb. כִּסֵּ֣א כָב֔וֹד מָר֖וֹם מֵֽרִאשׁ֑וֹן מְק֖וֹם מִקְדָּשֵֽׁנוּ: *a throne of glory, exalted from the beginning, is the place of our sanctification*.
 
@@ -116,7 +118,7 @@ Lecture 3
 
 ***Disbelief in God’s threats***
 
-***^17:15^ Behold, they themselves say unto me, ‘Where is the word of the Lord? Let it come.’***
+^17:15^ Behold, they themselves say unto me, ‘Where is the word of the Lord? Let it come.’  
 
 > ^17:16^ And I am not troubled following you, my shepherd; and I have not desired the day of man, you know; what has come forth from my lips was right in your sight.
 
@@ -140,7 +142,7 @@ Lecture 4
 
 ***Inobservance of the Sabbath***
 
-***^17:19^ Thus says the Lord unto me: go and stand in the gate of the sons of the people, through which the kings of Judah come in, and go out, and in all the gates of Jerusalem.***
+^17:19^ Thus says the Lord unto me: go and stand in the gate of the sons of the people, through which the kings of Judah come in, and go out, and in all the gates of Jerusalem.  
 
 > ^17:20^ And you shall say to them: hear the word of the Lord, O kings of Judah, and all Judah, and all the inhabitants of Jerusalem, who enter through these gates.
 
@@ -184,6 +186,6 @@ Third, he threatens burning to the defiant: ***but if you will not hearken . . .
 
 Collations  
 
-***Note that the saints ***put forth*** ***fruit*** (Jer 17:8) through the contemplation of wisdom: *come to her as he who ploughs, and he who sows, and wait for her good fruits* (Sir 6:19); through the fervor of charity: *let my beloved come to his garden, that he may eat the fruit of his apple trees* (Song 5:1); through the profession of praise: *through him we offer perpetually to God the sacrifice of praise, that is the fruit of lips confessing his name* (Heb 13:15); by doing what is meritorious: *for the Lord will give his goodness, and our land will give her fruit* (Ps 84:13); through the conversion of one’s neighbors: *that you should go and bear fruit, and that your fruit should abide* (John 15:16).***
+Note that the saints ***put forth*** ***fruit*** (Jer 17:8) through the contemplation of wisdom: *come to her as he who ploughs, and he who sows, and wait for her good fruits* (Sir 6:19); through the fervor of charity: *let my beloved come to his garden, that he may eat the fruit of his apple trees* (Song 5:1); through the profession of praise: *through him we offer perpetually to God the sacrifice of praise, that is the fruit of lips confessing his name* (Heb 13:15); by doing what is meritorious: *for the Lord will give his goodness, and our land will give her fruit* (Ps 84:13); through the conversion of one’s neighbors: *that you should go and bear fruit, and that your fruit should abide* (John 15:16).  
 
 It is also to be noted that some ***follow*** (Jer 17:16) Christ through the integrity of the flesh: *for they are virgins, and they follow the Lamb wherever he goes* (Rev 14:4); through the intention of the heart: *I follow if by any means I may apprehend* (Phil 3:12); through the suffering of tribulation: *Christ has suffered for us leaving you an example, that you should follow his steps* (1 Pet 2:21); through the keeping of the commandments: *my foot has followed his steps, I have kept his way, and have not turned aside from it* (Job 23:11). *It is a great glory to follow the Lord; for length of days shall be received from him* (Wis 23:38).

@@ -1,5 +1,7 @@
 # Proposition 29
 
+199. Omnis substantia simplex est stans per se ipsam, scilicet per essentiam suam.  
+
 > 200. Nam ipsa est creata sine tempore, et est in substantialitate sua superior substantiis temporalibus.
 
 > 201. Et significatio illius est, quod non est generata ex aliquo, quoniam est stans per essentiam suam; et substantiae generatae ex aliquo sunt substantiae compositae cadentes sub generatione.

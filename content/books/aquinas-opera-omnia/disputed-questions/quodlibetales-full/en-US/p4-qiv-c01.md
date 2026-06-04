@@ -1,5 +1,7 @@
 # On Divine Things
 
+***On essential things***
+
 ***Question 1***
 
 ***On the knowledge of God***
@@ -22,7 +24,7 @@ Article 1
 
 ***Whether in God there are many ideas***
 
-***About the knowledge of God there was a question whether in God there are many ideas. And it seems that there are.***
+About the knowledge of God there was a question whether in God there are many ideas. And it seems that there are.  
 
 Obj. 1: For Augustine says in the *Book of Eighty-Three Questions* that God created *singular things by their own proper intelligible notions*,Augustine, *Book of Eighty-Three Different Questions*, q. 46, para. 2 (PL 40:30; CCSL 44A:72). and man by one intelligible notion, a horse by another intelligible notion; but the *intelligible notions of things in the divine mind are* called *ideas*,Augustine, *Book of Eighty-Three Different Questions*, q. 46, para. 2 (PL 40:30; CCSL 44A:72–73). as is clear through Augustine in the same place. Therefore, there are many ideas.  
 
@@ -70,7 +72,7 @@ Article 2
 
 ***On a certain effect of divine power***
 
-***To the second we proceed thus. It seems that waters having the true species of elemental water exist above the heavens.***
+To the second we proceed thus. It seems that waters having the true species of elemental water exist above the heavens.  
 
 Obj. 1: For man is called a lesser world on account of the likeness which he has with the greater world. But we see that in the human body, the brain, which has the nature of water, is placed above the heart, which has the property of fire inasmuch as it is a font of natural heat. Therefore, also in the greater world, water is placed above the other elements.Cf. Albert the Great, *In II Sent*., d.14 A, a. 1, 27:256a; Aquinas, *In II Sent*. 14.1.1, obj. 2. And this reasoning seems to be Augustine’s in the eleventh book of *On the City of God*, where he says, concerning certain things,In particular, concerning Porphyry’s book *Against the Christians*, according to Jean Pepin, *Theologie cosmique et theologie chretienne* (Paris: Presses Universitaires de France, 1964), 418–61. that *by the weights of the elements they are moved and for this reason, they do not think that the fluid and heavy nature of the waters could be constituted in the superior places of the world, who according to their characters, if they had* been able to *make man, would not have placed mucus in the head, which in Greek is called phlegm and just as in the elements of our body obtains the place of waters*.Augustine, *City of God* 11.34 (CCSL 48:354; PL 41:348).  
 
@@ -102,7 +104,7 @@ Question 3
 
 ***To what the divine power can extend itself***
 
-***Then we must consider to what the divine power can extend itself. And about this there were two questions:***
+Then we must consider to what the divine power can extend itself. And about this there were two questions:  
 
 first, whether God can reduce something to nothing;  
 
@@ -134,9 +136,9 @@ In another way, something is a cause of a defect outside of intention, and thus 
 
 Article 2  
 
-***If something were reduced to nothing, whether God could restore it the same in number***
+If something were reduced to nothing, whether God could restore it the same in number  
 
-***To the second we proceed thus. It seems that God cannot restore the same in number what has been reduced to nothing.***
+To the second we proceed thus. It seems that God cannot restore the same in number what has been reduced to nothing.  
 
 Obj. 1: For the Philosopher says in the second book of *On Generation* that those things whose substance is corrupted are not repeated the same in number.Aristotle, *On Generation and Corruption* 2.12, 338b11–19. But for something reduced to nothing, the substance is corrupted. Therefore, they cannot be repeated the same in number.  
 
@@ -160,7 +162,7 @@ On personal things which pertain to the person of the Son
 
 ***Regarding the divine nature of the Son***
 
-***Then there were questions about personal things which pertain to the person of the Son:***
+Then there were questions about personal things which pertain to the person of the Son:  
 
 and first, regarding the divine nature,Q. 4.  
 
@@ -176,7 +178,7 @@ Article 1
 
 ***Whether the Father by the same word speaks himself and creation***
 
-***To the first we proceed thus. It seems that the Father does not speak himself and creation by the same word.***
+To the first we proceed thus. It seems that the Father does not speak himself and creation by the same word.  
 
 Obj. 1: For to speak himself applies only to the Father, as Augustine says in the seventh book of *On the Trinity*.Augustine, *On the Trinity* 7.1 (CCSL 50:244–45; PL 42:933). But to speak creation applies to the whole Trinity: for those things which involve respect to creation apply to the whole Trinity, as is clear through Dionysius in the second chapter of *On the Divine Names*.Pseudo-Dionysius, *On the Divine Names* 2, para. 3 (PG 3:639); Aquinas, *Commentary on Dionysius’s On the Divine Names*, ch. 2, lect. 1, n. 126. Therefore, the Father does not speak himself and creation by the same word.  
 
@@ -196,7 +198,7 @@ Article 2
 
 ***Whether the Son is distinguished from the Holy Spirit by his sonship***
 
-***To the second we proceed thus. It seems that the Son is distinguished from the Holy Spirit by sonship.***
+To the second we proceed thus. It seems that the Son is distinguished from the Holy Spirit by sonship.  
 
 Obj. 1: For the same thing constitutes something and distinguishes it from something else. But the person of the Son is constituted by sonship, which is his personal property, that is, which constitutes the person of the Son. Therefore, he is distinguished from the Holy Spirit by sonship.  
 
@@ -222,9 +224,9 @@ Question 5
 
 Article 1  
 
-***Whether the body of Christ affixed to the cross and lying in the tomb is one in number***
+Whether the body of Christ affixed to the cross and lying in the tomb is one in number  
 
-***And about this it was asked whether the body of Christ affixed to the cross and lying in the tomb is one in number. And it seems it is not.***
+And about this it was asked whether the body of Christ affixed to the cross and lying in the tomb is one in number. And it seems it is not.  
 
 Obj. 1: For whatever things differ in species differ in number. But the body of Christ hung upon the cross and lying in the tomb differ in species in the same way the dead and the living differ in species. Therefore, it is not one and the same in number.  
 

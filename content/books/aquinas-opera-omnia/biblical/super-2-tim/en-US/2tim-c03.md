@@ -1,10 +1,12 @@
 # C. 2 - Suffering for Christ
 
+***Suffering for Christ***
+
 ***Lecture 1***
 
 ***Soldier of Christ***
 
-***^2:1^ You therefore, my son, be strong in the grace, which is in Christ Jesus: [n. 35]***
+^2:1^ You therefore, my son, be strong in the grace, which is in Christ Jesus: [n. 35]  
 
 > ^2:2^ And the things which you have heard of me by many witnesses, the same commend to faithful men who shall be fit to teach others also. [n. 37]
 
@@ -106,7 +108,7 @@ Lecture 2
 
 ***Die and rise with Christ***
 
-***^2:8^ Be mindful that the Lord Jesus Christ is risen again from the dead, of the seed of David, according to my Gospel: [n. 48]***
+^2:8^ Be mindful that the Lord Jesus Christ is risen again from the dead, of the seed of David, according to my Gospel: [n. 48]  
 
 > ^2:9^ Wherein I labor even unto bands, as an evildoer. But the word of God is not bound. [n. 50]
 
@@ -230,7 +232,7 @@ Lecture 3
 
 ***Vessels of dishonor***
 
-***^2:16^ But shun profane and vain babblings: for they grow much towards ungodliness. [n. 63]***
+^2:16^ But shun profane and vain babblings: for they grow much towards ungodliness. [n. 63]  
 
 > ^2:17^ And their speech spreads like a canker: of whom are Hymeneus and Philetus: [n. 67]
 
@@ -324,7 +326,7 @@ Lecture 4
 
 ***Precepts of holiness***
 
-***^2:21^ If any man therefore shall cleanse himself from these, he shall be a vessel unto honor, sanctified and profitable to the Lord, prepared unto every good work. [n. 75]***
+^2:21^ If any man therefore shall cleanse himself from these, he shall be a vessel unto honor, sanctified and profitable to the Lord, prepared unto every good work. [n. 75]  
 
 > ^2:22^ But flee youthful desires, and pursue justice, faith, hope, charity and peace with them that call on the Lord out of a pure heart. [n. 78]
 

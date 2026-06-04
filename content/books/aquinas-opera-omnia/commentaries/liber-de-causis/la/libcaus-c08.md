@@ -1,5 +1,7 @@
 # Proposition 7
 
+***64. Intelligentia est substantia, quae non dividitur.***
+
 > 65. Quod est, quia, si non est cum magnitudine neque corpus neque movetur, tunc procul dubio non dividitur.
 
 > 66. Et iterum omne divisibile non dividitur nisi aut in multitudinem aut in magnitudinem aut in motum suum.

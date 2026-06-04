@@ -1,5 +1,7 @@
 # C. 7 - No help from divine religion
 
+***Lectio 1***
+
 ***^7:1^ Verbum quod factum est ad Jeremiam a Domino, dicens:***
 
 > ^7:2^ sta in porta domus Domini, et praedica ibi verbum istud, et dic: Audite verbum Domini, omnis Juda, qui ingredimini per portas has ut adoretis Dominum.
@@ -90,7 +92,7 @@ Et quantum ad captivationem populi, ***projiciam vos***. Infra 23: ***vos disper
 
 Lectio 2  
 
-***^7:16^ Tu ergo noli orare pro populo hoc, nec assumas pro eis laudem et orationem et non obsistas mihi quia non exaudiam te.***
+^7:16^ Tu ergo noli orare pro populo hoc, nec assumas pro eis laudem et orationem et non obsistas mihi quia non exaudiam te.  
 
 > ^7:17^ Nonne vides quid isti faciunt in civitatibus Juda, et in plateis Jerusalem?
 
@@ -122,7 +124,7 @@ Tertio comminatur poenam: ***ideo haec dicit Dominus***. Supra 4: ***ne forte eg
 
 Lectio 3  
 
-***^7:21^ Haec dicit Dominus exercituum, Deus Israel: holocautomata vestra addite victimis vestris, et comedite carnes:***
+^7:21^ Haec dicit Dominus exercituum, Deus Israel: holocautomata vestra addite victimis vestris, et comedite carnes:  
 
 > ^7:22^ quia non sum locutus cum patribus vestris, et non praecepi eis in die qua eduxi eos de terra Aegypti de verbo holocautomatum, et victimarum;
 
@@ -164,7 +166,7 @@ Secundo infert conclusionem: ***et dices ad eos***. Supra 2: ***frustra percussi
 
 Lectio 4  
 
-***^7:29^ Tonde capillum tuum, et projice, et sume in directum planctum: quia projecit Dominus et reliquit generationem furoris sui:***
+^7:29^ Tonde capillum tuum, et projice, et sume in directum planctum: quia projecit Dominus et reliquit generationem furoris sui:  
 
 > ^7:30^ quia fecerunt filii Juda malum in oculis meis, dicit Dominus. Posuerunt offendicula sua in domo in qua invocatum est nomen meum, ut polluerent eam:
 
@@ -204,7 +206,7 @@ Tertio excludit universale gaudium: ***et requiescere faciam***. Thren. ult.: *d
 
 Collationes  
 
-***Nota, quod Deus ***habitat*** nobiscum per fidei constantiam. Ephes. 3: *habitare Christum per fidem in cordibus vestris* etc. Per fraternae dilectionis concordiam. Matth. 18: *ubi fuerint duo, vel tres congregati in nomine meo, ibi sum in medio eorum*. Per praeceptorum obedientiam. Joan. 14: *si quis diligit me sermonem meum servabit, et pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus*. Per devotae contemplationis eminentiam. Apoc. 3: *ego sto ad ostium, et pulso: si quis audierit vocem meam, et aperuerit mihi, intrabo ad eum, et coenabo cum illo, et ipse mecum*.***
+Nota, quod Deus ***habitat*** nobiscum per fidei constantiam. Ephes. 3: *habitare Christum per fidem in cordibus vestris* etc. Per fraternae dilectionis concordiam. Matth. 18: *ubi fuerint duo, vel tres congregati in nomine meo, ibi sum in medio eorum*. Per praeceptorum obedientiam. Joan. 14: *si quis diligit me sermonem meum servabit, et pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus*. Per devotae contemplationis eminentiam. Apoc. 3: *ego sto ad ostium, et pulso: si quis audierit vocem meam, et aperuerit mihi, intrabo ad eum, et coenabo cum illo, et ipse mecum*.  
 
 Item nota, quod quoddam est ***templum*** historicum. Psalm. 137: *adorabo ad templum sanctum tuum, et confitebor nomini tuo*. Allegoricum, ipsa Ecclesia. 1 Cor. 3: *templum Dei sanctum est, quod estis vos*. Typicum, ipse justus. 1 Cor. 6: *nescitis quoniam membra vestra templum sunt Spiritus Sancti?* Anagogicum, ipse Deus. Apoc. 21: *Dominus Deus omnipotens templum illius est, et agnus*.  
 

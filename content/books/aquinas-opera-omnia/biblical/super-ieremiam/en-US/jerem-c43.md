@@ -1,10 +1,12 @@
 # C. 41 - Ishmael’s treachery
 
+***Ishmael’s treachery***
+
 ***Lecture 1***
 
 ***Ishmael murders Gedaliah***
 
-***^41:1^ And it came to pass in the seventh month, that Ishmael, the son of Nathaniah, the son of Elishamah, of royal blood, came and ten men with him, to Gedaliah, the son of Ahicam, in Mizpah, and they ate bread there together in Mizpah.***
+^41:1^ And it came to pass in the seventh month, that Ishmael, the son of Nathaniah, the son of Elishamah, of royal blood, came and ten men with him, to Gedaliah, the son of Ahicam, in Mizpah, and they ate bread there together in Mizpah.  
 
 > ^41:2^ But Ishmael, the son of Nathaniah, arose, and the ten men who were with him, and struck Gedaliah, the son of Ahicam, with the sword, and slew him, whom the king of Babylon had set over the land.
 
@@ -36,7 +38,7 @@ Lecture 2
 
 ***Ishmael murders the pilgrims***
 
-***^41:4^ And on the second day after he had slain Gedaliah, while as yet no one knew of it,***
+^41:4^ And on the second day after he had slain Gedaliah, while as yet no one knew of it,  
 
 > ^41:5^ men came from Shechem, and Shiloh, and from Samaria, eighty men with shaven beards, and torn and soiled garments. And they brought giftsHeb. מִנְחָה: specifically refers to any one of four grain offerings; cf. Leviticus 2. and incense to offer in the house of the Lord.
 
@@ -60,7 +62,7 @@ Lecture 3
 
 ***Ishmael fills the pit with bodies***
 
-***^41:9^ Now the pit into which Ishmael had cast all the bodies of the men whom he had slain by the side of Gedaliah is that which king Asa had made because of Baasa king of Israel; the same Ishmael, the son of Nathaniah, filled with the slain.***
+^41:9^ Now the pit into which Ishmael had cast all the bodies of the men whom he had slain by the side of Gedaliah is that which king Asa had made because of Baasa king of Israel; the same Ishmael, the son of Nathaniah, filled with the slain.  
 
 > **211**. Here, he speaks of the burial of their bodies: ***king Asa***. In 1 Kings 15:22, it is said that Asa caused Geba of Benjamin in Mizpah to be built from the materials which Baasha had prepared for the fortification of Ramah against him, and as it happens, he had made a cistern for the defense of the city. *I am reckoned with those that go down into the pit, I am become as a man without helper, free among the dead* (Ps 87:4–5).
 
@@ -68,7 +70,7 @@ Lecture 4
 
 ***Johanan recovers Ishmael’s men***
 
-***^41:10^ And Ishmael led all the remnant of the people who were in Mizpah captive, the daughters of the king, and all those who remained in Mizpah, whom Nebuzaradan had entrusted to Gedaliah, the son of Ahicam. And Ishmael, the son of Nathaniah, took them and went to cross over to the children of Ammon.***
+^41:10^ And Ishmael led all the remnant of the people who were in Mizpah captive, the daughters of the king, and all those who remained in Mizpah, whom Nebuzaradan had entrusted to Gedaliah, the son of Ahicam. And Ishmael, the son of Nathaniah, took them and went to cross over to the children of Ammon.  
 
 > ^41:11^ Moreover, Johanan, the son of Kareah, and all the captains of the men of war who were with him, heard of all the evil which Ishmael, the son of Nathaniah, had done.
 

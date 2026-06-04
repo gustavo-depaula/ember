@@ -1,6 +1,8 @@
 # Chapter 5
 
-***^5:1^ Cantabo dilecto meo canticum patruelis mei vineæ suæ. Vinea facta est dilecto meo in cornu filio olei.***
+***Lectio 1***
+
+^5:1^ Cantabo dilecto meo canticum patruelis mei vineæ suæ. Vinea facta est dilecto meo in cornu filio olei.  
 
 > ^5:2^ Et sepivit eam et lapides elegit ex illa et plantavit eam electam; et ædificavit turrim in medio ejus et torcular exstruxit in ea. Et exspectavit ut faceret uvas et fecit labruscas.
 
@@ -180,7 +182,7 @@ Tertio quantum ad amissionem seminum: ***et triginta modii facient tres***, quia
 
 Lectio 2  
 
-***^5:11^ Væ qui consurgitis mane ad ebrietatem sectandam et potandum usque ad vesperam ut vino æstuetis.***
+^5:11^ Væ qui consurgitis mane ad ebrietatem sectandam et potandum usque ad vesperam ut vino æstuetis.  
 
 > ^5:12^ Cithara et lyra et tympanum et tibia et vinum in conviviis vestris, et opus Domini non respicitis nec opera manuum ejus consideratis.
 
@@ -316,7 +318,7 @@ tertio conscientiae inquietudine, infra LVII 20 ***impii autem cor quasi mare fe
 
 Lectio 3  
 
-***^5:20^ Væ qui dicitis malum bonum et bonum malum, ponentes tenebras lucem et lucem tenebras, ponentes amarum in dulce et dulce in amarum!***
+^5:20^ Væ qui dicitis malum bonum et bonum malum, ponentes tenebras lucem et lucem tenebras, ponentes amarum in dulce et dulce in amarum!  
 
 > ^5:21^ Væ qui sapientes estis in oculis vestris et coram vobismet ipsis prudentes!
 
@@ -366,7 +368,7 @@ Et dicendum quod in aliquibus scripturis sumitur pro excessu veritatis simplicit
 
 Lectio 4  
 
-***^5:25b^ In omnibus his non est adversus furor ejus, sed adhuc manus ejus extenta;***
+^5:25b^ In omnibus his non est adversus furor ejus, sed adhuc manus ejus extenta;  
 
 > ^5:26^ et elevabit signum in nationibus procul, et sibilabit ad eum de finibus terræ. Et ecce festinus velociter veniet;
 

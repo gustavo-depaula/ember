@@ -1,5 +1,7 @@
 # C. 16 - Jeremiah separated from the people
 
+***Lectio 1***
+
 ***^16:1^ Et factum est verbum Domini ad me, dicens:***
 
 > ^16:2^ non accipies uxorem, et non erunt tibi filii, et filiae in loco isto.
@@ -50,7 +52,7 @@ Secundo ponitur ratio: ***quia haec dicit Dominus***. Thren. ult.: *defecit gaud
 
 Lectio 2  
 
-***^16:10^ Et cum annuntiaveris populo huic omnia verba haec, et dixerint tibi: quare locutus est Dominus super nos omne malum grande istud? quae iniquitas nostra, aut quod peccatum nostrum, quod peccavimus Domino Deo nostro?***
+^16:10^ Et cum annuntiaveris populo huic omnia verba haec, et dixerint tibi: quare locutus est Dominus super nos omne malum grande istud? quae iniquitas nostra, aut quod peccatum nostrum, quod peccavimus Domino Deo nostro?  
 
 > ^16:11^ dices ad eos: quia dereliquerunt me patres vestri, ait Dominus, et abierunt post deos alienos, et servierunt eis, et adoraverunt eos, et me dereliquerunt, et legem meam non custodierunt.
 
@@ -114,4 +116,4 @@ Tertio assignat conversionis bonum: ***idcirco***, idest ut gentes convertantur,
 
 Collationes  
 
-***Notandum, quod quaedam est ***manus*** divinae dispositionis. Sap. 7: *in manu ejus et nos, et sermones nostri, et omnis sapientia, et operum scientiae disciplina*. Divinae liberalitatis. Psal. 103: *aperiente te manum tuam, omnia implebuntur bonitate*. Divinae protectionis. Isa. 49: *sub tegumento manus suae protexit me*. Divinae correctionis. Psal. 38: *a fortitudine manus tuae ego defeci in increpationibus*. Divinae liberationis. Job 5: *percutit, et manus ejus sanabunt*. Divinae operationis. Eccli. 36: *glorifica manum, et brachium dexterum*. Et divinae condemnationis. Ad Hebr. 10: *horrendum est incidere in manus Dei viventis*.***
+Notandum, quod quaedam est ***manus*** divinae dispositionis. Sap. 7: *in manu ejus et nos, et sermones nostri, et omnis sapientia, et operum scientiae disciplina*. Divinae liberalitatis. Psal. 103: *aperiente te manum tuam, omnia implebuntur bonitate*. Divinae protectionis. Isa. 49: *sub tegumento manus suae protexit me*. Divinae correctionis. Psal. 38: *a fortitudine manus tuae ego defeci in increpationibus*. Divinae liberationis. Job 5: *percutit, et manus ejus sanabunt*. Divinae operationis. Eccli. 36: *glorifica manum, et brachium dexterum*. Et divinae condemnationis. Ad Hebr. 10: *horrendum est incidere in manus Dei viventis*.

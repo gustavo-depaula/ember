@@ -1,5 +1,8 @@
 # Lauds
 
+***[℣. O God, come to my assistance;***
+***℟. O Lord, make haste to help me.***
+
 Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
 As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
@@ -10,7 +13,7 @@ Sung to *Adest dies* from the feast of St. Dominic.
 
 ***Psalm 92 (93)***
 
-***The Lord has reigned, he is clothed with beauty: * the Lord is clothed with strength, and has girded himself.***
+The Lord has reigned, he is clothed with beauty: * the Lord is clothed with strength, and has girded himself.  
 
 > For he has established the world * which shall not be moved.
 
@@ -54,7 +57,7 @@ Sung to *Scala caelo* from the feast of St. Dominic.
 
 ***Psalm 21 (22)***
 
-***O God my God, look upon me: why have you forsaken me? * Far from my salvation are the words of my sins.***
+O God my God, look upon me: why have you forsaken me? * Far from my salvation are the words of my sins.  
 
 > O my God, I shall cry by day, and you will not hear: * and by night, and it shall not be reputed as folly in me.
 
@@ -134,7 +137,7 @@ Sung to *Scala caelo* from the feast of St. Dominic.
 
 Sung to *Ingressus Angelus* from the feast of the Annunciation.  
 
-***All you works of the Lord, bless the Lord: * praise and exalt him above all forever.***
+All you works of the Lord, bless the Lord: * praise and exalt him above all forever.  
 
 > O you angels of the Lord, bless the Lord: * O you heavens, bless the Lord:
 
@@ -244,7 +247,7 @@ Sung to *Ex quo omnia* from the feast of the Trinity.
 
 ***1 Corinthians 11:23–24***
 
-***The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you. Do this in my memory.***
+The Lord Jesus Christ, on the night he was betrayed, took bread and, giving thanks, broke it and said: take and eat. This is my Body, which will be given up for you. Do this in my memory.  
 
 > [℟. Thanks be to God.]
 
@@ -294,7 +297,7 @@ Benedictus
 
 Sung to *Pax aeterna* from the feast of the Dedication.  
 
-***Blessed be the Lord God of Israel; * because he has visited and wrought the redemption of his people:***
+Blessed be the Lord God of Israel; * because he has visited and wrought the redemption of his people:  
 
 > and has raised up a horn of salvation to us, * in the house of David his servant:
 

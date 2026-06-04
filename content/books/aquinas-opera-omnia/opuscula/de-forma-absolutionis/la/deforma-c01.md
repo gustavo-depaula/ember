@@ -1,6 +1,8 @@
 # C. 1 - That it is unwise to say that '*I absolve you'* is not the form of absolution
 
-***Perlecto libello a vobis exhibito inveni assertionem cuiusdam valde temerariam dicentis quod sacerdos in absolvendo uti non debet hac forma: *ego te absolvo*. Quod quidem praesumptuosum iudico.***
+Quod temerarium est dicere quod haec non sit forma absolutionis scilicet 'ego te absolvo, etc.'  
+
+Perlecto libello a vobis exhibito inveni assertionem cuiusdam valde temerariam dicentis quod sacerdos in absolvendo uti non debet hac forma: *ego te absolvo*. Quod quidem praesumptuosum iudico.  
 
 Primo quia repugnat Evangelii dictis: dicit enim dominus Petro, Matth. XVI, 19: *quodcumque solveris super terram erit solutum et in caelis*. Quod ad usum clavium pertinere ostendit; nam praemiserat: *et tibi dabo claves regni caelorum*; et postea, quasi usum clavium exponens, dicit: *quodcumque solveris super terram*. Patet ergo ex dictis salvatoris, quod habens claves absolvit. Praesumptuosum ergo est, ut non dicam erroneum, ut sacerdos dicere non possit absolvo quem dominus absolvere confitetur.  
 

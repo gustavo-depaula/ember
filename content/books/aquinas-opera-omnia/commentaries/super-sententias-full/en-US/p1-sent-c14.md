@@ -1,8 +1,10 @@
 # D. 13 - Procession of the Holy Spirit in comparison to the generation of the Son
 
+***Procession of the Holy Spirit in comparison to the generation of the Son***
+
 ***Division of the text***
 
-***Having considered the eternal procession of the Holy Spirit in reference to its mode and principle, here he considers it in its relation to the generation. And it is divided into two parts: in the first, he inquires whether the proceeding Holy Spirit can be called “begotten” as a Son; in the second, whether he could be called “unbegotten,” at *it must now be considered, since the Holy Spirit is not begotten, whether he ought to be called unbegotten*.*Sent*. I, 13.4(44).1.***
+Having considered the eternal procession of the Holy Spirit in reference to its mode and principle, here he considers it in its relation to the generation. And it is divided into two parts: in the first, he inquires whether the proceeding Holy Spirit can be called “begotten” as a Son; in the second, whether he could be called “unbegotten,” at *it must now be considered, since the Holy Spirit is not begotten, whether he ought to be called unbegotten*.*Sent*. I, 13.4(44).1.  
 
 The first part is divided into two: first, he shows that the proceeding Holy Spirit cannot be called a “Son”; second, he inquires about the difference between the generation of the Son and the procession of the Holy Spirit, at *but while we are in this life, we are not able to distinguish between the generation of the Son and the procession of the Holy Spirit*.*Sent*. I, 13.3(43).1.  
 
@@ -30,7 +32,7 @@ Article 1
 
 ***Whether there is procession in God***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.27.1; *SCG* IV.11; *On the Power of God*, q. 10, a. 1. It seems that there is no procession in God.***
+To the first we proceed as follows.Parallel texts: *ST* I.27.1; *SCG* IV.11; *On the Power of God*, q. 10, a. 1. It seems that there is no procession in God.  
 
 Obj. 1: For “procession” indicates a certain progressive motion. But every motion indicates a lack and imperfection, and does not befit God. Therefore there is no procession in God.  
 
@@ -54,7 +56,7 @@ Article 2
 
 ***Whether there is only one procession in the divine***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.27.3 & 4; *SCG* IV.19; *On the Power of God*, q. 10, aa. 1–2; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 3. It seems that there is only one procession in the divine.***
+To the second we proceed as follows.Parallel texts: *ST* I.27.3 & 4; *SCG* IV.19; *On the Power of God*, q. 10, aa. 1–2; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 3. It seems that there is only one procession in the divine.  
 
 Obj. 1: For just as “paternity” denotes the property of the origin, from whom someone exists, so does “procession,” as the one who is from another. But it was said earlierAbove, d. 7, q. 2, a. 2. that in the divine there can be only one paternity. Therefore there can be only one procession.  
 
@@ -86,9 +88,9 @@ Therefore when it is objected that relations follow on processions, such that it
 
 Article 3  
 
-***Whether the procession of the Holy Spirit should be named a procession or a generation***
+Whether the procession of the Holy Spirit should be named a procession or a generation  
 
-***To the third we proceed as follows.Parallel texts: *In III Sent*., d. 8, a. 1, ad 8; *ST* I.27.4; I.30.2, ad 2; *SCG* IV.19; *On the Power of God*, q. 2, a. 4, ad 7; q. 10, a. 2, ad 22; *Compendium theologiae*, ch. 46. It seems that the procession of the Holy Spirit should not be named a procession but rather, a “generation.”***
+To the third we proceed as follows.Parallel texts: *In III Sent*., d. 8, a. 1, ad 8; *ST* I.27.4; I.30.2, ad 2; *SCG* IV.19; *On the Power of God*, q. 2, a. 4, ad 7; q. 10, a. 2, ad 22; *Compendium theologiae*, ch. 46. It seems that the procession of the Holy Spirit should not be named a procession but rather, a “generation.”  
 
 Obj. 1: For if it is not a generation, then it is divided against generation. But no common name is divided against a proper one. Therefore, since “procession” is the common name for both the generation and the procession of the Holy Spirit, it seems that the procession of the Holy Spirit should not be named a “procession” either.  
 
@@ -118,7 +120,7 @@ Article 4
 
 ***Whether the Holy Spirit should be called unbegotten***
 
-***To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 28, q. 1, a. 1; *ST* I.33.4; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 8. It seems that the Holy Spirit should be called “unbegotten.”***
+To the fourth we proceed as follows.Parallel texts: *In I Sent*., d. 28, q. 1, a. 1; *ST* I.33.4; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 1, ch. 8. It seems that the Holy Spirit should be called “unbegotten.”  
 
 Obj. 1: For he is so called by the authority of Jerome, noted in the text.*Sent*. I, 13.4(44).3; Lombard mistakenly attributes to Jerome what was in fact written by Bishop Syagrius (5th century bishop who fought against the heresy of Priscillianism), *Regulae definitionum contra haereticos prolatae*, n. 8.  
 
@@ -140,7 +142,7 @@ Reply Obj. 3: “Unbegotten,” insofar as it befits the Father alone, signifies
 
 Exposition of the text  
 
-****If the Holy Spirit were called son, he would be called the son of both, which is most absurd. For no one is a son of two persons except of a father and mother; far be it from us to suspect any such thing between God the Father and God the Son*.*Sent*. I, 13.1(41).1, quoting Augustine, *On the Trinity*, bk. 15, ch. 26 (CCSL 50A; PL 42:1094). We have amplified the quotation here for context. For in this way the procession of the Holy Spirit would appear material, since a father stands to generation as its active principle, whereas a mother stands as its material principle, since she provides the matter.***
+*If the Holy Spirit were called son, he would be called the son of both, which is most absurd. For no one is a son of two persons except of a father and mother; far be it from us to suspect any such thing between God the Father and God the Son*.*Sent*. I, 13.1(41).1, quoting Augustine, *On the Trinity*, bk. 15, ch. 26 (CCSL 50A; PL 42:1094). We have amplified the quotation here for context. For in this way the procession of the Holy Spirit would appear material, since a father stands to generation as its active principle, whereas a mother stands as its material principle, since she provides the matter.  
 
 *I do not know how*, that is, through any acquired art, *and am neither able*, through a natural power or ingenuity, *nor sufficient*, through a defect of application or exercise, *to distinguish between that generation and this procession*.*Sent*. I, 13.3(43).4, quoting Augustine, *Against Maximinus*, bk. 2, ch. 14, para. 1 (CCSL 87A; PL 42:770).  
 

@@ -1,1 +1,3 @@
 # Articulus 48
+
+Quod vero quadragesimo octavo ponitur, *posse et agere rerum aeternarum non est totum simul, sed successive: non tamen continue, sed intercise*, verum est de actionibus secundum suam naturam: habent enim actiones successivas; unde Augustinus dicit, quod *Deus movet creaturam spiritualem per tempus*, et per tempus moveri est per actiones moveri; sed actiones Angelorum, secundum quas fruuntur verbo, sunt sine successione, et secundum eas sunt in participatione aeternitatis. Posse etiam Angeli dicitur intercisum non quantum ad essentiam potentiae, sed secundum quod posse dividitur contra agere, quia Angelus quandoque potest agere aliquid, quandoque agit.

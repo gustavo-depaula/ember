@@ -1,6 +1,8 @@
 # C. 12 - God’s justice in punishing
 
-***^12:1^ Justus quidem tu es, Domine, si disputem tecum; verumtamen justa loquar ad te. Quare via impiorum prosperatur, bene est omnibus qui praevaricantur, et inique agunt?***
+***Lectio 1***
+
+^12:1^ Justus quidem tu es, Domine, si disputem tecum; verumtamen justa loquar ad te. Quare via impiorum prosperatur, bene est omnibus qui praevaricantur, et inique agunt?  
 
 > ^12:2^ Plantasti eos, et radicem miserunt, proficiunt, et faciunt fructum. Prope es tu ori eorum, et longe a renibus eorum.
 
@@ -42,7 +44,7 @@ Secundo quantum ad sanguine junctos, commemorans pristinam injuriam: ***nam et f
 
 Lectio 2  
 
-***^12:7^ Reliqui domum meam, dimisi haereditatem meam. Dedi dilectam animam meam in manu inimicorum ejus;***
+^12:7^ Reliqui domum meam, dimisi haereditatem meam. Dedi dilectam animam meam in manu inimicorum ejus;  
 
 > ^12:8^ facta est mihi haereditas mea quasi leo in silva. Dedit contra me vocem, ideo odivi eam.
 
@@ -68,7 +70,7 @@ Vel hoc quod dicit, ***reliqui domum***, etc., possunt esse verba prophetae, qui
 
 Collationes  
 
-******Prosperantur impii*** propter hereditatis amissionem. Genes. 25: *dedit Abraham Isaac filio suo cuncta quae possederat, filiis autem concubinarum largitus est munera*. Propter imperfectam remunerationem. Matth. 6: *amen dico vobis, receperunt mercedem suam*. Quia non sunt digni divina correctione. Ezech. 16: *requiescet indignatio mea in te, et auferetur zelus meus a te*. Oseae 4: *non visitabo super filias vestras cum fuerint fornicatae, et super sponsas vestras cum adulteraverint*. Hebr. 12: *si extra disciplinam estis, cujus participes facti sunt omnes; ergo adulteri, et non filii estis*. Propter morbi desperationem. Thren. 2: *magna est velut mare contritio tua. Quis medebitur tibi?* Infra 30: ***insanabilis fractura tua, pessima plaga tua***. Propter eorum dejectionem. Psal. 72: *verumtamen propter dolos posuisti eis; dejecisti eos dum allevarentur*. Rom. 1: *propter quod tradidit eos Deus in reprobum sensum, ut faciant ea quae non conveniunt*, etc.***
+***Prosperantur impii*** propter hereditatis amissionem. Genes. 25: *dedit Abraham Isaac filio suo cuncta quae possederat, filiis autem concubinarum largitus est munera*. Propter imperfectam remunerationem. Matth. 6: *amen dico vobis, receperunt mercedem suam*. Quia non sunt digni divina correctione. Ezech. 16: *requiescet indignatio mea in te, et auferetur zelus meus a te*. Oseae 4: *non visitabo super filias vestras cum fuerint fornicatae, et super sponsas vestras cum adulteraverint*. Hebr. 12: *si extra disciplinam estis, cujus participes facti sunt omnes; ergo adulteri, et non filii estis*. Propter morbi desperationem. Thren. 2: *magna est velut mare contritio tua. Quis medebitur tibi?* Infra 30: ***insanabilis fractura tua, pessima plaga tua***. Propter eorum dejectionem. Psal. 72: *verumtamen propter dolos posuisti eis; dejecisti eos dum allevarentur*. Rom. 1: *propter quod tradidit eos Deus in reprobum sensum, ut faciant ea quae non conveniunt*, etc.  
 
 Lectio 3  
 
@@ -104,7 +106,7 @@ Tertio consolationis defectum: ***non est pax***; quasi dicat nullus immunis eri
 
 Lectio 4  
 
-***^12:13^ Seminaverunt triticum, et spinas messuerunt; haereditatem acceperunt, et non eis proderit. Confundemini a fructibus vestris propter iram furoris Domini.***
+^12:13^ Seminaverunt triticum, et spinas messuerunt; haereditatem acceperunt, et non eis proderit. Confundemini a fructibus vestris propter iram furoris Domini.  
 
 > **84**. Hic comminatur poenam sterilitatis:
 
@@ -116,7 +118,7 @@ Tertio concludit confusionem, ***confundemini***, scilicet propter defectum fruc
 
 Lectio 5  
 
-***^12:14^ Haec dicit Dominus adversum omnes vicinos meos pessimos, qui tangunt haereditatem quam distribui populo meo Israel: ecce ego evellam eos de terra sua, et domum Juda evellam de medio eorum;***
+^12:14^ Haec dicit Dominus adversum omnes vicinos meos pessimos, qui tangunt haereditatem quam distribui populo meo Israel: ecce ego evellam eos de terra sua, et domum Juda evellam de medio eorum;  
 
 > ^12:15^ et cum evulsero eos, convertar, et miserebor eorum, et reducam eos virum ad haereditatem suam, et virum in terram suam.
 
@@ -134,4 +136,4 @@ Tertio ponit eorum instructionem ex promissione bonorum, si bene fecerint: ***et
 
 Collationes  
 
-***Nota, quod praelati ***destruunt*** populum propter operis perversitatem. Supra 10: ***quia stulte egerunt pastores, et Dominum non quaesierunt, propterea non intellexerunt, et omnis grex eorum dispersus est***. Propter doctrinae falsitatem. Infra 50: ***grex perditus factus est populus meus, pastores eorum seduxerunt eos, feceruntque vagari in montibus*** etc. Propter timoris pusillanimitatem. Zech. 11: *o pastor, et idolum derelinquens gregem: gladius super brachium ejus, et super oculum dexterum ejus*. Propter dominii austeritatem. Ezech. 34: *cum austeritate imperabatis, et cum potentia, et dispersae sunt oves meae* etc. Propter curae remissionem. Zech. 11: *suscitabo pastorem in terra qui derelictum non visitabit, dispersum non quaeret, et contritum non sanabit, id quod stat non enutriet, et carnes pinguium comedet, et ungulas eorum dissolvet*.***
+Nota, quod praelati ***destruunt*** populum propter operis perversitatem. Supra 10: ***quia stulte egerunt pastores, et Dominum non quaesierunt, propterea non intellexerunt, et omnis grex eorum dispersus est***. Propter doctrinae falsitatem. Infra 50: ***grex perditus factus est populus meus, pastores eorum seduxerunt eos, feceruntque vagari in montibus*** etc. Propter timoris pusillanimitatem. Zech. 11: *o pastor, et idolum derelinquens gregem: gladius super brachium ejus, et super oculum dexterum ejus*. Propter dominii austeritatem. Ezech. 34: *cum austeritate imperabatis, et cum potentia, et dispersae sunt oves meae* etc. Propter curae remissionem. Zech. 11: *suscitabo pastorem in terra qui derelictum non visitabit, dispersum non quaeret, et contritum non sanabit, id quod stat non enutriet, et carnes pinguium comedet, et ungulas eorum dissolvet*.

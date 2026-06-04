@@ -1,5 +1,7 @@
 # Sermon
 
+******Happy the man*** (Ps 83:6–7 [Vg]), et cetera.***
+
 It is a custom that when someone is promoted to a great status or to a great dignity, he and his relatives and friends commemorate this exaltation. This day St. Martin is promoted to the highest dignity and the highest place, namely, to the kingdom of the heavens. Therefore, Mother Church commemorates his happiness.  
 
 Concerning his happiness three things come up that we must consider on the ground of the words proclaimed. First, we can consider the beginning of his happiness;In this part, the *Sermon*. second, the progress;In the *Evening Collation*. and third, the endpoint of his happiness.Touched upon in the final sentence.  

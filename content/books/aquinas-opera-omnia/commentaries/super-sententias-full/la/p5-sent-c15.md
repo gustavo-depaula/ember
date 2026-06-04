@@ -1,6 +1,8 @@
 # D. 14 - Human knowledge and power of Christ
 
-****Hic quaeri opus est, etc.* Postquam determinavit Magister de plenitudine perfectionis Christi quantum ad gratiam et scientiam, hic comparat perfectionem Christi secundum quod est homo, ad perfectionem divinam.***
+***Divisio textus***
+
+*Hic quaeri opus est, etc.* Postquam determinavit Magister de plenitudine perfectionis Christi quantum ad gratiam et scientiam, hic comparat perfectionem Christi secundum quod est homo, ad perfectionem divinam.  
 
 Et dividitur in duas partes.  
 
@@ -54,7 +56,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod in Christo non sit aliqua scientia creata.***
+Ad primum sic proceditur. Videtur quod in Christo non sit aliqua scientia creata.  
 
 Ubi enim est cognitio perfecta, non indigeturEd. read *est opus*. cognitione imperfecta; sicut qui scit aliquid per demonstrationem, non indiget scire illud per syllogismum dialecticum. Sed omnis cognitio creata est imperfecta respectu scientiae divinae. Ergo cum in Christo sit scientia Dei increata, videtur quod non oportet in ipso ponere aliquam aliam scientiam.  
 
@@ -68,7 +70,7 @@ Praeterea, *non est substantia sine sua operatione*, ut dicit Damascenus et Phil
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod si est in eo aliqua cognitio creata, illa non sit habitus, sed actus tantum. Ad Hebr. 2, dicit Glossa quod *natura mentis humanae in Christo nihil estThe Vivès edition adds altius vel. excellentius.* Sed quaedam creaturae propter sui perfectionem non indigent aliquo habitu ad cognoscendum, sicut angeli; ut dicit Maximus super *Cael. hier*. Dionysii. Ergo multo minus anima Christi.***
+Ulterius, videtur quod si est in eo aliqua cognitio creata, illa non sit habitus, sed actus tantum. Ad Hebr. 2, dicit Glossa quod *natura mentis humanae in Christo nihil estThe Vivès edition adds altius vel. excellentius.* Sed quaedam creaturae propter sui perfectionem non indigent aliquo habitu ad cognoscendum, sicut angeli; ut dicit Maximus super *Cael. hier*. Dionysii. Ergo multo minus anima Christi.  
 
 Praeterea, anima Christi est nobilior quam intellectus agens alicujus alterius hominis. Sed intellectus agens non facit operationem suam mediante habitu aliquo. Ergo nec anima Christi aliqua habituali scientia cognoscit.  
 
@@ -80,7 +82,7 @@ Praeterea, Christus vere dormivit, nec tunc aliquid amisit eorum quae scivit. Cu
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod anima Christi mediante aliquo habitu non cognoverit Verbum. Ad cognitionem enim non requiritur aliud nisi ut cognoscibile cognoscenti uniatur. Sed Verbum unitum est animae Christi non mediante aliquo habitu. Ergo Verbum cognovit non per aliquem habitum.***
+Ulterius, videtur quod anima Christi mediante aliquo habitu non cognoverit Verbum. Ad cognitionem enim non requiritur aliud nisi ut cognoscibile cognoscenti uniatur. Sed Verbum unitum est animae Christi non mediante aliquo habitu. Ergo Verbum cognovit non per aliquem habitum.  
 
 Praeterea, habitus scientiae consistit ex speciebus quae sunt similitudines ipsarumEd. omit *ipsarum*. rerum cognitarum.PLE: *ipsarum rerum cognitarum*. Sed anima Christi non videt Verbum per aliquam similitudinem, sed per seipsum. Ergo non cognoscit ipsum per aliquem habitum creatum.  
 
@@ -92,7 +94,7 @@ Praeterea, ejusdem naturae est anima Christi et anima nostra. Sed anima nostra n
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod oporteat alium habitum scientiae ponere quo cognoscit Verbum et quo cognoscit res in Verbo. Verbum enim repraesentat res quae in eo cognoscuntur, sicut speculum species in eo resultantes. Sed qui videt speculum, non tantum in eo imprimitur similitudo speculi, sed etiam rerum similitudines in speculo resultantes. Ergo etBrussels manuscript omits *et*. in eo qui videt res in Verbo, oportet ponere alium habitum specierum rerum visarum in Verbo, et ipsius Verbi.***
+Ulterius, videtur quod oporteat alium habitum scientiae ponere quo cognoscit Verbum et quo cognoscit res in Verbo. Verbum enim repraesentat res quae in eo cognoscuntur, sicut speculum species in eo resultantes. Sed qui videt speculum, non tantum in eo imprimitur similitudo speculi, sed etiam rerum similitudines in speculo resultantes. Ergo etBrussels manuscript omits *et*. in eo qui videt res in Verbo, oportet ponere alium habitum specierum rerum visarum in Verbo, et ipsius Verbi.  
 
 Praeterea, omnis scientia est secundum similitudinemEd. read *assimilationem*. scientis ad rem scitam, ut dicunt philosophi. Si ergoEd. read *igitur*. aliquis videt res aliquasEd. read *alias*. in Verbo, oportet quod intellectus assimiletur illis rebus. Et sic cum habitus cognitivus consistat in assimilatione praedicta quae est per species intellectuales, sequitur idem quod prius.  
 
@@ -104,7 +106,7 @@ Praeterea, ubi est unus actus, non sunt plures habitus. Sed eodem actu cognoscit
 
 Quaestiuncula 5  
 
-***Ulterius, videtur quod praeter hanc scientiam qua cognoscit res in Verbo, non habeat aliam scientiam de rebus. Unius enim et secundum idem et respectu ejusdem, est tantum una perfectio. Sed Christus secundum humanam naturam habet cognitionem in Verbo de rebus creatis. Ergo ipse secundum humanam naturam non habet earumdem rerum aliam cognitionem vel scientiam.***
+Ulterius, videtur quod praeter hanc scientiam qua cognoscit res in Verbo, non habeat aliam scientiam de rebus. Unius enim et secundum idem et respectu ejusdem, est tantum una perfectio. Sed Christus secundum humanam naturam habet cognitionem in Verbo de rebus creatis. Ergo ipse secundum humanam naturam non habet earumdem rerum aliam cognitionem vel scientiam.  
 
 Praeterea, 1 Cor. 13:10: *cum venerit quod perfectum est, evacuabitur quod ex parte est*. Sed cognitio qua cognoscuntur res in Verbo, est perfecta respectu alterius modi cognitionis rerum. Ergo cum ipsa non est alia in Christo cognitio.  
 
@@ -116,7 +118,7 @@ Praeterea, plus distat a perfectione cognitionis in Verbo cognitio sensitiva qua
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod cum in Christo sit una persona et duae naturae, considerandum est utrum ea quae attribuuntur Christo, pertineant ad rationem personae vel ad rationem naturae. Et si quidem ad rationem personae, sic oportet in Christo illud unum tantum ponere, sicut unum esse, unumBruges, Brussels, and Paris (842) manuscripts *tantum esse, unum* through homoteleuton; the other editions add *tantum* before *esse*. suppositum, unam hypostasim et sic de aliis. Si autem pertinet ad naturam: aut ad alteram tantum, aut ad utramque.—Si autem ad alteram tantum, sicEd. add *iterum*. est unum tantum; sicut una immensitas et una anima.—Si autem ad utramque, sic, quia naturae in Christo sunt integrae, oportet ponere talia esse duo; sicut duas voluntates, duo libera arbitria. Unde cum scientia pertineat ad naturam humanam et divinam, oportet in Christo ponere duas scientias, unam creatam et aliam increatam.***
+Respondeo dicendum ad primam quaestionem quod cum in Christo sit una persona et duae naturae, considerandum est utrum ea quae attribuuntur Christo, pertineant ad rationem personae vel ad rationem naturae. Et si quidem ad rationem personae, sic oportet in Christo illud unum tantum ponere, sicut unum esse, unumBruges, Brussels, and Paris (842) manuscripts *tantum esse, unum* through homoteleuton; the other editions add *tantum* before *esse*. suppositum, unam hypostasim et sic de aliis. Si autem pertinet ad naturam: aut ad alteram tantum, aut ad utramque.—Si autem ad alteram tantum, sicEd. add *iterum*. est unum tantum; sicut una immensitas et una anima.—Si autem ad utramque, sic, quia naturae in Christo sunt integrae, oportet ponere talia esse duo; sicut duas voluntates, duo libera arbitria. Unde cum scientia pertineat ad naturam humanam et divinam, oportet in Christo ponere duas scientias, unam creatam et aliam increatam.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo*. dicendum quod scientia est de his quae consequuntur naturam humanam, secundum animam quae est pars ejus. Unde licet in Christo sit scientia divina quae est perfectissima, tamen ea non formaliter perficitur humana natura. Et ideo oportet creatam cognitionem vel scientiam in ea ponere.  
 
@@ -126,7 +128,7 @@ Ad tertium dicendum quod nihil prohibet aliquid esse dignius alio secundum quid,
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod nulla potentia passiva potest in actum exire nisi completa per formam suiEd. omit *sui*. activi per quam fit in actu; quia nihil operatur nisi secundum quod est in actu. Impressiones autem activorum possunt esse in passivis dupliciter.—Uno modo per modum passionis, dum scilicet potentia passiva est in transmutari;—alio modo per modum qualitatis et formae, quando impressio activi jam facta est connaturalis ipsi passivo; sicut etiam Philosophus in *Praedicamentis,* distinguit passionem et passibilem qualitatem.***
+Ad secundam quaestionem dicendum quod nulla potentia passiva potest in actum exire nisi completa per formam suiEd. omit *sui*. activi per quam fit in actu; quia nihil operatur nisi secundum quod est in actu. Impressiones autem activorum possunt esse in passivis dupliciter.—Uno modo per modum passionis, dum scilicet potentia passiva est in transmutari;—alio modo per modum qualitatis et formae, quando impressio activi jam facta est connaturalis ipsi passivo; sicut etiam Philosophus in *Praedicamentis,* distinguit passionem et passibilem qualitatem.  
 
 Sensus autem potentia passiva est; quia non potest esse in actu omnium ad quae se extendit sua operatio per naturam potentiae. Non enim potest esse aliquid quod actu habeat omnes colores.PLE: *ideo oportet quod uisus sit cognoscitiuus omnium colorum secundum quod est potentia omnes colores quodammodo et*. Et ideo oportet quod visus sit cognoscitivus omnium colorum, secundum quod est potentia omnes colores quodammodo,Ed. omit through homoteleuton *Et ideo oportet quod visus sit cognoscitivus omnium colorum, secundum quod est potentia omnes colores quodammodo*. et sic patiendo a coloribus fit in actu et eis assimilatur et cognoscit eos.  
 
@@ -150,7 +152,7 @@ Ad tertium dicendum quod potentiae naturales operantur circa aliqua determinata.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod habitus scientiae ex duobus constat, ut dictum est: scilicet ex lumine intelligibiliEd. read *intellectuali*. et ex similitudine rei cognitae. In cognitione autem qua anima Christi vel quaelibet alia,Ed. read *anima*. videt Verbum per essentiam, non potest esse habitus quantum ad speciem, quae sit similitudo cogniti.***
+Ad tertiam quaestionem dicendum quod habitus scientiae ex duobus constat, ut dictum est: scilicet ex lumine intelligibiliEd. read *intellectuali*. et ex similitudine rei cognitae. In cognitione autem qua anima Christi vel quaelibet alia,Ed. read *anima*. videt Verbum per essentiam, non potest esse habitus quantum ad speciem, quae sit similitudo cogniti.  
 
 Cum enim omne quod recipitur in aliquo, sit in eo per modum recipientis, essentiae divinae similitudo non potest in aliqua creatura recipi, quae perfecte repraesentet ipsam, propter infinitam distantiam creaturae ad Deum. Et inde est quod illud quod in Deo est unum et simplex, creaturae diversis formis et perfectionibus repraesentant, unaquaque earum deficiente a perfecta repraesentatione essentiae divinae. Similitudo autem alicujus rei recepta in vidente non facit eum videre rem illam, nisi perfecte eam repraesentet; sicut similitudo coloris in oculo existens, non facit videre lucem perfectam, quia in colore non est nisi quaedam obumbrata participatio lucis. Et ideo quicumque intellectus cognosceret Verbum per similitudinem aliquam, non diceretur videre essentiam Verbi. Et ita patet quod anima Christi et quaelibet alia anima quae videt Verbum per essentiam, non videt eumEd. read *ipsum*. mediante aliqua similitudine.  
 
@@ -164,7 +166,7 @@ Ad tertium dicendum quod illud lumen non est quid subsistens, ut possit uniri Ve
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod illud in quo aliquid videtur, est ratio cognoscendi illud quod in eo videtur. Ratio autem cognoscendi est forma rei inquantum est cognita, quia per eam fit cognitio in actu. Unde sicut ex materia et forma fitEd. read *est*. unum esse; ita ratio cognoscendi et res cognita sunt unum cognitum; et propter hoc utriusque, inquantum hujusmodi, est una cognitio secundum habitum et secundum actum. Et ideoEd. read *ita*. non est alius habitus quo cognoscitur Verbum et ea quae in Verbo videntur; sicut nec alius habitus quo cognoscitur medium demonstrationis et conclusio, secundum quod medium ad conclusionem ordinatur.***
+Ad quartam quaestionem dicendum quod illud in quo aliquid videtur, est ratio cognoscendi illud quod in eo videtur. Ratio autem cognoscendi est forma rei inquantum est cognita, quia per eam fit cognitio in actu. Unde sicut ex materia et forma fitEd. read *est*. unum esse; ita ratio cognoscendi et res cognita sunt unum cognitum; et propter hoc utriusque, inquantum hujusmodi, est una cognitio secundum habitum et secundum actum. Et ideoEd. read *ita*. non est alius habitus quo cognoscitur Verbum et ea quae in Verbo videntur; sicut nec alius habitus quo cognoscitur medium demonstrationis et conclusio, secundum quod medium ad conclusionem ordinatur.  
 
 Ad primum ergo dicendum quod quando videntur res in speculo, species istarum rerum non imprimuntur a rebus in sensum, sed a speculo. Unde imprimuntur omnes istae species in sensum, ut conclusae in una specie speculi, non quia sit alia species speculi et alia species rei visae in speculo. Sed in visione Verbi non imprimitur aliqua similitudo a Verbo in animam, per quam videatur, ut dictum est; sed ipsum per essentiam suam animae unitur. Et ideo in ipsa essentia Verbi videntur aliae res, quia essentia Verbi habet rationem speculiPLE: *et rationem speculi et rationem similitudinis speculi*. et rationem similitudinis speculiThe Piana, Antwerp, Nicolaï, Venice, and Parma editions omit through homoteleuton *et rationem similitudinis speculi*, from which the Nicolaï, Venice, and Parma editions emend the text to read *rationem speciei*. quae fit in visu a speculo.  
 
@@ -174,7 +176,7 @@ Ad tertium dicendum quod sicut abeuntibus rebus sensibilibus remanent impression
 
 Solutio 5  
 
-***Ad quintam quaestionem dicendum quod secundum Philosophum in 3 *De anima*, intellectus possibilis est in potentia ad omnia intelligibilia. Omne autem quod est in potentia ad formam aliquam, remanet imperfectum, nisi illa forma fiat in eo. Unde cum intellectus Christi non sit imperfectus, oportet quod formae rerum ad quas intellectus possibilis est in potentia, sint descriptae in eo. Sed secundum quod cognoscit Verbum, non depingitur in eo neque similitudo Verbi, neque res quae videntur in Verbo, ut dictum est. Unde oportet quod praeter visionem qua videt res in Verbo, habeat aliam scientiam de rebus, secundum quod cognoscit eas per proprias similitudines in propria natura. Et sic habemus tres scientias Christi. Una est divina, quae est increata. Alia qua cognoscit res in Verbo et Verbum ipsum, quae est scientia comprehensoris. AliaEd. read *Tertia*. qua cognoscit res in propria natura, quae competit ei secundum quod est homo in solis naturalibus consideratus.***
+Ad quintam quaestionem dicendum quod secundum Philosophum in 3 *De anima*, intellectus possibilis est in potentia ad omnia intelligibilia. Omne autem quod est in potentia ad formam aliquam, remanet imperfectum, nisi illa forma fiat in eo. Unde cum intellectus Christi non sit imperfectus, oportet quod formae rerum ad quas intellectus possibilis est in potentia, sint descriptae in eo. Sed secundum quod cognoscit Verbum, non depingitur in eo neque similitudo Verbi, neque res quae videntur in Verbo, ut dictum est. Unde oportet quod praeter visionem qua videt res in Verbo, habeat aliam scientiam de rebus, secundum quod cognoscit eas per proprias similitudines in propria natura. Et sic habemus tres scientias Christi. Una est divina, quae est increata. Alia qua cognoscit res in Verbo et Verbum ipsum, quae est scientia comprehensoris. AliaEd. read *Tertia*. qua cognoscit res in propria natura, quae competit ei secundum quod est homo in solis naturalibus consideratus.  
 
 Ad primum ergo dicendum quod istae duae scientiae ultimae non sunt unius rationis, nec unius speciei; et ideo non est incongruumEd. read *inconveniens*; the Brussels manuscript reads *congruum*. quod sint in eodem,Ed. add *non*; the PLE omits *non*. ratione ejusdem.  
 
@@ -188,7 +190,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod anima Christi Verbum videndo comprehenderit.***
+Ad secundum sic proceditur. Videtur quod anima Christi Verbum videndo comprehenderit.  
 
 Sicut enim dicit Isidorus: Trinitas sibi soli nota est et homini assumpto. Sed visio qua Deus videtur, soli DeoEd. add *est*. conveniens et nulli alii creaturae purae,Ed. add *quia*. est visio comprehensionis. Ergo homo assumptus comprehendit Trinitatem.  
 
@@ -202,7 +204,7 @@ Praeterea, nulla potentia substantiae finitae est infinita. Sed anima Christi, c
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod in Verbo non cognoscat omnia quae cognoscit Verbum. Marci 13:32: *de die illa nemo scit, neque Filius, sed solus Pater*. Sed non loquitur de Filio secundum divinam naturam, secundum quam habet eamdem scientiam cum Patre. Ergo loquitur de Filio secundum humanam naturam. Ergo Christus secundum animam non omnia scit quae scit Deus.***
+Ulterius, videtur quod in Verbo non cognoscat omnia quae cognoscit Verbum. Marci 13:32: *de die illa nemo scit, neque Filius, sed solus Pater*. Sed non loquitur de Filio secundum divinam naturam, secundum quam habet eamdem scientiam cum Patre. Ergo loquitur de Filio secundum humanam naturam. Ergo Christus secundum animam non omnia scit quae scit Deus.  
 
 Praeterea, Deus scit infinita. Sed anima Christi, cum sit finita, non potest comprehendere infinita. Ergo non omnia scit quae scit Deus.  
 
@@ -216,7 +218,7 @@ Praeterea, nullum bonum est quod anima Christi non amet, quia habet perfectam ca
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod cognoscat omnia ita limpide ut Deus. Limpiditas enim visionis impeditur per obscuritatem potentiae videntis aut ipsius medii. Sed in potentia intellectiva Christi non est aliqua obscuritas, cum ejus anima sit speculum clarissimum et mundissimum; medium autem est idem in quo videt Deus et ipsa anima Christi, scilicet ipsa essentia divina. Ergo anima Christi non minus limpide videt quam Deus.***
+Ulterius, videtur quod cognoscat omnia ita limpide ut Deus. Limpiditas enim visionis impeditur per obscuritatem potentiae videntis aut ipsius medii. Sed in potentia intellectiva Christi non est aliqua obscuritas, cum ejus anima sit speculum clarissimum et mundissimum; medium autem est idem in quo videt Deus et ipsa anima Christi, scilicet ipsa essentia divina. Ergo anima Christi non minus limpide videt quam Deus.  
 
 Praeterea, si Deus magis limpide cognoscitThe Piana, Antwerp, Nicolaï, Venice, and Parma editions read *videt*. quam anima Christi, limpiditas in infinitum limpiditatem excedit. Sed inter infinite distantia possunt esse infinita media. Ergo possunt esse infinitae creaturae magis limpide cognoscentes quam anima Christi.  
 
@@ -228,7 +230,7 @@ Praeterea, major lux majorem claritatem visionis causat. Sed lux increata qua vi
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod anima Christi non uno intuitu omnia videat quae in Verbo cognoscit. Quia, sicut dicit Philosophus: scimus plura, intelligimus vero unum. Sed non videt anima Christi aliqua in Verbo nisi intelligendo. Ergo non potest uno intuitu omnia videre.***
+Ulterius, videtur quod anima Christi non uno intuitu omnia videat quae in Verbo cognoscit. Quia, sicut dicit Philosophus: scimus plura, intelligimus vero unum. Sed non videt anima Christi aliqua in Verbo nisi intelligendo. Ergo non potest uno intuitu omnia videre.  
 
 Praeterea, anima Christi in Verbo videt omnia quae videt Verbum. Sed Verbum videt infinita. Ergo et anima Christi videt infinita. Si igitur simul actu omnia videret quae ibi videt, esset pertransire actu infinita: quod non contingit.  
 
@@ -244,7 +246,7 @@ Praeterea, quaecumque videntur in una specie simul videntur, sicut homo simul vi
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod illud proprie comprehenditur quod attingitur ab intellectu secundum totam rationem suae cognoscibilitatis, et hoc est fines ejus conspici: non quidem rei, quia sic Deus seipsum non comprehenderet, quia fines non habet; sed quia secundum omnem rationem qua est cognoscibilis seipsum cognoscit, ideo comprehendere seipsum dicitur. Et quia unumquodque est cognoscibile secundum quod est ens, ideo dicta comprehensio contingit quando adaequatur ad essentiam rei efficacia intellectus in intelligendo.***
+Respondeo dicendum ad primam quaestionem quod illud proprie comprehenditur quod attingitur ab intellectu secundum totam rationem suae cognoscibilitatis, et hoc est fines ejus conspici: non quidem rei, quia sic Deus seipsum non comprehenderet, quia fines non habet; sed quia secundum omnem rationem qua est cognoscibilis seipsum cognoscit, ideo comprehendere seipsum dicitur. Et quia unumquodque est cognoscibile secundum quod est ens, ideo dicta comprehensio contingit quando adaequatur ad essentiam rei efficacia intellectus in intelligendo.  
 
 Cum autem intellectus duo habeat in intelligendo: scilicet lumen intellectuale quo intelligere potest, et similitudinem rei intellectae qua sua intellectualis operatio determinatur ad hanc rem cognitam; quodcumque horum excedatur a re secundum quod estBruges manuscript reads *hoc* and adds *quod est* in the margins. in suo esse, intellectus illam rem non comprehendet.Brussels and Paris (841 and 842) manuscripts read *comprehendit*.  
 
@@ -260,7 +262,7 @@ Ad tertium dicendum quod non negatur Verbum ab anima Christi comprehendi, quia p
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod quidam dixerunt omnem intellectum videntem Deum videre omnia quae videt Deus. Sed hoc non est necessarium; quia cum res videnturBruges, Brussels, and Paris (841 and 842) manuscripts read *videtur*. in Deo, Deus est quasi medium cognoscendi illas res. Non est autem necessarium quod qui cognoscit medium aliquod, cognoscat omniaEd. add *illa*. quae per medium illud cognosci possunt, nisi plenarie medium illud, secundum totam virtutem suam cognoscat. Et ideo ipse Deus, qui seipsum comprehendit, omnia quae in eo sunt qualitercumque, cognoscit, sed diversimode. Quia ea quae sunt velEd. omit *vel*. erunt, vel fuerunt secundum quodcumque tempus, scit scientia visionis; quia illud proprie videtur quod habet esse extra videntem. Et quamvis essentia per quam videt sit una; tamen quia per distinctas rationes ideales ea videt, ideo distinctam cognitionem de eis habet, dum unumquodque cognoscit secundum propriam ideam, sicut bonum; vel per oppositi ideam, sicut malum. Distinctio autemBruges manuscript omits *autem*. harum rationum est ex diverso respectu exemplaris, scilicet divinae essentiae, ad res visas.***
+Ad secundam quaestionem dicendum quod quidam dixerunt omnem intellectum videntem Deum videre omnia quae videt Deus. Sed hoc non est necessarium; quia cum res videnturBruges, Brussels, and Paris (841 and 842) manuscripts read *videtur*. in Deo, Deus est quasi medium cognoscendi illas res. Non est autem necessarium quod qui cognoscit medium aliquod, cognoscat omniaEd. add *illa*. quae per medium illud cognosci possunt, nisi plenarie medium illud, secundum totam virtutem suam cognoscat. Et ideo ipse Deus, qui seipsum comprehendit, omnia quae in eo sunt qualitercumque, cognoscit, sed diversimode. Quia ea quae sunt velEd. omit *vel*. erunt, vel fuerunt secundum quodcumque tempus, scit scientia visionis; quia illud proprie videtur quod habet esse extra videntem. Et quamvis essentia per quam videt sit una; tamen quia per distinctas rationes ideales ea videt, ideo distinctam cognitionem de eis habet, dum unumquodque cognoscit secundum propriam ideam, sicut bonum; vel per oppositi ideam, sicut malum. Distinctio autemBruges manuscript omits *autem*. harum rationum est ex diverso respectu exemplaris, scilicet divinae essentiae, ad res visas.  
 
 Sed ea quae nec sunt nec erunt nec fuerunt, et tamen potuissent esse vel fuisse vel futura esse, cum in seipsis non sint, nullam in seipsis distinctionem habent, nec sunt nisi in potentia ipsius Dei, in qua unum sunt. Unde non possunt esse respectus diversi secundum quos distinguantur rationes horum possibilium. Et ideo haec non cognoscit Deus per ideas distinctas, sed per cognitionem suae potentiae, in qua sunt. Et ideo dicitur haec cognoscere simplici intelligentia, quia intelligereEd. read intelligentiae against Bruges, Brussels, and Vatican (111, 190, and 755) manuscripts. est concipere etiam ea quae non sunt extra concipientem.Bruges, Brussels, and Paris (841) manuscripts read *ex concipiente*.  
 
@@ -282,7 +284,7 @@ Ad quartum dicendum quod Deus scit ex ipsa sua essentia omniaEd. omit *omnia*. q
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod claritas vel limpiditas visionis contingit ex tribus.—Primo, ex efficacia virtutis visivae; quia qui sunt fortioris visus, magis limpide vident.—Secundo, ex claritate lucis sub qua claritate visibile videtur; sicut clarius videtur aliquid in lumine solis quam in lumine lunae.—Tertio, ex comparatione visibilis, vel ejus in quo aliquid videtur, ad videntem; quia quod a remotiori videtur, minus clare videtur. Et propter haec tria non potest anima Christi ita limpide videre ea quae videt in Verbo, sicut ipsum Verbum.—Primo, ex hoc quodEd. read *quia*. non habet tantam virtutem in intelligendo.—Secundo, quia lumen sub quo videt, deficit a lumine increato.—Tertio, quia essentia divina quae est exemplar rerum in quo res videntur, est magis conjuncta sibiBrussels manuscript and the other editions read *Deo*. quam alicui creaturae, quia est idem eiBrussels manuscript and the other editions omit *ei*. secundum rem.***
+Ad tertiam quaestionem dicendum quod claritas vel limpiditas visionis contingit ex tribus.—Primo, ex efficacia virtutis visivae; quia qui sunt fortioris visus, magis limpide vident.—Secundo, ex claritate lucis sub qua claritate visibile videtur; sicut clarius videtur aliquid in lumine solis quam in lumine lunae.—Tertio, ex comparatione visibilis, vel ejus in quo aliquid videtur, ad videntem; quia quod a remotiori videtur, minus clare videtur. Et propter haec tria non potest anima Christi ita limpide videre ea quae videt in Verbo, sicut ipsum Verbum.—Primo, ex hoc quodEd. read *quia*. non habet tantam virtutem in intelligendo.—Secundo, quia lumen sub quo videt, deficit a lumine increato.—Tertio, quia essentia divina quae est exemplar rerum in quo res videntur, est magis conjuncta sibiBrussels manuscript and the other editions read *Deo*. quam alicui creaturae, quia est idem eiBrussels manuscript and the other editions omit *ei*. secundum rem.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo*. dicendum quod anima Christi est speculum clarissimum respectu creaturarum; non tamen pertingit ad claritatem divinam. Nec ex hoc sequitur quod sit in eo aliqua obscuritas, sicut nec in minus albo est aliqua nigredo, sed albedo minus intensa.  
 
@@ -292,7 +294,7 @@ Ad tertium dicendum quod limpiditas intelligendi non tantum est ex parte intelli
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod ratio quam assignant philosophi, quare intellectus noster non potest plura simulBruges and Brussels manuscripts read *comprehendere vel*. intelligere, haec est, quiaBrussels manuscript reads *quod*. oportet quod intellectus figuretur specie rei intelligibilis. Impossibile est autem quod simul figuretur pluribus speciebus, sicut impossibile est quod corpus simul figuretur pluribus figuris. Et itaEd. read *ideo*. si aliqua cognoscuntur per unam speciem, illa nihil prohibet simul cognosci; sicut homo intelligens quidditatem hominis, simul intelligit animal etBruges manuscript omits *et*. rationale. Et propter hoc etiam intelligens propositionem, simul intelligit praedicatum et subjectum, quia intelligit ea ut unum. Et ideo anima Christi cumThe Vatican (111 and 190) manuscripts omit *cum*; the Vatican manuscripts (111, 190, and 755) manuscripts add *quae*. intelligit omnia quae sunt in uno, scilicet Verbo, etiamBrussels and Vatican (755) manuscripts as well as the other editions read *et*. simul et unoBruges manuscript omits *Verbo . . . uno* through homoteleuton. intuitu omnia simul cognoscit actu.The Vatican (111) manuscript and the other editions omit *simul*; Bruges and Brussels manuscripts omit *actu*. Et similiter est de aliis beatis quantum ad omnia quae in Verbo vident; secus autem est de illis quae vident per species diversas, quae simul videre non possunt.***
+Ad quartam quaestionem dicendum quod ratio quam assignant philosophi, quare intellectus noster non potest plura simulBruges and Brussels manuscripts read *comprehendere vel*. intelligere, haec est, quiaBrussels manuscript reads *quod*. oportet quod intellectus figuretur specie rei intelligibilis. Impossibile est autem quod simul figuretur pluribus speciebus, sicut impossibile est quod corpus simul figuretur pluribus figuris. Et itaEd. read *ideo*. si aliqua cognoscuntur per unam speciem, illa nihil prohibet simul cognosci; sicut homo intelligens quidditatem hominis, simul intelligit animal etBruges manuscript omits *et*. rationale. Et propter hoc etiam intelligens propositionem, simul intelligit praedicatum et subjectum, quia intelligit ea ut unum. Et ideo anima Christi cumThe Vatican (111 and 190) manuscripts omit *cum*; the Vatican manuscripts (111, 190, and 755) manuscripts add *quae*. intelligit omnia quae sunt in uno, scilicet Verbo, etiamBrussels and Vatican (755) manuscripts as well as the other editions read *et*. simul et unoBruges manuscript omits *Verbo . . . uno* through homoteleuton. intuitu omnia simul cognoscit actu.The Vatican (111) manuscript and the other editions omit *simul*; Bruges and Brussels manuscripts omit *actu*. Et similiter est de aliis beatis quantum ad omnia quae in Verbo vident; secus autem est de illis quae vident per species diversas, quae simul videre non possunt.  
 
 Ad primum ergo dicendum quod quando plura intelliguntur in uno,Bruges manuscript omits *in uno*. omnia illa sunt ut unum intelligibile; et per hoc servatur verbum Philosophi.  
 
@@ -304,11 +306,11 @@ Ad quartum dicendum quod unus angelus non illuminatur ab alio de his quae illumi
 
 Articulus 3  
 
-***Utrum anima Christi, secundum illam scientiam qua cognoscit res in propria natura, cognoscat omnia***
+Utrum anima Christi, secundum illam scientiam qua cognoscit res in propria natura, cognoscat omnia  
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod secundum illam scientiam qua anima Christi scit resBrussels manuscript omit *res*. in propria natura, sciat omnia.***
+Ad tertium sic proceditur. Videtur quod secundum illam scientiam qua anima Christi scit resBrussels manuscript omit *res*. in propria natura, sciat omnia.  
 
 Omnis enim potentia quae non est reducta ad actum, est imperfecta. Sed intellectus possibilis animae Christi est in potentia ad omnia intelligibilia, quia est quo estEd. read *quodammodo*. omnia fieri, ut diciturThe Vivès edition reads *dicit*. in 3 *De anima*. Ergo si non omnia sciret per proprias similitudines, remaneret imperfectus.  
 
@@ -322,7 +324,7 @@ Praeterea, per istamEd. read *illam*. scientiam Christus conformatur nobis. Sed 
 
 Quaestiuncula 2  
 
-***Ulterius, nidetur quod hanc scientiam Christus habuit minorem angelis. Quia quanto intellectus est simplicior, tanto scientia ejus naturalis est major. Sed intellectus angelicus est simplicior quam anima Christi, quia intellectus Christi non excedit terminos humanae naturae ultra quos est simplicitas intellectus angelici. Ergo angelicusThe Piana and Antwerp editions omit *angelicus*. intellectus habet majorem scientiam quamEd. add *est*. scientia naturalis animae Christi.***
+Ulterius, nidetur quod hanc scientiam Christus habuit minorem angelis. Quia quanto intellectus est simplicior, tanto scientia ejus naturalis est major. Sed intellectus angelicus est simplicior quam anima Christi, quia intellectus Christi non excedit terminos humanae naturae ultra quos est simplicitas intellectus angelici. Ergo angelicusThe Piana and Antwerp editions omit *angelicus*. intellectus habet majorem scientiam quamEd. add *est*. scientia naturalis animae Christi.  
 
 Praeterea, quanto intellectus est magis propinquus materiae, tanto est debilior in cognoscendo. Sed intellectus Christi, cum forma naturalis sit corporis,Ed. read *materialis* and add *Christi*. magis propinquus est materiae quam intellectusEd. omit *intellectus*. angelicus. Ergo debilius cognoscit. Et sic idem quod prius.  
 
@@ -334,7 +336,7 @@ Praeterea, sicut dicit Dionysius 7 cap. *Cael. hier*.: ipse Christus secundum qu
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod Christus non habuit scientiam per modum collationis. Quia, sicut dicit Damascenus: *in Christo non inquirimus consilium neque electionem.* Sed haec pertinent ad collationem practicam. Ergo eadem ratione non fuit in eo collatio quantum ad speculativam.***
+Ulterius, videtur quod Christus non habuit scientiam per modum collationis. Quia, sicut dicit Damascenus: *in Christo non inquirimus consilium neque electionem.* Sed haec pertinent ad collationem practicam. Ergo eadem ratione non fuit in eo collatio quantum ad speculativam.  
 
 Praeterea, discursus rationis opponitur deiformitati. Sed anima Christi tota fuit deiformis. Ergo non habet scientiam collativam.  
 
@@ -346,7 +348,7 @@ Praeterea, opponere et respondere pertinent ad scientiam collativam. Sed Christu
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod per plures habitus haec scientia divisa fuerit. Quia scientia sua fuit univoca scientiae nostrae. Sed nostra scientia est de omnibus quae Christus scivit, per plures habitus. Ergo et scientia Christi.***
+Ulterius, videtur quod per plures habitus haec scientia divisa fuerit. Quia scientia sua fuit univoca scientiae nostrae. Sed nostra scientia est de omnibus quae Christus scivit, per plures habitus. Ergo et scientia Christi.  
 
 Praeterea, sicut dicit Philosophus, 3 *De anima*: *scientiae secantur sicut et res*. Sed Christus habuit scientiam de diversis rebus. Ergo habuit diversos habitus scientiarum.  
 
@@ -358,7 +360,7 @@ Praeterea, scientia regitiva plurium artium non diversificatur per illas artes, 
 
 Quaestiuncula 5  
 
-***Ulterius, videtur quod in ista scientia profecerit. Hebr. 5:8: *didicit ex iis quae passus est, obedientiam*. Sed discere est in scientia proficere. Ergo in scientia profecit.***
+Ulterius, videtur quod in ista scientia profecerit. Hebr. 5:8: *didicit ex iis quae passus est, obedientiam*. Sed discere est in scientia proficere. Ergo in scientia profecit.  
 
 Praeterea, non proficere in eo quoEd. read *his quae*. quis proficere potest est magnus defectus. Sed in omni scientia qua quis non omnia scit, potest proficere. Ergo cum Christus secundum hanc scientiam non omnia sciverit, videtur quod potuerit proficere, et ita quod ChristusEd. omit *quod Christus*. profecerit in ea.  
 
@@ -370,7 +372,7 @@ Sed contra, Damascenus dicit: *qui dicunt Christum proficere sapientia et aetate
 
 Quaestiuncula 6  
 
-***Ulterius, videtur quod ab angelis quantum ad hanc scientiam accepit.Bruges manuscript reads *recepit*. Dionysius enim, 4 cap. *Cael. hier.*, dicit: *per angelos videmus eum sub paternis legibus ordinatum*. Sed quod ordinatur, aliquid ab ordinante accipit. Ergo Christus aliquid ab angelis accepit.***
+Ulterius, videtur quod ab angelis quantum ad hanc scientiam accepit.Bruges manuscript reads *recepit*. Dionysius enim, 4 cap. *Cael. hier.*, dicit: *per angelos videmus eum sub paternis legibus ordinatum*. Sed quod ordinatur, aliquid ab ordinante accipit. Ergo Christus aliquid ab angelis accepit.  
 
 Praeterea, Luc. 22:43, dicitur quod *apparuit angelus Domini confortans eum*. Sed confortatus a confortante accipit aliquid. Ergo et Christus ab angelo.  
 
@@ -384,7 +386,7 @@ Praeterea, quod immediate recipitEd. read *accipit*. a Verbo non habet necesse a
 
 Solutio 1  
 
-***Respondeo dicendumEd. read *Respondeo ad primam quaestionem dicendo*. ad primam quaestionem quod cognitio rerum in proprio genere et cognitio rerum in Verbo differunt, non quantum ad res cognitas, sed quantum ad medium cognoscendi quod est id in quo res cognoscitur; quia cognitio quae est rerum in Verbo, habet medium cognoscendi ipsum Verbum; cognitio autem rerum in proprio genere, habet medium cognoscendi similitudines rerum quae sunt in intellectu.***
+Respondeo dicendumEd. read *Respondeo ad primam quaestionem dicendo*. ad primam quaestionem quod cognitio rerum in proprio genere et cognitio rerum in Verbo differunt, non quantum ad res cognitas, sed quantum ad medium cognoscendi quod est id in quo res cognoscitur; quia cognitio quae est rerum in Verbo, habet medium cognoscendi ipsum Verbum; cognitio autem rerum in proprio genere, habet medium cognoscendi similitudines rerum quae sunt in intellectu.  
 
 Medium autem cognoscendi quod est lumen sub quo videtur res, utrobique creatum est. Hoc autemEd. read *enim*. vel est lumen naturale, sicut in his quae cognoscuntur per rationem naturalem; vel lumen gratiae, sicut in his quae cognoscuntur per fidem et revelationem. Christus autem perfectus fuit secundum animam, et in natura et in gratia.Ed. read *secundum naturam et secundum gratiam*. Non autem perfectio animae quantum ad naturam esset in ipso, nisi omnia cognosceretBrussels manuscript reads *recognovisset*. hoc genere cognitionis quae per rationem naturalem cognosci possunt; necEd. add *etiam*. esset perfectus in gratia, nisi omnia quae ad revelationem gratiae pertinent in hominibus sive in angelis cognovisset; et ideo hujusmodi hoc genere cognitionis cognovit.Ed. read *et ideo anima ejus hoc genere cognitionis omnia cognovit*.  
 
@@ -398,7 +400,7 @@ Ad tertium dicendum quod non negatur omnia cognoscere hujusmodi cognitionis gene
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod ad cognitionem intellectivam tria requiruntur: scilicet potentia intellectus, lumen quo intelligit et similitudo rei per quam cognitio rei determinatur. Et secundum haec tria potest aliqua cognitio esse altera potior tripliciter.***
+Ad secundam quaestionem dicendum quod ad cognitionem intellectivam tria requiruntur: scilicet potentia intellectus, lumen quo intelligit et similitudo rei per quam cognitio rei determinatur. Et secundum haec tria potest aliqua cognitio esse altera potior tripliciter.  
 
 Primo, quantum ad efficaciam cognoscendi sive certitudinem cognitionis sive limpiditatem, quod idem est, quae ex ipso lumine consequitur. Et sic cum Christus abundanter lumen gratiae habuerit magis quam angeli, habuit limpidiorem cognitionem quam angeli.  
 
@@ -414,7 +416,7 @@ Ad tertium dicendum quod obumbratio illa intelligitur quantum ad hoc quod intell
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod ex hoc ipso quod noster intellectus accipit a phantasmatibus, sequitur in ipsoBruges and Brussels manuscripts omit *in ipso*. quod cognitionemEd. read *scientiam*; Bruges manuscript reads *cognitionem intellectivam*. collativam habeat inquantum ex multis sensibus fit una memoria et ex multis memoriis unum experimentum et ex multis experimentis unum universale principium ex quo alia concludit; et sic acquirit scientiam, ut dicitur in principio *Meta.*, et in fine *Posteriorum.* Unde secundum quod se habet intellectus ad phantasmata, secundum hoc se habet ad collationem. Habet autem se ad phantasmata dupliciter:—Uno modo sicut accipiens a phantasmatibus scientiam, quod est in illis qui nondum scientiam habent, secundum motum qui est a rebus ad animam.—Alio modo secundum motum qui est ab anima ad res, inquantum phantasmatibus utitur quasi exemplis in quibus inspicit quod considerat, cujus tamen scientiam prius habebat in habitu.***
+Ad tertiam quaestionem dicendum quod ex hoc ipso quod noster intellectus accipit a phantasmatibus, sequitur in ipsoBruges and Brussels manuscripts omit *in ipso*. quod cognitionemEd. read *scientiam*; Bruges manuscript reads *cognitionem intellectivam*. collativam habeat inquantum ex multis sensibus fit una memoria et ex multis memoriis unum experimentum et ex multis experimentis unum universale principium ex quo alia concludit; et sic acquirit scientiam, ut dicitur in principio *Meta.*, et in fine *Posteriorum.* Unde secundum quod se habet intellectus ad phantasmata, secundum hoc se habet ad collationem. Habet autem se ad phantasmata dupliciter:—Uno modo sicut accipiens a phantasmatibus scientiam, quod est in illis qui nondum scientiam habent, secundum motum qui est a rebus ad animam.—Alio modo secundum motum qui est ab anima ad res, inquantum phantasmatibus utitur quasi exemplis in quibus inspicit quod considerat, cujus tamen scientiam prius habebat in habitu.  
 
 Similiter etiamBruges manuscript omits *etiam*. est duplex collatio:—Una qua homo procedit ex notis ad inquisitionem ignoti; et talis collatio non fuit in Christo.—Alia secundum quam homo ea quae habitu tenet, in actum ducens,Bruges manuscript reads *deducens*. ex principiis considerat conclusiones sicut ex causis effectus; et sicEd. read *talis*. collativa scientia fuit in Christo.  
 
@@ -426,7 +428,7 @@ Ad tertium dicendum quod umbra illa, ut dictum est, refertur ad genus cognitioni
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod ex limpiditate cognitionis contingit quod scientia est magis unita et simplex; quia quanto limpidius videt intellectus, tanto ex paucioribus potest cognoscere plura. Unde cum anima Christi habuerit limpidissimam cognitionem inter omnes creaturas, scientia ejus fuit magis unita et per formas magis universales quam aliqua scientia creaturae.***
+Ad quartam quaestionem dicendum quod ex limpiditate cognitionis contingit quod scientia est magis unita et simplex; quia quanto limpidius videt intellectus, tanto ex paucioribus potest cognoscere plura. Unde cum anima Christi habuerit limpidissimam cognitionem inter omnes creaturas, scientia ejus fuit magis unita et per formas magis universales quam aliqua scientia creaturae.  
 
 Divisio autem habituum in diversis rebus cognoscendis contingit in nobis ex hoc quod formae intelligibiles in nobis sunt minime universales. Unde oportet quod diversas res per diversas species cognoscamus. Et diversae species secundum genus faciunt diversos habitus scientiarum. Et propter hoc angeli qui habent scientiam magis universalem, utpote non acceptam a rebus, non habent cognitionem de rebus per diversos habitus.  
 
@@ -440,7 +442,7 @@ Ad tertium dicendum quod non quaelibet specierum diversitas facit diversum habit
 
 Solutio 5  
 
-***Ad quintam quaestionem dicendum quod cum eminentia scientiae, ut dictum est, consistatBrussels manuscript reads *consistit*. in tribus, scientia Christi nunquam crevit quantum ad genus cognitionis, quia illud genus cognitionis sequitur naturam humanam, quae in ipso semper permansit; nec iterum quantum ad numerum scitorum, quia omnia scivit a primo instanti suae conceptionis quae ad hanc scientiam pertinent; crevit autem quantum ad aliquem modum certitudinis.***
+Ad quintam quaestionem dicendum quod cum eminentia scientiae, ut dictum est, consistatBrussels manuscript reads *consistit*. in tribus, scientia Christi nunquam crevit quantum ad genus cognitionis, quia illud genus cognitionis sequitur naturam humanam, quae in ipso semper permansit; nec iterum quantum ad numerum scitorum, quia omnia scivit a primo instanti suae conceptionis quae ad hanc scientiam pertinent; crevit autem quantum ad aliquem modum certitudinis.  
 
 Cum enim anima nostra secundum naturam sit media inter intellectum purum, qualis est in angelis, et sensus, dupliciter certificaturThe Antwerp edition reads *testificatur*. de aliquibus.—Uno modo ex lumine intellectus, qualis est certitudo in demonstrationibus eorumEd. read *illorum*. quae nunquam visa sunt.—Alio modo ex sensu, sicut cum aliquis est certus de his quae videt sensibiliter. Et talis certitudo acquiritur alicui, etiam quantumcumque per certissimam demonstrationem aliquid sciat, quando videt sensibiliter quod prius non viderat—unde anima delectatur in visis etiam quae scivit—et haec vocatur "certitudo experimentalis." Et quantum ad hanc crevit scientia Christi inquantum quotidie aliqua videbat sensibiliter quae prius non viderat; non autem crevit quantum ad essentiam.  
 
@@ -454,7 +456,7 @@ Ad quartum dicendum quod Ambrosius intelligit profectum scientiae Christi quantu
 
 Solutio 6  
 
-***Ad sextam quaestionem dicendum quod secundum doctrinam Dionysii in *Cael. hier*., angeli a quibus alii cognitionem accipiunt, abundantiori lumine pleni sunt, quasi propinquius claritatem divinam contemplantes. Oportet enim recipiens esseThe Nicolaï, Venice, Parma, and Vivès editions add *in* against Bruges and Brussels manuscripts as well as the Piana and Antwerp editions. in potentia respectu ejus a quo recipit et ita minus in actu ejus quod recipere debet. Unde cum anima Christi abundantius intellectuale lumen habuerit quam angeli, ut patet ex dictis,Ed. read *praedictis*. constat etiam quod ChristusBruges manuscript adds *habuit*. mortale corpus gerens nihil cognitionis ab angelis accepit, sed ipse non solum secundum Divinitatem,Ed. read *Deitatem*. sed etiam secundum animam angelos omnes illuminavit sicut etiamBrussels and Paris (841 and 842) manuscripts read *et*. nunc illuminat. Non enim minoris gloriae erat illa anima aut minoris cognitionis in statu illo quam modo sit, cum a principio suae conceptionis perfectus comprehensor fuerit.***
+Ad sextam quaestionem dicendum quod secundum doctrinam Dionysii in *Cael. hier*., angeli a quibus alii cognitionem accipiunt, abundantiori lumine pleni sunt, quasi propinquius claritatem divinam contemplantes. Oportet enim recipiens esseThe Nicolaï, Venice, Parma, and Vivès editions add *in* against Bruges and Brussels manuscripts as well as the Piana and Antwerp editions. in potentia respectu ejus a quo recipit et ita minus in actu ejus quod recipere debet. Unde cum anima Christi abundantius intellectuale lumen habuerit quam angeli, ut patet ex dictis,Ed. read *praedictis*. constat etiam quod ChristusBruges manuscript adds *habuit*. mortale corpus gerens nihil cognitionis ab angelis accepit, sed ipse non solum secundum Divinitatem,Ed. read *Deitatem*. sed etiam secundum animam angelos omnes illuminavit sicut etiamBrussels and Paris (841 and 842) manuscripts read *et*. nunc illuminat. Non enim minoris gloriae erat illa anima aut minoris cognitionis in statu illo quam modo sit, cum a principio suae conceptionis perfectus comprehensor fuerit.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo*. dicendum quod sicut ipsemet Dionysius se ibidem exponit, dicitur Christus *per angelos ordinatus*, non quia ipse ab eis illuminationem acceperit,The Vivès edition reads *accipit*. sed quia de his quae ad ipsum pertinebant circa ipsum gerenda,The Nicolaï edition reads *circa ipsum gerendis* and adds in the margins *ut sit planior sensus, non sicut prius perturbata constructione quam sciolus aliquis depravavit*. per angelos alii instruebantur, sicut Joseph de fuga in Aegyptum et de reditu de Aegypto, ut patetThe Piana, Antwerp, Venice, and Parma editions read *dicitur*; the Nicolaï edition reads *dicit*. Mat. 2: ipse enim per se in his eos instruere non volebat,PLE: *volebat*. utPLE: *ut exterius*. exteriusThe Piana and Antwerp editions read *ulterius*; the Nicolaï, Venice, Parma, and Vivès editions omit *exterius*. ab aliis pueris nonBrussels manuscript omits *non*. differret, etThe Nicolaï, Venice, and Parma editions add *ulterius*; the Vivès edition reads *exterius*. ut veritas naturae assumptae probaretur.  
 
@@ -468,7 +470,7 @@ Articulus 4
 
 ***Utrum anima Christi habuit omnipotentiam, sicut et omnium scientiam***
 
-***Ad quartum sic proceditur. Videtur quod anima Christi habuit omnipotentiam, sicut et omnem scientiam.***
+Ad quartum sic proceditur. Videtur quod anima Christi habuit omnipotentiam, sicut et omnem scientiam.  
 
 Primo per hoc quod dicitur Mat. ult. 18: *data est mihi omnis potestas in caelo et in terra,* et loquitur secundum humanam naturam. Ergo secundum humanam naturam habuit omnipotentiam.  
 
@@ -502,7 +504,7 @@ Ad quintum dicendum quod potentia intellectus agentis non est ut faciat omnia si
 
 Expositio textus  
 
-****In nullo creatura Creatori aequatur etc*. Intelligendum est quantum ad rationem rei habitae et quantum ad modum habendi; quia etsi aliquid idem conveniat Deo et creaturae, non tamen secundum modum eumdem vel rationem eamdem.***
+*In nullo creatura Creatori aequatur etc*. Intelligendum est quantum ad rationem rei habitae et quantum ad modum habendi; quia etsi aliquid idem conveniat Deo et creaturae, non tamen secundum modum eumdem vel rationem eamdem.  
 
 *Nemo novit quae sunt Dei etc*. Non excluditurThe Piana, Antwerp, Venice, Parma, and Vivès editions read *excluduntur*. per hocBruges manuscript omits *per hoc*. Pater et Filius, quiaEd. read *qui*. habent eamdem cognitionem quam et Spiritus Sanctus.  
 

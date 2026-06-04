@@ -1,8 +1,10 @@
 # D. 4 - Divine generation and divine predication
 
+***De divina generatione et divina praedicatione***
+
 ***Divisio textus***
 
-***Postquam probavit Trinitatem personarum in unitate essentiae, auctoritatibus, rationibus et similitudinibus, hic incipit determinare quaestiones incidentes circa praedeterminata. Dividitur autem in partes duas. Cum enim personarum Trinitas distinguatur per processionem unius personae ab alia, in prima movet quaestiones circa hanc processionem quantum ad suppositum et terminum; in secunda quantum ad principium, 6 distinct., ibi: *quaeri solet, utrum Pater genuerit Filium voluntate, an necessitate*. Sciendum est autem, quod licet Magister moveat has quaestiones de generatione Filii a Patre, tamen eaedem quaestiones possunt fieri de processione Spiritus Sancti, et similiter determinantur.***
+Postquam probavit Trinitatem personarum in unitate essentiae, auctoritatibus, rationibus et similitudinibus, hic incipit determinare quaestiones incidentes circa praedeterminata. Dividitur autem in partes duas. Cum enim personarum Trinitas distinguatur per processionem unius personae ab alia, in prima movet quaestiones circa hanc processionem quantum ad suppositum et terminum; in secunda quantum ad principium, 6 distinct., ibi: *quaeri solet, utrum Pater genuerit Filium voluntate, an necessitate*. Sciendum est autem, quod licet Magister moveat has quaestiones de generatione Filii a Patre, tamen eaedem quaestiones possunt fieri de processione Spiritus Sancti, et similiter determinantur.  
 
 Prima autem pars dividitur in duas: in prima inquirit utrum nomina essentialia concreta possint significari ut suppositum actus generationis, vel ut terminus; in secunda inquirit de nominibus essentialibus in abstractione significantibus, 5 distinct., ibi: *post hoc quaeritur, utrum concedendum sit, quod Pater genuit divinam essentiam*. De personalibus enim non est dubium, supposita distinctione personarum per actus notionales.  
 
@@ -130,7 +132,7 @@ Articulus 1
 
 ***Utrum de divinis possit formari propositio***
 
-***Ad primum sic proceditur. Videtur quod in divinis non possit aliqua formari propositio, in qua aliquid de ipso praedicetur.***
+Ad primum sic proceditur. Videtur quod in divinis non possit aliqua formari propositio, in qua aliquid de ipso praedicetur.  
 
 Veritas enim signi consistit in conformitate signi ad signatum. Sed omnis praedicatio fit per aliquam compositionem. Cum igitur in Deo nulla sit compositio, videtur quod de ipso nulla possit formari vera praedicativa propositio.Parma: *vera praedicatio*.  
 
@@ -150,7 +152,7 @@ Articulus 2
 
 ***Utrum persona possit praedicari de essentia***
 
-***Ad secundum sic proceditur. Videtur quod persona non possit praedicari de essentia.***
+Ad secundum sic proceditur. Videtur quod persona non possit praedicari de essentia.  
 
 Praedicatum enim habet rationem formae. Sed persona est suppositum formae, vel naturae. Ergo persona non habet rationem quod praedicetur de natura vel essentia.  
 
@@ -176,4 +178,4 @@ Ad quintum dicendum, quod Pater supponit personam distinctam, similiter et Filiu
 
 Expositio textus  
 
-****Deus Pater alterum se genuit*. Hoc dupliciter solvit Magister. Quia ly “se” potest esse ablativi casus, et tunc simpliciter vera est: et est sensus: genuit alterum se, id est alterum a se. Vel potest esse accusativi casus; et tunc vel facit simplicemAl.: *similiter*. relationem; et sic iterum vera est, refert enim identitatem naturae; tamen erit impropria: vel faciet relationem personalem, et sic est falsa, quia refert idem suppositum. Potest tamen dici, quod etiam si referat idem suppositum, quodammodo erit vera, sed erit emphatica locutio, ut sit sensus: genuit alterum se, id est similem sibi; sicut dicit poeta: *di faciant sine me ne moriatur ego*.***
+*Deus Pater alterum se genuit*. Hoc dupliciter solvit Magister. Quia ly “se” potest esse ablativi casus, et tunc simpliciter vera est: et est sensus: genuit alterum se, id est alterum a se. Vel potest esse accusativi casus; et tunc vel facit simplicemAl.: *similiter*. relationem; et sic iterum vera est, refert enim identitatem naturae; tamen erit impropria: vel faciet relationem personalem, et sic est falsa, quia refert idem suppositum. Potest tamen dici, quod etiam si referat idem suppositum, quodammodo erit vera, sed erit emphatica locutio, ut sit sensus: genuit alterum se, id est similem sibi; sicut dicit poeta: *di faciant sine me ne moriatur ego*.

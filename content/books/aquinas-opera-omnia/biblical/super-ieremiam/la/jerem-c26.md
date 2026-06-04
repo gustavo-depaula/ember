@@ -1,6 +1,8 @@
 # C. 24 - Good and bad princes separated
 
-***^24:1^ Ostendit mihi Dominus: et ecce duo calathi pleni ficis positi ante templum Domini, postquam transtulit Nabuchodonosor rex Babyloni Jechoniam filium Joakim regem Juda, et principes ejus, et fabrum, et inclusorem de Jerusalem, et adduxit eos in Babylonem.***
+***Lectio 1***
+
+^24:1^ Ostendit mihi Dominus: et ecce duo calathi pleni ficis positi ante templum Domini, postquam transtulit Nabuchodonosor rex Babyloni Jechoniam filium Joakim regem Juda, et principes ejus, et fabrum, et inclusorem de Jerusalem, et adduxit eos in Babylonem.  
 
 > ^24:2^ Calathus unus ficus bonas habebat nimis, ut solent ficus esse primi temporis. Et calathus unus ficus habebat malas nimis, quae comedi non poterant, eo quod essent malae.
 

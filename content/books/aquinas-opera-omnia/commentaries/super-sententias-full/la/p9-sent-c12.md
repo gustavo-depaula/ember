@@ -1,6 +1,8 @@
 # D. 37 - On holy orders and uxoricide
 
-***Postquam determinavit Magister de impedimentis quae faciunt personas medias inter penitus legitimas et penitus illegitimas, hic determinat de impedimentis quae faciunt personas penitus illegitimas; et dividitur in partes duas: in prima determinat de impedimentis quae faciunt personas illegitimas respectu cujuslibet personae; in secunda de impedimentis quae faciunt personas illegitimas respectu aliquarum personarum, et non respectu omnium; 39 dist., ibi: *post haec de dispari cultu videndum est*.***
+***De impedimentis ordinis et uxoricidii***
+
+Postquam determinavit Magister de impedimentis quae faciunt personas medias inter penitus legitimas et penitus illegitimas, hic determinat de impedimentis quae faciunt personas penitus illegitimas; et dividitur in partes duas: in prima determinat de impedimentis quae faciunt personas illegitimas respectu cujuslibet personae; in secunda de impedimentis quae faciunt personas illegitimas respectu aliquarum personarum, et non respectu omnium; 39 dist., ibi: *post haec de dispari cultu videndum est*.  
 
 Prima in duas: in prima determinat de impedimento ordinis; in secunda de impedimento voti, 38 dist., ibi: *nunc de voto inspiciamus*.  
 
@@ -21,7 +23,7 @@ primo, utrum ordo praecedens impediat matrimonium;
 
 ***Utrum ordo praecedens impediat matrimonium***
 
-***Ad primum sic proceditur. Videtur quod ordo non impediat matrimonium. Quia nihil impeditur nisi a suo contrario. Sed ordo non est contrarius matrimonio, cum utrumque sit sacramentum. Ergo non impedit ipsum.***
+Ad primum sic proceditur. Videtur quod ordo non impediat matrimonium. Quia nihil impeditur nisi a suo contrario. Sed ordo non est contrarius matrimonio, cum utrumque sit sacramentum. Ergo non impedit ipsum.  
 
 Praeterea, idem ordo est apud nos et apud Ecclesiam Orientalem. Sed apud Ecclesiam Orientalem non impedit matrimonium. Ergo nec apud Occidentalem.  
 
@@ -51,7 +53,7 @@ Articulus 2
 
 ***Utrum matrimonium praecedens ordinem sequi patiatur***
 
-***Ad secundum sic proceditur. Videtur quod matrimonio ordo sacer supervenire non possit. Quia fortius praejudicat minus forti. Sed fortius est vinculum spirituale quam corporale. Ergo si matrimonio junctus ordinem suscipiat, praejudicium generabitur uxori, ut non possit debitum exigere; cum ordo sit vinculum spirituale, et matrimonium corporale; et sic videtur quod non possit ordinem sacrum suscipere post matrimonium consummatum.***
+Ad secundum sic proceditur. Videtur quod matrimonio ordo sacer supervenire non possit. Quia fortius praejudicat minus forti. Sed fortius est vinculum spirituale quam corporale. Ergo si matrimonio junctus ordinem suscipiat, praejudicium generabitur uxori, ut non possit debitum exigere; cum ordo sit vinculum spirituale, et matrimonium corporale; et sic videtur quod non possit ordinem sacrum suscipere post matrimonium consummatum.  
 
 Praeterea, post matrimonium consummatum unus conjugum sine alterius consensu non potest continentiam vovere. Sed ordo sacer habet continentiae votum annexum. Ergo si vir ordinem sacrum invita uxore acciperet, cogeretur uxor invita continentiam servare; quia non posset alteri nubere, viro vivente.  
 
@@ -90,7 +92,7 @@ primo, utrum in aliquo casu liceat uxorem occidere;
 
 ***Utrum in aliquo casu liceat uxorem occidere***
 
-***Ad primum sic proceditur. Videtur quod liceat viro uxorem interficere in actu adulterii deprehensam. Lex enim divina praecipit adulteras lapidari. Sed ille qui legem divinam exequitur, non peccat. Ergo nec occidens propriam uxorem, si sit adultera.***
+Ad primum sic proceditur. Videtur quod liceat viro uxorem interficere in actu adulterii deprehensam. Lex enim divina praecipit adulteras lapidari. Sed ille qui legem divinam exequitur, non peccat. Ergo nec occidens propriam uxorem, si sit adultera.  
 
 Praeterea, illud quod licet legi, licet ei cui lex hoc committit. Sed legi licet interficere adulteram, aut quamlibet personam ream mortis. Cum ergo lex commiserit viro interfectionem uxoris in actu adulterii deprehensae, videtur quod ei liceat.  
 
@@ -116,7 +118,7 @@ Articulus 2
 
 ***Utrum uxoricidium impediat matrimonium***
 
-***Ad secundum sic proceditur. Videtur quod uxoricidium non impediat matrimonium. Directius enim opponitur matrimonio adulterium quam homicidium. Sed adulterium non impedit matrimonium. Ergo nec homicidium uxoris.***
+Ad secundum sic proceditur. Videtur quod uxoricidium non impediat matrimonium. Directius enim opponitur matrimonio adulterium quam homicidium. Sed adulterium non impedit matrimonium. Ergo nec homicidium uxoris.  
 
 Praeterea, gravius peccatum est occidere matrem quam uxorem: quia nunquam licet verberare matrem, licet autem verberare uxorem. Sed occisio matris non impedit matrimonium. Ergo nec occisio uxoris.  
 
@@ -140,6 +142,6 @@ Ad quartum dicendum, quod non est necessarium quod deleta culpa deleatur omnis p
 
 Expositio textus  
 
-****Uxorem virginem*, etc. Intelligitur sub hypothesi; idest, si ad clericatum redire desiderat ad sacerdotium promovendus.***
+*Uxorem virginem*, etc. Intelligitur sub hypothesi; idest, si ad clericatum redire desiderat ad sacerdotium promovendus.  
 
 *Sancta Dei Ecclesia gladium non habet*, etc. Contra est quod Bernardus dicit ad Eugenium, quod Ecclesia utrumque gladium habet. Et dicendum, quod habet spiritualem tantum quantum ad executionem sua manu exercendam; sed habet etiam temporalem quantum ad ejus jussionem: quia ejus nutu extrahendus est, ut dicit Bernardus.

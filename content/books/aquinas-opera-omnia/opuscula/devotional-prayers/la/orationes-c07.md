@@ -1,5 +1,7 @@
 # Ineffable Creator
 
+***Oratio ante studium***
+
 ***Creator ineffabilis,***
 ***qui de thesauris sapientiae tuae***
 ***tres***

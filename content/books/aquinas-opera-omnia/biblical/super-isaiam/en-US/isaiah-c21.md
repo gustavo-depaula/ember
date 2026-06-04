@@ -1,5 +1,7 @@
 # Chapter 19
 
+^19:1^ The burden of Egypt. Behold the Lord will ascend upon a light*Levem*. DR: “swift.” cloud, and will enter into Egypt, and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst thereof.  
+
 > ^19:2^ And I will set the Egyptians to fight against the Egyptians: and they shall fight brother against brother, and friend against friend, city against city, kingdom against kingdom.
 
 > ^19:3^ And the spirit of Egypt shall be broken in the bowels thereof, and I will cast down their counsel: and they shall consult their idols, and their diviners, and their wizards, and soothsayers.

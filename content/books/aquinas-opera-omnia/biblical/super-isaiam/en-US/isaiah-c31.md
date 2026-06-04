@@ -1,5 +1,7 @@
 # Chapter 29
 
+^29:1^ Woe to Ariel, to Ariel the city which David took: year is added to year: the solemnities have been unrolled.*Evolutae sunt*. DR: “are at an end.”  
+
 > ^29:2^ And I will make a trench about Ariel, and it shall be in sorrow and mourning, and it shall be to me as Ariel.
 
 > ^29:3^ And I will encircle you like a sphere round about you,*Circumdabo quasi sphaeram in circuitu tuo*. DR: “make a circle round about thee.” and I will cast up a rampart against you, and raise up bulwarks to besiege you.

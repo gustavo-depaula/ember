@@ -1,10 +1,12 @@
 # C. 7 - On Wisdom, Mind, Reason, Truth, and Faith
 
+***On Wisdom, Mind, Reason, Truth, and Faith***
+
 ***Lectio 1***
 
 ***How Wisdom Is Received in God***
 
-***C. VII. §1. 297. Yet come, if you will, let us praise the good and eternal life both as wise and as *per se* wisdom; yet more as substantifying of every wisdom and above every wisdom and as super-existing prudence.***
+C. VII. §1. 297. Yet come, if you will, let us praise the good and eternal life both as wise and as *per se* wisdom; yet more as substantifying of every wisdom and above every wisdom and as super-existing prudence.  
 
 > 298. For not only is God super-full with wisdom and *of his prudence there is no number* (Ps 147:5), but he is super-gathered above every reason and mind and wisdom.
 
@@ -80,7 +82,7 @@ Lectio 2
 
 ***That the Divine Wisdom is the Cause of Every Wisdom***
 
-***304. Therefore praising exceedingly this irrational and out-of-its-mind and stupid wisdom, we say that it is the cause of every mind and reason and of every wisdom and prudence, and this is every counsel and from this is all knowledge and prudence, and in this *are hidden all the treasures of wisdom and of knowledge* (Col 2:3). For according to the consequence of the things already said above, the super-wise and all-wise cause is the substantifier of *per se* wisdom itself and of the whole and of the particular;***
+304. Therefore praising exceedingly this irrational and out-of-its-mind and stupid wisdom, we say that it is the cause of every mind and reason and of every wisdom and prudence, and this is every counsel and from this is all knowledge and prudence, and in this *are hidden all the treasures of wisdom and of knowledge* (Col 2:3). For according to the consequence of the things already said above, the super-wise and all-wise cause is the substantifier of *per se* wisdom itself and of the whole and of the particular;  
 
 > §2. 305. From this the intelligible and intellectual virtues of angelic minds have simple and blessed and good intellects;
 
@@ -160,7 +162,7 @@ Lectio 3
 
 ***How God Knows Through the Divine Wisdom***
 
-***313. For how shall he understand anything of intelligible things, not having intellectual operations? Or how shall he know sensible things, gathered above every sense? And indeed the eloquences say that he knows all things and that nothing escapes the divine knowledge.***
+313. For how shall he understand anything of intelligible things, not having intellectual operations? Or how shall he know sensible things, gathered above every sense? And indeed the eloquences say that he knows all things and that nothing escapes the divine knowledge.  
 
 > 314. But, what I have said many times, it is fitting to understand divine things as befits God: for without mind and not sensible, according to excess, not according to defect, it must be ordered in God; just as we impose the irrational upon him who is above reason; and imperfection upon him who is super-perfect and pre-perfect; and impalpable and invisible darkness upon the light inaccessible according to the excess of visible light.
 
@@ -214,7 +216,7 @@ Lectio 4
 
 ***How God Is Known***
 
-***§3. 320. Thereafter, it is necessary to inquire how we know God neither intelligible nor sensible nor anything existing of universally existing things.***
+§3. 320. Thereafter, it is necessary to inquire how we know God neither intelligible nor sensible nor anything existing of universally existing things.  
 
 > 321. Therefore can it possibly be true to say that we know God, not from his nature? For this is unknown and exceeding every reason and mind; but from the order of the whole of all things, as proposed from him, having both certain images and assimilations of his divine exemplars, we ascend to that which is above all things by way and order according to virtue, in the removal of all things and by excess and in the cause of all things;
 
@@ -266,7 +268,7 @@ Lectio 5
 
 ***On Those Things that Are Joined to Wisdom, or On Reason, On Truth, and On Faith***
 
-***§4. 325. Yet God is praised as reason (Wis 18:15) by the holy eloquences not only because he is the lavisher of reason and of mind and of wisdom, but because he pre-receives the causes of all things uniformly in himself, and because he goes through all things, reaching, as the eloquences say, even unto the end of all things (Wis 7:24); and before this, because the divine reason is simplified above every simplicity and is absolute from all things above all things according to the supersubstantial.***
+§4. 325. Yet God is praised as reason (Wis 18:15) by the holy eloquences not only because he is the lavisher of reason and of mind and of wisdom, but because he pre-receives the causes of all things uniformly in himself, and because he goes through all things, reaching, as the eloquences say, even unto the end of all things (Wis 7:24); and before this, because the divine reason is simplified above every simplicity and is absolute from all things above all things according to the supersubstantial.  
 
 > 326. This reason is the simple and existing truth of the existing, around which just as cleansed and not erroneous knowledge of the whole of things, is divine faith which is the remaining gathering of believers, which gathers them in the truth and the truth in them, by unchangeable identity, for believers having the simple knowledge of truth.
 

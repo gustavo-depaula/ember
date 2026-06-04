@@ -1,5 +1,7 @@
 # Proposition 10
 
+92. Every intelligence is full of forms; however, among intelligences there are those that contain less universal forms, and those that contain more universal forms.  
+
 > 93. This is because the forms which are in the second, lower intelligences in the particular mode, are in the first intelligences in the universal mode; and the forms which are in the first intelligences in the universal mode are in the second intelligences in the particular mode.
 
 > 94. And there is great power in the first intelligences, since they are of a stronger unity than the second, lower intelligences; and in the second, lower intelligences there are weak powers, since they are of less unity and more multiplicity.

@@ -1,8 +1,10 @@
 # Chapter 2
 
+***Term 1***
+
 ***The Vulgarian***
 
-***The vulgarian is that man who spends lavishly, not as accords necessity, but as one who entertains actors at a marriage feast and rolls out a red carpet for comedians as they pass by.***
+The vulgarian is that man who spends lavishly, not as accords necessity, but as one who entertains actors at a marriage feast and rolls out a red carpet for comedians as they pass by.  
 
 Term 2  
 
@@ -14,7 +16,7 @@ Term 3
 
 ***The Happy Man***
 
-***Those called happy are those among the living found in the conditions of happiness.***
+Those called happy are those among the living found in the conditions of happiness.  
 
 We call men happy.  
 
@@ -26,7 +28,7 @@ Term 4
 
 ***The Buffoon***
 
-****Bomolochi* or buffoons are called those who immoderately take pleasure in laughter and play.***
+*Bomolochi* or buffoons are called those who immoderately take pleasure in laughter and play.  
 
 Buffoons are also called witty.  
 
@@ -68,25 +70,25 @@ Term 8
 
 ***Barbarians***
 
-***Some classes of barbarians are by nature irrational, living only by sense perception.***
+Some classes of barbarians are by nature irrational, living only by sense perception.  
 
 Term 9  
 
 ***To Wage War***
 
-***No one chooses to wage war or to incite war-waging for its own sake. Indeed, a man would be considered murderous or violent if, when enemies run out, he went onto friends just to keep fighting.***
+No one chooses to wage war or to incite war-waging for its own sake. Indeed, a man would be considered murderous or violent if, when enemies run out, he went onto friends just to keep fighting.  
 
 Term 10  
 
 ***To Benefit***
 
-***To bestow benefit is a laborious thing, but to receiving a benefit is no labour at all. And so those who bestow benefits love more than those who are benefited, since this greater toil makes them to love more.***
+To bestow benefit is a laborious thing, but to receiving a benefit is no labour at all. And so those who bestow benefits love more than those who are benefited, since this greater toil makes them to love more.  
 
 Term 11  
 
 ***The Benefactor***
 
-***Benefactors love those they benefited more than those benefited love their benefactors. This seems contrary to reason, I wonder the reason for this.***
+Benefactors love those they benefited more than those benefited love their benefactors. This seems contrary to reason, I wonder the reason for this.  
 
 The benefactor loves the one he benefits more, since the one receiving the benefit, since the benefit is work of the one doing it, and in this way every man loves his own undertaking more than others would, just as happens with poets, who always take the most delight in their own poems.  
 
@@ -96,7 +98,7 @@ Term 12
 
 ***Benefit***
 
-***If someone receives some benefit from a friend who expects something in return, he should freely make some return as accords the greatnesss of what he receives.***
+If someone receives some benefit from a friend who expects something in return, he should freely make some return as accords the greatnesss of what he receives.  
 
 Receivers of benefits will downplay their worth, but givers of them will extoll the worth of what they gave.  
 
@@ -106,7 +108,7 @@ Term 13
 
 ***Goodwill***
 
-***Goodwill can seem to be friendship, yet it is not. For it can be directed toward those unknown or unaware of it, but frienship cannot.***
+Goodwill can seem to be friendship, yet it is not. For it can be directed toward those unknown or unaware of it, but frienship cannot.  
 
 Goodwill is not affection, since affection requires some familiarity, but goodwill is unexpected, as happens when spectators observe athletes in competition.  
 
@@ -118,7 +120,7 @@ Term 14
 
 ***The Well-wishing***
 
-***Well-wishers love superficially, since they do not take any active part with the other.***
+Well-wishers love superficially, since they do not take any active part with the other.  
 
 Those who will good things for others are called well-wishing if others do not return the same to them. And if it happens that they both happen to love that same thing, there will be well-wishing but with reciprocation.  
 
@@ -170,7 +172,7 @@ Term 16
 
 ***Good***
 
-***No one is good who does not take joy in good works, the same should be said about a just man.***
+No one is good who does not take joy in good works, the same should be said about a just man.  
 
 Some goods are necessary for happiness, such as the virtues, while others work as instruments for its attainment.  
 
@@ -180,7 +182,7 @@ Term 17
 
 ***The Good things of Fortune***
 
-***The goods of fortune are those things that are good without qualification, but they are not always good for a particular man.***
+The goods of fortune are those things that are good without qualification, but they are not always good for a particular man.  
 
 Men pursue the goods of fortune with the greatest desire and pray for them.  
 
@@ -192,7 +194,7 @@ Term 18
 
 ***The Good Man***
 
-***Good men are both good to each other without qualification, and useful and pleasurable, since the actions of good men are alike.***
+Good men are both good to each other without qualification, and useful and pleasurable, since the actions of good men are alike.  
 
 There seem to be three things that make men good: nature, habituation, and teaching.  
 

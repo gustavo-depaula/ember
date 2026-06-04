@@ -1,6 +1,8 @@
 # Watering the Mountains
 
-***Watering the mountains from your upper rooms; the earth shall be filled with the fruit of your works (Ps 103:13).***
+***Psalm 103:13***
+
+Watering the mountains from your upper rooms; the earth shall be filled with the fruit of your works (Ps 103:13).  
 
 > The King and Lord of the heavens instituted this law from eternity, that the gifts of his providence would come to lower things through mediators.
 
@@ -26,7 +28,7 @@ and the order of communication.
 
 The Heights of Sacred Doctrine  
 
-***The heights are shown in the words: ***from thy upper rooms***. The Gloss reads: *from high hidden chambers*.The *Gloss* mentioned here is a compilation of scriptural comments and well-known sayings mostly attributed to the Fathers. Early on, individual glosses were included sporadically in the margins or between the lines of Vulgate manuscripts, but over time certain authoritative comments appeared with more regularity. By the 12th century, more standardized gloss collections such as the *Glossa Ordinaria* were widely used. Thomas Aquinas produced his own gloss collection for the four gospels called the *Glossa Continua super Evangelia* or the *Catena Aurea*. The two glosses most frequently cited by St. Thomas are the *Glossa Ordinaria* and Peter Lombard's *Magna Glossatura.* Versions of these glosses can be found in Latin in the Patrologia Latina series, volumes 113, 114, and 192 respectively.***
+The heights are shown in the words: ***from thy upper rooms***. The Gloss reads: *from high hidden chambers*.The *Gloss* mentioned here is a compilation of scriptural comments and well-known sayings mostly attributed to the Fathers. Early on, individual glosses were included sporadically in the margins or between the lines of Vulgate manuscripts, but over time certain authoritative comments appeared with more regularity. By the 12th century, more standardized gloss collections such as the *Glossa Ordinaria* were widely used. Thomas Aquinas produced his own gloss collection for the four gospels called the *Glossa Continua super Evangelia* or the *Catena Aurea*. The two glosses most frequently cited by St. Thomas are the *Glossa Ordinaria* and Peter Lombard's *Magna Glossatura.* Versions of these glosses can be found in Latin in the Patrologia Latina series, volumes 113, 114, and 192 respectively.  
 
 In fact, sacred doctrine has its height from three things.  
 
@@ -38,7 +40,7 @@ Third, from the sublimity of its end: because it has the highest of ends, namely
 
 The Dignity of Its Teachers  
 
-***On account of the height of this doctrine, dignity is required of its teachers; hence, they are signified by the mountains, when it is said: ***watering the mountains***,***
+On account of the height of this doctrine, dignity is required of its teachers; hence, they are signified by the mountains, when it is said: ***watering the mountains***,  
 
 and this on account of three things, namely:  
 
@@ -64,7 +66,7 @@ And, of these three offices, namely, to preach, to teach, and to argue, it is sa
 
 The Condition of Those Who Listen  
 
-***Third, the condition of those who listen, who are shown under the likeness of earth; hence, it says: ***the earth shall be filled***.***
+Third, the condition of those who listen, who are shown under the likeness of earth; hence, it says: ***the earth shall be filled***.  
 
 And this because the earth is lowest: *the heaven above, and the earth beneath* (Prov 25:3).  
 
@@ -82,7 +84,7 @@ Therefore, humility is required of them with regard to the teaching that comes f
 
 The Order of Its Generation  
 
-***The order of its generation is mentioned here according to three things, namely, according to the order of communication, and according to the quantity and quality of the gift received.***
+The order of its generation is mentioned here according to three things, namely, according to the order of communication, and according to the quantity and quality of the gift received.  
 
 First, according to the order of communicating: because not everything that is contained in divine wisdom can be grasped by the minds of teachers. Hence, it does not say: “flowing from higher mountains,” but ***watering from your upper rooms***. *Behold, these things are said in part* (Job 26:14). And, similarly, not everything that the teachers understand is passed on to their listeners: *he heard secret words, which it is not granted to man to utter* (2 Cor 12:4). Hence, it does not say: “giving to the earth the fruit of the mountains,” but ***the earth shall be filled with the fruit of your works***. And this is what Gregory says (*Moral.* 17) to explain that passage of Job: *he binds up the waters in his clouds, so that they break not out and fall down together* (Job 26:8): *the teacher should not preach to the simple all that he knows, because he himself cannot know how many divine mysteries there are*.Gregory the Great, *Moralia in Job* (CCSL 143A), bk. 17, par. 37.  
 

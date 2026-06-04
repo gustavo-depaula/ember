@@ -1,8 +1,10 @@
 # D. 23 - The name “person”
 
+***De nomine personae***
+
 ***Divisio textus***
 
-***Posita divisione nominum divinorum, hic excludit Magister quoddam nomen a generalitate aliorumParma omits *aliorum*. nominum, scilicet hoc nomen “persona,” quod quidem secundum substantiam dicitur, tamen pluraliter praedicatur. Et dividitur in partes duas: in prima ponit exceptionem; in secunda inquirit exceptionis rationem, ibi: *ideo oritur hic quaestio difficilis*.***
+Posita divisione nominum divinorum, hic excludit Magister quoddam nomen a generalitate aliorumParma omits *aliorum*. nominum, scilicet hoc nomen “persona,” quod quidem secundum substantiam dicitur, tamen pluraliter praedicatur. Et dividitur in partes duas: in prima ponit exceptionem; in secunda inquirit exceptionis rationem, ibi: *ideo oritur hic quaestio difficilis*.  
 
 Circa primum duo facit: primo excipit hoc nomen “persona” ab aliis divinis nominibus quae secundum substantiam dicuntur: et quia nihil potest excipi ab aliquibus, nisi in illis contineatur; secundo ostendit hoc nomen “persona” significare substantiam, ibi: *quod autem persona secundum substantiam dicatur Augustinus ostendit*.  
 
@@ -32,7 +34,7 @@ Articulus 1
 
 ***Utrum “essentia, subsistentia, substantia, persona” dicta de Deo sint synonyma***
 
-***Ad primum sic proceditur. Videtur quod dicta nomina nullam distinctionem habeant, sed sint quasi synonyma.***
+Ad primum sic proceditur. Videtur quod dicta nomina nullam distinctionem habeant, sed sint quasi synonyma.  
 
 Sicut enim Boetius dicit in *Commentariis super praedicamenta*, cap. “De subst.,” “ousia” significat substantiam compositam. Sed substantia composita est individuum subsistens in genere substantiae, quod significatur nomine substantiae, vel hypostasis, vel personae. Ergo videtur quod hoc nomen “essentia,” vel “ousia,” non differat secundum significationem ab aliis.  
 
@@ -88,7 +90,7 @@ Articulus 2
 
 ***Utrum nomen “persona” dicatur proprie de Deo***
 
-***Ad secundum sic proceditur. Videtur quod nomen “personae” non proprie dicatur in divinis.***
+Ad secundum sic proceditur. Videtur quod nomen “personae” non proprie dicatur in divinis.  
 
 Persona enim significat hominem larvatum, ut dictum est, cujus figura repraesentatur. Sed hoc non potest Deo convenire nisi metaphorice; nec etiam habet figuram quae repraesentari possit, ut dicitur Isa. 40:18: *cui similem fecistis Deum?* Ergo nomen “persona” proprie non convenit Deo.  
 
@@ -202,7 +204,7 @@ Ad quartum dicendum, quod nomina substantiva non recipiunt pluralitatem nisi ex 
 
 Expositio textus  
 
-****Non est aliud Deum esse, aliud personam esse*. Hoc non dicitur solum quantum ad identitatem rei, quia sic in Deo non est nisi unum esse; sed etiam secundum rationem, quia ex hoc ipso quod habet esse subsistens in natura divina, persona in Deo dicitur. Istud tamen cujus ratio personaeParma: *tamen esse rationis cujus causa per se*. convenit est relatio, prout est subsistens distincta, cum nihil aliud tale possit poni in divinis. Et ideo quantum ad modum significandi, persona est de substantialibus; quantum vero ad id quod nomine personae in divinis supponitur pertinet ad relativa.***
+*Non est aliud Deum esse, aliud personam esse*. Hoc non dicitur solum quantum ad identitatem rei, quia sic in Deo non est nisi unum esse; sed etiam secundum rationem, quia ex hoc ipso quod habet esse subsistens in natura divina, persona in Deo dicitur. Istud tamen cujus ratio personaeParma: *tamen esse rationis cujus causa per se*. convenit est relatio, prout est subsistens distincta, cum nihil aliud tale possit poni in divinis. Et ideo quantum ad modum significandi, persona est de substantialibus; quantum vero ad id quod nomine personae in divinis supponitur pertinet ad relativa.  
 
 *Non aliud dicimus quam substantiam Patris*; ut tamen nomine substantiae non essentia sed hypostasis intelligatur.  
 

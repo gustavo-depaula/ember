@@ -1,8 +1,10 @@
 # D. 3 - Condition of the angels at their creation
 
+***Condition of the angels at their creation***
+
 ***Division of the first part of the text***
 
-***Having shown when and where the angels were created, here he inquires as to their condition when they were made. And this is divided into three parts.***
+Having shown when and where the angels were created, here he inquires as to their condition when they were made. And this is divided into three parts.  
 
 In the first, he inquires as to their condition with regard to the perfection of nature.  
 
@@ -50,7 +52,7 @@ Article 1
 
 ***Whether an angel is composed of matter and form***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 8, q. 5, a. 2; *ST* I.50.2; *SCG* II.50–51; *Disputed Questions on Spiritual Creatures*, a. 1; *Quodl*. III, q. 8; IX, q. 4, a. 1; *Compendium theologiae*, ch. 74; *On Being and Essence*, ch. 5. It seems that an angel is composed of matter and form.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 8, q. 5, a. 2; *ST* I.50.2; *SCG* II.50–51; *Disputed Questions on Spiritual Creatures*, a. 1; *Quodl*. III, q. 8; IX, q. 4, a. 1; *Compendium theologiae*, ch. 74; *On Being and Essence*, ch. 5. It seems that an angel is composed of matter and form.  
 
 Obj. 1: For whatever is in a genus participates in the account of that genus. But the account of substance, as a category, is to be composed of matter and form. For Boethius says in his *Commentary on the Categories*Boethius, *Commentary on the Categories*, bk. 1 (PL 64:184). that Aristotle, leaving behind the extremes, namely, matter and form, deals with the mean, that is, the composite, when he deals with substance. Therefore, since an angel is in the category of substance, it seems that it is composed of matter and form.  
 
@@ -100,7 +102,7 @@ Article 2
 
 ***Whether there can be personhood in the angels***
 
-***To the second we proceed as follows. It seems that there cannot be personhood in the angels.***
+To the second we proceed as follows. It seems that there cannot be personhood in the angels.  
 
 Obj. 1: For individuation pertains to the account of person, since a person is an individual substance of a rational nature. But the principle of individuation is matter. Since, therefore, an angel lacks matter, as has been said,Above: a. 1. it seems that personhood is excluded from it.  
 
@@ -128,7 +130,7 @@ Article 3
 
 ***Whether there can be number in the angels***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.50.3; 112.4, ad 4; *SCG* II.92; *On the Power of God*, q. 6, a. 6. It seems that in the angels there cannot be number.***
+To the third we proceed as follows.Parallel texts: *ST* I.50.3; 112.4, ad 4; *SCG* II.92; *On the Power of God*, q. 6, a. 6. It seems that in the angels there cannot be number.  
 
 Obj. 1: For number is quantity. But the subject of quantity is matter. Thus, since there is not matter in angels, as has been said,Above: a. 1. it seems that neither is there number.  
 
@@ -166,7 +168,7 @@ Article 4
 
 ***Whether there is more than one angel of a single species***
 
-***To the fourth we proceed as follows.Parallel texts: *In II Sent*., d. 32, q. 2, a. 3; *In IV Sent*, d. 12, q. 1, a. 1, resp. and ad 3; *ST* I.50.4; *SCG* II.93; *On Spiritual Creatures*, a. 8; *Disputed Questions on the Soul*, a. 3; *On Being and Essence*, ch. 5. It seems that there is more than one angel of a single species.***
+To the fourth we proceed as follows.Parallel texts: *In II Sent*., d. 32, q. 2, a. 3; *In IV Sent*, d. 12, q. 1, a. 1, resp. and ad 3; *ST* I.50.4; *SCG* II.93; *On Spiritual Creatures*, a. 8; *Disputed Questions on the Soul*, a. 3; *On Being and Essence*, ch. 5. It seems that there is more than one angel of a single species.  
 
 Obj. 1: For just as an angel is a simple substance, so also is the soul. But all rational souls are of a single species. Therefore, all angels are as well.  
 
@@ -200,7 +202,7 @@ Article 5
 
 ***Whether the angels are of a single genus***
 
-***To the fifth we proceed as follows. It seems that angels cannot be traced back to a single genus.***
+To the fifth we proceed as follows. It seems that angels cannot be traced back to a single genus.  
 
 Obj. 1: For whatever things are of a single genus share in the one potency of the genus, as is said in the *Metaphysics* 10.See Aristotle, *Metaphysics* 10.7, 1057a18–b33. But angels do not share in one potency of a genus, since they are immaterial. Therefore, it seems that they are not of a single genus.  
 
@@ -232,7 +234,7 @@ Article 6
 
 ***Whether an angel and the soul differ in species***
 
-***To the sixth we proceed as follows.Parallel texts: *ST* I.75.7; *SCG* II.94; *Disputed Questions on the Soul*, a. 7. It seems that an angel and the soul do not differ in species.***
+To the sixth we proceed as follows.Parallel texts: *ST* I.75.7; *SCG* II.94; *Disputed Questions on the Soul*, a. 7. It seems that an angel and the soul do not differ in species.  
 
 Obj. 1: For all things that agree in the ultimate constitutive difference are the same in species, since this itself is what completes the account of the species. But an angel and the soul are such things. Therefore, they do not differ in species. Proof of the minor premise: the ultimate constitutive difference is taken from what is most noble in a thing, since it is related to the genus and the preceding differences proportionately, as form is to matter. But an angel and the soul agree in what is most noble in both, namely, the intellect. Therefore, they agree in the ultimate constitutive difference.  
 
@@ -296,7 +298,7 @@ Reply Obj. 5: Things that differ in species differ with respect to their proxima
 
 Exposition of the first part of the text  
 
-****And four things seem certainly to have been their attributes*.*Sent*. II, 3.1(13).2. It seems unfitting to number them in this way, since Dionysius attributed three things to the angels, namely, essence, power, and activity.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 11 (PG 3:283). But here there is no mention of activity.***
+*And four things seem certainly to have been their attributes*.*Sent*. II, 3.1(13).2. It seems unfitting to number them in this way, since Dionysius attributed three things to the angels, namely, essence, power, and activity.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 11 (PG 3:283). But here there is no mention of activity.  
 
 Moreover, the Commentator says on the *Metaphysics* 11 that separated substances are divided into will and intellect.Averroes, *Commentary on the Metaphysics*, bk. 11, comm. 38. Thus, it seems that there should be only two attributes.  
 
@@ -318,7 +320,7 @@ To the third we say that reason and will are set down as the third attribute, no
 
 Division of the second part of the text  
 
-***Here the Master inquires as to what condition the angels were in respect to fault or grace when they were made. And this is divided into two parts.***
+Here the Master inquires as to what condition the angels were in respect to fault or grace when they were made. And this is divided into two parts.  
 
 In the first, he shows that angels were not made wicked at the beginning of their creation.  
 
@@ -370,7 +372,7 @@ Article 1
 
 ***Whether an angel could have been wicked at the beginning of its creation***
 
-***To the first we proceed as follows.Parallel texts: *In III Sent*., d. 18, q. 1, a. 3, ad 4; *ST* I.63.4–5; III.34.3, ad 1; *SCG* III.107; *On Evil*, q. 16, aa. 2, 4; *On Truth*, q. 29, a. 8, ad 2; *Commentary on John*, ch. 8, lect. 6; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 19. It seems that an angel could be wicked at the beginning of its creation.***
+To the first we proceed as follows.Parallel texts: *In III Sent*., d. 18, q. 1, a. 3, ad 4; *ST* I.63.4–5; III.34.3, ad 1; *SCG* III.107; *On Evil*, q. 16, aa. 2, 4; *On Truth*, q. 29, a. 8, ad 2; *Commentary on John*, ch. 8, lect. 6; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 19. It seems that an angel could be wicked at the beginning of its creation.  
 
 Obj. 1: For Romans 9:21 says, *has the potter no right over the clay, to make out of the same lump one vessel for beauty and another for menial use?* The vessels God makes for honor, like a potter, are the saints, who are prepared for glory. But the vessels unto dishonor are sinners prepared for punishment. Therefore, God can create some just and others sinners. And so an angel could be wicked at the beginning of its creation.  
 
@@ -412,7 +414,7 @@ Question 3
 
 ***Angelic knowledge***
 
-***Next we ask about the knowledge of the angels. And concerning this four questions are asked:***
+Next we ask about the knowledge of the angels. And concerning this four questions are asked:  
 
 first, whether angels know through species;  
 
@@ -426,7 +428,7 @@ Article 1
 
 ***Whether an angel knows things through its own essence***
 
-***To the first we proceed as follows.Parallel texts: *In III Sent*., d. 14, q. 1, a. 1, resp.; *ST* I.55.1; 84.2; 87.1; I-II.1.6; 51.1, ad 2; *SCG* II.98; *On Truth*, q. 8, a. 8. It seems that an angel knows things through its essence and not through various species.***
+To the first we proceed as follows.Parallel texts: *In III Sent*., d. 14, q. 1, a. 1, resp.; *ST* I.55.1; 84.2; 87.1; I-II.1.6; 51.1, ad 2; *SCG* II.98; *On Truth*, q. 8, a. 8. It seems that an angel knows things through its essence and not through various species.  
 
 Obj. 1: For, according to the Philosopher, the soul is the species of species.Aristotle, *On the Soul* 3.8, 432a1–2; see Themistius, *Paraphrasis De anima*, 257–58. But an angel is more simple and more noble than the soul. Therefore, the essence of an angel is the likeness or the species of things. But a thing can be known in its likeness. Therefore, it seems that an angel knows things by perceiving its essence and not through various species.  
 
@@ -456,7 +458,7 @@ Article 2
 
 ***Whether the higher angels understand through more universal species***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.55.3; 89.1; *SCG* II.98; *On Truth*, q. 8, a. 10; *Disputed Questions on the Soul*, a. 7, ad 5; a. 18; *Commentary on the Book of Causes*, lect. 10. It seems that the species of the higher angels are not more universal than the species that the lower angels possess.***
+To the second we proceed as follows.Parallel texts: *ST* I.55.3; 89.1; *SCG* II.98; *On Truth*, q. 8, a. 10; *Disputed Questions on the Soul*, a. 7, ad 5; a. 18; *Commentary on the Book of Causes*, lect. 10. It seems that the species of the higher angels are not more universal than the species that the lower angels possess.  
 
 Obj. 1: For, according to the Philosopher in *On the Soul* 1, the universal “animal” either is nothing or is secondary.Aristotle, *On the Soul* 1.1, 402b8–9. For it is only said to be secondary due to abstraction from things, in which the intention of universality is completed through the act of the abstracting intellect. Therefore, since the intellect of an angel does not abstract species from things, it seems that the species in it are not universal.  
 
@@ -488,7 +490,7 @@ Article 3
 
 ***Whether the angels understand particulars***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.57.2; 89.4; *SCG* II.100; *On Truth*, q. 8, a. 11; q. 10, a. 5; *Disputed Questions on the Soul*, a. 20: *Quodl*. VII, q. 1, a. 3. It seems that angels do not know particulars through intellectual forms.***
+To the third we proceed as follows.Parallel texts: *ST* I.57.2; 89.4; *SCG* II.100; *On Truth*, q. 8, a. 11; q. 10, a. 5; *Disputed Questions on the Soul*, a. 20: *Quodl*. VII, q. 1, a. 3. It seems that angels do not know particulars through intellectual forms.  
 
 Obj. 1: For where one common nature is found, there is not a diversity in the activity that follows on that nature. But there is an intellectual nature in angels and in us. Therefore, since our intellect cannot understand singulars, it seems that neither does the angelic intellect.  
 
@@ -526,7 +528,7 @@ Article 4
 
 ***Whether an angel can understand more than one thing at the same time***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.58.2; SCG II.101; *On Truth*, q. 8, a. 14. It seems that an angel can understand actually more than one thing at the same time.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.58.2; SCG II.101; *On Truth*, q. 8, a. 14. It seems that an angel can understand actually more than one thing at the same time.  
 
 Obj. 1: For, according to Dionysius, an angel possesses a God-like intellect.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7 (PG 3:206). But God understands actually all things at the same time. For with him there is no *change nor shadow of alteration* (Jas 1:17). Therefore, an angel understands more than one thing at the same time.  
 
@@ -560,9 +562,9 @@ Question 4
 
 ***Article 1***
 
-***Whether angels in the state of nature loved God more than themselves and all other things***
+Whether angels in the state of nature loved God more than themselves and all other things  
 
-***Concerning the third main area of inquiry, we inquire concerning love, namely, if the angels were not created in grace, whether in the state of innocence they loved God above themselves and more than all things.Parallel texts: *In III Sent*., d. 29, q. 1, a. 3; *ST* I.60.5; I-II.109.3; II-II.25.2; 26.3; *Quodl*. I, q. 4, a. 3; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 9–10. And it seems that they did not.***
+Concerning the third main area of inquiry, we inquire concerning love, namely, if the angels were not created in grace, whether in the state of innocence they loved God above themselves and more than all things.Parallel texts: *In III Sent*., d. 29, q. 1, a. 3; *ST* I.60.5; I-II.109.3; II-II.25.2; 26.3; *Quodl*. I, q. 4, a. 3; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 9–10. And it seems that they did not.  
 
 Obj. 1: For to love God in this way is an act of charity, which someone who does not have charity cannot possess. But the angels in this state did not have charity, which does not exist without grace, since it is never unformed. Therefore, it seems that they did not love God more than themselves.  
 
@@ -598,4 +600,4 @@ Reply Obj. 5: Natural goods, considered absolutely in the being of nature, remai
 
 Exposition of the second part of the text  
 
-****Here it is usual to ask what wisdom they had before their fall or confirmation*.*Sent*. II, 3.5(17).1. Here he posits two kinds of knowledge in the angels. One is speculative by which they knew God, themselves, and other created things. And the other is practical and follows on their activity pertaining to themselves, by which they knew what they should choose or reject. And this was like the knowledge of prudence in us.***
+*Here it is usual to ask what wisdom they had before their fall or confirmation*.*Sent*. II, 3.5(17).1. Here he posits two kinds of knowledge in the angels. One is speculative by which they knew God, themselves, and other created things. And the other is practical and follows on their activity pertaining to themselves, by which they knew what they should choose or reject. And this was like the knowledge of prudence in us.

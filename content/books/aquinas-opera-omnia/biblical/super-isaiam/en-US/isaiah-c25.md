@@ -1,5 +1,7 @@
 # Chapter 23
 
+^23:1^ The burden of Tyre. Howl, you ships of the sea, for the house is destroyed, from whence they were wont to come: from the land of Cethim it is revealed to them.  
+
 > ^23:2^ Be silent, you that dwell in the island: the trade*Negotiatio*. Vg.: *negotiatores*. DR: “merchants.” of Sidon passing over the sea, have filled you.
 
 > ^23:3^ The seed of the Nile in many waters, the harvest of the river is her revenue: and she is become the mart of the nations.

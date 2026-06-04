@@ -1,5 +1,7 @@
 # Proposition 13
 
+***109. Omnis intelligentia intelligit essentiam suam.***
+
 > 110. Quod est, quia intelligens et intellectum sunt simul; cum ergo est intelligentia intelligens et intellectum, tunc procul dubio videt essentiam suam.
 
 > 111. Et quando videt essentiam suam, scit, quod intelligit per intelligentiam essentiam suam.

@@ -1,8 +1,10 @@
 # D. 46 - Certain things that seem to show the inefficacy of the divine will
 
+***Certain things that seem to show the inefficacy of the divine will***
+
 ***Division of the text***
 
-***After having considered what the divine will is, and in how many ways it is spoken of, here he inquires about its efficacy. And this is divided into two parts: in the first, he presents certain questions about some things that seem to show the inefficacy of the divine will; in the second, he shows that it is efficacious in all things, at *certainly the will of God is always efficacious*.*Sent*. I, 47.1(204).1.***
+After having considered what the divine will is, and in how many ways it is spoken of, here he inquires about its efficacy. And this is divided into two parts: in the first, he presents certain questions about some things that seem to show the inefficacy of the divine will; in the second, he shows that it is efficacious in all things, at *certainly the will of God is always efficacious*.*Sent*. I, 47.1(204).1.  
 
 The first part is divided into two parts, according to the two things that could show the inefficacy of the divine will: either that what he wills does not occur, or that what he does not will does occur. In the first part, therefore, he treats this question: whether something he wills to occur might not occur; in the second, whether something he does not will might occur, at *therefore, since it is settled that all good things which happen do so by his will, . . . it is rightly usual to ask whether all evil things too that are done, that is, sins, are done by God’s will or against his will*.*Sent*. I, 46.3(199).1.  
 
@@ -36,7 +38,7 @@ Article 1
 
 ***Whether God wills that all men be saved***
 
-***To the first we proceed as follows.Parallel texts: below, d. 47, aa. 1, 3; *ST* I.19.6; *On Truth*, q. 23, a. 2; *Commentary on 1 Timothy*, ch. 2, lect. 1. It seems that God wills that all men be saved.***
+To the first we proceed as follows.Parallel texts: below, d. 47, aa. 1, 3; *ST* I.19.6; *On Truth*, q. 23, a. 2; *Commentary on 1 Timothy*, ch. 2, lect. 1. It seems that God wills that all men be saved.  
 
 Obj. 1: This seems so, first, from the authority of the Apostle, which is noted even in the text, which is 1 Timothy 2:4: he *desires all men to be saved*.  
 
@@ -74,7 +76,7 @@ Article 2
 
 ***Whether the occurrence of evils is good***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.19.9; I.48.4, 6; *SCG* I.95; *On the Power of God*, q. 1, a. 6; *On Evil*, q. 2, a. 1, ad 16. It seems that the occurrence of evils is good.***
+To the second we proceed as follows.Parallel texts: *ST* I.19.9; I.48.4, 6; *SCG* I.95; *On the Power of God*, q. 1, a. 6; *On Evil*, q. 2, a. 1, ad 16. It seems that the occurrence of evils is good.  
 
 Obj. 1: For the true and the good are convertible. But it is true that evils occur. Therefore it is also good.  
 
@@ -106,7 +108,7 @@ Article 3
 
 ***Whether evil belongs to the perfection of the universe***
 
-***To the third we proceed as follows.Parallel texts: *In II Sent*., d. 34, a. 1; *ST* I.22.2, ad 2; I.48.2; *SCG* III.71; *On the Power of God*, q. 3, a. 6, ad 4; *Compendium theologiae*, ch. 142; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 16. It seems that evil belongs to the perfection of the universe.***
+To the third we proceed as follows.Parallel texts: *In II Sent*., d. 34, a. 1; *ST* I.22.2, ad 2; I.48.2; *SCG* III.71; *On the Power of God*, q. 3, a. 6, ad 4; *Compendium theologiae*, ch. 142; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 16. It seems that evil belongs to the perfection of the universe.  
 
 Obj. 1: For Dionysius says, *evil will bestow a perfection on everything*, that is, the universe, *and according to its very self will not give an imperfect existence on the whole*.Pseudo-Dionysius, *On the Divine Names*, ch. 4, para. 19 (PG 3:718).  
 
@@ -142,7 +144,7 @@ Article 4
 
 ***Whether God wills that evils occur***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.19.9; I.48.6; *SCG* I.95; *On the Power of God*, q. 1, a. 6; *On Evil*, q. 2, a. 1, ad 16. It seems that God wills that evils occur.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.19.9; I.48.6; *SCG* I.95; *On the Power of God*, q. 1, a. 6; *On Evil*, q. 2, a. 1, ad 16. It seems that God wills that evils occur.  
 
 Obj. 1: For, according to Seneca,Seneca, *Epistulae morales ad Lucilium*, letter 71, para. 19. it belongs to the wise man not to be disturbed by misfortunes, but more to rejoice in them, in which the good of his own virtue is especially apparent; the Philosopher also hintsAristotle, *Nicomachean Ethics* 1.10, 1100a30‒b22. at this about the happy man. But God is the wisest and happiest. Therefore, since the comeliness of his justice and wisdom is apparent in evils that occur, it seems that God wills that evils occur.  
 
@@ -170,7 +172,7 @@ Reply Obj. 4: Just as the evil opposed to grace is not willed by God, so too nei
 
 Exposition of the text  
 
-****Not that there is no man who is not enlightened, but that none is enlightened except by him*.*Sent*. I, 46.2(198).3, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, cc. 27, 103 (CCSL 46; PL 40:280). This is understood as about the light of grace. However, if it be understood to be about the natural light of the intellect, then he does illuminate absolutely every man. For, according to Ambrose,Rather: Ambrosiaster, *Commentaria in Epistolas B. Pauli*, on 1 Corinthians 12:3 (PL 17:245; CSEL 81.2:131–32). everything true said by anyone whatsoever is from the Holy Spirit.***
+*Not that there is no man who is not enlightened, but that none is enlightened except by him*.*Sent*. I, 46.2(198).3, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, cc. 27, 103 (CCSL 46; PL 40:280). This is understood as about the light of grace. However, if it be understood to be about the natural light of the intellect, then he does illuminate absolutely every man. For, according to Ambrose,Rather: Ambrosiaster, *Commentaria in Epistolas B. Pauli*, on 1 Corinthians 12:3 (PL 17:245; CSEL 81.2:131–32). everything true said by anyone whatsoever is from the Holy Spirit.  
 
 *For there is something which is good in itself and for the one to whom it is done, but is not good for the one who does it*.*Sent*. I, 46.5(201).1. The reason for this distinction is that, according to Dionysius,Pseudo-Dionysius, *On the Divine Names*, ch. 4, para. 30 (PG 3:730). it is certain that the good is from one perfect cause, but evil happens in manifold ways due to particular defects. Therefore for it to be the case that any act is good absolutely, one must gather together both the goodness of the object, due to which goodness the act is good in itself—for example, to give alms, or something like this—and the good on the side of the agent, so that he might act well.  
 

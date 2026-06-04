@@ -1,5 +1,8 @@
 # Sext
 
+***[℣. Deus in adiutorium meum intende.***
+***℟. Domine, ad adiuvandum me festina.***
+
 Gloria Patri, et Filio, * et Spiritui Sancto.  
 
 Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]  
@@ -124,7 +127,7 @@ Contra *Scala caelo* de sancto Dominico.
 
 ***1 Cor 11:26***
 
-***QuotiensVulg.: *quotiescumque*. manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis donec veniat.***
+QuotiensVulg.: *quotiescumque*. manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis donec veniat.  
 
 > Responsorium
 

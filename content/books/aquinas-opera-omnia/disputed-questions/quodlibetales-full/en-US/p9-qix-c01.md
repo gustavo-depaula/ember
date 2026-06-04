@@ -1,8 +1,10 @@
 # On Christ
 
+***Question 1***
+
 ***Regarding the divine nature***
 
-***There were questions concerning Christ the head;Qq. 1–3. then there were questions concerning his members.Qq. 4–8.***
+There were questions concerning Christ the head;Qq. 1–3. then there were questions concerning his members.Qq. 4–8.  
 
 Concerning Christ there were three questions:  
 
@@ -16,7 +18,7 @@ Article 1
 
 ***Whether God can make an actual infinity of things***
 
-***About the first there is a question whether God can make an actual infinity of things. And it seems that he cannot.***
+About the first there is a question whether God can make an actual infinity of things. And it seems that he cannot.  
 
 Obj. 1: For God can make something greater than everything which he makes because the *work* does not equal *his power*, as Hugh of St. Victor says.Hugh of Saint Victor, *On the Sacraments of the Christian Faith* 1.2.22 (PL 176:216); cf. Albert the Great, *In I Sent*., d. 43 C, a. 2, obj. 2, 26:379b. But there cannot be something greater than an actual infinity. Therefore, God cannot make an actual infinity.  
 
@@ -50,7 +52,7 @@ Question 2
 
 ***Regarding the union of human nature to the divine***
 
-***Then there were questions concerning Christ as regards the union of human nature with the divine. And about this there were three questions:***
+Then there were questions concerning Christ as regards the union of human nature with the divine. And about this there were three questions:  
 
 first, whether in Christ there is one hypostasis only;  
 
@@ -102,7 +104,7 @@ Article 2
 
 ***Whether there is in him only one existence***
 
-***To the second we proceed thus. It seems that in Christ there is not only one existence.***
+To the second we proceed thus. It seems that in Christ there is not only one existence.  
 
 Obj. 1: For *to live*, according to the Philosopher in the second book of *On the Soul*, *is existence for living things*.Aristotle, *On the Soul* 2.4, 415b13. But in Christ there is not only one living, since there is in him both created life, by which the body lives through the soul, which is deprived by death,Cf. *SCG* IV.82, “Adhuc”; *Disputed Questions on the Soul*, q. 14, obj. 8. and uncreated life, by which the Word lives through itself. Therefore, neither in Christ is there one existence.  
 
@@ -136,7 +138,7 @@ Article 3
 
 ***Whether there is in him only one sonship***
 
-***To the third we proceed thus. It seems that in Christ there is not only one sonship.***
+To the third we proceed thus. It seems that in Christ there is not only one sonship.  
 
 Obj. 1: *For with a cause multiplied, the effect is multiplied*.Cf. Aquinas, *Commentary on Aristotle’s On Memory and Recollection*, tr. 2, ch. 3, n. 348. But nativity is the cause of sonship. Since, therefore, in Christ there are two nativities, there shall be also two sonships.  
 
@@ -172,13 +174,13 @@ Reply Obj. 4: It must be said that, although there is both different relationshi
 
 Question 3  
 
-***Regarding the appearances under which Christ is contained in the sacrament of the altar***
+Regarding the appearances under which Christ is contained in the sacrament of the altar  
 
 ***Article 1***
 
 ***Whether there are accidents there without a subject***
 
-***Then there is a question concerning Christ as regards the appearances under which he is contained in the sacrament of the altar, namely, whether there are accidents there without a subject. And it seems that there are not.***
+Then there is a question concerning Christ as regards the appearances under which he is contained in the sacrament of the altar, namely, whether there are accidents there without a subject. And it seems that there are not.  
 
 Obj. 1: For God cannot make contradictories to be simultaneously true. Yet this would be the case if there were to be removed from something that which it is from its own definition. Since, therefore, to be in a subject is part of the definition of accident because *the being of an accident is to be in*,Cf. Aquinas, *Commentary on the Posterior Analytics*, bk. 1, lect. 2, n. 15. it seems that God cannot make an accident to be without a subject.  
 

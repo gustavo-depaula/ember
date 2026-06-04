@@ -1,10 +1,12 @@
 # On Human Things
 
+***De homine quantum ad naturam***
+
 ***Quaestio 6***
 
 ***Quantum ad animam***
 
-***Deinde quaesitum est de homine, quantum ad naturam et quantum ad gratiam et quantum ad culpam.***
+Deinde quaesitum est de homine, quantum ad naturam et quantum ad gratiam et quantum ad culpam.  
 
 Circa primum quaesita sunt tria:  
 
@@ -56,7 +58,7 @@ Quaestio 7
 
 ***Utrum intellectus humanus cognoscat singularia***
 
-***Deinde quaesitum est de cognitione hominis, utrum intellectus humanus cognoscat singularia.***
+Deinde quaesitum est de cognitione hominis, utrum intellectus humanus cognoscat singularia.  
 
 Responsio. Dicendum quod aliquid cognoscitur dupliciter, directe et indirecte, scilicet per reflexionem.  
 
@@ -134,7 +136,7 @@ Articulus unicus
 
 ***Utrum aqua habeat virtutem ad emundationem***
 
-***De primo quaeritur utrum aqua habeat virtutem ad emundationem, id est utrum propria virtute mundet, vel virtute concomitante.***
+De primo quaeritur utrum aqua habeat virtutem ad emundationem, id est utrum propria virtute mundet, vel virtute concomitante.  
 
 Responsio. Dicendum quod duplex est opinio in huiusmodi, non solum de aqua, sed de omnibus Ecclesiae sacramentis.  
 
@@ -186,9 +188,9 @@ Secundo modo, scilicet quando non urget necessitas, sic non licet, quia non pote
 
 ***Articulus unicus***
 
-***Utrum compaternitas causetur ex praeambulis ad sacramenta, puta ex catechismo et huiusmodi***
+Utrum compaternitas causetur ex praeambulis ad sacramenta, puta ex catechismo et huiusmodi  
 
-***Deinde quaesitum est de effectu sacramentorum, utrum compaternitas causetur ex praeambulis ad sacramenta, puta ex catechismo et huiusmodi. Et videtur quod sic.***
+Deinde quaesitum est de effectu sacramentorum, utrum compaternitas causetur ex praeambulis ad sacramenta, puta ex catechismo et huiusmodi. Et videtur quod sic.  
 
 Dicit enim quaedam decretalis quod a *primo pabulo salis* non potest fieri uxor; ergo contrahitur ibi compaternitas.  
 
@@ -206,9 +208,9 @@ Ad secundum dicendum quod catechumenus dicitur christianus per fidem, non per ba
 
 ***Articulus unicus***
 
-***Utrum sit una Ecclesia quae fuit in principio tempore Apostolorum et quae est modo***
+Utrum sit una Ecclesia quae fuit in principio tempore Apostolorum et quae est modo  
 
-***Deinde quaesitum fuit utrum sit una Ecclesia quae fuit in principio tempore Apostolorum et quae est modo. Et videtur quod non.***
+Deinde quaesitum fuit utrum sit una Ecclesia quae fuit in principio tempore Apostolorum et quae est modo. Et videtur quod non.  
 
 Quia nunc non utitur eisdem regulis: tunc enim praelati erant sine auro et argento *in zonis* suis; ergo etc.  
 
@@ -252,7 +254,7 @@ Articulus 1
 
 ***Utrum veritas sit fortior inter vinum, regem et mulierem***
 
-***Circa primum quaesitum est utrum veritas sit fortior inter vinum, regem et mulierem.***
+Circa primum quaesitum est utrum veritas sit fortior inter vinum, regem et mulierem.  
 
 Et videtur quod vinum, quia immutat maxime hominem.  
 
@@ -270,9 +272,9 @@ Sciendum est igitur quod immutativum hominis quoddam est corporale, et aliud est
 
 Articulus 2  
 
-***Utrum accipiens doctrinam alicuius experimenti sub iuramento non communicandi, teneatur servare iuramentum***
+Utrum accipiens doctrinam alicuius experimenti sub iuramento non communicandi, teneatur servare iuramentum  
 
-***Secundo quaeritur utrum accipiens doctrinam alicuius experimenti sub iuramento non communicandi teneatur servare iuramentum. Et videtur quod sic.***
+Secundo quaeritur utrum accipiens doctrinam alicuius experimenti sub iuramento non communicandi teneatur servare iuramentum. Et videtur quod sic.  
 
 Quia sic obligatus non debet facere aliquid quod vergat in detrimentum illius qui dedit vel qui docuit; hoc autem esset si aliis communicaret; ergo etc.  
 
@@ -304,7 +306,7 @@ Articulus unicus
 
 ***Utrum virtutes morales sint connexae***
 
-***Circa primum quaesitum est utrum virtutes morales sint connexae. Et videtur quod non.***
+Circa primum quaesitum est utrum virtutes morales sint connexae. Et videtur quod non.  
 
 Quia acquiruntur ex actibus, qui sunt divisi et distincti; ergo potest acquiri una virtus sine alia.  
 
@@ -332,7 +334,7 @@ Quaestio 15
 
 ***De restitutione***
 
-***Deinde quaesitum est de restitutione, quae est actus iustitiae. Et circa hoc quaesita sunt tria:***
+Deinde quaesitum est de restitutione, quae est actus iustitiae. Et circa hoc quaesita sunt tria:  
 
 primo, de illis qui propter partes sunt extra civitates;  
 
@@ -342,9 +344,9 @@ tertio, de eo qui aliena consumpsit.
 
 Articulus 1  
 
-***Utrum expulsi propter partes, possint expetere bona sua ab illis qui sunt in civitate manentes***
+Utrum expulsi propter partes, possint expetere bona sua ab illis qui sunt in civitate manentes  
 
-***Circa primum quaeritur utrum expulsi propter partes possint repetere bona sua ab illis qui sunt in civitate manentes. Et videtur quod non.***
+Circa primum quaeritur utrum expulsi propter partes possint repetere bona sua ab illis qui sunt in civitate manentes. Et videtur quod non.  
 
 Quia multi de his qui sunt in civitate culpam non habuerunt ad eorum expulsionem, et sic punirentur aliqui pro culpa alterius.  
 
@@ -366,7 +368,7 @@ Articulus 2
 
 ***Utrum ille qui mala fide praescripsit teneatur ad restitutionem***
 
-***Secundo quaeritur utrum ille qui mala fide praescribit teneatur ad restitutionem. Et videtur quod non.***
+Secundo quaeritur utrum ille qui mala fide praescribit teneatur ad restitutionem. Et videtur quod non.  
 
 Quia lex dicit quod qui etiam mala fide praescribit, acquirit dominium.  
 
@@ -382,7 +384,7 @@ Articulus 3
 
 ***Utrum ille qui rem alienam consumpsit teneatur ad restitutionem***
 
-***Tertio quaeritur utrum ille qui rem alienam consumpsit teneatur ad restitutionem. Et videtur quod non.***
+Tertio quaeritur utrum ille qui rem alienam consumpsit teneatur ad restitutionem. Et videtur quod non.  
 
 Quia ille cuius res fuerat non habet actionem in consumptorem, intellige: si ius habet casum in praescriptione.  
 
@@ -412,7 +414,7 @@ Articulus unicus
 
 ***Utrum omnia quae doctores sancti dixerunt, sint a Spiritu Sancto***
 
-***Circa primum quaesitum est utrum omnia quae doctores sancti dixerunt sint a Spiritu Sancto. Et videtur quod non.***
+Circa primum quaesitum est utrum omnia quae doctores sancti dixerunt sint a Spiritu Sancto. Et videtur quod non.  
 
 Quia in suis dictis sunt aliqua falsa: nam in suis expositionibus quandoque dissonant; non potest autem esse verum quod dissimile vel dissonum est, quia utraque pars contradictionis non potest esse vera.  
 
@@ -430,9 +432,9 @@ Quaestio 17
 
 Articulus 1  
 
-***Utrum aliquis possit praedicare propria auctoritate, ita ut liceat praedicare sine licentia praelati***
+Utrum aliquis possit praedicare propria auctoritate, ita ut liceat praedicare sine licentia praelati  
 
-***Primo, utrum aliquis possit praedicare propria auctoritate, ita ut liceat praedicare sine licentia praelati. Et videtur quod sic.***
+Primo, utrum aliquis possit praedicare propria auctoritate, ita ut liceat praedicare sine licentia praelati. Et videtur quod sic.  
 
 Quia praedicare est bonum alii facere; sed debemus *bonum* operari *ad omnes*, Galatarum VI; ergo etc.  
 
@@ -450,7 +452,7 @@ Articulus 2
 
 ***Utrum aliquis prohibitus a principe saeculari debeat dimittere praedicationem***
 
-***Secundo, utrum aliquis prohibitus a principe saeculari debeat dimittere praedicationem. Et videtur quod non.***
+Secundo, utrum aliquis prohibitus a principe saeculari debeat dimittere praedicationem. Et videtur quod non.  
 
 Matthaei X: *nolite timere eos qui occidunt corpus*, dicitur praedicatoribus; ergo timore principium non debent dimittere.  
 
@@ -478,7 +480,7 @@ Articulus 3
 
 ***Utrum liceat praedicatoribus accipere eleemosynas ab usurariis***
 
-***Tertio, utrum liceat praedicatoribus recipere eleemosynas ab usurariis. Et videtur quod sic.***
+Tertio, utrum liceat praedicatoribus recipere eleemosynas ab usurariis. Et videtur quod sic.  
 
 Corinthiorum IX: *si nos vobis spiritualia seminamus* etc.  
 
@@ -494,9 +496,9 @@ Quaestio 18
 
 ***Articulus unicus***
 
-***Utrum aliquis possit confessiones audire de indulgentia domini papae sine voluntate proprii praelati***
+Utrum aliquis possit confessiones audire de indulgentia domini papae sine voluntate proprii praelati  
 
-***Deinde quaesitum fuit de officio confessorum, utrum aliquis possit confessionem audire de indulgentia domini papae sine voluntate proprii praelati. Et videtur quod non.***
+Deinde quaesitum fuit de officio confessorum, utrum aliquis possit confessionem audire de indulgentia domini papae sine voluntate proprii praelati. Et videtur quod non.  
 
 Quia quilibet tenetur confiteri *proprio sacerdoti*; ergo etc.  
 
@@ -524,7 +526,7 @@ Quaestio 19
 
 ***Utrum vicarius alicuius possit vices suas committere alteri***
 
-***Deinde quaesitum fuit de officio vicariorum, utrum vicarius alicuius possit vices suas committere alteri. Et videtur quod sic.***
+Deinde quaesitum fuit de officio vicariorum, utrum vicarius alicuius possit vices suas committere alteri. Et videtur quod sic.  
 
 Quia effectus habens virtutem causae potest in ea in quae potest causa.  
 
@@ -572,7 +574,7 @@ De culpa actuali
 
 ***De peccato cogitationis***
 
-***Deinde quaesitum fuit de culpa actuali. Et primo de peccato cogitationis duo fuerunt quaesita.***
+Deinde quaesitum fuit de culpa actuali. Et primo de peccato cogitationis duo fuerunt quaesita.  
 
 Articulus 1  
 
@@ -622,7 +624,7 @@ Articulus 2
 
 ***De retentione superfluorum***
 
-***Secundo, de retentione superfluorum, utrum ille qui non dat superfluum quod habet, pro Deo, peccet.***
+Secundo, de retentione superfluorum, utrum ille qui non dat superfluum quod habet, pro Deo, peccet.  
 
 Dicit enim Augustinus quod qui retinet etc.  
 
@@ -646,7 +648,7 @@ Articulus 1
 
 ***De poena temporali***
 
-***Et primo de poena temporali, utrum aliquis religiosus expelli debeat propter peccatum de religione, si sit paratus corrigi et sustinere poenam.***
+Et primo de poena temporali, utrum aliquis religiosus expelli debeat propter peccatum de religione, si sit paratus corrigi et sustinere poenam.  
 
 Responsio. Dicendum quod Apostolus dicit: *auferte malum ex vobis; modicum fermentum* etc.  
 
@@ -656,6 +658,6 @@ Articulus 2
 
 ***De poena aeterna***
 
-***Secundo, de poena aeterna, utrum anima separata a corpore naturaliter patiatur ab igne corporeo.***
+Secundo, de poena aeterna, utrum anima separata a corpore naturaliter patiatur ab igne corporeo.  
 
 < . . . >

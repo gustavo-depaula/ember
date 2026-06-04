@@ -1,6 +1,8 @@
 # C. 5 - Some frivolous arguments on the same topic and their solutions
 
-***Ultimo autem redit ad primum, resumens rationes prius inductas, quod non debet sacerdos dicere: *ego te absolvo*, tum quia hoc pertinet ad potestatem Dei, tum quia sacerdoti est incertum an ille absolvatur. Quae iam supra soluta sunt.***
+***Quaedam rationes frivolae ad idem et solutio earum***
+
+Ultimo autem redit ad primum, resumens rationes prius inductas, quod non debet sacerdos dicere: *ego te absolvo*, tum quia hoc pertinet ad potestatem Dei, tum quia sacerdoti est incertum an ille absolvatur. Quae iam supra soluta sunt.  
 
 Addit etiam obiciendo quod vix triginta anni sunt quod omnes hac sola forma utebantur: *absolutionem et remissionem et cetera*. Sed quomodo potest de omnibus testimonium perhibere qui omnes non vidit? Sed hoc certum est quod iam mille ducenti anni sunt et amplius quod dictum est Petro: *quodcumque solveris super terram*. Quare autem non dicatur in forma: ego tibi remitto peccata, sicut: *ego te absolvo*, iam supra dictum est.  
 

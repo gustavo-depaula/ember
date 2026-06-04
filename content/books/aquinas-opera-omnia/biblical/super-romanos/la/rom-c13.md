@@ -1,10 +1,12 @@
 # C. 12 - The New Life in Christ
 
+***Vita nova in Christo***
+
 ***Lectio 1***
 
 ***Vita secundum gratiam***
 
-***^12:1^ Obsecro itaque vos fratres per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum. [n. 953]***
+^12:1^ Obsecro itaque vos fratres per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum. [n. 953]  
 
 > ^12:2^ Et nolite conformari huic saeculo, sed reformamini in novitate sensus vestri: ut probetis quae sit voluntas Dei bona, et beneplacens, et perfecta. [n. 965]
 
@@ -158,7 +160,7 @@ Lectio 2
 
 ***Membra Christi corporis***
 
-***^12:4^ Sicut enim in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent: [n. 972]***
+^12:4^ Sicut enim in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent: [n. 972]  
 
 > ^12:5^ ita multi unum corpus sumus in Christo, singuli autem alter alterius membra. [n. 974]
 
@@ -294,7 +296,7 @@ Lectio 3
 
 ***Caritas ad inimicos***
 
-***^12:14^ Benedicite persequentibus vos: benedicite, et nolite maledicere. [n. 996]***
+^12:14^ Benedicite persequentibus vos: benedicite, et nolite maledicere. [n. 996]  
 
 > ^12:15^ Gaudere cum gaudentibus, flere cum flentibus: [n. 1003]
 

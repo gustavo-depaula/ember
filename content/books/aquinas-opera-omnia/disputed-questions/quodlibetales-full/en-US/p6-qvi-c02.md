@@ -1,5 +1,7 @@
 # On Angels
 
+***Question 2***
+
 ***On angels***
 
 ***Then there were two questions about angels:***
@@ -12,7 +14,7 @@ Article 1
 
 ***On the action of angels***
 
-***To the first we proceed thus. It seems that whatever an angel does, he does not do through the command of the will.***
+To the first we proceed thus. It seems that whatever an angel does, he does not do through the command of the will.  
 
 Obj. 1: For the will relates equally to things near and remote. If, therefore, an angel were to act only through the command of the will, it would follow that for an angel to do something it would make no difference whether the thing on which it acts is near or far. And thus, it would never be necessary for an angel to descend from heaven to earth to do something here, which is contrary to the tradition of Sacred Scripture.  
 
@@ -34,7 +36,7 @@ Article 2
 
 ***On the place of angels***
 
-***To the second we proceed thus. It seems that an angel cannot be in the domeAverroes, *On the Heavens* 1, comm. 100. of the empyrean heaven.***
+To the second we proceed thus. It seems that an angel cannot be in the domeAverroes, *On the Heavens* 1, comm. 100. of the empyrean heaven.  
 
 Obj. 1: For Anselm says that nothing can be in nothing.Anselm of Canterbury, *Monologue* 6–20 (PL 158:150–70); *On the Fall of the Devil* 10–11 (PL 158:337–41); *On the Virginal Conception* 5 (PL 158:438–39). But nothing is outside the empyrean heaven. Therefore, an angel cannot be in the dome of the empyrean heaven: for thus he would be outside the empyrean heaven.  
 

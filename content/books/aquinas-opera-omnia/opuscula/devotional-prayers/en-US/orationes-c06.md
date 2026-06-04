@@ -1,5 +1,7 @@
 # O Merciful God
 
+Prayer for the wise ordering of one’s life *(Aquinas is said to have prayed this prayer daily before the image of Christ.)*  
+
 ***O merciful God,***
 ***whatever is pleasing***
 ***to you,***

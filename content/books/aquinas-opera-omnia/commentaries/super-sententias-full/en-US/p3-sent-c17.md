@@ -1,8 +1,10 @@
 # D. 16 - Creation of man in God’s image and likeness
 
+***Creation of man in God’s image and likeness***
+
 ***Division of the text***
 
-***Having considered the purely spiritual nature—that is, the angelic—and the purely bodily nature, here in the third place he pursues in many ways a treatment of that nature which is composed of the spiritual and bodily, namely, the human being.***
+Having considered the purely spiritual nature—that is, the angelic—and the purely bodily nature, here in the third place he pursues in many ways a treatment of that nature which is composed of the spiritual and bodily, namely, the human being.  
 
 So this part is divided into two parts.  
 
@@ -68,7 +70,7 @@ Article 1
 
 ***Whether a created thing can be said to be according to the image of God***
 
-***To the first we proceed as follows. It seems that nothing created can be said to be according to the image of God.***
+To the first we proceed as follows. It seems that nothing created can be said to be according to the image of God.  
 
 Obj. 1: For in the case of anything of which there is a created image, some image of it can be set up. But no image can be set up for God: *to whom then will you liken God, or what image compare with him?* (Isa 40:18).RSV reads *likeness* instead of *image*. Therefore, and so on.  
 
@@ -102,7 +104,7 @@ Article 2
 
 ***Whether the image of God is found only in rational creatures***
 
-***To the second we proceed as follows.Parallel texts: *In I Sent*., d. 3, q. 3; *In III Sent*., d. 10, q. 2, a. 2, resp.; *ST* I.35.2, ad 3; 45.7; 93.1‒2; *SCG* IV.26; *On Truth*, q. 10, a. 1; *On the Power of God*, q. 9, a. 9; *Commentary on 1 Corinthians*, ch. 11, lect. 2. It seems that the image of God is not only found in rational creatures.***
+To the second we proceed as follows.Parallel texts: *In I Sent*., d. 3, q. 3; *In III Sent*., d. 10, q. 2, a. 2, resp.; *ST* I.35.2, ad 3; 45.7; 93.1‒2; *SCG* IV.26; *On Truth*, q. 10, a. 1; *On the Power of God*, q. 9, a. 9; *Commentary on 1 Corinthians*, ch. 11, lect. 2. It seems that the image of God is not only found in rational creatures.  
 
 Obj. 1: For the account of image as it can be found in the created does not require perfect likeness, as has been said,Above: a. 1. but rather imperfect imitation suffices. But anything created has existence by imitating the divine perfection. Therefore, anything created should be said to be “according to the image of God.”  
 
@@ -136,7 +138,7 @@ Article 3
 
 ***Whether the image of God is found more in angels than in men***
 
-***To the third we proceed as follows.Parallel texts: *In I Sent*., d. 3, q. 3, ad 4; *In III Sent*., d. 2, q. 1, a. 1, resp.; *ST* I.93.3; *Commentary on Psalms*, Psalm 8. It seems that the image is not found more in angels than in men.***
+To the third we proceed as follows.Parallel texts: *In I Sent*., d. 3, q. 3, ad 4; *In III Sent*., d. 2, q. 1, a. 1, resp.; *ST* I.93.3; *Commentary on Psalms*, Psalm 8. It seems that the image is not found more in angels than in men.  
 
 Obj. 1: For what follows on nature is found equally in all that have that nature, such as “risible” in men. But to be according to the image of God follows on intellectual nature. Therefore, it exists equally in all who have an intellect.  
 
@@ -176,7 +178,7 @@ Article 4
 
 ***Whether “image” and “likeness” are fittingly distinguished in the text***
 
-***To the fourth we proceed as follows.Parallel text: *ST* I.93.9. It seems that “image” and “likeness” are unfittingly distinguished in the text.See Genesis 1:26.***
+To the fourth we proceed as follows.Parallel text: *ST* I.93.9. It seems that “image” and “likeness” are unfittingly distinguished in the text.See Genesis 1:26.  
 
 Obj. 1: For that which is put in the definition of something as a genus is not distinguished from it, as, for example, “animal” is not distinguished from “man.” But according to Hilary, *an image is the imaged likeness without discrepancy of a thing that is to be regarded as equal to another thing*.Hilary of Poitiers, *De synodis*, sect. 13 (PL 10:490). Therefore, “image” should not be distinguished from “likeness.”  
 
@@ -212,7 +214,7 @@ Reply Obj. 6: Intellectuality, even though it pertains to the essence of intelle
 
 Exposition of the text  
 
-****Why man was created*, that is, the final cause of man, and *how he was established*,*Sent*. II, 16.1(92).1. since he was constituted of soul and body. These two things were discussed in Distinction 1 of this Book. *With what qualities and in what manner he was made*.*Sent*. II, 16.1(92).1. Here he begins to pursue it. *Then, how he fell*.*Sent*. II, 16.1(92).1. He pursues this in Distinction 21 and following. *Finally how and by what means he was restored*.*Sent*. II, 16.1(92).1. He pursues this in Books III and IV.***
+*Why man was created*, that is, the final cause of man, and *how he was established*,*Sent*. II, 16.1(92).1. since he was constituted of soul and body. These two things were discussed in Distinction 1 of this Book. *With what qualities and in what manner he was made*.*Sent*. II, 16.1(92).1. Here he begins to pursue it. *Then, how he fell*.*Sent*. II, 16.1(92).1. He pursues this in Distinction 21 and following. *Finally how and by what means he was restored*.*Sent*. II, 16.1(92).1. He pursues this in Books III and IV.  
 
 *Which are naturally in the rational mind*.*Sent*. II, 16.3(94).5. This can also be understood of the habits of grace, to which the soul is naturally ordered, not that they are caused by the principles of nature. Or it may be understood of innate habits, as the Philosopher in the *Ethics* 6Aristotle, *Nichomachean Ethics* 6.11. also posits certain natural virtues.  
 

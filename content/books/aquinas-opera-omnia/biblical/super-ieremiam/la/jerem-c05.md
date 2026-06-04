@@ -1,6 +1,8 @@
 # C. 3 - Israel and Judah as adulteresses
 
-***^3:1^ Vulgo dicitur: si dimiserit vir uxorem suam, et recedens ab eo duxerit virum alterum; numquid revertetur ad eam ultra? Numquid non polluta erit et contaminata mulier illa? Tu autem fornicatus es cum amatoribus multis; tamen revertere ad me, dicit Dominus, et ego suscipiam te.***
+***Lectio 1***
+
+^3:1^ Vulgo dicitur: si dimiserit vir uxorem suam, et recedens ab eo duxerit virum alterum; numquid revertetur ad eam ultra? Numquid non polluta erit et contaminata mulier illa? Tu autem fornicatus es cum amatoribus multis; tamen revertere ad me, dicit Dominus, et ego suscipiam te.  
 
 > ^3:2^ Leva oculos tuos in directum, et vide ubi non prostrata sis. In viis sedebas expectans eos, quasi latro in solitudine, et polluisti terram in fornicationibus tuis et in malitiis tuis.
 
@@ -66,7 +68,7 @@ Lectio 2
 
 Lectio 3  
 
-***^3:6b^ Abiit sibimet super omnem montem excelsum, et sub omni ligno frondoso, et fornicata est ibi.***
+^3:6b^ Abiit sibimet super omnem montem excelsum, et sub omni ligno frondoso, et fornicata est ibi.  
 
 > ^3:7^ Et dixi, cum fecisset haec omnia: ad me revertere; et non est reversa. Et vidit praevaricatrix soror ejus Juda,
 
@@ -98,7 +100,7 @@ Tertio aggravat reatum: ***et dixit Dominus ad me: justificavit***, comparative,
 
 Lectio 4  
 
-***^3:12^ Vade, et clama sermones istos contra aquilonem, et dices: revertere aversatrix Israel, ait Dominus, et non avertam faciem meam a vobis, quia sanctus ego sum, dicit Dominus, et non irascar in perpetuum.***
+^3:12^ Vade, et clama sermones istos contra aquilonem, et dices: revertere aversatrix Israel, ait Dominus, et non avertam faciem meam a vobis, quia sanctus ego sum, dicit Dominus, et non irascar in perpetuum.  
 
 > ^3:13^ Verumtamen scito iniquitatem tuam, quia in Dominum Deum tuum praevaricata es. Et dispersisti vias tuas alienis sub omni ligno frondoso, et vocem meam non audisti: ait Dominus.
 
@@ -126,7 +128,7 @@ Secundo illos de duabus tribubus ***convertimini***, poenitendo, ***revertentes*
 
 Lectio 5  
 
-***^3:14b^ Et assumam vos, unum de civitate, et duos de cognatione, et introducam vos in Sion.***
+^3:14b^ Et assumam vos, unum de civitate, et duos de cognatione, et introducam vos in Sion.  
 
 > ^3:15^ Et dabo vobis pastores juxta cor meum, et pascent vos scientia et doctrina.
 
@@ -152,7 +154,7 @@ Secundo ponit conversionem decem tribuum: ***in diebus illis ibit domus Juda ad 
 
 Lectio 6  
 
-***^3:19^ Ego autem dixi: quomodo ponam te in filios, et tribuam tibi terram desiderabilem, haereditatem praeclaram exercituum gentium? Et dixi: patrem vocabis me, et post me ingredi non cessabis.***
+^3:19^ Ego autem dixi: quomodo ponam te in filios, et tribuam tibi terram desiderabilem, haereditatem praeclaram exercituum gentium? Et dixi: patrem vocabis me, et post me ingredi non cessabis.  
 
 > **21**. Hic assignat causam revocationis:
 
@@ -162,7 +164,7 @@ Secundo ponit responsionem, ***et dixi***; idest, praevidens bona quae facies, h
 
 Lectio 7  
 
-***^3:20^ Sed quomodo si contemnat mulier amatorem suum, sic contempsit me domus Israel, dicit Dominus.***
+^3:20^ Sed quomodo si contemnat mulier amatorem suum, sic contempsit me domus Israel, dicit Dominus.  
 
 > ^3:21^ Vox in viis audita est ploratus, et ululatus filiorum Israel: quoniam iniquam fecerunt viam suam, obliti sunt Domini Dei sui.
 
@@ -194,6 +196,6 @@ Tertio confitentur culpam et poenam ipsorum et patrum: ***confusio comedit labor
 
 Collationes  
 
-***Nota, quod Deus dicitur ***pater*** creatione. Matth. 11: *confiteor tibi Pater, Domine caeli et terrae*. Adoptione. Rom. 8: *accepistis spiritum adoptionis filiorum Dei, in quo clamamus, Abba Pater*. Instructione. Isa. 38: *pater filiis notam faciet veritatem tuam*. Correctione. Proverb. 3: *quem enim diligit Dominus corripit, et quasi pater in filio complacet sibi*.***
+Nota, quod Deus dicitur ***pater*** creatione. Matth. 11: *confiteor tibi Pater, Domine caeli et terrae*. Adoptione. Rom. 8: *accepistis spiritum adoptionis filiorum Dei, in quo clamamus, Abba Pater*. Instructione. Isa. 38: *pater filiis notam faciet veritatem tuam*. Correctione. Proverb. 3: *quem enim diligit Dominus corripit, et quasi pater in filio complacet sibi*.  
 
 Nota, quod ***hereditas*** patriae caelestis est praeclara splendore divinae visionis. Sap. 6: *clara est et quae nunquam marcescit sapientia, et facile videtur ab his qui diligunt eam*. Dulcedine divini amoris. Psal. 22: *calix meus inebrians quam praeclarus est*. Familiaritate divinae allocutionis. Sapient. 8: *praeclaritas in communicatione sermonum ipsius*. Magnificentia operationis. Eccl. 43: *illic praeclara opera et mirabilia*. Magnitudine exultationis. Zach. 8: *erit domus Juda et domus Israel, benedictio*. Solatio societatis. Ezech. 31: *omnia ligna voluptatis quae erant in Paradiso Dei*, etc.

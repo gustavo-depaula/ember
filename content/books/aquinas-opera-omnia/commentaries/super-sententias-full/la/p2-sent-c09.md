@@ -1,8 +1,10 @@
 # D. 29 - The name “principle”
 
+***De nomine principii***
+
 ***Divisio textus***
 
-***Postquam determinavit de innascibilitate, quae est proprietas personae, sed non personalis, hic determinat de alia notione, quae non est proprietas personae, quia non uni tantum personae convenit, nec proprietas personalis, quia nullam personam constituit, scilicet de communi spiratione, quae designatur cum dicitur: Pater et Filius sunt principium Spiritus Sancti. Et dividitur in partes duas: in prima ostendit quomodo nomen principii de Deo dicatur, et quia quandoque dicitur ex tempore, quandoque ab aeterno principium, ideo in secunda ostendit qualiter aliquid de Deo ex tempore dici possit, 30 dist., ibi: *sunt enim quaedam quae ex tempore de Deo dicuntur*.Al.: *donum*.***
+Postquam determinavit de innascibilitate, quae est proprietas personae, sed non personalis, hic determinat de alia notione, quae non est proprietas personae, quia non uni tantum personae convenit, nec proprietas personalis, quia nullam personam constituit, scilicet de communi spiratione, quae designatur cum dicitur: Pater et Filius sunt principium Spiritus Sancti. Et dividitur in partes duas: in prima ostendit quomodo nomen principii de Deo dicatur, et quia quandoque dicitur ex tempore, quandoque ab aeterno principium, ideo in secunda ostendit qualiter aliquid de Deo ex tempore dici possit, 30 dist., ibi: *sunt enim quaedam quae ex tempore de Deo dicuntur*.Al.: *donum*.  
 
 Circa primum duo facit: primo ostendit quot modis Deus dicatur principium; secundo prosequitur divisionis partes, ibi: *et Pater ab aeterno principium est Filii*.  
 
@@ -58,11 +60,11 @@ Ad tertium dicendum, quod quia factio et operatio semper terminantur ad esse rei
 
 Articulus 2  
 
-***Utrum “principium” dicatur univoce de Deo secundum quod dicitur principium divinae personae et creaturae, et quomodo per prius dicatur***
+Utrum “principium” dicatur univoce de Deo secundum quod dicitur principium divinae personae et creaturae, et quomodo per prius dicatur  
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod principium univoce dicatur secundum quod Deus dicitur principium personae divinae et creaturae.***
+Ad secundum sic proceditur. Videtur quod principium univoce dicatur secundum quod Deus dicitur principium personae divinae et creaturae.  
 
 Sicut enim dicit Basilius, lib. 2, *Contra Eunomium*, post. med., accipere a Patre Filius habet commune cum omni creatura; sed habere per naturam est Filii proprium. Sed ratio principii fundatur supra originem unius ab alio, ut dictum est. Ergo principium univoce dicitur respectu personae divinae et respectu creaturae.  
 
@@ -74,7 +76,7 @@ Praeterea, Pater est principium Filii per generationem, et Spiritus Sancti per s
 
 Quaestiuncula 2  
 
-***Ulterius quaeritur, quomodo per prius dicatur. Videtur enim quod secundum quod dicit respectum ad creaturam,***
+Ulterius quaeritur, quomodo per prius dicatur. Videtur enim quod secundum quod dicit respectum ad creaturam,  
 
 essentiale enim est prius secundum intellectum notionali et commune proprio. Sed esse principium creaturae, est essentiale et toti Trinitati commune; esse autem principium divinae personae, est notionale et proprium. Ergo, etc.  
 
@@ -82,7 +84,7 @@ Contra, aeternum est prius temporali. Sed principium personae dicitur ab aeterno
 
 Solutio 1  
 
-***Respondeo dicendum, quod idem judicium est de principio et de origine super quam fundatur ratio principii. Potest autem origo considerari dupliciter: aut secundum communem rationem originis, quae est aliquid ab aliquo esse, et sic una ratio est communis ad originem personarum et originem creaturarum, non quidem communitate univocationis, sed analogiae: et similiter etiam nomen principii. Potest etiam considerari secundum determinatum modum originis; et sic sunt diversae speciales rationes originis et principii; sed hoc non facit aequivocationem: quia sic etiam secundum Philosophum, 1 *De anima*., animalis ratio secundum unumquodque est alia.***
+Respondeo dicendum, quod idem judicium est de principio et de origine super quam fundatur ratio principii. Potest autem origo considerari dupliciter: aut secundum communem rationem originis, quae est aliquid ab aliquo esse, et sic una ratio est communis ad originem personarum et originem creaturarum, non quidem communitate univocationis, sed analogiae: et similiter etiam nomen principii. Potest etiam considerari secundum determinatum modum originis; et sic sunt diversae speciales rationes originis et principii; sed hoc non facit aequivocationem: quia sic etiam secundum Philosophum, 1 *De anima*., animalis ratio secundum unumquodque est alia.  
 
 Ad primum dicendum, quod principium est commune communitate analogiae, et non univocationis.  
 
@@ -94,15 +96,15 @@ Ad quartum dicendum, quod ratio illa procedit quantum ad speciales rationes orig
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum, quod processio creaturarum exemplatur a processione divinarum personarum; unde, absolute loquendo, per prius dicitur principium respectu personae quam respectu creaturae. Sed tamen sciendum, quod in principio, secundum quod dicitur respectu creaturae, est considerare ipsam habitudinem quae temporalis est, et illud in quo fundatur ista habitudo, scilicet virtus et operatio divina; in quibus tamen non est ratio principii nisi quasi habitualiter; et sic secundo modo, considerando principium secundum quod dicitur principium creaturae, est prius quam principium divinae personae quod fundatur in proprietate, per modum quo essentiale dicitur prius notionali secundum intellectum. Sed hoc non est nisi secundum quid.***
+Ad id quod ulterius quaeritur, dicendum, quod processio creaturarum exemplatur a processione divinarum personarum; unde, absolute loquendo, per prius dicitur principium respectu personae quam respectu creaturae. Sed tamen sciendum, quod in principio, secundum quod dicitur respectu creaturae, est considerare ipsam habitudinem quae temporalis est, et illud in quo fundatur ista habitudo, scilicet virtus et operatio divina; in quibus tamen non est ratio principii nisi quasi habitualiter; et sic secundo modo, considerando principium secundum quod dicitur principium creaturae, est prius quam principium divinae personae quod fundatur in proprietate, per modum quo essentiale dicitur prius notionali secundum intellectum. Sed hoc non est nisi secundum quid.  
 
 Et per hoc patet responsio ad utrumque objectum.  
 
 Articulus 3  
 
-***Utrum proprietas Patris et Filii, qua dicuntur principium Spiritus Sancti, sit tantum una***
+Utrum proprietas Patris et Filii, qua dicuntur principium Spiritus Sancti, sit tantum una  
 
-***Ad tertium sic proceditur. Videtur quod non sitParma erroneously reads *nisi una*. una proprietas Patris et Filii, secundum quam dicuntur principium Spiritus Sancti.***
+Ad tertium sic proceditur. Videtur quod non sitParma erroneously reads *nisi una*. una proprietas Patris et Filii, secundum quam dicuntur principium Spiritus Sancti.  
 
 Proprietas enim unitatem et multitudinem trahit a suppositis. Sed Pater et Filius non sunt unum suppositum. Ergo nec ipsorum est una proprietas.  
 
@@ -132,7 +134,7 @@ Articulus 4
 
 ***Utrum Pater et Filius sint unum principium Spiritus Sancti***
 
-***Ad quartum sic proceditur. Videtur quod Pater et Filius non sint unum principium Spiritus Sancti.***
+Ad quartum sic proceditur. Videtur quod Pater et Filius non sint unum principium Spiritus Sancti.  
 
 Si enim unum sunt principium, aut unum quod est Pater, aut unum quod non est Pater. Si unum quod est Pater, ergo Filius est Pater, quod falsum est. Si unum quod non est Pater, ergo Pater non est Pater, quod iterum falsum est. Ergo nullo modo sunt unum principium.  
 
@@ -160,7 +162,7 @@ Ad tertium dicendum, quod non conceditur communiter, quod sint idem principium; 
 
 Expositio textus  
 
-****Pater est principium totius divinitatis*.Parma erroneously reads *deitatis*. Videtur esse falsum: quia aut divinitas sumitur pro essentia divina, aut pro personis. Si pro personis, sic non est principium totius divinitatis, id est omnium personarum, cum non sit principium sui ipsius. Si pro essentia, videtur falsum, quia non est principium essentiae. Et praeterea totalitas exigit aliquam distinctionem in partibus; in essentia autem nulla est distinctio. Respondeo dicendum, quod utroque modo accipi potest. Si enim accipiatur pro essentia, tunc totum non dicit integritatem partium, sed perfectionem naturae; et dicitur esse principium totius divinitatis, non quia Deitatem generet vel spiret; sed quia divinitatem, generando vel spirando, communicat; ut sit sensus: est principium divinitatis, id est ut Deitas habeatur. Sed sic etiam Filius posset dici principium divinitatis totius quia ab ipso perfecta divinitas est in Spiritu Sancto, nisi pro tanto quod non secundum omnem modum quo communicabilis est, et quia non per generationem. Si autem sumatur pro universitate personarum, tunc planius est; quia sic dicitur principium totius divinitatis, inquantum in omnibus personis divinis ipse est quasi principium a quo aliae personae fluunt, sicut punctum dicitur principium totius lineae, quamvis sui ipsius principium non sit.***
+*Pater est principium totius divinitatis*.Parma erroneously reads *deitatis*. Videtur esse falsum: quia aut divinitas sumitur pro essentia divina, aut pro personis. Si pro personis, sic non est principium totius divinitatis, id est omnium personarum, cum non sit principium sui ipsius. Si pro essentia, videtur falsum, quia non est principium essentiae. Et praeterea totalitas exigit aliquam distinctionem in partibus; in essentia autem nulla est distinctio. Respondeo dicendum, quod utroque modo accipi potest. Si enim accipiatur pro essentia, tunc totum non dicit integritatem partium, sed perfectionem naturae; et dicitur esse principium totius divinitatis, non quia Deitatem generet vel spiret; sed quia divinitatem, generando vel spirando, communicat; ut sit sensus: est principium divinitatis, id est ut Deitas habeatur. Sed sic etiam Filius posset dici principium divinitatis totius quia ab ipso perfecta divinitas est in Spiritu Sancto, nisi pro tanto quod non secundum omnem modum quo communicabilis est, et quia non per generationem. Si autem sumatur pro universitate personarum, tunc planius est; quia sic dicitur principium totius divinitatis, inquantum in omnibus personis divinis ipse est quasi principium a quo aliae personae fluunt, sicut punctum dicitur principium totius lineae, quamvis sui ipsius principium non sit.  
 
 *Vel, si melius dicitur, deitatis*.Parma erroneously reads *divinitatis*. Pro tanto melius, quia deitas dicitur a Deo, quod significat per se et essentialiter divinitatem habentem; sed divinitas dicitur a divino, quod est denominativum; unde potest etiam participationem divinitatis significare, secundum etiam quod dicitur perpetuitas specierum a philosophisParma: *a Philosopho*. divinum esse. Unde ad singularitatem excellentiae designandam, magis competit nomen deitatis quam divinitatis.Parma reads *magis competit nomen divinitatis quam deitatis*, which is precisely the opposite of what is being said here.  
 

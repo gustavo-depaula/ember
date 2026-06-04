@@ -1,5 +1,7 @@
 # Sermon
 
+***Beware*** etc. [3] The responsibility of a good leader is to train his troops to be on guard against ambushes. To be sure we have a cunning and deceptive enemy, hence we read in Ecclesiasticus: *many are the ambushes of the deceitful* (Sir 11:29)*.* The psalmist writes: *he sits in ambush with the rich* (Ps 10:8), that is to say, with the proud. The Apostle explains these ambushes, saying that *Satan disguises himself as an angel of light* and *his servants also disguise themselves as servants of righteousness* (2 Cor 11:14-15). Through these words the Lord makes us wary of Satan's servants by teaching us four things.  
+
 [4] First of all, he instructs us as to the kind of enemies, here: ***beware of false prophets***; secondly, he teaches us about their strategy of ambushing, here: ***who come to you in sheep's clothing***; thirdly, their menacing harm, here: ***but inwardly they are ravenous wolves***; fourthly, he teaches us how to identify them, here: ***y**ou will know them by their fruits**.*  
 
 [5] These enemies are false prophets, and being extremely dangerous must be avoided, because they are as dangerous to us as good angels are necessary and helpful to us, hence we read in Proverbs: *when prophecy fails the people will be scattered* (Prov 29:18)*.* Jeremiah says this about false prophets: *from the prophets of Jerusalem corruption has gone forth into all the land* (Jer 23:15)*.*  

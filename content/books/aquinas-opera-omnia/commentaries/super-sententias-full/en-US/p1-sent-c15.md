@@ -1,8 +1,10 @@
 # D. 14 - Temporal procession of the Holy Spirit
 
+***Temporal procession of the Holy Spirit***
+
 ***Division of the text***
 
-***Here the Master begins to consider the temporal procession of the Holy Spirit, and it is divided into two parts. In the first, he considers the Holy Spirit’s temporal procession, and in the second he considers the name of the Holy Spirit that manifests the account of the temporal procession, at *moreover, it is to be considered with diligence, since the Holy Spirit is called gift and grant, whether each of the names is fitting for him for the same reason*.*Sent*. I, 18.2(67).1.***
+Here the Master begins to consider the temporal procession of the Holy Spirit, and it is divided into two parts. In the first, he considers the Holy Spirit’s temporal procession, and in the second he considers the name of the Holy Spirit that manifests the account of the temporal procession, at *moreover, it is to be considered with diligence, since the Holy Spirit is called gift and grant, whether each of the names is fitting for him for the same reason*.*Sent*. I, 18.2(67).1.  
 
 The first of these is divided into two: in the first, he considers temporal procession in common; in the second, he considers it in reference to the specific modes of sending, at *now, concerning the Holy Spirit, . . . we must consider what is his procession in time*.*Sent*. I, 16.1(58).1.  
 
@@ -38,7 +40,7 @@ Article 1
 
 ***Whether there is a temporal procession of the Holy Spirit***
 
-***To the first we proceed as follows.Parallel text: *ST* I.43.5, 7. It seems that no procession of the Holy Spirit is temporal.***
+To the first we proceed as follows.Parallel text: *ST* I.43.5, 7. It seems that no procession of the Holy Spirit is temporal.  
 
 Obj. 1: For just as generation is an eternal property of the Son, according to which he is distinguished from the Father, so too is the procession of the Holy Spirit a property according to which he is distinguished from the Father and the Son. But the Son’s generation is not said to be temporal except in reference to the assumed nature. Therefore, since the Holy Spirit never assumed a nature, nor will he assume one, it seems that no procession of his is temporal.  
 
@@ -70,9 +72,9 @@ Reply Obj. 5: Something composite cannot be affirmed unless it is affirmed for e
 
 Article 2  
 
-***Whether the temporal procession asserts something really distinct from the eternal procession***
+Whether the temporal procession asserts something really distinct from the eternal procession  
 
-***To the second we proceed as follows. It appears that the temporal procession does assert something numerically distinct from the eternal, such that they are different processions.***
+To the second we proceed as follows. It appears that the temporal procession does assert something numerically distinct from the eternal, such that they are different processions.  
 
 Obj. 1: For the eternal and the temporal cannot be the same in essence. But things that differ by essence are simply speaking multiple and are numbered. Therefore the eternal procession and the temporal are simply speaking two.  
 
@@ -104,7 +106,7 @@ Question 2
 
 ***How the Holy Spirit is said to proceed temporally***
 
-***Next one asks in what respect the procession is viewed as temporal. And about this two things are asked:***
+Next one asks in what respect the procession is viewed as temporal. And about this two things are asked:  
 
 first, whether the Holy Spirit himself is given according to the temporal procession, or are only his gifts, or both;  
 
@@ -112,11 +114,11 @@ and second, if both, one asks about what gifts is the Holy Spirit said to be giv
 
 Article 1  
 
-***Whether the Holy Spirit is given according to the temporal procession; what is given first***
+Whether the Holy Spirit is given according to the temporal procession; what is given first  
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows. It seems that the Holy Spirit himself does not proceed temporally or is given.***
+To the first we proceed as follows. It seems that the Holy Spirit himself does not proceed temporally or is given.  
 
 Obj. 1: For what is in itself everywhere does not seem to proceed anywhere in itself. But since he is God, the Holy Spirit is everywhere. Therefore he cannot proceed to anyone.  
 
@@ -132,7 +134,7 @@ Furthermore, love has the account of being the first gift, since in it all thing
 
 Quaestiuncula 2  
 
-***Moreover, if each is given, then one asks what is given first. And it seems that the Holy Spirit is.***
+Moreover, if each is given, then one asks what is given first. And it seems that the Holy Spirit is.  
 
 Obj. 1: This seems so since through him the others are given, and because he has the account of the first gift.  
 
@@ -140,7 +142,7 @@ On the contrary, it seems that the gifts are given first. For his gifts dispose 
 
 Response to Quaestiuncula 1  
 
-***I answer that the Holy Spirit himself proceeds, or is given, in the temporal procession, and not only his gifts. For if we consider the procession of the Holy Spirit on the side of that from which he proceeds, there is no doubt that in that respect the Holy Spirit himself is the one proceeding. But if we consider the procession according to its reference to that into which he proceeds,Above, q. 1, a. 1. then that reference is placed in the Holy Spirit not because he himself is referred really to it, but because the latter is referred to him. Therefore, since in the receiving of his gifts not only does our relation have the gifts as their terminus, such that we possess only them, but also the Holy Spirit, since we possess him in a different way than before; not only are his gifts said to proceed into us, but so is even he himself. For he is said to be brought to us insofar as we ourselves are brought to him. And therefore he himself and his gifts proceed into us, since we receive his gifts and also, through them, we stand toward him in a different way, insofar as we are joined to the Holy Spirit himself through his gifts—by our being made like him through the gift.***
+I answer that the Holy Spirit himself proceeds, or is given, in the temporal procession, and not only his gifts. For if we consider the procession of the Holy Spirit on the side of that from which he proceeds, there is no doubt that in that respect the Holy Spirit himself is the one proceeding. But if we consider the procession according to its reference to that into which he proceeds,Above, q. 1, a. 1. then that reference is placed in the Holy Spirit not because he himself is referred really to it, but because the latter is referred to him. Therefore, since in the receiving of his gifts not only does our relation have the gifts as their terminus, such that we possess only them, but also the Holy Spirit, since we possess him in a different way than before; not only are his gifts said to proceed into us, but so is even he himself. For he is said to be brought to us insofar as we ourselves are brought to him. And therefore he himself and his gifts proceed into us, since we receive his gifts and also, through them, we stand toward him in a different way, insofar as we are joined to the Holy Spirit himself through his gifts—by our being made like him through the gift.  
 
 Reply Obj. 1: When it is said that God is everywhere, a certain relation of God to what is created is being indicated that is not really in him, but in what is created. Now, it happens that these relations on the side of the created thing are multiplied, and even diversified, according to the diverse effects by which it is made like God. And this is how it is signified that he stands to what is created differently than before. And on account of this, the Holy Spirit, who is everywhere according to some relation of the creature to him, can be said to be in something in a new way, according to the new relation of the creature itself to him.  
 
@@ -154,13 +156,13 @@ Reply Sed Contra: We concede the other two arguments.
 
 Response to Quaestiuncula 2  
 
-***I say to the second thing that was asked that the order of things according to nature can be considered in two ways. One can consider it on the side of the recipient, or matter, and thus a disposition is prior to what it disposes a thing to; and in this way we receive the gifts of the Holy Spirit before receiving the Spirit himself, because we become like the Holy Spirit through the reception of the gifts themselves. Or one can consider it on the side of the end and the agent, and thus what will be closer to the end and agent is said to be prior; and in this way we receive the Holy Spirit prior to his gifts, because even the Son gave other things to us through his love. And this is to be prior simply speaking.***
+I say to the second thing that was asked that the order of things according to nature can be considered in two ways. One can consider it on the side of the recipient, or matter, and thus a disposition is prior to what it disposes a thing to; and in this way we receive the gifts of the Holy Spirit before receiving the Spirit himself, because we become like the Holy Spirit through the reception of the gifts themselves. Or one can consider it on the side of the end and the agent, and thus what will be closer to the end and agent is said to be prior; and in this way we receive the Holy Spirit prior to his gifts, because even the Son gave other things to us through his love. And this is to be prior simply speaking.  
 
 Article 2  
 
-***Whether the temporal procession of the Holy Spirit is viewed in reference to all the gifts***
+Whether the temporal procession of the Holy Spirit is viewed in reference to all the gifts  
 
-***To the second we proceed as follows. It seems that the temporal procession of the Holy Spirit is viewed in reference to all the gifts.***
+To the second we proceed as follows. It seems that the temporal procession of the Holy Spirit is viewed in reference to all the gifts.  
 
 Obj. 1: For every gift conferred on a creature proceeds from the liberality of the divine will. But the reason for conferring something through liberality is love. Therefore it seems that the Holy Spirit is given or proceeds in reference to all the gifts bestowed on the creature.  
 
@@ -198,7 +200,7 @@ Question 3
 
 ***Whether the Holy Spirit is given by holy men***
 
-***Next one asks from whom the Holy Spirit temporally proceeds, and here one asks whether the Holy Spirit is given by holy men.The other things that pertain to this question will be discussed later: below, d. 16, q. 1, a. 2. Now, it seems that holy men can give the Holy Spirit.***
+Next one asks from whom the Holy Spirit temporally proceeds, and here one asks whether the Holy Spirit is given by holy men.The other things that pertain to this question will be discussed later: below, d. 16, q. 1, a. 2. Now, it seems that holy men can give the Holy Spirit.  
 
 Obj. 1: For the remission of sins occurs only through the Holy Spirit, but holy men can remit sins, as it says in John 20:23: *if you forgive the sins of any, they are forgiven*. Therefore it seems that they can give the Holy Spirit.  
 
@@ -228,7 +230,7 @@ Reply Obj. 3: He who causes the occasion for loss seems to have caused the loss 
 
 Exposition of the text  
 
-****He does not proceed separately from the Father to the Son and then from the Son to the creature*.*Sent*. I, 14.1(45).1. He appears to contradict himself, because above he said they are two processions.Mandonnet’s Latin text refers to Distinction 13, but Aquinas seems rather to mean the beginning of Distinction 14: *Sent*. I, 14.1(45).1. To this one should say that they are not two simply speaking;Above, q. 1, a. 2. rather the one includes the other. And in these words one should understand, “and also something else proceeds from the Son to the creature”—that is, such that the Father immediately spirates the Holy Spirit, as does the Son, not only as regards the power, but even as regards the supposit, just as two men doing something simultaneously.***
+*He does not proceed separately from the Father to the Son and then from the Son to the creature*.*Sent*. I, 14.1(45).1. He appears to contradict himself, because above he said they are two processions.Mandonnet’s Latin text refers to Distinction 13, but Aquinas seems rather to mean the beginning of Distinction 14: *Sent*. I, 14.1(45).1. To this one should say that they are not two simply speaking;Above, q. 1, a. 2. rather the one includes the other. And in these words one should understand, “and also something else proceeds from the Son to the creature”—that is, such that the Father immediately spirates the Holy Spirit, as does the Son, not only as regards the power, but even as regards the supposit, just as two men doing something simultaneously.  
 
 *In order to show that the Spirit proceeds also from him*.*Sent*. I, 14.1(45).2, quoting Augustine, *On the Trinity*, bk. 15, ch. 26 (CCSL 50A; PL 42:1093), referring to John 20:22. This seems not to be necessary, since the Holy Spirit is given and proceeds temporally even from his very self, but it is not shown thereby that he is from his very self. To this one should say that when the Holy Spirit is said to be given from himself, this is entirely referred to the gift in which the Holy Spirit is given, and not to the proceeding person himself. For the Holy Spirit is not from himself as from an originating principle. Rather, when the Holy Spirit is signified through a bodily breath, this shows that even the person of the Holy Spirit himself was proceeding from the Son.  
 

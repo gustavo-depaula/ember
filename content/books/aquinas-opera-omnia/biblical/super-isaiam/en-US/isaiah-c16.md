@@ -1,5 +1,7 @@
 # Chapter 14
 
+^14:1^ Her time is near at hand, and her days shall not be prolonged. For the Lord will have mercy on Jacob, and will yet choose out of Israel, and will make them rest upon their own ground: and the stranger shall be joined with them, and shall adhere to the house of Jacob.  
+
 > ^14:2 ^And the people shall take them, and bring them into their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall make them captives that had taken them, and shall subdue their oppressors.
 
 > ^14:3^ And it shall come to pass in that day, that when God shall give you rest from your labor, and from your vexation, and from the hard bondage, wherewith you didst serve before,

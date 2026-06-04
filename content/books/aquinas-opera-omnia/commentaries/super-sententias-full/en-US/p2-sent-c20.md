@@ -1,8 +1,10 @@
 # D. 40 - Predestination
 
+***Predestination***
+
 ***Division of the text***
 
-***Having considered God’s knowledge in common, here he specifically considers predestination. And it is divided into two parts: in the first, he considers what predestination is;Note that Aquinas has Distinction 40 beginning in what the Silano text indicates is the final paragraph of Distinction 39: *Sent*. I, 39.4(178).4. in the second, he considers its causality, namely, whether it is the first cause, or does it have another, at *but if ‘we seek a deserving of obduracy and mercy, we find the deserving of obduracy; but we do not find a deserving of mercy.’**Sent*. I, 41.1(181).1, quoting Augustine, *Epistolae*, letter 194, “To the Priest Sixtus,” ch. 3, para. 14 (CSEL 57:187; PL 33:879).***
+Having considered God’s knowledge in common, here he specifically considers predestination. And it is divided into two parts: in the first, he considers what predestination is;Note that Aquinas has Distinction 40 beginning in what the Silano text indicates is the final paragraph of Distinction 39: *Sent*. I, 39.4(178).4. in the second, he considers its causality, namely, whether it is the first cause, or does it have another, at *but if ‘we seek a deserving of obduracy and mercy, we find the deserving of obduracy; but we do not find a deserving of mercy.’**Sent*. I, 41.1(181).1, quoting Augustine, *Epistolae*, letter 194, “To the Priest Sixtus,” ch. 3, para. 14 (CSEL 57:187; PL 33:879).  
 
 The first part is divided into two: in the first, he considers predestination; in the second, he considers reprobation, at *predestination is the preparation of grace. . . . Conversely, reprobation is to be understood as the foreknowledge of the iniquity of some*.*Sent*. I, 40.2(180).1.  
 
@@ -40,7 +42,7 @@ Article 1
 
 ***Whether predestination is something within the predestined***
 
-***To the first we proceed as follows.Parallel text: *ST* I.23.2. It seems that predestination is something in the predestined reality.***
+To the first we proceed as follows.Parallel text: *ST* I.23.2. It seems that predestination is something in the predestined reality.  
 
 Obj. 1: For every action of itself implies a passion. But when one says, “God predestines,” the verb signifies the divine act. Therefore it seems that there corresponds to it some passion within the creature, which is passively called “predestination,” just as was said about “creation,” for one finds a creation that is an action and creation that is a passion.  
 
@@ -72,7 +74,7 @@ Article 2
 
 ***Whether predestination pertains to knowledge***
 
-***To the second we proceed as follows.Parallel texts: *In III Sent*., d. 31, q. 1, a. 2, qa. 2; *ST* I.23.1; I.24.1; *SCG* III.163; *On Truth*, q. 6, a. 1; q. 7, aa. 1, 4; *Commentary on Romans*, ch. 1, lect. 3; *Commentary on Philippians*, ch. 4, lect. 1; *Commentary on Hebrews*, ch. 12, lect. 4. It seems that predestination pertains to his knowledge.***
+To the second we proceed as follows.Parallel texts: *In III Sent*., d. 31, q. 1, a. 2, qa. 2; *ST* I.23.1; I.24.1; *SCG* III.163; *On Truth*, q. 6, a. 1; q. 7, aa. 1, 4; *Commentary on Romans*, ch. 1, lect. 3; *Commentary on Philippians*, ch. 4, lect. 1; *Commentary on Hebrews*, ch. 12, lect. 4. It seems that predestination pertains to his knowledge.  
 
 Obj. 1: For, as is said in the text,*Sent*. I, 40.1(179).5. predestination cannot exist without foreknowledge. But “foreknowledge” names knowledge with an order to things to come. Therefore predestination pertains to his knowledge.  
 
@@ -110,7 +112,7 @@ Question 2
 
 ***To whom being predestined belongs***
 
-***Next, it is asked to whom predestination belongs. And it seems it belongs only to those who exist.***
+Next, it is asked to whom predestination belongs. And it seems it belongs only to those who exist.  
 
 Obj. 1: For “predestination” signifies a certain sending. But only what exists is sent. Therefore predestination is only of what is.  
 
@@ -154,7 +156,7 @@ Question 3
 
 ***Whether predestination is certain***
 
-***Next, he asks about predestination’s certitude, and it seems that it is not certain.Parallel texts: *ST* I.23.6; *On Truth*, q. 6, a. 3; *Quodl. XI*, q. 3, a. 1; *Quodl. XII*, q. 3, aa. 1, 2.***
+Next, he asks about predestination’s certitude, and it seems that it is not certain.Parallel texts: *ST* I.23.6; *On Truth*, q. 6, a. 3; *Quodl. XI*, q. 3, a. 1; *Quodl. XII*, q. 3, aa. 1, 2.  
 
 Obj. 1: For Revelation 3:11 says, *hold fast what you have, so that no one may seize your crown*. This is understood to be either about the crown of present righteousness or about the crown of glory. But it is not about the crown of present righteousness, since the grace that someone has is destroyed when he sins, nor does it pass from subject to subject. Therefore it is understood to be about the crown of glory. But glory does not belong to someone in the state of the earthly path unless because he has been predestined to it. Therefore it seems that one can receive what has been predestined to someone else, and therefore predestination does not have certitude.  
 
@@ -198,7 +200,7 @@ Article 1
 
 ***Whether reprobation adds something over and above foreknowledge***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.23.3; *SCG* III.163; *Commentary on Romans*, ch. 9, lect. 2. It seems that reprobation adds nothing over and above foreknowledge.***
+To the first we proceed as follows.Parallel texts: *ST* I.23.3; *SCG* III.163; *Commentary on Romans*, ch. 9, lect. 2. It seems that reprobation adds nothing over and above foreknowledge.  
 
 Obj. 1: For reprobation is of evil men. But of them God has only knowledge of simple awareness, as was held above.Above, d. 38, q. 1, a. 1. Therefore reprobation adds nothing over and above foreknowledge.  
 
@@ -224,7 +226,7 @@ Article 2
 
 ***Whether God is the cause of obduracy***
 
-***To the second we proceed as follows.Parallel texts: *In II Sent*., d. 37, q. 2, a. 1; *ST* I-II.79.3; *SCG* III.162; *On Truth*, q. 24, a. 10; *Commentary on Matthew*, ch. 13, lect. 1. It seems that God is the cause of the obduracy and blindness.***
+To the second we proceed as follows.Parallel texts: *In II Sent*., d. 37, q. 2, a. 1; *ST* I-II.79.3; *SCG* III.162; *On Truth*, q. 24, a. 10; *Commentary on Matthew*, ch. 13, lect. 1. It seems that God is the cause of the obduracy and blindness.  
 
 Obj. 1: It seems so because of what is said in 2 Corinthians 4:4: *the god of this world has blinded the minds of the unbelievers*, which one Gloss explains*Glossa ordinaria*, at 2 Corinthians 4:4, 6.382 (PL 114:556). as being about the true God. Therefore it seems that he is the cause of obduracy and blindness.  
 
@@ -252,7 +254,7 @@ Reply Obj. 4: God, as he is in himself, is absent to nothing. But man absents hi
 
 Exposition of the text  
 
-****An understanding of the implicit condition reveals truth in the statement and impossibility in reality*.*Sent*. I, 40.1(179).3. This can be explained as follows. Let us take two statements, one of which is true—“Peter can be damned”—and the other false—“Peter cannot be damned.” If one joins a condition that is implicitly understood in the participle “predestined,” the understanding of this condition renders the statement that before was false now true. For if Peter has been predestined, “Peter cannot be damned” is true. It would also make an impossibility in the statement that before was true, for “Peter can be damned” is impossible if he has been predestined; yet this would be such that the impossibility would be referred to the necessity of consequence.***
+*An understanding of the implicit condition reveals truth in the statement and impossibility in reality*.*Sent*. I, 40.1(179).3. This can be explained as follows. Let us take two statements, one of which is true—“Peter can be damned”—and the other false—“Peter cannot be damned.” If one joins a condition that is implicitly understood in the participle “predestined,” the understanding of this condition renders the statement that before was false now true. For if Peter has been predestined, “Peter cannot be damned” is true. It would also make an impossibility in the statement that before was true, for “Peter can be damned” is impossible if he has been predestined; yet this would be such that the impossibility would be referred to the necessity of consequence.  
 
 *They do not at all grant it in the actions or operations of God and men*.*Sent*. I, 40.1(179).5. They name the “operations of God” alone what he carries out without the mediation of anything created, like his understanding, willing, and the like; and such operations are measured by eternity, and not by time, so they do not follow the necessity of the past, but rather endure in the freedom of the present. Yet they do so in such a way that his immobility is not taken away. For God cannot now will something and later not will it; rather, his eternal willing is always in the freedom of his will. And therefore from the truth of his predestination there follows no necessity on the side of the predestination, just as none follows on the side of the one predestined. For God is able both to predestine and not to predestine. However, the “operations of God and men” name things that are carried out by God by the mediation of a created thing, or in a created thing. And because they are measured by time, on the side of the created thing, therefore they pass into the past and acquire necessity.  
 

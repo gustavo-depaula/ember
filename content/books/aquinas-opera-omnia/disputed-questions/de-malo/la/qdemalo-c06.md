@@ -1,10 +1,12 @@
 # Q. 6 - On human choice
 
+***De electione humana***
+
 ***Articulus 1***
 
 ***Utrum homo habeat liberam electionem suorum actuum aut ex necessitate eligat***
 
-***Quaestio est de electione humana. Et primo quaeritur utrum homo habeat liberam electionem suorum actuum aut ex necessitate eligat.***
+Quaestio est de electione humana. Et primo quaeritur utrum homo habeat liberam electionem suorum actuum aut ex necessitate eligat.  
 
 Et videtur quod non libere, sed ex necessitate eligat. Dicitur enim Ierem. X, 23: *non est hominis via eius, nec viri est ut ambulet et dirigat gressus suos*. Sed illud respectu cuius homo habet libertatem, eius est, quasi in ipsius dominio constitutum. Ergo videtur quod homo suarum viarum et suorum actuum liberam electionem non habeat.  
 

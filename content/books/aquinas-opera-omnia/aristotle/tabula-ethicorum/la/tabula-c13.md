@@ -1,5 +1,7 @@
 # Chapter 13
 
+***Vox 1***
+
 ***Operaciones***
 
 ***Quod operaciones sunt propter operata.***
@@ -112,7 +114,7 @@ Vox 5
 
 ***Opus***
 
-***Quod opus hominis est uel secundum racionem uel non sine racione, id est cum participacione racionis.***
+Quod opus hominis est uel secundum racionem uel non sine racione, id est cum participacione racionis.  
 
 Quod idem est opus genere hominis et boni hominis, et cithariste et optimi cithariste.  
 
@@ -124,7 +126,7 @@ Vox 6
 
 ***Operata***
 
-***Quod operata existunt meliora operacionibus in hiis in quibus utrumque inuenitur.***
+Quod operata existunt meliora operacionibus in hiis in quibus utrumque inuenitur.  
 
 Vox 7  
 
@@ -136,7 +138,7 @@ Vox 8
 
 ***Oligarchia***
 
-***Quod oligarchia est malicia principancium qui tribuunt indigne ea que sunt ciuitatis preter dignitatem et plurima bona sibi ipsis et principatus semper eisdem amicis, ut facile ditentur.***
+Quod oligarchia est malicia principancium qui tribuunt indigne ea que sunt ciuitatis preter dignitatem et plurima bona sibi ipsis et principatus semper eisdem amicis, ut facile ditentur.  
 
 Vox 9  
 
@@ -156,7 +158,7 @@ Vox 11
 
 ***Opinio***
 
-***Quod opinio uidetur esse circa omnia et circa eterna et inpossibilia et ea que in nobis sunt.***
+Quod opinio uidetur esse circa omnia et circa eterna et inpossibilia et ea que in nobis sunt.  
 
 Quod opinio diuiditur uero et falso.  
 

@@ -1,8 +1,10 @@
 # D. 35 - Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel
 
+***Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel***
+
 ***Division of the text***
 
-***After the Master has considered the gifts, here he shows the difference between the gifts that most appear to fit together: that is, wisdom, knowledge, and understanding. And this is divided into two parts:***
+After the Master has considered the gifts, here he shows the difference between the gifts that most appear to fit together: that is, wisdom, knowledge, and understanding. And this is divided into two parts:  
 
 in the first he designates the difference among them;  
 
@@ -44,7 +46,7 @@ Article 1
 
 ***Whether life is fittingly divided into the active and the contemplative***
 
-***To the first we proceed thus.Parallels: *ST* II-II.179.1-2; *Sent. Ethic.* I, lect. 5. It appears that life is not fittingly divided into the active and contemplative.***
+To the first we proceed thus.Parallels: *ST* II-II.179.1-2; *Sent. Ethic.* I, lect. 5. It appears that life is not fittingly divided into the active and contemplative.  
 
 Obj. 1: For, as the Philosopher says in *On the Soul* 2,Aristotle, *On the Soul* 2.4, 415b14; Aquinas, *Sent. De anima,* bk. 2, lect. 7, n. 319. for living things, living is being. But the contemplative and the active do not manifest a difference in existing, but more a difference in doing. Therefore they are not differences of life.  
 
@@ -84,11 +86,11 @@ Reply Obj. 5: That third member is added by Augustine not as regards a diversity
 
 Article 2  
 
-***Whether the contemplative life consists only in the act of the cognitive part of the soul***
+Whether the contemplative life consists only in the act of the cognitive part of the soul  
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* II-II.180.1; 180.2.ad 1; 189.7.ad 1. It seems that the contemplative life consists only in cognitive activity.***
+To the second we proceed as follows.Parallels: *ST* II-II.180.1; 180.2.ad 1; 189.7.ad 1. It seems that the contemplative life consists only in cognitive activity.  
 
 Obj. 1: For the end of contemplation is the truth. But the truth pertains only to cognition. Therefore the cognitive life consists only in the activity of the cognitive part of the soul.  
 
@@ -102,7 +104,7 @@ Furthermore, to taste pertains to one’s affect, just as to see pertains to one
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that it consists in the activity of reason.Parallels: *In IV Sent.*, d. 15, q. 4, a. 1, resp. 2, ad 1; a. 2, resp. 1, ad 2; *ST* II-II.180.3. For the contemplative life is a human life. But a life is human in virtue of a human activity. Therefore, since an activity is human in virtue of reason, due to which a man is said to be man, it appears that the contemplative life consists principally in the activity of reason.***
+Obj. 1: Moreover, it appears that it consists in the activity of reason.Parallels: *In IV Sent.*, d. 15, q. 4, a. 1, resp. 2, ad 1; a. 2, resp. 1, ad 2; *ST* II-II.180.3. For the contemplative life is a human life. But a life is human in virtue of a human activity. Therefore, since an activity is human in virtue of reason, due to which a man is said to be man, it appears that the contemplative life consists principally in the activity of reason.  
 
 Obj. 2: Furthermore, the contemplative life consists chiefly in the cognition of divine things. But the invisible things of God are known through things he has made (Rom 1:20). But to know things in virtue of other things belongs to reasoning. Therefore the contemplative life chiefly consists in the activity of reason.  
 
@@ -114,7 +116,7 @@ Furthermore, according to the Philosopher in the *Ethics* 10,Aristotle, *Nicomac
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that every act of the intellect pertains to the contemplative life.Parallel: *ST* II-II.180.4. For as the active life stands to things that can be done, so does the contemplative life stand to things that can be contemplated. But all actions about things that can be done pertain to the active life. Therefore all acts of the intellect concerning intelligible things pertain to the contemplative life.***
+Obj. 1: Moreover, it appears that every act of the intellect pertains to the contemplative life.Parallel: *ST* II-II.180.4. For as the active life stands to things that can be done, so does the contemplative life stand to things that can be contemplated. But all actions about things that can be done pertain to the active life. Therefore all acts of the intellect concerning intelligible things pertain to the contemplative life.  
 
 Obj. 2: Furthermore, the contemplative life, according to the Philosopher in the *Ethics* 10,Aristotle, *Nicomachean Ethics* 10.7, 1177a25. consists in the consideration of philosophy. But philosophy is concerned with all beings. Therefore every activity of the intellect pertains to the contemplative life, since the intellect is not concerned with non-beings.  
 
@@ -126,7 +128,7 @@ Furthermore, the contemplative life and contemplative happiness appear to concer
 
 Response to Quaestiuncula 1  
 
-***I answer that life, in the way we are now speaking, consists in the activity to which someone has principally sold himself; by reason of which activity, all things that can impede him he sets aside; and moreover, the things that help it, he seeks and pursues. Now, this can only occur through the will, to which, among human activities, belongs the acceptance of one of thing before others, whatever it might be. However, the will, since it is the mover of all the soul’s powers, must relate to all the powers’ acts and objects insofar as they carry the notion of the good. For the appropriate act of any power is its good. And therefore the contemplative life consists in the act of the cognitive power that has been already accepted by the affective power.***
+I answer that life, in the way we are now speaking, consists in the activity to which someone has principally sold himself; by reason of which activity, all things that can impede him he sets aside; and moreover, the things that help it, he seeks and pursues. Now, this can only occur through the will, to which, among human activities, belongs the acceptance of one of thing before others, whatever it might be. However, the will, since it is the mover of all the soul’s powers, must relate to all the powers’ acts and objects insofar as they carry the notion of the good. For the appropriate act of any power is its good. And therefore the contemplative life consists in the act of the cognitive power that has been already accepted by the affective power.  
 
 But because an activity is in a way a middle between the one doing it and its object—as the perfection of the very one doing it and the thing perfected by the object that specifies it—the activity of the cognitive part can be desired from two sides. In one way, as the perfection of the knower, and this desire for cognitive activity comes from a love of self; and this is how the affection was in the contemplative life of the philosophers. In the other way, insofar as it is terminated in the object—and in this way the desire of contemplation comes from a love of the object; for where the love is, there the eye is, and *where your treasure is, there will your heart be also* (Matt 6:21). And this is how the contemplative life of the saints, of which we are speaking now, has its desire.  
 
@@ -140,7 +142,7 @@ Reply Obj. 3: The acts of a contemplative habit, even though they are in the cog
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the contemplative life consists in that activity that a man puts before the others; this is why it has the notion of an end relative to other human activities, since the others are exercised for the sake of it. Now, just as reason’s inquiry progresses from the intellect’s simple gaze, since one starts the inquiry from principles that one holds in understanding, so too it terminates at the intellect’s certitude, when the conclusions discovered are traced back to their principles, wherein they have their certitude. And therefore the contemplative life consists principally in the activity of the intellect, and this very name “contemplation” indicates this, since it signifies a vision. Yet a contemplative uses the inquiry of reason so that he might come to the vision of contemplation, which he principally intends. And this inquiry, according to Bernard,Bernard, *De consideratione libri v, Bernardi opera,* vol. 3, bk. 2, para. 5, p. 414. is called “consideration.”***
+To the second question, it should be said that the contemplative life consists in that activity that a man puts before the others; this is why it has the notion of an end relative to other human activities, since the others are exercised for the sake of it. Now, just as reason’s inquiry progresses from the intellect’s simple gaze, since one starts the inquiry from principles that one holds in understanding, so too it terminates at the intellect’s certitude, when the conclusions discovered are traced back to their principles, wherein they have their certitude. And therefore the contemplative life consists principally in the activity of the intellect, and this very name “contemplation” indicates this, since it signifies a vision. Yet a contemplative uses the inquiry of reason so that he might come to the vision of contemplation, which he principally intends. And this inquiry, according to Bernard,Bernard, *De consideratione libri v, Bernardi opera,* vol. 3, bk. 2, para. 5, p. 414. is called “consideration.”  
 
 Reply Obj. 1: Insofar as he is contemplative, a man is in a way above man, for in the simple vison of the intellect a man is united with the higher substances, which are called “intelligences” or “angels.” This is like the way animals are united with men in their estimative power, which is the highest power in them, in virtue of which they do something like the works of reason.  
 
@@ -150,7 +152,7 @@ Reply Obj. 3: Richard does not intend to say that the contemplative life consist
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the contemplative life of the saints presupposes the love of the very thing contemplated, from which it proceeds. Whence, since the contemplative life consists in the activity that someone intends most, it must be most concerned with the contemplation of the beloved, and this is God. This is why it consists principally in the activity of the intellect concerned with God. Whence Gregory, in *On Ezekiel*, says that the contemplative life longs only for seeing its principle, God.***
+To the third question, it should be said that the contemplative life of the saints presupposes the love of the very thing contemplated, from which it proceeds. Whence, since the contemplative life consists in the activity that someone intends most, it must be most concerned with the contemplation of the beloved, and this is God. This is why it consists principally in the activity of the intellect concerned with God. Whence Gregory, in *On Ezekiel*, says that the contemplative life longs only for seeing its principle, God.  
 
 Nevertheless, the contemplative also considers other things inasmuch as they are ordered toward the contemplation of God, as toward an end—for example, created things, wherein the divine majesty and wisdom are admired; God’s blessings, which inflame our love of him; and our own sins, the washing away of which cleanses our hearts so that we can see God. This is also why the name “contemplation” signifies that principal act by which someone contemplates God in his very self, whereas “speculation” more names that act by which someone looks upon divine things within created things, as though in a looking glass (*speculum*).  
 
@@ -168,7 +170,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: *ST* II-II.180.2; 181.1; *Contra retrahentes*, ch. 7, ad 7; *Sent. Ethic.* X, lect. 12. It appears that the active life does not consist principally in things that are relative to others.***
+To the third we proceed thus.Parallels: *ST* II-II.180.2; 181.1; *Contra retrahentes*, ch. 7, ad 7; *Sent. Ethic.* X, lect. 12. It appears that the active life does not consist principally in things that are relative to others.  
 
 Obj. 1: For the active life is ordered to the contemplative insofar as it disposes a man for an act of contemplation. But through the virtues that order a man with respect to himself a man is most disposed to contemplation, like through chastity, as the Commentator says in the *Physics* 7.Averroes, *Commentary on the Physics*, bk. 7, text. 20. Therefore the active life consists chiefly in things that belong to a man with respect to himself.  
 
@@ -182,7 +184,7 @@ Furthermore, the active life is said to be fecund; this is why it is signified b
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that cognition in no way pertains to the active life.Parallels: *ST* II-II.181.2; *Sent. Ethic*. X, lect. 12. For just as the contemplative life relates to cognition, so does the active life relate to action. Therefore, by crisscrossing this proportion, as the contemplative life relates to action, so does the active life relate to cognition. But no action pertains to the contemplative life. Therefore no cognition pertains to the active life.***
+Obj. 1: Moreover, it appears that cognition in no way pertains to the active life.Parallels: *ST* II-II.181.2; *Sent. Ethic*. X, lect. 12. For just as the contemplative life relates to cognition, so does the active life relate to action. Therefore, by crisscrossing this proportion, as the contemplative life relates to action, so does the active life relate to cognition. But no action pertains to the contemplative life. Therefore no cognition pertains to the active life.  
 
 Obj. 2: Furthermore, the active life consists entirely in activities of the moral virtues, the knowledge about which confers little or nothing, as the Philosopher says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.2, 1103b28‒30. Therefore it appears that no cognition pertains to the active life.  
 
@@ -194,7 +196,7 @@ Furthermore, the Philosopher saysAristotle, *Nicomachean Ethics* 10.8, 1178a16. 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the active life cannot be together with the contemplative.Parallels: *ST* II-II.180.2; 181.1.ad 3; 182.3; *Contra retrahentes*, c. 7, ad 7. For the life of which we are speaking consists in what a man is most dedicated to. But it is impossible that a man apply his greatest dedication to two things. Therefore it is impossible that the active and contemplative life be together in a man.***
+Obj. 1: Moreover, it appears that the active life cannot be together with the contemplative.Parallels: *ST* II-II.180.2; 181.1.ad 3; 182.3; *Contra retrahentes*, c. 7, ad 7. For the life of which we are speaking consists in what a man is most dedicated to. But it is impossible that a man apply his greatest dedication to two things. Therefore it is impossible that the active and contemplative life be together in a man.  
 
 Obj. 2: Furthermore, the active life is signified by Martha, who is disturbed about many things, according to Luke 10:41. But a disturbance is opposed to the lack of occupation that contemplation requires. Therefore the active life is not together with the contemplative.  
 
@@ -206,7 +208,7 @@ Furthermore, the Blessed Virgin lived both lives, and this is why, according to 
 
 Response to Quaestiuncula 1  
 
-***I answer that the active life consists in all things that can be done, whether relative to oneself or relative to others, but it consists principally in things that are relative to others. For the good of the many, according to the Philosopher in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.1, 1094b9‒10. is more divine than the good of the one; this is also why he says in the *Ethics* 5Aristotle, *Nicomachean Ethics* 5.1, 1129b17. that justice, which is relative to others, is the most beautiful of the virtues. However, just as the contemplative life consists principally in the best thing that can be contemplated, so too the active life consists principally in the best thing that can be done.***
+I answer that the active life consists in all things that can be done, whether relative to oneself or relative to others, but it consists principally in things that are relative to others. For the good of the many, according to the Philosopher in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.1, 1094b9‒10. is more divine than the good of the one; this is also why he says in the *Ethics* 5Aristotle, *Nicomachean Ethics* 5.1, 1129b17. that justice, which is relative to others, is the most beautiful of the virtues. However, just as the contemplative life consists principally in the best thing that can be contemplated, so too the active life consists principally in the best thing that can be done.  
 
 Reply Obj. 1: Through things related to himself, as regards the contemplative life, a man disposes only himself, although through things related to others, a man disposes both himself and others—which is more divine.  
 
@@ -216,7 +218,7 @@ Reply Obj. 3: Teaching is of two sorts. Some teaching is ordered only to the cog
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that cognition is of two sorts. One is speculative, the end of which is the truth, according to the Philosopher in the *Metaphysics* 2.Aristotle, *Metaphysics* 2.1, 993b21. The other has its end in activity, which is the cause and rule of things that come from man.***
+To the second question, it should be said that cognition is of two sorts. One is speculative, the end of which is the truth, according to the Philosopher in the *Metaphysics* 2.Aristotle, *Metaphysics* 2.1, 993b21. The other has its end in activity, which is the cause and rule of things that come from man.  
 
 Now, some of the things that come from man are called “producable”; these are things that arise from a certain change of external matter, as happens in the works of a mechanical art. But some actions do not go out of a man to change external matter, but consist in the moderation of one’s own proper emotions and actions. Now, practical cognition directs one relative to both of these. Whence, not all practical cognition is found essentially in the active life, but only that which directs one’s actions in deeds of moral virtue. For this cognition is required for choice, wherein moral virtue principally consists.  
 
@@ -230,7 +232,7 @@ Reply Obj. 3: The past has already entered into the necessary, so a consideratio
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in all natural dispositions it happens that the disposition in its perfected existence attains that to which it disposes; it even was this in a certain inchoate way when the disposition was tending to the perfection, as is clear with fire’s heat and form. For when the heat is completed in the terminus of the alteration, the form of fire is brought forth, and the heat remains together with the form of the fire. But while the alteration was occurring the form of the fire was not yet present, except in a certain inchoate way.***
+To the third question, it should be said that in all natural dispositions it happens that the disposition in its perfected existence attains that to which it disposes; it even was this in a certain inchoate way when the disposition was tending to the perfection, as is clear with fire’s heat and form. For when the heat is completed in the terminus of the alteration, the form of fire is brought forth, and the heat remains together with the form of the fire. But while the alteration was occurring the form of the fire was not yet present, except in a certain inchoate way.  
 
 Now, the active life is the disposition to the contemplative life. This is why Isidore, in *On the Highest Good*, says that *he who progresses in the active life climbs quickly to contemplation*.Isidore of Seville, *Sententiae*, bk. 3, ch. 15 (CCSL 111:241; PL 83:690). And therefore as long as a man has not reached perfection in the active life, the contemplative life can be in him only imperfectly, in an inchoate way. For then a man is undergoing the difficulty within the acts of the moral virtues, and must focus all his solicitude on them; whence he is drawn back from a devotion to contemplation.  
 
@@ -248,7 +250,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallels: *ST* II-II.152.2; 182.1; 188.6; *SCG* III.63, 133; *De virtutibus*, a. 12, ad 24; *Sent. Ethic*. X, lect. 10‒12. It appears that the active life is nobler than the contemplative life.***
+To the fourth we proceed thus.Parallels: *ST* II-II.152.2; 182.1; 188.6; *SCG* III.63, 133; *De virtutibus*, a. 12, ad 24; *Sent. Ethic*. X, lect. 10‒12. It appears that the active life is nobler than the contemplative life.  
 
 Obj. 1: For Cicero, in *On Duties*,Cicero, *De officiis*, bk. 1, ch. 43, n. 154. manifests the preeminence of justice over the other virtues, since the acts of other virtues are interrupted for the sake of exercising its act. But likewise someone is called back from the leisure of contemplation so that he might produce fruit through the labor of action. Therefore the active life is of greater dignity than is the contemplative.  
 
@@ -264,7 +266,7 @@ Furthermore, to the degree that someone’s life is more like the heavenly life,
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the contemplative life is of even greater merit than the active life.Parallels: above, d. 30, a. 4, ad 2; *ST* II-II.182.2; *Quodl*. I, q. 7, a. 2; III, a. 3, ad 6. For Gregory says, in *Morals*, *the contemplative life is of greater merit than is the active, since the active labors in performing a present deed, whereas the contemplative already tastes the rest to come in its intimate flavor*.Gregory the Great, *Homiliae in Hiezechihelem prophetam*, bk. 1, hom. 3 (CCSL 142; PL 76:809).***
+Obj. 1: Moreover, it appears that the contemplative life is of even greater merit than the active life.Parallels: above, d. 30, a. 4, ad 2; *ST* II-II.182.2; *Quodl*. I, q. 7, a. 2; III, a. 3, ad 6. For Gregory says, in *Morals*, *the contemplative life is of greater merit than is the active, since the active labors in performing a present deed, whereas the contemplative already tastes the rest to come in its intimate flavor*.Gregory the Great, *Homiliae in Hiezechihelem prophetam*, bk. 1, hom. 3 (CCSL 142; PL 76:809).  
 
 Obj. 2: Furthermore, as was said above,Above, d. 30, a. 4. merit consists more in loving God than in loving neighbor. But in the contemplative life a man more focuses on loving God, whereas in the active life he more focuses on loving his neighbor. Therefore the contemplative life is of greater merit than is the active.  
 
@@ -276,7 +278,7 @@ Furthermore, merit is divided against reward. But the contemplative life has mor
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the contemplative life is not longer lasting than the active.Parallels: *ST* I-II.67.1.ad 2; 68.6.ad 3; II-II.181.4; *SCG* III.63; *De veritate*, q. 11, a. 4, ad 1. For the active life was perfected in Christ. But he himself was a perfect comprehensor. Therefore the active life will remain in heaven, and so is not shorter-lasting than the contemplative life.***
+Obj. 1: Moreover, it appears that the contemplative life is not longer lasting than the active.Parallels: *ST* I-II.67.1.ad 2; 68.6.ad 3; II-II.181.4; *SCG* III.63; *De veritate*, q. 11, a. 4, ad 1. For the active life was perfected in Christ. But he himself was a perfect comprehensor. Therefore the active life will remain in heaven, and so is not shorter-lasting than the contemplative life.  
 
 Obj. 2: Furthermore, men will be equal to the angels in heaven. But in the angels are found both lives, since some stand before [God], which pertains to contemplation, but some are his ministers, which pertains to action. Therefore both lives will also be found in men in heaven, so the same thing as before.  
 
@@ -288,7 +290,7 @@ Furthermore, the Philosopher says, in the *Ethics* 10,Aristotle, *Nicomachean Et
 
 Response to Quaestiuncula 1  
 
-***I answer that the notion of the good is of two sorts. For something is called “good” that should be desired for its own sake—and in this way the contemplative life is simply speaking better than the active, insofar as it is more like that life which we strain to reach through the active and contemplative lives. This is also why the contemplative life is the end of the active, and is closer to the ultimate end. But something is also called “good” as something that should be chosen for the sake of something else—and in this way the active life stands ahead of the contemplative. For the contemplative life is not ordered to something else within the one who has it, since eternal life is not but a consummation of the contemplative life available in a certain way within the present [life] through a contemplative life. This is why it is certain it would be ordered to something else only insofar as one man’s good is ordered to the good of the many—to which the active life is more closely related than the contemplative. Whence the active life, inasmuch as it is devoted to the well-being of one’s neighbors, is more useful than the contemplative. But the contemplative is of greater dignity, since dignity signifies a thing’s goodness as for its own sake, whereas utility signifies its goodness as for the sake of another. But an active life that is not ordered to another, but ordered only to itself, is neither of greater dignity nor of greater utility than is a contemplative life; indeed, it is compared to the contemplative as the useful to that for which it is useful.***
+I answer that the notion of the good is of two sorts. For something is called “good” that should be desired for its own sake—and in this way the contemplative life is simply speaking better than the active, insofar as it is more like that life which we strain to reach through the active and contemplative lives. This is also why the contemplative life is the end of the active, and is closer to the ultimate end. But something is also called “good” as something that should be chosen for the sake of something else—and in this way the active life stands ahead of the contemplative. For the contemplative life is not ordered to something else within the one who has it, since eternal life is not but a consummation of the contemplative life available in a certain way within the present [life] through a contemplative life. This is why it is certain it would be ordered to something else only insofar as one man’s good is ordered to the good of the many—to which the active life is more closely related than the contemplative. Whence the active life, inasmuch as it is devoted to the well-being of one’s neighbors, is more useful than the contemplative. But the contemplative is of greater dignity, since dignity signifies a thing’s goodness as for its own sake, whereas utility signifies its goodness as for the sake of another. But an active life that is not ordered to another, but ordered only to itself, is neither of greater dignity nor of greater utility than is a contemplative life; indeed, it is compared to the contemplative as the useful to that for which it is useful.  
 
 Reply Obj. 1: The contemplative life is interrupted on account of the active only for a time, not simply speaking—or else by reason of its utility, not by reason of its dignity.  
 
@@ -300,7 +302,7 @@ Reply Obj. 4: This should be understood to be by reason of its utility that aris
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that merit depends on the root of charity. Whence it sometimes happens that in the active life someone merits more than in the contemplative life, or vice versa, insofar as he has a greater or a lesser charity. Nevertheless, since it is being asked which of the two is of greater merit in its genus, this should be understood inasmuch as it pertains to the notion of the acts themselves, not with reference to the ones doing them.***
+To the second question, it should be said that merit depends on the root of charity. Whence it sometimes happens that in the active life someone merits more than in the contemplative life, or vice versa, insofar as he has a greater or a lesser charity. Nevertheless, since it is being asked which of the two is of greater merit in its genus, this should be understood inasmuch as it pertains to the notion of the acts themselves, not with reference to the ones doing them.  
 
 Therefore merit is of two sorts: namely, the merit of the forgiveness of fault, and the merit of the attainment of glory. As regards the first, the active life is said to be of greater merit than the contemplative, insofar as it is more laborious; whence it has more of the notion of making satisfaction. However, as regards the merit of the attainment of glory, in this way the contemplative life is of greater merit than the active life, with respect to its purity. For it does not mix as much with the dust of the earth as does the active life.  
 
@@ -314,7 +316,7 @@ Reply Obj. 3: The Philosopher is speaking of the contemplative life in compariso
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that just as it was said that the gifts and virtues that perfect one in the active life remain in heaven, but not as regards their same acts, something similar should be said of the active life itself. This is why the active life will not remain as regards those acts that it has now, by which it is disturbed about one’s neighbors’ needs and one’s own emotions. For then one will not longer be providing food to the hungry, as is added in the Gloss noted above. However, it will remain in heaven in its other acts, the ones that will belong to the virtues and the gifts.***
+To the third question, it should be said that just as it was said that the gifts and virtues that perfect one in the active life remain in heaven, but not as regards their same acts, something similar should be said of the active life itself. This is why the active life will not remain as regards those acts that it has now, by which it is disturbed about one’s neighbors’ needs and one’s own emotions. For then one will not longer be providing food to the hungry, as is added in the Gloss noted above. However, it will remain in heaven in its other acts, the ones that will belong to the virtues and the gifts.  
 
 However, the contemplative life is nonetheless longer lasting than the active life, because it remains even as regards the acts that it has on the path of this life—though the acts in the state of the path are imperfect, whereas in heaven they will be perfected. This is why Gregory, in *On Ezekiel*, says of the contemplative life that *even while we exert ourselves, we accomplish scarcely anything, or very little*.Gregory the Great, *Homiliae in Hiezechihelem prophetam*, bk. 2, hom. 2 (CCSL 142; PL 76:953).  
 
@@ -346,7 +348,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *ST* I.1.6.ad 3; II-II.45.1. It appears that wisdom is not a gift.***
+To the first we proceed thus.Parallels: *ST* I.1.6.ad 3; II-II.45.1. It appears that wisdom is not a gift.  
 
 Obj. 1: For in the text wisdom is called the “knowledge of divine things.”*Sent*. III, 35.1(132).3. But this appears to belong to faith, the object of which is the first truth. Therefore, since faith is not a gift but a virtue, it appears that neither is wisdom.  
 
@@ -360,7 +362,7 @@ Furthermore, gifts are higher than virtues. But among all the habits, wisdom app
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that wisdom is not only about divine things.Parallel: *ST* II-II.45.1.ad 2. For, as the Philosopher says in the *Metaphysics* 1,Aristotle, *Metaphysics* 1.2, 982a13; Aquinas, *In Metaph.*, bk. 1, lect. 2, n. 38. the wise man must be the most certain about all things. Therefore it is not concerned only with divine things.***
+Obj. 1: Moreover, it appears that wisdom is not only about divine things.Parallel: *ST* II-II.45.1.ad 2. For, as the Philosopher says in the *Metaphysics* 1,Aristotle, *Metaphysics* 1.2, 982a13; Aquinas, *In Metaph.*, bk. 1, lect. 2, n. 38. the wise man must be the most certain about all things. Therefore it is not concerned only with divine things.  
 
 Obj. 2: Furthermore, it pertains to the wise man to determine the mean in the moral virtues, as is clear by the Philosopher’s definition of virtue in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.6, 1106b37. But we cannot do anything about divine things. Therefore, since the mean of moral virtue concerns things that we can do something about, it appears that wisdom is not only about divine things.  
 
@@ -372,7 +374,7 @@ Furthermore, the Philosopher in the *Ethics* 6Aristotle, *Nicomachean Ethics* 6.
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that wisdom is not in the intellect, but more in the affection.Parallel: *ST* I.64.1; II-II.45.2, 3. For wisdom (*sapientia*) is like her own name, as is said in Sirach 6:22. But its name is derived from “flavor” (*sapore*). Therefore, since flavor pertains to taste, which is extended to affect—just as “vision” is extended to understanding—it appears that wisdom is in the affection.***
+Obj. 1: Moreover, it appears that wisdom is not in the intellect, but more in the affection.Parallel: *ST* I.64.1; II-II.45.2, 3. For wisdom (*sapientia*) is like her own name, as is said in Sirach 6:22. But its name is derived from “flavor” (*sapore*). Therefore, since flavor pertains to taste, which is extended to affect—just as “vision” is extended to understanding—it appears that wisdom is in the affection.  
 
 Obj. 2: Furthermore, the text says*Sent*. III, 35.1(132).4, quoting Augustine, *Enarrationes in Psalmos*, on Ps 135:9, para. 8 (CCSL 40; PL 37:1760). that wisdom is in the knowledge and love of what endures without change, which is God. But love pertains to one’s affection. Therefore wisdom is in one’s affection.  
 
@@ -384,7 +386,7 @@ Furthermore, every intellectual virtue is in the cognitive part of the soul. But
 
 Response to Quaestiuncula 1  
 
-***I answer that wisdom, according to the name’s usage, appears to indicate a certain full eminence in knowing, such that in its very self it holds a certainty about great and wondrous things that are unknown to others, and it is able to make a judgment about all things, because everyone judges well what he knows,Aristotle, *Nicomachean Ethics* 1.2, 1094b28. and also to order them by that eminence in knowing.***
+I answer that wisdom, according to the name’s usage, appears to indicate a certain full eminence in knowing, such that in its very self it holds a certainty about great and wondrous things that are unknown to others, and it is able to make a judgment about all things, because everyone judges well what he knows,Aristotle, *Nicomachean Ethics* 1.2, 1094b28. and also to order them by that eminence in knowing.  
 
 Now, in some this fullness from study and teaching, if joined to a liveliness of intellect, and this is the wisdom the Philosopher lays down as an intellectual virtue, in the *Ethics* 6.Aristotle, *Nicomachean Ethics* 6.6, 1141a5‒8. But in others this fullness occurs because of a certain kinship with divine things, as Dionysius saysPseudo-Dionysius, *On the Divine Names*, ch. 2, n. 9 (PG 3:647). of Hierotheus, who learned divine things by undergoing divine things. And about such men the Apostle says, *the spiritual man judges all things* (1 Cor 2:15), and *his anointing teaches you about everything* (1 John 2:27).  
 
@@ -396,7 +398,7 @@ Reply Obj. 3: There is an equivocation on “wisdom,” as was said.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that as has been said, it pertains to the wise man to judge and to order. Now, a judgment can be made about some things only through other things that are their law and rule. However, higher things must always be the rule of lower things, and therefore one must make a judgment about lower things through the higher. This is why, although one’s intention sometimes begins from the lower things and tends toward the higher, still the judgment is never perfected except through the higher things in which the lower are resolved. And therefore the wise man must be a knower of the highest things. Now, a thing is called “highest” in two ways. In one way it is “highest” simply speaking, because it is preeminent above all things; and in this way divine things are highest. Whence one who is called “wise” simply speaking must be instructed in divine things. But in the other way, a thing is called “highest” in a certain genus, and he who has been instructed about this is called “wise” not simply speaking, but in that genus. For example, among things made by art, the highest thing is using things according to that for the sake of which they are made; so one who has the utilizing art, which is called “architectonic,” is called the “wise man” among the individual artisans of that art.***
+To the second question, it should be said that as has been said, it pertains to the wise man to judge and to order. Now, a judgment can be made about some things only through other things that are their law and rule. However, higher things must always be the rule of lower things, and therefore one must make a judgment about lower things through the higher. This is why, although one’s intention sometimes begins from the lower things and tends toward the higher, still the judgment is never perfected except through the higher things in which the lower are resolved. And therefore the wise man must be a knower of the highest things. Now, a thing is called “highest” in two ways. In one way it is “highest” simply speaking, because it is preeminent above all things; and in this way divine things are highest. Whence one who is called “wise” simply speaking must be instructed in divine things. But in the other way, a thing is called “highest” in a certain genus, and he who has been instructed about this is called “wise” not simply speaking, but in that genus. For example, among things made by art, the highest thing is using things according to that for the sake of which they are made; so one who has the utilizing art, which is called “architectonic,” is called the “wise man” among the individual artisans of that art.  
 
 And in that way the man prudent in human matters, to which he gives commands, is called “wise.” And because by delights and other emotions the estimation of prudence becomes corrupted, as is said in the *Ethics* 6,Aristotle, *Nicomachean Ethics* 6.5, 1140b13‒15. this is why, according to SenecaSeneca, *Epistle* 59. and other moral philosophers, the name “wisdom” has been extended to temperance and the other moral virtues insofar as they restrain the emotions—and thereby preserve prudence. Whence they say that the wise man is imperturbable, and the like.  
 
@@ -406,7 +408,7 @@ Reply Obj. 1–3: And through this, the answers to the objections are clear.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that as was said, the gift of wisdom has an eminence of cognition through a certain union with divine things, to which we are not united except through love, so that one who adheres to God is one spirit with him (1 Cor 6:17). Whence too the Lord, in John 15:14, says that the secret things of the Father he had revealed to his disciples insofar as they were his friends. And therefore the gift of wisdom presupposes love as a principle, and in this way it is in the affection. But as regards its essence, it is in the cognition; this is why its act appears to be—both here and in the future—the contemplation of beloved divine things, and the judgment, through them, of other things, not only in speculative matters, but even in things to be done, wherein the judgment is drawn from their end. And this is why GregoryGregory the Great, *Moralia in Iob* (CCSL 143), bk. 2, para. 49, n. 77 (CCSL 143; PL 75:592). places wisdom in opposition to foolishness, which indicates an error about the intended end.***
+To the third question, it should be said that as was said, the gift of wisdom has an eminence of cognition through a certain union with divine things, to which we are not united except through love, so that one who adheres to God is one spirit with him (1 Cor 6:17). Whence too the Lord, in John 15:14, says that the secret things of the Father he had revealed to his disciples insofar as they were his friends. And therefore the gift of wisdom presupposes love as a principle, and in this way it is in the affection. But as regards its essence, it is in the cognition; this is why its act appears to be—both here and in the future—the contemplation of beloved divine things, and the judgment, through them, of other things, not only in speculative matters, but even in things to be done, wherein the judgment is drawn from their end. And this is why GregoryGregory the Great, *Moralia in Iob* (CCSL 143), bk. 2, para. 49, n. 77 (CCSL 143; PL 75:592). places wisdom in opposition to foolishness, which indicates an error about the intended end.  
 
 Reply Obj. 1: “Wisdom” indicates flavor in reference to the preceding love, not in reference to the subsequent cognition—unless by reason of the delight that accompanies the actual cognition itself. Or it can be said that the statement in Sirach is not understood in reference to the name’s likeness with “flavor”—since that likeness, although it is present in the Latin tongue, yet is not in other languages; but rather it is speaking in reference to what is being signified, which all men conceive in the name “wisdom” in any language.  
 
@@ -420,7 +422,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallel: *ST* II-II.8.1. It seems that understanding is not a gift.***
+To the second we proceed as follows.Parallel: *ST* II-II.8.1. It seems that understanding is not a gift.  
 
 Obj. 1: For no gift—the way we are now speaking of a “gift”—is in us by nature. But understanding is naturally planted in us. Therefore understanding is not a gift.  
 
@@ -434,7 +436,7 @@ Furthermore, the proper notion of the gifts, as was said before, is that through
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the gift of understanding does not have an act on the path of this life.Parallel: *ST* II-II.8.3. For “understanding” indicates a certain cognition without obscurity; this is why Isaac saysthat where understanding is obscure, reasoning arises.J. T. Muckle, "Isaac Israeli Liber de definicionibus," *Archives d'histoire doctrinale et littéraire du Moyen Age* 11 (1937‒38): 299–340. But it is impossible that, in the state of the path of this life, we might know without the obscurity of a phantasm, as the Philosopher shows in *On the Soul* 3.Aristotle, *On the Soul* 3.8, 432a8; Aquinas, *Sent. De anima*, bk. 3, lect. 13, n. 791. Therefore understanding has no act on the path.***
+Obj. 1: Moreover, it appears that the gift of understanding does not have an act on the path of this life.Parallel: *ST* II-II.8.3. For “understanding” indicates a certain cognition without obscurity; this is why Isaac saysthat where understanding is obscure, reasoning arises.J. T. Muckle, "Isaac Israeli Liber de definicionibus," *Archives d'histoire doctrinale et littéraire du Moyen Age* 11 (1937‒38): 299–340. But it is impossible that, in the state of the path of this life, we might know without the obscurity of a phantasm, as the Philosopher shows in *On the Soul* 3.Aristotle, *On the Soul* 3.8, 432a8; Aquinas, *Sent. De anima*, bk. 3, lect. 13, n. 791. Therefore understanding has no act on the path.  
 
 Obj. 2: Furthermore, Dionysius says, in the *Celestial Hierarchy*,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 1, para. 2 (PG 3:122). that it is impossible for us to illuminate a divine ray otherwise than if it be veiled by a variety of sacred veils. But wherever knowing occurs through such veils, they must be a gathered together, and this does not pertain to understanding but to reasoning. Therefore it is not possible for us on the state of the path to have an act of understanding.  
 
@@ -448,7 +450,7 @@ Furthermore, the sixth beatitude is traced back to the gift of understanding. Bu
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that understanding does not differ from wisdom.Parallels: *ST* I-II.68.4; II-II.8.6. For a whole is not essentially distinguished from its part. But understanding appears to be a whole relative to wisdom, which latter is only about God, while understanding is about God and created spirits. Therefore understanding does not differ essentially from wisdom.***
+Obj. 1: Moreover, it appears that understanding does not differ from wisdom.Parallels: *ST* I-II.68.4; II-II.8.6. For a whole is not essentially distinguished from its part. But understanding appears to be a whole relative to wisdom, which latter is only about God, while understanding is about God and created spirits. Therefore understanding does not differ essentially from wisdom.  
 
 Obj. 2: Furthermore, wisdom, as the Master says in the text,*Sent*. III, 35.3(134).1. experiences delight about divine things. But this same thing appears to pertain to understanding, for in the consideration of understanding there is the greatest delight, as the Philosopher says in the *Ethics* 10.Aristotle, *Nicomachean Ethics* 10.7, 1177a22‒27. Therefore understanding does not differ from wisdom.  
 
@@ -460,7 +462,7 @@ Furthermore, the gifts correspond to the virtues. But understanding and wisdom a
 
 Response to Quaestiuncula 1  
 
-***I answer that understanding, according to its name, indicates a cognition reaching to the intimate parts of a thing. Whence, although sensation and imagination are occupied with the accidents that are, as it where, surrounding a thing’s essence, understanding reaches its essence. This is why, according to the Philosopher,Aristotle, *On the Soul* 3.6, 430b28; Aquinas, *Sent. De anima*, bk. 3, lect. 11, n. 762. the object of understanding is what [a thing is].***
+I answer that understanding, according to its name, indicates a cognition reaching to the intimate parts of a thing. Whence, although sensation and imagination are occupied with the accidents that are, as it where, surrounding a thing’s essence, understanding reaches its essence. This is why, according to the Philosopher,Aristotle, *On the Soul* 3.6, 430b28; Aquinas, *Sent. De anima*, bk. 3, lect. 11, n. 762. the object of understanding is what [a thing is].  
 
 But in the apprehension of this essence there is a difference. For sometimes the essence itself is apprehended through its very self, [but] not such that the understanding enters it from the very things that are, as it were, involved in the essence itself; and this latter is the separated substances’ mode of understanding, which is why they are called “intelligences.” But sometimes the understanding reaches the intimate parts only through things surrounding it, as though through certain doorways; and this is the mode of apprehending found in men, which progresses from effects and properties toward the cognition of a thing’s essence. And in this some [mental] discourse must occur, which is why man’s apprehension is called “reason,” even though it ends in understanding, insofar as the inquiry leads one to the thing’s essence. Whence, if some things are immediately apprehended without the discourse of reasoning, we do not say that one reasons to these, but rather that he understands them—like the first principles, which someone immediately accepts when they are heard. Therefore in the first mode, “understanding” is a power, but taking it in the second mode, it is called the “habit of the principles.” However, just as the human mind does not get to the essence of a thing except through its accidents, so too it does not get to it in spiritual things except through bodily things, and the likenesses of sensible things, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 1 (PG 3:122) and *Ecclesiastical Hierarchy*, ch. 1, para. 2 (PG 3:374).  
 
@@ -470,7 +472,7 @@ Reply Obj. 1–3: And through this, the replies to the objections are clear.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that understanding approaches spiritual things in two ways: in one way, by way of removal, when it removes from spiritual things the path it finds in bodily things. In the other, insofar as it goes further, fixing its gaze on spiritual things themselves.***
+To the second question, it should be said that understanding approaches spiritual things in two ways: in one way, by way of removal, when it removes from spiritual things the path it finds in bodily things. In the other, insofar as it goes further, fixing its gaze on spiritual things themselves.  
 
 Therefore in the state of the path of this life, understanding approaches spiritual things in the first way, especially as regards divine things. For human cognition is perfected according to the state of the path in this: that we understand God as separated from all things, above all things, as Dionysius says in the *Mystical Theology*.Pseudo-Dionysius, *Mystical Theology*, cc. 4, 5 (PG 3:1039). And Moses attained this, who is said to have entered the cloud wherein God was, in Exodus 19:20. And on account of this also, in reference to the state of the path of this life, purity is associated with the sixth beatitude, which pertains to the purification of the understanding from all bodily things.  
 
@@ -486,7 +488,7 @@ Reply Obj. 4: Augustine is calling a “human weakness” the bodily phantasms, 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that “understanding” appears to name simple apprehension, whereas “wisdom” names a certain fullness of certitude for making judgments about the things apprehended. And therefore understanding appears to pertain to the path of discovery, but wisdom to the path of judgment. But judgment cannot be made of things apprehended except through the highest things, to which the wise man is united in his mind in such a way that he is, as it were, placed on a height so as to make judgments about all things; and this union to divine things happens through love. Therefore wisdom is principally about divine things, and has a delight about them caused by love. But understanding is indifferently about all spiritual things that have been apprehended, and does not indicate, in and of itself, the delight caused by the love of the things apprehended.***
+To the third question, it should be said that “understanding” appears to name simple apprehension, whereas “wisdom” names a certain fullness of certitude for making judgments about the things apprehended. And therefore understanding appears to pertain to the path of discovery, but wisdom to the path of judgment. But judgment cannot be made of things apprehended except through the highest things, to which the wise man is united in his mind in such a way that he is, as it were, placed on a height so as to make judgments about all things; and this union to divine things happens through love. Therefore wisdom is principally about divine things, and has a delight about them caused by love. But understanding is indifferently about all spiritual things that have been apprehended, and does not indicate, in and of itself, the delight caused by the love of the things apprehended.  
 
 Reply Obj. 1: Understanding and wisdom do not consider God in the same way—and therefore wisdom is not included in understanding—but in different ways, as was said in the body.  
 
@@ -500,7 +502,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallel: *ST* II-II.9.2. It appears that the gift of knowledge is not only about human things, but also about divine things.***
+To the third we proceed thus.Parallel: *ST* II-II.9.2. It appears that the gift of knowledge is not only about human things, but also about divine things.  
 
 Obj. 1: For Augustine says, in the text,*Sent*. III, 35.1(132).3, quoting Augustine, *On the Trinity*, bk. 14, ch. 1, n. 3 (CCSL 50A; PL 42:1037). that knowledge is a gift whereby the faith is defended and strengthened. But faith is about divine things. Therefore knowledge is about divine things.  
 
@@ -514,7 +516,7 @@ Furthermore, two habits are not needed for the same thing. But wisdom is ordered
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that knowledge is not only practical, but also speculative.Parallel: *ST* II-II.9.3. For to the degree that any cognition is higher, it extends to more things. But knowledge the gift is higher than the knowledge that is an intellectual virtue. Therefore, since the knowledge that is an intellectual virtue extends to both things that can be done and things that can be contemplated, it appears that much more so can the knowledge that is a gift.***
+Obj. 1: Moreover, it appears that knowledge is not only practical, but also speculative.Parallel: *ST* II-II.9.3. For to the degree that any cognition is higher, it extends to more things. But knowledge the gift is higher than the knowledge that is an intellectual virtue. Therefore, since the knowledge that is an intellectual virtue extends to both things that can be done and things that can be contemplated, it appears that much more so can the knowledge that is a gift.  
 
 Obj. 2: Furthermore, the Philosopher in the *Metaphysics* 1Aristotle, *Metaphysics* 1.2, 982a15; Aquinas, *In Metaph.*, bk. 1, lect. 2, n. 40. shows that speculative knowledge is nobler than practical knowledge, insofar as speculative matters are sought for themselves, unlike practical matters. But the knowledge that is a gift should be the highest knowledge. Therefore it is more speculative than practical.  
 
@@ -527,7 +529,7 @@ Furthermore, all say that knowledge the gift directs piety. But piety pertains t
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that there is no element of harmful curiosity in the knowledge of human things.Parallel: *ST* II-II.167.1. For to know bad things most of all appears to be bad. But the knowledge of bad things is good, otherwise it would not be present in God. Therefore in knowledge there can be any aspect of harmful curiosity.***
+Obj. 1: Moreover, it appears that there is no element of harmful curiosity in the knowledge of human things.Parallel: *ST* II-II.167.1. For to know bad things most of all appears to be bad. But the knowledge of bad things is good, otherwise it would not be present in God. Therefore in knowledge there can be any aspect of harmful curiosity.  
 
 Obj. 2: Furthermore, to the degree that someone approaches his perfection more, so much more is he praiseworthy. But man is perfected through the knowledge of anything, since it draws him from potency to act, as our intellect is in potency as regards all intelligible things, as is said in *On the Soul* 3.Aristotle, *On the Soul* 3.5, 430a14‒15; Aquinas, *Sent. De anima*, bk. 3, lect. 10, n. 728. Therefore there can be no sin in knowledge.  
 
@@ -539,7 +541,7 @@ Furthermore, spending time on useless things appears not to be possible without 
 
 Response to Quaestiuncula 1  
 
-***I answer that, of two things dividing something common, that which adds some excellence above the common notion takes its proper name from that added difference, whereas that which adds no difference of dignity retains the common name. This is clear in property and definition, for the essential property is called the “definition,” but a non-essential property is called by the common name “property.”***
+I answer that, of two things dividing something common, that which adds some excellence above the common notion takes its proper name from that added difference, whereas that which adds no difference of dignity retains the common name. This is clear in property and definition, for the essential property is called the “definition,” but a non-essential property is called by the common name “property.”  
 
 It is similar in this case. For every certain cognition of something, and especially if it is of something complex and possessed through a synthesis of reason, is called “knowledge.”Or "science." But one that is about the highest things, as the science that orders and judges the others, takes on a proper name, and is called “wisdom,” whereas the other sciences that are under it simply retain the name “science.” And taking “science” in this way, it is only about created things, whereas wisdom is about divine things, whether we are speaking about the intellectual virtues or about the gifts.  
 
@@ -549,7 +551,7 @@ Reply Obj. 2–3: These are clear from things said.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, just as it is in the body’s senses the sense related to being—namely, touch—is in all one’s members, but the senses related to well-being are in the heart alone, through which the other members are ruled, so is it the case with the gratuitous gifts that are given within the Church. For some are necessary for salvation, and these must be given to all Christ’s members—and of this sort are the ones that pertain to the grace that makes one pleasing,Or "sanctifying grace." such as the virtues and the gifts. But some are for the sake of well-being, such as the graces that are given gratuitously, such as the working of miracles and the like; these are not given to all Christ’s members, but only to those who need them to build up our faith.***
+To the second question, it should be said that, just as it is in the body’s senses the sense related to being—namely, touch—is in all one’s members, but the senses related to well-being are in the heart alone, through which the other members are ruled, so is it the case with the gratuitous gifts that are given within the Church. For some are necessary for salvation, and these must be given to all Christ’s members—and of this sort are the ones that pertain to the grace that makes one pleasing,Or "sanctifying grace." such as the virtues and the gifts. But some are for the sake of well-being, such as the graces that are given gratuitously, such as the working of miracles and the like; these are not given to all Christ’s members, but only to those who need them to build up our faith.  
 
 Therefore, since knowledge is a gift, and it is about created things, it is necessary that it belong to the notion of knowledge that it be only that cognition necessary for salvation. Now, the cognition of things as regards their natures and “whatnesses” is not necessary for salvation, but only the cognition of things that one ought to do or avoid. Also, contemplative knowledge itself does not pertain to the notion of the gift of knowledge, but practical knowledge alone does, by which a man conceives some certitude about things to be done, due to the presence of the Spirit. And in this it differs from prudence, which does not make its judgment with certainty, but more with an estimation about the things that are to be done. This is also why this gift holds its name from the certainty of its judgment. But the knowledge that is ordered to the defense of the faith pertains to a gratuitously given grace, of which 1 Corinthians 12:8 speaks: *to another [is given] the utterance of knowledge according to the same Spirit*; and this is not about a needed gift, but about the perfection of our faith. Whence Augustine says, in the text,*Sent*. III, 35.1(132).3, citing Augustine, *On the Trinity,* bk. 14, ch. 1, n. 3 (CCSL 50A; PL 42:1037). that many who have faith are not very strong in this knowledge.  
 
@@ -561,7 +563,7 @@ Reply Obj. 3: It is not unfitting for one power to be perfected by diverse habit
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that knowing, taken just in itself, is never bad, and consequently neither is learning, since that whose coming to be is bad is itself bad. But a sin can occur incidentally in knowing, or learning, or considering. However, this accident can arise either on the part of the knowable thing, or on the part of the one knowing it.***
+To the third question, it should be said that knowing, taken just in itself, is never bad, and consequently neither is learning, since that whose coming to be is bad is itself bad. But a sin can occur incidentally in knowing, or learning, or considering. However, this accident can arise either on the part of the knowable thing, or on the part of the one knowing it.  
 
 On the part of the knower there are two accidents. One when, on account of one’s devotion to some knowledge, one is impeded from performing a duty to which he is bound; for example, if a judge, because of his devotion to geometry, stops expediting cases, or a priest from hearing confessions when he is bound to hear them. Another is when, on account of the delight in some knowledge, one comes to have contempt for something for which one should have reverence; this is what happened to Jerome, because he was so delighted in the ornate words of Cicero that the uncultivated language of the prophets was foolish to him, as he himself says. This also happens to those who so adhere to human reasonings that they give up the faith and attack it.  
 
@@ -575,7 +577,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallel: *ST* II-II.52.1. It appears that counsel is not a gift.***
+To the fourth we proceed thus.Parallel: *ST* II-II.52.1. It appears that counsel is not a gift.  
 
 Obj. 1: For someone cannot have a gift from his very self. But everyone has counsel from himself, since counsel is an inquiry, as is said in the *Ethics* 3,Aristotle, *Nicomachean Ethics* 3.3, 1112b23. and anyone can make an inquiry. Therefore counsel is not a gift.  
 
@@ -589,7 +591,7 @@ Furthermore, the gifts correspond to virtues. But there is a virtue ordered to d
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that counsel the gift does not differ from the gift of knowledge.Parallels: *ST* II-II.52.2.ad 3. For knowledge is that whereby we conduct ourselves rightly in the midst of a depraved and perverse nation.See Phil 2:15. But this cannot occur without counsel. Therefore counsel is not distinct from knowledge.***
+Obj. 1: Moreover, it appears that counsel the gift does not differ from the gift of knowledge.Parallels: *ST* II-II.52.2.ad 3. For knowledge is that whereby we conduct ourselves rightly in the midst of a depraved and perverse nation.See Phil 2:15. But this cannot occur without counsel. Therefore counsel is not distinct from knowledge.  
 
 Obj. 2: Furthermore, in the gifts that pertain to activity, the same gift corresponds to all the virtues concerned with one matter, such as piety with all the virtues concerned with interactions. But prudence and good consideration concern one matter, since they are about reason’s act in things that can be done. Therefore, since knowledge corresponds to prudence, but counsel to good consideration, it appears that counsel and knowledge are one gift.  
 
@@ -601,7 +603,7 @@ Furthermore, just as in speculative concerns there is a path of discovery and ju
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that there will be no act of counsel in heaven.Parallel: *ST* II-II.52.3. For counsel, according to Gregory,Gregory the Great, *Moralia in Iob*, bk. 2, ch. 49 (CCSL 143; PL 75:592). fortifies the mind against premature action, and Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:939). that counsel is taken by one in doubt. But in heaven there will be neither premature action nor doubt. Therefore neither counsel.***
+Obj. 1: Moreover, it appears that there will be no act of counsel in heaven.Parallel: *ST* II-II.52.3. For counsel, according to Gregory,Gregory the Great, *Moralia in Iob*, bk. 2, ch. 49 (CCSL 143; PL 75:592). fortifies the mind against premature action, and Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:939). that counsel is taken by one in doubt. But in heaven there will be neither premature action nor doubt. Therefore neither counsel.  
 
 Obj. 2: Furthermore, counsel indicates inquiry and discursive thinking, as is clear from the Philosopher in the *Ethics* 3.Aristotle, *Nicomachean Ethics* 3.3, 1112b20‒1113a3. But in heaven, according to Augustine,Augustine, *On the Trinity* (CCSL 50A), bk. 15, ch. 16, ln. 26 our thoughts will not fly about; rather, we will use Godlike intellects, like those of the angels. Therefore in heaven there will be no act of counsel.  
 
@@ -613,7 +615,7 @@ Furthermore, the saints in heaven will be like God. But there is counsel in God:
 
 Response to Quaestincula 1  
 
-***I answer that, according to the Philosopher in the *Ethics* 3,Aristotle, *Nicomachean Ethics* 3.3, 1112a31; 1112b32. counselOr "deliberation." is an inquiry about things that we can do, but not about all such things. For one does not doubt or make an inquiry about how the things that have already been determined should be brought about, like the shapes of letters; and thus there is no counsel about them. So too, since the end is the moving principle at work in all things that can be done, one does not take counsel about the end, any more than, in the other sciences, one makes an inquiry about the science’s principles.***
+I answer that, according to the Philosopher in the *Ethics* 3,Aristotle, *Nicomachean Ethics* 3.3, 1112a31; 1112b32. counselOr "deliberation." is an inquiry about things that we can do, but not about all such things. For one does not doubt or make an inquiry about how the things that have already been determined should be brought about, like the shapes of letters; and thus there is no counsel about them. So too, since the end is the moving principle at work in all things that can be done, one does not take counsel about the end, any more than, in the other sciences, one makes an inquiry about the science’s principles.  
 
 But one does take counsel about things that are for the sake of the end. Now, in such things, someone deliberates rightly if he has pre-established the appropriate end, if he finds a means accommodated to the end, such that he does not do evil for the sake of good, and if the time is right for doing the things lest the time pass, due to too extended a deliberation. And good consideration is productive of this rectitude of counsel, as the Philosopher says in the *Ethics* 6.Aristotle, *Nicomachean Ethics* 6.9, 1142b16.  
 
@@ -627,7 +629,7 @@ Reply Obj. 3: According to the Philosopher in the *Ethics* 3,Aristotle, *Nicomac
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the habits that direct one in the active life are distinguished with respect to three things. First, with respect to their mode of operating; and in this way knowledge and counsel, which operate above the human mode, are distinguished from the virtues of prudence and good consideration, which operate in the human mode, as is clear from things that have been said. In another way, with respect to their acts, or the paths required for their direction, which are finding and making a judgment; and in this way counsel, which consists in finding, is distinguished from knowledge, which consists in making a judgment about the things found through counsel. In a third way, with respect to the mean; and in this way wisdom is distinguished from knowledge insofar as wisdom sometimes directs one in his actions through eternal notions, whereas knowledge does so through lower notions.***
+To the second question, it should be said that the habits that direct one in the active life are distinguished with respect to three things. First, with respect to their mode of operating; and in this way knowledge and counsel, which operate above the human mode, are distinguished from the virtues of prudence and good consideration, which operate in the human mode, as is clear from things that have been said. In another way, with respect to their acts, or the paths required for their direction, which are finding and making a judgment; and in this way counsel, which consists in finding, is distinguished from knowledge, which consists in making a judgment about the things found through counsel. In a third way, with respect to the mean; and in this way wisdom is distinguished from knowledge insofar as wisdom sometimes directs one in his actions through eternal notions, whereas knowledge does so through lower notions.  
 
 Reply Obj. 1: Two things are required for conducting ourselves well, as has been said, and therefore there must be two gifts.  
 
@@ -637,13 +639,13 @@ Reply Obj. 3: The judgment, which belongs to conscience, and the commanding of i
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that it was said, about the gifts for carrying things out in the active life, that their acts will remain [in heaven] according to the measure in which they had a mode that was above man in their acts, but not as regards their proper matter. For fortitude will endure no difficulty, as was said. It is the same with knowledge and counsel, since their acts will not remain in heaven, and neither will contingent doubtful things that can be done, the things about which we now make judgments and discoveries. This is why there need not be there any doubt or even discursive thought there. Rather, they will remain in that they will turn to the one from whom they had a certainty above the human mode in their judgment and discovery about these things, and their act of knowledge will be about the very one insofar as he is the rule in making judgment, and even their act of counsel will be about him insofar as he is the who illuminates them in discovery.***
+To the third question, it should be said that it was said, about the gifts for carrying things out in the active life, that their acts will remain [in heaven] according to the measure in which they had a mode that was above man in their acts, but not as regards their proper matter. For fortitude will endure no difficulty, as was said. It is the same with knowledge and counsel, since their acts will not remain in heaven, and neither will contingent doubtful things that can be done, the things about which we now make judgments and discoveries. This is why there need not be there any doubt or even discursive thought there. Rather, they will remain in that they will turn to the one from whom they had a certainty above the human mode in their judgment and discovery about these things, and their act of knowledge will be about the very one insofar as he is the rule in making judgment, and even their act of counsel will be about him insofar as he is the who illuminates them in discovery.  
 
 Reply Obj. 1–3: And through this, the solution to the objections is clear.  
 
 Exposition of the text  
 
-****That by which that most wholesome faith . . . is generated*.*Sent.* III, 35.1(132).3, quoting Augustine, *On the Trinity*, bk. 14, ch. 1, n. 3 (CCSL 50A; PL 42:1037). This should be understood in reference to the distinction of its articles, or in reference to the exhortation to faith, insofar as faith is from hearing—but not in reference to the habit of faith, which is from infusion.***
+*That by which that most wholesome faith . . . is generated*.*Sent.* III, 35.1(132).3, quoting Augustine, *On the Trinity*, bk. 14, ch. 1, n. 3 (CCSL 50A; PL 42:1037). This should be understood in reference to the distinction of its articles, or in reference to the exhortation to faith, insofar as faith is from hearing—but not in reference to the habit of faith, which is from infusion.  
 
 *But to abstain from evils is to walk cautiously 'in the middle of an evil nation.'**Sent*. III, 35.1(132).4, quoting Augustine, *Enarrationes in Psalmos*, on Ps 135, para. 8 (CCSL 40; PL 37:1760), also quoting Phil 2:15. This belongs to fear as carrying it out, but to knowledge as directive of it.  
 

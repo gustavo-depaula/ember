@@ -1,5 +1,7 @@
 # Proposition 23
 
+172. Omnis intelligentia divina scit res per hoc, quod ipsa est intelligentia, et regit eas per hoc, quod est divina.  
+
 > 173. Quod est, quia proprietas intelligentiae est scientia, et non est eius complementum et integritas, nisi ut sit sciens. Regens ergo est Deus, benedictus et sublimis, quoniam ipse replet res bonitatibus. Et intelligentia est primum creatum et est plus similis Deo sublimi, et propter illud regit res, quae sub ea sunt. Et sicut Deus, benedictus et excelsus, influit bonitatem super res, similiter intelligentia influit scientiam super res, quae sunt sub ea.
 
 > 174. Verumtamen, quamvis intelligentia regat res, quae sunt sub ea, tamen Deus, benedictus et sublimis, praecedit intelligentiam per regimen et regit res regimine sublimioris et altioris ordinis, quam sit regimen intelligentiae, quoniam est illud, quod dat intelligentiae regimen.

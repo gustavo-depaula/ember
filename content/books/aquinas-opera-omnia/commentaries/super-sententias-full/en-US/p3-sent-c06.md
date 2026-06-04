@@ -1,8 +1,10 @@
 # D. 5 - Conversion and fall of the angels
 
+***Conversion and fall of the angels***
+
 ***Division of the text***
 
-****After these matters, reflection requires that we enquire what they were like after being separated by their defection and conversion*.*Sent*. II, 5.1(20).1. Having shown the condition of the angels at their creation, here he shows how they differ from one another by turning away from or toward God: defection or conversion. This is divided into two parts.***
+*After these matters, reflection requires that we enquire what they were like after being separated by their defection and conversion*.*Sent*. II, 5.1(20).1. Having shown the condition of the angels at their creation, here he shows how they differ from one another by turning away from or toward God: defection or conversion. This is divided into two parts.  
 
 In the first, he considers the angels’ defection.  
 
@@ -54,7 +56,7 @@ Article 1
 
 ***Whether there can be sin in the angels***
 
-***To the first we proceed as follows.Parallel texts: *In II Sent*., d. 23, q. 1, a. 1; *ST* I.63.1; *SCG* III.108–110; *On Truth*, q. 24, a. 7; *On Evil*, q. 16, a. 2; *Commentary on Job*, ch. 4, lect. 3. It seems that there could not be sin in the angels.***
+To the first we proceed as follows.Parallel texts: *In II Sent*., d. 23, q. 1, a. 1; *ST* I.63.1; *SCG* III.108–110; *On Truth*, q. 24, a. 7; *On Evil*, q. 16, a. 2; *Commentary on Job*, ch. 4, lect. 3. It seems that there could not be sin in the angels.  
 
 Obj. 1: For as it says in the *Metaphysics* 9,Aristotle, *Metaphysics* 9.9, 1051a20. Mandonnet cites ch. 10, but this seems to be an error. in those things that are always in act, there cannot be evil. Hence Avicenna says that there is no evil above the sphere of the moon. But there is still less potentiality in an angel than in a heavenly body. Therefore, there is no way that sin can be in the angels.  
 
@@ -88,7 +90,7 @@ Article 2
 
 ***Whether the wicked angel desired equality with God***
 
-***To the second we proceed as follows.Parallel texts: *In II Sent*., d. 22, q. 1, a. 2; *ST* I.63.3; II-II.163.2; *SCG* III.109; *On Evil*, q. 16, a. 3. It seems that the angel did not desire equality with God.***
+To the second we proceed as follows.Parallel texts: *In II Sent*., d. 22, q. 1, a. 2; *ST* I.63.3; II-II.163.2; *SCG* III.109; *On Evil*, q. 16, a. 3. It seems that the angel did not desire equality with God.  
 
 Obj. 1: For, as Augustine says,Augustine, *On the Literal Interpretation of Genesis*, bk. 11, ch. 42 (CSEL 28.1:375; PL 34:452). speaking of Adam, we must not believe that a man endowed with a spiritual mind willed to be like God. But the angel was much wiser than a man. Therefore, it seems that it did not desire equality with God.  
 
@@ -122,7 +124,7 @@ Article 3
 
 ***Whether the first sin of the angel was pride***
 
-***To the third we proceed as follows.Parallel texts: *In II Sent*., d. 22, q. 1, a. 1; d. 43, q. 1, a. 6; *ST* I.63.2; *SCG* III.109; *On Evil*, q. 16, a. 2, ad 4. It seems that the first sin of the angel was not in the genus of pride, but rather another.***
+To the third we proceed as follows.Parallel texts: *In II Sent*., d. 22, q. 1, a. 1; d. 43, q. 1, a. 6; *ST* I.63.2; *SCG* III.109; *On Evil*, q. 16, a. 2, ad 4. It seems that the first sin of the angel was not in the genus of pride, but rather another.  
 
 Obj. 1: For as it is said *the root of all evils is cupidity* (1 Tim 6:10) or *avarice*. But the sin of the angel was as though the root of all sins. Therefore, its sin was that of cupidity or avarice.  
 
@@ -154,7 +156,7 @@ Question 2
 
 ***The conversion of the good angels***
 
-***Regarding the second main topic, we inquire concerning the conversionNote that *conversio*, in light of its etymology, can be translated as “turning toward”; however, it need not suggest that one was initially in sin or had turned away from God. of the good angels, and two questions arise:***
+Regarding the second main topic, we inquire concerning the conversionNote that *conversio*, in light of its etymology, can be translated as “turning toward”; however, it need not suggest that one was initially in sin or had turned away from God. of the good angels, and two questions arise:  
 
 first, whether there was a grace applied to them for their conversion;  
 
@@ -164,7 +166,7 @@ Article 1
 
 ***Whether the angels needed grace to be converted to God***
 
-***To the first we proceed as follows.Parallel text: *ST* I.62.2. It seems that they did not need the application of a grace to be converted to God.***
+To the first we proceed as follows.Parallel text: *ST* I.62.2. It seems that they did not need the application of a grace to be converted to God.  
 
 Obj. 1: For it pertains to the freedom of free will that it can be turned to either side, and particularly to the good. But the angels in the state of creation had free will not weakened by any sin. Therefore, they did not need grace to be turned to the good.  
 
@@ -200,7 +202,7 @@ Article 2
 
 ***Whether the angels merited their beatitude***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.62.4; *Quodl*. IX, q. 4, a. 3. It seems that the angels did not merit their beatitude.***
+To the second we proceed as follows.Parallel texts: *ST* I.62.4; *Quodl*. IX, q. 4, a. 3. It seems that the angels did not merit their beatitude.  
 
 Obj. 1: For merit precedes reward as a path precedes its end point. But in the angels there could not have been merit, since before beatitude they did not have grace, which is the root of meriting, at least if they were not created in grace. Therefore, it seems that they did not merit their beatitude.  
 
@@ -232,7 +234,7 @@ Reply Obj. 4: The angels’ acts of ministry have efficacy for meriting by reaso
 
 Exposition of the text  
 
-****To turn away meant to hold God in hate or to envy him*.*Sent*. II, 5.1(20).1. This also seems to be impossible. For just as nothing is loved except the good or something under the aspect of good, so also nothing is hated except under the aspect of evil. But in God there is no aspect of evil. Therefore he cannot be hated. But on the contrary, it is said: *the pride of them that hate you ascends continually* (Ps 74 [73]:23).***
+*To turn away meant to hold God in hate or to envy him*.*Sent*. II, 5.1(20).1. This also seems to be impossible. For just as nothing is loved except the good or something under the aspect of good, so also nothing is hated except under the aspect of evil. But in God there is no aspect of evil. Therefore he cannot be hated. But on the contrary, it is said: *the pride of them that hate you ascends continually* (Ps 74 [73]:23).  
 
 To this we must say that no one can hate God himself as he is, but rather under the aspect of some effect of his that is contrary to the will inasmuch as it punishes or forbids or something of this sort; as, for example, light in itself cannot be hated by the eye, but it can be hated inasmuch is it blinds an infirm eye.  
 

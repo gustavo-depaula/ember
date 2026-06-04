@@ -1,5 +1,7 @@
 # Evening Collation
 
+We continue with the progress of St. Martin to happiness, where it says [in the Psalm]: ***he has set his heart on ascending*** (Ps 83:6). Whoever wants to ascend to some high state must ascend little by little. Because St. Martin realized that he ought to ascend from the low state of misery to a high state, he prepared for himself the upward steps towards happiness. Well, in regard to St. Martin, we can consider a threefold ascent.  
+
 The first is by means of the sacrament of regeneration;  
 
 the second is according to the state;  

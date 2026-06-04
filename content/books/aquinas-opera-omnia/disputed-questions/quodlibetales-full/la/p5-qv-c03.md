@@ -1,5 +1,7 @@
 # On Men
 
+***De ea quae possunt omnibus esse communia***
+
 ***Quaestio 5***
 
 ***De his quae pertinent ad naturam***
@@ -32,7 +34,7 @@ Articulus 1
 
 ***Quantum ad personas***
 
-***Ad primum sic proceditur. Videtur quod, si Adam non peccasset, non idem homines salvarentur qui nunc salvantur.***
+Ad primum sic proceditur. Videtur quod, si Adam non peccasset, non idem homines salvarentur qui nunc salvantur.  
 
 Si enim Adam non peccasset, soli electi nascerentur; ergo non fuissent nati illi peccatores qui finaliter sunt reprobati, et per consequens nec eorum filii, quia, si non sunt idem parentes, consequens est neque filios esse eosdem; multi autem nunc salvantur etiam ex reprobis parentibus nati; ergo, si Adam non peccasset, non idem salvarentur qui nunc salvantur.  
 
@@ -56,7 +58,7 @@ Articulus 2
 
 ***Quantum ad intellectum***
 
-***Ad secundum sic proceditur. Videtur quod verbum cordis sit species intelligibilis.***
+Ad secundum sic proceditur. Videtur quod verbum cordis sit species intelligibilis.  
 
 Verbum enim cordis est quo intellectus videt; hoc autem est species intelligibilis; ergo verbum cordis est species intelligibilis.  
 
@@ -76,7 +78,7 @@ Articulus 3
 
 ***Quantum ad voluntatem***
 
-***Ad tertium sic proceditur. Videtur quod ea quae fiunt ex timore non sint voluntaria.***
+Ad tertium sic proceditur. Videtur quod ea quae fiunt ex timore non sint voluntaria.  
 
 Necessitas enim voluntati contrariatur, ut dicitur in V *Metaphysicae*; sed quae fiunt ex timore, dicuntur ex necessitate fieri; non ergo sunt voluntaria.  
 
@@ -112,7 +114,7 @@ Articulus 1
 
 ***Utrum forma panis adnihiletur***
 
-***Ad primum sic proceditur. Videtur quod forma panis in sacramento eucharistiae adnihiletur.***
+Ad primum sic proceditur. Videtur quod forma panis in sacramento eucharistiae adnihiletur.  
 
 Illud enim adnihilari videtur quod desinit esse et in nihil convertitur; sed forma panis, facta consecratione, desinit esse, nec est dare in quid convertatur; non enim convertitur in materiam corporis Christi, nec etiam in formam eius, quae est anima, alioquin anima esset ibi ex vi sacramenti; ergo forma panis adnihilatur.  
 
@@ -128,9 +130,9 @@ Ad secundum dicendum quod perire diceretur natura humana si converteretur in Ver
 
 Articulus 2  
 
-***Utrum sacerdos dare debeat hostiam non consecratam peccatori occulto, hoc petenti***
+Utrum sacerdos dare debeat hostiam non consecratam peccatori occulto, hoc petenti  
 
-***Ad secundum sic proceditur. Videtur quod sacerdos non debeat dare hostiam non consecratam peccatori occulto, hoc petenti.***
+Ad secundum sic proceditur. Videtur quod sacerdos non debeat dare hostiam non consecratam peccatori occulto, hoc petenti.  
 
 Non enim debet sacerdos peccatum occultum publicare; publicaret autem, si ei daret hostiam non consecratam, cum aliis sociis daret consecratam; ergo sacerdos non debet dare hostiam non consecratam peccatori occulto, hoc petenti.  
 
@@ -162,9 +164,9 @@ secundo, utrum in meliori statu moriatur ille qui moritur in via eundi ultra mar
 
 Articulus 1  
 
-***Utrum prelatus debeat subditum suum ab administratione removere propter aliquid quod ab eo in confessione audivit***
+Utrum prelatus debeat subditum suum ab administratione removere propter aliquid quod ab eo in confessione audivit  
 
-***Ad primum sic proceditur. Videtur quod praelatus possit subditum suum ab administratione removere propter aliquid quod ab eo in confessione audivit.***
+Ad primum sic proceditur. Videtur quod praelatus possit subditum suum ab administratione removere propter aliquid quod ab eo in confessione audivit.  
 
 Quia quod institutum est *pro caritate, contra caritatem* non militat; sed sigillum confessionis institutum est pro caritate; non ergo militat contra caritatem, ex qua tenetur praelatus saluti subditorum providere. Est autem quandoque contra salutem subditi, si ei administratio dimittatur, ut puta si habeat occasionem recidivandi in peccatum. Ergo, non obstante sigillo confessionis, praelatus debet eum ab administratione removere.  
 
@@ -182,9 +184,9 @@ Et per hoc patet responsio ad obiecta.
 
 Articulus 2  
 
-***Utrum in meliori statu moriatur ille qui moritur in via eundi ultra mare quam ille qui moritur in redeundo***
+Utrum in meliori statu moriatur ille qui moritur in via eundi ultra mare quam ille qui moritur in redeundo  
 
-***Ad secundum sic proceditur. Videtur quod melius moriatur cruce signatus qui moritur in via eundi ultra mare quam ille qui moritur redeundo.***
+Ad secundum sic proceditur. Videtur quod melius moriatur cruce signatus qui moritur in via eundi ultra mare quam ille qui moritur redeundo.  
 
 Qui enim moritur eundo est quasi prosequendo votum suum ut se exponat morti pro Christo, et ita moritur tanquam martyr; qui autem moritur redeundo non moritur in proposito exponendi se pro Christo, et ita moritur quasi confessor; sed maior est status martyrum quam confessorum; ergo in meliori statu moritur qui moritur in eundo quam qui moritur in redeundo.  
 
@@ -206,9 +208,9 @@ secundo, si vir accuset uxorem de adulterio occulto, utrum mulier teneatur in iu
 
 Articulus 1  
 
-***Si aliquis despondeat aliquam per verba de futuro et postea eam carnaliter cognoscat, non quidem quasi consentiens in matrimonium, sed solummodo volens fraudulenter subripere copulam carnalem, si postmodum contrahat cum alia per verba de praesenti, utrum secunda sit uxor eius***
+Si aliquis despondeat aliquam per verba de futuro et postea eam carnaliter cognoscat, non quidem quasi consentiens in matrimonium, sed solummodo volens fraudulenter subripere copulam carnalem, si postmodum contrahat cum alia per verba de praesenti, utrum secunda sit uxor eius  
 
-***Ad primum sic proceditur. Videtur quod ille qui cognovit carnaliter mulierem quam desponderat per verba de futuro, non possit habere uxorem illam cum qua postea contrahit per verba de praesenti.***
+Ad primum sic proceditur. Videtur quod ille qui cognovit carnaliter mulierem quam desponderat per verba de futuro, non possit habere uxorem illam cum qua postea contrahit per verba de praesenti.  
 
 Iudicio enim Ecclesiae compellitur stare cum prima quam carnaliter cognovit; sed Ecclesia potest facere personas illegitimas ad contrahendum; ergo videtur quod talis non possit cum alia muliere contrahere matrimonium, et ita illa cum qua secundo contraxit per verba de praesenti, non erit uxor sua.  
 
@@ -228,9 +230,9 @@ Tertio modo se habet per modum statuentis, quod fit solum auctoritate summi pont
 
 Articulus 2  
 
-***Si vir accuset uxorem de adulterio occulto, utrum mulier teneatur in iudicio suum peccatum confiteri***
+Si vir accuset uxorem de adulterio occulto, utrum mulier teneatur in iudicio suum peccatum confiteri  
 
-***Ad secundum sic proceditur. Videtur quod mulier accusata de adulterio non teneatur suum peccatum in iudicio confiteri.***
+Ad secundum sic proceditur. Videtur quod mulier accusata de adulterio non teneatur suum peccatum in iudicio confiteri.  
 
 Nullus enim tenetur suum peccatum occultum publicare; sed adulterium mulieris ponitur esse occultum, si autem in iudicio confiteretur ipsum, veniret in publicum; non igitur tenetur mulier accusata de adulterio suum peccatum in iudicio confiteri.  
 
@@ -254,7 +256,7 @@ Articulus 1
 
 ***Circa iustitiam***
 
-***Ad primum sic proceditur. Videtur quod ille qui pecuniam accepit mutuo ut redimeret se a latronibus, non teneatur eam restituere.***
+Ad primum sic proceditur. Videtur quod ille qui pecuniam accepit mutuo ut redimeret se a latronibus, non teneatur eam restituere.  
 
 Quia, ut Augustinus dicit, *tempore necessitatis sunt omnia communia*; sed nullus debet quasi *proprium* petere id *quod est commune*, ut Ambrosius dicit, et habetur in *Decretis*, d. XLVII; cum ergo ille qui in latrones incidit fuerit in maxima necessitate constitutus, utpote in periculo mortis existens, videtur quod factum sit sibi commune id quod erat alterius et ita non teneatur ei restituere qui mutuavit, ac si esset proprium eius.  
 
@@ -272,7 +274,7 @@ Articulus 2
 
 ***Circa abstinentiam***
 
-***Ad secundum sic proceditur. Videtur quod homo non possit peccare nimis ieiunando vel vigilando.***
+Ad secundum sic proceditur. Videtur quod homo non possit peccare nimis ieiunando vel vigilando.  
 
 Deus enim non potest nimis ab homine diligi; sed *probatio dilectionis est exhibitio operis*, ut Gregorius dicit in homelia quadam; ergo videtur quod non possit aliquis peccare nimis ieiunando vel vigilando propter Deum.  
 
@@ -300,7 +302,7 @@ Articulus 1
 
 ***Utrum precepta ordine nature precedant consilia***
 
-***Ad primum sic proceditur. Videtur quod praecepta ordine nature praecedant consilia.***
+Ad primum sic proceditur. Videtur quod praecepta ordine nature praecedant consilia.  
 
 Illud enim est prius ordine naturae ad quod natura primo instigat; sed praecepta sunt de primo instinctu naturae, quia sunt de dictamine rationis naturalis, non autem consilia; ergo praecepta sunt priora ordine naturae quam consilia.  
 
@@ -330,9 +332,9 @@ Et per hoc patet responsio ad obiecta.
 
 Articulus 2  
 
-***Utrum peccata quae fiunt contra precepta secundae tabulae sint graviora peccatis quae fiunt contra precepta primae tabulae***
+Utrum peccata quae fiunt contra precepta secundae tabulae sint graviora peccatis quae fiunt contra precepta primae tabulae  
 
-***Ad secundum sic proceditur. Videtur quod peccata quae sunt contra praecepta secundae tabulae sint graviora peccatis quae sunt contra praecepta primae tabulae.***
+Ad secundum sic proceditur. Videtur quod peccata quae sunt contra praecepta secundae tabulae sint graviora peccatis quae sunt contra praecepta primae tabulae.  
 
 Peccatum enim contra praecepta secundae tabulae est, contempto bono incommutabili, commutabili bono adherere, sicut patet in furto et adulterio et aliis huiusmodi; sed contemptus incommutabilis boni est peccatum contra praecepta primae tabulae, quibus ordinamur ad exhibendam reverentiam Deo; ergo peccata quae sunt contra praecepta secundae tabulae includunt peccata quae sunt contra praecepta primae tabulae, et aliquid addunt; ergo sunt graviora.  
 
@@ -352,7 +354,7 @@ Quantum ad ea quae pertinent ad quosdam hominum status
 
 ***Ad praelatos***
 
-***Deinde quaesitum est de his quae pertinent specialiter ad quosdam hominum status;***
+Deinde quaesitum est de his quae pertinent specialiter ad quosdam hominum status;  
 
 et primo de his quae pertinent ad praelatos;  
 
@@ -372,9 +374,9 @@ tertio, utrum praelatus qui dat beneficium ecclesiasticum alicui suo consanguine
 
 Articulus 1  
 
-***Utrum beatus Matthaeus vocatus sit statim de theloneo ad statum apostolatus et perfectionis***
+Utrum beatus Matthaeus vocatus sit statim de theloneo ad statum apostolatus et perfectionis  
 
-***Ad primum sic proceditur. Videtur quod beatus Matthaeus non fuerit vocatus statim de theloneo ad statum apostolatus et perfectionis.***
+Ad primum sic proceditur. Videtur quod beatus Matthaeus non fuerit vocatus statim de theloneo ad statum apostolatus et perfectionis.  
 
 Dicit enim Gregorius super Ezechielem: *nemo repente fit summus*; sed status apostolatus et perfectionis evangelicae est summus status humanae vitae; ergo Matthaeus non fuit statim vocatus ad statum perfectionis et apostolatus.  
 
@@ -398,9 +400,9 @@ Alio modo potest accipi summum secundum comparationem graduum quibus proficit pe
 
 Articulus 2  
 
-***Utrum ille qui eligitur canonice in episcopum melius faciat consentiendo electioni de se factae vel eam recusando***
+Utrum ille qui eligitur canonice in episcopum melius faciat consentiendo electioni de se factae vel eam recusando  
 
-***Ad secundum sic proceditur. Videtur quod melius faciat qui consentit electioni canonice de se factae quam qui eam recusat.***
+Ad secundum sic proceditur. Videtur quod melius faciat qui consentit electioni canonice de se factae quam qui eam recusat.  
 
 Dicit enim Gregorius, XXII *Moralium*: *potestas cum percipitur non ex libidine, amanda est*; sed quando aliquis per canonicam electionem episcopalem dignitatem adipiscitur, non percipit eam ex libidine; ergo debet eam amare; non ergo debet eam recusare.  
 
@@ -418,9 +420,9 @@ Ad secundum dicendum quod melior est intentio praelationem fugientium secundum p
 
 Articulus 3  
 
-***Utrum praelatus qui dat beneficium ecclesiasticum alicui suo consanguineo sperans per hoc suum genus exaltari et ditari, commitat symoniam***
+Utrum praelatus qui dat beneficium ecclesiasticum alicui suo consanguineo sperans per hoc suum genus exaltari et ditari, commitat symoniam  
 
-***Ad tertium sic proceditur. Videtur quod praelatus qui dat beneficium ecclesiasticum alicui suo consanguineo vel amico, ut alii eius consanguinei exaltentur, symoniam committat.***
+Ad tertium sic proceditur. Videtur quod praelatus qui dat beneficium ecclesiasticum alicui suo consanguineo vel amico, ut alii eius consanguinei exaltentur, symoniam committat.  
 
 Est enim symonia *studiosa voluntas emendi vel vendendi aliquid spirituale aut spirituali annexum*; sed in casu praedicto videtur esse emptio vel venditio rei spiritualis, quia in his potest esse emptio et venditio in quibus est liberalitas, hic autem hoc speratur ut liberaliter recompenset; ergo est ibi symonia.  
 
@@ -442,9 +444,9 @@ secundo, utrum, si ex doctrina alicuius doctoris aliqui revocentur a meliori bon
 
 Articulus 1  
 
-***Si doctor semper praedicavit aut docuit principaliter propter inanem gloriam, utrum habeat aureolam, si in morte poeniteat***
+Si doctor semper praedicavit aut docuit principaliter propter inanem gloriam, utrum habeat aureolam, si in morte poeniteat  
 
-***Ad primum sic proceditur. Videtur quod ille qui semper propter inanem gloriam docuit, per poenitentiam aureolam recuperet.***
+Ad primum sic proceditur. Videtur quod ille qui semper propter inanem gloriam docuit, per poenitentiam aureolam recuperet.  
 
 Aureola enim doctrinae debetur fructui, scilicet conversioni fidelium, secundum illud Philippensium IV: *gaudium meum et corona mea*; sed potuit contingere quod ex praedicatione eius qui propter inanem gloriam principaliter praedicavit, secutus est fructus conversionis fidelium; ergo, si poeniteat, debetur ei aureola.  
 
@@ -460,9 +462,9 @@ Ad secundum dicendum quod aureola virginitatis debetur integritati carnis, quae 
 
 Articulus 2  
 
-***Utrum, si ex doctrina alicuius doctoris aliqui revocentur a meliori bono, utrum ille doctor teneatur illam doctrinam revocare***
+Utrum, si ex doctrina alicuius doctoris aliqui revocentur a meliori bono, utrum ille doctor teneatur illam doctrinam revocare  
 
-***Ad secundum sic proceditur. Videtur quod, si per doctrinam alicuius aliqui retrahantur a meliori bono, quod ille teneatur suam doctrinam revocare.***
+Ad secundum sic proceditur. Videtur quod, si per doctrinam alicuius aliqui retrahantur a meliori bono, quod ille teneatur suam doctrinam revocare.  
 
 Talis enim doctor in sua doctrina facit scandalum activum, quia doctor informat intellectum, intellectus autem informat affectum et per consequens actum; sed scandalum activum tenetur quilibet removere; ergo talis doctor tenetur suam doctrinam revocare.  
 
@@ -500,7 +502,7 @@ Articulus 1
 
 ***Utrum religiosi teneantur patienter tolerare iniurias sibi factas***
 
-***Ad primum sic proceditur. Videtur quod religiosi non debeant tolerare suos impugnatores.***
+Ad primum sic proceditur. Videtur quod religiosi non debeant tolerare suos impugnatores.  
 
 In impugnatione enim perfectorum virorum Deus impugnatur, unde Dominus Saulo persequenti discipulos Christi dixit, Actuum IX: *Saule, Saule, quid me persequeris?* Sed perfecti viri non debent impugnatores Dei tolerare; ergo neque impugnationes proprias.  
 
@@ -518,9 +520,9 @@ Et per hoc patet responsio ad obiecta.
 
 Articulus 2  
 
-***Utrum ille qui iurat se non intraturum religionem possit licite religionem intrare***
+Utrum ille qui iurat se non intraturum religionem possit licite religionem intrare  
 
-***Ad secundum sic proceditur. Videtur quod ille qui iuravit se non intraturum religionem, non possit licite intrare.***
+Ad secundum sic proceditur. Videtur quod ille qui iuravit se non intraturum religionem, non possit licite intrare.  
 
 Omnis enim obligatio licita est adimplenda; sed licitum erat isti non intrare religionem; ergo cum ad hoc se iuramento obligaverit, videtur quod teneatur non intrare.  
 
@@ -536,9 +538,9 @@ Quaestio 14
 
 ***Articulus unicus***
 
-***Utrum scilicet liceat clerico qui tenetur ad horas canonicas, dicere matutinas sequentis diei de sero***
+Utrum scilicet liceat clerico qui tenetur ad horas canonicas, dicere matutinas sequentis diei de sero  
 
-***Deinde circa clericos quaesitum est unum, utrum scilicet liceat clerico qui tenetur ad horas canonicas, dicere matutinas sequentis diei de sero. Et videtur quod non.***
+Deinde circa clericos quaesitum est unum, utrum scilicet liceat clerico qui tenetur ad horas canonicas, dicere matutinas sequentis diei de sero. Et videtur quod non.  
 
 Dicitur enim Ecclesiastici XXI: *lascivus et inprudens non* servabit *tempus*; sed iste in dicendo Matutinas non observat tempus: cum enim dies incipiat a media nocte, videtur quod Matutinas sequentis diei dicat in die praecedenti; ergo videtur hoc ad lasciviam et inprudentiam pertinere et ita videtur esse peccatum.  
 

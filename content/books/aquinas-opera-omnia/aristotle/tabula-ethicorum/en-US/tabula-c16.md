@@ -1,14 +1,16 @@
 # Chapter 16
 
+***Term 1***
+
 ***Speusippus***
 
-***Speusippus seems to follow more after than Pythagoreans than Plato in his view of mathematical principles.***
+Speusippus seems to follow more after than Pythagoreans than Plato in his view of mathematical principles.  
 
 Term 2  
 
 ***Science***
 
-***All sciences seek after some good, but while endeavoring to supply what they lack in the particular, they leave out the universal good. Such an approach, however, to set aside all other tools of knowing and not to use their knowledge, is not rational.***
+All sciences seek after some good, but while endeavoring to supply what they lack in the particular, they leave out the universal good. Such an approach, however, to set aside all other tools of knowing and not to use their knowledge, is not rational.  
 
 Science is a certain knowledge and concerns necessary things that are eternal.  
 
@@ -32,7 +34,7 @@ Term 4
 
 ***Sleep***
 
-***During sleep there is no apparent difference between good men and evil men. Hence the saying that happy men are no better off than miserable men for half of their lives.***
+During sleep there is no apparent difference between good men and evil men. Hence the saying that happy men are no better off than miserable men for half of their lives.  
 
 Sleep is rest in the soul's activity, which is what determines one's goodness or wickedness.  
 
@@ -40,13 +42,13 @@ Term 5
 
 ***The Proud Man***
 
-***The proud man and the one feigning courage appear reckless because of how they act in the face of dangers. But they do not stand up to them long, since many of these men are in fact cowards.***
+The proud man and the one feigning courage appear reckless because of how they act in the face of dangers. But they do not stand up to them long, since many of these men are in fact cowards.  
 
 Term 6  
 
 ***Health***
 
-***Health comes to men in a greater or lesser degree, since all men do not share in one proportion of health.***
+Health comes to men in a greater or lesser degree, since all men do not share in one proportion of health.  
 
 Term 7  
 
@@ -68,7 +70,7 @@ Term 8
 
 ***Speeches***
 
-***If conjectures correspond to practical matters, they correspond to our actions, and we should heed them. If they do not, they are to be received lightly much as triffles sounding in the air.***
+If conjectures correspond to practical matters, they correspond to our actions, and we should heed them. If they do not, they are to be received lightly much as triffles sounding in the air.  
 
 Speeches in this field of knowledge are not enough to bring about its end, that is, to make men good. Since, if they were enough, men who taught them would be deserving of great compensation.  
 
@@ -96,7 +98,7 @@ Term 10
 
 ***Indication***
 
-***The feeling of pleasure or sorrow following an action is an indication of a habit present.***
+The feeling of pleasure or sorrow following an action is an indication of a habit present.  
 
 Term 11  
 
@@ -108,7 +110,7 @@ Term 12
 
 ***Six***
 
-***Six is a mean in terms of an object, since it exceeds and is exceeded by the same amount. This mean follows a mathematical proportion.***
+Six is a mean in terms of an object, since it exceeds and is exceeded by the same amount. This mean follows a mathematical proportion.  
 
 Term 13  
 
@@ -120,7 +122,7 @@ Term 14
 
 ***Excess***
 
-***Excess and defect are not the mean. If this were so, there could be an excess of excess or defect of a defect.***
+Excess and defect are not the mean. If this were so, there could be an excess of excess or defect of a defect.  
 
 Term 15  
 
@@ -138,19 +140,19 @@ Term 16
 
 ***Perceiving***
 
-***Perceiving and understanding are pleasurable, since whoever sees or hears or understands, perceives and realises that he is doing it. Now whoever perceives, perceives that he is perceiving and that he is living and that he *is,* and to be and to live are the most pleasurable things, since living is a good for its own sake.***
+Perceiving and understanding are pleasurable, since whoever sees or hears or understands, perceives and realises that he is doing it. Now whoever perceives, perceives that he is perceiving and that he is living and that he *is,* and to be and to live are the most pleasurable things, since living is a good for its own sake.  
 
 Term 17  
 
 ***Sensible Things***
 
-***Sensible things are not easy to determine, since judgment of them is based in a perception.***
+Sensible things are not easy to determine, since judgment of them is based in a perception.  
 
 Term 18  
 
 ***For Healthy People***
 
-***Healthy things are good for healthy people without qualification, but for those in delicate health, other things are better suited.***
+Healthy things are good for healthy people without qualification, but for those in delicate health, other things are better suited.  
 
 Term 19  
 
@@ -212,7 +214,7 @@ Term 25
 
 ***Contemplation***
 
-***Human contemplation, which most leads to happiness and shares most in the divine, is unlike all other things because of its excellence.***
+Human contemplation, which most leads to happiness and shares most in the divine, is unlike all other things because of its excellence.  
 
 The more one engages in contemplation, the greater share he has in happiness. Those with more contemplation are happier too, not because happiness merely accompanies it, but because of the contemplation itself.  
 
@@ -220,7 +222,7 @@ Term 26
 
 ***The Senses***
 
-***We do not acquire our use of the senses by seeing and hearing many times over, but rather, the other way round, we use them because we have them.***
+We do not acquire our use of the senses by seeing and hearing many times over, but rather, the other way round, we use them because we have them.  
 
 It is of no matter whether we say the sense acts or that the body in which it resides (say, an animal) , acts.  
 
@@ -242,7 +244,7 @@ Term 29
 
 ***Synesis***
 
-****Synesis* concerns those things about which someone may have doubts or seek counsel, and for this reason it relates to the same matters as prudence.***
+*Synesis* concerns those things about which someone may have doubts or seek counsel, and for this reason it relates to the same matters as prudence.  
 
 *Synesis* merely forms judgments.  
 
@@ -250,7 +252,7 @@ Term 30
 
 ***The Elderly***
 
-***The elderly, experts, and the prudent, have a clear vision of things from their expereince, they more easily perceive the principles of action which others do not see.***
+The elderly, experts, and the prudent, have a clear vision of things from their expereince, they more easily perceive the principles of action which others do not see.  
 
 Term 31  
 
@@ -262,19 +264,19 @@ Term 32
 
 ***Socrates***
 
-***Socrates identified all virtues with prudence, in this he missed the mark; but in saying that they cannot exist without prudence, he struck on.***
+Socrates identified all virtues with prudence, in this he missed the mark; but in saying that they cannot exist without prudence, he struck on.  
 
 Term 33  
 
 ***A Syllogism***
 
-***In the syllogism comparing the continent and incontinant man, there must be four premises.***
+In the syllogism comparing the continent and incontinant man, there must be four premises.  
 
 Term 34  
 
 ***Satyrus***
 
-***Satyrus, who is nicknamed 'philopator,' that is, 'father-lover,' exceeded so much in the love of his father that he seemed to behave foolishly.***
+Satyrus, who is nicknamed 'philopator,' that is, 'father-lover,' exceeded so much in the love of his father that he seemed to behave foolishly.  
 
 Term 35  
 
@@ -288,7 +290,7 @@ Term 36
 
 ***Without Qualification***
 
-***When we say 'without qualification,' we mean what a thing is in itself *per se*, and when we say 'to a certain extent,' we mean what a thing is coincidentally *per accidens.****
+When we say 'without qualification,' we mean what a thing is in itself *per se*, and when we say 'to a certain extent,' we mean what a thing is coincidentally *per accidens.*  
 
 Term 37  
 

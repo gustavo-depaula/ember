@@ -1,6 +1,8 @@
 # D. 2 - Sacraments of the New Law
 
-***Postquam determinavit Magister de sacramentis in communi, hic descendit ad sacramenta Novae Legis, de quibus principaliter intendit; et dividitur in partes duas: in prima determinat de quibusdam quae praeexiguntur ad sacramenta novae legis; in secunda prosequitur de eis, 3 dist., ibi: *post hoc videndum est quid sit baptismus*. Prima dividitur in duas: in prima determinat quaedam quae praeexiguntur ad sacramenta novae legis ordine doctrinae; in secunda determinat de baptismo Joannis, quod praeexigebatur ad ea ut dispositio, sive praeparatio, ibi: *nunc autem de baptismi sacramento videamus*. Circa primum duo facit: primo ponit distinctionem sacramentorum novae legis et quantum ad numerum et quantum ad effectum; secundo ponit eorum institutionem, ibi: *si vero quaeratur*, etc. Ubi primo ponit communem sacramentorum novae legis institutionem; secundo excipit matrimonium quantum ad aliquid, ibi: *fuit tamen conjugium ante peccatum institutum*.***
+***De sacramentis Novae Legis***
+
+Postquam determinavit Magister de sacramentis in communi, hic descendit ad sacramenta Novae Legis, de quibus principaliter intendit; et dividitur in partes duas: in prima determinat de quibusdam quae praeexiguntur ad sacramenta novae legis; in secunda prosequitur de eis, 3 dist., ibi: *post hoc videndum est quid sit baptismus*. Prima dividitur in duas: in prima determinat quaedam quae praeexiguntur ad sacramenta novae legis ordine doctrinae; in secunda determinat de baptismo Joannis, quod praeexigebatur ad ea ut dispositio, sive praeparatio, ibi: *nunc autem de baptismi sacramento videamus*. Circa primum duo facit: primo ponit distinctionem sacramentorum novae legis et quantum ad numerum et quantum ad effectum; secundo ponit eorum institutionem, ibi: *si vero quaeratur*, etc. Ubi primo ponit communem sacramentorum novae legis institutionem; secundo excipit matrimonium quantum ad aliquid, ibi: *fuit tamen conjugium ante peccatum institutum*.  
 
 *Nunc autem de baptismi sacramento videamus*. Hic determinat de baptismo Joannis; et circa hoc duo facit: primo determinat de ipso baptismo secundum se; secundo de eo quantum ad suscipientes, ibi: *hic considerandum est*, etc. Circa primum duo facit: primo ostendit differentiam baptismi Joannis ad baptismum Christi; secundo ostendit quasdam conditiones baptismi Joannis; et primo utilitatem, ibi: *ad quid ergo utilis erat baptismus Joannis?* Secundo nomen, ibi: *sed quaeritur quare dictus est baptismus Joannis*; tertio genus, ibi: *si vero quaeritur an sacramentum fuerit, satis potest concedi*, etc. Hic est duplex quaestio. Primo de sacramentis novae legis in generali. Secundo de baptismo Joannis.  
 
@@ -21,7 +23,7 @@ primo, de distinctione sacramentorum quantum ad effectum;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod non omnia sacramenta sint instituta in remedium contra aliquem animae defectum. Sacramentum enim a sanctitate dicitur. Sed sanctitas non semper importat remedium contra defectum, sed etiam confirmationem in bono. Ergo non omne sacramentum est ad remedium institutum.***
+Ad primum sic proceditur. Videtur quod non omnia sacramenta sint instituta in remedium contra aliquem animae defectum. Sacramentum enim a sanctitate dicitur. Sed sanctitas non semper importat remedium contra defectum, sed etiam confirmationem in bono. Ergo non omne sacramentum est ad remedium institutum.  
 
 Praeterea, omne remedium contra aliquem defectum ad purgationem pertinet. Sed Dionysius, distinguit sacramenta quae pertinent ad perfectionem, scilicet confirmationem et Eucharistiam, ab illis quae pertinent ad purgationem, sicut est baptismus. Ergo non omne sacramentum est ad remedium.  
 
@@ -33,7 +35,7 @@ Praeterea, sacramenta, ut dictum est, dist. 1, quaest. 1, art. 4, quaestiunc. 1,
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod aliquod sacramentum sit tantum in remedium, scilicet matrimonium. Solus enim consensus mutuus matrimonium facit. Sed consensus non potest esse causa gratiae, quia gratia non est ex actibus nostris. Ergo in matrimonio gratia non confertur; et sic est in remedium tantum.***
+Ulterius. Videtur quod aliquod sacramentum sit tantum in remedium, scilicet matrimonium. Solus enim consensus mutuus matrimonium facit. Sed consensus non potest esse causa gratiae, quia gratia non est ex actibus nostris. Ergo in matrimonio gratia non confertur; et sic est in remedium tantum.  
 
 Praeterea, secundum Hugonem, sacramenta ex sanctificatione invisibilem gratiam continent. Sed sanctificatio quae fit per ministros ecclesiae, non est de essentia matrimonii quantum ad sacramenti necessitatem, sed solum est de solemnitate ipsius. Ergo non confertur ibi gratia; et sic idem quod prius.  
 
@@ -43,7 +45,7 @@ Sed contra, definitio generis debet omnibus speciebus convenire. Sed in definiti
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sacramenta non sint in remedium contra poenam, sed solum contra culpam. Sacramenta enim efficaciam habent ex hoc quod gratiam continent. Sed gratia non opponitur poenae, sed culpae. Ergo sacramenta non ordinantur in remedium contra poenam.***
+Ulterius. Videtur quod sacramenta non sint in remedium contra poenam, sed solum contra culpam. Sacramenta enim efficaciam habent ex hoc quod gratiam continent. Sed gratia non opponitur poenae, sed culpae. Ergo sacramenta non ordinantur in remedium contra poenam.  
 
 Praeterea, sapientis medici est per causam curare effectum. Sed causa poenae est culpa. Ergo cum Christus sit sapientissimus medicus, non instituit aliqua sacramenta ad curandum poenam, nisi ea quae curant et culpam.  
 
@@ -51,7 +53,7 @@ Sed contra, extrema unctio contra infirmitatem videtur ordinari, ut patet Jac. u
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod aliquod sacramentum ordinetur contra culpam venialem. Quaedam enim sacramenta sunt nociva, nisi deposito mortali accipiantur, sicut patet de Eucharistia et de ordine. Sed dantur in remedium alicujus culpae. Ergo dantur contra venialem.***
+Ulterius. Videtur quod aliquod sacramentum ordinetur contra culpam venialem. Quaedam enim sacramenta sunt nociva, nisi deposito mortali accipiantur, sicut patet de Eucharistia et de ordine. Sed dantur in remedium alicujus culpae. Ergo dantur contra venialem.  
 
 Praeterea, medicina spiritualis magis debet apponi contra culpam quam contra poenam. Sed peccatum veniale culpa aliqua est. Cum ergo aliqua sacramenta ordinentur contra poenam, multo fortius videtur quod aliquod possit ordinari contra culpam venialem.  
 
@@ -59,7 +61,7 @@ Sed contra, poenitentia ordinatur contra mortale et veniale peccatum; quod patet
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod quandocumque ad perfectionem alicujus rei oportet aliquid apponere ultra id quod requirit ordo illius naturae secundum se consideratae hoc accidit ad subveniendum alicui defectui illius rei; sicut quando ad sustentationem corporis non sufficit cibum ministrare, nisi addantur aliqua digestiva, signum est defectus in virtute digerente. Ex ordine autem humanae naturae nihil aliud requiritur ad ejus perfectionem spiritualem, nisi Deus influens, et gratia, et virtutes influxae. Unde cum aliquae res corporales adhibentur ad hominis sanctificationem ex quibus secundum ordinem naturae sanctificatio hominis non dependet, signum est quod hoc sit ad subveniendum alicui defectui ipsius; et ideo cum hoc inveniatur in omnibus sacramentis, omnia sacramenta in remedium alicujus spiritualis defectus instituta sunt.***
+Respondeo dicendum, ad primam quaestionem, quod quandocumque ad perfectionem alicujus rei oportet aliquid apponere ultra id quod requirit ordo illius naturae secundum se consideratae hoc accidit ad subveniendum alicui defectui illius rei; sicut quando ad sustentationem corporis non sufficit cibum ministrare, nisi addantur aliqua digestiva, signum est defectus in virtute digerente. Ex ordine autem humanae naturae nihil aliud requiritur ad ejus perfectionem spiritualem, nisi Deus influens, et gratia, et virtutes influxae. Unde cum aliquae res corporales adhibentur ad hominis sanctificationem ex quibus secundum ordinem naturae sanctificatio hominis non dependet, signum est quod hoc sit ad subveniendum alicui defectui ipsius; et ideo cum hoc inveniatur in omnibus sacramentis, omnia sacramenta in remedium alicujus spiritualis defectus instituta sunt.  
 
 Ad primum ergo dicendum, quod ex hoc ipso quod ad sanctitatem homo perducitur per ea quae naturae secundum se consideratae ordo non requirit, signum est quod alicui defectui remedium adhibetur. Unde quamvis sacramenta ex ratione sanctificationis non habeant quod sint in remedium, habent tamen hoc ex officio, sive ex modo sanctificandi.  
 
@@ -69,7 +71,7 @@ Unde patet solutio ad tertium.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod circa hoc sunt duae opiniones. Una est quod in matrimonio gratia aliqua non confertur; sed tantummodo sit in remedium contra concupiscentiam.***
+Ad secundam quaestionem dicendum, quod circa hoc sunt duae opiniones. Una est quod in matrimonio gratia aliqua non confertur; sed tantummodo sit in remedium contra concupiscentiam.  
 
 Hoc autem non videtur convenienter dictum: quia aut intelligitur esse in remedium concupiscentiae, quasi concupiscentiam reprimens, quod sine gratia esse non potest: aut quasi concupiscentiae in parte satisfaciens, quod quidem facit ex ipsa natura actus, non intellecta etiam ratione sacramenti; et praeterea concupiscentia non reprimitur per hoc quod ei satisfit, sed magis augetur, ut Philosophus dicit in 3 *Ethic*.: aut inquantum excusat concupiscentiae actum; quod sine matrimonio deformis esset; et hoc quidem facit per bona matrimonii quae ei conveniunt etiam inquantum est in officium, et ratione suae sanctificationis,*sanctificationis.—significationis* PLE. cum qua communicat cum sacramentis veteris legis; et ita per hoc non haberet aliquid prae illis, ut cum sacramentis novae legis computari debeat.  
 
@@ -83,7 +85,7 @@ Ad tertium dicendum, quod unumquodque denominatur ab eo ad quod est. Gratia aute
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod duplex est poena peccati. Quaedam quae pro peccato infligitur, sicut poena inferni, et flagella quibus a Deo temporaliter punimur; quaedam ex ipso peccato consequens immediate, et per consequens ad peccatum ordinans, sicut est debilitatio naturae ad resistendum peccato, et hujusmodi. Contra primam ergo poenam non datur sacramentum in remedium directe, sed ex consequenti, ut scilicet curata causa, scilicet peccato, cesset effectus, scilicet poena; sed contra secundam poenam datur directe aliquod sacramentum, illa scilicet quae in remedium sunt contra defectum contingentem ex subtractione necessarii, non ex positione contrarii.***
+Ad tertiam quaestionem dicendum, quod duplex est poena peccati. Quaedam quae pro peccato infligitur, sicut poena inferni, et flagella quibus a Deo temporaliter punimur; quaedam ex ipso peccato consequens immediate, et per consequens ad peccatum ordinans, sicut est debilitatio naturae ad resistendum peccato, et hujusmodi. Contra primam ergo poenam non datur sacramentum in remedium directe, sed ex consequenti, ut scilicet curata causa, scilicet peccato, cesset effectus, scilicet poena; sed contra secundam poenam datur directe aliquod sacramentum, illa scilicet quae in remedium sunt contra defectum contingentem ex subtractione necessarii, non ex positione contrarii.  
 
 Ad primum ergo dicendum, quod poenae contra quas dictum est sacramentum ordinari, etiam ad gratiam contrarietatem habent: quia ex subtractione contingunt, et in contrarium gratiae ordinant.  
 
@@ -91,7 +93,7 @@ Ad secundum dicendum, quod sicut est in medicina corporali, quod curato morbo ad
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, aliqua sacramenta in remedium venialis dari, sicut Eucharistiam, et extremam unctionem.***
+Ad quartam quaestionem dicendum, quod circa hoc est duplex opinio. Quidam enim dicunt, aliqua sacramenta in remedium venialis dari, sicut Eucharistiam, et extremam unctionem.  
 
 Sed hoc non videtur convenienter dictum: quia poenitentia purgativa est universaliter omnis peccati actualis, mortalis et venialis; unde ad hoc non oportebat aliquod sacramentum institui. Et praeterea etiam non existentibus venialibus, adhuc necessitas illorum sacramentorum esset ad consummandum in bonum, secundum doctrinam Dionysii.  
 
@@ -105,7 +107,7 @@ Articulus 2
 
 ***De distinctione eorum quantum ad numerum***
 
-***Ad secundum sic proceditur. Videtur quod non debeant esse septem sacramenta. Sicut enim supra dictum est, omnia sacramenta efficaciam habent a passione Christi. Sed unum est sacramentum quod directe est repraesentativum passionis Christi, et ipsum totum Christum continet, scilicet Eucharistia. Ergo illud sacramentum sufficeret.***
+Ad secundum sic proceditur. Videtur quod non debeant esse septem sacramenta. Sicut enim supra dictum est, omnia sacramenta efficaciam habent a passione Christi. Sed unum est sacramentum quod directe est repraesentativum passionis Christi, et ipsum totum Christum continet, scilicet Eucharistia. Ergo illud sacramentum sufficeret.  
 
 Praeterea, quod potest fieri per unum, non debet fieri per plura. Sed per baptismum tolluntur omnia peccata. Ergo non oportebat quod aliquod aliud sacramentum contra culpam ordinaretur.  
 
@@ -167,7 +169,7 @@ Articulus 3
 
 ***De ordine ipsorum***
 
-***Ad tertium sic proceditur. Videtur quod sacramenta inconvenienter a Magistro hic ordinentur. Prius enim est quod animale est quam quod spirituale; 1 Corinth. 15. Sed matrimonium ad vitam animalem pertinet, omnia autem alia sacramenta ad vitam spiritualem. Ergo matrimonium est omnibus prius.***
+Ad tertium sic proceditur. Videtur quod sacramenta inconvenienter a Magistro hic ordinentur. Prius enim est quod animale est quam quod spirituale; 1 Corinth. 15. Sed matrimonium ad vitam animalem pertinet, omnia autem alia sacramenta ad vitam spiritualem. Ergo matrimonium est omnibus prius.  
 
 Praeterea, agens naturaliter prior est sua actione; unde et in jure prius determinatur de officiis quam de actionibus. Sed per sacramentum ordinis constituuntur dispensatores aliorum sacramentorum. Ergo ordo inter alia primo debet poni.  
 
@@ -199,7 +201,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod non debuerint in nova lege aliqua sacramenta de novo institui. Natura enim operatur breviori via qua potest; et hoc ad ordinationem naturae pertinet. Sed gratia est magis ordinata quam natura. Cum ergo brevior via esset quod sacramenta jam in veteri lege existentia perficerentur quam aliqua de novo instituerentur, videtur quod aliqua de novo institui non debuerint.***
+Ad quartum sic proceditur. Videtur quod non debuerint in nova lege aliqua sacramenta de novo institui. Natura enim operatur breviori via qua potest; et hoc ad ordinationem naturae pertinet. Sed gratia est magis ordinata quam natura. Cum ergo brevior via esset quod sacramenta jam in veteri lege existentia perficerentur quam aliqua de novo instituerentur, videtur quod aliqua de novo institui non debuerint.  
 
 Praeterea, sicut sacramenta sunt necessaria ad salutem, ita et praecepta. Sed Christus non alia praecepta moralia instituit, sed praeexistentia consiliis perfecit. Ergo nec nova sacramenta instituere debuit.  
 
@@ -207,7 +209,7 @@ Sed contra, sacramenta sunt medicinae spirituales, ut prius dictum est. Sed non 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod haec eadem debuerit a principio mundi post peccatum instituere. Quia ad crudelem medicum pertinet ut efficacem medicinam non statim infirmo proponat, sed eum diu periclitari sinat. Sed a Deo omnis crudelitas relegata est. Ergo sacramenta novae legis, quae sunt efficacissimae medicinae, debuerunt statim post peccatum humano generi exhiberi.***
+Ulterius. Videtur quod haec eadem debuerit a principio mundi post peccatum instituere. Quia ad crudelem medicum pertinet ut efficacem medicinam non statim infirmo proponat, sed eum diu periclitari sinat. Sed a Deo omnis crudelitas relegata est. Ergo sacramenta novae legis, quae sunt efficacissimae medicinae, debuerunt statim post peccatum humano generi exhiberi.  
 
 Praeterea, sacramenta novae legis totam efficaciam habent ex passione Christi. Sed passio Christi operabatur etiam a principio mundi post peccatum ad reparationem, secundum quod erat credita, ut in 3 Lib., dist. 19, quaest. 1, art. 1, quaestiunc. 2 ad 2, dictum est. Ergo et tunc sacramenta institui debuerunt.  
 
@@ -215,7 +217,7 @@ Sed contra, gratia perficit naturam. Sed natura procedit ex imperfectioribus ad 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod statim Christo nato sacramenta institui debuerunt. Sunt enim sacramenta novae legis gratiam continentia. Sed tempus gratiae ex tunc incepit. Ergo tunc institui debuerunt.***
+Ulterius. Videtur quod statim Christo nato sacramenta institui debuerunt. Sunt enim sacramenta novae legis gratiam continentia. Sed tempus gratiae ex tunc incepit. Ergo tunc institui debuerunt.  
 
 Praeterea, sacramenta adjuvant ad implendum praecepta. Sed praecepta moralia omnia simul data fuerunt in ipso initio legis. Ergo et sacramenta gratiae in ipso initio gratiae omnia simul dari debuerunt.  
 
@@ -223,7 +225,7 @@ Sed contra est quia quae a Deo sunt, ordinata sunt, Rom. 13, 1. Sed iste est deb
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod sacramenta novae legis non sunt omnia a Christo instituta. Quia de confirmatione et extrema unctione non legitur aliquid dixisse. Sed extrema unctio et confirmatio sunt sacramenta novae legis. Ergo non omnia sacramenta novae legis sunt instituta a Christo.***
+Ulterius. Videtur quod sacramenta novae legis non sunt omnia a Christo instituta. Quia de confirmatione et extrema unctione non legitur aliquid dixisse. Sed extrema unctio et confirmatio sunt sacramenta novae legis. Ergo non omnia sacramenta novae legis sunt instituta a Christo.  
 
 Praeterea, non minoris auctoritatis est mysterium sacerdotii novae legis quam legis naturae. Sed qui sacramenta dispensabant in lege naturae, scilicet sacerdotes, pro suo libito sacramentis visibilibus suam fidem profitebantur. Ergo multo fortius hoc debet esse in lege nova, quae etiam est majoris libertatis.  
 
@@ -231,7 +233,7 @@ Sed contra, sacramenta novae legis efficiunt quod significant. Sed ex institutio
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sacramenta sunt signa remedii ad quod ordinantur. Sunt autem signa repraesentantia effectus spirituales ex similitudine sensibilium rerum, quarum in sacramento est usus. Et ideo cum in nova lege oportuerit esse sacramenta majoris efficaciae propter perfectionem testamenti, debuerunt etiam esse alia signa quae expressius figurarent gratiam; et ideo oportuit nova sacramenta institui.***
+Respondeo dicendum ad primam quaestionem, quod sacramenta sunt signa remedii ad quod ordinantur. Sunt autem signa repraesentantia effectus spirituales ex similitudine sensibilium rerum, quarum in sacramento est usus. Et ideo cum in nova lege oportuerit esse sacramenta majoris efficaciae propter perfectionem testamenti, debuerunt etiam esse alia signa quae expressius figurarent gratiam; et ideo oportuit nova sacramenta institui.  
 
 Ad primum ergo dicendum, quod quamvis natura brevissime operetur, tamen nihil omittit de contingentibus quibus aliquid optime fieri possit et similiter gratia; et ideo in sacramentis instituendis non solum attenditur qualiter aliquid breviter fiat, sed qualiter congruenter.  
 
@@ -239,7 +241,7 @@ Ad secundum dicendum, quod praecepta moralia consequuntur naturam humanam, cum s
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sacramenta novae legis, quia gratiam continent, non sunt vacua, sed plena; et ideo non competebat ea institui nisi tempore plenitudinis, quod est tempus incarnationis. Quare autem Christus suum adventum distulerit, et non statim post peccatum carnem assumpserit, in 3 Lib., dist. 1, quaest. 1, art. 4, dictum est.***
+Ad secundam quaestionem dicendum, quod sacramenta novae legis, quia gratiam continent, non sunt vacua, sed plena; et ideo non competebat ea institui nisi tempore plenitudinis, quod est tempus incarnationis. Quare autem Christus suum adventum distulerit, et non statim post peccatum carnem assumpserit, in 3 Lib., dist. 1, quaest. 1, art. 4, dictum est.  
 
 Ad primum ergo dicendum, quod aliter est in morbo spirituali et corporali. Non enim potest aliquis a morbo spirituali congrue curari, nisi prius morbum cognoscat, et medicinam desideret, si sit cognitionis capax; et ideo oportuit ut homo sibi relinqueretur, et sic primo tempore legis naturae infirmum se cognosceret per ignorantiam, ad idolatriam declinando; et deinde tempore legis scriptae quae auxilium contra ignorantiam praebebat, recognosceret se infirmum per concupiscentiam, ad peccata declinando, et sic salutem ab alio expectaret; qui et viam salutis docuit contra ignorantiam et sacramenta gratiae dedit contra infirmitatem concupiscentiae, ut dicitur Joan. 1, 17: *gratia et veritas per Jesum Christum facta est*. In morbo autem corporali hoc non requiritur, quia corpus non est cognitionis capax.  
 
@@ -247,7 +249,7 @@ Ad secundum dicendum, quod quamvis etiam ex tunc passio Christi efficaciam haber
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sacramenta novae legis dupliciter instituta sunt. Primo ad documentum et exercitium quoddam; et sic potuerant ante passionem Christi institui. Secundo quantum ad necessitatem et obligationem, et sic eorum institutio non fuit ante passionem, quia adhuc legalia non fuerant mortua; unde a tempore praedicationis Christi usque ad passionem, sacramenta novae legis simul currebant cum legalibus, et utraque ad salutem operabantur. Sic ergo quantum ad secundum modum institutionis omnia simul in passione Christi instituta sunt; sed quantum ad primum, oportuit ut primo instituerentur illa quae sunt majoris necessitatis; unde statim in principio praedicationis suae poenitentiam praedicavit, ut legitur Matth. 4, et baptismum docuit ut legitur Joan. 3. Alia autem sacramenta processu temporis instituit et docuit.***
+Ad tertiam quaestionem dicendum, quod sacramenta novae legis dupliciter instituta sunt. Primo ad documentum et exercitium quoddam; et sic potuerant ante passionem Christi institui. Secundo quantum ad necessitatem et obligationem, et sic eorum institutio non fuit ante passionem, quia adhuc legalia non fuerant mortua; unde a tempore praedicationis Christi usque ad passionem, sacramenta novae legis simul currebant cum legalibus, et utraque ad salutem operabantur. Sic ergo quantum ad secundum modum institutionis omnia simul in passione Christi instituta sunt; sed quantum ad primum, oportuit ut primo instituerentur illa quae sunt majoris necessitatis; unde statim in principio praedicationis suae poenitentiam praedicavit, ut legitur Matth. 4, et baptismum docuit ut legitur Joan. 3. Alia autem sacramenta processu temporis instituit et docuit.  
 
 Ad primum ergo dicendum, quod tempus gratiae dicitur quantum ad initium, et quantum ad complementum. Complementum autem ejus non fuit ante passionem, et resurrectionem Christi; unde Joan. 7, 39, dicitur: *nondum erat spiritus datus, quia nondum erat Jesus glorificatus*. Principium autem potest attendi dupliciter. Primo quantum ad praesentiam gratiae in mundo; et sic fuit in ipsa incarnatione. Secundo quantum ad ejus diffusionem in mundo, et sic fuit in praedicatione sive baptismo Christi; et ante non oportebat institui sacramenta.  
 
@@ -255,7 +257,7 @@ Ad secundum dicendum, quod praecepta moralia homini natura dictat; et ideo stati
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum quod circa hoc est duplex opinio. Quidam enim dicunt, non omnia sacramenta a Christo immediate instituta fuisse; sed quaedam ipse per se instituit, quaedam vero apostolis instituenda commisit; scilicet confirmationem, in qua Spiritus Sanctus datur ad robur, cujus institutio esse non debuit ante plenam Spiritus Sancti missionem; et extremam unctionem, quae cum ad gloriam resurrectionis sit immediatum et proximum praeparatorium, ante resurrectionem institui non debuit. Sed quia institutio sacramentorum videtur ad potestatem plenitudinis in sacramentis pertinere quam sibi Christus reservavit in sacramentis, cum ex institutione sacramenta habeant quod significent; ideo aliis probabilius videtur, quod sicut hominis puri non est sacramenta mutare, vel a sacramentis absolvere, ita nec nova sacramenta instituere; et ideo omnia sacramenta novae legis ab ipso Christo institutionem habent.***
+Ad quartam quaestionem dicendum quod circa hoc est duplex opinio. Quidam enim dicunt, non omnia sacramenta a Christo immediate instituta fuisse; sed quaedam ipse per se instituit, quaedam vero apostolis instituenda commisit; scilicet confirmationem, in qua Spiritus Sanctus datur ad robur, cujus institutio esse non debuit ante plenam Spiritus Sancti missionem; et extremam unctionem, quae cum ad gloriam resurrectionis sit immediatum et proximum praeparatorium, ante resurrectionem institui non debuit. Sed quia institutio sacramentorum videtur ad potestatem plenitudinis in sacramentis pertinere quam sibi Christus reservavit in sacramentis, cum ex institutione sacramenta habeant quod significent; ideo aliis probabilius videtur, quod sicut hominis puri non est sacramenta mutare, vel a sacramentis absolvere, ita nec nova sacramenta instituere; et ideo omnia sacramenta novae legis ab ipso Christo institutionem habent.  
 
 Secundum hoc ergo dicendum ad primum, quod ipse sacramentum confirmationis instituit, quando pueris sibi praesentatis manus imposuit; similiter extremam unctionem, quando apostolos ad praedicandum mittens, oleo inungere infirmos disposuit, ut sic curarentur.  
 
@@ -278,7 +280,7 @@ primo, utrum fuerit sacramentum;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod baptismus Joannis non fuerit sacramentum. Joan. 3, super illud: *erat Joannes baptizans* etc., dicit Glossa: *quantum catechumenis nondum baptizatis prodest doctrina fidei, tantum profuit baptismus Joannis ante baptismum Christi*. Sed catechismus non est sacramentum, sed sacramentale. Ergo baptismus Joannis non erat sacramentum sed sacramentale.***
+Ad primum sic proceditur. Videtur quod baptismus Joannis non fuerit sacramentum. Joan. 3, super illud: *erat Joannes baptizans* etc., dicit Glossa: *quantum catechumenis nondum baptizatis prodest doctrina fidei, tantum profuit baptismus Joannis ante baptismum Christi*. Sed catechismus non est sacramentum, sed sacramentale. Ergo baptismus Joannis non erat sacramentum sed sacramentale.  
 
 Praeterea, omne sacramentum est alicujus legis sacramentum. Sed baptismus Joannis non erat sacramentum legis naturae, neque legis veteris: quia, sicut Augustinus dicit, nulli praecedentium prophetarum fuit datum baptizare, nisi Joanni soli, quod non contingit de sacramentis veteris legis; similiter non est sacramentum novae legis, quia praedicationem Christi praecessit. Ergo non erat sacramentum.  
 
@@ -286,7 +288,7 @@ Sed contra, sacramentum est sacrae rei signum. Sed baptismus Joannis figurabat b
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non baptizaverit sub hac forma: *ego baptizo te in nomine venturi*. Christus enim, in cujus nomine baptizabat, jam venerat. Ergo non competebat forma illa pro tempore illo.***
+Ulterius. Videtur quod non baptizaverit sub hac forma: *ego baptizo te in nomine venturi*. Christus enim, in cujus nomine baptizabat, jam venerat. Ergo non competebat forma illa pro tempore illo.  
 
 Praeterea, eadem est fides de Christo venturo quae erat in patribus et de Christo qui jam venit, quam nos habemus. Ergo eadem est forma baptismi in nomine venturi, et in nomine Christi. Ergo baptismus idem. Sed apostoli baptizaverunt in nomine Christi, ut infra dicetur. Si ergo Joannes baptizavit in nomine venturi, idem fuit baptisma Joannis et apostolorum Christi; quod falsum est.  
 
@@ -294,7 +296,7 @@ Sed contra est quod dicitur Act. 19, 4: *baptizabat Joannes populum dicens, in e
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non fuit institutus a Deo. Nullum enim sacramentum a Deo institutum nominatur a ministro; non enim dicitur baptismus Petri. Sed baptismus ille dicitur baptismus Joannis. Ergo non fuit a Deo institutus.***
+Ulterius. Videtur quod non fuit institutus a Deo. Nullum enim sacramentum a Deo institutum nominatur a ministro; non enim dicitur baptismus Petri. Sed baptismus ille dicitur baptismus Joannis. Ergo non fuit a Deo institutus.  
 
 Praeterea, sacramenta legis naturae, quae ad sacramenta Christi disponebant, a Deo institutionem non habuerunt, sed ex voto celebrabantur, secundum Hugonem. Sed baptismus Joannis fuit praeparatorius ad sacramenta Christi. Ergo non debuit habere institutionem a Deo.  
 
@@ -302,7 +304,7 @@ Sed contra est quod dicitur Joan. 1, 33: *qui me misit baptizare in aqua, ille m
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod debuit statim Christo baptizato cessare. Quia super illud Joan. 1: *vidit Joannes Jesum venientem ad se*, dicit Augustinus: *baptizatus est Dominus baptismo Joannis, et cessavit baptismus Joannis*.***
+Ulterius. Videtur quod debuit statim Christo baptizato cessare. Quia super illud Joan. 1: *vidit Joannes Jesum venientem ad se*, dicit Augustinus: *baptizatus est Dominus baptismo Joannis, et cessavit baptismus Joannis*.  
 
 Praeterea, baptismus Joannis erat praeparatorius ad baptismum Christi. Sed baptismus Christi incepit statim Christo baptizato: *quia tactu mundissimae suae carnis vim regenerativam contulit aquis*, ut dicit Beda. Ergo statim debuit cessare.  
 
@@ -310,7 +312,7 @@ Sed contra est quod legitur Joan. 3, quod post baptismum Christi baptizabat Joan
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod secundum Hugonem de sancto Victore, secundum processum temporis et majorem propinquitatem ad tempus gratiae, oportuit alia et alia sacramenta institui. Unde quia in Joanne quodammodo incepit tempus gratiae (quia *lex, et prophetae usque ad Joannem*, Matth. 11, 13), non quasi ab ipso esset gratia, sed quia ad gratiam viam praeparabat; ideo ejus baptismus fuit aliquod sacramentum; quod quidem erat initiatio quaedam sacramentorum gratiae, quamvis gratia in eo non conferretur. Unde dicendum, quod baptismus Joannis sacramentum erat quodammodo medium inter sacramenta veteris et novae legis, sicut dispositio ad formam media est quodammodo inter privationem et formam. Conveniebat enim quodammodo cum sacramentis veteris legis in hoc quod erat signum tantum; cum sacramentis autem legis novae in materia, et quodammodo in forma.***
+Respondeo dicendum, ad primam quaestionem, quod secundum Hugonem de sancto Victore, secundum processum temporis et majorem propinquitatem ad tempus gratiae, oportuit alia et alia sacramenta institui. Unde quia in Joanne quodammodo incepit tempus gratiae (quia *lex, et prophetae usque ad Joannem*, Matth. 11, 13), non quasi ab ipso esset gratia, sed quia ad gratiam viam praeparabat; ideo ejus baptismus fuit aliquod sacramentum; quod quidem erat initiatio quaedam sacramentorum gratiae, quamvis gratia in eo non conferretur. Unde dicendum, quod baptismus Joannis sacramentum erat quodammodo medium inter sacramenta veteris et novae legis, sicut dispositio ad formam media est quodammodo inter privationem et formam. Conveniebat enim quodammodo cum sacramentis veteris legis in hoc quod erat signum tantum; cum sacramentis autem legis novae in materia, et quodammodo in forma.  
 
 Ad primum ergo dicendum, quod baptismus Joannis habet aliquid simile cum sacramentalibus baptismi, inquantum erat dispositio ad baptismum Christi; sed inquantum praecessit institutionem baptismi Christi, differt a sacramentalibus, et est sacramentum per se; sicut sacramenta veteris legis, quae etiam suo modo, licet non tam de propinquo, ad sacramenta novae legis disponebant.  
 
@@ -318,7 +320,7 @@ Ad secundum dicendum, quod dispositio reducitur ad genus formae ad quam disponit
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod utilitas rei ex forma sua consequitur; et ideo formae sacramentorum ostendunt illud ex quo sacramenta et efficaciam et utilitatem habent. Et quia utilitas baptismi Joannis tota erat disponere ad Christum, ideo haec erat sua forma competens, ut in nomine venturi baptizaret.***
+Ad secundam quaestionem dicendum, quod utilitas rei ex forma sua consequitur; et ideo formae sacramentorum ostendunt illud ex quo sacramenta et efficaciam et utilitatem habent. Et quia utilitas baptismi Joannis tota erat disponere ad Christum, ideo haec erat sua forma competens, ut in nomine venturi baptizaret.  
 
 Ad primum ergo dicendum, quod quamvis jam venisset in carne, non tamen jam venerat ad baptizandum, et alia salutis nostrae opera exercendum.  
 
@@ -326,7 +328,7 @@ Ad secundum dicendum, quod fides, cum sit cognitio quaedam, respicit rei veritat
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Joannes suum baptismum instituit praecepto divino. Unde patet quod institutio ipsius fuit a Deo per auctoritatem, et ab ipso Joanne per ministerium.***
+Ad tertiam quaestionem dicendum, quod Joannes suum baptismum instituit praecepto divino. Unde patet quod institutio ipsius fuit a Deo per auctoritatem, et ab ipso Joanne per ministerium.  
 
 Ad primum ergo dicendum, quod propter tres rationes baptismus a Joanne nomen accepit. Primo, quia ipse fuit sui baptismi institutor aliquo modo; Petrus autem nullo modo baptismi quo baptizabat. Secundo, quia nihil in illo baptismo efficiebatur quod Joannes non faceret. Tertio, quia sibi soli erat datum illius baptismi ministerium.  
 
@@ -334,7 +336,7 @@ Ad secundum dicendum, quod fides magis determinabatur secundum appropinquationem
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod cessatio baptismi Joannis potest accipi dupliciter. Uno modo quando cessavit totaliter; et hoc fuit Joanne in carcerem misso, quia ministerium illud soli Joanni concessum est. Alio modo quantum ad maximum suum posse; et sic cessavit baptizato Christo: quia ex tunc ejus baptismus non fuit praecipuus, sed alius fuit eo dignior; sicut cessat officium legati domino suo superveniente, quamvis et aliqua exerceat.***
+Ad quartam quaestionem dicendum, quod cessatio baptismi Joannis potest accipi dupliciter. Uno modo quando cessavit totaliter; et hoc fuit Joanne in carcerem misso, quia ministerium illud soli Joanni concessum est. Alio modo quantum ad maximum suum posse; et sic cessavit baptizato Christo: quia ex tunc ejus baptismus non fuit praecipuus, sed alius fuit eo dignior; sicut cessat officium legati domino suo superveniente, quamvis et aliqua exerceat.  
 
 Et per hoc patet solutio.  
 
@@ -342,7 +344,7 @@ Articulus 2
 
 ***De efficacia ipsius***
 
-***Ad secundum sic proceditur. Videtur quod baptismus Joannis gratiam contulerit. Luc. 3, 3: *erat Joannes baptizans, et praedicans baptismum poenitentiae in remissionem peccatorum*. Sed remissio peccatorum non fit sine gratia. Ergo baptismus ille gratiam contulit.***
+Ad secundum sic proceditur. Videtur quod baptismus Joannis gratiam contulerit. Luc. 3, 3: *erat Joannes baptizans, et praedicans baptismum poenitentiae in remissionem peccatorum*. Sed remissio peccatorum non fit sine gratia. Ergo baptismus ille gratiam contulit.  
 
 Praeterea, Damascenus dicit: *purgat Joannes spiritum per aquam*. Sed purgatio spiritualis non fit sine gratia. Ergo ille baptismus gratiam contulit.  
 
@@ -374,7 +376,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod Christo non competeret baptizari baptismo Joannis. Baptismus enim Joannis erat baptismus poenitentiae, ut dicitur Luc. 3. Sed Christo non competit poenitentia, sicut nec peccatum. Ergo nec baptizari baptismo Joannis.***
+Ad tertium sic proceditur. Videtur quod Christo non competeret baptizari baptismo Joannis. Baptismus enim Joannis erat baptismus poenitentiae, ut dicitur Luc. 3. Sed Christo non competit poenitentia, sicut nec peccatum. Ergo nec baptizari baptismo Joannis.  
 
 Praeterea, omnis Christi actio nostra est instructio. Sed non instruimur baptizari baptismo Joannis. Ergo non debuit Christus illo baptismo baptizari.  
 
@@ -382,7 +384,7 @@ Sed contra est quod ipse ad baptismum Joannis vadens dixit: *sic decet nos imple
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nulli alii hoc baptismo debuerunt baptizari. Hoc enim est solius Christi ut a sacramentis non accipiat, sed magis eis conferat. Sed baptismus Joannis erat tale sacramentum a quo non poterat aliquid accipi. Ergo soli Christo competebat.***
+Ulterius. Videtur quod nulli alii hoc baptismo debuerunt baptizari. Hoc enim est solius Christi ut a sacramentis non accipiat, sed magis eis conferat. Sed baptismus Joannis erat tale sacramentum a quo non poterat aliquid accipi. Ergo soli Christo competebat.  
 
 Praeterea, sacramenta eadem ratione omnibus competunt. Sed non erat necessarium quod omnes baptismo Joannis baptizarentur. Ergo nulli praeter Christum ipso baptizari debuerunt.  
 
@@ -390,7 +392,7 @@ Sed contra est quod dicitur Matth. 3, 5: *egrediebantur ad illum Hierosolymitae 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod debuerunt illo baptismo pueri baptizari. Erat enim ille baptismus signum baptismi Christi. Sed baptismus Christi competit pueris. Ergo et ille.***
+Ulterius. Videtur quod debuerunt illo baptismo pueri baptizari. Erat enim ille baptismus signum baptismi Christi. Sed baptismus Christi competit pueris. Ergo et ille.  
 
 Praeterea, circumcisio dabatur etiam pueris, et eis principaliter. Sed baptismus Joannis est medium inter circumcisionem et baptismum Christi, qui datur indifferenter magnis et parvis. Ergo et baptismus Joannis parvis dari debuit.  
 
@@ -398,7 +400,7 @@ Sed contra, quia baptismus ille erat ut assuescerent ad baptismum Christi. Sed h
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, quod Christus pluribus de causis a Joanne baptizari voluit, quarum tres tanguntur in Glossa Marc. 1; scilicet propter humilitatem implendam (ut ipsemet dicit Matth. 3); ut baptismum Joannis approbaret, et ut aquas consecraret suae carnis tactu, et sic baptismum suum institueret. Quartam causam tangit Augustinus, ut scilicet ostenderet non interesse quis a quo baptizaretur. Quintam tangit in *Lib. quaestionum veteris et novi testamenti*, scilicet ad exemplum baptismi proponendum illis qui erant futuri filii Dei per fidem. Sextam tangit Chrysostomus, ut scilicet in baptismo miracula ostendens, evacuaret illorum errorem qui Joannem Christo majorem credebant.***
+Respondeo dicendum, quod Christus pluribus de causis a Joanne baptizari voluit, quarum tres tanguntur in Glossa Marc. 1; scilicet propter humilitatem implendam (ut ipsemet dicit Matth. 3); ut baptismum Joannis approbaret, et ut aquas consecraret suae carnis tactu, et sic baptismum suum institueret. Quartam causam tangit Augustinus, ut scilicet ostenderet non interesse quis a quo baptizaretur. Quintam tangit in *Lib. quaestionum veteris et novi testamenti*, scilicet ad exemplum baptismi proponendum illis qui erant futuri filii Dei per fidem. Sextam tangit Chrysostomus, ut scilicet in baptismo miracula ostendens, evacuaret illorum errorem qui Joannem Christo majorem credebant.  
 
 Ad primum ergo dicendum, quod, sicut dictum est, Christus a sacramentis nihil accepit; et ideo non dicitur baptismus Joannis baptismus poenitentiae quo ad Christum, sed quo ad alios qui ad poenitentiam per ipsum praeparabantur; sicut etiam circumcisio Christi non fuit in remedium originalis peccati, a quo Christus immunis erat.  
 
@@ -406,7 +408,7 @@ Ad secundum dicendum, quod actio Christi nostra est instructio, non ut eodem mod
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut dicit Augustinus in Lib. *de baptismo contra Donatistas*, si Joannes solum Christum baptizasset, videretur melioris baptismi dispensator, quanto melior erat qui baptizabatur, et si omnes baptizasset videretur quod Christi baptismus non sufficeret ad salutem; et ideo quosdam alios baptizavit, sed non omnes.***
+Ad secundam quaestionem dicendum, quod, sicut dicit Augustinus in Lib. *de baptismo contra Donatistas*, si Joannes solum Christum baptizasset, videretur melioris baptismi dispensator, quanto melior erat qui baptizabatur, et si omnes baptizasset videretur quod Christi baptismus non sufficeret ad salutem; et ideo quosdam alios baptizavit, sed non omnes.  
 
 Ad primum ergo dicendum, quod quamvis alii a baptismo Joannis non acciperent gratiam; accipiebant tamen quoddam signum gratiae suscipiendae, et servandae poenitentiae.  
 
@@ -414,7 +416,7 @@ Ad secundum patet solutio ex dictis.
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod baptismus Joannis erat baptismus poenitentiae; et quia pueris non competit poenitentia, ideo non competebat eis ille baptismus. Nec est simile de baptismo Christi et circumcisione, quae ordinantur contra originale peccatum, quod in pueris est.***
+Ad tertiam quaestionem dicendum, quod baptismus Joannis erat baptismus poenitentiae; et quia pueris non competit poenitentia, ideo non competebat eis ille baptismus. Nec est simile de baptismo Christi et circumcisione, quae ordinantur contra originale peccatum, quod in pueris est.  
 
 Et per hoc patet solutio ad objecta.  
 
@@ -422,7 +424,7 @@ Articulus 4
 
 ***Utrum baptizati a Joanne, essent baptismo Christi baptizandi***
 
-***Ad quartum sic proceditur. Videtur quod baptizati baptismo Joannis, non debebant baptizari baptismo Christi. Act. enim 8 dicitur, quod apostoli in Samariam venientes, illos qui baptizati erant in nomine Jesu, non baptizabant, sed tantum manus imponebant. Cum ergo baptismus in nomine Jesu sine collatione Spiritus Sancti sit baptismus Joannis, videtur quod baptizati baptismo Joannis, non baptizabantur baptismo Christi.***
+Ad quartum sic proceditur. Videtur quod baptizati baptismo Joannis, non debebant baptizari baptismo Christi. Act. enim 8 dicitur, quod apostoli in Samariam venientes, illos qui baptizati erant in nomine Jesu, non baptizabant, sed tantum manus imponebant. Cum ergo baptismus in nomine Jesu sine collatione Spiritus Sancti sit baptismus Joannis, videtur quod baptizati baptismo Joannis, non baptizabantur baptismo Christi.  
 
 Praeterea, Hieronymus super illud: *effundam de spiritu meo*, dicit: quod haec est causa quare quidam baptizati a Joanne, baptismo Christi iterum baptizati sunt a Paulo, Act. 20 quia fidem Trinitatis non habebant, quia neque si Spiritus Sanctus est audierant. Si ergo aliqui baptizati essent a Joanne, fidem Trinitatis habentes, videtur quod iterum baptizari non debuerint baptismo Christi.  
 
@@ -450,7 +452,7 @@ Ad quartum dicendum, quod ad baptismum requiritur aqua cum debita forma. Joannes
 
 Expositio textus  
 
-****Quorum alia remedium contra peccatum praebent . . . alia gratia et virtute nos fulciunt*. Omnia sacramenta novae legis sunt in remedium, et gratiam conferunt, ut dictum est. Ergo distinctio illa nulla videtur. Et dicendum, quod illa distinctio sacramentorum sumitur secundum id ad quod principaliter ordinantur. Quamvis ergo omnia sacramenta aliquo modo gratiam conferant, et in remedium sint, quaedam tamen principaliter ordinata sunt in remedium, contra aliquem specialem morbum, ut matrimonium contra concupiscentiam; quaedam vero de sui propria intentione sunt ordinata ad remedium morbi, et ad gratiam, sicut baptismus, qui est spiritualis regeneratio, per quam vetus homo corrumpitur, et novus generatur; quaedam autem, quia gratiam praesupponunt, ordinantur ad gratiae perfectionem sicut Eucharistia; et sic intelligenda sunt verba Magistri: *non utique propter remedium, sed ad sacramentum*; et debet accipi sacramentum large pro quolibet signo rei sacrae.***
+*Quorum alia remedium contra peccatum praebent . . . alia gratia et virtute nos fulciunt*. Omnia sacramenta novae legis sunt in remedium, et gratiam conferunt, ut dictum est. Ergo distinctio illa nulla videtur. Et dicendum, quod illa distinctio sacramentorum sumitur secundum id ad quod principaliter ordinantur. Quamvis ergo omnia sacramenta aliquo modo gratiam conferant, et in remedium sint, quaedam tamen principaliter ordinata sunt in remedium, contra aliquem specialem morbum, ut matrimonium contra concupiscentiam; quaedam vero de sui propria intentione sunt ordinata ad remedium morbi, et ad gratiam, sicut baptismus, qui est spiritualis regeneratio, per quam vetus homo corrumpitur, et novus generatur; quaedam autem, quia gratiam praesupponunt, ordinantur ad gratiae perfectionem sicut Eucharistia; et sic intelligenda sunt verba Magistri: *non utique propter remedium, sed ad sacramentum*; et debet accipi sacramentum large pro quolibet signo rei sacrae.  
 
 *Baptismum Christi Joannes suo baptismo praenuntiavit*. Ideo baptismus Christi potius quam alia sacramenta novae legis praeparatorium habuit, quia baptismus est janua sacramentorum, et ipse facit aliis viam; unde praeparatorio sacramenta alia non indigebant.  
 

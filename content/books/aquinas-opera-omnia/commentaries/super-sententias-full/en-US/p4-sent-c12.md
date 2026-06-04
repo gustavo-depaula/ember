@@ -1,8 +1,10 @@
 # D. 32 - Remission of original sin
 
+***Remission of original sin***
+
 ***Division of the text***
 
-***After he has shown how original sin is passed down from the parents, here he shows how it is remitted through baptism. This is divided into two parts.***
+After he has shown how original sin is passed down from the parents, here he shows how it is remitted through baptism. This is divided into two parts.  
 
 In the first, he shows in what respect original sin is taken away in baptism and in what respect it remains.  
 
@@ -70,7 +72,7 @@ Article 1
 
 ***Whether original sin is taken away through baptism***
 
-***To the first we proceed as follows.Parallel texts: *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 12, q. 2, a. 2, resp. and ad 3; d. 14, q. 2, a. 1, resp. and ad 3; d. 17, q. 2, a. 2, resp. and ad 3; *ST* III.69.1, ad 1; *SCG* IV.59, 72. It seems that original fault is not taken away through baptism.***
+To the first we proceed as follows.Parallel texts: *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 12, q. 2, a. 2, resp. and ad 3; d. 14, q. 2, a. 1, resp. and ad 3; d. 17, q. 2, a. 2, resp. and ad 3; *ST* III.69.1, ad 1; *SCG* IV.59, 72. It seems that original fault is not taken away through baptism.  
 
 Obj. 1: For a privation is only taken away if the opposing habit is restored. But original justice, of which original sin is the privation, is not restored through baptism, since the due order of the lower powers to reason does not remain. Therefore, neither is original sin taken away through baptism.  
 
@@ -114,7 +116,7 @@ Article 2
 
 ***Whether the punishment of original sin ought to remain after baptism***
 
-***To the second we proceed as follows.Parallel texts: below, d. 44, q. 2, a. 2, ad 2, 3; *In III Sent*., d. 19, q. 1, a. 3, resp.; *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 46, q. 2, a. 2, resp. and ad 3; *ST* I-II.85.5, ad 2; 87.7, ad 1; 109.9; II-II.104.6, ad 1; III.49.3, ad 3; 52.5, ad 2; 69.3; 69.7, ad 3; *SCG* IV.55; *On Evil*, q. 4, a. 6, ad 4; *Quodl*. VI, q. 9, a. 1. It seems that the punishment of original sin should not remain after baptism.***
+To the second we proceed as follows.Parallel texts: below, d. 44, q. 2, a. 2, ad 2, 3; *In III Sent*., d. 19, q. 1, a. 3, resp.; *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 46, q. 2, a. 2, resp. and ad 3; *ST* I-II.85.5, ad 2; 87.7, ad 1; 109.9; II-II.104.6, ad 1; III.49.3, ad 3; 52.5, ad 2; 69.3; 69.7, ad 3; *SCG* IV.55; *On Evil*, q. 4, a. 6, ad 4; *Quodl*. VI, q. 9, a. 1. It seems that the punishment of original sin should not remain after baptism.  
 
 Obj. 1: For it is unjust for someone to be punished without fault. But original fault is taken away through baptism, as was said.Above: d. 32, q. 1, a. 1. Therefore, it would be unjust for the punishment to remain.  
 
@@ -150,7 +152,7 @@ Article 3
 
 ***Whether the fomes is found to be greater in one person than in another***
 
-***To the third we proceed as follows.Parallel text: *ST* I-II.82.4. It seems that the *fomes* and concupiscence is found to be more in some and less in others.***
+To the third we proceed as follows.Parallel text: *ST* I-II.82.4. It seems that the *fomes* and concupiscence is found to be more in some and less in others.  
 
 Obj. 1: For when the cause is multiplied, the effect is multiplied. But the infection of the *fomes* is caused by the uncleanness of intercourse. Therefore, since the greater the distance a person is from the first generator, the more of such infecting acts there are, it seems that we always discover greater infection of the *fomes* in the offspring than in the parent.  
 
@@ -184,7 +186,7 @@ Question 2
 
 ***The cause of the infection of original sin***
 
-***Then the question of the cause of the infection of original sin is asked. Concerning this three questions are asked:***
+Then the question of the cause of the infection of original sin is asked. Concerning this three questions are asked:  
 
 first, whether it is from God;  
 
@@ -196,7 +198,7 @@ Article 1
 
 ***Whether the infection of original sin is from God***
 
-***To the first we proceed as follows.Parallel text: *ST* I-II.89.1. It seems that the infection of original sin is from God.***
+To the first we proceed as follows.Parallel text: *ST* I-II.89.1. It seems that the infection of original sin is from God.  
 
 Obj. 1: For when the soul is created, it is infused, as Augustine says.The manuscripts do not indicate where this citation might be found, though Nicolaï refers to chapter 14 of *De Ecclesiasticis Dogmatibus*, which is now attributed to Gennadius of Massilia (d. ca. 496 AD). But the soul is stained at its infusion. Therefore, it is also stained at its creation, and so it has a stain from God.  
 
@@ -230,9 +232,9 @@ Reply Obj. 5: The *fomes* essentially inclines to evil, but the fact that it inc
 
 Article 2  
 
-***Whether it befits the divine wisdom to infuse a soul into a body from which it will contract a stain***
+Whether it befits the divine wisdom to infuse a soul into a body from which it will contract a stain  
 
-***To the second we proceed as follows. It seems that it is not becoming for the divine wisdom that a soul should be infused into a body from which it contracts a stain.***
+To the second we proceed as follows. It seems that it is not becoming for the divine wisdom that a soul should be infused into a body from which it contracts a stain.  
 
 Obj. 1: For no wise person puts his treasure in a place where it can be ruined. But the soul is God’s most precious treasure, being sealed with God’s image. Therefore, it is not becoming for the divine wisdom for the soul to be infused into the kind of body from which it contracts a stain.  
 
@@ -266,7 +268,7 @@ Article 3
 
 ***Whether souls are equal at their creation***
 
-***To the third we proceed as follows. It seems that souls are equal from their creation.***
+To the third we proceed as follows. It seems that souls are equal from their creation.  
 
 Obj. 1: For a formal difference differentiates species. But the soul is the form of the body. Therefore, since all men belong to a single species, it seems that there is no difference among men on the part of the soul.  
 
@@ -308,7 +310,7 @@ Reply Sed Contra 7: Although the intellect is separate from the body as regards 
 
 Exposition of the text  
 
-****So that it is not able to dominate afterwards*.*Sent*. II, 32.1(213).2. It seems from this that by going after concupiscences, one calls back the dominion of original sin, and thus, that from actual sin, original fault returns.***
+*So that it is not able to dominate afterwards*.*Sent*. II, 32.1(213).2. It seems from this that by going after concupiscences, one calls back the dominion of original sin, and thus, that from actual sin, original fault returns.  
 
 But it should be said that the dominion of concupiscence is called back through an actual sin in two ways: because grace, which mitigated the impulse of concupiscence, is taken away; and because by an actual sin propensity to sin is increased. Now, in neither way does original sin return, as is clear from the aforementioned. For even if grace is subtracted, this does not occur by an act of origination. Hence it is not an original stain but an actual one that follows. Likewise, too, it does not return from the fact that propensity is increased by custom because this pertains not to what belongs to nature, which is what original sin essentially regards, but instead follows on the person as what remains due to personal acts.  
 

@@ -1,10 +1,12 @@
 # On Things above Man
 
+***On God***
+
 ***Question 1***
 
 ***Regarding the existence of God***
 
-***There were questions concerning things which are above manQq. 1–5. and concerning human things.Qq. 6–23.***
+There were questions concerning things which are above manQq. 1–5. and concerning human things.Qq. 6–23.  
 
 About the first, there were questions concerning God,Qq. 1–3. angels,Q. 4. and heaven.Q. 5.  
 
@@ -12,9 +14,9 @@ About the first, there was a question concerning God in regard to his existence,
 
 Article 1  
 
-***Whether in God there is only one existence, namely, essential, or besides that there is also in God personal existence***
+Whether in God there is only one existence, namely, essential, or besides that there is also in God personal existence  
 
-***About the first there was a question whether in God there is only one existence, namely, essential, or besides that there is also in God personal existence. And it seems that there is.***
+About the first there was a question whether in God there is only one existence, namely, essential, or besides that there is also in God personal existence. And it seems that there is.  
 
 Obj. 1: For the Father is one existence, the Son another existence, and the Holy Spirit another existence. But essential existence is not one thing and another. Therefore, there is more than one existence in God.  
 
@@ -42,13 +44,13 @@ Article 1
 
 ***Whether God can make contradictories exist simultaneously***
 
-***I answer that to the first it must be said no. And this does not imply an imperfection of power in God, but because this does not have the nature of the possible. For every active power produces an effect similar to itself;Aquinas, *Commentary on Aristotle’s On the Soul*, bk. 2, lect. 30, n. 658. yet everything which acts, acts inasmuch as it is a being in act.Cf. Aquinas, *Commentary on Aristotle’s On Sense and What is Sensed*, tr. 1, lect. 16, nn. 138–39. Therefore, the effect of an agent is a being in act. Therefore, whatever is repugnant to that which exists in act is repugnant to active power: which would be, if contradictories were to exist simultaneously.***
+I answer that to the first it must be said no. And this does not imply an imperfection of power in God, but because this does not have the nature of the possible. For every active power produces an effect similar to itself;Aquinas, *Commentary on Aristotle’s On the Soul*, bk. 2, lect. 30, n. 658. yet everything which acts, acts inasmuch as it is a being in act.Cf. Aquinas, *Commentary on Aristotle’s On Sense and What is Sensed*, tr. 1, lect. 16, nn. 138–39. Therefore, the effect of an agent is a being in act. Therefore, whatever is repugnant to that which exists in act is repugnant to active power: which would be, if contradictories were to exist simultaneously.  
 
 Article 2  
 
 ***Whether he can make things infinite in act***
 
-***To the second it must be said that at first glance it could be suspected that it would be impossible for something to be infinite in act, because it would follow that such a thing is equal to God. But this does not follow, because something infinite in all ways is not equated with something infinite in one way. Supposing that there was fire infinite in magnitude, it would not be equal to God, because, although the fire is infinite in quantity, nevertheless it is something finite in species, while God is infinite in all ways.***
+To the second it must be said that at first glance it could be suspected that it would be impossible for something to be infinite in act, because it would follow that such a thing is equal to God. But this does not follow, because something infinite in all ways is not equated with something infinite in one way. Supposing that there was fire infinite in magnitude, it would not be equal to God, because, although the fire is infinite in quantity, nevertheless it is something finite in species, while God is infinite in all ways.  
 
 When, therefore, it is asked whether it is possible for God to make something infinite in act, it must be said that it is not. For something is repugnant to the power of an intelligent agent in two ways. One way is because it is repugnant to its power. Another way is because it is repugnant to the way it acts. In the first way it is not repugnant to the power of God absolutely, because it does not involve a contradiction. But, if the way by which God acts is considered, it is not possible: for God acts through his intellect and through the Word, which is formative of all things. Hence it is necessary for all things which he does to be formed. Yet the infinite is understood as matter without form, for the infinite maintains itself on the part of matter.Cf. above: *Quodlibet IX*, q. 1, a. 1, resp.; Aristotle, *Physics* 3.6, 206b14–15; 207a21–22; 3.7, 207b35–208a1. If, therefore, God were to do this, it would follow that the work of God would be something unformed, and this is repugnant to that through which he acts and to his way of acting, because he does all things through his Word, by which all things are formed.  
 
@@ -60,7 +62,7 @@ Question 3
 
 ***Whether predestination is certain***
 
-***Then there was a question concerning whether predestination is certain. And it seems that it is not.***
+Then there was a question concerning whether predestination is certain. And it seems that it is not.  
 
 Obj. 1: Because it is possible for one predestined to be damned, such as Peter if he had died at once when he sinned by denying Christ.  
 
@@ -76,7 +78,7 @@ Article 2
 
 ***On fate***
 
-***Then there was a question concerning fate, whether all things are subject to fate.***
+Then there was a question concerning fate, whether all things are subject to fate.  
 
 I answer that it is necessary to know first what fate is, and thus afterwards the proposition will be obvious.  
 
@@ -104,13 +106,13 @@ On angels
 
 ***On angels***
 
-***Then there were questions concerning angels. And about this two things were asked.***
+Then there were questions concerning angels. And about this two things were asked.  
 
 Article 1  
 
 ***Whether the existence of an angel is an accident of it***
 
-***First, whether the existence of an angel is an accident of it. And it seems that it is not.***
+First, whether the existence of an angel is an accident of it. And it seems that it is not.  
 
 Obj. 1: Because accident is understood in the existence of something preexisting. Yet an angel does not preexist existence itself.  
 
@@ -148,7 +150,7 @@ On heaven
 
 ***On heaven***
 
-***Then there were questions concerning heaven. And about this two things were asked.***
+Then there were questions concerning heaven. And about this two things were asked.  
 
 Article 1  
 

@@ -1,8 +1,10 @@
 # D. 4 - Condition of the angels with regard to glory and wretchedness
 
+***Condition of the angels with regard to glory and wretchedness***
+
 ***Division of the text***
 
-***Having shown the condition of the angels at the beginning of their creation with regard to nature and with regard to fault and innocence, here he inquires as to their condition with regard to glory and wretchedness. This is divided into three parts.***
+Having shown the condition of the angels at the beginning of their creation with regard to nature and with regard to fault and innocence, here he inquires as to their condition with regard to glory and wretchedness. This is divided into three parts.  
 
 In the first, he raises the question.  
 
@@ -46,7 +48,7 @@ Article 1
 
 ***Whether the angels were created blessed***
 
-***To the first we proceed as follows.Parallel text: *ST* 1.62.1. It seems that the angels were created blessed.***
+To the first we proceed as follows.Parallel text: *ST* 1.62.1. It seems that the angels were created blessed.  
 
 Obj. 1: First, this seems to be from Augustine, who says in *On Church Doctrine*Rather: Gennadius of Marseilles (d. ca. 496 AD), *Book of Ecclesiastical Dogmas*, ch. 29 (PL 42:1218). that the angels who persevered in that beatitude in which they were created possess, not by nature but by grace, the fact that they will never be changed. But the good angels, about whom he is speaking, persevere in the beatitude of perfect glory. Therefore, it seems they were created in it.  
 
@@ -80,7 +82,7 @@ Article 2
 
 ***Whether the angels foreknew their wretchedness or beatitude***
 
-***To the second we proceed as follows. It seems that the angels foreknew their wretchedness or beatitude.***
+To the second we proceed as follows. It seems that the angels foreknew their wretchedness or beatitude.  
 
 Obj. 1: For angels, as too for men, wretchedness arises from sin. But men’s sin is sometimes announced to them in advance, as for example when the Lord foretold to Peter his future sin (Matt 26:75). Therefore, it seems that he should also have announced to the angels their fall in advance.  
 
@@ -108,7 +110,7 @@ Article 3
 
 ***Whether the angels were created in grace***
 
-***To the third we proceed as follows.Parallel text: *ST* 1.62.3. It seems that the angels were not created in grace.***
+To the third we proceed as follows.Parallel text: *ST* 1.62.3. It seems that the angels were not created in grace.  
 
 Obj. 1: For, as Augustine says,Augustine, *On the Literal Interpretation of Genesis*, bk. 1, ch. 3 (CSEL 28.1:7; PL 34:248). by “heaven,” which is mentioned as the first thing created, may be understood formless spiritual nature as it can exist in itself without having been turned toward the Creator. But this turning to God takes place through grace. Therefore, it seems that the angelic nature was created formless, without grace.  
 
@@ -144,6 +146,6 @@ Reply Sed Contra: But those who maintain the other opinion respond to the author
 
 Exposition of the text  
 
-****Who did not know what would happen to them*.*Sent*. II, 4.1(19).2. For it pertains to the account of happiness that the one who is happy is not ignorant of what pertains to him, even though having knowledge of everything is not required for happiness.***
+*Who did not know what would happen to them*.*Sent*. II, 4.1(19).2. For it pertains to the account of happiness that the one who is happy is not ignorant of what pertains to him, even though having knowledge of everything is not required for happiness.  
 
 *That is completely and universally perfect to which nothing is ever lacking*.*Sent*. II, 4.1(19).6. What the Philosopher says in the *Metaphysics* 5Aristotle, *Metaphysics* 5.16, 1021b30–33. agrees with this, that the being that is simply perfect is the one that has in itself all the perfections found in the genera of things. And in the same place the Commentator says that this perfection is found in God.

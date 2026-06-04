@@ -1,8 +1,10 @@
 # Chapter 11
 
+***Term 1***
+
 ***The Magnamimous Man***
 
-***The magnanimous man behaves well in all things: in wealth, power, and every good fortune. He neither rejoices too much in times of prosperity nor is saddened in adverse times, nor delights too much in honours.***
+The magnanimous man behaves well in all things: in wealth, power, and every good fortune. He neither rejoices too much in times of prosperity nor is saddened in adverse times, nor delights too much in honours.  
 
 Those who have good fortune without virtue are not magnanimous.  
 
@@ -64,7 +66,7 @@ Term 2
 
 ***Evil Men***
 
-***Evil men desire pleasure as if it were the good and flee pain as if it were evil. For to them there seems to be no good.***
+Evil men desire pleasure as if it were the good and flee pain as if it were evil. For to them there seems to be no good.  
 
 'No one is willingly evil nor unwillingly happy.' The former is false, the latter truthful.  
 
@@ -126,7 +128,7 @@ Term 4
 
 ***Magnificence***
 
-***Magnificence is a mean regarding wealth, but magnificence differs from a liberal man.***
+Magnificence is a mean regarding wealth, but magnificence differs from a liberal man.  
 
 Magnificence is a kind of virtue concerned with large sums of wealth.  
 
@@ -166,7 +168,7 @@ Term 5
 
 ***The Meek Man***
 
-***We praise the meek man because he does not wish to be troubled nor led by passsion, but he acts in accord with what reason dictates in every circumstance. He errs on the side of deficiency, because he is not vengeful but he rather makes allowances.***
+We praise the meek man because he does not wish to be troubled nor led by passsion, but he acts in accord with what reason dictates in every circumstance. He errs on the side of deficiency, because he is not vengeful but he rather makes allowances.  
 
 Meekness is less like an excess than to a deficiency.  
 
@@ -182,7 +184,7 @@ Term 7
 
 ***The Physician***
 
-***A physician does not deal with health in a universal way, but a man's health, and consequently, he deals with man.***
+A physician does not deal with health in a universal way, but a man's health, and consequently, he deals with man.  
 
 The business of the best physicians is to consider and know about the body.  
 
@@ -246,7 +248,7 @@ Term 10
 
 ***Lie***
 
-***A lie is a thing evil in itself and should be avoided; truth, however, is good and worth of praise.***
+A lie is a thing evil in itself and should be avoided; truth, however, is good and worth of praise.  
 
 Liars are worthy of blame, but more so the boaster.  
 
@@ -264,7 +266,7 @@ Term 11
 
 ***Measurement***
 
-***How to make a measurement when gifts of this kind are given without an agreement but with hope of repayment. The Philosopher says that it is not only necessary, but even just, for the one who first who had before to lay out and measure repayment such that both the giver and the receive will be treated fairly, such we observe in commerce.***
+How to make a measurement when gifts of this kind are given without an agreement but with hope of repayment. The Philosopher says that it is not only necessary, but even just, for the one who first who had before to lay out and measure repayment such that both the giver and the receive will be treated fairly, such we observe in commerce.  
 
 It is necessary to measure all things with one way of measuring which contains everything and accords with truth.  
 
@@ -272,7 +274,7 @@ Term 12
 
 ***Manner /method***
 
-***The method of going about reasoning from principles or to them, as in the example Plato gives of race track and athletes.***
+The method of going about reasoning from principles or to them, as in the example Plato gives of race track and athletes.  
 
 Term 13  
 
@@ -318,7 +320,7 @@ Term 16
 
 ***A Loan***
 
-***Just as borrowers wish the health of those from whom they borrow, that they might not loose what they have, and not the other way round, it is also this way in the giving of gifts. The origin of this explanation was Epicarius.***
+Just as borrowers wish the health of those from whom they borrow, that they might not loose what they have, and not the other way round, it is also this way in the giving of gifts. The origin of this explanation was Epicarius.  
 
 One must first pay on an owed loan before giving to a friend.  
 
@@ -326,7 +328,7 @@ Term 17
 
 ***Reward***
 
-***A man ought to return a reward according to the value he judges of the thing he received.***
+A man ought to return a reward according to the value he judges of the thing he received.  
 
 A prince's reward is honour and glory.  
 
@@ -334,7 +336,7 @@ Term 18
 
 ***Mothers***
 
-***Some man, the king of Persia, sacrificed his mother, on account of his insanity, and ate her.***
+Some man, the king of Persia, sacrificed his mother, on account of his insanity, and ate her.  
 
 Mothers love their children more than fathers, because they are more certain of them.  
 
@@ -344,13 +346,13 @@ Term 19
 
 ***Subject Matter***
 
-***The level of precision in an inquiry required depends upon what is proper to that field of knowledge.***
+The level of precision in an inquiry required depends upon what is proper to that field of knowledge.  
 
 Term 20  
 
 ***Soldiers***
 
-***Soldiers are well-versed in military matters, which include many things that are harmless and should not be feared. So they appear courageous setting out calmly to battle; they know how to cause others harm and avoid others' blows.***
+Soldiers are well-versed in military matters, which include many things that are harmless and should not be feared. So they appear courageous setting out calmly to battle; they know how to cause others harm and avoid others' blows.  
 
 The best soldiers need not be courageous men. It is enough that they be ready for dangers and have no other good in view. For they fight for temporal goods and trade their life for small gains, but a courageous man gives his life for what is best and for the good of virtue.  
 
@@ -358,7 +360,7 @@ Term 21
 
 ***Multiplicity/ differences in meaning***
 
-***There is a wide range of differences in meanings (of justice), since some are latent and some more apparent, some close and others remote.***
+There is a wide range of differences in meanings (of justice), since some are latent and some more apparent, some close and others remote.  
 
 Term 22  
 
@@ -398,7 +400,7 @@ Term 26
 
 ***Women***
 
-***Women are not called incontinent absolutely, since they do not govern their emotions but are governed rather by a soft nature and a deficiency of reason.***
+Women are not called incontinent absolutely, since they do not govern their emotions but are governed rather by a soft nature and a deficiency of reason.  
 
 Term 27  
 
@@ -408,4 +410,4 @@ Term 27
 
 The Milesians  
 
-***The Milesians are not foolish, but they act as if they were. They are indeed incontinent but not unjust, though they do commit unjust acts.***
+The Milesians are not foolish, but they act as if they were. They are indeed incontinent but not unjust, though they do commit unjust acts.

@@ -1,6 +1,8 @@
 # D. 18 - Power of the keys
 
-***Postquam determinavit Magister de poenitentia quantum ad totum et partes ejus, hic incipit determinare de potestate ministrorum, quibus hujus sacramenti dispensatio est commissa; et dividitur in partes duas: in prima determinat de ipsa potestate, quae claves Ecclesiae dicuntur; in secunda determinat de habentibus claves, 19 dist., ibi: *postquam ostensum est quae sint claves apostolicae, et quis eorum usus, superest investigare quando istae claves dentur, et quibus*.***
+***De clavibus***
+
+Postquam determinavit Magister de poenitentia quantum ad totum et partes ejus, hic incipit determinare de potestate ministrorum, quibus hujus sacramenti dispensatio est commissa; et dividitur in partes duas: in prima determinat de ipsa potestate, quae claves Ecclesiae dicuntur; in secunda determinat de habentibus claves, 19 dist., ibi: *postquam ostensum est quae sint claves apostolicae, et quis eorum usus, superest investigare quando istae claves dentur, et quibus*.  
 
 Prima in duas: in prima movet quaestionem ex praedictis de potestate ministrorum; in secunda determinat eam, ostendens quae dicantur claves Ecclesiae, et ad quid se extendant, ibi: *claves istae non sunt corporales, sed spirituales*.  
 
@@ -36,7 +38,7 @@ primo, de clavibus secundum se;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod claves in Ecclesia esse non debeant. Non enim requiruntur claves ad intrandum domum, cujus ostium est apertum. Sed Apoc. 4, 1, dicitur: *vidi, et ecce in caelo ostium apertum*; quod Christus est, qui de seipso dicit Joan. 10, 7: *ego sum ostium*. Ergo ad introducendum in caelum Ecclesia clavibus non indiget.***
+Ad primum sic proceditur. Videtur quod claves in Ecclesia esse non debeant. Non enim requiruntur claves ad intrandum domum, cujus ostium est apertum. Sed Apoc. 4, 1, dicitur: *vidi, et ecce in caelo ostium apertum*; quod Christus est, qui de seipso dicit Joan. 10, 7: *ego sum ostium*. Ergo ad introducendum in caelum Ecclesia clavibus non indiget.  
 
 Praeterea, clavis est ad aperiendum et claudendum. Sed hoc solius Christi est, *qui aperit, et nemo claudit; claudit, et nemo aperit*; Apoc. 3, 7. Ergo Ecclesia in ministris suis claves non habet.  
 
@@ -48,7 +50,7 @@ Praeterea, omnis dispensator debet habere claves eorum quae dispensat. Sed minis
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod clavis non sit potestas ligandi et solvendi, qua ecclesiasticus judex dignos recipere, indignos excludere debet a regno, ut ex littera habetur, et ex *Glossa* Hieronymi Matth. 16. Potestas enim spiritualis in sacramento collata, est idem quod character, ut supra, dist. 4, dictum est. Sed clavis et character non videntur idem esse; quia per characterem homo Deo comparatur, per claves autem ad subditos. Ergo clavis non est potestas.***
+Ulterius. Videtur quod clavis non sit potestas ligandi et solvendi, qua ecclesiasticus judex dignos recipere, indignos excludere debet a regno, ut ex littera habetur, et ex *Glossa* Hieronymi Matth. 16. Potestas enim spiritualis in sacramento collata, est idem quod character, ut supra, dist. 4, dictum est. Sed clavis et character non videntur idem esse; quia per characterem homo Deo comparatur, per claves autem ad subditos. Ergo clavis non est potestas.  
 
 Praeterea, ecclesiasticus judex non dicitur nisi ille qui habet jurisdictionem, quae simul cum ordine non datur. Sed claves in ordinis susceptione conferuntur. Ergo non debuit de ecclesiastico judice in definitione clavium mentio fieri.  
 
@@ -60,7 +62,7 @@ Praeterea, in omnibus agentibus ordinatis ultimus finis pertinet ad principale a
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non sint duae claves, sed tantum una. Ad unam enim seram non requiritur nisi una clavis. Sed sera ad quam amovendam ordinantur Ecclesiae claves, est peccatum. Ergo contra unum peccatum non indiget Ecclesia duabus clavibus.***
+Ulterius. Videtur quod non sint duae claves, sed tantum una. Ad unam enim seram non requiritur nisi una clavis. Sed sera ad quam amovendam ordinantur Ecclesiae claves, est peccatum. Ergo contra unum peccatum non indiget Ecclesia duabus clavibus.  
 
 Praeterea, claves in collatione ordinis conferuntur. Sed scientia non est ex infusione semper, sed quandoque ex acquisitione; nec ab omnibus ordinatis habetur, et a quibusdam non ordinatis habetur. Ergo scientia non est clavis; et sic est tantum una clavis, scilicet potestas judicandi.  
 
@@ -72,7 +74,7 @@ Praeterea, tota Trinitas peccata remittit. Sed sacerdos per claves est minister 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in corporalibus dicitur clavis instrumentum quo ostium aperitur. Regni autem ostium nobis clauditur per peccatum et quantum ad maculam, et quantum ad reatum poenae; et ideo potestas qua tale obstaculum regni removetur, dicitur clavis. Haec autem potestas est quidem in sanctissima Trinitate per auctoritatem; et ideo dicitur a quibusdam quod habet clavem auctoritatis; sed in Christo homine fuit haec potestas ad removendum praedictum obstaculum per meritum passionis, quae etiam dicitur januam aperire; et ideo dicitur habere secundum quosdam claves excellentiae. Sed quia *ex latere dormientis in cruce sacramenta fluxerunt, quibus Ecclesia fabricatur*; ideo in sacramentis Ecclesiae efficacia passionis manet; et propter hoc etiam in ministris Ecclesiae, qui sunt dispensatores sacramentorum, potestas aliqua manet ad praedictum obstaculum removendum, non propria virtute, sed virtute divina, et passionis Christi; et haec potestas metaphorice clavis Ecclesiae dicitur; quae est clavis ministerii.***
+Respondeo dicendum ad primam quaestionem, quod in corporalibus dicitur clavis instrumentum quo ostium aperitur. Regni autem ostium nobis clauditur per peccatum et quantum ad maculam, et quantum ad reatum poenae; et ideo potestas qua tale obstaculum regni removetur, dicitur clavis. Haec autem potestas est quidem in sanctissima Trinitate per auctoritatem; et ideo dicitur a quibusdam quod habet clavem auctoritatis; sed in Christo homine fuit haec potestas ad removendum praedictum obstaculum per meritum passionis, quae etiam dicitur januam aperire; et ideo dicitur habere secundum quosdam claves excellentiae. Sed quia *ex latere dormientis in cruce sacramenta fluxerunt, quibus Ecclesia fabricatur*; ideo in sacramentis Ecclesiae efficacia passionis manet; et propter hoc etiam in ministris Ecclesiae, qui sunt dispensatores sacramentorum, potestas aliqua manet ad praedictum obstaculum removendum, non propria virtute, sed virtute divina, et passionis Christi; et haec potestas metaphorice clavis Ecclesiae dicitur; quae est clavis ministerii.  
 
 Ad primum ergo dicendum, quod ostium caeli, quantum est de se, semper est apertum; sed alicui clausum dicitur propter impedimentum intrandi in caelum, quod in ipso est. Impedimentum autem totius humanae naturae ex peccato primi hominis consecutum, per passionem Christi amotum est; et ideo Joannes post passionem vidit *in caelo ostium apertum*; sed adhuc quotidie alicui manet clausum per peccatum originale quod contrahit, vel actuale quod committit; et propter hoc indigemus sacramentis, et clavibus Ecclesiae.  
 
@@ -82,7 +84,7 @@ Ad tertium dicendum, quod clavis inferni qua aperitur et clauditur, est potestas
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum Philosophum in 2 *de Anima*, potentiae per actus definiuntur. Unde cum clavis sit potestas quaedam, ut dictum est, oportet quod per actum sive usum suum definiatur; et quod in actu objectum exprimatur a quo speciem recipit actus; et modus agendi, ex quo apparet potentia ordinata. Actus autem potestatis spiritualis non est ut caelum aperiat absolute, quia jam apertum est, ut dictum est; sed ut quantum ad hunc aperiat; quod quidem ordinate fieri non potest, nisi idoneitate ejus cui aperiendum est caelum pensata; et ideo in praedicta definitione clavis, ponitur genus, scilicet *potestas*, et subjectum potestatis, scilicet *judex ecclesiasticus*, et actus, scilicet *excludere et recipere* secundum duos actus materialis clavis, aperire et claudere; cujus objectum tangit in hoc quod dicit: *a regno*; modus autem in hoc quod *dignitas et indignitas* in illis in quos actus exercetur, pensatur.***
+Ad secundam quaestionem dicendum, quod secundum Philosophum in 2 *de Anima*, potentiae per actus definiuntur. Unde cum clavis sit potestas quaedam, ut dictum est, oportet quod per actum sive usum suum definiatur; et quod in actu objectum exprimatur a quo speciem recipit actus; et modus agendi, ex quo apparet potentia ordinata. Actus autem potestatis spiritualis non est ut caelum aperiat absolute, quia jam apertum est, ut dictum est; sed ut quantum ad hunc aperiat; quod quidem ordinate fieri non potest, nisi idoneitate ejus cui aperiendum est caelum pensata; et ideo in praedicta definitione clavis, ponitur genus, scilicet *potestas*, et subjectum potestatis, scilicet *judex ecclesiasticus*, et actus, scilicet *excludere et recipere* secundum duos actus materialis clavis, aperire et claudere; cujus objectum tangit in hoc quod dicit: *a regno*; modus autem in hoc quod *dignitas et indignitas* in illis in quos actus exercetur, pensatur.  
 
 Ad primum ergo dicendum, quod ad duo quorum unum est causa alterius, una potestas ordinatur; sicut in igne calor ad calefaciendum et dissolvendum. Et quia omnis gratia et remissio in corpore mystico ex capite suo provenit; ideo eadem potestas esse videtur per essentiam, qua sacerdos conficere potest, et qua potest ligare et solvere, si jurisdictio adsit; nec differt nisi ratione secundum quod ad diversos effectus comparatur; sicut etiam ignis dicitur secundum aliam rationem calefactivus et liquefactivus. Et quia nihil est aliud character ordinis sacerdotalis quam potestas exercendi illud ad quod principaliter ordo sacerdotii ordinatur sustinendo, oportet quod sit idem quod spiritualis potestas; ideo character, et potestas conficiendi, et potestas clavium, est unum et idem per essentiam, sed differt ratione.  
 
@@ -96,7 +98,7 @@ Ad quintum dicendum, quod actus sacerdotis non est immediate super regnum, sed s
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in omni actu qui requirit idoneitatem ex parte recipientis, duo sunt necessaria ei qui debet actum illum exercere; scilicet judicium de idoneitate recipientis, et expletio actus; et ideo etiam in actu justitiae, per quem redditur alicui hoc quo dignus est, oportet esse judicium quo discernatur an sit dignus, et ipsa redditio; et ad utrumque horum auctoritas quaedam, sive potestas, exigitur. Non enim dare possumus nisi quod in potestate habemus: nec judicium dici potest, nisi vim coactivam habeat, eo quod judicium jam ad unum determinatur: quae quidem determinatio in speculativis fit per virtutem primorum principiorum quibus resisti non potest: et in rebus practicis per vim imperativam in judicante existentem. Et quia actus clavis requirit idoneitatem in eo in quem exercetur, quia recipit per clavem judex ecclesiasticus dignos, et excludit indignos, ut ex dicta definitione patet; ideo indiget judicio discretionis, quo idoneitatem judicat, et ipso receptionis actu; et ad utrumque horum potestas quaedam, sive auctoritas, requiritur; et secundum hoc duae claves distinguuntur, quarum una pertinet ad judicium de idoneitate ejus qui absolvendus est, et alia ad ipsam absolutionem; et hae duae claves non distinguuntur in essentia auctoritatis, quia utrumque ex officio sibi competit, sed ex comparatione ad actus, quorum unus alium praesupponit.***
+Ad tertiam quaestionem dicendum, quod in omni actu qui requirit idoneitatem ex parte recipientis, duo sunt necessaria ei qui debet actum illum exercere; scilicet judicium de idoneitate recipientis, et expletio actus; et ideo etiam in actu justitiae, per quem redditur alicui hoc quo dignus est, oportet esse judicium quo discernatur an sit dignus, et ipsa redditio; et ad utrumque horum auctoritas quaedam, sive potestas, exigitur. Non enim dare possumus nisi quod in potestate habemus: nec judicium dici potest, nisi vim coactivam habeat, eo quod judicium jam ad unum determinatur: quae quidem determinatio in speculativis fit per virtutem primorum principiorum quibus resisti non potest: et in rebus practicis per vim imperativam in judicante existentem. Et quia actus clavis requirit idoneitatem in eo in quem exercetur, quia recipit per clavem judex ecclesiasticus dignos, et excludit indignos, ut ex dicta definitione patet; ideo indiget judicio discretionis, quo idoneitatem judicat, et ipso receptionis actu; et ad utrumque horum potestas quaedam, sive auctoritas, requiritur; et secundum hoc duae claves distinguuntur, quarum una pertinet ad judicium de idoneitate ejus qui absolvendus est, et alia ad ipsam absolutionem; et hae duae claves non distinguuntur in essentia auctoritatis, quia utrumque ex officio sibi competit, sed ex comparatione ad actus, quorum unus alium praesupponit.  
 
 Ad primum ergo dicendum, quod ad unam seram aperiendam una clavis immediate ordinatur; sed non est inconveniens quod una ad actum alterius ordinetur; et sic est in proposito. Secunda enim clavis, quae dicitur potestas ligandi et solvendi, est quae immediate seram aperit peccati; sed clavis quae dicitur scientia, ostendit cui aperienda sit clavis*clavis.—sera* PLE. illa.  
 
@@ -116,7 +118,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod macula aliquid positive in anima sit. Si enim est privatio tantum, non erit privatio nisi ejus quod per peccatum aufertur. Sed haec est gratia. Ergo cum omne peccatum gratiam auferat, omnium peccatorum erit una macula; et sic secundum peccatum nullam maculam animae adjiciet praeter maculam primi peccati.***
+Ad secundum sic proceditur. Videtur quod macula aliquid positive in anima sit. Si enim est privatio tantum, non erit privatio nisi ejus quod per peccatum aufertur. Sed haec est gratia. Ergo cum omne peccatum gratiam auferat, omnium peccatorum erit una macula; et sic secundum peccatum nullam maculam animae adjiciet praeter maculam primi peccati.  
 
 Praeterea, privatio quae ex peccato in anima relinquitur, dicitur caecitas, vel tenebra, quae ad intellectum pertinet. Sed haec macula non est hujusmodi, cum ad effectum*effectum.—affectum* PLE. pertinere videatur. Ergo macula non est privatio tantum, sed aliquid ponit.  
 
@@ -128,7 +130,7 @@ Sed contra, ex peccato non remanet positive aliquid in anima nisi dispositio, ve
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod peccatum nunquam possit remitti quo ad maculam. Quia ex hoc ipso quod aliquis peccavit, pulchritudinem innocentiae amisit. Sed non potest hanc pulchritudinem recuperare, nisi contingeret ipsum non peccasse. Ergo cum hoc sit omnino impossibile, impossibile est quod alicui peccatum remittatur quo ad maculam.***
+Ulterius. Videtur quod peccatum nunquam possit remitti quo ad maculam. Quia ex hoc ipso quod aliquis peccavit, pulchritudinem innocentiae amisit. Sed non potest hanc pulchritudinem recuperare, nisi contingeret ipsum non peccasse. Ergo cum hoc sit omnino impossibile, impossibile est quod alicui peccatum remittatur quo ad maculam.  
 
 Praeterea, ex hoc ipso homo turpitudinem quamdam habet, quod tempus debitum servitio Creatoris, in peccatum expendit. Sed tempus illud quod jam effluxit recuperari non potest. Ergo nec macula mundari.  
 
@@ -136,7 +138,7 @@ Sed contra est quod dicitur Ephes. 6, quod Christus conjunxit sibi Ecclesiam non
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod si remittatur peccatum quoad maculam quod remittatur quoad omnem poenam. Quia remota causa removetur effectus. Sed causa quare aliquis erat reus poenae, est macula culpae. Ergo remota macula, removetur poena.***
+Ulterius. Videtur quod si remittatur peccatum quoad maculam quod remittatur quoad omnem poenam. Quia remota causa removetur effectus. Sed causa quare aliquis erat reus poenae, est macula culpae. Ergo remota macula, removetur poena.  
 
 Praeterea, quicumque absque culpa existens punitur, injuste punitur. Sed ille cui remissum est peccatum quo ad maculam, est absque culpa. Ergo injuste puniretur; et ita videtur quod non sit aliqua poena dignus, et sit sibi reatus poenae remissus.  
 
@@ -144,7 +146,7 @@ Sed contra, peccatum non punitur per hoc quod remittitur quo ad maculam. Sed omn
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ex hoc aliquid maculatum dicitur, quia debitae pulchritudinis patitur detrimentum. Unde macula, secundum quod hujusmodi, non habet quod aliquid ponat; sed per comparationem ad illud quod pulchritudinis detrimentum causat, aliquid quandoque ponere dicitur: sicut aliquid in facie inductum quod candorem faciei tegit aut privat. Pulchritudo autem animae consistit in assimilatione ipsius ad Deum, ad quem formari debet per claritatem gratiae ab eo susceptam. Sicut autem perceptio claritatis corporalis a sole prohibetur a nobis per aliquod obstaculum interpositum; ita etiam claritas gratiae prohibetur ab anima per peccatum commissum, quod dividit inter nos et Deum, ut dicitur Isa. 59; unde ipsa macula, quantum in se est, non ponit de essentia sua nisi privationem gratiae, sed ponit ut causam obstaculum peccati, quod obstat ad gratiae receptionem; et propter hoc etiam macula tenebra dicitur ratione praedictae similitudinis.***
+Respondeo dicendum ad primam quaestionem, quod ex hoc aliquid maculatum dicitur, quia debitae pulchritudinis patitur detrimentum. Unde macula, secundum quod hujusmodi, non habet quod aliquid ponat; sed per comparationem ad illud quod pulchritudinis detrimentum causat, aliquid quandoque ponere dicitur: sicut aliquid in facie inductum quod candorem faciei tegit aut privat. Pulchritudo autem animae consistit in assimilatione ipsius ad Deum, ad quem formari debet per claritatem gratiae ab eo susceptam. Sicut autem perceptio claritatis corporalis a sole prohibetur a nobis per aliquod obstaculum interpositum; ita etiam claritas gratiae prohibetur ab anima per peccatum commissum, quod dividit inter nos et Deum, ut dicitur Isa. 59; unde ipsa macula, quantum in se est, non ponit de essentia sua nisi privationem gratiae, sed ponit ut causam obstaculum peccati, quod obstat ad gratiae receptionem; et propter hoc etiam macula tenebra dicitur ratione praedictae similitudinis.  
 
 Ad primum ergo dicendum, quod quamvis quantum ad ipsam privationem gratiae non differant maculae peccatorum, differunt tamen quantum ad causam, ex qua macula consequitur; et secundum hoc etiam quodlibet peccatum unam maculam addit, inquantum novum obstaculum gratiae ponit.  
 
@@ -156,7 +158,7 @@ Ad quartum dicendum, quod macula quantum ad causam dividitur ab omni poena; sed 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod macula obscuritatis ex interpositione causata non potest auferri, nisi obstaculum interpositum amoveatur. Peccatum autem, quod erat obstaculum interpositum, prohibens gratiae claritatem, non potest removeri ut factum non sit, sed ut effectum avertendi Deum a nobis non habeat, qui propter aversionem qua ab eo aversi propter peccatum fuimus, a nobis aversus manebat; et ideo secundum hoc quod se ad nos sua benignitate convertit, dicitur peccatum nostrum remittere; sicut nos offensam alicui remittimus, cum ad eum propter offensam praeteritam ulterius malevolentiam non servamus; quae quidem in Deum secundum effectum accipienda sunt, ut in 3 Lib. dist. 32, dictum est; et propter hoc etiam Deus remittendo peccatum dicitur ipsum tegere, quasi non aspiciens ad praeteritum peccatum, ut ratione ejus gratiam nobis deneget.***
+Ad secundam quaestionem dicendum, quod macula obscuritatis ex interpositione causata non potest auferri, nisi obstaculum interpositum amoveatur. Peccatum autem, quod erat obstaculum interpositum, prohibens gratiae claritatem, non potest removeri ut factum non sit, sed ut effectum avertendi Deum a nobis non habeat, qui propter aversionem qua ab eo aversi propter peccatum fuimus, a nobis aversus manebat; et ideo secundum hoc quod se ad nos sua benignitate convertit, dicitur peccatum nostrum remittere; sicut nos offensam alicui remittimus, cum ad eum propter offensam praeteritam ulterius malevolentiam non servamus; quae quidem in Deum secundum effectum accipienda sunt, ut in 3 Lib. dist. 32, dictum est; et propter hoc etiam Deus remittendo peccatum dicitur ipsum tegere, quasi non aspiciens ad praeteritum peccatum, ut ratione ejus gratiam nobis deneget.  
 
 Ad primum ergo dicendum, quod quamvis non reparetur pulchritudo animae quantum ad aliquod accidens, quod erat dignitas innocentiae; reparatur tamen quantum ad decorem gratiae quae restituitur.  
 
@@ -164,7 +166,7 @@ Et similiter dicendum ad secundum: quia non semper homo recuperat omnia damna qu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in peccato duo sunt, scilicet conversio ad commutabile bonum, et aversio ab incommutabili bono; et secundum hoc duo sunt effectus peccati. Unus est indignatio Dei ad nos, aversioni peccati respondens: alius est poena inordinatam conversionem ordinans. Et quia primum in peccato ex parte nostra est conversio; et quod est prius in generatione, est posterius in destructione; ideo ex parte Dei primo est reconciliatio ipsius ad nos, et secundum hoc est liberatio a debito poenae. Sed poena est duplex; scilicet exterminans hostes, et talis poena ex reconciliatione ipsa removetur; alia poena est quae corrigit civem, et filium, vel amicum; et debitum ejus potest remanere reconciliatione jam facta; et ideo simul cum peccatum remittitur quo ad maculam, remittitur quo ad poenam aeternam, quae est exterminans, sed non quo ad poenam temporalem, quae est corrigens.***
+Ad tertiam quaestionem dicendum, quod in peccato duo sunt, scilicet conversio ad commutabile bonum, et aversio ab incommutabili bono; et secundum hoc duo sunt effectus peccati. Unus est indignatio Dei ad nos, aversioni peccati respondens: alius est poena inordinatam conversionem ordinans. Et quia primum in peccato ex parte nostra est conversio; et quod est prius in generatione, est posterius in destructione; ideo ex parte Dei primo est reconciliatio ipsius ad nos, et secundum hoc est liberatio a debito poenae. Sed poena est duplex; scilicet exterminans hostes, et talis poena ex reconciliatione ipsa removetur; alia poena est quae corrigit civem, et filium, vel amicum; et debitum ejus potest remanere reconciliatione jam facta; et ideo simul cum peccatum remittitur quo ad maculam, remittitur quo ad poenam aeternam, quae est exterminans, sed non quo ad poenam temporalem, quae est corrigens.  
 
 Ad primum ergo dicendum, quod sicut actus praeexistens fuit causa maculae, et tamen transeunte actu non transit macula; ita actus mediante macula fuit causa debiti; et ideo non oportet quod cessante macula debitum poenae cesset, quia cessante primo effectu non oportet quod cesset secundus.  
 
@@ -176,7 +178,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod potestas clavium se extendat ad remissionem culpae. Joan. 20, 25, dicitur discipulis: *quorum remiseritis peccata, remittuntur eis*. Sed hoc non dicitur quantum ad manifestationem tantum, ut Magister in littera dicit, quia sic sacerdos novi testamenti non haberet majorem potestatem quam sacerdos veteris testamenti. Ergo exercet potestatem in culpae remissione.***
+Ad tertium sic proceditur. Videtur quod potestas clavium se extendat ad remissionem culpae. Joan. 20, 25, dicitur discipulis: *quorum remiseritis peccata, remittuntur eis*. Sed hoc non dicitur quantum ad manifestationem tantum, ut Magister in littera dicit, quia sic sacerdos novi testamenti non haberet majorem potestatem quam sacerdos veteris testamenti. Ergo exercet potestatem in culpae remissione.  
 
 Praeterea, in poenitentia datur gratia in remissionem peccati. Sed hujus sacramenti dispensator est sacerdos ex vi clavium. Ergo cum gratia non opponatur peccato ex parte poenae, sed ex parte culpae, videtur quod sacerdos ad remissionem culpae operetur ex vi clavium.  
 
@@ -188,7 +190,7 @@ Praeterea, peccatum non dimittitur nisi per Spiritum Sanctum. Sed dare Spiritum 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non possit remittere peccatum quo ad poenam. Peccato enim debetur poena aeterna et temporalis. Sed adhuc post absolutionem sacerdotis manet poenitens obligatus ad poenam temporalem in purgatorio vel in hoc mundo faciendam. Ergo non dimittit aliquo modo poenam.***
+Ulterius. Videtur quod non possit remittere peccatum quo ad poenam. Peccato enim debetur poena aeterna et temporalis. Sed adhuc post absolutionem sacerdotis manet poenitens obligatus ad poenam temporalem in purgatorio vel in hoc mundo faciendam. Ergo non dimittit aliquo modo poenam.  
 
 Praeterea, sacerdos non potest praejudicare divinae justitiae. Sed ex divina justitia taxata est poena poenitenti quam debet subire. Ergo sacerdos de ea non potest aliquid remittere.  
 
@@ -202,7 +204,7 @@ Praeterea, sacerdos non potest dimittere peccatum quantum ad culpam, ut in litte
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sacerdos per potestatem clavium ligare non possit. Virtutes enim sacramentales ordinantur contra peccatum ut medicina. Sed ligare non est medicina peccati, sed magis aggravatio morbi, ut videtur. Ergo sacerdos per vim clavium, quae est vis sacramentalis, non potest ligare.***
+Ulterius. Videtur quod sacerdos per potestatem clavium ligare non possit. Virtutes enim sacramentales ordinantur contra peccatum ut medicina. Sed ligare non est medicina peccati, sed magis aggravatio morbi, ut videtur. Ergo sacerdos per vim clavium, quae est vis sacramentalis, non potest ligare.  
 
 Praeterea, sicut absolvere vel aperire est amovere obstaculum, ita ligare est obstaculum ponere. Sed obstaculum regni peccatum est, quod nobis ex alio imponi non potest, quia non nisi voluntate peccatur. Ergo sacerdos ligare non potest.  
 
@@ -214,7 +216,7 @@ Praeterea, *potestates rationales sunt ad opposita*. Sed potestas clavium est po
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod possit ligare et solvere secundum proprium arbitrium. Hieronymus enim dicit: *mensuram temporis in agendo poenitentiam non satis aperte praefigunt canones pro unoquoque crimine, ut de singulis dicant qualiter unumquodque sit emendandum; sed magis arbitrio sacerdotis intelligentis relinquendum statuunt*. Ergo videtur quod ipse secundum suum arbitrium possit ligare et solvere.***
+Ulterius. Videtur quod possit ligare et solvere secundum proprium arbitrium. Hieronymus enim dicit: *mensuram temporis in agendo poenitentiam non satis aperte praefigunt canones pro unoquoque crimine, ut de singulis dicant qualiter unumquodque sit emendandum; sed magis arbitrio sacerdotis intelligentis relinquendum statuunt*. Ergo videtur quod ipse secundum suum arbitrium possit ligare et solvere.  
 
 Praeterea, *dominus laudavit villicum iniquitatis, quod prudenter fecisset*, quia debitoribus domini sui remisisset largiter. Sed Deus magis pronus est ad miserendum quam aliquis dominus temporalis. Ergo videtur quod laudabilior sit quantum plus de poena dimiserit.  
 
@@ -226,7 +228,7 @@ Praeterea, ad actum clavium requiritur discretio. Sed si esset omnino in volunta
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sacramenta, secundum Hugonem, *ex sanctificatione invisibilem gratiam continent*. Sed haec sanctificatio quandoque ad necessitatem sacramenti requiritur tam in materia quam in ministro, sicut patet in confirmatione; et tunc vis sacramentalis est in utroque conjunctim. Quandoque autem ex necessitate sacramenti non requiritur nisi sanctificatio materiae, sicut est in baptismo, quia non habet ministrum determinatum quantum ad sui necessitatem; et tunc tota vis sacramentalis consistit in materia. Quandoque vero de necessitate sacramenti requiritur consecratio vel sanctificatio ministri, sine aliqua sanctificatione materiae: et tunc tota vis sacramentalis consistit in ministro, sicut est in poenitentia.***
+Respondeo dicendum ad primam quaestionem, quod sacramenta, secundum Hugonem, *ex sanctificatione invisibilem gratiam continent*. Sed haec sanctificatio quandoque ad necessitatem sacramenti requiritur tam in materia quam in ministro, sicut patet in confirmatione; et tunc vis sacramentalis est in utroque conjunctim. Quandoque autem ex necessitate sacramenti non requiritur nisi sanctificatio materiae, sicut est in baptismo, quia non habet ministrum determinatum quantum ad sui necessitatem; et tunc tota vis sacramentalis consistit in materia. Quandoque vero de necessitate sacramenti requiritur consecratio vel sanctificatio ministri, sine aliqua sanctificatione materiae: et tunc tota vis sacramentalis consistit in ministro, sicut est in poenitentia.  
 
 Unde eodem modo se habet potestas clavium quae est in sacerdote, ad effectum sacramenti poenitentiae, sicut se habet virtus quae est in aqua baptismi, ad effectum baptismi. Baptismus autem et sacramentum poenitentiae conveniunt quodammodo in effectu, quia utrumque contra culpam ordinatur directe, quod non est de aliis sacramentis; sed in hoc differunt, quia sacramentum poenitentiae, eo quod habet actus suscipientis quasi materiales, non potest dari nisi adultis, in quibus requiritur praeparatio ad suscipiendum effectum sacramentorum; sed baptismus quandoque datur adultis, et quandoque pueris, et aliis carentibus usu rationis.  
 
@@ -244,7 +246,7 @@ Aliae rationes ostendunt quod ad remissionem culpae directe clavium potestas non
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod idem judicium est de effectu quem potestas clavium actualiter exercita complet in eo in quo contritio tempore praecessit, et de effectu baptismi qui jam habenti gratiam datur. Aliquis enim per fidem et contritionem praecedentem baptismum, gratiam remissionis peccatorum quantum ad culpam consecutus est; sed quando actualiter postea baptismum suscipit, gratia augetur, et a reatu poenae totaliter absolvitur, eo quod fit particeps passionis Christi. Et similiter ille qui per contritionem consecutus est remissionem peccatorum quantum ad culpam, et per consequens quantum ad reatum poenae aeternae, quae simul cum culpa dimittitur, ex vi clavium ex passione Christi efficaciam habentium augetur gratia, et poena remittitur temporalis, cujus reatus adhuc remanserat post culpae remissionem; non tamen totus, sicut in baptismo, sed pars ejus: eo quod in baptismo homo regeneratur configuratus passioni Christi, totaliter efficaciam passionis Christi, quae sufficit ad omnem poenam delendam, in se suscipiens; ut nihil de prioris peccati actualis poena remaneat: quia non debet alicui imputari ad poenam, nisi quod ipsemet fecit.***
+Ad secundam quaestionem dicendum, quod idem judicium est de effectu quem potestas clavium actualiter exercita complet in eo in quo contritio tempore praecessit, et de effectu baptismi qui jam habenti gratiam datur. Aliquis enim per fidem et contritionem praecedentem baptismum, gratiam remissionis peccatorum quantum ad culpam consecutus est; sed quando actualiter postea baptismum suscipit, gratia augetur, et a reatu poenae totaliter absolvitur, eo quod fit particeps passionis Christi. Et similiter ille qui per contritionem consecutus est remissionem peccatorum quantum ad culpam, et per consequens quantum ad reatum poenae aeternae, quae simul cum culpa dimittitur, ex vi clavium ex passione Christi efficaciam habentium augetur gratia, et poena remittitur temporalis, cujus reatus adhuc remanserat post culpae remissionem; non tamen totus, sicut in baptismo, sed pars ejus: eo quod in baptismo homo regeneratur configuratus passioni Christi, totaliter efficaciam passionis Christi, quae sufficit ad omnem poenam delendam, in se suscipiens; ut nihil de prioris peccati actualis poena remaneat: quia non debet alicui imputari ad poenam, nisi quod ipsemet fecit.  
 
 In baptismo autem homo novam vitam accipiens fit per gratiam baptismalem novus homo; et ideo nullus reatus poenae remanet in eo pro praecedenti peccato. Sed in poenitentia homo non mutatur in aliam vitam, quia non est regeneratio, sed sanatio quaedam; ideo ex vi clavium, quae operatur in sacramento poenitentiae, non tota poena remittitur, sed aliquid de poena temporali, cujus reatus post absolutionem a poena aeterna remanere potuit, ut dictum est; nec solum a poena illa quam habet poenitens in confitendo, ut quidam dicunt: quia sic confessio et sacerdotalis absolutio non essent nisi in onus, quod non competit sacramentis novae legis: sed etiam de illa poena quae in purgatorio debetur, aliquid remittitur, ut minus in purgatorio puniatur absolutus ante satisfactionem decedens, quam si ante absolutionem decederet.  
 
@@ -258,7 +260,7 @@ Ad quartum dicendum, quod quidam dicunt, quod in prima absolutione tantum dimitt
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod operatio sacerdotis in usu clavium est conformis Dei operationi, cujus minister est. Deus autem habet operationem et in culpam et in poenam; sed in culpam ad solvendum quidem directe, ad ligandum autem indirecte, inquantum obdurare dicitur dum gratiam non largitur; sed in poenam habet operationem directe quantum ad utrumque, quia et poenam parcit, et poenam infligit. Similiter ergo sacerdos, etsi in absolvendo ex vi clavium habeat aliquam operationem ordinatam ad culpae dimissionem modo jam dicto, non tamen in ligando aliquam operationem habet in culpam; nisi ligare dicatur inquantum non absolvit, sed ligatos ostendit. Sed in poenam habet potestatem et ligandi et solvendi; solvit enim a poena quam dimittit, sed ligat ad poenam quae remanet. Sed ad hanc ligare dupliciter dicitur. Uno modo considerando ipsam quantitatem poenae in communi; et sic non ligat nisi inquantum non solvit, sed ligatum ostendit. Alio modo, considerando poenam hanc vel illam determinate; et sic ligat ad poenam, imponendo eam.***
+Ad tertiam quaestionem dicendum, quod operatio sacerdotis in usu clavium est conformis Dei operationi, cujus minister est. Deus autem habet operationem et in culpam et in poenam; sed in culpam ad solvendum quidem directe, ad ligandum autem indirecte, inquantum obdurare dicitur dum gratiam non largitur; sed in poenam habet operationem directe quantum ad utrumque, quia et poenam parcit, et poenam infligit. Similiter ergo sacerdos, etsi in absolvendo ex vi clavium habeat aliquam operationem ordinatam ad culpae dimissionem modo jam dicto, non tamen in ligando aliquam operationem habet in culpam; nisi ligare dicatur inquantum non absolvit, sed ligatos ostendit. Sed in poenam habet potestatem et ligandi et solvendi; solvit enim a poena quam dimittit, sed ligat ad poenam quae remanet. Sed ad hanc ligare dupliciter dicitur. Uno modo considerando ipsam quantitatem poenae in communi; et sic non ligat nisi inquantum non solvit, sed ligatum ostendit. Alio modo, considerando poenam hanc vel illam determinate; et sic ligat ad poenam, imponendo eam.  
 
 Ad primum ergo dicendum, quod illud residuum poenae ad quod obligat, est medicina purgans peccati impuritatem.  
 
@@ -268,7 +270,7 @@ Ad tertium dicendum, quod etiam passio Christi obligat nos ad poenam aliquam, pe
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod sacerdos operatur in usu clavium sicut instrumentum et minister Dei. Nullum autem instrumentum habet efficacem actum nisi secundum quod movetur a principali agente; et ideo dicit Dionysius in *Eccl. Hierar*., quod *sacerdotibus utendum est virtutibus hierarchicis, quo modo divinitas eos moverit*; in cujus signum, Matth. 16, ante potestatem clavium Petro traditam, fit mentio de revelatione ei facta divinitatis; et Joan. 20, praemittitur potestati remissionis apostolis datae spiritus sancti donum, *quo filii Dei aguntur*. Unde si quis praeter istum motum divinum uti sua potestate praesumpserit, non consequeretur effectum, ut Dionysius dicit; et praeter hoc a divino ordine averteretur; et sic culpam incurreret. Et quia poenae satisfactoriae infligendae ut medicinae sunt; sicut medicinae in arte determinatae, non omnibus competunt, sed variandae sunt secundum arbitrium medici, non propriam voluntatem sequentis, sed medicinae scientiam; ita poenae satisfactoriae in canone determinatae non competunt omnibus, sed variandae sunt secundum arbitrium sacerdotis divino instinctu regulatum. Sicut autem medicus aliquando prudenter non dat medicinam ita efficacem quae ad morbi curationem sufficiat, ne propter debilitatem naturae majus periculum oriatur; ita sacerdos divino instinctu motus non semper totam poenam quae uni peccato debetur, injungit, ne infirmus aliquis ex magnitudine poenae desperet, et a poenitentia totaliter recedat.***
+Ad quartam quaestionem dicendum, quod sacerdos operatur in usu clavium sicut instrumentum et minister Dei. Nullum autem instrumentum habet efficacem actum nisi secundum quod movetur a principali agente; et ideo dicit Dionysius in *Eccl. Hierar*., quod *sacerdotibus utendum est virtutibus hierarchicis, quo modo divinitas eos moverit*; in cujus signum, Matth. 16, ante potestatem clavium Petro traditam, fit mentio de revelatione ei facta divinitatis; et Joan. 20, praemittitur potestati remissionis apostolis datae spiritus sancti donum, *quo filii Dei aguntur*. Unde si quis praeter istum motum divinum uti sua potestate praesumpserit, non consequeretur effectum, ut Dionysius dicit; et praeter hoc a divino ordine averteretur; et sic culpam incurreret. Et quia poenae satisfactoriae infligendae ut medicinae sunt; sicut medicinae in arte determinatae, non omnibus competunt, sed variandae sunt secundum arbitrium medici, non propriam voluntatem sequentis, sed medicinae scientiam; ita poenae satisfactoriae in canone determinatae non competunt omnibus, sed variandae sunt secundum arbitrium sacerdotis divino instinctu regulatum. Sicut autem medicus aliquando prudenter non dat medicinam ita efficacem quae ad morbi curationem sufficiat, ne propter debilitatem naturae majus periculum oriatur; ita sacerdos divino instinctu motus non semper totam poenam quae uni peccato debetur, injungit, ne infirmus aliquis ex magnitudine poenae desperet, et a poenitentia totaliter recedat.  
 
 Ad primum ergo dicendum, quod arbitrium illud debet esse divino instinctu regulatum.  
 
@@ -294,7 +296,7 @@ primo, de ipsa excommunicatione;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod incompetens sit haec definitio excommunicationis a quibusdam posita: *excommunicatio est separatio a communione Ecclesiae quo ad fructum, et suffragia generalia*. Suffragia enim Ecclesiae valent eis pro quibus fiunt. Sed Ecclesia orat pro eis qui extra Ecclesiam sunt, sicut pro haereticis et paganis. Ergo etiam pro excommunicatis, qui extra Ecclesiam sunt; et sic eis suffragia Ecclesiae valent.***
+Ad primum sic proceditur. Videtur quod incompetens sit haec definitio excommunicationis a quibusdam posita: *excommunicatio est separatio a communione Ecclesiae quo ad fructum, et suffragia generalia*. Suffragia enim Ecclesiae valent eis pro quibus fiunt. Sed Ecclesia orat pro eis qui extra Ecclesiam sunt, sicut pro haereticis et paganis. Ergo etiam pro excommunicatis, qui extra Ecclesiam sunt; et sic eis suffragia Ecclesiae valent.  
 
 Praeterea, nullus amittit suffragia Ecclesiae nisi per culpam. Sed excommunicatio non est culpa, sed poena. Ergo per excommunicationem non separatur aliquis a suffragiis Ecclesiae communibus.  
 
@@ -304,7 +306,7 @@ Praeterea, excommunicatio minor, quaedam excommunicatio est. Sed per eam homo no
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod Ecclesia nullum debeat excommunicare. Quia excommunicatio maledictio quaedam est. Sed Rom. 12, prohibemur maledicere. Ergo Ecclesia excommunicare non debet.***
+Ulterius. Videtur quod Ecclesia nullum debeat excommunicare. Quia excommunicatio maledictio quaedam est. Sed Rom. 12, prohibemur maledicere. Ergo Ecclesia excommunicare non debet.  
 
 Praeterea, militans debet imitari triumphantem. Sed, ut in epistola Judae legitur, *Michael cum altercaretur de corpore Moysi cum diabolo, non est ausus judicium blasphemiae inferre, sed ait: imperet tibi Dominus*. Ergo nec Ecclesia militans debet alicui judicium maledictionis vel excommunicationis inferre.  
 
@@ -316,7 +318,7 @@ Praeterea, Matth. 18, 17, dicitur de illo qui Ecclesiam audire contemnit: *sit t
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nullus pro aliquo temporali damno debeat excommunicari. Quia poena non debet excedere culpam. Sed poena excommunicationis est privatio alicujus boni spiritualis, quod omnibus bonis temporalibus praeeminet. Ergo pro temporalibus nullus est excommunicandus.***
+Ulterius. Videtur quod nullus pro aliquo temporali damno debeat excommunicari. Quia poena non debet excedere culpam. Sed poena excommunicationis est privatio alicujus boni spiritualis, quod omnibus bonis temporalibus praeeminet. Ergo pro temporalibus nullus est excommunicandus.  
 
 Praeterea, *nulli malum pro malo reddere debemus*, secundum apostoli praeceptum. Sed hoc esset malum pro malo reddere, si pro tali damno quis excommunicaretur. Ergo nullo modo hoc debet fieri.  
 
@@ -324,7 +326,7 @@ Sed contra est quod Petrus Ananiam et Saphiram pro defraudatione pretii agri sen
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod excommunicatio injuste lata nullo modo effectum habeat. Quia per excommunicationem *protectio et gratia Dei subtrahitur*, quae non injuste subtrahi potest. Ergo excommunicatio injuste lata non habet effectum.***
+Ulterius. Videtur quod excommunicatio injuste lata nullo modo effectum habeat. Quia per excommunicationem *protectio et gratia Dei subtrahitur*, quae non injuste subtrahi potest. Ergo excommunicatio injuste lata non habet effectum.  
 
 Praeterea, Hieronymus dicit, quod *hoc est de supercilio Pharisaeorum* aestimare esse ligatum vel solutum qui ligatur vel solvitur injuste. Sed eorum supercilium erat superbum et erroneum. Ergo excommunicatio injusta nullum habet effectum.  
 
@@ -332,7 +334,7 @@ Sed contra, secundum Gregorium, praecepta pastoris, sive justa sive injusta, tim
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ille qui per baptismum in Ecclesia ponitur, ad duo ascribitur; scilicet ad coetum fidelium, et ad sacramentorum participationem; et hoc secundum praesupponit primum, quia in sacramentis participandis etiam fideles communicant; et ideo aliquis potest extra Ecclesiam fieri per excommunicationem, dupliciter. Uno modo ita quod separetur tantum a participatione sacramentorum; et haec erit excommunicatio minor. Alio modo ita quod excludatur ab utroque; et sic erit excommunicatio major; quae hic definitur. Non autem potest esse tertium; scilicet quod excludatur a communione fidelium, et non a participatione sacramentorum, ratione jam dicta, quia scilicet fideles in sacramentis communicant.***
+Respondeo dicendum ad primam quaestionem, quod ille qui per baptismum in Ecclesia ponitur, ad duo ascribitur; scilicet ad coetum fidelium, et ad sacramentorum participationem; et hoc secundum praesupponit primum, quia in sacramentis participandis etiam fideles communicant; et ideo aliquis potest extra Ecclesiam fieri per excommunicationem, dupliciter. Uno modo ita quod separetur tantum a participatione sacramentorum; et haec erit excommunicatio minor. Alio modo ita quod excludatur ab utroque; et sic erit excommunicatio major; quae hic definitur. Non autem potest esse tertium; scilicet quod excludatur a communione fidelium, et non a participatione sacramentorum, ratione jam dicta, quia scilicet fideles in sacramentis communicant.  
 
 Sed communicatio fidelium est duplex. Quaedam in spiritualibus; sicut mutuae orationes sunt, et conventus ad sacra percipienda; quaedam in corporalibus actibus legitimis; qui quidem legitimi actus et licita communio his versibus continentur: *si pro delictis, anathema quis efficiatur; os, orare, vale, communio, mensa negatur. Os*, scilicet ne detur osculum; *orare*, ne cum excommunicatis oremus; *vale*, ne salutentur; *communio*, ne scilicet in sacramentis cum ipsis aliquis communicet; *mensa negatur*, ne aliquis cum eis comedat. Praemissa ergo definitio importat separationem a sacramentis in hoc quod dicit, *quantum ad fructum*; et a communione fidelium, quantum ad spiritualia, in hoc quod dicit: *et suffragia Ecclesiae communia*. Alia autem definitio invenitur quae datur secundum separationem ab utrisque actibus, quae talis est: *excommunicatio est a qualibet licita communione ac legitimo actu separatio*.  
 
@@ -346,7 +348,7 @@ Ad quartum dicendum, quod minor excommunicatio non habet perfectam rationem exco
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod judicium Ecclesiae conforme debet esse judicio Dei. Deus autem multipliciter peccatores punit, ut eos ad bonum trahat. Uno modo flagellis castigando; alio modo hominem sibi relinquendo, ut auxiliis subtractis, quibus a malo praepediebatur, suam infirmitatem cognoscat, et humilis ad Deum redeat, a quo superbus abscessit; et quantum ad utrumque Ecclesia in excommunicationis sententia divinum judicium imitatur: inquantum enim eum a communione fidelium separat ut erubescat, imitatur divinum judicium quo per flagella castigat; inquantum autem a suffragiis et aliis spiritualibus separatur, imitatur divinum judicium quo hominem sibi relinquit, ut per humilitatem seipsum cognoscens ad Deum redeat.***
+Ad secundam quaestionem dicendum, quod judicium Ecclesiae conforme debet esse judicio Dei. Deus autem multipliciter peccatores punit, ut eos ad bonum trahat. Uno modo flagellis castigando; alio modo hominem sibi relinquendo, ut auxiliis subtractis, quibus a malo praepediebatur, suam infirmitatem cognoscat, et humilis ad Deum redeat, a quo superbus abscessit; et quantum ad utrumque Ecclesia in excommunicationis sententia divinum judicium imitatur: inquantum enim eum a communione fidelium separat ut erubescat, imitatur divinum judicium quo per flagella castigat; inquantum autem a suffragiis et aliis spiritualibus separatur, imitatur divinum judicium quo hominem sibi relinquit, ut per humilitatem seipsum cognoscens ad Deum redeat.  
 
 Ad primum ergo dicendum, quod maledictio potest esse dupliciter. Uno modo ita quod in malo quod irrogat vel dicit, per intentionem sistat; et sic maledictio omnibus modis prohibita est. Alio modo ita quod malum quod quidem maledicendo imprecatur, ad bonum illius ordinet qui maledicitur; et sic maledictio quandoque est licita et salutifera: sicut et medicus aliquod nocumentum infert infirmo, ut sectionem, per quam ab infirmitate liberetur.  
 
@@ -356,7 +358,7 @@ Ad tertium dicendum, quod ex hoc ipso quod aliquis suffragiis Ecclesiae privatur
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod per excommunicationem judex ecclesiasticus excommunicatos excludit a regno quodammodo. Unde cum non debeat excludere nisi indignos, ut ex definitione clavis patuit; nec aliquis reddatur indignus nisi per peccatum mortale amiserit caritatem, quae est via ducens ad regnum; ideo nullus excommunicari debet nisi pro peccato mortali. Et quia in damnificando aliquem corporaliter, vel in rebus temporalibus, aliquis mortaliter peccat, et contra caritatem facit; ideo pro damno temporali illato Ecclesia aliquem excommunicare potest. Sed quia excommunicatio est gravissima poenarum; *poenae autem medicinae sunt*, secundum Philosophum in 2 *Ethica*; sapientis autem medici est a levioribus medicinis incipere, et minus periculosis; ideo excommunicatio infligi non debet etiam pro peccato mortali, nisi contumax fuerit; vel non veniendo ad judicium, vel ante terminationem judicii sine licentia recedendo, vel determinationi non parendo: tunc enim postquam monitus fuerit, si obedire contempserit contumax reputatur, et excommunicari debet a judice jam non habente quid contra ipsum faciat amplius.***
+Ad tertiam quaestionem dicendum, quod per excommunicationem judex ecclesiasticus excommunicatos excludit a regno quodammodo. Unde cum non debeat excludere nisi indignos, ut ex definitione clavis patuit; nec aliquis reddatur indignus nisi per peccatum mortale amiserit caritatem, quae est via ducens ad regnum; ideo nullus excommunicari debet nisi pro peccato mortali. Et quia in damnificando aliquem corporaliter, vel in rebus temporalibus, aliquis mortaliter peccat, et contra caritatem facit; ideo pro damno temporali illato Ecclesia aliquem excommunicare potest. Sed quia excommunicatio est gravissima poenarum; *poenae autem medicinae sunt*, secundum Philosophum in 2 *Ethica*; sapientis autem medici est a levioribus medicinis incipere, et minus periculosis; ideo excommunicatio infligi non debet etiam pro peccato mortali, nisi contumax fuerit; vel non veniendo ad judicium, vel ante terminationem judicii sine licentia recedendo, vel determinationi non parendo: tunc enim postquam monitus fuerit, si obedire contempserit contumax reputatur, et excommunicari debet a judice jam non habente quid contra ipsum faciat amplius.  
 
 Ad primum ergo dicendum, quod culpae quantitas non mensuratur ex nocumento quod quis facit, sed ex voluntate qua facit, contra caritatem agens; et ideo, quamvis poena excommunicationis excedat nocumentum, non tamen excedit quantitatem culpae.  
 
@@ -364,7 +366,7 @@ Ad secundum dicendum, quod cum aliquis per poenam aliquam corrigitur, non reddit
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod excommunicatio potest dici injusta dupliciter. Uno modo ex parte excommunicantis; sicut cum ex odio vel ira excommunicat; et tunc excommunicatio nihilominus habet effectum suum, quamvis ille qui excommunicat peccet: quia iste juste patitur quamvis ille injuste faciat. Alio modo ex parte ipsius excommunicationis: vel quia causa excommunicationis est indebita, vel quia infertur sententia, juris ordine praetermisso; et tunc, si sit talis error ex parte sententiae qui sententiam nullam faciat esse, non habet effectum, quia non est excommunicatio; si autem sententiam non annullet, habet effectum suum, et debet excommunicatus humiliter obedire, et erit ei ad meritum, et absolutionem petere ab excommunicante, vel ad superiorem judicem recurrere. Si autem contemneret, eo ipso mortaliter peccaret. Contingit autem quandoque quod est debita causa ex parte excommunicantis, quae non est debita ex parte excommunicati; sicut cum aliquis pro falso crimine in judicio probato excommunicatur; et tunc si humiliter sustinet, humilitatis merito recompensat excommunicationis damnum.***
+Ad quartam quaestionem dicendum, quod excommunicatio potest dici injusta dupliciter. Uno modo ex parte excommunicantis; sicut cum ex odio vel ira excommunicat; et tunc excommunicatio nihilominus habet effectum suum, quamvis ille qui excommunicat peccet: quia iste juste patitur quamvis ille injuste faciat. Alio modo ex parte ipsius excommunicationis: vel quia causa excommunicationis est indebita, vel quia infertur sententia, juris ordine praetermisso; et tunc, si sit talis error ex parte sententiae qui sententiam nullam faciat esse, non habet effectum, quia non est excommunicatio; si autem sententiam non annullet, habet effectum suum, et debet excommunicatus humiliter obedire, et erit ei ad meritum, et absolutionem petere ab excommunicante, vel ad superiorem judicem recurrere. Si autem contemneret, eo ipso mortaliter peccaret. Contingit autem quandoque quod est debita causa ex parte excommunicantis, quae non est debita ex parte excommunicati; sicut cum aliquis pro falso crimine in judicio probato excommunicatur; et tunc si humiliter sustinet, humilitatis merito recompensat excommunicationis damnum.  
 
 Ad primum ergo dicendum, quod quamvis homo gratiam Dei injuste amittere non possit, potest tamen injuste amittere illa quae ex parte nostra sunt, quae ad gratiam Dei disponunt; sicut patet, si subtrahatur alicui doctrinae verbum quod ei debetur; et hoc modo excommunicatio gratiam Dei subtrahere dicitur, ut ex praedictis patet.  
 
@@ -376,7 +378,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur, quod quilibet sacerdos possit excommunicare. Excommunicatio enim est actus clavium. Sed quilibet sacerdos habet claves. Ergo quilibet potest excommunicare.***
+Ad secundum sic proceditur. Videtur, quod quilibet sacerdos possit excommunicare. Excommunicatio enim est actus clavium. Sed quilibet sacerdos habet claves. Ergo quilibet potest excommunicare.  
 
 Praeterea, majus est absolvere et ligare in foro poenitentiae quam in foro judicii. Sed quilibet sacerdos potest sibi subditos in foro poenitentiali absolvere et ligare. Ergo etiam potest sibi subditos quilibet sacerdos excommunicare.  
 
@@ -384,7 +386,7 @@ Sed contra, ea in quibus imminet periculum, sunt majoribus reservanda. Sed poena
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sacerdotes excommunicare non possint. Quia excommunicatio est actus clavium, ut in littera dicitur. Sed non sacerdotes non habent claves. Ergo non possunt excommunicare.***
+Ulterius. Videtur quod non sacerdotes excommunicare non possint. Quia excommunicatio est actus clavium, ut in littera dicitur. Sed non sacerdotes non habent claves. Ergo non possunt excommunicare.  
 
 Praeterea, plus requiritur ad excommunicationem quam ad absolutionem in foro poenitentiae. Sed non sacerdos in foro poenitentiae absolvere non potest. Ergo nec excommunicationem inferre.  
 
@@ -392,7 +394,7 @@ Sed contra est quod archidiaconi, legati, et electi excommunicant, qui quandoque
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod excommunicatus vel suspensus excommunicare possit. Ille enim qui est excommunicatus vel suspensus, neque ordinem neque jurisdictionem amittit; quia neque reordinatur cum absolvitur, neque cura ei iterum committitur. Sed excommunicatio non requirit nisi ordinem vel jurisdictionem. Ergo etiam excommunicatus et suspensus excommunicare possunt.***
+Ulterius. Videtur quod excommunicatus vel suspensus excommunicare possit. Ille enim qui est excommunicatus vel suspensus, neque ordinem neque jurisdictionem amittit; quia neque reordinatur cum absolvitur, neque cura ei iterum committitur. Sed excommunicatio non requirit nisi ordinem vel jurisdictionem. Ergo etiam excommunicatus et suspensus excommunicare possunt.  
 
 Praeterea, majus est conficere corpus Christi quam excommunicare. Sed excommunicati conficere possunt, ut supra, dist. 13, dictum est. Ergo possunt excommunicare.  
 
@@ -400,7 +402,7 @@ Sed contra, ligatus corporaliter non potest alium ligare. Sed vinculum spiritual
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in foro conscientiae causa agitur inter hominem et Deum; in foro autem exterioris judicii causa agitur hominis ad hominem; et ideo absolutio vel ligatio quae unum hominem obligat quo ad Deum tantum, pertinet ad forum poenitentiae; sed illa quae hominem obligat in comparatione ad alios homines, ad forum publicum exterioris judicii pertinet. Et quia per excommunicationem homo a communione fidelium separatur; ideo excommunicatio ad forum exterius pertinet, et ideo illi soli possunt excommunicare qui habent jurisdictionem in foro judiciali; et propter hoc soli episcopi propria auctoritate, et majores praelati, secundum communiorem opinionem, possunt excommunicare; sed presbyteri parochiales non, nisi ex commissione eis facta, vel in certis casibus, sicut in furto et rapina, et hujusmodi, in quibus est eis a jure concessum quod excommunicare possint. Alii autem dixerunt, quod etiam sacerdotes parochiales possunt excommunicare. Sed praedicta opinio est rationabilior.***
+Respondeo dicendum ad primam quaestionem, quod in foro conscientiae causa agitur inter hominem et Deum; in foro autem exterioris judicii causa agitur hominis ad hominem; et ideo absolutio vel ligatio quae unum hominem obligat quo ad Deum tantum, pertinet ad forum poenitentiae; sed illa quae hominem obligat in comparatione ad alios homines, ad forum publicum exterioris judicii pertinet. Et quia per excommunicationem homo a communione fidelium separatur; ideo excommunicatio ad forum exterius pertinet, et ideo illi soli possunt excommunicare qui habent jurisdictionem in foro judiciali; et propter hoc soli episcopi propria auctoritate, et majores praelati, secundum communiorem opinionem, possunt excommunicare; sed presbyteri parochiales non, nisi ex commissione eis facta, vel in certis casibus, sicut in furto et rapina, et hujusmodi, in quibus est eis a jure concessum quod excommunicare possint. Alii autem dixerunt, quod etiam sacerdotes parochiales possunt excommunicare. Sed praedicta opinio est rationabilior.  
 
 Ad primum ergo dicendum, quod excommunicatio non est actus clavis directe, sed magis respectu*magis respectu.—magis jurisdictionis respectu* PLE. exterioris judicii; sed sententia excommunicationis, quamvis in exteriori judicio promulgetur, quia tamen aliquo modo pertinet ad aditum regni, secundum quod Ecclesia militans est via ad triumphantem; ideo etiam talis jurisdictio, per quam homo excommunicare potest, clavis potest dici; et secundum hoc a quibusdam distinguitur, quod est clavis ordinis, quam omnes sacerdotes habent; et clavis jurisdictionis in foro judiciali, quam habent soli judices exterioris fori; utramque tamen Deus Petro contulit, Matth. 16; et ab ipso in alios descendit qui utramque habent.  
 
@@ -408,7 +410,7 @@ Ad secundum dicendum, quod sacerdotes parochiales habent quidem jurisdictionem i
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sacramenta, in quibus gratia confertur, dispensare ad solos sacerdotes pertinet; et ideo ipsi soli possunt absolvere et ligare in foro poenitentiali; sed excommunicatio non directe respicit gratiam, sed ex consequenti, inquantum homo suffragiis Ecclesiae privatur, quae ad gratiam disponunt, vel in gratia conservant; et ideo etiam non sacerdotes, dummodo jurisdictionem habeant in foro contentioso, possunt excommunicare.***
+Ad secundam quaestionem dicendum, quod sacramenta, in quibus gratia confertur, dispensare ad solos sacerdotes pertinet; et ideo ipsi soli possunt absolvere et ligare in foro poenitentiali; sed excommunicatio non directe respicit gratiam, sed ex consequenti, inquantum homo suffragiis Ecclesiae privatur, quae ad gratiam disponunt, vel in gratia conservant; et ideo etiam non sacerdotes, dummodo jurisdictionem habeant in foro contentioso, possunt excommunicare.  
 
 Ad primum ergo dicendum, quod quamvis non habeant clavem ordinis, habent tamen clavem jurisdictionis.  
 
@@ -416,7 +418,7 @@ Ad secundum dicendum, quod ista duo se habent sicut excedentia et excessa; et id
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod usus jurisdictionis est in comparatione ad alium hominem; et ideo, cum omnis excommunicatus a communione fidelium separetur, quilibet excommunicatus usu jurisdictionis privatur. Et quia excommunicatio est jurisdictionis privatio, ideo excommunicatus excommunicare non potest; et eadem ratio est de suspenso a jurisdictione. Si enim sit suspensus ab ordine tantum, tunc non potest ea quae sunt ordinis, sed potest ea quae jurisdictionis; et e converso, si sit suspensus a jurisdictione, et non ab ordine; si autem ab utroque, tunc neutrum potest.***
+Ad tertiam quaestionem dicendum, quod usus jurisdictionis est in comparatione ad alium hominem; et ideo, cum omnis excommunicatus a communione fidelium separetur, quilibet excommunicatus usu jurisdictionis privatur. Et quia excommunicatio est jurisdictionis privatio, ideo excommunicatus excommunicare non potest; et eadem ratio est de suspenso a jurisdictione. Si enim sit suspensus ab ordine tantum, tunc non potest ea quae sunt ordinis, sed potest ea quae jurisdictionis; et e converso, si sit suspensus a jurisdictione, et non ab ordine; si autem ab utroque, tunc neutrum potest.  
 
 Ad primum ergo dicendum, quod quamvis non amittat jurisdictionem, amittit tamen jurisdictionis usum.  
 
@@ -428,7 +430,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod aliquis possit seipsum, vel aequalem vel superiorem, excommunicare. Quia angelus Dei major erat Paulo. Matth. 11, 2: *qui minor est in regno caelorum, major est illo*, quo *nemo inter natos mulierum major*. Sed Paulus excommunicavit *angelum de caelo*, ut patet Gal. 1. Ergo homo potest superiorem excommunicare.***
+Ad tertium sic proceditur. Videtur quod aliquis possit seipsum, vel aequalem vel superiorem, excommunicare. Quia angelus Dei major erat Paulo. Matth. 11, 2: *qui minor est in regno caelorum, major est illo*, quo *nemo inter natos mulierum major*. Sed Paulus excommunicavit *angelum de caelo*, ut patet Gal. 1. Ergo homo potest superiorem excommunicare.  
 
 Praeterea, sacerdos aliquando excommunicat in generali pro furto, vel aliquo hujusmodi. Sed potest contingere quod ipsemet fecit, vel superior aut aequalis. Ergo aliquis potest se, vel aequalem vel superiorem, excommunicare.  
 
@@ -438,7 +440,7 @@ Sed contra, excommunicatio est actus jurisdictionis. Sed aliquis non habet in se
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in aliquam universitatem sententia excommunicationis ferri possit. Contingit enim quod aliqua universitas sibi in malitia colligatur. Sed pro malitia in qua aliquis contumax extiterit, debet excommunicatio ferri. Ergo potest in aliquam universitatem ferri excommunicatio.***
+Ulterius. Videtur quod in aliquam universitatem sententia excommunicationis ferri possit. Contingit enim quod aliqua universitas sibi in malitia colligatur. Sed pro malitia in qua aliquis contumax extiterit, debet excommunicatio ferri. Ergo potest in aliquam universitatem ferri excommunicatio.  
 
 Praeterea, illud quod est gravissimum in excommunicatione, est separatio a sacramentis Ecclesiae. Sed aliquando tota civitas interdicitur a divinis. Ergo et excommunicari aliqua universitas potest.  
 
@@ -446,7 +448,7 @@ Sed contra est *Glossa* Augustini Matth. 13, quae dicit, quod *princeps et multi
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ille qui semel est excommunicatus, ulterius excommunicari non possit. 1 Corinth. 5, 12 dicit apostolus: *quid mihi est, de iis qui foris sunt judicare?* Sed excommunicati jam sunt extra Ecclesiam. Ergo super eos Ecclesia judicium non habet, ut possit eos iterum excommunicare.***
+Ulterius. Videtur quod ille qui semel est excommunicatus, ulterius excommunicari non possit. 1 Corinth. 5, 12 dicit apostolus: *quid mihi est, de iis qui foris sunt judicare?* Sed excommunicati jam sunt extra Ecclesiam. Ergo super eos Ecclesia judicium non habet, ut possit eos iterum excommunicare.  
 
 Praeterea, excommunicatio est separatio quaedam a divinis, et a communione fidelium. Sed postquam est aliquis privatus aliquo, non potest iterum illo privari. Ergo unus excommunicatus non debet iterum excommunicari.  
 
@@ -454,7 +456,7 @@ Sed contra, excommunicatio quaedam poena est, et medicinale remedium. Sed poenae
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod cum per jurisdictionem aliquis constituatur in gradu superioritatis respectu ejus in quem habet jurisdictionem, quia est judex ejus; ideo nullus habet in seipsum, vel superiorem vel aequalem jurisdictionem, et per consequens nullus potest seipsum excommunicare, vel superiorem aut aequalem.***
+Respondeo dicendum ad primam quaestionem, quod cum per jurisdictionem aliquis constituatur in gradu superioritatis respectu ejus in quem habet jurisdictionem, quia est judex ejus; ideo nullus habet in seipsum, vel superiorem vel aequalem jurisdictionem, et per consequens nullus potest seipsum excommunicare, vel superiorem aut aequalem.  
 
 Ad primum ergo dicendum, quod apostolus loquitur sub hypothesi, idest si poneretur angelus peccare; sic enim non esset apostolo superior, sed inferior. Nec est inconveniens quod in conditionalibus quarum antecedentia impossibilia sunt, et consequentia impossibilia sint.  
 
@@ -464,7 +466,7 @@ Ad tertium dicendum, quod absolutio et ligatio in foro confessionis est quo ad D
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod excommunicari non debet aliquis nisi pro peccato mortali; peccatum autem in actu consistit; actus autem non est communitatis sed singularium personarum ut frequenter; et ideo singuli de communitate excommunicari possunt, non autem ipsa communitas; et si etiam quandoque actus sit totius alicujus multitudinis, ut quando multi navim trahunt, quam nullus trahere posset; non tamen est probabile quod aliqua communitas ita tota ad malum consentiat quin aliqui sint dissentientes. Et quia non est Dei, qui judicat omnem terram, ut condemnet justum cum impio, ut dicitur Gen. 18; ideo Ecclesia, quae judicium Dei imitari debet, satis provide statuit ut tota communitas non excommunicetur, ne collectis zizaniis simul eradicetur et triticum.***
+Ad secundam quaestionem dicendum, quod excommunicari non debet aliquis nisi pro peccato mortali; peccatum autem in actu consistit; actus autem non est communitatis sed singularium personarum ut frequenter; et ideo singuli de communitate excommunicari possunt, non autem ipsa communitas; et si etiam quandoque actus sit totius alicujus multitudinis, ut quando multi navim trahunt, quam nullus trahere posset; non tamen est probabile quod aliqua communitas ita tota ad malum consentiat quin aliqui sint dissentientes. Et quia non est Dei, qui judicat omnem terram, ut condemnet justum cum impio, ut dicitur Gen. 18; ideo Ecclesia, quae judicium Dei imitari debet, satis provide statuit ut tota communitas non excommunicetur, ne collectis zizaniis simul eradicetur et triticum.  
 
 Ad primum ergo patet solutio ex dictis.  
 
@@ -472,7 +474,7 @@ Ad secundum dicendum, quod suspensio non tanta poena est quanta excommunicatio, 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ille qui excommunicatus est una excommunicatione, potest iterum excommunicari, vel per ejusdem excommunicationis iterationem ad majorem sui confusionem, ut vel sic a peccato resiliat, vel propter alias causas; et tunc tot sunt principales excommunicationes, quot causae pro quibus quis excommunicatur.***
+Ad tertiam quaestionem dicendum, quod ille qui excommunicatus est una excommunicatione, potest iterum excommunicari, vel per ejusdem excommunicationis iterationem ad majorem sui confusionem, ut vel sic a peccato resiliat, vel propter alias causas; et tunc tot sunt principales excommunicationes, quot causae pro quibus quis excommunicatur.  
 
 Ad primum ergo dicendum, quod apostolus loquitur de Paganis et aliis infidelibus, qui non habent characterem, per quem annumerati sint in populo Dei. Sed quia character baptismalis, quo quis populo Dei annumeratur, est indelebilis, ideo semper remanet aliquo modo de Ecclesia baptizatus; et sic semper Ecclesia de ipso judicare potest.  
 
@@ -484,7 +486,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur, quod liceat excommunicato communicare in pure corporalibus. Excommunicatio enim est actus clavium. Sed potestas clavium se extendit ad spiritualia tantum. Ergo per excommunicationem non prohibetur quin unus alii in corporalibus communicare possit.***
+Ad quartum sic proceditur. Videtur, quod liceat excommunicato communicare in pure corporalibus. Excommunicatio enim est actus clavium. Sed potestas clavium se extendit ad spiritualia tantum. Ergo per excommunicationem non prohibetur quin unus alii in corporalibus communicare possit.  
 
 Praeterea, quod est institutum pro caritate, contra caritatem non militat. Sed ex praecepto caritatis tenemur inimicis subvenire; quod sine aliqua communicatione fieri non potest. Ergo licet alicui excommunicato in corporalibus communicare.  
 
@@ -492,7 +494,7 @@ Sed contra est quod dicitur 1 Corinth., 5, 11: *cum ejusmodi nec cibum sumere*.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod participans excommunicato non sit excommunicatus. Plus est enim separatus ab Ecclesia gentilis quam excommunicatus. Sed ille qui participat gentili, aut Judaeo, non est excommunicatus. Ergo nec ille qui participat Christiano excommunicato.***
+Ulterius. Videtur quod participans excommunicato non sit excommunicatus. Plus est enim separatus ab Ecclesia gentilis quam excommunicatus. Sed ille qui participat gentili, aut Judaeo, non est excommunicatus. Ergo nec ille qui participat Christiano excommunicato.  
 
 Praeterea, si ille qui participat alicui excommunicato, est excommunicatus; eadem ratione qui participat participanti, erit excommunicatus; et sic in infinitum procedet: quod videtur absurdum. Ergo non est excommunicatus qui excommunicato participat.  
 
@@ -500,7 +502,7 @@ Sed contra est quod excommunicatus positus est extra communionem. Ergo qui ei co
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod participare cum excommunicato in casibus non concessis, semper sit peccatum mortale. Quia decretalis quaedam respondet, quod propter timorem mortis non debet aliquis excommunicato communicare: quia aliquis debet prius subire mortem quam mortaliter peccet. Sed haec ratio nulla esset nisi participare excommunicato esset peccatum mortale. Ergo etc.***
+Ulterius. Videtur quod participare cum excommunicato in casibus non concessis, semper sit peccatum mortale. Quia decretalis quaedam respondet, quod propter timorem mortis non debet aliquis excommunicato communicare: quia aliquis debet prius subire mortem quam mortaliter peccet. Sed haec ratio nulla esset nisi participare excommunicato esset peccatum mortale. Ergo etc.  
 
 Praeterea, facere contra praeceptum Ecclesiae, est peccatum mortale. Sed Ecclesia praecipit quod excommunicato nullus communicet. Ergo participare cum excommunicato est peccatum mortale.  
 
@@ -514,7 +516,7 @@ Praeterea, pro mensura peccati debet esse poenitentiae modus. Sed pro participat
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut praedictum est, duplex est excommunicatio. Una est minor, quae separat tantum a participatione sacramentorum, sed non a communione fidelium; et ideo tali excommunicato licet communicare, sed non licet ei sacramenta conferre. Alia est major excommunicatio; et haec separat hominem a sacramentis Ecclesiae, et a communione fidelium; et ideo excommunicato tali excommunicatione communicare non licet.***
+Respondeo dicendum ad primam quaestionem, quod, sicut praedictum est, duplex est excommunicatio. Una est minor, quae separat tantum a participatione sacramentorum, sed non a communione fidelium; et ideo tali excommunicato licet communicare, sed non licet ei sacramenta conferre. Alia est major excommunicatio; et haec separat hominem a sacramentis Ecclesiae, et a communione fidelium; et ideo excommunicato tali excommunicatione communicare non licet.  
 
 Sed quia Ecclesia excommunicationem ad medelam, et non ad interitum, inducit; excipiuntur ab hac generalitate quaedam in quibus communicare licet; scilicet in his quae pertinent ad salutem: quia de talibus homo licite cum excommunicato loqui potest; et etiam alia verba interserere, ut facilius salutis verba ex familiaritate recipiantur. Excipiuntur etiam quaedam personae, ad quas specialiter pertinet provisio excommunicati, scilicet uxor, servus, filius, rusticus, et serviens. Sed hoc intelligendum est de filiis non emancipatis; alias tenerentur vitare patrem; de aliis autem intelligitur quod licet excommunicato communicare, si ante excommunicationem se ei subdiderunt; non autem si post. Quidam autem intelligunt e converso; scilicet quod superiores possunt licite communicare inferioribus.  
 
@@ -526,7 +528,7 @@ Ad secundum dicendum, quod in illo casu in quo aliquis ex praecepto caritatis co
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod excommunicatio potest inferri in aliquem dupliciter. Aut ita quod ipse sit excommunicatus cum omnibus ei participantibus; et tunc non est dubium quod quicumque participat ei, est excommunicatus majori excommunicatione. Aut est excommunicatus simpliciter; et tunc aut participat aliquis ei in crimine, praebendo ei consilium, auxilium et favorem, et sic iterum est excommunicatus majori excommunicatione: aut participat in aliis, sicut in verbo vel osculo vel mensa; et sic est excommunicatus minori excommunicatione.***
+Ad secundam quaestionem dicendum, quod excommunicatio potest inferri in aliquem dupliciter. Aut ita quod ipse sit excommunicatus cum omnibus ei participantibus; et tunc non est dubium quod quicumque participat ei, est excommunicatus majori excommunicatione. Aut est excommunicatus simpliciter; et tunc aut participat aliquis ei in crimine, praebendo ei consilium, auxilium et favorem, et sic iterum est excommunicatus majori excommunicatione: aut participat in aliis, sicut in verbo vel osculo vel mensa; et sic est excommunicatus minori excommunicatione.  
 
 Ad primum ergo dicendum, quod Ecclesia non ita intendit corrigere infideles sicut fideles, quorum cura sibi incumbit; et ideo non arcet a communione infidelium sicut a communione fidelium illorum quos excommunicat, super quos habet aliquam potestatem.  
 
@@ -534,7 +536,7 @@ Ad secundum dicendum, quod excommunicato minori excommunicatione licet communica
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dicunt quod quandocumque aliquis participat excommunicato, vel verbo, vel quocumque dictorum modorum secundum quos ei communicare non licet; peccat mortaliter, nisi in casibus exceptis a jure. Sed quia hoc videtur valde grave, quod homo pro uno verbo levi quo excommunicatum alloquitur, mortaliter peccet; et multis excommunicantes laqueum damnationis iniicerent, quod in eos retorqueretur; ideo aliis probabilius videtur quod non semper peccat mortaliter, sed solum quando in crimine sibi participat, vel in divinis, vel in contemptum Ecclesiae.***
+Ad tertiam quaestionem dicendum, quod quidam dicunt quod quandocumque aliquis participat excommunicato, vel verbo, vel quocumque dictorum modorum secundum quos ei communicare non licet; peccat mortaliter, nisi in casibus exceptis a jure. Sed quia hoc videtur valde grave, quod homo pro uno verbo levi quo excommunicatum alloquitur, mortaliter peccet; et multis excommunicantes laqueum damnationis iniicerent, quod in eos retorqueretur; ideo aliis probabilius videtur quod non semper peccat mortaliter, sed solum quando in crimine sibi participat, vel in divinis, vel in contemptum Ecclesiae.  
 
 Ad primum ergo dicendum, quod decretalis illa loquitur de participatione in divinis. Vel dicendum, quod similis ratio est de peccato mortali et de veniali quantum ad hoc: quia sicut peccatum mortale non potest bene fieri, ita nec veniale; et ideo sicut homo debet prius sustinere mortem quam peccet mortaliter; ita etiam quam quod peccet venialiter illo modo debiti quo debet veniale vitare.  
 
@@ -550,7 +552,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod quilibet sacerdos possit subditum suum ab excommunicatione absolvere. Majus enim est vinculum peccati quam excommunicationis. Sed quilibet sacerdos potest subditum suum a peccato absolvere. Ergo multo fortius ab excommunicatione.***
+Ad quintum sic proceditur. Videtur quod quilibet sacerdos possit subditum suum ab excommunicatione absolvere. Majus enim est vinculum peccati quam excommunicationis. Sed quilibet sacerdos potest subditum suum a peccato absolvere. Ergo multo fortius ab excommunicatione.  
 
 Praeterea, remota causa removetur effectus. Sed excommunicationis causa est peccatum mortale. Ergo cum possit quilibet sacerdos a peccato illo mortali absolvere, poterit ab excommunicatione similiter.  
 
@@ -558,7 +560,7 @@ Sed contra, ejusdem potestatis est excommunicare, et excommunicatum absolvere. S
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nullus possit absolvi invitus. Spiritualia enim non conferuntur invito alicui. Sed absolutio ab excommunicatione est beneficium spirituale. Ergo non potest praestari invito.***
+Ulterius. Videtur quod nullus possit absolvi invitus. Spiritualia enim non conferuntur invito alicui. Sed absolutio ab excommunicatione est beneficium spirituale. Ergo non potest praestari invito.  
 
 Praeterea, excommunicationis causa est contumacia. Sed quando aliquis non vult absolvi, excommunicationem contemnens, tunc est maxime contumax. Ergo non potest absolvi.  
 
@@ -566,7 +568,7 @@ Sed contra, excommunicatio contra voluntatem alicui potest inferri. Sed quae con
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aliquis non possit absolvi ab una excommunicatione, nisi absolvatur ab omnibus. Effectus enim debet proportionari suae causae. Sed causa excommunicationis est peccatum. Cum ergo aliquis non possit absolvi ab uno peccato nisi ab omnibus absolvatur, nec in excommunicatione hoc esse poterit.***
+Ulterius. Videtur quod aliquis non possit absolvi ab una excommunicatione, nisi absolvatur ab omnibus. Effectus enim debet proportionari suae causae. Sed causa excommunicationis est peccatum. Cum ergo aliquis non possit absolvi ab uno peccato nisi ab omnibus absolvatur, nec in excommunicatione hoc esse poterit.  
 
 Praeterea, excommunicationis absolutio in Ecclesia fit. Sed ille qui una excommunicatione est irretitus, est extra Ecclesiam. Ergo quamdiu una manet, ab alia absolvi non potest.  
 
@@ -574,7 +576,7 @@ Sed contra, excommunicatio quaedam poena est. Sed ab una poena aliquis liberatur
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod a minori excommunicatione quilibet potest absolvere qui potest absolvere a peccato participationis. Si autem est major: aut est lata a judice; et sic ille qui tulit, vel ejus superior, potest absolvere: vel est lata a jure; et tunc episcopus, vel etiam sacerdos, potest absolvere, exceptis sex casibus, quos sibi juris conditor, scilicet Papa, reservavit. Primus est, quando aliquis injicit manus in clericum vel religiosum. Secundus est de illo qui incendit Ecclesiam, et est denuntiatus. Tertius est de illo qui frangit Ecclesiam, et denuntiatus est. Quartus est de illo qui in divinis scienter communicat excommunicatis nominaliter a Papa. Quintus de illo qui falsat litteras apostolicae sedis. Sextus de illo qui excommunicatis in crimine communicat; non enim debet absolvi nisi ab eo qui excommunicavit, etiamsi non sit ejus subditus, nisi propter difficultatem accedendi ad ipsum absolveretur ab episcopo, vel a proprio sacerdote, praestita juratoria cautione, quod pareret mandato illius judicis qui sententiam tulit.***
+Respondeo dicendum ad primam quaestionem, quod a minori excommunicatione quilibet potest absolvere qui potest absolvere a peccato participationis. Si autem est major: aut est lata a judice; et sic ille qui tulit, vel ejus superior, potest absolvere: vel est lata a jure; et tunc episcopus, vel etiam sacerdos, potest absolvere, exceptis sex casibus, quos sibi juris conditor, scilicet Papa, reservavit. Primus est, quando aliquis injicit manus in clericum vel religiosum. Secundus est de illo qui incendit Ecclesiam, et est denuntiatus. Tertius est de illo qui frangit Ecclesiam, et denuntiatus est. Quartus est de illo qui in divinis scienter communicat excommunicatis nominaliter a Papa. Quintus de illo qui falsat litteras apostolicae sedis. Sextus de illo qui excommunicatis in crimine communicat; non enim debet absolvi nisi ab eo qui excommunicavit, etiamsi non sit ejus subditus, nisi propter difficultatem accedendi ad ipsum absolveretur ab episcopo, vel a proprio sacerdote, praestita juratoria cautione, quod pareret mandato illius judicis qui sententiam tulit.  
 
 A primo autem casu octo excipiuntur. Primum est in articulo mortis, in quo a qualibet excommunicatione potest quis a quolibet sacerdote absolvi. Secundo, si sit ostiarius alicujus potentis, et non ex odio vel proposito percussit. Tertio, si percutiens sit mulier. Quarto, si sit servus, et dominus laederetur de ejus absentia, qui non est in culpa. Quinto, si regularis regularem, nisi sit enormis excessus. Sexto, si sit pauper. Septimo, si sit impubes, vel senex, vel valetudinarius. Octavo, si habeat inimicitias capitales.  
 
@@ -586,7 +588,7 @@ Ad secundum dicendum, quod cum excommunicatus non sit particeps sacramentorum Ec
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod malum culpae et poenae differunt in hoc, quod culpae principium in nobis est; quia omne peccatum voluntarium est; poenae autem principium quandoque est extra nos. Non autem requiritur ad poenam quod sit voluntaria; immo magis de ratione poenae est contra voluntatem esse; et ideo, sicut peccata non committuntur nisi voluntate, ita non remittuntur alicui invito; sed excommunicatio sicut in aliquem invitum ferri potest, ita et invitus ab ea absolvi poterit.***
+Ad secundam quaestionem dicendum, quod malum culpae et poenae differunt in hoc, quod culpae principium in nobis est; quia omne peccatum voluntarium est; poenae autem principium quandoque est extra nos. Non autem requiritur ad poenam quod sit voluntaria; immo magis de ratione poenae est contra voluntatem esse; et ideo, sicut peccata non committuntur nisi voluntate, ita non remittuntur alicui invito; sed excommunicatio sicut in aliquem invitum ferri potest, ita et invitus ab ea absolvi poterit.  
 
 Ad primum ergo dicendum, quod propositio habet veritatem de illis bonis spiritualibus quae in voluntate nostra consistunt; sicut sunt virtutes, quia non possunt a nolentibus perdi; scientia enim, quamvis sit spirituale bonum, tamen etiam potest a nolente per infirmitatem amitti; et ideo ratio non est ad propositum.  
 
@@ -594,7 +596,7 @@ Ad secundum dicendum, quod etiam manente contumacia potest aliquis discrete exco
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod excommunicationes non habent connexionem in aliquo; et ideo possibile est quod aliquis ab una absolvatur, et in altera remaneat. Sed circa hoc sciendum est, quod aliquis quandoque est excommunicatus pluribus excommunicationibus ab uno judice; et tunc, quando absolvitur ab una, intelligitur ab omnibus absolvi, nisi contrarium exprimatur; vel nisi in casu quo quis absolutionem impetrat de una tantum casu excommunicationis, cum pro pluribus excommunicatus sit. Quandoque est excommunicatus a diversis judicibus; et tunc absolutus ab una excommunicatione, non propter hoc est absolutus ab altera, nisi omnes alii ad petitionem ejus excommunicationem*excommunicationem.—absolutionem* PLE. suam confirmaverint, vel nisi omnes uni demandent absolutionem.***
+Ad tertiam quaestionem dicendum, quod excommunicationes non habent connexionem in aliquo; et ideo possibile est quod aliquis ab una absolvatur, et in altera remaneat. Sed circa hoc sciendum est, quod aliquis quandoque est excommunicatus pluribus excommunicationibus ab uno judice; et tunc, quando absolvitur ab una, intelligitur ab omnibus absolvi, nisi contrarium exprimatur; vel nisi in casu quo quis absolutionem impetrat de una tantum casu excommunicationis, cum pro pluribus excommunicatus sit. Quandoque est excommunicatus a diversis judicibus; et tunc absolutus ab una excommunicatione, non propter hoc est absolutus ab altera, nisi omnes alii ad petitionem ejus excommunicationem*excommunicationem.—absolutionem* PLE. suam confirmaverint, vel nisi omnes uni demandent absolutionem.  
 
 Ad primum ergo dicendum, quod omnia peccata habent connexionem in aversione voluntatis a Deo, cum quo non potest esse peccatorum remissio; et ideo unum peccatum sine altero remitti non potest. Sed excommunicationes non habent aliquam talem connexionem; nec iterum absolutio ab excommunicatione impeditur propter voluntatis contrarietatem, ut dictum est; et ideo ratio non sequitur.  
 
@@ -602,7 +604,7 @@ Ad secundum dicendum, quod sicut pluribus de causis erat aliquis extra Ecclesiam
 
 Expositio textus  
 
-****Haeresis utrumque non habet*; quia etsi habeant ordinem, amittunt tamen jurisdictionem ab Ecclesia praecisi.***
+*Haeresis utrumque non habet*; quia etsi habeant ordinem, amittunt tamen jurisdictionem ab Ecclesia praecisi.  
 
 *Verbum Dei peccata dimittit*, scilicet auctoritate; sed sacerdos, inquantum sacramentum praebet ministerio; inquantum autem poenam imponit, sic idem ipse judex dicitur.  
 

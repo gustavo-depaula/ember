@@ -1,5 +1,7 @@
 # Sermon
 
+It is as Augustine says to Optatus: *nobody is freed from the damnation that came through Adam but through faith in Jesus Christ*.Augustine, *Epistle 190*, ch. 1, para. 3 (Corpus Scriptorum Ecclesiasticorum Latinorum [CSEL], vol. 57, pp. 139–40; Patrologia Latina [PL], vol. 33, p. 858). This is sufficiently proven by the Apostle in Hebrews 11:6, where he shows that no one has ever been able to please God without faith. From this it follows that at all times after a lapse faith has been a necessity for recovery, for there is no other medicine for the weakness of original or actual sin.Cf. Thomas Aquinas, *Summa theologiae* I-II, q. 109, a. 7; 113.4; 114.7, where Thomas underlines that this is not a matter of merit; faith is a gracious gift from God. And therefore all the saints always, from the beginning of the world, longed for and desired the coming of the Savior.Hence, Thomas employs a Christological reading of the Old Testament: Moses, the prophets, and the psalmist speak already of the Christ, and he speaks through them.  
+
 And this is shown well and plainly in the saying mentioned in which the prophet shows three things, in this order:  
 
 first, he shows God’s Son himself who is coming down from the heavens: ***he will come***;  

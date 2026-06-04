@@ -1,8 +1,10 @@
 # D. 12 - Order between the Father and the Son as regards the procession of the Holy Spirit
 
+***De ordine respectu istius processionis inter Patrem et Filium***
+
 ***Divisio textus***
 
-***Ostenso quod Spiritus Sanctus procedit a Patre et Filio, hic inquirit utrum sit aliquis ordo respectu istius processionis inter Patrem et Filium, et dividitur in tres partes: in prima excludit ordinem temporis; in secunda ordinem dignitatis vel potestatis, ibi: *nunc tractandum est quod secundo quaerebatur*; in tertia astruit ordinem naturae, ibi: *Augustinus tamen, in 15 lib*. De Trinit*., dicit, quod Spiritus Sanctus principaliter procedit de Patre*.***
+Ostenso quod Spiritus Sanctus procedit a Patre et Filio, hic inquirit utrum sit aliquis ordo respectu istius processionis inter Patrem et Filium, et dividitur in tres partes: in prima excludit ordinem temporis; in secunda ordinem dignitatis vel potestatis, ibi: *nunc tractandum est quod secundo quaerebatur*; in tertia astruit ordinem naturae, ibi: *Augustinus tamen, in 15 lib*. De Trinit*., dicit, quod Spiritus Sanctus principaliter procedit de Patre*.  
 
 In primo tria facit: primo movet quaestionem; secundo ponit objectionem haeretici, ibi: *quod nititur haereticus ostendere*; tertio ponit solutionem, ibi: *his et hujusmodi quaestionibus magis laboriosis quam fructuosis respondet Augustinus*.  
 
@@ -50,7 +52,7 @@ Articulus 2
 
 ***Utrum Spiritus Sanctus magis procedat a Patre quam a Filio***
 
-***Ad secundum sic proceditur. Videtur quod Spiritus Sanctus magis procedat a Patre quam a Filio.***
+Ad secundum sic proceditur. Videtur quod Spiritus Sanctus magis procedat a Patre quam a Filio.  
 
 Sicut enim dicit Philosophus in lib. *De causis*, omnis causa primaria plus est influens in suum causatum quam causa secundaria. Sed Filius est quasi secunda causa, Pater autem quasi primum principium, qui non est de alio.Parma: *quod non est de aliquo*, “which is not from something.” Ergo Spiritus Sanctus magis procedit a Patre quam a Filio.  
 
@@ -80,7 +82,7 @@ Articulus 3
 
 ***Utrum Spiritus Sanctus procedat a Patre, mediante Filio***
 
-***Ad tertium sic proceditur. Videtur quod Spiritus Sanctus procedat a Patre, mediante Filio.***
+Ad tertium sic proceditur. Videtur quod Spiritus Sanctus procedat a Patre, mediante Filio.  
 
 Illud enim per quod aliquid procedit, videtur esse medium in processione. Sed Spiritus Sanctus procedit a Patre per Filium. Ergo procedit a Patre, mediante Filio.  
 
@@ -108,7 +110,7 @@ Virtus enim superioris est quasi medium, per quod operans suae operationi conjun
 
 Expositio textus  
 
-****Aut jam nato Filio, aut non nato Filio*. Videtur quod necessarium sit alterum dare, quia differunt per affirmationem et negationem. Et dicendum, quod utraque istarum est duplex, ex eo quod cum dicitur, Spiritus Sanctus procedit a Patre, jam nato Filio, participium potest designare tempus praeteritum, et adverbium, “nunc” proximum ante praesens tempus, et sic est falsa, quia significatur quod generatio Filii duratione processionem Spiritus Sancti praecedat; et in hoc sensu negativa est vera si negative sumatur, ut feratur negatio ad totum, et non ad participium tantum. AutParma: *si autem*. participium designat perfectionem nativitatis, et adverbium, “nunc” aeternitatis; sic vera est; quia existente perfecta generatione Filii est ab aeterno processio Spiritus Sancti; et in hoc sensu negativa falsa est.***
+*Aut jam nato Filio, aut non nato Filio*. Videtur quod necessarium sit alterum dare, quia differunt per affirmationem et negationem. Et dicendum, quod utraque istarum est duplex, ex eo quod cum dicitur, Spiritus Sanctus procedit a Patre, jam nato Filio, participium potest designare tempus praeteritum, et adverbium, “nunc” proximum ante praesens tempus, et sic est falsa, quia significatur quod generatio Filii duratione processionem Spiritus Sancti praecedat; et in hoc sensu negativa est vera si negative sumatur, ut feratur negatio ad totum, et non ad participium tantum. AutParma: *si autem*. participium designat perfectionem nativitatis, et adverbium, “nunc” aeternitatis; sic vera est; quia existente perfecta generatione Filii est ab aeterno processio Spiritus Sancti; et in hoc sensu negativa falsa est.  
 
 *Aut plenius vel magis procedat Spiritus Sanctus a Patre quam a Filio*. Haec duo differunt, ut plenius dicatur procedere ab illo a quo plura recipit, sed magis ab illo qui de majori virtute ad ejus processionem operatur.  
 

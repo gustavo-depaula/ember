@@ -1,6 +1,6 @@
 # D. 49 - The rewards of the blessed
 
-***Postquam determinavit Magister de his quae pertinent ad judicium generale, in parte hac incipit determinare de praemiis et poenis quae judicium generale sequuntur; et dividitur in partes duas: in prima determinat de praemiis bonorum; in secunda de poenis malorum, 50 dist., ibi: *hic oritur quaestio*, etc.***
+Postquam determinavit Magister de his quae pertinent ad judicium generale, in parte hac incipit determinare de praemiis et poenis quae judicium generale sequuntur; et dividitur in partes duas: in prima determinat de praemiis bonorum; in secunda de poenis malorum, 50 dist., ibi: *hic oritur quaestio*, etc.  
 
 Prima autem pars dividitur in partes tres: in prima enim describit qualis erit beatitudo sanctorum, quae eis in praemium post generale judicium dabitur; in secunda ostendit quomodo ad eam consequendam omnis humanus appetitus tendat, ibi: *solet etiam quaeri de beatitudine, utrum omnes eam velint*.  
 
@@ -27,7 +27,7 @@ primo in quo sit quaerenda beatitudo;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod beatitudo in bonis corporis consistat. Quia quod a pluribus dicitur, impossibile est falsum esse totaliter, ut Commentator dicit in Libr. *de Anima*; et Philosophus dicit in 7 *Ethicor*., quod *opinio non perditur, quam populi multi famant*. Sed major hominum multitudo inclinatur ad quaerendum corporales delectationes et corporalia bona quasi finem. Ergo finis humanae vitae in corporalibus bonis consistit. Finem autem humanae vitae dicimus beatitudinem. Ergo beatitudo in bonis corporis quaerenda est.***
+Ad primum sic proceditur. Videtur quod beatitudo in bonis corporis consistat. Quia quod a pluribus dicitur, impossibile est falsum esse totaliter, ut Commentator dicit in Libr. *de Anima*; et Philosophus dicit in 7 *Ethicor*., quod *opinio non perditur, quam populi multi famant*. Sed major hominum multitudo inclinatur ad quaerendum corporales delectationes et corporalia bona quasi finem. Ergo finis humanae vitae in corporalibus bonis consistit. Finem autem humanae vitae dicimus beatitudinem. Ergo beatitudo in bonis corporis quaerenda est.  
 
 Praeterea, quanto aliquis finis est magis ultimus in consecutione, tanto prior est in intentione et appetitu. Sed homo prius appetit corporale bonum quam spirituale, cum ex amore corporalium rerum in amorem invisibilium manuducamur, ut Gregorius dicit. Ergo bonum corporale est ultimus finis noster. Talis autem finis est beatitudo. Ergo in bonis corporalibus beatitudo est quaerenda.  
 
@@ -47,7 +47,7 @@ Praeterea, illud quod est ultima mensura, non est aliquo modo mensuratum. Ergo i
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod beatitudo magis consistat in his quae sunt voluntatis quam in his quae sunt intellectus. Quia beatitudo est summum bonum. Sed bonum est objectum voluntatis inquantum hujusmodi, non autem intellectus. Ergo beatitudo magis consistit in actu voluntatis quam intellectus.***
+Ulterius. Videtur quod beatitudo magis consistat in his quae sunt voluntatis quam in his quae sunt intellectus. Quia beatitudo est summum bonum. Sed bonum est objectum voluntatis inquantum hujusmodi, non autem intellectus. Ergo beatitudo magis consistit in actu voluntatis quam intellectus.  
 
 Praeterea, delectatio, secundum Philosophum in 7 *Ethic*., ad beatitudinem requiritur; unde et in Graeco nomen beatitudinis a gaudio accipitur. Sed delectatio est in voluntate, sive in affectu. Ergo et beatitudo.  
 
@@ -67,7 +67,7 @@ Praeterea, secundum Philosophum in 1 *Ethic*., bonum in quo per se est sufficien
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod beatitudo magis consistat in actu intellectus practici quam speculativi. Quanto enim aliquod bonum est communius, tanto est divinius, ut patet in 1 *Ethic*. Sed bonum intellectus speculativi est singulariter ejus qui speculatur; bonum autem intellectus practici potest esse commune multorum. Ergo magis consistit beatitudo in intellectu practico quam speculativo.***
+Ulterius. Videtur quod beatitudo magis consistat in actu intellectus practici quam speculativi. Quanto enim aliquod bonum est communius, tanto est divinius, ut patet in 1 *Ethic*. Sed bonum intellectus speculativi est singulariter ejus qui speculatur; bonum autem intellectus practici potest esse commune multorum. Ergo magis consistit beatitudo in intellectu practico quam speculativo.  
 
 Praeterea, beatitudo est ultima perfectio hominis. Sed major est perfectio alicujus rei secundum quod est causa alterius, quam secundum quod in se perfecta existit; unde dicit Dionysius in 3 cap. *Caelest. Hierarch.*, quod omnium divinius est Dei cooperatorem fieri in reductione aliorum. Per intellectum autem speculativum homo habet perfectionem in seipso; intellectus autem practicus est causa aliorum. Ergo beatitudo magis consistit in intellectu practico quam in speculativo.  
 
@@ -83,7 +83,7 @@ Praeterea, in ratione beatitudinis est diuturnitas, et sufficientia, et delectat
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod beatitudo in hac vita habeatur. Quia Matth. 5, 3, dicitur: *beati pauperes spiritu, quoniam ipsorum est regnum caelorum*; et similiter: *beati qui persecutionem patiuntur*; et cetera hujusmodi. Sed omnia haec in hac vita habentur. Ergo beatitudo est in hac vita.***
+Ulterius. Videtur quod beatitudo in hac vita habeatur. Quia Matth. 5, 3, dicitur: *beati pauperes spiritu, quoniam ipsorum est regnum caelorum*; et similiter: *beati qui persecutionem patiuntur*; et cetera hujusmodi. Sed omnia haec in hac vita habentur. Ergo beatitudo est in hac vita.  
 
 Praeterea, si beatitudo non posset esse in hac vita, nullus beatitudinem cognosceret, nisi qui de alia vita notitiam haberet. Sed multi philosophi de beatitudine tractaverunt, futuram vitam penitus ignorantes. Ergo beatitudo potest etiam esse in hac vita.  
 
@@ -99,7 +99,7 @@ Praeterea, beatitudo ab omnibus ponitur maximum bonum. Sed maximum bonum est quo
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod beatitudo, cum sit naturaliter ab omnibus hominibus desiderata, nominat ultimum humanae vitae finem. Finis autem cujuslibet rei est operatio propria, vel per operationem propriam ad finem venit. Cum autem forma propria sit in qualibet re operationis propriae principium; forma autem propria hominis, inquantum est homo, sit rationalis anima; oportet quod vel in ipsis actibus rationalis animae beatitudo consistat, vel in his ad quae homo per actus rationalis animae comparatur. Haec autem bona animae dicuntur; unde necesse est beatitudinem ponere in bonis animae, etiam secundum philosophos. Quod autem aliqui beatitudinem in bonis corporis ponunt, ex hoc provenit quod seipsos quid essent ignorabant; non enim agnoscebant se secundum id quod est in eis melius, quod eorum esse formaliter complet, sed secundum id quod de eis exterius apparet; et secundum hoc in exterioribus bonis suam beatitudinem quaesierunt.***
+Respondeo dicendum ad primam quaestionem, quod beatitudo, cum sit naturaliter ab omnibus hominibus desiderata, nominat ultimum humanae vitae finem. Finis autem cujuslibet rei est operatio propria, vel per operationem propriam ad finem venit. Cum autem forma propria sit in qualibet re operationis propriae principium; forma autem propria hominis, inquantum est homo, sit rationalis anima; oportet quod vel in ipsis actibus rationalis animae beatitudo consistat, vel in his ad quae homo per actus rationalis animae comparatur. Haec autem bona animae dicuntur; unde necesse est beatitudinem ponere in bonis animae, etiam secundum philosophos. Quod autem aliqui beatitudinem in bonis corporis ponunt, ex hoc provenit quod seipsos quid essent ignorabant; non enim agnoscebant se secundum id quod est in eis melius, quod eorum esse formaliter complet, sed secundum id quod de eis exterius apparet; et secundum hoc in exterioribus bonis suam beatitudinem quaesierunt.  
 
 Ad primum ergo dicendum, quod multorum opinionem non est necesse esse veram simpliciter, sed secundum partem. Multitudo autem hominum in bonis corporis beatitudinem ponentium, quantum ad hoc veram opinionem habet, quod illud quod sibi optimum aestimant, hoc suam beatitudinem esse putant; et quantum ad hoc opinio eorum vera est, scilicet quod optimum hominis est beatitudo. Non autem oportet quod sit vera quantum ad hoc quod ponunt eam in bonis corporis; quia haec opinio procedit ex falsa radice, quia scilicet aestimant se principaliter esse id quod sunt secundum corpora.  
 
@@ -115,7 +115,7 @@ Ad sextum dicendum, quod licet homo ex anima et corpore consistat, tamen esse sp
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod *beatitudinem esse in voluntate*, dupliciter potest intelligi. Uno modo ita quod sit voluntatis objectum; et sic beatitudo, cum sit ultimus finis, et ex fine sit ratio boni, quod est voluntatis objectum; oportet ponere beatitudinem in voluntate esse. Alio modo ita quod sit aliquis actus voluntatis; et sic beatitudo in voluntate esse non potest. Beatitudo enim ultimum finem hominis importat. Finis autem ultimus hominis potest accipi duplex: unus in ipso, et alius extra ipsum. In ipso, sicut operatio rei dicitur esse finis ejus, cum omnis res sit propter suam operationem. Finis vero extra ipsum est, ad quod per suam operationem pertingit.***
+Ad secundam quaestionem dicendum, quod *beatitudinem esse in voluntate*, dupliciter potest intelligi. Uno modo ita quod sit voluntatis objectum; et sic beatitudo, cum sit ultimus finis, et ex fine sit ratio boni, quod est voluntatis objectum; oportet ponere beatitudinem in voluntate esse. Alio modo ita quod sit aliquis actus voluntatis; et sic beatitudo in voluntate esse non potest. Beatitudo enim ultimum finem hominis importat. Finis autem ultimus hominis potest accipi duplex: unus in ipso, et alius extra ipsum. In ipso, sicut operatio rei dicitur esse finis ejus, cum omnis res sit propter suam operationem. Finis vero extra ipsum est, ad quod per suam operationem pertingit.  
 
 Non autem quaelibet operatio potest dici finis, sed illa quae fini exteriori primo conjungit; et hoc dico quando res finem extra se habet; tunc enim oportet quod finis interior ad exteriorem ordinetur, ut sic finis exterior sit quasi finis ultimus; et finis interior, qui est operatio, sit ad illum ordinatus; sicut videmus quod res naturales per operationes quas habent, pertingunt secundum assimilationem quamdam ad divinam bonitatem, quae est earum exterior finis.  
 
@@ -137,7 +137,7 @@ Ad quintum dicendum, quod per affectum homo perfectius Deo conjungitur quam per 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut ex jam dictis patet, secundum hoc in actu intellectus beatitudo hominis constituitur quod per ipsum est prima conjunctio hominis ad suum ultimum finem exteriorem, cui intellectus conjungitur, inquantum cognoscit ipsum. Illud autem quod est cognitum per intellectum practicum, non potest esse ultimus finis exterior, quia cognitio intellectus practici ordinatur ad cognitum sicut causa ad effectus. Effectus autem alicujus non potest esse ultimus finis ejus, quia perfectio causae non dependet ab effectu, sed e converso; et ideo impossibile est quod beatitudo in actu intellectus practici consistat, sed solum in actu intellectus speculativi; et inde est quod omnis cognitio practica est propter aliquod aliud appetibile; sed cognitio speculativa magis appetitur propter seipsam.***
+Ad tertiam quaestionem dicendum, quod sicut ex jam dictis patet, secundum hoc in actu intellectus beatitudo hominis constituitur quod per ipsum est prima conjunctio hominis ad suum ultimum finem exteriorem, cui intellectus conjungitur, inquantum cognoscit ipsum. Illud autem quod est cognitum per intellectum practicum, non potest esse ultimus finis exterior, quia cognitio intellectus practici ordinatur ad cognitum sicut causa ad effectus. Effectus autem alicujus non potest esse ultimus finis ejus, quia perfectio causae non dependet ab effectu, sed e converso; et ideo impossibile est quod beatitudo in actu intellectus practici consistat, sed solum in actu intellectus speculativi; et inde est quod omnis cognitio practica est propter aliquod aliud appetibile; sed cognitio speculativa magis appetitur propter seipsam.  
 
 Ad primum ergo dicendum, quod bonum cui intellectus speculativus conjungitur per cognitionem, est communius bono cui conjungitur intellectus practicus, inquantum intellectus speculativus magis separatur a particulari quam intellectus practicus cujus cognitio in operatione perficitur, quae in singularibus consistit. Sed hoc est verum quod assecutio finis, ad quem pervenit intellectus speculativus, inquantum hujusmodi, est propria assequenti; sed assecutio finis quem intellectus practicus intendit, potest esse propria et communis, inquantum per intellectum practicum aliquis se et alios dirigit in finem, ut patet in rectore multitudinis; sed aliquis ex hoc quod speculatur, ipse singulariter dirigitur in speculationis finem. Ipse autem finis intellectus speculativi tantum praeeminet bono intellectus practici quantum*quantum.—quod* PLE. singularis assecutio ejus excedit communem assecutionem boni intellectus practici; et ideo perfectissima beatitudo in intellectu speculativo consistit.  
 
@@ -149,7 +149,7 @@ Ad quartum dicendum, quod intellectus speculativus simpliciter practico nobilior
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod sicut in rebus naturalibus se habet motus ad terminum, ita in voluntariis se habet appetitus finis, et eorum quae propter finem appetuntur, ad consecutionem finis; et ideo sicut quando res naturalis pervenit ad terminum, cessat motus ejus; ita voluntas cum habet quod quaerit, appetitus ejus desistit, conversus in amorem vel delectationem. Beatitudo ergo cum sit finis ad quem referuntur omnia desideria, oportet quod sit tale aliquid, quo habito nihil ulterius desiderandum restet. Quilibet autem naturaliter esse desiderat, et permanere in bono quod ipse habet; et ideo ab omnibus beatitudo tale aliquid esse ponitur quod immobilitatem habeat et perpetuitatem.***
+Ad quartam quaestionem dicendum, quod sicut in rebus naturalibus se habet motus ad terminum, ita in voluntariis se habet appetitus finis, et eorum quae propter finem appetuntur, ad consecutionem finis; et ideo sicut quando res naturalis pervenit ad terminum, cessat motus ejus; ita voluntas cum habet quod quaerit, appetitus ejus desistit, conversus in amorem vel delectationem. Beatitudo ergo cum sit finis ad quem referuntur omnia desideria, oportet quod sit tale aliquid, quo habito nihil ulterius desiderandum restet. Quilibet autem naturaliter esse desiderat, et permanere in bono quod ipse habet; et ideo ab omnibus beatitudo tale aliquid esse ponitur quod immobilitatem habeat et perpetuitatem.  
 
 Sed de immobilitate et perpetuitate beatitudinis humanae aliqui diversimode judicaverunt. Quidam enim dixerunt, quod de ratione humanae beatitudinis non erat perpetuitas absolute, sed perpetuitas respectu vitae hominis. Nec tamen in hac perpetuitate consideranda est immobilitas quae privaret potentiam ad immutationem, sed quae tantum privaret immutationis actum. Et haec fuit opinio Platonis, ut tangitur 1 *Ethic*. Posuit enim, illum hominem esse beatum in hac vita, cujus beatitudo continuatur usque ad mortem ipsius. Sed quia conditio hominis, quantumcumque perfecti, in hac vita mutari potest, et de contingenti futuro non possumus habere certum judicium; ideo de nullo homine ante mortem scire possumus, an sua perfectio continuetur sibi usque ad finem; sed in ejus fine sciri poterit, si usque ad finem continuata est; et ita nullus potest dici beatus nisi in morte sua.  
 
@@ -171,7 +171,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod beatitudo sit quid increatum. Primo per hoc quod dicit Boetius in 3 *de Consol*., quod beatitudo est ipsa divinitas; unde concludit quod omnis beatus est Deus.***
+Ad secundum sic proceditur. Videtur quod beatitudo sit quid increatum. Primo per hoc quod dicit Boetius in 3 *de Consol*., quod beatitudo est ipsa divinitas; unde concludit quod omnis beatus est Deus.  
 
 Praeterea, quod per superabundantiam dicitur, uni soli convenit. Sed Deus est summum bonum, cum sit omnis bonitatis causa; beatitudo etiam est summum bonum, cum ab omnibus tamquam finis ultimus desideretur. Ergo beatitudo est ipse solus Deus.  
 
@@ -187,7 +187,7 @@ Praeterea, felicitas addita numero bonorum est eligibilior, ut patet per Philoso
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod felicitas non sit actus. Quia secundum Boetium in 3 *de Consol*., *beatitudo est status omnium bonorum congregatione perfectus*. Sed status non nominat actum. Ergo beatitudo non est actus.***
+Ulterius. Videtur quod felicitas non sit actus. Quia secundum Boetium in 3 *de Consol*., *beatitudo est status omnium bonorum congregatione perfectus*. Sed status non nominat actum. Ergo beatitudo non est actus.  
 
 Praeterea, actuum nostrorum non sumus causa. Si ergo beatitudo in actu nostro constaret, nos essemus causa nostrae beatitudinis; quod est absurdum.  
 
@@ -205,7 +205,7 @@ Praeterea, homo secundum hoc beatus est quod ad Dei similitudinem maxime perting
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod beatitudo hominis non sit idem quod vita aeterna. *Vivere enim viventibus est esse*, ut dicitur in 2 *de Anima*. Sed beatitudo, secundum Philosophum, non consistit in essendo, sed in operando. Ergo beatitudo hominis non est aliqua *vita*.***
+Ulterius. Videtur quod beatitudo hominis non sit idem quod vita aeterna. *Vivere enim viventibus est esse*, ut dicitur in 2 *de Anima*. Sed beatitudo, secundum Philosophum, non consistit in essendo, sed in operando. Ergo beatitudo hominis non est aliqua *vita*.  
 
 Praeterea, ratio vitae in motu consistit, ut patet per Commentatorem in Lib. *de Causis*. Sed beatitudo includit in sui ratione intransmutabilitatem. Ergo beatitudo non est idem quod vita aeterna.  
 
@@ -219,7 +219,7 @@ Praeterea, ultima beatitudo hominis consistit in visione Dei, ut ex supra dictis
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod beatitudo sit idem quod pax. Primo per hoc quod in Psal. 147, 14, dicitur: *qui posuit fines tuos pacem*. Sed finis civitatis Dei, de qua ibi loquitur, est beatitudo. Ergo beatitudo est idem quod pax.***
+Ulterius. Videtur quod beatitudo sit idem quod pax. Primo per hoc quod in Psal. 147, 14, dicitur: *qui posuit fines tuos pacem*. Sed finis civitatis Dei, de qua ibi loquitur, est beatitudo. Ergo beatitudo est idem quod pax.  
 
 Praeterea, Augustinus dicit, 19 *de Civ. Dei*: *possumus dicere finem bonorum nostrorum esse pacem, sicut et aeternam vitam*. Sed vita aeterna est idem quod beatitudo. Ergo et pax.  
 
@@ -233,7 +233,7 @@ Praeterea, pax maxime ad appetitum vel voluntatem refertur, quia est quaedam ips
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod beatitudo non sit idem quod regnum Dei. Regnum enim, quod dicitur a regendo, ad gubernationem providentiae pertinere videtur. Sed providentia consistit in coordinatione eorum quae sunt ad finem ipsum. Ergo regnum Dei non videtur ad beatitudinem pertinere, quae est ultimus finis.***
+Ulterius. Videtur quod beatitudo non sit idem quod regnum Dei. Regnum enim, quod dicitur a regendo, ad gubernationem providentiae pertinere videtur. Sed providentia consistit in coordinatione eorum quae sunt ad finem ipsum. Ergo regnum Dei non videtur ad beatitudinem pertinere, quae est ultimus finis.  
 
 Praeterea, Dionysius dicit, quod regnum est *omnis finis et legis et ordinis distributio*. Sed haec distributio non solum pertinet ad homines, sed ad omnes creaturas quibus Deus praedicta distribuit; beatitudo autem ad solas creaturas rationales. Ergo beatitudo non est idem quod regnum Dei.  
 
@@ -247,7 +247,7 @@ Praeterea, illud quod promittitur sanctis in praemium, est beatitudo. Sed regnum
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod bonum quod omnia concupiscunt, est esse, ut patet per Boetium in Lib. *de Consolat*.; unde ultimum desideratum ab omnibus est esse perfectum, secundum quod est possibile in natura illa. Omne autem quod habet esse ab alio, perfectionem sui esse ab alio habet: quia tanto perfectius esse recipit unumquodque, quanto verius conjungitur essendi principio; unde inferiora corpora propter longe distare a primo principio, esse corruptibile habent, ut patet 2 de Generat. Et ideo ultimus finis cujuslibet rei habentis esse ab alio est duplex: unus exterius, secundum scilicet*secundum scilicet.—scilicet* PLE. id quod est desideratae perfectionis principium; alius interius, scilicet ipsa sua perfectio, quam facit conjunctio ad principium. Unde cum beatitudo sit ultimus hominis finis, duplex erit beatitudo. Una quae est in ipso; scilicet quae est ultima ejus perfectio, ad quam possibile est ipsum pervenire; et haec est beatitudo creata. Alia vero est extra ipsum, per cujus conjunctionem praemissa beatitudo in ea causatur; et haec est beatitudo increata, quae est ipse Deus.***
+Respondeo dicendum ad primam quaestionem, quod bonum quod omnia concupiscunt, est esse, ut patet per Boetium in Lib. *de Consolat*.; unde ultimum desideratum ab omnibus est esse perfectum, secundum quod est possibile in natura illa. Omne autem quod habet esse ab alio, perfectionem sui esse ab alio habet: quia tanto perfectius esse recipit unumquodque, quanto verius conjungitur essendi principio; unde inferiora corpora propter longe distare a primo principio, esse corruptibile habent, ut patet 2 de Generat. Et ideo ultimus finis cujuslibet rei habentis esse ab alio est duplex: unus exterius, secundum scilicet*secundum scilicet.—scilicet* PLE. id quod est desideratae perfectionis principium; alius interius, scilicet ipsa sua perfectio, quam facit conjunctio ad principium. Unde cum beatitudo sit ultimus hominis finis, duplex erit beatitudo. Una quae est in ipso; scilicet quae est ultima ejus perfectio, ad quam possibile est ipsum pervenire; et haec est beatitudo creata. Alia vero est extra ipsum, per cujus conjunctionem praemissa beatitudo in ea causatur; et haec est beatitudo increata, quae est ipse Deus.  
 
 Ad primum ergo dicendum, quod sicut ipse Deus est bonus per essentiam suam; omnia vero alia sunt bona per participationem, ut dicitur in libro *de Hebdomadibus*; ita ipse solus Deus est beatitudo per suam essentiam, alii vero beati sunt participatione; unde beatitudo creata est quaedam participatio et similitudo beatitudinis increatae; non est tamen essentialiter beatitudo, quasi faciens homines per essentiam suam beatos; et sic intelligenda est auctoritas Boetii.  
 
@@ -261,7 +261,7 @@ Ad quintum dicendum, quod quamvis omne accidens, inquantum hujusmodi, sit substa
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut ex dictis patet, ultimus finis rei in ipsa re acceptus, est id per quod conjungitur res suo fini exteriori, qui est principium suae perfectionis. Deo autem, qui est ultimus finis rerum, res dupliciter conjungi possunt. Uno modo per modum assimilationis, ut sic dicatur illa res esse Deo conjunctissima quae est Deo simillima; et secundum hoc oportet illud in unaquaque re esse ultimum ejus finem, secundum quod maxime Deo assimilatur. Unumquodque autem secundum hoc ad Dei similitudinem accedit quod est actu, recedit vero secundum quod est in potentia; et illud per quod res maxime est in actu, est ejus ultimus finis. Alio modo pertingendo ad ipsum Deum: quae quidem conjunctio soli creaturae rationali est possibilis, quae potest ipsi Deo conjungi per cognitionem et amorem, eo quod Deus est objectum operationis ejus, non autem operationis alicujus alterius creaturae.***
+Ad secundam quaestionem dicendum, quod sicut ex dictis patet, ultimus finis rei in ipsa re acceptus, est id per quod conjungitur res suo fini exteriori, qui est principium suae perfectionis. Deo autem, qui est ultimus finis rerum, res dupliciter conjungi possunt. Uno modo per modum assimilationis, ut sic dicatur illa res esse Deo conjunctissima quae est Deo simillima; et secundum hoc oportet illud in unaquaque re esse ultimum ejus finem, secundum quod maxime Deo assimilatur. Unumquodque autem secundum hoc ad Dei similitudinem accedit quod est actu, recedit vero secundum quod est in potentia; et illud per quod res maxime est in actu, est ejus ultimus finis. Alio modo pertingendo ad ipsum Deum: quae quidem conjunctio soli creaturae rationali est possibilis, quae potest ipsi Deo conjungi per cognitionem et amorem, eo quod Deus est objectum operationis ejus, non autem operationis alicujus alterius creaturae.  
 
 Quocumque autem modo consideretur ultima perfectio hominis, quae est ejus finis, oportet eam ponere in genere actus. Si enim consideremus modum conjunctionis ad Deum, quae est communis omnibus creaturis, cum res magis sit in actu secundum quod est operans, quam secundum quod est potens operari; erit ultima perfectio uniuscujusque rei sua operatio perfecta: unde res esse dicitur propter suam operationem. Similiter si consideremus conjunctionem quae est propria rationalis creaturae, ultima perfectio hominis in operatione consistit: habitus enim non conjungitur objecto nisi mediante actu; et ideo oportet quod beatitudo in genere actus ponatur. Tamen haec secunda consideratio propinquius, inducit in considerationem beatitudinis quam prima, quia beatitudo non est nisi rationalis creaturae.  
 
@@ -277,7 +277,7 @@ Ad quintum dicendum, quod, sicut supra dictum est, beatitudo viae non est perfec
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod vita dicitur dupliciter. Uno modo ipsum esse viventis; quia, ut in 2 *de Anima* dicitur, vivere viventibus est esse. Ex hoc autem dicitur aliquid vivens quod potest seipsum movere secundum aliquam actionem: unde et plantae dicuntur vivere ex hoc quod movent se secundum augmentum; et animalia ulterius, inquantum movent se secundum locum, et inquantum movent se ad sentiendum; in homine autem ulterius, inquantum potest se movere ad volendum et intelligendum. Cujuslibet autem potentiae perfectio est suus actus: unde secundo translatum est nomen vitae ad significandum operationem ad quam aliquis seipsum movet, sicut sentire dicitur vita animalis, et intelligere vita hominis: et secundum hunc modum unusquisque illam operationem suam vitam reputat cui maxime intendit, quasi ad hoc sit totum esse suum ordinatum; secundum quem modum loquendi dicitur: iste ducit talem vel talem vitam: et sic Epicurei posuerunt beatitudinem esse vitam voluptuosam. Operatio autem non mensuratur tempore nisi secundum quod est motui adjuncta: unde et operationes quae non adjunguntur motui, sed termino motus, non mensurantur tempore, sed instanti, ut patet de illuminatione. Et ideo si est aliqua operatio omnino transcendens motum, talis operatio non mensurabitur tempore, sed mensura quae est supra tempus.***
+Ad tertiam quaestionem dicendum, quod vita dicitur dupliciter. Uno modo ipsum esse viventis; quia, ut in 2 *de Anima* dicitur, vivere viventibus est esse. Ex hoc autem dicitur aliquid vivens quod potest seipsum movere secundum aliquam actionem: unde et plantae dicuntur vivere ex hoc quod movent se secundum augmentum; et animalia ulterius, inquantum movent se secundum locum, et inquantum movent se ad sentiendum; in homine autem ulterius, inquantum potest se movere ad volendum et intelligendum. Cujuslibet autem potentiae perfectio est suus actus: unde secundo translatum est nomen vitae ad significandum operationem ad quam aliquis seipsum movet, sicut sentire dicitur vita animalis, et intelligere vita hominis: et secundum hunc modum unusquisque illam operationem suam vitam reputat cui maxime intendit, quasi ad hoc sit totum esse suum ordinatum; secundum quem modum loquendi dicitur: iste ducit talem vel talem vitam: et sic Epicurei posuerunt beatitudinem esse vitam voluptuosam. Operatio autem non mensuratur tempore nisi secundum quod est motui adjuncta: unde et operationes quae non adjunguntur motui, sed termino motus, non mensurantur tempore, sed instanti, ut patet de illuminatione. Et ideo si est aliqua operatio omnino transcendens motum, talis operatio non mensurabitur tempore, sed mensura quae est supra tempus.  
 
 Visio autem Dei, quae ponitur esse beatitudo hominis, non potest esse actio tempore mensurata secundum seipsam, cum non sit successiva; nec ex parte videntis aut visi, cum utrumque sit extra motum: unde sicut nec tempore, ita nec instanti, quod est terminus temporis, mensurari potest. Non potest etiam mensurari aevo: quia aevum, secundum quod ab aeternitate distinguitur, pertinet ad creaturas immutabiles; haec autem visio excedit naturalem potentiam creaturae, cum ad eam nulla creatura ex suis naturalibus pertingere possit: unde propria mensura ejus est ipsa aeternitas; et ideo visio Dei, quae est ipsa beatitudo, est ipsa vita aeterna.  
 
@@ -291,7 +291,7 @@ Ad quartum dicendum, quod vita aeterna quae a sanctis habebitur, dicitur secundu
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut dicit Augustinus, 19 *de Civit. Dei*, *pax omnium rerum est tranquillitas ordinis*: ex quo patet quod ex hoc ratio pacis assumitur quod aliquid non impeditur a recto ordine: tranquillitas enim perturbationem impedimenti excludit. Pax autem praecipue respicit illum ordinem quo voluntas in aliquid ordinatur: unde et tunc dicimus hominem pacem habere quando nihil est quod impediat ordinem suae voluntatis in aliquid; et similiter dicimus pacem esse in civitate, quando nihil est quod perturbet rectum ordinem civitatis, qui est ex voluntate gubernatoris civitatis; et secundum etiam quod inanimata appetitum naturalem habere dicuntur, ponimus unamquamque rem habere pacem, secundum quod non impeditur ab inclinatione quam habet in suum finem, quem naturaliter appetit. Operationem autem in qua beatitudo consistit, oportet esse operationem non impeditam: quia impedimentum aliquid de ejus perfectione detraheret; unde etiam delectatio quae perfectam operationem consequitur, causatur ex operatione non impedita, ut dicitur in 7 *Ethic*.; et ideo ad beatitudinem requiritur pax, non quae sit ipsa essentia beatitudinis, sed sicut remotio eorum quae possent beatitudinem impedire. Et quia ex hoc ipso quod desideratur aliquid, contrarium ejus refugit appetitus; ideo ex hoc ipso quod omnes appetunt beatitudinem naturaliter, etiam naturaliter refugiunt beatitudinis impedimenta; et hoc est eos naturaliter desiderare pacem.***
+Ad quartam quaestionem dicendum, quod, sicut dicit Augustinus, 19 *de Civit. Dei*, *pax omnium rerum est tranquillitas ordinis*: ex quo patet quod ex hoc ratio pacis assumitur quod aliquid non impeditur a recto ordine: tranquillitas enim perturbationem impedimenti excludit. Pax autem praecipue respicit illum ordinem quo voluntas in aliquid ordinatur: unde et tunc dicimus hominem pacem habere quando nihil est quod impediat ordinem suae voluntatis in aliquid; et similiter dicimus pacem esse in civitate, quando nihil est quod perturbet rectum ordinem civitatis, qui est ex voluntate gubernatoris civitatis; et secundum etiam quod inanimata appetitum naturalem habere dicuntur, ponimus unamquamque rem habere pacem, secundum quod non impeditur ab inclinatione quam habet in suum finem, quem naturaliter appetit. Operationem autem in qua beatitudo consistit, oportet esse operationem non impeditam: quia impedimentum aliquid de ejus perfectione detraheret; unde etiam delectatio quae perfectam operationem consequitur, causatur ex operatione non impedita, ut dicitur in 7 *Ethic*.; et ideo ad beatitudinem requiritur pax, non quae sit ipsa essentia beatitudinis, sed sicut remotio eorum quae possent beatitudinem impedire. Et quia ex hoc ipso quod desideratur aliquid, contrarium ejus refugit appetitus; ideo ex hoc ipso quod omnes appetunt beatitudinem naturaliter, etiam naturaliter refugiunt beatitudinis impedimenta; et hoc est eos naturaliter desiderare pacem.  
 
 Ad primum ergo dicendum, quod pax dicitur esse finis civitatis Dei, quasi propinquissima dispositio ad finem, quae est simul cum ipso fine; et non quasi ipsa sit per se finis.  
 
@@ -303,7 +303,7 @@ Ad quartum dicendum, quod ultimus finis rei non est quies, sed operatio rei, cuj
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod nomen regni a regendo est sumptum; regere autem providentiae actus est; unde secundum hoc aliquis regnum habere dicitur quod alios sub sua providentia habet; et ideo secundum hoc homines in regno Dei esse dicuntur, quod ejus providentiae perfecte subduntur. Providentiae autem est ordinare in finem. In finem autem ordinantur et ea quae distant a fine, secundum quod perducuntur ad finem; et ea quae jam assecuta sunt finem, secundum quod in fine conservantur. Et cum regula providentiae sit finis; illa perfecte providentiae subsunt quae jam in ipso fine collocantur; et ideo in eis nihil potest esse ab ordine providentiae alienum. In aliis autem quae a fine distant, secundum hoc magis vel minus divinae providentiae subsunt, secundum quod magis et minus a fine elongantur: propinquissimi sunt fini qui sunt in via ad finem. Via autem perveniendi ad finem est *fides per dilectionem operans*.***
+Ad quintam quaestionem dicendum, quod nomen regni a regendo est sumptum; regere autem providentiae actus est; unde secundum hoc aliquis regnum habere dicitur quod alios sub sua providentia habet; et ideo secundum hoc homines in regno Dei esse dicuntur, quod ejus providentiae perfecte subduntur. Providentiae autem est ordinare in finem. In finem autem ordinantur et ea quae distant a fine, secundum quod perducuntur ad finem; et ea quae jam assecuta sunt finem, secundum quod in fine conservantur. Et cum regula providentiae sit finis; illa perfecte providentiae subsunt quae jam in ipso fine collocantur; et ideo in eis nihil potest esse ab ordine providentiae alienum. In aliis autem quae a fine distant, secundum hoc magis vel minus divinae providentiae subsunt, secundum quod magis et minus a fine elongantur: propinquissimi sunt fini qui sunt in via ad finem. Via autem perveniendi ad finem est *fides per dilectionem operans*.  
 
 Unde et regnum Dei, quasi antonomastice, dupliciter dicitur: quandoque congregatio eorum qui per fidem ambulant; et sic Ecclesia militans regnum Dei dicitur: quandoque autem illorum collegium qui jam in fine stabiliti sunt; et sic ipsa Ecclesia triumphans regnum Dei dicitur; et hoc modo esse in regno Dei idem est quod esse in beatitudine. Nec differt, secundum hoc, regnum Dei a beatitudine, nisi sicut differt bonum commune totius multitudinis a bono singulari uniuscujusque.  
 
@@ -321,7 +321,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non omnes appetant beatitudinem. Nullus enim vult quod ignorat, ut patet per Augustinum in lib. *De Trinit*., et per Philosophum, qui dicit in 3 *De anima*, quod objectum voluntatis est appetibile apprehensum. Sed non omnes cognoscunt beatitudinem, cum multi circa beatitudinem erraverint. Ergo non omnes appetunt beatitudinem.***
+Ad tertium sic proceditur. Videtur quod non omnes appetant beatitudinem. Nullus enim vult quod ignorat, ut patet per Augustinum in lib. *De Trinit*., et per Philosophum, qui dicit in 3 *De anima*, quod objectum voluntatis est appetibile apprehensum. Sed non omnes cognoscunt beatitudinem, cum multi circa beatitudinem erraverint. Ergo non omnes appetunt beatitudinem.  
 
 Praeterea, quicumque appetit beatitudinem, appetit illud quod est essentialiter ipsa beatitudo. Sed ipsa beatitudo est Dei visio, quam non omnes appetunt. Ergo non omnes appetunt beatitudinem.  
 
@@ -335,7 +335,7 @@ Praeterea, unicuique appetibilis est suus finis. Sed beatitudo est ultimus finis
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod aliquis possit miseriam appetere. Omnis enim rationalis potentia ad opposita se habet. Sed voluntas est potentia rationalis. Ergo se habet ad opposita. Beatitudini autem opponitur miseria. Ergo si potest aliquis appetere beatitudinem, potest etiam appetere miseriam.***
+Ulterius. Videtur quod aliquis possit miseriam appetere. Omnis enim rationalis potentia ad opposita se habet. Sed voluntas est potentia rationalis. Ergo se habet ad opposita. Beatitudini autem opponitur miseria. Ergo si potest aliquis appetere beatitudinem, potest etiam appetere miseriam.  
 
 Praeterea, si non potest aliquis velle miseriam, impossibile est eum velle. Ergo necesse est eum non velle. Sed necessitas coactionem vel prohibitionem importat, ut Anselmus dicit. Ergo voluntas cogi poterit; quod ejus repugnat libertati.  
 
@@ -349,7 +349,7 @@ Praeterea, sicut se habet intellectus ad primum intelligibile, ita se habet volu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nullus appetendo beatitudinem mereatur. Naturalibus enim non meremur. Sed appetitus beatitudinis est homini naturalis; alias non esset omnibus communis. Ergo nullus appetendo beatitudinem meretur.***
+Ulterius. Videtur quod nullus appetendo beatitudinem mereatur. Naturalibus enim non meremur. Sed appetitus beatitudinis est homini naturalis; alias non esset omnibus communis. Ergo nullus appetendo beatitudinem meretur.  
 
 Praeterea, cum meritum et demeritum sint circa idem, nullus meretur in eo quod vitare non potest, sicut nec peccat, ut dicit Augustinus. Sed homo non potest non appetere beatitudinem. Ergo nullus appetendo meretur.  
 
@@ -361,7 +361,7 @@ Praeterea, caritas est principium merendi. Sed caritas principaliter respicit fi
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non omne quod aliquis vult, propter beatitudinem velit. Nullus enim delectationem propter aliquid vult, ut dicitur 7 *Ethic*. Delectatio autem non est ipsa beatitudo, ut ex supra dictis patet. Ergo non quidquid aliquis vult, propter beatitudinem vult.***
+Ulterius. Videtur quod non omne quod aliquis vult, propter beatitudinem velit. Nullus enim delectationem propter aliquid vult, ut dicitur 7 *Ethic*. Delectatio autem non est ipsa beatitudo, ut ex supra dictis patet. Ergo non quidquid aliquis vult, propter beatitudinem vult.  
 
 Praeterea, id quod potest propter beatitudinem desiderari, est ad beatitudinem ordinabile. Sed multi volunt aliqua quae non sunt ordinabilia in beatitudinem, sed magis ab ea avertunt, sicut est de peccatoribus. Non ergo omne quod aliquis vult, propter beatitudinem vult.  
 
@@ -379,7 +379,7 @@ Praeterea, Dionysius dicit, quod pacem omnia desiderant, et quod propter eam agu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in omni ordine mobilium et motorum oportet secundos motores ordinari in finem primi motoris per dispositionem impressam in eis a primo motore; sicut patet cum anima movet manum et manus baculum, et baculus percutit, quod est finis intentus ab anima; baculus et manus tendunt ad finem ab anima intentum per hoc quod anima in eis imprimit mediate vel immediate. Sed hoc distat in motibus naturalibus et violentis; quod in motibus violentis impressio relicta a primo motore in secundis motoribus est praeter naturam eorum; et ideo operatio consequens ex tali impressione est eis difficilis et laboriosa: sed in motibus naturalibus impressio relicta a primo motore in secundis motoribus, est eis causa naturalis; et ideo operatio hanc impressionem consequens est conveniens et suavis; et ideo dicitur Sap. 8, quia *Deus omnia suaviter disponit*: quia unaquaeque res ex natura sibi divinitus indita tendit in id ad quod per divinam providentiam ordinatur secundum exigentiam impressionis receptae. Et quia omnia procedunt a Deo inquantum bonus est, ut dicit Augustinus, et Dionysius; ideo omnia creata secundum impressionem a Creatore receptam inclinantur in bonum appetendum secundum suum modum; ut sic in rebus quaedam circulatio inveniatur; dum, a bono egredientia, in bonum tendunt.***
+Respondeo dicendum ad primam quaestionem, quod in omni ordine mobilium et motorum oportet secundos motores ordinari in finem primi motoris per dispositionem impressam in eis a primo motore; sicut patet cum anima movet manum et manus baculum, et baculus percutit, quod est finis intentus ab anima; baculus et manus tendunt ad finem ab anima intentum per hoc quod anima in eis imprimit mediate vel immediate. Sed hoc distat in motibus naturalibus et violentis; quod in motibus violentis impressio relicta a primo motore in secundis motoribus est praeter naturam eorum; et ideo operatio consequens ex tali impressione est eis difficilis et laboriosa: sed in motibus naturalibus impressio relicta a primo motore in secundis motoribus, est eis causa naturalis; et ideo operatio hanc impressionem consequens est conveniens et suavis; et ideo dicitur Sap. 8, quia *Deus omnia suaviter disponit*: quia unaquaeque res ex natura sibi divinitus indita tendit in id ad quod per divinam providentiam ordinatur secundum exigentiam impressionis receptae. Et quia omnia procedunt a Deo inquantum bonus est, ut dicit Augustinus, et Dionysius; ideo omnia creata secundum impressionem a Creatore receptam inclinantur in bonum appetendum secundum suum modum; ut sic in rebus quaedam circulatio inveniatur; dum, a bono egredientia, in bonum tendunt.  
 
 Haec autem circulatio in quibusdam perficitur creaturis, in quibusdam autem remanet imperfecta. Illae enim creaturae quae non ordinantur ut pertingant ad illud primum bonum a quo processerunt, sed solummodo ad consequendam ejus similitudinem qualemcumque non perfecte habent hanc circulationem; sed solum illae creaturae quae ad ipsum primum principium aliquo modo pertingere possunt; quod solum est rationabilium creaturarum, quae Deum ipsum assequi possunt per cognitionem et amorem: in qua assecutione beatitudo eorum consistit, ut ex dictis patet. Et ideo sicut quaelibet res alia naturaliter appetit suum bonum, ita quaelibet creatura rationalis naturaliter suam beatitudinem appetit.  
 
@@ -393,7 +393,7 @@ Ad quartum dicendum, quod ille qui peccat inhaerendo bonis mutabilibus sicut fin
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod operatio causae secundae semper fundatur super operatione causae primae, et praesupponit eam; et ideo oportet quod omnis operatio animae procedat ex suppositione ejus quod inditum est animae ex impressione primi agentis, Dei scilicet; et ideo videmus ex parte intellectus, quod ad nihil intelligendum anima potest procedere nisi ex suppositione illorum quorum cognitio est ei innata; et propter hoc non potest assentire alicui quod sit contrarium his principiis quae naturaliter cognoscit; et similiter oportet esse ex parte voluntatis. Unde cum ex impressione primae causae, scilicet Dei, hoc animae insit ut bonum velit; et perfectum bonum tamquam finem ultimum appetat; impossibile est quod contrarium ejus in appetitu illius cadat: et ideo nullus potest miseriam velle, vel malum, nisi per accidens; quod contingit dum appetit aliquod malum quod apprehendit ut bonum.***
+Ad secundam quaestionem dicendum, quod operatio causae secundae semper fundatur super operatione causae primae, et praesupponit eam; et ideo oportet quod omnis operatio animae procedat ex suppositione ejus quod inditum est animae ex impressione primi agentis, Dei scilicet; et ideo videmus ex parte intellectus, quod ad nihil intelligendum anima potest procedere nisi ex suppositione illorum quorum cognitio est ei innata; et propter hoc non potest assentire alicui quod sit contrarium his principiis quae naturaliter cognoscit; et similiter oportet esse ex parte voluntatis. Unde cum ex impressione primae causae, scilicet Dei, hoc animae insit ut bonum velit; et perfectum bonum tamquam finem ultimum appetat; impossibile est quod contrarium ejus in appetitu illius cadat: et ideo nullus potest miseriam velle, vel malum, nisi per accidens; quod contingit dum appetit aliquod malum quod apprehendit ut bonum.  
 
 Ad primum ergo dicendum, quod potentia rationalis se habet ad opposita in his quae ei subsunt; et haec sunt illa quae per ipsam determinantur: non autem potest in opposita illorum quae sunt ei ab alio determinata; et ideo voluntas non potest in oppositum ejus ad quod ex divina impressione determinatur, scilicet in oppositum finis ultimi; potest autem in oppositum eorum quae ipsa sibi determinat, sicut sunt ea quae ordinantur in finem ultimum, quorum electio ad ipsam pertinet.  
 
@@ -405,7 +405,7 @@ Ad quartum dicendum, quod non potest aestimari quod albedo sit nigredo, quamvis 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod bonum, quod est objectum voluntatis, est in rebus, ut dicit Philosophus in 6 *Metaph*.; et ideo oportet quod motus voluntatis terminetur ad rem extra animam existentem. Quamvis autem res, prout est in anima, possit considerari secundum rationem communem praetermissa ratione particulari; res tamen extra animam non potest esse secundum communem rationem nisi cum additione propriae rationis; et ideo oportet, quantumcumque voluntas feratur in bonum, quod feratur in aliquod bonum determinatum; et similiter quantumcumque feratur in summum bonum, quod feratur in summum bonum hujus vel illius rationis. Quamvis autem ex naturali inclinatione voluntas habeat ut in beatitudinem feratur secundum communem rationem, tamen quod feratur in beatitudinem talem vel talem, hoc non est ex inclinatione naturae, sed per discretionem rationis, quae adinvenit in hoc vel in illo summum bonum hominis constare; et ideo quandocumque aliquis beatitudinem appetit, actualiter conjungitur ibi appetitus naturalis, et appetitus rationalis; et ex parte appetitus naturalis semper est ibi rectitudo; sed ex parte appetitus rationalis quandoque est ibi rectitudo, quando scilicet appetitur ibi beatitudo ubi vere est; quandoque autem perversitas, quando appetitur ubi vere non est; et sic in appetitu beatitudinis potest aliquis vel mereri adjuncta gratia, vel demereri, secundum quod ejus appetitus est rectus vel perversus.***
+Ad tertiam quaestionem dicendum, quod bonum, quod est objectum voluntatis, est in rebus, ut dicit Philosophus in 6 *Metaph*.; et ideo oportet quod motus voluntatis terminetur ad rem extra animam existentem. Quamvis autem res, prout est in anima, possit considerari secundum rationem communem praetermissa ratione particulari; res tamen extra animam non potest esse secundum communem rationem nisi cum additione propriae rationis; et ideo oportet, quantumcumque voluntas feratur in bonum, quod feratur in aliquod bonum determinatum; et similiter quantumcumque feratur in summum bonum, quod feratur in summum bonum hujus vel illius rationis. Quamvis autem ex naturali inclinatione voluntas habeat ut in beatitudinem feratur secundum communem rationem, tamen quod feratur in beatitudinem talem vel talem, hoc non est ex inclinatione naturae, sed per discretionem rationis, quae adinvenit in hoc vel in illo summum bonum hominis constare; et ideo quandocumque aliquis beatitudinem appetit, actualiter conjungitur ibi appetitus naturalis, et appetitus rationalis; et ex parte appetitus naturalis semper est ibi rectitudo; sed ex parte appetitus rationalis quandoque est ibi rectitudo, quando scilicet appetitur ibi beatitudo ubi vere est; quandoque autem perversitas, quando appetitur ubi vere non est; et sic in appetitu beatitudinis potest aliquis vel mereri adjuncta gratia, vel demereri, secundum quod ejus appetitus est rectus vel perversus.  
 
 Ad primum ergo dicendum, quod in appetitu beatitudinis semper cum eo quod est naturale, conjungitur aliquod voluntarium non naturale, et sic potest ibi cadere ratio meriti vel demeriti.  
 
@@ -415,7 +415,7 @@ Ad tertium dicendum, quod ad appetendam beatitudinem perfecto appetitu, qui suff
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod secundum Philosophum in 7 *Ethic*., in ordine appetibilium hoc modo se habet finis sicut principium in ordine intelligibilium. Quia autem illud quod est primum in quolibet genere et maximum, est causa eorum quae sunt post; ideo cognitio principii in speculativis est causa cognitionis omnium aliorum; et similiter appetitus finis est causa appetendi omnia alia quae sunt ad finem. Unde cum beatitudo sit finis humanae vitae; quidquid voluntas appetit facere, ad beatitudinem ordinat: quod etiam experimento patet. Quicumque enim appetit aliquid, appetit illud inquantum est aestimatum bonum. Per hoc autem quod aliquis habet aliquid quod aestimat bonum, reputat se ut beatitudini propinquiorem: quia additio boni super bonum facit magis appropinquare bono perfecto, quod est ipsa beatitudo. Et ideo quilibet appetitus in beatitudinem ordinatur.***
+Ad quartam quaestionem dicendum, quod secundum Philosophum in 7 *Ethic*., in ordine appetibilium hoc modo se habet finis sicut principium in ordine intelligibilium. Quia autem illud quod est primum in quolibet genere et maximum, est causa eorum quae sunt post; ideo cognitio principii in speculativis est causa cognitionis omnium aliorum; et similiter appetitus finis est causa appetendi omnia alia quae sunt ad finem. Unde cum beatitudo sit finis humanae vitae; quidquid voluntas appetit facere, ad beatitudinem ordinat: quod etiam experimento patet. Quicumque enim appetit aliquid, appetit illud inquantum est aestimatum bonum. Per hoc autem quod aliquis habet aliquid quod aestimat bonum, reputat se ut beatitudini propinquiorem: quia additio boni super bonum facit magis appropinquare bono perfecto, quod est ipsa beatitudo. Et ideo quilibet appetitus in beatitudinem ordinatur.  
 
 Ad primum ergo dicendum, quod delectatio est aliquid eorum quae ad beatitudinem exiguntur, cum sit*sit in beatitudine.—sit formale in beatitudine* PLE. in beatitudine; et ideo appetitus ipse quo quis delectationem appetit, in beatitudinem ordinatur, inquantum ipsa delectatio est aliqua similitudo vel propinqua vel remota illius delectationis quae beatitudinem perficit.  
 
@@ -435,7 +435,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod beatitudo sanctorum non sit major futura post judicium quam ante. Quanto enim aliquid magis accedit ad similitudinem divinam, tanto perfectius beatitudinem participat. Sed anima a corpore separata Deo similior est quam corpori conjuncta. Ergo major est ejus beatitudo ante corporis resumptionem quam post.***
+Ad quartum sic proceditur. Videtur quod beatitudo sanctorum non sit major futura post judicium quam ante. Quanto enim aliquid magis accedit ad similitudinem divinam, tanto perfectius beatitudinem participat. Sed anima a corpore separata Deo similior est quam corpori conjuncta. Ergo major est ejus beatitudo ante corporis resumptionem quam post.  
 
 Praeterea, virtus unita magis est potens quam multiplicata. Sed anima extra corpus magis est unita quam cum est corpori conjuncta. Ergo virtus ejus est major ad operandum; et ita perfectius beatitudinem participat, quae in actu consistit.  
 
@@ -449,7 +449,7 @@ Praeterea, sicut bonis redditur beatitudo pro praemio, ita et malis miseria. Sed
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod beatitudo ab omnibus aequaliter participabitur. Quia, Matth. 20, dicitur, quod omnes accipient *singulos denarios*. Denarius autem significat aliquid quod omnes communiter habebunt. Hoc autem non erit nisi beatitudo. Ergo tantum de beatitudine habebit unus quantum alius.***
+Ulterius. Videtur quod beatitudo ab omnibus aequaliter participabitur. Quia, Matth. 20, dicitur, quod omnes accipient *singulos denarios*. Denarius autem significat aliquid quod omnes communiter habebunt. Hoc autem non erit nisi beatitudo. Ergo tantum de beatitudine habebit unus quantum alius.  
 
 Praeterea, ultra ultimum nihil est. Sed beatitudo est ultimum eorum quae ab hominibus desiderari possunt. Ergo ultra beatitudinem alicujus hominis in nullo homine potest esse aliquid quasi beatitudinem alterius hominis excedens; et sic idem quod prius.  
 
@@ -461,7 +461,7 @@ Praeterea, praemium debet respondere merito. Sed quidam sunt excellentioris meri
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod hujusmodi beatitudinis gradus mansiones dici non debeant. Beatitudo enim importat rationem praemii. Sed mansio nihil significat quod ad praemium pertineat. Ergo diversi gradus beatitudinis mansiones dici non debent.***
+Ulterius. Videtur quod hujusmodi beatitudinis gradus mansiones dici non debeant. Beatitudo enim importat rationem praemii. Sed mansio nihil significat quod ad praemium pertineat. Ergo diversi gradus beatitudinis mansiones dici non debent.  
 
 Praeterea, mansio locum significare videtur. Sed locus quo sancti beatificabuntur, non est corporalis, sed spiritualis, scilicet Deus, qui unus est. Ergo non est nisi una mansio; et ita diversi gradus beatitudinis mansiones dici non possunt.  
 
@@ -473,7 +473,7 @@ Praeterea, in qualibet civitate est ordinata mansionum distinctio. Sed caelestis
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod diversae mansiones non distinguantur penes diversos gradus caritatis. Quia Matth. 25, 15, dicitur: *dedit unicuique secundum propriam virtutem*. Propria autem uniuscujusque virtus est vis naturalis. Ergo et dona gratiae et gloriae distribuuntur secundum diversos gradus virtutis naturalis.***
+Ulterius. Videtur quod diversae mansiones non distinguantur penes diversos gradus caritatis. Quia Matth. 25, 15, dicitur: *dedit unicuique secundum propriam virtutem*. Propria autem uniuscujusque virtus est vis naturalis. Ergo et dona gratiae et gloriae distribuuntur secundum diversos gradus virtutis naturalis.  
 
 Praeterea, in Psalm. 61, 12, dicitur: *tu reddes unicuique secundum opera sua*. Sed illud quod redditur, est beatitudinis mensura. Ergo gradus beatitudinis distinguentur secundum diversitatem operum, et non secundum diversitatem caritatis.  
 
@@ -485,7 +485,7 @@ Praeterea, sicut simpliciter sequitur ad simpliciter, ita magis ad magis. Sed ha
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod beatitudinem sanctorum post resurrectionem augeri extensive quidem manifestum est; quia beatitudo tunc erit non solum in anima, sed etiam in corpore; et etiam ipsius animae beatitudo augebitur extensive, inquantum anima non solum gaudebit de bono proprio, sed de bono corporis.***
+Respondeo dicendum ad primam quaestionem, quod beatitudinem sanctorum post resurrectionem augeri extensive quidem manifestum est; quia beatitudo tunc erit non solum in anima, sed etiam in corpore; et etiam ipsius animae beatitudo augebitur extensive, inquantum anima non solum gaudebit de bono proprio, sed de bono corporis.  
 
 Potest etiam dici, quod etiam beatitudo animae ipsius augebitur intensive. Corpus enim hominis dupliciter potest considerari. Uno modo secundum quod est ab anima perfectibile; alio modo secundum quod est in eo aliquid repugnans animae in suis operibus, prout non perfecte corpus per animam perficitur. Secundum autem primam considerationem corporis, conjunctio corporis ad animam addit animae aliquam perfectionem; quia omnis pars imperfecta est, et completur in suo toto; unde et totum se habet ad partes sicut forma ad materiam; unde et anima perfectior est in esse suo naturali cum est in toto, scilicet in homine conjuncto ex anima et corpore, quam cum est per se separata. Sed unio corporis quantum ad secundam ipsius considerationem impedit animae perfectionem; et ideo dicitur, quod *corpus quod corrumpitur, aggravat animam*; Sap. 9, 15. Si ergo a corpore removeatur omne id per quod actioni animae resistit; simpliciter anima erit perfectior in corpore tali existens quam per se separata. Quanto autem aliquid est perfectius in esse, tanto potest perfectius operari; unde et operatio animae conjunctae tali corpori erit perfectior quam operatio animae separatae. Hujusmodi autem corpus est corpus gloriosum, quod omnino subdetur spiritui, ut supra, dist. 44, dictum est.  
 
@@ -501,7 +501,7 @@ Ad quartum dicendum, quod quamvis finitum infinito additum non faciat majus, tam
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod cum beatitudo in operatione consistat, gradus beatitudinis est attendendus secundum gradum perfectionis in operando. Perfectio autem operationis in qua felicitas consistit, ex duobus pensatur: scilicet ex parte operantis, et ex parte objecti. Unde Philosophus dicit in 10 *Ethic*., quod perfectissima operatio est quae est altissimae potentiae nobilissimo habitu perfectae (quod est ex parte operantis) et respectu nobilissimi objecti. Objectum autem operationis in qua beatitudo consistit, est omnino unum et idem; scilicet divina essentia, ex cujus visione omnes erunt beati; unde ex hac parte non erit aliquis gradus in beatitudine; sed ex parte operantium operatio beatitudinis non erit eodem modo perfecta: quia secundum quod habitus perficiens ad operationem praedictam, scilicet lumen gloriae, erit perfectior in uno quam in alio, secundum hoc operatio erit perfectior, et delectatio major; et secundum hoc non in eodem gradu beatitudinis erunt omnes beati.***
+Ad secundam quaestionem dicendum, quod cum beatitudo in operatione consistat, gradus beatitudinis est attendendus secundum gradum perfectionis in operando. Perfectio autem operationis in qua felicitas consistit, ex duobus pensatur: scilicet ex parte operantis, et ex parte objecti. Unde Philosophus dicit in 10 *Ethic*., quod perfectissima operatio est quae est altissimae potentiae nobilissimo habitu perfectae (quod est ex parte operantis) et respectu nobilissimi objecti. Objectum autem operationis in qua beatitudo consistit, est omnino unum et idem; scilicet divina essentia, ex cujus visione omnes erunt beati; unde ex hac parte non erit aliquis gradus in beatitudine; sed ex parte operantium operatio beatitudinis non erit eodem modo perfecta: quia secundum quod habitus perficiens ad operationem praedictam, scilicet lumen gloriae, erit perfectior in uno quam in alio, secundum hoc operatio erit perfectior, et delectatio major; et secundum hoc non in eodem gradu beatitudinis erunt omnes beati.  
 
 Ad primum ergo dicendum, quod denarius dicitur unus qui communiter reddetur ex parte objecti ipsius beatitudinis, quia Deus essentiam suam omnibus ostendet; sed unusquisque eam aspiciet secundum modum suum.  
 
@@ -511,7 +511,7 @@ Ad tertium dicendum, quod in beatis erit perfecta caritas; unde quilibet ibi plu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod, quia motus localis prior est omnium aliorum motuum; ideo secundum Philosophum, nomen motus et distantiae et omnium hujusmodi derivatum est a motu locali ad omnes alios motus. Finis autem motus localis est locus, ad quem cum aliquod pervenerit, ibi manet quiescens, et in eo conservatur; et ideo in quolibet motu ipsam quietationem in fine motus dicimus collocationem, vel mansionem; et ideo cum nomen motus derivetur usque ad actum appetitus et voluntatis, ipsa assecutio finis appetitivi motus, dicitur mansio vel collocatio in fine; et ideo diversi modi consequendi finem ultimum diversae mansiones dicuntur; ut sic unitas domus respondeat unitati beatitudinis, quae est ex parte objecti; et pluralitas mansionum respondeat differentiae quae in beatitudine invenitur ex parte beatorum. Sicut etiam videmus in rebus naturalibus quod est idem locus sursum, ad quem tendunt omnia levia; sed unumquodque pertingit propinquius secundum quod est levius; et ita habent diversas mansiones secundum differentias levitatis.***
+Ad tertiam quaestionem dicendum, quod, quia motus localis prior est omnium aliorum motuum; ideo secundum Philosophum, nomen motus et distantiae et omnium hujusmodi derivatum est a motu locali ad omnes alios motus. Finis autem motus localis est locus, ad quem cum aliquod pervenerit, ibi manet quiescens, et in eo conservatur; et ideo in quolibet motu ipsam quietationem in fine motus dicimus collocationem, vel mansionem; et ideo cum nomen motus derivetur usque ad actum appetitus et voluntatis, ipsa assecutio finis appetitivi motus, dicitur mansio vel collocatio in fine; et ideo diversi modi consequendi finem ultimum diversae mansiones dicuntur; ut sic unitas domus respondeat unitati beatitudinis, quae est ex parte objecti; et pluralitas mansionum respondeat differentiae quae in beatitudine invenitur ex parte beatorum. Sicut etiam videmus in rebus naturalibus quod est idem locus sursum, ad quem tendunt omnia levia; sed unumquodque pertingit propinquius secundum quod est levius; et ita habent diversas mansiones secundum differentias levitatis.  
 
 Ad primum ergo dicendum, quod mansio importat rationem finis, ut ex dictis patet, et sic per consequens importat rationem praemii, quod est finis meriti.  
 
@@ -521,7 +521,7 @@ Ad tertium dicendum, quod illi qui erant in limbo, vel nunc sunt in purgatorio, 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod principium distinctivum mansionum, sive graduum beatitudinis, est duplex; scilicet propinquum et remotum. Propinquum est diversa dispositio quae erit in beatis, ex qua contingit diversitas perfectionis apud eos in operatione beatitudinis; sed principium remotum est meritum quo talem beatitudinem consecuti sunt. Primo autem modo distinguuntur mansiones secundum caritatem patriae; quae quanto in aliquo erit perfectior, tanto reddet eum capaciorem divinae claritatis, secundum cujus augmentum augebitur perfectio divinae visionis. Secundo vero modo distinguuntur secundum caritatem viae. Actus enim noster non habet quod sit meritorius ex ipsa substantia actus, sed solum ex habitu virtutis quo informatur. Vis autem merendi est in omnibus virtutibus ex caritate, quae habet ipsum finem pro objecto; et ideo diversitas in merendo tota revertitur ad diversitatem caritatis; et sic caritas viae distinguet mansiones per modum meriti.***
+Ad quartam quaestionem dicendum, quod principium distinctivum mansionum, sive graduum beatitudinis, est duplex; scilicet propinquum et remotum. Propinquum est diversa dispositio quae erit in beatis, ex qua contingit diversitas perfectionis apud eos in operatione beatitudinis; sed principium remotum est meritum quo talem beatitudinem consecuti sunt. Primo autem modo distinguuntur mansiones secundum caritatem patriae; quae quanto in aliquo erit perfectior, tanto reddet eum capaciorem divinae claritatis, secundum cujus augmentum augebitur perfectio divinae visionis. Secundo vero modo distinguuntur secundum caritatem viae. Actus enim noster non habet quod sit meritorius ex ipsa substantia actus, sed solum ex habitu virtutis quo informatur. Vis autem merendi est in omnibus virtutibus ex caritate, quae habet ipsum finem pro objecto; et ideo diversitas in merendo tota revertitur ad diversitatem caritatis; et sic caritas viae distinguet mansiones per modum meriti.  
 
 Ad primum ergo dicendum, quod virtus ibi non solum accipitur pro naturali capacitate, sed pro naturali capacitate simul cum conatu ad habendam gratiam; et tunc virtus hoc modo accepta erit quasi materialis dispositio ad mensuram gratiae et gloriae percipiendae: sed caritas est formaliter complens meritum ad gloriam; et ideo distinctio gradus in gloria accipitur penes gradus caritatis potius quam penes gradus virtutis praedictae.  
 
@@ -547,7 +547,7 @@ primo utrum sancti videbunt Deum per essentiam;
 
 ***Utrum sancti videbunt Deum per essentiam***
 
-***Ad primum sic proceditur. Videtur quod intellectus humanus non possit pervenire ad videndum Deum per essentiam. Quia Joan. 1, 18: *Deum nemo vidit unquam*; et exponit Chrysostomus quod nec *ipsae caelestes essentiae (ipse dico Cherubim et Seraphim) ipsum ut est unquam videre potuerunt*. Sed hominibus non promittitur nisi aequalitas angelorum; Matth. 22, 30: *erunt sicut angeli Dei in caelo*. Ergo nec sancti in patria Deum per essentiam videbunt.***
+Ad primum sic proceditur. Videtur quod intellectus humanus non possit pervenire ad videndum Deum per essentiam. Quia Joan. 1, 18: *Deum nemo vidit unquam*; et exponit Chrysostomus quod nec *ipsae caelestes essentiae (ipse dico Cherubim et Seraphim) ipsum ut est unquam videre potuerunt*. Sed hominibus non promittitur nisi aequalitas angelorum; Matth. 22, 30: *erunt sicut angeli Dei in caelo*. Ergo nec sancti in patria Deum per essentiam videbunt.  
 
 Praeterea, Dionysius sic argumentatur in 1 cap. *de Div. Nom*. Cognitio non est nisi existentium. Omne autem existens finitum est, cum sit in aliquo genere determinatum; et sic Deus, cum sit infinitus, est super omnia existentia. Ergo ejus non est cognitio, sed est super cognitionem.  
 
@@ -651,7 +651,7 @@ Articulus 2
 
 ***Utrum possint Deum videre oculo corporali***
 
-***Ad secundum sic proceditur. Videtur quod sancti post resurrectionem Deum corporalibus oculis videbunt. Oculus enim glorificatus majoris erit virtutis quam aliquis oculus non glorificatus. Sed beatus Job oculo suo Deum videbit:*videbit.—vidit* PLE. Job 42, 5: *auditu auris audivi te, nunc autem oculus meus videt te*. Ergo multo fortius oculus glorificatus Deum per essentiam videre poterit.***
+Ad secundum sic proceditur. Videtur quod sancti post resurrectionem Deum corporalibus oculis videbunt. Oculus enim glorificatus majoris erit virtutis quam aliquis oculus non glorificatus. Sed beatus Job oculo suo Deum videbit:*videbit.—vidit* PLE. Job 42, 5: *auditu auris audivi te, nunc autem oculus meus videt te*. Ergo multo fortius oculus glorificatus Deum per essentiam videre poterit.  
 
 Praeterea, Job 19, 26: *in carne mea videbo Deum* salvatorem *meum*. Ergo videtur quod corporalibus oculis Deus in patria videbitur.  
 
@@ -697,7 +697,7 @@ Articulus 3
 
 ***Utrum videndo Deum comprehendant ipsum***
 
-***Ad tertium sic proceditur. Videtur quod sancti in patria videndo Deum, eum comprehendant. 1 Corinth. 9, 24: *sic currite ut comprehendatis*. Cursus autem est ad praemium. Ergo comprehensio Dei est praemium virtutis, quod sanctis reddetur.***
+Ad tertium sic proceditur. Videtur quod sancti in patria videndo Deum, eum comprehendant. 1 Corinth. 9, 24: *sic currite ut comprehendatis*. Cursus autem est ad praemium. Ergo comprehensio Dei est praemium virtutis, quod sanctis reddetur.  
 
 Praeterea, Augustinus dicit in Lib. *de Videndo Deum*: *totum comprehenditur videndo, quod ita videtur, ut nihil ipsius lateat videntem*. Sed si Deus videtur ab aliquo, nihil ipsius latet videntem: quia cum sit simplex, non potest esse quod aliquid ejus videatur, et aliquid lateat. Ergo Deus a quolibet ipsum vidente comprehenditur.  
 
@@ -747,7 +747,7 @@ Articulus 4
 
 ***Utrum videntium Deum per essentiam alter altero perfectius videat***
 
-***Ad quartum sic proceditur. Videtur quod eorum qui vident Deum per essentiam, unus alio non videat perfectius. Quia, ut dicit Augustinus in lib. *83 qq*., eamdem rem non potest unus alio magis intelligere. Sed divina essentia non videbitur nisi per intellectum. Ergo unus alio non videbit plenius.***
+Ad quartum sic proceditur. Videtur quod eorum qui vident Deum per essentiam, unus alio non videat perfectius. Quia, ut dicit Augustinus in lib. *83 qq*., eamdem rem non potest unus alio magis intelligere. Sed divina essentia non videbitur nisi per intellectum. Ergo unus alio non videbit plenius.  
 
 Praeterea, tanto aliquid perfectius videtur, quanto expressior similitudo rei visae fit in vidente. Sed non erit expressior similitudo qua Deus videatur in uno quam in alio eorum qui Deum per essentiam vident; quia eadem essentia est in omnibus. Ergo unus alio non melius videbit.  
 
@@ -779,7 +779,7 @@ Articulus 5
 
 ***Utrum videntes divinam essentiam necesse sit omnia videre quae Deus videt***
 
-***Ad quintum sic proceditur. Videtur quod sancti videntes Deum per essentiam, omnia videant quae Deus in seipso videt. Quia, ut dicit Isidorus in Lib. *de Summo bono*, angeli in verbo Dei omnia sciunt antequam fiant. Sed sancti angelis aequales erunt, ut patet Matth. 22. Ergo et sancti videndo Deum omnia videbunt.***
+Ad quintum sic proceditur. Videtur quod sancti videntes Deum per essentiam, omnia videant quae Deus in seipso videt. Quia, ut dicit Isidorus in Lib. *de Summo bono*, angeli in verbo Dei omnia sciunt antequam fiant. Sed sancti angelis aequales erunt, ut patet Matth. 22. Ergo et sancti videndo Deum omnia videbunt.  
 
 Praeterea, Gregorius dicit: *quia illic omnes communi claritate Deum conspiciunt, quid est quod ibi nesciant, ubi scientem omnia sciunt?* Loquitur autem de beatis qui vident Deum per essentiam. Ergo qui videt Deum per essentiam, omnia cognoscit.  
 
@@ -841,9 +841,9 @@ Ad duodecimum dicendum, quod nihil prohibet dicere, quod post diem judicii, quan
 
 Articulus 6  
 
-***Utrum ad videndum Deum per essentiam aliqua creatura ex puris naturalibus possit pertingere***
+Utrum ad videndum Deum per essentiam aliqua creatura ex puris naturalibus possit pertingere  
 
-***Ad sextum sic proceditur. Videtur quod aliquis intellectus creatus ex propriis naturalibus possit Deum per essentiam videre. Secundum enim multorum opinionem, angeli in solis naturalibus creati sunt. Sed angeli in principio suae creationis viderunt res in Verbo, ut dicit Augustinus *super Genes. ad litteram*; et hoc dicitur eorum cognitio matutina. Ergo aliquis intellectus creatus ex propriis naturalibus Deum per essentiam videre potest.***
+Ad sextum sic proceditur. Videtur quod aliquis intellectus creatus ex propriis naturalibus possit Deum per essentiam videre. Secundum enim multorum opinionem, angeli in solis naturalibus creati sunt. Sed angeli in principio suae creationis viderunt res in Verbo, ut dicit Augustinus *super Genes. ad litteram*; et hoc dicitur eorum cognitio matutina. Ergo aliquis intellectus creatus ex propriis naturalibus Deum per essentiam videre potest.  
 
 Praeterea, boni angeli et mali non communicant nisi in naturalibus. Sed angeli mali vident Deum per essentiam; quod patet ex hoc quod habetur Job 1, 11: *cum assisterent filii Dei, affuit etiam inter eos Satan*. Assistentes autem nominantur angeli secundum Gregorium, qui intima contemplatione perfruuntur. Ergo angeli ex propriis naturalibus Deum per essentiam videre possunt.  
 
@@ -891,7 +891,7 @@ Articulus 7
 
 ***Utrum in statu viae possit aliquis Deum per essentiam videre***
 
-***Ad septimum sic proceditur. Videtur quod Deus in statu viae possit per essentiam videri. Quia dicitur Isai. 6, 1: *vidi Dominum sedentem super solium excelsum et elevatum; et plena erat omnis terra majestate ejus; et Seraphim clamabant*. Sed ille cujus majestate omnis terra impletur, est ille qui essentialiter est Deus. Ergo Isaias vidit Deum per essentiam in statu viae existens.***
+Ad septimum sic proceditur. Videtur quod Deus in statu viae possit per essentiam videri. Quia dicitur Isai. 6, 1: *vidi Dominum sedentem super solium excelsum et elevatum; et plena erat omnis terra majestate ejus; et Seraphim clamabant*. Sed ille cujus majestate omnis terra impletur, est ille qui essentialiter est Deus. Ergo Isaias vidit Deum per essentiam in statu viae existens.  
 
 Praeterea, videre Deum facie ad faciem, est videre Deum per essentiam, ut patet 1 Corinth. 13, sic enim beatam visionem apostolus nominat. Sed Jacob in statu viae existens vidit Deum facie ad faciem; unde dicit Genes. 32, 30: *vidi Dominum facie ad faciem, et salva facta est anima mea*. Ergo aliquis in statu viae potest videre Deum per essentiam.  
 
@@ -985,7 +985,7 @@ primo quid sit delectatio;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod delectatio non sit passio. Omnis enim passio in motu consistit, ut dicitur in Lib. *6 Principiorum*, et 10 *Ethic*. Sed delectatio non est motus neque generatio aliqua, ut dicit Philosophus in 7 *Ethic*. Ergo delectatio non est passio.***
+Ad primum sic proceditur. Videtur quod delectatio non sit passio. Omnis enim passio in motu consistit, ut dicitur in Lib. *6 Principiorum*, et 10 *Ethic*. Sed delectatio non est motus neque generatio aliqua, ut dicit Philosophus in 7 *Ethic*. Ergo delectatio non est passio.  
 
 Praeterea, operatio non est passio, sed magis actio, cum sit existentis in actu, secundum quod hujusmodi. Sed delectatio est quaedam operationis perfectio, ut dicitur in 10 Ethic. Ergo delectatio non est passio.  
 
@@ -997,7 +997,7 @@ Praeterea, delectationis objectum est bonum. Sed bonum est proprium objectum app
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in parte intellectiva animae et in aliis substantiis spiritualibus delectatio esse non possit. Quia, ut dicitur in 7 physicorum, omnis passio est in parte animae sensitiva. Sed delectatio est passio, ut probatum est. Ergo non potest esse in parte intellectiva, nec in substantia aliqua spirituali.***
+Ulterius. Videtur quod in parte intellectiva animae et in aliis substantiis spiritualibus delectatio esse non possit. Quia, ut dicitur in 7 physicorum, omnis passio est in parte animae sensitiva. Sed delectatio est passio, ut probatum est. Ergo non potest esse in parte intellectiva, nec in substantia aliqua spirituali.  
 
 Praeterea, Avicenna dicit in 6 *de Naturalibus*, quod subjectum delectationis est speciei corporalis. Sed pars intellectiva non utitur aliquo corporali organo. Ergo in ea non potest esse aliqua delectatio.  
 
@@ -1009,7 +1009,7 @@ Praeterea, Philosophus dicit in 7 *Ethic*., quod Deus semper una et simplici ope
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod delectatio sit in tempore. Delectatio enim consequitur operationem nostram, ut dicitur in 10 *Ethic*. Sed operatio nostra est in tempore. Ergo et delectatio est in tempore.***
+Ulterius. Videtur quod delectatio sit in tempore. Delectatio enim consequitur operationem nostram, ut dicitur in 10 *Ethic*. Sed operatio nostra est in tempore. Ergo et delectatio est in tempore.  
 
 Praeterea, omne illud in quo est accipere prius et posterius, est in tempore. Sed in delectatione est accipere prius et posterius, cum aliquis per longam horam possit continue delectari. Ergo videtur quod delectatio sit in tempore.  
 
@@ -1021,7 +1021,7 @@ Praeterea, delectatio sequitur apprehensionem convenientis. Sed visio et aliae a
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod delectatio et gaudium sint penitus idem; et similiter exultatio et laetitia et jucunditas. Passiones enim et habitus penes objecta distinguuntur. Sed gaudium et delectatio et alia dicta, habent idem objectum, scilicet bonum conveniens. Ergo sunt idem.***
+Ulterius. Videtur quod delectatio et gaudium sint penitus idem; et similiter exultatio et laetitia et jucunditas. Passiones enim et habitus penes objecta distinguuntur. Sed gaudium et delectatio et alia dicta, habent idem objectum, scilicet bonum conveniens. Ergo sunt idem.  
 
 Praeterea, ab eadem causa procedit idem effectus; quia idem semper natum est idem facere. Sed delectationis et gaudii non potest poni nisi una et eadem causa, scilicet conjunctio convenientis. Ergo sunt idem.  
 
@@ -1033,7 +1033,7 @@ Praeterea, si gaudium et delectatio essent omnino idem, ubicumque est delectatio
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quaelibet res quando pertingit ad propriam perfectionem, consequitur stabilimentum et vigorem; sicut corpora quando perveniunt ad terminos motus sui naturalis, quia in loco naturali conservantur. Cum autem motus penes terminos distinguantur, oportet quod diversum judicium de perventione ad terminum complementi accipiatur secundum differentiam motus.***
+Respondeo dicendum ad primam quaestionem, quod quaelibet res quando pertingit ad propriam perfectionem, consequitur stabilimentum et vigorem; sicut corpora quando perveniunt ad terminos motus sui naturalis, quia in loco naturali conservantur. Cum autem motus penes terminos distinguantur, oportet quod diversum judicium de perventione ad terminum complementi accipiatur secundum differentiam motus.  
 
 Movetur autem aliquid ad suam perfectionem dupliciter. Uno modo per inclinationem naturalem, sicut lapis movetur deorsum; et hic motus non praeexigit cognitionem in eo quod movetur, sed in alio quod est principium causans hanc inclinationem; et hic est motus naturalis. Alio modo per inclinationem cujus principium est cognitio ejus quod movetur; et haec quidem inclinatio dicitur appetitus animalis aut intellectualis; unde sicut in terminatione motus naturalis est quaedam vigoratio naturalis ejus quod movetur, ita in assecutione perfectionis in quam tendit appetitus animalis, est quaedam quietatio ipsius, seu vigoratio ejus, praesupponens cognitionem perfectionis jam conjunctae, sicut appetitus praesupponebat cognitionem perfectionis nondum habitae; et talis vigor sive quietatio appetitus, vocatur delectatio; unde etiam Commentator dicit in 10 *Ethic*. quod delectatio est quaedam superfloritio naturae.  
 
@@ -1049,7 +1049,7 @@ Alia duo concedimus quantum ad delectationem sensitivam.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod delectatio invenitur diversimode in Deo, angelis, hominibus, et brutis, secundum quod diversimode se habent ad suas perfectiones, ex quarum conjunctione delectatio consurgit.***
+Ad secundam quaestionem dicendum, quod delectatio invenitur diversimode in Deo, angelis, hominibus, et brutis, secundum quod diversimode se habent ad suas perfectiones, ex quarum conjunctione delectatio consurgit.  
 
 Bruta enim non possunt pertingere ad altiorem perfectionem quam sit perfectio materialis; unde eam consequuntur materiali motu, qui scilicet est per organum corporale; et sic delectatio in eis consurgens est materialis passio.  
 
@@ -1067,7 +1067,7 @@ Ad tertium dicendum, quod illa quae sunt communia nobis et brutis secundum unam 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod aliquid dicitur esse in tempore dupliciter. Uno modo per se, alio modo per accidens. Quia autem de ratione temporis est prius et posterius, et illud per se inest alicui quod convenit ei secundum rationem suae speciei; ideo illa per se in tempore sunt in quibus requiritur aliquid ad complementum speciei quod in futurum expectatur; et hoc modo motus est in tempore; non enim completur species motus in medio, nisi perveniatur ad terminum; et similiter etiam quies est in tempore, eo quod quiescere est eodem modo se habere nunc ut prius; et sic de ratione quietis est quod aliquid in futurum expectetur. Per accidens vero aliquid in tempore esse dicitur ad cujus speciei complementum nihil requiritur quod in futurum expectetur, sicut esse hominem quod in uno instanti completur; sed est conjunctum motui, qui per se est in tempore, prout esse hominis variabile est.***
+Ad tertiam quaestionem dicendum, quod aliquid dicitur esse in tempore dupliciter. Uno modo per se, alio modo per accidens. Quia autem de ratione temporis est prius et posterius, et illud per se inest alicui quod convenit ei secundum rationem suae speciei; ideo illa per se in tempore sunt in quibus requiritur aliquid ad complementum speciei quod in futurum expectatur; et hoc modo motus est in tempore; non enim completur species motus in medio, nisi perveniatur ad terminum; et similiter etiam quies est in tempore, eo quod quiescere est eodem modo se habere nunc ut prius; et sic de ratione quietis est quod aliquid in futurum expectetur. Per accidens vero aliquid in tempore esse dicitur ad cujus speciei complementum nihil requiritur quod in futurum expectetur, sicut esse hominem quod in uno instanti completur; sed est conjunctum motui, qui per se est in tempore, prout esse hominis variabile est.  
 
 Delectatio autem ad complementum suae speciei et rationis nihil in futurum expectat; in instanti enim verum est dicere hominem delectari; unde non est in tempore nisi per accidens, inquantum scilicet perfectio illa ex cujus conjunctione surgit delectatio, motui conjuncta est; et ideo si sit aliqua perfectio quam motus non contingat, talis delectatio non erit in tempore neque per se neque per accidens; et haec est spiritualis delectatio in angelis. In brutis autem est delectatio existens in tempore per accidens, inquantum eorum perfectionibus motus directe conjungitur; sed in nobis delectatio non est in tempore quo ad intellectivam partem etiam per accidens, nisi valde indirecte, inquantum scilicet operatio intellectus nostri conjungitur phantasmatibus. Tamen verum est nullam delectationem esse in tempore, per se loquendo.  
 
@@ -1079,7 +1079,7 @@ Ad tertium dicendum, quod etiam aliae animae passiones quantum ad id quod est ex
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod delectatio, gaudium, laetitia, et omnia hujusmodi, hoc habent commune quod causantur ex conjunctione perfectionis appetitae. Perfectio autem aliqua potest alicui conjungi dupliciter: uno modo realiter; alio modo secundum comprehensionem ejus. Ex hoc autem quod perfectio realiter conjungitur, consurgit delectatio; ex hoc autem quod conjungitur secundum apprehensionem, surgit gaudium et omnia alia; et propter hoc etiam gaudium est de spe futurorum, et memoria praeteritorum; sed delectamur de praesentibus tantum; ideo etiam quia sensus exterior non apprehendit rem nisi praesentem, secundum eum non dicimur gaudere, sed delectari. Sensus autem interior apprehendit et rem praesentem et absentem; unde secundum sensum interiorem dicimur et delectari et gaudere: delectari quidem de eo quod sibi sua perfectio conjungitur, sicut de ipsa sua operatione, de qua etiam et gaudet inquantum eam apprehendit; sed de operatione sensus exterioris, quae sibi non conjungitur nisi apprehensione, potest quidem gaudere, sed non delectari; sicut sensus interior vel intellectus non delectatur in comestione dulcium; sed potest gaudere de hoc, inquantum hoc apprehendit ut conveniens exteriori sensui.***
+Ad quartam quaestionem dicendum, quod delectatio, gaudium, laetitia, et omnia hujusmodi, hoc habent commune quod causantur ex conjunctione perfectionis appetitae. Perfectio autem aliqua potest alicui conjungi dupliciter: uno modo realiter; alio modo secundum comprehensionem ejus. Ex hoc autem quod perfectio realiter conjungitur, consurgit delectatio; ex hoc autem quod conjungitur secundum apprehensionem, surgit gaudium et omnia alia; et propter hoc etiam gaudium est de spe futurorum, et memoria praeteritorum; sed delectamur de praesentibus tantum; ideo etiam quia sensus exterior non apprehendit rem nisi praesentem, secundum eum non dicimur gaudere, sed delectari. Sensus autem interior apprehendit et rem praesentem et absentem; unde secundum sensum interiorem dicimur et delectari et gaudere: delectari quidem de eo quod sibi sua perfectio conjungitur, sicut de ipsa sua operatione, de qua etiam et gaudet inquantum eam apprehendit; sed de operatione sensus exterioris, quae sibi non conjungitur nisi apprehensione, potest quidem gaudere, sed non delectari; sicut sensus interior vel intellectus non delectatur in comestione dulcium; sed potest gaudere de hoc, inquantum hoc apprehendit ut conveniens exteriori sensui.  
 
 Laetitia vero et exultatio et jucunditas exprimunt quosdam gaudii effectus. Laetitia quidem effectum interiorem, secundum quod ipse affectus dilatatur quasi roboratus et perfectus ex appetibilis conjunctione; unde et passio gaudii cum dilatatione cordis perficitur: dicitur enim laetitia quasi latitia. Sed exultatio exprimit ulterius effectum gaudii exterius prorumpentem in signum interioris gaudii; unde dicitur exultatio ex hoc quod interius gaudium ad exteriora prodit, quod ex magnitudine gaudii interioris contingit; unde dicit Cassiodorus super Psalm. 9, quod exultatio in magnis gaudiis dicitur. Jucunditas vero ulterius importat effectum gaudii exterius prorumpentem, qui non solum demonstrat interius gaudium, sed etiam excitat aliquos ad gaudendum.  
 
@@ -1093,7 +1093,7 @@ Articulus 2
 
 ***Quae sit causa delectationis***
 
-***Ad secundum sic proceditur. Videtur quod causa delectationis non sit sola operatio connaturalis habitus non impedita. Dicit enim Avicenna in Lib. *de Naturalibus*, quod delectatio consurgit ex perceptione convenientis adjuncti. Sed non sola operatio est conveniens, sed multa alia. Ergo non sola operatio est delectationis causa.***
+Ad secundum sic proceditur. Videtur quod causa delectationis non sit sola operatio connaturalis habitus non impedita. Dicit enim Avicenna in Lib. *de Naturalibus*, quod delectatio consurgit ex perceptione convenientis adjuncti. Sed non sola operatio est conveniens, sed multa alia. Ergo non sola operatio est delectationis causa.  
 
 Praeterea, idem non est contrariorum causa. Sed operatio aliquando est causa tristitiae, etiam propria et connaturalis; unde accidia quae quaedam tristitia est, etiam consurgit ex spiritualibus operibus. Ergo operatio non est propria delectationis causa.  
 
@@ -1155,7 +1155,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod delectationi tristitia non sit contraria. Passiones enim non distinguuntur*non distinguuntur.—distinguuntur* PLE. secundum suas causas. Sed causa tristitiae est motus et labor, ut dicit Philosophus in 7 *Ethic*.: unde juvenes, qui sunt in motu, delectationes appetunt quasi medicinas contra tristitiam: causa autem delectationis est operatio. Motus autem et operatio non sunt contraria, cum aliquando ad invicem conjungantur. Ergo nec delectatio tristitiae contrariatur.***
+Ad tertium sic proceditur. Videtur quod delectationi tristitia non sit contraria. Passiones enim non distinguuntur*non distinguuntur.—distinguuntur* PLE. secundum suas causas. Sed causa tristitiae est motus et labor, ut dicit Philosophus in 7 *Ethic*.: unde juvenes, qui sunt in motu, delectationes appetunt quasi medicinas contra tristitiam: causa autem delectationis est operatio. Motus autem et operatio non sunt contraria, cum aliquando ad invicem conjungantur. Ergo nec delectatio tristitiae contrariatur.  
 
 Praeterea, unum contrariorum non est materia alterius. Sed delectatio potest esse materia tristitiae; quia, ut dicit Philosophus in 9 *Ethic*., pravus post parum tristatur de hoc quod delectatus est; similiter etiam tristitia est materia delectationis; et poenitenti indicitur ut semper doleat, et de dolore gaudeat. Ergo delectatio et tristitia non sunt contraria.  
 
@@ -1167,7 +1167,7 @@ Praeterea, bonum et malum sunt contraria. Sed delectatio opponitur tristitiae, u
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod delectationi quae est in considerando, sit aliqua tristitia contraria. Fatigatio enim est tristitiae causa. Sed in considerando accidit fatigatio. Ergo in considerando accidit tristitia; ergo delectationi quae est in considerando, aliqua tristitia contraria est.***
+Ulterius. Videtur quod delectationi quae est in considerando, sit aliqua tristitia contraria. Fatigatio enim est tristitiae causa. Sed in considerando accidit fatigatio. Ergo in considerando accidit tristitia; ergo delectationi quae est in considerando, aliqua tristitia contraria est.  
 
 Praeterea, sicut contingit aliquid considerare ut conveniens, ita contingit considerare aliquid ut nocivum. Sed consideratio convenientis causat delectationem. Ergo consideratio nocivi causat tristitiam; et sic idem quod prius.  
 
@@ -1179,7 +1179,7 @@ Praeterea, considerationes procedunt ex rationibus rerum in anima existentibus. 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod tristitia fortius afficiat quam delectatio. Quia, ut dicit Augustinus in lib. *83 quaest*., *nemo est qui non magis dolorem fugiat quam appetat voluptatem*. Ergo magis homo afficitur tristitia quam delectatione.***
+Ulterius. Videtur quod tristitia fortius afficiat quam delectatio. Quia, ut dicit Augustinus in lib. *83 quaest*., *nemo est qui non magis dolorem fugiat quam appetat voluptatem*. Ergo magis homo afficitur tristitia quam delectatione.  
 
 Praeterea, sicut tristitia vehementia sua movet ad fugam, ita delectatio movet ad desiderium. Sed non omnes delectationes appetunt; immo quidam, ut temperati, eas vitant; tristitias autem quilibet fugit, ut dicit Philosophus in *Ethic*. Ergo delectatio minus afficit quam tristitia.  
 
@@ -1191,7 +1191,7 @@ Praeterea, ut dicitur in 7 *Ethic*., delectatio expellit tristitiam non solum si
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod cujuslibet passionis ratio formalis ex objecto sumitur; unde et passiones et actus penes objecta distinguuntur. Objectum autem delectationis bonum est, tristitiae vero malum; unde oportet tristitiam delectationi formaliter contrariari.***
+Respondeo dicendum ad primam quaestionem, quod cujuslibet passionis ratio formalis ex objecto sumitur; unde et passiones et actus penes objecta distinguuntur. Objectum autem delectationis bonum est, tristitiae vero malum; unde oportet tristitiam delectationi formaliter contrariari.  
 
 Ad primum ergo dicendum, quod quamvis motus per se operationi non contrarietur, est tamen in motu aliquid invenire ex quo tristitiam causat, quod contrariatur operationi, secundum quod est delectationis causa. Operatio enim delectationis causa existit, secundum quod est conveniens operanti. In motu autem, in quo est processus de uno ad aliud, oportet aliquid esse non conveniens ei quod movetur, cum ea inter quae est motus, sint contraria; et ideo motus ratione contrarietatis quam habet ad mobile, lassitudinem et tristitiam inducit; et propter hoc praecipue motus innaturales et violenti lassitudinem causant. Sic ergo motus ratione contrarietatis causat tristitiam, operatio vero delectationem ratione convenientiae; unde oportet quod delectatio et tristitia opponantur secundum oppositionem convenientiae et contrarietatis.  
 
@@ -1201,7 +1201,7 @@ Ad tertium dicendum, quod si fiat vis in verbis; sicut delectatio distinguitur a
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod apprehensio potest dici delectationis causa dupliciter. Uno modo ex parte ipsius apprehensi; sicut cum apprehendimus aliquod bonum nobis conveniens, et inde delectamur; et per hunc modum apprehensio est omnis delectationis causa; unde nihil prohibet delectationi quae sic ex apprehensione causatur sive sensibili sive intelligibili, aliquid contrarium esse; alias nulli delectationi esset tristitia contraria. Alio modo ex parte ipsius apprehensionis; ut cum quis delectatur non quidem de apprehenso, sed de ipsa apprehensione qua apprehendit; et sic, per se loquendo, delectationi quae ex quacumque apprehensione causatur, non potest esse tristitia contraria. Oportet enim hujusmodi tristitiam etiam ex aliqua apprehensione causatam esse; contraria enim circa idem sunt. Apprehensio autem, per se loquendo, nullo modo potest tristitiam facere; quia illud solum tristitiam facere potest quod est contrarium; nulla autem apprehensio, inquantum hujusmodi, est contraria vel repugnans apprehendenti; immo est perfectio ipsius: quia species quibus fit apprehensio, sunt perfectiones apprehendentis; unde nulla apprehensio, nec sensibilis nec intelligibilis, per se loquendo, tristitiam causat, sed delectationem tantum; quandoque plus, quandoque minus, secundum quod apprehensio est perfectior, et delectanti convenientior. Unde Philosophus dicit in 10 *Ethicor*., quod perfectissima, ac per hoc delectabilissima, visio est visus optime dispositi ad pulcherrimum sub visu cadentium.***
+Ad secundam quaestionem dicendum, quod apprehensio potest dici delectationis causa dupliciter. Uno modo ex parte ipsius apprehensi; sicut cum apprehendimus aliquod bonum nobis conveniens, et inde delectamur; et per hunc modum apprehensio est omnis delectationis causa; unde nihil prohibet delectationi quae sic ex apprehensione causatur sive sensibili sive intelligibili, aliquid contrarium esse; alias nulli delectationi esset tristitia contraria. Alio modo ex parte ipsius apprehensionis; ut cum quis delectatur non quidem de apprehenso, sed de ipsa apprehensione qua apprehendit; et sic, per se loquendo, delectationi quae ex quacumque apprehensione causatur, non potest esse tristitia contraria. Oportet enim hujusmodi tristitiam etiam ex aliqua apprehensione causatam esse; contraria enim circa idem sunt. Apprehensio autem, per se loquendo, nullo modo potest tristitiam facere; quia illud solum tristitiam facere potest quod est contrarium; nulla autem apprehensio, inquantum hujusmodi, est contraria vel repugnans apprehendenti; immo est perfectio ipsius: quia species quibus fit apprehensio, sunt perfectiones apprehendentis; unde nulla apprehensio, nec sensibilis nec intelligibilis, per se loquendo, tristitiam causat, sed delectationem tantum; quandoque plus, quandoque minus, secundum quod apprehensio est perfectior, et delectanti convenientior. Unde Philosophus dicit in 10 *Ethicor*., quod perfectissima, ac per hoc delectabilissima, visio est visus optime dispositi ad pulcherrimum sub visu cadentium.  
 
 Per accidens autem contingit ex apprehensione causari tristitiam dupliciter. Uno modo ex parte apprehendentis, qui scilicet apprehendit per organum aliquod corporale, cui potest accidere lassitudo et corruptio propter organi permutationem; et sic apprehensio sensitivae partis per accidens est contristativa; apprehensio vero intellectiva non nisi per accidens valde remotum, inquantum scilicet considerationi intellectus adjungitur operatio sensitivarum virium, ex quibus accidit in consideratione intellectus nostri lassitudo; quod non esset, si sine phantasmatibus intelligere possemus. Alio modo ex parte ipsius effectus apprehensionis, inquantum ex hoc quod apprehensioni vacavimus, aliquod damnum incurrimus, ut puta si ex hoc impedimur ab aliquo utiliori, vel pertrahimur in peccatum occasionaliter. Sed tunc, proprie loquendo, non causatur tristitia ex apprehensione, sed ex consideratione effectus apprehensionis. Et ideo, proprie loquendo, delectationi quae est ex hoc quod est considerare secundum intellectum, non est aliqua tristitia contraria.  
 
@@ -1211,7 +1211,7 @@ Ad tertium dicendum, quod operatio contraria habitui scientiae quandoque procedi
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod tam delectatio quam tristitia, consequuntur causam aliquam apprehensam; unde et possunt dupliciter considerari. Uno modo ex parte causae delectantis vel contristantis; alio modo ex parte apprehensionis quam delectatio et tristitia sequitur. Causa autem delectationis est bonum conveniens conjunctum; cause tristitiae vero repugnans malum conjunctum. Potest autem inveniri aliquod bonum quod totaliter conveniens est, nec ex aliqua parte dissonantiam habet; non autem potest inveniri aliquod malum quod ita sit dissonum quod quantum ad nihil conveniens sit: quia non est aliquid pure malum, quod secundum aliquid non sit bonum; et ideo causa delectationis perfectius se habet ad delectandum quam causa tristitiae ad contristandum, generaliter loquendo; sed in speciali non potest una regula dari, propter diversos ordines causarum in malitia et bonitate; unde quaedam causa delectans excedit contristantem aliquam, et e converso. Sed ex parte apprehensionis, tristitia secundum genus, generaliter loquendo, delectationem excedit, eo quod res similes minus sentiuntur quam res contrariae; unde cum convenientia delectationem causet, repugnantia vero tristitiam; quantum ad apprehensionem tristitia delectationi praevalet; quamvis in speciali aliqua delectatio alicui tristitiae praeemineat quantum ad apprehensionem. Dicendum ergo est, quod si proprie loquamur, delectatio vehementius afficit quam tristitia; sed tristitia magis sentitur quam delectatio, sicut etiam et amor rei absentis magis percipitur quam rei praesentis, ut Augustinus dicit 10 *De Trin*.***
+Ad tertiam quaestionem dicendum, quod tam delectatio quam tristitia, consequuntur causam aliquam apprehensam; unde et possunt dupliciter considerari. Uno modo ex parte causae delectantis vel contristantis; alio modo ex parte apprehensionis quam delectatio et tristitia sequitur. Causa autem delectationis est bonum conveniens conjunctum; cause tristitiae vero repugnans malum conjunctum. Potest autem inveniri aliquod bonum quod totaliter conveniens est, nec ex aliqua parte dissonantiam habet; non autem potest inveniri aliquod malum quod ita sit dissonum quod quantum ad nihil conveniens sit: quia non est aliquid pure malum, quod secundum aliquid non sit bonum; et ideo causa delectationis perfectius se habet ad delectandum quam causa tristitiae ad contristandum, generaliter loquendo; sed in speciali non potest una regula dari, propter diversos ordines causarum in malitia et bonitate; unde quaedam causa delectans excedit contristantem aliquam, et e converso. Sed ex parte apprehensionis, tristitia secundum genus, generaliter loquendo, delectationem excedit, eo quod res similes minus sentiuntur quam res contrariae; unde cum convenientia delectationem causet, repugnantia vero tristitiam; quantum ad apprehensionem tristitia delectationi praevalet; quamvis in speciali aliqua delectatio alicui tristitiae praeemineat quantum ad apprehensionem. Dicendum ergo est, quod si proprie loquamur, delectatio vehementius afficit quam tristitia; sed tristitia magis sentitur quam delectatio, sicut etiam et amor rei absentis magis percipitur quam rei praesentis, ut Augustinus dicit 10 *De Trin*.  
 
 Ad primum ergo dicendum, quod magis fugitur tristitia quam appetatur delectatio, quia magis sentitur.  
 
@@ -1225,7 +1225,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod quaelibet delectatio sit bona. Omne enim quod conjunctum aliis facit ea eligibiliora, est per se bonum. Sed delectatio conjuncta quibuscumque bonis facit ea eligibiliora. Ergo delectatio est per se bonum; et sic quaelibet delectatio bona erit.***
+Ad quartum sic proceditur. Videtur quod quaelibet delectatio sit bona. Omne enim quod conjunctum aliis facit ea eligibiliora, est per se bonum. Sed delectatio conjuncta quibuscumque bonis facit ea eligibiliora. Ergo delectatio est per se bonum; et sic quaelibet delectatio bona erit.  
 
 Praeterea, nihil appetitur nisi bonum. Sed unumquodque est appetibile ex hoc quod est delectabile. Ergo delectatio, per se loquendo, est bona; et sic idem quod prius.  
 
@@ -1239,7 +1239,7 @@ Praeterea, illud cujus desiderium facit aliquid*aliquid.—aliquem* PLE. malum, 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non omnis tristitia sit mala. Nullum enim salutiferum est malum. Sed aliqua tristitia est salutifera: *quae enim secundum Deum est tristitia, poenitentiam in salutem stabilem operatur*; 2 Corinth. 7, 10. Ergo aliqua tristitia est bona.***
+Ulterius. Videtur quod non omnis tristitia sit mala. Nullum enim salutiferum est malum. Sed aliqua tristitia est salutifera: *quae enim secundum Deum est tristitia, poenitentiam in salutem stabilem operatur*; 2 Corinth. 7, 10. Ergo aliqua tristitia est bona.  
 
 Praeterea, nullum laudabile est malum. Sed aliquae tristitiae sunt laudabiles, sicut misericordia, quae est tristitia de alieno malo, et poenitentia, quae est tristitia de peccatis praeteritis. Ergo non omnis tristitia est mala.  
 
@@ -1251,7 +1251,7 @@ Praeterea, quod adjunctum alicui facit ipsum minus bonum, est per se malum. Sed 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aliqua delectatio sit optimum. Illud enim quod est ultimus finis, est optimum. Sed delectatio est ultimus finis: ut enim dicitur 7 *Ethicor*., est finis architecton. Architectonicarum autem fines sunt nobiliores et desiderabiliores, ut dicitur in 1 *Ethicor*. Ergo delectatio est optimum.***
+Ulterius. Videtur quod aliqua delectatio sit optimum. Illud enim quod est ultimus finis, est optimum. Sed delectatio est ultimus finis: ut enim dicitur 7 *Ethicor*., est finis architecton. Architectonicarum autem fines sunt nobiliores et desiderabiliores, ut dicitur in 1 *Ethicor*. Ergo delectatio est optimum.  
 
 Praeterea, dicitur in 2 *Caeli et mundi*: *omnis res est propter suam operationem*. Sed operatio est propter delectationem, cum delectatio sit operationis perfectio, ut dicitur in 10 *Ethic*. Ergo delectatio est ultimus finis.  
 
@@ -1269,7 +1269,7 @@ Praeterea, omne illud quod a natura ordinatur ad aliquid non est ultimus finis. 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod delectatio dupliciter potest considerari. Uno modo inquantum est delectatio; alio modo inquantum est haec delectatio. Delectatio ergo inquantum est delectatio, aliquod bonum nominat; sed inquantum est talis delectatio, potest rationem mali habere ex parte ejus ex quo specificatur; sicut etiam omnis actio quantum ad hoc quod habet de natura actionis est bona; sed quantum ad hoc quod adjungitur de defectu, aliqua actio est mala. Similiter etiam inquantum alicui delectationi adjungitur de defectu, secundum hoc adjungitur ei de malo. Hoc autem modo adjungitur defectus delectationi quo et operationi, cum delectatio ex operatione causetur; et sic ex deficienti operatione deficiens delectatio; et ideo, ut dicitur in 10 *Ethicor*., sicut operationes differunt ab invicem bonitate et malitia, ita et delectationes; ut secundum hoc delectatio dicatur bona quod ex bona operatione procedat, mala vero quae est de mala operatione.***
+Respondeo dicendum ad primam quaestionem, quod delectatio dupliciter potest considerari. Uno modo inquantum est delectatio; alio modo inquantum est haec delectatio. Delectatio ergo inquantum est delectatio, aliquod bonum nominat; sed inquantum est talis delectatio, potest rationem mali habere ex parte ejus ex quo specificatur; sicut etiam omnis actio quantum ad hoc quod habet de natura actionis est bona; sed quantum ad hoc quod adjungitur de defectu, aliqua actio est mala. Similiter etiam inquantum alicui delectationi adjungitur de defectu, secundum hoc adjungitur ei de malo. Hoc autem modo adjungitur defectus delectationi quo et operationi, cum delectatio ex operatione causetur; et sic ex deficienti operatione deficiens delectatio; et ideo, ut dicitur in 10 *Ethicor*., sicut operationes differunt ab invicem bonitate et malitia, ita et delectationes; ut secundum hoc delectatio dicatur bona quod ex bona operatione procedat, mala vero quae est de mala operatione.  
 
 Ad primum ergo dicendum, quod delectatio quae facit bona eligibiliora, est delectatio ejus propria, utpote cum justus delectatur de justa operatione; sed si delectationes intemperati adjungerentur operationibus justis, non facerent eas delectabiliores; unde non sequitur omnes delectationes esse bonas.  
 
@@ -1287,7 +1287,7 @@ Ad tertium dicendum, quod illae delectationes quae faciunt hominem malum, non su
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod aliquid dicitur bonum dupliciter: uno modo ut per se eligibile; alio modo ut ordinatum ad illud; sicut potiones austerae non sunt per se bonae vel appetibiles, sed solum inquantum sunt utiles ad sanitatem. Tristitia ergo nulla, per se loquendo, est bona ut per se appetibilis; unde etiam Augustinus in Lib. *de Confess*., tolerari eas jubet, non amari, scilicet tribulationes et tristitias: cujus ratio est, quia omnis tristitia procedit ex aliquo inconvenienti; habere autem aliquod inconveniens non potest esse per se appetibile: sed tamen aliquae tristitiae sunt bonae vel appetibiles, inquantum sunt utiles ad aliquid; vel ad expellendum pravas delectationes, vel ad aliquid hujusmodi.***
+Ad secundam quaestionem dicendum, quod aliquid dicitur bonum dupliciter: uno modo ut per se eligibile; alio modo ut ordinatum ad illud; sicut potiones austerae non sunt per se bonae vel appetibiles, sed solum inquantum sunt utiles ad sanitatem. Tristitia ergo nulla, per se loquendo, est bona ut per se appetibilis; unde etiam Augustinus in Lib. *de Confess*., tolerari eas jubet, non amari, scilicet tribulationes et tristitias: cujus ratio est, quia omnis tristitia procedit ex aliquo inconvenienti; habere autem aliquod inconveniens non potest esse per se appetibile: sed tamen aliquae tristitiae sunt bonae vel appetibiles, inquantum sunt utiles ad aliquid; vel ad expellendum pravas delectationes, vel ad aliquid hujusmodi.  
 
 Et per hoc patet responsio ad primum: quia illa tristitia secundum Deum esse dicitur, et salutifera, quae ordinatur ad salutem; unde non sequitur quod sit bona, nisi ut medicina quaedam.  
 
@@ -1297,7 +1297,7 @@ Ad tertium dicendum, quod quamvis omnis tristitia secundum se sit fugienda, non 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod de delectatione fuit triplex opinio. Una fuit Epicureorum, qui ponebant delectationem, inquantum hujusmodi, esse optimum, volentes per hoc etiam omnem delectationem esse bonam. Alia fuit opinio Stoicorum et Platonicorum, qui ponebant, omnem delectationem esse malam. Tertia fuit opinio Aristotelis et Peripateticorum, qui posuerunt quasdam delectationes esse bonas, et quasdam malas; et quod nihil prohibet aliquam delectationem esse optimum in genere humanorum bonorum: delectatio enim operationem consequitur; unde cum aliqua operatio sit optimum in genere humanorum bonorum, quod est felicitas; et delectatio ipsam consequens optimum erit. Nec illa duo sunt consideranda quasi duo bona, sed quasi unum bonum. Sicut enim ex perfectione et perfectibili fit una res perfecta; ita ex delectatione et operatione fit una operatio perfecta, quae est felicitas; cum delectatio sit operationis perfectio, ut dicitur in 10 *Ethic*.***
+Ad tertiam quaestionem dicendum, quod de delectatione fuit triplex opinio. Una fuit Epicureorum, qui ponebant delectationem, inquantum hujusmodi, esse optimum, volentes per hoc etiam omnem delectationem esse bonam. Alia fuit opinio Stoicorum et Platonicorum, qui ponebant, omnem delectationem esse malam. Tertia fuit opinio Aristotelis et Peripateticorum, qui posuerunt quasdam delectationes esse bonas, et quasdam malas; et quod nihil prohibet aliquam delectationem esse optimum in genere humanorum bonorum: delectatio enim operationem consequitur; unde cum aliqua operatio sit optimum in genere humanorum bonorum, quod est felicitas; et delectatio ipsam consequens optimum erit. Nec illa duo sunt consideranda quasi duo bona, sed quasi unum bonum. Sicut enim ex perfectione et perfectibili fit una res perfecta; ita ex delectatione et operatione fit una operatio perfecta, quae est felicitas; cum delectatio sit operationis perfectio, ut dicitur in 10 *Ethic*.  
 
 Quid autem horum sit propter alterum eligendum, utrum scilicet delectatio propter operationem, vel e converso, Philosophus ibi insolutum relinquit. Sed tamen secundum rei veritatem videtur dicendum, quod delectatio ad operationem ordinetur sicut ad finem; sicut omnes perfectiones secundae non propter aliud sunt nisi propter sua perfectibilia perficienda. Delectatio autem est quaedam perfectio operationi superveniens, ut decor juventuti; unde delectatio ad operationem ordinatur. Sic ergo, proprie loquendo, delectatio aliqua non est optimum, sed est aliquid optimi, scilicet felicitatis. Felicitas enim delectationem includit, ut patet per Philosophum in 10 *Ethic*. Sic ergo ad utrasque rationes respondendum est.  
 
@@ -1323,7 +1323,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod delectationes corporales sint potiores spiritualibus. Delectabile enim, inquantum est delectabile, est appetibile. Ergo in quod magis inclinatur appetitus, est magis delectabile. Sed pluries et frequentius inclinatur in delectationes corporales quam spirituales. Ergo delectationes corporales sunt potiores spiritualibus.***
+Ad quintum sic proceditur. Videtur quod delectationes corporales sint potiores spiritualibus. Delectabile enim, inquantum est delectabile, est appetibile. Ergo in quod magis inclinatur appetitus, est magis delectabile. Sed pluries et frequentius inclinatur in delectationes corporales quam spirituales. Ergo delectationes corporales sunt potiores spiritualibus.  
 
 Praeterea, majoris efficaciae est res ipsa quam similitudo rei. Sed delectationes corporales, utpote tactus et gustus, proveniunt ex ipsis rebus conjunctis; delectationes autem spirituales, utpote quae sunt in contemplando, proveniunt ex similitudinibus rerum, quibus intelligimus. Ergo delectationes corporales sunt potiores spiritualibus.  
 
@@ -1339,7 +1339,7 @@ Praeterea, albius est quod est nigro impermixtius. Sed delectatio corporalis hab
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod inter delectationes corporales non est potissima illa quae est secundum tactum. Spiritualis enim delectatio est potior quam corporalis. Ergo et quanto aliqua delectatio corporalis est spirituali vicinior, tanto est potior. Sed delectatio visus et auditus est propinquior spirituali delectationi quam delectatio tactus. Ergo est potior.***
+Ulterius. Videtur quod inter delectationes corporales non est potissima illa quae est secundum tactum. Spiritualis enim delectatio est potior quam corporalis. Ergo et quanto aliqua delectatio corporalis est spirituali vicinior, tanto est potior. Sed delectatio visus et auditus est propinquior spirituali delectationi quam delectatio tactus. Ergo est potior.  
 
 Praeterea, delectationis causa est perceptio convenientis. Sed visus inter alios sensus est magis perceptivus et cognoscitivus, ut patet per Philosophum in 1 *Metaphys*. Ergo et delectatio visus est potissima inter corporales.  
 
@@ -1351,7 +1351,7 @@ Praeterea, delectationi corporali opponitur dolor. Sed dolor praecipue ad sensum
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod inter delectationes spirituales delectatio quae est in operibus activae, sit potior ea quae est in operibus contemplativae. Delectatio enim ad affectum pertinet. Sed activa vita ex rectitudine voluntatis dependet; contemplativa vero magis consistit in perfectione intellectus. Ergo delectatio in operibus activae est potior delectatione quae est in operibus contemplativae.***
+Ulterius. Videtur quod inter delectationes spirituales delectatio quae est in operibus activae, sit potior ea quae est in operibus contemplativae. Delectatio enim ad affectum pertinet. Sed activa vita ex rectitudine voluntatis dependet; contemplativa vero magis consistit in perfectione intellectus. Ergo delectatio in operibus activae est potior delectatione quae est in operibus contemplativae.  
 
 Praeterea, delectationis causa est operatio connaturalis habitus. Sed habitus virtutum moralium, quae perficiunt in activa, magis movet per modum naturae quam habitus intellectualium virtutum: sciens enim sine difficultate potest aliquod falsum considerare; sed justus non potest sine difficultate operari injusta, ut dicitur Lib. 9 *Ethic*. Ergo delectatio virtutum moralium, quae ad activam pertinent, est potior delectatione intellectualium, quae pertinent ad contemplativam.  
 
@@ -1363,7 +1363,7 @@ Praeterea, quanto aliqua operatio est delectabilior, tanto magis potest continua
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod in beatis omnibus est aequalis delectatio. Quia, ut dicitur in Glossa, 1 Corinth. 15, super illud: *stella differt a stella in claritate*, in dispari claritate erit par gaudium.***
+Ulterius. Videtur quod in beatis omnibus est aequalis delectatio. Quia, ut dicitur in Glossa, 1 Corinth. 15, super illud: *stella differt a stella in claritate*, in dispari claritate erit par gaudium.  
 
 Praeterea, in beatis erit perfecta caritas; unde unusquisque perfecte implebit illud praeceptum: *diliges proximum tuum sicut teipsum*. Ergo tantum gaudebit unusquisque de bono alterius, sicut de bono suo; et sic videtur quod omnes aequale gaudium habebunt.  
 
@@ -1375,7 +1375,7 @@ Praeterea, visio Dei in beatis erit causa delectationis. Sed quidam sancti clari
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut aliquid dicitur dupliciter magis notum; vel simpliciter, vel quo ad nos; ita potest una delectatio potior altera judicari vel simpliciter, vel quo ad nos.***
+Respondeo dicendum ad primam quaestionem, quod sicut aliquid dicitur dupliciter magis notum; vel simpliciter, vel quo ad nos; ita potest una delectatio potior altera judicari vel simpliciter, vel quo ad nos.  
 
 Loquendo igitur simpliciter, delectatio spiritualis incomparabiliter praeeminet corporali, propter sex rationes. Primo, quia spiritualis perfectio, quae spiritualem delectationem causat, incomparabiliter perfectionem corporalem excedit, quae causat delectationem corporalem.  
 
@@ -1407,7 +1407,7 @@ Ad quartum dicendum, quod delectationes corporales propter hoc quod faciunt tran
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod delectationes sensus tactus comparantur delectationibus aliorum sensuum, dupliciter.***
+Ad secundam quaestionem dicendum, quod delectationes sensus tactus comparantur delectationibus aliorum sensuum, dupliciter.  
 
 Uno modo quantum ad vehementiam; et sic delectationes tactus sunt aliis vehementiores, propter quatuor rationes. Primo, quia tangibile conjungitur nobis realiter; sed visibile et audibile et odorabile conjungitur nobis per aliquid sui; et tamen nullus sensus ad interiora rei ingredi potest. Res autem corporalis efficacior est ad delectandum corporaliter quam species rei, vel aliquid a re causatum.  
 
@@ -1427,7 +1427,7 @@ Ad tertium dicendum, quod quamvis ea de quibus sunt praecipue delectationes tact
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod delectationes quae sunt in operibus speculativae vitae, praeeminent delectationibus quae sunt in operibus activae; et hoc propter quatuor rationes.***
+Ad tertiam quaestionem dicendum, quod delectationes quae sunt in operibus speculativae vitae, praeeminent delectationibus quae sunt in operibus activae; et hoc propter quatuor rationes.  
 
 Primo, quia sunt nobiliores, utpote ex nobilioribus rebus provenientes: actus enim vitae activae sunt secundum conversionem inferioris partis animae ad ea quae infra ipsam sunt, sicut ad passiones circa quae morales virtutes consistunt, et ad usus bonorum exteriorum, in quibus aliquae virtutes consistunt, ut justitia et liberalitas; sed actus vitae contemplativae sunt secundum quod anima convertitur per superiorem rationem ad res aeternas, quae sunt supra ipsam.  
 
@@ -1445,7 +1445,7 @@ Ad tertium dicendum, quod delectationis causa est convenientia, non quidem delec
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod intensio delectationis potest provenire ex duobus; scilicet ex causa delectationis quae est fortior, et ex dispositione delectati quae est delectationis capacior. Causa autem delectationis proxima est operatio; sed remota, operationis objectum; sicut in delectatione beatorum, de qua nunc agitur, causa proxima est Dei visio, sed prima causa est Deus. Haec igitur causa prima una est, et communis omnibus beatis: unde quantum ad hoc eorum delectatio est aequalis: visio autem et dispositio ad delectationem non est aequalis, quia unus alio clarius videt, ut ex supradictis patet: unus etiam alio est delectationis capacior propter perfectiorem habitum, qui est lumen gloriae: et ideo quidam magis delectantur aliis, quamvis secundum quid omnes aequaliter delectentur, materialiter loquendo, inquantum scilicet gaudent de aequali re, scilicet de Deo; et sic intelligitur Glossa inducta, quod in dispari claritate erit par gaudium.***
+Ad quartam quaestionem dicendum, quod intensio delectationis potest provenire ex duobus; scilicet ex causa delectationis quae est fortior, et ex dispositione delectati quae est delectationis capacior. Causa autem delectationis proxima est operatio; sed remota, operationis objectum; sicut in delectatione beatorum, de qua nunc agitur, causa proxima est Dei visio, sed prima causa est Deus. Haec igitur causa prima una est, et communis omnibus beatis: unde quantum ad hoc eorum delectatio est aequalis: visio autem et dispositio ad delectationem non est aequalis, quia unus alio clarius videt, ut ex supradictis patet: unus etiam alio est delectationis capacior propter perfectiorem habitum, qui est lumen gloriae: et ideo quidam magis delectantur aliis, quamvis secundum quid omnes aequaliter delectentur, materialiter loquendo, inquantum scilicet gaudent de aequali re, scilicet de Deo; et sic intelligitur Glossa inducta, quod in dispari claritate erit par gaudium.  
 
 Unde patet responsio ad primum. Vel dicendum ad primum, quod omnium beatorum dicitur esse par gaudium, inquantum unusquisque ad summum gaudii pervenit secundum modum suum; sed modus unius erit amplior quam alterius; et secundum hoc gaudium unius erit majus gaudio alterius, ut sic alia paritas importet non aequalitatem quantitatis, sed proportionis.  
 
@@ -1469,7 +1469,7 @@ primo an beatis sint assignandae aliquae dotes;
 
 ***An beatis sint assignandae aliquae dotes***
 
-***Ad primum sic proceditur. Videtur quod non sint ponendae aliquae dotes in hominibus beatis. Dos enim secundum jura datur sponso ad sustinenda onera matrimonii. Sed sancti non gerunt figuram sponsi, sed magis figuram sponsae, inquantum sunt membra Ecclesiae. Ergo eis dotes non dantur.***
+Ad primum sic proceditur. Videtur quod non sint ponendae aliquae dotes in hominibus beatis. Dos enim secundum jura datur sponso ad sustinenda onera matrimonii. Sed sancti non gerunt figuram sponsi, sed magis figuram sponsae, inquantum sunt membra Ecclesiae. Ergo eis dotes non dantur.  
 
 Praeterea, dotes non dantur secundum jura a patre sponsi, sed a patre sponsae. Omnia autem dona beatitudinis beatis dantur a Patre sponsi, scilicet Christi; Jacob. 1, 17: *omne datum optimum et omne donum perfectum desursum est, descendens a Patre luminum*. Ergo hujusmodi dona quae beatis dantur, non sunt dotes appellandae.  
 
@@ -1511,7 +1511,7 @@ Articulus 2
 
 ***Utrum dos a beatitudine differat***
 
-***Ad secundum sic proceditur. Videtur quod dos sit idem quod beatitudo. Ut enim ex definitione praedicta patet, est *ornatus animae et corporis, in aeterna beatitudine jugiter perseverans*. Sed beatitudo animae est quidam ornatus ejus. Ergo beatitudo est dos.***
+Ad secundum sic proceditur. Videtur quod dos sit idem quod beatitudo. Ut enim ex definitione praedicta patet, est *ornatus animae et corporis, in aeterna beatitudine jugiter perseverans*. Sed beatitudo animae est quidam ornatus ejus. Ergo beatitudo est dos.  
 
 Praeterea, dos dicitur illud per quod sponsa delectabiliter sponso conjungitur. Sed in spirituali matrimonio beatitudo est hujusmodi. Ergo beatitudo est dos.  
 
@@ -1543,7 +1543,7 @@ Articulus 3
 
 ***Utrum Christo insint dotes***
 
-***Ad tertium sic proceditur. Videtur quod Christo competat habere dotes. Sancti enim Christo per gloriam conformabuntur; unde dicitur Philip. 3, 21: *qui reformabit corpus humilitatis nostrae configuratum corpori claritatis suae*. Ergo Christus etiam dotes habet.***
+Ad tertium sic proceditur. Videtur quod Christo competat habere dotes. Sancti enim Christo per gloriam conformabuntur; unde dicitur Philip. 3, 21: *qui reformabit corpus humilitatis nostrae configuratum corpori claritatis suae*. Ergo Christus etiam dotes habet.  
 
 Praeterea, in spirituali matrimonio assignantur dotes ad similitudinem matrimonii corporalis. Sed in Christo invenitur quoddam spirituale matrimonium quod est sibi singulare, scilicet duarum naturarum in una persona, secundum quod dicitur natura humana in ipso esse desponsata a verbo, ut patet ex Glossa super illud Psalm. 18, 7: *in sole posuit tabernaculum suum*; et Apoc. 21, 3: *ecce tabernaculum Dei cum hominibus*. Ergo Christo competit habere dotes.  
 
@@ -1577,7 +1577,7 @@ Articulus 4
 
 ***Utrum angelis***
 
-***Ad quartum sic proceditur. Videtur quod angeli habeant dotes. Quia super illud Cantic. 6: *una est columba mea*, dicit Glossa: *una est Ecclesia in hominibus et in angelis*. Sed Ecclesia est sponsa; et sic membris Ecclesiae convenit habere dotes. Ergo angeli dotes habent.***
+Ad quartum sic proceditur. Videtur quod angeli habeant dotes. Quia super illud Cantic. 6: *una est columba mea*, dicit Glossa: *una est Ecclesia in hominibus et in angelis*. Sed Ecclesia est sponsa; et sic membris Ecclesiae convenit habere dotes. Ergo angeli dotes habent.  
 
 Praeterea, Luc. 12, super illud: *et vos similes hominibus expectantibus dominum suum quando revertatur a nuptiis*, dicit Glossa: *ad nuptias Dominus ivit, cum post resurrectionem novus homo angelorum multitudinem sibi copulavit*. Ergo multitudo angelorum est sponsa Christi; et sic angelis debentur dotes.  
 
@@ -1609,7 +1609,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter ponantur tres animae esse dotes, scilicet visio, dilectio, et fruitio. Anima enim conjungitur Deo secundum mentem, in qua est imago Trinitatis secundum memoriam, intelligentiam, et voluntatem. Sed dilectio ad voluntatem pertinet, visio ad intelligentiam. Ergo debet aliquid poni quod memoriae respondeat; cum fruitio non pertineat ad memoriam, sed magis ad voluntatem.***
+Ad quintum sic proceditur. Videtur quod inconvenienter ponantur tres animae esse dotes, scilicet visio, dilectio, et fruitio. Anima enim conjungitur Deo secundum mentem, in qua est imago Trinitatis secundum memoriam, intelligentiam, et voluntatem. Sed dilectio ad voluntatem pertinet, visio ad intelligentiam. Ergo debet aliquid poni quod memoriae respondeat; cum fruitio non pertineat ad memoriam, sed magis ad voluntatem.  
 
 Praeterea, dotes beatitudinis dicuntur respondere virtutibus viae, quibus Deo conjungimur, quae sunt fides, spes et caritas, quibus est ipse Deus objectum. Sed dilectio respondet caritati, visio autem fidei. Ergo deberet aliquid poni quod pertineret ad spem, cum fruitio magis pertineat ad caritatem.  
 
@@ -1625,7 +1625,7 @@ Praeterea, Boetius ponit quinque ad beatitudinem pertinentia in 3 de consolation
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sunt ponendae aliquae dotes in corpore praeter dotes animae. Dotes enim ordinantur ad conjunctionem spiritualem, in qua beatitudo consistit, ut dictum est. Sed ea quae sunt in corpore, non inclinant ad hujusmodi conjunctionem: quia operationes mentis, per quam anima Deo conjungitur, non exercentur organis corporalibus. Ergo non sunt ponendae aliquae dotes corporis.***
+Ulterius. Videtur quod non sunt ponendae aliquae dotes in corpore praeter dotes animae. Dotes enim ordinantur ad conjunctionem spiritualem, in qua beatitudo consistit, ut dictum est. Sed ea quae sunt in corpore, non inclinant ad hujusmodi conjunctionem: quia operationes mentis, per quam anima Deo conjungitur, non exercentur organis corporalibus. Ergo non sunt ponendae aliquae dotes corporis.  
 
 Praeterea, homini debetur dos et beatitudo secundum quod est ad imaginem Dei. Sed homo non est ad imaginem secundum corpus, sed secundum animam, ut patet per Augustinum in lib. *De Trinit*. Ergo corpori non debentur dotes.  
 
@@ -1637,7 +1637,7 @@ Praeterea, hoc idem apparet ex definitione dotis supra posita, quae talis est: *
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod dotes corporis inconvenienter ponantur quatuor, scilicet subtilitas, agilitas, claritas, et impassibilitas. Anselmus enim, videtur ponere septem: dicit enim quod septem erunt beatitudines corporis, scilicet: pulchritudo, velocitas, fortitudo, libertas, sanitas, voluptas, diuturnitas.***
+Ulterius. Videtur quod dotes corporis inconvenienter ponantur quatuor, scilicet subtilitas, agilitas, claritas, et impassibilitas. Anselmus enim, videtur ponere septem: dicit enim quod septem erunt beatitudines corporis, scilicet: pulchritudo, velocitas, fortitudo, libertas, sanitas, voluptas, diuturnitas.  
 
 Praeterea, ad perfectionem corporis viventis non solum pertinet motus, sed etiam sensus. Sed una dos ponitur quae pertinet ad motum, scilicet agilitas. Ergo deberet alia poni quae pertineret ad sensum.  
 
@@ -1649,7 +1649,7 @@ Praeterea, sicut subtilitas est dos corporis, ita et pervietas; ut patet per Gre
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ab omnibus communiter ponuntur tres animae dotes; diversimode tamen. Quidam enim dicunt, quod tres animae dotes sunt visio, dilectio et fruitio; quidam vero, quod sunt visio, comprehensio et fruitio; quidam vero, quod sunt visio, dilectio et comprehensio. Omnes tamen hae assignationes reducuntur in idem, et eodem modo earum numerus assignatur: dictum est enim, quod dos est aliquid animae inhaerens, per quod ordinatur ad operationem, in qua consistit beatitudo: in qua quidem operatione duo requiruntur, scilicet ipsa substantia operationis, quae est visio; et perfectio ejus, quae est delectatio: oportet enim beatitudinem esse operationem perfectam.***
+Respondeo dicendum ad primam quaestionem, quod ab omnibus communiter ponuntur tres animae dotes; diversimode tamen. Quidam enim dicunt, quod tres animae dotes sunt visio, dilectio et fruitio; quidam vero, quod sunt visio, comprehensio et fruitio; quidam vero, quod sunt visio, dilectio et comprehensio. Omnes tamen hae assignationes reducuntur in idem, et eodem modo earum numerus assignatur: dictum est enim, quod dos est aliquid animae inhaerens, per quod ordinatur ad operationem, in qua consistit beatitudo: in qua quidem operatione duo requiruntur, scilicet ipsa substantia operationis, quae est visio; et perfectio ejus, quae est delectatio: oportet enim beatitudinem esse operationem perfectam.  
 
 Visio autem aliqua est delectabilis dupliciter: uno modo ex parte objecti, inquantum id quod videtur, est delectabile; alio modo ex parte visionis, inquantum ipsum videre delectabile est, sicut delectamur in cognoscendo mala, quamvis mala nos non delectent; et quia operatio illa in qua ultima beatitudo consistit, debet esse perfectissima, ideo requiritur quod visio illa sit utroque modo delectabilis.  
 
@@ -1673,7 +1673,7 @@ Ad septimum dicendum, quod illa quinque quae enumerat Boetius, sunt quaedam beat
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum hoc homo est beatitudinis particeps quod ad imaginem Dei consistit. Imago autem Dei primo et principaliter in mente consistit; sed per quamdam derivationem etiam in corpore hominis quaedam repraesentatio imaginis invenitur, secundum quod oportet corpus animae esse proportionatum, ut etiam patet ex his quae Magister dicit in 2 Sent., dist. 16; unde etiam beatitudo vel gloria primo et principaliter est in mente, sed per quamdam redundantiam derivatur etiam ad corpus, ut beatitudo hominis secundum corpus dicatur, quod imperium animae Deo conjunctae perfecte exequitur. Unde sicut dispositiones quae sunt in anima beata ad perfectam operationem, qua Deo conjungitur, dicuntur animae dotes; ita dispositiones quae sunt in corpore glorioso, ex quibus corpus efficitur perfecte animae subjectum, dicuntur corporis dotes.***
+Ad secundam quaestionem dicendum, quod secundum hoc homo est beatitudinis particeps quod ad imaginem Dei consistit. Imago autem Dei primo et principaliter in mente consistit; sed per quamdam derivationem etiam in corpore hominis quaedam repraesentatio imaginis invenitur, secundum quod oportet corpus animae esse proportionatum, ut etiam patet ex his quae Magister dicit in 2 Sent., dist. 16; unde etiam beatitudo vel gloria primo et principaliter est in mente, sed per quamdam redundantiam derivatur etiam ad corpus, ut beatitudo hominis secundum corpus dicatur, quod imperium animae Deo conjunctae perfecte exequitur. Unde sicut dispositiones quae sunt in anima beata ad perfectam operationem, qua Deo conjungitur, dicuntur animae dotes; ita dispositiones quae sunt in corpore glorioso, ex quibus corpus efficitur perfecte animae subjectum, dicuntur corporis dotes.  
 
 Ad primum ergo dicendum, quod etiam perfectio corporis gloriosi aliquo modo coadjuvat ad hoc quod anima liberius et perfectius Deo inhaereat, inquantum videlicet non retrahitur aliquibus corporeis impedimentis a divina inhaesione; et inquantum etiam anima perfectius esse habet corpori conjuncta, quam a corpore separata; et sic etiam ejus operatio est perfectior, ut supra dictum est.  
 
@@ -1683,7 +1683,7 @@ Ad tertium dicendum, quod sicut dicit Augustinus in lib. *De Trinit*., ad exteri
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod anima est forma corporis, et motor: unde cum dotes corporis ad hoc ordinentur ut corpus perfecte animae subjiciatur, hoc erit ut subjiciatur ei perfecte et sicut formae, et sicut motori. A forma autem in materia tria causantur; scilicet esse substantiale, vires et formae secundariae, scilicet accidentales, et amborum conservatio.***
+Ad tertiam quaestionem dicendum, quod anima est forma corporis, et motor: unde cum dotes corporis ad hoc ordinentur ut corpus perfecte animae subjiciatur, hoc erit ut subjiciatur ei perfecte et sicut formae, et sicut motori. A forma autem in materia tria causantur; scilicet esse substantiale, vires et formae secundariae, scilicet accidentales, et amborum conservatio.  
 
 Corpus ergo gloriosum, inquantum perfecte animae subditur quantum ad esse substantiale quod ab ea habet, sic est dos subtilitatis: ex hoc enim corpus gloriosum subtile dicitur, ut supra, distinct. 44, dictum est, quod perfecte ab anima informatur.  
 
@@ -1721,7 +1721,7 @@ primo quid sit aureola;
 
 ***Quid sit aureola***
 
-***Ad primum sic proceditur. Videtur quod aureola non sit aliquod aliud praemium ab essentiali praemio, quod aurea dicitur. Praemium enim essentiale est ipsa beatitudo. Sed beatitudo, secundum Boetium, *est status omnium bonorum aggregatione perfectus*. Ergo praemium essentiale includit omne bonum quod habetur in patria; et sic aureola includitur in aurea.***
+Ad primum sic proceditur. Videtur quod aureola non sit aliquod aliud praemium ab essentiali praemio, quod aurea dicitur. Praemium enim essentiale est ipsa beatitudo. Sed beatitudo, secundum Boetium, *est status omnium bonorum aggregatione perfectus*. Ergo praemium essentiale includit omne bonum quod habetur in patria; et sic aureola includitur in aurea.  
 
 Praeterea, magis et minus non diversificant speciem. Sed illi qui servant consilia et praecepta, magis praemiantur quam illi qui servant praecepta tantum: nec in aliquo praemium eorum videtur differre, nisi quod unum est altero majus. Cum ergo aureola nominet praemium quod debetur operibus perfectionis, videtur quod aureola non dicat aliquid distinctum ab aurea.  
 
@@ -1761,7 +1761,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod aureola non differat a fructu. Eidem enim merito non debentur diversa praemia. Sed eidem merito respondet aureola et fructus centesimus, scilicet virginitati, ut patet in Glossa, Matth. 13. Ergo aureola est idem quod fructus.***
+Ad secundum sic proceditur. Videtur quod aureola non differat a fructu. Eidem enim merito non debentur diversa praemia. Sed eidem merito respondet aureola et fructus centesimus, scilicet virginitati, ut patet in Glossa, Matth. 13. Ergo aureola est idem quod fructus.  
 
 Praeterea, Augustinus dicit in Lib. *de Virginitate*, quod centesimus fructus debetur martyri, et idem debetur virgini. Ergo fructus est quoddam praemium commune virginibus et martyribus. Sed eisdem etiam debetur aureola. Ergo aureola est idem quod fructus.  
 
@@ -1773,7 +1773,7 @@ Praeterea, si fructus et aureola essent idem; cuicumque deberetur fructus, deber
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod fructus non debeatur soli virtuti continentiae. Quia 1 Corinth. 15 super illud: *alia claritas solis* etc. dicit Glossa quod claritati solis illorum dignitas comparatur qui centesimum fructum habent, lunari autem qui sexagesimum, stellae qui trigesimum. Sed illa diversitas claritatum, secundum intentionem apostoli, pertinet ad quamcumque beatitudinis differentiam. Ergo diversi fructus non debent respondere soli continentiae.***
+Ulterius. Videtur quod fructus non debeatur soli virtuti continentiae. Quia 1 Corinth. 15 super illud: *alia claritas solis* etc. dicit Glossa quod claritati solis illorum dignitas comparatur qui centesimum fructum habent, lunari autem qui sexagesimum, stellae qui trigesimum. Sed illa diversitas claritatum, secundum intentionem apostoli, pertinet ad quamcumque beatitudinis differentiam. Ergo diversi fructus non debent respondere soli continentiae.  
 
 Praeterea, fructus a fruitione dicuntur. Sed fruitio ad praemium essentiale pertinet, quod omnibus virtutibus respondet. Ergo, etc.  
 
@@ -1787,7 +1787,7 @@ Sed contra est quod habetur in Glossa, Matth. 15, quae fructus assignat virginit
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod inconvenienter assignentur tres fructus tribus continentiae partibus. Quia, Galat. 5, ponuntur duodecim fructus spiritus, scilicet gaudium, pax etc.: et ideo videtur quod non debeant poni tres tantum.***
+Ulterius. Videtur quod inconvenienter assignentur tres fructus tribus continentiae partibus. Quia, Galat. 5, ponuntur duodecim fructus spiritus, scilicet gaudium, pax etc.: et ideo videtur quod non debeant poni tres tantum.  
 
 Praeterea, fructus nominat aliquod praemium speciale. Sed praemium quod assignatur virginibus et viduis et conjugatis, non est speciale; quia omnes salvandi continentur sub aliquo horum trium, cum nullus salvetur qui continentia careat et continentia per has partes sufficienter dividatur. Ergo inconvenienter tribus praedictis tres fructus assignantur.  
 
@@ -1797,7 +1797,7 @@ Praeterea, ea quae in Sacra Scriptura dicuntur, perpetuitatem habent; Luc. 21, 3
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ea quae metaphorice dicuntur, possunt varie accipi secundum adaptationem ad diversas proprietates ejus unde fit transumptio.***
+Respondeo dicendum ad primam quaestionem, quod ea quae metaphorice dicuntur, possunt varie accipi secundum adaptationem ad diversas proprietates ejus unde fit transumptio.  
 
 Cum autem fructus proprie in rebus corporalibus dicatur de terrae nascentibus secundum diversas conditiones quae in fructibus corporalibus inveniri possunt, diversimode fructus spiritualiter accipitur. Fructus enim corporalis dulcedo est quae reficit, secundum quod in usum hominis venit: est etiam ultimum ad quod operatio naturae pervenit: est etiam id quod ex agricultura expectatur per seminationem, vel quoscumque alios modos. Quandoque igitur fructus spiritualiter accipitur pro eo quod reficit quasi ultimus finis; et secundum hanc significationem dicimur Deo frui perfecte quidem in patria, imperfecte autem in via; et ex hac significatione accipitur fruitio quae dos est. Sic autem nunc de fructibus non loquimur. Quandoque autem sumitur spiritualiter fructus pro eo quod reficit tantum, quamvis non sit ultimus finis; et sic virtutes fructus dicuntur, inquantum mentem sincera dulcedine reficiunt, ut Ambrosius dicit; et sic accipitur fructus Galat. 5, 22: *fructus autem spiritus caritas, gaudium, pax*, etc. Sic autem de fructibus nunc non quaeritur: de hoc enim habitum est in 3 Lib., dist. 23, 24, 25, 26 et 27.  
 
@@ -1815,7 +1815,7 @@ Ad tertium dicendum, quod quamvis aureola sit quoddam accidentale praemium essen
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut dictum est, fructus est quoddam praemium quod debetur homini ex hoc quod a carnali vita in spiritualem transit; et ideo illi virtuti praecipue respondet quae hominem praecipue a subjectione carnis liberat: hoc autem facit continentia, quia per delectationes venereas anima praecipue carni subditur, adeo ut in actu carnali, secundum Hieronymum, nec spiritus prophetiae corda prophetarum tangat, nec in illa delectatione est possibile aliquid intelligere, ut Philosophus dicit in 7 *Ethicor*.; et ideo continentiae magis respondet fructus quam alii virtuti.***
+Ad secundam quaestionem dicendum, quod sicut dictum est, fructus est quoddam praemium quod debetur homini ex hoc quod a carnali vita in spiritualem transit; et ideo illi virtuti praecipue respondet quae hominem praecipue a subjectione carnis liberat: hoc autem facit continentia, quia per delectationes venereas anima praecipue carni subditur, adeo ut in actu carnali, secundum Hieronymum, nec spiritus prophetiae corda prophetarum tangat, nec in illa delectatione est possibile aliquid intelligere, ut Philosophus dicit in 7 *Ethicor*.; et ideo continentiae magis respondet fructus quam alii virtuti.  
 
 Ad primum ergo dicendum, quod Glossa illa accipit fructum large, secundum quod quaelibet remuneratio fructus nominatur.  
 
@@ -1829,7 +1829,7 @@ Ad quintum dicendum, quod fructus non sumitur hic secundum quod frui dicitur qui
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod per continentiam, cui fructus respondet, ut dictum est, homo in quamdam spiritualitatem adducitur carnalitate abjecta; et ideo secundum diversum modum spiritualitatis quem continentia facit, diversi fructus distinguuntur. Est enim quaedam spiritualitas necessaria, et quaedam superabundans. Necessaria quidem spiritualitas est in hoc quod rectitudo spiritus ex delectatione carnis non pervertatur: quod fit dum aliquis secundum rectum ordinem rationis utitur delectabilibus carnis; et haec est spiritualitas conjugatorum. Spiritualitas vero superabundans est per quam homo ab hujusmodi delectationibus carnis spiritum suffocantibus omnino se abstrahit.***
+Ad tertiam quaestionem dicendum, quod per continentiam, cui fructus respondet, ut dictum est, homo in quamdam spiritualitatem adducitur carnalitate abjecta; et ideo secundum diversum modum spiritualitatis quem continentia facit, diversi fructus distinguuntur. Est enim quaedam spiritualitas necessaria, et quaedam superabundans. Necessaria quidem spiritualitas est in hoc quod rectitudo spiritus ex delectatione carnis non pervertatur: quod fit dum aliquis secundum rectum ordinem rationis utitur delectabilibus carnis; et haec est spiritualitas conjugatorum. Spiritualitas vero superabundans est per quam homo ab hujusmodi delectationibus carnis spiritum suffocantibus omnino se abstrahit.  
 
 Sed hoc contingit dupliciter: vel respectu cujuslibet temporis, praeteriti, praesentis, futuri; et haec est spiritualitas virginum; vel secundum aliquod tempus, et haec est spiritualitas viduarum. Servantibus ergo continentiam conjugalem datur fructus tricesimus, vidualem sexagesimus, virginalem centesimus, ratione illa quam Beda assignat; quamvis possit et alia ratio assignari ex ipsa natura numerorum. Tricenarius enim numerus ex ductu ternarii in denarium surgit; ternarius enim est numerus omnis rei, ut dicitur in 1 *Cael*., et habet in se perfectionem quamdam omnibus communem, scilicet principii, medii, et finis; unde convenienter tricenarius numerus conjugatis assignatur, in quibus super observationem Decalogi, qui per denarium signatur, non additur aliqua perfectio nisi communis, sine qua non potest esse salus. Senarius autem, ex cujus ductu in denarium sexagenarius surgit, habet perfectionem ex partibus, cum constet ex omnibus partibus suis simul aggregatis; unde convenienter viduitati respondet, in qua invenitur perfecta abstractio a delectabilibus carnis quantum ad omnes circumstantias, quae sunt quasi partes virtuosi actus; cum nulla enim persona et nullo loco delectabilibus carnis viduitas utitur; et sic de aliis circumstantiis carnis;*circumstantiis carnis.—circumstantiis* PLE. quod non erat in continentia conjugali. Sed centenarius convenienter respondet virginitati, quia denarius, ex cujus ductu centenarius surgit, est limes numerorum; et similiter virginitas tenet spiritualitatis limitem, quia ad eam nihil de spiritualitate adjici potest; habet enim centenarius, inquantum est quadratus numerus, perfectionem ex figura; figura enim quadrata secundum hoc perfecta est quod ex omni parte aequalitatem habet, utpote habens omnia latera aequalia; unde competit virginitati, in qua quantum ad omne tempus aequaliter incorruptio invenitur.  
 
@@ -1847,7 +1847,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod ratione virginitatis non debeatur aureola. Ubi enim est major difficultas in opere, ibi debetur majus praemium. Sed majorem difficultatem patiuntur in abstinendo a delectabilibus carnis viduae quam virgines: dicit enim Hieronymus, quod quanto major est difficultas ex parte quadam a voluptatis illecebris abstinere, tanto majus est praemium; et loquitur in commendationem viduarum. Philosophus etiam in libro *de Animalibus*, ait, quod juvenes corruptae magis appetunt coitum propter rememorationem delectationis. Ergo aureola, quae est maximum praemium, debetur magis viduis quam virginibus.***
+Ad tertium sic proceditur. Videtur quod ratione virginitatis non debeatur aureola. Ubi enim est major difficultas in opere, ibi debetur majus praemium. Sed majorem difficultatem patiuntur in abstinendo a delectabilibus carnis viduae quam virgines: dicit enim Hieronymus, quod quanto major est difficultas ex parte quadam a voluptatis illecebris abstinere, tanto majus est praemium; et loquitur in commendationem viduarum. Philosophus etiam in libro *de Animalibus*, ait, quod juvenes corruptae magis appetunt coitum propter rememorationem delectationis. Ergo aureola, quae est maximum praemium, debetur magis viduis quam virginibus.  
 
 Praeterea, si virginitati deberetur aureola; ubi esset perfectissima virginitas, maxime inveniretur aureola. Sed in beata virgine est perfectissima virginitas; unde et virgo virginum nominatur; et tamen ei non debetur aureola, quia nullam pugnam sustinuit in continendo, cum corruptione fomitis non fuerit infestata. Ergo virginitati aureola non debetur.  
 
@@ -1867,7 +1867,7 @@ Praeterea, Isaiae 6, 4, dicitur: *haec dicit Dominus eunuchis*; et sequitur: *da
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod martyribus aureola non debeatur. Aureola enim est praemium quod operibus supererogationis redditur; unde dicit Beda super illud Exod. 25: *aliam coronam aureolam* etc.: *de eorum praemio potest recte intelligi qui generalia mandata spontanea vitae perfectioris electione transcendunt*. Sed mori pro confessione fidei quandoque est necessitatis, non supererogationis, ut patet ex hoc quod dicitur Roman. 10, 10: *corde creditur ad justitiam, ore autem confessio fit ad salutem*. Ergo martyrio non semper debetur aureola.***
+Ulterius. Videtur quod martyribus aureola non debeatur. Aureola enim est praemium quod operibus supererogationis redditur; unde dicit Beda super illud Exod. 25: *aliam coronam aureolam* etc.: *de eorum praemio potest recte intelligi qui generalia mandata spontanea vitae perfectioris electione transcendunt*. Sed mori pro confessione fidei quandoque est necessitatis, non supererogationis, ut patet ex hoc quod dicitur Roman. 10, 10: *corde creditur ad justitiam, ore autem confessio fit ad salutem*. Ergo martyrio non semper debetur aureola.  
 
 Praeterea, secundum Gregorium, servitia tanto magis sunt grata, quanto magis sunt libera. Sed martyrium minimum habet de libertate, cum sit poena ab alio violenter inflicta. Ergo martyrio aureola non debetur, quae respondet merito excellenti.  
 
@@ -1897,7 +1897,7 @@ Praeterea, corona debetur certanti; sed in martyrio est specialis difficultas pu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod doctoribus aureola non debeatur. Omne enim praemium quod in futuro habebitur, alicui actui virtutis respondet. Sed praedicare vel docere non est actus alicujus virtutis. Ergo doctrinae vel praedicationi non debetur aureola.***
+Ulterius. Videtur quod doctoribus aureola non debeatur. Omne enim praemium quod in futuro habebitur, alicui actui virtutis respondet. Sed praedicare vel docere non est actus alicujus virtutis. Ergo doctrinae vel praedicationi non debetur aureola.  
 
 Praeterea, docere et praedicare, ex doctrina et studio proveniunt. Sed ea quae praemiantur in futuro, non sunt acquisita per humanum studium; quia naturalibus acquisitis non meremur. Ergo pro doctrina et praedicatione nullus in futuro meretur aureolam.  
 
@@ -1909,7 +1909,7 @@ Praeterea, Cant. 8 super illud: *vinea mea est coram me*, dicit Glossa: *ostendi
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod ubi est praecellens ratio victoriae, ibi debetur aliqua specialis corona; unde cum per virginitatem aliquis singularem quamdam victoriam obtineat de carne, contra quam continue bellum geritur, ut patet Gal. 5, 17: *spiritus concupiscit adversus carnem*; virginitati specialis corona debetur, quae aureola nominatur. Et hoc quidem communiter ab omnibus tenetur; sed cui virginitati debeatur aureola, non omnes dicunt.***
+Respondeo dicendum, ad primam quaestionem, quod ubi est praecellens ratio victoriae, ibi debetur aliqua specialis corona; unde cum per virginitatem aliquis singularem quamdam victoriam obtineat de carne, contra quam continue bellum geritur, ut patet Gal. 5, 17: *spiritus concupiscit adversus carnem*; virginitati specialis corona debetur, quae aureola nominatur. Et hoc quidem communiter ab omnibus tenetur; sed cui virginitati debeatur aureola, non omnes dicunt.  
 
 Quidam enim dicunt, aureolam actui deberi; unde illa quae actu virginitatem servat, aureolam habebit, si sit de numero salvandorum. Sed hoc non videtur esse conveniens; quia secundum hoc, illae quae habent voluntatem nubendi, et tamen antequam nupserint decedunt, habebunt aureolam.  
 
@@ -1933,7 +1933,7 @@ Ad septimum dicendum, quod si frigidi et eunuchi voluntatem habeant incorruption
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut inest quaedam pugna spiritui contra interiores concupiscentias, ita etiam inest homini quaedam pugna contra passiones exterius illatas; unde sicut perfectissimae victoriae qua de concupiscentiis carnis triumphatur, scilicet virginitati, debetur specialis corona, quae aureola dicitur; ita etiam perfectissimae victoriae quae habetur de impugnatione exteriori, debetur aureola. Perfectissima autem victoria de exterioribus passionibus consideratur ex duobus. Primo ex magnitudine passionis. Inter omnes autem passiones illatas exterius praecipue locum mors tenet, sicut et in passionibus interioribus praecipue sunt venereorum concupiscentiae; et ideo quando aliquis obtinet victoriam de morte, et ordinatis ad mortem, perfectissime vincit. Secundo perfectio victoriae consideratur ex causa pugnae; quando scilicet pro honestissima causa pugnatur, quae scilicet est ipse Christus. Et haec duo in martyrio considerantur, quod est mors suscepta propter Christum. Martyrem enim non facit poena, sed causa. Et ideo martyrio aureola debetur, sicut et virginitati.***
+Ad secundam quaestionem dicendum, quod sicut inest quaedam pugna spiritui contra interiores concupiscentias, ita etiam inest homini quaedam pugna contra passiones exterius illatas; unde sicut perfectissimae victoriae qua de concupiscentiis carnis triumphatur, scilicet virginitati, debetur specialis corona, quae aureola dicitur; ita etiam perfectissimae victoriae quae habetur de impugnatione exteriori, debetur aureola. Perfectissima autem victoria de exterioribus passionibus consideratur ex duobus. Primo ex magnitudine passionis. Inter omnes autem passiones illatas exterius praecipue locum mors tenet, sicut et in passionibus interioribus praecipue sunt venereorum concupiscentiae; et ideo quando aliquis obtinet victoriam de morte, et ordinatis ad mortem, perfectissime vincit. Secundo perfectio victoriae consideratur ex causa pugnae; quando scilicet pro honestissima causa pugnatur, quae scilicet est ipse Christus. Et haec duo in martyrio considerantur, quod est mors suscepta propter Christum. Martyrem enim non facit poena, sed causa. Et ideo martyrio aureola debetur, sicut et virginitati.  
 
 Ad primum ergo dicendum, quod sustinere mortem propter Christum, quantum est de se, est opus supererogationis: non enim quilibet tenetur fidem suam coram persecutore profiteri: sed in casu est de necessitate salutis, quando scilicet aliquis a persecutore deprehensus de fide sua requiritur, quam confiteri tenetur. Nec tamen sequitur quod aureolam non mereatur. Aureola enim non debetur operi supererogationis inquantum est supererogatio, sed inquantum perfectionem quamdam habet; unde tali perfectione manente, etiam si non sit supererogatio, aliquis aureolam meretur.  
 
@@ -1961,7 +1961,7 @@ Ad duodecimum dicendum, quod quidam dicunt, quod in innocentibus occisis pro Chr
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut per martyrium et virginitatem aliquis perfectissimam victoriam obtinet de carne et mundo; ita et perfectissima victoria contra diabolum obtinetur, quando aliquis non solum diabolo impugnanti non cedit, sed etiam eum expellit, et non solum a se, sed etiam ab aliis. Hoc autem fit per praedicationem et doctrinam. Et ideo praedicationi et doctrinae aureola debetur, sicut et virginitati et martyrio. Nec est dicendum, ut quidam dicunt, quod tantum debeatur praelatis, quibus competit ex officio praedicare et docere; sed quibuscumque qui licite hunc actum exercent. Praelatis autem non debetur, quamvis habeant officium praedicandi, nisi actu praedicent: quia corona non debetur habitui, sed actuali pugnae, secundum illud 2 Timoth. 2, 5: *non coronabitur nisi qui legitime certaverit*.***
+Ad tertiam quaestionem dicendum, quod sicut per martyrium et virginitatem aliquis perfectissimam victoriam obtinet de carne et mundo; ita et perfectissima victoria contra diabolum obtinetur, quando aliquis non solum diabolo impugnanti non cedit, sed etiam eum expellit, et non solum a se, sed etiam ab aliis. Hoc autem fit per praedicationem et doctrinam. Et ideo praedicationi et doctrinae aureola debetur, sicut et virginitati et martyrio. Nec est dicendum, ut quidam dicunt, quod tantum debeatur praelatis, quibus competit ex officio praedicare et docere; sed quibuscumque qui licite hunc actum exercent. Praelatis autem non debetur, quamvis habeant officium praedicandi, nisi actu praedicent: quia corona non debetur habitui, sed actuali pugnae, secundum illud 2 Timoth. 2, 5: *non coronabitur nisi qui legitime certaverit*.  
 
 Ad primum ergo dicendum, quod praedicare et docere sunt actus alicujus virtutis, scilicet misericordiae; unde et inter spirituales eleemosynas computantur, ut patet supra, dist. 25, quaest. 2, art. 3.  
 
@@ -1975,7 +1975,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod Christo aureola debeatur. Debetur enim aureola virginitati, martyrio et doctrinae. Sed in Christo haec tria praecipue fuerunt. Ergo Christo praecipue aureola competit.***
+Ad quartum sic proceditur. Videtur quod Christo aureola debeatur. Debetur enim aureola virginitati, martyrio et doctrinae. Sed in Christo haec tria praecipue fuerunt. Ergo Christo praecipue aureola competit.  
 
 Praeterea, omne quod est perfectissimum in rebus humanis, praecipue Christo est attribuendum. Sed praemium aureolae debetur excellentissimis meritis. Ergo Christo debetur.  
 
@@ -1987,7 +1987,7 @@ Praeterea, Christi praemium nunquam est augmentatum. Sed Christus ab instanti co
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod angelis aureola debeatur. Quia, ut dicit Hieronymus de virginitate loquens, *in carne praeter carnem vivere potius est vita angelica quam humana*; et 1 Cor. 7, dicit Glossa, quod virginitas est portio angelica. Cum igitur virginitati respondeat aureola, videtur quod angelis debeatur.***
+Ulterius. Videtur quod angelis aureola debeatur. Quia, ut dicit Hieronymus de virginitate loquens, *in carne praeter carnem vivere potius est vita angelica quam humana*; et 1 Cor. 7, dicit Glossa, quod virginitas est portio angelica. Cum igitur virginitati respondeat aureola, videtur quod angelis debeatur.  
 
 Praeterea, nobilior est incorruptio spiritus quam incorruptio carnis. Sed in angelis invenitur incorruptio spiritus, quia nunquam peccaverunt. Ergo eis magis debetur aureola quam hominibus incorruptis carne, qui alias aliquando peccaverunt.  
 
@@ -1999,7 +1999,7 @@ Praeterea, aureola non debetur actui qui per corpus non exercetur; unde amantibu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod aureola etiam corpori debeatur. Praemium enim essentiale est potius quam accidentale. Sed dos, quae ad praemium essentiale pertinet, non solum est in anima, sed etiam in corpore. Ergo et aureola, quae pertinet ad praemium accidentale.***
+Ulterius. Videtur quod aureola etiam corpori debeatur. Praemium enim essentiale est potius quam accidentale. Sed dos, quae ad praemium essentiale pertinet, non solum est in anima, sed etiam in corpore. Ergo et aureola, quae pertinet ad praemium accidentale.  
 
 Praeterea, peccato quod per corpus exercetur, respondet poena in anima et corpore. Ergo et merito quod exercetur per corpus, debetur praemium et in anima et in corpore. Sed meritum aureolae per corpus exercetur. Ergo aureola etiam debetur corpori.  
 
@@ -2011,7 +2011,7 @@ Praeterea, omne meritum est ab anima. Ergo praemium totum in anima esse debet.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circa hoc duplex est opinio. Quidam enim dicunt, quod in Christo est aureola secundum propriam aureolae rationem, cum in eo pugna inveniatur et victoria, et per consequens corona secundum propriam rationem. Sed diligenter considerando, quamvis Christo competat ratio aureae vel coronae, non tamen ei competit ratio aureolae; aureola enim ex hoc ipso quod diminutive dicitur, importat aliquid quod participative et non secundum sui plenitudinem possidetur; unde illis competit aureolam habere in quibus est aliqua perfectioris victoriae participatio secundum imitationem ejus in quo perfectae victoriae plena ratio consistit; et ideo, cum in Christo inveniatur hujusmodi principalis et plena victoriae ratio, per cujus victoriam omnes alii victores constituuntur, ut patet Joan. 16, 33: *confidite: ego vici mundum*; et Apoc. 5, 5: *ecce vicit leo de tribu Juda*; Christo non competet aureolam habere, sed aliquid unde omnes aureolae originantur; unde Apoc. 3, 21: *qui vicerit, faciam eum sedere in throno meo, sicut ego vici, et sedeo in throno patris mei*. Unde secundum alios dicendum est, quod quamvis id quod est in Christo, non habeat rationem aureolae, tamen est excellentius omni aureola.***
+Respondeo dicendum ad primam quaestionem, quod circa hoc duplex est opinio. Quidam enim dicunt, quod in Christo est aureola secundum propriam aureolae rationem, cum in eo pugna inveniatur et victoria, et per consequens corona secundum propriam rationem. Sed diligenter considerando, quamvis Christo competat ratio aureae vel coronae, non tamen ei competit ratio aureolae; aureola enim ex hoc ipso quod diminutive dicitur, importat aliquid quod participative et non secundum sui plenitudinem possidetur; unde illis competit aureolam habere in quibus est aliqua perfectioris victoriae participatio secundum imitationem ejus in quo perfectae victoriae plena ratio consistit; et ideo, cum in Christo inveniatur hujusmodi principalis et plena victoriae ratio, per cujus victoriam omnes alii victores constituuntur, ut patet Joan. 16, 33: *confidite: ego vici mundum*; et Apoc. 5, 5: *ecce vicit leo de tribu Juda*; Christo non competet aureolam habere, sed aliquid unde omnes aureolae originantur; unde Apoc. 3, 21: *qui vicerit, faciam eum sedere in throno meo, sicut ego vici, et sedeo in throno patris mei*. Unde secundum alios dicendum est, quod quamvis id quod est in Christo, non habeat rationem aureolae, tamen est excellentius omni aureola.  
 
 Ad primum ergo dicendum, quod Christus fuit verissime virgo, martyr et doctor; sed tamen praemium accidentale his respondens in Christo non habet aliquam notabilem quantitatem in comparatione ad magnitudinem essentialis praemii; unde non habet aureolam sub ratione aureolae.  
 
@@ -2021,7 +2021,7 @@ Ad tertium dicendum, quod quamvis virginitas habeat aliquo modo exemplar in Deo,
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod angelis aureola non debetur: cujus ratio est, quia aureola proprie respondet cuidam perfectioni in excellenti merito. Ea vero quae in hominibus ad perfectionem meriti pertinent, angelis sunt connaturalia, vel etiam spectant ad communem eorum statum, aut etiam ad ipsum praemium; et ideo propter quae hominibus debetur aureola, angeli non habent aureolas.***
+Ad secundam quaestionem dicendum, quod angelis aureola non debetur: cujus ratio est, quia aureola proprie respondet cuidam perfectioni in excellenti merito. Ea vero quae in hominibus ad perfectionem meriti pertinent, angelis sunt connaturalia, vel etiam spectant ad communem eorum statum, aut etiam ad ipsum praemium; et ideo propter quae hominibus debetur aureola, angeli non habent aureolas.  
 
 Ad primum ergo dicendum, quod virginitas dicitur esse vita angelica, inquantum per gratiam virgines imitantur id quod angeli habent per naturam: non enim virtutis est in angelis quod omnino a delectationibus carnis abstineant, cum hujusmodi delectationes in eis esse non possint.  
 
@@ -2031,7 +2031,7 @@ Ad tertium dicendum, quod illi actus secundum quos angeli nos docent, pertinent 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod aureola proprie est in mente, est enim gaudium de operibus illis quibus aureola debetur. Sed sicut ex gaudio essentialis praemii, quod est aurea, redundat quidam decor in corpore, qui est gloria corporis; ita ex gaudio aureolae resultat aliquis decor in corpore; ut sic aureola principaliter sit in mente, sed per quamdam redundantiam fulgeat etiam in carne.***
+Ad tertiam quaestionem dicendum, quod aureola proprie est in mente, est enim gaudium de operibus illis quibus aureola debetur. Sed sicut ex gaudio essentialis praemii, quod est aurea, redundat quidam decor in corpore, qui est gloria corporis; ita ex gaudio aureolae resultat aliquis decor in corpore; ut sic aureola principaliter sit in mente, sed per quamdam redundantiam fulgeat etiam in carne.  
 
 Et per hoc patet responsio ad objecta. Tamen sciendum est, quod decor cicatricum quae in corporibus martyrum apparebunt, non potest dici aureola: quia aliqui martyres aureolam habebunt in quibus hujusmodi cicatrices non erunt, utpote illi qui sunt submersi, aut famis inedia vel squalore carceris interempti.  
 
@@ -2041,7 +2041,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod inconvenienter designentur tres aureolae, virginum, martyrum, et praedicatorum. Aureola enim martyrum respondet virtuti fortitudinis, aureola virginum virtuti temperantiae, aureola vero doctorum virtuti prudentiae. Ergo videtur quod debeat esse quarta aureola, quae debeatur justitiae.***
+Ad quintum sic proceditur. Videtur quod inconvenienter designentur tres aureolae, virginum, martyrum, et praedicatorum. Aureola enim martyrum respondet virtuti fortitudinis, aureola virginum virtuti temperantiae, aureola vero doctorum virtuti prudentiae. Ergo videtur quod debeat esse quarta aureola, quae debeatur justitiae.  
 
 Praeterea, Exod. 25, dicit Glossa, quod corona aurea additur, cum per Evangelium his qui mandata custodiunt, vita aeterna promittitur. Matth. 19, 17: *si vis ad vitam ingredi; serva mandata*. Huic aureola superponitur cum dicitur: *si vis perfectus esse, vade, et vende omnia quae habes, et da pauperibus*. Ergo paupertati debetur aureola.  
 
@@ -2053,7 +2053,7 @@ Praeterea, sicut aliquis divulgat fidem praedicando et docendo, ita scripta comp
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod aureola virginum sit inter alias potissima. Quia Apocal. 14, dicitur de virginibus quod *sequuntur agnum quocumque ierit*; et quod *nemo* alius *poterat dicere canticum* quod virgines cantabant. Ergo virgines habent excellentiorem aureolam.***
+Ulterius. Videtur quod aureola virginum sit inter alias potissima. Quia Apocal. 14, dicitur de virginibus quod *sequuntur agnum quocumque ierit*; et quod *nemo* alius *poterat dicere canticum* quod virgines cantabant. Ergo virgines habent excellentiorem aureolam.  
 
 Praeterea, Cyprianus dicit de virginibus, quod sunt illustrior portio gregis Christi. Ergo eis magis aureola debetur.  
 
@@ -2063,7 +2063,7 @@ Praeterea, videtur quod potissima debeatur doctori. Quia Ecclesia militans exemp
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod unus aureolam virginitatis vel martyrii vel doctoris excellentius alio non habet. Quia ea quae sunt in termino perfectionis non intenduntur et remittuntur. Sed aureola debetur operibus quae sint in termino perfectionis. Ergo aureola non intenditur nec remittitur.***
+Ulterius. Videtur quod unus aureolam virginitatis vel martyrii vel doctoris excellentius alio non habet. Quia ea quae sunt in termino perfectionis non intenduntur et remittuntur. Sed aureola debetur operibus quae sint in termino perfectionis. Ergo aureola non intenditur nec remittitur.  
 
 Praeterea, virginitas non suscipit magis et minus, cum importet privationem quamdam; et negationes non intendantur nec remittantur. Ergo nec praemium virginitatis, scilicet aureola virginum, intenditur et remittitur.  
 
@@ -2071,7 +2071,7 @@ Sed contra, aureola superponitur aureae. Sed aurea est intensior in uno quam in 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod aureola est quoddam privilegiatum praemium, privilegiatae victoriae respondens, ut patet ex dictis, et ideo secundum privilegiatas victorias in tribus pugnis, quae cuilibet homini imminent, tres aureolae sumuntur.***
+Respondeo dicendum ad primam quaestionem, quod aureola est quoddam privilegiatum praemium, privilegiatae victoriae respondens, ut patet ex dictis, et ideo secundum privilegiatas victorias in tribus pugnis, quae cuilibet homini imminent, tres aureolae sumuntur.  
 
 In pugna enim quae est contra carnem, ille potissimam victoriam obtinet qui a delectabilibus venereis, quae sunt praecipua in hoc genere, omnino abstinet; et ideo virginitati aureola debetur. In pugna vero qua contra mundum pugnatur, illa est praecipua, cum a mundo persecutionem usque ad mortem sustinemus; unde et martyribus, qui in ista pugna victoriam obtinent, secunda aureola debetur. In pugna vero qua contra diabolum pugnamus, illa est praecipua victoria, cum aliquis hostem non solum a se, sed a cordibus aliorum removet: quod fit per praedicationem et doctrinam; et ideo doctoribus et praedicatoribus tertia aureola debetur.  
 
@@ -2087,13 +2087,13 @@ Ad quintum dicendum, quod etiam scribentibus sacram doctrinam debetur aureola; s
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod praeeminentia aureolae ad aureolam potest dupliciter attendi. Primo ex parte pugnae, ut dicatur aureola potior quae fortiori pugnae debetur; et per hunc modum aureola martyrum aliis aureolis supereminet quodam modo, et aureola virginum alio modo. Pugna enim martyrii est fortior secundum seipsam, et vehementius affligens: pugna carnis est periculosior, inquantum est diuturnior, et magis nobis imminet e vicino. Secundo ex parte eorum de quibus est pugna; et sic aureola doctorum inter omnes est potior: quia hujusmodi pugna versatur circa bona intelligibilia, aliae vero pugnae circa sensibiles passiones. Sed illa eminentia quae attenditur ex parte pugnae, est aureolae essentialior: quia aureola secundum propriam rationem respicit victoriam et pugnam. Difficultas etiam pugnae quae attenditur ex parte ipsius pugnae, est potior quam illa quae attenditur ex parte nostri, inquantum est nobis vicinior. Et ideo, simpliciter loquendo, aureola martyrum inter omnes est potior; et ideo dicitur Matth. 5, in Glossa, quod in octava beatitudine, quae ad martyres pertinet, scilicet: *beati qui persecutionem patiuntur* etc., omnes aliae perficiuntur. Propter hoc etiam Ecclesia in connumeratione sanctorum martyres doctoribus et virginibus praeordinat. Sed quantum ad aliquid, nihil prohibet alias aureolas excellentiores esse.***
+Ad secundam quaestionem dicendum, quod praeeminentia aureolae ad aureolam potest dupliciter attendi. Primo ex parte pugnae, ut dicatur aureola potior quae fortiori pugnae debetur; et per hunc modum aureola martyrum aliis aureolis supereminet quodam modo, et aureola virginum alio modo. Pugna enim martyrii est fortior secundum seipsam, et vehementius affligens: pugna carnis est periculosior, inquantum est diuturnior, et magis nobis imminet e vicino. Secundo ex parte eorum de quibus est pugna; et sic aureola doctorum inter omnes est potior: quia hujusmodi pugna versatur circa bona intelligibilia, aliae vero pugnae circa sensibiles passiones. Sed illa eminentia quae attenditur ex parte pugnae, est aureolae essentialior: quia aureola secundum propriam rationem respicit victoriam et pugnam. Difficultas etiam pugnae quae attenditur ex parte ipsius pugnae, est potior quam illa quae attenditur ex parte nostri, inquantum est nobis vicinior. Et ideo, simpliciter loquendo, aureola martyrum inter omnes est potior; et ideo dicitur Matth. 5, in Glossa, quod in octava beatitudine, quae ad martyres pertinet, scilicet: *beati qui persecutionem patiuntur* etc., omnes aliae perficiuntur. Propter hoc etiam Ecclesia in connumeratione sanctorum martyres doctoribus et virginibus praeordinat. Sed quantum ad aliquid, nihil prohibet alias aureolas excellentiores esse.  
 
 Et per hoc patet solutio ad objecta.  
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod cum meritum sit quodammodo praemii causa; oportet diversificari praemia, secundum quod merita diversificantur. Aliquid enim intenditur et remittitur per intensionem et remissionem suae causae. Meritum autem aureolae potest esse majus et minus; unde et aureola potest esse major et minor. Sciendum tamen, quod meritum aureolae potest intendi dupliciter: uno modo ex parte radicis, alio modo ex parte operis. Contingit enim esse aliquos duos, quorum unus ex minori caritate majus tormentum martyrii sustinet, vel magis praedicationi instat, aut etiam magis se a delectabilibus carnis elongat. Intensioni ergo meriti quae attenditur penes radicem, non respondet intensio aureolae, sed intensio aureae; sed intensioni meriti quae est ex genere actus, respondet intensio aureolae. Unde potest esse quod aliquis qui minus in martyrio meretur quantum ad essentiale praemium, habebit pro martyrio majorem aureolam.***
+Ad tertiam quaestionem dicendum, quod cum meritum sit quodammodo praemii causa; oportet diversificari praemia, secundum quod merita diversificantur. Aliquid enim intenditur et remittitur per intensionem et remissionem suae causae. Meritum autem aureolae potest esse majus et minus; unde et aureola potest esse major et minor. Sciendum tamen, quod meritum aureolae potest intendi dupliciter: uno modo ex parte radicis, alio modo ex parte operis. Contingit enim esse aliquos duos, quorum unus ex minori caritate majus tormentum martyrii sustinet, vel magis praedicationi instat, aut etiam magis se a delectabilibus carnis elongat. Intensioni ergo meriti quae attenditur penes radicem, non respondet intensio aureolae, sed intensio aureae; sed intensioni meriti quae est ex genere actus, respondet intensio aureolae. Unde potest esse quod aliquis qui minus in martyrio meretur quantum ad essentiale praemium, habebit pro martyrio majorem aureolam.  
 
 Ad primum ergo dicendum, quod merita quibus debentur aureolae, non attingunt ad terminum perfectionis simpliciter, sed secundum speciem; sicut ignis est specie subtilissimum corporum; unde nihil prohibet unam aureolam alia esse excellentiorem, sicut unus ignis est alio subtilior.  
 
@@ -2101,7 +2101,7 @@ Ad secundum dicendum, quod una virginitas potest esse alia major propter majorem
 
 Expositio textus  
 
-****Suos fines habebunt duae civitates*. Hoc ideo dicitur, quia usque ad diem judicii numerus electorum et damnatorum augetur; et etiam gloria et poena augeri potest, saltem quantum ad praemium et poenam accidentalem; sed post judicium ulterius augeri non poterit.***
+*Suos fines habebunt duae civitates*. Hoc ideo dicitur, quia usque ad diem judicii numerus electorum et damnatorum augetur; et etiam gloria et poena augeri potest, saltem quantum ad praemium et poenam accidentalem; sed post judicium ulterius augeri non poterit.  
 
 *Denarius enim unus*. Hoc dicitur propter hoc quod idem est objectum omnium beatorum.  
 

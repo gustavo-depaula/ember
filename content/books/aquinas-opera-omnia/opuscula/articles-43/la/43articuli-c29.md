@@ -1,3 +1,5 @@
 # Articulus 39
 
+Trigesimus nonus articulus est, an licet ascendendo immediate Mars sit supra solem quantum ad situm, tamen sit immediate supra lunam quantum ad dominium in prima hora Martis.  
+
 Ad hoc dicendum videtur, quod si dominium Martis et lunae referatur ad liberum arbitrium, est erroneum. Si autem referatur ad corporales et naturales res, nulla sequitur absurditas in fidei doctrina. Dicit enim Augustinus, V de Civ. Dei, c. VI: *non usquequaque dici potest ad solam corporum differentiam afflatus quosdam valere sidereos*; immo etiam hoc verum est secundum ordinem dierum; nam cum septem planetis septem horae secundum astrologos deputentur, cum vigintiquatuor horae sint naturalis diei, consequens est ut prima feria in vigesima secunda hora diei luna dominium habeat, sicut et in prima eiusdem: unde reincipiendo a Saturno, vigesimatertia hora ei deputabitur, et vigesimaquarta Iovi, prima diei sequentis Marti deputabitur. Sed hoc nihil ad doctrinam fidei pertinet nec asserere nec improbare.

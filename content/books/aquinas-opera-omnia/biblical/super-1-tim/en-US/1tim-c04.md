@@ -1,10 +1,12 @@
 # C. 3 - Presbyterial Conduct
 
+***Presbyterial Conduct***
+
 ***Lecture 1***
 
 ***Behavior of bishops***
 
-***^3:1^ A faithful saying: if a man desire the office of a bishop, he desires good work. [n. 86]***
+^3:1^ A faithful saying: if a man desire the office of a bishop, he desires good work. [n. 86]  
 
 > ^3:2^ Therefore, it behoves a bishop to be blameless, the husband of one wife, sober, prudent, of good behaviour, chaste, given to hospitality, a teacher, [n. 91]
 
@@ -106,7 +108,7 @@ Lecture 2
 
 ***Christian behavior***
 
-***^3:4^ One who rules well his own house, having his children in subjection with all chastity. [n. 103]***
+^3:4^ One who rules well his own house, having his children in subjection with all chastity. [n. 103]  
 
 > ^3:5^ But if a man does not know how to rule his own house, how shall he take care of the Church of God? [n. 105]
 
@@ -244,7 +246,7 @@ Lecture 3
 
 ***Deacons’ families***
 
-***^3:12^ Let deacons be the husbands of one wife, who rule well their children and their own houses. [n. 119]***
+^3:12^ Let deacons be the husbands of one wife, who rule well their children and their own houses. [n. 119]  
 
 > ^3:13^ For they who have ministered well shall purchase to themselves a good degree and much confidence in the faith which is in Christ Jesus. [n. 122]
 

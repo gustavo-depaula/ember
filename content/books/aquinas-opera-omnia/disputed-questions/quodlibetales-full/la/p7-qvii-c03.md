@@ -1,5 +1,7 @@
 # On the Bodies of the Damned
 
+***Quaestio 5***
+
 ***De corporibus damnatorum***
 
 ***Deinde quaeritur de corporibus damnatorum. Et circa hoc quaeruntur tria:***
@@ -14,7 +16,7 @@ Articulus 1
 
 ***Utrum corpora damnatorum sint incorruptibilia***
 
-***Ad primum sic proceditur. Videtur quod corpora damnatorum non erunt incorruptibilia.***
+Ad primum sic proceditur. Videtur quod corpora damnatorum non erunt incorruptibilia.  
 
 Corpus enim non potest esse incorruptibile nisi vel per naturam, ut corpus caeleste, vel per gratiam innocentiae, ut corpus hominis in primo statu, vel per gloriam, sicut corpus Christi post Resurrectionem; sed nullum istorum competit corporibus damnatorum; ergo corpora damnatorum non erunt incorruptibilia.  
 
@@ -40,7 +42,7 @@ Articulus 2
 
 ***Utrum resurgent cum suis deformitatibus***
 
-***Ad secundum sic proceditur. Videtur quod corpora damnatorum resurgent sine deformitatibus.***
+Ad secundum sic proceditur. Videtur quod corpora damnatorum resurgent sine deformitatibus.  
 
 Resurrectio enim fiet divina virtute, quae est perfectissima; sed virtutis perfectae perfecta est operatio et effectus perfectus; ergo corpora resurgentium erunt perfecta, et ita corpora damnatorum resurgent sine deformitatibus.  
 
@@ -54,7 +56,7 @@ Articulus 3
 
 ***Utrum punientur in inferno verme et fletu corporali***
 
-***Ad tertium sic proceditur. Videtur quod corpora damnatorum vermibus et fletu corporalibus punientur.***
+Ad tertium sic proceditur. Videtur quod corpora damnatorum vermibus et fletu corporalibus punientur.  
 
 Iudith ultimo: *dabit ignem et vermem in carnes eorum*; sed vermis spiritualis non datur in carnem, sed magis in animam; ergo vermis quo reprobi punientur non erit tantum spiritualis, sed etiam corporalis.  
 

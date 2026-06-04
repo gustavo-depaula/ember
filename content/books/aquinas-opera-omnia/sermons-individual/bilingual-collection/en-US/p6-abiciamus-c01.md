@@ -1,5 +1,7 @@
 # Sermon
 
+The Apostle, teacher of the Christians and leader in faith and truth, formulates this in this time of the gracious coming of our Lord with these words, or in these words, for two reasons: in order to (1) stir up a liberating abhorrence of all worldly stains and vices as well as (2) an honorable love or pursuit of heavenly virtues.  
+
 The first thing he does when he says: ***let us throw off the works of the darkness***;  
 
 the second, when he adds: ***and let us put on the arms of the light***.  

@@ -1,5 +1,7 @@
 # Prayer at the Moment of Death
 
+Prayer of Thomas Aquinas on his deathbed after receiving the Blessed Sacrament *(See *Ystoria sancti Thome de Aquino de Guillaume de Tocco*, ch. 58, 198, ll. 50–55. Translation by The Aquinas Institute.)*  
+
 ***I receive you,***
 ***price of the redemption of my soul;***
 ***I receive you,***

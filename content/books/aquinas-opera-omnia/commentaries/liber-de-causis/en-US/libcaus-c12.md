@@ -1,5 +1,7 @@
 # Proposition 11
 
+100. Every intelligence knows sempiternal things which are not destroyed and do not fall under time.  
+
 > 101. This is because if intelligence is always that which is not moved, then it is the cause for sempiternal things which are not destroyed [or changed] and do not fall under generation and corruption. And moreover intelligence is only such because it knows a thing through its own being, and its being is sempiternal because it is not corrupted.
 
 > 102. Thus, since it is such, we say that destructible things are endowed with bodilyness, that is to say from the corporeal cause for a temporal thing, not from the eternal cause for an intellectual thing.

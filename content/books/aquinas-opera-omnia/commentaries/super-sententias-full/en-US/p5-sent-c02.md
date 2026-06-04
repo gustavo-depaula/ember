@@ -1,8 +1,10 @@
 # D. 1 - The Incarnation
 
+***The Incarnation***
+
 ***Division of the text***
 
-***After the Master has spent Books I and II considering things that are divine in virtue of their coming forth from their beginning, in this book he begins to consider the things that are called “divine” in according to their return to their final end—that is, to God. This part, then, is divided into two parts.***
+After the Master has spent Books I and II considering things that are divine in virtue of their coming forth from their beginning, in this book he begins to consider the things that are called “divine” in according to their return to their final end—that is, to God. This part, then, is divided into two parts.  
 
 In the first,Peter Lombard, *Sentences*, bk. 3 (*Sent*. III). he considers that return to the end from the side of the one who leads them back.  
 
@@ -74,7 +76,7 @@ Article 1
 
 ***Whether it was possible for God to become incarnate***
 
-***To the first we proceed thus. It appears that it was impossible for God to assume flesh.***
+To the first we proceed thus. It appears that it was impossible for God to assume flesh.  
 
 Obj. 1: For anything that can be united with another is capable of that union. But anything capable of something is brought into act either through a motion or undergoing, and by something else as the first agent, since the same thing cannot be both mover and moved, agent and patient. Therefore, since it is impossible for God to change or undergo anything, and neither can anything be prior to him, it appears that he could not be united with flesh.  
 
@@ -118,7 +120,7 @@ Article 2
 
 ***Whether it was fitting for God to incarnate***
 
-***To the second we proceed thus.Parallels: *Summa Theologiae* III, q. 1, a. 1; *Summa Contra Gentiles* IV, cc. 40, 49, 53–55; *Compendium Theologiae*, cc. 200, 201. Although it was possible, it appears that it was not fitting for God to become incarnate.***
+To the second we proceed thus.Parallels: *Summa Theologiae* III, q. 1, a. 1; *Summa Contra Gentiles* IV, cc. 40, 49, 53–55; *Compendium Theologiae*, cc. 200, 201. Although it was possible, it appears that it was not fitting for God to become incarnate.  
 
 Obj. 1: For just as wickedness is opposed to goodness, so is weakness to majesty. But it is not becoming for the supreme goodness to assume any wickedness. Therefore any and every weakness is unbecoming to the supreme majesty. Now, anyone who is wise avoids what is unbecoming. Therefore, since God is the most wise, he ought in no way assume our nature, which is weak.  
 
@@ -194,7 +196,7 @@ Article 3
 
 ***Whether God would have been incarnate if man had not sinned***
 
-***To the third we proceed thus.Parallels: *ST* III.1.3; *Super I ad Tim*. 1, lect. 4. It appears that God would not have been incarnate if man had not sinned.***
+To the third we proceed thus.Parallels: *ST* III.1.3; *Super I ad Tim*. 1, lect. 4. It appears that God would not have been incarnate if man had not sinned.  
 
 Obj. 1: For *his work is perfect*, as it is said in Deuteronomy 32:4. But perfection is only possible if what is last is united with its beginning, so as to close a sort of circle, as it were, and to make any further addition is impossible. Therefore, since God is himself the first and man is the last of the things created, it was fitting for the perfection of the universe that God become man, even if man had not sinned.  
 
@@ -242,7 +244,7 @@ Article 4
 
 ***Whether it was fitting for God to delay his Incarnation for so long***
 
-***To the fourth we proceed thus.Parallels: *ST* III.1.5; *SCG* IV.53, 55; *Super Isiam* 2; *Super Gal.* 4, lect. 2. It appears that the Son of God should not have delayed his Incarnation so long.***
+To the fourth we proceed thus.Parallels: *ST* III.1.5; *SCG* IV.53, 55; *Super Isiam* 2; *Super Gal.* 4, lect. 2. It appears that the Son of God should not have delayed his Incarnation so long.  
 
 Obj. 1: For the time of the Incarnation is called the time of fullness: thus Galatians 4:4 says, *when the time had fully come, God sent forth his Son*. But “fullness” imports perfection. Therefore, since the perfection of the universe was consummated on the seventh day, as it says in Genesis 2:2, it appears that the Son of God should have been incarnate then.  
 
@@ -282,7 +284,7 @@ Question 2
 
 ***The person assuming flesh***
 
-***Next we will inquire about the one who assumes flesh. Concerning this there are five points of inquiry:***
+Next we will inquire about the one who assumes flesh. Concerning this there are five points of inquiry:  
 
 first, whether one divine person can assume flesh while another does not;  
 
@@ -298,7 +300,7 @@ Article 1
 
 ***Whether one divine person can assume flesh without another***
 
-***To the first question we proceed thus.Parallels: *ST* III.3.4; *SCG* IV.39. It appears that one divine person cannot assume flesh without another.***
+To the first question we proceed thus.Parallels: *ST* III.3.4; *SCG* IV.39. It appears that one divine person cannot assume flesh without another.  
 
 Obj. 1: For Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 1, ch. 10 (PG 94:838). that *within the divine, all things are one except being ungenerated, being generated, and proceeding*. But being incarnate is not one of these things. Therefore being incarnate is common to the Three.  
 
@@ -332,9 +334,9 @@ Reply Obj. 5: In the union that exists through the grace of adoption, it is cons
 
 Article 2  
 
-***Whether it was more fitting for the Son to become incarnate rather than the Father or the Holy Spirit***
+Whether it was more fitting for the Son to become incarnate rather than the Father or the Holy Spirit  
 
-***To the second question we proceed thus.Parallels: *ST* III.3.8; *SCG* IV.42. It seems that it was not more fitting for the Son to become incarnate rather than the Father or the Holy Spirit.***
+To the second question we proceed thus.Parallels: *ST* III.3.8; *SCG* IV.42. It seems that it was not more fitting for the Son to become incarnate rather than the Father or the Holy Spirit.  
 
 Obj. 1: For just as in the mystery of the Incarnation, wisdom was shown in the grandeur of the reconciliation, so too power was shown in that things infinitely distant were joined together, and also goodness in that he did not look down on the infirmity of the thing he had himself formed, as Damascene says.John Damascene, *On the Orthodox Faith*, bk. 3, ch. 1 (PG 94:983). But just as wisdom is attributed to the Son, so is goodness attributed to the Holy Spirit, and power to the Father. Therefore it was not more becoming that the Son become incarnate than the Father or the Holy Spirit.  
 
@@ -392,7 +394,7 @@ Article 3
 
 ***Whether the Father was able to assume flesh, as well as the Holy Spirit***
 
-***To the third we proceed thus.Parallel: *ST* III.3.5. It appears that the Father was not able to assume flesh.***
+To the third we proceed thus.Parallel: *ST* III.3.5. It appears that the Father was not able to assume flesh.  
 
 Obj. 1: For as Anselm says,Anselm, *On the Incarnation of the Word*, ch. 10 (PL 158:276). what is in the least degree unfitting is impossible for God. But if the Father were to assume flesh, something unfitting would follow: namely, there would be many sons within the Trinity, which would lead to a certain confusion about the persons. Therefore, the Father was not able to assume flesh.  
 
@@ -432,9 +434,9 @@ Reply Obj. 5: In regard to its essence God’s power is no greater than his will
 
 Article 4  
 
-***Whether the Father and the Son and the Holy Spirit could assume numerically the same nature***
+Whether the Father and the Son and the Holy Spirit could assume numerically the same nature  
 
-***To the fourth we proceed thus.Parallel: *ST* III.3.6. It seems that the Father and the Holy Spirit cannot assume one and the same nature.***
+To the fourth we proceed thus.Parallel: *ST* III.3.6. It seems that the Father and the Holy Spirit cannot assume one and the same nature.  
 
 Obj. 1: First, because of what Anselm says in his book *On the Incarnation of the Word*, that more than one divine person cannot assume one and the same man.Anselm, *De fide Trinitatis et de incarnatione Verbi*, ch. 4 (PL 158:275–276). But if they assumed one nature, one man would be assumed by more than one person. Therefore the first idea is impossible.  
 
@@ -476,7 +478,7 @@ Article 5
 
 ***Whether one person can assume two human natures***
 
-***To the fifth we proceed thus.Parallel: *ST* III.3.7. It appears that one divine person cannot assume two human natures.***
+To the fifth we proceed thus.Parallel: *ST* III.3.7. It appears that one divine person cannot assume two human natures.  
 
 Obj. 1: For a common nature is multiplied only according to the multiplicity of its supposits. But one person is only one supposit, as will become clear in Distinction 6.Below*,* d. 6, q. 1, a. 1, qa. 1. Therefore in one person there cannot be two natures of the same species.  
 
@@ -508,7 +510,7 @@ Reply Obj. 5: The term placed in the predicate is held formally, which is not ne
 
 Exposition of the text  
 
-****The fullness of time*.*Sent*. III. 1, prologue, citing Gal 4:4. One should note that the time of the Incarnation is called “the fullness of time” for many reasons. First, it is so called on account of the perfection of the universe; for when all created things returned to their beginning in man by a human nature having been assumed by God, then the universe came to its greatest completion. So it is said in Ephesians 1:10, *as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth*. Second, it is called this on account of the abundance of the grace that was poured forth at that time, as it says in John 1:16: *and from his fullness have we all received, grace upon grace*. Third, on account of the fulfillment of the law, as Matthew 5:17: *I have come not to abolish them but to fulfill them*. Fourth, on account of the magnitude of that which happened in that time, for in that time the Lord of time was born, and thus something greater than time was made, something that fulfilled time. Fifth, because at that time was fulfilled what God foresaw from eternity, and what he foretold through his prophets, according to Romans 1:2.***
+*The fullness of time*.*Sent*. III. 1, prologue, citing Gal 4:4. One should note that the time of the Incarnation is called “the fullness of time” for many reasons. First, it is so called on account of the perfection of the universe; for when all created things returned to their beginning in man by a human nature having been assumed by God, then the universe came to its greatest completion. So it is said in Ephesians 1:10, *as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth*. Second, it is called this on account of the abundance of the grace that was poured forth at that time, as it says in John 1:16: *and from his fullness have we all received, grace upon grace*. Third, on account of the fulfillment of the law, as Matthew 5:17: *I have come not to abolish them but to fulfill them*. Fourth, on account of the magnitude of that which happened in that time, for in that time the Lord of time was born, and thus something greater than time was made, something that fulfilled time. Fifth, because at that time was fulfilled what God foresaw from eternity, and what he foretold through his prophets, according to Romans 1:2.  
 
 *Made of a woman*.*Sent*. III. 1. prologue, citing Gal 4:4. On the contrary, in the Creed we say, *begotten, not made*. Furthermore, a woman implies a corruption, but Christ was born of the most uncorrupted Virgin, so it was not fittingly said that he was *made of a woman*. But it should be said to the first point that, in reference to his divine nature, the Son of God was in no way made; rather, he was begotten. But in reference to the human nature that he assumed, he is something created. Nevertheless, Christ cannot be said to be “made” simply speaking, but the Son of God is said to be “made man.” To the second point it should be said that the woman is noted here to designate a sex, not to designate any corruption, just as the rib taken from Adam is said to have been formed into a woman, although Eve at that time was made as a virgin.  
 

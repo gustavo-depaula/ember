@@ -1,8 +1,11 @@
 # Compline
 
+[℣. Iube, domne, benedicere.  
+*Benedictio*. Noctem quietam et finem perfectum concedat nobis Dominus omnipotens. Amen.  
+
 *Lectio brevis* (1 Pet 5:8–9)  
 
-***Fratres: sobrii estote, et vigilate: quia adversarius vester diabolus tamquam leo rugiens circuit, quaerens quem devoret: cui resistite fortes in fide.***
+Fratres: sobrii estote, et vigilate: quia adversarius vester diabolus tamquam leo rugiens circuit, quaerens quem devoret: cui resistite fortes in fide.  
 
 > ℣. Tu autem, Dómine, miserére nobis.
 > ℟. Deo grátias.
@@ -33,7 +36,7 @@ firstcompline-antiphon
 
 Psalmus 4, 30, 90, & 133  
 
-***Cum invocarem exaudivit me Deus iustitiae meae, * in tribulatione dilatasti mihi.***
+Cum invocarem exaudivit me Deus iustitiae meae, * in tribulatione dilatasti mihi.  
 
 > Miserere mei, * et exaudi orationem meam.
 
@@ -123,8 +126,8 @@ Psalmus 4, 30, 90, & 133
 
 > Capitulum Responsorium Versus
 
-***[Tu autem in nobis es, Domine, et nomen sanctum tuum invocatum est super nos: ne derelinquas nos, Domine, Deus noster.***
-***℟. Deo gratias.***
+[Tu autem in nobis es, Domine, et nomen sanctum tuum invocatum est super nos: ne derelinquas nos, Domine, Deus noster.  
+℟. Deo gratias.  
 
 ℟. In manus tuas, Domine, * Commendo spiritum meum.  
 ℟. In manus tuas, Domine, * Commendo spiritum meum.  

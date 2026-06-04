@@ -1,8 +1,10 @@
 # D. 44 - Whether the power of God is limited to the quality of things
 
+***Whether the power of God is limited to the quality of things***
+
 ***Division of the text***
 
-***Here he excludes the error of those mentioned before as regards their asserting that God’s power is limited to the quality of things. And this is divided into two parts: in the first, he excludes the error; in the second, he considers a certain question whereby a diminution of the divine power seemed to be asserted, at *moreover, it is usual to ask whether God can always do what he was once able to do*.*Sent*. I, 44.2(189).1.***
+Here he excludes the error of those mentioned before as regards their asserting that God’s power is limited to the quality of things. And this is divided into two parts: in the first, he excludes the error; in the second, he considers a certain question whereby a diminution of the divine power seemed to be asserted, at *moreover, it is usual to ask whether God can always do what he was once able to do*.*Sent*. I, 44.2(189).1.  
 
 The first is divided into two parts: in the first, he asks whether God’s power might be limited to the goodness of realities; in the second, he asks whether it might be limited to the mode of realities, at *after these matters, it is to be considered whether he can do the things which he does in another or better way than he does*.*Sent*. I, 44.1(188).4.  
 
@@ -26,7 +28,7 @@ Article 1
 
 ***Whether God may have been able to make a creature better than he did***
 
-***To the first we proceed as follows.Parallel text: *ST* I.25.6. It seems that God could make no creature better than exists.***
+To the first we proceed as follows.Parallel text: *ST* I.25.6. It seems that God could make no creature better than exists.  
 
 Obj. 1: For according to Dionysius and Plato,Pseudo-Dionysius, *On the Divine Names*, ch. 4, para. 1 (PG 3:694); Plato, *Symposium*, 197c; see also 212a. it belongs to the best to bring forth the best things. But there can be nothing better than the best. Therefore there can be nothing better than the things that God, who is the best, has made.  
 
@@ -56,7 +58,7 @@ Article 2
 
 ***Whether God could have made a better universe***
 
-***To the second we proceed as follows.Parallel text: *ST* I.25.6. It seems that God could not have made a better universe.***
+To the second we proceed as follows.Parallel text: *ST* I.25.6. It seems that God could not have made a better universe.  
 
 Obj. 1: For, according to Augustine,Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 10 (CCSL 46; PL 40:236). the things God established, even the individuals, are good, and all things together are exceedingly good. But nothing can be better than what is superlatively good. Therefore nothing can be better than the universe.  
 
@@ -96,7 +98,7 @@ Article 3
 
 ***Whether God could have made Christ’s humanity better than it is***
 
-***To the third we proceed as follows.Parallel text: *ST* I.25.6, ad 4. It seems that God could not have made Christ’s humanity better than it is.***
+To the third we proceed as follows.Parallel text: *ST* I.25.6, ad 4. It seems that God could not have made Christ’s humanity better than it is.  
 
 Obj. 1: For to the degree that each thing is better, so much closer is it to God. But nothing created can be closer to God than what is united to him in the unity of persons, as is the human nature in Christ. Therefore it seems that God could make nothing better than it.  
 
@@ -136,7 +138,7 @@ Article 4
 
 ***Whether God is able to do everything that he was once able to do***
 
-***To the fourth we proceed as follows. It seems that God cannot do everything that he once was able to do.***
+To the fourth we proceed as follows. It seems that God cannot do everything that he once was able to do.  
 
 Obj. 1: For God’s power extends not only to species but even to individuals, for he makes both form and matter. But before Socrates existed, he was able to make Socrates. Therefore even while Socrates is existing he can make Socrates. But this is false, because then a reality’s substance might exist twice, which is impossible. Therefore not everything that he was able to do, is he able to do.  
 
@@ -166,6 +168,6 @@ Reply Sed Contra 5: This too is clear from things said in the body of the articl
 
 Exposition of the text  
 
-****Although he cannot now become incarnate*.*Sent*. I, 44.2(189).2. This seems to be false. For just as the Son has assumed flesh, so too the Father was able, and is able to assume flesh, as will be said in Book III.*In III Sent*., d. 1, q. 2, a. 3. Therefore it seems that even now he could become incarnate.***
+*Although he cannot now become incarnate*.*Sent*. I, 44.2(189).2. This seems to be false. For just as the Son has assumed flesh, so too the Father was able, and is able to assume flesh, as will be said in Book III.*In III Sent*., d. 1, q. 2, a. 3. Therefore it seems that even now he could become incarnate.  
 
 To which one should say that the Master is understanding numerically the same incarnation that was brought about at one time. For if he were now to become incarnate, it would not be numerically the same incarnation, but another incarnation.

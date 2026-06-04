@@ -1,5 +1,7 @@
 # Chapter 53
 
+***^53:1^ Quis credidit auditui nostro? Et brachium Domini cui revelatum est?***
+
 > ^53:2^ Et ascendet sicut virgultum coram eo et sicut radix de terra sitienti. Et non est species ei neque decor; et vidimus eum, et non erat aspectus. Et desideravimus eum
 
 > ^53:3^ despectum et novissimum virorum, virum dolorum et scientem infirmitatem; et quasi absconditus vultus ejus et despectus: unde nec reputavimus eum.

@@ -4,7 +4,7 @@
 
 Psalm 92 (93)  
 
-***The Lord has reigned, he is clothed with beauty: * the Lord is clothed with strength, and has girded himself, etc.***
+The Lord has reigned, he is clothed with beauty: * the Lord is clothed with strength, and has girded himself, etc.  
 
 *Antiphon*. My memory will be in the generations of ages. Those who eat me will hunger for more; and those who drink me will thirst for more, alleluia. [Sir 24:28–29]  
 
@@ -16,7 +16,7 @@ Psalm 99 (100)
 
 Psalm 21 (22)  
 
-***O God my God, look upon me: why have you forsaken me? * Far from my salvation are the words of my sins.***
+O God my God, look upon me: why have you forsaken me? * Far from my salvation are the words of my sins.  
 
 > Benedicite
 
@@ -34,7 +34,7 @@ Psalms 148–150
 
 ***Hebrews 5:11***
 
-***Every priest chosen from among men is appointed to act for men in their relations with God, to offer gifts and sacrifices for sins.***
+Every priest chosen from among men is appointed to act for men in their relations with God, to offer gifts and sacrifices for sins.  
 
 > Hymn
 

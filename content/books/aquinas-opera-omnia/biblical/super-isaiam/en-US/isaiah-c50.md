@@ -1,5 +1,7 @@
 # Chapter 48
 
+^48:1^ Hear these things, O house of Jacob, you that are called by the name of Israel, and are come forth out of the waters of Judah, you who swear by the name of the Lord, and rememberDR: “make mention of the.” God of Israel, but not in truth, nor in justice.  
+
 > ^48:2^ For they are called of the holy city, and are established upon the God of Israel: the Lord of hosts is his name.
 
 > ^48:3^ The former things of old, I have declared, and they went forth out of my mouth, and I have made them to be heard: I did them suddenly and they came to pass.

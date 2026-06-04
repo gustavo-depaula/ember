@@ -1,6 +1,6 @@
 # D. 26 - On matrimony
 
-***Postquam determinavit Magister de sacramento ordinis, quod ordinatur ad spiritualem multiplicationem Ecclesiae, hic incipit determinare de matrimonio, quod ordinatur ad materialem, multiplicationem fidelium; et dividitur in partes duas: in prima determinat de matrimonio; in secunda de personis contrahentibus matrimonium, 34 distinct., ibi *nunc superest attendere quae personae sint legitimae ad contrahendum matrimonium*.***
+Postquam determinavit Magister de sacramento ordinis, quod ordinatur ad spiritualem multiplicationem Ecclesiae, hic incipit determinare de matrimonio, quod ordinatur ad materialem, multiplicationem fidelium; et dividitur in partes duas: in prima determinat de matrimonio; in secunda de personis contrahentibus matrimonium, 34 distinct., ibi *nunc superest attendere quae personae sint legitimae ad contrahendum matrimonium*.  
 
 Prima in duas: in prima determinat ea quae pertinent ad matrimonium, inquantum est sacramentum; in secunda determinat causas matrimonii, 27 distinct., ibi: *post hoc advertendum est quid sit conjugium*.  
 
@@ -31,7 +31,7 @@ primo, utrum matrimonium sit naturale;
 
 ***Utrum matrimonium sit naturale***
 
-***Ad primum sic proceditur. Videtur quod matrimonium non sit naturale. Quia jus naturale est quod natura omnia animalia docuit. Sed in aliis animalibus est conjunctio sexuum absque matrimonio. Ergo matrimonium non est de jure naturali.***
+Ad primum sic proceditur. Videtur quod matrimonium non sit naturale. Quia jus naturale est quod natura omnia animalia docuit. Sed in aliis animalibus est conjunctio sexuum absque matrimonio. Ergo matrimonium non est de jure naturali.  
 
 Praeterea, id quod est de jure naturali, invenitur in hominibus secundum quemlibet eorum statum. Sed matrimonium non fuit in quolibet statu hominum: quia, sicut dicit Tullius in principio *Rhetor*., *homines a principio silvestres erant, et tunc nemo scivit proprios liberos, nec certas nuptias, in quibus matrimonium consistit*. Ergo non est naturale.  
 
@@ -57,7 +57,7 @@ Articulus 2
 
 ***Utrum nunc sit in praecepto***
 
-***Ad secundum sic proceditur. Videtur quod matrimonium adhuc maneat sub praecepto. Quia praeceptum obligat quamdiu non revocatur. Sed prima institutio matrimonii fuit sub praecepto, ut in littera dicitur, nec unquam hoc praeceptum legitur revocatum, immo confirmatum, Matth. 19, 6: *quos Deus conjunxit, homo non separet*. Ergo adhuc matrimonium est sub praecepto.***
+Ad secundum sic proceditur. Videtur quod matrimonium adhuc maneat sub praecepto. Quia praeceptum obligat quamdiu non revocatur. Sed prima institutio matrimonii fuit sub praecepto, ut in littera dicitur, nec unquam hoc praeceptum legitur revocatum, immo confirmatum, Matth. 19, 6: *quos Deus conjunxit, homo non separet*. Ergo adhuc matrimonium est sub praecepto.  
 
 Praeterea, praecepta juris naturalis secundum omne tempus obligant. Sed matrimonium est de jure naturali, ut dictum est. Ergo, etc.  
 
@@ -81,7 +81,7 @@ Articulus 3
 
 ***Utrum actus ejus sit licitus***
 
-***Ad tertium sic proceditur. Videtur quod actus matrimonialis semper sit peccatum. 1 Corinth. 7, 29: *qui nubunt, sint tamquam non nubentes*. Sed non nubentes non habent actum matrimonialem. Ergo etiam nubentes peccant in actu illo.***
+Ad tertium sic proceditur. Videtur quod actus matrimonialis semper sit peccatum. 1 Corinth. 7, 29: *qui nubunt, sint tamquam non nubentes*. Sed non nubentes non habent actum matrimonialem. Ergo etiam nubentes peccant in actu illo.  
 
 Praeterea, Isaiae 59, 2: *iniquitates vestrae diviserunt inter vos et Deum vestrum*. Sed actus matrimonialis dividit hominem a Deo; unde Exod. 19, praecipitur populo qui debebat Deum videre, quod non accedant ad uxores suas; et Hieronymus dicit, quod in actu matrimoniali Spiritus Sanctus prophetarum corda non tangit. Ergo est iniquitas.  
 
@@ -115,7 +115,7 @@ Articulus 4
 
 ***Utrum possit esse meritorius***
 
-***Ad quartum sic proceditur. Videtur quod actus matrimonialis non sit meritorius. Chrysostomus enim dicit super Matth.: *matrimonium etsi utentibus se poenam non infert, mercedem tamen non praestat*. Sed meritum respectu mercedis dicitur. Ergo actus matrimonialis non est meritorius.***
+Ad quartum sic proceditur. Videtur quod actus matrimonialis non sit meritorius. Chrysostomus enim dicit super Matth.: *matrimonium etsi utentibus se poenam non infert, mercedem tamen non praestat*. Sed meritum respectu mercedis dicitur. Ergo actus matrimonialis non est meritorius.  
 
 Praeterea, illud quod est meritorium, dimittere non est laudabile. Sed laudabilis est virginitas, per quam matrimonium dimittitur. Ergo matrimonialis actus non est meritorius.  
 
@@ -145,7 +145,7 @@ Quaestio 2
 
 ***Prooemium***
 
-***Deinde quaeritur de matrimonio secundum quod est sacramentum: et circa hoc quaeruntur quatuor:***
+Deinde quaeritur de matrimonio secundum quod est sacramentum: et circa hoc quaeruntur quatuor:  
 
 primo, utrum sit sacramentum;  
 
@@ -156,7 +156,7 @@ primo, utrum sit sacramentum;
 
 ***Utrum sit sacramentum***
 
-***Ad primum sic proceditur. Videtur quod matrimonium non sit sacramentum. Omne enim sacramentum novae legis habet aliquam formam quae est de essentia sacramenti. Sed benedictio quae fit per sacerdotes in nuptiis, non est de essentia matrimonii. Ergo non est sacramentum.***
+Ad primum sic proceditur. Videtur quod matrimonium non sit sacramentum. Omne enim sacramentum novae legis habet aliquam formam quae est de essentia sacramenti. Sed benedictio quae fit per sacerdotes in nuptiis, non est de essentia matrimonii. Ergo non est sacramentum.  
 
 Praeterea, *sacramentum*, secundum Hugonem, *est materiale elementum*. Sed matrimonium non habet pro materia aliquod materiale elementum. Ergo non est sacramentum.  
 
@@ -186,7 +186,7 @@ Articulus 2
 
 ***De institutione ipsius***
 
-***Ad secundum sic proceditur. Videtur quod matrimonium non debuit institui ante peccatum. Quia illud quod est de jure naturali, non indiget institutione. Sed matrimonium est hujusmodi, ut ex dictis patet. Ergo non debuit institui.***
+Ad secundum sic proceditur. Videtur quod matrimonium non debuit institui ante peccatum. Quia illud quod est de jure naturali, non indiget institutione. Sed matrimonium est hujusmodi, ut ex dictis patet. Ergo non debuit institui.  
 
 Praeterea, sacramenta, sunt quaedam medicinae contra morbum peccati. Sed medicina non praeparatur nisi morbo. Ergo ante peccatum non debuit institui.  
 
@@ -218,7 +218,7 @@ Articulus 3
 
 ***De effectu***
 
-***Ad tertium sic proceditur. Videtur quod matrimonium non conferat gratiam. Quia secundum Hugonem, sacramenta ex sanctificatione invisibilem gratiam conferunt. Sed matrimonium non habet aliquam sanctificationem quae sit de essentia ejus. Ergo non confertur gratia in ipso.***
+Ad tertium sic proceditur. Videtur quod matrimonium non conferat gratiam. Quia secundum Hugonem, sacramenta ex sanctificatione invisibilem gratiam conferunt. Sed matrimonium non habet aliquam sanctificationem quae sit de essentia ejus. Ergo non confertur gratia in ipso.  
 
 Praeterea, omne sacramentum conferens gratiam, confert ipsam ex materia et forma sua. Sed actus qui sunt materia in hoc sacramento, non sunt causa gratiae:*gratiae.—gratiae, quia hoc esset Pelagiana heresis quod actus nostri sint causa gratiae* PLE. verba etiam exprimentia consensum non sunt causa gratiae, cum ex eis non sit aliqua sanctificatio. Ergo in matrimonio nullo modo gratia datur.  
 
@@ -250,7 +250,7 @@ Articulus 4
 
 ***De integritate***
 
-***Ad quartum sic proceditur. Videtur quod carnalis commixtio sit de integritate matrimonii. In ipsa enim institutione matrimonii dictum est, Gen. 2, 24: *erunt duo in carne una*. Sed hoc non fit nisi per carnalem commixtionem. Ergo est de integritate matrimonii.***
+Ad quartum sic proceditur. Videtur quod carnalis commixtio sit de integritate matrimonii. In ipsa enim institutione matrimonii dictum est, Gen. 2, 24: *erunt duo in carne una*. Sed hoc non fit nisi per carnalem commixtionem. Ergo est de integritate matrimonii.  
 
 Praeterea, id quod pertinet ad significationem sacramenti, est de necessitate sacramenti, ut praedictum est. Sed carnalis commixtio pertinet ad significationem sacramenti, ut in littera dicitur. Ergo est de integritate sacramenti.  
 
@@ -274,7 +274,7 @@ Ad quartum dicendum, quod ante commixtionem carnalem est matrimonium in remedium
 
 Expositio textus  
 
-****Cum alia sacramenta post peccatum et propter peccatum exordium sumpserint, matrimonii sacramentum etiam ante peccatum legitur institutum a domino*. Videtur quod de matrimonio debuerit determinare ante ordinem: quia prius est quod animale est quam quod spirituale est, ut dicitur 1 Corinth. 15. Et dicendum, quod quamvis sit primum in via generationis, tamen in via sanctitatis et perfectionis est posterius; et ideo illud sacramentum quod habet minimum de spiritualitate, ultimo debet inter sacramenta ordinari.***
+*Cum alia sacramenta post peccatum et propter peccatum exordium sumpserint, matrimonii sacramentum etiam ante peccatum legitur institutum a domino*. Videtur quod de matrimonio debuerit determinare ante ordinem: quia prius est quod animale est quam quod spirituale est, ut dicitur 1 Corinth. 15. Et dicendum, quod quamvis sit primum in via generationis, tamen in via sanctitatis et perfectionis est posterius; et ideo illud sacramentum quod habet minimum de spiritualitate, ultimo debet inter sacramenta ordinari.  
 
 *Una de costis ejus sumpta, et exinde muliere formata*. De hoc dictum est in 2 Lib., dist. 18.  
 

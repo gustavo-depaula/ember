@@ -1,6 +1,8 @@
 # D. 24 - Object of faith
 
-***Postquam determinavit Magister de fide secundum suam substantiam, hic determinat de ea in comparatione ad suum objectum; et introducitur pars istaThe Bruges manuscript adds *ex*. occasione definitionis fidei ab Apostolo datae, qua fidem argumentum non apparentium dicit.***
+***Divisio textus***
+
+Postquam determinavit Magister de fide secundum suam substantiam, hic determinat de ea in comparatione ad suum objectum; et introducitur pars istaThe Bruges manuscript adds *ex*. occasione definitionis fidei ab Apostolo datae, qua fidem argumentum non apparentium dicit.  
 
 Dividitur autem pars haec in duas:  
 
@@ -48,7 +50,7 @@ Praeterea, ab eodem res denominatur a quo recipit speciem. Sed habitus speciem r
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod fides non sit circa verum complexum. Quia, ut dictum est, objectum fidei est simplex veritas. Sed in simplici non cadit aliqua complexio. Ergo non est circa verum complexum.***
+Ulterius. Videtur quod fides non sit circa verum complexum. Quia, ut dictum est, objectum fidei est simplex veritas. Sed in simplici non cadit aliqua complexio. Ergo non est circa verum complexum.  
 
 Praeterea, fidei succedit visio. Sed visio patriae erit de incomplexo. Ergo et fides.  
 
@@ -64,7 +66,7 @@ Praeterea, per fidem differt fidelis ab infideli. Non autem differt per incomple
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod fidei possit subesse falsum. Omne enim verum contingens potest esse falsum. Sed fidei subest aliquod verum contingens, sicutThe edited versions read *scilicet*. Passio Christi, quia fuit voluntaria, et ex libero arbitrio tam Christi quam Judaeorum dependens. Ergo fidei potest subesse falsum.***
+Ulterius. Videtur quod fidei possit subesse falsum. Omne enim verum contingens potest esse falsum. Sed fidei subest aliquod verum contingens, sicutThe edited versions read *scilicet*. Passio Christi, quia fuit voluntaria, et ex libero arbitrio tam Christi quam Judaeorum dependens. Ergo fidei potest subesse falsum.  
 
 Praeterea, simusThe Bruges, Brussels, Paris (841, 842, 843), Angers, Vatican (190, 755, 111) manuscripts have a certain word before *in tempore*, against the edited versions; the Paris (843) manuscript reads *sumus*; the Brussels manuscript reads *simus*, but corrects it to *scimus*; the Paris (842) manuscript adds in the margin *posito supple*. in tempore ante Passionem Christi postquam credidit Abraham Christi Passionem futuram, constatThe Brussels manuscript adds *autem*. quod possibile fuit tunc Deo alio modo humanum genus liberare: quod si fuisset, fides Abrahae falsificata fuisset. Ergo fidei potest subesse falsum.  
 
@@ -78,7 +80,7 @@ Praeterea, per nullam virtutem producitur actus malus: quia bonus usus potentiae
 
 Solutio 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod in objecto alicujus potentiae contingitThe Bruges and Vatican (190) manuscripts read *est*. tria considerare: scilicet id quod est formale in objecto, et id quod est materiale, et id quod est accidentale; sicut patet in objecto visus: quia formale in ipso est lumen, quod facit colorem visibilem actu; materiale vero ipse color, qui est potentia visibilis; accidentale vero, sicut quantitas et alia hujusmodi, quae colorem concomitanturThe edited versions read *comitantur*.. Et quia unumquodque agit secundum quod est in actu et per suam formam, objectum autem est activum in virtutibus passivis; ideo ratio objecti, ad quam proportionatur potentia passiva, est id quod est formale in objecto; et secundum hoc diversificantur potentiae et habitus, qui ex ratione objecti speciem recipiunt: et haec tria est invenire in objecto fidei. Cum enim fides non assentiat alicui, nisi propter veritatem primam credibilem, non habet quod sit actu credibile nisi ex veritate prima, sicut color est visibilis ex luce;PLE: *visibilis actu*. et ideo veritas prima est formale in objecto fidei, et a qua est tota ratio objecti. Quidquid autem est illud quod de Deo creditur, sicut est passum esse, vel si quidThe Vatican (111) manuscript and the edited versions read *vel aliquid*, against the Bruges, Brussels, Paris (841, 842), Vatican (190, 755) manuscripts. hujusmodi, hoc est materiale in objecto fidei; ea autem quae ex istis credibilibus consequuntur, sunt quasi accidentaliaThe edited versions read *accidentaliter*.. Et ideo concedendum est, quod objectum fidei, proprie loquendo, est veritas prima.***
+Respondeo dicendum, ad primam quaestionem, quod in objecto alicujus potentiae contingitThe Bruges and Vatican (190) manuscripts read *est*. tria considerare: scilicet id quod est formale in objecto, et id quod est materiale, et id quod est accidentale; sicut patet in objecto visus: quia formale in ipso est lumen, quod facit colorem visibilem actu; materiale vero ipse color, qui est potentia visibilis; accidentale vero, sicut quantitas et alia hujusmodi, quae colorem concomitanturThe edited versions read *comitantur*.. Et quia unumquodque agit secundum quod est in actu et per suam formam, objectum autem est activum in virtutibus passivis; ideo ratio objecti, ad quam proportionatur potentia passiva, est id quod est formale in objecto; et secundum hoc diversificantur potentiae et habitus, qui ex ratione objecti speciem recipiunt: et haec tria est invenire in objecto fidei. Cum enim fides non assentiat alicui, nisi propter veritatem primam credibilem, non habet quod sit actu credibile nisi ex veritate prima, sicut color est visibilis ex luce;PLE: *visibilis actu*. et ideo veritas prima est formale in objecto fidei, et a qua est tota ratio objecti. Quidquid autem est illud quod de Deo creditur, sicut est passum esse, vel si quidThe Vatican (111) manuscript and the edited versions read *vel aliquid*, against the Bruges, Brussels, Paris (841, 842), Vatican (190, 755) manuscripts. hujusmodi, hoc est materiale in objecto fidei; ea autem quae ex istis credibilibus consequuntur, sunt quasi accidentaliaThe edited versions read *accidentaliter*.. Et ideo concedendum est, quod objectum fidei, proprie loquendo, est veritas prima.  
 
 Ad primum ergo dicendum, quod Passio, et alia hujusmodi quae continentur in symbolo, se habent materialiter ad objectum fidei.  
 
@@ -92,7 +94,7 @@ Ad quintum dicendum, quod beatitudo creata consistit in operatione nostra ad Deu
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut dicit Augustinus, credere est cum assensione cogitare; assentire autem non potest aliquis nisi ei quod verum est; veritas autem non consistit nisi in complexione vel intellectuum vel vocum; etThe edited versions omit *et*. ideo objectum fidei oportet quod sit verum complexum. Et hoc patet per hoc quod quidam philosophi illam operationem intellectus qua componit et dividit, appellaverunt fidem.***
+Ad secundam quaestionem dicendum, quod, sicut dicit Augustinus, credere est cum assensione cogitare; assentire autem non potest aliquis nisi ei quod verum est; veritas autem non consistit nisi in complexione vel intellectuum vel vocum; etThe edited versions omit *et*. ideo objectum fidei oportet quod sit verum complexum. Et hoc patet per hoc quod quidam philosophi illam operationem intellectus qua componit et dividit, appellaverunt fidem.  
 
 Unde illi qui dixerunt, quod fidei objectum est incomplexum, propriam vocem ignoraverunt. Quod enim dicitur, credo Incarnationem, non potest intelligi in formandoThe Paris (842) manuscript reads *informando de conceptione*, the Piana and Antwerp editions and Pelster read *informando*. conceptionem Incarnationis: quia sic quilibet qui intelligit quid significatur per nomen, crederet Incarnationem. Unde sensus est: credo Incarnationem esse, vel fuisse. Patet ergo quod fidei inquantum est fides, convenit circa verum complexum esse:  
 
@@ -110,7 +112,7 @@ Ad quintum dicendum, quod sustinentium fidem esse circa verum complexum, quidam 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod fides innititur veritati primae; unde cum illa sit infallibilis, fidei non potest subesse falsum.***
+Ad tertiam quaestionem dicendum, quod fides innititur veritati primae; unde cum illa sit infallibilis, fidei non potest subesse falsum.  
 
 Ad primum ergo dicendum, quod contingens non potest esse objectum fidei nisi secundum quod stat sub divina praescientia, et secundum hoc habet necessitatem consequentiae, et sic cadit sub fide; unde sicut praescientia non potest falli, itaThe Bruges manuscript reads *sic*. nec fides.  
 
@@ -146,7 +148,7 @@ Praeterea, *fides gignit spem*: Glossa Matth. 1. Sed spes est de non visis, Roma
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod fides possit esse de scitis. DeumThe Vatican (190) manuscript reads *quia Deum*, the edited versions read *Deum enim*. esse, est creditum. Sed hoc est scitum, quia demonstrative probatum est. Ergo fides est de scitis.***
+Ulterius. Videtur quod fides possit esse de scitis. DeumThe Vatican (190) manuscript reads *quia Deum*, the edited versions read *Deum enim*. esse, est creditum. Sed hoc est scitum, quia demonstrative probatum est. Ergo fides est de scitis.  
 
 Praeterea, unum de generantibus scientiam est doctrina. Sed fides, quantum ad distinctionem credendorum, est per doctrinam, quia fides ex auditu est: Rom. 10. Ergo fides est de scitis.  
 
@@ -162,7 +164,7 @@ Praeterea, *Deum nemo vidit unquam*; Joan. 1:18. Sed fides proprie de Deo est. E
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ea de quibus est fides, sint ignota. Quia secundum Gregorium, apparentia non habent fidem, sed agnitionem. Sed ea quae non habent agnitionem, sunt ignota. Ergo ea quae fidem habent ignota sunt.***
+Ulterius. Videtur quod ea de quibus est fides, sint ignota. Quia secundum Gregorium, apparentia non habent fidem, sed agnitionem. Sed ea quae non habent agnitionem, sunt ignota. Ergo ea quae fidem habent ignota sunt.  
 
 Praeterea, 1 Corinth. 2:9: *oculus non vidit et auris non audivit, et in cor hominis non ascendit, quae praeparavit Deus diligentibus se*. Sed quaecumque cognoscuntur, in cor ascendunt. Ergo fides, quae est de praedictis, est de ignotis.  
 
@@ -176,7 +178,7 @@ Praeterea, infidelitas est ignorantia, ut patet 1 Tim. 1:13: *misericordiam cons
 
 Solutio 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod visio, proprie loquendo, est actus sensus visus, sed propter nobilitatem istius sensus translatum est nomen visionis ad actus aliarum potentiarum cognitivarum secundum similitudinem ad sensum visus.***
+Respondeo dicendum, ad primam quaestionem, quod visio, proprie loquendo, est actus sensus visus, sed propter nobilitatem istius sensus translatum est nomen visionis ad actus aliarum potentiarum cognitivarum secundum similitudinem ad sensum visus.  
 
 Potest ergo attendi similitudo quantum ad genus cognitionis tantum; et sic largo modo, etThe edited versions omit *et*. improprie omnis cognitio visio dicetur; et secundum hocThe Paris (842) manuscript reads *et sic*. fides est de visis utcumque, sicutThe Brussels manuscript reads *ut*, the Bruges manuscript adds *etiam*. Magister dicit, non quidem visu exteriori, sed interiori.  
 
@@ -198,7 +200,7 @@ Ad quintum dicendum, quod de eo quod est materiale in objecto fidei, scilicet In
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod fides, ut dictum est, comparatur ad aliquid dupliciter, scilicet per se et per accidens. Et quod per se pertinet ad fidem, pertinet ad eam semper et ubique; ideo quod pertinet ad fidem ratione hujus vel illius, non est fidei per se, sed per accidens. SicThe Vivès edition omits *sic*. ergo quod simpliciter humanum intellectum excedit ad Deum pertinens, nobis divinitus revelatum, per se ad fidem pertinet; quod autem excedit intellectum hujus vel illius, et non omnis hominis, non per se sed per accidens ad fidem pertinet.***
+Ad secundam quaestionem dicendum, quod fides, ut dictum est, comparatur ad aliquid dupliciter, scilicet per se et per accidens. Et quod per se pertinet ad fidem, pertinet ad eam semper et ubique; ideo quod pertinet ad fidem ratione hujus vel illius, non est fidei per se, sed per accidens. SicThe Vivès edition omits *sic*. ergo quod simpliciter humanum intellectum excedit ad Deum pertinens, nobis divinitus revelatum, per se ad fidem pertinet; quod autem excedit intellectum hujus vel illius, et non omnis hominis, non per se sed per accidens ad fidem pertinet.  
 
 Ea autem quae omnem humanum intellectum excedunt non possunt per demonstrationem probari: quia demonstratio in intellectu principiorum fundatur; et ideo hujusmodi non possunt esse scita, sed quaedam quae sunt praecedentia ad fidem, quorum non est fides nisi per accidens, inquantum scilicet excedunt intellectum hujusThe edited versions read *illius*. hominis, et non hominis simpliciter, possunt demonstrari et sciri; sicut hoc quod est Deum esse: quod quidem est creditum quantum ad eum cujus intellectus ad demonstrationem non attingit: quia fides, quantum in se est, ad omnia quae fidem concomitantur vel sequuntur vel praecedunt sufficienter inclinat.  
 
@@ -214,7 +216,7 @@ Ad quartum dicendum, quod argumenta quae cogunt ad fidem, sicut miracula, non pr
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod ad perfectam rationem cognitionis intellectivae tria requiruntur. Primo quod id quod cognoscitur, intellectui proponatur; secundo quod intellectus illisThe Bruges manuscript reads *his*. adhaereat; tertio quod ea videat. Ea ergo quae fidei sunt, intellectui proponuntur non quidem in seipsis, sed quibusdam verbis quae ad eorum expressionem non sufficiunt, et quibusdam similitudinibus ab eorum repraesentatione deficientibus; et ideoThe Piana and Antwerp editions omit *ideo*, the Vatican (190) manuscript omits *et*. dicuntur cognosci in speculo, et in aenigmate. Et propter hoc non videtur,PLE: *videntur*. proprie loquendo, sed tamen intellectus assentit eis: et propter hoc imperfecte cognoscuntur, nec omnino ignorantur.***
+Ad tertiam quaestionem dicendum, quod ad perfectam rationem cognitionis intellectivae tria requiruntur. Primo quod id quod cognoscitur, intellectui proponatur; secundo quod intellectus illisThe Bruges manuscript reads *his*. adhaereat; tertio quod ea videat. Ea ergo quae fidei sunt, intellectui proponuntur non quidem in seipsis, sed quibusdam verbis quae ad eorum expressionem non sufficiunt, et quibusdam similitudinibus ab eorum repraesentatione deficientibus; et ideoThe Piana and Antwerp editions omit *ideo*, the Vatican (190) manuscript omits *et*. dicuntur cognosci in speculo, et in aenigmate. Et propter hoc non videtur,PLE: *videntur*. proprie loquendo, sed tamen intellectus assentit eis: et propter hoc imperfecte cognoscuntur, nec omnino ignorantur.  
 
 Ad primum ergo dicendum, quod Gregorius loquitur de agnitione perfecta, quae visionem includit.  
 
@@ -230,7 +232,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non sit necessarium quod homo credat aliquid cujus non habetThe Bruges manuscript reads *habeat*. scientiam neque visionem, super naturalem rationem existens.***
+Ad tertium sic proceditur. Videtur quod non sit necessarium quod homo credat aliquid cujus non habetThe Bruges manuscript reads *habeat*. scientiam neque visionem, super naturalem rationem existens.  
 
 Nulli enim rei perfecte providetur, nisi sibi conferantur ea per quae potest in finem suum devenire. Sed humanae naturae in suiThe edited versions read *sua*. creatione sufficienter divina providentia providit. Ergo ei tribuit ea per quae possit in finem suum tendere; et ita videtur quod ratio naturalis sufficienter hominem in finem ordinet;The Bruges manuscript reads *ordinat*. et ita non oportet quod aliqua supra rationem credat.  
 
@@ -244,7 +246,7 @@ Praeterea, *fides est substantia sperandarum rerum*, Hebr. 11:1. Sed ea quae spe
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod credere his quae non videmus, non sit laudabile neque meritorium. Quia *qui cito credit levis est corde*, ut dicitur Eccli. 19:4. Sed qui credit his quae nullo modo videt, nimis cito credit. Ergo magis est vituperandus quam laudandus.***
+Ulterius. Videtur quod credere his quae non videmus, non sit laudabile neque meritorium. Quia *qui cito credit levis est corde*, ut dicitur Eccli. 19:4. Sed qui credit his quae nullo modo videt, nimis cito credit. Ergo magis est vituperandus quam laudandus.  
 
 Praeterea, abnegare rationem, quae est nobilissimum eorum quae in nobis sunt, est vituperabile. Sed qui credit ea quae non sunt rationi consona, rationem abnegat. Ergo est vituperabilis.  
 
@@ -256,7 +258,7 @@ Praeterea, omnis actus virtutis est meritorius et laudabilis, quantum est in se.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod ratio humana diminuat meritum fidei. Ratio enim sufficienter probans, totaliter meritum fidei evacuaret: quia, ut dicit Gregorius: *fides non habet meritum cui humana ratio praebet experimentum*. Ergo ratio aliqualiter persuadens, meritum fidei diminuit.***
+Ulterius. Videtur quod ratio humana diminuat meritum fidei. Ratio enim sufficienter probans, totaliter meritum fidei evacuaret: quia, ut dicit Gregorius: *fides non habet meritum cui humana ratio praebet experimentum*. Ergo ratio aliqualiter persuadens, meritum fidei diminuit.  
 
 Praeterea, illud quod inducit ad corruptionem fidei, diminuit meritum fidei. Sed ratiocinationesThe edited versions read *rationes*. et disputationes inducunt corruptionem fidei, ut dicit Averroes in 3The Bruges, Brussels, and Paris (841, 842) manuscripts read *4*. *Physic*., ex hoc quod homo audit alia, et ex hoc minus adhaeret illisThe edited versions read *his*. quae consuevit audire, et dubitare incipit. Ergo videtur quod ratio humana meritum fidei diminuat.  
 
@@ -268,7 +270,7 @@ Praeterea, quanto virtus est magis propinqua fini, tanto est magis meritoria. Se
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in fide sunt quaedam quae sunt supra rationem humanam simpliciter, de quibus essentialiter est fides; et quaedam quae sunt supra rationem humanam alicujus, quamvis non supra rationem cujuslibet hominis; et ad utraque necessarium fuit dari fidem.***
+Respondeo dicendum ad primam quaestionem, quod in fide sunt quaedam quae sunt supra rationem humanam simpliciter, de quibus essentialiter est fides; et quaedam quae sunt supra rationem humanam alicujus, quamvis non supra rationem cujuslibet hominis; et ad utraque necessarium fuit dari fidem.  
 
 Quia enim homini Deus providit finem qui est supra naturam hominis, scilicet plenam participationem suae beatitudinis; oportet autem eum qui in finem tendit, si libero arbitrio agat, cognoscere finem ex cujus consideratione dirigitur in his quae sunt ad finem; ideo oportuit ut homo alicujus rei cognitionem haberet quae rationem naturalemThe edited versions read *naturalem cognitionem*. ejus excedit: quae quidem cognitio homini datur per gratiam fidei. Sicut autem est in gratia perficiente affectum quod praesupponit naturam, quia eam perficit; ita et fidei substernitur naturalis cognitio, quam fides praesupponit, et ratio probare potest; sicut Deum esse, et Deum esse unum, incorporeum, intelligentem, et alia hujusmodi: et ad hoc etiam sufficienter fides inclinat, ut qui rationem ad hoc habere non potest, fide eis assentiat. Quod quidem necessarium fuit propter quinque, ut dicit Rabbi Moyses in prima parte, capit. 33.  
 
@@ -282,7 +284,7 @@ Ad tertium dicendum, quod ea quae sunt ad finem, debent proportionari fini: unde
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut Philosophus dicit 1 *Ethic*., laus proprie secundum respectum ad alterum quod dignius est attenditur; sicut videmus quod actus concupiscibilis laudatur inquantum ordinate se habet ad rationem; actus vero rationis inquantum ordinate se habet ad intellectum, quo dirigitur; et actus etiam supremarum potentiarum secundum quod convenienter se habent ad finem. Et propter hoc illa quae sunt optima, non laudantur, sed honorantur. Et quia virtus est dispositio perfectiThe Bruges manuscript reads *perfecta*. ad optimum, ut dicitur in 7 *Physic*.; ideo proprie actus virtutis laudabilis est. Nostra autem naturalis cognitio se habet ad divinam sicut ad superiorem; et ideo cum ratio nostra divinae consentit, actus laudabilis est, sicut cum irascibilis subditur rationi; et ideo credere veritati primae in his quae non videntur, laudabile est, etThe edited versions add *opus*. meritorium, et opus virtutis.***
+Ad secundam quaestionem dicendum, quod, sicut Philosophus dicit 1 *Ethic*., laus proprie secundum respectum ad alterum quod dignius est attenditur; sicut videmus quod actus concupiscibilis laudatur inquantum ordinate se habet ad rationem; actus vero rationis inquantum ordinate se habet ad intellectum, quo dirigitur; et actus etiam supremarum potentiarum secundum quod convenienter se habent ad finem. Et propter hoc illa quae sunt optima, non laudantur, sed honorantur. Et quia virtus est dispositio perfectiThe Bruges manuscript reads *perfecta*. ad optimum, ut dicitur in 7 *Physic*.; ideo proprie actus virtutis laudabilis est. Nostra autem naturalis cognitio se habet ad divinam sicut ad superiorem; et ideo cum ratio nostra divinae consentit, actus laudabilis est, sicut cum irascibilis subditur rationi; et ideo credere veritati primae in his quae non videntur, laudabile est, etThe edited versions add *opus*. meritorium, et opus virtutis.  
 
 Ad primum ergo dicendum, quod credere homini absque ratione probabili est nimis cito credere: quia cognitio unius hominis non est naturaliter ordinata ad cognitionem alterius, ut per ipsam reguletur. Sed hoc modo ordinata est ad veritatem primam.  
 
@@ -292,7 +294,7 @@ Ad tertium dicendum, quod discretionem credendorum habet homo per lumen fidei, s
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod quantitas meriti ex duobus potest attendi; scilicet ex parte operis et ex parte operantis. Opus quidem oportet quodThe edited versions read *ut*. sit virtuosum. Et quia virtus est circa difficile et bonum, oportet quod habeat difficultatem et bonitatem quantum in se est; et ideo quod addit ad alterum eorum addit ad meritum, quantum est ex parte operis. Ex parte vero operantis requiritur voluntas; unde quanto magis quis voluntarieThe Vivès edition reads *voluntate*. facit, tanto magis meretur; et semper quantitas meriti attenditur secundum radicem caritatis. Haec autem quantitas est quasi formale respectu alterius; unde secundum eam certius est judicium de quantitate meriti.***
+Ad tertiam quaestionem dicendum, quod quantitas meriti ex duobus potest attendi; scilicet ex parte operis et ex parte operantis. Opus quidem oportet quodThe edited versions read *ut*. sit virtuosum. Et quia virtus est circa difficile et bonum, oportet quod habeat difficultatem et bonitatem quantum in se est; et ideo quod addit ad alterum eorum addit ad meritum, quantum est ex parte operis. Ex parte vero operantis requiritur voluntas; unde quanto magis quis voluntarieThe Vivès edition reads *voluntate*. facit, tanto magis meretur; et semper quantitas meriti attenditur secundum radicem caritatis. Haec autem quantitas est quasi formale respectu alterius; unde secundum eam certius est judicium de quantitate meriti.  
 
 Ratio ergoThe Bruges and Paris (841) manuscripts read *autem*. naturalis dupliciterThe Bruges manuscript reads *duplex*. potest induci in his quae fidei sunt: vel cum fide,The Brussels manuscript reads *vel pro fide*, the edited versions read *vel cum ratio inducitur secundum fidem*. vel contra fidem. Ratio autem inducta contra fidem addit adThe edited versions omit *ad*. difficultatem actus quantum in se est; unde manente eadem voluntate credendi magis meretur qui creditThe Bruges manuscript adds *illud*. ad quod videt multas rationes naturales in contrarium, quam qui eas non videt: sicut qui cum tentatur vehementius de luxuria, si resistatThe edited versions read *resistit*. aequali voluntate, magisThe edited versions read *plus*. meretur. Ratio autem quae secundum fidem inducitur non facit videri illudThe edited versions read *id*. quod creditur; et ideo difficultatem operis, quantum in se est, non minuit;The edited versions read *diminuit*. sed quantum in se est, facit voluntatem magis promptam ad credendum; et ex ista parte potest augereThe Bruges manuscript reads *augeri*. meritum fidei, sicut habitus virtutis qui inclinat ad actum in se difficilem, quemThe Bruges manuscript reads *quam*. facilem reddit operanti. Unde patet quod tam causa rationalisPLE: *ratio naturalis*.The Bruges and Paris (841) manuscripts read *voluntas*, the Brussels manuscript reads *ratio*. pro fide inducta, quam contra fidem, quantum in se est, meritum fidei auget, quamvis possit etiam diminuere utrumque ex defectu credentis.  
 
@@ -304,7 +306,7 @@ Ad tertium dicendum, quod ratio humana adducta non facit ut homo nonThe Brussels
 
 Expositio textus  
 
-****Quae non proprie dicitur fides, sed veritas*. Contra. Hic dividit fidem contra veritatem. Ergo fides veritatem non habet. EtThe edited versions omit *et*. dicendum, quod hic accipit veritatem manifestam quae fidei succedit.***
+*Quae non proprie dicitur fides, sed veritas*. Contra. Hic dividit fidem contra veritatem. Ergo fides veritatem non habet. EtThe edited versions omit *et*. dicendum, quod hic accipit veritatem manifestam quae fidei succedit.  
 
 *Ex fide verborum etc*.The edited versions omit *etc*. Contra. Nunc etiam non credimus tantum verbis: quia cum apud diversas gentes sint diversa verba, esset diversa fides. Et dicendum, quod non dicitur esse fides verborum ut eorum in quae credatur; sed quia ea quae credenda sunt, nobis per verba proponuntur, insufficienter nobis res creditas ostendentia.  
 

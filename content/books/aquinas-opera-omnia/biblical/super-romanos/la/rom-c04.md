@@ -1,5 +1,7 @@
 # C. 3 - Faith and the Purpose of the Law
 
+***Fides et Finis Legis***
+
 ***Lectio 1***
 
 ***Quid sit amplius Judaeo***
@@ -178,7 +180,7 @@ Lectio 2
 
 ***Per legem cognitio peccati***
 
-***^3:9^ Quid ergo? praecellimus eos? Nequaquam. Causati enim sumus Judaeos et Graecos omnes sub peccato esse, [n. 271]***
+^3:9^ Quid ergo? praecellimus eos? Nequaquam. Causati enim sumus Judaeos et Graecos omnes sub peccato esse, [n. 271]  
 
 > ^3:10^ sicut scriptum est: Quia *non est justus quisquam*: [n. 276]
 
@@ -366,7 +368,7 @@ Lectio 3
 
 ***Christus redemptio pro omnes***
 
-***^3:21^ Nunc autem sine lege justitia Dei manifestata est: testificata a lege et prophetis. [n. 299]***
+^3:21^ Nunc autem sine lege justitia Dei manifestata est: testificata a lege et prophetis. [n. 299]  
 
 > ^3:22^ Justitia autem Dei per fidem Jesu Christi in omnes et super omnes qui credunt in eum: non enim est distinctio: [n. 304]
 
@@ -482,7 +484,7 @@ Lectio 4
 
 ***Lex fidei***
 
-***^3:27^ Ubi est ergo gloriatio tua? Exclusa est. Per quam legem? Factorum? Non: sed per legem fidei. [n. 313]***
+^3:27^ Ubi est ergo gloriatio tua? Exclusa est. Per quam legem? Factorum? Non: sed per legem fidei. [n. 313]  
 
 > ^3:28^ Arbitramur enim justificari hominem per fidem sine operibus legis. [n. 317]
 

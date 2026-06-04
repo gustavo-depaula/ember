@@ -1,5 +1,7 @@
 # Chapter 19
 
+***Capitula libri Ethicorum***
+
 ***Initia capitulorum libri 1***
 
 ***Omnis ars et omnis doctrina.***

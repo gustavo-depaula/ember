@@ -1,6 +1,8 @@
 # C. 15 - Jeremiah’s prayer continued
 
-***^15:1^ Et dixit Dominus ad me: si steterit Moyses, et Samuel coram me, non est anima mea ad populum istum. Ejice illos a facie mea, et egrediantur.***
+***Lectio 1***
+
+^15:1^ Et dixit Dominus ad me: si steterit Moyses, et Samuel coram me, non est anima mea ad populum istum. Ejice illos a facie mea, et egrediantur.  
 
 > ^15:2^ Quod si dixerint ad te, quo egrediemur? dices ad eos: haec dicit Dominus: qui ad mortem, ad mortem; et qui ad gladium, ad gladium; et qui ad famem, ad famem; et qui ad captivitatem, ad captivitatem.
 
@@ -50,7 +52,7 @@ Et misericordiae quantum ad captivos: ***et dabo eos in fervorem***, idest in fe
 
 Lectio 2  
 
-***^15:5^ Quis enim miserebitur tui, Jerusalem; aut quis contristabitur pro te; aut quis ibit ad rogandum pro pace tua?***
+^15:5^ Quis enim miserebitur tui, Jerusalem; aut quis contristabitur pro te; aut quis ibit ad rogandum pro pace tua?  
 
 > ^15:6^ Tu dereliquisti me, dicit Dominus, retrorsum abiisti. Et extendam manum meam super te, et interficiam te. Laboravi rogans.
 
@@ -86,7 +88,7 @@ Secundo comminatur poenam, ***et residuo***, scilicet a praedictis flagellis. De
 
 Lectio 3  
 
-***^15:10^ Vae mihi, mater mea. Quare genuisti me virum rixae, virum discordiae in universa terra? Non foeneravi nec foeneravit mihi quisquam. Omnes maledicunt mihi.***
+^15:10^ Vae mihi, mater mea. Quare genuisti me virum rixae, virum discordiae in universa terra? Non foeneravi nec foeneravit mihi quisquam. Omnes maledicunt mihi.  
 
 > ^15:11^ Dicit Dominus: si non reliquiae tuae in bonum, si non occurri tibi in tempore afflictionis, et in tempore tribulationis adversus inimicum.
 
@@ -116,7 +118,7 @@ Tertio assignat causam: ***quia ignis succensus est***. Deuter. 32: *ignis succe
 
 Lectio 4  
 
-***^15:15^ Tu scis, Domine, recordare mei, et visita me, et tuere me ab his qui persequuntur me. Noli in patientia tua suscipere me. Scito quoniam sustinui pro te opprobrium.***
+^15:15^ Tu scis, Domine, recordare mei, et visita me, et tuere me ab his qui persequuntur me. Noli in patientia tua suscipere me. Scito quoniam sustinui pro te opprobrium.  
 
 > ^15:16^ Inventi sunt sermones tui, et comedi eos; et factum est mihi verbum tuum in gaudium, et in laetitiam cordis mei: quoniam invocatum est nomen tuum super me, Domine Deus exercituum.
 
@@ -144,7 +146,7 @@ Tertio miratur inflicti doloris aculeum, ponens dolorem: ***quare factus est dol
 
 Lectio 5  
 
-***^15:19^ Propter hoc haec dicit Dominus: si converteris, convertam te, et ante faciem meam stabis: et si separaveris pretiosum a vili, quasi os meum eris. Convertentur ipsi ad te, et tu non converteris ad eos.***
+^15:19^ Propter hoc haec dicit Dominus: si converteris, convertam te, et ante faciem meam stabis: et si separaveris pretiosum a vili, quasi os meum eris. Convertentur ipsi ad te, et tu non converteris ad eos.  
 
 > ^15:20^ Et dabo te populo huic in murum aereum fortem, et bellabunt adversum te, et non praevalebunt: quia ego tecum sum, ut salvem te, et eruam te, dicit Dominus.
 
@@ -168,4 +170,4 @@ Tertio promittit liberationem, ***et liberabo***. Isa. 43: *noli timere, quia re
 
 Collationes  
 
-***Notandum, quod sancti ***gloriantur*** in bono virtutis. In tribulationum passione. Rom. 5: *non solum autem, sed et gloriamur in tribulationibus*. In proximorum conversatione. 2 Corinth. 7: *multa mihi fiducia est apud vos, multa gloriatio pro vobis*. In conscientiae puritate. 2 Cor. 1: *gloria nostra haec est, testimonium conscientiae nostrae*. Item gloriantur sancti in Deo, in divina dilectione ostensa per passionem. Galat. ult.: *mihi absit gloriari nisi in cruce Domini nostri Jesu Christi*. In divina cognitione. Supra 9: ***in hoc glorietur, qui gloriatur, scire, et nosse me***. In divina imitatione. Eccli. 23: *magna gloria est sequi Dominum; longitudo enim dierum assumetur ab eo*.***
+Notandum, quod sancti ***gloriantur*** in bono virtutis. In tribulationum passione. Rom. 5: *non solum autem, sed et gloriamur in tribulationibus*. In proximorum conversatione. 2 Corinth. 7: *multa mihi fiducia est apud vos, multa gloriatio pro vobis*. In conscientiae puritate. 2 Cor. 1: *gloria nostra haec est, testimonium conscientiae nostrae*. Item gloriantur sancti in Deo, in divina dilectione ostensa per passionem. Galat. ult.: *mihi absit gloriari nisi in cruce Domini nostri Jesu Christi*. In divina cognitione. Supra 9: ***in hoc glorietur, qui gloriatur, scire, et nosse me***. In divina imitatione. Eccli. 23: *magna gloria est sequi Dominum; longitudo enim dierum assumetur ab eo*.

@@ -1,5 +1,7 @@
 # Proposition 2
 
+19. Omne esse superius aut est superius aeternitate et ante ipsam, aut est cum aeternitate, aut est post aeternitatem et supra tempus.  
+
 > 20. Esse vero, quod est ante aeternitatem, est causa prima, quoniam est causa ei.
 
 > 21. Sed esse, quod est cum aeternitate, est intelligentia, quoniam est esse secundum, secundum habitudinem unam, unde non patitur neque destruitur.

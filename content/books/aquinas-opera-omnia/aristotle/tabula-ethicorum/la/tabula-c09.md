@@ -1,8 +1,10 @@
 # Chapter 9
 
+***Vox 1***
+
 ***Idronomones***
 
-***Quod ydronomones gaudent uincentes in sentenciis suis et tristantur si sentencie ipsorum iudicantur infirme.***
+Quod ydronomones gaudent uincentes in sentenciis suis et tristantur si sentencie ipsorum iudicantur infirme.  
 
 Vox 2  
 
@@ -30,7 +32,7 @@ Vox 5
 
 ***Ignorancia***
 
-***Quod omne quod fit per ignoranciam est non uoluntarium, set non necessario inuoluntarium.***
+Quod omne quod fit per ignoranciam est non uoluntarium, set non necessario inuoluntarium.  
 
 Quod qui operatur per ignoranciam quodcumque nichil tristatur in operacione.  
 
@@ -68,7 +70,7 @@ Vox 6
 
 ***Illiberalitas***
 
-***Quod illiberalitas semper copulatur illis qui student ad pecunias plus quam oportet.***
+Quod illiberalitas semper copulatur illis qui student ad pecunias plus quam oportet.  
 
 Quod illiberalitas deficit in dando, in accipiendo autem superhabundat.  
 
@@ -188,7 +190,7 @@ Vox 10
 
 ***Intemperancia***
 
-***Quod intemperancia magis est uoluntarium quam timor, quia intemperancia delectabilis, timor autem tristabilis.***
+Quod intemperancia magis est uoluntarium quam timor, quia intemperancia delectabilis, timor autem tristabilis.  
 
 Quod intemperancia magis est exprobrabilis.  
 
@@ -198,7 +200,7 @@ Vox 11
 
 ***Intellectus***
 
-***Quod intellectus est principiorum quorum non est ars neque sciencia neque prudencia, quia sciencia est demonstrabilium, ars uero contingencium et prudencia.***
+Quod intellectus est principiorum quorum non est ars neque sciencia neque prudencia, quia sciencia est demonstrabilium, ars uero contingencium et prudencia.  
 
 Quod intellectus est extremorum terminorum et primorum.  
 
@@ -238,7 +240,7 @@ Vox 16
 
 ***Iactator***
 
-***Quod iactator est simulatiuus gloriosorum et non existencium et maiorum quam existunt.***
+Quod iactator est simulatiuus gloriosorum et non existencium et maiorum quam existunt.  
 
 Quod iactatorum quidam fingunt maiora quam sint nullius gracia, alii causa honoris et glorie et non est multum uituperabilis talis, alii causa argenti et hii deformiores.  
 
@@ -306,7 +308,7 @@ Vox 19
 
 ***Iustus***
 
-***Quod iustus et temperatus dicuntur non qui iusta operatur, set qui sic operatur ut iustus et temperatus.***
+Quod iustus et temperatus dicuntur non qui iusta operatur, set qui sic operatur ut iustus et temperatus.  
 
 Quod non est iustus qui non gaudet iustis operacionibus.  
 
@@ -364,7 +366,7 @@ Vox 21
 
 ***Iustum naturale et legale***
 
-***Quod iusti politici hoc quidem naturale hoc autem legale; et est naturale quod ad omnes et ubique eandem habet potenciam et non ex hoc quod sic uideatur uel non uideatur; legale autem est quod differenciam non habet nisi ex posicione legis sicut exemplificat.***
+Quod iusti politici hoc quidem naturale hoc autem legale; et est naturale quod ad omnes et ubique eandem habet potenciam et non ex hoc quod sic uideatur uel non uideatur; legale autem est quod differenciam non habet nisi ex posicione legis sicut exemplificat.  
 
 Quod iusta legalia sunt que secundum composicionem legis sunt statuta et secundum conferens, sunt similia mensuris que non sunt ubique equales; similiter iusta que non sunt naturalia set humana sunt diuersa apud diuersos, set aliqua est optima.  
 
@@ -382,7 +384,7 @@ Vox 22
 
 ***Iniusticia***
 
-***Quod quedam iniusticia est specialis preter iniusticiam generalem, et hanc manifestat in pluribus uiciis.***
+Quod quedam iniusticia est specialis preter iniusticiam generalem, et hanc manifestat in pluribus uiciis.  
 
 Quod iniusticia inequalis et auari qui est in plus accipiendo se habet sicut pars ad totum.  
 
@@ -414,7 +416,7 @@ Vox 24
 
 ***Iniustum***
 
-***Quod iniustum est preter proporcionale dupliciter, scilicet in plus et in minus, et hoc eciam accidit in operibus distributiue iusticie; qui enim iniustum facit plus habet, qui uero patitur minus boni.***
+Quod iniustum est preter proporcionale dupliciter, scilicet in plus et in minus, et hoc eciam accidit in operibus distributiue iusticie; qui enim iniustum facit plus habet, qui uero patitur minus boni.  
 
 Quod non potest aliquis sibi ipsi facere iniustum, quia uolens pacietur iniustum; et probat in particularibus iniustis, quia nullus mechatur cum uxore sua, set cum alia, neque suffodit sui ipsius murum; de racione enim eius est quod preter uoluntatem paciatur.  
 
@@ -454,7 +456,7 @@ Vox 25
 
 ***Iniustum***
 
-***Quod iniustum facere et iniustum pati ambo quidem sunt praua, quia utrumque recedit a medio in quo est bonum iusticie, unum per plus et alterum per minus.***
+Quod iniustum facere et iniustum pati ambo quidem sunt praua, quia utrumque recedit a medio in quo est bonum iusticie, unum per plus et alterum per minus.  
 
 Quod iniustum facere est deterius quam iniustum pati, quia semper est cum malicia et uituperabile, uel perfecta uel proxime; set iniustum pati sine malicia et iniusticia.  
 
@@ -482,7 +484,7 @@ Vox 27
 
 ***Ira***
 
-***Quod qui ex ira consequitur racionem aliqualiter, concupiscencia autem non; igitur est turpior.***
+Quod qui ex ira consequitur racionem aliqualiter, concupiscencia autem non; igitur est turpior.  
 
 Quod ira est naturalius superfluis concupiscenciis.  
 
@@ -520,7 +522,7 @@ Vox 29
 
 ***Iracundi***
 
-***Quod iracundi qui uelociter irascuntur et in quibus et quibus non oportet et magis quam oportet hoc habent optimum quod quiescunt uelociter; non enim retinent iram, set reddunt.***
+Quod iracundi qui uelociter irascuntur et in quibus et quibus non oportet et magis quam oportet hoc habent optimum quod quiescunt uelociter; non enim retinent iram, set reddunt.  
 
 Quod iracundus non est insidiator.  
 
@@ -528,7 +530,7 @@ Vox 30
 
 ***Irascendum***
 
-***Quod non facile determinare quibus et quantum sit irascendum et usquequo recte facit uel peccat.***
+Quod non facile determinare quibus et quantum sit irascendum et usquequo recte facit uel peccat.  
 
 Vox 31  
 
@@ -548,13 +550,13 @@ Vox 33
 
 ***Irundo***
 
-***Quod una irundo non facit uer nec una dies; sic nec una uirtus facit felicem nec paucum tempus.***
+Quod una irundo non facit uer nec una dies; sic nec una uirtus facit felicem nec paucum tempus.  
 
 Vox 34  
 
 ***Inuoluntarium***
 
-***De inuoluntario mixto ex uiolento et uoluntario, exemplum in tyranno et nauta qui res suas proicit in mare tempore tempestatis; mixte enim uidentur tales operaciones et magis uoluntariis assimulantur.***
+De inuoluntario mixto ex uiolento et uoluntario, exemplum in tyranno et nauta qui res suas proicit in mare tempore tempestatis; mixte enim uidentur tales operaciones et magis uoluntariis assimulantur.  
 
 Quod illa que sunt secundum se ipsa inuoluntaria et tamen principium eorum est in operante, sunt uoluntarie nunc, sicut qui habet res suas in naue tempore tempestatis.  
 
@@ -592,13 +594,13 @@ Vox 38
 
 ***Infirmitas***
 
-***Quod infirmitates corporis sunt uoluntarie quando causa est uoluntaria, sicut qui oculos amisit increpamus.***
+Quod infirmitates corporis sunt uoluntarie quando causa est uoluntaria, sicut qui oculos amisit increpamus.  
 
 Vox 39  
 
 ***Inuerecundus***
 
-***Quod inuerecundus dicitur fortis secundum methaphoram; habet enim aliquid simile forti, quia uterque inpauidus.***
+Quod inuerecundus dicitur fortis secundum methaphoram; habet enim aliquid simile forti, quia uterque inpauidus.  
 
 Vox 40  
 
@@ -610,7 +612,7 @@ Vox 41
 
 ***Infirmus***
 
-***Quod sicut infirmus qui consilium medici audit et nichil facit non habebit bene in corpore, sic philosophantes de uirtute et nichil operantes nunquam se bene habebunt in anima.***
+Quod sicut infirmus qui consilium medici audit et nichil facit non habebit bene in corpore, sic philosophantes de uirtute et nichil operantes nunquam se bene habebunt in anima.  
 
 Vox 42  
 
@@ -634,7 +636,7 @@ Vox 45
 
 ***Iuuenes***
 
-***Quod iuuenes sunt amatiui, quia propter delectacionem et passionem quam persequntur multum amatiue uiuunt.***
+Quod iuuenes sunt amatiui, quia propter delectacionem et passionem quam persequntur multum amatiue uiuunt.  
 
 Quod iuuenes cito amant et cito quiescunt ab amare et cadunt eadem die multociens ab amacione.  
 
@@ -646,7 +648,7 @@ Vox 46
 
 ***Infortunatos***
 
-***Quod ad infortunatos debet amicus ire prompte non uocatus ut eis bene faciat, et maxime hiis qui sunt in necessitate et non dignificantibus, id est qui non exigunt; ambobus enim melius et delectabilius dum uni subuenitur in necessitate et alius facit opus uirtutis.***
+Quod ad infortunatos debet amicus ire prompte non uocatus ut eis bene faciat, et maxime hiis qui sunt in necessitate et non dignificantibus, id est qui non exigunt; ambobus enim melius et delectabilius dum uni subuenitur in necessitate et alius facit opus uirtutis.  
 
 Vox 47  
 

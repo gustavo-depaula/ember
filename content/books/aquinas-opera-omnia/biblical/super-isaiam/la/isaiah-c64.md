@@ -1,5 +1,7 @@
 # Chapter 62
 
+^62:1^ Propter Sion non tacebo et propter Jerusalem non quiescam, donec egrediatur ut splendor justus ejus et salvator ejus ut lampas accendatur.  
+
 > ^62:2^ Et videbunt gentes justum tuum et cuncti reges inclytum tuum, et vocabitur tibi nomen novum quod os Domini nominavit;
 
 > ^62:3^ et eris corona gloriæ in manu Domini et diadema regni in manu Dei tui.

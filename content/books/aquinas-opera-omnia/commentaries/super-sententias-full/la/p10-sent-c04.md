@@ -1,6 +1,6 @@
 # D. 46 - Divine justice and mercy
 
-***Postquam determinavit Magister de receptaculis animarum in quibus puniuntur vel praemiantur ante resurrectionem communem et judicium generale, et de suffragiis quibus juvamus mortuos, vel juvamur ab eis; hic determinat de divina justitia et misericordia, quibus praedicta omnia dispensantur.***
+Postquam determinavit Magister de receptaculis animarum in quibus puniuntur vel praemiantur ante resurrectionem communem et judicium generale, et de suffragiis quibus juvamus mortuos, vel juvamur ab eis; hic determinat de divina justitia et misericordia, quibus praedicta omnia dispensantur.  
 
 Dividitur autem in partes duas: in prima determinat de divina justitia et misericordia secundum operationem ad poenam damnatorum; in secunda determinat de eis in generali, ibi: *sed quomodo justitiam Dei et pietatem, idest misericordiam, supra Cassiodorus duas esse res dixit?*  
 
@@ -40,7 +40,7 @@ primo an justitia Deo debeat attribui;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod justitia Deo attribuenda non sit. Quia, secundum Philosophum in 10 *Ethic*., ridiculum est laudare deos secundum aliquam virtutem moralem, vel actiones virtutum moralium eis attribuere. Sed justitia est virtus moralis. Ergo Deo attribui non potest.***
+Ad primum sic proceditur. Videtur quod justitia Deo attribuenda non sit. Quia, secundum Philosophum in 10 *Ethic*., ridiculum est laudare deos secundum aliquam virtutem moralem, vel actiones virtutum moralium eis attribuere. Sed justitia est virtus moralis. Ergo Deo attribui non potest.  
 
 Praeterea, justitia contra temperantiam dividitur. Sed temperantiam non attribuimus Deo. Ergo nec justitiam ei attribuere debemus.  
 
@@ -54,7 +54,7 @@ Praeterea, omne quod est potissimum, est Deo attribuendum. Sed secundum Philosop
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in Deo secundum eamdem rationem dicatur bonitas et justitia. Quia justitia est universaliter omnis virtus, ut patet per Philosophum in 5 *Ethic*. Sed virtus uniuscujusque rei est bonitas ipsius; quia virtus est quae bonum habentem facit, et opus ejus bonum reddit, ut patet in 2 *Ethic*. Ergo secundum eamdem rationem dicitur justus et bonus.***
+Ulterius. Videtur quod in Deo secundum eamdem rationem dicatur bonitas et justitia. Quia justitia est universaliter omnis virtus, ut patet per Philosophum in 5 *Ethic*. Sed virtus uniuscujusque rei est bonitas ipsius; quia virtus est quae bonum habentem facit, et opus ejus bonum reddit, ut patet in 2 *Ethic*. Ergo secundum eamdem rationem dicitur justus et bonus.  
 
 Praeterea, Dionysius dicit quod justitia laudatur in Deo, inquantum omnibus secundum dignitatem distribuit. Sed distribuere omnibus, ad rationem bonitatis pertinet, quia totius communicationis divina bonitas causa est. Ergo justitia et bonitas dicuntur in Deo secundum eamdem rationem.  
 
@@ -66,7 +66,7 @@ Praeterea, generis et speciei non est omnino eadem ratio. Sed bonitas et justiti
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non sit eadem ratio in Deo justitiae et veritatis. Quia ea quae in nobis secundum speciem differunt, in Deo differunt secundum rationem. Sed nobis ponitur veritas alia virtus a justitia specie differens, ut patet in 4 *Ethic*. Ergo et in Deo secundum aliam rationem dicitur justitia et veritas.***
+Ulterius. Videtur quod non sit eadem ratio in Deo justitiae et veritatis. Quia ea quae in nobis secundum speciem differunt, in Deo differunt secundum rationem. Sed nobis ponitur veritas alia virtus a justitia specie differens, ut patet in 4 *Ethic*. Ergo et in Deo secundum aliam rationem dicitur justitia et veritas.  
 
 Praeterea, generis et speciei non est omnino eadem ratio. Sed veritas, secundum Tullium, est species justitiae. Ergo veritatis et justitiae non est eadem ratio.  
 
@@ -78,7 +78,7 @@ Praeterea, justitia consistit in redditione debiti. Sed Deus non est debitor nob
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod justitia proprie dicta aequalitatem constituit in acceptationibus et dationibus, ut patet per Philosophum in 5 *Ethic*.***
+Respondeo dicendum ad primam quaestionem, quod justitia proprie dicta aequalitatem constituit in acceptationibus et dationibus, ut patet per Philosophum in 5 *Ethic*.  
 
 Hoc autem contingit dupliciter. Uno modo secundum quod constituitur aequalitas inter dantem et recipientem, ut scilicet accipiens tantum accipiat a dante quantum accipere debet; et in hoc consistit justitia commutativa, utpote quae medium ponit in emptionibus et venditionibus, et omnibus retributionibus. Alio modo secundum quod constituitur aequalitas inter duos recipientes, secundum quod contingit ex hoc quod uterque aequaliter recipit pro meritis; et in hoc consistit justitia distributiva.  
 
@@ -98,7 +98,7 @@ Ad quartum dicendum, quod inter dominum et servum non potest esse justitia commu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod justitia praesupponit rationem bonitatis in Deo. Bonitas enim importat in Deo rationem finis, in quo est plenissima perfectio; finis autem movet efficientem ad agendum; unde et bonitas Dei movet quodam modo ipsum ad operandum, non quidem ut ipse bonitatem acquirat, sed ut bonitatem aliis communicet. Ut enim, in 2 Lib., dist. 1, quaest. 1, art. 1, in corp., dictum est, Deus non agit propter appetitum finis, sed propter amorem finis, volens communicare bonitatem suam, quantum possibile est et decens secundum ejus providentiam; et ideo sicut finis in omnibus operabilibus est primum principium, ita divina bonitas est primum principium communicationis totius, qua Deus perfectiones creaturis largitur. Sed justitia determinat quemdam modum in istis communicationibus, inquantum scilicet communicando aequalitatem servat. Et ideo patet quod bonitas et justitia secundum rationem dupliciter differunt. Primo, quia bonitas pertinet ad ipsam perfectionem naturae divinae, secundum quam habet rationem finis; sed justitia pertinet ad ipsum communicationis actum. Secundo, quia bonitas etsi respiciat communicationem ut principium, respicit tamen communicationem in communi, non determinans aliquem specialem modum; sed justitia determinat in ea specialem modum, scilicet aequalitatis. Et has duas differentias Boetius tangit in Lib. *de Hebdom*., dicens quod bonum respicit essentiam, sed justum actum; et iterum quod bonum generale est, et justum speciale.***
+Ad secundam quaestionem dicendum, quod justitia praesupponit rationem bonitatis in Deo. Bonitas enim importat in Deo rationem finis, in quo est plenissima perfectio; finis autem movet efficientem ad agendum; unde et bonitas Dei movet quodam modo ipsum ad operandum, non quidem ut ipse bonitatem acquirat, sed ut bonitatem aliis communicet. Ut enim, in 2 Lib., dist. 1, quaest. 1, art. 1, in corp., dictum est, Deus non agit propter appetitum finis, sed propter amorem finis, volens communicare bonitatem suam, quantum possibile est et decens secundum ejus providentiam; et ideo sicut finis in omnibus operabilibus est primum principium, ita divina bonitas est primum principium communicationis totius, qua Deus perfectiones creaturis largitur. Sed justitia determinat quemdam modum in istis communicationibus, inquantum scilicet communicando aequalitatem servat. Et ideo patet quod bonitas et justitia secundum rationem dupliciter differunt. Primo, quia bonitas pertinet ad ipsam perfectionem naturae divinae, secundum quam habet rationem finis; sed justitia pertinet ad ipsum communicationis actum. Secundo, quia bonitas etsi respiciat communicationem ut principium, respicit tamen communicationem in communi, non determinans aliquem specialem modum; sed justitia determinat in ea specialem modum, scilicet aequalitatis. Et has duas differentias Boetius tangit in Lib. *de Hebdom*., dicens quod bonum respicit essentiam, sed justum actum; et iterum quod bonum generale est, et justum speciale.  
 
 Ad primum ergo dicendum, quod quamvis virtus faciat bonum habentem, et opus reddat bonum; non tamen est eadem ratio bonitatis et virtutis; quia virtus dicitur secundum quod est principium actionis, et tenet se ex parte causae efficientis; sed bonum magis respicit rationem finis. Sed quia effectus debet esse fini proportionatus, et ex hoc efficiens bonitatem sortitur, et actus ejus; ideo virtus, quae hanc proportionem importat cum sit dispositio perfecti ad optimum, ut dicitur in 7 *Phys*., dicitur facere bonum agentem et actum. Et similiter etiam justitia, sive accipiatur ut virtus particularis, sive prout est idem quod omnis virtus, se tenet ex parte efficientis; tamen secundum quod virtus omnis est justitia, etsi subjecto sit idem justitia et virtus, non tamen sunt idem ratione, ut in 5 *Ethic*. dicitur. Unde nullo modo sequitur quod justitia et bonitas sint ejusdem rationis.  
 
@@ -108,7 +108,7 @@ Ad tertium dicendum, quod Deus unicuique creaturae quam producit in esse, aliqua
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod omnis aequalitas per actionem aliquam constituta requirit aliquam regulam secundum quam adaequatio fiat; unde cum justitia consistat in hoc quod aequalitatem per suam actionem constituat in dationibus et acceptionibus; oportet omnem justitiam aliquam regulam habere secundum quam adaequatio fiat. Regulae autem justitiae sunt rationes in mente constitutae, secundum quas homo justus aequalitatem constituit; et ideo, quando ejus actiones illis rationibus concordant, dicitur justitiam servare; quando autem discordant, dicitur injuste agere. Et quia veritatis ratio consistit in adaequatione rerum ad intellectum; inde est quod nomen veritatis transfertur ad significandum adaequationem operum justitiae ad rationes justitiae; et haec est veritas quam dicimus justitiae veritatem; et secundum hoc ipsa justitia idem quod veritas est; sed tamen justitia dicitur secundum aequalitatem exterius constitutam; sed veritas dicitur secundum commensurationem exterioris aequalitatis ad rationes quae sunt in mente; et secundum hoc veritas et justitia eodem intellectu in Deo accipiuntur.***
+Ad tertiam quaestionem dicendum, quod omnis aequalitas per actionem aliquam constituta requirit aliquam regulam secundum quam adaequatio fiat; unde cum justitia consistat in hoc quod aequalitatem per suam actionem constituat in dationibus et acceptionibus; oportet omnem justitiam aliquam regulam habere secundum quam adaequatio fiat. Regulae autem justitiae sunt rationes in mente constitutae, secundum quas homo justus aequalitatem constituit; et ideo, quando ejus actiones illis rationibus concordant, dicitur justitiam servare; quando autem discordant, dicitur injuste agere. Et quia veritatis ratio consistit in adaequatione rerum ad intellectum; inde est quod nomen veritatis transfertur ad significandum adaequationem operum justitiae ad rationes justitiae; et haec est veritas quam dicimus justitiae veritatem; et secundum hoc ipsa justitia idem quod veritas est; sed tamen justitia dicitur secundum aequalitatem exterius constitutam; sed veritas dicitur secundum commensurationem exterioris aequalitatis ad rationes quae sunt in mente; et secundum hoc veritas et justitia eodem intellectu in Deo accipiuntur.  
 
 Ad primum ergo dicendum, quod actiones exteriores comparantur ad interiorem dispositionem mentis dupliciter; uno modo ut signum ad signatum; alio modo ut regulatum ad regulam; et secundum utramque comparationem commensuratio exteriorum actionum ad interiorem dispositionem mentis constituit veritatis rationem. Veritas ergo, de qua Philosophus loquitur in 4 *Ethic*., consistit in commensuratione actionum ad mentem, prout sunt signa illius; dum scilicet aliquis talem se exhibet in dictis et factis, qualis est interius: unde haec virtus, secundum ipsum, opponitur jactantiae et simulationi. Sed veritas justitiae, de qua loquimur, facit commensurationem secundum aliam comparationem actionum exteriorum ad mentem, prout scilicet comparantur ad eam ut ad regulam aequalitatis in rebus constitutae per actus justitiae. Sed quia non solum aequalitas constituta in rebus per actus nostros, sed etiam ipsi actus nostri commensurari debent rationi quae est in mente; ideo in hac commensuratione etiam alia veritas invenitur, secundum quod ipsae operationes sunt commensuratae menti; et haec est veritas vitae, quae consistit in hoc quod unusquisque faciat secundum quod ratio docet.  
 
@@ -122,7 +122,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod opus Dei dicatur justum ex hoc solo quod est ei placitum. Anselmus enim in *Proslog*., dicit de Deo loquens: *id solum justum est quod vis et non justum quod non vis*. Ergo, etc.***
+Ad secundum sic proceditur. Videtur quod opus Dei dicatur justum ex hoc solo quod est ei placitum. Anselmus enim in *Proslog*., dicit de Deo loquens: *id solum justum est quod vis et non justum quod non vis*. Ergo, etc.  
 
 Praeterea, Rom. 9, 21, dicitur: *an non habet potestatem figulus ex eadem massa facere aliud quidem vas in honorem, aliud in contumeliam?* Et loquitur de Deo per similitudinem figuli. Sed quidquid ex luto vult figulus fieri, justum est ut ex luto fiat. Ergo quidquid Deus vult in creatura fieri, justum est ut fiat; et sic ex hoc solo dicitur aliquid esse justum quod est a Deo volitum.  
 
@@ -136,7 +136,7 @@ Praeterea, opus Dei non ex eodem dicitur opus justitiae et opus misericordiae. S
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod Deus non possit praetermittere aliquid eorum quae ad justitiam operis ejus concurrunt. Quia 2 ad Tim. 2: *ille fidelis permanet, seipsum negare non potest*, dicit Glossa, *Negaret autem seipsum, si dicta sua non impleret*. Ergo cum ex hoc dicatur opus Dei justum esse quod per ipsum impleantur Dei dicta, videtur quod*quod.—quod non* PLE. possit justitiam sui operis praetermittere.***
+Ulterius. Videtur quod Deus non possit praetermittere aliquid eorum quae ad justitiam operis ejus concurrunt. Quia 2 ad Tim. 2: *ille fidelis permanet, seipsum negare non potest*, dicit Glossa, *Negaret autem seipsum, si dicta sua non impleret*. Ergo cum ex hoc dicatur opus Dei justum esse quod per ipsum impleantur Dei dicta, videtur quod*quod.—quod non* PLE. possit justitiam sui operis praetermittere.  
 
 Praeterea, Rom. 11, super illud: *contra naturam insertus es*, etc., Glossa: *Deus Creator et conditor omnium rerum nihil contra naturam facit, sicut nec contra seipsum*. Sed sicut ipse est conditor naturarum, ita ipse est conditor et causa omnis justitiae. Ergo nihil potest facere contra ordinem justitiae in rebus constitutum.  
 
@@ -148,7 +148,7 @@ Praeterea, ordo justitiae in rebus humanis est conformis ordini rerum naturalium
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod Deus nullum puniat nisi pro peccato. Quia, ut dicit Hieronymus, *quidquid patimur, peccata nostra meruerunt*. Per passionem autem poenam designat. Ergo omnis poena pro peccato redditur.***
+Ulterius. Videtur quod Deus nullum puniat nisi pro peccato. Quia, ut dicit Hieronymus, *quidquid patimur, peccata nostra meruerunt*. Per passionem autem poenam designat. Ergo omnis poena pro peccato redditur.  
 
 Praeterea, sicut praemium habet se ad meritum, ita poena ad peccatum. Sed praemium non redditur nisi merito. Ergo nec poena nisi peccato.  
 
@@ -162,7 +162,7 @@ Praeterea, infortunia quae in hoc mundo accidunt, communia sunt bonis et malis, 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod Dominus agat justius cum uno quam cum alio. Punitio enim est opus justitiae. Sed magis punit unum quam alium. Ergo justius agit cum uno quam cum alio.***
+Ulterius. Videtur quod Dominus agat justius cum uno quam cum alio. Punitio enim est opus justitiae. Sed magis punit unum quam alium. Ergo justius agit cum uno quam cum alio.  
 
 Praeterea, misericordia temperat severitatem justitiae. Sed Deus misericordius agit cum uno quam cum alio. Ergo et justius.  
 
@@ -170,7 +170,7 @@ Sed contra, justitia aequalitas quaedam est. Sed aequale non suscipit magis et m
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod justitia et voluntas in Deo idem sunt secundum rem; sed secundum rationem justitia aliquid supra voluntatem addit; scilicet ordinem divinis effectibus convenientem, secundum quod unum alteri proportionaliter adaequatur. Est enim in rebus creatis duplex ordo: unus secundum quem creatura ordinatur ad Deum; alius secundum quem una creatura dependet ab alia. Nomine igitur voluntatis non exprimitur nisi ordo ille qui est creaturae ad creaturam.*ad creaturam.—ad deum sed iustitia includit simul cum hoc ordinem qui est creaturae ad creaturam* PLE. Sicut enim igni in tali natura constituto debetur ut sit sursum, considerato rerum ordine ad invicem; ita etiam culpae debetur ut puniatur secundum ordinem eumdem. Unde patet quod non ex hoc tantum aliquid dicitur esse justum quia est a Deo volitum; sed quia est debitum alicui rei creatae secundum ordinem creaturae ad creaturam. Nihil enim alicui rei potest esse debitum nisi ratione suae naturae vel conditionis. Naturae autem et proprietatis rei causa est divina voluntas; et ideo totus ordo justitiae originaliter ad divinam voluntatem reducitur.***
+Respondeo dicendum ad primam quaestionem, quod justitia et voluntas in Deo idem sunt secundum rem; sed secundum rationem justitia aliquid supra voluntatem addit; scilicet ordinem divinis effectibus convenientem, secundum quod unum alteri proportionaliter adaequatur. Est enim in rebus creatis duplex ordo: unus secundum quem creatura ordinatur ad Deum; alius secundum quem una creatura dependet ab alia. Nomine igitur voluntatis non exprimitur nisi ordo ille qui est creaturae ad creaturam.*ad creaturam.—ad deum sed iustitia includit simul cum hoc ordinem qui est creaturae ad creaturam* PLE. Sicut enim igni in tali natura constituto debetur ut sit sursum, considerato rerum ordine ad invicem; ita etiam culpae debetur ut puniatur secundum ordinem eumdem. Unde patet quod non ex hoc tantum aliquid dicitur esse justum quia est a Deo volitum; sed quia est debitum alicui rei creatae secundum ordinem creaturae ad creaturam. Nihil enim alicui rei potest esse debitum nisi ratione suae naturae vel conditionis. Naturae autem et proprietatis rei causa est divina voluntas; et ideo totus ordo justitiae originaliter ad divinam voluntatem reducitur.  
 
 Ad primum ergo dicendum, quod quamvis omne quod Deus vult, justum sit; non tamen ex hoc justum dicitur quod Deus illud vult, ut dictum est.  
 
@@ -182,7 +182,7 @@ Ad quartum dicendum, quod quamvis Deus non sit debitor alicui creaturae, tamen c
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod justitiae opus potest dupliciter praetermitti. Uno modo ut fiat contra justitiam; alio modo ut fiat praeter justitiam. Cum enim justitia dicatur per comparationem ad alterum; tunc contra ordinem fit quando ei subtrahitur quod ei debetur, vel quod conditio ejus exigit. Si autem aliquid amplius ei impendatur, non est contra justitiam, sed praeter justitiam: quia etiamsi alicui rei aliquid non debeatur, non tamen illius privatio est ei debita. Unde si aliquid ei exhibeatur quod non debetur, nihil contra ordinem justitiae fiet; sicut patet in eo qui alicui liberaliter sua bona communicat. Sed, sicut Philosophus dicit in 5 *Ethic*., pro eodem computatur minus de malo et plus de bono; unde sicut sine praejudicio justitiae potest aliquis de bonis suis plus alicui conferre quam debeat, ita sine praejudicio justitiae potest ei minus irrogare de poena pro peccato in eum commisso quam ei debeatur. Sed sicut non potest sine injuria aliquis de bonis alterius plus alicui conferre quam ei debetur; ita non potest minus irrogare de poena pro peccato commisso in alterum; et ideo judex non potest sine praejudicio justitiae poenas diminuere debitas pro peccatis in Deum vel in rempublicam commissis, nisi forte quatenus viderit hoc utilitati reipublicae expedire.***
+Ad secundam quaestionem dicendum, quod justitiae opus potest dupliciter praetermitti. Uno modo ut fiat contra justitiam; alio modo ut fiat praeter justitiam. Cum enim justitia dicatur per comparationem ad alterum; tunc contra ordinem fit quando ei subtrahitur quod ei debetur, vel quod conditio ejus exigit. Si autem aliquid amplius ei impendatur, non est contra justitiam, sed praeter justitiam: quia etiamsi alicui rei aliquid non debeatur, non tamen illius privatio est ei debita. Unde si aliquid ei exhibeatur quod non debetur, nihil contra ordinem justitiae fiet; sicut patet in eo qui alicui liberaliter sua bona communicat. Sed, sicut Philosophus dicit in 5 *Ethic*., pro eodem computatur minus de malo et plus de bono; unde sicut sine praejudicio justitiae potest aliquis de bonis suis plus alicui conferre quam debeat, ita sine praejudicio justitiae potest ei minus irrogare de poena pro peccato in eum commisso quam ei debeatur. Sed sicut non potest sine injuria aliquis de bonis alterius plus alicui conferre quam ei debetur; ita non potest minus irrogare de poena pro peccato commisso in alterum; et ideo judex non potest sine praejudicio justitiae poenas diminuere debitas pro peccatis in Deum vel in rempublicam commissis, nisi forte quatenus viderit hoc utilitati reipublicae expedire.  
 
 Deus autem donator bonorum omnium est, et in eum omnis peccator peccat; unde ipse potest plus conferre de bonis quam sit alicui debitum, et minus inferre de malis, vel etiam poenam totaliter relaxare; nec in hoc contra justitiam, sed praeter justitiam faceret. Sed si alicui minus conferret de bonis quam ei debetur, vel plus puniret quam peccasset, hoc contra ordinem justitiae esset; nec Deus hoc posset, loquendo de potentia ordinaria, sicut non posset facere quin ejus opus, secundum quod esse participat, eum imitaretur. Ex hoc enim ipso aliquid alicui rei est debitum secundum exigentiam suae conditionis, quod sine illo exemplar divinum secundum propriam suam rationem imitari non potest.  
 
@@ -194,7 +194,7 @@ Ad tertium dicendum, quod damnare Petrum, cui ex beneficio gratiae sibi collatae
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod poena de sui ratione semper importat aliquid nocivum. Ex hoc autem est aliquid nocivum quod per ipsum subtrahitur aliquod bonum. Inter bona autem hominis quaedam sunt per se loquendo ei bona, quae sunt bona hominis in eo quod homo; quaedam autem sunt bona secundum ordinem ad ista bona, sicut temporalia bona. Unde ista intantum sunt bona, inquantum ad illa spiritualia bona sunt homini adjumento; si autem impediant, ex hoc non sunt ei bona, sed mala; unde etiam Philosophus in 7 *Ethic*. dicit, quod bona fortuna est judicanda secundum comparationem ad virtutem, prout adjuvat vel impedit eam.***
+Ad tertiam quaestionem dicendum, quod poena de sui ratione semper importat aliquid nocivum. Ex hoc autem est aliquid nocivum quod per ipsum subtrahitur aliquod bonum. Inter bona autem hominis quaedam sunt per se loquendo ei bona, quae sunt bona hominis in eo quod homo; quaedam autem sunt bona secundum ordinem ad ista bona, sicut temporalia bona. Unde ista intantum sunt bona, inquantum ad illa spiritualia bona sunt homini adjumento; si autem impediant, ex hoc non sunt ei bona, sed mala; unde etiam Philosophus in 7 *Ethic*. dicit, quod bona fortuna est judicanda secundum comparationem ad virtutem, prout adjuvat vel impedit eam.  
 
 Pati ergo detrimentum in spiritualibus bonis semper malum est; sed pati detrimentum in bonis temporalibus quandoque quidem est bonum, quandoque vero malum. Malum quidem est, secundum quod impedit ab operatione virtutis et consecutione spiritualis boni; sed bonum est, secundum quod adjuvat ad virtutem sive ad consecutionem spiritualis boni, sicut exercitium corporale utile est ad corporalem fortitudinem acquirendam. Et quia, ut dictum est, poena a nocendo dicitur, ideo detrimentum in spiritualibus bonis semper poena est; sed detrimentum in temporalibus bonis quandoque quidem non est poena, sed medicina proficiens ad salutem; sicut amaritudo potionis non est poena, sed medela corporalis sanitatis. Sed tamen, quia natura nostra talis est ut ad perfectionem spiritualis boni per temporalium detrimenta oporteat pervenire, ex culpa peccati venit quod tota natura vitiata est: nec tali medicina opus erit, quando vulnus peccati perfecte erit curatum, cum homo ad ultimum finem spiritualis perfectionis perveniet.  
 
@@ -210,7 +210,7 @@ Ad quartum dicendum, quod etiam nulla culpa praecedente sine praejudicio humanae
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod actio cum sit media inter agentem et effectum, ex utraque parte modificari potest. Cum ergo quaeritur, an Deus justius cum uno agat quam cum alio; si hoc referatur ad actionem prout exit ab agente, cum justitia sua, qua cum omnibus juste agit, sit una et invariabilis, non agit justius cum uno quam cum alio; si autem referatur ad actionem prout terminatur ad effectum, sic etiam dici non potest, quod cum uno justius agat quam cum alio; eo quod opus aliquod dicitur justum ex hoc quod est proportionaliter adaequatum; aequalitas autem, sive quantitatis sive proportionis, est ejusdem rationis in minimis et in magnis; eadem enim proportio quae est inter duo et unum, est inter viginti et decem; et aequalitas eadem quae est inter unum et unum, est inter centum et centum. Et ideo non potest esse unum opus altero justius, dummodo utrumque sit justum; eadem enim justitia servatur dum mala redduntur pro malis, et bona pro bonis, sive sint parva, sive sint magna. Sed tamen, quia in nobis non requiritur ad virtutem ut semper medium attingamus, sed sufficit quandoque juxta medium esse propter difficultatem inventionis medii, ut dicitur in 2 *Ethic*.; inde est quod apud nos unus alio justius agere dicitur, secundum quod magis vel minus accedit ad medium non perveniente utroque ad ipsum. Sed ipse Deus, cui sunt notae omnium rerum mensurae, semper in operatione sua ad medium indivisibile pertingit; unde nullo modo justius cum uno quam cum alio agit.***
+Ad quartam quaestionem dicendum, quod actio cum sit media inter agentem et effectum, ex utraque parte modificari potest. Cum ergo quaeritur, an Deus justius cum uno agat quam cum alio; si hoc referatur ad actionem prout exit ab agente, cum justitia sua, qua cum omnibus juste agit, sit una et invariabilis, non agit justius cum uno quam cum alio; si autem referatur ad actionem prout terminatur ad effectum, sic etiam dici non potest, quod cum uno justius agat quam cum alio; eo quod opus aliquod dicitur justum ex hoc quod est proportionaliter adaequatum; aequalitas autem, sive quantitatis sive proportionis, est ejusdem rationis in minimis et in magnis; eadem enim proportio quae est inter duo et unum, est inter viginti et decem; et aequalitas eadem quae est inter unum et unum, est inter centum et centum. Et ideo non potest esse unum opus altero justius, dummodo utrumque sit justum; eadem enim justitia servatur dum mala redduntur pro malis, et bona pro bonis, sive sint parva, sive sint magna. Sed tamen, quia in nobis non requiritur ad virtutem ut semper medium attingamus, sed sufficit quandoque juxta medium esse propter difficultatem inventionis medii, ut dicitur in 2 *Ethic*.; inde est quod apud nos unus alio justius agere dicitur, secundum quod magis vel minus accedit ad medium non perveniente utroque ad ipsum. Sed ipse Deus, cui sunt notae omnium rerum mensurae, semper in operatione sua ad medium indivisibile pertingit; unde nullo modo justius cum uno quam cum alio agit.  
 
 Ad primum ergo dicendum, quod punitio non est effectus justitiae inquantum hujusmodi, sed inquantum est culpae proportionata. Licet ergo a Deo inferatur major poena vel minor; semper tamen ex ejus justitia secundum eamdem proportionem infertur.  
 
@@ -220,7 +220,7 @@ Articulus 3
 
 ***De justitia ejus contra damnatos***
 
-***Ad tertium sic proceditur. Videtur quod ex divina justitia non inferatur peccatoribus poena aeterna. Poena enim non debet excedere culpam. Deuter. 25, 2: *secundum mensuram delicti erit et plagarum modus*. Sed culpa est temporalis. Ergo poena non debet esse aeterna.***
+Ad tertium sic proceditur. Videtur quod ex divina justitia non inferatur peccatoribus poena aeterna. Poena enim non debet excedere culpam. Deuter. 25, 2: *secundum mensuram delicti erit et plagarum modus*. Sed culpa est temporalis. Ergo poena non debet esse aeterna.  
 
 Praeterea, duorum peccatorum mortalium unum est altero majus. Ergo unum debet majori poena quam alterum puniri. Sed nulla poena potest esse major quam aeterna, cum sit infinita. Ergo non cuilibet peccato mortali debetur poena aeterna; et si uni non debetur, nulli debetur, cum eorum non sit distantia infinita.  
 
@@ -276,7 +276,7 @@ primo utrum in Deo sit ponere misericordiam;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod in Deo non sit misericordia. Sicut enim dicit Damascenus, *misericordia est compassio de alienis malis*. Sed compassio non cadit in Deo. Ergo nec misericordia.***
+Ad primum sic proceditur. Videtur quod in Deo non sit misericordia. Sicut enim dicit Damascenus, *misericordia est compassio de alienis malis*. Sed compassio non cadit in Deo. Ergo nec misericordia.  
 
 Praeterea, misericordia miseriam respicit. Sed quanto aliquis est magis peccator, tanto magis est miser; quia Proverb. 14, 34: *miseros facit populos peccatum*. Ergo si Deus est misericors, quanto aliquis est magis peccator, tanto magis ei providebit; quod videtur absurdum.  
 
@@ -288,7 +288,7 @@ Praeterea, sicut Deus aliquos punit, ita et aliquibus parcit; est enim *praestab
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in Deo secundum eamdem rationem dicatur bonitas et misericordia. Constat enim quod Deus gentiles ex sola misericordia liberavit; Roman. 15, 9: *gentes autem super misericordia honorare Deum*. Sed conversionem gentium apostolus attribuit divinae bonitati; Rom. 11, 22: *vide bonitatem et severitatem Dei; in eos qui ceciderunt severitatem, in te autem bonitatem*. Ergo bonitas et misericordia ejusdem sunt rationis in Deo.***
+Ulterius. Videtur quod in Deo secundum eamdem rationem dicatur bonitas et misericordia. Constat enim quod Deus gentiles ex sola misericordia liberavit; Roman. 15, 9: *gentes autem super misericordia honorare Deum*. Sed conversionem gentium apostolus attribuit divinae bonitati; Rom. 11, 22: *vide bonitatem et severitatem Dei; in eos qui ceciderunt severitatem, in te autem bonitatem*. Ergo bonitas et misericordia ejusdem sunt rationis in Deo.  
 
 Praeterea, principia per effectus cognoscuntur. Sed idem est effectus misericordiae et bonitatis; scilicet providere minus habentibus. Ergo eadem est ratio utriusque.  
 
@@ -300,7 +300,7 @@ Praeterea, misericordia non esset, nisi esset miseria. Sed bonitas esse potest e
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod opus divinae misericordiae ad attributum potentiae reducatur. Quia opus Dei ad illud attributum reducitur quod maxime per ipsum manifestatur. Sed opus misericordiae maxime manifestat Dei potentiam; unde in collecta dicitur: *Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas*. Ergo misericordiae opus ad omnipotentiam reducitur.***
+Ulterius. Videtur quod opus divinae misericordiae ad attributum potentiae reducatur. Quia opus Dei ad illud attributum reducitur quod maxime per ipsum manifestatur. Sed opus misericordiae maxime manifestat Dei potentiam; unde in collecta dicitur: *Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas*. Ergo misericordiae opus ad omnipotentiam reducitur.  
 
 Praeterea, divina misericordia maxime manifestatur in justificatione impii. Sed majus est justificare impium quam creare caelum et terram, ut dicit Augustinus. Ergo cum creatio ad potentiam reducatur, videtur quod et misericordiae opus ad potentiam Dei reduci debeat.  
 
@@ -312,7 +312,7 @@ Sed contra, videtur quod ad bonitatem. Quia Sap. 11, 27, ponitur pro ratione mis
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ex hoc homo dicitur misericors, quia miseriam alterius suam facit; quod quidem contingit quantum ad duo. Primo quantum ad hoc quod ipse quodammodo ex aliena miseria afficitur, inquantum compatitur patienti. Secundo secundum quamdam reputationem, quia miseriam proximi reputat quasi suam, et exinde movetur ad repellendum ejus miseriam per beneficium, sicut repelleret suam. Deus autem nullo modo miseriae particeps esse potest; unde secundum primum modum misericordia in eum non cadit; sed ipse hoc modo se habet in repellendo miserias aliorum, sicut se habet homo in repellendo miseriam eorum. Sicut homo enim in repellendo miseriam alicujus considerat hominis utilitatem cujus repellit miseriam; ita et Deus per sua beneficia repellens nostram miseriam, non ordinat hoc ad suam utilitatem, sed ad nostram; unde inquantum nostra miseria est quasi sua secundum reputationem quamdam ipsius qui eam repellit, sic dicitur misericors, et misereri; et propter hoc communiter dicitur, quod non est in eo misericordia secundum passionem, sed secundum effectum; qui tamen effectus ex affectu voluntatis procedit; qui non est passio, sed simplex voluntatis actus.***
+Respondeo dicendum ad primam quaestionem, quod ex hoc homo dicitur misericors, quia miseriam alterius suam facit; quod quidem contingit quantum ad duo. Primo quantum ad hoc quod ipse quodammodo ex aliena miseria afficitur, inquantum compatitur patienti. Secundo secundum quamdam reputationem, quia miseriam proximi reputat quasi suam, et exinde movetur ad repellendum ejus miseriam per beneficium, sicut repelleret suam. Deus autem nullo modo miseriae particeps esse potest; unde secundum primum modum misericordia in eum non cadit; sed ipse hoc modo se habet in repellendo miserias aliorum, sicut se habet homo in repellendo miseriam eorum. Sicut homo enim in repellendo miseriam alicujus considerat hominis utilitatem cujus repellit miseriam; ita et Deus per sua beneficia repellens nostram miseriam, non ordinat hoc ad suam utilitatem, sed ad nostram; unde inquantum nostra miseria est quasi sua secundum reputationem quamdam ipsius qui eam repellit, sic dicitur misericors, et misereri; et propter hoc communiter dicitur, quod non est in eo misericordia secundum passionem, sed secundum effectum; qui tamen effectus ex affectu voluntatis procedit; qui non est passio, sed simplex voluntatis actus.  
 
 Ad primum ergo dicendum, quod Damascenus definit misericordiam prout est passio in nobis inventa; et per hunc modum Deo non competit.  
 
@@ -322,7 +322,7 @@ Et per hoc patet solutio ad tertium. Quia homo misericors non repellit alienam m
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ratio misericordiae et bonitatis differunt in tribus. Primo in hoc quod misericordia respicit terminum a quo, sed bonitas magis terminum ad quem. Ille enim cui Deus beneficia largitur, fit de deficiente perfectus. Bonitas ergo respicit communicationem perfectionis, quia bonum est diffusivum sui esse; sed misericordia respicit remotionem defectus. Secundo in hoc quod misericordia, proprie loquendo, pertinet ad providentiam divinam, qua bona sua communicat creaturis rationalibus tantum; respicit enim miseriam, quae cum sit contraria felicitati, non potest esse nisi rationalium creaturarum, quarum est felices esse. Sed bonitas respicit providentiam divinam respectu quarumlibet rerum. Tertio in hoc quod misericordia importat quamdam assimilationem providentis ad eum cui providetur, inquantum providens alterius miseriam quasi suam reputat; et ideo misericordia esse non potest nisi in natura intellectuali quae habet aestimationem miseriae alienae. Sed bonitas habet ordinem ad communicationem simpliciter; unde cuilibet creaturae quae habet perfectionem communicabilem, bonitas convenire potest. Potest et quarta differentia assignari; quia misericordia removet debitum ab eo cui providetur; non enim dicitur misericorditer dari alicui quod ei debetur; sed bonitas non removet debiti rationem ab eo cui aliquid datur; unde bonitas se habet communiter ad largitionem justitiae et misericordiae.***
+Ad secundam quaestionem dicendum, quod ratio misericordiae et bonitatis differunt in tribus. Primo in hoc quod misericordia respicit terminum a quo, sed bonitas magis terminum ad quem. Ille enim cui Deus beneficia largitur, fit de deficiente perfectus. Bonitas ergo respicit communicationem perfectionis, quia bonum est diffusivum sui esse; sed misericordia respicit remotionem defectus. Secundo in hoc quod misericordia, proprie loquendo, pertinet ad providentiam divinam, qua bona sua communicat creaturis rationalibus tantum; respicit enim miseriam, quae cum sit contraria felicitati, non potest esse nisi rationalium creaturarum, quarum est felices esse. Sed bonitas respicit providentiam divinam respectu quarumlibet rerum. Tertio in hoc quod misericordia importat quamdam assimilationem providentis ad eum cui providetur, inquantum providens alterius miseriam quasi suam reputat; et ideo misericordia esse non potest nisi in natura intellectuali quae habet aestimationem miseriae alienae. Sed bonitas habet ordinem ad communicationem simpliciter; unde cuilibet creaturae quae habet perfectionem communicabilem, bonitas convenire potest. Potest et quarta differentia assignari; quia misericordia removet debitum ab eo cui providetur; non enim dicitur misericorditer dari alicui quod ei debetur; sed bonitas non removet debiti rationem ab eo cui aliquid datur; unde bonitas se habet communiter ad largitionem justitiae et misericordiae.  
 
 Ad primum ergo dicendum, quod non est inconveniens conversionem gentium et bonitati divinae et misericordiae etiam attribuere, quamvis ratione diversa, ut ex dictis patet.  
 
@@ -332,7 +332,7 @@ Ad tertium dicendum, quod misericordia quamvis sit bonitas quaedam, tamen quaeda
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod omne opus divinum ex potentia, sapientia et bonitate procedit; sed tamen opus aliquod appropriatur potentiae, sapientiae vel bonitati, secundum quod in eo mirabilius apparet id quod pertinet ad aliquod praedictorum attributorum. Potentia autem importat absolutam rationem principii aliquid producentis; sed sapientiae est ordinare; unde ad sapientiam pertinet modus producendi rem, quo aliquid ordinate in esse producitur; sed bonitas, quae habet rationem finis, respicit motivum ad producendum: et ideo in opere creationis, in quo admirabile redditur hoc praecipue quod res in esse productae sunt, manifestatur maxime divina potentia; sed in opere gubernationis, quo res ordinatae disponuntur, redditur ipse ordo rerum admirabilis, et ideo sapientiae attribuitur; sed opus recreationis admirabile redditur ex ipso motivo, quia *non ex operibus justitiae quae fecimus, sed propter suam bonitatem salvos nos fecit*; unde attribuitur praecipue bonitati. Et quia ex hoc aliquid dicitur misericorditer esse factum quod non ex debito datur, sed ex bonitate largientis; ideo opus misericordiae, inquantum hujusmodi, bonitati appropriatur.***
+Ad tertiam quaestionem dicendum, quod omne opus divinum ex potentia, sapientia et bonitate procedit; sed tamen opus aliquod appropriatur potentiae, sapientiae vel bonitati, secundum quod in eo mirabilius apparet id quod pertinet ad aliquod praedictorum attributorum. Potentia autem importat absolutam rationem principii aliquid producentis; sed sapientiae est ordinare; unde ad sapientiam pertinet modus producendi rem, quo aliquid ordinate in esse producitur; sed bonitas, quae habet rationem finis, respicit motivum ad producendum: et ideo in opere creationis, in quo admirabile redditur hoc praecipue quod res in esse productae sunt, manifestatur maxime divina potentia; sed in opere gubernationis, quo res ordinatae disponuntur, redditur ipse ordo rerum admirabilis, et ideo sapientiae attribuitur; sed opus recreationis admirabile redditur ex ipso motivo, quia *non ex operibus justitiae quae fecimus, sed propter suam bonitatem salvos nos fecit*; unde attribuitur praecipue bonitati. Et quia ex hoc aliquid dicitur misericorditer esse factum quod non ex debito datur, sed ex bonitate largientis; ideo opus misericordiae, inquantum hujusmodi, bonitati appropriatur.  
 
 Ad primum ergo dicendum, quod Deus dicitur parcendo et miserendo suam omnipotentiam maxime manifestare, non tam quoad substantiam facti, quam quoad licentiam faciendi; ille enim qui est alicui superiori potestati subjectus, non potest licite dimittere poenas a superiori potestate constitutas. Ex hoc ergo quod Deus poenas dimittit, et supra debitum largitur; ostenditur quod ipse ex propria potestate et auctoritate omnia operatur; et quod ipse non est superiori potestati subjectus. Sed quantum ad substantiam facti praecipue manifestatur bonitas in parcendo; et ideo opus misericordiae bonitati est attribuendum.  
 
@@ -348,7 +348,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Deus non semper misericordiam exhibeat in hoc quod punit citra condignum, et remunerat ultra meritum. Quia Apocal. 18, 7: *quantum glorificavit se et in deliciis fuit, tantum date illi tormentum et luctum*; et Matth. 7, 2: *in qua mensura mensi fueritis, remetietur et vobis*. Ergo videtur quod secundum mensuram meriti vel delicti sit mensura poenae vel praemii; et ita non semper punit citra condignum, nec remunerat ultra meritum.***
+Ad secundum sic proceditur. Videtur quod Deus non semper misericordiam exhibeat in hoc quod punit citra condignum, et remunerat ultra meritum. Quia Apocal. 18, 7: *quantum glorificavit se et in deliciis fuit, tantum date illi tormentum et luctum*; et Matth. 7, 2: *in qua mensura mensi fueritis, remetietur et vobis*. Ergo videtur quod secundum mensuram meriti vel delicti sit mensura poenae vel praemii; et ita non semper punit citra condignum, nec remunerat ultra meritum.  
 
 Praeterea, Apoc. 18, 6, dicitur: *duplicate ei duplicia secundum opera ejus*; et Isa. 40, 2: *suscepit de manu Domini duplicia pro omnibus peccatis suis*; et super illud Psal. 71: *ex usuris et iniquitate* etc., dicit Glossa: *plus exigit in poenis quam commissum sit in culpis*. Ergo videtur quod non puniat citra condignum, sed magis ultra.  
 
@@ -366,7 +366,7 @@ Praeterea, proprium non derelinquit id cujus est proprium. Sed Deo proprium est 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non in omni tempore Dei misericordia et veritas conjungantur. Quia opus creationis non praesupponit aliquid. Sed opus quod est secundum justitiam, praesupponit debitum; opus autem quod est secundum misericordiam, praesupponit miseriam. Ergo in opere creationis non conveniunt justitia et misericordia.***
+Ulterius. Videtur quod non in omni tempore Dei misericordia et veritas conjungantur. Quia opus creationis non praesupponit aliquid. Sed opus quod est secundum justitiam, praesupponit debitum; opus autem quod est secundum misericordiam, praesupponit miseriam. Ergo in opere creationis non conveniunt justitia et misericordia.  
 
 Praeterea, convertere gentes et convertere Judaeos sunt diversa opera. Sed in conversione gentium videtur fuisse sola misericordia; in salvatione autem Judaeorum justitia; per id quod dicitur Rom. 15, 8: *dico Jesum Christum ministrum fuisse circumcisionis ad confirmandas promissiones patrum; gentes autem super misericordia honorare Deum*. Ergo nec in omni opere Domini est misericordia et veritas.  
 
@@ -384,7 +384,7 @@ Praeterea, non magis differt in Deo justitia et misericordia, quam potentia, bon
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in opere Dei principalior sit justitia quam misericordia. Quia, ut dicitur Hebr. 10, 4, *horrendum est incidere in manus Dei viventis*. Sed hoc non esset, si misericordia principalior in ejus opere esset. Ergo justitia magis in opere Dei principatur quam misericordia.***
+Ulterius. Videtur quod in opere Dei principalior sit justitia quam misericordia. Quia, ut dicitur Hebr. 10, 4, *horrendum est incidere in manus Dei viventis*. Sed hoc non esset, si misericordia principalior in ejus opere esset. Ergo justitia magis in opere Dei principatur quam misericordia.  
 
 Praeterea, illud quod est prius in quolibet genere, est principalius. Sed justitia videtur esse prior quam misericordia; quia misericordia ex justitia nascitur, ut dicit Anselmus in Proslogio. Ergo justitia principalior est in opere Dei quam misericordia.  
 
@@ -396,7 +396,7 @@ Praeterea, illud quod est proprium alicui, principalius ei convenit quam id quod
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod agens et patiens semper debent sibi proportionaliter respondere; ita quod hoc modo se habeat agens ad actionem, sicut patiens ad passionem. Ea autem quae sunt inaequalia, non habent similem proportionem nisi ad inaequalia: sicut enim senarius est major quaternario; ita et ternarius, cujus duplum est senarius, est major binario, cujus duplum est quaternarius. Et inde est quod quandocumque agens excedit patiens, oportet quod actio excedat passionem; sicut videmus in omnibus agentibus aequivocis, quia patiens non recipit effectum totum actionis. Dans autem se habet per modum agentis, et recipiens per modum patientis; et ideo quando dans superexcedit recipientem, conveniens est ut datio excedat illam receptionem quae est proportionata recipienti. Et ideo cum Deus sit excellentissimus dator propter abundantiam suae bonitatis, oportet quod semper ejus datio in bonis superexcedat receptionem quae est proportionata recipienti. Pro eodem autem computatur minus malum et majus bonum, ut dicitur in 5 *Ethic*.; et ideo Deus semper dat ultra condignum de bonis, et semper mala poenae irrogat citra condignum.***
+Respondeo dicendum ad primam quaestionem, quod agens et patiens semper debent sibi proportionaliter respondere; ita quod hoc modo se habeat agens ad actionem, sicut patiens ad passionem. Ea autem quae sunt inaequalia, non habent similem proportionem nisi ad inaequalia: sicut enim senarius est major quaternario; ita et ternarius, cujus duplum est senarius, est major binario, cujus duplum est quaternarius. Et inde est quod quandocumque agens excedit patiens, oportet quod actio excedat passionem; sicut videmus in omnibus agentibus aequivocis, quia patiens non recipit effectum totum actionis. Dans autem se habet per modum agentis, et recipiens per modum patientis; et ideo quando dans superexcedit recipientem, conveniens est ut datio excedat illam receptionem quae est proportionata recipienti. Et ideo cum Deus sit excellentissimus dator propter abundantiam suae bonitatis, oportet quod semper ejus datio in bonis superexcedat receptionem quae est proportionata recipienti. Pro eodem autem computatur minus malum et majus bonum, ut dicitur in 5 *Ethic*.; et ideo Deus semper dat ultra condignum de bonis, et semper mala poenae irrogat citra condignum.  
 
 Ad primum ergo dicendum, quod quantum et tantum non important aequalitatem quantitatis, sed proportionis, in auctoritate inducta. Poenae autem proportio ad culpam potest intelligi dupliciter: vel in generali, vel in speciali. In generali quidem; ut qui peccavit, puniatur; et qui multum peccavit, multum puniatur. In speciali autem dupliciter: vel accipiendo proportionem poenae ad culpam secundum debitum culpae absolute; vel praesupposita mitigatione divinae misericordiae, quae aliquid de poena remittit. Primo igitur et tertio modo nunquam Deus punit citra condignum: quia semper peccantes multum punit: nec aliquid de poena dimittitur quae post mitigationem divinae misericordiae remanet. Sed quantum ad secundum modum semper punitur aliquis citra condignum: quia non tantum punitur quis, quantum per culpam meruit.  
 
@@ -414,7 +414,7 @@ Ad sextum dicendum, quod immisericordes non consequuntur misericordiam totaliter
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod operatio Dei est quasi medium inter Deum operantem et ipsum opus operatum. Omne autem medium participat quodammodo cum utroque extremorum; et ideo in operatione Dei oportet aliquid inveniri ex parte ipsius Dei operantis et ex parte operati, ad quod operatio terminatur. Ex parte quidem operantis exigitur ut sit superabundantia in collatione bonorum et diminutione malorum, cum ipse Deus sit excellentissimus operator, ut dictum est, et in hoc consistit divina misericordia; ex parte autem operati requiritur receptio, quae fit secundum proportionem recipientis; et in hoc ratio justitiae consistit. Ideo oportet quod in omni divina operatione aliquid misericordiae et aliquid justitiae inveniatur: nec justitia misericordiae repugnat; quia misericordia non est laudabilis nisi sit secundum rationem rectam, quae est regula justitiae, sive secundum ordinem sapientiae in divinis; nec misericordia repugnat justitiae; quia elargiri aliquid supra debitum de bonis, vel citra debitum de malis, non est contra justitiam, sed praeter eam, ut ex dictis patet; et ideo nec immensitas misericordiae excludit justitiam a divino opere, nec immensitas justitiae misericordiam.***
+Ad secundam quaestionem dicendum, quod operatio Dei est quasi medium inter Deum operantem et ipsum opus operatum. Omne autem medium participat quodammodo cum utroque extremorum; et ideo in operatione Dei oportet aliquid inveniri ex parte ipsius Dei operantis et ex parte operati, ad quod operatio terminatur. Ex parte quidem operantis exigitur ut sit superabundantia in collatione bonorum et diminutione malorum, cum ipse Deus sit excellentissimus operator, ut dictum est, et in hoc consistit divina misericordia; ex parte autem operati requiritur receptio, quae fit secundum proportionem recipientis; et in hoc ratio justitiae consistit. Ideo oportet quod in omni divina operatione aliquid misericordiae et aliquid justitiae inveniatur: nec justitia misericordiae repugnat; quia misericordia non est laudabilis nisi sit secundum rationem rectam, quae est regula justitiae, sive secundum ordinem sapientiae in divinis; nec misericordia repugnat justitiae; quia elargiri aliquid supra debitum de bonis, vel citra debitum de malis, non est contra justitiam, sed praeter eam, ut ex dictis patet; et ideo nec immensitas misericordiae excludit justitiam a divino opere, nec immensitas justitiae misericordiam.  
 
 Ad primum ergo dicendum, quod justitia, ut ex dictis patet, quandoque consistit in retributione meritorum; et sic justitia in creatione non consideratur: quandoque vero justitia consistit in condecentia divinae bonitatis; et sic non praesupponit aliquid ex parte recipientis, sed solum ex parte Dei; et sic potest esse justitia in opere creationis. Justum est enim ut unaquaeque res hoc modo esse habeat quomodo praeordinatum est a sapientia divina. Similiter et misericordia dupliciter dicitur. Uno modo secundum quod repellit miseriam praecedentem non ex debito; et sic non potest esse misericordia in opere creationis: alio modo communiter, secundum quod sine debito tollitur quicumque defectus; et sic in opere creationis est misericordia: quia maximum defectum Deus creando removit, scilicet non esse; et hoc ex gratuita voluntate fecit, non aliquo debito constrictus.  
 
@@ -432,7 +432,7 @@ Ad sextum dicendum, quod hoc quod melioribus minus datur de bono temporali, et q
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod illud quod est formale in unoquoque, est excellentius in eo; quia per formam materia completur. In qualibet autem actione illud quod est ex parte agentis, est quasi formale; illud autem quod est ex parte patientis vel recipientis, est quasi materiale. Dictum autem est supra, quod misericordia in omni opere divino resultat ex parte ipsius Dei, qui superabundat in bono; sed justitia ex parte recipientis, qui recipit secundum suam proportionem; et ideo in quolibet opere divino supereminet misericordia justitiae, sicut materiali formale; et hoc est quod in Psal. 144, 9, dicitur: *miserationes ejus super omnia opera ejus*.***
+Ad tertiam quaestionem dicendum, quod illud quod est formale in unoquoque, est excellentius in eo; quia per formam materia completur. In qualibet autem actione illud quod est ex parte agentis, est quasi formale; illud autem quod est ex parte patientis vel recipientis, est quasi materiale. Dictum autem est supra, quod misericordia in omni opere divino resultat ex parte ipsius Dei, qui superabundat in bono; sed justitia ex parte recipientis, qui recipit secundum suam proportionem; et ideo in quolibet opere divino supereminet misericordia justitiae, sicut materiali formale; et hoc est quod in Psal. 144, 9, dicitur: *miserationes ejus super omnia opera ejus*.  
 
 Ad primum ergo dicendum, quod dicitur esse horrendum incidere in manus Dei viventis, non propter remotionem misericordiae relaxantis aliquid de poena, sed propter poenae interminabilitatem, vel etiam propter remotionem resistentiae: quia ejus irae nemo resistere potest, cum sit omnipotens; nec ab eo fugere, cum sit ubique praesens; nec coram eo fallaciter se excusare, cum omnia sciat.  
 
@@ -446,7 +446,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod per divinam misericordiam omnis poena terminetur tam hominum quam etiam daemonum. Quia Sap. 11, 24: *misereris omnium, Domine, quoniam omnia potes*. Sed inter omnia etiam daemones continentur, qui sunt Dei creaturae. Ergo et daemonum poena finietur.***
+Ad tertium sic proceditur. Videtur quod per divinam misericordiam omnis poena terminetur tam hominum quam etiam daemonum. Quia Sap. 11, 24: *misereris omnium, Domine, quoniam omnia potes*. Sed inter omnia etiam daemones continentur, qui sunt Dei creaturae. Ergo et daemonum poena finietur.  
 
 Praeterea, Rom. 11, 32: *conclusit Deus omnia sub peccato, ut omnium misereatur*. Sed Deus daemones sub peccato conclusit, idest peccato concludi permisit. Ergo videtur quod etiam daemonum quandoque misereatur.  
 
@@ -458,7 +458,7 @@ Praeterea, sicut boni angeli effecti sunt beati per conversionem ad Deum, ita ma
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod divina misericordia non permittat, saltem homines, in aeternum puniri. Quia Gen. 6, 3, dicitur: *non permanebit spiritus meus in homine in aeternum, quia caro est*; et accipitur ibi spiritus pro indignatione, ut patet per Glossam, ibidem. Cum igitur indignatio Dei non sit aliud quam ejus poena, non punientur aeternaliter.***
+Ulterius. Videtur quod divina misericordia non permittat, saltem homines, in aeternum puniri. Quia Gen. 6, 3, dicitur: *non permanebit spiritus meus in homine in aeternum, quia caro est*; et accipitur ibi spiritus pro indignatione, ut patet per Glossam, ibidem. Cum igitur indignatio Dei non sit aliud quam ejus poena, non punientur aeternaliter.  
 
 Praeterea, caritas sanctorum in praesenti hoc facit ut pro inimicis exorent. Sed tunc habebunt perfectiorem caritatem. Ergo tunc orabunt pro inimicis damnatis. Sed orationes eorum esse cassae non poterunt, cum sint maxime Deo accepti. Ergo precibus sanctorum divina misericordia quandoque damnatos a poena liberabit.  
 
@@ -474,7 +474,7 @@ Praeterea, sicut dicit Damascenus, hoc est hominibus mors quod angelis casus. Se
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod saltem Christianorum poena per divinam misericordiam terminetur. Quia Marc. ult. 16, dicitur: *qui crediderit et baptizatus fuerit, salvus erit*. Sed hoc est omnium Christianorum. Ergo omnes Christiani finaliter salvabuntur.***
+Ulterius. Videtur quod saltem Christianorum poena per divinam misericordiam terminetur. Quia Marc. ult. 16, dicitur: *qui crediderit et baptizatus fuerit, salvus erit*. Sed hoc est omnium Christianorum. Ergo omnes Christiani finaliter salvabuntur.  
 
 Praeterea, Joan. 6, 55, dicitur: *qui manducat carnem meam, et bibit meum sanguinem, habet vitam aeternam*. Sed hoc est communis cibus et potus Christianorum. Ergo omnes Christiani finaliter salvabuntur.  
 
@@ -486,7 +486,7 @@ Praeterea, 2 Petri 2, 21, dicitur: *melius erat eis viam veritatis non cognoscer
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod illi omnes qui opera misericordiae faciunt, non punientur aeternaliter: sed soli illi qui opera misericordiae negligunt. Jac. 2, 13: *judicium sine misericordia fiet ei qui non fecit misericordiam*; et Matth. 5, 7: *beati misericordes, quoniam ipsi misericordiam consequentur*.***
+Ulterius. Videtur quod illi omnes qui opera misericordiae faciunt, non punientur aeternaliter: sed soli illi qui opera misericordiae negligunt. Jac. 2, 13: *judicium sine misericordia fiet ei qui non fecit misericordiam*; et Matth. 5, 7: *beati misericordes, quoniam ipsi misericordiam consequentur*.  
 
 Praeterea, Matth. 25, ponitur disceptatio Domini cum electis et reprobis. Sed disceptatio non est nisi de operibus misericordiae. Ergo solum pro operibus misericordiae omissis aliqui aeternaliter punientur; et sic idem quod prius.  
 
@@ -500,7 +500,7 @@ Praeterea, Jac. 2, 10, dicitur: *quicumque totam legem servaverit, offenderit au
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod error Origenis fuit, ut Augustinus 21 *de Civ. Dei* dicit quod daemones quandoque per Dei misericordiam liberandi sunt a poenis. Sed iste error ab Ecclesia est reprobatus, propter duo. Primo, quia manifeste auctoritati Scripturae repugnat, quae habet Apoc. 20, 9: *diabolus, qui seducebat eos, missus est in stagnum ignis et sulphuris, ubi bestia et pseudopropheta cruciabuntur die ac nocte in saecula saeculorum*; per quod in Scriptura significari aeternitas consuevit. Secundo, quia ex una parte Dei misericordiam nimis extendebat, et ex alia parte nimis eam coarctabat; ejusdem enim rationis esse videtur bonos angelos in aeterna beatitudine permanere, et malos angelos in aeternum puniri. Unde sicut ponebat daemones et animas damnatorum quandoque a poena liberandas, ita ponebat angelos et animas beatorum quandoque a beatitudine in hujus vitae miserias devolvendas.***
+Respondeo dicendum ad primam quaestionem, quod error Origenis fuit, ut Augustinus 21 *de Civ. Dei* dicit quod daemones quandoque per Dei misericordiam liberandi sunt a poenis. Sed iste error ab Ecclesia est reprobatus, propter duo. Primo, quia manifeste auctoritati Scripturae repugnat, quae habet Apoc. 20, 9: *diabolus, qui seducebat eos, missus est in stagnum ignis et sulphuris, ubi bestia et pseudopropheta cruciabuntur die ac nocte in saecula saeculorum*; per quod in Scriptura significari aeternitas consuevit. Secundo, quia ex una parte Dei misericordiam nimis extendebat, et ex alia parte nimis eam coarctabat; ejusdem enim rationis esse videtur bonos angelos in aeterna beatitudine permanere, et malos angelos in aeternum puniri. Unde sicut ponebat daemones et animas damnatorum quandoque a poena liberandas, ita ponebat angelos et animas beatorum quandoque a beatitudine in hujus vitae miserias devolvendas.  
 
 Ad primum ergo dicendum, quod Deus, quantum in ipso est, miseretur omnibus; sed quia ejus misericordia sapientiae ordine regulatur, inde est quod ad quosdam non se extendit, qui se fecerunt misericordiae indignos, sicut daemones et damnati, qui sunt in malitia obstinati. Tamen potest dici, quod in eis misericordia etiam locum habet, inquantum citra condignum puniuntur, non quod a poena totaliter absolvantur.  
 
@@ -510,7 +510,7 @@ Ad tertium dicendum, quod Anselmus intelligit non esse justum quantum ad decenti
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut dicit Augustinus, 21 *de Civ. Dei*, quidam in hoc ab errore Origenis declinaverunt, quod daemones posuere in perpetuum puniri; sed omnes homines quandoque liberari a poena, etiam infideles. Sed haec positio est omnino irrationabilis. Sicut enim daemones sunt in malitia obstinati, et ita perpetuo puniendi; ita et animae hominum qui sine caritate decedunt; cum hoc sit hominibus mors quod angelis casus, ut Damascenus dicit.***
+Ad secundam quaestionem dicendum, quod sicut dicit Augustinus, 21 *de Civ. Dei*, quidam in hoc ab errore Origenis declinaverunt, quod daemones posuere in perpetuum puniri; sed omnes homines quandoque liberari a poena, etiam infideles. Sed haec positio est omnino irrationabilis. Sicut enim daemones sunt in malitia obstinati, et ita perpetuo puniendi; ita et animae hominum qui sine caritate decedunt; cum hoc sit hominibus mors quod angelis casus, ut Damascenus dicit.  
 
 Ad primum ergo dicendum, quod verbum illud intelligendum est de homine secundum genus suum; quia ab humano genere quandoque indignatio est remota per Christi adventum: sed illi qui in hac reconciliatione, quae facta est per Christum, noluerunt esse, vel permanere, in seipsis divinam iram perpetuaverunt, cum non sit nobis aliquis modus reconciliationis concessus nisi per Christum.  
 
@@ -524,7 +524,7 @@ Ad quintum dicendum, quod Glossa illa non loquitur simpliciter, sed sub hypothes
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam fuerunt, ut dicit Augustinus in Lib. praedicto, qui non omnibus hominibus promiserunt absolutionem a poena aeterna, sed solis Christianis; et in hoc rursum diversificati sunt.***
+Ad tertiam quaestionem dicendum, quod quidam fuerunt, ut dicit Augustinus in Lib. praedicto, qui non omnibus hominibus promiserunt absolutionem a poena aeterna, sed solis Christianis; et in hoc rursum diversificati sunt.  
 
 Quidam enim dixerunt, quod quicumque sacramenta fidei perceperunt, ab aeterna poena erunt immunes. Sed hoc est contrarium veritati; quia quidam sacramenta fidei recipiunt, et fidem non habent, sine qua *impossibile est placere Deo*. Hebr. 11.  
 
@@ -540,7 +540,7 @@ Ad tertium dicendum, quod fundamentum in verbis apostoli intelligitur fides form
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut dicit Augustinus in Lib. praedicto, quidam posuerunt non omnes qui Catholicam fidem tenent, a poena aeterna esse liberandos, sed solum illos qui misericordiae operibus insistunt, quamvis etiam aliis criminibus sint subjecti. Sed istud non potest stare; quia sine caritate non potest aliquid Deo esse acceptum, nec sine ea prodest aliquid ad vitam aeternam. Contingit autem aliquos operibus misericordiae insistere qui caritatem non habent; unde his nihil prodest ad vitam aeternam promerendam, vel ad immunitatem poenae aeternae, ut patet 1 Corinth. 13. Et praecipue hoc apparet absurdum in raptoribus, qui multa rapiunt; et tamen aliqua misericorditer largiuntur. Et ideo dicendum, quod quicumque cum peccato mortali decedunt, nec fides nec opera misericordiae eos liberabunt a poena aeterna, etiam post quantumcumque spatium temporis.***
+Ad quartam quaestionem dicendum, quod, sicut dicit Augustinus in Lib. praedicto, quidam posuerunt non omnes qui Catholicam fidem tenent, a poena aeterna esse liberandos, sed solum illos qui misericordiae operibus insistunt, quamvis etiam aliis criminibus sint subjecti. Sed istud non potest stare; quia sine caritate non potest aliquid Deo esse acceptum, nec sine ea prodest aliquid ad vitam aeternam. Contingit autem aliquos operibus misericordiae insistere qui caritatem non habent; unde his nihil prodest ad vitam aeternam promerendam, vel ad immunitatem poenae aeternae, ut patet 1 Corinth. 13. Et praecipue hoc apparet absurdum in raptoribus, qui multa rapiunt; et tamen aliqua misericorditer largiuntur. Et ideo dicendum, quod quicumque cum peccato mortali decedunt, nec fides nec opera misericordiae eos liberabunt a poena aeterna, etiam post quantumcumque spatium temporis.  
 
 Ad primum ergo dicendum, quod illi misericordiam consequentur qui misericordiam ordinate impendunt; non autem ordinate misericordiam impendunt qui seipsos in miserendo negligunt, sed magis se impugnant male agendo; et ideo tales misericordiam penitus absolventem non consequentur, etsi consequantur misericordiam de poenis debitis aliquid relaxantem.  
 
@@ -552,7 +552,7 @@ Ad quartum dicendum, quod Glossa Ambrosii loquitur de lubrico venialis peccati, 
 
 Expositio textus  
 
-****Tam grandis tamen poena est, ut ei possint nulla tormenta quae novimus, comparari*. Augustinus dicit, quod mitissima est poena parvulorum, qui tamen alienantur a regno. Et dicendum, quod hoc quod hic dicitur, intelligendum est de illis qui carent divina visione, et habent conscientiae remorsum, quod ex propria culpa ea priventur.***
+*Tam grandis tamen poena est, ut ei possint nulla tormenta quae novimus, comparari*. Augustinus dicit, quod mitissima est poena parvulorum, qui tamen alienantur a regno. Et dicendum, quod hoc quod hic dicitur, intelligendum est de illis qui carent divina visione, et habent conscientiae remorsum, quod ex propria culpa ea priventur.  
 
 *Incomprehensibilia sunt judicia ejus*. Sed contra, in Psal. 118, 13: *in labiis meis pronuntiavi omnia judicia oris tui*. Et dicendum, quod *judicia* in Psal. appellantur Dei mandata; apostolus autem dicit Dei *judicia*, dispositiones ejus.  
 

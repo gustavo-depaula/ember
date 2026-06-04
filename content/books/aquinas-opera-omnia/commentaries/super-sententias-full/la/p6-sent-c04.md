@@ -1,6 +1,8 @@
 # D. 26 - Hope
 
-***Postquam Magister determinavit de fide, hic secundo determinat de spe; et dividitur in duas partes:***
+***Divisio textus***
+
+Postquam Magister determinavit de fide, hic secundo determinat de spe; et dividitur in duas partes:  
 
 in prima determinat de spe;  
 
@@ -88,7 +90,7 @@ Articulus 2
 
 ***Utrum spes sit in alia vi quam in concupiscibili***
 
-***Ad secundum sic proceditur. Videtur quod spes non sit in alia vi quam in concupiscibili.***
+Ad secundum sic proceditur. Videtur quod spes non sit in alia vi quam in concupiscibili.  
 
 Arduum enim vel difficile non addit aliquam rationem appetibilis supra bonum: quia difficile magis habet rationem fugibilis quam appetibilis. Arduum autemThe Bruges manuscript reads *enim*. non differt a bono non arduo nisi secundum magis et minus. Sed vis concupiscibilis est boni quod desideratur. Cum ergo objectum spei sit bonum arduum vel difficile, videtur quod spes sit in concupiscibili.  
 
@@ -178,7 +180,7 @@ Ad quintum dicendum, quod cum arduum sive difficile sit proprium objectum irasci
 
 Articulus 4  
 
-***Utrum spes sit principalis passio, vel amor, vel desiderium, vel audacia, vel poenitentia***
+Utrum spes sit principalis passio, vel amor, vel desiderium, vel audacia, vel poenitentia  
 
 ***Ad quartum sic proceditur. Videtur quod spes non sit principalis passio.***
 
@@ -220,7 +222,7 @@ Articulus 5
 
 ***Utrum spes possit esse in parte intellectiva***
 
-***Ad quintum sic proceditur. Videtur quod spes non possit esse in parte intellectiva.***
+Ad quintum sic proceditur. Videtur quod spes non possit esse in parte intellectiva.  
 
 Quia passiones sunt tantum in parte sensitiva, ut dicit Philosophus inThe edited versions omit *in*. 7 *Physic*. Sed spes est passio. Ergo est in parte sensitiva.  
 
@@ -256,7 +258,7 @@ Ad quintum dicendum, quod delectatio, ut prius dictum est, ex duobus consurgit. 
 
 Quaestio 2  
 
-***Deinde quaeritur de spe secundum quod est virtus; et circa hoc quaeruntur quinque:***
+Deinde quaeritur de spe secundum quod est virtus; et circa hoc quaeruntur quinque:  
 
 primo utrum spes sit virtus;  
 
@@ -350,7 +352,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod spes non sit virtus distincta ab aliis virtutibus theologicis.***
+Ad tertium sic proceditur. Videtur quod spes non sit virtus distincta ab aliis virtutibus theologicis.  
 
 Virtutes enim distinguuntur per actus etThe Bruges manuscript adds *actus per*. objecta. Sed spes est expectatio futurae beatitudinis, quae est etiam objectum omnium virtutum theologicarum. Ergo spes non distinguitur ab aliis virtutibus theologicis.  
 
@@ -366,7 +368,7 @@ Praeterea, spes in voluntate dicitur ad similitudinem spei quae est in irascibil
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod spes non possit esse nisi formata caritate. Spes enim praesupponit merita, ut patet ex definitione ipsius. Sed meritum non potest esse in habente aliquam virtutem informem. Ergo spes non potest esse informis.***
+Ulterius. Videtur quod spes non possit esse nisi formata caritate. Spes enim praesupponit merita, ut patet ex definitione ipsius. Sed meritum non potest esse in habente aliquam virtutem informem. Ergo spes non potest esse informis.  
 
 Praeterea, ex hoc ipso quod tendit fides in Deum, est fides formata. Sed spes habet in Deum tendere. Ergo semper est spes formata.  
 
@@ -378,7 +380,7 @@ Praeterea, quicumque non habet spem, est desperatus. Sed quicumque peccat mortal
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut supra, dist. 13, quaest. 1, art. 4, quaestiunc. 2, in corp., dictum est, virtutes theologicae sunt ad ordinandum nos in finem ultimum. Ad hoc autem quod aliquis incipiat operari propter finem aliquem, oportet primo quod cognoscat finem illum, et secundo quod desideret ipsum. Sed quia voluntas est possibilium et impossibilium; neque aliquis operatur propter aliquid quod est impossibile adipisci, quamvis illud appetat: ideo oportet quod voluntas ad hoc quod operari incipiat, tendat in illud sicut in possibile: et haec inclinatio voluntatis tendentis in bonum aeternum quasi possibile sibi per gratiam, est actus spei. Et ideo spes est aliquid distinctum a fide et caritate: quia fides facit cognitionem de fine, inquantum ostendit finem bonum esse, et sic insurgit motus caritatis; inquantum vero ostendit finem esse possibilem, sic insurgit motus spei: quia fides est fundamentum omnium virtutum, praecedens omnes quantum ad naturalem ordinem actuum.***
+Respondeo dicendum ad primam quaestionem, quod, sicut supra, dist. 13, quaest. 1, art. 4, quaestiunc. 2, in corp., dictum est, virtutes theologicae sunt ad ordinandum nos in finem ultimum. Ad hoc autem quod aliquis incipiat operari propter finem aliquem, oportet primo quod cognoscat finem illum, et secundo quod desideret ipsum. Sed quia voluntas est possibilium et impossibilium; neque aliquis operatur propter aliquid quod est impossibile adipisci, quamvis illud appetat: ideo oportet quod voluntas ad hoc quod operari incipiat, tendat in illud sicut in possibile: et haec inclinatio voluntatis tendentis in bonum aeternum quasi possibile sibi per gratiam, est actus spei. Et ideo spes est aliquid distinctum a fide et caritate: quia fides facit cognitionem de fine, inquantum ostendit finem bonum esse, et sic insurgit motus caritatis; inquantum vero ostendit finem esse possibilem, sic insurgit motus spei: quia fides est fundamentum omnium virtutum, praecedens omnes quantum ad naturalem ordinem actuum.  
 
 Ad primum ergo dicendum, quod idem secundum rem est objectum omnium virtutum theologicarum, sed differt secundum rationem: quia inquantum est primum verum, est objectum fidei; inquantum est summum bonum, est objectum caritatis; inquantum est altissimum arduum, est objectum spei. Et quia beatitudo nominat maxime arduum, cum sit status omnium bonorum aggregatione completus, ut dicit Boetius, ideo in definitione spei praecipue ponitur beatitudo. Virtus*virtus*—*habitus* PLE. autem et potentia*potentia*-*potentiae* PLE. non differunt ex objectis secundum differentiam realem objecti, sed secundum diversas rationes objecti: quae quidem rationes formaliter complent objectum ipsum.  
 
@@ -390,7 +392,7 @@ Ad quartum dicendum, quod tendere in appetibile, est tam irascibilis quam concup
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut supra dictum est, quaest. praec., art. 8, in corp., desiderium et amor in hoc differunt quod amorThe edited versions add *quodammodo*. importat quamdam convenientiam et connaturalitatem ad amatum, quod quidem perficitur dum amatum aliquo modo habetur; desiderium autem importat motum in ipsum amabile nondum habitum; unde motus appetitus incipit in desiderio, et terminatur in amore completo; et ideo desiderium est quaedam inchoatio amoris, et quasi quidam amor imperfectus.***
+Ad secundam quaestionem dicendum, quod, sicut supra dictum est, quaest. praec., art. 8, in corp., desiderium et amor in hoc differunt quod amorThe edited versions add *quodammodo*. importat quamdam convenientiam et connaturalitatem ad amatum, quod quidem perficitur dum amatum aliquo modo habetur; desiderium autem importat motum in ipsum amabile nondum habitum; unde motus appetitus incipit in desiderio, et terminatur in amore completo; et ideo desiderium est quaedam inchoatio amoris, et quasi quidam amor imperfectus.  
 
 Sed quia primum habere rei est secundum quod est in potentia: quia quod est in facultate habentis, quasi jam haberi reputatur: ideo primum quod amorem inducit, est facultas habendi id quod desideratur. In hac autem facultate spes consistit; et ideo amor rei distantis, quae actu non habetur, praesupponit spem. Sed quia spes non est nisi boni, et primus motus appetitus inThe Bruges and Paris (841, 842) manuscripts omit *in*. bonum, est desiderium; ideo spes praesupponit desiderium, et est media inter amorem et desiderium.  
 
@@ -406,7 +408,7 @@ Articulus 4
 
 ***Utrum spes habeat certitudinem in suo actu***
 
-***Ad quartum sic proceditur. Videtur quod spes non habeat certitudinem in suo actu.***
+Ad quartum sic proceditur. Videtur quod spes non habeat certitudinem in suo actu.  
 
 Certitudo enim ad cognitionem pertinet, quia dubitationi opponitur. Sed spes non pertinet ad cognitionem, sed ad affectionem. Ergo ad spem non pertinetThe Bruges manuscript adds in the margin *esse*. certitudo.  
 
@@ -458,7 +460,7 @@ Sed contra, spes est de non visis, Rom. 8. Sed Christus videbat bona aeterna, qu
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod angeli et animae sanctorum spem habeant. Angelis enim accrescit gaudium ex salute illorum quos custodiunt: Luc. 15:10: *gaudium est angelis Dei*The Bruges manuscript omits *Dei*. *super uno peccatore poenitentiam agente*; et similiter etiam sancti gaudent de bonis aliorum, quae quotidie fiunt. Ergo habent aliquid quod sperent.The Bruges manuscript reads *sperant*.***
+Ulterius. Videtur quod angeli et animae sanctorum spem habeant. Angelis enim accrescit gaudium ex salute illorum quos custodiunt: Luc. 15:10: *gaudium est angelis Dei*The Bruges manuscript omits *Dei*. *super uno peccatore poenitentiam agente*; et similiter etiam sancti gaudent de bonis aliorum, quae quotidie fiunt. Ergo habent aliquid quod sperent.The Bruges manuscript reads *sperant*.  
 
 Praeterea, animae sanctorum expectant stolam corporis; unde dictum est eis, Apoc. 6:11, *ut expectarent adhuc*The Bruges manuscript omits *adhuc*. *modicum tempus*.The edited versions add *donec compleantur conservi eorum*. Sed expectatio est spei. Ergo ipsi habent spem.  
 
@@ -466,7 +468,7 @@ Sed contra: *cum venerit quod perfectum est, evacuabitur quod ex parte est*, 1 C
 
 Quaestiuncula 3  
 
-***Videtur quod nec patres qui erant in limbo, spem habuerunt.The edited versions read *habuerint*. Quia *spes quae differtur, affligit animam*, ut dicitur in Prov. 13:12. Sed in sanctis patribus qui erant in limbo, non erat aliqua afflictio. Ergo non habebant spem.***
+Videtur quod nec patres qui erant in limbo, spem habuerunt.The edited versions read *habuerint*. Quia *spes quae differtur, affligit animam*, ut dicitur in Prov. 13:12. Sed in sanctis patribus qui erant in limbo, non erat aliqua afflictio. Ergo non habebant spem.  
 
 Praeterea, spes procedit ex meritis. Sed ipsi non erant in statu merendi; similiter nec illi qui sunt in Purgatorio. Ergo non habent spem.  
 
@@ -474,7 +476,7 @@ Sed contra, quicumque cupit aliquid quod nondum habet, expectat illud. Sed patre
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod etiam damnati et daemones habentThe edited versions read *habeant*. spem. Job 40:28, dicitur de ipso:The Piana and Antwerp editions read *de seipso*. *spes ejus frustrabitur eum*. Ergo habet spem.***
+Ulterius. Videtur quod etiam damnati et daemones habentThe edited versions read *habeant*. spem. Job 40:28, dicitur de ipso:The Piana and Antwerp editions read *de seipso*. *spes ejus frustrabitur eum*. Ergo habet spem.  
 
 Praeterea, sicut fides est informis, ita et spes. Sed habent fidem informem. Ergo et spem.  
 
@@ -482,7 +484,7 @@ Sed contra, spes non est de impossibili. Sed daemones et damnati, cum sint in ma
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod Christus non habuit spem: quia spes imperfectionem importat, cum fundetur supra cognitionemThe edited versions read *agnitionem*. aenigmaticam; nihil autem imperfectionis ex parte perfectionum animae fuit in Christo; et ideo non fuit in ipso spes.The Bruges manuscript reads *in Christo non fuit spes*.***
+Respondeo dicendum ad primam quaestionem, quod Christus non habuit spem: quia spes imperfectionem importat, cum fundetur supra cognitionemThe edited versions read *agnitionem*. aenigmaticam; nihil autem imperfectionis ex parte perfectionum animae fuit in Christo; et ideo non fuit in ipso spes.The Bruges manuscript reads *in Christo non fuit spes*.  
 
 Ad primum igiturThe Paris (842) manuscript and the edited versions read *ergo*. dicendum, quod spes sumitur ibi pro expectatione praemii accidentalis, de quo non est proprie spes, quae habet Deum pro objecto; et ideo non sequitur quod Christus proprie spem habuerit.  
 
@@ -490,13 +492,13 @@ Et similiter dicendum ad secundum: quia gloria corporis non est principaleThe ed
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod angeli et beatorum animae, proprie loquendo, spem non habent; et hoc patet ex duobus. Primo, quia cum spes sit virtus theologica, habet Deum pro objecto; et ideoThe edited versions omit *ideo*. quia gaudium eorum, quod de Deo habent, crescere non potest, ideo illud quodThe Bruges manuscript adds *in*. eis accrescit, non pertinet ad spem. Secundo, quia est de arduo et difficili; etThe Bruges manuscript omits *et*. quia habenti gloriam essentialem, quae in Dei visione consistit, quidquid aliud creatumThe Bruges manuscript reads *causatum* in the margin. est, parvum est; et ideo non potest esse spes neque de gaudio quod de salute aliorum eis accrescit, neque de gaudio quod accrescit animae de gloria corporis; sed potest esse de eis desiderium; et hoc desiderium expectatio large dicitur.***
+Ad secundam quaestionem dicendum, quod angeli et beatorum animae, proprie loquendo, spem non habent; et hoc patet ex duobus. Primo, quia cum spes sit virtus theologica, habet Deum pro objecto; et ideoThe edited versions omit *ideo*. quia gaudium eorum, quod de Deo habent, crescere non potest, ideo illud quodThe Bruges manuscript adds *in*. eis accrescit, non pertinet ad spem. Secundo, quia est de arduo et difficili; etThe Bruges manuscript omits *et*. quia habenti gloriam essentialem, quae in Dei visione consistit, quidquid aliud creatumThe Bruges manuscript reads *causatum* in the margin. est, parvum est; et ideo non potest esse spes neque de gaudio quod de salute aliorum eis accrescit, neque de gaudio quod accrescit animae de gloria corporis; sed potest esse de eis desiderium; et hoc desiderium expectatio large dicitur.  
 
 Et per hoc patet solutio ad objecta.  
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod illi qui sunt in Purgatorio, et patres qui erant in limbo, habebant spem: quia spes non evacuatur nisi secundum hoc quod aliquis habet actu id quod speravit; sicut fides evacuatur per id quod videt illud quod credidit. Illi autem qui in limbo patrum erant, et qui sunt modo in Purgatorio, nondum habent beatitudinem, de qua est spes; et ideo spes eorum quam in hac vitaThe Bruges manuscript reads *quam ibi*. habebant, non est evacuata.***
+Ad tertiam quaestionem dicendum, quod illi qui sunt in Purgatorio, et patres qui erant in limbo, habebant spem: quia spes non evacuatur nisi secundum hoc quod aliquis habet actu id quod speravit; sicut fides evacuatur per id quod videt illud quod credidit. Illi autem qui in limbo patrum erant, et qui sunt modo in Purgatorio, nondum habent beatitudinem, de qua est spes; et ideo spes eorum quam in hac vitaThe Bruges manuscript reads *quam ibi*. habebant, non est evacuata.  
 
 Ad primum ergo dicendum, quod dilatio spei antiquis patribus non faciebat afflictionem, quia afflictionis capaces non erant. Vel aliterThe Vivès edition omits *aliter*. dicendum, quod quamvis spes ratione absentiae speranti afflictionem faciat,sperati affligat animam tamen ratione certitudinis delectationem facit. Et quia certitudo spei in eis deficere non poterat, ideo delectatio quae ex certitudine causabatur, absorbebat omnesThe Piana, Antwerp, Nicolaï, Venice (2nd. ed.), and Parma editions read *omnem afflictionem quae... posset*. afflictiones, quae ex absentia contingere possent.  
 
@@ -504,7 +506,7 @@ Ad secundum dicendum, quod quamvis non sint in statu merendi, tamen prius meruer
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod spes fundatur super facultatem perveniendi ad illud quod speratur, vel veram vel aestimatam. In daemonibus autem et damnatis non est facultas ad beatitudinem perveniendi neque in rei veritate neque in eorum aestimatione, quia suae damnationis ignari non sunt; et ideo in eis spes futurae beatitudinis esse non potest.***
+Ad quartam quaestionem dicendum, quod spes fundatur super facultatem perveniendi ad illud quod speratur, vel veram vel aestimatam. In daemonibus autem et damnatis non est facultas ad beatitudinem perveniendi neque in rei veritate neque in eorum aestimatione, quia suae damnationis ignari non sunt; et ideo in eis spes futurae beatitudinis esse non potest.  
 
 Ad primum ergo dicendum, quod spes ibi improprie sumitur pro expectatione dilationis judicii: unde etiamThe Bruges manuscript omits *etiam*. Christo dicebant, Matth. 8:29: *venisti ante tempus torquere nos*.  
 
@@ -512,7 +514,7 @@ Ad secundum dicendum, quod fides non est tantum de illis quae pertinent ad se, s
 
 Expositio textus  
 
-****Quia spiritualia aeterna.*The Vivès edition reads *Qua spiritualis et aeterna bona sperantur*. Contra. Aeternum est unum tantum. Ergo non debuit pluraliter dicere aeterna. Praeterea, spes est de futuro. Omne autem futurumThe edited versions add *est*. temporale; nullum temporale aeternum.The Nicolaï edition omits *nullum temporale aeternum*. ErgoThe Bruges manuscript through homoteleuton omits *ergo [spes non est... ergo] superfluit*. spes non est de aeternis. Praeterea, nullum temporale aeternum. Ergo superfluit quod dixit, *spiritualia*. Et dicendum, quod illud quod per se est aeternum, est unum tantum; sed ejus aeternitas participatur quantum ad multa bona in beatis, scilicet quantum ad diversas dotes; et hae participationesThe edited versions read *hac participatione*. dicuntur bona aeterna, non quia careant principio, sed quia carent fine. Vel referendum est ad pluralitatem attributorum. Ad secundumThe Piana and Antwerp editions read *ad tertium*, and soon *ad quartum*. dicendum, quod illud quod in se est aeternum, est futurum speranti; et sic de eoThe edited versions read *Deo*. potest esse spes. Ad tertium dicendum, quod spiritualia dicit propter dotes corporis, quae corporalia sunt, et quodammodo aeterna, inquantum in perpetuum durabunt. Vel dicendum, quod utrumque posuit, ut quasi gradatim ad objectum proprium spei perveniretur: quia est de bono spirituali, neque de quolibet, sed de aeterno,The edited versions read *neque quilibet sed de aeterno*, the Bruges manuscript reads *sed aeterno*. quod est Deus.***
+*Quia spiritualia aeterna.*The Vivès edition reads *Qua spiritualis et aeterna bona sperantur*. Contra. Aeternum est unum tantum. Ergo non debuit pluraliter dicere aeterna. Praeterea, spes est de futuro. Omne autem futurumThe edited versions add *est*. temporale; nullum temporale aeternum.The Nicolaï edition omits *nullum temporale aeternum*. ErgoThe Bruges manuscript through homoteleuton omits *ergo [spes non est... ergo] superfluit*. spes non est de aeternis. Praeterea, nullum temporale aeternum. Ergo superfluit quod dixit, *spiritualia*. Et dicendum, quod illud quod per se est aeternum, est unum tantum; sed ejus aeternitas participatur quantum ad multa bona in beatis, scilicet quantum ad diversas dotes; et hae participationesThe edited versions read *hac participatione*. dicuntur bona aeterna, non quia careant principio, sed quia carent fine. Vel referendum est ad pluralitatem attributorum. Ad secundumThe Piana and Antwerp editions read *ad tertium*, and soon *ad quartum*. dicendum, quod illud quod in se est aeternum, est futurum speranti; et sic de eoThe edited versions read *Deo*. potest esse spes. Ad tertium dicendum, quod spiritualia dicit propter dotes corporis, quae corporalia sunt, et quodammodo aeterna, inquantum in perpetuum durabunt. Vel dicendum, quod utrumque posuit, ut quasi gradatim ad objectum proprium spei perveniretur: quia est de bono spirituali, neque de quolibet, sed de aeterno,The edited versions read *neque quilibet sed de aeterno*, the Bruges manuscript reads *sed aeterno*. quod est Deus.  
 
 *Est enim spes etc*.The edited versions omit *etc*. Haec definitio datur per actum, ut dictum est. Prima autem data fuit per genus.  
 

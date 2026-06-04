@@ -1,8 +1,10 @@
 # D. 29 - Grace in the original state of man
 
+***De gratia per comparationem ad statum primi hominis in primo statu***
+
 ***Divisio textus***
 
-***Postquam determinavit de gratia absolute, hic determinat de ea per comparationem ad statum primi hominis in primo statu; et dividitur in partes duas:***
+Postquam determinavit de gratia absolute, hic determinat de ea per comparationem ad statum primi hominis in primo statu; et dividitur in partes duas:  
 
 in prima inquirit an homo in primo statu gratiam habuerit;  
 
@@ -62,7 +64,7 @@ Articulus 1
 
 ***Utrum natura in statu innocentiae eguerit gratia***
 
-***Ad primum sic proceditur. Videtur quod homo in statu innocentiae gratia non eguerit.***
+Ad primum sic proceditur. Videtur quod homo in statu innocentiae gratia non eguerit.  
 
 Ad hoc enim gratia datur hominibus, ut Deo sint accepti. Sed cum humana natura integra erat, sine aliqua corruptione peccati, homo ex bonitate naturali Deo acceptus erat; omne enim bonum, et praecipue malo impermixtum, Deo acceptum est. Ergo gratia superaddita non indigebat.  
 
@@ -98,7 +100,7 @@ Articulus 2
 
 ***Utrum homo ante peccatum habuerit gratiam***
 
-***Ad secundum sic proceditur. Videtur quod homo ante peccatum gratiam non habuerit.***
+Ad secundum sic proceditur. Videtur quod homo ante peccatum gratiam non habuerit.  
 
 Quicumque enim habet gratiam potest proficere ad meritum vitae, eo quod per gratiam meretur quis augmentum gratiae et ejus consummationem. Sed, ut supra Magister dixit, homo in primo statu non habuit unde ad meritum vitae proficere posset. Ergo gratiam non habuit.  
 
@@ -136,9 +138,9 @@ Ad quintum dicendum, quod actus personales non attingunt naturam, sed personam; 
 
 Articulus 3  
 
-***Utrum homo in statu primo habuisset tantum de gratia quantum habuit post peccatum***
+Utrum homo in statu primo habuisset tantum de gratia quantum habuit post peccatum  
 
-***Ad tertium sic proceditur. Videtur quod in primo statu homo non tantum de gratia habuisset quantum post peccatum.***
+Ad tertium sic proceditur. Videtur quod in primo statu homo non tantum de gratia habuisset quantum post peccatum.  
 
 Ut enim Philosophus dicit in 10 *Ethic*., cap. 12, ridiculum est temperantiam et fortitudinem in diis ponere, cum in eis passiones innatae et illatae non sint, circa quas fortitudo et temperantia medium communicant. Sed in primo statu Adam hujusmodi passionibus caruisset. Ergo et per consequens his virtutibus, quas tamen homo post peccatum habuit gratuitas. Non ergo tot gratias homo ante peccatum habuisset, sicut post habuit.  
 
@@ -174,9 +176,9 @@ Ad quintum dicendum, quod Christus ad hoc fuit passus ut hominis naturam reparar
 
 Articulus 4  
 
-***Utrum opera hominis sint magis efficacia ad merendum gratiam post peccatum quam ante peccatum***
+Utrum opera hominis sint magis efficacia ad merendum gratiam post peccatum quam ante peccatum  
 
-***Ad quartum sic proceditur. Videtur quod post peccatum opera hominis fuissent magis efficacia ad merendum quam ante peccatum.***
+Ad quartum sic proceditur. Videtur quod post peccatum opera hominis fuissent magis efficacia ad merendum quam ante peccatum.  
 
 In primo enim statu homo sicut nec ad malum impellens aliquid habebat, ita nec a bono retrahens. Sed supra, distinct. 24, Magister dixit quod primus homo resistendo tentationi non meruisset, quia nihil erat quod ad malum impelleret. Ergo similiter faciendo bonum, vel nihil vel minus meruisset: quia nihil erat quod a bono impediret.  
 
@@ -210,9 +212,9 @@ Ad quintum dicendum, quod quamvis homo nunc ad eumdem terminum perveniat ad quem
 
 Articulus 5  
 
-***Utrum expulsio de paradiso, et privatio justitiae originalis, sit conveniens poena primae transgressionis***
+Utrum expulsio de paradiso, et privatio justitiae originalis, sit conveniens poena primae transgressionis  
 
-***Ad quintum sic proceditur. Videtur quod poena hominis inconvenienter in littera determinetur pro peccato primae transgressionis.***
+Ad quintum sic proceditur. Videtur quod poena hominis inconvenienter in littera determinetur pro peccato primae transgressionis.  
 
 Illud enim quod propter hominem factum est, in aliquo hominiParma and PLE: *homini*; Mandonnet: *homine*. servire debet. Sed paradisus terrestris propter hominem factus est, sicut aliae creaturae. Cum igitur hominiParma and PLE: *homini*; Mandonnet: *homine*. inde ejecto in nullo serviat, videtur quod inde expelli non debuerit.  
 
@@ -248,7 +250,7 @@ Et ideo ad sextum dicendum, quod lignum vitae non erat causa per se immortalitat
 
 Expositio textus  
 
-****Operatur liberando et praeparando*, ut liberatio referatur ad expulsionem peccati, et praeparatio ad informationem animae.***
+*Operatur liberando et praeparando*, ut liberatio referatur ad expulsionem peccati, et praeparatio ad informationem animae.  
 
 *Non tamen justitiae habendae vel retinendae*; contra. Supra dictum est quod quamvis homo non haberet unde proficere posset, habuit tamen unde posset stare. Ergo liberum arbitrium sufficiebat ad justitiam retinendam.  
 

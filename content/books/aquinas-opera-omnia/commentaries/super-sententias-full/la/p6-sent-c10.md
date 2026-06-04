@@ -1,6 +1,8 @@
 # D. 32 - God's charity for us
 
-****Premissis adjiciendum est*. Postquam determinavit Magister de dilectione caritatis qua diligimus Deum, hic determinat de dilectione qua Deus diligit nos;***
+***Divisio textus***
+
+*Premissis adjiciendum est*. Postquam determinavit Magister de dilectione caritatis qua diligimus Deum, hic determinat de dilectione qua Deus diligit nos;  
 
 Et dividitur in partes duas:  
 
@@ -184,7 +186,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod Deus diligat plus justum praescitum quam peccatorem praedestinatum.***
+Ad quintum sic proceditur. Videtur quod Deus diligat plus justum praescitum quam peccatorem praedestinatum.  
 
 Proverb. 8:17: *ego diligentes me diligo*. Sed iste peccator praedestinatus non amat Deum, quem amat justus praescitus. Ergo plus diligit justum praescitum quam peccatorem praedestinatum.  
 
@@ -198,7 +200,7 @@ Praeterea, illud magis diligit cui majus bonum vult. Sed peccatori praedestinato
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod magis diligat poenitentem quam innocentem: quia gaudium ex amore consequitur. Sed plus gaudet de poenitente, ut patet Luc. 15. Ergo plus eum amat.***
+Ulterius. Videtur quod magis diligat poenitentem quam innocentem: quia gaudium ex amore consequitur. Sed plus gaudet de poenitente, ut patet Luc. 15. Ergo plus eum amat.  
 
 Praeterea, ubi homo magis operatur, magis diligit: propter quod, ut The Bruges manuscript omits *ut*; the edited versions add *quod* after *dicit 9 Ethic*. Philosophus dicit 9 *Ethic.*, matres plus diligunt filios quam patres. Sed Deus plus operatur ad salutem poenitentis quam innocentis. Ergo plus eum amat.  
 
@@ -210,7 +212,7 @@ Praeterea, supra dictum est, dist. 31, qu. 1, art. 10, quod resurgens nunquam re
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod diligat plus hominem quam angelum. Quia *nunquam* The edited versions read *nusquam*. *angelos apprehendit, sed semen Abrahae apprehendit*; Hebr. 2: The Bruges, Brussels, and Paris (841, 842, and 15.770) manuscripts read *1*.16; et sic plus fecit pro hominibus quam pro angelis. Ergo magis diligit eos.***
+Ulterius. Videtur quod diligat plus hominem quam angelum. Quia *nunquam* The edited versions read *nusquam*. *angelos apprehendit, sed semen Abrahae apprehendit*; Hebr. 2: The Bruges, Brussels, and Paris (841, 842, and 15.770) manuscripts read *1*.16; et sic plus fecit pro hominibus quam pro angelis. Ergo magis diligit eos.  
 
 Praeterea, homines pluribus modis sunt membra Christi quam angeli, scilicet quantum ad conformitatem naturae. Sed membra Christi magis diligit, ut in littera dicitur. Ergo homines plus diligit quam angelos.  
 
@@ -222,7 +224,7 @@ Praeterea, angelis in principio gloriam The Paris (841) manuscript and the edite
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod magis diligat humanum genus quam Christum: quia ipsum pro redemptione humani generis dedit, ut patet Joan. 3.***
+Ulterius. Videtur quod magis diligat humanum genus quam Christum: quia ipsum pro redemptione humani generis dedit, ut patet Joan. 3.  
 
 Praeterea, bonum commune est divinius quam bonum unius. Sed bonum humani generis est bonum commune, bonum autem Christi est bonum unius singularis personae. Ergo plus diligit humanum genus quam Christum.  
 
@@ -232,13 +234,13 @@ Praeterea, datus est ei spiritus non ad mensuram; Joan. 3. Ergo plus eum diligit
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod Deus, simpliciter loquendo, majus bonum vult peccatori praedestinato quam justo praescito; The Bruges manuscript omits *sed ut nunc vult justo praescito* through homoteleuton. sed ut nunc vult justo praescito. Haec autem determinatio ut nunc non cadit ex parte The Bruges manuscript omits *dilectionis, sed magis ex parte*. dilectionis, sed magis ex parte objecti: quia dilectio Dei non variatur per tempora: ab aeterno enim isti praedestinato voluit majus bonum. Unde simpliciter concedendum est, quod magis diligit praedestinatum quam praescitum.***
+Respondeo dicendum ad primam quaestionem, quod Deus, simpliciter loquendo, majus bonum vult peccatori praedestinato quam justo praescito; The Bruges manuscript omits *sed ut nunc vult justo praescito* through homoteleuton. sed ut nunc vult justo praescito. Haec autem determinatio ut nunc non cadit ex parte The Bruges manuscript omits *dilectionis, sed magis ex parte*. dilectionis, sed magis ex parte objecti: quia dilectio Dei non variatur per tempora: ab aeterno enim isti praedestinato voluit majus bonum. Unde simpliciter concedendum est, quod magis diligit praedestinatum quam praescitum.  
 
 Et per hoc patet responsio ad objecta, quia procedunt ut nunc.  
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod quantum ad bonum praemii essentialis aequaliter diligit poenitentem et innocentem, si aequalem habeant caritatem, vel illum magis qui majorem caritatem habet; sed quantum ad praemium accidentale plus diligit innocentem propter dignitatem innocentiae, ad quam non potest pervenire poenitens.***
+Ad secundam quaestionem dicendum, quod quantum ad bonum praemii essentialis aequaliter diligit poenitentem et innocentem, si aequalem habeant caritatem, vel illum magis qui majorem caritatem habet; sed quantum ad praemium accidentale plus diligit innocentem propter dignitatem innocentiae, ad quam non potest pervenire poenitens.  
 
 Ad primum ergo dicendum, quod quamvis poenitens resurgat in aequali caritate, et ita bonum quod sibi vult Deus, sit aequale consideratum in se, est tamen majus in comparatione ad ipsum cui datur: sicut quanto aliquis est magis indigens, magis sibi impensum reputatur beneficium; et propter hoc dicitur Deus et angeli plus gaudere de conversione ejus; sicut homo plus gaudet de modico signo sanitatis alicujus infirmantis quam de integra sanitate, dum eam habebat. Vel dicendum, quod hoc dicitur ex hoc The Bruges manuscript reads *de hoc*; the Brussels manuscript omits *ex hoc*. quod poenitens frequenter magis humilis et fervens et cautus resurgit.  
 
@@ -248,13 +250,13 @@ Ad tertium dicendum, quod quamvis sit majus respectu illius qui liberatur, non t
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod quantum ad bonum naturae plus diligit Deus angelum quam hominem; sed quantum ad bonum gloriae se habent ut excedentia et excessa: quia quosdam homines plus, et quosdam angelos plus, et quosdam aequaliter: quia homines erunt aequales angelis, et quidam etiam superiores angelis; et unicuique providit secundum exigentiam naturae et status sui.***
+Ad tertiam quaestionem dicendum, quod quantum ad bonum naturae plus diligit Deus angelum quam hominem; sed quantum ad bonum gloriae se habent ut excedentia et excessa: quia quosdam homines plus, et quosdam angelos plus, et quosdam aequaliter: quia homines erunt aequales angelis, et quidam etiam superiores angelis; et unicuique providit secundum exigentiam naturae et status sui.  
 
 Et per hoc patet responsio ad objecta. Non enim plus diligit pater filium infirmum quam sanum, quia ei The Bruges, Brussels, and Paris (841, 842, 15.539, and 15.770) add *non*. impendit remedia quae non The Bruges, Brussels, and Paris (841, 842, 15.539, and 15.770) omit *non*. impendit sano.  
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum, quod Christum diligit non solum plus quam homines, sed etiam plus quam totam creaturam, non solum quantum ad divinam naturam, sed etiam quantum ad humanam, inquantum eam praedestinavit ad majus bonum, scilicet ad unionem divinae personae.***
+Ad quartam quaestionem dicendum, quod Christum diligit non solum plus quam homines, sed etiam plus quam totam creaturam, non solum quantum ad divinam naturam, sed etiam quantum ad humanam, inquantum eam praedestinavit ad majus bonum, scilicet ad unionem divinae personae.  
 
 Ad primum ergo dicendum, quod in hoc etiam quod Christus pro hominibus fuit datus, maximum bonum ipsi Christo fuit, secundum quod in hoc virtus sua manifesta fuit, et causa fuit salutis humanae, quod est sibi valde honorificum.  
 
@@ -262,6 +264,6 @@ Ad secundum dicendum, quod quamvis sit singularis persona Christi, tamen est cau
 
 Expositio textus  
 
-****Praemissis adjiciendum est de dilectione Dei qua ipse diligit nos*. Videtur quod hoc in primo libro determinare debuerit. Et dicendum, quod etiam in primo libro poni convenienter potuit, inquantum divina dilectio est divina essentia; et hic poni congruenter potest, inquantum est exemplar nostrae dilectionis.***
+*Praemissis adjiciendum est de dilectione Dei qua ipse diligit nos*. Videtur quod hoc in primo libro determinare debuerit. Et dicendum, quod etiam in primo libro poni convenienter potuit, inquantum divina dilectio est divina essentia; et hic poni congruenter potest, inquantum est exemplar nostrae dilectionis.  
 
 *Dilectio Dei usia est*. Est enim essentia et dilectio in Deo idem re, sed differt ratione tantum, ut in primo libro dictum est.

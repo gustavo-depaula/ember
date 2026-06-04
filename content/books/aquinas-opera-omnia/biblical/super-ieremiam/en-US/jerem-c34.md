@@ -1,10 +1,12 @@
 # C. 32 - Allegory of the field
 
+***Allegory of the field***
+
 ***Lecture 1***
 
 ***Hananel’s field***
 
-***^32:1^ The word which came to Jeremiah from the Lord, in the tenth year of Zedekiah, king of Judah, which is the eighteenth year of king Nebuchadnezzar.***
+^32:1^ The word which came to Jeremiah from the Lord, in the tenth year of Zedekiah, king of Judah, which is the eighteenth year of king Nebuchadnezzar.  
 
 > ^32:2^ At that time the army of the king of Babylon laid siege to Jerusalem, and Jeremiah the prophet was shut up in the courtyard of the prison, which was in the house of the king of Judah.
 
@@ -62,7 +64,7 @@ Lecture 2
 
 ***Baruch given the deed***
 
-***^32:12^ And I gave the deed of purchase to Baruch, the son of Ner, the son of Maasiah, in the eyes of Hananel, my cousin, in the eyes of the witnesses, who were inscribed on the deed of purchase, and in the eyes of all the Jews who sat in the courtyard of the prison.***
+^32:12^ And I gave the deed of purchase to Baruch, the son of Ner, the son of Maasiah, in the eyes of Hananel, my cousin, in the eyes of the witnesses, who were inscribed on the deed of purchase, and in the eyes of all the Jews who sat in the courtyard of the prison.  
 
 > ^32:13^ And I instructed Baruch before them, saying,
 
@@ -84,7 +86,7 @@ Lecture 3
 
 ***Jeremiah’s prayer***
 
-***^32:16^ And I prayed to the Lord after I handed the deed of purchase to Baruch, son of Neri, saying:***
+^32:16^ And I prayed to the Lord after I handed the deed of purchase to Baruch, son of Neri, saying:  
 
 > ^32:17^ Alas, alas, alas! O Lord God, behold, you made the heaven and the earth in your great strength and with your outstretched arm; nor shall any word be difficult for you,
 
@@ -122,7 +124,7 @@ Lecture 4
 
 ***Disobedience in the promised land***
 
-***^32:20^ Who made signs and wonders in the land of Egypt until this day, and in Israel, and among men, and you have made yourself a name as at this day.***
+^32:20^ Who made signs and wonders in the land of Egypt until this day, and in Israel, and among men, and you have made yourself a name as at this day.  
 
 > ^32:21^ And you led your people Israel from the land of Egypt with signs and wonders, and with a mighty hand, and an outstretched arm, with great fear;
 
@@ -146,7 +148,7 @@ Lecture 5
 
 ***Buy a field for silver***
 
-***^32:25^ And you say to me, O Lord God: buy a field for silver, and call witnesses, when the city has been given into the hands of the Chaldeans?***
+^32:25^ And you say to me, O Lord God: buy a field for silver, and call witnesses, when the city has been given into the hands of the Chaldeans?  
 
 > **174**. Here, he wonders at the divine command: ***and you say to me . . . buy a field?*** This is astonishing, because it is not a time for buying. *Let the one who buys not be glad, and the one who sells not mourn; because wrath is upon all his people* (Ezek 7:12).
 
@@ -232,7 +234,7 @@ Lecture 7
 
 ***Explanation of the allegory***
 
-***^32:41b^ And I shall plant them in this land in truth, and with all my heart, and with all my soul.***
+^32:41b^ And I shall plant them in this land in truth, and with all my heart, and with all my soul.  
 
 > ^32:42^ For thus says the Lord: as I brought all this great evil upon this people, so shall I bring upon them all the good which I speak to them.
 

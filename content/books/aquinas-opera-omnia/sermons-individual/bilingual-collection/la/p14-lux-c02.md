@@ -1,5 +1,7 @@
 # Sermon
 
+******Lux orta est iusto***.***
+
 Verbum istud est breve et in eo multiplex sententia; et est in Psalmo.  
 
 **1.** Legimus quod nativitas beate Virginis multis figuris in Veteri Testamento est praemonstrata et inter alias figuras tribus figuris est specialiter designata, scilicet in ascensu aurore, in ortu stelle et in egressione virge de radice. In ascensu aurore designatur ipsius nativitas quantum ad eius sanctificationem; in ortu stelle praefiguratur quantum ad eius virginitatis integritatem; in egressu virge quantum ad elevatam et magnam contemplationem.  

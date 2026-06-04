@@ -1,6 +1,8 @@
 # D. 2 - The nature assumed in the Incarnation
 
-***Postquam determinavit de Incarnatione ex parte assumentis, in ista parte determinat ex parte naturae assumptae;***
+***Divisio textus***
+
+Postquam determinavit de Incarnatione ex parte assumentis, in ista parte determinat ex parte naturae assumptae;  
 
 et dividitur in partes tres.  
 
@@ -66,7 +68,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod humana natura non sit magis assumptibilis quam creatura irrationalis.***
+Ad primum sic proceditur. Videtur quod humana natura non sit magis assumptibilis quam creatura irrationalis.  
 
 Sicut enim dicit Augustinus *Ad Volusianum*, in rebus mirabilibus tota ratio facti est potentia facientis. Sed omnium mirabilium mirabilius est creaturam assumi in unitatem personae increatae. Ergo tota assumptibilitatis ratio est ex potentia ejus qui assumptionem facit. Sed cum illa potentia sit infinita, ex parte ipsius aequaliter est humanam naturam, vel etiam irrationalem naturam assumere. Ergo non magis debet diciEd. read *dicenda est*. natura assumptibilis quam natura irrationalis.  
 
@@ -78,7 +80,7 @@ Sed contra, nobilior creatura nobilioris doni est capax. Ergo ad illudEd. read *
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod angelica natura non sit minus assumptibilis quam natura humana. Deus enim propter suam misericordiam humanam naturam assumpsit, ut humanae miseriae subveniret. Sed sicut est miseria in humana natura, ita etiam in angelica. Cum ergo summa misericordia sit omni miseriae subvenire, videtur quod angelica natura sit assumptibilis sicut et humana.***
+Ulterius, videtur quod angelica natura non sit minus assumptibilis quam natura humana. Deus enim propter suam misericordiam humanam naturam assumpsit, ut humanae miseriae subveniret. Sed sicut est miseria in humana natura, ita etiam in angelica. Cum ergo summa misericordia sit omni miseriae subvenire, videtur quod angelica natura sit assumptibilis sicut et humana.  
 
 Praeterea, ea quae sunt magis similia, facilius uniuntur. Sed angelica naturaEd. omit *natura*. est divinaeBruges manuscript adds *naturae*. similior quamEd. add *natura*. humana, quia, ut Gregorius dicit, *quanto in angelo est natura subtilior, eo magis in illo imago Dei expressa insinuatur*. Ergo angelica natura est magis assumptibilis quam humana.  
 
@@ -86,7 +88,7 @@ Sed contra, assumptio humanae naturae ideo*ideo*.—*a deo* PLE. facta est, ut p
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod totum universum sitBruges manuscript reads *est*. magis assumptibile quam humana natura. Effectus enim universalis maxime causae universali assimilatur. Sed universum est effectus universalis Dei qui universalis causa est. Ergo universum Deo magis assimilatur quam humana natura, quae est quidam particularis effectus; et ita est magis assumptibile.***
+Ulterius, videtur quod totum universum sitBruges manuscript reads *est*. magis assumptibile quam humana natura. Effectus enim universalis maxime causae universali assimilatur. Sed universum est effectus universalis Dei qui universalis causa est. Ergo universum Deo magis assimilatur quam humana natura, quae est quidam particularis effectus; et ita est magis assumptibile.  
 
 Praeterea, per assumptionem consummatio totius universi perfecta est. Sed magis esset universum perfectum si omnes partes ejus essent assumptae. Ergo universum est magis assumptibile.  
 
@@ -106,7 +108,7 @@ Si vero finis assumptionis ponatur liberatio a peccato, sic etiam sola humana na
 
 Solutio 1  
 
-***Ad primam ergo quaestionem dicendum quod Deus de potentia absoluta creaturam irrationalem assumere potuit. Nec impedit quod creatura irrationalis personalitatem non habet: quia personalitas non debetur etiam humanae naturae assumptae ratione sui, ut infra patebit, sed ratione assumentis; unde non est ibi nisi personalitas increata. Et praeterea quamvis in natura irrationali non inveniatur persona, invenitur tamen in ea hypostasis et suppositum. Unio autem non tantum facta est in persona, sed etiam in supposito et hypostasi. Sed congruum non erat ut assumeretur, et praecipue quia natura assumpta maxime beatificatur, ut in Psalm. 64:5, dicitur: *beatus quem elegisti et assumpsisti.* Beatitudinis vero, quae in actu mentis consistit, creatura irrationalis particeps esse non potest.***
+Ad primam ergo quaestionem dicendum quod Deus de potentia absoluta creaturam irrationalem assumere potuit. Nec impedit quod creatura irrationalis personalitatem non habet: quia personalitas non debetur etiam humanae naturae assumptae ratione sui, ut infra patebit, sed ratione assumentis; unde non est ibi nisi personalitas increata. Et praeterea quamvis in natura irrationali non inveniatur persona, invenitur tamen in ea hypostasis et suppositum. Unio autem non tantum facta est in persona, sed etiam in supposito et hypostasi. Sed congruum non erat ut assumeretur, et praecipue quia natura assumpta maxime beatificatur, ut in Psalm. 64:5, dicitur: *beatus quem elegisti et assumpsisti.* Beatitudinis vero, quae in actu mentis consistit, creatura irrationalis particeps esse non potest.  
 
 Unde patet responsio ad primam objectionem, quae procedit de potentia absoluta, et non de potentia ordinata.  
 
@@ -116,7 +118,7 @@ Ad tertium dicendum quod duplex est similitudo creaturae ad Deum. Una secundum p
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum est quod de potentia absoluta loquendo, Deus potuit angelicam naturam assumere; sed natura angelica non habebat aliquam congruentiam ut assumeretur, praecipue propter duo. Primo, quia ejus peccatum non erat remediabile. Secundo, quia non decet ut aliquam perfectionem creaturae Deus assumendo auferat. Personalitas autem quaedam perfectio creaturae est. Sed si natura assumpta personalitatem propriam haberet post assumptionem, non posset esse unio in persona, quia essent duae personae. nde oportet quodBruges manuscript reads *ut*. illudEd. read *id*. quod assumptum est, personalitatem non habeat, natum tamen habere. In angelica autem natura non invenitur potentia ad personalitatem sine actu, cum non per generationem in esse procedant.Ed. read *procedat*. Et ideo non fuit congruum ut natura angelica assumeretur.***
+Ad secundam quaestionem dicendum est quod de potentia absoluta loquendo, Deus potuit angelicam naturam assumere; sed natura angelica non habebat aliquam congruentiam ut assumeretur, praecipue propter duo. Primo, quia ejus peccatum non erat remediabile. Secundo, quia non decet ut aliquam perfectionem creaturae Deus assumendo auferat. Personalitas autem quaedam perfectio creaturae est. Sed si natura assumpta personalitatem propriam haberet post assumptionem, non posset esse unio in persona, quia essent duae personae. nde oportet quodBruges manuscript reads *ut*. illudEd. read *id*. quod assumptum est, personalitatem non habeat, natum tamen habere. In angelica autem natura non invenitur potentia ad personalitatem sine actu, cum non per generationem in esse procedant.Ed. read *procedat*. Et ideo non fuit congruum ut natura angelica assumeretur.  
 
 Ad primum ergo cum objicitur*cum opponitur*.—-*quod obicitur* PLE. The other editions read *opponitur*. quod angelica natura est Deo similior quam humana, dicendum quod verum est, si natura divina in se absolute consideretur; si autem consideretur secundum quod est in personis per relationes originis distinctis, sic magis convenit cum homine, ut dictum est. Similiter etiam si consideretur secundum quod est exemplar totius creaturae. In homine enim invenitur similitudo cum qualibet creatura, ut dictum est, non autem in angelo. Similiter etiam si consideretur inquantum gubernat universum. Sicut enim Deus totus est in qualibet parte universi per essentiam, praesentiam et potentiam; sic et anima in qualibet parte corporis.  
 
@@ -124,7 +126,7 @@ Ad secundum dicendum quod causa miseriae angelorum, id est peccatum, remedium no
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod alicui toti potest convenire aliquid dupliciter: vel ratione partis, sicut homo dicitur canus propter capillos; vel ratione sui, quod scilicet ipsi toti primo convenit; et hoc est, ut in 6 *Physic.,* probatur, quod convenit toti et omnibus partibus ejus. Universum ergo potest assumi dupliciter: vel ratione partis; et sic assumptibile fuit et assumptum est humana natura assumpta; vel ratione sui,Bruges manuscript adds *totius*. et sic assumi non potuit, quia non omnes partes ejus assumptibiles erant, ut ex dictis patet.***
+Ad tertiam quaestionem dicendum quod alicui toti potest convenire aliquid dupliciter: vel ratione partis, sicut homo dicitur canus propter capillos; vel ratione sui, quod scilicet ipsi toti primo convenit; et hoc est, ut in 6 *Physic.,* probatur, quod convenit toti et omnibus partibus ejus. Universum ergo potest assumi dupliciter: vel ratione partis; et sic assumptibile fuit et assumptum est humana natura assumpta; vel ratione sui,Bruges manuscript adds *totius*. et sic assumi non potuit, quia non omnes partes ejus assumptibiles erant, ut ex dictis patet.  
 
 Ad primum ergo circa hoc objectum dicendum quod quamvis Deus sit causa universalis, est tamen maxime simplex. Et ideo cum eo magis convenit effectus universalis unitus, scilicet humana natura, in qua omnes naturae quodammodo congregantur, quam effectus universalis non simpliciter unitus, sicut est universum, ex cujus partibus non efficitur unum simpliciter, cum remaneant distinctae in actu.  
 
@@ -136,7 +138,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Filius Dei humanam naturam assumere debuit in omnibus suppositis humanae naturae.***
+Ad secundum sic proceditur. Videtur quod Filius Dei humanam naturam assumere debuit in omnibus suppositis humanae naturae.  
 
 Quia, ut Damascenus dicit: *quod est inassumptibileThe Mich. Lequien version reads *Nam non potuit sanari, quod assumptum non fuit*. est incurabile*. Sed humana natura curabilis est in omnibus suis suppositis. Ergo in omnibus debuit assumi.  
 
@@ -148,7 +150,7 @@ Sed contra, Filius Dei ad hoc carnem assumpsit, ut pro nobis satisfaciendo princ
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non debuerit assumere naturam humanam in aliquo ex stirpe Adae generato. Sicut enim dicit Apostolus ad Hebr. 7:26, *talis decebat ut nobis esset pontifex qui esset segregatus a peccatoribus*. Sed magis esset segregatus a peccatoribus, si de stirpe peccatorum carnem non assumpsisset. Ergo non debuit carnem assumere de stirpe Adae.***
+Ulterius, videtur quod non debuerit assumere naturam humanam in aliquo ex stirpe Adae generato. Sicut enim dicit Apostolus ad Hebr. 7:26, *talis decebat ut nobis esset pontifex qui esset segregatus a peccatoribus*. Sed magis esset segregatus a peccatoribus, si de stirpe peccatorum carnem non assumpsisset. Ergo non debuit carnem assumere de stirpe Adae.  
 
 Praeterea, peccatum originale est peccatum naturae et non personae, nisi per accidens. Ergo non requiritur ad satisfactionem, nisi quod sit aliquis de natura humana. Sed si aliquis homo fieret non de stirpe Adae, constat quod ad humanam naturam pertineret. Ergo congrue pro natura humana satisfacere posset.  
 
@@ -156,7 +158,7 @@ Sed contra, medicina in loco vulneris debet apponi. Sed humana natura est vitiat
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod naturam humanam assumere debuit in ipso Adam. Assumptio enim carnis ad satisfactionem ordinatur. Sed decet ut idem qui peccavit, satisfaciat. Ergo naturam humanam in ipso Adam assumere debuit.***
+Ulterius, videtur quod naturam humanam assumere debuit in ipso Adam. Assumptio enim carnis ad satisfactionem ordinatur. Sed decet ut idem qui peccavit, satisfaciat. Ergo naturam humanam in ipso Adam assumere debuit.  
 
 Praeterea, talis debuit esse humanae naturae reparatio, ut nihil homini de sua dignitate periret. Sed Adam in primo statu hoc habuit ut nullius hominis auxilio ad suam salutem indigeret. Hoc autem sibiBrussels manuscript and the other editions read *non sibi*. non restituitur in alio homine, humana natura assumpta, quia beneficio illius hominis indiget ad suam salutem. Ergo non debuitEd. read *decuit humanam naturam*. humana natura in alio quam in ipso Adam assumi.  
 
@@ -164,7 +166,7 @@ Sed contra, contrariorum non est eadem causa. Sed Adam causa fuit perditionis hu
 
 Solutio 1  
 
-***Respondeo ad primam quaestionem dicendum quod non fuit decens quod humanam naturam in omnibus suis suppositis assumeret. Et hoc propter quatuor rationes. Primo, quia omnia supposita humanae naturae nonBruges and Brussels manuscripts omit *non*. reducerentur ad plus quam*non reducerentur ad plus quam. —- reducerentur, ad plus*, PLE. ad tria supposita. Cum enim assumens et assumptum uniantur inEd. add *eodem*. supposito, non possent esse plura supposita naturae assumptae quam naturae assumentis. Secundo, propter finem assumptionis. Est enim ad reparationem humani generis ordinata per modum cujusdam mediationis inter Deum et hominem. Mediator autem qui unitatem pacis facere intendit, unus congrue debet esse. Tertio, propter unitatem ipsius assumentis. Sicut enim decuit ut divina natura tantum in uno supposito incarnaretur, ita decuit ut una natura individua assumeretur. Sic enim unius ad unum decenter est factaBrussels manuscript reads *est decenter facta*. The other editions read *decenter facta est*. conjunctio. Quarto, propter dignitatem ipsius Filii incarnati, *ut sit ipse primogenitus in multis fratribus* (Rom. 8:29) in spirituali generatione, sicut etiam est primogenitus creaturae in rerum emanatione ab uno principio. Haec autem primogenitura sibi non competeret, si plures numero humanae naturae assumptae essent.***
+Respondeo ad primam quaestionem dicendum quod non fuit decens quod humanam naturam in omnibus suis suppositis assumeret. Et hoc propter quatuor rationes. Primo, quia omnia supposita humanae naturae nonBruges and Brussels manuscripts omit *non*. reducerentur ad plus quam*non reducerentur ad plus quam. —- reducerentur, ad plus*, PLE. ad tria supposita. Cum enim assumens et assumptum uniantur inEd. add *eodem*. supposito, non possent esse plura supposita naturae assumptae quam naturae assumentis. Secundo, propter finem assumptionis. Est enim ad reparationem humani generis ordinata per modum cujusdam mediationis inter Deum et hominem. Mediator autem qui unitatem pacis facere intendit, unus congrue debet esse. Tertio, propter unitatem ipsius assumentis. Sicut enim decuit ut divina natura tantum in uno supposito incarnaretur, ita decuit ut una natura individua assumeretur. Sic enim unius ad unum decenter est factaBrussels manuscript reads *est decenter facta*. The other editions read *decenter facta est*. conjunctio. Quarto, propter dignitatem ipsius Filii incarnati, *ut sit ipse primogenitus in multis fratribus* (Rom. 8:29) in spirituali generatione, sicut etiam est primogenitus creaturae in rerum emanatione ab uno principio. Haec autem primogenitura sibi non competeret, si plures numero humanae naturae assumptae essent.  
 
 Ad primum ergo dicendum quod per Incarnationem proprie assumitur natura, ut infra patebit. Proprie etiam et primo curatur peccatum naturae. Unde si aliqua natura assumptibilis non est, curabilis non est. Non tamen oportet ut si haec natura individua non assumitur, quod suppositum hujus naturae non curetur: quia per hoc quod natura in aliquo individuo assumpta est, praeparatur curatio omnibus qui naturam similem habent; sicut e contra per hoc quod persona una infecit naturam humanam quae in ipso erat, in omnes homines peccatum transmisit.  
 
@@ -176,7 +178,7 @@ Quartum concedimus.
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod non fuit decens ut aliunde quam de stirpe Adae Filius Dei humanam naturam assumeret, praecipue propter tria. Primo, ad servandum justitiam satisfactionis. Si enim de genere Adae non fuisset, ad eum non pertineret pro peccato Adae satisfacere. Secundo, ad perfectam reintegrationem dignitatis Adae, qui hoc habuit ut ipse et suum genus nulla alia creatura indigeret, quasi sustentante et salvante. Et hoc generi ejus redditum non fuisset, si redemptus fuisset per aliquem qui ad genus ejusBruges manuscript omits *ejus*; the Brussels manuscript reads *suum*. non pertineret. Tertio, ad servandum dignitatem specialiter ipsius Adae, qui in hoc quodam modo imaginem Dei singulariter habuit, ut sicut Deus, cum sit ens primum, omnium entium principium est per creationem; ita etiam Adam, cum sit primus homo, est principium omnium hominum per generationem: quod sibi deperiret, si Christus non de ejus genere homo fieret.Bruges manuscript reads *Si Christus de ejus genere homo non fieret*.***
+Ad secundam quaestionem dicendum quod non fuit decens ut aliunde quam de stirpe Adae Filius Dei humanam naturam assumeret, praecipue propter tria. Primo, ad servandum justitiam satisfactionis. Si enim de genere Adae non fuisset, ad eum non pertineret pro peccato Adae satisfacere. Secundo, ad perfectam reintegrationem dignitatis Adae, qui hoc habuit ut ipse et suum genus nulla alia creatura indigeret, quasi sustentante et salvante. Et hoc generi ejus redditum non fuisset, si redemptus fuisset per aliquem qui ad genus ejusBruges manuscript omits *ejus*; the Brussels manuscript reads *suum*. non pertineret. Tertio, ad servandum dignitatem specialiter ipsius Adae, qui in hoc quodam modo imaginem Dei singulariter habuit, ut sicut Deus, cum sit ens primum, omnium entium principium est per creationem; ita etiam Adam, cum sit primus homo, est principium omnium hominum per generationem: quod sibi deperiret, si Christus non de ejus genere homo fieret.Bruges manuscript reads *Si Christus de ejus genere homo non fieret*.  
 
 Ad primum ergo quod objicitur quod debet esse segregatus a peccatoribus, dicendum quod verum est, inquantum peccatores sunt, non inquantum homines sunt. Venit enim peccatum destruere et naturam salvare. Unde convenientiam habuit in his quae ad naturam pertinent, sed contrarietatem in his quae ad peccatum spectant; quia neque contraxit neque commisit peccatum.  
 
@@ -186,7 +188,7 @@ Tertium concedimus.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod nullo modo fuit decens ut Filius Dei humanam naturam in ipso Adam assumeret propter duo: Primo, quia Adam propria personalitate perfectus fuit. Unde in unitatem personae assumi non posset, nisi illa personalitas destrueretur, quod non decebat, ut supra de angelis dictum est. Secundo, quia cum per assumptionem fiat communicatio proprietatum, ut quidquid de homine dicitur, de Deo dicatur; sequeretur ut diceretur quod Deus peccasset, quia Adam peccavit: quod est absurdum.***
+Ad tertiam quaestionem dicendum quod nullo modo fuit decens ut Filius Dei humanam naturam in ipso Adam assumeret propter duo: Primo, quia Adam propria personalitate perfectus fuit. Unde in unitatem personae assumi non posset, nisi illa personalitas destrueretur, quod non decebat, ut supra de angelis dictum est. Secundo, quia cum per assumptionem fiat communicatio proprietatum, ut quidquid de homine dicitur, de Deo dicatur; sequeretur ut diceretur quod Deus peccasset, quia Adam peccavit: quod est absurdum.  
 
 Ad primum ergo dicendum quod per peccatum Adae fuit infectio personalis in ipso et infectio naturaeThe Piana, Antwerp, Nicolaï, Venice, and Parma editions add *creatae in ipso et propogandae ab ipso*. creatae. Et pro infectione personali ipse gratia adjutus satisfacere potuit secundum quosdam; sed requirebatur aliquis qui pro peccato naturae satisfaceret. Et ideo non oportuit quod esset idem in persona cum Adam, sed idem in natura.  
 
@@ -214,7 +216,7 @@ Praeterea, homo non nascitur ex homine nisi per traductionem carnis. Sed Christu
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod carnem tantumEd. omit *tantum*. assumpserit et non animam. Joan. 1:14: *Verbum caro factum est*. Non autem per conversionem in carnem, sed per assumptionem carnis. Ergo solam carnem assumpsisse videtur.***
+Ulterius, videtur quod carnem tantumEd. omit *tantum*. assumpserit et non animam. Joan. 1:14: *Verbum caro factum est*. Non autem per conversionem in carnem, sed per assumptionem carnis. Ergo solam carnem assumpsisse videtur.  
 
 Praeterea, corpus non indiget ut uniatur sibi anima, nisi ad hoc ut per ipsam vivificetur. Sed ad hoc utEd. read *quod*. corpus vivificetur, sufficit quodBruges manuscript reads *ut*. corpori vivificabili principium vitae uniatur. Cum ergo Deus, qui est principium vitae, corpus sibi univerit, videtur quod unio corporis ad animam superflua fuisset.  
 
@@ -228,7 +230,7 @@ Praeterea, sequeretur quod Deus esset immediatusBruges manuscript reads *immedia
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non assumpserit formam totius ex compositione partium resultantem. Forma enim totius est illa in qua sicut in natura communi particularia conveniunt. Sed Damascenus dicit, et habetur in littera, quod *in DominoEd. read *nostro*. Jesu Christo non est communem speciem accipere*. Ergo in eo forma totius non fuit.***
+Ulterius, videtur quod non assumpserit formam totius ex compositione partium resultantem. Forma enim totius est illa in qua sicut in natura communi particularia conveniunt. Sed Damascenus dicit, et habetur in littera, quod *in DominoEd. read *nostro*. Jesu Christo non est communem speciem accipere*. Ergo in eo forma totius non fuit.  
 
 Praeterea, ut dicit Boetius, *species est totum esse individuorum*. Sed nihil in Christo fuit ex parte carnis et animae quod totum esse ipsius Christi concluderet, quia habuit esse divinum non per animam neque per corpus. Ergo cum forma totius sit species in potentia, videtur quod in Christo forma totius non fuerit.  
 
@@ -268,7 +270,7 @@ Quartum et quintum concedimus.
 
 Solutio 2  
 
-***Ad secundam quaestionem sciendum estBruges and Paris (842, 843) manuscripts read *dicendum est*. The other editions read *est sciendum*. quod circa hoc etiam fuerunt duo errores. Unus fuit Arii et Eunomii, qui dicebant Filium Dei carnem sine anima assumpsisse; quia opinabantur divinitatem sine anima corpus ejus vivificare. Alius fuit error Apollinaris, qui dicebat in Christo corpus animatum fuisse, tamenBrussels manuscript and the Piana, Antwerp, Nicolaï, Venice, and Parma editions read *cum*. anima carente sensu et intellectu. Uterque autem error et veritati humanitatis derogat, et dignitati corporis Christi.***
+Ad secundam quaestionem sciendum estBruges and Paris (842, 843) manuscripts read *dicendum est*. The other editions read *est sciendum*. quod circa hoc etiam fuerunt duo errores. Unus fuit Arii et Eunomii, qui dicebant Filium Dei carnem sine anima assumpsisse; quia opinabantur divinitatem sine anima corpus ejus vivificare. Alius fuit error Apollinaris, qui dicebat in Christo corpus animatum fuisse, tamenBrussels manuscript and the Piana, Antwerp, Nicolaï, Venice, and Parma editions read *cum*. anima carente sensu et intellectu. Uterque autem error et veritati humanitatis derogat, et dignitati corporis Christi.  
 
 Non enim potest esse ut materia in aliquo esse perficiatur, nisi per aliquid quod sit forma ejus. Unde cum Deus nullo modo forma corporis esse possit—quia oporteret eum esse partem et non immaterialissimum—sequeretur quod corpus Christi, si omnino careret anima, esset sicut corpus non vivum; et si careret anima sensibili et rationali, esset sicut corpus plantae: unde esset multo minus nobile quam corpus nostrum. Similiter etiam cum de ratione hominis sit rationalem animam habere, si ea Christus caruisset, verus homo non fuisset.  
 
@@ -286,7 +288,7 @@ Alia triaPLE: *tria*. concedimus.
 
 Solutio 3  
 
-***Ad tertiam quaestionem sciendum est quod quidam posuerunt Deum assumpsisse animam et corpus, non ita quod ex eorum conjunctione aliqua humanitas resultaret. Et haec opinio similiter veritatem humanitatis tollit et dignitatem corporis Christi. Non enim Christus verus homo esse potuit, nec corpus ejus vere vivum, nisi anima corpori unita fuisset ut forma ejus, ita quod ex eis unum quid efficeretur. Sed de hac opinione infra dicetur, 3 d. Unde dicendum quod sicut in Christo verum corpus et vera anima fuit; ita et vera humanitas, id est natura humana, ex conjunctione utriusque resultans.***
+Ad tertiam quaestionem sciendum est quod quidam posuerunt Deum assumpsisse animam et corpus, non ita quod ex eorum conjunctione aliqua humanitas resultaret. Et haec opinio similiter veritatem humanitatis tollit et dignitatem corporis Christi. Non enim Christus verus homo esse potuit, nec corpus ejus vere vivum, nisi anima corpori unita fuisset ut forma ejus, ita quod ex eis unum quid efficeretur. Sed de hac opinione infra dicetur, 3 d. Unde dicendum quod sicut in Christo verum corpus et vera anima fuit; ita et vera humanitas, id est natura humana, ex conjunctione utriusque resultans.  
 
 Ad primum circa hoc objectum dicendum quod Damascenus intendit dicere, quod non est unio facta in una natura, ut Eutychiani posuerunt. Et ideo vult quod ex conjunctione divinitatis ad humanitatem non resultet aliqua natura communis tertia; quia illa neque esset divinitas neque humanitas, sicut humanitas neque est anima neque corpus; unde Christus neque esset Deus neque homo, sed tantum Christus. Non autem intendit quod ex conjunctione animae ad corpus non resultet forma totius, per quam in specie cum aliis hominibus communicet.  
 
@@ -326,7 +328,7 @@ Praeterea, multum distantia non conjunguntur nisi per medium, quod minus distat 
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non assumpserit animam mediante spiritu. Impossibile est enim ut per idem medium uniatur aliquid superiori et inferiori; quia illud quo unitur inferiori, est infra ipsum; illud quo unitur superiori, est supra ipsum. Sed anima mediante spiritu unitur corpori, quod est infra ipsum, ut quidam dicunt. Ergo non unitur Deo, qui est supra eam, mediante spiritu.***
+Ulterius, videtur quod non assumpserit animam mediante spiritu. Impossibile est enim ut per idem medium uniatur aliquid superiori et inferiori; quia illud quo unitur inferiori, est infra ipsum; illud quo unitur superiori, est supra ipsum. Sed anima mediante spiritu unitur corpori, quod est infra ipsum, ut quidam dicunt. Ergo non unitur Deo, qui est supra eam, mediante spiritu.  
 
 Praeterea, medium oportet differre ab extremis. Sed mens quae "spiritus" dicitur ab Augustino, non est extra essentiam animae, immo est id quod in anima nostra sublimius est, in qua imago Dei invenitur, ut idem Augustinus dicit. Ergo non assumpsit animam mediante spiritu.  
 
@@ -338,7 +340,7 @@ Praeterea, sicut anima corpore, ita aliis partibus animae spiritus superior est.
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non assumpserit totum mediantibus partibus. Illud enim quod convenit toti ratione partium, non solum convenit toti, sed etiam partibus. Sed DivinitasEd. read *Deitas*. non praedicatur de partibus humanae naturae: non enim dicimus quod anima sit Deus, vel quod corpus sit Deus; praedicatur autem de toto cum dicimus Deum hominem esse. Ergo cum per assumptionem humanae naturae praedicetur Deus de homine et e converso, videtur quod partes non assumpserit nisi mediante toto.***
+Ulterius, videtur quod non assumpserit totum mediantibus partibus. Illud enim quod convenit toti ratione partium, non solum convenit toti, sed etiam partibus. Sed DivinitasEd. read *Deitas*. non praedicatur de partibus humanae naturae: non enim dicimus quod anima sit Deus, vel quod corpus sit Deus; praedicatur autem de toto cum dicimus Deum hominem esse. Ergo cum per assumptionem humanae naturae praedicetur Deus de homine et e converso, videtur quod partes non assumpserit nisi mediante toto.  
 
 Praeterea, alia est singularitas uniuscujusque partis hominis, et singularitas divinae personae vel incommunicabilitas, quia partes sunt plures, sed persona assumens una est. Est autem eademEd. omit *eadem*. singularitas personae assumentis et totius hominis, quia eadem est hypostasis utriusque, ut dicit Damascenus. Ergo videtur quod partes non assumpserit nisi mediante toto.  
 
@@ -356,7 +358,7 @@ Medium autem necessitatis est sine quo conjunctio extremorum esse non potest; si
 
 Solutio 1  
 
-***His ergoEd. read *igitur*. visis, ad primam quaestionem dicendum estEd. omit *est*. quod anima est quodammodo medium quo corpus divinitati unitur. Sed sciendum quod, si anima comparetur ad unionem in actu, est medium congruentiae tantum. Non enim decet ut divinitas corpori uniatur, nisi habeat animam:—tum quia animaEd. omit *anima*. est Deo propinquior,—tum quia pluribus modis est Deo unibilis quam corpus, quia etiam per gratiam et gloriam;—tum etiam quia corpori unitur propter reparationem animae. Si vero comparetur ad unibilitatem, sic est medium necessitatis, sicut causans formaliter unibilitatem in corpore. Non enim corpus est unibile servato ordine ad finem unionis, secundum quod creatura rationalis assumptibilis prae aliis dicta est, nisi per hoc quod particeps est imaginis Dei mediante anima; unde corpora inanimata unibilia non sunt.***
+His ergoEd. read *igitur*. visis, ad primam quaestionem dicendum estEd. omit *est*. quod anima est quodammodo medium quo corpus divinitati unitur. Sed sciendum quod, si anima comparetur ad unionem in actu, est medium congruentiae tantum. Non enim decet ut divinitas corpori uniatur, nisi habeat animam:—tum quia animaEd. omit *anima*. est Deo propinquior,—tum quia pluribus modis est Deo unibilis quam corpus, quia etiam per gratiam et gloriam;—tum etiam quia corpori unitur propter reparationem animae. Si vero comparetur ad unibilitatem, sic est medium necessitatis, sicut causans formaliter unibilitatem in corpore. Non enim corpus est unibile servato ordine ad finem unionis, secundum quod creatura rationalis assumptibilis prae aliis dicta est, nisi per hoc quod particeps est imaginis Dei mediante anima; unde corpora inanimata unibilia non sunt.  
 
 Ad primum ergo dicendum quod si tollatur medium quod est causa conjunctionis in actu, necesse est unita dissolvi. Sicut subtracto amore, hominum corda ulterius unum non erunt. Semper enim ablata causa, aufertur effectus; subtracto tamen medio congruentiae quod ad decentiam unionis faciebat, non est necessarium unita dissolvi. Similiter etiamEd. read *autem*. non est necessarium ut si tollatur medium, quod est causa conjungibilitatis quodEd. omit *quod*. unio dissolvatur. Potest enim esse ut causet conjungibilitatem etiam postquam abscesserit, dummodo remaneat ordo et possibilitas ad ipsum, quia forte conjunctio actualis medii non est causa conjungibilitatis ad extremum, sed potius conjungibilitas medii. Sicut actualis consideratio principiorum est medium quo habitus conclusionum acquiritur; non tamen transeunte actuali consideratione principiorum, transit habitus conclusionis, eo quod adhuc manet habilitas ad considerandum principia. Unde cum anima sit medium congruentiae, et causans unibilitatem in corpore, non oportet quod abscedente anima conjunctio divinitatis ad carnem dirimatur; quia adhuc remanet in corpore habilitas et ordo ad animam, ratione cujus remanet in carne convenientia unionis, et unibilitas ad divinitatem.  
 
@@ -366,7 +368,7 @@ Ad tertium dicendum quod creatura ex seipsa receptibilis est divini influxus in 
 
 Solutio 2  
 
-***Ad secundam quaestionem sciendum estEd. read *dicendum*. quod, secundum Augustinum, "spiritus" multipliciter dicitur. Uno modo, ipsum corpus subtile, ut aer. Alio modo, corpus animae omnino subjectum, sicut corpora sanctorum in resurrectione, 1 Cor. 15. Tertio modo, quaelibet anima brutorum, Eccl. 3:21: *quis novit . . . si spiritus jumentorum descendat deorsum?* Quarto, virtus imaginaria, 1 Cor. 14:15: *psallam spiritu, psallam mente*. Quinto, ipsa mens hominis vel angeli, Ephes. 4:23: *renovamini spiritu mentis vestrae*. Sexto, ipsa divina substantia, Joan. 4:24: *spiritus est Deus*. Nunc autem loquimur de spiritu secundum quod pro mente ponitur. Unde dicendum quod spiritu mediante divinitasBruges manuscript reads *mediante spiritu Divinitas* . . . ; the other editions read *Divinitas mediante spiritu*. animam assumpsit, sicut anima mediante,Bruges manuscript reads *mediante anima*. corpus. Sicut enim corpus non est assumptibile nisi per hoc quod habet animam; ita anima non est assumptibilis nisi per hoc quod mens in ea est, per quam imaginem Dei habet.***
+Ad secundam quaestionem sciendum estEd. read *dicendum*. quod, secundum Augustinum, "spiritus" multipliciter dicitur. Uno modo, ipsum corpus subtile, ut aer. Alio modo, corpus animae omnino subjectum, sicut corpora sanctorum in resurrectione, 1 Cor. 15. Tertio modo, quaelibet anima brutorum, Eccl. 3:21: *quis novit . . . si spiritus jumentorum descendat deorsum?* Quarto, virtus imaginaria, 1 Cor. 14:15: *psallam spiritu, psallam mente*. Quinto, ipsa mens hominis vel angeli, Ephes. 4:23: *renovamini spiritu mentis vestrae*. Sexto, ipsa divina substantia, Joan. 4:24: *spiritus est Deus*. Nunc autem loquimur de spiritu secundum quod pro mente ponitur. Unde dicendum quod spiritu mediante divinitasBruges manuscript reads *mediante spiritu Divinitas* . . . ; the other editions read *Divinitas mediante spiritu*. animam assumpsit, sicut anima mediante,Bruges manuscript reads *mediante anima*. corpus. Sicut enim corpus non est assumptibile nisi per hoc quod habet animam; ita anima non est assumptibilis nisi per hoc quod mens in ea est, per quam imaginem Dei habet.  
 
 Ad primum ergoBruges manuscript omits *ergo*. circa hoc objectum dicendum quod ratio illa procedit ex aequivocatione spiritus, ut ex dictis patet.  
 
@@ -378,7 +380,7 @@ Alia duo concedimus.
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod partes originaliter sunt priores toto, quasi constituentes ipsum. Totum autem completive est prius partibus, quia ratio naturae completae invenitur primoEd. read *primo*. in ipso toto, et ad partes ejus pervenit mediante toto, inquantum ejus partes sunt; unde etiam sunt in genere per reductionem. Et ideo dicendum est quod quodammodo mediantibus partibus assumpsit totum, inquantum scilicet partes originaliter humanam naturam constituebant, cui per se assumptio debebatur; quodammodo autem partes mediante toto, inquantum ratio humanae naturae, quae per se assumptibilis est, per prius invenitur in toto, et per hoc in partibus.***
+Ad tertiam quaestionem dicendum quod partes originaliter sunt priores toto, quasi constituentes ipsum. Totum autem completive est prius partibus, quia ratio naturae completae invenitur primoEd. read *primo*. in ipso toto, et ad partes ejus pervenit mediante toto, inquantum ejus partes sunt; unde etiam sunt in genere per reductionem. Et ideo dicendum est quod quodammodo mediantibus partibus assumpsit totum, inquantum scilicet partes originaliter humanam naturam constituebant, cui per se assumptio debebatur; quodammodo autem partes mediante toto, inquantum ratio humanae naturae, quae per se assumptibilis est, per prius invenitur in toto, et per hoc in partibus.  
 
 Ad primum ergo dicendum quod quamvis de partibus humanae naturae Deus non praedicetur, tamen partes illae causantEd. add *originaliter*. PLE: *causant*. assumptibilitatem in toto. Sicut etiamEd. omit *etiam*. homo dicitur esseEd. omit *esse*. animal, non autem corpus vel anima dicitur animal, quamvis ex corpore et anima causetur in homine utEd. read *quod*. animal sit.  
 
@@ -396,7 +398,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod natura humana assumpta sit mediante gratia.***
+Ad secundum sic proceditur. Videtur quod natura humana assumpta sit mediante gratia.  
 
 Sicut enim dicit Augustinus, *in rebus per tempus exortis summa gratia est quod Deus in unitate personae homini nullis meritis praecedentibus copulatur*. Sed in his quae fiunt per gratiam, gratia medium cadit. Ergo natura humana unitur divinitati mediante gratia.  
 
@@ -410,7 +412,7 @@ Praeterea, in his quae miraculose fiunt, non requiritur aliquod medium disponens
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod Filius Dei assumpsit carnem mediante Spiritu Sancto. Verbum enim creatum non unitur voci, nisi mediante spiritu. Sed sicut verbum mentis humanae unitur voci, ita Verbum divinum unitur carni, ut dicit Augustinus. Ergo illa unio facta est mediante Spiritu Sancto.***
+Ulterius, videtur quod Filius Dei assumpsit carnem mediante Spiritu Sancto. Verbum enim creatum non unitur voci, nisi mediante spiritu. Sed sicut verbum mentis humanae unitur voci, ita Verbum divinum unitur carni, ut dicit Augustinus. Ergo illa unio facta est mediante Spiritu Sancto.  
 
 Praeterea, in omni conjunctione quae fit per gratuitam voluntatem, amor medium cadit. Sed unio Filii Dei ad humanam naturam est hujusmodi. Ergo in ea Spiritus Sanctus, qui est amor, medium est.  
 
@@ -420,7 +422,7 @@ Sed contra, medium magis unitur utrique extremorum quam extrema ad invicem. Sed 
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod nec unio cadat medium inter naturam humanam et divinam. Nullum enim accidens cadit medium in aliqua unione substantiali. Sed unio, cum sit relatio, quoddam accidens est. Ergo cum unio divinitatis ad humanitatem non sit accidentalis, sed in substantia quae hypostasis dicitur, videtur quod in illa unione medium cadere non possit.***
+Ulterius, videtur quod nec unio cadat medium inter naturam humanam et divinam. Nullum enim accidens cadit medium in aliqua unione substantiali. Sed unio, cum sit relatio, quoddam accidens est. Ergo cum unio divinitatis ad humanitatem non sit accidentalis, sed in substantia quae hypostasis dicitur, videtur quod in illa unione medium cadere non possit.  
 
 Praeterea, si unio illa res aliqua est, aut est aeterna, aut temporalis. Si aeterna, cum compositionem non sit intelligere sine compositis,The Piana, Antwerp, Nicolaï, Venice, and Parma editions read *componentibus*. ut dicit Philosophus, lib. 6 *Top*., oporteret quod homo ab aeterno Deo unitus fuisset. Si temporalis, cum unio sit in utroque extremorum, videtur quod aliquodEd. read *aliquod*. temporale in Deo sit: quod est impossibile. Ergo unio non est aliqua res cadens medium inter humanam naturam et divinam.  
 
@@ -432,7 +434,7 @@ Respondeo, supposita distinctione in praedicto articulo praemissa, sciendum est 
 
 Solutio 1  
 
-***Ad primam ergo quaestionem dicendum, quod sicut in 2 lib. d. 26, Magister dicit, "gratia" dicitur dupliciter: uno modo, ipse Deus gratis dans, vel gratuita voluntas ejus; alio modo, donum aliquod gratis datum. Primo ergo modo accipiendo gratiam, gratia est medium unionis quasi unionem efficaciter causans; quia gratuita sua voluntate sine meritis praecedentibus carnem assumpsit. Secundo modo accipiendo gratiam, non cadit ibi medium aliquod habituale donum, sicut unionem vel unibilitatem formaliter causans; sed solum est sicut medium congruitatis, sicut etiam scientia et perfectio corporis, et hujusmodi, quae decuit naturae assumptae non deesse. Nisi forte gratia ipsa unio dicatur, quae est quoddam donum gratiae gratis datum: quae quomodo sit medium, post dicetur.***
+Ad primam ergo quaestionem dicendum, quod sicut in 2 lib. d. 26, Magister dicit, "gratia" dicitur dupliciter: uno modo, ipse Deus gratis dans, vel gratuita voluntas ejus; alio modo, donum aliquod gratis datum. Primo ergo modo accipiendo gratiam, gratia est medium unionis quasi unionem efficaciter causans; quia gratuita sua voluntate sine meritis praecedentibus carnem assumpsit. Secundo modo accipiendo gratiam, non cadit ibi medium aliquod habituale donum, sicut unionem vel unibilitatem formaliter causans; sed solum est sicut medium congruitatis, sicut etiam scientia et perfectio corporis, et hujusmodi, quae decuit naturae assumptae non deesse. Nisi forte gratia ipsa unio dicatur, quae est quoddam donum gratiae gratis datum: quae quomodo sit medium, post dicetur.  
 
 Ad primum ergo dicendum quod, sicut ipsemet se exponit, assumptio illa ad maximam gratiam pertinet; quia tam maximum donum collatum est homini ut esset Filius Dei, nullis praecedentibus meritis. Unde gratiaEd. add *divina*. ibi significat voluntatem divinam, unionem gratis facientem, et non habitum aliquem, quo interveniente unio completa sit.  
 
@@ -442,7 +444,7 @@ Ad tertium dicendum quod quamvis assumi in unitatem divinae personae sit supra f
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod Spiritus Sanctus non potest dici in illa unione medium, nisi sicut unionem effective causans: quae, quamvis effectus totius Trinitatis sit, tamen Spiritui Sancto appropriatur, ut infra dicetur, d. 4.***
+Ad secundam quaestionem dicendum quod Spiritus Sanctus non potest dici in illa unione medium, nisi sicut unionem effective causans: quae, quamvis effectus totius Trinitatis sit, tamen Spiritui Sancto appropriatur, ut infra dicetur, d. 4.  
 
 Ad primum ergo dicendum quod etiam verbum creatum voci non unitur mediante spiritu, nisi sicut per medium effectivum unionis; quia, sicut dicit Philosophus in 2 *De anima*, *percussio respirati aeris ad arteriam est causa vocis*; et per hunc etiam modum Spiritui Sancto appropriatur efficientia carnis, cui Verbum increatum unitur.  
 
@@ -452,7 +454,7 @@ Ad tertium dicendum quod Spiritus Sanctus etiam dicitur propinquior nobis, inqua
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum est quod inter humanam naturam et divinam necesse est cadere unionem mediam, non sicut causam, sed sicut effectum conjunctionem naturarum consequentem. Est enim natura relationis ut in aliis rerum generibus causam habeat, quia minimum habet de natura entis, ut Commentator, 12 *Meta*., dicit. Unde quamvis relatio per se non terminet motum, quia in *ad aliquid non est motus*, ut probatur in 5 *Phys.,* tamen ex hoc quod motus terminatur per se ad aliquod ens, de necessitate consequitur relatio aliqua. Sicut ex hoc quod motus alterationis terminatur ad albedinem, consequitur relatio similitudinis ad omnia alba; similiter etiam ex hoc quod motus generationis terminatur ad formam, consequitur haec relatio secundum quam materia esse sub forma dicitur; ita etiam ex hoc quod motus assumptionis naturae humanae terminatur ad personam, consequitur haec relatio quae unio dicitur. Unde unio est medium, non sicut assumptionem causans, sed potius sicut eam consequens; sicut etiam dictum est supra, quod aqua est medium in tactu ex hoc quod tangentia humectaEd. read *humectata*. sunt.***
+Ad tertiam quaestionem dicendum est quod inter humanam naturam et divinam necesse est cadere unionem mediam, non sicut causam, sed sicut effectum conjunctionem naturarum consequentem. Est enim natura relationis ut in aliis rerum generibus causam habeat, quia minimum habet de natura entis, ut Commentator, 12 *Meta*., dicit. Unde quamvis relatio per se non terminet motum, quia in *ad aliquid non est motus*, ut probatur in 5 *Phys.,* tamen ex hoc quod motus terminatur per se ad aliquod ens, de necessitate consequitur relatio aliqua. Sicut ex hoc quod motus alterationis terminatur ad albedinem, consequitur relatio similitudinis ad omnia alba; similiter etiam ex hoc quod motus generationis terminatur ad formam, consequitur haec relatio secundum quam materia esse sub forma dicitur; ita etiam ex hoc quod motus assumptionis naturae humanae terminatur ad personam, consequitur haec relatio quae unio dicitur. Unde unio est medium, non sicut assumptionem causans, sed potius sicut eam consequens; sicut etiam dictum est supra, quod aqua est medium in tactu ex hoc quod tangentia humectaEd. read *humectata*. sunt.  
 
 Ad primum ergo dicendum quod nihil prohibet accidens esse medium in conjunctione substantiali sicut conjunctionem sequens; impossibile est tamen ut sit medium conjunctionem causans.  
 
@@ -466,7 +468,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod caro prius fuerit concepta quam assumeretur.***
+Ad tertium sic proceditur. Videtur quod caro prius fuerit concepta quam assumeretur.  
 
 Quod enim non est, non potest assumi. Sed caro per conceptionem efficitur ens. Caro ergo prius fuit concepta quam assumeretur.  
 
@@ -476,7 +478,7 @@ Sed contra, sola unione communicatio proprietatum efficitur, ut quod de homine d
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod caro prius fuitBrussels manuscript and the other editions read *fuerit*. assumpta quam animata. Quod enim est primum in resolutione, est ultimum in compositione. Sed anima separata est a carne, adhuc manente unione carnis ad divinitatem. Ergo caro prius est assumpta a divinitate quam animaretur.***
+Ulterius, videtur quod caro prius fuitBrussels manuscript and the other editions read *fuerit*. assumpta quam animata. Quod enim est primum in resolutione, est ultimum in compositione. Sed anima separata est a carne, adhuc manente unione carnis ad divinitatem. Ergo caro prius est assumpta a divinitate quam animaretur.  
 
 Praeterea, anima, cum sit forma, requirit propriam materiam, scilicet corpus organicum in quo sit. Hoc autem fit per conceptionem carnis. Ergo conceptio praecedit animationem. Sed conceptio carnis simul est cum ipsius assumptione, ut probatum est. Ergo caro prius fuit assumpta quam animata anima rationali.  
 
@@ -484,7 +486,7 @@ Sed contra, caro unitur divinitati mediante anima, ut supra habitum est. Sed ext
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod anima sit prius assumpta quam corpori conjuncta. Extremum enim prius conjungitur medio quam alteri extremorum. Sed divinitas unitur carni mediante anima. Ergo prius unitur animae quam carni. Sed simul anima et divinitas carni uniuntur. Ergo divinitas prius unitur animae quam carni.***
+Ulterius, videtur quod anima sit prius assumpta quam corpori conjuncta. Extremum enim prius conjungitur medio quam alteri extremorum. Sed divinitas unitur carni mediante anima. Ergo prius unitur animae quam carni. Sed simul anima et divinitas carni uniuntur. Ergo divinitas prius unitur animae quam carni.  
 
 Praeterea, persona Christi ex tribus substantiis componi dicitur, scilicet ex divinitate, anima et carne: quorum supremum est Divinitas,Ed. read *Deitas*. et infimum est caro, anima autem est medium. Sed divinitas prius fuit quam animae et carni uniretur. Ergo si medium cum extremis communicat, videtur quod anima sit posterior Divinitate, et prior carne. Sed anima simul creata est et assumpta. Ergo anima prius est assumpta quam carni uniatur.  
 
@@ -496,7 +498,7 @@ Et ideo nullum horum trium est possibile: scilicet neque ut caro concepta prius 
 
 Solutio 1  
 
-***Unde patet responsio ad primam quaestionem. Non enim fuit possibile quod caro prius fuerit concepta, et postmodum assumpta. Quia si ante assumptionem concepta fuisset, propriam hypostasim habuisset; et tunc post assumptionem, vel mansisset illa hypostasis, et sic non potuisset fieri unio in hypostasi; vel non mansisset, et hoc sine corruptione carnis prius conceptae accidere non posset. Ratio enim hypostasis non est accidentalis rei, ut re eadem numero manente alia hypostasis esse possit.***
+Unde patet responsio ad primam quaestionem. Non enim fuit possibile quod caro prius fuerit concepta, et postmodum assumpta. Quia si ante assumptionem concepta fuisset, propriam hypostasim habuisset; et tunc post assumptionem, vel mansisset illa hypostasis, et sic non potuisset fieri unio in hypostasi; vel non mansisset, et hoc sine corruptione carnis prius conceptae accidere non posset. Ratio enim hypostasis non est accidentalis rei, ut re eadem numero manente alia hypostasis esse possit.  
 
 Ad primum ergo dicendum quod quamvis illud quod non est, non possit assumi, tamen possibile est ut in eodem instanti in quo esse habet, assumatur, ut sic esse rei assumptae non praecedat assumptionem tempore, sed natura.  
 
@@ -504,7 +506,7 @@ Ad secundum dicendum quod quamvis motus secundum principium sui vel medium non p
 
 Solutio 2  
 
-***Ad secundam quaestionem patet etiam responsio ex praedictis. Non enimBruges manuscript omits *enim*. est possibile ut caro prius assumpta sit, et postmodum animata, propter duo, tum quia assumptibilitatem habet ab anima, quam sibi anima conferre non potest antequam ei uniatur, tum etiamBruges manuscript omits *etiam*. quia partes assumptibilitatem habent a toto, ut prius dictum est.***
+Ad secundam quaestionem patet etiam responsio ex praedictis. Non enimBruges manuscript omits *enim*. est possibile ut caro prius assumpta sit, et postmodum animata, propter duo, tum quia assumptibilitatem habet ab anima, quam sibi anima conferre non potest antequam ei uniatur, tum etiamBruges manuscript omits *etiam*. quia partes assumptibilitatem habent a toto, ut prius dictum est.  
 
 Ad primum ergo dicendum quod corpus assumptibile est, secundum quod ordinem habet ad animam et ad totum: quem ordinem habere non potest nisi postquam animae unitum est, et actu pars humanae naturae effectum. Et tamen separata anima et dissoluto toto, adhuc remanet ille ordo in corpore secundum spem resurrectionis. Sicut etiamEd. read *et*. habitus acquisitus, ut virtus politica, causatur per actualem operationem, et tamen transeunte actuali operatione, remanet habitus. Unde patet quod corpus non potest assumi antequam animae uniatur; et tamen si anima separaretur post unionem, remanebit caro nihilominus assumpta et divinitati unita.  
 
@@ -512,7 +514,7 @@ Ad secundum dicendum quod forma praesupponit materiam propriam et dispositam, no
 
 Solutio 3  
 
-***Ad tertiam quaestionem patet responsio ex praedictis. Non enim potuit anima prius assumi quam carni uniretur, cum assumptibilis sit per hoc quod est pars naturae humanae.***
+Ad tertiam quaestionem patet responsio ex praedictis. Non enim potuit anima prius assumi quam carni uniretur, cum assumptibilis sit per hoc quod est pars naturae humanae.  
 
 Ad primum ergo dicendum quod extremum non semper prius tempore conjungitur medio quam alteri extremorum. Simul enim tempore aer patitur a colore, et visus; sed tamen aer prius patitur ordine naturae, quia passio aeris causat passionem visus. Similiter etiamBruges manuscript reads *enim*. non est necessarium quod prius tempore DivinitasEd. read *Deitas*. animae unita sit quam carni.  
 
@@ -520,7 +522,7 @@ Ad secundum dicendum quod anima quamvis sit dignior corpore, est tamen forma cor
 
 Expositio textus  
 
-****Quod autem humanae naturae etc*. Non est intelligendum per humanitatem anima et corpus, quasi proprie dici possit: humanitas est anima et corpus; sed sicut in toto intelliguntur partes, ut in domo paries et tectum, quae tamen de toto non praedicantur. Unde etiam in auctoritate beati HieronymiThe Vivès edition notes *seu potius Pelagii haeretici*. subditur: *humanitas, quae ex anima continetur et corpore*; non dicit: "quae est anima et corpus."***
+*Quod autem humanae naturae etc*. Non est intelligendum per humanitatem anima et corpus, quasi proprie dici possit: humanitas est anima et corpus; sed sicut in toto intelliguntur partes, ut in domo paries et tectum, quae tamen de toto non praedicantur. Unde etiam in auctoritate beati HieronymiThe Vivès edition notes *seu potius Pelagii haeretici*. subditur: *humanitas, quae ex anima continetur et corpore*; non dicit: "quae est anima et corpus."  
 
 *Errant igitur qui nomine humanitatis etc*. Per hanc proprietatem quae ab eis humanitas dicitur, potest intelligi forma consequens partium compositionem,Bruges and Brussels manuscripts omit *scilicet*. scilicet animae et corporis, in qua sicut in natura communi omnia individua communicant.  
 

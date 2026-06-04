@@ -1,5 +1,7 @@
 # Proposition 18
 
+143. Res omnes habent entia propter ens primum, et res vivae omnes sunt motae per essentiam suam propter vitam primam, et res intellectibiles omnes habent scientiam propter intelligentiam primam.  
+
 > 144. Quod est, quia, si omnis causa dat causato suo aliquid, tunc procul dubio ens primum dat causatis omnibus ens.
 
 > 145. Et similiter vita dat causatis suis motum, quia vita est processio procedens ex ente primo quieto, sempiterno, et primus motus.

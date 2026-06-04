@@ -1,6 +1,8 @@
 # D. 26 - On matrimony
 
-***After the Master has discussed the sacrament of holy orders, which is ordered to the spiritual multiplication of the Church, here he begins to consider matrimony, which is ordered to the material multiplication of the faithful. And it is divided into two parts: in the first, he considers matrimony; in the second, persons contracting matrimony, at Distinction 34: *now it remains to note what persons are lawful to contract marriage*.*Sententiae* IV, 34.1 (198). 1.***
+***On matrimony***
+
+After the Master has discussed the sacrament of holy orders, which is ordered to the spiritual multiplication of the Church, here he begins to consider matrimony, which is ordered to the material multiplication of the faithful. And it is divided into two parts: in the first, he considers matrimony; in the second, persons contracting matrimony, at Distinction 34: *now it remains to note what persons are lawful to contract marriage*.*Sententiae* IV, 34.1 (198). 1.  
 
 The first is in two parts: in the first he determines those things that pertain to marriage as it is a sacrament; in the second he determines the causes of marriage, at Distinction 27: *after these matters it is to be considered what marriage is*.*Sent*. IV, 27.1 (163). 1.  
 
@@ -31,7 +33,7 @@ first, whether marriage is natural;
 
 ***Whether marriage is natural***
 
-***Obj. 1: To the first question, we proceed thus.Parallels: *ST* II-II, q. 154, a. 2; *SCG* III, ch. 122; *Super Eth.* 8, lec. 12; *Super I Cor.* 7, lec. 1. It seems that marriage is not natural. For natural law is what nature has taught all animals. But in other animals there is sexual union without marriage. Therefore, matrimony is not of natural law.***
+Obj. 1: To the first question, we proceed thus.Parallels: *ST* II-II, q. 154, a. 2; *SCG* III, ch. 122; *Super Eth.* 8, lec. 12; *Super I Cor.* 7, lec. 1. It seems that marriage is not natural. For natural law is what nature has taught all animals. But in other animals there is sexual union without marriage. Therefore, matrimony is not of natural law.  
 
 Obj. 2: Furthermore, what is of natural law is found among people no matter what their state. But marriage has not existed in every state of man, for, as Cicero says in the beginning of his *Rhetoric*: *men were living in the woods in the beginning, and back then no one knew his own children, nor were there any particular wedding ceremonies in which marriage consisted*.Cicero, *De Inventione*, Bk. II, Section 65. Therefore, it is not natural.  
 
@@ -57,7 +59,7 @@ Article 2
 
 ***Whether it is now under precept***
 
-***Obj. 1: To the second question, we proceed thus.Parallels: *SCG* III, ch. 136. It seems that marriage still remains under precept. For a command obliges as long as it is not revoked. But the first institution of marriage was under precept, as it says in the text, nor do we read that this precept was ever revoked, but rather confirmed: *what God has joined together, let no man put asunder (*Matt 19:6). Therefore, even now marriage is under precept.***
+Obj. 1: To the second question, we proceed thus.Parallels: *SCG* III, ch. 136. It seems that marriage still remains under precept. For a command obliges as long as it is not revoked. But the first institution of marriage was under precept, as it says in the text, nor do we read that this precept was ever revoked, but rather confirmed: *what God has joined together, let no man put asunder (*Matt 19:6). Therefore, even now marriage is under precept.  
 
 Obj. 2: Furthermore, the precepts of natural law oblige in every age. But marriage is of natural law, as was said. Therefore, etc.  
 
@@ -81,7 +83,7 @@ Article 3
 
 ***Whether its act is licit***
 
-***Obj 1: To the third question, we proceed thus.Parallels: below, d. 31, q. 2, aa. 1–2; *ST* I-II, q. 34, a. 1, ad 1; *ST* II-II, q. 153, a. 2; *In II Sent.* d. 31, q. 1, a. 1, ad 3; *Super I Thess.* 4, lec. 1; *Super Heb.* 13, lec. 1; *SCG* III, ch. 126; *Super I Cor.* 7, lec. 1. It seems that the marital act is always a sin. For 1 Corinthians 7:29 says, *let those who marry be as if they were unmarried*. But the unmarried do not have the marital act. Therefore, even married people would sin in that act.***
+Obj 1: To the third question, we proceed thus.Parallels: below, d. 31, q. 2, aa. 1–2; *ST* I-II, q. 34, a. 1, ad 1; *ST* II-II, q. 153, a. 2; *In II Sent.* d. 31, q. 1, a. 1, ad 3; *Super I Thess.* 4, lec. 1; *Super Heb.* 13, lec. 1; *SCG* III, ch. 126; *Super I Cor.* 7, lec. 1. It seems that the marital act is always a sin. For 1 Corinthians 7:29 says, *let those who marry be as if they were unmarried*. But the unmarried do not have the marital act. Therefore, even married people would sin in that act.  
 
 Obj. 2: Furthermore: *your iniquities have made a division between you and your God* (Is 59:2). But the marital act divides man from God; and this is why in Exodus 19 it is commanded to the people who had to see God that they not approach their wives. And Jerome says that in the marital act the Holy Spirit did not touch the hearts of the prophets.Jerome, *Epistle* 123 (PL 22:1034). Therefore, it is iniquity.  
 
@@ -115,7 +117,7 @@ Article 4
 
 ***Whether it can be meritorious***
 
-***Obj. 1: To the fourth question, we proceed thus.Parallels: *De malo*, q. 4, a. 1, ad 17; *Super I Cor.* 7, lec. 1. It seems that the marital act is not meritorious. For Chrysostom comments on Matthew: *even if marriage does not carry a punishment for those availing themselves of it, nevertheless, it does not furnish a reward*.Pseudo-Chrysostom, *Homilies on Matthew*, hom. 1 (PG 56:631). But merit is said in relation to reward. Therefore, the marital act is not meritorious.***
+Obj. 1: To the fourth question, we proceed thus.Parallels: *De malo*, q. 4, a. 1, ad 17; *Super I Cor.* 7, lec. 1. It seems that the marital act is not meritorious. For Chrysostom comments on Matthew: *even if marriage does not carry a punishment for those availing themselves of it, nevertheless, it does not furnish a reward*.Pseudo-Chrysostom, *Homilies on Matthew*, hom. 1 (PG 56:631). But merit is said in relation to reward. Therefore, the marital act is not meritorious.  
 
 Obj. 2: Furthermore, it is not praiseworthy to give up what is meritorious. But virginity is praiseworthy, and because of it marriage is given up. Therefore, the marital act is not meritorious.  
 
@@ -145,7 +147,7 @@ Question 2
 
 ***The sacrament of matrimony***
 
-***Next we must consider marriage as it is a sacrament: and concerning this, four questions arise:***
+Next we must consider marriage as it is a sacrament: and concerning this, four questions arise:  
 
 first, whether it is a sacrament;  
 
@@ -156,7 +158,7 @@ first, whether it is a sacrament;
 
 ***Whether it is a sacrament***
 
-***Obj. 1: To the first question, we proceed thus.Parallels: below, d. 31, q. 1, a. 2, ad 7; *In IV Sent*. d. 1, q. 1, a. 3, ad 5; *SCG* IV, ch. 78. It seems that marriage is not a sacrament. For every sacrament of the New Law has some form, which belongs to the essence of the sacrament. But the blessing which is done by the priests in the marriage ceremony is not of the essence of matrimony. Therefore, it is not a sacrament.***
+Obj. 1: To the first question, we proceed thus.Parallels: below, d. 31, q. 1, a. 2, ad 7; *In IV Sent*. d. 1, q. 1, a. 3, ad 5; *SCG* IV, ch. 78. It seems that marriage is not a sacrament. For every sacrament of the New Law has some form, which belongs to the essence of the sacrament. But the blessing which is done by the priests in the marriage ceremony is not of the essence of matrimony. Therefore, it is not a sacrament.  
 
 Obj. 2: Furthermore, according to Hugh, *a sacrament is a material element*.Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). But marriage does not have for its matter any material element. Therefore, it is not a sacrament.  
 
@@ -186,7 +188,7 @@ Article 2
 
 ***About its institution***
 
-***Obj. 1: To the second question, we proceed thus. It seems that marriage did not have to be instituted before sin. For what is of natural law does not need an institution. But marriage is of natural law, as is clear from what has been said. Therefore, it did not have to be instituted.***
+Obj. 1: To the second question, we proceed thus. It seems that marriage did not have to be instituted before sin. For what is of natural law does not need an institution. But marriage is of natural law, as is clear from what has been said. Therefore, it did not have to be instituted.  
 
 Obj. 2: Furthermore, sacraments are a kind of medicine against the sickness of sin. But medicine is only prepared for someone sick. Therefore, before sin it did not have to be instituted.  
 
@@ -218,7 +220,7 @@ Article 3
 
 ***About its effect***
 
-***Obj. 1: To the third question, we proceed thus.Parallels: *ST* II-II, q. 100, a. 2, ad 6; *In IV Sent.* d. 2, q. 1, a. 1, qa. 2; *SCG* IV, ch. 78. It seems that marriage does not confer grace. For according to Hugh, the sacraments confer invisible grace by sanctification.Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). But marriage does not have any sanctification that belongs to its essence. Therefore, grace is not conferred in it.***
+Obj. 1: To the third question, we proceed thus.Parallels: *ST* II-II, q. 100, a. 2, ad 6; *In IV Sent.* d. 2, q. 1, a. 1, qa. 2; *SCG* IV, ch. 78. It seems that marriage does not confer grace. For according to Hugh, the sacraments confer invisible grace by sanctification.Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). But marriage does not have any sanctification that belongs to its essence. Therefore, grace is not conferred in it.  
 
 Obj. 2: Furthermore, every sacrament that confers grace confers it by its matter and its form. But the acts that are the matter in this sacrament are not causes of grace, because this would be the Pelagian heresy, that our actions are causes of grace; and the words expressing consent are not a cause of grace, since no sanctification results from them. Therefore, grace is given in no way in marriage.  
 
@@ -250,7 +252,7 @@ Article 4
 
 ***About its integrity***
 
-***Obj. 1: To the fourth question, we proceed thus.Parallels: *ST* III, q. 29, a. 2; *In IV Sent.* d. 30, q. 2, a. 2. It seems that physical intercourse is integral to marriage. For in the very institution of marriage was said: *they shall be two in one flesh* (Gen 2:24). But this only happens by physical intercourse. Therefore, it is integral to marriage.***
+Obj. 1: To the fourth question, we proceed thus.Parallels: *ST* III, q. 29, a. 2; *In IV Sent.* d. 30, q. 2, a. 2. It seems that physical intercourse is integral to marriage. For in the very institution of marriage was said: *they shall be two in one flesh* (Gen 2:24). But this only happens by physical intercourse. Therefore, it is integral to marriage.  
 
 Obj. 2: Furthermore, what pertains to the signification of the sacrament is necessary to the sacrament, as was said before. But physical intercourse belongs to the signification of the sacrament, as is said in the text. Therefore, it is integral to the sacrament.  
 
@@ -274,7 +276,7 @@ Reply Obj. 4: Before physical intercourse happens, marriage is a remedy by the g
 
 Exposition of the Text  
 
-****While the other sacraments took their origin after sin and because of sin, we read that the sacrament of marriage was instituted by the Lord even before sin*.*Senteniae* IV, 26.1 (157). 1. It seems that he should have examined matrimony before holy orders: for what is animal is before what is spiritual, as it says in 1 Corinthians 15. And it must be said that although it is first in the way of generation, nevertheless, in the way of perfection and sanctification it is last; and thus that sacrament which has a minimum of spirituality should be ordered last among the sacraments.***
+*While the other sacraments took their origin after sin and because of sin, we read that the sacrament of marriage was instituted by the Lord even before sin*.*Senteniae* IV, 26.1 (157). 1. It seems that he should have examined matrimony before holy orders: for what is animal is before what is spiritual, as it says in 1 Corinthians 15. And it must be said that although it is first in the way of generation, nevertheless, in the way of perfection and sanctification it is last; and thus that sacrament which has a minimum of spirituality should be ordered last among the sacraments.  
 
 *One of his ribs had been taken, woman formed from it*.*Sent*. IV, 26.1 (157). 1. This was spoken of in Book II, Distinction 18.  
 

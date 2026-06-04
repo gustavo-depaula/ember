@@ -1,8 +1,10 @@
 # D. 40 - Predestination
 
+***De praedestinatione***
+
 ***Divisio textus***
 
-***Postquam determinavit de scientia Dei in communi, hic specialiter de praedestinatione determinat; et dividitur in partes duas: in prima determinat quid sit praedestinatio; in secunda determinat de causalitate ejus, utrum scilicet sit causa prima vel habeat aliam, dist. 41, ibi: *si autem quaerimus meritum obdurationis et misericordiae, obdurationis meritum invenimus, misericordiae autem meritum non invenimus*.***
+Postquam determinavit de scientia Dei in communi, hic specialiter de praedestinatione determinat; et dividitur in partes duas: in prima determinat quid sit praedestinatio; in secunda determinat de causalitate ejus, utrum scilicet sit causa prima vel habeat aliam, dist. 41, ibi: *si autem quaerimus meritum obdurationis et misericordiae, obdurationis meritum invenimus, misericordiae autem meritum non invenimus*.  
 
 Prima in duas: in prima determinat de praedestinatione; in secunda de reprobatione, ibi: *cumque praedestinatio sit gratiae praeparatio . . . reprobatio e converso intelligenda est praescientia iniquitatis quorumdam*.  
 
@@ -40,7 +42,7 @@ Articulus 1
 
 ***Utrum praedestinatio sit aliquid in praedestinato***
 
-***Ad primum sic proceditur. Videtur quod praedestinatio sit aliquid in re praedestinata.***
+Ad primum sic proceditur. Videtur quod praedestinatio sit aliquid in re praedestinata.  
 
 Omnis enim actio infert ex se passionem. Sed cum dicitur, Deus praedestinat, significatur in verbo actus divinus. Ergo videtur quod respondeat sibi aliqua passio in creatura, quae sit praedestinatio passive dicta, sicut etiam de creatione est; invenitur enim creatio actio, et creatio passio.  
 
@@ -110,7 +112,7 @@ Quaestio 2
 
 ***Quorum sit praedestinatio***
 
-***Deinde quaeritur, quorum sit praedestinatio. Et videtur quod sit tantum eorum qui sunt.***
+Deinde quaeritur, quorum sit praedestinatio. Et videtur quod sit tantum eorum qui sunt.  
 
 Praedestinatio enim significat missionem quamdam. Sed nihil mittitur nisi quod est. Ergo praedestinatio est tantum entis.  
 
@@ -154,7 +156,7 @@ Quaestio 3
 
 ***Utrum praedestinatio sit certa***
 
-***Deinde quaeritur de certitudine praedestinationis. Et videtur quod non sit certa.***
+Deinde quaeritur de certitudine praedestinationis. Et videtur quod non sit certa.  
 
 Dicitur enim Apoc. 3:2: *tene quod habes, ne alius*Mandonnet suggests the alternative text: *ut nemo*. *accipiat coronam tuam*. Aut hoc intelligitur de corona praesentis justitiae, aut de corona gloriae. Sed non de corona praesentis justitiae, quia gratia quam quis habet eo peccante destruitur, nec de subjecto in subjectum mutatur. Ergo intelligitur de corona gloriae. Sed gloria non est alicujus in statu viae nisi quia est sibi praedestinata. Ergo videtur quod unus possit accipere hoc quod alii praedestinatum est, et ita praedestinatio certitudinem non habet.  
 
@@ -198,7 +200,7 @@ Articulus 1
 
 ***Utrum reprobatio addat aliquid supra praescientiam***
 
-***Ad primum sic proceditur. Videtur quod reprobatio nihil addat supra praescientiam.***
+Ad primum sic proceditur. Videtur quod reprobatio nihil addat supra praescientiam.  
 
 Reprobatio enim malorum est. Sed horum non habet Deus nisi scientiam simplicis notitiae, ut supra habitum est. Ergo reprobatio supra praescientiam nihil addit.  
 
@@ -224,7 +226,7 @@ Articulus 2
 
 ***Utrum Deus sit causa obdurationis***
 
-***Ad secundum sic proceditur. Videtur quod obdurationis et excaecationis causa sit Deus.***
+Ad secundum sic proceditur. Videtur quod obdurationis et excaecationis causa sit Deus.  
 
 Per id quod habetur 2 Corinth. 4:4: *Deus hujus saeculi excaecavit mentes infidelium*, et una Glossa exponit de Deo vero. Ergo videtur quod ipse sit causa obdurationis et excaecationis.  
 
@@ -252,7 +254,7 @@ Ad quartum dicendum, quod Deus, quantum est in se, nulli est absens; sed homo a 
 
 Expositio textus  
 
-****Intelligentia enim conditionis implicitae veritatem facit in dicto, et impossibilitatem in vero*. Hoc sic exponi potest. Accipiantur duo dicta, quorum unum est verum, scilicet Petrum posse damnari; alterum falsum, scilicet Petrum non posse damnari. Si adjungatur conditio quae implicite intelligitur in hoc participio “praedestinatus,” intellectus illius conditionis facit dictum, quod prius erat falsum, esse verum; quia si Petrus est praedestinatus, Petrum non posse damnari est verum. Faciet etiam impossibilitatem in dicto, quod prius erat verum: Petrum enim posse damnari est impossibile, si est praedestinatus, ut tamen impossibilitas ad necessitatem consequentiae referatur.***
+*Intelligentia enim conditionis implicitae veritatem facit in dicto, et impossibilitatem in vero*. Hoc sic exponi potest. Accipiantur duo dicta, quorum unum est verum, scilicet Petrum posse damnari; alterum falsum, scilicet Petrum non posse damnari. Si adjungatur conditio quae implicite intelligitur in hoc participio “praedestinatus,” intellectus illius conditionis facit dictum, quod prius erat falsum, esse verum; quia si Petrus est praedestinatus, Petrum non posse damnari est verum. Faciet etiam impossibilitatem in dicto, quod prius erat verum: Petrum enim posse damnari est impossibile, si est praedestinatus, ut tamen impossibilitas ad necessitatem consequentiae referatur.  
 
 *Quod tamen in actionibus vel operationibus Dei et hominum nullatenus concedunt*. Operationes Dei nominat quas explet nulla creatura mediante, sicut intelligere, velle et hujusmodi; et quia tales operationes aeternitate mensurantur et non tempore, ideo non sequuntur necessitatem praeteriti, sed manent in libertate praesentis; ita tamen quod immobilitas non tollatur: non enim potest Deus nunc velle, et quod nunc vult, postea non velle: sed suum aeternum velle semper est in libertate voluntatis ejus; et ideo ex veritate praedestinationis non sequitur aliqua necessitas ex parte praedestinantionis,Parma: *praedestinantis*. sicut nec ex parte praedestinati. Potest enim DeusParma omits *Deus*. et praedestinare et non praedestinare. Operationes autem Dei et hominum nominatParma: *nominantur*. quae a Deo mediante creatura vel in creatura explentur, et quia ex parte creaturae tempore mensurantur ideo transeunt in praeteritum, et necessitatem acquirunt.  
 

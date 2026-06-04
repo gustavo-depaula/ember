@@ -1,6 +1,8 @@
 # D. 28 - The command to love one's neighbor
 
-****Hic queri potest utrum illo mandato* etc. Hic determinatThe Bruges manuscript adds *Magister*. de caritate per comparationem ad ipsum diligibile;***
+***Divisio textus***
+
+*Hic queri potest utrum illo mandato* etc. Hic determinatThe Bruges manuscript adds *Magister*. de caritate per comparationem ad ipsum diligibile;  
 
 et dividitur in duas partes:  
 
@@ -82,7 +84,7 @@ Articulus 2
 
 ***Utrum creaturae irrationales ex caritate sint diligendae***
 
-***Ad secundum sic proceditur. Videtur quod creaturae irrationales ex caritate diligendae sint.***
+Ad secundum sic proceditur. Videtur quod creaturae irrationales ex caritate diligendae sint.  
 
 OmnisThe edited versions add *enim*. dilectio meritoria ad caritatem pertinet. Sed aliquis potest meritorie diligere aliqua irrationalia, sicut cum quis diligit ea referendo in Deum, vel quiaThe Vivès edition adds *sunt e Deo, vel quia*. factae sunt a Deo, vel quia juvant tendentes in Deum. Ergo creaturae irrationales sunt diligendae ex caritate.  
 
@@ -140,7 +142,7 @@ Articulus 4
 
 ***Utrum ad malos homines caritatem habere debeamus***
 
-***Ad quartum sic proceditur. Videtur quod ad malos homines caritatem habere non possimus.***
+Ad quartum sic proceditur. Videtur quod ad malos homines caritatem habere non possimus.  
 
 Caritas enim exigit communicationem in divina vita, quae est per gratiam, ut dictum est, 2, dist. 27, quaest. 2, art. 2. Sed haec vita non est in peccatoribus. Ergo non sunt ex caritate diligendi.  
 
@@ -172,7 +174,7 @@ Articulus 5
 
 ***Utrum daemones ex caritate sint diligendi***
 
-***Ad quintum sic proceditur. Videtur quod daemones ex caritate suntThe Paris (842) manuscript and the edited versions read *sint*. diligendi.***
+Ad quintum sic proceditur. Videtur quod daemones ex caritate suntThe Paris (842) manuscript and the edited versions read *sint*. diligendi.  
 
 Lev. 19:18: *dilige proximum tuum*. Glossa: *proximus non propinquitate sanguinis intelligendus est, sed societate rationis*. Sed daemones et damnati nobiscum habent societatem in ratione. Ergo sunt ex caritate diligendi.  
 
@@ -202,7 +204,7 @@ Articulus 6
 
 ***Utrum homo debeat seipsum ex caritate diligere***
 
-***Ad sextum sic proceditur. Videtur quod homo non debeat seipsum diligere ex caritate.***
+Ad sextum sic proceditur. Videtur quod homo non debeat seipsum diligere ex caritate.  
 
 Quia, sicut dicit Gregorius, *caritas minus quam inter duos haberi non potest*. Ergo non potest esse alicujus ad seipsum.  
 
@@ -236,7 +238,7 @@ Articulus 7
 
 ***Utrum diligere debeamus corpora nostra ex caritate***
 
-***Ad septimum sic proceditur. Videtur quod corpora nostra non sint ex caritate diligenda.***
+Ad septimum sic proceditur. Videtur quod corpora nostra non sint ex caritate diligenda.  
 
 Caritas enim non refugit conversationem cum eo ad quem caritas est. Sed caritas facit refugere communicationem ad corpus, ut patet Rom. 7The Bruges, Brussels, and Paris (841, 842) manuscripts read *8*.:24: *quis me liberabit de corpore mortis hujus?* Ergo corpus non est ex caritate diligendum.  
 
@@ -266,7 +268,7 @@ Ad quintum dicendum, quod corpus proximi et anima in eadem relatione se habent a
 
 Expositio textus  
 
-****De secundo et quarto nulla praecepta danda erant*. Contra. Lex debet universaliter hominem de omnibus ordinare quae ad virtutes pertinent. Praeterea, dilectio Dei similiter erat omnibus insita naturaliter. Et dicendum, quod sicut se habent scientiae speculativae ad cognoscenda, ita se habet lex ad operanda. Unde sicut in scientiis speculativis non traditur doctrina de principiis per se notis, quia per naturam cognoscuntur, sed tantum de conclusionibus quae per ea cognoscuntur; ita necThe edited versions read *neque*. lex determinat explicite de dilectione sui ipsius ad quam natura inclinat, sed de dilectione proximi quae ex illa oritur, sicut conclusiones ex principiis. Dilectio autem Dei, quamvis nobis naturaliter insit, non tamen hoc modo quo per caritatem diligitur, ut supra dictum est. Ex hoc autem ipso quod praecipitur Deus diligi spiritualiter, *specialiter.* docemur nos ipsos spiritualiter diligere.***
+*De secundo et quarto nulla praecepta danda erant*. Contra. Lex debet universaliter hominem de omnibus ordinare quae ad virtutes pertinent. Praeterea, dilectio Dei similiter erat omnibus insita naturaliter. Et dicendum, quod sicut se habent scientiae speculativae ad cognoscenda, ita se habet lex ad operanda. Unde sicut in scientiis speculativis non traditur doctrina de principiis per se notis, quia per naturam cognoscuntur, sed tantum de conclusionibus quae per ea cognoscuntur; ita necThe edited versions read *neque*. lex determinat explicite de dilectione sui ipsius ad quam natura inclinat, sed de dilectione proximi quae ex illa oritur, sicut conclusiones ex principiis. Dilectio autem Dei, quamvis nobis naturaliter insit, non tamen hoc modo quo per caritatem diligitur, ut supra dictum est. Ex hoc autem ipso quod praecipitur Deus diligi spiritualiter, *specialiter.* docemur nos ipsos spiritualiter diligere.  
 
 *Nemo unquam carnem suam odio habuit*. Contra. Multi seipsos interficiunt, ut dicit Philosophus propter abundantem malitiam. Et dicendum, quod vitam suam corporalem quilibet diligit naturaliter; sed quod aliqui ad mortem suam corporalem anhelant, hoc contingit per accidens, vel inquantum retardantur ab aliquo bono magis amato per vitam corporalem, sicut inThe Bruges and Paris (842) manuscripts omit *in*. quaerentibus aliam vitam accidit; vel inquantumThe edited versions add *per*. corporalem vitam ipsorum aliquo modo consequuntur aliqua mala, quibus carere melius aestimant quam vitam corporalem habere.  
 

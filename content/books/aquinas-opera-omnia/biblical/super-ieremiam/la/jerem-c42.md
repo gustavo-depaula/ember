@@ -1,6 +1,8 @@
 # C. 40 - Jeremiah’s release and the princes’ plots
 
-***^40:1^ Sermo qui factus est ad Jeremiam a Domino, postquam dimissus est a Nabuzardan magistro militiae de Rama, quando tulit eum vinctum catenis in medio omnium qui migrabant de Jerusalem, et Juda, et ducebantur in Babylonem.***
+***Lectio 1***
+
+^40:1^ Sermo qui factus est ad Jeremiam a Domino, postquam dimissus est a Nabuzardan magistro militiae de Rama, quando tulit eum vinctum catenis in medio omnium qui migrabant de Jerusalem, et Juda, et ducebantur in Babylonem.  
 
 > ^40:2^ Tollens ergo princeps militiae Jeremiam, dixit ad eum: Dominus Deus tuus locutus est malum hoc super locum istum,
 
@@ -48,7 +50,7 @@ Quarto ponitur prophetae electio: ***venit autem Jeremias ad Godoliam***. Ideo n
 
 Lectio 2  
 
-***^40:7^ Cumque audissent omnes principes exercitus, qui dispersi fuerant per regiones, ipsi et socii eorum, quod praefecisset rex Babylonis Godoliam filium Ahicam terrae, et quod commendasset ei viros et mulieres et parvulos et de pauperibus terrae qui non fuerant translati in Babylonem:***
+^40:7^ Cumque audissent omnes principes exercitus, qui dispersi fuerant per regiones, ipsi et socii eorum, quod praefecisset rex Babylonis Godoliam filium Ahicam terrae, et quod commendasset ei viros et mulieres et parvulos et de pauperibus terrae qui non fuerant translati in Babylonem:  
 
 > ^40:8^ venerunt ad Godoliam in Masphath, et Ismahel filius Nathaniae, et Johanan, et Jonathan filii Caree, et Sareas filius Thanehumeth, et filii Ophi, qui erant de Netophathi, et Jezonias filius Maachathi, ipsi, et viri eorum.
 
@@ -72,7 +74,7 @@ Tertio ostendit securitatis modum, ***ecce ego***; quasi dicat: ego sustinebo to
 
 Lectio 3  
 
-***^40:13^ Johanan autem filius Caree, et omnes principes exercitus, qui dispersi fuerant in regionibus, venerunt ad Godoliam in Masphath,***
+^40:13^ Johanan autem filius Caree, et omnes principes exercitus, qui dispersi fuerant in regionibus, venerunt ad Godoliam in Masphath,  
 
 > ^40:14^ et dixerunt ei: scito quod Baalis rex filiorum Ammon misit Ismahel filium Nathaniae percutere animam tuam. Et non credidit eis Godolias filius Ahicam.
 

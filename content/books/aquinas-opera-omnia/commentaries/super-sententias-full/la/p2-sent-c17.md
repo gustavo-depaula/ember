@@ -1,8 +1,10 @@
 # D. 37 - How God is in realities
 
+***Quomodo Deus sit in rebus***
+
 ***Divisio primae partis textus***
 
-***Ostenso quomodo res sint in Deo, hic ex incidenti ostendit quomodo Deus sit in rebus; et dividitur in partes duas: in prima ostendit Deum esse ubique et in omnibus rebus; in secunda parte removet a Deo quaedam quae creaturas in loco existentes consequuntur, ibi: *cumque natura divina veraciter et essentialiter sit in omni loco et in omni tempore, non tamen movetur per loca vel per tempora*.***
+Ostenso quomodo res sint in Deo, hic ex incidenti ostendit quomodo Deus sit in rebus; et dividitur in partes duas: in prima ostendit Deum esse ubique et in omnibus rebus; in secunda parte removet a Deo quaedam quae creaturas in loco existentes consequuntur, ibi: *cumque natura divina veraciter et essentialiter sit in omni loco et in omni tempore, non tamen movetur per loca vel per tempora*.  
 
 Prima in duas: in prima ponit modos quibus Deus in rebus esse dicitur; in secunda inquirit rationes illorum modorum, ibi: *quomodo autem Deus habitet in nobis, ex illis aliquatenus intelligere valebis quae supra dicta sunt*.  
 
@@ -80,9 +82,9 @@ Ad quintum dicendum, quod non est concedendum simpliciter quod Deus sit in daemo
 
 Articulus 2  
 
-***Utrum Deus sit in omnibus per potentiam, praesentiam et essentiam; in sanctis per gratiam, in Christo per esse***
+Utrum Deus sit in omnibus per potentiam, praesentiam et essentiam; in sanctis per gratiam, in Christo per esse  
 
-***Ad secundum sic proceditur. Videtur quod inconvenienter assignentur modi isti, quibus Deus in rebus esse dicitur.***
+Ad secundum sic proceditur. Videtur quod inconvenienter assignentur modi isti, quibus Deus in rebus esse dicitur.  
 
 Cum enim dicimus Deum esse in rebus, significamus qualiter Deus ad res se habeat. Sed Deus uno modo se habet ad omnia, quamvis non omnia uno modo ad ipsum se habeant, ut dicit Dionysius, 3 cap. *De div. nom*. Ergo videtur quod non debeat esse nisi unus modus existendi Deum in rebus.  
 
@@ -120,7 +122,7 @@ Quaestio 2
 
 ***Quomodo ubique sit***
 
-***Deinde quaeritur, quomodo Deus ubique esse dicatur; et circa hoc tria quaeruntur:***
+Deinde quaeritur, quomodo Deus ubique esse dicatur; et circa hoc tria quaeruntur:  
 
 primo utrum Deus sit ubique;  
 
@@ -202,7 +204,7 @@ Ad tertium dicendum quod sicut motus rationem ex termino accipit, ita et relatio
 
 Expositio primae partis textus  
 
-****Ita Deus, cum sit in omnibus essentialiter et totus, plenius est in illis quos inhabitat*. Quaeritur ratio hujus differentiae. Et dicendum, quod aliae creaturae, quamvis consequantur divinam similitudinem per operationem ipsius Dei, non tamen attingunt ad ipsum Deum secundum suppositum; et ideo quamvis Deus in eis sit, non tamen ipsae cum Deo sunt. Sed creatura rationalis per gratiam attingit ad ipsum Deum, secundum quod ipsum amat et cognoscit; et ideo cum eo esse dicitur; et eadem ratione dicitur capax Dei, sicut suae perfectionis, per modum objecti; et propter hoc etiam dicitur templum Dei, et inhabitari a Deo.***
+*Ita Deus, cum sit in omnibus essentialiter et totus, plenius est in illis quos inhabitat*. Quaeritur ratio hujus differentiae. Et dicendum, quod aliae creaturae, quamvis consequantur divinam similitudinem per operationem ipsius Dei, non tamen attingunt ad ipsum Deum secundum suppositum; et ideo quamvis Deus in eis sit, non tamen ipsae cum Deo sunt. Sed creatura rationalis per gratiam attingit ad ipsum Deum, secundum quod ipsum amat et cognoscit; et ideo cum eo esse dicitur; et eadem ratione dicitur capax Dei, sicut suae perfectionis, per modum objecti; et propter hoc etiam dicitur templum Dei, et inhabitari a Deo.  
 
 *Sicut multa de Deo intelligimus quae loqui penitus non valemus; ita multa loquimur quae intelligere non sumus idonei*. Ratio hujus diversitatis haec est, quia causa semper excedit causatum. In quibusdam autem locutio causat intellectum, sicut in his quae per disciplinam discuntur; unde contingit quod intellectus addiscentis non pertingit ad virtutem locutionis; et tunc potest loqui ea quae audit, sed non intelligit; et similiter est in his quae pure sunt fidei, quae intellectum humanum excedunt; *fides* autem *ex auditu* est, Rom. 10:17. Quandoque autem intellectus est causa locutionis, sicut in his quae per inventionem sciuntur; unde in his intellectus locutionem excedit, ut multa intelligantur quae proferri non valent.  
 
@@ -212,7 +214,7 @@ Expositio primae partis textus
 
 Divisio secundae partis textus  
 
-***Ostenso quod Deus est ubique, hic excludit a Deo duo quae creaturam consequuntur in loco existentem, scilicet localitatem et motum; et dividitur in partes tres: in prima parte proponit quod intendit, scilicet divinam essentiam neque moveri neque localem esse; in secunda ostendit haec duo omni creaturae convenire, ibi: *duobus namque his modis dicitur in Scriptura aliquid locale*; in tertia probat utrumque a Deo removeri, ibi: *fateamur*Al.: *fatentur*. *itaque divinam naturam pro immensitate sui nusquam deesse*.***
+Ostenso quod Deus est ubique, hic excludit a Deo duo quae creaturam consequuntur in loco existentem, scilicet localitatem et motum; et dividitur in partes tres: in prima parte proponit quod intendit, scilicet divinam essentiam neque moveri neque localem esse; in secunda ostendit haec duo omni creaturae convenire, ibi: *duobus namque his modis dicitur in Scriptura aliquid locale*; in tertia probat utrumque a Deo removeri, ibi: *fateamur*Al.: *fatentur*. *itaque divinam naturam pro immensitate sui nusquam deesse*.  
 
 Secunda pars in duas: in prima ostendit localitatem omni creaturae convenire, vel per circumscriptionem et definitionem, sicut corpori; vel per definitionem tantum, sicut spiritui. Ostendit etiam corpori duplicem motum convenire, scilicet per tempus et locum; spiritui vero alterum, scilicet motum per tempus; in secunda inquirit, utrum etiam motus per locum spiritui conveniat, ibi: *de mutatione vero loci magna inter conquirentes disceptatio versatur*;  
 
@@ -292,7 +294,7 @@ Articulus 2
 
 ***Utrum angelus possit esse in pluribus locis***
 
-***Ad secundum sic proceditur. Videtur quod angelus possit simul in pluribus locis esse.***
+Ad secundum sic proceditur. Videtur quod angelus possit simul in pluribus locis esse.  
 
 Quodlibet enim corpus est magis determinatum ad locum quam angelus. Sed aliquod corpus est simul in pluribus locis, sicut corpus Christi in pluribus altaribus. Ergo multo fortius angelus simul in pluribus locis esse potest.  
 
@@ -326,7 +328,7 @@ Articulus 3
 
 ***Utrum plures angeli possint esse in uno loco***
 
-***Ad tertium sic proceditur. Videtur quod plures angeli possint simul esse in uno loco.***
+Ad tertium sic proceditur. Videtur quod plures angeli possint simul esse in uno loco.  
 
 Magis enim est repletivum loci corpus quam spiritus. Sed ubi est corpus, potest esse angelus. Ergo multo magis non impeditur quin possit esse ubi est alius angelus.  
 
@@ -424,7 +426,7 @@ Articulus 2
 
 ***Utrum angelus in suo motu de necessitate transeat medium***
 
-***Ad secundum sic proceditur. Videtur quod angelus de necessitate transeat medium in suo motu.***
+Ad secundum sic proceditur. Videtur quod angelus de necessitate transeat medium in suo motu.  
 
 Quia, sicut dicitur in 5 *Physic*., medium est in quod prius venit quod mutatur quam in quod mutatur ultimum. Si ergo angelus movetur de A in C, et B sit medium, oportet quod prius veniat in B quam in C, et ita oportet quod medium transeat.  
 
@@ -518,7 +520,7 @@ Alia concedimus.
 
 Expositio secundae partis textus  
 
-****Deus, inquit, omnipotens incommutabili aeternitate, voluntate, veritate semper idem, movet per tempus creaturam spiritualem*. Distinctio horum motuum et ratio nominationis in 8 dist. posita est.***
+*Deus, inquit, omnipotens incommutabili aeternitate, voluntate, veritate semper idem, movet per tempus creaturam spiritualem*. Distinctio horum motuum et ratio nominationis in 8 dist. posita est.  
 
 *Sicut humus*Al.: *fumus*. *aut lux ista diffunditur*. Hoc ideo dicitur, quia nihil habet distensionem in loco nisi secundum quod est quantum, vel per se sicut corpora, unde ponit humum, id est terram; vel per accidens, sicut corporales qualitates, ut lux.  
 

@@ -1,6 +1,6 @@
 # D. 2 - Sacraments of the New Law
 
-***After having defined the sacraments in general, here the Master moves to the sacraments of the New Law, about which he is mainly concerned. And his treatment is divided into two parts: in the first, he examines certain prerequisites for the sacraments of the New Law; in the second, he pursues these, at: *after these matters, we must see what Baptism is*Peter Lombard, *Sententiae* IV, 3.1 (17), 1. (Dist. 3). The first is divided in two: in the first, he defines certain things that are prerequisites in the order of teaching the sacraments of the New Law; in the second, he examines the baptism of John, which was needed to dispose or prepare for them: *Now let us examine the sacrament of baptism*.*Sent*. IV, 2.2 (12), 1. Concerning the first he does two things: first, he gives the distinction of the sacraments of the New Law both as to their number and as to their effect; second, he defines their institution, at: *If it is asked*, etc.*Sent*. IV, 2.1 (11), 2. There, he first sets down the general institution of the sacraments of the New Law; second, he excepts matrimony in a certain respect, at: *Marriage, however, was instituted before sin*.*Sent*. IV, 2.1 (11), 3.***
+After having defined the sacraments in general, here the Master moves to the sacraments of the New Law, about which he is mainly concerned. And his treatment is divided into two parts: in the first, he examines certain prerequisites for the sacraments of the New Law; in the second, he pursues these, at: *after these matters, we must see what Baptism is*Peter Lombard, *Sententiae* IV, 3.1 (17), 1. (Dist. 3). The first is divided in two: in the first, he defines certain things that are prerequisites in the order of teaching the sacraments of the New Law; in the second, he examines the baptism of John, which was needed to dispose or prepare for them: *Now let us examine the sacrament of baptism*.*Sent*. IV, 2.2 (12), 1. Concerning the first he does two things: first, he gives the distinction of the sacraments of the New Law both as to their number and as to their effect; second, he defines their institution, at: *If it is asked*, etc.*Sent*. IV, 2.1 (11), 2. There, he first sets down the general institution of the sacraments of the New Law; second, he excepts matrimony in a certain respect, at: *Marriage, however, was instituted before sin*.*Sent*. IV, 2.1 (11), 3.  
 
 *But now let us examine the sacrament of baptism*.*Sent*. IV, 2.2 (12), 1. Here he examines the baptism of John; and about this he does two things: first, he considers that baptism in itself; second, in regard to those who received it, at: *Here it is to be considered*, etc.*Sent*. IV, 2.6 (16), 1. Concerning the first he does two things: first, he shows the difference between the baptism of John and the baptism of Christ; second, he shows certain conditions of the baptism of John; and first, its benefit, at: *And so what was useful about John’s baptism?**Sent*. IV, 2.4 (14), 1. Second, its name, at: *But it is asked why it is called John’s baptism*;*Sent*. IV, 2.4 (14), 2. third, its genus, at: *But if it is asked whether it was a sacrament, it may well be granted that it was*, etc.*Sent*. IV, 2.5 (15), 1. Here there are two questions. First, concerning the sacraments of the New Law in general. Second, concerning the baptism of John.  
 
@@ -21,7 +21,7 @@ first, the distinction of the sacraments as to effect;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 65, a. 1, corp. and ad 3. It seems that not all sacraments were instituted as a remedy against some defect of the soul. For a sacrament is named from sanctity. But sanctity does not always convey a remedy against a defect, but also confirmation in good. Therefore, not every sacrament was instituted as a remedy.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 65, a. 1, corp. and ad 3. It seems that not all sacraments were instituted as a remedy against some defect of the soul. For a sacrament is named from sanctity. But sanctity does not always convey a remedy against a defect, but also confirmation in good. Therefore, not every sacrament was instituted as a remedy.  
 
 Obj. 2: Furthermore, every remedy against a certain defect pertains to purgation. But Dionysius distinguishes sacraments that pertain to perfection, namely confirmation and Eucharist, from those that pertain to purgation, such as baptism.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 1, pt. 1, n. 3 (PG 3:503). Therefore, not every sacrament is a remedy.  
 
@@ -33,7 +33,7 @@ Furthermore (2), as was said in Distinction 1, Question 1, Article 4, Subquestio
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that one sacrament is a remedy only, namely, marriage.Parallels: below, d. 26, q. 2, a. 3, corp. and ad 4. For mutual consent alone makes a marriage. But consent cannot be a cause of grace, for grace is not from our acts. Therefore, in marriage grace is not conferred, and so it is only a remedy.***
+Obj. 1: Moreover, it seems that one sacrament is a remedy only, namely, marriage.Parallels: below, d. 26, q. 2, a. 3, corp. and ad 4. For mutual consent alone makes a marriage. But consent cannot be a cause of grace, for grace is not from our acts. Therefore, in marriage grace is not conferred, and so it is only a remedy.  
 
 Obj. 2: Furthermore, according to Hugh, sacraments, by their sanctification, contain invisible grace.Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). But the sanctification done by the ministers of the Church is not of the essence of marriage as necessary for the sacrament, but belongs only to its solemnity.The *sanctificatio* referred to here is the nuptial blessing given by the priest during the ceremony. Therefore, no grace is conferred there, and so the same as above.  
 
@@ -43,7 +43,7 @@ On the contrary, the definition of the genus must apply to all species. But in t
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that sacraments are not a remedy against punishment, but only against the fault itself. For sacraments have efficacy from the fact that they contain grace. But grace is not opposed to punishment, but to fault. Therefore, sacraments are not ordained as a remedy against punishment.***
+Obj. 1: Moreover, it seems that sacraments are not a remedy against punishment, but only against the fault itself. For sacraments have efficacy from the fact that they contain grace. But grace is not opposed to punishment, but to fault. Therefore, sacraments are not ordained as a remedy against punishment.  
 
 Obj. 2: Furthermore, the effect of a wise physician is to cure something through its cause. But the cause of punishment is fault. Therefore, since Christ is the wisest physician, he did not institute certain sacraments to cure punishment, except those that also cure the fault.  
 
@@ -51,7 +51,7 @@ On the contrary, extreme unction seems to be ordained against illness, as is cle
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that there is a sacrament ordained against venial sin.Parallels: below, d. 16, q. 1, a. 2, qa. 3, ad 1; d. 17, q. 3, a. 3, qa. 3, ad 2; *ST* III, q. 65, a. 1, ad 8; *De Malo*, q. 7, a. 11, ad 14. For certain sacraments are harmful unless they are received by someone free from mortal sin, as is evident in the Eucharist and holy orders. But these are given to remedy some fault. Therefore, they are given against venial sin.***
+Obj. 1: Moreover, it seems that there is a sacrament ordained against venial sin.Parallels: below, d. 16, q. 1, a. 2, qa. 3, ad 1; d. 17, q. 3, a. 3, qa. 3, ad 2; *ST* III, q. 65, a. 1, ad 8; *De Malo*, q. 7, a. 11, ad 14. For certain sacraments are harmful unless they are received by someone free from mortal sin, as is evident in the Eucharist and holy orders. But these are given to remedy some fault. Therefore, they are given against venial sin.  
 
 Obj. 2: Furthermore, spiritual medicine should be applied against fault rather than against punishment. But venial sin is a certain fault. Since, then, certain sacraments are ordered against punishment, it seems that much more should some sacrament be ordered against venial sin.  
 
@@ -59,7 +59,7 @@ On the contrary, penance is ordered against mortal and venial sin, which is clea
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that whenever the perfection of some thing necessitates applying something beyond what the order of its nature requires, considered in itself, this happens to supply some defect of the thing; as when, for the sustenance of the body, it is insufficient to administer food unless some kind of digestives are added, this is a sign of a defect in the power of digestion. But by the order of human nature nothing else is required for its spiritual perfection, except God flowing in, and grace, and the infused virtues. Hence when certain corporeal things are applied for man’s sanctification on which, according to the order of nature, man’s sanctification does not depend, it is a sign that this is for the repairing of some defect in him; and thus, since this is found in all the sacraments, all the sacraments were instituted as a remedy for some spiritual defect.***
+To the first question, I answer that whenever the perfection of some thing necessitates applying something beyond what the order of its nature requires, considered in itself, this happens to supply some defect of the thing; as when, for the sustenance of the body, it is insufficient to administer food unless some kind of digestives are added, this is a sign of a defect in the power of digestion. But by the order of human nature nothing else is required for its spiritual perfection, except God flowing in, and grace, and the infused virtues. Hence when certain corporeal things are applied for man’s sanctification on which, according to the order of nature, man’s sanctification does not depend, it is a sign that this is for the repairing of some defect in him; and thus, since this is found in all the sacraments, all the sacraments were instituted as a remedy for some spiritual defect.  
 
 Reply Obj. 1: The very fact that man is led to sanctity by things that the order of nature considered in itself does not require is a sign that a remedy is applied for some defect. Hence although sacraments are not considered remedies under the account of sanctification, they are nevertheless considered such *ex officio*, or in their mode of sanctifying.  
 
@@ -69,7 +69,7 @@ And thus the solution to the third objection is clear.
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that concerning this there are two opinions. One is that in marriage no grace is conferred, but it is merely a remedy against concupiscence.***
+To the second question, it should be said that concerning this there are two opinions. One is that in marriage no grace is conferred, but it is merely a remedy against concupiscence.  
 
 But this does not seem to be fittingly said: for it is understood to be a remedy against concupiscence either by repressing it, which cannot happen without grace; or by satisfying concupiscence in part, which the act does indeed by its very nature, even when not understood under the account of sacrament (and furthermore, concupiscence is not repressed by satisfying it, but rather it is increased, as the Philosopher says in the *Ethics* 3Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 15, 1119b8–10.); or else it excuses the act of concupiscence, which would be deformed without marriage; and this it does indeed through the goods of marriage which belong to it even as it is an office of nature, as well as under the account of its signification, which it shares with the sacraments of the Old Law. And in this way it would not have anything above those sacraments so that it should be counted among the sacraments of the New Law.  
 
@@ -83,7 +83,7 @@ Reply Obj. 3: Each thing is named from what it is for. But the grace that is con
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that suffering for sin is twofold. Some is imposed for sin, such as the suffering of hell and the scourges by which we are temporally punished by God; some following immediately upon the sin itself, and ordering to sin as a result, such as the weakening of nature in resisting sin, and things like that. Therefore, a sacrament is not given as a remedy against the first kind directly, but by way of consequence—namely, so that by having cured the cause, which is sin, the effect would cease, which is suffering. But against the second kind of suffering a certain sacrament is given directly, namely those that are remedies against defects occurring when something necessary is taken away, not those that introduce a contrary.***
+To the third question, it should be said that suffering for sin is twofold. Some is imposed for sin, such as the suffering of hell and the scourges by which we are temporally punished by God; some following immediately upon the sin itself, and ordering to sin as a result, such as the weakening of nature in resisting sin, and things like that. Therefore, a sacrament is not given as a remedy against the first kind directly, but by way of consequence—namely, so that by having cured the cause, which is sin, the effect would cease, which is suffering. But against the second kind of suffering a certain sacrament is given directly, namely those that are remedies against defects occurring when something necessary is taken away, not those that introduce a contrary.  
 
 Reply Obj. 1: The sufferings against which a sacrament was said to be ordained are also contrary to grace: for they occur by taking something away and they are ordered to the contrary of grace.  
 
@@ -91,7 +91,7 @@ Reply Obj. 2: Just as in bodily medicine, where once a disease is cured certain 
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that concerning this there are two opinions. For some people say that certain sacraments are given as a remedy for venial sin, like the Eucharist, and extreme unction.***
+To the fourth question, it should be said that concerning this there are two opinions. For some people say that certain sacraments are given as a remedy for venial sin, like the Eucharist, and extreme unction.  
 
 But this does not seem to be fittingly said: for penance is purgative of all actual sin, mortal and venial; hence for this end [viz., to purge venial sin], it was not necessary that a sacrament be instituted. And furthermore, even were there no venial sins, still those sacraments would be necessary for consummation in good, according to the doctrine of Dionysius.See Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3.  
 
@@ -105,7 +105,7 @@ Article 2
 
 ***The distinction of the sacraments as to number***
 
-***Obj. 1: It seems that there should not be seven sacraments.Parallels: *ST* III, q. 65, a. 1; *SCG* IV, ch. 58; *De eccles. sacram.* For as was said above, all sacraments have efficacy from the Passion of Christ. But there is one sacrament which is directly representative of the Passion of Christ, and which contains the whole Christ, namely, the Eucharist. Therefore, that sacrament would suffice.***
+Obj. 1: It seems that there should not be seven sacraments.Parallels: *ST* III, q. 65, a. 1; *SCG* IV, ch. 58; *De eccles. sacram.* For as was said above, all sacraments have efficacy from the Passion of Christ. But there is one sacrament which is directly representative of the Passion of Christ, and which contains the whole Christ, namely, the Eucharist. Therefore, that sacrament would suffice.  
 
 Obj. 2: Furthermore, what can be done by one thing should not be done by many. But by baptism all sins are taken away. Therefore, it was not necessary that any other sacrament be ordered against fault.  
 
@@ -167,7 +167,7 @@ Article 3
 
 ***The order of the sacraments***
 
-***Obj. 1: To the third we proceed thus.Parallel: *ST* III, q. 65, a. 3. It seems that the order of sacraments is unfittingly assigned by the Master. For what is animal is prior to what is spiritual (cf. 1 Cor 15:46). But marriage pertains to animal life, while all the other sacraments pertain to spiritual life. Therefore, marriage is before all the others.***
+Obj. 1: To the third we proceed thus.Parallel: *ST* III, q. 65, a. 3. It seems that the order of sacraments is unfittingly assigned by the Master. For what is animal is prior to what is spiritual (cf. 1 Cor 15:46). But marriage pertains to animal life, while all the other sacraments pertain to spiritual life. Therefore, marriage is before all the others.  
 
 Obj. 2: Furthermore, an agent is naturally prior to his action; hence in law, determination is made concerning offices first, and then actions. But dispensers of the other sacraments are constituted by the sacrament of orders. Therefore, holy orders should be placed first among the others.  
 
@@ -199,7 +199,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallels: above, d. 1, q. 1, a. 2, qa. 5; *ST* III, q. 61, a. 4; *SCG* IV, ch. 57. It seems that in the New Law, no sacraments needed to be instituted anew. For nature works by the shortest way it can, and this belongs to nature’s order. But grace is more ordered than nature. Since therefore it would be a shorter way if the sacraments already existing in the Old Law were perfected rather than new ones being instituted, it seems that no new ones should have been instituted.***
+Obj. 1: To the fourth we proceed thus.Parallels: above, d. 1, q. 1, a. 2, qa. 5; *ST* III, q. 61, a. 4; *SCG* IV, ch. 57. It seems that in the New Law, no sacraments needed to be instituted anew. For nature works by the shortest way it can, and this belongs to nature’s order. But grace is more ordered than nature. Since therefore it would be a shorter way if the sacraments already existing in the Old Law were perfected rather than new ones being instituted, it seems that no new ones should have been instituted.  
 
 Obj. 2: Furthermore, just as sacraments are necessary to salvation, so also are precepts. But Christ did not institute any other moral precepts, but perfected the pre-existing ones with counsels. Therefore, neither did new sacraments have to be instituted.  
 
@@ -207,7 +207,7 @@ On the contrary, sacraments are spiritual medicines, as was said before. But the
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that these same things should have been instituted at the beginning of the world, after sin.Parallels: above, d. 1, q. 1, a. 2, qa. 3 & 4; *ST* III, q. 61, a. 3. For it is a cruel doctor who does not immediately give the effective medicine to a sick man, but allows him to be in danger for a long time. But all cruelty is excluded from God. Therefore, the sacraments of the New Law, which are the most effective medicine, should have been applied to the human race immediately after sin.***
+Obj. 1: Moreover, it seems that these same things should have been instituted at the beginning of the world, after sin.Parallels: above, d. 1, q. 1, a. 2, qa. 3 & 4; *ST* III, q. 61, a. 3. For it is a cruel doctor who does not immediately give the effective medicine to a sick man, but allows him to be in danger for a long time. But all cruelty is excluded from God. Therefore, the sacraments of the New Law, which are the most effective medicine, should have been applied to the human race immediately after sin.  
 
 Obj. 2: Furthermore, sacraments of the New Law have all their efficacy from the Passion of Christ. But the Passion of Christ was at work even from the beginning of the world for the reparation of sin, according as it was believed in (as was said in Book III, Distinction 19, Question 1, Article 1, Subquestion 2, Reply 2). Therefore, the sacraments should also have been instituted then.  
 
@@ -215,7 +215,7 @@ On the contrary, grace perfects nature. But nature proceeds from imperfect thing
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the sacraments should have been instituted immediately after the birth of Christ.Parallels: above, d. 1, a. 2, qa. 5; *ST* III, q. 61, a. 4; *SCG* IV, ch. 57. For it is the sacraments of the New Law that contain grace. But the time of grace began from that moment. Therefore, they should have been instituted at that moment.***
+Obj. 1: Moreover, it seems that the sacraments should have been instituted immediately after the birth of Christ.Parallels: above, d. 1, a. 2, qa. 5; *ST* III, q. 61, a. 4; *SCG* IV, ch. 57. For it is the sacraments of the New Law that contain grace. But the time of grace began from that moment. Therefore, they should have been instituted at that moment.  
 
 Obj. 2: Furthermore, sacraments assist us in fulfilling the precepts. But all the moral precepts had been given at the same time in the very beginning of the law. Therefore, the sacraments of grace, too, should have been given all at the same time at the very beginning of grace.  
 
@@ -223,7 +223,7 @@ On the contrary, whatever is from God is ordered (cf. Rom 13:1). But this is the
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the sacraments of the New Law were not all instituted by Christ.Parallels: below, d. 7, q. 1, a. 1, qa. 1, ad 1; d. 13, q. 1, a. 2, qa. 6, ad 1, 3; d. 17, q. 3, a. 1, qa. 5; *ST* I-II, q. 108, a. 2; *ST* III, q. 64, a. 2; *Super Ioan*. 1, lec. 14. For we do not read that he said anything about confirmation or extreme unction. But extreme unction and confirmation are sacraments of the New Law. Therefore, not all sacraments of the New Law were instituted by Christ.***
+Obj. 1: Moreover, it seems that the sacraments of the New Law were not all instituted by Christ.Parallels: below, d. 7, q. 1, a. 1, qa. 1, ad 1; d. 13, q. 1, a. 2, qa. 6, ad 1, 3; d. 17, q. 3, a. 1, qa. 5; *ST* I-II, q. 108, a. 2; *ST* III, q. 64, a. 2; *Super Ioan*. 1, lec. 14. For we do not read that he said anything about confirmation or extreme unction. But extreme unction and confirmation are sacraments of the New Law. Therefore, not all sacraments of the New Law were instituted by Christ.  
 
 Obj. 2: Furthermore, the mystery of priesthood in the New Law is not of less authority than that of the law of nature. But the ones who administered the sacraments under the law of nature, namely, priests, professed their faith as they pleased, by means of visible sacraments. Therefore, much more should this be the case in the New Law, which is of even greater freedom.  
 
@@ -231,7 +231,7 @@ On the contrary, sacraments of the New Law effect what they signify. But they ge
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that sacraments are signs of the remedy to which they are directed. Now these signs represent spiritual effects by the likeness of the sensible things used in the sacrament. And thus, since sacraments of the New Law needed to be of greater efficacy because of the perfection of this testament, there also had to be other signs beyond the old ones that more expressly figured grace; and thus it was necessary for new sacraments to be instituted.***
+To the first question, I answer that sacraments are signs of the remedy to which they are directed. Now these signs represent spiritual effects by the likeness of the sensible things used in the sacrament. And thus, since sacraments of the New Law needed to be of greater efficacy because of the perfection of this testament, there also had to be other signs beyond the old ones that more expressly figured grace; and thus it was necessary for new sacraments to be instituted.  
 
 Reply Obj. 1: Although nature works by the shortest way, nevertheless it omits nothing from the contingent things by which something could be best accomplished; and grace works in the same way. And thus in the sacraments that were to be instituted we should not only look for how something is done quickly, but how it is done fittingly.  
 
@@ -239,7 +239,7 @@ Reply Obj. 2: Moral precepts follow human nature, since they come from the dicta
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the sacraments of the New Law, because they contain grace, are not empty, but full. And thus it does not befit them to be instituted in any time but the time of fullness, which is the time of the Incarnation. But the reason that Christ deferred his coming, and did not assume flesh immediately after sin, was stated in Book III, Distinction 1, Question 1, Article 4.***
+To the second question, it should be said that the sacraments of the New Law, because they contain grace, are not empty, but full. And thus it does not befit them to be instituted in any time but the time of fullness, which is the time of the Incarnation. But the reason that Christ deferred his coming, and did not assume flesh immediately after sin, was stated in Book III, Distinction 1, Question 1, Article 4.  
 
 Reply Obj. 1: It is different in spiritual disease than it is in physical ones. For someone cannot be fittingly cured from a spiritual ailment unless he first recognizes the disease and desires the treatment, if he is capable of understanding; and thus it was necessary that man be left to himself, both so that in the first age of the law of nature, he would recognize that he was weak through ignorance, by sliding into idolatry; and then in the time of the written law, which was furnished to him as a help against ignorance, he would recognize that he was weak through concupiscence, by sliding into sin, and in this way he would look for his salvation from another—one who both taught him the way of salvation against ignorance and gave him the sacraments of grace against the weakness of concupiscence, as it says in John 1:17: *grace and truth came by Jesus Christ*. But in physical disease this is not required, for the body is not capable of understanding.  
 
@@ -247,7 +247,7 @@ Reply Obj. 2: Although the Passion of Christ did have efficacy at that time too,
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that sacraments of the New Law had a twofold institution. The first was for a certain instruction and training; and in this way they could be instituted before the Passion of Christ. The second regarded necessity and obligation, and in this way their institution was not before the Passion, for the prescriptions of the law were not yet dead. Hence, from the time of Christ’s preaching until the Passion, sacraments of the New Law were running at the same time as those of the Old Law, and both were working toward salvation. Accordingly, as to the second manner of institution, all the sacraments were instituted together in the Passion of Christ; but as to the first, it was necessary that there be instituted first those that were of greater necessity. Hence he preached penance right away in the beginning of his preaching, as is read in Matthew 4; and he taught baptism, as is read in John 3. Other sacraments, however, he instituted and taught over the course of time.***
+To the third question, it should be said that sacraments of the New Law had a twofold institution. The first was for a certain instruction and training; and in this way they could be instituted before the Passion of Christ. The second regarded necessity and obligation, and in this way their institution was not before the Passion, for the prescriptions of the law were not yet dead. Hence, from the time of Christ’s preaching until the Passion, sacraments of the New Law were running at the same time as those of the Old Law, and both were working toward salvation. Accordingly, as to the second manner of institution, all the sacraments were instituted together in the Passion of Christ; but as to the first, it was necessary that there be instituted first those that were of greater necessity. Hence he preached penance right away in the beginning of his preaching, as is read in Matthew 4; and he taught baptism, as is read in John 3. Other sacraments, however, he instituted and taught over the course of time.  
 
 Reply Obj. 1: The time of grace is said either as to its beginning or as to its fullness. But its fullness was not before the Passion and resurrection of Christ; hence it is said, *the Spirit was not as yet given, because Jesus was not yet glorified* (Jn 7:39). However, the beginning can be thought of in two ways. First, as to the presence of grace in the world; and this was in the Incarnation itself. Second, as to its diffusion in the world, and this was in the preaching and baptism of Christ; and before that it was not fitting for sacraments to be instituted.  
 
@@ -255,7 +255,7 @@ Reply Obj. 2: Nature dictates moral precepts to man; and thus they could be prop
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that there are two opinions about this. For some people say that not all of the sacraments were instituted directly by Christ; but he instituted certain ones himself, while he committed certain others to the apostles to be instituted—namely, confirmation, in which the Holy Spirit is given for strengthening, whose institution could not be before the full sending of the Holy Spirit; and extreme unction, which, since it was an immediate and proximate preparation for the glory of the resurrection, could not be instituted before the resurrection. But because the institution of the sacraments seems to belong to the power of fullness that Christ reserved to himself in the sacraments (since the sacraments get their power to signify from their institution), therefore to others it seems more probable that just as it is not for a mere man to change the sacraments, or to absolve from the sacraments, so neither is it for a mere man to institute new sacraments; and thus, all sacraments of the New Law have their institution from Christ himself.***
+To the fourth question, it should be said that there are two opinions about this. For some people say that not all of the sacraments were instituted directly by Christ; but he instituted certain ones himself, while he committed certain others to the apostles to be instituted—namely, confirmation, in which the Holy Spirit is given for strengthening, whose institution could not be before the full sending of the Holy Spirit; and extreme unction, which, since it was an immediate and proximate preparation for the glory of the resurrection, could not be instituted before the resurrection. But because the institution of the sacraments seems to belong to the power of fullness that Christ reserved to himself in the sacraments (since the sacraments get their power to signify from their institution), therefore to others it seems more probable that just as it is not for a mere man to change the sacraments, or to absolve from the sacraments, so neither is it for a mere man to institute new sacraments; and thus, all sacraments of the New Law have their institution from Christ himself.  
 
 Reply Obj. 1: According to this, the first objection should be answered that he himself instituted the sacrament of confirmation when he imposed his hands on the children presented to him; likewise, he instituted extreme unction when, sending the apostles to preach, he charged them to anoint the sick with oil, so that in this way they might be cured.See Mark 6:13.  
 
@@ -278,7 +278,7 @@ first, whether it was a sacrament;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus. It seems that the baptism of John was not a sacrament. For commenting on the text, *John was also baptizing* (Jn 3:23), a Gloss says: *as much as the teaching of the faith benefits a catechumen who is not yet baptized, so much did the baptism of John before the baptism of Christ*.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 4, n. 13. But catechism is not a sacrament, but a sacramental. Therefore, the baptism of John was not a sacrament but a sacramental.***
+Obj. 1: To the first we proceed thus. It seems that the baptism of John was not a sacrament. For commenting on the text, *John was also baptizing* (Jn 3:23), a Gloss says: *as much as the teaching of the faith benefits a catechumen who is not yet baptized, so much did the baptism of John before the baptism of Christ*.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 4, n. 13. But catechism is not a sacrament, but a sacramental. Therefore, the baptism of John was not a sacrament but a sacramental.  
 
 Obj. 2: Furthermore, every sacrament is a sacrament of some law. But the baptism of John was not a sacrament of the law of nature, nor of the Old Law; for, as Augustine says,Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 5, n. 4. it was not given to any of the preceding prophets to baptize, but to John alone, because it did not have to do with the sacraments of the Old Law; likewise, it is not a sacrament of the New Law, for it preceded the preaching of Christ. Therefore, it was not a sacrament.  
 
@@ -286,7 +286,7 @@ On the contrary, a sacrament is a sign of a sacred thing. But the baptism of Joh
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that he did not baptize under this form: *I baptize you in the name of the One who is to come*. For Christ, in whose name he baptized, had already come. Therefore, that form did not befit the time.***
+Obj. 1: Moreover, it seems that he did not baptize under this form: *I baptize you in the name of the One who is to come*. For Christ, in whose name he baptized, had already come. Therefore, that form did not befit the time.  
 
 Obj. 2: Furthermore, the patriarchs’ faith in Christ to come and our faith in Christ already come is one and the same faith. Therefore, the form of baptism in the name of the One who is to come is the same as in the name of Christ. Therefore the baptism was the same. But the apostles baptized in the name of Christ, as will be said further on. If therefore John baptized in the name of the One to come, the baptism of John was the same as the baptism of the apostles of Christ, which is false.  
 
@@ -294,7 +294,7 @@ On the contrary, is what is said: *John baptized telling the people that they sh
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it was not instituted by God.Parallels: *ST* III, q. 38, a. 2; *Super Matt*. 21. For no sacrament instituted by God is named from its minister; for it is not called the baptism of Peter. But that baptism is called the baptism of John. Therefore, it was not instituted by God.***
+Obj. 1: Moreover, it seems that it was not instituted by God.Parallels: *ST* III, q. 38, a. 2; *Super Matt*. 21. For no sacrament instituted by God is named from its minister; for it is not called the baptism of Peter. But that baptism is called the baptism of John. Therefore, it was not instituted by God.  
 
 Obj. 2: Furthermore, sacraments of the law of nature which disposed people for the sacraments of Christ did not have their institution from God but were celebrated at will, according to Hugh.Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 11, ch. 3 (PL 176:343). But the baptism of John was preparatory for the sacraments of Christ. Therefore, it did not have its institution from God.  
 
@@ -302,7 +302,7 @@ On the contrary, is what is said: *the one who sent me to baptize with water sai
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the baptism of John should have ceased immediately when Christ was baptized.Parallels: *ST* III, q. 38, a. 4; q. 39, a. 3, ad 4; *Super Ioan*. 3, lec. 4. For, commenting on the text, *John saw Jesus coming to him* (Jn 1:29), Augustine says: *the Lord was baptized with the baptism of John, and the baptism of John ended*.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 4, n. 14.***
+Obj. 1: Moreover, it seems that the baptism of John should have ceased immediately when Christ was baptized.Parallels: *ST* III, q. 38, a. 4; q. 39, a. 3, ad 4; *Super Ioan*. 3, lec. 4. For, commenting on the text, *John saw Jesus coming to him* (Jn 1:29), Augustine says: *the Lord was baptized with the baptism of John, and the baptism of John ended*.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 4, n. 14.  
 
 Obj. 2: Furthermore, the baptism of John was preparatory for the baptism of Christ. But the baptism of Christ began immediately once Christ was baptized: *for by the touch of his most pure flesh he conferred regenerative power on the waters*, as Bede says.Cf. Bede, *In Lucae euangelium expositio* (CCSL 120), ch. 3. Therefore, it should have ended immediately.  
 
@@ -310,7 +310,7 @@ On the contrary, is what is read in John 3, that after the baptism of Christ, Jo
 
 Response to Quaestiuncula 1  
 
-***The first question I answer by saying that according to Hugh of St. Victor,Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 11, ch. 6 (PL 176:345). it was necessary for different sacraments to be instituted at different times according to the passage of time and greater nearness to the time of grace. Hence, since the time of grace began, in a way, in John (*for the law and the prophets prophesied until John came*, Matt 11:13)—not as if grace were from him, but because he was preparing a way for grace—thus his baptism was a kind of sacrament; because indeed it was a certain initiation of the sacraments of grace, although grace was not conferred in it. Hence, it should be said that the baptism of John was a sacrament in the middle, in a way, between the sacraments of the old and of the New Law, just as the disposition to a form is in the middle, in a way, between privation and form. For in a way it agreed with the sacraments of the Old Law in the fact that it was only a sign, but with the sacraments of the New Law in its matter, and, in a way, in its form.***
+The first question I answer by saying that according to Hugh of St. Victor,Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 11, ch. 6 (PL 176:345). it was necessary for different sacraments to be instituted at different times according to the passage of time and greater nearness to the time of grace. Hence, since the time of grace began, in a way, in John (*for the law and the prophets prophesied until John came*, Matt 11:13)—not as if grace were from him, but because he was preparing a way for grace—thus his baptism was a kind of sacrament; because indeed it was a certain initiation of the sacraments of grace, although grace was not conferred in it. Hence, it should be said that the baptism of John was a sacrament in the middle, in a way, between the sacraments of the old and of the New Law, just as the disposition to a form is in the middle, in a way, between privation and form. For in a way it agreed with the sacraments of the Old Law in the fact that it was only a sign, but with the sacraments of the New Law in its matter, and, in a way, in its form.  
 
 Reply Obj. 1: The baptism of John has something in common with the sacramentals of baptism, inasmuch as it was a disposition to the baptism of Christ; but inasmuch as it preceded the institution of the baptism of Christ, it differs from those sacramentals and is a sacrament in itself—like the sacraments of the Old Law, which also in their own way, although not so proximately as John’s baptism, disposed people for the sacraments of the New Law.  
 
@@ -318,7 +318,7 @@ Reply Obj. 2: A disposition is reduced to the genus of the form to which it disp
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the usefulness of a thing follows from its form; and thus, the forms of the sacraments display that which gives the sacraments both efficacy and usefulness. And because the usefulness of the baptism of John was entirely to dispose people to Christ, therefore this was its appropriate form, that he baptized in the name of the One to come.***
+To the second question, it should be said that the usefulness of a thing follows from its form; and thus, the forms of the sacraments display that which gives the sacraments both efficacy and usefulness. And because the usefulness of the baptism of John was entirely to dispose people to Christ, therefore this was its appropriate form, that he baptized in the name of the One to come.  
 
 Reply Obj. 1: Although he had already come in the flesh, he had nevertheless not yet come to be baptized, and to perform the other works of our salvation.  
 
@@ -326,7 +326,7 @@ Reply Obj. 2: Faith, since it is a certain understanding, looks at the truth of 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that John instituted his baptism by divine command. Hence it is clear that its institution was from God by authority, and from John himself by ministry.***
+To the third question, it should be said that John instituted his baptism by divine command. Hence it is clear that its institution was from God by authority, and from John himself by ministry.  
 
 Reply Obj. 1: For three reasons this baptism takes its name from John. First, because he was the institutor of this baptism in a certain way, but Peter in no way instituted the baptism with which he baptized. Second, because nothing was brought about in that baptism that John did not do. Third, because the ministry of this baptism was given to him alone.  
 
@@ -334,7 +334,7 @@ Reply Obj. 2: Faith became more determinate in proportion to its nearness to Chr
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that the ceasing of the baptism of John can be taken two ways. In one way, when it ceased entirely; and this was when John was cast into prison, for that ministry had been granted to John alone. In another way, as to the height of its power, and in this way it ended once Christ was baptized; for from that time on his baptism no longer occupied the first place, but there was another, nobler than it, just as the office of a legate ceases when his superior arrives, although he also exercises it in some way.That is, the legate continues to hold the position or honor of legate even when his superior has come on the scene and no longer needs to be represented by him.***
+To the fourth question, it should be said that the ceasing of the baptism of John can be taken two ways. In one way, when it ceased entirely; and this was when John was cast into prison, for that ministry had been granted to John alone. In another way, as to the height of its power, and in this way it ended once Christ was baptized; for from that time on his baptism no longer occupied the first place, but there was another, nobler than it, just as the office of a legate ceases when his superior arrives, although he also exercises it in some way.That is, the legate continues to hold the position or honor of legate even when his superior has come on the scene and no longer needs to be represented by him.  
 
 And by this the solution to the objections is clear.  
 
@@ -342,7 +342,7 @@ Article 2
 
 ***The efficacy of John’s baptism***
 
-***Obj. 1: To the second question we proceed thus.Parallel: *ST* III, q. 38, a. 3. It seems that the baptism of John conferred grace: *John was baptizing, and preaching a baptism of repentance for the remission of sins* (Luke 3:3). But the remission of sins cannot occur without grace. Therefore, that baptism conferred grace.***
+Obj. 1: To the second question we proceed thus.Parallel: *ST* III, q. 38, a. 3. It seems that the baptism of John conferred grace: *John was baptizing, and preaching a baptism of repentance for the remission of sins* (Luke 3:3). But the remission of sins cannot occur without grace. Therefore, that baptism conferred grace.  
 
 Obj. 2: Furthermore, Damascene says: *John purifies the spirit through water*.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 9 (PG 94:1123). But spiritual purification does not happen without grace. Therefore, that baptism conferred grace.  
 
@@ -374,7 +374,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus.Parallels: *ST* III, q. 39, aa. 1 & 2; *Super Matt*. 3. It seems that it did not befit Christ to be baptized with the baptism of John. For the baptism of John was a baptism of repentance, as is said in Luke 3.Luke 3:3; some MSS have a reference here to Acts 20:21, which makes little sense. But no repentance befits Christ, as he had no sin. Therefore, neither did it befit him to be baptized by the baptism of John.***
+Obj. 1: To the third question we proceed thus.Parallels: *ST* III, q. 39, aa. 1 & 2; *Super Matt*. 3. It seems that it did not befit Christ to be baptized with the baptism of John. For the baptism of John was a baptism of repentance, as is said in Luke 3.Luke 3:3; some MSS have a reference here to Acts 20:21, which makes little sense. But no repentance befits Christ, as he had no sin. Therefore, neither did it befit him to be baptized by the baptism of John.  
 
 Obj. 2: Furthermore, every action of Christ is for our instruction. But we are not instructed to be baptized by the baptism of John. Therefore, Christ did not need to be baptized with that baptism.  
 
@@ -382,7 +382,7 @@ On the contrary, he himself said, when going to the baptism of John, *it is prop
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that no others needed to be baptized with that baptism.Parallel: *ST* III, q. 38, a. 4. For Christ is the only one who does not receive sacraments, but rather bestows them. But the baptism of John was a sacrament from which nothing could be received. Therefore, it was fitting only for Christ.In *ST* III, q. 38, a. 4, obj. 2, this argument is made much clearer: “Whoever is baptized either receives something from the baptism or confers something on the baptism. But no one could receive anything from the baptism of John, because thereby grace was not conferred, as stated above. On the other hand, no one could confer anything on baptism save Christ, who *sanctified the waters by the touch of His most pure flesh*. Therefore, it seems that Christ alone should have been baptized with the baptism of John.”***
+Obj. 1: Moreover, it seems that no others needed to be baptized with that baptism.Parallel: *ST* III, q. 38, a. 4. For Christ is the only one who does not receive sacraments, but rather bestows them. But the baptism of John was a sacrament from which nothing could be received. Therefore, it was fitting only for Christ.In *ST* III, q. 38, a. 4, obj. 2, this argument is made much clearer: “Whoever is baptized either receives something from the baptism or confers something on the baptism. But no one could receive anything from the baptism of John, because thereby grace was not conferred, as stated above. On the other hand, no one could confer anything on baptism save Christ, who *sanctified the waters by the touch of His most pure flesh*. Therefore, it seems that Christ alone should have been baptized with the baptism of John.”  
 
 Obj. 2: Furthermore, sacraments are given to everyone for the same reason. But it was not necessary for all to be baptized with the baptism of John. Therefore, no one other than Christ should have been baptized with it.  
 
@@ -390,7 +390,7 @@ On the contrary, is what is said, *all the people of Jerusalem were going out to
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that children should have been baptized with that baptism. For that baptism was a sign of the baptism of Christ. But the baptism of Christ is suited to children. Therefore, that one as well.***
+Obj. 1: Moreover, it seems that children should have been baptized with that baptism. For that baptism was a sign of the baptism of Christ. But the baptism of Christ is suited to children. Therefore, that one as well.  
 
 Obj. 2: Furthermore, circumcision was also given to children, indeed chiefly to them. But the baptism of John is a middle between circumcision and the baptism of Christ, which is given indifferently to great and small. Therefore, the baptism of John should also have been given to little ones.  
 
@@ -398,7 +398,7 @@ On the contrary, that baptism was for the sake of familiarizing people with the 
 
 Response to Quaestiuncula 1  
 
-***I answer that, Christ wished to be baptized by John for many reasons, three of which are touched upon by the Gloss on Mark 1:*Glossa ordinaria* (PL 114:181). for the sake of fulfilling humility, as Christ himself says in Matthew 3; to give John’s baptism his approval; and to consecrate the waters by his touch and so institute his own baptism. AugustineAugustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 6, n. 7. touches on a fourth cause, namely to show that it makes no difference who is baptized by whom. Augustine gives a fifth reason in his book *Questions on the Old and New Testaments*,Augustine, *Questions on the Old and New Testaments*, q. 49 (PL 35:2249). namely to give an example of baptism to those who in the future would become children of God by faith. Chrysostom offers a sixth,St. John Chrysostom, *Homilies on Matthew*, Homily 12, n. 2 (PG 57:446). namely to refute the error of those who though John greater than Christ by a display of miracles at his baptism.***
+I answer that, Christ wished to be baptized by John for many reasons, three of which are touched upon by the Gloss on Mark 1:*Glossa ordinaria* (PL 114:181). for the sake of fulfilling humility, as Christ himself says in Matthew 3; to give John’s baptism his approval; and to consecrate the waters by his touch and so institute his own baptism. AugustineAugustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 6, n. 7. touches on a fourth cause, namely to show that it makes no difference who is baptized by whom. Augustine gives a fifth reason in his book *Questions on the Old and New Testaments*,Augustine, *Questions on the Old and New Testaments*, q. 49 (PL 35:2249). namely to give an example of baptism to those who in the future would become children of God by faith. Chrysostom offers a sixth,St. John Chrysostom, *Homilies on Matthew*, Homily 12, n. 2 (PG 57:446). namely to refute the error of those who though John greater than Christ by a display of miracles at his baptism.  
 
 Reply Obj. 1: As has been said, Christ received nothing from the sacraments; and thus the baptism of John is not called a baptism of repentance in the case of Christ, but with regard to the others who were being prepared by it for penance; just as also the circumcision of Christ was not a remedy for original sin, from which Christ was immune.  
 
@@ -406,7 +406,7 @@ Reply Obj. 2: The action of Christ is our instruction, not so that we might act 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as Augustine says in his book *On Baptism Against the Donatists*,See Augustine, *De baptismo contra Donatistas* (CSEL 51), Bk. 5, ch. 9. if John had baptized Christ alone, he would have seemed the minister of a better baptism, since the one he baptized was so much greater; and if he had baptized everyone, it would have seemed that the baptism of Christ did not suffice for salvation. And thus he baptized only some people, but not all.***
+To the second question, it should be said that, as Augustine says in his book *On Baptism Against the Donatists*,See Augustine, *De baptismo contra Donatistas* (CSEL 51), Bk. 5, ch. 9. if John had baptized Christ alone, he would have seemed the minister of a better baptism, since the one he baptized was so much greater; and if he had baptized everyone, it would have seemed that the baptism of Christ did not suffice for salvation. And thus he baptized only some people, but not all.  
 
 Reply Obj. 1: Although some people did not receive grace through the baptism of John, they did receive a certain sign of the grace to be obtained, and the repentance to be observed.  
 
@@ -414,15 +414,15 @@ The answer to the second is clear from what has been said.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the baptism of John was a baptism of repentance; and since repentance does not pertain to children, that baptism did not pertain to them for the same reason. Nor is it the same with the baptism of Christ and circumcision, which are ordained against original sin, which does exist in children.***
+To the third question, it should be said that the baptism of John was a baptism of repentance; and since repentance does not pertain to children, that baptism did not pertain to them for the same reason. Nor is it the same with the baptism of Christ and circumcision, which are ordained against original sin, which does exist in children.  
 
 And by this the solutions to the objections are clear.  
 
 Article 4  
 
-***Whether those who were baptized by John had to be baptized with the baptism of Christ***
+Whether those who were baptized by John had to be baptized with the baptism of Christ  
 
-***Obj. 1: To the fourth we proceed thus.Parallels: below, in the exposition of the text; *ST* III, q. 38, a. 6; q. 66, a. 9, ad 2; *Super Matt.* 3. It seems that those baptized by John the Baptist did not need to be baptized with the baptism of Christ. For in Acts 8:15–16, it is said that when the apostles went to Samaria, they did not baptize those who had been baptized in the name of Christ, but only imposed their hands upon them. Since baptism in the name of Jesus without invoking the Holy Spirit is the baptism of John, it therefore seems that those baptized by the baptism of John were not baptized with the baptism of Christ.***
+Obj. 1: To the fourth we proceed thus.Parallels: below, in the exposition of the text; *ST* III, q. 38, a. 6; q. 66, a. 9, ad 2; *Super Matt.* 3. It seems that those baptized by John the Baptist did not need to be baptized with the baptism of Christ. For in Acts 8:15–16, it is said that when the apostles went to Samaria, they did not baptize those who had been baptized in the name of Christ, but only imposed their hands upon them. Since baptism in the name of Jesus without invoking the Holy Spirit is the baptism of John, it therefore seems that those baptized by the baptism of John were not baptized with the baptism of Christ.  
 
 Obj. 2: Furthermore, on the text, *I will pour out my spirit* (Acts 2:17), Jerome says that this is the reason why some people baptized by John were again baptized by Paul with the baptism of Christ (cf. Acts 20), because they did not have faith in the Trinity, since they had not heard if the Holy Spirit exists.See Jerome, *Commentary on Joel* (CCSL 76), ch. 2, l. 677: “Ergo salutare Dei uideri non potest, nisi Spiritus Sanctus effundatur. Et quicumque credere se dicit in Christum, non credens in Spiritum Sanctum, perfectae fidei oculos non habebit. Unde et in Actibus Apostolorum, qui baptizati erant baptismate Ioannis in eum qui uenturus erat, hoc est in nomine Domini Iesu, quia responderunt Paulo interroganti: Sed ne si sit quidem Spiritus Sanctus, nouimus, iterum baptizantur; immo uerum baptisma accipiunt, quia sine Spiritu Sancto et mysterio Trinitatis, quicquid in unam et alteram personam accipitur, imperfectum est.” Therefore, if some had been baptized by John who did have faith in the Trinity, it would seem that they did not need to be baptized again with the baptism of Christ.  
 
@@ -450,7 +450,7 @@ Reply Obj. 4: Baptism requires water with the due form. Now John did not observe
 
 Exposition of the Text  
 
-****Of these some offer a remedy against sin . . . others fortify us with grace and virtue*.Peter Lombard, *Sententiae* IV, 2.1 (11). 1. All sacraments of the New Law act as a remedy and confer grace, as has been said. Therefore, that distinction seems to amount to nothing. And it should be said that that distinction between the sacraments is taken according to what they are principally ordered to. Therefore, although all sacraments confer grace in some way, and act as a remedy, nevertheless some are principally directed toward remedying a certain particular disease, as marriage is against concupiscence; while others from their proper intention are directed both toward remedying a disease and toward grace, like baptism, which is a spiritual regeneration through which the old man is destroyed and a new one generated. Some, however, since they presuppose grace, are directed toward the perfecting of grace, like the Eucharist. And this is how the words of the Master [regarding marriage] are to be understood: *not at all as a remedy, but as a sacrament*;Giulio Silano’s translation of this passage, interpreting Peter Lombard as Aquinas directs, renders *sacramentum* as “sign.” *Sent* IV, 2.1 (11). 3. and “sacrament” should be taken broadly for any sign of a sacred thing.***
+*Of these some offer a remedy against sin . . . others fortify us with grace and virtue*.Peter Lombard, *Sententiae* IV, 2.1 (11). 1. All sacraments of the New Law act as a remedy and confer grace, as has been said. Therefore, that distinction seems to amount to nothing. And it should be said that that distinction between the sacraments is taken according to what they are principally ordered to. Therefore, although all sacraments confer grace in some way, and act as a remedy, nevertheless some are principally directed toward remedying a certain particular disease, as marriage is against concupiscence; while others from their proper intention are directed both toward remedying a disease and toward grace, like baptism, which is a spiritual regeneration through which the old man is destroyed and a new one generated. Some, however, since they presuppose grace, are directed toward the perfecting of grace, like the Eucharist. And this is how the words of the Master [regarding marriage] are to be understood: *not at all as a remedy, but as a sacrament*;Giulio Silano’s translation of this passage, interpreting Peter Lombard as Aquinas directs, renders *sacramentum* as “sign.” *Sent* IV, 2.1 (11). 3. and “sacrament” should be taken broadly for any sign of a sacred thing.  
 
 *John, with his baptism, foretold Christ’s baptism*.*Sent* IV, 2.2 (12). 2. Thus the baptism of Christ had a preparation, rather than the other sacraments of the New Law, for baptism is the gateway to the sacraments, and itself opens the way to the others. This is why the other sacraments did not need a preparation.  
 

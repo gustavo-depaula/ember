@@ -1,5 +1,7 @@
 # Chapter 18
 
+^18:1^ Woe to the land, the winged cymbal, which is beyond the rivers of Ethiopia,  
+
 > ^18:2^ That sends ambassadors in*In*. DR: “by.” the sea, and in vessels of papyrus*Papyri*. DR: “bulrushes.” upon the waters. Go, you swift angels, to a nation rent and torn in pieces: to a terrible people, after which there is no other: to a nation expecting and trodden underfoot, whose land the rivers have spoiled, to the mountain of the name of the Lord of hosts, mount Zion.Vg. omits “to the mountain of the name of the Lord of hosts, mount Zion.” Cf. v. 7.
 
 > ^18:3^ All you inhabitants of the world, who dwell on the earth, when the sign shall be lifted up on the mountains, you shall see, and you shall hear the sound of the trumpet.

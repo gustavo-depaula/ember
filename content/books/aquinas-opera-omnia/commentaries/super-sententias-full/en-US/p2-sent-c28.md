@@ -1,8 +1,10 @@
 # D. 48 - Conformity of our will to the will of God
 
+***Conformity of our will to the will of God***
+
 ***Division of the text***
 
-***Having considered God’s will, here he considers the conformity of our will to his will. And this is divided into two parts: in the first, he determines the truth; in the second, based on the truth determined, he considers certain questions, at *from this follows the solution to the question*.*Sent*. I, 48.3(209).1.***
+Having considered God’s will, here he considers the conformity of our will to his will. And this is divided into two parts: in the first, he determines the truth; in the second, based on the truth determined, he considers certain questions, at *from this follows the solution to the question*.*Sent*. I, 48.3(209).1.  
 
 The first is divided into three: in the first, he shows that a man’s evil will agrees with God’s will in the same thing being willed, even when a man’s good will is tending to the contrary; in the second, he shows that God’s good will is even fulfilled through a man’s evil will, at *it is also not to be passed over that at times God’s good will is fulfilled by the evil will of man*;*Sent*. I, 48.2(208).1. in the third, he excludes a certain objection, at *but the following objection is made to this*.*Sent*. I, 48.2(208).2.  
 
@@ -26,7 +28,7 @@ Article 1
 
 ***Whether the human will is not able to be conformed to the divine will***
 
-***To the first we proceed as follows.Parallel texts: *ST* I-II.19.9, 10; *On Truth*, q. 23, a. 7. It seems that the human will cannot be conformed to the divine.***
+To the first we proceed as follows.Parallel texts: *ST* I-II.19.9, 10; *On Truth*, q. 23, a. 7. It seems that the human will cannot be conformed to the divine.  
 
 Obj. 1: For so it is said in Isaiah 55:9, *as the heavens are higher than the earth, so are my ways higher than your ways*. But the earth can never be conformed to the heavens. Therefore neither can the thoughts and wills of men be conformed to the divine will.  
 
@@ -56,9 +58,9 @@ Reply Obj. 4: According to Dionysius,Pseudo-Dionysius, *On the Divine Names*, ch
 
 Article 2  
 
-***Whether the conformity of the wills is viewed chiefly in reference to what is willed***
+Whether the conformity of the wills is viewed chiefly in reference to what is willed  
 
-***To the second we proceed as follows.Parallel texts: *ST* I-II.19.10; *On Truth*, q. 23, a. 8. It seems that the conformity of wills is viewed chiefly in reference to what is being willed.***
+To the second we proceed as follows.Parallel texts: *ST* I-II.19.10; *On Truth*, q. 23, a. 8. It seems that the conformity of wills is viewed chiefly in reference to what is being willed.  
 
 Obj. 1: For conformity is viewed according to agreement in form. But the form and perfection of the will is the very thing willed, just as the thing known is the perfection of the knower. Therefore the conformity of the wills is in reference to agreement in what is willed.  
 
@@ -102,7 +104,7 @@ Article 3
 
 ***Whether we are not bound to a conformity with the divine will***
 
-***To the third we proceed as follows. It seems that we are not bound to a conformity with the divine will.***
+To the third we proceed as follows. It seems that we are not bound to a conformity with the divine will.  
 
 Obj. 1: For just as the rectitude of human will occurs through its conformity to the divine will, so too the rectitude of our intellect occurs through its conformity to the divine intellect. But not all are bound to the conforming of their intellect to the divine intellect; otherwise no one with a false opinion would be saved. Therefore it seems that, for a like reason, we are not bound to a conformity of will.  
 
@@ -142,7 +144,7 @@ Article 4
 
 ***Whether we are bound to conformity in the thing willed***
 
-***To the fourth we proceed as follows. It seems that we are not bound to a conformity in what is willed.***
+To the fourth we proceed as follows. It seems that we are not bound to a conformity in what is willed.  
 
 Obj. 1: For no one is bound to what he does not know. But what is divinely willed is unknown to us, just as it is foreknown to him. Therefore it seems that we are not bound to this.  
 
@@ -180,12 +182,12 @@ Reply Obj. 4: The divine permission never signifies that the will is for the fau
 
 Exposition of the text  
 
-****God did not will the action of the Jews*.*Sent*. I, 48.2(208).3. It seems that this is false, for the Passion is the effect of the action, so if he willed the Passion, he willed the action. To this one should say that Christ’s Passion was subject to two activities: the action of the Jews insofar as it was an affliction—and in this sense, it was not willed by God, just as neither was the action; and the action of Christ’s will, insofar as it was meritorious—and in this sense it was pleasing to God. Whence the saying: *the action was displeasing, the Passion was favored*. For frequently the will and reason divide things that nature joins together.***
+*God did not will the action of the Jews*.*Sent*. I, 48.2(208).3. It seems that this is false, for the Passion is the effect of the action, so if he willed the Passion, he willed the action. To this one should say that Christ’s Passion was subject to two activities: the action of the Jews insofar as it was an affliction—and in this sense, it was not willed by God, just as neither was the action; and the action of Christ’s will, insofar as it was meritorious—and in this sense it was pleasing to God. Whence the saying: *the action was displeasing, the Passion was favored*. For frequently the will and reason divide things that nature joins together.  
 
 *This was such a great good that the Apostle Peter, when he was unwilling for it to happen, was called a Satan by him who was killed*.*Sent*. I, 48.2(208).3, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 101 (CCSL 46; PL 40:279). This is taken from Matthew 16:23, and he is called “Satan”—that is, adversary—insofar as, by his own will, based on piety, he was averse to Christ’s good will.  
 
 Epilogue  
 
-***We have now, as far as we have been able, treated carefully the things that are known to pertain to the mystery of the divine Unity and Trinity, albeit only in part. We now turn to a consideration of created things.***
+We have now, as far as we have been able, treated carefully the things that are known to pertain to the mystery of the divine Unity and Trinity, albeit only in part. We now turn to a consideration of created things.  
 
 This seems to have been ordered in an unfitting way, since, according to the Philosopher,Aristotle, *Physics* 1.1, 184a17. for us the inborn path is to go from posterior things to prior things, and thus, from created things to the Creator. To this one should say that this holds in things that we know by natural cognition, things that take their principle from sensation. But in things that we know through faith, our cognition reposes on the first truth itself. Whence it is necessary that we proceed from the first truth, which is God, to things that are from him, following a likeness with the cognition that the saints will possess in the Word, where they will fully know both the Word and realities. The Word itself, the Son of God, will make us participants in this cognition—he who initiated this knowledge in us through faith, to whom is the honor and the glory, through the infinite ages of ages. Amen.

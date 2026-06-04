@@ -1,5 +1,7 @@
 # Sermon
 
+***Caelum et terra transibunt*** etc. In verbis hiis quae Salvator noster providissimus et clementissimus, suarum ovium saluti pie consulens, ad cautelam futuri iudicii discipulis suis in persona omnium fidelium commendavit, littera praetermissa quia plana est, secundum spiritualem intelligentiam describitur iusti et iniusti conditio, dum ***caeli*** nomine ponitur caelestis viri mira sublimitas et ***terrae*** nomine ponitur mundani hominis digna vilitas, et per verbum ***transeundi*** caute ponitur utrorumque distincta qualitas.  
+
 **1.** Describens ergo caelestis viri sublimitatem miram et eminentiam dignam appellat eum ***caelum***. Considerandum autem quod caeli nomine caelestis homo significatur propter hoc: est enim ***caelum***:  
 
 **1.1.** luminosae materiae, sicut probat Philosophus II *De caelo et mundo*, in quo ostenditur quod vir iustus debet esse luminosus per caelestem Sapientiam, Ecclesiastici XXIIII: *ego feci in caelis ut oriretur lumen indeficiens*.  

@@ -1,8 +1,10 @@
 # On the Sacrament of the Altar
 
+***Question 4***
+
 ***On the sacrament of the altar***
 
-***Then there were questions about the sacrament of the altar. And about this there were three questions:***
+Then there were questions about the sacrament of the altar. And about this there were three questions:  
 
 first, whether the whole quantity of the body of Christ is contained under the species of bread;  
 
@@ -12,9 +14,9 @@ third, whether God can make there be whiteness and other qualities without quant
 
 Article 1  
 
-***Whether the whole quantity of the body of Christ is contained under the species of bread***
+Whether the whole quantity of the body of Christ is contained under the species of bread  
 
-***To the first we proceed thus. It seems that the whole body of Christ cannot be contained under those species of bread.***
+To the first we proceed thus. It seems that the whole body of Christ cannot be contained under those species of bread.  
 
 Obj. 1: For it cannot happen, even through a miracle, for two contradictories to be simultaneously true, as Augustine says in *Against Faustus*.Augustine, *Against Faustus the Manichee* 26.5 (CSEL 25:732; PL 42:481–82). Yet this would follow if the whole body of Christ were under those species. For if the whole is under those species, it is not more than those species, since it does not exceed them; at the same time, according to the truth of the thing it is more, since it is two cubits or greater;Cf. Augustine, *City of God* 16.8 (CCSL 48:508; PL 41:485); above: q. 1, a. 3, resp.; Aristotle, *History of animals* 8.12, 597a6–7. and thus it would be at the same time more and not more. Therefore, it cannot happen, even through a miracle, for the whole to be contained under those species.  
 
@@ -34,7 +36,7 @@ Article 2
 
 ***Whether in the same instant there is bread and the body of Christ***
 
-***To the second we proceed thus. It seems that in the same instant there is the substance of bread and the body of Christ under those species.***
+To the second we proceed thus. It seems that in the same instant there is the substance of bread and the body of Christ under those species.  
 
 Obj. 1: For let the last instant in which there is bread be granted, as well as the first instant in which there is the body of Christ. Therefore, either there are two instants or one. But there are not two, because, since *between any two instants there is a middle time*,Aristotle, *Physics* 6.3, 234a7–8, 10; Averroes, *Commentary on Aristotle’s Physics* 8, comm. 69. this would be to give some time in which there is neither the body of Christ nor the substance of bread there. Therefore, it is necessary for there to be one instant. And thus, in the same instant there is bread and the body of Christ there.  
 
@@ -66,9 +68,9 @@ Reply Obj. 4: It must be said that to become is said in two ways: one way is to 
 
 Article 3  
 
-***Whether God can make there be whiteness and other qualities without quantity, just as he makes there be quantity in the sacrament of the altar without subject***
+Whether God can make there be whiteness and other qualities without quantity, just as he makes there be quantity in the sacrament of the altar without subject  
 
-***To the third we proceed thus. It seems that God cannot make there be whiteness or any bodily quality without quantity.***
+To the third we proceed thus. It seems that God cannot make there be whiteness or any bodily quality without quantity.  
 
 Obj. 1: For quantity is the first disposition of a body, since it adheres immediately to a substance, as Boethius says.Boethius, *Commentary on Aristotle’s Categories* 2.1 (PL 64:201–2); cf. Aquinas, *Commentary on Boethius’s De Trinitate*, q. 4, a. 2, obj. 6. But the first in any genus is the cause of those *which are after*, as is said in the second book of the *Metaphysics*.Aristotle, *Metaphysics* 2.1, 993b24–27. Therefore, from quantity all other accidents are bodily dispositions. Therefore, with quantity removed, no bodily quality remains.  
 

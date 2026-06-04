@@ -1,10 +1,12 @@
 # C. 13 - On Perfect and One
 
+***De perfecto et uno***
+
 ***Lectio 1***
 
-***Exponuntur nomina quae pertinent ad providentiae finem: et primo determinatur de perfecto***
+Exponuntur nomina quae pertinent ad providentiae finem: et primo determinatur de perfecto  
 
-***C. XIII, § 1. 435. Tanta et de istis. Ad ipsum autem reliquum, si videtur, sermone brevissimum eamus: etenim theologia de omnium causa et omnia et simul omnia praedicat et sicut perfectum ipsum et sicut unum laudat.***
+C. XIII, § 1. 435. Tanta et de istis. Ad ipsum autem reliquum, si videtur, sermone brevissimum eamus: etenim theologia de omnium causa et omnia et simul omnia praedicat et sicut perfectum ipsum et sicut unum laudat.  
 
 > 436. Igitur perfectum quidem est, non solum sicut per se perfectum et secundum seipsum a seipso uniformiter segregatum et totum per totum perfectissimum, sed et sicut superperfectum secundum omnium excessum,
 
@@ -80,7 +82,7 @@ Lectio 2
 
 ***Ostendit causalitatem unius in communi***
 
-***§2. 439. Unum autem, quoniam omnia unitive est secundum unius unitatis excessum et omnium est unum inegressibiliter causa,***
+§2. 439. Unum autem, quoniam omnia unitive est secundum unius unitatis excessum et omnium est unum inegressibiliter causa,  
 
 > 440. Nihil enim existentium est non participans uno;
 
@@ -158,7 +160,7 @@ Lectio 3
 
 ***Quomodo Unum Deo attribuatur***
 
-***447. Ita igitur theologia totam thearchiam sicut omnium causam laudat unius nominatione: et unus Deus Pater et unus Dominus Iesus Christus et unus et idem Spiritus, propter excedentem totius divinae unitatis simplicitatem, in qua omnia singulariter congregata sunt et superunita et praesunt supersubstantialiter.***
+447. Ita igitur theologia totam thearchiam sicut omnium causam laudat unius nominatione: et unus Deus Pater et unus Dominus Iesus Christus et unus et idem Spiritus, propter excedentem totius divinae unitatis simplicitatem, in qua omnia singulariter congregata sunt et superunita et praesunt supersubstantialiter.  
 
 > 448. Propter quod et omnia ad ipsam iuste remittuntur et reponuntur, a qua et ex qua et per quam et in qua et ad quam omnia sunt et coordinata sunt et manent et continentur et adimplentur et convertuntur.
 
@@ -234,7 +236,7 @@ Lectio 4
 
 ***Epilogat ea quae in hoc libro sunt dicta***
 
-***§4. 453. Has nos intelligibiles Dei significationes colligentes, sicut est possibile, reseravimus, non solum ab earum diligentia deficientes—hoc enim vere et angeli dicant—neque a laude ipsarum ab angelis, nam apud nos potentissimi theologi minus habent quam illorum extremi, neque a laude philosophantium illis aut comitantium, sed et nobis coordinatorum extreme et subiecte.***
+§4. 453. Has nos intelligibiles Dei significationes colligentes, sicut est possibile, reseravimus, non solum ab earum diligentia deficientes—hoc enim vere et angeli dicant—neque a laude ipsarum ab angelis, nam apud nos potentissimi theologi minus habent quam illorum extremi, neque a laude philosophantium illis aut comitantium, sed et nobis coordinatorum extreme et subiecte.  
 
 > 454. Quare recte si quidem habent dicta et sicut secundum nos vere tetigimus deliberatione reserationem Dei-nominationum, ad omnium bonorum causam res est referenda quae dat primum dicere, postea bene dicere. Et si aliquid aequipollentium est praetermissum et illud nos, secundum easdem rationes et easdem regulas, subaudire oportet.
 

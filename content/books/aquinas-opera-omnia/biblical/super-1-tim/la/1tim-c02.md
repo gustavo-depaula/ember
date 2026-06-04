@@ -1,10 +1,12 @@
 # C. 1 - Introduction
 
+***Introductio***
+
 ***Lectio 1***
 
 ***Salutatio***
 
-***^1:1^ Paulus Apostolus Jesu Christi secundum imperium Dei Salvatoris nostri, et Christi Jesu spei nostrae, [n. 3]***
+^1:1^ Paulus Apostolus Jesu Christi secundum imperium Dei Salvatoris nostri, et Christi Jesu spei nostrae, [n. 3]  
 
 > ^1:2^ Timotheo dilecto filio in fide. Gratia, misericordia, et pax a Deo Patre, et Christo Jesu Domino nostro. [n. 5]
 
@@ -36,7 +38,7 @@ Lectio 2
 
 ***Finis praecepti***
 
-***^1:3^ Sicut rogavi te ut remaneres Ephesi cum irem in Macedoniam, ut denuntiares quibusdam ne aliter docerent, [n. 7]***
+^1:3^ Sicut rogavi te ut remaneres Ephesi cum irem in Macedoniam, ut denuntiares quibusdam ne aliter docerent, [n. 7]  
 
 > ^1:4^ neque intenderent fabulis, et genealogiis interminatis: quae quaestiones praestant magis quam aedificationem Dei, quae est in fide. [n. 10]
 
@@ -264,7 +266,7 @@ Lectio 4
 
 ***Christus venit pro peccatoribus***
 
-***^1:15^ Fidelis sermo, et omni acceptione dignus: quod Christus Jesus venit in hunc mundum peccatores salvos facere, quorum primus ego sum. [n. 37]***
+^1:15^ Fidelis sermo, et omni acceptione dignus: quod Christus Jesus venit in hunc mundum peccatores salvos facere, quorum primus ego sum. [n. 37]  
 
 > ^1:16^ Sed ideo misericordiam consecutus sum: ut in me primo ostenderet Christus Jesus omnem patientiam ad informationem eorum, qui credituri sunt illi, in vitam aeternam. [n. 44]
 

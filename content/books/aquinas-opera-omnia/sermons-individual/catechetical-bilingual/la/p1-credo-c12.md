@@ -1,6 +1,8 @@
 # A. 11 - The Resurrection of the Body
 
-***Spiritus Sanctus non solum sanctificat Ecclesiam quantum ad animam, sed virtute eius resurgent corpora nostra. Rom. 4, 24: *qui suscitavit Iesum Christum Dominum nostrum a mortuis*; et I Cor. XV, 21: *quoniam quidem per hominem mors, et per hominem resurrectio mortuorum*. Et ideo credimus secundum fidem nostram, resurrectionem mortuorum futuram. Circa quam quatuor consideranda occurrunt.***
+***Carnis resurrectionem***
+
+Spiritus Sanctus non solum sanctificat Ecclesiam quantum ad animam, sed virtute eius resurgent corpora nostra. Rom. 4, 24: *qui suscitavit Iesum Christum Dominum nostrum a mortuis*; et I Cor. XV, 21: *quoniam quidem per hominem mors, et per hominem resurrectio mortuorum*. Et ideo credimus secundum fidem nostram, resurrectionem mortuorum futuram. Circa quam quatuor consideranda occurrunt.  
 
 Primum est utilitas, quae ex fide resurrectionis provenit;  
 

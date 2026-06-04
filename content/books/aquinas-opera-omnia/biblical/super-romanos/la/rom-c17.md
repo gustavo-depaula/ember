@@ -1,10 +1,12 @@
 # C. 16 - Personal Greetings and Doxology
 
+***Salutationes Personales et Doxologia***
+
 ***Lectio 1***
 
 ***Salutationes ad sanctos in Roma***
 
-***^16:1^ Commendo autem vobis Phoeben sororem nostram, quae est in ministerio ecclesiae, quae est in Cenchris: [n. 1193]***
+^16:1^ Commendo autem vobis Phoeben sororem nostram, quae est in ministerio ecclesiae, quae est in Cenchris: [n. 1193]  
 
 > ^16:2^ ut eam suscipiatis in Domino digne sanctis: et assistatis ei in quocumque negotio vestri indiguerit: etenim ipsa quoque astitit multis, et mihi ipsi. [n. 1195]
 
@@ -126,7 +128,7 @@ Lectio 2
 
 ***Vitate dissensiones praeter fidem***
 
-***^16:17^ Rogo autem vos fratres, ut observetis eos qui dissensiones et offendicula, praeter doctrinam, quam vos didicistis, faciunt, et declinate ab illis. [n. 1213]***
+^16:17^ Rogo autem vos fratres, ut observetis eos qui dissensiones et offendicula, praeter doctrinam, quam vos didicistis, faciunt, et declinate ab illis. [n. 1213]  
 
 > ^16:18^ Hujuscemodi enim Christo Domino nostro non serviunt, sed suo ventri: et per dulces sermones et benedictiones seducunt corda innocentium. [n. 1218]
 

@@ -1,10 +1,12 @@
 # C. 2 - Prayers and Obedience
 
+***Prayers and Obedience***
+
 ***Lecture 1***
 
 ***Prayers for all men***
 
-***^2:1^ I desire therefore, first of all, that supplications, prayers, intercessions and thanksgivings be made for all men: [n. 57]***
+^2:1^ I desire therefore, first of all, that supplications, prayers, intercessions and thanksgivings be made for all men: [n. 57]  
 
 > ^2:2^ For kings and for all who are in high station: that we may lead a quiet and a peaceable life in all piety and chastity.
 

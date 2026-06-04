@@ -1,5 +1,7 @@
 # None
 
+***{Lauds Antiphon 5 with Ps. Mirabilia-image-241}***
+
 *Antiphona*. Qui habet aures audiendi, audiat quid Spiritus dicat ecclesiis. Vincenti dabo manna absconditum, alleluia.  
 
 Psalmus 118:129–176  
@@ -8,7 +10,7 @@ Psalmus 118:129–176
 
 > Capitulum
 
-***Quicumque manducaverit panem vel biberit calicem Domini indigne, reus erit corporis et sanguinis Domini.***
+Quicumque manducaverit panem vel biberit calicem Domini indigne, reus erit corporis et sanguinis Domini.  
 
 > Responsorium
 

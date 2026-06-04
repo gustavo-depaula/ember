@@ -1,10 +1,12 @@
 # C. 26 - Conspiracy of the princes
 
+***Conspiracy of the princes***
+
 ***Lecture 1***
 
 ***Title and date***
 
-***^26:1^ In the beginning of the reign of Jehoiakim, the son of Josiah, king of Judah, this word came from the Lord, saying:***
+^26:1^ In the beginning of the reign of Jehoiakim, the son of Josiah, king of Judah, this word came from the Lord, saying:  
 
 > **135**. Here is given the conspiracy of the princes against the prophet.
 
@@ -22,7 +24,7 @@ Lecture 2
 
 ***Jeremiah in the temple***
 
-***^26:2^ Thus says the Lord: stand in the court of the house of the Lord and speak to all the cities of Judah, from which people come to worship in the house of the Lord, all the words which I have commanded you to speak unto them. Do not subtract a word.***
+^26:2^ Thus says the Lord: stand in the court of the house of the Lord and speak to all the cities of Judah, from which people come to worship in the house of the Lord, all the words which I have commanded you to speak unto them. Do not subtract a word.  
 
 > ^26:3^ It may be that they hear and be turned, each one from his wicked way, and I repent of the evil which I think to do against them, because of the evil of their doings.
 
@@ -52,7 +54,7 @@ Lecture 3
 
 ***Wrath against Jeremiah***
 
-***^26:7^ And the priests heard, and the prophets, and all the people heard Jeremiah speaking these words in the house of the Lord.***
+^26:7^ And the priests heard, and the prophets, and all the people heard Jeremiah speaking these words in the house of the Lord.  
 
 > ^26:8^ And when Jeremiah had finished speaking everything which the Lord had commanded him to speak to all the people, the priests and the prophets, and all the people seized him, saying, ‘He shall surely die.
 
@@ -72,7 +74,7 @@ Lecture 4
 
 ***Jeremiah’s trial***
 
-***^26:10^ And the princes of Judah heard these words, and came up from the house of the king into the house of the Lord, and sat in the entry of the new gate of the house of the Lord.***
+^26:10^ And the princes of Judah heard these words, and came up from the house of the king into the house of the Lord, and sat in the entry of the new gate of the house of the Lord.  
 
 > ^26:11^ And the priests, and the prophets spoke to the princes, and to all the people, saying, ‘There is a judgment of death against this man, because he has prophesied against this city, as you have heard with your own ears.’
 
@@ -116,7 +118,7 @@ Lecture 5
 
 ***Intervention of the elders***
 
-***^26:17^ Therefore, certain of the elders of the land arose and spoke to the entire assembly of the people, saying:***
+^26:17^ Therefore, certain of the elders of the land arose and spoke to the entire assembly of the people, saying:  
 
 > ^26:18^ ‘Micah the Morashite was a prophet in the days of Hezekiah, king of Judah, and he spoke to the entire people of Judah, saying, “Thus says the Lord of hosts: Zion shall be ploughed like a field, and Jerusalem shall be a heap of stones, and the mountain of the house of the Lord shall be as the high places of the forest.”
 

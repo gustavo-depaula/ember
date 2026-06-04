@@ -1,6 +1,6 @@
 # D. 30 - On the impediment of error
 
-***Postquam ostendit Magister quod consensus matrimonii impeditur per coactionem, hic ostendit quod impeditur per errorem; et dividitur haec distinctio in partes tres: in prima determinat de impedimento erroris; in secunda de consensu qui fuit in matrimonio Beatae Virginis, ibi: *praemissis aliquid addendum est*; in tertia de causa finali matrimonii, ibi: *exposito quae sit efficiens causa matrimonii, consequens est ostendere ob quam causam soleat vel debeat contrahi matrimonium*.***
+Postquam ostendit Magister quod consensus matrimonii impeditur per coactionem, hic ostendit quod impeditur per errorem; et dividitur haec distinctio in partes tres: in prima determinat de impedimento erroris; in secunda de consensu qui fuit in matrimonio Beatae Virginis, ibi: *praemissis aliquid addendum est*; in tertia de causa finali matrimonii, ibi: *exposito quae sit efficiens causa matrimonii, consequens est ostendere ob quam causam soleat vel debeat contrahi matrimonium*.  
 
 Circa primum tria facit. Primo ostendit quis error matrimonium impediat: secundo objicit in contrarium, ibi: *sed objicitur de Jacob* etc.; tertio solvit, ibi: *sed quod ibi factum est, in mysterio gestum non improbe traditur*.  
 
@@ -28,7 +28,7 @@ primo, utrum error de sui natura matrimonium impediat;
 
 ***Utrum error de sui natura matrimonium impediat***
 
-***Ad primum sic proceditur. Videtur quod error non debeat poni matrimonii impedimentum per se. Consensus enim, qui est causa efficiens matrimonii, impeditur sicut et voluntarium. Sed voluntarium, secundum Philosophum in 3 *Ethic*., ponitur impediri per ignorantiam, quae non est idem quod error: quia ignorantia nullam cognitionem ponit; sed error ponit; eo quod approbare falsa pro veris sit error, secundum Augustinum. Ergo non debuit hic poni impedimentum matrimonii error, sed magis ignorantia.***
+Ad primum sic proceditur. Videtur quod error non debeat poni matrimonii impedimentum per se. Consensus enim, qui est causa efficiens matrimonii, impeditur sicut et voluntarium. Sed voluntarium, secundum Philosophum in 3 *Ethic*., ponitur impediri per ignorantiam, quae non est idem quod error: quia ignorantia nullam cognitionem ponit; sed error ponit; eo quod approbare falsa pro veris sit error, secundum Augustinum. Ergo non debuit hic poni impedimentum matrimonii error, sed magis ignorantia.  
 
 Praeterea, illud potest impedire matrimonium de sui natura, quod habet contrarietatem ad bona matrimonii. Sed error non est hujusmodi. Ergo error, de sui natura, non impedit matrimonium.  
 
@@ -54,7 +54,7 @@ Articulus 2
 
 ***Quis error***
 
-***Ad secundum sic proceditur. Videtur quod omnis error matrimonium impediat, et non solum error conditionis aut personae, ut in littera dicitur. Quia quod alicui convenit secundum se, convenit ei secundum totum suum ambitum. Sed error de sui natura habet quod matrimonium impediat, ut dictum est. Ergo omnis error matrimonium impedit.***
+Ad secundum sic proceditur. Videtur quod omnis error matrimonium impediat, et non solum error conditionis aut personae, ut in littera dicitur. Quia quod alicui convenit secundum se, convenit ei secundum totum suum ambitum. Sed error de sui natura habet quod matrimonium impediat, ut dictum est. Ergo omnis error matrimonium impedit.  
 
 Praeterea, si error, inquantum hujusmodi, matrimonium impedit, magis error magis debet impedire. Sed magis est error fidei, qui est in haereticis non credentibus hoc sacramentum, quam error personae. Ergo magis debet impedire quam error personae.  
 
@@ -96,7 +96,7 @@ Articulus 3
 
 ***De causa finali matrimonii***
 
-***Ad tertium sic proceditur. Videtur quod matrimonium non possit esse ex consensu alicujus in aliquam propter causam inhonestam. Unius enim una est ratio. Sed matrimonium est unum sacramentum. Ergo non potest fieri ex alterius finis intentione quam illius ad quem a Deo institutum est, scilicet ad procreationem prolis.***
+Ad tertium sic proceditur. Videtur quod matrimonium non possit esse ex consensu alicujus in aliquam propter causam inhonestam. Unius enim una est ratio. Sed matrimonium est unum sacramentum. Ergo non potest fieri ex alterius finis intentione quam illius ad quem a Deo institutum est, scilicet ad procreationem prolis.  
 
 Praeterea, conjunctio matrimonii est a Deo, ut patet Matth. 19, 6: *quos Deus conjunxit, homo non separet*. Sed conjunctio quae fit propter turpes causas, non est a Deo. Ergo non est matrimonium.  
 
@@ -138,7 +138,7 @@ primo, de voto et matrimonio Beatae Virginis;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod Beata Virgo non debuerit virginitatem vovere. Quia in lege maledictio debebatur illis qui semen non relinquebant super terram, ut patet Deuter. 7. Sed adhuc durabat status legis. Ergo non debuit virginitatem vovere.***
+Ad primum sic proceditur. Videtur quod Beata Virgo non debuerit virginitatem vovere. Quia in lege maledictio debebatur illis qui semen non relinquebant super terram, ut patet Deuter. 7. Sed adhuc durabat status legis. Ergo non debuit virginitatem vovere.  
 
 Praeterea, votum virginitatis pertinet ad perfectionem consiliorum. Sed talis perfectio debuit a Christo inchoari, qui venit legem consiliis adimplere. Ergo ante Christi adventum non debuit virginitatem vovere.  
 
@@ -146,7 +146,7 @@ Sed contra, in matre Christi debebat omnis esse perfectio. Sed votum virginitati
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non debuit esse matrimonio juncta. Quia voventibus virginitatem non solum nubere, sed velle nubere est damnabile, ut Hieronymus dicit. Sed nihil damnabile debuit esse in Beata Virgine. Ergo postquam virginitatem vovit, nubere non debuit.***
+Ulterius. Videtur quod non debuit esse matrimonio juncta. Quia voventibus virginitatem non solum nubere, sed velle nubere est damnabile, ut Hieronymus dicit. Sed nihil damnabile debuit esse in Beata Virgine. Ergo postquam virginitatem vovit, nubere non debuit.  
 
 Praeterea, vovens virginitatem periculo se exponeret, si se in potestatem viri traderet. Sed hoc est peccatum. Ergo Beata Virgo non debuit sui potestatem alteri tradere nubendo; ergo nec nubere.  
 
@@ -158,7 +158,7 @@ Praeterea, Christus sua nativitate debuit ita virginitatem commendare, quod nupt
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod causae matrimonii ejus assignatae in littera non sint convenientes. Quia Diabolus, cum habeat lucida naturalia, plura potest cognoscere naturali cognitione quam homo. Sed homo etiam sensu potest cognoscere de aliqua an sit virgo. Ergo multo fortius Diabolus hoc scire poterat.***
+Ulterius. Videtur quod causae matrimonii ejus assignatae in littera non sint convenientes. Quia Diabolus, cum habeat lucida naturalia, plura potest cognoscere naturali cognitione quam homo. Sed homo etiam sensu potest cognoscere de aliqua an sit virgo. Ergo multo fortius Diabolus hoc scire poterat.  
 
 Praeterea, Diabolus bene scit quod illa est virgo quae nunquam conjuncta est viro. Sed Diabolus scire poterat quod Joseph nunquam carnaliter ei conjunctus fuerat. Ergo per hoc quod erat nupta, non occultabatur ei virginitas Matris Dei.  
 
@@ -172,7 +172,7 @@ Item, Christus venit ut labores nostros sustineret, et per hoc auferret. Ergo no
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, quod in Beata Virgine debuit apparere omne illud quod perfectionis fuit. Virginitas autem, quamvis in se optima, tamen pro tempore illo ei matrimonium praeferebatur propter expectationem benedicti seminis per viam generationis venturi; et ideo Beata Virgo vovit virginitatem tamquam optimum et sibi acceptissimum; non tamen simpliciter, sed sub conditione honestissima, haec scilicet, nisi Deus aliter ordinaret: nec istam conditionem apposuit ut dubitaret an vellet virgo permanere, sed an deberet; et hoc est quod Augustinus in littera dicit, quod proposuit se perseveraturam virginem, nisi Deus aliter ordinaret.***
+Respondeo dicendum, quod in Beata Virgine debuit apparere omne illud quod perfectionis fuit. Virginitas autem, quamvis in se optima, tamen pro tempore illo ei matrimonium praeferebatur propter expectationem benedicti seminis per viam generationis venturi; et ideo Beata Virgo vovit virginitatem tamquam optimum et sibi acceptissimum; non tamen simpliciter, sed sub conditione honestissima, haec scilicet, nisi Deus aliter ordinaret: nec istam conditionem apposuit ut dubitaret an vellet virgo permanere, sed an deberet; et hoc est quod Augustinus in littera dicit, quod proposuit se perseveraturam virginem, nisi Deus aliter ordinaret.  
 
 Ad primum ergo dicendum, quod Beata Virgo fuit confinium veteris et novae legis, sicut aurora diei et noctis; et ideo votum ejus sapuit novam legem, inquantum virginitatem vovit; et veterem, inquantum conditionem apposuit.  
 
@@ -180,7 +180,7 @@ Ad secundum dicendum, quod perfectio consiliorum quantum ad consummationem incip
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod conveniens fuit matrem Christi matrimonio esse junctam tum propter causas in littera assignatas, tum etiam propter alias causas: quarum prima est, ut significaret Ecclesiam, quae est virgo et sponsa. Secunda, ut per Joseph genealogia Mariae texeretur: non enim erat consuetudo apud Hebraeos ex parte mulierum genealogiam computare. Tertia, ut virginibus excusatio tolleretur, si de fornicatione infamantur. Quarta, ut nuptias Christus sua nativitate approbaret. Quinta, ut major perfectio virginitatis in Beata Virgine ostenderetur, dum in ipso matrimonio virgo permansit.***
+Ad secundam quaestionem dicendum, quod conveniens fuit matrem Christi matrimonio esse junctam tum propter causas in littera assignatas, tum etiam propter alias causas: quarum prima est, ut significaret Ecclesiam, quae est virgo et sponsa. Secunda, ut per Joseph genealogia Mariae texeretur: non enim erat consuetudo apud Hebraeos ex parte mulierum genealogiam computare. Tertia, ut virginibus excusatio tolleretur, si de fornicatione infamantur. Quarta, ut nuptias Christus sua nativitate approbaret. Quinta, ut major perfectio virginitatis in Beata Virgine ostenderetur, dum in ipso matrimonio virgo permansit.  
 
 Ad primum ergo dicendum, quod post votum virginitatis absolute factum non potest aliquis in matrimonium consentire sine peccato: quia si sit votum solemne, non fit verum matrimonium; si autem sit votum simplex, verum matrimonium est quod sequitur; tamen peccant contrahentes. Votum autem Beatae Virginis non fuit solemne, sed simplex in corde expressum; nec absolutum, sed sub conditione, ut in littera patet; et ideo potuit sine peccato ex speciali spiritus sancti consilio, cujus dispositio conditionaliter in suo voto cadebat, in matrimonium consentire.  
 
@@ -190,7 +190,7 @@ Ad tertium dicendum, quod copula carnalis cecidit implicite sub consensu Beatae 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod rationes quae in littera ponuntur, convenientes sunt: quarum una accipitur ex parte conceptus, scilicet ut partus Diabolo celaretur; secunda ex parte matris, ut scilicet non lapidaretur; tertia ex parte Joseph, scilicet ut obsequeretur et matri et puero, et testimonium praeberet virginitatis.***
+Ad tertiam quaestionem dicendum, quod rationes quae in littera ponuntur, convenientes sunt: quarum una accipitur ex parte conceptus, scilicet ut partus Diabolo celaretur; secunda ex parte matris, ut scilicet non lapidaretur; tertia ex parte Joseph, scilicet ut obsequeretur et matri et puero, et testimonium praeberet virginitatis.  
 
 Ad primum ergo dicendum, quod Diabolus cognitione naturali bene potuisset perpendere virginitatem Matris Dei cum toto hoc quod nupta erat, nisi prohibitus fuisset a diligenti examinatione eorum quae circa ipsam erant, divina virtute.  
 
@@ -208,7 +208,7 @@ Articulus 2
 
 ***Utrum fuerit illud matrimonium perfectum***
 
-***Ad secundum sic proceditur. Videtur quod matrimonium praedictum non fuerit perfectum. Perfectum enim matrimonium ex absoluto consensu procedit. Sed Beata Virgo non absolute in matrimonium consensisse videtur, sicut nec absolute vovisse; cum in utroque se dispositioni divinae commiserit, ut in littera dicitur. Ergo non fuit perfectum matrimonium.***
+Ad secundum sic proceditur. Videtur quod matrimonium praedictum non fuerit perfectum. Perfectum enim matrimonium ex absoluto consensu procedit. Sed Beata Virgo non absolute in matrimonium consensisse videtur, sicut nec absolute vovisse; cum in utroque se dispositioni divinae commiserit, ut in littera dicitur. Ergo non fuit perfectum matrimonium.  
 
 Praeterea, significatio est de essentia matrimonii, inquantum est sacramentum. Sed matrimonium illud non fuit perfectum in consignificatione, ut in littera dicitur. Ergo non fuit perfectum sacramentum.  
 
@@ -238,7 +238,7 @@ Articulus 3
 
 ***Utrum fuerit aliquando consummatum***
 
-***Ad tertium sic proceditur. Videtur quod matrimonium illud fuerit aliquando consummatum. Dicitur enim Matth. 1, 18: *antequam convenirent, inventa est in utero habens de spiritu sancto*. Et item 25: *non cognoscebat eam donec peperit filium suum primogenitum*. Ergo videtur quod post cognoverit eam.***
+Ad tertium sic proceditur. Videtur quod matrimonium illud fuerit aliquando consummatum. Dicitur enim Matth. 1, 18: *antequam convenirent, inventa est in utero habens de spiritu sancto*. Et item 25: *non cognoscebat eam donec peperit filium suum primogenitum*. Ergo videtur quod post cognoverit eam.  
 
 Praeterea, primum dicitur respectu secundi. Sed Christus in auctoritate inducta dicitur primogenitus filius Virginis. Ergo post primum habuit alium; et sic matrimonium illud, saltem post Christi nativitatem, consummatum fuit.  
 
@@ -274,7 +274,7 @@ Ad septimum dicendum, secundum Hieronymum, quod *quanto sunt humiliora quae pro 
 
 Expositio textus  
 
-****Si enim diabolus transfigurans se in angelum lucis credatur bonus, non est error periculosus*. Hoc intelligendum est, quando non proceditur ad adorationem, vel quando proceditur sub conditione, si est Christus; alias esset periculum idolatriae.***
+*Si enim diabolus transfigurans se in angelum lucis credatur bonus, non est error periculosus*. Hoc intelligendum est, quando non proceditur ad adorationem, vel quando proceditur sub conditione, si est Christus; alias esset periculum idolatriae.  
 
 *Si quis haereticus nomine Augustini vel Ambrosii alicui Catholico se offerret, eumque ad suae fidei imitationem vocaret, si ille assentiret, in cujus fidei sententiam diceretur consensisse?* Hoc est verum quando non procederet ad expressionem alicujus erroris; alias esset ibi periculum infidelitatis, si ei consentiret.  
 

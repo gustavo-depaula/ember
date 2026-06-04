@@ -1,5 +1,7 @@
 # Sermon
 
+***The boy Jesus***.If we want to consider these words carefully, we will find in them four progresses of Christ, namely,  
+
 (1) the progress of age in regard to the body,  
 
 (2) the progress of wisdom in regard to the intellect,  

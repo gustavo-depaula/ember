@@ -1,10 +1,12 @@
 # Book II - On the Ten Commandments
 
+***De decem praeceptis***
+
 ***Capitulum 1***
 
 ***XI. Primum praeceptum***
 
-******Non habebis deos alienos***, Exod. XX. Sicut iam dictum est tota lex Christi pendet a caritate; caritas autem pendet a duobus praeceptis quorum unum est de dilectione Dei, reliquum de dilectione proximi; et de istis duobus iam dictum est. Nunc autem sciendum quod Deus dando legem Moysi dedit decem praecepta in duabus tabulis lapideis scripta, quorum tria prima in prima tabula scripta pertinent ad amorem Dei, septem vero scripta in secunda tabula pertinent ad amorem proximi. Et ideo tota lex fundatur in duobus praeceptis.***
+***Non habebis deos alienos***, Exod. XX. Sicut iam dictum est tota lex Christi pendet a caritate; caritas autem pendet a duobus praeceptis quorum unum est de dilectione Dei, reliquum de dilectione proximi; et de istis duobus iam dictum est. Nunc autem sciendum quod Deus dando legem Moysi dedit decem praecepta in duabus tabulis lapideis scripta, quorum tria prima in prima tabula scripta pertinent ad amorem Dei, septem vero scripta in secunda tabula pertinent ad amorem proximi. Et ideo tota lex fundatur in duobus praeceptis.  
 
 Primum autem quod pertinet ad amorem Dei est ***non habebis deos alienos***. Et ad huius intellectum sciendum est quod multipliciter antiqui hoc praeceptum transgrediebantur. Quidam enim colebant daemonia, Ps., *omnes dii gentium daemonia*; cuilibet enim erat deus suus. Hoc autem horribile est et inter omnia peccata maius. Nunc etiam hoc praeceptum transgrediuntur plures, omnes scilicet qui divinationibus et sortilegiis intendunt. Hoc enim secundum Augustinum fieri non possunt quin aliquod cum diabolo contrahatur pactum, Cor., *nolo vos fieri socios daemoniorum* et iterum, *non potestis participes esse mensae Christi et daemoniorum*.  
 
@@ -20,7 +22,7 @@ Secundo ex praesumptione, quidam enim praesumptuosi seipsos fecerunt vocari deos
 
 XII. De eodem  
 
-******Non habebis deos alienos, non adorabis*** etc. Sicut dictum est primum praeceptum legis est hoc quo prohibemur non colere nisi unum Deum, et ad hoc etiam inducimur quinque rationibus.***
+***Non habebis deos alienos, non adorabis*** etc. Sicut dictum est primum praeceptum legis est hoc quo prohibemur non colere nisi unum Deum, et ad hoc etiam inducimur quinque rationibus.  
 
 Prima sumitur ex Dei dignitate quae si auferatur fit Deo iniuria sicut enim potest videri ex consuetudine hominum; cuilibet dignitati debetur reverentia specialis, unde proditor regis est qui aufert ei quod exhibere tenetur. Et hoc quidam Deo faciunt, Rom., *mutaverunt gloriam Dei* etc., quod summe Deo displicet, Isa., *gloriam meam alteri non dabo*.  
 
@@ -50,7 +52,7 @@ Capitulum 2
 
 ***XIII. Secundum praeceptum***
 
-******Non assumes nomen Dei tui in vanum***, Exod. Hoc est secundum legis praeceptum; et sicut non est nisi unus Deus quem debemus colere, ita non est nisi unus Deus quem debemus maxime venerari.***
+***Non assumes nomen Dei tui in vanum***, Exod. Hoc est secundum legis praeceptum; et sicut non est nisi unus Deus quem debemus colere, ita non est nisi unus Deus quem debemus maxime venerari.  
 
 Et primo quantum ad nomen, unde ***non assumes*** etc.  
 
@@ -88,7 +90,7 @@ Capitulum 3
 
 ***XV. Tertium praeceptum***
 
-******Memento ut diem Sabbati sanctifices***. Hoc est tertium praeceptum legis et convenienter.***
+***Memento ut diem Sabbati sanctifices***. Hoc est tertium praeceptum legis et convenienter.  
 
 Primo enim debemus Deum venerari corde, unde praecipitur quod non colatur nisi unus Deus;  
 
@@ -112,7 +114,7 @@ Quinto ad opera pietatis. Aliqui enim crudeles sibi et suis non cessant continue
 
 XVI. De eodem  
 
-******Memento*** etc. Dictum est quod sicut Iudaei celebrant Sabbatum, sic nos dominicam et alia principalia festa; videamus ergo quomodo ista celebrare debemus. Et sciendum quod Deus non dixit “custodi Sabbatum,” sed ***memento ut diem Sabbati sanctifices***. “Sanctum” autem accipitur duobus modis: aliquando enim “sanctum” idem est quod purum, Apostolus, *sed sanctificati estis* etc.; aliquando “sanctum” dicitur res consecrata ad cultum Dei. Istis ergo duobus modis debemus festa celebrare quia et pure et mancipando nos Dei servitio. In isto ergo praecepto duo considerantur:***
+***Memento*** etc. Dictum est quod sicut Iudaei celebrant Sabbatum, sic nos dominicam et alia principalia festa; videamus ergo quomodo ista celebrare debemus. Et sciendum quod Deus non dixit “custodi Sabbatum,” sed ***memento ut diem Sabbati sanctifices***. “Sanctum” autem accipitur duobus modis: aliquando enim “sanctum” idem est quod purum, Apostolus, *sed sanctificati estis* etc.; aliquando “sanctum” dicitur res consecrata ad cultum Dei. Istis ergo duobus modis debemus festa celebrare quia et pure et mancipando nos Dei servitio. In isto ergo praecepto duo considerantur:  
 
 primo quid in festo quid cavendum sit,  
 
@@ -136,7 +138,7 @@ Tertio debemus cavere negligentiam. *Multam enim mala docuit otiositas*, Eccli.;
 
 XVII. De eodem  
 
-******Memento ut diem Sabbati*** etc. Sicut dictum est homo diem festum debet sanctificare, et dictum est quod “sanctum” dicitur duobus modis, quia et quod mundum est et quod Domino consecratum est.***
+***Memento ut diem Sabbati*** etc. Sicut dictum est homo diem festum debet sanctificare, et dictum est quod “sanctum” dicitur duobus modis, quia et quod mundum est et quod Domino consecratum est.  
 
 Item dictum est a quibus tali die abstinere debemus. Nunc dicendum est in quibus occupari debemus et sunt tria.  
 
@@ -168,7 +170,7 @@ Capitulum 4
 
 ***XVIII. Quartum praeceptum***
 
-******Honora patrem tuum*** etc. Perfectio hominis consistit in dilectione Dei et proximi, et ad dilectionem Dei pertinent tria praecepta quae scripta sunt in prima tabula, ad dilectionem proximi pertinent alia quae scripta sunt in secunda tabula.***
+***Honora patrem tuum*** etc. Perfectio hominis consistit in dilectione Dei et proximi, et ad dilectionem Dei pertinent tria praecepta quae scripta sunt in prima tabula, ad dilectionem proximi pertinent alia quae scripta sunt in secunda tabula.  
 
 Sed sicut dicit beatus Ioannes, *non debemus diligere verbo neque lingua sed opere et veritate*. Homo enim sic diligendo debet duo facere, scilicet fugere malum et facere bonum. Unde in praeceptis quaedam sunt inducentia ad faciendum bonum, alia sunt prohibentia facere malum. Sed sciendum quod cavere a malo faciendo est in potestate nostra, sed facere cuilibet bonum non possumus. Et ideo dicit Augustinus quod nos omnes debemus diligere, sed non omnibus tenemur benefacere. Sed inter omnes debemus benefacere coniunctis nobis, quia *si quis suorum et maxime domesticorum* etc., Tim. Inter omnes autem propinquos sunt nobis propinquiores pater et mater, et ideo sicut dicit Ambrosius, primo debemus diligere Deum, secundo patrem et matrem, et hoc est quod dicit, ***honora patrem et matrem***. Et huius rationem reddit Philosophus qui dicit quod ex magno beneficio recepto ab eis non possumus eis respondere ex aequali. Et ideo bene potest pater offensus expellere filium, sed non e converso.  
 
@@ -194,7 +196,7 @@ Item tertio quia docuerunt debemus eis obedire, Heb., *filii obedite parentibus 
 
 XIX. De eodem  
 
-******Honora patrem*** etc. Inter omnia praecepta huic tantum promissio adiungitur: ***ut sis***, inquid, ***longaevus super terram***. Et ratio huius est ne credatur non deberi praemium honorantibus parentes quia naturale est. Sed sciendum quod parentes honorantibus quinque promittuntur desiderabilia.***
+***Honora patrem*** etc. Inter omnia praecepta huic tantum promissio adiungitur: ***ut sis***, inquid, ***longaevus super terram***. Et ratio huius est ne credatur non deberi praemium honorantibus parentes quia naturale est. Sed sciendum quod parentes honorantibus quinque promittuntur desiderabilia.  
 
 Et primum est gratia in praesenti et gloria in futuro quae maxime desiderantur, Eccli. III, *honora patrem tuum ut superveniat tibi benedictio a Deo.* Contrarium debetur maledicentibus quia in lege maledicuntur a Deo, et sicut in Luc. dicitur, *qui in modico infidelis est, et in magno*. Sed vita naturalis quasi nihil est in comparatione ad vitam gratiae; si ergo non recognoscis beneficium vitae naturalis quam habes a parentibus, indignus es vita gratiae quae maior est et per consequens vita gloriae quae quidem maxima est.  
 
@@ -212,7 +214,7 @@ Quintum est habere divitias, Eccli. III, *benedictio patris firmat domos filioru
 
 XX. De eodem  
 
-******Honora patrem*** etc. Notandum quod non solum dicitur aliquis pater ratione carnalis generationis, sed quibusdam aliis rationibus aliqui dicuntur patres et cuilibet debetur aliqua reverentia.***
+***Honora patrem*** etc. Notandum quod non solum dicitur aliquis pater ratione carnalis generationis, sed quibusdam aliis rationibus aliqui dicuntur patres et cuilibet debetur aliqua reverentia.  
 
 Dicuntur enim patres apostoli et alii sancti propter doctrinam et exemplum fidei, Apostolus, *et si multos paedagogos* etc. *in Christo Iesu per Evangelium ego vos genui*. Et ideo dicitur, Eccli., *laudemus viros gloriosos et parentes*, laudemus autem non tantum ore sed imitatione. Et hoc fit quando non invenitur contrarium in nobis eius quem laudamus, Heb., *quorum intuentes exitum conversationis imitamini fidem*.  
 
@@ -228,7 +230,7 @@ Capitulum 5
 
 ***XXI. Quintum praeceptum***
 
-******Non occides*** etc. In lege divina per quam ordinamur ad dilectionem Dei et proximi, praecipitur non solum facere bonum sed declinare a malo. Inter alia autem maius malum quod possit fieri proximo est occidere eum, et hoc prohibetur cum dicitur ***non occides***. Circa quod praeceptum tripliciter est erratum.***
+***Non occides*** etc. In lege divina per quam ordinamur ad dilectionem Dei et proximi, praecipitur non solum facere bonum sed declinare a malo. Inter alia autem maius malum quod possit fieri proximo est occidere eum, et hoc prohibetur cum dicitur ***non occides***. Circa quod praeceptum tripliciter est erratum.  
 
 Quidam enim dixerunt quod non licet occidere minuta animalia. Sed hoc falsum est, quia non est peccatum uti illis quae sunt subdita hominis potestati. Est etiam naturalis ordo quod plantae sint in nutrimentum animalium et quaedam animalia in nutrimentum aliorum et omnia in nutrimentum hominum, Gen., *quasi olera virentia tradidi vobis omnia*. Philosophus etiam dicit in Politica quod venatio est sicut iustum bellum; Apostolus, *omne quod in macello venit, manducate* etc. Ergo “non occides homines.”  
 
@@ -254,7 +256,7 @@ Et sciendum quod aliqui occidunt solum corpus, de quo dictum est; alii animam au
 
 XXIII. De eodem  
 
-******Non occides*** etc. Christus dat in Evangelio quandam doctrinam quae est quod iustitia nostra debet esse maior iustitia legis. Unde docet perfectius servari mandata legis a Christianis quam Iudaei servarent. Et ratio huius est quia maiori labore acquiritur maior merces, Cor. IX, *qui parce seminat, parce et metet*.***
+***Non occides*** etc. Christus dat in Evangelio quandam doctrinam quae est quod iustitia nostra debet esse maior iustitia legis. Unde docet perfectius servari mandata legis a Christianis quam Iudaei servarent. Et ratio huius est quia maiori labore acquiritur maior merces, Cor. IX, *qui parce seminat, parce et metet*.  
 
 In lege enim promittebantur temporalia et terrena, Isa., *si volueritis et audieritis me, bona terrae comedetis*; sed in lege nova promittuntur caelestia et aeterna;  
 
@@ -290,7 +292,7 @@ Capitulum 6
 
 ***XXIV. Sextum praeceptum***
 
-******Non moechaberis*** etc. Post prohibitionem homicidii prohibetur adulterium, et congrue quia vir et uxor sunt quasi unum corpus, *erunt*, inquit Dominus, *duo in carne una*. Et ideo post iniuriam quae infertur personae proprie nulla maior est illa quae infertur personae coniunctae.***
+***Non moechaberis*** etc. Post prohibitionem homicidii prohibetur adulterium, et congrue quia vir et uxor sunt quasi unum corpus, *erunt*, inquit Dominus, *duo in carne una*. Et ideo post iniuriam quae infertur personae proprie nulla maior est illa quae infertur personae coniunctae.  
 
 Prohibetur autem adulterium uxori et viro,  
 
@@ -318,7 +320,7 @@ Tertio ex eius auctoritate, quia *vir caput est mulieris*; unde *mulieres non de
 
 XXV. De eodem  
 
-******Non moechaberis***. Sicut dictum est, Deus tam viris quam mulieribus prohibuit adulterium. Sed sciendum quod quamvis aliqui credant adulterium esse peccatum, non tamen credunt simplicem fornicationem esse peccatum mortale. Contra quos Apostolus, *fornicatores et adulteros iudicabit Deus*, Cor., fornicatores *regnum Dei non possidebunt*. A regno autem Dei non excluditur aliquis nisi per peccatum mortale, ergo est peccatum mortale. Sed forte dices, non est ratio quare sit peccatum cum non detur corpus uxoris vel viri alicui sicut in adulterio; sed sciendum quod licet non detur corpus uxoris, datur tamen corpus Christi quod sibi datum fuit et consecratum in baptismo. Si ergo nullus debet facere iniuriam uxori, multo magis nec Christo; Cor., *tollens ergo membra Christi faciam membra meretricis? Absit!* Est ergo haeresis dicere fornicationem simplicem non esse peccatum mortale. Et ideo sciendum quod in isto praecepto, ***non moechaberis***, prohibetur non solum adulterium, sed etiam omnis carnalis corruptio praeter eam quae est matrimonii.***
+***Non moechaberis***. Sicut dictum est, Deus tam viris quam mulieribus prohibuit adulterium. Sed sciendum quod quamvis aliqui credant adulterium esse peccatum, non tamen credunt simplicem fornicationem esse peccatum mortale. Contra quos Apostolus, *fornicatores et adulteros iudicabit Deus*, Cor., fornicatores *regnum Dei non possidebunt*. A regno autem Dei non excluditur aliquis nisi per peccatum mortale, ergo est peccatum mortale. Sed forte dices, non est ratio quare sit peccatum cum non detur corpus uxoris vel viri alicui sicut in adulterio; sed sciendum quod licet non detur corpus uxoris, datur tamen corpus Christi quod sibi datum fuit et consecratum in baptismo. Si ergo nullus debet facere iniuriam uxori, multo magis nec Christo; Cor., *tollens ergo membra Christi faciam membra meretricis? Absit!* Est ergo haeresis dicere fornicationem simplicem non esse peccatum mortale. Et ideo sciendum quod in isto praecepto, ***non moechaberis***, prohibetur non solum adulterium, sed etiam omnis carnalis corruptio praeter eam quae est matrimonii.  
 
 Ulterius autem sciendum quod alii dicunt commixtionem viri et uxoris sine peccato non esse, quod haereticum est, Apostolus, *sit honorabile connubium in omnibus et torus immaculatus*. Talis autem coniunctio aliquando non solum est sine peccato, sed etiam est ad meritum vitae aeternae habentibus caritatem; aliquando autem est cum veniali; aliquando cum mortali. Quando enim est cum intentione procreandae prolis, tunc est meritoria; quando autem redditur tantum debitum, tunc etiam est opus iustitiae et virtutis; quando autem est tantum causa exercendae libidinis, tunc est veniali vel cum veniale, quando scilicet non excedit limites matrimonii, quando autem excedit ut scilicet si posset extenderet se ad aliam, tunc est mortale quia in suo consensu est mortale.  
 
@@ -336,7 +338,7 @@ Capitulum 7
 
 ***XXVI. Septimum praeceptum***
 
-******Non furaberis***. Dominus prohibuit principaliter in lege sua iniuriam proximi,***
+***Non furaberis***. Dominus prohibuit principaliter in lege sua iniuriam proximi,  
 
 et primo iniuriam in propriam personam, ***non occides***,  
 
@@ -358,7 +360,7 @@ Quinto dignitates emendo sive sint temporales sive spirituales. De primo Iob XX,
 
 XXVII. De eodem  
 
-******Non furtum facies*** etc. Hoc praecepto sicut dictum est prohibetur omne male ablatum, et debent nos inducere multas rationes ad cavendum ab hoc.***
+***Non furtum facies*** etc. Hoc praecepto sicut dictum est prohibetur omne male ablatum, et debent nos inducere multas rationes ad cavendum ab hoc.  
 
 Prima sumitur ex gravitate; assimilatur enim hoc peccatum homicidio, Eccli., *panis egentium vita pauperis, et qui defraudat illum vir sanguinis est*, et iterum, *qui effundit sanguinem et qui defraudat mercenarium fratres sunt*.  
 
@@ -372,7 +374,7 @@ Capitulum 8
 
 ***XXVIII. Octavum praeceptum***
 
-******Non loqueris contra proximum tuum falsum testimonium***. Prohibuit iam Dominus quod nullus iniurietur proximo suo opere, nunc autem praecipit quod non iniurietur verbo, et hoc est ***non loquaris*** etc.***
+***Non loqueris contra proximum tuum falsum testimonium***. Prohibuit iam Dominus quod nullus iniurietur proximo suo opere, nunc autem praecipit quod non iniurietur verbo, et hoc est ***non loquaris*** etc.  
 
 Hoc autem potest esse dupliciter vel in iudicio vel in communi locutione. In iudicio autem tribus modis secundum quod tres personae possunt facere contra hoc praeceptum.  
 
@@ -396,7 +398,7 @@ Murmuratores, et hoc maxime abundat in subditis, Cor., *neque murmuraveritis* et
 
 XXIX. De eodem  
 
-******Non loqueris*** etc. In hac prohibitione prohibetur omne mendacium, Eccli., *noli velle mentiri omne mendacium assiduae*. Et hoc propter quatuor.***
+***Non loqueris*** etc. In hac prohibitione prohibetur omne mendacium, Eccli., *noli velle mentiri omne mendacium assiduae*. Et hoc propter quatuor.  
 
 Primo propter diaboli assimilationem. Talis enim efficitur diaboli filius, nam homo ex verbis suis cognoscitur de qua regione et patria sit, Ioan., *nam et loquela tua* etc. Inter homines quidam sunt de genere diaboli qui et dicuntur diaboli filii, qui scilicet sequuntur mendacium, quia diabolus *mendax est et pater eius.* Ipse enim mentitus est primo, Gen. I, *nequaquam moriemini* etc. Quidam vero filii Dei, qui scilicet loquuntur veritatem, quia Deus veritas est.  
 
@@ -426,7 +428,7 @@ Capitulum 9
 
 ***XXX. Nonum praeceptum***
 
-******Non concupisces rem proximi tui***. Haec est differentia inter legem divinam et humanam vel mundanam, quia lex mundana iudicat facta et dicta, divina autem non solum haec sed etiam cogitata. Et ratio huius est quia illa est per homines qui ea quae parent exterius iudicant, sed divina est a Deo qui exterius interiusque conspicit, Ps., *Deus cordis mei*, Reg., *homines vident ea quae foris parent, Deus autem intuetur cor*. Dictum est supra de praeceptis quae pertinent ad facta et dicta, nunc dicendum est de cogitatis, ***non concupisces*** etc. Apud Deum enim voluntas pro facto reputatur, unde ***non concupisces***, quasi diceret: non solum non auferas, sed nec etiam rem proximi tui concupisces, et hoc propter multa.***
+***Non concupisces rem proximi tui***. Haec est differentia inter legem divinam et humanam vel mundanam, quia lex mundana iudicat facta et dicta, divina autem non solum haec sed etiam cogitata. Et ratio huius est quia illa est per homines qui ea quae parent exterius iudicant, sed divina est a Deo qui exterius interiusque conspicit, Ps., *Deus cordis mei*, Reg., *homines vident ea quae foris parent, Deus autem intuetur cor*. Dictum est supra de praeceptis quae pertinent ad facta et dicta, nunc dicendum est de cogitatis, ***non concupisces*** etc. Apud Deum enim voluntas pro facto reputatur, unde ***non concupisces***, quasi diceret: non solum non auferas, sed nec etiam rem proximi tui concupisces, et hoc propter multa.  
 
 Primo propter concupiscentiae infinitatem; concupiscentia enim quid infinitum est. Quilibet autem sapiens debet intendere finem aliquem, et ideo nullus debet ire per viam infinitam, Eccl., *avarus non implebitur pecunia*, Isa., *vae qui coniungitis domum ad domum*. Et quod concupiscentia nunquam satiatur ratio est quia cor hominis factum est ad recipiendum Deum, ergo id quod est minus eo ipsum implere non potest, Ps., *qui replet in bonis* etc.  
 
@@ -444,7 +446,7 @@ Capitulum 10
 
 ***XXXI. Decimum praeceptum***
 
-******Non desiderabis uxorem proximi tui***. Beatus Ioannes in canonica dicit quod *omne quod est in mundo* etc.***
+***Non desiderabis uxorem proximi tui***. Beatus Ioannes in canonica dicit quod *omne quod est in mundo* etc.  
 
 Unde omne desiderabile in tribus consistit, sed duo ex istis intelliguntur prohibita per hoc *non concupisces*. In domo enim intelligitur et altitudo per quam superbia, et latitudo per quam avaritia, Ps., *gloria et divitiae in domo eius*. Qui ergo desiderat domum desiderat dignitatem et divitias. Et ideo post hoc praeceptum *non concupisces*, ponitur aliud per quod prohibetur carnis concupiscentia, ***non***, inquit, ***desiderabis uxorem proximi tui***.  
 

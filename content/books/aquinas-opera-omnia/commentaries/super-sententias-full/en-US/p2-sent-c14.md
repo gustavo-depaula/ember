@@ -1,8 +1,10 @@
 # D. 34 - Comparison of the essence to the person
 
+***Comparison of the essence to the person***
+
 ***Division of the text***
 
-***Here the Master compares the person to the essence. And it is divided into two parts: in the first, he presents the comparison; in the second, he presents the end of the matter, at *moreover, it is to be understood*.*Sent*. I, 34.5(149).2.***
+Here the Master compares the person to the essence. And it is divided into two parts: in the first, he presents the comparison; in the second, he presents the end of the matter, at *moreover, it is to be understood*.*Sent*. I, 34.5(149).2.  
 
 The first part is divided into two: in the first, he compares the person to the essence according to identity; in the second, he does this according to the essence’s community with the persons, at *here it is to be considered*.*Sent*. I, 34.2(146).1.  
 
@@ -46,7 +48,7 @@ Article 1
 
 ***Whether the person and the essence are the same thing in the divine***
 
-***To the first we proceed as follows.Parallel texts: *In III Sent*., d. 6, q. 2, a. 2, ad 2; *ST* I.28.2–3; I.39.1. It seems that the person and the essence in the divine are not the same thing.***
+To the first we proceed as follows.Parallel texts: *In III Sent*., d. 6, q. 2, a. 2, ad 2; *ST* I.28.2–3; I.39.1. It seems that the person and the essence in the divine are not the same thing.  
 
 Obj. 1: For every person, or hypostasis, in the divine is either begetting, begotten, or proceeding. But the essence is not such, as was said above.*In I Sent*., d. 5, q. 1, a. 1. Therefore and so on.  
 
@@ -90,7 +92,7 @@ Article 2
 
 ***Whether it is congruously said that the three persons are of one essence***
 
-***To the second we proceed as follows.Parallel texts: above, d. 25, exposition of the text; *ST* I.39.2; 33.3. It seems incongruous to say that the three persons are of one essence.***
+To the second we proceed as follows.Parallel texts: above, d. 25, exposition of the text; *ST* I.39.2; 33.3. It seems incongruous to say that the three persons are of one essence.  
 
 Obj. 1: For according to grammar, the oblique cases are transitive.The oblique cases for nouns are any cases other than the nominative; “of one essence” (*unius essentiae*) is in the genitive case. But a transitive construction requires a diversity of the things so construed. Therefore, since the essence is not different than the person, it seems incongruous to say that the three persons are of one essence.  
 
@@ -122,9 +124,9 @@ Question 2
 
 ***Article 1***
 
-***Whether power is fittingly attributed to the Father, wisdom to the Son, goodness to the Holy Spirit***
+Whether power is fittingly attributed to the Father, wisdom to the Son, goodness to the Holy Spirit  
 
-***Next we ask about the appropriation presented in the text,*Sent*. I, 34.3(147).1. since it seems unfitting.***
+Next we ask about the appropriation presented in the text,*Sent*. I, 34.3(147).1. since it seems unfitting.  
 
 Obj. 1: For virtue pertains to power, but “virtue” is appropriated to the Son, according to 1 Corinthians 1:24: *Christ, the virtue of God*.RSV reads *power* instead of *virtue*. Therefore “power” should not be appropriated to the Father, but rather to the Son.  
 
@@ -156,7 +158,7 @@ Question 3
 
 ***Those things said metaphorically of God***
 
-***Next, one asks about things said metaphoricallySee the note above in d. 22, q. 1, a. 2, obj. 2. Given their equivalent etymologies and the clearer meaning of “metaphor,” we will usually translate *translative* as “metaphorically.” of God. About this two things are asked:***
+Next, one asks about things said metaphoricallySee the note above in d. 22, q. 1, a. 2, obj. 2. Given their equivalent etymologies and the clearer meaning of “metaphor,” we will usually translate *translative* as “metaphorically.” of God. About this two things are asked:  
 
 first, whether anything should be said metaphorically of God;  
 
@@ -166,7 +168,7 @@ Article 1
 
 ***Whether anything should be said metaphorically of God***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., prol., a. 5; *ST* I.1.9; *SCG* III.119; *Commentary on Boethius’s On the Trinity*, q. 2, a. 4. It seems that nothing should be said metaphorically of God.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., prol., a. 5; *ST* I.1.9; *SCG* III.119; *Commentary on Boethius’s On the Trinity*, q. 2, a. 4. It seems that nothing should be said metaphorically of God.  
 
 Obj. 1: For Boethius saysBoethius, *On the Trinity*, ch. 2 (PL 64:1250). that in divine things one must consider intellectually, and not be led by images. But metaphorical expressions are drawn from the images of sensible things. Therefore one should not use them in the divine.  
 
@@ -198,7 +200,7 @@ Article 2
 
 ***Whether metaphors for the divine should be extended from base things***
 
-***To the second we proceed as follows. It seems that metaphors for the divine should not be extended from base things.Parallel text: *ST* I.1.9, ad 3.***
+To the second we proceed as follows. It seems that metaphors for the divine should not be extended from base things.Parallel text: *ST* I.1.9, ad 3.  
 
 Obj. 1: For, as the previous article said, every metaphorical extension arises through a certain manner of likeness. But no noble conditions are found in base things, from which conditions one might attend to some likeness to divine things. Therefore it seems that one should not extend metaphors for divine things from such realities.  
 
@@ -224,7 +226,7 @@ Reply Obj. 4: In one reality diverse properties can be considered. And therefore
 
 Exposition of the text  
 
-****For if, they say, the same essence which is the Father is also the Son, then the same is father and son to himself*.*Sent*. I, 34.1(145).1. This argument is as follows. The divine essence is one and the same reality; but the divine essence is the Father and the Son, as you say; therefore the same reality is Father and Son, and the same reality has begotten and has been begotten. The response to this is clearly to point out an equivocation on “reality”;Since the word *res* (“reality,” “thing”) is not actually a part of the text Lombard gives, it may be more accurate to say the equivocation is based on the word *idem* (“same,” “same thing”). for if “reality” is taken essentially, then the divine essence is one reality, and that reality neither begot not was begotten, nor is it father or son, if “father” and “son” are taken as adjectives. However, if “reality” is taken personally, then the divine essence is not one reality, but three realities, one of which is the begetter, the other the begotten, and the third the one who proceeds. But the essence is neither begetter, nor begotten, nor proceeding.***
+*For if, they say, the same essence which is the Father is also the Son, then the same is father and son to himself*.*Sent*. I, 34.1(145).1. This argument is as follows. The divine essence is one and the same reality; but the divine essence is the Father and the Son, as you say; therefore the same reality is Father and Son, and the same reality has begotten and has been begotten. The response to this is clearly to point out an equivocation on “reality”;Since the word *res* (“reality,” “thing”) is not actually a part of the text Lombard gives, it may be more accurate to say the equivocation is based on the word *idem* (“same,” “same thing”). for if “reality” is taken essentially, then the divine essence is one reality, and that reality neither begot not was begotten, nor is it father or son, if “father” and “son” are taken as adjectives. However, if “reality” is taken personally, then the divine essence is not one reality, but three realities, one of which is the begetter, the other the begotten, and the third the one who proceeds. But the essence is neither begetter, nor begotten, nor proceeding.  
 
 *And they strive to defend their view by the testimony of Hilary*.*Sent*. I, 34.1(145).2. Hilary’s intention in everything he says that is presented here is this. He wants to prove that the Father and the Son are of one nature, and to prove this he draws on the words of the Apostle in Romans 8 where he speaks of the spirit of the Father as the same as the spirit of the Son.For example, Romans 8:9: *but you are not in the flesh, you are in the Spirit, if the Spirit of God really dwells in you. Any one who does not have the Spirit of Christ does not belong to him*. The argument proceeds from this as follows: “spirit” is taken in two ways in the divine, since sometimes it is taken essentially, and signifies the divine nature—and in this sense it is sometimes used for the Father, at other times, for the Son, at still other times for the Holy Spirit—and at other times it is taken personally, and thereby signifies the reality of that nature, or the person of the Holy Spirit. Therefore in the Apostle’s words, “spirit of Christ” and that of the Father are taken essentially, for the nature, so that the sense is “spirit who is Christ and the Father.” And what is in the proposed matter plainly holds, that if there is one spirit of each, the nature is the same for each. Or if it is taken for the reality of the nature who is the Holy Spirit, then too the same thing is held—that the Holy Spirit is from the Father and the Son; but no reality of one nature is from diverse natures, so because the Holy Spirit is of one nature, because he is simple, the Father and the Son must not be of diverse natures.  
 

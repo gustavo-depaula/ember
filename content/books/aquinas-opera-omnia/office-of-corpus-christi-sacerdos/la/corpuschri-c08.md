@@ -1,5 +1,8 @@
 # None
 
+***[℣. Deus in adiutorium meum intende.***
+***℟. Domine, ad adiuvandum me festina.***
+
 Gloria Patri, et Filio, * et Spiritui Sancto.  
 
 Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]  
@@ -124,7 +127,7 @@ Contra *Ex quo omnia* de Trinitate.
 
 ***1 Cor 11:27***
 
-***Quicumque manducaverit panem et biberit calicem Domini indigne, reus erit Corporis et Sanguinis Domini.***
+Quicumque manducaverit panem et biberit calicem Domini indigne, reus erit Corporis et Sanguinis Domini.  
 
 > Responsorium
 

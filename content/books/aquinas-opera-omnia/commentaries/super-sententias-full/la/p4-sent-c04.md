@@ -1,8 +1,10 @@
 # D. 24 - Natural power of man in his original state
 
+***De potentia naturali quam homo in promi statu habuit***
+
 ***Divisio primae partis textus***
 
-***Postquam determinavit de scientia quam homo in primo statu habuit, hic incipit determinare de potentia naturali, per quam peccatum vitare poterat; et dividitur in duas partes:***
+Postquam determinavit de scientia quam homo in primo statu habuit, hic incipit determinare de potentia naturali, per quam peccatum vitare poterat; et dividitur in duas partes:  
 
 in prima parte ostendit quod homo habuit naturalem potentiam, per quam poterat peccatum vitare;  
 
@@ -108,7 +110,7 @@ Articulus 2
 
 ***Utrum liberum arbitrium dicat plures potentias vel unam***
 
-***Ad secundum sic proceditur. Videtur quod liberum arbitrium non nominet unam potentiam, sed plures.***
+Ad secundum sic proceditur. Videtur quod liberum arbitrium non nominet unam potentiam, sed plures.  
 
 Augustinus enim dicit: *cum de libero arbitrio loquimur, non de quadam parte animae dicimus, sed de tota anima*. Totalitas autem animae in pluralitate potentiarum consistit. Ergo liberum arbitrium plures potentias colligit.  
 
@@ -146,7 +148,7 @@ Articulus 3
 
 ***Utrum liberum arbitrium sit potentia distincta a voluntate et ratione***
 
-***Ad tertium sic proceditur. Videtur quod liberum arbitrium sit potentia distincta a voluntate et ratione.***
+Ad tertium sic proceditur. Videtur quod liberum arbitrium sit potentia distincta a voluntate et ratione.  
 
 Actus enim cujuslibet potentiae denominatur ab ipsa potentia, sicut velle a voluntate, et intelligere ab intellectu. Sed eligere neque a voluntate neque a ratione denominatur. Ergo cum sit actus liberi arbitrii, videtur quod liberum arbitrium sit potentia ab utraque discreta.  
 
@@ -186,7 +188,7 @@ Articulus 4
 
 ***Utrum Adam potuerit vitare peccatum per liberum arbitrium in primo statu***
 
-***Ad quartum sic proceditur. Videtur quod Adam in primo statu per liberum arbitrium non poterat peccatum vitare.***
+Ad quartum sic proceditur. Videtur quod Adam in primo statu per liberum arbitrium non poterat peccatum vitare.  
 
 Quia, sicut dicit Augustinus in lib. *De vera innocentia*, epist. 186, *natura humana, etsi in illa integritate in qua condita est permaneret, nullo tamen modo seipsam sine Creatore adjuvante servaret*. Sed sua conservatio erat ut sine peccato maneret. Ergo videtur quod per liberum arbitrium peccatum vitare non poterat.  
 
@@ -228,7 +230,7 @@ Articulus 1
 
 ***Utrum notificatio sensualitatis posita in littera sit conveniens***
 
-***Ad primum sic proceditur. Videtur quod inconvenienter notificetur in littera sensualitas.***
+Ad primum sic proceditur. Videtur quod inconvenienter notificetur in littera sensualitas.  
 
 Differt enim sensualitas a ratione, ut in littera dicitur. Sed inferior portio rationis est quaedam vis ex qua procedit appetitus rerum ad corpus pertinentium: quia temporalibus administrandis intendit, ut in littera dicitur. Ergo inconvenienter per haec sensualitas describitur.  
 
@@ -260,7 +262,7 @@ Articulus 2
 
 ***Utrum ratio superior et inferior sit una potentia***
 
-***Ad secundum sic proceditur. Videtur quod ratio superior et inferior non sit una potentia, sed diversae.***
+Ad secundum sic proceditur. Videtur quod ratio superior et inferior non sit una potentia, sed diversae.  
 
 In partibus enim animae non accipitur superius et inferius animae secundum situm, sed secundum dignitatem. Sed inter partes animae intellectivae est invenire unam partem alia digniorem: quia intellectus agens est nobilior possibili; ut in 3 *De anima* dicitur, quae diversae potentiae sunt, ut supra dictum est. Ergo videtur quod id quod est superius in ratione et id quod est inferius sint diversae potentiae.  
 
@@ -384,7 +386,7 @@ Ad sextum dicendum, quod habitus ille ex quo nascitur actus conscientiae, non es
 
 Expositio primae partis textus  
 
-****Sed non perficere bonum*.Al.: *sed nunc perfice bonum*.  Intelligendum est de bono meritorio.***
+*Sed non perficere bonum*.Al.: *sed nunc perfice bonum*.  Intelligendum est de bono meritorio.  
 
 *Quia nihil in eo erat quod ad malum impelleret*. Videtur haec causa esse insufficiens: quia in Christo etiam nihil fuit ad malum impellens, et tamen resistendo malo meruit.  
 
@@ -392,7 +394,7 @@ Et dicendum, secundum quosdam, quod hoc intelligitur non de quolibet merito, sed
 
 Divisio secundae partis textus  
 
-****Illud quoque praetermittendum non est quod talis nunc in unoquoque homine est ordo tentationis et progressio qualis tunc in primis praecessit parentibus*. Ostensa diversitate quadam partium animae, hic ostendit quomodo contingat in eis peccatum esse; et dividitur in partes tres:***
+*Illud quoque praetermittendum non est quod talis nunc in unoquoque homine est ordo tentationis et progressio qualis tunc in primis praecessit parentibus*. Ostensa diversitate quadam partium animae, hic ostendit quomodo contingat in eis peccatum esse; et dividitur in partes tres:  
 
 in prima ostendit qualiter in unaquaque parte animae possit esse peccatum mortale et veniale;  
 
@@ -434,9 +436,9 @@ sexto utrum veniale per multiplicationem vel alio modo possit esse mortale.
 
 Articulus 1  
 
-***Utrum motus sensualitatis et rationis superioris et inferioris, convenienter et sufficienter assignetur in littera***
+Utrum motus sensualitatis et rationis superioris et inferioris, convenienter et sufficienter assignetur in littera  
 
-***Ad primum sic proceditur. Videtur quod insufficienter et inconvenienter distinguantur in littera motus sensualitatis et inferioris et superioris rationis.***
+Ad primum sic proceditur. Videtur quod insufficienter et inconvenienter distinguantur in littera motus sensualitatis et inferioris et superioris rationis.  
 
 Omnis enim virtus naturaliter in suum objectum movetur. Sed virtus generativa et nutritiva est quaedam naturalis virtus. Ergo habet aliquem motum naturalem in actum generationis et comestionis: et ita, praeter motum sensualitatis et rationis, oportet ponere motum naturalem.  
 
@@ -476,7 +478,7 @@ Articulus 2
 
 ***Utrum in sensualitate sit peccatum***
 
-***Ad secundum sic proceditur. Videtur quod in sensualitate non possit esse peccatum.***
+Ad secundum sic proceditur. Videtur quod in sensualitate non possit esse peccatum.  
 
 Sensualitas enim nobis pecoribusque communis est, ut supra dictum est. Sed in pecoribus non est peccatum, ut de peccato agimus. Ergo nec nobis secundum sensualitatem peccatum convenit.  
 
@@ -552,7 +554,7 @@ Articulus 4
 
 ***Utrum in delectatione rationis inferioris possit esse peccatum mortale***
 
-***Ad quartum sic proceditur. Videtur quod in delectatione inferioris rationis non sit peccatum mortale.***
+Ad quartum sic proceditur. Videtur quod in delectatione inferioris rationis non sit peccatum mortale.  
 
 Non enim est peccare mortaliter nisi ejus cujus est advertere rationem divini praecepti, cum peccatum mortale determinetur ex eo quod est contra legem divinam. Sed advertere praeceptum divinum non est inferioris rationis, sed superioris, quae aeternas rationes consulit. Ergo peccatum mortale non potest esse in ratione inferiori, sed tantum in superiori.  
 
@@ -588,7 +590,7 @@ Articulus 5
 
 ***Utrum in ratione superiori possit esse peccatum veniale***
 
-***Ad quintum sic proceditur. Videtur quod in superiori parte rationis non possit esse peccatum veniale.***
+Ad quintum sic proceditur. Videtur quod in superiori parte rationis non possit esse peccatum veniale.  
 
 Peccatum enim superioris rationis non est nisi per hoc quod deflectitur a rationibus aeternis. Sed ab eis deflecti non contingit nisi per peccatum mortale. Ergo in ratione superiori non erit peccatum nisi mortale.  
 
@@ -670,7 +672,7 @@ Ad octavum dicendum, quod hoc quod dicit Magister intelligendum est non per se, 
 
 Expositio secundae partis textus  
 
-****Et ideo de talibus cogitationibus venia petenda est*. Videtur hoc esse contra illud quod prius determinatum est. Quia percussio pectoris et *Pater noster* valent ad dimissionem peccati venialis, et est satisfactio propria venialium. Ergo videtur quod morosa delectatio, de qua hic loquitur, sit veniale peccatum.***
+*Et ideo de talibus cogitationibus venia petenda est*. Videtur hoc esse contra illud quod prius determinatum est. Quia percussio pectoris et *Pater noster* valent ad dimissionem peccati venialis, et est satisfactio propria venialium. Ergo videtur quod morosa delectatio, de qua hic loquitur, sit veniale peccatum.  
 
 SedPLE: *sed*; Mandonnet: *et*. dicendum quod quamvis hujusmodi sit sufficiens satisfactio pro veniali peccato, et non pro mortali, tamen etiam ad dimissionem peccati mortalis valent; unde, etiam pro mortalibus *Pater noster* dicere debemus et pectus tundere.  
 

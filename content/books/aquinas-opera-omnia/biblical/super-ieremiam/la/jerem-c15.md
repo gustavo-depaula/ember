@@ -1,6 +1,8 @@
 # C. 13 - Allegory of the girdle
 
-***^13:1^ Haec dicit Dominus ad me: vade, et posside tibi lumbare lineum, et pones illud super lumbos tuos, et in aquam non inferes illud.***
+***Lectio 1***
+
+^13:1^ Haec dicit Dominus ad me: vade, et posside tibi lumbare lineum, et pones illud super lumbos tuos, et in aquam non inferes illud.  
 
 > ^13:2^ Et possedi lumbare juxta verbum Domini, et posui circa lumbos meos.
 
@@ -148,6 +150,6 @@ Ultimo admiratur obstinationem: ***vae tibi**. **Usquequo post me***, venis vel 
 
 Collationes  
 
-***Nota, quod ***vinum*** mystice aliud est bonum, aliud malum. Est enim bonum vinum sapientiae contemplationis. Prov. 9: *bibite vinum quod miscui vobis*. Divini amoris. Cant. 8: *dabo tibi poculum ex vino condito et mustum malorum granatorum meorum*. Compunctionis Psal. 59: *potasti nos vino compunctionis*. Est autem vinum malum fraudulentae deceptionis. Deut. 32: *fel draconum vinum eorum, venenum aspidum insanabile*. Carnalis delectationis. Apoc. 18: *de vino irae fornicationis ejus biberunt omnes gentes, et reges terrae cum illa fornicati sunt*. Divinae indignationis. Apoc. 14: *si quis adoraverit bestiam, et imaginem ejus, et acceperit characterem in fronte sua, aut in manu sua; hic bibet de vino irae Dei, quod mixtum est mero in calice irae ipsius*.***
+Nota, quod ***vinum*** mystice aliud est bonum, aliud malum. Est enim bonum vinum sapientiae contemplationis. Prov. 9: *bibite vinum quod miscui vobis*. Divini amoris. Cant. 8: *dabo tibi poculum ex vino condito et mustum malorum granatorum meorum*. Compunctionis Psal. 59: *potasti nos vino compunctionis*. Est autem vinum malum fraudulentae deceptionis. Deut. 32: *fel draconum vinum eorum, venenum aspidum insanabile*. Carnalis delectationis. Apoc. 18: *de vino irae fornicationis ejus biberunt omnes gentes, et reges terrae cum illa fornicati sunt*. Divinae indignationis. Apoc. 14: *si quis adoraverit bestiam, et imaginem ejus, et acceperit characterem in fronte sua, aut in manu sua; hic bibet de vino irae Dei, quod mixtum est mero in calice irae ipsius*.  
 
 Item notandum, quod Spiritus Sanctus dicitur ***auster*** propter calorem. Job 37: *nonne vestimenta tua calida sunt, cum perflata fuerit terra austro?* Propter splendorem. Habac. 3: *Deus ab austro veniet, et sanctus de monte Pharam. Operuit caelos gloria ejus*. Propter volatus elevationem. Job 39: *numquid per sapientiam tuam plumescit accipiter, expandens alas suas ad austrum?* Propter pluviarum multiplicationem. Psal. 125: *converte Domine, captivitatem nostram, sicut torrens in austro*. Propter arborum fructificationem. Cant. 4: *veni auster, perfla in hortum meum, et fluent aromata illius*.

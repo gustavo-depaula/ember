@@ -1,5 +1,7 @@
 # Chapter 35
 
+^35:1^ The land that was desolate and impassable shall be glad, and the wilderness shall rejoice, and shall flourish like the lily.  
+
 > ^35:2^ It shall bud forth and blossom, and shall rejoice with joy and praise: the glory of Libanus is given to it: the beauty of Carmel, and Saron, they shall see the glory of the Lord, and the beauty of our God.
 
 > ^35:3^ Strengthen the feeble hands, and confirm the weak knees.

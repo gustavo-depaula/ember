@@ -1,5 +1,7 @@
 # Q. 10 - On envy
 
+***De invidia***
+
 ***Articulus 1***
 
 ***Utrum invidia sit peccatum***

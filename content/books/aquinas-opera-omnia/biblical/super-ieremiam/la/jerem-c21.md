@@ -1,6 +1,8 @@
 # C. 19 - Analogy of the broken pot
 
-***^19:1^ Haec dicit Dominus: vade, et accipe lagunculam figuli testeam a senioribus populi, et a senioribus sacerdotum,***
+***Lectio 1***
+
+^19:1^ Haec dicit Dominus: vade, et accipe lagunculam figuli testeam a senioribus populi, et a senioribus sacerdotum,  
 
 > ^19:2^ et egredere ad vallem filii Ennon, quae est juxta introitum portae fictilis; et praedicabis ibi verba quae ego loquar ad te,
 
@@ -78,7 +80,7 @@ Tertio quantum ad urbis destructionem, ***sic faciam***, sicut Tophet, immundam,
 
 Lectio 3  
 
-***^19:14^ Venit autem Jeremias de Tophet, quo miserat eum Dominus ad prophetandum, et stetit in atrio domus Domini, et dixit ad omnem populum:***
+^19:14^ Venit autem Jeremias de Tophet, quo miserat eum Dominus ad prophetandum, et stetit in atrio domus Domini, et dixit ad omnem populum:  
 
 > ^19:15^ haec dicit Dominus exercituum, Deus Israel: ecce ego inducam super civitatem hanc, et super omnes urbes ejus, universa mala quae locutus sum adversum eam: quoniam induraverunt cervicem suam, ut non audirent sermones meos.
 

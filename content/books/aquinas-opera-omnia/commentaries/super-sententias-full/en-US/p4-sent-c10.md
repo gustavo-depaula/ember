@@ -1,8 +1,10 @@
 # D. 30 - Original sin
 
+***Original sin***
+
 ***Division of the text***
 
-***After he has addressed the fall of human nature as regards the sin of our first parents, in this part he begins to address how human nature has been damaged in their offspring. This is divided into two parts.***
+After he has addressed the fall of human nature as regards the sin of our first parents, in this part he begins to address how human nature has been damaged in their offspring. This is divided into two parts.  
 
 In the first, he addresses the sin that has passed from our first parents into their offspring through fleshly origin, namely, original sin.  
 
@@ -96,9 +98,9 @@ third, supposing that it could, the question is asked what the original fault th
 
 Article 1  
 
-***Whether the deficiencies we experience are like a punishment for us for the sin of the first man***
+Whether the deficiencies we experience are like a punishment for us for the sin of the first man  
 
-***To the first we proceed as follows. It seems that the deficiencies we experience are not inflicted on us as a punishment for the sin of the first man.***
+To the first we proceed as follows. It seems that the deficiencies we experience are not inflicted on us as a punishment for the sin of the first man.  
 
 Obj. 1: For as Seneca says: *death is man’s nature, not his punishment*.In certain excerpts among his works, which nevertheless are not his, in those which begin “licet cuntorum”: Pseudo-Seneca, *De remediis fortuniorum* 2.1; Mandonnet continues, quoting from Nicolaï: “but thus truly he himself writes, in a different sense: *death is not bad; it is the only equal law for mankind* (*Epistulae morales ad Lucilium*, letter 123, para. 16); and *death is the law of nature* (*Naturales quaestiones*, bk. 6, ch. 32, para. 12).” But among all deficiencies, death is the greatest. Hence the Philosopher calls it even the end of things feared, in the *Ethics* 3.Aristotle, *Nicomachean Ethics* 3.6, 1115a26. Therefore, neither should other deficiencies that follow on human nature be called “punishments.”  
 
@@ -142,9 +144,9 @@ Reply Sed Contra 8: Even though man’s body is more noble simply than the body 
 
 Article 2  
 
-***Whether a deficiency that comes to us through our origin has the account of a fault***
+Whether a deficiency that comes to us through our origin has the account of a fault  
 
-***To the second we proceed as follows.Parallel texts: below, d. 31, q. 1, a. 1; *ST* I-II.81.1; *SCG* IV.50–52; *On Evil*, q. 4, a. 1; *Compendium theologiae*, ch. 196; *Commentary on Romans*, ch. 5, lect. 3. It seems that no deficiency that comes to us through our origin can have the account of a fault.***
+To the second we proceed as follows.Parallel texts: below, d. 31, q. 1, a. 1; *ST* I-II.81.1; *SCG* IV.50–52; *On Evil*, q. 4, a. 1; *Compendium theologiae*, ch. 196; *Commentary on Romans*, ch. 5, lect. 3. It seems that no deficiency that comes to us through our origin can have the account of a fault.  
 
 Obj. 1: For something blameworthy is worthy of rebuke, if it is evil, from the fact that it is in the power of the one who is blamed for it. For we are only rebuked on the basis of what is in us, as the Philosopher says in the *Ethics* 3.See Aristotle, *Nicomachean Ethics* 3.1, 1109b30–1111b4. But what is contracted by origin cannot be in the power of the one who contracts it by his origin. Therefore, it is impossible for something contracted by origin to have the account of a fault.  
 
@@ -186,7 +188,7 @@ Article 3
 
 ***Whether original sin is concupiscence***
 
-***To the third we proceed as follows.Parallel texts: below, in the exposition of the text; d. 31, q. 2, a. 1, ad 3; d. 32, q. 1, a. 1, ad 1, 3, 4; *ST* I-II.82.3; *On Evil*, q. 3, a. 7; q. 4, a. 2. It seems that original sin is not concupiscence, as it says in the text.*Sent*. II, 30.8(198).2: *original sin is called the incentive to sin, namely concupiscence or the attraction of pleasure, which is called the law of the members, or the weakness of nature, or the tyrant who is in our members, or the law of the fles*h.***
+To the third we proceed as follows.Parallel texts: below, in the exposition of the text; d. 31, q. 2, a. 1, ad 3; d. 32, q. 1, a. 1, ad 1, 3, 4; *ST* I-II.82.3; *On Evil*, q. 3, a. 7; q. 4, a. 2. It seems that original sin is not concupiscence, as it says in the text.*Sent*. II, 30.8(198).2: *original sin is called the incentive to sin, namely concupiscence or the attraction of pleasure, which is called the law of the members, or the weakness of nature, or the tyrant who is in our members, or the law of the fles*h.  
 
 Obj. 1: For nothing is the cause of itself. But original sin is the cause of concupiscence, as is clear from the words of the Apostle: *but sin, finding opportunity in the commandment, wrought in me all kinds of concupiscence* (Rom 7:8). Therefore, original sin is not concupiscence.  
 
@@ -220,7 +222,7 @@ Question 2
 
 ***The passing down of the flesh***
 
-***Then the question of the passing down of the flesh from the parents, through which original sin is contracted, is asked. Two questions are asked concerning this:***
+Then the question of the passing down of the flesh from the parents, through which original sin is contracted, is asked. Two questions are asked concerning this:  
 
 first, whether food is converted into true human nature;  
 
@@ -230,7 +232,7 @@ Article 1
 
 ***Whether food passes into true human nature***
 
-***To the first we proceed as follows.Parallel texts: *In IV Sent*. d. 44, q. 1, a. 2, resp.; *ST* I.119.1; *Quodl*. VIII, q. 3, a. 1. It seems that food does not pass over into true human nature.***
+To the first we proceed as follows.Parallel texts: *In IV Sent*. d. 44, q. 1, a. 2, resp.; *ST* I.119.1; *Quodl*. VIII, q. 3, a. 1. It seems that food does not pass over into true human nature.  
 
 Obj. 1: For anything eaten that is cast out does not pertain to true human nature, which always remains the same. But everything taken by mouth goes to the belly and is cast out into the latrine, as it is said (Matt 15:17). Therefore, the nourishment taken by mouth does not pass over into true human nature.  
 
@@ -334,7 +336,7 @@ Article 2
 
 ***Whether seed is extracted from what is generated from food***
 
-***To the second we proceed as follows.Parallel text: *ST* I.119.2. It seems that seed is not extracted from what has been additionally generated from food.***
+To the second we proceed as follows.Parallel text: *ST* I.119.2. It seems that seed is not extracted from what has been additionally generated from food.  
 
 Obj. 1: For Augustine saysAugustine, *On the Literal Interpretation of Genesis*, bk. 10, ch. 20 (CSEL 28.1:323; PL 34:424). that we were all in Adam according to bodily substance and even according to seedlike principle, except for Christ, who was in him only according to bodily substance. But our bodily substance only comes from our parents by means of seed. Therefore, the seed that is transmitted from one’s first parent is not extracted from what was converted from food, but from what he himself had received from his own parent, such that in this way, the bodily substance of our body is found to be extracted from our first parent.  
 
@@ -410,7 +412,7 @@ Reply Obj. 6: There are different moistures in a human being’s body and in an 
 
 Exposition of the text  
 
-****Some heretics wrongly reached this conclusion*.*Sent*. II, 30.4(194).2. Pelagius was cited to this effect due to the fact that he made too much of the power of free decision so that there could be no sin in a man without its coming from his free decision, and that man needed no grace in order to be immune from sin.***
+*Some heretics wrongly reached this conclusion*.*Sent*. II, 30.4(194).2. Pelagius was cited to this effect due to the fact that he made too much of the power of free decision so that there could be no sin in a man without its coming from his free decision, and that man needed no grace in order to be immune from sin.  
 
 *Original sin is called the incentive to sin*.*Sent*. II, 30.8(198).2. Here eight names for original sin are put forward, whose difference we take as follows. This sin can be named either by comparison to the way in which it is caused in us, or by comparison to the subject in which it exists, or by comparison to the actual sin to which it inclines, and because it comes to us through an origin infected with vice. Thus, when we name it after the manner whereby it is caused in us, we call it “original sin.”  
 

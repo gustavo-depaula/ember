@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Germinet terra herbam uirentem*** etc.***
+
 Altissimus de terra duo remedia nobis attulit, scilicet *herbam uirentem* et *lignum pomiferum*. De herba que est beata Virgo dictum est. Restat modo dicere de ligno pomifero quod est lignum uenerande crucis dominice cuius solempnia modo incepimus, et satis congrue ista duo remedia coniunguntur, quia herba uirens salutem nostram protulit, sed lignum pomiferum ipsam sustinuit et exaltauit, quia *factus est* Dei Filius *obediens*, etc. Sequitur: *propter quod exaltauit illum*, unde in Euuangelio dicitur quod stabat *iuxta crucem mater eius.*  
 
 Videamus de isto ligno. Tria uidetur Moyses describere circa lignum illud, scilicet eius speciem, eius ornatum et eius fructum. Si speciem requiris: ***lignum***; si ornatum: ***pomiferum***; si fructum requiris, est ***faciens fructum***.  

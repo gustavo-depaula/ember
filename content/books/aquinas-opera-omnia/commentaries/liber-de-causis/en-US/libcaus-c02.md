@@ -1,5 +1,7 @@
 # Proposition 1
 
+1. Every primary cause has more influence on its object than a universal second cause.  
+
 > 2. Thus, when a universal second cause removes its power from a thing, the universal first cause does not take its power from it.
 
 > 3. This is because the universal first cause acts on the object of the second cause, before the universal second cause, which follows it, acts on that same object.

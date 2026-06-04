@@ -1,6 +1,8 @@
 # Pr. (Luke 12:39) - Luke 12:39
 
-***^12:39^ But know this, that if the householder knew at what hour the thief would come, he would surely watch, and would not suffer his house to be broken open.***
+***Luke 12:39***
+
+^12:39^ But know this, that if the householder knew at what hour the thief would come, he would surely watch, and would not suffer his house to be broken open.  
 
 > **1**. By *householder* is signified a prelate of the Church on account of the three duties he must perform: first, he must engender the faith in others; second, instruct them for salvation; third, guard them securely.
 

@@ -1,5 +1,7 @@
 # Proposition 2
 
+19. Every superior being is either superior to eternity and prior to it, or it is on the same level as eternity, or it is after eternity and beyond time.  
+
 > 20. Indeed being which is before eternity is the first cause, because it is the cause for it.
 
 > 21. But being which is with eternity is intelligence, because it is the second being, according to one condition, from which it is not affected nor destroyed.

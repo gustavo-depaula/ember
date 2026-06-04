@@ -1,10 +1,12 @@
 # C. 40 - Jeremiah’s release and the princes’ plots
 
+***Jeremiah’s release and the princes’ plots***
+
 ***Lecture 1***
 
 ***Jeremiah released from chains***
 
-***^40:1^ The word which came to Jeremiah from the Lord, after he was sent by Nebuzaradan the captain of the guard from Ramah, when he took him bound with chains in the midst of all those who went from Jerusalem and Judah, and were led to Babylon.***
+^40:1^ The word which came to Jeremiah from the Lord, after he was sent by Nebuzaradan the captain of the guard from Ramah, when he took him bound with chains in the midst of all those who went from Jerusalem and Judah, and were led to Babylon.  
 
 > ^40:2^ Therefore, when the captain of the guard took Jeremiah, he said to him, ‘The Lord your God spoke this evil against this place.
 
@@ -54,7 +56,7 @@ Lecture 2
 
 ***Assembly of the princes***
 
-***^40:7^ And when all the captains of the army, who were scattered through the countryside, they and their companions, had heard that the king of Babylon had set Gedaliah, the son of Ahicam, over the land, and that he had entrusted to him the men, and the women, and the little ones, and some of the poor of the land, who had not been taken to Babylon,***
+^40:7^ And when all the captains of the army, who were scattered through the countryside, they and their companions, had heard that the king of Babylon had set Gedaliah, the son of Ahicam, over the land, and that he had entrusted to him the men, and the women, and the little ones, and some of the poor of the land, who had not been taken to Babylon,  
 
 > ^40:8^ there came to Gedaliah in Mizpah, Ishmael, the son of Nathaniah, and Johanan and Jonathan, the sons of Kareah, and Saraiah, the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah, the son of the Maacathite, they and their men.
 
@@ -80,7 +82,7 @@ Lecture 3
 
 ***Plots of the princes***
 
-***^40:13^ But Johanan, the son of Kareah, and all the princes of the army who were scattered in the countryside, came to Gedaliah in Mizpah.***
+^40:13^ But Johanan, the son of Kareah, and all the princes of the army who were scattered in the countryside, came to Gedaliah in Mizpah.  
 
 > ^40:14^ And they said to him, ‘Know that Baalis, the king of the children of Ammon, has sent Ishmael, the son of Nathaniah, to take your life.’ And Gedaliah, the son of Ahicam, did not believe them.
 

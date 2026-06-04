@@ -1,5 +1,7 @@
 # Proposition 23
 
+172. Every divine intelligence knows things because it is intelligence, and rules them because it is divine.  
+
 > 173. This is because knowledge is a peculiar property of intelligence, and its perfection and completeness do not exist apart from that it thinks. Thus God, blessed and sublime, is what rules, since he fills things with goodnesses. And intelligence is the first created thing and it is what is most similar to the sublime God and on account of that it rules things which are under it. And, just as God, blessed and most high, flows goodness over things, in the same way the intelligence flows knowledge over things inasmuch as they are underneath it.
 
 > 174. However, although intelligence rules things which are under it, yet God, blessed and sublime, comes before the intelligence with respect to government and rules things with a government of a more sublime and higher order than is the government of the intelligence, since it is that which gives the power of government to intelligence.

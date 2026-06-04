@@ -1,8 +1,10 @@
 # D. 25 - The name “person” when signified in the plural
 
+***The name “person” when signified in the plural***
+
 ***Division of the text***
 
-***Having considered in Distinction 24 names that signify unity and plurality in the divine, next the Master considers how it can occur, as regards the name of these expressions, that it admits of addition and is consignified in the plural—that is, the name “person”: what it signifies when it is signified in the plural. Therefore this part is divided into two: in the first he asks whether, just as the name “person” signifies the essence when uttered in the singular, so too when it is consignified in the plural; in the second he presents the solution to this question, at *it seems to some that essence is signified by the term ‘person.’**Sent*. I, 25.1(102).5.***
+Having considered in Distinction 24 names that signify unity and plurality in the divine, next the Master considers how it can occur, as regards the name of these expressions, that it admits of addition and is consignified in the plural—that is, the name “person”: what it signifies when it is signified in the plural. Therefore this part is divided into two: in the first he asks whether, just as the name “person” signifies the essence when uttered in the singular, so too when it is consignified in the plural; in the second he presents the solution to this question, at *it seems to some that essence is signified by the term ‘person.’**Sent*. I, 25.1(102).5.  
 
 As regards the first, he does two things: first, he presents the question; second, he presents arguments on either side, at *for person, as Augustine says above, is said in respect to self*.*Sent*. I, 25.1(102).2. Now his question, as it were, leads to two incongruities. For because “person” in the singular signifies the essence, as was said above, therefore in the plural it either signifies the essence or it does not. If it signifies the essence, then to say several “persons” is no different than to say several essences; but if it does not, then the name “person” is equivocal in the singular and the plural, which seems unusual.  
 
@@ -42,7 +44,7 @@ Article 1
 
 ***Whether Boethius’s definition of person is apt***
 
-***To the first we proceed as follows,Parallel texts: *ST* I.29.1; 2; 3, ad 2; 4; III.2.2; *On the Power of God*, q. 9, a. 2; *Disputed Question on the Union of the Incarnate Word*, a. 1. and the definition of “person” laid out by Boethius is: *a person is an individual substance of a rational nature*.Boethius, *On the Person and the Two Natures*, ch. 3 (PL 64:1344). It seems that this definition is not apt.***
+To the first we proceed as follows,Parallel texts: *ST* I.29.1; 2; 3, ad 2; 4; III.2.2; *On the Power of God*, q. 9, a. 2; *Disputed Question on the Union of the Incarnate Word*, a. 1. and the definition of “person” laid out by Boethius is: *a person is an individual substance of a rational nature*.Boethius, *On the Person and the Two Natures*, ch. 3 (PL 64:1344). It seems that this definition is not apt.  
 
 Obj. 1: For a definition should be convertible with what it defines. But the account of “person” is found in God and the angels, whereas this definition of “person” does not fit the divine persons, as the Master says later.*Sent*. III, 10.1(29).4; cf. *In III Sent*., d. 10, exposition of the text. Therefore it seems the definition is not apt.  
 
@@ -106,7 +108,7 @@ Article 2
 
 ***Whether “person” is said univocally of God and created things***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.29.3; *On the Power of God*, q. 9, a. 3. It seems that “person” is not said univocally of God and created things.***
+To the second we proceed as follows.Parallel texts: *ST* I.29.3; *On the Power of God*, q. 9, a. 3. It seems that “person” is not said univocally of God and created things.  
 
 Obj. 1: For however different certain things are, they can agree univocally in some negation; for example, to be “not a stone” belongs to God and man univocally. But the account of “person” consists in negation, for it is an “individual”Or, “non-divided.” substance. Therefore it seems that it is said univocally of God and created things.  
 
@@ -134,7 +136,7 @@ Article 3
 
 ***Whether “person” is said commonly in the Trinity***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.30.4; *On the Power of God*, q. 8, a. 3, ad 11. It seems that “person” is not common in the Trinity.***
+To the third we proceed as follows.Parallel texts: *ST* I.30.4; *On the Power of God*, q. 8, a. 3, ad 11. It seems that “person” is not common in the Trinity.  
 
 Obj. 1: For whatever belongs commonly to the three persons signifies the essence, and is predicated in the singular, as with “wisdom,” “goodness,” and such; nor are the persons distinguished in it. But “person” is predicated in the Trinity in the plural, and the Father and the Son are distinguished in their person. Therefore “person” is not common in the Trinity.  
 
@@ -174,7 +176,7 @@ Article 4
 
 ***Whether the three persons can be called three realities***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.29.1, 3; I.30.1. It seems that the three persons cannot be called three beings, or three realities.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.29.1, 3; I.30.1. It seems that the three persons cannot be called three beings, or three realities.  
 
 Obj. 1: For whatever is predicated absolutely in the divine is predicated of the three in the singular. But “being” and “reality” are said absolutely. Therefore and so on.  
 
@@ -204,7 +206,7 @@ Reply Obj. 4: Our response to Damascene’s statement is above.*In I Sent*., d. 
 
 Exposition of the text  
 
-****It seems to some that essence is signified by the term ‘person.’**Sent*. I, 25.1(102).5. This opinion is erroneous, since if “essence” and “person” were to signify wholly the same thing, both as regards mode of signifying and as regards the reality signified, then just as we say “three persons,” so too would we have to say “three essences”; and if the latter is false, then so is the former. For just as they expound “three persons” as three who have something common, which is being a person, so too can we expound “three essences” as three who have something common, which is the essence. Nor can it be said that this statement is needed because of the insistent demand of the heretics, since no necessity should force us to say what is false. And moreover, when that necessity ceases, so that manner of speaking should cease.***
+*It seems to some that essence is signified by the term ‘person.’**Sent*. I, 25.1(102).5. This opinion is erroneous, since if “essence” and “person” were to signify wholly the same thing, both as regards mode of signifying and as regards the reality signified, then just as we say “three persons,” so too would we have to say “three essences”; and if the latter is false, then so is the former. For just as they expound “three persons” as three who have something common, which is being a person, so too can we expound “three essences” as three who have something common, which is the essence. Nor can it be said that this statement is needed because of the insistent demand of the heretics, since no necessity should force us to say what is false. And moreover, when that necessity ceases, so that manner of speaking should cease.  
 
 *But by some need, as Augustine said above, this noun is used in a metaphorical sense, so that we may say in the plural ‘three persons.’**Sent*. I, 25.2(103).2. It seems that what he is saying here amounts to nothing, for, since the plural is only for a multiplied singular, there cannot be a different existence signified in the singular than what is signified in the plural. But one should say to this that in the account of the name “person” one signifies the hypostasis both in the singular and in the plural, but on account of the real identity of the hypostasis and essence in the divine, “person” can be used for the essence in the singular, but not in the plural, since that is repugnant to the unity of the essence. This is why the distinction that the Master asserts attends more to the use of the name than to its diverse significations.  
 

@@ -1,5 +1,7 @@
 # Chapter 23
 
+^23:1^ Onus Tyri. Ululate naves maris, quia vastata est domus unde venire consueverant; de terra Cethim revelatum est eis.  
+
 > ^23:2^ Tacete qui habitatis in insula, negotiatores Sidonis; transfretantes mare repleverunt te
 
 > ^23:3^ in aquis multis. Semen Nili messis fluminis fruges ejus; et facta est negotiatio gentium.

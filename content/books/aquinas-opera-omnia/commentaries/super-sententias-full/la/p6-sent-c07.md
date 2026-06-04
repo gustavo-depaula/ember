@@ -1,6 +1,8 @@
 # D. 29 - Order of charity
 
-****Post predicta de ordine caritatis*, etc. Postquam determinavit Magister quid esset ex caritate diligendum, hic determinat de ordine caritatis.***
+***Divisio textus***
+
+*Post predicta de ordine caritatis*, etc. Postquam determinavit Magister quid esset ex caritate diligendum, hic determinat de ordine caritatis.  
 
 Dividitur autem haec pars in duas:  
 
@@ -112,7 +114,7 @@ Articulus 2
 
 ***Utrum ordo caritatis sit attendendus secundum affectum, vel secundum effectum***
 
-***Ad secundum sic proceditur. Videtur quod ordo caritatis non sit attendendus secundum affectum, sed secundum effectum tantum.***
+Ad secundum sic proceditur. Videtur quod ordo caritatis non sit attendendus secundum affectum, sed secundum effectum tantum.  
 
 Sicut enim prima veritas, cui innititur fides, est una in omnibus; ita summa bonitas, cui innititur caritas, una est. Sed fides aequaliter certa est de omnibus quae ex fide creduntur. Ergo et caritas aequaliter afficitur ad omnia quae ex caritate diligit.  
 
@@ -148,7 +150,7 @@ Articulus 3
 
 ***Utrum Deus sit super omnia diligendus ex caritate***
 
-***Ad tertium sic proceditur. Videtur quod Deus non sit supra omnia diligendus ex caritate.***
+Ad tertium sic proceditur. Videtur quod Deus non sit supra omnia diligendus ex caritate.  
 
 Quia, sicut dicit Dionysius, amor est unitiva virtus. Sed magis est sibi unusquisque unitus quam Deo. Ergo magis ex caritate debet se diligere quam Deum.  
 
@@ -192,7 +194,7 @@ Articulus 4
 
 ***Utrum in dilectione Dei possit haberi respectus ad aliquam mercedem***
 
-***Ad quartum sic proceditur. Videtur quod non possit in dilectione Dei haberi respectus ad aliquam mercedem.The Bruges manuscript reads *Et quod in dilectione Dei haberi respectus ad aliquam mercedem non videtur posse fieri*.***
+Ad quartum sic proceditur. Videtur quod non possit in dilectione Dei haberi respectus ad aliquam mercedem.The Bruges manuscript reads *Et quod in dilectione Dei haberi respectus ad aliquam mercedem non videtur posse fieri*.  
 
 Quia Joan. 10, mercenarius vituperatur. Sed mercenarius dicitur qui mercedem quaerit. Ergo dilectio Dei ex caritate non admittit respectum mercedis.  
 
@@ -232,7 +234,7 @@ Articulus 5
 
 ***Utrum homo magis debeat seipsum ex caritate diligere quam proximum***
 
-***Ad quintum sic proceditur. Videtur quod homo ex caritate non debeat seipsum magis quam proximum diligere.***
+Ad quintum sic proceditur. Videtur quod homo ex caritate non debeat seipsum magis quam proximum diligere.  
 
 Illud enim propter quod aliudThe Bruges manuscript reads *aliquid*. relinquitur, magis amatur. Sed caritas facit hominem seipsum relinquere quodammodo, et amato inhaerere: quia Dionysius dicit, quod amor ponit hominem extra se, et collocat eum in amato. Ergo plus amat amicum quam se.  
 
@@ -274,7 +276,7 @@ Articulus 6
 
 ***Utrum homo debeat magis ex caritate diligere extraneos quam propinquos***
 
-***Ad sextum sic proceditur. Videtur quod homo ex caritate magis debeat diligere extraneos quam propinquos.***
+Ad sextum sic proceditur. Videtur quod homo ex caritate magis debeat diligere extraneos quam propinquos.  
 
 Caritas enim, sicut et amicitia, fundamentum habet honestum. Sed major honestas vel virtus invenitur quandoque in extraneis quam inThe edited versions omit *in*. propinquis. Ergo magis sunt diligendi ex caritate extranei quandoqueThe edited versions omit *quandoque*. quam propinqui.  
 
@@ -314,7 +316,7 @@ Ad quintum dicendum, quod in his quae ad conservationem naturae pertinent, magis
 
 Articulus 7  
 
-***Utrum pater sit maxime diligendus, vel filii, vel benefactores; vel seipsum debeat diligere, vel uxorem, vel fratres, vel matrem***
+Utrum pater sit maxime diligendus, vel filii, vel benefactores; vel seipsum debeat diligere, vel uxorem, vel fratres, vel matrem  
 
 ***Ad septimum sic proceditur. Videtur quod pater non sit maxime diligendus.***
 
@@ -368,7 +370,7 @@ Articulus 8
 
 ***Quaestiuncula 1***
 
-***Ad octavum sic proceditur. Videtur quod inconvenienter distinguantur isti gradus caritatis.***
+Ad octavum sic proceditur. Videtur quod inconvenienter distinguantur isti gradus caritatis.  
 
 Quia perfectio caritatis consistit in hoc quod Deus ex toto corde diligatur. Sed hoc non est possibile in via, ut supra dictum est, distinct. 27, quaest. 3, art. 2. Ergo caritas in via non potest esse perfecta.  
 
@@ -382,7 +384,7 @@ Sed contra, vita spiritualis similatur vitae naturali. Sed in profectu naturalis
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod omnes teneantur ad caritatem perfectam. Quia stare in via Dei, ut dicit Bernardus, retrocedere est. Sed omnis qui procedit in via Dei, ad perfectionem tendit. Ergo omnes tenentur ad perfectionem caritatis tendere.***
+Ulterius. Videtur quod omnes teneantur ad caritatem perfectam. Quia stare in via Dei, ut dicit Bernardus, retrocedere est. Sed omnis qui procedit in via Dei, ad perfectionem tendit. Ergo omnes tenentur ad perfectionem caritatis tendere.  
 
 Praeterea, quilibet tenetur magis diligere proximum quam corpus proprium. Sed ponere vitam corporalem pro fratribus est perfectae caritatis. Ergo quilibet tenetur ad perfectam caritatem.  
 
@@ -394,7 +396,7 @@ Sed contra, quilibet peccat omittens id ad quod tenetur. Si ergo omnes tenentur 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod habentes caritatem perfectam teneantur ad omnia quae sunt perfectionis. Quia, sicut dicit Gregorius, *cum crescunt dona, rationes etiam crescunt donorum*; et Luc. 10:1, dicitur: cui plus committitur, plus ab eo exigitur. Sed ei qui habet perfectam caritatem, plus committitur. Ergo et adThe edited versions omit *ad*. plus tenetur secundum exigentiam doni accepti; et itaThe Vivès edition reads *vita*. videtur quod teneatur ad ea quae perfectionis sunt.***
+Ulterius. Videtur quod habentes caritatem perfectam teneantur ad omnia quae sunt perfectionis. Quia, sicut dicit Gregorius, *cum crescunt dona, rationes etiam crescunt donorum*; et Luc. 10:1, dicitur: cui plus committitur, plus ab eo exigitur. Sed ei qui habet perfectam caritatem, plus committitur. Ergo et adThe edited versions omit *ad*. plus tenetur secundum exigentiam doni accepti; et itaThe Vivès edition reads *vita*. videtur quod teneatur ad ea quae perfectionis sunt.  
 
 Praeterea, sicut se habet imperfectus ad communia, ita se habet perfectus ad ea quae perfectionis sunt. Sed imperfectus tenetur ad communia. Ergo et perfectus ad ea quae perfectionis sunt.  
 
@@ -406,7 +408,7 @@ Praeterea, perfectionis est lingua non offendere et peccata venialia vitare. Sed
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut in augmento corporali distinguuntur diversae aetates secundum diversos effectus notabiles in quos natura proficit, quos prius exercere non poterat; ita etiam in augmento spirituali assignantur gradus diversi caritatis secundum aliquos notabiles effectus quos in habente caritatem caritas relinquit.***
+Respondeo dicendum ad primam quaestionem, quod sicut in augmento corporali distinguuntur diversae aetates secundum diversos effectus notabiles in quos natura proficit, quos prius exercere non poterat; ita etiam in augmento spirituali assignantur gradus diversi caritatis secundum aliquos notabiles effectus quos in habente caritatem caritas relinquit.  
 
 Primus ergo effectus caritatis est ut homo a peccato discedat; et ideo mens caritatem habentis in primis circa hoc maxime occupatur ut a peccatis praeteritis emundetur, et a futuris praecaveat; et quantum ad hunc effectum dicitur caritas incipiens. Secundus effectus est ut jam fiduciam de liberatione peccatorum habens ad bonum adipiscendum se extendat; et quantum ad hunc effectum dicitur caritas proficiens: non quin in aliis statibus proficiat, sed quia in hoc statu praecipua cura est de adipiscendis bonis, dum homo semper ad perfectionem anhelat. Tertius effectus est ut homo jam ad ipsa bona quasi connutritus, quodammodo sibiThe Parma and Vivès editions read *ibi*. naturaliaThe Paris (841, 15.770) manuscripts and the Parma and Vivès editions read *connaturalia*. habeat ipsa, et in [eisThe Bruges, Brussels, and Paris (841, 842, 15.539, 15.770) manuscripts and the Piana and Antwerp editions read *ea*.] quiescat et delectetur: et hoc ad perfectam caritatem pertinet.  
 
@@ -424,7 +426,7 @@ Ad quartum dicendum, quod quamvis incipiens proficiat, magis tamen occupatur men
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod quantitatis caritatisThe Brussels manuscript omits *caritatis*. dupliciter potest attendi. Uno modo secundum intensionem caritatis; alio modo secundum objecta: sicut est etiam de quantitate cujuslibet virtutis vel moralis vel naturalis: et secundum hoc etiam potest attendi duplex perfectio caritatis: una secundum intensionem, scilicet ut perfecte diligat;The Vivès edition reads *diliget*. alia secundum objecta vel effectus, ut perfecta faciat. Unaquaeque autem harum perfectionum potest dupliciter attendi in caritate. Habet enim perfectionem quantum ad esse suum, secundum quod est perfecta in specie sua: et haec est perfectio sufficientiae, et ad hanc omnes tenentur,The edited versions read *tenemur*. sicut ad caritatem: quia caritas habet quantitatem determinatam utroque modo, citra quam non porrigitur; et in hoc stat perfectio essentialis ipsius. Habet etiam perfectionem quantum ad bene esse; et in hac perfectione distinguendum est: quia ad perfectionem quae est per intensionem tenetur tendere, quamvis non teneatur eam habere: sed ad perfectionem quae est secundum objecta non tenetur simpliciter quis nequeThe Brussels manuscript omits *neque*. tendere, neque eam habere; sed tenetur eam non contemnere, nec contra eam se obfirmare. Et ratio est, quia praemium essentiale, ad quod tendere tenemur, mensuratur secundum intensionem caritatis, non secundum magnitudinem factorum: quia Deus magis pensat ex quanto quam quantum fiat. Sed tamen tenetur in casu ad aliqua opera perfectionis operibus similia, ut dicetur.***
+Ad secundam quaestionem dicendum, quod quantitatis caritatisThe Brussels manuscript omits *caritatis*. dupliciter potest attendi. Uno modo secundum intensionem caritatis; alio modo secundum objecta: sicut est etiam de quantitate cujuslibet virtutis vel moralis vel naturalis: et secundum hoc etiam potest attendi duplex perfectio caritatis: una secundum intensionem, scilicet ut perfecte diligat;The Vivès edition reads *diliget*. alia secundum objecta vel effectus, ut perfecta faciat. Unaquaeque autem harum perfectionum potest dupliciter attendi in caritate. Habet enim perfectionem quantum ad esse suum, secundum quod est perfecta in specie sua: et haec est perfectio sufficientiae, et ad hanc omnes tenentur,The edited versions read *tenemur*. sicut ad caritatem: quia caritas habet quantitatem determinatam utroque modo, citra quam non porrigitur; et in hoc stat perfectio essentialis ipsius. Habet etiam perfectionem quantum ad bene esse; et in hac perfectione distinguendum est: quia ad perfectionem quae est per intensionem tenetur tendere, quamvis non teneatur eam habere: sed ad perfectionem quae est secundum objecta non tenetur simpliciter quis nequeThe Brussels manuscript omits *neque*. tendere, neque eam habere; sed tenetur eam non contemnere, nec contra eam se obfirmare. Et ratio est, quia praemium essentiale, ad quod tendere tenemur, mensuratur secundum intensionem caritatis, non secundum magnitudinem factorum: quia Deus magis pensat ex quanto quam quantum fiat. Sed tamen tenetur in casu ad aliqua opera perfectionis operibus similia, ut dicetur.  
 
 Ad primum ergo dicendum, quod intelligitur de profectu qui est secundum intensionem, in quem debet homo semper conari.  
 
@@ -436,7 +438,7 @@ Ad quartum dicendum, quod in illis quae non sunt determinata ad unum, non potest
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod habens caritatem perfectam potest intelligi dupliciter. Uno modo quantum ad perfectionem caritatis quae est penes objecta; sicut dicuntur perfecti illi quibus competit opera perfectionis facere vel ex voto, sicut religiosis, vel ex officio, sicut praelatis; et sic ex debito non tenentur tales perfecti adThe Brussels manuscript adds *aliqua ad*. quae alii non teneantur, nisi ad illa quae voverunt, vel quae officio suo sunt annexa; unde nec praelati nec religiosi tenentur ad omnia consilia. Alio modo quantum ad perfectionem caritatis quae est secundum intensionem, sicut aliquis saecularis laicus fervens in caritate; et talis non obligatur ad opera perfectionis nisi sicut alii; etThe edited versions read *sed*. obligatur ad intensius Deum diligendum pro bonis acceptis; et ad hoc ex habitu caritatis perfecto inclinatur.***
+Ad tertiam quaestionem dicendum, quod habens caritatem perfectam potest intelligi dupliciter. Uno modo quantum ad perfectionem caritatis quae est penes objecta; sicut dicuntur perfecti illi quibus competit opera perfectionis facere vel ex voto, sicut religiosis, vel ex officio, sicut praelatis; et sic ex debito non tenentur tales perfecti adThe Brussels manuscript adds *aliqua ad*. quae alii non teneantur, nisi ad illa quae voverunt, vel quae officio suo sunt annexa; unde nec praelati nec religiosi tenentur ad omnia consilia. Alio modo quantum ad perfectionem caritatis quae est secundum intensionem, sicut aliquis saecularis laicus fervens in caritate; et talis non obligatur ad opera perfectionis nisi sicut alii; etThe edited versions read *sed*. obligatur ad intensius Deum diligendum pro bonis acceptis; et ad hoc ex habitu caritatis perfecto inclinatur.  
 
 Ad primum ergo dicendum, quod tenetur ad plus diligendum Deum, id est intensiusThe edited versions omit *diligendum Deum, id est intensius*. et perfectius agendum, sed non ad opera alia facienda ex commisso; quamvis alius forte plus teneatur ex dimisso. Sed commissum multo magisThe edited versions read *majus*. est quam dimissum: quia bonum est magis bonum quam malum sit malum.The Bruges manuscript adds *et*. Tamen ille qui est debitor ex dimisso, tenetur ad aliqua ad quae iste non tenetur, sicut ad satisfaciendum.  
 
@@ -448,7 +450,7 @@ Sciendum tamen, quod ratio facta ad oppositum, minus concludit: quia perfecti no
 
 Expositio textus  
 
-****Multorum caritas inordinata est*. Caritatem hic large pro dilectione vel amicitia ponit.***
+*Multorum caritas inordinata est*. Caritatem hic large pro dilectione vel amicitia ponit.  
 
 *Qui si boni sint, malis filiis praeponendi sunt*: non in illis quae ad naturalem communicationem pertinent, sicut est hereditatis dimissio, educatio, et hujusmodi; nisi forte superabundans malitia filiorum eos indignos paterno beneficio faciat.  
 

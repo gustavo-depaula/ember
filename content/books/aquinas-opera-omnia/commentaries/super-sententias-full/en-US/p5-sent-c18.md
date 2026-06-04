@@ -1,8 +1,10 @@
 # D. 17 - The will of Christ
 
+***The will of Christ***
+
 ***Division of the text***
 
-***After having considered the things that Christ assumed with his human nature, here the Master considers the things that he did through his human nature. Now, the principle of human activity is the will, without which no activity is either meritorious or praiseworthy. And therefore this part is divided into two parts.***
+After having considered the things that Christ assumed with his human nature, here the Master considers the things that he did through his human nature. Now, the principle of human activity is the will, without which no activity is either meritorious or praiseworthy. And therefore this part is divided into two parts.  
 
 First, he considers Christ’s will;  
 
@@ -48,7 +50,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed as follows.Parallels: *ST* III.18.1; *SCG* IV.36; *Compendium theol*., ch. 212; *Super Matth.* 26; *Super Ioan.* 6, lect. 4. It appears that in Christ there was but one will, the divine.***
+To the first we proceed as follows.Parallels: *ST* III.18.1; *SCG* IV.36; *Compendium theol*., ch. 212; *Super Matth.* 26; *Super Ioan.* 6, lect. 4. It appears that in Christ there was but one will, the divine.  
 
 Obj. 1: For since to will is to act, it belongs to the person. But in Christ there is only one person, the divine. Therefore also there is only will, the divine.  
 
@@ -62,7 +64,7 @@ Furthermore, as the unity of will is related to the unity of nature, so too is t
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that in Christ there is no human will besides his reason’s will.Parallel: *ST* III.18.2. For as Damascene says in *On the Orthodox Faith* 3,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 14 (PG 94:1034). *the will follows the nature*. But in Christ there are only two natures, so there are also only two wills. Therefore there is no third will besides the divine will and reason’s will.***
+Obj. 1: Moreover, it appears that in Christ there is no human will besides his reason’s will.Parallel: *ST* III.18.2. For as Damascene says in *On the Orthodox Faith* 3,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 14 (PG 94:1034). *the will follows the nature*. But in Christ there are only two natures, so there are also only two wills. Therefore there is no third will besides the divine will and reason’s will.  
 
 Obj. 2: Furthermore, just as reason is a different apprehensive power than sensitive apprehension, so is an interior sense from an exterior sense. But there is not a different will consequent on the apprehension of an exterior sense than that consequent on the apprehension of an interior sense. Therefore one need not assert that there are different wills that follow on reason’s apprehension and the apprehension of the sensitive part.  
 
@@ -78,7 +80,7 @@ Furthermore, the Philosopher says, in *On the Soul* 2,Aristotle, *On the Soul* 2
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that in Christ there are many wills of reason.Parallel: *ST* III.18.3. For in *On the Orthodox Faith*,John Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:943). Damascene distinguishes two wills of reason, *thelesis*, which is the natural will, and *boulesis*, which is the rational will. But Christ was lacking in none of the things that pertain to the perfection of human nature. Therefore in Christ there were two wills of reason.***
+Obj. 1: Moreover, it appears that in Christ there are many wills of reason.Parallel: *ST* III.18.3. For in *On the Orthodox Faith*,John Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:943). Damascene distinguishes two wills of reason, *thelesis*, which is the natural will, and *boulesis*, which is the rational will. But Christ was lacking in none of the things that pertain to the perfection of human nature. Therefore in Christ there were two wills of reason.  
 
 Obj. 2: Furthermore, sin properly is in the will. Now, it is sometimes said to be in higher reason, and sometimes in the lower reason. Therefore to each of these there is a corresponding will, which we must assert in Christ.  
 
@@ -96,7 +98,7 @@ Furthermore, man is said to be a microcosm, for he becomes like the universe. Bu
 
 Response to Quaestiuncula 1  
 
-***I answer that will follows on human nature. Damascene proves this with three arguments in *On the Orthodox Faith*.John Damascene, *On the Orthodox Faith*, bk. 3, ch. 14 (PG 94:1038). First, because every nature has its own proper motion, but the proper motion of a rational nature is that it freely reach toward things, and this belongs to will. Second, because no one learns to will things, as with other natural powers. Third, because nature does not lead in man, the way it does in other animals, but rather is led; whence it must be that there is a freedom present in man in his own motion, and this belongs to will. Fourth, because man in virtue of his own nature was made to the image of God, but the image consists in memory, understanding, and will. Fifth, because it is found in all those having a human nature; whence, since Christ assumed our whole nature (otherwise he would not be a true man), it is certain that he assumed a will. And thus in Christ there is both a human will and a divine will—not that they compose one will, as Eutyches said, since then neither would be in him—but rather, each remains distinct in him. And thus in Christ there are two wills.***
+I answer that will follows on human nature. Damascene proves this with three arguments in *On the Orthodox Faith*.John Damascene, *On the Orthodox Faith*, bk. 3, ch. 14 (PG 94:1038). First, because every nature has its own proper motion, but the proper motion of a rational nature is that it freely reach toward things, and this belongs to will. Second, because no one learns to will things, as with other natural powers. Third, because nature does not lead in man, the way it does in other animals, but rather is led; whence it must be that there is a freedom present in man in his own motion, and this belongs to will. Fourth, because man in virtue of his own nature was made to the image of God, but the image consists in memory, understanding, and will. Fifth, because it is found in all those having a human nature; whence, since Christ assumed our whole nature (otherwise he would not be a true man), it is certain that he assumed a will. And thus in Christ there is both a human will and a divine will—not that they compose one will, as Eutyches said, since then neither would be in him—but rather, each remains distinct in him. And thus in Christ there are two wills.  
 
 Reply Obj. 1: Although to will belongs to the person, nonetheless this is so through a natural power that is the principle of that act. And therefore because in Christ there are two natures, there are two wills—yet one willing, on account of the unity of the divine person.  
 
@@ -106,7 +108,7 @@ Reply Obj. 3: “Will” is said in three ways. Sometimes the very power of will
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that in Christ there were all the things that belong to the perfection of human nature. Now, just the will of reason belongs to the perfection of human nature inasmuch as a man is man, so too a sensitive appetite belongs to the perfection of man as animal; thus one must posit the appetite of the sensitive part in Christ. But this appetite in the other animals does not have the notion of will, since by the instinct of their nature they are more acted upon than acting, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 14 (PG 94:1038). and so they do not have the free motion that a will requires. Nevertheless, the sensitive appetite in man can be called a “will” insofar as it is obedient to reason, as is said in the *Ethics* 1.Aristotle, *Nicomachean Ethics* 1.13, 1102b30. Therefore it participates in a way in the freedom of the will just it participates in a way in the rectitude of reason, such that it can be called “will” by participation just as it is called “reason” by participation. And in this way we say that in Christ, with respect to his human nature, there are two wills: that of sensuality and that of reason.***
+To the second question, it should be said that in Christ there were all the things that belong to the perfection of human nature. Now, just the will of reason belongs to the perfection of human nature inasmuch as a man is man, so too a sensitive appetite belongs to the perfection of man as animal; thus one must posit the appetite of the sensitive part in Christ. But this appetite in the other animals does not have the notion of will, since by the instinct of their nature they are more acted upon than acting, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 14 (PG 94:1038). and so they do not have the free motion that a will requires. Nevertheless, the sensitive appetite in man can be called a “will” insofar as it is obedient to reason, as is said in the *Ethics* 1.Aristotle, *Nicomachean Ethics* 1.13, 1102b30. Therefore it participates in a way in the freedom of the will just it participates in a way in the rectitude of reason, such that it can be called “will” by participation just as it is called “reason” by participation. And in this way we say that in Christ, with respect to his human nature, there are two wills: that of sensuality and that of reason.  
 
 Reply Obj. 1: In Christ there are two complete natures, no one of which is a part of the other, and from which the person is immediately compounded. But nevertheless one of the natures, the human, is divided into many partial natures, such as the nature of the body and that of the soul, and it into the sensitive and the rational. And in reference to this even the human will is divided into two wills.  
 
@@ -120,7 +122,7 @@ Reply Obj. 5: In Christ certain things happened that were not foreseen by the in
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the distinction of powers pertains to diverse notions of their object. Now, the will’s object is the good according to the notion of the good. Whence, since that notion is common to all things, it cannot be that reason’s appetite is divided according to diverse powers; and therefore in Christ and in other men there is only one power of will. However, the relations of that will can be diverse, and in virtue of this sometimes the will of reason is distinguished. But the Master, attending to the power’s nature, does not make a distinction in the will of reason in Christ.***
+To the third question, it should be said that the distinction of powers pertains to diverse notions of their object. Now, the will’s object is the good according to the notion of the good. Whence, since that notion is common to all things, it cannot be that reason’s appetite is divided according to diverse powers; and therefore in Christ and in other men there is only one power of will. However, the relations of that will can be diverse, and in virtue of this sometimes the will of reason is distinguished. But the Master, attending to the power’s nature, does not make a distinction in the will of reason in Christ.  
 
 Reply Obj. 1: According to Damascene, *thelesis* is the natural will, which moves in the mode of a nature toward something according to the absolute goodness contemplated in it, whereas *boulesis* is the rational appetite, which moves toward some good from its order to another. And these two the masters call by other names: “will as nature” and “will as reason.” Nonetheless, the power of the will is not divided according to them, since that diversity comes from the fact that we move toward something without making a synthesis or with a synthesis. However, to synthesize does not belong to the will through itself, but to reason. This is why that division of the will is not through things essential to it, but through incidentals; and on account of this, they are not diverse powers, but one power differing according to its relation to the preceding apprehension, which can happen with a synthesis or without one. Yet both of these—will as nature, which is *thelesis*, and will as reason, which is *boulesis*—were in Christ.  
 
@@ -136,11 +138,11 @@ Reply Obj. 6: The will of piety is the will as nature, insofar as it flees thing
 
 Article 2  
 
-***Whether the human will in Christ was always conformed to the divine will in what it willed***
+Whether the human will in Christ was always conformed to the divine will in what it willed  
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* III.18.5; 21.4; *SCG* IV.36. It appears that the human will in Christ was always conformed to the divine will in what it willed.***
+To the second we proceed as follows.Parallels: *ST* III.18.5; 21.4; *SCG* IV.36. It appears that the human will in Christ was always conformed to the divine will in what it willed.  
 
 Obj. 1: For to the degree that the conformity of the human to the divine is greater, so much greater is the rectitude of the will, which consists in this, as is clear from the Gloss on Psalm 33:1: *praise befits the upright*.*Glossa ordinaria*, at Psalm 33:1, 3.650 (PL 113:888); taken from Augustine, *Enarrationes in Psalmos*, Psalm 32, sermon 1, para. 3 (CCSL 38; PL 36:277). But Christ had the most rectified will. Therefore it was conformed to the divine will even with respect to the things willed.  
 
@@ -154,7 +156,7 @@ Furthermore, he himself said, *not my will, but thine, be done* (Luke 22:42). Th
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that in Christ the will of sensuality was contrary to the will of reason.Parallels: *ST* III.18.6; *Compendium theol*., ch. 232. For as Augustine says in *On the Trinity*,This assertion is not found in *On the Trinity*, but see Augustine, *De Haeresibus*, ch. 66 (CCSL 46; PL 42:34). the contrariety of the wills is due to a contrariety of the things willed, not due to a contrariety of the natures, as the Manichees say. But in Christ the things willed by the sensuality and by the reason were contrary, since the sensuality abhorred the death that the reason chose. Therefore in Christ his sensuality’s will was contrary to his reason’s will.***
+Obj. 1: Moreover, it appears that in Christ the will of sensuality was contrary to the will of reason.Parallels: *ST* III.18.6; *Compendium theol*., ch. 232. For as Augustine says in *On the Trinity*,This assertion is not found in *On the Trinity*, but see Augustine, *De Haeresibus*, ch. 66 (CCSL 46; PL 42:34). the contrariety of the wills is due to a contrariety of the things willed, not due to a contrariety of the natures, as the Manichees say. But in Christ the things willed by the sensuality and by the reason were contrary, since the sensuality abhorred the death that the reason chose. Therefore in Christ his sensuality’s will was contrary to his reason’s will.  
 
 Obj. 2: Furthermore, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 15 (PG 94:1059). in Christ each power was allowed to do what was proper and natural to it. But it is natural to the appetite of sensuality to desire what is delightful as regards sensation. Therefore in Christ it did desire this. But sensuality’s fight against reason in us is due to the fact that sensuality desires things delightful as regards sensation. Therefore in Christ there was a fight of this sort.  
 
@@ -166,7 +168,7 @@ Furthermore, Augustine, in *Genesis to the Letter*,According to Moos, this claim
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the will of reason was contrary to itself.Parallels: *ST* III.18.6; *Compendium theol*., ch. 232. For an intermediate communicates with each of the extremes. But the will of reason was an intermediate between the divine will and sensuality. Therefore it was conformed to both. But sensuality willed the contrary of what God willed. Therefore the will of reason willed contrary things.***
+Obj. 1: Moreover, it appears that the will of reason was contrary to itself.Parallels: *ST* III.18.6; *Compendium theol*., ch. 232. For an intermediate communicates with each of the extremes. But the will of reason was an intermediate between the divine will and sensuality. Therefore it was conformed to both. But sensuality willed the contrary of what God willed. Therefore the will of reason willed contrary things.  
 
 Obj. 2: Furthermore, the will as nature wills what is for the preservation of that nature. But the will as reason in Christ willed his death and other things of this sort that pertained to the corruption of the nature. Therefore in Christ, within the will of reason there was contrariety.  
 
@@ -178,7 +180,7 @@ Furthermore (5), as Augustine says in the *Confessions,*Augustine, *Confessions*
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, because the will follows reason, the progress of the will is proportioned to the progress of reason.***
+To the first question, I answer that, because the will follows reason, the progress of the will is proportioned to the progress of reason.  
 
 Now, reason has a principle that is known through itself, to which it traces back, in resolving, whatever it seeks to know. And when it is able to trace it back, it has certitude about that thing, and it judges that it is so. But before it is able to trace it back to that principle, it moves by means of certain verisimilitudes, and if it is held by those reasons as though they were certain, it is deceived and errs sometimes. However, if it is not held by them, then it has an opinion on one side with a fear of the other. Now, as the Philosopher says in the *Ethics* 7,Aristotle, *Nicomachean Ethics* 7.8. 1151a16. in the voluntary, the end stands as does the principle in contemplative matters, so when the will traces some matter of deliberation to an end in which it is wholly at rest, it accepts it in its judgment. However, if it traces it back to an end in which it is not wholly at rest, it wavers about both [options]. But if what is for the sake of the end is considered without its order to the end, the will moves toward it in virtue of the good or evil that it finds in it absolutely. But because the will does not remain in the motion it has regarding something of this sort, since it is not borne toward it as toward an end, therefore the will does not make a final judgment about that thing in reference to its own motion, as long as it does not consider the end toward which it orders it. Whence the will does not will it, simply speaking, but it would will it if nothing is found to be repugnant to it.  
 
@@ -200,7 +202,7 @@ Reply Obj. 3: Although Christ knew what God willed in all things whatsoever, sti
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, in us, sensuality’s fight or contrariety toward reason is caused by three things: first, the diversity of the things willed; second, because sensuality is borne to what it wills violently and without the rule of reason; and third, because sensuality, tending violently toward what it wills, retards or impedes the motion of reason, either as a whole or in part. And these two last were not in Christ, since the motion of sensuality was borne into something only when it was preordained by reason. And in this way, although the will of reason would not will what his sensuality tended toward, nonetheless it was willing that the sensuality would tend toward that, as was said of the divine and human wills. Likewise, neither did the motion of sensuality impede the motion of reason, since in Christ there was no violent rejection of one power against another.***
+To the second question, it should be said that, in us, sensuality’s fight or contrariety toward reason is caused by three things: first, the diversity of the things willed; second, because sensuality is borne to what it wills violently and without the rule of reason; and third, because sensuality, tending violently toward what it wills, retards or impedes the motion of reason, either as a whole or in part. And these two last were not in Christ, since the motion of sensuality was borne into something only when it was preordained by reason. And in this way, although the will of reason would not will what his sensuality tended toward, nonetheless it was willing that the sensuality would tend toward that, as was said of the divine and human wills. Likewise, neither did the motion of sensuality impede the motion of reason, since in Christ there was no violent rejection of one power against another.  
 
 Reply Obj. 1: Contraries are naturally apt to occur relative to the same thing. Whence, although the motions of sensuality and reason tend to contrary things, still they are themselves contrary only insofar as some impediment overflows from sensuality into reason—either with respect to an act by which it rules the other powers, and this is when sensuality is borne violently into its object, or with respect to the proper act of reason, and this is when sensuality extinguishes or retards reason’s motion. And these two things were not present in Christ, as they are in us. And therefore in Christ there was no fight or contrariety of sensuality against reason.  
 
@@ -210,7 +212,7 @@ Reply Obj. 3: That argument proves only that the things they will are different.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that according to reason’s will, Christ willed diverse things, yet not in one way—rather, in one way absolutely, but in another under a condition and imperfectly. And therefore there was no contrariety within his will, because contrariety in a habit or act is due to a contrary notion of the object. Now, reason, according to which the will as reason willed one contrary—and as nature it willed the other, has no contrariety. For what has its goodness from its order to the end, which without that order would be in itself evil, does not have any repugnance in virtue of which, as was said, the will as reason and the will as nature would be borne into diverse things.***
+To the third question, it should be said that according to reason’s will, Christ willed diverse things, yet not in one way—rather, in one way absolutely, but in another under a condition and imperfectly. And therefore there was no contrariety within his will, because contrariety in a habit or act is due to a contrary notion of the object. Now, reason, according to which the will as reason willed one contrary—and as nature it willed the other, has no contrariety. For what has its goodness from its order to the end, which without that order would be in itself evil, does not have any repugnance in virtue of which, as was said, the will as reason and the will as nature would be borne into diverse things.  
 
 Reply Obj. 1–2: From this the reply to the first two arguments is clear, since they conclude to a diversity of the things willed.  
 
@@ -226,7 +228,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed as follows.Parallel: *ST* III.21.1. It appears that prayer was not something that befit Christ.***
+To the third we proceed as follows.Parallel: *ST* III.21.1. It appears that prayer was not something that befit Christ.  
 
 Obj. 1: For, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 24 (PG 94:1090). *prayer is the ascent of the intellect to God*. But to ascend to God, when one is distant from God, is not appropriate to Christ’s intellect, which was always joined to God. Therefore it is not appropriate for Christ to pray.  
 
@@ -240,7 +242,7 @@ Furthermore, the office of the high priest is to lay prayers before God. But Chr
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that it does not befit him to pray for himself, but only for others.Parallel: *ST* III.21.3. For the office of a priest is both to pray and to offer victims. But Christ offered the victim not for himself, but for others, as is said in Hebrews 7:27. Therefore neither did he pray for himself.***
+Obj. 1: Moreover, it appears that it does not befit him to pray for himself, but only for others.Parallel: *ST* III.21.3. For the office of a priest is both to pray and to offer victims. But Christ offered the victim not for himself, but for others, as is said in Hebrews 7:27. Therefore neither did he pray for himself.  
 
 Obj. 2: Furthermore, in every genus of movers one can find a first mover that does not move according to that motion, just as things that alter others are traced back to a first thing that alters but is not altered. But among those who pray, Christ is the first. Therefore he prays and is not prayed for.  
 
@@ -252,7 +254,7 @@ Furthermore, by prayer one merits something for himself. But Christ merited for 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the prayer that he prayed for himself was an act of sensuality.Parallels: *ST* III.21.2; *Compendium theol*., ch. 233. For a prayer belongs to the one who wills it. But in Christ only the sensuality willed absolutely that he not die. Therefore the prayer by which he sought to be rescued from death was an act of sensuality.***
+Obj. 1: Moreover, it appears that the prayer that he prayed for himself was an act of sensuality.Parallels: *ST* III.21.2; *Compendium theol*., ch. 233. For a prayer belongs to the one who wills it. But in Christ only the sensuality willed absolutely that he not die. Therefore the prayer by which he sought to be rescued from death was an act of sensuality.  
 
 Obj. 2: Furthermore, the Master says in the text*Sent*. III, 17.2(48).4. that *he prayed that the cup pass from him due to the human affect that he drew from the Virgin*. But he did not draw the affect of reason from the Virgin, since the rational soul comes to be through creation, not through transmission. Therefore he prayed this through the affect of sensuality.  
 
@@ -264,7 +266,7 @@ Furthermore, prayer pertains to the contemplative life. But the contemplative li
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it appears that not all of Christ’s prayers were heard.Parallels: *ST* III.21.4; *Compendium theol*., ch. 233; *In Psalmos* 21: *Super Ioan*. 11, lect. 6; 12, lect. 5; *Super Heb*. 5, lect. 1. For it is said in the psalm, *I cry by day, but thou dost not answer* (Ps 22:2), which the Gloss interprets as being about Christ.*Glossa ordinaria*, at Psalm 22:2, 3.572–73 (PL 113:873).***
+Obj. 1: Moreover, it appears that not all of Christ’s prayers were heard.Parallels: *ST* III.21.4; *Compendium theol*., ch. 233; *In Psalmos* 21: *Super Ioan*. 11, lect. 6; 12, lect. 5; *Super Heb*. 5, lect. 1. For it is said in the psalm, *I cry by day, but thou dost not answer* (Ps 22:2), which the Gloss interprets as being about Christ.*Glossa ordinaria*, at Psalm 22:2, 3.572–73 (PL 113:873).  
 
 Obj. 2: Furthermore, he prayed that his disciples be preserved from evil, as is clear in John 17:9,Latin and English differ in the verse number. Moos says 17:15. and for all who would believe in him through their words. Now, this was fulfilled neither with the apostles themselves, nor with other believers, and neither about the evil of fault nor about the evil of penalty. Therefore not every prayer of Christ was head.  
 
@@ -280,7 +282,7 @@ Furthermore, John 11:42 says, *I knew that thou hearest me always*.
 
 Response to Quaestiuncula 1  
 
-***I respond to the first question that neither praying nor obeying belong to Christ insofar as he is God, nor does anything that rings of diminution or that pertains to a diversity of will. But insofar as he is a man, prayer does belong to him, for three reasons, as Damascenes says:John Damascene, *On the Orthodox Faith*, bk. 3, ch. 24 (PG 94:1090‒94). first, to indicate his truly human nature, in virtue of which he is less than the Father, he is obedient to him and prays to him; second, to present to us an example of one praying, since his every action is our instruction, for he was given to us as an example of virtue; and third, to show that he came from God, and was not opposed to him, when [God] acknowledged him as his principle when he prayed to him.***
+I respond to the first question that neither praying nor obeying belong to Christ insofar as he is God, nor does anything that rings of diminution or that pertains to a diversity of will. But insofar as he is a man, prayer does belong to him, for three reasons, as Damascenes says:John Damascene, *On the Orthodox Faith*, bk. 3, ch. 24 (PG 94:1090‒94). first, to indicate his truly human nature, in virtue of which he is less than the Father, he is obedient to him and prays to him; second, to present to us an example of one praying, since his every action is our instruction, for he was given to us as an example of virtue; and third, to show that he came from God, and was not opposed to him, when [God] acknowledged him as his principle when he prayed to him.  
 
 Reply Obj. 1: To ascend is properly to stretch toward what is above oneself. Now, Christ’s intellect does not stretch toward what is above him in contemplation, since whatever he ever contemplated about God he contemplated from the first instant of his conception. In virtue of this Damascene says that *Christ’s intellect did not need an ascension to God*, but nonetheless the divine power, which he implored in his prayer, was above him, and ascending to God in this way, he prayed.  
 
@@ -290,7 +292,7 @@ Reply Obj. 3: Christ prayed for a thing that he wanted to occur absolutely by th
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that prayer is always to supply for some defect. Now, Christ did not suffer any defect as regards spiritual goods, since he was blessed, but he did suffer a defect inasmuch as he was able to suffer in both soul and body.***
+To the second question, it should be said that prayer is always to supply for some defect. Now, Christ did not suffer any defect as regards spiritual goods, since he was blessed, but he did suffer a defect inasmuch as he was able to suffer in both soul and body.  
 
 Whence, Christ’s every prayer that was for spiritual goods was not for himself, but for others, for example, *that they may be one even as we are one* (John 17:22). But his prayer for things that pertain to the body was even for himself, as is clear from the psalm: *raise me up, that I may requite them* (Ps 41:10); for this prayer is also for himself—that is, that he might be raised—yet it is also for others insofar as it aims at their salvation—since he was *raised for our justification* (Rom 4:25)—and our instruction, since by his example they learn from God himself how to pray.  
 
@@ -302,7 +304,7 @@ Reply Obj. 3: In Christ there was nothing that, by the will of reason, he absolu
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the act of sensuality is spoken of in two ways. In one way, the act of sensuality is taken as the principle eliciting the act, and in this way in Christ his prayer could not be an act of sensuality, as the arguments in the second question brought up show. In another way, it is an act of sensuality as that of an object, that is, of what sensuality willed; and in this way something of his prayer was an act of sensuality. For his reason praying was, as it were, the advocate of his sensuality, proposing to God his sensuality’s desire. Now, it did this not as though reason itself willed what it sought on behalf of sensuality, but so that it might teach man’s every will to be subject to God, and to run to him in all necessities. Whence he adds, *not my will, but thine, be done* (Luke 22:42).***
+To the third question, it should be said that the act of sensuality is spoken of in two ways. In one way, the act of sensuality is taken as the principle eliciting the act, and in this way in Christ his prayer could not be an act of sensuality, as the arguments in the second question brought up show. In another way, it is an act of sensuality as that of an object, that is, of what sensuality willed; and in this way something of his prayer was an act of sensuality. For his reason praying was, as it were, the advocate of his sensuality, proposing to God his sensuality’s desire. Now, it did this not as though reason itself willed what it sought on behalf of sensuality, but so that it might teach man’s every will to be subject to God, and to run to him in all necessities. Whence he adds, *not my will, but thine, be done* (Luke 22:42).  
 
 Reply Obj. 1: When someone prays for his own benefit, reason pleads only for what it wills, and therefore then that for which he is praying is his will. But Christ pleaded not for his own benefit, that is, such that he himself would acquire the effect of his plea, but for the benefit of others, as was said. And therefore his reason did not plead for that which it itself willed, but according to what his sensuality desired.  
 
@@ -312,7 +314,7 @@ Reply Obj. 3: To ask and call for something does not designate a prayer, properl
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that every prayer that Christ offered with the intention of obtaining was heard. But since someone cannot intend to obtain what he does not will absolutely, only Christ’s prayer concerning what he willed absolutely was heard. Now, someone is said to will simply or absolutely that on which his ultimate judgment stands firm. However, in a man the ultimate judgment is made in virtue of the highest part of the appetite, whereas reason’s appetite is above sense’s appetite, and in reason’s appetite is the highest thing that inclines toward the end or toward what is connected to the end. And therefore Christ willed absolutely only this: what according to reason he willed as the end, and what was ordered to the end; and every such prayer of his was heard.***
+To the fourth question, it should be said that every prayer that Christ offered with the intention of obtaining was heard. But since someone cannot intend to obtain what he does not will absolutely, only Christ’s prayer concerning what he willed absolutely was heard. Now, someone is said to will simply or absolutely that on which his ultimate judgment stands firm. However, in a man the ultimate judgment is made in virtue of the highest part of the appetite, whereas reason’s appetite is above sense’s appetite, and in reason’s appetite is the highest thing that inclines toward the end or toward what is connected to the end. And therefore Christ willed absolutely only this: what according to reason he willed as the end, and what was ordered to the end; and every such prayer of his was heard.  
 
 Now, according to his sensuality he willed what he did not will absolutely, and therefore in prayer his reason did not propose this such that it might obtain it. Nevertheless, this was not a sham, since it did express the appetite of sensuality for the reason already stated; and likewise, what reason as nature willed, if it did not rest in it as in an end, it did not will simply speaking, as was said before. And therefore also, in praying, it did not propose this so that it might obtain it, and on account of this, prayers of this sort were not heard.  
 
@@ -328,7 +330,7 @@ Article 4
 
 ***Whether Christ, insofar as he was a man, doubted***
 
-***To the fourth we proceed as follows. It appears that Christ, insofar as he was a man, doubted.***
+To the fourth we proceed as follows. It appears that Christ, insofar as he was a man, doubted.  
 
 Obj. 1: For Ambrose says, in the text, that the man doubted.*Sent*. III, 17.3(49).1, referring to Ambrose, *De fide libri V, ad Gratianum Augustum*, bk. 2, ch. 5 (CSEL 78; PL 16:568).  
 
@@ -368,7 +370,7 @@ Reply Sed Contra **6–8**: The others we concede. For they proceed with regard 
 
 Exposition of the text  
 
-****The soul hears through the ear*;*Sent.* III, 17.2(48).2, quoting Augustine, *The Literal Interpretation of Genesis*, bk. 10, ch. 12 (CSEL 28.1:310; PL 34:416). that is, for man, the beginning of listening is through the ear.***
+*The soul hears through the ear*;*Sent.* III, 17.2(48).2, quoting Augustine, *The Literal Interpretation of Genesis*, bk. 10, ch. 12 (CSEL 28.1:310; PL 34:416). that is, for man, the beginning of listening is through the ear.  
 
 *The same is true in holy men*.*Sent*. III, 17.2(48).3. It appears that this was more the case in wicked men, since they kill themselves when afflicted by the weight of their sins, as is said in the *Ethics* 9.Aristotle, *Nicomachean Ethics* 9.4, 1166b12. To this it should be said that the will of sensuality always flees death, and likewise does the will of reason as nature. But the will of reason as reason sometimes desires death, and this in two ways: either on account of the love of a future life, and this is the case in the saints, or on account of the remorse of a wounded conscience, and this occurs in sinners.  
 

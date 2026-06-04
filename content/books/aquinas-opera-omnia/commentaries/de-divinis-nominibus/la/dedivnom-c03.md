@@ -1,10 +1,12 @@
 # C. 2 - On United and Discrete Theology and What Is Divine Unition and Discretion
 
+***De unita et discreta theologia et quae est divina unitio et discretio***
+
 ***Lectio 1***
 
 ***Quae dicantur communiter et quae distinctim in Trinitate***
 
-***C. II, § 1. 31. Thearchicam totam essentiam, quodcumque est, per se bonitas determinans et manifestans ab eloquiis laudatur. Etenim quid aliud dicere est ex sancta theologia, quando dicit thearchiam ipsam narrantem dicere: *quid me interrogas de bono? Nullus bonus nisi solus Deus*. Igitur, hoc quidem et in aliis inquisitum, a nobis est demonstratum, omnes semper Deo convenientes Dei nominationes, non particulariter, sed in tota et perfecta et integra et prima deitate ab eloquiis laudari et omnes ipsas simpliciter, absolute et inobservate totaliter universae totalitati perfectae et omnis deitatis apponi.***
+C. II, § 1. 31. Thearchicam totam essentiam, quodcumque est, per se bonitas determinans et manifestans ab eloquiis laudatur. Etenim quid aliud dicere est ex sancta theologia, quando dicit thearchiam ipsam narrantem dicere: *quid me interrogas de bono? Nullus bonus nisi solus Deus*. Igitur, hoc quidem et in aliis inquisitum, a nobis est demonstratum, omnes semper Deo convenientes Dei nominationes, non particulariter, sed in tota et perfecta et integra et prima deitate ab eloquiis laudari et omnes ipsas simpliciter, absolute et inobservate totaliter universae totalitati perfectae et omnis deitatis apponi.  
 
 > 32. Et quidem, sicut in *Theologicis hypotyposibus* memoravimus, si non de tota deitate dicat aliquis hoc dictum esse et audet abscindere inconvenienter superunitam unitatem. Dicendum igitur quod et ipsum bonum natura Verbum dixit: *ego sum bonus*; et quidem Deo acceptorum prophetarum laudat Spiritum bonum; et rursum: *ego sum qui sum*, si non de tota dixerit deitate laudari, secundum autem unam partem ipsum circumscribere conentur, quomodo audient: *haec dicit qui est, qui erat, qui venturus est, omnipotens*; et: *tu autem idem ipse es*; et: *Spiritus veritatis*, qui est, *qui a Patre procedit?* Et si non totam thearchiam dicunt esse vitam, quomodo verum quod dixit sanctum Verbum: *sicut Pater suscitat mortuos et vivificat, sic et Filius quos vult vivificat*; et quod: *Spiritus Sanctus est qui vivificat?* Quoniam autem et dominationem totorum habet tota deitas, de deigena deitate quidem aut filiali neque dicere est, sicut arbitror, in quot locis theologiae in Patre et Filio frequentatur Dominus; sed et *Dominus Spiritus Sanctus est*; et pulchrum et sapiens in tota deitate laudatur, et lumen et deificum et causa; et omnia quaecumque totius thearchiae sunt, ad omnem reducunt eloquia thearchicam laudationem: comprehensive quidem, sicut quando *omnia* dicunt *ex Deo*; diffusive autem, sicut quando dicunt: *omnia per ipsum et in ipso facta sunt, et omnia in ipso consistunt*; et: *emitte Spiritum tuum et creabuntur*.
 
@@ -86,7 +88,7 @@ Lectio 2
 
 ***Qualis sit unitio et discretio in divinis***
 
-***§ 4. 38. Oportet autem, ut arbitror, magis resumentes, nos perfectum divinae unitionis et discretionis exponere modum, ut nobis conspicuus omnis fiat sermo: varium quidem omne et non planum respuens, discrete autem et plane et ordinate, propria secundum virtutem terminans.***
+§ 4. 38. Oportet autem, ut arbitror, magis resumentes, nos perfectum divinae unitionis et discretionis exponere modum, ut nobis conspicuus omnis fiat sermo: varium quidem omne et non planum respuens, discrete autem et plane et ordinate, propria secundum virtutem terminans.  
 
 > 39. Vocant enim, quod et in aliis dixi, nostrae theologicae traditionis sancti magistri, unitiones quidem divinas quae sunt superineffabilis et superignotae singularitatis occultas et inegressibiles supercollocationes;
 
@@ -218,9 +220,9 @@ secundo, quomodo aliqua discretio pertineat ad essentiae unitatem, ibi: ***si au
 
 Lectio 3  
 
-***Quomodo sub communi discretionis modo continetur quaedam propria unitio, quae est secundum proportionem creaturarum a Deo, ad totam Trinitatem pertinens***
+Quomodo sub communi discretionis modo continetur quaedam propria unitio, quae est secundum proportionem creaturarum a Deo, ad totam Trinitatem pertinens  
 
-***49. Si autem et divina discretio est processio bono conveniens unitionis divinae et superunitae, seipsam bonitatem in pluralitatem agentis et multiplicantis, unitae quidem sunt secundum divinam discretionem incomprehensibiles traditiones, substantificationes, vivificationes, sapientificationes et alia dona bonitatis quae est omnium causa, secundum quae ex participationibus et participantibus laudantur non participabiliter participata. Et hoc commune et unitum et unum est toti deitati, omnem ipsam totam ab unoquoque participantium participari et a nullo, nulla parte.***
+49. Si autem et divina discretio est processio bono conveniens unitionis divinae et superunitae, seipsam bonitatem in pluralitatem agentis et multiplicantis, unitae quidem sunt secundum divinam discretionem incomprehensibiles traditiones, substantificationes, vivificationes, sapientificationes et alia dona bonitatis quae est omnium causa, secundum quae ex participationibus et participantibus laudantur non participabiliter participata. Et hoc commune et unitum et unum est toti deitati, omnem ipsam totam ab unoquoque participantium participari et a nullo, nulla parte.  
 
 > 50. Quemadmodum punctum in medio circuli ab omnibus in circulo circumpositis lineis et sicut sigilli expressiones multae participant archetypo sigillo et in unaquaque expressionum toto et eodem existente et in nulla secundum nullam partem.
 
@@ -272,7 +274,7 @@ Lectio 4
 
 ***Quod discretiones divinae non possunt sufficienter a nobis manifestari***
 
-***§ 7. 54. Sed harum quidem et unitionum et discretionum quascumque in eloquiis Deo convenientes causas invenimus, in *Theologicis hypotyposibus*, propria de unoquoque tractantes, sicut erat possibile exposuimus, quaedam quidem revolventes vero sermone et reserantes et sanctum et revelatum intellectum in manifestas eloquiorum visiones adducentes, quibusdam autem, sicut mysticis, secundum divinam traditionem super intellectualem operationem uniti.***
+§ 7. 54. Sed harum quidem et unitionum et discretionum quascumque in eloquiis Deo convenientes causas invenimus, in *Theologicis hypotyposibus*, propria de unoquoque tractantes, sicut erat possibile exposuimus, quaedam quidem revolventes vero sermone et reserantes et sanctum et revelatum intellectum in manifestas eloquiorum visiones adducentes, quibusdam autem, sicut mysticis, secundum divinam traditionem super intellectualem operationem uniti.  
 
 > 55. Omnia enim divina et quaecumque nobis sunt manifestata, solis participationibus cognoscuntur. Ipsa autem qualiacumque sunt, secundum proprium principium et collocationem, super mentem sunt et omnem substantiam et cognitionem.
 
@@ -450,7 +452,7 @@ Lectio 6
 
 ***De discretione divina quae attenditur secundum processionem creaturarum***
 
-***C. II, § 1. 71. Igitur de istis quidem satis est; ad verbi autem intentionem procedamus, communia et unita discretionis divinae nomina, secundum quod est nobis possibile, revolventes.***
+C. II, § 1. 71. Igitur de istis quidem satis est; ad verbi autem intentionem procedamus, communia et unita discretionis divinae nomina, secundum quod est nobis possibile, revolventes.  
 
 > 72. Et ut plane de omnibus consequenter praedeterminemus, discretionem divinam esse dicimus, sicut dictum est, bono convenientes thearchiae processiones. Donans enim omnibus existentibus et superfundens totorum bonorum participationes, unitive quidem discernitur et in pluralitatem agitur singulariter et multiplicatur ex uno inegressibiliter.
 

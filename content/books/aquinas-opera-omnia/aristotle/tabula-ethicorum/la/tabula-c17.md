@@ -1,5 +1,7 @@
 # Chapter 17
 
+***Vox 1***
+
 ***Temperancia***
 
 ***Quod temperancia et fortitudo uidentur esse irracionabilium parcium uirtutes.***
@@ -20,7 +22,7 @@ Vox 2
 
 ***Temperatus***
 
-***Quod temperatus habet se medio modo, quia non delectatur in uoluptatibus inordinate set magis tristatur, nec in absentibus tristatur, neque concupiscit, set concupiscit quedam mensurate et non magis quam oportet.***
+Quod temperatus habet se medio modo, quia non delectatur in uoluptatibus inordinate set magis tristatur, nec in absentibus tristatur, neque concupiscit, set concupiscit quedam mensurate et non magis quam oportet.  
 
 Quod temperati efficimur per recessum a uoluptatibus, et effecti maxime possumus recedere ab ipsis.  
 
@@ -46,19 +48,19 @@ Vox 4
 
 ***Timidus***
 
-***Quod timidus est qui in timendo superhabundat et que non oportet et ut non oportet; et talis magis denominatur a superhabundancia timoris quam a defectu audacie.***
+Quod timidus est qui in timendo superhabundat et que non oportet et ut non oportet; et talis magis denominatur a superhabundancia timoris quam a defectu audacie.  
 
 Vox 5  
 
 ***Terribile***
 
-***Quod terribile quoddam est supra hominem, quod ab omni habente intelligenciam timetur, et quoddam secundum hominem proporcionatum sibi, et differt secundum magis et minus.***
+Quod terribile quoddam est supra hominem, quod ab omni habente intelligenciam timetur, et quoddam secundum hominem proporcionatum sibi, et differt secundum magis et minus.  
 
 Vox 6  
 
 ***Tyrannus***
 
-***Quod tyranni non dicuntur prodigi, quia multitudo non patitur secum de facili superhabundantem dacionem.***
+Quod tyranni non dicuntur prodigi, quia multitudo non patitur secum de facili superhabundantem dacionem.  
 
 Quod tyrannus sibi ipsi conferens intendit; rex autem quod subditorum.  
 
@@ -96,7 +98,7 @@ Vox 9
 
 ***Triste***
 
-***Quod triste per paucum tempus potest aliquis sustinere, continue autem nullus eciam si esset sibi bonum.***
+Quod triste per paucum tempus potest aliquis sustinere, continue autem nullus eciam si esset sibi bonum.  
 
 Vox 10  
 

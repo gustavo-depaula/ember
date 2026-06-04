@@ -1,1 +1,3 @@
 # Articulus 15
+
+Quod autem quinto decimo ponitur, *sicut aeternum prius est temporali, ita aliquid aeternum prius est secundum ordinem ad temporale; unde potentiae ordinatio ad actum aeternum generandi prior est ordine eius ad actum temporalem creandi*, non habet calumniam: quia actus creandi dicitur temporalis quantum ad effectum connotatum, ratione cuius non conceditur quod Deus ab aeterno creet, licet actio eius sit aeterna, quae est divina essentia. Aeternum etiam licet non habeat ordinem ad aliquid temporale ut ad finem, habet tamen ordinem ad aliquid temporale, ut principium ad effectum: Deus enim qui est aeternus, est principium et finis omnis creaturae.

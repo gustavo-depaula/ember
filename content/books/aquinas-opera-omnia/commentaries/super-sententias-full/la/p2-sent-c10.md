@@ -1,8 +1,10 @@
 # D. 30 - Things said of God from time
 
+***De quibis dicuntur de Deo ex tempore***
+
 ***Divisio textus***
 
-***Ostenso quod principium respectu creaturae dicitur de Deo ex tempore, consequenter ostendit qualiter aliquid de Deo ex tempore dici possit, et dividitur in partes duas: in prima ostendit aliquid de Deo dici ex tempore; in secunda ostendit modum quo ista de Deo dicuntur, ibi: *quomodo igitur obtinebimus nihil secundum accidens dici Deum, nisi quia ipsius naturae nihil accidit quo mutetur?****
+Ostenso quod principium respectu creaturae dicitur de Deo ex tempore, consequenter ostendit qualiter aliquid de Deo ex tempore dici possit, et dividitur in partes duas: in prima ostendit aliquid de Deo dici ex tempore; in secunda ostendit modum quo ista de Deo dicuntur, ibi: *quomodo igitur obtinebimus nihil secundum accidens dici Deum, nisi quia ipsius naturae nihil accidit quo mutetur?*  
 
 Circa primum duo facit: primo ostendit veritatem; secundo excludit objectionem, ibi: *sed hic aliquis dicet, quod non ex tempore competit Deo haec appellatio*.  
 
@@ -58,7 +60,7 @@ Articulus 2
 
 ***Utrum quae dicuntur de Deo ex tempore, significent divinam essentiam***
 
-***Ad secundum sic proceditur. Videtur quod hujusmodi nomina quae de Deo dicuntur ex tempore, non significent divinam essentiam.***
+Ad secundum sic proceditur. Videtur quod hujusmodi nomina quae de Deo dicuntur ex tempore, non significent divinam essentiam.  
 
 Essentia enim divina est aeterna. Sed haec non dicuntur de Deo ab aeterno. Ergo non significant divinam essentiam.  
 
@@ -92,9 +94,9 @@ Ad quartum dicendum, quod Deus dicitur esse homo inquantum suppositum divinae na
 
 Articulus 3  
 
-***Utrum habitudines designatae in nominibus dictis de Deo ex tempore, sint realiter in Deo***
+Utrum habitudines designatae in nominibus dictis de Deo ex tempore, sint realiter in Deo  
 
-***Ad tertium sic proceditur. Videtur quod habitudines designatae in istis nominibus, realiter in Deo sint.***
+Ad tertium sic proceditur. Videtur quod habitudines designatae in istis nominibus, realiter in Deo sint.  
 
 Nomen enim et ratio cui non subest aliquid in re, est vana vel falsa. Sed non vane et falso dicimus et cogitamus Deum Dominum et Creatorem. Ergo hujusmodi nomina habent relationes quas significant, respondentes sibi realiter in Deo.  
 
@@ -122,6 +124,6 @@ Ad quartum dicendum, quod illud non facit ad propositum; quia de utrisque relati
 
 Expositio textus  
 
-****Ad quod dici potest, quod licet non coeperit ex tempore Dominus esse temporis, coepit tamen esse Dominus temporis*. Intentio solutionis est, quod Deus coepit esse Dominus temporis quando coepit esse tempus; unde sicut tempus non coepit esse in tempore vel ex tempore; ita nec Deus dicitur Dominus temporis ex tempore vel in tempore. Et dicit: *in tempore*, ut designet habitudinem mensurae; quia sicut locatum est in loco ut in mensurante, ita et in tempore. *Ex tempore* vero dicit, inquantum tempus est mensura includens suum mensuratum; unde oportet quod ad utramque partem excedat; et ideo quae semper sunt, inquantum semper sunt, non mensurantur tempore, sed quae quandoque sunt, ut dicit Philosophus, 4 *Physic*. Et ideo quae mensurantur tempore, sunt ex tempore, quia tempus praecedit ipsa. Tempus autem non mensuratur tempore, sicut nec locus loco; et ideo tempus nec in tempore incipit nec ex tempore; sed aliorum quae incipiunt in tempore vel ex tempore, est Deus Dominus in tempore vel ex tempore; et aliqua talia sunt, sicut hoc et illud generatum; quamvis etiam universum semper fuisset, ut quidam philosophi posuerunt. Unde hoc quaerere non pertinet ad propositum, quia utrumlibet verum sit, habetur propositum, quod Deus est Dominus ex tempore, ad minus aliquorum.***
+*Ad quod dici potest, quod licet non coeperit ex tempore Dominus esse temporis, coepit tamen esse Dominus temporis*. Intentio solutionis est, quod Deus coepit esse Dominus temporis quando coepit esse tempus; unde sicut tempus non coepit esse in tempore vel ex tempore; ita nec Deus dicitur Dominus temporis ex tempore vel in tempore. Et dicit: *in tempore*, ut designet habitudinem mensurae; quia sicut locatum est in loco ut in mensurante, ita et in tempore. *Ex tempore* vero dicit, inquantum tempus est mensura includens suum mensuratum; unde oportet quod ad utramque partem excedat; et ideo quae semper sunt, inquantum semper sunt, non mensurantur tempore, sed quae quandoque sunt, ut dicit Philosophus, 4 *Physic*. Et ideo quae mensurantur tempore, sunt ex tempore, quia tempus praecedit ipsa. Tempus autem non mensuratur tempore, sicut nec locus loco; et ideo tempus nec in tempore incipit nec ex tempore; sed aliorum quae incipiunt in tempore vel ex tempore, est Deus Dominus in tempore vel ex tempore; et aliqua talia sunt, sicut hoc et illud generatum; quamvis etiam universum semper fuisset, ut quidam philosophi posuerunt. Unde hoc quaerere non pertinet ad propositum, quia utrumlibet verum sit, habetur propositum, quod Deus est Dominus ex tempore, ad minus aliquorum.  
 
 *Hic potest solvi quaestio superius proposita*. Magister hanc quaestionem moverat, distinct. 13, et solvit hic per ea quae dicta sunt, quia hujusmodi nomina quae dicuntur de Deo ex tempore, important relationes non reales in Deo existentes, sed secundum rationem et nomen. Et ideo cum Spiritus Sanctus dicitur dari a se, in creatura est relatio realis quae refertur ad totam Trinitatem ut ad principium, et ad Spiritum Sanctum ut ad terminum, per modum exemplaritatis; sed in Spiritu Sancto non est relatio nisi secundum rationem; et non est inconveniens quod tali ratione aliquid ad seipsum referatur, ut cum dicitur idem eidem idem.

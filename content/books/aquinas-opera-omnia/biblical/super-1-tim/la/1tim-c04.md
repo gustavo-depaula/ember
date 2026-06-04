@@ -1,10 +1,12 @@
 # C. 3 - Presbyterial Conduct
 
+***Mos Sacerdotalis***
+
 ***Lectio 1***
 
 ***Mos episcopi***
 
-***^3:1^ Fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat. [n. 86]***
+^3:1^ Fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat. [n. 86]  
 
 > ^3:2^ Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem, [n. 91]
 
@@ -106,7 +108,7 @@ Lectio 2
 
 ***Mores Christiani***
 
-***^3:4^ suae domui bene praepositum: filios habentem subditos cum omni castitate. [n. 103]***
+^3:4^ suae domui bene praepositum: filios habentem subditos cum omni castitate. [n. 103]  
 
 > ^3:5^ Si quis autem domui suae praeesse nescit, quomodo Ecclesiae Dei diligentiam habebit? [n. 105]
 
@@ -244,7 +246,7 @@ Lectio 3
 
 ***Familiae diaconorum***
 
-***^3:12^ Diaconi sint unius uxoris viri, qui filiis suis bene praesint, et suis domibus. [n. 119]***
+^3:12^ Diaconi sint unius uxoris viri, qui filiis suis bene praesint, et suis domibus. [n. 119]  
 
 > ^3:13^ Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quae est in Christo Jesu. [n. 122]
 

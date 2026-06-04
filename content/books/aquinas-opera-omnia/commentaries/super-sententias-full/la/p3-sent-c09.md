@@ -1,8 +1,10 @@
 # D. 8 - Angels and the assumption of bodies
 
+***De angelis quantum ad corporum assumptionem***
+
 ***Divisio textus***
 
-***Hic determinat Magister de angelis bonis et malis, quantum ad corporum assumptionem; et dividitur in partes duas:***
+Hic determinat Magister de angelis bonis et malis, quantum ad corporum assumptionem; et dividitur in partes duas:  
 
 in prima determinat de eis quantum ad assumptionem corporum;  
 
@@ -108,7 +110,7 @@ Articulus 3
 
 ***Utrum corpora assumpta ab angelis habeant veram naturam quam ostendunt***
 
-***Ad tertium sic proceditur. Videtur quod angeli assumant corpora habentia secundum veritatem illam naturam quae videtur.Parma: *corpora illa . . . quae habent*.***
+Ad tertium sic proceditur. Videtur quod angeli assumant corpora habentia secundum veritatem illam naturam quae videtur.Parma: *corpora illa . . . quae habent*.  
 
 Nuntios enim veritatis non decet aliqua fictio. Sed ostendere illud quod non est verum est quaedam fictio. Ergo videtur quod veram naturam habeant illarum rerum corpora assumpta.  
 
@@ -148,11 +150,11 @@ Ad octavum dicendum, quod cum corpus caeli sit incorruptibile, non potest dividi
 
 Articulus 4  
 
-***Utrum angeli possint comedere, generare, sentire, localiter moveri, et loquere in corporibus assumptis***
+Utrum angeli possint comedere, generare, sentire, localiter moveri, et loquere in corporibus assumptis  
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod angeli in corporibus assumptis comedere possint.***
+Ad quartum sic proceditur. Videtur quod angeli in corporibus assumptis comedere possint.  
 
 Legitur enim Gen. cap. 18, quod Abraham angelis sibi apparentibus cibos apposuerit. Sed ipse cognovit eos esse angelos, quod ipsa collocutio cum eis habita ostendit. Ergo videtur quod comedere possint.  
 
@@ -198,13 +200,13 @@ Sed contra est, quia in omni locutione exprimuntur quaedam intentiones intellect
 
 Solutio 1  
 
-***Respondeo dicendum, quod, ut praedictum est, angeli corporibus assumptis vitam non influunt, sed tantum motum: et ideo considerandum est quod omnes operationes quae sequuntur corpus vivum, inquantum vivum, non possunt angelis in corporibus assumptis convenire; sed tantum illae quae consequuntur corpus mobile inquantum hujusmodi, ut movere, impellere, dividere et hujusmodi.***
+Respondeo dicendum, quod, ut praedictum est, angeli corporibus assumptis vitam non influunt, sed tantum motum: et ideo considerandum est quod omnes operationes quae sequuntur corpus vivum, inquantum vivum, non possunt angelis in corporibus assumptis convenire; sed tantum illae quae consequuntur corpus mobile inquantum hujusmodi, ut movere, impellere, dividere et hujusmodi.  
 
 Ad primum ergo dicendum, quod comedere, secundum completam rationem sui, non dicit solum divisionem cibi et trajectionem in os; sed et istum actum procedere a virtute potente digerereAl.: *dirigere*. et convertere in nutrimentum: et ideo angeli non vere comederunt, sed fuitAl.: *comedunt, sed fuit* or *sed fit*. ibi vera divisio cibi, et trajectioAl.: *tractatio*. in corpus assumptum; qui postmodum non est conversus in corpus illud, sed virtute angeli aliqua dissolutus est in praejacentem materiam. Christus autem vere comedit, quamvis cibus conversus non fuerit: quia illa decisio cibi fuit habentis virtutem nutritivam et conversivam. Abraham autem etsi in fine cognoverit eos esse angelos, non tamen est inconveniens quod hoc eum in principio latuerit: vel si cognoverit, in alicujus mysterii commendationem eis cibos apposuit.  
 
 Solutio 2  
 
-***Ad id quod secundo quaeritur, dicunt quidam quod daemones in corporibus assumptis nullo modo generare possunt; nec per filios Dei angelos incubos significari dicunt, sed filios Seth, et per filias hominum eas quae de stirpe Caïn descenderunt. Sed quia contrarium a multis dicitur, et quod multis videtur non potest omnino falsum esse, secundum Philosophum, in 7 *Ethic*., cap. 14, et in fine *De somm. et vig*., ideo potest dici quod per eorum actum completur generatio, inquantum semen humanum apponere possunt in loco convenienti ad materiam proportionatam, sicut etiam semina aliarum rerum colligere possunt ad complendum aliquos effectus, ut in praecedenti distinctione dictum est; ut attribuatur id tantum eis quod est motus localis, non autem ipsa generatio cujus principium non est virtus daemonis, aut corporis ab eo sumpti, sed virtus illius cujus semen fuit; unde et genitus non daemonis, sed alicujus hominis filius est.***
+Ad id quod secundo quaeritur, dicunt quidam quod daemones in corporibus assumptis nullo modo generare possunt; nec per filios Dei angelos incubos significari dicunt, sed filios Seth, et per filias hominum eas quae de stirpe Caïn descenderunt. Sed quia contrarium a multis dicitur, et quod multis videtur non potest omnino falsum esse, secundum Philosophum, in 7 *Ethic*., cap. 14, et in fine *De somm. et vig*., ideo potest dici quod per eorum actum completur generatio, inquantum semen humanum apponere possunt in loco convenienti ad materiam proportionatam, sicut etiam semina aliarum rerum colligere possunt ad complendum aliquos effectus, ut in praecedenti distinctione dictum est; ut attribuatur id tantum eis quod est motus localis, non autem ipsa generatio cujus principium non est virtus daemonis, aut corporis ab eo sumpti, sed virtus illius cujus semen fuit; unde et genitus non daemonis, sed alicujus hominis filius est.  
 
 Et sic patet responsio ad primum quod contra objicitur.  
 
@@ -214,21 +216,21 @@ Ad tertium dicendum, quod daemones possunt scire virtutem seminis decisi ex disp
 
 Solutio 3  
 
-***Ad id quod tertio quaeritur, dicendum est quod angeli nullo modo vident per oculos corporis assumpti, quia haec est operatio potentiae corporis viventis; unde partes corporis assumpti non sunt organa sensibilia, sed similitudinem eorum habentia ad ostendendum angelorum spirituales virtutes; unde Dionysius, in fin. *Cael. hier*., ex omnibus partibus humani corporis docet proprietates angelicas considerare; unde non frustra assumuntur.***
+Ad id quod tertio quaeritur, dicendum est quod angeli nullo modo vident per oculos corporis assumpti, quia haec est operatio potentiae corporis viventis; unde partes corporis assumpti non sunt organa sensibilia, sed similitudinem eorum habentia ad ostendendum angelorum spirituales virtutes; unde Dionysius, in fin. *Cael. hier*., ex omnibus partibus humani corporis docet proprietates angelicas considerare; unde non frustra assumuntur.  
 
 Solutio 4  
 
-***Ad id quod quarto quaeritur, dicendum est quod moventur per accidens, motis corporibus in quibus sunt: quia definitive sunt in illis corporibus, ita quod non alibi. Deus autem non movetur ad motum alicujus corporis: quia ita est in uno quod etiam in alio: sicut anima non movetur per accidens ad motum manus, sed ad motum totius corporis. Similiter etiam motor orbis coniungitur orbi secundum totum,Parma omits *secundum totum*. secundum philosophos, et non uni parti tantum; quamvis virtus ejus primo appareat in parte dextera unde incipit motus, et ideo non movetur per accidens, quia totus orbis non movetur extra locum suum, sedPLE: *sed*; Mandonnet: *nisi*. hoc modo quod sit in alio loco ratione et non subjecto.***
+Ad id quod quarto quaeritur, dicendum est quod moventur per accidens, motis corporibus in quibus sunt: quia definitive sunt in illis corporibus, ita quod non alibi. Deus autem non movetur ad motum alicujus corporis: quia ita est in uno quod etiam in alio: sicut anima non movetur per accidens ad motum manus, sed ad motum totius corporis. Similiter etiam motor orbis coniungitur orbi secundum totum,Parma omits *secundum totum*. secundum philosophos, et non uni parti tantum; quamvis virtus ejus primo appareat in parte dextera unde incipit motus, et ideo non movetur per accidens, quia totus orbis non movetur extra locum suum, sedPLE: *sed*; Mandonnet: *nisi*. hoc modo quod sit in alio loco ratione et non subjecto.  
 
 Solutio 5  
 
-***Ad id quod quinto quaeritur dicendum, quod loqui proprie est per formationem vocum ex percussione aeris respirati, determinatis organis, ad exprimendum aliquem intellectum; et ideo locutio corporalis angelis convenire non potest in corporibus assumptis, secundum completam significationem, cum non habeant vera organa corporalia; sed est aliqua similitudo locutionis, inquantum intelligunt, et intellectum exprimunt quibusdam sonis, qui proprie non sunt voces, sed similitudines vocum; sicut etiam quaedam animalia non respirantia dicuntur vocare, et etiam quaedam instrumenta, ut dicit Philosophus, in 2 *De anima*. Intentiones autem intellectae ab angelo efficiuntur in illis sonis non eaedem numero sed secundum similitudinem significationis per motus determinatos ab intellectu, sicut similitudo artis efficitur in materia, ut domus.***
+Ad id quod quinto quaeritur dicendum, quod loqui proprie est per formationem vocum ex percussione aeris respirati, determinatis organis, ad exprimendum aliquem intellectum; et ideo locutio corporalis angelis convenire non potest in corporibus assumptis, secundum completam significationem, cum non habeant vera organa corporalia; sed est aliqua similitudo locutionis, inquantum intelligunt, et intellectum exprimunt quibusdam sonis, qui proprie non sunt voces, sed similitudines vocum; sicut etiam quaedam animalia non respirantia dicuntur vocare, et etiam quaedam instrumenta, ut dicit Philosophus, in 2 *De anima*. Intentiones autem intellectae ab angelo efficiuntur in illis sonis non eaedem numero sed secundum similitudinem significationis per motus determinatos ab intellectu, sicut similitudo artis efficitur in materia, ut domus.  
 
 Articulus 5  
 
 ***Utrum daemones possint esse intra corpora hominum***
 
-***Ad quintum sic proceditur. Videtur quod daemones intra corpora hominum esse non possint.***
+Ad quintum sic proceditur. Videtur quod daemones intra corpora hominum esse non possint.  
 
 Dicit enim Glossa, *Super* illud *Habac*. 2:20: *Dominus in templo sancto suo*, quod daemones simulacris exterius praesidere possunt, non autem interius adesse. Ergo multo minus intra humana corpora.  
 
@@ -264,7 +266,7 @@ Articulus 6
 
 ***Utrum Deus apparuerit in figuris corporalibus***
 
-***Ad sextum sic proceditur. Videtur quod ipse Deus in corporalibus figuris non apparuerit.***
+Ad sextum sic proceditur. Videtur quod ipse Deus in corporalibus figuris non apparuerit.  
 
 Hujusmodi enim apparitiones factae patribus in prophetis, factae sunt mediantibus angelis, quorum etiam dispositione lex tradita est, ut dicitur Act. 7, et ad Hebr. 2. Sed ille apparet qui immediate revelationem facit. Ergo videtur quod in hujusmodi formis corporalibus Deus non apparuerit.  
 
@@ -292,7 +294,7 @@ Ad quartum dicendum, quod immissio visibilis divinae personae differt ab apparit
 
 Expositio textus  
 
-****Ad patiendum humor et humus; ad faciendum aer et ignis aptitudinem habent*. Videtur hoc esse falsum: quia in aqua dominatur qualitas activa, scilicet frigidum; et ita videtur magis esse activa quam aer in quo dominatur qualitas passiva, scilicet humidum.***
+*Ad patiendum humor et humus; ad faciendum aer et ignis aptitudinem habent*. Videtur hoc esse falsum: quia in aqua dominatur qualitas activa, scilicet frigidum; et ita videtur magis esse activa quam aer in quo dominatur qualitas passiva, scilicet humidum.  
 
 Et dicendum quod ista objectio procedit, considerata actione et passione secundum qualitates activas et passivas. Sed aliter est, si consideretur secundum formas substantiales quae sunt prima principia actionis; quanto enim aliquid est magis subtile, magis est activum, quia plus habet de forma; et grossum est magis passivum, quia plus habet de materia.  
 

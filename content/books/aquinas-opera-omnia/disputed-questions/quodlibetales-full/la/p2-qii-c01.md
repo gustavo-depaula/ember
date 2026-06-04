@@ -1,5 +1,7 @@
 # On Christ
 
+***Quaestio 1***
+
 ***De Christo***
 
 ***Quaesitum est de Christo, de angelis, de hominibus.***
@@ -40,9 +42,9 @@ Ad secundum dicendum quod similitudo non attenditur ibi quantum ad omnia, sed so
 
 Articulus 2  
 
-***Utrum quaelibet passio Christi suffecisset ad redemptionem humani generis sine morte***
+Utrum quaelibet passio Christi suffecisset ad redemptionem humani generis sine morte  
 
-***Ad secundum sic proceditur. Videtur quod alia passio Christi non sufficisset ad redemptionem humani generis sine morte.***
+Ad secundum sic proceditur. Videtur quod alia passio Christi non sufficisset ad redemptionem humani generis sine morte.  
 
 Dicit enim Apostolus, Galatarum II: *si ex lege* est *iustitia, ergo Christus mortuus est gratis*, id est inutiliter et sine causa; sed si alia passio sufficeret, Christus gratis mortuus esset; sed hoc habet Apostolus pro inconvenienti; ergo alia passio Christi non suffecisset ad redemptionem humani generis.  
 

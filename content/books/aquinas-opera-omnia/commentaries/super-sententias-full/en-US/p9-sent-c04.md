@@ -1,6 +1,8 @@
 # D. 29 - On the impediment of compulsion
 
-***After the Master has shown that consent is the cause of marriage, here he shows what impedes the consent, such that no marriage can be effected. And this is divided into two parts: in the first he examines the impediment of compulsion; in the second, the impediment of error, in Distinction 30, at: *nor is it coercion alone which precludes consent, but also error*.*Sententiae* IV, 30.1 (178). 1.***
+***On the impediment of compulsion***
+
+After the Master has shown that consent is the cause of marriage, here he shows what impedes the consent, such that no marriage can be effected. And this is divided into two parts: in the first he examines the impediment of compulsion; in the second, the impediment of error, in Distinction 30, at: *nor is it coercion alone which precludes consent, but also error*.*Sententiae* IV, 30.1 (178). 1.  
 
 The first is divided into three: in the first part he shows that coercion of consent does not bring about marriage; in the second he shows that if, after the coercion, free consent should come forth, then it will be a valid marriage, at: *and yet, if those who were joined unwilling and coerced should afterwards cohabit for some length of time without objection and complaint, so long as they have had the opportunity to leave or to complain, they are deemed to consent*;*Sent*. IV, 29.1 (177). 3. in the third, how someone may be understood to have consented, where he says: *one who does not manifestly object is deemed to consent*.*Sent*. IV, 29.1 (177). 4.  
 
@@ -19,7 +21,7 @@ first, whether any consent may be compelled;
 
 ***Whether any consent may be compelled***
 
-***Obj. 1: To the first question, we proceed thus.Parallels: *ST* I-II, q. 6, a. 4; *In II Sent.* d. 25, q. 1, a. 2. It seems that no consent can be compelled. For compulsion cannot happen to a free will, no matter what its condition, as was said in Book II, Distinction 25, Question 1, Article 1. But consent is an act of free will. Therefore, it cannot be compelled.***
+Obj. 1: To the first question, we proceed thus.Parallels: *ST* I-II, q. 6, a. 4; *In II Sent.* d. 25, q. 1, a. 2. It seems that no consent can be compelled. For compulsion cannot happen to a free will, no matter what its condition, as was said in Book II, Distinction 25, Question 1, Article 1. But consent is an act of free will. Therefore, it cannot be compelled.  
 
 Obj. 2: Furthermore, violence, which is the same as compulsion, according to the Philosopher, is what has its principle outside, with the one suffering the force contributing nothing.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1 (1110a1–4). But the principle of every consent is within. Therefore, no consent can be compelled.  
 
@@ -39,7 +41,7 @@ Article 2
 
 ***Whether any compulsion could happen to a steadfast man***
 
-***Obj. 1: To the second question, we proceed thus. It seems that the compulsion of grave fear cannot happen to a steadfast man. For someone steadfast is precisely someone who does not quail among dangers. Since, then, grave fear is a trepidation of the mind by reason of imminent danger, it seems that he would not be compelled by grave fear.***
+Obj. 1: To the second question, we proceed thus. It seems that the compulsion of grave fear cannot happen to a steadfast man. For someone steadfast is precisely someone who does not quail among dangers. Since, then, grave fear is a trepidation of the mind by reason of imminent danger, it seems that he would not be compelled by grave fear.  
 
 Obj. 2: Furthermore, *death is the end of all terrifying things*, according to the Philosopher in the *Ethics* 3, as though it were the most complete among terrifying things.See Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 6. But the steadfast are not compelled by death: for a brave man will also undergo the dangers of death. Therefore, no grave fear can happen to a steadfast man.  
 
@@ -71,7 +73,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question, we proceed thus.Parallel: *In III Sent.* d. 39, a. 3, qa. 2, ad 2. It seems that forced consent does not invalidate marriage. For consent is required for marriage just as intention is required for baptism. But someone compelled by fear into receiving baptism does receive the sacrament. Therefore, someone compelled by fear into consenting to marriage is also bound by it.***
+Obj. 1: To the third question, we proceed thus.Parallel: *In III Sent.* d. 39, a. 3, qa. 2, ad 2. It seems that forced consent does not invalidate marriage. For consent is required for marriage just as intention is required for baptism. But someone compelled by fear into receiving baptism does receive the sacrament. Therefore, someone compelled by fear into consenting to marriage is also bound by it.  
 
 Obj. 2: Furthermore, in a case of mixed violence, an action is more voluntary than involuntary, according to the Philosopher.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1. But consent can only be forced by mixed violence. Therefore, it does not entirely exclude the voluntary action; and thus there is still a marriage.  
 
@@ -83,7 +85,7 @@ Furthermore (2), marriage signifies the union of Christ to the Church, which hap
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that forced consent does cause marriage, at least on the part of the one coercing. For marriage is a sign of spiritual union. But spiritual union, which happens through charity, can exist toward someone who does not have charity. Therefore, marriage to someone who does not wish it can also exist.***
+Obj. 1: Moreover, it seems that forced consent does cause marriage, at least on the part of the one coercing. For marriage is a sign of spiritual union. But spiritual union, which happens through charity, can exist toward someone who does not have charity. Therefore, marriage to someone who does not wish it can also exist.  
 
 Obj. 2: Furthermore, if a woman who had been coerced gave her consent afterward, it would be a valid marriage. But then the man who had coerced her in the first place would not be bound by that consent. Therefore, he must have been bound in the marriage by the first consent.  
 
@@ -91,7 +93,7 @@ On the contrary, marriage is an equal-sided relation. But such a relation exists
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that marriage does not come about by conditional consent. For what is placed under a condition is not expressed simply. But in marriage it is necessary that the words be simply expressive of consent. Therefore, any condition laid on consent would fail to bring about a marriage.***
+Obj. 1: Moreover, it seems that marriage does not come about by conditional consent. For what is placed under a condition is not expressed simply. But in marriage it is necessary that the words be simply expressive of consent. Therefore, any condition laid on consent would fail to bring about a marriage.  
 
 Obj. 2: Furthermore, a marriage should be certain. But when something is stated subject to a condition, it is subject to doubt. Therefore, such consent does not cause marriage.  
 
@@ -99,7 +101,7 @@ On the contrary, in other contracts an obligation is undertaken subject to a con
 
 Response to Quaestiuncula 1  
 
-***I answer that, the marriage bond is perpetual, which is why anything opposed to perpetuity invalidates marriage. But fear grave enough to affect a steadfast man removes the perpetuity of the contract, because he can seek restoration to his former condition. For the kind of compulsion from fear that would affect a steadfast man, and no other kind, invalidates marriage. But a steadfast man is considered to be the virtuous man, who is the measure of all human works, as the Philosopher says in the *Ethics* 3, Chapter 9.Many passages in Aristotle’s *Nicomachean Ethics*, Bk. 3 could be cited; good texts are found in ch. 7 as well as ch. 9.***
+I answer that, the marriage bond is perpetual, which is why anything opposed to perpetuity invalidates marriage. But fear grave enough to affect a steadfast man removes the perpetuity of the contract, because he can seek restoration to his former condition. For the kind of compulsion from fear that would affect a steadfast man, and no other kind, invalidates marriage. But a steadfast man is considered to be the virtuous man, who is the measure of all human works, as the Philosopher says in the *Ethics* 3, Chapter 9.Many passages in Aristotle’s *Nicomachean Ethics*, Bk. 3 could be cited; good texts are found in ch. 7 as well as ch. 9.  
 
 Now certain people say that if consent is present, although forced, there is an inner marriage before God, but not as regards one’s state in the Church, because the Church presumes that no interior consent was present due to fear. But this amounts to nothing, for the Church should not presume a sin of anyone until it is proved. But if a person said that he consented when he did not consent, then he has sinned. So the Church presumes that he consented, but it judges this extorted consent insufficient for causing marriage.  
 
@@ -111,7 +113,7 @@ Reply Obj. 3: A person should not always be induced to stay in such a marriage, 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it must be said that marriage is a kind of relation, and a relation cannot arise on one end without arising on the other end as well; so whatever impedes marriage in one, impedes it in the other. For no one can be a husband without a wife, or a wife without a husband, just as no one can be a mother without a child. This is why it is commonly said that marriage cannot limp along on one leg.***
+To the second question, it must be said that marriage is a kind of relation, and a relation cannot arise on one end without arising on the other end as well; so whatever impedes marriage in one, impedes it in the other. For no one can be a husband without a wife, or a wife without a husband, just as no one can be a mother without a child. This is why it is commonly said that marriage cannot limp along on one leg.  
 
 Reply Obj. 1: Although the act of one who loves can go out to someone who does not love, still there cannot be a union between them unless the love is mutual. This is why the Philosopher says in the *Ethics* 8 that friendship, which consists in a certain union, requires love in return.Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 2.  
 
@@ -119,7 +121,7 @@ Reply Obj. 2: A marriage will not arise from the free consent of the one who was
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the condition attached to the consent concerns either the present or the future. If it concerns the present, and it is not contrary to marriage, then whether it be honorable or dishonorable the marriage stands if the condition is fulfilled, and it does not stand if it is not fulfilled. But if it is contrary to the goods of marriage itself, then it does not bring about a marriage, as was also said above regarding betrothals. If the condition concerns the future, either it is a necessary condition, like the sun rising tomorrow, and then there is a marriage, since such future things are already present in their causes. Or else it is a contingent condition, such as the giving of money or the parents’ approval. And then the judgment is the same about this kind of consent as about consent that is given in words speaking of the future, and so it does not cause marriage.***
+To the third question, it should be said that the condition attached to the consent concerns either the present or the future. If it concerns the present, and it is not contrary to marriage, then whether it be honorable or dishonorable the marriage stands if the condition is fulfilled, and it does not stand if it is not fulfilled. But if it is contrary to the goods of marriage itself, then it does not bring about a marriage, as was also said above regarding betrothals. If the condition concerns the future, either it is a necessary condition, like the sun rising tomorrow, and then there is a marriage, since such future things are already present in their causes. Or else it is a contingent condition, such as the giving of money or the parents’ approval. And then the judgment is the same about this kind of consent as about consent that is given in words speaking of the future, and so it does not cause marriage.  
 
 And by this the answers to the objections are clear.  
 
@@ -127,7 +129,7 @@ Article 4
 
 ***Whether someone can be compelled by his father to contract marriage***
 
-***Obj. 1: To the fourth question, we proceed thus.Parallel: *ST* II-II, q. 104, a. 5. It seems that someone can be compelled to contract marriage by his father’s command, for Colossians 3:20 states: *children, obey your parents in all things*. Therefore, they are also bound to obey them in this matter.***
+Obj. 1: To the fourth question, we proceed thus.Parallel: *ST* II-II, q. 104, a. 5. It seems that someone can be compelled to contract marriage by his father’s command, for Colossians 3:20 states: *children, obey your parents in all things*. Therefore, they are also bound to obey them in this matter.  
 
 Obj. 2: Furthermore, in Genesis 28, Isaac commanded Jacob that he not take a wife from among the daughters of Canaan. But he would only have commanded if, by law, he were able to command. Therefore, a son is bound to obey his father in this matter.  
 
@@ -151,6 +153,6 @@ Reply Obj. 4: Some people say that the Pope cannot command someone to accept the
 
 Exposition of the Text  
 
-****The legates of Prince Jordan have reported*.*Sententiae* IV, 29.1 (177). 2. It seems that a marriage cannot be accomplished through intermediaries, for if before the arrival of the messenger, one of the parties should change his mind, there would be no marriage. And it must be said that someone can establish another as his proxy for the purpose of consenting: nevertheless, if before the consent is signified he should change his mind about consenting, it is not a marriage, neither in the truth of the matter, nor according to the judgment of the Church—if by some signs he should appear to have changed his mind. But from the time that consent is given through intermediaries, the marriage holds as if he himself had done it.***
+*The legates of Prince Jordan have reported*.*Sententiae* IV, 29.1 (177). 2. It seems that a marriage cannot be accomplished through intermediaries, for if before the arrival of the messenger, one of the parties should change his mind, there would be no marriage. And it must be said that someone can establish another as his proxy for the purpose of consenting: nevertheless, if before the consent is signified he should change his mind about consenting, it is not a marriage, neither in the truth of the matter, nor according to the judgment of the Church—if by some signs he should appear to have changed his mind. But from the time that consent is given through intermediaries, the marriage holds as if he himself had done it.  
 
 *One who does not manifestly object is deemed to consent*.*Sent*. IV, 29.1 (177). 4. This is understood as to the forum of the Church: for as to the forum of conscience, if internally he should dissent although externally he does not make any protest, there is no marriage.

@@ -1,5 +1,7 @@
 # Chapter 18
 
+***^18:1^ Væ terræ cymbalo alarum, quæ est trans flumina Æthiopiæ,***
+
 > ^18:2^ qui mittit in mare legatos et in vasis papyri super aquas. Ite angeli veloces ad gentem convulsam et dilaceratam, ad populum terribilem post quem non est alius, gentem exspectantem, exspectantem et conculcatam, cujus diripuerunt flumina terram ejus, ad montem nominis Domini exercituum montem Sion.
 
 > ^18:3^ Omnes habitatores orbis qui moramini in terra, cum elevatum fuerit signum in montibus videbitis et clangorem tubæ audietis.

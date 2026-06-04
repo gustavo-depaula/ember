@@ -1,6 +1,8 @@
 # D. 50 - Separated souls and the damned
 
-***After the Master has considered the glory of the saints after the general judgment, here he considers the punishments of the wicked. And it is divided into two parts. In the first, he pursues the issue at hand. In the second, he lays out the epilogue of the whole work: *it suffices . . . to have remembered these things concerning the feet of the One who sits upon a high throne*.***
+***Separated souls and the damned***
+
+After the Master has considered the glory of the saints after the general judgment, here he considers the punishments of the wicked. And it is divided into two parts. In the first, he pursues the issue at hand. In the second, he lays out the epilogue of the whole work: *it suffices . . . to have remembered these things concerning the feet of the One who sits upon a high throne*.  
 
 The first part is divided into two parts. In the first, he considers punishments of the damned as regards their effect. In the second, he determines their punishments as regards knowledge or intellect: *here it may be asked why that darkness, by which the wicked will be surrounded in hell, is called outer*.*Sententiae* IV, 50.2 (285). 1 citing Mt. 8, 12.  
 
@@ -30,7 +32,7 @@ Article 1
 
 ***Whether the soul can understand anything when separated from the body***
 
-***Obj. 1: To the first question, we proceed thus.Parallel: *ST* I, q. 89, a. 1; *ST* I-II, q. 67, a. 2; *In III Sent.* d. 31, q. 2, a. 4; *De veritate,* q. 19, a. 1; *SCG* II, ch. 81; *De anima*, a. 15; *Quodl.* III, q. 9, a. 1. It seems that the soul can understand nothing when separated from the body. For, as the Philosopher says in *On the Soul* 1,Aristotle, *On the Soul*, Bk. 1, ch. 4, 408b18–31. when something internal is corrupted it puts an end to understanding and contemplating. But what is internal on the part of the body is corrupted by death. Therefore, after death the soul cannot understand or contemplate anything.***
+Obj. 1: To the first question, we proceed thus.Parallel: *ST* I, q. 89, a. 1; *ST* I-II, q. 67, a. 2; *In III Sent.* d. 31, q. 2, a. 4; *De veritate,* q. 19, a. 1; *SCG* II, ch. 81; *De anima*, a. 15; *Quodl.* III, q. 9, a. 1. It seems that the soul can understand nothing when separated from the body. For, as the Philosopher says in *On the Soul* 1,Aristotle, *On the Soul*, Bk. 1, ch. 4, 408b18–31. when something internal is corrupted it puts an end to understanding and contemplating. But what is internal on the part of the body is corrupted by death. Therefore, after death the soul cannot understand or contemplate anything.  
 
 Obj. 2: No action common to the body and the soul can remain in the soul when the body is corrupted. But understanding is an action common to body and soul, as are weaving and building, as is clear in *On the Soul* 1.Ibid., 408b12–18. Therefore, when the body is corrupted the soul cannot understand.  
 
@@ -76,9 +78,9 @@ Reply Obj. 7: From the fact that the soul was perfect in the body of the knower 
 
 Article 2  
 
-***Whether it can understand through the species that it received from the senses when it was joined to the body***
+Whether it can understand through the species that it received from the senses when it was joined to the body  
 
-***Obj. 1: To the second question, we proceed thus.Parallels: *ST* I, q. 89, a. 6; *ST* I-II, q. 67, a. 2; *In III Sent.* d. 31, q. 2, a. 4. It seems that the soul, after separation, will not understand anything through the species that it now abstracts from the body. For such species will have the same character in the separated soul as they have now. But now the soul cannot understand through them without phantasms, as is clear from the fact that if the organ of the imagination is harmed, the soul is impeded in the consideration of things that it previously received from the senses. Therefore, neither will the separated soul be able to understand through these species, since there will be no phantasms in it.***
+Obj. 1: To the second question, we proceed thus.Parallels: *ST* I, q. 89, a. 6; *ST* I-II, q. 67, a. 2; *In III Sent.* d. 31, q. 2, a. 4. It seems that the soul, after separation, will not understand anything through the species that it now abstracts from the body. For such species will have the same character in the separated soul as they have now. But now the soul cannot understand through them without phantasms, as is clear from the fact that if the organ of the imagination is harmed, the soul is impeded in the consideration of things that it previously received from the senses. Therefore, neither will the separated soul be able to understand through these species, since there will be no phantasms in it.  
 
 Obj. 2: Similar habits are left by similar acts. But we now acquire habits of knowledge from the act of understanding by which the soul abstracts from phantasms. Therefore, a habit of acquired knowledge only inclines to similar acts. Therefore since in the separated soul there cannot be an act of understanding of this sort, namely by receiving from phantasms, it seems that the separated soul cannot understand anything through knowledge acquired here or through species received from the senses here.  
 
@@ -120,7 +122,7 @@ Article 3
 
 ***Whether the separated soul knows singulars***
 
-***Obj. 1: To the third question, we proceed thus.Parallels: *ST* I, q. 89, a. 4; *De veritate*, q. 19, a. 2; *De anima,* a. 20. It seems that the separated soul does not know singulars.This term could also be rendered “particular things” or “individuals.” For the separated soul will not use the sensitive powers. But singulars are only known by the soul through the sensitive powers, since a singular is a given thing when it is sensed, as Boethius says.Boethius, *On the Categories of Aristotle* (PL 64), Bk. 1, ‘substance.’ Therefore, the separated soul will not know singulars.***
+Obj. 1: To the third question, we proceed thus.Parallels: *ST* I, q. 89, a. 4; *De veritate*, q. 19, a. 2; *De anima,* a. 20. It seems that the separated soul does not know singulars.This term could also be rendered “particular things” or “individuals.” For the separated soul will not use the sensitive powers. But singulars are only known by the soul through the sensitive powers, since a singular is a given thing when it is sensed, as Boethius says.Boethius, *On the Categories of Aristotle* (PL 64), Bk. 1, ‘substance.’ Therefore, the separated soul will not know singulars.  
 
 Obj. 2: The separated soul’s intellect will be more withdrawn from matter than the intellect of the soul joined to the body. But the soul joined to the body cannot know singulars with the intellect due to the intellect’s immateriality. Therefore, neither will it know them when separated from the body.  
 
@@ -160,7 +162,7 @@ Article 4
 
 ***Whether local distance impedes its knowledge***
 
-***Obj. 1: To the fourth question, we proceed thus.Parallel: *ST* I, q. 89, a. 7. It seems that local distance impedes the separated soul’s knowledge. For the soul as it exists here knows what is going on here. But when existing in the dwelling place due to it it does not know what is going on here. Hence Augustine says in *On the Care to be Taken of the Dead*: *the souls of the departed are where they cannot know what is going on here*.Augustine, *On the Care to be Taken for the Dead* (CSEL 41), ch. 13. Therefore, local distance impedes the separated soul’s knowledge.***
+Obj. 1: To the fourth question, we proceed thus.Parallel: *ST* I, q. 89, a. 7. It seems that local distance impedes the separated soul’s knowledge. For the soul as it exists here knows what is going on here. But when existing in the dwelling place due to it it does not know what is going on here. Hence Augustine says in *On the Care to be Taken of the Dead*: *the souls of the departed are where they cannot know what is going on here*.Augustine, *On the Care to be Taken for the Dead* (CSEL 41), ch. 13. Therefore, local distance impedes the separated soul’s knowledge.  
 
 Obj. 2: The natural knowledge of the separated soul is not greater than a demon’s natural knowledge. But demons do not know what is absent by natural knowledge. Hence Augustine says in *On the Divination of Demons*: *they also rapidly bear to us what is happening elsewhere by the swiftness of their motion such that they seem, as it were, to predict what we will know later on when human beings announce it*.Augustine, *On the Divination of Demons* (CSEL 41), chs. 3 and 5. But this swiftness of motion would be for nothing if they could know what is absent when they are here with us. Therefore, the separated soul does not know what is absent. And so its knowledge is impeded by local distance.  
 
@@ -194,7 +196,7 @@ Question 2
 
 ***The punishments of the damned***
 
-***Next, we must inquire about the punishments of the damned; and here four questions arise:***
+Next, we must inquire about the punishments of the damned; and here four questions arise:  
 
 first, concerning their punishments as regards their effect;  
 
@@ -207,7 +209,7 @@ first, concerning their punishments as regards their effect;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question, we proceed thus.Parallels: *ST* I, q. 64, a. 2; *ST* I-II, q. 85, a. 2, ad 3; *In II Sent*. d. 7, q. 1, a. 2; *SCG* IV, ch. 93; *De anima*, a. 17, ad 7; *Comp. theo*. 174; *De veritate*, q. 24, a. 10; *De malo*, q. 16, a. 5. It seems that not everything the damned will is evil. For, as Dionysius says in *On the Divine Names* 4,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 23, PG 3:726. the demons desire the goods, even the great goods, of being, living, and understanding. Since, then, damned men are not in a worse condition than demons, it seems that they, too, can have a good will.***
+Obj. 1: To the first question, we proceed thus.Parallels: *ST* I, q. 64, a. 2; *ST* I-II, q. 85, a. 2, ad 3; *In II Sent*. d. 7, q. 1, a. 2; *SCG* IV, ch. 93; *De anima*, a. 17, ad 7; *Comp. theo*. 174; *De veritate*, q. 24, a. 10; *De malo*, q. 16, a. 5. It seems that not everything the damned will is evil. For, as Dionysius says in *On the Divine Names* 4,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 23, PG 3:726. the demons desire the goods, even the great goods, of being, living, and understanding. Since, then, damned men are not in a worse condition than demons, it seems that they, too, can have a good will.  
 
 Obj. 2: Evil, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 4, nn. 31–32, PG 3:731. is altogether involuntary. Therefore, if the damned will anything, they will it as good or as apparent good. But the will that is, in itself, ordered to the good is good. Therefore, the damned can have a good will.  
 
@@ -219,7 +221,7 @@ Furthermore (2), as the will of the blessed is to the good, the will of the damn
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the damned never repent of the evils they have done.Parallels: *ST* II-II, q. 13, a. 4; *ST* III, q. 86, a. 1; *In IV Sent*. d. 14, q. 1, a. 3, qa. 4; *Super Heb*. 12, lec. 3; *Comp. theo*. 175. For BernardBernard of Clairvaux, *Sermons on the Song of Songs* (*Bernardi Opera*, vol. 1, ed. Leclercq et al.), Sermon 35. says in *On the Song of Songs* that one who is damned always wills the iniquity he has done. Therefore, he never repents of the sin he committed.***
+Obj. 1: Moreover, it seems that the damned never repent of the evils they have done.Parallels: *ST* II-II, q. 13, a. 4; *ST* III, q. 86, a. 1; *In IV Sent*. d. 14, q. 1, a. 3, qa. 4; *Super Heb*. 12, lec. 3; *Comp. theo*. 175. For BernardBernard of Clairvaux, *Sermons on the Song of Songs* (*Bernardi Opera*, vol. 1, ed. Leclercq et al.), Sermon 35. says in *On the Song of Songs* that one who is damned always wills the iniquity he has done. Therefore, he never repents of the sin he committed.  
 
 Obj. 2: To will oneself not to have sinned is a good will. But the damned will not have a good will. Therefore, the damned will never will that they had not sinned. And so it follows the same as before.  
 
@@ -233,7 +235,7 @@ Furthermore (2), the Philosopher says in the *Ethics* 9Aristotle, *Nicomachean E
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the damned cannot will their own non-existence with a right and deliberative reason.Parallels: *ST* I, q. 5, a. 2, ad 3; *De veritate*, q. 22, a. 1, ad 7; *Super Matt*. 26. For Augustine says in *On Free Choice of the Will*: *consider how great a good being is, which both the blessed and the wretched will. For it is better to be and to be wretched than not to be at all*.Augustine, *On Free Choice of the Will* (CCSL 29), Bk. 3, ch. 7.***
+Obj. 1: Moreover, it seems that the damned cannot will their own non-existence with a right and deliberative reason.Parallels: *ST* I, q. 5, a. 2, ad 3; *De veritate*, q. 22, a. 1, ad 7; *Super Matt*. 26. For Augustine says in *On Free Choice of the Will*: *consider how great a good being is, which both the blessed and the wretched will. For it is better to be and to be wretched than not to be at all*.Augustine, *On Free Choice of the Will* (CCSL 29), Bk. 3, ch. 7.  
 
 Obj. 2: In the same place AugustineIbid., ch. 8. argued as follows. Preference supposes choice. But non-being cannot be chosen, since it does not have the appearance of good, since it is nothing. Therefore, non-being cannot be more desirable to the damned than being.  
 
@@ -245,7 +247,7 @@ Furthermore (2), the misery of the damned surpasses all the misery of this world
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the damned in hell would not wish for others who are not damned to be damned.Parallel: *Quodl*. VIII, q. 7, a. 2. For it is said of the rich man that he prayed for his brothers that they might not come to the place of torments (Lk 16:28). For the same reason, therefore, other damned persons would at least not wish that their friends in the flesh be damned.***
+Obj. 1: Moreover, it seems that the damned in hell would not wish for others who are not damned to be damned.Parallel: *Quodl*. VIII, q. 7, a. 2. For it is said of the rich man that he prayed for his brothers that they might not come to the place of torments (Lk 16:28). For the same reason, therefore, other damned persons would at least not wish that their friends in the flesh be damned.  
 
 Obj. 2: Disordered affections are not taken away from the damned. But some who are damned inordinately loved others who are not damned. Therefore, they would not wish evil on them, which is what being damned would be.  
 
@@ -257,7 +259,7 @@ Furthermore (2), envy reigns supreme among the damned. Therefore, they are paine
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that the damned do not hate God.Parallels: *ST* I, q. 60, a. 5, ad 5; *ST* II-II, q. 34, a. 1; *De veritate*, q. 22, a. 2, ad 3. For, as Dionysius says in *On the Divine Names* 4,Pseudo-Dionysius, *On the Divine Names*, ch. 4, PG 3:725. the good and the beautiful, which causes all good and beauty, is lovable to all. Now this is God. Therefore, he cannot be hated by anyone.***
+Obj. 1: Moreover, it seems that the damned do not hate God.Parallels: *ST* I, q. 60, a. 5, ad 5; *ST* II-II, q. 34, a. 1; *De veritate*, q. 22, a. 2, ad 3. For, as Dionysius says in *On the Divine Names* 4,Pseudo-Dionysius, *On the Divine Names*, ch. 4, PG 3:725. the good and the beautiful, which causes all good and beauty, is lovable to all. Now this is God. Therefore, he cannot be hated by anyone.  
 
 Obj. 2: No one can hate goodness itself, just as no one can will evilness itself. For evil is altogether unable to be willed, as Dionysius says in *On the Divine Names* 4.Pseudo-Dionysius, *On the Divine Names*, ch. 4, PG 3:732. But God is goodness itself. Therefore, no one can hate God.  
 
@@ -265,7 +267,7 @@ On the contrary, it is said: *the pride of them that hate thee ascendeth continu
 
 Quaestiuncula 6  
 
-***Obj. 1: Moreover, it seems that the damned demerit.Parallels: *ST* II-II, q. 13, a. 4, ad 2; *In I Sent*. d. 48, a. 3, ad 2. For the damned have an evil will, as it says in the text. But by the evil will they had here they demerited. Therefore, if they did not demerit there, then they would gain an advantage from their damnation.***
+Obj. 1: Moreover, it seems that the damned demerit.Parallels: *ST* II-II, q. 13, a. 4, ad 2; *In I Sent*. d. 48, a. 3, ad 2. For the damned have an evil will, as it says in the text. But by the evil will they had here they demerited. Therefore, if they did not demerit there, then they would gain an advantage from their damnation.  
 
 Obj. 2: The damned are in the same condition as the demons. But the demons demerit after their fall; for example, God inflicted a punishment on the serpent who induced man to sin, as is said in Gen 3:14–15. Therefore, the damned also demerit.  
 
@@ -277,7 +279,7 @@ Furthermore (2), after the final terminus no motion or progress in good or in ev
 
 Response to Quaestiuncula 1  
 
-***I answer that, we can consider two kinds of will in the damned: deliberative will and natural will. They do not have a natural will from themselves but from the author of nature, who has placed in nature the inclination that is called natural will. For this reason, since nature remains in them, in this respect the natural will in them can be good. But they have deliberative will from themselves, inasmuch as it is in their power to be inclined through an affection toward this or that. And this kind of will in them is only evil, because they are perfectly turned away from the last end of an upright will, and a will can only be good by being ordered to this end. Therefore, even if they will something good, they do not will this good well, such that their will can thereby be called good.***
+I answer that, we can consider two kinds of will in the damned: deliberative will and natural will. They do not have a natural will from themselves but from the author of nature, who has placed in nature the inclination that is called natural will. For this reason, since nature remains in them, in this respect the natural will in them can be good. But they have deliberative will from themselves, inasmuch as it is in their power to be inclined through an affection toward this or that. And this kind of will in them is only evil, because they are perfectly turned away from the last end of an upright will, and a will can only be good by being ordered to this end. Therefore, even if they will something good, they do not will this good well, such that their will can thereby be called good.  
 
 Reply Obj. 1: Dionysius’s statement is understood of natural will, which is the inclination of nature to some good. But even so, this natural inclination is corrupted by their malice inasmuch as they desire this good, which they naturally desire, under certain evil circumstances.  
 
@@ -287,7 +289,7 @@ Reply Obj. 3: The habits of the political virtues do not remain in the separated
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a person can repent of sin in two ways: in one way *per se*, in the other way accidentally. One repents of sin *per se* who finds sin precisely as sin abhorrent, whereas one repents of sin accidentally who hates it by reason of something connected to it, such as punishment or some other such thing. The wicked, therefore, will not repent of their sins, speaking *per se*, since the will of sin’s malice remains in them. They will, however, repent accidentally, inasmuch as they will be afflicted by the punishment they bear for sin.***
+To the second question, it should be said that a person can repent of sin in two ways: in one way *per se*, in the other way accidentally. One repents of sin *per se* who finds sin precisely as sin abhorrent, whereas one repents of sin accidentally who hates it by reason of something connected to it, such as punishment or some other such thing. The wicked, therefore, will not repent of their sins, speaking *per se*, since the will of sin’s malice remains in them. They will, however, repent accidentally, inasmuch as they will be afflicted by the punishment they bear for sin.  
 
 Reply Obj. 1: The damned desire iniquity but flee punishment, and in this way they repent accidentally for the iniquity they have committed.  
 
@@ -299,7 +301,7 @@ Reply Obj. 4: In this world men, no matter how obstinate, repent of their sins a
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that non-being can be considered in two ways. In one way, it can be considered in itself. And in this way it can in no way be desirable, since it does not have any character of the good but is, rather, a pure privation of the good. In the other way, it can be considered inasmuch as it is something that takes away punishment or life’s misery, and in this way non-being takes on the character of a good. For *to lack evil is a kind of good*, as the Philosopher says in the *Ethics* 5.Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 1, 1129b8–9. And in this way it is better for the damned not to be than to be wretched. This is why Matthew 26:24 says: *it would have been better for that man if he had not been born*. And, commenting on Jeremiah 20:14: *cursed be the day on which I was born*, Jerome’s Gloss says: *it is better for someone not to exist than to exist in an evil way*. And in this regard the damned can prefer non-being in accord with deliberative reason.***
+To the third question, it should be said that non-being can be considered in two ways. In one way, it can be considered in itself. And in this way it can in no way be desirable, since it does not have any character of the good but is, rather, a pure privation of the good. In the other way, it can be considered inasmuch as it is something that takes away punishment or life’s misery, and in this way non-being takes on the character of a good. For *to lack evil is a kind of good*, as the Philosopher says in the *Ethics* 5.Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 1, 1129b8–9. And in this way it is better for the damned not to be than to be wretched. This is why Matthew 26:24 says: *it would have been better for that man if he had not been born*. And, commenting on Jeremiah 20:14: *cursed be the day on which I was born*, Jerome’s Gloss says: *it is better for someone not to exist than to exist in an evil way*. And in this regard the damned can prefer non-being in accord with deliberative reason.  
 
 Reply Obj. 1: Augustine’s statement should be understood as meaning that non-being is not capable of being chosen for itself, but it can be chosen accidentally, namely, inasmuch as it puts an end to misery. For the statement that being and living are naturally desired by everyone need not be taken as regards an evil and corrupt life or one that is enveloped in sorrows, as the Philosopher says in the *Ethics* 9.Aristotle, *Nicomachean Ethics*, Bk. 9, ch. 4, 1166b2ff., as well as ch. 9.  
 
@@ -309,7 +311,7 @@ Reply Obj. 3: Non-being, though it is most evil inasmuch as it deprives one of b
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that just as in heaven there will be the most perfect charity in the blessed, so also there will be the most perfect hatred in the damned. Hence just as the saints will rejoice at all goods, so also the wicked will be pained at all goods. And so, too, when they consider the saints’ happiness it will afflict them most of all; thus it is said: *let the envious peoples see and be ashamed, and let fire consume thy adversaries* (Is 26:11). Therefore, they would wish for all the good to be damned.***
+To the fourth question, it should be said that just as in heaven there will be the most perfect charity in the blessed, so also there will be the most perfect hatred in the damned. Hence just as the saints will rejoice at all goods, so also the wicked will be pained at all goods. And so, too, when they consider the saints’ happiness it will afflict them most of all; thus it is said: *let the envious peoples see and be ashamed, and let fire consume thy adversaries* (Is 26:11). Therefore, they would wish for all the good to be damned.  
 
 Reply Obj. 1: There will be such great envy in the damned that they will envy the glory even of their relatives, since they are in utmost misery themselves, for this is what happens even in this life when envy grows. But even so, they will envy their relatives less than others. And their punishment would be greater if all their relatives were damned and others saved than if some of their relatives were saved. And so it was that the rich man begged for his brothers to be rescued from damnation, for he knew that some people would be so rescued. Still, he would have preferred his brothers to be damned with all the rest.  
 
@@ -319,7 +321,7 @@ Reply Obj. 3: Even though the punishment of individuals increases on the basis o
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that the affections are moved by good or evil as apprehended. Now God is apprehended in two ways: in himself, as the blessed apprehend him, since they see him in his essence; and through his effects, as we and the damned apprehend him. Therefore, since he is goodness in his essence, he cannot be displeasing to any will in himself. For this reason, anyone who saw him in his essence could not hate him. But some of his effects are repugnant to the will inasmuch as they are contrary to something it wills. And in this regard someone can hate God, not in himself but by reason of his effects. Therefore, the damned, perceiving God in the effect of his justice, which is punishment, hate him as they hate the punishments they bear.***
+To the fifth question, it should be said that the affections are moved by good or evil as apprehended. Now God is apprehended in two ways: in himself, as the blessed apprehend him, since they see him in his essence; and through his effects, as we and the damned apprehend him. Therefore, since he is goodness in his essence, he cannot be displeasing to any will in himself. For this reason, anyone who saw him in his essence could not hate him. But some of his effects are repugnant to the will inasmuch as they are contrary to something it wills. And in this regard someone can hate God, not in himself but by reason of his effects. Therefore, the damned, perceiving God in the effect of his justice, which is punishment, hate him as they hate the punishments they bear.  
 
 Reply Obj. 1: Dionysius’s statement should be understood of natural appetite, though in the damned this is perverted through what is added by deliberate will, as has been said.  
 
@@ -327,7 +329,7 @@ Reply Obj. 2: This argument would proceed if the damned perceived God in himself
 
 Response to Quaestiuncula 6  
 
-***To the sixth question, it should be said that we must distinguish between the damned before the day of judgment and the damned after the day of judgment. For all commonly confess that after the day of judgment there will be no merit or demerit. And this is the case because merit or demerit is ordered to a good or evil to be obtained later on, but after the day of judgment the final consummation of goods and evils will arrive, such that there will be nothing of good or evil to add. Hence the good will in the blessed will not be merit but reward, and the evil will in the damned will not be demerit but only punishment. For the activities of virtue exist especially in happiness, and their contraries exist especially in misery, as it says in the *Ethics* 1.Aristotle, *Nicomachean Ethics*, Bk. 1, ch. 10, 1100b9–21. But before the day of judgment some say both that the blessed merit and that the damned demerit. But this cannot be with respect to the essential reward or the principal punishment, since in this regard both groups have arrived at the terminus. It can, however, be the case with respect to accidental reward or secondary punishment, which can be increased up till the day of judgment. And this is especially the case in the demons or the good angels, by whose intervention some are drawn to salvation, from which the good angels’ joy grows, or to damnation, from which the demons’ punishment grows.***
+To the sixth question, it should be said that we must distinguish between the damned before the day of judgment and the damned after the day of judgment. For all commonly confess that after the day of judgment there will be no merit or demerit. And this is the case because merit or demerit is ordered to a good or evil to be obtained later on, but after the day of judgment the final consummation of goods and evils will arrive, such that there will be nothing of good or evil to add. Hence the good will in the blessed will not be merit but reward, and the evil will in the damned will not be demerit but only punishment. For the activities of virtue exist especially in happiness, and their contraries exist especially in misery, as it says in the *Ethics* 1.Aristotle, *Nicomachean Ethics*, Bk. 1, ch. 10, 1100b9–21. But before the day of judgment some say both that the blessed merit and that the damned demerit. But this cannot be with respect to the essential reward or the principal punishment, since in this regard both groups have arrived at the terminus. It can, however, be the case with respect to accidental reward or secondary punishment, which can be increased up till the day of judgment. And this is especially the case in the demons or the good angels, by whose intervention some are drawn to salvation, from which the good angels’ joy grows, or to damnation, from which the demons’ punishment grows.  
 
 Reply Obj. 1: To have reached the height of evils is the supreme disadvantage, which is the reason why the damned cannot demerit. Hence it is clear that they gain no advantage from sin.  
 
@@ -341,7 +343,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question, we proceed thus. It seems that the damned cannot use knowledge that they possessed in this world. For there is the greatest delight in the consideration of knowledge. But we cannot suppose any delight in them. Therefore, they cannot use knowledge previously possessed according to any consideration.*Notitia* and *scientia* appear to be treated interchangeably in this objection.***
+Obj. 1: To the second question, we proceed thus. It seems that the damned cannot use knowledge that they possessed in this world. For there is the greatest delight in the consideration of knowledge. But we cannot suppose any delight in them. Therefore, they cannot use knowledge previously possessed according to any consideration.*Notitia* and *scientia* appear to be treated interchangeably in this objection.  
 
 Obj. 2: The damned are enveloped in punishments greater than any of this world’s punishments. But in this world when someone is enveloped in the greatest torments he cannot consider any intelligible conclusions, abstracting himself from the punishments he is suffering. Therefore, much less will this be the case in hell.  
 
@@ -353,7 +355,7 @@ Furthermore (2), the intelligible species remain in the separated soul, as said 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that they will sometimes think about God. For only what is thought about can be actually hated. But the damned will hate God, as it says in the text. Therefore, they will think about God sometimes.***
+Obj. 1: Moreover, it seems that they will sometimes think about God. For only what is thought about can be actually hated. But the damned will hate God, as it says in the text. Therefore, they will think about God sometimes.  
 
 Obj. 2: The damned will have remorse of conscience. But conscience suffers remorse for acts against God. Therefore, they will think about God sometimes.  
 
@@ -361,7 +363,7 @@ On the contrary, the most perfect thought of a man is that by which he thinks ab
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the damned do not see the glory of the blessed.Parallel: *Quodl*. VIII, q. 7, a. 1. For the glory of the blessed is more distant from them than what goes on in this world. But they do not see what goes on concerning us. Therefore, commenting on Job 14:21: *his sons come to honor, and he does not know it*, Gregory in *Moralia* 12 says: *just as those who are still alive are ignorant of the place where the souls of the dead are, so also the dead who lived in the flesh are ignorant of how the life of those in the flesh is carried out after them*.Gregory the Great, *Moralia in Iob* (CCSL 143A), Bk. 12, par. 21. Therefore, much less can they see the glory of the blessed.***
+Obj. 1: Moreover, it seems that the damned do not see the glory of the blessed.Parallel: *Quodl*. VIII, q. 7, a. 1. For the glory of the blessed is more distant from them than what goes on in this world. But they do not see what goes on concerning us. Therefore, commenting on Job 14:21: *his sons come to honor, and he does not know it*, Gregory in *Moralia* 12 says: *just as those who are still alive are ignorant of the place where the souls of the dead are, so also the dead who lived in the flesh are ignorant of how the life of those in the flesh is carried out after them*.Gregory the Great, *Moralia in Iob* (CCSL 143A), Bk. 12, par. 21. Therefore, much less can they see the glory of the blessed.  
 
 Obj. 2: What is granted to the saints in this life as a great gift is never granted to the damned. But to Paul it was granted as a great gift that he should see the life wherein the saints eternally live with God, as it is said in a Gloss on 1 Corinthians 12. Therefore, the damned will not see the glory of the saints.  
 
@@ -369,7 +371,7 @@ On the contrary, it is said (Luke 16:23) that the rich man in torments saw Abrah
 
 Response to Quaestiuncula 1  
 
-***I answer that, just as there will be nothing that is not matter for joy among the saints on account of their perfect beatitude, so also there will be nothing among the damned that will not be for them the matter and cause for sorrow. Nor will anything that can pertain to sorrow be lacking, so that their misery will be consummate. Therefore, the consideration of certain things known introduces joy in some respect, either on the part of the knowable objects inasmuch as they are loved, or on the part of the knowledge itself inasmuch as it is fitting and perfect. There can also be reason for sorrow both on the part of knowable objects that are such as to sadden one, and on the part of the knowledge itself, insofar as its imperfection is considered. This happens, for example, when someone considers the fact that he falls short in the knowledge of some thing whose perfection he would desire. Therefore, in this way there will be in the damned the actual consideration of the things they previously knew as the matter of sorrow, not as the cause of delight. For they will consider both the evils they did, for which they were damned, and the goods they loved and have lost. And they will be tortured by both. Likewise, too, they will be tortured by the fact that they will consider that the knowledge that they had of speculative matters is imperfect and that they have lost the utmost perfection of it which they could have acquired.***
+I answer that, just as there will be nothing that is not matter for joy among the saints on account of their perfect beatitude, so also there will be nothing among the damned that will not be for them the matter and cause for sorrow. Nor will anything that can pertain to sorrow be lacking, so that their misery will be consummate. Therefore, the consideration of certain things known introduces joy in some respect, either on the part of the knowable objects inasmuch as they are loved, or on the part of the knowledge itself inasmuch as it is fitting and perfect. There can also be reason for sorrow both on the part of knowable objects that are such as to sadden one, and on the part of the knowledge itself, insofar as its imperfection is considered. This happens, for example, when someone considers the fact that he falls short in the knowledge of some thing whose perfection he would desire. Therefore, in this way there will be in the damned the actual consideration of the things they previously knew as the matter of sorrow, not as the cause of delight. For they will consider both the evils they did, for which they were damned, and the goods they loved and have lost. And they will be tortured by both. Likewise, too, they will be tortured by the fact that they will consider that the knowledge that they had of speculative matters is imperfect and that they have lost the utmost perfection of it which they could have acquired.  
 
 Reply Obj. 1: Even though the consideration of knowledge is delightful in itself, it can be the cause of sorrow for an incidental reason, as has been said, and this is how it will be in the damned.  
 
@@ -379,7 +381,7 @@ Reply Obj. 3: Time is the cause of forgetfulness accidentally inasmuch as motion
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that God can be considered in two ways. In one way, he can be considered in himself and according to what is proper to him, namely, to be the principle of all goodness. And in this way he is not able to be thought of without delight; and therefore the damned will not think about him at all. In the other way, he can be considered with respect to what is, as it were, accidental to him in his effects, such as, to punish or something like that. And in this regard consideration of him can lead to sorrow. This is the way in which the damned will think about him.***
+To the second question, it should be said that God can be considered in two ways. In one way, he can be considered in himself and according to what is proper to him, namely, to be the principle of all goodness. And in this way he is not able to be thought of without delight; and therefore the damned will not think about him at all. In the other way, he can be considered with respect to what is, as it were, accidental to him in his effects, such as, to punish or something like that. And in this regard consideration of him can lead to sorrow. This is the way in which the damned will think about him.  
 
 Reply Obj. 1: The damned, as has been said, only hate God by reason of his punishing and forbidding, which does not agree with their evil will. Therefore, they will only consider him as someone who punishes and forbids.  
 
@@ -387,7 +389,7 @@ And in this way the solution of the second objection is clear, since conscience 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that as it says in the text, before the day of judgment the damned will see the blessed in glory, not in such a way that they will know their glory as it is, but only that they will know the blessed are in some kind of inestimable glory. And this fact will trouble them, both because of envy, since they are saddened at the happiness of the good, and because they have lost such glory. Hence it is said of the impious: *when they see him, they will be shaken with dreadful fear* (Wis 5:2). But after the day of judgment they will be altogether deprived of seeing the blessed. Nor will this lessen their punishment but will, rather, increase it. For they will possess the memory of the blessed’s glory that they saw at the judgment or before the judgment. And this will be a torment for them. But, afterwards, they will be afflicted in that they will see that they are reckoned as unworthy even to see the glory that the saints merit to possess.***
+To the third question, it should be said that as it says in the text, before the day of judgment the damned will see the blessed in glory, not in such a way that they will know their glory as it is, but only that they will know the blessed are in some kind of inestimable glory. And this fact will trouble them, both because of envy, since they are saddened at the happiness of the good, and because they have lost such glory. Hence it is said of the impious: *when they see him, they will be shaken with dreadful fear* (Wis 5:2). But after the day of judgment they will be altogether deprived of seeing the blessed. Nor will this lessen their punishment but will, rather, increase it. For they will possess the memory of the blessed’s glory that they saw at the judgment or before the judgment. And this will be a torment for them. But, afterwards, they will be afflicted in that they will see that they are reckoned as unworthy even to see the glory that the saints merit to possess.  
 
 Reply Obj. 1: What goes on in this life would not afflict the damned if it were seen as does the perception of the glory of the saints. Hence what happening here is not shown to the damned, as is the saints’ glory, although even of the things that go on here what can increase their sorrow is shown to them.  
 
@@ -399,7 +401,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question, we proceed thus.Parallels: *In IV Sent*. d. 21, q. 1, a. 1, qa. 2, ad 2; *Quodl*. VIII, q. 8; *De anima*, a. 21, ad 18. It seems that the damned in hell are afflicted only with the punishment of fire. For in Matthew 25:41, to express their damnation mention is made only of fire, when it is said: *depart from me, you cursed, into the eternal fire*.***
+Obj. 1: To the third question, we proceed thus.Parallels: *In IV Sent*. d. 21, q. 1, a. 1, qa. 2, ad 2; *Quodl*. VIII, q. 8; *De anima*, a. 21, ad 18. It seems that the damned in hell are afflicted only with the punishment of fire. For in Matthew 25:41, to express their damnation mention is made only of fire, when it is said: *depart from me, you cursed, into the eternal fire*.  
 
 Obj. 2: Just as the punishment of purgatory is due to venial sin, so also the punishment of hell is due to mortal sin. But in purgatory there is only said to be fire, as is clear from the fact that 1 Cor 3:13 says: *the fire will test what sort of work each one has done*. Therefore in hell, too, there will be only the punishment of fire.  
 
@@ -411,7 +413,7 @@ Furthermore (2), Job 24:19 says: *they shall pass from snow waters to exceeding 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the worm by which the damned are afflicted is a physical worm.Parallels: *SCG* IV, ch. 90; *De potentia*, q. 5, a. 9, ad 13; *Quodl*. VII, q. 5, a. 3; *Resp. de Art. 42*, a. 41; *Comp. theo*. 175. For flesh cannot be afflicted by a spiritual worm. But the flesh of the damned will be afflicted by the worm: *fire and worms he will give to their flesh* (Jud 16:17), and *the punishment of the ungodly is fire and worms* (Sir 7:19). Therefore, that worm will be physical.***
+Obj. 1: Moreover, it seems that the worm by which the damned are afflicted is a physical worm.Parallels: *SCG* IV, ch. 90; *De potentia*, q. 5, a. 9, ad 13; *Quodl*. VII, q. 5, a. 3; *Resp. de Art. 42*, a. 41; *Comp. theo*. 175. For flesh cannot be afflicted by a spiritual worm. But the flesh of the damned will be afflicted by the worm: *fire and worms he will give to their flesh* (Jud 16:17), and *the punishment of the ungodly is fire and worms* (Sir 7:19). Therefore, that worm will be physical.  
 
 Obj. 2: Augustine says in the *City of God* 21: *both*, i.e., fire and the worm, *will be the flesh’s punishment*.Augustine, *The City of God* (CCSL 48), Bk. 21, ch. 9. And so the same follows as before.  
 
@@ -419,7 +421,7 @@ On the contrary, Augustine says in the *City of God* 20: *among the punishments 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the weeping among the damned will be physical.Parallels: *SCG* IV, ch. 90; *Quodl*. VII, q. 3, a. un.; *Resp. de Art. 42*, a. 40. For on Luke 13:28, a Gloss*Glossa ordinaria*, PL 114:305. says that the true resurrection of bodies can be proven through the weeping that the Lord threatens to the reprobate. This would not be the case if that weeping were only spiritual. Therefore, etc.***
+Obj. 1: Moreover, it seems that the weeping among the damned will be physical.Parallels: *SCG* IV, ch. 90; *Quodl*. VII, q. 3, a. un.; *Resp. de Art. 42*, a. 40. For on Luke 13:28, a Gloss*Glossa ordinaria*, PL 114:305. says that the true resurrection of bodies can be proven through the weeping that the Lord threatens to the reprobate. This would not be the case if that weeping were only spiritual. Therefore, etc.  
 
 Obj. 2: The sorrow that is a punishment corresponds to the delight that there was in fault, according to the passage: *as she glorified herself and reveled in delights, so give her a like measure of torment and mourning* (Rev 18:7). But in offending sinners took both internal and external delight. Therefore, they will have external weeping as well.  
 
@@ -427,7 +429,7 @@ On the contrary, physical weeping occurs through the shedding of tears. But the 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the damned are not enveloped in physical darkness.Parallel: above, d. 48, q. 2, a. 4, ad 3. For commenting on Job 10:22: *the land of gloom and chaos*, Gregory says in the *Moralia* 9: *even though the fire there does not shine for consolation, it shines that in some regard it may torture them more, for the reprobate will see by the flame’s light the followers they have dragged down with them from the world*.Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 9, par. 66. Therefore, there will be no physical darkness there.***
+Obj. 1: Moreover, it seems that the damned are not enveloped in physical darkness.Parallel: above, d. 48, q. 2, a. 4, ad 3. For commenting on Job 10:22: *the land of gloom and chaos*, Gregory says in the *Moralia* 9: *even though the fire there does not shine for consolation, it shines that in some regard it may torture them more, for the reprobate will see by the flame’s light the followers they have dragged down with them from the world*.Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 9, par. 66. Therefore, there will be no physical darkness there.  
 
 Obj. 2: The damned will see their own punishment: this is for them an increase of their punishment. But nothing is seen without a light. Therefore, there is no physical darkness.  
 
@@ -439,7 +441,7 @@ Furthermore (2), commenting on Psalm 29 (28):4: *the voice of the Lord flashes f
 
 Response to Quaestiuncula 1  
 
-***I answer that, according to Basil,The Parma ed. indicates Basil, *Homilies on the Psalms*, Ps. 28, PG 29:298, but the text appears to be rather from Symeon the Metaphrast, *On the Future Judgment*, PG 32:1299. in the final purification of the world a kind of separation will take place in the elements such that whatever is purified and noble will remain above for the glory of the blessed, while whatever is ignoble and filthy will be cast into hell for the punishment of the damned, so that just as every creature of God is a matter of joy for the blessed, so also torment accrues to the damned from all creatures, in accordance with the passage: *creation will join with him to fight against the madmen* (Wis 5:20). It also belongs to the divine justice that just as those who withdrew from the One through sin set their end among material things (which are many and empty), they will also be afflicted in many ways and by many things.***
+I answer that, according to Basil,The Parma ed. indicates Basil, *Homilies on the Psalms*, Ps. 28, PG 29:298, but the text appears to be rather from Symeon the Metaphrast, *On the Future Judgment*, PG 32:1299. in the final purification of the world a kind of separation will take place in the elements such that whatever is purified and noble will remain above for the glory of the blessed, while whatever is ignoble and filthy will be cast into hell for the punishment of the damned, so that just as every creature of God is a matter of joy for the blessed, so also torment accrues to the damned from all creatures, in accordance with the passage: *creation will join with him to fight against the madmen* (Wis 5:20). It also belongs to the divine justice that just as those who withdrew from the One through sin set their end among material things (which are many and empty), they will also be afflicted in many ways and by many things.  
 
 Reply Obj. 1: Because fire afflicts the most due to its abundance of active power, by the name ‘fire’ we denote every affliction insofar as it as vehement.  
 
@@ -449,7 +451,7 @@ Reply Obj. 3: The damned will pass from the most vehement heat to the most vehem
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that as was said above in Distinction 48, after the day of judgment in the renewed world there will remain no animal or mixed body, except the body of man alone, since that body alone has no order to corruption, and after that time there will be no generation or corruption. Hence the worm that is said to be in the damned should not be understood as being a material worm but rather a spiritual one, namely, the sting of conscience. This is called a worm inasmuch as it arises from the filth of sin and afflicts the soul, just as a physical worm arises from filth and afflicts by biting.***
+To the second question, it should be said that as was said above in Distinction 48, after the day of judgment in the renewed world there will remain no animal or mixed body, except the body of man alone, since that body alone has no order to corruption, and after that time there will be no generation or corruption. Hence the worm that is said to be in the damned should not be understood as being a material worm but rather a spiritual one, namely, the sting of conscience. This is called a worm inasmuch as it arises from the filth of sin and afflicts the soul, just as a physical worm arises from filth and afflicts by biting.  
 
 Reply Obj. 1: The very souls of the damned are called their flesh by virtue of the fact that they were subject to the flesh. Or we may say that the flesh, too, is afflicted by the spiritual worm insofar as the soul’s passions overflow into the body, and this will also happen in the future.  
 
@@ -457,13 +459,13 @@ Reply Obj. 2: Augustine is speaking by way of a kind of comparison. For he does 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that we find two elements in physical weeping. One of these is the shedding of tears. And in this regard there cannot be physical weeping in the damned. For after the day of judgment, when the motion of the prime mobile comes to a rest, there will not be generation and corruption or the alteration of bodies. But in the shedding of tears there must be a generation of the fluid that runs down in the tears. Hence in this regard corporeal weeping will not be able to exist in the damned. The other element we find in physical weeping is a kind of shaking and disturbance of the head and eyes. And in this regard corporeal weeping will be able to exist in the damned after the resurrection. For the bodies of the damned will be afflicted not only from without but also from within to the extent that the body is changed in accord with the soul’s passion for good or bad. And in this weeping is a sign of the resurrection of the flesh and corresponds to the delight in offending that existed in soul and body.***
+To the third question, it should be said that we find two elements in physical weeping. One of these is the shedding of tears. And in this regard there cannot be physical weeping in the damned. For after the day of judgment, when the motion of the prime mobile comes to a rest, there will not be generation and corruption or the alteration of bodies. But in the shedding of tears there must be a generation of the fluid that runs down in the tears. Hence in this regard corporeal weeping will not be able to exist in the damned. The other element we find in physical weeping is a kind of shaking and disturbance of the head and eyes. And in this regard corporeal weeping will be able to exist in the damned after the resurrection. For the bodies of the damned will be afflicted not only from without but also from within to the extent that the body is changed in accord with the soul’s passion for good or bad. And in this weeping is a sign of the resurrection of the flesh and corresponds to the delight in offending that existed in soul and body.  
 
 And by this the reply to the objections is clear.  
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that the disposition of hell will be such as most greatly befits the misery of the damned. And accordingly, light and darkness will exist there precisely as they most augment the misery of the damned. Now, vision in itself is delightful. For as it says in the *Metaphysics* 1,Aristotle, *Metaphysics*, Bk. 1, ch. 1, 980a22–28. the sense of the eyes is the most desirable because we know more things through it. But it can happen incidentally that sight brings affliction inasmuch as we see what is harmful to us or repugnant to our will. Thus, too, the place of hell should be arranged for seeing through the interplay of light and darkness in such a way that nothing there is seen clearly but only what can strike the heart with affliction is seen in a shadowy way. Thus, simply speaking, the place is dark, but by the divine disposition there is some light there, as much as suffices for seeing what can torture the soul. And the natural location is quite enough for this, since in the middle of the earth, where hell is thought to be, fire can be only filthy, turbid, and sort of smoky. Some, however, assign the cause of this darkness as due to the bodies of the damned being packed in and pressed together, which because of the multitude will so fill the place of hell that no air will remain there. And in this way there will not be anything transparent that could be the subject of light and darkness, except the eyes of the damned, which will be shrouded in darkness.***
+To the fourth question, it should be said that the disposition of hell will be such as most greatly befits the misery of the damned. And accordingly, light and darkness will exist there precisely as they most augment the misery of the damned. Now, vision in itself is delightful. For as it says in the *Metaphysics* 1,Aristotle, *Metaphysics*, Bk. 1, ch. 1, 980a22–28. the sense of the eyes is the most desirable because we know more things through it. But it can happen incidentally that sight brings affliction inasmuch as we see what is harmful to us or repugnant to our will. Thus, too, the place of hell should be arranged for seeing through the interplay of light and darkness in such a way that nothing there is seen clearly but only what can strike the heart with affliction is seen in a shadowy way. Thus, simply speaking, the place is dark, but by the divine disposition there is some light there, as much as suffices for seeing what can torture the soul. And the natural location is quite enough for this, since in the middle of the earth, where hell is thought to be, fire can be only filthy, turbid, and sort of smoky. Some, however, assign the cause of this darkness as due to the bodies of the damned being packed in and pressed together, which because of the multitude will so fill the place of hell that no air will remain there. And in this way there will not be anything transparent that could be the subject of light and darkness, except the eyes of the damned, which will be shrouded in darkness.  
 
 And in this way the reply to the objections is clear.  
 
@@ -473,7 +475,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth question, we proceed thus. It seems that the blessed in heaven will not see the punishments of the damned. For there is a greater distance between the damned and the blessed than between wayfarers and the blessed. But they do not see the deeds of wayfarers. Thus, commenting on Isaiah 63:16: *Abraham does not know us*, a Gloss says: *the dead, even the saints, do not know what the living do, even their children*. Therefore, much less do they see the punishments of the damned.***
+Obj. 1: To the fourth question, we proceed thus. It seems that the blessed in heaven will not see the punishments of the damned. For there is a greater distance between the damned and the blessed than between wayfarers and the blessed. But they do not see the deeds of wayfarers. Thus, commenting on Isaiah 63:16: *Abraham does not know us*, a Gloss says: *the dead, even the saints, do not know what the living do, even their children*. Therefore, much less do they see the punishments of the damned.  
 
 Obj. 2: The perfection of vision depends on the perfection of the visible. Hence the Philosopher says in the *Ethics* 10Aristotle, *Nicomachean Ethics*, Bk. 10, ch. 4, 1174b14–20. that the most perfect activity of a sense belongs to the sense best disposed to the most beautiful thing that falls under that sense. Therefore, conversely, the vileness of the visible object redounds to the imperfection of vision. But there will be no imperfection in the blessed. Therefore, they will not see the miseries of the damned, in which there is utmost vileness.  
 
@@ -481,7 +483,7 @@ On the contrary, it is said: *they shall go forth and look on the dead bodies of
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the blessed have compassion for the miseries of the damned.Parallel: *In II Sent*. d. 11, q. 1, a. 5. For compassion proceeds from charity. But there will be most perfect charity in the blessed. Therefore, they will have the greatest compassion for the miseries of the damned.***
+Obj. 1: Moreover, it seems that the blessed have compassion for the miseries of the damned.Parallel: *In II Sent*. d. 11, q. 1, a. 5. For compassion proceeds from charity. But there will be most perfect charity in the blessed. Therefore, they will have the greatest compassion for the miseries of the damned.  
 
 Obj. 2: The blessed will never be as far removed from suffering as God is. But God in a certain way has compassion on our miseries. This is why he is called merciful. The angels are, too, in a similar way. Therefore, the blessed will have compassion on the miseries of the damned.  
 
@@ -489,7 +491,7 @@ On the contrary, whoever has compassion on another becomes in a certain way a sh
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the blessed do not rejoice at the punishments of the wicked.Parallels: *Quodl*. VIII, q. 7, a. 1, ad 1; *Super Ps*. 36. For to rejoice at evil pertains to hatred of another. But there will be no hatred in the blessed. Therefore, they will not rejoice at the miseries of the damned.***
+Obj. 1: Moreover, it seems that the blessed do not rejoice at the punishments of the wicked.Parallels: *Quodl*. VIII, q. 7, a. 1, ad 1; *Super Ps*. 36. For to rejoice at evil pertains to hatred of another. But there will be no hatred in the blessed. Therefore, they will not rejoice at the miseries of the damned.  
 
 Obj. 2: In heaven the blessed will be conformed to God to the utmost degree. But God does not take delight in our punishments. Therefore, neither will the blessed take delight in the punishments of the damned.  
 
@@ -501,7 +503,7 @@ Furthermore (2), Isaiah 66:24 says: *and all flesh shall be sated with the visio
 
 Response to Quaestiuncula 1  
 
-***I answer that, nothing that pertains to the perfection of their beatitude should be taken from the blessed. But any given thing is better known from the activity of its contrary. For the contraries stand out more clearly when placed side by side. And thus, so that the beatitude of the saints may be more pleasing to them and that they may give richer thanks to God for it, it is granted to them to perceive perfectly the punishment of the wicked.***
+I answer that, nothing that pertains to the perfection of their beatitude should be taken from the blessed. But any given thing is better known from the activity of its contrary. For the contraries stand out more clearly when placed side by side. And thus, so that the beatitude of the saints may be more pleasing to them and that they may give richer thanks to God for it, it is granted to them to perceive perfectly the punishment of the wicked.  
 
 Reply Obj. 1: This Gloss is speaking about the saints who have died with regard to what is possible for nature. For it need not be the case that they know everything that goes on with the living by natural knowledge. Rather, the saints who are in heaven know clearly everything that goes on both with wayfarers and with the damned. Hence Gregory in the *Moralia* 12 says of the holy souls: *we should not hold this opinion* (namely, what Job says: *his sons come to honor, and he does not know it*) *for in the case of those who have the clarity of God within we can in no way believe that there is anything outside that they are ignorant of*.Gregory the Great, *Moralia in Iob* (CCSL 143A), Bk. 12, par. 21.  
 
@@ -509,7 +511,7 @@ Reply Obj. 2: Even though visible beauty yields perfection of vision, visible vi
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that we can find mercy or compassion in someone in two ways: in one way, after the manner of passion; in the other way, after the manner of choice. Now in the blessed there will be no passion in the lower part except as following on the choice of reason. Hence there will only be compassion or mercy in them in accord with the choice of reason. But mercy or compassion arises from choice when someone wills to remove the evil of another. Hence in the case of things that according to the judgment of reason we do not will to be removed we cannot have this kind of compassion. Now as long as sinners are in this world they exist in such a state that without prejudice to the divine justice they can be transferred to beatitude from the state of misery and sin. And thus the compassion of the blessed toward them has a place both in accord with the choice of the will, as God, the angels, and the blessed are said to have compassion on them by willing their salvation, and in accord with compassion, just as good men in the wayfaring state have compassion on them. But in the future they will not be able to be removed from their misery. Hence there will be no possibility of compassion toward their miseries in accord with right choice. And thus the blessed in glory will not have any compassion toward the damned.***
+To the second question, it should be said that we can find mercy or compassion in someone in two ways: in one way, after the manner of passion; in the other way, after the manner of choice. Now in the blessed there will be no passion in the lower part except as following on the choice of reason. Hence there will only be compassion or mercy in them in accord with the choice of reason. But mercy or compassion arises from choice when someone wills to remove the evil of another. Hence in the case of things that according to the judgment of reason we do not will to be removed we cannot have this kind of compassion. Now as long as sinners are in this world they exist in such a state that without prejudice to the divine justice they can be transferred to beatitude from the state of misery and sin. And thus the compassion of the blessed toward them has a place both in accord with the choice of the will, as God, the angels, and the blessed are said to have compassion on them by willing their salvation, and in accord with compassion, just as good men in the wayfaring state have compassion on them. But in the future they will not be able to be removed from their misery. Hence there will be no possibility of compassion toward their miseries in accord with right choice. And thus the blessed in glory will not have any compassion toward the damned.  
 
 Reply Obj. 1: Charity is the principle of compassion when out of charity we can will the removal of some malice. But the saints cannot will this for the damned out of charity, since it is opposed to the divine justice. Thus, the argument does not follow.  
 
@@ -517,7 +519,7 @@ Reply Obj. 2: God is said to be merciful inasmuch as he comes to the aid of thos
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that something can be the matter of joy in two ways. In one way, something can be the matter of joy *per se*, namely, when one rejoices in something precisely as that thing. And in this way the saints will not rejoice at the punishments of the wicked.***
+To the third question, it should be said that something can be the matter of joy in two ways. In one way, something can be the matter of joy *per se*, namely, when one rejoices in something precisely as that thing. And in this way the saints will not rejoice at the punishments of the wicked.  
 
 In the other way, something can be the matter of joy incidentally, that is, by reason of something connected with it. And in this way the saints will rejoice at the punishments of the wicked by considering in them the order of the divine justice and their own escape, in which they will rejoice. And in this way the divine justice and their own liberation will be the cause of the joy of the good *per se*, but the punishments of the damned will be their joy incidentally.  
 
@@ -529,7 +531,7 @@ Reply Obj. 3: In a wayfarer it is not praiseworthy to delight in the punishments
 
 Exposition of the Text  
 
-****Nor the ability to do so in the wicked*.*Sententiae* IV, 50.1 (284). 1. ’Sinning’ here is taken not as regards the disorder of the act but as regards the demerit of the fault.***
+*Nor the ability to do so in the wicked*.*Sententiae* IV, 50.1 (284). 1. ’Sinning’ here is taken not as regards the disorder of the act but as regards the demerit of the fault.  
 
 *“What is it to be wholly outside God, if not to be in the deepest blindness?”**Sent*. IV, 50.2 (285). 2 citing Augustine, *Enarrationes in Psalmos*, on Ps. 6, 8, n. 8. The reprobate are said to be outside of God not because God’s providence does not extend to them but because they do not delight in him, and only consider him to their own sorrow, and again because their mind is totally turned away from God.  
 

@@ -1,6 +1,8 @@
 # A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary
 
-***Non solum est necessarium credere Christiano Filium Dei, ut ostensum est; sed etiam oportet credere Incarnationem eius. Et ideo beatus Ioannes postquam dixerat multa subtilia et ardua, consequenter insinuat nobis eius Incarnationem, cum dicit, Ioan. I, 14: *et Verbum caro factum est*. Et ut de hoc aliquid capere possimus, duo exempla ponam in medium.***
+***Qui conceptus est de Spiritu Sancto, natus ex Maria Virgine***
+
+Non solum est necessarium credere Christiano Filium Dei, ut ostensum est; sed etiam oportet credere Incarnationem eius. Et ideo beatus Ioannes postquam dixerat multa subtilia et ardua, consequenter insinuat nobis eius Incarnationem, cum dicit, Ioan. I, 14: *et Verbum caro factum est*. Et ut de hoc aliquid capere possimus, duo exempla ponam in medium.  
 
 Constat quod Filio Dei nihil est ita simile sicut verbum in corde nostro conceptum, non prolatum. Nullus autem cognoscit verbum dum est in corde hominis, nisi ille qui concipit; sed tunc primo cognoscitur cum profertur. Sic Verbum Dei dum erat in corde Patris non cognoscebatur nisi a Patre tantum: sed carne indutum, sicut verbum voce, tunc primo manifestatum et cognitum est. Bar. III, 38: *post hoc in terris visus est, et cum hominibus conversatus est*.  
 

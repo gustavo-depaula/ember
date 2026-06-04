@@ -1,8 +1,10 @@
 # Chapter 18
 
+***Term***
+
 ***Life***
 
-***Many choose to live a sensual life, since they believe pleasure is the supreme good.***
+Many choose to live a sensual life, since they believe pleasure is the supreme good.  
 
 Three kinds of life are most excellent: the sensual, the political, and the contemplative.  
 
@@ -32,7 +34,7 @@ Term 2
 
 ***Living***
 
-***Living and perceiving are determined in animals by their capacity for sensing. In men they are determined by their sensing and understanding. Capacity, however, is limited to activity.***
+Living and perceiving are determined in animals by their capacity for sensing. In men they are determined by their sensing and understanding. Capacity, however, is limited to activity.  
 
 Living is, according to the position of Pythagoras, is naturally good since it is a determinate thing.  
 
@@ -196,7 +198,7 @@ Term 5
 
 ***The Husband***
 
-***The rule of a husband of his wife seems to be an aristocracy, since he rules over what falls under his authority and he leaves to her the things that are fitting for her.***
+The rule of a husband of his wife seems to be an aristocracy, since he rules over what falls under his authority and he leaves to her the things that are fitting for her.  
 
 The man who wishes to have charge over every matter and does not leave anything to the discretion of his wife turns his rule into oligarchy.  
 
@@ -216,7 +218,7 @@ Term 7
 
 ***Shame***
 
-***Shame does not come at every age, but it comes in youth. Youths have need of being ashamed, since they commit many mistakes in a spurt of the passions, but they are indeed restrained by shame, and so we praise youths when they show shame. No one, however, praises an old man who is shameful.***
+Shame does not come at every age, but it comes in youth. Youths have need of being ashamed, since they commit many mistakes in a spurt of the passions, but they are indeed restrained by shame, and so we praise youths when they show shame. No one, however, praises an old man who is shameful.  
 
 Shame does not belong to the virtuous man since he would only feel shameful because of evil deeds, which he does not do.  
 
@@ -234,7 +236,7 @@ Term 8
 
 ***Everyone***
 
-***Everyone's actions are said to correspond most to what the intellect does, since everyone is most identified with his understanding.***
+Everyone's actions are said to correspond most to what the intellect does, since everyone is most identified with his understanding.  
 
 Term 9  
 
@@ -257,7 +259,7 @@ Term 10
 
 ***An Object of the Will***
 
-***The object of our willing is the good without qualification, which is distinct from any difference of the good.***
+The object of our willing is the good without qualification, which is distinct from any difference of the good.  
 
 Term 11  
 
@@ -293,7 +295,7 @@ Term 13
 
 ***The Truthful Man***
 
-***The truthful man occupies a mean between speaking what is true and fleeing lies, he is worthy of praise.***
+The truthful man occupies a mean between speaking what is true and fleeing lies, he is worthy of praise.  
 
 A man is truthful in his speaking and his way of life if he makes a habit of saying what is true, such a man is also temperate and moderate.  
 
@@ -301,31 +303,31 @@ Term 14
 
 ***The Truth-teller***
 
-***Concerning men who tell the truth and deceitful men, they act similarly in their words and activities, and concerning pretenses.***
+Concerning men who tell the truth and deceitful men, they act similarly in their words and activities, and concerning pretenses.  
 
 Term 15  
 
 ***Cheaply-Made***
 
-***The clothing of the Spartans was cheaply-made, they wished to show their restraint by this, and this makes them seem boastful.***
+The clothing of the Spartans was cheaply-made, they wished to show their restraint by this, and this makes them seem boastful.  
 
 Term 16  
 
 ***The Cumin-Splitter***
 
-***'Cumin-spitter,' and all such names are given to men who are too reticent to give to anyone.***
+'Cumin-spitter,' and all such names are given to men who are too reticent to give to anyone.  
 
 Term 17  
 
 ***Pardon***
 
-***Pardon is afforded those who do something shamefully out of fear of dangers beyond human endurance.***
+Pardon is afforded those who do something shamefully out of fear of dangers beyond human endurance.  
 
 Term 18  
 
 ***Truth***
 
-***Truth is a mean concerning what is true. The man in excess is a boaster, the man lacking is a self-deprecator.***
+Truth is a mean concerning what is true. The man in excess is a boaster, the man lacking is a self-deprecator.  
 
 Truth is the work of each of the parts of the intellect.  
 
@@ -341,13 +343,13 @@ Term 20
 
 ***The Universal***
 
-***What is universal comes from particulars which one must experience through the senses.***
+What is universal comes from particulars which one must experience through the senses.  
 
 Term 21  
 
 ***Blameworthily***
 
-***To be blameworthy in pleasures that are naturally desirable or in intermediate ones, is not just desiring or being affected by them, but it is rather loving them in excess, such as if one were to rebel like Niobe.***
+To be blameworthy in pleasures that are naturally desirable or in intermediate ones, is not just desiring or being affected by them, but it is rather loving them in excess, such as if one were to rebel like Niobe.  
 
 Term 22  
 
@@ -365,10 +367,10 @@ Term 24
 
 ***The Manly***
 
-***The manly shy away from, that is, they avoid making friends sharing in their sadness. And if this sadness is not so great that it overcomes his friends, he does not at all allow them to bear the pain with him, since they are not given to mourning, and take no pleasure in someone mourning with them. But womanly men enjoy when people are grieved for them, these such men should not be imitated, but the manly ones should.***
+The manly shy away from, that is, they avoid making friends sharing in their sadness. And if this sadness is not so great that it overcomes his friends, he does not at all allow them to bear the pain with him, since they are not given to mourning, and take no pleasure in someone mourning with them. But womanly men enjoy when people are grieved for them, these such men should not be imitated, but the manly ones should.  
 
 Term 25  
 
 ***Sight***
 
-***It is most pleasing to the sense of sight to have a friend in one's view. For lovers, seeing is most pleasurable, lovers favour this sense more than the others.***
+It is most pleasing to the sense of sight to have a friend in one's view. For lovers, seeing is most pleasurable, lovers favour this sense more than the others.

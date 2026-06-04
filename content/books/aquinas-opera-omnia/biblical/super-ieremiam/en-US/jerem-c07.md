@@ -1,10 +1,12 @@
 # C. 5 - The corruption of Israel’s leaders
 
+***The corruption of Israel’s leaders***
+
 ***Lecture 1***
 
 ***Jerusalem without holy men***
 
-***^5:1^ Go through the streets of Jerusalem, look and consider, seek in her broad places a man who carries out judgment, who seeks faith, and I will be graciousHeb. וְאֶסְלַ֖ח: *I will pardon*. to her.I.e., Jerusalem.***
+^5:1^ Go through the streets of Jerusalem, look and consider, seek in her broad places a man who carries out judgment, who seeks faith, and I will be graciousHeb. וְאֶסְלַ֖ח: *I will pardon*. to her.I.e., Jerusalem.  
 
 > ^5:2^ Even if they say, ‘As the Lord lives,’ they swear falsely.
 
@@ -52,7 +54,7 @@ Lecture 2
 
 ***Sins of the nobles***
 
-***^5:4^ But I said, perhaps they are poor and foolish, ignorant of the way of the Lord, of the judgment of their God.***
+^5:4^ But I said, perhaps they are poor and foolish, ignorant of the way of the Lord, of the judgment of their God.  
 
 > ^5:5^ I will go to the nobles, and I will speak to them, for they have known the way of the Lord, the judgment of their God; and behold, these broke the yoke even more, and sundered the bonds at the same time.
 
@@ -68,7 +70,7 @@ Lecture 3
 
 ***The lion, wolf, and leopard***
 
-***^5:6^ Therefore, the lion of the forest struck them, the wolf at sunset laid them waste, the leopard keeps watch over their cities; any who goes forth from them shall be captured, because they have multiplied their rebellions, and strengthened their backslidings.***
+^5:6^ Therefore, the lion of the forest struck them, the wolf at sunset laid them waste, the leopard keeps watch over their cities; any who goes forth from them shall be captured, because they have multiplied their rebellions, and strengthened their backslidings.  
 
 > **34**. Here, punishment is threatened.
 
@@ -80,7 +82,7 @@ Lecture 4
 
 ***Israel’s sins enumerated***
 
-***^5:7^ For what shall I be able to be gracious to you? Your children have abandoned me and have sworn by them which are no gods. I have filled them, and they have been adulterous, they would sportHeb. יִתְגֹּדָֽדוּ: *gather by troops*. in the house of the harlot.***
+^5:7^ For what shall I be able to be gracious to you? Your children have abandoned me and have sworn by them which are no gods. I have filled them, and they have been adulterous, they would sportHeb. יִתְגֹּדָֽדוּ: *gather by troops*. in the house of the harlot.  
 
 > ^5:8^ They have become as amorous horses with women; they have been sent out, each one neighing at the wife of his neighbor.
 
@@ -188,7 +190,7 @@ Lecture 6
 
 ***Treachery of the rulers***
 
-***^5:26^ For wicked men are found in my people, lying in wait like fowlers, laying gins, and snares to catch men.***
+^5:26^ For wicked men are found in my people, lying in wait like fowlers, laying gins, and snares to catch men.  
 
 > ^5:27^ As a trap filled with birds, so are their houses filled with treachery. For this reason, they have grown great, and become rich.
 
@@ -216,7 +218,7 @@ Lecture 7
 
 ***Vengeance upon the nation***
 
-***^5:29^ Shall I not visit them for these things, says the Lord, or will not my soul be avenged upon a nation of this sort?***
+^5:29^ Shall I not visit them for these things, says the Lord, or will not my soul be avenged upon a nation of this sort?  
 
 > **38**. Here, he threatens punishment. *I will render vengeance to my enemies, and I will recompense those who hate me* (Deut 32:41).
 
@@ -224,7 +226,7 @@ Lecture 8
 
 ***Lies of prophets and priests***
 
-***^5:30^ Wondrous and amazing things are done in the land:Heb. שַׁמָּה֙ וְשַׁ֣עֲרוּרָ֔ה נִהְיְתָ֖ה בָּאָֽרֶץ: *an astonishing and horrible thing has been committed in the land*.***
+^5:30^ Wondrous and amazing things are done in the land:Heb. שַׁמָּה֙ וְשַׁ֣עֲרוּרָ֔ה נִהְיְתָ֖ה בָּאָֽרֶץ: *an astonishing and horrible thing has been committed in the land*.  
 
 > ^5:31^ The prophets prophesy a lie, and the priests clap with their hands,Heb. וְהַכֹּהֲנִים֙ יִרְדּ֣וּ עַל־יְדֵיהֶ֔ם: *and the priests rule by their own hands*. and my people delight in such things. What then shall be doneHeb. תַּעֲשׂ֖וּ: *will you (pl.) do*. in the end thereof?
 
@@ -242,7 +244,7 @@ Second, he intimates their astonishing punishment: ***what then shall be done in
 
 Collations  
 
-***It is to be noted that ***poverty*** (Jer 5:4) can be understood in many senses: for example, of earthly possessions. *Has not God chosen the poor of this world, rich in faith, and heirs of the kingdom which God has promised to those that love him?* (Jas 2:5). Of humility: *blessed are the poor in spirit, for theirs is the kingdom of heaven* (Matt 5:3). Of affliction: *I am poor and afflicted; your salvation Lord, has sustained me* (Ps 68:30). Of knowledge: *you know not that you are poor* (Rev 3:17). Of imperfection: *I am a man seeing my own poverty in the rod of his indignation* (Lam 3:1).***
+It is to be noted that ***poverty*** (Jer 5:4) can be understood in many senses: for example, of earthly possessions. *Has not God chosen the poor of this world, rich in faith, and heirs of the kingdom which God has promised to those that love him?* (Jas 2:5). Of humility: *blessed are the poor in spirit, for theirs is the kingdom of heaven* (Matt 5:3). Of affliction: *I am poor and afflicted; your salvation Lord, has sustained me* (Ps 68:30). Of knowledge: *you know not that you are poor* (Rev 3:17). Of imperfection: *I am a man seeing my own poverty in the rod of his indignation* (Lam 3:1).  
 
 It is also to be noted that ***visitation*** (Jer 5:9) has several senses; for example, it is used of consolation. *The one rising from on high has visited us* (Luke 1:78). Of correction: *I will visit your iniquities with the rod* (Ps 88:33). Of damnation, as it says below, ***in the time of their visitation they shall fall down, says the Lord. I shall surely gather them, says the Lord*** (Jer 8:12–13).  
 

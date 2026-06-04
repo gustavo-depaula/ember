@@ -1,5 +1,7 @@
 # C. 6 - Dying and Rising with Christ
 
+***Moriens et Resurgens cum Christo***
+
 ***Lectio 1***
 
 ***Baptismum in mortem***
@@ -82,7 +84,7 @@ Lectio 2
 
 ***Triumphus Christi super mortem***
 
-***^6:6^ Hoc scientes, quia vetus homo noster simul crucifixus est, ut destruatur corpus peccati, et ultra non serviamus peccato. [n. 478]***
+^6:6^ Hoc scientes, quia vetus homo noster simul crucifixus est, ut destruatur corpus peccati, et ultra non serviamus peccato. [n. 478]  
 
 > ^6:7^ Qui enim mortuus est, justificatus est a peccato. [n. 482]
 
@@ -176,7 +178,7 @@ Lectio 3
 
 ***Servi non peccati sed iustitiae***
 
-***^6:12^ Non ergo regnet peccatum in vestro mortali corpore ut obediatis concupiscentiis ejus. [n. 492]***
+^6:12^ Non ergo regnet peccatum in vestro mortali corpore ut obediatis concupiscentiis ejus. [n. 492]  
 
 > ^6:13^ Sed neque exhibeatis membra vestra arma iniquitatis peccato: sed exhibete vos Deo, tamquam ex mortuis viventes: et membra vestra arma justitiae Deo.
 
@@ -266,7 +268,7 @@ Lectio 4
 
 ***Gratia Dei est vita aeterna***
 
-***^6:19^ Humanum dico, propter infirmitatem carnis vestrae: sicut enim exhibuistis membra vestra servire immunditiae, et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servire justitiae in sanctificationem. [n. 504]***
+^6:19^ Humanum dico, propter infirmitatem carnis vestrae: sicut enim exhibuistis membra vestra servire immunditiae, et iniquitati ad iniquitatem, ita nunc exhibete membra vestra servire justitiae in sanctificationem. [n. 504]  
 
 > ^6:20^ Cum enim servi essetis peccati, liberi fuistis justitiae. [n. 507]
 

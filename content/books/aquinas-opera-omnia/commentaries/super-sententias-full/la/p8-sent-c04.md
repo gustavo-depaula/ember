@@ -1,6 +1,8 @@
 # D. 17 - Comparing the parts of penance
 
-***Postquam distinxit Magister poenitentiae partes, hic movet quasdam quaestiones de partibus illis; et dividitur in partes duas: in prima movet quaestiones; in secunda prosequitur eas, ibi: *dicunt enim quidam sine confessione oris et satisfactione operis neminem a peccato mundari*.***
+***Comparatio partium poenitentiae***
+
+Postquam distinxit Magister poenitentiae partes, hic movet quasdam quaestiones de partibus illis; et dividitur in partes duas: in prima movet quaestiones; in secunda prosequitur eas, ibi: *dicunt enim quidam sine confessione oris et satisfactione operis neminem a peccato mundari*.  
 
 Et haec pars dividitur in duas: in prima prosequitur unam quaestionem de comparatione contritionis ad confessionem, utrum scilicet per solam contritionem aut confessionem peccatum dimittatur; in secunda prosequitur quaestiones de ipsa confessione, ibi: *jam secundum quaestionis articulum inspiciamus*.  
 
@@ -34,7 +36,7 @@ primo, quid sit justificatio impii;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod haec assignatio quae ponitur Rom. 8, in *Glossa* interlineali sit incompetens, scilicet: *justificatio est remissio peccatorum, et consummatio bonorum operum*. Peccata enim inficiunt omnes potentias. Sed justificatio est in sola voluntate; quia secundum Anselmum, *justitia est rectitudo voluntatis pro se servata*. Ergo cum justificatio nihil aliud sit quam justitiae adeptio, videtur quod non sit remissio omnium peccatorum.***
+Ad primum sic proceditur. Videtur quod haec assignatio quae ponitur Rom. 8, in *Glossa* interlineali sit incompetens, scilicet: *justificatio est remissio peccatorum, et consummatio bonorum operum*. Peccata enim inficiunt omnes potentias. Sed justificatio est in sola voluntate; quia secundum Anselmum, *justitia est rectitudo voluntatis pro se servata*. Ergo cum justificatio nihil aliud sit quam justitiae adeptio, videtur quod non sit remissio omnium peccatorum.  
 
 Praeterea, Bernardus dicit, quod *justificatio est revelatio divini consilii*. Sed divinum consilium revelatur aliquando eis quibus non dimittitur peccatum, sicut patet de Nabuchodonosor, Dan. 2. Ergo justificatio non est peccatorum remissio.  
 
@@ -44,7 +46,7 @@ Praeterea, consummatio bonorum operum in poenitente fit per satisfactionem. Sed 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod justificatio sit aliud quam vocatio. Quia, Rom. 8, quatuor per ordinem recitantur: scilicet praedestinatio, vocatio, justificatio, magnificatio. Sed secundum horum distat a primo. Ergo et tertium differt a secundo.***
+Ulterius. Videtur quod justificatio sit aliud quam vocatio. Quia, Rom. 8, quatuor per ordinem recitantur: scilicet praedestinatio, vocatio, justificatio, magnificatio. Sed secundum horum distat a primo. Ergo et tertium differt a secundo.  
 
 Praeterea, vocatio etiam est in peccato existentium. Prov. 1, 24: *vocavi et renuistis*. Sed justificatio non, cum sit peccatorum remissio. Ergo justificatio non est vocatio.  
 
@@ -56,7 +58,7 @@ Praeterea, idem per essentiam est motus a termino et ad terminum oppositum, sicu
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod justificatio non sit idem quod renovatio mentis, et sanatio. Quia justificari potest aliquis in hac vita, non autem renovari vel sanari. Ergo justificatio neutrum illorum est. Probatio mediae quantum ad justificationem est ex hoc quod dicitur Roman. 3, 24: *justificati gratis per gratiam ipsius*. Quantum ad sanationem patet per id quod dicitur in *Glossa* super illud Psalm. 102, 3: *qui sanat omnes infirmitates tuas*, quod in fine sanabit languores, quando corruptibile hoc induet incorruptionem; quod non erit in hac vita. Quantum ad renovationem autem ex hoc quod dicitur in Glossa super illud Rom. 6: *in novitate vitae ambulemus*; quod in futuro in immortalitate perficitur.***
+Ulterius. Videtur quod justificatio non sit idem quod renovatio mentis, et sanatio. Quia justificari potest aliquis in hac vita, non autem renovari vel sanari. Ergo justificatio neutrum illorum est. Probatio mediae quantum ad justificationem est ex hoc quod dicitur Roman. 3, 24: *justificati gratis per gratiam ipsius*. Quantum ad sanationem patet per id quod dicitur in *Glossa* super illud Psalm. 102, 3: *qui sanat omnes infirmitates tuas*, quod in fine sanabit languores, quando corruptibile hoc induet incorruptionem; quod non erit in hac vita. Quantum ad renovationem autem ex hoc quod dicitur in Glossa super illud Rom. 6: *in novitate vitae ambulemus*; quod in futuro in immortalitate perficitur.  
 
 Praeterea, quorum opposita differunt, ipsa etiam differunt. Sed opposita horum sunt diversa et nomine et ratione; quia justificationi opponitur impietas, renovationi vetustas, sanationi infirmitas. Ergo non sunt idem.  
 
@@ -64,7 +66,7 @@ Sed contra, renovatio mentis et sanatio fit per peccatorum dimissionem. Sed just
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod justificatio non reducatur ad attributum misericordiae. Quia secundum Augustinum, majus est de impio facere pium quam creare caelum et terram. Sed creatio caeli et terrae, propter hoc quod infinitam potentiam ostendit, reducitur ad attributum potentiae. Ergo et justificatio impii; et non ad misericordiam.***
+Ulterius. Videtur quod justificatio non reducatur ad attributum misericordiae. Quia secundum Augustinum, majus est de impio facere pium quam creare caelum et terram. Sed creatio caeli et terrae, propter hoc quod infinitam potentiam ostendit, reducitur ad attributum potentiae. Ergo et justificatio impii; et non ad misericordiam.  
 
 Praeterea, Deus, inquantum est bonus, facit omnia bona. Ergo inquantum est justus, facit homines justos. Sed justificare nihil aliud est quam justum facere. Ergo justificatio reducitur ad attributum justitiae magis quam misericordiae.  
 
@@ -76,7 +78,7 @@ Praeterea, justificatio fit per gratiam. Sed gratia est effectus misericordiae, 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod justificatio de sui ratione importat motum ad justitiam. Justitia autem, secundum Philosophum in 5 *Ethica*, tribus modis dicitur. Uno enim modo est specialis virtus aequalitatem constituens in commutationibus et distributionibus communicabilium bonorum, quae sunt necessaria in vita. Alio modo est nomen generale ad omnes virtutes, secundum quod actus earum ad bonum commune ordinat secundum directionem legis. Tertio modo importat quemdam statum rectitudinis in homine quantum ad partes ipsius, prout scilicet aliqua pars animae suo superiori subditur, sive alii parti, sive ipsi Deo; et hanc justitiam nominat Philosophus metaphoricam, eo quod diversae partes hominis computantur quasi diversae personae.***
+Respondeo dicendum ad primam quaestionem, quod justificatio de sui ratione importat motum ad justitiam. Justitia autem, secundum Philosophum in 5 *Ethica*, tribus modis dicitur. Uno enim modo est specialis virtus aequalitatem constituens in commutationibus et distributionibus communicabilium bonorum, quae sunt necessaria in vita. Alio modo est nomen generale ad omnes virtutes, secundum quod actus earum ad bonum commune ordinat secundum directionem legis. Tertio modo importat quemdam statum rectitudinis in homine quantum ad partes ipsius, prout scilicet aliqua pars animae suo superiori subditur, sive alii parti, sive ipsi Deo; et hanc justitiam nominat Philosophus metaphoricam, eo quod diversae partes hominis computantur quasi diversae personae.  
 
 Haec autem rectitudo per quodlibet peccatum tollitur, et per gratiam reparatur: unde haec justitia generalis etiam dicitur, inquantum omnes virtutes includit, non quidem per modum totius universalis, sicut praecedens justitia; sed generalis dicitur per modum totius integralis: et ad hanc justitiam motus justificatio dicitur. In quolibet autem motu est recessus a termino, et hoc in praedicta assignatione tangitur in hoc quod dicitur: *remissio peccatorum*, et accessus ad terminum, qui tangitur in hoc quod dicitur: *et consummatio bonorum operum*.  
 
@@ -92,7 +94,7 @@ Ad quartum dicendum, quod consummatio bonorum operum potest accipi vel in execut
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod vocatio est duplex: quaedam exterior, ut quae fit per praedicatorem; et haec non est justificatio, sed disponit ad eam: quaedam vero interior: et haec quandoque quidem non pertingit ad finem suum ex vocati defectu; et haec vocatio nihil aliud est quam aliquis instinctus, vel motus ad bonum, a Deo immissus; et haec etiam vocatio non est idem quod justificatio, sed via ad illam: quandoque autem pertingit ad finem, quando scilicet aliquis audit vocantem, et venit ad Christum, ut dicitur Joan. 6, 45: *omnis qui audivit a patre et didicit, venit ad me*: et haec vocatio idem est quod justificatio secundum substantiam, sed differt ratione: quia vocatio dicitur secundum quod per infusionem gratiae et auxilium homo a peccato retrahitur; sed justificatio respicit terminum ad quem, scilicet praedictae rectitudinis statum; et sic vocatio sumitur Rom. 8, ut patet per *Glossam*. Auxilium enim quod fidei, nos vocando, Deus praestat, est gratia, quae facit fidem per dilectionem operari.***
+Ad secundam quaestionem dicendum, quod vocatio est duplex: quaedam exterior, ut quae fit per praedicatorem; et haec non est justificatio, sed disponit ad eam: quaedam vero interior: et haec quandoque quidem non pertingit ad finem suum ex vocati defectu; et haec vocatio nihil aliud est quam aliquis instinctus, vel motus ad bonum, a Deo immissus; et haec etiam vocatio non est idem quod justificatio, sed via ad illam: quandoque autem pertingit ad finem, quando scilicet aliquis audit vocantem, et venit ad Christum, ut dicitur Joan. 6, 45: *omnis qui audivit a patre et didicit, venit ad me*: et haec vocatio idem est quod justificatio secundum substantiam, sed differt ratione: quia vocatio dicitur secundum quod per infusionem gratiae et auxilium homo a peccato retrahitur; sed justificatio respicit terminum ad quem, scilicet praedictae rectitudinis statum; et sic vocatio sumitur Rom. 8, ut patet per *Glossam*. Auxilium enim quod fidei, nos vocando, Deus praestat, est gratia, quae facit fidem per dilectionem operari.  
 
 Unde illorum quatuor quae ibi ponuntur, praedestinatio est causa justificationis in justificante, vocatio autem est idem justificationi, ratione differens, ut dictum est; sed magnificatio est justificationis complementum, sive referatur ad perfectionem gratiae, sive ad perfectionem gloriae.  
 
@@ -104,7 +106,7 @@ Ad tertium dicendum, quod ille non justificat*ille non justificat.—ille qui ju
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod praedicta justitiae rectitudo metaphorice sanitas animae dicitur et novitas ipsius, eo quod sanitas commensurationem debitam in partibus corporis importat; novitas autem integritatem et virtutem et decorem habet; et per haec omnia patet quod rectitudo potentiarum animae, quae justitia dicitur, continet haec omnia per similitudinem. Sed quia res aliqua non est ita similis uni quin etiam aliis possit assimilari; inde est quod ea quae metaphorice dicuntur, non ita conveniunt uni quin et aliis convenire possint, sicut leo metaphorice et Deus et diabolus dicitur; unde sanitas et novitas per similitudinem integritatem gratiae significare possunt, quae per culpam tollitur; unde culpa etiam similitudinarie dicitur vetustas et languor animae; et etiam possunt significare integritatem naturae, quam tollit poena, quae etiam vetustas et languor dicitur. Sed quia culpa est causa poenae, ideo vetustas in vetustate et languor in languore includitur, sicut effectus in causa. Patet ergo quod ipsa justificatio, per quam gratia acquiritur et culpa tollitur, renovatio et sanatio dici potest; quamvis etiam ablatio poenae renovatio et sanatio dici possit.***
+Ad tertiam quaestionem dicendum, quod praedicta justitiae rectitudo metaphorice sanitas animae dicitur et novitas ipsius, eo quod sanitas commensurationem debitam in partibus corporis importat; novitas autem integritatem et virtutem et decorem habet; et per haec omnia patet quod rectitudo potentiarum animae, quae justitia dicitur, continet haec omnia per similitudinem. Sed quia res aliqua non est ita similis uni quin etiam aliis possit assimilari; inde est quod ea quae metaphorice dicuntur, non ita conveniunt uni quin et aliis convenire possint, sicut leo metaphorice et Deus et diabolus dicitur; unde sanitas et novitas per similitudinem integritatem gratiae significare possunt, quae per culpam tollitur; unde culpa etiam similitudinarie dicitur vetustas et languor animae; et etiam possunt significare integritatem naturae, quam tollit poena, quae etiam vetustas et languor dicitur. Sed quia culpa est causa poenae, ideo vetustas in vetustate et languor in languore includitur, sicut effectus in causa. Patet ergo quod ipsa justificatio, per quam gratia acquiritur et culpa tollitur, renovatio et sanatio dici potest; quamvis etiam ablatio poenae renovatio et sanatio dici possit.  
 
 Ad primum ergo dicendum, quod quantum ad culpam potest fieri renovatio in hac vita, sed non quantum ad poenam omnino; et similiter est de sanatione; et sic loquuntur auctoritates illae.  
 
@@ -112,7 +114,7 @@ Ad secundum dicendum, quod illa etiam per similitudinem signant idem quod impiet
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod in omni actione quam Deus in creatura facit omnia attributa concurrunt (alias ejus actio non esset perfecta), sed tamen aliqua ipsius actio vel effectus actionis uni attributo appropriatur magis quam alteri, inquantum illud attributum magis manifestatur per talem actionem vel effectum quam per aliud; sicut per revelationem futurorum manifestatur plenitudo divinae sapientiae; et ideo sapientiae appropriatur. Et quia in justificatione impii maxime divina misericordia manifestatur, ideo ad hoc attributum reducitur.***
+Ad quartam quaestionem dicendum, quod in omni actione quam Deus in creatura facit omnia attributa concurrunt (alias ejus actio non esset perfecta), sed tamen aliqua ipsius actio vel effectus actionis uni attributo appropriatur magis quam alteri, inquantum illud attributum magis manifestatur per talem actionem vel effectum quam per aliud; sicut per revelationem futurorum manifestatur plenitudo divinae sapientiae; et ideo sapientiae appropriatur. Et quia in justificatione impii maxime divina misericordia manifestatur, ideo ad hoc attributum reducitur.  
 
 Ad primum ergo dicendum, quod difficultas quae est in justificatione impii, maxime est ex incongruentia impii ad justificationis effectum suscipiendum; et ideo quando talis effectus in ipsum inducitur, magis indicat misericordiam quam potentiam. Sed effectus creationis difficultatem habet propter magnitudinem facti, vel propter modum faciendi, quia ex nihilo fit aliquid; et ideo manifestat maxime potentiam.  
 
@@ -126,7 +128,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod praeparatio, per quam aliquis facit quod in se est, ad justificationem non praeexigatur. Ille enim qui ad peccandum nititur, non praeparat se ad gratiam faciendo quod in se est. Sed aliquando aliquis justificatur qui ad peccatum tendit, sicut de Paulo patet Actuum 9. Ergo praedicta praeparatio ad justificationem non praeexigitur.***
+Ad secundum sic proceditur. Videtur quod praeparatio, per quam aliquis facit quod in se est, ad justificationem non praeexigatur. Ille enim qui ad peccandum nititur, non praeparat se ad gratiam faciendo quod in se est. Sed aliquando aliquis justificatur qui ad peccatum tendit, sicut de Paulo patet Actuum 9. Ergo praedicta praeparatio ad justificationem non praeexigitur.  
 
 Praeterea, major est caritas in Deo quam illa quam homini praecipit. Sed homini praecipit ut benefaciat inimicis, Matth. 5. Ergo ipse multo fortius benefacit justificando his qui peccando inimicitias contra ipsum exercent; et sic idem quod prius.  
 
@@ -138,7 +140,7 @@ Praeterea, Augustinus dicit: *qui creavit te sine te, non justificabit te sine t
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nihil sit in homine quod facere possit ut ad gratiam habendam se praeparet. Quia super illud Exod. 7, *induravit cor ejus* etc., dicit *Glossa*, quod *ita induratum est cor ejus, quod nihil poterat facere acceptabile Deo*. Sed nihil ad gratiam habendam praeparat nisi opus acceptabile Deo. Ergo non erat in eo facere aliquid per quod se praepararet; et eadem ratio est de aliis.***
+Ulterius. Videtur quod nihil sit in homine quod facere possit ut ad gratiam habendam se praeparet. Quia super illud Exod. 7, *induravit cor ejus* etc., dicit *Glossa*, quod *ita induratum est cor ejus, quod nihil poterat facere acceptabile Deo*. Sed nihil ad gratiam habendam praeparat nisi opus acceptabile Deo. Ergo non erat in eo facere aliquid per quod se praepararet; et eadem ratio est de aliis.  
 
 Praeterea, Augustinus dicit, quod cum fides justificationem impetrat, voluntas concomitatur gratiam, non ducit; est pedissequa, non praevia. Sed si homo posset se ad gratiam nondum habitam praeparare, voluntas ejus esset praevia gratiae. Ergo non potest homo aliquid facere per quod se ad gratiam praeparet.  
 
@@ -150,7 +152,7 @@ Sed contra, Deus non praecipit homini impossibile. Sed praecipit ei quod se ad g
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non sit necessarium eum qui facit quod in se est, justificari. Illud enim quod fit gratis, fit ex liberalitate, non ex necessitate. Sed justificamur gratis, ut patet Rom. 3. Ergo non est necessarium quod justificemur, quantumcumque simus praeparati.***
+Ulterius. Videtur quod non sit necessarium eum qui facit quod in se est, justificari. Illud enim quod fit gratis, fit ex liberalitate, non ex necessitate. Sed justificamur gratis, ut patet Rom. 3. Ergo non est necessarium quod justificemur, quantumcumque simus praeparati.  
 
 Praeterea, Deus comparatur ad nos sicut figulus ad lutum, ut patet Isai. 64, et Hierem. 18, et Rom. 9. Sed quantumcumque lutum sit praeparatum, non est necessarium quod ex eo formetur vas. Ergo quantumcumque homo sit praeparatus, non est necessarium quod ei gratia infundatur.  
 
@@ -162,7 +164,7 @@ Praeterea, Rom. 5, super illud: *justificati ex fide*, dicit *Glossa*: *Deus rec
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod voluntas, quae est susceptiva perfectionis justitiae, non potest huic perfectioni subjici ab extrinseco agente cui nil conferat; quia hoc esset per violentiam agens, quae in voluntatem non cadit, cum cogi non possit; et ideo oportet quod ipsa cooperetur ad suam perfectionem; et haec cooperatio dicitur praeparatio ad gratiam, quae facit quod in se est. Sed non semper oportet quod talis praeparatio tempore justificationem praecedat, sicut oportet in mutationibus naturalibus quod alteratio tempore semper praecedat generationem; quia cum actus voluntatis sit in sua potestate, a principio potest esse tantum intensus, quantum sufficit ad praeparationem; sed dispositio naturalis ad formam successive ad hanc intentionem procedit. In illis autem qui non per propriam voluntatem culpam incurrunt, et usum voluntatis non habent, non exigitur ex parte eorum aliqua praeparatio, sicut de pueris patet in baptismo.***
+Respondeo dicendum ad primam quaestionem, quod voluntas, quae est susceptiva perfectionis justitiae, non potest huic perfectioni subjici ab extrinseco agente cui nil conferat; quia hoc esset per violentiam agens, quae in voluntatem non cadit, cum cogi non possit; et ideo oportet quod ipsa cooperetur ad suam perfectionem; et haec cooperatio dicitur praeparatio ad gratiam, quae facit quod in se est. Sed non semper oportet quod talis praeparatio tempore justificationem praecedat, sicut oportet in mutationibus naturalibus quod alteratio tempore semper praecedat generationem; quia cum actus voluntatis sit in sua potestate, a principio potest esse tantum intensus, quantum sufficit ad praeparationem; sed dispositio naturalis ad formam successive ad hanc intentionem procedit. In illis autem qui non per propriam voluntatem culpam incurrunt, et usum voluntatis non habent, non exigitur ex parte eorum aliqua praeparatio, sicut de pueris patet in baptismo.  
 
 Ad primum ergo dicendum, quod justificatio, de qua nunc loquimur, semper est cum cooperatione voluntatis, quae praeparatio dicitur. Sed haec cooperatio, ut dictum est, quandoque diu ante incipit quam gratia infundatur; quandoque autem, quia perfecta est, statim justificationem adjunctam habet; unde potest contingere quod aliquis dum est in proposito et intentione peccandi, subito ejus voluntas convertatur ad Deum, vel ex aliquo exteriori occasionem accipiens, sicut fuit in Paulo; vel etiam ex aliquo interiori instinctu, quo cor hominis movetur a Deo. Unde non sequitur quod talis gratiam habeat non faciens quod in se est.  
 
@@ -172,7 +174,7 @@ Ad tertium dicendum, quod talis diffusio boni non potest intelligi nisi aliquis 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod praeparatio quae exigitur in materia ad hoc quod formam suscipiat, duo includit; scilicet quod sit in debita proportione ad formam et quod sit in debita proportione ad agens quod debet formam inducere; quia nihil se educit de potentia in actum. Debita autem proportio ad suscipiendum actionem agentis attenditur secundum debitam approximationem ad agens.***
+Ad secundam quaestionem dicendum, quod praeparatio quae exigitur in materia ad hoc quod formam suscipiat, duo includit; scilicet quod sit in debita proportione ad formam et quod sit in debita proportione ad agens quod debet formam inducere; quia nihil se educit de potentia in actum. Debita autem proportio ad suscipiendum actionem agentis attenditur secundum debitam approximationem ad agens.  
 
 In spiritualibus autem non est intelligenda localis approximatio, sed spiritualis, quae est dupliciter. Primo per similitudinem naturae, secundum quod res corruptibiles dicuntur magis a primo distare quam incorruptibiles in 2 *de Gener*., et propter hoc debilius esse recipiunt; et similiter spiritualia propinquiora esse Deo quam corporalia: et propter hoc angeli, secundum Dionysium, abundantius de divina bonitate recipiunt. Secundo secundum affectum; quia, secundum Augustinum, *Deo non loco, sed affectu propinquamus*. Sed debita proportio materiae ad formam est dupliciter; scilicet per ordinem naturalem materiae ad formam, et per remotionem impedimenti.  
 
@@ -188,7 +190,7 @@ Ad quartum dicendum, quod recta intentio ad finem ultimum determinate perducens,
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod duplex est necessitas; scilicet necessitas absoluta, et necessitas ex suppositione. De prima quidem necessitate loquendo, non est necessarium eum gratiam recipere qui se sufficienter ad gratiam parat; quia neque per se necessitas, secundum quam Deum necesse est esse, neque necessitas coactionis vel prohibitionis, in his quae divina voluntate fiunt, cadere potest.***
+Ad tertiam quaestionem dicendum, quod duplex est necessitas; scilicet necessitas absoluta, et necessitas ex suppositione. De prima quidem necessitate loquendo, non est necessarium eum gratiam recipere qui se sufficienter ad gratiam parat; quia neque per se necessitas, secundum quam Deum necesse est esse, neque necessitas coactionis vel prohibitionis, in his quae divina voluntate fiunt, cadere potest.  
 
 Loquendo autem de necessitate quae est ex suppositione divini propositi, quo propter benevolentiam suae bonitatis voluit unicuique eam communicare secundum suam capacitatem, necessarium est quod cuilibet materiae praeparatae forma infundatur. Non tamen eodem modo est in omnibus formis; quia formae quae mediantibus secundis agentibus in materia producuntur, necessario in materia disposita recipiuntur necessitate conditionata in comparatione ad Deum, cujus virtute cetera agentia agunt; sed necessitate absoluta per comparationem ad agentia proxima, quae necessitate naturae agunt propter ordinem divinitus eis impositum, quem praeterire non possunt. Formae autem quae immediate a Deo inducuntur, non habent necessitatem absolutam ex parte agentis, sed quaedam ex parte recipientis, sicut in perfectionibus quae sunt de esse naturae, ut est anima rationalis. Formae autem quae non debentur naturae, sicut gratia et virtutes, immediate a Deo productae, nihil habent de necessitate absoluta, sed solum de necessitate ex suppositione divini ordinis, ut dictum est.  
 
@@ -200,7 +202,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod gratiae infusio non requiratur ad justificationem. Non enim minus est justificare quam creare. Sed Deus creat sine medio. Ergo et justificat sine gratia media.***
+Ad tertium sic proceditur. Videtur quod gratiae infusio non requiratur ad justificationem. Non enim minus est justificare quam creare. Sed Deus creat sine medio. Ergo et justificat sine gratia media.  
 
 Praeterea, in contrariis mediatis unum potest removeri sine hoc quod alterum ponatur. Sed inter statum gratiae et culpae est medium innocentiae status. Ergo potest removeri culpa per justificationem sine hoc quod gratia infundatur.  
 
@@ -208,7 +210,7 @@ Sed contra, nulli dimittitur peccatum, nisi ratione caritatis; quia caritas est 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit necessarius ad justificationem motus liberi arbitrii in Deum. Ille enim qui trahitur, non movetur libero arbitrio. Sed ille qui venit ad Deum trahitur per justificationem. Joan. 6, 44: *nemo venit ad me, nisi pater meus traxerit illum*. Ergo in justificatione non est motus liberi arbitrii.***
+Ulterius. Videtur quod non sit necessarius ad justificationem motus liberi arbitrii in Deum. Ille enim qui trahitur, non movetur libero arbitrio. Sed ille qui venit ad Deum trahitur per justificationem. Joan. 6, 44: *nemo venit ad me, nisi pater meus traxerit illum*. Ergo in justificatione non est motus liberi arbitrii.  
 
 Praeterea, sicut gratia est a Deo, ita et sapientia. Sed ad hoc quod aliquis accipiat sapientiam a Deo, non exigitur motus liberi arbitrii; unde dormienti datur, ut patet 3 Reg. 3, de Salomone; et Job 33, 15, dicitur: *in somno . . . tunc aperit aures virorum*. Ergo et ad gratiam justificantem suscipiendam non requiritur motus liberi arbitrii.  
 
@@ -220,7 +222,7 @@ Praeterea, Bernardus dicit, quod donum gratiae *tam absque consensu recipientis 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod iste motus liberi arbitrii in Deum non sit motus fidei. Quia ad hoc quod Deus appropinquet nobis per justificationem, oportet quod nos appropinquemus ei per affectum. Sed per affectum facit nos appropinquare Deo caritas. Ergo iste motus liberi arbitrii in Deum, non est fidei, sed caritatis.***
+Ulterius. Videtur quod iste motus liberi arbitrii in Deum non sit motus fidei. Quia ad hoc quod Deus appropinquet nobis per justificationem, oportet quod nos appropinquemus ei per affectum. Sed per affectum facit nos appropinquare Deo caritas. Ergo iste motus liberi arbitrii in Deum, non est fidei, sed caritatis.  
 
 Praeterea, Isa. 26, 18, dicitur: *a timore tuo, Domine, concepimus spiritum salutis*. Ergo cum ista conceptio in justificatione fiat, videtur quod sit motus timoris, non fidei.  
 
@@ -232,7 +234,7 @@ Praeterea, justificatio est opus gratiae praevenientis. Sed gratia praeveniens e
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non requiratur motus liberi arbitrii in peccatum, sive contritio. Luc. 7, 47: *dimissa sunt ei peccata multa, quoniam dilexit multum*; dicit *Glossa*, quod *ardor caritatis rubiginem peccatorum in ea consumpsit*. Sed ardor caritatis potest esse sine motu in peccatum. Ergo ad justificationem non requiritur motus in peccatum.***
+Ulterius. Videtur quod non requiratur motus liberi arbitrii in peccatum, sive contritio. Luc. 7, 47: *dimissa sunt ei peccata multa, quoniam dilexit multum*; dicit *Glossa*, quod *ardor caritatis rubiginem peccatorum in ea consumpsit*. Sed ardor caritatis potest esse sine motu in peccatum. Ergo ad justificationem non requiritur motus in peccatum.  
 
 Praeterea, conversio ad Deum potentior est ad bonum quam conversio ad rem temporalem ad malum. Sed conversio ad bonum commutabile sufficienter induxit culpam. Ergo et conversio ad Deum sufficienter justificat; et sic non requiritur motus in peccatum.  
 
@@ -240,7 +242,7 @@ Sed contra est quod dicit *Glossa* in Psal. 50, super illum locum: *sacrificium 
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod non debeat addi quartum, scilicet peccatorum remissio. Quia effectus non connumeratur causae. Sed gratiae infusio et contritio sunt causae remissionis peccati. Ergo non debet connumerari eis.***
+Ulterius. Videtur quod non debeat addi quartum, scilicet peccatorum remissio. Quia effectus non connumeratur causae. Sed gratiae infusio et contritio sunt causae remissionis peccati. Ergo non debet connumerari eis.  
 
 Praeterea, remotio privationis nihil aliud est quam positio habitus. Sed culpa est privatio gratiae. Ergo idem est remotio culpae et infusio gratiae; et ita non debent ad invicem connumerari.  
 
@@ -248,7 +250,7 @@ Sed contra, *generatio unius est corruptio alterius*; et tamen generatio corrupt
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod necessitas ponendi virtutum habitus in anima infusos, est ex hoc quod actus illi qui homini necessarii sunt ad vitam aeternam consequendam, sunt supra humanae naturae facultatem: quia propriae vires non sufficiunt ad merendum infinitum bonum. Sicut autem beatitudo futura infinitatem habet ex objecto, et per consequens facit actus suos meritorios aliquo modo infinitae virtutis, ut sint tali fini proportionati; ita offensa in Deum commissa habet quamdam infinitatem ex eo in quem commissa est; et ideo ad culpae remissionem non sufficit humana natura; et propter hoc oportet quod ad ejus remissionem, sicut ad merendum vitam aeternam, gratia infundatur.***
+Respondeo dicendum ad primam quaestionem, quod necessitas ponendi virtutum habitus in anima infusos, est ex hoc quod actus illi qui homini necessarii sunt ad vitam aeternam consequendam, sunt supra humanae naturae facultatem: quia propriae vires non sufficiunt ad merendum infinitum bonum. Sicut autem beatitudo futura infinitatem habet ex objecto, et per consequens facit actus suos meritorios aliquo modo infinitae virtutis, ut sint tali fini proportionati; ita offensa in Deum commissa habet quamdam infinitatem ex eo in quem commissa est; et ideo ad culpae remissionem non sufficit humana natura; et propter hoc oportet quod ad ejus remissionem, sicut ad merendum vitam aeternam, gratia infundatur.  
 
 Ad primum ergo dicendum, quod gratia in remissione culpae non se habet sicut agens medium, sed sicut causa formalis, qua peccatum remittitur; sicut ignis frigus aufert, calorem in subjecto causato, non sicut instrumento, sed sicut forma contraria; et in creatione etiam est forma naturalis, qua res creata esse formaliter accipit, vel etiam ipsum quo est, quidquid sit illud.  
 
@@ -256,7 +258,7 @@ Ad secundum dicendum, quod quamvis secundum consecutionem argumenti non sequatur
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod gratia quae datur ad recte vivendum et peccatorum remissionem, per prius respicit voluntatem quam alias potentias: per eam enim peccatur et recte vivitur; et ideo oportet quod infusio gratiae justificantis sit secundum talem modum qui voluntati competat; et propter hoc oportet quod a tali infusione omnis ratio violentiae excludatur, quia violentiae capax non est. Ad hoc autem quod violentia ab actione tollatur, oportet quod patiens cooperetur agenti secundum modum suum; unde in illis quae nata sunt agere, requiritur quod active cooperentur; in illis autem quae sunt nata recipere tantum, sicut materia prima, sufficit ad violentiam tollendam naturalis inclinatio ad formam; et ex hoc dicitur generatio naturalis.***
+Ad secundam quaestionem dicendum, quod gratia quae datur ad recte vivendum et peccatorum remissionem, per prius respicit voluntatem quam alias potentias: per eam enim peccatur et recte vivitur; et ideo oportet quod infusio gratiae justificantis sit secundum talem modum qui voluntati competat; et propter hoc oportet quod a tali infusione omnis ratio violentiae excludatur, quia violentiae capax non est. Ad hoc autem quod violentia ab actione tollatur, oportet quod patiens cooperetur agenti secundum modum suum; unde in illis quae nata sunt agere, requiritur quod active cooperentur; in illis autem quae sunt nata recipere tantum, sicut materia prima, sufficit ad violentiam tollendam naturalis inclinatio ad formam; et ex hoc dicitur generatio naturalis.  
 
 Sed quantum est ibi de contrarietate, tantum est ibi de violentia; unde quando voluntas non habet actum contrarium, sicut est in pueris, sine violentia voluntatis potest infundi gratia per sacramentum, sicut pueris baptizatis; et sine sacramento, sicut patet in sanctificatis in utero. Sed quando voluntas habet suum actum, sicut est in adultis, requiritur actus voluntatis ad gratiam suscipiendam, animam ad datorem ordinans; et ideo ad justificationem, quae per infusionem gratiae fit, requiritur motus liberi arbitrii in Deum.  
 
@@ -268,7 +270,7 @@ Ad tertium dicendum, quod per baptismum etiam adulti gratiam suscipere possunt i
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod omne quod natum est ex pluribus sequi, attribuitur ei quod primum est; sicut vita attribuitur animae nutritivae, quia ipsa est prior inter principia vitae in viventibus corporaliter. Similiter dicitur animal esse animal per sensum primum, qui est tactus, ut patet in 3 *de Anima*. Unde si justificatio sequitur ad motum liberi arbitrii in Deum, oportet quod attribuatur illi motui qui naturaliter prior in justificatione apparet. Movetur autem mens in Deum et per intellectum et per affectum, et hi duo motus mentis simul esse possunt, quamvis non simul cogitari possint: quia unus est regula alterius, et per actum intellectus praesentatur suum objectum voluntati, quia objectum ejus est bonum imaginatum vel intellectum, ut Philosophus dicit in 3 *de Anima*. Sed naturaliter motus intellectus praecedit, sicut objectum naturaliter praecedit actum potentiae; unde cum motus intellectus in Deum sit per fidem, justificatio motum fidei requirit.***
+Ad tertiam quaestionem dicendum, quod omne quod natum est ex pluribus sequi, attribuitur ei quod primum est; sicut vita attribuitur animae nutritivae, quia ipsa est prior inter principia vitae in viventibus corporaliter. Similiter dicitur animal esse animal per sensum primum, qui est tactus, ut patet in 3 *de Anima*. Unde si justificatio sequitur ad motum liberi arbitrii in Deum, oportet quod attribuatur illi motui qui naturaliter prior in justificatione apparet. Movetur autem mens in Deum et per intellectum et per affectum, et hi duo motus mentis simul esse possunt, quamvis non simul cogitari possint: quia unus est regula alterius, et per actum intellectus praesentatur suum objectum voluntati, quia objectum ejus est bonum imaginatum vel intellectum, ut Philosophus dicit in 3 *de Anima*. Sed naturaliter motus intellectus praecedit, sicut objectum naturaliter praecedit actum potentiae; unde cum motus intellectus in Deum sit per fidem, justificatio motum fidei requirit.  
 
 Ad primum ergo dicendum, quod motum liberi arbitrii, cum quo gratia infunditur, oportet accipi in sua ultima perfectione. Actus autem fidei perfectus non est, nisi actu affectus perfecto existente: nullus enim credit nisi qui vult, ut Augustinus dicit; et ideo cum actu fidei in justificatione semper adjungitur actus caritatis; et his duobus anima Deo appropinquat. Non enim potest esse dubium quin actui caritatis semper actus fidei conjungatur, ex quo objectum per fidem caritati praesentatur: sicut etiam intelligere nostrum nunquam est in actu nisi imaginatione in actu existente.  
 
@@ -278,7 +280,7 @@ Ad tertium dicendum, quod non oportet in eodem esse dispositionem et perfectione
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod sicut in generationibus naturalibus, in quibus una forma expellitur et altera introducitur, propter hoc quod generatio unius est corruptio alterius, oportet esse disponens ad utrumque; ita in justificatione, qua gratia confertur et culpa expellitur, oportet esse dispositionem voluntatis secundum proprium actum ad utrumque. Et ideo sicut per motum liberi arbitrii in Deum disponitur ille qui justificatur, ad gratiam obtinendam; ita per motum liberi arbitrii in peccatum, oportet quod ad culpae expulsionem disponatur; et ideo in justificatione qua innocens justificaretur, oportet esse dispositionem solum ad gratiam inducendam; sed in justificatione qua justificatur impius, oportet dispositionem esse duplicem; unam ad introducendum gratiam, scilicet motum liberi arbitrii in Deum; alteram ad expellendam culpam, scilicet motum liberi arbitrii in peccatum.***
+Ad quartam quaestionem dicendum, quod sicut in generationibus naturalibus, in quibus una forma expellitur et altera introducitur, propter hoc quod generatio unius est corruptio alterius, oportet esse disponens ad utrumque; ita in justificatione, qua gratia confertur et culpa expellitur, oportet esse dispositionem voluntatis secundum proprium actum ad utrumque. Et ideo sicut per motum liberi arbitrii in Deum disponitur ille qui justificatur, ad gratiam obtinendam; ita per motum liberi arbitrii in peccatum, oportet quod ad culpae expulsionem disponatur; et ideo in justificatione qua innocens justificaretur, oportet esse dispositionem solum ad gratiam inducendam; sed in justificatione qua justificatur impius, oportet dispositionem esse duplicem; unam ad introducendum gratiam, scilicet motum liberi arbitrii in Deum; alteram ad expellendam culpam, scilicet motum liberi arbitrii in peccatum.  
 
 Ad primum ergo dicendum, quod fervor dilectionis de necessitate secum conjunctum habet odium contrarii; et ideo fervor dilectionis ad dimissionem culpae non operatur sine peccati detestatione, quae directe dimissioni culpae respondeat.  
 
@@ -286,7 +288,7 @@ Ad secundum dicendum, quod conversio ad Deum sufficit ad gratiam obtinendam quan
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod illa quae per accidens se habent ad aliquid, non includuntur ab illo. Remissio autem culpae se habet accidentaliter ad gratiae infusionem, quia accidit ex subjecto in quo culpam invenit: posset enim esse infusio gratiae sine hoc quod culpa remitteretur, sicut in statu innocentiae fuit, et in Christo homine quantum ad primum instans suae conceptionis; et ideo infusio gratiae non includit culpae remissionem.***
+Ad quintam quaestionem dicendum, quod illa quae per accidens se habent ad aliquid, non includuntur ab illo. Remissio autem culpae se habet accidentaliter ad gratiae infusionem, quia accidit ex subjecto in quo culpam invenit: posset enim esse infusio gratiae sine hoc quod culpa remitteretur, sicut in statu innocentiae fuit, et in Christo homine quantum ad primum instans suae conceptionis; et ideo infusio gratiae non includit culpae remissionem.  
 
 Unde cum ad justificationem impii, de qua loquimur, sit necessaria culpae remissio, oportet quod connumeretur gratiae infusioni; et sic sunt quatuor quae requiruntur in ipsa justificatione: scilicet gratiae infusio, culpae remissio, motus liberi arbitrii in Deum, et motus liberi arbitrii in peccatum.  
 
@@ -300,7 +302,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod culpae remotio naturaliter praecedat gratiae infusionem. In Psalm. 62, ubi super illud: *sic in sancto apparui tibi*, dicit *Glossa*: *nisi quis prius deficiat in malo, nunquam perveniet ad bonum*. Ergo remissio mali culpae est prior quam perventio ad bonum gratiae.***
+Ad quartum sic proceditur. Videtur quod culpae remotio naturaliter praecedat gratiae infusionem. In Psalm. 62, ubi super illud: *sic in sancto apparui tibi*, dicit *Glossa*: *nisi quis prius deficiat in malo, nunquam perveniet ad bonum*. Ergo remissio mali culpae est prior quam perventio ad bonum gratiae.  
 
 Praeterea, remissio culpae et infusio gratiae se habent sicut illuminatio et purgatio. Sed purgatio praecedit illuminationem, secundum Dionysium. Ergo et remissio culpae praecedit gratiae infusionem.  
 
@@ -312,7 +314,7 @@ Praeterea, Ambrosius dicit, quod perfecta virtus in animam intrans, iniquitatem 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod motus liberi arbitrii praecedat gratiae infusionem. Quia dispositio praecedit naturaliter perfectionem. Sed motus liberi arbitrii est dispositio ad gratiam. Ergo naturaliter praecedit gratiae infusionem.***
+Ulterius. Videtur quod motus liberi arbitrii praecedat gratiae infusionem. Quia dispositio praecedit naturaliter perfectionem. Sed motus liberi arbitrii est dispositio ad gratiam. Ergo naturaliter praecedit gratiae infusionem.  
 
 Praeterea, gratiae infusio et culpae remissio se concomitantur. Sed motus contritionis, qui est motus liberi arbitrii in peccatum, causat culpae remissionem. Ergo est prior quam ipsa et prior quam gratiae infusio.  
 
@@ -324,7 +326,7 @@ Praeterea, actus primus praecedit actum secundum. Sed gratiae infusio et culpae 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod motus liberi arbitrii in peccatum praecedat motum liberi arbitrii in Deum. Quia motus liberi arbitrii in peccatum maxime videtur ad timorem pertinere. Sed timor praecedit caritatem, ut Augustinus dicit. Ergo et motus liberi arbitrii in peccatum praecedit motum liberi arbitrii in Deum, qui est caritatis.***
+Ulterius. Videtur quod motus liberi arbitrii in peccatum praecedat motum liberi arbitrii in Deum. Quia motus liberi arbitrii in peccatum maxime videtur ad timorem pertinere. Sed timor praecedit caritatem, ut Augustinus dicit. Ergo et motus liberi arbitrii in peccatum praecedit motum liberi arbitrii in Deum, qui est caritatis.  
 
 Praeterea, motus liberi arbitrii in peccatum est quasi removens prohibens. Sed non sequitur motus ad terminum debitum nisi remoto prohibente, sicut patet in motu locali. Ergo motus liberi arbitrii in peccatum praecedit motum liberi arbitrii in Deum quasi in finem debitum.  
 
@@ -332,7 +334,7 @@ Sed contra, motus liberi arbitrii in Deum est motus fidei; motus autem liberi ar
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod omnis prioritas secundum ordinem naturae aliquo modo reducitur ad ordinem causae et causati: quia principium et causa sunt idem.***
+Respondeo dicendum ad primam quaestionem, quod omnis prioritas secundum ordinem naturae aliquo modo reducitur ad ordinem causae et causati: quia principium et causa sunt idem.  
 
 In causis autem contingit quod idem est causa et causatum, secundum diversum genus causae, ut patet in 2 *Physic*., et in 5 *Metaph*.: sicut ambulatio est causa efficiens sanationis, et sanatio est causa finalis ambulationis; et similiter de habitudine quae est inter materiam et formam: quia secundum genus causae materialis materia est causa formae quasi sustentans ipsam, et forma est causa materiae quasi faciens eam esse actu secundum genus causae formalis.  
 
@@ -344,7 +346,7 @@ Et per hoc patet responsio ad objecta.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in ordine istorum motuum liberi arbitrii ad gratiae infusionem et remissionem culpae, est multiplex opinio.***
+Ad secundam quaestionem dicendum, quod in ordine istorum motuum liberi arbitrii ad gratiae infusionem et remissionem culpae, est multiplex opinio.  
 
 Quidam enim dicunt, quod motus praedicti praecedunt; et concedunt quod motus liberi arbitrii in Deum est motus fidei non formatae, sed informis; et motus liberi arbitrii in peccatum est motus attritionis, non contritionis: quia omne quod praecedit gratiam, non potest esse per gratiam formatum. Sed hoc non potest esse: quia in ipso motu contritionis justificatur poenitens, sicut in ipso actu ablutionis baptismalis justificatur puer baptizatus. Tunc autem aliquis justificatur quando gratiam recipit; unde simul cum gratiae infusione et justificatione est motus contritionis; sed motus attritionis praecedit quasi praeparatorius. Nos autem nunc non loquimur de praeparatoriis ad justificationem, sed de his quae intrant substantiam ipsius.  
 
@@ -360,7 +362,7 @@ Et per hoc patet responsio ad objecta.
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod motus liberi arbitrii,*arbitrii.—arbitrii in Deum* PLE. ut ex dictis patet, directe respondet gratiae infusioni; motus autem liberi arbitrii in peccatum directe respondet remissioni culpae; unde eadem ratio est de ordine istorum ad invicem, et de ordine remissionis culpae ad infusionem gratiae.***
+Ad tertiam quaestionem dicendum, quod motus liberi arbitrii,*arbitrii.—arbitrii in Deum* PLE. ut ex dictis patet, directe respondet gratiae infusioni; motus autem liberi arbitrii in peccatum directe respondet remissioni culpae; unde eadem ratio est de ordine istorum ad invicem, et de ordine remissionis culpae ad infusionem gratiae.  
 
 Ad primum ergo dicendum, quod Augustinus loquitur de timore servili, cujus actus non est motus liberi arbitrii qui est simul cum justificatione: quia timor servilis non est simul cum gratia, qua iste motus informatur; et ideo ratio non est ad propositum.  
 
@@ -374,7 +376,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod justificatio impii sit miraculosa. Quia, sicut dicit Augustinus, *majus est de impio facere pium quam creare caelum et terram*. Sed creatio caeli et terrae est miraculosa. Ergo et justificatio impii.***
+Ad quintum sic proceditur. Videtur quod justificatio impii sit miraculosa. Quia, sicut dicit Augustinus, *majus est de impio facere pium quam creare caelum et terram*. Sed creatio caeli et terrae est miraculosa. Ergo et justificatio impii.  
 
 Praeterea, quanto est major resistentia, tanto est difficilior actio. Sed in creatione non est aliqua resistentia: quia quod non est, non potest resistere; in justificatione autem impii est contrarietas resistens, scilicet impietas inventa in eo. Ergo est difficilior; et sic idem quod prius.  
 
@@ -386,7 +388,7 @@ Praeterea, miracula dicuntur quae raro accidunt. Sed frequenter aliqui justifica
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod infusio gratiae et remissio culpae non sint in eodem instanti. Gratia enim non datur nisi digno. Sed nullus est dignus in quo culpa est. Ergo gratia datur ei a quo culpa jam remota est; et sic non sunt simul.***
+Ulterius. Videtur quod infusio gratiae et remissio culpae non sint in eodem instanti. Gratia enim non datur nisi digno. Sed nullus est dignus in quo culpa est. Ergo gratia datur ei a quo culpa jam remota est; et sic non sunt simul.  
 
 Praeterea, gratia adveniens expellit culpam. Sed nihil agit nisi postquam est. Gratia autem non prius est quam insit. Ergo oportet quod gratia prius sit in subjecto quam culpam expellat; et ita non sunt simul tempore gratiae infusio et culpae remissio.  
 
@@ -398,7 +400,7 @@ Praeterea, remissio culpae et infusio gratiae se habent in justificatione sicut 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sit successiva. Quia nullus motus est in instanti. Sed in ipsa justificatione est motus liberi arbitrii. Ergo non est in instanti, sed successiva.***
+Ulterius. Videtur quod sit successiva. Quia nullus motus est in instanti. Sed in ipsa justificatione est motus liberi arbitrii. Ergo non est in instanti, sed successiva.  
 
 Praeterea, sicut intellectus est simplex, ita et liberum arbitrium est simplex. Sed propter simplicitatem intellectus impossibile est simul plura intelligere. Ergo propter simplicitatem liberi arbitrii impossibile est liberum arbitrium simul ferri ad diversa. Ergo cum in justificatione impii sit motus liberi arbitrii in Deum, et in peccatum, non erit justificatio impii in instanti, sed successiva.  
 
@@ -410,7 +412,7 @@ Sed contra, efficacior est virtus divina ad agendum quam virtus naturae. Sed vir
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod de ratione miraculi secundum se sumpti tria sunt: quorum primum est, quod illud quod fit per miraculum, fit supra virtutem naturae creatae agentis; secundum, ut in natura recipiente non sit ordo naturalis ad illius susceptionem, sed solum potentia obedientiae ad Deum; tertium, ut praeter motum consuetum tali effectui ipse effectus inducatur. Exemplum primi est de gloria corporum in resurrectione, ad quam natura non attingit: exemplum secundi est de illuminatione caeci, in quo non est potentia naturalis ad suscipiendum visum: exemplum tertii est de conversione aquae in vinum praeter cursum naturae.***
+Respondeo dicendum ad primam quaestionem, quod de ratione miraculi secundum se sumpti tria sunt: quorum primum est, quod illud quod fit per miraculum, fit supra virtutem naturae creatae agentis; secundum, ut in natura recipiente non sit ordo naturalis ad illius susceptionem, sed solum potentia obedientiae ad Deum; tertium, ut praeter motum consuetum tali effectui ipse effectus inducatur. Exemplum primi est de gloria corporum in resurrectione, ad quam natura non attingit: exemplum secundi est de illuminatione caeci, in quo non est potentia naturalis ad suscipiendum visum: exemplum tertii est de conversione aquae in vinum praeter cursum naturae.  
 
 Et haec tria aliquo modo semper concurrunt ad actum miraculosum: quia etsi visiva potentia non excedat vires naturae absolute loquendo, quia eam per generationem inducit; excedit tamen vires naturae considerata impotentia recipientis; et si adsit potentia absolute aliquando, sicut in conversione aquae in vinum, tamen per comparationem ad modum fiendi, neutrum adest; et ideo in definitione miraculi ponitur *arduum* quantum ad primum; *praeter spem*, scilicet naturae, quantum ad secundum; *insolitum* quantum ad tertium.  
 
@@ -426,7 +428,7 @@ Ad tertium dicendum, quod voluntas non trahitur in justificationem per modum coa
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod expulsio formae dicit terminum motus illius qui est ad corruptionem ordinatus; et introductio formae dicit similiter terminum motus illius qui praecedit generationem; quia tam generatio quam corruptio sunt termini motus. Omne autem quod movetur, quando est in termino motus, disponitur secundum illud ad quod motus ordinatur; et ideo, cum motus corruptionis tendat in non esse, generationis vero ad esse; quando forma introducitur, forma est; quando autem expellitur, non est. Et quia introduci dicitur forma quando primo est; expelli autem, quando primo non est; non potest esse materia sine forma hac vel illa; ideo simul est ibi expulsio unius formae et introductio alterius. Cum ergo similiter anima non possit esse sine culpa vel gratia; simul est infusio gratiae et remissio culpae.***
+Ad secundam quaestionem dicendum, quod expulsio formae dicit terminum motus illius qui est ad corruptionem ordinatus; et introductio formae dicit similiter terminum motus illius qui praecedit generationem; quia tam generatio quam corruptio sunt termini motus. Omne autem quod movetur, quando est in termino motus, disponitur secundum illud ad quod motus ordinatur; et ideo, cum motus corruptionis tendat in non esse, generationis vero ad esse; quando forma introducitur, forma est; quando autem expellitur, non est. Et quia introduci dicitur forma quando primo est; expelli autem, quando primo non est; non potest esse materia sine forma hac vel illa; ideo simul est ibi expulsio unius formae et introductio alterius. Cum ergo similiter anima non possit esse sine culpa vel gratia; simul est infusio gratiae et remissio culpae.  
 
 Ad primum ergo dicendum, quod sicut albedo nunquam est in non albo, quia sua praesentia facit album; ita gratia nunquam est in indigno, quia sua praesentia facit dignum; et propter hoc non oportet quod prius sit dignus quam gratiam habeat.  
 
@@ -436,7 +438,7 @@ Ad tertium dicendum, quod quamvis anima secundum se sit supra tempus, ut dicitur
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod duplex est modus formarum. Quaedam enim formae sunt quae recipiunt magis et minus secundum elongationem a contrario, et secundum accessum ad causam propriam, sicut albedo; et ideo talis forma etiam successive in subjecto recipitur; et postquam recepta est, intenditur et remittitur. Quaedam autem forma est quae non recipit magis nec minus, neque sic neque sic: quia impositio ejus est in indivisibili; sicut forma substantialis; et talis forma neque recipitur successive in subjecto, neque intenditur neque remittitur postquam suscepta fuerit. Quaedam autem forma medio modo se habet; quia non recipit magis aut minus secundum elongationem a contrario, eo quod nullo modo suo contrario commiscibile est, et in hoc convenit cum forma substantiali; sed tamen suscipit magis et minus secundum accessum ad suam causam; sicut patet de luce; et ideo talis forma non recipitur successive in subjecto, sicut nec forma substantialis; sed tamen postquam inest, potest intendi et remitti, sicut forma accidentalis contrarium habens.***
+Ad tertiam quaestionem dicendum, quod duplex est modus formarum. Quaedam enim formae sunt quae recipiunt magis et minus secundum elongationem a contrario, et secundum accessum ad causam propriam, sicut albedo; et ideo talis forma etiam successive in subjecto recipitur; et postquam recepta est, intenditur et remittitur. Quaedam autem forma est quae non recipit magis nec minus, neque sic neque sic: quia impositio ejus est in indivisibili; sicut forma substantialis; et talis forma neque recipitur successive in subjecto, neque intenditur neque remittitur postquam suscepta fuerit. Quaedam autem forma medio modo se habet; quia non recipit magis aut minus secundum elongationem a contrario, eo quod nullo modo suo contrario commiscibile est, et in hoc convenit cum forma substantiali; sed tamen suscipit magis et minus secundum accessum ad suam causam; sicut patet de luce; et ideo talis forma non recipitur successive in subjecto, sicut nec forma substantialis; sed tamen postquam inest, potest intendi et remitti, sicut forma accidentalis contrarium habens.  
 
 Et talis forma est gratia, quia nullam commixtionem patitur cum suo opposito, eo quod suum oppositum magis habet naturam privationis quam alicujus positionis, sicut et tenebra; et ideo oportet quod recipiatur subito in subjecto; et tamen potest intendi et remitti secundum accessum ad causam gratiae; et ideo sicut in instanti est introductio formae substantialis in materiam, et in eodem instanti expulsio alterius formae, et in eodem instanti completa dispositio, quae est necessitas ad formam, et per se terminus alterationis; ita infusio gratiae est in instanti, et in eodem instanti est remissio culpae, et motus liberi arbitrii, qui est quasi dispositio completa ad suscipiendam gratiam; et sic totum quod ad justificationem requiritur, est in instanti; unde justificatio non est successiva, sed subita.  
 
@@ -468,7 +470,7 @@ primo, quid sit;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod contritio non sit *dolor pro peccatis assumptus cum proposito confitendi et satisfaciendi*, ut quidam definiunt. Dolor enim in hoc a timore differt, quod dolor est de malo praesenti, timor de malo futuro. Sed peccata de quibus homo conteritur, non sunt quando est contritio, ut ex dictis patet. Ergo de eis non potest esse dolor.***
+Ad primum sic proceditur. Videtur quod contritio non sit *dolor pro peccatis assumptus cum proposito confitendi et satisfaciendi*, ut quidam definiunt. Dolor enim in hoc a timore differt, quod dolor est de malo praesenti, timor de malo futuro. Sed peccata de quibus homo conteritur, non sunt quando est contritio, ut ex dictis patet. Ergo de eis non potest esse dolor.  
 
 Praeterea, secundum Augustinum, in Lib. *de Civ. Dei*, dolor est de his quae nobis nolentibus accidunt. Sed peccata non sunt hujusmodi. Ergo, etc.  
 
@@ -486,7 +488,7 @@ Praeterea, satisfactio et confessio sunt necessaria ad hoc quod poena remittatur
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod contritio non sit actus virtutis. Passiones enim non sunt actus virtutum; quia eis non laudamur neque vituperamur, sicut dicitur in 2 *Ethic*. Sed dolor est passio. Cum ergo contritio sit dolor, videtur quod non sit actus virtutis.***
+Ulterius. Videtur quod contritio non sit actus virtutis. Passiones enim non sunt actus virtutum; quia eis non laudamur neque vituperamur, sicut dicitur in 2 *Ethic*. Sed dolor est passio. Cum ergo contritio sit dolor, videtur quod non sit actus virtutis.  
 
 Praeterea, omnis actus virtutis est ab eo qui habet virtutem. Sed contritio non significatur ut procedens a contrito, sed magis ut in ipsum ab alio effectu procedit; et similiter compunctio, secundum quod alio nomine dicitur. Ergo contritio non est actus virtutis.  
 
@@ -500,7 +502,7 @@ Praeterea, sicut ad virtutem pertinet facere bonum, ita declinare a malo, eo quo
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod attritio possit fieri contritio. Differt enim contritio ab attritione, sicut formatum ab informi. Sed fides informis fit formata. Ergo attritio potest fieri contritio.***
+Ulterius. Videtur quod attritio possit fieri contritio. Differt enim contritio ab attritione, sicut formatum ab informi. Sed fides informis fit formata. Ergo attritio potest fieri contritio.  
 
 Praeterea, materia recipit perfectionem remota privatione. Sed dolor se habet ad gratiam, sicut materia ad formam; quia gratia informat dolorem. Ergo dolor qui prius erat informis, culpa existente, quae est privatio gratiae; remota culpa recipiet perfectionem informationis a gratia; et sic idem quod prius.  
 
@@ -512,7 +514,7 @@ Praeterea, naturalia non fiunt gratuita secundum communiorem opinionem. Sed natu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod initium omnis peccati est superbia, per quam homo sensui suo inhaerens, a mandatis divinis recedit; et ideo oportet quod illud quod destruit peccatum, hominem a sensu discedere faciat. Ille autem qui in sensu suo perseverat, rigidus et durus per similitudinem vocatur; unde et frangi aliquis dicitur, quando a sensu suo divellitur. Sed inter fractionem et comminutionem, sive contritionem, in rebus materialibus, unde haec nomina ad spiritualia transferuntur, hoc interest, ut dicitur in 4 *Meteor*., quod frangi dicuntur aliqua quando in magnas partes dividuntur; sed comminui vel conteri, quando ad partes minimas reducitur hoc quod in se solidum erat. Et quia ad dimissionem peccati requiritur quod homo totaliter affectum peccati dimittat, per quem quamdam continuitatem et soliditatem in sensu suo habebat; ideo actus ille quo peccatum remittitur, contritio dicitur per similitudinem.***
+Respondeo dicendum ad primam quaestionem, quod initium omnis peccati est superbia, per quam homo sensui suo inhaerens, a mandatis divinis recedit; et ideo oportet quod illud quod destruit peccatum, hominem a sensu discedere faciat. Ille autem qui in sensu suo perseverat, rigidus et durus per similitudinem vocatur; unde et frangi aliquis dicitur, quando a sensu suo divellitur. Sed inter fractionem et comminutionem, sive contritionem, in rebus materialibus, unde haec nomina ad spiritualia transferuntur, hoc interest, ut dicitur in 4 *Meteor*., quod frangi dicuntur aliqua quando in magnas partes dividuntur; sed comminui vel conteri, quando ad partes minimas reducitur hoc quod in se solidum erat. Et quia ad dimissionem peccati requiritur quod homo totaliter affectum peccati dimittat, per quem quamdam continuitatem et soliditatem in sensu suo habebat; ideo actus ille quo peccatum remittitur, contritio dicitur per similitudinem.  
 
 In qua quidem contritione plura possunt considerari; scilicet ipsa substantia actus, modus agendi, principium et effectus; et secundum hoc de contritione inveniuntur diversae definitiones traditae. Quantum enim ad ipsam substantiam actus datur praedicta definitio. Et quia actus contritionis est actus virtutis, et est pars poenitentiae sacramenti; ideo manifestatur in praedicta definitione inquantum est actus virtutis, per hoc quod ponitur genus ipsius, scilicet *dolor*, et objectum in hoc quod dicit, *pro peccatis*; et electio quae requiritur ad actum virtutis, in hoc quod dicit, *assumptus*; sed inquantum est pars sacramenti, per hoc quod tangitur ordo ipsius ad alias partes, cum dicit, *cum proposito confitendi*, etc.  
 
@@ -542,7 +544,7 @@ Ad octavum dicendum, quod quamvis tota poena possit per contritionem dimitti, ta
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod contritio secundum proprietatem sui nominis non significat actum virtutis, sed magis quamdam corporalem passionem. Sed hic non quaeritur sic de contritione, sed de eo ad quod significandum hoc nomen per similitudinem adaptatur. Sicut enim inflatio propriae voluntatis ad malum faciendum importat, quantum est de se, malum ex genere; ita illius voluntatis annihilatio et comminutio quaedam de se importat bonum ex genere; quia hoc est detestari propriam voluntatem, qua peccatum commissum est; et ideo contritio, quae hoc significat, importat aliquam rectitudinem voluntatis; et propter hoc est actus virtutis illius scilicet, cujus est peccatum praeteritum detestari et destruere scilicet poenitentiae, ut patet ex his quae in 14 dist., qu. 1, art. 1, quaestiunc. 3, dicta sunt.***
+Ad secundam quaestionem dicendum, quod contritio secundum proprietatem sui nominis non significat actum virtutis, sed magis quamdam corporalem passionem. Sed hic non quaeritur sic de contritione, sed de eo ad quod significandum hoc nomen per similitudinem adaptatur. Sicut enim inflatio propriae voluntatis ad malum faciendum importat, quantum est de se, malum ex genere; ita illius voluntatis annihilatio et comminutio quaedam de se importat bonum ex genere; quia hoc est detestari propriam voluntatem, qua peccatum commissum est; et ideo contritio, quae hoc significat, importat aliquam rectitudinem voluntatis; et propter hoc est actus virtutis illius scilicet, cujus est peccatum praeteritum detestari et destruere scilicet poenitentiae, ut patet ex his quae in 14 dist., qu. 1, art. 1, quaestiunc. 3, dicta sunt.  
 
 Ad primum ergo dicendum, quod in contritione est duplex dolor de peccato. Unus in parte sensitiva, qui passio est; et hic non est essentialiter contritio, prout est actus virtutis, sed magis effectus ipsius. Sicut enim poenitentiae virtus exteriorem poenam suo corpori infligit ad recompensandum offensam quae in Deum commissa est officio membrorum; ita etiam et ipsi concupiscibili poenam infert doloris praedicti, quia ipsa etiam ad peccatum cooperabatur. Sed tamen hic dolor potest pertinere ad contritionem, inquantum est pars sacramenti; quia sacramenta non solum in interioribus actibus, sed etiam in exterioribus, et in rebus sensibilibus, nata sunt esse. Alius dolor est in voluntate, qui nihil aliud est quam displicentia alicujus mali, secundum quod affectus voluntatis nominatur per nomina passionum, ut in 3 Lib., dist. 26, qu. 1, art. 5, in corp., dictum est; et sic contritio est dolor per essentiam, et est actus virtutis poenitentiae.  
 
@@ -554,7 +556,7 @@ Ad quartum dicendum, quod contritio, secundum quod in se consideratur, fuit semp
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod super hoc est duplex opinio. Quidam enim dicunt, quod attritio fit contritio, sicut fides informis fit formata. Sed hoc, ut videtur, non potest esse; quia quamvis habitus fidei informis fiat formatus, nunquam tamen actus fidei informis fit actus fidei formatae; quia actus ille informis transit, et non manet veniente caritate. Attritio autem et contritio non dicunt habitum, sed actum tantum; habitus enim virtutum infusarum, qui voluntatem respiciunt, non possunt esse informes, cum caritatem consequantur, ut in 3 Lib., dist. 23, qu. 3, art. 1, quaestiunc. 1, dictum est. Unde antequam gratia infundatur, non est habitus, a quo actus contritionis postea elicitur; et sic nullo modo attritio potest fieri contritio; et hoc alia opinio dicit.***
+Ad tertiam quaestionem dicendum, quod super hoc est duplex opinio. Quidam enim dicunt, quod attritio fit contritio, sicut fides informis fit formata. Sed hoc, ut videtur, non potest esse; quia quamvis habitus fidei informis fiat formatus, nunquam tamen actus fidei informis fit actus fidei formatae; quia actus ille informis transit, et non manet veniente caritate. Attritio autem et contritio non dicunt habitum, sed actum tantum; habitus enim virtutum infusarum, qui voluntatem respiciunt, non possunt esse informes, cum caritatem consequantur, ut in 3 Lib., dist. 23, qu. 3, art. 1, quaestiunc. 1, dictum est. Unde antequam gratia infundatur, non est habitus, a quo actus contritionis postea elicitur; et sic nullo modo attritio potest fieri contritio; et hoc alia opinio dicit.  
 
 Ad primum ergo dicendum, quod non est simile de fide et contritione, ut dictum est.  
 
@@ -568,7 +570,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod homo debeat conteri de poenis, non solum de culpis. Augustinus enim in Lib. de poenitentia dicit: *nemo vitam aeternam desiderat, nisi eum hujus vitae mortalis poeniteat*. Sed mortalitas vitae quaedam poena est. Ergo debet poenitens etiam de poenis conteri.***
+Ad secundum sic proceditur. Videtur quod homo debeat conteri de poenis, non solum de culpis. Augustinus enim in Lib. de poenitentia dicit: *nemo vitam aeternam desiderat, nisi eum hujus vitae mortalis poeniteat*. Sed mortalitas vitae quaedam poena est. Ergo debet poenitens etiam de poenis conteri.  
 
 Praeterea, supra habitum est ex verbis Augustini, quod poenitens debet dolere ex hoc quod virtute se privavit. Sed privatio virtutis quaedam poena est. Ergo contritio est dolor etiam de poenis.  
 
@@ -576,7 +578,7 @@ Sed contra, nullus tenet id de quo dolet. Sed poenitens, secundum suum nomen, po
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod contritio esse debeat de originali. De peccato enim actuali conteri debemus, non ratione actus inquantum est ens quoddam, sed ratione deformitatis, quia actus secundum suam substantiam bonum quoddam est et a Deo. Sed peccatum originale habet deformitatem, sicut et actuale. Ergo etiam de eo conteri debemus.***
+Ulterius. Videtur quod contritio esse debeat de originali. De peccato enim actuali conteri debemus, non ratione actus inquantum est ens quoddam, sed ratione deformitatis, quia actus secundum suam substantiam bonum quoddam est et a Deo. Sed peccatum originale habet deformitatem, sicut et actuale. Ergo etiam de eo conteri debemus.  
 
 Praeterea, per peccatum originale homo fuit a Deo aversus, quia poena ejus erat carentia divinae visionis. Sed cuilibet debet displicere se fuisse a Deo aversum. Ergo homo debet habere displicentiam peccati originalis, et sic debet de ipso conteri.  
 
@@ -584,7 +586,7 @@ Sed contra, medicina debet esse proportionata morbo. Sed peccatum originale sine
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non de omni actuali peccato commisso a nobis debeamus conteri. Quia contraria contrariis curantur. Sed quaedam peccata per tristitiam committuntur, sicut acedia et invidia. Ergo medicina eorum non debet esse tristitia, quae est contritio, sed gaudium.***
+Ulterius. Videtur quod non de omni actuali peccato commisso a nobis debeamus conteri. Quia contraria contrariis curantur. Sed quaedam peccata per tristitiam committuntur, sicut acedia et invidia. Ergo medicina eorum non debet esse tristitia, quae est contritio, sed gaudium.  
 
 Praeterea, contritio est actus voluntatis, qui non potest esse de eo quod cognitioni non subjacet. Sed quaedam peccata sunt quae in cognitione non habemus, sicut oblita. Ergo de eis non potest esse contritio.  
 
@@ -598,7 +600,7 @@ Praeterea, nullum peccatum remittitur, nisi quis justificetur. Sed ad justificat
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod etiam de peccatis futuris aliquis debeat conteri. Contritio enim est actus liberi arbitrii. Sed liberum arbitrium magis se extendit ad futura quam ad praeterita; quia electio, quae est actus liberi arbitrii, est de contingentibus futuris, ut dicitur in 3 *Ethica*. Ergo contritio est magis de peccatis futuris quam de praeteritis.***
+Ulterius. Videtur quod etiam de peccatis futuris aliquis debeat conteri. Contritio enim est actus liberi arbitrii. Sed liberum arbitrium magis se extendit ad futura quam ad praeterita; quia electio, quae est actus liberi arbitrii, est de contingentibus futuris, ut dicitur in 3 *Ethica*. Ergo contritio est magis de peccatis futuris quam de praeteritis.  
 
 Praeterea, peccatum aggravatur ex consequenti effectu. Unde Hieronymus dicit, quod poena Arii nondum est determinata, quia adhuc est possibile aliquos per ejus haeresim corruere, quibus corruentibus semper ejus poena augetur; et similiter est de illo qui judicatur homicida, si letaliter percussit, etiam antequam percussus moriatur. Sed in illo intermedio debet peccator conteri de peccato. Ergo non solum secundum quod habet quantitatem ex praeterito actu, sed etiam secundum quod habet quantitatem ex futuro: et sic contritio respicit futurum.  
 
@@ -606,7 +608,7 @@ Sed contra, contritio est pars poenitentiae. Sed poenitentia semper respicit pra
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod homo debeat conteri de peccato alieno. Non enim petit aliquis indulgentiam nisi de peccato de quo contritus est. Sed de peccatis alienis indulgentia petitur in Psal. 18, 13: *ab alienis parce servo tuo*. Ergo debet homo conteri de peccatis alienis.***
+Ulterius. Videtur quod homo debeat conteri de peccato alieno. Non enim petit aliquis indulgentiam nisi de peccato de quo contritus est. Sed de peccatis alienis indulgentia petitur in Psal. 18, 13: *ab alienis parce servo tuo*. Ergo debet homo conteri de peccatis alienis.  
 
 Praeterea, homo ex caritate tenetur diligere proximum sicut seipsum. Sed propter dilectionem sui et de malis suis dolet, et bona desiderat. Ergo cum teneamur proximo desiderare bona gratiae sicut et nobis, videtur quod debeamus de culpis ejus dolere, sicut et de nostris. Sed contritio nihil aliud est quam dolor de peccatis. Ergo homo debet conteri de peccatis alienis.  
 
@@ -614,7 +616,7 @@ Sed contra, contritio actus poenitentiae virtutis est. Sed nullus poenitet nisi 
 
 Quaestiuncula 6  
 
-***Ulterius. Videtur quod non requiratur de singulis peccatis mortalibus contritio. Est enim motus contritionis in justificatione in instanti. Sed in instanti non potest homo recogitare singula peccata. Ergo non oportet quod sit contritio de singulis.***
+Ulterius. Videtur quod non requiratur de singulis peccatis mortalibus contritio. Est enim motus contritionis in justificatione in instanti. Sed in instanti non potest homo recogitare singula peccata. Ergo non oportet quod sit contritio de singulis.  
 
 Praeterea, contritio debet esse de peccatis secundum quod avertunt a Deo; quia conversio ad creaturam sine aversione a Deo contritionem non requirit. Sed omnia peccata mortalia conveniunt in aversione. Ergo contra omnia sufficit una contritio.  
 
@@ -626,7 +628,7 @@ Praeterea, contritio per confessionem explicatur. Sed oportet singula peccata mo
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod contritio importat, ut dictum est, alicujus et duri et integri comminutionem. Haec autem integritas et duritia invenitur in malo culpae; quia voluntas, quae est ipsius causa, in eo qui male agit, in suis terminis stat, nec praecepto legis cedit; et ideo hujus mali displicentia contritio per similitudinem dicitur. Haec autem similitudo non potest adaptari ad malum poenae, quia poena simpliciter diminutionem dicit; et ideo de malis poenae potest esse dolor, sed non contritio.***
+Respondeo dicendum ad primam quaestionem, quod contritio importat, ut dictum est, alicujus et duri et integri comminutionem. Haec autem integritas et duritia invenitur in malo culpae; quia voluntas, quae est ipsius causa, in eo qui male agit, in suis terminis stat, nec praecepto legis cedit; et ideo hujus mali displicentia contritio per similitudinem dicitur. Haec autem similitudo non potest adaptari ad malum poenae, quia poena simpliciter diminutionem dicit; et ideo de malis poenae potest esse dolor, sed non contritio.  
 
 Ad primum ergo dicendum, quod poenitentia, secundum Augustinum, debet esse de hac vita mortali, non ratione ipsius mortalitatis, nisi poenitentia large dicatur omnis dolor; sed ratione peccatorum ad quae ex infirmitate hujus vitae deducimur.  
 
@@ -634,7 +636,7 @@ Ad secundum dicendum, quod ille dolor quo quis dolet de amissione virtutis per p
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod contritio, ut dictum est, est dolor respiciens, et quodammodo comminuens voluntatis duritiem; et ideo de illis solis peccatis esse potest quae ex duritia nostrae voluntatis in nos proveniunt. Et quia peccatum originale non nostra voluntate inductum est, sed ex vitiata origine naturae contractum; ideo de ipso non potest esse contritio, proprie loquendo; sed displicentia potest esse de eo, vel dolor.***
+Ad secundam quaestionem dicendum, quod contritio, ut dictum est, est dolor respiciens, et quodammodo comminuens voluntatis duritiem; et ideo de illis solis peccatis esse potest quae ex duritia nostrae voluntatis in nos proveniunt. Et quia peccatum originale non nostra voluntate inductum est, sed ex vitiata origine naturae contractum; ideo de ipso non potest esse contritio, proprie loquendo; sed displicentia potest esse de eo, vel dolor.  
 
 Ad primum ergo dicendum, quod contritio non est de peccato ratione substantiae actus tantum, quia ex hoc non habet rationem mali: neque iterum ratione deformitatis tantum, quia deformitas de se non dicit rationem culpae, sed quandoque importat poenam. Debet autem de peccato esse contritio, inquantum importat utramque deformitatem ex actu voluntatis provenientem; et hoc non est in peccato originali; et ideo de eo non est contritio.  
 
@@ -642,7 +644,7 @@ Et similiter dicendum ad secundum; quia aversio voluntatis est illa cui debetur 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod omnis actualis culpa ex hoc contingit quod voluntas nostra legi Dei non cedit, vel eam transgrediendo, vel omittendo, vel praeter eam agendo. Et quia *durum est quod habet potentiam ut non facile patiatur*; ideo in omni actuali peccato duritia quaedam est voluntatis; et propter hoc si debeat peccatum curari, oportet quod per contritionem comminuentem remittatur.***
+Ad tertiam quaestionem dicendum, quod omnis actualis culpa ex hoc contingit quod voluntas nostra legi Dei non cedit, vel eam transgrediendo, vel omittendo, vel praeter eam agendo. Et quia *durum est quod habet potentiam ut non facile patiatur*; ideo in omni actuali peccato duritia quaedam est voluntatis; et propter hoc si debeat peccatum curari, oportet quod per contritionem comminuentem remittatur.  
 
 Ad primum ergo dicendum, quod, sicut ex dictis patet, contritio opponitur peccato ex parte illa qua ex electione voluntatis procedit non sequentis imperium divinae legis; non autem ex parte ejus quod est in peccato materiale; et hoc est super quod cadit electio. Cadit autem voluntatis electio non solum super actus aliarum virium, quibus voluntas ad suum finem utitur, sed etiam super actum proprium ipsius. Voluntas enim vult se velle aliquid; et sic electio voluntatis cadit supra dolorem illum seu tristitiam quae invenitur in peccato invidiae et hujusmodi, sive ille dolor sit in sensu, sive in ipsa voluntate; et ideo illis peccatis dolor contritionis opponitur.  
 
@@ -654,7 +656,7 @@ Ad quartum dicendum, quod post contritionem de mortali potest remanere veniale, 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod in omnibus motoribus et mobilibus ordinatis ita est quod motor inferior habet motum proprium, et praeter hoc sequitur in aliquo motum superioris motoris; sicut patet in motu planetarum, qui praeter motus proprios sequuntur motum primi orbis. Omnibus autem virtutibus moralibus motor est ipsa prudentia, quae dicitur auriga virtutum; et ideo quaelibet virtus moralis cum motu proprio habet aliquid de motu prudentiae; et ideo, cum poenitentia sit quaedam virtus moralis, quia est pars justitiae, cum actu proprio consequitur prudentiae motum. Proprius autem actus ejus est in objectum proprium, quod est peccatum commissum; et ideo ejus actus principalis, scilicet contritio, secundum suam speciem respicit tantum peccatum praeteritum; sed ex consequenti respicit futurum, secundum quod habet aliquid de actu prudentiae adjunctum, et non tantum*tantum.—tamen* PLE. in illud futurum rationem*rationem.—secundum rationem* PLE. propriae speciei movetur; et propter hoc ille qui conteritur, dolet de peccato praeterito, et cavet futurum: sed non dicitur esse contritio de peccato futuro, sed magis cautio, quae est pars prudentiae contritioni adjuncta.***
+Ad quartam quaestionem dicendum, quod in omnibus motoribus et mobilibus ordinatis ita est quod motor inferior habet motum proprium, et praeter hoc sequitur in aliquo motum superioris motoris; sicut patet in motu planetarum, qui praeter motus proprios sequuntur motum primi orbis. Omnibus autem virtutibus moralibus motor est ipsa prudentia, quae dicitur auriga virtutum; et ideo quaelibet virtus moralis cum motu proprio habet aliquid de motu prudentiae; et ideo, cum poenitentia sit quaedam virtus moralis, quia est pars justitiae, cum actu proprio consequitur prudentiae motum. Proprius autem actus ejus est in objectum proprium, quod est peccatum commissum; et ideo ejus actus principalis, scilicet contritio, secundum suam speciem respicit tantum peccatum praeteritum; sed ex consequenti respicit futurum, secundum quod habet aliquid de actu prudentiae adjunctum, et non tantum*tantum.—tamen* PLE. in illud futurum rationem*rationem.—secundum rationem* PLE. propriae speciei movetur; et propter hoc ille qui conteritur, dolet de peccato praeterito, et cavet futurum: sed non dicitur esse contritio de peccato futuro, sed magis cautio, quae est pars prudentiae contritioni adjuncta.  
 
 Ad primum ergo dicendum, quod liberum arbitrium dicitur esse de contingentibus futuris, secundum quod est de actibus, sed non secundum quod est de objectis actuum; quia homo potest cogitare ex libero arbitrio de rebus praeteritis et necessariis; sed tamen ipse actus cogitationis, secundum quod sub libero arbitrio cadit, contingens futurum est; et sic etiam actus contritionis contingens futurum est, secundum quod sub libero arbitrio cadit; sed objectum ejus potest esse praeteritum.  
 
@@ -662,7 +664,7 @@ Ad secundum dicendum, quod ille effectus consequens qui peccatum aggravat, jam i
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod illud idem conteritur quod prius durum et integrum fuit; unde patet quod contritio pro peccato sit in eodem in quo peccati duritia praecessit; et sic de alienis peccatis non est contritio.***
+Ad quintam quaestionem dicendum, quod illud idem conteritur quod prius durum et integrum fuit; unde patet quod contritio pro peccato sit in eodem in quo peccati duritia praecessit; et sic de alienis peccatis non est contritio.  
 
 Ad primum ergo dicendum, quod ab alienis peccatis sibi parci propheta precatur, inquantum ex consortio peccatorum aliquis per consensum aliquam immunditiam contrahit, sicut scriptum est, Psalm. 17, 22: *cum perverso perverteris*.  
 
@@ -670,7 +672,7 @@ Ad secundum dicendum, quod de peccatis aliorum dolere debemus; non tamen oportet
 
 Quaestiuncula 6  
 
-***Ad sextam quaestionem dicendum, quod contritio potest dupliciter considerari; scilicet quantum ad sui principium, et quantum ad terminum. Et dico principium contritionis cogitationem qua quis cogitat de peccato et dolet, etsi non dolore contritionis, saltem dolore attritionis; terminus autem contritionis est, quando dolor ille jam gratia informatur. Quantum ergo ad principium contritionis, oportet quod sit de singulis peccatis quae quis in memoria habet; sed quantum ad terminum sufficit quod sit una communis de omnibus; tunc enim ille motus agit in vi omnium dispositionum praecedentium.***
+Ad sextam quaestionem dicendum, quod contritio potest dupliciter considerari; scilicet quantum ad sui principium, et quantum ad terminum. Et dico principium contritionis cogitationem qua quis cogitat de peccato et dolet, etsi non dolore contritionis, saltem dolore attritionis; terminus autem contritionis est, quando dolor ille jam gratia informatur. Quantum ergo ad principium contritionis, oportet quod sit de singulis peccatis quae quis in memoria habet; sed quantum ad terminum sufficit quod sit una communis de omnibus; tunc enim ille motus agit in vi omnium dispositionum praecedentium.  
 
 Et per hoc patet responsio ad primum.  
 
@@ -684,7 +686,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod contritio non sit major dolor qui esse possit in natura. Dolor enim est sensus laesionis. Sed aliquae laesiones magis sentiuntur quam laesio peccati, sicut laesio vulneris. Ergo non est maximus dolor contritio.***
+Ad tertium sic proceditur. Videtur quod contritio non sit major dolor qui esse possit in natura. Dolor enim est sensus laesionis. Sed aliquae laesiones magis sentiuntur quam laesio peccati, sicut laesio vulneris. Ergo non est maximus dolor contritio.  
 
 Praeterea, ex effectu sumimus judicium de causa. Sed effectus doloris sunt lacrymae. Cum ergo aliquando contritus non emittat lacrymas corporales de peccatis, quas tamen emittit de morte amici, vel de percussione, vel de aliquo hujusmodi; videtur quod contritio non sit dolor maximus.  
 
@@ -698,7 +700,7 @@ Praeterea, dolor est de malo. Ergo de magis malo debet esse major dolor. Sed cul
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non possit esse nimis magnus contritionis dolor. Nullus enim dolor potest esse immoderatior quam ille qui proprium subjectum destruit. Sed dolor contritionis, si est tantus quod mortem vel corruptionem corporis inducat, est laudabilis. Dicit enim Anselmus: *utinam sic impinguentur viscera animae meae, ut medullae corporis mei exsiccentur*; et Augustinus de contritione cordis, cap. 10, dicit se esse dignum oculos caecare plorando. Ergo dolor contritionis non potest esse nimius.***
+Ulterius. Videtur quod non possit esse nimis magnus contritionis dolor. Nullus enim dolor potest esse immoderatior quam ille qui proprium subjectum destruit. Sed dolor contritionis, si est tantus quod mortem vel corruptionem corporis inducat, est laudabilis. Dicit enim Anselmus: *utinam sic impinguentur viscera animae meae, ut medullae corporis mei exsiccentur*; et Augustinus de contritione cordis, cap. 10, dicit se esse dignum oculos caecare plorando. Ergo dolor contritionis non potest esse nimius.  
 
 Praeterea, dolor contritionis ex caritatis amore procedit. Sed amor caritatis non potest esse nimius. Ergo nec dolor contritionis.  
 
@@ -706,7 +708,7 @@ Sed contra, omnis virtus moralis corrumpitur per superabundantiam et defectum. S
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non debeat esse major dolor de uno peccato quam de alio. Hieronymus enim collaudat Paulam de hoc quod minima peccata plangebat sicut magna. Ergo non magis est dolendum de uno quam de alio.***
+Ulterius. Videtur quod non debeat esse major dolor de uno peccato quam de alio. Hieronymus enim collaudat Paulam de hoc quod minima peccata plangebat sicut magna. Ergo non magis est dolendum de uno quam de alio.  
 
 Praeterea, motus contritionis est subitus. Sed non potest unus motus esse intensior simul et remissior. Ergo contritio non debet esse major de uno peccato quam de alio.  
 
@@ -718,7 +720,7 @@ Praeterea, de hoc debet homo conteri quod debuit vitare. Sed homo magis debet vi
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut supra dictum est, in contritione est duplex dolor. Unus in ipsa voluntate, qui est essentialiter ipsa contritio, quae nihil aliud est quam displicentia praeteriti peccati; et dolor talis in contritione excedit alios dolores; quia quantum aliquid placet, tantum contrarium ejus displicet: finis autem super omnia placet, cum omnia propter ipsum desiderentur; et ideo peccatum quod a fine ultimo avertit, super omnia displicere debet. Alius dolor est in parte sensitiva, qui causatur ex primo dolore, vel ex necessitate naturae, secundum quod vires inferiores sequuntur motum superiorum; vel ex electione, secundum quod homo poenitens in seipso voluntarie excitatur ut de peccatis doleat.***
+Respondeo dicendum ad primam quaestionem, quod, sicut supra dictum est, in contritione est duplex dolor. Unus in ipsa voluntate, qui est essentialiter ipsa contritio, quae nihil aliud est quam displicentia praeteriti peccati; et dolor talis in contritione excedit alios dolores; quia quantum aliquid placet, tantum contrarium ejus displicet: finis autem super omnia placet, cum omnia propter ipsum desiderentur; et ideo peccatum quod a fine ultimo avertit, super omnia displicere debet. Alius dolor est in parte sensitiva, qui causatur ex primo dolore, vel ex necessitate naturae, secundum quod vires inferiores sequuntur motum superiorum; vel ex electione, secundum quod homo poenitens in seipso voluntarie excitatur ut de peccatis doleat.  
 
 Et neutro modo oportet quod sit maximus dolorum: quia vires inferiores vehementius moventur ab objectis propriis, quam ex redundantia superiorum virium; et ideo quanto operatio superiorum virium est propinquior objectis inferiorum, tanto magis sequuntur earum motum; et ideo major dolor est in sensitiva parte ex laesione sensibili quam sit ille qui in ipsa redundat ex ratione; et similiter major qui redundat ex ratione de corporalibus deliberante quam qui redundat ex ratione considerante spiritualia.  
 
@@ -740,7 +742,7 @@ Sciendum est etiam, quod quamvis talis debeat esse contriti dispositio, non tame
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod contritio ex parte doloris qui est in ratione, scilicet displicentiae, quo peccatum displicet inquantum est offensa Dei, non potest esse nimia, sicut nec amor caritatis, quo intenso talis displicentia intenditur, potest esse nimius; sed quantum ad dolorem sensibilem potest esse nimia, sicut etiam exterior corporis afflictio potest esse nimia, ut supra, dist. 15, in quaestione de jejunio, ex verbis Hieronymi patuit. In his enim omnibus debet accipi pro mensura conservatio subjecti et bonae habitudinis sufficientis ad ea quae agenda incumbunt; et propter hoc dicitur Rom. 12, 1: *rationabile obsequium vestrum*.***
+Ad secundam quaestionem dicendum, quod contritio ex parte doloris qui est in ratione, scilicet displicentiae, quo peccatum displicet inquantum est offensa Dei, non potest esse nimia, sicut nec amor caritatis, quo intenso talis displicentia intenditur, potest esse nimius; sed quantum ad dolorem sensibilem potest esse nimia, sicut etiam exterior corporis afflictio potest esse nimia, ut supra, dist. 15, in quaestione de jejunio, ex verbis Hieronymi patuit. In his enim omnibus debet accipi pro mensura conservatio subjecti et bonae habitudinis sufficientis ad ea quae agenda incumbunt; et propter hoc dicitur Rom. 12, 1: *rationabile obsequium vestrum*.  
 
 Ad primum ergo dicendum, quod Anselmus desiderabat ex pinguedine devotionis medullas corporales exsiccari non quantum ad humorem naturalem, sed quantum ad desideria et concupiscentias corporales. Augustinus autem quamvis dignus se cognosceret amissione exteriorum oculorum propter peccatum, quia quilibet peccator non solum aeterna, sed etiam temporali morte dignus est; non tamen volebat sibi oculos caecare.  
 
@@ -748,7 +750,7 @@ Ad secundum dicendum, quod ratio illa procedit de dolore qui est in ratione; ter
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod de contritione dupliciter possumus loqui. Uno modo secundum quod singillatim singulis peccatis respondet: et sic quantum ad dolorem superioris affectus requiritur quod de majori peccato quis doleat magis; quia ratio doloris est major in uno quam in alio, scilicet offensa Dei; ex magis enim inordinato actu Deus magis offenditur. Similiter etiam cum majori culpae major poena debeatur, etiam dolor sensitivae partis, secundum quod pro peccato ex electione assumitur poena peccati, quasi*assumitur poena peccati, quasi.—assumitur quasi poena peccati* PLE. debet esse major de majori peccato: secundum autem quod ex impressione superioris appetitus nascitur, in inferiori attenditur quantitas doloris secundum dispositionem partis ad recipiendam impressionem a superiori, et non secundum quantitatem peccati. Alio modo potest accipi contritio secundum quod est simul de omnibus, sicut in actu justificationis; et haec quidem contritio vel ex singulorum consideratione peccatorum procedit; et sic quamvis sit actus unus, tamen distinctio peccatorum manet virtute in ipso; vel ad minus habet propositum de singulis cogitandi annexum; et sic etiam habitualiter est magis de uno quam de alio.***
+Ad tertiam quaestionem dicendum, quod de contritione dupliciter possumus loqui. Uno modo secundum quod singillatim singulis peccatis respondet: et sic quantum ad dolorem superioris affectus requiritur quod de majori peccato quis doleat magis; quia ratio doloris est major in uno quam in alio, scilicet offensa Dei; ex magis enim inordinato actu Deus magis offenditur. Similiter etiam cum majori culpae major poena debeatur, etiam dolor sensitivae partis, secundum quod pro peccato ex electione assumitur poena peccati, quasi*assumitur poena peccati, quasi.—assumitur quasi poena peccati* PLE. debet esse major de majori peccato: secundum autem quod ex impressione superioris appetitus nascitur, in inferiori attenditur quantitas doloris secundum dispositionem partis ad recipiendam impressionem a superiori, et non secundum quantitatem peccati. Alio modo potest accipi contritio secundum quod est simul de omnibus, sicut in actu justificationis; et haec quidem contritio vel ex singulorum consideratione peccatorum procedit; et sic quamvis sit actus unus, tamen distinctio peccatorum manet virtute in ipso; vel ad minus habet propositum de singulis cogitandi annexum; et sic etiam habitualiter est magis de uno quam de alio.  
 
 Ad primum ergo dicendum, quod Paula non laudatur de hoc quod de omnibus peccatis doleret aequaliter; sed quia de parvis peccatis tantum dolebat ac si essent magna, per comparationem ad alios qui de peccatis dolent; sed ipsa multo amplius de majoribus doluisset.  
 
@@ -762,7 +764,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod non tota haec vita sit contritionis tempus. Sicut enim de peccato commisso debet esse dolor, ita et pudor. Sed non per totam vitam durat pudor de peccato, et, sicut dicit Ambrosius, *nihil habet quod erubescat cui peccatum dimissum est*. Ergo videtur quod nec contritio, quae est dolor de peccato.***
+Ad quartum sic proceditur. Videtur quod non tota haec vita sit contritionis tempus. Sicut enim de peccato commisso debet esse dolor, ita et pudor. Sed non per totam vitam durat pudor de peccato, et, sicut dicit Ambrosius, *nihil habet quod erubescat cui peccatum dimissum est*. Ergo videtur quod nec contritio, quae est dolor de peccato.  
 
 Praeterea, 1 Joan. 4, 18, dicitur, quod *perfecta caritas foras mittit timorem, quia timor poenam habet*. Sed dolor etiam poenam habet. Ergo in statu perfectae caritatis non potest dolor contritionis manere.  
 
@@ -778,7 +780,7 @@ Praeterea, Eccli. 5, 5, dicitur: *de propitiatu peccatorum noli esse sine metu*.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non expediat continue de peccato dolere. Expedit enim quandoque gaudere, ut patet Philip. 4, super illud: *gaudete in Domino semper*; ubi dicit *Glossa*, quod necessarium est gaudere. Sed non est possibile simul gaudere et dolere. Ergo non expedit continue de peccato dolere.***
+Ulterius. Videtur quod non expediat continue de peccato dolere. Expedit enim quandoque gaudere, ut patet Philip. 4, super illud: *gaudete in Domino semper*; ubi dicit *Glossa*, quod necessarium est gaudere. Sed non est possibile simul gaudere et dolere. Ergo non expedit continue de peccato dolere.  
 
 Praeterea, illud quod est de se malum et fugiendum, non est assumendum, nisi quatenus est necessarium ut medicina ad aliquid, sicut patet de ustione et sectione vulneris. Sed tristitia de se mala est; unde dicitur Eccli. 30, 24: *tristitiam longe expelle a te*; et subditur causa: *multos enim occidit tristitia, et non est utilitas in illa*. Hoc etiam Philosophus dicit expresse in 7 et 10 *Ethica*. Ergo non debet amplius dolere de peccato, nisi quatenus sufficit ad peccatum delendum. Sed statim post primam tristitiam contritionis peccatum deletum est. Ergo non expedit ulterius dolere.  
 
@@ -790,7 +792,7 @@ Praeterea, actus in quibus consistit beatitudo, expedit semper continuare, quant
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam post hanc vitam animae de peccatis conterantur. Amor enim caritatis displicentiam de peccato causat. Sed post hanc vitam manet in aliquibus caritas et quantum ad actum, et quantum ad habitum; quia caritas nunquam excidit, ut patet 1 Corinth., 13. Ergo manet displicentia de peccato commisso, quae essentialiter est contritio.***
+Ulterius. Videtur quod etiam post hanc vitam animae de peccatis conterantur. Amor enim caritatis displicentiam de peccato causat. Sed post hanc vitam manet in aliquibus caritas et quantum ad actum, et quantum ad habitum; quia caritas nunquam excidit, ut patet 1 Corinth., 13. Ergo manet displicentia de peccato commisso, quae essentialiter est contritio.  
 
 Praeterea, magis dolendum est de culpa quam de poena. Sed animae in purgatorio dolent de poena sensibili, et de dilatione gloriae. Ergo multo magis dolent de culpa ab eis commissa.  
 
@@ -802,7 +804,7 @@ Praeterea, contritio potest esse tanta quod delet culpam et poenam. Si ergo anim
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in contritione, ut dictum est, est duplex dolor. Unus rationis, qui est detestatio peccati a se commissi; alius sensitivae partis, qui ex isto consequitur; et quantum ad utrumque, contritionis tempus est totus praesentis vitae status. Quamdiu enim aliquis est in statu viae, detestatur incommoda quibus a perventione ad terminum viae impeditur vel retardatur. Unde, cum per peccatum praeteritum viae nostrae cursus in Deum retardetur, quia tempus illud quod erat deputatum ad currendum, recuperari non potest, ut supra dictum est; oportet quod semper in vitae hujus tempore status contritionis maneat quantum ad peccati detestationem; similiter etiam quantum ad sensibilem dolorem, qui ut poena a voluntate assumitur; quia enim homo peccando poenam aeternam meruit, et contra aeternum Deum peccavit, debet, poena aeterna in temporalem mutata, saltem dolor in aeterno hominis, idest in statu hujus vitae remanere; et propter hoc dicit Hugo de sancto Victore, quod *Deus absolvens hominem a culpa et poena aeterna, ligat eum vinculo perpetuae detestationis peccati*.***
+Respondeo dicendum ad primam quaestionem, quod in contritione, ut dictum est, est duplex dolor. Unus rationis, qui est detestatio peccati a se commissi; alius sensitivae partis, qui ex isto consequitur; et quantum ad utrumque, contritionis tempus est totus praesentis vitae status. Quamdiu enim aliquis est in statu viae, detestatur incommoda quibus a perventione ad terminum viae impeditur vel retardatur. Unde, cum per peccatum praeteritum viae nostrae cursus in Deum retardetur, quia tempus illud quod erat deputatum ad currendum, recuperari non potest, ut supra dictum est; oportet quod semper in vitae hujus tempore status contritionis maneat quantum ad peccati detestationem; similiter etiam quantum ad sensibilem dolorem, qui ut poena a voluntate assumitur; quia enim homo peccando poenam aeternam meruit, et contra aeternum Deum peccavit, debet, poena aeterna in temporalem mutata, saltem dolor in aeterno hominis, idest in statu hujus vitae remanere; et propter hoc dicit Hugo de sancto Victore, quod *Deus absolvens hominem a culpa et poena aeterna, ligat eum vinculo perpetuae detestationis peccati*.  
 
 Ad primum ergo dicendum, quod erubescentia respicit peccatum solum inquantum habet turpitudinem; et ideo postquam peccatum quantum ad culpam remissum est, non manet pudori locus; manet autem dolori, qui non solum de culpa est, inquantum habet turpitudinem, sed etiam inquantum habet nocumentum annexum.  
 
@@ -816,7 +818,7 @@ Ad quintum dicendum, quod satisfactio attenditur secundum poenam taxatam, quae p
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod haec est conditio in actibus virtutum inventa, quod non potest in eis accipi superfluum et diminutum, ut in 2 *Ethica*. probatur. Unde, cum contritio quantum ad id quod est displicentia quaedam in appetitu rationis, sit actus poenitentiae virtutis, nunquam potest esse ibi superfluum, sicut nec quantum ad intentionem, ita nec quantum ad durationem, nisi secundum quod actus unius virtutis impedit actum alterius virtutis magis necessarium pro tempore illo. Unde quantumcumque homo continue in actu hujus displicentiae esse possit, magis melius est, dummodo actibus aliarum virtutum vacet suo tempore, secundum quod oportet. Sed passiones possunt habere superfluum et diminutum et quantum ad intensionem et quantum ad durationem; et ideo, sicut passio doloris quam voluntas assumit, debet esse moderate intensa, ita debet moderate durare; ne, si nimis duret, homo in desperationem et pusillanimitatem, hujusmodi vitia, labatur.***
+Ad secundam quaestionem dicendum, quod haec est conditio in actibus virtutum inventa, quod non potest in eis accipi superfluum et diminutum, ut in 2 *Ethica*. probatur. Unde, cum contritio quantum ad id quod est displicentia quaedam in appetitu rationis, sit actus poenitentiae virtutis, nunquam potest esse ibi superfluum, sicut nec quantum ad intentionem, ita nec quantum ad durationem, nisi secundum quod actus unius virtutis impedit actum alterius virtutis magis necessarium pro tempore illo. Unde quantumcumque homo continue in actu hujus displicentiae esse possit, magis melius est, dummodo actibus aliarum virtutum vacet suo tempore, secundum quod oportet. Sed passiones possunt habere superfluum et diminutum et quantum ad intensionem et quantum ad durationem; et ideo, sicut passio doloris quam voluntas assumit, debet esse moderate intensa, ita debet moderate durare; ne, si nimis duret, homo in desperationem et pusillanimitatem, hujusmodi vitia, labatur.  
 
 Ad primum ergo dicendum, quod gaudium saeculi impeditur per dolorem contritionis, non autem gaudium quod de Deo est, quia habet ipsum dolorem pro materia.  
 
@@ -826,7 +828,7 @@ Ad tertium dicendum, quod Bernardus loquitur de dolore qui est passio.
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in contritione tria consideranda sunt. Primum est contritionis genus, quod est dolor. Secundum est contritionis forma, quia est actus virtutis gratia informatus. Tertium est contritionis efficacia, quia est meritorius, et sacramentalis, et quodammodo satisfactorius. Animae igitur post hanc vitam, quae in patria sunt, contritionem habere non possunt, quia carent dolore propter gaudii plenitudinem. Illae vero quae sunt in inferno, carent contritione; quia si dolorem habeant, deficit tamen eis gratia dolorem informans. Sed illae quae in purgatorio sunt, habent dolorem de peccatis gratia informatum, sed non meritorium, quia non sunt in statu merendi. In hac autem vita omnia tria praedicta inveniri possunt.***
+Ad tertiam quaestionem dicendum, quod in contritione tria consideranda sunt. Primum est contritionis genus, quod est dolor. Secundum est contritionis forma, quia est actus virtutis gratia informatus. Tertium est contritionis efficacia, quia est meritorius, et sacramentalis, et quodammodo satisfactorius. Animae igitur post hanc vitam, quae in patria sunt, contritionem habere non possunt, quia carent dolore propter gaudii plenitudinem. Illae vero quae sunt in inferno, carent contritione; quia si dolorem habeant, deficit tamen eis gratia dolorem informans. Sed illae quae in purgatorio sunt, habent dolorem de peccatis gratia informatum, sed non meritorium, quia non sunt in statu merendi. In hac autem vita omnia tria praedicta inveniri possunt.  
 
 Ad primum ergo dicendum, quod caritas non causat istum dolorem nisi in illis qui doloris capaces sunt; sed plenitudo gaudii a beatis omnem capacitatem doloris excludit; et ideo, quamvis caritatem habeant, tamen contritione carent.  
 
@@ -840,7 +842,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod peccati remissio non sit contritionis effectus. Solus enim Deus peccata remittit. Sed contritionis nos sumus aliqualiter causa, quia actus noster est. Ergo contritio non est causa remissionis culpae.***
+Ad quintum sic proceditur. Videtur quod peccati remissio non sit contritionis effectus. Solus enim Deus peccata remittit. Sed contritionis nos sumus aliqualiter causa, quia actus noster est. Ergo contritio non est causa remissionis culpae.  
 
 Praeterea, contritio est actus virtutis. Sed virtus sequitur culpae remissionem; quia culpa et virtus non sunt simul in anima. Ergo contritio non est causa remissionis culpae.  
 
@@ -852,7 +854,7 @@ Praeterea, *virtus et vitium eisdem causis corrumpuntur et generantur*, ut dicit
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod contritio non possit totaliter tollere reatum poenae. Quia satisfactio et confessio ordinantur ad liberationem a reatu poenae. Sed nullus ita perfecte conteritur, quin oporteat eum confiteri et satisfacere. Ergo contritio nunquam est tanta quod deleat reatum totum.***
+Ulterius. Videtur quod contritio non possit totaliter tollere reatum poenae. Quia satisfactio et confessio ordinantur ad liberationem a reatu poenae. Sed nullus ita perfecte conteritur, quin oporteat eum confiteri et satisfacere. Ergo contritio nunquam est tanta quod deleat reatum totum.  
 
 Praeterea, in poenitentia debet esse quaedam recompensatio poenae ad culpam. Sed aliqua culpa per membra corporis exercetur. Ergo cum oporteat ad debitam poenae recompensationem ut *per quae peccat quis per haec torqueatur*; videtur quod nunquam possit poena talis peccati per contritionem exsolvi.  
 
@@ -864,7 +866,7 @@ Praeterea, exemplum hujus de latrone habetur cui dictum est: *hodie mecum eris i
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod contritio parva non sufficiat ad deletionem magnorum peccatorum. Quia contritio est medicina peccati. Sed corporalis medicina quae sanat morbum corporalem minorem, non sufficit ad sanandum majorem. Ergo minima contritio non sufficit ad delendum maxima peccata.***
+Ulterius. Videtur quod contritio parva non sufficiat ad deletionem magnorum peccatorum. Quia contritio est medicina peccati. Sed corporalis medicina quae sanat morbum corporalem minorem, non sufficit ad sanandum majorem. Ergo minima contritio non sufficit ad delendum maxima peccata.  
 
 Praeterea, supra dictum est, quod oportet de majoribus peccatis magis conteri. Sed contritio non delet peccatum, nisi sit secundum quod oportet. Ergo minima contritio non delet omnia peccata.  
 
@@ -872,7 +874,7 @@ Sed contra, quaelibet gratia gratum faciens delet omnem culpam mortalem, quia si
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod contritio potest dupliciter considerari; vel inquantum est pars sacramenti, vel inquantum est actus virtutis; et utroque modo est causa remissionis peccati, sed diversimode: quia inquantum est pars sacramenti, primo operatur ad remissionem peccati instrumentaliter, sicut et de aliis sacramentis, in 1 dist., quaest. 1, art. 4 quaestiunc. 1, patuit: inquantum autem est actus virtutis, sic est quasi causa materialis remissionis peccati, eo quod dispositio est quasi necessitas ad justificationem, ut supra dictum est. Dispositio autem reducitur ad causam materialem, si accipiatur dispositio quae disponit materiam ad recipiendum; secus autem est de dispositione agentis ad agendum, quia illa reducitur ad genus causae efficientis.***
+Respondeo dicendum ad primam quaestionem, quod contritio potest dupliciter considerari; vel inquantum est pars sacramenti, vel inquantum est actus virtutis; et utroque modo est causa remissionis peccati, sed diversimode: quia inquantum est pars sacramenti, primo operatur ad remissionem peccati instrumentaliter, sicut et de aliis sacramentis, in 1 dist., quaest. 1, art. 4 quaestiunc. 1, patuit: inquantum autem est actus virtutis, sic est quasi causa materialis remissionis peccati, eo quod dispositio est quasi necessitas ad justificationem, ut supra dictum est. Dispositio autem reducitur ad causam materialem, si accipiatur dispositio quae disponit materiam ad recipiendum; secus autem est de dispositione agentis ad agendum, quia illa reducitur ad genus causae efficientis.  
 
 Ad primum ergo dicendum, quod solus Deus est causa efficiens principalis remissionis peccati; sed causa dispositiva potest etiam esse ex nobis; et similiter causa sacramentalis: quia formae sacramentorum sunt verba a nobis prolata, quae habent virtutem instrumentalem gratiam inducendi, qua peccata remittuntur.  
 
@@ -882,7 +884,7 @@ Ad tertium dicendum, quod dispensatio Eucharistiae pertinet ad ministros Ecclesi
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod intensio contritionis potest attendi dupliciter. Uno modo ex parte caritatis, quae displicentiam causat; et sic contingit tantum intendi caritatem in actu, quod contritio inde sequens merebitur non solum culpae amotionem, sed etiam absolutionem ab omni poena. Alio modo ex parte doloris sensibilis quem voluntas in contritione excitat; et quia illa poena etiam quaedam est, tantum potest intendi, quod sufficiat ad deletionem poenae et culpae.***
+Ad secundam quaestionem dicendum, quod intensio contritionis potest attendi dupliciter. Uno modo ex parte caritatis, quae displicentiam causat; et sic contingit tantum intendi caritatem in actu, quod contritio inde sequens merebitur non solum culpae amotionem, sed etiam absolutionem ab omni poena. Alio modo ex parte doloris sensibilis quem voluntas in contritione excitat; et quia illa poena etiam quaedam est, tantum potest intendi, quod sufficiat ad deletionem poenae et culpae.  
 
 Ad primum ergo dicendum, quod aliquis non potest esse certus quod contritio sua sit sufficiens ad deletionem poenae et culpae; et ideo tenetur confiteri et satisfacere; maxime cum contritio vera non fuerit, nisi propositum confitendi habuisset annexum; quod debet ad effectum deduci etiam propter praeceptum quod est de confessione datum.  
 
@@ -892,7 +894,7 @@ Ad tertium dicendum, quod dolor contritionis, quamvis sit finitus quantum ad int
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod contritio, ut saepe dictum est, habet duplicem dolorem. Unum rationis, qui est displicentia peccati commissi; et hic potest esse adeo parvus quod non sufficiet ad rationem contritionis, ut si minus displiceret ei peccatum quam debeat displicere separatio a fine; sicut etiam amor potest esse ita remissus, quod non sufficit ad rationem caritatis. Alium dolorem habet in sensu; et parvitas hujus non impedit rationem contritionis: quia non se habet essentialiter ad contritionem, sed quasi ex accidenti ei adjungitur; et iterum non est in potestate nostra. Sic ergo dicendum, quod quantumcumque parvus sit dolor, dummodo ad contritionis rationem sufficiat, omnem culpam delet.***
+Ad tertiam quaestionem dicendum, quod contritio, ut saepe dictum est, habet duplicem dolorem. Unum rationis, qui est displicentia peccati commissi; et hic potest esse adeo parvus quod non sufficiet ad rationem contritionis, ut si minus displiceret ei peccatum quam debeat displicere separatio a fine; sicut etiam amor potest esse ita remissus, quod non sufficit ad rationem caritatis. Alium dolorem habet in sensu; et parvitas hujus non impedit rationem contritionis: quia non se habet essentialiter ad contritionem, sed quasi ex accidenti ei adjungitur; et iterum non est in potestate nostra. Sic ergo dicendum, quod quantumcumque parvus sit dolor, dummodo ad contritionis rationem sufficiat, omnem culpam delet.  
 
 Ad primum ergo dicendum, quod medicinae spirituales habent efficaciam infinitam ex virtute infinita quae in eis operatur; et ideo illa medicina quae sufficit ad curationem parvi peccati, sufficit etiam ad curationem magni; sicut patet de baptismo, quo et magna et parva peccata solvuntur; et similiter est de contritione, dummodo ad rationem contritionis pertingat.  
 
@@ -916,7 +918,7 @@ primo, de necessitate confessionis;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod confessio non sit necessaria ad salutem. Sacramentum enim poenitentiae contra remissionem culpae ordinatum est. Sed culpa per gratiae infusionem sufficienter remittitur. Ergo ad poenitentiam de peccato agendam non est necessaria confessio.***
+Ad primum sic proceditur. Videtur quod confessio non sit necessaria ad salutem. Sacramentum enim poenitentiae contra remissionem culpae ordinatum est. Sed culpa per gratiae infusionem sufficienter remittitur. Ergo ad poenitentiam de peccato agendam non est necessaria confessio.  
 
 Praeterea, aliquibus est peccatum remissum sine hoc quod confessi legantur, sicut patet de Petro, et de Magdalena, et etiam de Paulo. Sed non est minoris efficaciae gratia remittens peccatum nunc quam tunc fuit. Ergo nec nunc de necessitate salutis est quod homo confiteatur.  
 
@@ -930,7 +932,7 @@ Praeterea, in judicio saeculari non est idem judex et reus. Sed judicium spiritu
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod sit de jure naturali. Adam enim et Cain non tenebantur nisi ad praecepta legis naturae. Sed reprehenduntur de hoc quod peccatum suum non sunt confessi. Ergo confessio peccati est de lege naturali.***
+Ulterius. Videtur quod sit de jure naturali. Adam enim et Cain non tenebantur nisi ad praecepta legis naturae. Sed reprehenduntur de hoc quod peccatum suum non sunt confessi. Ergo confessio peccati est de lege naturali.  
 
 Praeterea, praecepta illa quae manent in lege veteri et nova, sunt de jure naturali. Sed confessio fuit in lege veteri; unde dicitur Isai. 43, 26: *narra, si quid habes, ut justificeris*. Ergo est de lege naturali.  
 
@@ -942,7 +944,7 @@ Praeterea, confessio fit ei qui habet claves. Sed claves Ecclesiae non sunt de n
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non omnes ad confessionem teneantur. Quia, sicut dicit Hieronymus, *poenitentia est secunda tabula post naufragium*. Sed aliqui post baptismum naufragium non sunt passi. Ergo eis non competit poenitentia; et sic nec confessio, quae est poenitentiae pars.***
+Ulterius. Videtur quod non omnes ad confessionem teneantur. Quia, sicut dicit Hieronymus, *poenitentia est secunda tabula post naufragium*. Sed aliqui post baptismum naufragium non sunt passi. Ergo eis non competit poenitentia; et sic nec confessio, quae est poenitentiae pars.  
 
 Praeterea, confessio facienda est judici in quolibet foro. Sed aliqui sunt qui non habent hominem judicem supra se. Ergo non tenentur ad confessionem.  
 
@@ -954,7 +956,7 @@ Praeterea, hoc patet ex decretali de poenitentiis et remissionibus, ubi dicitur 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod statim teneatur confiteri. Dicit enim Hugo de sancto Victore: *si necessitas non est quae praetendatur, contemptus non excusatur*. Sed quilibet tenetur vitare contemptum. Ergo quilibet tenetur statim confiteri cum potest.***
+Ulterius. Videtur quod statim teneatur confiteri. Dicit enim Hugo de sancto Victore: *si necessitas non est quae praetendatur, contemptus non excusatur*. Sed quilibet tenetur vitare contemptum. Ergo quilibet tenetur statim confiteri cum potest.  
 
 Praeterea, quilibet tenetur plus facere ad evadendum a morbo spirituali quam ad evadendum a morbo corporali. Sed aliquis infirmus corporaliter non sine detrimento salutis medicum requirere tardat. Ergo videtur quod non possit esse sine detrimento salutis quod aliquis sacerdoti cujus copiam habet*habet.—habet, de peccato non statim* PLE. confiteatur.  
 
@@ -966,7 +968,7 @@ Praeterea, quicumque omittit illud ad quod ex praecepto tenetur, peccat mortalit
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod possit cum aliquo dispensari ne confiteatur homini. Praecepta enim quae sunt de jure positivo, subjacent dispensationi praelatorum Ecclesiae. Sed confessio est hujusmodi, ut ex dictis patet. Ergo potest dispensari cum aliquo ut non confiteatur.***
+Ulterius. Videtur quod possit cum aliquo dispensari ne confiteatur homini. Praecepta enim quae sunt de jure positivo, subjacent dispensationi praelatorum Ecclesiae. Sed confessio est hujusmodi, ut ex dictis patet. Ergo potest dispensari cum aliquo ut non confiteatur.  
 
 Praeterea, illud quod ab homine institutum est, potest etiam ab homine dispensationem recipere. Sed confessio non legitur a Deo instituta, sed ab homine. Jacob. 5, 16: *confitemini alterutrum peccata vestra*. Habet autem Papa potestatem dispensandi in his quae per apostolos instituta sunt, sicut patet de bigamis. Ergo etiam potest cum aliquo dispensare, ne confiteatur.  
 
@@ -974,7 +976,7 @@ Sed contra, poenitentia, cujus pars est confessio, est sacramentum necessitatis,
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod passio Christi, sine cujus virtute nec actuale nec originale peccatum dimittitur, in nobis operatur per sacramentorum susceptionem, quae ex ipsa efficaciam habent: ideo ad culpae remissionem et actualis et originalis requiritur sacramentum Ecclesiae, vel actu susceptum, vel saltem voto, quando articulus necessitatis, non contemptus, sacramentum excludit; et per consequens illa sacramenta quae ordinantur contra culpam cum qua salus esse non potest, sunt de necessitate salutis; et ideo sicut baptismus, quo deletur originale, est de necessitate salutis; ita et poenitentiae sacramentum. Sicut autem aliquis per hoc quod baptismum petit, se ministris Ecclesiae subjicit, ad quos pertinet dispensatio sacramenti; ita etiam per hoc quod fatetur peccatum suum, se ministro Ecclesiae subjicit, ut per sacramentum poenitentiae ab eo dispensatum remissionem consequatur; qui congruum remedium adhibere non potest, nisi peccatum cognoscat, quod fit per confessionem peccantis; et ideo confessio est de necessitate salutis ejus qui in peccatum actuale mortale cecidit.***
+Respondeo dicendum ad primam quaestionem, quod passio Christi, sine cujus virtute nec actuale nec originale peccatum dimittitur, in nobis operatur per sacramentorum susceptionem, quae ex ipsa efficaciam habent: ideo ad culpae remissionem et actualis et originalis requiritur sacramentum Ecclesiae, vel actu susceptum, vel saltem voto, quando articulus necessitatis, non contemptus, sacramentum excludit; et per consequens illa sacramenta quae ordinantur contra culpam cum qua salus esse non potest, sunt de necessitate salutis; et ideo sicut baptismus, quo deletur originale, est de necessitate salutis; ita et poenitentiae sacramentum. Sicut autem aliquis per hoc quod baptismum petit, se ministris Ecclesiae subjicit, ad quos pertinet dispensatio sacramenti; ita etiam per hoc quod fatetur peccatum suum, se ministro Ecclesiae subjicit, ut per sacramentum poenitentiae ab eo dispensatum remissionem consequatur; qui congruum remedium adhibere non potest, nisi peccatum cognoscat, quod fit per confessionem peccantis; et ideo confessio est de necessitate salutis ejus qui in peccatum actuale mortale cecidit.  
 
 Ad primum ergo dicendum, quod gratiae infusio sufficit ad culpae remissionem: sed post culpam remissam adhuc est peccator debitor poenae temporalis. Sed ad gratiae infusionem consequendam ordinata sunt gratiae sacramenta, ante quorum susceptionem vel actu vel proposito aliquis gratiam non consequitur, sicut in baptismo patet; et similiter est de confessione; et ulterius per confessionem, erubescentiam, et vim clavium, quibus se confitens subjicit, et satisfactionem injunctam quam sacerdos moderatur secundum qualitatem criminum sibi per confessionem innotescentium, poena temporalis expiatur. Sed tamen ex hoc quod operatur confessio ad poenae remissionem, non habet quod sit de necessitate salutis: quia poena ista est temporalis, ad quam post culpae remissionem aliquis ligatus remanet; unde sine hoc quod in praesenti vita expiatur, esset via salutis; sed habet quod sit de necessitate salutis ex hoc quod ad remissionem culpae modo praedicto operatur.  
 
@@ -986,7 +988,7 @@ Ad quartum dicendum, quod satisfactio non sufficeret ad expiandam poenam peccati
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut in 1 dist., quaest. 1, art. 2, quaestiunc. 3, in corp., dictum est, sacramenta sunt quaedam fidei protestationes; unde oportet ea fidei esse proportionata. Fides autem est supra cognitionem rationis naturalis; unde et sacramenta sunt supra rationis naturalis dictamina. Et quia jus naturale est *quod non opinio genuit, sed innata quaedam vis inseruit*, ut Tullius dicit; ideo sacramenta non sunt de jure naturali, sed de jure divino, quod est supranaturale; et quandoque etiam naturale dicitur, secundum quod cuilibet rei illud est naturale quod ei a suo Creatore imponitur: tamen proprie naturalia dicuntur quae ex principiis naturae causantur; supra naturam autem quae ipse Deus sibi reservat sine naturae ministerio operanda, sive in operationibus miraculorum, sive in revelationibus mysteriorum, sive in institutionibus sacramentorum; et sic confessio quae sacramentalem necessitatem habet, non est de jure naturali, sed divino.***
+Ad secundam quaestionem dicendum, quod sicut in 1 dist., quaest. 1, art. 2, quaestiunc. 3, in corp., dictum est, sacramenta sunt quaedam fidei protestationes; unde oportet ea fidei esse proportionata. Fides autem est supra cognitionem rationis naturalis; unde et sacramenta sunt supra rationis naturalis dictamina. Et quia jus naturale est *quod non opinio genuit, sed innata quaedam vis inseruit*, ut Tullius dicit; ideo sacramenta non sunt de jure naturali, sed de jure divino, quod est supranaturale; et quandoque etiam naturale dicitur, secundum quod cuilibet rei illud est naturale quod ei a suo Creatore imponitur: tamen proprie naturalia dicuntur quae ex principiis naturae causantur; supra naturam autem quae ipse Deus sibi reservat sine naturae ministerio operanda, sive in operationibus miraculorum, sive in revelationibus mysteriorum, sive in institutionibus sacramentorum; et sic confessio quae sacramentalem necessitatem habet, non est de jure naturali, sed divino.  
 
 Ad primum ergo dicendum, quod Adam vituperatur de hoc quod peccatum suum coram Deo non recognovit. Confessio enim quae fit Deo per recognitionem peccati, est de jure naturali. Nunc autem loquimur de confessione quae fit homini. Vel dicendum, quod confiteri peccatum in casu est de jure naturali, scilicet cum quis in judicio constitutus a judice interrogatur: tunc enim non debet mentiri peccatum excusando vel negando; de quo Adam et Cain vituperantur; sed confessio quae fit homini sponte ad remissionem peccatorum consequendam a Deo non est de jure naturali.  
 
@@ -996,7 +998,7 @@ Ad tertium dicendum, quod Job loquitur de illa absconsione peccati quam facit in
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod ad confessionem dupliciter obligamur. Uno modo ex jure divino, ex hoc ipso quod est medicina; et secundum hoc non omnes tenentur ad confessionem, sed illi tantum qui peccatum mortale incurrunt post baptismum. Alio modo, ex praecepto juris positivi; et sic tenentur omnes ex illa institutione Ecclesiae edita in Concilio generali sub Innocentio III: tum ut quilibet se peccatorem recognosceret, quia *omnes peccaverunt, et egent gratia Dei*: tum ut cum majori reverentia ad Eucharistiam accedat: tum ut Ecclesiarum rectoribus sui subditi innotescant, ne lupus inter gregem lateat.***
+Ad tertiam quaestionem dicendum, quod ad confessionem dupliciter obligamur. Uno modo ex jure divino, ex hoc ipso quod est medicina; et secundum hoc non omnes tenentur ad confessionem, sed illi tantum qui peccatum mortale incurrunt post baptismum. Alio modo, ex praecepto juris positivi; et sic tenentur omnes ex illa institutione Ecclesiae edita in Concilio generali sub Innocentio III: tum ut quilibet se peccatorem recognosceret, quia *omnes peccaverunt, et egent gratia Dei*: tum ut cum majori reverentia ad Eucharistiam accedat: tum ut Ecclesiarum rectoribus sui subditi innotescant, ne lupus inter gregem lateat.  
 
 Ad primum ergo dicendum, quod quamvis homo in hac mortali vita post baptismum naufragium evadere possit, quod est per peccatum mortale; non tamen potest evadere venialia, quibus ad naufragium disponitur, contra quae etiam poenitentia ordinatur; et ideo manet poenitentiae locus etiam in illis qui non mortaliter peccant, et per consequens confessionis.  
 
@@ -1006,7 +1008,7 @@ Ad tertium dicendum, quod ex vi sacramenti non tenetur aliquis venialia confiter
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod cum propositum confitendi sit annexum contritioni, tunc tenetur aliquis ad hoc propositum, quando ad contritionem tenetur; scilicet quando peccata memoriae occurrunt, cum praecipue in periculo mortis existit, aut in aliquo articulo, in quo sine peccati remissione peccatum oporteat eum incurrere; sicut cum teneatur ad celebrandum, si desit copia sacerdotis, saltem conteri tenetur, et habere propositum confitendi.***
+Ad quartam quaestionem dicendum, quod cum propositum confitendi sit annexum contritioni, tunc tenetur aliquis ad hoc propositum, quando ad contritionem tenetur; scilicet quando peccata memoriae occurrunt, cum praecipue in periculo mortis existit, aut in aliquo articulo, in quo sine peccati remissione peccatum oporteat eum incurrere; sicut cum teneatur ad celebrandum, si desit copia sacerdotis, saltem conteri tenetur, et habere propositum confitendi.  
 
 Sed ad confessionem actualiter faciendam obligatur aliquis dupliciter. Uno modo per accidens, scilicet quando ad aliquid tenetur quod non potest sine peccato facere nisi confessus: tunc enim confiteri tenetur, sicut si debeat Eucharistiam percipere, ad quam nullus post peccatum mortale, nisi confessus, accedere debet, copia sacerdotis oblata, et necessitate non urgente; et inde venit obligatio qua Ecclesia omnes obligat ad semel in anno confitendum: quia instituit ut semel in anno, scilicet in Paschate, omnes sacram communionem accipiant; et ideo ante tempus illud confiteri tenentur.  
 
@@ -1026,7 +1028,7 @@ Ad tertium dicendum, quod retentio rei alienae invito Domino contrariatur praece
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod ministri Ecclesiae instituuntur in Ecclesia divinitus fundata; et ideo institutio Ecclesiae praesupponitur ad operationem ministrorum, sicut opus creationis praesupponitur ad opus naturae. Et quia Ecclesia fundatur in fide et sacramentis; ideo ad ministros Ecclesiae nec novos articulos fidei edere, aut editos removere, aut nova sacramenta instituere, aut instituta removere, pertinet; sed hoc est potestatis excellentiae, quae soli debetur Christo, qui est Ecclesiae fundamentum. Et ideo, sicut Papa non potest dispensare ut aliquis sine baptismo salvetur; ita nec quod salvetur sine confessione, secundum quod obligat ex ipsa vi sacramenti; sed potest dispensare in confessione secundum quod obligat de praecepto Ecclesiae, ut possit aliquis diutius confessionem differre quam ab Ecclesia institutum sit.***
+Ad quintam quaestionem dicendum, quod ministri Ecclesiae instituuntur in Ecclesia divinitus fundata; et ideo institutio Ecclesiae praesupponitur ad operationem ministrorum, sicut opus creationis praesupponitur ad opus naturae. Et quia Ecclesia fundatur in fide et sacramentis; ideo ad ministros Ecclesiae nec novos articulos fidei edere, aut editos removere, aut nova sacramenta instituere, aut instituta removere, pertinet; sed hoc est potestatis excellentiae, quae soli debetur Christo, qui est Ecclesiae fundamentum. Et ideo, sicut Papa non potest dispensare ut aliquis sine baptismo salvetur; ita nec quod salvetur sine confessione, secundum quod obligat ex ipsa vi sacramenti; sed potest dispensare in confessione secundum quod obligat de praecepto Ecclesiae, ut possit aliquis diutius confessionem differre quam ab Ecclesia institutum sit.  
 
 Ad primum ergo dicendum, quod praecepta juris divini non minus obligant quam praecepta juris naturalis; unde sicut non potest dispensari in jure naturali, ita nec in jure positivo divino.  
 
@@ -1038,7 +1040,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Augustinus inconvenienter confessionem definiat, dicens: *confessio est per quam morbus latens spe veniae aperitur*. Morbus enim contra quam confessio ordinatur peccatum est. Sed peccatum aliquando est apertum. Ergo non debuit dicere morbum latentem esse, cujus confessio est medicina.***
+Ad secundum sic proceditur. Videtur quod Augustinus inconvenienter confessionem definiat, dicens: *confessio est per quam morbus latens spe veniae aperitur*. Morbus enim contra quam confessio ordinatur peccatum est. Sed peccatum aliquando est apertum. Ergo non debuit dicere morbum latentem esse, cujus confessio est medicina.  
 
 Praeterea, principium poenitentiae est timor, ut in 14 dist., quaest. 1, art. 2 dictum est. Sed confessio est pars poenitentiae. Ergo non debuit pro causa confessionis ponere spem, sed magis timorem.  
 
@@ -1048,7 +1050,7 @@ Praeterea, inveniuntur quaedam aliae definitiones ab ista differentes. Gregorius
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod confessio non sit actus virtutis. Omnis enim actus virtutis est de jure naturali: quia ad virtutes apti sumus a natura, ut Philosophus dicit in 2 *Ethica*. Sed confessio non est de jure naturali. Ergo non est actus virtutis.***
+Ulterius. Videtur quod confessio non sit actus virtutis. Omnis enim actus virtutis est de jure naturali: quia ad virtutes apti sumus a natura, ut Philosophus dicit in 2 *Ethica*. Sed confessio non est de jure naturali. Ergo non est actus virtutis.  
 
 Praeterea, actus virtutis magis potest convenire innocenti quam ei qui peccavit. Sed confessio peccati de qua loquimur, non potest innocenti convenire. Ergo non est actus virtutis.  
 
@@ -1058,7 +1060,7 @@ Sed contra, non*contra, non.—contra, praecepta legis sunt de actibus virtutum.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod confessio non sit actus poenitentiae virtutis. Quia actus illius virtutis est quae est causa ejus. Sed causa confessionis est *spes veniae*, ut ex definitione inducta apparet. Ergo videtur quod sit actus spei, et non poenitentiae.***
+Ulterius. Videtur quod confessio non sit actus poenitentiae virtutis. Quia actus illius virtutis est quae est causa ejus. Sed causa confessionis est *spes veniae*, ut ex definitione inducta apparet. Ergo videtur quod sit actus spei, et non poenitentiae.  
 
 Praeterea, verecundia est pars temperantiae, ut in 3 Lib., dist. 33, dictum est. Sed confessio *ex erubescentia* operatur, ut ex praeassignata definitione apparet. Ergo est actus temperantiae, non poenitentiae.  
 
@@ -1072,7 +1074,7 @@ Sed contra, poenitentia ordinatur ad destructionem peccati. Sed ad hoc idem conf
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in actu confessionis plura consideranda occurrunt. Primo ipsa substantia actus, sive genus ejus, quod est manifestatio quaedam. Secundo de quo sit, scilicet peccatum. Tertio cui fiat, scilicet sacerdos. Quarto causa cujus, scilicet spes veniae. Quinto effectus ejus, scilicet absolutio a parte poenae, et obligatio ad aliam partem exsolvendam. In prima ergo definitione Augustini tangitur et substantia actus in *apertione*, et de quo sit confessio cum dicitur *morbus latens*, et causa in *spe veniae*; et in aliis definitionibus tanguntur aliqua de illis quinque assignatis, ut cuilibet inspicienti patet.***
+Respondeo dicendum ad primam quaestionem, quod in actu confessionis plura consideranda occurrunt. Primo ipsa substantia actus, sive genus ejus, quod est manifestatio quaedam. Secundo de quo sit, scilicet peccatum. Tertio cui fiat, scilicet sacerdos. Quarto causa cujus, scilicet spes veniae. Quinto effectus ejus, scilicet absolutio a parte poenae, et obligatio ad aliam partem exsolvendam. In prima ergo definitione Augustini tangitur et substantia actus in *apertione*, et de quo sit confessio cum dicitur *morbus latens*, et causa in *spe veniae*; et in aliis definitionibus tanguntur aliqua de illis quinque assignatis, ut cuilibet inspicienti patet.  
 
 Ad primum ergo dicendum, quod quamvis sacerdos aliquando sciat ejus peccatum ut homo, non tamen scit ut Christi vicarius; sicut etiam judex aliquando scit aliquid ut homo, quod nescit ut judex; et quantum ad hoc per confessionem aperitur. Vel dicendum, quod quamvis actus peccati exterior in aperto sit, actus interior, qui tamen principalior est, in occulto est; et ideo oportet quod per confessionem aperiatur.  
 
@@ -1084,7 +1086,7 @@ Ad quartum dicendum, quod non oportet in qualibet definitione omnia tangere quae
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ad hoc quod aliquis dicatur actus virtutis, ut prius dictum est, sufficit quod in sui ratione aliquam conditionem implicet quae ad virtutem pertineat. Quamvis autem non omnia quae ad virtutem requiruntur, importet confessio; tamen importat ex suo nomine manifestationem alicujus quod in conscientia tenet aliquis; sic enim simul in unum os et cor conveniunt. Si enim quis aliquid proferat ore quod corde non teneat, non confessio, sed fictio dicitur. Haec autem conditio ad virtutem pertinet, ut aliquis ore confiteatur quod corde tenet; et ideo confessio est bonum ex genere, et est actus virtutis; sed tamen potest male fieri, nisi aliis debitis circumstantiis vestiatur.***
+Ad secundam quaestionem dicendum, quod ad hoc quod aliquis dicatur actus virtutis, ut prius dictum est, sufficit quod in sui ratione aliquam conditionem implicet quae ad virtutem pertineat. Quamvis autem non omnia quae ad virtutem requiruntur, importet confessio; tamen importat ex suo nomine manifestationem alicujus quod in conscientia tenet aliquis; sic enim simul in unum os et cor conveniunt. Si enim quis aliquid proferat ore quod corde non teneat, non confessio, sed fictio dicitur. Haec autem conditio ad virtutem pertinet, ut aliquis ore confiteatur quod corde tenet; et ideo confessio est bonum ex genere, et est actus virtutis; sed tamen potest male fieri, nisi aliis debitis circumstantiis vestiatur.  
 
 Ad primum ergo dicendum, quod ad confessionem veri debito modo faciendam ubi oportet et cui oportet, in generali inclinat ratio naturalis; et secundum hoc confessio est de jure naturali. Sed determinatio circumstantiarum, quando et quomodo et quid confiteri oporteat, et cui, hoc est ex institutione juris divini in confessione, de qua loquimur. Et sic patet quod jus naturale inclinat ad confessionem mediante jure divino, quo circumstantiae determinantur, sicut etiam est in omnibus quae sunt de jure positivo.  
 
@@ -1094,7 +1096,7 @@ Ad tertium dicendum, quod quamvis gratia sacramentorum et gratia virtutum sit al
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in virtutibus hoc considerandum est, quod quando supra objectum virtutis additur specialis ratio boni et difficilis, requiritur specialis virtus; sicut magni sumptus ad magnificentiam pertinent, quamvis communiter sumptus mediocres et donationes pertineant ad liberalitatem, ut patet in 2 et 4 *Ethica*; et similiter est in confessione veri, quae quamvis ad veritatis virtutem pertineat absolute, tamen secundum quod aliqua ratio boni additur, ad aliam virtutem pertinere incipit; et ideo dicit Philosophus in 4 *Ethica*, quod confessio quae fit in judiciis, non pertinet ad veritatis virtutem, sed magis ad justitiam. Et similiter confessio beneficiorum Dei in laudem divinam non pertinet ad virtutem veritatis, sed ad virtutem latriae; et ita etiam confessio peccatorum ad remissionem eorum consequendam non pertinet elicitive ad virtutem veritatis, ut quidam dicunt, sed ad virtutem poenitentiae; imperative autem ad multas virtutes pertinere potest, secundum quod in finem multarum virtutum trahi potest confessionis actus.***
+Ad tertiam quaestionem dicendum, quod in virtutibus hoc considerandum est, quod quando supra objectum virtutis additur specialis ratio boni et difficilis, requiritur specialis virtus; sicut magni sumptus ad magnificentiam pertinent, quamvis communiter sumptus mediocres et donationes pertineant ad liberalitatem, ut patet in 2 et 4 *Ethica*; et similiter est in confessione veri, quae quamvis ad veritatis virtutem pertineat absolute, tamen secundum quod aliqua ratio boni additur, ad aliam virtutem pertinere incipit; et ideo dicit Philosophus in 4 *Ethica*, quod confessio quae fit in judiciis, non pertinet ad veritatis virtutem, sed magis ad justitiam. Et similiter confessio beneficiorum Dei in laudem divinam non pertinet ad virtutem veritatis, sed ad virtutem latriae; et ita etiam confessio peccatorum ad remissionem eorum consequendam non pertinet elicitive ad virtutem veritatis, ut quidam dicunt, sed ad virtutem poenitentiae; imperative autem ad multas virtutes pertinere potest, secundum quod in finem multarum virtutum trahi potest confessionis actus.  
 
 Ad primum ergo dicendum, quod spes est causa confessionis non sicut eliciens, sed sicut imperans.  
 
@@ -1112,7 +1114,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non sit necessarium sacerdoti confiteri. Ad confessionem enim non obligamur nisi ex divina institutione. Sed divina institutio nobis proponitur Jacob. 5: *confitemini alterutrum peccata vestra*; ubi non fit mentio de sacerdote. Ergo non oportet confiteri sacerdoti.***
+Ad tertium sic proceditur. Videtur quod non sit necessarium sacerdoti confiteri. Ad confessionem enim non obligamur nisi ex divina institutione. Sed divina institutio nobis proponitur Jacob. 5: *confitemini alterutrum peccata vestra*; ubi non fit mentio de sacerdote. Ergo non oportet confiteri sacerdoti.  
 
 Praeterea, poenitentia est sacramentum necessitatis, sicut et baptismus. Sed in baptismo propter sacramenti necessitatem est minister quilibet homo. Ergo et in poenitentia. Sed ministro Ecclesiae facienda est confessio. Ergo sufficit cuilibet confiteri.  
 
@@ -1126,7 +1128,7 @@ Praeterea, confessio praefiguratur in Lazari mortui vivificatione. Sed Dominus s
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in nullo casu liceat aliis quam sacerdotibus confiteri. Quia *confessio sacramentalis accusatio est*, ut ex supra posita definitione habetur. Sed dispensatio sacramenti ad illum tantum pertinet qui est sacramenti minister. Cum ergo minister sacramenti poenitentiae sit sacerdos, videtur quod nulli alii sit confessio facienda.***
+Ulterius. Videtur quod in nullo casu liceat aliis quam sacerdotibus confiteri. Quia *confessio sacramentalis accusatio est*, ut ex supra posita definitione habetur. Sed dispensatio sacramenti ad illum tantum pertinet qui est sacramenti minister. Cum ergo minister sacramenti poenitentiae sit sacerdos, videtur quod nulli alii sit confessio facienda.  
 
 Praeterea, confessio in quolibet judicio ad sententiam ordinatur. Sed sententia in foro contentioso non a suo judice lata, nulla est; et ideo nec facienda est confessio nisi judici. Sed judex in foro conscientiae non est nisi sacerdos, qui habet potestatem ligandi et solvendi. Ergo non est alii confessio facienda.  
 
@@ -1136,7 +1138,7 @@ Sed contra est quod in littera determinatur.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod extra casum necessitatis non possit aliquis non sacerdos confessionem venialium audire. Quia sacramentum aliquod committitur dispensandum laico ratione necessitatis. Sed confessio venialium non est de necessitate salutis, ut supra dictum est. Ergo non committitur laico.***
+Ulterius. Videtur quod extra casum necessitatis non possit aliquis non sacerdos confessionem venialium audire. Quia sacramentum aliquod committitur dispensandum laico ratione necessitatis. Sed confessio venialium non est de necessitate salutis, ut supra dictum est. Ergo non committitur laico.  
 
 Praeterea, contra venialia ordinatur extrema unctio, sicut et poenitentia. Sed illa non potest dari a laico, ut patet Jac. ult. Ergo nec confessio venialium potest ei fieri.  
 
@@ -1144,7 +1146,7 @@ Sed contra est quod dicit Beda in littera.
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non sit necessarium quod homo confiteatur proprio sacerdoti. Gregorius enim dicit: *apostolico moderamine et pietatis officio a nobis constitutum est quod sacerdotibus monachis apostolorum figuram tenentibus, liceat praedicare, baptizare, communionem dare, pro peccatoribus orare, poenitentiam imponere, atque peccata solvere*. Sed monachi non sunt proprii sacerdotes aliquorum, cum non habeant curam animarum. Ergo cum confessio fiat propter absolutionem, sufficit quod fiat cuicumque sacerdoti.***
+Ulterius. Videtur quod non sit necessarium quod homo confiteatur proprio sacerdoti. Gregorius enim dicit: *apostolico moderamine et pietatis officio a nobis constitutum est quod sacerdotibus monachis apostolorum figuram tenentibus, liceat praedicare, baptizare, communionem dare, pro peccatoribus orare, poenitentiam imponere, atque peccata solvere*. Sed monachi non sunt proprii sacerdotes aliquorum, cum non habeant curam animarum. Ergo cum confessio fiat propter absolutionem, sufficit quod fiat cuicumque sacerdoti.  
 
 Praeterea, sicut sacerdos est hujus sacramenti minister, ita et Eucharistiae. Sed quilibet sacerdos potest conficere. Ergo quilibet sacerdos potest sacramentum poenitentiae ministrare. Ergo non oportet quod fiat proprio sacerdoti.  
 
@@ -1162,7 +1164,7 @@ Praeterea, sicut se habet episcopus ad dioecesim suam, ita sacerdos ad suam paro
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod non possit aliquis alteri quam proprio sacerdoti confiteri, etiam ex privilegio, vel mandato superioris. Quia non potest aliquod privilegium indulgeri in praejudicium alterius. Sed hoc est in praejudicium alterius sacerdotis, si alius confessionem subditi audiat. Ergo non potest per privilegium vel licentiam seu mandatum superioris obtineri.***
+Ulterius. Videtur quod non possit aliquis alteri quam proprio sacerdoti confiteri, etiam ex privilegio, vel mandato superioris. Quia non potest aliquod privilegium indulgeri in praejudicium alterius. Sed hoc est in praejudicium alterius sacerdotis, si alius confessionem subditi audiat. Ergo non potest per privilegium vel licentiam seu mandatum superioris obtineri.  
 
 Praeterea, illud per quod impeditur divinum mandatum, non potest per mandatum, vel privilegium, alicujus hominis concedi. Sed mandatum divinum est ad rectores Ecclesiarum ut diligenter *vultum pecoris sui agnoscant*, Proverb. 23: quod impeditur, si alius quam ipse confessionem ejus audiat. Ergo hoc non potest per alicujus hominis privilegium vel mandatum ordinari.  
 
@@ -1178,7 +1180,7 @@ Praeterea, potestatem quam habet sacerdos in populo, habet ab episcopo. Sed ex i
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod gratia quae in sacramentis datur, a capite in membra descendit; et ideo ille solus est minister sacramentorum, in quibus gratia datur, qui habet ministerium super corpus Christi verum; quod solius sacerdotis est, qui consecrare Eucharistiam potest; et ideo, cum in sacramento poenitentiae gratia conferatur, solus sacerdos est minister hujus sacramenti, et ideo ei soli facienda est sacramentalis confessio, quae ministro Ecclesiae debet fieri.***
+Respondeo dicendum ad primam quaestionem, quod gratia quae in sacramentis datur, a capite in membra descendit; et ideo ille solus est minister sacramentorum, in quibus gratia datur, qui habet ministerium super corpus Christi verum; quod solius sacerdotis est, qui consecrare Eucharistiam potest; et ideo, cum in sacramento poenitentiae gratia conferatur, solus sacerdos est minister hujus sacramenti, et ideo ei soli facienda est sacramentalis confessio, quae ministro Ecclesiae debet fieri.  
 
 Ad primum ergo dicendum, quod Jacobus loquitur ex praesuppositione divinae institutionis; et quia divinitus institutio praecesserat de confessione sacerdotibus facienda per hoc quod eis potestatem remittendi peccata in apostolis dedit, ut patet Joan. 20; ideo intelligendum est quod Jacobus sacerdotibus confessionem esse faciendam monuit.  
 
@@ -1190,7 +1192,7 @@ Ad quartum dicendum, quod cognoscere vultum pecoris ad duo necessarium est. Prim
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut baptismus est sacramentum necessitatis, ita et poenitentia. Baptismus autem, qui est sacramentum necessitatis, habet duplicem ministrum: unum cui ex officio baptizare incumbit, scilicet sacerdotem; alium cui ratione necessitatis dispensatio baptismi committitur. Et ita etiam minister poenitentiae, cui confessio est facienda ex officio, est sacerdos; sed in necessitate etiam laicus vicem sacerdotis supplet, ut ei confessio fieri possit.***
+Ad secundam quaestionem dicendum, quod sicut baptismus est sacramentum necessitatis, ita et poenitentia. Baptismus autem, qui est sacramentum necessitatis, habet duplicem ministrum: unum cui ex officio baptizare incumbit, scilicet sacerdotem; alium cui ratione necessitatis dispensatio baptismi committitur. Et ita etiam minister poenitentiae, cui confessio est facienda ex officio, est sacerdos; sed in necessitate etiam laicus vicem sacerdotis supplet, ut ei confessio fieri possit.  
 
 Ad primum ergo dicendum, quod in sacramento poenitentiae non solum est aliquid ex parte ministri, scilicet absolutio et satisfactionis injunctio, sed etiam aliquid ex parte ipsius qui suscipit sacramentum, quod est etiam de essentia sacramenti, sicut contritio et confessio. Satisfactio autem jam incipit esse a ministro inquantum eam injungit, et a poenitente inquantum eam implet; et ad plenitudinem sacramenti utrumque debet concurrere quando possibile est; sed quando necessitas imminet, debet facere poenitens quod ex parte sua est, scilicet conteri, et confiteri cui potest: qui quamvis sacramentum perficere non possit, ut faciat id quod est ex parte sacerdotis, absolutionem scilicet, tamen defectum sacerdotis summus sacerdos supplet. Nihilominus confessio laico ex desiderio sacerdotis facta, sacramentalis est quodammodo, quamvis non sit sacramentum perfectum, quia deest ei id quod est ex parte sacerdotis.  
 
@@ -1200,7 +1202,7 @@ Ad tertium dicendum, quod per sacramenta homo non solum Deo, sed etiam Ecclesiae
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod per peccatum veniale homo nec a Deo nec a sacramentis Ecclesiae separatur; et ideo non indiget novae gratiae collatione ad ejus dimissionem, neque indiget reconciliatione ad Ecclesiam; et propter hoc non oportet quod venialia aliquis sacerdoti confiteatur: quia ipsa confessio laico facta, sacramentale quoddam est, quamvis non sit sacramentum perfectum, et ex caritate procedens; et talibus natum est veniale remitti, sicut per tunsionem pectoris, et per aquam benedictam.***
+Ad tertiam quaestionem dicendum, quod per peccatum veniale homo nec a Deo nec a sacramentis Ecclesiae separatur; et ideo non indiget novae gratiae collatione ad ejus dimissionem, neque indiget reconciliatione ad Ecclesiam; et propter hoc non oportet quod venialia aliquis sacerdoti confiteatur: quia ipsa confessio laico facta, sacramentale quoddam est, quamvis non sit sacramentum perfectum, et ex caritate procedens; et talibus natum est veniale remitti, sicut per tunsionem pectoris, et per aquam benedictam.  
 
 Et per hoc patet solutio ad primum; quia venialia non indigent sacramenti perceptione ad dimissionem sui, sed sufficit ibi aliquod sacramentale, ut aqua benedicta, vel aliquid hujusmodi.  
 
@@ -1208,7 +1210,7 @@ Ad secundum dicendum, quod extrema unctio non datur directe contra veniale, nec 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod alia sacramenta non consistunt in hoc quod ad sacramentum accedens aliquid agat, sed solum ut recipiat, sicut patet in baptismo, et hujusmodi; sed actus recipientis requiritur ad percipiendum utilitatem sacramenti in eo qui est suae voluntatis arbiter constitutus, quasi removens prohibens, scilicet fictionem. Sed in poenitentia actus accedentis ad sacramentum est de substantia sacramenti, eo quod contritio, confessio, satisfactio sunt poenitentiae partes, quae sunt actus poenitentis. Actus autem nostri, cum in nobis principium habeant, non possunt nobis ab alio dispensari nisi per imperium; unde oportet quod ille qui dispensator hujus sacramenti constituitur, sit talis qui possit imperare aliquid agendum. Imperium autem non competit alicui in alium, nisi qui habet super eum jurisdictionem; et ideo de necessitate hujus sacramenti est non solum ut minister habeat ordinem, sicut in aliis sacramentis, sed etiam quod habeat jurisdictionem; et ideo sicut ille qui non est sacerdos, non potest hoc sacramentum conferre, ita nec ille qui non habet jurisdictionem; et propter hoc oportet sicut sacerdoti, ita proprio sacerdoti confessionem fieri. Cum enim sacerdos non absolvat nisi ligando ad aliquid faciendum, ille solus potest absolvere qui potest per imperium ad aliquid faciendum ligare.***
+Ad quartam quaestionem dicendum, quod alia sacramenta non consistunt in hoc quod ad sacramentum accedens aliquid agat, sed solum ut recipiat, sicut patet in baptismo, et hujusmodi; sed actus recipientis requiritur ad percipiendum utilitatem sacramenti in eo qui est suae voluntatis arbiter constitutus, quasi removens prohibens, scilicet fictionem. Sed in poenitentia actus accedentis ad sacramentum est de substantia sacramenti, eo quod contritio, confessio, satisfactio sunt poenitentiae partes, quae sunt actus poenitentis. Actus autem nostri, cum in nobis principium habeant, non possunt nobis ab alio dispensari nisi per imperium; unde oportet quod ille qui dispensator hujus sacramenti constituitur, sit talis qui possit imperare aliquid agendum. Imperium autem non competit alicui in alium, nisi qui habet super eum jurisdictionem; et ideo de necessitate hujus sacramenti est non solum ut minister habeat ordinem, sicut in aliis sacramentis, sed etiam quod habeat jurisdictionem; et ideo sicut ille qui non est sacerdos, non potest hoc sacramentum conferre, ita nec ille qui non habet jurisdictionem; et propter hoc oportet sicut sacerdoti, ita proprio sacerdoti confessionem fieri. Cum enim sacerdos non absolvat nisi ligando ad aliquid faciendum, ille solus potest absolvere qui potest per imperium ad aliquid faciendum ligare.  
 
 Ad primum ergo dicendum, quod Gregorius loquitur de illis monachis qui jurisdictionem habent, utpote quibus alicujus parochiae cura est commissa; de quibus aliqui dicebant, quod hoc ipso quod monachi erant, non poterant absolvere, et poenitentias injungere; quod falsum est.  
 
@@ -1224,7 +1226,7 @@ Ad sextum dicendum, quod in hoc quod oportet proprio sacerdoti confiteri, non ar
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod sacerdos aliquis potest dupliciter impediri ne alicujus confessionem audiat. Uno modo propter defectum jurisdictionis: alio modo propter impedimentum executionis ordinis, sicut excommunicati, et degradati, et hujusmodi. Quicumque autem habet jurisdictionem, potest ea quae sunt jurisdictionis committere; et ideo si aliquis impediatur quod alterius confessionem audire non possit per jurisdictionis defectum, potest sibi per quemcumque jurisdictionem habentem immediatam in illos committi quod confessionem audiat et absolvat, sive per ipsum sacerdotem, sive per episcopum, sive per Papam. Si autem propter executionis ordinis impedimentum audire non possit, potest sibi concedi quod confessionem audiat per eum qui impedimentum amovere potest.***
+Ad quintam quaestionem dicendum, quod sacerdos aliquis potest dupliciter impediri ne alicujus confessionem audiat. Uno modo propter defectum jurisdictionis: alio modo propter impedimentum executionis ordinis, sicut excommunicati, et degradati, et hujusmodi. Quicumque autem habet jurisdictionem, potest ea quae sunt jurisdictionis committere; et ideo si aliquis impediatur quod alterius confessionem audire non possit per jurisdictionis defectum, potest sibi per quemcumque jurisdictionem habentem immediatam in illos committi quod confessionem audiat et absolvat, sive per ipsum sacerdotem, sive per episcopum, sive per Papam. Si autem propter executionis ordinis impedimentum audire non possit, potest sibi concedi quod confessionem audiat per eum qui impedimentum amovere potest.  
 
 Ad primum ergo dicendum, quod praejudicium non fit alicui nisi ei subtrahatur quod est in favorem ipsius indultum jurisdictionis. Omnis autem potestas non est commissa alicui homini in favorem suum, sed in utilitatem plebis, et ad honorem Dei; et ideo si superioribus praelatis expedire videatur ad salutem plebis et ad honorem Dei promovendum, quod aliis quae sunt jurisdictionis committant, in nullo fit praejudicium inferioribus praelatis, nisi illis qui *quaerunt quae sua sunt, non quae Jesu Christi*, et qui gregi praesunt, non *ut eas pascant, sed ut ab eis pascantur*.  
 
@@ -1240,7 +1242,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod confessio esse non possit informis. Eccli. enim 17, 26, dicitur: *a mortuo, velut qui non est, perit confessio*. Sed ille qui non habet caritatem, est mortuus; quia ipsa est animae vita. Ergo absque caritate non potest esse confessio.***
+Ad quartum sic proceditur. Videtur quod confessio esse non possit informis. Eccli. enim 17, 26, dicitur: *a mortuo, velut qui non est, perit confessio*. Sed ille qui non habet caritatem, est mortuus; quia ipsa est animae vita. Ergo absque caritate non potest esse confessio.  
 
 Praeterea, confessio dividitur contra contritionem et satisfactionem. Sed contritio et satisfactio nunquam possunt extra caritatem fieri. Ergo nec confessio.  
 
@@ -1250,7 +1252,7 @@ Sed contra, quilibet tenetur ad confessionem mortalium. Sed si aliquis semel con
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non oporteat confessionem esse integram, ut scilicet omnia peccata uni sacerdoti confiteatur aliquis. Quia erubescentia facit ad diminutionem poenae. Sed quanto pluribus sacerdotibus quis confitetur; tanto majorem erubescentiam patitur. Ergo fructuosior erit confessio, si pluribus sacerdotibus dividat.***
+Ulterius. Videtur quod non oporteat confessionem esse integram, ut scilicet omnia peccata uni sacerdoti confiteatur aliquis. Quia erubescentia facit ad diminutionem poenae. Sed quanto pluribus sacerdotibus quis confitetur; tanto majorem erubescentiam patitur. Ergo fructuosior erit confessio, si pluribus sacerdotibus dividat.  
 
 Praeterea, confessio ad hoc necessaria est in poenitentia, ut poena secundum arbitrium sacerdotis, peccato taxetur. Sed sufficiens poena potest imponi a sacerdotibus*a sacerdotibus.—a diversis sacerdotibus* PLE. de diversis peccatis. Ergo non oportet uni sacerdoti omnia peccata confiteri.  
 
@@ -1264,7 +1266,7 @@ Praeterea, confessio est poenitentiae pars. Sed poenitentia debet esse integra, 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod possit per alium quis confiteri, vel per scriptum. Quia confessio ad hoc necessaria est, ut per eam conscientia poenitentis sacerdoti pandatur. Sed homo potest etiam per alium, vel per scriptum, suam conscientiam sacerdoti manifestare. Ergo sufficit per scriptum, vel per alium, confiteri.***
+Ulterius. Videtur quod possit per alium quis confiteri, vel per scriptum. Quia confessio ad hoc necessaria est, ut per eam conscientia poenitentis sacerdoti pandatur. Sed homo potest etiam per alium, vel per scriptum, suam conscientiam sacerdoti manifestare. Ergo sufficit per scriptum, vel per alium, confiteri.  
 
 Praeterea, quidam non intelliguntur a propriis sacerdotibus propter linguae diversitatem; et tales non possunt nisi per alios confiteri. Ergo non est de necessitate sacramenti quod per seipsum quis confiteatur; et ita videtur quod si per alium quis confessus fuerit qualitercumque, quod sufficiat ei ad salutem.  
 
@@ -1276,7 +1278,7 @@ Praeterea, qui per seipsum peccavit, per seipsum debet poenitere. Sed confessio 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod illae conditiones sexdecim quae a magistris assignantur, his versibus contentae, non requirantur ad confessionem: *sit simplex, humilis confessio, pura, fidelis, atque frequens, nuda, discreta, libens, verecunda, integra, secreta, lacrymabilis, accelerata, fortis et accusans, et sit parere parata*. Fides enim et simplicitas et fortitudo sunt per se virtutes. Ergo non debent poni conditiones confessionis.***
+Ulterius. Videtur quod illae conditiones sexdecim quae a magistris assignantur, his versibus contentae, non requirantur ad confessionem: *sit simplex, humilis confessio, pura, fidelis, atque frequens, nuda, discreta, libens, verecunda, integra, secreta, lacrymabilis, accelerata, fortis et accusans, et sit parere parata*. Fides enim et simplicitas et fortitudo sunt per se virtutes. Ergo non debent poni conditiones confessionis.  
 
 Praeterea, purum est quod non habet permixtionem: similiter simplex compositionem et mixtionem aufert. Ergo superflue utrumque ponitur.  
 
@@ -1288,7 +1290,7 @@ Praeterea, illud quod non est in potestate nostra, non requiritur a nobis. Sed l
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod confessio est actus virtutis, et pars sacramenti. Secundum autem quod est actus virtutis, est actus meritorius proprie; et sic confessio non valet sine caritate, quae est principium merendi. Sed secundum quod est pars sacramenti, sic ordinat confitentem ad sacerdotem, qui habet claves Ecclesiae, qui per confessionem conscientiam confitentis cognoscit; et secundum hoc confessio etiam potest esse in eo qui non est contritus, quia potest peccata sua sacerdoti innotescere, et clavibus Ecclesiae se subjicere. Et quamvis tunc non percipiat absolutionis fructum, tamen recedente fictione percipere incipiet, sicut etiam est in aliis sacramentis; unde non tenetur iterare confessionem qui fictus accedit, sed tenetur postmodum fictionem suam confiteri.***
+Respondeo dicendum ad primam quaestionem, quod confessio est actus virtutis, et pars sacramenti. Secundum autem quod est actus virtutis, est actus meritorius proprie; et sic confessio non valet sine caritate, quae est principium merendi. Sed secundum quod est pars sacramenti, sic ordinat confitentem ad sacerdotem, qui habet claves Ecclesiae, qui per confessionem conscientiam confitentis cognoscit; et secundum hoc confessio etiam potest esse in eo qui non est contritus, quia potest peccata sua sacerdoti innotescere, et clavibus Ecclesiae se subjicere. Et quamvis tunc non percipiat absolutionis fructum, tamen recedente fictione percipere incipiet, sicut etiam est in aliis sacramentis; unde non tenetur iterare confessionem qui fictus accedit, sed tenetur postmodum fictionem suam confiteri.  
 
 Ad primum ergo dicendum, quod auctoritas illa intelligenda est quantum ad fructum confessionis percipiendum, quem nullus extra caritatem existens percipit.  
 
@@ -1298,7 +1300,7 @@ Ad tertium dicendum, quod ille qui peccata quae habet, narrat, vere loquitur, et
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in medicina corporali oportet quod medicus non solum unum morbum, contra quem medicinam dare debet, cognoscat; sed etiam universaliter totam habitudinem ipsius infirmi, eo quod unus morbus ex adjunctione alterius aggravatur; et medicina quae uni morbo competeret, alteri nocumentum praestaret; et similiter est in peccatis: quia unum aggravatur ex adjunctione alterius; et illud quod uni peccato esset conveniens medicina, alteri incentivum praestaret, cum quandoque aliquis contrariis peccatis infectus sit, ut Gregorius in *Pastorali* docet; et ideo de necessitate confessionis est quod homo omnia peccata confiteatur quae in memoria habet: quod si non facit, non est confessio, sed confessionis simulatio.***
+Ad secundam quaestionem dicendum, quod in medicina corporali oportet quod medicus non solum unum morbum, contra quem medicinam dare debet, cognoscat; sed etiam universaliter totam habitudinem ipsius infirmi, eo quod unus morbus ex adjunctione alterius aggravatur; et medicina quae uni morbo competeret, alteri nocumentum praestaret; et similiter est in peccatis: quia unum aggravatur ex adjunctione alterius; et illud quod uni peccato esset conveniens medicina, alteri incentivum praestaret, cum quandoque aliquis contrariis peccatis infectus sit, ut Gregorius in *Pastorali* docet; et ideo de necessitate confessionis est quod homo omnia peccata confiteatur quae in memoria habet: quod si non facit, non est confessio, sed confessionis simulatio.  
 
 Ad primum ergo dicendum, quod etsi erubescentia sit multiplicior quando dividit diversa peccata diversis, tamen omnes simul non sunt ita magnae sicut illa una qua quis omnia peccata sua simul confitetur: quia unum peccatum per se consideratum non ita demonstrat malam dispositionem peccantis, sicut quando cum pluribus aliis consideratur: quia in unum peccatum aliquis quandoque ex ignorantia vel infirmitate labitur; sed multitudo peccatorum demonstrat malitiam peccantis, vel magnam corruptionem ejusdem.  
 
@@ -1310,7 +1312,7 @@ Ad quartum dicendum, quod etiamsi sacerdos non possit de omnibus absolvere, tame
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod confessio non solum est actus virtutis, sed etiam pars sacramenti. Quamvis autem ad eam secundum quod est actus virtutis, sufficeret qualitercumque fieret, etsi non esset tanta difficultas in uno modo sicut in alio; tamen secundum quod est pars sacramenti, habet determinatum actum, sicut et alia sacramenta habent determinatam materiam. Et sicut in baptismo ad significandam interiorem ablutionem assumitur illud elementum cujus est maximus usus in abluendo; ita in actu sacramentali ad manifestandum ordinate assumitur ille actus quo maxime consuevimus manifestare, scilicet per proprium verbum: alii enim modi sunt inducti in supplementum istius.***
+Ad tertiam quaestionem dicendum, quod confessio non solum est actus virtutis, sed etiam pars sacramenti. Quamvis autem ad eam secundum quod est actus virtutis, sufficeret qualitercumque fieret, etsi non esset tanta difficultas in uno modo sicut in alio; tamen secundum quod est pars sacramenti, habet determinatum actum, sicut et alia sacramenta habent determinatam materiam. Et sicut in baptismo ad significandam interiorem ablutionem assumitur illud elementum cujus est maximus usus in abluendo; ita in actu sacramentali ad manifestandum ordinate assumitur ille actus quo maxime consuevimus manifestare, scilicet per proprium verbum: alii enim modi sunt inducti in supplementum istius.  
 
 Ad primum ergo dicendum, quod sicut in baptismo non sufficit qualitercumque abluere, sed per elementum determinatum; ita nec in poenitentia sufficit qualitercumque peccata manifestare, sed oportet quod per actum determinatum manifestentur.  
 
@@ -1320,7 +1322,7 @@ Ad tertium dicendum, quod in absentia proprii sacerdotis potest etiam laico fier
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod dictarum conditionum quaedam sunt de necessitate confessionis, quaedam de bene esse ipsius. Ea autem quae sunt de necessitate confessionis; vel competunt ei secundum quod est actus virtutis, vel secundum quod est pars sacramenti.***
+Ad quartam quaestionem dicendum, quod dictarum conditionum quaedam sunt de necessitate confessionis, quaedam de bene esse ipsius. Ea autem quae sunt de necessitate confessionis; vel competunt ei secundum quod est actus virtutis, vel secundum quod est pars sacramenti.  
 
 Si primo modo; aut ratione virtutis in genere, aut ratione specialis virtutis, cujus est actus; aut ex ipsa autem ratione actus. Virtutis in genere sunt quatuor conditiones, ut in 2 *Ethic*. dicitur. Prima est ut aliquis sit sciens; et quantum ad hoc confessio dicitur esse *discreta*, secundum quod in actu omnis virtutis prudentia requiritur; est autem haec discretio ut majora cum majori pondere confiteatur. Secunda conditio est ut sit eligens, quia actus virtutum debent esse voluntarii; et quantum ad hoc dicit *libens*. Tertia conditio est ut propter hoc, scilicet debitum finem operetur; et quantum ad hoc dicit, quod debet esse poenitentia *pura*, ut scilicet recta sit intentio. Quarta est ut immobiliter operetur; et quantum ad hoc dicit quod debet esse *fortis*, ut scilicet propter verecundiam non dimittat. Est autem confessio actus poenitentiae virtutis; quae quidem primo initium sumit in horrore turpitudinis peccati; et quantum ad hoc confessio debet esse *verecunda*, ut scilicet non se jactet de peccatis propter aliquam saeculi vanitatem admixtam. Secundo progreditur ad dolorem de peccato commisso; et quantum ad hoc debet esse *lacrymabilis*. Tertio in abjectione sui terminatur; et quantum ad hoc debet esse *humilis*, ut se miserum confiteatur et infirmum. Sed ex propria ratione hujus actus qui est confessio, habet quod sit manifestativa: quae quidem manifestatio per quatuor impediri potest. Primo per falsitatem; et quantum ad hoc dicit *fidelis*, idest vera. Secundo per obscuritatem; et contra hoc dicit *nuda*, ut non involvatur obscuritate verborum. Tertio per multiplicationem verborum; et contra hoc dicit, quod sit *simplex*, ut non recitet in confessione nisi quod ad quantitatem peccati pertinet. Quarto ut non subtrahatur aliquid de his quae manifestanda sunt; et contra hoc dicit *integra*.  
 
@@ -1342,7 +1344,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod confessio non liberet a morte peccati. Confessio enim contritionem sequitur. Sed contritio sufficienter delet culpam. Ergo confessio non liberat a morte peccati.***
+Ad quintum sic proceditur. Videtur quod confessio non liberet a morte peccati. Confessio enim contritionem sequitur. Sed contritio sufficienter delet culpam. Ergo confessio non liberat a morte peccati.  
 
 Praeterea, sicut mortale est culpa, ita etiam veniale. Sed per confessionem *fit veniale quod prius erat mortale*, ut in littera dicitur. Ergo per confessionem non remittitur culpa, sed culpa in culpam mutatur.  
 
@@ -1350,7 +1352,7 @@ Sed contra, confessio est pars sacramenti poenitentiae. Sed poenitentia a culpa 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod confessio non liberet aliquo modo a poena. Quia peccato non debetur nisi poena aeterna, vel temporalis. Sed poena aeterna per contritionem dimittitur, poena autem temporalis per satisfactionem. Ergo per confessionem nihil dimittitur de poena.***
+Ulterius. Videtur quod confessio non liberet aliquo modo a poena. Quia peccato non debetur nisi poena aeterna, vel temporalis. Sed poena aeterna per contritionem dimittitur, poena autem temporalis per satisfactionem. Ergo per confessionem nihil dimittitur de poena.  
 
 Praeterea, *voluntas pro facto reputatur*, ut in littera dicitur. Sed ille qui confessus*confessus.—contritus* PLE. est, habuit propositum confitendi. Ergo tantum valuit sibi sicut si fuisset confessus; et ita per confessionem quam postea facit, nihil de poena dimittitur.  
 
@@ -1358,7 +1360,7 @@ Sed contra, confessio poenam habet. Sed per alia opera poenalia expiatur poena p
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non aperiat paradisum. Quia diversorum diversi sunt effectus. Sed apertio paradisi est effectus baptismi. Ergo non est effectus confessionis.***
+Ulterius. Videtur quod non aperiat paradisum. Quia diversorum diversi sunt effectus. Sed apertio paradisi est effectus baptismi. Ergo non est effectus confessionis.  
 
 Praeterea, in id quod clausum est, ante apertionem intrari non potest. Sed ante confessionem moriens paradisum intrare potest. Ergo confessio non aperit paradisum.  
 
@@ -1366,7 +1368,7 @@ Sed contra, confessio facit hominem subjici clavibus Ecclesiae. Sed per eas aper
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod confessionis effectus poni non debeat quod tribuat spem salutis; quia spes ex omnibus meritoriis actibus provenit; et sic non videtur esse proprius effectus confessionis.***
+Ulterius. Videtur quod confessionis effectus poni non debeat quod tribuat spem salutis; quia spes ex omnibus meritoriis actibus provenit; et sic non videtur esse proprius effectus confessionis.  
 
 Praeterea, per tribulationem ad spem pervenimus, ut patet Rom. 5. Sed tribulationem homo praecipue in satisfactione sustinet. Ergo tribuere spem salutis magis est satisfactionis quam confessionis.  
 
@@ -1374,7 +1376,7 @@ Sed contra, per confessionem homo fit humilior et mitior, sicut in littera Magis
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod poenitentia inquantum est sacramentum, praecipue in confessione perficitur; quia per eam homo ministris Ecclesiae se subdit, qui sunt sacramentorum dispensatores. Contritio enim votum confessionis annexum habet; et satisfactio pro judicio sacerdotis cui fit confessio, taxatur. Et quia in sacramento poenitentiae gratia infunditur, per quam fit remissio peccatorum, sicut in baptismo; ideo eo modo confessio ex vi absolutionis conjunctae remittit culpam sicut et baptismus. Liberat enim baptismus a morte peccati non solum secundum quod actu suscipitur, sed etiam secundum quod in voto habetur, sicut patet in illis qui jam sanctificati ad baptismum accedunt; et si aliquis impedimentum non praestaret, ex ipsa collatione baptismi gratiam consequeretur remittentem peccata, si prius sibi remissa non fuissent. Et similiter dicendum est de confessione, adjuncta absolutione; quod, secundum quod in voto poenitentis praecessit, a culpa liberavit; postmodum autem in actu confessionis et absolutionis gratia augetur: et etiam remissio peccatorum daretur, si praecedens dolor de peccatis non sufficiens ad contritionem fuisset, et ipse tunc obicem gratiae non praeberet. Et ideo sicut de baptismo dicitur quod liberat a morte, ita et de confessione dici potest.***
+Respondeo dicendum ad primam quaestionem, quod poenitentia inquantum est sacramentum, praecipue in confessione perficitur; quia per eam homo ministris Ecclesiae se subdit, qui sunt sacramentorum dispensatores. Contritio enim votum confessionis annexum habet; et satisfactio pro judicio sacerdotis cui fit confessio, taxatur. Et quia in sacramento poenitentiae gratia infunditur, per quam fit remissio peccatorum, sicut in baptismo; ideo eo modo confessio ex vi absolutionis conjunctae remittit culpam sicut et baptismus. Liberat enim baptismus a morte peccati non solum secundum quod actu suscipitur, sed etiam secundum quod in voto habetur, sicut patet in illis qui jam sanctificati ad baptismum accedunt; et si aliquis impedimentum non praestaret, ex ipsa collatione baptismi gratiam consequeretur remittentem peccata, si prius sibi remissa non fuissent. Et similiter dicendum est de confessione, adjuncta absolutione; quod, secundum quod in voto poenitentis praecessit, a culpa liberavit; postmodum autem in actu confessionis et absolutionis gratia augetur: et etiam remissio peccatorum daretur, si praecedens dolor de peccatis non sufficiens ad contritionem fuisset, et ipse tunc obicem gratiae non praeberet. Et ideo sicut de baptismo dicitur quod liberat a morte, ita et de confessione dici potest.  
 
 Ad primum ergo dicendum, quod contritio habet votum confessionis adjunctum; et ideo eo modo liberat a culpa poenitentes sicut desiderium baptismi baptizandos.  
 
@@ -1382,7 +1384,7 @@ Ad secundum dicendum, quod veniale non sumitur pro culpa, sed pro poena de facil
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod confessio simul cum absolutione habet vim liberandi a poena dupliciter. Uno modo ex ipsa vi absolutionis; et sic quidem liberat in voto existens a poena aeterna, sicut et a culpa; quae quidem poena est poena condemnans, et ex toto exterminans, a qua homo liberatus, manet adhuc obligatus ad poenam temporalem, secundum quod poena est medicina purgans, et promovens; et haec poena restat in purgatorio patienda etiam his qui a poena inferni liberati sunt; quae quidem poena est improportionata viribus poenitentis in hoc mundo viventis; sed per vim clavium intantum diminuitur quod proportionata viribus poenitentis remanet; ita quod satisfaciendo se in hac vita purgare potest. Alio modo diminuit poenam ex ipsa natura actus confitentis, qui habet poenam erubescentiae annexam; et ideo quanto aliquis pluries de eisdem peccatis confitetur, tanto magis poena diminuitur.***
+Ad secundam quaestionem dicendum, quod confessio simul cum absolutione habet vim liberandi a poena dupliciter. Uno modo ex ipsa vi absolutionis; et sic quidem liberat in voto existens a poena aeterna, sicut et a culpa; quae quidem poena est poena condemnans, et ex toto exterminans, a qua homo liberatus, manet adhuc obligatus ad poenam temporalem, secundum quod poena est medicina purgans, et promovens; et haec poena restat in purgatorio patienda etiam his qui a poena inferni liberati sunt; quae quidem poena est improportionata viribus poenitentis in hoc mundo viventis; sed per vim clavium intantum diminuitur quod proportionata viribus poenitentis remanet; ita quod satisfaciendo se in hac vita purgare potest. Alio modo diminuit poenam ex ipsa natura actus confitentis, qui habet poenam erubescentiae annexam; et ideo quanto aliquis pluries de eisdem peccatis confitetur, tanto magis poena diminuitur.  
 
 Et per hoc patet responsio ad primum.  
 
@@ -1390,7 +1392,7 @@ Ad secundum dicendum, quod voluntas pro facto non reputatur in his quae sunt ab 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod a paradisi introitu prohibetur aliquis per culpam, et reatum poenae; et quia haec impedimenta confessio amovet, ut ex dictis patet, ideo dicitur paradisum aperire.***
+Ad tertiam quaestionem dicendum, quod a paradisi introitu prohibetur aliquis per culpam, et reatum poenae; et quia haec impedimenta confessio amovet, ut ex dictis patet, ideo dicitur paradisum aperire.  
 
 Ad primum ergo dicendum, quod quamvis baptismus et poenitentia sint diversa sacramenta, tamen agunt in vi unius Passionis Christi, per quam paradisi aditus est apertus.  
 
@@ -1398,7 +1400,7 @@ Ad secundum dicendum, quod ante votum confessionis paradisus clausus erat peccan
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod spes remissionis peccatorum non est nobis nisi per Christum; et quia homo per confessionem se subjicit clavibus Ecclesiae ex passione Christi virtutem habentibus, ideo dicitur quod confessio spem salutis tribuit.***
+Ad quartam quaestionem dicendum, quod spes remissionis peccatorum non est nobis nisi per Christum; et quia homo per confessionem se subjicit clavibus Ecclesiae ex passione Christi virtutem habentibus, ideo dicitur quod confessio spem salutis tribuit.  
 
 Ad primum ergo dicendum, quod ex actibus non potest esse spes salutis principaliter, sed ex gratia Redemptoris; et quia confessio gratiae Redemptoris innititur, ideo spem salutis tribuit non solum ut actus meritorius, sed ut sacramenti pars.  
 
@@ -1406,7 +1408,7 @@ Ad secundum dicendum, quod tribulatio spem salutis tribuit per experimentum prop
 
 Expositio textus  
 
-****Dicunt enim quidam, sine confessione oris et satisfactione operis neminem a peccato mundari*. Tertia opinio est quam Magister non tangit, quod dimittitur culpa per contritionem sub conditione, scilicet si confiteatur. Sed haec opinio minus habet de ratione quam aliae: quia status salutis non dependet ex futuro: quia, sicut dicitur Eccle. 11, 3: *lignum ubi ceciderit, ibi erit*. Unde nihil est dictu quod homo ad statum salutis per dimissionem peccati reducatur sub conditione confessionis simpliciter.***
+*Dicunt enim quidam, sine confessione oris et satisfactione operis neminem a peccato mundari*. Tertia opinio est quam Magister non tangit, quod dimittitur culpa per contritionem sub conditione, scilicet si confiteatur. Sed haec opinio minus habet de ratione quam aliae: quia status salutis non dependet ex futuro: quia, sicut dicitur Eccle. 11, 3: *lignum ubi ceciderit, ibi erit*. Unde nihil est dictu quod homo ad statum salutis per dimissionem peccati reducatur sub conditione confessionis simpliciter.  
 
 *Votum pro operatione judicatur*. Hoc intelligendum est tam in bonis quam in malis, quando est votum plenum, ita quod nihil ab executione retardat nisi impotentia. Si autem operatio adjuncta addat aliquid ad voluntatem, sicut in illis operibus quae habent in ipso actu delectationem voluntatem provocantem, tunc operatio addit etiam quantum ad meritum et demeritum substantiale; alias non, sed semper addit operatio quantum ad aliquid adjunctum, quod est utilitas consequens actum in bonis ut effectus ejus, vel nocumentum in malis.  
 

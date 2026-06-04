@@ -1,10 +1,12 @@
 # C. 14 - Jeremiah entreats God for mercy
 
+***Jeremiah entreats God for mercy***
+
 ***Lecture 1***
 
 ***Disaster of the drought***
 
-***^14:1^ The word of the Lord which came to Jeremiah, concerning the words of the drought.Heb. עַל־דִּבְרֵ֖י הַבַּצָּרֹֽות: *concerning the matter of the drought*.***
+^14:1^ The word of the Lord which came to Jeremiah, concerning the words of the drought.Heb. עַל־דִּבְרֵ֖י הַבַּצָּרֹֽות: *concerning the matter of the drought*.  
 
 > ^14:2^ Judah has mourned, and her gates have fallen, and are darkened in the land, and the cry of Jerusalem is gone up.
 
@@ -50,7 +52,7 @@ Lecture 2
 
 ***God’s refusal of prayers***
 
-***^14:7^ If our iniquities should testify against us, O Lord, act according to your name, for our turnings away are many; we have sinned against you.***
+^14:7^ If our iniquities should testify against us, O Lord, act according to your name, for our turnings away are many; we have sinned against you.  
 
 > ^14:8^ The expectation of Israel, our savior in the time of trouble, why shall you be like a stranger in the land, and like a traveler turning aside to tarry the night?
 
@@ -98,7 +100,7 @@ Lecture 3
 
 ***Destruction of false prophets***
 
-***^14:13^ And I said: a, a, a, O Lord God. The prophets say to them, ‘You shall not see the sword, and there will be no famine among you, but he will give you true peace in this place.’***
+^14:13^ And I said: a, a, a, O Lord God. The prophets say to them, ‘You shall not see the sword, and there will be no famine among you, but he will give you true peace in this place.’  
 
 > ^14:14^ And the Lord said to me: the prophets have prophesied falsely in my name. I have not sent them, and I have not commanded them, neither have I spoken to them. They prophesy to you a lying vision, divination, deception, and the seduction of their own heart.
 
@@ -128,7 +130,7 @@ Lecture 4
 
 ***Jeremiah’s prayer for Israel***
 
-***^14:19^ Have you utterly cast off Judah, or has your soul detested Zion? Why have you struck us so that there is no healing? We have waited for peace, and there is no good; a time of healing, and behold, trouble.***
+^14:19^ Have you utterly cast off Judah, or has your soul detested Zion? Why have you struck us so that there is no healing? We have waited for peace, and there is no good; a time of healing, and behold, trouble.  
 
 > ^14:20^ We have acknowledged our wickedness, O Lord, and the iniquities of our fathers, for we have sinned against you.
 
@@ -152,7 +154,7 @@ And from the weakness of idols: ***for are there among the idols of the nations 
 
 Collations  
 
-***It is to be noted that some ***peace*** (Jer 14:13) is false: *living in a great war of ignorance, they call so many and such great evils peace* (Wis 14:22). Some are fraudulent: *they speak peace with their neighbor, but evil is in their hearts* (Ps 27:3). Some transitory: *for when they say peace and security, then destruction comes suddenly upon them* (1 Thess 5:3).***
+It is to be noted that some ***peace*** (Jer 14:13) is false: *living in a great war of ignorance, they call so many and such great evils peace* (Wis 14:22). Some are fraudulent: *they speak peace with their neighbor, but evil is in their hearts* (Ps 27:3). Some transitory: *for when they say peace and security, then destruction comes suddenly upon them* (1 Thess 5:3).  
 
 It should also be noted that a ***throne*** (Jer 14:21) may be understood mystically in three ways.  
 

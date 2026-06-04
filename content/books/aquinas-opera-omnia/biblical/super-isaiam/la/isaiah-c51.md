@@ -1,5 +1,7 @@
 # Chapter 49
 
+^49:1^ Audite insulæ, et attendite populi de longe: Dominus ab utero vocavit me, de ventre matris meæ recordatus est nominis mei.  
+
 > ^49:2^ Et posuit os meum quasi gladium acutum. In umbra manus suæ protexit me et posuit me sicut sagittam electam; in pharetra sua abscondit me.
 
 > ^49:3^ Et dixit mihi: servus meus es tu Israel, quia in te gloriabor.

@@ -1,6 +1,6 @@
 # D. 29 - On the impediment of compulsion
 
-***Postquam ostendit Magister quod consensus sit causa matrimonii, hic ostendit quibus impediatur consensus, ne matrimonium efficere possit; et dividitur in partes duas: in prima determinat de impedimento coactionis; in secunda de impedimento erroris, 30 dist., ibi: *nec solum coactio impedit vel excludit consensum, sed etiam error*.***
+Postquam ostendit Magister quod consensus sit causa matrimonii, hic ostendit quibus impediatur consensus, ne matrimonium efficere possit; et dividitur in partes duas: in prima determinat de impedimento coactionis; in secunda de impedimento erroris, 30 dist., ibi: *nec solum coactio impedit vel excludit consensum, sed etiam error*.  
 
 Prima in tres: in prima ostendit quod coactus consensus non facit matrimonium; in secunda ostendit quod si post coactionem liber consensus adveniat, matrimonium verum erit, ibi: *verumtamen qui inviti et coacte conjuncti sunt, si postea ab aliquo temporis spatio sine contradictione et querimonia cohabitaverint, facultate discedendi vel reclamandi habita, consentire videntur*; in tertia, qualiter intelligendus sit aliquis consentire, ibi: *consentire autem probatur*.  
 
@@ -19,7 +19,7 @@ primo, utrum aliquis consensus possit esse coactus;
 
 ***Utrum aliquis consensus possit esse coactus***
 
-***Ad primum sic proceditur. Videtur quod nullus consensus possit esse coactus. Coactio enim in liberum arbitrium cadere non potest secundum aliquem statum ejus, ut in 2 Lib., dist. 25, quaest. 1, art. 1, dictum est. Sed consensus est actus liberi arbitrii. Ergo non potest esse coactus.***
+Ad primum sic proceditur. Videtur quod nullus consensus possit esse coactus. Coactio enim in liberum arbitrium cadere non potest secundum aliquem statum ejus, ut in 2 Lib., dist. 25, quaest. 1, art. 1, dictum est. Sed consensus est actus liberi arbitrii. Ergo non potest esse coactus.  
 
 Praeterea, violentum, quod est idem quod coactum, secundum Philosophum, est cujus principium est extra, nil conferente vim passo. Sed consensus omnis principium est intra. Ergo nullus consensus potest esse coactus.  
 
@@ -39,7 +39,7 @@ Articulus 2
 
 ***Utrum aliqua coactio cadat in constantem virum***
 
-***Ad secundum sic proceditur. Videtur quod coactio metus non cadat in constantem virum. Quia de ratione constantis est quod non trepidet in periculis. Cum ergo metus sit trepidatio mentis ratione periculi imminentis, videtur quod non cogatur metu.***
+Ad secundum sic proceditur. Videtur quod coactio metus non cadat in constantem virum. Quia de ratione constantis est quod non trepidet in periculis. Cum ergo metus sit trepidatio mentis ratione periculi imminentis, videtur quod non cogatur metu.  
 
 Praeterea, *omnium terribilium finis est mors*, secundum Philosophum in 3 *Ethic*., quasi perfectissimum inter terribilia. Sed constantes non coguntur morte: quia fortis etiam pericula mortis sustinet. Ergo nullus metus cadit in constantem virum.  
 
@@ -71,7 +71,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod consensus coactus non tollat matrimonium. Quia sicut ad matrimonium requiritur consensus, ita ad baptismum requiritur intentio. Sed coactus timore ad accipiendum baptismum recipit sacramentum. Ergo et coactus ad consentiendum aliquo timore matrimonio obligatur.***
+Ad tertium sic proceditur. Videtur quod consensus coactus non tollat matrimonium. Quia sicut ad matrimonium requiritur consensus, ita ad baptismum requiritur intentio. Sed coactus timore ad accipiendum baptismum recipit sacramentum. Ergo et coactus ad consentiendum aliquo timore matrimonio obligatur.  
 
 Praeterea, violentum mixtum, secundum Philosophum, plus habet de voluntario quam de involuntario. Sed non potest aliter consensus coactus esse nisi per violentum mixtum. Ergo non omnino excluditur voluntarium; et ita adhuc est matrimonium.  
 
@@ -83,7 +83,7 @@ Praeterea, matrimonium significat conjunctionem Christi ad Ecclesiam, quae fit s
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod consensus coactus saltem ex parte cogentis faciat matrimonium. Quia matrimonium est signum spiritualis conjunctionis. Sed spiritualis conjunctio, quae est per caritatem, potest esse ad eum qui non habet caritatem. Ergo et matrimonium ad eum qui non vult.***
+Ulterius. Videtur quod consensus coactus saltem ex parte cogentis faciat matrimonium. Quia matrimonium est signum spiritualis conjunctionis. Sed spiritualis conjunctio, quae est per caritatem, potest esse ad eum qui non habet caritatem. Ergo et matrimonium ad eum qui non vult.  
 
 Praeterea, si illa quae fuit coacta, postmodum consentiat, erit verum matrimonium. Sed iste qui coegit primo, ex consensu illius non ligatur. Ergo ex primo consensu ligabatur matrimonio.  
 
@@ -91,7 +91,7 @@ Sed contra, matrimonium est relatio aequiparantiae. Sed talis relatio est aequal
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nec per consensum conditionatum fiat matrimonium. Quia quod sub conditione ponitur, non simpliciter enuntiatur. Sed in matrimonio oportet esse verba simpliciter exprimentia consensum. Ergo conditio alicujus consensus non facit matrimonium.***
+Ulterius. Videtur quod nec per consensum conditionatum fiat matrimonium. Quia quod sub conditione ponitur, non simpliciter enuntiatur. Sed in matrimonio oportet esse verba simpliciter exprimentia consensum. Ergo conditio alicujus consensus non facit matrimonium.  
 
 Praeterea, matrimonium debet esse certum. Sed ubi dicitur aliquid sub conditione, ponitur illud sub dubio. Ergo talis consensus non facit matrimonium.  
 
@@ -99,7 +99,7 @@ Sed contra, in aliis contractibus fit obligatio sub conditione, et stat stante c
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod vinculum matrimonii perpetuum est; unde illud quod perpetuitati repugnat, tollit matrimonium. Metus autem qui cadit in constantem virum, perpetuitatem contractus tollit, quia potest peti restitutio in integrum: quia talis coactio metus qui cadit in constantem virum, tollit matrimonium, et non alia. Constans autem vir judicatur virtuosus, qui est mensura in omnibus operibus humanis, ut Philosophus dicit in 3 *Ethicor*., cap. 9.***
+Respondeo dicendum ad primam quaestionem, quod vinculum matrimonii perpetuum est; unde illud quod perpetuitati repugnat, tollit matrimonium. Metus autem qui cadit in constantem virum, perpetuitatem contractus tollit, quia potest peti restitutio in integrum: quia talis coactio metus qui cadit in constantem virum, tollit matrimonium, et non alia. Constans autem vir judicatur virtuosus, qui est mensura in omnibus operibus humanis, ut Philosophus dicit in 3 *Ethicor*., cap. 9.  
 
 Quidam autem dicunt, quod si adsit consensus, quamvis coactus, interius est matrimonium quantum ad Deum, sed non quantum ad statum Ecclesiae, quae praesumit ibi non fuisse consensum interiorem propter metum. Sed hoc nihil est: quia Ecclesia non debet praesumere de aliquo peccatum quosque probetur. Peccavit autem, si dixit se consentire, et non consensit. Unde Ecclesia praesumit eum consensisse, sed judicat illum consensum extortum non esse sufficientem ad faciendum matrimonium.  
 
@@ -111,7 +111,7 @@ Ad tertium dicendum, quod non semper debet induci ad hoc quod in matrimonio ille
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod cum matrimonium sit quaedam relatio, et non possit innasci relatio in uno extremorum sine hoc quod fiat in alio; ideo quidquid impedit matrimonium in uno, impedit ipsum in altero; quia non potest esse quod aliquis sit vir non uxoris, vel quod aliqua sit uxor non habens virum, sicut mater non habens filium; et ideo communiter dicitur, quod matrimonium non claudicat.***
+Ad secundam quaestionem dicendum, quod cum matrimonium sit quaedam relatio, et non possit innasci relatio in uno extremorum sine hoc quod fiat in alio; ideo quidquid impedit matrimonium in uno, impedit ipsum in altero; quia non potest esse quod aliquis sit vir non uxoris, vel quod aliqua sit uxor non habens virum, sicut mater non habens filium; et ideo communiter dicitur, quod matrimonium non claudicat.  
 
 Ad primum ergo dicendum, quod quamvis actus amantis possit transire in non amantem, tamen unio inter eos non potest esse nisi sit mutua amatio; et ideo dicit Philosophus in 8 *Ethicor*., quod ad amicitiam, quae in quadam unione consistit, requiritur redamatio.  
 
@@ -119,7 +119,7 @@ Ad secundum dicendum, quod ex consensu libero illius qui prius coactus est, non 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod conditio apposita, aut est de praesenti, aut de futuro. Si de praesenti, et non est contraria matrimonio, sive sit honesta sive inhonesta, stat matrimonium stante conditione, et ea non stante non stat; sed si sit contraria bonis matrimonii, non efficit matrimonium, sicut etiam supra de sponsalibus dictum est. Si autem sit conditio de futuro: aut est necessaria, sicut solem oriri cras; et tunc est matrimonium, quia talia futura jam sunt praesentia in suis causis: aut est contingens, sicut datio pecuniae, vel acceptatio parentum; et tunc idem est judicium de tali consensu sicut de consensu qui fit per verba de futuro; unde non facit matrimonium.***
+Ad tertiam quaestionem dicendum, quod conditio apposita, aut est de praesenti, aut de futuro. Si de praesenti, et non est contraria matrimonio, sive sit honesta sive inhonesta, stat matrimonium stante conditione, et ea non stante non stat; sed si sit contraria bonis matrimonii, non efficit matrimonium, sicut etiam supra de sponsalibus dictum est. Si autem sit conditio de futuro: aut est necessaria, sicut solem oriri cras; et tunc est matrimonium, quia talia futura jam sunt praesentia in suis causis: aut est contingens, sicut datio pecuniae, vel acceptatio parentum; et tunc idem est judicium de tali consensu sicut de consensu qui fit per verba de futuro; unde non facit matrimonium.  
 
 Et per hoc patet solutio ad objecta.  
 
@@ -127,7 +127,7 @@ Articulus 4
 
 ***Utrum aliquis possit cogi a patre ad contrahendum matrimonium***
 
-***Ad quartum sic proceditur. Videtur quod aliquis praecepto patris possit compelli ad matrimonium contrahendum. Coloss. 3, 20: *filii obedite parentibus vestris per omnia*. Ergo etiam in hoc eis obedire tenentur.***
+Ad quartum sic proceditur. Videtur quod aliquis praecepto patris possit compelli ad matrimonium contrahendum. Coloss. 3, 20: *filii obedite parentibus vestris per omnia*. Ergo etiam in hoc eis obedire tenentur.  
 
 Praeterea, Genes. 28, Isaac praecepit Jacob quod non acciperet uxorem de filiabus Chanaan. Non autem praecepisset, nisi de jure praecipere potuisset. Ergo filius in hoc tenetur obedire patri.  
 
@@ -151,6 +151,6 @@ Ad quartum dicendum, quod quidam dicunt, quod Papa non potest praecipere alicui 
 
 Expositio textus  
 
-****Legati principis Jordani retulerunt*. Videtur quod non possit fieri matrimonium per internuntios: quia si ante adventum nuntii alter poeniteat, non erit matrimonium. Et dicendum, quod potest aliquis alterum procuratorem constituere ad consentiendum: tamen si ante poeniteat quam ille consentiat, non est matrimonium nec in rei veritate, nec secundum judicium Ecclesiae, si aliquibus signis appareat poenituisse. Sed ex quo consensus per internuntios factus est, matrimonium tenet ac si ipse fecisset.***
+*Legati principis Jordani retulerunt*. Videtur quod non possit fieri matrimonium per internuntios: quia si ante adventum nuntii alter poeniteat, non erit matrimonium. Et dicendum, quod potest aliquis alterum procuratorem constituere ad consentiendum: tamen si ante poeniteat quam ille consentiat, non est matrimonium nec in rei veritate, nec secundum judicium Ecclesiae, si aliquibus signis appareat poenituisse. Sed ex quo consensus per internuntios factus est, matrimonium tenet ac si ipse fecisset.  
 
 *Consentire autem probatur qui evidenter non contradicit*. Hoc intelligitur quantum ad forum Ecclesiae: quia quantum ad forum conscientiae, si interius dissentiat quamvis exterius non reclamet, non est matrimonium.

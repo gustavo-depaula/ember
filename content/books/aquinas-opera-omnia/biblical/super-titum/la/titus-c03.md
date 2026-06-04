@@ -1,5 +1,7 @@
 # C. 2 - Christian Life
 
+***Vita Christiana***
+
 ***Lectio 1***
 
 ***Actiones Christianorum***
@@ -130,7 +132,7 @@ Lectio 2
 
 ***Exemplum bonorum operum***
 
-***^2:7^ In omnibus teipsum praebe exemplum bonorum operum, in doctrina, in integritate, in gravitate, [n. 59]***
+^2:7^ In omnibus teipsum praebe exemplum bonorum operum, in doctrina, in integritate, in gravitate, [n. 59]  
 
 > ^2:8^ verbum sanum, irreprehensibile: ut is qui ex adverso est, vereatur, nihil habens malum dicere de nobis. [n. 62]
 

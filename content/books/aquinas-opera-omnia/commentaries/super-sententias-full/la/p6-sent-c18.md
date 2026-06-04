@@ -1,6 +1,8 @@
 # D. 40 - The last two precepts
 
-***Postquam determinavit Magister de praeceptis Decalogi quae respiciunt opus exterius et locutionem, hic ponit duo ultima praecepta quae respiciunt concupiscentiam cordis;***
+***Divisio textus***
+
+Postquam determinavit Magister de praeceptis Decalogi quae respiciunt opus exterius et locutionem, hic ponit duo ultima praecepta quae respiciunt concupiscentiam cordis;  
 
 et circa hoc tria facit:  
 
@@ -40,7 +42,7 @@ Articulus 1
 
 ***Utrum duo praecepta de concupiscentia convenienter assignentur***
 
-***Ad primum sic proceditur. Videtur quod haec duo praecepta inconvenienter assignentur.***
+Ad primum sic proceditur. Videtur quod haec duo praecepta inconvenienter assignentur.  
 
 Praecepta enim negativa ordinantur ad prohibitionem peccatorum. Sed unum est peccatum cordis et operis, sicut in 2 lib., qu. 1, art. 1, dist. 42, dictum est. Ergo non debuit alio praecepto prohiberi concupiscentia moechandi vel furandi, quam ipsa moechia vel The Bruges manuscript reads et. furtum.  
 
@@ -70,7 +72,7 @@ Articulus 2
 
 ***Utrum lex Mosaica cohibeat tantum manum, an etiam animum***
 
-***Ad secundum sic proceditur. Videtur quod lex Mosaica non solum manum, sed etiam animum cohibere debeat.***
+Ad secundum sic proceditur. Videtur quod lex Mosaica non solum manum, sed etiam animum cohibere debeat.  
 
 Ejusdem enim est animum ordinare ad virtutem, et cohibere a peccato. Sed lex Mosaica ordinat animum ad virtutem, ut patet Deut. 6:5: *diliges Dominum Deum tuum ex toto corde tuo*. Ergo et ipsa etiam cohibet animum a peccato.  
 
@@ -160,7 +162,7 @@ Praeterea, 1 Corinth. 15:46: *non prius quod*The Bruges manuscript omits quod. *
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod Lex Vetus non differat a nova per radicem timoris et amoris.***
+Ulterius. Videtur quod Lex Vetus non differat a nova per radicem timoris et amoris.  
 
 Differentia enim legis non attenditur ex diversitate observantium legem, sed potius e converso; cum lex sit regula et mensura observantium ipsam. Sed facere aliquid ex timore vel amore contingit ex diversa dispositione observantium legem. Ergo penes hoc duae leges non distinguuntur.  
 
@@ -188,7 +190,7 @@ Praeterea, Act. 15:10, dicit Petrus de Veteri Lege: *hoc est onus quod nec nos n
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod secundum Dionysium in 5 The Bruges, Brussels, and Paris (841 and 842) manuscripts read *4*. cap. *Ecclesiast. hierarch*., Lex Nova media est inter Ecclesiam caelestem et statum Veteris Legis; et ideo aeterna bona, quae in caelesti Ecclesia palam et copiose exhibentur, in Nova Lege manifeste promittuntur; in Veteri autem Lege non promittebantur, nisi sub quibusdam figuris. Unde Hebr. 10:1, dicitur: *umbram habens lex futurorum bonorum*. Et hoc propter tres causas praecipue. Primo ut ex his quae cognoscebant, assuefierent etiam a Deo majora sperare. Secundo ut non solum cognitio, sed affectus, a temporalibus ad aeterna manuduceretur. Tertio, quia bona aeterna nondum statim eis poterant exhiberi, nondum soluto pretio; unde dilatio promissorum inefficacem faceret apud infirmos promissionem.***
+Respondeo dicendum ad primam quaestionem, quod secundum Dionysium in 5 The Bruges, Brussels, and Paris (841 and 842) manuscripts read *4*. cap. *Ecclesiast. hierarch*., Lex Nova media est inter Ecclesiam caelestem et statum Veteris Legis; et ideo aeterna bona, quae in caelesti Ecclesia palam et copiose exhibentur, in Nova Lege manifeste promittuntur; in Veteri autem Lege non promittebantur, nisi sub quibusdam figuris. Unde Hebr. 10:1, dicitur: *umbram habens lex futurorum bonorum*. Et hoc propter tres causas praecipue. Primo ut ex his quae cognoscebant, assuefierent etiam a Deo majora sperare. Secundo ut non solum cognitio, sed affectus, a temporalibus ad aeterna manuduceretur. Tertio, quia bona aeterna nondum statim eis poterant exhiberi, nondum soluto pretio; unde dilatio promissorum inefficacem faceret apud infirmos promissionem.  
 
 Ad primum ergo dicendum, quod ubicumque promittuntur aeterna in Veteri Lege, hoc est sub quadam figura et similitudine temporalium; et secundum hoc etiam Deus se mercedem Abrahae constituit ad litteram, quasi remuneratorem in multiplicatione seminis et in terrae promissae collatione. Vel dicendum, quod hoc intelligitur de promissione communiter omnibus facta in Veteri Lege, non autem de illa quae fiebat specialiter ad aliquos perfectos viros, qui ad Legem Novam pertinebant.  
 
@@ -198,7 +200,7 @@ Ad tertium dicendum, quod sicut facere aliquid timore poenae est contra rationem
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod ex ipso modo legislationis apparet quod Lex Vetus est lex timoris, Lex autem Nova lex amoris. Lex enim Nova ex ostensione divinae caritatis initium sumpsit: quia in effusione sanguinis Jesu Christi, qui fuit perfectissimae caritatis signum, Novum Testamentum consummatum est. Lex autem Vetus in ostensione divinae potestatis, quae timorem incutit, initium sumpsit; unde et in ipsa legislatione propter fulgura, voces, et tonitrua terror audientes The Vivès edition reads *audientur*. invasit, ut dicerent: *non loquatur nobis Dominus, ne forte moriamur*, Exod. 20:19;***
+Ad secundam quaestionem dicendum, quod ex ipso modo legislationis apparet quod Lex Vetus est lex timoris, Lex autem Nova lex amoris. Lex enim Nova ex ostensione divinae caritatis initium sumpsit: quia in effusione sanguinis Jesu Christi, qui fuit perfectissimae caritatis signum, Novum Testamentum consummatum est. Lex autem Vetus in ostensione divinae potestatis, quae timorem incutit, initium sumpsit; unde et in ipsa legislatione propter fulgura, voces, et tonitrua terror audientes The Vivès edition reads *audientur*. invasit, ut dicerent: *non loquatur nobis Dominus, ne forte moriamur*, Exod. 20:19;  
 
 et ideo Vetus Lex homines praecipue inducebat per comminationem poenarum; Nova vero The Bruges manuscript reads *autem*. Lex per beneficia exhibita, et speranda; et hoc satis competebat statui humani generis, ut prius quasi rudis populus per timorem poenae cogeretur, postmodum vero per amorem in bono perficeretur; sicut enim timor est via ad amorem, ita Lex Vetus ad Novam.  
 
@@ -210,7 +212,7 @@ Ad tertium dicendum, quod quamvis Lex Nova majora supplicia comminetur, tamen co
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod difficile et onerosum mensuratur secundum virtutem sustinentis: aliquid enim onerosum The Vivès edition adds *mensuratur secundum virtutem sustinentis: aliquid enim onerosum*. est debili quod forti est leve. Et ideo de onere legis et Evangelii possumus loqui dupliciter: aut quantum ad gravitatem praeceptorum secundum se, aut per comparationem ad virtutem observantium.***
+Ad tertiam quaestionem dicendum, quod difficile et onerosum mensuratur secundum virtutem sustinentis: aliquid enim onerosum The Vivès edition adds *mensuratur secundum virtutem sustinentis: aliquid enim onerosum*. est debili quod forti est leve. Et ideo de onere legis et Evangelii possumus loqui dupliciter: aut quantum ad gravitatem praeceptorum secundum se, aut per comparationem ad virtutem observantium.  
 
 Si primo modo; sic quantum ad numerum praecepta Veteris Legis erant magis onerosa: quia Lex Vetus arctabat ad caeremonialia multa, et judicialia: Lex autem Nova ad moralia tantum, quae etiam lex naturae imperat, et in uno verbo abbreviato dilectionis Dei et proximi concluduntur. Sed quantum ad explicationem istorum praeceptorum, sic praecepta Novae Legis quodammodo sunt difficiliora: quia magis explicatur virtus praeceptorum moralium in Nova Lege quam Veteri; et superaddit Lex Nova consilia, quamvis ad ea non cogat; et quaedam etiam prohibet quae Lex Vetus permittebat, infirmitati The Vivès edition reads *infirmitate*. deferens, sicut libellum repudii, et hujusmodi.  
 
@@ -224,6 +226,6 @@ Ad tertium dicendum, quod sicut qui tortuosa ligna dirigunt, ad partem contraria
 
 Expositio textus  
 
-****Non ancillam* et cetera. Sciendum, quod ancilla dupliciter concupisci potest. Uno modo ad concubitum, et sic pertinet ad sextum praeceptum; alio modo ad dominium, et sic pertinet ad septimum.***
+*Non ancillam* et cetera. Sciendum, quod ancilla dupliciter concupisci potest. Uno modo ad concubitum, et sic pertinet ad sextum praeceptum; alio modo ad dominium, et sic pertinet ad septimum.  
 
 *Audistis* The Bruges manuscript adds *etiam*. *decem chordas Psalterii*. Per decem chordas Psalterii decem praecepta legis intelliguntur. Sicut enim David egregius psaltes Israel The edited versions omit *Israel*. sono citharae et Psalterii spiritum malum a Saul expellebat, ut dicitur 1 Reg. 16, et ursum et leonem interfecit, ut dicitur The edited versions add *in*. eodem, 17, ita Christus qui per David significatur, corda nostra quasi Psalterium his decem praeceptis percutiens, omnium mortalium peccatorum feras in nobis occidit, et virtutes perficit, quibus ad vitam pervenitur aeternam, in qua cum Christo vivamus per omnia saecula saeculorum. Amen.

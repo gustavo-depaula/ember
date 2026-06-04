@@ -1,8 +1,10 @@
 # D. 39 - How divine knowledge is the cause of what is known
 
+***How divine knowledge is the cause of what is known***
+
 ***Division of the text***
 
-***Here he shows in what manner the divine knowledge is the cause. And it is divided into two parts: in the first, he asks whether it is invariable; in the second, whether it is universal, at *as to what was said above, . . . it seems to be contradicted by what Jerome says*.*Sent*. I, 39.4(178).1.***
+Here he shows in what manner the divine knowledge is the cause. And it is divided into two parts: in the first, he asks whether it is invariable; in the second, whether it is universal, at *as to what was said above, . . . it seems to be contradicted by what Jerome says*.*Sent*. I, 39.4(178).1.  
 
 The first is divided into two: in the first, he presents the question, and objects against its veracity; in the second, he considers it, at *to which we say that God’s knowledge is entirely unchangeable*.*Sent*. I, 39.1(175).2. And this latter is divided into two: in the first, he considers it by conceding the things that posit a variation on the side of the things known, and not on the side of the knowledge; in the second, he considers it by denying the things that indicate variation on the side of the knowledge, at *here some make the following objection*.*Sent*. I, 39.2(176).1.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether God is able not to know what he does know***
 
-***As regards the first, we proceed as follows.Parallel texts: above, d. 38, a. 2; below, d. 41, a. 5; *ST* I.14.15; *On Truth*, q. 2, a. 5, ad 11; a. 13. It seems that God is not able not to know what he knows.***
+As regards the first, we proceed as follows.Parallel texts: above, d. 38, a. 2; below, d. 41, a. 5; *ST* I.14.15; *On Truth*, q. 2, a. 5, ad 11; a. 13. It seems that God is not able not to know what he knows.  
 
 Obj. 1: For according to Augustine, Jerome, and the Philosopher,Augustine, *Against Faustus the Manichee*, bk. 26, para. 4 (CSEL 25:732; PL 42:481); Jerome, *Epistulae*, letter 22, “To Eustochius” (*De custod. virginitatis)*, para. 5 (CSEL 54:149; PL 22:397); Aristotle, *Nicomachean Ethics* 6.2, 1139b10, quoting Agathon. God cannot make what is past not have been. But when one says, “this was known by God,” it is signified as past. Therefore it cannot be unknown to God.  
 
@@ -66,7 +68,7 @@ Article 2
 
 ***Whether God is able to know something that he does not know***
 
-***To the second we proceed as follows. It seems that God is not able to know something he does not already know.***
+To the second we proceed as follows. It seems that God is not able to know something he does not already know.  
 
 Obj. 1: For God knows existing things only through an idea. But there cannot be any idea in existence itself that does not exist; for, because an idea is the form of a reality existing within God, it cannot be understood that some form might accrue to God without a change in him. Therefore he is not able to know things he does not know.  
 
@@ -96,7 +98,7 @@ Article 3
 
 ***Whether God knows an infinity of things***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.14.12; *SCG* I.69; *On Truth*, q. 2, a. 9; q. 20, a. 4, ad 1; *Quodl. III*, q. 2, a. 1; *Compendium theologiae*, ch. 133. It seems that God knows an infinity of things.***
+To the third we proceed as follows.Parallel texts: *ST* I.14.12; *SCG* I.69; *On Truth*, q. 2, a. 9; q. 20, a. 4, ad 1; *Quodl. III*, q. 2, a. 1; *Compendium theologiae*, ch. 133. It seems that God knows an infinity of things.  
 
 Obj. 1: For knowledge is counted according to the things known. But Psalm 147 [146]:5 says, *his understanding is beyond measure*. Therefore he knows an infinity.  
 
@@ -152,7 +154,7 @@ Article 1
 
 ***Whether providence pertains to knowledge***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.22.1; *On Truth*, q. 5, aa. 1, 2. It seems that providence pertains to his knowledge.***
+To the first we proceed as follows.Parallel texts: *ST* I.22.1; *On Truth*, q. 5, aa. 1, 2. It seems that providence pertains to his knowledge.  
 
 Obj. 1: For, as Boethius says,Boethius, *Consolation of Philosophy*, bk. 5, prose 6 (CCSL 94; PL 63:858). “providence” is said of God because he sees what is distant (*porro videt*), as though from the watchtower of eternity. But that seems to pertain to knowledge. Therefore it seems so does providence.  
 
@@ -184,7 +186,7 @@ Article 2
 
 ***Whether providence is over all things***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.22.2; I.103.5; *SCG* III.64, 75, 94; *On Truth*, q. 5, aa. 2‒7; *Compendium theologiae*, cc. 123, 130, 132; *Commentary on Dionysius’s On the Divine Names*, ch. 3, lect. 1. It seems that providence is not over all things.***
+To the second we proceed as follows.Parallel texts: *ST* I.22.2; I.103.5; *SCG* III.64, 75, 94; *On Truth*, q. 5, aa. 2‒7; *Compendium theologiae*, cc. 123, 130, 132; *Commentary on Dionysius’s On the Divine Names*, ch. 3, lect. 1. It seems that providence is not over all things.  
 
 Obj. 1: For removing things that impede the end pertains to providence. But a thing is called evil through its deviation from order to the end. Therefore, since there are many evils in the universe, it seems that not all things are subject to divine providence.  
 

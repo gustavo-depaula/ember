@@ -1,8 +1,10 @@
 # D. 25 - The name “person” when signified in the plural
 
+***De nomine personae quando pluraliter significatur***
+
 ***Divisio textus***
 
-***Determinato, distinct. 24, de nominibus significantibus unitatem et pluralitatem in divinis, consequenter determinat Magister de nomine quod harum dictionumParma omits *harum dictionum*. additionem recipit et pluraliter significatur, qualiter hoc possit esse, scilicet de hoc nomine “persona,” quid significet, quando pluraliter significatur; dividitur ergo pars ista in duas: in prima inquirit utrum sicut singulariter prolatum hoc nomen “persona” significat essentiam, ita et quando pluraliter consignificatur; in secunda ponit quaestionis solutionem, ibi: *quibusdam videtur quod nomine personae significetur essentia*.***
+Determinato, distinct. 24, de nominibus significantibus unitatem et pluralitatem in divinis, consequenter determinat Magister de nomine quod harum dictionumParma omits *harum dictionum*. additionem recipit et pluraliter significatur, qualiter hoc possit esse, scilicet de hoc nomine “persona,” quid significet, quando pluraliter significatur; dividitur ergo pars ista in duas: in prima inquirit utrum sicut singulariter prolatum hoc nomen “persona” significat essentiam, ita et quando pluraliter consignificatur; in secunda ponit quaestionis solutionem, ibi: *quibusdam videtur quod nomine personae significetur essentia*.  
 
 Circa primum duo facit: primo movet quaestionem, secundo inducit rationesParma: *rationem*. ad alteram partem, ibi: *persona enim, ut supra ait Augustinus, ad se dicitur*. Quaestio autem sua quasi ad duo deducit inconvenientia. Cum enim persona in singulari significet essentiam, ut supra dixerat; aut in plurali significat essentiam, aut non. Si essentiam, ergoParma adds *videtur quod*. dicere plures personas non est aliud quam dicere plures essentias. Si aliud, ergo nomen “persona” est aequivocum in singulari et plurali; quod videtur esse inusitatum.  
 
@@ -42,7 +44,7 @@ Articulus 1
 
 ***Utrum definitio personae posita a Boetio sit competens***
 
-***Ad primum sic proceditur et ponitur definitio personae a Boetio, lib. *De duabus nat*., cap. 3: *persona est rationalis naturae individua substantia*. Videtur quod haec definitio sit incompetens.***
+Ad primum sic proceditur et ponitur definitio personae a Boetio, lib. *De duabus nat*., cap. 3: *persona est rationalis naturae individua substantia*. Videtur quod haec definitio sit incompetens.  
 
 Definitio enim debet esse convertibilis cum definito. Sed ratio personae invenitur in Deo et in angelis et hominibus; haec autem definitio personae non convenit divinis personis, ut dicit Magister in 3, dist. 10. Ergo videtur esseParma: *quod . . . sit*. definitio incompetens.  
 
@@ -106,7 +108,7 @@ Articulus 2
 
 ***Utrum “persona” dicatur univoce de Deo et creaturis***
 
-***Ad secundum sic proceditur. Videtur quod persona univoce dicatur de Deo et creaturis.***
+Ad secundum sic proceditur. Videtur quod persona univoce dicatur de Deo et creaturis.  
 
 Quantumcumque enim aliqua differant, univoce convenire possunt in negatione aliqua; sicut hoc quod est non esse lapidem, univoce convenit Deo et homini. Sed ratio personae consistit in negatione; est enim individua substantia. Ergo videtur quod univoceAl. add *convenit*. Deo, et creaturis conveniat.  
 
@@ -174,7 +176,7 @@ Articulus 4
 
 ***Utrum tres personae possint dici tres res***
 
-***Ad quartum sic proceditur. Videtur quod tres personae non possint dici tres entes, vel tres res.***
+Ad quartum sic proceditur. Videtur quod tres personae non possint dici tres entes, vel tres res.  
 
 Quidquid enim absolute praedicatur in divinis, hoc singulariter de tribus praedicatur. Sed ens et res dicuntur absolute. Ergo, etc.  
 
@@ -204,7 +206,7 @@ Ad dictum Damasceni responsum est supra, dist. 2.Parma adds *ubi glossatur, rati
 
 Expositio textus  
 
-****Quibusdam videtur quod nomine personae significetur essentia*. Ista opinio erronea est; quia si essentia et persona omnino idem significant et quantum ad modum significandi et quantum ad rem significatam, oportet, sicut dicimus tres personas, ita dicere tres essentias; aut si hoc est falsum, et illud. Sicut enim exponunt: tres personae, id est tres habentes illud commune, quod est persona; ita possunt exponere: tres essentiae, id est tres habentes illud commune quod est essentia. Nec potest dici quod hoc dictum est propter instantiam haereticorum: quia ad id quod falsum est concedendum, nulla necessitas cogere debet. Et praeterea, cessante necessitate, debuit ille modus loquendi cessasse.***
+*Quibusdam videtur quod nomine personae significetur essentia*. Ista opinio erronea est; quia si essentia et persona omnino idem significant et quantum ad modum significandi et quantum ad rem significatam, oportet, sicut dicimus tres personas, ita dicere tres essentias; aut si hoc est falsum, et illud. Sicut enim exponunt: tres personae, id est tres habentes illud commune, quod est persona; ita possunt exponere: tres essentiae, id est tres habentes illud commune quod est essentia. Nec potest dici quod hoc dictum est propter instantiam haereticorum: quia ad id quod falsum est concedendum, nulla necessitas cogere debet. Et praeterea, cessante necessitate, debuit ille modus loquendi cessasse.  
 
 *Quadam tamen necessitate, ut supra dixit Augustinus, translatum est hoc nomen, ut pluraliter diceretur, tres personae*. Videtur hoc nihil esse quod dicit: quia cum plurale non sit nisi singulare geminatum, non potest aliud esse significatum in singulari quam in plurali. Sed dicendum, quod in ratione nominis tam in singulari quam in plurali hypostasim significat: sed propter identitatem secundum rem hypostasis et essentiae in divinis persona potest poni pro essentia in singulari, non autem in plurali, quia repugnat unitati essentiae: unde ista distinctio quam Magister ponit, magis attenditur secundum usum nominis quam secundum diversam significationem ejus.  
 

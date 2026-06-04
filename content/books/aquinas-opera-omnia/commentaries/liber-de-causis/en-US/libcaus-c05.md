@@ -1,5 +1,7 @@
 # Proposition 4
 
+***37. The first of created things is being, and no created thing is before it.***
+
 > 38. This is because being is beyond sense perception and beyond soul and beyond intelligence, and there is nothing created after the first cause more extensive than or prior to it.
 
 > 39. For this reason it is thus made superior to all created things and more strongly united.

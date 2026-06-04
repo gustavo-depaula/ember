@@ -1,5 +1,7 @@
 # Chapter 39
 
+^39:1^ In tempore illo misit Merodach Baladan filius Baladan, rex Babylonis, libros et munera ad Ezechiam; audierat enim quod ægrotasset et convaluisset.  
+
 > ^39:2^ Lætatus est autem super eis Ezechias, et ostendit eis cellam aromatum et argenti et auri et odoramentorum et unguenti optimi et omnes apothecas supellectilis suæ et universa quæ inventa sunt in thesauris ejus. Non fuit verbum quod non ostenderit eis Ezechias in domo sua et in omni potestate sua.
 
 > ^39:3^ Introivit autem Isaias propheta ad regem Ezechiam et dixit ei: quid dixerunt viri isti et unde venerunt ad te? Et dixit Ezechias: de terra longinqua venerunt ad me de Babylone.

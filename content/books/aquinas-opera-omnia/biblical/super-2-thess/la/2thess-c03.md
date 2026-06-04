@@ -1,10 +1,12 @@
 # C. 2 - The End Times
 
+***Finis***
+
 ***Lectio 1***
 
 ***Pericula Ecclesiae***
 
-***^2:1^ Rogamus autem vos, fratres, per adventum Domini nostri Jesu Christi, et nostrae congregationis in ipsum: [n. 27]***
+^2:1^ Rogamus autem vos, fratres, per adventum Domini nostri Jesu Christi, et nostrae congregationis in ipsum: [n. 27]  
 
 > ^2:2^ ut non cito moveamini a vestro sensu, neque terreamini, neque per spiritum, neque per sermonem, neque per epistolam tamquam per nos missam, quasi instet dies Domini. [n. 29]
 
@@ -202,7 +204,7 @@ Lectio 3
 
 ***State in fide***
 
-***^2:10^ et in omni seductione iniquitatis iis qui pereunt: [n. 51] eo quod caritatem veritatis non receperunt ut salvi fierent. [n. 52]***
+^2:10^ et in omni seductione iniquitatis iis qui pereunt: [n. 51] eo quod caritatem veritatis non receperunt ut salvi fierent. [n. 52]  
 
 > ^2:11^ Ideo mittet illis Deus operationem erroris ut credant mendacio,
 

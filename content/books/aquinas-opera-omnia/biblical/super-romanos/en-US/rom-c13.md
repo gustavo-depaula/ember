@@ -1,10 +1,12 @@
 # C. 12 - The New Life in Christ
 
+***The New Life in Christ***
+
 ***Lecture 1***
 
 ***Life according to grace***
 
-***^12:1^ I beseech you therefore, brethren, by the mercy of God, that you present your bodies a living sacrifice, holy, pleasing unto God, your reasonable service. [n. 953]***
+^12:1^ I beseech you therefore, brethren, by the mercy of God, that you present your bodies a living sacrifice, holy, pleasing unto God, your reasonable service. [n. 953]  
 
 > ^12:2^ And be not conformed to this world, but be reformed in the newness of your sense, that you may perceive what is the good and the acceptable and the perfect will of God. [n. 965]
 
@@ -158,7 +160,7 @@ Lecture 2
 
 ***Members of the body of Christ***
 
-***^12:4^ For as in one body we have many members, but all the members have not the same act: [n. 972]***
+^12:4^ For as in one body we have many members, but all the members have not the same act: [n. 972]  
 
 > ^12:5^ So we, being many, are one body in Christ; and every one members one of another: [n. 974]
 

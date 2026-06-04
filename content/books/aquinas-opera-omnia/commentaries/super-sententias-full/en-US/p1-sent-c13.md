@@ -1,8 +1,10 @@
 # D. 12 - Order between the Father and the Son as regards the procession of the Holy Spirit
 
+Order between the Father and the Son as regards the procession of the Holy Spirit  
+
 ***Division of the text***
 
-***Having shown that the Holy Spirit proceeds from the Father and the Son, here he asks whether there is any order between the Father and the Son with respect to this procession. And this is divided into three parts: in the first, he excludes the order of time; in the second, he excludes the order of dignity or power, at *now we must address the question posed second*;*Sent*. I, 12.2(40).1. in the third, he teaches that there is an order of nature, at *nevertheless Augustine, in* On the Trinity*, book 15, says that the Holy Spirit proceeds principally from the Father*.*Sent*. I, 12.2(40).2.***
+Having shown that the Holy Spirit proceeds from the Father and the Son, here he asks whether there is any order between the Father and the Son with respect to this procession. And this is divided into three parts: in the first, he excludes the order of time; in the second, he excludes the order of dignity or power, at *now we must address the question posed second*;*Sent*. I, 12.2(40).1. in the third, he teaches that there is an order of nature, at *nevertheless Augustine, in* On the Trinity*, book 15, says that the Holy Spirit proceeds principally from the Father*.*Sent*. I, 12.2(40).2.  
 
 In the first part he does three things: first, he presents the question; second, he lays out the heretic’s objection, at *this is what the heretic attempts to show*;*Sent*. I, 12.1(39).2. third, he presents the solution, at *to these and similar questions, which are more laborious than fruitful, Augustine provides a response*.*Sent*. I, 12.1(39).3.  
 
@@ -12,7 +14,7 @@ In the first part he does three things: first, he presents the question; second,
 
 Question 1  
 
-***The order between the Father and the Son as regards the procession of the Holy Spirit***
+The order between the Father and the Son as regards the procession of the Holy Spirit  
 
 ***To understand this part, three things are asked:***
 
@@ -26,7 +28,7 @@ Article 1
 
 ***Whether the generation of the Son precedes the procession of the Holy Spirit***
 
-***To the first we proceed as follows. It seems that the generation precedes the procession.***
+To the first we proceed as follows. It seems that the generation precedes the procession.  
 
 Obj. 1: For the principle of a procession is at least naturally prior to the procession itself. Now, the Son, the terminus of the generation, is the principle of the Holy Spirit’s procession, as was said above.Above, d. 5, q. 2, a. 1. Therefore the generation precedes the procession.  
 
@@ -50,7 +52,7 @@ Article 2
 
 ***Whether the Holy Spirit proceeds more from the Father than from the Son***
 
-***To the second we proceed as follows.Parallel texts: *In I Sent*., d. 11, aa. 2, 4; *ST* I.36.4. It seems that the Holy Spirit proceeds more from the Father than from the Son.***
+To the second we proceed as follows.Parallel texts: *In I Sent*., d. 11, aa. 2, 4; *ST* I.36.4. It seems that the Holy Spirit proceeds more from the Father than from the Son.  
 
 Obj. 1: For as the Philosopher says,Rather: Proclus, *Book of Causes*, prop. 1. every primary cause influences its effect more than does a secondary cause. But the Son is, as it were, a second cause, whereas the Father is, as it were, the first principle, who is not from another. Therefore the Holy Spirit proceeds more from the Father than from the Son.  
 
@@ -80,7 +82,7 @@ Article 3
 
 ***Whether the Holy Spirit proceeds from the Father by the mediation of the Son***
 
-***To the third we proceed as follows.Parallel texts: *ST* I.36.3; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 2, ch. 9. It seems that the Holy Spirit proceeds from the Father by the mediation of the Son.***
+To the third we proceed as follows.Parallel texts: *ST* I.36.3; *On the Catholic Faith of the Greek Fathers* (*Contra errores Graecorum*), pt. 2, ch. 9. It seems that the Holy Spirit proceeds from the Father by the mediation of the Son.  
 
 Obj. 1: For that through which something proceeds seems to be a middle in the procession. But the Holy Spirit proceeds from the Father through the Son. Therefore he proceeds from the Father by the mediation of the Son.  
 
@@ -108,7 +110,7 @@ For the power of the superior is, as it were, the middle through which the one a
 
 Exposition of the text  
 
-****Either he proceeded when the Son was already born, or before the Son was born*.*Sent*. I, 12.1(39).2. It seems that one must grant one of these, since they differ as an affirmation and a negation. And one should say to this that each of these has two parts, because when one says, “the Holy Spirit proceeds from the Father, with the Son already born,” the participle “born” can designate past time, and the adverb “already” the now right before the present time; and then this is false. For it is being signified that the generation of the Son precedes the procession of the Holy Spirit by a duration. And in this sense the negative is true, if it is taken negatively, such that the negation is applied to the whole and not only to the participle. Or the participle designates the completion of the birth, and the adverb designates the “now” of eternity; then it is true. For the procession of the Holy Spirit exists from eternity by the existing complete generation of the Son. And in this sense the negative is false.***
+*Either he proceeded when the Son was already born, or before the Son was born*.*Sent*. I, 12.1(39).2. It seems that one must grant one of these, since they differ as an affirmation and a negation. And one should say to this that each of these has two parts, because when one says, “the Holy Spirit proceeds from the Father, with the Son already born,” the participle “born” can designate past time, and the adverb “already” the now right before the present time; and then this is false. For it is being signified that the generation of the Son precedes the procession of the Holy Spirit by a duration. And in this sense the negative is true, if it is taken negatively, such that the negation is applied to the whole and not only to the participle. Or the participle designates the completion of the birth, and the adverb designates the “now” of eternity; then it is true. For the procession of the Holy Spirit exists from eternity by the existing complete generation of the Son. And in this sense the negative is false.  
 
 *Whether the Holy Spirit proceeds more fully or to a greater extent from the Father than from the Son*.*Sent*. I, 12.2(40).1. These two are different, such that one is said to proceed “more fully” from that from which one receives more things, but one is said to proceed “to a greater extent” from that which acts from a greater power for one’s procession.  
 

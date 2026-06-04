@@ -1,10 +1,12 @@
 # C. 12 - On Holy of Holies; King of Kings; Lord of Lords; God of Gods
 
+***On Holy of Holies; King of Kings; Lord of Lords; God of Gods***
+
 ***Lectio 1***
 
 ***There Are Expounded the Names That Designate the Governance of Things***
 
-***C. XII, §1. 427. But because also concerning these whatever things it was necessary to say have received a fitting end, as I reckon, it is fitting that we should praise him who is of infinite names also as Holy of Holies (Dan 9:24) and King of Rulers (1 Tim 6:15) and Ruler of the Ages and unto the ages (Ex 15:18) and still, as Lord of Lords (Ps 136:3, Rev 19:16) and God of Gods (Ps 49:1, 136:2). And first of all it must be said what indeed we reckon *per se* sanctity to be, yet what kingship, yet what domination, yet what divinity, and what the eloquences wish to show by a duplication of names.***
+C. XII, §1. 427. But because also concerning these whatever things it was necessary to say have received a fitting end, as I reckon, it is fitting that we should praise him who is of infinite names also as Holy of Holies (Dan 9:24) and King of Rulers (1 Tim 6:15) and Ruler of the Ages and unto the ages (Ex 15:18) and still, as Lord of Lords (Ps 136:3, Rev 19:16) and God of Gods (Ps 49:1, 136:2). And first of all it must be said what indeed we reckon *per se* sanctity to be, yet what kingship, yet what domination, yet what divinity, and what the eloquences wish to show by a duplication of names.  
 
 > §2. 428. Therefore sanctity indeed is, so that it might be said according to us, free from every uncleanness and perfect and altogether immaculate cleansing;
 

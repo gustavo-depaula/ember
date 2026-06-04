@@ -1,5 +1,7 @@
 # Prologue
 
+**1**. As the Philosopher says in *Ethics*, 10, the ultimate happiness of man consists in the best operation of man, which is of the highest power, that is to say, the power of the intellect, with respect to the best intelligible.  
+
 **2**. Since the effect is known through the cause, it is clear that the cause according to its own nature is more intelligible than the effect, even if at sometime with respect to us the effects be more known than the causes, because they arise out of particulars, falling under the senses, we have received cognition of universal and intelligible causes.  
 
 **3**. It is therefore proper that, simply speaking, the first causes of things be according to themselves the most intelligible and the best intelligible, because they are beings to the greatest degree and true to the greatest degree, as is clear from the Philosopher in *Metaphysics*, 2, although these sorts of first causes are less known, and later known, with respect to us.  

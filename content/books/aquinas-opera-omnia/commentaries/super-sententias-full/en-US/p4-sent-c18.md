@@ -1,8 +1,10 @@
 # D. 38 - The act of the will
 
+***The act of the will***
+
 ***Division of the text***
 
-***After addressing the acts in which sin exists in general, inquiring whether, precisely as acts, they are good and from God, here he addresses these same acts specifically. And because sin consists in an internal as well as an external act, this part is divided into two parts.***
+After addressing the acts in which sin exists in general, inquiring whether, precisely as acts, they are good and from God, here he addresses these same acts specifically. And because sin consists in an internal as well as an external act, this part is divided into two parts.  
 
 In the first, he addresses the will’s internal act.  
 
@@ -62,7 +64,7 @@ Article 1
 
 ***Whether there is only a single end of right wills***
 
-***To the first we proceed as follows.Parallel text: *ST* I-II.1.5. It seems that there is not only a single end of right wills.***
+To the first we proceed as follows.Parallel text: *ST* I-II.1.5. It seems that there is not only a single end of right wills.  
 
 Obj. 1: For the charity by which we love God is not God, as was shown in Book I.*In I Sent*., d. 17, q. 1, a. 1. But the end of right wills is God as well as charity, as is shown in the text.*Sent*. II, 38.1(245).2. Therefore, two right wills do not tend to a single end.  
 
@@ -96,7 +98,7 @@ Article 2
 
 ***Whether beatitude or charity is the common and single end of right wills***
 
-***To the second we proceed as follows. It seems that the common and single end of right wills cannot be charity or beatitude.***
+To the second we proceed as follows. It seems that the common and single end of right wills cannot be charity or beatitude.  
 
 Obj. 1: For nothing that is near the last end is the single end common to all. But charity surrounds the last end, namely, God, as do beatitude, good delight, and so forth. Therefore, things of this sort cannot be the common end of right wills.  
 
@@ -136,7 +138,7 @@ Article 3
 
 ***Whether intention is an act of the will***
 
-***To the third we proceed as follows.Parallel texts: *ST* I-II.12.1; *On Truth*, q. 22, a. 13. It seems that intention is not something belonging to the will.***
+To the third we proceed as follows.Parallel texts: *ST* I-II.12.1; *On Truth*, q. 22, a. 13. It seems that intention is not something belonging to the will.  
 
 Obj. 1: For, as it says in the *Ethics* 2,Aristotle, *Nicomachean Ethics* 2.5, 1105b20. everything in the soul is either a passion, a habit, or a power. But intention does not name the very power of the will, since in this case every act of the will would have to be called “intention.” Likewise, too, it is not a habit of the soul, since the soul’s habits are virtues or knowledge. Again, it is not a passion in the will, since passions are in the sensitive part, not the intellective part, as is proved in the *Physics* 7.Aristotle, *Physics* 7.3, 247a15. Therefore, intention does not seem to be something that pertains to the will.  
 
@@ -170,9 +172,9 @@ Reply Obj. 5: Intention is an act of the will not absolutely, but in an order to
 
 Article 4  
 
-***Whether it is by one and the same act that the will wills the end and what is directed to the end***
+Whether it is by one and the same act that the will wills the end and what is directed to the end  
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I-II.8.3; 12.4; *On Truth*, q. 22, a. 14. It seems that it is not one act of the will which concerns the end and what is directed to the end.***
+To the fourth we proceed as follows.Parallel texts: *ST* I-II.8.3; 12.4; *On Truth*, q. 22, a. 14. It seems that it is not one act of the will which concerns the end and what is directed to the end.  
 
 Obj. 1: For all acts are distinguished by their objects, as it says in *On the Soul* 2.Aristotle, *On the Soul* 2.4, 415a20. But the end and what is directed to the end are different objects. Therefore, the motions of the will bearing on them are also different.  
 
@@ -202,7 +204,7 @@ Article 5
 
 ***Whether the will should be judged as right on the basis of the end***
 
-***To the fifth we proceed as follows.Parallel text: *ST* I-II.18.4. It seems that the will should not be judged as right on the basis of the end.***
+To the fifth we proceed as follows.Parallel text: *ST* I-II.18.4. It seems that the will should not be judged as right on the basis of the end.  
 
 Obj. 1: For it is possible to will an evil for the sake of good, as in the case of one who wills to steal in order to give alms. But such a will is evil, and yet the will’s end is good. Therefore, the will’s rectitude is not judged from the end.  
 
@@ -236,7 +238,7 @@ Reply Obj. 5: Rectitude of the end is included in the habit. For to have a virtu
 
 Exposition of the text  
 
-****Also: ‘All the interconnected wills are righteous, if that will is good to which they are all referred.’**Sent*. II, 38.3(247).1, quoting Augustine, *On the Trinity*, bk. 11, ch. 6 (CCSL 50; PL 42:992). This should be understood if they are referred to the right will as if of themselves ordered to it, in such a way that the right will is the end of the act of the will, not only that of the agent, as has been said.Above: a. 5.***
+*Also: ‘All the interconnected wills are righteous, if that will is good to which they are all referred.’**Sent*. II, 38.3(247).1, quoting Augustine, *On the Trinity*, bk. 11, ch. 6 (CCSL 50; PL 42:992). This should be understood if they are referred to the right will as if of themselves ordered to it, in such a way that the right will is the end of the act of the will, not only that of the agent, as has been said.Above: a. 5.  
 
 *‘We must not preach the Gospel in order to eat*.’*Sent*. II, 38.3(247).2, quoting Augustine, *De sermone Domini in monte*, bk. 2, para. 54 (CCSL 35; PL 34:1292). This is true simply. For eating cannot be the end of preaching the Gospel, whether proximate or final. Rather, it is something sought by the one preaching to preserve the faculty of preaching the Gospel. Thus, the Master does not explain this statement in the solution below.  
 

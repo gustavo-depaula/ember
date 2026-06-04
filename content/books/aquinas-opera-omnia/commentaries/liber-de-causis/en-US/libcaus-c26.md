@@ -1,5 +1,7 @@
 # Proposition 25
 
+181. The unified, intellectual substances are not generated from any other thing. Every substance which subsists through its own essence is not generated from any other thing.  
+
 > 182. Because if someone should say: it is possible that it be generated from another thing, we say: if it is possible that a substance which subsists through its own essence be generated from any other thing, doubtless that substance is imperfect, needing that from which it is generated to fill it up.
 
 > 183. And an indication of this is generation itself.

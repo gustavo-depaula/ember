@@ -1,5 +1,7 @@
 # Proposition 1
 
+1. Omnis causa primaria plus est influens super causatum suum quam causa universalis secunda.  
+
 > 2. Cum ergo removet causa universalis secunda virtutem suam a re, causa universalis prima non aufert virtutem suam ab ea.
 
 > 3. Quod est, quia causa universalis prima agit in causatum causae secundae, antequam agat in ipsum causa universalis secunda, quae sequitur ipsum.

@@ -1,5 +1,7 @@
 # Chapter 64
 
+^64:1^ O that you wouldst rend the heavens, and wouldst come down: the mountains would melt away at your presence.  
+
 > ^64:2^ They would melt as at the burning of fire, the waters would burn with fire, that your name might be made known to your enemies: that the nations might tremble at your presence.
 
 > ^64:3^ When you shall do wonderful things, we shall not bear them: you didst come down, and at your presence the mountains melted away.

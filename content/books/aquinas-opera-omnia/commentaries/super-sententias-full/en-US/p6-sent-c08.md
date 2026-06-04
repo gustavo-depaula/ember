@@ -1,8 +1,10 @@
 # D. 30 - Order of charity as regards merit
 
+***Order of charity as regards merit***
+
 ***Division of the text***
 
-****Here it is usual to ask what is better and of greater merit, to love one’s friends or to love one’s enemies*.*Sent.* III, 30.1(111).1. After the Master has determined the order of charity with respect to diverse objects of love as to the quantity of love, here he considers this order as to the efficacy of meriting.***
+*Here it is usual to ask what is better and of greater merit, to love one’s friends or to love one’s enemies*.*Sent.* III, 30.1(111).1. After the Master has determined the order of charity with respect to diverse objects of love as to the quantity of love, here he considers this order as to the efficacy of meriting.  
 
 This consideration is divided into two parts.  
 
@@ -52,7 +54,7 @@ Article 1
 
 ***Whether all are bound to love enemies***
 
-***To the first we proceed thus.Parallels: *ST* II-II.25.8; 83.8; *De caritate*, a. 8; *De duabus preceptis*, ch. 2; *De perfectione vitae spir.*, ch. 14; *Super Rom.* 12, lect. 3. It seems that not all are bound to love enemies.***
+To the first we proceed thus.Parallels: *ST* II-II.25.8; 83.8; *De caritate*, a. 8; *De duabus preceptis*, ch. 2; *De perfectione vitae spir.*, ch. 14; *Super Rom.* 12, lect. 3. It seems that not all are bound to love enemies.  
 
 Obj. 1: For on the verse *love your enemies* (Luke 6:27), a Gloss says: *this belongs to the perfect*.Jerome, *Commentarii in euangelium Matthaei* (CCSL 77), bk. 1, ln. 695. But not all are bound to those things that belong to perfection, as was said above. Therefore not all are bound to love enemies.  
 
@@ -94,7 +96,7 @@ Article 2
 
 ***Whether all are bound to show signs of friendship to enemies***
 
-***To the second we proceed thus.Parallels: *ST* II-II.25.9; 83.8; *De caritate*, a. 8; *De duabus preceptis*, ch. 2; *De perfectione vitae spir*., ch. 14. It seems that all are bound to show signs of friendship to enemies.***
+To the second we proceed thus.Parallels: *ST* II-II.25.9; 83.8; *De caritate*, a. 8; *De duabus preceptis*, ch. 2; *De perfectione vitae spir*., ch. 14. It seems that all are bound to show signs of friendship to enemies.  
 
 Obj. 1: For acts of kindness and help to friends are the signs of friendship par excellence; but a man is bound to do such things for his enemies, as it says in Proverbs 25:21: *if your enemies are hungry, give them bread to eat*. Therefore one is bound to show signs of friendship to enemies.  
 
@@ -138,7 +140,7 @@ Article 3
 
 ***Whether it is of greater merit to love a friend or an enemy***
 
-***Proceeding to the third, it seems to be of greater merit to love an enemy than a friend.Parallels: *ST* II-II.27.7; *De caritate*, a. 8.***
+Proceeding to the third, it seems to be of greater merit to love an enemy than a friend.Parallels: *ST* II-II.27.7; *De caritate*, a. 8.  
 
 Obj. 1: For in Matthew 5:46, the Lord says, *if you love those who love you, what reward do you have?* But merit is spoken of in connection with reward. Therefore it is of greater merit to love an enemy than a friend.  
 
@@ -186,7 +188,7 @@ Article 4
 
 ***Whether to love one’s neighbor is more meritorious than to love God***
 
-***To the fourth we proceed thus.Parallel: *ST* II-II.27.8. It seems that to love one’s neighbor is more meritorious than to love God.***
+To the fourth we proceed thus.Parallel: *ST* II-II.27.8. It seems that to love one’s neighbor is more meritorious than to love God.  
 
 Obj. 1: For we do not merit by doing natural things; but to love God is natural, since love of the highest good is naturally in all, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 10 (PG 3:707). Therefore to love God is less meritorious than to love one’s neighbor, which is not so natural.  
 
@@ -226,7 +228,7 @@ Article 5
 
 ***Whether merit consists chiefly in charity***
 
-***To the fifth we proceed thus.Parallels: *In IV Sent.*, d. 49, q. 1, a. 4, resp. 4; q. 5, a. 1; *ST* I-II.114.4; *De veritate*, q. 14, a. 5, ad 5; *De potentia*, q. 6, a. 9; *Super Rom*. 8, lect. 5; *Super 1 Tim*. 4, lect. 2; *Super Heb*. 6, lect. 3. It seems that merit does not consist chiefly in charity.***
+To the fifth we proceed thus.Parallels: *In IV Sent.*, d. 49, q. 1, a. 4, resp. 4; q. 5, a. 1; *ST* I-II.114.4; *De veritate*, q. 14, a. 5, ad 5; *De potentia*, q. 6, a. 9; *Super Rom*. 8, lect. 5; *Super 1 Tim*. 4, lect. 2; *Super Heb*. 6, lect. 3. It seems that merit does not consist chiefly in charity.  
 
 Obj. 1: For grace is said to be the principle of meriting. But charity is not the same as grace. Therefore merit does not consist chiefly in the force of charity.  
 
@@ -260,7 +262,7 @@ Reply Obj. 5: Virtuous habits, although they incline the will, do not compel it.
 
 Exposition of the text  
 
-****Whether one and the same movement is toward the friend and the enemy*.*Sent.* III, 30.1(111).1. This is impossible, unless the one be loved on account of the other, and is referred to that other by actual consideration.***
+*Whether one and the same movement is toward the friend and the enemy*.*Sent.* III, 30.1(111).1. This is impossible, unless the one be loved on account of the other, and is referred to that other by actual consideration.  
 
 *The other toward the friend, and this seems more fervent*.*Sent*. III, 30.1(111).1. This statement is to be understood with respect to the object itself; but with respect to the end, the one who acts with greater effort, precisely as having such effort, loves more fervently.  
 

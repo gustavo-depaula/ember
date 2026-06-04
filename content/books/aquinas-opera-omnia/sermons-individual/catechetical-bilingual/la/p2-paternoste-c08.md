@@ -1,6 +1,8 @@
 # A. 7 - But Deliver Us from Evil. Amen.
 
-***Supra docuit nos Dominus petere veniam peccatorum, et quomodo possumus vitare tentationes: hic vero docet petere praeservationem a malis. Et haec petitio est generalis contra omnia mala; scilicet peccata, infirmitates et afflictiones, sicut dicit Augustinus. Sed quia de peccato et tentatione dictum est, dicendum est de aliis malis, scilicet adversitatibus et afflictionibus omnibus huius mundi; a quibus Deus liberat quadrupliciter.***
+***Sed libera nos a malo. Amen.***
+
+Supra docuit nos Dominus petere veniam peccatorum, et quomodo possumus vitare tentationes: hic vero docet petere praeservationem a malis. Et haec petitio est generalis contra omnia mala; scilicet peccata, infirmitates et afflictiones, sicut dicit Augustinus. Sed quia de peccato et tentatione dictum est, dicendum est de aliis malis, scilicet adversitatibus et afflictionibus omnibus huius mundi; a quibus Deus liberat quadrupliciter.  
 
 *Primo* ne superveniat afflictio. Sed hoc raro contingit: quoniam sancti in mundo isto affliguntur, quia, ut dicitur II Tim. III, 12: *omnes qui pie volunt vivere in Christo Iesu, persecutionem patientur*. Sed tamen alicui Deus concedit aliquando ut non affligatur a malo; quando scilicet cognoscit eum impotentem, et non posse resistere; sicut medicus infirmo debili non dat violentas medicinas. Apoc. III, 8: *ecce dedi coram te ostium apertum, quod nemo potest claudere, quia modicam habes virtutem*. In patria autem erit generale hoc, quia nullus affligetur ibi. Iob V, 19: *in sex tribulationibus*, scilicet praesentis vitae, quae per sex aetates distinguitur, *liberabit te; et in septima non tanget te malum*. Apoc. VII, 16: *non esurient neque sitient amplius*.  
 
@@ -18,7 +20,7 @@ Et ideo Spiritus Sanctus per donum sapientiae facit nos petere: et per hoc perve
 
 Compendiosa expositio totius orationis *Pater noster*  
 
-***Ut in summa exponatur, sciendum est, quod in oratione dominica continentur omnia quae desiderantur, et omnia quae fugiuntur. Inter omnia autem desiderabilia illud plus desideratur quod plus amatur, et hoc est Deus;***
+Ut in summa exponatur, sciendum est, quod in oratione dominica continentur omnia quae desiderantur, et omnia quae fugiuntur. Inter omnia autem desiderabilia illud plus desideratur quod plus amatur, et hoc est Deus;  
 
 et ideo primo petis gloriam Dei, cum dicis: ***sanctificetur nomen tuum***.  
 

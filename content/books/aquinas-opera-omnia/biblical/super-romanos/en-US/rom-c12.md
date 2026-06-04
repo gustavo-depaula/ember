@@ -1,10 +1,12 @@
 # C. 11 - Salvation of Both Jews and Gentiles
 
+***Salvation of Both Jews and Gentiles***
+
 ***Lecture 1***
 
 ***God’s election of a Jewish remnant***
 
-***^11:1^ I say then: has God cast away his people? God forbid! For I also am an Israelite of the seed of Abraham, of the tribe of Benjamin. [n. 859]***
+^11:1^ I say then: has God cast away his people? God forbid! For I also am an Israelite of the seed of Abraham, of the tribe of Benjamin. [n. 859]  
 
 > ^11:2^ God has not cast away his people which he foreknew. Do you not know what the Scripture says of Elias, how he calls on God against Israel? [n. 862]
 
@@ -116,7 +118,7 @@ Lecture 2
 
 ***The Jews’ offense is for the salvation of the gentiles***
 
-***^11:11^ I say then: have they so stumbled, that they should fall? God forbid! But by their offense salvation is come to the gentiles, that they may be emulous of them. [n. 878]***
+^11:11^ I say then: have they so stumbled, that they should fall? God forbid! But by their offense salvation is come to the gentiles, that they may be emulous of them. [n. 878]  
 
 > ^11:12^ Now if the offense of them be the riches of the world and the diminution of them the riches of the gentiles, how much more the fullness of them? [n. 883]
 
@@ -230,7 +232,7 @@ Lecture 3
 
 ***Prohibition of boasting against the Jews***
 
-***^11:17^ And if some of the branches be broken and you, being a wild olive, are ingrafted in them and are made partaker of the root and of the fatness of the olive tree: [n. 894]***
+^11:17^ And if some of the branches be broken and you, being a wild olive, are ingrafted in them and are made partaker of the root and of the fatness of the olive tree: [n. 894]  
 
 > ^11:18^ Boast not against the branches. But if you boast, you do not bear the root: but the root bears you. [n. 897]
 
@@ -332,7 +334,7 @@ Lecture 4
 
 ***Man’s unbelief is for the sake of divine mercy***
 
-***^11:25^ For I would not have you ignorant, brethren, of this mystery (lest you should be wise to you yourselves) that blindness in part has happened in Israel, until the fullness of the gentiles should come in. [n. 912]***
+^11:25^ For I would not have you ignorant, brethren, of this mystery (lest you should be wise to you yourselves) that blindness in part has happened in Israel, until the fullness of the gentiles should come in. [n. 912]  
 
 > ^11:26^ And so all Israel should be saved, as it is written: *there shall come out of Zion, he who shall deliver and shall turn away ungodliness from Jacob*. [n. 917]
 
@@ -452,7 +454,7 @@ Lecture 5
 
 ***The incomprehensible wisdom of God***
 
-***^11:33^ O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways! [n. 933]***
+^11:33^ O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways! [n. 933]  
 
 > ^11:34^ For who has known the mind of the Lord? Or who has been his counsellor? [n. 938]
 

@@ -1,5 +1,7 @@
 # Proposition 20
 
+***155. Causa prima regit res creatas omnes, praeter quod commisceatur cum eis.***
+
 > 156. Quod est, quia regimen non debilitat unitatem eius exaltatam super omnem rem neque destruit eam; neque prohibet eam essentia unitatis eius seiuncta a rebus, quin regat res.
 
 > 157. Quod est, quia causa prima est fixa, stans cum unitate sua pura semper, et ipsa regit res creatas omnes et influit super eas virtutem vitae et bonitates secundum modum virtutum earum receptibilium et possibilitatem earum. Prima enim bonitas influit bonitates super res omnes influxione una; verumtamen unaquaeque rerum recipit ex illa influxione secundum modum suae virtutis et sui esse

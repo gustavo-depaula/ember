@@ -1,8 +1,10 @@
 # D. 34 - Actual sin as regards the account of evil
 
+***Actual sin as regards the account of evil***
+
 ***Division of the text***
 
-***After he has addressed the original sin that passes from our first parents to their offspring by fleshly origin, here he begins to address the actual sin that passes from parents to their children by imitation of the work. This is divided into two parts.***
+After he has addressed the original sin that passes from our first parents to their offspring by fleshly origin, here he begins to address the actual sin that passes from parents to their children by imitation of the work. This is divided into two parts.  
 
 In the first, he addresses actual sin as regards the account of evil.  
 
@@ -62,7 +64,7 @@ Article 1
 
 ***Whether there is evil***
 
-***To the first we proceed as follows.Parallel texts: *In I Sent*., d. 46, q. 1, a. 3; *ST* I.48.2; *SCG* III.71; *Disputed Questions on the Power of God*, q. 3, a. 6, ad 4; *Compendium theologiae*, ch. 142; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 16. It seems that there is no evil.***
+To the first we proceed as follows.Parallel texts: *In I Sent*., d. 46, q. 1, a. 3; *ST* I.48.2; *SCG* III.71; *Disputed Questions on the Power of God*, q. 3, a. 6, ad 4; *Compendium theologiae*, ch. 142; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 16. It seems that there is no evil.  
 
 Obj. 1: For everything that is either exists or is in what exists, since it is either a substance or an accident. But evil neither exists nor is in what exists, as Dionysius proves.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 33 (PG 3:734). Therefore there is no evil.  
 
@@ -100,7 +102,7 @@ Article 2
 
 ***Whether evil is a kind of positive being***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.48.1, I.48.2; *SCG* III.7–12; *On Evil*, q. 1, a. 1; *Compendium theologiae*, ch. 115; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 14. It seems that evil is a being, as a kind of nature, taking “being” in the first way as what predicates something positively.***
+To the second we proceed as follows.Parallel texts: *ST* I.48.1, I.48.2; *SCG* III.7–12; *On Evil*, q. 1, a. 1; *Compendium theologiae*, ch. 115; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 14. It seems that evil is a being, as a kind of nature, taking “being” in the first way as what predicates something positively.  
 
 Obj. 1: For every genus is a kind of nature. For non-being possesses no species or differences, as the Philosopher says, though every genus is divided into species by differences. But good and evil are genera of other things, as it says in the *Categories*.Aristotle, *Categories* 11, 14a24. Therefore, evil is something that predicates positively.  
 
@@ -146,7 +148,7 @@ Article 3
 
 ***Whether good is the cause of evil***
 
-***To the third we proceed as follows.Parallel texts: *In II Sent*., d. 1, q. 1, a. 1, ad 2; *ST* I.49.1; I-II.75.1; *SCG* II.41; III.10, 13; *On the Power of God*, q. 3, a. 6; *On Evil*, q. 1, a. 3; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 22. It seems that evil’s cause cannot be good.***
+To the third we proceed as follows.Parallel texts: *In II Sent*., d. 1, q. 1, a. 1, ad 2; *ST* I.49.1; I-II.75.1; *SCG* II.41; III.10, 13; *On the Power of God*, q. 3, a. 6; *On Evil*, q. 1, a. 3; *Commentary on Dionysius’s On the Divine Names*, ch. 4, lect. 22. It seems that evil’s cause cannot be good.  
 
 Obj. 1: For, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 19 (PG 3:715). it belongs to good to preserve and produce. But evil is a kind of corruption. Therefore, good is not the cause of evil.  
 
@@ -184,7 +186,7 @@ Article 4
 
 ***Whether evil is in good as a subject***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.17.4, ad 2; 48.3; *SCG* III.11; *On Evil*, q. 1, a. 2; *Compendium theologiae*, ch. 118. It seems that evil is not in good as a subject.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.17.4, ad 2; 48.3; *SCG* III.11; *On Evil*, q. 1, a. 2; *Compendium theologiae*, ch. 118. It seems that evil is not in good as a subject.  
 
 Obj. 1: For, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 33 (PG 3:734). evil is neither an existing thing nor within existing things. But we speak most properly of being in another when we speak of being in another as a subject. Therefore, an existing thing is not the subject of evil. But every good is an existing thing. Therefore, evil is not in good as a subject.  
 
@@ -230,7 +232,7 @@ Article 5
 
 ***Whether evil can corrupt the whole good***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.48.4; I-II.85.2; *SCG* III.12; *On Evil*, q. 12, a. 12. It seems that evil can corrupt the whole good.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.48.4; I-II.85.2; *SCG* III.12; *On Evil*, q. 12, a. 12. It seems that evil can corrupt the whole good.  
 
 Obj. 1: For, as it says in the *Physics* 1,Aristotle, *Physics* 1.4, 187b25–188a5. every finite thing is used up when a certain element is taken away. But created good, which alone can be the subject of evil, is finite. Therefore, by multiplying evil it can be entirely used up.  
 
@@ -270,7 +272,7 @@ Reply Obj. 5: The good of nature that is lessened by sin is a mean between the s
 
 Exposition of the text  
 
-****‘It is manifest that all evil deeds arise from an evil will, like evil fruits from an evil tree.’**Sent*. II, 34.2(227).2, quoting Augustine, *De nuptiis et concupiscentia*, bk. 2, ch. 28, n. 48 (CSEL 42:303; PL 44:464). He says this to rule out an objection that arises from the Lord’s words in Matthew 7:18: *a sound tree cannot bear evil fruit, nor can a bad tree bear good fruit*, from which it seems to follow that a good thing cannot be the cause of evil.***
+*‘It is manifest that all evil deeds arise from an evil will, like evil fruits from an evil tree.’**Sent*. II, 34.2(227).2, quoting Augustine, *De nuptiis et concupiscentia*, bk. 2, ch. 28, n. 48 (CSEL 42:303; PL 44:464). He says this to rule out an objection that arises from the Lord’s words in Matthew 7:18: *a sound tree cannot bear evil fruit, nor can a bad tree bear good fruit*, from which it seems to follow that a good thing cannot be the cause of evil.  
 
 But it should be said that the tree is the proximate cause of the fruit, while the first cause in the genus is the sun or the earth. And the first cause is common to both good and bad trees and good and bad fruits. Thus, the will’s very nature, like a first cause, is the principle of good and evil wills, and of good and evil external acts, one and the same. But the evil will that is being compared to a tree is the proximate cause of the evil external act, which is compared to the fruit.  
 

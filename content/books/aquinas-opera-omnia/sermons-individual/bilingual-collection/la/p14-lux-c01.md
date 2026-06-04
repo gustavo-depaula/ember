@@ -1,5 +1,7 @@
 # Prologue
 
+*Omne datum optimum et omne donum perfectum desursum est descendens a Patre luminum.*  
+
 Verba ultima sunt in Canonica Iacobi.  
 
 Datum bonum sunt bona temporalia, datum melius bona naturalia ut corpus et anima, datum optimum sunt bona gratuita et aeterna gloria. *Omne datum optimum*, per quod intelligitur gratia, *et omne donum perfectum*, per quod intelligitur gloria, sunt *a Patre luminum*.  

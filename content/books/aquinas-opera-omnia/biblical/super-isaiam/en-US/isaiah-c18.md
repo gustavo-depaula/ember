@@ -1,5 +1,7 @@
 # Chapter 16
 
+^16:1^ Send forth, O Lord, the lamb, the ruler of the earth, from the rockDR: “Petra.” of the desert, to the mount of the daughter of Zion.  
+
 > ^16:2^ And it shall come to pass, that as a bird fleeing away, and as young ones flying out of the nest, so shall the daughters of Moab be in the passage of Arnon.
 
 > ^16:3^ Take counsel, gather a council: make your shadow as the night in the midday: hide them that flee, and betray not them that wander about.

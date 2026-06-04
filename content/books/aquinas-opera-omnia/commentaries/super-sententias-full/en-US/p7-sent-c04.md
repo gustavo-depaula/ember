@@ -1,6 +1,8 @@
 # D. 3 - Baptism in itself
 
-***After the Master has examined those things that are required for the sacraments of the New Law, here he begins to consider each individual sacrament of the New Law; and this is divided into two parts. In the first, he examines those sacraments that are directed to the remedy of one person; in the second, those that are directed to the remedy of the whole Church, at Distinction 24: *Now let us proceed to the consideration of sacred ordination*.Peter Lombard, *Sententiae* IV, 24.1 (131), 1.***
+***Baptism in itself***
+
+After the Master has examined those things that are required for the sacraments of the New Law, here he begins to consider each individual sacrament of the New Law; and this is divided into two parts. In the first, he examines those sacraments that are directed to the remedy of one person; in the second, those that are directed to the remedy of the whole Church, at Distinction 24: *Now let us proceed to the consideration of sacred ordination*.Peter Lombard, *Sententiae* IV, 24.1 (131), 1.  
 
 The first part is divided into three: in the first, he examines the sacrament of those entering, namely, baptism; in the second, the sacraments of those progressing, at Distinction 7: *Now we must add something about the sacrament of confirmation*;*Sent*. IV, 7.1 (43), 1. in the third, the sacrament of those departing, namely, extreme unction, at Distinction 23: *After the ones mentioned above, there is another sacrament, namely, anointing of the sick*.*Sent*. IV, 23.1 (127), 1.  
 
@@ -34,7 +36,7 @@ first, what baptism is;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first we proceed thus.Parallels: below, exposition of the text; *ST* III, q. 61, a. 1. It seems that this definition of baptism, which is set down in the text, is unfittingly assigned, namely: *Baptism is an external washing of the body, done under the prescribed form of words*. For as long as the thing defined remains, the definition remains. But once a cleansing, which is a certain action or passion, has passed away, baptism still remains. Therefore, baptism is not a cleansing.***
+Obj. 1: To the first we proceed thus.Parallels: below, exposition of the text; *ST* III, q. 61, a. 1. It seems that this definition of baptism, which is set down in the text, is unfittingly assigned, namely: *Baptism is an external washing of the body, done under the prescribed form of words*. For as long as the thing defined remains, the definition remains. But once a cleansing, which is a certain action or passion, has passed away, baptism still remains. Therefore, baptism is not a cleansing.  
 
 Obj. 2: Furthermore, a sacrament, according to Hugh,Hugh of St. Victor, *De sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). is a material element. Now a cleansing is not a material element but the use of an element. Therefore baptism, since it is a sacrament, will not be a cleansing.  
 
@@ -44,7 +46,7 @@ Obj. 4: Furthermore, an instrument’s definition should include what it is for.
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the definition of Hugh is also unfittingly assigned, which goes thus: *baptism is water sanctified by the word of God for washing away our crimes*.Hugh of St. Victor, *De sacramentis fidei*, Bk. 2, pt. 6, ch. 2 (PL 176:443). For nothing comes to be in itself. But baptism is done in water. Therefore, baptism is not water.***
+Obj. 1: Moreover, it seems that the definition of Hugh is also unfittingly assigned, which goes thus: *baptism is water sanctified by the word of God for washing away our crimes*.Hugh of St. Victor, *De sacramentis fidei*, Bk. 2, pt. 6, ch. 2 (PL 176:443). For nothing comes to be in itself. But baptism is done in water. Therefore, baptism is not water.  
 
 Obj. 2: Furthermore, nothing should be included in the definition of something that is not of its essence. But the sanctification of the matter is not of the essence of baptism: for a baptism can be done in the sea or in a river. Therefore, the sanctification of the water should not be included in the definition of baptism.  
 
@@ -54,7 +56,7 @@ Obj. 4: Furthermore, an effect that can be prevented should not be included in t
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the definition of Dionysius, which he sets down in Chapter 2 of the *Ecclesiastical Hierarchy*, is also unfittingly assigned, where he says: *Therefore, it is a certain principle of the holiest commands of sacred action, for the opportunity receptive of other divine utterances and sacred actions, forming our animal habits toward the anagogue of supercelestial rest, making our journey, the handing over of our sacred and most divine regeneration*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 2, n. 1 (PG 3:391). For a principle is traced back to the genus of the things that derive from the principle. But a sacrament is not in the genus of principle, but in the genus of sacraments. Therefore, it should not be called a principle of the holiest commands.***
+Obj. 1: Moreover, it seems that the definition of Dionysius, which he sets down in Chapter 2 of the *Ecclesiastical Hierarchy*, is also unfittingly assigned, where he says: *Therefore, it is a certain principle of the holiest commands of sacred action, for the opportunity receptive of other divine utterances and sacred actions, forming our animal habits toward the anagogue of supercelestial rest, making our journey, the handing over of our sacred and most divine regeneration*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 2, n. 1 (PG 3:391). For a principle is traced back to the genus of the things that derive from the principle. But a sacrament is not in the genus of principle, but in the genus of sacraments. Therefore, it should not be called a principle of the holiest commands.  
 
 Obj. 2: Furthermore, it should not be said to be a principle of holy commands except insofar as it prepares a way for other commands. Therefore, it was superfluous to add afterward: *forming us for the opportunity receptive of other actions*.  
 
@@ -64,7 +66,7 @@ Obj. 4: Furthermore, form and matter are of the essence of a thing. But he makes
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the definition that Damascene gives in Book 4, Chapter 9 is unfittingly assigned, for he says: *Baptism is that by which we receive the first fruits of the Holy Spirit, and the beginning of another life happens in us: a regeneration, and seal, and safekeeping, and illumination*.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 9 (PG 94:1122). For some people have the Holy Spirit and spiritual life before they obtain baptism, as is clear in the case of Cornelius in Acts 10. Therefore, by baptism we do not always receive the first fruits of the Holy Spirit, nor is baptism necessarily the beginning of another life in us.***
+Obj. 1: Moreover, it seems that the definition that Damascene gives in Book 4, Chapter 9 is unfittingly assigned, for he says: *Baptism is that by which we receive the first fruits of the Holy Spirit, and the beginning of another life happens in us: a regeneration, and seal, and safekeeping, and illumination*.John Damascene, *On the Orthodox Faith*, Bk. 4, ch. 9 (PG 94:1122). For some people have the Holy Spirit and spiritual life before they obtain baptism, as is clear in the case of Cornelius in Acts 10. Therefore, by baptism we do not always receive the first fruits of the Holy Spirit, nor is baptism necessarily the beginning of another life in us.  
 
 Obj. 2: Furthermore, the same thing cannot be included in its own definition. But regeneration is the same thing as baptism. Therefore, it should not be placed in the definition of baptism.  
 
@@ -74,7 +76,7 @@ Obj. 4: Furthermore, safekeeping happens in us through divine providence, which 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that according to the teaching of the Philosopher in Book 2 of the *Posterior Analytics*, there are three kinds of definition.Aristotle, *Posterior Analytics*, Bk. 2, ch. 10, 94a11–14. For some definitions are material, which we call conclusions of demonstration; some are formal, which are principles of demonstration; some are both material and formal, which are demonstrations differing in position: for they have a middle term of demonstration, inasmuch as they contain a formal definition, and a conclusion, inasmuch as they contain a material one; but only the order of terms is lacking. Since, however, everything completive is formal in a certain way with respect to whatever is completed, for this reason not only is the definition that contains the form called a formal definition, but also one that contains what is completive with respect to something else. And since the order among causes is such that matter is completed by form, and form by efficient cause, and efficient cause by final cause, for this reason a definition is sometimes called material, when it includes only the matter of the thing, but it is called formal when it includes the form. As, for example, ‘anger is the blood’s racing around the heart’ is called a material definition; and ‘anger is an appetite for vengeance’ is called a formal one. However, sometimes the material definition includes form and matter, while the formal definition includes the efficient cause, as this is called material: ‘thunder is a continual sound in the clouds’; while this is formal: ‘thunder is the discharge of fire in a cloud.’ But sometimes the material definition includes matter and form and efficient cause, but the formal definition includes the end: as, for example, ‘a house is a covering made from stones and wood in such-and-such a style with such-and-such a skill’ is a material definition in comparison with this one: ‘a house is a covering protecting us from cold and heat.’ And this happens particularly with instruments, for with them almost the entire account of their species is taken from the end.***
+To the first question, I answer that according to the teaching of the Philosopher in Book 2 of the *Posterior Analytics*, there are three kinds of definition.Aristotle, *Posterior Analytics*, Bk. 2, ch. 10, 94a11–14. For some definitions are material, which we call conclusions of demonstration; some are formal, which are principles of demonstration; some are both material and formal, which are demonstrations differing in position: for they have a middle term of demonstration, inasmuch as they contain a formal definition, and a conclusion, inasmuch as they contain a material one; but only the order of terms is lacking. Since, however, everything completive is formal in a certain way with respect to whatever is completed, for this reason not only is the definition that contains the form called a formal definition, but also one that contains what is completive with respect to something else. And since the order among causes is such that matter is completed by form, and form by efficient cause, and efficient cause by final cause, for this reason a definition is sometimes called material, when it includes only the matter of the thing, but it is called formal when it includes the form. As, for example, ‘anger is the blood’s racing around the heart’ is called a material definition; and ‘anger is an appetite for vengeance’ is called a formal one. However, sometimes the material definition includes form and matter, while the formal definition includes the efficient cause, as this is called material: ‘thunder is a continual sound in the clouds’; while this is formal: ‘thunder is the discharge of fire in a cloud.’ But sometimes the material definition includes matter and form and efficient cause, but the formal definition includes the end: as, for example, ‘a house is a covering made from stones and wood in such-and-such a style with such-and-such a skill’ is a material definition in comparison with this one: ‘a house is a covering protecting us from cold and heat.’ And this happens particularly with instruments, for with them almost the entire account of their species is taken from the end.  
 
 And because baptism, since it is a sacrament, is a certain instrument, for this reason the material definition of it will be one that comprehends its matter and form and efficient cause; and its formal definition will comprehend its end. And in this way the definition that the Master sets down in the text is material. For it contains the matter when he says: *external washing*; and it gives a nod to the efficient cause in saying, *done*; and it includes the form in saying, *under the form of words prescribed*. And it should be known that Augustine gives the same definition, although under other words, for he says: *baptism is a drenching in the water sanctified by the word of life*.  
 
@@ -88,7 +90,7 @@ Reply Obj. 4: The end for which a sacrament exists is its ultimate formal aspect
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that that definition of Hugh encompasses both the matter of baptism by saying *water*, and the end by saying *for washing away our crimes*, and the form by saying *sanctified by the word of life*. Hence it is a definition composed of matter and form, as though a demonstration differing in position: and it completely encompasses the essence of baptism, except for leaving out the act of cleansing, which constitutes the proximate matter of baptism—although that could be understood from the other things that are included.***
+To the second question, it should be said that that definition of Hugh encompasses both the matter of baptism by saying *water*, and the end by saying *for washing away our crimes*, and the form by saying *sanctified by the word of life*. Hence it is a definition composed of matter and form, as though a demonstration differing in position: and it completely encompasses the essence of baptism, except for leaving out the act of cleansing, which constitutes the proximate matter of baptism—although that could be understood from the other things that are included.  
 
 Reply Obj. 1: This is proper predication, ‘baptism happens in water’; but this is predication through the cause, ‘baptism is water.’  
 
@@ -100,7 +102,7 @@ Reply Obj. 4: Something numerically the same is sometimes an effect and sometime
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that by the definition of baptism given, Dionysius intends to proceed to those things that are required materially in baptism. Hence, after having given this definition of baptism, he sets down the rite for baptism; and thus he includes it as a principle of demonstration; and because of this his definition is entirely formal. And it should be known that in his words something is included as the thing that is defined, and something else is included as the definition.***
+To the third question, it should be said that by the definition of baptism given, Dionysius intends to proceed to those things that are required materially in baptism. Hence, after having given this definition of baptism, he sets down the rite for baptism; and thus he includes it as a principle of demonstration; and because of this his definition is entirely formal. And it should be known that in his words something is included as the thing that is defined, and something else is included as the definition.  
 
 Something like the thing defined is set down, namely, *the handing over of a sacred and most divine regeneration*. For that is a certain circumlocution for baptism that he frequently uses, and this is clear from the fact that he does not call it baptism there—so that the sense is: *it is a certain principle*, etc., namely, *a handing on of a sacred and most divine regeneration*.  
 
@@ -122,7 +124,7 @@ Reply Obj. 4: This definition is the principle of all that Dionysius delivers co
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that Damascene arrives at the definition mentioned from the fact that baptism is called a regeneration. For since generation is a movement toward being, it is clear that baptism is that by which we are granted spiritual being. And since no one can perform an action of a certain nature unless first he has being in that nature, thus it is concluded that baptism is the beginning of all spiritual actions. And according to this, Damascene defined baptism by even more basic things than Dionysius, inasmuch as he takes the first effect of baptism, which is to constitute one in spiritual life, on which basis it may be called regeneration. And thus he defines baptism as the beginning of the spiritual life in that he says, *the beginning of another life*, namely, the spiritual one, which is other than the natural one; so that this generation is different from the natural one, and is called regeneration; and again, as the beginning of the first things that follow upon life, and thus he says, *by which the first movements of the Holy Spirit happen*, that is, the first spiritual effects in us. But these effects either result from the generation itself, like sonship or some relation like that, and in this way we are said to be regenerated by baptism as sons of God, and in this respect he says *regeneration*, or they result from the form instilled by that generation, and this happens in three ways. First, in the order to the one generating, according to which the one generated is made like the one generating by the form instilled; and this is how it is called a *seal*. The second has to do with the being of the one generated himself, which is preserved by that form; and in regard to this it is called a *safekeeping*. The third has to do with the action of whatever this form is the beginning of, and in this respect it is called *illumination*.***
+To the fourth question, it should be said that Damascene arrives at the definition mentioned from the fact that baptism is called a regeneration. For since generation is a movement toward being, it is clear that baptism is that by which we are granted spiritual being. And since no one can perform an action of a certain nature unless first he has being in that nature, thus it is concluded that baptism is the beginning of all spiritual actions. And according to this, Damascene defined baptism by even more basic things than Dionysius, inasmuch as he takes the first effect of baptism, which is to constitute one in spiritual life, on which basis it may be called regeneration. And thus he defines baptism as the beginning of the spiritual life in that he says, *the beginning of another life*, namely, the spiritual one, which is other than the natural one; so that this generation is different from the natural one, and is called regeneration; and again, as the beginning of the first things that follow upon life, and thus he says, *by which the first movements of the Holy Spirit happen*, that is, the first spiritual effects in us. But these effects either result from the generation itself, like sonship or some relation like that, and in this way we are said to be regenerated by baptism as sons of God, and in this respect he says *regeneration*, or they result from the form instilled by that generation, and this happens in three ways. First, in the order to the one generating, according to which the one generated is made like the one generating by the form instilled; and this is how it is called a *seal*. The second has to do with the being of the one generated himself, which is preserved by that form; and in regard to this it is called a *safekeeping*. The third has to do with the action of whatever this form is the beginning of, and in this respect it is called *illumination*.  
 
 Reply Obj. 1: The first fruits of the Spirit are given before baptism is actually received, but not before the habitual intention of receiving it, as was the case with Cornelius, or the actual intention, as is the case with others who have the faith of baptism.That is, those who, as catechumens, believe the faith of which baptism is the sign. Or it could be said that here he speaks of the spiritual life, according to which man is considered a member of the Church as to externals, which does not happen before baptism, for no one is admitted to the acts of the faithful before baptism.  
 
@@ -138,7 +140,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second we proceed thus.Parallels: *ST* III, q. 60, a. 8; q. 61, a. 5; q. 84, a. 3; *Super I ad Cor.* 1, lec. 2. It seems that the integrity of the baptismal form is not contained in these words, *I baptize you in the name of the Father, and of the Son, and of the Holy Spirit*. For an action should be attributed more to a principal agent than to a secondary one. But the principal baptizer is Christ, as is clear from the passage: *He it is who baptizes* (John 1:33); man, however, is only the minister of baptism. Therefore, it should be said *Christ baptizes you*, etc., rather than *I baptize you*.***
+Obj. 1: To the second we proceed thus.Parallels: *ST* III, q. 60, a. 8; q. 61, a. 5; q. 84, a. 3; *Super I ad Cor.* 1, lec. 2. It seems that the integrity of the baptismal form is not contained in these words, *I baptize you in the name of the Father, and of the Son, and of the Holy Spirit*. For an action should be attributed more to a principal agent than to a secondary one. But the principal baptizer is Christ, as is clear from the passage: *He it is who baptizes* (John 1:33); man, however, is only the minister of baptism. Therefore, it should be said *Christ baptizes you*, etc., rather than *I baptize you*.  
 
 Obj. 2: Further, according to grammarians, in verbs of the first and second person a certain and determinate subject is understood. But *baptizo* is a verb in the first person. Therefore, it was not necessary to add *ego*.  
 
@@ -158,7 +160,7 @@ Obj. 9: Furthermore, everything that the Divine Persons do not have in common sh
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is permitted to change what is in this form without detriment to baptism.Parallels: below, exposition of the text; *ST* III, q. 61, a. 5; *Super Matt*. 28; *Super I ad Cor*. 1, lec. 2. For the Byzantines have this form for baptizing: *the servant of Christ, Nicholas, is baptized in the name of the Father, and of the Son, and of the Holy Spirit*. But there is one baptism among all men. Therefore also, our baptism could be done in a similar way.***
+Obj. 1: Moreover, it seems that it is permitted to change what is in this form without detriment to baptism.Parallels: below, exposition of the text; *ST* III, q. 61, a. 5; *Super Matt*. 28; *Super I ad Cor*. 1, lec. 2. For the Byzantines have this form for baptizing: *the servant of Christ, Nicholas, is baptized in the name of the Father, and of the Son, and of the Holy Spirit*. But there is one baptism among all men. Therefore also, our baptism could be done in a similar way.  
 
 Obj. 2: Furthermore, saying *I baptize you* is included in the form to express the act of baptism. But the act of baptism can be done by one or two people, and to one or two people. Therefore, a change of the form can be made so that it is said, *We baptize you two*.  
 
@@ -172,7 +174,7 @@ Obj. 6: Furthermore, someone who mangles words changes letters and syllables, an
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that something could not be added or taken away. For there is no less necessity in the words that belong to the forms of the sacraments than in the words of Sacred Scripture. But it is not permitted to add to or take away from the words of Sacred Scripture, as is clear from the last chapter of the Book of Revelation.See Rev 22:18–19. Therefore, neither is it permitted with the words of the forms in the sacraments.***
+Obj. 1: Moreover, it seems that something could not be added or taken away. For there is no less necessity in the words that belong to the forms of the sacraments than in the words of Sacred Scripture. But it is not permitted to add to or take away from the words of Sacred Scripture, as is clear from the last chapter of the Book of Revelation.See Rev 22:18–19. Therefore, neither is it permitted with the words of the forms in the sacraments.  
 
 Obj. 2: Furthermore, among natural forms it is such that a difference added or subtracted changes the species. Therefore, also if something is added or subtracted among the forms of the sacraments, the nature of that sacrament will be destroyed.  
 
@@ -184,7 +186,7 @@ Furthermore (5), the act of baptizing is set down in the form to stir up the att
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that there could not be an interjection or transposition. For baptism is one act, but an act is one when it is continuous, as is said in the *Physics* 5.Aristotle, *Physics*, Bk. 5, ch. 4, 228a20. An interruption, however, takes away the continuity of baptism. Therefore, it takes away its unity; therefore, there should not be any interruption.***
+Obj. 1: Moreover, it seems that there could not be an interjection or transposition. For baptism is one act, but an act is one when it is continuous, as is said in the *Physics* 5.Aristotle, *Physics*, Bk. 5, ch. 4, 228a20. An interruption, however, takes away the continuity of baptism. Therefore, it takes away its unity; therefore, there should not be any interruption.  
 
 Obj. 2: Furthermore, just as three Persons pertain to faith in the Trinity, so also does the order of Persons. But in a transposition, the order is varied. Therefore, the form is corrupted.  
 
@@ -192,7 +194,7 @@ On the contrary, nouns and verbs that are transposed mean the same thing.
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that a completive form is in a certain way a middle thing between the matter that it perfects, and the efficient cause that produces it, so that efficient power is transferred to matter by means of a form. And since a middle in some way embraces both extremes, thus the form of baptism contains both the principal agent, from which baptism has efficacy, and the proximate matter of baptism, which is the act of washing; and thus it is set down: *In the name of the Father and of the Son and of the Holy Spirit*, as the principal agent from which baptism has its efficacy; and the material act is set down by the two parties to it, namely, the bestower and the recipient, by saying: *I baptize you*.***
+To the first question, I answer that a completive form is in a certain way a middle thing between the matter that it perfects, and the efficient cause that produces it, so that efficient power is transferred to matter by means of a form. And since a middle in some way embraces both extremes, thus the form of baptism contains both the principal agent, from which baptism has efficacy, and the proximate matter of baptism, which is the act of washing; and thus it is set down: *In the name of the Father and of the Son and of the Holy Spirit*, as the principal agent from which baptism has its efficacy; and the material act is set down by the two parties to it, namely, the bestower and the recipient, by saying: *I baptize you*.  
 
 Reply Obj. 1: The principal agent is signified in the invocation of the Trinity, which acts invisibly; and thus it remained for the secondary agent, that is, the minister of the sacrament, to be set down in relation to the material act.  
 
@@ -214,7 +216,7 @@ Reply Obj. 9: A vocal expression deserves to be called a name only inasmuch as i
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that since sacraments have their efficacy from divine institution, and the form is a more central thing in the sacraments than even the matter; therefore, just as no one is permitted to change a sacrament or to institute something new, so also no one is allowed to change the form of a sacrament in regard to what is essential to the form without the special counsel of the Holy Spirit, who did not bind his own power to those words; and if the form is changed, nothing is done;That is, the sacrament is not perfected or confected. and besides this, guilt is incurred. If, however, something that belongs to the form by the determination of the Church is changed, the sacrament nevertheless exists, but guilt is incurred. However, in the baptismal form the more essential thing is to express the agent cause, from which its whole efficacy comes, than to express the act exercised; and for this reason, with respect to everyone, the invocation of the Trinity is essential to the form, nor can anyone change the form with respect to this. But some people were saying that the exercise of the act is not essential to the form, and that the essence of the form consists in that invocation of the Trinity; which the authority of Pope Alexander refuted, who said that that bath in which someone is plunged in the name of the Father and of the Son and of the Holy Spirit, without adding anything, is not baptism.Alexander III, *Decreta* (MA XXI, 1101); cf. *Decretal. Gregor. IX*, Bk. 3, tit. 42, ch. 1, “Si quis sane puerum” (RF II, 644). Thomas quotes the decretal of Alexander III in *ST* III, q. 66, a. 5, ad 2.***
+To the second question, it should be said that since sacraments have their efficacy from divine institution, and the form is a more central thing in the sacraments than even the matter; therefore, just as no one is permitted to change a sacrament or to institute something new, so also no one is allowed to change the form of a sacrament in regard to what is essential to the form without the special counsel of the Holy Spirit, who did not bind his own power to those words; and if the form is changed, nothing is done;That is, the sacrament is not perfected or confected. and besides this, guilt is incurred. If, however, something that belongs to the form by the determination of the Church is changed, the sacrament nevertheless exists, but guilt is incurred. However, in the baptismal form the more essential thing is to express the agent cause, from which its whole efficacy comes, than to express the act exercised; and for this reason, with respect to everyone, the invocation of the Trinity is essential to the form, nor can anyone change the form with respect to this. But some people were saying that the exercise of the act is not essential to the form, and that the essence of the form consists in that invocation of the Trinity; which the authority of Pope Alexander refuted, who said that that bath in which someone is plunged in the name of the Father and of the Son and of the Holy Spirit, without adding anything, is not baptism.Alexander III, *Decreta* (MA XXI, 1101); cf. *Decretal. Gregor. IX*, Bk. 3, tit. 42, ch. 1, “Si quis sane puerum” (RF II, 644). Thomas quotes the decretal of Alexander III in *ST* III, q. 66, a. 5, ad 2.  
 
 Reply Obj. 1: According to the opinion of the Byzantines, of necessity for the form is the act of baptism as regards what is signified, but not as regards what is consignified. Now the person baptizing through his ministry is not necessary to the form, for baptism does not get its efficacy from him; but the person receiving is necessary to the form, for the act is terminated in the one receiving; and thus the Byzantines differ in form from us in three things. First, because they do not express the person of the minister in the form; and they say this to remove the error that was in the early Church which attributed the efficacy of baptism to the one baptizing, as is clear from 1 Corinthians 3. Second, in that they signify the act under a different person, the third person, and in a different mood, the subjunctive or optative, to signify that an interior act is expected from outside. Third, because they place the person in the nominative case, and in the third person; for sometimes the baptized does not have understanding such that speech could be directed to him.  
 
@@ -234,7 +236,7 @@ Reply Obj. 6: Whoever utters words incorrectly either does it deliberately, and 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that concerning subtraction it is certain that if anything is subtracted that is essential to the form, it is not a valid baptism, and the one baptizing sins gravely. And since the invocation of the Trinity is essential to the form among all men, there is no way it can be taken away.***
+To the third question, it should be said that concerning subtraction it is certain that if anything is subtracted that is essential to the form, it is not a valid baptism, and the one baptizing sins gravely. And since the invocation of the Trinity is essential to the form among all men, there is no way it can be taken away.  
 
 But some people say the expression of the act is not of the substance of the form; hence, if it is taken away, having only made invocation of the Trinity, there will be a baptism, although the one baptizing would sin. But against this is the decretal of Pope Alexander III,See reference above. who says that if someone should immerse a child in water three times while saying, *In the name of the Father, and of the Son, and of the Holy Spirit*, if he does not say, *I baptize you*, an immersion of this kind would not constitute a baptism. For it is necessary that through the form the power of the Trinity invoked is determined to the matter at hand, which is what happens in the expression of the act.  
 
@@ -260,7 +262,7 @@ Reply Obj. 5: Someone who intends to do something does not necessarily do it; he
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that since the form of words consists in three things—namely, signification, integrity of the words, and order—some people say that if any of these are changed or altered, it will not be a valid baptism. But since the forms of the sacraments are certain professions of faith, while the words of the form only profess the faith by reason of their signification, for this reason others say that as long as the understanding is preserved, whether implicitly or explicitly, even if the integrity of expression or the order is not there, there will be a valid baptism all the same. But because a sacrament, as to form and matter, should be a sign of the same thing, for that reason others take a middle stance, saying that both the full signification and all the words that are essential to the form are required; but if the order or something about the words is changed and it does not take away the signification or the integrity of the words, the baptism will be valid.***
+To the fourth question, it should be said that since the form of words consists in three things—namely, signification, integrity of the words, and order—some people say that if any of these are changed or altered, it will not be a valid baptism. But since the forms of the sacraments are certain professions of faith, while the words of the form only profess the faith by reason of their signification, for this reason others say that as long as the understanding is preserved, whether implicitly or explicitly, even if the integrity of expression or the order is not there, there will be a valid baptism all the same. But because a sacrament, as to form and matter, should be a sign of the same thing, for that reason others take a middle stance, saying that both the full signification and all the words that are essential to the form are required; but if the order or something about the words is changed and it does not take away the signification or the integrity of the words, the baptism will be valid.  
 
 Reply Obj. 1: If an interruption happens such that it disrupts the intention of the one baptizing, then there will not be one form; and thus both pieces will be incomplete in themselves, and will not suffice for baptism; for example if someone were to say, *In the name of the Father*, and then break out into a long story, and afterward say, *and of the Son*. However if a small interruption happens—either of words that do not corrupt the form, as if someone said, *In the name of the Father omnipotent*, or an interruption of silence, or a cough, or something like that, which does not disrupt the intention—then there will be unity of form from the unity of intention. For it is clear that continuity of form cannot have unity from the expressions used, since speech is a discrete quantity.  
 
@@ -272,7 +274,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus.Parallels: below, exposition of the text; d. 5, q. 2, a. 1, qa. 1 & 3; d. 17, q. 3, a. 4, qa. 3; *ST* III, q. 66; q. 67, a. 3; q. 74, a. 1; *SCG* IV, ch. 69; *Quodl*. I, q. 6, a. 1; *Super Ioan*. 3, lec. 1. It seems that baptism should not be done in water. For like effects are produced from like causes. But baptism has an effect similar to circumcision. Since, then, water has nothing in common with the instrument of circumcision, it seems unfitting that baptism be done in water.***
+Obj. 1: To the third question we proceed thus.Parallels: below, exposition of the text; d. 5, q. 2, a. 1, qa. 1 & 3; d. 17, q. 3, a. 4, qa. 3; *ST* III, q. 66; q. 67, a. 3; q. 74, a. 1; *SCG* IV, ch. 69; *Quodl*. I, q. 6, a. 1; *Super Ioan*. 3, lec. 1. It seems that baptism should not be done in water. For like effects are produced from like causes. But baptism has an effect similar to circumcision. Since, then, water has nothing in common with the instrument of circumcision, it seems unfitting that baptism be done in water.  
 
 Obj. 2: Furthermore, according to DamasceneJohn Damascene, *On the Orthodox Faith*, Bk. 4, ch. 9 (PG 94:1122). and Dionysius,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 3 (PG 3:503). baptism has an illuminative force, and in it the Holy Spirit is given, and man is regenerated as a son of God. But among all the elements, fire has the most light, and by it is represented the Holy Spirit, who is charity, by reason of its heat. And according to Dionysius in the end of the *Celestial Hierarchy*,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 15, n. 2 (PG 3:327). fire most of all represents what is godlike. Therefore, baptism should be done in fire and not in water.  
 
@@ -290,7 +292,7 @@ Furthermore (2), the repair should correspond to the original creation. But in t
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it should not be done in plain water.Parallel: *ST* III, q. 66, a. 4. For medicine should be proportioned to the sick. But we to whom the medicine of baptism is applied have bodies of mixed elements. Therefore, the water of baptism should not be a simple element.***
+Obj. 1: Moreover, it seems that it should not be done in plain water.Parallel: *ST* III, q. 66, a. 4. For medicine should be proportioned to the sick. But we to whom the medicine of baptism is applied have bodies of mixed elements. Therefore, the water of baptism should not be a simple element.  
 
 Obj. 2: Moreover, the sacraments flowed from the side of Christ sleeping on the Cross. But it is not likely that from his side flowed water as a pure element, since it is not found that way in mixed bodies. Therefore, baptism should not happen in plain water.  
 
@@ -304,7 +306,7 @@ On the contrary, a mixture is neither of the things mixed to make it up. If ther
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that baptism cannot be done in any plain water whatsoever.Parallel: *ST* III, q. 66, a. 4. For the Lord conferred their regenerative power on the waters by the contact with his most immaculate flesh. But he only touched the waters of the Jordan. Therefore, those waters alone have regenerative power, and so baptism cannot be done in any water whatsoever.***
+Obj. 1: Moreover, it seems that baptism cannot be done in any plain water whatsoever.Parallel: *ST* III, q. 66, a. 4. For the Lord conferred their regenerative power on the waters by the contact with his most immaculate flesh. But he only touched the waters of the Jordan. Therefore, those waters alone have regenerative power, and so baptism cannot be done in any water whatsoever.  
 
 Obj. 2: Furthermore, baptism cannot be done except in water sanctified by the word of life. If, therefore, baptism happened in the sea, or in a certain river, all the water of the river would be sanctified, which seems absurd.  
 
@@ -314,7 +316,7 @@ On the contrary, the matter of baptism should be common, for baptism is the most
 
 Response to Quaestiuncula 1  
 
-***I answer that, by divine institution it is necessary for baptism to be done in water. Now six reasons can be given for this institution. The first is that water, by reason of its transparency, has something of light, and in this way it befits baptism which has illuminative power, inasmuch as grace is conferred in it. The second is that by reason of its wetness it has cleansing power; and that befits baptism, in which the soil of guilt is washed away. The third is that by reason of its coolness it has a refreshing power; and that befits baptism, in which the heat of the kindling [of sin] is mitigated. The fourth is that, as is said in *On Animals* 17, In modern editions, Aristotle, *On the Generation of Animals*, Bk. 3, ch. 11, 762a10ff.; Bk. 4, ch. 2, 767a31. water is best suited to generation and the growth of living things; hence, too, at the beginning of the world animals were produced for the first time from water; and thus it befits baptism, in which there is a regeneration to spiritual life. The fifth is that in every part of the world water can be found. The sixth is that it is a thing that can be had easily by anyone without a great cost. And these last two things befit baptism inasmuch as it is a necessary sacrament.***
+I answer that, by divine institution it is necessary for baptism to be done in water. Now six reasons can be given for this institution. The first is that water, by reason of its transparency, has something of light, and in this way it befits baptism which has illuminative power, inasmuch as grace is conferred in it. The second is that by reason of its wetness it has cleansing power; and that befits baptism, in which the soil of guilt is washed away. The third is that by reason of its coolness it has a refreshing power; and that befits baptism, in which the heat of the kindling [of sin] is mitigated. The fourth is that, as is said in *On Animals* 17, In modern editions, Aristotle, *On the Generation of Animals*, Bk. 3, ch. 11, 762a10ff.; Bk. 4, ch. 2, 767a31. water is best suited to generation and the growth of living things; hence, too, at the beginning of the world animals were produced for the first time from water; and thus it befits baptism, in which there is a regeneration to spiritual life. The fifth is that in every part of the world water can be found. The sixth is that it is a thing that can be had easily by anyone without a great cost. And these last two things befit baptism inasmuch as it is a necessary sacrament.  
 
 Reply Obj. 1: Neither circumcision nor baptism takes away original sin by the natural power of those things, but inasmuch as they represent something spiritual; and in signification, water has something in common with the instrument of circumcision, for in both, a certain removal occurs.  
 
@@ -330,7 +332,7 @@ Reply Obj. 6: From the side of Christ flowed blood and water; but the blood was 
 
 Response to Quaestiuncula 2  
 
-***To the second question, I answer that a mixture of water can be of two kinds. There is one that takes away the species, as when it changes into another species [of substance] by an alteration, like changing into wine by a certain fermenting or decomposition, or also by so great an addition of another liquid that the species of water disappears, as when a small amount of water is mixed into a lot of wine. There is another kind of mixture that does not destroy the species of water, as when the water is changed according to something accidental, and the species remains, as is the case with heated water; or when something is added to the water which either does not dissolve, as when something solid is put into the water—or, if it is able to be mixed in, like something moist, is nevertheless of such a small quantity that it does not constitute a new mixture, but is thoroughly converted into the water.***
+To the second question, I answer that a mixture of water can be of two kinds. There is one that takes away the species, as when it changes into another species [of substance] by an alteration, like changing into wine by a certain fermenting or decomposition, or also by so great an addition of another liquid that the species of water disappears, as when a small amount of water is mixed into a lot of wine. There is another kind of mixture that does not destroy the species of water, as when the water is changed according to something accidental, and the species remains, as is the case with heated water; or when something is added to the water which either does not dissolve, as when something solid is put into the water—or, if it is able to be mixed in, like something moist, is nevertheless of such a small quantity that it does not constitute a new mixture, but is thoroughly converted into the water.  
 
 In the first kind of watery mixture, therefore, a baptism cannot be done, for it is no longer water; but in the second kind of mixture it can be done. So that it may be recognized when this or that mixture is water, however, it should be known that just as we judge difference of species in animals from the difference of their shapes, so also we recognize different species among the elements by the difference of rare and dense; and thus, if such an alteration or mixture is made of the water that it is withdrawn from the terminus of rarity or denseness of water either in act or in potency, it is a sign that it is a kind of transformed water. And I say “in potency” to indicate when a certain fluid is not condensed and evaporated by heat or cold as water is, but differently, as we see in the instances of wine, oil, milk, and things like that.  
 
@@ -346,7 +348,7 @@ Reply Obj. 5: Even if they retain their power of washing, those waters that lose
 
 Response to Quaestiuncula 3  
 
-***To the third question, I answer that the difference in waters that arises from place and position is an accidental difference; hence it does not change the species of water. And thus a baptism can be done in any water, whether in the sea, or a river, or a well, or a fountain, or a pool.***
+To the third question, I answer that the difference in waters that arises from place and position is an accidental difference; hence it does not change the species of water. And thus a baptism can be done in any water, whether in the sea, or a river, or a well, or a fountain, or a pool.  
 
 Reply Obj. 1: By touching the water, the Lord gave a regenerative power to the whole species of water, establishing it as the instrument of baptism.  
 
@@ -360,7 +362,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fourth we proceed thus.Parallel: *ST* III. q. 66, a. 7. It seems that immersion is necessary to baptism. For by baptism we are configured to the burial of Christ, as is said in Romans 6:4. But this only happens by baptism except the extent that we are immersed and hidden in the water, as Christ was beneath the earth. Therefore, immersion is necessary to baptism.***
+Obj. 1: To the fourth we proceed thus.Parallel: *ST* III. q. 66, a. 7. It seems that immersion is necessary to baptism. For by baptism we are configured to the burial of Christ, as is said in Romans 6:4. But this only happens by baptism except the extent that we are immersed and hidden in the water, as Christ was beneath the earth. Therefore, immersion is necessary to baptism.  
 
 Obj. 2: Furthermore, baptism is given as a remedy against original sin. But original sin is in the whole body. Therefore, the whole should be immersed.  
 
@@ -372,7 +374,7 @@ Furthermore (2), in the martyrdom of blessed Laurence it is read that Romanus, t
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it does not have to be done three times.Parallels: below, d. 28, q. 1, a. 1, qa. 2; *ST* III, q. 66, a. 8. For baptism is a dipping in water sanctified by the word of life, as Augustine says.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 15, par. 4. But there is one baptism. Therefore, there should be one dipping or immersion.***
+Obj. 1: Moreover, it seems that it does not have to be done three times.Parallels: below, d. 28, q. 1, a. 1, qa. 2; *ST* III, q. 66, a. 8. For baptism is a dipping in water sanctified by the word of life, as Augustine says.Augustine, *In Iohannis euangelium tractatus* (CCSL 36), Tract. 15, par. 4. But there is one baptism. Therefore, there should be one dipping or immersion.  
 
 Obj. 2: Furthermore, faith in the unity and Trinity of the Persons is required for baptism. But the Trinity of Persons is expressed sufficiently in the form. Therefore, the oneness of essence should be expressed in the oneness of immersion.  
 
@@ -384,7 +386,7 @@ Furthermore (2), Chrysostom comments upon John 3: *the immersion is done so that
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that a triple immersion is necessary to the sacrament.Parallels: below, d. 23, q. 1, a. 1, qa. 2; *ST* III, q. 66, a. 8. For it is read in the decree *On Consecration*, Distinction 6: *if any presbyter or bishop should immerse once and do one immersion, let him be deposed*.See the *Decretum Gratiani*, d. 6, ch. 79 (PL 187:1825). But this would not be the case unless a triple immersion were necessary to the sacrament. Therefore, it is necessary to the sacrament.***
+Obj. 1: Moreover, it seems that a triple immersion is necessary to the sacrament.Parallels: below, d. 23, q. 1, a. 1, qa. 2; *ST* III, q. 66, a. 8. For it is read in the decree *On Consecration*, Distinction 6: *if any presbyter or bishop should immerse once and do one immersion, let him be deposed*.See the *Decretum Gratiani*, d. 6, ch. 79 (PL 187:1825). But this would not be the case unless a triple immersion were necessary to the sacrament. Therefore, it is necessary to the sacrament.  
 
 Obj. 2: Furthermore, just as faith in the Trinity is expressed by the names of the three Persons, so also by a triple immersion, as is clear from what has been said. But if the three Persons are not named it would not be a valid baptism. Therefore, it is the same if a triple immersion is not done.  
 
@@ -396,7 +398,7 @@ Furthermore (2), the authority of Gregory cited in the text says that either way
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that baptism implies cleansing. However, cleansing by water can happen not only by immersion but also by sprinkling or pouring; and thus a baptism can be done in either way. And it seems that the apostles baptized in this way, when it is read in Acts 2 and 3 that five thousand were converted together on one day, and then another three thousand. And thus when the custom of the Church allows, or when necessity compels for want of water, or because of the danger to a child whose death is feared, or even because of the feebleness of the priest rendering him unable to lift the infant, a baptism may be celebrated without immersion.***
+To the first question, I answer that baptism implies cleansing. However, cleansing by water can happen not only by immersion but also by sprinkling or pouring; and thus a baptism can be done in either way. And it seems that the apostles baptized in this way, when it is read in Acts 2 and 3 that five thousand were converted together on one day, and then another three thousand. And thus when the custom of the Church allows, or when necessity compels for want of water, or because of the danger to a child whose death is feared, or even because of the feebleness of the priest rendering him unable to lift the infant, a baptism may be celebrated without immersion.  
 
 Reply Obj. 1: In the pouring of water, too, a man is in a certain way placed under the water; and thus, by baptism he is in a certain way buried with Christ.  
 
@@ -406,7 +408,7 @@ Reply Obj. 3: Although original sin exists particularly in the genital members a
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a triple immersion is the most fitting thing to do, both to express in deeds the faith in the Trinity and to signify the burial of Christ, in which we are buried together by baptism, as is clear from the authorities cited.***
+To the second question, it should be said that a triple immersion is the most fitting thing to do, both to express in deeds the faith in the Trinity and to signify the burial of Christ, in which we are buried together by baptism, as is clear from the authorities cited.  
 
 Reply Obj. 1: The Master explained dipping by washing. However, although there are three plunges in a triple immersion, there is nevertheless one washing; just as also in purely material washings we see it happen that something is immersed in water or water is poured over it several times before one washing is complete.  
 
@@ -416,7 +418,7 @@ Reply Obj. 3: Although the Passion of Christ is one, nevertheless after sufferin
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that since the triple immersion is not for signifying the reality contained in the sacrament, which has to be signified by the matter and use of the sacrament, but rather, for signifying the reality signified but not contained (a signification that is not foremost in the sacrament), it follows that the triple immersion is not necessary to the sacrament, as it says in the text. Nevertheless, were it omitted against the custom of the Church, a person would sin gravely by immersing someone only once; and thus a penalty is applied by the canons.***
+To the third question, it should be said that since the triple immersion is not for signifying the reality contained in the sacrament, which has to be signified by the matter and use of the sacrament, but rather, for signifying the reality signified but not contained (a signification that is not foremost in the sacrament), it follows that the triple immersion is not necessary to the sacrament, as it says in the text. Nevertheless, were it omitted against the custom of the Church, a person would sin gravely by immersing someone only once; and thus a penalty is applied by the canons.  
 
 By this the answer to the first is clear.  
 
@@ -430,7 +432,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the fifth we proceed thus.Parallels: *ST* III, q. 62, a. 6, ad 3; q. 70, a. 4; *Super Rom*. 4, lec. 2. It seems that it was not necessary to institute baptism after circumcision. For the reason for the institution of baptism, as is said in the text, is the renewal of the mind. But circumcision renewed the mind, since it removed sin, and conferred grace, as was said above.See d. 1, q. 2, a. 2, qa. 5. Therefore, it was not necessary to institute baptism.***
+Obj. 1: To the fifth we proceed thus.Parallels: *ST* III, q. 62, a. 6, ad 3; q. 70, a. 4; *Super Rom*. 4, lec. 2. It seems that it was not necessary to institute baptism after circumcision. For the reason for the institution of baptism, as is said in the text, is the renewal of the mind. But circumcision renewed the mind, since it removed sin, and conferred grace, as was said above.See d. 1, q. 2, a. 2, qa. 5. Therefore, it was not necessary to institute baptism.  
 
 Obj. 2: Furthermore, in the sacraments efficacy corresponds to signification. But as it seems, circumcision signified more expressly the removal of original sin both as to the cause of the removal, which is the shedding of Christ’s blood, and as to the cause of contracting original sin, which is generation, since it involved a shedding of blood from the member of generation. Therefore, it had greater efficacy than baptism; and thus baptism did not need to be instituted after it.  
 
@@ -438,7 +440,7 @@ On the contrary, the perfect should succeed the imperfect. But baptism is more p
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it was instituted before the Passion.Parallels: *ST* III, q. 66, a. 2; q. 73, a. 5, ad 4. For the Lord conferred regenerative power on the waters by the touch of his flesh. But this happened in his own baptism, before the Passion. Therefore, it had been instituted before the Passion.***
+Obj. 1: Moreover, it seems that it was instituted before the Passion.Parallels: *ST* III, q. 66, a. 2; q. 73, a. 5, ad 4. For the Lord conferred regenerative power on the waters by the touch of his flesh. But this happened in his own baptism, before the Passion. Therefore, it had been instituted before the Passion.  
 
 Obj. 2: Furthermore, he said, *unless one is reborn of water and the Holy Spirit, he cannot enter into the kingdom of God* (John 3:5). But this was before the Passion. Therefore, baptism had been instituted before the Passion.  
 
@@ -448,7 +450,7 @@ Furthermore (2), baptism does not happen without its form. But its form was inst
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it was obligatory immediately upon its institution.Parallels: *ST* III, q. 66, a. 2; q. 73, a. 5, ad 4. For it is said at the beginning of its institution, as it were: *unless one is reborn of water and the Holy Spirit, he cannot enter into the kingdom of God* (John 3:5)—which implies an obligation. Therefore, it was obligatory immediately.***
+Obj. 1: Moreover, it seems that it was obligatory immediately upon its institution.Parallels: *ST* III, q. 66, a. 2; q. 73, a. 5, ad 4. For it is said at the beginning of its institution, as it were: *unless one is reborn of water and the Holy Spirit, he cannot enter into the kingdom of God* (John 3:5)—which implies an obligation. Therefore, it was obligatory immediately.  
 
 Obj. 2: Furthermore, the institution of the sacraments of the New Law is in the manner of a precept. But a precept is obligatory immediately. Therefore, the institution of baptism obliged immediately.  
 
@@ -456,7 +458,7 @@ On the contrary, two remedies are not needed for the same thing. But before the 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that according to Hugh of St. Victor,Hugh of St. Victor, *De sacramentis fidei*, Bk. 2, pt. 6, ch. 3 (PL 176:448). it was necessary that as time progressed, signs of spiritual graces be given with more and more obviousness. And thus, it was fitting that baptism be instituted after circumcision, for circumcision signified only by removing something, yet the perfection of sanctification does not consist in removing something but rather in the conferral of grace, whose effect water represents—namely, life, illumination, and the like, of which we have spoken above; and because of this, it signifies washing; and again, there is also perfection as to its use, for it is common to both sexes, which was not the case with circumcision.***
+To the first question, I answer that according to Hugh of St. Victor,Hugh of St. Victor, *De sacramentis fidei*, Bk. 2, pt. 6, ch. 3 (PL 176:448). it was necessary that as time progressed, signs of spiritual graces be given with more and more obviousness. And thus, it was fitting that baptism be instituted after circumcision, for circumcision signified only by removing something, yet the perfection of sanctification does not consist in removing something but rather in the conferral of grace, whose effect water represents—namely, life, illumination, and the like, of which we have spoken above; and because of this, it signifies washing; and again, there is also perfection as to its use, for it is common to both sexes, which was not the case with circumcision.  
 
 Reply Obj. 1: Although circumcision removed guilt as baptism does, nevertheless it did not confer such a plenitude of grace as baptism, nor did it diminish the kindling of sin as much. And thus it was necessary for baptism to succeed it. For renewal consists not only in the removal of guilt but in the conferral of grace.  
 
@@ -464,7 +466,7 @@ Reply Obj. 2: Those are the significations of the *res non contenta*; and so the
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the institution of baptism had many phases.***
+To the second question, it should be said that the institution of baptism had many phases.  
 
 For it was first instituted at Christ’s baptism as to the matter, for at that time he conferred regenerative power on the waters, and in a certain way the form was represented by the presence of the three Persons in sensible signs, since the Father appeared in the voice, the Son in the flesh, and the Holy Spirit in the dove; and in a similar way the fruit of baptism was prefigured there, for the heavens were opened above him.  
 
@@ -480,13 +482,13 @@ And by this the answers to the objections are evident. Nevertheless, it should b
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that no one was obliged to baptism before the Passion, for at that time it had not been instituted in such a way as to obligate, but rather for its exercise. But after the Passion it was obligatory, when circumcision had passed away for all those whom baptism’s institution could reach.***
+To the third question, it should be said that no one was obliged to baptism before the Passion, for at that time it had not been instituted in such a way as to obligate, but rather for its exercise. But after the Passion it was obligatory, when circumcision had passed away for all those whom baptism’s institution could reach.  
 
 And by this, the solution to the objections becomes clear. For in John 3, the Lord foretold the future obligation rather than announcing a present one, nor did the precept obligate before it was proclaimed to all.  
 
 Exposition of the Text  
 
-****What we call baptism is an intinction, that is, an exterior washing of the body*, etc.*Sent*. IV, 3.1 (17). 2. It should be known that ‘to baptize’ is, in Greek, the same as ‘to wash’ in Latin; for by ‘washing’ two things are spoken of—namely, a bath, which signifies water, prepared by human skill, in which cleansing happens; or else, the very cleansing that signifies the use of the bath. Therefore, baptism can mean the water itself, which is called the bath; hence it is said, *by the bath of regeneration and renewal of the Holy Spirit* (Tit 3:5). And it can mean the washing itself: *holding to the tradition of men, the washing of cups and pots*, that is, ceremonial cleansing (Mark 7:4–8). And thus Hugh of St. VictorHugh of St. Victor, *De sacramentis fidei*, Bk. 2, pt. 6, ch. 2 (PL 176:443). defined baptism as water, according to the first interpretation; but the Master defined it as a cleansing, according to the second. But this latter definition is more proper, since water does not signify cleansing, nor does it cause it, except when it is washing.***
+*What we call baptism is an intinction, that is, an exterior washing of the body*, etc.*Sent*. IV, 3.1 (17). 2. It should be known that ‘to baptize’ is, in Greek, the same as ‘to wash’ in Latin; for by ‘washing’ two things are spoken of—namely, a bath, which signifies water, prepared by human skill, in which cleansing happens; or else, the very cleansing that signifies the use of the bath. Therefore, baptism can mean the water itself, which is called the bath; hence it is said, *by the bath of regeneration and renewal of the Holy Spirit* (Tit 3:5). And it can mean the washing itself: *holding to the tradition of men, the washing of cups and pots*, that is, ceremonial cleansing (Mark 7:4–8). And thus Hugh of St. VictorHugh of St. Victor, *De sacramentis fidei*, Bk. 2, pt. 6, ch. 2 (PL 176:443). defined baptism as water, according to the first interpretation; but the Master defined it as a cleansing, according to the second. But this latter definition is more proper, since water does not signify cleansing, nor does it cause it, except when it is washing.  
 
 *“And from where does water acquire so great a power that by touching the body it cleanses the heart, except by the work of the word?”**Sent*. IV, 3.1 (17), 2, citing Augustine, *In Ioannem*, Tract. 80, n. 3. What that power is, and when it is given, was discussed above in Distinction 1.See q. 1, a. 4, qa. 2.  
 

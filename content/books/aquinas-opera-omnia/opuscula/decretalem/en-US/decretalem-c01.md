@@ -1,8 +1,10 @@
 # I - On the Trinity and the Catholic Faith
 
+***On the Trinity and the Catholic Faith***
+
 ***Lateran Council IV, ch. 1***
 
-***We firmly believe and openly confess that there is only one true God, eternal and immense, omnipotent, unchangeable, incomprehensible, and ineffable,***
+We firmly believe and openly confess that there is only one true God, eternal and immense, omnipotent, unchangeable, incomprehensible, and ineffable,  
 
 > Father, Son, and Holy Spirit; three persons indeed but one essense, substance, or nature absolutely simple; the Father from no one, but the Son from the Father only, and the Holy Spirit equally from both, always without beginning and end. The Father begetting, the Son begotten, and the Holy Spirit proceeding; consubstantial and coequal, co-omnipotent and coeternal, the one principle of the universe,
 

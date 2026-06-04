@@ -1,10 +1,12 @@
 # C. 1 - What Is the Intention of the Discussion and What Is the Tradition Concerning the Divine Names
 
+***Quae sermonis intentio et quae de divinis nominibus traditio***
+
 ***Lectio 1***
 
 ***De modo procedendi in hoc opere***
 
-***C. I, § 1. 1. Nunc autem, O beate, post *Theologicas hypotyposes*, ad divinorum nominum reserationem, sicut est possibile, transibo.***
+C. I, § 1. 1. Nunc autem, O beate, post *Theologicas hypotyposes*, ad divinorum nominum reserationem, sicut est possibile, transibo.  
 
 > 2. Esto autem et nunc a nobis eloquiorum lex praedefinita veritatem de Deo dictorum nos asseverare *non in persuasibilibus humanae sapientiae verbis* sed in demonstratione a Spiritu virtutis motae theologorum,
 
@@ -176,7 +178,7 @@ Lectio 2
 
 ***De cognitione quam de Deo accipere possumus per divina nomina***
 
-***§ 3. 11. Has sequentes thearchicas leges, quae et totos gubernant supercoelestium ordinum et substantiarum sanctos ornatus, quod quidem est super mentem et substantiam thearchiae occultum, inscrutabilibus et sanctis mentis reverentiis, indicibilia autem casto silentio venerantes, ad illucentes nobis in sanctis eloquiis splendores extendimur et ab ipsis illuminamur ad thearchicos hymnos, ab ipsis supermundane illuminati et ad sanctas hymnorum enuntiationes figurati et ad videndum per ipsos commensurate data nobis thearchica lumina et laudandum principum universae sanctae luminis apparitionis, quod donat bonum, sicut ipsum de seipso in sanctis eloquiis tradidit:***
+§ 3. 11. Has sequentes thearchicas leges, quae et totos gubernant supercoelestium ordinum et substantiarum sanctos ornatus, quod quidem est super mentem et substantiam thearchiae occultum, inscrutabilibus et sanctis mentis reverentiis, indicibilia autem casto silentio venerantes, ad illucentes nobis in sanctis eloquiis splendores extendimur et ab ipsis illuminamur ad thearchicos hymnos, ab ipsis supermundane illuminati et ad sanctas hymnorum enuntiationes figurati et ad videndum per ipsos commensurate data nobis thearchica lumina et laudandum principum universae sanctae luminis apparitionis, quod donat bonum, sicut ipsum de seipso in sanctis eloquiis tradidit:  
 
 > 12. sicut quod omnium est causa et principium et substantia et vita; et decidentium ab ipsa revocatio et resurrectio; eorum autem quae ad deiformis corruptivum prolapsa sunt renovatio et reformatio; eorum autem quae secundum quam dam commotionem immundam moventur collocatio sancta; et stantium firmatio; et ad ipsam sursum actorum suscitativa manuductio; et eorum quae illuminantur illuminatio; et eorum quae perficiuntur perfectionis principatus; et eorum quae deificantur thearchia; et eorum quae simplificantur simplicitas; et eorum quae uniuntur unitas; principii universi, supersubstantialiter, superprincipale principium; et occulti, secundum quod est conveniens, bona traditio; et, ut simpliciter dicatur, viventium vita, existentium substantia, omnis vitae et substantiae principium et causa, propter bonitatem ipsius quae et deducit ad esse existentia et continet.
 
@@ -342,7 +344,7 @@ Lectio 3
 
 ***Quomodo Deus nominari possit***
 
-***21. Omnium quidem existens circumapprehensivus et comprehensivus et praeapprehensivus, omnibus autem ipse universaliter est incomprehensibilis et neque sensus eius est, neque phantasia, neque opinio, neque nomen, neque sermo, neque tactus, neque scientia; quomodo de divinis nominibus, divinus a nobis tractabitur sermo, invocabili et supernominabili et supersubstantiali deitate demonstrata?***
+21. Omnium quidem existens circumapprehensivus et comprehensivus et praeapprehensivus, omnibus autem ipse universaliter est incomprehensibilis et neque sensus eius est, neque phantasia, neque opinio, neque nomen, neque sermo, neque tactus, neque scientia; quomodo de divinis nominibus, divinus a nobis tractabitur sermo, invocabili et supernominabili et supersubstantiali deitate demonstrata?  
 
 > 22. Sed quod diximus, quando *Theologicas hypotyposes* exposuimus, unum, ignotum, supersubstantiale, ipsum bonum, quod est, trinam unitatem dico, quae est simul Deus et simul bonum, neque dicere neque possibile est cogitare. Sed et sanctarum virtutum angelis convenientes unitiones, quas sive immissiones sive susceptiones oportet dicere, superignotae et superdarae bonitatis, ineffabiles sunt et ignotae et solum ipsis inerunt qui super angelicam cognitionem digni habiti sunt ipsis angelis.
 

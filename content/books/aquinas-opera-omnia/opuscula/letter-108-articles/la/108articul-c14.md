@@ -1,1 +1,3 @@
 # Articulus 13
+
+Quod autem tertio decimo ponitur, *generare non est actus naturae ut communis est, sed ut coniuncta cum proprietate suppositi generantis*, quantum ad id quod obiiciens tangit, non multum videtur calumniabile, quia coniunctio potest referri ad intellectum vel locutionem nostram, ut puta cum dicimus, essentia et paternitas sunt in patre; non autem ad compositionem rei. Sed magis posset calumniari ex hoc quod dicitur, generatio est actus naturae in patre, si intelligeretur esse actus naturae, ut generantis; debet enim intelligi esse actus naturae ut quo generans generat: natura enim non generat, sed pater naturaliter generat filium.

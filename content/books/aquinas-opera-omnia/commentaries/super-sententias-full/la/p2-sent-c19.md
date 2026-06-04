@@ -1,8 +1,10 @@
 # D. 39 - How divine knowledge is the cause of what is known
 
+***Cujus modi causa sit divina scientia***
+
 ***Divisio textus***
 
-***Hic ostendit, cujus modiParma omits *modi*. causa sit divina scientia; et dividitur in partes duas: in prima inquirit, utrum sit invariabilis; in secunda, utrum sit universalis, ibi: *ei vero quod praedictum est . . . , videtur obviare quod ait Hieronymus*.***
+Hic ostendit, cujus modiParma omits *modi*. causa sit divina scientia; et dividitur in partes duas: in prima inquirit, utrum sit invariabilis; in secunda, utrum sit universalis, ibi: *ei vero quod praedictum est . . . , videtur obviare quod ait Hieronymus*.  
 
 Prima in duas: in prima movet quaestionem, et objicit contra veritatem; in secunda determinat, ibi: *ad quod dicimus, quod Dei scientia omnino immutabilis est*; et dividitur in duas: in prima determinat concedendo ea quae ponunt variationem ex parte scitorum, et non ex parte scientiae; in secunda determinat negandoParma omits *negando*. quae ex parte scientiae variationem important, ibi: *hic opponitur a quibusdam ita*.  
 
@@ -32,7 +34,7 @@ Articulus 1
 
 ***Utrum Deus possit non scire illud quod est scitum ab eo***
 
-***Circa primum sic proceditur. Videtur quod Deus non possit non scire illud quod scitum est ab eo;***
+Circa primum sic proceditur. Videtur quod Deus non possit non scire illud quod scitum est ab eo;  
 
 Quia, secundum Augustinum, lib. 26 *Contra Faustum*, cap. 4; Hieronymum, *Ad Eustoch*., epist. 22, *de custod. virginitatis*, et Philosophum in 6 *Ethic*., cap. 2, Deus non potest facere ut id quod est praeteritum, non fuerit. Sed cum dicitur: “hoc est scitum a Deo,” significatur ut praeteritum. Ergo non potest non esse scitum ab eo.  
 
@@ -66,7 +68,7 @@ Articulus 2
 
 ***Utrum Deus possit scire aliquid quod nescit***
 
-***Ad secundum sic proceditur. Videtur quod Deus non possit scire aliquid quod nescit.***
+Ad secundum sic proceditur. Videtur quod Deus non possit scire aliquid quod nescit.  
 
 Nihil enim existentium cognoscit Deus nisi per ideam. Sed non potest aliqua idea in ipso esse quae non sit: quia cum idea sit forma rei in Deo existens, non potest intelligi quod aliqua forma adveniat Deo sine mutatione ejus. Ergo non potest scire ea quae non scit.  
 

@@ -1,5 +1,7 @@
 # Sermon
 
+Apostolus christianorum doctor et dux in fide et veritate, in tempore hoc Domini nostri gratiosi adventus, per verba ista, sive in hiis verbis, informat ad duo, scilicet ad liberalem horrorem omnium mundialium macularum et vitiorum, et ad honorabilem amorem sive assecutionem caelestium virtutum.  
+
 Primum facit cum dicit: ***abiciamus opera tenebrarum***;  
 
 secundum cum subdit: ***et induamur arma lucis***.  

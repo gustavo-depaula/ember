@@ -1,1 +1,3 @@
 # Prologue
+
+The proclaimed words show explicitly enough that St. Martin has arrived at the glory of highness through divine help. That help is ready for all people. And just as St. Martin needed divine help in order to arrive at the glory of highness, so we, too, need divine help so that we can arrive at glory.*ST* I.73.1, ad 1; cf. I-II.3.1. Therefore, in accordance with the exhortation of the Apostle in Hebrews 4:16: *let us approach with confidence to the throne of his grace, that we may receive mercy and obtain grace in the favorable time*, so that he may give me something to say, et cetera.

@@ -1,6 +1,8 @@
 # Chapter 9
 
-***^9:1^ Primo tempore alleviata est terra Zabulon et terra Nephthalim, et novissimo aggravata est via maris trans Jordanem Galilææ gentium.***
+***Lectio 1***
+
+^9:1^ Primo tempore alleviata est terra Zabulon et terra Nephthalim, et novissimo aggravata est via maris trans Jordanem Galilææ gentium.  
 
 > ^9:2^ Populus qui ambulabat in tenebris vidit lucem magnam; habitantibus in regione umbræ mortis, lux orta est eis.
 
@@ -54,7 +56,7 @@ Quarto quantum ad hostium punitionem; et haec evenient ***quia omnis violenta pr
 
 Lectio 2  
 
-***^9:6^ Parvulus enim natus est nobis et filius datus est nobis, et factus est principatus super humerum ejus. Et vocabitur nomen ejus admirabilis, consiliarius, Deus, fortis, pater futuri sæculi, princeps pacis.***
+^9:6^ Parvulus enim natus est nobis et filius datus est nobis, et factus est principatus super humerum ejus. Et vocabitur nomen ejus admirabilis, consiliarius, Deus, fortis, pater futuri sæculi, princeps pacis.  
 
 > ^9:7^ Multiplicabitur ejus imperium, et pacis non erit finis. Super solium David et super regnum ejus sedebit, ut confirmet illud et corroboret in judicio et justitia, amodo et usque in sempiternum. Zelus Domini exercituum faciet hoc.
 

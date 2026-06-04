@@ -1,5 +1,7 @@
 # On God
 
+***Quaestio 1***
+
 ***De immensitate ipsius***
 
 ***Quaesitum fuit de Deo, de angelis et de hominibus.***
@@ -10,7 +12,7 @@ Articulus unicus
 
 ***Utram solius Dei sit proprium esse ubique***
 
-***Circa immensitatem vero Dei quaesitum fuit utrum solius Dei sit proprium esse ubique. Ostendebatur quod non.***
+Circa immensitatem vero Dei quaesitum fuit utrum solius Dei sit proprium esse ubique. Ostendebatur quod non.  
 
 Numerus enim est in rebus numeratis; sed constat quod omnes partes universi sunt numeratae; ergo numerus est in omnibus partibus universi, et sic videtur quod sit ubique; non est igitur solius Dei proprium esse ubique.  
 
@@ -52,7 +54,7 @@ Quaestio 2
 
 ***Utrum Deus cognoscat malum per bonum***
 
-***Circa cognitionem vero Dei quaerebatur utrum Deus cognoscat malum per bonum? Et videtur quod non.***
+Circa cognitionem vero Dei quaerebatur utrum Deus cognoscat malum per bonum? Et videtur quod non.  
 
 Quia cognoscere unum per aliud pertinet ad defectum cognitionis; sed in divina cognitione nullus defectus esse potest; ergo videtur quod Deus non cognoscat malum per bonum.  
 
@@ -88,7 +90,7 @@ Quaestio 3
 
 ***Utrum praedestinatio imponat necessitatem***
 
-***Circa praedestinationem quaerebatur utrum praedestinatio imponat necessitatem? Et ostendebatur quod sic.***
+Circa praedestinationem quaerebatur utrum praedestinatio imponat necessitatem? Et ostendebatur quod sic.  
 
 Constat enim quod praedestinatus omnino salvatur; sed hoc non esset nisi necessarium esset praedestinatum salvari; ergo videtur quod praedestinatio necessitatem imponat.  
 

@@ -1,5 +1,7 @@
 # On Human Things
 
+***Quaestio 6***
+
 ***De gratia***
 
 ***Deinde quaesitum est de rebus humanis.***
@@ -14,7 +16,7 @@ Articulus unicus
 
 ***Utrum Deus semper faciat novam gratiam***
 
-***Circa primum quaerebatur utrum Deus semper faciat novam gratiam. Et videtur quod sic.***
+Circa primum quaerebatur utrum Deus semper faciat novam gratiam. Et videtur quod sic.  
 
 Augustinus enim, VIII *Super Genesim ad litteram*, comparat infusionem gratiae illuminationi: *sicut*, inquit, *aer presente lumine non factus est lucidus, sed fit, quia, si factus esset, non fieret, sed, etiam absente lumine, lucidus maneret, sic homo, Deo sibi praesente, illuminatur, absente autem*, continue *tenebratur, a quo non locorum intervallis, sed voluntatis aversione disceditur*; sed sol semper facit novum lumen in aere; ergo Deus semper facit novam gratiam in anima.  
 
@@ -42,7 +44,7 @@ Articulus 1
 
 ***De sacramento poenitentiae***
 
-***Ad primum sic proceditur. Videtur quod per absolutionem sacerdotis culpa remittatur.***
+Ad primum sic proceditur. Videtur quod per absolutionem sacerdotis culpa remittatur.  
 
 Dicit enim Hugo de Sancto Victore, in libro *De sacramentis*, quod *sententiam Petri* sequitur *sententia caeli*; sed sententia caeli est de remissione culpae; ergo remissio culpae sequitur sententiam Petri, quae est sacerdotis absolventis.  
 
@@ -68,7 +70,7 @@ Articulus 2
 
 ***De sacramento matrimonii***
 
-***Ad secundum sic proceditur. Videtur quod vir possit accipere crucem ad transfretandum ultra mare nolente uxore, etiam si de eius incontinentia timeatur.***
+Ad secundum sic proceditur. Videtur quod vir possit accipere crucem ad transfretandum ultra mare nolente uxore, etiam si de eius incontinentia timeatur.  
 
 Non debet enim homo praetermittere propriam salutem pro salute aliena; sed homo procurat salutem propriam per hoc quod crucesignatur, consequens plenam remissionem peccatorum; ergo non debet hoc praetermittere ut provideat saluti uxoris.  
 
@@ -104,7 +106,7 @@ Articulus 1
 
 ***De obedientia ad precepta praelatorum***
 
-***Ad primum sic proceditur. Videtur quod subditus non teneatur obedire praelatae praecipienti revelationem criminis occulti.***
+Ad primum sic proceditur. Videtur quod subditus non teneatur obedire praelatae praecipienti revelationem criminis occulti.  
 
 Nullus enim tenetur obedire alicui in hoc quod non subditur eius iudicio; sed occulta non subduntur iudicio humano, sed soli iudicio divino; ergo circa eorum revelationem nullus tenetur obedire praelato praecipienti.  
 
@@ -122,7 +124,7 @@ Articulus 2
 
 ***Circa dispensationem***
 
-***Ad secundum sic proceditur. Videtur quod Papa non possit dispensare in bigamiae irregularitate.***
+Ad secundum sic proceditur. Videtur quod Papa non possit dispensare in bigamiae irregularitate.  
 
 Non enim potest ab homine dispensari in his quae sunt *divinitus* instituta, ut Bernardus dicit in libro *De dispensatione et praecepto*; sed doctrina Apostoli, in qua continetur quod bigamus non promoveatur, ut patet I ad Timotheum III et Titum I, est divinitus promulgata, secundum illud Apostoli, II ad Timotheum ultimo: *an experimentum quaeritis eius qui in me loquitur Christus?* Ergo Papa non potest cum bigamis dispensare.  
 
@@ -138,7 +140,7 @@ Articulus 3
 
 ***Circa excommunicationem***
 
-***Ad tertium sic proceditur. Videtur quod non debeant vitari illi excommunicati circa quorum excommunicationem sapientes contraria opinantur.***
+Ad tertium sic proceditur. Videtur quod non debeant vitari illi excommunicati circa quorum excommunicationem sapientes contraria opinantur.  
 
 Quia, secundum iura, episcopus non potest auferre beneficium, quod clerico concessit, sine culpa; sed non minus debetur communio fidelium cuilibet fideli quam beneficium clerico sibi ab episcopo collatum; ergo nec communio fidelium est alicui subtrahenda sine culpa. Sed quando dubitatur an causa subsit, promptior debet esse animus boni viri ad interpretandum inmitiorem partem. Ergo, ex quo dubitatur de excommunicatione aliquorum, magis debet aliquis pro hoc stare quod non sunt excommunicati, et ita non debet eos vitare.  
 
@@ -156,7 +158,7 @@ Articulus 4
 
 ***Circa collationem beneficiorum***
 
-***Ad quartum sic proceditur. Videtur quod praelatus ecclesiae non possit ecclesiae curam committere suo consanguineo, quamvis idoneo, postposito meliori.***
+Ad quartum sic proceditur. Videtur quod praelatus ecclesiae non possit ecclesiae curam committere suo consanguineo, quamvis idoneo, postposito meliori.  
 
 Pater enim suae filiae quaerit sponsum quam maxime potest idoneum, et sponsus suae sponsae quaerit fidelissimum custodem pro posse; sed maior praelatus ad ecclesiam sibi subiectam comparatur vel sicut pater ad filiam vel sicut sponsus ad sponsam; ergo debet ei de persona idonea providere quantum melius potest.  
 
@@ -194,7 +196,7 @@ Articulus 1
 
 ***Utrum possit aliquis sine peccato appetere scire scientias magicas***
 
-***Ad primum sic proceditur. Videtur quod homo sine peccato possit appetere scire scientias magicas.***
+Ad primum sic proceditur. Videtur quod homo sine peccato possit appetere scire scientias magicas.  
 
 Non enim est peccatum appetere illud per quod ponitur intellectus hominis in optimo; sed per quamlibet scientiam ponitur intellectus hominis in optimo, quia verum est bonum intellectus, ut dicitur in VI *Ethicorum*, scientia autem verorum est; ergo homo potest licite appetere scire quamcumque scientiam, et ita sine peccato potest homo appetere scire scientias magicas.  
 
@@ -214,7 +216,7 @@ Articulus 2
 
 ***Utrum enuntiabile quod semel est verum, semper sit verum***
 
-***Ad secundum sic proceditur. Videtur quod non oportet enunciabile quod semel est verum, semper futurum esse verum.***
+Ad secundum sic proceditur. Videtur quod non oportet enunciabile quod semel est verum, semper futurum esse verum.  
 
 Si enim hoc esset verum in aliis enuntiabilibus, pari ratione hoc esset verum in enuntiabilibus de futuro; sed in istis hoc non est verum, quia, ut dicit Philosophus in II *De generatione*: *futurus quis incedere, non incedet*; ergo non oportet enunciabile quod semel est verum, semper esse futurum verum.  
 
@@ -234,9 +236,9 @@ Ad tertium dicendum quod diversitas consignificationis tollit nominis idemptitat
 
 Articulus 3  
 
-***Utrum magister determinando quaestiones theologicas magis debeat uti ratione vel auctoritate***
+Utrum magister determinando quaestiones theologicas magis debeat uti ratione vel auctoritate  
 
-***Ad tertium sic proceditur. Videtur quod magister determinans quaestiones theologicas magis debeat uti auctoritatibus quam rationibus.***
+Ad tertium sic proceditur. Videtur quod magister determinans quaestiones theologicas magis debeat uti auctoritatibus quam rationibus.  
 
 Quia in qualibet scientia quaestiones optimae determinantur per prima principia illius scientiae; sed prima principia scientiae theologicae sunt articuli fidei, qui nobis per auctoritates innotescunt; ergo maxime quaestiones theologicae sunt determinandae per auctoritates.  
 
@@ -274,7 +276,7 @@ Articulus 1
 
 ***Utrum aliquis absque perfecta caritate possit se ad martyrium offerre***
 
-***Ad primum sic proceditur. Videtur quod aliquis absque caritate perfecta possit se martyrio offerre.***
+Ad primum sic proceditur. Videtur quod aliquis absque caritate perfecta possit se martyrio offerre.  
 
 Quia, super illud Psalmi: *ideo dilexi mandata tua super aurum et topazion*, dicit Glossa quod minima *caritas* plus *diligit legem Dei quam . . . milia auri et argenti*, et eadem ratione, quam omnia temporalia; sed illud quod minus diligimus, exponimus pro eo quod magis diligimus; ergo et omnia temporalia et etiam propriam vitam potest exponere pro Christo qui habet minimam caritatem.  
 
@@ -290,7 +292,7 @@ Articulus 2
 
 ***Utrum sustinere martyrium pro Christo sit in praecepto***
 
-***Ad secundum sic proceditur. Videtur quod pati martyrium propter Christum non sit in praecepto.***
+Ad secundum sic proceditur. Videtur quod pati martyrium propter Christum non sit in praecepto.  
 
 Minus enim videtur quod homo det sua quam quod proprium corpus ponat, ut dicit Gregorius in illa homelia *Ego sum pastor bonus*; sed dimittere omnia sua propter Christum non cadit sub praecepto, sed sub consilio; ergo etiam exponere corpus suum martyrio non cadit sub praecepto.  
 
@@ -306,7 +308,7 @@ De malis
 
 ***De primis motibus***
 
-***Deinde quaesitum est de actibus malis, scilicet de primis motibus. Circa quos quaesita sunt duo:***
+Deinde quaesitum est de actibus malis, scilicet de primis motibus. Circa quos quaesita sunt duo:  
 
 primo, utrum primi motus semper sint peccata;  
 
@@ -340,7 +342,7 @@ Articulus 2
 
 ***Utrum in infidelibus sint peccata mortalia***
 
-***Ad secundum sic proceditur. Videtur quod primi motus in infidelibus sint peccata mortalia.***
+Ad secundum sic proceditur. Videtur quod primi motus in infidelibus sint peccata mortalia.  
 
 Quia, sicut Anselmus dicit in libro De gratia et libero arbitrio: *Eos qui non sunt in Christo* Iesu sequitur damnatio si sentiunt concupiscentiam, *etiamsi non* consentiant; sed sentire concupiscentiam est habere primum concupiscentiae motum; ergo infideles, qui non sunt in Christo Iesu, peccant mortaliter secundum primos motus, quia damnatio non debetur nisi peccato mortali.  
 
@@ -364,9 +366,9 @@ Ad secundum dicendum quod debitum originalis iustitiae pertinet ad ipsam persona
 
 ***Articulus 1***
 
-***Utrum pueri non exercitati in praeceptis sint recipiendi, vel obligandi voto vel iuramento, vel beneficiis alliciendi ad ingressum religionis***
+Utrum pueri non exercitati in praeceptis sint recipiendi, vel obligandi voto vel iuramento, vel beneficiis alliciendi ad ingressum religionis  
 
-***Quaestio est utrum pueri non exercitati in praeceptis sint recipiendi vel obligandi voto vel iuramento vel beneficiis alliciendi ad ingressum religionis. Et videtur quod non.***
+Quaestio est utrum pueri non exercitati in praeceptis sint recipiendi vel obligandi voto vel iuramento vel beneficiis alliciendi ad ingressum religionis. Et videtur quod non.  
 
 Perfectio enim consiliorum, ad quam ordinantur religiones, a Christo exordium sumpsit; sed Christus primo consilium perfectionis dedit adolescenti qui precepta servaverat, ut patet Matthaei XIX; ergo soli illi qui sunt exercitati in praeceptis sunt ad religionem obligandi vel recipiendi.  
 

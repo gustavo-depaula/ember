@@ -1,8 +1,10 @@
 # D. 42 - The Power of God
 
+***The Power of God***
+
 ***Division of the text***
 
-***Having considered God’s knowledge, here the Master, second, considers his power. And it is divided into two parts: in the first, the Master shows the universality of his power, insofar as he is called “omnipotent”; in the second, he excludes the error of certain ones who limit God’s power, at *but there are some who, glorying in their own intellect, have attempted to encompass God’s power within a limit*.*Sent*. I, 43.1(187).1.***
+Having considered God’s knowledge, here the Master, second, considers his power. And it is divided into two parts: in the first, the Master shows the universality of his power, insofar as he is called “omnipotent”; in the second, he excludes the error of certain ones who limit God’s power, at *but there are some who, glorying in their own intellect, have attempted to encompass God’s power within a limit*.*Sent*. I, 43.1(187).1.  
 
 The first is divided into two parts: in the first, he asks why God is said to be omnipotent; in the second, he considers the question, at *that God can do all things is proved by several authorities*.*Sent*. I, 42.1(184).1.  
 
@@ -32,7 +34,7 @@ Article 1
 
 ***Whether power belongs to God***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.25.1; *SCG* I.16; II.7; *On the Power of God*, q. 1, a. 1; q. 7, a. 1. It seems that power does not belong to God.***
+To the first we proceed as follows.Parallel texts: *ST* I.25.1; *SCG* I.16; II.7; *On the Power of God*, q. 1, a. 1; q. 7, a. 1. It seems that power does not belong to God.  
 
 Obj. 1: For just as first potency stands to act, so does the first act stand to power.As one can see here, in the third objection, and in the reply to the first objection below, there are really two sorts of *potentia*, and thus, “power” and “potency” here both translate the same word in Latin. Consequently, some interpretative choice is unavoidable in the translation, for in English, “power” nearly always means an active ability, the potential *to do* something, whereas “potency” (especially in philosophical contexts) usually has the sense of a passive ability, the potential for something *to be done* to it or *to be changed* into something. But of the first potency, which is matter, there is no act that belongs to its essence. Therefore neither is there any power of the first act, which is God.  
 
@@ -68,7 +70,7 @@ Article 2
 
 ***Whether there is only one power in God***
 
-***To the second we proceed as follows.*ST* I.25.1. It seems that there is not only one power in God.***
+To the second we proceed as follows.*ST* I.25.1. It seems that there is not only one power in God.  
 
 Obj. 1: For one and the same thing cannot be proper to one and common to many. But the power for creating is common to the three persons, but to generate is proper to the Father. Therefore the powers are different.  
 
@@ -100,7 +102,7 @@ Question 2
 
 ***Those things subject to the divine power***
 
-***Next, he asks about the things that are subject to the divine power. And about this, three things are asked:***
+Next, he asks about the things that are subject to the divine power. And about this, three things are asked:  
 
 first, whether God can do whatever anything else can do;  
 
@@ -112,7 +114,7 @@ Article 1
 
 ***Whether God can do whatever anything else can do***
 
-***To the first we proceed as follows.Parallel text: *ST* I.25.2; *On the Power of God*, q. 1, a. 6. It seems that God can do whatever anything else can do.***
+To the first we proceed as follows.Parallel text: *ST* I.25.2; *On the Power of God*, q. 1, a. 6. It seems that God can do whatever anything else can do.  
 
 Obj. 1: For every created power has his power as exemplar, just as everything good does as regards his goodness. But whatever is in the thing based on an exemplar is more truly and perfectly found in the first exemplar. Therefore God’s power extends to anything any created power can do.  
 
@@ -144,7 +146,7 @@ Article 2
 
 ***Whether God can do things that by nature are impossible***
 
-***To the second we proceed as follows.Parallel texts: *In III Sent*., d. 1, q. 2, a. 3; *ST* I.25.3, 4; II-II.152.3, ad 3; III.13.1; *SCG* II.22, 25; *On the Power of God*, q. 1, a. 3, ad 9; a. 7; q. 5, a. 3; *Quodl. III*, q. 1, a. 1; *V*, q. 2, a. 1; *XII*, q. 2, a. 1; *Commentary on the Nicomachean Ethics*, bk. 6, lect. 2. It seems that God cannot do things that are by nature impossible.***
+To the second we proceed as follows.Parallel texts: *In III Sent*., d. 1, q. 2, a. 3; *ST* I.25.3, 4; II-II.152.3, ad 3; III.13.1; *SCG* II.22, 25; *On the Power of God*, q. 1, a. 3, ad 9; a. 7; q. 5, a. 3; *Quodl. III*, q. 1, a. 1; *V*, q. 2, a. 1; *XII*, q. 2, a. 1; *Commentary on the Nicomachean Ethics*, bk. 6, lect. 2. It seems that God cannot do things that are by nature impossible.  
 
 Obj. 1: For, as the Commentator says,Averroes, *Commentary on the Metaphysics*, bk. 8, com. 4. every alteration is due to some bodily agent. But God is an incorporeal agent. Therefore it seems that no alteration occurring in a lower created thing can be from God except by the mediation of a higher body’s motion, that of the unaltered first altering agent. But nothing impossible by nature can occur by the mediation of that motion. Therefore God can do nothing impossible by nature.  
 
@@ -190,7 +192,7 @@ Article 3
 
 ***Whether something should be judged impossible in reference to lower causes***
 
-***To the third we proceed as follows.Parallel text: *On the Power of God*, q. 1, a. 4. It seems that a thing should not be judged impossible simply speaking in reference to lower causes.***
+To the third we proceed as follows.Parallel text: *On the Power of God*, q. 1, a. 4. It seems that a thing should not be judged impossible simply speaking in reference to lower causes.  
 
 Obj. 1: For in 1 Corinthians 1:20, which says, *has not God made foolish the wisdom of the world?*, a Gloss says: *God has made the wisdom of this world into foolishness, showing that what it judged to be impossible is possible*.*Glossa ordinaria*, at 1 Corinthians 1:20, 6.203. But the wisdom of this world judges something impossible in reference to lower causes. Therefore it seems that it is foolish to say this.  
 
@@ -212,7 +214,7 @@ Reply Obj. 2–3: And through this, the response to the other objections is clea
 
 Exposition of the text  
 
-****‘God could do all things at once, but reason,’ that is, his will, ‘forbade it*.’*Sent*. I, 42.1(184).1, quoting Ambrosiaster, *Quaestiones veteris et novi Testamenti*, q. 106, para. 18 (CSEL 50:244; PL 35:2320). Lombard attributes the text to Augustine. Not only such that he might establish all species, but even all the individuals of these species that occur in the whole of time. *But reason forbade this*, not because of the contrariety among the species, but because of their incompatibility. For it cannot be that God would do anything and that that would be irrational. Whence reason is oriented as determining the work, and the power as executing it.***
+*‘God could do all things at once, but reason,’ that is, his will, ‘forbade it*.’*Sent*. I, 42.1(184).1, quoting Ambrosiaster, *Quaestiones veteris et novi Testamenti*, q. 106, para. 18 (CSEL 50:244; PL 35:2320). Lombard attributes the text to Augustine. Not only such that he might establish all species, but even all the individuals of these species that occur in the whole of time. *But reason forbade this*, not because of the contrariety among the species, but because of their incompatibility. For it cannot be that God would do anything and that that would be irrational. Whence reason is oriented as determining the work, and the power as executing it.  
 
 *This would not be a matter of power, but of weakness*.*Sent*. I, 42.2(185).2. Dionysius says this as well,Pseudo-Dionysius, *On the Divine Names*, ch. 8, para. 6 (PG 3:894). and presents an example when something is said to be a non-being; for this very thing is and is not. So too to be able to fall short from what is possible in a perfect way is not to be able to do something, simply speaking.  
 

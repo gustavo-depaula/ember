@@ -1,8 +1,10 @@
 # D. 32 - Comparison of the divine persons according to things proper or appropriated
 
+***De comparatione divinarum personarum secundum propria vel appropriata***
+
 ***Divisio textus***
 
-***Postquam determinavit de propriis et appropriatis personarum, hic inquirit qualiter ad invicem divinae personae comparentur secundum propria vel appropriata; et dividitur in partes tres: in prima ostendit qualiter comparentur secundum proprium vel appropriatum Spiritui Sancto; in secunda qualiter comparentur secundum proprium vel appropriatum Filii, ibi: *praeterea diligenter investigari oportet, utrum Pater sapiens sit sapientia quam genuit*; in tertia inquirit qualiter comparentur secundum utrumque simul, scilicet de uno per comparationem ad alterum, ibi: *praeterea diligenter notandum est*.***
+Postquam determinavit de propriis et appropriatis personarum, hic inquirit qualiter ad invicem divinae personae comparentur secundum propria vel appropriata; et dividitur in partes tres: in prima ostendit qualiter comparentur secundum proprium vel appropriatum Spiritui Sancto; in secunda qualiter comparentur secundum proprium vel appropriatum Filii, ibi: *praeterea diligenter investigari oportet, utrum Pater sapiens sit sapientia quam genuit*; in tertia inquirit qualiter comparentur secundum utrumque simul, scilicet de uno per comparationem ad alterum, ibi: *praeterea diligenter notandum est*.  
 
 Circa primum duo facit: primo movet quaestionem; secundo determinat eam, ibi: *huic quaestioni . . . id solum respondemus*.  
 
@@ -118,7 +120,7 @@ Articulus 3
 
 ***Utrum Pater et Filius diligant nos Spiritu Sancto***
 
-***Ad tertium sic proceditur. Videtur quod Pater et Filius non diligant nos Spiritu Sancto.***
+Ad tertium sic proceditur. Videtur quod Pater et Filius non diligant nos Spiritu Sancto.  
 
 Omne enim dictum de Deo connotans effectum in creatura, est essentiale. Sed cum Deus dicitur creaturam diligere, in dilectione connotatur effectus in creatura, quem diligendo confert. Ergo oportet quod essentialiter sumatur. Sed dictum est, quod Pater et Filius nullo modo diligunt Spiritu Sancto, si diligere essentialiter sumatur; quia Spiritus Sanctus nullam rationem habet principii respectu alicujus essentialis, neque per modum denominantis, neque alio modo. Ergo videtur quod Pater et Filius non diligunt nos Spiritu Sancto.  
 
@@ -186,7 +188,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Filius non sit sapiens sapientia genita.***
+Ad secundum sic proceditur. Videtur quod Filius non sit sapiens sapientia genita.  
 
 Filius enim non alio est sapiens quam Pater, sicut nec alio est Deus. Sed Pater est sapiens sapientia essentiali. Ergo et Filius sapientia essentiali sapiens est. Sed sapientiaAl.: *essentialiter*. essentialis non est genita, sicut nec essentia. Ergo, etc.  
 
@@ -206,7 +208,7 @@ Contra, omnis sapiens, illa sapientia sapiens dicitur a qua habet quod sit sapie
 
 Solutio 1  
 
-***Respondeo dicendum, quod istae praepositiones, “a” et “per,” in hoc differunt; quia “a” designat tantum habitudinem principii per modum efficientis; sed “per” designat habitudinem principii secundum quodlibet genus causae; unde omne illud quod est ab aliquo, est per illud, sed non convertitur. In divinis autem non potest esse nisi habitudo secundum duplex genus causae; quarum una tantum est habitudo realis, scilicet per modum causae efficientis vel originantis, sicut Pater dicitur principium Filii; alia vero habitudo principii potest designari in divinis secundum rationem tantum et non realiter, scilicet habitudo formae ut cum dicimus quod Pater est Deus per Deitatem suam.***
+Respondeo dicendum, quod istae praepositiones, “a” et “per,” in hoc differunt; quia “a” designat tantum habitudinem principii per modum efficientis; sed “per” designat habitudinem principii secundum quodlibet genus causae; unde omne illud quod est ab aliquo, est per illud, sed non convertitur. In divinis autem non potest esse nisi habitudo secundum duplex genus causae; quarum una tantum est habitudo realis, scilicet per modum causae efficientis vel originantis, sicut Pater dicitur principium Filii; alia vero habitudo principii potest designari in divinis secundum rationem tantum et non realiter, scilicet habitudo formae ut cum dicimus quod Pater est Deus per Deitatem suam.  
 
 Cum ergo dicitur quod Filius est sapiens sapientia genita,Pama omits *genita*. ablativus iste non potest construi nisi vel in aliqua habitudine quasi efficientis, et sic falsa est; est enim sensus, quod Filius sit sapiens a sapientia genita, et sit sapiens a seipso, quod falsum est; quia sicut esse, ita et sapere habet a Patre, qui Sapientia ingenita est. Unde dicitur per modum istum sapiens a Sapientia ingenita, vel perAl. omit *per*. Sapientiam ingenitam, si ly “per” designat habitudinem principii efficientis; et similiter a Sapientia ingenita; non autem a se vel per se vel seipso hoc modo sapiens est.  
 
@@ -224,11 +226,11 @@ Et quartum concedimus.
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum, quod Filius est sapiens sapientia ingenita, si ablativus construatur in habitudine principii quasi efficientis; non autem si construatur in habitudine principii quasi formalis; immo sic sapientia essentiali sapiens est, vel seipso.***
+Ad id quod ulterius quaeritur, dicendum, quod Filius est sapiens sapientia ingenita, si ablativus construatur in habitudine principii quasi efficientis; non autem si construatur in habitudine principii quasi formalis; immo sic sapientia essentiali sapiens est, vel seipso.  
 
 Expositio textus  
 
-****Quidam dicunt, multiplicem hic fieri intelligentiam*. Jam patet ratio istarum opinionum; quia primi accipiebant hanc praepositionem “per” secundum quod communiter designat habitudinem cujuscumque principii; alii vero accipiebant secundum quod quasi condividitur contra hanc praepositionem “a” vel “ab,” quae designat habitudinem principii efficientis: unde secundum hoc haec praepositio “per” designat habitudinem in divinis quasi formae; et sic simpliciter concedebant, quod Filius per se sapiens est.***
+*Quidam dicunt, multiplicem hic fieri intelligentiam*. Jam patet ratio istarum opinionum; quia primi accipiebant hanc praepositionem “per” secundum quod communiter designat habitudinem cujuscumque principii; alii vero accipiebant secundum quod quasi condividitur contra hanc praepositionem “a” vel “ab,” quae designat habitudinem principii efficientis: unde secundum hoc haec praepositio “per” designat habitudinem in divinis quasi formae; et sic simpliciter concedebant, quod Filius per se sapiens est.  
 
 *Natura, inquit, cui contradicis, haec veritas est*. In verbis istis Hilarius ostendere intendit, quod Filius non agit a se, sed agit per se, ex duabus auctoritatibus, quarum una habetur Joan. 14:10: *Pater in me manens, ipse facit opera*; ex quo concludit quod non a se agit, sed a Patre in ipso manente. Alia est Joan. 8:29: *quae placita sunt ei, facio semper*; ex qua concludit quod ipsemet agit per seipsum; unde subdit: *infirmus sit non a se agendo*; idest cum hocMandonnet notes that the text perhaps reads *ex hoc*. quod a seipso non agit sequeretur quod esset infirmus, *nisi a Deo ipse acciperet*; id est, nisi hoc a Deo Patre haberet ut ipse ageret sicut hypostasis per se subsistens et per se operans.  
 

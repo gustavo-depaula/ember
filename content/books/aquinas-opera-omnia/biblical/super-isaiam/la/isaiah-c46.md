@@ -1,5 +1,7 @@
 # Chapter 44
 
+***^44:1^ Et nunc audi Jacob serve meus et Israel quem elegi.***
+
 > ^44:2^ Hæc dicit Dominus faciens et formans te, ab utero auxiliator tuus: noli timere serve meus Jacob et rectissime quem elegi.
 
 > ^44:3^ Effundam enim aquas super sitientem et fluenta super aridam. Effundam spiritum meum super semen tuum et benedictionem meam super stirpem tuam.

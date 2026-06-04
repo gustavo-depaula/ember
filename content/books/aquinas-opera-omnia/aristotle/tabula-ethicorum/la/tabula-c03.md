@@ -1,5 +1,7 @@
 # Chapter 3
 
+***Vox 1***
+
 ***Caymus***
 
 ***Quod caymus dignificat se magnis indignus existens.***
@@ -12,7 +14,7 @@ Vox 2
 
 ***Canes***
 
-***Quod canes odore non gaudent leporum, set cibacione que sibi presentatur per odorem.***
+Quod canes odore non gaudent leporum, set cibacione que sibi presentatur per odorem.  
 
 Vox 3  
 
@@ -30,25 +32,25 @@ Vox 5
 
 ***Cause***
 
-***Quod cause uidentur esse quatuor, scilicet natura, necessitas, fortuna et intellectus.***
+Quod cause uidentur esse quatuor, scilicet natura, necessitas, fortuna et intellectus.  
 
 Vox 6  
 
 ***Citharedus***
 
-***Quod sicut citharizando efficitur quis citharedus, sic iusta faciendo iustus et sic de aliis.***
+Quod sicut citharizando efficitur quis citharedus, sic iusta faciendo iustus et sic de aliis.  
 
 Vox 7  
 
 ***Cecus***
 
-***Quod ceco naturaliter uel ex infirmitate uel plaga nullus improperabit, set magis miserebitur; set eum qui ex uini potacione uel alia utique incontinencia, omnis utique increpabit.***
+Quod ceco naturaliter uel ex infirmitate uel plaga nullus improperabit, set magis miserebitur; set eum qui ex uini potacione uel alia utique incontinencia, omnis utique increpabit.  
 
 Vox 8  
 
 ***Castrimargi***
 
-***Quod castrimargi uocantur qui preter indigenciam replent uentrem et supra debitam sibi quantitatem assumunt et tales sunt multum bestiales.***
+Quod castrimargi uocantur qui preter indigenciam replent uentrem et supra debitam sibi quantitatem assumunt et tales sunt multum bestiales.  
 
 Vox 9  
 
@@ -60,13 +62,13 @@ Vox 10
 
 ***Cibi delectacio***
 
-***Quod cibi delectacio est communis et naturalis a natura communi, quia omnis homo quandoque appetit cibum quando famescit, et quandoque humidum quando sitit, et quandoque utrumque.***
+Quod cibi delectacio est communis et naturalis a natura communi, quia omnis homo quandoque appetit cibum quando famescit, et quandoque humidum quando sitit, et quandoque utrumque.  
 
 Vox 11  
 
 ***Causa***
 
-***Quod si nullus sibi est causa eius quod est malefacere, sic nec eius quod est benefacere.***
+Quod si nullus sibi est causa eius quod est malefacere, sic nec eius quod est benefacere.  
 
 Vox 12  
 
@@ -112,7 +114,7 @@ Vox 16
 
 ***Consilium***
 
-***Quod nullus consiliatur de eternis, puta de mundo utrum eternus et de costa et dyametro, neque de hiis que in motu que semper eodem modo sunt.***
+Quod nullus consiliatur de eternis, puta de mundo utrum eternus et de costa et dyametro, neque de hiis que in motu que semper eodem modo sunt.  
 
 Quod consilium est de operabilibus que sunt in nobis.  
 
@@ -158,7 +160,7 @@ Vox 17
 
 ***Consiliator***
 
-***Quod consiliator bonus est qui est coniectatiuus optimi homini operabilium secundum raciocinacionem.***
+Quod consiliator bonus est qui est coniectatiuus optimi homini operabilium secundum raciocinacionem.  
 
 Vox 18  
 
@@ -170,7 +172,7 @@ Vox 19
 
 ***Ciuilis***
 
-***Quod ciuilis est ordinare unumquemque quales de numero disciplinarum debeat addiscere.***
+Quod ciuilis est ordinare unumquemque quales de numero disciplinarum debeat addiscere.  
 
 Quod ciuilis habet sub se preciosissimas arcium, utputa militarem, yconomicam et rethoricam.  
 
@@ -186,13 +188,13 @@ Vox 20
 
 ***Conueniencia***
 
-***De conueniencia speculatiui et practici intellectus, quia uterque est extremorum, et non racio.***
+De conueniencia speculatiui et practici intellectus, quia uterque est extremorum, et non racio.  
 
 Vox 21  
 
 ***Continuum***
 
-***Quod in omni continuo diuisibili est accipere, hoc quidem plus, hoc autem minus, hoc uero equale.***
+Quod in omni continuo diuisibili est accipere, hoc quidem plus, hoc autem minus, hoc uero equale.  
 
 Vox 22  
 
@@ -232,7 +234,7 @@ Vox 24
 
 ***Comestio carbonum***
 
-***Quod comestio carbonum et terre et masculorum concubitus omnia accidunt propter perniciosam naturam et consuetudinem, et horum non est continencia proprie cum non sint per se delectabilia nature humane.***
+Quod comestio carbonum et terre et masculorum concubitus omnia accidunt propter perniciosam naturam et consuetudinem, et horum non est continencia proprie cum non sint per se delectabilia nature humane.  
 
 Vox 25  
 
@@ -244,7 +246,7 @@ Vox 26
 
 ***Consuetudo***
 
-***Quod consuetudo est difficilis, quoniam nature assimulatur. Unde: diuturna meditacio immanet et cum uenit ad perfectum est natura hominibus.***
+Quod consuetudo est difficilis, quoniam nature assimulatur. Unde: diuturna meditacio immanet et cum uenit ad perfectum est natura hominibus.  
 
 Vox 27  
 
@@ -256,7 +258,7 @@ Vox 28
 
 ***Contemplacio***
 
-***Quod contemplacio sapiencie sola propter se ipsum diligitur, quia nichil ab ipso fit nisi speculari; set in operabilibus querimus aliud quod acquirimus per opus.***
+Quod contemplacio sapiencie sola propter se ipsum diligitur, quia nichil ab ipso fit nisi speculari; set in operabilibus querimus aliud quod acquirimus per opus.  
 
 Quod contemplatiuus est felicissimus.  
 

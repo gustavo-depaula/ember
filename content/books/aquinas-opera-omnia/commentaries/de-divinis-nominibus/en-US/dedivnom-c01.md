@@ -1,5 +1,7 @@
 # Prooemium
 
+For the understanding of the books of blessed Denys, it must be considered that those things that are contained in the Sacred Scriptures concerning God divide artfully into four parts.  
+
 For in a certain book, which is not had among us, which is entitled *On the Divine Hypotyposes*, that is, characters, he treats those things concerning God that pertain to the unity of the divine essence and the distinction of persons. Of which unity and distinction a sufficient likeness is not found in created things, but this mystery exceeds every faculty of natural reason.  
 
 Whereas those things that are said of God in the Scriptures, of which a likeness is found in creatures, have themselves in two ways. For a likeness of this sort in certain things is considered according to something that is derived from God into creatures. Just as from the first good are all good things and from the first life are all living things and thus concerning other similar things. And such things Denys treats thoroughly in the book *On the Divine Names*, which we have before our hands.  

@@ -1,5 +1,7 @@
 # Chapter 28
 
+^28:1^ Væ coronæ superbiæ, ebriis Ephraim et flori decidenti gloriæ exsultationis ejus, qui erant in vertice vallis pinguissimæ errantes a vino.  
+
 > ^28:2^ Ecce validus et fortis Dominus sicut impetus grandinis, turbo confringens, sicut impetus aquarum multarum inundantium et emissarum super terram spatiosam.
 
 > ^28:3^ Pedibus conculcabitur corona superbiæ ebriorum Ephraim.

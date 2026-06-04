@@ -1,8 +1,10 @@
 # D. 23 - The virtues and faith
 
+***The virtues and faith***
+
 ***Division of the text***
 
-***After the Master has examined those things pertaining to Christ by which we have been restored efficiently, here he begins to study things that restore us formally, which are the habits informing the soul by grace.***
+After the Master has examined those things pertaining to Christ by which we have been restored efficiently, here he begins to study things that restore us formally, which are the habits informing the soul by grace.  
 
 Now, this part is divided into two parts.  
 
@@ -104,7 +106,7 @@ Article 1
 
 ***Whether we need habits in human operating***
 
-***To the first we proceed thus.Parallel texts: *ST* I-II.49.4; *De veritate,* q. 20, a. 2; *De virtutibus*, a. 1. It seems that we do not need habits in human activity.***
+To the first we proceed thus.Parallel texts: *ST* I-II.49.4; *De veritate,* q. 20, a. 2; *De virtutibus*, a. 1. It seems that we do not need habits in human activity.  
 
 Obj. 1: For the rational powers that belong to humans as humans, are nobler than natural powers. But natural powers do not need habits in order to produce their acts. Therefore, neither do the rational human powers.  
 
@@ -146,7 +148,7 @@ Article 2
 
 ***Whether a habit existing in us can be known***
 
-***To the second we proceed thus.Parallels: *ST* I.87.2; *De veritate*, q. 10, a. 9; *Quodl.* VIII, a. 4. It seems that a habit existing in us cannot be known.***
+To the second we proceed thus.Parallels: *ST* I.87.2; *De veritate*, q. 10, a. 9; *Quodl.* VIII, a. 4. It seems that a habit existing in us cannot be known.  
 
 Obj. 1: For among the other habits, charity is pre-eminent. But someone who has charity does not know that he has it, for *no one knows whether he is worthy of love or of hatred*, as it says in Ecclesiastes 9:1. Therefore, no one can know his other habits either.  
 
@@ -200,7 +202,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: *In II Sent*., d. 27, a. 1; *ST* I-II.55.1–3; *De virtutibus*, a. 1; *Sent. Ethic.* II, lect. 5. It seems that virtues are not habits, but powers.***
+To the third we proceed thus.Parallels: *In II Sent*., d. 27, a. 1; *ST* I-II.55.1–3; *De virtutibus*, a. 1; *Sent. Ethic.* II, lect. 5. It seems that virtues are not habits, but powers.  
 
 Obj. 1: For no thing has being by a habit, but by a natural power. But all things have the virtue of being either forever, or for a determinate time, as it says in *On the Heavens* 1.Aristotle, *On the Heavens* 1.12, 283a7; Aquinas, *De Caelo*, bk. 1, lect. 29, n. 3. Therefore, virtue is not a habit.  
 
@@ -214,7 +216,7 @@ Furthermore, powers are from nature, and common to all, but that is not the case
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that virtues are passions or emotions. For the mean and the extremes are of one genus. But some virtues are a mean within the emotions, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.7, 1108a30–b2. Therefore, at least those virtues are emotions.***
+Obj. 1: Moreover, it seems that virtues are passions or emotions. For the mean and the extremes are of one genus. But some virtues are a mean within the emotions, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.7, 1108a30–b2. Therefore, at least those virtues are emotions.  
 
 Obj. 2: Furthermore, it is a property of virtue to be praiseworthy. But some emotions are praiseworthy, like modesty, repentance, and the like. Therefore, at least certain emotions are virtues.  
 
@@ -224,7 +226,7 @@ On the contrary, it is required for any virtue that it be a voluntary thing, who
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that virtues are not habits, but acts. For we merit by our virtues alone. But we do not merit except by our acts, for it is not the best and the strongest who are crowned, but the competitors who win, as it says in the *Ethics* 1.Aristotle, *Nicomachean Ethics* 1.8, 1099a3–6. Therefore, virtues are acts.***
+Obj. 1: Moreover, it seems that virtues are not habits, but acts. For we merit by our virtues alone. But we do not merit except by our acts, for it is not the best and the strongest who are crowned, but the competitors who win, as it says in the *Ethics* 1.Aristotle, *Nicomachean Ethics* 1.8, 1099a3–6. Therefore, virtues are acts.  
 
 Obj. 2: Furthermore, a virtue is the furthest extent of a power, as it says in *On the Heavens* 1.Aristotle, *On the Heavens* 1.11, 281a7; Aquinas, *De Caelo*, bk. 1, lect. 25, n. 4. But the last perfection of a power is an act. Therefore, a virtue is an act.  
 
@@ -236,7 +238,7 @@ Furthermore, Augustine saysAugustine, *Contra Iulianum*, bk. 4, ch. 8, n. 48 (PL
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the word *virtus*, according to its first imposition, seems to imply a certain violence, which is why in *On the Heavens* 3,Aristotle, *On the Heavens* 3.2, 301b18; Aquinas, *De Caelo*, bk. 3, lect. 7, n. 5. it says that incidental movement, that is, violent movement, is what comes from *virtus*,Or "strength," or "power." that is, by violence, not with the help of nature. But something cannot impose violence on something else unless it has a perfect power, so that it acts and is not acted upon; and for this reason, the name *virtus* has been expanded into meaning every perfect power by which something can either subsist in itself, or by which it can work. Accordingly, it says in *On the Heavens* 1,Aristotle, *On the Heavens* 1.11, 281a7. that a *virtus* is the furthest extent of a power: because the perfection of a power is measured by the last and greatest that it can do. Now, badness in an act happens from a defect in the power that is acting, and therefore, the perfection of a power requires that it work well in its genus. And this is why it says in the *Ethics* 2Aristotle, *Nicomachean Ethics* 2.6, 1106a15–16. that *virtus* or virtue is what makes the one who has it good and renders his work good, and in the *Physics* 6Aristotle, *Physics* 7.3, 246b23; Aquinas, *In Physic.*, bk. 7, lect. 5, n. 6. it says that virtue is the disposition of some complete thing to its best, in those things that a power extends to. And since we are speaking of human virtues, human virtue will be what perfects or completes a human power for a good act and for its best. However, since a human being is human by having reason and understanding, the human powers are the ones that are rational in some way, either by their essence, like the ones in the intellective part, or by participation, like the ones that are in the sensitive part obeying reason. Now, as was said before, these powers cannot be determined to good acts by the nature of the power, and in fact, they cannot be perfectly determined except by a habit. Therefore, human virtues, which is what we are speaking about, are not powers but habits.***
+To the first question, I answer that the word *virtus*, according to its first imposition, seems to imply a certain violence, which is why in *On the Heavens* 3,Aristotle, *On the Heavens* 3.2, 301b18; Aquinas, *De Caelo*, bk. 3, lect. 7, n. 5. it says that incidental movement, that is, violent movement, is what comes from *virtus*,Or "strength," or "power." that is, by violence, not with the help of nature. But something cannot impose violence on something else unless it has a perfect power, so that it acts and is not acted upon; and for this reason, the name *virtus* has been expanded into meaning every perfect power by which something can either subsist in itself, or by which it can work. Accordingly, it says in *On the Heavens* 1,Aristotle, *On the Heavens* 1.11, 281a7. that a *virtus* is the furthest extent of a power: because the perfection of a power is measured by the last and greatest that it can do. Now, badness in an act happens from a defect in the power that is acting, and therefore, the perfection of a power requires that it work well in its genus. And this is why it says in the *Ethics* 2Aristotle, *Nicomachean Ethics* 2.6, 1106a15–16. that *virtus* or virtue is what makes the one who has it good and renders his work good, and in the *Physics* 6Aristotle, *Physics* 7.3, 246b23; Aquinas, *In Physic.*, bk. 7, lect. 5, n. 6. it says that virtue is the disposition of some complete thing to its best, in those things that a power extends to. And since we are speaking of human virtues, human virtue will be what perfects or completes a human power for a good act and for its best. However, since a human being is human by having reason and understanding, the human powers are the ones that are rational in some way, either by their essence, like the ones in the intellective part, or by participation, like the ones that are in the sensitive part obeying reason. Now, as was said before, these powers cannot be determined to good acts by the nature of the power, and in fact, they cannot be perfectly determined except by a habit. Therefore, human virtues, which is what we are speaking about, are not powers but habits.  
 
 Reply Obj. 1: The natural power by which someone is able to exist is determined to one thing: being. Therefore, the perfection of this kind of power is able to exist by the very nature of the power, and thus the power itself is called *virtus*. And other natural powers are called the same way. However, it is different with rational powers, which extend to several things.  
 
@@ -246,7 +248,7 @@ Reply Obj. 3: *Vis*, force, is taken for anything that is the principle of a per
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the notion of an emotion is contrary to the notion of virtue because virtue implies the perfection of a power, as was said. Now, every emotion happens from the fact that what is acted upon is overcome by what is acting, and it is drawn toward the extremes of what is acting. This is why an emotion cannot be called a virtue. But the perfection of a power consists in the fact that it does not allow itself to be drawn into something else, except what is appropriate for it. Thus, it belongs to virtue to restrain a power from being immoderately distracted by emotions. And therefore virtue is not an emotion, but what orders emotions.***
+To the second question, it should be said that the notion of an emotion is contrary to the notion of virtue because virtue implies the perfection of a power, as was said. Now, every emotion happens from the fact that what is acted upon is overcome by what is acting, and it is drawn toward the extremes of what is acting. This is why an emotion cannot be called a virtue. But the perfection of a power consists in the fact that it does not allow itself to be drawn into something else, except what is appropriate for it. Thus, it belongs to virtue to restrain a power from being immoderately distracted by emotions. And therefore virtue is not an emotion, but what orders emotions.  
 
 Reply Obj. 1: Virtue is called a mean in emotions actively, inasmuch as it draws emotions back to the mean. Therefore it is not necessary that it be in the genus of emotions.  
 
@@ -256,7 +258,7 @@ Reply Obj. 3: Sin implies a defect in the power of the one acting. This is why e
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that virtue, properly speaking, includes a relationship to whatever action it is the principle of, for example, running or eating. But an action, because of the kind of thing it is, is the last thing, so it is not ordered to anything as its effect. For this reason, a virtue cannot be called an act, except in a manner of speaking, in which habits are named by their acts as causes are named by their effects. And this was discussed more fully in Book II.*In II Sent*., d. 27, q. 1, a. 1.***
+To the third question, it should be said that virtue, properly speaking, includes a relationship to whatever action it is the principle of, for example, running or eating. But an action, because of the kind of thing it is, is the last thing, so it is not ordered to anything as its effect. For this reason, a virtue cannot be called an act, except in a manner of speaking, in which habits are named by their acts as causes are named by their effects. And this was discussed more fully in Book II.*In II Sent*., d. 27, q. 1, a. 1.  
 
 Reply Obj. 1: We merit both by habits and by acts, but by acts as the instruments of meriting, because merits are essentially acts; while we merit by habits as the principles of merit. And that is how we are said to merit by virtues.  
 
@@ -270,7 +272,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallels: *ST* I-II.57.1; *De virtutibus,* a. 7. It seems that intellectual habits cannot be called virtues.***
+To the fourth we proceed thus.Parallels: *ST* I-II.57.1; *De virtutibus,* a. 7. It seems that intellectual habits cannot be called virtues.  
 
 Obj. 1: For, as it says in the *Ethics* 2,Aristotle, *Nicomachean Ethics* 2.6, 1106b36; 2.3, 1104b27–29. virtue is a voluntary habit, and works toward the best in matters of pleasure and sadness. But this does not apply to intellectual habits. Therefore, they are not virtues.  
 
@@ -286,7 +288,7 @@ Furthermore, what makes something to be a certain way, is that way even more.Ari
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that moral virtues are not distinguished from intellectual ones.Parallels: *ST* I-II.58.1–2; *De virtutibus*, a. 12; *Sent. Ethic*. I, lect. 20; II, lect. 1. For moral virtues are named from “mores,” which seem to be the same thing as custom, or hardly different, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.1, 1103a17. But custom brings an ease, as Victorinus says,Marius Victorinus, *Explanationes in Ciceronis rhetoricam*, bk.1, ch. 2. and the ease of custom is just as evident in things to be done as in things to be considered. Therefore, moral virtues should not be distinguished from intellectual ones.***
+Obj. 1: Moreover, it seems that moral virtues are not distinguished from intellectual ones.Parallels: *ST* I-II.58.1–2; *De virtutibus*, a. 12; *Sent. Ethic*. I, lect. 20; II, lect. 1. For moral virtues are named from “mores,” which seem to be the same thing as custom, or hardly different, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.1, 1103a17. But custom brings an ease, as Victorinus says,Marius Victorinus, *Explanationes in Ciceronis rhetoricam*, bk.1, ch. 2. and the ease of custom is just as evident in things to be done as in things to be considered. Therefore, moral virtues should not be distinguished from intellectual ones.  
 
 Obj. 2: Furthermore, nothing pertains to moral knowledge but what is moral. But intellectual virtues do pertain to it, which the Philosopher determines in the *Ethics* 6.Aristotle, *Nicomachean Ethics* 6.5, 1140a24–b30. Therefore, intellectual virtues are moral.  
 
@@ -300,7 +302,7 @@ Furthermore, there are different perfections for different perfectable things. B
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the theological virtues ought not to be distinguished from one another.Parallels: *ST* I-II.62.1–2; *De veritate*, q. 14, a. 3, ad 9; *De virtutibus*, aa. 10, 12. For a power does not need a habit added over and above its nature for those things that it is naturally determined to. But the knowledge of God is naturally implanted in all, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 1, ch. 1 (*Patrologia Graeca* [PG] 94:790). and similarly the desire of the highest good, as Boethius says in the *Consolation of Philosophy*.Boethius, *Consolation of Philosophy*, bk. 4, prose 2, para. 23 (CCSL 94; PL 63:792). Therefore we do not need any virtues with God as their object, which is said to pertain to the theological virtues.***
+Obj. 1: Moreover, it seems that the theological virtues ought not to be distinguished from one another.Parallels: *ST* I-II.62.1–2; *De veritate*, q. 14, a. 3, ad 9; *De virtutibus*, aa. 10, 12. For a power does not need a habit added over and above its nature for those things that it is naturally determined to. But the knowledge of God is naturally implanted in all, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 1, ch. 1 (*Patrologia Graeca* [PG] 94:790). and similarly the desire of the highest good, as Boethius says in the *Consolation of Philosophy*.Boethius, *Consolation of Philosophy*, bk. 4, prose 2, para. 23 (CCSL 94; PL 63:792). Therefore we do not need any virtues with God as their object, which is said to pertain to the theological virtues.  
 
 Obj. 2: Furthermore, while we consider the enjoyment of God to be the last end of all human acts, the philosophers considered it to be happiness. But they did not posit any virtues that would have happiness as their object. Therefore neither do we need any virtues with God as their object.  
 
@@ -314,7 +316,7 @@ Furthermore, God is more distant from creatures than any two creatures from each
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, as is clear from what has been said,Above, a. 3, resp. 1. virtue is a habit that perfects a human power for a good act. However, there are two ways that a certain act may be called good: either formally and *per se*; or materially and *per accidens*. For since an act receives its form from its proper object, that act is called good formally whose object is good according to the notion of good. And since good is the object of the will, an act cannot be called good in this way unless it is an act of the will, or of the appetitive part. Now, an act is called good materially if it is appropriate to the power acting, although its object may not be good under the notion of good, for example, when someone understands well or the eye sees clearly. And thus it is that the will commands the acts of the other powers, inasmuch as their acts are materially related to the notion of the good, which is the object of the will. And according to this, some of the formal goodness of the will reaches the other acts that are commanded by the will, according to which they are meritorious and praiseworthy, as when someone considers or walks from a right intention. Nevertheless, this goodness is outside the proper account of the act according to its own species. For it can happen that the act of a certain non-appetitive power is good by the goodness of the will, but not by the goodness of its own genus, just as, for example, when someone walks limping for the sake of God, or considers with a good intention the things that he is stupid at.***
+To the first question, I answer that, as is clear from what has been said,Above, a. 3, resp. 1. virtue is a habit that perfects a human power for a good act. However, there are two ways that a certain act may be called good: either formally and *per se*; or materially and *per accidens*. For since an act receives its form from its proper object, that act is called good formally whose object is good according to the notion of good. And since good is the object of the will, an act cannot be called good in this way unless it is an act of the will, or of the appetitive part. Now, an act is called good materially if it is appropriate to the power acting, although its object may not be good under the notion of good, for example, when someone understands well or the eye sees clearly. And thus it is that the will commands the acts of the other powers, inasmuch as their acts are materially related to the notion of the good, which is the object of the will. And according to this, some of the formal goodness of the will reaches the other acts that are commanded by the will, according to which they are meritorious and praiseworthy, as when someone considers or walks from a right intention. Nevertheless, this goodness is outside the proper account of the act according to its own species. For it can happen that the act of a certain non-appetitive power is good by the goodness of the will, but not by the goodness of its own genus, just as, for example, when someone walks limping for the sake of God, or considers with a good intention the things that he is stupid at.  
 
 Thus, there are two ways something can be called a virtue. In one way, it is the habit perfecting a human power toward a good act, whether it is good materially or formally. And this is how the intellectual and speculative habits can be called virtues, for they determine the intellect and reason toward the truth, and the consideration of the truth is these two powers’ good act; and this is how the Philosopher is speaking about virtue in the *Ethics*. The other way that virtue can be said more strictly, and as it is in the usual way of speaking, it is a habit that perfects toward an act that is good not only materially, but also formally. And in this way, only the habits that have to do with the appetitive part can be called virtues; but the intellectual virtues, especially the speculative ones, cannot.  
 
@@ -328,7 +330,7 @@ Reply Obj. 4: The consideration of the true is one activity of the intellect tha
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the word *mos* can be used in two ways. In one way, it is the same as custom. Now, custom conveys a kind of frequency in things that we have the power to do or not do. For natural things or things that always happen are not said to be customary, but only something that is in our power to do or not do, that happens by will. Thus the word “mores” has been extended to mean voluntary acts, or acts of the appetitive part, according to the inclination of the appetite to these acts; and it is true that these inclinations are sometimes from nature, sometimes from custom, sometimes infused. This is also why what arises in animals from the passions of their appetitive part—like being concerned about their young, and reacting against something, and the like, are also called mores, meaning habits, as is clear from the *History of Animals* 9.Aristotle, *History of Animals* 9.1, 608a10–15. However, when *mores* means habits among animals it is used more by a resemblance than in the proper sense, because they do not act as though having dominion over their own acts, but rather as driven by nature, as Damascene says.John Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:946). And similarly, among the Greeks the word *ethos* is also taken in two ways: when it is used in the expression for a chronic fever, it conveys a certain long-lastingness, but when it is used for the study of ethics, which we call morals, it conveys “mores” taken in the second way, as voluntary acts.***
+To the second question, it should be said that the word *mos* can be used in two ways. In one way, it is the same as custom. Now, custom conveys a kind of frequency in things that we have the power to do or not do. For natural things or things that always happen are not said to be customary, but only something that is in our power to do or not do, that happens by will. Thus the word “mores” has been extended to mean voluntary acts, or acts of the appetitive part, according to the inclination of the appetite to these acts; and it is true that these inclinations are sometimes from nature, sometimes from custom, sometimes infused. This is also why what arises in animals from the passions of their appetitive part—like being concerned about their young, and reacting against something, and the like, are also called mores, meaning habits, as is clear from the *History of Animals* 9.Aristotle, *History of Animals* 9.1, 608a10–15. However, when *mores* means habits among animals it is used more by a resemblance than in the proper sense, because they do not act as though having dominion over their own acts, but rather as driven by nature, as Damascene says.John Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:946). And similarly, among the Greeks the word *ethos* is also taken in two ways: when it is used in the expression for a chronic fever, it conveys a certain long-lastingness, but when it is used for the study of ethics, which we call morals, it conveys “mores” taken in the second way, as voluntary acts.  
 
 Therefore, when speaking this way about the custom or habit of an act, its relationship toward what is moral depends on its relationship to the will and appetite. For there are some acts elicited by the appetitive part—like willing, choosing, desiring, and the like—and such acts are moral essentially. But there are other acts not elicited by the appetitive part, but commanded—like walking, considering, and the like; and these are not moral in their species, but only depending on their use, how they are commanded by the will. And thus virtues that perfect the appetitive part are properly called moral virtues. On the other hand, virtues that perfect the intellective part work toward acts that are perfect in the genus of knowing, not regarding its order to the will’s command. For having knowledge does not mean that a person considers with the right intention, but that he sees the true in particulars. And therefore moral virtues are distinguished from intellectual virtues.  
 
@@ -342,7 +344,7 @@ Reply Obj. 4: The mean is determined by prudence as an intellectual virtue and b
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in all things that act for the sake of an end, there must be an inclination toward the end, and, as it were, a certain pre-presence of the end; otherwise they would never act for the sake of that end. But the end to which the divine munificence ordered or predestined man, namely the enjoyment of God himself, is elevated altogether beyond the power of created nature, for *eye has not seen, nor ear heard, nor has it arisen in the heart of man, what God has prepared for those who love him*, as it says in 1 Corinthians 2:9. Hence by natural endowments alone man does not have a sufficient inclination to that end. And therefore something must be superadded to a human being through which he may have an inclination to that end, just as by his natural endowments he has an inclination to the end connatural to him. And those things superadded are called theological virtues on three accounts. First, as regards the object, for since the end we are ordered to is God himself, the inclination that is prerequisite consists in an activity that has God himself as object. Second, as regards the cause, for just as that end is ordained to be ours by God and not by our nature, so God alone can bring about an inclination to that end in us. And this is why they are called “theological” virtues, as being caused in us by God alone. Third, as regards knowledge, for since the divine end is above natural knowledge, the inclination to the end cannot be known by natural reason, but only by divine revelation. And therefore they are called “theological” because they are made known to us by the divine words. And this is why the philosophers knew nothing about them.***
+To the third question, it should be said that in all things that act for the sake of an end, there must be an inclination toward the end, and, as it were, a certain pre-presence of the end; otherwise they would never act for the sake of that end. But the end to which the divine munificence ordered or predestined man, namely the enjoyment of God himself, is elevated altogether beyond the power of created nature, for *eye has not seen, nor ear heard, nor has it arisen in the heart of man, what God has prepared for those who love him*, as it says in 1 Corinthians 2:9. Hence by natural endowments alone man does not have a sufficient inclination to that end. And therefore something must be superadded to a human being through which he may have an inclination to that end, just as by his natural endowments he has an inclination to the end connatural to him. And those things superadded are called theological virtues on three accounts. First, as regards the object, for since the end we are ordered to is God himself, the inclination that is prerequisite consists in an activity that has God himself as object. Second, as regards the cause, for just as that end is ordained to be ours by God and not by our nature, so God alone can bring about an inclination to that end in us. And this is why they are called “theological” virtues, as being caused in us by God alone. Third, as regards knowledge, for since the divine end is above natural knowledge, the inclination to the end cannot be known by natural reason, but only by divine revelation. And therefore they are called “theological” because they are made known to us by the divine words. And this is why the philosophers knew nothing about them.  
 
 Reply Obj. 1: It is true that man is naturally ordered to God both by knowledge and by affection, insofar as he naturally participates in him. Nevertheless, because there is a certain participation in him above nature, a certain knowledge and affection above nature are required; and the theological virtues are needed for this.  
 
@@ -356,7 +358,7 @@ Article 5
 
 ***Whether there are more than three theological virtues***
 
-***To the fifth we proceed thus.Parallels: below, d. 26, q. 2, a. 3, resp. 1; *ST* I-II.62.3; II-II.17.6; *De virtutibus*, aa. 10, 12; *Super 1 Cor.* 13, lect. 2, 4. It seems that there are more than three theological virtues.***
+To the fifth we proceed thus.Parallels: below, d. 26, q. 2, a. 3, resp. 1; *ST* I-II.62.3; II-II.17.6; *De virtutibus*, aa. 10, 12; *Super 1 Cor.* 13, lect. 2, 4. It seems that there are more than three theological virtues.  
 
 Obj. 1: For a theological virtue has God as its object, as was said. But fear of God has God as its object. Therefore it is a theological virtue.  
 
@@ -392,7 +394,7 @@ Question 2
 
 ***Faith***
 
-***Next we will inquire specifically about faith; and concerning this there are five things to be asked:***
+Next we will inquire specifically about faith; and concerning this there are five things to be asked:  
 
 first, what is faith;  
 
@@ -406,9 +408,9 @@ fifth, its order to the other virtues.
 
 Article 1  
 
-***Whether the definition of faith that the Apostle gives is appropriate in all its parts***
+Whether the definition of faith that the Apostle gives is appropriate in all its parts  
 
-***To the first we proceed thus.Parallels: *ST* II-II.4.1; *De veritate*, q. 14, a. 2; *Super Heb.* 11, lect. 1; RSV renders this as "the assurance of things hoped for, the conviction of things not seen." The Apostle says that *faith is the substance of things hoped for, the argument of things that appear not* (Heb 11:1). It seems that this inadequately defines faith.***
+To the first we proceed thus.Parallels: *ST* II-II.4.1; *De veritate*, q. 14, a. 2; *Super Heb.* 11, lect. 1; RSV renders this as "the assurance of things hoped for, the conviction of things not seen." The Apostle says that *faith is the substance of things hoped for, the argument of things that appear not* (Heb 11:1). It seems that this inadequately defines faith.  
 
 Obj. 1: For no habit is a substance. Faith is a habit. Therefore it is not a substance.  
 
@@ -450,7 +452,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed thus.Parallels: *ST* II-II.2.1; *De veritate*, q. 14, a. 1; *Super Heb*. 11, lect. 1. It seems that believing is not “thinking with assent,” as Augustine says.Augustine, *De praedestinatione sanctorum*, ch. 2, n. 5 (PL 44:963).***
+To the second we proceed thus.Parallels: *ST* II-II.2.1; *De veritate*, q. 14, a. 1; *Super Heb*. 11, lect. 1. It seems that believing is not “thinking with assent,” as Augustine says.Augustine, *De praedestinatione sanctorum*, ch. 2, n. 5 (PL 44:963).  
 
 Obj. 1: For assenting seems to belong to the will, just as consenting does. But believing pertains to the understanding. Therefore, believing is not assenting.  
 
@@ -462,7 +464,7 @@ Obj. 4: Furthermore, if believing is thinking with assent, it is the kind of thi
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that it is unfitting for belief to be multiplied, according as it is the act of faith.Parallels: *ST* II-II.2.2; *De veritate*, q. 14, a. 7, ad 7; *Super Ioan*. 6, lect. 3; *Super Rom*. 4, lect. 1. For one habit has one act, and habits are distinguished by their acts. But faith is one habit. Therefore, only one act should be assigned to it.***
+Obj. 1: Moreover, it seems that it is unfitting for belief to be multiplied, according as it is the act of faith.Parallels: *ST* II-II.2.2; *De veritate*, q. 14, a. 7, ad 7; *Super Ioan*. 6, lect. 3; *Super Rom*. 4, lect. 1. For one habit has one act, and habits are distinguished by their acts. But faith is one habit. Therefore, only one act should be assigned to it.  
 
 Obj. 2: Furthermore, about what is demonstrated, there is not faith, but knowledge; for what is demonstrated, is not something that *appears not*. But God’s existence is proved even by philosophers. Therefore, it is not an act of faith to believe in God’s existence.  
 
@@ -474,7 +476,7 @@ Obj. 5: Furthermore, by the fact that a person loves God, he tends toward him an
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that the act of faith has less certainty than the act of knowledge.Parallels: *ST* II-II.4.8; *De veritate*, q. 10, a. 12, ad 15; q. 14, a. 1, ad 7; *Super De Trinitate*, q. 3, a. 1, ad 4; *Super Ioan*. 4, lect. 5. For, as Hugh of Saint Victor says,Hugh of Saint Victor, *De sacramentis christianae fidei*, bk. 1, pt. 10, ch. 2 (PL 176:330). faith is the certainty of absent things, below knowledge and above opinion. Therefore, faith is more certain than opinion, but less certain than science.***
+Obj. 1: Moreover, it seems that the act of faith has less certainty than the act of knowledge.Parallels: *ST* II-II.4.8; *De veritate*, q. 10, a. 12, ad 15; q. 14, a. 1, ad 7; *Super De Trinitate*, q. 3, a. 1, ad 4; *Super Ioan*. 4, lect. 5. For, as Hugh of Saint Victor says,Hugh of Saint Victor, *De sacramentis christianae fidei*, bk. 1, pt. 10, ch. 2 (PL 176:330). faith is the certainty of absent things, below knowledge and above opinion. Therefore, faith is more certain than opinion, but less certain than science.  
 
 Obj. 2: Furthermore, what is more certain is less mixed with doubt, just as what is more white is less mixed with black. But things that are known can have no doubt at all, while those that are believed can have some movement of doubt, even despite faith. Therefore, faith does not have as much certainty as knowledge.  
 
@@ -486,7 +488,7 @@ Furthermore, the firmer the reason that causes faith, the more certain the faith
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, as the Philosopher says in *On the Soul* 3,Aristotle, *On the Soul* 3.6, 430a25–30; Aquinas, *Sent. De anima*, bk. 3, lect. 11, n. 746. there are two activities of the intellect. There is one activity that comprehends the simple “whatness” of things, and this activity is called formation or simple understanding by the philosophers. And to this understanding corresponds the non-complex vocal sound signifying this understanding. And so, just as in a non-complex vocal sound there is not found truth or falsehood, so neither is there in this activity of the intellect; and just as, since a non-complex vocal sound does not contain truth or falsehood, it is not granted or denied, in this activity the intellect does not assent or dissent. This is why faith, to which assenting belongs, cannot be found in this activity. But it is found in the other activity, by which the intellect composes and divides, where true and false are already found, just as in an enunciation. And because of this the intellect assents or dissents in this activity of its own, just as also an enunciation is granted or denied. And therefore, it is in this activity, that faith, which contains assent, is found.***
+To the first question, I answer that, as the Philosopher says in *On the Soul* 3,Aristotle, *On the Soul* 3.6, 430a25–30; Aquinas, *Sent. De anima*, bk. 3, lect. 11, n. 746. there are two activities of the intellect. There is one activity that comprehends the simple “whatness” of things, and this activity is called formation or simple understanding by the philosophers. And to this understanding corresponds the non-complex vocal sound signifying this understanding. And so, just as in a non-complex vocal sound there is not found truth or falsehood, so neither is there in this activity of the intellect; and just as, since a non-complex vocal sound does not contain truth or falsehood, it is not granted or denied, in this activity the intellect does not assent or dissent. This is why faith, to which assenting belongs, cannot be found in this activity. But it is found in the other activity, by which the intellect composes and divides, where true and false are already found, just as in an enunciation. And because of this the intellect assents or dissents in this activity of its own, just as also an enunciation is granted or denied. And therefore, it is in this activity, that faith, which contains assent, is found.  
 
 Now, since “sentence” is named from assenting, because, as Isaac says,J. T. Muckle, "Isaac Israeli Liber de definicionibus," *Archives d'histoire doctrinale et littéraire du Moyen Age* 11 (1937‒38): 299–340. it is a determinate acceptance of one side of a contradiction, it is necessary that whoever assents determines his intellect to one side or the other of a contradiction. Now, this happens in three ways according to the three ways of considering our intellect. For our intellect can be considered in one way according to itself, and in this way it is determined by the presence of the intelligible, just as matter is determined by the presence of a form; and this is what happens among those things that become instantly intelligible by the light of the agent intellect, like the first principles, of which there is understanding. And similarly the judgment of the sensitive part is determined by something sensible coming under the senses, the chief and most certain of which is vision; and thus this knowledge of the intellect is called vision.  
 
@@ -510,7 +512,7 @@ Reply Obj. 4: It is already clear from what has been said that this description 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as has been made clear, the act of a believer depends on three things: the intellect, which terminates in one thing; the will, which determines the intellect by its command; and reason, which inclines the will. And accordingly, three acts are assigned to faith. For by the fact that the intellect finds its terminus in one thing, the act of faith is to believe in God as an object, because the object of faith is God as considered in himself, whether something about him, or something from him. But by the fact that the intellect is determined by the will, the act of faith is to believe in God, that is, to tend toward him by loving him: for it belongs to the will to love. Now, according as the reason inclines the will to the act of faith, it is to believe God as someone, for the reason that the will is inclined to assenting to the things that it does not see is the fact that God says those things; just as a human being, in matters that he does not see, believes the testimony of a good man who does see those things that he does not see.***
+To the second question, it should be said that, as has been made clear, the act of a believer depends on three things: the intellect, which terminates in one thing; the will, which determines the intellect by its command; and reason, which inclines the will. And accordingly, three acts are assigned to faith. For by the fact that the intellect finds its terminus in one thing, the act of faith is to believe in God as an object, because the object of faith is God as considered in himself, whether something about him, or something from him. But by the fact that the intellect is determined by the will, the act of faith is to believe in God, that is, to tend toward him by loving him: for it belongs to the will to love. Now, according as the reason inclines the will to the act of faith, it is to believe God as someone, for the reason that the will is inclined to assenting to the things that it does not see is the fact that God says those things; just as a human being, in matters that he does not see, believes the testimony of a good man who does see those things that he does not see.  
 
 Reply Obj. 1: Only one complete act of faith is named by all the things mentioned. But it is named in different ways from the different things that are found in faith: for by that act in which someone believes in God, he does believe God, and believes about God.  
 
@@ -524,7 +526,7 @@ Reply Obj. 5: Those four pertain to faith according to its order to the will, as
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that certainty is nothing but the intellect’s determination to one thing. Now, the stronger the thing that causes the determination, the greater the certainty. But there are three ways the intellect may be determined to one thing, as was said. For in the understanding of principles a determination is caused by the fact that something is able to be sufficiently examined by the light of the intellect by itself. On the other hand, in knowledge of conclusions a determination is caused by the conclusion being resolved by the act of reason into principles seen in themselves: but in faith, the determination is caused by the will commanding the intellect. But the will does not determine the intellect in such a way that it causes the things that are believed to be examined, as principles known through themselves or the things that are resolved into them are examined, but such that the intellect may adhere firmly. Thus, the certainty that is in knowledge and understanding comes from the evidence of the things that are said to be certain, while the certainty of faith is from a firm adhering to what is believed.***
+To the third question, it should be said that certainty is nothing but the intellect’s determination to one thing. Now, the stronger the thing that causes the determination, the greater the certainty. But there are three ways the intellect may be determined to one thing, as was said. For in the understanding of principles a determination is caused by the fact that something is able to be sufficiently examined by the light of the intellect by itself. On the other hand, in knowledge of conclusions a determination is caused by the conclusion being resolved by the act of reason into principles seen in themselves: but in faith, the determination is caused by the will commanding the intellect. But the will does not determine the intellect in such a way that it causes the things that are believed to be examined, as principles known through themselves or the things that are resolved into them are examined, but such that the intellect may adhere firmly. Thus, the certainty that is in knowledge and understanding comes from the evidence of the things that are said to be certain, while the certainty of faith is from a firm adhering to what is believed.  
 
 Therefore, in those things that we believe by faith, the reason inclining the will, as was said, is the first truth itself, or God, who is believed, which has a greater firmness than the light of the human intellect, in which principles are seen, or human reason, by which conclusions are resolved into principles. And therefore faith has a greater certainty as to the strength of adhering than the certainty of knowledge or understanding, although in knowledge and understanding there is greater evidence of the things that are assented to.  
 
@@ -540,7 +542,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: *ST* II-II.4.2; *De veritate*, q. 14, a. 4. It seems that faith is in the will as its subject.***
+To the third we proceed thus.Parallels: *ST* II-II.4.2; *De veritate*, q. 14, a. 4. It seems that faith is in the will as its subject.  
 
 Obj. 1: For, according to Hugh of Saint Victor,Hugh of Saint Victor, *De sacramentis christianae fidei*, bk. 1, part. 10, ch. 3 (PL 176:331). faith has its matter in thinking, but its substance in the affections. But something is the subject of an accident when its own essence can be called “substance.” Therefore, faith is in the affections as in a subject.  
 
@@ -556,7 +558,7 @@ Furthermore, both faith and what replaces faith in glory pertain to the same pow
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that faith pertains to the practical intellect.Parallels: *ST* I-II.56.3; 58.3; II-II.4.2.ad 3; 9.3; *De veritate*, q. 14, a. 4; *De virtutibus*, q. 1, a. 7; *Super Rom*. 12, lect. 3. For as the Philosopher says in *On the Soul* 3,Aristotle, *On the Soul* 3.9, 432b27; Aquinas, *Sent. De anima,* bk. 3, lect. 14, n. 813. the speculative intellect says nothing about what is to be loved or fled from. But by faith we are instructed in what we should avoid. Therefore, faith is in the practical intellect.***
+Obj. 1: Moreover, it seems that faith pertains to the practical intellect.Parallels: *ST* I-II.56.3; 58.3; II-II.4.2.ad 3; 9.3; *De veritate*, q. 14, a. 4; *De virtutibus*, q. 1, a. 7; *Super Rom*. 12, lect. 3. For as the Philosopher says in *On the Soul* 3,Aristotle, *On the Soul* 3.9, 432b27; Aquinas, *Sent. De anima,* bk. 3, lect. 14, n. 813. the speculative intellect says nothing about what is to be loved or fled from. But by faith we are instructed in what we should avoid. Therefore, faith is in the practical intellect.  
 
 Obj. 2: Furthermore, the speculative intellect corresponds proportionally to the imagination as the practical intellect does to the estimation, which is in the sensitive part. But the imagination does not cause trust and terror, as it says in *On the Soul* 3,Aristotle, *On the Soul* 3.2, 427b23. but rather we are related by it to fearful things as if we were considering them in a picture. Therefore, it is the same with the speculative intellect. But faith is the principle of hope and causes trembling: for *demons believe and tremble*, as it says in James 2:19. Therefore, faith is not in the speculative intellect.  
 
@@ -568,7 +570,7 @@ Furthermore, practical knowledge is the cause of the things known. But faith is 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that it is an intellectual virtue.Parallels: below, a. 4, resp. 1; *De veritate*, q. 14, a. 3, ad 9; *Super Rom*. 4, lect. 1. For intellectual virtue is that which has the intellect for its subject. But the subject of faith is the intellect. Therefore, it is an intellectual virtue.***
+Obj. 1: Moreover, it seems that it is an intellectual virtue.Parallels: below, a. 4, resp. 1; *De veritate*, q. 14, a. 3, ad 9; *Super Rom*. 4, lect. 1. For intellectual virtue is that which has the intellect for its subject. But the subject of faith is the intellect. Therefore, it is an intellectual virtue.  
 
 Obj. 2: Furthermore, the articles of the faith, in which we have faith, are like the principles in other sciences, and theology proceeds from them. But the understanding of principles is an intellectual virtue, as is clear from what the Philosopher says in the *Ethics* 6.Aristotle, *Nicomachean Ethics* 6.5, 1141a7. Therefore, the faith in the articles is also an intellectual virtue.  
 
@@ -580,7 +582,7 @@ Furthermore, virtue is the extreme limit of power in a thing, as it says in *On 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the will commands the act of the intellect just as it does the act of the irascible and of the concupiscible. Now, for the act of the irascible and concupiscible faculties to be complete, not only must there be some habit in the will or in the reason commanding it, but also some habit in the irascible and concupiscible faculties executing it, so that it may be executed more easily. Therefore, some habit must be in the intellect for it to more easily obey the will in those things that are above reason; and this is the habit of faith. Therefore the subject of faith is the intellect.***
+To the first question, I answer that the will commands the act of the intellect just as it does the act of the irascible and of the concupiscible. Now, for the act of the irascible and concupiscible faculties to be complete, not only must there be some habit in the will or in the reason commanding it, but also some habit in the irascible and concupiscible faculties executing it, so that it may be executed more easily. Therefore, some habit must be in the intellect for it to more easily obey the will in those things that are above reason; and this is the habit of faith. Therefore the subject of faith is the intellect.  
 
 Reply Obj. 1: “Substance” is not taken there for essence, but for form. Now, the form of faith is in a certain way charity, which is in the will, as will become clear below.See q. 3, a. 1.  
 
@@ -592,7 +594,7 @@ Reply Obj. 4: Unbelief is also in the intellect as its subject, while it is in t
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the speculative intellect and the practical intellect differ in that the speculative intellect considers the true absolutely, while the practical considers the true in its order to work. Now, it can happen sometimes that a certain truth that was being considered in itself cannot be considered as the rule of action, as happens in mathematics, and in those things that are separated by motion/from motion. This is why the consideration of a truth like that is only in the speculative intellect. However, the truth that is considered in reality/the thing can be considered as a rule of acting, and then the speculative intellect becomes practical by its extension to a work.***
+To the second question, it should be said that the speculative intellect and the practical intellect differ in that the speculative intellect considers the true absolutely, while the practical considers the true in its order to work. Now, it can happen sometimes that a certain truth that was being considered in itself cannot be considered as the rule of action, as happens in mathematics, and in those things that are separated by motion/from motion. This is why the consideration of a truth like that is only in the speculative intellect. However, the truth that is considered in reality/the thing can be considered as a rule of acting, and then the speculative intellect becomes practical by its extension to a work.  
 
 Now, this happens in two ways. For sometimes the truth that can be considered in both ways does not have much usefulness, unless as it is ordered to a work, for since it is contingent, it does not have fixed truth. And the consideration of the works of the virtues is like this; and then such consideration, although it could belong to both speculative and practical intellect, nevertheless chiefly belongs to the practical intellect. But sometimes the consideration of that truth has in it a certain worth, even if it were never ordered to a work, as happens in the consideration of divine things, whose knowledge does direct one in working, and yet the vision of God is the last end of working; and then that consideration is principally in the speculative intellect, and secondarily in the practical intellect.  
 
@@ -606,7 +608,7 @@ Reply Obj. 3: The union of the intellect to the will does not cause the practica
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that although a virtue takes a power to its limit as to its act, it does not suffice for the account of virtue that a power is brought to its ultimate through its act with respect to its object, but it must be brought to its limit as to the mode of the one acting, so that the act may be good not only from the fact that it is good that it is done, but by the fact that it is well done, as is evident in moral virtues. Now, the good of the intellect is the true, which is its end and perfection. Therefore it does not suffice for the account of intellectual virtue that the true be known by it, but the act by which the true is considered must be perfect also by its mode, such that someone understands well. Now, for the intellect to work well does not happen from the fact that its activity proceeds from a good will, as was said; rather, we look at the intellect’s efficacy for looking at its proper object either directly or by resolving into what is seen directly. However, faith, by its own act, brings the intellect to its limit as to its object, inasmuch as it causes it to assent to the first truth. But it does not reach the limit as to the proper mode of the intellect itself, for our intellect is not so very effective by faith, that it could look at what it believes directly, or reduce to those things that it examines; and thus faith is not an intellectual virtue.***
+To the third question, it should be said that although a virtue takes a power to its limit as to its act, it does not suffice for the account of virtue that a power is brought to its ultimate through its act with respect to its object, but it must be brought to its limit as to the mode of the one acting, so that the act may be good not only from the fact that it is good that it is done, but by the fact that it is well done, as is evident in moral virtues. Now, the good of the intellect is the true, which is its end and perfection. Therefore it does not suffice for the account of intellectual virtue that the true be known by it, but the act by which the true is considered must be perfect also by its mode, such that someone understands well. Now, for the intellect to work well does not happen from the fact that its activity proceeds from a good will, as was said; rather, we look at the intellect’s efficacy for looking at its proper object either directly or by resolving into what is seen directly. However, faith, by its own act, brings the intellect to its limit as to its object, inasmuch as it causes it to assent to the first truth. But it does not reach the limit as to the proper mode of the intellect itself, for our intellect is not so very effective by faith, that it could look at what it believes directly, or reduce to those things that it examines; and thus faith is not an intellectual virtue.  
 
 Reply Obj. 1: Not every habit that has the intellect as its subject can be called an intellectual virtue, unless it perfects the intellect both as to its object and as to the mode of its act.  
 
@@ -620,7 +622,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallels: below, q. 3, a. 1, resp. 2; *ST* I-II.65.4; *De veritate*, q. 14, aa. 3 and 6; *De virtutibus*, a. 7; *Super Rom*. 1, lect. 6. It seems that faith is not a virtue of any kind.***
+To the fourth we proceed thus.Parallels: below, q. 3, a. 1, resp. 2; *ST* I-II.65.4; *De veritate*, q. 14, aa. 3 and 6; *De virtutibus*, a. 7; *Super Rom*. 1, lect. 6. It seems that faith is not a virtue of any kind.  
 
 Obj. 1: For apart from intellectual virtues no virtue has truth for its object and is a cognitive habit rather than an operative one. But faith is a cognitive habit and has the truth for its object. Therefore, since it is not an intellectual virtue, it seems that in no way can it be called a virtue.  
 
@@ -640,7 +642,7 @@ Furthermore, by the virtues we are made sons of God. But this happens by faith: 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that faith is not one virtue.Parallels: *ST* II-II.4.6; *De veritate*, q. 14, a. 12; *Super Eph*. 4, lect. 2. For some of the articles of the faith are about eternal things, like those that pertain to the persons of the Trinity; while others are about temporal things, like the ones that pertain to the Incarnation of Christ. But knowledge and wisdom are gifts differentiated by whether they are about temporal or eternal things. Therefore, faith is not one virtue.***
+Obj. 1: Moreover, it seems that faith is not one virtue.Parallels: *ST* II-II.4.6; *De veritate*, q. 14, a. 12; *Super Eph*. 4, lect. 2. For some of the articles of the faith are about eternal things, like those that pertain to the persons of the Trinity; while others are about temporal things, like the ones that pertain to the Incarnation of Christ. But knowledge and wisdom are gifts differentiated by whether they are about temporal or eternal things. Therefore, faith is not one virtue.  
 
 Obj. 2: Furthermore, hope and fear differ in that hope is about future goods, while fear is about future evils. But faith is about both, for it concerns rewards and punishments. Therefore, faith is not one virtue.  
 
@@ -652,7 +654,7 @@ Furthermore, just as prudence directs one’s intention in political matters, fa
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, as we have said, since it belongs to a virtue to make its work good, an activity can be called good either formally, as proceeding from a power that is moved toward the good according to its character of good; or materially, according as the act is appropriate and connatural to the power. And in either way, the act of faith is good: for it is both appropriate to the intellect inasmuch as it is about truths; and it also proceeds from the command of the will, which is moved toward the good as its object. Now, on the part of the intellect, although faith’s act does have goodness in the character of its object, nevertheless it does not have perfection, because its manner falls short, as was said, in that it does not have the sight of the truth that it clings to. But on the part of the will, it can have perfection, inasmuch as a will perfected in desire for the good causes firmness and certainty in faith. This is why Bernard says that faith is *a kind of voluntary and certain foretaste of truth that has not yet been made manifest*.Bernard, *De consideratione libri V*, bk. 5, ch. 3, n. 6 (*Bernardi opera*, ed. J. Leclercq et H.M. Rochais, 1963, PL 182:791). Therefore it is clear that faith is a virtue, not indeed an intellectual one, but in the way that we commonly speak of a virtue as something producing a good act that proceeds from goodness of the will. However, it is also not a moral virtue, because it does not order the sensible appetite as something that would stand fast amid delights and griefs and activities as its matter and object. But it is rather a theological virtue, which was a kind of virtue that the philosophers did not know.***
+To the first question, I answer that, as we have said, since it belongs to a virtue to make its work good, an activity can be called good either formally, as proceeding from a power that is moved toward the good according to its character of good; or materially, according as the act is appropriate and connatural to the power. And in either way, the act of faith is good: for it is both appropriate to the intellect inasmuch as it is about truths; and it also proceeds from the command of the will, which is moved toward the good as its object. Now, on the part of the intellect, although faith’s act does have goodness in the character of its object, nevertheless it does not have perfection, because its manner falls short, as was said, in that it does not have the sight of the truth that it clings to. But on the part of the will, it can have perfection, inasmuch as a will perfected in desire for the good causes firmness and certainty in faith. This is why Bernard says that faith is *a kind of voluntary and certain foretaste of truth that has not yet been made manifest*.Bernard, *De consideratione libri V*, bk. 5, ch. 3, n. 6 (*Bernardi opera*, ed. J. Leclercq et H.M. Rochais, 1963, PL 182:791). Therefore it is clear that faith is a virtue, not indeed an intellectual one, but in the way that we commonly speak of a virtue as something producing a good act that proceeds from goodness of the will. However, it is also not a moral virtue, because it does not order the sensible appetite as something that would stand fast amid delights and griefs and activities as its matter and object. But it is rather a theological virtue, which was a kind of virtue that the philosophers did not know.  
 
 Reply Obj. 1: The first proposition is true about the virtues known by the philosophers, who did not include any virtues apart from intellectual virtues, except for moral virtues.  
 
@@ -666,7 +668,7 @@ Reply Obj. 5: Faith has its exemplar in God as to what there is of perfection in
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that a habit possesses multiplicity or singleness from its object. Now, the object of faith is the first truth, which is simple and unvarying. Therefore, two kinds of oneness are found in faith: for, what faith rests upon is one and simple, and so the habit of faith is not divided into several habits in its possessor. On the other hand, from the fact that it is truth, it has the potential of uniting different people who have faith in the sameness of one faith, which is found in believing the same thing. For, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 7, n. 3 (PG 3:871). truth has the power of bringing together and uniting, while error and ignorance are divisive.***
+To the second question, it should be said that a habit possesses multiplicity or singleness from its object. Now, the object of faith is the first truth, which is simple and unvarying. Therefore, two kinds of oneness are found in faith: for, what faith rests upon is one and simple, and so the habit of faith is not divided into several habits in its possessor. On the other hand, from the fact that it is truth, it has the potential of uniting different people who have faith in the sameness of one faith, which is found in believing the same thing. For, as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 7, n. 3 (PG 3:871). truth has the power of bringing together and uniting, while error and ignorance are divisive.  
 
 Reply Obj. 1: Faith is not about something temporal as its object, but only to the extent that it pertains to eternal truth, which is the object of faith, does it fall under faith; for example, faith believes the Passion, inasmuch as God suffered.  
 
@@ -678,7 +680,7 @@ Article 5
 
 ***Whether faith is prior to the other virtues***
 
-***To the fifth we proceed thus.Parallels: *ST* I-II.62.4; II-II.4.7; *De veritate*, q. 14, a. 2, ad 3. It seems that faith is not prior to other virtues.***
+To the fifth we proceed thus.Parallels: *ST* I-II.62.4; II-II.4.7; *De veritate*, q. 14, a. 2, ad 3. It seems that faith is not prior to other virtues.  
 
 Obj. 1: For all virtues are infused at the same time. But when things are simultaneous, one is not after another. Therefore faith is not prior to the other virtues.  
 
@@ -716,7 +718,7 @@ Question 3
 
 ***The formation of faith***
 
-***Next we should ask about faith’s formation. Concerning this there are four things to be asked about:***
+Next we should ask about faith’s formation. Concerning this there are four things to be asked about:  
 
 first, whether faith is formed by charity;  
 
@@ -732,7 +734,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-***To the first we proceed thus.Parallels: *ST* II-II.4.3; 23.8; *De veritate*, q. 14, a. 5; *De caritate*, a. 3. It seems that faith is not formed by charity.***
+To the first we proceed thus.Parallels: *ST* II-II.4.3; 23.8; *De veritate*, q. 14, a. 5; *De caritate*, a. 3. It seems that faith is not formed by charity.  
 
 Obj. 1: For a form comes first, since it is a thing’s principle. But charity is posterior to faith, as was said. Therefore faith is not formed by charity.  
 
@@ -746,7 +748,7 @@ Furthermore, the form of a thing is its beauty. But through charity, faith comes
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that unformed faith is a virtue.Parallels: *ST* I-II.62.3.ad 2; 65.4; II-II.4.5; *De veritate*, q. 14, aa. 3, 6; *De spe*, a. 3, ad 8; *Quodl*. VI, a. 6. For Augustine says in the book *Of True Innocence*In fact, Prosper of Aquitane, *Liber sententiarum*, ch. 7 (CCSL 68A; PL 45:1859). that virtues other than charity can be in good people and wicked people. Therefore faith, insofar as it is a virtue, can be in wicked people. But the faith that exists in wicked people is unformed faith. Therefore unformed faith is a virtue.***
+Obj. 1: Moreover, it seems that unformed faith is a virtue.Parallels: *ST* I-II.62.3.ad 2; 65.4; II-II.4.5; *De veritate*, q. 14, aa. 3, 6; *De spe*, a. 3, ad 8; *Quodl*. VI, a. 6. For Augustine says in the book *Of True Innocence*In fact, Prosper of Aquitane, *Liber sententiarum*, ch. 7 (CCSL 68A; PL 45:1859). that virtues other than charity can be in good people and wicked people. Therefore faith, insofar as it is a virtue, can be in wicked people. But the faith that exists in wicked people is unformed faith. Therefore unformed faith is a virtue.  
 
 Obj. 2: Furthermore, virtue is about difficult things, and this is what it is praised for, as the Philosopher says.Aristotle, *Nicomachean Ethics* 2.3, 1105a12. But believing the articles of the faith is the most difficult thing. Accordingly, Augustine says,Augustine, *In Iohannis euangelium tractatus*, tract. 79, para. 1 (CCSL 36; PL 35:1837). as is mentioned in the following Distinction, that faith’s glory is believing what it does not see. Therefore it seems that an unformed faith that does believe all the articles of faith, is a virtue.  
 
@@ -758,7 +760,7 @@ Furthermore, no one makes a bad use of virtue, as Augustine says.Augustine, *De 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that formed and unformed faith differ in species.Parallels: *ST* II-II.4.4; *De veritate*, q. 14, a. 7; *Super Rom*. 1, lect. 6. For, as the Philosopher says in the *Metaphysics* 5,Aristotle, *Metaphysics* 10.8, 1058a25; Aquinas, *In Metaph.*, bk. 10, lect. 10, nn. 1124–25. things that differ in genus differ also in species. But formed and unformed faith differ in genus, since formed faith is a virtue, but unformed faith is not. Therefore formed and unformed faith differ in species.***
+Obj. 1: Moreover, it seems that formed and unformed faith differ in species.Parallels: *ST* II-II.4.4; *De veritate*, q. 14, a. 7; *Super Rom*. 1, lect. 6. For, as the Philosopher says in the *Metaphysics* 5,Aristotle, *Metaphysics* 10.8, 1058a25; Aquinas, *In Metaph.*, bk. 10, lect. 10, nn. 1124–25. things that differ in genus differ also in species. But formed and unformed faith differ in genus, since formed faith is a virtue, but unformed faith is not. Therefore formed and unformed faith differ in species.  
 
 Obj. 2: Furthermore, the species of a thing comes from its form. But charity is the form of faith. Therefore unformed faith does not belong to the same species as formed faith.  
 
@@ -770,7 +772,7 @@ Furthermore, anything that is outside the essence of a thing does not change its
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that in ordered agents the ends of the secondary agents are ordered to the end of the primary agent, as the whole universe is ordered to the first good that is God, in the way that an army is ordered to the leader’s good, as the Philosopher says in the *Metaphysics* 11.Arsitotle, *Metaphysics* 12.10, 1075a12–15; Aquinas, *In Metaph.*, bk. 12, lect. 12, nn. 2629–30. And therefore, the action of the primary agent is both prior and posterior. It is prior in moving, because the actions of all the secondary agents are founded upon the action of the first agent, and since it is one action, binding all the others together, its effect is specified in this or that thing according to the requirements of each, just as by one command of the leader in charge of waging war, one soldier takes up a sword, another equips a horse, and so forth. It is posterior, however, in employing the others’ acts for his proper end; and thus, all the actions of the other agents are given their due mode through the primary agent’s action.***
+To the first question, I answer that in ordered agents the ends of the secondary agents are ordered to the end of the primary agent, as the whole universe is ordered to the first good that is God, in the way that an army is ordered to the leader’s good, as the Philosopher says in the *Metaphysics* 11.Arsitotle, *Metaphysics* 12.10, 1075a12–15; Aquinas, *In Metaph.*, bk. 12, lect. 12, nn. 2629–30. And therefore, the action of the primary agent is both prior and posterior. It is prior in moving, because the actions of all the secondary agents are founded upon the action of the first agent, and since it is one action, binding all the others together, its effect is specified in this or that thing according to the requirements of each, just as by one command of the leader in charge of waging war, one soldier takes up a sword, another equips a horse, and so forth. It is posterior, however, in employing the others’ acts for his proper end; and thus, all the actions of the other agents are given their due mode through the primary agent’s action.  
 
 Therefore, since the will has the place of primary mover among the powers of the soul, its action is prior in a certain way to the acts of the other powers, insofar as it commands them according to an intention of the last end and uses them for the attainment of this end. And therefore the powers moved by the will receive two things from it. First, they receive something of its form, according as every mover and agent impresses its likeness upon the things moved by it and passive in relation to it. Now this form is either according to the form of the will itself, according to which all the powers moved by the will participate in its freedom, or according to the habit perfecting the will, which is charity; and thus, all habits that are in powers moved by a will that is itself perfected with charity participate in charity’s form. Nevertheless, this form, in which the powers moved by the will participate, is common to all of them. Hence, beyond this common form, the habits that are the perfections of those powers have their own specific forms, which perfect a power according to what is appropriate for it in relation to its own acts and objects. Second, the powers receive from the will consummation in the last end; and in this way charity is called the end of the other virtues, insofar as they are joined to the last end through it.  
 
@@ -784,7 +786,7 @@ Reply Obj. 3: Faith is formed by grace by means of charity, since it is insofar 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that it belongs to virtue to make an act perfect. But an act of a power that is moved by another power cannot be perfect unless both the superior and inferior powers are perfected through habits—the superior, in order that it not fall short in directing or moving the act, and the inferior, in order that it not fall short in executing the act. This is evident in any act of the concupiscible power, for its act’s perfection requires that the concupiscible power be perfected through the habit of temperance, and, at the same time, that reason be perfected through the habit of prudence—because if prudence is lacking in the reason, then no matter how much of a disposition to the act of temperance there should be in the concupiscible power, that disposition will not have the notion of virtue, as the Philosopher says in the *Ethics* 6.Aristotle, *Nicomachean Ethics* 6.12, 1143b15–25. Since, then, to believe is an act of the intellect insofar as it is moved by the will, it is necessary for the perfection of this act that both the intellect and the will be perfected—the intellect through the light of faith and the will through the habit of charity. And therefore unformed faith does not have a perfect act, and so it cannot be a virtue.***
+To the second question, it should be said that it belongs to virtue to make an act perfect. But an act of a power that is moved by another power cannot be perfect unless both the superior and inferior powers are perfected through habits—the superior, in order that it not fall short in directing or moving the act, and the inferior, in order that it not fall short in executing the act. This is evident in any act of the concupiscible power, for its act’s perfection requires that the concupiscible power be perfected through the habit of temperance, and, at the same time, that reason be perfected through the habit of prudence—because if prudence is lacking in the reason, then no matter how much of a disposition to the act of temperance there should be in the concupiscible power, that disposition will not have the notion of virtue, as the Philosopher says in the *Ethics* 6.Aristotle, *Nicomachean Ethics* 6.12, 1143b15–25. Since, then, to believe is an act of the intellect insofar as it is moved by the will, it is necessary for the perfection of this act that both the intellect and the will be perfected—the intellect through the light of faith and the will through the habit of charity. And therefore unformed faith does not have a perfect act, and so it cannot be a virtue.  
 
 Reply Obj. 1: Augustine uses the name “virtue” broadly for whatever disposition inclines to an act by which good is done.  
 
@@ -794,7 +796,7 @@ Reply Obj. 3: Even a disposition to virtue is opposed to vice; hence it is not n
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that a difference in habits can be found from evaluating their acts. Now it happens that some acts may be considered in two ways: either according to natural species or according to moral species. And sometimes they share in species with respect to one description but differ according to another, for example, killing someone harmful and killing someone innocent do not differ according to natural species, yet they do differ according to moral species, since one is an act of vice, that is, murder, while the other is an act of virtue, that is, justice; whereas the acts of killing a thief and freeing an innocent man differ according to natural species, yet share in moral species, since they are both acts of justice. If therefore the acts of formed and unformed faith are considered according to natural species, then they are the same in species, since an act gets its natural species from its proper object; whereas if they are considered according to moral being, then they differ in terms of complete and incomplete in the same species, just like an act by which one does just things, but not precisely as just, differs from an act by which one does just things precisely as just. And similarly, formed and unformed faith are wholly the same in natural species, yet they differ in moral species—not as if existing in simply different species, but rather as perfect and imperfect in the same species, in the way that a disposition to virtue and the habit of virtue differ.***
+To the third question, it should be said that a difference in habits can be found from evaluating their acts. Now it happens that some acts may be considered in two ways: either according to natural species or according to moral species. And sometimes they share in species with respect to one description but differ according to another, for example, killing someone harmful and killing someone innocent do not differ according to natural species, yet they do differ according to moral species, since one is an act of vice, that is, murder, while the other is an act of virtue, that is, justice; whereas the acts of killing a thief and freeing an innocent man differ according to natural species, yet share in moral species, since they are both acts of justice. If therefore the acts of formed and unformed faith are considered according to natural species, then they are the same in species, since an act gets its natural species from its proper object; whereas if they are considered according to moral being, then they differ in terms of complete and incomplete in the same species, just like an act by which one does just things, but not precisely as just, differs from an act by which one does just things precisely as just. And similarly, formed and unformed faith are wholly the same in natural species, yet they differ in moral species—not as if existing in simply different species, but rather as perfect and imperfect in the same species, in the way that a disposition to virtue and the habit of virtue differ.  
 
 Reply Obj. 1: To the first, therefore, it should be said that virtue is the genus of faith according to moral being. However, unformed faith is not wholly outside of this genus, but exists in it as something imperfect.  
 
@@ -806,7 +808,7 @@ Article 2
 
 ***Whether unformed faith is a gift from God or an acquired habit***
 
-***To the second we proceed thus.Parallel: *ST* II-II.6.2. It seems that unformed faith is not a gift from God, but an acquired habit.***
+To the second we proceed thus.Parallel: *ST* II-II.6.2. It seems that unformed faith is not a gift from God, but an acquired habit.  
 
 Obj. 1: For Augustine saysAugustine, *On the Trinity*, bk. 14, ch. 1 (CCSL 50A; PL 42:1037). that faith is acquired, nourished, and defended by knowledge. But no habit acquired by any knowledge is a gift from God as if it were divinely infused. Therefore, unformed faith is not an infused habit.  
 
@@ -846,7 +848,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***To the third we proceed thus.Parallels: below, d. 26, q. 2, a. 5, resp. 4; *ST* II-II.5.2; 18.3.ad 2; *De veritate*, q. 14, a. 9, ad 4. It seems that unformed faith is not found in the demons.***
+To the third we proceed thus.Parallels: below, d. 26, q. 2, a. 5, resp. 4; *ST* II-II.5.2; 18.3.ad 2; *De veritate*, q. 14, a. 9, ad 4. It seems that unformed faith is not found in the demons.  
 
 Obj. 1: For the vision of faith is in a mirror and in an enigma, as is said in 1 Corinthians 13:12. But there is an enigmatic and mirror-like knowledge in us because we naturally receive knowledge through the senses, which is not the case with the demons. Therefore unformed faith cannot be in them.  
 
@@ -860,7 +862,7 @@ Furthermore, commenting on Romans 1:17, *through faith for faith*, the Gloss say
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that unformed faith remains in heretics.Parallels: *ST* II-II.5.3; *De veritate*, q. 14, a. 10, ad 10; *De caritate*, a. 13, ad 6; *Quodl*. VI, a. 4. For they believe God to be three and one, and that God was made man. But these things are above nature. Therefore, since things that are above nature cannot be believed without the infused habit of faith, it appears that an infused faith remains in them.***
+Obj. 1: Moreover, it appears that unformed faith remains in heretics.Parallels: *ST* II-II.5.3; *De veritate*, q. 14, a. 10, ad 10; *De caritate*, a. 13, ad 6; *Quodl*. VI, a. 4. For they believe God to be three and one, and that God was made man. But these things are above nature. Therefore, since things that are above nature cannot be believed without the infused habit of faith, it appears that an infused faith remains in them.  
 
 Obj. 2: Furthermore, in the sciences one who forgets one of the things that are knowable in that science still has the habit as regards the other things knowable in it. But faith is the habitual cognition of the articles. Therefore, if a heretic disbelieves one article, faith still remains in him as regards another article.  
 
@@ -872,7 +874,7 @@ Furthermore, he would be simultaneously faithful and unfaithful, which is imposs
 
 Response to Quaestiuncula 1  
 
-***I answer that it belongs to the notion of faith that the believer assent to certain things that he does not see in virtue of themselves, nor can he trace them back to things that he sees, but rather is inclined to believing them due to some reason that suffices to determine his assent to what is believed—although it is not sufficient to bring him to a vision of what is believed. Now, this reason bringing one to belief can be taken either from something created, as when we are led through some sign to believing something, whether about God or about other realities, or it is taken from the uncreated truth itself, as when we believe certain things that have been divinely said to us through its ministers. And speaking in the first way, faith compels the intellect to believe something through the fact that nothing appears contrary to it. But in the second way, the intellect is not compelled, but rather is inclined by the will. And in the first way there is faith in the demons, inasmuch as they are compelled to believe things that exceed their natural cognition by their natural cognition itself and the miracles that they see to be above nature much more subtly than do we. But they do not have faith in the second way.***
+I answer that it belongs to the notion of faith that the believer assent to certain things that he does not see in virtue of themselves, nor can he trace them back to things that he sees, but rather is inclined to believing them due to some reason that suffices to determine his assent to what is believed—although it is not sufficient to bring him to a vision of what is believed. Now, this reason bringing one to belief can be taken either from something created, as when we are led through some sign to believing something, whether about God or about other realities, or it is taken from the uncreated truth itself, as when we believe certain things that have been divinely said to us through its ministers. And speaking in the first way, faith compels the intellect to believe something through the fact that nothing appears contrary to it. But in the second way, the intellect is not compelled, but rather is inclined by the will. And in the first way there is faith in the demons, inasmuch as they are compelled to believe things that exceed their natural cognition by their natural cognition itself and the miracles that they see to be above nature much more subtly than do we. But they do not have faith in the second way.  
 
 Reply Obj. 1: Although in the intellect of a demon there is not the obscurity that is in ours, due to sensation, still there is another obscurity because they cannot, through a supernatural cognition, attain the vision of the truth that they are compelled to believe through certain signs.  
 
@@ -882,7 +884,7 @@ Reply Obj. 3: In them the intellect is compelled to assent; whence it does not w
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that, as was said above, the infused habit of faith helps us in two ways: namely, so that we might believe the things that should be believed, and so that the things that should not be believed we in no way would assent to. Now, man is capable of the first from his judgment itself, without the infused habit, but the second—namely, that he be inclined precisely to these things but not to those—comes from only the infused habit. Indeed, this discernment is that in virtue of which we do not believe every spirit. And because this is not present in the heretic, it is certain that the habit of faith does not remain in him. And if he believes certain things that should be believed, this is due to human reason. For if he were inclined to believing these things by the habit of faith, he would refuse the things contrary to the faith, just as every habit resists things that are opposed to that habit.***
+To the second question, it should be said that, as was said above, the infused habit of faith helps us in two ways: namely, so that we might believe the things that should be believed, and so that the things that should not be believed we in no way would assent to. Now, man is capable of the first from his judgment itself, without the infused habit, but the second—namely, that he be inclined precisely to these things but not to those—comes from only the infused habit. Indeed, this discernment is that in virtue of which we do not believe every spirit. And because this is not present in the heretic, it is certain that the habit of faith does not remain in him. And if he believes certain things that should be believed, this is due to human reason. For if he were inclined to believing these things by the habit of faith, he would refuse the things contrary to the faith, just as every habit resists things that are opposed to that habit.  
 
 Reply Obj. 1: Although they believe something that is above nature, still they do not believe it through the infused habit by which they are being directed, but through a [merely] human judgment.  
 
@@ -896,7 +898,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-***To the fourth we proceed thus.Parallels: *ST* II-II.4.4; *De veritate,* q. 14, a. 7; *Super Rom.* 1, lect. 6. It seems that unformed faith is emptied out at the coming of charity.***
+To the fourth we proceed thus.Parallels: *ST* II-II.4.4; *De veritate,* q. 14, a. 7; *Super Rom.* 1, lect. 6. It seems that unformed faith is emptied out at the coming of charity.  
 
 Obj. 1: For 1 Corinthians 13:10 says, *when what is perfect has come, what is partial will pass away*, as faith will pass away with the coming of vision. But unformed faith is imperfect with respect to formed faith. Therefore unformed faith is taken away at the coming of formed faith.  
 
@@ -910,7 +912,7 @@ Furthermore, nothing is corrupted except by its contrary. But unformed faith is 
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that even if unformed faith remains as a habit, it does not remain in regard to its act. For even if something good is done by an act of unformed faith, nevertheless it is not something done well. But something is done well by an act of formed faith. Therefore at the coming of charity, unformed faith does not remain with respect to its act.***
+Obj. 1: Moreover, it seems that even if unformed faith remains as a habit, it does not remain in regard to its act. For even if something good is done by an act of unformed faith, nevertheless it is not something done well. But something is done well by an act of formed faith. Therefore at the coming of charity, unformed faith does not remain with respect to its act.  
 
 Obj. 2: Furthermore, a lesser light does not continue to give illumination once a greater light is present. But unformed faith is a lesser light than charity. Therefore once charity is present, the act of unformed faith does not remain.  
 
@@ -922,7 +924,7 @@ Furthermore, the act of unformed faith is to believe God or to believe in God. B
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that unformed faith cannot become formed faith. For unformed faith is dead, as is said in James 2:26. But a dead work is not something that can be made alive. Therefore neither is unformed faith made alive through the form of charity.***
+Obj. 1: Moreover, it seems that unformed faith cannot become formed faith. For unformed faith is dead, as is said in James 2:26. But a dead work is not something that can be made alive. Therefore neither is unformed faith made alive through the form of charity.  
 
 Obj. 2: Furthermore, faith is an accident. But as Boethius says, “accidents cannot be changed.”Boethius, *In Categorias Aristotelis libri IV*, bk. 1 (PL 64:199). Therefore it seems that the very same faith that was unformed cannot become formed.  
 
@@ -934,7 +936,7 @@ Furthermore, infused habits have more in common with grace than with a natural p
 
 Response to Quaestiuncula 1  
 
-***I answer that when something that does not pertain to a thing’s species is removed, it need not be the case that a thing’s substance is also taken away, just as if darkness is taken away from the air, the air still remains. Now the unformedness of faith does not pertain to the species of faith, because faith owes its species to the mode it has from the nature of the power in which it exists as in a subject, by relation to its proper object. Now faith is called “formed” and “unformed” relative to something extrinsic, namely the will, as was said, just as air is formed by light in relation to a luminous body; and therefore it is evident that being unformed does not pertain to the species of faith. Since therefore charity, when it comes, takes away nothing from faith except its unformedness, it stands that the substance of the habit of faith still remains.***
+I answer that when something that does not pertain to a thing’s species is removed, it need not be the case that a thing’s substance is also taken away, just as if darkness is taken away from the air, the air still remains. Now the unformedness of faith does not pertain to the species of faith, because faith owes its species to the mode it has from the nature of the power in which it exists as in a subject, by relation to its proper object. Now faith is called “formed” and “unformed” relative to something extrinsic, namely the will, as was said, just as air is formed by light in relation to a luminous body; and therefore it is evident that being unformed does not pertain to the species of faith. Since therefore charity, when it comes, takes away nothing from faith except its unformedness, it stands that the substance of the habit of faith still remains.  
 
 Reply Obj. 1: The imperfection faith has with respect to vision is according to the genus of knowledge, and therefore it pertains to the species of faith; and on account of this, faith passes away with the coming of vision. But it is not so in the case at hand, as was said.  
 
@@ -944,7 +946,7 @@ Reply Obj. 3: In someone who has faith, grace does not cause another habit of fa
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that even as the habit of unformed faith remains but without its unformedness, so the act of the habit also remains but without its unformedness, since *a habit is that by which someone acts when the time for acting has come*, as Augustine says.Augustine, *De bono coniugali*, ch. 21, para. 25 (CSEL 41:219; PL 40:390).***
+To the second question, it should be said that even as the habit of unformed faith remains but without its unformedness, so the act of the habit also remains but without its unformedness, since *a habit is that by which someone acts when the time for acting has come*, as Augustine says.Augustine, *De bono coniugali*, ch. 21, para. 25 (CSEL 41:219; PL 40:390).  
 
 Reply Obj. 1: The fact that someone does good through unformed faith pertains to the substance of the habit, and therefore this remains once charity has come; whereas the fact that he does something good but not well pertains to its unformedness, and therefore this does not remain.  
 
@@ -954,7 +956,7 @@ Reply Obj. 3: The act of unformed faith falls short of the act of formed faith b
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said, as the Philosopher says in the *Ethics* 6,Aristotle, *Nicomachean Ethics* 6.13, 1144b16. that prior to the complete being of moral virtue in a man, there exists a certain natural inclination to that virtue, which is called “natural virtue”; and this inclination takes on the notion of virtue insofar as it receives perfection from a superior power, namely reason. And in like manner, unformed faith preexists in the intellect prior to the complete being of virtue, but it receives the notion of virtue from the perfection of a superior power, namely the will. Hence, one and the same faith that beforehand was unformed afterwards becomes formed; nor is the faith that arrives something other [than the faith that was already there], since formed and unformed faith do not differ in species, as is evident from what has been said. But it is not possible for two forms of one species to exist at the same time [in the same subject], because forms are diversified in number by reason of a diversity of matter or subject.***
+To the third question, it should be said, as the Philosopher says in the *Ethics* 6,Aristotle, *Nicomachean Ethics* 6.13, 1144b16. that prior to the complete being of moral virtue in a man, there exists a certain natural inclination to that virtue, which is called “natural virtue”; and this inclination takes on the notion of virtue insofar as it receives perfection from a superior power, namely reason. And in like manner, unformed faith preexists in the intellect prior to the complete being of virtue, but it receives the notion of virtue from the perfection of a superior power, namely the will. Hence, one and the same faith that beforehand was unformed afterwards becomes formed; nor is the faith that arrives something other [than the faith that was already there], since formed and unformed faith do not differ in species, as is evident from what has been said. But it is not possible for two forms of one species to exist at the same time [in the same subject], because forms are diversified in number by reason of a diversity of matter or subject.  
 
 Reply Obj. 1: A dead work passes away, and cannot be taken up again the same in number, and therefore it cannot be made alive. But an unformed habit endures, and therefore it can be formed.  
 
@@ -964,7 +966,7 @@ Reply Obj. 3: One accident does not come to be out of grace and faith, but rathe
 
 Exposition of the text  
 
-****The term faith is taken in three ways*.*Sent.* III. 23. 3 (76). 1. Faith is properly said about someone assenting to things that he does not see. Now this happens in two ways. In one way, when a person is led by human reason; and this kind of faith is called a strong opinion. And by an even greater extension of the name, every certainty that occurs through human reason, even if it should lead to sight, is called faith, according to which argument is said to be the reasoning that causes faith in a doubtful thing.Cf. Cicero, *Topica*, bk. 2, ch. 7. Moreover, a person’s truthfulness is also called faith, inasmuch as it is the cause that someone believes even those things that he does not see; and this is how Cicero saysCicero, *De officiis*, bk. 1, ch. 8. that faith is the foundation of justice, where “faith” is taken for fidelity. And in addition, the very conscientiousness by which someone holds to this truthfulness is called faith, as it says in Romans 14:23, *everything that is not of faith*, and the Gloss comments, *that is, conscientiousness*.source needed. The other way is when a person is led by divine reason; and this is the way that faith is said for the very habit by which we believe, whether formed or unformed, as well as its act, its object, and its sacrament, inasmuch as it is the cause and sign of this kind of faith. And by extension, any certainty that is had about divine things is called faith, even if those things are seen.***
+*The term faith is taken in three ways*.*Sent.* III. 23. 3 (76). 1. Faith is properly said about someone assenting to things that he does not see. Now this happens in two ways. In one way, when a person is led by human reason; and this kind of faith is called a strong opinion. And by an even greater extension of the name, every certainty that occurs through human reason, even if it should lead to sight, is called faith, according to which argument is said to be the reasoning that causes faith in a doubtful thing.Cf. Cicero, *Topica*, bk. 2, ch. 7. Moreover, a person’s truthfulness is also called faith, inasmuch as it is the cause that someone believes even those things that he does not see; and this is how Cicero saysCicero, *De officiis*, bk. 1, ch. 8. that faith is the foundation of justice, where “faith” is taken for fidelity. And in addition, the very conscientiousness by which someone holds to this truthfulness is called faith, as it says in Romans 14:23, *everything that is not of faith*, and the Gloss comments, *that is, conscientiousness*.source needed. The other way is when a person is led by divine reason; and this is the way that faith is said for the very habit by which we believe, whether formed or unformed, as well as its act, its object, and its sacrament, inasmuch as it is the cause and sign of this kind of faith. And by extension, any certainty that is had about divine things is called faith, even if those things are seen.  
 
 *'Not in the same way as we know those bodies.'**Sent*. III. 23. 7 (80). 2, citing Augustine, *On the Trinity*, bk. 13, ch. 1, n. 3 (CCSL 50A; PL 42:1014). It should be known that here Augustine is separating the experiential knowledge that someone has of his own faith from the four kinds of seeing: external sight, when he says, *'as we know bodies';* the vision of the imagination, which is left behind by external sight, when he says, *'through their images';* imaginative sight, which forms a thing never seen from different images of things that have been seen, when he says: *'nor even as those things which we have not seen';* and from intellectual vision of things outside us, by saying: *'nor as a man.'*  
 

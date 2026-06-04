@@ -1,10 +1,12 @@
 # C. 3 - Exhortations
 
+***Exhortations***
+
 ***Lecture 1***
 
 ***Moral instruction***
 
-***^3:1^ For the rest, brethren, pray for us that the word of God may run and may be glorified, even as among you: [n. 63]***
+^3:1^ For the rest, brethren, pray for us that the word of God may run and may be glorified, even as among you: [n. 63]  
 
 > ^3:2^ And that we may be delivered from importunate and evil men: for not all men have faith.
 
@@ -106,7 +108,7 @@ Lecture 2
 
 ***Avoid the disorderly***
 
-***^3:10^ For also, when we were with you, this we declared to you: that if any man will not work, neither let him eat. [n. 76]***
+^3:10^ For also, when we were with you, this we declared to you: that if any man will not work, neither let him eat. [n. 76]  
 
 > ^3:11^ For we have heard there are some among you who walk disorderly: working not at all, but curiously meddling. [n. 78]
 

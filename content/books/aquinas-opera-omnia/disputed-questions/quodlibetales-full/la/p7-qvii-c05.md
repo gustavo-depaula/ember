@@ -1,5 +1,7 @@
 # On Manual Work
 
+***Quaestio 7***
+
 ***De opere manuali***
 
 ***Quaestio est de opere manuali. Circa quod duo quaeruntur:***
@@ -86,7 +88,7 @@ Articulus 2
 
 ***Utrum ab hoc praecepto excusentur illi qui spiritualibus operibus vacant***
 
-***Circa secundum sic proceditur. Videtur quod illi qui spiritualibus operibus vacant non excusentur a labore manuum.***
+Circa secundum sic proceditur. Videtur quod illi qui spiritualibus operibus vacant non excusentur a labore manuum.  
 
 II Thessalonicensium III, super illud: *si quis non vult operari*, non *manducet*, dicit Glossa Augustini: *dicunt quidam de operibus spiritualibus hoc Apostolum praecepisse*; et postea subdit: *sed superflue conantur et sibi et ceteris caliginem obducere, ut quod utiliter caritas monet, non solum facere nolint, sed nec intelligere*; et ita videtur quod per spiritualia opera a labore manuum non excusentur.  
 

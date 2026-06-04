@@ -1,6 +1,8 @@
 # D. 13 - Perfections of human nature of Christ
 
-****Praeterea sciendum est Christum, secundum hominem . . .* Postquam Magister determinavit de his quae conveniunt Deo incarnato ratione unionis, hic determinat ea quae consequuntur ipsum secundum alteram naturam. Et quia de his quae conveniunt ei ratione divinae naturae quae in Incarnatione minorata non est, determinatum est in 1 libro; restat ut hic determinetur de his quae conveniunt Christo secundum naturam quae per Incarnationem est exaltata.***
+***Divisio textus***
+
+*Praeterea sciendum est Christum, secundum hominem . . .* Postquam Magister determinavit de his quae conveniunt Deo incarnato ratione unionis, hic determinat ea quae consequuntur ipsum secundum alteram naturam. Et quia de his quae conveniunt ei ratione divinae naturae quae in Incarnatione minorata non est, determinatum est in 1 libro; restat ut hic determinetur de his quae conveniunt Christo secundum naturam quae per Incarnationem est exaltata.  
 
 Dividitur autem haecBrussels manuscript reads *ista*. pars in partes tres.  
 
@@ -106,7 +108,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Christus non habuit gratiae plenitudinem.***
+Ad secundum sic proceditur. Videtur quod Christus non habuit gratiae plenitudinem.  
 
 Christus enim non habuit fidem nec spem, sicut infra determinabitur; nec iterum poenitentiam, quia nunquam peccavit. Sed haec omnia ad gratiam pertinent. Ergo ipse non habuit gratiae plenitudinem.  
 
@@ -122,7 +124,7 @@ Praeterea, Spiritus Sanctus in homine per gratiam inhabitare dicitur. Sed Luc. 4
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod gratia ejus fuerit infinita. Joan. 3:34 dicitur quod *non ad mensuram dat ei Deus Spiritum* Sanctum*.* Sed omne finitum mensuram habet. Ergo cum Spiritus Sanctus dicatur dari hominibus secundum quod gratiam accipiunt, videtur quod gratia ejus fuerit infinita.***
+Ulterius, videtur quod gratia ejus fuerit infinita. Joan. 3:34 dicitur quod *non ad mensuram dat ei Deus Spiritum* Sanctum*.* Sed omne finitum mensuram habet. Ergo cum Spiritus Sanctus dicatur dari hominibus secundum quod gratiam accipiunt, videtur quod gratia ejus fuerit infinita.  
 
 Praeterea, omni finito potest aliquid majus intelligi, et Deus aliquid majus facere. Sed in littera dicitur quod Deus majorem gratiam illi conferre non potuit, nec potest plenior intelligi. Ergo est infinita.  
 
@@ -136,7 +138,7 @@ Praeterea, nullo infinito est aliquid majus. Si igitur Christus, secundum quod h
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod gratia illa potuitEd. read *potuerit*. augmentari. Omni enim finitoBruges manuscript reads *quia omni finito*; the Piana, Antwerp, and Venice editions read *omni infinito*; the Nicolaï edition omit *enim*. possibilis est additio. Si ergo gratia Christi finitaThe Piana, Antwerp, and Venice editions read *facta*. fuit quia creata est, potuit ei fieri additio, et ita potuit augeri.***
+Ulterius, videtur quod gratia illa potuitEd. read *potuerit*. augmentari. Omni enim finitoBruges manuscript reads *quia omni finito*; the Piana, Antwerp, and Venice editions read *omni infinito*; the Nicolaï edition omit *enim*. possibilis est additio. Si ergo gratia Christi finitaThe Piana, Antwerp, and Venice editions read *facta*. fuit quia creata est, potuit ei fieri additio, et ita potuit augeri.  
 
 Praeterea, quantumcumque additur intellectuali naturae de perfectione, tanto magis augetur ejus capacitas. Unde secundum Philosophum in 3 *De anima*, quanto intellectus magis intelligit difficilia, plus etiam potest intelligere. Sed capacitas amplioris gratiae facit possibilitatem ad augmentum. Ergo quantumcumque homo habeat perfectam gratiam, remanet possibilitas ad augmentum. Et ita videtur quod Christus potuit proficere in gratia.  
 
@@ -150,7 +152,7 @@ Praeterea, ipseEd. read *Christus*. fuit ab instanti conceptionis suae perfectus
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod illud plene haberi dicitur quod secundum omnes differentias et modos et effectus suos habetur. Et secundum hoc Christus plenitudinem gratiae habuit. Haec autem plenitudo potest attendi secundum rationem causae finalis etEd. omit *et*. efficientis et formalis.***
+Respondeo dicendum ad primam quaestionem quod illud plene haberi dicitur quod secundum omnes differentias et modos et effectus suos habetur. Et secundum hoc Christus plenitudinem gratiae habuit. Haec autem plenitudo potest attendi secundum rationem causae finalis etEd. omit *et*. efficientis et formalis.  
 
 Finis autem gratiae est ut conjungat nos Deo. Quia igitur Christus, secundum quod homo, conjunctus fuit divinitati non solum per cognitionem et amorem et fruitionem, sed etiam per unionem in persona; ideo gratia ipsius plenissime consecuta est finem suum. Et haec est plenitudo causae finalis.  
 
@@ -170,7 +172,7 @@ Ad tertium dicendum quod non est de necessitate magnificentiae, secundum quod a 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod gratia dicitur donum gratisEd. add *homini*. collatum. Donum autem hujusmodi*huiusmodi.—-homin*i PLE. Christo sine meritis praecedentibus collatum fuit et creatum et increatum. Increatum fuit ipse Spiritus Sanctus, quia in ejus anima requievit, ut dicitur Is. 2: et ipsa persona Verbi, quia datum est naturae humanae ut persona Verbi esset ejus;PLE: *esset persona eius*. et secundum hoc est ei datum *nomenEd. add quod est. super omne nomen,* Philip. 2:9, et sic simpliciter gratia Christi est infinita. Creatum autem donum ejus est ipsa gratia qua formaliter anima ejus perficiebatur. Et haec quodammodo fuit finita et quodam modo infinita; quia secundum essentiam finita fuit, sed infinita tribus modis potest dici.***
+Ad secundam quaestionem dicendum quod gratia dicitur donum gratisEd. add *homini*. collatum. Donum autem hujusmodi*huiusmodi.—-homin*i PLE. Christo sine meritis praecedentibus collatum fuit et creatum et increatum. Increatum fuit ipse Spiritus Sanctus, quia in ejus anima requievit, ut dicitur Is. 2: et ipsa persona Verbi, quia datum est naturae humanae ut persona Verbi esset ejus;PLE: *esset persona eius*. et secundum hoc est ei datum *nomenEd. add quod est. super omne nomen,* Philip. 2:9, et sic simpliciter gratia Christi est infinita. Creatum autem donum ejus est ipsa gratia qua formaliter anima ejus perficiebatur. Et haec quodammodo fuit finita et quodam modo infinita; quia secundum essentiam finita fuit, sed infinita tribus modis potest dici.  
 
 Uno modo ex conjunctione ad divinitatem, inquantum concurrit ad eumdem actum cum ipsa, ut actus gratia illa informatus non tantum sit actus hominis, sed etiam Dei.  
 
@@ -190,7 +192,7 @@ Ad quartum dicendum quod infinitas efficaciae quae est in merito, contingit ex h
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod augmentum non competit rei secundum quod est in termino, sed secundum quod est in via ad terminum; quia secundum quod res est in termino, tota potentialitas ejus capacitatis est impleta ex fine implente, et ideo non habet ulterius quo crescat. Et quia anima Christi fuit ab initio conceptionis fini ultimo unita, non solum per fruitionem perfectam, sed etiam communicando in persona Verbi, ideo gratia ejus crescere non potuit.***
+Ad tertiam quaestionem dicendum quod augmentum non competit rei secundum quod est in termino, sed secundum quod est in via ad terminum; quia secundum quod res est in termino, tota potentialitas ejus capacitatis est impleta ex fine implente, et ideo non habet ulterius quo crescat. Et quia anima Christi fuit ab initio conceptionis fini ultimo unita, non solum per fruitionem perfectam, sed etiam communicando in persona Verbi, ideo gratia ejus crescere non potuit.  
 
 Ad primum ergo dicendum quod cuilibet finito potest fieri additio, mathematice loquendo; quia ratio quantitatis, quam solam mathematicus considerat, non prohibet quin possit infinitoPLE: *finito*. aliquid addi. Prohibet autem additionem talem forma quam considerat naturalis. Et ideo secundum naturalem non est verum, sed secundum imaginationem tantum. Et similiter est in proposito, ut ex dictis patet; quia nec gratia potest esse major quam comprehensoris, nec gloria major quam creaturae Deo in persona unitae.  
 
@@ -214,7 +216,7 @@ Articulus 1
 
 ***Utrum Christus sit caput Ecclesiae, secundum quod homo***
 
-***Ad primum sic proceditur. Videtur quod Christus non sit caput Ecclesiae secundum quod homo.***
+Ad primum sic proceditur. Videtur quod Christus non sit caput Ecclesiae secundum quod homo.  
 
 A capite enim spiritus animalis ad membra diffunditur. Sed Spiritus Sanctus non diffunditur a Christo in Ecclesiam inquantumEd. read *secundum quod*. homo, sed inquantum Deus; quia, ut dicit Augustinus in 15 *De Trin*., ipse accepit Spiritum SanctumBruges manuscript omits *Sanctum*. ut homo et effudit ut Deus. Ergo ipse non est caput ut homo, sed ut Deus.  
 
@@ -262,7 +264,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Christus, secundum quod homo, non sit caput angelorum.***
+Ad secundum sic proceditur. Videtur quod Christus, secundum quod homo, non sit caput angelorum.  
 
 De esseEd. read *ratione*. enim capitis est conformitas ad membra, ut dictum est. Sed Christus non est conformis angelis in natura; quia *nusquam angelos apprehendit,* ut dicitur Heb. 2:16. Ergo non est caput angelorum.  
 
@@ -278,7 +280,7 @@ Praeterea, Ecclesia est una constituta ex angelis et hominibus. SedBruges manusc
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non sit caput omnium hominum. Caput enim unum refertur ad corpus unum. Sed omnes homines non conveniunt in aliquo uno secundum numerum, quia et ipsi differunt; et fides et spes et caritas, qua connectuntur ad invicem, numero diversae sunt in diversis. Ergo ChristusEd. omit *Christus*. non est caput omnium hominum.***
+Ulterius, videtur quod non sit caput omnium hominum. Caput enim unum refertur ad corpus unum. Sed omnes homines non conveniunt in aliquo uno secundum numerum, quia et ipsi differunt; et fides et spes et caritas, qua connectuntur ad invicem, numero diversae sunt in diversis. Ergo ChristusEd. omit *Christus*. non est caput omnium hominum.  
 
 Praeterea, corpus Christi verum est figura corporisEd. add *Christi*. mystici. Sed in corpore [vero]Bruges and Brussels manuscript reads *mystico*. non est aliquod membrum impurum. Ergo cum multi homines sint corrupti per peccata, videtur quod eorum non sit Christus caput.  
 
@@ -292,7 +294,7 @@ Praeterea, per Christum omnes resurgemus. Sed hoc non esset, nisi esset caput om
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod sit caput tantum animarum. Quia capitis ad membrum oportet esse continuationem. Sed corpora aliorum hominum non continuantur ad corpus Christi. ErgoEd. add *et*. ipse non est caput hominumBruges manuscript reads *omnium*. quantum ad corpus, sed quantum ad animas tantum.***
+Ulterius, videtur quod sit caput tantum animarum. Quia capitis ad membrum oportet esse continuationem. Sed corpora aliorum hominum non continuantur ad corpus Christi. ErgoEd. add *et*. ipse non est caput hominumBruges manuscript reads *omnium*. quantum ad corpus, sed quantum ad animas tantum.  
 
 Praeterea, ipse influit sensum spiritualem, secundum quod est caput. Sed hujusmodi sensus non sunt susceptiva corpora. Ergo Christus, secundum quod homo, non est caput corporum.The Piana, Antwerp, Nicolaï, Venice, and Parma editions *hominum quantum ad corpus, sed quantum ad animas tantum*.  
 
@@ -304,7 +306,7 @@ Praeterea, ipse est caput nostrum secundum quod est conformisEd. add *nobis*. in
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod Christus, secundum quod homo, est caput angelorum; non tamen ita proprie, nec eodem modo sicut hominum propter duas conditiones.Bruges manuscript reads *sicut hominum est caput quantum ad duas conditiones*; the Brussels manuscript reads *et eodem modo quo est caput hominum*. Primo quantum ad conformitatem naturae; quia cum hominibus convenitEd. add *etiam*. in natura secundum speciem; cum angelis autem non secundum speciem, sed secundum genus intellectualis naturae. Secundo, quantum ad influentiam; quia non influit angelis removendo prohibens, aut merendo gratiam, aut orando pro eis, quia jam beati sunt; sed in his quae ad actus hierarchicos pertinent, secundum quod unus angelus illuminat alium, purgat et perficit, ut in 2 lib., 9 d., dictum est: hoc enim multo eminentius a Christo recipiunt.***
+Respondeo dicendum ad primam quaestionem quod Christus, secundum quod homo, est caput angelorum; non tamen ita proprie, nec eodem modo sicut hominum propter duas conditiones.Bruges manuscript reads *sicut hominum est caput quantum ad duas conditiones*; the Brussels manuscript reads *et eodem modo quo est caput hominum*. Primo quantum ad conformitatem naturae; quia cum hominibus convenitEd. add *etiam*. in natura secundum speciem; cum angelis autem non secundum speciem, sed secundum genus intellectualis naturae. Secundo, quantum ad influentiam; quia non influit angelis removendo prohibens, aut merendo gratiam, aut orando pro eis, quia jam beati sunt; sed in his quae ad actus hierarchicos pertinent, secundum quod unus angelus illuminat alium, purgat et perficit, ut in 2 lib., 9 d., dictum est: hoc enim multo eminentius a Christo recipiunt.  
 
 Ad primum igiturEd. and the Brussels manuscript read *ergo*. dicendum quod quamvis non sit eis conformis in natura speciei, est tamen eis conformis in natura generis, ut dictum est.  
 
@@ -314,7 +316,7 @@ Ad tertium dicendum quod hoc intelligitur quantum ad receptionem naturalem;Ed. r
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod in corpore naturali invenitur quadruplex unio membrorum ad invicem.—Prima est secundum conformitatem naturae, quia omnia membra constant ex eisdem similibus partibus et sunt unius rationis, sicut manus et pes ex carne et osse; et sic dicuntur membra unum sicutThe Nicolaï, Venice, and Parma editions omit *sicut*. genere vel specie.—Secunda est per colligationem eorum ad invicem per nervos et juncturas, et sic dicuntur unum continuatione.—Tertia est, secundum quod diffunditur vitalis spiritus et vires animae per totum corpus.—Quarta est, secundum quod omnia membra perficiuntur per animam quae est una numero inBruges manuscript reads *cum*. omnibus membris.***
+Ad secundam quaestionem dicendum quod in corpore naturali invenitur quadruplex unio membrorum ad invicem.—Prima est secundum conformitatem naturae, quia omnia membra constant ex eisdem similibus partibus et sunt unius rationis, sicut manus et pes ex carne et osse; et sic dicuntur membra unum sicutThe Nicolaï, Venice, and Parma editions omit *sicut*. genere vel specie.—Secunda est per colligationem eorum ad invicem per nervos et juncturas, et sic dicuntur unum continuatione.—Tertia est, secundum quod diffunditur vitalis spiritus et vires animae per totum corpus.—Quarta est, secundum quod omnia membra perficiuntur per animam quae est una numero inBruges manuscript reads *cum*. omnibus membris.  
 
 Et hae quatuor uniones inveniuntur in corpore mystico. Prima est, inquantum omnia membra ejus sunt unius naturae vel genere vel specie. Secunda est, inquantum colligata sunt ad invicem per fidem, quia sic continuantur in uno credito. Tertia est, secundum quod vivificantur per gratiam et caritatem. Quarta est, secundum quod in eis est Spiritus Sanctus,Bruges manuscript omits *Sanctus*. qui estBruges manuscript omits *est*. ultima perfectio et principalis totius corporis mystici,Bruges manuscript adds *est*. quasi anima in corpore naturali.  
 
@@ -340,7 +342,7 @@ Ad sextum dicendum quod resurrectio ad vitam naturalem erit omnibus communis, no
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod Christus est caputBruges manuscript adds *omnium*. hominum etEd. omit *et*. quantum ad animas et quantum ad corpora; sed principaliter animarum et secundario corporum—tum ratione conformitatis ad membra quae per assumptionem humanae naturae est, quia anima mediante corpus assumpsit—tum etiam ratione spiritualis influentiae quae pervenit ad corpus mediante anima, inquantum corpus est instrumentum animae operantisPLE: *anime operantis secundum gratiam*. secundum gratiam; et ex hoc relinquitur ordo in corpore ad gloriosam resurrectionem.***
+Ad tertiam quaestionem dicendum quod Christus est caputBruges manuscript adds *omnium*. hominum etEd. omit *et*. quantum ad animas et quantum ad corpora; sed principaliter animarum et secundario corporum—tum ratione conformitatis ad membra quae per assumptionem humanae naturae est, quia anima mediante corpus assumpsit—tum etiam ratione spiritualis influentiae quae pervenit ad corpus mediante anima, inquantum corpus est instrumentum animae operantisPLE: *anime operantis secundum gratiam*. secundum gratiam; et ex hoc relinquitur ordo in corpore ad gloriosam resurrectionem.  
 
 Ad primum ergo dicendum quod corpora nostra aliquo modo habent continuationem ad corpusEd. read *cum corpore*. Christi, non quidem secundum quantitatem, aut secundumBruges manuscript omits *secundum*. perfectionem naturalem, sed inquantum Spiritus Sanctus habitat in nobis, qui plenissime fuit in Christo, 1 Cor. 6:19: *nescitis quoniam membra vestra templum sunt Spiritus Sancti*.  
 
@@ -422,7 +424,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod gratia unionis sit idem quod gratia capitis.***
+Ad secundum sic proceditur. Videtur quod gratia unionis sit idem quod gratia capitis.  
 
 Christus enim dicitur caput Ecclesiae, secundum quod de *plenitudine ejus omnes accepimus*. Sed plenitudo ejus est secundum quod ipse est unigenitus a Patre, ut dicitur Joan. 1. Cum igitur sit unigenitus a Patre per gratiam unionis, videtur quod gratia unionis sit idem quod gratia capitis.  
 
@@ -436,7 +438,7 @@ Praeterea, gratia capitis operata est a constitutione mundi, ex quo homines memb
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod sit eadem gratia capitis et etiamEd. omit *etiam*. gratia singularis ipsius. Quia eadem scientia est qua quis est sciens, et alios docens. Et secundum Philosophum, 5 *Eth*., idemEd. read *eadem*. per essentiam est virtus qua quis in se perfectus est, et justitia legalis qua perficitur in ordine ad bonum commune. Ergo similiter eodem habitu Christus fuit in seipso perfectus et in alios perfectionem influens.***
+Ulterius, videtur quod sit eadem gratia capitis et etiamEd. omit *etiam*. gratia singularis ipsius. Quia eadem scientia est qua quis est sciens, et alios docens. Et secundum Philosophum, 5 *Eth*., idemEd. read *eadem*. per essentiam est virtus qua quis in se perfectus est, et justitia legalis qua perficitur in ordine ad bonum commune. Ergo similiter eodem habitu Christus fuit in seipso perfectus et in alios perfectionem influens.  
 
 Praeterea, gratia est vita animae. Sed unius subjecti est vita una. Ergo et gratia una. Et sic idem quod prius.  
 
@@ -448,7 +450,7 @@ Praeterea, ad diversos actus diversi habitus ordinantur. Sed alius actus est ben
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod gratia singularis personae praecedat gratiam unionis. Quia gratia singularis personae facit ad congruitatem unionis. Sed anima quae facit ad congruitatem unionis corporis, prius intelligitur uniri corpori, quam ipsa unita ad invicem intelligantur uniri divinae personae. Ergo similiter priusEd. add *etiam*. secundum intellectum est gratia personaeEd. omit *personae*. singularis in natura humana quam gratia unionis.***
+Ulterius, videtur quod gratia singularis personae praecedat gratiam unionis. Quia gratia singularis personae facit ad congruitatem unionis. Sed anima quae facit ad congruitatem unionis corporis, prius intelligitur uniri corpori, quam ipsa unita ad invicem intelligantur uniri divinae personae. Ergo similiter priusEd. add *etiam*. secundum intellectum est gratia personaeEd. omit *personae*. singularis in natura humana quam gratia unionis.  
 
 Item, videtur quod sit prius gratia capitis. Quia prius consideratur aliquid in se perfectum quam alteri perfectionem largiens. Sed gratia singularis est qua in se perfectus est; gratia autem capitis secundum quam alteri perfectionem largitur. Ergo gratia singularis est prior quam gratia capitis.  
 
@@ -460,7 +462,7 @@ Item, videtur quod gratia unionis sit prior quam gratia singularis. Quia ex hoc 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod si gratia unionis dicatur habitualis gratia quodammodo ad unionem disponens, sic eadem est per essentiam gratia unionis, capitis et singularis illius hominis, solum ratione differens; quia—inquantum perficiebat animam Christi ad actus meritorios, "gratia illius singularis hominis" dicitur—inquantum vero tanta erat hujus gratiae copia ut in alios redundare posset, dicitur "gratia capitis"—inquantum vero gratiam tam plenam decebat inesse naturae assumptae, potest dici quodammodo "gratia unionis." Si veroEd. add *gratia*. dicatur voluntas Dei gratuita, sic iterum constat quod est una. Aliis autem modis accipiendo gratiam unionis, constat quod per essentiam differt,The Nicolaï edition adds *a gratia capitis*. nisi quatenus intelligitur caput ut Deus.***
+Respondeo dicendum ad primam quaestionem quod si gratia unionis dicatur habitualis gratia quodammodo ad unionem disponens, sic eadem est per essentiam gratia unionis, capitis et singularis illius hominis, solum ratione differens; quia—inquantum perficiebat animam Christi ad actus meritorios, "gratia illius singularis hominis" dicitur—inquantum vero tanta erat hujus gratiae copia ut in alios redundare posset, dicitur "gratia capitis"—inquantum vero gratiam tam plenam decebat inesse naturae assumptae, potest dici quodammodo "gratia unionis." Si veroEd. add *gratia*. dicatur voluntas Dei gratuita, sic iterum constat quod est una. Aliis autem modis accipiendo gratiam unionis, constat quod per essentiam differt,The Nicolaï edition adds *a gratia capitis*. nisi quatenus intelligitur caput ut Deus.  
 
 Ad primum ergo dicendum quod quamvis ex hoc quod est unigenitus habeat plenitudinem capitis, non tamen ipsa unio est illa plenitudo.  
 
@@ -482,7 +484,7 @@ Ad quintum dicendum quod secundum illos actus cuilibetPLE: *quibus*. Bruges and 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod istae tres gratiae Christo attribuuntur secundum diversas considerationes ipsius. Potest enim considerari in se, vel in comparatione ad alios. Si in se consideratur:Ed. add *sic*. vel inquantum Deus, et sic ei attribuitur gratia unionis; vel inquantum homo, et sic ei attribuitur gratia singularis. Si autem in comparatione ad alios, sic attribuitur ei gratia capitis. Et quia prius consideratur aliquis in se quam in comparatione ad alios, ideo gratia secundum quam est caput, sequitur alias duas gratias. Et quia omnis gratia et perfectio humanitatis ex hoc sibi debetur, quia Deo unitus est homo ille in persona; ideo gratia unionis praecedit secundum ordinem naturae et intellectus gratiam singularem, quamvis simul in eodem tempore sint istae tres gratiae.Bruges manuscript reads *quamvis simul sint in eo tempore tres istae gratiae*; the Brussels manuscript reads *quamvis in eo sint simul tempore istae tres gratiae.****
+Ad tertiam quaestionem dicendum quod istae tres gratiae Christo attribuuntur secundum diversas considerationes ipsius. Potest enim considerari in se, vel in comparatione ad alios. Si in se consideratur:Ed. add *sic*. vel inquantum Deus, et sic ei attribuitur gratia unionis; vel inquantum homo, et sic ei attribuitur gratia singularis. Si autem in comparatione ad alios, sic attribuitur ei gratia capitis. Et quia prius consideratur aliquis in se quam in comparatione ad alios, ideo gratia secundum quam est caput, sequitur alias duas gratias. Et quia omnis gratia et perfectio humanitatis ex hoc sibi debetur, quia Deo unitus est homo ille in persona; ideo gratia unionis praecedit secundum ordinem naturae et intellectus gratiam singularem, quamvis simul in eodem tempore sint istae tres gratiae.Bruges manuscript reads *quamvis simul sint in eo tempore tres istae gratiae*; the Brussels manuscript reads *quamvis in eo sint simul tempore istae tres gratiae.*  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo*. dicendum quod anima complet rationem humanae naturae. Et ideo praeintelligitur unio animae ad carnem, unioni humanae naturae ad Divinitatem,Ed. read *Deitatem*. quia prius est considerare aliquid in se quam alteri unitum. Sed gratia nihil facit ad rationem humanae naturae, quia inquantum hujusmodi assumptibilis est. Et ideo non est simile.  
 
@@ -494,7 +496,7 @@ Quintum patet.
 
 Expositio textus  
 
-****In sanctis vero quasi solus tactus est*. Videtur hoc esse falsum; quia Origenes *Super Levit*., distinguit quinque sensus spirituales, dicens quod visus spiritualis est ut videamus Deum; auditus autem ut audiamus qui loquitur; odoratus, per quem odoramus bonum odorem Christi; gustus, ut gustemus ejus dulcedinem; tactus, ut palpemus cum Joanne Verbum vitae. Haec autem omniaBruges manuscript omits *omnia*. sunt in omnibus sanctis. Ergo non habent solum tactum. EtEd. omit *Et*. dicendum quod sensus spirituales possunt distingui per similitudinem ad actus sensuum corporalium, et sic sunt in omnibus sanctis, ut dicit Origenes: vel per similitudinem ad quasdam proprietates sensuum, secundum quod tactus est necessarius, alii autem non; et sic, quia in aliis sanctis sunt omnia quae sunt de necessitate salutis, in Christo autem omnia simpliciter quae pertinent ad perfectionem gratiae; ideo in Christo dicuntur omnes sensus esse, in aliis autem solus tactus.***
+*In sanctis vero quasi solus tactus est*. Videtur hoc esse falsum; quia Origenes *Super Levit*., distinguit quinque sensus spirituales, dicens quod visus spiritualis est ut videamus Deum; auditus autem ut audiamus qui loquitur; odoratus, per quem odoramus bonum odorem Christi; gustus, ut gustemus ejus dulcedinem; tactus, ut palpemus cum Joanne Verbum vitae. Haec autem omniaBruges manuscript omits *omnia*. sunt in omnibus sanctis. Ergo non habent solum tactum. EtEd. omit *Et*. dicendum quod sensus spirituales possunt distingui per similitudinem ad actus sensuum corporalium, et sic sunt in omnibus sanctis, ut dicit Origenes: vel per similitudinem ad quasdam proprietates sensuum, secundum quod tactus est necessarius, alii autem non; et sic, quia in aliis sanctis sunt omnia quae sunt de necessitate salutis, in Christo autem omnia simpliciter quae pertinent ad perfectionem gratiae; ideo in Christo dicuntur omnes sensus esse, in aliis autem solus tactus.  
 
 *Quibus datus est spiritus ad mensuram*. Contra. Jac. 1:5: *qui dat omnibus affluenter*,The Nicolaï edition adds *super quo*. dicit Glossa: *omnia dat non in mensura, quia dona ejus non sunt ad mensuram*. Et dicendum quodEd. add *cum*. "mensura dari" potest accipi vel ex largitate dantis; et sic nulli dat cum mensura, quia omnibus dat ex largitate infinita: vel ex capacitate recipientis; et sic dat cuilibet cum mensura, quia nulli dat ultra quam capax sit: vel secundum rationem dati; et sic Christo non dat cum mensura, quia gratia ejus,Bruges manuscript reads *Christi*; the Nicolaï edition reads *hujus*. non est limitata quantum ad rationem gratiae; sed aliis dat cum mensura, ut patet ex dictis.  
 

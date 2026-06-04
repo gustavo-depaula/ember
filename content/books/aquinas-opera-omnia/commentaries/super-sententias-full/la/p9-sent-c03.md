@@ -1,6 +1,8 @@
 # D. 28 - On marital consent
 
-***Postquam Magister ostendit quod consensus est causa efficiens matrimonii, hic ostendit qualis debeat esse consensus qui matrimonium facit; et dividitur in partes duas: in prima inquiritur, utrum consensus per verba de futuro, juramento confirmatus matrimonium faciat; in secundo ostendit quid sit consensus ille qui matrimonium facit, ibi: *hic quaeritur, cum consensus de praesenti matrimonium faciat, cujus rei consensus sit ille*.***
+***De consensu matrimoniali***
+
+Postquam Magister ostendit quod consensus est causa efficiens matrimonii, hic ostendit qualis debeat esse consensus qui matrimonium facit; et dividitur in partes duas: in prima inquiritur, utrum consensus per verba de futuro, juramento confirmatus matrimonium faciat; in secundo ostendit quid sit consensus ille qui matrimonium facit, ibi: *hic quaeritur, cum consensus de praesenti matrimonium faciat, cujus rei consensus sit ille*.  
 
 Circa primum duo facit: primo determinat veritatem; secundo objicit in contrarium, ibi: *praemissae autem sententiae videtur obviare illud quod leges tradunt*.  
 
@@ -18,10 +20,9 @@ primo, utrum juramentum consensui expresso per verba de futuro adveniens, matrim
 - tertio, utrum occultus consensus per verba de praesenti sufficiat ad matrimonium faciendum;
 - quarto, in quid sit consensus qui matrimonium facit.
 - Articulus 1
+Utrum juramentum consensui expresso per verba de futuro adveniens, matrimonium faciat  
 
-***Utrum juramentum consensui expresso per verba de futuro adveniens, matrimonium faciat***
-
-***Ad primum sic proceditur. Videtur quod juramentum adjunctum consensui per verba de futuro, faciat matrimonium. Nullus enim potest se obligare ut faciat contra jus divinum. Sed implere juramentum est de jure divino, ut patet Matth. 5, 33: *reddes autem domino juramenta tua*. Ergo per nullam obligationem sequentem potest evenire quod homo non debeat implere juramentum prius factum. Si ergo post consensum in aliquam per verba de futuro juramento firmatum, aliquis se alteri obligat per verba de praesenti, videtur quod nihilominus debeat juramentum primum servare. Sed hoc non esset, nisi juramento illo esset matrimonium perfectum. Ergo juramentum adjunctum consensui de futuro facit matrimonium.***
+Ad primum sic proceditur. Videtur quod juramentum adjunctum consensui per verba de futuro, faciat matrimonium. Nullus enim potest se obligare ut faciat contra jus divinum. Sed implere juramentum est de jure divino, ut patet Matth. 5, 33: *reddes autem domino juramenta tua*. Ergo per nullam obligationem sequentem potest evenire quod homo non debeat implere juramentum prius factum. Si ergo post consensum in aliquam per verba de futuro juramento firmatum, aliquis se alteri obligat per verba de praesenti, videtur quod nihilominus debeat juramentum primum servare. Sed hoc non esset, nisi juramento illo esset matrimonium perfectum. Ergo juramentum adjunctum consensui de futuro facit matrimonium.  
 
 Praeterea, veritas divina est fortior quam veritas humana. Sed per juramentum veritate divina firmatur aliquid. Cum ergo verba exprimentia consensum de praesenti, in quibus est sola humana veritas, matrimonium perficiant; videtur quod multo amplius id efficere possint verba de futuro, juramento firmata.  
 
@@ -47,7 +48,7 @@ Articulus 2
 
 ***Utrum carnalis copula eidem adveniens***
 
-***Ad secundum sic proceditur. Videtur quod carnalis copula post verba de futuro consensum exprimentia faciat matrimonium. Quia magis est consentire facto quam verbo. Sed ille qui carnaliter commiscetur, facto consentit promissioni quam prius fecit. Ergo videtur quod multo magis per hoc fiat matrimonium quam si solis verbis de praesenti consensus fieret.***
+Ad secundum sic proceditur. Videtur quod carnalis copula post verba de futuro consensum exprimentia faciat matrimonium. Quia magis est consentire facto quam verbo. Sed ille qui carnaliter commiscetur, facto consentit promissioni quam prius fecit. Ergo videtur quod multo magis per hoc fiat matrimonium quam si solis verbis de praesenti consensus fieret.  
 
 Praeterea, consensus non solum expressus, sed etiam interpretativus, facit matrimonium. Sed nulla potest esse major interpretatio consensus quam carnalis copula. Ergo per hoc perficitur matrimonium.  
 
@@ -71,9 +72,9 @@ Ad quartum dicendum, quod in tali casu sponsus antequam aliam duxerit, tenetur e
 
 Articulus 3  
 
-***Utrum occultus consensus per verba de praesenti sufficiat ad matrimonium faciendum***
+Utrum occultus consensus per verba de praesenti sufficiat ad matrimonium faciendum  
 
-***Ad tertium sic proceditur. Videtur quod consensus in occulto factus per verba de praesenti non facit matrimonium. Res enim in potestate alterius existens non transfertur in potestatem alterius, nisi consentiente illo in cujus potestate erat. Sed puella erat in potestate patris. Ergo non potest per matrimonium transire in potestatem viri, nisi patre consentiente; et ita, si fiat in occulto consensus, etiam per verba de praesenti expressus, non erit matrimonium.***
+Ad tertium sic proceditur. Videtur quod consensus in occulto factus per verba de praesenti non facit matrimonium. Res enim in potestate alterius existens non transfertur in potestatem alterius, nisi consentiente illo in cujus potestate erat. Sed puella erat in potestate patris. Ergo non potest per matrimonium transire in potestatem viri, nisi patre consentiente; et ita, si fiat in occulto consensus, etiam per verba de praesenti expressus, non erit matrimonium.  
 
 Praeterea, sicut in matrimonio est actus noster quasi de essentia sacramenti, ita in poenitentia. Sed sacramentum poenitentiae non perficitur nisi mediantibus Ecclesiae ministris, qui sunt sacramentorum dispensatores. Ergo nec matrimonium potest perfici in occulto absque sacerdotali benedictione.  
 
@@ -99,7 +100,7 @@ Articulus 4
 
 ***In quid sit consensus qui matrimonium facit***
 
-***Ad quartum sic proceditur. Videtur quod consensus qui facit matrimonium, sit consensus in carnalem copulam. Quia, sicut dicit Hieronymus: *voventibus virginitatem non solum nubere, sed velle nubere, damnabile est*. Sed non esset damnabile, nisi esset virginitati contrarium; cui nuptiae non contrariantur nisi ratione carnalis copulae. Ergo consensus voluntatis qui est in nuptiis, est in carnalem copulam.***
+Ad quartum sic proceditur. Videtur quod consensus qui facit matrimonium, sit consensus in carnalem copulam. Quia, sicut dicit Hieronymus: *voventibus virginitatem non solum nubere, sed velle nubere, damnabile est*. Sed non esset damnabile, nisi esset virginitati contrarium; cui nuptiae non contrariantur nisi ratione carnalis copulae. Ergo consensus voluntatis qui est in nuptiis, est in carnalem copulam.  
 
 Praeterea, omnia quae sunt in matrimonio inter virum et uxorem, possunt esse licite inter fratrem et sororem, excepta carnali copula. Sed non potest licite inter eos fieri consensus matrimonialis. Ergo consensus matrimonialis est consensus in carnalem copulam.  
 
@@ -125,7 +126,7 @@ Rationes autem contrariae ostendunt quod non sit consensus in carnalem copulam e
 
 Expositio textus  
 
-****Sine quibus legitime fit quantum ad virtutem, non honestatem sacramenti*. Contra. In secundis nuptiis non est benedictio sacerdotalis, et tamen est honestas matrimonii. Et dicendum, quod non est ibi honestas quantum ad perfectam significationem matrimonii; unde propter defectum sacramenti benedictio intermittitur.***
+*Sine quibus legitime fit quantum ad virtutem, non honestatem sacramenti*. Contra. In secundis nuptiis non est benedictio sacerdotalis, et tamen est honestas matrimonii. Et dicendum, quod non est ibi honestas quantum ad perfectam significationem matrimonii; unde propter defectum sacramenti benedictio intermittitur.  
 
 *Matrimonium non facit consensus*, etc. Hoc intelligitur quantum ad judicium Ecclesiae; sed quantum ad judicium conscientiae solus consensus matrimonium facit firmum.  
 

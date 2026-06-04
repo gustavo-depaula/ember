@@ -1,8 +1,10 @@
 # D. 28 - Errors about grace
 
+***De quibusdam erroribus circa gratiam***
+
 ***Divisio textus***
 
-***Postquam determinavit de gratia secundum veritatem, hic excludit quosdam errores circa gratiam; et dividitur in partes duas:***
+Postquam determinavit de gratia secundum veritatem, hic excludit quosdam errores circa gratiam; et dividitur in partes duas:  
 
 in prima excludit errorem Pelagii, qui gratiae derogabat;  
 
@@ -58,7 +60,7 @@ Articulus 1
 
 ***Utrum homo possit facere aliquod bonum sine gratia***
 
-***Ad primum sic proceditur. Videtur quod homo sine gratia nullum bonum facere possit.***
+Ad primum sic proceditur. Videtur quod homo sine gratia nullum bonum facere possit.  
 
 Quia, sicut Joan. 15:5, dicitur a Christo discipulis: *sine me nihil potestis facere*. Sed Deus non habitat in nobis nisi per gratiam. Ergo videtur quod sine gratia homo nihil boni facere possit.  
 
@@ -98,7 +100,7 @@ Articulus 2
 
 ***Utrum homo sine gratia possit vitare peccatum***
 
-***Ad secundum sic proceditur. Videtur quod homo sine gratia non possit peccatum vitare.***
+Ad secundum sic proceditur. Videtur quod homo sine gratia non possit peccatum vitare.  
 
 Primo per hoc quod supra Magister dixit, quod homo ante reparationem gratiae, per liberum arbitrium non potest non peccare etiam mortaliter. Ergo sine gratia homo vitare non potest peccatum.  
 
@@ -138,7 +140,7 @@ Articulus 3
 
 ***Utrum homo possit implere praecepta Dei sine gratia***
 
-***Ad tertium sic proceditur. Videtur quod homo sine gratia Dei praecepta implere non possit.***
+Ad tertium sic proceditur. Videtur quod homo sine gratia Dei praecepta implere non possit.  
 
 Qui enim mandata Dei servat vitam aeternam meretur, ut dicitur Luc. 10:28: *hoc fac, et vives*. Sed hoc non potest homo sine gratia. Ergo nec mandata legis implere.  
 
@@ -172,7 +174,7 @@ Articulus 4
 
 ***Utrum homo possit se praeparare ad gratiam sine aliqua gratia***
 
-***Ad quartum sic proceditur. Videtur quod homo non possit se praeparare ad gratiam sine aliqua gratia.***
+Ad quartum sic proceditur. Videtur quod homo non possit se praeparare ad gratiam sine aliqua gratia.  
 
 Primo per id quod dicitur Hierem. 10:23: *non est in homine*Vulg.: *hominis*. *via ejus, nec viri est ut dirigat gressus suos*. Sed nullus praeparatur ad gratiam nisi gressus ejus dirigantur et viam salutis quaerat. Ergo non est in potestate hominis ut se ad gratiam praeparet.  
 
@@ -210,7 +212,7 @@ Articulus 5
 
 ***Utrum homo possit scire aliquid verum sine gratia***
 
-***Ad quintum sic proceditur. Videtur quod sine gratia homo nihil verum scire possit.***
+Ad quintum sic proceditur. Videtur quod sine gratia homo nihil verum scire possit.  
 
 Primo per id quod dicitur 1 Corinth. 12:3: *nemo potest dicere, Dominus Jesus, nisi in*Mandonnet omits *in*. *Spiritu Sancto*; ubi dicit Ambrosius quod omne verum, a quocumque dicatur, a Spiritu Sancto est. Sed Spiritus Sanctus non habitat in nobis nisi per gratiam. Ergo nullum verum dici aut sciri sine gratia potest.  
 
@@ -244,7 +246,7 @@ Ad quintum dicendum, quod ipse Deus est causa cujuslibet nostrae cognitionis. No
 
 Expositio textus  
 
-****Ut sine hac credant hominem posse facere omnia Dei mandata*. Intelligebant, ut simpliciter impleri possint, secundum quod sunt efficacia ad vitam aeternam promerendam.***
+*Ut sine hac credant hominem posse facere omnia Dei mandata*. Intelligebant, ut simpliciter impleri possint, secundum quod sunt efficacia ad vitam aeternam promerendam.  
 
 *Ad hoc tamen juvante nos per suam legem atque doctrinam, ut discamus quae facere et quae sperare debeamus*. Ex hoc patet quod Pelagius ponebat eorum quae in lege sunt, aut quae ad fidem pertinent, cognitionem a nobis haberi non posse per naturalem virtutem rationis, et in hoc recte sentiebat.  
 

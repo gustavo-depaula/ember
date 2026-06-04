@@ -1,6 +1,8 @@
 # C. 2 - The arguments of those who wish to prove that the given form of absolution should not be maintained, and their solutions
 
-***Sicut autem est temerarius id asserendo, ita vaniloquus in probando, dum frivola quaedam pro rationibus inducit.***
+Rationes probare volentium dictam absolutionis formam non debere teneri et solutio earum  
+
+Sicut autem est temerarius id asserendo, ita vaniloquus in probando, dum frivola quaedam pro rationibus inducit.  
 
 Primo inducit quandam postillam super summam Raymundi, quae dicit quod *in talibus*, scilicet absolutione ab excommunicatione, *quamvis verba exigantur, non est praescripta forma verborum, sicut in sacramento Baptismi et Eucharistiae*. Ubi primo derisorium est postillam summae in tanta re pro auctoritate inducere; deinde ut postillatori non fiat iniuria, dicamus quod alia ratio est de absolutione ab excommunicatione quae non est sacramentalis, sed magis iudiciaria iurisdictionem consequens, et aliud de absolutione a peccatis in sacramento poenitentiae, quae consequitur potestatem clavium et est sacramentalis. In illa enim verba habent efficaciam ab intentione dicentis; unde non refert quibuscumque verbis utatur ad exprimendum suam intentionem. In sacramentis autem verba habent efficaciam ex institutione divina; unde tenenda sunt verba determinata consonantia divinae institutioni. Institutioni autem dicentis: *quodcumque solveris*, ista verba conveniunt: *ego te absolvo*, sicut institutioni dicentis: *euntes docete, baptizantes in nomine patris* et cetera, conveniunt ista verba: *ego te baptizo in nomine patris* et cetera; et ideo sicut ista verba sunt tenenda in Baptismo: *ego te baptizo*, ita in poenitentia: *ego te absolvo*.  
 

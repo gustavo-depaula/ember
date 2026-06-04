@@ -1,10 +1,12 @@
 # C. 1 - Ministers Against the Reprobate
 
+***Ministri contra reprobatos***
+
 ***Lectio 1***
 
 ***Salutatio***
 
-***^1:1^ Paulus servus Dei, apostolus autem Jesu Christi secundum fidem electorum Dei, et agnitionem veritatis, quae secundum pietatem est [n. 3]***
+^1:1^ Paulus servus Dei, apostolus autem Jesu Christi secundum fidem electorum Dei, et agnitionem veritatis, quae secundum pietatem est [n. 3]  
 
 > ^1:2^ in spem vitae aeternae, quam promisit qui non mentitur, Deus, ante tempora saecularia: [n. 6]
 
@@ -66,7 +68,7 @@ Lectio 2
 
 ***Ordinatio presbyterorum***
 
-***^1:5^ Hujus rei gratia reliqui te Cretae, ut ea quae desunt, corrigas, et constituas per civitates presbyteros, sicut et ego disposui tibi, [n. 10]***
+^1:5^ Hujus rei gratia reliqui te Cretae, ut ea quae desunt, corrigas, et constituas per civitates presbyteros, sicut et ego disposui tibi, [n. 10]  
 
 > ^1:6^ si quis sine crimine est, unius uxoris vir, filios habens fideles, non in accusatione luxuriae, aut non subditos. [n. 13]
 
@@ -148,7 +150,7 @@ Lectio 3
 
 ***Reprobatio *haereticorum****
 
-***^1:9^ amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere. [n. 21]***
+^1:9^ amplectentem eum, qui secundum doctrinam est, fidelem sermonem: ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere. [n. 21]  
 
 > ^1:10^ Sunt enim multi etiam inobedientes, vaniloqui, et seductores: maxime qui de circumcisione sunt: [n. 25]
 
@@ -232,7 +234,7 @@ Lectio 4
 
 ***Mendaces***
 
-***^1:13^ Testimonium hoc verum est. [n. 32] Quam ob causam increpa illos dure, ut sani sint in fide, [n. 33]***
+^1:13^ Testimonium hoc verum est. [n. 32] Quam ob causam increpa illos dure, ut sani sint in fide, [n. 33]  
 
 > ^1:14^ non intendentes judaicis fabulis, et mandatis hominum, aversantium se a veritate. [n. 36]
 

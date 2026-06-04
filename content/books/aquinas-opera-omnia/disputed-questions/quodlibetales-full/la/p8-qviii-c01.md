@@ -1,5 +1,7 @@
 # On Things Pertaining to Nature
 
+***Quaestio 1***
+
 ***Ad naturam increatam***
 
 ***Quaestio nostra circa tria versatur;***
@@ -24,7 +26,7 @@ secundo de rationibus idealibus quae sunt in mente divina, utrum per prius respi
 
 Articulus 1  
 
-***An senarius numerus, secundum quem omnes creaturae dicuntur esse perfectae, sit creator vel creatura***
+An senarius numerus, secundum quem omnes creaturae dicuntur esse perfectae, sit creator vel creatura  
 
 ***Ad primum sic proceditur. Videtur quod praedictus senarius sit creator.***
 
@@ -60,7 +62,7 @@ Articulus 2
 
 ***De rationibus idealibus quae sunt in mente divina***
 
-***Ad secundum sic proceditur. Videtur quod ideae quae sunt in mente divina, per prius respiciant res quantum ad naturam singularem quam quantum ad naturam speciei.***
+Ad secundum sic proceditur. Videtur quod ideae quae sunt in mente divina, per prius respiciant res quantum ad naturam singularem quam quantum ad naturam speciei.  
 
 Quia, ut Augustinus dicit in libro *LXXXIII quaestionum*: *ideae sunt quaedam formae vel rationes rerum stabiles, quae divina intelligentia continentur; et cum ipse neque oriantur neque intereant, secundum eas tamen formari dicitur omne quod oriri et interire potest et omne quod oritur et interit*; sed solum singulare est quod oritur et interit, id est quod generatur et corrumpitur; ergo ideae per prius respiciunt singulare.  
 
@@ -98,7 +100,7 @@ Articulus 1
 
 ***Utrum anima accipiat species quibus cognoscit a rebus quae sunt extra animam***
 
-***Ad primum sic proceditur. Videtur quod anima non accipiat species a rebus quae sunt extra animam.***
+Ad primum sic proceditur. Videtur quod anima non accipiat species a rebus quae sunt extra animam.  
 
 Dicit enim Augustinus, XII *Super Genesim ad litteram*: *imaginem* corporis *non corpus in spiritu, sed ipse spiritus in se ipso facit celeritate mirabili*; non autem eam in se ipso faceret si a rebus exterioribus eam acciperet; ergo anima non accipit a rebus species quibus cognoscit.  
 
@@ -128,7 +130,7 @@ Articulus 2
 
 ***Quomodo caritas vel aliquis alius habitus a non habente cognoscatur***
 
-***Ad secundum sic proceditur. Videtur quod non habens caritatem, eam cognoscat per speciem.***
+Ad secundum sic proceditur. Videtur quod non habens caritatem, eam cognoscat per speciem.  
 
 Omne enim quod cognoscitur, cognoscitur vel per essentiam vel per sui similitudinem; sed caritas a non habente non cognoscitur per sui essentiam, quia non est essentialiter in eo; ergo, si cognoscitur a non habente, cognoscitur per sui similitudinem.  
 
@@ -176,7 +178,7 @@ Quaestio 3
 
 ***Utrum alimentum convertatur in veritatem humanae naturae***
 
-***Deinde quaeritur quantum pertinet ad corpus humanum, utrum alimentum convertatur in veritatem humanae naturae? Et videtur quod non.***
+Deinde quaeritur quantum pertinet ad corpus humanum, utrum alimentum convertatur in veritatem humanae naturae? Et videtur quod non.  
 
 Quia in corpore humano illud quod est de veritate humanae naturae est caro vel os secundum speciem; sed alimentum non convertitur in id quod est *secundum speciem*, sed in id quod est *secundum materiam*, ut videtur dicere Philosophus in I *De generatione*; ergo alimentum non convertitur in veritatem humanae naturae.  
 

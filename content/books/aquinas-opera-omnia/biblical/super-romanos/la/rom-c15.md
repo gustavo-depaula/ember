@@ -1,10 +1,12 @@
 # C. 14 - Avoidance of Scandal
 
+***Fuga Scandali***
+
 ***Lectio 1***
 
 ***Dominus solus iudex est***
 
-***^14:1^ Infirmum autem in fide assumite, non in disceptationibus cogitationum. [n. 1081]***
+^14:1^ Infirmum autem in fide assumite, non in disceptationibus cogitationum. [n. 1081]  
 
 > ^14:2^ Alius enim credit se manducare omnia: qui autem infirmus est, olus manducet. [n. 1083]
 
@@ -224,7 +226,7 @@ Lectio 2
 
 ***Misericordia ad infirmos***
 
-***^14:13^ sed hoc judicate magis, ne ponatis offendiculum fratri, vel scandalum. [n. 1115]***
+^14:13^ sed hoc judicate magis, ne ponatis offendiculum fratri, vel scandalum. [n. 1115]  
 
 > ^14:14^ Scio, et confido in Domino Jesu, quia nihil commune per ipsum, nisi ei qui existimat quid commune esset, illi commune est. [n. 1117]
 
@@ -334,7 +336,7 @@ Lectio 3
 
 ***Esca munda et immunda***
 
-***^14:20^ Omnia quidem sunt munda: sed malum est homini, qui per offendiculum manducat. [n. 1132]***
+^14:20^ Omnia quidem sunt munda: sed malum est homini, qui per offendiculum manducat. [n. 1132]  
 
 > ^14:21^ Bonum est non manducare carnem, et non bibere vinum, neque in quo frater tuus offenditur, aut scandalizatur, aut infirmatur. [n. 1134]
 

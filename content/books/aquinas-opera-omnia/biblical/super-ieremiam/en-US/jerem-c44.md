@@ -1,10 +1,12 @@
 # C. 42 - Instruction of the remnant
 
+***Instruction of the remnant***
+
 ***Lecture 1***
 
 ***The remnant asks for prayers***
 
-***^42:1^ And all the captains of the men of war, and Johanan, the son of Kareah, and Jezaniah, the son of Hoshaiah, and the rest of the people, from the least to the greatest, came near,***
+^42:1^ And all the captains of the men of war, and Johanan, the son of Kareah, and Jezaniah, the son of Hoshaiah, and the rest of the people, from the least to the greatest, came near,  
 
 > ^42:2^ and they said to Jeremiah the prophet, ‘Let our supplication be accepted before you, and pray for us to the Lord your God, for all this remnant, for we have been left a few from many, as your eyes see us.
 
@@ -48,7 +50,7 @@ Lecture 2
 
 ***God’s promises to the remnant***
 
-***^42:7^ Now, when ten days were accomplished, the word of the Lord came to Jeremiah.***
+^42:7^ Now, when ten days were accomplished, the word of the Lord came to Jeremiah.  
 
 > ^42:8^ And he called Johanan, the son of Kareah, and all the captains of the men of war who were with him, and all the people, from the least to the greatest.
 

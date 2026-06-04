@@ -1,6 +1,8 @@
 # Chapter 8
 
-***^8:1^ Et dixit Dominus ad me: sume tibi librum grandem et scribe in eo stylo hominis: velociter spolia detrahe, cito prædare.***
+***Lectio 1***
+
+^8:1^ Et dixit Dominus ad me: sume tibi librum grandem et scribe in eo stylo hominis: velociter spolia detrahe, cito prædare.  
 
 > ^8:2^ Et adhibui mihi testes fideles, Uriam sacerdotem et Zachariam filium Barachiæ.
 
@@ -106,7 +108,7 @@ Septimo ***vivificans*** quantum ad fructum, Eccli. XXIV 32 *haec omnia liber vi
 
 Lectio 2  
 
-***^8:4^ Quia antequam sciat puer vocare patrem suum et matrem suam auferetur fortitudo Damasci et spolia Samariæ coram rege Assyriorum.***
+^8:4^ Quia antequam sciat puer vocare patrem suum et matrem suam auferetur fortitudo Damasci et spolia Samariæ coram rege Assyriorum.  
 
 > ^8:5^ Et adjecit Dominus loqui ad me adhuc dicens:
 
@@ -262,7 +264,7 @@ tertia coronantis, Sap. V 17 *accipient regnum decoris et diadema speciei de man
 
 Lectio 3  
 
-***^8:14^ et erit vobis in sanctificationem, in lapidem autem offensionis et in petram scandali duabus domibus Israel, in laqueum et in ruinam habitantibus Jerusalem.***
+^8:14^ et erit vobis in sanctificationem, in lapidem autem offensionis et in petram scandali duabus domibus Israel, in laqueum et in ruinam habitantibus Jerusalem.  
 
 > ^8:15^ Et offendent ex eis plurimi et cadent et conterentur et irretientur et capientur.
 

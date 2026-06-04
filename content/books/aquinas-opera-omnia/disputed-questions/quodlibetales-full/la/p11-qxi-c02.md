@@ -1,12 +1,14 @@
 # On Angels
 
+***Quaestio 4***
+
 ***De angelis***
 
 ***Articulus unicus***
 
 ***De motu angeli***
 
-***Circa angelos quaesitum fuit de motu angeli, utrum scilicet motus eius sit in instanti? Et videtur quod sic.***
+Circa angelos quaesitum fuit de motu angeli, utrum scilicet motus eius sit in instanti? Et videtur quod sic.  
 
 Constat enim quod mutatio angeli simplicior est omni mutatione corporali; sed invenitur aliqua mutatio corporalis in instanti, sicut illuminatio et huiusmodi; ergo multo magis motus angeli est in instanti.  
 

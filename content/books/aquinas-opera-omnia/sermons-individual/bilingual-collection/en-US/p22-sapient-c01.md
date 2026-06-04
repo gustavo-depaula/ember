@@ -1,5 +1,7 @@
 # Sermon Fragment — Wisdom Will Strengthen the Wise (Sapient)
 
+Friar Thomas AquinasThe fragment here is the *prothema* (prologue) to the sermon; it is possibly authentic, but there remains some doubt on the question of its authenticity.  
+
 ***Ecclesiastes 7:20***
 
 ***Wisdom will strengthen the wise.***

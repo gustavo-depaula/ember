@@ -1,5 +1,7 @@
 # Evening Collation
 
+**2.3. *Exiit qui seminat*** etc. Dictum fuit hodie de semine et de duplici exitu seminatoris. Restat nunc dicere de tertio exitu seminatoris, id est praedicatoris, quia debet praedicator exire ab occulto contemplationis ad publicum praedicacionis.  
+
 Debet enim praedicator in contemplatione prius haurire quod postea in praedicatione effundat, unde Isaiae XII: *haurietis aquas in gaudio*, scilicet contemplationis, *de fontibus Salvatoris*, id est de divina sapientia, *et*, tunc, *dicetis in illa die*, scilicet quando hauseritis, *confitemini Domino* etc. Iste exitus simillimus est exitui Salvatoris a secreto Patris ad publicum visibilitatis, unde in Cantico: *ego dilecto meo, ad me conversio eius*, scilicet in occulto contemplationis. Per duo convertitur anima ad Deum, per devotam orationem et per contemplationem; et Deus convertitur ad animam per internam locutionem, unde dicit: *dilectus meus mihi et ego illi*. Sed numquid semper erimus hic? Non, unde dicit: *veni dilecte mi, egrediamur in agrum*, id est praedicationis publicum, *commoremur*, scilicet per instantiam praedicationis, *in villis*, id est in hominibus dispositis ad praedicandum. Notate: cum dicit *commoremur*, significat quandam familiaritatem Dei cum praedicatore; *egrediamur*, ego inspirando et tu praedicando.  
 
 Quando exibimus? *Mane* egrediamur *ad vineas*. Et quomodo mane? Christus exivit mane; unde in Evangelio: *exivit* summo *mane conducere operarios in vineam suam*.  

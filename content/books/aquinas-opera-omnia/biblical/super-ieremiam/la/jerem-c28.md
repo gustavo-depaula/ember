@@ -1,6 +1,8 @@
 # C. 26 - Conspiracy of the princes
 
-***^26:1^ In principio regni Joakim filii Josiae regis Juda, factum est verbum istud a Domino, dicens.***
+***Lectio 1***
+
+^26:1^ In principio regni Joakim filii Josiae regis Juda, factum est verbum istud a Domino, dicens.  
 
 > **135**. Hic ponitur conspiratio principum contra prophetam.
 
@@ -16,7 +18,7 @@ Titulus per se patet.
 
 Lectio 2  
 
-***^26:2^ Haec dicit Dominus: sta in atrio domus Domini, et loqueris ad omnes civitates Juda, de quibus veniunt ut adorent in domo Domini universos sermones quos ego mandavi tibi ut loquaris ad eos. Noli subtrahere verbum,***
+^26:2^ Haec dicit Dominus: sta in atrio domus Domini, et loqueris ad omnes civitates Juda, de quibus veniunt ut adorent in domo Domini universos sermones quos ego mandavi tibi ut loquaris ad eos. Noli subtrahere verbum,  
 
 > ^26:3^ si forte audiant, et convertantur unusquisque a via sua mala, et poeniteat me mali quod cogito facere eis propter malitiam studiorum eorum.
 
@@ -44,7 +46,7 @@ Tertio ponit praedicationis verbum, ***et dices***. Supra 7: ***faciam domui hui
 
 Lectio 3  
 
-***^26:7^ Et audierunt sacerdotes et prophetae, et omnis populus Jeremiam loquentem verba haec in domo Domini.***
+^26:7^ Et audierunt sacerdotes et prophetae, et omnis populus Jeremiam loquentem verba haec in domo Domini.  
 
 > ^26:8^ Cumque complesset Jeremia loquens omnia quae praeceperat ei Dominus ut loqueretur ad universum populum apprehenderunt eum sacerdotes et prophetae, et omnis populus, dicens: morte moriatur.
 
@@ -62,7 +64,7 @@ Quarto populi concursum: ***et congregatus est omnis populus***. Eccli. 10: *qua
 
 Lectio 4  
 
-***^26:10^ Et audierunt principes Juda verba haec, et ascenderunt de domo regis in domum Domini, et sederunt in introitu portae domus Domini novae.***
+^26:10^ Et audierunt principes Juda verba haec, et ascenderunt de domo regis in domum Domini, et sederunt in introitu portae domus Domini novae.  
 
 > ^26:11^ Et locuti sunt sacerdotes, et prophetae ad principes, et ad omnem populum, dicentes: judicium mortis est viro huic; quia prophetavit adversus civitatem istam, sicut audistis auribus vestris.
 
@@ -104,7 +106,7 @@ Secundo sententia confirmatur per seniores, quorum est antiqua facta scire. Job 
 
 Lectio 5  
 
-***^26:17^ Surrexerunt ergo viri de senioribus terrae, et dixerunt ad omnem coetum populi loquentes:***
+^26:17^ Surrexerunt ergo viri de senioribus terrae, et dixerunt ad omnem coetum populi loquentes:  
 
 > ^26:18^ Michaeas de Morasthi fuit propheta in diebus Ezechiae regis Juda, et ait ad omnem populum Juda, dicens: haec dicit Dominus exercituum: Sion quasi ager arabitur, et Jerusalem in acervum lapidum erit, et mons domus Domini in excelsa silvarum.
 

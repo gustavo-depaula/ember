@@ -1,6 +1,8 @@
 # D. 10 - What belongs to the divine person on account of the union
 
-****Solet etiam a quibusdam quaeri.* Postquam determinavit Magister quid conveniat vel non conveniat uni naturae ex hoc quod est alteri sociata in persona Christi, hic determinat quid conveniat ipsi personae Christi ratione humanae naturae. Quid enim sibi conveniat ratione divinae naturae, dictum est in 1 lib.***
+***Divisio textus***
+
+*Solet etiam a quibusdam quaeri.* Postquam determinavit Magister quid conveniat vel non conveniat uni naturae ex hoc quod est alteri sociata in persona Christi, hic determinat quid conveniat ipsi personae Christi ratione humanae naturae. Quid enim sibi conveniat ratione divinae naturae, dictum est in 1 lib.  
 
 Dividitur autem haec pars in duas.  
 
@@ -110,7 +112,7 @@ Praeterea, Deus et homo significant naturas disparatas. Sed in talibus non potes
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non sit Deus, secundum quod iste homo. Omne enim quod praedicatur de altero secundum quod aliquid, oportet quod sit definitio vel pars definitionis aut per se accidens illius secundum quod praedicatur; sicut cum dicitur: Petrus, secundum quod homo, est animal rationale mortale, vel secundum quod homo, est risibile. Sed Deus nullo dictorum modorum se habet ad istum hominem. Ergo haec est falsa: "Christus, secundum quod iste homo, est Deus."***
+Ulterius, videtur quod non sit Deus, secundum quod iste homo. Omne enim quod praedicatur de altero secundum quod aliquid, oportet quod sit definitio vel pars definitionis aut per se accidens illius secundum quod praedicatur; sicut cum dicitur: Petrus, secundum quod homo, est animal rationale mortale, vel secundum quod homo, est risibile. Sed Deus nullo dictorum modorum se habet ad istum hominem. Ergo haec est falsa: "Christus, secundum quod iste homo, est Deus."  
 
 Praeterea, Christus, secundum quod Deus, caret matre. Si igiturEd. read *ergo* and add *Christus*. secundum quod iste homo, est Deus, Christus secundum quod iste homo, caret matre: quod falsum est.  
 
@@ -122,7 +124,7 @@ Praeterea, hic homo demonstrat suppositum aeternum. Sed haec est vera: "Christus
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod Christus non sit praedestinatus secundum quod homo. Quod enim convenit Petro secundum quod homo, oportet quod cuilibet homini conveniat. Sed esse praedestinatum non convenit cuilibet homini. Ergo nec convenit Christo secundum quod homo.***
+Ulterius, videtur quod Christus non sit praedestinatus secundum quod homo. Quod enim convenit Petro secundum quod homo, oportet quod cuilibet homini conveniat. Sed esse praedestinatum non convenit cuilibet homini. Ergo nec convenit Christo secundum quod homo.  
 
 Praeterea, effectus praedestinationis conformiter respondet praedestinationi: alias esset praedestinatio falsa. Sed cum Christus sit praedestinatus esse Filius Dei, effectus hujus praedestinationis est esse Filius Dei. Si ergo Christus, secundum quod homo, non est Filius Dei, nec secundum quod homo est praedestinatus.  
 
@@ -130,7 +132,7 @@ Sed contra, Christus est praedestinatus, ut Apostolus dicit Rom. 1:4. Sed non se
 
 Solutio 1  
 
-***Respondeo dicendum quod id quod in aliqua propositione reduplicatur cum hoc quod dico, "secundum quod," est illud per quod praedicatum convenit subjecto. Unde oportet quod aliquo modo sit idem cum subjecto et aliquo modo idem cumVivès omits the phrase prior to *idem cum* due to homeoteleuton. praedicato. Sicut medius terminus in syllogismo affirmativo ad praedicatum quidem habet comparationem sicut ad id quod per se consequitur ipsum—nihil enim convenit alicui secundum quod est animal, nisi illud animali per se conveniat secundum quemcumque modum dicendi per se;—ad subjectum autem comparatur sicutEd. read *ad id*. The Brussels manuscript reads *illud*. id quod aliquo modoBruges manuscript reads *in subjecto intellectum est et includitur; aut in subjecto ipsa substantia subjecti et antecedentia . . .*  includitur in subjecto. Includitur autem in subjecto ipsa substantia subjecti, et antecedentia, sicut causae, et consequentia, sicut accidentia. Substantia autem subjecti est et ipsum subjectum et natura ejus.***
+Respondeo dicendum quod id quod in aliqua propositione reduplicatur cum hoc quod dico, "secundum quod," est illud per quod praedicatum convenit subjecto. Unde oportet quod aliquo modo sit idem cum subjecto et aliquo modo idem cumVivès omits the phrase prior to *idem cum* due to homeoteleuton. praedicato. Sicut medius terminus in syllogismo affirmativo ad praedicatum quidem habet comparationem sicut ad id quod per se consequitur ipsum—nihil enim convenit alicui secundum quod est animal, nisi illud animali per se conveniat secundum quemcumque modum dicendi per se;—ad subjectum autem comparatur sicutEd. read *ad id*. The Brussels manuscript reads *illud*. id quod aliquo modoBruges manuscript reads *in subjecto intellectum est et includitur; aut in subjecto ipsa substantia subjecti et antecedentia . . .*  includitur in subjecto. Includitur autem in subjecto ipsa substantia subjecti, et antecedentia, sicut causae, et consequentia, sicut accidentia. Substantia autem subjecti est et ipsum subjectum et natura ejus.  
 
 Et ratione omnium istorum potest aliquid attribui Christo et cuilibet homini. Si enim aliquid attribuaturEd. read *attribuitur*. homini ratione principiorum praecedentium; sic dicimus quantum ad causam materialem, quod "homo, secundum quod est compositum ex contrariis, est corruptibilis"; quantum ad causam formalem dicimus quod "homo, secundum quod habet animam rationalem, est ad imaginem Dei"; quantum vero ad causam efficientem dicimus quod "Petrus, secundum quod natus de tali patre, est ejus heres"; quantum autem adEd. add *causam*. finalem dicimus quod "homo, secundum quod est ad beatitudinem ordinatus, oportet quod sit immortalis quantum ad animam". Si autem attribuatur aliquid homini ratione accidentium, sic dicimus, quod "homo, secundum quod est coloratus, est visibilis."Ed. add *sibi*. Si autem attribuatur aliquid ratione ipsiusEd. omit ipsius. suppositi, sic dicimus quod "Socrates, secundum quod Socrates, est individuum; si autem ratione naturae, sic dicimus quod "homo, secundum quod homo, est animal."  
 
@@ -144,7 +146,7 @@ Ad tertium dicendum quod dimittere peccata est dupliciter. Vel per auctoritatem;
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod ad hoc quod aliqua praedicatio sit per se, non oportet quod praedicatum per se conveniat subjecto secundum omneBruges and Brussels manuscripts read *esse*. quod in nomine subjecti implicatur; sed sufficit si secundum aliquid eorum sibi per se conveniat. Sicut ratiocinari per se convenit homini, non inquantum habet corpus, sed inquantum habet animam; unde haec est per se: "homo ratiocinatur." Cum autem dicitur: "iste homo," demonstrato Christo, includitur ex vi demonstrationis determinatum suppositum humanae naturae, quod est suppositum aeternum, secundum secundam opinionem: cui supposito per se convenit esse Deum. Unde haec est per se secundum secundam opinionem: "iste homo est Deus." Et quia ad veritatem hujusmodi locutionum non exigitur nisi quod praedicatum per se conveniat ei quod replicatur; ideo haec est vera: "Christus secundum quod iste homo, est Deus."***
+Ad secundam quaestionem dicendum quod ad hoc quod aliqua praedicatio sit per se, non oportet quod praedicatum per se conveniat subjecto secundum omneBruges and Brussels manuscripts read *esse*. quod in nomine subjecti implicatur; sed sufficit si secundum aliquid eorum sibi per se conveniat. Sicut ratiocinari per se convenit homini, non inquantum habet corpus, sed inquantum habet animam; unde haec est per se: "homo ratiocinatur." Cum autem dicitur: "iste homo," demonstrato Christo, includitur ex vi demonstrationis determinatum suppositum humanae naturae, quod est suppositum aeternum, secundum secundam opinionem: cui supposito per se convenit esse Deum. Unde haec est per se secundum secundam opinionem: "iste homo est Deus." Et quia ad veritatem hujusmodi locutionum non exigitur nisi quod praedicatum per se conveniat ei quod replicatur; ideo haec est vera: "Christus secundum quod iste homo, est Deus."  
 
 Ad primum ergo dicendum quod sicut aliquid est de definitione speciei quod non est de definitione generis; ita aliquid de definitione individui esset, si definiretur, quod non est de definitione speciei, sicut pars materiae, ut dicit Philosophus in 7 *Meta*. Unde licet Deus non sit pars definitionis hominis, esset tamen pars definitionis hujus hominis Christi, si definiri posset ratione personae Verbi. Unde patet quod est per se.  
 
@@ -154,7 +156,7 @@ Ad tertium dicendum quod remoto a Christo toto hoc quod importatur cum dicitur: 
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod quia praedestinatio importat antecessionem, ideo per consequens includit factionem; quia omne quod est, postquam non fuit, dicitur factum. Unde dicitur aliquis praedestinatus, inquantum praevisus est fieri beatus. Omnia autem quae factionemThe Vivès edition reads *actionem*. et motum important, conveniunt per se ei quod accedit ad terminum, cui tamen per se non convenit esse in termino; sicut moveri ad albedinem, per se convenit non albo, cui non convenit esse album. Praedestinatio autem quae de Christo dicitur, est respectu gratiae unionis, secundum quam factum est ut homo esset Deus: cujus factionis terminus est esse Deum. Accedens autem ad terminum est quod assumitur ad unionem, scilicet humana natura; et ideo ratione humanae naturae convenit Christo esse praedestinatum, non autem esse Deum. Unde haec est vera: "Christus secundum quod homo, est praedestinatus"; haec autem est falsa: "Christus secundum quod homo, est Deus."***
+Ad tertiam quaestionem dicendum quod quia praedestinatio importat antecessionem, ideo per consequens includit factionem; quia omne quod est, postquam non fuit, dicitur factum. Unde dicitur aliquis praedestinatus, inquantum praevisus est fieri beatus. Omnia autem quae factionemThe Vivès edition reads *actionem*. et motum important, conveniunt per se ei quod accedit ad terminum, cui tamen per se non convenit esse in termino; sicut moveri ad albedinem, per se convenit non albo, cui non convenit esse album. Praedestinatio autem quae de Christo dicitur, est respectu gratiae unionis, secundum quam factum est ut homo esset Deus: cujus factionis terminus est esse Deum. Accedens autem ad terminum est quod assumitur ad unionem, scilicet humana natura; et ideo ratione humanae naturae convenit Christo esse praedestinatum, non autem esse Deum. Unde haec est vera: "Christus secundum quod homo, est praedestinatus"; haec autem est falsa: "Christus secundum quod homo, est Deus."  
 
 Ad primum ergo dicendum quod ratio illa procedit de illis quae conveniunt alicui ratione humanae naturae secundum rationem speciei. Sed praedestinari convenit Christo ratione humanae naturae particulatae in ipso. Unde objectio non est ad propositum.  
 
@@ -166,7 +168,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Christus, secundum quod homo, sit persona.***
+Ad secundum sic proceditur. Videtur quod Christus, secundum quod homo, sit persona.  
 
 Persona enim, ut dicit Boetius, *est rationalis naturae individua substantia*. Sed Christus, secundum quod homo, est hujusmodi. Ergo secundum quod homo est persona.  
 
@@ -180,7 +182,7 @@ Praeterea, impossibile est quod idem numero conveniat alicui secundum duas natur
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod sit, secundum quod homo, individuum. Christus enim, secundum quod homo, est aliquid. Sed non est aliquid universale. Ergo est aliquid particulare. Ergo secundum quod homo, est individuum.***
+Ulterius, videtur quod sit, secundum quod homo, individuum. Christus enim, secundum quod homo, est aliquid. Sed non est aliquid universale. Ergo est aliquid particulare. Ergo secundum quod homo, est individuum.  
 
 Praeterea, in individuo nihil est nisi natura speciei et accidentia individuantia ipsam.Brussels manuscript omits *ipsam*. Sed Christus, secundum quod homo, habet naturam humanam et accidentia individuantia ipsam. Ergo, secundum quod homo, est individuum.  
 
@@ -190,7 +192,7 @@ Sed contra, individuum in genere rationalis naturae nihil aliud est quam persona
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod Christus,Brussels manuscript omits *Christus*. secundum quod homo, sit suppositum vel res naturae. Suppositum enim vel res naturae dicitur aliquis ex hoc quod habet humanam naturam. Sed Christus, secundum quod homo, habet humanam naturam. Ergo, secundum quod homo, est suppositum vel res naturae.***
+Ulterius, videtur quod Christus,Brussels manuscript omits *Christus*. secundum quod homo, sit suppositum vel res naturae. Suppositum enim vel res naturae dicitur aliquis ex hoc quod habet humanam naturam. Sed Christus, secundum quod homo, habet humanam naturam. Ergo, secundum quod homo, est suppositum vel res naturae.  
 
 Praeterea, humana natura ita vere est in Christo sicut accidentia humanae naturae. Sed Christus, secundum quod homo, est subjectum accidentium humanae naturae. Ergo, et secundum quod homo, est suppositum vel res naturae.Brussels manuscript omits *naturae*.  
 
@@ -202,7 +204,7 @@ Praeterea, in Christo est tantum unum suppositum. Sed Christus, secundum quod De
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod in Christo non est nisi una persona quae est persona aeterna.Ed. read *ab aeterno* in place of *persona aeterna*. Nullum autem aeternum convenit Christo, secundum quod homo, proprie loquendo, ut patet ex praedictis. Unde haec non est vera: "Christus, secundum quod homo, est persona"; nisi replicetur suppositum hominis, ut dicatur: "Christus, secundum quod iste homo, est persona": hoc enim verum est.***
+Respondeo dicendum ad primam quaestionem quod in Christo non est nisi una persona quae est persona aeterna.Ed. read *ab aeterno* in place of *persona aeterna*. Nullum autem aeternum convenit Christo, secundum quod homo, proprie loquendo, ut patet ex praedictis. Unde haec non est vera: "Christus, secundum quod homo, est persona"; nisi replicetur suppositum hominis, ut dicatur: "Christus, secundum quod iste homo, est persona": hoc enim verum est.  
 
 Ad primum ergo dicendum quod Christus, secundum quod homo, est substantia rationalis naturae. Sed secundum quod iste homo, est individua substantia rationalis naturae. Unde secundum quod iste homo, est persona; sicut secundum quod iste homo, est Deus.  
 
@@ -212,7 +214,7 @@ Ad tertium dicendum quod ex hoc quod Christus operatus est secundum quod homo et
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod sicut supra 6 d. dictum est, individuum invenitur etEd. omit *et*. in substantiis et inEd. omit *in*. accidentibus. Secundum autem quod in substantiis est, habet de ratione sui quod sit subsistens: non autem secundum quod in accidentibus invenitur. Et utroque modo invenitur in Christo; tamen altero tantum modo praedicatur. Humana enim natura in Christo est quoddam individuum; sed Christus non est illud individuum, sed est individuum subsistens. Et hoc modo accipiendo individuum, secundum quod de Christo praedicatur, est in Christo unum tantum individuum sicut et una persona. Unde sicut Christus non est persona secundum quod homo, ita nec individuum.***
+Ad secundam quaestionem dicendum quod sicut supra 6 d. dictum est, individuum invenitur etEd. omit *et*. in substantiis et inEd. omit *in*. accidentibus. Secundum autem quod in substantiis est, habet de ratione sui quod sit subsistens: non autem secundum quod in accidentibus invenitur. Et utroque modo invenitur in Christo; tamen altero tantum modo praedicatur. Humana enim natura in Christo est quoddam individuum; sed Christus non est illud individuum, sed est individuum subsistens. Et hoc modo accipiendo individuum, secundum quod de Christo praedicatur, est in Christo unum tantum individuum sicut et una persona. Unde sicut Christus non est persona secundum quod homo, ita nec individuum.  
 
 Ad primum ergo dicendum quod Christus, secundum quod homo, est aliquid; non tamen sequitur: ergo secundum quod homo, est aliquid universale vel aliquidBrussels manuscript reads *et aliquid*; the other editions omit *aliquid*. particulare; quia homini accidit esse universale et particulare. Unde haec est per accidens: "homo est aliquid particulare"; haec autem per se: "iste homo est aliquid particulare." Unde Christus non est aliquid particulare secundum quod homo, sed secundum quod iste homo.  
 
@@ -222,7 +224,7 @@ Ad tertium dicendum quod ea quae conveniunt humanae naturae, non oportet quod eo
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod in propositionibus per se aliter est ex parte subjecti et ex parte praedicati; quia ex parte subjecti sufficit quod secundum unum tantum eorum quae in subjecto continentur, praedicatum per se conveniat subjecto; ex parte autem praedicati oportet quod quidquid est in praedicato, per se subjecto conveniat. Unde haec non est per se: "homo est animal album"; haec autem est per se: "homo albus est animal." Secundum hoc dico, quod in hoc quod dico suppositum vel res naturae, duo importantur, scilicet: respectus ad naturam communem, et aliquidEd. read *aliud*. subsistens cui inest respectus ille. Quorum unum inest Christo secundum quod homo, scilicet respectus ad naturam communem; non autem alterum, ut patet ex praedictis. Et ideo haec est falsa: "Christus, secundum quod homo, est suppositum vel res naturae"; tamen magis accedit ad veritatem quam aliqua praedictarum, inquantum ista nomina imponuntur a respectuEd. read *per respectum*. ad naturam communem. Unde si suppositum sumatur adjective, est vera. Christus enim, secundum quod homo, supponitur humanae naturae vel est aliquod suppositum humanae naturae. Et hoc etiam valet ad ea quae dicta sunt de persona et individuo.***
+Ad tertiam quaestionem dicendum quod in propositionibus per se aliter est ex parte subjecti et ex parte praedicati; quia ex parte subjecti sufficit quod secundum unum tantum eorum quae in subjecto continentur, praedicatum per se conveniat subjecto; ex parte autem praedicati oportet quod quidquid est in praedicato, per se subjecto conveniat. Unde haec non est per se: "homo est animal album"; haec autem est per se: "homo albus est animal." Secundum hoc dico, quod in hoc quod dico suppositum vel res naturae, duo importantur, scilicet: respectus ad naturam communem, et aliquidEd. read *aliud*. subsistens cui inest respectus ille. Quorum unum inest Christo secundum quod homo, scilicet respectus ad naturam communem; non autem alterum, ut patet ex praedictis. Et ideo haec est falsa: "Christus, secundum quod homo, est suppositum vel res naturae"; tamen magis accedit ad veritatem quam aliqua praedictarum, inquantum ista nomina imponuntur a respectuEd. read *per respectum*. ad naturam communem. Unde si suppositum sumatur adjective, est vera. Christus enim, secundum quod homo, supponitur humanae naturae vel est aliquod suppositum humanae naturae. Et hoc etiam valet ad ea quae dicta sunt de persona et individuo.  
 
 Et per hoc etiam patet solutio ad primum.  
 
@@ -246,7 +248,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod Deo non competat aliquem in filium adoptare.***
+Ad primum sic proceditur. Videtur quod Deo non competat aliquem in filium adoptare.  
 
 Adoptio enim est alicujus extraneae personae in filium vel nepotem, vel deinceps assumptio legitima. Sed Deo non est aliqua persona extranea, quia omnes ipse condidit. Ergo non competit ei adoptare.  
 
@@ -260,7 +262,7 @@ Praeterea, quicumque facit aliquos filios per gratiam, adoptat. Sed hoc Deo comp
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod adoptare sit tantum Dei Patris. Quia secundum leges, illius est adoptare cujus est filios generare. Sed solius Patris in Trinitate est Filium generare naturalem. Ergo ejus solius est filios adoptare.***
+Ulterius, videtur quod adoptare sit tantum Dei Patris. Quia secundum leges, illius est adoptare cujus est filios generare. Sed solius Patris in Trinitate est Filium generare naturalem. Ergo ejus solius est filios adoptare.  
 
 Praeterea, per adoptionem efficimur fratres Christi. Rom. 8:29: *ut ipse sit primogenitus in multis fratribus*. Sed Christus non est Filius nisi Dei Patris, ut supra d. 4, dictum est. Ergo et nos per adoptionem solius Patris filii sumus.  
 
@@ -272,7 +274,7 @@ Praeterea, secundum hoc quod adoptamur in filios Dei etEd. omit *et*. Deus Pater
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod per Filium tantum fiat adoptio. Per hoc quod dicitur ad Galat. 4:4: *misit Deus Filium suum factum ex muliere . . ., ut adoptionem filiorum reciperemus*.***
+Ulterius, videtur quod per Filium tantum fiat adoptio. Per hoc quod dicitur ad Galat. 4:4: *misit Deus Filium suum factum ex muliere . . ., ut adoptionem filiorum reciperemus*.  
 
 Praeterea, secundum Philosophum, 2 *Meta.*, illud quod est primum in quolibet genere, est causa eorum quae sunt post. Sed filiatio primo invenitur in Filio. Ergo per ipsum omnes efficimur filii, sicut per bonitatemEd. add *Filii*. Dei omnes efficimur boni; et sic ex Patre caelesti *omnis paternitas in caeloEd. read caelis. et in terra nominatur,* ad Ephes. 3:15.  
 
@@ -282,7 +284,7 @@ Praeterea, per caritatem efficimur filii Dei: 1 Joan. 3:1: *videte qualem carita
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod adoptatio transfertur ad divina ex similitudine humanorum. Homo enim dicitur aliquem in filium adoptare, secundum quod ex gratia dat alicuiThe Nicolaï version reads *ei*; the Vivès edition omits *alicui*. jus percipiendae hereditatis suae, cui per naturam non competit. Hereditas autem hominis dicitur illa qua homo dives est. Id autem quo Deus dives est, est per fruitionemEd. read *perfruitio*. sui ipsius, quia ex hoc beatus est, et ita haec est hereditas ejus. Unde inquantum hominibus qui ex naturalibus ad illam fruitionem pervenire non possunt, dat gratiam per quam homo illam beatitudinem meretur, ut sic ei competat jus in hereditate illa, secundum hoc dicitur aliquem in filium adoptare.***
+Respondeo dicendum ad primam quaestionem quod adoptatio transfertur ad divina ex similitudine humanorum. Homo enim dicitur aliquem in filium adoptare, secundum quod ex gratia dat alicuiThe Nicolaï version reads *ei*; the Vivès edition omits *alicui*. jus percipiendae hereditatis suae, cui per naturam non competit. Hereditas autem hominis dicitur illa qua homo dives est. Id autem quo Deus dives est, est per fruitionemEd. read *perfruitio*. sui ipsius, quia ex hoc beatus est, et ita haec est hereditas ejus. Unde inquantum hominibus qui ex naturalibus ad illam fruitionem pervenire non possunt, dat gratiam per quam homo illam beatitudinem meretur, ut sic ei competat jus in hereditate illa, secundum hoc dicitur aliquem in filium adoptare.  
 
 Ad primum ergo dicendum quod quamvis nulla persona sit sibiBruges and Brussels manuscripts read *ibi*. extranea quantum ad esse quod ab eo participat, est tamen sibiBruges manuscript reads *ibi*. extranea aliqua persona quantum ad jus percipiendae hereditatis.  
 
@@ -292,7 +294,7 @@ Ad tertium dicendum quod accidit adoptioni quae est apud nos, ut per eam dividat
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod adoptare convenit toti Trinitati, quia una est operatio totius Trinitatis, sicut et una essentia; sed tamen potest appropriari Patri, inquantum habet similitudinem cum proprio ejus.***
+Ad secundam quaestionem dicendum quod adoptare convenit toti Trinitati, quia una est operatio totius Trinitatis, sicut et una essentia; sed tamen potest appropriari Patri, inquantum habet similitudinem cum proprio ejus.  
 
 Ad primum ergo dicendum quod quamvis sit solius Patris Filium generare qui sit Deus, tamen est totius Trinitatis filios per creationem producere. Et ideo est etiam totius Trinitatis per gratiam filios adoptare.  
 
@@ -302,7 +304,7 @@ Ad tertium dicendum quod filiatio est relatio ejus quod est a principio; paterni
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod haec praepositio "per" potest notareEd. read *denotare*. duplicem causam: scilicet agentem mediam; et sic sumus adoptati a Deo Patre per Filium, ut appropriate loquamur, quia per eum Deus Pater multos filios in gloriam adduxit, ut dicitur ad Hebr. 2:10, secundum quod eum misit in mundum Salvatorem. Potest etiam notare formalem causam; et hoc dupliciter: vel inhaerentem vel exemplarem. Si inhaerentem, sic adoptati sumus per Spiritum Sanctum cui appropriatur caritas, secundum quam formaliter meremur. Ideo dicitur Ephes. 1:13: *signati estis Spiritu promissionis sancto, qui est pignus hereditatis nostrae*. Si vero designat causam exemplarem formalem, sic sumus adoptati per Filium. Unde diciturEd. omit *dicitur*. Rom. 8:29: *quos praescivit conformes fieri imaginis Filii sui, ut sit ipse primogenitus in multis fratribus*.***
+Ad tertiam quaestionem dicendum quod haec praepositio "per" potest notareEd. read *denotare*. duplicem causam: scilicet agentem mediam; et sic sumus adoptati a Deo Patre per Filium, ut appropriate loquamur, quia per eum Deus Pater multos filios in gloriam adduxit, ut dicitur ad Hebr. 2:10, secundum quod eum misit in mundum Salvatorem. Potest etiam notare formalem causam; et hoc dupliciter: vel inhaerentem vel exemplarem. Si inhaerentem, sic adoptati sumus per Spiritum Sanctum cui appropriatur caritas, secundum quam formaliter meremur. Ideo dicitur Ephes. 1:13: *signati estis Spiritu promissionis sancto, qui est pignus hereditatis nostrae*. Si vero designat causam exemplarem formalem, sic sumus adoptati per Filium. Unde diciturEd. omit *dicitur*. Rom. 8:29: *quos praescivit conformes fieri imaginis Filii sui, ut sit ipse primogenitus in multis fratribus*.  
 
 Et per hoc patet responsio ad objecta.  
 
@@ -324,7 +326,7 @@ Sed contra, sicut ex praedictisEd. read *dictis*. patet, adoptio filiorum fit pe
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod nec angelis conveniat adoptari. Quia illi convenit adoptari qui non est in domo patrisfamilias et in ipsam inducitur. Sed angeli semper fuerunt in domo Dei, quia in caelo empyreo creati sunt. Ergo eis non convenit adoptari.***
+Ulterius, videtur quod nec angelis conveniat adoptari. Quia illi convenit adoptari qui non est in domo patrisfamilias et in ipsam inducitur. Sed angeli semper fuerunt in domo Dei, quia in caelo empyreo creati sunt. Ergo eis non convenit adoptari.  
 
 Praeterea, sicut in littera dicitur, *nos ideo filii Dei adoptivi dicimur, quia cum nati fuerimus filii irae, per gratiam facti sumus filii Dei*. Sed angeli nunquam fuerunt filii irae. Ergo unquam nequeEd. read *nunquam*. fuerunt non filii, ad minus secundum illos qui dicunt quod angeli fuerunt creati in gratia. Ergo angelis non convenit adoptari.  
 
@@ -336,7 +338,7 @@ Praeterea, angeli dicuntur fratres et consortes nostri; sedEd. add *hoc*. nonEd.
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod etiam Christus sit filius adoptivus. Quia Hilarius dicit: *potestatis dignitas non amittitur dum carnis humilitas*Bruges and Brussels manuscripts read *humanitas*. *adoptatur.* Et loquitur de humanitate Christi. Ergo Christus, secundum quod homo, est filius adoptivus.***
+Ulterius, videtur quod etiam Christus sit filius adoptivus. Quia Hilarius dicit: *potestatis dignitas non amittitur dum carnis humilitas*Bruges and Brussels manuscripts read *humanitas*. *adoptatur.* Et loquitur de humanitate Christi. Ergo Christus, secundum quod homo, est filius adoptivus.  
 
 Praeterea, non videtur sequi aliquod inconveniens, si dicamus Christum filium adoptivum. Neque enim sequitur quod fuerit filius irae, neque quodEd. omit *quod*. aliquando fuerit non filius; quia angeli nunquam filii irae fuerunt, et tamen dicuntur filii adoptivi. Ergo nihil prohibet Christum dicere filium adoptivum.  
 
@@ -352,7 +354,7 @@ Praeterea, adoptare totius Trinitatis est. Si ergo Christus esset filius adoptiv
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod sicut supra d. 8 dictum est, de ratione filiationis est ut filius producatur in similitudinem speciei ipsius generantis. Homo autem inquantum per creationem producitur in participationem intellectus, producitur quasi in similitudinem speciei ipsius Dei; quia ultimum eorum secundum quae natura creata participat similitudinem naturae increatae, est intellectualitas. Et ideo sola rationalis creatura dicitur ad imaginem, ut in 2 lib., d. 16, dictum est. Unde sola rationalis creatura per creationem filiationis nomen adipiscitur. Sed adoptio, ut dictum est, requirit ut adoptato acquiratur jus in hereditatem adoptantis. Hereditas autem ipsius Dei est ipsa sua beatitudo, cujus non est capax nisi rationalis creatura, nec ipsi acquiritur ex ipsa creatione, sed ex dono Spiritus Sancti, ut dictum est. Et ideo patet quod creatio creaturis irrationalibus nec adoptionem nec filiationem dat; creaturae autem rationali dat quidem filiationem, sed non adoptionem.***
+Respondeo dicendum ad primam quaestionem quod sicut supra d. 8 dictum est, de ratione filiationis est ut filius producatur in similitudinem speciei ipsius generantis. Homo autem inquantum per creationem producitur in participationem intellectus, producitur quasi in similitudinem speciei ipsius Dei; quia ultimum eorum secundum quae natura creata participat similitudinem naturae increatae, est intellectualitas. Et ideo sola rationalis creatura dicitur ad imaginem, ut in 2 lib., d. 16, dictum est. Unde sola rationalis creatura per creationem filiationis nomen adipiscitur. Sed adoptio, ut dictum est, requirit ut adoptato acquiratur jus in hereditatem adoptantis. Hereditas autem ipsius Dei est ipsa sua beatitudo, cujus non est capax nisi rationalis creatura, nec ipsi acquiritur ex ipsa creatione, sed ex dono Spiritus Sancti, ut dictum est. Et ideo patet quod creatio creaturis irrationalibus nec adoptionem nec filiationem dat; creaturae autem rationali dat quidem filiationem, sed non adoptionem.  
 
 Ad primum ergo dicendum quod filiatio per adoptionem addit supra filiationem per creationem sicut perfectum supra diminutum, et sicut gratia super naturam. Unde per creationem homo non efficitur filius naturalis neque adoptivus, sed tantum dicitur filius creatione; creaturae autem irrationales nullo modo.  
 
@@ -362,7 +364,7 @@ Ad tertium dicendum sicut ad primum.
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod beata fruitio sicut excedit naturam humanam, ita etBruges manuscript reads *excedit*. naturam angelicam. Unde sicut hoc homini datur ex gratia et non ex debito suae naturae; ita etEd. omit *et*. angelis. Et propter hoc sicut competitBrussels manuscript reads *convenit*. homini adoptari; ita et angelis.***
+Ad secundam quaestionem dicendum quod beata fruitio sicut excedit naturam humanam, ita etBruges manuscript reads *excedit*. naturam angelicam. Unde sicut hoc homini datur ex gratia et non ex debito suae naturae; ita etEd. omit *et*. angelis. Et propter hoc sicut competitBrussels manuscript reads *convenit*. homini adoptari; ita et angelis.  
 
 Ad primum ergo dicendum quod domus Dei, in quamThe Vivès edition reads *inquantum*. filii adoptivi inducuntur, non dicitur caelum empyreum, sed ipsa beatitudo divina, secundum quam Deus in se ipsoEd. read *semetipso*. quiescit et facit alios in se quiescere. Et in hac domo non semper fuerunt, quia non fuerunt creati beati.  
 
@@ -372,7 +374,7 @@ Ad tertium dicendum quod quamvis missio Filii in carnem non fuerit facta ad ange
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod Christus nullo modo est dicendus filius adoptionis; quia ei competit ex natura sua, secundum quam aeternaliter a Patre nascitur, habere jus in hereditate paterna; quia omnia quae habet Pater, sua sunt, ut dicitur Joan. 16:16. Unde hoc jus non acquiritur ei per gratiam advenientem, ut dici possitEd. add *filius*. adoptivus.***
+Ad tertiam quaestionem dicendum quod Christus nullo modo est dicendus filius adoptionis; quia ei competit ex natura sua, secundum quam aeternaliter a Patre nascitur, habere jus in hereditate paterna; quia omnia quae habet Pater, sua sunt, ut dicitur Joan. 16:16. Unde hoc jus non acquiritur ei per gratiam advenientem, ut dici possitEd. add *filius*. adoptivus.  
 
 Ad primum ergo dicendum quod humanitas adoptatur non in ipso capite, sed in membris ejus. Et sic intelligendum est verbum Hilarii. Vel dicendum quod etsi "adoptio" aliquo modo possit dici de natura creata, quae per gratiam trahitur in participationem divinae bonitatis in unitate divinae personae; non tamen oportet quod supposito conveniat, cui naturaliter convenit esse beatum.  
 
@@ -394,7 +396,7 @@ Quaestio 3
 
 ***Quaestiuncula 1***
 
-***Deinde quaeritur de praedestinatione Christi. Et videtur quod non sit de natura sed deVivès omits the phrase *natura sed de* due to homeoteleuton. persona. Praedestinatio enim Christi est ad filiationem, quia *praedestinatus est Filius Dei in virtute*; Rom. 1:4. Sed filiatio non competit naturae. Ergo praedestinatio non est de natura.***
+Deinde quaeritur de praedestinatione Christi. Et videtur quod non sit de natura sed deVivès omits the phrase *natura sed de* due to homeoteleuton. persona. Praedestinatio enim Christi est ad filiationem, quia *praedestinatus est Filius Dei in virtute*; Rom. 1:4. Sed filiatio non competit naturae. Ergo praedestinatio non est de natura.  
 
 Praeterea, ejus videtur praedestinari cujus est agere, quia ejus est etiam felicitari. Sed agere est suppositi et non naturae. Ergo praedestinatio non est de natura.  
 
@@ -406,7 +408,7 @@ Praeterea, ex hoc aliquis praedestinatur quod praevidetur Deo uniendus per grati
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod praedestinatio Christi non sit conformis praedestinationi nostrae. Quia, secundum Augustinum, praedestinatio qua nos praedestinamur, est *propositum miserendi*. Sed hoc non competit praedestinationi Christi, quia ipse nunquam fuit miser. Ergo praedestinatio sua et nostra non estEd. read *sunt*. unius rationis.***
+Ulterius, videtur quod praedestinatio Christi non sit conformis praedestinationi nostrae. Quia, secundum Augustinum, praedestinatio qua nos praedestinamur, est *propositum miserendi*. Sed hoc non competit praedestinationi Christi, quia ipse nunquam fuit miser. Ergo praedestinatio sua et nostra non estEd. read *sunt*. unius rationis.  
 
 Praeterea, effectus praedestinationis est gratia. Sed gratia Christi est alterius rationis quam gratia nostra, quia nostra gratia non est unionis in persona, sicut sua. Ergo nec praedestinatio ejus cumBrussels manuscript and the other editions read *et*. nostra est uniusEd. read *sunt ejusdem*. rationis.  
 
@@ -418,7 +420,7 @@ Praeterea, Rom. 1, dicit Glossa quod *praeclarissimum exemplar nostrae praedesti
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod praedestinatio ejus sit causa efficiens nostrae praedestinationis. Ephes. 1:5, dicitur: *praedestinavit nos in adoptionem filiorum per Jesum Christum*. Sed "per" denotat causam efficientem, quando dicitur Pater operari per Filium. Ergo ejus praedestinatio causa est efficiens nostrae praedestinationis.***
+Ulterius, videtur quod praedestinatio ejus sit causa efficiens nostrae praedestinationis. Ephes. 1:5, dicitur: *praedestinavit nos in adoptionem filiorum per Jesum Christum*. Sed "per" denotat causam efficientem, quando dicitur Pater operari per Filium. Ergo ejus praedestinatio causa est efficiens nostrae praedestinationis.  
 
 Item, videtur quod causa exemplaris sit, per idEd. read *illud*. quod dicitur Rom. 8:29: *quos praedestinavit conformes fieri imaginis Filii sui*. Sed imago ad exemplaritatem pertinet. Ergo est causa exemplaris nostrae praedestinationis; sicut etiam sua Resurrectio, nostrae resurrectionis.  
 
@@ -430,7 +432,7 @@ Praeterea, Christus non est praedestinatus nisi secundum quod homo. Sed ipse, se
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod "praedestinatio" accipitur communiter et proprie. Communiter pro praescientia et praeordinatione cujuscumque. Et sic patet quod praedestinatio potest esse de natura. Secundum autem quod proprie accipitur importat ordinem praedestinati ad gratiam. Gratia autemBrussels manuscript reads *enim*. creaturae facit unionem ad Deum. Quae quidem duplex est: scilicet per operationem, secundum quodEd. read *quam*. nos unimur Deo cognoscendo et amando ipsum; et in persona, et secundum hoc humana natura fuit unita Deo. Et ideo, cum praedestinatio Christi ordinetur ad gratiam unionis in persona, potest dici quod natura est praedestinata, vel persona ratione naturae.***
+Respondeo dicendum ad primam quaestionem quod "praedestinatio" accipitur communiter et proprie. Communiter pro praescientia et praeordinatione cujuscumque. Et sic patet quod praedestinatio potest esse de natura. Secundum autem quod proprie accipitur importat ordinem praedestinati ad gratiam. Gratia autemBrussels manuscript reads *enim*. creaturae facit unionem ad Deum. Quae quidem duplex est: scilicet per operationem, secundum quodEd. read *quam*. nos unimur Deo cognoscendo et amando ipsum; et in persona, et secundum hoc humana natura fuit unita Deo. Et ideo, cum praedestinatio Christi ordinetur ad gratiam unionis in persona, potest dici quod natura est praedestinata, vel persona ratione naturae.  
 
 Ad primum ergo dicendum quod praedestinatio Christi primum effectum habet ipsam unionem. Unde cum unio sit naturae potest etiam dici praedestinata; quamvis sibiBrussels manuscript omits *sibi*. filiatio non conveniat, quia filiatio non est primus effectus praedestinationis, sed consequitur ad unionem.  
 
@@ -440,19 +442,19 @@ Et per hoc etiam patet responsio ad tertium; quia praedestinatio aliorum hominum
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod multa requiruntur in praedestinatione et ex parte praedestinantis et ex parte praedestinati, et secundum terminum a quo et secundum terminum ad quem, secundum quod potest attendi diversitas inter praedestinationem Christi et nostram.Bruges and Brussels manuscripts omit *secundum quod potest attendi diversitas inter praedestinationem Christi et nostram.* Ex parte autem praedestinantis, qui Deus est, non est diversitas inter praedestinationem Christi et nostram. Est autem differentia ex parte praedestinati; quia in nobis est de persona, in Christo autem de natura, ut dictum est. SimiliterBrussels manuscript adds *autem*. est differentia ex parte termini a quo; quia in nobis est ut liberemur a peccato, sicut dicit Glossa super illud Rom. 8:30: *quos praedestinavit, hos vocavit*: in Christo autem non; quia necEd. read *neque*. contraxit, nec fecit peccatum. Sed neutra istarum differentiarum diversificat rationem praedestinationis; sed solum illa quae est essentialis et specifica. Specifica autem differentia cujuslibet motus vel operationis, accipitur penes terminum ad quem. IdEd. read *illud*. autem ad quod est praedestinatio, non est unius rationis in Christo et in nobis; quia praedestinatio Christi estBrussels manuscript omits *est*. ad unionem in persona, praedestinatio autem nostra estEd. omit *est*. ad unionem per operationem aut per habitum assimilantem. Et haec duae uniones non sunt unius rationis, sed se habent secundum prius et posterius, et perfectum et diminutum. Et ideo praedestinatio Christi et nostra non estBrussels manuscript reads *sunt*. unius rationis secundum univocationem, sed secundum analogiam.***
+Ad secundam quaestionem dicendum quod multa requiruntur in praedestinatione et ex parte praedestinantis et ex parte praedestinati, et secundum terminum a quo et secundum terminum ad quem, secundum quod potest attendi diversitas inter praedestinationem Christi et nostram.Bruges and Brussels manuscripts omit *secundum quod potest attendi diversitas inter praedestinationem Christi et nostram.* Ex parte autem praedestinantis, qui Deus est, non est diversitas inter praedestinationem Christi et nostram. Est autem differentia ex parte praedestinati; quia in nobis est de persona, in Christo autem de natura, ut dictum est. SimiliterBrussels manuscript adds *autem*. est differentia ex parte termini a quo; quia in nobis est ut liberemur a peccato, sicut dicit Glossa super illud Rom. 8:30: *quos praedestinavit, hos vocavit*: in Christo autem non; quia necEd. read *neque*. contraxit, nec fecit peccatum. Sed neutra istarum differentiarum diversificat rationem praedestinationis; sed solum illa quae est essentialis et specifica. Specifica autem differentia cujuslibet motus vel operationis, accipitur penes terminum ad quem. IdEd. read *illud*. autem ad quod est praedestinatio, non est unius rationis in Christo et in nobis; quia praedestinatio Christi estBrussels manuscript omits *est*. ad unionem in persona, praedestinatio autem nostra estEd. omit *est*. ad unionem per operationem aut per habitum assimilantem. Et haec duae uniones non sunt unius rationis, sed se habent secundum prius et posterius, et perfectum et diminutum. Et ideo praedestinatio Christi et nostra non estBrussels manuscript reads *sunt*. unius rationis secundum univocationem, sed secundum analogiam.  
 
 Et per hoc facile est respondere ad objecta.  
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod in ipsa praedestinatione duo sunt: unum aeternum, scilicet ipsa Dei operatio; et aliud temporale, scilicet praedestinationis effectus. Praedestinatio ergo nostra quantum ad illud quod est aeternum in ipsa, non habet causam; sed quantum ad effectum potest habere causam, inquantum scilicet ejus effectus producitur mediantibus aliquibus causis creatis. Et secundum hoc praedestinationis nostrae causa est praedestinatio Christi, et efficiens inquantum ipse est mediator nostrae salutis; et formalis, in quantum in filios Dei ad imaginem ejus praedestinamur; et finalis, inquantum nostra salus in ejus gloriam redundat.***
+Ad tertiam quaestionem dicendum quod in ipsa praedestinatione duo sunt: unum aeternum, scilicet ipsa Dei operatio; et aliud temporale, scilicet praedestinationis effectus. Praedestinatio ergo nostra quantum ad illud quod est aeternum in ipsa, non habet causam; sed quantum ad effectum potest habere causam, inquantum scilicet ejus effectus producitur mediantibus aliquibus causis creatis. Et secundum hoc praedestinationis nostrae causa est praedestinatio Christi, et efficiens inquantum ipse est mediator nostrae salutis; et formalis, in quantum in filios Dei ad imaginem ejus praedestinamur; et finalis, inquantum nostra salus in ejus gloriam redundat.  
 
 Et per hoc patet solutio ad objecta.  
 
 Expositio textus  
 
-****Christum secundum hominem non esse personam, nec aliquid*. Primum horum conceditur ab omni opinione; secundum autem non, sed tantum a tertia; quia duae primae opiniones dicunt quod Christus secundum quod homo,Ed. read *secundum quod Christus est homo*. est aliquid. Hoc autem negare est error.***
+*Christum secundum hominem non esse personam, nec aliquid*. Primum horum conceditur ab omni opinione; secundum autem non, sed tantum a tertia; quia duae primae opiniones dicunt quod Christus secundum quod homo,Ed. read *secundum quod Christus est homo*. est aliquid. Hoc autem negare est error.  
 
 *'Secundum' enim multiplicem habet rationem*. Ista divisio accipitur ex comparatione replicationis ad subjectum propositionis; quia potest fieri replicatio vel ejus quod antecedit subjectum, et sic notat causam; vel ejus quod sequitur, et sic notat habitum, aut quodcumque aliudEd. read *aliquid*. accidens, sed specialiter nominat habitum propter rationem tertiae opinionis; vel ipsius subjecti, et hoc vel quantum ad naturam, et sic exprimit conditionem naturae; vel quantum ad suppositum, et sic notat unitatem personae in Christo.  
 

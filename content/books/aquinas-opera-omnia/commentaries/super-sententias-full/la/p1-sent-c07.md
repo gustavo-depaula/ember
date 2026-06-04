@@ -1,8 +1,10 @@
 # D. 6 - The Principle of the Son’s generation
 
+***De principio generationis***
+
 ***Divisio textus***
 
-***Hic Magister inquirit de generatione quantum ad principium: et dividitur in duas partes. In prima inquirit quid sit principium generationis, utrum necessitas, vel voluntas, vel natura; in secunda inquirit de communitate principii generationis, utrum scilicet potentia generandi sit communis Patri et Filio, in sequenti distinctione.***
+Hic Magister inquirit de generatione quantum ad principium: et dividitur in duas partes. In prima inquirit quid sit principium generationis, utrum necessitas, vel voluntas, vel natura; in secunda inquirit de communitate principii generationis, utrum scilicet potentia generandi sit communis Patri et Filio, in sequenti distinctione.  
 
 Prima in tres: primo enim movet quaestionem, et determinat; secundo removet dubitationem, ibi: *sed contra hoc opponitur sic*; tertio exponit determinationem, ibi: *praedicta tamen verba . . . ex tali sensu mihi videntur accipienda*.  
 
@@ -102,6 +104,6 @@ Ad tertium dicendum, quod naturam estParma: *contingit*. cognoscere dupliciter. 
 
 Expositio textus  
 
-****Voluntas sapientiam praeire non potest*. Hoc dicit, quia sapientia Filio appropriatur. Sed contra, voluntas est motor aliarum virium: intelligimus enim, quia volumus. Ergo voluntas videtur praecedere cognitionem sapientiae. Dicendum, quod voluntatem oportet quod praecedat aliqua cognitio. Est enim duplex actus voluntatis. Unus imperfectus, scilicet appetere; et iste actus praecedit cognitionem perfectam eorum quae acquiruntur in cognitione. Per appetitum enim sciendi aliquid movetur aliquis ad considerationem alicujus, cujus cognitionem considerando accipit; sed tamen hunc actum voluntatis praecedit cognitio indeterminata qua res scitur in universali, et per illam cognitionem imperfectam tendit appetitus in perfectionem ipsius: si enim esset omnino ignotum, non quaereretur. Est et alius actus voluntatis perfectus, quo voluntas quiescit et placet sibi in re jam habita; et ita voluntas sciendi sequitur cognitionem perfectam.***
+*Voluntas sapientiam praeire non potest*. Hoc dicit, quia sapientia Filio appropriatur. Sed contra, voluntas est motor aliarum virium: intelligimus enim, quia volumus. Ergo voluntas videtur praecedere cognitionem sapientiae. Dicendum, quod voluntatem oportet quod praecedat aliqua cognitio. Est enim duplex actus voluntatis. Unus imperfectus, scilicet appetere; et iste actus praecedit cognitionem perfectam eorum quae acquiruntur in cognitione. Per appetitum enim sciendi aliquid movetur aliquis ad considerationem alicujus, cujus cognitionem considerando accipit; sed tamen hunc actum voluntatis praecedit cognitio indeterminata qua res scitur in universali, et per illam cognitionem imperfectam tendit appetitus in perfectionem ipsius: si enim esset omnino ignotum, non quaereretur. Est et alius actus voluntatis perfectus, quo voluntas quiescit et placet sibi in re jam habita; et ita voluntas sciendi sequitur cognitionem perfectam.  
 
 *Utrum Deus Filium volens aut nolens genuit*. Videtur quod necessarium sit alterum dare, cum fiat divisio per affirmationem et negationem. Dicendum, quod “nolens” et “volens” non opponuntur contradictorie; sed “volens” et “non volens.” Differt enim nolo et non volo; quia cum dicitur: non volo, negatur actus; et ideo opponitur sicut negatio ad affirmationem: sed in hoc verbo “nolo” et in toto condeclinio ejus remanet actus voluntatis affirmatus, et negatio fertur ad volitum.Parma mistakenly reads *ad nolitum*. Unde sensus est: nolo hoc; id est, volo hoc non esse. Unde non oportet dici nolens vel volens; quia lapis nec volens est nec nolens. Et similiter in proposito neutrum dandum est. Sed danda est ista, “non volens,” si volens dicat voluntatem accedentem vel antecedentem. Si autem dicat voluntatem concomitantem,Al.: *communicantem*. danda est ista, “volens” genuit.

@@ -1,5 +1,7 @@
 # Chapter 17
 
+***Term 1***
+
 ***Temperance***
 
 ***Temperance and fortitude seem to be virtues of the irrational parts of the soul.***
@@ -20,7 +22,7 @@ Term 2
 
 ***The Temperate Man***
 
-***The temperate man occupies the middle way, since he does not inordinately delight in pleasures, but rather dislikes them, nor is he pained when they are gone. He desires them only in a measured way, not more than is necessary.***
+The temperate man occupies the middle way, since he does not inordinately delight in pleasures, but rather dislikes them, nor is he pained when they are gone. He desires them only in a measured way, not more than is necessary.  
 
 We become temperate by abstaining from pleasures, and in thus being temperate we can more greatly abstain from them.  
 
@@ -46,19 +48,19 @@ Term 4
 
 ***The Coward***
 
-***The coward fears the wrong things or too much, and so he is classified more by an excess of fear, rather than a lack of courage.***
+The coward fears the wrong things or too much, and so he is classified more by an excess of fear, rather than a lack of courage.  
 
 Term 5  
 
 ***What is Terrible***
 
-***Something that is terrible is above man's power something feared by everyone who understands it. But since the power of a man may differ in proportion, a thing can be terrible to a greater or lesser degree.***
+Something that is terrible is above man's power something feared by everyone who understands it. But since the power of a man may differ in proportion, a thing can be terrible to a greater or lesser degree.  
 
 Term 6  
 
 ***The Tyrant***
 
-***Tyrants are not called wasteful, since the greatness of their wealth does not lend itself to excess in giving.***
+Tyrants are not called wasteful, since the greatness of their wealth does not lend itself to excess in giving.  
 
 The tyrant is concerned with benefiting himself, but the king is concerned with benefitting with his subjects.  
 
@@ -78,7 +80,7 @@ Term 7
 
 ***The Trireme Captain***
 
-***The same sum is not fit for the captain of a trireme as for a man convening a sacred assembly.***
+The same sum is not fit for the captain of a trireme as for a man convening a sacred assembly.  
 
 Term 8  
 
@@ -96,7 +98,7 @@ Term 9
 
 ***Unpleasantness***
 
-***Someone can endure unpleasantness for a short while, but no one, even if he be good, can endure it continually.***
+Someone can endure unpleasantness for a short while, but no one, even if he be good, can endure it continually.  
 
 Term 10  
 
@@ -108,4 +110,4 @@ Term 11
 
 ***Corrupt Forms of Rule***
 
-***Just as there is little justice in corrupt forms of rule, so too there is just as little friendship.***
+Just as there is little justice in corrupt forms of rule, so too there is just as little friendship.

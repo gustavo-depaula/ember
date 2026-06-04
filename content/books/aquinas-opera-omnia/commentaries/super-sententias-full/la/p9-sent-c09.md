@@ -1,6 +1,8 @@
 # D. 34 - On personal impediments
 
-***Postquam determinavit Magister de matrimonio et causis ejus, hic determinat de personis contrahentibus matrimonium; et dividitur in partes duas: in prima determinat de impedimentis matrimonii, quae non faciunt personas penitus illegitimas ad contrahendum; in secunda de illis quibus personae penitus ad matrimonium illegitimae redduntur, dist. 37, ibi: *sunt ergo quidam ordines in quibus nullatenus potest contrahi conjugium*.***
+***De impedimentis personarum***
+
+Postquam determinavit Magister de matrimonio et causis ejus, hic determinat de personis contrahentibus matrimonium; et dividitur in partes duas: in prima determinat de impedimentis matrimonii, quae non faciunt personas penitus illegitimas ad contrahendum; in secunda de illis quibus personae penitus ad matrimonium illegitimae redduntur, dist. 37, ibi: *sunt ergo quidam ordines in quibus nullatenus potest contrahi conjugium*.  
 
 Prima in duas: in prima determinat de impedimento quodam matrimonii, quod facit personam non simpliciter, sed aliquo modo, illegitimam, quod consistit in defectu naturae, scilicet frigiditate; secundo de impedimento conditionis secundum mores et statuta hominum, scilicet servitute, 36 dist., ibi: *nunc de conditione videamus an valeat conjugium dividere*.  
 
@@ -30,7 +32,7 @@ primo, de impedimentis matrimonii in generali;
 
 ***De impedimentis matrimonii in generali***
 
-***Ad primum sic proceditur. Videtur quod matrimonio inconvenienter impedimenta assignentur. Matrimonium enim quoddam sacramentum est contra alia divisum. Sed aliis non assignantur impedimenta. Ergo nec matrimonio assignari debent.***
+Ad primum sic proceditur. Videtur quod matrimonio inconvenienter impedimenta assignentur. Matrimonium enim quoddam sacramentum est contra alia divisum. Sed aliis non assignantur impedimenta. Ergo nec matrimonio assignari debent.  
 
 Praeterea, quanto aliquid est minus perfectum, tanto paucioribus modis impediri potest. Sed matrimonium inter alia sacramenta est minus perfectum. Ergo vel nulla vel paucissima impedimenta ei assignari debent.  
 
@@ -90,7 +92,7 @@ Articulus 2
 
 ***Utrum frigiditas impediat matrimonium***
 
-***Ad secundum sic proceditur. Videtur quod frigiditas matrimonium contrahendum non impediat. Copula enim carnalis non est de essentia matrimonii; quia perfectiora sunt matrimonia pari voto continentium, ut supra, dist. 26, dictum est. Sed frigiditas nihil tollit de matrimonio nisi carnalem copulam. Ergo non est impedimentum dirimens contractum matrimonium.***
+Ad secundum sic proceditur. Videtur quod frigiditas matrimonium contrahendum non impediat. Copula enim carnalis non est de essentia matrimonii; quia perfectiora sunt matrimonia pari voto continentium, ut supra, dist. 26, dictum est. Sed frigiditas nihil tollit de matrimonio nisi carnalem copulam. Ergo non est impedimentum dirimens contractum matrimonium.  
 
 Praeterea, sicut nimia frigiditas impedit carnalem copulam, ita et nimia caliditas, quae hominem exsiccat. Sed caliditas non ponitur matrimonii impedimentum. Ergo nec frigiditas poni debet.  
 
@@ -126,7 +128,7 @@ Articulus 3
 
 ***Utrum maleficium***
 
-***Ad tertium sic proceditur. Videtur quod maleficium non possit matrimonium impedire. Hujusmodi enim maleficia fiunt operatione daemonum. Sed daemones non habent potestatem impediendi matrimonii actum magis quam alios corporales actus, quos impedire non possunt; quia sic totum mundum perverterent; si comestionem et gressum et alia hujusmodi impedirent. Ergo per maleficia non potest impediri matrimonium.***
+Ad tertium sic proceditur. Videtur quod maleficium non possit matrimonium impedire. Hujusmodi enim maleficia fiunt operatione daemonum. Sed daemones non habent potestatem impediendi matrimonii actum magis quam alios corporales actus, quos impedire non possunt; quia sic totum mundum perverterent; si comestionem et gressum et alia hujusmodi impedirent. Ergo per maleficia non potest impediri matrimonium.  
 
 Praeterea, opus Dei est fortius quam opus diaboli. Sed maleficium est opus diaboli. Ergo non potest impedire matrimonium, quod est opus Dei.  
 
@@ -156,7 +158,7 @@ Articulus 4
 
 ***Utrum furia, vel amentia***
 
-***Ad quartum sic proceditur. Videtur quod furia non impediat matrimonium. Matrimonium enim spirituale, quod in baptismo contrahitur, est dignius quam carnale. Sed furiosi possunt baptizari. Ergo et matrimonium contrahere.***
+Ad quartum sic proceditur. Videtur quod furia non impediat matrimonium. Matrimonium enim spirituale, quod in baptismo contrahitur, est dignius quam carnale. Sed furiosi possunt baptizari. Ergo et matrimonium contrahere.  
 
 Praeterea, frigiditas impedit matrimonium, inquantum impedit carnalem copulam, quae non impeditur per furiam. Ergo nec matrimonium.  
 
@@ -182,7 +184,7 @@ Articulus 5
 
 ***Utrum incestus***
 
-***Ad quintum sic proceditur. Videtur quod incestus quo quis cognoscit sororem uxoris suae, matrimonium non dirimat. Quia mulier non debet puniri pro peccato viri. Sed puniretur, si matrimonium solveretur. Ergo, etc.***
+Ad quintum sic proceditur. Videtur quod incestus quo quis cognoscit sororem uxoris suae, matrimonium non dirimat. Quia mulier non debet puniri pro peccato viri. Sed puniretur, si matrimonium solveretur. Ergo, etc.  
 
 Praeterea, plus peccat qui propriam consanguineam cognoscit, quam qui cognoscit consanguineam uxoris. Sed primum peccatum non impedit matrimonium. Ergo nec secundum.  
 
@@ -200,7 +202,7 @@ Et per hoc patet solutio ad objecta: quia incestus ponitur matrimonii impediment
 
 Expositio textus  
 
-****Maneant uterque innupti*. Hoc intelligitur quando ex utroque impedimentum allegatur: alias ille tantum innuptus manere debet ex cujus parte impedimentum proponitur.***
+*Maneant uterque innupti*. Hoc intelligitur quando ex utroque impedimentum allegatur: alias ille tantum innuptus manere debet ex cujus parte impedimentum proponitur.  
 
 *Quod si mulier causetur, et dicat: volo esse mater, et filios procreare*, etc. Videtur ex hoc quod ratione sterilitatis matrimonium solvi possit. Et dicendum, quod non: quia in sterilibus etsi matrimonium non habeat intentum suum, secundum quod est in officium naturae, habet tamen secundum quod est in remedium per carnalem copulam; unde ponitur hic procreatio filiorum pro carnali copula, quam mulieres verecundantur expetere.  
 

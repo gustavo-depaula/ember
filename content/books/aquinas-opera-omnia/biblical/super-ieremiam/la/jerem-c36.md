@@ -1,6 +1,8 @@
 # C. 34 - Zedekiah transgresses the covenant
 
-***^34:1^ Verbum quod factum est ad Jeremiam a Domino, quando Nabuchodonosor rex Babylonis et omnis exercitus ejus, universaque regna terrae, quae erant sub potestate manus ejus, et omnes populi bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:***
+***Lectio 1***
+
+^34:1^ Verbum quod factum est ad Jeremiam a Domino, quando Nabuchodonosor rex Babylonis et omnis exercitus ejus, universaque regna terrae, quae erant sub potestate manus ejus, et omnes populi bellabant contra Jerusalem, et contra omnes urbes ejus, dicens:  
 
 > ^34:2^ haec dicit Dominus Deus Israel: vade et loquere ad Sedeciam regem Juda, et dices ad eum: haec dicit Dominus: ecce ego tradam civitatem hanc in manus regis Babylonis, et succendet eam igni.
 
@@ -52,7 +54,7 @@ Tertio tangit imminentem tribulationem, ut promissio sit acceptior: ***quia verb
 
 Lectio 2  
 
-***^34:8^ Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias foedus cum omni populo in Jerusalem, praedicans***
+^34:8^ Verbum quod factum est ad Jeremiam a Domino, postquam percussit rex Sedecias foedus cum omni populo in Jerusalem, praedicans  
 
 > ^34:9^ ut dimitteret unusquisque servum suum, et unusquisque ancillam suam, Hebraeum, et Hebraeam liberos, et nequaquam dominarentur eis, idest in Judaeo, et fratre suo.
 

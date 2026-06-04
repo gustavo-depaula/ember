@@ -1,5 +1,7 @@
 # Each Man has Virtue
 
+***S. Thomas de Aquino (ut fertur)***
+
 ***Tanto ha virtu ciascun, quanto ha intelletto;***
 ***E a valor quanto in virtù si stende;***
 ***E tanto ha ‘llhor di ben, quanto l’intende,***

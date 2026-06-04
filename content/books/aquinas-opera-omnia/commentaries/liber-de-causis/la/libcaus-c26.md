@@ -1,5 +1,7 @@
 # Proposition 25
 
+181. Substantiae unitae intellectibiles non sunt generatae ex re alia. Omnis substantia stans per essentiam suam est non generata ex re alia.  
+
 > 182. Quod si aliquis dicat: possibile est, ut sit generata ex re alia, dicemus: si possibile est, ut substantia stans per essentiam suam sit generata ex re alia, procul dubio est substantia illa diminuta, indigens, ut compleat eam illud, ex quo generatur.
 
 > 183. Et significatio illius est generatio ipsa.

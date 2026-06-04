@@ -1,6 +1,8 @@
 # A. 7 - From Thence He Shall Come to Judge the Living and the Dead
 
-***Ad officium regis et domini spectat iudicare. Prov. XX, 8: *rex qui sedet in solio iudicii, dissipat omne malum intuitu suo*. Quia ergo Christus ascendit in caelum, et sedet ad dexteram Dei sicut Dominus omnium, manifestum est quod spectat ad eum iudicium. Et ideo in regula Catholicae fidei confitemur quod ***venturus est iudicare vivos et mortuos***. Hoc etiam dixerunt angeli Act. I, 11: *hic Iesus, qui assumptus est a vobis in caelum, sic veniet quemadmodum vidistis eum euntem in caelum*.***
+***Inde venturus est iudicare vivos et mortuos***
+
+Ad officium regis et domini spectat iudicare. Prov. XX, 8: *rex qui sedet in solio iudicii, dissipat omne malum intuitu suo*. Quia ergo Christus ascendit in caelum, et sedet ad dexteram Dei sicut Dominus omnium, manifestum est quod spectat ad eum iudicium. Et ideo in regula Catholicae fidei confitemur quod ***venturus est iudicare vivos et mortuos***. Hoc etiam dixerunt angeli Act. I, 11: *hic Iesus, qui assumptus est a vobis in caelum, sic veniet quemadmodum vidistis eum euntem in caelum*.  
 
 Sunt autem tria consideranda de hoc iudicio.  
 

@@ -1,6 +1,8 @@
 # A. 6 - And Lead Us Not into Temptation
 
-***There are those who have sinned and desire forgiveness for their sins.Parallel texts: *ST* II-II.8.1, 7; *In III Sent*. 34.1.4. They confess their sins and repent. Yet, they do not strive as much as they should in order that they may not fall into sin again. In this indeed they are not consistent. For, on the one hand, they deplore their sins by being sorry for them; and, on the other hand, they sin again and again and have them again to deplore. Thus it is written: *wash yourselves, be clean. Take away the evil of your devices from my eyes. Cease to do perversely* (Isa 1:16)**.***
+***And Lead Us Not into Temptation***
+
+There are those who have sinned and desire forgiveness for their sins.Parallel texts: *ST* II-II.8.1, 7; *In III Sent*. 34.1.4. They confess their sins and repent. Yet, they do not strive as much as they should in order that they may not fall into sin again. In this indeed they are not consistent. For, on the one hand, they deplore their sins by being sorry for them; and, on the other hand, they sin again and again and have them again to deplore. Thus it is written: *wash yourselves, be clean. Take away the evil of your devices from my eyes. Cease to do perversely* (Isa 1:16)**.  
 
 We have seen in the petition above that Christ taught us to seek forgiveness for our sins. In this petition, he teaches us to pray that we might avoid sin, that is, that we may not be led into temptation, and thus fall into sin: ***and lead us not into temptation***.  
 

@@ -1,8 +1,10 @@
 # D. 20 - Generation of children in the original state of man
 
+***De generatione filiorum***
+
 ***Divisio textus***
 
-***Postquam Magister determinavit de immortalitate Adae per quam esse individui perpetuum conservabatur, hic determinat de generatione filiorum per quam species multiplicatur in individuis.***
+Postquam Magister determinavit de immortalitate Adae per quam esse individui perpetuum conservabatur, hic determinat de generatione filiorum per quam species multiplicatur in individuis.  
 
 Dividitur autem in partes duas:  
 
@@ -82,7 +84,7 @@ Articulus 1
 
 ***Utrum in statu innocentiae fuisset generatio***
 
-***Ad primum sic proceditur. Videtur quod in statu innocentiae generatio non fuisset.***
+Ad primum sic proceditur. Videtur quod in statu innocentiae generatio non fuisset.  
 
 Generatio enim non est nisi ad multiplicationem individuorum. Sed, sicut dicit Damascenus, lib. 4 *De fide orthodoxa*, cap. 24, poterat Deus genus hoc, scilicet humanum, sine generatione multiplicare. Cum ergo via compendiosior semper eligenda sit, videtur quod generatio non fuisset.  
 
@@ -110,7 +112,7 @@ Articulus 2
 
 ***Utrum in statu innocentiae fuisset generatio per coitum***
 
-***Ad secundum sic proceditur. Videtur quod in primo statu non fuisset generatio per coitum.***
+Ad secundum sic proceditur. Videtur quod in primo statu non fuisset generatio per coitum.  
 
 Non enim potest esse coitus sine virginitatis corruptione. Sed indecens erat in primo statu virginitatis corruptionem fuisse, quando humana natura omnino integra erat et nulla dignitate privanda. Ergo videtur quod non fuisset ibi generatio per coitum.  
 
@@ -158,9 +160,9 @@ tertio quales fuissent secundum affectionem in amore virtutis.
 
 Articulus 1  
 
-***Utrum in statu innocentiae homines habuissent omnem perfectionem corporis quoad virtutem, et staturam, et sexum, statim post nativitatem.***
+Utrum in statu innocentiae homines habuissent omnem perfectionem corporis quoad virtutem, et staturam, et sexum, statim post nativitatem.  
 
-***Ad primum sic proceditur. Videtur quod homines in statu innocentiae statim nati omnem perfectionem corporis habuissent, et quantum ad staturam, et quantum ad sexum.***
+Ad primum sic proceditur. Videtur quod homines in statu innocentiae statim nati omnem perfectionem corporis habuissent, et quantum ad staturam, et quantum ad sexum.  
 
 Sicut enim Philosophus dicit in 16 *De animalibus*, mulier est vir occasionatus. Illud autem occasionatum dicitur quod non est per se intentum, sed ex aliqua corruptione vel defectu proveniens. Cum ergo in primo statu nullus defectus naturalis operationis fuisset, videtur quod omnes nati fuissent in perfecto sexu, scilicet virili.  
 
@@ -192,7 +194,7 @@ Articulus 2
 
 ***Utrum in statu innocentiae pueri mox nati fuissent perfecti in cognitione***
 
-***Ad secundum sic proceditur. Videtur quod pueri mox nati perfecti in cognitione fuissent.***
+Ad secundum sic proceditur. Videtur quod pueri mox nati perfecti in cognitione fuissent.  
 
 Omnis enim virtus cujus actus impeditur ex imperfectione corporis, est virtus materialis. Sed intellectus non est actus corporis cujusdam, ut Philosophus dicit, lib. 3 *De anim*. Ergo naturaliter non impeditur a suo actu propter defectum corporis; ergo videtur quod in statu integritatis naturae, pueri perfectam cognitionem habuissent, etiam si defectum membrorum paterentur.  
 
@@ -226,7 +228,7 @@ Articulus 3
 
 ***Utrum in statu innocentiae pueri nascerentur in gratia***
 
-***Ad tertium sic proceditur. Videtur quod in statu innocentiae pueri in gratia nascerentur.***
+Ad tertium sic proceditur. Videtur quod in statu innocentiae pueri in gratia nascerentur.  
 
 Quia secundum considerationem Philosophi, 4 *Topic*., cap. 12, sicut se habet propositum in proposito, ita et oppositum in opposito. Sed homo corruptus per peccatum transmisit peccatum in posteros. Ergo etiam et gratiam et justitiam quam habuit in posteros transmisisset.  
 
@@ -262,7 +264,7 @@ Alia etiam auctoritas inducta intelligitur de justitia gratuita, et non de origi
 
 Expositio textus  
 
-****Excipitur honestate nuptiali*,Mandonnet suggests supplying: *infirmitas prona in ruinam turpitudinis*. hoc modo ut scilicet quod sine nuptiis turpitudinem culpae et poenae haberet, per honestatem matrimonii turpitudine poenae remanente, turpitudo culpae tollatur.***
+*Excipitur honestate nuptiali*,Mandonnet suggests supplying: *infirmitas prona in ruinam turpitudinis*. hoc modo ut scilicet quod sine nuptiis turpitudinem culpae et poenae haberet, per honestatem matrimonii turpitudine poenae remanente, turpitudo culpae tollatur.  
 
 *Sed potuerunt in paradiso eis esse nuptiae honorabiles*: quia in statu illo nuptiae simpliciter virginitate honorabiliores fuissent, eo quod in nullo integritate mentis laesa, fecunditas carnis in matrimonio, sterilitati virginitatis praevaluisset.  
 

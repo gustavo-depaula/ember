@@ -1,10 +1,12 @@
 # C. 9 - God’s Wrath and Mercy
 
+***Ira et Misericordia Dei***
+
 ***Lectio 1***
 
 ***Dilectio Pauli pro Judaeis***
 
-***^9:1^ Veritatem dico in Christo, non mentior: testimonium mihi perhibente conscientia mea in Spiritu Sancto: [n. 735]***
+^9:1^ Veritatem dico in Christo, non mentior: testimonium mihi perhibente conscientia mea in Spiritu Sancto: [n. 735]  
 
 > ^9:2^ quoniam tristitia mihi magna est, et continuus dolor cordi meo. [n. 737]
 
@@ -112,7 +114,7 @@ Lectio 2
 
 ***Filii promissionis***
 
-***^9:6^ Non autem quod exciderit verbum Dei. Non enim omnes qui ex Israël sunt, ii sunt Israëlitae: [n. 748]***
+^9:6^ Non autem quod exciderit verbum Dei. Non enim omnes qui ex Israël sunt, ii sunt Israëlitae: [n. 748]  
 
 > ^9:7^ neque qui semen sunt Abrahae, omnes filii: sed *in Isaac vocabitur tibi semen*: [n. 751]
 
@@ -390,7 +392,7 @@ Lectio 4
 
 ***Vasa irae et misericordiae***
 
-***^9:19^ Dicis itaque mihi: Quid adhuc queritur? voluntati enim ejus quis resistit?***
+^9:19^ Dicis itaque mihi: Quid adhuc queritur? voluntati enim ejus quis resistit?  
 
 > ^9:20^ O homo, tu quis es, qui respondeas Deo? numquid dicit figmentum ei qui se finxit: Quid me fecisti sic? [n. 788]
 

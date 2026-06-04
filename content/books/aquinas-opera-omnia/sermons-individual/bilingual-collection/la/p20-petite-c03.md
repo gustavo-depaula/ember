@@ -1,5 +1,7 @@
 # Evening Collation
 
+***Petite et accipietis***. Dictum est in primo sermone quae sunt illa quae nos movent ad petendum, quoniam quatuor ut dictum est: nostra necessitas, Christi liberalitas, temporis oportunitas, impetrandi securitas.  
+
 Verum quia multa sunt impedimenta propter quae frustratur petitio nostra, ideo in isto sermone possumus ponere septem impedimenta propter quae frustratur nostra petitio nec exauditur a Deo nostro oratio.  
 
 Primum impedimentum est propter petendi indiscretionem;  

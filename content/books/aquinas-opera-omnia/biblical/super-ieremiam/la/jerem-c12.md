@@ -1,5 +1,7 @@
 # C. 10 - The futility of idol-worship
 
+***Lectio 1***
+
 ***^10:1^ Audite verbum quod locutus est Dominus super vos, domus Israel.***
 
 > ^10:2^ Haec dicit Dominus: juxta vias gentium nolite discere, et a signis caeli nolite metuere, quae timent gentes:
@@ -60,7 +62,7 @@ Tertio concludit intentum: ***nolite ergo timere***: quaedam enim colebantur, ut
 
 Lectio 2  
 
-***^10:6^ Non est similis tui, Domine: magnus es tu, et magnum nomen tuum in fortitudine.***
+^10:6^ Non est similis tui, Domine: magnus es tu, et magnum nomen tuum in fortitudine.  
 
 > ^10:7^ Quis non timebit te, o rex gentium? Tuum est enim decus. Inter cunctos sapientes gentium, et in universis regnis eorum nullus est similis tui.
 
@@ -96,7 +98,7 @@ Secundo proponit Dei aeternitatem, adjungens veritatem, et majestatem: quia ***D
 
 Lectio 4  
 
-***^10:11^ Sic ergo dicetis eis: dii qui caelos, et terram non fecerunt, pereant de terra, et de his quae sub caelo sunt.***
+^10:11^ Sic ergo dicetis eis: dii qui caelos, et terram non fecerunt, pereant de terra, et de his quae sub caelo sunt.  
 
 > ^10:12^ Qui facit terram in fortitudine sua, praeparat orbem in sapientia sua, et prudentia sua extendit caelos.
 
@@ -120,7 +122,7 @@ Tertio quantum ad ea quae fiunt ex sicca materia: ***et educit de thesauris***, 
 
 Lectio 5  
 
-***^10:14^ Stultus factus est omnis homo a scientia sua, confusus est artifex omnis in sculptili: quoniam falsum est quod conflavit, et non est spiritus in eis.***
+^10:14^ Stultus factus est omnis homo a scientia sua, confusus est artifex omnis in sculptili: quoniam falsum est quod conflavit, et non est spiritus in eis.  
 
 > ^10:15^ Vana sunt, et opus risu dignum. In tempore visitationis suae peribunt.
 
@@ -172,19 +174,19 @@ Secundo in speciali quantum ad destructionem domorum: ***tabernaculum***, quia d
 
 Lectio 7  
 
-***^10:21^ Quia stulte egerunt pastores, et Dominum non quaesierunt, propterea non intellexerunt, et omnis grex eorum dispersus est.***
+^10:21^ Quia stulte egerunt pastores, et Dominum non quaesierunt, propterea non intellexerunt, et omnis grex eorum dispersus est.  
 
 > **74**. Hic assignat communem poenam per ordinem, quia peccata praelatorum sunt causa caecitatis ipsorum. Sap. 2: *excaecavit eos malitia eorum*. Et haec causa destructionis populi. Matth. 15: *si caecus caeco ducatum praestet, ambo in foveam cadunt*. Ezech. 34: *dispersae sunt oves meae, eo quod non esset pastor et factae sunt in devorationem omnium bestiarum agri, et dispersae sunt*.
 
 Lectio 8  
 
-***^10:22^ Vox auditionis ecce venit, et commotio magna de terra aquilonis, ut ponat civitates Juda solitudinem, et habitaculum draconum.***
+^10:22^ Vox auditionis ecce venit, et commotio magna de terra aquilonis, ut ponat civitates Juda solitudinem, et habitaculum draconum.  
 
 > **75**. Hic determinat ordinem poenae, praesignans hostem ab aquilone venientem. Supra 1: ***ab aquilone pandetur omne malum super omnes habitatores terrae***.Here, the Parma edition reads *cognationes terrae*, “families of the land,” in place of *habitatores terrae*, “inhabitants of the land.”
 
 Lectio 9  
 
-***^10:23^ Scio, Domine, quia non est hominis via ejus, nec viri est ut ambulet, et dirigat gressus suos.***
+^10:23^ Scio, Domine, quia non est hominis via ejus, nec viri est ut ambulet, et dirigat gressus suos.  
 
 > ^10:24^ Corripe me, Domine, verumtamen in judicio, et non in furore tuo, ne forte ad nihilum redigas me.
 
@@ -200,6 +202,6 @@ Et petit hostibus iram. ***Effunde indignationem***: et assignat causam, ***quia
 
 Collationes  
 
-***Nota, quod ***stultus*** est homo a scientia Dei: propter cordis elationem. Rom. 1: *dicentes se esse sapientes stulti facti sunt*. Propter inquirendi curiositatem. Act. 26: *multae litterae ad insaniam te deduxerunt*. Propter scientiae incertitudinem. Isa. 47: *haec scientia tua, et sapientia tua decepit te*. Propter operis perversitatem. Sap. 2: *excaecavit enim eos malitia eorum*.***
+Nota, quod ***stultus*** est homo a scientia Dei: propter cordis elationem. Rom. 1: *dicentes se esse sapientes stulti facti sunt*. Propter inquirendi curiositatem. Act. 26: *multae litterae ad insaniam te deduxerunt*. Propter scientiae incertitudinem. Isa. 47: *haec scientia tua, et sapientia tua decepit te*. Propter operis perversitatem. Sap. 2: *excaecavit enim eos malitia eorum*.  
 
 Item nota, quod debet portari divina percussio patienter: propter affectum percutientis. Prov. 1: *disciplinam Domini, fili mi, ne abjicias, nec deficias, cum ab eo corriperis*. Propter conscientiam criminis. Mich. 7: *iram Domini portabo, quoniam peccavi ei*. Propter expectationem muneris. Jac. 5: *beatus vir qui suffert tentationem, quoniam cum probatus fuerit, accipiet coronam vitae, quam repromisit Deus diligentibus se*. Propter inutilitatem murmuris. Thren. 3: *quid murmuravit homo vivens, vir pro peccatis suis?*

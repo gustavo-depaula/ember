@@ -1,8 +1,10 @@
 # D. 13 - Procession of the Holy Spirit in comparison to the generation of the Son
 
+***De processione Spiritus Sancti per comparationem ad generationem***
+
 ***Divisio textus***
 
-***Postquam determinavit de processione aeterna Spiritus Sancti quantum ad modum et principium, hic determinat de ipsa per comparationem ad generationem, et dividitur in partes duas: in prima inquirit utrum Spiritus Sanctus procedens possit dici genitus ut Filius; in secunda, utrum possit dici ingenitus, ibi: *nunc considerandum est, cum Spiritus Sanctus non sit genitus, utrum debeat dici ingenitus*.***
+Postquam determinavit de processione aeterna Spiritus Sancti quantum ad modum et principium, hic determinat de ipsa per comparationem ad generationem, et dividitur in partes duas: in prima inquirit utrum Spiritus Sanctus procedens possit dici genitus ut Filius; in secunda, utrum possit dici ingenitus, ibi: *nunc considerandum est, cum Spiritus Sanctus non sit genitus, utrum debeat dici ingenitus*.  
 
 Prima in duas: primo ostendit quod Spiritus Sanctus procedens non potest dici Filius; secundo inquirit differentiam generationis Filii et processionis Spiritus Sancti, ibi: *inter generationem vero Filii et processionem Spiritus Sancti, dum hic vivimus distinguere non sufficimus*.  
 
@@ -88,7 +90,7 @@ Articulus 3
 
 ***Utrum processio Spiritus Sancti debeat dici processio vel generatio***
 
-***Ad tertium sic proceditur. Videtur quod processio Spiritus Sancti non debet nominari processio, sed generatio.***
+Ad tertium sic proceditur. Videtur quod processio Spiritus Sancti non debet nominari processio, sed generatio.  
 
 Si enim non sit generatio, tunc contra generationem dividitur. Sed nullum commune dividitur contra proprium. Cum igitur processio sit communis generationi et processioni Spiritus Sancti, videtur quod processio Spiritus Sancti non debeat nominari processio.  
 
@@ -140,7 +142,7 @@ Ad tertium dicendum, quod “ingenitus,” secundum quod convenit tantum Patri, 
 
 Expositio textus  
 
-****Absit autem ut inter Deum Patrem et Deum Filium tale aliquid suspicemur*. Sic enim processio Spiritus Sancti materialis videretur; quia pater se habet ad generationem ut principium activum, mater autem ut materiale, quia materiam ministrat.***
+*Absit autem ut inter Deum Patrem et Deum Filium tale aliquid suspicemur*. Sic enim processio Spiritus Sancti materialis videretur; quia pater se habet ad generationem ut principium activum, mater autem ut materiale, quia materiam ministrat.  
 
 *Nescio*, scilicet per artem acquisitam: *non valeo*, per naturalem virtutem vel industriam: *non sufficio*, per defectum usus vel exercitii.  
 

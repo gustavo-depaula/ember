@@ -1,6 +1,8 @@
 # D. 15 - Requirements for penance
 
-***Postquam determinavit Magister de poenitentia quantum ad sui veritatem, ostendens quid sit poenitentia secundum sui veram rationem, et removens errorem quorumdam qui ad rationem poenitentiae addere volebant futuram perseverantiam, hic intendit determinare de poenitentia quantum ad sui integritatem, quorumdam errorem removens, qui falso opinabantur posse de uno peccato poenitentiam agi, et non de alio: quod est contra integritatem poenitentiae. Et dividitur in partes duas: in prima ponit rationes quae sunt causa erroris; in secunda improbat ipsum errorem, ibi: *satis arbitror illis esse responsum*.***
+***Integritas poenitentiae***
+
+Postquam determinavit Magister de poenitentia quantum ad sui veritatem, ostendens quid sit poenitentia secundum sui veram rationem, et removens errorem quorumdam qui ad rationem poenitentiae addere volebant futuram perseverantiam, hic intendit determinare de poenitentia quantum ad sui integritatem, quorumdam errorem removens, qui falso opinabantur posse de uno peccato poenitentiam agi, et non de alio: quod est contra integritatem poenitentiae. Et dividitur in partes duas: in prima ponit rationes quae sunt causa erroris; in secunda improbat ipsum errorem, ibi: *satis arbitror illis esse responsum*.  
 
 Prima in duas, secundum quod error praedictus duos habuit modos positionis: in prima enim parte reprobat rationes eorum qui dicebant, quod de uno peccato sine alio poterat poenitentia agi, et fructuose quantum ad praesens; in secunda illorum qui ponebant quod hoc non erat fructuosum quantum ad praesens, sed quantum ad futurum, quando de peccatis aliis poenitentiam aget, ibi: *quibusdam tamen videtur fuisse satisfactio, sed infructuosa*.  
 
@@ -38,7 +40,7 @@ primo, quid sit satisfactio;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod satisfactio non sit neque virtus neque virtutis actus. Omnis enim virtutis actus est meritorius. Sed satisfactio non est meritoria, ut videtur; quia meritum gratuitum est; sed satisfactio debitum attendit. Ergo satisfactio non est actus virtutis.***
+Ad primum sic proceditur. Videtur quod satisfactio non sit neque virtus neque virtutis actus. Omnis enim virtutis actus est meritorius. Sed satisfactio non est meritoria, ut videtur; quia meritum gratuitum est; sed satisfactio debitum attendit. Ergo satisfactio non est actus virtutis.  
 
 Praeterea, omnis actus virtutis est voluntarius. Sed aliquando fit alicui satisfactio de aliquo, eo invito; ut quando aliquis pro offensa in alterum commissa a judice punitur. Ergo satisfactio non est virtutis actus.  
 
@@ -50,7 +52,7 @@ Praeterea, nullus actus operatur ad deletionem peccati, nisi sit actus virtutis:
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit actus justitiae. Quia satisfactio fit ad hoc quod reconcilietur ei quem offendit. Sed reconciliatio, cum sit amoris, ad caritatem pertinet. Ergo satisfactio est actus caritatis, et non justitiae.***
+Ulterius. Videtur quod non sit actus justitiae. Quia satisfactio fit ad hoc quod reconcilietur ei quem offendit. Sed reconciliatio, cum sit amoris, ad caritatem pertinet. Ergo satisfactio est actus caritatis, et non justitiae.  
 
 Praeterea, causae peccatorum in nobis sunt passiones animae, quibus ad malum incitamur. Sed justitia, secundum Philosophum, non est circa passiones, sed circa operationes. Cum ergo ad satisfactionem pertineat peccatorum causas excidere, ut in littera dicitur, videtur quod non sit actus justitiae.  
 
@@ -62,7 +64,7 @@ Praeterea, nulla virtus habet rerum exteriorum adaequationem perficere nisi just
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod definitio satisfactionis in littera inconvenienter ponatur ab Augustino. Dicit enim quod *satisfactio est peccatorum causas excidere, et eorum suggestionibus aditum non indulgere*. Causa enim actualis peccati fomes est. Sed in hac vita non possumus fomitem excidere. Ergo satisfacere non est causas peccatorum excidere.***
+Ulterius. Videtur quod definitio satisfactionis in littera inconvenienter ponatur ab Augustino. Dicit enim quod *satisfactio est peccatorum causas excidere, et eorum suggestionibus aditum non indulgere*. Causa enim actualis peccati fomes est. Sed in hac vita non possumus fomitem excidere. Ergo satisfacere non est causas peccatorum excidere.  
 
 Praeterea, causa peccati est fortior quam peccatum. Sed homo per se non potest peccatum excidere. Ergo multo minus causas peccati; et sic idem quod prius.  
 
@@ -76,7 +78,7 @@ Praeterea, honorem debitum Deo potest innocens impendere. Sed satisfacere non co
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod aliquis actus dicitur esse actus virtutis dupliciter. Uno modo materialiter; et sic quilibet actus qui non habet malitiam implicitam vel defectum debitae circumstantiae, actus virtutis dici potest: quia quolibet tali actu potest uti virtus in suum finem, sicut est ambulare, loqui, et hujusmodi. Alio modo dicitur aliquis actus esse actus virtutis formaliter: quia ipso suo nomine formam et rationem virtutis implicitam habet; sicut fortiter sustinere, dicitur actus fortitudinis. Formale autem cujuslibet virtutis moralis est ratio medii; unde omnis actus qui rationem medii importat, actus virtutis formaliter est. Et quia aequalitas medium est, quod suo nomine satisfactio importat (cum non dicitur aliquid satisfactum nisi secundum proportionem aequalitatis ad aliquid), constat quod satisfactio etiam formaliter est actus virtutis.***
+Respondeo dicendum ad primam quaestionem, quod aliquis actus dicitur esse actus virtutis dupliciter. Uno modo materialiter; et sic quilibet actus qui non habet malitiam implicitam vel defectum debitae circumstantiae, actus virtutis dici potest: quia quolibet tali actu potest uti virtus in suum finem, sicut est ambulare, loqui, et hujusmodi. Alio modo dicitur aliquis actus esse actus virtutis formaliter: quia ipso suo nomine formam et rationem virtutis implicitam habet; sicut fortiter sustinere, dicitur actus fortitudinis. Formale autem cujuslibet virtutis moralis est ratio medii; unde omnis actus qui rationem medii importat, actus virtutis formaliter est. Et quia aequalitas medium est, quod suo nomine satisfactio importat (cum non dicitur aliquid satisfactum nisi secundum proportionem aequalitatis ad aliquid), constat quod satisfactio etiam formaliter est actus virtutis.  
 
 Ad primum ergo dicendum, quod quamvis satisfacere in se sit debitum, tamen inquantum satisfaciens voluntarie hoc opus exequitur, rationem gratuiti accipit ex parte operantis; et sic operans facit de necessitate virtutem: ex hoc enim debitum dimittere habet meritum, quod necessitatem importat, quae voluntati contrariatur; unde si voluntas necessitati assentiat, ratio meriti non tolletur.  
 
@@ -86,7 +88,7 @@ Ad tertium dicendum, quod principale in virtute potest accipi dupliciter. Uno mo
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum Philosophum in 5 *Ethica*, medium justitiae accipitur secundum adaequationem rei ad rem in proportionalitate aliqua. Unde cum talem adaequationem ipsum nomen satisfactionis importat, quia hoc adverbium *satis* aequalitatem proportionis designat; constat quod satisfactio formaliter justitiae actus est. Sed justitiae actus, secundum Philosophum, est vel sui ad alterum, ut quando aliquis reddit alteri quod ei debet; vel alterius ad alterum, sicut quando judex facit justitiam inter duos. Quando autem actus justitiae est sui ad alterum, aequalitas in ipso faciente constituitur; quando autem alterius ad alterum, aequalitas constituitur in justum passo. Et quia satisfactio aequalitatem in ipso faciente exprimit, dicit actum justitiae qui est sui ad alterum proprie loquendo.***
+Ad secundam quaestionem dicendum, quod secundum Philosophum in 5 *Ethica*, medium justitiae accipitur secundum adaequationem rei ad rem in proportionalitate aliqua. Unde cum talem adaequationem ipsum nomen satisfactionis importat, quia hoc adverbium *satis* aequalitatem proportionis designat; constat quod satisfactio formaliter justitiae actus est. Sed justitiae actus, secundum Philosophum, est vel sui ad alterum, ut quando aliquis reddit alteri quod ei debet; vel alterius ad alterum, sicut quando judex facit justitiam inter duos. Quando autem actus justitiae est sui ad alterum, aequalitas in ipso faciente constituitur; quando autem alterius ad alterum, aequalitas constituitur in justum passo. Et quia satisfactio aequalitatem in ipso faciente exprimit, dicit actum justitiae qui est sui ad alterum proprie loquendo.  
 
 Sed sui ad alterum potest aliquis facere justitiam vel in actionibus et passionibus, vel in rebus exterioribus; sicut etiam injuria fit alteri vel subtrahendo res, vel per aliquam actionem laedendo. Et quia usus rerum exteriorum est dare; ideo actum justitiae, secundum quod aequalitatem in rebus exterioribus constituit, proprie dicit hoc quod est reddere. Sed satisfacere, manifeste aequalitatem in actionibus demonstrat, quamvis quandoque unum pro altero ponatur. Et quia adaequatio non est nisi inaequalium, ideo satisfactio inaequalitatem actionum praesupponit; quae quidem offensam constituit; et ideo habet respectum ad offensam praecedentem. Nulla autem pars justitiae respicit offensam praecedentem, nisi vindicativa justitia, quae aequalitatem constituit in eo qui justum patitur indifferenter; sive sit patiens idem quod agens, ut quando aliquis sibi ipsi poenam infert; sive non sit idem, ut quando judex alium punit; ad utrumque vindicativa justitia se habente. Similiter et poenitentia, quae aequalitatem tantum in faciente importat, quia ipsemet poenam tenet; ut sic quodammodo poenitentia vindicativae justitiae species fit. Et propter hoc constat quod satisfactio, quae aequalitatem respectu offensae praecedentis in faciente importat, opus justitiae est quantum ad illam partem quae poenitentia dicitur.  
 
@@ -98,7 +100,7 @@ Ad tertium dicendum, quod quaelibet virtus moralis participat actus prudentiae, 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod justitia non ad hoc tantum tendit ut inaequalitatem praecedentem auferat puniendo culpam praeteritam, sed ut in futurum aequalitatem custodiat: quia secundum Philosophum in 2 *Ethica*, poenae medicinae sunt; unde et satisfactio, quae est justitiae actus poenam inferentis, est medicina, curans peccata praeterita, et praeservans a futuris; et ideo quando homo homini satisfacit, et praeterita recompensat et de futuris cavet. Et secundum hoc dupliciter potest satisfactio definiri. Uno modo respectu culpae praeteritae, quam recompensando curat; et sic dicitur, quod satisfactio est injuriae illatae recompensatio secundum justitiae aequalitatem; et in idem dicitur redire definitio Anselmi, qui dicit, quod *satisfacere est Deo debitum honorem impendere*, ut consideretur debitum ratione culpae commissae. Alio modo potest definiri secundum quod praeservat a culpa futura; et sic definit eam hic Augustinus. Praeservatio autem a morbo corporali fit per ablationem causarum ex quibus morbus consequi potest: eis enim ablatis non potest morbus sequi. Sed in morbo spirituali non est ita: quia liberum arbitrium non cogitur; unde causis praecedentibus potest vitari, quamvis difficulter causis amotis potest incurri. Et ideo in satisfactionis definitione duo ponit: scilicet abscissionem causarum quantum ad primum, et abstinentiam liberi arbitrii ad ipsum peccatum quantum ad secundum.***
+Ad tertiam quaestionem dicendum, quod justitia non ad hoc tantum tendit ut inaequalitatem praecedentem auferat puniendo culpam praeteritam, sed ut in futurum aequalitatem custodiat: quia secundum Philosophum in 2 *Ethica*, poenae medicinae sunt; unde et satisfactio, quae est justitiae actus poenam inferentis, est medicina, curans peccata praeterita, et praeservans a futuris; et ideo quando homo homini satisfacit, et praeterita recompensat et de futuris cavet. Et secundum hoc dupliciter potest satisfactio definiri. Uno modo respectu culpae praeteritae, quam recompensando curat; et sic dicitur, quod satisfactio est injuriae illatae recompensatio secundum justitiae aequalitatem; et in idem dicitur redire definitio Anselmi, qui dicit, quod *satisfacere est Deo debitum honorem impendere*, ut consideretur debitum ratione culpae commissae. Alio modo potest definiri secundum quod praeservat a culpa futura; et sic definit eam hic Augustinus. Praeservatio autem a morbo corporali fit per ablationem causarum ex quibus morbus consequi potest: eis enim ablatis non potest morbus sequi. Sed in morbo spirituali non est ita: quia liberum arbitrium non cogitur; unde causis praecedentibus potest vitari, quamvis difficulter causis amotis potest incurri. Et ideo in satisfactionis definitione duo ponit: scilicet abscissionem causarum quantum ad primum, et abstinentiam liberi arbitrii ad ipsum peccatum quantum ad secundum.  
 
 Ad primum ergo dicendum, quod accipiendae sunt causae proximae peccati actualis, quae dicuntur duo: scilicet libido ex consuetudine vel actu peccati relicta, et aliquae reliquiae peccati praeteriti; et exteriores occasiones ad peccandum, ut locus, societas mala, et hujusmodi; et tales causae in hac vita per satisfactionem tolluntur; quamvis fomes, qui est causa remota peccati actualis, non tollatur totaliter in hac vita per satisfactionem, etsi debilitetur.  
 
@@ -116,7 +118,7 @@ Articulus 2
 
 ***Utrum possibile sit a nobis Deo satisfieri***
 
-***Ad secundum sic proceditur. Videtur quod homo non possit Deo satisfacere. Satisfactio enim debet aequari offensae, ut ex dictis patet. Sed offensa in Deum commissa, est infinita, quia quantitatem recipit ab eo in quem committitur; cum plus offendat qui principem percutit quam alium quemcumque. Cum ergo actio hominis non possit esse infinita, videtur quod homo Deo satisfacere non possit.***
+Ad secundum sic proceditur. Videtur quod homo non possit Deo satisfacere. Satisfactio enim debet aequari offensae, ut ex dictis patet. Sed offensa in Deum commissa, est infinita, quia quantitatem recipit ab eo in quem committitur; cum plus offendat qui principem percutit quam alium quemcumque. Cum ergo actio hominis non possit esse infinita, videtur quod homo Deo satisfacere non possit.  
 
 Praeterea, servus, quia totum quod habet, domini est, non potest aliquid domino recompensare. Sed nos servi Dei sumus; quidquid nos boni habemus, ab ipso habentes. Cum ergo satisfactio sit recompensatio offensae praeteritae, videtur quod Deo satisfacere non possimus.  
 
@@ -150,7 +152,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod homo possit de uno peccato sine alio satisfacere. Eorum enim quae non habent connexionem ad invicem, unum potest auferri sine alio. Sed peccata non habent ad invicem connexionem; alias qui haberet unum, haberet omnia. Ergo unum potest expiari sine alio per satisfactionem.***
+Ad tertium sic proceditur. Videtur quod homo possit de uno peccato sine alio satisfacere. Eorum enim quae non habent connexionem ad invicem, unum potest auferri sine alio. Sed peccata non habent ad invicem connexionem; alias qui haberet unum, haberet omnia. Ergo unum potest expiari sine alio per satisfactionem.  
 
 Praeterea, Deus est magis misericors quam homo. Sed homo recipit solutionem unius debiti sine alio. Ergo et Deus satisfactionem unius peccati sine alio.  
 
@@ -162,7 +164,7 @@ Praeterea, *satisfactio est medicina curans peccata praeterita, et praeservans a
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod qui de peccatis omnibus contritus fuerit prius, et postea in peccatum incidit, de aliis peccatis quae sibi per contritionem dimissa fuerant, satisfacere possit extra caritatem existens. Dixit enim Daniel, Nabuchodonosori: *peccata tua eleemosynis redime*. Sed ipse adhuc peccator erat, quod sequens poena demonstrat. Ergo potest existens in peccato satisfacere.***
+Ulterius. Videtur quod qui de peccatis omnibus contritus fuerit prius, et postea in peccatum incidit, de aliis peccatis quae sibi per contritionem dimissa fuerant, satisfacere possit extra caritatem existens. Dixit enim Daniel, Nabuchodonosori: *peccata tua eleemosynis redime*. Sed ipse adhuc peccator erat, quod sequens poena demonstrat. Ergo potest existens in peccato satisfacere.  
 
 Praeterea, *nemo scit utrum sit dignus odio, vel amore*; Eccle. 6. Si ergo non posset fieri satisfactio nisi ab eo qui est in caritate, nullus sciret se satisfacere; et hoc est inconveniens.  
 
@@ -176,7 +178,7 @@ Praeterea, praecipuum opus in satisfaciendo est eleemosyna. Sed eleemosyna extra
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod postquam homo caritatem habuerit, valere incipiat satisfactio praecedens. Super illud Levit. 25: *si attenuatus fuerit frater tuus*, dicit *Glossa*, quod *fructus bonae conversationis debet computari ex eo tempore quo peccavit*. Sed non computarentur, nisi aliquam efficaciam acciperent ex caritate sequente. Ergo post caritatem recuperatam valere incipiunt.***
+Ulterius. Videtur quod postquam homo caritatem habuerit, valere incipiat satisfactio praecedens. Super illud Levit. 25: *si attenuatus fuerit frater tuus*, dicit *Glossa*, quod *fructus bonae conversationis debet computari ex eo tempore quo peccavit*. Sed non computarentur, nisi aliquam efficaciam acciperent ex caritate sequente. Ergo post caritatem recuperatam valere incipiunt.  
 
 Praeterea, sicut efficacia satisfactionis impeditur per peccatum, ita efficacia baptismi impeditur per fictionem. Sed baptismus incipit valere recedente fictione. Ergo et satisfactio recedente peccato.  
 
@@ -188,7 +190,7 @@ Praeterea, caritas non informat actum nisi qui ab ipsa aliqualiter procedit. Sed
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod opera extra caritatem facta sint alicujus boni meritoria, saltem temporalis. Quia sicut se habet poena ad malum actum, ita se habet praemium ad bonum. Sed nullum malum factum apud Deum justum judicem est impunitum. Ergo nec aliquod bonum irremuneratum; et sic per illud bonum aliquid meretur.***
+Ulterius. Videtur quod opera extra caritatem facta sint alicujus boni meritoria, saltem temporalis. Quia sicut se habet poena ad malum actum, ita se habet praemium ad bonum. Sed nullum malum factum apud Deum justum judicem est impunitum. Ergo nec aliquod bonum irremuneratum; et sic per illud bonum aliquid meretur.  
 
 Praeterea, merces non datur nisi merito. Sed operibus extra caritatem factis datur merces, ut dicitur Matth. 5, de illis qui propter gloriam humanam opera bona faciunt, quod *receperunt mercedem suam*. Ergo opera illa fuerunt alicujus boni meritoria.  
 
@@ -200,7 +202,7 @@ Praeterea, qui nihil est, non potest mereri. Sed peccator non habens caritatem n
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod opera praedicta non valeant ad poenae infernalis mitigationem. Quia secundum quantitatem culpae, erit quantitas poenae in inferno. Sed opera extra caritatem facta non minuunt quantitatem peccati. Ergo nec infernalis poenae.***
+Ulterius. Videtur quod opera praedicta non valeant ad poenae infernalis mitigationem. Quia secundum quantitatem culpae, erit quantitas poenae in inferno. Sed opera extra caritatem facta non minuunt quantitatem peccati. Ergo nec infernalis poenae.  
 
 Praeterea, poena infernalis, quamvis sit duratione infinita, tamen intensione finita est. Sed quodlibet finitum consumitur aliqua finita subtractione facta. Si ergo opera extra caritatem facta, aliquid subtraherent de poena debita pro peccatis, contingeret tantum multiplicari illa opera quod totaliter tolleretur poena inferni: quod falsum est.  
 
@@ -212,7 +214,7 @@ Praeterea, majus est facere bonum quam dimittere malum. Sed dimittere malum semp
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod quidam dixerunt quod potest de uno peccato satisfieri sine alio, ut Magister in littera dicit; sed hoc non potest esse. Cum enim per satisfactionem tolli debeat offensa praecedens, oportet quod talis sit modus satisfactionis qui competat ad tollendam offensam. Offensae autem ablatio est amicitiae restitutio; et ideo si aliquid sit quod amicitiae restitutionem impediat, etiam apud homines satisfactio esse non potest. Ergo cum quodlibet peccatum amicitiam caritatis impediat, quae est hominis ad Deum, impossibile est quod homo de uno peccato satisfaciat alio retento; sicut nec homo satisfaceret, qui pro alapa sibi data, se ei prosterneret, et aliam sibi daret.***
+Respondeo dicendum ad primam quaestionem, quod quidam dixerunt quod potest de uno peccato satisfieri sine alio, ut Magister in littera dicit; sed hoc non potest esse. Cum enim per satisfactionem tolli debeat offensa praecedens, oportet quod talis sit modus satisfactionis qui competat ad tollendam offensam. Offensae autem ablatio est amicitiae restitutio; et ideo si aliquid sit quod amicitiae restitutionem impediat, etiam apud homines satisfactio esse non potest. Ergo cum quodlibet peccatum amicitiam caritatis impediat, quae est hominis ad Deum, impossibile est quod homo de uno peccato satisfaciat alio retento; sicut nec homo satisfaceret, qui pro alapa sibi data, se ei prosterneret, et aliam sibi daret.  
 
 Ad primum ergo dicendum, quod quia peccata non habent connexionem ad invicem in aliquo uno, unum potest quis incurrere sine alio: sed unum et idem est secundum quod omnia peccata remittuntur; et ideo remissiones diversorum peccatorum connexae sunt, et de uno sine alio satisfactio fieri non potest.  
 
@@ -222,7 +224,7 @@ Ad tertium dicendum, quod *unum peccatum suo pondere ad* *aliud trahit*, ut Greg
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quidam dixerunt, quod postquam omnia peccata per poenitentiam et contritionem remissa sunt, si aliquis ante satisfactionem peractam in peccatum decidat, et in peccato existens satisfaciat, quod satisfactio talis ei valeat; ita quod si in peccato illo moreretur, in inferno de illis peccatis non puniretur. Sed hoc non potest esse: quia in satisfactione oportet quod etiam amicitia restituta, justitiae aequalitas restituatur, cujus contrarium amicitiam solvit, ut Philosophus in 8 *Ethica* dicit. Aequalitas autem in satisfactione ad Deum non est secundum aequivalentiam, sed magis secundum acceptationem ipsius, ut est dictum; et ideo oportet quod et si jam offensa sit dimissa per praecedentem contritionem, quod opera satisfactoria sint Deo accepta, quod dat eis caritas; et ideo sine caritate opera facta non sunt satisfactoria.***
+Ad secundam quaestionem dicendum, quod quidam dixerunt, quod postquam omnia peccata per poenitentiam et contritionem remissa sunt, si aliquis ante satisfactionem peractam in peccatum decidat, et in peccato existens satisfaciat, quod satisfactio talis ei valeat; ita quod si in peccato illo moreretur, in inferno de illis peccatis non puniretur. Sed hoc non potest esse: quia in satisfactione oportet quod etiam amicitia restituta, justitiae aequalitas restituatur, cujus contrarium amicitiam solvit, ut Philosophus in 8 *Ethica* dicit. Aequalitas autem in satisfactione ad Deum non est secundum aequivalentiam, sed magis secundum acceptationem ipsius, ut est dictum; et ideo oportet quod et si jam offensa sit dimissa per praecedentem contritionem, quod opera satisfactoria sint Deo accepta, quod dat eis caritas; et ideo sine caritate opera facta non sunt satisfactoria.  
 
 Ad primum ergo dicendum, quod consilium Danielis intelligitur quod a peccato cessaret et poeniteret, et sic per eleemosynas satisfaceret.  
 
@@ -234,7 +236,7 @@ Ad quartum dicendum, quod non potest fieri adaequatio sufficiens nec secundum di
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod opera in caritate facta, quae viva dicuntur, sunt meritoria vitae aeternae, et satisfactoria respectu poenae dimittendae; et quod opera extra caritatem facta, vivificantur per caritatem quantum ad hoc quod sunt meritoria*sunt meritoria.—sunt satisfactoria sed non quantum ad hoc quod sint meritoria* PLE. vitae aeternae. Sed hoc non potest esse: quia utrumque habent ex eadem ratione opera ex caritate facta, scilicet ex hoc quod sunt Deo grata; unde sicut caritas*caritas.—gratia* PLE. adveniens non potest ea gratificare quantum ad unum, ita nec quantum ad aliud.***
+Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod opera in caritate facta, quae viva dicuntur, sunt meritoria vitae aeternae, et satisfactoria respectu poenae dimittendae; et quod opera extra caritatem facta, vivificantur per caritatem quantum ad hoc quod sunt meritoria*sunt meritoria.—sunt satisfactoria sed non quantum ad hoc quod sint meritoria* PLE. vitae aeternae. Sed hoc non potest esse: quia utrumque habent ex eadem ratione opera ex caritate facta, scilicet ex hoc quod sunt Deo grata; unde sicut caritas*caritas.—gratia* PLE. adveniens non potest ea gratificare quantum ad unum, ita nec quantum ad aliud.  
 
 Ad primum ergo dicendum, quod non debet intelligi quod fructus computetur a tempore quo primo in peccato fuit; sed a tempore in quo peccare cessavit, quo scilicet ultimo in peccato fuit. Vel intelligitur, quando statim post peccatum contritus fuit, et fecit multa bona antequam confiteretur. Vel dicendum, quod quanto est major contritio, tanto magis diminuit de poena; et quanto aliquis plura bona facit in peccato existens, magis se ad gratiam contritionis disposuit; et ideo probabile est quod minoris poenae sit debitor; et propter hoc debet a sacerdote discrete computari, ut ei minorem poenitentiam injungat, inquantum invenit eum melius dispositum.  
 
@@ -244,7 +246,7 @@ Ad tertium dicendum, quod aliquae satisfactiones sunt ex quibus manet aliquis ef
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut in 3 dist. 18, quaest. 1, art. 4, quaestiunc. 1, dictum est, meritum proprie dicitur actio qua efficitur ut ei qui agit sit justum aliquid dari. Sed justitia dupliciter dicitur. Uno modo proprie, quae scilicet respicit debitum ex parte recipientis; alio modo quasi similitudinarie, quae respicit debitum ex parte dantis. Aliquid enim decet dantem dare, quod tamen non habet recipiens debitum recipiendi; et sic justitia dicitur *decentia divinae bonitatis*, sicut Anselmus dicit, quod *Deus justus est cum peccatoribus parcit, quia eum decet*.***
+Ad quartam quaestionem dicendum, quod, sicut in 3 dist. 18, quaest. 1, art. 4, quaestiunc. 1, dictum est, meritum proprie dicitur actio qua efficitur ut ei qui agit sit justum aliquid dari. Sed justitia dupliciter dicitur. Uno modo proprie, quae scilicet respicit debitum ex parte recipientis; alio modo quasi similitudinarie, quae respicit debitum ex parte dantis. Aliquid enim decet dantem dare, quod tamen non habet recipiens debitum recipiendi; et sic justitia dicitur *decentia divinae bonitatis*, sicut Anselmus dicit, quod *Deus justus est cum peccatoribus parcit, quia eum decet*.  
 
 Et secundum hoc etiam meritum dicitur dupliciter. Uno modo actus per quem efficitur ut ipse agens habeat debitum recipiendi; et hoc vocatur meritum condigni. Alio modo, per quem efficitur ut sit debitum dandi in dante secundum decentiam ipsius; et ideo hoc meritum dicitur meritum congrui.  
 
@@ -256,7 +258,7 @@ Ad secundum et tertium dicendum, quod procedunt de merito congrui. Aliae autem r
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod diminuere poenam infernalem potest intelligi dupliciter. Uno modo ita quod quis liberetur a poena quam jam meruit; et sic, cum nullus liberetur a poena nisi sit absolutus a culpa, quia effectus non diminuuntur neque tolluntur nisi diminuta vel ablata causa; per opera extra caritatem facta, quae neque culpam tollere neque diminuere possunt, poena inferni mitigari non potest. Alio modo ita quod meritum poenae impediatur; et sic hujusmodi opera diminuunt poenam inferni. Primo, quia homo reatum omissionis evadit, qui hujusmodi opera perficit. Secundo, quia hujusmodi opera aliquo modo ad bonum disponunt, ut homo ex minori contemptu etiam peccata faciat, ut etiam a multis peccatis per hujusmodi opera retrahatur. Sed diminutionem vel dilationem temporalis poenae merentur hujusmodi opera, sicut dicitur de Achab, 3 regum 21, eodem modo sicut et bonorum temporalium consecutionem.***
+Ad quintam quaestionem dicendum, quod diminuere poenam infernalem potest intelligi dupliciter. Uno modo ita quod quis liberetur a poena quam jam meruit; et sic, cum nullus liberetur a poena nisi sit absolutus a culpa, quia effectus non diminuuntur neque tolluntur nisi diminuta vel ablata causa; per opera extra caritatem facta, quae neque culpam tollere neque diminuere possunt, poena inferni mitigari non potest. Alio modo ita quod meritum poenae impediatur; et sic hujusmodi opera diminuunt poenam inferni. Primo, quia homo reatum omissionis evadit, qui hujusmodi opera perficit. Secundo, quia hujusmodi opera aliquo modo ad bonum disponunt, ut homo ex minori contemptu etiam peccata faciat, ut etiam a multis peccatis per hujusmodi opera retrahatur. Sed diminutionem vel dilationem temporalis poenae merentur hujusmodi opera, sicut dicitur de Achab, 3 regum 21, eodem modo sicut et bonorum temporalium consecutionem.  
 
 Quidam autem dicunt, quod diminuunt poenam inferni, non subtrahendo aliquid de ipsa quantum ad substantiam, sed fortificando subjectum, ut melius sustinere possit. Sed hoc non potest esse: quia fortificatio non est nisi ex ablatione passibilitatis; passibilitas autem est secundum mensuram culpae; et ideo si culpa non diminuitur, nec subjectum fortificari potest. Quidam etiam dicunt, quod diminuitur poena quantum ad vermem conscientiae, licet non quantum ad ignem. Sed hoc etiam nihil est: quia sicut poena ignis aequatur culpae, ita et poena remorsionis conscientiae; unde similis ratio est de utroque.  
 
@@ -268,7 +270,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod satisfactionem non oporteat fieri per opera poenalia. Quia per satisfactionem oportet fieri recompensationem ad divinam offensam. Sed nulla recompensatio videtur fieri per opera poenalia; quia *Deus non delectatur in poenis nostris*. Ergo non oportet satisfactionem per opera poenalia fieri.***
+Ad quartum sic proceditur. Videtur quod satisfactionem non oporteat fieri per opera poenalia. Quia per satisfactionem oportet fieri recompensationem ad divinam offensam. Sed nulla recompensatio videtur fieri per opera poenalia; quia *Deus non delectatur in poenis nostris*. Ergo non oportet satisfactionem per opera poenalia fieri.  
 
 Praeterea, quanto aliquod opus ex majori caritate procedit, tanto minus est poenale; quia *caritas poenam non habet*; 1 Joan. 4. Si ergo oportet opera satisfactoria esse poenalia; quanto magis sunt ex caritate facta, minus erunt satisfactoria; quod falsum est.  
 
@@ -280,7 +282,7 @@ Praeterea, per satisfactionem oportet sanari vulnus peccati perfecte. Sed peccat
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod flagella quibus a Deo in hac vita punimur, non possint satisfactoria esse. Nihil enim potest esse satisfactorium nisi quod est meritorium, ut ex dictis patet. Sed non meremur nisi per ea quae in nobis sunt. Cum ergo flagella quibus a Deo punimur, non sint in nobis, videtur quod satisfactoria esse non possint.***
+Ulterius. Videtur quod flagella quibus a Deo in hac vita punimur, non possint satisfactoria esse. Nihil enim potest esse satisfactorium nisi quod est meritorium, ut ex dictis patet. Sed non meremur nisi per ea quae in nobis sunt. Cum ergo flagella quibus a Deo punimur, non sint in nobis, videtur quod satisfactoria esse non possint.  
 
 Praeterea, satisfactio tantum bonorum est. Sed hujusmodi flagella in malis inducuntur, et praecipue eis debentur. Ergo non possunt esse satisfactoria.  
 
@@ -292,7 +294,7 @@ Praeterea, Ambrosius dicit in littera: *etsi fides*, idest peccati conscientia, 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod inconvenienter enumerentur opera satisfactoria, cum dicitur quod sunt tria; eleemosyna, jejunium, et oratio. Quia opus satisfactorium debet esse poenale. Sed oratio poenam non habet, cum sit contra poenae tristitiam medicina, sed delectationem; unde dicitur Jacob. 5, 13: *tristatur aliquis in vobis? Oret, et psallat*. Ergo non debet computari inter opera satisfactoria.***
+Ulterius. Videtur quod inconvenienter enumerentur opera satisfactoria, cum dicitur quod sunt tria; eleemosyna, jejunium, et oratio. Quia opus satisfactorium debet esse poenale. Sed oratio poenam non habet, cum sit contra poenae tristitiam medicina, sed delectationem; unde dicitur Jacob. 5, 13: *tristatur aliquis in vobis? Oret, et psallat*. Ergo non debet computari inter opera satisfactoria.  
 
 Praeterea, omne peccatum vel est carnale vel spirituale. Sed, sicut dicit Hieronymus, *jejunio sanantur pestes corporis, oratione pestes mentis*. Ergo non debet esse aliquod aliud opus satisfactorium.  
 
@@ -304,7 +306,7 @@ Praeterea, peregrinationes etiam injunguntur pro satisfactione, et disciplinae, 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod satisfactio, ut dictum est, respectum habet ad praeteritam offensam pro qua recompensatio fit per satisfactionem, et etiam ad futuram culpam, a qua per eam praeservamur; et quantum ad utrumque exigitur quod satisfactio per opera poenalia fiat. Recompensatio enim offensae importat adaequationem, quam oportet esse ejus qui offendit ad eum in quem offensa commissa est. Adaequatio autem in humana justitia attenditur per subtractionem ab uno qui plus habuit justo, et additionem ad alterum cui subtractum est aliquid. Deo autem quamvis quantum ex parte sui est, nihil subtrahi possit; tamen peccator, quantum in ipso est, aliquid ei subtraxit peccando, ut dictum est; unde oportet ad hoc quod recompensatio fiat, quod aliquid subtrahatur a peccante per satisfactionem, quod in honorem Dei cedat. Opus autem bonum, ex hoc quod est hujusmodi, non subtrahit aliquid, sed magis perficit ipsum; unde subtractio non potest fieri per opus bonum, nisi poenale sit. Et ideo ad hoc quod aliquod opus sit satisfactorium, oportet quod sit bonum, ut in honorem Dei sit; et poenale, ut aliquid peccatori subtrahatur. Similiter etiam poena a culpa futura praeservat; quia non facile homo ad peccata redit, ex quo poenam expertus est; unde secundum Philosophum, poenae medicinae sunt.***
+Respondeo dicendum ad primam quaestionem, quod satisfactio, ut dictum est, respectum habet ad praeteritam offensam pro qua recompensatio fit per satisfactionem, et etiam ad futuram culpam, a qua per eam praeservamur; et quantum ad utrumque exigitur quod satisfactio per opera poenalia fiat. Recompensatio enim offensae importat adaequationem, quam oportet esse ejus qui offendit ad eum in quem offensa commissa est. Adaequatio autem in humana justitia attenditur per subtractionem ab uno qui plus habuit justo, et additionem ad alterum cui subtractum est aliquid. Deo autem quamvis quantum ex parte sui est, nihil subtrahi possit; tamen peccator, quantum in ipso est, aliquid ei subtraxit peccando, ut dictum est; unde oportet ad hoc quod recompensatio fiat, quod aliquid subtrahatur a peccante per satisfactionem, quod in honorem Dei cedat. Opus autem bonum, ex hoc quod est hujusmodi, non subtrahit aliquid, sed magis perficit ipsum; unde subtractio non potest fieri per opus bonum, nisi poenale sit. Et ideo ad hoc quod aliquod opus sit satisfactorium, oportet quod sit bonum, ut in honorem Dei sit; et poenale, ut aliquid peccatori subtrahatur. Similiter etiam poena a culpa futura praeservat; quia non facile homo ad peccata redit, ex quo poenam expertus est; unde secundum Philosophum, poenae medicinae sunt.  
 
 Ad primum ergo dicendum, quod quamvis Deus non delectetur in poenis ut sunt poenae, delectatur tamen in eis ut sunt justae, et sic satisfactoriae esse possunt.  
 
@@ -314,7 +316,7 @@ Ad tertium dicendum, quod debitum pro peccato est recompensatio offensae, quae s
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod recompensatio offensae praeteritae potest fieri et ab eo qui offendit, et ab alio. Quando autem fit ab alio, talis recompensatio vindicationis magis quam satisfactionis rationem habet. Quando autem fit ab ipso qui offendit, etiam rationem satisfactionis habet. Unde si flagella quae pro peccatis a Deo infliguntur, fiant aliquo modo ipsius patientis, rationem satisfactionis accipiunt. Fiunt autem ipsius, inquantum ea acceptat ad purgationem peccatorum, eis utens patienter. Si autem omnino eis per impatientiam dissentiat, tunc non efficiuntur aliquo modo ipsius; et ideo non habent rationem satisfactionis, sed vindicationis tantum.***
+Ad secundam quaestionem dicendum, quod recompensatio offensae praeteritae potest fieri et ab eo qui offendit, et ab alio. Quando autem fit ab alio, talis recompensatio vindicationis magis quam satisfactionis rationem habet. Quando autem fit ab ipso qui offendit, etiam rationem satisfactionis habet. Unde si flagella quae pro peccatis a Deo infliguntur, fiant aliquo modo ipsius patientis, rationem satisfactionis accipiunt. Fiunt autem ipsius, inquantum ea acceptat ad purgationem peccatorum, eis utens patienter. Si autem omnino eis per impatientiam dissentiat, tunc non efficiuntur aliquo modo ipsius; et ideo non habent rationem satisfactionis, sed vindicationis tantum.  
 
 Ad primum ergo dicendum, quod quamvis illa flagella non sint omnino in potestate nostra, tamen quantum ad aliquid sunt, ut scilicet eis patienter utamur; et sic homo facit de necessitate virtutem; unde et meritoria et satisfactoria esse possunt.  
 
@@ -324,7 +326,7 @@ Ad tertium dicendum, quod flagella respectum habent ad culpam praeteritam semper
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod satisfactio, ut dictum est, debet esse talis per quam aliquid nobis subtrahamus ad honorem Dei. Nos autem non habemus nisi tria bona; scilicet bona animae, bona corporis, et bona fortunae, scilicet exteriora. Ex bonis quidem fortunae subtrahimus aliquid nobis per eleemosynam; sed ex bonis corporalibus per jejunium; ex bonis autem animae non oportet quod aliquid subtrahamus nobis quantum ad essentiam vel quantum ad diminutionem ipsorum, quia per ea efficimur Deo accepti sed per hoc quod ea submittamus Deo totaliter; et hoc fit per orationem. Competit etiam iste numerus ex parte illa qua satisfactio peccatorum causas excidit; quia radices peccatorum tres ponuntur 1 Joan. 2, scilicet, *concupiscentia carnis, concupiscentia oculorum, et superbia vitae*. Et contra concupiscentiam carnis ordinatur jejunium; contra concupiscentiam oculorum, eleemosyna; contra superbiam vitae, oratio ut Augustinus dicit super Matth. Competit etiam quantum ad hoc quod satisfactionis est, peccatorum suggestionibus aditum non indulgere; quia omne peccatum vel in Deum committimus, et contra hoc ordinatur oratio; vel in proximum, et contra hoc eleemosyna; vel in nos ipsos, et contra hoc ordinatur jejunium.***
+Ad tertiam quaestionem dicendum, quod satisfactio, ut dictum est, debet esse talis per quam aliquid nobis subtrahamus ad honorem Dei. Nos autem non habemus nisi tria bona; scilicet bona animae, bona corporis, et bona fortunae, scilicet exteriora. Ex bonis quidem fortunae subtrahimus aliquid nobis per eleemosynam; sed ex bonis corporalibus per jejunium; ex bonis autem animae non oportet quod aliquid subtrahamus nobis quantum ad essentiam vel quantum ad diminutionem ipsorum, quia per ea efficimur Deo accepti sed per hoc quod ea submittamus Deo totaliter; et hoc fit per orationem. Competit etiam iste numerus ex parte illa qua satisfactio peccatorum causas excidit; quia radices peccatorum tres ponuntur 1 Joan. 2, scilicet, *concupiscentia carnis, concupiscentia oculorum, et superbia vitae*. Et contra concupiscentiam carnis ordinatur jejunium; contra concupiscentiam oculorum, eleemosyna; contra superbiam vitae, oratio ut Augustinus dicit super Matth. Competit etiam quantum ad hoc quod satisfactionis est, peccatorum suggestionibus aditum non indulgere; quia omne peccatum vel in Deum committimus, et contra hoc ordinatur oratio; vel in proximum, et contra hoc eleemosyna; vel in nos ipsos, et contra hoc ordinatur jejunium.  
 
 Ad primum ergo dicendum, quod secundum quosdam duplex est oratio: quaedam quae est contemplativorum, *quorum conversatio in caelis est*; et talis, quia totaliter est delectabilis, non est satisfactoria: alia est quae pro peccatis gemitus fundit; et talis habet poenam, et est satisfactionis pars. Vel dicendum melius, quod quaelibet oratio habet rationem satisfactionis: quia quamvis habeat suavitatem spiritus, tamen habet afflictionem carnis: quia, ut dicit Gregorius super Ezech., *dum crescit in nobis fortitudo amoris intimi, infirmamur procul dubio fortitudine carnis*; unde et nervus femoris Jacob ex lucta angeli emarcuisse legitur in Genesi cap. 32.  
 
@@ -342,7 +344,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod restitutio sit satisfactionis pars. Quia satisfactio reconciliat Deo et proximo. Sed per restitutionem homo reconciliatur proximo. Ergo restitutio est satisfactionis pars.***
+Ad quintum sic proceditur. Videtur quod restitutio sit satisfactionis pars. Quia satisfactio reconciliat Deo et proximo. Sed per restitutionem homo reconciliatur proximo. Ergo restitutio est satisfactionis pars.  
 
 Praeterea, satisfactio fit per contrarium peccati, sicut per jejunium satisfacimus de gula. Sed contrarium peccati malae ablationis est restitutio. Ergo restitutio est quaedam satisfactionis pars.  
 
@@ -354,7 +356,7 @@ Praeterea, satisfactio ponitur in arbitrio sacerdotis poenitentiam injungentis; 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ablatum non semper debeat restitui. Fama enim restitui non potest. Sed fama aufertur. Ergo non de omni ablato potest fieri restitutio.***
+Ulterius. Videtur quod ablatum non semper debeat restitui. Fama enim restitui non potest. Sed fama aufertur. Ergo non de omni ablato potest fieri restitutio.  
 
 Praeterea, damna in personam illata, sunt maxima. Sed hujusmodi damna non possunt restitui, ut ablatio virginitatis, abscissio membri alicujus. Ergo non omne ablatum potest restitui.  
 
@@ -368,7 +370,7 @@ Praeterea, ea quae in Scriptura ponuntur, nobis in exemplum dantur. Sed Luc. 10 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod solus ille qui accipit, ad restitutionem teneatur. Quia non exigitur plus in restitutione quam illatum est in damno. Si ergo unus solus damnum intulit, ille solus ad restitutionem tenetur: alias multo plura reciperet damnificatus quam ea quae amisit, si a quolibet consentiente deberet sibi in solidum restitutio fieri.***
+Ulterius. Videtur quod solus ille qui accipit, ad restitutionem teneatur. Quia non exigitur plus in restitutione quam illatum est in damno. Si ergo unus solus damnum intulit, ille solus ad restitutionem tenetur: alias multo plura reciperet damnificatus quam ea quae amisit, si a quolibet consentiente deberet sibi in solidum restitutio fieri.  
 
 Praeterea, nulli debetur restitutio nisi ei qui damnum passus est. Sed contingit quod aliquis praecipiat damnificari aliquem, vel consulat, aut consentiat; et tamen ille non damnificatur. Ergo tales non semper ad restitutionem tenentur.  
 
@@ -378,7 +380,7 @@ Praeterea, multi etiam boni viri non reprehendunt eos quos vident injuste accipe
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod non sit semper restitutio facienda ei qui damnum passus est. Nullus enim potest restituere ei quem non cognoscit. Sed quandoque fur nescit cujus sit res quam furto accepit. Ergo videtur quod non teneatur ei restituere.***
+Ulterius. Videtur quod non sit semper restitutio facienda ei qui damnum passus est. Nullus enim potest restituere ei quem non cognoscit. Sed quandoque fur nescit cujus sit res quam furto accepit. Ergo videtur quod non teneatur ei restituere.  
 
 Praeterea, ille qui accepit, non tenetur nisi ad restitutionem. Sed aliquando ad eum cui debetur fieri restitutio, non posset pervenire sine magno damno; forte etiam cum majori quam sit pretium rei restituendae. Ergo videtur quod in tali casu non teneatur ei restituere.  
 
@@ -390,7 +392,7 @@ Sed contra est, quia per restitutionem integratur aequalitas justitiae. Sed aequ
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod inaequalitas justitiae opposita duobus modis contingit. Uno modo in rebus exterioribus, ut quando unus rem alienam detinet; alio modo in actionibus et passionibus, sicut cum quis alium per violentiam reverberat; et haec duo aliquando separata sunt, ut per se patet; aliquando autem conjunguntur, ut cum quis per violentiam accepit, in quo ei a quo accepit, injuriam et contumeliam infert; et secundum hoc reparatio aequalitatis justitiae dupliciter significatur. Reparatio enim inaequalitatis existentis in rebus, restitutio dicitur; reparatio autem inaequalitatis existentis in actionibus et passionibus, satisfactio nominatur; et ideo quandoque est satisfactio sine restitutione aliqua, ut cum quis se proximo humiliat de aliquibus contumeliis ei dictis; aliquando autem restitutio sine satisfactione, ut cum quis mutuum reddit; aliquando autem utrumque exigitur; ut cum quis alicui per violentiam rem suam subtraxit: et sic loquimur hic de restitutione rei male ablatae, in quo homo proximum et Deum offendit.***
+Respondeo dicendum ad primam quaestionem, quod inaequalitas justitiae opposita duobus modis contingit. Uno modo in rebus exterioribus, ut quando unus rem alienam detinet; alio modo in actionibus et passionibus, sicut cum quis alium per violentiam reverberat; et haec duo aliquando separata sunt, ut per se patet; aliquando autem conjunguntur, ut cum quis per violentiam accepit, in quo ei a quo accepit, injuriam et contumeliam infert; et secundum hoc reparatio aequalitatis justitiae dupliciter significatur. Reparatio enim inaequalitatis existentis in rebus, restitutio dicitur; reparatio autem inaequalitatis existentis in actionibus et passionibus, satisfactio nominatur; et ideo quandoque est satisfactio sine restitutione aliqua, ut cum quis se proximo humiliat de aliquibus contumeliis ei dictis; aliquando autem restitutio sine satisfactione, ut cum quis mutuum reddit; aliquando autem utrumque exigitur; ut cum quis alicui per violentiam rem suam subtraxit: et sic loquimur hic de restitutione rei male ablatae, in quo homo proximum et Deum offendit.  
 
 Quidam ergo dicunt, quod talis restitutio non est pars satisfactionis, quia non debetur Deo tantum; nec est ad arbitrium sacerdotis, sed est ad satisfactionem praeambulum. Sed hoc nihil est: quia omne peccatum quod in proximum committitur, etiam in Deum commissum est; sicut et in dilectione proximi dilectio Dei includitur; unde et satisfactio proximi conjunctam habet satisfactionem Dei. Nec obstat quod non est ad arbitrium sacerdotis: quia sacerdos non est ibi vicarius proximi, sicut est vicarius Dei; et ideo satisfactio quae est Deo facienda, dependet ex arbitrio ejus; sed satisfactio quae est proximo et Deo simul facienda, non.  
 
@@ -406,7 +408,7 @@ Ad tertium dicendum, quod cessare a peccato dicitur esse pars poenitentiae, non 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod per satisfactionem oportet quod homo sicut Deo, ita proximo reconcilietur. Reconciliatio autem nihil aliud est quam amicitiae reparatio. Manente autem causa dissolutionis amicitiae, amicitia reparari non potest; quae quidem causa fuit inaequalitas ex injusta acceptione vel detentione causata; et ideo ille satisfacere non potest, nec Deo reconciliari, qui rem male ablatam, vel detentam male, non restituit. Sed sciendum, quod amicitia, ut Philosophus dicit in 8 *Ethica*, *non requirit semper aequale, sed quod possibile*; et ideo si aliqua sunt ablata quae omnino restitui non possunt, sufficit voluntas restituendi cum tanta restitutione quanta possibilis est secundum conditionem utriusque ad arbitrium bonorum.***
+Ad secundam quaestionem dicendum, quod per satisfactionem oportet quod homo sicut Deo, ita proximo reconcilietur. Reconciliatio autem nihil aliud est quam amicitiae reparatio. Manente autem causa dissolutionis amicitiae, amicitia reparari non potest; quae quidem causa fuit inaequalitas ex injusta acceptione vel detentione causata; et ideo ille satisfacere non potest, nec Deo reconciliari, qui rem male ablatam, vel detentam male, non restituit. Sed sciendum, quod amicitia, ut Philosophus dicit in 8 *Ethica*, *non requirit semper aequale, sed quod possibile*; et ideo si aliqua sunt ablata quae omnino restitui non possunt, sufficit voluntas restituendi cum tanta restitutione quanta possibilis est secundum conditionem utriusque ad arbitrium bonorum.  
 
 Ad primum ergo dicendum, quod ille qui malitiam alicujus manifestat ei qui habet corrigere, vel etiam, si sit incorrigibilis, in conspectu Ecclesiae, ut confusus a peccato desistat, vel saltem alii ab ejus consortio corruptivo discedant, servato ordine caritatis fraternae, non injuste famam aufert; unde non tenetur ad famae restitutionem. Si autem intentione diffamandi hoc fecerit, injuste aufert, etiam si verum sit quod dicit; et tunc tenetur ad famae restitutionem vel dicendo se falsum dixisse, si falsum dixit; vel quocumque alio modo, non mentiendo, si verum dixit, sine hoc tamen quod se verum dixisse dicat; quia non debet alterius famam cum mendacio restituere.  
 
@@ -422,13 +424,13 @@ Ad sextum dicendum, quod Zachaeus non dixit hoc quasi necessarium, sed ex abunda
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam versus dantur de illis qui tenentur ad restitutionem, tales: *jussio, consilium, consensus, palpo, recursus, participans, mutus, non obstans, non manifestans*. Sed tantum quinque istorum sunt quae ad restitutionem semper obligant; quorum primum est *jussio*, quando aliquis jubet aliquem depraedari: alias tyranni non tenerentur ad restitutionem. Secundus est *consensus* ad rapinam perpetrandam in eo sine quo rapina fieri non poterat. Tertium est *recursus*, quando scilicet aliquis receptator latronum est, et eis patrocinium praestat. Quartum est *participatio*, quando aliquis latroni se sociat ad spoliandum, et partem spoliorum accipit. Quintum est *non obstans*, cum scilicet ex officio obstare tenetur, ut principes terrae, qui justitiam conservare debent, si non obstant cum obstare possint, ad restitutionem tenentur. In aliis autem causis enumeratis non obligatur semper quis ad restitutionem, nisi in certis casibus, quando probabiliter credit quod consilium suum fuit efficax, et quod alias injusta ablatio commissa non fuisset. Similiter etiam non omnis *palpo*, idest adulator, ad restitutionem tenetur; sed ille qui adulando ad auferendum incitat, dicens hoc signum strenuitatis esse. Similiter etiam *mutus* dicitur qui ex officio reclamare tenetur et non reclamat; nec tunc semper tenetur ad restitutionem, nisi operetur ut fiat injusta ablatio; sed debet inducere eum qui abstulit, ut reddat. Similiter etiam non omnis qui *non manifestat*, tenetur ad restitutionem; sed ille qui pro latrocinio zelat, et particeps est lucri. In omnibus autem his, si principalis restituit, alii deobligantur a debito restitutionis.***
+Ad tertiam quaestionem dicendum, quod quidam versus dantur de illis qui tenentur ad restitutionem, tales: *jussio, consilium, consensus, palpo, recursus, participans, mutus, non obstans, non manifestans*. Sed tantum quinque istorum sunt quae ad restitutionem semper obligant; quorum primum est *jussio*, quando aliquis jubet aliquem depraedari: alias tyranni non tenerentur ad restitutionem. Secundus est *consensus* ad rapinam perpetrandam in eo sine quo rapina fieri non poterat. Tertium est *recursus*, quando scilicet aliquis receptator latronum est, et eis patrocinium praestat. Quartum est *participatio*, quando aliquis latroni se sociat ad spoliandum, et partem spoliorum accipit. Quintum est *non obstans*, cum scilicet ex officio obstare tenetur, ut principes terrae, qui justitiam conservare debent, si non obstant cum obstare possint, ad restitutionem tenentur. In aliis autem causis enumeratis non obligatur semper quis ad restitutionem, nisi in certis casibus, quando probabiliter credit quod consilium suum fuit efficax, et quod alias injusta ablatio commissa non fuisset. Similiter etiam non omnis *palpo*, idest adulator, ad restitutionem tenetur; sed ille qui adulando ad auferendum incitat, dicens hoc signum strenuitatis esse. Similiter etiam *mutus* dicitur qui ex officio reclamare tenetur et non reclamat; nec tunc semper tenetur ad restitutionem, nisi operetur ut fiat injusta ablatio; sed debet inducere eum qui abstulit, ut reddat. Similiter etiam non omnis qui *non manifestat*, tenetur ad restitutionem; sed ille qui pro latrocinio zelat, et particeps est lucri. In omnibus autem his, si principalis restituit, alii deobligantur a debito restitutionis.  
 
 Et per hoc patet solutio ad objecta.  
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod restituere est iterato statuere aliquem in suae rei possessione; et ideo patet quod illi qui privatus est re sua, debet fieri restitutio.***
+Ad quartam quaestionem dicendum, quod restituere est iterato statuere aliquem in suae rei possessione; et ideo patet quod illi qui privatus est re sua, debet fieri restitutio.  
 
 Ad primum ergo dicendum, quod quando incertus est dominus rerum ablatarum, pauperes sunt heredes; et ideo non deobligatur a debito restitutionis, nisi det pauperibus pro anima illius cui restitutio debebatur, adhibita tamen prius diligentia debita.  
 
@@ -457,7 +459,7 @@ primo, quid sit;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod definitio eleemosynae, quam quidam assignant, scilicet: *eleemosyna est opus in quo datur aliquid indigenti ex compassione propter Deum*, sit inconvenienter assignata. Visitare enim infirmos ponitur species eleemosynae. Sed in hoc opere non datur aliquid. Ergo datio non debet poni in definitione eleemosynae.***
+Ad primum sic proceditur. Videtur quod definitio eleemosynae, quam quidam assignant, scilicet: *eleemosyna est opus in quo datur aliquid indigenti ex compassione propter Deum*, sit inconvenienter assignata. Visitare enim infirmos ponitur species eleemosynae. Sed in hoc opere non datur aliquid. Ergo datio non debet poni in definitione eleemosynae.  
 
 Praeterea, ipsum datum eleemosyna dicitur, quia dicimur eleemosynam dare. Sed ipsum datum non est opus, sed res quaedam. Ergo eleemosyna non est opus.  
 
@@ -469,7 +471,7 @@ Praeterea, actus non recipit speciem a fine ultimo, sed a proximo; alias omnes a
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod eleemosyna non sit satisfactionis pars. Non enim est necessarium satisfacere nisi ei qui peccavit. Sed si nunquam homo peccasset, necesse haberet eleemosynas dare. Ergo non est satisfactionis pars.***
+Ulterius. Videtur quod eleemosyna non sit satisfactionis pars. Non enim est necessarium satisfacere nisi ei qui peccavit. Sed si nunquam homo peccasset, necesse haberet eleemosynas dare. Ergo non est satisfactionis pars.  
 
 Praeterea, totum non potest esse perfectum, si pars ei subtrahatur. Sed potest aliquis perfecte satisfacere de aliquo peccato, etiam si nullam eleemosynam det. Ergo satisfactionis pars non est eleemosyna.  
 
@@ -483,7 +485,7 @@ Praeterea, in foro saeculari non solum punitur aliquis per corporis laesionem, s
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod eleemosyna non sit actus virtutis. Quia 1 Timoth. 4, ubi dicitur quod *pietas ad omnia valet*, exponitur pro eleemosynarum largitione. Sed pietas non est virtus, sed donum. Ergo eleemosyna non est actus virtutis.***
+Ulterius. Videtur quod eleemosyna non sit actus virtutis. Quia 1 Timoth. 4, ubi dicitur quod *pietas ad omnia valet*, exponitur pro eleemosynarum largitione. Sed pietas non est virtus, sed donum. Ergo eleemosyna non est actus virtutis.  
 
 Praeterea, nulla passio est virtus, ut Philosophus probat in 2 *Ethica*. Sed eleemosyna ex misericordia procedit, quae passio est, ut patet per *Glossam* super illud Psal. 36: *tota die miseretur: eleemosyna a misericordia incipit*. Ergo non est actus virtutis.  
 
@@ -495,7 +497,7 @@ Praeterea, nihil est meritorium nisi actus virtutis: quia felicitas est virtutis
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod eleemosyna non cadat in praecepto, Luc. 3, super illud: *interrogaverunt eum turbae*, dicit *Glossa* interlinealis: *ex verbis Joannis terrore perculsi consilium quaerunt*. Sed Joannes respondit quod intenderent eleemosynis. Ergo dare eleemosynas est consilium, et non praeceptum.***
+Ulterius. Videtur quod eleemosyna non cadat in praecepto, Luc. 3, super illud: *interrogaverunt eum turbae*, dicit *Glossa* interlinealis: *ex verbis Joannis terrore perculsi consilium quaerunt*. Sed Joannes respondit quod intenderent eleemosynis. Ergo dare eleemosynas est consilium, et non praeceptum.  
 
 Praeterea, quilibet potest licite sua retinere. Sed retinendo sua non dat aliquis eleemosynam. Ergo dare eleemosynam non est in praecepto.  
 
@@ -509,7 +511,7 @@ Praeterea, illud sine quo caritas esse non potest, cadit sub praecepto. Sed sine
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod eleemosyna nomen Graecum est, *eleemosyni*, munus quod inopi datur; et dicitur ab eleos, quod est miseratio, seu misericordia, quae miseriam alienam suam facit. Unde sicut homo miseriam a se expellit quantum potest, ita misericors miseriam alienam expellit ei subveniendo: quae quidem subventio fit per hoc quod ei sua bona communicat; unde ipsa communicatio bonorum propriorum ad miserum, nomen eleemosynae accepit. Haec autem communicatio non potest esse meritoria et virtuosa, nisi quando propter Deum fit; et ideo in definitione praedicta tanguntur omnia quae ad perfectionem eleemosynae concurrunt, secundum quod est meritoria. Ipsa enim miseria aliena, quae est misericordiae principium, tangitur in hoc quod dicit, *indigenti*; misericordia autem, quae ex miseria aliena nascitur in nobis, tangitur in hoc quod dicit, *ex compassione*; sed misericordiae effectus in relevando alienam miseriam quasi suam, tangitur in hoc quod dicitur, *opus in quo aliquid datur*: hoc enim est essentiale ipsi eleemosynae; sed intentio directa in Deum, quae dat ei rationem merendi, tangitur in hoc quod dicitur, *propter Deum*.***
+Respondeo dicendum ad primam quaestionem, quod eleemosyna nomen Graecum est, *eleemosyni*, munus quod inopi datur; et dicitur ab eleos, quod est miseratio, seu misericordia, quae miseriam alienam suam facit. Unde sicut homo miseriam a se expellit quantum potest, ita misericors miseriam alienam expellit ei subveniendo: quae quidem subventio fit per hoc quod ei sua bona communicat; unde ipsa communicatio bonorum propriorum ad miserum, nomen eleemosynae accepit. Haec autem communicatio non potest esse meritoria et virtuosa, nisi quando propter Deum fit; et ideo in definitione praedicta tanguntur omnia quae ad perfectionem eleemosynae concurrunt, secundum quod est meritoria. Ipsa enim miseria aliena, quae est misericordiae principium, tangitur in hoc quod dicit, *indigenti*; misericordia autem, quae ex miseria aliena nascitur in nobis, tangitur in hoc quod dicit, *ex compassione*; sed misericordiae effectus in relevando alienam miseriam quasi suam, tangitur in hoc quod dicitur, *opus in quo aliquid datur*: hoc enim est essentiale ipsi eleemosynae; sed intentio directa in Deum, quae dat ei rationem merendi, tangitur in hoc quod dicitur, *propter Deum*.  
 
 Ad primum ergo dicendum quod secundum Philosophum in 5 *Ethica*, quod omnia illa quorum pretium numismate potest comparari vel consuevit, potest in ratione dati et accepti venire; et ideo illi actus qui in subventione alienae miseriae exhibentur, etiam quasi dona accipiuntur, cum sine pretio impenduntur.  
 
@@ -523,7 +525,7 @@ Ad quintum dicendum, quod quamvis esse propter Deum non det speciem eleemosynae 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod a peccato desistere non est de essentia satisfactionis, ut ex praedictis patet, sed est ad satisfactionem praeambulum, sicut fundamentum ipsius. Unde cum aliquis peccet hoc ipso quod non facit hoc quod facere tenetur, constat quod id quod quis alias facere tenetur, non est de essentia satisfactionis, sed praeambulum ad ipsam. Unde cum ad eleemosynarum largitionem quandoque aliquis teneatur, quandoque non, ut postea patebit; constat quod illarum eleemosynarum largitio ad quas quis tenetur, non est pars satisfactionis, sed praeambulum ad ipsam. Illae vero eleemosynae ad quas quis alias non tenetur, possunt satisfactoriae esse, cum sint opera bona et poenalia, quod exigebatur ad opus satisfactorium: punitur enim quis non solum ex afflictione corporis, sed ex subtractione rerum.***
+Ad secundam quaestionem dicendum, quod a peccato desistere non est de essentia satisfactionis, ut ex praedictis patet, sed est ad satisfactionem praeambulum, sicut fundamentum ipsius. Unde cum aliquis peccet hoc ipso quod non facit hoc quod facere tenetur, constat quod id quod quis alias facere tenetur, non est de essentia satisfactionis, sed praeambulum ad ipsam. Unde cum ad eleemosynarum largitionem quandoque aliquis teneatur, quandoque non, ut postea patebit; constat quod illarum eleemosynarum largitio ad quas quis tenetur, non est pars satisfactionis, sed praeambulum ad ipsam. Illae vero eleemosynae ad quas quis alias non tenetur, possunt satisfactoriae esse, cum sint opera bona et poenalia, quod exigebatur ad opus satisfactorium: punitur enim quis non solum ex afflictione corporis, sed ex subtractione rerum.  
 
 Et per hoc patet solutio ad primum. Quidam tamen dicunt, quod etiam primae satisfactoriae sunt ex largitione divinae misericordiae.  
 
@@ -535,7 +537,7 @@ Ad quartum dicendum, quod eleemosyna non tantum consistit in collatione pecuniae
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod cum virtus sit habitus quo dirigimur ad bene operandum, oportet quod omnis actus quod de se rectitudinem importat, ad aliquam virtutem reducatur, quamvis etiam in sui ratione non exprimat omne illud quod ad perfectionem virtutis requiritur; sicut dare quando dandum est, dicitur esse actus liberalitatis, quamvis in hoc non exprimatur omnis debita circumstantia quae ad actum liberalitatis exigitur. Cum ergo eleemosyna, secundum quod dictum est, importet quamdam rectitudinem, quia significat dationem ordinatam ad subventionem miseriae, quod ipsum nomen declarat, cum eleemosyna ab eleos quod est miseratio, seu misericordia, dicatur, patet quod eleemosyna de se dicit virtutis actum, quamvis non exprimat omnes conditiones quae ad actum virtutis requiruntur. Dationes autem et acceptiones ordinat liberalitas; unde oportet quod eleemosyna sit aliquo modo actus liberalitatis, cujus misericordia pars ponitur a quibusdam, ut in 3 dictum est, dist. 33, quaest. 3, art. 4; eo quod liberalitas conjectat bonum communiter in dationibus; sed misericordia conjectat in eis aliquod speciale bonum, quod est relevatio miseriae aliorum; unde eleemosyna est actus misericordiae, et per consequens liberalitatis.***
+Ad tertiam quaestionem dicendum, quod cum virtus sit habitus quo dirigimur ad bene operandum, oportet quod omnis actus quod de se rectitudinem importat, ad aliquam virtutem reducatur, quamvis etiam in sui ratione non exprimat omne illud quod ad perfectionem virtutis requiritur; sicut dare quando dandum est, dicitur esse actus liberalitatis, quamvis in hoc non exprimatur omnis debita circumstantia quae ad actum liberalitatis exigitur. Cum ergo eleemosyna, secundum quod dictum est, importet quamdam rectitudinem, quia significat dationem ordinatam ad subventionem miseriae, quod ipsum nomen declarat, cum eleemosyna ab eleos quod est miseratio, seu misericordia, dicatur, patet quod eleemosyna de se dicit virtutis actum, quamvis non exprimat omnes conditiones quae ad actum virtutis requiruntur. Dationes autem et acceptiones ordinat liberalitas; unde oportet quod eleemosyna sit aliquo modo actus liberalitatis, cujus misericordia pars ponitur a quibusdam, ut in 3 dictum est, dist. 33, quaest. 3, art. 4; eo quod liberalitas conjectat bonum communiter in dationibus; sed misericordia conjectat in eis aliquod speciale bonum, quod est relevatio miseriae aliorum; unde eleemosyna est actus misericordiae, et per consequens liberalitatis.  
 
 Ad primum ergo dicendum, quod pietas, secundum Augustinum, 10 de Civit. Dei, more vulgi dicitur ipsa misericordia; et sic ad pietatem pertinere dicitur eleemosyna, et non secundum quod est donum. Qualiter autem pietas donum a misericordia differat, in Lib. 3, dist. 33, quaest. 3, art. 4, quaestiunc. 6, dictum est.  
 
@@ -549,7 +551,7 @@ Quintum concedimus.
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod cum eleemosyna sit actus virtutis, oportet quod aliquo modo cadat sub praecepto, quia praecepta legislatoris ad virtutem ducere intendunt, ut dicitur 2 *Ethic*. Reducitur autem ad hoc praeceptum: *honora parentes*; honor enim ille, secundum Augustinum, ad reverentiam et subventionem in necessariis pertinet; et nomine parentum omnis proximus intelligitur. Sed praecepta affirmativa non obligant ad semper, quamvis semper obligent; sed obligant pro loco et tempore, et secundum alias determinatas conditiones.***
+Ad quartam quaestionem dicendum, quod cum eleemosyna sit actus virtutis, oportet quod aliquo modo cadat sub praecepto, quia praecepta legislatoris ad virtutem ducere intendunt, ut dicitur 2 *Ethic*. Reducitur autem ad hoc praeceptum: *honora parentes*; honor enim ille, secundum Augustinum, ad reverentiam et subventionem in necessariis pertinet; et nomine parentum omnis proximus intelligitur. Sed praecepta affirmativa non obligant ad semper, quamvis semper obligent; sed obligant pro loco et tempore, et secundum alias determinatas conditiones.  
 
 Cum autem usus divitiarum sit ordinatus ad subveniendum necessitatibus praesentis vitae, quae quidem subventio debet esse ordinata; patet quod qui divitiis non utitur, ad subveniendum praesentis vitae necessitatibus, vel inordinate utitur, a virtute recedit.  
 
@@ -569,7 +571,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod eleemosyna decedentem in peccato mortali a poena infernali liberet. Tobiae 4, 2 dicitur: *eleemosyna ab omni peccato et a morte liberat, et non patietur animas ire in tenebras*. Sed in hoc nulla esset eleemosynae commendatio, si illos a tenebris eriperet qui tenebrarum debitores non erant. Ergo et decedentes in peccato mortali, qui tenebrarum debitores sunt, a tenebris inferni liberat.***
+Ad secundum sic proceditur. Videtur quod eleemosyna decedentem in peccato mortali a poena infernali liberet. Tobiae 4, 2 dicitur: *eleemosyna ab omni peccato et a morte liberat, et non patietur animas ire in tenebras*. Sed in hoc nulla esset eleemosynae commendatio, si illos a tenebris eriperet qui tenebrarum debitores non erant. Ergo et decedentes in peccato mortali, qui tenebrarum debitores sunt, a tenebris inferni liberat.  
 
 Praeterea, Ambrosius dicit, 1 Timoth. 4, super illud: *pietas ad omnia valet: pietatem autem sequens, si lubricum carnis patiatur, vapulabit quidem, sed non peribit*. Non autem potest intelligi de lubrico veniali, de quo quis poenitet: quia etiam sine eleemosynis per illud non periret. Ergo in peccato mortali decedentes, per eleemosynam liberantur a perditione inferni.  
 
@@ -577,7 +579,7 @@ Sed contra, nullus liberatur a poena inferni nisi per gratiam Dei: *gratia enim 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod eleemosyna sit minus satisfactoria quam alia opera satisfactionis; Matth. 17, 20, dicitur: *hoc genus daemoniorum in nullo ejicitur nisi in jejunio et oratione*; nec fit aliqua mentio de eleemosyna. Ergo jejunium et oratio sunt efficaciora ad delendum peccatum quam eleemosyna.***
+Ulterius. Videtur quod eleemosyna sit minus satisfactoria quam alia opera satisfactionis; Matth. 17, 20, dicitur: *hoc genus daemoniorum in nullo ejicitur nisi in jejunio et oratione*; nec fit aliqua mentio de eleemosyna. Ergo jejunium et oratio sunt efficaciora ad delendum peccatum quam eleemosyna.  
 
 Praeterea, satisfactionis opus oportet esse poenale et Deo acceptum. Sed jejunium est magis poenale quam eleemosyna, et oratio est opus magis Deo acceptum quam eleemosyna, inquantum majorem familiaritatem cum Deo conquirit. Ergo eleemosyna est minus satisfactoria quam jejunium et oratio.  
 
@@ -585,7 +587,7 @@ Sed contra est quod *Glossa* dicit, 1 Timoth., 4, super illud: *pietas ad omnia 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod virtus eleemosynae magis consistat in dato exteriori quam in affectu interiori. Ut enim dicitur communiter in suffragiis mortuorum, citius liberantur pro quibus dantur plura, etiam si pro alio bona voluntas impendatur. Ergo efficacia eleemosynae magis consistit in dato quam in affectu.***
+Ulterius. Videtur quod virtus eleemosynae magis consistat in dato exteriori quam in affectu interiori. Ut enim dicitur communiter in suffragiis mortuorum, citius liberantur pro quibus dantur plura, etiam si pro alio bona voluntas impendatur. Ergo efficacia eleemosynae magis consistit in dato quam in affectu.  
 
 Praeterea, efficacia eleemosynae est in expiando peccatum. Sed ubi est majus datum, majus peccatum expiatur: quia pro majori peccato major summa pecuniae in eleemosynas dandae injungitur. Ergo efficacia eleemosynae praecipue consistit in dato.  
 
@@ -593,7 +595,7 @@ Sed contra, super illud Psalm. 125: *qui seminant in lacrymis* etc., dicit *Glos
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod causa poenae infernalis est culpa mortalis. Manente autem causa, manet effectus. Unde, cum ab eo qui in peccato mortali moritur, non possit ulterius culpa mortalis tolli, sicut nec a daemonibus; quia, ut dicit Damascenus, *quod est hominibus mors, est daemonibus casus*; patet quod neque eleemosyna ab eo prius facta, neque post mortem ejus facta ab alio, potest eum qui in peccato mortali decedit, a poena inferni liberare.***
+Respondeo dicendum ad primam quaestionem, quod causa poenae infernalis est culpa mortalis. Manente autem causa, manet effectus. Unde, cum ab eo qui in peccato mortali moritur, non possit ulterius culpa mortalis tolli, sicut nec a daemonibus; quia, ut dicit Damascenus, *quod est hominibus mors, est daemonibus casus*; patet quod neque eleemosyna ab eo prius facta, neque post mortem ejus facta ab alio, potest eum qui in peccato mortali decedit, a poena inferni liberare.  
 
 Ad primum ergo dicendum, quod eo modo quo aliquis liberatur a peccato mortali per eleemosynam, liberatur ab infernalibus tenebris. Liberat autem eleemosyna a peccato mortali hominem adhuc in statu viae existentem, dupliciter: vel impediendo futurum peccatum, sicut et alia opera meritoria, quae hominem in gratia confirmant; vel a praeterito liberando, inquantum disponunt eum qui jam in peccatum incidit, ad gratiam recuperandam, sicut et alia opera de genere bonorum recta intentione facta.  
 
@@ -601,7 +603,7 @@ Ad secundum dicendum, quod intelligitur de lubrico mortali. Quod autem dicitur: 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod efficacia satisfactionis invenitur in tribus satisfactionis partibus, sicut virtus totius potentialis in partibus ejus, quae quidem complete in una invenitur, et in aliis diminute: sicut tota virtus animae invenitur in rationali; sed in sensibili anima invenitur diminute, et adhuc magis diminute in vegetabili: quia anima sensibilis includit in se virtutem animae vegetabilis, et non convertitur. Eleemosyna enim includit in se virtutem orationis et jejunii duplici ratione. Primo, quia eleemosyna eum constituit cui datur debitorem ad orandum et jejunandum, et alia bona quae potest faciendum pro eo qui dedit. Secundo, quia eleemosyna propter Deum data, est quasi quaedam oblatio Deo facta; unde Philosophus etiam dicit in 1 *Ethica*, quod *bona opera habent aliquid simile Deo sacratis*; oblatio autem ipsa Deo facta vim orationis habet. Et similiter inquantum bona exteriora ad corporis conservationem ordinantur, subtractio exteriorum bonorum per eleemosynam quasi virtute continet jejunium, quo maceratur corpus. Similiter etiam oratio virtute continet jejunium, quia extensio intellectus ad Deum debilitatem corporis parit, ut dictum est. Unde eleemosyna completius habet vim satisfactionis quam oratio, et oratio quam jejunium; et ideo dicitur 1 Timoth. 4, 8: *corporalis exercitatio ad modicum utilis est*. Et propter hoc eleemosyna magis indicitur ut universalis medicina peccati, quam alia, sicut Luc. 11, 41: *date eleemosynam, et omnia munda sunt vobis*; et Dan. 4, 24: *peccata tua eleemosynis redime*; et Tobiae 4, 2: *eleemosyna ab omni peccato liberat*; et 1 Timoth. 4, 8: *pietas ad omnia valet*.***
+Ad secundam quaestionem dicendum, quod efficacia satisfactionis invenitur in tribus satisfactionis partibus, sicut virtus totius potentialis in partibus ejus, quae quidem complete in una invenitur, et in aliis diminute: sicut tota virtus animae invenitur in rationali; sed in sensibili anima invenitur diminute, et adhuc magis diminute in vegetabili: quia anima sensibilis includit in se virtutem animae vegetabilis, et non convertitur. Eleemosyna enim includit in se virtutem orationis et jejunii duplici ratione. Primo, quia eleemosyna eum constituit cui datur debitorem ad orandum et jejunandum, et alia bona quae potest faciendum pro eo qui dedit. Secundo, quia eleemosyna propter Deum data, est quasi quaedam oblatio Deo facta; unde Philosophus etiam dicit in 1 *Ethica*, quod *bona opera habent aliquid simile Deo sacratis*; oblatio autem ipsa Deo facta vim orationis habet. Et similiter inquantum bona exteriora ad corporis conservationem ordinantur, subtractio exteriorum bonorum per eleemosynam quasi virtute continet jejunium, quo maceratur corpus. Similiter etiam oratio virtute continet jejunium, quia extensio intellectus ad Deum debilitatem corporis parit, ut dictum est. Unde eleemosyna completius habet vim satisfactionis quam oratio, et oratio quam jejunium; et ideo dicitur 1 Timoth. 4, 8: *corporalis exercitatio ad modicum utilis est*. Et propter hoc eleemosyna magis indicitur ut universalis medicina peccati, quam alia, sicut Luc. 11, 41: *date eleemosynam, et omnia munda sunt vobis*; et Dan. 4, 24: *peccata tua eleemosynis redime*; et Tobiae 4, 2: *eleemosyna ab omni peccato liberat*; et 1 Timoth. 4, 8: *pietas ad omnia valet*.  
 
 Ad primum ergo dicendum, quod satisfactio est medicina et praeservans a peccato futuro, et expians a praeterito. Et quamvis eleemosyna habeat vim expiandi quodcumque peccatum praeteritum, non tamen habet omnem vim praeservandi a futuro peccato: quia oratio et jejunium praeservant a quibusdam peccatis non solum per modum meriti, quod etiam eleemosyna facit, sed per modum contrariae assuetudinis; et sic ibidem dicit *Glossa* quod *jejunio sanantur corporis pestes, sed oratione pestes mentis*; et secundum hoc intelligitur quod aliqua peccata tantum jejunio vel oratione sanantur.  
 
@@ -609,7 +611,7 @@ Ad secundum dicendum, quod quamvis poena in satisfactione requiratur, tamen prin
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod eleemosyna, ut ex dictis patet, habet efficaciam et ex ipso faciente, inquantum est quoddam opus meritorium, et ex recipiente, inquantum obligatur ad orandum pro illo qui eleemosynam dedit. Si ergo consideretur eleemosynae efficacia ex parte recipientis, sic major efficacia in majori dato consistit, inquantum per hoc plures et magis debitores efficiuntur; ex parte autem dantis et respectu praemii essentialis, efficacia eleemosynae magis pensatur ex affectu quam ex dato; sed respectu praemii accidentalis, ut puta remissionis poenae, vel alicujus hujusmodi, magnificatur efficacia eleemosynae ex magnitudine dati, nisi ex parte altera intentio voluntatis magnitudini exterioris dati praeponderet. Potest enim tam intensa esse voluntas quod etiam omnem poenam absorbeat et reatum, sicut de contritione dicitur.***
+Ad tertiam quaestionem dicendum, quod eleemosyna, ut ex dictis patet, habet efficaciam et ex ipso faciente, inquantum est quoddam opus meritorium, et ex recipiente, inquantum obligatur ad orandum pro illo qui eleemosynam dedit. Si ergo consideretur eleemosynae efficacia ex parte recipientis, sic major efficacia in majori dato consistit, inquantum per hoc plures et magis debitores efficiuntur; ex parte autem dantis et respectu praemii essentialis, efficacia eleemosynae magis pensatur ex affectu quam ex dato; sed respectu praemii accidentalis, ut puta remissionis poenae, vel alicujus hujusmodi, magnificatur efficacia eleemosynae ex magnitudine dati, nisi ex parte altera intentio voluntatis magnitudini exterioris dati praeponderet. Potest enim tam intensa esse voluntas quod etiam omnem poenam absorbeat et reatum, sicut de contritione dicitur.  
 
 Et per hoc patet responsio ad objecta.  
 
@@ -619,7 +621,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod superflue assignentur eleemosynae corporales septem, quae hoc versu continentur: *visito, poto, cibo, redimo, tego, colligo, condo*. *Visito*, scilicet infirmum; *poto*, scilicet sitientem; *cibo*, scilicet esurientem; *redimo*, scilicet incarceratum; *tego*, idest vestio nudum; *colligo*, idest recolligo hospitem; *condo*, idest sepelio mortuum. Omnis enim eleemosyna ad utilitatem ejus cui datur, debet ordinari. Sed sepultura non est ad utilitatem mortui, ut Seneca dicit. Ergo non fit eleemosyna in hoc quod mortuus sepeliatur.***
+Ad tertium sic proceditur. Videtur quod superflue assignentur eleemosynae corporales septem, quae hoc versu continentur: *visito, poto, cibo, redimo, tego, colligo, condo*. *Visito*, scilicet infirmum; *poto*, scilicet sitientem; *cibo*, scilicet esurientem; *redimo*, scilicet incarceratum; *tego*, idest vestio nudum; *colligo*, idest recolligo hospitem; *condo*, idest sepelio mortuum. Omnis enim eleemosyna ad utilitatem ejus cui datur, debet ordinari. Sed sepultura non est ad utilitatem mortui, ut Seneca dicit. Ergo non fit eleemosyna in hoc quod mortuus sepeliatur.  
 
 Praeterea, Dominus, Matth. 25, misericordiae opera commemorat quibus homo a damnatione liberatur, et regnum meretur. Sed ibi non computatur mortui sepultura. Ergo non est in hoc aliqua eleemosyna.  
 
@@ -631,7 +633,7 @@ Praeterea, inter omnes necessitates principalis est paupertas. Sed de hac non fi
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam eleemosynae spirituales inconvenienter numerentur, quae hoc versu continentur: *consule, castiga, solare, remitte, fer, ora*. *Consule*, idest doce ignorantem, et dirige dubitantem; intelligitur enim in hoc duplex eleemosyna, spiritualis scilicet doctrina, et consilium; *castiga* delinquentem; *solare*, idest consolare tristem; remitte delinquentibus in te; *fer*, idest porta infirmitates aliorum, et gravamina; *ora* pro omnibus.***
+Ulterius. Videtur quod etiam eleemosynae spirituales inconvenienter numerentur, quae hoc versu continentur: *consule, castiga, solare, remitte, fer, ora*. *Consule*, idest doce ignorantem, et dirige dubitantem; intelligitur enim in hoc duplex eleemosyna, spiritualis scilicet doctrina, et consilium; *castiga* delinquentem; *solare*, idest consolare tristem; remitte delinquentibus in te; *fer*, idest porta infirmitates aliorum, et gravamina; *ora* pro omnibus.  
 
 Eleemosyna enim cadit sub praecepto, et obligat ad tempus determinatum, ut praedictum est. Sed non est tempus docendi nisi quando aliquis ignorans occurrit. Si ergo eleemosynae pars sit doctrina, videtur quod quandocumque homo videat aliquem ignorantem, quod debeat eum docere.  
 
@@ -643,7 +645,7 @@ Praeterea, eleemosyna non computatur inter partes caritatis, sed inter partes ju
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod eleemosynae corporales praeemineant spiritualibus. Eleemosyna enim ordinatur ad subveniendum indigentiae. Sed magis indiget corpus quam spiritus. Ergo potior est eleemosyna corporalis quam spiritualis.***
+Ulterius. Videtur quod eleemosynae corporales praeemineant spiritualibus. Eleemosyna enim ordinatur ad subveniendum indigentiae. Sed magis indiget corpus quam spiritus. Ergo potior est eleemosyna corporalis quam spiritualis.  
 
 Praeterea, quanto minus recompensatur eleemosyna danti, tanto eleemosyna est acceptior; unde dicitur Matth. 5, 5, quod *receperunt mercedem suam* qui laudem suam pro eleemosynas quaerunt. Sed in corporalibus eleemosynis minor fit recompensatio, quia bona spiritualia aliis communicata in possidente crescunt. Ergo eleemosynae corporales sunt potiores.  
 
@@ -655,7 +657,7 @@ Praeterea, quanto est nobilius datum, tanto est melior eleemosyna, sicut etiam i
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod eleemosyna corporalis ordinatur ad subveniendum necessitati corporis; quae quidem est duplex; scilicet communis, et specialis ratione alicujus accidentis. Communis quidem necessitas corporis est duplex; una ex hoc quod jam mortem incurrit, et ad hoc ordinatur sepultura mortui; alia secundum quod est nobis necessarium aliquid praeservans a morte, ne eam aliquis incurrat; et hoc dupliciter. Uno modo prohibens corruptivum interius, quod est defectio nutrimenti; et contra hoc ordinatur cibatio esurientis, et potatio sitientis, secundum quod his duobus indigetur ad nutrimentum. Alio modo prohibens corruptivum exterius; et ad hoc etiam ordinatur duplex eleemosyna, scilicet tegere nudum, et colligere hospitem in domo; quia his duobus contra aeris intemperiem indigemus, scilicet veste, et domo. Similiter etiam necessitas specialis potest esse duplex; vel ex causa intrinseca, sicut infirmitas; et contra hanc ordinatur visitatio infirmorum; vel ex causa extrinseca, sicut detentio incarceratorum; et contra hoc ordinatur redemptio captivorum.***
+Respondeo dicendum ad primam quaestionem, quod eleemosyna corporalis ordinatur ad subveniendum necessitati corporis; quae quidem est duplex; scilicet communis, et specialis ratione alicujus accidentis. Communis quidem necessitas corporis est duplex; una ex hoc quod jam mortem incurrit, et ad hoc ordinatur sepultura mortui; alia secundum quod est nobis necessarium aliquid praeservans a morte, ne eam aliquis incurrat; et hoc dupliciter. Uno modo prohibens corruptivum interius, quod est defectio nutrimenti; et contra hoc ordinatur cibatio esurientis, et potatio sitientis, secundum quod his duobus indigetur ad nutrimentum. Alio modo prohibens corruptivum exterius; et ad hoc etiam ordinatur duplex eleemosyna, scilicet tegere nudum, et colligere hospitem in domo; quia his duobus contra aeris intemperiem indigemus, scilicet veste, et domo. Similiter etiam necessitas specialis potest esse duplex; vel ex causa intrinseca, sicut infirmitas; et contra hanc ordinatur visitatio infirmorum; vel ex causa extrinseca, sicut detentio incarceratorum; et contra hoc ordinatur redemptio captivorum.  
 
 Ad primum ergo dicendum, quod quamvis sepultura non prosit mortuo secundum se corporaliter, prodest tamen ei secundum quod in memoriis hominum remanet; tum quia in confusionem mortui reputatur quod insepultus jacet; tum quia ex ipso tumulo magis in memoria manet, et aliqui ad orandum pro ipso excitantur; unde monumentum dicitur a memoria, ut Augustinus dicit in libro *de Cura pro mortuis agenda*.  
 
@@ -669,7 +671,7 @@ Ad quintum dicendum, quod sicut nummus, eo quod est mensura quaedam, ut Philosop
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum quod eleemosynae spirituales dicuntur quibus homo defectibus proximi in spiritualibus subvenitur: quod quidem fit dupliciter. Uno modo quando aliquis impetrat proximo subventionem a Deo, et hoc facit oratio; alio modo quando aliquis subvenit proximo per seipsum, et hoc vel contra defectum poenae, vel contra defectum culpae. Si primo modo, hoc est dupliciter; quia poena spiritualis vel est in intellectu scilicet ignorantiam, et contra hunc defectum est doctrina respectu intellectus speculativi, et consilium respectu intellectus practici; vel est in affectu, scilicet tristitia, et contra hunc defectum est consolatio. Si autem secundo modo, scilicet contra defectum culpae; hoc dupliciter. Uno modo ex parte ipsius peccantis, cujus inordinationi subvenit castigatio; alio modo ex parte alterius qui ex culpa peccantis laeditur; et sic contra culpam est duplex remedium: scilicet remissio ex parte ejus in quem directe culpa committitur, et supportatio ex parte ejus cui peccantis societas est onerosa.***
+Ad secundam quaestionem dicendum quod eleemosynae spirituales dicuntur quibus homo defectibus proximi in spiritualibus subvenitur: quod quidem fit dupliciter. Uno modo quando aliquis impetrat proximo subventionem a Deo, et hoc facit oratio; alio modo quando aliquis subvenit proximo per seipsum, et hoc vel contra defectum poenae, vel contra defectum culpae. Si primo modo, hoc est dupliciter; quia poena spiritualis vel est in intellectu scilicet ignorantiam, et contra hunc defectum est doctrina respectu intellectus speculativi, et consilium respectu intellectus practici; vel est in affectu, scilicet tristitia, et contra hunc defectum est consolatio. Si autem secundo modo, scilicet contra defectum culpae; hoc dupliciter. Uno modo ex parte ipsius peccantis, cujus inordinationi subvenit castigatio; alio modo ex parte alterius qui ex culpa peccantis laeditur; et sic contra culpam est duplex remedium: scilicet remissio ex parte ejus in quem directe culpa committitur, et supportatio ex parte ejus cui peccantis societas est onerosa.  
 
 Vel aliter. Defectus cui subvenitur per eleemosynas spirituales, aut est defectus poenae in intellectu practico, vel speculativo; et sic est doctrina et consilium, ut dictum est, vel in affectu; et sic est consolatio; aut est defectus culpae, et sic vel in seipso cum spe emendationis, et sic est castigatio; aut sine spe emendationis, et sic non restat nisi per orationem divinum subsidium implorare; vel in proximum, et sic quantum ad culpam indiget remissione; quantum ad poenam quam infert, supportatione.  
 
@@ -683,7 +685,7 @@ Ad quartum dicendum, quod caritas est mater omnium virtutum; et ideo non est inc
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod eleemosyna habet efficaciam, ut dictum est, et ex parte dantis, et ex parte recipientis. Ex parte autem dantis efficacia eleemosynae pensatur per conditionem ipsius actus quo subsidium proximo infertur; et sic, simpliciter loquendo, eleemosyna spiritualis dignior est, quia actus spirituales digniores sunt corporalibus donis. Ex parte autem recipientis potest mensurari eleemosyna dupliciter; vel ratione boni quod confertur, et sic adhuc eleemosyna spiritualis praeeminet: vel ratione necessarii, et sic quaedam spirituales sunt quibusdam corporalibus potiores, scilicet quae contra culpam ordinantur, quibuscumque eleemosynis corporalibus: quia homo magis debet vitare culpam quam aliquem defectum corporalem, etiam mortem. Quaedam vero corporales, quae scilicet sunt ad sustentationem vitae, quibusdam eleemosynis spiritualibus magis sunt necessariae, scilicet quae sunt ad bene esse; sed illae quae sunt ad bene esse spirituale, sunt magis necessariae illis quae sunt ad bene esse corporale. Sic ergo patet quod omnibus corporalibus eleemosynis aliquae spirituales potiores sunt, et similiter in genere loquendo de utrisque.***
+Ad tertiam quaestionem dicendum, quod eleemosyna habet efficaciam, ut dictum est, et ex parte dantis, et ex parte recipientis. Ex parte autem dantis efficacia eleemosynae pensatur per conditionem ipsius actus quo subsidium proximo infertur; et sic, simpliciter loquendo, eleemosyna spiritualis dignior est, quia actus spirituales digniores sunt corporalibus donis. Ex parte autem recipientis potest mensurari eleemosyna dupliciter; vel ratione boni quod confertur, et sic adhuc eleemosyna spiritualis praeeminet: vel ratione necessarii, et sic quaedam spirituales sunt quibusdam corporalibus potiores, scilicet quae contra culpam ordinantur, quibuscumque eleemosynis corporalibus: quia homo magis debet vitare culpam quam aliquem defectum corporalem, etiam mortem. Quaedam vero corporales, quae scilicet sunt ad sustentationem vitae, quibusdam eleemosynis spiritualibus magis sunt necessariae, scilicet quae sunt ad bene esse; sed illae quae sunt ad bene esse spirituale, sunt magis necessariae illis quae sunt ad bene esse corporale. Sic ergo patet quod omnibus corporalibus eleemosynis aliquae spirituales potiores sunt, et similiter in genere loquendo de utrisque.  
 
 Ad primum ergo dicendum, quod quamvis corpus habeat plures indigentias quam spiritus, tamen indigentiae spiritus sunt magis fugiendae quam indigentiae corporis, sicut eligibiliores sunt spirituales quam corporales divitiae.  
 
@@ -697,7 +699,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod de necessitate non sit danda eleemosyna. Quia, ut dicit Augustinus, *peccat qui praepostere agit*. Sed ordo caritatis hoc exigit ut homo magis sibi quam alteri subveniat. Ergo peccat subtrahendo sibi necessarium, ut alteri conferat.***
+Ad quartum sic proceditur. Videtur quod de necessitate non sit danda eleemosyna. Quia, ut dicit Augustinus, *peccat qui praepostere agit*. Sed ordo caritatis hoc exigit ut homo magis sibi quam alteri subveniat. Ergo peccat subtrahendo sibi necessarium, ut alteri conferat.  
 
 Praeterea, Philosophus dicit in 4 *Ethica*, quod *qui dissipat substantiam suam*, idest divitias, *destruit seipsum*; et hoc praecipue verum est quantum ad necessaria. Sed peccat qui seipsum occidit. Ergo etiam peccat qui de necessariis sibi eleemosynam facit.  
 
@@ -705,7 +707,7 @@ Sed contra est. Qui omnia dat, nihil sibi retinet de necessariis. Sed Dominus co
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam de male acquisito et possesso possit eleemosyna fieri. Luc. 16, super illud: *facite vobis amicos de mammona iniquitatis*, dicit *Glossa*: *iniquitas bene dispensata in justitiam vertitur*. Ergo videtur quod liceat de inique possessis eleemosynam facere.***
+Ulterius. Videtur quod etiam de male acquisito et possesso possit eleemosyna fieri. Luc. 16, super illud: *facite vobis amicos de mammona iniquitatis*, dicit *Glossa*: *iniquitas bene dispensata in justitiam vertitur*. Ergo videtur quod liceat de inique possessis eleemosynam facere.  
 
 Praeterea, ei qui est in ultima necessitate constitutus, omnibus modis subveniendum est. Sed contingit aliquem qui nihil habet nisi de injusto acquisito et detento, aliquem in extrema necessitate videre. Ergo debet ei eleemosynam facere; et sic de malo acquisito et detento potest eleemosyna fieri.  
 
@@ -713,7 +715,7 @@ Sed contra est quod Gregorius dicit: *non est computanda eleemosyna, si pauperib
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod de turpi lucro non possit fieri eleemosyna, sicut de meretricio, et aleato, et quod per simoniam acquiritur. Quia secundum Philosophum, dona habent aliquid simile Deo sacratis. Sed ex hujusmodi non licet sacrificium vel oblationem Deo offerre; Deuter. 23, 18: *non offeres mercedem prostibuli nec pretium canis in domum Dei tui*. Ergo nec eleemosynae ex hujusmodi fieri debent.***
+Ulterius. Videtur quod de turpi lucro non possit fieri eleemosyna, sicut de meretricio, et aleato, et quod per simoniam acquiritur. Quia secundum Philosophum, dona habent aliquid simile Deo sacratis. Sed ex hujusmodi non licet sacrificium vel oblationem Deo offerre; Deuter. 23, 18: *non offeres mercedem prostibuli nec pretium canis in domum Dei tui*. Ergo nec eleemosynae ex hujusmodi fieri debent.  
 
 Praeterea, aleatorum lucrum est turpe lucrum. Acceptiones enim eorum illiberales sunt, ut Philosophus dicit in 4 *Ethica*. Sed ex aleato non potest fieri eleemosyna, ut videtur: quia tenetur ad restitutionem ejus. Ergo non potest fieri eleemosyna de turpi lucro.  
 
@@ -721,7 +723,7 @@ Sed contra est quod Augustinus dicit: *qui habetis aliquid de malo, facite inde 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod de rebus exterioribus dicitur nobis aliquid necessarium dupliciter. Uno modo, sine quo non potest aliquis esse et vivere. Alio modo dicitur nobis necessarium quo indigemus ad honeste vivendum, vel decenter secundum statum nostrum. Sed talis decentia non consistit in aliquo indivisibili: quia multis additis homo non excedit status sui conditionem; multis etiam subtractis conditio sui status decenter conservatur: sed tantum posset addi, quod esset ultra conditionem status sui; et tantum diminui, quod non servaretur honestas, vel decentia sui status; et hoc quidem sermone determinari non potest, quia de singularibus non est judicium; sed statur in hoc prudentiae arbitrio, et unctionis, quae *docet de omnibus*.***
+Respondeo dicendum ad primam quaestionem, quod de rebus exterioribus dicitur nobis aliquid necessarium dupliciter. Uno modo, sine quo non potest aliquis esse et vivere. Alio modo dicitur nobis necessarium quo indigemus ad honeste vivendum, vel decenter secundum statum nostrum. Sed talis decentia non consistit in aliquo indivisibili: quia multis additis homo non excedit status sui conditionem; multis etiam subtractis conditio sui status decenter conservatur: sed tantum posset addi, quod esset ultra conditionem status sui; et tantum diminui, quod non servaretur honestas, vel decentia sui status; et hoc quidem sermone determinari non potest, quia de singularibus non est judicium; sed statur in hoc prudentiae arbitrio, et unctionis, quae *docet de omnibus*.  
 
 Utroque autem dictorum modorum potest aliquid esse alicui necessarium dupliciter: vel ratione sui ipsius, et hoc dicitur a quibusdam necessarium individui; vel ratione eorum quorum curam gerere debet, et hoc dicitur necessarium personae, inquantum persona ad dignitatem pertinet secundum quam alicui competit aliorum curam gerere. Illud ergo sine quo non potest esse vel vivere aliquis, vel ipse, vel illi quorum curam habet, non debet in eleemosynas expendi: hoc enim dicitur necessarium simpliciter quasi necessitate absoluta, nisi forte possit, antequam necessitas incumbat, per alium modum resarciri; quia jam excideret ab hujusmodi necessitatis ratione. Similiter etiam illud quo subtracto non potest servari decentia status aliquo modo sui vel suorum, non debet aliquis in eleemosynas expendere, nisi de facili resarciri possit, aut nisi aliquis statum mutare vellet; quia nullus debet indecenter in aliquo statu manere; vel nisi necessitas alia praeponderet, vel alicujus personae specialis in necessitate ultima existentis, vel Ecclesiae, vel reipublicae: quia *bonum gentis est divinius quam bonum unius*. Illud autem quo posito vel subtracto nihilominus decentia status manet, potest in eleemosynam dari; et de hoc est consilium, non praeceptum. Illud autem quod necessarium reputatur ad aliquid quod est ultra decentiam status, debet in eleemosynam dispensari; et hoc cadit sub praecepto.  
 
@@ -733,7 +735,7 @@ Ad tertium dicendum, quod illi qui omnia dimittunt propter Deum, statum vivendi 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod illud dicitur licitum, quod nulla lege prohibetur; unde illicite acquisitum dicitur quod contra prohibitionem legis acquiritur. Sed hoc potest esse dupliciter: quia aut lex prohibuit ipsum lucrum, vel causam lucri tantum. Si ipsum lucrum est prohibitum, tunc impossibile est quod juste detineatur. Ex hoc enim ipso efficitur aliquis injusti tituli et malae fidei possessor, quod contra legem aliquid habet. Sed in talibus distinguendum est. Quia aut non transfertur dominium, sicut in rapina et furto, et tunc omnino restituere tenetur; et ideo ex hoc non potest eleemosyna fieri: aut transfertur dominium; et tunc vel competit repetitio ei a quo quis lucratus est secundum aliquod jus, sicut in usura accidit, in qua, ut quidam dicunt, dominium transfertur; et tunc de hoc etiam non potest eleemosyna fieri; aut non competit repetitio secundum turpitudinem sceleris ex parte dantis, sicut in simonia accidit; et tunc tale acquisitum non potest juste retineri, sed debet in eleemosynas erogari. Si autem lex prohibuit actum ex quo quis lucratur, sed non lucrum supposito actu, tunc quamvis acquirendo tali actu contra legem fecerit, tamen tenendo non facit contra legem: sicut cum quis de lenocinio vel meretricio lucratur; et ideo haec retineri possunt, et de eis eleemosyna fieri potest.***
+Ad secundam quaestionem dicendum, quod illud dicitur licitum, quod nulla lege prohibetur; unde illicite acquisitum dicitur quod contra prohibitionem legis acquiritur. Sed hoc potest esse dupliciter: quia aut lex prohibuit ipsum lucrum, vel causam lucri tantum. Si ipsum lucrum est prohibitum, tunc impossibile est quod juste detineatur. Ex hoc enim ipso efficitur aliquis injusti tituli et malae fidei possessor, quod contra legem aliquid habet. Sed in talibus distinguendum est. Quia aut non transfertur dominium, sicut in rapina et furto, et tunc omnino restituere tenetur; et ideo ex hoc non potest eleemosyna fieri: aut transfertur dominium; et tunc vel competit repetitio ei a quo quis lucratus est secundum aliquod jus, sicut in usura accidit, in qua, ut quidam dicunt, dominium transfertur; et tunc de hoc etiam non potest eleemosyna fieri; aut non competit repetitio secundum turpitudinem sceleris ex parte dantis, sicut in simonia accidit; et tunc tale acquisitum non potest juste retineri, sed debet in eleemosynas erogari. Si autem lex prohibuit actum ex quo quis lucratur, sed non lucrum supposito actu, tunc quamvis acquirendo tali actu contra legem fecerit, tamen tenendo non facit contra legem: sicut cum quis de lenocinio vel meretricio lucratur; et ideo haec retineri possunt, et de eis eleemosyna fieri potest.  
 
 Ad primum ergo dicendum, quod illud intelligendum est de illis quae per illicitum actum acquisita sunt, et tamen juste possidentur. Vel aliter dicendum, quod mammona iniquitatis dicuntur divitiae etiam licite acquisitae et possessae, vel inquantum eas sola iniquitas divitias esse reputat, ut Augustinus exponit 21 *de Civitate Dei*; vel inquantum sunt iniquitatis occasio; vel iniquitatis, idest inaequalitatis; quia non aequaliter sunt hominibus distributae, bono aliquando egente, et malo superabundante.  
 
@@ -741,7 +743,7 @@ Ad secundum dicendum, quod in tali casu, si sine periculo pauperis esse potest, 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quando lucrum ipsum est lege prohibitum, ut rapina, usura et simonia, non solum dicitur turpe lucrum, sed iniquum; et de hoc dictum est qualiter eleemosyna fieri possit vel non possit. Sed quando actus quo quis lucratus est, lege prohibitus est, non autem ipsum lucrum, tunc vocatur turpe lucrum, sicut est in meretricio, vel in similibus; et tunc de tali eleemosyna fieri potest, quia non tenetur ad restitutionem.***
+Ad tertiam quaestionem dicendum, quod quando lucrum ipsum est lege prohibitum, ut rapina, usura et simonia, non solum dicitur turpe lucrum, sed iniquum; et de hoc dictum est qualiter eleemosyna fieri possit vel non possit. Sed quando actus quo quis lucratus est, lege prohibitus est, non autem ipsum lucrum, tunc vocatur turpe lucrum, sicut est in meretricio, vel in similibus; et tunc de tali eleemosyna fieri potest, quia non tenetur ad restitutionem.  
 
 Ad primum ergo dicendum, quod de tali lucro non debet fieri oblatio ad altare, praecipue manifeste, propter scandalum et reverentiam sacrorum, vel sceleris abominationem; sed hae causae non prohibent quin ex tali eleemosyna fieri posset.  
 
@@ -753,7 +755,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod uxor possit de rebus mariti facere eleemosynam. Quia, sicut dicit Augustinus, uxor in societatem matrimonii assumitur, propter quod non de capite neque de pedibus femina formata est, sed de latere. Si ergo vir potest facere eleemosynas de rebus domus, quae sunt ei communes ratione praedictae societatis, et uxor poterit facere.***
+Ad quintum sic proceditur. Videtur quod uxor possit de rebus mariti facere eleemosynam. Quia, sicut dicit Augustinus, uxor in societatem matrimonii assumitur, propter quod non de capite neque de pedibus femina formata est, sed de latere. Si ergo vir potest facere eleemosynas de rebus domus, quae sunt ei communes ratione praedictae societatis, et uxor poterit facere.  
 
 Praeterea, de Lucia legitur, quod dabat eleemosynas ignorante sponso; nec ex hoc reprehenditur, sed laudatur. Ergo uxor potest sine consilio mariti eleemosynas dare.  
 
@@ -761,7 +763,7 @@ Sed contra, 1 Corinth. 11, 3: *vir caput est mulieris*. Sed membrum non potest a
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur, quod filius familias possit etiam dare. Quia quilibet quod suum est, potest alteri dare. Sed res paternae sunt filii familias, quia ipse est heres. Ergo potest de his eleemosynam facere.***
+Ulterius. Videtur, quod filius familias possit etiam dare. Quia quilibet quod suum est, potest alteri dare. Sed res paternae sunt filii familias, quia ipse est heres. Ergo potest de his eleemosynam facere.  
 
 Praeterea, usus divitiarum laudabilior est, si ad bonum spirituale quis eis utatur quam ad bonum corporale. Sed ad usum corporis sui potest filius familias rebus patrimonii sui uti. Ergo multo fortius ad bonum spirituale, quod est per eleemosynas.  
 
@@ -769,7 +771,7 @@ Sed contra, nullus potest aliquid dare quod non est in potestate ejus. Sed patri
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod servus vel ancilla possunt facere eleemosynam de rebus dominorum. Quia de quolibet praesumendum est bonum, nisi probetur contrarium. Sed facere eleemosynam est bonum. Ergo debet praesumi quod domino suo placeat; et ita sub spe ratihabitionis poterit eleemosynam facere.***
+Ulterius. Videtur quod servus vel ancilla possunt facere eleemosynam de rebus dominorum. Quia de quolibet praesumendum est bonum, nisi probetur contrarium. Sed facere eleemosynam est bonum. Ergo debet praesumi quod domino suo placeat; et ita sub spe ratihabitionis poterit eleemosynam facere.  
 
 Praeterea, eleemosynae etiam a famulis factae valere ad salutem dominorum possunt, sicut patet in mortuorum suffragiis. Sed servus debet procurare bonum domini sui non solum corporale, sed spirituale magis. Ergo potest de rebus domini eleemosynam facere.  
 
@@ -777,7 +779,7 @@ Sed contra, nullus debet eleemosynam facere de alieno. Sed res dominorum non sun
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod monachi possint eleemosynas facere sine licentia abbatis. Unum enim bonum non praejudicat alteri. Sed religio est bonum quoddam. Ergo non praejudicat eleemosynae, quae etiam bonum quoddam est, quin eam dare possit.***
+Ulterius. Videtur quod monachi possint eleemosynas facere sine licentia abbatis. Unum enim bonum non praejudicat alteri. Sed religio est bonum quoddam. Ergo non praejudicat eleemosynae, quae etiam bonum quoddam est, quin eam dare possit.  
 
 Praeterea, eleemosyna maxime in Scriptura commendatur. Si ergo monachi non possunt eleemosynam dare, tunc sunt pejoris conditionis quam alii.  
 
@@ -785,7 +787,7 @@ Sed contra, eleemosyna non est danda nisi de proprio. Sed monachus non habet pro
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in extrema necessitate existenti, quae facit omnia communia, quilibet praedictorum potest eleemosynam facere; quia debet praesumere quod suo superiori placeat, cum ipse dare teneretur, si praesens esset; et si etiam prohiberetur, idem dicendum videtur sicut de illicito lucro dictum est prius, ad cujus restitutionem aliquis tenetur.***
+Respondeo dicendum ad primam quaestionem, quod in extrema necessitate existenti, quae facit omnia communia, quilibet praedictorum potest eleemosynam facere; quia debet praesumere quod suo superiori placeat, cum ipse dare teneretur, si praesens esset; et si etiam prohiberetur, idem dicendum videtur sicut de illicito lucro dictum est prius, ad cujus restitutionem aliquis tenetur.  
 
 Alias autem de uxore distinguendum est; quia si habet alias res praeter dotem, vel est lucrosa, tunc potest tales eleemosynas dare quae virum non depauperent, etiam non requisito assensu viri, dummodo non prohibeat; et si etiam prohiberet verbo, posset probabiliter credere quod eam non intenderet simpliciter ab eleemosynis coercere, sed a superfluitate eleemosynarum, nisi aperte pateret ei contrarium. Si autem praedicta duo defuerint, non debet dare eleemosynas sine consensu viri, nisi aliquas eleemosynas communes et modicas, de quibus satis ei constare potest quod viro placeret, si necessitatem pauperis inspiceret.  
 
@@ -795,7 +797,7 @@ Ad secundum dicendum, quod beata Lucia erat adhuc sponsa tantum, nec erat matrim
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod filius familias non potest dare eleemosynam sine consensu parentum, nisi panem et hujusmodi, quae non inferunt sensibile damnum; de quibus satis constare potest quod parentibus placeat.***
+Ad secundam quaestionem dicendum, quod filius familias non potest dare eleemosynam sine consensu parentum, nisi panem et hujusmodi, quae non inferunt sensibile damnum; de quibus satis constare potest quod parentibus placeat.  
 
 Ad primum ergo dicendum, quod quamvis filius familias sit heres, non tamen adhuc est dominus rerum; et ideo dare non potest.  
 
@@ -803,7 +805,7 @@ Ad secundum dicendum, quod ad victum corporalem tenentur ei parentes, nisi ex cu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum est de servis et ancillis, et etiam de famulis, quamvis sint liberae conditionis, quod non possunt eleemosynas dare de rebus dominorum sine eorum consensu, nisi panem et hujusmodi, quae, ut dictum est, non inferunt sensibile nocumentum; quia si etiam sit dispensator rerum, non tamen ponitur dispensator quasi potestatem aliquam in re domini habens, sed quasi tractans eam ad utilitatem domini. De pretio autem sui servitii constat quod posset eleemosynam dare.***
+Ad tertiam quaestionem dicendum est de servis et ancillis, et etiam de famulis, quamvis sint liberae conditionis, quod non possunt eleemosynas dare de rebus dominorum sine eorum consensu, nisi panem et hujusmodi, quae, ut dictum est, non inferunt sensibile nocumentum; quia si etiam sit dispensator rerum, non tamen ponitur dispensator quasi potestatem aliquam in re domini habens, sed quasi tractans eam ad utilitatem domini. De pretio autem sui servitii constat quod posset eleemosynam dare.  
 
 Ad primum ergo dicendum, quod non oportet quod praesumamus de quolibet quodlibet bonum, sed illud ad quod tenetur, quo praetermisso peccat; quia nullum debemus credere malum, nisi constet nobis de malitia ejus; et ideo non oportet quod famulus credat quod domino placeat, nisi in illa necessitate pauperis in qua dominus de necessitate tenetur.  
 
@@ -811,7 +813,7 @@ Ad secundum dicendum, quod suffragia non prosunt mortuis per alios facta, nisi i
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod monachus, si habet dispensationem rerum monasterii, potest et debet facere eleemosynam de superfluis nomine capituli. Si autem non habet dispensationem, tunc in monasterio existens non debet dare sine licentia, nisi in extrema necessitate vel absente abbate aliquid modicum sub spe ratihabitionis; extra monasterium vero existens, puta in studio, potest eleemosynam facere; quia cum dantur ei expensae, committitur ei earum dispensatio.***
+Ad quartam quaestionem dicendum, quod monachus, si habet dispensationem rerum monasterii, potest et debet facere eleemosynam de superfluis nomine capituli. Si autem non habet dispensationem, tunc in monasterio existens non debet dare sine licentia, nisi in extrema necessitate vel absente abbate aliquid modicum sub spe ratihabitionis; extra monasterium vero existens, puta in studio, potest eleemosynam facere; quia cum dantur ei expensae, committitur ei earum dispensatio.  
 
 Ad primum ergo dicendum, quod non est inconveniens bonum perfectum bono imperfecto repugnare; non quidem propter contrarietatem ad ipsum, quia bonum, inquantum est bonum, non est bono contrarium; sed propter contrarietatem ad ejus imperfectionem.  
 
@@ -823,7 +825,7 @@ Articulus 6
 
 ***Quaestiuncula 1***
 
-***Ad sextum sic proceditur. Videtur quod aliquis non possit sibi eleemosynam facere. Eleemosyna enim est actus liberalitatis vel justitiae. Sed hae virtutes propter hoc quod in communione consistunt, non sunt nisi ad alterum, ut de justitia dicitur in 5 *Ethic*. Ergo eleemosyna non potest esse ad seipsum.***
+Ad sextum sic proceditur. Videtur quod aliquis non possit sibi eleemosynam facere. Eleemosyna enim est actus liberalitatis vel justitiae. Sed hae virtutes propter hoc quod in communione consistunt, non sunt nisi ad alterum, ut de justitia dicitur in 5 *Ethic*. Ergo eleemosyna non potest esse ad seipsum.  
 
 Praeterea, nullus dat nisi quod habet; nec aliquis recipit nisi id quod non habet. Sed nullus potest aliquid simul habere et non habere. Ergo non potest sibi dare eleemosynam.  
 
@@ -831,7 +833,7 @@ Sed contra, homo debet diligere proximum sicut seipsum. Sed proximum ita debet d
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod malis non sit eleemosyna danda, per id quod dicitur Eccli. 12, 4: *da misericordi, et non suscipias peccatorem*; et iterum: *benefac humili, et non des impio*.***
+Ulterius. Videtur quod malis non sit eleemosyna danda, per id quod dicitur Eccli. 12, 4: *da misericordi, et non suscipias peccatorem*; et iterum: *benefac humili, et non des impio*.  
 
 Praeterea, proditor domini sui reputaretur qui de rebus a domino sibi concessis hostem domini sui nutriret. Sed omnis peccator est hostis domini. Ergo non debet ei eleemosyna de rebus a Deo nobis concessis dari.  
 
@@ -839,7 +841,7 @@ Sed contra, Matth. 5, 44: *estote filii patris vestri qui in caelis est, qui sol
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod meliori sit magis subveniendum semper. Quia eleemosyna datur propter Deum, ut ex ipsius definitione patet. Sed bonus est Deo propinquior quam malus. Ergo meliori semper magis eleemosyna est danda.***
+Ulterius. Videtur quod meliori sit magis subveniendum semper. Quia eleemosyna datur propter Deum, ut ex ipsius definitione patet. Sed bonus est Deo propinquior quam malus. Ergo meliori semper magis eleemosyna est danda.  
 
 Praeterea, eleemosyna habet efficaciam ex parte etiam recipientis, qui obligatur ad orandum pro eleemosynam dante. Sed opus boni est efficax ad merendum magis. Ergo magis semper debet dari eleemosyna magis bono.  
 
@@ -847,7 +849,7 @@ Sed contra, eleemosyna, cum sit actus misericordiae, miseriam intuetur. Sed malu
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod eleemosyna potest dupliciter fieri, ut ex praedictis patet: scilicet per collationem alicujus rei temporalis, et hoc modo nullus sibi ipsi eleemosynam facere potest; vel per exercitium alicujus actus spiritualis, vel corporalis. Et quia homo ratione diversarum partium in seipsum agere potest; sicut anima movet corpus, et una pars animae aliam, et similiter una pars corporis aliam: ideo talem eleemosynam aliquis potest facere sibi. Sed ad subveniendum sibi in corporalibus natura satis inclinat; et ideo de hoc non oportuit dari praeceptum, sed solum de subveniendo animae, ad quam non ita multi inclinantur; unde dicitur Eccli. 30, 44: *miserere animae tuae, placens Deo*.***
+Respondeo dicendum ad primam quaestionem, quod eleemosyna potest dupliciter fieri, ut ex praedictis patet: scilicet per collationem alicujus rei temporalis, et hoc modo nullus sibi ipsi eleemosynam facere potest; vel per exercitium alicujus actus spiritualis, vel corporalis. Et quia homo ratione diversarum partium in seipsum agere potest; sicut anima movet corpus, et una pars animae aliam, et similiter una pars corporis aliam: ideo talem eleemosynam aliquis potest facere sibi. Sed ad subveniendum sibi in corporalibus natura satis inclinat; et ideo de hoc non oportuit dari praeceptum, sed solum de subveniendo animae, ad quam non ita multi inclinantur; unde dicitur Eccli. 30, 44: *miserere animae tuae, placens Deo*.  
 
 Ad primum ergo dicendum, quod liberalitas, secundum quod consistit in dationibus, non potest esse ad seipsum; sed secundum quod consistit in sumptibus, potest esse ad seipsum, sicut et illiberalitas. Sunt enim aliqui illiberales ad seipsos, qui propter cupiditatem rerum sibi necessaria subtrahunt. Sed justitia nullo modo potest esse ad seipsum, quia habet rationem aequalitatis, quae semper ad alterum esse debet.  
 
@@ -855,7 +857,7 @@ Ad secundum patet solutio ex dictis.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum Augustinum, *sic diligendi sunt homines, ut eorum non diligantur errores*. Et quia exhibitio beneficii dilectioni correspondet, ideo peccatori ad sustentationem naturae debet homo eleemosynam facere, si indigeat, cum praecipiatur nobis benefacere amicis et inimicis; sed ad fovendam eorum malitiam non debemus eis aliquid dare. Unde si constaret quod de eo quod eis datur, in peccatum abuterentur, non deberet eis dari aliquid, nisi necessitas extrema exposceret; et hoc modo intelligenda est auctoritas inducta.***
+Ad secundam quaestionem dicendum, quod secundum Augustinum, *sic diligendi sunt homines, ut eorum non diligantur errores*. Et quia exhibitio beneficii dilectioni correspondet, ideo peccatori ad sustentationem naturae debet homo eleemosynam facere, si indigeat, cum praecipiatur nobis benefacere amicis et inimicis; sed ad fovendam eorum malitiam non debemus eis aliquid dare. Unde si constaret quod de eo quod eis datur, in peccatum abuterentur, non deberet eis dari aliquid, nisi necessitas extrema exposceret; et hoc modo intelligenda est auctoritas inducta.  
 
 Unde patet solutio ad primum.  
 
@@ -863,7 +865,7 @@ Ad secundum dicendum, quod peccator, etsi sit inimicus Dei quantum ad culpam, no
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod cui magis benefaciendum sit, ut dicit Philosophus 9 *Ethica*, non est facile determinare propter multas diversitates boni et necessarii. Tamen hoc est tenendum, quod semper magis reddendum est debitum quam beneficium impendendum, ut ipse ibidem dicit, nisi ex parte altera adsit major bonitas vel necessitas; et ideo parentibus et propinquis et benefactoribus, et eis a quibus spiritualia accipit, magis debet eleemosynam facere, si indigeant, et ceteris paribus, melioribus magis, et magis etiam indigentibus magis; et sic secundum has tres conditiones debet gradus in eleemosynis constitui, scilicet secundum honestum, necessarium et debitum. Assignare autem in singulis quando unum alteri eorum praeferatur, est impossibile: quia singulares conditiones, quae attendendae sunt, sunt infinitae, et non cadunt sub arte. De his autem unctio docet et prudentiae consilium.***
+Ad tertiam quaestionem dicendum, quod cui magis benefaciendum sit, ut dicit Philosophus 9 *Ethica*, non est facile determinare propter multas diversitates boni et necessarii. Tamen hoc est tenendum, quod semper magis reddendum est debitum quam beneficium impendendum, ut ipse ibidem dicit, nisi ex parte altera adsit major bonitas vel necessitas; et ideo parentibus et propinquis et benefactoribus, et eis a quibus spiritualia accipit, magis debet eleemosynam facere, si indigeant, et ceteris paribus, melioribus magis, et magis etiam indigentibus magis; et sic secundum has tres conditiones debet gradus in eleemosynis constitui, scilicet secundum honestum, necessarium et debitum. Assignare autem in singulis quando unum alteri eorum praeferatur, est impossibile: quia singulares conditiones, quae attendendae sunt, sunt infinitae, et non cadunt sub arte. De his autem unctio docet et prudentiae consilium.  
 
 Ad primum ergo dicendum, quod quamvis Deo propinquior sit semper melior, non tamen semper debet ei magis dari: quia eleemosynarum largitio ad necessitatem proximi sublevandam divinitus instituta est; unde si indigentia ex parte altera nimis excedat, magis servabitur intentio instituentis eleemosynam quam si meliori daretur.  
 
@@ -888,7 +890,7 @@ primo, quid sit jejunium;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod Isidorus inconvenienter definiat jejunium, dicens: *jejunium est parsimonia victus, abstinentiaque ciborum*. Parsimonia enim a parsi praeterito hujus verbi parco venit. Est enim parcere, inter alia quae habet significata, idem quod abstinere. Ergo idem videtur esse parsimonia victus et abstinentia ciborum; et sic alterum superfluit.***
+Ad primum sic proceditur. Videtur quod Isidorus inconvenienter definiat jejunium, dicens: *jejunium est parsimonia victus, abstinentiaque ciborum*. Parsimonia enim a parsi praeterito hujus verbi parco venit. Est enim parcere, inter alia quae habet significata, idem quod abstinere. Ergo idem videtur esse parsimonia victus et abstinentia ciborum; et sic alterum superfluit.  
 
 Praeterea, Matth. 17, super illud: *hoc genus daemoniorum* etc., dicit Hieronymus: *jejunium est non solum ab escis, sed a cunctis illecebris abstinere*. Cum ergo Isidorus definiat jejunium tantum per abstinentiam ab escis, videtur quod incompetens sit assignatio.  
 
@@ -900,7 +902,7 @@ Praeterea, nullus est jejunus nisi jejunio, sicut nec albus nisi albedine. Sed a
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod jejunium non sit actus virtutis. Virtus enim sicut abundanti, ita et diminuto corrumpitur. Sed jejunium importat diminutionem a cibo, in quo conservari potest medium virtutis. Ergo jejunium non est virtutis actus.***
+Ulterius. Videtur quod jejunium non sit actus virtutis. Virtus enim sicut abundanti, ita et diminuto corrumpitur. Sed jejunium importat diminutionem a cibo, in quo conservari potest medium virtutis. Ergo jejunium non est virtutis actus.  
 
 Praeterea, omnis virtutis actus est in aliquid operando. Sed jejunium dicit cessationem ab actu. Ergo non est virtutis actus.  
 
@@ -914,7 +916,7 @@ Praeterea, Isidorus dicit, jejunium esse abstinentiam, ut ex definitione praemis
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod jejunium non sit actus temperantiae. Quia canon dicit de Consecr., dist. 5: *jejunium quadragesimale est decima totius anni*. Sed dare decimam est actus justitiae. Ergo et jejunare; non igitur temperantiae.***
+Ulterius. Videtur quod jejunium non sit actus temperantiae. Quia canon dicit de Consecr., dist. 5: *jejunium quadragesimale est decima totius anni*. Sed dare decimam est actus justitiae. Ergo et jejunare; non igitur temperantiae.  
 
 Praeterea, ad fortitudinem pertinet molestias perferre. Sed hoc accidit in jejunio. Ergo jejunium est actus fortitudinis; non ergo temperantiae.  
 
@@ -926,7 +928,7 @@ Praeterea, abstinentia est species temperantiae. Sed jejunium est abstinentia. E
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod jejunium non cadat in praecepto. Nam super illud Psalm. 44: *omnis gloria ejus filiae regis ab intus*, dicit *Glossa* quod gloria Ecclesiae in interioribus virtutibus consistit, sicut fides, spes, caritas. Sed omne praeceptum Ecclesiae ad gloriam Ecclesiae ordinatur. Ergo de jejunio exteriori non potest esse praeceptum.***
+Ulterius. Videtur quod jejunium non cadat in praecepto. Nam super illud Psalm. 44: *omnis gloria ejus filiae regis ab intus*, dicit *Glossa* quod gloria Ecclesiae in interioribus virtutibus consistit, sicut fides, spes, caritas. Sed omne praeceptum Ecclesiae ad gloriam Ecclesiae ordinatur. Ergo de jejunio exteriori non potest esse praeceptum.  
 
 Praeterea, ea quae sunt supererogationis, ad consilium pertinent, ad quod nullus obligatur nisi ex voto. Sed jejunium est hujusmodi. Ergo non obligatur ad ipsum aliquis ex praecepto.  
 
@@ -938,7 +940,7 @@ Praeterea, majoris perfectionis est lex nova quam vetus, et magis a carnalibus d
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod jejunium non sit satisfactorium. Quia satisfactio est justitiae actus, ut prius dictum est. Sed jejunium est actus temperantiae. Ergo non est satisfactorium.***
+Ulterius. Videtur quod jejunium non sit satisfactorium. Quia satisfactio est justitiae actus, ut prius dictum est. Sed jejunium est actus temperantiae. Ergo non est satisfactorium.  
 
 Praeterea, illud ad quod ex praecepto astringimur, non est satisfactorium, sed satisfactionem praecedit, sicut de eleemosyna dictum est. Sed quoddam jejunium cadit sub praecepto, ut dictum est. Ergo ad minus illud non est satisfactorium.  
 
@@ -954,7 +956,7 @@ Praeterea, satisfacere est peccatorum causas excidere. Sed jejunio aliquis absci
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod jejunium dupliciter dicitur; scilicet jejunium naturae, et jejunium Ecclesiae. A primo jejunio dicitur aliquis quolibet die jejunus antequam cibum sumat; a secundo autem dicitur jejunans, quasi ordinatam ab Ecclesia propter peccatorum satisfactionem abstinentiam servans. In satisfactionem autem peccatorum non solum oportet quod ab illis homo abstineat quae lex virtutis prohibet, sed etiam ab illis quibus salva virtute uti possemus; quia *qui illicita commisit, oportet etiam a licitis abstinere*, ut Augustinus dicit. Unde jejunium ab Ecclesia institutum praesupponit abstinentiam illam quae ad virtutem exigitur, et addit abstinentiam quamdam ab illis quae medium virtutis non corrumpunt. Et ideo Isidorus haec duo in praedicta definitione jejunii comprehendit; scilicet abstinentiam ab illis quae virtutem corrumpunt, in hoc quod dicit, *parsimonia victus*; et ab illis quibus salva virtute alias uti liceret, in hoc quod dicit, *abstinentiaque ciborum*.***
+Respondeo dicendum ad primam quaestionem, quod jejunium dupliciter dicitur; scilicet jejunium naturae, et jejunium Ecclesiae. A primo jejunio dicitur aliquis quolibet die jejunus antequam cibum sumat; a secundo autem dicitur jejunans, quasi ordinatam ab Ecclesia propter peccatorum satisfactionem abstinentiam servans. In satisfactionem autem peccatorum non solum oportet quod ab illis homo abstineat quae lex virtutis prohibet, sed etiam ab illis quibus salva virtute uti possemus; quia *qui illicita commisit, oportet etiam a licitis abstinere*, ut Augustinus dicit. Unde jejunium ab Ecclesia institutum praesupponit abstinentiam illam quae ad virtutem exigitur, et addit abstinentiam quamdam ab illis quae medium virtutis non corrumpunt. Et ideo Isidorus haec duo in praedicta definitione jejunii comprehendit; scilicet abstinentiam ab illis quae virtutem corrumpunt, in hoc quod dicit, *parsimonia victus*; et ab illis quibus salva virtute alias uti liceret, in hoc quod dicit, *abstinentiaque ciborum*.  
 
 Ad primum ergo patet ex dictis solutio.  
 
@@ -968,7 +970,7 @@ Ad quintum dicendum, quod praedicta definitio non datur de jejunio quo aliquis d
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut supra dictum est, omnis actus qui in sua ratione includit aliquid quod ad modum virtutis pertineat, actus virtutis dici potest, quantum est de se; quamvis possit et bene et male fieri ob hoc quod forte non includit in sui ratione omne illud quod ad virtutem exigitur. Quia autem virtus infirmitati naturae subvenit, quae ad malum de facili inclinatur; ideo omnium virtutum circa delectationes corporales existentium, ex quarum superabundantia praecipue peccatum contingit propter connaturalitatem nostri ad eas, modus est in retrahendo ab eis, sicut patet in temperantia, et in omnibus partibus ei assignatis. Quia ergo nomine jejunii actus nobis quidam exprimitur quo quis a delectationibus tactus, scilicet cibis, se abstrahit, constat quod in ratione sua modum virtutis importat; et ideo actus virtutis dici debet.***
+Ad secundam quaestionem dicendum, quod, sicut supra dictum est, omnis actus qui in sua ratione includit aliquid quod ad modum virtutis pertineat, actus virtutis dici potest, quantum est de se; quamvis possit et bene et male fieri ob hoc quod forte non includit in sui ratione omne illud quod ad virtutem exigitur. Quia autem virtus infirmitati naturae subvenit, quae ad malum de facili inclinatur; ideo omnium virtutum circa delectationes corporales existentium, ex quarum superabundantia praecipue peccatum contingit propter connaturalitatem nostri ad eas, modus est in retrahendo ab eis, sicut patet in temperantia, et in omnibus partibus ei assignatis. Quia ergo nomine jejunii actus nobis quidam exprimitur quo quis a delectationibus tactus, scilicet cibis, se abstrahit, constat quod in ratione sua modum virtutis importat; et ideo actus virtutis dici debet.  
 
 Ad primum ergo dicendum, quod medium virtutis non est medium secundum aequidistantiam ab extremis, sed accipitur secundum rationem rectam; et ideo contingit id quod est parum uni, esse satis alteri; sicut quod est parum sano in cibis, esse satis infirmo qui per abstinentiam curari debet. Curatio autem spiritualis morbi affinior est virtuti quam curatio morbi corporalis; unde et illud quod alias esset modicum, vel minus debito, tamen volenti vulnus peccati curare, satis est; et sic jejunium medium virtutis non corrumpit. Tamen sciendum, quod medium virtutis non consistit in indivisibili, sed habet aliquam latitudinem in qua virtus salvatur, quamvis termini illius latitudinis, quos praetergredi salva virtute non licet, non possunt sermone determinari; et ideo qui dimittit aliquid quo licite posset uti, non oportet quod statim a medio virtutis discedat.  
 
@@ -980,7 +982,7 @@ Ad quartum dicendum, quod quamvis homo post statum peccati magis infirmetur quan
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quamvis aliquis actus a pluribus virtutibus possit procedere, sicut ab imperantibus ipsum vel dirigentibus ad eum, vel quocumque modo ad ipsum juvantibus; tamen illius virtutis proprie actus dicitur quae elicit ipsum, a qua scilicet procedit formaliter quasi in similitudinem speciei, sicut calefactio a calore. Sed tam virtutes quam actus virtutum penes objecta distinguuntur; et ideo actus ab illa virtute elicitur quae secum convenit in propria ratione objecti. Et quia jejunium in objecto cum temperantia convenit quantum ad illam temperantiae partem quae abstinentia dicitur; ideo ejus actus proprie jejunium est, quamvis ab aliis virtutibus procedere per dictos modos etiam possit.***
+Ad tertiam quaestionem dicendum, quod quamvis aliquis actus a pluribus virtutibus possit procedere, sicut ab imperantibus ipsum vel dirigentibus ad eum, vel quocumque modo ad ipsum juvantibus; tamen illius virtutis proprie actus dicitur quae elicit ipsum, a qua scilicet procedit formaliter quasi in similitudinem speciei, sicut calefactio a calore. Sed tam virtutes quam actus virtutum penes objecta distinguuntur; et ideo actus ab illa virtute elicitur quae secum convenit in propria ratione objecti. Et quia jejunium in objecto cum temperantia convenit quantum ad illam temperantiae partem quae abstinentia dicitur; ideo ejus actus proprie jejunium est, quamvis ab aliis virtutibus procedere per dictos modos etiam possit.  
 
 Ad primum ergo dicendum, quod actus justitiae est reddere debitum. Non autem est debitum dare decimam de tempore, sed de rebus possessis aliquo modo. Dicitur autem jejunium decima totius anni per quamdam adaptationem; et ideo non oportet quod sit actus justitiae.  
 
@@ -990,7 +992,7 @@ Ad tertium dicendum, quod in omnibus virtutibus moralibus actus dirigit prudenti
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod duplex est praeceptum, scilicet juris naturalis et juris positivi. Praecepto juris naturalis prohibentur ea quae sunt secundum se mala; sed praeceptis juris positivi prohibentur ea quae possunt esse occasiones malorum; vel praecipiuntur aliqua ordinantia ad virtutem, quam legis positor inducere intendit; et propter hoc, jus positivum, ut dicit Tullius, est a naturali derivatum; unde ad legem positivam pertinet, ut dicit Philosophus in 10 *Ethica*, ordinare nutritiones juvenum et adinventiones virorum, idest opera et studia, ut arceantur a malis, et perducantur ad bona. In jejunio ergo est aliquid quod ad praeceptum juris naturalis pertinet, scilicet tantam abstinentiam carni exhibere ne spiritui rebellet. Temperantia enim, ut dicit Philosophus in 3 *Ethica*, mensuram accipit ex conservatione salutis corporalis; unde multo magis ex conservatione salutis spiritualis. Medium autem temperantiae non excedere, ad jus naturale pertinet; sed determinatio talis abstinentiae secundum determinatum tempus et determinata cibaria, ad jus positivum pertinet, quod moderatur hominum actus; et hoc modo jejunium sub praecepto Ecclesiae cadit.***
+Ad quartam quaestionem dicendum, quod duplex est praeceptum, scilicet juris naturalis et juris positivi. Praecepto juris naturalis prohibentur ea quae sunt secundum se mala; sed praeceptis juris positivi prohibentur ea quae possunt esse occasiones malorum; vel praecipiuntur aliqua ordinantia ad virtutem, quam legis positor inducere intendit; et propter hoc, jus positivum, ut dicit Tullius, est a naturali derivatum; unde ad legem positivam pertinet, ut dicit Philosophus in 10 *Ethica*, ordinare nutritiones juvenum et adinventiones virorum, idest opera et studia, ut arceantur a malis, et perducantur ad bona. In jejunio ergo est aliquid quod ad praeceptum juris naturalis pertinet, scilicet tantam abstinentiam carni exhibere ne spiritui rebellet. Temperantia enim, ut dicit Philosophus in 3 *Ethica*, mensuram accipit ex conservatione salutis corporalis; unde multo magis ex conservatione salutis spiritualis. Medium autem temperantiae non excedere, ad jus naturale pertinet; sed determinatio talis abstinentiae secundum determinatum tempus et determinata cibaria, ad jus positivum pertinet, quod moderatur hominum actus; et hoc modo jejunium sub praecepto Ecclesiae cadit.  
 
 Ad primum ergo dicendum, quod decor Ecclesiae principaliter in interioribus consistit; sed etiam exteriores actus ad eumdem decorem pertinent, inquantum ab interiori progrediuntur, et inquantum interiorem decorem conservant; et sic jejunium ad decorem Ecclesiae ordinatur.  
 
@@ -1000,7 +1002,7 @@ Ad tertium dicendum, quod praecepta juris positivi magis obligant ex intentione 
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod jejunium actus satisfactorius est: quia et pro libidine peccati praeteriti subtractionem delectationis recompensat, afflictionem etiam addens; et futura peccata impedit, concupiscentiam debilitans.***
+Ad quintam quaestionem dicendum, quod jejunium actus satisfactorius est: quia et pro libidine peccati praeteriti subtractionem delectationis recompensat, afflictionem etiam addens; et futura peccata impedit, concupiscentiam debilitans.  
 
 Ad primum ergo dicendum, quod jejunium quamvis elicitive sit actus temperantiae, tamen a justitia imperari potest, et sic erit satisfactorium; sicut etiam adulterium intemperantiam admixtam injustitiae habet.  
 
@@ -1018,7 +1020,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod ad jejunium ab Ecclesia institutum omnes teneantur absque dispensatione. Praecepta enim Ecclesiae obligant sicut praecepta Dei; unde apostolis dicitur Luc. 10, 16: *qui vos audit, me audit*. Sed ad praecepta Dei omnes tenentur absque dispensatione. Ergo et ad praecepta Ecclesiae.***
+Ad secundum sic proceditur. Videtur quod ad jejunium ab Ecclesia institutum omnes teneantur absque dispensatione. Praecepta enim Ecclesiae obligant sicut praecepta Dei; unde apostolis dicitur Luc. 10, 16: *qui vos audit, me audit*. Sed ad praecepta Dei omnes tenentur absque dispensatione. Ergo et ad praecepta Ecclesiae.  
 
 Praeterea, illud quod utiliter statutum est, non potest sine nocumento relaxari. Sed non sine utilitate statutum est Ecclesiae jejunium. Ergo non potest per dispensationem sine nocumento relaxari.  
 
@@ -1030,7 +1032,7 @@ Praeterea, praecepta legis naturalis non possunt per aliquod statutum immutari. 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod justi non teneantur ad jejunium Ecclesiae, 2 Corinth. 3, 17: *ubi spiritus Domini, ibi libertas*. Sed justi spiritu Dei sunt imbuti. Ergo liberi sunt ab onere statutorum Ecclesiae; et sic non obligantur ad jejunium ab Ecclesia institutum.***
+Ulterius. Videtur quod justi non teneantur ad jejunium Ecclesiae, 2 Corinth. 3, 17: *ubi spiritus Domini, ibi libertas*. Sed justi spiritu Dei sunt imbuti. Ergo liberi sunt ab onere statutorum Ecclesiae; et sic non obligantur ad jejunium ab Ecclesia institutum.  
 
 Praeterea, Matth. 9, 15, Dominus dicit: *non possunt filii, quamdiu cum eis est sponsus, lugere*. Jejunium autem ad luctum pertinet. Sed cum justis sponsus Ecclesiae Christus spiritualiter est; Eph. 3, 17: *habitare Christum per fidem in cordibus vestris*. Ergo cum spiritualis praesentia corporali praeemineat, videtur quod non teneantur viri justi ad jejunium.  
 
@@ -1042,7 +1044,7 @@ Praeterea, justitia hominis ordinem Ecclesiae non subvertit, sed perficit. Sed q
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam pueri teneantur ad jejunium. Joel. 2, 15, dicitur: *sanctificate jejunium*; et postea sequitur: *congregate parvulos, et sugentes ubera*. Ergo parvuli ad jejunium tenentur.***
+Ulterius. Videtur quod etiam pueri teneantur ad jejunium. Joel. 2, 15, dicitur: *sanctificate jejunium*; et postea sequitur: *congregate parvulos, et sugentes ubera*. Ergo parvuli ad jejunium tenentur.  
 
 Praeterea, magis propinquus est praecepto puer quam bestia. Sed Jonae 2, 7, dicitur: *homines et jumenta . . . non gustent quidquam, nec aquam bibant*. Ergo multo magis pueri ad jejunium tenentur.  
 
@@ -1054,7 +1056,7 @@ Praeterea, jejunium est ordinatum ad satisfaciendum, et concupiscentiam comprime
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod provecti et sani non excusentur a jejunio propter peregrinationem. Est enim dimittendum illud quod non est necessitatis, ut servetur id quod est necessitatis. Sed peregrinatio non est necessitatis. Cum ergo jejunium ab Ecclesia institutum sit necessitatis, quia cadit sub praecepto; videtur quod non debeat propter peregrinationem aut iter, jejunium intermitti.***
+Ulterius. Videtur quod provecti et sani non excusentur a jejunio propter peregrinationem. Est enim dimittendum illud quod non est necessitatis, ut servetur id quod est necessitatis. Sed peregrinatio non est necessitatis. Cum ergo jejunium ab Ecclesia institutum sit necessitatis, quia cadit sub praecepto; videtur quod non debeat propter peregrinationem aut iter, jejunium intermitti.  
 
 Praeterea, videtur quod nec ratione paupertatis. Quia paupertas de se inducit ad jejunandum. Ergo non est causa quare aliquis jejunare non debeat.  
 
@@ -1064,7 +1066,7 @@ Sed contra, afflictio non est addenda afflictio. Sed omnia praedicta de se haben
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod per praecepta juris positivi, ut dictum est, removentur aliqua quae non sunt de se mala et semper; unde in aliquo casu possunt esse bona et necessaria quae talibus prohibentur praeceptis; et ideo non fuit intentio legislatoris ut semper observaretur praeceptum suum, nisi in illis casibus in quibus bonum virtutis potest conservari.***
+Respondeo dicendum ad primam quaestionem, quod per praecepta juris positivi, ut dictum est, removentur aliqua quae non sunt de se mala et semper; unde in aliquo casu possunt esse bona et necessaria quae talibus prohibentur praeceptis; et ideo non fuit intentio legislatoris ut semper observaretur praeceptum suum, nisi in illis casibus in quibus bonum virtutis potest conservari.  
 
 Et ideo dicendum ad primam quaestionem de jure naturali et positivo, quod jus positivum a jure naturali procedere dicitur, inquantum per jus positivum modus observandi jus naturale determinatur; quia intentio cujuslibet legislatoris est inducere homines ad virtutes, ut dicitur in 2 *Ethica*, quae pertinent ad jus naturale. Modus autem observandi ea quae sunt de lege naturali, non potest esse uniformis in omnibus propter diversitates quae in singularibus contingunt, sicut nec idem modus curationis potest adhiberi omnibus laborantibus eadem aegritudine; et ideo legislator non potest aliquod praeceptum ponere quod non oporteat in casu aliquo praetermitti. Tamen considerans quod frequentius accidit, legem ponit, in illis casibus in quibus modus determinatus per legem non competit judicium reservans aliquibus qui hoc habeant definire; et haec est dispensatio praelatis commissa in jejunio ab Ecclesia instituto, et in aliis hujusmodi Ecclesiae praeceptis.  
 
@@ -1076,7 +1078,7 @@ Ad tertium dicendum, quod inferior potest dispensare in praecepto superioris qua
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod praeceptum a legislatore positum, tunc solum ad observandum non obligat, quando observatio intentionem legislatoris evacuat vel impedit, qua intendit homines inducere ad virtutem, vel bonum statum eorum quibus legem proponit. Cum autem justitia profectum jejunii quem legislator intendit, non impediat, sed augeat, quia efficitur magis meritorium ex hoc quod aliquis est justus, non absolvitur a jejuniorum observatione.***
+Ad secundam quaestionem dicendum, quod praeceptum a legislatore positum, tunc solum ad observandum non obligat, quando observatio intentionem legislatoris evacuat vel impedit, qua intendit homines inducere ad virtutem, vel bonum statum eorum quibus legem proponit. Cum autem justitia profectum jejunii quem legislator intendit, non impediat, sed augeat, quia efficitur magis meritorium ex hoc quod aliquis est justus, non absolvitur a jejuniorum observatione.  
 
 Ad primum ergo dicendum, quod libertas quam spiritus Dei inducit, est libertas justitiae, quae opponitur servituti peccati, sed conjungitur servituti Dei; et ita ad obedientiam mandatorum ejus, et eorum qui vicem Dei gerunt in terris obligatur.  
 
@@ -1086,7 +1088,7 @@ Ad tertium dicendum, quod jejunium non tantum inducitur pro peccatis praeteritis
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod pueri indigent multo cibo, eo quod cibus in eis non solum exigitur ad actum nutritivae, sed etiam ad actum augmentativae virtutis, quia de residuo nutrimenti fit augmentum. Et quia virtus naturae in eis nondum valuit, non possunt simul multum de cibo assumere, quia naturalis virtus illud convertere non posset; et ideo indigent frequenti cibi sumptione; et propter hoc eis non competit jejunium, dum sunt in augmento. Tempus enim augmenti, secundum Philosophum, est usque ad finem tertii septennii ut in pluribus, quia res naturales non currunt semper eodem modo, sed ut frequenter; et ideo ante hoc tempus non arctantur pueri ad omnia jejunia Ecclesiae servanda. Sed quia quanto ad terminum praedictum appropinquant, tanto virtus naturae magis roboratur, et augmentum tardius procedit, cum in primis quinque annis perveniat puer ad medietatem totius augmenti, ut Philosophus dicit; ideo secundum quod magis appropinquant ad praedictum terminum, sunt eis jejunia magis commensuranda.***
+Ad tertiam quaestionem dicendum, quod pueri indigent multo cibo, eo quod cibus in eis non solum exigitur ad actum nutritivae, sed etiam ad actum augmentativae virtutis, quia de residuo nutrimenti fit augmentum. Et quia virtus naturae in eis nondum valuit, non possunt simul multum de cibo assumere, quia naturalis virtus illud convertere non posset; et ideo indigent frequenti cibi sumptione; et propter hoc eis non competit jejunium, dum sunt in augmento. Tempus enim augmenti, secundum Philosophum, est usque ad finem tertii septennii ut in pluribus, quia res naturales non currunt semper eodem modo, sed ut frequenter; et ideo ante hoc tempus non arctantur pueri ad omnia jejunia Ecclesiae servanda. Sed quia quanto ad terminum praedictum appropinquant, tanto virtus naturae magis roboratur, et augmentum tardius procedit, cum in primis quinque annis perveniat puer ad medietatem totius augmenti, ut Philosophus dicit; ideo secundum quod magis appropinquant ad praedictum terminum, sunt eis jejunia magis commensuranda.  
 
 Ad primum ergo dicendum, quod loquitur in casu quando magna tribulatione imminente major afflictio ad placandum Deum superaddenda est.  
 
@@ -1096,7 +1098,7 @@ Ad tertium dicendum, quod quamvis pueri plus habeant de humido quam provecti; qu
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod sicut dictum est, intentio legislatoris est conservare homines et inducere ad bonum statum virtutis; qui quidem consistit in conservatione vitae, et valetudine sufficienti ad opera quae quis facere debet; nec tamen suo praecepto exigit ab homine totum quod potest, cum non intendat ordinare statum hominis quantum ad unum diem vel ad parvum tempus, sed ad totam vitam; a quo deficeret, si semel homo totum quod posset, faceret; et ideo sive aegritudine imminente, sive labore viae, sive quocumque alio, cum quo simul et jejunio praedictus status conservari non potest, non tenetur ex praecepto jejunare; sed secundum dispensationem superioris, ut supra dictum est, jejunium solvere potest.***
+Ad quartam quaestionem dicendum, quod sicut dictum est, intentio legislatoris est conservare homines et inducere ad bonum statum virtutis; qui quidem consistit in conservatione vitae, et valetudine sufficienti ad opera quae quis facere debet; nec tamen suo praecepto exigit ab homine totum quod potest, cum non intendat ordinare statum hominis quantum ad unum diem vel ad parvum tempus, sed ad totam vitam; a quo deficeret, si semel homo totum quod posset, faceret; et ideo sive aegritudine imminente, sive labore viae, sive quocumque alio, cum quo simul et jejunio praedictus status conservari non potest, non tenetur ex praecepto jejunare; sed secundum dispensationem superioris, ut supra dictum est, jejunium solvere potest.  
 
 Ad primum ergo dicendum, quod si sit talis peregrinatio quae possit sine incommodo differri, debet peregrinationem differre, si simul cum ea jejunare non potest. Si autem peregrinatio commode differri non potest, vel quia tempus jejunii hominem in via praeoccupat, vel quia dies festus alicui imminet, ad quem ex devotione homo pergere cupit, vel quia mora in poenitentia periculum habet vel spirituale vel corporale, potest secundum dispensationem sui superioris omnia praedicta pensantis peregrinari, et jejunium solvere. Hoc tamen intelligitur de his qui labore itineris adeo affliguntur, quod simul cum jejunio itinerari non possunt. Nec obstat quod praeceptum debet praeponi consilio; quia intentio praeceptum hujusmodi dantis non est alias pias et magis necessarias causas excludere. Secus autem est de praeceptis legis naturae, quae hoc prohibent quod secundum se et semper malum est.  
 
@@ -1110,7 +1112,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod hujusmodi tempora non debeant esse ad jejunium determinata, sicut Ecclesia instituit. Quia sicut jejunium est satisfactionis pars, ita eleemosyna. Sed eleemosynarum tempus non est determinatum. Ergo nec jejunii.***
+Ad tertium sic proceditur. Videtur quod hujusmodi tempora non debeant esse ad jejunium determinata, sicut Ecclesia instituit. Quia sicut jejunium est satisfactionis pars, ita eleemosyna. Sed eleemosynarum tempus non est determinatum. Ergo nec jejunii.  
 
 Praeterea, sicut legislator novi testamenti, scilicet Christus, Quadragesimam jejunavit; ita et legis veteris lator, scilicet Moyses. Sed populo veteris testamenti non indicebatur quadragesimale jejunium. Ergo nec populo novi testamenti indici debet.  
 
@@ -1124,7 +1126,7 @@ Praeterea, in sanctorum solemniis eorum gloriam recolimus, ad quam translati sun
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in aliquo tempore jejunium sit interdictum, secundum quod Gregorius in 2 dialogorum, cap. 1, narrat quemdam sacerdotem divinitus missum beato Benedicto dixisse: *dies resurrectionis est: non licet tibi hodie abstinere*. Ergo videtur quod in solemnitatibus illicitum est jejunare.***
+Ulterius. Videtur quod in aliquo tempore jejunium sit interdictum, secundum quod Gregorius in 2 dialogorum, cap. 1, narrat quemdam sacerdotem divinitus missum beato Benedicto dixisse: *dies resurrectionis est: non licet tibi hodie abstinere*. Ergo videtur quod in solemnitatibus illicitum est jejunare.  
 
 Praeterea, in Esdra dicitur: *sanctus dies Domini est, nolite contristari*; et additur: *comedite pinguia*, etc. Ergo videtur quod in diebus solemnibus non liceat jejunare.  
 
@@ -1132,7 +1134,7 @@ Sed contra est quod Honorius tertius in quadam decretali dicit, quod die natalis
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod hora nona non debeat esse tempus determinatum ad manducandum in diebus jejunii. Quia circumstantiae secundum conditionem personarum sunt determinanda. Sed non sunt ejusdem conditionis quantum ad potentiam abstinendi omnes quibus jejunium indicitur. Ergo non esset eis omnibus una hora determinanda.***
+Ulterius. Videtur quod hora nona non debeat esse tempus determinatum ad manducandum in diebus jejunii. Quia circumstantiae secundum conditionem personarum sunt determinanda. Sed non sunt ejusdem conditionis quantum ad potentiam abstinendi omnes quibus jejunium indicitur. Ergo non esset eis omnibus una hora determinanda.  
 
 Praeterea, status novi testamenti est perfectior quam status veteris. Sed in veteri testamento jejunabant usque ad vesperam. Ergo et usque ad vesperam homo debet comestionem nunc differre in diebus jejunii.  
 
@@ -1140,7 +1142,7 @@ Sed contra est consuetudo.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod ad legislatorem pertinent ea quae sunt ad vitam humanam necessaria, lege ordinare qualiter congruentius fieri possunt; et ideo cum aliquod tempus sit alio magis jejunio congruum, convenienter ab Ecclesia determinatum tempus est ad jejunia institutum.***
+Respondeo dicendum ad primam quaestionem, quod ad legislatorem pertinent ea quae sunt ad vitam humanam necessaria, lege ordinare qualiter congruentius fieri possunt; et ideo cum aliquod tempus sit alio magis jejunio congruum, convenienter ab Ecclesia determinatum tempus est ad jejunia institutum.  
 
 Ad primum ergo dicendum, quod eleemosynae ordinantur ad subveniendum defectibus aliorum; et ideo non potest eleemosynis tempus determinari, sicut nec defectibus quibus subvenire oportet. Sed jejunium est institutum ad comprimendum concupiscentiam carnis, et satisfaciendum pro peccatis praeteritis; et quia jejunium concupiscentiam comprimit, etiam postquam factum est, secundum quod effectus manet in jejunante, ideo potest jejunio tempus praefigi.  
 
@@ -1156,7 +1158,7 @@ Ad sextum dicendum, quod in solemnitatibus praecipuis vigilias jejunamus, ut par
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod jejunium, quantum est de se, nullo tempore est prohibitum. Unde, sicut dicit Isidorus, sancti patres in deserto tempore paschali jejunabant, excepto die dominicae resurrectionis, in quo non videtur conveniens jejunare, eo quod tota Ecclesia laetitiae festum agit. Unde non est conveniens quod aliquis illo die operibus afflictionis intendat, quia *turpis est omnis pars quae suo toti non congruit*, ut dicit Augustinus in Lib. 3 *Confessiones*. Sed per accidens posset esse jejunium alicujus in die festo illicitum, si adeo pertinaciter jejunium teneret, quod non crederet per devotionem festi utilitatem jejunii compensari posse.***
+Ad secundam quaestionem dicendum, quod jejunium, quantum est de se, nullo tempore est prohibitum. Unde, sicut dicit Isidorus, sancti patres in deserto tempore paschali jejunabant, excepto die dominicae resurrectionis, in quo non videtur conveniens jejunare, eo quod tota Ecclesia laetitiae festum agit. Unde non est conveniens quod aliquis illo die operibus afflictionis intendat, quia *turpis est omnis pars quae suo toti non congruit*, ut dicit Augustinus in Lib. 3 *Confessiones*. Sed per accidens posset esse jejunium alicujus in die festo illicitum, si adeo pertinaciter jejunium teneret, quod non crederet per devotionem festi utilitatem jejunii compensari posse.  
 
 Ad primum ergo dicendum, quod dies resurrectionis, ut dictum est, totus est laetitiae; unde et cantatur: *haec dies quam fecit Dominus, exultemus et laetemur in ea*; et ideo in illa prae aliis non congruit tristitiae signa ostendere: et quia in singulis dominicis memoria resurrectionis agitur, ideo in diebus dominicis secundum communem consuetudinem Ecclesiae jejunia intermittuntur.  
 
@@ -1164,7 +1166,7 @@ Ad secundum dicendum, quod quia illi in magna tristitia demersi erant propter tr
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod competens hora comedendi in diebus jejunii est hora nona; et haec est ab Ecclesia instituta, et communiter observata: quia secundum communem cursum comedendi est hora sexta; quia cibus non debet apponi quousque natura circa cibum praecedentem occupata est. Occupatur autem in cibo assumpto dupliciter. Primo digerendo ipsum; et quia digestio fit per calorem, ideo illud tempus digestioni est congruum in quo calor naturalis ad interiora revocatur, scilicet nox propter subtractionem radiorum solis, et propter somnum, in quo intenduntur virtutes naturales. Secundo cibum jam decoctum deducendo per membra, quibus debet assimilari; et ad hoc requiritur quod calor nutrimentum deducens usque ad extremas partes corporis evocetur: calor autem solis calorem naturalem ad exteriora evocat; et ideo quando completur solis ascensus (quod fit hora sexta, quia tunc est circa medium), tunc ejus opus completum est; et ideo tunc est tempus communiter sumendi cibum. Et quia jejunium Ecclesiae debet esse poenale et satisfactorium, ideo supra hoc aliquid additur; non autem tantum quod penitus humor cibi assumpti exsiccetur, aut virtus naturalis debilitetur; unde partito residuo tempore, hora nona occurrit, in qua cibus secundum Ecclesiae statutum in diebus jejunii sumendus est.***
+Ad tertiam quaestionem dicendum, quod competens hora comedendi in diebus jejunii est hora nona; et haec est ab Ecclesia instituta, et communiter observata: quia secundum communem cursum comedendi est hora sexta; quia cibus non debet apponi quousque natura circa cibum praecedentem occupata est. Occupatur autem in cibo assumpto dupliciter. Primo digerendo ipsum; et quia digestio fit per calorem, ideo illud tempus digestioni est congruum in quo calor naturalis ad interiora revocatur, scilicet nox propter subtractionem radiorum solis, et propter somnum, in quo intenduntur virtutes naturales. Secundo cibum jam decoctum deducendo per membra, quibus debet assimilari; et ad hoc requiritur quod calor nutrimentum deducens usque ad extremas partes corporis evocetur: calor autem solis calorem naturalem ad exteriora evocat; et ideo quando completur solis ascensus (quod fit hora sexta, quia tunc est circa medium), tunc ejus opus completum est; et ideo tunc est tempus communiter sumendi cibum. Et quia jejunium Ecclesiae debet esse poenale et satisfactorium, ideo supra hoc aliquid additur; non autem tantum quod penitus humor cibi assumpti exsiccetur, aut virtus naturalis debilitetur; unde partito residuo tempore, hora nona occurrit, in qua cibus secundum Ecclesiae statutum in diebus jejunii sumendus est.  
 
 Ad primum ergo dicendum, quod legislator ponens legem communem, attendit ea quae in pluribus accidunt: sed adaptationem ad singulos relinquit illis qui constituuntur legis dispensatores.  
 
@@ -1176,7 +1178,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod post unam comestionem jejunium non solvatur. Quia jejunium est determinatum ad subtractionem nutrimenti. Sed non solum nutrimur cibo, sed etiam potu. Cum ergo potus assumptus praeter comestionem statutum ab Ecclesia jejunium non solvat, videtur quod nec etiam cibi bina assumptio.***
+Ad quartum sic proceditur. Videtur quod post unam comestionem jejunium non solvatur. Quia jejunium est determinatum ad subtractionem nutrimenti. Sed non solum nutrimur cibo, sed etiam potu. Cum ergo potus assumptus praeter comestionem statutum ab Ecclesia jejunium non solvat, videtur quod nec etiam cibi bina assumptio.  
 
 Praeterea, aqua potata impedit sumptionem Eucharistiae, sicut et sumptio alterius cibi: quia solvit jejunium naturae, quod requiritur in Eucharistiam sumentibus, sicut et alii cibi. Si ergo aqua potata non solvit jejunium Ecclesiae, videtur quod nec alius cibus assumptus.  
 
@@ -1188,7 +1190,7 @@ Sed contra est, quia in hoc distinguuntur jejunantes a non jejunantibus, quia se
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod esus carnium jejunium non solvat. Quia jejunium est institutum ad comprimendum concupiscentiam. Sed vinum magis inflammat concupiscentiam quam carnes. Cum ergo potus vini non solvat jejunium, nec esus carnium solvet.***
+Ulterius. Videtur quod esus carnium jejunium non solvat. Quia jejunium est institutum ad comprimendum concupiscentiam. Sed vinum magis inflammat concupiscentiam quam carnes. Cum ergo potus vini non solvat jejunium, nec esus carnium solvet.  
 
 Praeterea, legumina inflativa sunt, et sic ad luxuriam provocant. Sed esus eorum non solvit jejunium. Ergo nec esus carnium.  
 
@@ -1200,7 +1202,7 @@ Sed contra est generalis consuetudo Ecclesiae, quae jejunantibus usum carnium in
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod anticipatio temporis jejunium non solvat. Sicut enim non servat tempus ab Ecclesia statutum qui tardat comestionem, ita nec ille qui anticipat. Sed ille qui tardat, non solvit jejunium ab Ecclesia institutum. Ergo nec ille qui anticipat.***
+Ulterius. Videtur quod anticipatio temporis jejunium non solvat. Sicut enim non servat tempus ab Ecclesia statutum qui tardat comestionem, ita nec ille qui anticipat. Sed ille qui tardat, non solvit jejunium ab Ecclesia institutum. Ergo nec ille qui anticipat.  
 
 Praeterea, jejunium est actus abstinentiae. Sed abstinentia impeditur non solum per anticipationem horae comestionis, sed etiam per alias conditiones, quae hoc versu continentur: *praepropere, laute, nimis, ardenter, studiose*. Ergo cum nimis comedere quantum ad quantitatem non solvat jejunium, nec ardenter quantum ad aviditatem comedendi, nec laute, quantum ad pretiosa quae in cibum quaeruntur, nec studiose, quantum ad exquisitum modum cibaria praeparandi (alias mortaliter peccarent qui in diebus jejuniorum hoc facerent, quasi transgressores praecepti Ecclesiae; quod durum est dicere): videtur quod nec praepropere comedere, quod est tempus anticipare, jejunium solvat.  
 
@@ -1208,7 +1210,7 @@ Sed contra est quod dicit Concilium Cabilonense: *in Quadragesima nullatenus cre
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod jejunium dupliciter solvitur. Uno modo quantum ad meritum, ita quod homo vel non meretur, vel minus meretur; et de hac solutione jejunii non intendimus ad praesens: quia conditiones quae meritum alicujus actus augent vel minuunt, indeterminatae sunt, eo quod quandoque accidentaliter se habent ad actum meritorium. Alio modo solvitur jejunium, secundum quod est ab Ecclesia institutum; ex qua solutione homo efficitur transgressor statuti Ecclesiae de jejunio servando, vel saltem non observator, si ex dispensatione vel causa legitima dimittat; et de hac solutione jejunii nunc quaerimus. Ad hoc autem praecipue valet considerare intentiones statuentis. Intendit autem Ecclesia certum modum statuere manducandi, ut scilicet semel in die jejunans manducet; et ideo si aliquorum sumptio, secundum quae manducatio solet compleri, iteretur, jejunium praedicto modo acceptum solvitur. Si autem aliqua sumantur quae ad manducandum de se ordinata non sunt, sed ad alium usum, qui usus communiter manducatio non vocatur; talis cibi vel potus sumptio praeter manducationem unam ante vel post, non facit esse binam manducationem; et ideo talis sumptio jejunium non solvit.***
+Respondeo dicendum ad primam quaestionem, quod jejunium dupliciter solvitur. Uno modo quantum ad meritum, ita quod homo vel non meretur, vel minus meretur; et de hac solutione jejunii non intendimus ad praesens: quia conditiones quae meritum alicujus actus augent vel minuunt, indeterminatae sunt, eo quod quandoque accidentaliter se habent ad actum meritorium. Alio modo solvitur jejunium, secundum quod est ab Ecclesia institutum; ex qua solutione homo efficitur transgressor statuti Ecclesiae de jejunio servando, vel saltem non observator, si ex dispensatione vel causa legitima dimittat; et de hac solutione jejunii nunc quaerimus. Ad hoc autem praecipue valet considerare intentiones statuentis. Intendit autem Ecclesia certum modum statuere manducandi, ut scilicet semel in die jejunans manducet; et ideo si aliquorum sumptio, secundum quae manducatio solet compleri, iteretur, jejunium praedicto modo acceptum solvitur. Si autem aliqua sumantur quae ad manducandum de se ordinata non sunt, sed ad alium usum, qui usus communiter manducatio non vocatur; talis cibi vel potus sumptio praeter manducationem unam ante vel post, non facit esse binam manducationem; et ideo talis sumptio jejunium non solvit.  
 
 Ad primum ergo dicendum, quod quamvis aliquis potus aliquo modo nutriat, tamen de se non ordinatur ad nutriendum, sed magis ad dispositionem bonam eorum quae nutriunt, ut scilicet per membra deducantur, et in stomacho non comburantur; unde sumptio potus manducatio non dicitur: et ideo ille qui potat extra horam unicae comestionis, non dicitur bis manducare; et propter hoc nec statutum Ecclesiae frangit, nisi fraudem faciat: quia legem violat qui in fraudem legis aliquid facit.  
 
@@ -1220,7 +1222,7 @@ Ad quartum dicendum, quod odor non nutrit, ut patet per Philosophum in libro *de
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ille dicitur jejunium Ecclesiae solvere qui modum abstinendi statutum ab Ecclesia non servat. Cum autem jejunium Ecclesia instituerit ad satisfaciendum, et concupiscentiam reprimendum, sicut determinavit ad abstinentiam jejunii quantum ad numerum, ut scilicet semel tantum jejunans comederet ad afflictionem carnis propter satisfactionem; ita taxavit ut a carnibus abstineretur, quia hoc genere cibi praecipue concupiscentia fovetur et roboratur; unde comestio carnium jejunium solvit ab Ecclesia institutum.***
+Ad secundam quaestionem dicendum, quod ille dicitur jejunium Ecclesiae solvere qui modum abstinendi statutum ab Ecclesia non servat. Cum autem jejunium Ecclesia instituerit ad satisfaciendum, et concupiscentiam reprimendum, sicut determinavit ad abstinentiam jejunii quantum ad numerum, ut scilicet semel tantum jejunans comederet ad afflictionem carnis propter satisfactionem; ita taxavit ut a carnibus abstineretur, quia hoc genere cibi praecipue concupiscentia fovetur et roboratur; unde comestio carnium jejunium solvit ab Ecclesia institutum.  
 
 Ad primum ergo dicendum, quod vinum concupiscentiam incitat inflammando per modum alterantis; et quia tales alterationes non diu manent, ideo potus vini non adeo efficaciter operatur ad concupiscentiae fomentum, sicut esus carnium, quo praecipue materia concupiscentiae ministratur, et calor naturalis confortatur radicitus magis; et ex alia parte subtractio vini nimis debilitaret naturam propter digestionis impedimentum.  
 
@@ -1232,7 +1234,7 @@ Ad quartum dicendum, quod quadragesimale jejunium arctius observatur quam alia j
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut dictum est, ille jejunium solvit qui Ecclesiae determinationem non servat. Unde cum Ecclesia instituerit certum tempus comedendi jejunantibus; qui nimis notabiliter anticipat, jejunium solvit. Non enim Ecclesia arctare intendit ad subtilem temporis inspectionem; nec oportet astrolabium accipere ad horam comestionis cognoscendam. Unde sufficit si circa horam illam quam Ecclesia instituit, jejunans sumat cibum, etiam si aliquantulum propter aliquam necessitatem anticiparet.***
+Ad tertiam quaestionem dicendum, quod, sicut dictum est, ille jejunium solvit qui Ecclesiae determinationem non servat. Unde cum Ecclesia instituerit certum tempus comedendi jejunantibus; qui nimis notabiliter anticipat, jejunium solvit. Non enim Ecclesia arctare intendit ad subtilem temporis inspectionem; nec oportet astrolabium accipere ad horam comestionis cognoscendam. Unde sufficit si circa horam illam quam Ecclesia instituit, jejunans sumat cibum, etiam si aliquantulum propter aliquam necessitatem anticiparet.  
 
 Ad primum ergo dicendum, quod omittere praeceptum Ecclesiae non licet, sed supererogare licet; et ideo cum tardatio horae ad poenalitatem jejunii faciat, licet tardare per horam, sed non anticipare.  
 
@@ -1258,7 +1260,7 @@ primo, quid sit oratio;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod oratio sit quidam affectivae partis actus. Primo per Augustinum, qui sic definit orationem: *oratio est purus affectus mentis in Deum directus*.***
+Ad primum sic proceditur. Videtur quod oratio sit quidam affectivae partis actus. Primo per Augustinum, qui sic definit orationem: *oratio est purus affectus mentis in Deum directus*.  
 
 Praeterea, Hugo de s. Victore dicit quod oratio est *devotio quaedam ex compunctione procedens*. Sed devotio ad affectum pertinet. Ergo et oratio.  
 
@@ -1272,7 +1274,7 @@ Praeterea, secundum Damascenum, *oratio est petitio decentium a Deo*. Sed decent
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod sit actus doni, et non virtutis. Quia, secundum Hugonem de s. Victore, ubi supra, oratio est contemplationis pars. Sed contemplatio ad sapientiam pertinet; quia ea perficitur superior pars rationis, quae contemplandis aeternis inhaeret, ut Augustinus dicit. Ergo oratio est actus sapientiae.***
+Ulterius. Videtur quod sit actus doni, et non virtutis. Quia, secundum Hugonem de s. Victore, ubi supra, oratio est contemplationis pars. Sed contemplatio ad sapientiam pertinet; quia ea perficitur superior pars rationis, quae contemplandis aeternis inhaeret, ut Augustinus dicit. Ergo oratio est actus sapientiae.  
 
 Praeterea, ut dicit Damascenus, *oratio est ascensus intellectus in Deum*. Sed ascendere ad donum intellectus pertinet; unde sexta beatitudo, qua dicitur: *beati mundo corde, quoniam ipsi Deum videbunt*; intellectus dono attribuitur, ut patet in *Glossa*, Matth. 5. Ergo oratio est actus intellectus doni.  
 
@@ -1284,7 +1286,7 @@ Praeterea, Augustinus dicit: *fides credit, spes et caritas orant, et orando imp
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod oratio non sit actus cadens in praecepto. Quod enim voluntatis est, non est necessitatis. Sed oratio maxime est voluntatis, quia est quaedam volitorum petitio. Ergo non est necessitatis; et ita non cadit sub praecepto.***
+Ulterius. Videtur quod oratio non sit actus cadens in praecepto. Quod enim voluntatis est, non est necessitatis. Sed oratio maxime est voluntatis, quia est quaedam volitorum petitio. Ergo non est necessitatis; et ita non cadit sub praecepto.  
 
 Praeterea, petitio non videtur aliquid aliud esse, nisi ut nostrum desiderium alteri innotescat. Sed superfluum est alicui exponere quod ipse scit. Ergo cum Christiana religio non contineat aliqua superflua praecepta, alias superstitio esset; videtur quod non cadat sub praecepto orare Deum, cui omnia desideria nostra sunt nota.  
 
@@ -1296,7 +1298,7 @@ Praeterea, oratio contra jejunium et eleemosynam dividitur. Sed utraque illarum 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut dicit Cassiodorus in Psalm. 85, oratio dicitur quasi oris ratio. Unde ex suo nomine oratio significat expressionem alicujus actus rationis per effectum oris. Habet autem ratio duos actus, etiam secundum quod est speculativa. Primus est componere et dividere; et iste actus rationis exprimitur ore per orationem, quam Philosophus in 1 *Periherm*. describit. Secundus actus rationis est discurrere de uno in aliud innotescendi causa; et secundum hoc syllogismus oratio quaedam dicitur. Et quia sermones rhetorici, qui conciones dicuntur, continent argumentationes ad persuadendum accommodatas, inde est quod etiam orationes dicuntur, et rhetores oratores. Et quia orationes istae, praecipue quantum ad genus causarum quod judiciale dicitur, ordinantur ad hoc quod aliquid a judice petamus; unde et in jure advocationes postulationes dicuntur; ideo translatum est ulterius hoc nomen ad significandum petitionem quam Deo aliquis facit velut judici, qui habet curam nostrorum actuum; et sic definit Damascenus orationem: *oratio est petitio decentium a Deo*; sic enim loquimur hic de oratione; et ideo cujus actus est petitio, ejus actus est oratio.***
+Respondeo dicendum ad primam quaestionem, quod, sicut dicit Cassiodorus in Psalm. 85, oratio dicitur quasi oris ratio. Unde ex suo nomine oratio significat expressionem alicujus actus rationis per effectum oris. Habet autem ratio duos actus, etiam secundum quod est speculativa. Primus est componere et dividere; et iste actus rationis exprimitur ore per orationem, quam Philosophus in 1 *Periherm*. describit. Secundus actus rationis est discurrere de uno in aliud innotescendi causa; et secundum hoc syllogismus oratio quaedam dicitur. Et quia sermones rhetorici, qui conciones dicuntur, continent argumentationes ad persuadendum accommodatas, inde est quod etiam orationes dicuntur, et rhetores oratores. Et quia orationes istae, praecipue quantum ad genus causarum quod judiciale dicitur, ordinantur ad hoc quod aliquid a judice petamus; unde et in jure advocationes postulationes dicuntur; ideo translatum est ulterius hoc nomen ad significandum petitionem quam Deo aliquis facit velut judici, qui habet curam nostrorum actuum; et sic definit Damascenus orationem: *oratio est petitio decentium a Deo*; sic enim loquimur hic de oratione; et ideo cujus actus est petitio, ejus actus est oratio.  
 
 Sciendum est ergo, quod homo ab aliis animalibus differt quantum ad virtutem motivam pertinet, in duobus. Primo quantum ad volitum vel concupitum; quod quidem aliis animalibus ex natura determinatum est, homini autem non. Secundo quantum ad prosecutionem voliti sive concupiti; quia alia animalia habent determinatas vias et instrumenta, quibus sua desideria expleant; et ideo quam cito in eis fit desiderii motus, tam cito membra ad actum applicant, nisi sit aliquid prohibens per violentiam: homo autem non habet vias et instrumenta determinata; et ideo ratio hujusmodi subvenit in his duobus; quia et inquirit proprium et determinatum bonum quod desiderari oporteat, et instrumenta ad opus determinat in prosecutione desiderati; et ideo in nobis actus rationis et praecedit et sequitur actus voluntatis. Praecedit quidem, inveniens per consilium quid per voluntatem eligi oporteat; sequitur autem per imperium, ordinando unicuique instrumento quid ei oporteat facere; et hunc rationis actum imperativus modus exprimit in verbis.  
 
@@ -1312,7 +1314,7 @@ Ad quartum dicendum, quod verbum exterius prolatum est signum alicujus duplicite
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod oratio actus quidam est. Dicimus autem actum aliquem esse virtutis actum, si in sui ratione aliquid claudat quod ad ordinem virtutis pertineat, etiam si non omnia quae ad virtutem requiruntur, in sui ratione contineat; et ideo oportet quod illius virtutis actus ponatur ad quam pertinet illa conditio quae sibi ordinem virtutis tribuit.***
+Ad secundam quaestionem dicendum, quod oratio actus quidam est. Dicimus autem actum aliquem esse virtutis actum, si in sui ratione aliquid claudat quod ad ordinem virtutis pertineat, etiam si non omnia quae ad virtutem requiruntur, in sui ratione contineat; et ideo oportet quod illius virtutis actus ponatur ad quam pertinet illa conditio quae sibi ordinem virtutis tribuit.  
 
 Oratio autem non importat aliquam rationem virtutis ex genere actus; quod genus est petitio; sed absolute actum potentiae demonstrat, nulla circumstantia vel in bonum vel malum, vestitum. Adduntur autem a Damasceno ubi Sup. duae differentiae, quae ordinem virtutis demonstrant, scilicet *decentium* et *a Deo*; quod est petere quod oportet, et a quo oportet. Sed prima conditio non complet rationem orationis, quia si ab homine decentia petamus, talis petitio oratio non dicitur; nec etiam est de essentia orationis, quia si etiam quis indecentia petat a Deo, orat quidem, sed carnaliter orat; unde illa conditio magis pertinet ad bene esse orationis quam ad rationem suae speciei. Relinquitur ergo quod ex hoc oratio speciem trahit et ad rationem virtutis trahitur, quod est a Deo petitio.  
 
@@ -1330,7 +1332,7 @@ Ad ea quae in contrarium objiciuntur, dicendum est, quod fides, spes, et caritas
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod oratio cadit sub praecepto et determinate et indeterminate. Determinate quidem ad aliquas orationes ex praecepto tenentur illi qui ex officio sunt medii inter Deum et populum constituti, sicut sunt ministri Ecclesiae; unde ex officio eis incumbit preces ad Deum in persona totius Ecclesiae fundere; et ideo ex statuto Ecclesiae tenentur ad horas canonicas dicendas. Sed indeterminate ad orationem quilibet tenetur ex hoc ipso quod tenetur ad bona spiritualia sibi procuranda, quae non nisi divinitus dantur; unde alio modo procurari non possunt, nisi ut ab ipso petantur; et etiam ex hoc ipso quod caritatis praecepto tenetur proximum sicut seipsum diligere, tenetur ei in necessitate beneficus esse non solum per corporales eleemosynas, sed etiam per spirituales; quarum una est oratio, ut prius dictum est. Sed omnibus etiam qui Ecclesiae ministerio non funguntur, videtur ab Ecclesia determinatum tempus orandi statutum esse, cum ex canonum statuto teneantur diebus festis divinis officiis interesse, ut ministris pro populo orantibus suam intentionem conforment.***
+Ad tertiam quaestionem dicendum, quod oratio cadit sub praecepto et determinate et indeterminate. Determinate quidem ad aliquas orationes ex praecepto tenentur illi qui ex officio sunt medii inter Deum et populum constituti, sicut sunt ministri Ecclesiae; unde ex officio eis incumbit preces ad Deum in persona totius Ecclesiae fundere; et ideo ex statuto Ecclesiae tenentur ad horas canonicas dicendas. Sed indeterminate ad orationem quilibet tenetur ex hoc ipso quod tenetur ad bona spiritualia sibi procuranda, quae non nisi divinitus dantur; unde alio modo procurari non possunt, nisi ut ab ipso petantur; et etiam ex hoc ipso quod caritatis praecepto tenetur proximum sicut seipsum diligere, tenetur ei in necessitate beneficus esse non solum per corporales eleemosynas, sed etiam per spirituales; quarum una est oratio, ut prius dictum est. Sed omnibus etiam qui Ecclesiae ministerio non funguntur, videtur ab Ecclesia determinatum tempus orandi statutum esse, cum ex canonum statuto teneantur diebus festis divinis officiis interesse, ut ministris pro populo orantibus suam intentionem conforment.  
 
 Ad primum ergo dicendum, quod ex hoc ipso quod aliquid est voluntatis, excluditur necessitas absoluta etiam coactionis, non autem necessitas ex suppositione finis; quia amor, qui maxime voluntarius est, necessarius est, si quis velit ad salutis finem pervenire; et hoc modo etiam oratio necessaria est, et sub praecepto cadens respectu eorum quorum voluntas sub necessitate praedicta cadit.  
 
@@ -1344,7 +1346,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod oratio non debeat esse vocalis, sed mentalis tantum. Oratio enim debet esse occulta, et ad Deum tantum; quia *est petitio decentium a Deo*; unde dicitur Matth. 6, 6: *tu autem, cum oraveris, intra cubiculum, et clauso ostio, ora patrem tuum*. Sed oratio vocalis non est occulta, nec ad Deum tantum esse videtur; quia Deus ad cor respicit, non ad voces. Ergo oratio sine voce esse debet.***
+Ad secundum sic proceditur. Videtur quod oratio non debeat esse vocalis, sed mentalis tantum. Oratio enim debet esse occulta, et ad Deum tantum; quia *est petitio decentium a Deo*; unde dicitur Matth. 6, 6: *tu autem, cum oraveris, intra cubiculum, et clauso ostio, ora patrem tuum*. Sed oratio vocalis non est occulta, nec ad Deum tantum esse videtur; quia Deus ad cor respicit, non ad voces. Ergo oratio sine voce esse debet.  
 
 Praeterea, oratio est pars contemplationis. Sed contemplatio non existit in aliquo exteriori actu, sed tantum in interiori. Ergo oratio non debet voce exteriori fieri.  
 
@@ -1356,7 +1358,7 @@ Praeterea, oratio est actus latriae, ut dictum est. Sed actus latriae non solum 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod oratio non debeat esse diuturna. Matth. 6, 7: *orantes autem nolite multum loqui*. Sed qui diu vocaliter orat, multum loquitur. Ergo oratio vocalis ad minus non debet esse diuturna.***
+Ulterius. Videtur quod oratio non debeat esse diuturna. Matth. 6, 7: *orantes autem nolite multum loqui*. Sed qui diu vocaliter orat, multum loquitur. Ergo oratio vocalis ad minus non debet esse diuturna.  
 
 Praeterea, divinum praeceptum non est praetergrediendum. Sed Dominus praecepit orantes sic orare: *pater noster*, etc. Ergo videtur quod non oportet alias orationes addere.  
 
@@ -1368,7 +1370,7 @@ Praeterea, omnis Christi actio nostra est instructio. Sed Christus legitur diuti
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nunquam debeat aliquis ab oratione cessare. Lucae 18, 1: *dicebat autem ad eos similitudinem, quoniam oportet semper orare, et nunquam deficere*.***
+Ulterius. Videtur quod nunquam debeat aliquis ab oratione cessare. Lucae 18, 1: *dicebat autem ad eos similitudinem, quoniam oportet semper orare, et nunquam deficere*.  
 
 Et praeterea, 1 Thessal., ult.: *sine intermissione orate*.  
 
@@ -1380,7 +1382,7 @@ Praeterea, oratio, secundum Hugonem, est pars contemplationis. Sed homo non semp
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod actualis attentio sit de necessitate orationis. Quia, sicut dicit Gregorius, *illam orationem Deus non audit cui ille qui orat, non intendit*. Sed ad hoc fit oratio ut a Deo exaudiatur. Ergo supervacua est oratio, si sit sine attentione.***
+Ulterius. Videtur quod actualis attentio sit de necessitate orationis. Quia, sicut dicit Gregorius, *illam orationem Deus non audit cui ille qui orat, non intendit*. Sed ad hoc fit oratio ut a Deo exaudiatur. Ergo supervacua est oratio, si sit sine attentione.  
 
 Praeterea, Hugo de sancto Victore dicit: *si cum orationem fundimus, aliud quodlibet in corde versamus, etiam si illud bonum sit, a culpa liberi non sumus*. Sed oratio quae habet culpam adjunctam, non habet suam efficaciam. Ergo requiritur ad orationem actualis attentio.  
 
@@ -1394,7 +1396,7 @@ Praeterea, in aliis operibus meritoriis non requiritur quod semper adsit actuali
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod attentio orationi noceat. Quia, ut dicit Hugo de sancto Victore, *pura est oratio, quando ex abundantia devotionis mens ita accenditur ut cum se postulatura ad Deum converterit, etiam suae petitionis obliviscatur*. Sed qui obliviscitur suae petitionis, non videtur attendere orationi. Ergo cum oratio maxime debeat esse pura, videtur quod impediatur oratio per attentionem.***
+Ulterius. Videtur quod attentio orationi noceat. Quia, ut dicit Hugo de sancto Victore, *pura est oratio, quando ex abundantia devotionis mens ita accenditur ut cum se postulatura ad Deum converterit, etiam suae petitionis obliviscatur*. Sed qui obliviscitur suae petitionis, non videtur attendere orationi. Ergo cum oratio maxime debeat esse pura, videtur quod impediatur oratio per attentionem.  
 
 Praeterea, sicut intentio orationem dirigit, ita etiam alios exteriores actus. Sed in aliis exterioribus actibus plurimum noceret, si actualis intentio semper adesset; quia optimus citharaedus pessimus redderetur, ut Avicenna dicit. Ergo nocet attentio, si continue adsit orationi.  
 
@@ -1406,7 +1408,7 @@ Praeterea, Joan. 4, 24: *spiritus est Deus: et eos qui adorant eum, oportet in s
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod duplex est oratio: scilicet privata, quam quisque pro se facit; et publica, quae facienda incumbit ministris Ecclesiae, ut dictum est. Et quia haec publica oratio non fit ab orante solum pro se, sed pro aliis; ideo non debet solum esse mentalis, sed vocalis etiam, ut per orationem voce expressam etiam alii ad devotionem excitentur, et ad continuandum intentionem suam orantibus; et propter hoc etiam cantus ab Ecclesia instituti sunt. Unde Augustinus dicit de seipso, quod flebat uberrime in hymnis et canticis suave cantantis Ecclesiae, et quod voces illae influebant auribus ejus, et eliquabatur veritas in cor ejus.***
+Respondeo dicendum ad primam quaestionem, quod duplex est oratio: scilicet privata, quam quisque pro se facit; et publica, quae facienda incumbit ministris Ecclesiae, ut dictum est. Et quia haec publica oratio non fit ab orante solum pro se, sed pro aliis; ideo non debet solum esse mentalis, sed vocalis etiam, ut per orationem voce expressam etiam alii ad devotionem excitentur, et ad continuandum intentionem suam orantibus; et propter hoc etiam cantus ab Ecclesia instituti sunt. Unde Augustinus dicit de seipso, quod flebat uberrime in hymnis et canticis suave cantantis Ecclesiae, et quod voces illae influebant auribus ejus, et eliquabatur veritas in cor ejus.  
 
 Oratio autem privata est quam quis pro seipso facit; et haec quidem potest et voce et sine voce fieri, secundum quod magis orantis animo suppetit.  
 
@@ -1420,7 +1422,7 @@ Ad tertium dicendum, quod quando duae vires ordinatae sunt ad idem, una non impe
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in oratione praecipue attenditur orantis devotio; et ideo tantum debet oratio protendi, quantum devotio orantis conservari potest; et ideo si diu possit devotio conservari, debet oratio esse diuturna et prolixa; si autem prolixitas fastidium vel taedium pariat, oratio non est diutius protrahenda. Unde Augustinus in Lib. *de Orando Deum*: *dicuntur fratres in Aegypto crebras quidem habere orationes, sed eas tamen brevissimas et raptim quodammodo jaculatas, ne illa vigilanter erecta, quae oranti plurimum necessaria est, per productiores moras evanescat atque hebetetur intentio; ac per hoc ipsi satis ostendunt hanc intentionem sicut non esse obtundendam si durare non potest, ita si perduraverit, non esse rumpendam*.***
+Ad secundam quaestionem dicendum, quod in oratione praecipue attenditur orantis devotio; et ideo tantum debet oratio protendi, quantum devotio orantis conservari potest; et ideo si diu possit devotio conservari, debet oratio esse diuturna et prolixa; si autem prolixitas fastidium vel taedium pariat, oratio non est diutius protrahenda. Unde Augustinus in Lib. *de Orando Deum*: *dicuntur fratres in Aegypto crebras quidem habere orationes, sed eas tamen brevissimas et raptim quodammodo jaculatas, ne illa vigilanter erecta, quae oranti plurimum necessaria est, per productiores moras evanescat atque hebetetur intentio; ac per hoc ipsi satis ostendunt hanc intentionem sicut non esse obtundendam si durare non potest, ita si perduraverit, non esse rumpendam*.  
 
 Ad primum ergo dicendum, quod secundum Augustinum ibidem, *absit ab oratione multa locutio, sed non desit multa precatio, si fervens perseveret intentio; nam multum loqui est in orando rem necessariam verbis superfluis agere; multum autem precari est ad eum quem precamur, diuturna et pia cordis exercitatione pulsare*.  
 
@@ -1430,7 +1432,7 @@ Ad tertium dicendum, quod petitio fit homini ad hoc quod desiderium petentis ei 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod aliquis actus dicitur durare dupliciter: aut secundum essentiam; aut secundum virtutem, sive effectum suum: sicut motio ejus qui lapidem projicit, durat per essentiam actus dum manum lapidi movendo apponit; sed virtus motionis manet dum lapis ex vi impulsionis primae movetur. Similiter etiam dico, quod orationis duratio dupliciter potest considerari: vel secundum essentiam actus; et sic non debet aliquis continue orare, vel semper, quia oportet etiam interdum circa alia occupari: vel secundum virtutem; et sic ejus virtus praecipue quantum ad sui initium manet in omnibus operibus aliis quae facimus ordinate, quia omnia ad vitam aeternam habendam ordinare debemus; et ideo desiderium vitae aeternae, quod est orationis principium, manet in omnibus operibus bonis secundum virtutem: et propter hoc dicitur in *Glossa* 1 Thessal.: *non cessat orare qui non cessat bene agere*. Et sicut virtus motionis primae continue debilitatur, ut quandoque lapis impulsus quiescat, vel contrario modo moveatur, nisi iterum impellatur; ita, ut dicit Augustinus, *curis vitae desiderium quodammodo tepescit; et ideo certis horis ad negotium orandi mentem revocamus, ne desiderium quod tepescere inceperat, omnino frigescat*.***
+Ad tertiam quaestionem dicendum, quod aliquis actus dicitur durare dupliciter: aut secundum essentiam; aut secundum virtutem, sive effectum suum: sicut motio ejus qui lapidem projicit, durat per essentiam actus dum manum lapidi movendo apponit; sed virtus motionis manet dum lapis ex vi impulsionis primae movetur. Similiter etiam dico, quod orationis duratio dupliciter potest considerari: vel secundum essentiam actus; et sic non debet aliquis continue orare, vel semper, quia oportet etiam interdum circa alia occupari: vel secundum virtutem; et sic ejus virtus praecipue quantum ad sui initium manet in omnibus operibus aliis quae facimus ordinate, quia omnia ad vitam aeternam habendam ordinare debemus; et ideo desiderium vitae aeternae, quod est orationis principium, manet in omnibus operibus bonis secundum virtutem: et propter hoc dicitur in *Glossa* 1 Thessal.: *non cessat orare qui non cessat bene agere*. Et sicut virtus motionis primae continue debilitatur, ut quandoque lapis impulsus quiescat, vel contrario modo moveatur, nisi iterum impellatur; ita, ut dicit Augustinus, *curis vitae desiderium quodammodo tepescit; et ideo certis horis ad negotium orandi mentem revocamus, ne desiderium quod tepescere inceperat, omnino frigescat*.  
 
 Ad primum ergo dicendum, quod Dominus per hoc quod dixit, quod oportet semper orare, non intendit quod orationis actus nunquam interrumpatur, sed quod non interrumpatur quasi nunquam resumpturus; quod quidem faciunt qui si statim non exaudiuntur, ab oratione cessant; quia orationis diuturnitate impetratur quod petitur, sicut per exemplum Dominus probat.  
 
@@ -1440,7 +1442,7 @@ Ad tertium patet solutio ex dictis.
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod attentio actualis requiritur ad orationem aliquo modo, vel ad evitandam transgressionem, quae est in illa oratione quae est in praecepto, vel ad meritum in illa quae non est in praecepto; sed non omnibus modis. Sicut enim dictum est, aliquis actus manet per essentiam et virtutem quandoque; sed quandoque transit actu et manet virtute, sicut in exemplo de projectione lapidis patuit; et sic manere actum in virtute est quidam medius modus inter ipsum esse et in habitu et in actu; quia quod in habitu est, neque virtute neque per essentiam actus est. Secundum hoc ergo dico, quod attentio in oratione manere debet semper secundum virtutem, sed non requiritur quod semper maneat per essentiam actus. Manet autem secundum virtutem, quando aliquis ad orationem accedit cum intentione aliquid impetrandi, vel Deo debitum obsequium reddendi, etiam si in prosecutione orationis mens ad alia rapiatur; nisi tanta fiat evagatio, quod omnino depereat vis primae intentionis; et ideo oportet quod frequenter homo cor revocet ad seipsum.***
+Ad quartam quaestionem dicendum, quod attentio actualis requiritur ad orationem aliquo modo, vel ad evitandam transgressionem, quae est in illa oratione quae est in praecepto, vel ad meritum in illa quae non est in praecepto; sed non omnibus modis. Sicut enim dictum est, aliquis actus manet per essentiam et virtutem quandoque; sed quandoque transit actu et manet virtute, sicut in exemplo de projectione lapidis patuit; et sic manere actum in virtute est quidam medius modus inter ipsum esse et in habitu et in actu; quia quod in habitu est, neque virtute neque per essentiam actus est. Secundum hoc ergo dico, quod attentio in oratione manere debet semper secundum virtutem, sed non requiritur quod semper maneat per essentiam actus. Manet autem secundum virtutem, quando aliquis ad orationem accedit cum intentione aliquid impetrandi, vel Deo debitum obsequium reddendi, etiam si in prosecutione orationis mens ad alia rapiatur; nisi tanta fiat evagatio, quod omnino depereat vis primae intentionis; et ideo oportet quod frequenter homo cor revocet ad seipsum.  
 
 Ad primum ergo dicendum, quod verbum Gregorii intelligendum est, quando attentio nullo modo conjungitur orationi.  
 
@@ -1452,7 +1454,7 @@ Ad quartum dicendum, quod in operibus virtutis non oportet quod semper actualis 
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod attentio in oratione potest esse triplex: primo enim est attentio ad verba quibus petimus; deinde ad petitionem ipsam; et ad ea quae petitionem ipsam circumstant, sicut est necessitas pro qua petitur, Deus qui rogatur, et alia hujusmodi; et quaecumque harum attentionum adsit, non est reputanda inattenta oratio. Unde etiam illi qui non intelligunt petitionis verba, ad orationem attenti esse possunt. Sed tamen ultima attentio est laudabilior quam secunda, et secunda quam prima. Et quia anima non potest vehementer attenta esse ad diversa, ideo prima attentio potest nocere, ut minor sit orationis fructus, si secundam evacuat; vel secunda, si tertiam omnino tollat; sed non e contrario. Tamen attentio, communiter accipiendo, non nocet, sed multum prodest, ut ex verbis Augustini inductis apparet.***
+Ad quintam quaestionem dicendum, quod attentio in oratione potest esse triplex: primo enim est attentio ad verba quibus petimus; deinde ad petitionem ipsam; et ad ea quae petitionem ipsam circumstant, sicut est necessitas pro qua petitur, Deus qui rogatur, et alia hujusmodi; et quaecumque harum attentionum adsit, non est reputanda inattenta oratio. Unde etiam illi qui non intelligunt petitionis verba, ad orationem attenti esse possunt. Sed tamen ultima attentio est laudabilior quam secunda, et secunda quam prima. Et quia anima non potest vehementer attenta esse ad diversa, ideo prima attentio potest nocere, ut minor sit orationis fructus, si secundam evacuat; vel secunda, si tertiam omnino tollat; sed non e contrario. Tamen attentio, communiter accipiendo, non nocet, sed multum prodest, ut ex verbis Augustini inductis apparet.  
 
 Ad primum ergo dicendum, quod quando mens per dilectionem in Deum ita rapitur, ut petitionis suae immemor sit, attentio orationi adest, ut dictum est, quamvis non secunda vel prima, sed tertia.  
 
@@ -1466,7 +1468,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod inconvenienter species orationis distinguantur, 1 Tim. 2, 1: *obsecro*, inquit, *primo omnium obsecrationes fieri, orationes, postulationes, gratiarum actiones*. Obsecrationes enim sunt adjurationes pro rebus difficilibus, ut dicit *Glossa*, ibidem; adjuratio autem quasi quamdam coactionem importat; et sic reverentiam minuit, quae orationi debetur. Ergo obsecratio non est orationis species.***
+Ad tertium sic proceditur. Videtur quod inconvenienter species orationis distinguantur, 1 Tim. 2, 1: *obsecro*, inquit, *primo omnium obsecrationes fieri, orationes, postulationes, gratiarum actiones*. Obsecrationes enim sunt adjurationes pro rebus difficilibus, ut dicit *Glossa*, ibidem; adjuratio autem quasi quamdam coactionem importat; et sic reverentiam minuit, quae orationi debetur. Ergo obsecratio non est orationis species.  
 
 Praeterea, non potest esse idem totum et pars. Sed oratio est cui hae partes assignantur. Ergo non debet oratio etiam inter has partes assignari.  
 
@@ -1476,7 +1478,7 @@ Praeterea, *omnis oratio est petitio decentium a Deo*, secundum Damascenum. Sed 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam distinctio partium orationis quam ponit Ambrosius, sit incompetens. Dicit enim, orationem dividi *in Dei laudem, supplicationem, et postulationem, et gratiarum actionem*. Non enim laudatur nisi aliquid quod ad alterum ordinatur, ut patet in 1 *Ethic*. Sed Deus non est ad aliquid ordinandus, sed ad ipsum omnia alia. Ergo non est laudandus, sed magis honorandus; et ita laus Dei non est pars orationis.***
+Ulterius. Videtur quod etiam distinctio partium orationis quam ponit Ambrosius, sit incompetens. Dicit enim, orationem dividi *in Dei laudem, supplicationem, et postulationem, et gratiarum actionem*. Non enim laudatur nisi aliquid quod ad alterum ordinatur, ut patet in 1 *Ethic*. Sed Deus non est ad aliquid ordinandus, sed ad ipsum omnia alia. Ergo non est laudandus, sed magis honorandus; et ita laus Dei non est pars orationis.  
 
 Praeterea, laus, proprie, enuntiando aliquid de aliquo fit. Oratio autem non per modum indicativum, quo enuntiatio completur, habet fieri, sed magis per modum imperativum. Ergo laus non est orationis pars.  
 
@@ -1484,7 +1486,7 @@ Praeterea, supplicatio omnis est postulatio quaedam. Ergo non debet unum contra 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam partes quas Hugo de sancto Victore assignat, sint inconvenienter positae. Dicit enim quod orationis partes sunt tres, scilicet *supplicatio, postulatio, insinuatio*. Insinuatio enim, ut dicit Tullius est quidam modus exordii. Sed ad Deum accedentes non indigemus exordio; quia non est verbis flectendus. Ergo insinuatio non est orationis pars.***
+Ulterius. Videtur quod etiam partes quas Hugo de sancto Victore assignat, sint inconvenienter positae. Dicit enim quod orationis partes sunt tres, scilicet *supplicatio, postulatio, insinuatio*. Insinuatio enim, ut dicit Tullius est quidam modus exordii. Sed ad Deum accedentes non indigemus exordio; quia non est verbis flectendus. Ergo insinuatio non est orationis pars.  
 
 Praeterea, exordium praecedit omnes alias partes orationis rhetoricae. Si ergo orationi ad Deum partes assignantur per similitudinem ad illam, videtur quod insinuatio sit prima pars orationis, et non ultima.  
 
@@ -1494,7 +1496,7 @@ Praeterea, Matth. 7, 7, Dominus videtur tres orationis partes ponere, dicens: *p
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod partes orationis dupliciter accipi possunt; scilicet per modum partium integralium, et per modum partium subjectivarum. Partes autem integrales orationis distinguuntur per ea quae ad completam orationem requiruntur; partes autem subjectivae distinguuntur vel secundum diversitatem eorum quae petuntur, vel secundum diversum modum petendi. Partes ergo orationis quas apostolus assignat, utramque distinctionem habent adjunctam. Quia enim ea quae a Deo petimus, non ex nostris meritis impetrare praesumimus, et viam impetrationi claudit qui non de acceptis gratiam agit; ideo ad complementum orationis primo requiritur sacrorum commemoratio, quorum virtute difficilia quaecumque impetrantur; et hoc fit per obsecrationem; unde dicit *Glossa*, quod de difficilibus est, sicut de conversione impii. Secundo ipsa petitio, quae est vel de his quae ad id quod principaliter petimus, ordinantur; et sic est oratio, quae dicitur respectu bonorum viae: vel de his quae principaliter petimus, sicut sunt bona patriae; et respectu horum sunt postulationes. Sequitur autem gratiarum actio, in qua oratio consummatur, ut sequenti orationi aditus pateat.***
+Respondeo dicendum ad primam quaestionem, quod partes orationis dupliciter accipi possunt; scilicet per modum partium integralium, et per modum partium subjectivarum. Partes autem integrales orationis distinguuntur per ea quae ad completam orationem requiruntur; partes autem subjectivae distinguuntur vel secundum diversitatem eorum quae petuntur, vel secundum diversum modum petendi. Partes ergo orationis quas apostolus assignat, utramque distinctionem habent adjunctam. Quia enim ea quae a Deo petimus, non ex nostris meritis impetrare praesumimus, et viam impetrationi claudit qui non de acceptis gratiam agit; ideo ad complementum orationis primo requiritur sacrorum commemoratio, quorum virtute difficilia quaecumque impetrantur; et hoc fit per obsecrationem; unde dicit *Glossa*, quod de difficilibus est, sicut de conversione impii. Secundo ipsa petitio, quae est vel de his quae ad id quod principaliter petimus, ordinantur; et sic est oratio, quae dicitur respectu bonorum viae: vel de his quae principaliter petimus, sicut sunt bona patriae; et respectu horum sunt postulationes. Sequitur autem gratiarum actio, in qua oratio consummatur, ut sequenti orationi aditus pateat.  
 
 Et secundum hoc etiam, ut *Glossa* ibidem dicit, partes Missae distinguuntur: quia ea quae ante consecrationem dicuntur, sunt quasi quaedam obsecrationes; eo quod fit commemoratio Christi et doctrinae ipsius et sanctorum ejus: ea autem quae in consecratione dicuntur, orationes, quia sacramentum, quod illis verbis conficitur, in via nos adjuvat; unde et *viaticum* dicitur: quae vero postea adduntur, sunt postulationes, quia bona aeterna postulantur et mortuis et vivis: quae autem post communionem dicuntur, gratiarum actiones sunt.  
 
@@ -1508,7 +1510,7 @@ Ad quartum dicendum, quod gratiarum actio non ponitur pars orationis quasi speci
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sicut oratio rhetorica habet exordium partem sui, ita et oratio ad Deum fusa; unde et introitus in Missa cantatur. Sed hoc interest, quia in oratione rhetorica exordium ponitur propter illos ad quos oratio fit, ut benevoli, dociles, vel attenti reddantur; sed in oratione de qua loquimur, exordium requiritur quandoque ad excitandum orantis desiderium ad devote petendum. In exordio autem quod ad benevolentiam captandam inducitur, quatuor modis secundum Tullium proceditur. Quia vel captatur benevolentia ex persona judicis, dum laudatur; vel ex negotio, dum ejus dignitas ostenditur; vel ex persona petentis, sicut dum ostenditur meritum ejus in eos quos alloquitur; vel ex persona adversariorum, dum contra eos audientium animos concitant. In oratione autem quam ad Deum fundimus, pro nobis tantum intercedimus, non ut alii offensam incurrant. Negotium etiam pro quo oramus, ipse Deus est, ad quem sunt omnia desideria nostra ordinanda. Unde dupliciter orantis affectus ad devotionem quasi quodam exordio excitatur; scilicet ex parte Dei, dum ipsum laudamus; et ex parte nostra, dum nostram infirmitatem recogitamus; et quantum ad primum ponit Ambrosius laudem Dei orationis partem; quantum autem ad secundum supplicationem, quae est humilis et devota precatio; in quo etiam potest includi negotium pro quo oramus, inquantum ex necessitate quae nos impellit ad orandum, spiritus noster humiliatur. Postulatio autem ad progressum orationis pertinet; sed gratiarum actio ad terminum, ut prius dictum est.***
+Ad secundam quaestionem dicendum, quod sicut oratio rhetorica habet exordium partem sui, ita et oratio ad Deum fusa; unde et introitus in Missa cantatur. Sed hoc interest, quia in oratione rhetorica exordium ponitur propter illos ad quos oratio fit, ut benevoli, dociles, vel attenti reddantur; sed in oratione de qua loquimur, exordium requiritur quandoque ad excitandum orantis desiderium ad devote petendum. In exordio autem quod ad benevolentiam captandam inducitur, quatuor modis secundum Tullium proceditur. Quia vel captatur benevolentia ex persona judicis, dum laudatur; vel ex negotio, dum ejus dignitas ostenditur; vel ex persona petentis, sicut dum ostenditur meritum ejus in eos quos alloquitur; vel ex persona adversariorum, dum contra eos audientium animos concitant. In oratione autem quam ad Deum fundimus, pro nobis tantum intercedimus, non ut alii offensam incurrant. Negotium etiam pro quo oramus, ipse Deus est, ad quem sunt omnia desideria nostra ordinanda. Unde dupliciter orantis affectus ad devotionem quasi quodam exordio excitatur; scilicet ex parte Dei, dum ipsum laudamus; et ex parte nostra, dum nostram infirmitatem recogitamus; et quantum ad primum ponit Ambrosius laudem Dei orationis partem; quantum autem ad secundum supplicationem, quae est humilis et devota precatio; in quo etiam potest includi negotium pro quo oramus, inquantum ex necessitate quae nos impellit ad orandum, spiritus noster humiliatur. Postulatio autem ad progressum orationis pertinet; sed gratiarum actio ad terminum, ut prius dictum est.  
 
 Ad primum ergo dicendum, quod laus largo modo accipitur secundum quod se habet communiter ad laudem et honorem. Vel dicendum, quod quamvis Deus non ordinetur ad aliud, tamen ipse omnia directe in se ordinat; et per hoc sibi laudis ratio competit.  
 
@@ -1518,7 +1520,7 @@ Ad tertium dicendum, quod supplicatio non ponitur hic quantum ad hoc quod includ
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod partes ab Hugone positae sunt partes subjectivae, et distinguuntur secundum diversos modos; quia omnis petitio per narrationem determinatur, et ipsa narratio est quaedam interpretativa oratio. Sic ergo utrumque concurrere potest ad orationem, et sic dicitur postulatio; unde ipse dicit, quod *postulatio est determinatae petitioni inserta narratio*: vel alterum tantum; et sic vel petitio indeterminata sine narratione; et sic est supplicatio; unde ipse dicit, quod *supplicatio est sine determinatione petitionis, humilis et devota precatio*; aut narratio sine petitione, et sic est insinuatio quae secundum ipsum est *sine petitione per solam narrationem, voluntatis facta significatio*.***
+Ad tertiam quaestionem dicendum, quod partes ab Hugone positae sunt partes subjectivae, et distinguuntur secundum diversos modos; quia omnis petitio per narrationem determinatur, et ipsa narratio est quaedam interpretativa oratio. Sic ergo utrumque concurrere potest ad orationem, et sic dicitur postulatio; unde ipse dicit, quod *postulatio est determinatae petitioni inserta narratio*: vel alterum tantum; et sic vel petitio indeterminata sine narratione; et sic est supplicatio; unde ipse dicit, quod *supplicatio est sine determinatione petitionis, humilis et devota precatio*; aut narratio sine petitione, et sic est insinuatio quae secundum ipsum est *sine petitione per solam narrationem, voluntatis facta significatio*.  
 
 Ad primum ergo patet solutio ex dictis in secunda quaestione.  
 
@@ -1534,7 +1536,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod homo non debeat aliquid determinate petere in oratione. Quia periculosum est petere quod petere non oportet. Sed *quid oremus, sicut oportet, nescimus*; Rom. 8, 26. Ergo non debemus aliquid determinate petere.***
+Ad quartum sic proceditur. Videtur quod homo non debeat aliquid determinate petere in oratione. Quia periculosum est petere quod petere non oportet. Sed *quid oremus, sicut oportet, nescimus*; Rom. 8, 26. Ergo non debemus aliquid determinate petere.  
 
 Praeterea, in oratione homo debet spem suam jactare in Deum, sicut dicitur in Psal. 54, 23: *jacta super Dominum curam tuam, et ipse te enutriet*. Sed ille qui aliquid in oratione determinat, non videtur super Dominum curam suam jactare totaliter. Ergo talis oratio est reprehensibilis.  
 
@@ -1546,7 +1548,7 @@ Praeterea, postulatio est orationis pars. Sed habet determinatam petitionem, ut 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in oratione non sint temporalia petenda. Matth. 6 super illud: *primum quaerite regnum Dei, et haec omnia adjicientur vobis*, dicit *Glossa* interlinearis: *intelligendum est non quod post regnum illa quaerantur*. Ergo nullo modo licet temporalia orando petere.***
+Ulterius. Videtur quod in oratione non sint temporalia petenda. Matth. 6 super illud: *primum quaerite regnum Dei, et haec omnia adjicientur vobis*, dicit *Glossa* interlinearis: *intelligendum est non quod post regnum illa quaerantur*. Ergo nullo modo licet temporalia orando petere.  
 
 Praeterea, quicumque orat pro aliquo, solicitus est pro illo. Sed pro temporalibus etiam necessariis soliciti esse non debemus, ut patet Matth. 6, 25: *nolite soliciti esse quid manducetis*. Ergo temporalia non sunt petenda in oratione.  
 
@@ -1558,7 +1560,7 @@ Praeterea, Bernardus dicit: *petenda sunt temporalia quantum necessitas petit*.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod homo non debeat pro alieno bono orare. Primo per hoc quod dicitur Hierem. 7, 16: *tu ergo noli orare pro populo hoc*.***
+Ulterius. Videtur quod homo non debeat pro alieno bono orare. Primo per hoc quod dicitur Hierem. 7, 16: *tu ergo noli orare pro populo hoc*.  
 
 Praeterea, praesumptuosum est ut homo se ad ea quae supra se sunt, ingerat. Sed redundantia gratiae ex uno in alium pertinet ad excellentiam plenitudinis quae fuit in Christo secundum quod est caput nostrum. Ergo non debet sibi aliquis usurpare ut pro alio oret.  
 
@@ -1566,7 +1568,7 @@ Sed contra est quod dicitur Matth. 5, 44: *orate pro persequentibus et calumnian
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod determinatio ejus quod in oratione petendum est, ad tria valet. Primo ad hoc quod attentio orantis determinetur ad aliquid, quae plurimum est in oratione necessaria. Secundo ut nobis innotescat desiderium nostrum, et quantum in ipso profecerimus. Tertio ut ferventius petamus: quia bona quanto particularius inspiciuntur, tanto ferventius concupiscuntur sicut de delectabilibus corporalibus Philosophus dicit 3 *Ethica*. Unde Augustinus in Lib. *de Orando Deum*, dicit: *ideo per certa intervalla ipsum etiam verbis determinatis oramus Deum, ut illis rerum signis nos ipsos admoneamus*, quantum ad primum; *et quantum in ipso desiderio profecerimus, nobis innotescamus*, quantum ad secundum; *et ad hoc agendum nos ipsos acrius excitemus*, quantum ad tertium.***
+Respondeo dicendum ad primam quaestionem, quod determinatio ejus quod in oratione petendum est, ad tria valet. Primo ad hoc quod attentio orantis determinetur ad aliquid, quae plurimum est in oratione necessaria. Secundo ut nobis innotescat desiderium nostrum, et quantum in ipso profecerimus. Tertio ut ferventius petamus: quia bona quanto particularius inspiciuntur, tanto ferventius concupiscuntur sicut de delectabilibus corporalibus Philosophus dicit 3 *Ethica*. Unde Augustinus in Lib. *de Orando Deum*, dicit: *ideo per certa intervalla ipsum etiam verbis determinatis oramus Deum, ut illis rerum signis nos ipsos admoneamus*, quantum ad primum; *et quantum in ipso desiderio profecerimus, nobis innotescamus*, quantum ad secundum; *et ad hoc agendum nos ipsos acrius excitemus*, quantum ad tertium.  
 
 Ad primum ergo dicendum, quod sicut Augustinus ibidem solvit, apostolus hoc dicit propter tribulationes temporales, quae ad profectum nostrum plerumque immittuntur, et tamen ab eis omnibus liberari petimus, quia in se malae sunt, quamvis secundum quid sint bonae: sed de quibusdam bene scimus quod ea petere oportet, sicut et quod desiderare.  
 
@@ -1576,7 +1578,7 @@ Ad tertium patet solutio ex dictis.
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod oratio est quaedam desiderii executio; et ideo illud quod licet desiderare, licet orando petere eo modo quo licet illud desiderare. Sed in illis quae desiderantur, est duplex distinctio attendenda: prima est quia quaedam desiderantur propter seipsa, quaedam propter aliud: secunda est, quia quaedam non habent superfluitatem desiderii, sicut virtutes; quaedam autem habent, sicut voluptates, divitiae, et hujusmodi. Bona autem temporalia et propter aliud desideranda sunt, et cum quadam mensura, scilicet secundum quod sunt necessaria ad vitam praesentem agendam; et ideo hoc etiam modo orari pro eis potest.***
+Ad secundam quaestionem dicendum, quod oratio est quaedam desiderii executio; et ideo illud quod licet desiderare, licet orando petere eo modo quo licet illud desiderare. Sed in illis quae desiderantur, est duplex distinctio attendenda: prima est quia quaedam desiderantur propter seipsa, quaedam propter aliud: secunda est, quia quaedam non habent superfluitatem desiderii, sicut virtutes; quaedam autem habent, sicut voluptates, divitiae, et hujusmodi. Bona autem temporalia et propter aliud desideranda sunt, et cum quadam mensura, scilicet secundum quod sunt necessaria ad vitam praesentem agendam; et ideo hoc etiam modo orari pro eis potest.  
 
 Ad primum ergo dicendum, quod nec primo nec secundo debent quaeri temporalia, quasi principaliter intenta; possunt autem quaeri ut propter aliud desiderata: quod quidem desiderium est electionis, non voluntatis proprie, quia voluntas est finis.  
 
@@ -1586,7 +1588,7 @@ Ad tertium dicendum, quod temporalia non sunt bona nostra secundum se, sed secun
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod cum praecepto caritatis homo debeat proximum sicut seipsum diligere, eadem ei debet optare quae sibi; et ideo etiam eadem pro eis potest orare quae etiam pro se orat.***
+Ad tertiam quaestionem dicendum, quod cum praecepto caritatis homo debeat proximum sicut seipsum diligere, eadem ei debet optare quae sibi; et ideo etiam eadem pro eis potest orare quae etiam pro se orat.  
 
 Ad primum ergo dicendum, quod Dominus loquitur quantum ad hoc quod in illo populo erant impedimenta, quare oratio prophetae exaudiri non poterat, scilicet incorreptus error illorum, et finalis impoenitentia, ut *Glossa* ibidem dicit.  
 
@@ -1598,7 +1600,7 @@ Articulus 5
 
 ***Quaestiuncula 1***
 
-***Ad quintum sic proceditur. Videtur quod solus Deus debeat orari, per definitionem orationis: quia Damascenus dicit, quod *oratio est ascensus intellectus in Deum*.***
+Ad quintum sic proceditur. Videtur quod solus Deus debeat orari, per definitionem orationis: quia Damascenus dicit, quod *oratio est ascensus intellectus in Deum*.  
 
 Praeterea, oratio est actus latriae, ut dictum est. Sed latria soli Deo debetur. Ergo et oratio.  
 
@@ -1610,7 +1612,7 @@ Praeterea, orationis species est supplicatio. Sed supplicatio homini fieri potes
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod possit oratio dirigi etiam ad sanctos non in patria existentes. Non enim ad sanctos orationem fundimus, nisi inquantum sunt Deo viciniores nobis: quia Deus per ea quae sunt sibi magis propinqua, in distantia magis radios suae bonitatis emittit, ut Dionysius dicit. Sed sancti etiam in hoc mundo existentes sunt nobis superiores. Ergo debemus eos orare.***
+Ulterius. Videtur quod possit oratio dirigi etiam ad sanctos non in patria existentes. Non enim ad sanctos orationem fundimus, nisi inquantum sunt Deo viciniores nobis: quia Deus per ea quae sunt sibi magis propinqua, in distantia magis radios suae bonitatis emittit, ut Dionysius dicit. Sed sancti etiam in hoc mundo existentes sunt nobis superiores. Ergo debemus eos orare.  
 
 Praeterea, illi qui sunt in purgatorio jam sunt certi de sua salute. Ergo sunt in meliori statu quam nos sumus. Ergo possumus eos orare.  
 
@@ -1622,7 +1624,7 @@ Praeterea, sancti non orantur nisi inquantum sunt in plena divinitatis participa
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod oratio non fiat ad Deum ratione essentiae, sed magis ratione personae. Quia hoc modo debemus orare, sicut Christus nos docuit. Sed ipse docuit nos ad personam patris orationem dirigere; Joan. 16, 23: *si quid petieritis patrem in nomine meo, dabit vobis*. Ergo oratio fit ad Deum ratione personae.***
+Ulterius. Videtur quod oratio non fiat ad Deum ratione essentiae, sed magis ratione personae. Quia hoc modo debemus orare, sicut Christus nos docuit. Sed ipse docuit nos ad personam patris orationem dirigere; Joan. 16, 23: *si quid petieritis patrem in nomine meo, dabit vobis*. Ergo oratio fit ad Deum ratione personae.  
 
 Praeterea, illud quod attribuitur Deo ratione divinae naturae, toti Trinitati competit, et singulis personis. Sed Ecclesia non dirigit aliquam orationem ad Spiritum Sanctum. Ergo non oratur Deus ratione naturae, sed ratione personae.  
 
@@ -1630,7 +1632,7 @@ Sed contra, secundum hoc aliquis oratur quod bona sua communicare potest. Sed co
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod illud quod orando petimus, est beata vita, ut Augustinus dicit: quia omnia alia quae petimus, non petimus nisi secundum quod ad hanc ordinantur. Beatam autem vitam dat directe solus Deus. Sed tamen etiam sancti cooperantur nobis ad hoc quod beatam vitam obtineamus; et ideo oratio directe et proprie fit ad Deum, sicut a quo expectamus quod orando petimus; sed tamen orantis intentio ad sanctos convertitur, ut quorum auxilio a Deo impetrat quod expectat; et ideo dicit Cassiodorus quod oratio proprie fit ad Deum, sed deprecatio ad sanctos.***
+Respondeo dicendum ad primam quaestionem, quod illud quod orando petimus, est beata vita, ut Augustinus dicit: quia omnia alia quae petimus, non petimus nisi secundum quod ad hanc ordinantur. Beatam autem vitam dat directe solus Deus. Sed tamen etiam sancti cooperantur nobis ad hoc quod beatam vitam obtineamus; et ideo oratio directe et proprie fit ad Deum, sicut a quo expectamus quod orando petimus; sed tamen orantis intentio ad sanctos convertitur, ut quorum auxilio a Deo impetrat quod expectat; et ideo dicit Cassiodorus quod oratio proprie fit ad Deum, sed deprecatio ad sanctos.  
 
 Ad primum ergo dicendum, quod in definitione debent poni ea quae per se sunt. Quamvis autem aliquo modo ad sanctos oratio fieri possit, sicut ad intercessores pro nobis, tamen proprie et per se oratio in Deum fertur.  
 
@@ -1644,7 +1646,7 @@ Ad quintum dicendum, quod oratio hic accipitur ad similitudinem rhetoricae orati
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod nihil petitur ab aliquo qui non habet illud; unde cum beata vita sit quae in orando petitur, ad illos solos sanctos dirigi aliquo modo oratio potest qui beatam vitam habent, non autem ad illos qui in mundo sunt, neque ad illos qui in purgatorio sunt: quamvis illis qui in mundo sunt supplicatio vel petitio aliqua fieri possit.***
+Ad secundam quaestionem dicendum, quod nihil petitur ab aliquo qui non habet illud; unde cum beata vita sit quae in orando petitur, ad illos solos sanctos dirigi aliquo modo oratio potest qui beatam vitam habent, non autem ad illos qui in mundo sunt, neque ad illos qui in purgatorio sunt: quamvis illis qui in mundo sunt supplicatio vel petitio aliqua fieri possit.  
 
 Ad primum ergo dicendum, quod quamvis sancti in mundo existentes sint nobis superiores, et possint pro nobis orare; non tamen adhuc ad illum gradum superioritatis pervenerunt, ut scilicet beatitudinem, quam nos non habemus, illi habeant.  
 
@@ -1654,7 +1656,7 @@ Ad tertium dicendum, quod in miraculis praecipue attenditur fides et devotio ora
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Deus praecipue oratur, inquantum est beatus, et aliis beatitudinem largiens; et quia hoc convenit ei ratione essentiae, ideo ratione essentialium attributorum oratur.***
+Ad tertiam quaestionem dicendum, quod Deus praecipue oratur, inquantum est beatus, et aliis beatitudinem largiens; et quia hoc convenit ei ratione essentiae, ideo ratione essentialium attributorum oratur.  
 
 Ad primum ergo dicendum, quod ea quae sunt essentiae, a patre sunt in aliis personis; et ideo fit quaedam reductio ab aliis personis in Patrem, ut patet per Hilarium; et propter hoc etiam dicitur Pater principium totius deitatis; et sic nos in Patrem, sicut in principium non de principio, reducens Christus, nos ad Patrem orationem dirigere per Filium docuit.  
 
@@ -1666,7 +1668,7 @@ Articulus 6
 
 ***Quaestiuncula 1***
 
-***Ad sextum sic proceditur. Videtur quod divinae personae sit orare. Ejus enim est orare cujus est accipere. Sed personae Dei est accipere ab alio, sicut Filii et Spiritus Sancti. Ergo ejus est orare.***
+Ad sextum sic proceditur. Videtur quod divinae personae sit orare. Ejus enim est orare cujus est accipere. Sed personae Dei est accipere ab alio, sicut Filii et Spiritus Sancti. Ergo ejus est orare.  
 
 Praeterea, Joan. 14, 16: *ego rogabo patrem, et alium Paraclytum dabit vobis*; et sunt filii verba. Ergo filii est orare.  
 
@@ -1678,7 +1680,7 @@ Praeterea, oratio est actus latriae, quae dicitur servitus Dei. Sed servire non 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nec sanctis qui sunt in patria, competit orare. Quia sancti qui sunt in patria, sunt Christo conformes, inquantum est homo. Sed Christo, inquantum est homo, non competit orare; alias diceremus: *Christe ora pro nobis*. Ergo nec aliis sanctis competit orare.***
+Ulterius. Videtur quod nec sanctis qui sunt in patria, competit orare. Quia sancti qui sunt in patria, sunt Christo conformes, inquantum est homo. Sed Christo, inquantum est homo, non competit orare; alias diceremus: *Christe ora pro nobis*. Ergo nec aliis sanctis competit orare.  
 
 Praeterea, sancti in patria aequales sunt angelis Dei, Matth. 22. Sed angelis non competit orare: quia oratio, ut dictum est, est actus rationis, qui in angelis non est, cum in umbra intelligentiae oriatur, ut Isaac dicit. Ergo nec aliis sanctis qui sunt in patria, oratio competit.  
 
@@ -1690,7 +1692,7 @@ Praeterea, sancti in patria magis fervent caritate quam in via. Sed caritas faci
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam brutorum animalium sit orare. Quia in Psal. 146, 9, dicitur: *qui dat jumentis escam ipsorum, et pullis corvorum qui invocant eum*. Sed invocare Deum est ipsum orare. Ergo etiam animalia orant.***
+Ulterius. Videtur quod etiam brutorum animalium sit orare. Quia in Psal. 146, 9, dicitur: *qui dat jumentis escam ipsorum, et pullis corvorum qui invocant eum*. Sed invocare Deum est ipsum orare. Ergo etiam animalia orant.  
 
 Praeterea, oratio est denuntiativus appetitus. Sed animalia bruta appetunt bonum divinum suo modo. Ergo orant.  
 
@@ -1698,7 +1700,7 @@ Sed contra, oratio non fit nisi ad Deum. Sed Deus non potest cognosci nisi intel
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod oratio requirit distinctionem orantis ad eum qui oratur: quia nullus a seipso aliquid petit. Oratio autem fit ad Deum ratione attributorum essentialium, in quibus personae non distinguuntur; et ideo uni personae non competit aliam orare.***
+Respondeo dicendum ad primam quaestionem, quod oratio requirit distinctionem orantis ad eum qui oratur: quia nullus a seipso aliquid petit. Oratio autem fit ad Deum ratione attributorum essentialium, in quibus personae non distinguuntur; et ideo uni personae non competit aliam orare.  
 
 Ad primum ergo dicendum, quod acceptio illa qua una persona accipit ab alia, est per naturalem fecunditatem, et non per gratuitam collationem, pro qua impetranda oratio funditur.  
 
@@ -1708,7 +1710,7 @@ Ad tertium dicendum, quod Spiritus dicitur postulare, inquantum nos postulare fa
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod quidam haeretici dixerunt, quod sancti non possunt juvare orando pro nobis, quia unusquisque recipit secundum ea quae gerit; sed hoc est contra articulum fidei, qui est sanctorum communio, quae per caritatem fit; et ideo cum etiam in sanctis qui sunt in patria, sit perfectissima caritas, competit eis pro nobis orare; non autem pro se, quia omnia eis ad votum succedunt.***
+Ad secundam quaestionem dicendum, quod quidam haeretici dixerunt, quod sancti non possunt juvare orando pro nobis, quia unusquisque recipit secundum ea quae gerit; sed hoc est contra articulum fidei, qui est sanctorum communio, quae per caritatem fit; et ideo cum etiam in sanctis qui sunt in patria, sit perfectissima caritas, competit eis pro nobis orare; non autem pro se, quia omnia eis ad votum succedunt.  
 
 Ad primum ergo dicendum, quod Christus, inquantum homo, orat pro nobis; sed ideo non dicimus *Christe ora pro nobis*, quia Christus supponit suppositum aeternum, cujus non est orare, sed adjuvare; et ideo dicimus, *Christe audi nos*, vel *miserere nostri*: et in hoc etiam evitamus haeresim Arii et Nestorii.  
 
@@ -1718,7 +1720,7 @@ Ad tertium dicendum, quod quidam dicit, quod non sunt in statu merendi quantum a
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod brutis nullo modo competit orare: tum quia non sunt participes beatae vitae, quae principaliter in oratione petitur: tum quia etiam Deum, cui oratio offertur, non apprehendunt: tum etiam quia petere est actus rationis, cum importet ordinationem quamdam, ut ex dictis patet.***
+Ad tertiam quaestionem dicendum, quod brutis nullo modo competit orare: tum quia non sunt participes beatae vitae, quae principaliter in oratione petitur: tum quia etiam Deum, cui oratio offertur, non apprehendunt: tum etiam quia petere est actus rationis, cum importet ordinationem quamdam, ut ex dictis patet.  
 
 Ad primum ergo dicendum, quod sicut animalia bruta, secundum Augustinum, 12 *super Gen. ad litteram*, dicuntur jussis Dei obedire non quasi percipientes mandatum, sed inquantum naturali instinctu ab ipso moventur; ita etiam dicuntur Deum invocare improprie, inquantum aliquid naturali desiderio, desiderant, quod a Deo obtinent.  
 
@@ -1730,7 +1732,7 @@ Articulus 7
 
 ***Quaestiuncula 1***
 
-***Ad septimum sic proceditur. Videtur quod oratio non sit satisfactoria. Quia omnis oratio vel est vocalis, vel mentalis. Sed mentalis non est satisfactoria, quia non habet poenam, sed jucunditatem: nec iterum vocalis, quia, sicut Isidorus dicit, reconciliat Deo non sonus vocis, sed pura et simplex mentis intentio. Ergo oratio non est satisfactionis pars.***
+Ad septimum sic proceditur. Videtur quod oratio non sit satisfactoria. Quia omnis oratio vel est vocalis, vel mentalis. Sed mentalis non est satisfactoria, quia non habet poenam, sed jucunditatem: nec iterum vocalis, quia, sicut Isidorus dicit, reconciliat Deo non sonus vocis, sed pura et simplex mentis intentio. Ergo oratio non est satisfactionis pars.  
 
 Praeterea, latria, ut in praecedenti dist. quaest. 1, art. 1, quaestiunc. 5, in corp., dictum est, contra poenitentiae virtutem dividitur. Sed satisfactio est actus poenitentiae virtutis, oratio autem latriae. Ergo oratio non est satisfactoria.  
 
@@ -1742,7 +1744,7 @@ Praeterea, oratione petimus nobis debita relaxari, nec frustra, cum a Domino sit
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod oratio non sit meritoria. Opus enim meritorium solum in Deum intentionem dirigit: quia mercenaria intentio virtutem meriti evacuat. Sed orans non solum ad Deum habet oculum, sed ad proprias indigentias, quibus petit subveniri. Ergo non est opus meritorium.***
+Ulterius. Videtur quod oratio non sit meritoria. Opus enim meritorium solum in Deum intentionem dirigit: quia mercenaria intentio virtutem meriti evacuat. Sed orans non solum ad Deum habet oculum, sed ad proprias indigentias, quibus petit subveniri. Ergo non est opus meritorium.  
 
 Praeterea, si est meritoria, nullius magis quam ejus quod postulat. Sed ejus quod postulat, non est meritoria: quia quandoque non exauditur, etiam si ab eo qui in caritate est, offeratur. Ergo oratio non est meritoria.  
 
@@ -1754,7 +1756,7 @@ Praeterea, in Psalm. 34, 13, dicitur: *oratio mea in sinu meo convertetur*. Ergo
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod inconvenienter assignentur conditiones quae praestant efficaciam orationi. Dicitur enim in *Glossa* Lucae 11, super illam parabolam: *quis vestrum habebit amicum?* etc., quod quatuor conditiones exiguntur ad hoc quod oratio sit efficax: scilicet ut petatur pie, et pro se, et perseveranter, et ad salutem. Qui enim est in peccato, pietatis virtutem non habet. Sed peccatorum oratio aliquando exauditur: quia etiam per peccatores mirabilia fieri possunt. Ergo non oportet quod *pie* petatur, ad hoc quod oratio sit efficax.***
+Ulterius. Videtur quod inconvenienter assignentur conditiones quae praestant efficaciam orationi. Dicitur enim in *Glossa* Lucae 11, super illam parabolam: *quis vestrum habebit amicum?* etc., quod quatuor conditiones exiguntur ad hoc quod oratio sit efficax: scilicet ut petatur pie, et pro se, et perseveranter, et ad salutem. Qui enim est in peccato, pietatis virtutem non habet. Sed peccatorum oratio aliquando exauditur: quia etiam per peccatores mirabilia fieri possunt. Ergo non oportet quod *pie* petatur, ad hoc quod oratio sit efficax.  
 
 Praeterea, oratio quae ex caritate fit, semper efficaciam habet; Joan. 15, 7: *si manseritis in me, et verba mea in vobis manserint; quodcumque volueritis, petetis, et fiet vobis*. In Deo autem manere facit caritas, ut patet 1 Joan. 4. Omnis autem oratio quae fit *pie*, ex caritate procedit. Ergo habet efficaciam: non ergo oportet addere alias conditiones.  
 
@@ -1768,7 +1770,7 @@ Praeterea, videtur quod multae aliae conditiones requirantur: videlicet quod fid
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod satisfactio respicit et culpam praeteritam, pro cujus offensa recompensationem facit, et culpam futuram, contra quam est medicina salvans; et haec duo orationi competunt. *Initium* enim *peccati et radix est superbia*; et ideo per quod homo spiritum suum humiliter Deo subdit in oratione, et pro superbia praecedentis offensae recompensationem facit, et aditum futurae culpae aufert, radicem ei amputans; et ita oratio plene habet satisfaciendi rationem.***
+Respondeo dicendum ad primam quaestionem, quod satisfactio respicit et culpam praeteritam, pro cujus offensa recompensationem facit, et culpam futuram, contra quam est medicina salvans; et haec duo orationi competunt. *Initium* enim *peccati et radix est superbia*; et ideo per quod homo spiritum suum humiliter Deo subdit in oratione, et pro superbia praecedentis offensae recompensationem facit, et aditum futurae culpae aufert, radicem ei amputans; et ita oratio plene habet satisfaciendi rationem.  
 
 Ad primum ergo dicendum, quod oratio mentalis et vocalis satisfactoria est, si in caritate fiat. Vocalis quidem, quia habet exteriorem laborem, et sic poenam quemdam; et inquantum in ea manet virtus praecedentis intentionis, habet etiam rationem boni meritorii, quae duo ad opus satisfactorium requiruntur. Et sic patet quomodo respondendum sit ad auctoritatem Isidori; quia sonus vocis non reconciliat Deo inquantum hujusmodi, sed inquantum manet in ipsa purae intentionis efficacia. Similiter etiam oratio mentalis satisfactoria est: quia quamvis habeat jucunditatem, habet tamen et poenam admixtam: quia dicit Gregorius: *orare est amaros gemitus in compunctione resonare*, vel pro peccatis, vel pro dilatione patriae; et praeterea ipsa mentis elevatio est carnis afflictio, ut supra dictum est; et afflictio carnis redundat in mentem, inquantum ei unita est, et etiam in superbientem spiritum, cujus vulnus oratio sanat; et idcirco sine poena oratio humilis esse non potest.  
 
@@ -1778,7 +1780,7 @@ Ad tertium dicendum, quod ex hoc ipso quod aliquis ab homine veniam petit humili
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ratio meriti in omnibus actibus nostris est ex caritate; unde, cum contingat aliquando ex caritate orationem fieri, constat quod potest esse meritoria eadem ratione qua et alia opera ex caritate facta meritoria sunt.***
+Ad secundam quaestionem dicendum, quod ratio meriti in omnibus actibus nostris est ex caritate; unde, cum contingat aliquando ex caritate orationem fieri, constat quod potest esse meritoria eadem ratione qua et alia opera ex caritate facta meritoria sunt.  
 
 Ad primum ergo dicendum, quod habere oculum ad aliud quam ad Deum, sicut ad principalem finem, evacuat rationem meriti; non autem si respiciat aliud sicut quo ad Deum cito perveniendum; et hoc modo oratio relevationem propriarum indigentiarum respicit.  
 
@@ -1788,7 +1790,7 @@ Ad tertium dicendum, quod opera nostra non sunt sufficientia a seipsis ad obtine
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod oratio ad duo ordinatur; scilicet ad objectum proprium, et ad finem: et secundum hoc habet duplicem efficaciam: scilicet efficaciam merendi ratione finis, qui est vita aeterna, ad quam omnia merita ordinantur; et efficaciam impetrandi ejus quod petitum est, quod est orationis objectum. Et inter haec duo haec differentia est: quod meritum importat ordinem justitiae ad praemium, quia ad justitiam pertinet retribuentis ut merenti praemium reddat: sed impetratio importat ordinem misericordiae vel liberalitatis ex parte donantis; et ideo meritum ex seipso habet unde perveniatur ad praemium; sed oratio impetrare volentis non habet ex seipsa unde impetret, sed ex proposito vel liberalitate dantis. Unde patet quod oratio ex caritate semper habet efficaciam merendi, sed non habet semper efficaciam impetrandi: quia aliquid est quod repugnat impetrationi in providentia Dei, ad quem oratur.***
+Ad tertiam quaestionem dicendum, quod oratio ad duo ordinatur; scilicet ad objectum proprium, et ad finem: et secundum hoc habet duplicem efficaciam: scilicet efficaciam merendi ratione finis, qui est vita aeterna, ad quam omnia merita ordinantur; et efficaciam impetrandi ejus quod petitum est, quod est orationis objectum. Et inter haec duo haec differentia est: quod meritum importat ordinem justitiae ad praemium, quia ad justitiam pertinet retribuentis ut merenti praemium reddat: sed impetratio importat ordinem misericordiae vel liberalitatis ex parte donantis; et ideo meritum ex seipso habet unde perveniatur ad praemium; sed oratio impetrare volentis non habet ex seipsa unde impetret, sed ex proposito vel liberalitate dantis. Unde patet quod oratio ex caritate semper habet efficaciam merendi, sed non habet semper efficaciam impetrandi: quia aliquid est quod repugnat impetrationi in providentia Dei, ad quem oratur.  
 
 Et ad haec impedimenta tollenda ponuntur quatuor conditiones praemissae, quibus positis semper habet oratio efficaciam impetrationis. Potest ergo impedimentum orationis esse vel ex parte orantis. Si orationem inordinate emittat; et quantum ad hoc removendum dicitur *pie*, in quo importatur modus latriae, quae alio nomine pietas dicitur, secundum quam oratio modificari debet: vel ex eo quod petitur, quia quandoque etiam petenti non expedit, et sic dicitur quod sit *ad salutem*: vel ex parte ejus pro quo petitur; et hoc impedimentum vel est tunc quando oratio fit; quod non potest esse quando oratio fit ab aliquo pro seipso, si pie petat, sed quando fit pro alio; et ideo additur alia conditio, quod fiat *pro se*: vel potest esse post intermedium inter orationem et consecutionem petiti; et hoc excluditur per hoc quod dicit *perseveranter*.  
 
@@ -1806,7 +1808,7 @@ Ad sextum dicendum, quod omnes illae conditiones quae requiruntur ex parte orant
 
 Expositio textus  
 
-****Non consurget duplex tribulatio*. Contra. Hierem. 17, 18: *duplici contritione contere eos*. Et dicendum, quod tribulatio, si accipiatur ut commensurata peccato, duplex non consurgit, quia Deus non punit ultra condignum; sed si accipiatur pro poena absolute, tunc duplex poena debetur, vel secundum duas partes peccantis, poena corporis et animae; vel secundum duo quae sunt in peccato, scilicet aversio et conversio, poena sensus et damni; vel secundum duas radices peccati, quae sunt amor et timor, ignis et frigus. Vel secundum duos status, praesens poena et futura.***
+*Non consurget duplex tribulatio*. Contra. Hierem. 17, 18: *duplici contritione contere eos*. Et dicendum, quod tribulatio, si accipiatur ut commensurata peccato, duplex non consurgit, quia Deus non punit ultra condignum; sed si accipiatur pro poena absolute, tunc duplex poena debetur, vel secundum duas partes peccantis, poena corporis et animae; vel secundum duo quae sunt in peccato, scilicet aversio et conversio, poena sensus et damni; vel secundum duas radices peccati, quae sunt amor et timor, ignis et frigus. Vel secundum duos status, praesens poena et futura.  
 
 Utraque enim est citra condignum; et praecipue si accipiantur divisim. Tamen praesens poena et futura in eo qui non corrigitur, unam poenam constituunt; unde Gregorius in *Moralib*. dicit: *eorum percussio hic coepta, illic perficitur, ut incorrectis unum flagellum sit quod hic temporaliter incipit, sed in aeternis suppliciis consummatur*.  
 

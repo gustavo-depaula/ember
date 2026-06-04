@@ -1,5 +1,7 @@
 # Articuli 12-14
 
+Duodecimus articulus est, an Angeli moventes caelestia corpora, mediantibus motibus caelestium corporum sint factores etiam omnium animalium irrationalium quae moventur vel vivunt tam in mari quam in terra, naturaliter in esse productorum.  
+
 Tertius decimus, an etiam omnium terrae nascentium eodem modo.  
 
 Quartus decimus, an etiam omnium metallorum et cetera.  

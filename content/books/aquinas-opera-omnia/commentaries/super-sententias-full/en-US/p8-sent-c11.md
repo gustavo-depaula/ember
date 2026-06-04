@@ -1,6 +1,6 @@
 # D. 24 - Sacrament of holy orders
 
-***After the Master has examined the sacraments that are ordered to the remedy of one person, here he examines the sacraments that are ordered to the remedy of the whole Church. And this is divided into two parts: in the first, he examines the sacrament of holy orders, which is ordered to the spiritual multiplication and governance of the Church; in the second, marriage, which is ordered to the material multiplication of the faithful, at Distinction 26: *while the other sacraments took their origin after sin and because of sin, we read that the sacrament of marriage was instituted by the Lord even before sin*.*Sententiae* IV, 26.1 (157). 1.***
+After the Master has examined the sacraments that are ordered to the remedy of one person, here he examines the sacraments that are ordered to the remedy of the whole Church. And this is divided into two parts: in the first, he examines the sacrament of holy orders, which is ordered to the spiritual multiplication and governance of the Church; in the second, marriage, which is ordered to the material multiplication of the faithful, at Distinction 26: *while the other sacraments took their origin after sin and because of sin, we read that the sacrament of marriage was instituted by the Lord even before sin*.*Sententiae* IV, 26.1 (157). 1.  
 
 The first is in two parts: in the first, he considers the sacrament of holy orders; in the second, those who confer this sacrament, at Distinction 25: *it is usual to ask whether heretics . . . can confer sacred orders*.*Sent*. IV, 25.1 (150). 1.  
 
@@ -38,7 +38,7 @@ first, concerning holy orders itself;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallel: *SCG* IV, ch. 74. It seems that there should not be an order in the Church. For order requires subjection and rule. But subjection seems opposed to liberty, into which we have been called by Christ.See Galatians 5:13; cf. 2 Corinthians 3:17. Therefore there should be no order in the Church.***
+Obj. 1: To the first question we proceed thus.Parallel: *SCG* IV, ch. 74. It seems that there should not be an order in the Church. For order requires subjection and rule. But subjection seems opposed to liberty, into which we have been called by Christ.See Galatians 5:13; cf. 2 Corinthians 3:17. Therefore there should be no order in the Church.  
 
 Obj. 2: Furthermore, someone who is established in an order is made superior to another. But in the Church each person should consider himself the inferior of the others: *regarding others as better than yourselves* (Phil 2:3). Therefore, there should not be an order in the Church.  
 
@@ -50,7 +50,7 @@ Furthermore (2), the state of the Church is a mean between the state of nature a
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that order is inappropriately defined in the text, where it says, *order is a certain mark of the Church, by which spiritual power is conferred on the one ordained*. For a part of the whole should not be set down as the genus. But a character, which is explained by the *mark* in the resulting definition, is a part of holy orders, which is divided against the reality alone, or the sacrament alone, since it is the reality-and-sacrament. Therefore, a mark should not be set down as though it were the genus of holy orders.***
+Obj. 1: Moreover, it seems that order is inappropriately defined in the text, where it says, *order is a certain mark of the Church, by which spiritual power is conferred on the one ordained*. For a part of the whole should not be set down as the genus. But a character, which is explained by the *mark* in the resulting definition, is a part of holy orders, which is divided against the reality alone, or the sacrament alone, since it is the reality-and-sacrament. Therefore, a mark should not be set down as though it were the genus of holy orders.  
 
 Obj. 2: Furthermore, just as a character is imprinted in the sacrament of holy orders, so also in the sacrament of baptism. But the character was not included in the definition of baptism. Therefore, neither should it be included in the definition of holy orders.  
 
@@ -60,7 +60,7 @@ Obj. 4: Furthermore, order is a kind of relation which is preserved in both extr
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that holy orders is not a sacrament.Parallels: *ST* III, q. 65, a. 1; *SCG* IV, ch. 74. For a sacrament is a material element, as Hugh of St. Victor says.Hugh of St. Victor, *de Sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). But holy orders is not named from anything like this, but rather from a relation or power; for holy orders is a part of a power, according to the foregoing.In the *Supplement* parallel to this questiuncula, the text is given as: “secundum Isidorum,” the reference being to *Etymologies*, Bk. 6, ch. 19. Therefore, it is not a sacrament.***
+Obj. 1: Moreover, it seems that holy orders is not a sacrament.Parallels: *ST* III, q. 65, a. 1; *SCG* IV, ch. 74. For a sacrament is a material element, as Hugh of St. Victor says.Hugh of St. Victor, *de Sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). But holy orders is not named from anything like this, but rather from a relation or power; for holy orders is a part of a power, according to the foregoing.In the *Supplement* parallel to this questiuncula, the text is given as: “secundum Isidorum,” the reference being to *Etymologies*, Bk. 6, ch. 19. Therefore, it is not a sacrament.  
 
 Obj. 2: Furthermore, sacraments do not belong to the Church Triumphant. But there is order there, as is seen in the case of the angels.Indeed, we speak of the “orders” of angels for just this reason. Gregory and Dionysius deduce the hierarchy of angels from the mention of different orders and their varying functions in the Bible. Therefore, holy orders is not a sacrament.  
 
@@ -72,7 +72,7 @@ Furthermore (2), what is the cause of something has that, and more. But because 
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that the form of this sacrament is inappropriately expressed in the text. For the sacraments have efficacy from their form. But the efficacy of the sacraments is from divine power, which works salvation in them in a hidden way. Therefore, in the form of this sacrament mention should be made of divine power by the invocation of the Trinity, just as in the other sacraments.***
+Obj. 1: Moreover, it seems that the form of this sacrament is inappropriately expressed in the text. For the sacraments have efficacy from their form. But the efficacy of the sacraments is from divine power, which works salvation in them in a hidden way. Therefore, in the form of this sacrament mention should be made of divine power by the invocation of the Trinity, just as in the other sacraments.  
 
 Obj. 2: Furthermore, to command belongs to the one who has authority. But authority does not reside with the one who dispenses the sacraments, but only ministry. Therefore it should not use the imperative mood, so that it says, *do thus*; or *receive this or that*; or other things like this.  
 
@@ -82,7 +82,7 @@ Obj. 4: Furthermore, all sacraments order one toward eternal reward. But in the 
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that this sacrament does not have matter. For in every sacrament that has matter, the power working in the sacrament is in the matter. But in the material things that are employed here, such as keys, candlesticks, and the like, there does not seem to be any power of signifying.Lombard speaks of all the minor orders and their functions, as well as of the priesthood and diaconate. Therefore, it does not have matter.***
+Obj. 1: Moreover, it seems that this sacrament does not have matter. For in every sacrament that has matter, the power working in the sacrament is in the matter. But in the material things that are employed here, such as keys, candlesticks, and the like, there does not seem to be any power of signifying.Lombard speaks of all the minor orders and their functions, as well as of the priesthood and diaconate. Therefore, it does not have matter.  
 
 Obj. 2: Furthermore, as it says in the text, in this sacrament the sevenfold fullness of grace is conferred, just like in confirmation. But the matter of confirmation requires previous sanctification. Therefore, since those things that seem to be material in this sacrament are not pre-sanctified, it seems that they are not the matter of this sacrament.  
 
@@ -94,7 +94,7 @@ Furthermore (2), more is required for administering the sacraments than for rece
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that God wanted to lead his works into his own likeness, as much as was possible, so that they might be perfect and he could be known by them. And therefore so that he might be represented in his works not only as he is in himself, but also as he influences other things, he placed this natural law in all things, that the last things should be perfected by the middle things, and the middle things by the first things, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, n. 3 (PG 3:181); *Ecclesiastical Hierarchy*, ch. 5, pt. 1, n. 4 (PG 3:504). And thus, so that this beauty would not be lacking from the Church, he placed his order in it, so that some people would hand on the sacraments to others, being likened in this to God by his own mode, as cooperators with God, as also in the natural body certain members influence others.***
+To the first question, I answer that God wanted to lead his works into his own likeness, as much as was possible, so that they might be perfect and he could be known by them. And therefore so that he might be represented in his works not only as he is in himself, but also as he influences other things, he placed this natural law in all things, that the last things should be perfected by the middle things, and the middle things by the first things, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, n. 3 (PG 3:181); *Ecclesiastical Hierarchy*, ch. 5, pt. 1, n. 4 (PG 3:504). And thus, so that this beauty would not be lacking from the Church, he placed his order in it, so that some people would hand on the sacraments to others, being likened in this to God by his own mode, as cooperators with God, as also in the natural body certain members influence others.  
 
 Reply Obj. 1: The subjection of slavery is opposed to liberty, for that servitude is when someone dominates by using those subject to him for his own benefit. Now that kind of subjection is not required in holy orders, by which those who are in charge should seek the salvation of those under them, not their own benefit.  
 
@@ -104,7 +104,7 @@ Reply Obj. 3: The order among the angels is not found according to the distincti
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the definition that the Master gives for holy orders applies to order according as it is a sacrament of the Church. And so he includes two things: an outward sign, at, *a certain mark*, that is, a certain sign; and an interior effect, at, *by which spiritual power is granted to those ordained*.***
+To the second question, it should be said that the definition that the Master gives for holy orders applies to order according as it is a sacrament of the Church. And so he includes two things: an outward sign, at, *a certain mark*, that is, a certain sign; and an interior effect, at, *by which spiritual power is granted to those ordained*.  
 
 Reply Obj. 1: The mark is not included here for the interior character, but for what is done outwardly, which is the sign and cause of the inner power. And character is assumed in the same way in the other definition. Now, if it were taken for the interior character, it would not be unfitting, for the division of the sacrament into these three things is not a division into integral parts, properly speaking, for what is reality alone is not essential to the sacrament; also what is sacrament alone passes away; and the sacrament is said to remain. Therefore, the interior character itself is left as essentially and principally the very sacrament of orders.  
 
@@ -116,7 +116,7 @@ Reply Obj. 4: The word ‘order’ can be taken in two ways. For sometimes it si
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that a sacrament, as is clear from what was said above, is nothing other than a kind of sanctification of man displayed with a certain visible sign. Therefore, since in the reception of holy orders a certain consecration of a man is displayed by visible signs, it is evident that holy orders is a sacrament.***
+To the third question, it should be said that a sacrament, as is clear from what was said above, is nothing other than a kind of sanctification of man displayed with a certain visible sign. Therefore, since in the reception of holy orders a certain consecration of a man is displayed by visible signs, it is evident that holy orders is a sacrament.  
 
 Reply Obj. 1: Although in its name holy orders does not express any material element, nevertheless holy orders is not conferred without a certain material element.  
 
@@ -126,7 +126,7 @@ Reply Obj. 3: Not every blessing or consecration that is applied to a man is a s
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that this sacrament principally consists in power being conferred. Now power is given by power, just as like things by like. And again, power is recognized by its use, for powers are known through their acts. And thus in the form of orders the use of orders is expressed by the act that is commanded, and the conferral of power by the imperative mood.***
+To the fourth question, it should be said that this sacrament principally consists in power being conferred. Now power is given by power, just as like things by like. And again, power is recognized by its use, for powers are known through their acts. And thus in the form of orders the use of orders is expressed by the act that is commanded, and the conferral of power by the imperative mood.  
 
 Reply Obj. 1: Other sacraments are not principally ordered to effects like the power according to which sacraments are administered, as this sacrament is. And so in this sacrament there is something like a univocal communication. Therefore, in other sacraments something is expressed on the part of divine power, to which the effect of the sacrament is likened, but not in this sacrament.  
 
@@ -138,7 +138,7 @@ Reply Obj. 4: Things stand differently in the other sacraments and in this one. 
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that the matter outwardly employed in the sacraments signifies that the power working in the sacraments comes entirely from without. Therefore, since the more proper effect of this sacrament, namely the character, is not gained by any operation of the person who receives the sacrament, as was the case with penance, but it comes entirely from without, it befits it to have matter, although in a different way from the other sacraments that have matter. For what is conferred in a sacrament is derived only from God in the other sacraments, not from a minister who dispenses the sacrament; but what is conferred in this sacrament, namely, a spiritual power, is also derived from the one who gives the sacrament, as an imperfect power from a perfect one. And thus the efficacy of those sacraments chiefly consists in the matter which both signifies and contains divine power by the sanctification applied to it through its ministry, but the efficacy of this sacrament chiefly resides with the one who dispenses it. Now matter is employed more for determining the power that is conferred partially by someone who has it completely, rather than for causing the power; which is seen by the fact that the matter corresponds to the use of the power.***
+To the fifth question, it should be said that the matter outwardly employed in the sacraments signifies that the power working in the sacraments comes entirely from without. Therefore, since the more proper effect of this sacrament, namely the character, is not gained by any operation of the person who receives the sacrament, as was the case with penance, but it comes entirely from without, it befits it to have matter, although in a different way from the other sacraments that have matter. For what is conferred in a sacrament is derived only from God in the other sacraments, not from a minister who dispenses the sacrament; but what is conferred in this sacrament, namely, a spiritual power, is also derived from the one who gives the sacrament, as an imperfect power from a perfect one. And thus the efficacy of those sacraments chiefly consists in the matter which both signifies and contains divine power by the sanctification applied to it through its ministry, but the efficacy of this sacrament chiefly resides with the one who dispenses it. Now matter is employed more for determining the power that is conferred partially by someone who has it completely, rather than for causing the power; which is seen by the fact that the matter corresponds to the use of the power.  
 
 And by this the solution to the first objection is clear.  
 
@@ -152,7 +152,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallel: *SCG* IV, ch. 74. It seems that in this sacrament of holy orders, sanctifying grace is not conferred. For it is commonly said that the sacrament of holy orders is directed against the defect of ignorance. But sanctifying grace is not given against ignorance, but gratuitous grace is, for sanctifying grace has more to do with the affections. Therefore, in the sacrament of orders sanctifying grace is not given.***
+Obj. 1: To the second question we proceed thus.Parallel: *SCG* IV, ch. 74. It seems that in this sacrament of holy orders, sanctifying grace is not conferred. For it is commonly said that the sacrament of holy orders is directed against the defect of ignorance. But sanctifying grace is not given against ignorance, but gratuitous grace is, for sanctifying grace has more to do with the affections. Therefore, in the sacrament of orders sanctifying grace is not given.  
 
 Obj. 2: Furthermore, order implies distinction. But members of the Church are not distinguished by sanctifying grace, but according to gratuitous grace, which is spoken of in 1 Corinthians 12:4: *there are varieties of graces*. Therefore, sanctifying grace is not given in holy orders.  
 
@@ -164,7 +164,7 @@ Furthermore (2), holy orders is a sacrament of the new law. But the definition o
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that in the sacrament of holy orders, a character is not imprinted in every one of the orders. For the character of holy orders is a certain spiritual power. But some orders are only ordained to certain physical acts, like the orders of porter or acolyte. Therefore, in those no character is imprinted.***
+Obj. 1: Moreover, it seems that in the sacrament of holy orders, a character is not imprinted in every one of the orders. For the character of holy orders is a certain spiritual power. But some orders are only ordained to certain physical acts, like the orders of porter or acolyte. Therefore, in those no character is imprinted.  
 
 Obj. 2: Furthermore, every character is indelible. Therefore, by a character a man is established in a state that he cannot leave. But those who have certain orders can licitly return to the lay state. Therefore, a character is not imprinted in all orders.  
 
@@ -176,7 +176,7 @@ Furthermore (2), a character is a distinctive sign. But in every order there is 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that a character of holy orders does not presuppose a baptismal character.Parallel: *In IV Sent*. d. 7, q. 2, a. 1, qa. 3. For by the character of holy orders a man is made dispenser of the sacraments, but by the baptismal character he is able to receive them. But an active power does not necessarily presuppose a passive one, for it can exist without it, as is seen in God. Therefore, the character of holy orders does not necessarily presuppose a baptismal character.***
+Obj. 1: Moreover, it seems that a character of holy orders does not presuppose a baptismal character.Parallel: *In IV Sent*. d. 7, q. 2, a. 1, qa. 3. For by the character of holy orders a man is made dispenser of the sacraments, but by the baptismal character he is able to receive them. But an active power does not necessarily presuppose a passive one, for it can exist without it, as is seen in God. Therefore, the character of holy orders does not necessarily presuppose a baptismal character.  
 
 Obj. 2: Furthermore, it can happen that someone is not baptized who thinks that he was probably baptized. Therefore, if a person like this received holy orders, he would not receive the character of orders, if the character of orders presupposes the baptismal character. And so those things that he does in consecrating or absolving will be nothing, and in this the Church will be deceived, which is unfitting.  
 
@@ -184,7 +184,7 @@ On the contrary, baptism is the gateway to the sacraments. Therefore, since holy
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that it necessarily presupposes the character of confirmation. For among things that are ordered to each other, the last presupposes the middle just as the middle presupposes the first. But the character of confirmation presupposes a baptismal character as first. Therefore, the character of holy orders presupposes the character of confirmation as a middle.***
+Obj. 1: Moreover, it seems that it necessarily presupposes the character of confirmation. For among things that are ordered to each other, the last presupposes the middle just as the middle presupposes the first. But the character of confirmation presupposes a baptismal character as first. Therefore, the character of holy orders presupposes the character of confirmation as a middle.  
 
 Obj. 2: Furthermore, those who are set up to confirm others should be the most firm. But those who receive the sacrament of holy orders are the ones who confirm others. Therefore, they should have the sacrament of confirmation most of all.  
 
@@ -192,7 +192,7 @@ On the contrary, the Apostles received the power of holy orders before the Ascen
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that the character of one order necessarily presupposes the character of another.Parallel: *In IV Sent*. d. 7, q. 2, a. 1, qa. 3, ad 3. For holy orders share more with each other than with other sacraments. But the character of holy orders presupposes the character of another sacrament, namely, baptism. Therefore, much more does the character of one degree of holy orders presuppose the character of another.***
+Obj. 1: Moreover, it seems that the character of one order necessarily presupposes the character of another.Parallel: *In IV Sent*. d. 7, q. 2, a. 1, qa. 3, ad 3. For holy orders share more with each other than with other sacraments. But the character of holy orders presupposes the character of another sacrament, namely, baptism. Therefore, much more does the character of one degree of holy orders presuppose the character of another.  
 
 Obj. 2: Furthermore, holy orders are certain degrees or steps. But no one can arrive at a later step without first climbing a prior one. Therefore, no one can receive the character of a later level of orders unless he first receives the previous level of orders.  
 
@@ -200,7 +200,7 @@ On the contrary, if anything were omitted in the sacrament that was necessary to
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that *God’s works are perfect*, as it says in Deuteronomy 32:4; and thus to each person to whom some power is divinely given, those things are given by which the exercise of that power can most fittingly be made. And this is also seen among natural things, for members are given to animals in which the soul’s powers can exercise its acts, unless there is a defect on the part of the matter.This is reminiscent of the argument made by Aristotle, *Physics*, Bk. 2, ch. 8, 199a8–11: “As a thing acts, so it is naturally apt to act; and as it is naturally apt to act, so each thing acts, unless something impedes it.” This is also implied in the definition of the soul worked out in *On the Soul*, Bk. 2, ch. 1, where the soul is defined as the primary act of a physical or organ-equipped body capable of life. But just as sanctifying grace is necessary for a person to receive the sacraments worthily, so also for a person to dispense the sacraments worthily. And thus, just as in baptism, by which a person becomes capable of receiving the other sacraments, sanctifying grace is given, so in the sacrament of holy orders, by which a man is ordered to administering the other sacraments.***
+To the first question, I answer that *God’s works are perfect*, as it says in Deuteronomy 32:4; and thus to each person to whom some power is divinely given, those things are given by which the exercise of that power can most fittingly be made. And this is also seen among natural things, for members are given to animals in which the soul’s powers can exercise its acts, unless there is a defect on the part of the matter.This is reminiscent of the argument made by Aristotle, *Physics*, Bk. 2, ch. 8, 199a8–11: “As a thing acts, so it is naturally apt to act; and as it is naturally apt to act, so each thing acts, unless something impedes it.” This is also implied in the definition of the soul worked out in *On the Soul*, Bk. 2, ch. 1, where the soul is defined as the primary act of a physical or organ-equipped body capable of life. But just as sanctifying grace is necessary for a person to receive the sacraments worthily, so also for a person to dispense the sacraments worthily. And thus, just as in baptism, by which a person becomes capable of receiving the other sacraments, sanctifying grace is given, so in the sacrament of holy orders, by which a man is ordered to administering the other sacraments.  
 
 Reply Obj. 1: Holy orders is not given for the remedy of one person, but of the whole Church. Therefore, that it is said to be given against ignorance is not to be understood as though by receiving holy orders ignorance is expelled from the recipient, but that the one receiving holy orders is given charge of expelling ignorance from the people.  
 
@@ -210,7 +210,7 @@ Reply Obj. 3: Not just any amount of goodness is sufficient for the suitable exe
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that there are three opinions about this. For some people have said that only in priestly orders is a character imprinted. But this does not seem true, for no one can exercise the action of a deacon licitly except a deacon; and so it is clear that he has a certain spiritual power in dispensing the sacraments that others do not have. And because of this others have said that in sacred orders a character is imprinted, but not in minor orders. But this again seems nothing: for by any holy orders a person is established above the people in some degree of power ordered to the dispensation of the sacraments. And so since a character is a sign that distinguishes from other people, a character must be imprinted in all of them. And the sign of this is that they remain forever, and are never repeated. And this is the third opinion, which is more common.***
+To the second question, it should be said that there are three opinions about this. For some people have said that only in priestly orders is a character imprinted. But this does not seem true, for no one can exercise the action of a deacon licitly except a deacon; and so it is clear that he has a certain spiritual power in dispensing the sacraments that others do not have. And because of this others have said that in sacred orders a character is imprinted, but not in minor orders. But this again seems nothing: for by any holy orders a person is established above the people in some degree of power ordered to the dispensation of the sacraments. And so since a character is a sign that distinguishes from other people, a character must be imprinted in all of them. And the sign of this is that they remain forever, and are never repeated. And this is the third opinion, which is more common.  
 
 Reply Obj. 1: Any level of holy orders either has an act concerning a sacrament itself or ordered to the administering of the sacraments, as porters have the act of admitting people to seeing the divine sacraments, and likewise with the others. And therefore in all of them a special power is required.  
 
@@ -220,7 +220,7 @@ To the third objection the answer is the same as to the first.
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that nothing can receive something that it does not have a receptive power for. Now a man is made receptive of the other sacraments by a baptismal character. Therefore, someone who does not have a baptismal character is able to receive no other sacrament; and this is how the character of orders presupposes the baptismal character.***
+To the third question, it should be said that nothing can receive something that it does not have a receptive power for. Now a man is made receptive of the other sacraments by a baptismal character. Therefore, someone who does not have a baptismal character is able to receive no other sacrament; and this is how the character of orders presupposes the baptismal character.  
 
 Reply Obj. 1: In someone who has an active power in himself, the active power does not presuppose a passive one. But in someone who has an active power from another, a passive power which can receive the active power is prerequisite to the active power.  
 
@@ -228,7 +228,7 @@ Reply Obj. 2: If such a person be promoted to the priesthood, he is not a priest
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that there is something that is prerequisite to the reception of holy orders as necessary to the sacrament, and something that is for fittingness. For it is necessary to the sacrament that someone who receives holy orders be capable of receiving holy orders, which belongs to him by baptism. And therefore the baptismal character is presupposed as necessary to the sacrament, such that without it the sacrament of holy orders cannot be conferred. But for fittingness, every perfection is required by which someone is made suitable for the exercise of holy orders; and one of these is that he be confirmed; and therefore the character of holy orders presupposes the character of confirmation out of fittingness, but not out of necessity.***
+To the fourth question, it should be said that there is something that is prerequisite to the reception of holy orders as necessary to the sacrament, and something that is for fittingness. For it is necessary to the sacrament that someone who receives holy orders be capable of receiving holy orders, which belongs to him by baptism. And therefore the baptismal character is presupposed as necessary to the sacrament, such that without it the sacrament of holy orders cannot be conferred. But for fittingness, every perfection is required by which someone is made suitable for the exercise of holy orders; and one of these is that he be confirmed; and therefore the character of holy orders presupposes the character of confirmation out of fittingness, but not out of necessity.  
 
 Reply Obj. 1: The relationship of the middle to the last and of the first to the middle are not the same: for by the baptismal character a man becomes capable of receiving the sacrament of confirmation; but by the sacrament of confirmation, a man is not made capable of receiving the sacrament of holy orders. And therefore the account is not the same.  
 
@@ -236,7 +236,7 @@ Reply Obj. 2: That argument proceeds from suitability as to fittingness.
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that it is not from suitability for the higher orders that one has lower orders first, for the powers are distinct; and one, as far as its own nature is concerned, does not require another in the same person. And therefore also in the primitive Church some were ordained as priests who had not received lower orders beforehand. And yet they could do all the things that the lower orders can do, for lower power is comprehended in higher power, as sense in intellect, and a duke’s power in the king’s. But afterward, when the Church had been established more determinately, it became the case that no one was launched into a higher level of holy orders who had not first humbled himself in the lower orders. And this is why those who are ordained by a leap like this are not reordained according to the canons;See Gratian, *Decretals*, pt. 1, d. 52, cap. unic. ‘Sollicitudo’; Gregory IX, *Decretals*, Bk. 5, tit. 29, cap. unic. ‘Tuae nobis’. but what had been omitted from the previous orders is conferred on them.***
+To the fifth question, it should be said that it is not from suitability for the higher orders that one has lower orders first, for the powers are distinct; and one, as far as its own nature is concerned, does not require another in the same person. And therefore also in the primitive Church some were ordained as priests who had not received lower orders beforehand. And yet they could do all the things that the lower orders can do, for lower power is comprehended in higher power, as sense in intellect, and a duke’s power in the king’s. But afterward, when the Church had been established more determinately, it became the case that no one was launched into a higher level of holy orders who had not first humbled himself in the lower orders. And this is why those who are ordained by a leap like this are not reordained according to the canons;See Gratian, *Decretals*, pt. 1, d. 52, cap. unic. ‘Sollicitudo’; Gregory IX, *Decretals*, Bk. 5, tit. 29, cap. unic. ‘Tuae nobis’. but what had been omitted from the previous orders is conferred on them.  
 
 Reply Obj. 1: The degrees of holy orders have more in common with each other according to the likeness of species than holy orders has with baptism. But according to the proportion of power to act, baptism has more in common with holy orders than orders with orders; for by baptism a man acquires a passive power for receiving orders, but by lower orders no passive power for receiving higher orders is given.  
 
@@ -248,7 +248,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the third question we proceed thus. It seems that in those receiving holy orders, goodness of life is not required. For by holy orders a person is ordained for the administering of the sacraments. But the sacraments can be administered by good men and bad. Therefore, a good life is not required.***
+Obj. 1: To the third question we proceed thus. It seems that in those receiving holy orders, goodness of life is not required. For by holy orders a person is ordained for the administering of the sacraments. But the sacraments can be administered by good men and bad. Therefore, a good life is not required.  
 
 Obj. 2: Furthermore, the ministry that is presented to God in the sacraments is not greater than what was physically administered to him. But the Lord did not forbid the notorious sinful woman from ministering to him physically, as is seen in Luke 7. Therefore, neither should such people be barred from the ministry of the sacraments.  
 
@@ -260,7 +260,7 @@ Furthermore (2), Jerome says that *not only the bishops and presbyters and deaco
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that knowledge of all Sacred Scripture is required. For someone from whose mouth the law is required should have knowledge of the law. But they require the law from the priest’s mouth, as is clear from Malachi 2:6–7. Therefore, he should have knowledge of the whole law.***
+Obj. 1: Moreover, it seems that knowledge of all Sacred Scripture is required. For someone from whose mouth the law is required should have knowledge of the law. But they require the law from the priest’s mouth, as is clear from Malachi 2:6–7. Therefore, he should have knowledge of the whole law.  
 
 Obj. 2: Furthermore, *always be ready to give an account of the hope and faith that is in you to the satisfaction of everyone who asks* (1 Pet 3:15). But to give an account of the things that belong to faith and hope belongs to those who have perfect knowledge of the Sacred Scriptures. Therefore, those who are established in holy orders should have such knowledge as the aforesaid words bespeak.  
 
@@ -272,7 +272,7 @@ Furthermore (2), we read in the *Lives of the Fathers* that certain simple monks
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that someone obtains the degree of holy orders by the merit of his life.Parallel: above, a. 1, qa. 1, ad 3. For, as Chrysostom says, *not every priest is a saint, but every saint is a priest*.Pseudo-Chrysostom, *Opus Imperf. in Matth*., Hom. 43, on 23:2 (PG 56:876). But someone becomes a saint by the merit of his life. Therefore he also becomes a priest, and much more does he become someone possessing the other orders.***
+Obj. 1: Moreover, it seems that someone obtains the degree of holy orders by the merit of his life.Parallel: above, a. 1, qa. 1, ad 3. For, as Chrysostom says, *not every priest is a saint, but every saint is a priest*.Pseudo-Chrysostom, *Opus Imperf. in Matth*., Hom. 43, on 23:2 (PG 56:876). But someone becomes a saint by the merit of his life. Therefore he also becomes a priest, and much more does he become someone possessing the other orders.  
 
 Obj. 2: Furthermore, among natural things some are established in a higher degree by the very fact that they are closer to God, and participate more in his goods, as Dionysius says in Chapter 4 of the *Ecclesiastical Hierarchy*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 4, p. 3, n. 5 (PG 3:480). But from the merit of holiness and knowledge a person becomes closer to God, and receives more from his goodness. Therefore, he is established in a degree of holy orders by this very fact.  
 
@@ -280,7 +280,7 @@ On the contrary, holiness once possessed can be lost. But holy orders, once poss
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that a person who promotes unworthy men to holy orders does not sin. For the bishop needs assistants in minor offices. But he could not find them in sufficient number if he required such qualifications in them as those described by the saints. Therefore, if he promotes some who are not qualified, it seems that this is excusable.***
+Obj. 1: Moreover, it seems that a person who promotes unworthy men to holy orders does not sin. For the bishop needs assistants in minor offices. But he could not find them in sufficient number if he required such qualifications in them as those described by the saints. Therefore, if he promotes some who are not qualified, it seems that this is excusable.  
 
 Obj. 2: Furthermore, the Church does not only need ministers for the dispensation of spiritual things, but also for the governance of temporal things. But sometimes those who do not have knowledge or holiness of life can be useful for the governance of temporal things, either because of secular power, or because of natural diligence. Therefore, it seems that one could promote such people without sin.  
 
@@ -292,7 +292,7 @@ Furthermore (2), spiritual things are to be placed above temporal things in the 
 
 Quaestiuncula 5  
 
-***Obj. 1: Moreover, it seems that someone still in sin can make use of the holy orders he has received without sin. For he would sin if he did not make use of them, since he is bound to by office. Therefore, if he sins by using them, he cannot avoid sinning, which is unfitting.***
+Obj. 1: Moreover, it seems that someone still in sin can make use of the holy orders he has received without sin. For he would sin if he did not make use of them, since he is bound to by office. Therefore, if he sins by using them, he cannot avoid sinning, which is unfitting.  
 
 Obj. 2: Furthermore, a dispensation is a relaxation of the law. Therefore, although in law it would be illicit for him to use the holy orders he has received, nevertheless, he could be permitted by dispensation.  
 
@@ -306,7 +306,7 @@ Furthermore (2), holiness is required in the reception of holy orders, so that o
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that, as Dionysius says, *as more subtle and bright essences filled by the influx of the sun’s splendors carry the surpassing light in them into other bodies to the resemblance of the sun, so no one should dare to be the leader of others into any divine thing unless he has become most staunchly God’s and most like God*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, p. 3, n. 14 (PG 3:445). Therefore, since in any level of holy orders a man is established as a leader of others in divine matters, man sins mortally as though presumptuous who approaches holy orders conscious of mortal sin. And thus sanctity of life is required for holy orders by the necessity of a precept, but not for the necessity of the sacrament. For this reason if a wicked man is ordained, he nevertheless possesses holy orders, although with sin.***
+To the first question, I answer that, as Dionysius says, *as more subtle and bright essences filled by the influx of the sun’s splendors carry the surpassing light in them into other bodies to the resemblance of the sun, so no one should dare to be the leader of others into any divine thing unless he has become most staunchly God’s and most like God*.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 3, p. 3, n. 14 (PG 3:445). Therefore, since in any level of holy orders a man is established as a leader of others in divine matters, man sins mortally as though presumptuous who approaches holy orders conscious of mortal sin. And thus sanctity of life is required for holy orders by the necessity of a precept, but not for the necessity of the sacrament. For this reason if a wicked man is ordained, he nevertheless possesses holy orders, although with sin.  
 
 Reply Obj. 1: Just as the sacraments that a sinner dispenses are valid, so is the sacrament of orders that he receives. And just as he administers them unworthily, he also receives it unworthily.  
 
@@ -316,7 +316,7 @@ Reply Obj. 3: There are some medicines that require strength of nature, otherwis
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that any act of a man, if it should be ordered, must be under the direction of his reason. Therefore, for a man to exercise the office of holy orders, he must have as much knowledge as suffices for him to be directed in the act of that level of holy orders. Therefore, such knowledge is required in someone who must be promoted to holy orders, and that he be completely instructed in the whole of Scripture, but more and less according as his office extends to more or fewer things, so that, namely, those who, undertaking the care of souls, are set above others, know those things that pertain to the teaching of faith and morals, and others know those things that have to do with the exercise of their degree of orders.***
+To the second question, it should be said that any act of a man, if it should be ordered, must be under the direction of his reason. Therefore, for a man to exercise the office of holy orders, he must have as much knowledge as suffices for him to be directed in the act of that level of holy orders. Therefore, such knowledge is required in someone who must be promoted to holy orders, and that he be completely instructed in the whole of Scripture, but more and less according as his office extends to more or fewer things, so that, namely, those who, undertaking the care of souls, are set above others, know those things that pertain to the teaching of faith and morals, and others know those things that have to do with the exercise of their degree of orders.  
 
 Reply Obj. 1: A priest has two acts: one principally toward the true body of Christ, and the other, secondary one, toward the mystical body of Christ. Now the second act depends on the first, but not vice versa. And so some men are promoted to the priesthood to whom the first act alone is committed, like religious to whom the care of souls is not committed; and the law is not required from the mouths of such as these, but only that they consecrate the sacraments. And therefore for such as these it is enough if they have enough knowledge that they can observe with due solemnity what has to do with completing the sacrament. Now others are promoted to another act, which is toward the mystical body of Christ, and from the mouths of these the people do require the law. Therefore, knowledge of the law should be in them, not indeed so that they may know all difficult questions of the law, for in those matters they have recourse to their superiors, but so that they know what the people should believe and observe from the law. But it pertains to higher priests, namely, bishops, that they also know those things that can cause difficulty in the law; and the higher degree they are established in, the more they should know.  
 
@@ -326,7 +326,7 @@ Reply Obj. 3: It does not pertain to a lector to give understanding of the Sacre
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the cause should be proportionate to its effect. And therefore as in Christ, from whom grace comes down to all people, there had to be the fullness of grace, so in the Church’s ministers, to whom it does not belong to give grace but the sacraments of grace, the degrees of orders are not established from having grace, but from receiving some sacrament of grace.***
+To the third question, it should be said that the cause should be proportionate to its effect. And therefore as in Christ, from whom grace comes down to all people, there had to be the fullness of grace, so in the Church’s ministers, to whom it does not belong to give grace but the sacraments of grace, the degrees of orders are not established from having grace, but from receiving some sacrament of grace.  
 
 Reply Obj. 1: Chrysostom takes the name of priest as to the interpretation of the name, according as ‘sacer-dotal’ means ‘giving sacred things’. For then any just person, to the extent that he gives sacred merits to help someone, has this interpretation of sacerdotal. But we are not speaking here according to the meaning of the name, for this noun ‘priest’ (*sacerdos*) was instituted to mean the one who gives sacred things in administering the sacraments.  
 
@@ -334,7 +334,7 @@ Reply Obj. 2: Natural things are made in one degree above another according as t
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that the Lord describes *a faithful servant who is set over his household, so that he may give to them a measure of wheat*;Luke 12:42; cf. Matthew 24:45. and for this reason he is guilty of infidelity who gives someone divine things above his measure. Now this is what someone does who promotes an unworthy person. And therefore he commits a mortal offense, as being unfaithful to the highest Lord. And especially because this tends to the detriment of the Church and divine honor, which is advanced by good ministers. For a person would be unfaithful to an earthly master, if he placed useless people in his service.***
+To the fourth question, it should be said that the Lord describes *a faithful servant who is set over his household, so that he may give to them a measure of wheat*;Luke 12:42; cf. Matthew 24:45. and for this reason he is guilty of infidelity who gives someone divine things above his measure. Now this is what someone does who promotes an unworthy person. And therefore he commits a mortal offense, as being unfaithful to the highest Lord. And especially because this tends to the detriment of the Church and divine honor, which is advanced by good ministers. For a person would be unfaithful to an earthly master, if he placed useless people in his service.  
 
 Reply Obj. 1: God never so deserts his Church that suitable ministers are not sufficiently found for the needs of the people, if worthy ones were promoted and unworthy ones rejected. And if not as many ministers can be found as now, *it would be better to have a few good ministers than many bad ones*, as blessed Clement says.Gratian, *Decretals*, pt. 1, d. 23, can. 4, ‘Tales’; cf. Pseudo-Clement of Rome, *Epistle to James* (MA 1:127).  
 
@@ -344,7 +344,7 @@ Reply Obj. 3: At least it is required that the person ordaining not know of anyt
 
 Response to Quaestiuncula 5  
 
-***To the fifth question, it should be said that the law commands that *a man exercise justly those things that are just*.See Deuteronomy 16:20. And therefore any man who does unworthily what pertains to him by holy orders executes unjustly what is just; and he acts against the precept of the law, and even sins mortally by this. Now, when anyone handles any sacred office with mortal sin, there is no doubt that he does it unworthily; and therefore it is evident that he sins mortally.***
+To the fifth question, it should be said that the law commands that *a man exercise justly those things that are just*.See Deuteronomy 16:20. And therefore any man who does unworthily what pertains to him by holy orders executes unjustly what is just; and he acts against the precept of the law, and even sins mortally by this. Now, when anyone handles any sacred office with mortal sin, there is no doubt that he does it unworthily; and therefore it is evident that he sins mortally.  
 
 Reply Obj. 1: He is not entrapped such that he must necessarily sin, for he can abandon his sin or resign the office that obliged him to exercise his orders.  
 
@@ -358,7 +358,7 @@ Question 2
 
 ***Degrees of holy orders***
 
-***Next we ask about the distinction between orders; and concerning this, three questions arise:***
+Next we ask about the distinction between orders; and concerning this, three questions arise:  
 
 first, about their distinction;  
 
@@ -370,7 +370,7 @@ first, about their distinction;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallel: *SCG* IV, ch. 75. It seems that many levels of orders should not be distinguished. For the greater a certain power is, the less it is multiplied. But this sacrament is nobler than other sacraments, inasmuch as it constitutes the recipients on a level above others. Therefore, since other sacraments are not distinguished into many things that receive the predication of the whole, neither should this sacrament be distinguished into multiple orders.***
+Obj. 1: To the first question we proceed thus.Parallel: *SCG* IV, ch. 75. It seems that many levels of orders should not be distinguished. For the greater a certain power is, the less it is multiplied. But this sacrament is nobler than other sacraments, inasmuch as it constitutes the recipients on a level above others. Therefore, since other sacraments are not distinguished into many things that receive the predication of the whole, neither should this sacrament be distinguished into multiple orders.  
 
 Obj. 2: Furthermore, if it is divided, either it is a division of the whole into integral parts or into subjective parts. It is not into integral parts, for then they would not receive the predication of the whole. Therefore, it is a division into subjective parts. But subjective parts receive in the plural the predication of the remote genus as well as proximate genus, as man and donkey are several animals, and several animate bodies. Therefore the priesthood and diaconate, as they are several orders, so also are they several sacraments, since sacrament is as the genus for holy orders.  
 
@@ -382,7 +382,7 @@ Furthermore (2), the ministry of the New Testament is more worthy than the minis
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that there are not seven orders.Parallels: *Contra impugn*. 4; *Super I Tim*. 3, lec. 2; *SCG* IV, ch. 75. For the Church’s orders are ordered to hierarchical acts. But there are only three hierarchical acts, namely, to purify, to illuminate, and to perfect, according to which Dionysius distinguishes three levels of orders in the *Ecclesiastical Hierarchy*, Chapter 5.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 6 (PG 3:505). Therefore, there are not seven.***
+Obj. 1: Moreover, it seems that there are not seven orders.Parallels: *Contra impugn*. 4; *Super I Tim*. 3, lec. 2; *SCG* IV, ch. 75. For the Church’s orders are ordered to hierarchical acts. But there are only three hierarchical acts, namely, to purify, to illuminate, and to perfect, according to which Dionysius distinguishes three levels of orders in the *Ecclesiastical Hierarchy*, Chapter 5.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 6 (PG 3:505). Therefore, there are not seven.  
 
 Obj. 2: Furthermore, all sacraments have efficacy and authority from Christ’s institution, or at least that of his apostles. But in the teaching of Christ and the apostles, mention is made only of presbyters and deacons. Therefore, it seems that there are no other orders.  
 
@@ -394,7 +394,7 @@ Furthermore (5), the prophecy of the Psalms is the nobler among the other prophe
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that holy orders should not be distinguished by sacred and non-sacred.Parallel: *In IV Sent*. d. 7, a. 1, qa. 3; *SCG* IV, ch. 75. For all the degrees of orders are certain sacraments. But all the sacraments are sacred. Therefore, all the orders are sacred.***
+Obj. 1: Moreover, it seems that holy orders should not be distinguished by sacred and non-sacred.Parallel: *In IV Sent*. d. 7, a. 1, qa. 3; *SCG* IV, ch. 75. For all the degrees of orders are certain sacraments. But all the sacraments are sacred. Therefore, all the orders are sacred.  
 
 Obj. 2: Furthermore, according to the Church’s orders a person is deputed to nothing but divine offices. But all such things are sacraments. Therefore, all orders are sacred.  
 
@@ -402,7 +402,7 @@ On the contrary, sacred orders impede someone from contracting marriage, and ren
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that a multitude of orders was introduced into the Church for three reasons. First, to emphasize God’s wisdom, which shines forth most in ordered distinction, both in natural things and in spiritual things, which is signified in the fact that *the queen of Sheba, seeing the order of Solomon’s ministers, had no more spirit in her*, fainting in admiration of his wisdom.See 1 Kings 10:4–5. Second, to come to the aid of human weakness, for all the things that pertained to divine mysteries could not be carried out by one person without great difficulty. And therefore different orders are distinguished for different offices. And this is seen by the fact that the Lord gave Moses *seventy elders of the people* to help him (Num 11:16–17). Third, so that a more ample path for advancement might be given to men when they distribute more people among different offices, so that all may be God’s cooperators, for *nothing is more divine than this*, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 3, n. 2 (PG 3:165).***
+To the first question, I answer that a multitude of orders was introduced into the Church for three reasons. First, to emphasize God’s wisdom, which shines forth most in ordered distinction, both in natural things and in spiritual things, which is signified in the fact that *the queen of Sheba, seeing the order of Solomon’s ministers, had no more spirit in her*, fainting in admiration of his wisdom.See 1 Kings 10:4–5. Second, to come to the aid of human weakness, for all the things that pertained to divine mysteries could not be carried out by one person without great difficulty. And therefore different orders are distinguished for different offices. And this is seen by the fact that the Lord gave Moses *seventy elders of the people* to help him (Num 11:16–17). Third, so that a more ample path for advancement might be given to men when they distribute more people among different offices, so that all may be God’s cooperators, for *nothing is more divine than this*, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 3, n. 2 (PG 3:165).  
 
 Reply Obj. 1: Those sacraments are given for receiving certain effects, but this sacrament is given chiefly for certain acts to be done. And thus according to the diversity of acts it is necessary that the sacrament of holy orders be distinguished just as powers are distinguished by their acts.  
 
@@ -412,7 +412,7 @@ Reply Obj. 3: Although in a kingdom the whole fullness of power resides with the
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that some people gather the sufficiency of orders from a certain adaptation to the gratuitous graces, which are treated in 1 Corinthians 12. For they say that *the word of wisdom* relates to the bishop, for he is the orderer of the others, which pertains to wisdom; *the word of knowledge* pertains to the priest, for he must have the key of wisdom; *faith* to the deacon, who preaches the Gospel; *works of power* to the subdeacon, who applies himself to works of perfection by the vow of continence; *interpretation of words* to the acolyte, which is signified in the light that he carries; *grace of healing* to the exorcist; *kinds of tongues* to the psalmist; *prophecy* to the lector; *discernment of spirits* to the porter, who refuses some and admits others. But this is nothing, for gratuitous graces are not given to the same person, as the orders are given to the same person; for it says: *there are diversities of graces* (1 Cor 12:4). And again they list certain things that are not called orders, namely, the episcopate and the state of psalmist.***
+To the second question, it should be said that some people gather the sufficiency of orders from a certain adaptation to the gratuitous graces, which are treated in 1 Corinthians 12. For they say that *the word of wisdom* relates to the bishop, for he is the orderer of the others, which pertains to wisdom; *the word of knowledge* pertains to the priest, for he must have the key of wisdom; *faith* to the deacon, who preaches the Gospel; *works of power* to the subdeacon, who applies himself to works of perfection by the vow of continence; *interpretation of words* to the acolyte, which is signified in the light that he carries; *grace of healing* to the exorcist; *kinds of tongues* to the psalmist; *prophecy* to the lector; *discernment of spirits* to the porter, who refuses some and admits others. But this is nothing, for gratuitous graces are not given to the same person, as the orders are given to the same person; for it says: *there are diversities of graces* (1 Cor 12:4). And again they list certain things that are not called orders, namely, the episcopate and the state of psalmist.  
 
 And so others assign them according to a certain likeness to the heavenly hierarchy, in which the orders are distinguished according to purification, illumination, and perfection. For they say that the porter purifies by outwardly separating the good from the bad even physically; the acolyte does this inside, for by the light that he carries, he signifies that he drives off interior darkness; but the exorcist does this in both ways, for the devil that he expels troubles us in both ways. But the illumination that happens by teaching as to the prophetic teaching is done by lectors; as to the evangelical teaching, by deacons; as to the apostolic teaching, by subdeacons. But general perfecting, as it belongs to penance, baptism, and things like this, is done by the priest; but excelling perfection is done by the bishop, like the consecration of priests and virgins; but the most excellent is done by the supreme pontiff, in whom the fullness of authority exists. But this is nothing: both because the orders of the heavenly hierarchy are not distinguished by the hierarchical actions mentioned, since each of them apply to each of the orders; and because, according to Dionysius,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 5 (PG 3:505); n. 6 (PG 3:508). perfecting only applies to the bishop, while illuminating applies to priests, and purifying to all the ministers.  
 
@@ -442,7 +442,7 @@ Reply Obj. 5: The state of psalmist is not an order, but an office attached to h
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that there are two ways that orders can be called sacred. In one way, essentially, and then every degree of orders is sacred, since it is a certain sacrament; in the other way, by reason of the matter about which it has an act, and then those orders are called sacred that have some act concerning some consecrated thing. And in this way there are only three sacred orders, namely, priest, and deacon, who has his act concerning the consecrated body and blood of Christ, and subdeacon, who has his act concerning sacred vessels. And this is why continence is also prescribed for them, so that the ones who handle holy things may be holy and clean.***
+To the third question, it should be said that there are two ways that orders can be called sacred. In one way, essentially, and then every degree of orders is sacred, since it is a certain sacrament; in the other way, by reason of the matter about which it has an act, and then those orders are called sacred that have some act concerning some consecrated thing. And in this way there are only three sacred orders, namely, priest, and deacon, who has his act concerning the consecrated body and blood of Christ, and subdeacon, who has his act concerning sacred vessels. And this is why continence is also prescribed for them, so that the ones who handle holy things may be holy and clean.  
 
 And by this the answers to the objections are clear.  
 
@@ -450,7 +450,7 @@ Article 2
 
 ***The proper acts pertaining to each degree of holy orders***
 
-***Obj. 1: To the second we proceed thus.Parallel: SCG IV, ch. 75. It seems that the acts of the orders are inappropriately assigned in the text. For a person is prepared to receive the body of Christ by cleansing. But the preparation of those receiving the sacrament pertains to the lower orders. Therefore, cleansing from sins is inappropriately included among the acts of a priest.***
+Obj. 1: To the second we proceed thus.Parallel: SCG IV, ch. 75. It seems that the acts of the orders are inappropriately assigned in the text. For a person is prepared to receive the body of Christ by cleansing. But the preparation of those receiving the sacrament pertains to the lower orders. Therefore, cleansing from sins is inappropriately included among the acts of a priest.  
 
 Obj. 2: Furthermore, by baptism a man is configured to God by receiving a configuring character. But to pray and offer oblations are acts immediately directed to God. Therefore, every baptized person can perform these acts, and not only priests.  
 
@@ -492,7 +492,7 @@ Article 3
 
 ***When the character is imprinted in each degree of orders***
 
-***Obj. 1: To the third question we proceed thus. It seems that the priest’s character is not imprinted in the very presentation of the chalice. For the priest’s consecration happens by an anointing, just like confirmation. But in confirmation a character is imprinted in the anointing itself. Therefore, also in the priesthood, and not at the presentation of the chalice.***
+Obj. 1: To the third question we proceed thus. It seems that the priest’s character is not imprinted in the very presentation of the chalice. For the priest’s consecration happens by an anointing, just like confirmation. But in confirmation a character is imprinted in the anointing itself. Therefore, also in the priesthood, and not at the presentation of the chalice.  
 
 Obj. 2: Furthermore, the Lord gave priestly power to his disciples when he said, *receive the Holy Spirit: what sins you have forgiven, are forgiven them* (John 20:22–23). But the Spirit is given by the imposition of hands. Therefore, in the imposition of hands the character of orders is imprinted.  
 
@@ -524,7 +524,7 @@ Question 3
 
 ***Things associated with holy orders***
 
-***Next we ask about some things that are attached to holy orders; and concerning this, three questions arise:***
+Next we ask about some things that are attached to holy orders; and concerning this, three questions arise:  
 
 first, about the crown-shaped tonsure;  
 
@@ -536,7 +536,7 @@ first, about the crown-shaped tonsure;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus. It seems that the ordained should not be tonsured with a crown. For the Lord threatens captivity and dispersion to those who are so groomed, as is clear from Deuteronomy 32:42: *and of the captivity of the bare-headed enemies*; and Jeremiah 49:32: *I will scatter to every wind those who have their temples shaved*. But captivity is not due to Christ’s ministers, but liberty. Therefore the crown, tonsure, and shaving does not befit them.***
+Obj. 1: To the first question we proceed thus. It seems that the ordained should not be tonsured with a crown. For the Lord threatens captivity and dispersion to those who are so groomed, as is clear from Deuteronomy 32:42: *and of the captivity of the bare-headed enemies*; and Jeremiah 49:32: *I will scatter to every wind those who have their temples shaved*. But captivity is not due to Christ’s ministers, but liberty. Therefore the crown, tonsure, and shaving does not befit them.  
 
 Obj. 2: Furthermore, the truth should correspond to the figure. But the figure of the crown came first in the Old Testament in the tonsure of the Nazarites, as it says in the text.Peter Lombard, in ch. 4 of this distinction, states that originally Nazarites did not cut their hair, but later they cut it all. Therefore, since the Nazarites were not ordained for divine ministry, it seems that a tonsure or crown-shaped haircut should not be given to the Church’s ministers; and this is also seen by the fact that lay-brothers, who are not the Church’s ministers, are tonsured in religious life.  
 
@@ -548,7 +548,7 @@ Furthermore (2), *hair is given as a veil*, as is clear from 1 Corinthians 11:15
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the crown is holy orders. For in the Church’s actions spiritual things correspond to physical ones. But the crown is a certain physical sign that the Church employs. Therefore, it seems that an interior sign corresponds to it; and so the character would be imprinted in the crowning, and this will be holy orders.***
+Obj. 1: Moreover, it seems that the crown is holy orders. For in the Church’s actions spiritual things correspond to physical ones. But the crown is a certain physical sign that the Church employs. Therefore, it seems that an interior sign corresponds to it; and so the character would be imprinted in the crowning, and this will be holy orders.  
 
 Obj. 2: Furthermore, just as confirmation and the different orders are given only by the bishop, so too is the crown. But in confirmation and the different orders a character is imprinted. Therefore, also in the crown, and thus the same thing as before.  
 
@@ -560,7 +560,7 @@ Furthermore (2), in the conferral of any level of holy orders, mention is made o
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that by receiving the crown a person renounces temporal goods. For they say when they are crowned, *the Lord is the portion of my inheritance* (cf. Ps 16:5). But as Jerome says, *the Lord disdains to become a portion with those temporal things*.Jerome, *Epistle 52, to Nepotian* (PL 22:531). Therefore, he renounces temporal things.***
+Obj. 1: Moreover, it seems that by receiving the crown a person renounces temporal goods. For they say when they are crowned, *the Lord is the portion of my inheritance* (cf. Ps 16:5). But as Jerome says, *the Lord disdains to become a portion with those temporal things*.Jerome, *Epistle 52, to Nepotian* (PL 22:531). Therefore, he renounces temporal things.  
 
 Obj. 2: Furthermore, the righteousness of the ministers of the New Testament should exceed that of ministers of the Old Testament, as is clear from Matthew 5:20. But ministers of the Old Testament, namely, the Levites, *did not receive a portion of their inheritance with their brothers*.See Numbers 18:20; Deut 10:9 and 18:1. Therefore, neither should the ministers of the New Testament.  
 
@@ -572,7 +572,7 @@ Furthermore (2), if they could not do this, there would seem to be no difference
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that for those who are employed in the divine ministry, a tonsure and shaving in the shape of a crown are fitting, both by reason of the figure, for a crown is a sign of rule and also a sign of perfection, since it is circular. Now those who are employed in the divine ministry gain royal dignity, and they should be perfect in virtue. It also befits them by reason of removing their hair, both on the higher part through shaving, lest their minds be hampered from the contemplation of divine things by temporal concerns; and on the lower part by the tonsure, lest their senses be clouded by temporal things.***
+To the first question, I answer that for those who are employed in the divine ministry, a tonsure and shaving in the shape of a crown are fitting, both by reason of the figure, for a crown is a sign of rule and also a sign of perfection, since it is circular. Now those who are employed in the divine ministry gain royal dignity, and they should be perfect in virtue. It also befits them by reason of removing their hair, both on the higher part through shaving, lest their minds be hampered from the contemplation of divine things by temporal concerns; and on the lower part by the tonsure, lest their senses be clouded by temporal things.  
 
 Reply Obj. 1: The Lord threatens those who were doing this for the worship of demons.  
 
@@ -582,7 +582,7 @@ Reply Obj. 3: Not only the abandonment of temporal things should be signified, b
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the Church’s ministers are separated from the people in order to be free for divine worship. Now in divine worship there are some things that are to be practiced through specific powers, and the spiritual power of holy orders is given for these things. But there are some things that are done together by the whole company of ministers, like saying the divine praises, and no power of holy orders is required for this, but only a certain assignment to such an office, and this is done by the crown. And therefore it is not holy orders, but a forerunner to holy orders.***
+To the second question, it should be said that the Church’s ministers are separated from the people in order to be free for divine worship. Now in divine worship there are some things that are to be practiced through specific powers, and the spiritual power of holy orders is given for these things. But there are some things that are done together by the whole company of ministers, like saying the divine praises, and no power of holy orders is required for this, but only a certain assignment to such an office, and this is done by the crown. And therefore it is not holy orders, but a forerunner to holy orders.  
 
 Reply Obj. 1: The crown has something spiritual that corresponds to it interiorly, as a sign corresponds to the thing signified, but this is not a spiritual power. And thus a character is not imprinted with the crown, nor is holy orders.  
 
@@ -592,7 +592,7 @@ Reply Obj. 3: By the fact that someone is a cleric, he is in a higher state than
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that in receiving the crown, clerics do not renounce their patrimony nor other temporal things: for earthly possessions are not contrary to the divine worship that clerics are appointed for. But excessive concern for possessions is, for, as Gregory says, *it is the love of wealth that is sinful*.Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 10, par. 30.***
+To the third question, it should be said that in receiving the crown, clerics do not renounce their patrimony nor other temporal things: for earthly possessions are not contrary to the divine worship that clerics are appointed for. But excessive concern for possessions is, for, as Gregory says, *it is the love of wealth that is sinful*.Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 10, par. 30.  
 
 Reply Obj. 1: The Lord disdains to become a portion and be loved as one thing equal with others, namely, so that someone should place his end in God and in the things of the world. Yet he does not disdain to become the portion of those who possess the things of the world in such a way that they are not hampered from divine worship by them.  
 
@@ -606,7 +606,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallels: above, d. 23, q. 1, a. 3, qa. 3, ad 1; *ST* III, q. 82, a. 1, ad 4; *SCG* IV, ch. 76. It seems that there should not be a certain episcopal power above the priestly order. For as is said in the text,Peter Lombard, ch. 11 of this distinction. *priestly orders took their beginning from Aaron*. But in the old law no one was above Aaron. Therefore, neither in the new law should there be any power above the priestly power.***
+Obj. 1: To the second question we proceed thus.Parallels: above, d. 23, q. 1, a. 3, qa. 3, ad 1; *ST* III, q. 82, a. 1, ad 4; *SCG* IV, ch. 76. It seems that there should not be a certain episcopal power above the priestly order. For as is said in the text,Peter Lombard, ch. 11 of this distinction. *priestly orders took their beginning from Aaron*. But in the old law no one was above Aaron. Therefore, neither in the new law should there be any power above the priestly power.  
 
 Obj. 2: Furthermore, powers are ordered according to acts. But no sacred act can be greater than consecrating the body of Christ, which is what priestly power is for. Therefore, there should not be episcopal power above priestly power.  
 
@@ -618,7 +618,7 @@ Furthermore (2), divine ministries should be more ordered than human ones. But t
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that the episcopate is an order.Parallels: *In IV Sent*. d. 7, q. 3, a. 1, qa. 2, ad 3; d. 23, q. 1, a. 3, qa. 3, ad 1; *de Perfectione*, ch. 23; *Quodl*. III, q. 6, a. 3, ad 5. First, by the fact that DionysiusPseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 6 (PG 3:505). assigns three orders to the ecclesiastical hierarchy, the bishop, the priest, and the minister. It also says in the text that there is a four-part order of bishops.Lombard, ch. 17 in the present distinction.***
+Obj. 1: Moreover, it seems that the episcopate is an order.Parallels: *In IV Sent*. d. 7, q. 3, a. 1, qa. 2, ad 3; d. 23, q. 1, a. 3, qa. 3, ad 1; *de Perfectione*, ch. 23; *Quodl*. III, q. 6, a. 3, ad 5. First, by the fact that DionysiusPseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 6 (PG 3:505). assigns three orders to the ecclesiastical hierarchy, the bishop, the priest, and the minister. It also says in the text that there is a four-part order of bishops.Lombard, ch. 17 in the present distinction.  
 
 Obj. 2: Furthermore, holy orders is nothing other than a certain degree of power for distributing spiritual things. But bishops can administer some sacraments that priests cannot administer, like confirmation and holy orders. Therefore, the episcopate is an order.  
 
@@ -630,7 +630,7 @@ Furthermore (2), major orders are only conferred on Saturdays.Gratian, *Decretal
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that there cannot be anyone higher than a bishop in the Church.Parallels: *SCG* IV, ch. 76; *Contra errores Graec*., pt. 2, chs. 32–38. For all bishops are successors of the apostles. But the power that was given to one of the apostles, namely, Peter, in Matthew 16:19, was also given to all the apostles in John 20:23.Cf. Matthew 18:18. Therefore, all bishops are equals, and one is not above another.***
+Obj. 1: Moreover, it seems that there cannot be anyone higher than a bishop in the Church.Parallels: *SCG* IV, ch. 76; *Contra errores Graec*., pt. 2, chs. 32–38. For all bishops are successors of the apostles. But the power that was given to one of the apostles, namely, Peter, in Matthew 16:19, was also given to all the apostles in John 20:23.Cf. Matthew 18:18. Therefore, all bishops are equals, and one is not above another.  
 
 Obj. 2: Furthermore, the Church’s rites should be more like the rites of the Jews than the rites of the gentiles. But the distinction of episcopal dignity and the ordination of one over another, as it says in the text,See Lombard, ch. 17 in this distinction. was introduced by the gentiles; it did not exist in the Old Testament. Therefore, neither should one bishop be over another in the Church.  
 
@@ -642,7 +642,7 @@ Furthermore (2), blessed Cyril, the bishop of Alexandria, says: *so that we may 
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that a priest has two acts: one principal act, namely, to consecrate the true body of Christ; and another secondary act, namely, to prepare the people for the reception of this sacrament, as was said above.In this distinction, q. 2, a. 1, qa. 2, and a. 2. Now as to the first act, the acts of a priest do not depend on any higher power except divine power; but as to the second, they do depend on a certain higher human power. For every power that cannot issue in act without the presupposition of certain things being set in order depends on the power that caused those things to be set in order. Now, a priest cannot absolve and bind except by the previously established jurisdiction of his superior, by which those whom he absolves are placed under him. But he can consecrate any matter determined by Christ; nor is anything else required as necessary to the sacrament, although by a certain fittingness an episcopal act is presupposed in the consecration of an altar and its cloths. And so it is evident that there must be episcopal power above the priestly power as to the secondary act of a priest, but not as to the first.***
+To the first question, I answer that a priest has two acts: one principal act, namely, to consecrate the true body of Christ; and another secondary act, namely, to prepare the people for the reception of this sacrament, as was said above.In this distinction, q. 2, a. 1, qa. 2, and a. 2. Now as to the first act, the acts of a priest do not depend on any higher power except divine power; but as to the second, they do depend on a certain higher human power. For every power that cannot issue in act without the presupposition of certain things being set in order depends on the power that caused those things to be set in order. Now, a priest cannot absolve and bind except by the previously established jurisdiction of his superior, by which those whom he absolves are placed under him. But he can consecrate any matter determined by Christ; nor is anything else required as necessary to the sacrament, although by a certain fittingness an episcopal act is presupposed in the consecration of an altar and its cloths. And so it is evident that there must be episcopal power above the priestly power as to the secondary act of a priest, but not as to the first.  
 
 Reply Obj. 1: As a priest, Aaron was priest and pontiff,See Exodus 25:19. that is, the prince of priests.See Isidore, *Etymologies* (OCT, ed. Lindsay), Bk. 7, ch. 12, par. 13; cf. Leviticus 21:10. Therefore, the priestly power took its beginning from him insofar as he was a priest who offered sacrifices, which was also permitted to lower priests;See Hebrews 9:9. but not from him insofar as he was pontiff, by which power he was able to do certain things which were not permitted to others, like entering once per year into the holy of holies.See Hebrews 9:7, Exodus 30:10, Leviticus 16:2.  
 
@@ -652,7 +652,7 @@ Reply Obj. 3: Just as the perfections of all natural things pre-exist in an exem
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that order can be taken in two ways. In one way according as it is a sacrament; and then, as was said above,In this distinction, q. 2, a. 2. every order is directed to the sacrament of the Eucharist; therefore, since the bishop does not have a higher power than a priest with respect to it, there will be no episcopal order. In another way orders can be considered according as they are certain offices regarding certain sacred actions; and then, since the bishop has power over a priest in hierarchical actions regarding the mystical body, there will be an episcopal order. And it is according to this that the authorities quoted are speaking.***
+To the second question, it should be said that order can be taken in two ways. In one way according as it is a sacrament; and then, as was said above,In this distinction, q. 2, a. 2. every order is directed to the sacrament of the Eucharist; therefore, since the bishop does not have a higher power than a priest with respect to it, there will be no episcopal order. In another way orders can be considered according as they are certain offices regarding certain sacred actions; and then, since the bishop has power over a priest in hierarchical actions regarding the mystical body, there will be an episcopal order. And it is according to this that the authorities quoted are speaking.  
 
 Therefore, the answer to the first objection is clear.  
 
@@ -662,7 +662,7 @@ Reply Obj. 3: Episcopal power is not only about jurisdiction but also a degree o
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that wherever there are many directors ordered into one, there must be a certain universal director above the particular directors; for in all virtues and arts, as it says in the *Ethics* 1,Aristotle, *Nicomachean Ethics*, Bk. 1, ch. 1, 1094a9, and ch. 2, 1094b4. the ordering is according to the order of ends. Now the common good is more divine than the specific good; and therefore above the ruling power that aims for the specific good, there must be a universal ruling power with respect to the common good, otherwise there could be no binding together in one. And therefore since the whole Church is one body, it is necessary, if this unity should be conserved, that there be some ruling power with respect to the whole Church above episcopal power, by which each individual church is ruled. And this is the power of the pope. And for this reason, those who deny this power are called ‘schismatics,’ as dividing the ecclesiastical unity. And between a simple bishop and the pope there are other degrees of dignity corresponding to the degrees of the union according to which one congregation or community includes another, as the community of one province includes the community of a city, and the community of a kingdom includes the community of one province; and the community of the whole world includes the community of one kingdom.***
+To the third question, it should be said that wherever there are many directors ordered into one, there must be a certain universal director above the particular directors; for in all virtues and arts, as it says in the *Ethics* 1,Aristotle, *Nicomachean Ethics*, Bk. 1, ch. 1, 1094a9, and ch. 2, 1094b4. the ordering is according to the order of ends. Now the common good is more divine than the specific good; and therefore above the ruling power that aims for the specific good, there must be a universal ruling power with respect to the common good, otherwise there could be no binding together in one. And therefore since the whole Church is one body, it is necessary, if this unity should be conserved, that there be some ruling power with respect to the whole Church above episcopal power, by which each individual church is ruled. And this is the power of the pope. And for this reason, those who deny this power are called ‘schismatics,’ as dividing the ecclesiastical unity. And between a simple bishop and the pope there are other degrees of dignity corresponding to the degrees of the union according to which one congregation or community includes another, as the community of one province includes the community of a city, and the community of a kingdom includes the community of one province; and the community of the whole world includes the community of one kingdom.  
 
 Reply Obj. 1: Although the power of binding and loosing was given to all apostles in common, nevertheless so that in this power a certain order might be signified, it was first given to Peter alone, so that it might be shown that from him this power should descend to the others, which is also why it was said to him in the singular, *strengthen your brothers* (Luke 22:32), and *feed my sheep* (Jn 21:17), that is, *in my place*, about which Chrysostom says: *be the head and leader of brothers, so that they accepting you in my place, may preach and confirm your seat on your throne, everywhere in the world*.*Homilies on John*, Hom. 88 (PG 59:479); cf. Thomas, *Contra errores Graecorum*, pt. 2, ch. 21, n. 4.  
 
@@ -674,7 +674,7 @@ Article 3
 
 ***On sacred vestments***
 
-***Obj. 1: To the third question we proceed thus. It seems that the vestments of the ministers were not appropriately instituted in the Church. For the ministers of the New Testament are more bound to chastity than the ministers of the Old Testament. But among the different vestments of the Old Testament ministers there were thigh coverings as a sign of chastity.Exodus 28:42. Therefore, much more should there be now among the vestments of the ministers.***
+Obj. 1: To the third question we proceed thus. It seems that the vestments of the ministers were not appropriately instituted in the Church. For the ministers of the New Testament are more bound to chastity than the ministers of the Old Testament. But among the different vestments of the Old Testament ministers there were thigh coverings as a sign of chastity.Exodus 28:42. Therefore, much more should there be now among the vestments of the ministers.  
 
 Obj. 2: Furthermore, the priesthood of the New Testament is nobler than the priesthood of the Old Testament. But the old priests had mitres, which is a sign of dignity.Exodus 29:9. Therefore, the priests of the new law should have them.  
 
@@ -720,7 +720,7 @@ Reply Obj. 8: The Roman pontiff does not use a crozier because Peter sent it to 
 
 Exposition of the Text  
 
-****Now let us proceed to the consideration of sacred ordination*.*Sententiae* IV, 24.1 (131). 1. It seems that this is poorly ordered; for this sacrament is for administering the other sacraments, and so it should be ordered before the others. And it should be said that the Master orders according to what it is ordered to; and since the common good to which this sacrament is ordered presupposes the good of the person to which the previous ones are ordered, therefore he could not have considered this one earlier.***
+*Now let us proceed to the consideration of sacred ordination*.*Sententiae* IV, 24.1 (131). 1. It seems that this is poorly ordered; for this sacrament is for administering the other sacraments, and so it should be ordered before the others. And it should be said that the Master orders according to what it is ordered to; and since the common good to which this sacrament is ordered presupposes the good of the person to which the previous ones are ordered, therefore he could not have considered this one earlier.  
 
 *And in the sacrament of the sevenfold spirit, there are seven ecclesiastical degrees*.*Sent*. IV, 24.3 (133). 2. A certain interpretation is that in any order all the gifts of the Holy Spirit are given, for Matthias was chosen by lot, about which Dionysius says,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, pt. 3, n. 5. *some people have said some things, others have said other things about the divine lot given to Matthias, nor correctly, in my view. I myself will state my sense. For it seems to me that the Scriptures named the divine lot as a certain gift declaring Matthias as revealed by divine choice*.  
 

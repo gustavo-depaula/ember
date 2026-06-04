@@ -1,5 +1,7 @@
 # Chapter 41
 
+^41:1^ Taceant ad me insulæ, et gentes fortitudinem mutent; accedant et tunc loquantur, simul ad judicium propinquemus.  
+
 > ^41:2^ Quis suscitavit ab oriente justum, vocavit eum ut sequeretur se? Dabit in conspectu ejus gentes et reges obtinebit, dabit quasi pulverem gladio ejus sicut stipulam vento raptam arcui ejus;
 
 > ^41:3^ persequetur eos. Transibit in pace, semita in pedibus ejus non apparebit.

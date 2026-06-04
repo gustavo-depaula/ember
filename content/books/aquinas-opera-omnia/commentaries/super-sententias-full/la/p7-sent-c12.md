@@ -1,6 +1,8 @@
 # D. 11 - Sacrament-and-reality in the Eucharist
 
-***Postquam determinavit Magister de re contenta in hoc sacramento, ostendens quod verum corpus ibi continetur, hic intendit determinare de conversione panis in corpus Christi, ex qua contingit ut sub sacramento corpus Christi contineatur; et dividitur in partes duas: in prima determinat de praedicta conversione panis in corpus Christi; in secunda ostendit qualiter species remaneant substantiali conversione facta, ibi: *sub alia autem specie tribus de causis carnem et sanguinem tradidit Christus*.***
+***De re et sacramento hujus sacramenti***
+
+Postquam determinavit Magister de re contenta in hoc sacramento, ostendens quod verum corpus ibi continetur, hic intendit determinare de conversione panis in corpus Christi, ex qua contingit ut sub sacramento corpus Christi contineatur; et dividitur in partes duas: in prima determinat de praedicta conversione panis in corpus Christi; in secunda ostendit qualiter species remaneant substantiali conversione facta, ibi: *sub alia autem specie tribus de causis carnem et sanguinem tradidit Christus*.  
 
 Circa primum tria facit: primo inquirit qualis sit praedicta conversio; secundo determinat hanc quaestionem quantum ad id in quo omnes conveniunt, ibi: *formalem tamen non esse cognosco*; tertio determinat eam quantum ad id in quo diversi diversa opinantur, ibi: *quibusdam videtur esse substantialis*. Et haec dividitur in partes tres secundum tres opiniones quas ponit; secunda pars incipit ibi: *quidam vero sic dicunt* etc.; tertia ibi: *alii vero putaverunt*, etc.  
 
@@ -31,7 +33,7 @@ primo, utrum post consecrationem remaneat ibi panis;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod substantia panis remaneat post consecrationem, ut dicit tertia opinio. Damascenus enim dicit: *quia consuetudo est hominibus comedere panem et vinum, conjugavit eis divinitatem, et fecit ea corpus et sanguinem suum*. Sed conjunctio requirit utrumque conjunctorum existere actu. Ergo panis remanet cum corpore Christi.***
+Ad primum sic proceditur. Videtur quod substantia panis remaneat post consecrationem, ut dicit tertia opinio. Damascenus enim dicit: *quia consuetudo est hominibus comedere panem et vinum, conjugavit eis divinitatem, et fecit ea corpus et sanguinem suum*. Sed conjunctio requirit utrumque conjunctorum existere actu. Ergo panis remanet cum corpore Christi.  
 
 Praeterea, illud quod de pane remanet in hoc sacramento post consecrationem, cum sit sacramentum tantum, debet verum corpus Christi, et etiam mysticum, significare. Sed significatio talis non competit pani nisi ratione substantiae suae secundum quam ex diversis granis conficitur, secundum quam etiam reficere et nutrire habet. Ergo oportet quod remaneat in substantia panis.  
 
@@ -43,7 +45,7 @@ Praeterea, si substantia panis ibi remaneret, tunc sumens hoc sacramentum non so
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non debeant species panis remanere. Quia in sacramento veritatis non debet esse aliqua deceptio. Sed cum accidentia ducant in cognitionem ejus quod quid est, secundum Philosophum in 1 *de Anima*, deceptio videtur, ostendere illius accidentia cujus substantia non manet. Ergo ex quo substantia panis non manet, non deberent accidentia ejus remanere.***
+Ulterius. Videtur quod non debeant species panis remanere. Quia in sacramento veritatis non debet esse aliqua deceptio. Sed cum accidentia ducant in cognitionem ejus quod quid est, secundum Philosophum in 1 *de Anima*, deceptio videtur, ostendere illius accidentia cujus substantia non manet. Ergo ex quo substantia panis non manet, non deberent accidentia ejus remanere.  
 
 Praeterea, causae in littera assignatae non videntur convenientes. Fides enim quamvis experimentum rationis effugiat, tamen rationis contradictionem non requirit: quia ea quae sunt fidei non sunt contra rationem, sed supra. Sed quod sub alia specie videatur, hoc non solum contra rationem, sed etiam contra sensum apparet. Ergo non deberet sub alia specie apparere propter meritum fidei.  
 
@@ -57,7 +59,7 @@ Praeterea, usus hujus sacramenti est manducatio, ut supra, dist. 9, dictum est. 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam forma substantialis panis debeat remanere. Operatio enim substantialis non potest fieri sine forma substantiali. Sed nutrire est operatio formae substantialis: quia *nutrit inquantum quid cibus*, ut dicitur in 2 *de Anima*. Ergo cum species quae in sacramento remanent, etiam corporaliter nutriant, ut a quibusdam dicitur, videtur quod forma substantialis panis remaneat.***
+Ulterius. Videtur quod etiam forma substantialis panis debeat remanere. Operatio enim substantialis non potest fieri sine forma substantiali. Sed nutrire est operatio formae substantialis: quia *nutrit inquantum quid cibus*, ut dicitur in 2 *de Anima*. Ergo cum species quae in sacramento remanent, etiam corporaliter nutriant, ut a quibusdam dicitur, videtur quod forma substantialis panis remaneat.  
 
 Praeterea, illud quod non mutatur in aliquid corporis Christi, oportet quod post consecrationem maneat. Sed forma substantialis panis non convertitur in aliquid corporis Christi: quia si converteretur, oporteret quod converteretur in animam, quae est forma substantialis corporis Christi, in quam non convertitur aliquid, ut ex praecedenti dist. patet. Ergo forma substantialis panis manet sicut et accidentia.  
 
@@ -71,7 +73,7 @@ Praeterea, species panis et vini sensibiles sunt sacramentum tantum in Eucharist
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod haec positio, quae ponit substantiam panis ibi remanere post consecrationem simul cum vero corpore, incompetens est huic sacramento, et impossibilis, et haeretica.***
+Respondeo dicendum ad primam quaestionem, quod haec positio, quae ponit substantiam panis ibi remanere post consecrationem simul cum vero corpore, incompetens est huic sacramento, et impossibilis, et haeretica.  
 
 Incompetens quidem, quia impediret venerationem debitam huic sacramento: esset enim idolatriae occasio, si hostiae veneratio latriae exhiberetur, substantia panis ibi remanente. Esset etiam contra significationem sacramenti: quia species non ducerent in verum corpus Christi per modum signi, sed magis in substantiam panis. Esset etiam contra usum sacramenti: quia jam cibus iste non esset pure spiritualis sed etiam corporalis.  
 
@@ -89,7 +91,7 @@ Ad tertium dicendum, quod hanc positionem sequitur gravius inconveniens quam quo
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod accidentia panis eadem numero remanent ibi. Quomodo autem ibi sint, utrum sine subjecto vel alio modo, in sequenti distinct., qu. 1, art. 1, dicetur. Sed ratio quare remaneant, assignatur in littera ex parte usus sacramenti, et quantum ad manducationem spiritualem, quae est per fidem, ut scilicet fides esset majoris meriti quantum ad manducationem sacramentalem, ne scilicet esset nobis horrori, si in propria specie sumeretur, et infidelibus irrisioni. Potest assignari et alia causa ex parte ipsius sacramenti: quia spiritualia in sacramentis per signa corporalia consueverunt ostendi: et quia corpus Christi verum non est cibus corporalis, sed spiritualis; ideo oportuit quod per similitudines sensibiles cibus corporalis significaretur, et eis contineretur.***
+Ad secundam quaestionem dicendum, quod accidentia panis eadem numero remanent ibi. Quomodo autem ibi sint, utrum sine subjecto vel alio modo, in sequenti distinct., qu. 1, art. 1, dicetur. Sed ratio quare remaneant, assignatur in littera ex parte usus sacramenti, et quantum ad manducationem spiritualem, quae est per fidem, ut scilicet fides esset majoris meriti quantum ad manducationem sacramentalem, ne scilicet esset nobis horrori, si in propria specie sumeretur, et infidelibus irrisioni. Potest assignari et alia causa ex parte ipsius sacramenti: quia spiritualia in sacramentis per signa corporalia consueverunt ostendi: et quia corpus Christi verum non est cibus corporalis, sed spiritualis; ideo oportuit quod per similitudines sensibiles cibus corporalis significaretur, et eis contineretur.  
 
 Ad primum ergo dicendum, quod in hoc sacramento non est aliqua deceptio neque fictio. Non enim sensus decipitur, quia non habet judicare nisi de sensibilibus speciebus, quae quidem vere ibi sunt sicut et sensui ostenduntur; neque etiam intellectus, qui habet judicium de substantiis rerum per fidem juvatus.  
 
@@ -101,7 +103,7 @@ Ad quartum dicendum, quod quantum ad ostensionem talis speciei fides potest aedi
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod forma panis substantialis non remanet post consecrationem; et hoc propter tres rationes. Primo, quia in qualibet transmutatione vel conversione terminus a quo est ejusdem generis cum termino ad quem. Illud autem ad quod terminatur conversio, non est forma tantum neque materia tantum, sed substantia existens in actu; et hoc declarant verba substantiva,*Substantiva.—transsubstantiantia* PLE. quae hoc faciunt quod significant. Unde cum in eis exprimatur per hoc pronomen hoc substantia in actu composita, oportet quod illud quod convertitur in corpus Christi, sit etiam substantia composita, non materia panis tantum; et ita forma panis non manet. Secundo, quia frustra remaneret. Accidentia enim manent ut sint signa, quia ad hoc sunt ut per ea de substantia subjacente cognitionem accipiamus, cum sint sensibilia, et ita ad cognitionem intelligibilium via. Sed forma substantialis non est quid sensibile, sed est ordinata ad esse substantiale. Unde cum substantia panis non remaneat, frustra forma substantialis ibi esset. Tertio, quia accidentia non immediate ducerent in corpus Christi, sed in formam substantialem panis remanentem; et ideo deperiret aliquid significationi sacramenti.***
+Ad tertiam quaestionem dicendum, quod forma panis substantialis non remanet post consecrationem; et hoc propter tres rationes. Primo, quia in qualibet transmutatione vel conversione terminus a quo est ejusdem generis cum termino ad quem. Illud autem ad quod terminatur conversio, non est forma tantum neque materia tantum, sed substantia existens in actu; et hoc declarant verba substantiva,*Substantiva.—transsubstantiantia* PLE. quae hoc faciunt quod significant. Unde cum in eis exprimatur per hoc pronomen hoc substantia in actu composita, oportet quod illud quod convertitur in corpus Christi, sit etiam substantia composita, non materia panis tantum; et ita forma panis non manet. Secundo, quia frustra remaneret. Accidentia enim manent ut sint signa, quia ad hoc sunt ut per ea de substantia subjacente cognitionem accipiamus, cum sint sensibilia, et ita ad cognitionem intelligibilium via. Sed forma substantialis non est quid sensibile, sed est ordinata ad esse substantiale. Unde cum substantia panis non remaneat, frustra forma substantialis ibi esset. Tertio, quia accidentia non immediate ducerent in corpus Christi, sed in formam substantialem panis remanentem; et ideo deperiret aliquid significationi sacramenti.  
 
 Ad primum ergo dicendum, quod haec ratio movit quosdam ad ponendum formam substantialem ibi remanere; sed patet quod ratione ista magis ponendum esset quod materia panis remaneat quam quod forma. Panis enim non nutrit, nec aliquis cibus, nisi secundum quod convertitur in illud quod nutritur: quod autem naturali conversione convertitur in alterum, non manet quantum ad formam, sed quantum ad materiam, unde forma substantialis panis, si remaneret, nutrire non posset magis quam accidentia. Utrum autem species illae possint nutrire, in sequenti distinctione dicetur.  
 
@@ -115,7 +117,7 @@ Articulus 2
 
 ***Utrum annihiletur***
 
-***Ad secundum sic proceditur. Videtur quod panis facta conversione annihiletur. In qualibet enim mutatione quae est secundum aliquid intraneum rei, terminus a quo non manet nisi in potentia praejacenti; sicut quando nigrum fit album, nigredo non remanet nisi in potentia subjecti; et quando ex aere fit ignis, forma aeris, quae est terminus a quo, non manet nisi in potentia materiae communis, quae subjicitur mutationi. Sed in conversione de qua loquimur, est terminus a quo, tota substantia panis. Ergo cum non sit accipere aliquid praejacens ad totam substantiam panis, quia non est in subjecto sicut accidens, neque in materia sicut forma, videtur quod omnino annihiletur.***
+Ad secundum sic proceditur. Videtur quod panis facta conversione annihiletur. In qualibet enim mutatione quae est secundum aliquid intraneum rei, terminus a quo non manet nisi in potentia praejacenti; sicut quando nigrum fit album, nigredo non remanet nisi in potentia subjecti; et quando ex aere fit ignis, forma aeris, quae est terminus a quo, non manet nisi in potentia materiae communis, quae subjicitur mutationi. Sed in conversione de qua loquimur, est terminus a quo, tota substantia panis. Ergo cum non sit accipere aliquid praejacens ad totam substantiam panis, quia non est in subjecto sicut accidens, neque in materia sicut forma, videtur quod omnino annihiletur.  
 
 Praeterea, respectu ejusdem est aliquid natum esse terminus a quo et terminus ad quem; sicut ex albo fit nigrum, et ex nigro album. Sed mutationis, cujus terminus ad quem est tota substantia rei, terminus a quo est simpliciter nihil, sicut patet in creatione. Ergo similiter cum in conversione de qua loquimur, terminus a quo sit tota substantia panis, terminus ad quem erit simpliciter nihil. Ergo substantia panis annihilatur.  
 
@@ -155,7 +157,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod panis non possit converti in corpus Christi. Conversio enim mutatio quaedam est. Sed nulla specie transmutationis in corpus Christi panis convertitur; non enim est ibi generatio et corruptio, quia materia panis non manet; nec est alteratio, quia non manet aliqua substantia ejus actu; nec est augmentum, quia non additur aliquid ad corpus Christi, neque motus localis, non enim ipsum corpus Christi de coelo descendit, ut Damascenus dicit. Ergo videtur quod nullo modo panis in corpus Christi convertatur.***
+Ad tertium sic proceditur. Videtur quod panis non possit converti in corpus Christi. Conversio enim mutatio quaedam est. Sed nulla specie transmutationis in corpus Christi panis convertitur; non enim est ibi generatio et corruptio, quia materia panis non manet; nec est alteratio, quia non manet aliqua substantia ejus actu; nec est augmentum, quia non additur aliquid ad corpus Christi, neque motus localis, non enim ipsum corpus Christi de coelo descendit, ut Damascenus dicit. Ergo videtur quod nullo modo panis in corpus Christi convertatur.  
 
 Praeterea, in omni conversione oportet esse aliquid quod mutetur. Mutatur autem quod dissimiliter se habet nunc et prius. Si ergo panis in corpus Christi convertatur, oportet aliquid esse idem numero quod prius fuerit de substantia*substantia corporis.—substantia panis et nunc sit de substantia* PLE. corporis Christi; quod non ponitur. Ergo panis in corpus Christi non convertitur.  
 
@@ -169,7 +171,7 @@ Praeterea, illud quod nec in se manet nec annihilatur, oportet quod in aliud con
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod ista conversio fiat successive. Fit enim haec conversio virtute verborum. Sed verba non possunt aliquid facere nisi dum sunt. Ergo cum habeant esse in successione, videtur quod successive conversio praedicta fiat.***
+Ulterius. Videtur quod ista conversio fiat successive. Fit enim haec conversio virtute verborum. Sed verba non possunt aliquid facere nisi dum sunt. Ergo cum habeant esse in successione, videtur quod successive conversio praedicta fiat.  
 
 Praeterea, impossibile est in eodem instanti esse aliquid corpus Christi et panem. Ergo non est idem instans in quo est primo corpus Christi, et in quo ultimo est panis. Sed inter quaelibet duo instantia est tempus medium, ut probatur in 6 *Phys*. Ergo conversio panis in corpus Christi est successiva.  
 
@@ -183,7 +185,7 @@ Praeterea, in omni successiva mutatione prius aliquid est in medio quam in termi
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod haec conversio sit miraculosior omni alia mutatione. Quia quanto alicui magis de facili consentit ratio nostra, minus habet de miraculo. Sed non est aliqua miraculosa conversio cui ratio magis non consentiat quam huic; quia creationem etiam quidam philosophi posuerunt ratione naturali ducti, et etiam quod materia obedit substantiis separatis, et maxime Deo, ad omnem formationem. Ergo ista conversio est miraculosior omnibus mutationibus.***
+Ulterius. Videtur quod haec conversio sit miraculosior omni alia mutatione. Quia quanto alicui magis de facili consentit ratio nostra, minus habet de miraculo. Sed non est aliqua miraculosa conversio cui ratio magis non consentiat quam huic; quia creationem etiam quidam philosophi posuerunt ratione naturali ducti, et etiam quod materia obedit substantiis separatis, et maxime Deo, ad omnem formationem. Ergo ista conversio est miraculosior omnibus mutationibus.  
 
 Praeterea, ubi est plus de resistentia, ibi est major difficultas in convertendo, et per consequens majus miraculum. Sed in hac conversione est maxima resistentia, cum oporteat totum converti in totum. Ergo ista conversio est maximae difficultatis; ergo est maxime miraculosa.  
 
@@ -195,7 +197,7 @@ Praeterea, quanto terminus mutationis est altior, tanto mutatio est majoris virt
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in mutationibus naturalibus invenitur aliqua mutatio secundum quam nihil variatur de eo quod est intraneum rei, sed solum hoc quod est extra, sicut patet in motu locali; aliqua vero mutatio in qua variatur illud quod inest rei accidentaliter, scilicet quantitas vel qualitas, sicut patet in motu augmenti et alterationis; aliqua vero mutatio est quae pertingit usque ad formam substantialem, sicut generatio et corruptio. Sed naturalis mutatio non potest pertingere usque ad variationem materiae: quia operatur ex supposita materia, sicut quodlibet secundum agens operatur suppositis his quae data sunt sibi a primo agente; et haec principia oportet manere in operatione naturae, ut 1 *Physica* dicitur. Sicut autem esse compositi, quod ex suppositione materiae natura producit, operationi naturae subjicitur; ita ipsa materia quam praesupponit natura, subjicitur actioni primi agentis, scilicet Dei, a quo hoc ipsum imperfectum esse (scilicet in potentia), quod habet, accepit; unde divina operatio pertingere potest ad variationem materiae, ut scilicet sicut natura facit hoc totum esse hoc totum, ut ex toto aere totam aquam; ita Deus faciat ex hac materia signata illam. Et quia materia signata est individuationis principium, ideo solius Dei operatione hoc fieri potest, ut hoc individuum demonstratum fiat illud individuum demonstratum; et talis modus conversionis est in hoc sacramento, quia ex hoc pane fit hoc corpus Christi.***
+Respondeo dicendum ad primam quaestionem, quod in mutationibus naturalibus invenitur aliqua mutatio secundum quam nihil variatur de eo quod est intraneum rei, sed solum hoc quod est extra, sicut patet in motu locali; aliqua vero mutatio in qua variatur illud quod inest rei accidentaliter, scilicet quantitas vel qualitas, sicut patet in motu augmenti et alterationis; aliqua vero mutatio est quae pertingit usque ad formam substantialem, sicut generatio et corruptio. Sed naturalis mutatio non potest pertingere usque ad variationem materiae: quia operatur ex supposita materia, sicut quodlibet secundum agens operatur suppositis his quae data sunt sibi a primo agente; et haec principia oportet manere in operatione naturae, ut 1 *Physica* dicitur. Sicut autem esse compositi, quod ex suppositione materiae natura producit, operationi naturae subjicitur; ita ipsa materia quam praesupponit natura, subjicitur actioni primi agentis, scilicet Dei, a quo hoc ipsum imperfectum esse (scilicet in potentia), quod habet, accepit; unde divina operatio pertingere potest ad variationem materiae, ut scilicet sicut natura facit hoc totum esse hoc totum, ut ex toto aere totam aquam; ita Deus faciat ex hac materia signata illam. Et quia materia signata est individuationis principium, ideo solius Dei operatione hoc fieri potest, ut hoc individuum demonstratum fiat illud individuum demonstratum; et talis modus conversionis est in hoc sacramento, quia ex hoc pane fit hoc corpus Christi.  
 
 Ex quo patet quod ista conversio differt ab omnibus naturalibus conversionibus in quatuor. Primo in hoc quod usque ad materiam pertingit, quod in illis non invenitur. Et quia materia est primum subjectum, et ipsum non est aliud subjectum; ideo secundo differt in hoc quod haec conversio non habet subjectum sicut illae habent. Tertio, quod in naturalibus conversionibus convertitur totum in totum, non autem partes essentiales in partes; totus enim aer convertitur in aquam; sed materia aeris non convertitur in aliquid, quia est eadem: forma etiam non convertitur, quia abscedit alia et alia introducitur. Sed hic et totum convertitur in totum, quia panis fit corpus Christi; et partes etiam convertuntur; quia materia panis fit materia corporis Christi, et forma substantialis similiter fit illa forma quae est corpus Christi. Quarto, quia in naturalibus conversionibus transmutatur et id quod convertitur et illud in quod convertitur. Illud quidem quod in alterum convertitur, semper transmutatur corruptione; sed illud in quod aliquid naturaliter convertitur (si quidem sit simplex conversio) transmutatur per generationem, sicut cum aqua generatur ex aere; si autem sit conversio cum additione ad alterum praeexistens, illud cui additur transmutatur secundum augmentum, vel saltem per restaurationem deperditi, sicut accidit in nutrimento. Sed hic, illud in quod fit conversio erat praeexistens, et non ei additur, quia, ut dictum est, illud quod convertitur, convertitur in ipsum, et secundum totum et secundum omnes partes ejus; unde hoc in quod terminatur conversio, nullo modo transmutatur, scilicet corpus Christi, sed solum panis qui convertitur.  
 
@@ -209,7 +211,7 @@ Ad quartum dicendum, quod communicatio importat quamdam collationem; et ideo exi
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod causa quare aliqua mutatio non est in instanti, est distantia ejus quod movetur a termino motus. Distantiam autem dico non solum secundum dimensionem loci aut quantitatis, sed secundum repugnantiam formae vel naturae; et ideo ubi nihil est repugnans formae introducendae, forma ibi recipitur in instanti, praesente agente; sicut patet de illuminatione diaphani, cum in eo non sit aliquid contrarium vel repugnans luci; et similiter in forma subito introducenda quando materia est necessitans, contrariis dispositionibus ab ea exclusis.***
+Ad secundam quaestionem dicendum, quod causa quare aliqua mutatio non est in instanti, est distantia ejus quod movetur a termino motus. Distantiam autem dico non solum secundum dimensionem loci aut quantitatis, sed secundum repugnantiam formae vel naturae; et ideo ubi nihil est repugnans formae introducendae, forma ibi recipitur in instanti, praesente agente; sicut patet de illuminatione diaphani, cum in eo non sit aliquid contrarium vel repugnans luci; et similiter in forma subito introducenda quando materia est necessitans, contrariis dispositionibus ab ea exclusis.  
 
 Sicut autem aer subjacet soli ad recipiendum ab eo formam luminis non existente aliquo interposito; ita tota natura creata subditur divino nutui, ut statim fiat omne quod Deus vult; quia quidquid est in creatura est materiale, et non contrarium dispositioni divinae; et ideo ea quae per seipsum facit, potest, cum voluerit, facere in instanti. Quandoque autem successive facit, ut in nobis secundum modum nostrum operetur. Hoc tamen contingit quando hoc quod transmutatur, potest magis vel minus distare a termino transmutationis, quia secundum hoc fit successio in motu.  
 
@@ -241,7 +243,7 @@ Ad quartum dicendum, quod mutatio, ut dictum est, in instanti est; sed motus pra
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quanto aliquid est permanentius, tanto difficilius transmutatur. Et quia subjectum in qualibet mutatione manet, ideo in omnibus mutationibus materia est maxime manens, cum sit subjectum omnium mutationum; unde illa mutatio quae ad ipsam materiam attingit, est difficilior et majoris virtutis ostensiva quam quaecumque alia transmutatio ex parte ejus quod transmutatur. Et quia creatio et haec conversio pertingunt usque ad essentiam materiae, ut ex praedictis patet, constat has mutationes esse majoris virtutis ostensivas quibuscumque aliis, in quibus mutatur vel forma substantialis vel accidentalis, aut locus exterior. Sed inter has duas videtur creatio, simpliciter loquendo, praecellere, quia per ipsam materiae essentia producitur; ex quo consequitur ut a producente per hanc conversionem possit in alterum transmutari. Sed ex parte ejus ad quod est mutatio, mutatio quae est in unione humanae naturae ad divinam personam, praecellit has et omnes alias mutationes in difficultate; unde ipsa est miraculum miraculorum omnium.***
+Ad tertiam quaestionem dicendum, quod quanto aliquid est permanentius, tanto difficilius transmutatur. Et quia subjectum in qualibet mutatione manet, ideo in omnibus mutationibus materia est maxime manens, cum sit subjectum omnium mutationum; unde illa mutatio quae ad ipsam materiam attingit, est difficilior et majoris virtutis ostensiva quam quaecumque alia transmutatio ex parte ejus quod transmutatur. Et quia creatio et haec conversio pertingunt usque ad essentiam materiae, ut ex praedictis patet, constat has mutationes esse majoris virtutis ostensivas quibuscumque aliis, in quibus mutatur vel forma substantialis vel accidentalis, aut locus exterior. Sed inter has duas videtur creatio, simpliciter loquendo, praecellere, quia per ipsam materiae essentia producitur; ex quo consequitur ut a producente per hanc conversionem possit in alterum transmutari. Sed ex parte ejus ad quod est mutatio, mutatio quae est in unione humanae naturae ad divinam personam, praecellit has et omnes alias mutationes in difficultate; unde ipsa est miraculum miraculorum omnium.  
 
 Ad primum ergo dicendum, quod mutatio ista fit ex existenti in existens praeter modum aliarum mutationum, quae fiunt etiam ex existentibus in existentia, ex quarum inspectione intellectus noster sibi suas conceptiones formavit: et ideo haec conversio videtur esse contra conceptiones intellectus; et propter hoc difficilius ei assentitur quam creationi, quae est ex omnino non existenti, cujusmodi mutationem non vidit.  
 
@@ -255,7 +257,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod praedicta conversio possit exprimi per verbum substantivum alterius temporis quam praesentis, ut dicatur: quod *est panis, erit corpus Christi*, vel: *quod est corpus Christi, fuit panis*. Ambrosius enim dicit in Lib. *de Sacramentis*, quod erat panis ante consecrationem.*consecrationem.—consecrationem iam est corpus Christi post consecrationem* PLE.***
+Ad quartum sic proceditur. Videtur quod praedicta conversio possit exprimi per verbum substantivum alterius temporis quam praesentis, ut dicatur: quod *est panis, erit corpus Christi*, vel: *quod est corpus Christi, fuit panis*. Ambrosius enim dicit in Lib. *de Sacramentis*, quod erat panis ante consecrationem.*consecrationem.—consecrationem iam est corpus Christi post consecrationem* PLE.  
 
 Praeterea, major est convenientia, quanto perfectior est conversio. Sed haec conversio est perfectior omnibus aliis: quia in hac convertitur totum in totum et partes in partes, sicut ex praedictis patet. Cum ergo in aliis conversionibus utamur tali modo loquendi, scilicet, quod erat aqua est vinum: vel, quod erat aer est ignis: videtur multo fortius hic quod possit dici: *quod est corpus Christi, erat panis*.  
 
@@ -263,7 +265,7 @@ Sed contra, ‘quod’ est relativum suppositi ejusdem. Sed non est accipere ali
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod haec sit vera: *panis fit corpus Christi*. Ad omne enim facere sequitur fieri. Sed Christus fecit ea, scilicet panem et vinum, corpus suum et sanguinem suum, ut Damascenus dicit. Ergo panis fit corpus Christi.***
+Ulterius. Videtur quod haec sit vera: *panis fit corpus Christi*. Ad omne enim facere sequitur fieri. Sed Christus fecit ea, scilicet panem et vinum, corpus suum et sanguinem suum, ut Damascenus dicit. Ergo panis fit corpus Christi.  
 
 Praeterea, omne quod convertitur in alterum, fit illud. Sed panis convertitur in corpus Christi. Ergo fit corpus Christi.  
 
@@ -271,7 +273,7 @@ Sed contra, omne fieri terminatur ad factum esse. Sed haec nunquam erit vera: *p
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod haec sit falsa: *de pane fit corpus Christi*. Ex eodem enim fit aliquid et factum est. Sed haec est falsa: *corpus Christi factum est de pane, vel ex pane*. Ergo et haec, corpus Christi fit de pane.***
+Ulterius. Videtur quod haec sit falsa: *de pane fit corpus Christi*. Ex eodem enim fit aliquid et factum est. Sed haec est falsa: *corpus Christi factum est de pane, vel ex pane*. Ergo et haec, corpus Christi fit de pane.  
 
 Praeterea, *de* notat consubstantialitatem, ut Magister dicit in 1, dist. 36. Sed nulla consubstantialitas est panis ad corpus Christi. Ergo non potest dici quod corpus Christi fit de pane vel ex pane.  
 
@@ -279,7 +281,7 @@ Sed contra, Ambrosius dicit: *ubi accessit consecratio, de pane fit corpus Chris
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod haec sit vera: ‘panis potest esse corpus Christi.’ Motus enim est actus existentis in potentia. Sed panis mutatur in corpus Christi. Ergo panis est potentia corpus Christi: ergo potest esse corpus Christi.***
+Ulterius. Videtur quod haec sit vera: ‘panis potest esse corpus Christi.’ Motus enim est actus existentis in potentia. Sed panis mutatur in corpus Christi. Ergo panis est potentia corpus Christi: ergo potest esse corpus Christi.  
 
 Praeterea, Ambrosius dicit, quod panis potest esse corpus Christi consecratione, quae fit Christi sermone.  
 
@@ -287,7 +289,7 @@ Sed contra, quod potest esse aliquid nihil prohibet si ponatur illud: quia possi
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod haec conversio in hoc differt ab omnibus aliis mutationibus, quod in omnibus aliis mutationibus est aliquod subjectum commune: in hac autem non, sed solum est accipere duos terminos conversionis; et ideo omnes locutiones exprimentes mutationem per quam importatur ordo termini ad terminum, sunt concedendae in hac materia, sicut haec: *panis convertitur in corpus Christi*; locutiones vero quae exprimunt identitatem subjecti, non sunt concedendae, proprie loquendo. Sed quia in hac conversione est aliquid simile identitati subjecti, scilicet communitas specierum, quae manent hinc inde, quamvis illae species non sint mutationis subjectum; ideo etiam tales locutiones aliquando a sanctis positae inveniuntur, ut identitas importata non referatur ad subjectum sed ad species easdem. Unde tales locutiones non sunt extendendae, quia sunt impropriae; et haec locutio quae est: *hoc fuit illud*, vel: *quod est hoc erit illud*, expresse important identitatem subjecti mutationis propter naturam relationis; ideo non est simpliciter concedenda.***
+Respondeo dicendum ad primam quaestionem, quod haec conversio in hoc differt ab omnibus aliis mutationibus, quod in omnibus aliis mutationibus est aliquod subjectum commune: in hac autem non, sed solum est accipere duos terminos conversionis; et ideo omnes locutiones exprimentes mutationem per quam importatur ordo termini ad terminum, sunt concedendae in hac materia, sicut haec: *panis convertitur in corpus Christi*; locutiones vero quae exprimunt identitatem subjecti, non sunt concedendae, proprie loquendo. Sed quia in hac conversione est aliquid simile identitati subjecti, scilicet communitas specierum, quae manent hinc inde, quamvis illae species non sint mutationis subjectum; ideo etiam tales locutiones aliquando a sanctis positae inveniuntur, ut identitas importata non referatur ad subjectum sed ad species easdem. Unde tales locutiones non sunt extendendae, quia sunt impropriae; et haec locutio quae est: *hoc fuit illud*, vel: *quod est hoc erit illud*, expresse important identitatem subjecti mutationis propter naturam relationis; ideo non est simpliciter concedenda.  
 
 Ad primum ergo dicendum, quod verbum Ambrosii est exponendum: *quod erat panis est corpus Christi*; idest, quod est sub speciebus panis, primo fuit panis, et postea corpus Christi.  
 
@@ -295,7 +297,7 @@ Ad secundum dicendum, quod secundum Philosophum in 2 *de Anima*, passum in princ
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod cum dicitur: *hoc fit illud*, ex vi locutionis in ly hoc importatur subjectum factionis; unde haec est per se: homo fit albus; sed haec est per accidens: nigrum fit album. Subjectum autem factionis commune est utrique termino; unde patet quod praedicta locutio importat communitatem subjecti, et proprie non est concedenda.***
+Ad secundam quaestionem dicendum, quod cum dicitur: *hoc fit illud*, ex vi locutionis in ly hoc importatur subjectum factionis; unde haec est per se: homo fit albus; sed haec est per accidens: nigrum fit album. Subjectum autem factionis commune est utrique termino; unde patet quod praedicta locutio importat communitatem subjecti, et proprie non est concedenda.  
 
 Ad primum ergo dicendum, quod exponendum est verbum Damasceni sicut expositum est verbum Ambrosii, ut relatio importata in ly ea designet unitatem specierum, et non subjecti unitatem.  
 
@@ -303,7 +305,7 @@ Ad secundum dicendum, quod in hac locutione: *panis convertitur in corpus Christ
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut patet in 1 *Physic*., *hoc fit hoc*, dicimus in permanentibus per se, sed in non permanentibus per accidens; sed *ex hoc fit hoc* dicitur proprie in non permanentibus. Dicimus enim: *ex non albo fit album*. Et si aliquando dicatur aliquid fieri ex permanente, hoc est inquantum intelligitur cum permanente aliquid non permanens; sicut cum dicitur: *ex aere fit statua*, intelligitur *ex aere infigurato*.***
+Ad tertiam quaestionem dicendum, quod, sicut patet in 1 *Physic*., *hoc fit hoc*, dicimus in permanentibus per se, sed in non permanentibus per accidens; sed *ex hoc fit hoc* dicitur proprie in non permanentibus. Dicimus enim: *ex non albo fit album*. Et si aliquando dicatur aliquid fieri ex permanente, hoc est inquantum intelligitur cum permanente aliquid non permanens; sicut cum dicitur: *ex aere fit statua*, intelligitur *ex aere infigurato*.  
 
 Et sic patet quod haec locutio: *hoc fit hoc*, exprimit identitatem subjecti; haec autem locutio: *ex hoc fit hoc*, principaliter exprimit ordinem terminorum ad invicem, et per consequens quandoque unitatem subjecti; unde quandoque importat tantum ordinem sine hoc quod importet subjectum, ut cum dicitur: *ex mane fit meridies*, idest post, ut dicitur in 2 *Metaphysica*; et secundum hoc erit incongrua: *panis fit corpus Christi*; sed haec erit concedenda: *ex pane fit corpus Christi*, si ly ex non denotet subjectum, et quasi causam materialem, sed tantum ordinem terminorum conversionis ad invicem. Sed haec: *de pane fit corpus Christi*, est minus propria: quia haec propositio de notat consubstantialitatem, ut Ambrosius tangit; tamen quandoque de ponitur pro ex, et sic potest concedi quod de pane fit corpus Christi sicut *ex pane*.  
 
@@ -313,7 +315,7 @@ Ad secundum patet solutio ex dictis.
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod cum potentia pertineat ad subjectum, non est dubium quod cum dicitur: *panis potest esse corpus Christi*, importatur unitas subjecti; et ideo non est concedenda, quia nihil panis unquam erit aliquid corporis Christi: sed sicut conceditur ista: *panis convertitur in corpus Christi*, ita potest concedi ista: panis potest converti: quia cujus est potentia, ejus est actus, ut dicitur in Lib. *de Somno et vigilia*.***
+Ad quartam quaestionem dicendum, quod cum potentia pertineat ad subjectum, non est dubium quod cum dicitur: *panis potest esse corpus Christi*, importatur unitas subjecti; et ideo non est concedenda, quia nihil panis unquam erit aliquid corporis Christi: sed sicut conceditur ista: *panis convertitur in corpus Christi*, ita potest concedi ista: panis potest converti: quia cujus est potentia, ejus est actus, ut dicitur in Lib. *de Somno et vigilia*.  
 
 Ad primum ergo dicendum, quod ista definitio non habet locum in ista conversione, ut ex praedictis patet.  
 
@@ -336,7 +338,7 @@ primo, utrum panis et vinum sint materia hujus sacramenti;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod non debeat esse duplex materia hujus sacramenti. Quanto enim aliquid est simplicius, tanto nobilius; unde et simplicissima sunt nobilissima. Sed hoc sacramentum est nobilius aliis. Ergo debet esse simplicius. Cum ergo alia sacramenta unam tantum materiam habeant, sicut baptismus aquam, confirmatio chrisma; videtur quod non debeat esse duplex materia hujus sacramenti.***
+Ad primum sic proceditur. Videtur quod non debeat esse duplex materia hujus sacramenti. Quanto enim aliquid est simplicius, tanto nobilius; unde et simplicissima sunt nobilissima. Sed hoc sacramentum est nobilius aliis. Ergo debet esse simplicius. Cum ergo alia sacramenta unam tantum materiam habeant, sicut baptismus aquam, confirmatio chrisma; videtur quod non debeat esse duplex materia hujus sacramenti.  
 
 Praeterea, materia sacramenti debet respondere ei quod est sacramentum et res in sacramento, quia est signum ejus. Sed totum illud quod est res et sacramentum, continetur sub specie panis, scilicet totus Christus. Ergo panis est tota materia hujus sacramenti; et sic idem quod prius.  
 
@@ -350,7 +352,7 @@ Praeterea, materia sacramenti debet respondere usui sacramenti. Sed manducatio, 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non debeat esse materia hujus sacramenti panis et vinum. Sacramenta enim legis Mosaicae propinquiora fuerunt sacramentis legis novae quam sacramenta legis naturae. Sed in lege Mosaica secundum modum sacramenti manducabantur carnes animalium. Ergo hoc magis debet esse materia hujus sacramenti quam panis et vinum, quae sumebantur in lege naturae per modum sacramenti.***
+Ulterius. Videtur quod non debeat esse materia hujus sacramenti panis et vinum. Sacramenta enim legis Mosaicae propinquiora fuerunt sacramentis legis novae quam sacramenta legis naturae. Sed in lege Mosaica secundum modum sacramenti manducabantur carnes animalium. Ergo hoc magis debet esse materia hujus sacramenti quam panis et vinum, quae sumebantur in lege naturae per modum sacramenti.  
 
 Praeterea, materia sacramenti debet competere usui sacramenti et significationi. Sed expressius significaret caro animalis alicujus carnem Christi quam panis: quia majorem habet convenientiam ad ipsam, et iterum magis reficit. Ergo magis debet caro esse materia hujus sacramenti quam panis.  
 
@@ -362,7 +364,7 @@ Praeterea, in hoc sacramento continetur Christus ut cibus parvulorum. Sed parvul
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod panis et vinum non possint esse materia hujus sacramenti nisi sub determinata quantitate. In sacramentis enim intentio requiritur conformis intentioni ecclesiae. Sed si aliquis vellet consecrare totum panem qui est in foro, et totum vinum quod est in cellario, intentio ejus non esset concors intentioni ecclesiae, quae intendit consecrare ad usum fidelium: quod etiam verba instituentis ostendunt: *accipite*, inquit, *et manducate*. Ergo requiritur determinata quantitas panis.***
+Ulterius. Videtur quod panis et vinum non possint esse materia hujus sacramenti nisi sub determinata quantitate. In sacramentis enim intentio requiritur conformis intentioni ecclesiae. Sed si aliquis vellet consecrare totum panem qui est in foro, et totum vinum quod est in cellario, intentio ejus non esset concors intentioni ecclesiae, quae intendit consecrare ad usum fidelium: quod etiam verba instituentis ostendunt: *accipite*, inquit, *et manducate*. Ergo requiritur determinata quantitas panis.  
 
 Praeterea, virtus data verbis et ministro, datur ad venerationem sacramenti, non ad irrisionem. Sed si immoderata quantitas panis et vini consecraretur, verteretur in irrisionem. Ergo non potest consecrari nisi sub determinata quantitate.  
 
@@ -374,7 +376,7 @@ Praeterea, constat quod sacerdos habens paucos parochianos potest tantum de pane
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod materia sacramenti debet competere et significationi sacramenti et usui; et utroque modo exigitur duplex materia in hoc sacramento. Usus enim hujus sacramenti est manducatio, quae ad sui integritatem et cibum et potum exigit; et ideo hujus sacramenti etiam debet esse duplex materia; una quae in cibum sumitur, et alia quae in potum. Significatio autem sacramenti est duplex. Una secundum quod repraesentat praeteritum; et sic in hoc sacramento significatur passio Christi, in qua separatus fuit ejus sanguis a corpore; et ideo separatim in hoc sacramento offerri debet signum corporis et signum sanguinis, duplici materia existente. Alia significatio sacramenti est de effectu per sacramentum inducendo, quia sacramenta efficiunt quod figurant; et sic, cum hoc sacramentum ad salutem corporis et animae sumatur, oportet quod sub specie panis ad significandam salutem corporis, et sub specie vini ad significandam salutem animae hoc sacramentum perficiatur, ut in littera Magister dicit.***
+Respondeo dicendum ad primam quaestionem, quod materia sacramenti debet competere et significationi sacramenti et usui; et utroque modo exigitur duplex materia in hoc sacramento. Usus enim hujus sacramenti est manducatio, quae ad sui integritatem et cibum et potum exigit; et ideo hujus sacramenti etiam debet esse duplex materia; una quae in cibum sumitur, et alia quae in potum. Significatio autem sacramenti est duplex. Una secundum quod repraesentat praeteritum; et sic in hoc sacramento significatur passio Christi, in qua separatus fuit ejus sanguis a corpore; et ideo separatim in hoc sacramento offerri debet signum corporis et signum sanguinis, duplici materia existente. Alia significatio sacramenti est de effectu per sacramentum inducendo, quia sacramenta efficiunt quod figurant; et sic, cum hoc sacramentum ad salutem corporis et animae sumatur, oportet quod sub specie panis ad significandam salutem corporis, et sub specie vini ad significandam salutem animae hoc sacramentum perficiatur, ut in littera Magister dicit.  
 
 Ad primum ergo dicendum, quod simplicitas per se non est causa nobilitatis; sed perfectio; unde ubi perfecta bonitas in uno simplici invenitur, simplex est nobilius quam compositum; quando autem e converso simplex est imperfectum, compositum vero perfectum, tunc compositum est nobilius quam simplex, sicut homo est nobilior terra; et ideo hoc sacramentum quamvis sit magis compositum ratione materiae, est tamen nobilius, quia est magis perfectum. Quod autem ad perfectionem ejus haec compositio exigatur, patet ex dictis.  
 
@@ -386,7 +388,7 @@ Ad quartum dicendum, quod quamvis consecratio panis non dependeat a consecration
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod causa quare panis et vinum sunt materia hujus sacramenti inter alios cibos et potus, est institutio divina. Causa autem institutionis multipliciter potest assignari. Prima ex parte usus sacramenti: quia haec duo communius in cibum et potum veniunt; unde convenientius per haec in cibum et potum spiritualem manuducimur. Secunda ex effectu sacramenti: quia, ut dicitur in Glossa 1 Corinth. 11, panis prae ceteris cibis sustentat corpus, et vinum laetificat cor: et similiter hoc sacramentum sustentat magis et laetificat caritate inebriatos quam alia sacramenta. Tertia ex ritu celebrationis: quia mundius tractantur quam alia quae in cibum et potum veniunt. Quarta ex significatione duplicis rei hujus sacramenti: quia panis ex multis granis conficitur, et vinum ex multis acinis confluit; quod competit ad significandum corpus Christi verum et mysticum, ut supra, dist. 8, dictum est. Quinta ex repraesentatione ejus quod praecessit: nam grana in area conculcantur, et panis in fornace decoquitur, et vinum in torculari exprimitur; quae omnia competunt ad repraesentandum passionem Christi.***
+Ad secundam quaestionem dicendum, quod causa quare panis et vinum sunt materia hujus sacramenti inter alios cibos et potus, est institutio divina. Causa autem institutionis multipliciter potest assignari. Prima ex parte usus sacramenti: quia haec duo communius in cibum et potum veniunt; unde convenientius per haec in cibum et potum spiritualem manuducimur. Secunda ex effectu sacramenti: quia, ut dicitur in Glossa 1 Corinth. 11, panis prae ceteris cibis sustentat corpus, et vinum laetificat cor: et similiter hoc sacramentum sustentat magis et laetificat caritate inebriatos quam alia sacramenta. Tertia ex ritu celebrationis: quia mundius tractantur quam alia quae in cibum et potum veniunt. Quarta ex significatione duplicis rei hujus sacramenti: quia panis ex multis granis conficitur, et vinum ex multis acinis confluit; quod competit ad significandum corpus Christi verum et mysticum, ut supra, dist. 8, dictum est. Quinta ex repraesentatione ejus quod praecessit: nam grana in area conculcantur, et panis in fornace decoquitur, et vinum in torculari exprimitur; quae omnia competunt ad repraesentandum passionem Christi.  
 
 Ad primum ergo dicendum, quod hoc sacramentum non debuit in specie alicujus sacramenti legis Mosaicae institui, ut ostenderetur cessatio legalium, quorum sacerdotium est imperfectius sacerdotio Christi; et ideo convenienter ad illas species in novo testamento reditur, quibus ostenditur sacerdotium novi testamenti praeeminere sacerdotio levitico, scilicet oblationi Melchisedech, ut apostolus probat Hebr. 7.  
 
@@ -400,7 +402,7 @@ Ad quintum dicendum, quod quamvis cibus iste sit parvulorum per humilitatem, est
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod quidam dicunt, quod virtus non est data ministro et verbis ad consecrandum panem et vinum sub quacumque quantitate, sed sub tanta quantitate, quanta potest competere ad usum fidelium; sic enim conformabitur intentio consecrantis intentioni ecclesiae. Sed hoc non videtur verum. Non enim potest dici, quod quantitas materiae sit determinata secundum usum qui in praesenti occurrit; quia sic sacerdos in deserto existens non posset conficere tot hostias, quot sacerdos alicujus civitatis habentis multos parochianos, quod falsum est; sed secundum usum qui nunquam occurrere potest. Tantum ergo de pane et vino potest consecrari, quantum est sumibile ab hominibus. Ad hoc autem non est quantitas determinata, praecipue cum unus homo possit sumere in magna et parva quantitate; unde quantitas parva vel magna ad hoc nihil facit.***
+Ad tertiam quaestionem dicendum, quod quidam dicunt, quod virtus non est data ministro et verbis ad consecrandum panem et vinum sub quacumque quantitate, sed sub tanta quantitate, quanta potest competere ad usum fidelium; sic enim conformabitur intentio consecrantis intentioni ecclesiae. Sed hoc non videtur verum. Non enim potest dici, quod quantitas materiae sit determinata secundum usum qui in praesenti occurrit; quia sic sacerdos in deserto existens non posset conficere tot hostias, quot sacerdos alicujus civitatis habentis multos parochianos, quod falsum est; sed secundum usum qui nunquam occurrere potest. Tantum ergo de pane et vino potest consecrari, quantum est sumibile ab hominibus. Ad hoc autem non est quantitas determinata, praecipue cum unus homo possit sumere in magna et parva quantitate; unde quantitas parva vel magna ad hoc nihil facit.  
 
 Ad primum ergo dicendum, quod sacramenta ad aliquid ordinantur; unde in sacramentis est duplex intentio. Una quae ordinatur ad perfectionem sacramenti; et haec est essentialis sacramento; unde ea praetermissa non est sacramentum. Alia quae ordinatur ad finem sacramenti; et haec consequitur sacramentum. Unde ea posita vel remota, nihilominus perficitur sacramentum; sicut si aliquis intendat baptizare aliquem ut lucrum temporale consequatur, sacramentum baptismi verum est, quia secundum primam intentionem conformatur intentioni ecclesiae, quamvis non quantum ad secundam. Et similiter in hoc sacramento si sacerdos intenderet consecrare non ad sumendum, sed ut in veneficiis uteretur, verum corpus Christi esset. Unde etsi aliquis sacerdos intenderet consecrare magnam quantitatem panis et vini non ad usum fidelium, sed in irrisionem, esset consecratum. Non tamen dico quod posset consecrare totum panem qui est in civitate simul, vel qui est in foro; quia ipsa forma pronomine demonstrativo utens, ostendit quod materia consecranda debet esse coram sacerdote. Unde sacerdos existens in domo sua non posset consecrare panem qui est in altari: quod non potest de toto pane qui est in foro, neque de toto vino quod est in cellario. Sed quantacumque sit quantitas panis et vini quae coram sacerdote proponitur, credo quod possit consecrari ab ipso.  
 
@@ -414,7 +416,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod non oportet quod sit panis triticeus. Hoc enim sacramentum est memoriale Dominicae Passionis. Sed magis competeret ad significandum passionem, panis hordei, quod est durum et hispidum, quam granum tritici, quod est delicatum. Ergo ex alio frumento panis confectus potest esse materia hujus sacramenti.***
+Ad secundum sic proceditur. Videtur quod non oportet quod sit panis triticeus. Hoc enim sacramentum est memoriale Dominicae Passionis. Sed magis competeret ad significandum passionem, panis hordei, quod est durum et hispidum, quam granum tritici, quod est delicatum. Ergo ex alio frumento panis confectus potest esse materia hujus sacramenti.  
 
 Praeterea, in omni aqua potest perfici sacramentum baptismi, ut nullus propter defectum materiae a sacramenti perceptione fraudetur. Ergo et similiter omnis panis debet esse materia hujus sacramenti, ut nullum inopia excuset.  
 
@@ -426,7 +428,7 @@ Sed contra est usus ecclesiae, et hoc quod Dominus se grano frumenti comparavit 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod, si grano tritici admisceatur aliud frumentum quod possit panis exinde confectus esse materia hujus sacramenti. Quia in siccis commixtio non tollit speciem. Sed granum tritici et alia hujusmodi sunt sicca. Ergo si commisceantur, adhuc manet species tritici, et ita potest inde confici corpus Christi.***
+Ulterius. Videtur quod, si grano tritici admisceatur aliud frumentum quod possit panis exinde confectus esse materia hujus sacramenti. Quia in siccis commixtio non tollit speciem. Sed granum tritici et alia hujusmodi sunt sicca. Ergo si commisceantur, adhuc manet species tritici, et ita potest inde confici corpus Christi.  
 
 Praeterea, vix invenitur farina ex solis granis tritici, nisi studiose fiat. Si ergo ex farina commixta ex diversis granis non posset confici panis qui sit materia hujus sacramenti, rarissime hoc sacramentum perficeretur; quod est absurdum.  
 
@@ -438,7 +440,7 @@ Praeterea, de amido, ut quidam dicunt, non potest perfici hoc sacramentum. Sed a
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non debeamus conficere in azymo, sed in fermentato. Nos enim debemus conficere secundum quod Christus confecit. Sed Christus confecit in fermentato, non in azymo. Ergo nec nos debemus in azymo conficere. Probatio mediae. Ante Pascha Judaei azymis non utebantur. Sed coena Domini, in qua hoc sacramentum inchoavit, fuit ante Pascha celebratum, ut patet Joan. 13, 1: *ante diem festum Paschae*, etc. Ergo ipse in fermentato, non in azymis confecit.***
+Ulterius. Videtur quod non debeamus conficere in azymo, sed in fermentato. Nos enim debemus conficere secundum quod Christus confecit. Sed Christus confecit in fermentato, non in azymo. Ergo nec nos debemus in azymo conficere. Probatio mediae. Ante Pascha Judaei azymis non utebantur. Sed coena Domini, in qua hoc sacramentum inchoavit, fuit ante Pascha celebratum, ut patet Joan. 13, 1: *ante diem festum Paschae*, etc. Ergo ipse in fermentato, non in azymis confecit.  
 
 Praeterea, veritas debet respondere figurae. Sed agnus typicus immolabatur luna decimaquarta, ut habetur Exod. 12. Ergo Christus immolatus fuit luna decimaquarta. Sed in die praecedenti corpus suum dedit discipulis manducandum. Ergo hoc fuit luna decimatertia. Sed Pascha incipiebat luna decimaquarta. Ergo ante Pascha fuit coena Domini, et sic idem quod prius.  
 
@@ -464,7 +466,7 @@ Praeterea, materia debet convenire sacramento. Sed panis azymus magis competit h
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod non potest confici nisi de pane triticeo; cujus causa est divina institutio, quia ipse hoc pane confecit. Ratio autem institutionis potest triplex assignari. Prima ex effectu; quia talis panis melius nutrimentum praestat; unde competit ad significandum excellentiam gratiae quae in hoc sacramento confertur. Secunda ex usu sacramenti: quia panis triticeus est qui communius in usum cibi venit, alii autem panes non fiunt nisi propter defectum tritici; unde et panis simpliciter dictus intelligitur de tritico, sicut et oleum de olivis; unde competit huic sacramento, cujus usus est in manducando, ut supra, dist. 9, dictum est. Tertia ex re contenta, quae est Christus, qui se grano frumenti comparavit dicens, Joan. 12, 24: *nisi granum frumenti cadens in terram mortuum fuerit, ipsum solum manet*.***
+Respondeo dicendum ad primam quaestionem, quod non potest confici nisi de pane triticeo; cujus causa est divina institutio, quia ipse hoc pane confecit. Ratio autem institutionis potest triplex assignari. Prima ex effectu; quia talis panis melius nutrimentum praestat; unde competit ad significandum excellentiam gratiae quae in hoc sacramento confertur. Secunda ex usu sacramenti: quia panis triticeus est qui communius in usum cibi venit, alii autem panes non fiunt nisi propter defectum tritici; unde et panis simpliciter dictus intelligitur de tritico, sicut et oleum de olivis; unde competit huic sacramento, cujus usus est in manducando, ut supra, dist. 9, dictum est. Tertia ex re contenta, quae est Christus, qui se grano frumenti comparavit dicens, Joan. 12, 24: *nisi granum frumenti cadens in terram mortuum fuerit, ipsum solum manet*.  
 
 Ad primum ergo dicendum, quod in passione Christi non fuit aliqua duritia ex parte Christi qui patiebatur, sed summa benignitas; et quia hostia panis significat et continet ipsum Christum, ideo non ita competit huic sacramento panis hordeaceus, vel alterius modi, sicut panis triticeus, qui est delicatior et suavior.  
 
@@ -476,7 +478,7 @@ Ad quartum dicendum, quod illud quod objectio tangit, est causa quare ex pane fi
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod admixtio extranei dupliciter potest esse: uno modo ita quod extraneum adjunctum solvat speciem ejus cui adjungitur, vel trahendo ad speciem suam, sicut si amphorae aquae adderetur phiala vini; vel faciendo mediam speciem, sicut quando utrumque aequaliter ponitur, ut aequalitas non accipiatur*accipiatur secundum.—accipiatur tantum secundum* PLE. secundum quantitatem, sed secundum proportionem virtutis. Alio modo ita quod additum non solvat speciem, sed ipsum assumatur ad speciem ejus cui additur; sicut si gutta aquae amphorae vini apponatur. Si ergo fiat tanta admixtio extranei quod solvatur species panis triticei, non poterit confici ex pane illo; si autem adeo sit parva admixtio quod species panis triticei maneat, et illud quod additur, ad naturam tritici convertatur, potest exinde confici sacramentum. Hujus autem signum potest accipi ex accidentibus, scilicet colore, sapore, et hujusmodi; quia accidentia maximam partem conferunt ad cognoscendum quod quid est, secundum Philosophum in 1 *de Anima*.***
+Ad secundam quaestionem dicendum, quod admixtio extranei dupliciter potest esse: uno modo ita quod extraneum adjunctum solvat speciem ejus cui adjungitur, vel trahendo ad speciem suam, sicut si amphorae aquae adderetur phiala vini; vel faciendo mediam speciem, sicut quando utrumque aequaliter ponitur, ut aequalitas non accipiatur*accipiatur secundum.—accipiatur tantum secundum* PLE. secundum quantitatem, sed secundum proportionem virtutis. Alio modo ita quod additum non solvat speciem, sed ipsum assumatur ad speciem ejus cui additur; sicut si gutta aquae amphorae vini apponatur. Si ergo fiat tanta admixtio extranei quod solvatur species panis triticei, non poterit confici ex pane illo; si autem adeo sit parva admixtio quod species panis triticei maneat, et illud quod additur, ad naturam tritici convertatur, potest exinde confici sacramentum. Hujus autem signum potest accipi ex accidentibus, scilicet colore, sapore, et hujusmodi; quia accidentia maximam partem conferunt ad cognoscendum quod quid est, secundum Philosophum in 1 *de Anima*.  
 
 Ad primum ergo dicendum, quod quamvis sicca, quando integra manent, non amittant speciem ex permixtione, tamen quando dividuntur et conficiuntur, sicut in pane accidit, possunt speciem amittere.  
 
@@ -486,7 +488,7 @@ Ad tertium dicendum, quod si sit tanta corruptio quod species panis non maneat, 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in hoc videtur esse diversitas inter Graecos et Latinos: Graeci enim de fermentato, Latini de azymo conficiunt. Causa autem hujus diversitatis est, quia Dominus in azymo confecit, ut ex tribus Evangelistis habetur manifeste, et ita in primitiva ecclesia apostoli celebrabant; quem morem Romana ecclesia ab apostolis, qui ipsam fundaverunt, accepit, ut Innocentius 3 dicit. Sed postea, ut dicit Leo Papa imminente haeresi Ebionitarum, qui dicebant simul cum Evangelio legalia observanda, sancti patres ne eis consentire viderentur, voluerunt ad tempus instinctu Spiritus Sancti ex fermentato confici sacramentum: postea cessante illa haeresi, ecclesia Romana ad pristinum morem rediit.***
+Ad tertiam quaestionem dicendum, quod in hoc videtur esse diversitas inter Graecos et Latinos: Graeci enim de fermentato, Latini de azymo conficiunt. Causa autem hujus diversitatis est, quia Dominus in azymo confecit, ut ex tribus Evangelistis habetur manifeste, et ita in primitiva ecclesia apostoli celebrabant; quem morem Romana ecclesia ab apostolis, qui ipsam fundaverunt, accepit, ut Innocentius 3 dicit. Sed postea, ut dicit Leo Papa imminente haeresi Ebionitarum, qui dicebant simul cum Evangelio legalia observanda, sancti patres ne eis consentire viderentur, voluerunt ad tempus instinctu Spiritus Sancti ex fermentato confici sacramentum: postea cessante illa haeresi, ecclesia Romana ad pristinum morem rediit.  
 
 Graeci autem servare voluerunt morem ad tempus a patribus introductum, ulterius addentes non posse confici nisi de fermentato: et ad hoc probandum asserere voluerunt Dominum in fermentato confecisse. Et quia tres Evangelistae concorditer dicunt, prima die azymorum Dominum instituisse hoc sacramentum, in tantam infamiam quidam ex eis proruperunt, ut dicerent, Evangelistas illos falsum scripsisse, et a Joanne fuisse correctos qui ante diem Paschae dicit Dominum coenasse cum discipulis.  
 
@@ -516,7 +518,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod non solum de vino vitis debeat sanguis Christi consecrari. Baptismus enim in qualibet aqua fieri potest. Sed vinum est materia hujus sacramenti, sicut aqua baptismi. Ergo et de quolibet vino potest hoc sacramentum fieri, sicut de vino malorum granatorum vel mororum vel hujusmodi.***
+Ad tertium sic proceditur. Videtur quod non solum de vino vitis debeat sanguis Christi consecrari. Baptismus enim in qualibet aqua fieri potest. Sed vinum est materia hujus sacramenti, sicut aqua baptismi. Ergo et de quolibet vino potest hoc sacramentum fieri, sicut de vino malorum granatorum vel mororum vel hujusmodi.  
 
 Praeterea, in aliquibus terris non sunt vites, nec ad eas de facili vinum portari potest. Ergo debuit a divina sapientia provideri ut alius aliquis liquor in loco vini de vite possit in sacramento assumi.  
 
@@ -524,7 +526,7 @@ Sed contra, sicut Dominus se comparavit grano frumenti, Joan. 12, ita comparavit
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod possit etiam confici de aceto. Quia, secundum Isidorum, acetum est species vini. Sed de vino vitis potest confici hoc sacramentum. Ergo et de aceto.***
+Ulterius. Videtur quod possit etiam confici de aceto. Quia, secundum Isidorum, acetum est species vini. Sed de vino vitis potest confici hoc sacramentum. Ergo et de aceto.  
 
 Praeterea, si vinum consecratum in acetum converteretur, non desineret ibi esse Christi sanguis. Ergo eadem ratione si ante consecrationem sit acetum, potest exinde sanguis Christi consecrari.  
 
@@ -532,7 +534,7 @@ Sed contra, Innocentius dicit, quod *vinum huic sacramento competit: quia cor bi
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod de agresta possit sanguis Christi consecrari. Sicut enim agresta non habet speciem perfectam vini, ita nec mustum. Sed de musto dulci potest confici sanguis Christi; dicitur enim *de Consecr*., dist. 2: *si necesse fuerit, botrus in calice prematur*. Ergo et eadem ratione de agresta.***
+Ulterius. Videtur quod de agresta possit sanguis Christi consecrari. Sicut enim agresta non habet speciem perfectam vini, ita nec mustum. Sed de musto dulci potest confici sanguis Christi; dicitur enim *de Consecr*., dist. 2: *si necesse fuerit, botrus in calice prematur*. Ergo et eadem ratione de agresta.  
 
 Praeterea, agresta non differt a vino nisi quia immatura est. Sed maturitas et immaturitas sunt accidentia. Ergo non differunt secundum speciem; et ita videtur quod ex agresta sicut ex vino indifferenter sanguis Christi consecrari possit.  
 
@@ -540,7 +542,7 @@ Sed contra, quod fit, non est, secundum Philosophum. Sed agresta est in via gene
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod non potest confici sanguis Christi nisi de vino vitis, quia hoc proprie vinum est. Alia vero dicuntur vina per similitudinem hujus vini. Hoc etiam vinum communius sumitur in potum, sicut et panis tritici in cibum; et habet proprietates magis convenientes ad effectum sacramenti, inquantum calefacit et laetificat; et ideo Dominus de vino vitis confecit, ut patet per hoc quod dicitur Matth. 26, 29: *amodo non bibam de hoc genimine vitis*.***
+Respondeo dicendum ad primam quaestionem, quod non potest confici sanguis Christi nisi de vino vitis, quia hoc proprie vinum est. Alia vero dicuntur vina per similitudinem hujus vini. Hoc etiam vinum communius sumitur in potum, sicut et panis tritici in cibum; et habet proprietates magis convenientes ad effectum sacramenti, inquantum calefacit et laetificat; et ideo Dominus de vino vitis confecit, ut patet per hoc quod dicitur Matth. 26, 29: *amodo non bibam de hoc genimine vitis*.  
 
 Ad primum ergo dicendum, quod omnis aqua est ejusdem speciei; sed non sic est de vino.  
 
@@ -548,7 +550,7 @@ Ad secundum dicendum, quod non est aliqua terra ad quam non possit tantum de vin
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod secundum Philosophum, in 8 *Metaphysica*, hoc modo fit ex vino acetum, quo ex vivo fit mortuum; unde sicut animal vivum et mortuum non sunt ejusdem speciei, ita nec vinum et acetum; et hoc ostendunt contrariae proprietates: quia vinum est calidum, acetum autem frigidum; et non fit reditus de aceto in vinum, sicut nec de mortuo ad vivum. Et ideo dicendum, quod si vinum sit omnino factum sit acetum, de eo non potest confici; sed si sit acidum quasi in via acescendi, est idem judicium quod de pane qui in via est ad corruptionem; unde sicut de pane illo potest confici, peccat tamen conficiens propter irreverentiam, ita et hic.***
+Ad secundam quaestionem dicendum, quod secundum Philosophum, in 8 *Metaphysica*, hoc modo fit ex vino acetum, quo ex vivo fit mortuum; unde sicut animal vivum et mortuum non sunt ejusdem speciei, ita nec vinum et acetum; et hoc ostendunt contrariae proprietates: quia vinum est calidum, acetum autem frigidum; et non fit reditus de aceto in vinum, sicut nec de mortuo ad vivum. Et ideo dicendum, quod si vinum sit omnino factum sit acetum, de eo non potest confici; sed si sit acidum quasi in via acescendi, est idem judicium quod de pane qui in via est ad corruptionem; unde sicut de pane illo potest confici, peccat tamen conficiens propter irreverentiam, ita et hic.  
 
 Ad primum ergo dicendum, quod ipse largo modo accipit vinum pro omni liquore qui ex uvis ortum habet.  
 
@@ -556,7 +558,7 @@ Ad secundum dicendum, quod si vinum consecratum reservatum omnino acetum fieret,
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod nihil recipit speciem nisi in termino generationis: agresta autem adhuc est in via generationis ad vinum, sicut sanguis quando coagulari incipit, est in via generationis ad animal; unde sicut ille sanguis non est animal, ita agresta non est vinum; et propter hoc de ipsa non potest confici sanguis Christi.***
+Ad tertiam quaestionem dicendum, quod nihil recipit speciem nisi in termino generationis: agresta autem adhuc est in via generationis ad vinum, sicut sanguis quando coagulari incipit, est in via generationis ad animal; unde sicut ille sanguis non est animal, ita agresta non est vinum; et propter hoc de ipsa non potest confici sanguis Christi.  
 
 Ad primum ergo dicendum, quod mustum jam ad completam speciem vini venit: dulcedo enim ipsius attestatur maturationem quae est digestionis species; digestio autem est completio a naturali calore, ut patet in 4 Meteor.; et ideo ex musto confici potest, sed non decet, propter impuritatem ipsius, ut ex ipso conficiatur, nisi necessitas emergat.  
 
@@ -568,7 +570,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod aqua vino admiscenda non sit. De latere enim Domini in cruce pendentis effluxit sanguis et aqua, ut dicitur Joan. 19; per quae duo, sacramenta praecipue intelliguntur, ut dicit Innocentius. Sed aqua competit sacramento regenerationis, scilicet baptismo. Ergo sanguis tantum competit sacramento redemptionis Eucharistiae; et ita vinum sine aqua.***
+Ad quartum sic proceditur. Videtur quod aqua vino admiscenda non sit. De latere enim Domini in cruce pendentis effluxit sanguis et aqua, ut dicitur Joan. 19; per quae duo, sacramenta praecipue intelliguntur, ut dicit Innocentius. Sed aqua competit sacramento regenerationis, scilicet baptismo. Ergo sanguis tantum competit sacramento redemptionis Eucharistiae; et ita vinum sine aqua.  
 
 Praeterea, vinum et aqua sunt alterius speciei. Si ergo aqua admiscetur vino, erit triplex materia hujus sacramenti, et non solum duplex, ut dictum est.  
 
@@ -580,7 +582,7 @@ Praeterea, materia sacramenti debet competere rei significatae. Sed populus sign
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod absque ea non possit sanguis consecrari. Cyprianus enim dicit: *calix Domini non potest esse aqua sola et vinum solum nisi utrumque misceatur, quoniam nec corpus Domini farina esse potest, nisi utrumque, scilicet farina et aqua, adunatum fuerit*. Sed constat quod ex farina sine aqua nullo modo potest corpus Christi consecrari. Ergo nec ex vino sine aqua.***
+Ulterius. Videtur quod absque ea non possit sanguis consecrari. Cyprianus enim dicit: *calix Domini non potest esse aqua sola et vinum solum nisi utrumque misceatur, quoniam nec corpus Domini farina esse potest, nisi utrumque, scilicet farina et aqua, adunatum fuerit*. Sed constat quod ex farina sine aqua nullo modo potest corpus Christi consecrari. Ergo nec ex vino sine aqua.  
 
 Praeterea, significatio est de essentia sacramenti. Sed aqua significat aliquid quod est principale in sacramento, scilicet unionem corporis mystici ad caput. Ergo aqua est de necessitate hujus sacramenti, ut sine ea confici non possit.  
 
@@ -592,7 +594,7 @@ Praeterea, nihil est de substantia sacramenti quod non manet in sacramento. Sed 
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod debeat aqua artificialis apponi. Quia sacramentum dicitur esse uniforme. Sed ex parte corporis est aliquid artificiale, scilicet panis. Ergo ex parte sanguinis debet esse aqua artificialis.***
+Ulterius. Videtur quod debeat aqua artificialis apponi. Quia sacramentum dicitur esse uniforme. Sed ex parte corporis est aliquid artificiale, scilicet panis. Ergo ex parte sanguinis debet esse aqua artificialis.  
 
 Praeterea, si panis ex aqua artificiali, ut rosacea, conficeretur, posset ex eo corpus Christi consecrari. Ergo similiter potest apponi in vino aqua artificialis.  
 
@@ -600,7 +602,7 @@ Sed contra, baptismus est sacramentum majoris necessitatis quam Eucharistia. Sed
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod debeat in magna quantitate apponi. Quia quod non est, non potest aliquid significare. Sed quod corruptum est, non est. Cum ergo aqua ponatur ad significandum, videtur quod debeat tantum apponi quod non corrumpatur; et ita tantum quantum de vino vel plus, quia vinum est magis activum.***
+Ulterius. Videtur quod debeat in magna quantitate apponi. Quia quod non est, non potest aliquid significare. Sed quod corruptum est, non est. Cum ergo aqua ponatur ad significandum, videtur quod debeat tantum apponi quod non corrumpatur; et ita tantum quantum de vino vel plus, quia vinum est magis activum.  
 
 Praeterea, de latere Christi sicut sanguis, ita et aqua sensibiliter fluxit. Sed si parum de aqua poneretur, non posset sentiri. Ergo debet in majori quantitate apponi.  
 
@@ -614,7 +616,7 @@ Praeterea, oportet quod aqua consumatur a vino ad hoc quod ex parte sanguinis si
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod aqua debet apponi vino propter institutionem: quia Dominus apposuisse probabiliter creditur ex more illius patriae: quia vinum ibi sine aqua nunquam bibitur propter vini fortitudinem: quamvis de aqua in Evangelio mentio non fiat, quia non est principalis materia in hoc sacramento; sed ejus appositio competit huic sacramento et quantum ad*ad significationem.—ad representationem passionis Christi et quantum ad* PLE. significationem rei hujus sacramenti, quae est corpus mysticum per aquam significatum, quia *aquae multae populi multi*, Apocal. 17, 15; et sic appositio aquae ad vinum significat unionem membrorum ad caput ratione ipsius conjunctionis; et amorem capitis patientis pro membris, ad ipsa, ex hoc quod ex duobus conjunctis unum efficitur; et processum redemptionis a capite ad membra, ex ipsa transformatione aquae in vinum. Unde dicit Glossa Marc. 14 super illud: *accepit Jesus panem* etc.: *neque aqua solum neque vinum solum cuilibet licet offerre, ne videatur caput a membris secernere, vel Christum sine nostrae redemptionis amore pati potuisse, vel nos sine illius passione salvari*.***
+Respondeo dicendum ad primam quaestionem, quod aqua debet apponi vino propter institutionem: quia Dominus apposuisse probabiliter creditur ex more illius patriae: quia vinum ibi sine aqua nunquam bibitur propter vini fortitudinem: quamvis de aqua in Evangelio mentio non fiat, quia non est principalis materia in hoc sacramento; sed ejus appositio competit huic sacramento et quantum ad*ad significationem.—ad representationem passionis Christi et quantum ad* PLE. significationem rei hujus sacramenti, quae est corpus mysticum per aquam significatum, quia *aquae multae populi multi*, Apocal. 17, 15; et sic appositio aquae ad vinum significat unionem membrorum ad caput ratione ipsius conjunctionis; et amorem capitis patientis pro membris, ad ipsa, ex hoc quod ex duobus conjunctis unum efficitur; et processum redemptionis a capite ad membra, ex ipsa transformatione aquae in vinum. Unde dicit Glossa Marc. 14 super illud: *accepit Jesus panem* etc.: *neque aqua solum neque vinum solum cuilibet licet offerre, ne videatur caput a membris secernere, vel Christum sine nostrae redemptionis amore pati potuisse, vel nos sine illius passione salvari*.  
 
 Ad primum ergo dicendum, quod, sicut dicit Gregorius in *Moral*., *quia natura uniuscujusque ex diversitate componitur, in sacro eloquio per rem quamlibet recte diversa significantur*. Aqua ergo secundum quod habet vim abluendi, significatio ejus competit baptismo; secundum autem quod continue in terram decurrit, habet significare populum: 2 Reg., 14, 14: *omnes morimur, et quasi aqua dilabimur*; et sic ejus significatio competit huic sacramento.  
 
@@ -624,7 +626,7 @@ Ad tertium dicendum, quod aqua apponitur pani in ipsa sua confectione; et ideo n
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod materia proportionatur sacramento; unde secundum aliquid est de essentia sacramenti.*sacramenti.—sacramenti secundum hoc materia significans illud est de essentia sacramenti*. PLE. Dictum est autem supra, quod perfectio hujus sacramenti consistit in ipsa consecratione corporis et sanguinis Christi, et non in usu materiae consecratae, sicut est in baptismo et confirmatione; et ideo ex parte materiae illud tantum est de necessitate sacramenti, quod significat corpus et sanguinem Christi, scilicet panis et vinum; illud autem quod significat usum et effectum hujus sacramenti, scilicet aqua, non est de necessitate hujus sacramenti; unde vinum sine aqua potest consecrari, sed consecrans peccat.***
+Ad secundam quaestionem dicendum, quod materia proportionatur sacramento; unde secundum aliquid est de essentia sacramenti.*sacramenti.—sacramenti secundum hoc materia significans illud est de essentia sacramenti*. PLE. Dictum est autem supra, quod perfectio hujus sacramenti consistit in ipsa consecratione corporis et sanguinis Christi, et non in usu materiae consecratae, sicut est in baptismo et confirmatione; et ideo ex parte materiae illud tantum est de necessitate sacramenti, quod significat corpus et sanguinem Christi, scilicet panis et vinum; illud autem quod significat usum et effectum hujus sacramenti, scilicet aqua, non est de necessitate hujus sacramenti; unde vinum sine aqua potest consecrari, sed consecrans peccat.  
 
 Ad primum ergo dicendum, quod exponendum est verbum Cypriani: *non potest*, idest *non debet*; quia illud possumus quod de jure possumus: et ideo quantum ad id quod debet fieri, est simile ex parte corporis et sanguinis; non autem quantum ad id quod fieri potest: quia aqua est de substantia panis, non autem de substantia vini.  
 
@@ -634,7 +636,7 @@ Ad tertium dicendum, quod effusio sanguinis in passione Christi directe pertineb
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod cum sine aqua possit sanguis consecrari, quantum ad id quod fieri potest non refert quaecumque aqua apponatur, dummodo sit talis aqua quae in vinum converti possit; sed quantum ad id quod fieri debet, non debet apponi nisi aqua naturalis: quia illae aquae non sunt ejusdem speciei, et dicuntur aquae aequivoce, sicut etiam de vino et de pane dictum est.***
+Ad tertiam quaestionem dicendum, quod cum sine aqua possit sanguis consecrari, quantum ad id quod fieri potest non refert quaecumque aqua apponatur, dummodo sit talis aqua quae in vinum converti possit; sed quantum ad id quod fieri debet, non debet apponi nisi aqua naturalis: quia illae aquae non sunt ejusdem speciei, et dicuntur aquae aequivoce, sicut etiam de vino et de pane dictum est.  
 
 Ad primum ergo dicendum quod panis artificialiter factus est ejusdem speciei cum illo pane de quo confecit Christus; non autem aqua artificialis cum aqua. Et ideo non est similis ratio.  
 
@@ -644,7 +646,7 @@ Patet etiam responsio ad id quod in oppositum objicitur: quia aqua in baptismo e
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod, sicut dictum est, aqua apposita vino in vinum convertitur, et sic totum convertitur in sanguinem; unde non tantum de aqua debet apponi quod vinum in aquam convertatur, vel in aliquod medium per mixtionem; et ideo semper tutius est apponere parum: quia quantumcumque apponatur parum, significatio servatur.***
+Ad quartam quaestionem dicendum, quod, sicut dictum est, aqua apposita vino in vinum convertitur, et sic totum convertitur in sanguinem; unde non tantum de aqua debet apponi quod vinum in aquam convertatur, vel in aliquod medium per mixtionem; et ideo semper tutius est apponere parum: quia quantumcumque apponatur parum, significatio servatur.  
 
 Ad primum ergo dicendum, quod ex hoc ipso quod in vinum convertitur aqua, habet suam significationem: quia nos in Christum mutamur, non ipse in nos.  
 
@@ -658,7 +660,7 @@ Quaestio 3
 
 ***De Eucharistiae in institutione sui***
 
-***Deinde quaeritur quomodo Christus hoc sacramento usus sit in ipsa prima sui institutione; et circa hoc quaeruntur quatuor:***
+Deinde quaeritur quomodo Christus hoc sacramento usus sit in ipsa prima sui institutione; et circa hoc quaeruntur quatuor:  
 
 primo, utrum ipse corpus suum manducaverit;  
 
@@ -670,7 +672,7 @@ Articulus 1
 
 ***Utrum ipse corpus suum manducaverit***
 
-***Ad primum sic proceditur. Videtur quod ipse Christus non manducaverit. Quia de his quae Dominus fecit, non sunt alia asserenda, nisi quae nobis in Evangelio narrantur. Sed in Evangelio continetur quod Christus accepit panem in manibus, et dedit discipulis suis manducandum. Ergo non debemus asserere quod ipse manducaverit.***
+Ad primum sic proceditur. Videtur quod ipse Christus non manducaverit. Quia de his quae Dominus fecit, non sunt alia asserenda, nisi quae nobis in Evangelio narrantur. Sed in Evangelio continetur quod Christus accepit panem in manibus, et dedit discipulis suis manducandum. Ergo non debemus asserere quod ipse manducaverit.  
 
 Praeterea, omne quod manducatur, in cibum assumitur. Sed *assumens non est assumptum*, ut in 3 Lib., dist. 5, dictum est. Ergo Christus corpus suum manducare non potuit.  
 
@@ -698,7 +700,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Christus corpus suum Judae non dederit. Ipse enim implevit quod mandavit. Sed mandaverat sanctum non esse canibus dandum, Matth. 7. Ergo ipse non dedit Judae corpus suum sanctissimum.***
+Ad secundum sic proceditur. Videtur quod Christus corpus suum Judae non dederit. Ipse enim implevit quod mandavit. Sed mandaverat sanctum non esse canibus dandum, Matth. 7. Ergo ipse non dedit Judae corpus suum sanctissimum.  
 
 Praeterea, secundum Augustinum, Deus non est causa alicui quod deterior fiat. Sed si Judas corpus Christi sumpsisset, ex hoc factus fuisset deterior, quia sumendo peccasset. Ergo Christus corpus suum ei manducandum non dedit.  
 
@@ -712,7 +714,7 @@ Praeterea, sine exceptione dicitur Matth. 26, 26: *accipite omnes, et comedite*.
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod sub bucella corpus suum ei dedit. Dicit enim Augustinus de Consec.: *non mala erat bucella quae data est Judae a Domino. Salutem medicus dedit; sed ille, quia indignus erat, accepit ad perniciem*. Non autem fuisset indignus, si bucella illa tantum panis fuisset. Ergo illa bucella erat corpus Christi.***
+Ulterius. Videtur quod sub bucella corpus suum ei dedit. Dicit enim Augustinus de Consec.: *non mala erat bucella quae data est Judae a Domino. Salutem medicus dedit; sed ille, quia indignus erat, accepit ad perniciem*. Non autem fuisset indignus, si bucella illa tantum panis fuisset. Ergo illa bucella erat corpus Christi.  
 
 Praeterea, diabolum intrare in hominem est effectus peccati. Sed Joan. 13, dicitur, *quod post bucellam introivit in eum Satanas*. Ergo accipiendo bucellam, peccavit: ergo bucella erat corpus Christi.  
 
@@ -720,7 +722,7 @@ Sed contra est quod habetur in Glossa Joan. 13, super illud: *cui intinctum pane
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod secundum Augustinum, Christus corpus suum in coena cum aliis discipulis Judae dedit, ut nobis exemplum daret quod peccatoribus occultis non essent sacramenta deneganda, et ut omnem occasionem ei auferret male faciendi, quam assumere potuisset, si in aliquo ab aliis discipulis ante apertam malitiam fuisset discretus. Hilarius tamen contrarium dicere videtur. Sed primum communius tenetur.***
+Respondeo dicendum ad primam quaestionem, quod secundum Augustinum, Christus corpus suum in coena cum aliis discipulis Judae dedit, ut nobis exemplum daret quod peccatoribus occultis non essent sacramenta deneganda, et ut omnem occasionem ei auferret male faciendi, quam assumere potuisset, si in aliquo ab aliis discipulis ante apertam malitiam fuisset discretus. Hilarius tamen contrarium dicere videtur. Sed primum communius tenetur.  
 
 Ad primum ergo dicendum, quod quamvis Judas in rei veritate canis esset, tamen non in manifesto; et ideo noluit eum detegere coram aliis discipulis, ne desperationem incurreret, et sic liberius peccaret.  
 
@@ -732,7 +734,7 @@ Ad quartum dicendum, quod Judas bibit cum aliis sacramentaliter, sed non spiritu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod Christus primo Judae dedit corpus suum cum aliis discipulis; sed postea bucella intincta in ostensionem proditionis ejus ei porrecta, purus panis fuit, sicut patet ex Glossa inducta.***
+Ad secundam quaestionem dicendum, quod Christus primo Judae dedit corpus suum cum aliis discipulis; sed postea bucella intincta in ostensionem proditionis ejus ei porrecta, purus panis fuit, sicut patet ex Glossa inducta.  
 
 Ad primum ergo dicendum, quod Augustinus loquitur non de bucella intincta, sed de eo quod prius cum aliis discipulis acceperat. Vel dicendum, quod dicitur ad perniciem assumpsisse, quia quod Christus ad salutem suam fecerat porrigendo bucellam, ut videns se deprehensum, ab iniquo proposito desisteret, ille ex hoc magis exasperatus fuit.  
 
@@ -742,7 +744,7 @@ Articulus 3
 
 ***Utrum dederit corpus suum passibile, vel impassibile***
 
-***Ad tertium sic proceditur. Videtur quod Christus in coena discipulis suis corpus impassibile dedit. Quia super illud Matth. 17: *transfiguratus est ante eos*, dicit Glossa: *illud corpus quod habuit per naturam, dedit discipulis in coena, non mortale et corruptibile*.***
+Ad tertium sic proceditur. Videtur quod Christus in coena discipulis suis corpus impassibile dedit. Quia super illud Matth. 17: *transfiguratus est ante eos*, dicit Glossa: *illud corpus quod habuit per naturam, dedit discipulis in coena, non mortale et corruptibile*.  
 
 Praeterea, Lev. 2, super illud: *si oblatio tua fuerit de sartagine* etc., dicit Glossa: *crux super omnia fortis carnem Christi, quae ante passionem non videbatur esui apta, post aptam fecit*. Sed Christus in coena dedit carnem suam ut aptam ad manducandum. Ergo dedit eam talem qualis fuit post passionem. Sed post passionem suam fuit impassibilis. Ergo dedit corpus suum impassibile.  
 
@@ -770,7 +772,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod corpus Christi, si fuisset in pixide servatum, non ibi moreretur. Corpus enim Christi non est mortuum nisi crucifixione. Sed ibi non crucifigebatur. Ergo et ibi non moriebatur.***
+Ad quartum sic proceditur. Videtur quod corpus Christi, si fuisset in pixide servatum, non ibi moreretur. Corpus enim Christi non est mortuum nisi crucifixione. Sed ibi non crucifigebatur. Ergo et ibi non moriebatur.  
 
 Praeterea, actio Judaeorum erat causa mortis Christi, et sanguinis effusio. Sed ibi non effudisset sanguinem, nec actio Judaeorum ibi fuisset. Ergo non fuisset ibi mortuum.  
 
@@ -778,7 +780,7 @@ Sed contra, unum et idem corpus fuisset tunc in pixide et in cruce. Sed in cruce
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod si post mortem Christi aliquis apostolorum confecisset hoc sacramentum, quod fuisset ibi anima Christi; fuisset enim aliter imperfectum sacramentum. Sed de perfectione sacramenti est non solum corpus, sed etiam anima; quia totus Christus in sacramento continetur. Ergo ibi fuisset anima.***
+Ulterius. Videtur quod si post mortem Christi aliquis apostolorum confecisset hoc sacramentum, quod fuisset ibi anima Christi; fuisset enim aliter imperfectum sacramentum. Sed de perfectione sacramenti est non solum corpus, sed etiam anima; quia totus Christus in sacramento continetur. Ergo ibi fuisset anima.  
 
 Praeterea, verba formae non fuissent tunc minoris virtutis quam modo. Sed modo ex vi formae conficitur corpus cum anima. Ergo, etc.  
 
@@ -786,7 +788,7 @@ Sed contra, corpus Christi non est perfectius sub specie sacramenti quam sub spe
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod Deus facere potuerit quod tunc anima esset corpori Christi in sacramento existenti unita. Anima enim Christi majorem convenientiam habebat ad corpus proprium quam ad infernum. Sed anima separata a corpore Christi jacente in sepulcro fuit in inferno. Ergo similiter potuisset esse in loco illo ubi corpus Christi sub sacramento conservabatur.***
+Ulterius. Videtur quod Deus facere potuerit quod tunc anima esset corpori Christi in sacramento existenti unita. Anima enim Christi majorem convenientiam habebat ad corpus proprium quam ad infernum. Sed anima separata a corpore Christi jacente in sepulcro fuit in inferno. Ergo similiter potuisset esse in loco illo ubi corpus Christi sub sacramento conservabatur.  
 
 Praeterea, corpus Christi, quia est divinitati adjunctum, potest esse in sacramento, et in specie propria. Ergo et anima, cum sit divinitati unita, poterat esse simul in inferno, et in corpore Christi sub sacramento.  
 
@@ -794,7 +796,7 @@ Sed contra, ex hoc sequeretur quod contradictoria essent simul vera, si corpus C
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod omnia verba quae significant passionem ab extrinseco illatam, non possunt attribui corpori Christi prout est sub sacramento; cujus ratio ex dictis apparet; unde non potest dici, quod in pixide crucifigeretur vel verberaretur, vel aliquid hujusmodi. Nec ex hoc sequitur quod duo contradictoria sint simul vera; quia non secundum idem comparatur ad extra corpus Christi hic et ibi. Omnia enim verba quae significant passionem innatam, conveniunt ei, ut dolet, patitur, et cetera hujusmodi; et similiter potest dici, quod in altari moritur; unde versus: *pixide servato poteris copulare dolorem innatum; sed non illatus convenit illi*.***
+Respondeo dicendum ad primam quaestionem, quod omnia verba quae significant passionem ab extrinseco illatam, non possunt attribui corpori Christi prout est sub sacramento; cujus ratio ex dictis apparet; unde non potest dici, quod in pixide crucifigeretur vel verberaretur, vel aliquid hujusmodi. Nec ex hoc sequitur quod duo contradictoria sint simul vera; quia non secundum idem comparatur ad extra corpus Christi hic et ibi. Omnia enim verba quae significant passionem innatam, conveniunt ei, ut dolet, patitur, et cetera hujusmodi; et similiter potest dici, quod in altari moritur; unde versus: *pixide servato poteris copulare dolorem innatum; sed non illatus convenit illi*.  
 
 Ad primum ergo dicendum, quod passiones extrinsecae pertingunt ad substantiam corporis Christi mediantibus dimensionibus propriis, non autem mediantibus dimensionibus panis. Et ideo propter impressiones extrinsecas quae ad species panis pertinent, nulla passio intrinseca corpori Christi attribuitur; sed propter impressiones extrinsecas ad dimensiones proprias pertinentes attribuuntur passiones corpori Christi, et extrinsecae sub specie propria tantum, et intrinsecae etiam sub specie aliena. Et ideo propter crucifixionem in Calvariae loco factam, corpus Christi verum servatum moriebatur sub specie propria, et sub sacramento.  
 
@@ -802,7 +804,7 @@ Et per hoc patet solutio ad secundum; quia actio Judaeorum extrinseca erat; flux
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod cum animatio sit proprietas intrinseca, constat quod sicut corpus Christi in specie propria erat exanime, ita sub sacramento. Unde si corpus Christi fuisset ab ullo discipulorum consecratum, non fuisset ibi anima. Quidam autem dicunt, quod forma fuit suspensa in illo triduo; et quod si primo consecratum, fuisset reservatum, desineret ibi esse Christo mortuo. Sed haec frivola sunt; quia nec ratione nec auctoritate confirmantur.***
+Ad secundam quaestionem dicendum, quod cum animatio sit proprietas intrinseca, constat quod sicut corpus Christi in specie propria erat exanime, ita sub sacramento. Unde si corpus Christi fuisset ab ullo discipulorum consecratum, non fuisset ibi anima. Quidam autem dicunt, quod forma fuit suspensa in illo triduo; et quod si primo consecratum, fuisset reservatum, desineret ibi esse Christo mortuo. Sed haec frivola sunt; quia nec ratione nec auctoritate confirmantur.  
 
 Ad primum ergo dicendum, quod, sicut supra dictum est, dist. 10, anima non est ibi ex vi sacramenti, sed propter concomitantiam ad corpus; et ideo corpore sine anima existente, nihil deperit perfectioni sacramenti, si anima ibi non contineatur.  
 
@@ -810,7 +812,7 @@ Ad secundum dicendum, quod hoc non est propter defectum virtutis verborum, sed p
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod Deus bene poterat facere quod anima Christi a corpore separata jacente in sepulcro, esset in loco ubi erat corpus sub sacramento, quia hoc importat respectum ad extra; sed non quod esset ei unita sub sacramento sicut forma, quia hoc pertinet ad dispositionem interiorem; unde inevitabiliter sequeretur duo contradictoria esse simul.***
+Ad tertiam quaestionem dicendum, quod Deus bene poterat facere quod anima Christi a corpore separata jacente in sepulcro, esset in loco ubi erat corpus sub sacramento, quia hoc importat respectum ad extra; sed non quod esset ei unita sub sacramento sicut forma, quia hoc pertinet ad dispositionem interiorem; unde inevitabiliter sequeretur duo contradictoria esse simul.  
 
 Ad primum ergo dicendum, quod ratio illa non concludit, nisi quod esset ibi sicut in loco; et hoc Deus bene potuit facere.  
 
@@ -818,7 +820,7 @@ Et similiter etiam dicendum ad secundum. Tamen non est haec causa quare corpus C
 
 Expositio textus  
 
-****De materia de qua in conceptione non fuit factum*. Patet quod ex aequivocatione hujus praepositionis de procedunt: quia cum dicitur: *de pane fit corpus Christi*, ly de non denotat habitudinem causae materialis, sed solum ordinem mutationis terminorum.***
+*De materia de qua in conceptione non fuit factum*. Patet quod ex aequivocatione hujus praepositionis de procedunt: quia cum dicitur: *de pane fit corpus Christi*, ly de non denotat habitudinem causae materialis, sed solum ordinem mutationis terminorum.  
 
 *Investigari salubriter non potest*, scilicet ut aliquis comprehendere nitatur: quia praesumptuosum est et periculosum, dum aliquis non vult plus ibi credere quam ratione videre potest; sed investigare pro defensione fidei, utile est.  
 

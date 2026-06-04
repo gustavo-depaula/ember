@@ -1,8 +1,10 @@
 # D. 32 - Comparison of the divine persons according to things proper or appropriated
 
+***Comparison of the divine persons according to things proper or appropriated***
+
 ***Division of the text***
 
-***After he has considered things proper and things appropriated to the persons, here he asks how the divine persons may be compared with each other according to things proper or appropriated. And this is divided into three parts: in the first, he shows how they may be compared according to things proper or appropriated to the Holy Spirit; in the second, he shows how they may be compared according to things proper or appropriated to the Son, at *moreover, it is necessary to investigate with diligence whether the Father is wise by the wisdom which he generated*;*Sent*. I, 32.2(138).1. in the third, he asks how they may be compared according to both together—that is, about one through comparison with the other, at *moreover, it is to be noted with diligence*.*Sent*. I, 32.6(142).1.***
+After he has considered things proper and things appropriated to the persons, here he asks how the divine persons may be compared with each other according to things proper or appropriated. And this is divided into three parts: in the first, he shows how they may be compared according to things proper or appropriated to the Holy Spirit; in the second, he shows how they may be compared according to things proper or appropriated to the Son, at *moreover, it is necessary to investigate with diligence whether the Father is wise by the wisdom which he generated*;*Sent*. I, 32.2(138).1. in the third, he asks how they may be compared according to both together—that is, about one through comparison with the other, at *moreover, it is to be noted with diligence*.*Sent*. I, 32.6(142).1.  
 
 About the first he does two things: first, he raises the question; second, he considers it, at *we shall limit our answer*.*Sent*. I, 32.1(137).2.  
 
@@ -36,7 +38,7 @@ Article 1
 
 ***Whether the Father loves the Son by the Holy Spirit***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.37.2; *On the Power of God*, q. 9, a. 9, ad 13. It seems that the Father does not love the Son by the Holy Spirit.***
+To the first we proceed as follows.Parallel texts: *ST* I.37.2; *On the Power of God*, q. 9, a. 9, ad 13. It seems that the Father does not love the Son by the Holy Spirit.  
 
 Obj. 1: For just as to be and to be wise are the same thing for God, so too to be and to love are the same for God. But God the Father is not said to be in any way by the Holy Spirit. Therefore neither is he said to love in this way.  
 
@@ -82,7 +84,7 @@ Article 2
 
 ***Whether the Father loves himself by the Holy Spirit***
 
-***To the second we proceed as follows. It seems that the Father does not love himself by the Holy Spirit.***
+To the second we proceed as follows. It seems that the Father does not love himself by the Holy Spirit.  
 
 Obj. 1: For “to love” indicates either the essential act or the notional act. If essential, it is common to the whole Trinity, and signifies the divine essence. Therefore he does not love himself essentially by the Holy Spirit.  
 
@@ -118,7 +120,7 @@ Article 3
 
 ***Whether the Father and the Son love us by the Holy Spirit***
 
-***To the third we proceed as follows. It seems that the Father and the Son do not love us by the Holy Spirit.***
+To the third we proceed as follows. It seems that the Father and the Son do not love us by the Holy Spirit.  
 
 Obj. 1: For everything said about God connoting an effect in what is created, is essential. But when God is said to love a created thing, in “love” is connoted an effect in the created thing that he confers on it by loving it. Therefore it must be taken essentially. But it was said in the preceding article that the Father and the Son in no way love by the Holy Spirit, if “love” is taken essentially, since the Holy Spirit has no account of a principle as regards anything essential, neither by way of denomination nor in any other way. Therefore it seems that the Father and the Son do not love us by the Holy Spirit.  
 
@@ -146,7 +148,7 @@ Question 2
 
 ***Those things that pertain to the Son***
 
-***Next one asks about things that pertain to the Son. With regard to this, two things are asked:***
+Next one asks about things that pertain to the Son. With regard to this, two things are asked:  
 
 first, whether the Father is wise by the begotten wisdom;  
 
@@ -156,7 +158,7 @@ Article 1
 
 ***Whether the Father is wise by the begotten wisdom***
 
-***To the first we proceed as follows. It seems that the Father is wise by the begotten wisdom.See *ST* I.37.2; I.39.1, ad 2; I.28.2.***
+To the first we proceed as follows. It seems that the Father is wise by the begotten wisdom.See *ST* I.37.2; I.39.1, ad 2; I.28.2.  
 
 Obj. 1: For everyone wise is called “wise” by his own wisdom. But the Son is the wisdom of the Father, who is unbegotten Wisdom. Therefore and so on.  
 
@@ -186,7 +188,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows. It seems that the Son is not wise by the begotten wisdom.***
+To the second we proceed as follows. It seems that the Son is not wise by the begotten wisdom.  
 
 Obj. 1: For the Son is not wise by anyone other than the Father, neither is he God by something other. But the Father is wise by the essential wisdom. Therefore the Son is also wise by the essential wisdom.  
 
@@ -198,7 +200,7 @@ On the contrary (4), everything that is not wise through itself is wise only inc
 
 Quaestiuncula 2  
 
-***It is further asked whether he is wise by the unbegotten wisdom, and it seems not.***
+It is further asked whether he is wise by the unbegotten wisdom, and it seems not.  
 
 Obj. 1: For the wisdom by which someone is denominated “wise” is signified as being in the wise person through the mode of an inhering form. Now, the Father is not in the Son in this way, just as neither is the latter in the former. Therefore, just as the Father is not called “wise” by the begotten wisdom, neither is the Son by the unbegotten wisdom.  
 
@@ -206,7 +208,7 @@ On the contrary, everyone wise is called “wise” by that wisdom due to which 
 
 Response to Quaestiuncula 1  
 
-***I answer that these prepositions “from” and “through” differ in that “from” designates only the bearing of a principle in the mode of efficient causality, but “through” designates the bearing of a principle according to any genus of cause. Whence, everything that is from something is also through it, but not vice versa. However, in the divine there can only be a bearing according to two genera of causality: only one of which is a real bearing, that is, in the mode of an efficient or originating cause, as the Father is called “the principle of the Son”; and the other bearing of a principle can be designated in the divine only according to reason, and not really, that is, the bearing of form, as when we say, “the Father is God through his Godhead.”***
+I answer that these prepositions “from” and “through” differ in that “from” designates only the bearing of a principle in the mode of efficient causality, but “through” designates the bearing of a principle according to any genus of cause. Whence, everything that is from something is also through it, but not vice versa. However, in the divine there can only be a bearing according to two genera of causality: only one of which is a real bearing, that is, in the mode of an efficient or originating cause, as the Father is called “the principle of the Son”; and the other bearing of a principle can be designated in the divine only according to reason, and not really, that is, the bearing of form, as when we say, “the Father is God through his Godhead.”  
 
 Therefore when one says, “the Son is wise by the begotten wisdom,” this ablative*Sapientia* is in the ablative case. can be construed only in a certain bearing of, as it were, an efficient cause. And in this way, it is false, for the meaning is that the Son is wise due to the begotten wisdom, and therefore he is wise due to his very self—which is false. For like with his being, so too he has being wise from the Father, who is the unbegotten Wisdom. Whence in this way he is called “wise” from the unbegotten Wisdom, or through the unbegotten Wisdom—if “through” is designating the bearing of an efficient cause; and similarly he is wise from the unbegotten Wisdom, but not from himself, or through himself, or by his very self.  
 
@@ -224,11 +226,11 @@ Reply Sed Contra 4: We concede the fourth argument.
 
 Response to Quaestiuncula 2  
 
-***To what is further asked, one should say that the Son is wise by the unbegotten wisdom, if the ablative“By the unbegotten wisdom” translates *sapientia ingenita*, which is in the ablative case. is construed in the bearing of, as it were, an efficient principle, but not if it is construed in the bearing of, as it were, a formal principle; rather, in this way he is wise by the essential wisdom, or by his very self.***
+To what is further asked, one should say that the Son is wise by the unbegotten wisdom, if the ablative“By the unbegotten wisdom” translates *sapientia ingenita*, which is in the ablative case. is construed in the bearing of, as it were, an efficient principle, but not if it is construed in the bearing of, as it were, a formal principle; rather, in this way he is wise by the essential wisdom, or by his very self.  
 
 Exposition of the text  
 
-****Some say that this can be understood in different ways*.*Sent*. I, 32.3(139).2. Right away the reason for these opinions is clear, because the first ones took this preposition “through” insofar as it commonly designates the bearing of any principle whatsoever, but the others took it insofar as it is, as it were, divided against the preposition “from,” which designates the bearing of an efficient principle. Whence in this sense in the divine the preposition “through” designates the bearing of, as it were, a form; and in this way it was simply conceded that the Son is wise through himself.***
+*Some say that this can be understood in different ways*.*Sent*. I, 32.3(139).2. Right away the reason for these opinions is clear, because the first ones took this preposition “through” insofar as it commonly designates the bearing of any principle whatsoever, but the others took it insofar as it is, as it were, divided against the preposition “from,” which designates the bearing of an efficient principle. Whence in this sense in the divine the preposition “through” designates the bearing of, as it were, a form; and in this way it was simply conceded that the Son is wise through himself.  
 
 *This is the truth of nature against which you speak*.*Sent*. I, 32.3(139).3, quoting Hilary, *On the Trinity*, bk. 9, para. 48 (CCSL 62A; PL 10:319). The Silano translation reads *unity* instead of *truth*. In these words Hilary intends to show that the Son does not act from himself, but acts through himself, based on two authorities. The first of which is John 14:10: *the Father who dwells in me does his works*, from which he concludes that he does not act from himself, but from the Father dwelling in him. The second is John 8:29: *I always do what is pleasing to him*, from which he concludes that the Son himself acts through his very self; whence he adds, *he would be weak in not acting by himself*,Hilary, *On the Trinity*, bk. 9, para. 48 (CCSL 62A; PL 10:319). that is, with his not acting from his very self it would follow that he would be weak, *unless he receive this from God*,The Silano translation here reads: *if he did not act that way*, perhaps based on another manuscript of the *Sentences*. that is, unless he were to have it from God the Father that he himself acts as a hypostasis subsisting through itself and acting through itself.  
 

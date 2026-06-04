@@ -1,10 +1,12 @@
 # C. 35 - The Rechabites’ commandment
 
+***The Rechabites’ commandment***
+
 ***Lecture 1***
 
 ***The Rechabites’ fidelity***
 
-***^35:1^ The word which came to Jeremiah from the Lord in the days of Jehoiakim, the son of Josiah, the king of Judah, saying:***
+^35:1^ The word which came to Jeremiah from the Lord in the days of Jehoiakim, the son of Josiah, the king of Judah, saying:  
 
 > ^35:2^ go to the house of the Rechabites, and speak to them, and bring them into the house of the Lord, into one of the treasure chambers, and you shall give them wine to drink.
 

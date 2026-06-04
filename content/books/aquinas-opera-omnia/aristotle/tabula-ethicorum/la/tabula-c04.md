@@ -1,5 +1,7 @@
 # Chapter 4
 
+***Vox 1***
+
 ***Debitum***
 
 ***Quod debitum est reddendum uniuersaliter et non amico tribuendum.***
@@ -8,13 +10,13 @@ Vox 2
 
 ***Decipere***
 
-***Quod qui decipitur credens se amari propter honestum, debet se ipsum incusare, si non uidit in amante aliquid honeste operacionis.***
+Quod qui decipitur credens se amari propter honestum, debet se ipsum incusare, si non uidit in amante aliquid honeste operacionis.  
 
 Vox 3  
 
 ***Deceptor***
 
-***Quod deceptor simulacione decipiens est magis in amore accusandus quam falsarius nummismatum.***
+Quod deceptor simulacione decipiens est magis in amore accusandus quam falsarius nummismatum.  
 
 Vox 4  
 
@@ -240,13 +242,13 @@ Vox 8
 
 ***Deinotica***
 
-***Quod deinotica est industria cuius est operari contendencia ad intencionem suppositam.***
+Quod deinotica est industria cuius est operari contendencia ad intencionem suppositam.  
 
 Vox 9  
 
 ***Deynus***
 
-***Quod deynus potest bene esse incontinens, set non speculans actu minorem proposicionem, set sicut dormiens et ebrius est sciens, et non est malus simpliciter, set semimalus.***
+Quod deynus potest bene esse incontinens, set non speculans actu minorem proposicionem, set sicut dormiens et ebrius est sciens, et non est malus simpliciter, set semimalus.  
 
 Vox 10  
 
@@ -288,7 +290,7 @@ Vox 13
 
 ***Disciplinatus***
 
-***Quod disciplinati est in tantum certitudinem inquirere secundum unumquodque genus in quantum natura recipit.***
+Quod disciplinati est in tantum certitudinem inquirere secundum unumquodque genus in quantum natura recipit.  
 
 Vox 14  
 
@@ -300,7 +302,7 @@ Vox 15
 
 ***Diligens***
 
-***Quod aliquis non sit diligens contingit ex consuetudine in quantum remisse uiuit.***
+Quod aliquis non sit diligens contingit ex consuetudine in quantum remisse uiuit.  
 
 Vox 16  
 
@@ -312,7 +314,7 @@ Vox 17
 
 ***Discoli***
 
-***Quod discoli et litigiosi uocantur qui contrariantur omnibus que dicuntur uel fiunt ab aliis.***
+Quod discoli et litigiosi uocantur qui contrariantur omnibus que dicuntur uel fiunt ab aliis.  
 
 Quod discolus et litigiosus qui omnes conturbat.  
 
@@ -320,7 +322,7 @@ Vox 18
 
 ***Dignitas***
 
-***Quod dignitatem non omnes eandem dicunt esse, set quidam libertatem, quidam diuicias, quidam generis nobilitatem.***
+Quod dignitatem non omnes eandem dicunt esse, set quidam libertatem, quidam diuicias, quidam generis nobilitatem.  
 
 Vox 19  
 
@@ -332,7 +334,7 @@ Vox 20
 
 ***Democracia***
 
-***Quod democracia uidetur in hiis habitacionibus in quibus non est dominium et in quibus qui principatur debilis.***
+Quod democracia uidetur in hiis habitacionibus in quibus non est dominium et in quibus qui principatur debilis.  
 
 Quod in democraciis est multum de amicicia in quantum in communia inferunt.  
 
@@ -358,7 +360,7 @@ Vox 24
 
 ***Diuinare***
 
-***Quod diuinare uidentur omnes quod uirtus moralis sit habitus quidam secundum prudenciam.***
+Quod diuinare uidentur omnes quod uirtus moralis sit habitus quidam secundum prudenciam.  
 
 Quod diis et hominibus non idem congruum neque in templo et sepulcro.  
 

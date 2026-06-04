@@ -1,5 +1,7 @@
 # Chapter 22
 
+^22:1^ The burden of the valley of vision. What ails you also, that you too are wholly gone up to the housetops?  
+
 > ^22:2^ Full of clamor, a populous city, a joyous city: your slain are not slain by the sword, nor dead in battle.
 
 > ^22:3^ All the princes are fled together, and are bound hard: all that were found, are bound together, they are fled far off.

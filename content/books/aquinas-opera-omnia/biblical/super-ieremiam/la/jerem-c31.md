@@ -1,6 +1,8 @@
 # C. 29 - The consolations of false prophets
 
-***^29:1^ Et haec sunt verba libri quem misit Jeremias propheta de Jerusalem ad reliquias seniorum transmigrationis, et ad sacerdotes, et ad prophetas, et ad omnem populum quem traduxerat Nabuchodonosor de Jerusalem in Babylonem,***
+***Lectio 1***
+
+^29:1^ Et haec sunt verba libri quem misit Jeremias propheta de Jerusalem ad reliquias seniorum transmigrationis, et ad sacerdotes, et ad prophetas, et ad omnem populum quem traduxerat Nabuchodonosor de Jerusalem in Babylonem,  
 
 > ^29:2^ postquam egressus est Jechonias rex, et domina, et eunuchi, et principes Juda, et Jerusalem, et faber, et inclusor de Jerusalem,
 
@@ -82,7 +84,7 @@ Secundo promittit proprium nativitatis locum, ***et reducam***. Ezech. 36: *toll
 
 Lectio 2  
 
-***^29:17^ Haec dicit Dominus exercituum: ecce mittam in eos gladium, et famem, et pestem, et ponam eos quasi ficus malas, quae comedi non possunt, eo quod pessimae sint,***
+^29:17^ Haec dicit Dominus exercituum: ecce mittam in eos gladium, et famem, et pestem, et ponam eos quasi ficus malas, quae comedi non possunt, eo quod pessimae sint,  
 
 > ^29:18^ et persequar eos in gladio, et in fame, et in pestilentia. Et dabo eos in vexationem universis regnis terrae, in maledictionem, et in stuporem, et in sibilum, et in opprobrium cunctis gentibus, ad quas ego ejeci eos:
 
@@ -98,7 +100,7 @@ Secundo inducit intentam conclusionem: ***vos ergo audite Verbum Domini***, ne s
 
 Lectio 3  
 
-***^29:21^ Haec dicit Dominus exercituum Deus Israel ad Achab filium Coliae, et ad Sedeciam filium Maasiae, qui prophetant vobis in nomine meo mendaciter: ecce ego tradam eos in manus Nabuchodonosor regis Babylonis; et percutiet eos in oculis vestris.***
+^29:21^ Haec dicit Dominus exercituum Deus Israel ad Achab filium Coliae, et ad Sedeciam filium Maasiae, qui prophetant vobis in nomine meo mendaciter: ecce ego tradam eos in manus Nabuchodonosor regis Babylonis; et percutiet eos in oculis vestris.  
 
 > ^29:22^ Et assumetur ex eis maledictio omni transmigrationi Judae, quae est in Babylone, dicentium: ponat te Dominus sicut Sedeciam, et sicut Achab, quos frixit rex Babylonis in ignem.
 
@@ -134,7 +136,7 @@ Ad secundum dicendum, quod quaelibet poena dicitur ignis propter afflictionem, e
 
 Lectio 4  
 
-***^29:23a^ Pro eo quod fecerint stultitiam in Israel, et moechati sunt in uxores amicorum suorum, et locuti sunt verbum in nomine meo mendaciter, quod non mandavi eis.***
+^29:23a^ Pro eo quod fecerint stultitiam in Israel, et moechati sunt in uxores amicorum suorum, et locuti sunt verbum in nomine meo mendaciter, quod non mandavi eis.  
 
 > **150**. Hic ponit culpam:
 

@@ -1,8 +1,10 @@
 # D. 19 - Immortality in the original state of man
 
+***De eis quae pertinent ad conservationem individui in esse per immortalitatem***
+
 ***Divisio textus***
 
-***Determinata superius institutione humanae naturae quantum ad utrumque sexum, hic prosequitur conditiones naturae institutae quantum ad primum statum sui.***
+Determinata superius institutione humanae naturae quantum ad utrumque sexum, hic prosequitur conditiones naturae institutae quantum ad primum statum sui.  
 
 Dividitur autem in partes duas:  
 
@@ -70,7 +72,7 @@ Articulus 1
 
 ***Utrum anima hominis corrumpatur ad corruptionem corporis***
 
-***Ad primum sic proceditur. Videtur quod anima hominis corrupto corpore corrumpatur.***
+Ad primum sic proceditur. Videtur quod anima hominis corrupto corpore corrumpatur.  
 
 Primo per hoc quod habetur Eccle. 3:19: *unus interitus est hominis et jumentorum*. Sed jumenta simul in corpore et in anima intereunt. Ergo videtur quod etiam homo.  
 
@@ -138,7 +140,7 @@ Articulus 2
 
 ***Utrum homo in primo statu habuerit necessitatem moriendi***
 
-***Ad secundum sic proceditur. Videtur quod homo in primo statu habuit necessitatem moriendi secundum corpus.***
+Ad secundum sic proceditur. Videtur quod homo in primo statu habuit necessitatem moriendi secundum corpus.  
 
 Quidquid enim sequitur ex necessitate materiae, est necessarium necessitate absoluta, ut in 2 *Physic*. habetur. Sed corruptio compositi ex contrariis sequitur ex necessitate materiae. Ergo corpus hominis, quod ex contrariis compositum erat, simpliciter et absolute erat necesse corrumpi.  
 
@@ -204,7 +206,7 @@ Articulus 4
 
 ***Utrum homo in primo statu fuerit impassibilis et immortalis per naturam***
 
-***Ad quartum sic proceditur. Videtur quod per naturam homo in primo statu erat impassibilis et immortalis.***
+Ad quartum sic proceditur. Videtur quod per naturam homo in primo statu erat impassibilis et immortalis.  
 
 Ejusdem enim est infundere et continuare vitam. Sed anima naturaliter vitam corpori infundit. Ergo etiam naturaliter in perpetuum vitam in corpore continuasset.  
 
@@ -246,7 +248,7 @@ Articulus 5
 
 ***Utrum immortalitas Adae fuerit eadem cum immortalitate resurgentium***
 
-***Ad quintum sic proceditur. Videtur quod immortalitas Adae non sit eadem cum immortalitate resurgentium.***
+Ad quintum sic proceditur. Videtur quod immortalitas Adae non sit eadem cum immortalitate resurgentium.  
 
 Primo per hoc quod Augustinus dicit quod alia est immortalitas quam in Adam perdidimus, et alia quam per Christum in resurrectione speramus.  
 
@@ -266,7 +268,7 @@ Et per hoc patet responsio ad utramque partem.
 
 Expositio textus  
 
-****In primo statu fuit corpus hominis animale*. Videtur quod tale etiam erit in tertio statu, cum animal genus hominis sit, et semper de specie praedicetur.***
+*In primo statu fuit corpus hominis animale*. Videtur quod tale etiam erit in tertio statu, cum animal genus hominis sit, et semper de specie praedicetur.  
 
 Et dicendum quod differt animal et animale quantum ad nominis significationem: quia animal nominat naturam generis, quae a specie nunquam removetur, unde semper homo dicetur animal; sed animale dicit aliquod denominatum ex natura animalis. Cum autem denominatio proprie sit ab eo quod est formale et perfectivum rei, illi tantum esse animale competit in quo proprietates animalis quantum ad aliquod dominantur.Al.: *denominantur*. Hae autem sunt in quibus homo cum aliis animalibus convenit: et ideo qui brutales motus sequitur, id est passiones sensitivae partis, animalis homo ab Apostolo dicitur, 1 Corinth. 2. Quia ergo in primo statu hominem oportebat occupari circa opera nutritivae et generativae, sine quibus vitam conservare non poterat; ideo animalem vitam dicebatur habere.  
 

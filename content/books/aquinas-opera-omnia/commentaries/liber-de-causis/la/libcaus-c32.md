@@ -1,5 +1,7 @@
 # Proposition 31
 
+210. Inter rem, cuius substantia et actio sunt in momento aeternitatis, et inter rem, cuius substantia et actio sunt in momento temporis, existens est medium, et est illud, cuius substantia est ex momento aeternitatis et operatio ex momento temporis.  
+
 > 211. Quod est, quia res, cuius substantia cadit sub tempore, scilicet quia tempus continet eam, est in omnibus dispositionibus suis cadens sub tempore, quare et eius actio cadit sub tempore, quoniam, quando substantia rei cadit sub tempore, procul dubio et eius actio cadit sub tempore. Res autem cadens sub tempore in omnibus dispositionibus suis seiuncta est a re cadente sub aeternitate in omnibus dispositionibus suis. Continuatio autem non est nisi in rebus similibus. Necesse est igitur, ut sit res alia tertia media inter utrasque, cuius substantia cadat sub aeternitate et ipsius actio cadat sub tempore.
 
 > 212. Impossibile namque est, ut sit res, cuius substantia cadat sub tempore et actio eius sub aeternitate; sic enim actio eius melior esset ipsius substantia; hoc autem est impossibile.

@@ -1,5 +1,7 @@
 # On Man
 
+***Quantum ad virtutes***
+
 ***Quaestio 4***
 
 ***Circa res divinas***
@@ -28,7 +30,7 @@ Articulus 1
 
 ***Circa fidem***
 
-***Ad primum sic proceditur. Videtur quod Christo non facienti visibilia miracula homines credere non tenerentur.***
+Ad primum sic proceditur. Videtur quod Christo non facienti visibilia miracula homines credere non tenerentur.  
 
 Quicumque enim non facit hoc ad quod tenetur, peccat; sed, si homines non crederent Christo miracula non facienti, non peccarent: dicit enim ipse in Iohanne, XV: *si opera non fecissem in eis quae* nullus *alius fecit, peccatum non haberent*; et loquitur de peccato infidelitatis, secundum Augustinum; ergo Christo, si non fecisset miracula, homines credere non tenerentur.  
 
@@ -56,7 +58,7 @@ Articulus 2
 
 ***Circa fidei sacramentum***
 
-***Ad secundum sic proceditur. Videtur quod pueri Iudeorum sint baptizandi parentibus invitis.***
+Ad secundum sic proceditur. Videtur quod pueri Iudeorum sint baptizandi parentibus invitis.  
 
 Maius enim est vinculum martrimoniale quam ius patriae potestatis, quia ius patriae potestatis per hominem solvi, cum filius familias emancipatur, vinculum autem matrimoniale non potest solvi per hominem, secundum illud Matthaei XIX: *quod Deus coniuxit, homo non separet*; sed propter infidelitatem solvitur vinculum matrimoniale: dicit enim Apostolus, I ad Corinthios VII: *quod si infidelis discedit, discedat: non enim est* servitute *subiectus frater aut soror in eiusmodi*; et Canon dicit quod si coniunx infidelis non vult cohabitare sine *contumelia creatoris*, quod alter coniugum non debet ei cohabitare; ergo multo magis propter infidelitatem tollitur ius patriae potestatis. Sic ergo infideles Iudei non habent ius patriae potestatis in suos filios. Possunt ergo eorum filii baptizari eis invitis.  
 
@@ -94,7 +96,7 @@ Articulus 3
 
 ***Circa decimas quae debentur ministris sacramentorum***
 
-***Ad tertium sic proceditur. Videtur quod propter consuetudinem aliqui deobligentur a iure reddendi decimas.***
+Ad tertium sic proceditur. Videtur quod propter consuetudinem aliqui deobligentur a iure reddendi decimas.  
 
 Magis enim est accipere decimas quam non dare; sed propter consuetudinem in aliquibus terris aliqui milites accipiunt decimas, et hoc ab Ecclesia toleratur; ergo multo magis propter consuetudinem aliqui de obligantur ut decimas non solvant, neque solvere teneantur.  
 
@@ -126,7 +128,7 @@ Quaestio 5
 
 ***Circa res humanas***
 
-***Deinde quaesitum est de his quae pertinent ad virtutes circa res humanas. Et circa hoc quaesita sunt duo:***
+Deinde quaesitum est de his quae pertinent ad virtutes circa res humanas. Et circa hoc quaesita sunt duo:  
 
 primo, utrum filius teneatur obedire parentibus carnalibus in indifferentibus;  
 
@@ -136,7 +138,7 @@ Articulus 1
 
 ***Utrum filius teneatur obedire parentibus carnalibus in indifferentibus***
 
-***Ad primum sic proceditur. Videtur quod filius teneatur obedire parentibus carnalibus quantum ad omnia.***
+Ad primum sic proceditur. Videtur quod filius teneatur obedire parentibus carnalibus quantum ad omnia.  
 
 Dicitur enim Deuteronomii XXI: *si genuerit homo filium contumacem et proteruum, qui non audiat patris aut matris imperium, . . . lapidibus eum obruet populus civitatis*; sed poena talis non infligeretur, nisi graviter peccaret non obediendo; ergo filii tenentur obedire parentibus carnalibus per omnia.  
 
@@ -158,7 +160,7 @@ Articulus 2
 
 ***Utrum venditor teneatur dicere emptori vicium rei venditae***
 
-***Ad secundum sic proceditur. Videtur quod venditor non teneatur dicere vitium rei vendite emptori.***
+Ad secundum sic proceditur. Videtur quod venditor non teneatur dicere vitium rei vendite emptori.  
 
 Quia, secundum leges civiles, venditor et emptor se invicem decipere possunt; nulla autem posset esse deceptio, si venditor rei venditae vitium emptori dicere teneretur; non ergo tenetur.  
 
@@ -216,7 +218,7 @@ Articulus 2
 
 ***Utrum peccatum sit praedicatori habere oculum ad rem temporalem***
 
-***Ad secundum sic proceditur. Videtur quod peccatum sit praedicatori habere oculum ad temporalia.***
+Ad secundum sic proceditur. Videtur quod peccatum sit praedicatori habere oculum ad temporalia.  
 
 Dicitur enim Lucae XII: *quaerite primum regnum Dei*, Glossa: id est *bona aeterna*; *et haec omnia adicientur vobis*, Glossa: *etiam non quaerentibus*; ergo non licet praedicatori habere oculum ad terrena.  
 
@@ -248,7 +250,7 @@ Articulus 1
 
 ***Utrum anima separata possit pati ab igne corporeo***
 
-***Ad primum sic proceditur. Videtur quod anima a corpore separata non possit pati ab igne corporeo.***
+Ad primum sic proceditur. Videtur quod anima a corpore separata non possit pati ab igne corporeo.  
 
 Quia, secundum Philosophum, *quod non tangit, non agit*; sed ignis corporeus non tangit animam separatam a corpore, cum non habeat terminos corporales, quae autem se tangunt, *habent ultima simul*; ergo anima separata non patitur ab igne corporeo.  
 
@@ -278,9 +280,9 @@ Ad tertium dicendum quod propria voluntas dicitur ardere in inferno quia meretur
 
 Articulus 2  
 
-***Utrum duorum qui eadem poena sint digni, unus diutius moretur in purgatorio quam alius***
+Utrum duorum qui eadem poena sint digni, unus diutius moretur in purgatorio quam alius  
 
-***Ad secundum sic proceditur. Videtur quod duorum qui sunt digni aequali poena, unus non possit citius a purgatorio liberari quam alius.***
+Ad secundum sic proceditur. Videtur quod duorum qui sunt digni aequali poena, unus non possit citius a purgatorio liberari quam alius.  
 
 Iudicium enim post mortem non est hominis, sed Dei, qui *secundum veritatem* iudicat, ut dicitur Romanorum II; sed contra veritatem iudicii esset si uni duorum qui sunt digni aequali poena, infligeretur gravior poena sensus quam alteri; dilatio autem gloriae est maior poena quam acerbitas poenae sensus, quia, sicut dicit Crysostomus super Matthaeum, carere visione divina est maior poena quam quaelibet poena sensibilis; ergo unus eorum qui digni sunt aequali poena non maiorem dilationem gloriae patietur altero citius liberato.  
 
@@ -322,7 +324,7 @@ Articulus 1
 
 ***Utrum peccatum in Spiritum Sanctum sit irremissibile***
 
-***Ad primum sic proceditur. Videtur quod peccatum in Spiritum Sanctum non sit irremissibile.***
+Ad primum sic proceditur. Videtur quod peccatum in Spiritum Sanctum non sit irremissibile.  
 
 Una est enim dignitas et maiestas Patris et Filii et Spiritus Sancti; sed peccatum in Filium non est irremissibile: dicitur enim Matthaei XII: *quicumque verbum contra Filium hominis dixerit, remittetur ei*; ergo peccatum in Spiritum Sanctum non est irremissibile.  
 
@@ -340,9 +342,9 @@ Et per hoc patet solutio ad obiecta.
 
 Articulus 2  
 
-***Utrum crucesignatus qui moritur antequam iter arripiat transmarinum plenam habeat peccatorum remissionem***
+Utrum crucesignatus qui moritur antequam iter arripiat transmarinum plenam habeat peccatorum remissionem  
 
-***Ad secundum sic proceditur. Videtur quod crucesignatus qui moritur ante quam iter arripiat habeat plenam indulgentiam peccatorum.***
+Ad secundum sic proceditur. Videtur quod crucesignatus qui moritur ante quam iter arripiat habeat plenam indulgentiam peccatorum.  
 
 Ad hoc enim quod indulgentia alicui valeat, requiritur quod sit vere poenitens et confessus, ut continetur in littera papali; sed crucesignatus decedens ante iter assumptum, habet haec omnia quae requiruntur secundum formam litterae ad percipiendam plenam indulgentiam peccatorum; ergo plene percipit eam.  
 

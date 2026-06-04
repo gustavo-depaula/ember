@@ -1,5 +1,7 @@
 # Chapter 58
 
+^58:1^ Clama, ne cesses, quasi tuba exalta vocem tuam, et annuntia populo meo scelera eorum et domui Jacob peccata eorum.  
+
 > ^58:2^ Me etenim de die in diem quærunt et scire vias meas volunt, quasi gens quæ justitiam fecerit et quae judicium Dei sui non dereliquerit. Rogant me judicia justitiæ, et appropinquare Deo volunt.
 
 > ^58:3^ Quare jejunavimus et non aspexisti, humiliavimus animas nostras et nescisti? Ecce in die jejunii vestri invenitur voluntas vestra, et omnes debitores vestros repetitis;

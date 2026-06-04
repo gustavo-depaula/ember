@@ -1,5 +1,7 @@
 # D. 1 - The procession of created things
 
+***The procession of created things***
+
 ***Division of the first part of the text***
 
 ***This book is divided into two parts:***
@@ -56,7 +58,7 @@ Article 1
 
 ***Whether there is more than one first principle***
 
-***To the first we proceed as follows.Parallel text: Aquinas, *Summa theologiae* (*ST*) I.44.1. It seems that there is more than one first principle.***
+To the first we proceed as follows.Parallel text: Aquinas, *Summa theologiae* (*ST*) I.44.1. It seems that there is more than one first principle.  
 
 Obj. 1: For according to the Philosopher,Aristotle, *On the Heavens* 2.3, 286a27. if there is one of two contraries in nature, there will be the other. But the greatest evil is contrary to the greatest good, as evil is to good. Therefore, since there is a greatest good, which is the first principle of all goods, it seems that there is also a single greatest evil that is the first principle of all evils. And so there will be two first principles.  
 
@@ -120,7 +122,7 @@ Article 2
 
 ***Whether anything can proceed from him by creation***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.45.2; *SCG* II.16; *Disputed Questions on the Power of God*, q. 3. a. 1; *Commentary on Aristotle’s Physics*, bk. 8, lect. 2. It seems that nothing can proceed into being from God by creation.***
+To the second we proceed as follows.Parallel texts: *ST* I.45.2; *SCG* II.16; *Disputed Questions on the Power of God*, q. 3. a. 1; *Commentary on Aristotle’s Physics*, bk. 8, lect. 2. It seems that nothing can proceed into being from God by creation.  
 
 Obj. 1: For everything that is made previously had the potential to be made. It means the same thing to say that it did not have the potential to be made and to say that it was necessary for it not to be made, and thus it would not have been made. But whatever has the potential to be made or to be moved has this potential by way of passive potency, which, since it is not a being existing by itself, must be in another being that is in potency. But nothing is a being in potency to something unless it is also something in act. Therefore, everything that is made is made from another being that actually preexists. But no such thing is created, since *to create is to make something from nothing*, as is said in the text.*Sent*. II, 1.2.1. Therefore, nothing can be created by God.  
 
@@ -168,7 +170,7 @@ Article 3
 
 ***Whether to create belongs to others besides God***
 
-***To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 5, q. 1, a. 3, resp.; *ST* I.45.5; 65.3; 90.3; *SCG* II.20–21; *On Truth*, q. 5, a. 9; *On the Power of God*, q. 3, a. 4; *Quodlibetal Questions* III, q. 3, a. 1; *Compendium theologiae*, ch. 70. It seems that to create also belongs to others besides God.***
+To the third we proceed as follows.Parallel texts: *In IV Sent*., d. 5, q. 1, a. 3, resp.; *ST* I.45.5; 65.3; 90.3; *SCG* II.20–21; *On Truth*, q. 5, a. 9; *On the Power of God*, q. 3, a. 4; *Quodlibetal Questions* III, q. 3, a. 1; *Compendium theologiae*, ch. 70. It seems that to create also belongs to others besides God.  
 
 Obj. 1: For everything that is not brought into being by generation, if it is newly made, is created. But the rational soul does not come into being by generation. Therefore, by whomever it is made, it is created. But the rational soul comes into being by the power of the intelligences. Hence Plato portrays God as saying to secondary gods: *take back to yourselves the capital you have lent*, speaking of the rational soul.Plato, *Timaeus*, 41d. And likewise, in the *Book of Causes*,Proclus, *Book of Causes*, prop. 3. it is said that the soul was created by the mediation of an intelligence. Therefore, it seems that angels or intelligences can create.  
 
@@ -204,7 +206,7 @@ Article 4
 
 ***Whether anything other than God can effect anything***
 
-***To the fourth we proceed as follows.Parallel texts: *ST* I.22.3; 103.6; 116.2; *SCG* III.76–77, 83, 94; *Compendium theologiae*, ch. 130. It seems that nothing other than God can effect anything.***
+To the fourth we proceed as follows.Parallel texts: *ST* I.22.3; 103.6; 116.2; *SCG* III.76–77, 83, 94; *Compendium theologiae*, ch. 130. It seems that nothing other than God can effect anything.  
 
 Obj. 1: For an agent that acts without something intermediate is more perfect than one that needs something intermediate in its action. But God is the most perfect agent. Therefore, it seems that he produces all things without the mediation of anything.  
 
@@ -252,7 +254,7 @@ Article 5
 
 ***Whether the world is eternal***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.46.1; *SCG* II.31ff.; *On the Power of God*, q. 3, a. 17; *Quodl*. III, q. 14, a. 2; *Compendium theologiae*, ch. 98; *Commentary on Aristotle’s Physics*, bk. 8, lect. 2; *Commentary on Aristotle’s On the Heavens*, bk. 2, lect. 6 and lect. 29; *Commentary on Aristotle’s Metaphysics*, bk. 12, lect. 5. It seems that the world is eternal. In support of this, arguments can be taken from four sources: from the substance of the heavens, from time, from motion, and from agent or mover.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.46.1; *SCG* II.31ff.; *On the Power of God*, q. 3, a. 17; *Quodl*. III, q. 14, a. 2; *Compendium theologiae*, ch. 98; *Commentary on Aristotle’s Physics*, bk. 8, lect. 2; *Commentary on Aristotle’s On the Heavens*, bk. 2, lect. 6 and lect. 29; *Commentary on Aristotle’s Metaphysics*, bk. 12, lect. 5. It seems that the world is eternal. In support of this, arguments can be taken from four sources: from the substance of the heavens, from time, from motion, and from agent or mover.  
 
 Obj. 1: The argument from the substance of the heavens is as follows. Everything that is ungenerated and incorruptible always has been and always will be. But prime matter is ungenerated and incorruptible, since everything that is generated is generated from a subject and what is corrupted is corrupted into a subject, whereas there is not a subject of prime matter. Therefore, prime matter always has been and always will be. But matter is never divested of form. Therefore, matter from eternity was perfected by its forms, by which species are constituted. Therefore, the universe has been from eternity, since these species are its parts. And this is the argument of Aristotle in the *Physics* 1.Aristotle, *Physics* 1.9, 192a25–35.  
 
@@ -376,9 +378,9 @@ And many other similar objections are resolved in a like manner, as has been sai
 
 Article 6  
 
-***Whether this is fittingly expounded: in the beginning, that is, “in the Son,” God created the heavens and the earth***
+Whether this is fittingly expounded: in the beginning, that is, “in the Son,” God created the heavens and the earth  
 
-***To the sixth we proceed as follows.Parallel text: *ST* I.46.3. It seems that this is unfittingly expounded: *in the beginning*, that is, “in the Son,” *God created the heavens and the earth*.***
+To the sixth we proceed as follows.Parallel text: *ST* I.46.3. It seems that this is unfittingly expounded: *in the beginning*, that is, “in the Son,” *God created the heavens and the earth*.  
 
 Obj. 1: For the Father is the origin of the whole divinity, as Augustine says.Augustine, *On the Trinity*, bk. 4, ch. 20 (CCSL 50; PL 42:908): *totius divinitatis vel si melius dicitur deitatis principium Pater est*. Therefore, by “beginning” we should understand the Father, by appropriation.  
 
@@ -412,7 +414,7 @@ Reply Obj. 7: “Heaven” is also understood as referring to angelic nature, wh
 
 Exposition of the first part of the text  
 
-****For Plato held that there were three first principles [or beginnings]*.*Sent*. II, 1.1.2. It should be known that Plato erred in this regard, since he posited exemplary forms subsisting in themselves outside the divine intellect and held that neither they nor matter have their being from God.In the Platonic dialogues, the “location” of ideas or forms is rather unclear, though he does seem to say they exist through themselves. Some later Platonists saw the ideas as requiring a mind in which they inhered.***
+*For Plato held that there were three first principles [or beginnings]*.*Sent*. II, 1.1.2. It should be known that Plato erred in this regard, since he posited exemplary forms subsisting in themselves outside the divine intellect and held that neither they nor matter have their being from God.In the Platonic dialogues, the “location” of ideas or forms is rather unclear, though he does seem to say they exist through themselves. Some later Platonists saw the ideas as requiring a mind in which they inhered.  
 
 *But Aristotle asserted two principles*.*Sent*. II, 1.3.4. He seems to describe his position imperfectly. For Aristotle posits three principles in the *Physics* 1: matter, form, and privation.These three principles are the point of arrival of the great argumentative sweep of book 1 of the *Physics*: Aristotle argues that there cannot be only a single principle (cc. 1–3); that the principles must be finite (ch. 4); that they must include contraries (ch. 5); that there needs to be an additional principle besides the contraries (ch. 6); and finally he concludes with a more formal demonstration that the principles are form, the privation of form, and the underlying or matter (cc. 7–9).  
 
@@ -428,7 +430,7 @@ In response to the other we must say that, according to him, the first agent pri
 
 Division of the second part of the text  
 
-***Having determined the procession of things from the first principle, here he pursues their ordering to the last end. And this is divided into three parts:***
+Having determined the procession of things from the first principle, here he pursues their ordering to the last end. And this is divided into three parts:  
 
 in the first, he explains the last end of created things;  
 
@@ -484,7 +486,7 @@ Article 1
 
 ***Whether it befits God to act for an end***
 
-***To the first we proceed as follows.Parallel text: *ST* I.44.4. It seems that it does not belong to God to act for an end.***
+To the first we proceed as follows.Parallel text: *ST* I.44.4. It seems that it does not belong to God to act for an end.  
 
 Obj. 1: For an end is the terminus of a motion. Hence there is neither an end nor a good in things that lack motion, such as in mathematical things, as is said in the *Metaphysics* 3.Aristotle, *Metaphysics* 3.2, 996a27–35. But God does not produce things through motion, as has been said before.Above: q. 1, a. 2. Therefore, it does not befit him to act for an end.  
 
@@ -514,7 +516,7 @@ Article 2
 
 ***Whether created things exist for the sake of God’s goodness***
 
-***To the second we proceed as follows.Parallel text: *ST* I.44.4. It seems that created things do not exist for the sake of God’s goodness.***
+To the second we proceed as follows.Parallel text: *ST* I.44.4. It seems that created things do not exist for the sake of God’s goodness.  
 
 Obj. 1: For, as it says in *On the Heavens* 1, nothing is naturally moved for the sake of what it cannot obtain.Aristotle, *On the Heavens* 1.4, 271a30–34; 1.7, 274b14–18. But no thing can obtain the divine goodness, since it is not received as any created thing’s perfection or form. Therefore, things have not been naturally ordered to it.  
 
@@ -546,7 +548,7 @@ Article 3
 
 ***Whether all things were made for man***
 
-***To the third we proceed as follows. It seems that not all things were made for man.***
+To the third we proceed as follows. It seems that not all things were made for man.  
 
 Obj. 1: For the end is intended by the agent. But human nature cannot be intended by God, since no one’s intention is directed toward what is baser than itself. Therefore, it seems that God did not make all things for man.  
 
@@ -582,7 +584,7 @@ Article 4
 
 ***Whether the rational soul should be united to a body***
 
-***To the fourth we proceed as follows. It seems that the rational soul should not have been united to a body.***
+To the fourth we proceed as follows. It seems that the rational soul should not have been united to a body.  
 
 Obj. 1: For what is directed toward an end is determined according to the account of the end. But the rational soul exists for the sake of the divine beatitude and goodness. Therefore, because it is impeded by the body from participation in divine beatitude, since by bodily activities the soul is impeded from the contemplation of spiritual things, it seems that it should not have been united to a body.  
 
@@ -610,7 +612,7 @@ Article 5
 
 ***Whether the human soul should be united to such a body***
 
-***To the fifth we proceed as follows.Parallel texts: *ST* I.76.5; *Disputed Questions on Evil*, q. 5, a. 5; *Disputed Questions on the Soul*, a. 8. It seems that the soul should not be united to such a body.***
+To the fifth we proceed as follows.Parallel texts: *ST* I.76.5; *Disputed Questions on Evil*, q. 5, a. 5; *Disputed Questions on the Soul*, a. 8. It seems that the soul should not be united to such a body.  
 
 Obj. 1: For since form is proportionate to matter, the most noble body is due to the most noble form. But a heavenly body is the noblest of the bodies. Therefore, it seems that the soul, which is the most noble of forms, should be united to a body of this nature.  
 
@@ -634,6 +636,6 @@ Reply Obj. 4: The more the elements partake of species and active qualities, the
 
 Exposition of the second part of the text  
 
-****Love it by understanding it*.*Sent*. II, 1.4.1. Here he posits four things, which stand in a certain order. For the intellect engenders love in accordance with the apprehension of the good. Love, in turn, unites to the beloved and in a certain way makes it to be its own by possessing it. And finally, from this joining together there follows delight, which perfects the account of enjoyment.***
+*Love it by understanding it*.*Sent*. II, 1.4.1. Here he posits four things, which stand in a certain order. For the intellect engenders love in accordance with the apprehension of the good. Love, in turn, unites to the beloved and in a certain way makes it to be its own by possessing it. And finally, from this joining together there follows delight, which perfects the account of enjoyment.  
 
 The rest is clear from what has been said.

@@ -1,5 +1,7 @@
 # Evening Collation
 
+***A light has gone up for the just, and joy for the upright of heart*** (Ps 97:11).  
+
 Today it was said in what way the Blessed Virgin in her rising is a brilliant light. It remains to see in what way she is joy for [righteous or] upright people, since it is written in this verse: ***and joy for the upright of heart***.  
 
 Joy is promised in Sacred Scripture not to just any kind of upright people, but to the upright of heart, that is, the perfectly upright.Because our heart is where our interior movements (like love) begin: *ST* I.20.1, ad 1; cf. I-II.45.3. See note on *rectitudo* above. So, we will expound how we understand Job 1:1, where it says of Job: *that man was single-hearted and upright who feared God and avoided evil*; *single-hearted* in intention,In other words: not being two-faced, as Thomas formulates it in view of Matthew 6:22, at the end of section 2.3. *upright* in what he did. *He feared God and avoided evil*, that is, sin. Thus Solomon says in Proverbs 14:16: *a wise man fears and turns away from evil*. And elsewhere, in Proverbs 16:6,DR: Proverbs 15:27. we read: *through fear every man turns away from evil*. To such a righteous man joy is promised (cf. Ps 97:11).  

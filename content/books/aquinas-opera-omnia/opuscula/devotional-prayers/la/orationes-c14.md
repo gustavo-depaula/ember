@@ -1,5 +1,7 @@
 # The Angelic Cross
 
+***S. Thomae de Aquino***
+
 ***{CruxMihi}***
 
 Crux mihi certa salus,  

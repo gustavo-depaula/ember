@@ -1,5 +1,7 @@
 # Proposition 9
 
+79. Omnis intelligentiae fixio et essentia est per bonitatem puram, quae est causa prima.  
+
 > 80. Et virtus quidem intelligentiae est vehementioris unitatis quam res secundae, quae sunt post eam, quoniam ipsae non accipiunt cognitionem eius. Et non est facta ita, nisi quia causa est ei, quod est sub ea.
 
 > 81. Et significatio eius est illud, cuius rememoramur: Intelligentia est regens omnes res, quae sunt sub ea, per virtutem divinam, quae est in ea, et per eam retinet res, quoniam per eam est causa rerum; et ipsa retinet omnes res, quae sunt sub ea, et comprehendit eas.

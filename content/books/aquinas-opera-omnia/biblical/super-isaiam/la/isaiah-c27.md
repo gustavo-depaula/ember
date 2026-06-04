@@ -1,5 +1,7 @@
 # Chapter 25
 
+^25:1^ Domine Deus meus es tu; exaltabo te et confitebor nomini tuo quoniam fecisti mirabilia cogitationes antiquas fideles. Amen.  
+
 > ^25:2^ Quia posuisti civitatem in tumulum, urbem fortem in ruinam, domum alienorum ut non sit civitas et in sempiternum non ædificetur.
 
 > ^25:3^ Super hoc laudabit te populus fortis, civitas gentium robustarum timebit te;

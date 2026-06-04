@@ -1,6 +1,8 @@
 # D. 22 - What follows from the death of Christ
 
-***Postquam determinavit Magister de his quae pertinent ad mortem Christi, scilicet secundum quam rationem dicatur mortuus, hic determinat ea quae consequuntur ad mortem Christi. Dividitur autem in partesBrussels manuscript omits *partes.* duas.***
+***Divisio textus***
+
+Postquam determinavit Magister de his quae pertinent ad mortem Christi, scilicet secundum quam rationem dicatur mortuus, hic determinat ea quae consequuntur ad mortem Christi. Dividitur autem in partesBrussels manuscript omits *partes.* duas.  
 
 In prima determinat de morte Christi per comparationem ad ejus humanitatem absolute;  
 
@@ -130,7 +132,7 @@ Ad sextum dicendum quod persona non proprie dicitur composita ex naturis, ut sup
 
 Quaestio 2  
 
-***Deinde quaeritur de descensu Christi ad inferos.Bruges manuscript reads *de descensu ad inferos, scilicet Christi.* Et circa hoc quaeruntur duo.***
+Deinde quaeritur de descensu Christi ad inferos.Bruges manuscript reads *de descensu ad inferos, scilicet Christi.* Et circa hoc quaeruntur duo.  
 
 Primo, de descensu Christi ad inferos.  
 
@@ -142,7 +144,7 @@ Articulus 1
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod Christus ad infernum non debuit descendere.***
+Ad primum sic proceditur. Videtur quod Christus ad infernum non debuit descendere.  
 
 Sicut enim dicit Augustinus *Ad Dardanum*, nomen inferni in scriptura semper in malo accipitur. Sed id quod semper in malo accipitur, Christo non competit. Ergo nequeEd. read *nec.* descendere ad infernum.  
 
@@ -156,7 +158,7 @@ Praeterea, Act. 2:24: *quem Deus suscitavit solutis doloribus inferni*. Ergo vid
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod descenderit usque ad infernum damnatorum. Ipse enim non solum sua morte humanum genus a peccato originali liberavit, sed etiam ab actuali. Sed infernus damnatorum est locus poenalis respondens peccato actuali, sicut limbus patrum locus debitus pro peccatoBruges manuscript omits *peccato.* originali. Ergo videtur quod etiam in illum infernum descendere debuerit, sicut in limbum descendit.***
+Ulterius, videtur quod descenderit usque ad infernum damnatorum. Ipse enim non solum sua morte humanum genus a peccato originali liberavit, sed etiam ab actuali. Sed infernus damnatorum est locus poenalis respondens peccato actuali, sicut limbus patrum locus debitus pro peccatoBruges manuscript omits *peccato.* originali. Ergo videtur quod etiam in illum infernum descendere debuerit, sicut in limbum descendit.  
 
 Praeterea, Christi Ascensio respondet suo descensui, quia *qui descendit ipse est et qui ascendit*, Eph. 4:10. Sed ipse ascendit super omnes caelos. Ergo debuit etiam usque ad inferiorem infernum descendere.  
 
@@ -168,7 +170,7 @@ Praeterea, sicut caelum empyreum est locus aeternae gloriae, ita infernus est lo
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod in limbo illo moram non contraxerit.The Nicolaï edition omits *illo*; the Parma edition reads *ullam moram non traxerit.* Ad hoc enim descendit in infernum, ut sanctos qui ibi detinebantur liberaret. Sed statim illicEd. read *illuc.* descendens sanctos liberavit. Ergo videtur quod moram illic trahere non debuit.***
+Ulterius, videtur quod in limbo illo moram non contraxerit.The Nicolaï edition omits *illo*; the Parma edition reads *ullam moram non traxerit.* Ad hoc enim descendit in infernum, ut sanctos qui ibi detinebantur liberaret. Sed statim illicEd. read *illuc.* descendens sanctos liberavit. Ergo videtur quod moram illic trahere non debuit.  
 
 Praeterea, sicut per peccatum aliquis a caelo excluditur, ita per emundationem a peccato aliquis ab inferno liberatur. Sed diabolus, statim ut peccavit, de caelo cecidit. Ergo videtur quod sancti statim ut mundati fuerunt a peccato, de inferno educti sunt,Bruges and Brussels manuscripts read *sunt de inferno educti* against the Paris (841 and 842) manuscripts and the other editions. et ita Christus etiam statim exivit.  
 
@@ -180,7 +182,7 @@ Praeterea, locus animae separatae est infernus vel caelum. Sed anima Christi ant
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod Christus, ut nos ab omnibus defectibus liberaret, in se nostros defectus qui universaliter omnium erant et in defectum gratiae non vergebant, accipere voluit. Hoc autem erat omnibus hominibus commune ante Christi Passionem quod pro debito originalis peccati ad infernum descendebant. Sed in nomine inferni duo importantur, scilicet locus, et poena vel damni vel sensus, scilicet afflictiva. Poena autem damni, scilicet carentia divinae visionis, vergebat in defectum gratiae, quia scilicet non poterat in eis esse gratia consummata, scilicet gloria. Similiter etiam poena sensus post hanc vitam non est satisfactoria, quia illi non sunt in statu merendi; sed est vel purgativa vel damnativa. Purgatio autem debetur alicui impuritati et damnatio debetur peccato mortali. Unde etiam poena sensus post hanc vitam in defectum gratiae vergit. Et ideo Christo fuit competens in infernum descendere secundum quod infernus importat locum, non autem secundum quod importat poenam.***
+Respondeo dicendum ad primam quaestionem quod Christus, ut nos ab omnibus defectibus liberaret, in se nostros defectus qui universaliter omnium erant et in defectum gratiae non vergebant, accipere voluit. Hoc autem erat omnibus hominibus commune ante Christi Passionem quod pro debito originalis peccati ad infernum descendebant. Sed in nomine inferni duo importantur, scilicet locus, et poena vel damni vel sensus, scilicet afflictiva. Poena autem damni, scilicet carentia divinae visionis, vergebat in defectum gratiae, quia scilicet non poterat in eis esse gratia consummata, scilicet gloria. Similiter etiam poena sensus post hanc vitam non est satisfactoria, quia illi non sunt in statu merendi; sed est vel purgativa vel damnativa. Purgatio autem debetur alicui impuritati et damnatio debetur peccato mortali. Unde etiam poena sensus post hanc vitam in defectum gratiae vergit. Et ideo Christo fuit competens in infernum descendere secundum quod infernus importat locum, non autem secundum quod importat poenam.  
 
 Ad primum ergoParis (841) manuscript reads *igitur.* dicendum quod nomen "inferni" secundum quod importat locum, non sonat in malum tantum, et sic potest competere Christo; secundum autem quod importat poenam damni vel sensus, sic Christo competere non potest, quia sic sonat etiam in malum culpae. VelBruges, Brussels, and Paris (841 and 842) manuscripts omit *ergo dicendum quod nomen dicendum quod nomen inferni . . . et iam in malum culpae. Vel* through homoteleuton. The Paris (841) manuscript adds *igitur*. dicendum quod descendere ad infernum, quasi sub potestate infernalium deductus,Ed. read *deduci.* in malum sonat; sed descendere in infernum ad expoliandum ipsum per modum dominii sonat in maximam dignitatem; et sic Christo competit.  
 
@@ -190,7 +192,7 @@ Ad tertium dicendum quod secundum quod nomen inferni importat poenam sensus vel 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod quadruplex est infernus. Unus est infernus damnatorum, in quo sunt tenebrae et quantum ad carentiam divinae visionis et quantum ad carentiamThe Vivès edition omits *divinae visionis et quantum ad carentiam* through homoteleuton. gratiae, et est ibi poena sensibilis; et hic infernus est locus damnatorum. Alius est infernus supra istum, in quo sunt tenebrae et propter carentiam divinae visionis et propter carentiam gratiae, sed non est ibi poena sensibilis; et dicitur limbus puerorum. Alius supra hunc est,Bruges manuscript omits *est.* in quo est tenebraEd. read *in quo sunt tenebrae.* quantum ad carentiam divinae visionis, sed non quantum ad carentiam gratiae, sed est ibi poena sensus; et dicitur "purgatorium." Alius magis supra est, in quo est tenebra quantum ad carentiam divinae visionis, sed non quantum ad carentiam gratiae, neque est ibi poena sensibilis; et hic est infernus sanctorum patrum; et in hunc tantum Christus descendit quantum ad locum, sedBruges manuscript reads *et.* non quantum ad tenebrarum experientiam.***
+Ad secundam quaestionem dicendum quod quadruplex est infernus. Unus est infernus damnatorum, in quo sunt tenebrae et quantum ad carentiam divinae visionis et quantum ad carentiamThe Vivès edition omits *divinae visionis et quantum ad carentiam* through homoteleuton. gratiae, et est ibi poena sensibilis; et hic infernus est locus damnatorum. Alius est infernus supra istum, in quo sunt tenebrae et propter carentiam divinae visionis et propter carentiam gratiae, sed non est ibi poena sensibilis; et dicitur limbus puerorum. Alius supra hunc est,Bruges manuscript omits *est.* in quo est tenebraEd. read *in quo sunt tenebrae.* quantum ad carentiam divinae visionis, sed non quantum ad carentiam gratiae, sed est ibi poena sensus; et dicitur "purgatorium." Alius magis supra est, in quo est tenebra quantum ad carentiam divinae visionis, sed non quantum ad carentiam gratiae, neque est ibi poena sensibilis; et hic est infernus sanctorum patrum; et in hunc tantum Christus descendit quantum ad locum, sedBruges manuscript reads *et.* non quantum ad tenebrarum experientiam.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod Christus liberavit sua Passione a peccato mortali eos qui in via sunt, ut vel non committant vel a commisso absolvantur, si velint; non autem eos qui jam cum peccato mortali decesserunt, quibus debetur ille infernus damnatorum.  
 
@@ -200,7 +202,7 @@ Ad tertium dicendum quod inferiores partes terrae dicuntur etiam illa loca in qu
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod cum anima et corpus sint proportionalia,Ed. read *proportionabilia.* tantum debuit stare anima in inferno quantum corpus in sepulcro, ut per utrumque fratribus suis similaretur, et ut in Resurrectione novam vitam inchoaret et quantum ad animarum liberationem, et quantum ad corporum resurrectionem in suo corpore inchoatam.***
+Ad tertiam quaestionem dicendum quod cum anima et corpus sint proportionalia,Ed. read *proportionabilia.* tantum debuit stare anima in inferno quantum corpus in sepulcro, ut per utrumque fratribus suis similaretur, et ut in Resurrectione novam vitam inchoaret et quantum ad animarum liberationem, et quantum ad corporum resurrectionem in suo corpore inchoatam.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod liberare Christus nos voluit, defectus nostros in se portando; et ideo quamdiu mortuus fuit, voluit secundum animam in inferno esse, sicut secundum corpus in sepulcro.  
 
@@ -214,7 +216,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod Christus limbum patrum non illuminaverit.***
+Ad secundum sic proceditur. Videtur quod Christus limbum patrum non illuminaverit.  
 
 De ratione enim inferni videtur esse tenebra, sicut de ratione paradisi lux. Ergo inferno non competit illuminari.  
 
@@ -228,7 +230,7 @@ Praeterea, Ambrosius dicit in littera quod:Ed. read *ubi supra in textu.* *in in
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod Christus animas extraxerit etiam de inferno damnatorum. Ipse enim dicit,Ed. read *dixit.* *eduxisti*Ed. read *eruisti.* *animam meam ex*Bruges and Paris (15.539) manuscripts read *de.* *inferno inferiori*, et Job 17:16 dicitur:Ed. omit *dicitur.* *in profundissimum infernum descendent omnia*Ed. read *ossa.* *mea*. Sed profundissimum inferni in quod descendit Job et de quo fuit eductus, constat quod fuit infernus damnatorum. Ergo animas eduxit de inferno damnatorum.Brussels manuscript reads *Ulterius videtur quod Christus extraxit etiam animas ex inferno damnatorum. Ipse enim dicit: eduxisti animam meam ex inferno interiori. Et Job XIII dicitur: in profundissimum inferni descendent omnia mea. Sed Christus desccndit in profundissimum infernum in quem descendit Job. Sed constat quod Job fuit eductus de inferno in quem descenderat. Infernus autem inferior et profundissimus est infernus damnatorum. Ergo animas eduxit de inferno damnatorum.****
+Ulterius, videtur quod Christus animas extraxerit etiam de inferno damnatorum. Ipse enim dicit,Ed. read *dixit.* *eduxisti*Ed. read *eruisti.* *animam meam ex*Bruges and Paris (15.539) manuscripts read *de.* *inferno inferiori*, et Job 17:16 dicitur:Ed. omit *dicitur.* *in profundissimum infernum descendent omnia*Ed. read *ossa.* *mea*. Sed profundissimum inferni in quod descendit Job et de quo fuit eductus, constat quod fuit infernus damnatorum. Ergo animas eduxit de inferno damnatorum.Brussels manuscript reads *Ulterius videtur quod Christus extraxit etiam animas ex inferno damnatorum. Ipse enim dicit: eduxisti animam meam ex inferno interiori. Et Job XIII dicitur: in profundissimum inferni descendent omnia mea. Sed Christus desccndit in profundissimum infernum in quem descendit Job. Sed constat quod Job fuit eductus de inferno in quem descenderat. Infernus autem inferior et profundissimus est infernus damnatorum. Ergo animas eduxit de inferno damnatorum.*  
 
 Praeterea, Zachar. 9:11 super illud:Ed. omit *super illud.* *tu autem*Ed. read *quoque.* *in sanguine testamenti etc.* dicit Glossa: *eos qui tenebantur vincti in*Bruges, Brussels, and Paris (841, 842, and 15.539) manuscripts omit *in* and read *victis* or *vinctis.* *carceribus, ubi nulla misericordia eos refrigerabat quam dives ille petebat, tu liberasti.* Sed tales erant damnati in inferno. Ergo ipsiBruges manuscript omits *ipsi.* fuerunt liberati.  
 
@@ -242,7 +244,7 @@ Praeterea, in inferno nulla est redemptio. Ergo inde aliqui liberati non sunt.
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod liberaverit illos qui erant in limbo puerorum. Quia ipsi non detinenturEd. read *detinebantur.* nisi pro peccato originali, sicut etEd. omit *et.* patres sancti. Sed illi sunt educti. Ergo et pueri.***
+Ulterius, videtur quod liberaverit illos qui erant in limbo puerorum. Quia ipsi non detinenturEd. read *detinebantur.* nisi pro peccato originali, sicut etEd. omit *et.* patres sancti. Sed illi sunt educti. Ergo et pueri.  
 
 Praeterea, in eis non est peccatum nisi per alium. Ergo etEd. omit *et.* per alium liberari debuerunt.  
 
@@ -254,7 +256,7 @@ Praeterea, post hanc vitam non datur gratia alicui, nisi habenti. Sed pueri non 
 
 Quaestiuncula 4  
 
-***Ulterius, videtur quod liberaverit illos qui erant in purgatorio. Quia majus erat impedimentum peccati originalis quam peccati venialis. Sed ab impedimento peccati originalis liberavit trahens de limbo. Ergo multo fortius ab impedimento peccati venialis; et ita videtur quod a purgatorio animas eduxerit.***
+Ulterius, videtur quod liberaverit illos qui erant in purgatorio. Quia majus erat impedimentum peccati originalis quam peccati venialis. Sed ab impedimento peccati originalis liberavit trahens de limbo. Ergo multo fortius ab impedimento peccati venialis; et ita videtur quod a purgatorio animas eduxerit.  
 
 Praeterea, Passio Christi non minorem habet efficaciam quam sacramentum Passionis. Sed per sacramentumBruges, Brussels, and Paris (841, 842, 15.539, and 15.770) manuscripts read *sacramenta.* Passionis Christi, scilicet perBrussels manuscript omits *per.* baptismum, aliquis liberatur ab omni poena quae debetur in purgatorio. Ergo videtur quod multo amplius per Passionem Christi illi qui ibi erant, liberati sunt.  
 
@@ -266,7 +268,7 @@ Praeterea, pro peccatoEd. read peccati. quod per se quis commisit, per se debet 
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod cum tenebrae exteriores inferni tenebris interioribus respondeant, ex quo Christus a patribus qui erant in limbo omnes tenebras interiores expulerat per demonstrationem suae Divnitatis,Ed. read *Deitatis.* congruum etiam fuit per praesentiam suae humanitatis quantum ad animam etiam tenebras exteriores ab eis excluderet,Ed. read excludere. locum illumEd. omit *illum.* illuminando.***
+Respondeo dicendum ad primam quaestionem quod cum tenebrae exteriores inferni tenebris interioribus respondeant, ex quo Christus a patribus qui erant in limbo omnes tenebras interiores expulerat per demonstrationem suae Divnitatis,Ed. read *Deitatis.* congruum etiam fuit per praesentiam suae humanitatis quantum ad animam etiam tenebras exteriores ab eis excluderet,Ed. read excludere. locum illumEd. omit *illum.* illuminando.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod jam ille infernus evacuandus erat, quia post tempus illud nullus ad illum limbum descendit; et ideo decens fuit ut aliquid in eo fieret quod est contra rationem inferni.  
 
@@ -276,7 +278,7 @@ Ad tertium dicendum quod eduxit eos de tenebris dum eos illuminavit; et educens 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod poena non potest tolli manente culpa. Illi autem qui sunt damnati in inferno, sunt obstinati in malitia, sicut daemones. Et ideo de poena illi liberari non potuerunt. Et hoc non fuit ex insufficientia liberantis, sed ex indispositione ipsorum.***
+Ad secundam quaestionem dicendum quod poena non potest tolli manente culpa. Illi autem qui sunt damnati in inferno, sunt obstinati in malitia, sicut daemones. Et ideo de poena illi liberari non potuerunt. Et hoc non fuit ex insufficientia liberantis, sed ex indispositione ipsorum.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod "limbus patrum" dicitur "infernus inferior," non simpliciter, sed respectu hujus habitationis de quo anima David vel etiam Christi deductaEd. read *educta.* fuit. Similiter etiam ille locus potest dici profundissimum inferni comparative; ut "profundum" sit respectu caeli aer caliginosus in quo sunt daemones; "profundius" locus nostrae habitationis; "profundissimum" autem limbus patrum de quo Job liberatus fuit.  
 
@@ -288,7 +290,7 @@ Ad quartum dicendum quod loquitur de visitatione quae erit in generali resurrect
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod redemptio Christi non habuit locum nisi in illis qui fuerunt membra Christi. Unde cum pueri qui erant in limbo, nunquam fuerint membra Christi neque per propriam fidem, neque per fidei sacramentum (quod nunc est baptismus, tunc autem erat circumcisio vel sacrificium) constat quod ipsi liberati non fuerunt.***
+Ad tertiam quaestionem dicendum quod redemptio Christi non habuit locum nisi in illis qui fuerunt membra Christi. Unde cum pueri qui erant in limbo, nunquam fuerint membra Christi neque per propriam fidem, neque per fidei sacramentum (quod nunc est baptismus, tunc autem erat circumcisio vel sacrificium) constat quod ipsi liberati non fuerunt.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod in patribus erat gratia quae non erat in pueris, per quam patres erant membra Christi; et ideo effectum redemptionis perceperunt, quod non fuit de pueris.  
 
@@ -298,7 +300,7 @@ Ad tertium dicendum quod quamvis quantum ad genus peccati esset eorum peccatum p
 
 Solutio 4  
 
-***Ad quartam quaestionem dicendum quod quamvis hoc non inveniatur determinatum a sanctis, tamen potest dici quod illi qui erant in purgatorio, non fuerunt liberati; quia cum poena purgatorii debeatur peccato actuali, oportet quod expietur per proprium actum vel passionem illius qui peccavit vel alterius specialisThe Piana and Antwerp editions read *spiritualis.* personae agentis pro ipso. In purgatorio autem non potest culpa expiari per actum aliquem meritorium, quia non sunt in statu merendi. Unde oportet quod expietur eorum culpa per poenam quam ipsi sustineant, nisi per suffragiumEd. read *suffragia.* eorum qui sunt in statu merendi, liberentur. Passio autem Christi immediate removet impedimentum ex peccato originali proveniens, quod ex altero contractum est; sed ad removendamEd. read *removendum.* poenam debitam actuali peccato, quod quisque ex seipso commisit, pertingit ejus efficacia mediante aliquo sacramento circa personam exhibito, aut aliquo actu ipsius personae vel alterius ad ipsam relati;Ed. read *relato.* et ideo non decebat ut per solam Christi Passionem a purgatorio liberarentur. Nisi dicatur quod in vita sua hoc meruerunt ut per Passionem Christi liberarentur, vel hocBruges manuscript omits *hoc.* ex speciali gratia fuit quod illi qui in purgatorio inventi fuerunt, absoluti sint per Passionem Christi; quamvis nunc illi qui sunt in purgatorio, non consequantur effectum plenae liberationis ex sola Passione Christi.***
+Ad quartam quaestionem dicendum quod quamvis hoc non inveniatur determinatum a sanctis, tamen potest dici quod illi qui erant in purgatorio, non fuerunt liberati; quia cum poena purgatorii debeatur peccato actuali, oportet quod expietur per proprium actum vel passionem illius qui peccavit vel alterius specialisThe Piana and Antwerp editions read *spiritualis.* personae agentis pro ipso. In purgatorio autem non potest culpa expiari per actum aliquem meritorium, quia non sunt in statu merendi. Unde oportet quod expietur eorum culpa per poenam quam ipsi sustineant, nisi per suffragiumEd. read *suffragia.* eorum qui sunt in statu merendi, liberentur. Passio autem Christi immediate removet impedimentum ex peccato originali proveniens, quod ex altero contractum est; sed ad removendamEd. read *removendum.* poenam debitam actuali peccato, quod quisque ex seipso commisit, pertingit ejus efficacia mediante aliquo sacramento circa personam exhibito, aut aliquo actu ipsius personae vel alterius ad ipsam relati;Ed. read *relato.* et ideo non decebat ut per solam Christi Passionem a purgatorio liberarentur. Nisi dicatur quod in vita sua hoc meruerunt ut per Passionem Christi liberarentur, vel hocBruges manuscript omits *hoc.* ex speciali gratia fuit quod illi qui in purgatorio inventi fuerunt, absoluti sint per Passionem Christi; quamvis nunc illi qui sunt in purgatorio, non consequantur effectum plenae liberationis ex sola Passione Christi.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod quamvis impedimentum peccati originalis sit gravius, tamen est solubile per alium totaliter; quod non est de impedimento venialis peccati ratione praedicta.  
 
@@ -374,7 +376,7 @@ Praeterea, nullus motus violentus est propria virtute mobilis. Sed Christus prop
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod Ascensionis motus fuerit subitus. Quia Augustinus dicit in quaestionibus de resurrectione, quod tales sunt motus corporum glorificatorum, sicut motus radii solis. Sed motus radii est in instanti. Ergo et motus corporis Christi gloriosi.***
+Ulterius, videtur quod Ascensionis motus fuerit subitus. Quia Augustinus dicit in quaestionibus de resurrectione, quod tales sunt motus corporum glorificatorum, sicut motus radii solis. Sed motus radii est in instanti. Ergo et motus corporis Christi gloriosi.  
 
 Praeterea, corpus Christi gloriosum, omnino erat subjectum voluntati spiritus. Sed voluntas in instanti potest moveri de loco ad locum. Ergo et corpus Christi glorificatum.  
 
@@ -386,7 +388,7 @@ Praeterea, motus subitaneus non potest percipi. Sed apostoli viderunt Christi As
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod statim post Resurrectionem ascendere debuerit. Quia Ascensio sua est exemplar aliorum sanctorum. Sed alii sancti post resurrectionem corporum futuram ascendent. Ergo et Christus statim post resurrectionem ascendere debuit.Ed. omit *statim post resurrectionem ascendere.****
+Ulterius, videtur quod statim post Resurrectionem ascendere debuerit. Quia Ascensio sua est exemplar aliorum sanctorum. Sed alii sancti post resurrectionem corporum futuram ascendent. Ergo et Christus statim post resurrectionem ascendere debuit.Ed. omit *statim post resurrectionem ascendere.*  
 
 Praeterea, sicut debuit probari veritas Resurrectionis, ita debuit probari veritas mortis. Sed ipse, ut probaret veritatem mortis, distulit Resurrectionem usque inBruges manuscript reads *ad.* tertiamParis (841) manuscript reads *tertium.* diem. ErgoBruges manuscript adds *et.* similiter debuit ascendere tertia die post Resurrectionem.  
 
@@ -398,7 +400,7 @@ Praeterea, consolationes divinae excedunt tribulationem humanam. Sed apostoli fu
 
 Solutio 1  
 
-***Respondeo dicendumBruges, Brussels, and Paris (841, 842, 15.539 and 15.770) manuscripts as well as the other editions omit *ad primam quaestionem.* quod motus naturalis dicitur cujus principium est natura. "Natura" autem dicitur dupliciter: scilicet de forma quae est principium activum motus et de materia quae est principium passivum. Secundum hoc igitur dupliciter dicitur aliquis motus naturalis. Uno modo quia in ipsoEd. read *eo.* quod movetur est principium activum motus; et sic corpora gravia et levia moventur naturaliter. Alio modo quia in eo quod movetur est dispositio naturalis per quam aliquid est mobile ab aliquoBruges manuscript adds *etiam.* movente; et hoc contingit dupliciter. Quia vel estEd. read *inest.* ista aptitudo ad hoc quod moveatur ab illo movente cum inclinatione ad contrariumThe Vivès edition adds *et.* motum, sicut est in corpore animalis; etThe Vivès edition omits *et.* tunc motus illeBruges manuscript omits *ille.* dicitur "violentus" quantum ad naturam corporis, inquantum est corpus; "naturalis" autem quantum ad naturam corporis, inquantum est animatum, ut dicit Philosophus inEd. omit *in.* 8 *Phys*. Aut non est aptitudo ad contrarium inclinans, sicut patet in motu corporumEd. omit *corporum.* caelestium quae moventur a substantia separata, et tamen dicuntur moveri naturaliter, ut dicit Commentator in 1 *Caeli et mundi.* EtEd. omit *et.* hoc modo motus Ascensionis Christi fuit naturalis; quia cum corpus glorificatum omnino sit subjectum animae, non potest esse aliqua inclinatio ad contrarium ejus quod anima vult; unde removetur in eisThe Venice and Parma editions read *eo.* inclinatio gravitatis et levitatis repugnans voluntati, sicut inclinatio calidi et frigidi, quae est ad mutuam corruptionem.***
+Respondeo dicendumBruges, Brussels, and Paris (841, 842, 15.539 and 15.770) manuscripts as well as the other editions omit *ad primam quaestionem.* quod motus naturalis dicitur cujus principium est natura. "Natura" autem dicitur dupliciter: scilicet de forma quae est principium activum motus et de materia quae est principium passivum. Secundum hoc igitur dupliciter dicitur aliquis motus naturalis. Uno modo quia in ipsoEd. read *eo.* quod movetur est principium activum motus; et sic corpora gravia et levia moventur naturaliter. Alio modo quia in eo quod movetur est dispositio naturalis per quam aliquid est mobile ab aliquoBruges manuscript adds *etiam.* movente; et hoc contingit dupliciter. Quia vel estEd. read *inest.* ista aptitudo ad hoc quod moveatur ab illo movente cum inclinatione ad contrariumThe Vivès edition adds *et.* motum, sicut est in corpore animalis; etThe Vivès edition omits *et.* tunc motus illeBruges manuscript omits *ille.* dicitur "violentus" quantum ad naturam corporis, inquantum est corpus; "naturalis" autem quantum ad naturam corporis, inquantum est animatum, ut dicit Philosophus inEd. omit *in.* 8 *Phys*. Aut non est aptitudo ad contrarium inclinans, sicut patet in motu corporumEd. omit *corporum.* caelestium quae moventur a substantia separata, et tamen dicuntur moveri naturaliter, ut dicit Commentator in 1 *Caeli et mundi.* EtEd. omit *et.* hoc modo motus Ascensionis Christi fuit naturalis; quia cum corpus glorificatum omnino sit subjectum animae, non potest esse aliqua inclinatio ad contrarium ejus quod anima vult; unde removetur in eisThe Venice and Parma editions read *eo.* inclinatio gravitatis et levitatis repugnans voluntati, sicut inclinatio calidi et frigidi, quae est ad mutuam corruptionem.  
 
 Quidam autemBruges manuscript reads *tamen*; the Paris (841) manuscript omits *autem.* dicunt quod fuit etiam motus naturalis ex hoc quod principium activum fuit in corporis natura, sicut in motu gravium et levium; quia in corpore glorificato regnat natura caeli empyrei, quae et est de compositione corporis humani. Quod est impossibile. Quia si aliquid de caelo empyreo esset pars corporis nostri, oporteret quod esset commixtumBruges manuscript reads *conjunctum.* elementis; aliasBruges manuscript adds *autem.* esset distinctum ab eis, et non esset pars, quia non esset unum nisi aggregatione. Praeterea, si esset pars, non inclinaret ad motum rectum sed ad nullum; quia de natura caeli empyrei non est quod moveatur nisi ad motum circularem qui est naturalis quintae essentiae.  
 
@@ -412,7 +414,7 @@ Ad quartum dicendum quod locus ille est peregrinus carni inquantum est caro, non
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod illa opinio est facilior ad sustinendum quae ponit quod corpus Christi in Ascensione movebatur tempore perceptibili quidem sua voluntate, sed poteratBrussels manuscript adds *in.* tempore imperceptibili moveri, non autem in instanti; quia oportebat quod corpus Christi in Ascensione transiret per media, cum per suam substantiam determinaretur ad locum, et impossibile est quod sit in diversis locis simul; et ita oportebat quod in mediis locis esset in diversis instantibus, et sic oportebat motum illum esse successivum.***
+Ad secundam quaestionem dicendum quod illa opinio est facilior ad sustinendum quae ponit quod corpus Christi in Ascensione movebatur tempore perceptibili quidem sua voluntate, sed poteratBrussels manuscript adds *in.* tempore imperceptibili moveri, non autem in instanti; quia oportebat quod corpus Christi in Ascensione transiret per media, cum per suam substantiam determinaretur ad locum, et impossibile est quod sit in diversis locis simul; et ita oportebat quod in mediis locis esset in diversis instantibus, et sic oportebat motum illum esse successivum.  
 
 Ad primum igiturBrussels manuscript and the other editions read *ergo.* dicendum quod similitudo quantum ad imperceptibilitatem, et non quantum ad genus motus attenditur; quia motus radii est motus alterationis, ut dicitur in lib. *De sensu et sensato*, unde potest esse subitus;The Piana, Antwerp, Nicolaï, and Venice read q*uia motus radii est motus alterationis. . . unde non potest esse subitus*; the Parma and Vivès editions read *quia motus radii non est motus alterationis. . . unde potest esse subitus.* motus autem corporum glorificatorum est motus localis, et ideo oportet quod sit successivus.  
 
@@ -422,7 +424,7 @@ Ad tertium dicendum quod ratio illa procedit de virtute movente ex necessitate n
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod ea quae circa Christum acta sunt, dispensative facta sunt propter aliquam utilitatem. Et ideo ad ostendendamEd. read *ostendendum.* veritatem suae Resurrectionis oportuit quod non statim post Resurrectionem ascenderet, sed diu cum apostolis conversaretur, ut ex magna familiaritate omnis dubitatio tolleretur; quia si tantum apparuisset semel, potuisset videri esse aliqua illusio, et ideo pluries in illis quadraginta diebus illis apparuit. Fuit etiam dilata Ascensio ad consolationem discipulorumEd. read *apostolorum.* qui de morte contristati fuerunt. Et ideo dicit Glossa Act. 1:3, quod sicut quadraginta horae fuerunt mortis Christi, ita quadraginta diebus cum eis conversatus est post Resurrectionem, quia consolatio divina excedit tristitiam humanam.***
+Ad tertiam quaestionem dicendum quod ea quae circa Christum acta sunt, dispensative facta sunt propter aliquam utilitatem. Et ideo ad ostendendamEd. read *ostendendum.* veritatem suae Resurrectionis oportuit quod non statim post Resurrectionem ascenderet, sed diu cum apostolis conversaretur, ut ex magna familiaritate omnis dubitatio tolleretur; quia si tantum apparuisset semel, potuisset videri esse aliqua illusio, et ideo pluries in illis quadraginta diebus illis apparuit. Fuit etiam dilata Ascensio ad consolationem discipulorumEd. read *apostolorum.* qui de morte contristati fuerunt. Et ideo dicit Glossa Act. 1:3, quod sicut quadraginta horae fuerunt mortis Christi, ita quadraginta diebus cum eis conversatus est post Resurrectionem, quia consolatio divina excedit tristitiam humanam.  
 
 Ad primum igiturEd. read *ergo.* dicendum quod aliorum sanctorum non oportebit resurrectionem probare, quia omnibus manifesta erit; et ideo non oportet quod differatur.  
 
@@ -436,7 +438,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod Christus non ascenderit supra omnes caelos.***
+Ad tertium sic proceditur. Videtur quod Christus non ascenderit supra omnes caelos.  
 
 Corpus enim Christi necessario est in loco. Sed extra omnes caelos non est locus, secundum Philosophum lib.Paris (841) manuscript adds *in*; the Paris (842) manuscript reads *in primo*; the other editions omit *lib.* 1 *Caeli et mundi.* Ergo supraBruges manuscript reads *super.* omnes caelos ascendere non potuit.  
 
@@ -448,7 +450,7 @@ Sed contra, Hebr. 7:26: *excelsior caelis factus*. Praeterea, Ephes. 6:1: *ascen
 
 Quaestiuncula 2  
 
-***Ulterius, videtur quod non ascenderit ad dexteram Patris. Dextera enim vel sinistra sunt differentiae situs vel positionis. Sed Deus, cum sit summe spiritualis, non habet situm. Ergo non habet dexteram et sinistram.***
+Ulterius, videtur quod non ascenderit ad dexteram Patris. Dextera enim vel sinistra sunt differentiae situs vel positionis. Sed Deus, cum sit summe spiritualis, non habet situm. Ergo non habet dexteram et sinistram.  
 
 Praeterea, metaphorice Filius ipse dicitur dextera Patris, Ps. *manus tua confregit inimicum*. Sed haec praepositio "ad" denotat distinctionem, quia praepositiones transitivae sunt. Cum ergo Filius a seipso non distinguatur, videtur quod ei non conveniat ad dexteram Patris sedere.  
 
@@ -462,7 +464,7 @@ Praeterea, in Symbolo dicitur: *ascendit ad caelos, sedet ad dexteram Dei Patris
 
 Quaestiuncula 3  
 
-***Ulterius, videtur quod non soli Christo conveniat ad dexteram Patris sedere. Eph. 2:6: *consedere nos fecit Christo in caelestibus*.The Vivès edition reads *Consedere nos fecit in caelestibus in Christo.* Si ergo Christus sedet ad dexteram, et nos ad dexteram sedere faciet.***
+Ulterius, videtur quod non soli Christo conveniat ad dexteram Patris sedere. Eph. 2:6: *consedere nos fecit Christo in caelestibus*.The Vivès edition reads *Consedere nos fecit in caelestibus in Christo.* Si ergo Christus sedet ad dexteram, et nos ad dexteram sedere faciet.  
 
 Praeterea, Ephes. 1:20: *constituens illum ad dexteram*, Glossa: *id est aeternam beatitudinem*. Sed omnibus sanctis communicatur aeterna beatitudo. Ergo omnibus sanctis convenit ad dexteram sedere, et non soli Christo.  
 
@@ -476,7 +478,7 @@ Praeterea, aequalitas est in Filio, ut dicit Augustinus in lib. 83 Qq. per appro
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem quod terminus Ascensionis Christi est et locus et dignitas, non quamBruges manuscript reads *quod*; the Brussels manuscript reads *quem.* tunc de novo acceperit, sed quaeBrussels manuscript reads *qui.* tunc innotuit. Secundum autem quod terminus est locus, sic est exaltatus usque ad supremum locorum corporalium; non quod non possit inde moveri, sed secundum congruentiam debetur sibi locus altissimus etiam ubicumque sit; sed ad illudEd. read *id.* quod sibi secundum congruentiam debetur, tunc actu exaltatus fuit.***
+Respondeo dicendum ad primam quaestionem quod terminus Ascensionis Christi est et locus et dignitas, non quamBruges manuscript reads *quod*; the Brussels manuscript reads *quem.* tunc de novo acceperit, sed quaeBrussels manuscript reads *qui.* tunc innotuit. Secundum autem quod terminus est locus, sic est exaltatus usque ad supremum locorum corporalium; non quod non possit inde moveri, sed secundum congruentiam debetur sibi locus altissimus etiam ubicumque sit; sed ad illudEd. read *id.* quod sibi secundum congruentiam debetur, tunc actu exaltatus fuit.  
 
 Ad primum igiturParis (842) manuscript and the other editions read *ergo.* dicendum quod non dicitur ascendisse super caelos quia extra caelum empyreum sit, sed quia in altissimam partem caeli empyrei ascendit.  
 
@@ -486,7 +488,7 @@ Ad tertium dicendum quod quamvis corporalis natura sit citra naturam spiritus, t
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum quod dextera est nobilior pars corporis; unde qui alteri ad dexteram sedet, nobilissimo modo ei conjungitur. ModusEd. read *nobilissimus autem modus.* autem secundum quem aliquis Patri conjungitur, vel est nobilissimus simpliciter, et sic est esse aequalem sibi, et hoc convenit Filio secundum divinam naturam; vel est nobilissimus quantum possibile est creaturae; et hoc est conjungi ei in unione personae Filii ejus, et sic sedere ad dexteram convenit Christo secundum humanam naturam: significat enim sessio firmitatem illius conjunctionis.***
+Ad secundam quaestionem dicendum quod dextera est nobilior pars corporis; unde qui alteri ad dexteram sedet, nobilissimo modo ei conjungitur. ModusEd. read *nobilissimus autem modus.* autem secundum quem aliquis Patri conjungitur, vel est nobilissimus simpliciter, et sic est esse aequalem sibi, et hoc convenit Filio secundum divinam naturam; vel est nobilissimus quantum possibile est creaturae; et hoc est conjungi ei in unione personae Filii ejus, et sic sedere ad dexteram convenit Christo secundum humanam naturam: significat enim sessio firmitatem illius conjunctionis.  
 
 Ad primum igiturEd. read ergo. dicendum quod non dicitur proprie dextera, sed metaphorice.  
 
@@ -498,7 +500,7 @@ Ad quartum dicendum quod Christus inquantum exit a Patre per generationem, dicit
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod nulli creaturae convenit esse aequalem Patri, neque conjungi Filio ejus in unitate personae, secundum quod dicitur Christus ad dexteram sedere; et ideo nulli creaturae convenit.***
+Ad tertiam quaestionem dicendum quod nulli creaturae convenit esse aequalem Patri, neque conjungi Filio ejus in unitate personae, secundum quod dicitur Christus ad dexteram sedere; et ideo nulli creaturae convenit.  
 
 Ad primum igiturBrussels manuscript omits *igitur*; the other editions read *ergo.* dicendum quod fecit nos consedere inquantum nos gloria stabilivit et judiciariam potestatem dedit; non autem consedere ad dexteram. Vel dicendum quod nos consedereEd. read *sedere.* fecit etiam ad dexteram, sed non in nobis, sed in Christo, inquantum ipse est unius naturae nobiscum, quam, prout est in Christo, ad dexteram Patris collocavit.  
 
@@ -510,7 +512,7 @@ Ad quartum dicendum quod Spiritus Sanctus potest dici sedere ad dexteram Patris,
 
 Expositio textus  
 
-****Fidei argumentum a philosophicis argumentis est liberum*, quia per ea nec probari nec improbari potest.***
+*Fidei argumentum a philosophicis argumentis est liberum*, quia per ea nec probari nec improbari potest.  
 
 *Et ipse forte ante mortem*... Hoc dicit propter tertiam opinionem quae nondum erat suo tempore damnata quae dicebat quod etiam ante mortem erat hoc modo homo.  
 

@@ -1,10 +1,12 @@
 # This is the Book
 
-***This is the book of the commandments of God, and the law that is forever: all they that keep it shall come to life: but they that have forsaken it, to death (Bar 4:1).***
+***Baruch 4:1***
+
+This is the book of the commandments of God, and the law that is forever: all they that keep it shall come to life: but they that have forsaken it, to death (Bar 4:1).  
 
 > The Commendation of Sacred Scripture
 
-***According to Augustine, *a skilled speaker should speak to teach, to delight and to motivate: to teach the ignorant, to delight the bored, and to motivate the lazy* (*On Christian Doctrine* 4.12). The speech of Sacred Scripture does these three things most completely.***
+According to Augustine, *a skilled speaker should speak to teach, to delight and to motivate: to teach the ignorant, to delight the bored, and to motivate the lazy* (*On Christian Doctrine* 4.12). The speech of Sacred Scripture does these three things most completely.  
 
 For it teaches steadfastly with its eternal truth: *forever, O Lord, thy word stands firm in heaven* (Ps 118:89).  
 
@@ -38,7 +40,7 @@ And this is necessary because all had one teacher: *for one is your teacher* (Ma
 
 The Truth of Sacred Scripture  
 
-***The truth of this teaching of Scripture is immutable and eternal. Hence it follows: ***and the law that is forever***. *Heaven and earth will pass away; but my words will not pass away* (Luke 21:33).***
+The truth of this teaching of Scripture is immutable and eternal. Hence it follows: ***and the law that is forever***. *Heaven and earth will pass away; but my words will not pass away* (Luke 21:33).  
 
 This law will endure in eternity because of three things.  
 
@@ -50,7 +52,7 @@ Third, because of the truth of the law: *all your commandments are truth* (Ps 11
 
 The Usefulness of Sacred Scripture  
 
-***But the usefulness of this Scripture is the greatest: *I am the Lord your God who teaches you useful things* (Isa 48:17). Hence it follows: ***all they that keep it shall come to life***. Indeed, this happens in three ways.***
+But the usefulness of this Scripture is the greatest: *I am the Lord your God who teaches you useful things* (Isa 48:17). Hence it follows: ***all they that keep it shall come to life***. Indeed, this happens in three ways.  
 
 First, there is the life of grace, to which Sacred Scripture disposes: *the words that I have spoken to you are spirit and life* (John 6:64). For through this life the spirit lives in God: *and I live, now not I; but Christ lives in me* (Gal 2:20).  
 
@@ -60,7 +62,7 @@ Third, there is the life of glory, which Sacred Scripture promises and to which 
 
 The Division of Sacred Scripture  
 
-***But Sacred Scripture leads to this life in two ways: namely, by commanding and by helping.***
+But Sacred Scripture leads to this life in two ways: namely, by commanding and by helping.  
 
 Commanding, by the commands that it sets forth, which pertains to the Old Testament: *Moses commanded a law to us* (Sir 24:33).  
 
@@ -70,7 +72,7 @@ Hence, the whole of Sacred Scripture is principally divided into two parts, name
 
 The Old Testament  
 
-***The Old Testament is divided according to the teaching of the commandments, because the commandment has two kinds, namely, the coercive and the warning.***
+The Old Testament is divided according to the teaching of the commandments, because the commandment has two kinds, namely, the coercive and the warning.  
 
 The coercive is the command of a king who can punish transgressors: *as the roaring of a lion, so also is the dread of a king* (Prov 20:2).  
 
@@ -94,7 +96,7 @@ Jerome adds a fourth book as well, namely, the apocrypha, which is called apocry
 
 The Law  
 
-***The first part, that which contains law, is divided into two parts, according to the two types of law, namely, public and private.***
+The first part, that which contains law, is divided into two parts, according to the two types of law, namely, public and private.  
 
 A private law is that which one person or one family is made to observe. And such is the law contained in Genesis, which is clear from the first command given to man: *of the tree of knowledge of good and evil, you shall not eat* (Gen 2:17); and to Noah: *flesh with blood you shall not eat* (Gen 9:4); and to Abraham: *you shall keep my covenant and your seed after you in their generations* (Gen 17:9).  
 
@@ -116,7 +118,7 @@ third, in offices related to public administration, and this is in the book of N
 
 The Prophets  
 
-***The second part, which is the prophets, is divided into two parts, according to the two tasks that a herald ought to perform: for he should expound the goodness of the king to incline men to obedience; and he should declare the rule of the law.***
+The second part, which is the prophets, is divided into two parts, according to the two tasks that a herald ought to perform: for he should expound the goodness of the king to incline men to obedience; and he should declare the rule of the law.  
 
 There is a threefold divine goodness that the prophets show to the people:  
 
@@ -140,7 +142,7 @@ They can also be distinguished in another way, as it is said that Isaiah princip
 
 The Hagiographic and Apocryphal Books  
 
-***The third part, which contains the hagiographic and the apocryphal books, is divided in two, according to the two ways fathers train their sons in virtue, namely, by word and by deed; because in morality examples are no less important than words. Hence, there are some who teach by deeds alone; there are some who teach by words alone; and there are some who teach by word and deed.***
+The third part, which contains the hagiographic and the apocryphal books, is divided in two, according to the two ways fathers train their sons in virtue, namely, by word and by deed; because in morality examples are no less important than words. Hence, there are some who teach by deeds alone; there are some who teach by words alone; and there are some who teach by word and deed.  
 
 By deeds, however, in two ways.  
 
@@ -180,7 +182,7 @@ Sirach instructs in both word and deed. Hence, the precepts of wisdom which it p
 
 The New Testament  
 
-***The New Testament, which is ordered to eternal life, not only by precepts, but through the gifts of grace, is divided into three parts.***
+The New Testament, which is ordered to eternal life, not only by precepts, but through the gifts of grace, is divided into three parts.  
 
 In the first, the origin of grace is treated, and this is in the Gospels.  
 
@@ -190,7 +192,7 @@ In the third, the carrying out of the aforesaid power is discussed: and this is 
 
 The Gospels  
 
-***Now, the origin of grace is Christ: *of his fullness, we have all received, grace for grace, because the law was given by Moses, grace and truth are brought by Jesus Christ* (John 1:16–17).***
+Now, the origin of grace is Christ: *of his fullness, we have all received, grace for grace, because the law was given by Moses, grace and truth are brought by Jesus Christ* (John 1:16–17).  
 
 In Christ two natures are to be considered, namely:  
 
@@ -208,7 +210,7 @@ Or alternatively, Matthew might be said to designate Christ principally in terms
 
 The Remaining Books of the New Testament  
 
-***The carrying out of the power of grace is shown in the progress of the Church, in which there are three things to consider.***
+The carrying out of the power of grace is shown in the progress of the Church, in which there are three things to consider.  
 
 First, the beginning of the Church; and this is treated in the Acts of the Apostles; hence, Jerome says: *the Acts of the Apostles seems to give the bare history and to clothe the infancy of the nascent Church*.The quote is actually located in Jerome, "To Paulinus" paragraph 9. See Jerome, *Epistulae* (CPL 0620), epist. 53, vol. 54, par. 9.  
 

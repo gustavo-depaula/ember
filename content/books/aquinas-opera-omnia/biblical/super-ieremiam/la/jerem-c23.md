@@ -1,6 +1,8 @@
 # C. 21 - Threat against the kings
 
-***^21:1^ Verbum quod factum est ad Jeremiam a Domino, quando misit ad eum rex Sedecias Phassur filium Melchiae, et Sophoniam filium Maasiae sacerdotem, dicens:***
+***Lectio 1***
+
+^21:1^ Verbum quod factum est ad Jeremiam a Domino, quando misit ad eum rex Sedecias Phassur filium Melchiae, et Sophoniam filium Maasiae sacerdotem, dicens:  
 
 > ^21:2^ interroga et ora pro nobis Dominum, quia Nabuchodonosor rex Babylonis praeliatur adversum nos: si forte faciat Dominus nobiscum secundum omnia mirabilia sua, et recedat a nobis.
 

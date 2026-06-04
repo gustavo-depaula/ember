@@ -1,10 +1,12 @@
 # C. 7 - The Law and Sin
 
+***The Law and Sin***
+
 ***Lecture 1***
 
 ***Loosed from the law of death***
 
-***^7:1^ Do you not know, brethren (for I speak to those who know the law) that the law has dominion over a man as long as he lives? [n. 518]***
+^7:1^ Do you not know, brethren (for I speak to those who know the law) that the law has dominion over a man as long as he lives? [n. 518]  
 
 > ^7:2^ For the woman who has a husband, while her husband lives is bound to the law. But if her husband dies, she is loosed from the law of her husband. [n. 521]
 
@@ -112,7 +114,7 @@ Lecture 2
 
 ***The law makes sin beyond measure***
 
-***^7:7^ What shall we say, then? Is the law sin? [n. 532] God forbid! But I would not have known sin, except through the law. For I would not have known concupiscence, if the law did not say: *you shall not covet*. [n. 534]***
+^7:7^ What shall we say, then? Is the law sin? [n. 532] God forbid! But I would not have known sin, except through the law. For I would not have known concupiscence, if the law did not say: *you shall not covet*. [n. 534]  
 
 > ^7:8^ But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. [n. 540] For without the law sin was dead. [n. 544]
 
@@ -260,7 +262,7 @@ Lecture 3
 
 ***The flesh under the law of sin***
 
-***^7:14^ For we know that the law is spiritual. But I am carnal, sold under sin. [n. 556]***
+^7:14^ For we know that the law is spiritual. But I am carnal, sold under sin. [n. 556]  
 
 > ^7:15^ For that which I work, I do not understand. For I do not that good which I will: but the evil which I hate, that I do. [n. 562]
 
@@ -426,7 +428,7 @@ Lecture 4
 
 ***The mind’s struggle against the flesh***
 
-***^7:21^ I find then a law, that when I have a will to do good, evil is present with me. [n. 583]***
+^7:21^ I find then a law, that when I have a will to do good, evil is present with me. [n. 583]  
 
 > ^7:22^ For I am delighted with the law of God, according to the inner man: [n. 585]
 

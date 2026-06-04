@@ -1,1 +1,3 @@
 # Articulus 80
+
+Quod vero octuagesimo ponitur, *ille actus, scilicet generatio, de Dei substantia et ideo est ei essentiale esse infinitum; sed productio creaturarum non est ex nihilo, et ideo est illi essentiale esse finitum*, obscure dictum est, quod dicit productionem creaturarum esse ex nihilo: et non sic est intelligendum, quasi ipsa actio productionis sit ex nihilo, sed productum, eo modo loquendi, quod diceretur quod operatio cultelli est ex ferro; similiter quod dicit productionem creaturarum esse aliquod finitum, intelligit ex parte producti, et non ex parte actionis: Deus enim actione infinita producit effectum finitum.

@@ -1,8 +1,10 @@
 # D. 20 - Equality of the divine persons in power
 
+***De aequalitate personarum in potestate***
+
 ***Divisio textus***
 
-***Postquam probavit aequalitatem personarum in magnitudine, hic ostendit earum aequalitatem in potestate; et dividitur in partes duas: primo proponit intentum; secundo propositum probat rationibus Augustini, ibi: *nihil, inquit, Pater minus habet ille qui dicit: omnia quae habet Pater mea sunt*.***
+Postquam probavit aequalitatem personarum in magnitudine, hic ostendit earum aequalitatem in potestate; et dividitur in partes duas: primo proponit intentum; secundo propositum probat rationibus Augustini, ibi: *nihil, inquit, Pater minus habet ille qui dicit: omnia quae habet Pater mea sunt*.  
 
 Et haec dividitur in duas: in prima Augustinus probat propositum per auctoritatem; in secunda per rationem, ibi: *item alio modo probat Filium aequalem Patri*.  
 
@@ -72,7 +74,7 @@ Articulus 2
 
 ***Utrum Filius sit aequalis Patri***
 
-***Ad secundum sic proceditur. Videtur quod Filius non sit aequalis Patri in omnipotentia.***
+Ad secundum sic proceditur. Videtur quod Filius non sit aequalis Patri in omnipotentia.  
 
 Sicut enim infra dicitur, potentia appropriatur Patri non autem Filio. Ergo videtur quod magis Patri quam Filio conveniat; et sic non sunt aequales in potentia.  
 
@@ -148,13 +150,13 @@ Unde patet solutio ad sextum.
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum, quod est ibi ordo naturae, non tamen ita quod natura ordinetur, vel quod Pater naturaliter prior sit Filio; sed ita quod dicat rationem ordinis, secundum quod in natura importatur origo. Et quamvis secundum rem sit idem divina natura quod essentia, tamen ratio originis non importatur in nomine essentiae sicut in nomine naturae, ratione enim differunt: et ideo non potest dici ordo essentiae, sicut ordo naturae.***
+Ad id quod ulterius quaeritur, dicendum, quod est ibi ordo naturae, non tamen ita quod natura ordinetur, vel quod Pater naturaliter prior sit Filio; sed ita quod dicat rationem ordinis, secundum quod in natura importatur origo. Et quamvis secundum rem sit idem divina natura quod essentia, tamen ratio originis non importatur in nomine essentiae sicut in nomine naturae, ratione enim differunt: et ideo non potest dici ordo essentiae, sicut ordo naturae.  
 
 Et per hoc patet responsio ad ea quae objiciuntur.  
 
 Expositio textus  
 
-****Nam si minus habet in potestate aliquid quam Pater, non sunt ejus omnia quae habet Pater*. Videtur quod ratio Augustini non valeat sed mutet quid in quantum, sic arguens: omnia quae habet Pater, habet Filius. Ergo Filius non habet minorem potentiam quam Pater. Nec etiam videtur valere hoc quod postea de omnipotentia inducit, quia omnipotentia etiam nominat quantitatem potentiae; et ideo idem peccatum videtur esse utrobique. Sed dicendum, quod quamvis non valeat ex modo arguendi, valet tamen ex natura rei de qua argumentum sumitur: non enim potest hoc quod habet Pater Filius habere, nisi idem in numero non mutatum: unde oportet quod quantum est in Patre, tantum etiam sit in Filio.***
+*Nam si minus habet in potestate aliquid quam Pater, non sunt ejus omnia quae habet Pater*. Videtur quod ratio Augustini non valeat sed mutet quid in quantum, sic arguens: omnia quae habet Pater, habet Filius. Ergo Filius non habet minorem potentiam quam Pater. Nec etiam videtur valere hoc quod postea de omnipotentia inducit, quia omnipotentia etiam nominat quantitatem potentiae; et ideo idem peccatum videtur esse utrobique. Sed dicendum, quod quamvis non valeat ex modo arguendi, valet tamen ex natura rei de qua argumentum sumitur: non enim potest hoc quod habet Pater Filius habere, nisi idem in numero non mutatum: unde oportet quod quantum est in Patre, tantum etiam sit in Filio.  
 
 *Si dicis, quia non voluit, eum invidum esse dixisti*. Videtur quod non consequitur, quia per eumdem modum posset probari quod nullam creaturam meliorem quam fecit facere potuisset. Sed dicendum, quod non est simile: quia si negatur rei illud quod sibi debetur, invidiae est: non autem si non datur quod ei non debetur. Filio autem ex natura Deitatis aequalitas generantis debetur: unde invidia esset si sibi subtraheret. Non autem debetur creaturae secundum naturam suam amplior perfectio quam illud quod consequitur principia naturae: unde si aliquid in natura rationali superadditur, gratiae imputatur; unde etiam sine invidia subtrahi posset.  
 

@@ -1,10 +1,12 @@
 # C. 16 - Personal Greetings and Doxology
 
+***Personal Greetings and Doxology***
+
 ***Lecture 1***
 
 ***Greetings to the saints in Rome***
 
-***^16:1^ But I commend to you Phoebe, our sister, who is in the ministry of the church that is in Cenchrae: [n. 1193]***
+^16:1^ But I commend to you Phoebe, our sister, who is in the ministry of the church that is in Cenchrae: [n. 1193]  
 
 > ^16:2^ That you receive her in the Lord as befits the saints and that you assist her in whatsoever business she will have need of you. For she also has assisted many, and myself also. [n. 1195]
 
@@ -127,7 +129,7 @@ Lecture 2
 
 ***Avoid dissenters from the faith***
 
-***^16:17^ But I beseech you, brethren, to mark those who make dissensions and offences contrary to the doctrine which you have learned and avoid them. [n. 1213]***
+^16:17^ But I beseech you, brethren, to mark those who make dissensions and offences contrary to the doctrine which you have learned and avoid them. [n. 1213]  
 
 > ^16:18^ For they who are such serve not Christ our Lord but their own belly: and by pleasing speeches and good words seduce the hearts of the innocent. [n. 1218]
 

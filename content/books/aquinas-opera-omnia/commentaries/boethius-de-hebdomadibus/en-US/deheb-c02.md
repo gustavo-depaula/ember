@@ -1,6 +1,8 @@
 # L. 1 - Boethius' Preface
 
-***You ask me to set out and to explain a bit more clearly the obscurity of the question from our hebdomads that involves the way in which substances, in that they are, are good, although they aren’t substantial goods.***
+***Boethius' Preface***
+
+You ask me to set out and to explain a bit more clearly the obscurity of the question from our hebdomads that involves the way in which substances, in that they are, are good, although they aren’t substantial goods.  
 
 > You say that this ought to be done because the method used in writings of this sort isn’t familiar to everyone. Well, I myself am your witness how vigorously you treated these matters before.
 

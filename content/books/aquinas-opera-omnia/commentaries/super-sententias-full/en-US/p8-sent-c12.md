@@ -1,6 +1,8 @@
 # D. 25 - Conferral of holy orders
 
-***After the Master has considered the sacrament of holy orders, here he examines those conferring and receiving this sacrament. And it is divided into two parts; in the first, he considers those who confer it; in the second, those who receive it, at: *the sacred canons have set forth that a subdeacon is not to be ordained before his fourteenth year*, etc.*Sententiae* IV, 25.7 (156). 1.***
+***Conferral of holy orders***
+
+After the Master has considered the sacrament of holy orders, here he examines those conferring and receiving this sacrament. And it is divided into two parts; in the first, he considers those who confer it; in the second, those who receive it, at: *the sacred canons have set forth that a subdeacon is not to be ordained before his fourteenth year*, etc.*Sententiae* IV, 25.7 (156). 1.  
 
 The first is in two parts: in the first, he inquires about heretics, whether they can ordain; second, particularly about simoniacs, at: *as to simoniacs, it is not to be doubted that they are heretics*.*Sent*. IV, 25.2 (151). 1.  
 
@@ -23,7 +25,7 @@ first, whether only the bishop can confer the sacrament of holy orders;
 
 ***Whether only the bishop can confer the sacrament of holy orders***
 
-***Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 65, a. 3, ad 2; *In IV Sent.* d. 7, q. 3, a. 1, qa. 3; d. 13, q. 1, a. 1, qa. 2, ad 2. It seems that not only a bishop confers the sacrament of holy orders. For the imposition of hands causes something at the consecration. But not only the bishop imposes his hands on the priests who are ordained, but also the other priests attending. Therefore, not only the bishop confers the sacrament of holy orders.***
+Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 65, a. 3, ad 2; *In IV Sent.* d. 7, q. 3, a. 1, qa. 3; d. 13, q. 1, a. 1, qa. 2, ad 2. It seems that not only a bishop confers the sacrament of holy orders. For the imposition of hands causes something at the consecration. But not only the bishop imposes his hands on the priests who are ordained, but also the other priests attending. Therefore, not only the bishop confers the sacrament of holy orders.  
 
 Obj. 2: Furthermore, the power of holy orders is given to each one at the moment that he is presented with whatever pertains to his order’s act. But the cruet is given to the subdeacon with water, manili, and napkin by the archdeacon; the candelabra is similarly given to the acolyte with a candle and an empty cruet. Therefore, the bishop is not the only one who confers the sacrament of holy orders.  
 
@@ -55,7 +57,7 @@ Article 2
 
 ***Whether anyone cut off from the Church can confer holy orders***
 
-***Obj. 1: To the second question we proceed thus.Parallel: *ST* III, q. 64, a. 9. It seems that heretics and those cut off from the Church cannot confer holy orders. For it is a greater thing to promote someone to holy orders than to bind or loose. But heretics cannot bind and loose. Therefore, nor can they confer holy orders.***
+Obj. 1: To the second question we proceed thus.Parallel: *ST* III, q. 64, a. 9. It seems that heretics and those cut off from the Church cannot confer holy orders. For it is a greater thing to promote someone to holy orders than to bind or loose. But heretics cannot bind and loose. Therefore, nor can they confer holy orders.  
 
 Obj. 2: Furthermore, a priest separated from the Church can consecrate the Eucharist, because the character, by which he is able to do this, remains indelibly in him. But the bishop does not receive any character in his consecration as a bishop. Therefore, it is not necessary that episcopal power remain in him after his separation from the Church.  
 
@@ -106,7 +108,7 @@ first, whether anyone is impeded because of a defect of nature;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallel: below, a. 2, qa. 1, ad 4. It seems that the feminine sex does not impede the reception of holy orders. For the office of prophecy is greater than the office of priest, since a prophet is an intermediary between God and a priest, just as a priest is between God and the people. But the office of prophecy was sometimes granted to women, as is clear from 2 Kings 22:14. Therefore, the office of priest can also apply to them.***
+Obj. 1: To the first question we proceed thus.Parallel: below, a. 2, qa. 1, ad 4. It seems that the feminine sex does not impede the reception of holy orders. For the office of prophecy is greater than the office of priest, since a prophet is an intermediary between God and a priest, just as a priest is between God and the people. But the office of prophecy was sometimes granted to women, as is clear from 2 Kings 22:14. Therefore, the office of priest can also apply to them.  
 
 Obj. 2: Furthermore, just as holy orders pertains to a certain perfection, so does the office of governance, and martyrdom, and religious life. But governance is committed to women in the New Testament, as is seen in the case of abbesses, and in the Old Testament, as is seen in Deborah who judged Israel, Judges 4:4; and martyrdom and religious life also apply to them. Therefore, so do the orders of the Church.  
 
@@ -118,7 +120,7 @@ Furthermore (2), the crown-shaped tonsure is required in those to be ordained, e
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that children and those who lack the use of reason cannot receive holy orders.Parallel: *In IV Sent*. d. 7, q. 3, a. 2, qa. 2. For as it says in the text,Lombard, Chapter 7 of this distinction. the sacred canons have determined a certain age for receiving holy orders. But this would not be the case if children could receive the sacrament of holy orders. Therefore, etc.***
+Obj. 1: Moreover, it seems that children and those who lack the use of reason cannot receive holy orders.Parallel: *In IV Sent*. d. 7, q. 3, a. 2, qa. 2. For as it says in the text,Lombard, Chapter 7 of this distinction. the sacred canons have determined a certain age for receiving holy orders. But this would not be the case if children could receive the sacrament of holy orders. Therefore, etc.  
 
 Obj. 2: Furthermore, the sacrament of holy orders is nobler than marriage. But children and others lacking the use of reason cannot contract marriage. Therefore, neither can they receive holy orders.  
 
@@ -130,7 +132,7 @@ Furthermore (2), children can receive other sacraments in which a character is i
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that certain things are required in someone who receives a sacrament as necessary to the sacrament, and if they are missing, the person cannot receive the sacrament nor the reality of the sacrament. But some things are required not as necessary to the sacrament, but by the necessity of a precept for the fittingness of the sacrament; and without these things someone receives the sacrament but not the reality of the sacrament. Therefore it should be said that the male sex is required for receiving holy orders, not only in the second way, but also in the first. And so even if all the things were presented to a woman that are done in holy orders, she would not receive holy orders, for since the sacrament is a sign, in those things that are done in the sacrament there is required not only the reality but also the signification of the reality; as it was said that in extreme unction it is required that someone be sick, so that a person needing healing might be signified.See d. 23, q. 2, a. 2, qa. 1. Therefore, since in the feminine sex no eminence of degree can be signified, for a woman, by the very fact that she is a woman, has a state of subjection, this is why she cannot receive the sacrament of holy orders. Now some have said that the male sex is necessary by precept, but not necessary to the sacrament, for also in the decrees a deaconess and a ‘presbytera’ are mentioned.See Gratian, Decretals, pt. 2, cause 27, q. 1, can. 23, ‘Diaconissam’; pt. 1, d. 32, can. 19, ‘Mulieres.’ But a woman who partakes in some act of a deacon, like reading a homily in the Church, is called a deaconess;See Gratian, Decretals, pt. 2, cause 27, q. 1, can. 23, ‘Diaconissam.’ while a ‘presbytera’ means a widow, for a presbyter is the same thing as ‘elder’.***
+To the first question, I answer that certain things are required in someone who receives a sacrament as necessary to the sacrament, and if they are missing, the person cannot receive the sacrament nor the reality of the sacrament. But some things are required not as necessary to the sacrament, but by the necessity of a precept for the fittingness of the sacrament; and without these things someone receives the sacrament but not the reality of the sacrament. Therefore it should be said that the male sex is required for receiving holy orders, not only in the second way, but also in the first. And so even if all the things were presented to a woman that are done in holy orders, she would not receive holy orders, for since the sacrament is a sign, in those things that are done in the sacrament there is required not only the reality but also the signification of the reality; as it was said that in extreme unction it is required that someone be sick, so that a person needing healing might be signified.See d. 23, q. 2, a. 2, qa. 1. Therefore, since in the feminine sex no eminence of degree can be signified, for a woman, by the very fact that she is a woman, has a state of subjection, this is why she cannot receive the sacrament of holy orders. Now some have said that the male sex is necessary by precept, but not necessary to the sacrament, for also in the decrees a deaconess and a ‘presbytera’ are mentioned.See Gratian, Decretals, pt. 2, cause 27, q. 1, can. 23, ‘Diaconissam’; pt. 1, d. 32, can. 19, ‘Mulieres.’ But a woman who partakes in some act of a deacon, like reading a homily in the Church, is called a deaconess;See Gratian, Decretals, pt. 2, cause 27, q. 1, can. 23, ‘Diaconissam.’ while a ‘presbytera’ means a widow, for a presbyter is the same thing as ‘elder’.  
 
 Reply Obj. 1: Prophecy is not a sacrament but a gift of God; and so no signification is required, but only the reality. And since according to the reality, in those things that belong to the soul, a woman is no different from a man, since sometimes a woman is found to be better than many men with respect to her soul, this is why she can receive the gift of prophecy and others like it, but not the sacrament of holy orders.  
 
@@ -138,7 +140,7 @@ And by this the answer is clear to the second and third objections. But concerni
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that youth and other defects that take away the use of reason present impediments to acting, and so all the sacraments that require an act of the one receiving them, like penance, marriage, and the like, do not apply to such people. But infused powers come before acts, as is the case with natural powers, even though aquired powers are come after acts, Now, if what comes after is removed, what comes before is not taken away. Consequently, children and others who lack the use of reason can receive all the sacraments in which no act is required of the recipient as necessary to the sacrament, but a spiritual power is divinely given. This distinction being granted, however, the age of discretion is required in minor orders out of respect for the dignity of the sacrament, but not out of the necessity of a precept, nor as necessary to the sacrament.***
+To the second question, it should be said that youth and other defects that take away the use of reason present impediments to acting, and so all the sacraments that require an act of the one receiving them, like penance, marriage, and the like, do not apply to such people. But infused powers come before acts, as is the case with natural powers, even though aquired powers are come after acts, Now, if what comes after is removed, what comes before is not taken away. Consequently, children and others who lack the use of reason can receive all the sacraments in which no act is required of the recipient as necessary to the sacrament, but a spiritual power is divinely given. This distinction being granted, however, the age of discretion is required in minor orders out of respect for the dignity of the sacrament, but not out of the necessity of a precept, nor as necessary to the sacrament.  
 
 Therefore some people, if there is a need and hope of their advancement, can be promoted to minor orders before the years of discretion without sin, and they do receive holy orders; for although they are not fit at that time for the offices that are committed to them, nevertheless they will be rendered fit by experience. But for major orders the use of reason is required, both out of respect and out of the necessity of a precept because of the vow of continence that is attached; and also because handling the sacraments is committed to them. But for the episcopate, where power is received over the mystical body, the act of the one receiving pastoral responsibility is required. And so it is also necessary to episcopal consecration that one have the use of reason. Now some people say that the use of reason is required for all orders as necessary to the sacrament; but their claim is not confirmed by reason or authoritative text.  
 
@@ -154,7 +156,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus. It seems that slavery does not impede anyone from receiving holy orders. For physical subjection is not opposed to spiritual eminence. But in a slave there is physical subjection. Therefore, it does not prevent one from receiving spiritual eminence, which is given in holy orders.***
+Obj. 1: To the second question we proceed thus. It seems that slavery does not impede anyone from receiving holy orders. For physical subjection is not opposed to spiritual eminence. But in a slave there is physical subjection. Therefore, it does not prevent one from receiving spiritual eminence, which is given in holy orders.  
 
 Obj. 2: Furthermore, an occasion of humility should not prevent the reception of any sacrament. But this is what slavery is, which is why the Apostle counseled that if someone was able, he should make use of his slavery (1 Cor 7:21). Therefore, it should not prevent one’s promotion to holy orders.  
 
@@ -166,7 +168,7 @@ Furthermore (5), by the fact that someone receives holy orders, he is bound to m
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that a person should not be forbidden from sacred orders because of homicide. For our orders took their beginning from the offices of the Levites, as was said in the previous distinction. But the Levites consecrated their hands in shedding their brothers’ blood, as is seen in Exodus 32:26. Therefore, in the New Testament none should be prohibited from the reception of holy orders because of bloodshed.***
+Obj. 1: Moreover, it seems that a person should not be forbidden from sacred orders because of homicide. For our orders took their beginning from the offices of the Levites, as was said in the previous distinction. But the Levites consecrated their hands in shedding their brothers’ blood, as is seen in Exodus 32:26. Therefore, in the New Testament none should be prohibited from the reception of holy orders because of bloodshed.  
 
 Obj. 2: Furthermore, no one should be impeded from this sacrament because of an act of virtue. But sometimes blood is shed by justice, like by a judge, and the person holding this office would sin if it were not shed. Therefore, he is not impeded because of this from the reception of the sacrament.  
 
@@ -176,7 +178,7 @@ On the contrary, are the many statutes of the canons,See Gratian, *Decretals*, p
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that those born illegitimately should not be impeded from the reception of holy orders. For a son should not bear the iniquity of his father. But he would bear it, if he were impeded from receiving holy orders for this. Therefore, etc.***
+Obj. 1: Moreover, it seems that those born illegitimately should not be impeded from the reception of holy orders. For a son should not bear the iniquity of his father. But he would bear it, if he were impeded from receiving holy orders for this. Therefore, etc.  
 
 Obj. 2: Furthermore, someone is more impeded because of his own defect than because of another’s. But a person is not always impeded from receiving holy orders because of his own fornication. Therefore, neither because of the fornication of his father.  
 
@@ -184,7 +186,7 @@ On the contrary, it is said in Deuteronomy 23:2: *a bastard, that is, one born o
 
 Quaestiuncula 4  
 
-***Obj. 1: Moreover, it seems that no one should be impeded because of a defect in his members. For affliction should not be added to affliction. Therefore, one should not be deprived of a degree of holy orders because of a penalty for bodily defect.***
+Obj. 1: Moreover, it seems that no one should be impeded because of a defect in his members. For affliction should not be added to affliction. Therefore, one should not be deprived of a degree of holy orders because of a penalty for bodily defect.  
 
 Obj. 2: Furthermore, soundness of discretion is required more for an act of holy orders than soundness of body. But some can be ordained before years of discretion. Therefore also with a defect of body.  
 
@@ -194,7 +196,7 @@ On the contrary, such people were prohibited from ministry by the old law. There
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that in receiving holy orders a man is dedicated to divine offices. And since no one can give another what is not his, this is why a slave, who does not have power over himself, cannot be promoted to holy orders; however, if he is promoted, he does receive holy orders, for freedom is not necessary to the sacrament, although it is of the necessity of precept,See Gratian, *Decretals*, pt. 1, d. 54, can. 1, ‘Nullus episcoporum’; Gregory IX, *Decretals*, Bk. 1, tit. 17, ch. 1, ‘Ut filii’; tit. 18, ch. 5, ‘Consuluit’. since it does not impede the power but only the act. And the argument is similar for all who are obliged to others, like those imprisoned for debtsSee Gregory IX, *Decretals*, Bk. 1, tit. 19, ch. 1, ‘Magnus episcopus.’ and people like that.***
+To the first question, I answer that in receiving holy orders a man is dedicated to divine offices. And since no one can give another what is not his, this is why a slave, who does not have power over himself, cannot be promoted to holy orders; however, if he is promoted, he does receive holy orders, for freedom is not necessary to the sacrament, although it is of the necessity of precept,See Gratian, *Decretals*, pt. 1, d. 54, can. 1, ‘Nullus episcoporum’; Gregory IX, *Decretals*, Bk. 1, tit. 17, ch. 1, ‘Ut filii’; tit. 18, ch. 5, ‘Consuluit’. since it does not impede the power but only the act. And the argument is similar for all who are obliged to others, like those imprisoned for debtsSee Gregory IX, *Decretals*, Bk. 1, tit. 19, ch. 1, ‘Magnus episcopus.’ and people like that.  
 
 Reply Obj. 1: In the reception of spiritual power there is a certain obligation also to things done physically; and so it is impeded by physical subjection.  
 
@@ -208,7 +210,7 @@ Reply Obj. 5: If he is ordained with his master’s knowledge and not objecting,
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that all orders are referred to the sacrament of the Eucharist, which is the sacrament of peace worked for us by Christ’s blood poured out. And since homicide is most contrary to peace, and those who commit homicide are more like Christ’s killers than Christ slain, to whom all the ministers of that sacrament should be conformed, this is why it is commanded that no killer be promoted to holy orders by the necessity of a precept, although it is not necessary to the sacrament.***
+To the second question, it should be said that all orders are referred to the sacrament of the Eucharist, which is the sacrament of peace worked for us by Christ’s blood poured out. And since homicide is most contrary to peace, and those who commit homicide are more like Christ’s killers than Christ slain, to whom all the ministers of that sacrament should be conformed, this is why it is commanded that no killer be promoted to holy orders by the necessity of a precept, although it is not necessary to the sacrament.  
 
 Reply Obj. 1: The old law imposed a penalty of blood, but the new law does not; and the ministers of the old law are not the same as those of the new law, which is *an easy yoke and a light burden* (Matt 11:30).  
 
@@ -218,7 +220,7 @@ Reply Obj. 3: No one does anything but what has its cause in the willing of a ma
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that those ordained are constituted in a certain dignity above others, and so a certain prominence is required in them out of a kind of respect, not as necessary to the sacrament, but of the necessity of a precept: namely, that they be of good reputation, endowed with good morals, not publicly doing penance.Gratian, *Decretals*, pt. 1, d. 55, can. 1, ‘Priscis’; can. 3, ‘Poenitentes.’ And since the prominence of a man is darkened by a sinful origin, this is why those born from an illegitimate bed are excluded from receiving holy orders,Gregory IX, *Decretals*, Bk. 1, tit. 17, ch. 1, ‘Ut filii’; tit. 18, ch. 5, ‘Consuluit.’ unless they are granted a dispensation; and the more base their origin, the more difficult the dispensation.***
+To the third question, it should be said that those ordained are constituted in a certain dignity above others, and so a certain prominence is required in them out of a kind of respect, not as necessary to the sacrament, but of the necessity of a precept: namely, that they be of good reputation, endowed with good morals, not publicly doing penance.Gratian, *Decretals*, pt. 1, d. 55, can. 1, ‘Priscis’; can. 3, ‘Poenitentes.’ And since the prominence of a man is darkened by a sinful origin, this is why those born from an illegitimate bed are excluded from receiving holy orders,Gregory IX, *Decretals*, Bk. 1, tit. 17, ch. 1, ‘Ut filii’; tit. 18, ch. 5, ‘Consuluit.’ unless they are granted a dispensation; and the more base their origin, the more difficult the dispensation.  
 
 Reply Obj. 1: Irregularity is not a penalty due for wickedness, and thus it is clear that those born illegitimately do not carry the iniquity of their fathers by the fact that they are irregular.  
 
@@ -226,7 +228,7 @@ Reply Obj. 2: Those things that are committed by an act can be abolished by pena
 
 Response to Quaestiuncula 4  
 
-***To the fourth question, it should be said that, as is clear from what has been said, someone becomes unsuitable for the reception of holy orders either because of an impediment to the act or because of an impediment to the person’s prominence. And therefore those suffering a defect in their members are impeded from the reception of holy orders, if there were such a defect that it left a noticeable mark by which the prominence of the person would be obscured, like having one’s nose cut off, or if it could endanger the exercise of holy orders; otherwise, they would not be impeded. But this integrity is required from the necessity of precept,Gratian, *Decretals*, pt. 1, d. 36, can. 1, ‘Illiteratos.’ not as necessary to the sacrament.***
+To the fourth question, it should be said that, as is clear from what has been said, someone becomes unsuitable for the reception of holy orders either because of an impediment to the act or because of an impediment to the person’s prominence. And therefore those suffering a defect in their members are impeded from the reception of holy orders, if there were such a defect that it left a noticeable mark by which the prominence of the person would be obscured, like having one’s nose cut off, or if it could endanger the exercise of holy orders; otherwise, they would not be impeded. But this integrity is required from the necessity of precept,Gratian, *Decretals*, pt. 1, d. 36, can. 1, ‘Illiteratos.’ not as necessary to the sacrament.  
 
 And by this the answer to the objections is clear.  
 
@@ -246,7 +248,7 @@ first, what it is;
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the first question we proceed thus.Parallel: *ST* II-II, q. 100, a. 2; *Quodl.* V, q. 11, a. 3; *Quodl.* VIII, q. 6, a. 1. It seems that the definition given for simony is inadequate, namely: *simony is the determined will to buy or sell any spiritual thing or anything connected with a spiritual thing*. For by simony a person is made irregular. But no one becomes irregular for his willing alone. Therefore simony does not consist in willing alone.***
+Obj. 1: To the first question we proceed thus.Parallel: *ST* II-II, q. 100, a. 2; *Quodl.* V, q. 11, a. 3; *Quodl.* VIII, q. 6, a. 1. It seems that the definition given for simony is inadequate, namely: *simony is the determined will to buy or sell any spiritual thing or anything connected with a spiritual thing*. For by simony a person is made irregular. But no one becomes irregular for his willing alone. Therefore simony does not consist in willing alone.  
 
 Obj. 2: Furthermore, only those sins are committed with determination that are committed with the clarity of malice. But simony is not always committed out of the clarity of malice, but sometimes from infirmity or ignorance. Therefore, in its definition, *determined* should not be included.  
 
@@ -258,7 +260,7 @@ Obj. 5: Furthermore, we should use temporal things for the sake of spiritual thi
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that simony is a heresy. For in his register of letters, Gregory says: *let none of the faithful be unaware that to buy and sell an altar, tithes, and the Holy Spirit, is the simoniac heresy*.This is rather from Pope Gregory VII. See Gratian, *Decretals*, pt. 2, cause 1, q. 1, ch. 3, ‘Presbyter’ (PL 187:480).***
+Obj. 1: Moreover, it seems that simony is a heresy. For in his register of letters, Gregory says: *let none of the faithful be unaware that to buy and sell an altar, tithes, and the Holy Spirit, is the simoniac heresy*.This is rather from Pope Gregory VII. See Gratian, *Decretals*, pt. 2, cause 1, q. 1, ch. 3, ‘Presbyter’ (PL 187:480).  
 
 Obj. 2: Furthermore, no sin is more serious than unbelief. But simony is more serious: for it says in the *Decretals*, Case 1, Question 2, that *the wicked heresy of Macedonius, and of those who are around him, is more tolerable than simony*. Therefore, simony is a heresy.Ibid., ch. 21, ‘Eos’ (PL 187:489).  
 
@@ -266,7 +268,7 @@ On the contrary, all heresies are against a certain article of the faith, about 
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that a simoniac does not lose the exercise of his orders. For in someone’s ordination it might happen simony is committed without his knowing it. But accidental homicide committed out of ignorance does not cause irregularity. Therefore, it is also the same with someone who is ordained in simony.***
+Obj. 1: Moreover, it seems that a simoniac does not lose the exercise of his orders. For in someone’s ordination it might happen simony is committed without his knowing it. But accidental homicide committed out of ignorance does not cause irregularity. Therefore, it is also the same with someone who is ordained in simony.  
 
 Obj. 2: Furthermore, no one should receive a sacrament from someone who does not have exercise of his orders. But from someone whom I know to be a simoniac, I should receive holy orders if it is commanded of me, or I would be disobedient. Therefore, one does not lose the exercise of his orders.  
 
@@ -274,7 +276,7 @@ On the contrary (3), it seems that a simoniac would not even receive holy orders
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that the matter of moral virtues is divided into passions and actions, as was said in Book III, Distinction 33. Now just as there can be a sin in the passions by the fact that it concerns something it should not, whether how much or in what way, and so on with the other circumstances, so also in actions. And therefore in selling and buying, which are kinds of actions, there can be sin either in what is done or in how much. If it is in how much, then it is injustice; as when someone buys or sells at an unjust price. But if it is in what, as when someone buys or sells what does not fall under a price, then it is the sin of simony. And since every sin consists in an act of the will, this is why these three things are included in the definition of simony; and first is the act of the will, in the fact that it says, *determined will*; second, the proximate matter of this sin, namely, buying and selling, at: *to buy or sell*; third, the remote matter, namely, the object of the action mentioned, at: *spiritual thing, or anything attached to a spiritual thing*.***
+To the first question, I answer that the matter of moral virtues is divided into passions and actions, as was said in Book III, Distinction 33. Now just as there can be a sin in the passions by the fact that it concerns something it should not, whether how much or in what way, and so on with the other circumstances, so also in actions. And therefore in selling and buying, which are kinds of actions, there can be sin either in what is done or in how much. If it is in how much, then it is injustice; as when someone buys or sells at an unjust price. But if it is in what, as when someone buys or sells what does not fall under a price, then it is the sin of simony. And since every sin consists in an act of the will, this is why these three things are included in the definition of simony; and first is the act of the will, in the fact that it says, *determined will*; second, the proximate matter of this sin, namely, buying and selling, at: *to buy or sell*; third, the remote matter, namely, the object of the action mentioned, at: *spiritual thing, or anything attached to a spiritual thing*.  
 
 Reply Obj. 1: *Men judge those things that appear outside, but God searches the heart*, as it says in 1 Sam 16:7, and thus in simony and in all other sins, a person becomes a sinner by his will alone according to the liability to punishment that pertains to the judgment of God, but not according to the liability to punishment that pertains to the judgment of the Church. This is why homicide in the will incurs the debt of eternal punishment, but not irregularity or excommunication, or anything of that sort; and the same thing should be said about simony.  
 
@@ -288,7 +290,7 @@ Reply Obj. 5: In the definition given, as has been said, spiritual things are ta
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that something can be attributed to someone in two ways. In one way, simply; in another way, because of the likeness in his act, as the Philosopher saysAristotle, *Nicomachean Ethics*, Bk. 7, ch. 4, 1148a13. that sometimes the incontinent are called intemperate, for they do what the intemperate do, but not in the same way; as he also says that *Milesians are not stupid, but they act stupid*.Aristotle, *Nicomachean Ethics*, Bk. 7, ch. 8, 1151a9–10. And according to this it should be said that simoniacs are not heretics, speaking properly and *per se*, since they do not hold any false opinion; but they are called heretics because of the likeness of their act, for they act as if they thought the gift of the Holy Spirit could be possessed with money, which belief would be heretical. This is why Gregory says in his Register, *since all avarice is slavery to idols, whoever does not guard against this in giving ecclesiastical dignities, is subjected to the perdition of unbelief, even if he seems to hold the faith that he has neglected*.Gregory the Great, *Register of Epistles*, Bk. 9, Epist. indict. 4, Epist. 53, to Theodoric, as cited in Gratian, *Decretals*, pt. 2, cause 1, q. 1, ch. 20, ‘Quum omnis’ (PL 187:488).***
+To the second question, it should be said that something can be attributed to someone in two ways. In one way, simply; in another way, because of the likeness in his act, as the Philosopher saysAristotle, *Nicomachean Ethics*, Bk. 7, ch. 4, 1148a13. that sometimes the incontinent are called intemperate, for they do what the intemperate do, but not in the same way; as he also says that *Milesians are not stupid, but they act stupid*.Aristotle, *Nicomachean Ethics*, Bk. 7, ch. 8, 1151a9–10. And according to this it should be said that simoniacs are not heretics, speaking properly and *per se*, since they do not hold any false opinion; but they are called heretics because of the likeness of their act, for they act as if they thought the gift of the Holy Spirit could be possessed with money, which belief would be heretical. This is why Gregory says in his Register, *since all avarice is slavery to idols, whoever does not guard against this in giving ecclesiastical dignities, is subjected to the perdition of unbelief, even if he seems to hold the faith that he has neglected*.Gregory the Great, *Register of Epistles*, Bk. 9, Epist. indict. 4, Epist. 53, to Theodoric, as cited in Gratian, *Decretals*, pt. 2, cause 1, q. 1, ch. 20, ‘Quum omnis’ (PL 187:488).  
 
 And by this the answer to the first objection is clear.  
 
@@ -296,7 +298,7 @@ Reply Obj. 2: By reason of a false belief that the simoniac demonstrates in his 
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the efficacy of the sacraments is not from human merit; and thus a sacrament is not impeded because of a man’s sin. Therefore, the sin of simony neither impedes the reception of the sacrament nor takes it away when it has been received. However, it can impede the ultimate reality of the sacrament, if there is a sin on the part of the one receiving it. But nevertheless by simony a person is suspended from the exercise of holy orders or his office. But in this a distinction must be made. For if someone were called a simoniac from receiving holy orders through simony, he would not receive the exercise of them, and by the law he would be automatically suspended both in regard to himself and others; and he would be further punished by being deposed when it was established as a juridical crime. However, if he were called a simoniac because someone conferred his orders in simony, or because he gave or received benefices in simony, or because he was the intermediary in some simoniac deal, if it were secret, he is suspended with regard to himself; but if it is manifest then he is suspended both with regard to himself and with regard to others. And again someone who receives benefices by simony is held to restitution of all the profits he received and to renounce the benefice.***
+To the third question, it should be said that the efficacy of the sacraments is not from human merit; and thus a sacrament is not impeded because of a man’s sin. Therefore, the sin of simony neither impedes the reception of the sacrament nor takes it away when it has been received. However, it can impede the ultimate reality of the sacrament, if there is a sin on the part of the one receiving it. But nevertheless by simony a person is suspended from the exercise of holy orders or his office. But in this a distinction must be made. For if someone were called a simoniac from receiving holy orders through simony, he would not receive the exercise of them, and by the law he would be automatically suspended both in regard to himself and others; and he would be further punished by being deposed when it was established as a juridical crime. However, if he were called a simoniac because someone conferred his orders in simony, or because he gave or received benefices in simony, or because he was the intermediary in some simoniac deal, if it were secret, he is suspended with regard to himself; but if it is manifest then he is suspended both with regard to himself and with regard to others. And again someone who receives benefices by simony is held to restitution of all the profits he received and to renounce the benefice.  
 
 Reply Obj. 1: No defect occurs in an ordination itself because of homicide, but only in the person ordained, and therefore it suffices that the ordained be free from homicide. But by simony a defect occurs in the ordination itself. And so even if he himself is free from it, nevertheless, he is suspended once it has come to his awareness.  
 
@@ -310,7 +312,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***Obj. 1: To the second question we proceed thus.Parallel: *In IV Sent.* d. 5, q. 2, a. 2, qa. 5, ad 2. It seems that the sacraments can be bought and sold without simony. For the end of all sacraments is the kingdom of heaven, and the remission of sins. But the kingdom of heaven is bought, as Gregory says: *the kingdom of heaven is worth as much as you have*;Gregory the Great, *Homilies on the Gospel*, Bk. 1, Hom. 5, pt. 2 (CCSL 141:34). and it says in Daniel 4:24, *redeem your sins with almsgiving*. Therefore, much more can sacraments be bought without the vice of simony.***
+Obj. 1: To the second question we proceed thus.Parallel: *In IV Sent.* d. 5, q. 2, a. 2, qa. 5, ad 2. It seems that the sacraments can be bought and sold without simony. For the end of all sacraments is the kingdom of heaven, and the remission of sins. But the kingdom of heaven is bought, as Gregory says: *the kingdom of heaven is worth as much as you have*;Gregory the Great, *Homilies on the Gospel*, Bk. 1, Hom. 5, pt. 2 (CCSL 141:34). and it says in Daniel 4:24, *redeem your sins with almsgiving*. Therefore, much more can sacraments be bought without the vice of simony.  
 
 Obj. 2: Furthermore, marriage is one of the sacraments. But marriage is sometimes contracted by a pact agreeing on a certain amount of money to be paid, and without sin. Therefore, sacraments can licitly be bought.  
 
@@ -326,7 +328,7 @@ Obj. 7: Furthermore, episcopal power, although it is not holy orders, neverthele
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it seems that also in the buying and selling of other spiritual goods, no simony is committed.Parallel: *In IV Sent*. d. 20, q. 1, a. 3, qa. 3. For every ecclesiastical office is a spiritual thing. But some people receive fixed revenues to celebrate their anniversary. Therefore, spiritual things can be bought and sold without simony.***
+Obj. 1: Moreover, it seems that also in the buying and selling of other spiritual goods, no simony is committed.Parallel: *In IV Sent*. d. 20, q. 1, a. 3, qa. 3. For every ecclesiastical office is a spiritual thing. But some people receive fixed revenues to celebrate their anniversary. Therefore, spiritual things can be bought and sold without simony.  
 
 Obj. 2: Furthermore, prayer is the most spiritual thing. But someone can give money to good men so they will pray for him, according to what is said in Luke 16:9: *make friends for yourselves with the mammon of iniquity*.  
 
@@ -346,7 +348,7 @@ Obj. 9: Furthermore, judgment is a spiritual good; likewise legal defense in tri
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it seems that simony is also not committed in the buying and selling of things connected with spiritual things. For nothing is more connected with spiritual things than sacred vessels. But those can be licitly sold in a case of necessity. Therefore, etc.***
+Obj. 1: Moreover, it seems that simony is also not committed in the buying and selling of things connected with spiritual things. For nothing is more connected with spiritual things than sacred vessels. But those can be licitly sold in a case of necessity. Therefore, etc.  
 
 Obj. 2: Furthermore, the right of burial is something connected with spiritual matters. But Abraham bought from Hamor two caves for his tomb.Thomas seems to be confusing the story of Abraham’s purchase from Ephron (Gen 23) with Jacob’s purchase from Hamor (Gen 33:19), although Acts 7:16 would explain the connection. Therefore without simony something connected with spiritual things can be bought.  
 
@@ -358,7 +360,7 @@ Obj. 5: Furthermore, the right of primogeniture seems to be connected with spiri
 
 Response to Quaestiuncula 1  
 
-***To the first question, I answer that since sacraments contain and cause grace, they cannot licitly be sold or bought for three reasons. First, because the one dispensing the sacraments is not the Lord, but the minister; but the sale of a thing should only be done by its lord. Second, because the price of a sale is set as a measure proportionate to what is bought, which is why the word for coin, ‘numisma,’ is from measuring, according to the Philosopher in the *Ethics* 5.Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 5, 1133a20. At 1133a30–31, however, Aristotle derives *numisma* from *nomos* because money’s value is by convention. But no physical good can be commensurate with grace, which is why anyone who buys or sells the sacraments of grace does an injury to grace. Third, because grace takes its name from being given gratis, or freely; and therefore someone who treats the sacraments of grace like things for sale acts against the notion of grace.***
+To the first question, I answer that since sacraments contain and cause grace, they cannot licitly be sold or bought for three reasons. First, because the one dispensing the sacraments is not the Lord, but the minister; but the sale of a thing should only be done by its lord. Second, because the price of a sale is set as a measure proportionate to what is bought, which is why the word for coin, ‘numisma,’ is from measuring, according to the Philosopher in the *Ethics* 5.Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 5, 1133a20. At 1133a30–31, however, Aristotle derives *numisma* from *nomos* because money’s value is by convention. But no physical good can be commensurate with grace, which is why anyone who buys or sells the sacraments of grace does an injury to grace. Third, because grace takes its name from being given gratis, or freely; and therefore someone who treats the sacraments of grace like things for sale acts against the notion of grace.  
 
 Reply Obj. 1: Those statements are metaphorical, and speaking by a resemblance to buying, they call merit itself a ‘buying’; which indeed is not a buying, for nothing accrues to God by our merit, nor is our merit equivalent to the reward.  
 
@@ -376,7 +378,7 @@ Reply Obj. 7: Here a distinction must be made: for if he did not have the right 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that an act can be called spiritual either as to its principle, which belongs to someone from some spiritual gift or office; or as to its end, as when something spiritual is attained by its act. Therefore, in acts that are spiritual in the first way, since they are spiritual on the part of the agent, in no way can anyone contract to receive something for his acts without simony; but he can receive something for the sustenance of his life. But in the second kind of acts, because their spirituality is not on the part of the agent, he can even buy or sell his works; but not sell the spiritual thing that is acquired by his act.***
+To the second question, it should be said that an act can be called spiritual either as to its principle, which belongs to someone from some spiritual gift or office; or as to its end, as when something spiritual is attained by its act. Therefore, in acts that are spiritual in the first way, since they are spiritual on the part of the agent, in no way can anyone contract to receive something for his acts without simony; but he can receive something for the sustenance of his life. But in the second kind of acts, because their spirituality is not on the part of the agent, he can even buy or sell his works; but not sell the spiritual thing that is acquired by his act.  
 
 Reply Obj. 1: To celebrate an anniversary is a spiritual act in the first way; and so in no way is it permitted to enter negotiations for its celebration. Nevertheless, if something is given to the Church with devotion, the Church is bound to celebrate for those for whom it was requested.  
 
@@ -398,7 +400,7 @@ Reply Obj. 9: By his office, a judge is bound to render judgment; similarly ever
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that, as is clear from what has been said, there are two kinds of spiritual things that should have no price set upon them: namely, the sacred thing itself, like sacraments; and the act belonging to someone by a sacred office. And in accord with this there are also two ways of being connected with spiritual things: for some things are connected with the sacraments themselves, like sacred vessels and things like that; while others are connected with sacred offices, like tithes, and the right of patronage, according as the right of patronage is the power of presenting a cleric with an ecclesiastical benefice; and in both simony is committed as to what it contains of the spiritual.***
+To the third question, it should be said that, as is clear from what has been said, there are two kinds of spiritual things that should have no price set upon them: namely, the sacred thing itself, like sacraments; and the act belonging to someone by a sacred office. And in accord with this there are also two ways of being connected with spiritual things: for some things are connected with the sacraments themselves, like sacred vessels and things like that; while others are connected with sacred offices, like tithes, and the right of patronage, according as the right of patronage is the power of presenting a cleric with an ecclesiastical benefice; and in both simony is committed as to what it contains of the spiritual.  
 
 Reply Obj. 1: Sacred vessels should in no way be sold by reason of their consecration, so that, namely, something more is required for their being consecrated; nevertheless, in a case of a church’s necessity, they can be sold on the part of what is not spiritual in them, namely, the gold material. And then if they are sold to an ecclesiastical person, they can be sold whole, but if they are sold to others, not for a church’s use, they should be shattered with the prescribed prayer, lest holy things be handled by others than the Church’s ministers.  
 
@@ -414,7 +416,7 @@ Article 3
 
 ***How simony happens***
 
-***Obj. 1: To the third question we proceed thus.Parallel: *ST* II-II, q. 100, a. 5; *de Malo,* q. 13, a. 4, obj. 13 and ad 13. It seems that simony is not committed in those three ways that Pope Urban determined,Gratian, *Decretals*, pt. 2, cause 1, q. 3, ch. 8, ‘Salvator’ (PL 187:549). when he said, *whoever is granted or gains ecclesiastical possessions not for what they were instituted for, but for his own profit, by gifts of the tongue or undue service or money, is a simoniac*. For, as was said above, a spiritual judge is a simoniac if he sells his judgment. But it is permitted for a spiritual judge to accept some gift of money, or something like it, as is said in the Extravagantes on Simony, Chapter “And if questions.”*Extra. De simonia*, ch. ‘Etsi quaestiones.’ Therefore, simony is not always committed by bribes from the hand.***
+Obj. 1: To the third question we proceed thus.Parallel: *ST* II-II, q. 100, a. 5; *de Malo,* q. 13, a. 4, obj. 13 and ad 13. It seems that simony is not committed in those three ways that Pope Urban determined,Gratian, *Decretals*, pt. 2, cause 1, q. 3, ch. 8, ‘Salvator’ (PL 187:549). when he said, *whoever is granted or gains ecclesiastical possessions not for what they were instituted for, but for his own profit, by gifts of the tongue or undue service or money, is a simoniac*. For, as was said above, a spiritual judge is a simoniac if he sells his judgment. But it is permitted for a spiritual judge to accept some gift of money, or something like it, as is said in the Extravagantes on Simony, Chapter “And if questions.”*Extra. De simonia*, ch. ‘Etsi quaestiones.’ Therefore, simony is not always committed by bribes from the hand.  
 
 Obj. 2: Furthermore, the pope can also receive a gift from the hand for something spiritual. But, as some people say, the pope cannot commit simony, especially with any ecclesiastical person; for the possessions of the Church are his. Therefore, simony is not always committed by gifts from the hand.  
 
@@ -458,7 +460,7 @@ Reply Obj. 9: In this a distinction must be made, for if before the granting of 
 
 Exposition of the Text  
 
-****Nor is any of these to be received into a clerical honor, even the least*:*Sententiae* IV, 25.1 (150). 2. not that he would not have received holy orders, but that he was wrongly ordained; which happens in two ways.***
+*Nor is any of these to be received into a clerical honor, even the least*:*Sententiae* IV, 25.1 (150). 2. not that he would not have received holy orders, but that he was wrongly ordained; which happens in two ways.  
 
 In one way, on the part of the one ordaining, either when he is a heretic or a simoniac or in any other way separated from the Church, and this is the case in the situation proposed; or when he is ordained by someone other than his own bishop without the permission and authority of his proper bishop; and then he should be deposed unless the bishop puts hope in the approval of the other bishop, as we read in the letter from blessed Epiphanius; or when he is ordained by a bishop who has renounced his office and see. For if he has retained his office while renouncing his see, he can confer minor orders and also major orders by the permission of the other bishop.  
 

@@ -1,5 +1,7 @@
 # On Manual Work
 
+***Question 7***
+
 ***On manual work***
 
 ***The question concerns manual work, and about this there were two things asked:***
@@ -12,7 +14,7 @@ Article 1
 
 ***Whether to work with one’s hands is a matter of precept***
 
-***To the first we proceed thus. It seems that to work with one’s hands is a matter of precept.***
+To the first we proceed thus. It seems that to work with one’s hands is a matter of precept.  
 
 Obj. 1: *If anyone wishes not to work, let him* not *eat. For we have heard there are some among you who walk disorderly, not working at all, but curiously meddling* (2 Thess 3:10–11). The Gloss says: *as though to say: I command this for this reason: that I have heard*. Therefore, to work with one’s hands is a precept.*Glossa ordinaria*, at 2 Thessalonians 3:10–11, 6.679 (PL 192:325; 114:636).  
 
@@ -84,9 +86,9 @@ Reply Sed Contra 5: It must be said that, although the use of the liberal arts i
 
 Article 2  
 
-***Whether those who are at leisure for spiritual works are excused from this precept***
+Whether those who are at leisure for spiritual works are excused from this precept  
 
-***About the second we proceed thus. It seems that those who are at leisure for spiritual works are not excused from labor of the hands.***
+About the second we proceed thus. It seems that those who are at leisure for spiritual works are not excused from labor of the hands.  
 
 Obj. 1: On 2 Thessalonians 3:10: *if anyone does not wish to work, let him* not *eat*, the Gloss of Augustine says: *certain men say that the Apostle commanded this concerning spiritual works*;*Glossa ordinaria*, at 2 Thessalonians 3:10, 6.679 (PL 192:324–25; 114:618); cf. Augustine, *On the Work of Monks* 1.2, 2.3 (CSEL 41:533, 535; PL 40:547–49). and afterwards he adds: *but superfluously they try to spread darkness over both themselves and others, so that what charity admonishes usefully, they refuse not only to do, but also to understand*. And thus, it seems that they are not excused from labor of the hands through spiritual works.  
 

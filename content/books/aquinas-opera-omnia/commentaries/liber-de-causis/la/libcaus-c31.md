@@ -1,5 +1,7 @@
 # Proposition 30
 
+203. Omnis substantia creata in tempore aut est semper in tempore et tempus non superfluit ab ea, quoniam est creata et tempus aequaliter, aut superfluit super tempus et tempus superfluit ab ea, quoniam est creata in quibusdam horis temporis.  
+
 > 204. Quod est, quia, si creata sequuntur se ad invicem et substantiam superiorem, non sequitur nisi substantia ei similis, non substantia dissimilis ei, sunt substantiae similes substantiae superiori—et sunt substantiae creatae, a quibus non superfluit tempus—ante substantias, quae assimulantur substantiis sempiternis, et sunt substantiae abscissae a tempore, creatae in quibusdam horis temporis. Non est ergo possibile, ut continuentur substantiae creatae in quibusdam horis temporis cum substantiis sempiternis, quoniam non assimulantur eis omnino. Substantiae ergo sempiternae in tempore sunt illae, quae continuantur cum substantiis sempiternis, et sunt mediae inter substantias fixas et inter substantias sectas in tempore. Et non est possibile, ut substantiae sempiternae, quae sunt supra tempus, sequantur substantias temporales creatas in tempore, nisi mediantibus substantiis temporalibus sempiternis in tempore.
 
 > 205. Et istae quidem substantiae non factae sunt mediae, nisi quoniam ipsae communicant substantiis sublimibus in permanentia et communicant substantiis temporalibus abscissis in tempore per generationem; ipsae enim quamvis sint sempiternae, tamen permanentia earum est per generationem et motum.

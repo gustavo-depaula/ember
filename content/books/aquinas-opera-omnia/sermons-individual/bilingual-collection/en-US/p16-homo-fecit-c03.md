@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Someone*** (Luke 14:16), et cetera.***
+
 Today we have spoken about the preparation of this dinner; now we must speak about its announcement. For the ***someone*** [in this biblical story] certainly has not prepared the dinner for no one to sit at the table, but in order to make it known to others. See that this dinner is not made known to anyone but to one who is called to it. One who is not called can approach the things that he knows and desires, but he cannot approach what exceeds our desire unless he is called.In general in *ST* I.12.13, ad 3; in respect of our happiness in I-II.5.5, and in respect of the resurrection in III.55.1.  
 
 Such is this dinner. Hence the Apostle says in 1 Corinthians 2:9–10 and in Isaiah 64:4: *eye has not seen, ear has not heard, and in the heart of a man it did not come up: the things that God has prepared for them who love him. Yet he has revealed it to us through the Holy Spirit*.  

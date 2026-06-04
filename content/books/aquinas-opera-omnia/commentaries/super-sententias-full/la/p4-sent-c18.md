@@ -1,8 +1,10 @@
 # D. 38 - The act of the will
 
+***De actu voluntatis***
+
 ***Divisio textus***
 
-***Postquam determinavit de actibus in quibus peccatum consistit in generali, inquirens utrum, inquantum sunt actus, sint boni et a Deo,Parma and PLE: *et a Deo*; Mandonnet: *a Deo*. hic determinat de ipsis actibus in speciali; et quia peccatum consistit in actu interiori et etiam exteriori, ideo dividitur haec pars in duas:***
+Postquam determinavit de actibus in quibus peccatum consistit in generali, inquirens utrum, inquantum sunt actus, sint boni et a Deo,Parma and PLE: *et a Deo*; Mandonnet: *a Deo*. hic determinat de ipsis actibus in speciali; et quia peccatum consistit in actu interiori et etiam exteriori, ideo dividitur haec pars in duas:  
 
 in prima determinat de actu interiori voluntatis;  
 
@@ -62,7 +64,7 @@ Articulus 1
 
 ***Utrum sit tantum unus finis rectarum voluntatum***
 
-***Ad primum sic proceditur. Videtur quod rectarum voluntatum non sit tantum unus finis.***
+Ad primum sic proceditur. Videtur quod rectarum voluntatum non sit tantum unus finis.  
 
 Caritas enim qua Deum diligimus, Deus non est, ut in 1 libro ostensum est. Sed rectarum voluntatum finis est Deus, et etiam caritas, ut in littera ostenditur. Duae ergo rectae voluntates non in unum finem tendunt.  
 
@@ -96,7 +98,7 @@ Articulus 2
 
 ***Utrum beatitudo vel caritas sit finis communis et unus rectarum voluntatum***
 
-***Ad secundum sic proceditur. Videtur quod finis communis rectarum voluntatum et unus, non possit esse caritas vel beatitudo.***
+Ad secundum sic proceditur. Videtur quod finis communis rectarum voluntatum et unus, non possit esse caritas vel beatitudo.  
 
 Nihil enim quod est citraPLE: *citra*; Mandonnet: *circa*. finem ultimum est unus finis communis omnibus. Sed caritas est circa finem ultimum, scilicet Deum; et similiter etiam beatitudo, et bona delectatio, et hujusmodi. Ergo hujusmodi non possunt esse finis communis rectarum voluntatum.  
 
@@ -172,7 +174,7 @@ Articulus 4
 
 ***Utrum voluntas uno et eodem actu velit finem et ea quae sunt ad finem***
 
-***Ad quartum sic proceditur. Videtur quod non sit unus actus voluntatis qui est de fine et de eo quod est ad finem.***
+Ad quartum sic proceditur. Videtur quod non sit unus actus voluntatis qui est de fine et de eo quod est ad finem.  
 
 Actus enim omnes distinguuntur secundum objecta, ut 2 *De anima*, dicitur. Finis vero et id quod est ad finem sunt diversa objecta. Ergo et motus voluntatis sunt diversi qui in ea feruntur.  
 
@@ -202,7 +204,7 @@ Articulus 5
 
 ***Utrum voluntas judicanda sit recta ex fine***
 
-***Ad quintum sic proceditur. Videtur quod voluntas non sit judicanda recta ex fine.***
+Ad quintum sic proceditur. Videtur quod voluntas non sit judicanda recta ex fine.  
 
 Contingit enim aliquod malum propter bonum velle, sicut qui vult furari, ut eleemosynas det. Sed talis voluntas mala est, et tamen finis voluntatis est bonus. Ergo ex fine non judicatur rectitudo voluntatis.  
 
@@ -236,7 +238,7 @@ Ad quintum dicendum, quod in habitu includitur rectitudo finis: quia ad virtutem
 
 Expositio textus  
 
-****Item rectae sunt voluntates, et omnes sibimet religatae, si bona est illa ad quam cunctae referuntur*. Hoc intelligendum est si referantur ad rectam voluntatem, quasi ex se ordinatae ad illam; ita quod recta voluntas sit finis actus voluntatis, et non tantum agentis, ut dictum est.***
+*Item rectae sunt voluntates, et omnes sibimet religatae, si bona est illa ad quam cunctae referuntur*. Hoc intelligendum est si referantur ad rectam voluntatem, quasi ex se ordinatae ad illam; ita quod recta voluntas sit finis actus voluntatis, et non tantum agentis, ut dictum est.  
 
 *Non debemus ideo evangelizare, ut manducemus*. Istud simpliciter verum est: quia manducare non potest esse finis evangelizandi nec proximus nec ultimus; sed est quaesitum ab evangelizante ad facultatem evangelizandi conservandam; et ideo Magister infra in solutione hoc verbum non exponit.  
 

@@ -1,6 +1,8 @@
 # Prologue
 
-***Ego sapientia effudi flumina; ego quasi trames aquae immensae defluvio;The Parma edition (1856) of Aquinas’s *Commentary on the Sentences* here reads *defluo*. ego quasi fluviusThe Mandonnet edition (1929) of Aquinas’s *Commentary on the Sentences* offers an alternate version of the text: *fluvii Diorix . . . prati mei fructum*. diorix, et sicut aquaeductus exivi de paradiso. Dixi: rigabo hortum plantationum, et inebriabo partus mei fructum.***
+***Ecclesiasticus 24:40–42***
+
+Ego sapientia effudi flumina; ego quasi trames aquae immensae defluvio;The Parma edition (1856) of Aquinas’s *Commentary on the Sentences* here reads *defluo*. ego quasi fluviusThe Mandonnet edition (1929) of Aquinas’s *Commentary on the Sentences* offers an alternate version of the text: *fluvii Diorix . . . prati mei fructum*. diorix, et sicut aquaeductus exivi de paradiso. Dixi: rigabo hortum plantationum, et inebriabo partus mei fructum.  
 
 > Inter multas sententias quae a diversis de sapientia prodierunt, quid scilicet esset vera sapientia, unam singulariter firmam et veram Apostolus protulit dicens *Christum Dei virtutem et Dei sapientiam, qui etiam factus est nobis sapientia a Deo*, 1 ad Corinth. 1:24 et 30. Non autem hoc ita dictum est, quod solus Filius sit sapientia, cum Pater, et Filius, et Spiritus Sanctus sint una sapientia, sicut una essentia; sed quia sapientia quodam speciali modo Filio appropriatur, eo quod sapientiae opera cum propriisParma: *proprietatibus*. Filii plurimum convenire videntur. Per sapientiam enim Dei manifestantur divinorum abscondita, producuntur creaturarum opera, nec tantum producuntur, sedParma adds *etiam*. restaurantur et perficiuntur: illa, dico, perfectione qua unumquodque perfectum dicitur, prout proprium finem attingit. Quod autem manifestatio divinorum pertineat ad Dei sapientiam, patet ex eo quod ipse Deus per suam sapientiam seipsum plene et perfecte cognoscit. Unde si quid de ipso cognoscimus oportet quod ex eo derivetur, quia omne imperfectum a perfecto trahit originem: unde dicitur Sapient. 9:17: *sensum tuum quis sciet, nisi tu dederis sapientiam?* Haec autem manifestatio specialiter per Filium facta invenitur: ipse enim est Verbum Patris, secundum quod dicitur Joan. 1; unde sibi manifestatio dicentis Patris convenit et totius Trinitatis. Unde dicitur Matth. 11:27: *nemo novit Patrem nisi Filius et cui Filius voluerit revelare*; et Joan. 1:18: *Deum nemo vidit unquam, nisi unigenitus qui est*Mandonnet suggests supplying *enarravit*. *in sinu Patris*.
 
@@ -30,7 +32,7 @@ Quaestio Prima
 
 ***Sacrae doctrinae***
 
-***Ad evidentiam hujus sacrae doctrinae, quae in hoc libro traditur, quaeruntur quinque:***
+Ad evidentiam hujus sacrae doctrinae, quae in hoc libro traditur, quaeruntur quinque:  
 
 primo, de necessitate ipsius;  
 
@@ -46,7 +48,7 @@ Articulus 1
 
 ***Utrum praeter physicas disciplinas alia doctrina sit homini necessaria***
 
-***Ad primum sic proceditur. Videtur quod praeter physicas disciplinas nulla sit homini doctrina necessaria.***
+Ad primum sic proceditur. Videtur quod praeter physicas disciplinas nulla sit homini doctrina necessaria.  
 
 Sicut enim dicit Dionysius in *Epistola ad Polycarpum*, *philosophia est cognitio existentium*; et constat, inducendo in singulis, quod de quolibet genere existentium in philosophia determinatur; quia de Creatore et creaturis, tam de his quae sunt ab opere naturae quam de his quae sunt ab opere nostro. Sed nulla doctrina potest esse nisi de existentibus, quia non entis non est scientia. Ergo praeter physicas disciplinas nulla doctrina debet esse.  
 
@@ -76,7 +78,7 @@ Articulus 2
 
 ***Utrum tantum una doctrina debeat esse praeter physicas***
 
-***Circa secundum sic proceditur. Videtur quod non una tantum doctrina debeat esse praeter physicas doctrinas, sed plures.***
+Circa secundum sic proceditur. Videtur quod non una tantum doctrina debeat esse praeter physicas doctrinas, sed plures.  
 
 De omnibus enim de quibus instruitur homo per rationes creaturarum, potest instrui per rationes divinas. Sed scientiae procedentes per rationes creaturarum sunt plures, differentes genere et specie, sicut moralis, naturalis, etc. Ergo scientiae procedentes per rationes divinas debent plures esse.  
 
@@ -132,7 +134,7 @@ Contra, 1 Corinth. 2:6: *sapientiam loquimur inter perfectos*. Cum ergo hanc doc
 
 Solutio 1  
 
-***Respondeo dicendum, quod ista scientia, quamvis sit una, tamen perfecta est et sufficiens ad omnem humanam perfectionem, propter efficaciam divini luminis, ut ex praedictis patet. Unde perficit hominem et in operatione recta et quantum ad contemplationem veritatis: unde quantum ad quid practica est et etiam speculativa. Sed quia scientia omnis principaliter pensanda est ex fine, finis autem ultimus istius doctrinae est contemplatio primae veritatis in patria, ideo principaliter speculativa est. Et, cum habitus speculativi sint tres, secundum Philosophum, 6 *Ethic*., cap. 7, scilicet sapientia, scientia et intellectus; dicimus quod est sapientia, eo quod altissimas causas considerat et est sicut caput et principalis et ordinatrix omnium scientiarum: et est etiam magis dicenda sapientia quam metaphysica, quia causas altissimas considerat per modum ipsarum causarum, quia per inspirationem a Deo immediate acceptam; metaphysica autem considerat causas altissimas per rationes ex creaturis assumptas. Unde ista doctrina magis etiam divina dicenda est quam metaphysica: quia est divina quantum ad subjectum et quantum ad modum accipiendi; metaphysica autem quantum ad subjectum tantum. Sed sapientia, ut dicit Philosophus in 6 *Ethic*., cap. 8, vel 7, considerat conclusiones et principia; et ideo sapientia est scientia et intellectus; cum scientia sit de conclusionibus et intellectus de principiis.***
+Respondeo dicendum, quod ista scientia, quamvis sit una, tamen perfecta est et sufficiens ad omnem humanam perfectionem, propter efficaciam divini luminis, ut ex praedictis patet. Unde perficit hominem et in operatione recta et quantum ad contemplationem veritatis: unde quantum ad quid practica est et etiam speculativa. Sed quia scientia omnis principaliter pensanda est ex fine, finis autem ultimus istius doctrinae est contemplatio primae veritatis in patria, ideo principaliter speculativa est. Et, cum habitus speculativi sint tres, secundum Philosophum, 6 *Ethic*., cap. 7, scilicet sapientia, scientia et intellectus; dicimus quod est sapientia, eo quod altissimas causas considerat et est sicut caput et principalis et ordinatrix omnium scientiarum: et est etiam magis dicenda sapientia quam metaphysica, quia causas altissimas considerat per modum ipsarum causarum, quia per inspirationem a Deo immediate acceptam; metaphysica autem considerat causas altissimas per rationes ex creaturis assumptas. Unde ista doctrina magis etiam divina dicenda est quam metaphysica: quia est divina quantum ad subjectum et quantum ad modum accipiendi; metaphysica autem quantum ad subjectum tantum. Sed sapientia, ut dicit Philosophus in 6 *Ethic*., cap. 8, vel 7, considerat conclusiones et principia; et ideo sapientia est scientia et intellectus; cum scientia sit de conclusionibus et intellectus de principiis.  
 
 Ad primum ergo dicendum, quod opus non est ultimum intentum in hac scientia, immo potius contemplatio primae veritatis in patria, ad quam deputatiParma: *depurati*. ex bonis operibus pervenimus, sicut dicitur Matth. 5:8: *beati mundo corde*; et ideo principalius est speculativa quam practica.  
 
@@ -140,7 +142,7 @@ Alia duo concedimus.
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum, quod ista doctrina scientia est, ut dictum est;Parma omits *ut dictum est*.***
+Ad id quod ulterius quaeritur, dicendum, quod ista doctrina scientia est, ut dictum est;Parma omits *ut dictum est*.  
 
 Et quod objicitur, quod est de particularibus, dicendum quod non est de particularibus inquantum particularia sunt, sed inquantum sunt exempla operandorum: et hoc usitatur etiam in scientia morali, quia operationes particularium et circa particularia sunt; unde per exempla particularia, ea quae ad mores pertinent, melius manifestantur,Parma omits the remainder of this reply to the objection. vel dicendum quod in scientia duo est considerare, scilicet certitudinem, quia non quaelibet cognitio, sed certitudinalis tantum dicitur scientia; item quod ipsa est terminus disciplinae; omnia enim quae sunt in scientia ordinantur ad scire.  
 
@@ -156,7 +158,7 @@ Aliud concedimus.
 
 Solutio 3  
 
-***Ad id quod ulterius quaeritur, an sit sapientia, dicendum, quod propriissime sapientia est, sicut dictum est.***
+Ad id quod ulterius quaeritur, an sit sapientia, dicendum, quod propriissime sapientia est, sicut dictum est.  
 
 Et quod objicitur, quod non est certissimus aliquis in ista doctrina, dicimus, quod falsum est: magis enim fidelis et firmius assentit his quae sunt fidei quam etiam primis principiis rationis. Et quod dicitur, quod fides est infra scientiam, non loquitur de fide infusa, sed de fide acquisita, quae est opinio fortificata rationibus. Habitus autem istorum principiorum, scilicet articulorum, dicitur fides et non intellectus, quia ista principia supra rationem sunt, et ideo humana ratio ipsa perfecte capere non valet; et sic fit quaedam defectiva cognitio, non ex defectu certitudinis cognitorum, sed ex defectu cognoscentis. Sed tamen ratio manuducta per fidem excrescit in hoc ut ipsa credibilia plenius comprehendat, et tunc ipsa quodammodo intelligit: unde dicitur Isa. 7:9, secundum aliam litteram: *nisi credideritis, non intelligetis*.  
 
@@ -192,7 +194,7 @@ Articulus 5
 
 ***Utrum modus procedendi sit artificialis***
 
-***Ad quintum sic proceditur.Parma adds *videtur quod modus procedendi non sit artificialis*, “it seems that the mode of proceeding is not by art.”***
+Ad quintum sic proceditur.Parma adds *videtur quod modus procedendi non sit artificialis*, “it seems that the mode of proceeding is not by art.”  
 
 NobilissimaeParma adds *enim*. scientiae debet esse nobilissimus modus. Sed quanto modus est magisParma: *magis modus*. artificialis, tanto nobilior est. Ergo, cum haec scientia sit nobilissima, modus ejus debet esse artificialissimus.  
 
@@ -228,7 +230,7 @@ Ad quartum dicendum, quod argumenta tolluntur ad probationem articulorum fidei; 
 
 Divisio textus prologi cum eius expositione  
 
-***Huic operi Magister prooemium praemittit, in quo tria facit.In the manuscripts, this division and exposition is found after the first question, as it is here, but in the subsequent edited editions, it is found before. Usually, as will be found in the following distinctions, the division of the text precedes the question, and the exposition of the text follows it.***
+Huic operi Magister prooemium praemittit, in quo tria facit.In the manuscripts, this division and exposition is found after the first question, as it is here, but in the subsequent edited editions, it is found before. Usually, as will be found in the following distinctions, the division of the text precedes the question, and the exposition of the text follows it.  
 
 Primo reddit auditorem benevolum;  
 

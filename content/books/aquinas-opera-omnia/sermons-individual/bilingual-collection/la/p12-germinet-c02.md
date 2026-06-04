@@ -1,5 +1,7 @@
 # Sermon
 
+******Germinet terra*** etc.***
+
 Hoc habet diuine dispositionis ratio ut singulis rebus secundum conuenienciam eorum prouideat, et ideo homini, quia humanus est, de terra remedium adhibuit; unde in Ecclesiastico: *altissimus de terra creauit medicinam.* Proponitur autem duplex medicina de terra, scilicet uirens herba et lignum pomiferum. Herba uirens est beata Virgo cuius natiuitatem hiis diebus celebrat Ecclesia.  
 
 Ipsa enim dicitur ***herba*** per humilitatem, ***uirens*** per uirginitatem, ***proferens semen*** per fecunditatem.  

@@ -1,5 +1,7 @@
 # Chapter 18
 
+***Vox 1***
+
 ***Uita***
 
 ***Quod uitam uoluptuosam eligunt multi, quia credunt uoluptatem esse summum bonum.***
@@ -32,7 +34,7 @@ Vox 2
 
 ***Uiuere***
 
-***Quod uiuere et sentire determinantur in animalibus per potenciam sensus, in hominibus per sensum et intellectum; potencia autem ad operacionem reducitur.***
+Quod uiuere et sentire determinantur in animalibus per potenciam sensus, in hominibus per sensum et intellectum; potencia autem ad operacionem reducitur.  
 
 Quod uiuere quia est sicut determinatum, secundum posicionem Pictagore, est naturaliter bonum.  
 
@@ -44,7 +46,7 @@ Vox 3
 
 ***Uirtus***
 
-***Quod uirtus melior est honore, et magis racionale est existimare hanc esse summum bonum.***
+Quod uirtus melior est honore, et magis racionale est existimare hanc esse summum bonum.  
 
 Quod uirtus inest homini quando dormit et nichil operatur et quando multa mala sustinet et infortunia.  
 
@@ -196,7 +198,7 @@ Vox 5
 
 ***Uir***
 
-***Quod uiri ad uxorem principatus aristocracia uidetur; secundum enim hec que oportet uirum uir principatur et uxori dimittit que illi congruunt.***
+Quod uiri ad uxorem principatus aristocracia uidetur; secundum enim hec que oportet uirum uir principatur et uxori dimittit que illi congruunt.  
 
 Quod uir uolens in omnibus dominari et nullum dominium dimittere uxori, regimen eius in oligarchiam transponitur.  
 
@@ -216,7 +218,7 @@ Vox 7
 
 ***Uerecundia***
 
-***Quod uerecundia non omni etati conuenit set iuuenili; tales enim oportet uerecundos esse, quia in eis sunt multa peccata propter impetum passionum, set a uerecundia prohibentur; et laudamus iuuenes uerecundos, senex autem nullus laudabilis quia uerecundabilis.***
+Quod uerecundia non omni etati conuenit set iuuenili; tales enim oportet uerecundos esse, quia in eis sunt multa peccata propter impetum passionum, set a uerecundia prohibentur; et laudamus iuuenes uerecundos, senex autem nullus laudabilis quia uerecundabilis.  
 
 Quod uerecundia non est studiosi cum non sit nisi de prauis que non operatur studiosus.  
 
@@ -234,7 +236,7 @@ Vox 8
 
 ***Unusquisque***
 
-***Quod unusquisque dicitur maxime agere quod facit intellectus, quia unusquisque est intellectus uel maxime intellectus.***
+Quod unusquisque dicitur maxime agere quod facit intellectus, quia unusquisque est intellectus uel maxime intellectus.  
 
 Vox 9  
 
@@ -256,7 +258,7 @@ Vox 10
 
 ***Uoluntabile***
 
-***Quod uoluntabile est bonum simpliciter, quod abstrahit a qualibet differencia boni.***
+Quod uoluntabile est bonum simpliciter, quod abstrahit a qualibet differencia boni.  
 
 Vox 11  
 
@@ -300,31 +302,31 @@ Vox 14
 
 ***Ueridicus***
 
-***De ueridicis et falsidicis, qui similiter se habent in sermonibus et operacionibus, et de ficcione.***
+De ueridicis et falsidicis, qui similiter se habent in sermonibus et operacionibus, et de ficcione.  
 
 Vox 15  
 
 ***Uilis***
 
-***Quod uestis Latoniorum erat uilis, et per hoc uolebant ostendere abstinenciam et talis iactancia uidetur.***
+Quod uestis Latoniorum erat uilis, et per hoc uolebant ostendere abstinenciam et talis iactancia uidetur.  
 
 Vox 16  
 
 ***Uenditor***
 
-***Quod uenditor cimini et omnis talis nominatus est a superhabundancia eius quod est nulli dare.***
+Quod uenditor cimini et omnis talis nominatus est a superhabundancia eius quod est nulli dare.  
 
 Vox 17  
 
 ***Uenia***
 
-***Quod uenia conceditur hiis qui operantur aliquid turpe propter pericula que humanam uitam excedunt.***
+Quod uenia conceditur hiis qui operantur aliquid turpe propter pericula que humanam uitam excedunt.  
 
 Vox 18  
 
 ***Ueritas***
 
-***Quod ueritas est medietas circa uerum, habundans autem iactator, deficiens autem eyron.***
+Quod ueritas est medietas circa uerum, habundans autem iactator, deficiens autem eyron.  
 
 Quod ueritas est opus utrarumque intellectiuarum particularum.  
 
@@ -346,7 +348,7 @@ Vox 21
 
 ***Uituperabile***
 
-***Quod uituperabile in delectacionibus natura eligibilibus et mediis non est simpliciter concupiscere et pati, set superhabundanter amare quemadmodum Inobe rebelles.***
+Quod uituperabile in delectacionibus natura eligibilibus et mediis non est simpliciter concupiscere et pati, set superhabundanter amare quemadmodum Inobe rebelles.  
 
 Vox 22  
 
@@ -364,10 +366,10 @@ Vox 24
 
 ***Uiriles***
 
-***Quod uiriles reuerentur, id est fugiunt, quod amici contristentur ipsis, et, si tristicia non sit ita magna quod superexcedat uires suas, nullo modo sustinent quod condoleant sibi, quia, cum ipsi non sint ploratiui, non delectantur in hoc quod aliquis comploret sibi; set muliebres homines gaudent in hoc quod aliqui per tristiciam sint simul angustiati, set tales non oportet imitari, set uirilem.***
+Quod uiriles reuerentur, id est fugiunt, quod amici contristentur ipsis, et, si tristicia non sit ita magna quod superexcedat uires suas, nullo modo sustinent quod condoleant sibi, quia, cum ipsi non sint ploratiui, non delectantur in hoc quod aliquis comploret sibi; set muliebres homines gaudent in hoc quod aliqui per tristiciam sint simul angustiati, set tales non oportet imitari, set uirilem.  
 
 Vox 25  
 
 ***Uisus***
 
-***Quod secundum uisum maxime est delectabilis presencia amici quemadmodum in amantibus uidere delectabilissimum est et magis eligunt amatores hunc sensum quem alios.***
+Quod secundum uisum maxime est delectabilis presencia amici quemadmodum in amantibus uidere delectabilissimum est et magis eligunt amatores hunc sensum quem alios.

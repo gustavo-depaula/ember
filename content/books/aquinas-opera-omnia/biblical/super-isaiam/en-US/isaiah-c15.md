@@ -1,5 +1,7 @@
 # Chapter 13
 
+***^13:1^ The burden of Babylon which Isaiah the son of Amos saw.***
+
 > ^13:2^ Upon the dark mountain lift up a sign,*Signum*. DR: “banner.” exalt the voice, lift up the hand, and let the rulers go into the gates.
 
 > ^13:3 ^I have commanded my sanctified ones, and have called my strong ones in my wrath, them that rejoice in my glory.

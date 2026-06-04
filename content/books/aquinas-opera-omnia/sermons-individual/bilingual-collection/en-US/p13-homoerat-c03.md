@@ -1,5 +1,7 @@
 # Evening Collation
 
+******There was a rich man*** (Luke 16:1), et cetera.***
+
 As it was said today, in these words two persons are introduced: the person of the lord and the person of the steward. Some things have been said about the lord; now we will speak about the steward. And concerning the steward we can consider three things: (1) his task, (2) his abuse, and (3) the danger threatening him. We can consider his task because he was a steward, his abuse because he squandered the goods of his lord, and his peril because he was discredited.  
 
 **1**. I have said that stewards are managers, like angelsThe higher angels help (*illuminare*) the lower (*ST* I.106.4), and angels help, serve, and guide (*amministrare*) corporeal creatures (*ST* I.110.1). and people.Genesis 1:28; cf. *ST* I-II.106.3, ad 3 (*deservire*). And since we are people, let us say that the care for the regulation of the goods is commissioned to man. The Lord entrusts three things to man: (1.1) himself, (1.2) spiritual goods, and (1.3) exterior things.  

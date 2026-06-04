@@ -1,5 +1,7 @@
 # Proposition 19
 
+149. Ex intelligentiis est, quae est intelligentia divina, quoniam ipsa recipit ex bonitatibus primis, quae procedunt ex causa prima receptione multa; et de eis est, quae est intelligentia tantum, quoniam non recipit ex bonitatibus primis nisi mediante intelligentia. Et ex animabus est, quae est anima intellectibilis, quoniam est pendens per intelligentiam; et ex eis est, quae est anima tantum. Et ex corporibus naturalibus est, cui est anima regens ipsum et faciens directionem super ipsum; et de eis sunt, quae sunt corpora naturalia tantum, quibus non est anima.  
+
 > 150. Et hoc non fit ita, nisi quoniam est ipsa expositio neque intellectibilis tota neque animalis tota neque corporea tota, non pendet per causam, quae est supra eam, nisi quae est ex ea completa, integra et quae pendet per causam, quae est supra eam,
 
 > 151. scilicet quia non omnis intelligentia pendet per bonitates esse causae primae, nisi quae ex eis est intelligentia completa in primis, integra. Ipsa enim potest recipere bonitates descendentes ex causa prima et pendere per eas, ut vehemens fiat sua unitas.

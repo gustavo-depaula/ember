@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Beata gens cuius est Dominus*** etc*.****
+
 Circa illud gloriosum collegium sanctorum, cuius festum hodie celebramus, dictum fuit de sanctorum dignitate et de ipsorum rectore. Propter temporis brevitatem dicendum est aliquid de eius dispositione, quae designatur nomine ***populi***.  
 
 **3.** Quid est populus? Augustinus introducit diffinicionem populi talem: *populus est caetus multitudinis iuris consensu et utilitatis communione sociatus*. Et videte. Secundum hoc in nomine populi tria accipi possunt: numerosa multitudo, ordinata distinctio et concors unio.  

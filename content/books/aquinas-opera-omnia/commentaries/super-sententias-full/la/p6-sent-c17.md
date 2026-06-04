@@ -1,5 +1,7 @@
 # D. 39 - Perjury and oaths
 
+***Divisio textus***
+
 ***Postquam determinavit Magister de mendacio; hic determinat de perjurio;***
 
 et dividitur in duas partes:  
@@ -102,7 +104,7 @@ Articulus 1
 
 ***Utrum jurare sit idem quod Deum in testem invocare***
 
-***Ad primum sic proceditur. Videtur quod jurare non sit idem quod Deum in testem invocare.***
+Ad primum sic proceditur. Videtur quod jurare non sit idem quod Deum in testem invocare.  
 
 Aliquando enim, ut in littera dicitur, licitum est per creaturas jurare. Sed tunc non videtur invocari divinum testimonium, sed magis testimonium creaturae. Ergo jurare non est Deum in testem invocare.  
 
@@ -156,7 +158,7 @@ Praeterea, cujuslibet per se boni frequentatio est utilis. Sed frequens juratio 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam non sit licitum. Omne enim quod prohibetur, est illicitum. Sed juramentum est prohibitum, Matth. 5:34: *ego autem dico, non jurare omnino*; et Jac. ult. 12: *ante omnia fratres mei, nolite jurare* The Bruges and Brussels manuscripts omit *et Jacobi etc. . .*  etc. Ergo juramentum est illicitum.***
+Ulterius. Videtur quod etiam non sit licitum. Omne enim quod prohibetur, est illicitum. Sed juramentum est prohibitum, Matth. 5:34: *ego autem dico, non jurare omnino*; et Jac. ult. 12: *ante omnia fratres mei, nolite jurare* The Bruges and Brussels manuscripts omit *et Jacobi etc. . .*  etc. Ergo juramentum est illicitum.  
 
 Praeterea, nullius rei voluntas prohibetur, nisi peccati. Sed voluntas jurandi prohibetur, cum dicitur, nolite jurare, ut sancti et magistri dicunt. Ergo jurare est illicitum.  
 
@@ -168,7 +170,7 @@ Praeterea, nullus actus cadens supra debitam materiam est illicitus, si non fiat
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non requirantur isti tres comites qui in littera ponuntur, ad hoc quod juramentum sit licitum, scilicet veritas, justitia, et judicium. Ubi enim non est veritas, non est justitia, quia veritas justitiae pars est. Sed pars non debet dividi contra totum. Ergo veritas non debet connumerari justitiae.***
+Ulterius. Videtur quod non requirantur isti tres comites qui in littera ponuntur, ad hoc quod juramentum sit licitum, scilicet veritas, justitia, et judicium. Ubi enim non est veritas, non est justitia, quia veritas justitiae pars est. Sed pars non debet dividi contra totum. Ergo veritas non debet connumerari justitiae.  
 
 Praeterea, judicium non videtur aliud esse quam executio justitiae. Ergo posita justitia superfluit The Vatican (755) manuscript and edited versions read *superfluum est*. ponere judicium.  
 
@@ -180,7 +182,7 @@ Praeterea, in omnibus factis nostris requiruntur ista tria. Ergo non magis deben
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod sicut in confirmatione, quae fit per rationes, duo sunt, scilicet medium probans et id quod probatur; ita etiam in confirmatione juramenti est dictum humanum quasi probandum, et divinum testimonium quasi medium probans. Medium autem The Bruges and Brussels manuscripts omit *autem* against the Paris (841 and 842) manuscripts and the edited versions. secundum artem syllogisticam debet esse ex eodem genere; unde in necessariis sumuntur media The edited versions omit *media*. necessaria, et in contingentibus contingentia.***
+Respondeo dicendum ad primam quaestionem, quod sicut in confirmatione, quae fit per rationes, duo sunt, scilicet medium probans et id quod probatur; ita etiam in confirmatione juramenti est dictum humanum quasi probandum, et divinum testimonium quasi medium probans. Medium autem The Bruges and Brussels manuscripts omit *autem* against the Paris (841 and 842) manuscripts and the edited versions. secundum artem syllogisticam debet esse ex eodem genere; unde in necessariis sumuntur media The edited versions omit *media*. necessaria, et in contingentibus contingentia.  
 
 Veritas autem humanorum verborum est minimae firmitatis, tum ex hoc quod error facile rationi accidit, tum ex hoc quod lingua prona est ad defectum; et ideo divinam veritatem, quae est omnino infallibilis, ad dicta nostra confirmanda assumere non multum convenit, nisi necessitas incumbat. Et ideo juramentum non est computandum inter ea quae sunt per se expetenda,PLE: *expetenda*. The edited versions read *appetenda*. sed inter ea quae propter necessitatem fiunt, sicut sunt bona utilia, ut sectio vulneris, vel aliquid hujusmodi.  
 
@@ -192,7 +194,7 @@ Ad tertium dicendum, quod in juramento divino medium assumitur ex eodem genere: 
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod aliquid potest habere indecentiam dupliciter; vel per se, vel ex eo quod sequitur. Quod autem ex se indecentiam habet, nullo modo potest licitum esse, quantumcumque necessitas incumbat; sicut patet in stupro, et in aliis quae sunt mala ex genere. Quod autem habet indecentiam propter periculum sequens, duo requirit ad hoc quod convenienter fiat. Unum est cautela sufficienter cavens illud periculum: aliud est utilitas consequens: sicut patet in sectione vulneris. Si enim per eam sanitas reddatur, et talis cautela adhibeatur quod membra cetera non laedantur, convenienter fit.***
+Ad secundam quaestionem dicendum, quod aliquid potest habere indecentiam dupliciter; vel per se, vel ex eo quod sequitur. Quod autem ex se indecentiam habet, nullo modo potest licitum esse, quantumcumque necessitas incumbat; sicut patet in stupro, et in aliis quae sunt mala ex genere. Quod autem habet indecentiam propter periculum sequens, duo requirit ad hoc quod convenienter fiat. Unum est cautela sufficienter cavens illud periculum: aliud est utilitas consequens: sicut patet in sectione vulneris. Si enim per eam sanitas reddatur, et talis cautela adhibeatur quod membra cetera non laedantur, convenienter fit.  
 
 Juramentum autem inconvenientiam quamdam videtur habere, ut dictum est, propter defectibilitatem humanorum verborum, ad quae assumitur veritas immutabilis. Si autem humana verba essent hoc modo defectibilia quod semper necesse esset ea deficere, omnino juramentum de se indecentiam haberet, et nulla necessitate liceret jurare. Sed quia verba humana non semper deficiunt, sed aliquando veritatem habent; ideo diligenti cautela adhibita, ut defectus evitetur, licet jurare propter aliquam necessitatem.  
 
@@ -204,7 +206,7 @@ Ad tertium dicendum, quod in praedictis factis ubi expectamus divinum judicium v
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum, quod ad hoc quod juramentum sit rectum, tria requiruntur. Unum ex parte ipsius rei de qua juratur; et sic requiritur veritas per quam dictum rei adaequatur, alias dictum non esset confirmatione dignum. Aliud requiritur ex parte causae pro qua juratur; et sic requiritur justitia, alias non esset debita necessitas. Tertium requiritur ex parte jurantis; et sic requiritur ut cum discretione juret, alias non adhiberetur debita cautela; et sic est judicium.***
+Ad tertiam quaestionem dicendum, quod ad hoc quod juramentum sit rectum, tria requiruntur. Unum ex parte ipsius rei de qua juratur; et sic requiritur veritas per quam dictum rei adaequatur, alias dictum non esset confirmatione dignum. Aliud requiritur ex parte causae pro qua juratur; et sic requiritur justitia, alias non esset debita necessitas. Tertium requiritur ex parte jurantis; et sic requiritur ut cum discretione juret, alias non adhiberetur debita cautela; et sic est judicium.  
 
 Ad primum ergo dicendum, quod veritas non accipitur hic secundum quod est pars justitiae, sed secundum quod est adaequatio vocis ad rem.  
 
@@ -236,7 +238,7 @@ Praeterea, nihil attingit propriam virtutem nisi quando perfectum est, ut dicitu
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod juramentum coactum non sit obligatorium. Nullus enim potest ad aliquod speciale obligari, nisi seipsum obliget. Sed nullus dicitur aliquid facere nisi quod volens facit. Cum ergo juramentum coactum voluntatem jurantis excludat, videtur quod tale juramentum non sit obligatorium.***
+Ulterius. Videtur quod juramentum coactum non sit obligatorium. Nullus enim potest ad aliquod speciale obligari, nisi seipsum obliget. Sed nullus dicitur aliquid facere nisi quod volens facit. Cum ergo juramentum coactum voluntatem jurantis excludat, videtur quod tale juramentum non sit obligatorium.  
 
 Praeterea, major est obligatio matrimonii quam juramenti: quia si aliquis juravit se nunquam matrimonium initurum, et postea matrimonium consummaverit, tenetur in matrimonio perseverare. Sed coactio contractum impedit matrimonii. The edited versions read *matrimonium*. Ergo etiam The Bruges and Paris (841 and 842) manuscripts read *et*. impedit obligationem juramenti.  
 
@@ -248,7 +250,7 @@ Praeterea, juramentum cui non deest aliquis suorum comitum, est obligatorium. Se
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod juramentum non obliget secundum intentionem recipientis. Nullus enim debet ad ignotum obligari. Sed intentio juramentum recipientis est mihi ignota. Ergo juramentum meum non obligat me secundum intentionem illius.***
+Ulterius. Videtur quod juramentum non obliget secundum intentionem recipientis. Nullus enim debet ad ignotum obligari. Sed intentio juramentum recipientis est mihi ignota. Ergo juramentum meum non obligat me secundum intentionem illius.  
 
 Praeterea, juramentum exhibetur ad confirmationem sermonis jurantis. Sed intentio jurantis propinquior est sermoni suo quam intentio alterius. Ergo magis obligat secundum intentionem jurantis quam recipientis.  
 
@@ -260,7 +262,7 @@ Praeterea, fraus et dolus nemini debet patrocinari. Hoc autem accideret, si aliq
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod duplex est juramentum: unum assertorium, et aliud promissorium. Promissorium juramentum est de eo quod in futurum a jurante faciendum expectatur vel per se vel per alium. Assertorium vero est quod fit ad confirmationem veritatis et praesentis et praeteritae, si etiam ipsius The edited versions omit *ipsius*. causa non simus.PLE: *ipsius causa*. The Bruges manuscript reads *sumus*. In juramento ergo The Bruges manuscript omits *ergo*. assertorio est una tantum obligatio, scilicet qua quis obligatur ad peccatum, si veritas suo juramento desit. In juramento autem promissorio est duplex obligatio. Una qua quis obligatur ad faciendum hoc quod juramento promisit; alia qua obligatur ad peccatum, si non fecerit.***
+Respondeo dicendum ad primam quaestionem, quod duplex est juramentum: unum assertorium, et aliud promissorium. Promissorium juramentum est de eo quod in futurum a jurante faciendum expectatur vel per se vel per alium. Assertorium vero est quod fit ad confirmationem veritatis et praesentis et praeteritae, si etiam ipsius The edited versions omit *ipsius*. causa non simus.PLE: *ipsius causa*. The Bruges manuscript reads *sumus*. In juramento ergo The Bruges manuscript omits *ergo*. assertorio est una tantum obligatio, scilicet qua quis obligatur ad peccatum, si veritas suo juramento desit. In juramento autem promissorio est duplex obligatio. Una qua quis obligatur ad faciendum hoc quod juramento promisit; alia qua obligatur ad peccatum, si non fecerit.  
 
 His ergo visis, sciendum, quod sicut non omnis assertio est digna ut juramento firmetur, ita nec omnis promissio, sed illa tantum quae utilitatem aliquam continet: unde si promissio quae est de aliquo quod salutem impediat, sive sit contrarium saluti, sive viae perfectae in salutem, juramento firmetur, ex hoc ipso juramentum efficitur indebitum, quasi actus cadens super indebitam materiam: unde obligat secunda obligatione quae est ad peccatum, nec remanet ei virtus obligandi prima obligatione ad faciendum. Prima enim obligatio est ad vitandum secundam obligationem: unde juramentum quod de necessitate ad peccatum obligat, ipso facto ab alia obligatione vacuatur. The Bruges manuscript reads *evacuatur*.  
 
@@ -272,7 +274,7 @@ Ad tertium dicendum, quod quamvis praelationem fugere possit quandoque ex bono p
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod coactio in juramento assertorio non potest esse sufficiens, quia nihil potest sufficienter cogere ad hoc quod homo mortaliter peccet; quod contingit, si falsum cum juramento asserat; unde tale juramentum quantumcumque coactum, est obligatorium ad peccatum.***
+Ad secundam quaestionem dicendum, quod coactio in juramento assertorio non potest esse sufficiens, quia nihil potest sufficienter cogere ad hoc quod homo mortaliter peccet; quod contingit, si falsum cum juramento asserat; unde tale juramentum quantumcumque coactum, est obligatorium ad peccatum.  
 
 In juramento autem promissorio sciendum, quod coactio potest esse sufficienter cogens ad promittendum: quia ut vitetur The edited versions read *evitetur*. majus periculum, potest aliquis aliquid promittere sibi damnosum; quod sine peccato contingere potest: et tunc talis coactio, si sit sufficiens quae in constantem virum cadere possit, tollit obligationem juramenti in foro contentioso: quia ei qui vim intulit, non competit actio ex obligatione illius juramenti. Sed in foro conscientiae est obligatorium: quia magis debet homo subire temporale damnum quam fidem frangere. Habet tamen remedium ut in judicio ab eo repetat. Quod si juraverit se non repetiturum, potest judici denuntiare, qui ex officio suo debet raptorem ad restituendum cogere. Si autem juraverit se non denuntiaturum, contra correptionem fraternam juravit, et non tenetur observare.  
 
@@ -284,7 +286,7 @@ Ad tertium dicendum, quod Lucia loquitur de violento simpliciter, in quo patiens
 
 Solutio 3  
 
-***Ad tertiam quaestionem dicendum quod juramentum promissorium, ut dictum est, obligat hac necessitate ut culpa evitetur: unde obligat ad omne illud faciendum quo non facto culpa The Bruges manuscript adds *non*. incurritur. Distinguendum est ergo in eo qui jurat; aut enim simpliciter, aut dolose jurat. Si jurat dolose, ex duabus partibus potest culpa sequi: scilicet ex fractione juramenti, et ex dolo. Quamvis ergo ex ipsa ratione juramenti, inquantum juramentum, non obligetur ad servandum ipsum nisi secundum suam intentionem; tamen ex necessitate juramenti, inquantum fuit dolosum, obligatur ad observandum taliter quod ex dolo alius non laedatur: et hoc est quando secundum intentionem recipientis implet juramentum.***
+Ad tertiam quaestionem dicendum quod juramentum promissorium, ut dictum est, obligat hac necessitate ut culpa evitetur: unde obligat ad omne illud faciendum quo non facto culpa The Bruges manuscript adds *non*. incurritur. Distinguendum est ergo in eo qui jurat; aut enim simpliciter, aut dolose jurat. Si jurat dolose, ex duabus partibus potest culpa sequi: scilicet ex fractione juramenti, et ex dolo. Quamvis ergo ex ipsa ratione juramenti, inquantum juramentum, non obligetur ad servandum ipsum nisi secundum suam intentionem; tamen ex necessitate juramenti, inquantum fuit dolosum, obligatur ad observandum taliter quod ex dolo alius non laedatur: et hoc est quando secundum intentionem recipientis implet juramentum.  
 
 Si autem simpliciter juret absque dolo, tunc in foro conscientiae non obligatur nisi secundum suam intentionem; sed in foro contentioso, ubi intentio ignoratur, obligatur secundum quod verba communiter accipi solent.  
 
@@ -294,7 +296,7 @@ Articulus 4
 
 ***Utrum perjurium sit mendacium juramento firmatum***
 
-***Ad quartum sic proceditur. Videtur quod perjurium non sit mendacium juramento firmatum.***
+Ad quartum sic proceditur. Videtur quod perjurium non sit mendacium juramento firmatum.  
 
 Omne enim mendacium est falsa vocis significatio, ut in praecedenti dist. dictum est. Sed perjurium potest esse sine falsa vocis significatione: quia, sicut in littera dicitur, qui jurat verum quod putat esse falsum, perjurus est. Ergo non omne perjurium est mendacium juramento confirmatum.  
 
@@ -344,7 +346,7 @@ Praeterea, omne quod est contrarium praecepto legis, est peccatum mortale. Sed p
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non liceat juramentum recipere vel exigere. Super The Bruges manuscript reads *per*; the edited versions read *Nam super*. illud Roman. 1:9: *testis est mihi Deus*, dicit Glossa: *tu non facis malum qui bene uteris juratione, ut alteri suadeas quod utile est; sed a malo est*, supple *illius qui recipit juramentum*. Ergo recipiens juramentum peccat.***
+Ulterius. Videtur quod non liceat juramentum recipere vel exigere. Super The Bruges manuscript reads *per*; the edited versions read *Nam super*. illud Roman. 1:9: *testis est mihi Deus*, dicit Glossa: *tu non facis malum qui bene uteris juratione, ut alteri suadeas quod utile est; sed a malo est*, supple *illius qui recipit juramentum*. Ergo recipiens juramentum peccat.  
 
 Praeterea, ille qui exigit ab aliquo juramentum, vel scit eum jurare verum, vel scit eum jurare falsum, vel nescit an falsum an The Brussels manuscript reads *vel*. verum juret. Si scit eum jurare verum, videtur peccare, quia pro nihilo facit eum jurare. Si scit eum juraturum The Bruges manuscript reads *jurare*. falsum, homicida illius est, ut in littera dicitur. Si autem nesciat alterutrum, The Bruges, Brussels, and Paris (841, 842, 15.539, 15.770, and 15.772) manuscripts read *alterum* and add *quia*. de hoc dicit Augustinus super illud Rom. 1: *testis est mihi Deus: non audeo dicere hoc non esse peccatum, sed humana tentatio est*. Ergo exigere juramentum quolibet modo peccatum est.  
 
@@ -356,7 +358,7 @@ Praeterea, sine quo non potest ordo judiciarius observari, non videtur esse pecc
 
 Solutio 1  
 
-***Respondeo dicendum ad primam quaestionem, quod juramentum est duplex. Quoddam in quo aliquis percipit se jurare; et tunc si falsum jurat, credo quod semper peccet mortaliter, sive sit juramentum solemne, sive non solemne; The Paris (842) manuscript reads *simplex*. et praecipue quando percipit esse falsum quod jurat. Quoddam vero juramentum est in quo homo non attendit ad The Bruges manuscript omits *ad*. juramentum, et quasi non percipit se jurare, sed ex lapsu linguae in juramentum prolabitur; et quia tunc quasi nesciens jurat, et nesciens non reputatur voluntarius, ideo in tali casu videtur quis non voluntarie jurare. Unde si sit falsum hoc de quo jurat, sive percipiat esse falsum, sive non, dummodo non sit mendacium perniciosum, non dico quod sit peccatum mortale, sed veniale; valde tamen cavendum propter vicinitatem ad mortale.***
+Respondeo dicendum ad primam quaestionem, quod juramentum est duplex. Quoddam in quo aliquis percipit se jurare; et tunc si falsum jurat, credo quod semper peccet mortaliter, sive sit juramentum solemne, sive non solemne; The Paris (842) manuscript reads *simplex*. et praecipue quando percipit esse falsum quod jurat. Quoddam vero juramentum est in quo homo non attendit ad The Bruges manuscript omits *ad*. juramentum, et quasi non percipit se jurare, sed ex lapsu linguae in juramentum prolabitur; et quia tunc quasi nesciens jurat, et nesciens non reputatur voluntarius, ideo in tali casu videtur quis non voluntarie jurare. Unde si sit falsum hoc de quo jurat, sive percipiat esse falsum, sive non, dummodo non sit mendacium perniciosum, non dico quod sit peccatum mortale, sed veniale; valde tamen cavendum propter vicinitatem ad mortale.  
 
 Ad primum ergo dicendum, quod non est simile de mendacio et perjurio: quia juramentum non est nisi cum magna cautela adhibendum, ut dictum est, et propter utilitatem aliquam; unde si jocose aliquis perjurat, non excusabitur.  
 
@@ -366,7 +368,7 @@ Ad tertium dicendum, quod jurare sine causa non directe opponitur illi praecepto
 
 Solutio 2  
 
-***Ad secundam quaestionem dicendum, quod sicut jurare non semper malum est, sed quandoque est licitum, quando pro necessitate aliqua et cum cautela juratur; ita etiam juramentum recipere vel exigere ex causa necessaria, et aliis debitis circumstantiis observatis, potest esse sine peccato.***
+Ad secundam quaestionem dicendum, quod sicut jurare non semper malum est, sed quandoque est licitum, quando pro necessitate aliqua et cum cautela juratur; ita etiam juramentum recipere vel exigere ex causa necessaria, et aliis debitis circumstantiis observatis, potest esse sine peccato.  
 
 Ad primum ergo dicendum quod non intelligitur ibi malum culpae, sed malum poenae, quod est The edited versions add *ex* against the Bruges, Brussels, and Paris (841 and 842) manuscripts. ignorantia illius qui juramentum recipit: si enim sciret an esset verum hoc pro quo juratur, juramento opus non esset.  
 
@@ -376,7 +378,7 @@ Ad tertium dicendum, quod ille qui jurat per idola, peccat quidem quantum ad for
 
 Expositio textus  
 
-****Nunc de perjurio videamus*. Videtur quod tractatum istum ponere debuerit in expositione secundi praecepti. Sed The Bruges manuscript reads *Et*. dicendum, quod perjurium ad sui cognitionem praesupponit e perjurio tractavit.*Set dicendum, quod periurium ad sui cognitionem presupponit mendacium. Et ideo necessitate tractandi post mendacium de periurio tractauit.—-Sed dicendum, quod perjurium ad sui cognitionem praesupponit e perjurio tractavit*. PLE***
+*Nunc de perjurio videamus*. Videtur quod tractatum istum ponere debuerit in expositione secundi praecepti. Sed The Bruges manuscript reads *Et*. dicendum, quod perjurium ad sui cognitionem praesupponit e perjurio tractavit.*Set dicendum, quod periurium ad sui cognitionem presupponit mendacium. Et ideo necessitate tractandi post mendacium de periurio tractauit.—-Sed dicendum, quod perjurium ad sui cognitionem praesupponit e perjurio tractavit*. PLE  
 
 *Infirmis ergo illud prohibuit*. Propter duo pericula. Primo ne aliquod numen creaturis inesse crederent. Secundo ne tali juramento se obligari non The Bruges manuscript omits *non*. credentes, fidem frangerent.  
 

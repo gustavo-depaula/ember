@@ -1,8 +1,10 @@
 # D. 43 - The sin against the Holy Spirit
 
+***De peccato in Spiritum Sanctum***
+
 ***Divisio textus***
 
-***Postquam diversa genera peccatorum assignavit, in parte ista determinat de quodam genere peccati quod caeteris aliis gravius invenitur, scilicet de peccato in Spiritum Sanctum; et dividitur in partes duas:***
+Postquam diversa genera peccatorum assignavit, in parte ista determinat de quodam genere peccati quod caeteris aliis gravius invenitur, scilicet de peccato in Spiritum Sanctum; et dividitur in partes duas:  
 
 in prima ostendit gravitatem hujus peccati;  
 
@@ -92,7 +94,7 @@ Articulus 2
 
 ***Utrum peccatum in Spiritum Sanctum sit determinatum genus peccati***
 
-***Ad secundum sic proceditur. Videtur quod peccatum in Spiritum Sanctum non sic determinatParma and PLE: *sit determinatum*. genus peccati.***
+Ad secundum sic proceditur. Videtur quod peccatum in Spiritum Sanctum non sic determinatParma and PLE: *sit determinatum*. genus peccati.  
 
 Sicut enim peccatum quod ex industria geritur est peccatum in Spiritum Sanctum, ita peccatum quod est ex infirmitate est in Patrem, et quod ex ignorantia est in Filium. Sed peccatum ex infirmitate non nominat determinate aliquod genus peccati, sed peccati circumstantiam. Ergo nec peccatum in Spiritum Sanctum est determinatum genus peccati.  
 
@@ -132,7 +134,7 @@ Articulus 3
 
 ***Utrum species peccati in Spiritum Sanctum convenienter assignentur in littera***
 
-***Ad tertium sic proceditur. Videtur quod inconvenienter assignentur in littera species peccati in Spiritum Sanctum.***
+Ad tertium sic proceditur. Videtur quod inconvenienter assignentur in littera species peccati in Spiritum Sanctum.  
 
 Nullus enim desperare potest, credens remissionem peccatorum in Ecclesia fieri. Sed negare remissionem peccatorum est infidelitatis. Ergo desperatio est species infidelitatis, et non peccati in Spiritum Sanctum.  
 
@@ -184,7 +186,7 @@ Articulus 4
 
 ***Utrum peccatum in Spiritum Sanctum sit irremissibile***
 
-***Ad quartum sic proceditur. Videtur quod peccatum in Spiritum Sanctum non sit irremissibile.***
+Ad quartum sic proceditur. Videtur quod peccatum in Spiritum Sanctum non sit irremissibile.  
 
 Remissio enim peccati fit per gratiam. Sed *ubi abundavit delictum, superabundavit et gratia*, Rom. 5:20. Cum ergo peccatum in Spiritum Sanctum sit gravissimum, videtur quod maxime sit remissibile.  
 
@@ -230,7 +232,7 @@ Articulus 5
 
 ***Utrum aliquis possit peccare in Spiritum Sanctum in primo actu peccati***
 
-***Ad quintum sic proceditur. Videtur quod aliquis in primo actu peccati non possit peccare in Spiritum Sanctum, sed quod hoc peccatum praeexigat alia peccata.***
+Ad quintum sic proceditur. Videtur quod aliquis in primo actu peccati non possit peccare in Spiritum Sanctum, sed quod hoc peccatum praeexigat alia peccata.  
 
 Dicit enim Bernardus, in 4 *Sermone super Cantica*: *nemo repente fit summus; sed paulatim proficere volo*. Ergo e contrario nullus repente fit pessimus. Sed peccatum in Spiritum Sanctum est gravissimum. Ergo non statim aliquis hoc peccato potest peccare.  
 
@@ -304,7 +306,7 @@ Ad octavum dicendum, quod malitia, ex qua peccatum in Spiritum Sanctum esse dici
 
 Expositio textus  
 
-****Neque hic neque in futuro*. Hoc ideo dicitur, quia quaedam peccata in futuro etiam dimittuntur, sicut venialia quaedam, ut Gregorius dicit, *Dialog*., 4, non solum quantum ad poenam, sed etiam quantum ad culpam.***
+*Neque hic neque in futuro*. Hoc ideo dicitur, quia quaedam peccata in futuro etiam dimittuntur, sicut venialia quaedam, ut Gregorius dicit, *Dialog*., 4, non solum quantum ad poenam, sed etiam quantum ad culpam.  
 
 *Non pro eo dico ut quis oret*. Si peccatum ad mortem intelligatur peccatum in Spiritum Sanctum, prout peccatum in Spiritum Sanctum requirit finalem impoenitentiam, secundum unam opinionem; sic intelligendum est, ut nullus pro talibus oret: quia qui usque ad mortem in peccato mortali perdurat, postmodum orationibus non juvatur. Si autem sumatur pro peccato in Spiritum Sanctum, secundum aliam opinionem, prout non requirit finalem impoenitentiam; sic intelligendum est, ut non oret pro eo quis, id est quicumque: quia talium conversio quasi miraculosa est. Unde sicut pro faciendis miraculis non quilibet orat, sed magni et sancti viri, ita nec pro talium conversione. Tamen secundum formam verborum non prohibetur oratio pro eo fieri; sed ostenditur quod praeceptum de orando pro proximis fidelibus non se extendit ad tales peccatores: quia propter sui peccati enormitatem hoc merentur ut a fidelibus relinquantur, sicut ethnici et publicani.  
 

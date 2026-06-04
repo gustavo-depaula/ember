@@ -1,5 +1,7 @@
 # Proposition 29
 
+199. Every substance is simple, that stands through itself, that is to say through its essence.  
+
 > 200. For it is created without time, and it is in its substantiality superior to temporal substances.
 
 > 201. And an indication of that is that it is not generated from anything else, since it stands through its essence; and substances generated from something else are composite substances that fall under generation.

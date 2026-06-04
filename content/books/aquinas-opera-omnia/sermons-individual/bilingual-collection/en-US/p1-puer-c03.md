@@ -1,5 +1,7 @@
 # Evening Collation
 
+***Jesus advanced*** (Luke 2:52). Today we have spoken about the double progress of Christ, that is, about (1) the progress of age and (2) that of grace. So it remains that we must speak about the other two progresses,  
+
 namely, about (3) the progress of wisdom  
 
 and (4) his life with the people.  

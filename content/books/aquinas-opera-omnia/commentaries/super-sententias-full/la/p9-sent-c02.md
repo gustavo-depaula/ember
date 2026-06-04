@@ -1,6 +1,8 @@
 # D. 27 - On the cause of marriage
 
-***Postquam determinavit Magister de institutione matrimonii et significatione ipsius, hic incipit determinare de causis ejus; et dividitur in partes duas: in prima de causis constituentibus matrimonium; in secunda de causis honestantibus ipsum, distinct. 31, ibi: *post haec de bonis conjugii, quae sint, et qualiter coitum excusent, dicendum est*.***
+***De causa matrimonii***
+
+Postquam determinavit Magister de institutione matrimonii et significatione ipsius, hic incipit determinare de causis ejus; et dividitur in partes duas: in prima de causis constituentibus matrimonium; in secunda de causis honestantibus ipsum, distinct. 31, ibi: *post haec de bonis conjugii, quae sint, et qualiter coitum excusent, dicendum est*.  
 
 Prima in duas: in prima determinat de causa efficiente matrimonium; in secunda de causa finali ipsius, circa finem 30 distinct., ibi: *exposito quae sit causa efficiens matrimonii, consequens est ostendere ob quam causam soleat vel debeat contrahi matrimonium*.  
 
@@ -34,7 +36,7 @@ primo, quid sit matrimonium;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod matrimonium non sit in genere conjunctionis. Quia vinculum quo aliqua ligantur, differt a conjunctione ipsa sicut causa ab effectu. Sed matrimonium est vinculum quoddam quo matrimonio juncti ligantur. Ergo non est in genere conjunctionis.***
+Ad primum sic proceditur. Videtur quod matrimonium non sit in genere conjunctionis. Quia vinculum quo aliqua ligantur, differt a conjunctione ipsa sicut causa ab effectu. Sed matrimonium est vinculum quoddam quo matrimonio juncti ligantur. Ergo non est in genere conjunctionis.  
 
 Praeterea, omne sacramentum est sensibile signum. Sed nulla relatio est accidens sensibile. Ergo matrimonium, cum sit sacramentum, non erit in genere relationis; et ita nec in genere conjunctionis.  
 
@@ -46,7 +48,7 @@ Praeterea, unio duorum ad aliquod unum non fit nisi secundum conjunctionem. Hoc 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod matrimonium incongrue nominetur. Quia denominatio debet fieri a digniori. Sed pater dignior est matre. Ergo magis debet denominari a patre quam a matre conjunctio utriusque.***
+Ulterius. Videtur quod matrimonium incongrue nominetur. Quia denominatio debet fieri a digniori. Sed pater dignior est matre. Ergo magis debet denominari a patre quam a matre conjunctio utriusque.  
 
 Praeterea, res debet denominari ab eo quod est de essentia sua; quia ratio quam significat nomen, est definitio, ut dicitur in 4 *Metaph*. Sed nuptiae non sunt de essentia matrimonii. Ergo non debet matrimonium nuptiae appellari.  
 
@@ -56,7 +58,7 @@ Sed in contrarium est communis usus loquentium.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod inconvenienter definiatur in littera. Quia in mariti definitione oportet quod matrimonium ponatur: quia maritus est qui est mulieri matrimonio junctus. Sed ipse ponit matrimonialem conjunctionem in definitione matrimonii. Ergo videtur quod sit circulatio in definitionibus istis.***
+Ulterius. Videtur quod inconvenienter definiatur in littera. Quia in mariti definitione oportet quod matrimonium ponatur: quia maritus est qui est mulieri matrimonio junctus. Sed ipse ponit matrimonialem conjunctionem in definitione matrimonii. Ergo videtur quod sit circulatio in definitionibus istis.  
 
 Praeterea, per matrimonium sicut vir efficitur maritus mulieris, ita mulier uxor viri. Ergo non magis deberet dici conjunctio maritalis quam uxoria.  
 
@@ -66,7 +68,7 @@ Praeterea, inveniuntur aliae definitiones de matrimonio datae. Quia secundum Hug
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod conjunctio adunationem quamdam importat; unde ubicumque est adunatio aliquorum, ibi est aliqua conjunctio. Ea autem quae ordinantur ad aliquod unum, dicuntur in ordine ad aliud adunari; sicut multi homines adunantur ad unam militiam vel negotiationem exequendam, ex qua dicuntur commilitones ad invicem, vel socii negotiationis; et ideo, cum per matrimonium ordinentur aliqui ad unam generationem et educationem prolis, et iterum ad unam vitam domesticam; constat quod in matrimonio est aliqua conjunctio, secundum quam dicitur maritus et uxor; et talis conjunctio ex hoc quod ordinatur ad aliquod unum, est matrimonium; conjunctio autem corporum vel animorum ad matrimonium consequitur.***
+Respondeo dicendum ad primam quaestionem, quod conjunctio adunationem quamdam importat; unde ubicumque est adunatio aliquorum, ibi est aliqua conjunctio. Ea autem quae ordinantur ad aliquod unum, dicuntur in ordine ad aliud adunari; sicut multi homines adunantur ad unam militiam vel negotiationem exequendam, ex qua dicuntur commilitones ad invicem, vel socii negotiationis; et ideo, cum per matrimonium ordinentur aliqui ad unam generationem et educationem prolis, et iterum ad unam vitam domesticam; constat quod in matrimonio est aliqua conjunctio, secundum quam dicitur maritus et uxor; et talis conjunctio ex hoc quod ordinatur ad aliquod unum, est matrimonium; conjunctio autem corporum vel animorum ad matrimonium consequitur.  
 
 Ad primum ergo dicendum, quod matrimonium est vinculum quo ligantur formaliter, non effective; et ideo non oportet quod sit aliud a conjunctione.  
 
@@ -76,7 +78,7 @@ Ad tertium dicendum, quod relatio fundatur in aliquo sicut in causa, ut similitu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in matrimonio est tria considerare. Primo essentiam ipsius, quae est conjunctio; et secundum hoc nominatur *conjugium*. Secundo causam ejus, quae est desponsatio; et secundum hoc vocantur *nuptiae* a nubere, quia in ipsa solemnitate desponsationis qua matrimonium perficitur, capita nubentium velantur. Tertio effectum, qui est proles; et sic dicitur *matrimonium*, ut Augustinus dicit contra Faustum, *ob hoc quod mulier non debet ad aliud nubere, nisi ut sit mater*. Potest etiam dici matrimonium, quasi *matris munium*, idest officium: quia feminis maxime incumbit officium educandae prolis. Vel dicitur matrimonium, quasi *matrem muniens*: quia jam habet quod defendatur et muniatur, scilicet virum. Vel dicitur matrimonium, quasi *matrem monens*, ne virum relinquat, alteri adhaerens. Vel dicitur matrimonium, quasi *materia unius*, quia in eo fit conjunctio ad unam prolem materialiter inducendam, ut dicatur matrimonium a *monos* et *materia*. Vel dicitur matrimonium, ut Isidorus dicit, a *matre* et *nato*; quia per matrimonium efficitur aliqua mater nati.***
+Ad secundam quaestionem dicendum, quod in matrimonio est tria considerare. Primo essentiam ipsius, quae est conjunctio; et secundum hoc nominatur *conjugium*. Secundo causam ejus, quae est desponsatio; et secundum hoc vocantur *nuptiae* a nubere, quia in ipsa solemnitate desponsationis qua matrimonium perficitur, capita nubentium velantur. Tertio effectum, qui est proles; et sic dicitur *matrimonium*, ut Augustinus dicit contra Faustum, *ob hoc quod mulier non debet ad aliud nubere, nisi ut sit mater*. Potest etiam dici matrimonium, quasi *matris munium*, idest officium: quia feminis maxime incumbit officium educandae prolis. Vel dicitur matrimonium, quasi *matrem muniens*: quia jam habet quod defendatur et muniatur, scilicet virum. Vel dicitur matrimonium, quasi *matrem monens*, ne virum relinquat, alteri adhaerens. Vel dicitur matrimonium, quasi *materia unius*, quia in eo fit conjunctio ad unam prolem materialiter inducendam, ut dicatur matrimonium a *monos* et *materia*. Vel dicitur matrimonium, ut Isidorus dicit, a *matre* et *nato*; quia per matrimonium efficitur aliqua mater nati.  
 
 Ad primum ergo dicendum, quod quamvis pater sit dignior quam mater, tamen circa prolem magis officiosa est mater quam pater. Vel ideo quia mulier ad hoc principaliter facta est ut sit homini in adjutorium prolis; non autem vir propter hoc factus est; unde magis pertinet ad rationem matrimonii mater quam pater.  
 
@@ -86,7 +88,7 @@ Ad tertium dicendum, quod aliquando species nominatur ab eo quod est generis, pr
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod, sicut supra dictum est, in matrimonio tria possunt considerari; scilicet causa ipsius, et essentia ejus, et effectus; et secundum hoc tres definitiones inveniuntur de matrimonio datae. Nam definitio Hugonis tangit causam, scilicet consensum, et per se non*non.—nota* PLE. est. Definitio autem in littera posita tangit essentiam matrimonii, scilicet conjunctionem, et addit determinatum subjectum in hoc quod dicit: *inter legitimas personas*. Ponit etiam differentiam contrahentem ad speciem in hoc quod dicit, *maritalis*: quia cum matrimonium sit conjunctio in ordine ad aliquod unum, talis conjunctio in speciem trahitur per illud ad quod ordinatur; et hoc est quod ad maritum pertinet. Ponit etiam virtutem hujus conjunctionis, quia indissolubilis est, in hoc quod dicit: *individuam vitae consuetudinem retinens*.***
+Ad tertiam quaestionem dicendum, quod, sicut supra dictum est, in matrimonio tria possunt considerari; scilicet causa ipsius, et essentia ejus, et effectus; et secundum hoc tres definitiones inveniuntur de matrimonio datae. Nam definitio Hugonis tangit causam, scilicet consensum, et per se non*non.—nota* PLE. est. Definitio autem in littera posita tangit essentiam matrimonii, scilicet conjunctionem, et addit determinatum subjectum in hoc quod dicit: *inter legitimas personas*. Ponit etiam differentiam contrahentem ad speciem in hoc quod dicit, *maritalis*: quia cum matrimonium sit conjunctio in ordine ad aliquod unum, talis conjunctio in speciem trahitur per illud ad quod ordinatur; et hoc est quod ad maritum pertinet. Ponit etiam virtutem hujus conjunctionis, quia indissolubilis est, in hoc quod dicit: *individuam vitae consuetudinem retinens*.  
 
 Sed alia definitio tangit effectum ad quem ordinatur matrimonium; scilicet *vitam communem in rebus domesticis*. Et quia omnis communicatio aliqua lege ordinatur; ideo ponitur ordinativum istius communionis, scilicet jus divinum et humanum: aliae enim communicationes, ut negotiatorum et commilitantium, solo jure humano institutae sunt.  
 
@@ -104,7 +106,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod consensus non sit causa efficiens matrimonii. Sacramenta enim non sunt a voluntate humana, sed ab institutione divina. Sed consensus ad voluntatem pertinet. Ergo non est causa matrimonii, sicut nec aliorum sacramentorum.***
+Ad secundum sic proceditur. Videtur quod consensus non sit causa efficiens matrimonii. Sacramenta enim non sunt a voluntate humana, sed ab institutione divina. Sed consensus ad voluntatem pertinet. Ergo non est causa matrimonii, sicut nec aliorum sacramentorum.  
 
 Praeterea, idem non est causa sui ipsius. Sed matrimonium nihil aliud videtur esse quam consensus: quia consensus ipse significat conjunctionem Christi ad Ecclesiam. Ergo consensus non est causa matrimonii.  
 
@@ -116,7 +118,7 @@ Praeterea, unus non accipit potestatem in eo quod est libere alterius, nisi per 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non oporteat consensum per verba exprimi. Quia sicut per matrimonium redigitur homo in potestatem alterius, ita per votum. Sed votum obligat quo ad Deum, etiam si non exprimatur verbis. Ergo et consensus facit matrimonii obligationem etiam sine expressione verborum.***
+Ulterius. Videtur quod non oporteat consensum per verba exprimi. Quia sicut per matrimonium redigitur homo in potestatem alterius, ita per votum. Sed votum obligat quo ad Deum, etiam si non exprimatur verbis. Ergo et consensus facit matrimonii obligationem etiam sine expressione verborum.  
 
 Praeterea, matrimonium potest esse inter aliquos qui suum consensum sibi mutuo verbis exprimere non possunt: quia vel sunt muti, vel diversarum linguarum. Ergo expressio consensus per verba non requiritur ad matrimonium.  
 
@@ -128,7 +130,7 @@ Praeterea, in matrimonio fit contractus inter virum et mulierem. Sed in quolibet
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod consensus expressus per verba de futuro, matrimonium faciat. Quia sicut se habet praesens ad praesens, ita futurum ad futurum. Sed consensus per verba de praesenti expressus facit matrimonium in praesenti. Ergo consensus expressus per verba de futuro facit matrimonium in futuro.***
+Ulterius. Videtur quod consensus expressus per verba de futuro, matrimonium faciat. Quia sicut se habet praesens ad praesens, ita futurum ad futurum. Sed consensus per verba de praesenti expressus facit matrimonium in praesenti. Ergo consensus expressus per verba de futuro facit matrimonium in futuro.  
 
 Praeterea, sicut in matrimonio fit quaedam obligatio per verba exprimentia consensum, ita et in aliis civilibus contractibus. Sed in aliis contractibus non differt utrum per verba de praesenti vel de futuro obligatio fiat. Ergo nec in matrimonio differt.  
 
@@ -140,7 +142,7 @@ Praeterea, qui promittit se aliquid tractaturum, nondum facit illud. Sed qui con
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod consensus expressio per verba, etiam si desit interior consensus, facit matrimonium. Quia fraus et dolus nemini debet patrocinari, secundum jura. Sed ille qui verbis consensum exprimit quem corde non habet, dolum committit. Ergo non debet sibi patrocinari, ut ab obligatione matrimonii liber reddatur.***
+Ulterius. Videtur quod consensus expressio per verba, etiam si desit interior consensus, facit matrimonium. Quia fraus et dolus nemini debet patrocinari, secundum jura. Sed ille qui verbis consensum exprimit quem corde non habet, dolum committit. Ergo non debet sibi patrocinari, ut ab obligatione matrimonii liber reddatur.  
 
 Praeterea, assensus mentalis alterius non potest esse alicui notus, nisi quatenus per verba exprimitur. Si ergo expressio verborum non sufficit, sed consensus interior requiritur in utroque conjugum; tunc neuter poterit scire de altero an sit ei verus conjux; et ita erit fornicator quandocumque matrimonio utetur.  
 
@@ -152,7 +154,7 @@ Praeterea, intentio requiritur in omnibus sacramentis. Sed ille qui corde non co
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in omnibus sacramentis est aliqua spiritualis operatio mediante materiali operatione quae eam significat; sicut per ablutionem corporalem in baptismo fit ablutio interior spiritualis; unde, cum in matrimonio sit quaedam spiritualis conjunctio, inquantum matrimonium est sacramentum, et aliqua materialis, secundum quod est in officium naturae et civilis vitae; oportet quod mediante materiali fiat spiritualis virtute divina; unde, cum conjunctiones materialium contractuum fiant per mutuum consensum, oportet quod hoc modo etiam fiat matrimonialis conjunctio.***
+Respondeo dicendum ad primam quaestionem, quod in omnibus sacramentis est aliqua spiritualis operatio mediante materiali operatione quae eam significat; sicut per ablutionem corporalem in baptismo fit ablutio interior spiritualis; unde, cum in matrimonio sit quaedam spiritualis conjunctio, inquantum matrimonium est sacramentum, et aliqua materialis, secundum quod est in officium naturae et civilis vitae; oportet quod mediante materiali fiat spiritualis virtute divina; unde, cum conjunctiones materialium contractuum fiant per mutuum consensum, oportet quod hoc modo etiam fiat matrimonialis conjunctio.  
 
 Ad primum ergo dicendum, quod sacramentorum prima causa est divina virtus, quae in eis operatur salutem; sed causae secundae instrumentales sunt materiales operationes ex divina institutione efficaciam habentes; et sic consensus in matrimonio est causa.  
 
@@ -162,7 +164,7 @@ Ad tertium dicendum, quod sicut matrimonium est unum ex parte ejus in quod fit c
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod, sicut ex dictis patet, conjunctio matrimonialis fit ad modum obligationis in contractibus materialibus. Et quia materiales contractus non possunt fieri nisi sibi invicem voluntatem suam verbis promant qui contrahunt; ideo etiam oportet quod consensus matrimonium faciens verbis exprimatur, ut expressio verborum se habeat ad matrimonium sicut ablutio exterior ad baptismum.***
+Ad secundam quaestionem dicendum, quod, sicut ex dictis patet, conjunctio matrimonialis fit ad modum obligationis in contractibus materialibus. Et quia materiales contractus non possunt fieri nisi sibi invicem voluntatem suam verbis promant qui contrahunt; ideo etiam oportet quod consensus matrimonium faciens verbis exprimatur, ut expressio verborum se habeat ad matrimonium sicut ablutio exterior ad baptismum.  
 
 Ad primum ergo dicendum, quod in voto non est aliqua sacramentalis obligatio, sed spiritualis tantum; et ideo non oportet quod fiat ad modum materialium contractuum ad hoc quod obliget, sicut est de matrimonio.  
 
@@ -172,7 +174,7 @@ Ad tertium dicendum, quod, sicut dicit Hugo de sancto Vict., eos qui conjunguntu
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod causae sacramentales significando efficiunt, unde efficiunt quod significant: et quia cum aliquis consensum suum per verba de futuro exprimit, non significat se facere matrimonium, sed promittit se facturum; ideo talis expressio consensus non facit matrimonium, sed dispositionem*dispositionem.—sponsionem* PLE. ejus, quae *sponsalia* nominantur.***
+Ad tertiam quaestionem dicendum, quod causae sacramentales significando efficiunt, unde efficiunt quod significant: et quia cum aliquis consensum suum per verba de futuro exprimit, non significat se facere matrimonium, sed promittit se facturum; ideo talis expressio consensus non facit matrimonium, sed dispositionem*dispositionem.—sponsionem* PLE. ejus, quae *sponsalia* nominantur.  
 
 Ad primum ergo dicendum, quod consensus exprimitur per verba de praesenti, et verba sunt praesentia, et in praesens consentitur pro eodem tempore; sed quando consensus fit per verba de futuro, verba sunt praesentia, sed consentitur in futurum; et ideo non pro eodem tempore; et propter hoc non est simile.  
 
@@ -182,7 +184,7 @@ Ad tertium dicendum, quod in voto professionis actus spiritualis matrimonii per 
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod sicut se habet ablutio exterior ad baptismum, ita se habet expressio verborum ad hoc sacramentum, ut dictum est. Unde sicut si aliquis ablutionem exteriorem reciperet non intendens accipere sacramentum, sed ludum et dolum facere, non esset baptizatus; ita expressio verborum sine interiori consensu matrimonium non facit.***
+Ad quartam quaestionem dicendum, quod sicut se habet ablutio exterior ad baptismum, ita se habet expressio verborum ad hoc sacramentum, ut dictum est. Unde sicut si aliquis ablutionem exteriorem reciperet non intendens accipere sacramentum, sed ludum et dolum facere, non esset baptizatus; ita expressio verborum sine interiori consensu matrimonium non facit.  
 
 Ad primum ergo dicendum, quod ibi sunt duo; scilicet defectus consensus, qui sibi patrocinatur in foro conscientiae, ut non astringatur vinculo matrimonii, quamvis non in foro Ecclesiae, in quo judicatur secundum allegata; et dolus verborum; et hic non patrocinatur nec in foro poenitentiae, nec in foro Ecclesiae, quia in utroque pro hoc punitur.  
 
@@ -196,7 +198,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod alter conjugum, etiam post carnalem copulam, possit, altero invito, ad religionem transire. Quia lex divina magis debet spiritualibus favere quam lex humana. Sed lex humana hoc permisit. Ergo multo fortius lex divina permittere debuit.***
+Ad tertium sic proceditur. Videtur quod alter conjugum, etiam post carnalem copulam, possit, altero invito, ad religionem transire. Quia lex divina magis debet spiritualibus favere quam lex humana. Sed lex humana hoc permisit. Ergo multo fortius lex divina permittere debuit.  
 
 Praeterea, minus bonum non impedit majus bonum. Sed matrimonii status est minus bonum quam status religionis, ut patet 1 Corinth. 7. Ergo per matrimonium non debet homo impediri quin possit ad religionem transire.  
 
@@ -208,7 +210,7 @@ Praeterea, nullus potest facere licite quod est in praejudicium alterius, sine e
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod nec etiam ante carnalem copulam. Indivisibilitas enim matrimonii pertinet ad matrimonii sacramentum, inquantum, scilicet, significat perpetuam conjunctionem Christi ad Ecclesiam. Sed ante carnalem copulam post consensum per verba de praesenti expressum, est verum matrimonii sacramentum. Ergo non potest fieri divisio per hoc quod alter ad religionem intrat.***
+Ulterius. Videtur quod nec etiam ante carnalem copulam. Indivisibilitas enim matrimonii pertinet ad matrimonii sacramentum, inquantum, scilicet, significat perpetuam conjunctionem Christi ad Ecclesiam. Sed ante carnalem copulam post consensum per verba de praesenti expressum, est verum matrimonii sacramentum. Ergo non potest fieri divisio per hoc quod alter ad religionem intrat.  
 
 Praeterea, in ipso consensu per verba de praesenti expresso unus conjugum in alterum potestatem sui corporis transfert. Ergo statim potest exigere debitum, et alter tenetur reddere; et ita nec potest unus invito altero ad religionem transire.  
 
@@ -218,7 +220,7 @@ Sed contra est quod, secundum Hieronymum, dominus Joannem vocavit de nuptiis.
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod mulier non possit nubere alteri, viro ante carnalem copulam religionem ingresso. Quia illud quod cum matrimonio stare potest, non solvit matrimoniale vinculum. Sed adhuc manet matrimoniale vinculum inter eos qui pari voto religionem intrant. Ergo ex hoc quod unus intrat religionem, alter non absolvitur a vinculo matrimoniali. Sed quamdiu manet vinculum matrimoniale ad unum, non potest nubere alteri. Ergo, etc.***
+Ulterius. Videtur quod mulier non possit nubere alteri, viro ante carnalem copulam religionem ingresso. Quia illud quod cum matrimonio stare potest, non solvit matrimoniale vinculum. Sed adhuc manet matrimoniale vinculum inter eos qui pari voto religionem intrant. Ergo ex hoc quod unus intrat religionem, alter non absolvitur a vinculo matrimoniali. Sed quamdiu manet vinculum matrimoniale ad unum, non potest nubere alteri. Ergo, etc.  
 
 Praeterea, vir post ingressum religionis potest ante professionem redire ad saeculum. Si ergo mulier posset alteri nubere, viro intrante religionem, et ipse posset aliam ducere rediens ad saeculum; quod est absurdum.  
 
@@ -228,7 +230,7 @@ Sed contra, nullus potest alterum obligare ad ea quae sunt perfectionis. Sed con
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod nullus potest facere oblationem Deo de alieno; unde cum per matrimonium consummatum jam sit corpus viri factum uxoris, non potest absque consensu ipsius Deo ipsum offerre per continentiae votum.***
+Respondeo dicendum ad primam quaestionem, quod nullus potest facere oblationem Deo de alieno; unde cum per matrimonium consummatum jam sit corpus viri factum uxoris, non potest absque consensu ipsius Deo ipsum offerre per continentiae votum.  
 
 Ad primum ergo dicendum, quod lex humana considerabat matrimonium solum inquantum est in officium; sed lex divina secundum quod est sacramentum, ex quo habet omnimodam indivisibilitatem; et ideo non est simile.  
 
@@ -238,7 +240,7 @@ Ad tertium dicendum, quod in qualibet religione contrahitur matrimonium ad unam 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ante carnalem copulam est inter conjuges tantum spirituale vinculum, sed post est inter eos etiam vinculum carnale; et ideo sicut post carnalem copulam matrimonium solvitur per mortem carnalem, ita per ingressum religionis ante carnalem copulam solvitur: quia religio est mors quaedam spiritualis, qua aliquis saeculo moriens vivit Deo.***
+Ad secundam quaestionem dicendum, quod ante carnalem copulam est inter conjuges tantum spirituale vinculum, sed post est inter eos etiam vinculum carnale; et ideo sicut post carnalem copulam matrimonium solvitur per mortem carnalem, ita per ingressum religionis ante carnalem copulam solvitur: quia religio est mors quaedam spiritualis, qua aliquis saeculo moriens vivit Deo.  
 
 Ad primum ergo dicendum, quod matrimonium ante carnalem copulam significat illam conjunctionem quae est Christi ad animam per gratiam; quae quidem solvitur per dispositionem spiritualem contrariam, scilicet peccatum; sed per carnalem copulam significat conjunctionem ad Ecclesiam quantum ad assumptionem humanae naturae in unitatem personae, quae omnino est indivisibilis.  
 
@@ -248,7 +250,7 @@ Ad tertium dicendum, quod conjunctio matrimonialis ante carnalem copulam est qui
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod sicut corporalis mors viri hoc modo vinculum matrimoniale solvit ut mulier nubat cui vult secundum apostoli sententiam, ita etiam post mortem spiritualem viri per religionis ingressum poterit cui voluerit nubere.***
+Ad tertiam quaestionem dicendum, quod sicut corporalis mors viri hoc modo vinculum matrimoniale solvit ut mulier nubat cui vult secundum apostoli sententiam, ita etiam post mortem spiritualem viri per religionis ingressum poterit cui voluerit nubere.  
 
 Ad primum ergo dicendum, quod quando uterque pari voto continentiam vovet, tunc neuter conjugali vinculo abrenuntiat; et ideo adhuc manet; sed quando unus tantum vovet, tunc quantum est in se, abrenuntiat vinculo conjugali; et ideo alter absolvitur a vinculo illo.  
 
@@ -270,7 +272,7 @@ primo, quid sint sponsalia;
 
 ***Quid sint sponsalia***
 
-***Ad primum sic proceditur. Videtur quod sponsalia non convenienter dicantur futurarum nuptiarum promissio, ut habetur ex verbis Nicolai Papae. Quia, sicut dicit Isidorus, est aliquis sponsus non quia promittit, sed quia spondet, et sponsores dat. Sed a sponsalibus dicitur aliquis sponsus. Ergo male dicitur promissio.***
+Ad primum sic proceditur. Videtur quod sponsalia non convenienter dicantur futurarum nuptiarum promissio, ut habetur ex verbis Nicolai Papae. Quia, sicut dicit Isidorus, est aliquis sponsus non quia promittit, sed quia spondet, et sponsores dat. Sed a sponsalibus dicitur aliquis sponsus. Ergo male dicitur promissio.  
 
 Praeterea, quicumque promittit aliquid, debet compelli ad solvendum. Sed illi qui sponsalia contrahunt, non compelluntur per Ecclesiam ad matrimonium contrahendum. Ergo sponsalia non sunt promissio.  
 
@@ -302,7 +304,7 @@ Articulus 2
 
 ***Qui possunt sponsalia contrahere***
 
-***Ad secundum sic proceditur. Videtur quod tempus septennii non sit competenter assignatum sponsalibus contrahendis. Contractus enim qui per alios fieri potest, non requirit discretionem in illis ad quos pertinet. Sed sponsalia fieri possunt per parentes, utroque illorum ignorante quorum sunt sponsalia. Ergo ita possunt fieri ante septennium sicut post.***
+Ad secundum sic proceditur. Videtur quod tempus septennii non sit competenter assignatum sponsalibus contrahendis. Contractus enim qui per alios fieri potest, non requirit discretionem in illis ad quos pertinet. Sed sponsalia fieri possunt per parentes, utroque illorum ignorante quorum sunt sponsalia. Ergo ita possunt fieri ante septennium sicut post.  
 
 Praeterea, sicut ad contractum sponsalium requiritur aliquis rationis usus, ita ad consentiendum in peccatum mortale. Sed sicut Gregorius narrat in 4 Dialog., quidam puer propter peccatum blasphemiae a Diabolo extinctus est. Ergo etiam ante septennium possunt sponsalia contrahi.  
 
@@ -338,7 +340,7 @@ Articulus 3
 
 ***Utrum sponsalia dirimi possint***
 
-***Ad tertium sic proceditur. Videtur quod sponsalia dirimi non possunt, altero religionem intrante. Quia de pecunia quam alicui promisi, non possum alteri licite obligationem facere. Sed ille qui sponsalia contrahit, corpus suum promittit mulieri. Ergo non potest se offerre Deo ulterius in religione.***
+Ad tertium sic proceditur. Videtur quod sponsalia dirimi non possunt, altero religionem intrante. Quia de pecunia quam alicui promisi, non possum alteri licite obligationem facere. Sed ille qui sponsalia contrahit, corpus suum promittit mulieri. Ergo non potest se offerre Deo ulterius in religione.  
 
 Item, videtur quod nec debeant dirimi, quando alter conjugum ad longinquam regionem se transfert. Quia in dubiis semper tutior pars eligenda est. Sed tutius esset quod eum expectaret. Ergo tenetur eum expectare.  
 
@@ -388,7 +390,7 @@ primo, utrum bigamiae sit irregularitas adjuncta;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod illi bigamiae quae est ex hoc quod aliquis duas uxores successive habuit, non sit irregularitas annexa. Quia multitudo et unitas consequuntur ens. Ergo ens et non ens non faciunt multitudinem aliquam. Sed ille qui habet successive duas uxores, quando una est in esse, alia non est in esse. Ergo ex hoc non efficitur vir non unius uxoris, qui secundum apostolum ab episcopatu prohibetur.***
+Ad primum sic proceditur. Videtur quod illi bigamiae quae est ex hoc quod aliquis duas uxores successive habuit, non sit irregularitas annexa. Quia multitudo et unitas consequuntur ens. Ergo ens et non ens non faciunt multitudinem aliquam. Sed ille qui habet successive duas uxores, quando una est in esse, alia non est in esse. Ergo ex hoc non efficitur vir non unius uxoris, qui secundum apostolum ab episcopatu prohibetur.  
 
 Praeterea, majus signum incontinentiae apparet in eo qui plures fornicarie cognoscit quam qui plures uxores successive habet. Sed ex primo non efficitur aliquis irregularis. Ergo nec ex secundo.  
 
@@ -396,7 +398,7 @@ Praeterea, si bigamia irregularitatem causat; aut hoc est ratione sacramenti, au
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod irregularitas non sit annexa bigamiae quae contingit ex hoc quod homo habet duas uxores simul, vel successive unam de jure, et aliam de facto. Quia ubi nullum est sacramentum, non potest esse defectus sacramenti. Sed quando aliquis contrahit cum aliqua de facto et non de jure, non est ibi aliquod sacramentum: quia talis conjunctio non significat conjunctionem Christi ad Ecclesiam. Ergo cum irregularitas non consequatur bigamiam nisi propter defectum sacramenti, videtur quod talem bigamiam irregularitas non consequatur.***
+Ulterius. Videtur quod irregularitas non sit annexa bigamiae quae contingit ex hoc quod homo habet duas uxores simul, vel successive unam de jure, et aliam de facto. Quia ubi nullum est sacramentum, non potest esse defectus sacramenti. Sed quando aliquis contrahit cum aliqua de facto et non de jure, non est ibi aliquod sacramentum: quia talis conjunctio non significat conjunctionem Christi ad Ecclesiam. Ergo cum irregularitas non consequatur bigamiam nisi propter defectum sacramenti, videtur quod talem bigamiam irregularitas non consequatur.  
 
 Praeterea, aliquis accedens ad illam cum qua contrahit de facto et non de jure, committit fornicationem, si non habeat aliam uxorem legitimam; vel adulterium, si habeat aliam. Sed dividere carnem suam in plures per fornicationem vel adulterium non causat irregularitatem. Ergo nec praedictus bigamiae modus.  
 
@@ -404,7 +406,7 @@ Praeterea, contingit quod aliquis antequam cognoscat carnaliter illam cum qua de
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod non contrahatur irregularitas ex hoc quod aliquis non virginem ducit uxorem. Quia plus impeditur aliquis defectu proprio quam alieno. Sed si ipse contrahens non sit virgo, non fit irregularis. Ergo multo minus si uxor ejus non sit virgo.***
+Ulterius. Videtur quod non contrahatur irregularitas ex hoc quod aliquis non virginem ducit uxorem. Quia plus impeditur aliquis defectu proprio quam alieno. Sed si ipse contrahens non sit virgo, non fit irregularis. Ergo multo minus si uxor ejus non sit virgo.  
 
 Praeterea, potest esse quod aliquis defloravit aliquam, et postea ducat eam in uxorem. Talis non videtur fieri irregularis; quia non dividit carnem suam in plures, nec etiam uxor ejus; et tamen ducit corruptam in uxorem. Ergo talis modus bigamiae irregularitatem non causat.  
 
@@ -416,7 +418,7 @@ Sed contra est quod Gregorius dicit: *praecipimus ne unquam illicitas ordination
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod aliquis per sacramentum ordinis minister sacramentorum constituitur; et ille qui aliis sacramenta ministrare debet, nullum defectum in sacramentis pati debet. Defectus autem in sacramento est, quando sacramenti significatio integra non invenitur. Sacramentum autem matrimonii significat conjunctionem Christi ad Ecclesiam, quae est unius ad unam; et ideo requiritur ad perfectam significationem sacramenti ut vir sit tantum unius vir, et uxor tantum unius uxor; et ideo bigamia, quae hoc tollit, irregularitatem inducit. Et sunt quatuor modi bigamiae. Primus est, cum quis habet plures uxores de jure successive. Secundus, cum simul habet plures, unam de jure, aliam de facto. Tertius, cum plures habet successive, unam de jure, aliam de facto. Quartus, quando viduam ducit in uxorem. Et omnibus his est irregularitas adjuncta.***
+Respondeo dicendum ad primam quaestionem, quod aliquis per sacramentum ordinis minister sacramentorum constituitur; et ille qui aliis sacramenta ministrare debet, nullum defectum in sacramentis pati debet. Defectus autem in sacramento est, quando sacramenti significatio integra non invenitur. Sacramentum autem matrimonii significat conjunctionem Christi ad Ecclesiam, quae est unius ad unam; et ideo requiritur ad perfectam significationem sacramenti ut vir sit tantum unius vir, et uxor tantum unius uxor; et ideo bigamia, quae hoc tollit, irregularitatem inducit. Et sunt quatuor modi bigamiae. Primus est, cum quis habet plures uxores de jure successive. Secundus, cum simul habet plures, unam de jure, aliam de facto. Tertius, cum plures habet successive, unam de jure, aliam de facto. Quartus, quando viduam ducit in uxorem. Et omnibus his est irregularitas adjuncta.  
 
 Alia autem causa consequens assignatur: quia in illis qui accipiunt sacramentum ordinis, maxima spiritualitas debet apparere: tum quia spiritualia ministrant, scilicet sacramenta: tum quia spiritualia docent, et in spiritualibus occupari debent. Unde cum concupiscentia maxime spiritualitati repugnet, per quam totus homo caro efficitur; non debet aliquod signum concupiscentiae permanentis in eis apparere, quod quidem in bigamis apparet, qui una uxore contenti esse nolunt. Tamen prima ratio est melior.  
 
@@ -428,7 +430,7 @@ Ad tertium dicendum, quod sicut dictum est, bigamia causat irregularitatem, inqu
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in secundis duobus modis bigamiae contrahitur irregularitas: quia quamvis in altero non sit sacramentum, est tamen quaedam sacramenti similitudo; unde isti duo modi sunt secundarii, et primus est principalis in irregularitate causanda.***
+Ad secundam quaestionem dicendum, quod in secundis duobus modis bigamiae contrahitur irregularitas: quia quamvis in altero non sit sacramentum, est tamen quaedam sacramenti similitudo; unde isti duo modi sunt secundarii, et primus est principalis in irregularitate causanda.  
 
 Ad primum ergo dicendum, quod quamvis ibi non sit sacramentum, est tamen ibi aliqua similitudo sacramenti, quae non est in fornicario vel in adulterino concubitu; et ideo non est simile.  
 
@@ -438,7 +440,7 @@ Ad tertium dicendum, quod in tali casu non reputatur bigamus, quia primum matrim
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in conjunctione Christi et Ecclesiae unitas ex utraque parte invenitur; et ideo, sive divisio carnis inveniatur ex parte viri, sive ex parte uxoris, est defectus sacramenti, sed tamen diversimode: quia ex parte viri requiritur quod aliam non duxerit in uxorem, non quod sit virgo; sed ex parte uxoris requiritur etiam quod sit virgo; cujus ratio a decretistis assignatur, quia episcopus significat Ecclesiam militantem, cujus curam gerit, in qua sunt multae corruptiones; sed sponsa significat Christum, qui virgo fuit; et ideo ex parte sponsae requiritur virginitas, sed non ex parte sponsi, ad hoc quod aliquis episcopus fieri possit. Sed haec ratio est expresse contra apostolum, Ephes. 5, 2, 5: *viri diligite uxores vestras, sicut Christus Ecclesiam*; ex quo apparet quod uxor significat Ecclesiam, et sponsus Christum; et iterum, *quia vir est caput mulieris, sicut Christus Ecclesiae*.***
+Ad tertiam quaestionem dicendum, quod in conjunctione Christi et Ecclesiae unitas ex utraque parte invenitur; et ideo, sive divisio carnis inveniatur ex parte viri, sive ex parte uxoris, est defectus sacramenti, sed tamen diversimode: quia ex parte viri requiritur quod aliam non duxerit in uxorem, non quod sit virgo; sed ex parte uxoris requiritur etiam quod sit virgo; cujus ratio a decretistis assignatur, quia episcopus significat Ecclesiam militantem, cujus curam gerit, in qua sunt multae corruptiones; sed sponsa significat Christum, qui virgo fuit; et ideo ex parte sponsae requiritur virginitas, sed non ex parte sponsi, ad hoc quod aliquis episcopus fieri possit. Sed haec ratio est expresse contra apostolum, Ephes. 5, 2, 5: *viri diligite uxores vestras, sicut Christus Ecclesiam*; ex quo apparet quod uxor significat Ecclesiam, et sponsus Christum; et iterum, *quia vir est caput mulieris, sicut Christus Ecclesiae*.  
 
 Et ideo alii dicunt, quod per sponsum significatur Christus, per sponsam significatur Ecclesia triumphans, in qua non est aliqua macula. Christus autem primo habuit synagogam quasi concubinam; et sic non tollitur aliquid de perfectione significationis sacramenti, si sponsus prius habuit concubinam. Sed hoc est valde absurdum: quia sicut est una fides antiquorum et modernorum, ita una Ecclesia; unde illi qui tempore synagogae Deo serviebant, ad unitatem Ecclesiae, in qua Deo servimus, pertinebant. Et praeterea hoc est expresse contra id quod habetur Hierem. 3, Ezech. 16, Oseae 2, 2, ubi expresse fit mentio de desponsatione synagogae; unde non fuit sicut concubina, sed sicut uxor. Et praeterea, secundum hoc fornicatio esset sacramentum illius conjunctionis, quod est absurdum; et ideo gentilitas priusquam a Christo desponsaretur in fidem Ecclesiae, corrupta fuit a Diabolo per idolatriam.  
 
@@ -456,7 +458,7 @@ Articulus 2
 
 ***Utrum solvatur per baptismum***
 
-***Ad secundum sic proceditur. Videtur quod bigamia per baptismum solvatur. Dicit enim Hieronymus super Epist. ad Titum, quod si quis ante baptismum plures uxores habuit, vel unam ante, et aliam post, non est bigamus. Ergo bigamia per baptismum solvitur.***
+Ad secundum sic proceditur. Videtur quod bigamia per baptismum solvatur. Dicit enim Hieronymus super Epist. ad Titum, quod si quis ante baptismum plures uxores habuit, vel unam ante, et aliam post, non est bigamus. Ergo bigamia per baptismum solvitur.  
 
 Praeterea, qui facit quod majus est, facit quod minus est. Sed baptismus tollit omne peccatum, quod est gravius quam irregularitas. Ergo tollit bigamiae irregularitatem.  
 
@@ -486,7 +488,7 @@ Articulus 3
 
 ***Utrum possit dispensari in tali irregularitate***
 
-***Ad tertium sic proceditur. Videtur quod cum bigamo non liceat dispensare. Quia Extra. de bigamis dicitur: *cum clericis, qui, inquantum in ipsis fuit, secundas mulieres sibi conjunxerunt matrimonialiter, tamquam cum bigamis, non licet dispensare*.***
+Ad tertium sic proceditur. Videtur quod cum bigamo non liceat dispensare. Quia Extra. de bigamis dicitur: *cum clericis, qui, inquantum in ipsis fuit, secundas mulieres sibi conjunxerunt matrimonialiter, tamquam cum bigamis, non licet dispensare*.  
 
 Praeterea, contra jus divinum non licet dispensare. Sed omnia quae in canone dicuntur, ad jus divinum pertinent. Cum ergo apostolus in Scriptura canonica dicat: *oportet episcopum non nisi unius uxoris virum esse*; videtur quod non possit in hoc dispensari.  
 
@@ -510,7 +512,7 @@ Ad quartum dicendum, quod in particularibus non potest inveniri ratio quae omnib
 
 Expositio textus  
 
-****Si autem verbis exprimant quod tamen corde non volunt, si non sit coactio ibi vel dolus; obligatio illa verborum . . . matrimonium facit*. Et loquitur hic Magister quantum ad forum exterius Ecclesiae, in quo secundum ea quae apparent, judicatur; et accipitur dolus non latens in corde, sed aliquo modo per signa exteriora expressus, ut cum se alio nomine vocat. Sed quantum ad forum conscientiae non est verum quod Magister hic dicit.***
+*Si autem verbis exprimant quod tamen corde non volunt, si non sit coactio ibi vel dolus; obligatio illa verborum . . . matrimonium facit*. Et loquitur hic Magister quantum ad forum exterius Ecclesiae, in quo secundum ea quae apparent, judicatur; et accipitur dolus non latens in corde, sed aliquo modo per signa exteriora expressus, ut cum se alio nomine vocat. Sed quantum ad forum conscientiae non est verum quod Magister hic dicit.  
 
 *Eremi solitudinem elegit*, etc. Eremitae etiam quamvis obedientiam non promittant, tamen votum continentiae habent annexum, et ex more secundum determinatum tempus eorum votum solemnizatur.  
 

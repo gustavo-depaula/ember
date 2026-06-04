@@ -1,5 +1,7 @@
 # Chapter 56
 
+^56:1^ Hæc dicit Dominus: custodite judicium et facite justitiam, quia juxta est salus mea ut veniat et justitia mea ut reveletur.  
+
 > ^56:2^ Beatus vir qui facit hoc et filius hominis qui apprehendet istud, custodiens sabbatum ne polluat illud, custodiens manus suas ne faciat omne malum.
 
 > ^56:3^ Et non dicat filius advenæ qui adhæret Domino dicens: separatione dividet me Dominus a populo suo; et non dicat eunuchus: ecce ego lignum aridum.

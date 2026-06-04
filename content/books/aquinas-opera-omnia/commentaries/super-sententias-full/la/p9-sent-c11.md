@@ -1,6 +1,6 @@
 # D. 36 - The impediment of slavery
 
-***Postquam determinavit Magister de impotentia coeundi, per quam impeditur actus matrimonii, ne de facto omnino fieri possit; hic determinat de impedimento conditionis servilis, per quam impeditur actus matrimonii ne libere fiat; et dividitur in partes duas: in prima determinat de conditione servili; in secunda epilogat, continuans praecedentia ad sequentia, ibi: *duo illa executi sumus*, etc.***
+Postquam determinavit Magister de impotentia coeundi, per quam impeditur actus matrimonii, ne de facto omnino fieri possit; hic determinat de impedimento conditionis servilis, per quam impeditur actus matrimonii ne libere fiat; et dividitur in partes duas: in prima determinat de conditione servili; in secunda epilogat, continuans praecedentia ad sequentia, ibi: *duo illa executi sumus*, etc.  
 
 Prima in duas: in prima determinat de impedimento conditionis servilis; in secunda de impedimento ex defectu aetatis, quia talis non differt a servo, quamdiu sub tutoribus est, Gal. 4, ibi: *hic etiam sciendum, quod pueri ante quatuordecim annos, et puellae ante duodecim annos secundum leges matrimonium inire nequeunt*.  
 
@@ -24,7 +24,7 @@ primo, utrum conditio servitutis matrimonium impediat;
 
 ***Utrum conditio servitutis matrimonium impediat***
 
-***Ad primum sic proceditur. Videtur quod conditio servitutis non impediat matrimonium. Nihil enim impedit matrimonium nisi quod habet aliquam contrarietatem ad ipsum. Sed servitus non habet aliquam contrarietatem ad matrimonium; alias inter servos non possent esse conjugia. Ergo servitus non impedit matrimonium.***
+Ad primum sic proceditur. Videtur quod conditio servitutis non impediat matrimonium. Nihil enim impedit matrimonium nisi quod habet aliquam contrarietatem ad ipsum. Sed servitus non habet aliquam contrarietatem ad matrimonium; alias inter servos non possent esse conjugia. Ergo servitus non impedit matrimonium.  
 
 Praeterea, illud quod est contra naturam, non potest impedire illud quod est secundum naturam. Sed servitus est contra naturam; quia, sicut dicit Gregorius, contra naturam est hominem homini velle dominari; quod etiam patet ex hoc quod homini dictum est, Gen. 1, 26: *ut praesit piscibus maris* etc., non autem ut praesit homini. Ergo non potest impedire matrimonium, quod est naturale.  
 
@@ -58,7 +58,7 @@ Articulus 2
 
 ***Utrum possit servus sine consensu domini matrimonium contrahere***
 
-***Ad secundum sic proceditur. Videtur quod servus matrimonium contrahere non possit sine consensu domini. Nullus enim potest dare alicui quod est alterius, sine consensu ipsius. Sed servus est res domini. Ergo non potest contrahendo matrimonium dare potestatem corporis sui uxori sine consensu domini.***
+Ad secundum sic proceditur. Videtur quod servus matrimonium contrahere non possit sine consensu domini. Nullus enim potest dare alicui quod est alterius, sine consensu ipsius. Sed servus est res domini. Ergo non potest contrahendo matrimonium dare potestatem corporis sui uxori sine consensu domini.  
 
 Praeterea, servus tenetur domino suo obedire. Sed dominus potest ei praecipere quod in matrimonium non consentiat. Ergo sine consensu ejus matrimonium non potest contrahere.  
 
@@ -88,7 +88,7 @@ Articulus 3
 
 ***Utrum servitus matrimonio possit supervenire***
 
-***Ad tertium sic proceditur. Videtur quod servitus matrimonio non possit supervenire, ut vir se alteri vendat in servum. Quia quod in fraudem et praejudicium alterius factum est, ratum esse non debet. Sed qui se in servum vendit, facit hoc quandoque in fraudem matrimonii, et*et.—et ad minus* PLE. ad detrimentum uxoris. Ergo non debet valere talis venditio ad servitutem inducendam.***
+Ad tertium sic proceditur. Videtur quod servitus matrimonio non possit supervenire, ut vir se alteri vendat in servum. Quia quod in fraudem et praejudicium alterius factum est, ratum esse non debet. Sed qui se in servum vendit, facit hoc quandoque in fraudem matrimonii, et*et.—et ad minus* PLE. ad detrimentum uxoris. Ergo non debet valere talis venditio ad servitutem inducendam.  
 
 Praeterea, duo favorabilia praejudicant uni non favorabili. Sed matrimonium et libertas sunt favorabilia, et repugnant servituti, quae non est favorabilis in jure. Ergo servitus talis debet penitus annullari.  
 
@@ -114,7 +114,7 @@ Articulus 4
 
 ***Utrum proles sequatur matrem***
 
-***Ad quartum sic proceditur. Videtur quod filii debeant sequi conditionem patris. Quia denominatio fit a digniori. Sed pater in generatione est dignior quam mater. Ergo, etc.***
+Ad quartum sic proceditur. Videtur quod filii debeant sequi conditionem patris. Quia denominatio fit a digniori. Sed pater in generatione est dignior quam mater. Ergo, etc.  
 
 Praeterea, esse rei magis dependet a forma quam a materia. Sed in generatione *pater dat formam, mater materiam*, ut dicitur in 16 *de Animalibus*. Ergo magis debet sequi proles patrem quam matrem.  
 
@@ -142,7 +142,7 @@ Articulus 5
 
 ***De defectu aetatis, utrum impediat matrimonium***
 
-***Ad quintum sic proceditur. Videtur quod defectus aetatis non impediat matrimonium. Secundum enim leges pueri accipiunt tutorem usque ad vigintiquinque annos. Ergo videtur quod usque ad tempus istud non sit confirmata ratio ad consensum; et ita videtur quod illud debeat esse tempus statutum ad matrimonia ineunda. Sed ante tempus illud matrimonium potest contrahi. Ergo defectus statutae aetatis non impedit matrimonium.***
+Ad quintum sic proceditur. Videtur quod defectus aetatis non impediat matrimonium. Secundum enim leges pueri accipiunt tutorem usque ad vigintiquinque annos. Ergo videtur quod usque ad tempus istud non sit confirmata ratio ad consensum; et ita videtur quod illud debeat esse tempus statutum ad matrimonia ineunda. Sed ante tempus illud matrimonium potest contrahi. Ergo defectus statutae aetatis non impedit matrimonium.  
 
 Praeterea, sicut vinculum religionis est perpetuum, ita vinculum matrimonii. Sed ante decimumoctavum annum non possunt facere professionem, secundum novam institutionem. Ergo nec matrimonium contrahere si defectus aetatis matrimonium impediret.  
 
@@ -170,4 +170,4 @@ Ad quintum dicendum, quod sicut impedimentum quod est ex furia, reducitur ad imp
 
 Expositio textus  
 
-****Quod si ipsa fuerit in servitute detenta; si eam a servitute redimere potest, faciat; si non potest, si voluerit, aliam accipiat*. Sciendum, quod si antequam sit detecta servitus uxoris, de qua dubitatur, petat debitum; si levi suspicione moveatur vir, debet reddere debitum: nec ex hoc ei aliquod praejudicium generatur. Si autem ex causa probabili dubitet, vel vehementer praesumat, aut certe cognoscat; non debet ei debitum reddere, Ecclesia praecipiente: quia vel sibi praejudicium faceret, si eam uxorio affectu cognosceret; aut alias fornicaretur.***
+*Quod si ipsa fuerit in servitute detenta; si eam a servitute redimere potest, faciat; si non potest, si voluerit, aliam accipiat*. Sciendum, quod si antequam sit detecta servitus uxoris, de qua dubitatur, petat debitum; si levi suspicione moveatur vir, debet reddere debitum: nec ex hoc ei aliquod praejudicium generatur. Si autem ex causa probabili dubitet, vel vehementer praesumat, aut certe cognoscat; non debet ei debitum reddere, Ecclesia praecipiente: quia vel sibi praejudicium faceret, si eam uxorio affectu cognosceret; aut alias fornicaretur.

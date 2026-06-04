@@ -1,5 +1,7 @@
 # Chapter 31
 
+^31:1^ Woe to them that go down to Egypt for help, trusting in horses, and putting their confidence in chariots, because they are many: and in horsemen, because they are very strong: and have not trusted in the Holy One of Israel, and have not sought after the Lord.  
+
 > ^31:2^ But he that is the wise one has brought evil, and has not removed his words: and he will rise up against the house of the wicked, and against the aid of them that work iniquity.
 
 > ^31:3^ Egypt is man, and not God: and their horses, flesh, and not spirit: and the Lord shall put down his hand, and the helper shall fall, and he that is helped shall fall, and they shall all be confounded together.

@@ -1,5 +1,7 @@
 # Chapter 8
 
+***Vox 1***
+
 ***Habitus***
 
 ***Quod habitus uirtutum generati similes operaciones producunt.***
@@ -20,7 +22,7 @@ Vox 2
 
 ***Homerus***
 
-***Quod Homerus scribendo historiam Troianam facit quosdam tales, puta Diomedem et Hectora.***
+Quod Homerus scribendo historiam Troianam facit quosdam tales, puta Diomedem et Hectora.  
 
 Quod Homerus Iouem patrem appellauit, qui fuit rex Cretensis patrie, quia regnum debet esse sicut paternus principatus.  
 

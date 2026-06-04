@@ -1,8 +1,10 @@
 # D. 6 - The Principle of the Son’s generation
 
+***The Principle of the Son’s generation***
+
 ***Division of the text***
 
-***Here the Master inquires about the generation as regards its principle, and it is divided into two parts. In the first, he asks what is the principle of the generation: whether necessity or will or nature. In the second, he asks about the commonness of the principle of the generation, that is, whether the power of generating is common to the Father and the Son, in Distinction 7.***
+Here the Master inquires about the generation as regards its principle, and it is divided into two parts. In the first, he asks what is the principle of the generation: whether necessity or will or nature. In the second, he asks about the commonness of the principle of the generation, that is, whether the power of generating is common to the Father and the Son, in Distinction 7.  
 
 The first part is divided into three: for he first lays out the question and makes a determination about it; second, he removes a doubt, at *but against this, an objection is made*;*Sent*. I, 6.1(18).3. third, he explains the determination, at *as for the above words, . . . it seems to me that they are to be taken in such a sense*.*Sent*. I, 6.1(18).4.  
 
@@ -24,7 +26,7 @@ Article 1
 
 ***Whether the Father begot the Son by necessity***
 
-***To the first we proceed as follows.Parallel texts: *ST* I.41.2; *SCG* IV.11; *On the Power of God*, q. 2, a. 3; q. 10, a. 2, ad 4–5. It seems that the Father begot the Son by necessity.***
+To the first we proceed as follows.Parallel texts: *ST* I.41.2; *SCG* IV.11; *On the Power of God*, q. 2, a. 3; q. 10, a. 2, ad 4–5. It seems that the Father begot the Son by necessity.  
 
 Obj. 1: For the necessary and the possible divide being. Therefore, if the Father did not beget the Son by necessity, he begot him contingently, or by possibility—which is impossible.  
 
@@ -48,7 +50,7 @@ Article 2
 
 ***Whether the Father begot the Son by will***
 
-***To the second we proceed as follows.Parallel texts: *ST* I.41.2; *SCG* IV.11; *On the Power of God*, q. 2, a. 3; q. 10, a. 2, ad 4–5. It appears that the Father begot the Son by will.***
+To the second we proceed as follows.Parallel texts: *ST* I.41.2; *SCG* IV.11; *On the Power of God*, q. 2, a. 3; q. 10, a. 2, ad 4–5. It appears that the Father begot the Son by will.  
 
 Obj. 1: For everything good is willed by God, just as everything true is known by him. But the generation of the Son is the best thing. Therefore it was willed by God, and so the Father begot the Son by will.  
 
@@ -80,7 +82,7 @@ Article 3
 
 ***Whether the Father begot the Son naturally***
 
-***To the third we proceed as follows. It seems that the Father did not beget the Son naturally.***
+To the third we proceed as follows. It seems that the Father did not beget the Son naturally.  
 
 Obj. 1: For Hilary says, *not led by natural necessity did the Father beget the Son*.Hilary, *Liber de synodis*, can. 25 (PL 10:512). Therefore it seems it was not a natural generation.  
 
@@ -102,6 +104,6 @@ Reply Obj. 3: One can know what a nature is in two ways. One can know it by perf
 
 Exposition of the text  
 
-****His will cannot precede his wisdom*.*Sent*. I, 6.1(18).1, quoting Pseudo-Augustine, *Dialogue of 65 Questions*, q. 7 (PL 40:736). He says this because wisdom is appropriated to the Son. On the contrary: the will is the mover of the other powers, for we understand because we will; so the will seems to precede the knowledge of wisdom. To this one should say that some knowledge must precede the will. For the act of the will is of two sorts. The first is imperfect—that is, desiring—and this act precedes perfect knowledge of things that are acquired in knowledge. For through the desire to know something, one is moved to contemplate something about which one acquires knowledge by contemplation; but nevertheless an indeterminate knowledge precedes this act of the will, whereby the thing is known universally, and through that imperfect knowledge the appetite stretches forth to its perfection. For were it entirely unknown, it would not be sought. There is also another act of the will, a perfect one, whereby the will rests and is pleased in the thing that is already possessed. And this will of knowing follows the perfect knowledge.***
+*His will cannot precede his wisdom*.*Sent*. I, 6.1(18).1, quoting Pseudo-Augustine, *Dialogue of 65 Questions*, q. 7 (PL 40:736). He says this because wisdom is appropriated to the Son. On the contrary: the will is the mover of the other powers, for we understand because we will; so the will seems to precede the knowledge of wisdom. To this one should say that some knowledge must precede the will. For the act of the will is of two sorts. The first is imperfect—that is, desiring—and this act precedes perfect knowledge of things that are acquired in knowledge. For through the desire to know something, one is moved to contemplate something about which one acquires knowledge by contemplation; but nevertheless an indeterminate knowledge precedes this act of the will, whereby the thing is known universally, and through that imperfect knowledge the appetite stretches forth to its perfection. For were it entirely unknown, it would not be sought. There is also another act of the will, a perfect one, whereby the will rests and is pleased in the thing that is already possessed. And this will of knowing follows the perfect knowledge.  
 
 *Whether God had generated the Son willingly or unwillingly*.*Sent*. I, 6.1(18).2, quoting Augustine, *On the Trinity*, bk. 15, ch. 20 (CCSL 50A; PL 42:1087). It seems that it is necessary to grant one of these, since the division occurs by affirmation and negation. To this one should say that unwilling and willing are not opposed as contradictories, whereas willing and not willing are. For “I am unwilling” and “I do not will” are different, for when one says, “I do not will it,” the act is being denied, and therefore it is opposed as a negation is opposed to an affirmation; but in the words “I am unwilling,” there both remains an affirmed act of the will in its entire grammatical declination and the negation is also carried to the thing willed.The negation is of what is willed rather than of the act of willing. Whence the meaning of “I am unwilling that something be so” is “I am willing that that not be so.” Likewise one should grant neither alternative in the proposition. Rather, one should grant that he did not beget the Son willingly if “willing” indicates an approaching or antecedent will; but if it indicates a concomitant will, one should grant that he begot him “willingly.”

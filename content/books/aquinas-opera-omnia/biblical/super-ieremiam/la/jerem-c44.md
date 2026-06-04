@@ -1,6 +1,8 @@
 # C. 42 - Instruction of the remnant
 
-***^42:1^ Et accesserunt omnes principes bellatorum, et Johanan filius Caree, et Jezonias filius Osaiae, et reliquum vulgus a parvo usque ad magnum,***
+***Lectio 1***
+
+^42:1^ Et accesserunt omnes principes bellatorum, et Johanan filius Caree, et Jezonias filius Osaiae, et reliquum vulgus a parvo usque ad magnum,  
 
 > ^42:2^ dixeruntque ad Jeremiam prophetam: cadat oratio nostra in conspectu tuo, et ora pro nobis ad Dominum Deum tuum pro universis reliquiis istis, quia derelicti sumus pauci de pluribus, sicut oculi tui nos intuentur:
 
@@ -42,7 +44,7 @@ Secundo promittunt obedientiam, quam tamen servaturi non erant: ***et illi dixer
 
 Lectio 2  
 
-***^42:7^ Cum autem completi essent decem dies, factum est verbum Domini ad Jeremiam.***
+^42:7^ Cum autem completi essent decem dies, factum est verbum Domini ad Jeremiam.  
 
 > ^42:8^ Vocavitque Johanan filium Caree, et omnes principes bellatorum, qui erant cum eo, et universum populum a minimo usque ad magnum,
 

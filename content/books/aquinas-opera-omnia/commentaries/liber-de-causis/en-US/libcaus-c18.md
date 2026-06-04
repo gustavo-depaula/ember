@@ -1,5 +1,7 @@
 # Proposition 17
 
+***138. Every united power is more infinite than a multiplied power.***
+
 > 139. This is because the first infinite thing which is intelligence is near to the one, the pure truth. Because of this, then, it so happens that in every power near to the one truth there is more infinite than in a power far from it.
 
 > 140. This is because power, when it begins to be multiplied, its unity is then destroyed, and when its unity is destroyed, its infinity is destroyed. And its infinity is destroyed only because it is divided.

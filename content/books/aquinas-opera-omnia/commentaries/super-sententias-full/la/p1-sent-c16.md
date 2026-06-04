@@ -1,8 +1,10 @@
 # D. 15 - Sending of the Holy Spirit
 
+***De missione Spiritus Sancti***
+
 ***Divisio primae partis textus***
 
-***Ostenso quia Spiritus Sanctus procedit temporaliter et datur a Patre et Filio, hic inquirit, utrum etiam a seipso detur vel mittatur; et dividitur in partes duas: in prima ostendit quod Spiritus Sanctus datur et mittitur a seipso; in secunda inducit similitudinem de missione Filii, ibi: *ne autem mireris quod Spiritus Sanctus dicitur mitti vel procedere a se*.***
+Ostenso quia Spiritus Sanctus procedit temporaliter et datur a Patre et Filio, hic inquirit, utrum etiam a seipso detur vel mittatur; et dividitur in partes duas: in prima ostendit quod Spiritus Sanctus datur et mittitur a seipso; in secunda inducit similitudinem de missione Filii, ibi: *ne autem mireris quod Spiritus Sanctus dicitur mitti vel procedere a se*.  
 
 Ostendit autem in prima parte dupliciterParma: *prima partes duas. Primo*. quod Spiritus Sanctus a se detur, scilicet per Augustini auctoritatem et per duas rationes: quarum una talis est. Quidquid potest Pater et Filius, potest et Spiritus Sanctus. Sed Pater et Filius possunt dare Spiritum Sanctum. Ergo, etc. Alia est: quidquid operatur Pater et Filius, operatur Spiritus Sanctus, et sic ut prius. Et rationes istae habent efficaciam propter effectum connotatum in missione et datione Spiritus Sancti ex parte creaturae. Operatio enim et potentia respectu creaturae est communis omnibus tribus personis.  
 
@@ -128,7 +130,7 @@ Quaestio 3
 
 ***De missione ex parte mittentis***
 
-***Deinde quaeritur de missione per comparationem ad mittentem, et circa hoc duo quaeruntur:***
+Deinde quaeritur de missione per comparationem ad mittentem, et circa hoc duo quaeruntur:  
 
 primo utrum alicui personae conveniat quod mittat se, vel procedat a se, vel det;  
 
@@ -186,7 +188,7 @@ Articulus 2
 
 ***Utrum Spiritus Sanctus mittat vel det Filium***
 
-***Ad secundum sic proceditur. Videtur quod Spiritus Sanctus non det vel mittat Filium.***
+Ad secundum sic proceditur. Videtur quod Spiritus Sanctus non det vel mittat Filium.  
 
 Augustinus enim dicit, 2 *De Trinit*., cap. 5, quod “exire Filium a Patre et venire in mundum hoc est Filium mitti” a Patre. Sed Filius non exit a Spiritu Sancto. Ergo non mittitur ab ipso.  
 
@@ -208,13 +210,13 @@ Ad secundum dicendum, quod Filius non potest mittere Patrem; quia Pater non pote
 
 Expositio primae partae textus  
 
-****Si enim Spiritus Sanctus seipsum dare non potest, et eum Pater dare potest et Filius; potest utique Pater dare aliquid et Filius quod non potest Spiritus Sanctus*. Hic ponit Magister duas rationes ad ostendendum quod Spiritus Sanctus dat se: quarum prima sumitur ex parte potentiae; secunda ex parte operationis, quorum utrumque commune est tribus personis. Sed videtur quod non valeant; quia nos dicimus, quod Pater potest generare Filium et generat. Filius autem non potest, nec generat; nec tamen aliqua divisio potestatis aut operationis sequitur; et similiter videtur in propositio.***
+*Si enim Spiritus Sanctus seipsum dare non potest, et eum Pater dare potest et Filius; potest utique Pater dare aliquid et Filius quod non potest Spiritus Sanctus*. Hic ponit Magister duas rationes ad ostendendum quod Spiritus Sanctus dat se: quarum prima sumitur ex parte potentiae; secunda ex parte operationis, quorum utrumque commune est tribus personis. Sed videtur quod non valeant; quia nos dicimus, quod Pater potest generare Filium et generat. Filius autem non potest, nec generat; nec tamen aliqua divisio potestatis aut operationis sequitur; et similiter videtur in propositio.  
 
 Sed dicendum, quod si dare et procedere temporaliter esset tantum secundum relationem aeternae originis, rationes non valerent, sicut nec de generatione. Sed quia hoc includit etiam efficientiam respectu quorumdam effectuum in creatura, qui communiter sunt a tota Trinitate; ideo rationes necessario concludunt.  
 
 Divisio secundae partis textus  
 
-****Hic quaeritur, utrum semel tantum missus sit Filius, an saepe mittatur*. Hic determinat de missione Filii secundum speciales modos ipsius; et dividitur in partes duas: in prima determinat veritatem; in secunda removet objectionem, ibi: *hic quaeritur, cur Pater non dicitur missus, cum ex tempore a quoquam cognoscitur, sicut Filius*.***
+*Hic quaeritur, utrum semel tantum missus sit Filius, an saepe mittatur*. Hic determinat de missione Filii secundum speciales modos ipsius; et dividitur in partes duas: in prima determinat veritatem; in secunda removet objectionem, ibi: *hic quaeritur, cur Pater non dicitur missus, cum ex tempore a quoquam cognoscitur, sicut Filius*.  
 
 Prima in duas: in prima distinguit duos modos missionis Filii; in secunda assignat ipsorum differentiam, ibi: *ecce distincti sunt duo modi missionis Filii*.  
 
@@ -246,7 +248,7 @@ Articulus 1
 
 ***Utrum Filius invisibiliter mittatur in mentem***
 
-***Ad primum sic proceditur. Videtur quod Filius invisibiliter in mentem non mittatur.***
+Ad primum sic proceditur. Videtur quod Filius invisibiliter in mentem non mittatur.  
 
 Ad missionem enim divinae personae requiritur quod cognoscatur ipsa persona adveniens; et praecipue in missione sapientiae, quam nullus habens ignorat. Sed adveniente Filio, non cognoscitur ejus adventus. Job 9:11: *si venerit ad me, non intelligam; non videbo illum, si abierit*.Parma omits *non videbo illum, si abierit*. Ergo videtur quod Filius non mittatur in mentem.  
 
@@ -276,7 +278,7 @@ Articulus 2
 
 ***Utrum missio Filii distinguatur a missione Spiritus Sancti***
 
-***Ad secundum sic proceditur. Videtur quod missio Filii distinguatur a missione Spiritus Sancti.***
+Ad secundum sic proceditur. Videtur quod missio Filii distinguatur a missione Spiritus Sancti.  
 
 Missio enim est temporalis processio, ut supra dixit Magister, dist. 14. Sed alia est ratio processionis Filii, alia ratio processionis Spiritus Sancti: quia Spiritus Sanctus procedit ut amor, Filius ut verbum. Ergo et alia ratio missionis.  
 
@@ -332,7 +334,7 @@ Quaestio 5
 
 ***De missione Filii per comparationem ad eos ad quos sit missio***
 
-***Deinde quaeritur de missione Filii per comparationem ad eos ad quos mittitur; et circa hoc tria quaeruntur:***
+Deinde quaeritur de missione Filii per comparationem ad eos ad quos mittitur; et circa hoc tria quaeruntur:  
 
 primo ad quos fiat missio Filii vel Spiritus Sancti;  
 
@@ -342,11 +344,11 @@ tertio de effectu invisibilis missionis: utrum faciat eos ad quos mittitur, non 
 
 Articulus 1  
 
-***Utrum missio fiat ad creaturas irrationales; utrum ad omnes sanctos, ratione augmenti gratiae, dicatur mitti Filius vel Spiritus Sanctus; utrum ad angelos et ad alios beatos fiat missio Spiritus Sancti; utrum ad Christum, secundum quod homo, possit fieri missio***
+Utrum missio fiat ad creaturas irrationales; utrum ad omnes sanctos, ratione augmenti gratiae, dicatur mitti Filius vel Spiritus Sanctus; utrum ad angelos et ad alios beatos fiat missio Spiritus Sancti; utrum ad Christum, secundum quod homo, possit fieri missio  
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod missio fiat etiam ad creaturas irrationales.***
+Ad primum sic proceditur. Videtur quod missio fiat etiam ad creaturas irrationales.  
 
 Est enim missio ad sanctificandum creaturam, ut dictum est. Sed quaedam creaturae irrationales dicuntur sanctificari, ut templum et vasa. Ergo et ad eas fit missio.  
 
@@ -358,7 +360,7 @@ Contra, missio divinae personae est tantum secundum gratiam gratum facientem, ut
 
 Quaestiuncula 2  
 
-***Ulterius, quaeritur, utrum ad omnes sanctos, ratione augmenti gratiae, dicatur mitti Filius vel Spiritus Sanctus. Et videtur quod non.***
+Ulterius, quaeritur, utrum ad omnes sanctos, ratione augmenti gratiae, dicatur mitti Filius vel Spiritus Sanctus. Et videtur quod non.  
 
 Quia missio dicit novum modum existendi personae divinae in creatura. Sed per gratiae augmentum non dicitur alio modo Deus esse in sanctis quam prius. Ergo ad eos non fit missio divinae personae.  
 
@@ -368,7 +370,7 @@ Contra, Spiritus Sanctus missus est ad apostolos in Pentecostes in visibili miss
 
 Quaestiuncula 3  
 
-***Ulterius, quaeritur, utrum ad angelos et ad alios beatos fiat missio Spiritus Sancti. Videtur quod non.***
+Ulterius, quaeritur, utrum ad angelos et ad alios beatos fiat missio Spiritus Sancti. Videtur quod non.  
 
 Missio enim semper est secundum aliquem effectum gratiae in eo cuiAl.: *cui in eo*; Parma: *qui in ea*, “which is sent into them.” mittitur. Sed in angelis et beatis, qui devenerunt ad terminum vitae, neque datur de novo gratia neque augetur. Ergo ad eos non fit missio.  
 
@@ -378,7 +380,7 @@ Sed contrarium habetur ex littera.
 
 Quaestiuncula 4  
 
-***Ulterius, quaeritur, utrum ad Christum, secundum quod homo, possit fieri missio. Videtur quod non.***
+Ulterius, quaeritur, utrum ad Christum, secundum quod homo, possit fieri missio. Videtur quod non.  
 
 Missio enim semper est ad distans. Sed humana natura nunquam fuit in Christo distans a divina; immo a principio conceptionis suae fuit conjuncta per unionem et plenitudinem omnis gratiae. Ergo videtur quod ad eum non fiat missio.  
 
@@ -390,7 +392,7 @@ Praeterea, missio visibilis est signum invisibilis. Sed ad Christum facta est mi
 
 Solutio 1  
 
-***Respondeo dicendum, quod, cum missio divinae personae sit solum in donis gratiae gratum facientis, ad illos solum fit missio quibus hujusmodi dona conferri possunt; et ideo concedimus quod ad omnes rationales creaturas potest fieri missio, nisi sint depravatae per obstinationem in malo, sicut daemones et damnati, et non ad irrationales creaturas.***
+Respondeo dicendum, quod, cum missio divinae personae sit solum in donis gratiae gratum facientis, ad illos solum fit missio quibus hujusmodi dona conferri possunt; et ideo concedimus quod ad omnes rationales creaturas potest fieri missio, nisi sint depravatae per obstinationem in malo, sicut daemones et damnati, et non ad irrationales creaturas.  
 
 Ad primum igitur dicendum, quod sanctificari tripliciter dicitur: uno modo secundum quod sanctum dicitur mundum, prout sanctificatio dicitur emundatio a peccato per gratiam; alio modo secundum quod sanctum dicitur firmum, prout dicitur sanctificatio, confirmatio, in bono per donum gratiae vel gloriae, et istis duobus modis est tantum in rationali creatura, et secundum hos tantum fit missio; tertio modo dicitur sanctificatio, secundum quod aliquid accommodatur ad usum divini cultus, quem decet omnis munditia, et hoc modo dicuntur templum et vasa sanctificari.  
 
@@ -402,7 +404,7 @@ Quartum concedimus.
 
 Solutio 2  
 
-***Ad id quod ulterius quaeritur, dicendum, quod Filius et Spiritus Sanctus dicuntur mitti ad sanctos secundum augmentum gratiae. Sed augmentum gratiae potest esse dupliciter: aut secundum intentionem ejusdem virtutis tantum, et ratione hujus augmenti non dicitur nova missio; aut secundum quod per augmentum gratiae perficit in novum usum vel actum gratiae, et secundum hoc dicitur Spiritus Sanctus et Filius mitti nova missione; verbi gratia notitia talis quae habetur de Deo, ut ex ea procedat amor, sufficit ad rationem missionis Filii. Quando autem ita notitia per inspirationem elevatur ut etiam divina mysteria cognoscat, sic datur in dono prophetiae. Et similiter est de Spiritu Sancto, quia amor caritatis quicumque sufficit ad missionem Spiritus Sancti. Sed quando virtus amoris excrescit, ut ratione amoris conferatur sibi aliquis alius usus gratiae, ut miracula facere, vel sine difficultate omnem tentationem vincere, vel aliquid hujusmodi, tunc dicitur esse nova missio Spiritus Sancti. Quidam tamen dicunt quod in omni augmento gratiae gratum facientis est missio divinae personae, quod etiam facile potest sustineri.***
+Ad id quod ulterius quaeritur, dicendum, quod Filius et Spiritus Sanctus dicuntur mitti ad sanctos secundum augmentum gratiae. Sed augmentum gratiae potest esse dupliciter: aut secundum intentionem ejusdem virtutis tantum, et ratione hujus augmenti non dicitur nova missio; aut secundum quod per augmentum gratiae perficit in novum usum vel actum gratiae, et secundum hoc dicitur Spiritus Sanctus et Filius mitti nova missione; verbi gratia notitia talis quae habetur de Deo, ut ex ea procedat amor, sufficit ad rationem missionis Filii. Quando autem ita notitia per inspirationem elevatur ut etiam divina mysteria cognoscat, sic datur in dono prophetiae. Et similiter est de Spiritu Sancto, quia amor caritatis quicumque sufficit ad missionem Spiritus Sancti. Sed quando virtus amoris excrescit, ut ratione amoris conferatur sibi aliquis alius usus gratiae, ut miracula facere, vel sine difficultate omnem tentationem vincere, vel aliquid hujusmodi, tunc dicitur esse nova missio Spiritus Sancti. Quidam tamen dicunt quod in omni augmento gratiae gratum facientis est missio divinae personae, quod etiam facile potest sustineri.  
 
 Ad primum igitur dicendum, quod quamvis non sit alius modus accipiendo generales modos, tamen est secundum aliquem specialem modum, inquantum secundum specialem usum gratiae assimilat sibi illum ad quem fit missio. Vel etiam est in eo pleniori modo; et hoc sufficit ad missionem quantum ad secundam opinionem.  
 
@@ -410,7 +412,7 @@ Ad secundum dicendum, quod revocare aberrantem accedit missioni ex parte ejus ad
 
 Solutio 3  
 
-***Ad id quod ulterius quaeritur de angelis et beatis, dicendum, quod visio quae est essentialis beatitudini, et caritas et hujusmodi quae pertinent ad praemium substantiale, non augentur in eis ex quo jam beati sunt effecti; sed per hoc non tollitur quin aliquae revelationes novae fiant in eis, cum quantumcumque perficiatur eorum cognitio, in infinitum a Dei cognitione excedatur; et secundum illas novas revelationes consurgunt ad Dei amorem, non quidem ut magis ament, sed ut sub alia ratione eorum amor dirigatur in Deum.***
+Ad id quod ulterius quaeritur de angelis et beatis, dicendum, quod visio quae est essentialis beatitudini, et caritas et hujusmodi quae pertinent ad praemium substantiale, non augentur in eis ex quo jam beati sunt effecti; sed per hoc non tollitur quin aliquae revelationes novae fiant in eis, cum quantumcumque perficiatur eorum cognitio, in infinitum a Dei cognitione excedatur; et secundum illas novas revelationes consurgunt ad Dei amorem, non quidem ut magis ament, sed ut sub alia ratione eorum amor dirigatur in Deum.  
 
 Dicendum igitur ad primum, quod angelis facta est missio Filii et Spiritus Sancti in ipsa collatione gratiae vel gloriae. Ulterius etiam fit ad eos missio Filii et Spiritus Sancti, postquam beati sunt effecti, secundum novas revelationes et novos modos amandi. Et per hoc patet responsio ad primum. Quia quamvis non fiat ad eos missio secundum augmentum gratiae intensive, fit tamen, secundum quod quodammodo eorum gratia extensive ad plura augetur ex novis revelationibus.  
 
@@ -418,7 +420,7 @@ Ad secundum dicendum, quod in eadem missione non est idem nuntius et ad quem fit
 
 Solutio 4  
 
-***Ad id quod ulterius quaeritur de Christo, dicendum, quod non est dubium quin ad humanam naturam in Christo missus sit Dei Filius missione visibili quae est in carnem. Sed utrum ad Christum, secundum quod homo est, mittatur Filius invisibiliter, vel Spiritus Sanctus visibiliter vel invisibiliter, dubium est.***
+Ad id quod ulterius quaeritur de Christo, dicendum, quod non est dubium quin ad humanam naturam in Christo missus sit Dei Filius missione visibili quae est in carnem. Sed utrum ad Christum, secundum quod homo est, mittatur Filius invisibiliter, vel Spiritus Sanctus visibiliter vel invisibiliter, dubium est.  
 
 Quidam enim dicunt, quod ad ipsum nulla invisibilis missio facta est. Cujus rationem assignant, quia Christus ab initio conceptionis suae plenus fuit omni gratia: unde gratia in eo nullo modo fuit augmentata. Et ideo neque ratione collationis gratiae, neque ratione augmenti potest ad eum fieri missio invisibilis. Sed missio visibilis Spiritus Sancti ad ipsum facta est, ad manifestationem interioris gratiae et non alicujus missionis interioris quae aliquam novitatem in gratia importaret.  
 
@@ -436,7 +438,7 @@ Articulus 2
 
 ***Utrum missio invisibilis fuerit plenior post Incarnationem quam ante***
 
-***Ad secundum sic proceditur. Videtur quod missio invisibilis non plenior fuerit post Incarnationem quam ante.***
+Ad secundum sic proceditur. Videtur quod missio invisibilis non plenior fuerit post Incarnationem quam ante.  
 
 Missio enim fit per quamdam irradiationem divinae bonitatis in donis gratiae gratum facientis. Sed sol corporalis, cui bonitatem divinam Dionysius assimilat, 4 cap. *De divinis nominibus*, semper aequaliter irradiat. Ergo videtur quod missio omni tempore aequaliter fiat.  
 
@@ -458,7 +460,7 @@ Articulus 3
 
 ***Utrum per missionem invisibilem efficimur ne simus in hoc mundo***
 
-***Ad tertium sic proceditur. Videtur quod per missionem invisibilem efficimur quod non in hoc mundo simus.***
+Ad tertium sic proceditur. Videtur quod per missionem invisibilem efficimur quod non in hoc mundo simus.  
 
 Qui enim est in caelis, non est in mundo. Sed Apostolus in persona omnium sanctorum dicit, Phil. 3:20: *nostra conversatio in caelis est*. Ergo videtur quod sancti ad quos fit missio, non sint in mundo.  
 
@@ -482,7 +484,7 @@ Ad quartum dicendum, quod operatio angeli in res corporales est operatio activa;
 
 Expositio secundae partis textus  
 
-****Secundum quam etiam missus posset dici*, quia ex hoc ipso quod Filius a Patre est, convenientiam habet ut ab eo mittatur, ut missio non secundum actum missionis intelligatur, sed secundum aptitudinem ad missionem.***
+*Secundum quam etiam missus posset dici*, quia ex hoc ipso quod Filius a Patre est, convenientiam habet ut ab eo mittatur, ut missio non secundum actum missionis intelligatur, sed secundum aptitudinem ad missionem.  
 
 *Et tunc unicuique mittitur, cum a quoquam cognoscitur*. Hoc intelligendum est non tantum de cognitione speculativa, sed quae est etiam quodammodo experimentalis; quod ostendit hoc quod sequitur: *atque percipitur*, quod proprie experientiam in dono percepto demonstrat. Dicitur autem anima rationalis in Deum proficiens quantum ad statum viae, perfecta in Deo quantum ad statum patriae, ubi utraque missio complebitur propter perfectam cognitionem et perfectum amorem.  
 

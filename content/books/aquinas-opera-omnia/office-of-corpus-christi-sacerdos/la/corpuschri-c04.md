@@ -1,5 +1,8 @@
 # Lauds
 
+***[℣. Deus in adiutorium meum intende.***
+***℟. Domine, ad adiuvandum me festina.***
+
 Gloria Patri, et Filio, * et Spiritui Sancto.  
 
 Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]  
@@ -12,7 +15,7 @@ Contra *Adest dies* de sancto Dominico.
 
 ***Psalmus 92***
 
-***Dominus regnavit, decorem indutus est: * indutus est Dominus fortitudinem, et praecinxit se.***
+Dominus regnavit, decorem indutus est: * indutus est Dominus fortitudinem, et praecinxit se.  
 
 > Etenim firmavit orbem terrae, * qui non commovebitur.
 
@@ -60,7 +63,7 @@ Contra *Scala caelo* de sancto Dominico.
 
 ***Psalmus 21***
 
-***Deus, Deus meus, respice in me: quare me dereliquisti? * Longe a salute mea verba delictorum meorum.***
+Deus, Deus meus, respice in me: quare me dereliquisti? * Longe a salute mea verba delictorum meorum.  
 
 > Deus meus, clamabo per diem, et non exaudies; * et nocte, et non ad insipientiam mihi.
 
@@ -142,7 +145,7 @@ Contra *Scala caelo* de sancto Dominico.
 
 Contra *Ingressus Angelus* de Annuntiatione sanctae Mariae.  
 
-***Benedicite, omnia opera Domini, Domino: * laudate et superexaltate eum in saecula.***
+Benedicite, omnia opera Domini, Domino: * laudate et superexaltate eum in saecula.  
 
 > Benedicite, angeli Domini, Domino: * benedicite, caeli, Domino.
 
@@ -254,7 +257,7 @@ Contra *Ex quo omnia* de Trinitate.
 
 ***1 Cor 11:23–24***
 
-***Dominus Iesus Christus, in qua nocte tradebatur, accepit panem et, gratias agens, fregit et dixit: accipite et manducate. Hoc est Corpus meum, quod pro vobis tradetur. Hoc facite in meam commemorationem.***
+Dominus Iesus Christus, in qua nocte tradebatur, accepit panem et, gratias agens, fregit et dixit: accipite et manducate. Hoc est Corpus meum, quod pro vobis tradetur. Hoc facite in meam commemorationem.  
 
 > [℟. Deo gratias.]
 
@@ -311,7 +314,7 @@ Benedictus
 
 Contra *Pax aeterna* de Dedicatione.  
 
-***Benedictus Dominus Deus Israel, * quia visitavit, et fecit redemptionem plebis suae:***
+Benedictus Dominus Deus Israel, * quia visitavit, et fecit redemptionem plebis suae:  
 
 > et erexit cornu salutis nobis * in domo David pueri sui,
 

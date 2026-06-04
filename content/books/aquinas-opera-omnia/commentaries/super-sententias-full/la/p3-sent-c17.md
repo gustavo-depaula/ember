@@ -1,8 +1,10 @@
 # D. 16 - Creation of man in God’s image and likeness
 
+***De formatione hominis, secundum quod exit a sua causa et in similitudinem ejus***
+
 ***Divisio textus***
 
-***Determinato de natura pure spirituali, id est angelica, et de natura pure corporali, hic tertio multipliciter prosequitur de natura composita ex spirituali et corporali, scilicet de homine.***
+Determinato de natura pure spirituali, id est angelica, et de natura pure corporali, hic tertio multipliciter prosequitur de natura composita ex spirituali et corporali, scilicet de homine.  
 
 Dividitur ergo pars ista in partes duas:  
 
@@ -68,7 +70,7 @@ Articulus 1
 
 ***Utrum aliqua creatura possit dici esse ad imaginem***
 
-***Ad primum sic proceditur. Videtur quod nulla creatura possit dici ad imaginem Dei esse.***
+Ad primum sic proceditur. Videtur quod nulla creatura possit dici ad imaginem Dei esse.  
 
 Cujuscumque enim est aliqua imago creata, ei contingit aliquam imaginem ponere. Sed Deo non contingit aliquam ponere. Isa. 40:18: *cui similem fecistis Deum aut quam imaginem ponetis ei?* Ergo, etc.  
 
@@ -102,7 +104,7 @@ Articulus 2
 
 ***Utrum imago Dei inveniatur tantum in creaturis rationalibus***
 
-***Ad secundum sic proceditur. Videtur quod non tantum in rationalibus creaturis imago Dei inveniatur.***
+Ad secundum sic proceditur. Videtur quod non tantum in rationalibus creaturis imago Dei inveniatur.  
 
 Ad rationem enim imaginis, qualis in creaturis esse potest, non exigitur perfecta similitudo, ut dictum est; sed sufficit imperfecta imitatio. Sed quaelibet creatura ex hoc esse habet quod divinam perfectionem imitatur. Ergo quaelibet creatura dici debet ad imaginem Dei.  
 
@@ -136,7 +138,7 @@ Articulus 3
 
 ***Utrum imago Dei magis reperiatur in angelis quam in hominibus***
 
-***Ad tertium sic proceditur. Videtur quod imago non magis in angelis quam in hominibus inveniatur.***
+Ad tertium sic proceditur. Videtur quod imago non magis in angelis quam in hominibus inveniatur.  
 
 Ea enim quae sequuntur naturam, aequaliter inveniuntur in omnibus habentibus naturam illam, ut risibile in hominibus. Sed esse ad imaginem Dei consequitur intellectualem naturam. Ergo in omnibus habentibus intellectum est aequaliter.  
 
@@ -176,7 +178,7 @@ Articulus 4
 
 ***Utrum imago et similitudo convenienter distinguantur in littera***
 
-***Ad quartum sic proceditur. Videtur quod inconvenienter imago et similitudo in littera distinguantur.***
+Ad quartum sic proceditur. Videtur quod inconvenienter imago et similitudo in littera distinguantur.  
 
 Illud enim quod ponitur in definitione alicujus ut genus, non distinguitur ab ipso, sicut animal ab homine. Sed secundum Hilarium, lib. *De synod. advers. Arian*.: *imago est rei ad rem coaequandam*Migne: *coaequandae*. *imaginata et indiscreta similitudo*. Ergo imago et similitudo distingui non debent.  
 
@@ -212,7 +214,7 @@ Ad sextum dicendum, quod intellectualitas, quamvis pertineat ad essentiam natura
 
 Expositio textus  
 
-****Quare creatus sit homo*, id est causa finalis hominis, et *qualiter institutus*, quia ex anima et corpore: haec duo in prima distinctione hujus libri dicta sunt; *et qualiter et quomodo factus*, hic incipit hincParma omits *hinc*. prosequi; *deinde qualiter sit lapsus*, hoc prosequitur 21 distinctione, et deinceps; *postremo qualiter et per quam sit reparatus*, hoc in 3 lib. et in 4.***
+*Quare creatus sit homo*, id est causa finalis hominis, et *qualiter institutus*, quia ex anima et corpore: haec duo in prima distinctione hujus libri dicta sunt; *et qualiter et quomodo factus*, hic incipit hincParma omits *hinc*. prosequi; *deinde qualiter sit lapsus*, hoc prosequitur 21 distinctione, et deinceps; *postremo qualiter et per quam sit reparatus*, hoc in 3 lib. et in 4.  
 
 *Quae in mente rationali naturaliter sunt*. Hoc potest intelligi etiam de habitibus gratuitis, ad quos anima naturaliter est ordinata, non quod per principia naturae causentur; vel potest intelligi de habitibus innatis, sicut Philosophus in 6 *Ethic*., cap. 11, ponit etiam quasdam virtutes naturales.  
 

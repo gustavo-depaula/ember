@@ -1,5 +1,7 @@
 # On a Purely Bodily Creature
 
+***Quaestio 14***
+
 ***De creatura pure corporali***
 
 ***Deinde quaesitum est de creatura pure corporali. Et circa hoc quaesita sunt duo;***
@@ -12,7 +14,7 @@ Articulus 1
 
 ***De arcu nubium qui dicitur iris***
 
-***Ad primum sic proceditur. Videtur quod arcus nubium non sit signum dilvuii non futuri.***
+Ad primum sic proceditur. Videtur quod arcus nubium non sit signum dilvuii non futuri.  
 
 Illud enim quod fit ex necessitate naturae, non videtur esse institutum ad aliquid significandum; sed arcus nubium provenit ex necessitate propter oppositionem solis ad nubem roridam; ergo non videtur esse significativum dilvuii non futuri.  
 
@@ -38,7 +40,7 @@ Articulus 2
 
 ***Utrum possit demonstrative probari quod mundus non sit aeternus***
 
-***Ad secundum sic proceditur. Videtur quod demonstrative probari possit mundum non esse aeternum.***
+Ad secundum sic proceditur. Videtur quod demonstrative probari possit mundum non esse aeternum.  
 
 Si enim mundus esset aeternus, non posset computari numerus annorum ab initio mundi; hic autem numerus ascribitur paschali cereo; sic ergo non posset paschalis cereus in Ecclesia benedici.  
 

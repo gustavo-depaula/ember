@@ -1,10 +1,12 @@
 # C. 36 - Jeremiah’s book
 
+***Jeremiah’s book***
+
 ***Lecture 1***
 
 ***Jeremiah writes a book***
 
-***^36:1^ And it came to pass in the fourth year of Jehoiakim, the son of Josiah, king of Judah, that this word from the Lord came to Jeremiah, saying:***
+^36:1^ And it came to pass in the fourth year of Jehoiakim, the son of Josiah, king of Judah, that this word from the Lord came to Jeremiah, saying:  
 
 > ^36:2^ take the scroll of the book, and write in it all the words which I have spoken to you against Israel, and Judah, and against all the nations, from the day when I spoke to you, from the days of Josiah until this day.
 
@@ -30,7 +32,7 @@ Lecture 2
 
 ***The scroll read in the temple***
 
-***^36:5^ And Jeremiah commanded Baruch, saying: I am imprisoned, and cannot enter the house of the Lord.***
+^36:5^ And Jeremiah commanded Baruch, saying: I am imprisoned, and cannot enter the house of the Lord.  
 
 > ^36:6^ Therefore, you shall go, and read from the scroll in which you have written the words of the Lord from my mouth, while the people listen in the house of the Lord, on the fast day; and also you shall read to them in the hearing of all Judah, that come out of their cities.
 
@@ -64,7 +66,7 @@ Lecture 3
 
 ***Baruch reads to the princes***
 
-***^36:11^ And when Micaiah, the son of Gemariah, the son of Shaphan, had heard all the words of the Lord from the book,***
+^36:11^ And when Micaiah, the son of Gemariah, the son of Shaphan, had heard all the words of the Lord from the book,  
 
 > ^36:12^ he went down to the house of the king, to the treasury of the scribe, and behold, all the princes were seated there: Elishamah the scribe, and Delaiah, the son of Shemaiah, and Elnathan, the son of Achbor, and Gemariah, the son of Shaphan, and Zedekiah, the son of Hananiah, and all the princes.
 
@@ -120,7 +122,7 @@ Lecture 5
 
 ***The king burns the book***
 
-***^36:22^ Now the king was sitting in the winter-house, in the ninth month, and there was set before him a brazier filled with coals.***
+^36:22^ Now the king was sitting in the winter-house, in the ninth month, and there was set before him a brazier filled with coals.  
 
 > ^36:23^ And when Jehudi had read three or four columns, he cut it with the knife of a scribe, and cast it into the fire which was upon the brazier, until the whole scroll should be consumed by the fire that was on the brazier.
 
@@ -148,7 +150,7 @@ Lecture 6
 
 ***Baruch and Jeremiah persecuted***
 
-***^36:26^ And the king commanded Jerachmiel, the son of Amelech,Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” and Saraiah, the son of Azriel, and Shelemiah, the son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet; but the Lord had hidden them.***
+^36:26^ And the king commanded Jerachmiel, the son of Amelech,Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” and Saraiah, the son of Azriel, and Shelemiah, the son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet; but the Lord had hidden them.  
 
 > **194**. Here, the persecution of the authors is given:
 
@@ -160,7 +162,7 @@ Lecture 7
 
 ***Jeremiah rewrites the book***
 
-***^36:27^ And the word of the Lord came to Jeremiah the prophet, after the king had burned the scroll and the words which Baruch had written by the mouth of Jeremiah, saying:***
+^36:27^ And the word of the Lord came to Jeremiah the prophet, after the king had burned the scroll and the words which Baruch had written by the mouth of Jeremiah, saying:  
 
 > ^36:28^ take again another scroll, and write in it all the former words which were in the first scroll, which Jehoiakim king of Judah burnt.
 

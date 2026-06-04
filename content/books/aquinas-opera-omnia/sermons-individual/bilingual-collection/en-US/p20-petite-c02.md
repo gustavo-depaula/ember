@@ -1,5 +1,7 @@
 # Sermon
 
+***Ask***, et cetera. (John 16:24). The Apostle says in Romans 8:26 that quite often we do not know what we ought to ask. Therefore, our Advocate, Jesus Christ, of whom John says in his letter (1 John 2:1–2) that *we have an advocate with the Father, Jesus Christ, and he is the atonement for our sins*, this Advocate invites us today to pray, and he promises to give to us, yes, he even swears to give to us, provided that we ask in the name of the Savior the things that are necessary for our salvation.  
+
 Thus at the beginning of today’s Gospel this Advocate of ours invites us to ask and teaches us to formulate our petition, saying: *very truly, I tell you, if you ask the Father for something in my name, he will give it to you* (John 16:23).Cf. Thomas’s discussion of this verse in *ST* II-II.83.7, obj. 2.  
 
 Accordingly he touches in these words upon three things.  

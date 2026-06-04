@@ -1,5 +1,7 @@
 # Evening Collation
 
+******Lux orta est iusto et rectis corde laetitia***.***
+
 Dictum fuit hodie qualiter beata Virgo in ortu suo est lux iustis; restat videre qualiter est laetitia rectis, quod notatur ibi: ***et rectis corde laetitia***.  
 
 Laetitia promittitur in sacra Scriptura non quibuscumque rectis, sed rectis corde, id est perfecte rectis sicut exponemus, qui intelliguntur per Iob de quo dicitur: *erat vir ille simplex et rectus ac timens Deum et recedens a malo. Simplex*, in intentione, *rectus* in opere, *timens Deum et recedens a malo*, id est peccato. Unde Salomon: *sapiens timet et declinat a malo*; et alibi: *per timorem declinat omnis* homo *a malo*. Tali recto promittitur laetitia.  

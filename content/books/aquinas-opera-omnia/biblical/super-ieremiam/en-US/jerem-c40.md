@@ -1,10 +1,12 @@
 # C. 38 - Jeremiah persecuted by the princes
 
+***Jeremiah persecuted by the princes***
+
 ***Lecture 1***
 
 ***Jeremiah thrown into a pit***
 
-***^38:1^ And Shephatiah, the son of Mathan, and Gedaliah, the son of Pashhur, and Jucal, the son of Milchiah, heard the words which Jeremiah spoke to the entire people, saying:***
+^38:1^ And Shephatiah, the son of Mathan, and Gedaliah, the son of Pashhur, and Jucal, the son of Milchiah, heard the words which Jeremiah spoke to the entire people, saying:  
 
 > ^38:2^ thus says the Lord: whosoever shall remain in this city shall die by the sword, and by famine, and by pestilence. But whoever shall flee to the Chaldeans shall live, and his soul shall be safe and live.
 
@@ -68,7 +70,7 @@ Lecture 2
 
 ***Secret prophecy to the king***
 
-***^38:14^ And king Zedekiah sent and took Jeremiah the prophet unto him to the third gate which was in the house of the Lord. And the king said to Jeremiah, ‘I shall ask you a thing, do not hide anything from me.’***
+^38:14^ And king Zedekiah sent and took Jeremiah the prophet unto him to the third gate which was in the house of the Lord. And the king said to Jeremiah, ‘I shall ask you a thing, do not hide anything from me.’  
 
 > ^38:15^ But Jeremiah said to Zedekiah, ‘If I tell you, will you not kill me? And if I give you counsel you will not listen to me.’
 
@@ -140,6 +142,6 @@ Lecture 3
 
 ***Jeremiah remains in prison***
 
-***^38:28^ But Jeremiah remained in the vestibule of the prison until the day when Jerusalem was captured. And it came to pass that Jerusalem was captured.***
+^38:28^ But Jeremiah remained in the vestibule of the prison until the day when Jerusalem was captured. And it came to pass that Jerusalem was captured.  
 
 > **203**. Here, the fulfillment of his request is mentioned: ***in the vestibule***. He was not put in the pit, in keeping with his request.

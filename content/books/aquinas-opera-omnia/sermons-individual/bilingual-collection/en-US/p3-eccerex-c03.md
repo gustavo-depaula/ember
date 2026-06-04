@@ -1,5 +1,7 @@
 # Evening Collation
 
+***Behold, your king comes***, etc. It was said that in these words we could see the coming shown when it says: ***behold***; second, the condition of the one coming, at: ***your king***; third, the usefulness of the coming, at: ***comes to you***; and fourth, the manner of the coming, at: ***meek***. It was also said that through ‘behold’ we normally understand four things: first, making a thing certain; second, the determination of a time; third, the manifestation of a thing; and fourth, comfort.  
+
 Now, we said about the condition of the one coming (which is noted when it says ***your king***) that a person’s coming requires that he be expected or announced with solemnity because of his greatness (if he is a king or a legate), or because of a person’s friendship and affinity: and these were in he who came.  
 
 We then must consider that he himself is the king of all creation. Hence Judith 9:17 says: *Creator of the waters and king of all creation*. But he is specifically called ***your king***, namely, of man, because of four things:  

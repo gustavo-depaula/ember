@@ -1,6 +1,8 @@
 # Pr. (Eccl 10:4) - Ecclesiasticus 10:4
 
-***^10:4^ In manu Dei potestas terrae, et execrabilis omnis iniquitas gentium, et utilem rectorem suscitabit in tempore super illam.***
+***Ecclesiasticus 10:4***
+
+^10:4^ In manu Dei potestas terrae, et execrabilis omnis iniquitas gentium, et utilem rectorem suscitabit in tempore super illam.  
 
 > **1**. Haec verba materiae huius epistolae conveniunt. Prius enim instruxit Ecclesiam in his, quae ad eius unitatem pertinent, hic instruit ipsos rectores Ecclesiae, qui sunt quasi principalia membra eius. Circa quod videnda est ista instructio et utilitas.
 

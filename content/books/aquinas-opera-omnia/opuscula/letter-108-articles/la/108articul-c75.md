@@ -1,1 +1,3 @@
 # Articulus 74
+
+Quod vero septuagesimo quarto ponitur, *praedestinatio est causa salutis prima, liberum arbitrium proxima; effectus vero magis sequitur conditionem causae proximae, ut patet in generatione inferiorum ex motu necessario superiorum*, quantum ad aliquid verum est, scilicet quantum ad contingentiam et necessitatem: quia si causa prima est necessaria, et secunda contingens, sequitur effectus contingens; sed non debuit proponi communiter. Quod vero obiiciens calumniatur, quod Deus est magis causa proxima quam liberum arbitrium, omnino frivolum est: est enim Deus causa proxima secundum efficaciam actionis, et non secundum ordinem enumerationis causarum.

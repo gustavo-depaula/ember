@@ -1,8 +1,10 @@
 # On Sacred Scripture
 
+***Question 6***
+
 ***On the senses of Sacred Scripture***
 
-***Then there were questions about the senses of Sacred Scripture. And about this there were three questions:***
+Then there were questions about the senses of Sacred Scripture. And about this there were three questions:  
 
 first, whether besides the literal sense there lie hidden in the words of Sacred Scripture other spiritual senses;  
 
@@ -12,9 +14,9 @@ third, whether those senses are found in other writings.
 
 Article 1  
 
-***Whether besides the literal sense there lie hidden in the words of Sacred Scripture other spiritual senses***
+Whether besides the literal sense there lie hidden in the words of Sacred Scripture other spiritual senses  
 
-***To the first we proceed thus. It seems that in the same words of Sacred Scripture there do not lie hidden many senses.***
+To the first we proceed thus. It seems that in the same words of Sacred Scripture there do not lie hidden many senses.  
 
 Obj. 1: Because *sayings employed once must not be used equivocally*Cf. William of Auxerre, *Summa aurea*, bk. 3, tract. 10, ch. 1, q. 3, 3.1:121; Bonaventure, *In IV Sent*., d. 11, P. 2, dub. 2, 4:265. or in manifold ways. But a plurality of senses makes a multiplication of speech. Therefore, in the same speech of Sacred Scripture there cannot lie hidden many senses.  
 
@@ -46,7 +48,7 @@ Article 2
 
 ***On the number of senses of Sacred Scripture***
 
-***To the second we proceed thus. It seems that there should not be distinguished four senses of Sacred Scripture, namely, historical or literal, allegorical, moral, and anagogical.***
+To the second we proceed thus. It seems that there should not be distinguished four senses of Sacred Scripture, namely, historical or literal, allegorical, moral, and anagogical.  
 
 Obj. 1: For just as in Sacred Scripture some things are said figuratively concerning Christ, so also some things are said figuratively concerning other men, such as when in Daniel 8:5 the king of the Greeks is signified through a he-goat. But figurative sayings of this sort do not constitute some sense beyond the literal in Sacred Scripture. Therefore, neither should an allegorical sense, whereby things which preceded in figure are interpreted to be about Christ, be posited as a sense different from the historical.  
 
@@ -82,7 +84,7 @@ Article 3
 
 ***Whether those senses are found in other writings***
 
-***To the third we proceed thus. It seems that the abovementioned senses should be distinguished in other writings also.***
+To the third we proceed thus. It seems that the abovementioned senses should be distinguished in other writings also.  
 
 Obj. 1: For the spiritual senses in Sacred Scripture are taken from certain likenesses. But in other sciences we also proceed from certain likenesses. Therefore, the spiritual senses can be found in the writings of other sciences.  
 

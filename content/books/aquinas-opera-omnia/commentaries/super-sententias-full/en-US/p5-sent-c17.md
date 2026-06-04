@@ -1,8 +1,10 @@
 # D. 16 - Necessity of Christ's suffering and death
 
+***Necessity of Christ's suffering and death***
+
 ***Division of the text***
 
-***After the Master has considered the defects that Christ assumed with the nature, here he asks in what manner those defects were in Christ—namely, whether in Christ there was a necessity of suffering or dying. And this is divided into two parts:***
+After the Master has considered the defects that Christ assumed with the nature, here he asks in what manner those defects were in Christ—namely, whether in Christ there was a necessity of suffering or dying. And this is divided into two parts:  
 
 first, he considers the question, showing that Christ assumed a necessity of dying.  
 
@@ -38,7 +40,7 @@ Article 1
 
 ***Whether the necessity of dying was in man only because of sin***
 
-***To the first we proceed as follows.Parallels: *In II Sent.*, d. 30, q. 1, a. 1; *In IV Sent.*, prol.; d. 4, q. 2, a. 1, resp. 3; *ST* I-II.85.5–6; II-II.164.1; *SCG* IV.52; *De malo*, q. 5, aa. 4, 5; *Compendium theol.*, ch. 193; *Super Rom.* 5, lect. 3; *Super Heb.* 9, lect. 5. It appears that the necessity of dying is only in man because of sin.***
+To the first we proceed as follows.Parallels: *In II Sent.*, d. 30, q. 1, a. 1; *In IV Sent.*, prol.; d. 4, q. 2, a. 1, resp. 3; *ST* I-II.85.5–6; II-II.164.1; *SCG* IV.52; *De malo*, q. 5, aa. 4, 5; *Compendium theol.*, ch. 193; *Super Rom.* 5, lect. 3; *Super Heb.* 9, lect. 5. It appears that the necessity of dying is only in man because of sin.  
 
 Obj. 1: Romans 8:10: *your bodies are dead because of sin*, that is, bound to a necessity of death. Therefore.  
 
@@ -72,7 +74,7 @@ Article 2
 
 ***Whether there was a necessity of dying in Christ***
 
-***To the second we proceed as follows.Parallel: *ST* III.14.2. It appears that in Christ there was no necessity of dying.***
+To the second we proceed as follows.Parallel: *ST* III.14.2. It appears that in Christ there was no necessity of dying.  
 
 Obj. 1: For necessity imports coercion. But what is constituted in one’s power is not something coerced. Therefore, since Christ says of himself, *I have power to lay it [my life] down* (John 10:18), so it does not appear that in him there was a necessity of dying.  
 
@@ -106,9 +108,9 @@ Reply Obj. 5: The nails and the lance were more powerful than the body of Christ
 
 Article 3  
 
-***Whether the necessity of dying or suffering in Christ was subject to his human will***
+Whether the necessity of dying or suffering in Christ was subject to his human will  
 
-***To the third we proceed as follows.Parallel: *Compendium theol.*, ch. 230. It appears that the necessity of suffering or dying was subject to Christ’s human will.***
+To the third we proceed as follows.Parallel: *Compendium theol.*, ch. 230. It appears that the necessity of suffering or dying was subject to Christ’s human will.  
 
 Obj. 1: For what follows on a preceding will is only what is subject to the will. But Damascene says in the *Orthodox Faith* 3John Damascene, *On the Orthodox Faith*, bk. 3, ch. 20 (PG 94:1083). that *Christ’s natural [powers] followed his will*. Therefore if the necessity of dying was present in Christ in any natural way, it was subject to Christ’s will.  
 
@@ -146,7 +148,7 @@ Question 2
 
 ***The final state of Christ's body***
 
-***Next, it is asked whether, along with the necessity of dying, he was also able to have the things that pertain to the state of glory. And because he has already spoken about the things that pertain to the glory of his soul, therefore here the question is about things that pertain to the state of the glory of his body, which he revealed in his transfiguration, in Matthew 17:1–10. And two things are asked about this.***
+Next, it is asked whether, along with the necessity of dying, he was also able to have the things that pertain to the state of glory. And because he has already spoken about the things that pertain to the glory of his soul, therefore here the question is about things that pertain to the state of the glory of his body, which he revealed in his transfiguration, in Matthew 17:1–10. And two things are asked about this.  
 
 first, whether that brilliance was true or only imaginary;  
 
@@ -154,9 +156,9 @@ second, whether it was the brilliance of glory.
 
 Article 1  
 
-***Whether the brilliance that was in Christ’s body during his transfiguration was true, or was it just imaginary***
+Whether the brilliance that was in Christ’s body during his transfiguration was true, or was it just imaginary  
 
-***To the first we proceed as follows. It appears that that brilliance was not truly there.***
+To the first we proceed as follows. It appears that that brilliance was not truly there.  
 
 Obj. 1: For what is said to be “transfigured” into something is what is not that in truth, as when it is said that an angel of Satan *transfigures himself into an angel of light* (2 Cor 11:14).For “transfigures” the RSV says “disguises.” But Christ is said to be transfigured insofar as he demonstrated his brilliance, as is clear in Matthew 17:2. Therefore that clarity was not in him in truth.  
 
@@ -190,7 +192,7 @@ Article 2
 
 ***Whether this was the brilliance of glory***
 
-***To the second we proceed as follows.Parallels: *ST* III.45.2; *Super Matth.* 17. It appears that that brilliance was not glorious.***
+To the second we proceed as follows.Parallels: *ST* III.45.2; *Super Matth.* 17. It appears that that brilliance was not glorious.  
 
 Obj. 1: For in his Gloss on Matthew 17:2, *he was transfigured*, Bede says, *in that mortal body he shows not his immortality, but a brilliance like his future immortality*.Bede, *Commentary on Matthew*, bk. 3, ch. 17 (Pl 92:80). But the glorified brilliance is the brilliance of immortality. Therefore that brilliance was not the glorious one.  
 
@@ -236,7 +238,7 @@ Reply Obj. 7: There was splendor in his clothes shining forth from the brillianc
 
 Exposition of the text  
 
-****For other men*.*Sent.* III, 16.1(45).2. The likeness here is present inasmuch as the necessity for dying is in other men by their nature, but not inasmuch as it is there because of sin.***
+*For other men*.*Sent.* III, 16.1(45).2. The likeness here is present inasmuch as the necessity for dying is in other men by their nature, but not inasmuch as it is there because of sin.  
 
 *There are four states of man*.*Sent*. III, 16.2(46).1. Against this, Boethius assigns three.Boethius, *On the Person and the Two Nature*s, ch. 8 (PL 64:1353). It should be said that Boethius assigns the state of human nature principally with respect to conditions of the body, which in the first state was animal, in the second, corruptible, and in the third, spiritual. However, the Master assigns the four states principally with respect to conditions of the soul, as is manifest.  
 

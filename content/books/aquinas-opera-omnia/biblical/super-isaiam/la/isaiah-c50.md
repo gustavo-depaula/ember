@@ -1,5 +1,7 @@
 # Chapter 48
 
+^48:1^ Audite hæc domus Jacob qui vocamini nomine Israel et de aquis Juda existis. Qui juratis in nomine Domini et Dei Israel recordamini non in veritate neque in justitia.  
+
 > ^48:2^ De civitate enim sancta vocati sunt et super Deum Israel constabiliti sunt, Dominus exercituum nomen ejus.
 
 > ^48:3^ Priora ex tunc annuntiavi et ex ore meo exierunt et audita feci ea; repente operatus sum, et venerunt.

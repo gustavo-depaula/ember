@@ -1,10 +1,12 @@
 # Second Vespers
 
+Antiphons and psalms as in first vespers.Corrigan notes that what follows is written by a different hand that is difficult to read, and hence, much of what follows is conjectural.  
+
 ***Chapter***
 
 ***1 Corinthians 11:28–29***
 
-***Let each man examine himself and so eat the bread and drink the cup. Who eats and drinks unworthily, eats and drinks judgment on himself, not recognizing the body of the Lord.***
+Let each man examine himself and so eat the bread and drink the cup. Who eats and drinks unworthily, eats and drinks judgment on himself, not recognizing the body of the Lord.  
 
 > Responsory
 

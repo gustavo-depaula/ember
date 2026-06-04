@@ -1,8 +1,10 @@
 # D. 2 - Purely spiritual creation
 
+***De creatura pure spirituali***
+
 ***Divisio textus***
 
-***Hic Magister incipit determinare de creaturis in speciali quantum ad considerationem theologi pertinet, et dividitur in tres partes:***
+Hic Magister incipit determinare de creaturis in speciali quantum ad considerationem theologi pertinet, et dividitur in tres partes:  
 
 in prima determinat de creatura pure spirituali;  
 
@@ -202,7 +204,7 @@ Quaestio 2
 
 ***De caelo empyreo***
 
-***Deinde quaeritur de caelo empyreo, in quo angeli facti dicuntur; de quo tria quaeruntur:***
+Deinde quaeritur de caelo empyreo, in quo angeli facti dicuntur; de quo tria quaeruntur:  
 
 primo utrum sit corpus;  
 
@@ -292,7 +294,7 @@ Articulus 3
 
 ***Utrum caelum empyreum habeat influentiam super alia corpora***
 
-***Ad tertium sic proceditur. Videtur quod caelum empyreum influentiam habeat supra alia corpora.***
+Ad tertium sic proceditur. Videtur quod caelum empyreum influentiam habeat supra alia corpora.  
 
 Ita enim est inParma adds *aliis*. elementis, quod semper continens est salvans contentum, quamvis sit contrarium sibi, eo quod est locus ejus, et habet se ad ipsum sicut actus ad potentiam, et sicut totum ad partem divisam, ut dicitur in 4 *Phys*. Sed caelum empyreum continet alios caelos. Ergo multo fortius, cum non contrarietur eis, videtur quod influatAl.: *non influat*. in eos continendo et salvando eos.  
 
@@ -318,7 +320,7 @@ Ad quartum dicendum, quod nobilissima dispositio, quae unquam potest esse in cor
 
 Expositio textus  
 
-****Quantas prius aeternitates . . . fuisse arbitrandum est?* Videtur falsum dicere, quia aeternitas est tantum una.***
+*Quantas prius aeternitates . . . fuisse arbitrandum est?* Videtur falsum dicere, quia aeternitas est tantum una.  
 
 Praeterea. In quo differt saeculum, tempus et aeternitas?  
 

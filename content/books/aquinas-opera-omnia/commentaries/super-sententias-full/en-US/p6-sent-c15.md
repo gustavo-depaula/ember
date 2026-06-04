@@ -1,8 +1,10 @@
 # D. 37 - Precepts of the law
 
+***Precepts of the law***
+
 ***Division of the text***
 
-***Having considered the virtues and gifts, which incline us to acting well, in this part the Master considers the precepts of the law, whereby we are directed to the acts of the virtues and gifts. Now, this is divided into two parts:***
+Having considered the virtues and gifts, which incline us to acting well, in this part the Master considers the precepts of the law, whereby we are directed to the acts of the virtues and gifts. Now, this is divided into two parts:  
 
 in the first, he considers the eight first commandments, which in a certain way look to actions;  
 
@@ -66,7 +68,7 @@ Article 1
 
 ***Whether it was necessary that a written law be given***
 
-***To the first we proceed thus. It appears that it was not necessary that a written law be given, especially one concerning these ten precepts.***
+To the first we proceed thus. It appears that it was not necessary that a written law be given, especially one concerning these ten precepts.  
 
 Obj. 1: For no science collects in writing those things that are naturally written in the speculative intellect; rather, each man makes use of them as much as he needs to. But these ten precepts are naturally written in the practical intellect of each man. Therefore it was not necessary that they be put in writing.  
 
@@ -102,7 +104,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-***To the second we proceed as follows.Parallels: *ST* I-II.100.7; II-II.122. It seems that the precepts of the Decalogue are not fittingly assigned.***
+To the second we proceed as follows.Parallels: *ST* I-II.100.7; II-II.122. It seems that the precepts of the Decalogue are not fittingly assigned.  
 
 Obj. 1: For the precepts of the law are ordered toward merit. But merit consists in a certain action. Therefore, since no action is asserted in negative precepts—action is only denied—it appears that the precepts of the Decalogue should not be assigned by negation.  
 
@@ -116,7 +118,7 @@ Obj. 5: Furthermore, a reward is owed for the observance of all the precepts. Bu
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that there should not be ten precepts of the law.Parallels: *ST* I-II.100.5; *SCG* III.120 and 128; *De caritate*, a. 7, ad 10; *Super Rom*. 13, lect. 2. For, as it is said in a Gloss on Matthew 6, *it is in the prayers so that the gifts might be obtained, in the gifts so that the commandments might be fulfilled, and in the commandments that we might attain the beatitudes*.source But prayers, and even the gifts, and likewise even the beatitudes are in a certain way seven. Therefore the commandments of the law should also be only seven.***
+Obj. 1: Moreover, it appears that there should not be ten precepts of the law.Parallels: *ST* I-II.100.5; *SCG* III.120 and 128; *De caritate*, a. 7, ad 10; *Super Rom*. 13, lect. 2. For, as it is said in a Gloss on Matthew 6, *it is in the prayers so that the gifts might be obtained, in the gifts so that the commandments might be fulfilled, and in the commandments that we might attain the beatitudes*.source But prayers, and even the gifts, and likewise even the beatitudes are in a certain way seven. Therefore the commandments of the law should also be only seven.  
 
 Obj. 2: Furthermore, *he who loves his neighbor has fulfilled the law* (Rom 13:8). But the intention of the lawgiver in all his precepts is that the law be fulfilled. Therefore it was sufficient that only one precept be given, namely, the love of neighbor.  
 
@@ -130,7 +132,7 @@ Furthermore (6), according to the Philosopher in the *Ethics* 2,Aristotle, *Nico
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that the precepts are badly ordered.Parallels: *ST* I-II.100.6; II-II.122. For as Gregory says,Gregory the Great, *Corpus praefationum latinarum ab aetate patrum usque ad saeculum XX-um compositarum*), pref. 1322 (CCSL 161C:404; PL 78:31). from visible things we are carried to the love of invisible things. But the precepts of the second tablet order one to the love of neighbor, whom we see, while the precepts of the first tablet order one to the love of God, who is invisible. Therefore the precepts of the second tablet should have been put first.***
+Obj. 1: Moreover, it appears that the precepts are badly ordered.Parallels: *ST* I-II.100.6; II-II.122. For as Gregory says,Gregory the Great, *Corpus praefationum latinarum ab aetate patrum usque ad saeculum XX-um compositarum*), pref. 1322 (CCSL 161C:404; PL 78:31). from visible things we are carried to the love of invisible things. But the precepts of the second tablet order one to the love of neighbor, whom we see, while the precepts of the first tablet order one to the love of God, who is invisible. Therefore the precepts of the second tablet should have been put first.  
 
 Obj. 2: Furthermore, something is in one’s heart before it is in one’s doing of the deed. But the third precept of the first tablet appears to pertain to the heart, and the second precept to speech, and the first to an exterior deed, because it pertains to the act of latria. Therefore they are unfittingly ordered.  
 
@@ -138,7 +140,7 @@ Obj. 3: Furthermore, according to Boethius,Boethius, *Consolation of Philosophy*
 
 Response to Quaestiuncula 1  
 
-***I answer that, because the intention of a lawgiver is to lead to the virtues the men to whom he gives a law, in the assigning of the precepts of a law he must use that mode that fits the path to virtue. And this, of course, is that, from the things that they are more ready to do, he draw them into the more difficult things, just as also in learning one advances from things more known to things less known.***
+I answer that, because the intention of a lawgiver is to lead to the virtues the men to whom he gives a law, in the assigning of the precepts of a law he must use that mode that fits the path to virtue. And this, of course, is that, from the things that they are more ready to do, he draw them into the more difficult things, just as also in learning one advances from things more known to things less known.  
 
 And therefore in these ten precepts, which are, as it were, the first beginnings of the law, the lawgiver forbade or commanded those things that first occur to one heading toward virtue as things to be done or things to be set aside; and from these things he wanted other things to be understood that are included in them as in their principles. And on account of this he placed in it more negatives than affirmatives, since one is more ready, and it is easier, to set aside evils than it is to bring to perfection things that are good. Also, among the evils, it forbade those that are right away on their face seen to be detestable, and likewise among the goods, it commanded those goods that everyone manifestly ought to do.  
 
@@ -154,7 +156,7 @@ Reply Obj. 5: The fourth precept appears to partake most of obligation, natural 
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the civil law directs a man by its precepts in his interactions relative to others according to political life; and this can only be of man in relation to man. For those extending the praise of the political life to the gods appear laughable, as is said in the *Ethics* 10.Aristotle, *Nicomachean Ethics* 10.8, 1178b10‒13. But the divine law directs us by its precepts in the spiritual life, in virtue of which we have society not only with man but even with God (1 John 1:3). And this is why it was necessary that the precepts of the divine law be distinguished in this way, such that some might direct man in things that look to God, which are called the precepts of the first tablet, and some might direct man in things that look to his neighbor, which are called the precepts of the second tablet.***
+To the second question, it should be said that the civil law directs a man by its precepts in his interactions relative to others according to political life; and this can only be of man in relation to man. For those extending the praise of the political life to the gods appear laughable, as is said in the *Ethics* 10.Aristotle, *Nicomachean Ethics* 10.8, 1178b10‒13. But the divine law directs us by its precepts in the spiritual life, in virtue of which we have society not only with man but even with God (1 John 1:3). And this is why it was necessary that the precepts of the divine law be distinguished in this way, such that some might direct man in things that look to God, which are called the precepts of the first tablet, and some might direct man in things that look to his neighbor, which are called the precepts of the second tablet.  
 
 Now, man is ordered to God in three ways. In one way, by the meditation of the heart, as is said in Psalm 46:10: *be still, and know that I am God*. And the third precept—that is, keeping holy the Sabbath—directs one toward this, in that a certain time is picked to be vacated for divine things, by one ceasing from all things that might disturb this leisure. In another way, through the reverence of the mouth that occurs when he is praised and his name is spoken with reverence. And because it happens that one takes an oath in reverence of the divine name before he renders the praise owed to God, thus in the second precept is placed, *you shall not take the name of your God in vane*. Third, so that one might show the appropriate service in one’s actions, which is called “latria,” the first precept is ordered toward this act in a similar way, by the forbidding of its contrary: *you shall not have alien gods*.  
 
@@ -174,7 +176,7 @@ Reply Sed Contra 6: It was not necessary that the acts of all the virtues be com
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the precepts of the Decalogue are ordered according to the things that first and principally arise as needing to be done or avoided. And because in the spiritual life—for the direction of which the Decalogue is given—the notion of action is God as its end, therefore the precepts ordered to God are placed first. Among these, an order is considered such that that precept is placed prior whose contrary is more distant from God, since we approach God gradually, by departing from things more removed from him. And this is why the precept that forbids a contrary worship, whereby a man as it were totally moves away from God, is placed before the precept that forbids irreverence in taking the divine name in vane. And last is placed the precept about the heart’s rest in God, wherein a man comes closest to God.***
+To the third question, it should be said that the precepts of the Decalogue are ordered according to the things that first and principally arise as needing to be done or avoided. And because in the spiritual life—for the direction of which the Decalogue is given—the notion of action is God as its end, therefore the precepts ordered to God are placed first. Among these, an order is considered such that that precept is placed prior whose contrary is more distant from God, since we approach God gradually, by departing from things more removed from him. And this is why the precept that forbids a contrary worship, whereby a man as it were totally moves away from God, is placed before the precept that forbids irreverence in taking the divine name in vane. And last is placed the precept about the heart’s rest in God, wherein a man comes closest to God.  
 
 Moreover, in the precepts of the second tablet a similar order is observed—namely, such that first is placed that precept that arises first in good interactions. And because a man’s ordination to those in his own house is prior to that to those outside it, so the precept about honoring one’s parents is placed before the others that pertain to all men in common, in which latter are also placed first the prohibitions of things that arise principally in need of avoidance. Now, for those striving toward virtue, harm in one’s action needs to be avoided prior to harm in one’s speech, and that in one’s speech prior to that in one’s heart. And therefore the forbidding of murder comes before the forbidding of adultery, which comes before the forbidding of theft—and these three prohibitions come before the forbidding of false witness; and last is placed the forbidding of desire, wherein right away consists the perfection of virtue.  
 
@@ -184,7 +186,7 @@ Article 3
 
 ***Whether all the precepts of the law are ordered to these ten***
 
-***To the third we proceed thus.Parallels: *ST* I-II.100.3; II-II.122.6.ad 2; *De malo*, q. 14, a. 2, ad 14; *Quodl.* VII, q. 7, a. 1, ad 8. It appears that not all the precepts of the law trace back to these ten.***
+To the third we proceed thus.Parallels: *ST* I-II.100.3; II-II.122.6.ad 2; *De malo*, q. 14, a. 2, ad 14; *Quodl.* VII, q. 7, a. 1, ad 8. It appears that not all the precepts of the law trace back to these ten.  
 
 Obj. 1: For because these precepts contain the natural law, they could only be traced back to them if they come from the natural law. But some things are forbidden in the law that appear in no way to come from the natural law, things for which it makes no difference whether it be this way or that way, before they have been settled by law, such as that a goat or a bull is sacrificed; and the Philosopher also says this in the *Ethics* 5.Aristotle, *Nicomachean Ethics* 5.7, 1134b22. Therefore not all precepts of the law are traced back to these ten.  
 
@@ -230,7 +232,7 @@ Article 4
 
 ***Whether the precepts of the Decalogue admit of dispensation***
 
-***To the fourth we proceed thus.Parallels: *In I Sent.*, d. 47, a. 4; *ST* I-II.94.5.ad 2; 100.8; II-II.104.5.ad 2; *De malo*, q. 3, a. 1, ad 17; q. 15, a. 1, ad 8. It appears that the precepts of the Decalogue admit of dispensation.***
+To the fourth we proceed thus.Parallels: *In I Sent.*, d. 47, a. 4; *ST* I-II.94.5.ad 2; 100.8; II-II.104.5.ad 2; *De malo*, q. 3, a. 1, ad 17; q. 15, a. 1, ad 8. It appears that the precepts of the Decalogue admit of dispensation.  
 
 Obj. 1: For according to the Philosopher, in human actions, on account of their variety, one cannot find a single common rule that would not necessarily fail in certain cases, according to a likeness with building on Lesbos.See Aristotle, *Nicomachean Ethics* 5.10. 1137b30. It is thought that in Lesbos the builders would use a flexible leaden ruler instead of a rigid one, to accommodate it to each thing in need of measurement.  But the precepts of the law are the measure of human actions. Therefore, since every precept that in certain cases must be suspended admits of dispensation, it appears that all the precepts of the law admit of dispensation.  
 
@@ -268,7 +270,7 @@ Article 5
 
 ***Quaestiuncula 1***
 
-***To the fifth we proceed thus.Parallels: *ST* I-II.100.5.ad 2; II-II.122.4; *De decem praeceptis*, a. 3; *Super Isaiam* 56; *Super Col*. 2, lect. 4. It appears that it was unfitting to command the observance of the Sabbath.***
+To the fifth we proceed thus.Parallels: *ST* I-II.100.5.ad 2; II-II.122.4; *De decem praeceptis*, a. 3; *Super Isaiam* 56; *Super Col*. 2, lect. 4. It appears that it was unfitting to command the observance of the Sabbath.  
 
 Obj. 1: For the Sabbath is a seventh part of a man’s entire life. But it appears to be rather unreasonable for a man set aside the seventh part of his life for leisure, as Seneca says when deriding the ceremonies of the Jews, as Augustine recounts in the *City of God*.Augustine, *The City of God*, bk. 6, ch. 11 (CCSL 47; PL 41:192). Therefore it was unreasonable to command the observance of the Sabbath.  
 
@@ -282,7 +284,7 @@ Furthermore, for men living by the spiritual life the greatest care should be sh
 
 Quaestiuncula 2  
 
-***Obj. 1: Moreover, it appears that the precept about observing the Sabbath was simply speaking a moral precept. For things that fit in one division appear to have one notion. But the precept about observing the Sabbath is in the same division as the Decalogue’s other precepts, which are moral precepts of the law of nature. Therefore the Sabbath precept is moral.***
+Obj. 1: Moreover, it appears that the precept about observing the Sabbath was simply speaking a moral precept. For things that fit in one division appear to have one notion. But the precept about observing the Sabbath is in the same division as the Decalogue’s other precepts, which are moral precepts of the law of nature. Therefore the Sabbath precept is moral.  
 
 Obj. 2: Furthermore, on Luke 13:14, *there are six days on which work ought to be done*, the Gloss says, *the law forbids on the Sabbath not that a man cure, but that he do servile works—that is, be weighed down by sins*.*Glossa Ordinaria* (PL 114:303). But becoming empty of sin is a moral precept. Therefore so too is the precept about observance of the Sabbath.  
 
@@ -294,7 +296,7 @@ Furthermore, a Gloss on Leviticus 26 says, *the Sabbath commandment, even though
 
 Quaestiuncula 3  
 
-***Obj. 1: Moreover, it appears that it should not cease in the time of grace. For as the saints and masters say, using incense did not cease, because it signifies something that one should always do, namely, be devoted in prayer. But the observance of the Sabbath signifies rest in God, as Augustine says, commenting on Exodus 31Augustine, *Enarrationes in Psalmos*, Ps 32, enar. 2, serm. 1, para. 6 (CCSL 38; PL 36:281); *Quaestionum in heptateuchum libri septem*, bk. 2, q. 139 (CCSL 33; PL 34:643).—and this too one should always do. Therefore it should not cease in the time of grace.***
+Obj. 1: Moreover, it appears that it should not cease in the time of grace. For as the saints and masters say, using incense did not cease, because it signifies something that one should always do, namely, be devoted in prayer. But the observance of the Sabbath signifies rest in God, as Augustine says, commenting on Exodus 31Augustine, *Enarrationes in Psalmos*, Ps 32, enar. 2, serm. 1, para. 6 (CCSL 38; PL 36:281); *Quaestionum in heptateuchum libri septem*, bk. 2, q. 139 (CCSL 33; PL 34:643).—and this too one should always do. Therefore it should not cease in the time of grace.  
 
 Obj. 2: Furthermore, the observance of the Sabbath was ordered to the greatest perfection—namely, making space for divine contemplation. But the state of grace is more perfect than the state of the law. Therefore much more so should this be observed in this state than in that.  
 
@@ -310,7 +312,7 @@ Furthermore, Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 4, ch. 2
 
 Response to Quaestiuncula 1  
 
-***I answer that the precept about the sacrifices had a certain moral cause, not simply speaking, but according to a congruence with those to whom the law was given, who were prone to idolatry, so that they might offer to God what they would otherwise have offered to idols. And it also had another, mystical cause: namely, to signify the sacrifice of the Passion of the Christ. In the same way, so too the precept about the observance of the Sabbath had a certain moral cause, due to a condition of those to whom the law was given, who, on account of the avarice so deeply established in them, occupied both themselves and those subject to them with servile works, which thoroughly drew their minds away from divine things; Damascene is touching on this cause. And likewise, because they too were prone to the errors of the nations, the observance of the Sabbath was appointed for them, so that they would always hold before their eyes the creation of the world, and thus would recall God and fear him; Rabbi Moses is touching on this cause.***
+I answer that the precept about the sacrifices had a certain moral cause, not simply speaking, but according to a congruence with those to whom the law was given, who were prone to idolatry, so that they might offer to God what they would otherwise have offered to idols. And it also had another, mystical cause: namely, to signify the sacrifice of the Passion of the Christ. In the same way, so too the precept about the observance of the Sabbath had a certain moral cause, due to a condition of those to whom the law was given, who, on account of the avarice so deeply established in them, occupied both themselves and those subject to them with servile works, which thoroughly drew their minds away from divine things; Damascene is touching on this cause. And likewise, because they too were prone to the errors of the nations, the observance of the Sabbath was appointed for them, so that they would always hold before their eyes the creation of the world, and thus would recall God and fear him; Rabbi Moses is touching on this cause.  
 
 Not withstanding, it also had a mystical cause in three ways. One was allegorical—for signifying Christ’s rest in the tomb. The second was moral—for signifying the rest of the human mind from sins and from all other things in which it does not find rest, other than in God, in whom alone there is rest. The third was anagogical—for signifying the eternal rest whereby the saints rest in glory. And therefore the institution of the Sabbath was fitting for that time.  
 
@@ -322,7 +324,7 @@ Reply Obj. 3: Sometimes the act of one virtue must be interrupted for the act of
 
 Response to Quaestiuncula 2  
 
-***To the second question, it should be said that the precept about observing the Sabbath is in a certain respect moral, in a certain respect ceremonial, and in a certain respect can even be called judicial. For in reference to that [part] of it that natural reason dictates, it is a moral precept—namely, such that man vacates a certain time for contemplation. But the assignment of the time to be so vacated does not come from a dictate of natural law, so it is not a moral precept. But insofar as it has a signification as a [final] cause, in this way it is ceremonial. But insofar as the precept has as its cause the condition of the people who were to be subject to it, in this way it is judicial.***
+To the second question, it should be said that the precept about observing the Sabbath is in a certain respect moral, in a certain respect ceremonial, and in a certain respect can even be called judicial. For in reference to that [part] of it that natural reason dictates, it is a moral precept—namely, such that man vacates a certain time for contemplation. But the assignment of the time to be so vacated does not come from a dictate of natural law, so it is not a moral precept. But insofar as it has a signification as a [final] cause, in this way it is ceremonial. But insofar as the precept has as its cause the condition of the people who were to be subject to it, in this way it is judicial.  
 
 Reply Obj. 1: It is numbered with the other precepts of the Decalogue insofar as it has something of the notion of a moral precept.  
 
@@ -332,7 +334,7 @@ Reply Obj. 3: Those causes are only moral when one considers the condition of th
 
 Response to Quaestiuncula 3  
 
-***To the third question, it should be said that the observance of the Sabbath, with respect to what it has of the natural law, insofar as it is a moral precept, has not ceased in the time of grace—indeed, it has been fulfilled more perfectly, as is the case with the other moral precepts. This is why the Apostle, in 1 Corinthians 7, gives the counsel about virgins so that, being without concerns, they might always think about the things of God. But the assignment of the day or time, which did not pertain to the moral law, has ceased with the advent of the state of grace, as do other things pertaining to the law too.***
+To the third question, it should be said that the observance of the Sabbath, with respect to what it has of the natural law, insofar as it is a moral precept, has not ceased in the time of grace—indeed, it has been fulfilled more perfectly, as is the case with the other moral precepts. This is why the Apostle, in 1 Corinthians 7, gives the counsel about virgins so that, being without concerns, they might always think about the things of God. But the assignment of the day or time, which did not pertain to the moral law, has ceased with the advent of the state of grace, as do other things pertaining to the law too.  
 
 Reply Obj. 1: The observance of the Sabbath, insofar as it is ceremonial, signifies principally Christ’s rest in the tomb, and consequently the rest that we have through him, having been buried with him through baptism into death (Rom 6:4). Whence, upon the coming of the truth, the figure ceased. And this is not like using incense, which is not principally a sign of something to come, but of what ought always to be so.  
 
@@ -346,7 +348,7 @@ Article 6
 
 ***Whether usury is a sin***
 
-***To the sixth we proceed thus.Parallels: *ST* I-II.105.3.ad 3; II-II.78.1; *De malo*, q. 13, a. 4; *Quodl.* III, q. 7, a. 2; *De decem praeceptis,* a. 7; *Sent. Politic.* I, lect. 8. It appears that usury is not a sin.***
+To the sixth we proceed thus.Parallels: *ST* I-II.105.3.ad 3; II-II.78.1; *De malo*, q. 13, a. 4; *Quodl.* III, q. 7, a. 2; *De decem praeceptis,* a. 7; *Sent. Politic.* I, lect. 8. It appears that usury is not a sin.  
 
 Obj. 1: For nothing is a sin unless it is against some moral precept, whereas the ceremonial and judicial precepts of the Mosaic law do not obligate us. But the precept about not committing usury is not a moral precept. For the moral precepts obligate as regards all things and to all men, but in Deuteronomy 23:19–20, it is granted to the Jews that they may lend at interest to foreigners, but not to their neighbors. Therefore usury is not a sin.  
 
@@ -388,7 +390,7 @@ Reply Obj. 6: One who pays the interest and receives the loan out of necessity d
 
 Exposition of the text  
 
-****Origen says these are two commandments*.*Sent.* III, 37.1(138).2. Just as Origen divides the first commandment into two, so too the last two commandments, about the forbidding of desire, he joins into one. And thus precepts do not exceed ten.***
+*Origen says these are two commandments*.*Sent.* III, 37.1(138).2. Just as Origen divides the first commandment into two, so too the last two commandments, about the forbidding of desire, he joins into one. And thus precepts do not exceed ten.  
 
 *An idol is nothing in the world*.*Sent*. III, 37.2(139).1, quoting 1 Cor 8:4. This can be understood in many ways. In one way, insofar as an idol is a likeness, and thus Origen explains that an idol is called “nothing” because it is not a likeness of anything in the world. In other way, it can be understood of the idol insofar as it is itself a definite thing, and this is in two ways: in one way, with respect to the form that is thought to be in the idol but is not in fact in it, namely the form of Godhead. In another way, with respect to its effect, namely, because it leads to sin, which is a nothing.  
 

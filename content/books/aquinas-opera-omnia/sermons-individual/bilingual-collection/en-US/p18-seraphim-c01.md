@@ -1,5 +1,7 @@
 # Sermon
 
+Among all religions and sects the Christian faith rejoices in this privilege that it contains very much that surpasses the natural and the rational, that is, what is beyond reason, more than other religions. The reason for this is that in this faith some most excellent things have been promised which exceed not only our understanding, but even the very desire of a rational creature.Cf. *ST* I-II.114.2, resp. Hence the Apostle says that *eye has not seen, and ear has not heard, neither did it come up in the heart of a man, what God has prepared for those who love him* (1 Cor 2:9).Cf. *ST* I-II.5.5 (happiness) and I-II.62.3 (theological virtues of faith, hope, and love), I-II.114.2 (eternal life).  
+
 And therefore, in accordance with the fitness of what has been promised, the excellence of the things to be believed is in the Christian faith. Whereas in the Old Law earthly and carnal things are promised, as we read in Isaiah 1:19: *if you are willing and listen to me, you will eat the goods of the earth*.Cf. *ST* I-II.99.6, s.c.; resp. And because of this it was not necessary that in the Old Law the revelation of things that exceed the reason be revealed explicitly, although implicitly and in a certain hidden way many things that exceed the reason were handed down in it.Even the Incarnation; cf. *ST* I.73.1, obj. 3.  
 
 And this is what the Lord says in today’s Gospel: *when I spoke to you about earthly things, you have not believed me, how then would you believe me if I spoke to you about heavenly things?* (John 3:12).  

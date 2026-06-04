@@ -1,5 +1,7 @@
 # On God
 
+***Quaestio 1***
+
 ***Quantum ad naturam divinam***
 
 ***Quaesitum est de Deo, angelo et homine.***
@@ -8,9 +10,9 @@ De Deo quaesitum est et quantum ad divinam naturam et quantum ad naturam humanam
 
 Articulus unicus  
 
-***Utrum beatus Benedictus in visione qua vidit totum mundum divinam essentiam viderit***
+Utrum beatus Benedictus in visione qua vidit totum mundum divinam essentiam viderit  
 
-***Quantum ad divinam naturam quaesitum est utrum beatus Benedictus in visione qua vidit totum mundum divinam essentiam viderit? Et ostendebatur quod sic.***
+Quantum ad divinam naturam quaesitum est utrum beatus Benedictus in visione qua vidit totum mundum divinam essentiam viderit? Et ostendebatur quod sic.  
 
 Dicit enim Gregorius, de hac visione loquens: a*nimae videnti* Deum *angusta* fit *omnis creatura*; sed videre Deum est videre divinam essentiam; ergo beatus Benedictus vidit divinam essentiam.  
 

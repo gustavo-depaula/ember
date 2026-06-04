@@ -1,10 +1,12 @@
 # C. 15 - The Gospel for Both Jews and Gentiles
 
+***The Gospel for Both Jews and Gentiles***
+
 ***Lecture 1***
 
 ***The strong should bear the infirmity of the weak***
 
-***^15:1^ Now, we who are stronger ought to bear the infirmities of the weak and not to please ourselves. [n. 1142]***
+^15:1^ Now, we who are stronger ought to bear the infirmities of the weak and not to please ourselves. [n. 1142]  
 
 > ^15:2^ Let every one of you please his neighbor unto good, unto edification. [n. 1143]
 
@@ -144,7 +146,7 @@ Lecture 2
 
 ***Paul is the apostle to the gentiles***
 
-***^15:14^ And I myself also, my brethren, am assured of you that you also are full of love, replenished with all knowledge, so that you are able to admonish one another. [n. 1163]***
+^15:14^ And I myself also, my brethren, am assured of you that you also are full of love, replenished with all knowledge, so that you are able to admonish one another. [n. 1163]  
 
 > ^15:15^ But I have written to you, brethren, more boldly in some sort, as it were putting you in mind, because of the grace [n. 1165] which was given me by God, [n. 1167]
 
@@ -260,7 +262,7 @@ Lecture 3
 
 ***Why Paul postponed his visit to the Romans***
 
-***^15:22^ For which cause also I was hindered very much from coming to you and have been prevented until now. [n. 1178]***
+^15:22^ For which cause also I was hindered very much from coming to you and have been prevented until now. [n. 1178]  
 
 > ^15:23^ But now, having no more place in these countries and having a great desire these many years past to come unto you, [n. 1180]
 

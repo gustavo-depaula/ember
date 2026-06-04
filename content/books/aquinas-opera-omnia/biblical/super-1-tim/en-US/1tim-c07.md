@@ -1,10 +1,12 @@
 # C. 6 - Dangers of Riches
 
+***Dangers of Riches***
+
 ***Lecture 1***
 
 ***Servants and rich men***
 
-***^6:1^ Whoever are servants under the yoke, let them count their masters worthy of all honor; lest the name of the Lord and his doctrine be blasphemed. [n. 232]***
+^6:1^ Whoever are servants under the yoke, let them count their masters worthy of all honor; lest the name of the Lord and his doctrine be blasphemed. [n. 232]  
 
 > ^6:2^ But those who have believing masters, let them not despise them, because they are brethren; but rather let them serve them, because they are faithful and beloved, who are partakers of the benefit. These things teach and exhort. [n. 234]
 
@@ -128,7 +130,7 @@ Lecture 2
 
 ***Danger of money***
 
-***^6:9^ For those who will to become rich fall into temptation and into the snare of the Devil and into many unprofitable and hurtful desires, which drown men into destruction and perdition. [n. 247]***
+^6:9^ For those who will to become rich fall into temptation and into the snare of the Devil and into many unprofitable and hurtful desires, which drown men into destruction and perdition. [n. 247]  
 
 > ^6:10^ For the desire of money is the root of all evils; which some coveting, have erred from the faith and have entangled themselves in many sorrows. [n. 250]
 
@@ -238,7 +240,7 @@ Lecture 3
 
 ***Coming of Christ***
 
-***^6:15^ Which in his times he shall show, who is the Blessed and only Mighty, the King of kings and Lord of lords: [n. 262]***
+^6:15^ Which in his times he shall show, who is the Blessed and only Mighty, the King of kings and Lord of lords: [n. 262]  
 
 > ^6:16^ Who alone has immortality and inhabits light inaccessible: whom no man has seen, nor can see: to whom be honor and empire everlasting. Amen. [n. 268]
 
@@ -304,7 +306,7 @@ Lecture 4
 
 ***Final admonitions***
 
-***^6:17^ Charge the rich of this world not to be highminded nor to trust in the uncertainty of riches, but in the living God (who gives us abundantly all things to enjoy) [n. 272]***
+^6:17^ Charge the rich of this world not to be highminded nor to trust in the uncertainty of riches, but in the living God (who gives us abundantly all things to enjoy) [n. 272]  
 
 > ^6:18^ To do good, to be rich in good work, to give easily, to communicate to others, [n. 277]
 

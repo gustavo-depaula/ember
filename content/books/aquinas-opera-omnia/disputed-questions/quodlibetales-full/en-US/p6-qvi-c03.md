@@ -1,5 +1,7 @@
 # On Man
 
+***On Spiritual Things***
+
 ***On Sacraments***
 
 ***Question 3***
@@ -30,7 +32,7 @@ Article 1
 
 ***On the necessity of baptism***
 
-***To the first we proceed thus. It seems that a boy who is born in the desert can, without baptism, be saved in the faith of his parents.***
+To the first we proceed thus. It seems that a boy who is born in the desert can, without baptism, be saved in the faith of his parents.  
 
 Obj. 1: For faith is not of lesser efficacy in the time of grace than in the time of the law of nature. But in the time of the law of nature boys were saved in the faith of their parents, as Gregory says.Cf. above: *Quodlibet II*, q. 4, a. 2, resp. Therefore, the same is true now in the time of grace.  
 
@@ -54,7 +56,7 @@ Article 2
 
 ***On the impediment to matrimony which arises out of baptism***
 
-***To the second we proceed thus. It seems there cannot be matrimony between a Christian man and a Jewish woman baptized by him, whom he knew carnally after having given promise that he would contract.***
+To the second we proceed thus. It seems there cannot be matrimony between a Christian man and a Jewish woman baptized by him, whom he knew carnally after having given promise that he would contract.  
 
 Obj. 1: For it is said in the *Decretum* that the son of a priest cannot take as a wife a girl whom his father has baptized (C. 30, q. 1).Rather: Gratian, *Decretum*, P. 2, C. 30, q. 3, cc. 1–3, 1:1100–1101; cf. Raymond of Peñafort, *Summa de matrimonio*, cur. X. Ochoa et A. Diez (Rome: Commentarium pro religiosis, 1975), tit. 7, col. 943–44. Therefore, much less, if he himself had baptized her, could he have her as his wife. If, therefore, that Christian man baptized the Jewish woman, he cannot receive her as his wife.  
 
@@ -82,9 +84,9 @@ third, concerning what pertains to charity.Qq. 6–8.
 
 Article 1  
 
-***Whether the certainty of the adherence of a heretic or of a bad Catholic is an act of the virtue of faith itself***
+Whether the certainty of the adherence of a heretic or of a bad Catholic is an act of the virtue of faith itself  
 
-***To the first we proceed thus. It seems that the certainty of the adherence of a heretic or og a bad Catholic is an act of the virtue of faith.***
+To the first we proceed thus. It seems that the certainty of the adherence of a heretic or og a bad Catholic is an act of the virtue of faith.  
 
 Obj. 1: Because, according to the Philosopher in book two of the *Ethics*, there are three things in the soul: potency, passion, and habit.Cf. Aristotle, *Ethics* 2.5, 1105b20. But that certainty of adherence cannot be attributed to potency, since it merits either rewards or punishments, yet we do not merit rewards or punishments by potencies.Cf. Aristotle, *Ethics* 2.5, 1106a6–10, 1105b31–1106a2. Similarly, it cannot pertain to passions, because the passions pertain to the sensitive appetite, which cannot be extended to adhere to the truth divinely. Therefore, it remains that it pertains to some habit. But the habit to which the certainty of adherence pertains is the virtue of faith. Therefore, the certainty of adherence in a heretic or a bad Catholic is an act of faith itself.  
 
@@ -124,7 +126,7 @@ Article 1
 
 ***On the celebration of feasts***
 
-***To the first we proceed thus. It seems it is licit to celebrate the conception of Our Lady.***
+To the first we proceed thus. It seems it is licit to celebrate the conception of Our Lady.  
 
 Obj. 1: For if it is not licit, this is only because she was conceived in original sin. But she was not conceived in original sin, as it seems, because the Blessed Virgin was made in order that in a special way she would be *the dwelling of God*.Cf. Ephesians 2:22. Therefore, she ought to have been prepared for this specially. Yet she was not prepared specially according to the body, which was conceived out of the mingling of the sexes, nor even as regards the soul, because others also are read to have been sanctified in the womb. And thus, it remains that she was prepared specially through immunity from original sin. And thus, it is licit to celebrate her conception.  
 
@@ -142,7 +144,7 @@ Article 2
 
 ***On the discharging of offices***
 
-***About the second we proceed thus. It seems that a beneficed cleric who lives in the schools is held to say the office of the dead.***
+About the second we proceed thus. It seems that a beneficed cleric who lives in the schools is held to say the office of the dead.  
 
 Obj. 1: For he who receives someone’s temporal goods is held to recompense him in spiritual goods. But that cleric received goods which belonged to the dead. Therefore, he is held to say the office of the dead for them.  
 
@@ -156,7 +158,7 @@ Article 3
 
 ***On the giving of benefices***
 
-***To the third we proceed thus. It seems that a bishop sins in giving a benefice to a good man if he passes over a better man.***
+To the third we proceed thus. It seems that a bishop sins in giving a benefice to a good man if he passes over a better man.  
 
 Obj. 1: Because *he who goes against conscience, paves the way to Gehenna*.Gratian, *Decretum*, P. 2, C. 28, q. 1, c. 14, 1:1088. But a bishop passing over a better man seems to go against conscience. Therefore, he sins mortally, paving the way to Gehenna.  
 
@@ -170,7 +172,7 @@ Article 4
 
 ***On the paying of tithes***
 
-***To the fourth we proceed thus. It seems that a pauper is not held to pay tithes to a rich priest.***
+To the fourth we proceed thus. It seems that a pauper is not held to pay tithes to a rich priest.  
 
 Obj. 1: That tithes should be paid was instituted for the sustenance of the ministers of the Church. But a rich priest has other sources whereby he is sustained. Therefore, tithes do not have to be paid to him, and especially from a pauper.  
 
@@ -208,9 +210,9 @@ second, concerning alms.Qq. 7–8.
 
 Article 1  
 
-***Whether it is more meritorious to obey a prelate or to do something at the word of a brother***
+Whether it is more meritorious to obey a prelate or to do something at the word of a brother  
 
-***To the first we proceed thus. It seems that it is more meritorious to obey a prelate than to do something at the word of a brother.***
+To the first we proceed thus. It seems that it is more meritorious to obey a prelate than to do something at the word of a brother.  
 
 Obj. 1: For to greater merit is opposed greater demerit. But he who is disobedient to a prelate demerits more than he who does not assent to the word of a brother. Therefore, someone also merits more by obeying a prelate than assenting to the word of a brother.  
 
@@ -240,9 +242,9 @@ second, concerning alms which are made for the dead.
 
 Article 1  
 
-***Whether clerics sin mortally if they do not give away in alms what is superfluous for them***
+Whether clerics sin mortally if they do not give away in alms what is superfluous for them  
 
-***To the first we proceed thus. It seems that clerics sin mortally if they do not lavish in alms what is superfluous for them.***
+To the first we proceed thus. It seems that clerics sin mortally if they do not lavish in alms what is superfluous for them.  
 
 Obj. 1: Because, on the text: *he who has two tunics, let him give to him who does not have any* (Luke 3:11), the Gloss says: *concerning the two tunics to be divided a precept is given, because if one should be divided, no one is clothed in half a tunic, and he who receives and he who gave remain naked*.*Glossa ordinaria*, at Luke 3:11, 5.734 (PL 114:252); Bede, *On Luke*, bk. 1, ch. 3 (CCSL 120:79; PL 92:354); Gregory the Great, *On the Gospels*, bk. 1, homily 20, para. 11 (PL 76:1165). But the lavishing of one tunic is understood as the lavishing of what is superfluous to the necessity of life, as is clear through what is mentioned before in the same gloss.*Glossa interlinearis*, at Luke 3:11, in *Glossa ordinaria* 5.734. Therefore, to give superfluities is in a precept. But he who transgresses a precept sins mortally. Therefore, the one who does not give his superfluities to the poor sins mortally.  
 
@@ -274,7 +276,7 @@ Question 8
 
 ***On alms which are made for the dead***
 
-***Then there were questions concerning alms made for the dead. And about this there were two questions:***
+Then there were questions concerning alms made for the dead. And about this there were two questions:  
 
 first, whether a dead man suffers some detriment if his executor defers giving alms which in his will he commanded to be given;  
 
@@ -282,9 +284,9 @@ second, whether an executor can defer licitly the distribution of alms for this 
 
 Article 1  
 
-***Whether a dead man suffers some detriment if his executor defers giving alms which in his will he commanded to be given***
+Whether a dead man suffers some detriment if his executor defers giving alms which in his will he commanded to be given  
 
-***To the first we proceed thus. It seems that a dead man experiences no detriment from this: that the alms which he commanded to be given are delayed.***
+To the first we proceed thus. It seems that a dead man experiences no detriment from this: that the alms which he commanded to be given are delayed.  
 
 Obj. 1: For a delay of this sort arises from the negligence of the executor. But the negligence of one is not imputed to another. Therefore, the dead man suffers no detriment from a delay of this sort.  
 
@@ -300,9 +302,9 @@ Reply Obj. 1: It must be said that the negligence of one is not imputed to anoth
 
 Article 2  
 
-***Whether an executor can defer licitly the distribution of alms for this reason: that the possessions of the deceased would be better sold for his descendants***
+Whether an executor can defer licitly the distribution of alms for this reason: that the possessions of the deceased would be better sold for his descendants  
 
-***To the second we proceed thus. It seems that an executor ought to delay the distribution of alms for this reason: that the possessions of the deceased would be better sold.***
+To the second we proceed thus. It seems that an executor ought to delay the distribution of alms for this reason: that the possessions of the deceased would be better sold.  
 
 Obj. 1: Because from this it follows that he could make very many alms for the deceased, from which the deceased will be aided more. Therefore, if he defers, it seems that he does so laudably and faithfully.  
 
@@ -318,7 +320,7 @@ On sins
 
 ***On sins***
 
-***Then there were questions concerning sins. And about this there were three questions:***
+Then there were questions concerning sins. And about this there were three questions:  
 
 first, concerning original sin, namely, whether he who has been baptized transmits original sin to his offspring;  
 
@@ -330,7 +332,7 @@ Article 1
 
 ***On original sin***
 
-***To the first we proceed thus. It seems that he who has been baptized does not transmit original sin to his offspring.***
+To the first we proceed thus. It seems that he who has been baptized does not transmit original sin to his offspring.  
 
 Obj. 1: For three things can be considered in someone born, namely, body, soul, and the union of both. But he does not contract original sin according to the body, which he contracts from his parents, because his parents had been cleansed totally from original sin. Likewise, he does not contract according to the soul, which he has from the creation of God, whom sin cannot befall. And consequently, neither does he contract according to the union of both. Therefore, he who is born from the baptized in no way contracts original sin.  
 
@@ -344,7 +346,7 @@ Article 2
 
 ***On actual sin in general***
 
-***To the second we proceed thus. It seems that in actual sin aversion is prior to conversion.***
+To the second we proceed thus. It seems that in actual sin aversion is prior to conversion.  
 
 Obj. 1: For aversion implies a withdrawing from an end, yet conversion is an approach to an end.Cf. Augustine, *On Free Will* 1.16, para. 35 (CCSL 29:235; PL 32:1240); 2.19, para. 53 (CCSL 29:272; PL 32:1269). But in bodily motion withdrawing from an end is prior to approaching an end.Cf. Bonaventure, *In II Sent*., d. 42, a. 3, q. 2, fund. 4, 2:973b. Therefore, in the spiritual motion of sin aversion is also prior to conversion.  
 
@@ -358,7 +360,7 @@ Article 3
 
 ***On lying in particular***
 
-***To the third we proceed thus. It seems that it is a greater sin when someone lies by deed than when someone lies by word.***
+To the third we proceed thus. It seems that it is a greater sin when someone lies by deed than when someone lies by word.  
 
 Obj. 1: For it seems to be a greater sin when by lying someone abuses that which is more believed. But, as Anselm says in the book *On the Truth*, deeds are believed more than words.Anselm of Canterbury, *Dialogue on Truth* 9 (PL 158:478). Therefore, he sins more gravely who lies by deeds than by words.  
 
@@ -376,9 +378,9 @@ On bodily things
 
 ***Article 1***
 
-***Whether someone can be naturally or miraculously a virgin and a father simultaneously***
+Whether someone can be naturally or miraculously a virgin and a father simultaneously  
 
-***Then there was a question about the body of man, namely, whether someone can be naturally or miraculously a virgin and a father simultaneously?***
+Then there was a question about the body of man, namely, whether someone can be naturally or miraculously a virgin and a father simultaneously?  
 
 Obj. 1: And it seems that this can happen miraculously because father and mother simultaneously are principles of generation. But a woman miraculously was simultaneously a virgin and a mother. Therefore, for the same reason a man miraculously can be simultaneously a virgin and a father.  
 

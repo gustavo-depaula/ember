@@ -1,5 +1,7 @@
 # Holy Mass
 
+***Ad Introitum***
+
 ***{image 075}***
 
 ℟. Cibavit eos ex adipe frumenti, alleluia, et de petra melle saturavit eos, alleluia, alleluia, alleluia.  
@@ -40,13 +42,13 @@ Gloria in excelsis Deo.Corrigan has the musical notation for “Deo” shifted d
 
 > Oratio
 
-****Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.***
+*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.  
 
 Epistola  
 
 ***[Lectio epistolae beati Pauli apostoli] ad Corinthios [I,11:23–29]***
 
-***Fratres: ego accepi a Domino quod et tradidi vobis, quoniam Dominus noster Iesus in qua nocte tradebatur, accepit panem et gratias agens, fregit et dixit: accipite et manducate: hoc est Corpus meum, quod pro vobis tradetur. Hoc facite in meam commemorationem. Similiter et calicem, postquam coenavit, dicens: hic calix Novum Testamentum est in meo Sanguine; hoc facite quotiescumque sumetis, in meam commemorationem. Quotiescumque enim manducaveritis panem hunc, et calicem bibetis, mortem Domini annuntiabitis donec veniat. Itaque quicumque manducaverit hunc panem vel biberit calicem Domini indigne, reus erit Corporis et Sanguinis Domini. Probet autem seipsum homo, et sic de pane illo edat, et de calice bibat. Qui enim manducat et bibit indigne, iudicium sibi manducat et bibit, non diiudicans Corpus Domini.***
+Fratres: ego accepi a Domino quod et tradidi vobis, quoniam Dominus noster Iesus in qua nocte tradebatur, accepit panem et gratias agens, fregit et dixit: accipite et manducate: hoc est Corpus meum, quod pro vobis tradetur. Hoc facite in meam commemorationem. Similiter et calicem, postquam coenavit, dicens: hic calix Novum Testamentum est in meo Sanguine; hoc facite quotiescumque sumetis, in meam commemorationem. Quotiescumque enim manducaveritis panem hunc, et calicem bibetis, mortem Domini annuntiabitis donec veniat. Itaque quicumque manducaverit hunc panem vel biberit calicem Domini indigne, reus erit Corporis et Sanguinis Domini. Probet autem seipsum homo, et sic de pane illo edat, et de calice bibat. Qui enim manducat et bibit indigne, iudicium sibi manducat et bibit, non diiudicans Corpus Domini.  
 
 > Gradualis
 
@@ -186,7 +188,7 @@ Contra *Laudes crucis attolamus* de sancta Cruce.
 
 ***secundum Ioannem [Io 6:55–58]***
 
-***In illo tempore dixit Iesus [discipulis suis et] turbis Iudaeorum: Caro mea vere est cibus: et Sanguis meus vere est potus. Qui manducat meam Carnem et bibit meum Sanguinem in me manet et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem et qui manducat me, et ipse vivet propter me. Hic est panis qui de caelo descendit. Non sicut manducaverunt patres vestri manna et mortui sunt. Qui manducat hunc panem vivet in aeternum.***
+In illo tempore dixit Iesus [discipulis suis et] turbis Iudaeorum: Caro mea vere est cibus: et Sanguis meus vere est potus. Qui manducat meam Carnem et bibit meum Sanguinem in me manet et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem et qui manducat me, et ipse vivet propter me. Hic est panis qui de caelo descendit. Non sicut manducaverunt patres vestri manna et mortui sunt. Qui manducat hunc panem vivet in aeternum.  
 
 > Offertorium
 
@@ -198,13 +200,13 @@ Contra *Confirma hoc Deus* de Sancto Spiritu.
 
 ***Secreta***
 
-***Ecclesiae tuae, quaesumus, Domine, unitatis et pacis propitius dona concede, quae sub oblatis muneribus mystice designantur. Per Dominum nostrum [Iesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.]***
+Ecclesiae tuae, quaesumus, Domine, unitatis et pacis propitius dona concede, quae sub oblatis muneribus mystice designantur. Per Dominum nostrum [Iesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.]  
 
 Praefatium  
 
 ***[de Nativitate Domini]***
 
-***[Vere dignum et iustum est, aequum et salutare, nos tibi semper et ubique gratias agere. Domine sancte, Pater] omnipotens, aeterne Deus. Quia per incarnati Verbi mysterium, nova mentis nostrae oculis lux tuae claritatis infulsit. Ut, dum visibiliter Deum cognoscimus, per hunc in invisibilium amorem rapiamur. Et ideo cum angelis et archangelis, cum thronis et dominationibus, cumque omni militia caelestis exercitus, hymnum gloriae tuae canimus, sine fine dicentes.***
+[Vere dignum et iustum est, aequum et salutare, nos tibi semper et ubique gratias agere. Domine sancte, Pater] omnipotens, aeterne Deus. Quia per incarnati Verbi mysterium, nova mentis nostrae oculis lux tuae claritatis infulsit. Ut, dum visibiliter Deum cognoscimus, per hunc in invisibilium amorem rapiamur. Et ideo cum angelis et archangelis, cum thronis et dominationibus, cumque omni militia caelestis exercitus, hymnum gloriae tuae canimus, sine fine dicentes.  
 
 Sanctus  
 
@@ -236,4 +238,4 @@ Contra *Factus est repente* de Sancto Spiritu.
 
 ***Postcommunio***
 
-***Fac nos, quaesumus, Domine, divinitatis tuae sempiterna fruitione repleri, quam pretiosi Corporis et Sanguinis tui temporalis perceptio praefigurat. Qui vivis [et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.***
+Fac nos, quaesumus, Domine, divinitatis tuae sempiterna fruitione repleri, quam pretiosi Corporis et Sanguinis tui temporalis perceptio praefigurat. Qui vivis [et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.

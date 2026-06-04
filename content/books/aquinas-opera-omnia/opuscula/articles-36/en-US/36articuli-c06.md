@@ -1,5 +1,7 @@
 # Article 5
 
+In the fifth article, the question is raised whether an angel by its power is able to move the whole mass of the earth even to the sphere of the moon. For a parallel article, see *De 43 articulis,* a. 17.  
+
 It seems to me this ought not to be asserted. For the powers of creatures only extends to natural effects. Therefore, the angels are able to move the celestial bodies inasmuch as the motion is in accordance with their nature. They are not, however, able to move the other motions by their own power (although this can be done by divine miracle).  
 
 Now it is able to to occur, not only by the power of an angel but also by the power of man, that some part of the earth could be carried above by force; but I do not believe the angelic power is able to place one element outside of its order in its entirety. And the fact that the power of an an angel is infinite in relation to inferior things See *Liber de Causis,* prop. 16, also quoted in *Summa Theologiae,* I, q. 50, a. 2 ad 4, *De Potentia,* q. 6, a. 3 obj. 9 and *De Malo,* q. 16 a. 9 obj. 8 and commented upon in Thomas' commentary (*Commentary on the Book of Causes*, trans. Vincent A. Guagliardo, Charles R. Hess, and Richard C. Taylor (Washington, DC: The Catholic University of America Press, n.d.), 103). is not to be understood as if it were not determined to specific effects, but that it is not subject to weariness or defect in its effects.

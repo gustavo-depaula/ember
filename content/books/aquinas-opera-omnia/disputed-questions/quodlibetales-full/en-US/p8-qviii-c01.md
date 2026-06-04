@@ -1,5 +1,7 @@
 # On Things Pertaining to Nature
 
+***On things pertaining to uncreated nature***
+
 ***Question 1***
 
 ***On things pertaining to uncreated nature***
@@ -26,7 +28,7 @@ second, concerning the ideal notions which are in the divine mind, whether they 
 
 Article 1  
 
-***Whether the number six, according to which all creatures are said to be perfect, is creator or creature***
+Whether the number six, according to which all creatures are said to be perfect, is creator or creature  
 
 ***To the first we proceed thus. It seems that the aforesaid six is creator.***
 
@@ -62,7 +64,7 @@ Article 2
 
 ***On the ideal notions which are in the divine mind***
 
-***To the second we proceed thus. It seems that the ideas in the divine mind first apply things in their singular nature before the nature of their species.***
+To the second we proceed thus. It seems that the ideas in the divine mind first apply things in their singular nature before the nature of their species.  
 
 Obj. 1: Because, as Augustine says in the *Book of Eighty-Three Questions*: *ideas are certain forms or stable reasons of things which are contained by the divine intelligence; and although one neither comes to be nor perishes, nevertheless everything is said to be formed according to these which can come to be and perish, and everything which comes to be and perishes*.Augustine, *Book of Eighty-Three Different Questions*, q. 46, para. 2 (CCSL 44A:71; PL 40:30). But a singular is that which comes to be and perishes, that is, which is generated and corrupted. Therefore, the ideas first apply the singular.  
 
@@ -98,9 +100,9 @@ second, how charity or any other habit is known by someone who does not have it.
 
 Article 1  
 
-***Whether the soul receives the species by which it knows from things outside the soul***
+Whether the soul receives the species by which it knows from things outside the soul  
 
-***To the first we proceed thus. It seems that the soul does not receive species from things outside the soul. Cf. Aquinas, *Disputed Questions on Truth*, q. 10, a. 6.***
+To the first we proceed thus. It seems that the soul does not receive species from things outside the soul. Cf. Aquinas, *Disputed Questions on Truth*, q. 10, a. 6.  
 
 Obj. 1: For Augustine says, in the twelfth book of *On the Literal Meaning of Genesis*: *not a body in the spirit, but the spirit itself makes an image of a body in its own self with wondrous quickness*.Augustine, *On the Literal Interpretation of Genesis* 12.16 (CSEL 28:402; PL 34:467). Yet it would not make this in its own self if it received it from exterior things. Therefore, the soul does not receive the species by which it knows from things.  
 
@@ -130,7 +132,7 @@ Article 2
 
 ***How charity or any other habit is known by someone who does not have it***
 
-***To the second we proceed thus. It seems that someone who does not have charity knows it through species.***
+To the second we proceed thus. It seems that someone who does not have charity knows it through species.  
 
 Obj. 1: For everything which is known is known either through its essence or through a likeness of it. But someone without charity does not know it through its essence, because it is not essentially in him. Therefore, if it is known by someone without it, it is known through a likeness of it.  
 
@@ -178,7 +180,7 @@ Question 3
 
 ***Whether food is converted into true human nature***
 
-***Then there was a question regarding the human body: whether food is converted into true human nature?Aquinas, *Commentary on Aristotle’s On Sense and What is Sensed*, prologue, n. 2; cf. William of Auxerre, *Summa aurea*, bk. 4, tract. 18, ch. 1, q. 3, 469–76. And it seems that it is not.***
+Then there was a question regarding the human body: whether food is converted into true human nature?Aquinas, *Commentary on Aristotle’s On Sense and What is Sensed*, prologue, n. 2; cf. William of Auxerre, *Summa aurea*, bk. 4, tract. 18, ch. 1, q. 3, 469–76. And it seems that it is not.  
 
 Obj. 1: Because in the human body, true human nature is flesh or bone according to species. But food is not converted into that which is *according to species*, but into that which is *according to matter*, as the Philosopher seems to say in the first book of *On Generation*.Aristotle, *On Generation and Corruption* 1.15, 321b19–34. Therefore, food is not converted into true human nature.  
 

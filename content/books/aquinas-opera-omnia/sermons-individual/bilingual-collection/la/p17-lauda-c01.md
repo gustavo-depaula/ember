@@ -1,5 +1,7 @@
 # Sermon
 
+Sicut dicit beatus Bernardus, *ardorem desiderii patrum expectantium Christi adventum frequentissime cogitans, confundar in memet ipso*. Qui enim considerat suspiria postulantium, desideria expectantium, gaudia praedicantium Salvatoris adventum, satis potest advertere tepiditatem propriam de beneficio iam percepto ex eius adventu.  
+
 Hunc adventum postulabat Isaias cum frequenti suspirio, Isaie XVI: *emitte agnum, Domine* etc. Et alibi: *utinam disrumperes caelos* etc. Expectabat Ieremias cum multo desiderio: *novum* faciet *Dominus super terram* etc., XXXI. Praedicabat Zacharias cum ingenti gaudio sicut patet verbo praemisso.  
 
 In quo propheta tria facit.  

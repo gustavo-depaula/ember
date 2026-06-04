@@ -1,6 +1,8 @@
 # Chapter 9
 
-***^9:1^ At the first time the land of Zabulon, and the land of Nephtali was lightly touched: and at the last the way of the sea beyond the Jordan of the Galilee of the Gentiles was heavily loaded.***
+***Lecture 1***
+
+^9:1^ At the first time the land of Zabulon, and the land of Nephtali was lightly touched: and at the last the way of the sea beyond the Jordan of the Galilee of the Gentiles was heavily loaded.  
 
 > ^9:2^ The people that walked in darkness, have seen a great light: to them that dwelt in the region of the shadow of death, light is risen.
 
@@ -54,7 +56,7 @@ Fourth, as to the punishment of the enemy: and these things happen, ***for every
 
 Lecture 2  
 
-***^9:6^ For a child is born to us, and a son is given to us, and the government is upon his shoulder: and his name shall be called wonderful, counsellor, God the mighty, the father of the world to come, the prince of peace.***
+^9:6^ For a child is born to us, and a son is given to us, and the government is upon his shoulder: and his name shall be called wonderful, counsellor, God the mighty, the father of the world to come, the prince of peace.  
 
 > ^9:7^ His empire shall be multiplied, and there shall be no end of peace: he shall sit upon the throne of David, and upon his kingdom; to establish it and strengthen it in*In*. DR: “with.” judgment and with justice, from henceforth and for ever: the zeal of the Lord of hosts will perform this.
 

@@ -1,6 +1,6 @@
 # D. 4 - The effects of baptism
 
-***Postquam determinavit Magister de baptismo quantum ad ea quae conveniunt ei secundum se considerato, hic determinat de effectu baptismi per comparationem ad accipientes; et dividitur in partes duas: in prima determinat de effectu baptismi communiter quantum ad omnes; in secunda specialiter quantum ad parvulos, ibi: *solet etiam quaeri, si parvulis in baptismo datur gratia*.***
+Postquam determinavit Magister de baptismo quantum ad ea quae conveniunt ei secundum se considerato, hic determinat de effectu baptismi per comparationem ad accipientes; et dividitur in partes duas: in prima determinat de effectu baptismi communiter quantum ad omnes; in secunda specialiter quantum ad parvulos, ibi: *solet etiam quaeri, si parvulis in baptismo datur gratia*.  
 
 Prima dividitur in partes tres: in prima ostendit quomodo quidam recipiunt sacramentum et rem sacramenti; in secunda quomodo quidam sacramentum recipiunt, et non rem, ibi: *qui vero sine fide vel ficte accedunt, sacramentum, non rem suscipiunt*; in tertia quomodo quidam accipiunt rem, et non sacramentum, ibi: *sunt et alii, ut supra posuimus, qui suscipiunt rem, et non sacramentum*.  
 
@@ -31,7 +31,7 @@ primo, an sit character;
 
 ***An sit character***
 
-***Ad primum sic proceditur. Videtur quod character non sit in anima. Quia, ut in 2 *Ethic*., Philosophus dicit, omne quod est in anima, est potentia, vel passio, vel habitus. Sed character non est potentia, quia potentiae omnibus hominibus communes sunt; character autem non, cum sit distinctivum signum, sicut ipsum nomen ostendit; et praeterea potentiae sunt a natura, non autem character. Nec iterum est passio, quia passiones animae contingunt cum aliqua transmutatione corporali, ut dicitur in 1 de Anima, et pertinent ad sensitivam partem, ut dicitur 7 Physicor. Nec iterum est habitus, quia habitus ordinantur ad agendum, ut patet per definitionem Augustini: *habitus est quo quis agit, cum opus fuerit*. Ergo character collatus in baptismo, non est aliquid in anima.***
+Ad primum sic proceditur. Videtur quod character non sit in anima. Quia, ut in 2 *Ethic*., Philosophus dicit, omne quod est in anima, est potentia, vel passio, vel habitus. Sed character non est potentia, quia potentiae omnibus hominibus communes sunt; character autem non, cum sit distinctivum signum, sicut ipsum nomen ostendit; et praeterea potentiae sunt a natura, non autem character. Nec iterum est passio, quia passiones animae contingunt cum aliqua transmutatione corporali, ut dicitur in 1 de Anima, et pertinent ad sensitivam partem, ut dicitur 7 Physicor. Nec iterum est habitus, quia habitus ordinantur ad agendum, ut patet per definitionem Augustini: *habitus est quo quis agit, cum opus fuerit*. Ergo character collatus in baptismo, non est aliquid in anima.  
 
 Praeterea, omne quod est, reducitur ad aliquod genus entis. Sed character non videtur posse reduci ad aliquod genus entis, nisi forte ad qualitatem. Qualitas autem esse non potest, cum sub nulla specie qualitatis contineatur. Non enim est habitus, ut probatum est; nec dispositio, cum non sit facile mobilis, immo omnino indelebilis; nec iterum est potentia naturalis, ut probatum est; nec impotentia, quia tunc sacramenta quae characterem imprimunt, magis officerent quam juvarent; nec iterum est passio, ut probatum est; nec passibilis qualitas, cum non sit natus aliquam passionem sensui inferre, nec a passione aliqua innascatur; nec iterum est forma, et circa aliquid constans figura, quia figura est terminatio quantitatis, anima autem non habet quantitatem. Ergo character nihil est.  
 
@@ -79,7 +79,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod definitio quae attribuitur Dionysio de charactere, non bene assignetur, quae talis est: *character est signum sanctum communionis fidei, et sanctae ordinationis, datum divina beatitudine a hierarcha*. Signum enim, ut in 1 dist. dictum est, est quod speciem aliquam sensibus ingerit, et praeter eam aliquid facit in cognitionem venire. Sed character nullam sensibus formam ingerit. Ergo non est signum.***
+Ad secundum sic proceditur. Videtur quod definitio quae attribuitur Dionysio de charactere, non bene assignetur, quae talis est: *character est signum sanctum communionis fidei, et sanctae ordinationis, datum divina beatitudine a hierarcha*. Signum enim, ut in 1 dist. dictum est, est quod speciem aliquam sensibus ingerit, et praeter eam aliquid facit in cognitionem venire. Sed character nullam sensibus formam ingerit. Ergo non est signum.  
 
 Praeterea, potentiis quae sunt principium actionis vel passionis, magis congruit significari quam significare: quia causae per effectus significantur. Sed character, ut dictum est, est potentia spiritualis. Ergo non est signum.  
 
@@ -91,7 +91,7 @@ Praeterea, hierarcha, ut dictum est, est pontifex. Sed in aliquibus sacramentis,
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non bene assignetur quaedam alia definitio magistralis quae talis est: *character est distinctio a charactere aeterno impressa animae rationali secundum imaginem, consignans trinitatem creatam Trinitati creanti et recreanti; et distinguens a non configuratis secundum statum fidei*. Ubi enim est magna differentia, non oportet signa distinctionis dari. Sed infideles a fidelibus maxime differunt et in vita et in ritu. Ergo non oportet quod detur aliquod signum distinctivum.***
+Ulterius. Videtur quod non bene assignetur quaedam alia definitio magistralis quae talis est: *character est distinctio a charactere aeterno impressa animae rationali secundum imaginem, consignans trinitatem creatam Trinitati creanti et recreanti; et distinguens a non configuratis secundum statum fidei*. Ubi enim est magna differentia, non oportet signa distinctionis dari. Sed infideles a fidelibus maxime differunt et in vita et in ritu. Ergo non oportet quod detur aliquod signum distinctivum.  
 
 Praeterea, aut istud signum distinctionis fit propter hominem, aut propter Deum, aut propter angelos. Non propter hominem, quia nec alii homines possunt cognoscere characterem, nec ipsemet qui habet, percipit se habere; signum autem oportet esse notum: nec quo ad Deum, qui sine hoc signo scit fideles ab infidelibus discernere; et similiter nec quo ad angelos. Ergo illud signum distinctionis character non est.  
 
@@ -103,7 +103,7 @@ Praeterea, contrarium distinguit sufficienter a suo contrario. Sed fides infidel
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod illa definitio nusquam invenitur a Dionysio posita, sed potest accipi ex verbis ejus supra inductis; et acciperetur adhuc convenientius si sic diceretur: *character est signum communionis potestatis**potestatis.—partis* PLE. *divinorum, et sacrae ordinationis fidelium, datum a divina beatitudine*. Et tangit quatuor causas. Primo genus characteris inquantum est character, scilicet signum, quod pertinet ad causam formalem. Secundo finem: datur enim hoc signum ad duo, ut scilicet recipiens configuretur quasi ascriptus ad communicandum divinis sacramentis, et actionibus sacris; et quantum ad hoc dicit: *communionis divinorum potestatis*;*potestatis.—partis* PLE. et ut configuretur coordinandus aliis, quibus eadem potestas data est, quod tangit in hoc quod dicit: *et sacrae ordinationis fidelium*; quae duo excommunicatio suspendit ad tempus: quia privat hominem participatione divinorum et communione fidelium. Tertio ponit materiam in qua, in hoc quod dicit: *datum a sacerdote*. Quarto efficiens, scilicet *a divina beatitudine*.***
+Respondeo dicendum ad primam quaestionem, quod illa definitio nusquam invenitur a Dionysio posita, sed potest accipi ex verbis ejus supra inductis; et acciperetur adhuc convenientius si sic diceretur: *character est signum communionis potestatis**potestatis.—partis* PLE. *divinorum, et sacrae ordinationis fidelium, datum a divina beatitudine*. Et tangit quatuor causas. Primo genus characteris inquantum est character, scilicet signum, quod pertinet ad causam formalem. Secundo finem: datur enim hoc signum ad duo, ut scilicet recipiens configuretur quasi ascriptus ad communicandum divinis sacramentis, et actionibus sacris; et quantum ad hoc dicit: *communionis divinorum potestatis*;*potestatis.—partis* PLE. et ut configuretur coordinandus aliis, quibus eadem potestas data est, quod tangit in hoc quod dicit: *et sacrae ordinationis fidelium*; quae duo excommunicatio suspendit ad tempus: quia privat hominem participatione divinorum et communione fidelium. Tertio ponit materiam in qua, in hoc quod dicit: *datum a sacerdote*. Quarto efficiens, scilicet *a divina beatitudine*.  
 
 Tamen definitio prius posita potest etiam sustineri, ut in idem redeat cum ista; ut hoc quod dicit: *communionis fidei*, referatur ad participationem sacramentorum et actionum fidelium. Quod autem dicit: *et sanctae ordinationis*, ponitur coordinatio ejus ad alios: *accedenti datum a hierarcha* ponitur quantum ad causam efficientem instrumentalem scilicet ministrum, qui configuratione exteriori figurat interiorem.  
 
@@ -119,7 +119,7 @@ Ad quintum dicendum quod hoc quod dicitur: *datum accedenti a hierarcha*, non po
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod in illa etiam definitione tanguntur quatuor causae characteris. Nam causa formalis tangitur in hoc quod ponitur genus, cum dicit, *distinctio*, id est distinctivum signum; et est genus*genus in.—genus magis proximum quam genus in* PLE. in praecedenti definitione positum. Causa efficiens tangitur in hoc quod dicit: *charactere aeterno*, idest filio, qui est figura substantiae patris; Hebr. 1. Causa autem materialis in qua ponitur cum dicit: *animae rationali impressa secundum imaginem*. Causa vero finalis ponitur duplex, scilicet configuratio, in hoc quod dicit: *consignans trinitatem creatam Trinitati creanti et recreanti*, idest configurans; et distinctio in hoc quod dicit: *et distinguens a non configuratis secundum statum fidei*. Et sicut hic ponitur genus proximum, ita finis proximus, et subjectum proximum, et efficiens appropriatum: in quo excedit praedictam definitionem haec definitio, inquantum per causas magis proximas datur.***
+Ad secundam quaestionem dicendum, quod in illa etiam definitione tanguntur quatuor causae characteris. Nam causa formalis tangitur in hoc quod ponitur genus, cum dicit, *distinctio*, id est distinctivum signum; et est genus*genus in.—genus magis proximum quam genus in* PLE. in praecedenti definitione positum. Causa efficiens tangitur in hoc quod dicit: *charactere aeterno*, idest filio, qui est figura substantiae patris; Hebr. 1. Causa autem materialis in qua ponitur cum dicit: *animae rationali impressa secundum imaginem*. Causa vero finalis ponitur duplex, scilicet configuratio, in hoc quod dicit: *consignans trinitatem creatam Trinitati creanti et recreanti*, idest configurans; et distinctio in hoc quod dicit: *et distinguens a non configuratis secundum statum fidei*. Et sicut hic ponitur genus proximum, ita finis proximus, et subjectum proximum, et efficiens appropriatum: in quo excedit praedictam definitionem haec definitio, inquantum per causas magis proximas datur.  
 
 Ad primum ergo dicendum quod character non est signum tantum ut distinctionis nota, sed ut distinctionem causans, sicut et alia sacramentalia signa; et ideo eo indigetur ad distinctionem faciendam.  
 
@@ -137,7 +137,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod character sit in essentia animae quasi in subjecto. Dispositio enim et habitus sunt in eodem subjecto. Sed character disponit ad habitum gratiae. Cum ergo gratia sit in essentia animae sicut in subjecto, videtur quod etiam character.***
+Ad tertium sic proceditur. Videtur quod character sit in essentia animae quasi in subjecto. Dispositio enim et habitus sunt in eodem subjecto. Sed character disponit ad habitum gratiae. Cum ergo gratia sit in essentia animae sicut in subjecto, videtur quod etiam character.  
 
 Praeterea, nihil est subjectum potentiae animae nisi essentia animae. Sed character, ut dictum est, est quaedam spiritualis potentia. Ergo est in essentia animae sicut in subjecto.  
 
@@ -145,7 +145,7 @@ Sed contra, character configurat trinitatem creatam increatae, ut patet ex defin
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non sit in una potentia, sed in pluribus. Quia, sicut ex praedicta definitione patet, character est in anima rationali secundum imaginem, secundum quam etiam est configuratio hominis ad Deum. Sed imago non consistit in una tantum potentia, sed in pluribus. Ergo nec character.***
+Ulterius. Videtur quod non sit in una potentia, sed in pluribus. Quia, sicut ex praedicta definitione patet, character est in anima rationali secundum imaginem, secundum quam etiam est configuratio hominis ad Deum. Sed imago non consistit in una tantum potentia, sed in pluribus. Ergo nec character.  
 
 Praeterea, cujus est potentia, ejus est actio, et e converso, ut dicitur in 1 *de Somno et vigilia*. Sed actio spiritualis, ad quam character ordinatur, est per plures potentias, scilicet quia requiritur et affectiva et intellectiva. Ergo character est in pluribus potentiis, sicut spiritualis potentia.  
 
@@ -153,7 +153,7 @@ Sed contra, unum accidens non est in pluribus subjectis. Sed in uno sacramento i
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod sit magis in affectiva quam cognitiva. Quia character disponit ad gratiam. Sed gratia magis respicit affectivam. Ergo et character.***
+Ulterius. Videtur quod sit magis in affectiva quam cognitiva. Quia character disponit ad gratiam. Sed gratia magis respicit affectivam. Ergo et character.  
 
 Praeterea, character est ad assimilandum nos Deo. Sed per affectum maxime Deo appropinquamus, et similes ei efficimur. Ergo character est in affectiva.  
 
@@ -161,7 +161,7 @@ Sed contra, characterem Dionysius lumini comparat. Sed lumen magis intellectivae
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod character non indelebiliter insit potentiae cui inest. Accidens enim diuturnitatem habet ex causa et subjecto. Sed gratia est ab eadem causa et in eodem subjecto cum charactere. Ergo cum gratia amitti possit, et character similiter deleri poterit.***
+Ulterius. Videtur quod character non indelebiliter insit potentiae cui inest. Accidens enim diuturnitatem habet ex causa et subjecto. Sed gratia est ab eadem causa et in eodem subjecto cum charactere. Ergo cum gratia amitti possit, et character similiter deleri poterit.  
 
 Praeterea: *cum venerit quod perfectum est, evacuabitur quod ex parte est*; 1 Corinth. 13, 10. Sed character est ex parte: datur enim ad distinguendum in operibus sacramentalibus, quae competunt secundum statum viae. Ergo in patria character cessabit, et ita est delebilis.  
 
@@ -169,7 +169,7 @@ Sed contra, si character deleretur, maxime per culpam deleretur. Sed per culpam 
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod Christus habuerit characterem. Ipse enim sacerdos fuit secundum ordinem Melchisedech, Heb. 7, quod est sacerdotium novi testamenti. Sed tale sacerdotium requirit characterem. Ergo Christus habuit characterem.***
+Ulterius. Videtur quod Christus habuerit characterem. Ipse enim sacerdos fuit secundum ordinem Melchisedech, Heb. 7, quod est sacerdotium novi testamenti. Sed tale sacerdotium requirit characterem. Ergo Christus habuit characterem.  
 
 Praeterea, nihil quod est perfectionis quantum ad animam, vel dignitatis, Christo subtrahendum est. Sed character decorat et nobilitat animam in qua est. Ergo character in Christo fuit.  
 
@@ -177,7 +177,7 @@ Sed contra, character est regeneratorum, et accipientium aliquid a sacramentis. 
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod natura proportionaliter spiritualitati substernitur, sicut perfectibile perfectioni. Unde sicut gratia, quae est spiritualis vitae principium, est in essentia animae sicut in subjecto; ita et character, qui est spiritualis potentia, est sicut in subjecto in naturali potentia animae, et non in essentia animae, ut quidam dicunt, nisi mediante potentia animae.***
+Respondeo dicendum ad primam quaestionem, quod natura proportionaliter spiritualitati substernitur, sicut perfectibile perfectioni. Unde sicut gratia, quae est spiritualis vitae principium, est in essentia animae sicut in subjecto; ita et character, qui est spiritualis potentia, est sicut in subjecto in naturali potentia animae, et non in essentia animae, ut quidam dicunt, nisi mediante potentia animae.  
 
 Ad primum ergo dicendum, quod dispositionem esse in eodem cum eo ad quod disponit, non est necesse, nisi quando dispositio postea fit perfectio, sicut scientia quae prius fuit dispositio, postea fit habitus; et ideo scientia dispositio et scientia habitus sunt in eodem subjecto proximo. Non autem hoc oportet quando dispositio et perfectio differunt per essentiam; sed possunt esse in diversis subjectis; et praecipue quando illa diversa habent ordinem ad invicem; sicut operatio sensibilis est dispositio ad intelligibilem operationem, et similiter character est dispositio ad gratiam.  
 
@@ -185,7 +185,7 @@ Ad secundum dicendum, quod illa objectio procedit de potentiis naturalibus; sed 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod esse in pluribus potentiis est dupliciter: aut ita quod aequaliter sit in omnibus, sicut essentia animae est in omnibus potentiis; aut ita quod sit in una per prius, et per posterius respiciat alias mediante illa in qua primo est; sicut electio est in intellectu et appetitu, et formaliter in appetitu perficitur, ut patet per Philosophum in 6 *Ethic*. Primo ergo modo nullum accidens potest esse in pluribus potentiis quia accidens numeratur et distinguitur penes materiam et distinctionem subjecti; et ideo cum character sit accidens, non potest esse in pluribus potentiis animae primo modo, sed secundo modo: quia unam respicit per prius, et alias per posterius.***
+Ad secundam quaestionem dicendum, quod esse in pluribus potentiis est dupliciter: aut ita quod aequaliter sit in omnibus, sicut essentia animae est in omnibus potentiis; aut ita quod sit in una per prius, et per posterius respiciat alias mediante illa in qua primo est; sicut electio est in intellectu et appetitu, et formaliter in appetitu perficitur, ut patet per Philosophum in 6 *Ethic*. Primo ergo modo nullum accidens potest esse in pluribus potentiis quia accidens numeratur et distinguitur penes materiam et distinctionem subjecti; et ideo cum character sit accidens, non potest esse in pluribus potentiis animae primo modo, sed secundo modo: quia unam respicit per prius, et alias per posterius.  
 
 Ad primum ergo dicendum, quod etiam potentiae magis habent ordinem ad invicem, ut in 1 Lib. dictum est; et ideo quod est in una, potest aliquando ad alias redundare.  
 
@@ -193,7 +193,7 @@ Ad secundum dicendum, quod quando ad unam actionem requiruntur plures potentiae,
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod imago principaliter consistit in potentia cognitiva, quia ex memoria et intelligentia oritur voluntas; unde tota imago est in intellectiva parte sicut in radice; et ideo omne quod attribuitur homini ratione imaginis, principaliter respicit intellectivam, et ex consequenti affectivam: quia etiam ex intellectiva parte habet homo quod sit homo; sed ex affectiva quod sit bonus vel malus; et ideo quia character respicit imaginem, principaliter est in intellectiva parte.***
+Ad tertiam quaestionem dicendum, quod imago principaliter consistit in potentia cognitiva, quia ex memoria et intelligentia oritur voluntas; unde tota imago est in intellectiva parte sicut in radice; et ideo omne quod attribuitur homini ratione imaginis, principaliter respicit intellectivam, et ex consequenti affectivam: quia etiam ex intellectiva parte habet homo quod sit homo; sed ex affectiva quod sit bonus vel malus; et ideo quia character respicit imaginem, principaliter est in intellectiva parte.  
 
 Ad primum ergo dicendum, quod gratia non est neque in intellectiva neque in affectiva, sed in essentia animae; tamen magis de propinquo respicit affectivam, quia gratia datur ad bene operandum; qualiter autem aliquis operetur, praecipue ex voluntate pendet. Sed character datur ad exercendas actiones spirituales aliquas simpliciter: quod autem bene vel male fiant, hoc est per gratiam et per habitum virtutum; et ideo non est similis ratio de charactere et gratia.  
 
@@ -201,7 +201,7 @@ Ad secundum dicendum, quod assimilatio in bonitate praecipue est ad Deum per vol
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod impressio characteris est per quamdam animae rationalis sanctificationem, prout sanctificatio dicitur deputatio alicujus ad aliquid sacrum. Ad hanc autem sanctificationem non magis active comparatur anima sanctificanda, quam aqua sanctificanda, vel oleum vel chrisma, ad sui sanctificationem; nisi quod homo se subjicit tali sanctificationi per consensum, res autem praedictae subjiciuntur, quia libero arbitrio carent; et ideo qualitercumque anima varietur per proprias operationes, nunquam characterem amittit; sicut nec chrisma nec oleum nec panis consecratus unquam sanctificationem perdunt, qualitercumque transmutentur, dummodo non corrumpantur.***
+Ad quartam quaestionem dicendum, quod impressio characteris est per quamdam animae rationalis sanctificationem, prout sanctificatio dicitur deputatio alicujus ad aliquid sacrum. Ad hanc autem sanctificationem non magis active comparatur anima sanctificanda, quam aqua sanctificanda, vel oleum vel chrisma, ad sui sanctificationem; nisi quod homo se subjicit tali sanctificationi per consensum, res autem praedictae subjiciuntur, quia libero arbitrio carent; et ideo qualitercumque anima varietur per proprias operationes, nunquam characterem amittit; sicut nec chrisma nec oleum nec panis consecratus unquam sanctificationem perdunt, qualitercumque transmutentur, dummodo non corrumpantur.  
 
 Ad primum ergo dicendum, quod causa indelebilitatis characteris est ex parte subjecti, quod est incorruptibile, et ex parte causae, quae est invariabilis. Gratia autem habet aliquo modo causam non efficientem, sed disponentem ex parte subjecti: quia, secundum Augustinum: *qui creavit te sine te, non justificabit te sine te*; et ideo per indispositionem subjecti gratia amittitur.  
 
@@ -209,7 +209,7 @@ Ad secundum dicendum, quod per characterem homo configuratur ad hoc quod sit de 
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod quidam dicunt, quod Christus non habuit characterem baptismalem, quia a baptismo nihil accepit: habuit autem characterem ordinis, qui pertinet ad quemdam eminentem statum. Sed melius est, si dicatur, quod Christus nullum characterem habuit: quia ipse habuit potestatem plenitudinis in sacramentis, quasi ea instituens, et eis efficaciam praebens. Unde sicut poterat inducere effectum sacramenti in aliquo sine sacramento exteriori, ita ex parte ipsius ad hoc non requirebatur aliquod sacramentale interius.***
+Ad quintam quaestionem dicendum, quod quidam dicunt, quod Christus non habuit characterem baptismalem, quia a baptismo nihil accepit: habuit autem characterem ordinis, qui pertinet ad quemdam eminentem statum. Sed melius est, si dicatur, quod Christus nullum characterem habuit: quia ipse habuit potestatem plenitudinis in sacramentis, quasi ea instituens, et eis efficaciam praebens. Unde sicut poterat inducere effectum sacramenti in aliquo sine sacramento exteriori, ita ex parte ipsius ad hoc non requirebatur aliquod sacramentale interius.  
 
 Ad primum ergo dicendum, quod ipse fuit sacerdos, quasi sacerdotium instituens; et ideo ejus non est habere characterem, sed illius qui aliunde sacerdotium recipit, ut per characterem principali sacerdoti configuretur.  
 
@@ -221,7 +221,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-***Ad quartum sic proceditur. Videtur quod non solum in sacramentis novae legis character imprimatur. Characteris enim effectus est configurare et distinguere. Sed hoc faciunt virtutes: quia in eis boni et a malis distinguuntur, et Deo assimilantur. Ergo per virtutes, et non per sacramenta novae legis tantum, character imprimitur.***
+Ad quartum sic proceditur. Videtur quod non solum in sacramentis novae legis character imprimatur. Characteris enim effectus est configurare et distinguere. Sed hoc faciunt virtutes: quia in eis boni et a malis distinguuntur, et Deo assimilantur. Ergo per virtutes, et non per sacramenta novae legis tantum, character imprimitur.  
 
 Praeterea, sicut per sacramenta novae legis distinguitur populus fidelis ab infideli, ita per sacramenta veteris legis distinguebatur. Ergo sacramenta novae legis non magis imprimunt characterem quam sacramenta veteris legis.  
 
@@ -229,7 +229,7 @@ Sed contra, habens characterem non baptizatur, quia alii characteres baptismum p
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod per omnia sacramenta legis novae imprimatur character. In quolibet enim sacramento novae legis est aliquid quod est sacramentum tantum, et aliquid quod est res tantum, et aliquid quod est res et sacramentum. Sed character in baptismo est illud quod est res et sacramentum. Ergo in quolibet sacramento novae legis imprimitur character.***
+Ulterius. Videtur quod per omnia sacramenta legis novae imprimatur character. In quolibet enim sacramento novae legis est aliquid quod est sacramentum tantum, et aliquid quod est res tantum, et aliquid quod est res et sacramentum. Sed character in baptismo est illud quod est res et sacramentum. Ergo in quolibet sacramento novae legis imprimitur character.  
 
 Praeterea, quolibet sacramento novae legis confertur gratia, et distinguitur recipiens a non recipiente. Cum ergo character sit disponens ad gratiam, et distinguat, videtur quod in quolibet sacramento novae legis character imprimatur.  
 
@@ -237,7 +237,7 @@ Sed contra, nullum sacramentum, in quo character imprimitur, iteratur: quia char
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod in sacramento baptismi character non imprimatur. Baptismus enim sanguinis est dignior quam baptismus fluminis, quia meretur aureolam. Sed in baptismo sanguinis non imprimitur character. Ergo nec in baptismo fluminis.***
+Ulterius. Videtur quod in sacramento baptismi character non imprimatur. Baptismus enim sanguinis est dignior quam baptismus fluminis, quia meretur aureolam. Sed in baptismo sanguinis non imprimitur character. Ergo nec in baptismo fluminis.  
 
 Praeterea, baptismus fluminis non habet supra baptismum flaminis nisi aquam. Sed baptismus ratione aquae non potest imprimere characterem: alias baptismus Joannis impressisset characterem: quod esse non potest, cum baptizati a Joanne iterum baptizarentur, ut supra, dist. 2, art. 4, dictum est. Ergo nec baptismus fluminis characterem imprimit.  
 
@@ -245,7 +245,7 @@ Sed contra est auctoritas Dionysii, ex qua characteris traditio derivatur: quia 
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod character sit sicut a causa efficiente prima a solo Filio. *Character enim est distinctio a charactere aeterno impressa* etc., ut supra, Art. 2, quaestiunc. 2, dictum est. Sed character aeternus est solus Filius, sicut et imago. Ergo a solo Filio character imprimitur.***
+Ulterius. Videtur quod character sit sicut a causa efficiente prima a solo Filio. *Character enim est distinctio a charactere aeterno impressa* etc., ut supra, Art. 2, quaestiunc. 2, dictum est. Sed character aeternus est solus Filius, sicut et imago. Ergo a solo Filio character imprimitur.  
 
 Praeterea, charactere configuratur et assimilatur anima Deo. Sed principium assimilationis ad Deum est Filius; unde Augustinus Filium nominat similitudinem, per quam ad unitatem reformamur, ut patet 1 Lib., dist. 3. Ergo character est tantum a Filio.  
 
@@ -253,7 +253,7 @@ Sed contra est quod Dionysius dicit, quod signum characteris *datur a divina bea
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod, sicut in 2 *Ethic*., dicit Philosophus: *virtus ex quibus innascitur, ea operatur*, loquens de virtute acquisita; et similiter est in omnibus virtutibus quae ex aliquibus actibus aliquo modo causantur. Unde cum character sit virtus, seu potentia spiritualis ad actiones sacramentales ordinata, si ex aliquo quod per nos fiat, imprimi character debeat, oportet quod per sacramenta novae legis imprimatur, et per ea tantum, quia ad illas actiones tantum directe illa potentia ordinatur.***
+Respondeo dicendum ad primam quaestionem, quod, sicut in 2 *Ethic*., dicit Philosophus: *virtus ex quibus innascitur, ea operatur*, loquens de virtute acquisita; et similiter est in omnibus virtutibus quae ex aliquibus actibus aliquo modo causantur. Unde cum character sit virtus, seu potentia spiritualis ad actiones sacramentales ordinata, si ex aliquo quod per nos fiat, imprimi character debeat, oportet quod per sacramenta novae legis imprimatur, et per ea tantum, quia ad illas actiones tantum directe illa potentia ordinatur.  
 
 Ad primum ergo dicendum, quod actiones spirituales ad quas character ordinat, intra ecclesiam tantum exercentur; et ideo pro nihilo potestas ad illas actiones daretur alicui, nisi tali modo quod innotesceret illis qui sunt de ecclesia, ut eum ad tales actiones admittant. Per gratiam autem, et virtutes non posset innotescere quia ignotae sunt; et ideo oportet quod imprimatur character per signa visibilia sacramentorum.  
 
@@ -261,7 +261,7 @@ Ad secundum dicendum, quod sacramenta veteris legis ex opere operato nihil confe
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod sacramenta legis novae sunt sanctificationes quaedam. Sanctificatio autem duobus modis accipitur. Uno modo pro emundatione, quia sanctum est mundum. Alio modo pro mancipatione ad aliquod sacrum, sicut dicitur altare sanctificari, vel aliquod hujusmodi. Omnia ergo sacramenta sunt sanctificationes primo modo, quia omnia dantur in remedium contra aliquem defectum, ut dictum est prius, dist. 2, sed quaedam sunt sanctificationes etiam secundo modo, sicut patet praecipue in ordine, quia ordinatus mancipatur ad aliquid sacrum: non autem omnia, sicut patet de poenitentia. Quicumque autem mancipatur ad aliquid sacrum spirituale exercendum, oportet quod habeat spiritualem potestatem, et solum talis; et ideo non omnia sacramenta novae legis characterem imprimunt, sed quaedam, quae etiam secundo modo sanctificationes sunt.***
+Ad secundam quaestionem dicendum, quod sacramenta legis novae sunt sanctificationes quaedam. Sanctificatio autem duobus modis accipitur. Uno modo pro emundatione, quia sanctum est mundum. Alio modo pro mancipatione ad aliquod sacrum, sicut dicitur altare sanctificari, vel aliquod hujusmodi. Omnia ergo sacramenta sunt sanctificationes primo modo, quia omnia dantur in remedium contra aliquem defectum, ut dictum est prius, dist. 2, sed quaedam sunt sanctificationes etiam secundo modo, sicut patet praecipue in ordine, quia ordinatus mancipatur ad aliquid sacrum: non autem omnia, sicut patet de poenitentia. Quicumque autem mancipatur ad aliquid sacrum spirituale exercendum, oportet quod habeat spiritualem potestatem, et solum talis; et ideo non omnia sacramenta novae legis characterem imprimunt, sed quaedam, quae etiam secundo modo sanctificationes sunt.  
 
 Ad primum ergo dicendum, quod quamvis illud quod est res et sacramentum, in baptismo sit character, non tamen oportet quod sit character in omnibus sacramentis in quibus est res et sacramentum. Quid autem sit res et sacramentum in singulis, postea singillatim ostendetur.  
 
@@ -269,7 +269,7 @@ Ad secundum dicendum, quod quamvis quodlibet sacramentum distinguat a non habent
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem, dicendum, quod sicut in naturalibus est potentia activa et potentia naturalis passiva; ita etiam in spiritualibus est potentia spiritualis quasi passiva per quam homo efficitur susceptivus spiritualium actionum; et talis spiritualis potentia confertur in baptismo: quia non baptizatus effectum aliorum sacramentorum suscipere non posset, unde et per consequens nec aliis tradere: et haec est prima distinctio, qua communiter totus populus fidelis, cujus est sacramentorum participem esse, ab aliis distinguitur. Alia potentia est activa spiritualis ordinata ad sacramentorum dispensationem, et aliarum sacrarum hierarchicarum actionum exercitium; et haec potestas traditur in confirmatione et ordine, ut suis locis patebit. Et quia in ecclesiastica hierarchia non omnes sunt agentes, ut puta perficientes purgantes, et illuminantes, sicut omnes sunt recipientes puta purgandi, illuminandi, perficiendi, ut dicit Dionysius; ideo isti duo characteres non distinguunt populum Dei universaliter ab aliis, sed quosdam de populo ab aliis.***
+Ad tertiam quaestionem, dicendum, quod sicut in naturalibus est potentia activa et potentia naturalis passiva; ita etiam in spiritualibus est potentia spiritualis quasi passiva per quam homo efficitur susceptivus spiritualium actionum; et talis spiritualis potentia confertur in baptismo: quia non baptizatus effectum aliorum sacramentorum suscipere non posset, unde et per consequens nec aliis tradere: et haec est prima distinctio, qua communiter totus populus fidelis, cujus est sacramentorum participem esse, ab aliis distinguitur. Alia potentia est activa spiritualis ordinata ad sacramentorum dispensationem, et aliarum sacrarum hierarchicarum actionum exercitium; et haec potestas traditur in confirmatione et ordine, ut suis locis patebit. Et quia in ecclesiastica hierarchia non omnes sunt agentes, ut puta perficientes purgantes, et illuminantes, sicut omnes sunt recipientes puta purgandi, illuminandi, perficiendi, ut dicit Dionysius; ideo isti duo characteres non distinguunt populum Dei universaliter ab aliis, sed quosdam de populo ab aliis.  
 
 Ad primum ergo dicendum, quod baptismus sanguinis non habet efficaciam sacramentalem, sed solum meritoriam; et ideo ibi non confertur potestas spiritualis ad actiones hierarchicas, nec character sicut in baptismo fluminis, quod est sacramentum.  
 
@@ -277,7 +277,7 @@ Ad secundum dicendum, quod nec baptismus flaminis tantum, nec baptismus aquae ta
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod omnis effectus in creatura est communiter a tota Trinitate; unde et character non est tantum a Filio, sed a tribus personis. Attribuitur autem Filio tum propter rationem similitudinis ad proprium personae, quia ipse per proprietatem est imago et figura, sive character Patris; tum quia virtus passionis Christi operatur in sacramentis.***
+Ad quartam quaestionem dicendum, quod omnis effectus in creatura est communiter a tota Trinitate; unde et character non est tantum a Filio, sed a tribus personis. Attribuitur autem Filio tum propter rationem similitudinis ad proprium personae, quia ipse per proprietatem est imago et figura, sive character Patris; tum quia virtus passionis Christi operatur in sacramentis.  
 
 Et per hoc patet solutio ad objecta.  
 
@@ -285,7 +285,7 @@ Quaestio 2
 
 ***De effectu baptismi***
 
-***Deinde quaeritur de effectu baptismi, qui est res et non sacramentum; et circa hoc quaeruntur tria:***
+Deinde quaeritur de effectu baptismi, qui est res et non sacramentum; et circa hoc quaeruntur tria:  
 
 primo, de effectu ipsius quantum ad remotionem mali;  
 
@@ -297,7 +297,7 @@ primo, de effectu ipsius quantum ad remotionem mali;
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod baptismus non tollat actualem culpam. Baptismus enim non tollit actualem culpam nisi adsit contritio: quia nullus suae voluntatis arbiter constitutus in quo solum potest esse actualis culpa potest inchoare novam vitam, nisi poeniteat eum veteris vitae, ut in littera dicitur. Contritio autem per se etiam sine baptismo delet culpam actualem. Ergo baptismus nihil facit ad deletionem actualis culpae.***
+Ad primum sic proceditur. Videtur quod baptismus non tollat actualem culpam. Baptismus enim non tollit actualem culpam nisi adsit contritio: quia nullus suae voluntatis arbiter constitutus in quo solum potest esse actualis culpa potest inchoare novam vitam, nisi poeniteat eum veteris vitae, ut in littera dicitur. Contritio autem per se etiam sine baptismo delet culpam actualem. Ergo baptismus nihil facit ad deletionem actualis culpae.  
 
 Praeterea, diversorum diversae sunt medicinae: quia non sanat oculum quod sanat calcaneum, ut dicit Hieronymus. Sed baptismus directe ordinatur ut medicina contra peccatum originale. Ergo non potest salvare ab actuali.  
 
@@ -309,7 +309,7 @@ Praeterea, baptismus est ordinatus ad tollendum culpam originalem. Sed originale
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod non tollit omnem poenam temporalem debitam actuali peccato. Quia sicut Augustinus dicit, peccatum aut homo punit, aut Deus. Si ergo homo in seipso non puniat peccatum quod commisit a Deo punietur; et ita per baptismum actualis peccati poena non totaliter tollitur.***
+Ulterius. Videtur quod non tollit omnem poenam temporalem debitam actuali peccato. Quia sicut Augustinus dicit, peccatum aut homo punit, aut Deus. Si ergo homo in seipso non puniat peccatum quod commisit a Deo punietur; et ita per baptismum actualis peccati poena non totaliter tollitur.  
 
 Praeterea, culpa non potest ordinari nisi per poenam. Sed Deus nil inordinatum relinquit. Ergo non dimittit quin pro culpa aliquam poenam infligat; et sic baptismus non absolvit ab omni poena.  
 
@@ -321,7 +321,7 @@ Praeterea, Christus sua simplici morte scilicet poenae, duas mortes in nobis con
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod etiam tollat omnem poenam originalis peccati. Efficacius enim est donum Christi quam peccatum Adae, ut dicit apostolus, Rom. 5. Sed omnis poena peccati originalis est inducta per peccatum Adae. Ergo per donum Christi, quod maxime in baptismo operatur omnis poena tollitur.***
+Ulterius. Videtur quod etiam tollat omnem poenam originalis peccati. Efficacius enim est donum Christi quam peccatum Adae, ut dicit apostolus, Rom. 5. Sed omnis poena peccati originalis est inducta per peccatum Adae. Ergo per donum Christi, quod maxime in baptismo operatur omnis poena tollitur.  
 
 Praeterea, baptismus directius ordinatur contra peccatum originale quam contra peccatum actuale. Sed tollit omnem poenam actualis peccati, ut Ambrosius dicit. Ergo et tollit omnem poenam originalis.  
 
@@ -335,7 +335,7 @@ Praeterea, necessitas moriendi, et incinerationis et poenalitates hujus vitae su
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod in generatione qualibet per introductionem formae omnis contraria forma expellitur, et etiam dispositio ad formam contrariam, nisi quandoque relinquatur ex indispositione recipientis formam. Unde cum baptismus sit regeneratio in vitam spiritualem, omne quod est vitae spirituali contrarium, quod scilicet cum gratia stare non potest, quae est spiritualis vitae principium per baptismum tollitur; et ideo baptismus delet et originalem et actualem culpam mortalem, et quantum est de se etiam venialem, quae disponit ad privationem gratiae; quamvis quandoque culpa venialis remaneat post baptismum mortali remota propter indispositionem recipientis baptismum.***
+Respondeo dicendum ad primam quaestionem, quod in generatione qualibet per introductionem formae omnis contraria forma expellitur, et etiam dispositio ad formam contrariam, nisi quandoque relinquatur ex indispositione recipientis formam. Unde cum baptismus sit regeneratio in vitam spiritualem, omne quod est vitae spirituali contrarium, quod scilicet cum gratia stare non potest, quae est spiritualis vitae principium per baptismum tollitur; et ideo baptismus delet et originalem et actualem culpam mortalem, et quantum est de se etiam venialem, quae disponit ad privationem gratiae; quamvis quandoque culpa venialis remaneat post baptismum mortali remota propter indispositionem recipientis baptismum.  
 
 Ad primum ergo dicendum, quod baptismus non requirit contritionem quasi continuam*continuam.—concausam* PLE. ad destructionem peccati actualis quasi de se ad hoc non sufficiat, sed solum ad removendam fictionem quae est contraria dispositio impediens effectum baptismi.  
 
@@ -345,7 +345,7 @@ Ad tertium dicendum, quod quantum est de se, baptismus, ut dictum est, tollit om
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod Christus per mortem suam sufficienter satisfecit pro peccatis totius humani generis, etiam si essent multo plura. Et quia homo per baptismum in mortem Christi baptizatur, et ei commoritur et consepelitur, ut dicitur Roman. 6, ideo baptismus, quantum in se est, totam efficaciam passionis in baptizatum influit; et propter hoc absolvit non solum a culpa, sed a poena satisfactoria.***
+Ad secundam quaestionem dicendum, quod Christus per mortem suam sufficienter satisfecit pro peccatis totius humani generis, etiam si essent multo plura. Et quia homo per baptismum in mortem Christi baptizatur, et ei commoritur et consepelitur, ut dicitur Roman. 6, ideo baptismus, quantum in se est, totam efficaciam passionis in baptizatum influit; et propter hoc absolvit non solum a culpa, sed a poena satisfactoria.  
 
 Ad primum ergo dicendum, quod per baptismum homo incorporatur Christo, et efficitur membrum ejus; et ideo poena quam Christus sustinuit, reputatur isti in satisfactionem: quia si patitur unum membrum, omnia alia compatiuntur, ut dicitur 1 Corinth. 12. Et ideo Deus in Christo peccata illa punivit, sicut dicitur Isai. 53: *posuit in eo iniquitatem omnium nostrum*.  
 
@@ -355,7 +355,7 @@ Ad tertium dicendum, quod quamvis Eucharistia sit memoriale passionis Christi, n
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in peccato originali talis fuit processus quod persona corrupit naturam, et natura personam corrupit; unde aliquid consideratur in hoc peccato quod pertinet ad naturam, aliquid quod pertinet ad personam. Passio autem Christi sufficienter peccatum originale abstulit quantum ad utrumque. Sed quia sacramenta personis adhibentur, ideo baptismus hoc ab homine tollit quod ex corruptione naturae in personam redundabat; et propter hoc ipsam infectionem culpae, prout afficit personam, et poenam illam quae actum personae privabat, scilicet carentiam visionis divinae, baptismus aufert; sed non aufert actu infectionem prout afficit naturam: quod patet ex hoc quod baptizatus per actum naturae originale transmittit in prolem, similiter nec poenas quae consequuntur principia naturae destitutae gratia innocentiae primi status, cujusmodi sunt rebellio carnis ad spiritum, mors, et hujusmodi poenalitates, quae consequuntur ex hoc ipso quod homo ex contrariis compositus est et quantum ad corpus et quantum ad animam quodammodo, scilicet quantum ad appetitum sensus et intellectus. Sed per gratiam baptismalem efficitur ut hae poenae remanentes non dominentur in personam, sed magis ei subjiciantur, et in utilitatem ipsius cedant, inquantum sunt materia virtutis, et occasio humilitatis et exercitii.***
+Ad tertiam quaestionem dicendum, quod in peccato originali talis fuit processus quod persona corrupit naturam, et natura personam corrupit; unde aliquid consideratur in hoc peccato quod pertinet ad naturam, aliquid quod pertinet ad personam. Passio autem Christi sufficienter peccatum originale abstulit quantum ad utrumque. Sed quia sacramenta personis adhibentur, ideo baptismus hoc ab homine tollit quod ex corruptione naturae in personam redundabat; et propter hoc ipsam infectionem culpae, prout afficit personam, et poenam illam quae actum personae privabat, scilicet carentiam visionis divinae, baptismus aufert; sed non aufert actu infectionem prout afficit naturam: quod patet ex hoc quod baptizatus per actum naturae originale transmittit in prolem, similiter nec poenas quae consequuntur principia naturae destitutae gratia innocentiae primi status, cujusmodi sunt rebellio carnis ad spiritum, mors, et hujusmodi poenalitates, quae consequuntur ex hoc ipso quod homo ex contrariis compositus est et quantum ad corpus et quantum ad animam quodammodo, scilicet quantum ad appetitum sensus et intellectus. Sed per gratiam baptismalem efficitur ut hae poenae remanentes non dominentur in personam, sed magis ei subjiciantur, et in utilitatem ipsius cedant, inquantum sunt materia virtutis, et occasio humilitatis et exercitii.  
 
 Ad primum ergo dicendum, quod passio Christi sufficienter aufert et illud quod est personae, et illud quod est naturae per causam. Sed quia omnes homines in natura communicant, ideo effectus secundum legem communem curationis naturae non erit nisi in fine mundi; quando omnibus electis jam congregatis, simul cum eis etiam alia creatura insensibilis liberabitur a servitute corruptionis, ut dicitur Rom. 8.  
 
@@ -371,7 +371,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod per baptismum non conferantur pueris gratia et virtutes. Dicit enim Augustinus in libro *de baptismo parvulorum*: *parvulos fideles facit non fides ea quae consistit in credentium voluntate, sed fidei sacramentum*. Sed fides quae est virtus, consistit in credentium voluntate, ut in 3 libro, dist. 23, quaest. 2, art. 3, quaestiunc. 1, dictum est. Ergo parvuli baptizati non habent virtutem fidei, et pari ratione nec alias virtutes, quae etiam in voluntate consistunt.***
+Ad secundum sic proceditur. Videtur quod per baptismum non conferantur pueris gratia et virtutes. Dicit enim Augustinus in libro *de baptismo parvulorum*: *parvulos fideles facit non fides ea quae consistit in credentium voluntate, sed fidei sacramentum*. Sed fides quae est virtus, consistit in credentium voluntate, ut in 3 libro, dist. 23, quaest. 2, art. 3, quaestiunc. 1, dictum est. Ergo parvuli baptizati non habent virtutem fidei, et pari ratione nec alias virtutes, quae etiam in voluntate consistunt.  
 
 Praeterea, si aliquid de novo recipiatur in aliquo, oportet quod recipiens vel influens alio modo se habeat nunc quam prius. Sed anima pueri baptizati non alio modo se habet dum baptizatur quam prius: quia proprium motum non habet, carens liberi arbitrii usu; nec Deus, qui est influens gratiam et virtutes. Ergo pueri in baptismo gratiam et virtutes non recipiunt.  
 
@@ -385,7 +385,7 @@ Praeterea, nullus admittitur ad gloriam nisi habeat vestem nuptialem, quae est c
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod in adultis virtutes per baptismum non augeantur. Augmentum enim virtutum est per meritum: quia secundum Augustinum, caritas meretur augeri, ut aucta mereatur et perfici. Sed in baptismo non operatur meritum baptizati quantum ad opus operatum. Ergo ex opere operato virtutes in baptismo non augentur.***
+Ulterius. Videtur quod in adultis virtutes per baptismum non augeantur. Augmentum enim virtutum est per meritum: quia secundum Augustinum, caritas meretur augeri, ut aucta mereatur et perfici. Sed in baptismo non operatur meritum baptizati quantum ad opus operatum. Ergo ex opere operato virtutes in baptismo non augentur.  
 
 Praeterea, cibus corporalis in eo qui jam pervenit ad quantitatem determinatam, non facit augmentum. Sed potest esse quod aliquis ante baptismum perveniat ad quantitatem gratiae baptismalis quam puer recipit, in quo nullum est impedimentum. Ergo baptismus nihil supra gratiam adjiciet.  
 
@@ -393,7 +393,7 @@ Sed contra, super illud Psal. 22: *super aquam refectionis educavit me*, dicit G
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod baptismi effectus non sit illuminatio. Quia illuminatio ad doctrinam pertinet. Sed doctrina fidei est per catechismum, qui praecedit baptismum. Ergo non est effectus baptismi.***
+Ulterius. Videtur quod baptismi effectus non sit illuminatio. Quia illuminatio ad doctrinam pertinet. Sed doctrina fidei est per catechismum, qui praecedit baptismum. Ergo non est effectus baptismi.  
 
 Praeterea, illuminatio contra ignorantiam ordinatur. Sed secundum quosdam baptismus non ordinatur contra ignorantiam, sed magis ordo. Ergo illuminatio non est effectus baptismi, sed magis ordinis.  
 
@@ -401,7 +401,7 @@ Sed contra est quod Damascenus, ponit inter effectus baptismi illuminationem, ut
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod fecundatio non sit effectus baptismi. Non enim idem est quo aliquis active generat, et passive generatur. Sed baptismus est regeneratio passiva baptizati. Cum ergo fecunditas importet generationem activam, videtur quod non pertineat ad baptismum.***
+Ulterius. Videtur quod fecundatio non sit effectus baptismi. Non enim idem est quo aliquis active generat, et passive generatur. Sed baptismus est regeneratio passiva baptizati. Cum ergo fecunditas importet generationem activam, videtur quod non pertineat ad baptismum.  
 
 Praeterea, fecunditas est proprietas consequens aliquid quantum ad perfectum statum sui: quia, ut dicitur in 4 *Meteor*., perfectum unumquodque est, quando potest alterum generare. Sed baptismus non ordinatur ad perficiendum, sicut Eucharistia et confirmatio, secundum Dionysium, sed magis ad illuminandum et purgandum. Ergo baptismus non habet fecunditatem pro effectu.  
 
@@ -409,7 +409,7 @@ Sed contra est quod dicit Glossa super illud Psal. 22: *super aquam refectionis:
 
 Quaestiuncula 5  
 
-***Ulterius. Videtur quod incorporari Christo non sit effectus baptismi. Aliquis enim incorporatur Christo et membris ejus per fidem formatam, ut in 3 Lib., dist. 23, dixit Magister. Sed aliquis habet fidem formatam etiam ante baptismum. Ergo incorporatio non est effectus baptismi.***
+Ulterius. Videtur quod incorporari Christo non sit effectus baptismi. Aliquis enim incorporatur Christo et membris ejus per fidem formatam, ut in 3 Lib., dist. 23, dixit Magister. Sed aliquis habet fidem formatam etiam ante baptismum. Ergo incorporatio non est effectus baptismi.  
 
 Praeterea, incorporatio est effectus Eucharistiae. Sed ad eumdem effectum non ordinantur diversa sacramenta. Ergo non est effectus baptismi.  
 
@@ -417,7 +417,7 @@ Sed contra est quod Augustinus dicit ad Bonifacium quod in baptismo aliquis memb
 
 Quaestiuncula 6  
 
-***Ulterius. Videtur quod apertio januae non sit effectus baptismi. Quidam enim ante passionem Christi baptizati sunt. Sed tunc eis janua non est aperta: quia si aliquis eorum tunc decessit, regnum non introivit. Ergo baptismus non aperit januam regni caelestis.***
+Ulterius. Videtur quod apertio januae non sit effectus baptismi. Quidam enim ante passionem Christi baptizati sunt. Sed tunc eis janua non est aperta: quia si aliquis eorum tunc decessit, regnum non introivit. Ergo baptismus non aperit januam regni caelestis.  
 
 Praeterea, baptismus repraesentat passionem Christi, non resurrectionem, ut videtur. Sed in resurrectione est aperta janua, ut patet per collectam quae dicitur in die resurrectionis: *Deus qui in hodierna die per unigenitum tuum aeternitatis nobis aditum devicta morte reserasti*. Ergo non debet iste effectus baptismo attribui.  
 
@@ -425,7 +425,7 @@ Sed contra est auctoritas Bedae supra inducta, dist. 1, quod in hoc differebat c
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod circa hoc est multiplex opinio. Quidam enim dixerunt, quod pueris in baptismo nullo modo virtutes dantur, sed solum a peccato originali mundantur; sed postea quando decedunt, vel quando ad perfectam aetatem veniunt, eis virtutes conferuntur, si innocentiam servent. Sed haec opinio non potest stare: quia lignum cum praecisum fuerit, ubi ceciderit, ibi stabit, Eccle. 11; et ideo si pueris ante mortem non fuissent collatae virtutes, et gratia operans et cooperans, nec in morte eis conferrentur, et sic non salvarentur; quod falsum est. Videtur autem haec opinio venisse ex hoc quod virtutes actus tantum esse credebant; quod falsum est, ut in 2 libro, dist. 27, quaest. 1, art. 1, dictum est.***
+Respondeo dicendum ad primam quaestionem, quod circa hoc est multiplex opinio. Quidam enim dixerunt, quod pueris in baptismo nullo modo virtutes dantur, sed solum a peccato originali mundantur; sed postea quando decedunt, vel quando ad perfectam aetatem veniunt, eis virtutes conferuntur, si innocentiam servent. Sed haec opinio non potest stare: quia lignum cum praecisum fuerit, ubi ceciderit, ibi stabit, Eccle. 11; et ideo si pueris ante mortem non fuissent collatae virtutes, et gratia operans et cooperans, nec in morte eis conferrentur, et sic non salvarentur; quod falsum est. Videtur autem haec opinio venisse ex hoc quod virtutes actus tantum esse credebant; quod falsum est, ut in 2 libro, dist. 27, quaest. 1, art. 1, dictum est.  
 
 Et ideo alii dicunt, quod pueris in baptismo dantur gratia et virtutes non in seipsis, sed in radice sua, scilicet gratia quae est radix virtutum, sicut essentia animae potentiarum; sed postea quando solvuntur potentiae, perfectis organis, effluunt virtutes in ipsa ab ipsa essentia animae. Sed hoc pro tanto esse non potest, quia tunc si puer in furiam verteretur antequam ad perfectam aetatem veniret, nunquam in ipso potentiae solverentur, et ita nunquam virtutes explicite haberet: et praeterea quod potentiae sint ligatae aliquo impedimento, non impedit habitum, sed actum: quia dormientes et vinolenti habitus habent, sed ligatos.  
 
@@ -441,7 +441,7 @@ Ad quartum dicendum, quod habitus facit habilem ad actum tollendo inhabilitatem 
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod per easdem causas virtus generatur et augetur, ut dicit Philosophus in 2 *Ethic*.; et ideo, quia baptismi est conferre virtutem et gratiam non habentibus, oportet quod in habentibus augeat.***
+Ad secundam quaestionem dicendum, quod per easdem causas virtus generatur et augetur, ut dicit Philosophus in 2 *Ethic*.; et ideo, quia baptismi est conferre virtutem et gratiam non habentibus, oportet quod in habentibus augeat.  
 
 Ad primum ergo dicendum, quod in baptismo quamvis non operetur meritum baptizati, operatur ibi tamen meritum Christi, quod est efficacius.  
 
@@ -449,7 +449,7 @@ Ad secundum dicendum, quod gratia non habet aliquem determinatum terminum ad que
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum quod lumen est quo dirigimur in visionem alicujus rei. Baptismus autem dirigit in visionem spiritualem exteriorem et interiorem. Interiorem quidem inquantum baptismus dicitur sacramentum fidei, quae oculum mentis idoneum facit ad visionem divinorum; exteriorem vero, quia baptizatis conceditur inspicere sacram Eucharistiam, et non aliis, ut Dionysius dicit; et ideo tam Damascenus quam Dionysius baptismo vim illuminativam attribuunt.***
+Ad tertiam quaestionem dicendum quod lumen est quo dirigimur in visionem alicujus rei. Baptismus autem dirigit in visionem spiritualem exteriorem et interiorem. Interiorem quidem inquantum baptismus dicitur sacramentum fidei, quae oculum mentis idoneum facit ad visionem divinorum; exteriorem vero, quia baptizatis conceditur inspicere sacram Eucharistiam, et non aliis, ut Dionysius dicit; et ideo tam Damascenus quam Dionysius baptismo vim illuminativam attribuunt.  
 
 Ad primum ergo dicendum quod fides principaliter est ex infusione; et quantum ad hoc per baptismum datur; sed quantum ad determinationem suam est ex auditu; et sic homo ad fidem per catechismum instruitur.  
 
@@ -457,7 +457,7 @@ Ad secundum dicendum, quod scientia plus dicit quam illuminatio. Importat enim c
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod fecunditas dicitur dupliciter. Uno modo respectu fructus producendi in ipso qui dicitur fecundari, sicut operationes virtutum quidam fructus boni dicuntur; et hoc modo fecundatur anima in baptismo, cum in eo dentur virtutes non habentibus, et augeantur habentibus. Alio modo respectu fructus producendi in altero, sicut cum aliquis per doctrinam et solicitudinem pastoralem in plebe Dei fructum facit; et hoc modo fecundatio non pertinet ad baptismum, sed magis ad sacramentum ordinis.***
+Ad quartam quaestionem dicendum, quod fecunditas dicitur dupliciter. Uno modo respectu fructus producendi in ipso qui dicitur fecundari, sicut operationes virtutum quidam fructus boni dicuntur; et hoc modo fecundatur anima in baptismo, cum in eo dentur virtutes non habentibus, et augeantur habentibus. Alio modo respectu fructus producendi in altero, sicut cum aliquis per doctrinam et solicitudinem pastoralem in plebe Dei fructum facit; et hoc modo fecundatio non pertinet ad baptismum, sed magis ad sacramentum ordinis.  
 
 Ad primum ergo dicendum, quod ex eodem ex quo aliquid habet generationem in natura aliqua, habet quod faciat operationes illius naturae; et ideo cum per baptismum homo regeneretur in vitam spiritualem, per ipsum homo efficitur active fecundus, et quasi genitor spiritualium operum.  
 
@@ -465,7 +465,7 @@ Ad secundum dicendum quod ratio illa procedit de secunda fecundatione.
 
 Quaestiuncula 5  
 
-***Ad quintam quaestionem dicendum, quod incorporari Christo contingit dupliciter, scilicet merito et numero. Merito quidem potest aliquis de ecclesia effici (quod est Christo incorporari) etiam ante baptismum actu susceptum, sed non ante baptismi propositum vel ipsum baptismum post tempus gratiae revelatae; sed numero non potest aliquis effici de ecclesia nisi per baptismum; unde aliquis ante baptismum non admittitur ad perceptionem Eucharistiae et aliorum sacramentorum ecclesiae, ut prius dictum est.***
+Ad quintam quaestionem dicendum, quod incorporari Christo contingit dupliciter, scilicet merito et numero. Merito quidem potest aliquis de ecclesia effici (quod est Christo incorporari) etiam ante baptismum actu susceptum, sed non ante baptismi propositum vel ipsum baptismum post tempus gratiae revelatae; sed numero non potest aliquis effici de ecclesia nisi per baptismum; unde aliquis ante baptismum non admittitur ad perceptionem Eucharistiae et aliorum sacramentorum ecclesiae, ut prius dictum est.  
 
 Ad primum ergo dicendum, quod objectio illa procedit de prima incorporatione.  
 
@@ -473,7 +473,7 @@ Ad secundum dicendum, quod perceptio Eucharistiae praesupponit incorporationem a
 
 Quaestiuncula 6  
 
-***Ad sextam quaestionem dicendum, quod aperiri januam regni caelestis nihil aliud est quam amovere impedimentum quo aditus in regnum caeleste toti naturae humanae prohibebatur. Hoc ergo impedimentum absolute quantum ad omnes remotum fuit sufficienter per passionem Christi; sed illa remotio efficienter fit quo ad istum, secundum quod particeps fit passionis Christi jam factae per baptismum; et sic baptismus quasi causa instrumentalis aperit januam regni caelestis quo ad istum, sed passio ut causa satisfactoria quo ad omnes.***
+Ad sextam quaestionem dicendum, quod aperiri januam regni caelestis nihil aliud est quam amovere impedimentum quo aditus in regnum caeleste toti naturae humanae prohibebatur. Hoc ergo impedimentum absolute quantum ad omnes remotum fuit sufficienter per passionem Christi; sed illa remotio efficienter fit quo ad istum, secundum quod particeps fit passionis Christi jam factae per baptismum; et sic baptismus quasi causa instrumentalis aperit januam regni caelestis quo ad istum, sed passio ut causa satisfactoria quo ad omnes.  
 
 Ad primum ergo dicendum, quod haec ratio erat, quia passio Christi, in cujus virtute baptismus agit, nondum facta erat, nec per eam aditus regni caelestis apertus; unde ratio probat quod baptismus non habeat hanc virtutem quasi causa principalis.  
 
@@ -485,7 +485,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod baptismus non aequalem effectum habeat in omnes quantum ad remotionem mali. In adultis enim removet peccatum actuale et originale; sed in pueris originale tantum. Ergo plus efficit in adultis quam in pueris quantum ad mali remotionem.***
+Ad tertium sic proceditur. Videtur quod baptismus non aequalem effectum habeat in omnes quantum ad remotionem mali. In adultis enim removet peccatum actuale et originale; sed in pueris originale tantum. Ergo plus efficit in adultis quam in pueris quantum ad mali remotionem.  
 
 Praeterea, mitigatio fomitis est effectus baptismi. Sed post baptismum in quibusdam invenitur fomes magis mitigatus quam in aliis. Ergo in eis efficacius baptismus se habuit in remotione mali.  
 
@@ -493,7 +493,7 @@ Sed contra, baptismus habet efficaciam ad removendum malum, secundum quod habet 
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod etiam aequalis gratia omnibus in baptismo conferatur, qui non ficte accedunt. In baptismo enim operatur passio Christi, quae habet quodammodo efficaciam infinitam. Sed finitum infinito additum nihil majus efficit. Cum ergo devotio accedentis qua unus alium excedit, sit quoddam bonum finitum, videtur quod devotio vel aliquid hujusmodi, efficere non possit quin omnes in baptismo aequalem gratiam consequantur.***
+Ulterius. Videtur quod etiam aequalis gratia omnibus in baptismo conferatur, qui non ficte accedunt. In baptismo enim operatur passio Christi, quae habet quodammodo efficaciam infinitam. Sed finitum infinito additum nihil majus efficit. Cum ergo devotio accedentis qua unus alium excedit, sit quoddam bonum finitum, videtur quod devotio vel aliquid hujusmodi, efficere non possit quin omnes in baptismo aequalem gratiam consequantur.  
 
 Praeterea, ad baptismi effectum capiendum non requiritur alia concausa, sed solum ut impedimentum removeatur. Sed nullus recipit gratiam in baptismo nisi ab eo sit impedimentum remotum. Ergo omnes recipiunt gratiam aequalem.  
 
@@ -501,7 +501,7 @@ Sed contra, Damascenus dicit, quod peccatorum remissio cunctis aequaliter in bap
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod nec etiam pueri in baptismo consequantur aequalem gratiam. Quia in angelis secundum quantitatem naturalium gratia infundebatur. Sed unus puerorum habet meliora naturalia quam alius. Ergo et majorem gratiam in baptismo recipit.***
+Ulterius. Videtur quod nec etiam pueri in baptismo consequantur aequalem gratiam. Quia in angelis secundum quantitatem naturalium gratia infundebatur. Sed unus puerorum habet meliora naturalia quam alius. Ergo et majorem gratiam in baptismo recipit.  
 
 Praeterea, quidam in baptismo recipiunt gratiam finalem, qui innocentiam baptismalem usque ad finem servant, quidam autem non. Ergo etiam de pueris aliqui aliis majorem gratiam consequuntur.  
 
@@ -509,7 +509,7 @@ Sed contra, gratia baptismalis in pueritia non opponitur nisi peccato originali.
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod baptismus universaliter aufert in eo qui non ficte accedit, culpam personam inficientem, quam invenit, ut dictum est, et sic accedit ad terminum. Ea autem quae in termino sunt, intensionem non recipiunt; et ideo quantum ad remotionem culpae, aequalem effectum habet in omnibus baptismus; et similiter est de poena personali, quae respondet culpae originali prout est inficiens personam, scilicet carentia divinae visionis. Sed contra aliam poenam ex principiis naturae corruptae consequentem, sicut est concupiscentia vel fomes, remedium adhibetur in baptismo, ut non dominentur per gratiam in baptismo collatam; et ideo simile est de poena illa et de gratia.***
+Respondeo dicendum, ad primam quaestionem, quod baptismus universaliter aufert in eo qui non ficte accedit, culpam personam inficientem, quam invenit, ut dictum est, et sic accedit ad terminum. Ea autem quae in termino sunt, intensionem non recipiunt; et ideo quantum ad remotionem culpae, aequalem effectum habet in omnibus baptismus; et similiter est de poena personali, quae respondet culpae originali prout est inficiens personam, scilicet carentia divinae visionis. Sed contra aliam poenam ex principiis naturae corruptae consequentem, sicut est concupiscentia vel fomes, remedium adhibetur in baptismo, ut non dominentur per gratiam in baptismo collatam; et ideo simile est de poena illa et de gratia.  
 
 Ad primum ergo dicendum, quod hoc non est de efficacia baptismi quod non tot peccata destruit in uno quot in alio:*alio.—alio, sed quia non tot invenit in uno quot in alio*; PLE. in quolibet enim destruit omnia quae invenit.  
 
@@ -517,7 +517,7 @@ Ad secundum dicendum, quod illa objectio procedit de secunda poena, quae habet r
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod actus activorum recipiuntur in passivis secundum suam dispositionem; et ideo quamvis baptismus (ut et passio Christi, quae in eo operatur) quantum est de se, aequalem respectum ad omnes habeat; quia tamen quidam ad baptismum cum majori praeparatione fidei et devotionis accedunt quam alii, ideo quidam aliis majorem gratiam consequuntur. Nullus enim gratiam in termino recipit, ut intendi non possit per baptismum.***
+Ad secundam quaestionem dicendum, quod actus activorum recipiuntur in passivis secundum suam dispositionem; et ideo quamvis baptismus (ut et passio Christi, quae in eo operatur) quantum est de se, aequalem respectum ad omnes habeat; quia tamen quidam ad baptismum cum majori praeparatione fidei et devotionis accedunt quam alii, ideo quidam aliis majorem gratiam consequuntur. Nullus enim gratiam in termino recipit, ut intendi non possit per baptismum.  
 
 Ad primum ergo dicendum, quod devotio baptizati non additur quasi concausa, ut efficienter agat ad gratiae receptionem; sed additur quasi dispositio materialis; et ideo secundum diversitatem ipsius participatur baptismi effectus.  
 
@@ -525,7 +525,7 @@ Ad secundum dicendum, quod quando adultus baptizatur, non solum requiritur ad pe
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in pueris baptizatis nihil ex parte eorum requiritur, sed habent quasi pro dispositione ad salutem fidem ecclesiae, et pro effectivo salutis virtutem passionis Christi, quae operatur in baptismo; et haec duo aequaliter ad pueros se habent; et ideo non differunt quantum ad effectum baptismi suscipiendum, sed omnes aequalem gratiam suscipiunt.***
+Ad tertiam quaestionem dicendum, quod in pueris baptizatis nihil ex parte eorum requiritur, sed habent quasi pro dispositione ad salutem fidem ecclesiae, et pro effectivo salutis virtutem passionis Christi, quae operatur in baptismo; et haec duo aequaliter ad pueros se habent; et ideo non differunt quantum ad effectum baptismi suscipiendum, sed omnes aequalem gratiam suscipiunt.  
 
 Ad primum ergo dicendum, quod non est simile de pueris et de angelis: quia angeli differunt specie, secundum multorum opinionem, pueri autem non; unde non est tanta differentia naturalium in pueris sicut in angelis. Vel dicendum, quod in angelis secundum proportionem gradus naturalium erat etiam proportio conatus qui ex parte eorum requirebatur, et ideo accipiebant gratiam secundum proportionem naturalium; in pueris autem non requiritur aliquis actus ex parte eorum; et ideo non est simile.  
 
@@ -542,12 +542,11 @@ primo, de pueris, et aliis usu rationis carentibus, quos constat sacramentum et 
 - secundo, de fictis qui recipiunt sacramentum, et non rem sacramenti;
 - tertio, de baptizatis baptismo flaminis et sanguinis, qui non recipiunt sacramentum, sed rem sacramenti.
 - Articulus 1
-
-***De pueris, et aliis usu rationis carentibus, quos constat sacramentum et rem sacramenti percipere***
+De pueris, et aliis usu rationis carentibus, quos constat sacramentum et rem sacramenti percipere  
 
 ***Quaestiuncula 1***
 
-***Ad primum sic proceditur. Videtur quod pueri sacramentum suscipere non possint. Marc. ult., 16: *qui crediderit et baptizatus fuerit, salvus erit*; ex quo patet quod credere praesupponitur ad baptismum. Sed pueri non possunt credere, quia non possunt aliquid cum assertione cogitare. Ergo pueri non possunt suscipere sacramentum baptismi.***
+Ad primum sic proceditur. Videtur quod pueri sacramentum suscipere non possint. Marc. ult., 16: *qui crediderit et baptizatus fuerit, salvus erit*; ex quo patet quod credere praesupponitur ad baptismum. Sed pueri non possunt credere, quia non possunt aliquid cum assertione cogitare. Ergo pueri non possunt suscipere sacramentum baptismi.  
 
 Praeterea, in baptismo fit quaedam obligatio hominis ad ea quae sunt fidei Christianae servanda. Sed obligatio non potest fieri nisi ab eo qui est suae voluntatis arbiter constitutus. Ergo pueri sacramentum baptismi suscipere non possunt.  
 
@@ -559,7 +558,7 @@ Praeterea, baptismus circumcisioni successit. Sed circumcisio pueris conferebatu
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod melius sit baptismum differri quam statim in pueritia dare, nisi necessitas mortis emergat. Quia omnis Christi actio, nostra est instructio. Sed Christus baptismum accipere voluit in tricesimo anno vitae suae, ut dicitur Luc. 3. Ergo et similiter apud nos debet usque ad tempus perfectae aetatis differri.***
+Ulterius. Videtur quod melius sit baptismum differri quam statim in pueritia dare, nisi necessitas mortis emergat. Quia omnis Christi actio, nostra est instructio. Sed Christus baptismum accipere voluit in tricesimo anno vitae suae, ut dicitur Luc. 3. Ergo et similiter apud nos debet usque ad tempus perfectae aetatis differri.  
 
 Praeterea, medicina efficax debet sumi quando maxime potest juvare. Sed baptismus maxime juvaret in fine vitae, vel saltem in perfecta aetate; quia per ipsum omnia delicta adolescentiae et juventutis solverentur. Ergo usque tunc deberet differri.  
 
@@ -571,7 +570,7 @@ Praeterea, melius est impedire malum ne fiat, quam jam factum destruere. Sed per
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod adultis usu rationis carentibus baptisma dari non debeat. In adultis enim non solum per baptismum originale, sed etiam actualia peccata solvuntur. Sed contra actuale peccatum quod quis ex seipso commisit, requiritur proprius motus liberi arbitrii. Ergo his adultis qui usum liberi arbitrii non habent, baptismus dari non debet.***
+Ulterius. Videtur quod adultis usu rationis carentibus baptisma dari non debeat. In adultis enim non solum per baptismum originale, sed etiam actualia peccata solvuntur. Sed contra actuale peccatum quod quis ex seipso commisit, requiritur proprius motus liberi arbitrii. Ergo his adultis qui usum liberi arbitrii non habent, baptismus dari non debet.  
 
 Praeterea, nulli contradicenti sacramentum exhiberi oportet. Sed quandoque amentes et furiosi contradicunt. Ergo eis baptismus dari non debet.  
 
@@ -583,7 +582,7 @@ Praeterea, pueri, qui nunquam habuerunt usum rationis, baptizantur. Ergo multo a
 
 Quaestiuncula 1  
 
-***Respondeo dicendum, ad primam quaestionem, quod diversi status mundi comparantur diversis aetatibus unius hominis, sicut Augustinus dicit in lib. *83 quaestionum*. Unde sicut nullus status mundi fuit in quo esset humano generi praeclusa via salutis, ita nulla aetas hominis unius est in qua sibi via salutis praecludatur. Unde cum in pueris sit peccatum originale, per quod a consecutione aeternae salutis impediuntur, oportet quod eis adhiberi possit aliquod remedium ad removendum praedictum impedimentum. Hoc autem est baptismus. Unde divinae misericordiae contradicit qui negat baptismum parvulis posse exhiberi; et propter hoc haereticum est hoc dicere.***
+Respondeo dicendum, ad primam quaestionem, quod diversi status mundi comparantur diversis aetatibus unius hominis, sicut Augustinus dicit in lib. *83 quaestionum*. Unde sicut nullus status mundi fuit in quo esset humano generi praeclusa via salutis, ita nulla aetas hominis unius est in qua sibi via salutis praecludatur. Unde cum in pueris sit peccatum originale, per quod a consecutione aeternae salutis impediuntur, oportet quod eis adhiberi possit aliquod remedium ad removendum praedictum impedimentum. Hoc autem est baptismus. Unde divinae misericordiae contradicit qui negat baptismum parvulis posse exhiberi; et propter hoc haereticum est hoc dicere.  
 
 Ad primum ergo dicendum, quod pueri quamvis non habeant actum fidei, habent tamen habitum, quem in baptismo suscipiunt, sicut et habitus aliarum virtutum. Sed si verbum Domini intelligatur de actu fidei, tunc referendum est ad illos tantum qui per doctrinam apostolorum imbuendi erant, de quibus praedixerat: *praedicate Evangelium omni creaturae*; nulli enim eorum quibus Evangelium praedicandum erat, baptismus dari debebat, nisi crederet.  
 
@@ -593,7 +592,7 @@ Ad tertium dicendum, quod sicut ille qui ascribitur ad militiam non oportet quod
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod magis laudabile est quod pueri quam citius poterint baptizentur commode, non expectata perfecta aetate, propter tres rationes. Primo, quia propter imbecillitatem naturae de facili mori possunt et damnari; unde ut damnationis periculum evitetur, debent baptismo praeveniri. Secundo propter infestationes daemonum, qui non habent tantam potestatem in pueris baptizatis ab originali mundatis, quantum in illis qui adhuc originale habent, neque quantum ad nocumenta spiritualia, neque quantum ad nocumenta corporalia. Tertio, quia in pueritia facilius homo ad aliqua inducitur, et firmius inhaeret, secundum quod Philosophus dicit in 2 *Ethic*., cap. 1: *non parum differt ex juvene confestim assuefieri, sed multum; magis autem omne*; et hanc causam assignat Dionysius in fine *Eccles. Hierarc*. dicens: *tradit autem puerum sacris symbolis*, idest sacramentalibus signis, *summus sacerdos, ut cum eis conversetur, et neque formetur in vitam alteram, nisi divina contemplantem semper*.***
+Ad secundam quaestionem dicendum, quod magis laudabile est quod pueri quam citius poterint baptizentur commode, non expectata perfecta aetate, propter tres rationes. Primo, quia propter imbecillitatem naturae de facili mori possunt et damnari; unde ut damnationis periculum evitetur, debent baptismo praeveniri. Secundo propter infestationes daemonum, qui non habent tantam potestatem in pueris baptizatis ab originali mundatis, quantum in illis qui adhuc originale habent, neque quantum ad nocumenta spiritualia, neque quantum ad nocumenta corporalia. Tertio, quia in pueritia facilius homo ad aliqua inducitur, et firmius inhaeret, secundum quod Philosophus dicit in 2 *Ethic*., cap. 1: *non parum differt ex juvene confestim assuefieri, sed multum; magis autem omne*; et hanc causam assignat Dionysius in fine *Eccles. Hierarc*. dicens: *tradit autem puerum sacris symbolis*, idest sacramentalibus signis, *summus sacerdos, ut cum eis conversetur, et neque formetur in vitam alteram, nisi divina contemplantem semper*.  
 
 Ad primum ergo dicendum, quod Christus suscepit baptismum quasi ipsum instituens vel consecrans. Hoc autem ad doctoris vel sacerdotis officium pertinet, nuntiare viam salutis; et ideo ante tempus perfectae aetatis, quod competit esse in doctore vel sacerdote, baptizari non debuit. Nec est simile de aliis qui baptismum suscipiunt, ut ab eo juventur.  
 
@@ -603,7 +602,7 @@ Ad tertium dicendum, quod gratia baptismalis non est per acquisitionem hominis, 
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod de amentibus distinguendum est. Quidam enim sunt qui ex nativitate amentes fuerunt, et nunquam habent aliqua lucida intervalla; et de talibus videtur esse idem judicium quod de pueris. Quidam autem amentiam incurrerunt ex infirmitate vel aliquo hujusmodi, et habent aliqua lucida intervalla; et de istis dicendum est, quod si antequam amentiam incurrerunt, vel dum habent lucida intervalla, fuerunt in proposito baptismum suscipiendi, si necessitas sit, possunt baptizari, et baptismi sacramentum suscipiunt, et rem sacramenti, etiam si tunc actu dissentiant quando baptizantur in amentia existentes. Si autem ante amentiam contradixerint, non recipiunt sacramentum neque rem sacramenti.***
+Ad tertiam quaestionem dicendum, quod de amentibus distinguendum est. Quidam enim sunt qui ex nativitate amentes fuerunt, et nunquam habent aliqua lucida intervalla; et de talibus videtur esse idem judicium quod de pueris. Quidam autem amentiam incurrerunt ex infirmitate vel aliquo hujusmodi, et habent aliqua lucida intervalla; et de istis dicendum est, quod si antequam amentiam incurrerunt, vel dum habent lucida intervalla, fuerunt in proposito baptismum suscipiendi, si necessitas sit, possunt baptizari, et baptismi sacramentum suscipiunt, et rem sacramenti, etiam si tunc actu dissentiant quando baptizantur in amentia existentes. Si autem ante amentiam contradixerint, non recipiunt sacramentum neque rem sacramenti.  
 
 Ad primum ergo dicendum, quod sicut in adulto qui habet usum rationis, disponit ad gratiam baptismalem suscipiendam motus liberi arbitrii quem habet dum baptizatur; ita in amente motus liberi arbitrii quem habebat dum sanae mentis erat.  
 
@@ -617,7 +616,7 @@ Articulus 2
 
 ***Quaestiuncula 1***
 
-***Ad secundum sic proceditur. Videtur quod nulla indispositio voluntatis humanae possit effectum baptismi impedire. Ea enim quae sunt a natura, sunt magis permanentia quam ea quae sunt a voluntate. Sed originale est peccatum naturae, quod baptismi effectum non impedit. Ergo nec aliqua indispositio voluntatis baptismum in suo effectu impedire potest.***
+Ad secundum sic proceditur. Videtur quod nulla indispositio voluntatis humanae possit effectum baptismi impedire. Ea enim quae sunt a natura, sunt magis permanentia quam ea quae sunt a voluntate. Sed originale est peccatum naturae, quod baptismi effectum non impedit. Ergo nec aliqua indispositio voluntatis baptismum in suo effectu impedire potest.  
 
 Praeterea, in naturalibus indispositio materiae non impedit effectum agentis totaliter, nisi quando contraria dispositio quae est in materia, est fortior quam virtus agentis, sicut patet de aquositate lignorum per comparationem ad calorem ignis. Sed virtus divina, quae in sacramentis secretius operatur salutem, ut Augustinus dicit, est potentior qualibet indispositione nostrae voluntatis. Ergo non potest propter indispositionem voluntatis effectus baptismi totaliter tolli.  
 
@@ -629,7 +628,7 @@ Praeterea, secundum Augustinum, *qui creavit te sine te, non justificabit te sin
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod hujusmodi voluntatis indispositio non debeat dici fictio. Secundum enim unumquodque genus peccati contingit voluntatem esse indispositam ad baptismalis gratiae susceptionem. Sed fictio est speciale peccatum, quia opponitur speciali virtuti, scilicet veritati, ut patet per Philosophum in 4 *Ethic*. Ergo non debet dici universale impedimentum baptismalis gratiae.***
+Ulterius. Videtur quod hujusmodi voluntatis indispositio non debeat dici fictio. Secundum enim unumquodque genus peccati contingit voluntatem esse indispositam ad baptismalis gratiae susceptionem. Sed fictio est speciale peccatum, quia opponitur speciali virtuti, scilicet veritati, ut patet per Philosophum in 4 *Ethic*. Ergo non debet dici universale impedimentum baptismalis gratiae.  
 
 Praeterea, Augustinus dicit, quod fictus est qui non credit. Sed sicut in baptismo datur fides, ita et aliae virtutes, et praecipue caritas, per quam aliquis fit filius Dei. Ergo fictio non magis debet poni impedimentum baptismi, quam opposita aliarum virtutum.  
 
@@ -641,7 +640,7 @@ Praeterea, fictus alio modo ab Augustino dicitur qui contemnit suscipere. Sed ta
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod recedente fictione baptismus effectum non consequatur. Opus enim mortuum nunquam vivificatur, ut infra, dist. 14, dicetur. Sed opus mortuum dicitur quod in peccato mortali factum est. Cum ergo ficte accedens ad baptismum, in peccato mortali sit, baptismus ille nunquam vivificari poterit, ut ei gratiam conferat.***
+Ulterius. Videtur quod recedente fictione baptismus effectum non consequatur. Opus enim mortuum nunquam vivificatur, ut infra, dist. 14, dicetur. Sed opus mortuum dicitur quod in peccato mortali factum est. Cum ergo ficte accedens ad baptismum, in peccato mortali sit, baptismus ille nunquam vivificari poterit, ut ei gratiam conferat.  
 
 Praeterea, effectus baptismi est ab omni culpa et poena absolvere. Sed hoc non accidit recedente fictione: quia a poena peccatorum quae post baptismum commisit, non absolvitur alias esset majoris efficaciae in ficte accedentibus quam in aliis, quibus ad deletionem sequentium peccatorum baptismus non operatur. Ergo recedente fictione baptismus non habet suum effectum.  
 
@@ -653,7 +652,7 @@ Praeterea, cuilibet culpae in statu viae potest remedium adhiberi. Sed contra or
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod duplex est effectus baptismi. Primus est res et sacramentum, scilicet character. Et quia character non imprimitur ad praeparandum hominis voluntatem, ut aliquid bene fiat, cum non sit habitus, sed potentia, ut dictum est, ideo hunc effectum voluntatis indispositio non impedit, dummodo aliqualis sit voluntas recipiendi sacramentum. Alius effectus est qui est res et non sacramentum, scilicet gratia, et quae ad ipsam consequuntur, per quae hominis voluntas praeparatur ut bene cooperetur; et ideo ad hunc effectum percipiendum non sufficit quaelibet voluntas sacramentum recipiendi, sed requiritur voluntas talis a qua removeatur omnis indispositio contraria gratiae baptismali quia contraria non se compatiuntur; unde manente contraria dispositione, baptismus ultimum suum effectum habere non posset.***
+Respondeo dicendum ad primam quaestionem, quod duplex est effectus baptismi. Primus est res et sacramentum, scilicet character. Et quia character non imprimitur ad praeparandum hominis voluntatem, ut aliquid bene fiat, cum non sit habitus, sed potentia, ut dictum est, ideo hunc effectum voluntatis indispositio non impedit, dummodo aliqualis sit voluntas recipiendi sacramentum. Alius effectus est qui est res et non sacramentum, scilicet gratia, et quae ad ipsam consequuntur, per quae hominis voluntas praeparatur ut bene cooperetur; et ideo ad hunc effectum percipiendum non sufficit quaelibet voluntas sacramentum recipiendi, sed requiritur voluntas talis a qua removeatur omnis indispositio contraria gratiae baptismali quia contraria non se compatiuntur; unde manente contraria dispositione, baptismus ultimum suum effectum habere non posset.  
 
 Ad primum ergo dicendum, quod peccatum originale eo ipso quod non est voluntarium voluntate hujus personae, habet quod in voluntate, in qua ultimus effectus baptismi effici debet, indispositionem aliquam non causet; et ideo effectum baptismi impedire non potest.  
 
@@ -663,7 +662,7 @@ Ad tertium dicendum, quod sicut in his quae ad esse naturae spectant, quaedam De
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod ad hoc quod aliquis alicujus agentis effectum percipere debeat, oportet quod se habeat in debita dispositione ad causam agentem, et ad effectum percipiendum; et ideo indispositio voluntatis, quae effectum ultimum baptismi impedit est duplex: una secundum ordinem ad ipsum sacramentum; alia secundum ordinem ad effectum sacramenti.***
+Ad secundam quaestionem dicendum, quod ad hoc quod aliquis alicujus agentis effectum percipere debeat, oportet quod se habeat in debita dispositione ad causam agentem, et ad effectum percipiendum; et ideo indispositio voluntatis, quae effectum ultimum baptismi impedit est duplex: una secundum ordinem ad ipsum sacramentum; alia secundum ordinem ad effectum sacramenti.  
 
 Ad ipsum autem sacramentum contingit voluntatem esse indispositam dupliciter: uno modo per subtractionem necessarii; alio modo per positionem contrarii. Quia autem omnis actio est per contactum; ideo necessarium est quod recipiens sacramentum quodammodo contingat ipsum et per intellectum quem quidem contactum facit fides et per affectum quem contactum facit devotio; et ideo indispositus reputatur et qui non credit, et qui indevotus accedit. Similiter autem duplex est contrarium, quod subtrahi oportet. Unum est ex parte eorum quae exterius aguntur; et sic indispositus est qui aliter celebrat. Aliud est ex parte virtutis intrinsecae, quae secretius operatur salutem; et sic indispositus est qui contemnit.  
 
@@ -681,7 +680,7 @@ Ad quintum dicendum, quod non loquimur hic de contemptu quo aliquis abjicit sacr
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod in baptismo imprimitur character, qui est immediata causa disponens ad gratiam; et ideo, cum fictio non auferat characterem, recedente fictione, quae effectum characteris impediebat, character, qui est praesens in anima, incipit habere effectum suum; et ita baptismus recedente fictione, effectum suum consequitur.***
+Ad tertiam quaestionem dicendum, quod in baptismo imprimitur character, qui est immediata causa disponens ad gratiam; et ideo, cum fictio non auferat characterem, recedente fictione, quae effectum characteris impediebat, character, qui est praesens in anima, incipit habere effectum suum; et ita baptismus recedente fictione, effectum suum consequitur.  
 
 Ad primum ergo dicendum, quod baptismus non habet efficaciam solum ex opere operante sed magis ex opere operato, quod est opus Dei et non hominis; et ideo non potest esse mortuum.  
 
@@ -691,11 +690,11 @@ Ad tertium dicendum, quod in Eucharistia non imprimitur character cujus virtute 
 
 Articulus 3  
 
-***De baptizatis baptismo flaminis et sanguinis, qui non recipiunt sacramentum, sed rem sacramenti***
+De baptizatis baptismo flaminis et sanguinis, qui non recipiunt sacramentum, sed rem sacramenti  
 
 ***Quaestiuncula 1***
 
-***Ad tertium sic proceditur. Videtur quod praeter baptismum fluminis non debeant alia baptismata esse. In omnibus enim quae sunt unius speciei, est unus modus generationis. Sed baptismus est regeneratio in vitam spiritualem, quae est unius rationis in omnibus generatis. Ergo non debet esse regeneratio nisi unius modi, et ita tantum baptismus fluminis.***
+Ad tertium sic proceditur. Videtur quod praeter baptismum fluminis non debeant alia baptismata esse. In omnibus enim quae sunt unius speciei, est unus modus generationis. Sed baptismus est regeneratio in vitam spiritualem, quae est unius rationis in omnibus generatis. Ergo non debet esse regeneratio nisi unius modi, et ita tantum baptismus fluminis.  
 
 Praeterea, baptismus condividitur contra alia sacramenta novae legis. Sed alia sacramenta non multiplicantur: non enim sunt plures confirmationes neque plura sacerdotia, et sic de aliis. Ergo praeter baptismum etiam fluminis non debet esse aliquod baptisma.  
 
@@ -707,7 +706,7 @@ Praeterea, Heb. 6, super: *Baptismatum doctrinae*, dicit Glossa: *plura dicit, q
 
 Quaestiuncula 2  
 
-***Ulterius. Videtur quod poenitentiae baptismus non sufficiat ad salutem. Character enim baptismalis videtur esse de pertinentibus ad salutem, eo quod per ipsum distinguitur populus Dei a non populo Dei. Sed per baptismum poenitentiae non imprimitur character. Ergo non sufficit ad salutem.***
+Ulterius. Videtur quod poenitentiae baptismus non sufficiat ad salutem. Character enim baptismalis videtur esse de pertinentibus ad salutem, eo quod per ipsum distinguitur populus Dei a non populo Dei. Sed per baptismum poenitentiae non imprimitur character. Ergo non sufficit ad salutem.  
 
 Praeterea, posita causa sufficiente superfluum videtur aliam causam addere. Si ergo baptismus poenitentiae ad salutem sufficeret necessitate imminente, tunc aliquis necessitatis articulum evadens non deberet baptismo aquae baptizari: quod falsum est.  
 
@@ -719,7 +718,7 @@ Praeterea, Rom. 6, 23, dicitur: *gratia Dei vita aeterna*. Sed contritio non est
 
 Quaestiuncula 3  
 
-***Ulterius. Videtur quod baptismus sanguinis non suppleat vicem baptismi aquae. Baptismus enim aquae habet efficaciam ex opere operato, baptismus autem sanguinis solum ex opere operante; unde sine caritate non prodest, ut dicitur 1 Corinth. 13. Sed in pueris nihil habet efficaciam ex opere operante, quia usum liberi arbitrii non habent. Ergo in eis baptismus sanguinis non supplet vicem baptismi aquae.***
+Ulterius. Videtur quod baptismus sanguinis non suppleat vicem baptismi aquae. Baptismus enim aquae habet efficaciam ex opere operato, baptismus autem sanguinis solum ex opere operante; unde sine caritate non prodest, ut dicitur 1 Corinth. 13. Sed in pueris nihil habet efficaciam ex opere operante, quia usum liberi arbitrii non habent. Ergo in eis baptismus sanguinis non supplet vicem baptismi aquae.  
 
 Praeterea, in baptismo sanguinis non est nisi poena et causa. Sed poena quandoque non est proportionata ad tollendam totam poenam debitam pro peccatis; nec etiam devotio ad causam passionis, cum quis pro Deo patitur, ad hoc sufficeret. Ergo baptismus sanguinis non semper totam poenam debitam pro peccatis tollit, et ita non supplet in omnibus vicem baptismi aquae.  
 
@@ -731,7 +730,7 @@ Praeterea, baptismus aquae efficaciam habet ex passione Christi, cui nos conform
 
 Quaestiuncula 4  
 
-***Ulterius. Videtur quod baptismus aquae sit potior quam baptismus sanguinis. Baptismus enim sanguinis efficaciam habet ex opere operante illius qui patitur, baptismus autem aquae ex passione Christi. Cum ergo passio Christi sit efficacior quam opus operans alicujus puri hominis, baptismus aquae nobilior erit quam baptismus sanguinis.***
+Ulterius. Videtur quod baptismus aquae sit potior quam baptismus sanguinis. Baptismus enim sanguinis efficaciam habet ex opere operante illius qui patitur, baptismus autem aquae ex passione Christi. Cum ergo passio Christi sit efficacior quam opus operans alicujus puri hominis, baptismus aquae nobilior erit quam baptismus sanguinis.  
 
 Praeterea, per baptismum aquae datur homini gratia per quam debetur ei aurea, sed per baptismum sanguinis debetur homini aureola. Ergo cum aurea sit nobilior quam aureola, et baptismus aquae erit nobilior quam baptismus sanguinis.  
 
@@ -739,7 +738,7 @@ Sed contra est quod dicitur in Glossa, Judic. 6, super illud *Tolle vitulum*, et
 
 Quaestiuncula 1  
 
-***Respondeo dicendum ad primam quaestionem, quod proprie loquendo, unum est tantum baptisma, quod in aqua celebratur sub determinata forma verborum, de qua Dominus dicit Matth. ult., 19: *docete omnes gentes, baptizantes eos in nomine Patris et Filii et Spiritus Sancti*. Alia autem dicuntur baptismata per ordinem ad illud baptisma; et hoc tripliciter.***
+Respondeo dicendum ad primam quaestionem, quod proprie loquendo, unum est tantum baptisma, quod in aqua celebratur sub determinata forma verborum, de qua Dominus dicit Matth. ult., 19: *docete omnes gentes, baptizantes eos in nomine Patris et Filii et Spiritus Sancti*. Alia autem dicuntur baptismata per ordinem ad illud baptisma; et hoc tripliciter.  
 
 Primo dicitur aliquid baptisma quasi signum hujus baptismi; et sic diluvium dicitur baptismus, inquantum significat nostrum baptismum quantum ad salvationem spiritualis vitae ex salvatione humani generis tunc facta in arca, ut patet 1 Petr. 3, et transitus maris rubri, qui significat baptismum nostrum quantum ad liberationem a servitute daemonum, ut dicitur 1 Corinth. 10 et ablutiones quae fiebant in lege, quae significant nostrum baptisma quantum ad purgationem peccatorum quae in ipso fit.  
 
@@ -755,7 +754,7 @@ Ad tertium dicendum, quod duo baptismata de quibus Magister facit mentionem in l
 
 Quaestiuncula 2  
 
-***Ad secundam quaestionem dicendum, quod aliquid dicitur ad salutem*salutem dupliciter.—salutem sufficere dupliciter* PLE. dupliciter. Uno modo simpliciter et absolute; et sic baptismus poenitentiae sine baptismo aquae non sufficit ad salutem. Alio modo secundum quid et in casu; et sic sufficit, quando articulus necessitatis sacramentum excludit ne actu percipi possit. Tunc enim quamvis sit poenitentia sine baptismo in actu est tamen cum desiderio et proposito baptismi; et voluntas pro facto reputatur ei qui non habet tempus operandi.***
+Ad secundam quaestionem dicendum, quod aliquid dicitur ad salutem*salutem dupliciter.—salutem sufficere dupliciter* PLE. dupliciter. Uno modo simpliciter et absolute; et sic baptismus poenitentiae sine baptismo aquae non sufficit ad salutem. Alio modo secundum quid et in casu; et sic sufficit, quando articulus necessitatis sacramentum excludit ne actu percipi possit. Tunc enim quamvis sit poenitentia sine baptismo in actu est tamen cum desiderio et proposito baptismi; et voluntas pro facto reputatur ei qui non habet tempus operandi.  
 
 Ad primum ergo dicendum, quod eadem ratio est de charactere baptismali, et de ablutione aquae exteriori: quia utrumque simpliciter est necessarium ad salutem, sed in casu sufficit propositum, quando articulus necessitatis sacramentum excludit.  
 
@@ -765,7 +764,7 @@ Ad tertium dicendum, quod quamvis puerorum aetas sit magis miserabilis, tamen op
 
 Quaestiuncula 3  
 
-***Ad tertiam quaestionem dicendum, quod baptismus aquae efficaciam habet a passione Christi, inquantum eam sacramentaliter repraesentat; Baptismus autem sanguinis passioni Christi conformat realiter, non sacramentali repraesentatione; et ideo in his quae sacramentalia sunt baptismus sanguinis non supplet vicem baptismi aquae, sicut est impressio characteris et hujusmodi, sed in eo quod est res tantum, supplet totaliter vicem baptismi aquae quando articulus necessitatis sacramentum excludit. Sicut enim in baptismo aquae liberatur homo ab omni culpa praecedente et poena, ita in baptismo sanguinis.***
+Ad tertiam quaestionem dicendum, quod baptismus aquae efficaciam habet a passione Christi, inquantum eam sacramentaliter repraesentat; Baptismus autem sanguinis passioni Christi conformat realiter, non sacramentali repraesentatione; et ideo in his quae sacramentalia sunt baptismus sanguinis non supplet vicem baptismi aquae, sicut est impressio characteris et hujusmodi, sed in eo quod est res tantum, supplet totaliter vicem baptismi aquae quando articulus necessitatis sacramentum excludit. Sicut enim in baptismo aquae liberatur homo ab omni culpa praecedente et poena, ita in baptismo sanguinis.  
 
 Ad primum ergo dicendum, quod baptismus sanguinis non habet hoc tantum ex opere operante, neque quantum ad poenam qua aliquis martyrium explet, quam contingit non esse sufficientem ad satisfaciendum pro peccato; neque quantum ad devotionem justae voluntatis: quia contingit quod voluntate majori caritate informata aliquis sine martyrio non potest ab omni poena liberari, sed hoc habet ex imitatione passionis Christi; unde de martyribus dicitur Apocal. 7, 14: *laverunt stolas suas in sanguine agni*; et ideo pueri quamvis usum liberum arbitrium non habeant, si occidantur pro Christo, in suo sanguine baptizati salvantur.  
 
@@ -775,7 +774,7 @@ Ad tertium dicendum, quod in aliis supererogationis vel perfectionis operibus ve
 
 Quaestiuncula 4  
 
-***Ad quartam quaestionem dicendum, quod uterque baptismus habet efficaciam a passione Christi, secundum quod ei conformat. Et quia baptismus aquae conformat ei sacramentali significatione, baptismus autem sanguinis realiter; ideo quantum ad sacramentalia excedit baptismus aquae, sicut est impressio characteris, et hujusmodi; sed quantum ad ea quae sunt res sacramenti, excedit baptismus sanguinis, quia et gratia in baptismo sanguinis magis augetur habenti, et amplior datur non habenti, si impedimentum non adsit; et remissio peccatorum quamvis non sit plenior, quia uterque omnem poenam et culpam tollit, tamen est in baptismo sanguinis efficacior et fructuosior, quia secundis maculis non inquinatur, ut Damascenus dicit. Quod enim quidam dicunt, quod in baptismo sanguinis gratia non confertur, apparet falsum esse in pueris qui pro Christo occiduntur, et etiam in adultis, quibus potest in ipso actu passionis gratia dari, sicut et in baptismo aquae, si se ad eam disposuerint, et obicem aliquem non ponant Spiritui Sancto. Et hoc patet per Augustinum, qui loquens de comparatione horum baptismatum, ait: *baptizatus confitetur fidem suam coram sacerdote, martyr coram persecutore; ille post professionem aspergitur aqua, hic sanguine; ille per impositionem manus pontificis recipit Spiritum Sanctum, hic templum efficitur Spiritus Sancti*. Nullus autem efficitur templum Spiritus Sancti nisi gratiam accipiendo.***
+Ad quartam quaestionem dicendum, quod uterque baptismus habet efficaciam a passione Christi, secundum quod ei conformat. Et quia baptismus aquae conformat ei sacramentali significatione, baptismus autem sanguinis realiter; ideo quantum ad sacramentalia excedit baptismus aquae, sicut est impressio characteris, et hujusmodi; sed quantum ad ea quae sunt res sacramenti, excedit baptismus sanguinis, quia et gratia in baptismo sanguinis magis augetur habenti, et amplior datur non habenti, si impedimentum non adsit; et remissio peccatorum quamvis non sit plenior, quia uterque omnem poenam et culpam tollit, tamen est in baptismo sanguinis efficacior et fructuosior, quia secundis maculis non inquinatur, ut Damascenus dicit. Quod enim quidam dicunt, quod in baptismo sanguinis gratia non confertur, apparet falsum esse in pueris qui pro Christo occiduntur, et etiam in adultis, quibus potest in ipso actu passionis gratia dari, sicut et in baptismo aquae, si se ad eam disposuerint, et obicem aliquem non ponant Spiritui Sancto. Et hoc patet per Augustinum, qui loquens de comparatione horum baptismatum, ait: *baptizatus confitetur fidem suam coram sacerdote, martyr coram persecutore; ille post professionem aspergitur aqua, hic sanguine; ille per impositionem manus pontificis recipit Spiritum Sanctum, hic templum efficitur Spiritus Sancti*. Nullus autem efficitur templum Spiritus Sancti nisi gratiam accipiendo.  
 
 Ad primum ergo dicendum, quod etiam baptismus sanguinis efficaciam habet a passione Christi, cui expressius conformat quam baptismus aquae.  
 
@@ -783,7 +782,7 @@ Ad secundum dicendum, quod in baptismo sanguinis aliquis non solum aureolam mere
 
 Expositio textus  
 
-****Omnes parvuli qui in baptismo ab originali mundantur, sacramentum et rem suscipiunt*. Non tamen soli parvuli, sed etiam adulti quandoque. Tamen de parvulis non est dubium quin recipiant; de adultis autem est, quia per fictionem impediri possent; et ideo parvulis potius exemplificat.***
+*Omnes parvuli qui in baptismo ab originali mundantur, sacramentum et rem suscipiunt*. Non tamen soli parvuli, sed etiam adulti quandoque. Tamen de parvulis non est dubium quin recipiant; de adultis autem est, quia per fictionem impediri possent; et ideo parvulis potius exemplificat.  
 
 *Nisi poeniteat, eum veteris vitae*. Contra. Ergo baptismus non est primum sacramentum, sed poenitentia. Et dicendum, quod loquitur de poenitentia prout est virtus, non prout est sacramentum.  
 

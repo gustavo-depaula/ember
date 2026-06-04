@@ -1,8 +1,10 @@
 # D. 22 - First sin of man
 
+***De hominis primo peccato***
+
 ***Divisio textus***
 
-***Postquam determinavit principium humani casus ex parte tentatoris, hic determinat principium intrinsecum ex parte ipsius hominis peccantis,***
+Postquam determinavit principium humani casus ex parte tentatoris, hic determinat principium intrinsecum ex parte ipsius hominis peccantis,  
 
 et dividitur in partes duas:  
 
@@ -86,7 +88,7 @@ Articulus 1
 
 ***Utrum primum peccatum hominis fuerit superbia***
 
-***Ad primum sic proceditur. Videtur quod superbia non fuit primum hominis peccatum.***
+Ad primum sic proceditur. Videtur quod superbia non fuit primum hominis peccatum.  
 
 Discredere enim verba divina peccatum infidelitatis est. Sed peccatum hominis ex hoc processisse videtur quod verba Dei discredidit, vel de eis dubitavit, ut supra dictum est. Ergo primum peccatum hominis fuit infidelitas.  
 
@@ -132,7 +134,7 @@ Articulus 2
 
 ***Utrum peccatum hominis fuerit hoc quod appetierit esse sicut Deus***
 
-***Ad secundum sic proceditur. Videtur quod peccatum hominis non fuerit in hoc quod appetiit esse sicut Deus.***
+Ad secundum sic proceditur. Videtur quod peccatum hominis non fuerit in hoc quod appetiit esse sicut Deus.  
 
 Completa enim voluntas prudentis de impossibili esse non potest, et praecipue de illo quod in apprehensionem non cadit. Sed aliquam creaturam esse sicut Deus est impossibile, nec intellectu capi potest. Ergo hoc modo non appetiit, cum prudentiam et reliquas virtutes haberet, ut infra Magister dicit.  
 
@@ -284,7 +286,7 @@ Ad quintum dicendum, quod ignorantia et infirmitas habent quod excusent peccatum
 
 Expositio textus  
 
-****Quae per tentationem fuerat convincenda vel perimenda*, scilicet spirituali morte vel etiam corporali, vel a se, vel a viro, vel a Deo, si de muliere intelligatur, ut Magister exponit.***
+*Quae per tentationem fuerat convincenda vel perimenda*, scilicet spirituali morte vel etiam corporali, vel a se, vel a viro, vel a Deo, si de muliere intelligatur, ut Magister exponit.  
 
 *In eo tamen fuisse seductum credi potest, quod commissum veniale putaverit*.Parma: *crederet*. According to Mandonnet, Parma here confuses the text of Augustine with the text of Peter Lombard. Hoc intelligitur, ut supra dictum est, de veniali ex causa et non ex genere. Putavit enim quod quia fecit ut uxori morem gereret, peccatum suum excusationis causam haberet et veniam de facili acciperet, et hujusmodi seductionis causa videtur fuisse elatio mentis, quae ad suggestionem mulieris surrepsit.  
 

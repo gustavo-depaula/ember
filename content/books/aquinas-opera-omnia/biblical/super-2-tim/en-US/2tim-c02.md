@@ -1,10 +1,12 @@
 # C. 1 - Preaching Christ
 
+***Preaching Christ***
+
 ***Lecture 1***
 
 ***Greeting***
 
-***^1:1^ Paul, an apostle of Jesus Christ, by the will of God, according to the promise of life which is in Christ Jesus: [n. 3]***
+^1:1^ Paul, an apostle of Jesus Christ, by the will of God, according to the promise of life which is in Christ Jesus: [n. 3]  
 
 > ^1:2^ To Timothy, my dearly beloved son. Grace, mercy and peace, from God the Father and from Christ Jesus our Lord. [n. 5]
 
@@ -32,7 +34,7 @@ Lecture 2
 
 ***Thanksgiving***
 
-***^1:3^ I give thanks to God, whom I serve from my forefathers, with a pure conscience, that without ceasing I have a remembrance of you in my prayers, night and day. [n. 7]***
+^1:3^ I give thanks to God, whom I serve from my forefathers, with a pure conscience, that without ceasing I have a remembrance of you in my prayers, night and day. [n. 7]  
 
 > ^1:4^ Desiring to see you, being mindful of your tears, that I may be filled with joy: [n. 9]
 
@@ -80,7 +82,7 @@ Lecture 3
 
 ***Labor with the Gospel***
 
-***^1:6^ For which cause I admonish you that you stir up the grace of God which is in you by the imposition of my hands. [n. 12]***
+^1:6^ For which cause I admonish you that you stir up the grace of God which is in you by the imposition of my hands. [n. 12]  
 
 > ^1:7^ For God has not given us the spirit of fear: but of power and of love and of sobriety. [n. 14]
 
@@ -168,7 +170,7 @@ Lecture 4
 
 ***Example of Paul***
 
-***^1:11^ Wherein I am appointed a preacher and an apostle and teacher of the gentiles. [n. 24]***
+^1:11^ Wherein I am appointed a preacher and an apostle and teacher of the gentiles. [n. 24]  
 
 > ^1:12^ For which cause, I also suffer these things: but I am not ashamed. For I know whom I have believed and I am certain that he is able to keep that which I have committed unto him, against that day. [n. 26]
 

@@ -1,5 +1,7 @@
 # All-powerful and Everlasting God
 
+***Prayer before Holy Communion***
+
 ***All-powerful and everlasting God,***
 ***behold***
 ***I approach the sacrament***

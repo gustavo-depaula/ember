@@ -1,6 +1,8 @@
 # D. 31 - On the goods of marriage and the marital act
 
-***After the Master has determined the causes by which marriage itself is constituted, here he examines the reasons for its dignity, namely, the goods of the union, by which the marital act is dignified. And this is divided into two parts: in the first, he determines the goods of marriage as regards marriage, and this is what we are now discussing; in the second part, he shows how these goods existed in the marriages of the patriarchs, in Distinction 33, at: *here it is asked concerning the ancient Fathers*.*Sententiae* IV, 33.1 (194). 1.***
+***On the goods of marriage and the marital act***
+
+After the Master has determined the causes by which marriage itself is constituted, here he examines the reasons for its dignity, namely, the goods of the union, by which the marital act is dignified. And this is divided into two parts: in the first, he determines the goods of marriage as regards marriage, and this is what we are now discussing; in the second part, he shows how these goods existed in the marriages of the patriarchs, in Distinction 33, at: *here it is asked concerning the ancient Fathers*.*Sententiae* IV, 33.1 (194). 1.  
 
 The first part is divided into two: first, he determines the goods of the union for which the marital act is excused. Second, he considers the marital act itself, which is excused through the aforementioned goods, according as it also has the nature of something owed, in Distinction 32, at: *it is also to be known that even though in all other things the husband is above the wife . . . yet they are equal in satisfying the debt of the flesh*.*Sent*. IV, 32.1 (190). 1.  
 
@@ -34,7 +36,7 @@ first, whether certain goods should excuse marriage;
 
 ***Whether certain goods should excuse marriage***
 
-***Obj. 1: To the first question, we proceed thus. It seems that marriage should not be excused by certain goods. For nature intends the conservation of the individual, which occurs by what pertains to nutrition, just as it intends the conservation of the species, which occurs through marriage; and much more, as the good of the species is much better and more godlike than the good of one individual.See Aristotle, *Nicomachean Ethics*, Bk. 1, ch. 2: “for the good of the city is more godlike than the good of one man” (1094b7–11); cf. *On the Soul*, Bk. 2, ch. 4 (415a25-b7). But no one needs to be excused from the act of nourishing himself. Therefore, neither from marriage.***
+Obj. 1: To the first question, we proceed thus. It seems that marriage should not be excused by certain goods. For nature intends the conservation of the individual, which occurs by what pertains to nutrition, just as it intends the conservation of the species, which occurs through marriage; and much more, as the good of the species is much better and more godlike than the good of one individual.See Aristotle, *Nicomachean Ethics*, Bk. 1, ch. 2: “for the good of the city is more godlike than the good of one man” (1094b7–11); cf. *On the Soul*, Bk. 2, ch. 4 (415a25-b7). But no one needs to be excused from the act of nourishing himself. Therefore, neither from marriage.  
 
 Obj. 2: Furthermore, according to the Philosopher in the *Ethics* 8, the friendship between a husband and wife is natural, and includes in itself the honorable, the useful, and the pleasurable.Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1162a15–29). But what is honorable in itself does not require any excuse. Therefore, neither should excusing goods be attributed to marriage.  
 
@@ -60,7 +62,7 @@ Article 2
 
 ***What and how many they might be***
 
-***Obj. 1: To the second question, we proceed thus.Parallels: below, d. 33, q. 1, a. 1; *SCG* IV, ch. 78; *Super I Cor.* 7, lec. 1. It seems that the goods of marriage—namely, fidelity, children, and sacrament—are inadequately ennumerated in the text. For marriage does not only occur among men for the procreation and nurturing of children; but also for the fellowship of a shared life for the sake of sharing the labors, as is stated in the *Ethics* 8.Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1162a15ff.). Therefore, just as offspring are counted as a good of marriage, so also the sharing of labors should be.***
+Obj. 1: To the second question, we proceed thus.Parallels: below, d. 33, q. 1, a. 1; *SCG* IV, ch. 78; *Super I Cor.* 7, lec. 1. It seems that the goods of marriage—namely, fidelity, children, and sacrament—are inadequately ennumerated in the text. For marriage does not only occur among men for the procreation and nurturing of children; but also for the fellowship of a shared life for the sake of sharing the labors, as is stated in the *Ethics* 8.Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1162a15ff.). Therefore, just as offspring are counted as a good of marriage, so also the sharing of labors should be.  
 
 Obj. 2: Furthermore, the union of Christ and the Church, which marriage signifies, is accomplished by charity. Therefore, among the goods of marriage, charity should be counted rather than faith.  
 
@@ -94,7 +96,7 @@ Article 3
 
 ***How they are related to marriage***
 
-***Obj. 1: To the third question, we proceed thus. It seems that sacrament is not the principal good among the goods of marriage. For the end is most important in anything. But the procreation of children is the end of marriage. Therefore, the procreation of children is foremost among the goods of marriage.***
+Obj. 1: To the third question, we proceed thus. It seems that sacrament is not the principal good among the goods of marriage. For the end is most important in anything. But the procreation of children is the end of marriage. Therefore, the procreation of children is foremost among the goods of marriage.  
 
 Obj. 2: Furthermore, the difference of species, which completes the species, is more important to the account than the genus, just as form is more important than matter in the constitution of a natural thing. But sacrament belongs to marriage under the notion of its genus; while offspring and fidelity belong to it under the notion of difference, insofar as it is this kind of sacrament. Therefore, the other two are more principal things in marriage than sacrament is.  
 
@@ -126,17 +128,16 @@ Question 2
 
 ***The marital act***
 
-***Next it should be asked how marriage may be excused by the aforementioned goods; and regarding this, three questions arise:***
+Next it should be asked how marriage may be excused by the aforementioned goods; and regarding this, three questions arise:  
 
 first, whether the goods mentioned excuse the marital act, so that it is not a sin at all;  
 
 - second, whether without these goods it might ever be excused from sin;
 - third, whether when it is without them it is always a mortal sin.
 - Article 1
+Whether the goods mentioned excuse the marital act, so that it is not a sin at all  
 
-***Whether the goods mentioned excuse the marital act, so that it is not a sin at all***
-
-***Obj. 1: To the first question, we proceed thus.Parallels: *In II Sent.* d. 20, expos. text.; *In IV Sent.* d. 26, q. 1, a. 3, ad 4; *Super I Cor.* 7, lec. 1. It seems that the marital act cannot be excused by the goods named, such that there is no sin at all. For anyone who endures the loss of a greater good because of a lesser good sins, for it is disordered to allow this. But the good of reason, which is injured in the conjugal act itself, is greater than these three goods of the conjugal union. Therefore, these goods do not suffice to excuse conjugal intercourse.***
+Obj. 1: To the first question, we proceed thus.Parallels: *In II Sent.* d. 20, expos. text.; *In IV Sent.* d. 26, q. 1, a. 3, ad 4; *Super I Cor.* 7, lec. 1. It seems that the marital act cannot be excused by the goods named, such that there is no sin at all. For anyone who endures the loss of a greater good because of a lesser good sins, for it is disordered to allow this. But the good of reason, which is injured in the conjugal act itself, is greater than these three goods of the conjugal union. Therefore, these goods do not suffice to excuse conjugal intercourse.  
 
 Obj. 2: Furthermore, if good is added to evil in the genus of moral acts, the whole is made evil, not good. For one bad circumstance makes an act evil, but one good circumstance does not make it good. But the conjugal act is evil in itself, otherwise it would not need to be excused. Therefore, the goods added to marriage cannot make it good.  
 
@@ -162,7 +163,7 @@ Article 2
 
 ***Whether without these goods it might ever be excused from sin***
 
-***Obj. 1: To the second question, we proceed thus.Parallel: *De malo*, q. 15, a. 1. It seems that the marital act may be excused even without the goods of matrimony. For whoever is moved to the marital act by nature alone does not seem to intend any good, since the goods of matrimony pertain to grace or virtue. But when someone is moved to the aforementioned act by natural appetite alone, it does not seem to be a sin. For nothing natural is bad, since evil is contrary to nature and contrary to order, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 4 (PG 3:713). Therefore, the marital act can be excused even without the goods of marriage.***
+Obj. 1: To the second question, we proceed thus.Parallel: *De malo*, q. 15, a. 1. It seems that the marital act may be excused even without the goods of matrimony. For whoever is moved to the marital act by nature alone does not seem to intend any good, since the goods of matrimony pertain to grace or virtue. But when someone is moved to the aforementioned act by natural appetite alone, it does not seem to be a sin. For nothing natural is bad, since evil is contrary to nature and contrary to order, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 4 (PG 3:713). Therefore, the marital act can be excused even without the goods of marriage.  
 
 Obj. 2: Furthermore, the man who avails himself of his wife in order to avoid fornication does not seem to intend any good of marriage. But such a man does not sin, as it seems, since marriage was granted to human weakness for this purpose, that fornication might be avoided (1 Corinthians 7). Therefore even without the goods of marriage this act may be excused.  
 
@@ -188,7 +189,7 @@ Article 3
 
 ***Whether when it is without them it is always a mortal sin***
 
-***Obj. 1: To the third question, we proceed thus.Parallels: above, d. 26, q. 1, aa. 3–4; *Super I Thess*. 4, lec. 1; *SCG* IV, ch. 83; *De malo*, q. 15, a. 2; *Super I Cor.* 7, lec. 1. It seems that whenever someone knows his wife without intending any good of marriage, but only pleasure, he sins mortally. For Jerome says, and the text quotes him: *pleasures that are taken from the embraces of prostitutes are condemned in a wife*.Jerome, *Commentarii in iv epistulas Paulinas, Ad Ephesios*, Bk. 3 (PL 26:566). But something is not said to be condemned unless it is a mortal sin. Therefore, to know one’s wife for the sake of sensuality alone is always a mortal sin.***
+Obj. 1: To the third question, we proceed thus.Parallels: above, d. 26, q. 1, aa. 3–4; *Super I Thess*. 4, lec. 1; *SCG* IV, ch. 83; *De malo*, q. 15, a. 2; *Super I Cor.* 7, lec. 1. It seems that whenever someone knows his wife without intending any good of marriage, but only pleasure, he sins mortally. For Jerome says, and the text quotes him: *pleasures that are taken from the embraces of prostitutes are condemned in a wife*.Jerome, *Commentarii in iv epistulas Paulinas, Ad Ephesios*, Bk. 3 (PL 26:566). But something is not said to be condemned unless it is a mortal sin. Therefore, to know one’s wife for the sake of sensuality alone is always a mortal sin.  
 
 Obj. 2: Furthermore, consenting to pleasure is a mortal sin, as was stated in Book II, Distinction 23, Question 2, Article 2. But whoever knows his wife for the sake of pleasure consents to pleasure. Therefore, he sins mortally.  
 
@@ -214,7 +215,7 @@ Reply Obj. 4: This is not said because a man deserves excommunication for this s
 
 Exposition of the Text  
 
-****It is usual to ask: when a man and a woman, who are not the husband and wife of anyone else, join together . . . for the sake of sexual intercourse alone on account of incontinence*.*Sententiae* IV, 31.2 (183). 5. This was discussed in the preceding distinction, since a bad end does not remove the goodness of marriage.***
+*It is usual to ask: when a man and a woman, who are not the husband and wife of anyone else, join together . . . for the sake of sexual intercourse alone on account of incontinence*.*Sententiae* IV, 31.2 (183). 5. This was discussed in the preceding distinction, since a bad end does not remove the goodness of marriage.  
 
 *As for those who procure poisons to induce sterility, they are not marriage partners, but fornicators*.*Sent*. IV, 31.3 (184). 1. Although this sin is grave, and to be counted among wicked deeds, and against nature (for even beasts desire offspring), nevertheless it is less grave than murder, since a child conceived could be prevented in another way. Nor is such a person to be judged irregular, unless he should now procure an abortion for the child about to be born.  
 

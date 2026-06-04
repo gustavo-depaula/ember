@@ -1,5 +1,14 @@
 # Prayer at the Moment of Death
 
+***Sumo te pretium***
+***redemptionis animae meae.***
+***Sumo te***
+***viaticum peregrinationis meae.***
+***Pro cuius amore***
+***studui,***
+***vigilavi***
+***et laboravi.***
+
 > Te praedicavi, te docui.
 > Nihil unquam contra te dixi.
 > Sed si quid dixi,
