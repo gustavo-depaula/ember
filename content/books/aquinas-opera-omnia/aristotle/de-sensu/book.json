@@ -33,8 +33,113 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Lecture 1",
-        "la": "Lectio 1"
+        "en-US": "Chapter 1 — 436B8–437A19",
+        "la": "Caput 1 — 436B8–437A19"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2 — 437A19–438A5",
+        "la": "Caput 2 — 437A19–438A5"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3 — 438A5-B2",
+        "la": "Caput 3 — 438A5-B2"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4 — 43SB2-439A5",
+        "la": "Caput 4 — 43SB2-439A5"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5 — 439A6–B14",
+        "la": "Caput 5 — 439A6–B14"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapter 7 — 440A15–B28",
+        "la": "Caput 7 — 440A15–B28"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapter 8 — 440B28–441A29",
+        "la": "Caput 8 — 440B28–441A29"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Chapter 9 — 441A30–442A11",
+        "la": "Caput 9 — 441A30–442A11"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Chapter 11 — 442B27–443B16",
+        "la": "Caput 11 — 442B27–443B16"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Chapter 12 — 443B17–444B7",
+        "la": "Caput 12 — 443B17–444B7"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Chapter 13 — 444B7–445B2",
+        "la": "Caput 13 — 444B7–445B2"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Chapter 14 — 445B3–446A20",
+        "la": "Caput 14 — 445B3–446A20"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Chapter 15 — 446A20–447A11",
+        "la": "Caput 15 — 446A20–447A11"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Chapter 16 — 447A12–448A1",
+        "la": "Caput 16 — 447A12–448A1"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Chapter 17 — 448A1–B16",
+        "la": "Caput 17 — 448A1–B16"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Chapter 18 — 448B 17–449B4",
+        "la": "Caput 18 — 448B 17–449B4"
       }
     }
   ]

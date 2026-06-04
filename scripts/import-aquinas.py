@@ -1098,10 +1098,24 @@ def parse_linear_file_by_h3(path: Path) -> list[LinearChapter]:
         ))
 
     n_proem = 0
+    # Heuristic: a "chapter heading" <p> is short, centered (style contains
+    # "text-align: center" or similar), and bold, with content matching
+    # CHAPTER N or similar.
     for el in body.find_all(["h2", "h3", "h4", "p", "blockquote"]):
-        if el.name in ("h2", "h3", "h4"):
-            text = td_text(el).strip()
-            m = chapter_re.search(text)
+        is_heading_el = el.name in ("h2", "h3", "h4")
+        text = td_text(el).strip()
+        first_line = text.split("\n")[0].strip().strip("*").strip()
+        if not is_heading_el and el.name == "p":
+            # Try treating a <p> as a heading if its first line matches the
+            # CHAPTER/Lectio pattern AND the whole <p> is short enough that
+            # it's clearly a heading (not body prose that happens to start
+            # with "Chapter N"). The whole-p length budget is 200 chars to
+            # accommodate `<b>CHAPTER N<br>folio-ref</b>` style headings.
+            stripped = text.strip().strip("*").strip()
+            if len(stripped) < 200 and chapter_re.match(first_line):
+                is_heading_el = True
+        if is_heading_el:
+            m = chapter_re.search(first_line)
             if m:
                 commit()
                 num_text = (m.group(1) or "").strip()
@@ -1110,13 +1124,12 @@ def parse_linear_file_by_h3(path: Path) -> list[LinearChapter]:
                 else:
                     num = "prooemium" if any(w in text.lower() for w in ("prooemium", "prologue", "prologus")) else f"proem{n_proem}"
                     n_proem += 1
-                # Title is "Chapter N: Subtitle" — drop the prefix.
                 title = re.sub(
-                    r"^(?:Chapter|Caput|Lectio|Lecture|Lection|Lesson|Prologus|Prooemium)\s*[IVXLCDM\d]*[:\.,]?\s*",
+                    r"^(?:Chapter|CHAPTER|Caput|Lectio|Lecture|Lection|Lesson|Prologus|Prooemium)\s*[IVXLCDM\d]*[:\.,]?\s*",
                     "",
                     text,
                     flags=re.IGNORECASE,
-                ).strip()
+                ).strip().strip("*").strip()
                 current = {
                     "num": num,
                     "title_en": title,
@@ -1125,7 +1138,6 @@ def parse_linear_file_by_h3(path: Path) -> list[LinearChapter]:
                 continue
         if current is None:
             continue
-        text = td_text(el).strip()
         if not text:
             continue
         if el.name == "blockquote":
@@ -2384,8 +2396,9 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *De Sensu et Sensato* Aristotelis — de sensibus exterioribus eorumque obiectis, ad commentarium *De Anima* pertinens.",
             translator_note_en="English translation by Edward M. Macierowski. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["SensuSensato.htm"],
-            chapter_label_en="Lecture",
-            chapter_label_la="Lectio",
+            chapter_label_en="Chapter",
+            chapter_label_la="Caput",
+            mode="h3-chapters",
         ),
         "aristotle/de-sensu",
     ),
