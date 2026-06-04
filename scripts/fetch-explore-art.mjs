@@ -31,6 +31,14 @@ const targets = [
   { id: 'collection/spiritual-classics', slug: 'spiritual-classics', q: 'Saint Jerome in his study Ghirlandaio' },
   { id: 'collection/mental-prayer', slug: 'mental-prayer', q: 'Saint Dominic in Prayer El Greco' },
   { id: 'collection/alphonsus-liguori', slug: 'alphonsus-liguori', q: 'Saint Alphonsus Liguori painting' },
+  // Carlo Crivelli's 1476 panel from the Demidoff Altarpiece (National Gallery,
+  // London) — Aquinas in Dominican habit holding the Summa, sun of wisdom on
+  // his chest. Clean portrait-format panel, PD (Crivelli †1495).
+  {
+    id: 'collection/thomas-aquinas',
+    slug: 'thomas-aquinas',
+    q: 'Crivelli Saint Thomas Aquinas National Gallery',
+  },
   // Montfort's charism is Marian consecration — a Marian masterpiece fits (need
   // not depict him; no PD portrait surfaced anyway).
   { id: 'collection/montfort-spirituality', slug: 'montfort', q: 'Coronation of the Virgin Velázquez' },

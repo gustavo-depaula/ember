@@ -23,6 +23,7 @@ const artFiles: Record<string, string> = {
   'collection/spiritual-classics': 'spiritual-classics.jpg',
   'collection/mental-prayer': 'mental-prayer.jpg',
   'collection/alphonsus-liguori': 'alphonsus-liguori.jpg',
+  'collection/thomas-aquinas': 'thomas-aquinas.jpg',
   'collection/montfort-spirituality': 'montfort.jpg',
   'collection/novenas': 'novenas.jpg',
   'collection/litanies': 'litanies.jpg',

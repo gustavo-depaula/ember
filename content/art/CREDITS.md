@@ -36,3 +36,4 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **collection/dies-friday** → `dies-friday.jpg` — Diego Velázquez. *Cristo crucificado.jpg* (Public domain).
 - **collection/dies-saturday** → `dies-saturday.jpg` — Sandro Botticelli. *Madonna of the Magnificat* (c. 1481, Uffizi, Florence). Source photo by Livioandronico2013 on Wikimedia Commons (Public domain).
 - **plan-of-life-template/divine-mercy** → `tpl-divine-mercy.jpg` — Eugeniusz Kazimirowski. *Kazimirowski Eugeniusz, Divine Mercy, 1934.jpg* (Public domain).
+- **collection/thomas-aquinas** → `thomas-aquinas.jpg` — Carlo Crivelli. *St-thomas-aquinas.jpg* (Public domain).
