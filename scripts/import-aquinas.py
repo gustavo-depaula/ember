@@ -2211,6 +2211,7 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio *Meteorologicorum* Aristotelis — de phaenomenis meteorologicis et atmosphaericis. Opus inchoatum — solum Librum I et partem II tractavit.",
             translator_note_en="Mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["Meteora.htm"],
+            anchor_re=r"^(\d+\.\d+)$",
             chapter_label_en="Lecture",
             chapter_label_la="Lectio",
         ),
