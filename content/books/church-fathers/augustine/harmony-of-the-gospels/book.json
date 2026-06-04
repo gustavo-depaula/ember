@@ -1,0 +1,939 @@
+{
+  "id": "augustine-harmony-of-the-gospels",
+  "name": {
+    "en-US": "The Harmony of the Gospels"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1602.htm",
+      "description": "Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapter 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapter 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Chapter 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Chapter 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Chapter 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Chapter 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Chapter 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Chapter 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Chapter 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Chapter 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Chapter 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Chapter 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Chapter 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Chapter 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Chapter 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Chapter 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Chapter 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Chapter 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Chapter 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Chapter 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Chapter 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Chapter 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Chapter 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Chapter 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Chapter 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Chapter 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Chapter 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Chapter 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Chapter 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Chapter 2"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Chapter 3"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Chapter 4"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Chapter 5"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Chapter 6"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Chapter 7"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Chapter 8"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Chapter 9"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Chapter 10"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Chapter 11"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Chapter 12"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Chapter 13"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Chapter 14"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Chapter 15"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Chapter 16"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Chapter 17"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Chapter 18"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Chapter 19"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "Chapter 20"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "Chapter 21"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "en-US": "Chapter 22"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "en-US": "Chapter 23"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "en-US": "Chapter 24"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "Chapter 25"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "en-US": "Chapter 26"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "en-US": "Chapter 27"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "en-US": "Chapter 28"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "en-US": "Chapter 29"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "en-US": "Chapter 30"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "en-US": "Chapter 31"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "en-US": "Chapter 32"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "en-US": "Chapter 33"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "en-US": "Chapter 34"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "Chapter 35"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "en-US": "Chapter 36"
+      }
+    },
+    {
+      "id": "ch073",
+      "title": {
+        "en-US": "Chapter 37"
+      }
+    },
+    {
+      "id": "ch074",
+      "title": {
+        "en-US": "Chapter 38"
+      }
+    },
+    {
+      "id": "ch075",
+      "title": {
+        "en-US": "Chapter 39"
+      }
+    },
+    {
+      "id": "ch076",
+      "title": {
+        "en-US": "Chapter 40"
+      }
+    },
+    {
+      "id": "ch077",
+      "title": {
+        "en-US": "Chapter 41"
+      }
+    },
+    {
+      "id": "ch078",
+      "title": {
+        "en-US": "Chapter 42"
+      }
+    },
+    {
+      "id": "ch079",
+      "title": {
+        "en-US": "Chapter 43"
+      }
+    },
+    {
+      "id": "ch080",
+      "title": {
+        "en-US": "Chapter 44"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "Chapter 45"
+      }
+    },
+    {
+      "id": "ch082",
+      "title": {
+        "en-US": "Chapter 46"
+      }
+    },
+    {
+      "id": "ch083",
+      "title": {
+        "en-US": "Chapter 47"
+      }
+    },
+    {
+      "id": "ch084",
+      "title": {
+        "en-US": "Chapter 48"
+      }
+    },
+    {
+      "id": "ch085",
+      "title": {
+        "en-US": "Chapter 49"
+      }
+    },
+    {
+      "id": "ch086",
+      "title": {
+        "en-US": "Chapter 50"
+      }
+    },
+    {
+      "id": "ch087",
+      "title": {
+        "en-US": "Chapter 51"
+      }
+    },
+    {
+      "id": "ch088",
+      "title": {
+        "en-US": "Chapter 52"
+      }
+    },
+    {
+      "id": "ch089",
+      "title": {
+        "en-US": "Chapter 53"
+      }
+    },
+    {
+      "id": "ch090",
+      "title": {
+        "en-US": "Chapter 54"
+      }
+    },
+    {
+      "id": "ch091",
+      "title": {
+        "en-US": "Chapter 55"
+      }
+    },
+    {
+      "id": "ch092",
+      "title": {
+        "en-US": "Chapter 56"
+      }
+    },
+    {
+      "id": "ch093",
+      "title": {
+        "en-US": "Chapter 57"
+      }
+    },
+    {
+      "id": "ch094",
+      "title": {
+        "en-US": "Chapter 58"
+      }
+    },
+    {
+      "id": "ch095",
+      "title": {
+        "en-US": "Chapter 59"
+      }
+    },
+    {
+      "id": "ch096",
+      "title": {
+        "en-US": "Chapter 60"
+      }
+    },
+    {
+      "id": "ch097",
+      "title": {
+        "en-US": "Chapter 61"
+      }
+    },
+    {
+      "id": "ch098",
+      "title": {
+        "en-US": "Chapter 62"
+      }
+    },
+    {
+      "id": "ch099",
+      "title": {
+        "en-US": "Chapter 63"
+      }
+    },
+    {
+      "id": "ch100",
+      "title": {
+        "en-US": "Chapter 64"
+      }
+    },
+    {
+      "id": "ch101",
+      "title": {
+        "en-US": "Chapter 65"
+      }
+    },
+    {
+      "id": "ch102",
+      "title": {
+        "en-US": "Chapter 66"
+      }
+    },
+    {
+      "id": "ch103",
+      "title": {
+        "en-US": "Chapter 67"
+      }
+    },
+    {
+      "id": "ch104",
+      "title": {
+        "en-US": "Chapter 68"
+      }
+    },
+    {
+      "id": "ch105",
+      "title": {
+        "en-US": "Chapter 69"
+      }
+    },
+    {
+      "id": "ch106",
+      "title": {
+        "en-US": "Chapter 70"
+      }
+    },
+    {
+      "id": "ch107",
+      "title": {
+        "en-US": "Chapter 71"
+      }
+    },
+    {
+      "id": "ch108",
+      "title": {
+        "en-US": "Chapter 72"
+      }
+    },
+    {
+      "id": "ch109",
+      "title": {
+        "en-US": "Chapter 73"
+      }
+    },
+    {
+      "id": "ch110",
+      "title": {
+        "en-US": "Chapter 74"
+      }
+    },
+    {
+      "id": "ch111",
+      "title": {
+        "en-US": "Chapter 75"
+      }
+    },
+    {
+      "id": "ch112",
+      "title": {
+        "en-US": "Chapter 76"
+      }
+    },
+    {
+      "id": "ch113",
+      "title": {
+        "en-US": "Chapter 77"
+      }
+    },
+    {
+      "id": "ch114",
+      "title": {
+        "en-US": "Chapter 78"
+      }
+    },
+    {
+      "id": "ch115",
+      "title": {
+        "en-US": "Chapter 79"
+      }
+    },
+    {
+      "id": "ch116",
+      "title": {
+        "en-US": "Chapter 80"
+      }
+    },
+    {
+      "id": "ch117",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "ch118",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "ch119",
+      "title": {
+        "en-US": "Chapter 2"
+      }
+    },
+    {
+      "id": "ch120",
+      "title": {
+        "en-US": "Chapter 3"
+      }
+    },
+    {
+      "id": "ch121",
+      "title": {
+        "en-US": "Chapter 4"
+      }
+    },
+    {
+      "id": "ch122",
+      "title": {
+        "en-US": "Chapter 5"
+      }
+    },
+    {
+      "id": "ch123",
+      "title": {
+        "en-US": "Chapter 6"
+      }
+    },
+    {
+      "id": "ch124",
+      "title": {
+        "en-US": "Chapter 7"
+      }
+    },
+    {
+      "id": "ch125",
+      "title": {
+        "en-US": "Chapter 8"
+      }
+    },
+    {
+      "id": "ch126",
+      "title": {
+        "en-US": "Chapter 9"
+      }
+    },
+    {
+      "id": "ch127",
+      "title": {
+        "en-US": "Chapter 10"
+      }
+    },
+    {
+      "id": "ch128",
+      "title": {
+        "en-US": "Chapter 11"
+      }
+    },
+    {
+      "id": "ch129",
+      "title": {
+        "en-US": "Chapter 12"
+      }
+    },
+    {
+      "id": "ch130",
+      "title": {
+        "en-US": "Chapter 13"
+      }
+    },
+    {
+      "id": "ch131",
+      "title": {
+        "en-US": "Chapter 14"
+      }
+    },
+    {
+      "id": "ch132",
+      "title": {
+        "en-US": "Chapter 15"
+      }
+    },
+    {
+      "id": "ch133",
+      "title": {
+        "en-US": "Chapter 16"
+      }
+    },
+    {
+      "id": "ch134",
+      "title": {
+        "en-US": "Chapter 17"
+      }
+    },
+    {
+      "id": "ch135",
+      "title": {
+        "en-US": "Chapter 18"
+      }
+    },
+    {
+      "id": "ch136",
+      "title": {
+        "en-US": "Chapter 19"
+      }
+    },
+    {
+      "id": "ch137",
+      "title": {
+        "en-US": "Chapter 20"
+      }
+    },
+    {
+      "id": "ch138",
+      "title": {
+        "en-US": "Chapter 21"
+      }
+    },
+    {
+      "id": "ch139",
+      "title": {
+        "en-US": "Chapter 22"
+      }
+    },
+    {
+      "id": "ch140",
+      "title": {
+        "en-US": "Chapter 23"
+      }
+    },
+    {
+      "id": "ch141",
+      "title": {
+        "en-US": "Chapter 24"
+      }
+    },
+    {
+      "id": "ch142",
+      "title": {
+        "en-US": "Chapter 25"
+      }
+    },
+    {
+      "id": "ch143",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "ch144",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "ch145",
+      "title": {
+        "en-US": "Chapter 2"
+      }
+    },
+    {
+      "id": "ch146",
+      "title": {
+        "en-US": "Chapter 3"
+      }
+    },
+    {
+      "id": "ch147",
+      "title": {
+        "en-US": "Chapter 4"
+      }
+    },
+    {
+      "id": "ch148",
+      "title": {
+        "en-US": "Chapter 5"
+      }
+    },
+    {
+      "id": "ch149",
+      "title": {
+        "en-US": "Chapter 6"
+      }
+    },
+    {
+      "id": "ch150",
+      "title": {
+        "en-US": "Chapter 7"
+      }
+    },
+    {
+      "id": "ch151",
+      "title": {
+        "en-US": "Chapter 8"
+      }
+    },
+    {
+      "id": "ch152",
+      "title": {
+        "en-US": "Chapter 9"
+      }
+    },
+    {
+      "id": "ch153",
+      "title": {
+        "en-US": "Chapter 10"
+      }
+    }
+  ]
+}

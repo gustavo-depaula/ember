@@ -1,0 +1,153 @@
+{
+  "id": "john-cassian-conferences",
+  "name": {
+    "en-US": "Conferences"
+  },
+  "author": {
+    "en-US": "John Cassian (c. 360-c. 435)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3508.htm",
+      "description": "Translated by C.S. Gibson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 11, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1894. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "CONFERENCE 1."
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "CONFERENCE 2."
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "CONFERENCE 3."
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "CONFERENCE 4."
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "CONFERENCE 5."
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "CONFERENCE 6."
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "CONFERENCE 7."
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "CONFERENCE 8."
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "CONFERENCE 9."
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "CONFERENCE 10."
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "CONFERENCE 11."
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "CONFERENCE 13."
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "CONFERENCE 14."
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "CONFERENCE 15."
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "CONFERENCE 16."
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "CONFERENCE 17."
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "CONFERENCE 18."
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "CONFERENCE 19."
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "CONFERENCE 20."
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "CONFERENCE 21."
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "CONFERENCE 23."
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "CONFERENCE 24."
+      }
+    }
+  ]
+}

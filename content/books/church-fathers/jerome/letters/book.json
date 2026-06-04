@@ -1,0 +1,807 @@
+{
+  "id": "jerome-letters",
+  "name": {
+    "en-US": "Letters"
+  },
+  "author": {
+    "en-US": "Jerome"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3001.htm",
+      "description": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1893. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "LETTER 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "LETTER 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "LETTER 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "LETTER 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "LETTER 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "LETTER 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "LETTER 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "LETTER 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "LETTER 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "LETTER 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "LETTER 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "LETTER 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "LETTER 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "LETTER 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "LETTER 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "LETTER 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "LETTER 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "LETTER 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "LETTER 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "LETTER 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "LETTER 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "LETTER 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "LETTER 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "LETTER 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "LETTER 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "LETTER 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "LETTER 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "LETTER 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "LETTER 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "LETTER 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "LETTER 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "LETTER 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "LETTER 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "LETTER 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "LETTER 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "LETTER 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "LETTER 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "LETTER 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "LETTER 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "LETTER 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "LETTER 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "LETTER 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "LETTER 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "LETTER 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "LETTER 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "LETTER 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "LETTER 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "LETTER 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "LETTER 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "LETTER 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "LETTER 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "LETTER 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "LETTER 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "LETTER 54"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "LETTER 55"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "LETTER 57"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "LETTER 58"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "en-US": "LETTER 59"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "en-US": "LETTER 60"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "en-US": "LETTER 61"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "LETTER 62"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "en-US": "LETTER 63"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "en-US": "LETTER 64"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "en-US": "LETTER 65"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "en-US": "LETTER 66"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "en-US": "LETTER 68"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "en-US": "LETTER 69"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "en-US": "LETTER 70"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "en-US": "LETTER 71"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "en-US": "LETTER 72"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "LETTER 73"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "en-US": "LETTER 74"
+      }
+    },
+    {
+      "id": "ch073",
+      "title": {
+        "en-US": "LETTER 75"
+      }
+    },
+    {
+      "id": "ch074",
+      "title": {
+        "en-US": "LETTER 76"
+      }
+    },
+    {
+      "id": "ch075",
+      "title": {
+        "en-US": "LETTER 77"
+      }
+    },
+    {
+      "id": "ch076",
+      "title": {
+        "en-US": "LETTER 78"
+      }
+    },
+    {
+      "id": "ch077",
+      "title": {
+        "en-US": "LETTER 79"
+      }
+    },
+    {
+      "id": "ch078",
+      "title": {
+        "en-US": "LETTER 80"
+      }
+    },
+    {
+      "id": "ch079",
+      "title": {
+        "en-US": "LETTER 81"
+      }
+    },
+    {
+      "id": "ch080",
+      "title": {
+        "en-US": "LETTER 82"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "LETTER 83"
+      }
+    },
+    {
+      "id": "ch082",
+      "title": {
+        "en-US": "LETTER 84"
+      }
+    },
+    {
+      "id": "ch083",
+      "title": {
+        "en-US": "LETTER 85"
+      }
+    },
+    {
+      "id": "ch084",
+      "title": {
+        "en-US": "LETTER 86"
+      }
+    },
+    {
+      "id": "ch085",
+      "title": {
+        "en-US": "LETTER 87"
+      }
+    },
+    {
+      "id": "ch086",
+      "title": {
+        "en-US": "LETTER 88"
+      }
+    },
+    {
+      "id": "ch087",
+      "title": {
+        "en-US": "LETTER 89"
+      }
+    },
+    {
+      "id": "ch088",
+      "title": {
+        "en-US": "LETTER 90"
+      }
+    },
+    {
+      "id": "ch089",
+      "title": {
+        "en-US": "LETTER 91"
+      }
+    },
+    {
+      "id": "ch090",
+      "title": {
+        "en-US": "LETTER 92"
+      }
+    },
+    {
+      "id": "ch091",
+      "title": {
+        "en-US": "LETTER 93"
+      }
+    },
+    {
+      "id": "ch092",
+      "title": {
+        "en-US": "LETTER 94"
+      }
+    },
+    {
+      "id": "ch093",
+      "title": {
+        "en-US": "LETTER 95"
+      }
+    },
+    {
+      "id": "ch094",
+      "title": {
+        "en-US": "LETTER 96"
+      }
+    },
+    {
+      "id": "ch095",
+      "title": {
+        "en-US": "LETTER 97"
+      }
+    },
+    {
+      "id": "ch096",
+      "title": {
+        "en-US": "LETTER 98"
+      }
+    },
+    {
+      "id": "ch097",
+      "title": {
+        "en-US": "LETTER 99"
+      }
+    },
+    {
+      "id": "ch098",
+      "title": {
+        "en-US": "LETTER 100"
+      }
+    },
+    {
+      "id": "ch099",
+      "title": {
+        "en-US": "LETTER 106"
+      }
+    },
+    {
+      "id": "ch100",
+      "title": {
+        "en-US": "LETTER 107"
+      }
+    },
+    {
+      "id": "ch101",
+      "title": {
+        "en-US": "LETTER 108"
+      }
+    },
+    {
+      "id": "ch102",
+      "title": {
+        "en-US": "LETTER 109"
+      }
+    },
+    {
+      "id": "ch103",
+      "title": {
+        "en-US": "LETTER 113"
+      }
+    },
+    {
+      "id": "ch104",
+      "title": {
+        "en-US": "LETTER 114"
+      }
+    },
+    {
+      "id": "ch105",
+      "title": {
+        "en-US": "LETTER 117"
+      }
+    },
+    {
+      "id": "ch106",
+      "title": {
+        "en-US": "LETTER 118"
+      }
+    },
+    {
+      "id": "ch107",
+      "title": {
+        "en-US": "LETTER 119"
+      }
+    },
+    {
+      "id": "ch108",
+      "title": {
+        "en-US": "LETTER 120"
+      }
+    },
+    {
+      "id": "ch109",
+      "title": {
+        "en-US": "LETTER 121"
+      }
+    },
+    {
+      "id": "ch110",
+      "title": {
+        "en-US": "LETTER 122"
+      }
+    },
+    {
+      "id": "ch111",
+      "title": {
+        "en-US": "LETTER 123"
+      }
+    },
+    {
+      "id": "ch112",
+      "title": {
+        "en-US": "LETTER 124"
+      }
+    },
+    {
+      "id": "ch113",
+      "title": {
+        "en-US": "LETTER 125"
+      }
+    },
+    {
+      "id": "ch114",
+      "title": {
+        "en-US": "LETTER 127"
+      }
+    },
+    {
+      "id": "ch115",
+      "title": {
+        "en-US": "LETTER 128"
+      }
+    },
+    {
+      "id": "ch116",
+      "title": {
+        "en-US": "LETTER 129"
+      }
+    },
+    {
+      "id": "ch117",
+      "title": {
+        "en-US": "LETTER 130"
+      }
+    },
+    {
+      "id": "ch118",
+      "title": {
+        "en-US": "LETTER 133"
+      }
+    },
+    {
+      "id": "ch119",
+      "title": {
+        "en-US": "LETTER 135"
+      }
+    },
+    {
+      "id": "ch120",
+      "title": {
+        "en-US": "LETTER 136"
+      }
+    },
+    {
+      "id": "ch121",
+      "title": {
+        "en-US": "LETTER 137"
+      }
+    },
+    {
+      "id": "ch122",
+      "title": {
+        "en-US": "LETTER 138"
+      }
+    },
+    {
+      "id": "ch123",
+      "title": {
+        "en-US": "LETTER 139"
+      }
+    },
+    {
+      "id": "ch124",
+      "title": {
+        "en-US": "LETTER 140"
+      }
+    },
+    {
+      "id": "ch125",
+      "title": {
+        "en-US": "LETTER 144"
+      }
+    },
+    {
+      "id": "ch126",
+      "title": {
+        "en-US": "LETTER 145"
+      }
+    },
+    {
+      "id": "ch127",
+      "title": {
+        "en-US": "LETTER 146"
+      }
+    },
+    {
+      "id": "ch128",
+      "title": {
+        "en-US": "LETTER 147"
+      }
+    },
+    {
+      "id": "ch129",
+      "title": {
+        "en-US": "LETTER 148"
+      }
+    },
+    {
+      "id": "ch130",
+      "title": {
+        "en-US": "LETTER 149"
+      }
+    },
+    {
+      "id": "ch131",
+      "title": {
+        "en-US": "LETTER 150"
+      }
+    }
+  ]
+}

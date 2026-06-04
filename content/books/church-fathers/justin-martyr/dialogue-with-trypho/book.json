@@ -1,0 +1,75 @@
+{
+  "id": "justin-martyr-dialogue-with-trypho",
+  "name": {
+    "en-US": "Dialogue with Trypho"
+  },
+  "author": {
+    "en-US": "Justin Martyr"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0128.htm",
+      "description": "Translated by Marcus Dods and George Reith. From Ante-Nicene Fathers, Vol. 1, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapters 1-9"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapters 10-30"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapters 31-47"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapters 48-54"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapters 55-68"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapters 69-88"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapters 89-108"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapters 109-124"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Chapters 125-142"
+      }
+    }
+  ]
+}

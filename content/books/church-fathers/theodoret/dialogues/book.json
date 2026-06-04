@@ -1,0 +1,45 @@
+{
+  "id": "theodoret-dialogues",
+  "name": {
+    "en-US": "Dialogues (\"Eranistes\" or \"Polymorphus\")"
+  },
+  "author": {
+    "en-US": "Theodoret"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2703.htm",
+      "description": "Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Dialogue 1"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Dialogue 2"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Dialogue 3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "origen-commentary-on-the-gospel-of-john",
+  "name": {
+    "en-US": "Commentary on the Gospel of John"
+  },
+  "author": {
+    "en-US": "Origen"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1015.htm",
+      "description": "Translated by Allan Menzies. From Ante-Nicene Fathers, Vol. 9, Edited by Allan Menzies, Buffalo, NY: Christian Literature Publishing Co 1896. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book VI"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book X"
+      }
+    }
+  ]
+}

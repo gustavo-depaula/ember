@@ -1,0 +1,63 @@
+{
+  "id": "augustine-baptism-against-the-donatists",
+  "name": {
+    "en-US": "On Baptism, Against the Donatists"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1408.htm",
+      "description": "Translated by J.R. King and revised by Chester D. Hartranft. From Nicene and Post-Nicene Fathers, First Series, Vol. 4, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book 7"
+      }
+    }
+  ]
+}

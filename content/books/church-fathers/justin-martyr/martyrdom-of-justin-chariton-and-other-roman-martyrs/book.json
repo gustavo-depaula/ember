@@ -1,0 +1,27 @@
+{
+  "id": "justin-martyr-martyrdom-of-justin-chariton-and-other-roman-martyrs",
+  "name": {
+    "en-US": "Martyrdom of Justin, Chariton, and other Roman Martyrs"
+  },
+  "author": {
+    "en-US": "Justin Martyr"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0133.htm",
+      "description": "Translated by Marcus Dods. From Ante-Nicene Fathers, Vol. 1, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Martyrdom of Justin, Chariton, and other Roman Martyrs"
+      }
+    }
+  ]
+}

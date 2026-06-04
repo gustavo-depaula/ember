@@ -1,0 +1,27 @@
+{
+  "id": "augustine-enchiridion",
+  "name": {
+    "en-US": "The Enchiridion"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1302.htm",
+      "description": "Translated by J.F. Shaw. From Nicene and Post-Nicene Fathers, First Series, Vol. 3, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "The Enchiridion"
+      }
+    }
+  ]
+}

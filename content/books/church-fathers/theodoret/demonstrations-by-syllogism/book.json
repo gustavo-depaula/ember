@@ -1,0 +1,27 @@
+{
+  "id": "theodoret-demonstrations-by-syllogism",
+  "name": {
+    "en-US": "Demonstrations by Syllogism"
+  },
+  "author": {
+    "en-US": "Theodoret"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2704.htm",
+      "description": "Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Demonstrations by Syllogism"
+      }
+    }
+  ]
+}

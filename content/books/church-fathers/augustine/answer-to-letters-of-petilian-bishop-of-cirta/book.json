@@ -1,0 +1,39 @@
+{
+  "id": "augustine-answer-to-letters-of-petilian-bishop-of-cirta",
+  "name": {
+    "en-US": "Answer to Letters of Petilian, Bishop of Cirta"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1409.htm",
+      "description": "Translated by J.R. King and revised by Chester D. Hartranft. From Nicene and Post-Nicene Fathers, First Series, Vol. 4, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book III"
+      }
+    }
+  ]
+}

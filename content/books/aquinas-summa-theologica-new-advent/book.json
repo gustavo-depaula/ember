@@ -1,0 +1,3770 @@
+{
+  "id": "aquinas-summa-theologica-new-advent",
+  "name": {
+    "en-US": "Summa Theologica (Shapcote, 1920)",
+    "la": "Summa Theologiae"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "composed": "1265–1274",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/summa/",
+      "description": "The Summa Theologica of St. Thomas Aquinas, Second and Revised Edition, 1920. Literally translated by Fathers of the English Dominican Province (Shapcote translation). Online edition by Kevin Knight, New Advent. Public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-prima-pars",
+      "title": {
+        "en-US": "Prima Pars"
+      },
+      "children": [
+        {
+          "id": "p1-q001",
+          "title": {
+            "en-US": "Q1. The nature and extent of sacred doctrine"
+          }
+        },
+        {
+          "id": "p1-q002",
+          "title": {
+            "en-US": "Q2. The existence of God"
+          }
+        },
+        {
+          "id": "p1-q003",
+          "title": {
+            "en-US": "Q3. The simplicity of God"
+          }
+        },
+        {
+          "id": "p1-q004",
+          "title": {
+            "en-US": "Q4. The perfection of God"
+          }
+        },
+        {
+          "id": "p1-q005",
+          "title": {
+            "en-US": "Q5. Goodness in general"
+          }
+        },
+        {
+          "id": "p1-q006",
+          "title": {
+            "en-US": "Q6. The goodness of God"
+          }
+        },
+        {
+          "id": "p1-q007",
+          "title": {
+            "en-US": "Q7. The infinity of God"
+          }
+        },
+        {
+          "id": "p1-q008",
+          "title": {
+            "en-US": "Q8. The existence of God in things"
+          }
+        },
+        {
+          "id": "p1-q009",
+          "title": {
+            "en-US": "Q9. The immutability of God"
+          }
+        },
+        {
+          "id": "p1-q010",
+          "title": {
+            "en-US": "Q10. The eternity of God"
+          }
+        },
+        {
+          "id": "p1-q011",
+          "title": {
+            "en-US": "Q11. The unity of God"
+          }
+        },
+        {
+          "id": "p1-q012",
+          "title": {
+            "en-US": "Q12. How God is known by us"
+          }
+        },
+        {
+          "id": "p1-q013",
+          "title": {
+            "en-US": "Q13. The names of God"
+          }
+        },
+        {
+          "id": "p1-q014",
+          "title": {
+            "en-US": "Q14. God's knowledge"
+          }
+        },
+        {
+          "id": "p1-q015",
+          "title": {
+            "en-US": "Q15. Ideas"
+          }
+        },
+        {
+          "id": "p1-q016",
+          "title": {
+            "en-US": "Q16. Truth"
+          }
+        },
+        {
+          "id": "p1-q017",
+          "title": {
+            "en-US": "Q17. Falsity"
+          }
+        },
+        {
+          "id": "p1-q018",
+          "title": {
+            "en-US": "Q18. The life of God"
+          }
+        },
+        {
+          "id": "p1-q019",
+          "title": {
+            "en-US": "Q19. The will of God"
+          }
+        },
+        {
+          "id": "p1-q020",
+          "title": {
+            "en-US": "Q20. God's love"
+          }
+        },
+        {
+          "id": "p1-q021",
+          "title": {
+            "en-US": "Q21. The justice and mercy of God"
+          }
+        },
+        {
+          "id": "p1-q022",
+          "title": {
+            "en-US": "Q22. The providence of God"
+          }
+        },
+        {
+          "id": "p1-q023",
+          "title": {
+            "en-US": "Q23. Predestination"
+          }
+        },
+        {
+          "id": "p1-q024",
+          "title": {
+            "en-US": "Q24. The book of life"
+          }
+        },
+        {
+          "id": "p1-q025",
+          "title": {
+            "en-US": "Q25. The power of God"
+          }
+        },
+        {
+          "id": "p1-q026",
+          "title": {
+            "en-US": "Q26. The divine beatitude"
+          }
+        },
+        {
+          "id": "p1-q027",
+          "title": {
+            "en-US": "Q27. The procession of the divine persons"
+          }
+        },
+        {
+          "id": "p1-q028",
+          "title": {
+            "en-US": "Q28. The divine relations"
+          }
+        },
+        {
+          "id": "p1-q029",
+          "title": {
+            "en-US": "Q29. The divine persons"
+          }
+        },
+        {
+          "id": "p1-q030",
+          "title": {
+            "en-US": "Q30. The plurality of persons in God"
+          }
+        },
+        {
+          "id": "p1-q031",
+          "title": {
+            "en-US": "Q31. The unity or plurality in God"
+          }
+        },
+        {
+          "id": "p1-q032",
+          "title": {
+            "en-US": "Q32. The knowledge of the divine persons"
+          }
+        },
+        {
+          "id": "p1-q033",
+          "title": {
+            "en-US": "Q33. The person of the Father"
+          }
+        },
+        {
+          "id": "p1-q034",
+          "title": {
+            "en-US": "Q34. The person of the Son"
+          }
+        },
+        {
+          "id": "p1-q035",
+          "title": {
+            "en-US": "Q35. The Image"
+          }
+        },
+        {
+          "id": "p1-q036",
+          "title": {
+            "en-US": "Q36. The person of the Holy Ghost"
+          }
+        },
+        {
+          "id": "p1-q037",
+          "title": {
+            "en-US": "Q37. The name of the Holy Ghost--Love"
+          }
+        },
+        {
+          "id": "p1-q038",
+          "title": {
+            "en-US": "Q38. The name of the Holy Ghost, as Gift"
+          }
+        },
+        {
+          "id": "p1-q039",
+          "title": {
+            "en-US": "Q39. The persons in relation to the essence"
+          }
+        },
+        {
+          "id": "p1-q040",
+          "title": {
+            "en-US": "Q40. The persons as compared to the relations or properties"
+          }
+        },
+        {
+          "id": "p1-q041",
+          "title": {
+            "en-US": "Q41. The persons in reference to the notional acts"
+          }
+        },
+        {
+          "id": "p1-q042",
+          "title": {
+            "en-US": "Q42. Equality and likeness among the divine persons"
+          }
+        },
+        {
+          "id": "p1-q043",
+          "title": {
+            "en-US": "Q43. The mission of the divine persons"
+          }
+        },
+        {
+          "id": "p1-q044",
+          "title": {
+            "en-US": "Q44. The procession of creatures from God, and of the first cause of all things"
+          }
+        },
+        {
+          "id": "p1-q045",
+          "title": {
+            "en-US": "Q45. The mode of emanation of things from the first principle"
+          }
+        },
+        {
+          "id": "p1-q046",
+          "title": {
+            "en-US": "Q46. The beginning of the duration of creatures"
+          }
+        },
+        {
+          "id": "p1-q047",
+          "title": {
+            "en-US": "Q47. The distinction of things in general"
+          }
+        },
+        {
+          "id": "p1-q048",
+          "title": {
+            "en-US": "Q48. The distinction of things in particular"
+          }
+        },
+        {
+          "id": "p1-q049",
+          "title": {
+            "en-US": "Q49. The cause of evil"
+          }
+        },
+        {
+          "id": "p1-q050",
+          "title": {
+            "en-US": "Q50. The substance of the angels absolutely considered"
+          }
+        },
+        {
+          "id": "p1-q051",
+          "title": {
+            "en-US": "Q51. The angels in comparison with bodies"
+          }
+        },
+        {
+          "id": "p1-q052",
+          "title": {
+            "en-US": "Q52. The angels in relation to place"
+          }
+        },
+        {
+          "id": "p1-q053",
+          "title": {
+            "en-US": "Q53. The local movement of the angels"
+          }
+        },
+        {
+          "id": "p1-q054",
+          "title": {
+            "en-US": "Q54. The knowledge of the angels"
+          }
+        },
+        {
+          "id": "p1-q055",
+          "title": {
+            "en-US": "Q55. The medium of the angelic knowledge"
+          }
+        },
+        {
+          "id": "p1-q056",
+          "title": {
+            "en-US": "Q56. The angel's knowledge of immaterial things"
+          }
+        },
+        {
+          "id": "p1-q057",
+          "title": {
+            "en-US": "Q57. The angel's knowledge of material things"
+          }
+        },
+        {
+          "id": "p1-q058",
+          "title": {
+            "en-US": "Q58. The mode of angelic knowledge"
+          }
+        },
+        {
+          "id": "p1-q059",
+          "title": {
+            "en-US": "Q59. The will of the angels"
+          }
+        },
+        {
+          "id": "p1-q060",
+          "title": {
+            "en-US": "Q60. The love or dilection of the angels"
+          }
+        },
+        {
+          "id": "p1-q061",
+          "title": {
+            "en-US": "Q61. The production of the angels in the order of natural being"
+          }
+        },
+        {
+          "id": "p1-q062",
+          "title": {
+            "en-US": "Q62. The perfection of the angels in the order of grace and of glory"
+          }
+        },
+        {
+          "id": "p1-q063",
+          "title": {
+            "en-US": "Q63. The malice of the angels with regard to sin"
+          }
+        },
+        {
+          "id": "p1-q064",
+          "title": {
+            "en-US": "Q64. The punishment of the demons"
+          }
+        },
+        {
+          "id": "p1-q065",
+          "title": {
+            "en-US": "Q65. The work of creation of corporeal creatures"
+          }
+        },
+        {
+          "id": "p1-q066",
+          "title": {
+            "en-US": "Q66. The order of creation towards distinction"
+          }
+        },
+        {
+          "id": "p1-q067",
+          "title": {
+            "en-US": "Q67. The work of distinction in itself"
+          }
+        },
+        {
+          "id": "p1-q068",
+          "title": {
+            "en-US": "Q68. The work of the second day"
+          }
+        },
+        {
+          "id": "p1-q069",
+          "title": {
+            "en-US": "Q69. The work of the third day"
+          }
+        },
+        {
+          "id": "p1-q070",
+          "title": {
+            "en-US": "Q70. The work of adornment, as regards the fourth day"
+          }
+        },
+        {
+          "id": "p1-q071",
+          "title": {
+            "en-US": "Q71. The work of the fifth day"
+          }
+        },
+        {
+          "id": "p1-q072",
+          "title": {
+            "en-US": "Q72. The work of the sixth day"
+          }
+        },
+        {
+          "id": "p1-q073",
+          "title": {
+            "en-US": "Q73. The things that belong to the seventh day"
+          }
+        },
+        {
+          "id": "p1-q074",
+          "title": {
+            "en-US": "Q74. All the seven days in common"
+          }
+        },
+        {
+          "id": "p1-q075",
+          "title": {
+            "en-US": "Q75. Man who is composed of a spiritual and a corporeal substance: and in the first place, concerning what belongs to the essence of the soul"
+          }
+        },
+        {
+          "id": "p1-q076",
+          "title": {
+            "en-US": "Q76. The union of body and soul"
+          }
+        },
+        {
+          "id": "p1-q077",
+          "title": {
+            "en-US": "Q77. The powers of the soul in general"
+          }
+        },
+        {
+          "id": "p1-q078",
+          "title": {
+            "en-US": "Q78. The specific powers of the soul"
+          }
+        },
+        {
+          "id": "p1-q079",
+          "title": {
+            "en-US": "Q79. The intellectual powers"
+          }
+        },
+        {
+          "id": "p1-q080",
+          "title": {
+            "en-US": "Q80. The appetitive powers in general"
+          }
+        },
+        {
+          "id": "p1-q081",
+          "title": {
+            "en-US": "Q81. The power of sensuality"
+          }
+        },
+        {
+          "id": "p1-q082",
+          "title": {
+            "en-US": "Q82. The will"
+          }
+        },
+        {
+          "id": "p1-q083",
+          "title": {
+            "en-US": "Q83. Free-will"
+          }
+        },
+        {
+          "id": "p1-q084",
+          "title": {
+            "en-US": "Q84. How the soul while united to the body understands corporeal things beneath it"
+          }
+        },
+        {
+          "id": "p1-q085",
+          "title": {
+            "en-US": "Q85. The mode and order of understanding"
+          }
+        },
+        {
+          "id": "p1-q086",
+          "title": {
+            "en-US": "Q86. What our intellect knows in material things"
+          }
+        },
+        {
+          "id": "p1-q087",
+          "title": {
+            "en-US": "Q87. How the intellectual soul knows itself and all within itself"
+          }
+        },
+        {
+          "id": "p1-q088",
+          "title": {
+            "en-US": "Q88. How the human soul knows what is above itself"
+          }
+        },
+        {
+          "id": "p1-q089",
+          "title": {
+            "en-US": "Q89. The knowledge of the separated soul"
+          }
+        },
+        {
+          "id": "p1-q090",
+          "title": {
+            "en-US": "Q90. The first production of man's soul"
+          }
+        },
+        {
+          "id": "p1-q091",
+          "title": {
+            "en-US": "Q91. The production of the first man's body"
+          }
+        },
+        {
+          "id": "p1-q092",
+          "title": {
+            "en-US": "Q92. The production of the woman"
+          }
+        },
+        {
+          "id": "p1-q093",
+          "title": {
+            "en-US": "Q93. The end or term of the production of man"
+          }
+        },
+        {
+          "id": "p1-q094",
+          "title": {
+            "en-US": "Q94. The state and condition of the first man as regards his intellect"
+          }
+        },
+        {
+          "id": "p1-q095",
+          "title": {
+            "en-US": "Q95. Things pertaining to the first man's will--namely, grace and righteousness"
+          }
+        },
+        {
+          "id": "p1-q096",
+          "title": {
+            "en-US": "Q96. The mastership belonging to man in the state of innocence"
+          }
+        },
+        {
+          "id": "p1-q097",
+          "title": {
+            "en-US": "Q97. The preservation of the individual in the primitive state"
+          }
+        },
+        {
+          "id": "p1-q098",
+          "title": {
+            "en-US": "Q98. The preservation of the species"
+          }
+        },
+        {
+          "id": "p1-q099",
+          "title": {
+            "en-US": "Q99. The condition of the offspring as to the body"
+          }
+        },
+        {
+          "id": "p1-q100",
+          "title": {
+            "en-US": "Q100. The condition of the offspring as regards righteousness"
+          }
+        },
+        {
+          "id": "p1-q101",
+          "title": {
+            "en-US": "Q101. The condition of the offspring as regards knowledge"
+          }
+        },
+        {
+          "id": "p1-q102",
+          "title": {
+            "en-US": "Q102. Man's abode, which is paradise"
+          }
+        },
+        {
+          "id": "p1-q103",
+          "title": {
+            "en-US": "Q103. The government of things in general"
+          }
+        },
+        {
+          "id": "p1-q104",
+          "title": {
+            "en-US": "Q104. The special effects of the divine government"
+          }
+        },
+        {
+          "id": "p1-q105",
+          "title": {
+            "en-US": "Q105. The change of creatures by God"
+          }
+        },
+        {
+          "id": "p1-q106",
+          "title": {
+            "en-US": "Q106. How one creature moves another"
+          }
+        },
+        {
+          "id": "p1-q107",
+          "title": {
+            "en-US": "Q107. The speech of the angels"
+          }
+        },
+        {
+          "id": "p1-q108",
+          "title": {
+            "en-US": "Q108. The angelic degrees of hierarchies and orders"
+          }
+        },
+        {
+          "id": "p1-q109",
+          "title": {
+            "en-US": "Q109. The ordering of the bad angels"
+          }
+        },
+        {
+          "id": "p1-q110",
+          "title": {
+            "en-US": "Q110. How angels act on bodies"
+          }
+        },
+        {
+          "id": "p1-q111",
+          "title": {
+            "en-US": "Q111. The action of the angels on man"
+          }
+        },
+        {
+          "id": "p1-q112",
+          "title": {
+            "en-US": "Q112. The mission of the angels"
+          }
+        },
+        {
+          "id": "p1-q113",
+          "title": {
+            "en-US": "Q113. The guardianship of the good angels"
+          }
+        },
+        {
+          "id": "p1-q114",
+          "title": {
+            "en-US": "Q114. The assaults of the demons"
+          }
+        },
+        {
+          "id": "p1-q115",
+          "title": {
+            "en-US": "Q115. The action of the corporeal creature"
+          }
+        },
+        {
+          "id": "p1-q116",
+          "title": {
+            "en-US": "Q116. Fate"
+          }
+        },
+        {
+          "id": "p1-q117",
+          "title": {
+            "en-US": "Q117. The action of man"
+          }
+        },
+        {
+          "id": "p1-q118",
+          "title": {
+            "en-US": "Q118. The production of man from man as to the soul"
+          }
+        },
+        {
+          "id": "p1-q119",
+          "title": {
+            "en-US": "Q119. The propagation of man as to the body"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-prima-secundae",
+      "title": {
+        "en-US": "Prima Secundae"
+      },
+      "children": [
+        {
+          "id": "p2-q001",
+          "title": {
+            "en-US": "Q1. Man's last end"
+          }
+        },
+        {
+          "id": "p2-q002",
+          "title": {
+            "en-US": "Q2. Things in which man's happiness consists"
+          }
+        },
+        {
+          "id": "p2-q003",
+          "title": {
+            "en-US": "Q3. What is happiness"
+          }
+        },
+        {
+          "id": "p2-q004",
+          "title": {
+            "en-US": "Q4. Things that are required for happiness"
+          }
+        },
+        {
+          "id": "p2-q005",
+          "title": {
+            "en-US": "Q5. The attainment of happiness"
+          }
+        },
+        {
+          "id": "p2-q006",
+          "title": {
+            "en-US": "Q6. The voluntary and the involuntary"
+          }
+        },
+        {
+          "id": "p2-q007",
+          "title": {
+            "en-US": "Q7. The circumstances of human acts"
+          }
+        },
+        {
+          "id": "p2-q008",
+          "title": {
+            "en-US": "Q8. The will, in regard to what it wills"
+          }
+        },
+        {
+          "id": "p2-q009",
+          "title": {
+            "en-US": "Q9. That which moves the will"
+          }
+        },
+        {
+          "id": "p2-q010",
+          "title": {
+            "en-US": "Q10. The manner in which the will is moved"
+          }
+        },
+        {
+          "id": "p2-q011",
+          "title": {
+            "en-US": "Q11. Enjoyment which is an act of the will"
+          }
+        },
+        {
+          "id": "p2-q012",
+          "title": {
+            "en-US": "Q12. Intention"
+          }
+        },
+        {
+          "id": "p2-q013",
+          "title": {
+            "en-US": "Q13. Choice, which is an act of the will with regard to the means"
+          }
+        },
+        {
+          "id": "p2-q014",
+          "title": {
+            "en-US": "Q14. Counsel, which precedes choice"
+          }
+        },
+        {
+          "id": "p2-q015",
+          "title": {
+            "en-US": "Q15. Consent, which is an act of the will in regard to the means"
+          }
+        },
+        {
+          "id": "p2-q016",
+          "title": {
+            "en-US": "Q16. Use, which is an act of the will in regard to the means"
+          }
+        },
+        {
+          "id": "p2-q017",
+          "title": {
+            "en-US": "Q17. The acts commanded by the will"
+          }
+        },
+        {
+          "id": "p2-q018",
+          "title": {
+            "en-US": "Q18. The good and evil of human acts, in general"
+          }
+        },
+        {
+          "id": "p2-q019",
+          "title": {
+            "en-US": "Q19. The goodness and malice of the interior act of the will"
+          }
+        },
+        {
+          "id": "p2-q020",
+          "title": {
+            "en-US": "Q20. Goodness and malice in external human affairs"
+          }
+        },
+        {
+          "id": "p2-q021",
+          "title": {
+            "en-US": "Q21. The consequences of human actions by reason of their goodness and malice"
+          }
+        },
+        {
+          "id": "p2-q022",
+          "title": {
+            "en-US": "Q22. The subject of the soul's passions"
+          }
+        },
+        {
+          "id": "p2-q023",
+          "title": {
+            "en-US": "Q23. How the passions differ from one another"
+          }
+        },
+        {
+          "id": "p2-q024",
+          "title": {
+            "en-US": "Q24. Good and evil in the passions of the soul"
+          }
+        },
+        {
+          "id": "p2-q025",
+          "title": {
+            "en-US": "Q25. The order of the passions to one another"
+          }
+        },
+        {
+          "id": "p2-q026",
+          "title": {
+            "en-US": "Q26. The passions of the soul in particular: and first, of love"
+          }
+        },
+        {
+          "id": "p2-q027",
+          "title": {
+            "en-US": "Q27. The cause of love"
+          }
+        },
+        {
+          "id": "p2-q028",
+          "title": {
+            "en-US": "Q28. The effects of love"
+          }
+        },
+        {
+          "id": "p2-q029",
+          "title": {
+            "en-US": "Q29. Hatred"
+          }
+        },
+        {
+          "id": "p2-q030",
+          "title": {
+            "en-US": "Q30. Concupiscence"
+          }
+        },
+        {
+          "id": "p2-q031",
+          "title": {
+            "en-US": "Q31. Pleasure considered in itself"
+          }
+        },
+        {
+          "id": "p2-q032",
+          "title": {
+            "en-US": "Q32. The cause of pleasure"
+          }
+        },
+        {
+          "id": "p2-q033",
+          "title": {
+            "en-US": "Q33. The effects of pleasure"
+          }
+        },
+        {
+          "id": "p2-q034",
+          "title": {
+            "en-US": "Q34. The goodness and malice of pleasures"
+          }
+        },
+        {
+          "id": "p2-q035",
+          "title": {
+            "en-US": "Q35. Pain or sorrow, in itself"
+          }
+        },
+        {
+          "id": "p2-q036",
+          "title": {
+            "en-US": "Q36. The causes of sorrow or pain"
+          }
+        },
+        {
+          "id": "p2-q037",
+          "title": {
+            "en-US": "Q37. The effects of pain or sorrow"
+          }
+        },
+        {
+          "id": "p2-q038",
+          "title": {
+            "en-US": "Q38. The remedies of sorrow or pain"
+          }
+        },
+        {
+          "id": "p2-q039",
+          "title": {
+            "en-US": "Q39. The goodness and malice of sorrow or pain"
+          }
+        },
+        {
+          "id": "p2-q040",
+          "title": {
+            "en-US": "Q40. The irascible passions, and first, of hope and despair"
+          }
+        },
+        {
+          "id": "p2-q041",
+          "title": {
+            "en-US": "Q41. Fear, in itself"
+          }
+        },
+        {
+          "id": "p2-q042",
+          "title": {
+            "en-US": "Q42. The object of fear"
+          }
+        },
+        {
+          "id": "p2-q043",
+          "title": {
+            "en-US": "Q43. The cause of fear"
+          }
+        },
+        {
+          "id": "p2-q044",
+          "title": {
+            "en-US": "Q44. The effects of fear"
+          }
+        },
+        {
+          "id": "p2-q045",
+          "title": {
+            "en-US": "Q45. Daring"
+          }
+        },
+        {
+          "id": "p2-q046",
+          "title": {
+            "en-US": "Q46. Anger, in itself"
+          }
+        },
+        {
+          "id": "p2-q047",
+          "title": {
+            "en-US": "Q47. The cause that provokes anger, and the remedies of anger"
+          }
+        },
+        {
+          "id": "p2-q048",
+          "title": {
+            "en-US": "Q48. The effects of anger"
+          }
+        },
+        {
+          "id": "p2-q049",
+          "title": {
+            "en-US": "Q49. Habits in general, as to their substance"
+          }
+        },
+        {
+          "id": "p2-q050",
+          "title": {
+            "en-US": "Q50. The subject of habits"
+          }
+        },
+        {
+          "id": "p2-q051",
+          "title": {
+            "en-US": "Q51. The cause of habits, as to their formation"
+          }
+        },
+        {
+          "id": "p2-q052",
+          "title": {
+            "en-US": "Q52. The increase of habits"
+          }
+        },
+        {
+          "id": "p2-q053",
+          "title": {
+            "en-US": "Q53. How habits are corrupted or diminished"
+          }
+        },
+        {
+          "id": "p2-q054",
+          "title": {
+            "en-US": "Q54. The distinction of habits"
+          }
+        },
+        {
+          "id": "p2-q055",
+          "title": {
+            "en-US": "Q55. The virtues, as to their essence"
+          }
+        },
+        {
+          "id": "p2-q056",
+          "title": {
+            "en-US": "Q56. The subject of virtue"
+          }
+        },
+        {
+          "id": "p2-q057",
+          "title": {
+            "en-US": "Q57. The intellectual virtues"
+          }
+        },
+        {
+          "id": "p2-q058",
+          "title": {
+            "en-US": "Q58. The difference between moral and intellectual virtues"
+          }
+        },
+        {
+          "id": "p2-q059",
+          "title": {
+            "en-US": "Q59. Moral virtue in relation to the passions"
+          }
+        },
+        {
+          "id": "p2-q060",
+          "title": {
+            "en-US": "Q60. How the moral virtues differ from one another"
+          }
+        },
+        {
+          "id": "p2-q061",
+          "title": {
+            "en-US": "Q61. The cardinal virtues"
+          }
+        },
+        {
+          "id": "p2-q062",
+          "title": {
+            "en-US": "Q62. The theological virtues"
+          }
+        },
+        {
+          "id": "p2-q063",
+          "title": {
+            "en-US": "Q63. The cause of virtues"
+          }
+        },
+        {
+          "id": "p2-q064",
+          "title": {
+            "en-US": "Q64. The mean of virtue"
+          }
+        },
+        {
+          "id": "p2-q065",
+          "title": {
+            "en-US": "Q65. The connection of virtues"
+          }
+        },
+        {
+          "id": "p2-q066",
+          "title": {
+            "en-US": "Q66. Equality among the virtues"
+          }
+        },
+        {
+          "id": "p2-q067",
+          "title": {
+            "en-US": "Q67. The duration of virtues after this life"
+          }
+        },
+        {
+          "id": "p2-q068",
+          "title": {
+            "en-US": "Q68. The gifts"
+          }
+        },
+        {
+          "id": "p2-q069",
+          "title": {
+            "en-US": "Q69. The beatitudes"
+          }
+        },
+        {
+          "id": "p2-q070",
+          "title": {
+            "en-US": "Q70. The fruits of the Holy Ghost"
+          }
+        },
+        {
+          "id": "p2-q071",
+          "title": {
+            "en-US": "Q71. Vice and sin considered in themselves"
+          }
+        },
+        {
+          "id": "p2-q072",
+          "title": {
+            "en-US": "Q72. The distinction of sins"
+          }
+        },
+        {
+          "id": "p2-q073",
+          "title": {
+            "en-US": "Q73. The comparison of one sin with another"
+          }
+        },
+        {
+          "id": "p2-q074",
+          "title": {
+            "en-US": "Q74. The subject of sin"
+          }
+        },
+        {
+          "id": "p2-q075",
+          "title": {
+            "en-US": "Q75. The causes of sin, in general"
+          }
+        },
+        {
+          "id": "p2-q076",
+          "title": {
+            "en-US": "Q76. The causes of sin, in particular"
+          }
+        },
+        {
+          "id": "p2-q077",
+          "title": {
+            "en-US": "Q77. The cause of sin, on the part of the sensitive appetite"
+          }
+        },
+        {
+          "id": "p2-q078",
+          "title": {
+            "en-US": "Q78. That cause of sin which is malice"
+          }
+        },
+        {
+          "id": "p2-q079",
+          "title": {
+            "en-US": "Q79. The external causes of sin"
+          }
+        },
+        {
+          "id": "p2-q080",
+          "title": {
+            "en-US": "Q80. The cause of sin, as regards the devil"
+          }
+        },
+        {
+          "id": "p2-q081",
+          "title": {
+            "en-US": "Q81. The cause of sin, on the part of man"
+          }
+        },
+        {
+          "id": "p2-q082",
+          "title": {
+            "en-US": "Q82. Original sin, as to its essence"
+          }
+        },
+        {
+          "id": "p2-q083",
+          "title": {
+            "en-US": "Q83. The subject of original sin"
+          }
+        },
+        {
+          "id": "p2-q084",
+          "title": {
+            "en-US": "Q84. The cause of sin, in respect of one sin being the cause of another"
+          }
+        },
+        {
+          "id": "p2-q085",
+          "title": {
+            "en-US": "Q85. The effects of sin, and, first, of the corruption of the good of nature"
+          }
+        },
+        {
+          "id": "p2-q086",
+          "title": {
+            "en-US": "Q86. The stain of sin"
+          }
+        },
+        {
+          "id": "p2-q087",
+          "title": {
+            "en-US": "Q87. The debt of punishment"
+          }
+        },
+        {
+          "id": "p2-q088",
+          "title": {
+            "en-US": "Q88. Venial and mortal sin"
+          }
+        },
+        {
+          "id": "p2-q089",
+          "title": {
+            "en-US": "Q89. Venial sin in itself"
+          }
+        },
+        {
+          "id": "p2-q090",
+          "title": {
+            "en-US": "Q90. The essence of law"
+          }
+        },
+        {
+          "id": "p2-q091",
+          "title": {
+            "en-US": "Q91. The various kinds of law"
+          }
+        },
+        {
+          "id": "p2-q092",
+          "title": {
+            "en-US": "Q92. The effects of law"
+          }
+        },
+        {
+          "id": "p2-q093",
+          "title": {
+            "en-US": "Q93. The eternal law"
+          }
+        },
+        {
+          "id": "p2-q094",
+          "title": {
+            "en-US": "Q94. The natural law"
+          }
+        },
+        {
+          "id": "p2-q095",
+          "title": {
+            "en-US": "Q95. Human law"
+          }
+        },
+        {
+          "id": "p2-q096",
+          "title": {
+            "en-US": "Q96. The power of human law"
+          }
+        },
+        {
+          "id": "p2-q097",
+          "title": {
+            "en-US": "Q97. Change in laws"
+          }
+        },
+        {
+          "id": "p2-q098",
+          "title": {
+            "en-US": "Q98. The old law"
+          }
+        },
+        {
+          "id": "p2-q099",
+          "title": {
+            "en-US": "Q99. The precepts of the old law"
+          }
+        },
+        {
+          "id": "p2-q100",
+          "title": {
+            "en-US": "Q100. The moral precepts of the old law"
+          }
+        },
+        {
+          "id": "p2-q101",
+          "title": {
+            "en-US": "Q101. The ceremonial precepts in themselves"
+          }
+        },
+        {
+          "id": "p2-q102",
+          "title": {
+            "en-US": "Q102. The causes of the ceremonial precepts"
+          }
+        },
+        {
+          "id": "p2-q103",
+          "title": {
+            "en-US": "Q103. The duration of the ceremonial precepts"
+          }
+        },
+        {
+          "id": "p2-q104",
+          "title": {
+            "en-US": "Q104. The judicial precepts"
+          }
+        },
+        {
+          "id": "p2-q105",
+          "title": {
+            "en-US": "Q105. The reason for the judicial precepts"
+          }
+        },
+        {
+          "id": "p2-q106",
+          "title": {
+            "en-US": "Q106. The law of the Gospel, called the New Law, considered in itself"
+          }
+        },
+        {
+          "id": "p2-q107",
+          "title": {
+            "en-US": "Q107. The new law as compared with the old"
+          }
+        },
+        {
+          "id": "p2-q108",
+          "title": {
+            "en-US": "Q108. Things that are contained in the New Law"
+          }
+        },
+        {
+          "id": "p2-q109",
+          "title": {
+            "en-US": "Q109. The necessity of grace"
+          }
+        },
+        {
+          "id": "p2-q110",
+          "title": {
+            "en-US": "Q110. The grace of God as regards its essence"
+          }
+        },
+        {
+          "id": "p2-q111",
+          "title": {
+            "en-US": "Q111. The division of grace"
+          }
+        },
+        {
+          "id": "p2-q112",
+          "title": {
+            "en-US": "Q112. The cause of grace"
+          }
+        },
+        {
+          "id": "p2-q113",
+          "title": {
+            "en-US": "Q113. The effects of grace"
+          }
+        },
+        {
+          "id": "p2-q114",
+          "title": {
+            "en-US": "Q114. Merit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-secunda-secundae",
+      "title": {
+        "en-US": "Secunda Secundae"
+      },
+      "children": [
+        {
+          "id": "p3-q001",
+          "title": {
+            "en-US": "Q1. Faith"
+          }
+        },
+        {
+          "id": "p3-q002",
+          "title": {
+            "en-US": "Q2. The act of faith"
+          }
+        },
+        {
+          "id": "p3-q003",
+          "title": {
+            "en-US": "Q3. The outward act of faith"
+          }
+        },
+        {
+          "id": "p3-q004",
+          "title": {
+            "en-US": "Q4. The virtue itself of faith"
+          }
+        },
+        {
+          "id": "p3-q005",
+          "title": {
+            "en-US": "Q5. Those who have faith"
+          }
+        },
+        {
+          "id": "p3-q006",
+          "title": {
+            "en-US": "Q6. The cause of faith"
+          }
+        },
+        {
+          "id": "p3-q007",
+          "title": {
+            "en-US": "Q7. The effects of faith"
+          }
+        },
+        {
+          "id": "p3-q008",
+          "title": {
+            "en-US": "Q8. The gift of understanding"
+          }
+        },
+        {
+          "id": "p3-q009",
+          "title": {
+            "en-US": "Q9. The gift of knowledge"
+          }
+        },
+        {
+          "id": "p3-q010",
+          "title": {
+            "en-US": "Q10. Unbelief in general"
+          }
+        },
+        {
+          "id": "p3-q011",
+          "title": {
+            "en-US": "Q11. Heresy"
+          }
+        },
+        {
+          "id": "p3-q012",
+          "title": {
+            "en-US": "Q12. Apostasy"
+          }
+        },
+        {
+          "id": "p3-q013",
+          "title": {
+            "en-US": "Q13. The sin of blasphemy, in general"
+          }
+        },
+        {
+          "id": "p3-q014",
+          "title": {
+            "en-US": "Q14. Blasphemy against the Holy Ghost"
+          }
+        },
+        {
+          "id": "p3-q015",
+          "title": {
+            "en-US": "Q15. The vices opposed to knowledge and understanding"
+          }
+        },
+        {
+          "id": "p3-q016",
+          "title": {
+            "en-US": "Q16. The precepts of faith, knowledge and understanding"
+          }
+        },
+        {
+          "id": "p3-q017",
+          "title": {
+            "en-US": "Q17. Hope, considered in itself"
+          }
+        },
+        {
+          "id": "p3-q018",
+          "title": {
+            "en-US": "Q18. The subject of hope"
+          }
+        },
+        {
+          "id": "p3-q019",
+          "title": {
+            "en-US": "Q19. The gift of fear"
+          }
+        },
+        {
+          "id": "p3-q020",
+          "title": {
+            "en-US": "Q20. Despair"
+          }
+        },
+        {
+          "id": "p3-q021",
+          "title": {
+            "en-US": "Q21. Presumption"
+          }
+        },
+        {
+          "id": "p3-q022",
+          "title": {
+            "en-US": "Q22. The precepts relating to hope and fear"
+          }
+        },
+        {
+          "id": "p3-q023",
+          "title": {
+            "en-US": "Q23. Charity, considered in itself"
+          }
+        },
+        {
+          "id": "p3-q024",
+          "title": {
+            "en-US": "Q24. The subject of charity"
+          }
+        },
+        {
+          "id": "p3-q025",
+          "title": {
+            "en-US": "Q25. The object of charity"
+          }
+        },
+        {
+          "id": "p3-q026",
+          "title": {
+            "en-US": "Q26. The order of charity"
+          }
+        },
+        {
+          "id": "p3-q027",
+          "title": {
+            "en-US": "Q27. The principle act of charity, which is to love"
+          }
+        },
+        {
+          "id": "p3-q028",
+          "title": {
+            "en-US": "Q28. Joy"
+          }
+        },
+        {
+          "id": "p3-q029",
+          "title": {
+            "en-US": "Q29. Peace"
+          }
+        },
+        {
+          "id": "p3-q030",
+          "title": {
+            "en-US": "Q30. Mercy"
+          }
+        },
+        {
+          "id": "p3-q031",
+          "title": {
+            "en-US": "Q31. Beneficence"
+          }
+        },
+        {
+          "id": "p3-q032",
+          "title": {
+            "en-US": "Q32. Almsdeeds"
+          }
+        },
+        {
+          "id": "p3-q033",
+          "title": {
+            "en-US": "Q33. Fraternal correction"
+          }
+        },
+        {
+          "id": "p3-q034",
+          "title": {
+            "en-US": "Q34. Hatred"
+          }
+        },
+        {
+          "id": "p3-q035",
+          "title": {
+            "en-US": "Q35. Sloth"
+          }
+        },
+        {
+          "id": "p3-q036",
+          "title": {
+            "en-US": "Q36. Envy"
+          }
+        },
+        {
+          "id": "p3-q037",
+          "title": {
+            "en-US": "Q37. Discord, which is contrary to peace"
+          }
+        },
+        {
+          "id": "p3-q038",
+          "title": {
+            "en-US": "Q38. Contention"
+          }
+        },
+        {
+          "id": "p3-q039",
+          "title": {
+            "en-US": "Q39. Schism"
+          }
+        },
+        {
+          "id": "p3-q040",
+          "title": {
+            "en-US": "Q40. War"
+          }
+        },
+        {
+          "id": "p3-q041",
+          "title": {
+            "en-US": "Q41. Strife"
+          }
+        },
+        {
+          "id": "p3-q042",
+          "title": {
+            "en-US": "Q42. Sedition"
+          }
+        },
+        {
+          "id": "p3-q043",
+          "title": {
+            "en-US": "Q43. Scandal"
+          }
+        },
+        {
+          "id": "p3-q044",
+          "title": {
+            "en-US": "Q44. The precepts of charity"
+          }
+        },
+        {
+          "id": "p3-q045",
+          "title": {
+            "en-US": "Q45. The gift of wisdom"
+          }
+        },
+        {
+          "id": "p3-q046",
+          "title": {
+            "en-US": "Q46. Folly which is opposed to wisdom"
+          }
+        },
+        {
+          "id": "p3-q047",
+          "title": {
+            "en-US": "Q47. Prudence, considered in itself"
+          }
+        },
+        {
+          "id": "p3-q048",
+          "title": {
+            "en-US": "Q48. The parts of prudence"
+          }
+        },
+        {
+          "id": "p3-q049",
+          "title": {
+            "en-US": "Q49. Each quasi-integral part of prudence"
+          }
+        },
+        {
+          "id": "p3-q050",
+          "title": {
+            "en-US": "Q50. The subjective parts of prudence"
+          }
+        },
+        {
+          "id": "p3-q051",
+          "title": {
+            "en-US": "Q51. The virtues which are connected with prudence"
+          }
+        },
+        {
+          "id": "p3-q052",
+          "title": {
+            "en-US": "Q52. The gift of counsel"
+          }
+        },
+        {
+          "id": "p3-q053",
+          "title": {
+            "en-US": "Q53. Imprudence"
+          }
+        },
+        {
+          "id": "p3-q054",
+          "title": {
+            "en-US": "Q54. Negligence"
+          }
+        },
+        {
+          "id": "p3-q055",
+          "title": {
+            "en-US": "Q55. Vices opposed to prudence by way of resemblance"
+          }
+        },
+        {
+          "id": "p3-q056",
+          "title": {
+            "en-US": "Q56. The precepts relating to prudence"
+          }
+        },
+        {
+          "id": "p3-q057",
+          "title": {
+            "en-US": "Q57. Right"
+          }
+        },
+        {
+          "id": "p3-q058",
+          "title": {
+            "en-US": "Q58. Justice"
+          }
+        },
+        {
+          "id": "p3-q059",
+          "title": {
+            "en-US": "Q59. Injustice"
+          }
+        },
+        {
+          "id": "p3-q060",
+          "title": {
+            "en-US": "Q60. Judgment"
+          }
+        },
+        {
+          "id": "p3-q061",
+          "title": {
+            "en-US": "Q61. The parts of Justice"
+          }
+        },
+        {
+          "id": "p3-q062",
+          "title": {
+            "en-US": "Q62. Restitution"
+          }
+        },
+        {
+          "id": "p3-q063",
+          "title": {
+            "en-US": "Q63. Respect of persons"
+          }
+        },
+        {
+          "id": "p3-q064",
+          "title": {
+            "en-US": "Q64. Murder"
+          }
+        },
+        {
+          "id": "p3-q065",
+          "title": {
+            "en-US": "Q65. Other injuries committed on the person"
+          }
+        },
+        {
+          "id": "p3-q066",
+          "title": {
+            "en-US": "Q66. Theft and robbery"
+          }
+        },
+        {
+          "id": "p3-q067",
+          "title": {
+            "en-US": "Q67. The injustice of a judge, in judging"
+          }
+        },
+        {
+          "id": "p3-q068",
+          "title": {
+            "en-US": "Q68. Matters concerning unjust accusation"
+          }
+        },
+        {
+          "id": "p3-q069",
+          "title": {
+            "en-US": "Q69. Sins committed against justice: of the part of the defendant"
+          }
+        },
+        {
+          "id": "p3-q070",
+          "title": {
+            "en-US": "Q70. Injustice with regard to the person of the witness"
+          }
+        },
+        {
+          "id": "p3-q071",
+          "title": {
+            "en-US": "Q71. Injustice in judgment: the part of counsel"
+          }
+        },
+        {
+          "id": "p3-q072",
+          "title": {
+            "en-US": "Q72. Reviling"
+          }
+        },
+        {
+          "id": "p3-q073",
+          "title": {
+            "en-US": "Q73. Backbiting"
+          }
+        },
+        {
+          "id": "p3-q074",
+          "title": {
+            "en-US": "Q74. Tale-bearing"
+          }
+        },
+        {
+          "id": "p3-q075",
+          "title": {
+            "en-US": "Q75. Derision"
+          }
+        },
+        {
+          "id": "p3-q076",
+          "title": {
+            "en-US": "Q76. Cursing"
+          }
+        },
+        {
+          "id": "p3-q077",
+          "title": {
+            "en-US": "Q77. Cheating, which is committed in buying and selling"
+          }
+        },
+        {
+          "id": "p3-q078",
+          "title": {
+            "en-US": "Q78. The sin of usury"
+          }
+        },
+        {
+          "id": "p3-q079",
+          "title": {
+            "en-US": "Q79. The quasi-integral parts of Justice"
+          }
+        },
+        {
+          "id": "p3-q080",
+          "title": {
+            "en-US": "Q80. Justice"
+          }
+        },
+        {
+          "id": "p3-q081",
+          "title": {
+            "en-US": "Q81. Religion"
+          }
+        },
+        {
+          "id": "p3-q082",
+          "title": {
+            "en-US": "Q82. Devotion"
+          }
+        },
+        {
+          "id": "p3-q083",
+          "title": {
+            "en-US": "Q83. Prayer"
+          }
+        },
+        {
+          "id": "p3-q084",
+          "title": {
+            "en-US": "Q84. Adoration"
+          }
+        },
+        {
+          "id": "p3-q085",
+          "title": {
+            "en-US": "Q85. Sacrifice"
+          }
+        },
+        {
+          "id": "p3-q086",
+          "title": {
+            "en-US": "Q86. Oblations and first-fruits"
+          }
+        },
+        {
+          "id": "p3-q087",
+          "title": {
+            "en-US": "Q87. Tithes"
+          }
+        },
+        {
+          "id": "p3-q088",
+          "title": {
+            "en-US": "Q88. Vows"
+          }
+        },
+        {
+          "id": "p3-q089",
+          "title": {
+            "en-US": "Q89. Oaths"
+          }
+        },
+        {
+          "id": "p3-q090",
+          "title": {
+            "en-US": "Q90. The taking of God's name by way of adjuration"
+          }
+        },
+        {
+          "id": "p3-q091",
+          "title": {
+            "en-US": "Q91. Taking the divine name for the purpose of invoking it by means of praise"
+          }
+        },
+        {
+          "id": "p3-q092",
+          "title": {
+            "en-US": "Q92. Superstition"
+          }
+        },
+        {
+          "id": "p3-q093",
+          "title": {
+            "en-US": "Q93. Superstition consisting in undue worship of the true God"
+          }
+        },
+        {
+          "id": "p3-q094",
+          "title": {
+            "en-US": "Q94. Idolatry"
+          }
+        },
+        {
+          "id": "p3-q095",
+          "title": {
+            "en-US": "Q95. Superstition in divinations"
+          }
+        },
+        {
+          "id": "p3-q096",
+          "title": {
+            "en-US": "Q96. Superstition in observances"
+          }
+        },
+        {
+          "id": "p3-q097",
+          "title": {
+            "en-US": "Q97. The temptation of God"
+          }
+        },
+        {
+          "id": "p3-q098",
+          "title": {
+            "en-US": "Q98. Perjury"
+          }
+        },
+        {
+          "id": "p3-q099",
+          "title": {
+            "en-US": "Q99. Sacrilege"
+          }
+        },
+        {
+          "id": "p3-q100",
+          "title": {
+            "en-US": "Q100. Simony"
+          }
+        },
+        {
+          "id": "p3-q101",
+          "title": {
+            "en-US": "Q101. Piety"
+          }
+        },
+        {
+          "id": "p3-q102",
+          "title": {
+            "en-US": "Q102. Observance, considered in itself, and its parts"
+          }
+        },
+        {
+          "id": "p3-q103",
+          "title": {
+            "en-US": "Q103. Dulia"
+          }
+        },
+        {
+          "id": "p3-q104",
+          "title": {
+            "en-US": "Q104. Obedience"
+          }
+        },
+        {
+          "id": "p3-q105",
+          "title": {
+            "en-US": "Q105. Disobedience"
+          }
+        },
+        {
+          "id": "p3-q106",
+          "title": {
+            "en-US": "Q106. Thankfulness or gratitude"
+          }
+        },
+        {
+          "id": "p3-q107",
+          "title": {
+            "en-US": "Q107. Ingratitude"
+          }
+        },
+        {
+          "id": "p3-q108",
+          "title": {
+            "en-US": "Q108. Vengeance"
+          }
+        },
+        {
+          "id": "p3-q109",
+          "title": {
+            "en-US": "Q109. Truth"
+          }
+        },
+        {
+          "id": "p3-q110",
+          "title": {
+            "en-US": "Q110. The vices opposed to truth, and first of lying"
+          }
+        },
+        {
+          "id": "p3-q111",
+          "title": {
+            "en-US": "Q111. Dissimulation and hypocrisy"
+          }
+        },
+        {
+          "id": "p3-q112",
+          "title": {
+            "en-US": "Q112. Boasting"
+          }
+        },
+        {
+          "id": "p3-q113",
+          "title": {
+            "en-US": "Q113. Irony"
+          }
+        },
+        {
+          "id": "p3-q114",
+          "title": {
+            "en-US": "Q114. The friendliness which is called affability"
+          }
+        },
+        {
+          "id": "p3-q115",
+          "title": {
+            "en-US": "Q115. Flattery"
+          }
+        },
+        {
+          "id": "p3-q116",
+          "title": {
+            "en-US": "Q116. Quarreling"
+          }
+        },
+        {
+          "id": "p3-q117",
+          "title": {
+            "en-US": "Q117. Liberality"
+          }
+        },
+        {
+          "id": "p3-q118",
+          "title": {
+            "en-US": "Q118. The vices opposed to liberality, and in the first place, of covetousness"
+          }
+        },
+        {
+          "id": "p3-q119",
+          "title": {
+            "en-US": "Q119. Prodigality"
+          }
+        },
+        {
+          "id": "p3-q120",
+          "title": {
+            "en-US": "Q120. \"Epikeia\" or equity"
+          }
+        },
+        {
+          "id": "p3-q121",
+          "title": {
+            "en-US": "Q121. Piety"
+          }
+        },
+        {
+          "id": "p3-q122",
+          "title": {
+            "en-US": "Q122. The precepts of justice"
+          }
+        },
+        {
+          "id": "p3-q123",
+          "title": {
+            "en-US": "Q123. Fortitude"
+          }
+        },
+        {
+          "id": "p3-q124",
+          "title": {
+            "en-US": "Q124. Martyrdom"
+          }
+        },
+        {
+          "id": "p3-q125",
+          "title": {
+            "en-US": "Q125. Fear"
+          }
+        },
+        {
+          "id": "p3-q126",
+          "title": {
+            "en-US": "Q126. Fearlessness"
+          }
+        },
+        {
+          "id": "p3-q127",
+          "title": {
+            "en-US": "Q127. Daring"
+          }
+        },
+        {
+          "id": "p3-q128",
+          "title": {
+            "en-US": "Q128. The parts of fortitude"
+          }
+        },
+        {
+          "id": "p3-q129",
+          "title": {
+            "en-US": "Q129. Magnanimity"
+          }
+        },
+        {
+          "id": "p3-q130",
+          "title": {
+            "en-US": "Q130. Presumption"
+          }
+        },
+        {
+          "id": "p3-q131",
+          "title": {
+            "en-US": "Q131. Ambition"
+          }
+        },
+        {
+          "id": "p3-q132",
+          "title": {
+            "en-US": "Q132. Vainglory"
+          }
+        },
+        {
+          "id": "p3-q133",
+          "title": {
+            "en-US": "Q133. Pusillanimity"
+          }
+        },
+        {
+          "id": "p3-q134",
+          "title": {
+            "en-US": "Q134. Magnificence"
+          }
+        },
+        {
+          "id": "p3-q135",
+          "title": {
+            "en-US": "Q135. Meanness"
+          }
+        },
+        {
+          "id": "p3-q136",
+          "title": {
+            "en-US": "Q136. Patience"
+          }
+        },
+        {
+          "id": "p3-q137",
+          "title": {
+            "en-US": "Q137. Perseverance"
+          }
+        },
+        {
+          "id": "p3-q138",
+          "title": {
+            "en-US": "Q138. The vices opposed to perseverance"
+          }
+        },
+        {
+          "id": "p3-q139",
+          "title": {
+            "en-US": "Q139. The gift of fortitude"
+          }
+        },
+        {
+          "id": "p3-q140",
+          "title": {
+            "en-US": "Q140. The precepts of fortitude"
+          }
+        },
+        {
+          "id": "p3-q141",
+          "title": {
+            "en-US": "Q141. Temperance"
+          }
+        },
+        {
+          "id": "p3-q142",
+          "title": {
+            "en-US": "Q142. The vices opposed to temperance"
+          }
+        },
+        {
+          "id": "p3-q143",
+          "title": {
+            "en-US": "Q143. The parts of temperance, in general"
+          }
+        },
+        {
+          "id": "p3-q144",
+          "title": {
+            "en-US": "Q144. Shamefacedness"
+          }
+        },
+        {
+          "id": "p3-q145",
+          "title": {
+            "en-US": "Q145. Honesty"
+          }
+        },
+        {
+          "id": "p3-q146",
+          "title": {
+            "en-US": "Q146. Abstinence"
+          }
+        },
+        {
+          "id": "p3-q147",
+          "title": {
+            "en-US": "Q147. Fasting"
+          }
+        },
+        {
+          "id": "p3-q148",
+          "title": {
+            "en-US": "Q148. Gluttony"
+          }
+        },
+        {
+          "id": "p3-q149",
+          "title": {
+            "en-US": "Q149. Sobriety"
+          }
+        },
+        {
+          "id": "p3-q150",
+          "title": {
+            "en-US": "Q150. Drunkenness"
+          }
+        },
+        {
+          "id": "p3-q151",
+          "title": {
+            "en-US": "Q151. Chastity"
+          }
+        },
+        {
+          "id": "p3-q152",
+          "title": {
+            "en-US": "Q152. Virginity"
+          }
+        },
+        {
+          "id": "p3-q153",
+          "title": {
+            "en-US": "Q153. Lust"
+          }
+        },
+        {
+          "id": "p3-q154",
+          "title": {
+            "en-US": "Q154. The parts of Lust"
+          }
+        },
+        {
+          "id": "p3-q155",
+          "title": {
+            "en-US": "Q155. Continence"
+          }
+        },
+        {
+          "id": "p3-q156",
+          "title": {
+            "en-US": "Q156. Incontinence"
+          }
+        },
+        {
+          "id": "p3-q157",
+          "title": {
+            "en-US": "Q157. Clemency and meekness"
+          }
+        },
+        {
+          "id": "p3-q158",
+          "title": {
+            "en-US": "Q158. Anger"
+          }
+        },
+        {
+          "id": "p3-q159",
+          "title": {
+            "en-US": "Q159. Cruelty"
+          }
+        },
+        {
+          "id": "p3-q160",
+          "title": {
+            "en-US": "Q160. Modesty"
+          }
+        },
+        {
+          "id": "p3-q161",
+          "title": {
+            "en-US": "Q161. Humility"
+          }
+        },
+        {
+          "id": "p3-q162",
+          "title": {
+            "en-US": "Q162. Pride"
+          }
+        },
+        {
+          "id": "p3-q163",
+          "title": {
+            "en-US": "Q163. The first man's sin"
+          }
+        },
+        {
+          "id": "p3-q164",
+          "title": {
+            "en-US": "Q164. The punishments of the first man's sin"
+          }
+        },
+        {
+          "id": "p3-q165",
+          "title": {
+            "en-US": "Q165. Our first parents' temptation"
+          }
+        },
+        {
+          "id": "p3-q166",
+          "title": {
+            "en-US": "Q166. Studiousness"
+          }
+        },
+        {
+          "id": "p3-q167",
+          "title": {
+            "en-US": "Q167. Curiosity"
+          }
+        },
+        {
+          "id": "p3-q168",
+          "title": {
+            "en-US": "Q168. Modesty as consisting in the outward movements of the body"
+          }
+        },
+        {
+          "id": "p3-q169",
+          "title": {
+            "en-US": "Q169. Modesty in the outward apparel"
+          }
+        },
+        {
+          "id": "p3-q170",
+          "title": {
+            "en-US": "Q170. The precepts of temperance"
+          }
+        },
+        {
+          "id": "p3-q171",
+          "title": {
+            "en-US": "Q171. Prophecy"
+          }
+        },
+        {
+          "id": "p3-q172",
+          "title": {
+            "en-US": "Q172. The cause of prophecy"
+          }
+        },
+        {
+          "id": "p3-q173",
+          "title": {
+            "en-US": "Q173. The manner in which prophetic knowledge is conveyed"
+          }
+        },
+        {
+          "id": "p3-q174",
+          "title": {
+            "en-US": "Q174. The division of prophecy"
+          }
+        },
+        {
+          "id": "p3-q175",
+          "title": {
+            "en-US": "Q175. Rapture"
+          }
+        },
+        {
+          "id": "p3-q176",
+          "title": {
+            "en-US": "Q176. The grace of tongues"
+          }
+        },
+        {
+          "id": "p3-q177",
+          "title": {
+            "en-US": "Q177. The gratuitous grace consisting in words"
+          }
+        },
+        {
+          "id": "p3-q178",
+          "title": {
+            "en-US": "Q178. The grace of miracles"
+          }
+        },
+        {
+          "id": "p3-q179",
+          "title": {
+            "en-US": "Q179. The division of life into active and contemplative"
+          }
+        },
+        {
+          "id": "p3-q180",
+          "title": {
+            "en-US": "Q180. The contemplative life"
+          }
+        },
+        {
+          "id": "p3-q181",
+          "title": {
+            "en-US": "Q181. The active life"
+          }
+        },
+        {
+          "id": "p3-q182",
+          "title": {
+            "en-US": "Q182. The active life in comparison with the contemplative life"
+          }
+        },
+        {
+          "id": "p3-q183",
+          "title": {
+            "en-US": "Q183. Man's various duties and states in general"
+          }
+        },
+        {
+          "id": "p3-q184",
+          "title": {
+            "en-US": "Q184. The state of perfection in general"
+          }
+        },
+        {
+          "id": "p3-q185",
+          "title": {
+            "en-US": "Q185. Things pertaining to the episcopal state"
+          }
+        },
+        {
+          "id": "p3-q186",
+          "title": {
+            "en-US": "Q186. Things in which the religious state properly consists"
+          }
+        },
+        {
+          "id": "p3-q187",
+          "title": {
+            "en-US": "Q187. Things that are competent to religious"
+          }
+        },
+        {
+          "id": "p3-q188",
+          "title": {
+            "en-US": "Q188. The different kinds of religious life"
+          }
+        },
+        {
+          "id": "p3-q189",
+          "title": {
+            "en-US": "Q189. The entrance into religious life"
+          }
+        },
+        {
+          "id": "p3-q645",
+          "title": {
+            "en-US": "Q645. The precepts of temperance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-tertia-pars",
+      "title": {
+        "en-US": "Tertia Pars"
+      },
+      "children": [
+        {
+          "id": "p4-q001",
+          "title": {
+            "en-US": "Q1. The fitness of the Incarnation"
+          }
+        },
+        {
+          "id": "p4-q002",
+          "title": {
+            "en-US": "Q2. The mode of union of the Word incarnate"
+          }
+        },
+        {
+          "id": "p4-q003",
+          "title": {
+            "en-US": "Q3. The mode of union on the part of the person assuming"
+          }
+        },
+        {
+          "id": "p4-q004",
+          "title": {
+            "en-US": "Q4. The mode of union of the part of the human nature"
+          }
+        },
+        {
+          "id": "p4-q005",
+          "title": {
+            "en-US": "Q5. The parts of human nature which were assumed"
+          }
+        },
+        {
+          "id": "p4-q006",
+          "title": {
+            "en-US": "Q6. The order of assumption"
+          }
+        },
+        {
+          "id": "p4-q007",
+          "title": {
+            "en-US": "Q7. The grace of Christ as an individual man"
+          }
+        },
+        {
+          "id": "p4-q008",
+          "title": {
+            "en-US": "Q8. The grace of Christ, as He is the head of the Church"
+          }
+        },
+        {
+          "id": "p4-q009",
+          "title": {
+            "en-US": "Q9. Christ's knowledge in general"
+          }
+        },
+        {
+          "id": "p4-q010",
+          "title": {
+            "en-US": "Q10. The beatific knowledge of Christ's soul"
+          }
+        },
+        {
+          "id": "p4-q011",
+          "title": {
+            "en-US": "Q11. The knowledge imprinted or infused in the soul of Christ"
+          }
+        },
+        {
+          "id": "p4-q012",
+          "title": {
+            "en-US": "Q12. The acquired or empiric knowledge of Christ's soul"
+          }
+        },
+        {
+          "id": "p4-q013",
+          "title": {
+            "en-US": "Q13. The power of Christ's soul"
+          }
+        },
+        {
+          "id": "p4-q014",
+          "title": {
+            "en-US": "Q14. The defects of body assumed by the Son of God"
+          }
+        },
+        {
+          "id": "p4-q015",
+          "title": {
+            "en-US": "Q15. The defects of soul assumed by Christ"
+          }
+        },
+        {
+          "id": "p4-q016",
+          "title": {
+            "en-US": "Q16. Things which are applicable to Christ in his being and becoming"
+          }
+        },
+        {
+          "id": "p4-q017",
+          "title": {
+            "en-US": "Q17. Christ's unity of being"
+          }
+        },
+        {
+          "id": "p4-q018",
+          "title": {
+            "en-US": "Q18. Christ's unity of will"
+          }
+        },
+        {
+          "id": "p4-q019",
+          "title": {
+            "en-US": "Q19. The unity of Christ's operation"
+          }
+        },
+        {
+          "id": "p4-q020",
+          "title": {
+            "en-US": "Q20. Christ's subjection to the Father"
+          }
+        },
+        {
+          "id": "p4-q021",
+          "title": {
+            "en-US": "Q21. Christ's prayer"
+          }
+        },
+        {
+          "id": "p4-q022",
+          "title": {
+            "en-US": "Q22. The priesthood of Christ"
+          }
+        },
+        {
+          "id": "p4-q023",
+          "title": {
+            "en-US": "Q23. Adoption as befitting to Christ"
+          }
+        },
+        {
+          "id": "p4-q024",
+          "title": {
+            "en-US": "Q24. The predestination of Christ"
+          }
+        },
+        {
+          "id": "p4-q025",
+          "title": {
+            "en-US": "Q25. The adoration of Christ"
+          }
+        },
+        {
+          "id": "p4-q026",
+          "title": {
+            "en-US": "Q26. Christ as called the mediator of God and man"
+          }
+        },
+        {
+          "id": "p4-q027",
+          "title": {
+            "en-US": "Q27. The sanctification of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "p4-q028",
+          "title": {
+            "en-US": "Q28. The virginity of the Mother of God"
+          }
+        },
+        {
+          "id": "p4-q029",
+          "title": {
+            "en-US": "Q29. The espousals of the Mother of God"
+          }
+        },
+        {
+          "id": "p4-q030",
+          "title": {
+            "en-US": "Q30. The Annunciation of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "p4-q031",
+          "title": {
+            "en-US": "Q31. The matter from which the Saviour's body was conceived"
+          }
+        },
+        {
+          "id": "p4-q032",
+          "title": {
+            "en-US": "Q32. The active principle in Christ's conception"
+          }
+        },
+        {
+          "id": "p4-q033",
+          "title": {
+            "en-US": "Q33. The mode and order of Christ's conception"
+          }
+        },
+        {
+          "id": "p4-q034",
+          "title": {
+            "en-US": "Q34. The perfection of the child conceived"
+          }
+        },
+        {
+          "id": "p4-q035",
+          "title": {
+            "en-US": "Q35. Christ's nativity"
+          }
+        },
+        {
+          "id": "p4-q036",
+          "title": {
+            "en-US": "Q36. The manifestation of the newly born Christ"
+          }
+        },
+        {
+          "id": "p4-q037",
+          "title": {
+            "en-US": "Q37. Christ's circumcision, and of the other legal observances accomplished in regard to the child Christ"
+          }
+        },
+        {
+          "id": "p4-q038",
+          "title": {
+            "en-US": "Q38. The baptism of John"
+          }
+        },
+        {
+          "id": "p4-q039",
+          "title": {
+            "en-US": "Q39. The baptizing of Christ"
+          }
+        },
+        {
+          "id": "p4-q040",
+          "title": {
+            "en-US": "Q40. Christ's manner of life"
+          }
+        },
+        {
+          "id": "p4-q041",
+          "title": {
+            "en-US": "Q41. Christ's temptation"
+          }
+        },
+        {
+          "id": "p4-q042",
+          "title": {
+            "en-US": "Q42. Christ's doctrine"
+          }
+        },
+        {
+          "id": "p4-q043",
+          "title": {
+            "en-US": "Q43. The miracles worked by Christ, in general"
+          }
+        },
+        {
+          "id": "p4-q044",
+          "title": {
+            "en-US": "Q44. Christ's miracles considered specifically"
+          }
+        },
+        {
+          "id": "p4-q045",
+          "title": {
+            "en-US": "Q45. Christ's transfiguration"
+          }
+        },
+        {
+          "id": "p4-q046",
+          "title": {
+            "en-US": "Q46. The passion of Christ"
+          }
+        },
+        {
+          "id": "p4-q047",
+          "title": {
+            "en-US": "Q47. The efficient cause of Christ's passion"
+          }
+        },
+        {
+          "id": "p4-q048",
+          "title": {
+            "en-US": "Q48. The efficiency of Christ's Passion"
+          }
+        },
+        {
+          "id": "p4-q049",
+          "title": {
+            "en-US": "Q49. The effects of Christ's Passion"
+          }
+        },
+        {
+          "id": "p4-q050",
+          "title": {
+            "en-US": "Q50. The death of Christ"
+          }
+        },
+        {
+          "id": "p4-q051",
+          "title": {
+            "en-US": "Q51. Christ's burial"
+          }
+        },
+        {
+          "id": "p4-q052",
+          "title": {
+            "en-US": "Q52. Christ's descent into hell"
+          }
+        },
+        {
+          "id": "p4-q053",
+          "title": {
+            "en-US": "Q53. Christ's Resurrection"
+          }
+        },
+        {
+          "id": "p4-q054",
+          "title": {
+            "en-US": "Q54. The quality of Christ rising again"
+          }
+        },
+        {
+          "id": "p4-q055",
+          "title": {
+            "en-US": "Q55. The manifestation of the Resurrection"
+          }
+        },
+        {
+          "id": "p4-q056",
+          "title": {
+            "en-US": "Q56. The causality of Christ's Resurrection"
+          }
+        },
+        {
+          "id": "p4-q057",
+          "title": {
+            "en-US": "Q57. The ascension of Christ"
+          }
+        },
+        {
+          "id": "p4-q058",
+          "title": {
+            "en-US": "Q58. Christ's sitting at the right hand of the Father"
+          }
+        },
+        {
+          "id": "p4-q059",
+          "title": {
+            "en-US": "Q59. Christ's judiciary power"
+          }
+        },
+        {
+          "id": "p4-q060",
+          "title": {
+            "en-US": "Q60. What is a sacrament?"
+          }
+        },
+        {
+          "id": "p4-q061",
+          "title": {
+            "en-US": "Q61. The necessity of the sacraments"
+          }
+        },
+        {
+          "id": "p4-q062",
+          "title": {
+            "en-US": "Q62. The sacraments' principal effect, which is grace"
+          }
+        },
+        {
+          "id": "p4-q063",
+          "title": {
+            "en-US": "Q63. The other effect of the sacraments, which is a character"
+          }
+        },
+        {
+          "id": "p4-q064",
+          "title": {
+            "en-US": "Q64. The causes of the sacraments"
+          }
+        },
+        {
+          "id": "p4-q065",
+          "title": {
+            "en-US": "Q65. The number of the sacraments"
+          }
+        },
+        {
+          "id": "p4-q066",
+          "title": {
+            "en-US": "Q66. The sacrament of Baptism"
+          }
+        },
+        {
+          "id": "p4-q067",
+          "title": {
+            "en-US": "Q67. The ministers by whom the sacrament of Baptism is conferred"
+          }
+        },
+        {
+          "id": "p4-q068",
+          "title": {
+            "en-US": "Q68. Those who receive Baptism"
+          }
+        },
+        {
+          "id": "p4-q069",
+          "title": {
+            "en-US": "Q69. The effects of Baptism"
+          }
+        },
+        {
+          "id": "p4-q070",
+          "title": {
+            "en-US": "Q70. Circumcision"
+          }
+        },
+        {
+          "id": "p4-q071",
+          "title": {
+            "en-US": "Q71. The preparations that accompany Baptism"
+          }
+        },
+        {
+          "id": "p4-q072",
+          "title": {
+            "en-US": "Q72. The sacrament of Confirmation"
+          }
+        },
+        {
+          "id": "p4-q073",
+          "title": {
+            "en-US": "Q73. The sacrament of the Eucharist"
+          }
+        },
+        {
+          "id": "p4-q074",
+          "title": {
+            "en-US": "Q74. The matter of this sacrament"
+          }
+        },
+        {
+          "id": "p4-q075",
+          "title": {
+            "en-US": "Q75. The change of bread and wine into the Body and Blood of Christ"
+          }
+        },
+        {
+          "id": "p4-q076",
+          "title": {
+            "en-US": "Q76. The way in which Christ is in this sacrament"
+          }
+        },
+        {
+          "id": "p4-q077",
+          "title": {
+            "en-US": "Q77. The accidents which remain in this sacrament"
+          }
+        },
+        {
+          "id": "p4-q078",
+          "title": {
+            "en-US": "Q78. The form of this sacrament"
+          }
+        },
+        {
+          "id": "p4-q079",
+          "title": {
+            "en-US": "Q79. The effects of this sacrament"
+          }
+        },
+        {
+          "id": "p4-q080",
+          "title": {
+            "en-US": "Q80. The use or receiving of this sacrament in general"
+          }
+        },
+        {
+          "id": "p4-q081",
+          "title": {
+            "en-US": "Q81. The use which Christ made of this sacrament at its institution"
+          }
+        },
+        {
+          "id": "p4-q082",
+          "title": {
+            "en-US": "Q82. The minister of this sacrament"
+          }
+        },
+        {
+          "id": "p4-q083",
+          "title": {
+            "en-US": "Q83. The rite of this sacrament"
+          }
+        },
+        {
+          "id": "p4-q084",
+          "title": {
+            "en-US": "Q84. The sacrament of Penance"
+          }
+        },
+        {
+          "id": "p4-q085",
+          "title": {
+            "en-US": "Q85. Penance as a virtue"
+          }
+        },
+        {
+          "id": "p4-q086",
+          "title": {
+            "en-US": "Q86. The effect of Penance, as regards the pardon of mortal sin"
+          }
+        },
+        {
+          "id": "p4-q087",
+          "title": {
+            "en-US": "Q87. The remission of venial sin"
+          }
+        },
+        {
+          "id": "p4-q088",
+          "title": {
+            "en-US": "Q88. The return of sins which have been taken away by Penance"
+          }
+        },
+        {
+          "id": "p4-q089",
+          "title": {
+            "en-US": "Q89. The recovery of virtue by means of Penance"
+          }
+        },
+        {
+          "id": "p4-q090",
+          "title": {
+            "en-US": "Q90. The parts of Penance, in general"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-supplementum",
+      "title": {
+        "en-US": "Supplementum"
+      },
+      "children": [
+        {
+          "id": "p5-q001",
+          "title": {
+            "en-US": "Q1. The parts of Penance, in particular, and first of contrition"
+          }
+        },
+        {
+          "id": "p5-q002",
+          "title": {
+            "en-US": "Q2. The object of contrition"
+          }
+        },
+        {
+          "id": "p5-q003",
+          "title": {
+            "en-US": "Q3. The degree of contrition"
+          }
+        },
+        {
+          "id": "p5-q004",
+          "title": {
+            "en-US": "Q4. The time for contrition"
+          }
+        },
+        {
+          "id": "p5-q005",
+          "title": {
+            "en-US": "Q5. The effect of contrition"
+          }
+        },
+        {
+          "id": "p5-q006",
+          "title": {
+            "en-US": "Q6. Confession, as regards its necessity"
+          }
+        },
+        {
+          "id": "p5-q007",
+          "title": {
+            "en-US": "Q7. The nature of confession"
+          }
+        },
+        {
+          "id": "p5-q008",
+          "title": {
+            "en-US": "Q8. The minister of confession"
+          }
+        },
+        {
+          "id": "p5-q009",
+          "title": {
+            "en-US": "Q9. The quality of confession"
+          }
+        },
+        {
+          "id": "p5-q010",
+          "title": {
+            "en-US": "Q10. The effect of confession"
+          }
+        },
+        {
+          "id": "p5-q011",
+          "title": {
+            "en-US": "Q11. The seal of confession"
+          }
+        },
+        {
+          "id": "p5-q012",
+          "title": {
+            "en-US": "Q12. Satisfaction, as to its nature"
+          }
+        },
+        {
+          "id": "p5-q013",
+          "title": {
+            "en-US": "Q13. The possibility of satisfaction"
+          }
+        },
+        {
+          "id": "p5-q014",
+          "title": {
+            "en-US": "Q14. The quality of satisfaction"
+          }
+        },
+        {
+          "id": "p5-q015",
+          "title": {
+            "en-US": "Q15. The means of making satisfaction"
+          }
+        },
+        {
+          "id": "p5-q016",
+          "title": {
+            "en-US": "Q16. Those who receive the sacrament of penance"
+          }
+        },
+        {
+          "id": "p5-q017",
+          "title": {
+            "en-US": "Q17. The power of the keys"
+          }
+        },
+        {
+          "id": "p5-q018",
+          "title": {
+            "en-US": "Q18. The effect of the keys"
+          }
+        },
+        {
+          "id": "p5-q019",
+          "title": {
+            "en-US": "Q19. The ministers of the keys"
+          }
+        },
+        {
+          "id": "p5-q020",
+          "title": {
+            "en-US": "Q20. Those on whom the power of the keys can be exercised"
+          }
+        },
+        {
+          "id": "p5-q021",
+          "title": {
+            "en-US": "Q21. The definition, congruity and cause of excommunication"
+          }
+        },
+        {
+          "id": "p5-q022",
+          "title": {
+            "en-US": "Q22. Those who can excommunicate or be excommunicated"
+          }
+        },
+        {
+          "id": "p5-q023",
+          "title": {
+            "en-US": "Q23. Communication with excommunicated persons"
+          }
+        },
+        {
+          "id": "p5-q024",
+          "title": {
+            "en-US": "Q24. Absolution from excommunication"
+          }
+        },
+        {
+          "id": "p5-q025",
+          "title": {
+            "en-US": "Q25. Indulgences"
+          }
+        },
+        {
+          "id": "p5-q026",
+          "title": {
+            "en-US": "Q26. Those who can grant indulgences"
+          }
+        },
+        {
+          "id": "p5-q027",
+          "title": {
+            "en-US": "Q27. Those whom indulgences avail"
+          }
+        },
+        {
+          "id": "p5-q028",
+          "title": {
+            "en-US": "Q28. The solemn rite of penance"
+          }
+        },
+        {
+          "id": "p5-q029",
+          "title": {
+            "en-US": "Q29. Extreme Unction, as regards its essence and institution"
+          }
+        },
+        {
+          "id": "p5-q030",
+          "title": {
+            "en-US": "Q30. The effect of this sacrament"
+          }
+        },
+        {
+          "id": "p5-q031",
+          "title": {
+            "en-US": "Q31. The minister of this sacrament"
+          }
+        },
+        {
+          "id": "p5-q032",
+          "title": {
+            "en-US": "Q32. On whom should the anointing of the sick be conferred and on what part of the body?"
+          }
+        },
+        {
+          "id": "p5-q033",
+          "title": {
+            "en-US": "Q33. The repetition of this sacrament"
+          }
+        },
+        {
+          "id": "p5-q034",
+          "title": {
+            "en-US": "Q34. The sacrament of Order as to its essence and its parts"
+          }
+        },
+        {
+          "id": "p5-q035",
+          "title": {
+            "en-US": "Q35. The effect of this sacrament"
+          }
+        },
+        {
+          "id": "p5-q036",
+          "title": {
+            "en-US": "Q36. The qualities required of those who receive this sacrament"
+          }
+        },
+        {
+          "id": "p5-q037",
+          "title": {
+            "en-US": "Q37. The distinction of Orders, of their acts, and the imprinting of the character"
+          }
+        },
+        {
+          "id": "p5-q038",
+          "title": {
+            "en-US": "Q38. Those who confer this sacrament"
+          }
+        },
+        {
+          "id": "p5-q039",
+          "title": {
+            "en-US": "Q39. The impediments to this sacrament"
+          }
+        },
+        {
+          "id": "p5-q040",
+          "title": {
+            "en-US": "Q40. The things annexed to the sacrament of Order"
+          }
+        },
+        {
+          "id": "p5-q041",
+          "title": {
+            "en-US": "Q41. The sacrament of Matrimony as directed to an office of nature"
+          }
+        },
+        {
+          "id": "p5-q042",
+          "title": {
+            "en-US": "Q42. Matrimony as a sacrament"
+          }
+        },
+        {
+          "id": "p5-q043",
+          "title": {
+            "en-US": "Q43. Matrimony with regard to the betrothal"
+          }
+        },
+        {
+          "id": "p5-q044",
+          "title": {
+            "en-US": "Q44. The definition of Matrimony"
+          }
+        },
+        {
+          "id": "p5-q045",
+          "title": {
+            "en-US": "Q45. The marriage consent considered in itself"
+          }
+        },
+        {
+          "id": "p5-q046",
+          "title": {
+            "en-US": "Q46. The consent to which an oath or carnal intercourse is appended"
+          }
+        },
+        {
+          "id": "p5-q047",
+          "title": {
+            "en-US": "Q47. Compulsory and conditional consent"
+          }
+        },
+        {
+          "id": "p5-q048",
+          "title": {
+            "en-US": "Q48. The object of the consent"
+          }
+        },
+        {
+          "id": "p5-q049",
+          "title": {
+            "en-US": "Q49. The marriage goods"
+          }
+        },
+        {
+          "id": "p5-q050",
+          "title": {
+            "en-US": "Q50. The impediments of marriage, in general"
+          }
+        },
+        {
+          "id": "p5-q051",
+          "title": {
+            "en-US": "Q51. The impediment of error"
+          }
+        },
+        {
+          "id": "p5-q052",
+          "title": {
+            "en-US": "Q52. The impediment of the condition of slavery"
+          }
+        },
+        {
+          "id": "p5-q053",
+          "title": {
+            "en-US": "Q53. The impediment of vows and orders"
+          }
+        },
+        {
+          "id": "p5-q054",
+          "title": {
+            "en-US": "Q54. The impediment of consanguinity"
+          }
+        },
+        {
+          "id": "p5-q055",
+          "title": {
+            "en-US": "Q55. The impediment of affinity"
+          }
+        },
+        {
+          "id": "p5-q056",
+          "title": {
+            "en-US": "Q56. The impediment of spiritual relationship"
+          }
+        },
+        {
+          "id": "p5-q057",
+          "title": {
+            "en-US": "Q57. Legal relationship, which is by adoption"
+          }
+        },
+        {
+          "id": "p5-q058",
+          "title": {
+            "en-US": "Q58. The impediments of impotence, spell, frenzy or madness, incest and defective age"
+          }
+        },
+        {
+          "id": "p5-q059",
+          "title": {
+            "en-US": "Q59. Disparity of worship as an impediment to marriage"
+          }
+        },
+        {
+          "id": "p5-q060",
+          "title": {
+            "en-US": "Q60. Wife-murder"
+          }
+        },
+        {
+          "id": "p5-q061",
+          "title": {
+            "en-US": "Q61. The impediment to marriage, arising from a solemn vow"
+          }
+        },
+        {
+          "id": "p5-q062",
+          "title": {
+            "en-US": "Q62. The impediment that supervenes to marriage after its consummation, namely fornication"
+          }
+        },
+        {
+          "id": "p5-q063",
+          "title": {
+            "en-US": "Q63. Second marriages"
+          }
+        },
+        {
+          "id": "p5-q064",
+          "title": {
+            "en-US": "Q64. Things annexed to marriage, and first the payment of the marriage debt"
+          }
+        },
+        {
+          "id": "p5-q065",
+          "title": {
+            "en-US": "Q65. Plurality of wives"
+          }
+        },
+        {
+          "id": "p5-q066",
+          "title": {
+            "en-US": "Q66. Bigamy and of the irregularity contracted thereby"
+          }
+        },
+        {
+          "id": "p5-q067",
+          "title": {
+            "en-US": "Q67. The bill of divorce"
+          }
+        },
+        {
+          "id": "p5-q068",
+          "title": {
+            "en-US": "Q68. Illegitimate children"
+          }
+        },
+        {
+          "id": "p5-q069",
+          "title": {
+            "en-US": "Q69. Matters concerning the resurrection, and first of the place where souls are after death"
+          }
+        },
+        {
+          "id": "p5-q070",
+          "title": {
+            "en-US": "Q70. The quality of the soul after leaving the body, and of the punishment inflicted on it by material fire"
+          }
+        },
+        {
+          "id": "p5-q071",
+          "title": {
+            "en-US": "Q71. The suffrages for the dead"
+          }
+        },
+        {
+          "id": "p5-q072",
+          "title": {
+            "en-US": "Q72. Prayers with regard to the saints in heaven"
+          }
+        },
+        {
+          "id": "p5-q073",
+          "title": {
+            "en-US": "Q73. The signs that will precede the judgment"
+          }
+        },
+        {
+          "id": "p5-q074",
+          "title": {
+            "en-US": "Q74. The fire of the final conflagration"
+          }
+        },
+        {
+          "id": "p5-q075",
+          "title": {
+            "en-US": "Q75. The resurrection"
+          }
+        },
+        {
+          "id": "p5-q076",
+          "title": {
+            "en-US": "Q76. The cause of the resurrection"
+          }
+        },
+        {
+          "id": "p5-q077",
+          "title": {
+            "en-US": "Q77. The time and manner of the resurrection"
+          }
+        },
+        {
+          "id": "p5-q078",
+          "title": {
+            "en-US": "Q78. The term \"wherefrom\" of the resurrection"
+          }
+        },
+        {
+          "id": "p5-q079",
+          "title": {
+            "en-US": "Q79. The conditions of those who rise again, and first of their identity"
+          }
+        },
+        {
+          "id": "p5-q080",
+          "title": {
+            "en-US": "Q80. The integrity of the bodies in the resurrection"
+          }
+        },
+        {
+          "id": "p5-q081",
+          "title": {
+            "en-US": "Q81. The quality of those who rise again"
+          }
+        },
+        {
+          "id": "p5-q082",
+          "title": {
+            "en-US": "Q82. The impassibility of the bodies of the blessed after their resurrection"
+          }
+        },
+        {
+          "id": "p5-q083",
+          "title": {
+            "en-US": "Q83. The subtlety of the bodies of the blessed"
+          }
+        },
+        {
+          "id": "p5-q084",
+          "title": {
+            "en-US": "Q84. The agility of the bodies of the blessed"
+          }
+        },
+        {
+          "id": "p5-q085",
+          "title": {
+            "en-US": "Q85. The clarity of the beatified bodies"
+          }
+        },
+        {
+          "id": "p5-q086",
+          "title": {
+            "en-US": "Q86. The conditions under which the bodies of the damned will rise again"
+          }
+        },
+        {
+          "id": "p5-q087",
+          "title": {
+            "en-US": "Q87. The knowledge which, after rising again, men will have at the judgment concerning merits and demerits"
+          }
+        },
+        {
+          "id": "p5-q088",
+          "title": {
+            "en-US": "Q88. The general judgment, as to the time and place at which it will be"
+          }
+        },
+        {
+          "id": "p5-q089",
+          "title": {
+            "en-US": "Q89. Those who will judge and those who will be judged at the general judgment"
+          }
+        },
+        {
+          "id": "p5-q090",
+          "title": {
+            "en-US": "Q90. The form of the judge in coming to the judgment"
+          }
+        },
+        {
+          "id": "p5-q091",
+          "title": {
+            "en-US": "Q91. The quality of the world after the judgment"
+          }
+        },
+        {
+          "id": "p5-q092",
+          "title": {
+            "en-US": "Q92. The vision of the divine essence in reference to the blessed"
+          }
+        },
+        {
+          "id": "p5-q093",
+          "title": {
+            "en-US": "Q93. The happiness of the saints and their mansions"
+          }
+        },
+        {
+          "id": "p5-q094",
+          "title": {
+            "en-US": "Q94. The relations of the saints towards the damned"
+          }
+        },
+        {
+          "id": "p5-q095",
+          "title": {
+            "en-US": "Q95. The gifts, or dowry, of the blessed"
+          }
+        },
+        {
+          "id": "p5-q096",
+          "title": {
+            "en-US": "Q96. The aureoles"
+          }
+        },
+        {
+          "id": "p5-q097",
+          "title": {
+            "en-US": "Q97. The punishment of the damned"
+          }
+        },
+        {
+          "id": "p5-q098",
+          "title": {
+            "en-US": "Q98. The will and intellect of the damned"
+          }
+        },
+        {
+          "id": "p5-q099",
+          "title": {
+            "en-US": "Q99. God's mercy and justice towards the damned"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-appendix-i",
+      "title": {
+        "en-US": "Appendix I"
+      },
+      "children": [
+        {
+          "id": "p6-q001",
+          "title": {
+            "en-US": "Q1. The quality of those souls who depart this life with original sin only"
+          }
+        },
+        {
+          "id": "p6-q002",
+          "title": {
+            "en-US": "Q2. Purgatory"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-appendix-ii",
+      "title": {
+        "en-US": "Appendix II"
+      },
+      "children": [
+        {
+          "id": "p7-q001",
+          "title": {
+            "en-US": "Q1. Purgatory (Appendix II)"
+          }
+        }
+      ]
+    }
+  ]
+}

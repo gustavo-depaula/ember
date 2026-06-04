@@ -1,0 +1,27 @@
+{
+  "id": "augustine-against-the-epistle-of-manichaeus-called-fundamental",
+  "name": {
+    "en-US": "Against the Epistle of Manichaeus Called Fundamental"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1405.htm",
+      "description": "Translated by Richard Stothert. From Nicene and Post-Nicene Fathers, First Series, Vol. 4, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Against the Epistle of Manichaeus Called Fundamental"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "john-chrysostom-homilies-on-first-timothy",
+  "name": {
+    "en-US": "Homilies on First Timothy"
+  },
+  "author": {
+    "en-US": "John Chrysostom"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2306.htm",
+      "description": "Translated by Philip Schaff. From Nicene and Post-Nicene Fathers, First Series, Vol. 13, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1889. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Argument"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Homily 1"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Homily 2"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Homily 3"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Homily 4"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Homily 5"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Homily 6"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Homily 7"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Homily 8"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Homily 9"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Homily 10"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Homily 11"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Homily 12"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Homily 13"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Homily 14"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Homily 15"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Homily 16"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Homily 17"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Homily 18"
+      }
+    }
+  ]
+}

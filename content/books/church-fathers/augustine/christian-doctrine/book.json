@@ -1,0 +1,51 @@
+{
+  "id": "augustine-christian-doctrine",
+  "name": {
+    "en-US": "Christian Doctrine"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1202.htm",
+      "description": "Translated by James Shaw. From Nicene and Post-Nicene Fathers, First Series, Vol. 2, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "PREFACE"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "On Christian Doctrine (Book I)"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "On Christian Doctrine (Book II)"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "On Christian Doctrine (Book III)"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "On Christian Doctrine (Book IV)"
+      }
+    }
+  ]
+}

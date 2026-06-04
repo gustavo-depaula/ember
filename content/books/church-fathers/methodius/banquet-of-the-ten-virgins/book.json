@@ -1,0 +1,93 @@
+{
+  "id": "methodius-banquet-of-the-ten-virgins",
+  "name": {
+    "en-US": "The Banquet of the Ten Virgins"
+  },
+  "author": {
+    "en-US": "Methodius"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0623.htm",
+      "description": "Translated by William R. Clark. From Ante-Nicene Fathers, Vol. 6, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1886. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Discourse I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Discourse II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Discourse III"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Discourse IV"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Discourse V"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Discourse VI"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Discourse VII"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Discourse VIII"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Discourse IX"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Discourse X"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Discourse XI"
+      }
+    }
+  ]
+}

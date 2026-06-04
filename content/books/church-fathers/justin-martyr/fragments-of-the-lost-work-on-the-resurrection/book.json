@@ -1,0 +1,27 @@
+{
+  "id": "justin-martyr-fragments-of-the-lost-work-on-the-resurrection",
+  "name": {
+    "en-US": "Fragments of the Lost Work on the Resurrection"
+  },
+  "author": {
+    "en-US": "Justin Martyr"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0131.htm",
+      "description": "Translated by Marcus Dods. From Ante-Nicene Fathers, Vol. 1, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Fragments of the Lost Work on the Resurrection"
+      }
+    }
+  ]
+}

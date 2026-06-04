@@ -1,0 +1,33 @@
+{
+  "id": "ambrose-death-of-satyrus",
+  "name": {
+    "en-US": "On the Death of Satyrus"
+  },
+  "author": {
+    "en-US": "Ambrose (340-397)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3403.htm",
+      "description": "Translated by H. de Romestin, E. de Romestin and H.T.F. Duckworth. From Nicene and Post-Nicene Fathers, Second Series, Vol. 10, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1896. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    }
+  ]
+}

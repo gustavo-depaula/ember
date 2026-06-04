@@ -1,0 +1,129 @@
+{
+  "id": "gregory-nyssa-letters",
+  "name": {
+    "en-US": "Letters"
+  },
+  "author": {
+    "en-US": "Gregory of Nyssa"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2911.htm",
+      "description": "Translated by H.C. Ogle, H.A. Wilson and W. Moore. From Nicene and Post-Nicene Fathers, Second Series, Vol. 5, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1893. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "LETTER 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "LETTER 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "LETTER 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "LETTER 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "LETTER 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "LETTER 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "LETTER 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "LETTER 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "LETTER 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "LETTER 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "LETTER 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "LETTER 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "LETTER 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "LETTER 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "LETTER 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "LETTER 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "LETTER 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "LETTER 18"
+      }
+    }
+  ]
+}

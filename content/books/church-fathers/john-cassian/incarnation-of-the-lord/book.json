@@ -1,0 +1,63 @@
+{
+  "id": "john-cassian-incarnation-of-the-lord",
+  "name": {
+    "en-US": "On the Incarnation of the Lord (Against Nestorius)"
+  },
+  "author": {
+    "en-US": "John Cassian (c. 360-c. 435)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3509.htm",
+      "description": "Translated by C.S. Gibson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 11, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1894. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book VI"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book VII"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "hilary-councils-or-the-faith-of-the-easterns",
+  "name": {
+    "en-US": "On the Councils, or the Faith of the Easterns"
+  },
+  "author": {
+    "en-US": "Hilary of Poitiers"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3301.htm",
+      "description": "Translated by E.W. Watson and L. Pullan. From Nicene and Post-Nicene Fathers, Second Series, Vol. 9, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1899. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "On the Councils, or the Faith of the Easterns"
+      }
+    }
+  ]
+}

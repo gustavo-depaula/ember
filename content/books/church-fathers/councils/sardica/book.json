@@ -1,0 +1,27 @@
+{
+  "id": "councils-sardica",
+  "name": {
+    "en-US": "Sardica (344)"
+  },
+  "author": {
+    "en-US": "Councils"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3815.htm",
+      "description": "Translated by Henry Percival. From Nicene and Post-Nicene Fathers, Second Series, Vol. 14, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1900. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Sardica (344)"
+      }
+    }
+  ]
+}

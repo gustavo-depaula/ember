@@ -1,0 +1,27 @@
+{
+  "id": "john-chrysostom-first-homily-on-eutropius",
+  "name": {
+    "en-US": "First Homily on Eutropius"
+  },
+  "author": {
+    "en-US": "John Chrysostom"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1914.htm",
+      "description": "Translated by W.R.W. Stephens. From Nicene and Post-Nicene Fathers, First Series, Vol. 9, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1889. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "First Homily on Eutropius"
+      }
+    }
+  ]
+}

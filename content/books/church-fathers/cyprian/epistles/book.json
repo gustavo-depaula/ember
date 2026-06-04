@@ -1,0 +1,513 @@
+{
+  "id": "cyprian-epistles",
+  "name": {
+    "en-US": "The Epistles of Cyprian"
+  },
+  "author": {
+    "en-US": "Cyprian of Carthage"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0506.htm",
+      "description": "Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1886. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Epistle 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Epistle 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Epistle 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Epistle 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Epistle 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Epistle 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Epistle 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Epistle 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Epistle 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Epistle 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Epistle 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Epistle 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Epistle 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Epistle 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Epistle 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Epistle 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Epistle 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Epistle 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Epistle 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Epistle 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Epistle 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Epistle 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Epistle 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Epistle 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Epistle 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Epistle 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Epistle 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Epistle 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Epistle 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Epistle 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Epistle 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Epistle 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Epistle 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Epistle 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Epistle 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Epistle 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Epistle 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Epistle 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Epistle 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Epistle 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Epistle 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Epistle 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Epistle 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Epistle 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Epistle 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Epistle 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Epistle 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Epistle 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Epistle 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Epistle 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Epistle 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Epistle 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Epistle 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Epistle 54"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Epistle 55"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "Epistle 56"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "Epistle 57"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "en-US": "Epistle 58"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "en-US": "Epistle 59"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "en-US": "Epistle 60"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "Epistle 61"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "en-US": "Epistle 62"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "en-US": "Epistle 63"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "en-US": "Epistle 64"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "en-US": "Epistle 65"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "en-US": "Epistle 66"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "en-US": "Epistle 67"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "en-US": "Epistle 68"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "en-US": "Epistle 69"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "en-US": "Epistle 70"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "Epistle 71"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "en-US": "Epistle 72"
+      }
+    },
+    {
+      "id": "ch073",
+      "title": {
+        "en-US": "Epistle 73"
+      }
+    },
+    {
+      "id": "ch074",
+      "title": {
+        "en-US": "Epistle 74"
+      }
+    },
+    {
+      "id": "ch075",
+      "title": {
+        "en-US": "Epistle 75"
+      }
+    },
+    {
+      "id": "ch076",
+      "title": {
+        "en-US": "Epistle 76"
+      }
+    },
+    {
+      "id": "ch077",
+      "title": {
+        "en-US": "Epistle 77"
+      }
+    },
+    {
+      "id": "ch078",
+      "title": {
+        "en-US": "Epistle 78"
+      }
+    },
+    {
+      "id": "ch079",
+      "title": {
+        "en-US": "Epistle 79"
+      }
+    },
+    {
+      "id": "ch080",
+      "title": {
+        "en-US": "Epistle 80"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "Epistle 81"
+      }
+    },
+    {
+      "id": "ch082",
+      "title": {
+        "en-US": "Epistle 82"
+      }
+    }
+  ]
+}

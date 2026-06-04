@@ -1,0 +1,765 @@
+{
+  "id": "augustine-tractates-on-the-gospel-of-john",
+  "name": {
+    "en-US": "Tractates on the Gospel of John"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1701.htm",
+      "description": "Translated by John Gibb. From Nicene and Post-Nicene Fathers, First Series, Vol. 7, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Tractate 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Tractate 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Tractate 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Tractate 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Tractate 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Tractate 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Tractate 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Tractate 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Tractate 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Tractate 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Tractate 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Tractate 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Tractate 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Tractate 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Tractate 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Tractate 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Tractate 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Tractate 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Tractate 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Tractate 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Tractate 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Tractate 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Tractate 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Tractate 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Tractate 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Tractate 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Tractate 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Tractate 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Tractate 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Tractate 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Tractate 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Tractate 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Tractate 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Tractate 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Tractate 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Tractate 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Tractate 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Tractate 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Tractate 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Tractate 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Tractate 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Tractate 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Tractate 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Tractate 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Tractate 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Tractate 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Tractate 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Tractate 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Tractate 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Tractate 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Tractate 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Tractate 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Tractate 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Tractate 54"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Tractate 55"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "Tractate 56"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "Tractate 57"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "en-US": "Tractate 58"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "en-US": "Tractate 59"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "en-US": "Tractate 60"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "Tractate 61"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "en-US": "Tractate 62"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "en-US": "Tractate 63"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "en-US": "Tractate 64"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "en-US": "Tractate 65"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "en-US": "Tractate 66"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "en-US": "Tractate 67"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "en-US": "Tractate 68"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "en-US": "Tractate 69"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "en-US": "Tractate 70"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "Tractate 71"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "en-US": "Tractate 72"
+      }
+    },
+    {
+      "id": "ch073",
+      "title": {
+        "en-US": "Tractate 73"
+      }
+    },
+    {
+      "id": "ch074",
+      "title": {
+        "en-US": "Tractate 74"
+      }
+    },
+    {
+      "id": "ch075",
+      "title": {
+        "en-US": "Tractate 75"
+      }
+    },
+    {
+      "id": "ch076",
+      "title": {
+        "en-US": "Tractate 76"
+      }
+    },
+    {
+      "id": "ch077",
+      "title": {
+        "en-US": "Tractate 77"
+      }
+    },
+    {
+      "id": "ch078",
+      "title": {
+        "en-US": "Tractate 78"
+      }
+    },
+    {
+      "id": "ch079",
+      "title": {
+        "en-US": "Tractate 79"
+      }
+    },
+    {
+      "id": "ch080",
+      "title": {
+        "en-US": "Tractate 80"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "Tractate 81"
+      }
+    },
+    {
+      "id": "ch082",
+      "title": {
+        "en-US": "Tractate 82"
+      }
+    },
+    {
+      "id": "ch083",
+      "title": {
+        "en-US": "Tractate 83"
+      }
+    },
+    {
+      "id": "ch084",
+      "title": {
+        "en-US": "Tractate 84"
+      }
+    },
+    {
+      "id": "ch085",
+      "title": {
+        "en-US": "Tractate 85"
+      }
+    },
+    {
+      "id": "ch086",
+      "title": {
+        "en-US": "Tractate 86"
+      }
+    },
+    {
+      "id": "ch087",
+      "title": {
+        "en-US": "Tractate 87"
+      }
+    },
+    {
+      "id": "ch088",
+      "title": {
+        "en-US": "Tractate 88"
+      }
+    },
+    {
+      "id": "ch089",
+      "title": {
+        "en-US": "Tractate 89"
+      }
+    },
+    {
+      "id": "ch090",
+      "title": {
+        "en-US": "Tractate 90"
+      }
+    },
+    {
+      "id": "ch091",
+      "title": {
+        "en-US": "Tractate 91"
+      }
+    },
+    {
+      "id": "ch092",
+      "title": {
+        "en-US": "Tractate 92"
+      }
+    },
+    {
+      "id": "ch093",
+      "title": {
+        "en-US": "Tractate 93"
+      }
+    },
+    {
+      "id": "ch094",
+      "title": {
+        "en-US": "Tractate 94"
+      }
+    },
+    {
+      "id": "ch095",
+      "title": {
+        "en-US": "Tractate 95"
+      }
+    },
+    {
+      "id": "ch096",
+      "title": {
+        "en-US": "Tractate 96"
+      }
+    },
+    {
+      "id": "ch097",
+      "title": {
+        "en-US": "Tractate 97"
+      }
+    },
+    {
+      "id": "ch098",
+      "title": {
+        "en-US": "Tractate 98"
+      }
+    },
+    {
+      "id": "ch099",
+      "title": {
+        "en-US": "Tractate 99"
+      }
+    },
+    {
+      "id": "ch100",
+      "title": {
+        "en-US": "Tractate 100"
+      }
+    },
+    {
+      "id": "ch101",
+      "title": {
+        "en-US": "Tractate 101"
+      }
+    },
+    {
+      "id": "ch102",
+      "title": {
+        "en-US": "Tractate 102"
+      }
+    },
+    {
+      "id": "ch103",
+      "title": {
+        "en-US": "Tractate 103"
+      }
+    },
+    {
+      "id": "ch104",
+      "title": {
+        "en-US": "Tractate 104"
+      }
+    },
+    {
+      "id": "ch105",
+      "title": {
+        "en-US": "Tractate 105"
+      }
+    },
+    {
+      "id": "ch106",
+      "title": {
+        "en-US": "Tractate 106"
+      }
+    },
+    {
+      "id": "ch107",
+      "title": {
+        "en-US": "Tractate 107"
+      }
+    },
+    {
+      "id": "ch108",
+      "title": {
+        "en-US": "Tractate 108"
+      }
+    },
+    {
+      "id": "ch109",
+      "title": {
+        "en-US": "Tractate 109"
+      }
+    },
+    {
+      "id": "ch110",
+      "title": {
+        "en-US": "Tractate 110"
+      }
+    },
+    {
+      "id": "ch111",
+      "title": {
+        "en-US": "Tractate 111"
+      }
+    },
+    {
+      "id": "ch112",
+      "title": {
+        "en-US": "Tractate 112"
+      }
+    },
+    {
+      "id": "ch113",
+      "title": {
+        "en-US": "Tractate 113"
+      }
+    },
+    {
+      "id": "ch114",
+      "title": {
+        "en-US": "Tractate 114"
+      }
+    },
+    {
+      "id": "ch115",
+      "title": {
+        "en-US": "Tractate 115"
+      }
+    },
+    {
+      "id": "ch116",
+      "title": {
+        "en-US": "Tractate 116"
+      }
+    },
+    {
+      "id": "ch117",
+      "title": {
+        "en-US": "Tractate 117"
+      }
+    },
+    {
+      "id": "ch118",
+      "title": {
+        "en-US": "Tractate 118"
+      }
+    },
+    {
+      "id": "ch119",
+      "title": {
+        "en-US": "Tractate 119"
+      }
+    },
+    {
+      "id": "ch120",
+      "title": {
+        "en-US": "Tractate 120"
+      }
+    },
+    {
+      "id": "ch121",
+      "title": {
+        "en-US": "Tractate 121"
+      }
+    },
+    {
+      "id": "ch122",
+      "title": {
+        "en-US": "Tractate 122"
+      }
+    },
+    {
+      "id": "ch123",
+      "title": {
+        "en-US": "Tractate 123"
+      }
+    },
+    {
+      "id": "ch124",
+      "title": {
+        "en-US": "Tractate 124"
+      }
+    }
+  ]
+}

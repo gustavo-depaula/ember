@@ -1,0 +1,83 @@
+{
+  "id": "collection/ambrose-of-milan",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. Ambrose of Milan"
+  },
+  "description": {
+    "en-US": "Bishop and Doctor (c. 339–397). Roman governor turned bishop, catechist of Augustine, the great hymnographer of the Latin Church, and a model of episcopal courage against the imperial court."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "ambrose"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Bishop and Doctor (c. 339–397). Roman governor turned bishop, catechist of Augustine, the great hymnographer of the Latin Church, and a model of episcopal courage against the imperial court."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "11 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/ambrose-christian-faith"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-concerning-virgins"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-concerning-widows"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-death-of-satyrus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-duties-of-the-clergy"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-holy-spirit"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-letters"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-memorial-of-symmachus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-mysteries"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-repentance"
+        },
+        {
+          "kind": "item",
+          "ref": "book/ambrose-sermon-against-auxentius"
+        }
+      ]
+    }
+  ]
+}

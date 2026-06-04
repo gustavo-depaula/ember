@@ -1,0 +1,45 @@
+{
+  "id": "john-exposition-of-the-faith",
+  "name": {
+    "en-US": "Exposition of the Faith"
+  },
+  "author": {
+    "en-US": "John of Damascus"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3304.htm",
+      "description": "Translated by E.W. Watson and L. Pullan. From Nicene and Post-Nicene Fathers, Second Series, Vol. 9, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1899. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "BOOK I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "BOOK II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "BOOK III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "BOOK IV"
+      }
+    }
+  ]
+}

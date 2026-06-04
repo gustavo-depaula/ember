@@ -1,0 +1,47 @@
+{
+  "id": "collection/gregory-the-great",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. Gregory the Great"
+  },
+  "description": {
+    "en-US": "Pope, monk, Doctor of the Church (c. 540–604). The *Pastoral Rule* shaped the medieval episcopate, and the *Register of Letters* (420 letters) maps the transition from the patristic age to the Middle Ages."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "gregorygreatpope"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Pope, monk, Doctor of the Church (c. 540–604). The *Pastoral Rule* shaped the medieval episcopate, and the *Register of Letters* (420 letters) maps the transition from the patristic age to the Middle Ages."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "2 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/gregory-great-pope-pastoral-rule"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gregory-great-pope-register-of-letters"
+        }
+      ]
+    }
+  ]
+}

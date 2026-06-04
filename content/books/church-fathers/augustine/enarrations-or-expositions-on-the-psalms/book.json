@@ -1,0 +1,921 @@
+{
+  "id": "augustine-enarrations-or-expositions-on-the-psalms",
+  "name": {
+    "en-US": "The Enarrations, or Expositions, on the Psalms"
+  },
+  "author": {
+    "en-US": "Augustine of Hippo"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1801.htm",
+      "description": "Translated by J.E. Tweed. From Nicene and Post-Nicene Fathers, First Series, Vol. 8, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Psalm 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Psalm 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Psalm 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Psalm 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Psalm 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Psalm 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Psalm 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Psalm 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Psalm 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Psalm 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Psalm 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Psalm 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Psalm 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Psalm 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Psalm 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Psalm 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Psalm 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Psalm 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Psalm 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Psalm 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Psalm 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Psalm 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Psalm 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Psalm 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Psalm 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Psalm 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Psalm 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Psalm 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Psalm 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Psalm 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Psalm 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Psalm 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Psalm 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Psalm 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Psalm 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Psalm 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Psalm 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Psalm 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Psalm 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Psalm 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Psalm 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Psalm 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Psalm 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Psalm 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Psalm 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Psalm 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Psalm 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Psalm 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Psalm 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Psalm 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Psalm 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Psalm 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Psalm 54"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Psalm 55"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "Psalm 56"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "Psalm 57"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "en-US": "Psalm 58"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "en-US": "Psalm 59"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "en-US": "Psalm 60"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "Psalm 61"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "en-US": "Psalm 62"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "en-US": "Psalm 63"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "en-US": "Psalm 64"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "en-US": "Psalm 65"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "en-US": "Psalm 66"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "en-US": "Psalm 67"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "en-US": "Psalm 68"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "en-US": "Psalm 69"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "en-US": "Psalm 70"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "Psalm 71"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "en-US": "Psalm 72"
+      }
+    },
+    {
+      "id": "ch073",
+      "title": {
+        "en-US": "Psalm 73"
+      }
+    },
+    {
+      "id": "ch074",
+      "title": {
+        "en-US": "Psalm 74"
+      }
+    },
+    {
+      "id": "ch075",
+      "title": {
+        "en-US": "Psalm 75"
+      }
+    },
+    {
+      "id": "ch076",
+      "title": {
+        "en-US": "Psalm 76"
+      }
+    },
+    {
+      "id": "ch077",
+      "title": {
+        "en-US": "Psalm 77"
+      }
+    },
+    {
+      "id": "ch078",
+      "title": {
+        "en-US": "Psalm 78"
+      }
+    },
+    {
+      "id": "ch079",
+      "title": {
+        "en-US": "Psalm 79"
+      }
+    },
+    {
+      "id": "ch080",
+      "title": {
+        "en-US": "Psalm 80"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "Psalm 81"
+      }
+    },
+    {
+      "id": "ch082",
+      "title": {
+        "en-US": "Psalm 82"
+      }
+    },
+    {
+      "id": "ch083",
+      "title": {
+        "en-US": "Psalm 83"
+      }
+    },
+    {
+      "id": "ch084",
+      "title": {
+        "en-US": "Psalm 84"
+      }
+    },
+    {
+      "id": "ch085",
+      "title": {
+        "en-US": "Psalm 85"
+      }
+    },
+    {
+      "id": "ch086",
+      "title": {
+        "en-US": "Psalm 86"
+      }
+    },
+    {
+      "id": "ch087",
+      "title": {
+        "en-US": "Psalm 87"
+      }
+    },
+    {
+      "id": "ch088",
+      "title": {
+        "en-US": "Psalm 88"
+      }
+    },
+    {
+      "id": "ch089",
+      "title": {
+        "en-US": "Psalm 89"
+      }
+    },
+    {
+      "id": "ch090",
+      "title": {
+        "en-US": "Psalm 90"
+      }
+    },
+    {
+      "id": "ch091",
+      "title": {
+        "en-US": "Psalm 91"
+      }
+    },
+    {
+      "id": "ch092",
+      "title": {
+        "en-US": "Psalm 92"
+      }
+    },
+    {
+      "id": "ch093",
+      "title": {
+        "en-US": "Psalm 93"
+      }
+    },
+    {
+      "id": "ch094",
+      "title": {
+        "en-US": "Psalm 94"
+      }
+    },
+    {
+      "id": "ch095",
+      "title": {
+        "en-US": "Psalm 95"
+      }
+    },
+    {
+      "id": "ch096",
+      "title": {
+        "en-US": "Psalm 96"
+      }
+    },
+    {
+      "id": "ch097",
+      "title": {
+        "en-US": "Psalm 97"
+      }
+    },
+    {
+      "id": "ch098",
+      "title": {
+        "en-US": "Psalm 98"
+      }
+    },
+    {
+      "id": "ch099",
+      "title": {
+        "en-US": "Psalm 99"
+      }
+    },
+    {
+      "id": "ch100",
+      "title": {
+        "en-US": "Psalm 100"
+      }
+    },
+    {
+      "id": "ch101",
+      "title": {
+        "en-US": "Psalm 101"
+      }
+    },
+    {
+      "id": "ch102",
+      "title": {
+        "en-US": "Psalm 102"
+      }
+    },
+    {
+      "id": "ch103",
+      "title": {
+        "en-US": "Psalm 103"
+      }
+    },
+    {
+      "id": "ch104",
+      "title": {
+        "en-US": "Psalm 104"
+      }
+    },
+    {
+      "id": "ch105",
+      "title": {
+        "en-US": "Psalm 105"
+      }
+    },
+    {
+      "id": "ch106",
+      "title": {
+        "en-US": "Psalm 106"
+      }
+    },
+    {
+      "id": "ch107",
+      "title": {
+        "en-US": "Psalm 107"
+      }
+    },
+    {
+      "id": "ch108",
+      "title": {
+        "en-US": "Psalm 108"
+      }
+    },
+    {
+      "id": "ch109",
+      "title": {
+        "en-US": "Psalm 109"
+      }
+    },
+    {
+      "id": "ch110",
+      "title": {
+        "en-US": "Psalm 110"
+      }
+    },
+    {
+      "id": "ch111",
+      "title": {
+        "en-US": "Psalm 111"
+      }
+    },
+    {
+      "id": "ch112",
+      "title": {
+        "en-US": "Psalm 112"
+      }
+    },
+    {
+      "id": "ch113",
+      "title": {
+        "en-US": "Psalm 113"
+      }
+    },
+    {
+      "id": "ch114",
+      "title": {
+        "en-US": "Psalm 114"
+      }
+    },
+    {
+      "id": "ch115",
+      "title": {
+        "en-US": "Psalm 115"
+      }
+    },
+    {
+      "id": "ch116",
+      "title": {
+        "en-US": "Psalm 116"
+      }
+    },
+    {
+      "id": "ch117",
+      "title": {
+        "en-US": "Psalm 117"
+      }
+    },
+    {
+      "id": "ch118",
+      "title": {
+        "en-US": "Psalm 118"
+      }
+    },
+    {
+      "id": "ch119",
+      "title": {
+        "en-US": "Psalm 119"
+      }
+    },
+    {
+      "id": "ch120",
+      "title": {
+        "en-US": "Psalm 120"
+      }
+    },
+    {
+      "id": "ch121",
+      "title": {
+        "en-US": "Psalm 121"
+      }
+    },
+    {
+      "id": "ch122",
+      "title": {
+        "en-US": "Psalm 122"
+      }
+    },
+    {
+      "id": "ch123",
+      "title": {
+        "en-US": "Psalm 123"
+      }
+    },
+    {
+      "id": "ch124",
+      "title": {
+        "en-US": "Psalm 124"
+      }
+    },
+    {
+      "id": "ch125",
+      "title": {
+        "en-US": "Psalm 125"
+      }
+    },
+    {
+      "id": "ch126",
+      "title": {
+        "en-US": "Psalm 126"
+      }
+    },
+    {
+      "id": "ch127",
+      "title": {
+        "en-US": "Psalm 127"
+      }
+    },
+    {
+      "id": "ch128",
+      "title": {
+        "en-US": "Psalm 128"
+      }
+    },
+    {
+      "id": "ch129",
+      "title": {
+        "en-US": "Psalm 129"
+      }
+    },
+    {
+      "id": "ch130",
+      "title": {
+        "en-US": "Psalm 130"
+      }
+    },
+    {
+      "id": "ch131",
+      "title": {
+        "en-US": "Psalm 131"
+      }
+    },
+    {
+      "id": "ch132",
+      "title": {
+        "en-US": "Psalm 132"
+      }
+    },
+    {
+      "id": "ch133",
+      "title": {
+        "en-US": "Psalm 133"
+      }
+    },
+    {
+      "id": "ch134",
+      "title": {
+        "en-US": "Psalm 134"
+      }
+    },
+    {
+      "id": "ch135",
+      "title": {
+        "en-US": "Psalm 135"
+      }
+    },
+    {
+      "id": "ch136",
+      "title": {
+        "en-US": "Psalm 136"
+      }
+    },
+    {
+      "id": "ch137",
+      "title": {
+        "en-US": "Psalm 137"
+      }
+    },
+    {
+      "id": "ch138",
+      "title": {
+        "en-US": "Psalm 138"
+      }
+    },
+    {
+      "id": "ch139",
+      "title": {
+        "en-US": "Psalm 139"
+      }
+    },
+    {
+      "id": "ch140",
+      "title": {
+        "en-US": "Psalm 140"
+      }
+    },
+    {
+      "id": "ch141",
+      "title": {
+        "en-US": "Psalm 141"
+      }
+    },
+    {
+      "id": "ch142",
+      "title": {
+        "en-US": "Psalm 142"
+      }
+    },
+    {
+      "id": "ch143",
+      "title": {
+        "en-US": "Psalm 143"
+      }
+    },
+    {
+      "id": "ch144",
+      "title": {
+        "en-US": "Psalm 144"
+      }
+    },
+    {
+      "id": "ch145",
+      "title": {
+        "en-US": "Psalm 145"
+      }
+    },
+    {
+      "id": "ch146",
+      "title": {
+        "en-US": "Psalm 146"
+      }
+    },
+    {
+      "id": "ch147",
+      "title": {
+        "en-US": "Psalm 147"
+      }
+    },
+    {
+      "id": "ch148",
+      "title": {
+        "en-US": "Psalm 148"
+      }
+    },
+    {
+      "id": "ch149",
+      "title": {
+        "en-US": "Psalm 149"
+      }
+    },
+    {
+      "id": "ch150",
+      "title": {
+        "en-US": "Psalm 150"
+      }
+    }
+  ]
+}

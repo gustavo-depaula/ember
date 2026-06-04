@@ -1,0 +1,39 @@
+{
+  "id": "hilary-homilies-on-the-psalms",
+  "name": {
+    "en-US": "Homilies on the Psalms"
+  },
+  "author": {
+    "en-US": "Hilary of Poitiers"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3303.htm",
+      "description": "Translated by E.W. Watson and L. Pullan. From Nicene and Post-Nicene Fathers, Second Series, Vol. 9, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1899. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Psalm 54/53"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Psalm 131/130"
+      }
+    }
+  ]
+}

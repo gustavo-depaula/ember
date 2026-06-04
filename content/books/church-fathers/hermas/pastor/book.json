@@ -1,0 +1,39 @@
+{
+  "id": "hermas-pastor",
+  "name": {
+    "en-US": "The Pastor (or \"The Shepherd\")"
+  },
+  "author": {
+    "en-US": "Hermas"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0201.htm",
+      "description": "Translated by F. Crombie. From Ante-Nicene Fathers, Vol. 2, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "FIRST VISION"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "FIRST COMMANDMENT"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "FIRST SIMILITUDE"
+      }
+    }
+  ]
+}

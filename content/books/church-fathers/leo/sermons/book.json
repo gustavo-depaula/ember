@@ -1,0 +1,309 @@
+{
+  "id": "leo-sermons",
+  "name": {
+    "en-US": "Sermons"
+  },
+  "author": {
+    "en-US": "Leo the Great, Pope (c. 395-461)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3603.htm",
+      "description": "Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Sermon 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Sermon 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Sermon 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Sermon 9"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Sermon 10"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Sermon 12"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Sermon 16"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Sermon 17"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Sermon 19"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Sermon 21"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Sermon 22"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Sermon 23"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Sermon 24"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Sermon 26"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Sermon 27"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Sermon 28"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Sermon 31"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Sermon 33"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Sermon 34"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Sermon 36"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Sermon 39"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Sermon 40"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Sermon 42"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Sermon 46"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Sermon 49"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Sermon 51"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Sermon 54"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Sermon 55"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Sermon 58"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Sermon 59"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Sermon 62"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Sermon 63"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Sermon 67"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Sermon 68"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Sermon 71"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Sermon 72"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Sermon 73"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Sermon 74"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Sermon 75"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Sermon 77"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Sermon 78"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Sermon 82"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Sermon 84"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Sermon 85"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Sermon 88"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Sermon 90"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Sermon 91"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Sermon 95"
+      }
+    }
+  ]
+}

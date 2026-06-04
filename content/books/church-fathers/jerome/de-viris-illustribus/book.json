@@ -1,0 +1,27 @@
+{
+  "id": "jerome-de-viris-illustribus",
+  "name": {
+    "en-US": "De Viris Illustribus (Illustrious Men)"
+  },
+  "author": {
+    "en-US": "Jerome"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2708.htm",
+      "description": "Translated by Ernest Cushing Richardson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "De Viris Illustribus (Illustrious Men)"
+      }
+    }
+  ]
+}

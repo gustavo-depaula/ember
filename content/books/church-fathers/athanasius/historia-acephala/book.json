@@ -1,0 +1,27 @@
+{
+  "id": "athanasius-historia-acephala",
+  "name": {
+    "en-US": "Historia Acephala"
+  },
+  "author": {
+    "en-US": "Athanasius"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2820.htm",
+      "description": "Translated by Archibald Robertson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Historia Acephala"
+      }
+    }
+  ]
+}
