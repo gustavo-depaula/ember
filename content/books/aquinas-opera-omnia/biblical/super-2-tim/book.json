@@ -1,0 +1,76 @@
+{
+  "id": "aquinas-super-2-timotheum",
+  "name": {
+    "en-US": "Commentary on 2 Timothy",
+    "la": "Super Epistolam ad Timotheum Secundam"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the Second Epistle to Timothy.",
+    "la": "Expositio Thomae in Epistolam ad Timotheum Secundam."
+  },
+  "composed": "1265–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Timotheum II",
+      "description": "English translation by Fabian R. Larcher, O.P., revised by The Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Timotheum II",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "2tim",
+      "title": {
+        "en-US": "2Tim",
+        "la": "2Tim"
+      }
+    },
+    {
+      "id": "2tim-pr",
+      "title": {
+        "en-US": "Pr. (31:40) - Genesis 31:40",
+        "la": "Pr. (31:40) - Genesis 31:40"
+      }
+    },
+    {
+      "id": "2tim-c1",
+      "title": {
+        "en-US": "C. 1 - Preaching Christ",
+        "la": "C. 1 - Preaching Christ"
+      }
+    },
+    {
+      "id": "2tim-c2",
+      "title": {
+        "en-US": "C. 2 - Suffering for Christ",
+        "la": "C. 2 - Suffering for Christ"
+      }
+    },
+    {
+      "id": "2tim-c3",
+      "title": {
+        "en-US": "C. 3 - The Last Days",
+        "la": "C. 3 - The Last Days"
+      }
+    },
+    {
+      "id": "2tim-c4",
+      "title": {
+        "en-US": "C. 4 - Endurance at the End",
+        "la": "C. 4 - Endurance at the End"
+      }
+    }
+  ]
+}

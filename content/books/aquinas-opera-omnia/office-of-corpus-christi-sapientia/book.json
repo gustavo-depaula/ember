@@ -1,0 +1,104 @@
+{
+  "id": "aquinas-office-corpus-christi-sapientia",
+  "name": {
+    "en-US": "Office of Corpus Christi — Sapientia aedificavit sibi",
+    "la": "Officium Corporis Christi — Sapientia aedificavit sibi"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "The alternate (early) draft of the Office of Corpus Christi, beginning *Sapientia aedificavit sibi*. The *Sacerdos in aeternum* version (in `aquinas-office-corpus-christi`) was the one ultimately adopted.",
+    "la": "Recensio prima Officii Corporis Christi, a verbis *Sapientia aedificavit sibi* incipiens. Recensio *Sacerdos in aeternum* in usum tandem recepta est."
+  },
+  "composed": 1264,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Sapientia aedificavit sibi",
+      "description": "Translations from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Sapientia aedificavit sibi",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "officesas-01",
+      "title": {
+        "en-US": "OfficeSAS",
+        "la": "OfficeSAS"
+      }
+    },
+    {
+      "id": "officesas-s1",
+      "title": {
+        "en-US": "OfficeSAS.S1",
+        "la": "OfficeSAS.S1"
+      }
+    },
+    {
+      "id": "officesas-first-vespers",
+      "title": {
+        "en-US": "First Vespers",
+        "la": "First Vespers"
+      }
+    },
+    {
+      "id": "officesas-matins",
+      "title": {
+        "en-US": "Matins",
+        "la": "Matins"
+      }
+    },
+    {
+      "id": "officesas-lauds",
+      "title": {
+        "en-US": "Lauds",
+        "la": "Lauds"
+      }
+    },
+    {
+      "id": "officesas-prime",
+      "title": {
+        "en-US": "Prime",
+        "la": "Prime"
+      }
+    },
+    {
+      "id": "officesas-terce",
+      "title": {
+        "en-US": "Terce",
+        "la": "Terce"
+      }
+    },
+    {
+      "id": "officesas-sext",
+      "title": {
+        "en-US": "Sext",
+        "la": "Sext"
+      }
+    },
+    {
+      "id": "officesas-none",
+      "title": {
+        "en-US": "None",
+        "la": "None"
+      }
+    },
+    {
+      "id": "officesas-second-vespers",
+      "title": {
+        "en-US": "Second Vespers",
+        "la": "Second Vespers"
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# Caput 0 — Text — and — Commentary
+# Lectio 0 — Text — and — Commentary
 
 **Prooemium**
 

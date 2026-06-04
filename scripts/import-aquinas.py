@@ -1028,6 +1028,10 @@ class LinearWorkSpec:
     # Parser mode: "anchor" (default, requires <a name>) or "header-rows"
     # (split by Caput/CHAPTER text in tr cells, no anchors needed).
     mode: str = "anchor"
+    # Pauline biblical-commentary anchor encoding: <chap><lec> (e.g. "11" =
+    # chapter 1 lectio 1, "162" = chapter 16 lectio 2). When True the linear
+    # builder decodes anchors into chapter/lectio pairs for TOC and filenames.
+    pauline_anchors: bool = False
 
 
 def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict:
@@ -1097,17 +1101,52 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
                 num_int = int(num)
             except (ValueError, TypeError):
                 num_int = 0
-            cid_base = f"ch{num_int:03d}" if num_int else f"ch-{slug(str(num))}"
+            # Pauline anchor decoding: 2-digit "XY" → ch X lec Y;
+            # 3-digit "XYZ" → ch XY lec Z.
+            pauline_ch, pauline_lec = None, None
+            if spec.pauline_anchors and num_int > 0:
+                s = str(num_int)
+                if len(s) == 1:
+                    # Just a chapter number, no lectio (rare; prologue case)
+                    pauline_ch, pauline_lec = num_int, 0
+                elif len(s) == 2:
+                    pauline_ch, pauline_lec = int(s[0]), int(s[1])
+                else:  # 3-digit
+                    pauline_ch, pauline_lec = int(s[:2]), int(s[2])
+
+            if pauline_ch is not None and pauline_ch > 0 and pauline_lec > 0:
+                cid_base = f"c{pauline_ch:02d}-l{pauline_lec}"
+            elif pauline_ch is not None and pauline_ch == 0:
+                cid_base = "prologue"
+            else:
+                cid_base = f"ch{num_int:03d}" if num_int else f"ch-{slug(str(num))}"
             cid = f"b{idx + 1}-{cid_base}" if has_groups else cid_base
             title_en_clean = _clean_chapter_title(chap.title_en, "en-US")
             title_la_clean = _clean_chapter_title(chap.title_la, "la") or title_en_clean
 
-            md_en = _linear_chapter_md(num_int or num, title_en_clean, chap.body_en, spec.chapter_label_en)
-            md_la = _linear_chapter_md(num_int or num, title_la_clean, chap.body_la, spec.chapter_label_la)
+            if pauline_ch is not None and pauline_ch > 0 and pauline_lec > 0:
+                md_en = _pauline_chapter_md(pauline_ch, pauline_lec, title_en_clean, chap.body_en, "en-US")
+                md_la = _pauline_chapter_md(pauline_ch, pauline_lec, title_la_clean, chap.body_la, "la")
+            elif pauline_ch is not None and pauline_ch == 0:
+                md_en = f"# Prologue\n\n{chap.body_en.strip()}\n"
+                md_la = f"# Prologus\n\n{chap.body_la.strip()}\n"
+            else:
+                md_en = _linear_chapter_md(num_int or num, title_en_clean, chap.body_en, spec.chapter_label_en)
+                md_la = _linear_chapter_md(num_int or num, title_la_clean, chap.body_la, spec.chapter_label_la)
             _write_md(en_dir / f"{cid}.md", md_en)
             _write_md(la_dir / f"{cid}.md", md_la)
             total += 1
-            if isinstance(num, str) and num.startswith("prooemium"):
+            if pauline_ch is not None and pauline_ch > 0 and pauline_lec > 0:
+                node_title_en = f"Chapter {pauline_ch}, Lecture {pauline_lec}"
+                if title_en_clean:
+                    node_title_en += f" — {title_en_clean}"
+                node_title_la = f"Caput {pauline_ch}, Lectio {pauline_lec}"
+                if title_la_clean:
+                    node_title_la += f" — {title_la_clean}"
+            elif pauline_ch is not None and pauline_ch == 0:
+                node_title_en = "Prologue"
+                node_title_la = "Prologus"
+            elif isinstance(num, str) and num.startswith("prooemium"):
                 node_title_en = "Prooemium"
                 node_title_la = "Prooemium"
             elif isinstance(num, str) and num.startswith("proem"):
@@ -1149,6 +1188,16 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
     }
     _write_manifest(book_dir, manifest)
     return {"book": spec.book_id, "chapters": total}
+
+
+def _pauline_chapter_md(chap: int, lec: int, title: str, body: str, lang: str) -> str:
+    if lang == "en-US":
+        heading = f"# Chapter {chap}, Lecture {lec}"
+    else:
+        heading = f"# Caput {chap}, Lectio {lec}"
+    if title:
+        heading += f" — {title}"
+    return f"{heading}\n\n{body.strip()}\n"
 
 
 def _linear_chapter_md(num, title: str, body: str, label: str) -> str:
@@ -2221,8 +2270,8 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
                 "SSColossians.htm", "SS1Thes.htm",
                 "SSHebrews.htm", "SSPhilemon.htm",
             ],
-            chapter_label_en="Chapter",
-            chapter_label_la="Caput",
+            chapter_label_en="Lecture",
+            chapter_label_la="Lectio",
             group_titles_en=[
                 "1 Corinthians", "1 Corinthians 11 (Reportatio)", "2 Corinthians",
                 "Galatians",
@@ -2243,6 +2292,7 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
                 "In Colossenses", "In I Thessalonicenses",
                 "In Hebraeos", "In Philemonem",
             ],
+            pauline_anchors=True,
         ),
         "biblical/super-paulum",
     ),

@@ -1,0 +1,69 @@
+{
+  "id": "aquinas-super-titum",
+  "name": {
+    "en-US": "Commentary on Titus",
+    "la": "Super Epistolam ad Titum"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the Epistle to Titus.",
+    "la": "Expositio Thomae in Epistolam ad Titum."
+  },
+  "composed": "1265–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Titum",
+      "description": "English translation by Fabian R. Larcher, O.P., revised by The Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Titum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "titus",
+      "title": {
+        "en-US": "Titus",
+        "la": "Titus"
+      }
+    },
+    {
+      "id": "titus-pr",
+      "title": {
+        "en-US": "Pr. (Luke 12:39) - Luke 12:39",
+        "la": "Pr. (Luke 12:39) - Luke 12:39"
+      }
+    },
+    {
+      "id": "titus-c1",
+      "title": {
+        "en-US": "C. 1 - Ministers Against the Reprobate",
+        "la": "C. 1 - Ministers Against the Reprobate"
+      }
+    },
+    {
+      "id": "titus-c2",
+      "title": {
+        "en-US": "C. 2 - Christian Life",
+        "la": "C. 2 - Christian Life"
+      }
+    },
+    {
+      "id": "titus-c3",
+      "title": {
+        "en-US": "C. 3 - Justified by Grace",
+        "la": "C. 3 - Justified by Grace"
+      }
+    }
+  ]
+}

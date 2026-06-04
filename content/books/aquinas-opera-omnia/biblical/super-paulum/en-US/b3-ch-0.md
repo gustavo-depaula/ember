@@ -1,4 +1,4 @@
-# Chapter 0
+# Lecture 0
 
 **PROLOGUE**
 

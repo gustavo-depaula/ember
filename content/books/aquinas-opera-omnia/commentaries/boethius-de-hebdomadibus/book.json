@@ -1,0 +1,83 @@
+{
+  "id": "aquinas-boethius-de-hebdomadibus",
+  "name": {
+    "en-US": "Commentary on Boethius's De Hebdomadibus",
+    "la": "Super Boethium De Hebdomadibus"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on Boethius's *De Hebdomadibus* — the brief but influential treatise on how things are good in virtue of their participation in the First Good. A key text for Thomistic metaphysics of participation.",
+    "la": "Expositio Thomae in *De Hebdomadibus* Boethii — tractatum brevem sed influentem de modo quo res bonae sunt per participationem in Primo Bono. Textus clavis metaphysicae participationis Thomisticae."
+  },
+  "composed": "1257–1259",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~De Hebdomadibus",
+      "description": "English translation mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~De Hebdomadibus",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "deheb",
+      "title": {
+        "en-US": "DeHeb",
+        "la": "DeHeb"
+      }
+    },
+    {
+      "id": "deheb",
+      "title": {
+        "en-US": "Prologue",
+        "la": "Prologue"
+      }
+    },
+    {
+      "id": "deheb-l1",
+      "title": {
+        "en-US": "L. 1 - Boethius' Preface",
+        "la": "L. 1 - Boethius' Preface"
+      }
+    },
+    {
+      "id": "deheb-l2",
+      "title": {
+        "en-US": "L. 2 - Commentary on the Rules",
+        "la": "L. 2 - Commentary on the Rules"
+      }
+    },
+    {
+      "id": "deheb-l3",
+      "title": {
+        "en-US": "L. 3 - Commentary on the Problem",
+        "la": "L. 3 - Commentary on the Problem"
+      }
+    },
+    {
+      "id": "deheb-l4",
+      "title": {
+        "en-US": "L. 4 - Commentary on the Solution",
+        "la": "L. 4 - Commentary on the Solution"
+      }
+    },
+    {
+      "id": "deheb-l5",
+      "title": {
+        "en-US": "L. 5 - Commentary on the Objections and Replies",
+        "la": "L. 5 - Commentary on the Objections and Replies"
+      }
+    }
+  ]
+}

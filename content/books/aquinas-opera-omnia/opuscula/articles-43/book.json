@@ -1,0 +1,265 @@
+{
+  "id": "aquinas-letter-43-articles",
+  "name": {
+    "en-US": "Letter to John of Vercelli on the 43 Articles",
+    "la": "Epistola ad Ioannem Vercellensem de 43 Articulis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's response to the Master General of the Dominicans, John of Vercelli, on 43 propositions excerpted from the works of a friar that were under inquiry — Aquinas defends most as orthodox and explains the others.",
+    "la": "Responsum Thomae Magistro Generali Ordinis Praedicatorum Ioanni Vercellensi, ad 43 propositiones ex operibus cuiusdam fratris excerptas — pleraeque a Thoma ut orthodoxae defenduntur."
+  },
+  "composed": 1271,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~43 Articuli",
+      "description": "Translation from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~43 Articuli",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "43articuli",
+      "title": {
+        "en-US": "43Articuli",
+        "la": "43Articuli"
+      }
+    },
+    {
+      "id": "43articuli",
+      "title": {
+        "en-US": "Prologue",
+        "la": "Prologue"
+      }
+    },
+    {
+      "id": "43articuli-a1",
+      "title": {
+        "en-US": "Articulus 1",
+        "la": "Articulus 1"
+      }
+    },
+    {
+      "id": "43articuli-aa23",
+      "title": {
+        "en-US": "Articuli 2-3",
+        "la": "Articuli 2-3"
+      }
+    },
+    {
+      "id": "43articuli-aa45",
+      "title": {
+        "en-US": "Articuli 4-5",
+        "la": "Articuli 4-5"
+      }
+    },
+    {
+      "id": "43articuli-aa67",
+      "title": {
+        "en-US": "Articuli 6-7",
+        "la": "Articuli 6-7"
+      }
+    },
+    {
+      "id": "43articuli-a8",
+      "title": {
+        "en-US": "Articulus 8",
+        "la": "Articulus 8"
+      }
+    },
+    {
+      "id": "43articuli-a9",
+      "title": {
+        "en-US": "Articulus 9",
+        "la": "Articulus 9"
+      }
+    },
+    {
+      "id": "43articuli-a10",
+      "title": {
+        "en-US": "Articulus 10",
+        "la": "Articulus 10"
+      }
+    },
+    {
+      "id": "43articuli-a11",
+      "title": {
+        "en-US": "Articulus 11",
+        "la": "Articulus 11"
+      }
+    },
+    {
+      "id": "43articuli-aa1214",
+      "title": {
+        "en-US": "Articuli 12-14",
+        "la": "Articuli 12-14"
+      }
+    },
+    {
+      "id": "43articuli-a15",
+      "title": {
+        "en-US": "Articulus 15",
+        "la": "Articulus 15"
+      }
+    },
+    {
+      "id": "43articuli-a16",
+      "title": {
+        "en-US": "Articulus 16",
+        "la": "Articulus 16"
+      }
+    },
+    {
+      "id": "43articuli-a17",
+      "title": {
+        "en-US": "Articulus 17",
+        "la": "Articulus 17"
+      }
+    },
+    {
+      "id": "43articuli-a18",
+      "title": {
+        "en-US": "Articulus 18",
+        "la": "Articulus 18"
+      }
+    },
+    {
+      "id": "43articuli-aa1923",
+      "title": {
+        "en-US": "Articul 19-23",
+        "la": "Articul 19-23"
+      }
+    },
+    {
+      "id": "43articuli-aa2425",
+      "title": {
+        "en-US": "Articuli 24-25",
+        "la": "Articuli 24-25"
+      }
+    },
+    {
+      "id": "43articuli-a26",
+      "title": {
+        "en-US": "Articulus 26",
+        "la": "Articulus 26"
+      }
+    },
+    {
+      "id": "43articuli-a27",
+      "title": {
+        "en-US": "Articulus 27",
+        "la": "Articulus 27"
+      }
+    },
+    {
+      "id": "43articuli-a28",
+      "title": {
+        "en-US": "Articulus 28",
+        "la": "Articulus 28"
+      }
+    },
+    {
+      "id": "43articuli-a29",
+      "title": {
+        "en-US": "Articulus 29",
+        "la": "Articulus 29"
+      }
+    },
+    {
+      "id": "43articuli-a30",
+      "title": {
+        "en-US": "Articulus 30",
+        "la": "Articulus 30"
+      }
+    },
+    {
+      "id": "43articuli-a31",
+      "title": {
+        "en-US": "Articulus 31",
+        "la": "Articulus 31"
+      }
+    },
+    {
+      "id": "43articuli-a32",
+      "title": {
+        "en-US": "Articulus 32",
+        "la": "Articulus 32"
+      }
+    },
+    {
+      "id": "43articuli-a33",
+      "title": {
+        "en-US": "Articulus 33",
+        "la": "Articulus 33"
+      }
+    },
+    {
+      "id": "43articuli-aa3435",
+      "title": {
+        "en-US": "Articuli 34-35",
+        "la": "Articuli 34-35"
+      }
+    },
+    {
+      "id": "43articuli-a36",
+      "title": {
+        "en-US": "Articulus 36",
+        "la": "Articulus 36"
+      }
+    },
+    {
+      "id": "43articuli-a37",
+      "title": {
+        "en-US": "Articulus 37",
+        "la": "Articulus 37"
+      }
+    },
+    {
+      "id": "43articuli-a38",
+      "title": {
+        "en-US": "Articulus 38",
+        "la": "Articulus 38"
+      }
+    },
+    {
+      "id": "43articuli-a39",
+      "title": {
+        "en-US": "Articulus 39",
+        "la": "Articulus 39"
+      }
+    },
+    {
+      "id": "43articuli-a40",
+      "title": {
+        "en-US": "Articulus 40",
+        "la": "Articulus 40"
+      }
+    },
+    {
+      "id": "43articuli-a41",
+      "title": {
+        "en-US": "Articulus 41",
+        "la": "Articulus 41"
+      }
+    },
+    {
+      "id": "43articuli-a42",
+      "title": {
+        "en-US": "Articulus 42",
+        "la": "Articulus 42"
+      }
+    }
+  ]
+}

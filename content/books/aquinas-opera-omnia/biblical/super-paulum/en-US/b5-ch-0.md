@@ -1,4 +1,4 @@
-# Chapter 0 — All of these cross-currents were to show up in his biblical exegesis. He was neither an Alexandrian nor an Antiochene, perhaps because he was both. No one has successfully categorized his approach to the Bible. Advocates of allegory claim him as their own and defenders of strictly literal interpretation praise him for asserting the sufficiency of the letter. A noted Oxford historian admires the revolutionary quality of his exegetical principles and a prominent Jesuit theologian finds them simply traditional.
+# Lecture 0 — All of these cross-currents were to show up in his biblical exegesis. He was neither an Alexandrian nor an Antiochene, perhaps because he was both. No one has successfully categorized his approach to the Bible. Advocates of allegory claim him as their own and defenders of strictly literal interpretation praise him for asserting the sufficiency of the letter. A noted Oxford historian admires the revolutionary quality of his exegetical principles and a prominent Jesuit theologian finds them simply traditional.
 
 Chapter and
 

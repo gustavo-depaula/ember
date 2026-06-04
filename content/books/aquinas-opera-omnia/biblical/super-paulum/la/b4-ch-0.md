@@ -1,4 +1,4 @@
-# Caput 0
+# Lectio 0
 
 Prooemium
 

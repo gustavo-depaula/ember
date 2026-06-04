@@ -1,0 +1,69 @@
+{
+  "id": "aquinas-super-2-thessalonicenses",
+  "name": {
+    "en-US": "Commentary on 2 Thessalonians",
+    "la": "Super Epistolam ad Thessalonicenses Secundam"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the Second Epistle to the Thessalonians.",
+    "la": "Expositio Thomae in Epistolam ad Thessalonicenses Secundam."
+  },
+  "composed": "1265–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Thessalonicenses II",
+      "description": "English translation by Fabian R. Larcher, O.P., revised by The Aquinas Institute. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Thessalonicenses II",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "2thess",
+      "title": {
+        "en-US": "2Thess",
+        "la": "2Thess"
+      }
+    },
+    {
+      "id": "2thess-pr",
+      "title": {
+        "en-US": "Pr. (Gen 49:1) - Genesis 49:1",
+        "la": "Pr. (Gen 49:1) - Genesis 49:1"
+      }
+    },
+    {
+      "id": "2thess-c1",
+      "title": {
+        "en-US": "C. 1 - Hope for the Final Judgment",
+        "la": "C. 1 - Hope for the Final Judgment"
+      }
+    },
+    {
+      "id": "2thess-c2",
+      "title": {
+        "en-US": "C. 2 - The End Times",
+        "la": "C. 2 - The End Times"
+      }
+    },
+    {
+      "id": "2thess-c3",
+      "title": {
+        "en-US": "C. 3 - Exhortations",
+        "la": "C. 3 - Exhortations"
+      }
+    }
+  ]
+}

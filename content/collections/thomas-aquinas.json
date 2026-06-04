@@ -49,6 +49,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/prayers-st-thomas-aquinas"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-devotional-prayers"
 				}
 			]
 		},
@@ -85,6 +89,10 @@
 					"seeAlso": [
 						"collection/eucharistic"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-hymns"
 				}
 			]
 		},
@@ -172,17 +180,8 @@
 					"ref": "book/aquinas-de-unione-verbi"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Disputed Questions on Evil (*De Malo*, via aquinas.cc / isidore.co)",
-						"pt-BR": "Questões Disputadas sobre o Mal (*De Malo*, via aquinas.cc / isidore.co)"
-					},
-					"notes": {
-						"en-US": "Sixteen disputed questions on the nature of evil, original sin, and the capital vices. Latin at corpusthomisticum.org / aquinas.cc; English at isidore.co (and Regan/Davies 2003, copyrighted). Not in Geremia local mirror; needs aquinas.cc scraping.",
-						"pt-BR": "Dezesseis questões disputadas sobre a natureza do mal, o pecado original e os vícios capitais. Latim em corpusthomisticum.org / aquinas.cc; inglês em isidore.co. Não está no espelho Geremia local; precisa de scraping em aquinas.cc."
-					},
-					"proposedKind": "book",
-					"priority": "high"
+					"kind": "item",
+					"ref": "book/aquinas-de-malo"
 				},
 				{
 					"kind": "item",
@@ -248,41 +247,32 @@
 					"ref": "book/aquinas-super-threnos"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Commentary on Isaiah (via aquinas.cc / Latin-only sources)",
-						"pt-BR": "Comentário a Isaías (via aquinas.cc / fontes só em latim)"
-					},
-					"notes": {
-						"en-US": "An early biblical commentary. Latin at corpusthomisticum.org / aquinas.cc (Aquinas Institute). Geremia has no local file. Needs an aquinas.cc scraper.",
-						"pt-BR": "Comentário bíblico inicial. Latim em corpusthomisticum.org / aquinas.cc. Geremia não tem arquivo local. Precisa de um scraper para aquinas.cc."
-					},
-					"proposedKind": "book"
+					"kind": "item",
+					"ref": "book/aquinas-super-isaiam"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Commentary on Jeremiah (via aquinas.cc)",
-						"pt-BR": "Comentário a Jeremias (via aquinas.cc)"
-					},
-					"notes": {
-						"en-US": "Latin at corpusthomisticum.org / aquinas.cc. Geremia mirrors only Lamentations locally (see *Super Threnos* above).",
-						"pt-BR": "Latim em corpusthomisticum.org / aquinas.cc. Geremia espelha localmente apenas Lamentações (ver *Super Threnos* acima)."
-					},
-					"proposedKind": "book"
+					"kind": "item",
+					"ref": "book/aquinas-super-ieremiam"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Commentary on Romans, 2 Thessalonians, 1–2 Timothy, Titus (via aquinas.cc)",
-						"pt-BR": "Comentário aos Romanos, 2 Tessalonicenses, 1–2 Timóteo, Tito (via aquinas.cc)"
-					},
-					"notes": {
-						"en-US": "Available bilingually at aquinas.cc (Aquinas Institute, Shapcote-derived English): https://aquinas.cc/la/en/~Rom, ~2Thess, ~1Tim, ~2Tim, ~Titus. Geremia mirror does not have local files; needs a scraper from aquinas.cc's JS-rendered pages. *Super Paulum* above covers the 9 epistles that Geremia mirrors locally (1–2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians, Hebrews, Philemon).",
-						"pt-BR": "Disponível bilíngue em aquinas.cc (Aquinas Institute, inglês derivado de Shapcote): https://aquinas.cc/la/en/~Rom, ~2Thess, ~1Tim, ~2Tim, ~Titus. O espelho Geremia não tem arquivos locais; precisa de um scraper para as páginas JS de aquinas.cc. O *Super Paulum* acima cobre as 9 epístolas que o Geremia espelha localmente."
-					},
-					"proposedKind": "book",
-					"priority": "high"
+					"kind": "item",
+					"ref": "book/aquinas-super-romanos"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-2-thessalonicenses"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-1-timotheum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-2-timotheum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-titum"
 				}
 			]
 		},
@@ -302,6 +292,10 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-comm-ethics"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-tabula-ethicorum"
 				},
 				{
 					"kind": "item",
@@ -353,34 +347,23 @@
 				},
 				{
 					"kind": "item",
+					"ref": "book/aquinas-boethius-de-hebdomadibus"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-liber-de-causis"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-divinis-nominibus"
+				},
+				{
+					"kind": "item",
 					"ref": "book/aquinas-super-sententias"
 				},
 				{
-					"kind": "todo",
-					"title": {"en-US": "Commentary on Boethius's *De Hebdomadibus* (via aquinas.cc)", "pt-BR": "Comentário ao *De Hebdomadibus* de Boécio (via aquinas.cc)"},
-					"notes": {
-						"en-US": "Latin at corpusthomisticum.org; bilingual at aquinas.cc. Not in Geremia local mirror.",
-						"pt-BR": "Latim em corpusthomisticum.org; bilíngue em aquinas.cc. Não está no espelho Geremia local."
-					},
-					"proposedKind": "book"
-				},
-				{
-					"kind": "todo",
-					"title": {"en-US": "Commentary on the *Liber de Causis* (via aquinas.cc / isidore.co)", "pt-BR": "Comentário ao *Liber de Causis* (via aquinas.cc / isidore.co)"},
-					"notes": {
-						"en-US": "Latin at corpusthomisticum.org; English at isidore.co; bilingual at aquinas.cc. Not in Geremia local mirror.",
-						"pt-BR": "Latim em corpusthomisticum.org; inglês em isidore.co; bilíngue em aquinas.cc. Não está no espelho Geremia local."
-					},
-					"proposedKind": "book"
-				},
-				{
-					"kind": "todo",
-					"title": {"en-US": "Commentary on Dionysius's *De Divinis Nominibus* (via aquinas.cc / isidore.co)", "pt-BR": "Comentário ao *De Divinis Nominibus* do Pseudo-Dionísio (via aquinas.cc / isidore.co)"},
-					"notes": {
-						"en-US": "Latin at corpusthomisticum.org; English at isidore.co; bilingual at aquinas.cc. Not in Geremia local mirror.",
-						"pt-BR": "Latim em corpusthomisticum.org; inglês em isidore.co; bilíngue em aquinas.cc. Não está no espelho Geremia local."
-					},
-					"proposedKind": "book"
+					"kind": "item",
+					"ref": "book/aquinas-super-sententias-cc"
 				}
 			]
 		},
@@ -467,6 +450,14 @@
 				},
 				{
 					"kind": "item",
+					"ref": "book/aquinas-rigans-montes"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-hic-est-liber"
+				},
+				{
+					"kind": "item",
 					"ref": "book/aquinas-de-emptione"
 				},
 				{
@@ -480,6 +471,26 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-to-john-vercelli"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-letter-6-articles"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-letter-30-articles"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-letter-36-articles"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-letter-43-articles"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-secreto"
 				}
 			]
 		},
@@ -499,6 +510,10 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-sermons"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-sermon-immensa"
 				}
 			]
 		},
@@ -518,6 +533,14 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-office-corpus-christi"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-office-corpus-christi-sapientia"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-sermon-immensa"
 				}
 			]
 		},

@@ -1,0 +1,5 @@
+# Article 4
+
+Hoc quidem et mihi videtur: praecipue si ordo virtutum dicatur medius ordo secundae hierarchiae, ut Dionysius vult. Hic enim ordo primum locum tenet inter exequentes exteriora ministeria: unde et Dionysius dicit VIII cap. caelestis hierarchiae quod *nomen virtutum ostendit divinam quandam et inconcussam fortitudinem ad omnes deiformes operationes*. Nihil autem in exterioribus ministeriis majus esse videtur quam dispositio universalium causarum: unde maxime videtur administratio caelestium corporum ad ordinem virtutum pertinere. Unde Origenes exponens illud Matth. XXIV, 29 *virtutes caelorum commovebuntur*, dicit quod *conveniens est caelorum rationabiles virtutes pati stuporem, remotas scilicet a primis functionibus suis*. Hoc tamen omnino asserendum non videtur.
+
+Articulus 5

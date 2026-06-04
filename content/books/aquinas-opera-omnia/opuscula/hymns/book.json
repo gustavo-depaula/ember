@@ -1,0 +1,90 @@
+{
+  "id": "aquinas-hymns",
+  "name": {
+    "en-US": "Hymns and Songs",
+    "la": "Hymni et Cantica"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "The Eucharistic hymns and sequences Aquinas composed for the Office and Mass of Corpus Christi (1264) at the request of Pope Urban IV — *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum Prodiens*, *Adoro Te Devote*, and the sequence *Lauda Sion Salvatorem*.",
+    "la": "Hymni et sequentiae Eucharisticae Thomae pro Officio et Missa Corporis Christi (1264), Urbano IV petente, compositi — *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum Prodiens*, *Adoro Te Devote*, et sequentia *Lauda Sion Salvatorem*."
+  },
+  "composed": "1264",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Hymni et Cantica",
+      "description": "Translations from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Hymni et Cantica",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "hymns-01",
+      "title": {
+        "en-US": "Hymns",
+        "la": "Hymns"
+      }
+    },
+    {
+      "id": "hymns-s1",
+      "title": {
+        "en-US": "Hymns.S1",
+        "la": "Hymns.S1"
+      }
+    },
+    {
+      "id": "hymns-sing-my-tongue",
+      "title": {
+        "en-US": "Sing, My Tongue",
+        "la": "Sing, My Tongue"
+      }
+    },
+    {
+      "id": "hymns-let-this-our-solemn-feast",
+      "title": {
+        "en-US": "Let This Our Solemn Feast",
+        "la": "Let This Our Solemn Feast"
+      }
+    },
+    {
+      "id": "hymns-the-heavenly-word-proceeding-forth",
+      "title": {
+        "en-US": "The Heavenly Word Proceeding Forth",
+        "la": "The Heavenly Word Proceeding Forth"
+      }
+    },
+    {
+      "id": "hymns-praise-o-zion",
+      "title": {
+        "en-US": "Praise, O Zion",
+        "la": "Praise, O Zion"
+      }
+    },
+    {
+      "id": "hymns-godhead-here-in-hiding",
+      "title": {
+        "en-US": "Godhead Here in Hiding",
+        "la": "Godhead Here in Hiding"
+      }
+    },
+    {
+      "id": "hymns-each-man-has-virtue",
+      "title": {
+        "en-US": "Each Man has Virtue",
+        "la": "Each Man has Virtue"
+      }
+    }
+  ]
+}
