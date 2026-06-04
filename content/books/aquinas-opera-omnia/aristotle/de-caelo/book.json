@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-comm-de-caelo",
+  "name": {
+    "en-US": "Commentary on the De Caelo et Mundo",
+    "la": "Sententia super De Caelo et Mundo"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on Aristotle's *De Caelo et Mundo* — the cosmological treatise on the heavens, the elements, and motion. Unfinished — Aquinas covered Book I and part of Book III before his death.",
+    "la": "Expositio *De Caelo et Mundo* Aristotelis — tractatus cosmologicus de caelis, de elementis, de motu. Opus inchoatum — Librum I et partem Libri III antequam moreretur composuit."
+  },
+  "composed": "1272–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Fabian Larcher OP and Pierre H. Conway OP (typescript, 1963–64). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    }
+  ]
+}

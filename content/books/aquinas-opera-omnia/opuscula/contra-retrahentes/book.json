@@ -1,0 +1,160 @@
+{
+  "id": "aquinas-contra-retrahentes",
+  "name": {
+    "en-US": "Against Those Who Discourage Entry into Religious Life",
+    "la": "Contra Retrahentes ab Ingressu Religionis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short polemic, written near the end of Aquinas's life, against those who would dissuade young men from entering the religious orders — chiefly the Dominicans — against parental or worldly objections.",
+    "la": "Polemica brevis, fere in fine vitae Thomae composita, contra eos qui adolescentes a religionis ingressu — praesertim Dominicanorum — dissuadere conantur."
+  },
+  "composed": "1271",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by John Procter, O.P. (1902). Public domain. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Capitulum 2"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Capitulum 2"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1 — Object of the Author in Undertaking this Work",
+        "la": "Capitulum 1 — Object of the Author in Undertaking this Work"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2 — Arguments Used by Those Who Maintain That None Should be Admitted to the Religious Life Who Are Not Practised in the Exercise of the Commandments",
+        "la": "Capitulum 2 — Arguments Used by Those Who Maintain That None Should be Admitted to the Religious Life Who Are Not Practised in the Exercise of the Commandments"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3 — The Foregoing Arguments Do Not Hold Good in the Case of Children",
+        "la": "Capitulum 3 — The Foregoing Arguments Do Not Hold Good in the Case of Children"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4 — The Opinion Held by Vigilantius and His Followers Does Not Apply to Recent Converts to the Faith",
+        "la": "Capitulum 4 — The Opinion Held by Vigilantius and His Followers Does Not Apply to Recent Converts to the Faith"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5 — This Argument is Equally Fallacious As Applied to Penitent Sinners",
+        "la": "Capitulum 5 — This Argument is Equally Fallacious As Applied to Penitent Sinners"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6 — The Fundamental Error of These Opinions Exposed",
+        "la": "Capitulum 6 — The Fundamental Error of These Opinions Exposed"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapter 7 — The Arguments of Our Opponents Are Conclusively Refuted",
+        "la": "Capitulum 7 — The Arguments of Our Opponents Are Conclusively Refuted"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapter 8 — Arguments Used to Prove That Before Entering Religious Life A Man Ought to Deliberate for A Long Time, and Take Counsel of Many",
+        "la": "Capitulum 8 — Arguments Used to Prove That Before Entering Religious Life A Man Ought to Deliberate for A Long Time, and Take Counsel of Many"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Chapter 9 — Answers to the Foregoing Arguments",
+        "la": "Capitulum 9 — Answers to the Foregoing Arguments"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Chapter 10 — Answer to the Objections Raised Against the Foregoing Arguments",
+        "la": "Capitulum 10 — Answer to the Objections Raised Against the Foregoing Arguments"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Chapter 11 — Arguments Used by Those Who Maintain That Men Should Not Bind Themselves by Vow to Embrace the Religious Life",
+        "la": "Capitulum 11 — Arguments Used by Those Who Maintain That Men Should Not Bind Themselves by Vow to Embrace the Religious Life"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Chapter 12 — Refutation of the Error Contained in the Last Chapter, — Together with An Exposition of the Truth That Good Works, Done Under Vow, — Are More Meritorious Than Those Performed Without Any Such Obligation",
+        "la": "Capitulum 12 — Refutation of the Error Contained in the Last Chapter, — Together with An Exposition of the Truth That Good Works, Done Under Vow, — Are More Meritorious Than Those Performed Without Any Such Obligation"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Chapter 13 — Refutation of the Arguments Adduced in the Last Chapter",
+        "la": "Capitulum 13 — Refutation of the Arguments Adduced in the Last Chapter"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Chapter 14 — Arguments Against the Perfection of Religious Whose Possessions Are Not in Common",
+        "la": "Capitulum 14 — Arguments Against the Perfection of Religious Whose Possessions Are Not in Common"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Chapter 15 — Refutation of the Errors Quoted in the Last Chapter",
+        "la": "Capitulum 15 — Refutation of the Errors Quoted in the Last Chapter"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Chapter 16 — An Answer to the Arguments Which Are Brought Forward Against the Propositions Contained in the Preceding Chapter",
+        "la": "Capitulum 16 — An Answer to the Arguments Which Are Brought Forward Against the Propositions Contained in the Preceding Chapter"
+      }
+    }
+  ]
+}

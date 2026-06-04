@@ -1,0 +1,314 @@
+{
+  "id": "aquinas-super-iob",
+  "name": {
+    "en-US": "Commentary on the Book of Job",
+    "la": "Expositio super Iob ad litteram"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's literal commentary on Job, read against the providence question. Composed during his time at the papal court of Orvieto.",
+    "la": "Expositio Thomae ad litteram super Iob, quaestionem providentiae considerans. Composita Urbeveteri, in curia papali."
+  },
+  "composed": "1261–1265",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Brian Mulladay, ed. by The Aquinas Institute. Translation status: may be under copyright; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch-0",
+      "title": {
+        "en-US": "Chapter 0",
+        "la": "Caput 0"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Chapter 11",
+        "la": "Caput 11"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "Chapter 61",
+        "la": "Caput 61"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "Chapter 71",
+        "la": "Caput 71"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "Chapter 81",
+        "la": "Caput 81"
+      }
+    },
+    {
+      "id": "ch091",
+      "title": {
+        "en-US": "Chapter 91",
+        "la": "Caput 91"
+      }
+    },
+    {
+      "id": "ch101",
+      "title": {
+        "en-US": "Chapter 101",
+        "la": "Caput 101"
+      }
+    },
+    {
+      "id": "ch111",
+      "title": {
+        "en-US": "Chapter 111",
+        "la": "Caput 111"
+      }
+    },
+    {
+      "id": "ch121",
+      "title": {
+        "en-US": "Chapter 121",
+        "la": "Caput 121"
+      }
+    },
+    {
+      "id": "ch131",
+      "title": {
+        "en-US": "Chapter 131",
+        "la": "Caput 131"
+      }
+    },
+    {
+      "id": "ch141",
+      "title": {
+        "en-US": "Chapter 141",
+        "la": "Caput 141"
+      }
+    },
+    {
+      "id": "ch151",
+      "title": {
+        "en-US": "Chapter 151",
+        "la": "Caput 151"
+      }
+    },
+    {
+      "id": "ch161",
+      "title": {
+        "en-US": "Chapter 161",
+        "la": "Caput 161"
+      }
+    },
+    {
+      "id": "ch171",
+      "title": {
+        "en-US": "Chapter 171",
+        "la": "Caput 171"
+      }
+    },
+    {
+      "id": "ch181",
+      "title": {
+        "en-US": "Chapter 181",
+        "la": "Caput 181"
+      }
+    },
+    {
+      "id": "ch191",
+      "title": {
+        "en-US": "Chapter 191",
+        "la": "Caput 191"
+      }
+    },
+    {
+      "id": "ch201",
+      "title": {
+        "en-US": "Chapter 201",
+        "la": "Caput 201"
+      }
+    },
+    {
+      "id": "ch211",
+      "title": {
+        "en-US": "Chapter 211",
+        "la": "Caput 211"
+      }
+    },
+    {
+      "id": "ch221",
+      "title": {
+        "en-US": "Chapter 221",
+        "la": "Caput 221"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Chapter 23",
+        "la": "Caput 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Chapter 24",
+        "la": "Caput 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Chapter 25",
+        "la": "Caput 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Chapter 26",
+        "la": "Caput 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Chapter 27",
+        "la": "Caput 27"
+      }
+    },
+    {
+      "id": "ch281",
+      "title": {
+        "en-US": "Chapter 281",
+        "la": "Caput 281"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Chapter 29",
+        "la": "Caput 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Chapter 30",
+        "la": "Caput 30"
+      }
+    },
+    {
+      "id": "ch311",
+      "title": {
+        "en-US": "Chapter 311",
+        "la": "Caput 311"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Chapter 32",
+        "la": "Caput 32"
+      }
+    },
+    {
+      "id": "ch331",
+      "title": {
+        "en-US": "Chapter 331",
+        "la": "Caput 331"
+      }
+    },
+    {
+      "id": "ch341",
+      "title": {
+        "en-US": "Chapter 341",
+        "la": "Caput 341"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Chapter 35",
+        "la": "Caput 35"
+      }
+    },
+    {
+      "id": "ch361",
+      "title": {
+        "en-US": "Chapter 361",
+        "la": "Caput 361"
+      }
+    },
+    {
+      "id": "ch371",
+      "title": {
+        "en-US": "Chapter 371",
+        "la": "Caput 371"
+      }
+    },
+    {
+      "id": "ch381",
+      "title": {
+        "en-US": "Chapter 381",
+        "la": "Caput 381"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Chapter 39",
+        "la": "Caput 39"
+      }
+    },
+    {
+      "id": "ch401",
+      "title": {
+        "en-US": "Chapter 401",
+        "la": "Caput 401"
+      }
+    },
+    {
+      "id": "ch411",
+      "title": {
+        "en-US": "Chapter 411",
+        "la": "Caput 411"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Chapter 42",
+        "la": "Caput 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Chapter 43",
+        "la": "Caput 43"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "aquinas-to-duchess-flanders",
+  "name": {
+    "en-US": "Letter to the Duchess of Brabant (on the Government of the Jews)",
+    "la": "Epistola ad Ducissam Brabantiae (de Regimine Iudaeorum)"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short letter of consultation from Aquinas to Duchess Aleydis of Brabant on the moral and political questions surrounding the government of Jewish subjects in a Christian principality.",
+    "la": "Epistola brevis consultationis Thomae ad Aleydem ducissam Brabantiae de quaestionibus moralibus et politicis circa regimen subditorum Iudaeorum in principatu Christiano."
+  },
+  "composed": "c. 1271",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch-0",
+      "title": {
+        "en-US": "Chapter 0 — Introduction",
+        "la": "Caput 0 — Introduction"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1 — First Response",
+        "la": "Caput 1 — First Response"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2 — Second Response",
+        "la": "Caput 2 — Second Response"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3 — Third Response",
+        "la": "Caput 3 — Third Response"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4 — Fourth response",
+        "la": "Caput 4 — Fourth response"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5 — Fifth response",
+        "la": "Caput 5 — Fifth response"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6 — Sixth response",
+        "la": "Caput 6 — Sixth response"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapter 7 — Seventh response",
+        "la": "Caput 7 — Seventh response"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapter 8 — Eighth response",
+        "la": "Caput 8 — Eighth response"
+      }
+    }
+  ]
+}

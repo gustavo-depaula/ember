@@ -1,0 +1,386 @@
+{
+  "id": "aquinas-super-iohannem",
+  "name": {
+    "en-US": "Commentary on the Gospel of John",
+    "la": "Super Evangelium S. Ioannis Lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on John — widely considered his finest Scripture commentary, the fruit of his second Paris regency. 21 chapters plus an appendix.",
+    "la": "Expositio Thomae in Ioannem — a multis fructus optimus expositionum Sacrae Scripturae aestimata, opus regentiae secundae Parisiensis. 21 capita cum appendice."
+  },
+  "composed": "1270–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Fabian R. Larcher, O.P., and James A. Weisheipl, O.P. (Magi Books, 1980; revised Aquinas Institute, 2010). Translation status: may be under copyright in the United States until 2075; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "book-1",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Caput 1"
+      },
+      "children": [
+        {
+          "id": "b1-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Caput 2"
+      },
+      "children": [
+        {
+          "id": "b2-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": {
+        "en-US": "Chapter 3",
+        "la": "Caput 3"
+      },
+      "children": [
+        {
+          "id": "b3-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-4",
+      "title": {
+        "en-US": "Chapter 4",
+        "la": "Caput 4"
+      },
+      "children": [
+        {
+          "id": "b4-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-5",
+      "title": {
+        "en-US": "Chapter 5",
+        "la": "Caput 5"
+      },
+      "children": [
+        {
+          "id": "b5-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-6",
+      "title": {
+        "en-US": "Chapter 6",
+        "la": "Caput 6"
+      },
+      "children": [
+        {
+          "id": "b6-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-7",
+      "title": {
+        "en-US": "Chapter 7",
+        "la": "Caput 7"
+      },
+      "children": [
+        {
+          "id": "b7-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-8",
+      "title": {
+        "en-US": "Chapter 8",
+        "la": "Caput 8"
+      },
+      "children": [
+        {
+          "id": "b8-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-9",
+      "title": {
+        "en-US": "Chapter 9",
+        "la": "Caput 9"
+      },
+      "children": [
+        {
+          "id": "b9-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-10",
+      "title": {
+        "en-US": "Chapter 10",
+        "la": "Caput 10"
+      },
+      "children": [
+        {
+          "id": "b10-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-11",
+      "title": {
+        "en-US": "Chapter 11",
+        "la": "Caput 11"
+      },
+      "children": [
+        {
+          "id": "b11-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-12",
+      "title": {
+        "en-US": "Chapter 12",
+        "la": "Caput 12"
+      },
+      "children": [
+        {
+          "id": "b12-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-13",
+      "title": {
+        "en-US": "Chapter 13",
+        "la": "Caput 13"
+      },
+      "children": [
+        {
+          "id": "b13-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-14",
+      "title": {
+        "en-US": "Chapter 14",
+        "la": "Caput 14"
+      },
+      "children": [
+        {
+          "id": "b14-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-15",
+      "title": {
+        "en-US": "Chapter 15",
+        "la": "Caput 15"
+      },
+      "children": [
+        {
+          "id": "b15-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-16",
+      "title": {
+        "en-US": "Chapter 16",
+        "la": "Caput 16"
+      },
+      "children": [
+        {
+          "id": "b16-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-17",
+      "title": {
+        "en-US": "Chapter 17",
+        "la": "Caput 17"
+      },
+      "children": [
+        {
+          "id": "b17-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-18",
+      "title": {
+        "en-US": "Chapter 18",
+        "la": "Caput 18"
+      },
+      "children": [
+        {
+          "id": "b18-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-19",
+      "title": {
+        "en-US": "Chapter 19",
+        "la": "Caput 19"
+      },
+      "children": [
+        {
+          "id": "b19-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-20",
+      "title": {
+        "en-US": "Chapter 20",
+        "la": "Caput 20"
+      },
+      "children": [
+        {
+          "id": "b20-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-21",
+      "title": {
+        "en-US": "Chapter 21",
+        "la": "Caput 21"
+      },
+      "children": [
+        {
+          "id": "b21-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-22",
+      "title": {
+        "en-US": "Appendix",
+        "la": "Appendix"
+      },
+      "children": [
+        {
+          "id": "b22-ch001",
+          "title": {
+            "en-US": "Chapter 1",
+            "la": "Caput 1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "aquinas-de-emptione",
+  "name": {
+    "en-US": "On Buying and Selling on Credit (to Brother James of Viterbo)",
+    "la": "De Emptione et Venditione ad Tempus"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short reply on the moral question of credit sales and the just price.",
+    "la": "Responsum breve de quaestione morali venditionum ad tempus et de pretio iusto."
+  },
+  "composed": "c. 1262",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch-prooemium",
+      "title": {
+        "en-US": "Prooemium",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Caput 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Caput 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3",
+        "la": "Caput 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4",
+        "la": "Caput 4"
+      }
+    }
+  ]
+}

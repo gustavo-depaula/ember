@@ -1,0 +1,2059 @@
+{
+  "id": "aquinas-de-veritate",
+  "name": {
+    "en-US": "Disputed Questions on Truth",
+    "la": "Quaestiones Disputatae de Veritate"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Twenty-nine disputed questions held at Paris during Aquinas's first regency — on truth, knowledge, providence, grace, conscience, and the relations between intellect and will. The longest single set of *quaestiones disputatae* he composed.",
+    "la": "Viginti novem quaestiones disputatae apud Parisios in prima magisterii sui regentia — de veritate, scientia, providentia, gratia, conscientia, et intellectus et voluntatis relatione."
+  },
+  "composed": "1256–1259",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Robert W. Mulligan, S.J. (vol. 1, Q. 1–9), James V. McGlynn, S.J. (vol. 2, Q. 10–20), and Robert W. Schmidt, S.J. (vol. 3, Q. 21–29). Henry Regnery Company, Chicago, 1952–1954. Translation status: may be under copyright in the United States until 2049; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "en-US": "Question 1 — Question One: Truth",
+        "la": "Quaestio 1"
+      },
+      "children": [
+        {
+          "id": "q01-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q01-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q01-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q01-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q01-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q01-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q01-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q01-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q01-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q01-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q01-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q01-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "title": {
+        "en-US": "Question 2 — Question Two: God’s Knowledge",
+        "la": "Quaestio 2"
+      },
+      "children": [
+        {
+          "id": "q02-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q02-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q02-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q02-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q02-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q02-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q02-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q02-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q02-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q02-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q02-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q02-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q02-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        },
+        {
+          "id": "q02-a14",
+          "title": {
+            "en-US": "Article 14",
+            "la": "Articulus 14"
+          }
+        },
+        {
+          "id": "q02-a15",
+          "title": {
+            "en-US": "Article 15",
+            "la": "Articulus 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "title": {
+        "en-US": "Question 3 — Question Three: Ideas",
+        "la": "Quaestio 3"
+      },
+      "children": [
+        {
+          "id": "q03-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q03-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q03-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q03-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q03-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q03-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q03-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q03-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "title": {
+        "en-US": "Question 4 — Question Four: The Divine Word",
+        "la": "Quaestio 4"
+      },
+      "children": [
+        {
+          "id": "q04-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q04-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q04-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q04-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q04-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q04-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q04-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q04-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "title": {
+        "en-US": "Question 5 — Question Five: Providence",
+        "la": "Quaestio 5"
+      },
+      "children": [
+        {
+          "id": "q05-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q05-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q05-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q05-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q05-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q05-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q05-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q05-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q05-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q05-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "title": {
+        "en-US": "Question 6 — Question Six: Predestination",
+        "la": "Quaestio 6"
+      },
+      "children": [
+        {
+          "id": "q06-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q06-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q06-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q06-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q06-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q06-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "title": {
+        "en-US": "Question 7 — Question Seven: The Book of Life",
+        "la": "Quaestio 7"
+      },
+      "children": [
+        {
+          "id": "q07-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q07-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q07-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q07-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q07-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q07-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q07-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q07-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "title": {
+        "en-US": "Question 8 — Question Eight: The Knowledge of Angels",
+        "la": "Quaestio 8"
+      },
+      "children": [
+        {
+          "id": "q08-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q08-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q08-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q08-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q08-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q08-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q08-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q08-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q08-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q08-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q08-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q08-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q08-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        },
+        {
+          "id": "q08-a14",
+          "title": {
+            "en-US": "Article 14",
+            "la": "Articulus 14"
+          }
+        },
+        {
+          "id": "q08-a15",
+          "title": {
+            "en-US": "Article 15",
+            "la": "Articulus 15"
+          }
+        },
+        {
+          "id": "q08-a16",
+          "title": {
+            "en-US": "Article 16",
+            "la": "Articulus 16"
+          }
+        },
+        {
+          "id": "q08-a17",
+          "title": {
+            "en-US": "Article 17",
+            "la": "Articulus 17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "title": {
+        "en-US": "Question 9 — Question Nine: The Communication of Angelic Knowledge",
+        "la": "Quaestio 9"
+      },
+      "children": [
+        {
+          "id": "q09-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q09-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q09-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q09-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q09-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q09-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q09-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": {
+        "en-US": "Question 10 — Question Ten: The Mind",
+        "la": "Quaestio 10"
+      },
+      "children": [
+        {
+          "id": "q10-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q10-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q10-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q10-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q10-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q10-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q10-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q10-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q10-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q10-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q10-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q10-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q10-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "title": {
+        "en-US": "Question 11 — Question Eleven: The Teacher",
+        "la": "Quaestio 11"
+      },
+      "children": [
+        {
+          "id": "q11-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q11-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q11-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q11-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "title": {
+        "en-US": "Question 12 — Question Twelve: Prophecy",
+        "la": "Quaestio 12"
+      },
+      "children": [
+        {
+          "id": "q12-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q12-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q12-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q12-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q12-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q12-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q12-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q12-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q12-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q12-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q12-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q12-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q12-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        },
+        {
+          "id": "q12-a14",
+          "title": {
+            "en-US": "Article 14",
+            "la": "Articulus 14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "title": {
+        "en-US": "Question 13 — Question Thirteen: Rapture",
+        "la": "Quaestio 13"
+      },
+      "children": [
+        {
+          "id": "q13-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q13-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q13-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q13-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q13-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "title": {
+        "en-US": "Question 14 — Question Fourteen: Faith",
+        "la": "Quaestio 14"
+      },
+      "children": [
+        {
+          "id": "q14-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q14-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q14-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q14-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q14-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q14-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q14-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q14-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q14-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q14-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q14-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q14-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "title": {
+        "en-US": "Question 15 — Question Fifteen: Higher and Lower Reason",
+        "la": "Quaestio 15"
+      },
+      "children": [
+        {
+          "id": "q15-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q15-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q15-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q15-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "title": {
+        "en-US": "Question 16 — Question Sixteen: Synderesis",
+        "la": "Quaestio 16"
+      },
+      "children": [
+        {
+          "id": "q16-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q16-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q16-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "title": {
+        "en-US": "Question 17 — Question Seventeen: Conscience",
+        "la": "Quaestio 17"
+      },
+      "children": [
+        {
+          "id": "q17-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q17-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q17-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q17-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q17-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "title": {
+        "en-US": "Question 18 — Question Eighteen: The Knowledge of the First Man in the State of Innocence",
+        "la": "Quaestio 18"
+      },
+      "children": [
+        {
+          "id": "q18-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q18-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q18-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q18-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q18-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q18-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q18-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q18-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "title": {
+        "en-US": "Question 19 — Question Nineteen: Knowledge of the Soul after Death",
+        "la": "Quaestio 19"
+      },
+      "children": [
+        {
+          "id": "q19-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q19-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "title": {
+        "en-US": "Question 20 — Question Twenty: The Knowledge of Christ",
+        "la": "Quaestio 20"
+      },
+      "children": [
+        {
+          "id": "q20-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q20-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q20-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q20-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q20-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q20-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "title": {
+        "en-US": "Question 21 — Question Twenty-One: Good",
+        "la": "Quaestio 21"
+      },
+      "children": [
+        {
+          "id": "q21-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q21-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q21-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q21-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q21-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q21-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "title": {
+        "en-US": "Question 22 — Question Twenty-Two: The Tendency to Good and the Will",
+        "la": "Quaestio 22"
+      },
+      "children": [
+        {
+          "id": "q22-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q22-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q22-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q22-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q22-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q22-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q22-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q22-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q22-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q22-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q22-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q22-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q22-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        },
+        {
+          "id": "q22-a14",
+          "title": {
+            "en-US": "Article 14",
+            "la": "Articulus 14"
+          }
+        },
+        {
+          "id": "q22-a15",
+          "title": {
+            "en-US": "Article 15",
+            "la": "Articulus 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "title": {
+        "en-US": "Question 23 — Question Twenty-Three: God’s Will",
+        "la": "Quaestio 23"
+      },
+      "children": [
+        {
+          "id": "q23-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q23-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q23-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q23-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q23-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q23-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q23-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q23-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "title": {
+        "en-US": "Question 24 — Question Twenty-Four: Free Choice",
+        "la": "Quaestio 24"
+      },
+      "children": [
+        {
+          "id": "q24-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q24-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q24-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q24-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q24-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q24-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q24-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q24-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q24-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q24-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q24-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q24-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q24-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        },
+        {
+          "id": "q24-a14",
+          "title": {
+            "en-US": "Article 14",
+            "la": "Articulus 14"
+          }
+        },
+        {
+          "id": "q24-a15",
+          "title": {
+            "en-US": "Article 15",
+            "la": "Articulus 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "title": {
+        "en-US": "Question 25 — Question Twenty-Five: Sensuality",
+        "la": "Quaestio 25"
+      },
+      "children": [
+        {
+          "id": "q25-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q25-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q25-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q25-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q25-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q25-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q25-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "title": {
+        "en-US": "Question 26 — Question Twenty-Six: The Passions of the Soul",
+        "la": "Quaestio 26"
+      },
+      "children": [
+        {
+          "id": "q26-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q26-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q26-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q26-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q26-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q26-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q26-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q26-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q26-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q26-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "title": {
+        "en-US": "Question 27 — Question Twenty-Seven: Grace",
+        "la": "Quaestio 27"
+      },
+      "children": [
+        {
+          "id": "q27-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q27-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q27-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q27-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q27-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q27-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q27-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "title": {
+        "en-US": "Question 28 — Question Twenty-Eight: The Justification of Sinners",
+        "la": "Quaestio 28"
+      },
+      "children": [
+        {
+          "id": "q28-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q28-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q28-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q28-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q28-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q28-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q28-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q28-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q28-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "title": {
+        "en-US": "Question 29 — Question Twenty-Nine: The Grace of Christ",
+        "la": "Quaestio 29"
+      },
+      "children": [
+        {
+          "id": "q29-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q29-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q29-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q29-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q29-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q29-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q29-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q29-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        }
+      ]
+    }
+  ]
+}

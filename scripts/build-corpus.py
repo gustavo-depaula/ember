@@ -359,18 +359,19 @@ def build_books(b: Builder) -> None:
         sh, ss = b.write_blob(book_css.read_bytes())
         style_entry = {"hash": sh, "size": ss}
 
-    for d in sorted(p for p in src.iterdir() if p.is_dir()):
-        bid = d.name
-        book_meta_path = d / "book.json"
-        if not book_meta_path.is_file():
-            print(f"  warn: book {bid} has no book.json")
-            continue
+    # book.json may live at any depth under content/books/ — a parent like
+    # content/books/aquinas-opera-omnia/ has no book.json of its own, only its
+    # leaf children do. Corpus id comes from meta["id"], so physical nesting
+    # never changes catalog ids.
+    for book_meta_path in sorted(src.rglob("book.json")):
+        d = book_meta_path.parent
         with book_meta_path.open(encoding="utf-8") as fh:
             meta = json.load(fh)
+        bid = meta.get("id") or d.name
 
         chapters_by_lang: dict[str, dict[str, dict]] = {}
         for sub in sorted(d.iterdir()):
-            if sub.is_dir() and sub.name not in {"images", "fonts"}:
+            if sub.is_dir() and sub.name not in {"images", "fonts"} and not (sub / "book.json").is_file():
                 lang = sub.name
                 for ff in sorted(sub.glob("*.md")):
                     chap_id = ff.stem

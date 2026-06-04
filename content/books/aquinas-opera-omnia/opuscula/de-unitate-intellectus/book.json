@@ -1,0 +1,69 @@
+{
+  "id": "aquinas-de-unitate-intellectus",
+  "name": {
+    "en-US": "On the Unity of the Intellect against the Averroists",
+    "la": "De Unitate Intellectus contra Averroistas"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's polemic against the Latin Averroist position — held by Siger of Brabant and others at Paris — that there is only one separate intellect for the whole human race. A central document in the late medieval reception of Aristotle.",
+    "la": "Polemica contra positionem averroistarum latinorum — Siger Brabantini aliorum Parisiensium — unum tantum intellectum separatum humani generis esse."
+  },
+  "composed": "1270",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Beatrice H. Zedler (Marquette University Press, 1968). Translation status: may be under copyright in the United States until 2063; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1 — INTRODUCTION",
+        "la": "Capitulum 1 — INTRODUCTION"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Capitulum 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3",
+        "la": "Capitulum 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4",
+        "la": "Capitulum 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5",
+        "la": "Capitulum 5"
+      }
+    }
+  ]
+}

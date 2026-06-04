@@ -1,0 +1,167 @@
+{
+  "id": "aquinas-de-substantiis-separatis",
+  "name": {
+    "en-US": "On Separate Substances",
+    "la": "De Substantiis Separatis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A treatise on the angels — separate (immaterial) substances — surveying Aristotle, Plato, and the Neoplatonists before setting out Aquinas's own metaphysics of the angelic order. Unfinished.",
+    "la": "Tractatus de angelis — substantiis separatis (immaterialibus) — Aristotelem, Platonem, Neoplatonicos recensens, deinde metaphysicam propriam ordinis angelici proponens. Inchoatum."
+  },
+  "composed": "c. 1271",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Francis J. Lescoe (Saint Joseph College, West Hartford, 1959). Translation status: may be under copyright in the United States until 2054; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1 — Introduction",
+        "la": "Capitulum 1 — Introduction"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2 — ARISTOTLE’S OPINION",
+        "la": "Capitulum 2 — ARISTOTLE’S OPINION"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3 — HOW ARISTOTLE AND PLATO AGREE",
+        "la": "Capitulum 3 — HOW ARISTOTLE AND PLATO AGREE"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4 — HOW THE ABOVE POSITIONS OF PLATO AND ARISTOTLE DIFFER",
+        "la": "Capitulum 4 — HOW THE ABOVE POSITIONS OF PLATO AND ARISTOTLE DIFFER"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5 — THE OPINION OF AVICEBRON AND HIS ARGUMENTS FOR IT",
+        "la": "Capitulum 5 — THE OPINION OF AVICEBRON AND HIS ARGUMENTS FOR IT"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6 — REFUTATION OF AVICEBRON’S POSITION",
+        "la": "Capitulum 6 — REFUTATION OF AVICEBRON’S POSITION"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapter 7 — THAT OF SPIRITUAL AND CORPOREAL SUBSTANCES THERE CANNOT BE ONE MATTER",
+        "la": "Capitulum 7 — THAT OF SPIRITUAL AND CORPOREAL SUBSTANCES THERE CANNOT BE ONE MATTER"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapter 8 — ON THE REFUTATION OF AVICEBRON’S ARGUMENTS",
+        "la": "Capitulum 8 — ON THE REFUTATION OF AVICEBRON’S ARGUMENTS"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Chapter 9 — CONCERNING THE ERROR OF THOSE WHO POSIT THE ANGELS AS NOT CREATED AND ITS REFUTATION",
+        "la": "Capitulum 9 — CONCERNING THE ERROR OF THOSE WHO POSIT THE ANGELS AS NOT CREATED AND ITS REFUTATION"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Chapter 10 — THE OPINION OF AVICENNA ON THE COMING OF THINGS FROM THE FIRST PRINCIPLE AND ITS REFUTATION",
+        "la": "Capitulum 10 — THE OPINION OF AVICENNA ON THE COMING OF THINGS FROM THE FIRST PRINCIPLE AND ITS REFUTATION"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Chapter 11 — CONCERNING PLATO’S OPINION ON THE IDEAS AND ITS REFUTATION",
+        "la": "Capitulum 11 — CONCERNING PLATO’S OPINION ON THE IDEAS AND ITS REFUTATION"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Chapter 12 — ON THE ERROR OF THOSE WHO HOLD THAT ALL SPIRITUAL SUBSTANCES ARE CREATED EQUAL AND ITS REFUTATION",
+        "la": "Capitulum 12 — ON THE ERROR OF THOSE WHO HOLD THAT ALL SPIRITUAL SUBSTANCES ARE CREATED EQUAL AND ITS REFUTATION"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Chapter 13 — ON THE ERROR OF THOSE WHO SAY THAT GOD AND THE ANGELS DO NOT HAVE A KNOWLEDGE OF SINGULARS",
+        "la": "Capitulum 13 — ON THE ERROR OF THOSE WHO SAY THAT GOD AND THE ANGELS DO NOT HAVE A KNOWLEDGE OF SINGULARS"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Chapter 14 — IN WHICH IT IS SHOWN THAT GOD’S PROVIDENCE EXTENDS TO ALL THINGS",
+        "la": "Capitulum 14 — IN WHICH IT IS SHOWN THAT GOD’S PROVIDENCE EXTENDS TO ALL THINGS"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Chapter 15 — RESOLUTION OF THE AFOREMENTIONED POSITIONS",
+        "la": "Capitulum 15 — RESOLUTION OF THE AFOREMENTIONED POSITIONS"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Chapter 16 — THE ERROR OF THE MANICHEANS CONCERNING THE AFOREMENTIONED POINTS AND ITS REFUTATION",
+        "la": "Capitulum 16 — THE ERROR OF THE MANICHEANS CONCERNING THE AFOREMENTIONED POINTS AND ITS REFUTATION"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Chapter 17 — WHAT MUST BE HELD ACCORDING TO THE CATHOLIC FAITH WITH RESPECT TO THE ORIGIN OF THE ANGELS",
+        "la": "Capitulum 17 — WHAT MUST BE HELD ACCORDING TO THE CATHOLIC FAITH WITH RESPECT TO THE ORIGIN OF THE ANGELS"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Chapter 18 — WHAT MUST BE HELD CONCERNING THE CONDITION OF THE ANGELS’ NATURE",
+        "la": "Capitulum 18 — WHAT MUST BE HELD CONCERNING THE CONDITION OF THE ANGELS’ NATURE"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Chapter 19 — ON THE DISTINCTION OF SPIRITUAL SUBSTANCES ACCORDING TO SACRED TEACHING",
+        "la": "Capitulum 19 — ON THE DISTINCTION OF SPIRITUAL SUBSTANCES ACCORDING TO SACRED TEACHING"
+      }
+    }
+  ]
+}

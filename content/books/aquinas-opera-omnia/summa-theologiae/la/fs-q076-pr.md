@@ -1,0 +1,17 @@
+# Quaestio 76 — secundo, de exterioribus; tertio, de peccatis quae sunt causa aliorum peccatorum.
+
+Prima autem consideratio, secundum praemissa, erit tripartita, nam
+
+primo, agetur de ignorantia, quae est causa peccati ex parte rationis;
+secundo, de infirmitate seu passione, quae est causa peccati ex parte appetitus sensitivi;
+tertio, de malitia, quae est causa peccati ex parte voluntatis.
+
+Circa primum quaeruntur quatuor.
+
+Primo, utrum ignorantia sit causa peccati.
+
+Secundo, utrum ignorantia sit peccatum.
+
+Tertio, utrum totaliter a peccato excuset.
+
+Quarto, utrum diminuat peccatum.

@@ -1,6 +1,6 @@
 {
 	"id": "collection/thomas-aquinas",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"name": {
 		"en-US": "St. Thomas Aquinas",
 		"pt-BR": "São Tomás de Aquino",
@@ -108,110 +108,397 @@
 			]
 		},
 		{
-			"id": "summa-and-major-works",
+			"id": "summae",
 			"title": {
-				"en-US": "Summa and Major Works",
-				"pt-BR": "Suma e Obras Maiores"
+				"en-US": "The Summae",
+				"pt-BR": "As Sumas"
 			},
 			"description": {
 				"body": {
-					"en-US": "Aquinas's great theological syntheses. The *Summa contra Gentiles* (1259–1265) is his apologetic Summa — God and creatures argued from reason; the *Summa Theologiae*, his unfinished masterwork, set the architecture of Catholic theology for centuries.",
-					"pt-BR": "As grandes sínteses teológicas de Tomás. A *Suma contra os Gentios* (1259–1265) é sua Suma apologética — Deus e as criaturas argumentados a partir da razão; a *Suma Teológica*, sua obra-prima inacabada, fixou a arquitetura da teologia católica por séculos."
+					"en-US": "Aquinas's three great syntheses — the *Summa Theologiae*, the *Summa contra Gentiles*, and the *Compendium of Theology*. The architecture of Catholic theology, reasoned out from first principles.",
+					"pt-BR": "As três grandes sínteses de Tomás — a *Suma Teológica*, a *Suma contra os Gentios* e o *Compêndio de Teologia*. A arquitetura da teologia católica, racionalmente argumentada a partir de princípios primeiros."
 				}
 			},
 			"blocks": [
 				{
 					"kind": "item",
+					"ref": "book/aquinas-summa-theologiae"
+				},
+				{
+					"kind": "item",
 					"ref": "book/aquinas-summa-contra-gentiles"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-compendium-theology"
+				}
+			]
+		},
+		{
+			"id": "disputed-questions",
+			"title": {
+				"en-US": "Disputed Questions",
+				"pt-BR": "Questões Disputadas"
+			},
+			"description": {
+				"body": {
+					"en-US": "The *quaestiones disputatae* — formal scholastic disputations conducted in Aquinas's classroom at Paris, Rome, and Naples — ranging across truth, the power of God, evil, the virtues, the soul, and the metaphysics of immaterial substances.",
+					"pt-BR": "As *quaestiones disputatae* — disputas escolásticas formais conduzidas por Tomás em Paris, Roma e Nápoles — abrangendo a verdade, o poder de Deus, o mal, as virtudes, a alma e a metafísica das substâncias imateriais."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-veritate"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-potentia"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-spiritualibus-creaturis"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-qd-de-anima"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-virtutibus"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-unione-verbi"
 				},
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Summa Theologiae (selections)",
-						"pt-BR": "Suma Teológica (seleções)"
+						"en-US": "Disputed Questions on Evil (*De Malo*, via aquinas.cc / isidore.co)",
+						"pt-BR": "Questões Disputadas sobre o Mal (*De Malo*, via aquinas.cc / isidore.co)"
 					},
 					"notes": {
-						"en-US": "The Treatise on the Theological Virtues, the Treatise on the Eucharist (III, qq.73–83), and the Treatise on Prayer (II-II, q.83) are the natural ascetical entry points for lay readers.",
-						"pt-BR": "O Tratado das Virtudes Teologais, o Tratado da Eucaristia (III, qq.73–83) e o Tratado da Oração (II-II, q.83) são as portas de entrada ascéticas naturais para leigos."
+						"en-US": "Sixteen disputed questions on the nature of evil, original sin, and the capital vices. Latin at corpusthomisticum.org / aquinas.cc; English at isidore.co (and Regan/Davies 2003, copyrighted). Not in Geremia local mirror; needs aquinas.cc scraping.",
+						"pt-BR": "Dezesseis questões disputadas sobre a natureza do mal, o pecado original e os vícios capitais. Latim em corpusthomisticum.org / aquinas.cc; inglês em isidore.co. Não está no espelho Geremia local; precisa de scraping em aquinas.cc."
 					},
 					"proposedKind": "book",
 					"priority": "high"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Compendium of Theology",
-						"pt-BR": "Compêndio de Teologia"
-					},
-					"notes": {
-						"en-US": "Aquinas's short systematic theology, organized around faith, hope, and charity. Unfinished.",
-						"pt-BR": "Teologia sistemática breve de Tomás, organizada em torno da fé, esperança e caridade. Inacabada."
-					},
-					"proposedKind": "book"
+					"kind": "item",
+					"ref": "book/aquinas-quodlibetales"
 				}
 			]
 		},
 		{
-			"id": "commentary",
+			"id": "scripture-commentary",
 			"title": {
 				"en-US": "Scripture & Patristic Commentary",
 				"pt-BR": "Comentários Bíblicos e Patrísticos"
 			},
 			"description": {
 				"body": {
-					"en-US": "Aquinas the *Magister in Sacra Pagina* — Master of the Sacred Page. His Scripture commentaries were the heart of his daily teaching at Paris and Naples.",
-					"pt-BR": "Tomás como *Magister in Sacra Pagina* — Mestre da Página Sagrada. Seus comentários bíblicos foram o coração de seu ensino diário em Paris e Nápoles."
+					"en-US": "Aquinas the *Magister in Sacra Pagina* — Master of the Sacred Page. His Scripture commentaries were the heart of his daily teaching at Paris and Naples; the *Catena Aurea* (Golden Chain), commissioned by Pope Urban IV, wove the Greek and Latin Fathers into a continuous gloss on the Gospels.",
+					"pt-BR": "Tomás como *Magister in Sacra Pagina* — Mestre da Página Sagrada. Seus comentários bíblicos foram o coração de seu ensino diário em Paris e Nápoles; a *Catena Aurea*, encomendada pelo Papa Urbano IV, teceu os Padres gregos e latinos numa glosa contínua aos Evangelhos."
 				}
 			},
 			"blocks": [
 				{
+					"kind": "item",
+					"ref": "book/aquinas-catena-aurea-matthew"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-catena-aurea-mark"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-catena-aurea-luke"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-catena-aurea-john"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-iohannem"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-paulum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-matthaeum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-matt-petri-de-scala"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-iob"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-psalmos"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-threnos"
+				},
+				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Catena Aurea on the Four Gospels",
-						"pt-BR": "Catena Aurea sobre os Quatro Evangelhos"
+						"en-US": "Commentary on Isaiah (via aquinas.cc / Latin-only sources)",
+						"pt-BR": "Comentário a Isaías (via aquinas.cc / fontes só em latim)"
 					},
 					"notes": {
-						"en-US": "Aquinas's verse-by-verse gloss on the Gospels, weaving the Greek and Latin Fathers into a single continuous reading. Commissioned by Pope Urban IV.",
-						"pt-BR": "Glosa versículo a versículo de Tomás sobre os Evangelhos, tecendo os Padres gregos e latinos numa leitura contínua. Encomendada pelo Papa Urbano IV."
+						"en-US": "An early biblical commentary. Latin at corpusthomisticum.org / aquinas.cc (Aquinas Institute). Geremia has no local file. Needs an aquinas.cc scraper.",
+						"pt-BR": "Comentário bíblico inicial. Latim em corpusthomisticum.org / aquinas.cc. Geremia não tem arquivo local. Precisa de um scraper para aquinas.cc."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Commentary on Jeremiah (via aquinas.cc)",
+						"pt-BR": "Comentário a Jeremias (via aquinas.cc)"
+					},
+					"notes": {
+						"en-US": "Latin at corpusthomisticum.org / aquinas.cc. Geremia mirrors only Lamentations locally (see *Super Threnos* above).",
+						"pt-BR": "Latim em corpusthomisticum.org / aquinas.cc. Geremia espelha localmente apenas Lamentações (ver *Super Threnos* acima)."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Commentary on Romans, 2 Thessalonians, 1–2 Timothy, Titus (via aquinas.cc)",
+						"pt-BR": "Comentário aos Romanos, 2 Tessalonicenses, 1–2 Timóteo, Tito (via aquinas.cc)"
+					},
+					"notes": {
+						"en-US": "Available bilingually at aquinas.cc (Aquinas Institute, Shapcote-derived English): https://aquinas.cc/la/en/~Rom, ~2Thess, ~1Tim, ~2Tim, ~Titus. Geremia mirror does not have local files; needs a scraper from aquinas.cc's JS-rendered pages. *Super Paulum* above covers the 9 epistles that Geremia mirrors locally (1–2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians, Hebrews, Philemon).",
+						"pt-BR": "Disponível bilíngue em aquinas.cc (Aquinas Institute, inglês derivado de Shapcote): https://aquinas.cc/la/en/~Rom, ~2Thess, ~1Tim, ~2Tim, ~Titus. O espelho Geremia não tem arquivos locais; precisa de um scraper para as páginas JS de aquinas.cc. O *Super Paulum* acima cobre as 9 epístolas que o Geremia espelha localmente."
 					},
 					"proposedKind": "book",
 					"priority": "high"
+				}
+			]
+		},
+		{
+			"id": "philosophical-works",
+			"title": {
+				"en-US": "Philosophical Commentaries",
+				"pt-BR": "Comentários Filosóficos"
+			},
+			"description": {
+				"body": {
+					"en-US": "Aquinas's commentaries on Aristotle, on Boethius, on Pseudo-Dionysius, and on the *Liber de Causis*. He read the Philosopher closely — twelve Aristotelian works are commented in detail — and used the Neoplatonic tradition without flinching, ordered to a Christian end.",
+					"pt-BR": "Os comentários de Tomás a Aristóteles, a Boécio, ao Pseudo-Dionísio e ao *Liber de Causis*. Leu o Filósofo de perto — doze obras aristotélicas são comentadas em detalhe — e usou a tradição neoplatônica sem hesitação, ordenando-a a fim cristão."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-ethics"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-metaphysics"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-physics"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-de-anima"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-politics"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-posterior-analytics"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-peri-hermeneias"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-de-caelo"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-meteora"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-generation-corruption"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-de-sensu"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-comm-de-memoria"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-boethius-de-trinitate"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-super-sententias"
 				},
 				{
 					"kind": "todo",
-					"title": {
-						"en-US": "Commentary on the Gospel of John",
-						"pt-BR": "Comentário ao Evangelho de São João"
-					},
+					"title": {"en-US": "Commentary on Boethius's *De Hebdomadibus* (via aquinas.cc)", "pt-BR": "Comentário ao *De Hebdomadibus* de Boécio (via aquinas.cc)"},
 					"notes": {
-						"en-US": "Considered by many his finest Scripture commentary.",
-						"pt-BR": "Considerado por muitos seu melhor comentário bíblico."
+						"en-US": "Latin at corpusthomisticum.org; bilingual at aquinas.cc. Not in Geremia local mirror.",
+						"pt-BR": "Latim em corpusthomisticum.org; bilíngue em aquinas.cc. Não está no espelho Geremia local."
 					},
 					"proposedKind": "book"
 				},
 				{
 					"kind": "todo",
-					"title": {
-						"en-US": "Commentary on the Letters of St. Paul",
-						"pt-BR": "Comentário às Cartas de São Paulo"
-					},
+					"title": {"en-US": "Commentary on the *Liber de Causis* (via aquinas.cc / isidore.co)", "pt-BR": "Comentário ao *Liber de Causis* (via aquinas.cc / isidore.co)"},
 					"notes": {
-						"en-US": "Especially Romans, 1 Corinthians, and Hebrews — the Pauline epistles most central to his theology of grace and Eucharist.",
-						"pt-BR": "Especialmente Romanos, 1 Coríntios e Hebreus — as epístolas paulinas mais centrais à sua teologia da graça e da Eucaristia."
+						"en-US": "Latin at corpusthomisticum.org; English at isidore.co; bilingual at aquinas.cc. Not in Geremia local mirror.",
+						"pt-BR": "Latim em corpusthomisticum.org; inglês em isidore.co; bilíngue em aquinas.cc. Não está no espelho Geremia local."
 					},
 					"proposedKind": "book"
 				},
 				{
 					"kind": "todo",
-					"title": {
-						"en-US": "Commentary on the Psalms",
-						"pt-BR": "Comentário aos Salmos"
-					},
+					"title": {"en-US": "Commentary on Dionysius's *De Divinis Nominibus* (via aquinas.cc / isidore.co)", "pt-BR": "Comentário ao *De Divinis Nominibus* do Pseudo-Dionísio (via aquinas.cc / isidore.co)"},
 					"notes": {
-						"en-US": "Incomplete — Aquinas reached only Psalm 54 before his death.",
-						"pt-BR": "Incompleto — Tomás alcançou somente o Salmo 54 antes de morrer."
+						"en-US": "Latin at corpusthomisticum.org; English at isidore.co; bilingual at aquinas.cc. Not in Geremia local mirror.",
+						"pt-BR": "Latim em corpusthomisticum.org; inglês em isidore.co; bilíngue em aquinas.cc. Não está no espelho Geremia local."
 					},
 					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "opuscula",
+			"title": {
+				"en-US": "Opuscula — Short Treatises",
+				"pt-BR": "Opúsculos — Tratados Breves"
+			},
+			"description": {
+				"body": {
+					"en-US": "The shorter works — letters of consultation, polemical defenses of the religious orders, metaphysical and physical opuscula, and the treatise on kingship for the King of Cyprus. Many were composed for a specific occasion or addressee.",
+					"pt-BR": "As obras menores — cartas de consulta, defesas polêmicas das ordens religiosas, opúsculos metafísicos e físicos, e o tratado sobre o reino para o Rei de Chipre. Muitos foram compostos para uma ocasião ou destinatário específicos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-ente-et-essentia"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-principiis-naturae"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-aeternitate-mundi"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-unitate-intellectus"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-substantiis-separatis"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-regno"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-contra-impugnantes"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-contra-retrahentes"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-perfectione-vitae"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-contra-errores-graecorum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-motu-cordis"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-operationibus-occultis"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-sortibus"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-mixtione-elementorum"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-articulis-fidei"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-rationibus-fidei"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-principium"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-emptione"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-to-bernard-abbot"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-to-duchess-flanders"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-to-john-vercelli"
+				}
+			]
+		},
+		{
+			"id": "sermons",
+			"title": {
+				"en-US": "Sermons",
+				"pt-BR": "Sermões"
+			},
+			"description": {
+				"body": {
+					"en-US": "Aquinas's surviving university sermons — preached at Paris and Naples on dominical and saints'-day pericopes — and the Latin sources behind the *Catechetical Instructions* on the Creed, Lord's Prayer, Hail Mary, and Ten Commandments.",
+					"pt-BR": "Os sermões universitários de Tomás que sobreviveram — pregados em Paris e Nápoles sobre as perícopes dominicais e dos santos — e as fontes latinas por trás das *Instruções Catequéticas* sobre o Credo, o Pai-Nosso, a Ave-Maria e os Dez Mandamentos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/aquinas-sermons"
 				}
 			]
 		},
@@ -223,22 +510,33 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The full propers Aquinas composed in 1264 for the new feast — the Mass *Cibavit*, the Office hymns (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*), and the sequence *Lauda Sion Salvatorem*. All five hymns plus *Panis Angelicus* live inside the Prayers of St. Thomas practice above; what's still missing is the Mass *Cibavit*.",
-					"pt-BR": "Os próprios completos que Tomás compôs em 1264 para a nova festa — a Missa *Cibavit*, os hinos do Ofício (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*) e a sequência *Lauda Sion Salvatorem*. Os cinco hinos mais o *Panis Angelicus* já estão na prática Orações de Santo Tomás acima; o que ainda falta é a Missa *Cibavit*."
+					"en-US": "The complete liturgical office Aquinas composed in 1264 at the request of Pope Urban IV for the new feast — Mass *Cibavit*, Matins, Lauds, the Little Hours, Vespers, the Octave readings, and the hymns *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, and the sequence *Lauda Sion Salvatorem*. The hymns themselves also live inside the *Prayers of St. Thomas* practice above.",
+					"pt-BR": "O ofício litúrgico completo que Tomás compôs em 1264 a pedido do Papa Urbano IV para a nova festa — Missa *Cibavit*, Matinas, Laudes, Horas Menores, Vésperas, as leituras da Oitava, e os hinos *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, e a sequência *Lauda Sion Salvatorem*. Os próprios hinos também estão na prática *Orações de Santo Tomás* acima."
 				}
 			},
 			"blocks": [
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Mass of Corpus Christi — proper texts",
-						"pt-BR": "Missa de Corpus Christi — textos próprios"
-					},
-					"notes": {
-						"en-US": "The Mass *Cibavit* (Introit, Collect, Gradual, Alleluia, Sequence, Offertory, Communion) composed by Aquinas.",
-						"pt-BR": "A Missa *Cibavit* (Intróito, Coleta, Gradual, Aleluia, Sequência, Ofertório, Comunhão) composta por Tomás."
-					},
-					"proposedKind": "book"
+					"kind": "item",
+					"ref": "book/aquinas-office-corpus-christi"
+				}
+			]
+		},
+		{
+			"id": "historical",
+			"title": {
+				"en-US": "Dominican Historical Documents",
+				"pt-BR": "Documentos Históricos Dominicanos"
+			},
+			"description": {
+				"body": {
+					"en-US": "Primary documents from Aquinas's life as a Dominican friar — the acts of the chapters of the Roman Province (1260–1273) in which he took part.",
+					"pt-BR": "Documentos primários da vida de Tomás como frade dominicano — as atas dos capítulos da Província Romana (1260–1273) em que ele participou."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/aquinas-roman-chapters"
 				}
 			]
 		},

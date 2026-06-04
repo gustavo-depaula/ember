@@ -1,0 +1,15 @@
+# Question 93 — Of the sixth law which is the law of the "fomes," suffice what we have said when treating of original sin.
+
+Concerning the first there are six points of inquiry:
+
+(1) What is the eternal law?
+
+(2) Whether it is known to all?
+
+(3) Whether every law is derived from it?
+
+(4) Whether necessary things are subject to the eternal law?
+
+(5) Whether natural contingencies are subject to the eternal law?
+
+(6) Whether all human things are subject to it?

@@ -1,0 +1,209 @@
+{
+  "id": "aquinas-catena-aurea-luke",
+  "name": {
+    "en-US": "Catena Aurea on Luke",
+    "la": "Catena Aurea in Evangelium secundum Lucam"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's verse-by-verse gloss on the Gospel of Luke, weaving the Greek and Latin Fathers into a single continuous commentary. Commissioned by Pope Urban IV. English translation by John Henry Parker (J.G.F. and J. Rivington, London, 1841–1845); the project that produced the *Library of the Fathers* under Newman, Pusey, and Keble.",
+    "la": "Glossa textualis super Evangelium secundum Lucam, ex commentariis sanctorum patrum graecorum et latinorum confecta, Urbano IV pontifice iubente."
+  },
+  "composed": "1262–1268",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "John Henry Parker translation, London 1841–1845 (J.G.F. and J. Rivington), with the dedication translated by Joseph Kenny OP. Public domain. Mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin text from Aquinas's autograph (Marietti edition), public domain. Mirrored via Geremia."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue and Dedication",
+        "la": "Prologus et Dedicatio"
+      }
+    },
+    {
+      "id": "ch01",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Caput 1"
+      }
+    },
+    {
+      "id": "ch02",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Caput 2"
+      }
+    },
+    {
+      "id": "ch03",
+      "title": {
+        "en-US": "Chapter 3",
+        "la": "Caput 3"
+      }
+    },
+    {
+      "id": "ch04",
+      "title": {
+        "en-US": "Chapter 4",
+        "la": "Caput 4"
+      }
+    },
+    {
+      "id": "ch05",
+      "title": {
+        "en-US": "Chapter 5",
+        "la": "Caput 5"
+      }
+    },
+    {
+      "id": "ch06",
+      "title": {
+        "en-US": "Chapter 6",
+        "la": "Caput 6"
+      }
+    },
+    {
+      "id": "ch07",
+      "title": {
+        "en-US": "Chapter 7",
+        "la": "Caput 7"
+      }
+    },
+    {
+      "id": "ch08",
+      "title": {
+        "en-US": "Chapter 8",
+        "la": "Caput 8"
+      }
+    },
+    {
+      "id": "ch09",
+      "title": {
+        "en-US": "Chapter 9",
+        "la": "Caput 9"
+      }
+    },
+    {
+      "id": "ch10",
+      "title": {
+        "en-US": "Chapter 10",
+        "la": "Caput 10"
+      }
+    },
+    {
+      "id": "ch11",
+      "title": {
+        "en-US": "Chapter 11",
+        "la": "Caput 11"
+      }
+    },
+    {
+      "id": "ch12",
+      "title": {
+        "en-US": "Chapter 12",
+        "la": "Caput 12"
+      }
+    },
+    {
+      "id": "ch13",
+      "title": {
+        "en-US": "Chapter 13",
+        "la": "Caput 13"
+      }
+    },
+    {
+      "id": "ch14",
+      "title": {
+        "en-US": "Chapter 14",
+        "la": "Caput 14"
+      }
+    },
+    {
+      "id": "ch15",
+      "title": {
+        "en-US": "Chapter 15",
+        "la": "Caput 15"
+      }
+    },
+    {
+      "id": "ch16",
+      "title": {
+        "en-US": "Chapter 16",
+        "la": "Caput 16"
+      }
+    },
+    {
+      "id": "ch17",
+      "title": {
+        "en-US": "Chapter 17",
+        "la": "Caput 17"
+      }
+    },
+    {
+      "id": "ch18",
+      "title": {
+        "en-US": "Chapter 18",
+        "la": "Caput 18"
+      }
+    },
+    {
+      "id": "ch19",
+      "title": {
+        "en-US": "Chapter 19",
+        "la": "Caput 19"
+      }
+    },
+    {
+      "id": "ch20",
+      "title": {
+        "en-US": "Chapter 20",
+        "la": "Caput 20"
+      }
+    },
+    {
+      "id": "ch21",
+      "title": {
+        "en-US": "Chapter 21",
+        "la": "Caput 21"
+      }
+    },
+    {
+      "id": "ch22",
+      "title": {
+        "en-US": "Chapter 22",
+        "la": "Caput 22"
+      }
+    },
+    {
+      "id": "ch23",
+      "title": {
+        "en-US": "Chapter 23",
+        "la": "Caput 23"
+      }
+    },
+    {
+      "id": "ch24",
+      "title": {
+        "en-US": "Chapter 24",
+        "la": "Caput 24"
+      }
+    }
+  ]
+}

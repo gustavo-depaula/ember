@@ -1,0 +1,25 @@
+# Quaestio 19 — Post considerationem eorum quae ad divinam scientiam pertinent, considerandum est de his quae pertinent ad voluntatem divinam, ut sit prima consideratio de ipsa Dei voluntate; secunda, de his quae ad voluntatem absolute pertinent; tertia, de his quae ad intellectum in ordine ad voluntatem pertinent. Circa ipsam autem voluntatem quaeruntur duodecim.
+
+Primo, utrum in Deo sit voluntas.
+
+Secundo, utrum Deus velit alia a se.
+
+Tertio, utrum quidquid Deus vult, ex necessitate velit.
+
+Quarto, utrum voluntas Dei sit causa rerum.
+
+Quinto, utrum voluntatis divinae sit assignare aliquam causam.
+
+Sexto, utrum voluntas divina semper impleatur.
+
+Septimo, utrum voluntas Dei sit mutabilis.
+
+Octavo, utrum voluntas Dei necessitatem rebus volitis imponat.
+
+Nono, utrum in Deo sit voluntas malorum.
+
+Decimo, utrum Deus habeat liberum arbitrium.
+
+Undecimo, utrum sit distinguenda in Deo voluntas signi.
+
+Duodecimo, utrum convenienter circa divinam voluntatem ponantur quinque signa.

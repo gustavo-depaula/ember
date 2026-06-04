@@ -1,0 +1,503 @@
+{
+  "id": "aquinas-comm-posterior-analytics",
+  "name": {
+    "en-US": "Commentary on the Posterior Analytics",
+    "la": "Expositio Posteriorum Analyticorum"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on Aristotle's *Posterior Analytics* — the logic of scientific demonstration, the most important Aristotelian source for his methodology.",
+    "la": "Expositio *Posteriorum Analyticorum* Aristotelis — logica demonstrationis scientificae, fons aristotelicus maximus methodologiae Thomae."
+  },
+  "composed": "1271–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Richard Berquist (Dumb Ox Books, 2007) — copyrighted; older translation by F. R. Larcher OP (Magi Books, 1970) mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Lecture 2",
+        "la": "Lectio 2"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Lecture 2",
+        "la": "Lectio 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Lecture 3",
+        "la": "Lectio 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Lecture 4",
+        "la": "Lectio 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Lecture 5",
+        "la": "Lectio 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Lecture 6",
+        "la": "Lectio 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Lecture 7",
+        "la": "Lectio 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Lecture 8",
+        "la": "Lectio 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Lecture 9",
+        "la": "Lectio 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Lecture 10",
+        "la": "Lectio 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Lecture 11",
+        "la": "Lectio 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Lecture 12",
+        "la": "Lectio 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Lecture 13",
+        "la": "Lectio 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Lecture 14",
+        "la": "Lectio 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Lecture 15",
+        "la": "Lectio 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Lecture 16",
+        "la": "Lectio 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Lecture 17",
+        "la": "Lectio 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Lecture 18",
+        "la": "Lectio 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Lecture 19",
+        "la": "Lectio 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Lecture 20",
+        "la": "Lectio 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Lecture 21",
+        "la": "Lectio 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Lecture 22",
+        "la": "Lectio 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Lecture 23",
+        "la": "Lectio 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Lecture 24",
+        "la": "Lectio 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Lecture 25",
+        "la": "Lectio 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Lecture 26",
+        "la": "Lectio 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Lecture 27",
+        "la": "Lectio 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Lecture 28",
+        "la": "Lectio 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Lecture 29",
+        "la": "Lectio 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Lecture 30",
+        "la": "Lectio 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Lecture 31",
+        "la": "Lectio 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Lecture 32",
+        "la": "Lectio 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Lecture 33",
+        "la": "Lectio 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Lecture 34",
+        "la": "Lectio 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Lecture 35",
+        "la": "Lectio 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Lecture 36",
+        "la": "Lectio 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Lecture 37",
+        "la": "Lectio 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Lecture 38",
+        "la": "Lectio 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Lecture 39",
+        "la": "Lectio 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Lecture 40",
+        "la": "Lectio 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Lecture 41",
+        "la": "Lectio 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Lecture 42",
+        "la": "Lectio 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Lecture 43",
+        "la": "Lectio 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Lecture 44",
+        "la": "Lectio 44"
+      }
+    },
+    {
+      "id": "ch201",
+      "title": {
+        "en-US": "Lecture 201",
+        "la": "Lectio 201"
+      }
+    },
+    {
+      "id": "ch202",
+      "title": {
+        "en-US": "Lecture 202",
+        "la": "Lectio 202"
+      }
+    },
+    {
+      "id": "ch203",
+      "title": {
+        "en-US": "Lecture 203",
+        "la": "Lectio 203"
+      }
+    },
+    {
+      "id": "ch204",
+      "title": {
+        "en-US": "Lecture 204",
+        "la": "Lectio 204"
+      }
+    },
+    {
+      "id": "ch205",
+      "title": {
+        "en-US": "Lecture 205",
+        "la": "Lectio 205"
+      }
+    },
+    {
+      "id": "ch206",
+      "title": {
+        "en-US": "Lecture 206",
+        "la": "Lectio 206"
+      }
+    },
+    {
+      "id": "ch207",
+      "title": {
+        "en-US": "Lecture 207",
+        "la": "Lectio 207"
+      }
+    },
+    {
+      "id": "ch208",
+      "title": {
+        "en-US": "Lecture 208",
+        "la": "Lectio 208"
+      }
+    },
+    {
+      "id": "ch209",
+      "title": {
+        "en-US": "Lecture 209",
+        "la": "Lectio 209"
+      }
+    },
+    {
+      "id": "ch210",
+      "title": {
+        "en-US": "Lecture 210",
+        "la": "Lectio 210"
+      }
+    },
+    {
+      "id": "ch211",
+      "title": {
+        "en-US": "Lecture 211",
+        "la": "Lectio 211"
+      }
+    },
+    {
+      "id": "ch212",
+      "title": {
+        "en-US": "Lecture 212",
+        "la": "Lectio 212"
+      }
+    },
+    {
+      "id": "ch213",
+      "title": {
+        "en-US": "Lecture 213",
+        "la": "Lectio 213"
+      }
+    },
+    {
+      "id": "ch214",
+      "title": {
+        "en-US": "Lecture 214",
+        "la": "Lectio 214"
+      }
+    },
+    {
+      "id": "ch215",
+      "title": {
+        "en-US": "Lecture 215",
+        "la": "Lectio 215"
+      }
+    },
+    {
+      "id": "ch216",
+      "title": {
+        "en-US": "Lecture 216",
+        "la": "Lectio 216"
+      }
+    },
+    {
+      "id": "ch217",
+      "title": {
+        "en-US": "Lecture 217",
+        "la": "Lectio 217"
+      }
+    },
+    {
+      "id": "ch218",
+      "title": {
+        "en-US": "Lecture 218",
+        "la": "Lectio 218"
+      }
+    },
+    {
+      "id": "ch219",
+      "title": {
+        "en-US": "Lecture 219",
+        "la": "Lectio 219"
+      }
+    },
+    {
+      "id": "ch220",
+      "title": {
+        "en-US": "Lecture 220",
+        "la": "Lectio 220"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "aquinas-roman-chapters",
+  "name": {
+    "en-US": "Acts of the Roman Province Chapters",
+    "la": "Acta Capitulorum Provinciae Romanae"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "The acts of the Dominican Roman Province chapters in which Aquinas took part — Naples 1260 through Rome 1273. Primary documents of Dominican life during Aquinas's career.",
+    "la": "Acta capitulorum provinciae Romanae Ordinis Praedicatorum in quibus Thomas interfuit — a Neapoli 1260 usque ad Romam 1273."
+  },
+  "composed": "1260–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Joseph Kenny, O.P. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch1260",
+      "title": {
+        "en-US": "Chapter 1260",
+        "la": "Capitulum Provinciale 1260"
+      }
+    },
+    {
+      "id": "ch1261",
+      "title": {
+        "en-US": "Chapter 1261",
+        "la": "Capitulum Provinciale 1261"
+      }
+    },
+    {
+      "id": "ch1262",
+      "title": {
+        "en-US": "Chapter 1262",
+        "la": "Capitulum Provinciale 1262"
+      }
+    },
+    {
+      "id": "ch1263",
+      "title": {
+        "en-US": "Chapter 1263",
+        "la": "Capitulum Provinciale 1263"
+      }
+    },
+    {
+      "id": "ch1264",
+      "title": {
+        "en-US": "Chapter 1264",
+        "la": "Capitulum Provinciale 1264"
+      }
+    },
+    {
+      "id": "ch1265",
+      "title": {
+        "en-US": "Chapter 1265",
+        "la": "Capitulum Provinciale 1265"
+      }
+    },
+    {
+      "id": "ch1266",
+      "title": {
+        "en-US": "Chapter 1266",
+        "la": "Capitulum Provinciale 1266"
+      }
+    },
+    {
+      "id": "ch1267",
+      "title": {
+        "en-US": "Chapter 1267",
+        "la": "Capitulum Provinciale 1267"
+      }
+    },
+    {
+      "id": "ch1268",
+      "title": {
+        "en-US": "Chapter 1268",
+        "la": "Capitulum Provinciale 1268"
+      }
+    },
+    {
+      "id": "ch1272",
+      "title": {
+        "en-US": "Chapter 1272",
+        "la": "Capitulum Provinciale 1272"
+      }
+    },
+    {
+      "id": "ch1273",
+      "title": {
+        "en-US": "Chapter 1273",
+        "la": "Capitulum Provinciale 1273"
+      }
+    }
+  ]
+}

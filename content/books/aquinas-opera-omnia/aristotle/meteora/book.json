@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-comm-meteora",
+  "name": {
+    "en-US": "Commentary on the Meteorologica",
+    "la": "Sententia super Meteora"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on Aristotle's *Meteorologica* — meteorological and atmospheric phenomena. Unfinished — Aquinas covered only Books I and part of II.",
+    "la": "Expositio *Meteorologicorum* Aristotelis — de phaenomenis meteorologicis et atmosphaericis. Opus inchoatum — solum Librum I et partem II tractavit."
+  },
+  "composed": "c. 1268–1270",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    }
+  ]
+}

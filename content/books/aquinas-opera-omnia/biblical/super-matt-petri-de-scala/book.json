@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-super-matt-petri-de-scala",
+  "name": {
+    "en-US": "Commentary on Matthew (Reportatio of Peter of Scala)",
+    "la": "Super Matthaeum (Reportatio Petri de Scala)"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A *reportatio* of Aquinas's Matthew lectures by Peter of Scala — an alternate transmission of the Matthew commentary chapters that complements R. F. Larcher's text.",
+    "la": "*Reportatio* Petri de Scala lectionum Thomae in Matthaeum — transmissio alternativa quae *reportationem* Legerii Bisuntini complet."
+  },
+  "composed": "c. 1269–1270",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6",
+        "la": "Caput 6"
+      }
+    }
+  ]
+}

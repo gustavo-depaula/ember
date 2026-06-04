@@ -1,0 +1,48 @@
+{
+  "id": "aquinas-principium",
+  "name": {
+    "en-US": "Inaugural Sermons (Rigans montes / Hic est liber)",
+    "la": "Principia: Rigans montes / Hic est liber"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's two inaugural lectures as Master of Theology at Paris (Spring 1256): *Rigans montes de superioribus suis* on the dignity of Sacred Scripture, and *Hic est liber mandatorum Dei* — the commendation and division of Scripture that every new master delivered.",
+    "la": "Duo principia Thomae cum suscepta licentia magistri in theologia Parisiis (vere 1256): *Rigans montes de superioribus suis* de dignitate Sacrae Scripturae, et *Hic est liber mandatorum Dei* — commendatio et divisio Sacrae Scripturae quae a novo magistro fiebat."
+  },
+  "composed": "1256",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1 — This is the book",
+        "la": "Caput 1 — This is the book"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2 — Watering the hills",
+        "la": "Caput 2 — Watering the hills"
+      }
+    }
+  ]
+}

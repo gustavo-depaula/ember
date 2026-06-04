@@ -1,0 +1,419 @@
+{
+  "id": "aquinas-super-psalmos",
+  "name": {
+    "en-US": "Commentary on the Psalms",
+    "la": "Postilla super Psalmos"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's final commentary, on the Psalms — incomplete. He reached only Psalm 54 (numbered Ps 51 in the Hebrew, depending on the system) before his death.",
+    "la": "Expositio ultima Thomae, in Psalmos — opus inchoatum, morte interruptum. Solum usque ad Psalmum 54 (vel 51, secundum numerationem) pervenit."
+  },
+  "composed": "1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Stephen Loughlin (2005). Mirrored from the Geremia/AquinasOperaOmnia GitHub repository's PsalmsAquinas directory."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — St. Thomas's Introduction to his Exposition of the Psalms of David",
+        "la": "Psalmus 1 — St. Thomas's Introduction to his Exposition of the Psalms of David"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 1",
+        "la": "Psalmus 1 — Psalm 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 2",
+        "la": "Psalmus 1 — Psalm 2"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 3",
+        "la": "Psalmus 1 — Psalm 3"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1",
+        "la": "Psalmus 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1",
+        "la": "Psalmus 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1",
+        "la": "Psalmus 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 7",
+        "la": "Psalmus 1 — Psalm 7"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 8",
+        "la": "Psalmus 1 — Psalm 8"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1",
+        "la": "Psalmus 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 10",
+        "la": "Psalmus 1 — Psalm 10"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 11",
+        "la": "Psalmus 1 — Psalm 11"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 12",
+        "la": "Psalmus 1 — Psalm 12"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 13",
+        "la": "Psalmus 1 — Psalm 13"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 14",
+        "la": "Psalmus 1 — Psalm 14"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 16",
+        "la": "Psalmus 1 — Psalm 16"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 17",
+        "la": "Psalmus 1 — Psalm 17"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 18",
+        "la": "Psalmus 1 — Psalm 18"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1",
+        "la": "Psalmus 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 20",
+        "la": "Psalmus 1 — Psalm 20"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 21",
+        "la": "Psalmus 1 — Psalm 21"
+      }
+    },
+    {
+      "id": "ch-proem0",
+      "title": {
+        "en-US": "Prologue",
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 23",
+        "la": "Psalmus 1 — Psalm 23"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 26",
+        "la": "Psalmus 1 — Psalm 26"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 28",
+        "la": "Psalmus 1 — Psalm 28"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — 1.",
+        "la": "Psalmus 1 — 1."
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Psalm 2 — 2.",
+        "la": "Psalmus 2 — 2."
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Psalm 3 — 3.",
+        "la": "Psalmus 3 — 3."
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Psalm 4 — 4.",
+        "la": "Psalmus 4 — 4."
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Psalm 5 — 5.",
+        "la": "Psalmus 5 — 5."
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Psalm 6 — 6.",
+        "la": "Psalmus 6 — 6."
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Psalm 7 — 7.",
+        "la": "Psalmus 7 — 7."
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Psalm 8 — 8.",
+        "la": "Psalmus 8 — 8."
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Psalm 9 — 9.",
+        "la": "Psalmus 9 — 9."
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Psalm 10 — 10.",
+        "la": "Psalmus 10 — 10."
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Psalm 11 — 11.",
+        "la": "Psalmus 11 — 11."
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Psalm 12 — 12.",
+        "la": "Psalmus 12 — 12."
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Psalm 13 — 13.",
+        "la": "Psalmus 13 — 13."
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Psalm 14 — 14.",
+        "la": "Psalmus 14 — 14."
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Psalm 15 — 15.",
+        "la": "Psalmus 15 — 15."
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Psalm 16 — 16.",
+        "la": "Psalmus 16 — 16."
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Psalm 17 — 17.",
+        "la": "Psalmus 17 — 17."
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 33",
+        "la": "Psalmus 1 — Psalm 33"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 34",
+        "la": "Psalmus 1 — Psalm 34"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 35",
+        "la": "Psalmus 1 — Psalm 35"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 42",
+        "la": "Psalmus 1 — Psalm 42"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 46",
+        "la": "Psalmus 1 — Psalm 46"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 47",
+        "la": "Psalmus 1 — Psalm 47"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 48",
+        "la": "Psalmus 1 — Psalm 48"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 49",
+        "la": "Psalmus 1 — Psalm 49"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 50",
+        "la": "Psalmus 1 — Psalm 50"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 51",
+        "la": "Psalmus 1 — Psalm 51"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 52",
+        "la": "Psalmus 1 — Psalm 52"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 53",
+        "la": "Psalmus 1 — Psalm 53"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Psalm 1 — Psalm 54",
+        "la": "Psalmus 1 — Psalm 54"
+      }
+    }
+  ]
+}

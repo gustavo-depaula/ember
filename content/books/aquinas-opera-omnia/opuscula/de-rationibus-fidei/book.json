@@ -1,0 +1,104 @@
+{
+  "id": "aquinas-de-rationibus-fidei",
+  "name": {
+    "en-US": "On the Reasons for the Faith (to the Cantor of Antioch)",
+    "la": "De Rationibus Fidei (ad Cantorem Antiochenum)"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short apologetic treatise written for a cantor at Antioch on the rational defense of central Christian mysteries — the Trinity, the Incarnation, the Eucharist, predestination — in dialogue with Muslims, Greeks, and Armenians.",
+    "la": "Tractatus apologeticus brevis cantori cuidam Antiocheno scriptus, de defensione rationali mysteriorum christianorum praecipuorum — Trinitatis, Incarnationis, Eucharistiae, praedestinationis — coram Mahumedanis, Graecis et Armeniis."
+  },
+  "composed": "c. 1264",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Capitulum 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Capitulum 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3",
+        "la": "Capitulum 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4",
+        "la": "Capitulum 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5",
+        "la": "Capitulum 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6",
+        "la": "Capitulum 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapter 7",
+        "la": "Capitulum 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapter 8",
+        "la": "Capitulum 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Chapter 9",
+        "la": "Capitulum 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Chapter 10",
+        "la": "Capitulum 10"
+      }
+    }
+  ]
+}

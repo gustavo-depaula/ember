@@ -1,0 +1,251 @@
+{
+  "id": "aquinas-contra-impugnantes",
+  "name": {
+    "en-US": "Against Those Who Attack the Religious Life",
+    "la": "Contra Impugnantes Dei Cultum et Religionem"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A defense of the mendicant religious orders against the attacks of William of Saint-Amour and the secular masters at Paris on the theological legitimacy of the friars' way of life.",
+    "la": "Defensio ordinum religiosorum mendicantium contra impugnationes Guillelmi de Sancto Amore et magistrorum saecularium Parisiensium."
+  },
+  "composed": "1256",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by John Procter, O.P. (1902, Sands & Co., Edinburgh / Westminster, Md., 1950 reprint). Public domain. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch-0",
+      "title": {
+        "en-US": "Chapter 0 — PROLOGUE",
+        "la": "Capitulum 0 — PROLOGUE"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1 — What is Meant by Religion? What Does its Perfection Consist In?",
+        "la": "Capitulum 1 — What is Meant by Religion? What Does its Perfection Consist In?"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Chapter 21",
+        "la": "Capitulum 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Chapter 22 — Can A Religious Lawfully Belong to A College of Secular Teachers?",
+        "la": "Capitulum 22 — Can A Religious Lawfully Belong to A College of Secular Teachers?"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Chapter 23 — Is it Lawful for A Religious, Who Has Not the Care of Souls, to Preach and Hear Confessions?",
+        "la": "Capitulum 23 — Is it Lawful for A Religious, Who Has Not the Care of Souls, to Preach and Hear Confessions?"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Chapter 24 — Are Religious Bound to Manual Labour?",
+        "la": "Capitulum 24 — Are Religious Bound to Manual Labour?"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Chapter 25 — Is it Lawful For a Religious to Leave All That He Has, Reserving for Himself No Property, Either Private Or Common?",
+        "la": "Capitulum 25 — Is it Lawful For a Religious to Leave All That He Has, Reserving for Himself No Property, Either Private Or Common?"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Chapter 26 — Is it Lawful for Religious to Live on Alms?",
+        "la": "Capitulum 26 — Is it Lawful for Religious to Live on Alms?"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Chapter 30",
+        "la": "Capitulum 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Chapter 31",
+        "la": "Capitulum 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Chapter 32 — The Attacks Brought Against Religious on Account of Their Works of Charity",
+        "la": "Capitulum 32 — The Attacks Brought Against Religious on Account of Their Works of Charity"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Chapter 33 — How Religious Are Attacked on Account of the Journeys Which They Undertake for the Salvation of Souls",
+        "la": "Capitulum 33 — How Religious Are Attacked on Account of the Journeys Which They Undertake for the Salvation of Souls"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Chapter 34 — Attacks Made on Religious Because They Study",
+        "la": "Capitulum 34 — Attacks Made on Religious Because They Study"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Chapter 35 — Attacks Brought Against Religious on Account of Their Systematic Method of Preaching",
+        "la": "Capitulum 35 — Attacks Brought Against Religious on Account of Their Systematic Method of Preaching"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Chapter 40 — Accusations Levelled Against Religious, on the Grounds That They Recommend Themselves and the Orders to Which They Belong",
+        "la": "Capitulum 40 — Accusations Levelled Against Religious, on the Grounds That They Recommend Themselves and the Orders to Which They Belong"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Chapter 41 — CHAPTER 1** **Accusations That Religious Procure Letters of Recommendation",
+        "la": "Capitulum 41 — CHAPTER 1** **Accusations That Religious Procure Letters of Recommendation"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Chapter 42 — The Charges That Religious Resist Their Detractors",
+        "la": "Capitulum 42 — The Charges That Religious Resist Their Detractors"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Chapter 43 — Religious Are Condemned for Going to Law",
+        "la": "Capitulum 43 — Religious Are Condemned for Going to Law"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Chapter 44 — Religious Are Blamed for Causing Their Persecutors to Be Punished",
+        "la": "Capitulum 44 — Religious Are Blamed for Causing Their Persecutors to Be Punished"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Chapter 45 — Religious Are Accused of Seeking to Find Favour with Men",
+        "la": "Capitulum 45 — Religious Are Accused of Seeking to Find Favour with Men"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Chapter 46 — Objections Brought Against Religious, Because They Rejoice At the Good Works Which God Effects Through Their Instrumentality",
+        "la": "Capitulum 46 — Objections Brought Against Religious, Because They Rejoice At the Good Works Which God Effects Through Their Instrumentality"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Chapter 47 — Religious Are Blamed for Frequenting the Courts of Sovereigns",
+        "la": "Capitulum 47 — Religious Are Blamed for Frequenting the Courts of Sovereigns"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Chapter 50 — PROLOGUE — The Enemies of Religious Seek, in Every Way, to Defame Them",
+        "la": "Capitulum 50 — PROLOGUE — The Enemies of Religious Seek, in Every Way, to Defame Them"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Chapter 51 — First of All by Exaggerating Any Evil That May Exist Among Them",
+        "la": "Capitulum 51 — First of All by Exaggerating Any Evil That May Exist Among Them"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Chapter 52 — The Enemies of Religious Spread Abroad Against Them Reports of Which the Truth is Doubtful, for Instance, They Accuse Religious of Seeking Popularity and of Desiring to Gain Glory for Themselves, Instead of Labouring for the Glory of God",
+        "la": "Capitulum 52 — The Enemies of Religious Spread Abroad Against Them Reports of Which the Truth is Doubtful, for Instance, They Accuse Religious of Seeking Popularity and of Desiring to Gain Glory for Themselves, Instead of Labouring for the Glory of God"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Chapter 53 — The Enemies of Religious Propagate Distinct Falsehoods Concerning Them, Affirming, for Instance That Religious Are False Apostles, False Prophets, and False Christs",
+        "la": "Capitulum 53 — The Enemies of Religious Propagate Distinct Falsehoods Concerning Them, Affirming, for Instance That Religious Are False Apostles, False Prophets, and False Christs"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Chapter 54 — The Enemies of Religious Impute to Them All the Evils From Which the Church Has Ever Suffered. They Also Accuse Them of Being Wolves and Robbers and of Creeping Into Houses",
+        "la": "Capitulum 54 — The Enemies of Religious Impute to Them All the Evils From Which the Church Has Ever Suffered. They Also Accuse Them of Being Wolves and Robbers and of Creeping Into Houses"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Chapter 55 — The Enemies of Religious Attribute to Them the Evils Which Will Befall the Church in the Latter Days. They Try to Prove That the Times of Antichrist Are At Hand",
+        "la": "Capitulum 55 — The Enemies of Religious Attribute to Them the Evils Which Will Befall the Church in the Latter Days. They Try to Prove That the Times of Antichrist Are At Hand"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "Chapter 56 — The Opponents of Religious Life Strive to Prove That Religious Are Antichrists",
+        "la": "Capitulum 56 — The Opponents of Religious Life Strive to Prove That Religious Are Antichrists"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "Chapter 57 — The Enemies of Religious Endeavour to Cast Suspicion Upon Such of Their Works As Are Clearly Good: E.g., Prayer and Fasting",
+        "la": "Capitulum 57 — The Enemies of Religious Endeavour to Cast Suspicion Upon Such of Their Works As Are Clearly Good: E.g., Prayer and Fasting"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6 — EPILOGUE",
+        "la": "Capitulum 6 — EPILOGUE"
+      }
+    }
+  ]
+}
