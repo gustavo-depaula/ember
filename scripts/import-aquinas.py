@@ -1070,6 +1070,72 @@ def parse_linear_file_p_bilingual(path: Path) -> list[LinearChapter]:
     )]
 
 
+def parse_linear_file_by_h3(path: Path) -> list[LinearChapter]:
+    """Parser for files like SSLamentations.htm that lack <tr>/<td> and use
+    flat <h3>...</h3> chapter boundaries with <p> content between.
+
+    Each chapter spans from one <h3> heading to the next; content paragraphs
+    are <p> elements. English-only content (no bilingual table)."""
+    soup = load_html(path)
+    body = soup.find("body") or soup
+    chapters: list[LinearChapter] = []
+    current: dict | None = None
+    chapter_re = re.compile(
+        r"(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture|Lection|LESSON|Lesson)\s*([IVXLCDM\d]*)",
+        re.IGNORECASE,
+    )
+
+    def commit():
+        if current is None:
+            return
+        chapters.append(LinearChapter(
+            anchor=str(current["num"]),
+            num=current["num"],
+            title_en=current["title_en"],
+            title_la="",
+            body_en="\n\n".join(s for s in current["en"] if s).strip(),
+            body_la="",
+        ))
+
+    n_proem = 0
+    for el in body.find_all(["h2", "h3", "h4", "p", "blockquote"]):
+        if el.name in ("h2", "h3", "h4"):
+            text = td_text(el).strip()
+            m = chapter_re.search(text)
+            if m:
+                commit()
+                num_text = (m.group(1) or "").strip()
+                if num_text:
+                    num = _roman_or_int(num_text)
+                else:
+                    num = "prooemium" if any(w in text.lower() for w in ("prooemium", "prologue", "prologus")) else f"proem{n_proem}"
+                    n_proem += 1
+                # Title is "Chapter N: Subtitle" — drop the prefix.
+                title = re.sub(
+                    r"^(?:Chapter|Caput|Lectio|Lecture|Lection|Lesson|Prologus|Prooemium)\s*[IVXLCDM\d]*[:\.,]?\s*",
+                    "",
+                    text,
+                    flags=re.IGNORECASE,
+                ).strip()
+                current = {
+                    "num": num,
+                    "title_en": title,
+                    "en": [],
+                }
+                continue
+        if current is None:
+            continue
+        text = td_text(el).strip()
+        if not text:
+            continue
+        if el.name == "blockquote":
+            current["en"].append("\n".join(f"> {line.strip()}" for line in text.split("\n") if line.strip()))
+        else:
+            current["en"].append(text)
+    commit()
+    return chapters
+
+
 def parse_linear_file_single_chapter(path: Path) -> list[LinearChapter]:
     """Final fallback: treat the entire file as one chapter, collecting every
     bilingual <tr> into a single body. Used for opuscula that have no chapter
@@ -1184,11 +1250,18 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
                 chapters = parse_linear_file_single_chapter(src)
             elif spec.mode == "p-bilingual":
                 chapters = parse_linear_file_p_bilingual(src)
+            elif spec.mode == "h3-chapters":
+                chapters = parse_linear_file_by_h3(src)
             else:
                 chapters = parse_linear_file(src, spec.anchor_re)
                 # Auto-fall back to header-rows mode if anchors yielded nothing.
                 if not chapters:
                     chapters = parse_linear_file_by_header_rows(src)
+                # Try h3 splitting if no <tr>/<td> bilingual structure.
+                if not chapters or (len(chapters) == 1 and not chapters[0].body_la):
+                    h3_chapters = parse_linear_file_by_h3(src)
+                    if len(h3_chapters) > 1:
+                        chapters = h3_chapters
                 # Final fallback for unchaptered short treatises.
                 if not chapters:
                     chapters = parse_linear_file_single_chapter(src)
