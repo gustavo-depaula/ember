@@ -1,14 +1,14 @@
 # Sext
 
-Gloria Patri, et Filio, * et Spiritui Sancto.
+Gloria Patri, et Filio, * et Spiritui Sancto.  
 
-Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]
+Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]  
 
-{image 103}
+{image 103}  
 
-*Antiphona*. Pinguis est panis Christi et praebebit delicias regibus, alleluia.
+*Antiphona*. Pinguis est panis Christi et praebebit delicias regibus, alleluia.  
 
-Contra *Scala caelo* de sancto Dominico.
+Contra *Scala caelo* de sancto Dominico.  
 
 ***Psalmus 118: 81–128***
 
@@ -130,26 +130,30 @@ Contra *Scala caelo* de sancto Dominico.
 
 ***{image 064}***
 
-℟. Cibavit illos ex adipe frumenti, alleluia, alleluia.
+℟. Cibavit illos ex adipe frumenti, alleluia, alleluia.  
 
-℣. Et de petra melle saturavit eos, alleluia, alleluia. Gloria Patri et Filio et Spiritui Sancto. * Cibavit illos ex adipe frumenti, alleluia, alleluia.
+℣. Et de petra melle saturavit eos, alleluia, alleluia. Gloria Patri et Filio et Spiritui Sancto. * Cibavit illos ex adipe frumenti, alleluia, alleluia.  
 
-Versiculus
+Versiculus  
 
 ***[Ps 103 (104):14–15]***
 
 ***sext-versiculus***
 
-℣. Educas panem de terra, alleluia.
+℣. Educas panem de terra, alleluia.  
 
-℟. Et vinum laetificet cor hominis, alleluia.
+℟. Et vinum laetificet cor hominis, alleluia.  
 
-Oratio
+Oratio  
 
-***[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.]***
+***[℣. Domine, exaudi orationem meam.***
+***℟. Et clamor meus ad te veniat.]***
 
-*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.
+*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.  
 
-[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.℣. Benedicamus Domino.℟. Deo gratias.℣. Fidelium animae per misericordiam Dei requiescant in pace.℟. Amen.]
-
-Ad nonam
+[℣. Domine, exaudi orationem meam.  
+℟. Et clamor meus ad te veniat.  
+℣. Benedicamus Domino.  
+℟. Deo gratias.  
+℣. Fidelium animae per misericordiam Dei requiescant in pace.  
+℟. Amen.]

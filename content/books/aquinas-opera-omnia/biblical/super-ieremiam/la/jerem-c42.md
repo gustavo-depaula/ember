@@ -14,33 +14,33 @@
 
 > **213**. Hic incipit populi congregati instructio. Et dividitur in partes duas.
 
-Primo ponitur populi instructio generalis;
+Primo ponitur populi instructio generalis;  
 
-secundo specialis, Baruch, cap. 45: ***verbum quod locutus est Jeremias ad Baruch***.
+secundo specialis, Baruch, cap. 45: ***verbum quod locutus est Jeremias ad Baruch***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur prophetae instructio;
+Primo ponitur prophetae instructio;  
 
-secundo populi contradictio, ibi (cap. 43): ***factum est autem, cum complesset Jeremias loquens ad populum***.
+secundo populi contradictio, ibi (cap. 43): ***factum est autem, cum complesset Jeremias loquens ad populum***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur instructionis petitio;
+Primo ponitur instructionis petitio;  
 
-secundo ponitur instructio, ibi, ***cum autem completi essent decem dies***.
+secundo ponitur instructio, ibi, ***cum autem completi essent decem dies***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo petunt orationis suffragia: ubi ponitur petitio: ***cadat oratio nostra in conspectu tuo***; quasi dicat: locum habeat apud te. Eccli. 35: *oratio humiliantis se nubes penetrabit, et donec propinquet non consolabitur, et non discedet donec Altissimus aspiciat*. In quo captant benevolentiam. ***Et ora pro nobis***; ubi petunt beneficium. Isa. 37: *leva ergo orationem pro reliquiis quae repertae sunt*. ***Qui derelicti sumus pauci***: in quo flectunt ad misericordiam. Deuter. 28: *remanebitis pauci numero, qui prius eratis sicut astra caeli prae multitudine*,
+Primo petunt orationis suffragia: ubi ponitur petitio: ***cadat oratio nostra in conspectu tuo***; quasi dicat: locum habeat apud te. Eccli. 35: *oratio humiliantis se nubes penetrabit, et donec propinquet non consolabitur, et non discedet donec Altissimus aspiciat*. In quo captant benevolentiam. ***Et ora pro nobis***; ubi petunt beneficium. Isa. 37: *leva ergo orationem pro reliquiis quae repertae sunt*. ***Qui derelicti sumus pauci***: in quo flectunt ad misericordiam. Deuter. 28: *remanebitis pauci numero, qui prius eratis sicut astra caeli prae multitudine*,  
 
-***et annuntiet***: in quo expetitur orationis fructus. ***Dominus***. Isa. 8: *numquid non populus a Deo suo requiret visionem pro vivis, ac mortuis? **Viam***, quia non in Aegyptum ire decreverant. Supra 10: ***non est hominis via ejus, nec viri est ut ambulat, et dirigat gressus suos***. 2 Paral. 20: *cum ignoremus quid agere debeamus, hoc solum habemus residui ut oculos nostros dirigamus ad te*.
+***et annuntiet***: in quo expetitur orationis fructus. ***Dominus***. Isa. 8: *numquid non populus a Deo suo requiret visionem pro vivis, ac mortuis? **Viam***, quia non in Aegyptum ire decreverant. Supra 10: ***non est hominis via ejus, nec viri est ut ambulat, et dirigat gressus suos***. 2 Paral. 20: *cum ignoremus quid agere debeamus, hoc solum habemus residui ut oculos nostros dirigamus ad te*.  
 
-Ponitur etiam prophetae promissio, ibi, ***dixit***.Here, the Parma edition reads *dicit*, “he says,” in place of *dixit*, “he said.” Promittit autem orationes, ***ecce ego***. 1 Reg. 12: *absit a me peccatum hoc in Domino, ut cessem orare pro vobis*. Et denuntiationem: ***omne verbum quodcumque responderit mihi, indicabo vobis***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.
+Ponitur etiam prophetae promissio, ibi, ***dixit***.Here, the Parma edition reads *dicit*, “he says,” in place of *dixit*, “he said.” Promittit autem orationes, ***ecce ego***. 1 Reg. 12: *absit a me peccatum hoc in Domino, ut cessem orare pro vobis*. Et denuntiationem: ***omne verbum quodcumque responderit mihi, indicabo vobis***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.  
 
-Secundo promittunt obedientiam, quam tamen servaturi non erant: ***et illi dixerunt***. Simile Exod. 19: *cuncta quae locutus est nobis Dominus, faciemus*.
+Secundo promittunt obedientiam, quam tamen servaturi non erant: ***et illi dixerunt***. Simile Exod. 19: *cuncta quae locutus est nobis Dominus, faciemus*.  
 
-Lectio 2
+Lectio 2  
 
 ***^42:7^ Cum autem completi essent decem dies, factum est verbum Domini ad Jeremiam.***
 
@@ -76,14 +76,14 @@ Lectio 2
 
 > **214**. Hic ponitur instructio: et circa hoc tria.
 
-Primo inducit revelantis auctoritatem: ***haec dicit Dominus***, quasi mediator inter vos, et Deum, deferens orationes vestras ad Deum et responsum ipsius ad vos. Deut. 5: *ego sequester, et medius fui inter Deum et vos in tempore illo, ut annuntiarem vobis verba ejus*.
+Primo inducit revelantis auctoritatem: ***haec dicit Dominus***, quasi mediator inter vos, et Deum, deferens orationes vestras ad Deum et responsum ipsius ad vos. Deut. 5: *ego sequester, et medius fui inter Deum et vos in tempore illo, ut annuntiarem vobis verba ejus*.  
 
-Secundo hortatur ad quietem dupliciter.
+Secundo hortatur ad quietem dupliciter.  
 
-Excludendo mala divinae punitionis, ponens promissum: ***aedificabo***, bona conferendo, ***plantabo***, confirmando. Et excludens impedimentum: ***jam enim placatus sum***. Exod. 32: *et placatus est Dominus ne faceret malum adversus populum suum*. Psal. 102: *non in perpetuum irascetur, neque in aeternum comminabitur*.
+Excludendo mala divinae punitionis, ponens promissum: ***aedificabo***, bona conferendo, ***plantabo***, confirmando. Et excludens impedimentum: ***jam enim placatus sum***. Exod. 32: *et placatus est Dominus ne faceret malum adversus populum suum*. Psal. 102: *non in perpetuum irascetur, neque in aeternum comminabitur*.  
 
-Et excludit timorem hostilis persecutionis faciens securitatem: ***nolite timere***. Isa. 51: *quis tu ut timeas ab homine mortali, et a filio hominis, qui quasi fenum ita arescet?*
+Et excludit timorem hostilis persecutionis faciens securitatem: ***nolite timere***. Isa. 51: *quis tu ut timeas ab homine mortali, et a filio hominis, qui quasi fenum ita arescet?*  
 
-Et promittit auxilii opem: ***quia vobiscum sum***. Supra 20: ***Dominus mecum est tamquam bellator fortis. Idcirco qui persequuntur me cadent, et infirmi erunt, et confundentur vehementer: quia non intellexerunt opprobrium sempiternum, quod numquam delebitur***. Isa. 50: *Dominus Deus auxiliator meus, et ideo non sum confusus*.
+Et promittit auxilii opem: ***quia vobiscum sum***. Supra 20: ***Dominus mecum est tamquam bellator fortis. Idcirco qui persequuntur me cadent, et infirmi erunt, et confundentur vehementer: quia non intellexerunt opprobrium sempiternum, quod numquam delebitur***. Isa. 50: *Dominus Deus auxiliator meus, et ideo non sum confusus*.  
 
 *Explicit expositio litteralis S. Thomae super Jeremiam, quam morte praeventus complere non potuit*.

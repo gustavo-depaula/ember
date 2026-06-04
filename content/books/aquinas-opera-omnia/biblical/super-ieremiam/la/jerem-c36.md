@@ -10,19 +10,19 @@
 
 > **189**. Hic primo ponitur scripturae descriptio;
 
-secundo scripturae destructio, ibi, ***rex autem sedebat in domo hyemali***;
+secundo scripturae destructio, ibi, ***rex autem sedebat in domo hyemali***;  
 
-tertio restauratio, ibi, ***et factum est verbum Domini ad Jeremiam***.
+tertio restauratio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponit scribendi praeceptum: ***tolle volumen***. Habac. 2: *scribe visum, et explana eum super tabulas, ut percurrat qui legerit eum*.
+Primo ponit scribendi praeceptum: ***tolle volumen***. Habac. 2: *scribe visum, et explana eum super tabulas, ut percurrat qui legerit eum*.  
 
-Secundo ponit scripturae fructum: ***si forte audiente domo Juda***. Ezech. 33: *si impius egerit poenitentiam ab omnibus peccatis suis quae operatus est, et custodierit omnia praecepta mea, et fecerit judicium et justitiam; vita vivet et non morietur*.
+Secundo ponit scripturae fructum: ***si forte audiente domo Juda***. Ezech. 33: *si impius egerit poenitentiam ab omnibus peccatis suis quae operatus est, et custodierit omnia praecepta mea, et fecerit judicium et justitiam; vita vivet et non morietur*.  
 
-Tertio scripturae ministrum: ***vocavit ergo Jeremias Baruch***. Apoc. 1: *quod vides scribe in libro, et mitte septem ecclesiis quae sunt in Asia*.
+Tertio scripturae ministrum: ***vocavit ergo Jeremias Baruch***. Apoc. 1: *quod vides scribe in libro, et mitte septem ecclesiis quae sunt in Asia*.  
 
-Lectio 2
+Lectio 2  
 
 ***^36:5^ Et praecepit Jeremias Baruch, dicens: ego clausus sum, nec valeo ingredi domum Domini.***
 
@@ -38,23 +38,23 @@ Lectio 2
 
 > **190**. Hic primo ponitur denuntiatio ad plebem;
 
-secundo ad principes, ibi, ***cumque audisset Michaeas***;
+secundo ad principes, ibi, ***cumque audisset Michaeas***;  
 
-tertio ad regem, ibi, ***igitur cum audissent omnia verba***.
+tertio ad regem, ibi, ***igitur cum audissent omnia verba***.  
 
-Circa primum primo ponitur denuntiandi praeceptum: ***ego clausus sum***. 2 Tim. 2: *labora sicut bonus miles Christi Jesu*. Phil. 1: *ut plures e fratribus in Domino, confidentes in vinculis meis, abundantius auderent sine timore verbum Dei loqui*.
+Circa primum primo ponitur denuntiandi praeceptum: ***ego clausus sum***. 2 Tim. 2: *labora sicut bonus miles Christi Jesu*. Phil. 1: *ut plures e fratribus in Domino, confidentes in vinculis meis, abundantius auderent sine timore verbum Dei loqui*.  
 
-Secundo ponitur denuntiandi modus quantum ad locum, ***in domo Domini***, qui est locus devotionis. Isa. 56: *domus mea domus orationis vocabitur cunctis populis, ait Dominus Deus*. Quantum ad tempus, ***in die jejunii***, quod est tempus contritionis. Isa. 58: *nonne hoc est magis jejunium quod elegi? Dissolve colligationes impietatis, solve fasciculos deprimentes. Dimitte eos qui confracti sunt, liberos, et omne onus disrumpe. Frange esurienti panem tuum et egenos, vagosque induc in domum tuam. Cum videris nudum, operi eum, et carnem tuam ne despexeris*. Quantum ad audientes, ***audiente populo***. Quantum ad advenas: ***insuper et audiente universo Juda, qui veniunt de civitatibus suis***.
+Secundo ponitur denuntiandi modus quantum ad locum, ***in domo Domini***, qui est locus devotionis. Isa. 56: *domus mea domus orationis vocabitur cunctis populis, ait Dominus Deus*. Quantum ad tempus, ***in die jejunii***, quod est tempus contritionis. Isa. 58: *nonne hoc est magis jejunium quod elegi? Dissolve colligationes impietatis, solve fasciculos deprimentes. Dimitte eos qui confracti sunt, liberos, et omne onus disrumpe. Frange esurienti panem tuum et egenos, vagosque induc in domum tuam. Cum videris nudum, operi eum, et carnem tuam ne despexeris*. Quantum ad audientes, ***audiente populo***. Quantum ad advenas: ***insuper et audiente universo Juda, qui veniunt de civitatibus suis***.  
 
-Tertio ponit denuntiationis fructum, ponens utilitatem: ***si forte cadat oratio eorum in conspectu Domini***, idest acceptetur. Et consequentem sanctitatem: ***et revertatur unusquisque a via sua pessima, quoniam magnus furor, et indignatio est***. 4 Reg. 2: *magna ira Domini succensa est contra nos, quia non audierunt patres nostri verba libri hujus, ut facerent omne quod scriptum est nobis*.
+Tertio ponit denuntiationis fructum, ponens utilitatem: ***si forte cadat oratio eorum in conspectu Domini***, idest acceptetur. Et consequentem sanctitatem: ***et revertatur unusquisque a via sua pessima, quoniam magnus furor, et indignatio est***. 4 Reg. 2: *magna ira Domini succensa est contra nos, quia non audierunt patres nostri verba libri hujus, ut facerent omne quod scriptum est nobis*.  
 
-Quarto ponitur praecepti complementum quantum ad actum: ***et fecit Baruch***. Hebr. ult.: *obedite praepositis vestris, et subjacete eis*.
+Quarto ponitur praecepti complementum quantum ad actum: ***et fecit Baruch***. Hebr. ult.: *obedite praepositis vestris, et subjacete eis*.  
 
-Quantum ad tempus. ***Factum est autem in anno quinto Joakim***. Joel 2: *sanctificate Ecclesiam, coadunate senes, congregate parvulos et sugentes ubera*.
+Quantum ad tempus. ***Factum est autem in anno quinto Joakim***. Joel 2: *sanctificate Ecclesiam, coadunate senes, congregate parvulos et sugentes ubera*.  
 
-Quantum ad locum: ***legitque Baruch . . . in introitu portae novae***, quam fecerat Joas. 2 Paral. 27: ***in vestibulo superiori***, idest in superiori parte atrii, in quo sacerdotes immolabant. 2 Esdrae 9: *legerunt in volumine Domini Dei sui quater in die, et quater in nocte*.
+Quantum ad locum: ***legitque Baruch . . . in introitu portae novae***, quam fecerat Joas. 2 Paral. 27: ***in vestibulo superiori***, idest in superiori parte atrii, in quo sacerdotes immolabant. 2 Esdrae 9: *legerunt in volumine Domini Dei sui quater in die, et quater in nocte*.  
 
-Lectio 3
+Lectio 3  
 
 ***^36:11^ Cumque audisset Michaeas filius Gamariae filii Saphan omnes sermones Domini ex libro,***
 
@@ -70,15 +70,15 @@ Lectio 3
 
 > **191**. Hic ponitur denuntiatio ad principes:
 
-et primo ponitur de scriptura prophetiae, facta significatio ad principes: ***et nuntiavit eis Michaeas***. Apoc. ult.: *qui audit dicat: veni*.
+et primo ponitur de scriptura prophetiae, facta significatio ad principes: ***et nuntiavit eis Michaeas***. Apoc. ult.: *qui audit dicat: veni*.  
 
-Secundo scripturae petitio: ***miserunt itaque omnes principes ad Baruch . . . dicentes volumen ex quo legisti populo sume in manu tua***: mystice, in operatione. Eccle. 9: *quodcumque potest facere manus tua, instanter operare: quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas*. Apportatio, ***tulit ergo***.
+Secundo scripturae petitio: ***miserunt itaque omnes principes ad Baruch . . . dicentes volumen ex quo legisti populo sume in manu tua***: mystice, in operatione. Eccle. 9: *quodcumque potest facere manus tua, instanter operare: quia nec opus, nec ratio, nec sapientia, nec scientia erunt apud inferos, quo tu properas*. Apportatio, ***tulit ergo***.  
 
-Tertio ponitur scripturae recitatio: ***et dixerunt ad eum: sede, et lege haec in auribus nostris***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.
+Tertio ponitur scripturae recitatio: ***et dixerunt ad eum: sede, et lege haec in auribus nostris***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.  
 
-Et lectionis effectus: ***igitur cum audissent omnia verba, obstupuerunt***. Supra 23: ***numquid non verba mea sunt quasi ignis ardens, dicit Dominus, et quasi malleus conterens petras?***
+Et lectionis effectus: ***igitur cum audissent omnia verba, obstupuerunt***. Supra 23: ***numquid non verba mea sunt quasi ignis ardens, dicit Dominus, et quasi malleus conterens petras?***  
 
-Lectio 4
+Lectio 4  
 
 ***^36:16b^ et dixerunt ad Baruch: nuntiare debemus regi omnes sermones istos.***
 
@@ -94,19 +94,19 @@ Lectio 4
 
 > **192**. Hic ponitur denuntiatio ad regem
 
-et primo ponitur denuntiationis praeparatio: exponunt enim denuntiandi propositum: ***nuntiare debemus***: quia ipse potest peccata populi corrigere. Proverb. 20: *rex qui sedet in solio judicii, dissipat omne malum intuitu suo*.
+et primo ponitur denuntiationis praeparatio: exponunt enim denuntiandi propositum: ***nuntiare debemus***: quia ipse potest peccata populi corrigere. Proverb. 20: *rex qui sedet in solio judicii, dissipat omne malum intuitu suo*.  
 
-Perscrutantur editionis modum: unde primo ponitur quaestio: ***et interrogaverunt eum, dicentes: indica nobis quomodo scripsisti omnes sermones istos ex ore ejus***; ut ex modo scirent, utrum divino Spiritu edita scriptura esset. 1 Joan. 4: *nolite omni spiritui credere, sed probate spiritus an ex Deo sint: quoniam multi pseudoprophetae exierunt in mundum*.
+Perscrutantur editionis modum: unde primo ponitur quaestio: ***et interrogaverunt eum, dicentes: indica nobis quomodo scripsisti omnes sermones istos ex ore ejus***; ut ex modo scirent, utrum divino Spiritu edita scriptura esset. 1 Joan. 4: *nolite omni spiritui credere, sed probate spiritus an ex Deo sint: quoniam multi pseudoprophetae exierunt in mundum*.  
 
-Et ponitur responsio: ***dixit autem Baruch: ex ore suo loquebatur quasi legens***, sine impedimento et praemeditatione. Matth. 10: *nolite cogitare quomodo, aut quid loquamini, dabitur enim vobis in illa hora quid loquamini: non enim vos estis qui loquimini, sed Spiritus Patris vestri qui loquitur in vobis*. Supra 1: ***ecce dedi verba mea in ore tuo***, etc.
+Et ponitur responsio: ***dixit autem Baruch: ex ore suo loquebatur quasi legens***, sine impedimento et praemeditatione. Matth. 10: *nolite cogitare quomodo, aut quid loquamini, dabitur enim vobis in illa hora quid loquamini: non enim vos estis qui loquimini, sed Spiritus Patris vestri qui loquitur in vobis*. Supra 1: ***ecce dedi verba mea in ore tuo***, etc.  
 
-Et datum absconsionis consilium, ***abscondere***, timentes de pertinacia et crudelitate regis. 3 Reg. 18: *numquid non indicatum est tibi domino meo quid fecerim, cum interficeret Jezabel prophetas Domini, quod absconderim de prophetis Domini centum viros, quinquagenos, et quinquagenos in speluncis, et paverim eos pane et aqua? Et nunc tu dicis: vade et dic domino tuo: adest Elias, ut interficiat me?*
+Et datum absconsionis consilium, ***abscondere***, timentes de pertinacia et crudelitate regis. 3 Reg. 18: *numquid non indicatum est tibi domino meo quid fecerim, cum interficeret Jezabel prophetas Domini, quod absconderim de prophetis Domini centum viros, quinquagenos, et quinquagenos in speluncis, et paverim eos pane et aqua? Et nunc tu dicis: vade et dic domino tuo: adest Elias, ut interficiat me?*  
 
-Secundo ponitur denuntiatio: ***et ingressi sunt***. Sapient. 6: *ad vos ergo, o reges, sunt hi sermones mei, ut discatis sapientiam, ne excidatis*.
+Secundo ponitur denuntiatio: ***et ingressi sunt***. Sapient. 6: *ad vos ergo, o reges, sunt hi sermones mei, ut discatis sapientiam, ne excidatis*.  
 
-Tertio ponitur scripturae recitatio: ***misitque rex Judi***; Job 29: *cumque sederem quasi rex circumstante exercitu, eram tamen maerentium consolator*.
+Tertio ponitur scripturae recitatio: ***misitque rex Judi***; Job 29: *cumque sederem quasi rex circumstante exercitu, eram tamen maerentium consolator*.  
 
-Lectio 5
+Lectio 5  
 
 ***^36:22^ Rex autem sedebat in domo hiemali in mense nono, et posita erat arula coram eo plena prunis.***
 
@@ -118,31 +118,31 @@ Lectio 5
 
 > **193**. Hic ponitur scripturae destructio: et circa hoc duo.
 
-Primo ponitur scripturae destructio;
+Primo ponitur scripturae destructio;  
 
-secundo scribentium persecutio, ibi, ***et praecepit rex Jeremiel***.
+secundo scribentium persecutio, ibi, ***et praecepit rex Jeremiel***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponitur dispositio ad destructionem: ***posita erat arula coram eo plena prunis in domo hyemali***: habebat enim propter delicias domos speciales ad hyemem et aestatem. Amos 3: *percutiam domum hyemalem cum domo aestiva, et peribunt domus eburneae, et dissipabuntur aedes multae*.
+Primo ponitur dispositio ad destructionem: ***posita erat arula coram eo plena prunis in domo hyemali***: habebat enim propter delicias domos speciales ad hyemem et aestatem. Amos 3: *percutiam domum hyemalem cum domo aestiva, et peribunt domus eburneae, et dissipabuntur aedes multae*.  
 
-Secundo ponitur destructio: ***cumque legisset Judi tres pagellas***, parvas paginas, ***scalpello***, cultello, quo parabat pennam. Isa. 30: *auferte a me viam, declinate a me semitam, cesset a facie vestra Sanctus Israel*.
+Secundo ponitur destructio: ***cumque legisset Judi tres pagellas***, parvas paginas, ***scalpello***, cultello, quo parabat pennam. Isa. 30: *auferte a me viam, declinate a me semitam, cesset a facie vestra Sanctus Israel*.  
 
-Et sic fecerunt quod facere non debuerunt, omiserunt etiam quod facere debuerunt. ***Et non timuerunt***, exemplo Josiae. 4 Reg. 32: *cum audisset rex verba libri legis, scidit vestimenta sua*, etc.
+Et sic fecerunt quod facere non debuerunt, omiserunt etiam quod facere debuerunt. ***Et non timuerunt***, exemplo Josiae. 4 Reg. 32: *cum audisset rex verba libri legis, scidit vestimenta sua*, etc.  
 
-Tertio ponitur principum contradictio: ***verumtamen Elnathan, et Dalajas, et Gamarias contradixerunt regi***. Simile 2 Reg. ult.: *obtinuit sermo regis verba Joab, et principum ejus*, etc.
+Tertio ponitur principum contradictio: ***verumtamen Elnathan, et Dalajas, et Gamarias contradixerunt regi***. Simile 2 Reg. ult.: *obtinuit sermo regis verba Joab, et principum ejus*, etc.  
 
-Lectio 6
+Lectio 6  
 
 ***^36:26^ Et praecepit rex Jeremiel filio Amelech, et Saraiae filio Ezriel, et Selemiae filio Abdeel, ut comprehenderent Baruch scribam, et Jeremiam prophetam. Abscondit autem eos Dominus.***
 
 > **194**. Hic ponitur scribentium persecutio:
 
-et primo ponitur iniquum praeceptum, ***ut comprehenderent***;
+et primo ponitur iniquum praeceptum, ***ut comprehenderent***;  
 
-secundo ponitur divinum auxilium: ***abscondit autem eos Dominus***; et fecit quod inveniri non possent. Psalm. 33: *custodit Dominus omnia ossa eorum, unum ex his non conteretur*.
+secundo ponitur divinum auxilium: ***abscondit autem eos Dominus***; et fecit quod inveniri non possent. Psalm. 33: *custodit Dominus omnia ossa eorum, unum ex his non conteretur*.  
 
-Lectio 7
+Lectio 7  
 
 ***^36:27^ Et factum est verbum Domini ad Jeremiam prophetam postquam combusserat rex volumen, et sermones quos scripserat Baruch ex ore Jeremiae, dicens:***
 
@@ -158,14 +158,12 @@ Lectio 7
 
 > **195**. Hic ponitur scripturae restauratio:
 
-et primo ponitur restaurandi praeceptum, ***rursum tolle***. Supra 1: ***pugnabunt adversum te, et non praevalebunt, quia ego tecum sum, ait Dominus, ut liberem te***.
+et primo ponitur restaurandi praeceptum, ***rursum tolle***. Supra 1: ***pugnabunt adversum te, et non praevalebunt, quia ego tecum sum, ait Dominus, ut liberem te***.  
 
-Secundo destruenti comminatur interitum, ibi, ***et ad Joakim regem Juda dices***. Unde arguit culpam: ***tu combussisti***. Prov. 29: *viro qui corripientem dura cervice contemnit, repentinus ei superveniet interitus, et eum sanitas non sequetur*.
+Secundo destruenti comminatur interitum, ibi, ***et ad Joakim regem Juda dices***. Unde arguit culpam: ***tu combussisti***. Prov. 29: *viro qui corripientem dura cervice contemnit, repentinus ei superveniet interitus, et eum sanitas non sequetur*.  
 
-Et comminatur poenam: ***propterea haec dicit Dominus***: regalis successionis terminationem: ***non erit ex eo qui sedeat super solium David***. Supra 22: ***non erit de semine ejus vir qui sedeat super solium David, et potestatem habeat ultra in Juda***. Cadaveris abjectionem: ***cadaver ejus projicietur***, sepultura asini. Isa. 14: *tu autem projectus es de sepulcro tuo quasi stirps inutilis, pollutus et obvolutus, cum his qui interfecti sunt gladio, et descenderunt usque ad fundamenta laci*.
+Et comminatur poenam: ***propterea haec dicit Dominus***: regalis successionis terminationem: ***non erit ex eo qui sedeat super solium David***. Supra 22: ***non erit de semine ejus vir qui sedeat super solium David, et potestatem habeat ultra in Juda***. Cadaveris abjectionem: ***cadaver ejus projicietur***, sepultura asini. Isa. 14: *tu autem projectus es de sepulcro tuo quasi stirps inutilis, pollutus et obvolutus, cum his qui interfecti sunt gladio, et descenderunt usque ad fundamenta laci*.  
 
-Subditorum destructionem quantum ad domesticos: ***visitabo contra eum et contra semen ejus***. Psalm. 88: *visitabo in virga iniquitates eorum, et in verberibus peccata eorum*. Et quantum ad alios: ***et adducam super eos, et super habitatores Jerusalem, et super viros Juda omne malum***. Isa. 43: *ego Dominus, et non est alter, formans lucem et creans tenebras, faciens pacem et creans malum. Ego Dominus faciens omnia haec*.
+Subditorum destructionem quantum ad domesticos: ***visitabo contra eum et contra semen ejus***. Psalm. 88: *visitabo in virga iniquitates eorum, et in verberibus peccata eorum*. Et quantum ad alios: ***et adducam super eos, et super habitatores Jerusalem, et super viros Juda omne malum***. Isa. 43: *ego Dominus, et non est alter, formans lucem et creans tenebras, faciens pacem et creans malum. Ego Dominus faciens omnia haec*.  
 
 Tertio ponit praecepti complementum: ***Jeremias autem tulit volumen aliud***. Sap. 7: *sapientia autem vincit malitiam*.
-
-Caput 37

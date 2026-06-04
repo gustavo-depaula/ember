@@ -14,39 +14,39 @@
 
 > **206**. Posita destructione urbis, et populi captivitate, ponit reliquiarum salutem.
 
-Et primo ponitur populi congregatio;
+Et primo ponitur populi congregatio;  
 
-secundo congregati populi disturbatio, cap. 41: ***et factum est in mense septimo***.
+secundo congregati populi disturbatio, cap. 41: ***et factum est in mense septimo***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur congregatio;
+Primo ponitur congregatio;  
 
-secundo quarumdam insidiarum revelatio, quae pacem populi perturbabant, ibi, ***Johanan autem filius Caree***.
+secundo quarumdam insidiarum revelatio, quae pacem populi perturbabant, ibi, ***Johanan autem filius Caree***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponitur congregatio populi quantum ad prophetam;
+Primo ponitur congregatio populi quantum ad prophetam;  
 
-secundo quantum ad principes, ibi, ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***;
+secundo quantum ad principes, ibi, ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***;  
 
-tertio quantum ad plebem, ibi, ***sed et omnes Judaei***.
+tertio quantum ad plebem, ibi, ***sed et omnes Judaei***.  
 
-Circa primum quatuor.
+Circa primum quatuor.  
 
-Primo ponitur liberationis praenuntiatio. ***Sermo qui factus est ad Jeremiam***. Cum nullus sermo sequatur, intelligitur hoc primum sermone revelatum quod postea opere narratur expletum. Psalm. 68: *exaudivit pauperes, et vinctos suos non despexit*.
+Primo ponitur liberationis praenuntiatio. ***Sermo qui factus est ad Jeremiam***. Cum nullus sermo sequatur, intelligitur hoc primum sermone revelatum quod postea opere narratur expletum. Psalm. 68: *exaudivit pauperes, et vinctos suos non despexit*.  
 
-Secundo ponitur prophetae liberatio: ***tollens ergo princeps militiae Jeremiam***. Et assignat rationem, veritatem scilicet prophetae: ***Dominus Deus tuus locutus est***, per te. Amos 3: *non est malum in civitate quod Dominus non fecerit*.
+Secundo ponitur prophetae liberatio: ***tollens ergo princeps militiae Jeremiam***. Et assignat rationem, veritatem scilicet prophetae: ***Dominus Deus tuus locutus est***, per te. Amos 3: *non est malum in civitate quod Dominus non fecerit*.  
 
-Et ponit liberationem: ***nunc ergo ecce solvi te hodie de catenis***. Psalm. 106: *eduxit eos de tenebris, et umbra mortis, et vincula eorum disrupit*.
+Et ponit liberationem: ***nunc ergo ecce solvi te hodie de catenis***. Psalm. 106: *eduxit eos de tenebris, et umbra mortis, et vincula eorum disrupit*.  
 
-Tertio datur ei optio, utrum vadat in Babylonem, vel cum Godolia remaneat, vel quocumque placeat, pergat: ***si placet***. Genes. 13: *ecce terra in conspectu tuo* etc. Proverb. 4: *ducam te per semitas aequitatis, quas cum ingressus fueris, non arctabuntur gressus tui, et currens non habebis offendiculum*.
+Tertio datur ei optio, utrum vadat in Babylonem, vel cum Godolia remaneat, vel quocumque placeat, pergat: ***si placet***. Genes. 13: *ecce terra in conspectu tuo* etc. Proverb. 4: *ducam te per semitas aequitatis, quas cum ingressus fueris, non arctabuntur gressus tui, et currens non habebis offendiculum*.  
 
-Et ponitur provisio sibi facta: ***dedit quoque ei magister militiae cibaria***. Jud. 14: *de comedente exivit cibus, et de forti egressa est dulcedo*.
+Et ponitur provisio sibi facta: ***dedit quoque ei magister militiae cibaria***. Jud. 14: *de comedente exivit cibus, et de forti egressa est dulcedo*.  
 
-Quarto ponitur prophetae electio: ***venit autem Jeremias ad Godoliam***. Ideo non in Chaldaeam ivit, quia illi habebant ad consolationem Danielem et Ezechielem. Isa. 6: *ad annuntiandum mansuetis misit me, ut mederer contritis corde, et praedicarem captivis indulgentiam, et clausis apertionem; ut praedicarem annum placabilem Domino, et diem ultionis Deo nostro; ut consolarer omnes lugentes, et ponerem consolationem lugentibus Sion*.
+Quarto ponitur prophetae electio: ***venit autem Jeremias ad Godoliam***. Ideo non in Chaldaeam ivit, quia illi habebant ad consolationem Danielem et Ezechielem. Isa. 6: *ad annuntiandum mansuetis misit me, ut mederer contritis corde, et praedicarem captivis indulgentiam, et clausis apertionem; ut praedicarem annum placabilem Domino, et diem ultionis Deo nostro; ut consolarer omnes lugentes, et ponerem consolationem lugentibus Sion*.  
 
-Lectio 2
+Lectio 2  
 
 ***^40:7^ Cumque audissent omnes principes exercitus, qui dispersi fuerant per regiones, ipsi et socii eorum, quod praefecisset rex Babylonis Godoliam filium Ahicam terrae, et quod commendasset ei viros et mulieres et parvulos et de pauperibus terrae qui non fuerant translati in Babylonem:***
 
@@ -62,15 +62,15 @@ Lectio 2
 
 > **207**. Hic ponitur congregatio principum:
 
-et primo ponitur eorum congregatio: ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***. Eccl. 10: *rex insipiens perdet populum suum, et civitates inhabitabuntur per sensum prudentium*.
+et primo ponitur eorum congregatio: ***cumque audissent omnes principes exercitus . . . venerunt ad Godoliam***. Eccl. 10: *rex insipiens perdet populum suum, et civitates inhabitabuntur per sensum prudentium*.  
 
-Secundo ponitur congregatorum assecuratio: ***et juravit eis Godolias . . . nolite timere***. 2 Petri 2: *servi subditi estote in omni timore dominis, non tantum bonis et modestis, sed etiam discolis*.
+Secundo ponitur congregatorum assecuratio: ***et juravit eis Godolias . . . nolite timere***. 2 Petri 2: *servi subditi estote in omni timore dominis, non tantum bonis et modestis, sed etiam discolis*.  
 
-Tertio ostendit securitatis modum, ***ecce ego***; quasi dicat: ego sustinebo totum onus, ut vos in pace sitis. 1 Cor. 4: *nos stulti propter Christum, vos autem prudentes in Christo*. Isa. 53: *vere languores nostros ipse tulit, et dolores nostros ipse portavit*. Joan. 10: *bonus pastor animam suam ponit pro ovibus suis*.
+Tertio ostendit securitatis modum, ***ecce ego***; quasi dicat: ego sustinebo totum onus, ut vos in pace sitis. 1 Cor. 4: *nos stulti propter Christum, vos autem prudentes in Christo*. Isa. 53: *vere languores nostros ipse tulit, et dolores nostros ipse portavit*. Joan. 10: *bonus pastor animam suam ponit pro ovibus suis*.  
 
-***Sed et omnes Judaei qui erant in Moab*** etc. Hic ponitur congregatio plebis. Ps. 146, *dispersiones Israelis congregavit*.
+***Sed et omnes Judaei qui erant in Moab*** etc. Hic ponitur congregatio plebis. Ps. 146, *dispersiones Israelis congregavit*.  
 
-Lectio 3
+Lectio 3  
 
 ***^40:13^ Johanan autem filius Caree, et omnes principes exercitus, qui dispersi fuerant in regionibus, venerunt ad Godoliam in Masphath,***
 
@@ -82,12 +82,10 @@ Lectio 3
 
 > **208**. Hic ponitur insidiarum machinatio:
 
-et primo facta a principibus communiter: ***scito quod Baalis***, qui adhuc Chaldaeis resistebat. ***Et non credidit***, credens dolosis verbis Ismahelis. Prov. 14: *innocens credit omni verbo, astutus considerat gressus suos*.
+et primo facta a principibus communiter: ***scito quod Baalis***, qui adhuc Chaldaeis resistebat. ***Et non credidit***, credens dolosis verbis Ismahelis. Prov. 14: *innocens credit omni verbo, astutus considerat gressus suos*.  
 
-Secundo facta a quodam specialiter, ***Johanan***.
+Secundo facta a quodam specialiter, ***Johanan***.  
 
-Et primo excogitatio: ***ibo***. Prov. 11: *in bonis justorum exaltabitur civitas, et in perditione impiorum erit laudatio*.
+Et primo excogitatio: ***ibo***. Prov. 11: *in bonis justorum exaltabitur civitas, et in perditione impiorum erit laudatio*.  
 
 Secundo ponitur repulsio: ***et ait Godolias***. Supra 11: ***et non cognovi quia cogitaverunt super me consilia, dicentes: mittamus lignum in panem ejus, et eradamus eum de terra viventium***.
-
-Caput 41

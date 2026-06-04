@@ -20,39 +20,39 @@
 
 > **107**. Hic comminatur consummatam poenam:
 
-et primo designat praedicationis locum: ***ad vallem filiorum Annon, quae est juxta introitum portae fictilis***, ubi figuli habitabant; ***et praedicabis ibi verba quae ego loquor ad te***. Ezech. 3: *audies de ore meo verbum, et annuntiabis eis ex me*.
+et primo designat praedicationis locum: ***ad vallem filiorum Annon, quae est juxta introitum portae fictilis***, ubi figuli habitabant; ***et praedicabis ibi verba quae ego loquor ad te***. Ezech. 3: *audies de ore meo verbum, et annuntiabis eis ex me*.  
 
-Secundo ponit praedicationis verbum:
+Secundo ponit praedicationis verbum:  
 
-et primo in loco a Deo praefinito;
+et primo in loco a Deo praefinito;  
 
-secundo in templo, ibi, ***venit autem Jeremias de Tophet***.
+secundo in templo, ibi, ***venit autem Jeremias de Tophet***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo praedicit eam verbo;
+Primo praedicit eam verbo;  
 
-secundo praesignat eam facto ibi, ***et conteres lagunculam***.
+secundo praesignat eam facto ibi, ***et conteres lagunculam***.  
 
-Circa primum
+Circa primum  
 
-primo comminatur poenam in generali, petens audientiam: ***dices, audite***. Ps. 2: *et nunc reges intelligite, erudimini qui judicatis terram*. Praedicens poenam: ***haec dicit Dominus . . . tinnient***, quasi ex commotione cordis prae stupore, sicut ex commotione magni soni. 1 Reg. 3: *ecce ego faciam verbum in Israel, quod quicumque audierit, tinnient ambae aures ejus*. 4 Reg. 21: *ecce ego inducam mala super Jerusalem, et Judam, ut quicumque audierit, tinniant ambae aures ejus*.
+primo comminatur poenam in generali, petens audientiam: ***dices, audite***. Ps. 2: *et nunc reges intelligite, erudimini qui judicatis terram*. Praedicens poenam: ***haec dicit Dominus . . . tinnient***, quasi ex commotione cordis prae stupore, sicut ex commotione magni soni. 1 Reg. 3: *ecce ego faciam verbum in Israel, quod quicumque audierit, tinnient ambae aures ejus*. 4 Reg. 21: *ecce ego inducam mala super Jerusalem, et Judam, ut quicumque audierit, tinniant ambae aures ejus*.  
 
-Et assignans causam, culpam populi: ***eo quod dereliquerunt me***. Isa. 1: *dereliquerunt Dominum, blasphemaverunt Sanctum Israel, abalienati sunt retrorsum*. Et culpam regis quantum ad simplex homicidium: ***et reges Juda***. 4 Reg. 21: *sanguinem innoxium fudit Manasses multum nimis, donec impleretur Jerusalem usque ad os*.
+Et assignans causam, culpam populi: ***eo quod dereliquerunt me***. Isa. 1: *dereliquerunt Dominum, blasphemaverunt Sanctum Israel, abalienati sunt retrorsum*. Et culpam regis quantum ad simplex homicidium: ***et reges Juda***. 4 Reg. 21: *sanguinem innoxium fudit Manasses multum nimis, donec impleretur Jerusalem usque ad os*.  
 
-Et quantum ad homicidium junctum sacrilegio. ***Et aedificaverunt excelsa Baalim***. Ps. 105: *effuderunt sanguinem innocentem, sanguinem filiorum suorum, et filiarum suarum, quas sacrificaverunt sculptilibus Chanaam*.
+Et quantum ad homicidium junctum sacrilegio. ***Et aedificaverunt excelsa Baalim***. Ps. 105: *effuderunt sanguinem innocentem, sanguinem filiorum suorum, et filiarum suarum, quas sacrificaverunt sculptilibus Chanaam*.  
 
-Secundo ponit poenam in speciali:
+Secundo ponit poenam in speciali:  
 
-et primo quantum ad mala, quae passi sunt in urbis captione, ponens interfectionem hominum: ***propterea ecce dies venient***; ubi designat occisorum multitudinem, ***et non vocabitur amplius locus iste Tophet***. Supra 7 idem.
+et primo quantum ad mala, quae passi sunt in urbis captione, ponens interfectionem hominum: ***propterea ecce dies venient***; ubi designat occisorum multitudinem, ***et non vocabitur amplius locus iste Tophet***. Supra 7 idem.  
 
-Consilii dissipationem: ***et dissipabo consilium Juda***, quod debellare Nabuchodonosor cogitaverat, ***in loco isto***, quia ibi occisi sunt: Job 5: *apprehendit sapientes in astutia sua, et consilium pravorum dissipat*. Et occisionis speciem: ***et subvertam eos gladio***. Ezech. 21: *hic est gladius occisionis magnae, qui obstupescere eos fecit, et corde tabescere, et multiplicat ruinas*. Et ponens abjectionem cadaverum: ***et dabo cadavera eorum escam volatilibus caeli***. Ps. 78: *posuerunt mortalia servorum tuorum escas volatilibus caeli, carnes sanctorum tuorum bestiis terrae*.
+Consilii dissipationem: ***et dissipabo consilium Juda***, quod debellare Nabuchodonosor cogitaverat, ***in loco isto***, quia ibi occisi sunt: Job 5: *apprehendit sapientes in astutia sua, et consilium pravorum dissipat*. Et occisionis speciem: ***et subvertam eos gladio***. Ezech. 21: *hic est gladius occisionis magnae, qui obstupescere eos fecit, et corde tabescere, et multiplicat ruinas*. Et ponens abjectionem cadaverum: ***et dabo cadavera eorum escam volatilibus caeli***. Ps. 78: *posuerunt mortalia servorum tuorum escas volatilibus caeli, carnes sanctorum tuorum bestiis terrae*.  
 
-Et ponens destructionem urbium: ***et ponam civitatem hanc in stuporem***. Supra 18, idem.
+Et ponens destructionem urbium: ***et ponam civitatem hanc in stuporem***. Supra 18, idem.  
 
-Secundo poenam quam passi sunt in obsidione: ***et cibabo eos carnibus filiorum suorum***. Deute. 28: *comedes fructum uteri tui, et carnes filiorum tuorum, et filiarum tuarum, quas dederit tibi Dominus Deus tuus, in angustia, et vastitate, qua opprimet te hostis tuus*. Thren. 4: *manus mulierum misericordium coxerunt filios suos, facti sunt cibus earum in contritione filiae populi mei*.
+Secundo poenam quam passi sunt in obsidione: ***et cibabo eos carnibus filiorum suorum***. Deute. 28: *comedes fructum uteri tui, et carnes filiorum tuorum, et filiarum tuarum, quas dederit tibi Dominus Deus tuus, in angustia, et vastitate, qua opprimet te hostis tuus*. Thren. 4: *manus mulierum misericordium coxerunt filios suos, facti sunt cibus earum in contritione filiae populi mei*.  
 
-Lectio 2
+Lectio 2  
 
 ***^19:10^ Et conteres lagunculam in oculis virorum qui ibunt tecum,***
 
@@ -64,24 +64,22 @@ Lectio 2
 
 > **108**. Hic designat praedictam poenam facto:
 
-et primo ponit factum: ***conteres lagunculam***. Isa. 10: *ecce dominator Dominus exercituum confringet lagunculam in terrore, et excelsi statura succidentur, et sublimes humiliabuntur*.
+et primo ponit factum: ***conteres lagunculam***. Isa. 10: *ecce dominator Dominus exercituum confringet lagunculam in terrore, et excelsi statura succidentur, et sublimes humiliabuntur*.  
 
-Secundo facti significatum: ***et dices ad eos***.
+Secundo facti significatum: ***et dices ad eos***.  
 
-Primo quantum ad populi occisionem: ***sic conteram***. Isa. 30: *comminuetur sicut conteritur lagena figuli, contritione pervalida*.
+Primo quantum ad populi occisionem: ***sic conteram***. Isa. 30: *comminuetur sicut conteritur lagena figuli, contritione pervalida*.  
 
-Secundo quantum ad sepulturae locum: ***et in Tophet sepelientur***, propter occisorum multitudinem. Supra 7, idem.
+Secundo quantum ad sepulturae locum: ***et in Tophet sepelientur***, propter occisorum multitudinem. Supra 7, idem.  
 
-Tertio quantum ad urbis destructionem, ***sic faciam***, sicut Tophet, immundam, et sine domibus.
+Tertio quantum ad urbis destructionem, ***sic faciam***, sicut Tophet, immundam, et sine domibus.  
 
-***In quarum domatibus***, idest in summitatibus domorum, quae planae erant, et in eis idola colebant. Isa. 22: *ascendisti et tu omnis in tecta clamoris plena, urbs frequens, civitas exultans*.
+***In quarum domatibus***, idest in summitatibus domorum, quae planae erant, et in eis idola colebant. Isa. 22: *ascendisti et tu omnis in tecta clamoris plena, urbs frequens, civitas exultans*.  
 
-Lectio 3
+Lectio 3  
 
 ***^19:14^ Venit autem Jeremias de Tophet, quo miserat eum Dominus ad prophetandum, et stetit in atrio domus Domini, et dixit ad omnem populum:***
 
 > ^19:15^ haec dicit Dominus exercituum, Deus Israel: ecce ego inducam super civitatem hanc, et super omnes urbes ejus, universa mala quae locutus sum adversum eam: quoniam induraverunt cervicem suam, ut non audirent sermones meos.
 
 > **109**. Postquam dixerat praedicta in valle Tophet ad populum, revertitur ad templum, ut annuntiaret ea populo qui ipsum sequi noluit. Et planum est. Act. 7: *dura cervice, et incircumcisis cordibus, et auribus, vos semper Spiritui Sancto restitistis; sicut et patres vestris, ita et vos*.
-
-Caput 20

@@ -10,41 +10,41 @@
 
 > **196**. Hic ostenditur contradictio ex prophetae persecutione:
 
-et primo ponitur persecutio ipsius propter falsam suspicionem;
+et primo ponitur persecutio ipsius propter falsam suspicionem;  
 
-secundo propter veram praedicationem, cap. 38: ***audivit autem Saphatias filius Mathan***.Here, the Parma edition reads *Mahan*, in place of *Mathan*.
+secundo propter veram praedicationem, cap. 38: ***audivit autem Saphatias filius Mathan***.Here, the Parma edition reads *Mahan*, in place of *Mathan*.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponit suspicionis occasionem;
+Primo ponit suspicionis occasionem;  
 
-secundo ponit suspicionem, ibi, ***cumque pervenisset ad portam Beniamin***;
+secundo ponit suspicionem, ibi, ***cumque pervenisset ad portam Beniamin***;  
 
-tertio persecutionem, ibi, ***et apprehendit Jeremiam prophetam***.
+tertio persecutionem, ibi, ***et apprehendit Jeremiam prophetam***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur occasio sumpta ex prophetae verbo;
+Primo ponitur occasio sumpta ex prophetae verbo;  
 
-secundo occasio sumpta ex ipsius facto, ibi: ***cumque pervenisset*** etc.
+secundo occasio sumpta ex ipsius facto, ibi: ***cumque pervenisset*** etc.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur consultatio;
+Primo ponitur consultatio;  
 
-secundo ponitur prophetae displicens illis responsio, ibi, ***et factum est verbum Domini ad Jeremiam***.
+secundo ponitur prophetae displicens illis responsio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo describit consultantium conditionem: ***quem constituit regem Nabuchodonosor***: 1 Reg. 24.
+Primo describit consultantium conditionem: ***quem constituit regem Nabuchodonosor***: 1 Reg. 24.  
 
-***Et non obedivit***, ut tributum regi Babylonis solveret, et a peccatis cessaret. Matth. 22: *reddite quae sunt Caesaris Caesari, et quae sunt Dei, Deo. **Servi***, familiares, ***populus***. Eccli. 10: *secundum judicem populi, sic et ministri ejus, et qualis rector est civitatis, tales et inhabitantes in ea*.
+***Et non obedivit***, ut tributum regi Babylonis solveret, et a peccatis cessaret. Matth. 22: *reddite quae sunt Caesaris Caesari, et quae sunt Dei, Deo. **Servi***, familiares, ***populus***. Eccli. 10: *secundum judicem populi, sic et ministri ejus, et qualis rector est civitatis, tales et inhabitantes in ea*.  
 
-Secundo ponitur consultatio: ***et misit rex . . . dicens: ora pro nobis***, ut indicet nobis quid agere debeamus ut ab hostibus liberemur. Isa. 37: *leva ergo orationem pro reliquiis quae repertae sunt*.
+Secundo ponitur consultatio: ***et misit rex . . . dicens: ora pro nobis***, ut indicet nobis quid agere debeamus ut ab hostibus liberemur. Isa. 37: *leva ergo orationem pro reliquiis quae repertae sunt*.  
 
-Tertio ponitur consultantis ratio: fiduciam enim sumpserant ex prophetae libertate, quem nondum afflixerant: ***Jeremias autem ambulabat in medio populi***: et ex obsidionis solutione: ***igitur exercitus Pharaonis egressus est de Aegypto***: exiverat enim rex Aegypti ut liberaret Judaeos. Quo devicto tamen exercitus rediit. Isa. 36: *ecce confidis super baculum arundineum confractum istum: super Aegyptum*, etc.
+Tertio ponitur consultantis ratio: fiduciam enim sumpserant ex prophetae libertate, quem nondum afflixerant: ***Jeremias autem ambulabat in medio populi***: et ex obsidionis solutione: ***igitur exercitus Pharaonis egressus est de Aegypto***: exiverat enim rex Aegypti ut liberaret Judaeos. Quo devicto tamen exercitus rediit. Isa. 36: *ecce confidis super baculum arundineum confractum istum: super Aegyptum*, etc.  
 
-Lectio 2
+Lectio 2  
 
 ***^37:5^ Et factum est verbum Domini ad Jeremiam prophetam, dicens:***
 
@@ -58,15 +58,15 @@ Lectio 2
 
 > **197**. Hic ponitur prophetae responsio.
 
-Et primo excludit Aegyptiorum auxilium: ***ecce exercitus Pharaonis***. Isa. 30: *Aegyptus frustra et vane auxiliabitur*.
+Et primo excludit Aegyptiorum auxilium: ***ecce exercitus Pharaonis***. Isa. 30: *Aegyptus frustra et vane auxiliabitur*.  
 
-Secundo praedicit Chaldaeorum reditum: ***et redient Chaldaei***.
+Secundo praedicit Chaldaeorum reditum: ***et redient Chaldaei***.  
 
-***Nolite decipere***, falsa spe. Thren. 1: *vocavi amicos meos, et ipsi deceperunt me*.
+***Nolite decipere***, falsa spe. Thren. 1: *vocavi amicos meos, et ipsi deceperunt me*.  
 
-Tertio excludit impedimentum: ***sed si percusseritis***. Deut. 32: *quomodo persequebatur unus mille, et duo fugabant decem millia? Nonne ideo quia Dominus Deus tuus vendidit eos et Dominus conclusit illos?*
+Tertio excludit impedimentum: ***sed si percusseritis***. Deut. 32: *quomodo persequebatur unus mille, et duo fugabant decem millia? Nonne ideo quia Dominus Deus tuus vendidit eos et Dominus conclusit illos?*  
 
-Lectio 3
+Lectio 3  
 
 ***^37:10^ Ergo cum recessisset exercitus Chaldaeorum ab Jerusalem propter exercitum Pharaonis,***
 
@@ -74,13 +74,13 @@ Lectio 3
 
 > **198**. Hic ponit occasionem sumptam ex facto: ***et divideret ibi possessionem***, quam emerat: idest distingueret ab aliis agris: vel distribueret aliis, ut ipse sine solicitudine remaneret. 2 Corinth. 6: *tamquam nihil habentes, et omnia possidentes*.
 
-Lectio 4
+Lectio 4  
 
 ***^37:12a^ Cumque pervenisset ad portam Benjamin, erat ibi custos portae per vices, nomine Jerias filius Selemiae filii Hananiae.***
 
 > **199**. Hic ponitur falsa suspicio. Psalm. 26: *insurrexerunt in me testes iniqui, et mentita est iniquitas sibi*.
 
-Lectio 5
+Lectio 5  
 
 ***^37:12b^ Et apprehendit Jeremiam prophetam, dicens: ad Chaldaeos profugis?***
 
@@ -102,22 +102,20 @@ Lectio 5
 
 > **200**. Hic ponitur persecutio in tribus.
 
-In captione. Thren. 3: *venatione ceperunt*.
+In captione. Thren. 3: *venatione ceperunt*.  
 
-In flagellatione, ***caesum***. Simile Act. 8: Hebr. 11: *ludibria, et verbera experti*.
+In flagellatione, ***caesum***. Simile Act. 8: Hebr. 11: *ludibria, et verbera experti*.  
 
-Et in carceratione: ***itaque ingressus est Jeremias in domum laci***. Psal. 87: *aestimatus sum cum descendentibus in lacum. **Ergastulum***, et est proprie carcer in quo damnatur quis ad aliquod opus.
+Et in carceratione: ***itaque ingressus est Jeremias in domum laci***. Psal. 87: *aestimatus sum cum descendentibus in lacum. **Ergastulum***, et est proprie carcer in quo damnatur quis ad aliquod opus.  
 
-Secundo ponitur liberatio, ***mittens***; et circa hoc tria.
+Secundo ponitur liberatio, ***mittens***; et circa hoc tria.  
 
-Primo ponitur liberationis occasio, ponens regis interrogationem: ***putasne est sermo a Domino?*** scilicet praenuntians futura, tibi revelatus. Isa. 8: *numquid non populus a Deo suo requirit visionem pro vivis ac mortuis?* Et ponit responsionem: ***et dixit Jeremias***. 3 Reg. 14: *ego autem missus sum ad te durus nuntius*.
+Primo ponitur liberationis occasio, ponens regis interrogationem: ***putasne est sermo a Domino?*** scilicet praenuntians futura, tibi revelatus. Isa. 8: *numquid non populus a Deo suo requirit visionem pro vivis ac mortuis?* Et ponit responsionem: ***et dixit Jeremias***. 3 Reg. 14: *ego autem missus sum ad te durus nuntius*.  
 
-Secundo ponitur liberationis petitio: ***et dixit Jeremias ad regem***: ubi monstrat injustam poenam; ***quid peccavi?*** Job 6: *non invenietis in lingua mea iniquitatem, nec in faucibus meis stultitia personabit*.
+Secundo ponitur liberationis petitio: ***et dixit Jeremias ad regem***: ubi monstrat injustam poenam; ***quid peccavi?*** Job 6: *non invenietis in lingua mea iniquitatem, nec in faucibus meis stultitia personabit*.  
 
-Excusat impositam culpam: ***ubi sunt prophetae vestri?*** quasi dicat: patet eorum falsitas, et mea veritas. Jam enim exercitus Chaldaeorum reversus erat, quem illi reversurum negaverant. Supra 28: ***propheta, qui vaticinatus est pacem, cum venerit verbum ejus, tunc scietur propheta quem misit Dominus in veritate***.
+Excusat impositam culpam: ***ubi sunt prophetae vestri?*** quasi dicat: patet eorum falsitas, et mea veritas. Jam enim exercitus Chaldaeorum reversus erat, quem illi reversurum negaverant. Supra 28: ***propheta, qui vaticinatus est pacem, cum venerit verbum ejus, tunc scietur propheta quem misit Dominus in veritate***.  
 
-Et petit misericordiam: ***nunc ergo audi, obsecro***. Proverb. 15: *responsio mollis frangit iram, sermo durus suscitat furorem*. Eccli. 6: *verbum dulce multiplicat amicos, et mitigat inimicos; et lingua eucharis in bono homine abundabit*.
+Et petit misericordiam: ***nunc ergo audi, obsecro***. Proverb. 15: *responsio mollis frangit iram, sermo durus suscitat furorem*. Eccli. 6: *verbum dulce multiplicat amicos, et mitigat inimicos; et lingua eucharis in bono homine abundabit*.  
 
 Tertio ponitur petitionis impetratio: ***praecepit ergo rex Sedecias ut traderetur Jeremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento***, quod addi noluit, ***vestibulo***, idest atrio.
-
-Caput 38

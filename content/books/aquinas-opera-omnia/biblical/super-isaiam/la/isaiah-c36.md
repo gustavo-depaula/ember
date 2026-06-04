@@ -44,70 +44,68 @@
 
 > **750**. ***Et factum est in anno*** etc. Hic narrat per modum historiae destructionem Assyriorum.
 
-Et primo ponit historiae gesta,
+Et primo ponit historiae gesta,  
 
-secundo quaedam ex historia occasionata, xxxviii cap. ***in diebus illis*** etc.
+secundo quaedam ex historia occasionata, xxxviii cap. ***in diebus illis*** etc.  
 
-Prima dividitur in duas:
+Prima dividitur in duas:  
 
-primo ponitur culpa quam in Judaeos commisit,
+primo ponitur culpa quam in Judaeos commisit,  
 
-secundo poena quam a Deo sustinuit, ibi ***egressus autem*** etc.
+secundo poena quam a Deo sustinuit, ibi ***egressus autem*** etc.  
 
-Offendit autem eos tripliciter:
+Offendit autem eos tripliciter:  
 
-primo bellis,
+primo bellis,  
 
-secundo nuntiis: ***et misit rex*** etc.,
+secundo nuntiis: ***et misit rex*** etc.,  
 
-tertio epistolis, ibi ***et audivit de Therancha*** etc.
+tertio epistolis, ibi ***et audivit de Therancha*** etc.  
 
-***Super omnes*** etc., Habacuc primo *super omnem munitionem* etc.
+***Super omnes*** etc., Habacuc primo *super omnem munitionem* etc.  
 
-**751**. ***Et misit***. Hic ostendit qualiter offendit Judaeos comminando per nuntios.
+**751**. ***Et misit***. Hic ostendit qualiter offendit Judaeos comminando per nuntios.  
 
-Et primo ponitur nuntiorum congregatio,
+Et primo ponitur nuntiorum congregatio,  
 
-secundo ipsorum collocutio: ***et dixit ad eos*** etc.,
+secundo ipsorum collocutio: ***et dixit ad eos*** etc.,  
 
-tertio eorum ab invicem discessio: ***et ingressus est*** etc.
+tertio eorum ab invicem discessio: ***et ingressus est*** etc.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo describitur nuntius Assyriorum: ***Rapsacem***, quem dicunt fuisse filium Isaiae, alii Samaritanum; ***in aquaeductu***, de hoc supra vii.
+Primo describitur nuntius Assyriorum: ***Rapsacem***, quem dicunt fuisse filium Isaiae, alii Samaritanum; ***in aquaeductu***, de hoc supra vii.  
 
-Secundo describuntur nuntii Judaeorum: ***et egressus Eliacim***, qui successit Sobnae qui tradidit inferiorem partem civitatis Assyriis, ut supra xxii; ***Sobna***, non ille de quo supra; ***a commentariis***, cancellarius regis, qui gesta in scriptum redigebat ad memorandum regi—unde commentor a comminiscor—.
+Secundo describuntur nuntii Judaeorum: ***et egressus Eliacim***, qui successit Sobnae qui tradidit inferiorem partem civitatis Assyriis, ut supra xxii; ***Sobna***, non ille de quo supra; ***a commentariis***, cancellarius regis, qui gesta in scriptum redigebat ad memorandum regi—unde commentor a comminiscor—.  
 
-**752**. ***Et dixit ad eos***. Hic ponitur nuntiorum collocutio. Et circa hoc duo:
+**752**. ***Et dixit ad eos***. Hic ponitur nuntiorum collocutio. Et circa hoc duo:  
 
-primo prolocutio Rapsacis ad nuntios,
+primo prolocutio Rapsacis ad nuntios,  
 
-secundo ad alios, ibi ***et stetit Rapsaces*** etc.
+secundo ad alios, ibi ***et stetit Rapsaces*** etc.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponitur ipsius Rapsacis allocutio, in qua intendit astruere Ezechiae infirmitatem ad resistendum, excludendo defensionem Aegyptiorum: ***ecce confidis***; ***arundineum***, irrisorie, quia in Aegypto multae arundines; verum dicit quod Aegyptii tales erant, Ez. xxix *fuisti baculus arundineus* etc., sed falsum quod Ezechias in eis confiderat; excludendo etiam auxilium divinum: ***quod si responderis**; **cui abstulit***, quod fecit pro religione pervertit in sacrilegium, Deut. xii *cave ne offeras* etc.; excludendo etiam robur proprium: ***et nunc trade te***, quasi: nec equos habes nec equites ut uni principi exercitus resistere possis, supra xxxiii ***projecit civitates*** etc. Astruit etiam Senacherib potestatem ad impugnandum ex praecepto divino: ***quia si confidis*** etc., supra x ***contra populum furoris mei*** etc.
+Primo ponitur ipsius Rapsacis allocutio, in qua intendit astruere Ezechiae infirmitatem ad resistendum, excludendo defensionem Aegyptiorum: ***ecce confidis***; ***arundineum***, irrisorie, quia in Aegypto multae arundines; verum dicit quod Aegyptii tales erant, Ez. xxix *fuisti baculus arundineus* etc., sed falsum quod Ezechias in eis confiderat; excludendo etiam auxilium divinum: ***quod si responderis**; **cui abstulit***, quod fecit pro religione pervertit in sacrilegium, Deut. xii *cave ne offeras* etc.; excludendo etiam robur proprium: ***et nunc trade te***, quasi: nec equos habes nec equites ut uni principi exercitus resistere possis, supra xxxiii ***projecit civitates*** etc. Astruit etiam Senacherib potestatem ad impugnandum ex praecepto divino: ***quia si confidis*** etc., supra x ***contra populum furoris mei*** etc.  
 
-Secundo ponitur aliorum responsio: ***et dixit Eliacim***. ***In aure populi***, ne perturbetur, scientes quod dicitur Prov. xi *benedictione justorum* etc.
+Secundo ponitur aliorum responsio: ***et dixit Eliacim***. ***In aure populi***, ne perturbetur, scientes quod dicitur Prov. xi *benedictione justorum* etc.  
 
-Tertio ponitur responsionis irrisio: ***et dixit ad eos**; **urinam pedum***, quae fluit ad pedes, Thren. iv *qui nutriebantur* etc.
+Tertio ponitur responsionis irrisio: ***et dixit ad eos**; **urinam pedum***, quae fluit ad pedes, Thren. iv *qui nutriebantur* etc.  
 
-**753**. ***Et stetit Rapsaces*** etc. Hic ponitur allocutio ipsius ad populum.
+**753**. ***Et stetit Rapsaces*** etc. Hic ponitur allocutio ipsius ad populum.  
 
-Et primo ponitur stultum ipsius verbum in quo terret minis: ***non poterit eruere vos*** etc., Judith v *quis est iste qui filios Israel* etc.; allicit promissis: ***haec dicit rex**; **benedictionem***, id est pactum quod vertetur in vestram benedictionem, vel: benedicite me sicut dominum vestrum; ***veniam*** de Aegypto ***ad terram***, scilicet Medorum, Gen. xxvii *det tibi Deus de rore caeli* etc.; provocat etiam exemplis: ***ne conturbet vos*** etc., Dan. xi *elevabitur et magnificabitur* etc.
+Et primo ponitur stultum ipsius verbum in quo terret minis: ***non poterit eruere vos*** etc., Judith v *quis est iste qui filios Israel* etc.; allicit promissis: ***haec dicit rex**; **benedictionem***, id est pactum quod vertetur in vestram benedictionem, vel: benedicite me sicut dominum vestrum; ***veniam*** de Aegypto ***ad terram***, scilicet Medorum, Gen. xxvii *det tibi Deus de rore caeli* etc.; provocat etiam exemplis: ***ne conturbet vos*** etc., Dan. xi *elevabitur et magnificabitur* etc.  
 
-Secundo ponit discretivi populi silentium: ***et siluerunt***, Prov. xi *qui decipit amicum suum* etc., Prov. xxvj *ne respondeas stulto* etc. ***Praeceperat***, ne verba blasphemiae multiplicaret aut populum deciperet.
+Secundo ponit discretivi populi silentium: ***et siluerunt***, Prov. xi *qui decipit amicum suum* etc., Prov. xxvj *ne respondeas stulto* etc. ***Praeceperat***, ne verba blasphemiae multiplicaret aut populum deciperet.  
 
-**754**. ***Et ingressus*** etc. Hic ponitur discessio nuntiorum ab invicem.
+**754**. ***Et ingressus*** etc. Hic ponitur discessio nuntiorum ab invicem.  
 
-Et primo reditus Judaeorum ad Ezechiam,
+Et primo reditus Judaeorum ad Ezechiam,  
 
-secundo reditus Rapsacis ad Senacherib, ibi ***reversus est autem*** etc.
+secundo reditus Rapsacis ad Senacherib, ibi ***reversus est autem*** etc.  
 
-Circa primum duo:
+Circa primum duo:  
 
-primo ponitur reditus nuntiorum et blasphemiae renuntiatio,
+primo ponitur reditus nuntiorum et blasphemiae renuntiatio,  
 
 secundo ponitur Ezechiae oratio: ***et factum est cum audisset*** etc., ***scissis vestibus*** pro audita blasphemia, quod erat mos Judaeorum, ut patet Mt. xxvj.
-
-Caput 37

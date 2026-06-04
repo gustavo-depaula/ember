@@ -28,74 +28,72 @@
 
 > **988**. ***This is the inheritance***. Here he adds the third remedy, promising abundance of goods against their former scarcity. And it is divided into two parts:
 
-in the first, he sets out the promise;
+in the first, he sets out the promise;  
 
-in the second, he shows the firmness of the promise: ***and as the rain and the snow come down*** (Isa 55:10).
+in the second, he shows the firmness of the promise: ***and as the rain and the snow come down*** (Isa 55:10).  
 
-Concerning the first, he does three things.
+Concerning the first, he does three things.  
 
-First, he shows the condition of those to whom it is promised: ***this is the inheritance***, that is, these things which follow are owed to the servants of the Lord, who are sons to him, as by right of inheritance; ***and their justice***, as a just reward: *my inheritance* (Ps 15[16]:6).
+First, he shows the condition of those to whom it is promised: ***this is the inheritance***, that is, these things which follow are owed to the servants of the Lord, who are sons to him, as by right of inheritance; ***and their justice***, as a just reward: *my inheritance* (Ps 15[16]:6).  
 
-**989**. Second, he sets out the promise, promising future abundance in necessities: ***all you that thirst***, that is, you among the Jews, who were thirsty because of your poverty, ***buy***, without price, ***eat***, bread and other necessities: *if any man thirst, let him come to me and drink . . . and out of his belly shall flow rivers of living water* (John 7:37–38); and in delights: ***come, buy***, as if to say, take as if you were buying, or ***without money***, that is, less than a just price, ***wine and milk***: *I have drunk my wine with my milk* (Song 5:1). And he recalls their former poverty, ***why do you spend money for that which is not bread?*** As if to say: why thus far have you been spending money and from it have not been able to eat bread? *You have sowed much, and brought in little* (Hag 1:6). These things, however, are explained mystically of the water of divine wisdom, which is given freely to the thirsty, according to the Gloss.
+**989**. Second, he sets out the promise, promising future abundance in necessities: ***all you that thirst***, that is, you among the Jews, who were thirsty because of your poverty, ***buy***, without price, ***eat***, bread and other necessities: *if any man thirst, let him come to me and drink . . . and out of his belly shall flow rivers of living water* (John 7:37–38); and in delights: ***come, buy***, as if to say, take as if you were buying, or ***without money***, that is, less than a just price, ***wine and milk***: *I have drunk my wine with my milk* (Song 5:1). And he recalls their former poverty, ***why do you spend money for that which is not bread?*** As if to say: why thus far have you been spending money and from it have not been able to eat bread? *You have sowed much, and brought in little* (Hag 1:6). These things, however, are explained mystically of the water of divine wisdom, which is given freely to the thirsty, according to the Gloss.  
 
-**990**. Third, he enjoins preparation to obtain this promise: ***hearken diligently to me***;
+**990**. Third, he enjoins preparation to obtain this promise: ***hearken diligently to me***;  
 
-and first, he rouses their attention;
+and first, he rouses their attention;  
 
-second, he sets out the exhortation: ***seek the Lord*** (Isa 55:6).
+second, he sets out the exhortation: ***seek the Lord*** (Isa 55:6).  
 
-He rouses their attention by a threefold promise.
+He rouses their attention by a threefold promise.  
 
-First, he promises to those who listen abundant enjoyment of goods: ***eat***, that is, I will restore you with various goods, if you will hear me; ***in fatness***, as to abundance, above: ***if you be willing, and will hearken to me, you shall eat the good things of the land*** (Isa 1:19); *and I will fill the soul of the priests with fatness* (Jer 31:14).
+First, he promises to those who listen abundant enjoyment of goods: ***eat***, that is, I will restore you with various goods, if you will hear me; ***in fatness***, as to abundance, above: ***if you be willing, and will hearken to me, you shall eat the good things of the land*** (Isa 1:19); *and I will fill the soul of the priests with fatness* (Jer 31:14).  
 
-Second, he promises escape from death: ***incline your ear***: *my soul shall live* (Ps 118[119]:175); and also: *your justifications I will never forget: for by them you have given me life* (Ps 118[119]:93).
+Second, he promises escape from death: ***incline your ear***: *my soul shall live* (Ps 118[119]:175); and also: *your justifications I will never forget: for by them you have given me life* (Ps 118[119]:93).  
 
-Third, he promises power.
+Third, he promises power.  
 
-And first, he sets out a similitude: ***and I will make an everlasting covenant, the faithful mercies of David***, that is, as I made true promises to David that his seed would remain forever, so I will also do with you.
+And first, he sets out a similitude: ***and I will make an everlasting covenant, the faithful mercies of David***, that is, as I made true promises to David that his seed would remain forever, so I will also do with you.  
 
-Second, he explains this similitude, showing what he did for David: ***behold I have given him for a witness to the people***: *a people which I knew not, has served me: at the hearing of the ear they have obeyed me* (Ps 17:45[18:44]). And what may be done for them: ***behold you shall call nations***, to fulfill your command, not by your own power, but ***because of the Lord***, above: ***and they shall adore for the sake of the Lord your God, who has chosen you*** (Isa 49:7).*Propter Dominum Deum tuum qui elegit te*. Vg.: *propter Dominum, quia fidelis est, et Sanctum Israel qui elegit te*. DR: “for the Lord’s sake, because he is faithful, and for the Holy One of Israel, who hath chosen thee.”
+Second, he explains this similitude, showing what he did for David: ***behold I have given him for a witness to the people***: *a people which I knew not, has served me: at the hearing of the ear they have obeyed me* (Ps 17:45[18:44]). And what may be done for them: ***behold you shall call nations***, to fulfill your command, not by your own power, but ***because of the Lord***, above: ***and they shall adore for the sake of the Lord your God, who has chosen you*** (Isa 49:7).*Propter Dominum Deum tuum qui elegit te*. Vg.: *propter Dominum, quia fidelis est, et Sanctum Israel qui elegit te*. DR: “for the Lord’s sake, because he is faithful, and for the Holy One of Israel, who hath chosen thee.”  
 
-**991**. ***Seek the Lord***. Here he enjoins upon them preparation to obtain the promise.
+**991**. ***Seek the Lord***. Here he enjoins upon them preparation to obtain the promise.  
 
-And first, he gives the divine counsel of seeking: ***seek the Lord, while he may be found***, before adversity or death comes: *seek the lord* (Ps 104[105]:4); *they shall rise in the morning, and shall not find me* (Prov 1:28).
+And first, he gives the divine counsel of seeking: ***seek the Lord, while he may be found***, before adversity or death comes: *seek the lord* (Ps 104[105]:4); *they shall rise in the morning, and shall not find me* (Prov 1:28).  
 
-Second, he teaches the manner of seeking: ***let the wicked***, sinning against God, ***forsake his way*, *and the unjust man***, sinning against his neighbor, above: ***take away the evil of your devices from my eyes*** (Isa 1:16).
+Second, he teaches the manner of seeking: ***let the wicked***, sinning against God, ***forsake his way*, *and the unjust man***, sinning against his neighbor, above: ***take away the evil of your devices from my eyes*** (Isa 1:16).  
 
-Third, he sets out the fruit of returning, namely, mercy: ***and let him return to the Lord, and he will have mercy on him*; *for he is bountiful***, that is, of manifold mercy, ***to forgive***: *turn to the Lord your God: for he is gracious and merciful* (Joel 2:13–14).
+Third, he sets out the fruit of returning, namely, mercy: ***and let him return to the Lord, and he will have mercy on him*; *for he is bountiful***, that is, of manifold mercy, ***to forgive***: *turn to the Lord your God: for he is gracious and merciful* (Joel 2:13–14).  
 
-Fourth, he excludes the obstacle to mercy: ***for my thoughts are not your thoughts***, as if to say: you are wicked,*Impii*. I am loving;*Pius*. you think of vengeance, I think of mercy: *is it my ways that are**Viae meae non sunt*. Vg.: *via mea non est*. DR: “my way that is.” *not right, and are not rather your ways perverse?* (Ezek 18:25).
+Fourth, he excludes the obstacle to mercy: ***for my thoughts are not your thoughts***, as if to say: you are wicked,*Impii*. I am loving;*Pius*. you think of vengeance, I think of mercy: *is it my ways that are**Viae meae non sunt*. Vg.: *via mea non est*. DR: “my way that is.” *not right, and are not rather your ways perverse?* (Ezek 18:25).  
 
-**992**. ***And as the rain and the snow***. Here he shows the firmness of the promise:
+**992**. ***And as the rain and the snow***. Here he shows the firmness of the promise:  
 
-And first, he sets out the efficacy of the divine word: ***it shall not return to me void***, that is, without fruit: *an obscure speech shall not go for naught* (Wis 1:11); *he will come to us as the early and the latter rain to the earth* (Hos 6:3).
+And first, he sets out the efficacy of the divine word: ***it shall not return to me void***, that is, without fruit: *an obscure speech shall not go for naught* (Wis 1:11); *he will come to us as the early and the latter rain to the earth* (Hos 6:3).  
 
-Second, he sets out restraint as to their joyful release from Babylon, ***for you shall go out with joy***: *he brought forth his people with joy, and his chosen with gladness* (Ps 104[105]:43); as to the congratulations of others: ***the mountains and the hills***, the powerful and the common people, praising God in you; or this is hyperbole: your land congratulating your return. As to the multiplied restoration of goods: ***instead of the shrub, shall come up the fir tree***, that is, your former goods are few in comparison to what you will have: *the glory of this last house shall be more than of the first* (Hag 2:10[9]), above: ***I will plant in the wilderness the cedar*** (Isa 41:19). ***The shrub*** (*saliuncula*) from *saliendo* (“jumping”), which is called “hare thistle.”
+Second, he sets out restraint as to their joyful release from Babylon, ***for you shall go out with joy***: *he brought forth his people with joy, and his chosen with gladness* (Ps 104[105]:43); as to the congratulations of others: ***the mountains and the hills***, the powerful and the common people, praising God in you; or this is hyperbole: your land congratulating your return. As to the multiplied restoration of goods: ***instead of the shrub, shall come up the fir tree***, that is, your former goods are few in comparison to what you will have: *the glory of this last house shall be more than of the first* (Hag 2:10[9]), above: ***I will plant in the wilderness the cedar*** (Isa 41:19). ***The shrub*** (*saliuncula*) from *saliendo* (“jumping”), which is called “hare thistle.”  
 
-Third, he sets out the glory of God following from this: ***and the Lord shall be named***, everywhere and forever glorious for your liberation, ***for an everlasting sign***, to which they will flee as a sign of salvation, above: ***behold I will lift up my sign***DR: “standard.” ***to the people*** (Isa 49:22).
+Third, he sets out the glory of God following from this: ***and the Lord shall be named***, everywhere and forever glorious for your liberation, ***for an everlasting sign***, to which they will flee as a sign of salvation, above: ***behold I will lift up my sign***DR: “standard.” ***to the people*** (Isa 49:22).  
 
-**993**. Note on the words, ***all you that thirst, come to the waters*** (Isa 55:1), that divine doctrine is first called water:
+**993**. Note on the words, ***all you that thirst, come to the waters*** (Isa 55:1), that divine doctrine is first called water:  
 
-and this is first because it heals the sick: *she shall give him the water of wisdom to drink* (Sir 15:3);
+and this is first because it heals the sick: *she shall give him the water of wisdom to drink* (Sir 15:3);  
 
-second, because it cleanses the filthy: *I will pour upon you clean water, and you shall be cleansed from all your filthiness* (Ezek 36:25);
+second, because it cleanses the filthy: *I will pour upon you clean water, and you shall be cleansed from all your filthiness* (Ezek 36:25);  
 
-third, because it satisfies the thirsty: *if anyone shall drink of the water that I will give, he shall not thirst for ever* (John 4:13).
+third, because it satisfies the thirsty: *if anyone shall drink of the water that I will give, he shall not thirst for ever* (John 4:13).  
 
-**994**. Second, it is called wine:
+**994**. Second, it is called wine:  
 
-and this is first because it stings in argument, above: ***your wine is mingled with water*** (Isa 1:22);
+and this is first because it stings in argument, above: ***your wine is mingled with water*** (Isa 1:22);  
 
-second, because it inflames in exhortation: *the word of the Lord inflamed him* (Ps 104[105]:19);
+second, because it inflames in exhortation: *the word of the Lord inflamed him* (Ps 104[105]:19);  
 
-third, because it inebriates in consolation, below: ***that you may be inebriatedInebriabimini*. Vg.: *repleamini*. DR: “filled.” ***with the breasts of her consolations*** (Isa 66:11).
+third, because it inebriates in consolation, below: ***that you may be inebriatedInebriabimini*. Vg.: *repleamini*. DR: “filled.” ***with the breasts of her consolations*** (Isa 66:11).  
 
-**995**. Third, it is called milk:
+**995**. Third, it is called milk:  
 
-and this is first because of its beauty: *Nephthali, a hart let loose, and giving words of beauty* (Gen 49:21);
+and this is first because of its beauty: *Nephthali, a hart let loose, and giving words of beauty* (Gen 49:21);  
 
-second, because of its sweetness: *let your voice sound in my ears: for your voice is sweet* (Song 2:14);
+second, because of its sweetness: *let your voice sound in my ears: for your voice is sweet* (Song 2:14);  
 
 third, because of the ease with which it is taken: *as newborn babes, desire milk* (1 Pet 2:2).
-
-Chapter 56

@@ -1,17 +1,48 @@
 # Ineffable Creator
 
-***Ineffable Creator,Who, from the treasuries of your wisdomhave appointedthe threehierarchies of the angels,arranging themin wondrous orderabove the fiery heavens,and have establishedall parts of the universeso beautifully,***
+***Ineffable Creator,***
+***Who, from the treasuries of your wisdom***
+***have appointed***
+***the three***
+***hierarchies of the angels,***
+***arranging them***
+***in wondrous order***
+***above the fiery heavens,***
+***and have established***
+***all parts of the universe***
+***so beautifully,***
 
-> You, whom we callthe true source of lightand wisdom,the supreme origin of all,be pleased to castinto the darkened placesof my minda ray of your brightness,
+> You, whom we call
+> the true source of light
+> and wisdom,
+> the supreme origin of all,
+> be pleased to cast
+> into the darkened places
+> of my mind
+> a ray of your brightness,
 
-> remove from methe two-fold darknessof sin and ignoranceinto which I was born.
+> remove from me
+> the two-fold darkness
+> of sin and ignorance
+> into which I was born.
 
-> You, who make eloquentthe tongues of infants,educate my tongue,and pour upon my lipsthe grace of your blessing.
+> You, who make eloquent
+> the tongues of infants,
+> educate my tongue,
+> and pour upon my lips
+> the grace of your blessing.
 
-> Grant mekeenness of understanding,capacity to remember,method and ease in learning,subtlety to interpret,and abundant grace in speaking.
+> Grant me
+> keenness of understanding,
+> capacity to remember,
+> method and ease in learning,
+> subtlety to interpret,
+> and abundant grace in speaking.
 
-> Guide the beginning of my work,direct its progress,and bring it to completion.
+> Guide the beginning of my work,
+> direct its progress,
+> and bring it to completion.
 
-> You,Who are true God and true Man,living and reigning forever and ever. Amen.
-
-> O Most Blessed and Sweet Virgin Mary
+> You,
+> Who are true God and true Man,
+> living and reigning forever and ever. Amen.

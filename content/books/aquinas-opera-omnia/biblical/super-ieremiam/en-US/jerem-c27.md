@@ -28,39 +28,39 @@
 
 > **140**. Here, a clear title having been set forth, he excludes the false consolation of the prophets:
 
-first, in general;
+first, in general;  
 
-second, by touching on certain prophets in particular: ***and it came to pass in that year*** (Jer 28:1).
+second, by touching on certain prophets in particular: ***and it came to pass in that year*** (Jer 28:1).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, he excludes the consolations of the prophets of the nations;
+First, he excludes the consolations of the prophets of the nations;  
 
-second, those of the prophets of the Jews, at ***and I spoke to Zedekiah, king of Judah*** (Jer 27:12).
+second, those of the prophets of the Jews, at ***and I spoke to Zedekiah, king of Judah*** (Jer 27:12).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, he presignifies the prophecy with an action: ***make chains for yourself***, as a sign of the bondage of the nations, ***in the hand of the messengers***, who had been sent to make an alliance with the king of Jerusalem; or they had been sent to resist Nebuchadnezzar. *I have multiplied visions, and in the hand of the prophets I have used similitudes* (Hos 12:10). *And you, O son of man, behold, chains are set upon you, and they shall bind you in them, and you shall not go forth from their midst* (Ezek 3:25).
+First, he presignifies the prophecy with an action: ***make chains for yourself***, as a sign of the bondage of the nations, ***in the hand of the messengers***, who had been sent to make an alliance with the king of Jerusalem; or they had been sent to resist Nebuchadnezzar. *I have multiplied visions, and in the hand of the prophets I have used similitudes* (Hos 12:10). *And you, O son of man, behold, chains are set upon you, and they shall bind you in them, and you shall not go forth from their midst* (Ezek 3:25).  
 
-Second, he expresses it with words: ***and command them***. But he urges them in three ways to submit themselves to the king of Babylon, against the counsel of the prophets.
+Second, he expresses it with words: ***and command them***. But he urges them in three ways to submit themselves to the king of Babylon, against the counsel of the prophets.  
 
-First, because of the power of Nebuchadnezzar, which he shows in two ways.
+First, because of the power of Nebuchadnezzar, which he shows in two ways.  
 
-First, by divine concession, when he speaks about the creation of things: ***I made the earth***, with regard to the work of creation and its disposition; ***men***, with regard to the work of its provision; ***with my arm***, which speaks to the application of his power to the work. *Establishing the earth, and what springs from it* (Isa 42:5). And he concludes with the bestowal of authority: ***and I gave it to the one***, to a person, or to whomever. *The Most High rules in the kingdom of men, and gives it to whomever he wills* (Dan 4:14).
+First, by divine concession, when he speaks about the creation of things: ***I made the earth***, with regard to the work of creation and its disposition; ***men***, with regard to the work of its provision; ***with my arm***, which speaks to the application of his power to the work. *Establishing the earth, and what springs from it* (Isa 42:5). And he concludes with the bestowal of authority: ***and I gave it to the one***, to a person, or to whomever. *The Most High rules in the kingdom of men, and gives it to whomever he wills* (Dan 4:14).  
 
-And when he shows the concession made by God to Nebuchadnezzar, with regard to men: ***and now, therefore, I have given all these lands into the hand of Nebuchadnezzar***. *The most high God gave kingship, great glory, and honor to Nebuchadnezzar your father. And because of the magnificence which he had given him, all peoples, tribes, and languages trembled and feared him* (Dan 5:18–19). And with regard to animals: ***moreover, all the beasts***—this is speaking hyperbolically. Alternatively, by ***beasts*** are meant the fierce men, who were under him. Or because, the people having been subdued, even the beasts, which were subject to them, were brought under his authority. For this reason, it is written: *the beasts would rest under the shadow of the tree* (Dan 4:9), by which Nebuchadnezzar is signified.
+And when he shows the concession made by God to Nebuchadnezzar, with regard to men: ***and now, therefore, I have given all these lands into the hand of Nebuchadnezzar***. *The most high God gave kingship, great glory, and honor to Nebuchadnezzar your father. And because of the magnificence which he had given him, all peoples, tribes, and languages trembled and feared him* (Dan 5:18–19). And with regard to animals: ***moreover, all the beasts***—this is speaking hyperbolically. Alternatively, by ***beasts*** are meant the fierce men, who were under him. Or because, the people having been subdued, even the beasts, which were subject to them, were brought under his authority. For this reason, it is written: *the beasts would rest under the shadow of the tree* (Dan 4:9), by which Nebuchadnezzar is signified.  
 
-In another way, he shows his power by the subjection of the nations: ***and all nations shall serve***. *All things have a time* (Eccl 3:1).
+In another way, he shows his power by the subjection of the nations: ***and all nations shall serve***. *All things have a time* (Eccl 3:1).  
 
-Second, he persuades them with the punishment of those who rebel, when he speaks about the punishment of those who rebel: ***but the nation and the kingdom***. And therefore, *be subject by necessity, not only because of wrath, but also because of conscience* (Rom 13:5).
+Second, he persuades them with the punishment of those who rebel, when he speaks about the punishment of those who rebel: ***but the nation and the kingdom***. And therefore, *be subject by necessity, not only because of wrath, but also because of conscience* (Rom 13:5).  
 
-And he excludes the counsel of the prophets: ***do not, therefore, listen to your prophets***, whom the gentiles say are able to foreknow even future events by the gleam of an intelligence acting in their souls, ***soothsayers***, who were in the temples of the idols, ***dreamers***, who from dreams, ***augurs***, who from the chattering of birds, ***sorcerers***, who predict the future by the conjuring of demons. As it says above: ***do not listen to the words of the prophets, who prophecy to you, and deceive you; they speak the vision of their own heart, and not by the mouth of the Lord*** (Jer 23:16).
+And he excludes the counsel of the prophets: ***do not, therefore, listen to your prophets***, whom the gentiles say are able to foreknow even future events by the gleam of an intelligence acting in their souls, ***soothsayers***, who were in the temples of the idols, ***dreamers***, who from dreams, ***augurs***, who from the chattering of birds, ***sorcerers***, who predict the future by the conjuring of demons. As it says above: ***do not listen to the words of the prophets, who prophecy to you, and deceive you; they speak the vision of their own heart, and not by the mouth of the Lord*** (Jer 23:16).  
 
-And he gives for his reason the lie of the prophets: ***because they prophesy a lie***, and the imminent danger, ***to drive you far***, and this ***to*** introduces a result clause. *I shall be as a lying spirit in the mouths of all the prophets* (1 Kgs 22:22).
+And he gives for his reason the lie of the prophets: ***because they prophesy a lie***, and the imminent danger, ***to drive you far***, and this ***to*** introduces a result clause. *I shall be as a lying spirit in the mouths of all the prophets* (1 Kgs 22:22).  
 
-Third, he persuades them by the favor of those who obey, which they will receive from the Lord: ***further, the nation***. As it says below: ***do not fear to serve the Chaldeans. Dwell in the land, and serve the king of Babylon, and it shall be well with you*** (Jer 40:9).
+Third, he persuades them by the favor of those who obey, which they will receive from the Lord: ***further, the nation***. As it says below: ***do not fear to serve the Chaldeans. Dwell in the land, and serve the king of Babylon, and it shall be well with you*** (Jer 40:9).  
 
-Lecture 2
+Lecture 2  
 
 ***Ignore false prophets***
 
@@ -74,25 +74,25 @@ Lecture 2
 
 > **141**. Because those messengers could ask why he did not say such things to his own people intent upon rebellion, he responds that he has already said as much to them.
 
-First is given his admonition to the king;
+First is given his admonition to the king;  
 
-second, to the priests and to the people, at ***and I spoke to the priests, and to this people*** (Jer 27:16).
+second, to the priests and to the people, at ***and I spoke to the priests, and to this people*** (Jer 27:16).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, he offers good advice, giving the advice itself: ***bow your neck***. *Servants, be submissive with all fear to your masters, not only to the good and modest, but also to the unreasonable* (1 Pet 2:18).
+First, he offers good advice, giving the advice itself: ***bow your neck***. *Servants, be submissive with all fear to your masters, not only to the good and modest, but also to the unreasonable* (1 Pet 2:18).  
 
-And setting forth the imminent danger: ***why should you die?*** As it says above: ***he who shall dwell in this city shall die by the sword, and the famine, and the plague; but he who shall go out and flee over to the Chaldeans, who besiege you, shall live, and his soul shall be as a spoil to him*** (Jer 21:9).
+And setting forth the imminent danger: ***why should you die?*** As it says above: ***he who shall dwell in this city shall die by the sword, and the famine, and the plague; but he who shall go out and flee over to the Chaldeans, who besiege you, shall live, and his soul shall be as a spoil to him*** (Jer 21:9).  
 
-Second, he excludes the false counsel of the prophets: ***do not listen***, for three reasons.
+Second, he excludes the false counsel of the prophets: ***do not listen***, for three reasons.  
 
-First, because of the false promise: ***because they speak a lie***. *His prophets have daubed them without tempering the mortar, seeing vain things and divining a lie unto them; saying, ‘Thus says the Lord,’ when the Lord has not spoken* (Ezek 22:28).
+First, because of the false promise: ***because they speak a lie***. *His prophets have daubed them without tempering the mortar, seeing vain things and divining a lie unto them; saying, ‘Thus says the Lord,’ when the Lord has not spoken* (Ezek 22:28).  
 
-Second, because of the authority they claimed for themselves: ***because I have not sent them***. As it says above: ***I did not send prophets, yet they ran; I did not speak to them, yet they prophesied*** (Jer 23:21).
+Second, because of the authority they claimed for themselves: ***because I have not sent them***. As it says above: ***I did not send prophets, yet they ran; I did not speak to them, yet they prophesied*** (Jer 23:21).  
 
-Third, because of the imminent punishment: ***to drive you out***, as the occasion arises. *You shall fall today, and the prophet also shall fall with you* (Hos 4:5).
+Third, because of the imminent punishment: ***to drive you out***, as the occasion arises. *You shall fall today, and the prophet also shall fall with you* (Hos 4:5).  
 
-Lecture 3
+Lecture 3  
 
 ***Captivity and liberation***
 
@@ -112,12 +112,10 @@ Lecture 3
 
 > **142**. Here is given the admonition to the priests, and to the common people.
 
-First, he excludes the false counsel: ***do not listen . . . behold, the vessels***, which were taken away to Babylon with Jekoniah (2 Kgs 24:13–15). And he gives the cause when he exposes the lie of the prophets: ***for they prophesy a lie to you***; the fruit of bondage: ***that you may live***; the danger of rebellion: ***why should this city be made a desolation?*** As it says above: ***he who shall go out and flee over to the Chaldeans, who besiege you, shall live*** (Jer 21:9).
+First, he excludes the false counsel: ***do not listen . . . behold, the vessels***, which were taken away to Babylon with Jekoniah (2 Kgs 24:13–15). And he gives the cause when he exposes the lie of the prophets: ***for they prophesy a lie to you***; the fruit of bondage: ***that you may live***; the danger of rebellion: ***why should this city be made a desolation?*** As it says above: ***he who shall go out and flee over to the Chaldeans, who besiege you, shall live*** (Jer 21:9).  
 
-Second, he asks for proof of their veracity: ***and if they are prophets***; it is as though he were saying, “Let them do what is less,” namely, that by turning to God in their prayers, the vessels that remained may not be carried off, so that they might be believed in what is greater, namely, that those which have been carried away will be brought back. *You have not gone up against the enemy, neither have you set up a wall for the house of Israel, that you may stand in battle on the day of the Lord* (Ezek 13:5).
+Second, he asks for proof of their veracity: ***and if they are prophets***; it is as though he were saying, “Let them do what is less,” namely, that by turning to God in their prayers, the vessels that remained may not be carried off, so that they might be believed in what is greater, namely, that those which have been carried away will be brought back. *You have not gone up against the enemy, neither have you set up a wall for the house of Israel, that you may stand in battle on the day of the Lord* (Ezek 13:5).  
 
-Third, he shows the clear proof of their falsity by an argument from the greater to the less, because if what seems more likely—namely, that the remaining vessels will not be carried away—does not happen, then neither therefore will what is less likely happen—namely, that those that have already been taken away will be returned. ***For thus says the Lord to the columns***, the two which Solomon made for the portico, ***and to the sea, and to*** their ***bases***, the vessel in which the water was kept for the washings of the priests, which was set upon twelve bases, all of which is found written in 1 Kings 7.
+Third, he shows the clear proof of their falsity by an argument from the greater to the less, because if what seems more likely—namely, that the remaining vessels will not be carried away—does not happen, then neither therefore will what is less likely happen—namely, that those that have already been taken away will be returned. ***For thus says the Lord to the columns***, the two which Solomon made for the portico, ***and to the sea, and to*** their ***bases***, the vessel in which the water was kept for the washings of the priests, which was set upon twelve bases, all of which is found written in 1 Kings 7.  
 
 And he resumes: ***for thus says the Lord***, because of the vessels of the temple, which he had not moved, except for the vessels which were in the portico. *The vessels of her glory were led captive* (1 Macc 2:9). And he promises that they will be brought back in the distant future: ***and I shall cause them to be brought***, in the times of Cyrus. *Cyrus the king brought forth the sacred vessels of the Lord, which Nebuchadnezzar had taken from Jerusalem, and consecrated to his idol. And bringing them, Cyrus, king of the Persians, handed them over to Mithradites, who had charge of his treasures, and by him were they given over to Shalmanezar, the ruler of Judah* (1 Ezra 1:7–8).
-
-Chapter 28

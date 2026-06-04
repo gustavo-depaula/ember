@@ -16,16 +16,14 @@
 
 > **782**. ***In tempore illo*** etc. Hic ponit amicorum congratulationem, ostensam in missione nuntiorum et munerum; et circa hoc tria facit.
 
-Primo ponit nuntiorum missionem: ***rex Babylonis***, qui tunc suberat Assyriis, ***libros***, epistolas, ***audierat***, sed maxime propter signum quod in solis reversione viderant, Ps. *vivet et dabitur ei* etc.
+Primo ponit nuntiorum missionem: ***rex Babylonis***, qui tunc suberat Assyriis, ***libros***, epistolas, ***audierat***, sed maxime propter signum quod in solis reversione viderant, Ps. *vivet et dabitur ei* etc.  
 
-**783**. Secundo ponit ipsius Ezechiae elationem inde conceptam, ponens elationis laetitiam: ***laetatus***, contra hoc quod Job xxxj *si laetatus sum* etc.; et elationis in opere manifestationem, in ostentatione divitiarum suarum: ***et ostendit cellam aromatum***, quae dicuntur species odoriferae, vel locum ubi sepeliebantur reges, vel inferiorem partem domus saltus, quae erat ex alabastro ubi optime hujusmodi conservantur; ***apothecas***, cellaria; ***verbum***, res digna verbo, ***in omni potestate sua***, quantum ad ea quae erant in templo, quod quidem erat in potestate regis usurpata, Eccli. xi *non omnem hominem inducas* etc.
+**783**. Secundo ponit ipsius Ezechiae elationem inde conceptam, ponens elationis laetitiam: ***laetatus***, contra hoc quod Job xxxj *si laetatus sum* etc.; et elationis in opere manifestationem, in ostentatione divitiarum suarum: ***et ostendit cellam aromatum***, quae dicuntur species odoriferae, vel locum ubi sepeliebantur reges, vel inferiorem partem domus saltus, quae erat ex alabastro ubi optime hujusmodi conservantur; ***apothecas***, cellaria; ***verbum***, res digna verbo, ***in omni potestate sua***, quantum ad ea quae erant in templo, quod quidem erat in potestate regis usurpata, Eccli. xi *non omnem hominem inducas* etc.  
 
-**784**. Tertio ponit elationis reprehensionem: ***introivit***.
+**784**. Tertio ponit elationis reprehensionem: ***introivit***.  
 
-Et primo ponit culpae inquisitionem et manifestationem: ***non fuit res*** etc., Prov. xx *sicut aqua profunda* etc.
+Et primo ponit culpae inquisitionem et manifestationem: ***non fuit res*** etc., Prov. xx *sicut aqua profunda* etc.  
 
-Secundo comminatur poenam: ***et dixit Isaias***, quantum ad amissionem rerum: ***omnia quae in domo*** etc., Jer. xxvii *haec dicit Dominus ad vasa*; et quantum ad filiorum servitutem: ***et de filiis***, quod dicunt impletum in Daniele et sociis, non quia corpore sed mente et officio tales fuerunt, Deut. xxviii *filii tui et filiae tuae* etc.
+Secundo comminatur poenam: ***et dixit Isaias***, quantum ad amissionem rerum: ***omnia quae in domo*** etc., Jer. xxvii *haec dicit Dominus ad vasa*; et quantum ad filiorum servitutem: ***et de filiis***, quod dicunt impletum in Daniele et sociis, non quia corpore sed mente et officio tales fuerunt, Deut. xxviii *filii tui et filiae tuae* etc.  
 
 Tertio ponit poenae acceptationem: ***et dixit Ezechias**: **bonum***, iustum, ***pax*** ab Assyriis, ***veritas*** religionis, supra xxvj ***Domine dabis pacem*** etc.
-
-Caput 40

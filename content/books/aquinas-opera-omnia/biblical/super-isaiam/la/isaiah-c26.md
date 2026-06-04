@@ -42,170 +42,168 @@
 
 > **597**. ***In die illa***. In parte ista gratias agit de populi justificatione, et dividitur in duas:
 
-in prima praedicit justorum statum,
+in prima praedicit justorum statum,  
 
-in secunda ostendit justitiae fructum: ***vetus error***.
+in secunda ostendit justitiae fructum: ***vetus error***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo enim praedicit justorum fiduciam: ***in die illa***, post reditum de captivitate et afflictionem Moabitarum a Machabaeo, vel post Christi adventum; ***O Sion, salvator***, Christus vel Judas Machabaeus, est ***urbs fortitudinis***; ***in ea***, scilicet protectione, ***ponetur murus et antemurale***, ipsi tantum ad litteram tempore Machabaeorum; vel ***murus*** Christus, ***antemurale*** prophetae. Vel aliter: ***Sion*** est urbs, ***salvator*** Deus vel Christus vel Judas Machabaeus, ***murus***, id est defendens sicut murus, Prov. XVIII 10 *turris fortissima nomen Domini*, Zach. II 5 *ero eis, ait Dominus, murus ignis in circuitu*.
+Primo enim praedicit justorum fiduciam: ***in die illa***, post reditum de captivitate et afflictionem Moabitarum a Machabaeo, vel post Christi adventum; ***O Sion, salvator***, Christus vel Judas Machabaeus, est ***urbs fortitudinis***; ***in ea***, scilicet protectione, ***ponetur murus et antemurale***, ipsi tantum ad litteram tempore Machabaeorum; vel ***murus*** Christus, ***antemurale*** prophetae. Vel aliter: ***Sion*** est urbs, ***salvator*** Deus vel Christus vel Judas Machabaeus, ***murus***, id est defendens sicut murus, Prov. XVIII 10 *turris fortissima nomen Domini*, Zach. II 5 *ero eis, ait Dominus, murus ignis in circuitu*.  
 
-**598**. Secundo Dominus praedicat eorum justitiam, dicens ad angelos: ***aperite portas***, caeli vel virtutis, clausas peccatis; vel ad litteram: non oportet vos claudere portas propter infideles, quia omnes erunt justi, Ps. *haec porta Domini justi intrabunt in ea*.
+**598**. Secundo Dominus praedicat eorum justitiam, dicens ad angelos: ***aperite portas***, caeli vel virtutis, clausas peccatis; vel ad litteram: non oportet vos claudere portas propter infideles, quia omnes erunt justi, Ps. *haec porta Domini justi intrabunt in ea*.  
 
-**599**. ***Vetus error***. Hic ponit justitiae fructum, scilicet pacem; de qua primo ponitur populi petitio, quae tria continet.
+**599**. ***Vetus error***. Hic ponit justitiae fructum, scilicet pacem; de qua primo ponitur populi petitio, quae tria continet.  
 
-Proponitur enim idoneitas petentium: ***vetus error***, scilicet idolatriae, II Cor. V 17 *vetera transierunt*; postulatur pacis beneficium: ***servabis pacem*** corporis et animae, infra XXXII 18 ***sedebit populus meus in pulchritudine pacis***; allegatur pacis meritum: ***quia in te speravimus***, Eccli. II 11 *quis speravit in Domino et confusus est?*
+Proponitur enim idoneitas petentium: ***vetus error***, scilicet idolatriae, II Cor. V 17 *vetera transierunt*; postulatur pacis beneficium: ***servabis pacem*** corporis et animae, infra XXXII 18 ***sedebit populus meus in pulchritudine pacis***; allegatur pacis meritum: ***quia in te speravimus***, Eccli. II 11 *quis speravit in Domino et confusus est?*  
 
-**600**. Secundo ponitur prophetae responsio, qui est mediator inter populum et Deum: ***sperastis***. Et dividitur in tres:
+**600**. Secundo ponitur prophetae responsio, qui est mediator inter populum et Deum: ***sperastis***. Et dividitur in tres:  
 
-in prima ponitur pacis promissio;
+in prima ponitur pacis promissio;  
 
-in secunda pacis impetratio: ***semita***;
+in secunda pacis impetratio: ***semita***;  
 
-in tertia impetratae pacis denuntiatio: ***justitiam***.
+in tertia impetratae pacis denuntiatio: ***justitiam***.  
 
-**601**. Circa primum tria.
+**601**. Circa primum tria.  
 
-Primo concedit meritum: ***sperastis in Domino in saeculis***, id est semper, Ps. *in ipso speravit cor meum et adjutus sum*.
+Primo concedit meritum: ***sperastis in Domino in saeculis***, id est semper, Ps. *in ipso speravit cor meum et adjutus sum*.  
 
-Secundo adhibet consilium: ***in Domino Deo***, supple sperate, Matth. X 22 *qui perseveraverit usque in finem, hic salvus erit*.
+Secundo adhibet consilium: ***in Domino Deo***, supple sperate, Matth. X 22 *qui perseveraverit usque in finem, hic salvus erit*.  
 
-Tertio promittit pacis beneficium pro destructione hostium: ***quia incurvabit habitantes***. Judaei referunt ad Romanos; potest autem referri ad quoslibet ipsorum hostes, vel mystice ad ipsos Judaeos, supra XXV 12 ***munimenta sublimium murorum tuorum corruent***. Et adjungit destruentium conditionem: ***conculcabit eam pes***; ***pauperis***, Judaei, qui parum habet; ***egenorum***, qui eget plura habere. Vel, si mystice, ponit meritum destructionis Judaeorum propter pauperem Christum, de quo in Psalmo *ego autem egenus sum et pauper*, et alibi *ego sum pauper et dolens; **egenorum***, discipulorum.
+Tertio promittit pacis beneficium pro destructione hostium: ***quia incurvabit habitantes***. Judaei referunt ad Romanos; potest autem referri ad quoslibet ipsorum hostes, vel mystice ad ipsos Judaeos, supra XXV 12 ***munimenta sublimium murorum tuorum corruent***. Et adjungit destruentium conditionem: ***conculcabit eam pes***; ***pauperis***, Judaei, qui parum habet; ***egenorum***, qui eget plura habere. Vel, si mystice, ponit meritum destructionis Judaeorum propter pauperem Christum, de quo in Psalmo *ego autem egenus sum et pauper*, et alibi *ego sum pauper et dolens; **egenorum***, discipulorum.  
 
-**602**. ***Semita justi***. Hic ponitur quasi disceptatio prophetae cum Domino ad impetrandam petitionem populi.
+**602**. ***Semita justi***. Hic ponitur quasi disceptatio prophetae cum Domino ad impetrandam petitionem populi.  
 
-Et primo inducit ad puniendum hostes per argumenta,
+Et primo inducit ad puniendum hostes per argumenta,  
 
-secundo per experimenta: ***indulsisti***.
+secundo per experimenta: ***indulsisti***.  
 
-Circa primum duo facit:
+Circa primum duo facit:  
 
-primo inducit ut puniat,
+primo inducit ut puniat,  
 
-secundo ut in poena detineat: ***morientes***.
+secundo ut in poena detineat: ***morientes***.  
 
-Circa primum tria facit:
+Circa primum tria facit:  
 
-primo inducit ad justitiam,
+primo inducit ad justitiam,  
 
-secundo excludit misericordiam: ***misereamur***,
+secundo excludit misericordiam: ***misereamur***,  
 
-tertio determinat poenam: ***et non videbit***.
+tertio determinat poenam: ***et non videbit***.  
 
-**603**. Provocat autem ad justitiam tria proponens.
+**603**. Provocat autem ad justitiam tria proponens.  
 
-Primo justitiae rectitudinem: ***semita justi***, id est justitiae, Sap. X 10 *justum deducit Dominus per vias rectas*.
+Primo justitiae rectitudinem: ***semita justi***, id est justitiae, Sap. X 10 *justum deducit Dominus per vias rectas*.  
 
-Secundo afflictorum expectationem, proponens tria:
+Secundo afflictorum expectationem, proponens tria:  
 
-ipsam expectationem: ***in semita***, id est per poenam, ***judiciorum tuorum***, quibus nos vindicas et liberas, Ps. *in aeternum non obliviscar justificationes tuas quia in ipsis vivificasti me*;
+ipsam expectationem: ***in semita***, id est per poenam, ***judiciorum tuorum***, quibus nos vindicas et liberas, Ps. *in aeternum non obliviscar justificationes tuas quia in ipsis vivificasti me*;  
 
-expectantium desiderium: ***nomen tuum***, Jer. XXIII 6 *hoc est nomen quod vocabunt eum: Dominus justus noster*;
+expectantium desiderium: ***nomen tuum***, Jer. XXIII 6 *hoc est nomen quod vocabunt eum: Dominus justus noster*;  
 
-desiderii assiduitatem: quia ***die et nocte***, id est omni tempore, vel in prosperis et adversis, ***anima mea***, Cant. III 1 *in lectulo meo quaesivi quem diligit anima mea*, Ps. *Deus, Deus meus, ad te de luce vigilo*.
+desiderii assiduitatem: quia ***die et nocte***, id est omni tempore, vel in prosperis et adversis, ***anima mea***, Cant. III 1 *in lectulo meo quaesivi quem diligit anima mea*, Ps. *Deus, Deus meus, ad te de luce vigilo*.  
 
-Tertio proponit justitiae utilitatem: ***cum feceris judicia***, Ps. *cognoscetur Dominus judicia faciens*.
+Tertio proponit justitiae utilitatem: ***cum feceris judicia***, Ps. *cognoscetur Dominus judicia faciens*.  
 
-**604**. ***Misereamur***. Hic excludit misericordiam, et circa hoc duo facit.
+**604**. ***Misereamur***. Hic excludit misericordiam, et circa hoc duo facit.  
 
-Primo Dominus interrogative proponit misericordiam: ***misereamur***, Ps. *misericordia Domini plena est terra*.
+Primo Dominus interrogative proponit misericordiam: ***misereamur***, Ps. *misericordia Domini plena est terra*.  
 
-Secundo propheta excludit ipsam, propter ejus inutilitatem: ***et non discet***, Eccl. VIII 11 *quia non profert Dominus cito sententiam, filii hominum perpetrant mala*, Eccli. XXX 8 *equus indomitus evadet durus, et filius remissus evadet praeceps*; et propter peccati gravitatem, propter sacri loci profanationem: ***in terra sanctorum***, Ps.: *Deus venerunt gentes in hereditatem tuam, polluerunt templum sanctum tuum*, Jer. XI 15 *quid est quod dilectus meus in domo mea fecit scelera multa?*
+Secundo propheta excludit ipsam, propter ejus inutilitatem: ***et non discet***, Eccl. VIII 11 *quia non profert Dominus cito sententiam, filii hominum perpetrant mala*, Eccli. XXX 8 *equus indomitus evadet durus, et filius remissus evadet praeceps*; et propter peccati gravitatem, propter sacri loci profanationem: ***in terra sanctorum***, Ps.: *Deus venerunt gentes in hereditatem tuam, polluerunt templum sanctum tuum*, Jer. XI 15 *quid est quod dilectus meus in domo mea fecit scelera multa?*  
 
-**605**. ***Et non videbit***. Hic ponitur disceptatio de poena determinanda.
+**605**. ***Et non videbit***. Hic ponitur disceptatio de poena determinanda.  
 
-Et primo Dominus interrogat: ***et non videbit***; quasi: numquid debeo hanc poenam sibi dare quod non videat? Vel remissive: et sufficit hoc ad poenam.
+Et primo Dominus interrogat: ***et non videbit***; quasi: numquid debeo hanc poenam sibi dare quod non videat? Vel remissive: et sufficit hoc ad poenam.  
 
-**606**. Secundo propheta respondet ***Domine exaltetur***.
+**606**. Secundo propheta respondet ***Domine exaltetur***.  
 
-**607**. Tertio Dominus poenam determinat spiritualem: ***videant et confundantur***, Apoc. I 7 *videbit eum omnis oculus*, in gloria humanitatis, non divinitatis; et corporalem, Apoc. XIX 20 *missi sunt in stagnum ignis*.
+**607**. Tertio Dominus poenam determinat spiritualem: ***videant et confundantur***, Apoc. I 7 *videbit eum omnis oculus*, in gloria humanitatis, non divinitatis; et corporalem, Apoc. XIX 20 *missi sunt in stagnum ignis*.  
 
-**608**. Quarto propheta congaudens consentit, proponens duo bona consequentia ex dicta poena: pacem populi, ergo ***Domine***, hoc facto ***dabis pacem***, et hoc de te speramus: **omnia enim**, Phil. II 13 *Deus est qui operatur in nobis velle et perficere*, ***operatus es***, ***opera***, id est poenas quibus sufficienter nos purgasti, infra XL 2 ***suscepit de manu Domini duplicia***.
+**608**. Quarto propheta congaudens consentit, proponens duo bona consequentia ex dicta poena: pacem populi, ergo ***Domine***, hoc facto ***dabis pacem***, et hoc de te speramus: **omnia enim**, Phil. II 13 *Deus est qui operatur in nobis velle et perficere*, ***operatus es***, ***opera***, id est poenas quibus sufficienter nos purgasti, infra XL 2 ***suscepit de manu Domini duplicia***.  
 
-Secundo laudem Dei: ***Domine Deus, possederunt***, et ideo laudi tuae vacare non potuimus; ***tantum in te***, non habentes alium Deum cui soli vacemus, Thren. ult. *servi dominati sunt nostri*.
+Secundo laudem Dei: ***Domine Deus, possederunt***, et ideo laudi tuae vacare non potuimus; ***tantum in te***, non habentes alium Deum cui soli vacemus, Thren. ult. *servi dominati sunt nostri*.  
 
-**609**. Nota super illo verbo ***urbs fortitudinis***, quod Christus est urbs fortitudinis nostrae quia nos confirmat:
+**609**. Nota super illo verbo ***urbs fortitudinis***, quod Christus est urbs fortitudinis nostrae quia nos confirmat:  
 
-primo in fide, I Cor. III 11 *fundamentum aliud nemo potest ponere praeter id quod positum est, quod est Christus Jesus*;
+primo in fide, I Cor. III 11 *fundamentum aliud nemo potest ponere praeter id quod positum est, quod est Christus Jesus*;  
 
-secundo in spe, Hebr. VI 18 *fortissimum solatium habeamus qui confugimus ad tenendam propositam spem*;
+secundo in spe, Hebr. VI 18 *fortissimum solatium habeamus qui confugimus ad tenendam propositam spem*;  
 
-tertio in caritate, Eph. III 17 *in caritate radicati et fundati*, Lucae XII 49 *ignem veni mittere in terram*;
+tertio in caritate, Eph. III 17 *in caritate radicati et fundati*, Lucae XII 49 *ignem veni mittere in terram*;  
 
-quarto in opere, Phil. II 13 *Deus qui operatur nobis velle et perficere pro bona voluntate*;
+quarto in opere, Phil. II 13 *Deus qui operatur nobis velle et perficere pro bona voluntate*;  
 
-quinto in tentatione, I Cor. X 13 *fidelis Deus qui non permittet vos tentari supra id quod potestis*;
+quinto in tentatione, I Cor. X 13 *fidelis Deus qui non permittet vos tentari supra id quod potestis*;  
 
-sexto in accusatione, I Jo. I *advocatum habemus ad Deum Jesum Christum*;
+sexto in accusatione, I Jo. I *advocatum habemus ad Deum Jesum Christum*;  
 
-septimo in remuneratione, Apoc. III 12 *faciam illum columnam in templo Dei mei*.
+septimo in remuneratione, Apoc. III 12 *faciam illum columnam in templo Dei mei*.  
 
-**610**. Item nota super illo verbo ***aperite***, quod aperire debemus portas per meditationem,
+**610**. Item nota super illo verbo ***aperite***, quod aperire debemus portas per meditationem,  
 
-primo infernalis miseriae, infra XXXVIII 10 ***vadam ad portas inferi***;
+primo infernalis miseriae, infra XXXVIII 10 ***vadam ad portas inferi***;  
 
-secundo justae vitae, Prov. ult. *laudent in portis opera ejus*;
+secundo justae vitae, Prov. ult. *laudent in portis opera ejus*;  
 
-tertio caelestis gloriae, Ps. *confortavit seras portarum tuarum*.
+tertio caelestis gloriae, Ps. *confortavit seras portarum tuarum*.  
 
-**611**. Item nota super illo ***pacem***, quod tria sunt quae faciunt pacem in praesenti:
+**611**. Item nota super illo ***pacem***, quod tria sunt quae faciunt pacem in praesenti:  
 
-primo contemptus temporalis opulentiae, infra LVII 20 ***impii autem quasi mare fervens quod quiescere non potest***;
+primo contemptus temporalis opulentiae, infra LVII 20 ***impii autem quasi mare fervens quod quiescere non potest***;  
 
-secundo subjugatio carnalis concupiscentiae, Eccli. XLIV 6 *pacificantes in domibus suis*;
+secundo subjugatio carnalis concupiscentiae, Eccli. XLIV 6 *pacificantes in domibus suis*;  
 
-tertio contemplatio divinae sapientiae, Ps. *in pace factus est locus ejus et habitatio ejus in Sion*.
+tertio contemplatio divinae sapientiae, Ps. *in pace factus est locus ejus et habitatio ejus in Sion*.  
 
-**612**. Item nota super illo ***semita justi***, quod est via justitiae recta:
+**612**. Item nota super illo ***semita justi***, quod est via justitiae recta:  
 
-primo propter itineris brevitatem, Sap. VI *ambulavimus vias difficiles*;
+primo propter itineris brevitatem, Sap. VI *ambulavimus vias difficiles*;  
 
-secundo propter situs aequalitatem, cujus medium non discrepat, Jo. XIII 3 *sciens quia ad Deum vadit*;
+secundo propter situs aequalitatem, cujus medium non discrepat, Jo. XIII 3 *sciens quia ad Deum vadit*;  
 
-tertio propter pulchritudinem, Jer. XXXI 23 *benedicat tibi Dominus, pulchritudo justitiae, mons sanctus*.
+tertio propter pulchritudinem, Jer. XXXI 23 *benedicat tibi Dominus, pulchritudo justitiae, mons sanctus*.  
 
-**613**. Nota super illo verbo ***pacem***, quod tria sunt quae faciunt pacem in futuro:
+**613**. Nota super illo verbo ***pacem***, quod tria sunt quae faciunt pacem in futuro:  
 
-primo bonorum ubertas, Ps. *posuit fines tuos pacem*;
+primo bonorum ubertas, Ps. *posuit fines tuos pacem*;  
 
-secundo malorum securitas, infra XXXII 18 ***sedebit populus meus in tabernaculis fiduciae***;
+secundo malorum securitas, infra XXXII 18 ***sedebit populus meus in tabernaculis fiduciae***;  
 
-tertio immobilitas, Ps. *in pace in idipsum dormiam et requiescam*.
+tertio immobilitas, Ps. *in pace in idipsum dormiam et requiescam*.  
 
-**614**. ***Morientes***. Hic petit ne punitos ulterius a poena liberet.
+**614**. ***Morientes***. Hic petit ne punitos ulterius a poena liberet.  
 
-Et primo ponit petitionem: ***morientes***, peccatores, ***non vivant*** vita gloriae, nisi poeniteant; ***gigantes***, de sua potentia gloriantes, ***non resurgant*** ad gloriam, Ps. *non resurgent impii*, Eccli. XVI 8 *non exoraverunt pro peccatis suis antiqui gigantes*; vel petit ut hostes eorum deiecti ulterius non resurgant ad potentiam.
+Et primo ponit petitionem: ***morientes***, peccatores, ***non vivant*** vita gloriae, nisi poeniteant; ***gigantes***, de sua potentia gloriantes, ***non resurgant*** ad gloriam, Ps. *non resurgent impii*, Eccli. XVI 8 *non exoraverunt pro peccatis suis antiqui gigantes*; vel petit ut hostes eorum deiecti ulterius non resurgant ad potentiam.  
 
-Secundo ponit exauditionem: ***propterea***, Ps. *pereat memoria eorum cum sonitu*, Jer. VIII 12 *in tempore visitationis suae corruent*.
+Secundo ponit exauditionem: ***propterea***, Ps. *pereat memoria eorum cum sonitu*, Jer. VIII 12 *in tempore visitationis suae corruent*.  
 
-**615**. ***Indulsisti***. Hic inducit Deum ad iustitiae opus per experimentum;
+**615**. ***Indulsisti***. Hic inducit Deum ad iustitiae opus per experimentum;  
 
-et primo per experimentum in gentibus,
+et primo per experimentum in gentibus,  
 
-secundo in Judaeis: ***sicut quae concepit***.
+secundo in Judaeis: ***sicut quae concepit***.  
 
-Circa primum duo facit.
+Circa primum duo facit.  
 
-Primo probat per experimentum inutilitatem misericordiae, tum quantum ad remissionem poenarum: ***indulsisti***, tum quantum ad multiplicationem bonorum: ***elongasti***, Jer. V 27 *magnificati sunt et ditati, et incrassati sunt et impinguati, et praeterierunt sermones meos pessime*, Prov. I 32 *prosperitas stultorum*.
+Primo probat per experimentum inutilitatem misericordiae, tum quantum ad remissionem poenarum: ***indulsisti***, tum quantum ad multiplicationem bonorum: ***elongasti***, Jer. V 27 *magnificati sunt et ditati, et incrassati sunt et impinguati, et praeterierunt sermones meos pessime*, Prov. I 32 *prosperitas stultorum*.  
 
-Secundo utilitatem vindicantis justitiae: ***Domine in angustia***, Oseae VI 1 *in tribulatione sua mane consurgent ad me*, Ez. VI *in tempore afflictionis*.
+Secundo utilitatem vindicantis justitiae: ***Domine in angustia***, Oseae VI 1 *in tribulatione sua mane consurgent ad me*, Ez. VI *in tempore afflictionis*.  
 
-**616**. ***Sicut quae concepit***. Hic probat idem per experimentum in Judaeis.
+**616**. ***Sicut quae concepit***. Hic probat idem per experimentum in Judaeis.  
 
-Et primo ponit tribulationis flagellum: ***sicut quae concepit***, Jo. XVI 21 *mulier cum parit tristitiam habet*, Ps. *ibi dolores ut parturientis*.
+Et primo ponit tribulationis flagellum: ***sicut quae concepit***, Jo. XVI 21 *mulier cum parit tristitiam habet*, Ps. *ibi dolores ut parturientis*.  
 
-Secundo emendationis fructum: ***a facie tua***, Hebr. XII 11 *omnis quidem disciplina in praesenti quidem videtur non esse gaudii sed moeroris; postea autem fructum pacatissimum exercitatis per eam reddit justitiae*.
+Secundo emendationis fructum: ***a facie tua***, Hebr. XII 11 *omnis quidem disciplina in praesenti quidem videtur non esse gaudii sed moeroris; postea autem fructum pacatissimum exercitatis per eam reddit justitiae*.  
 
-**617**. ***Justitiam non fecimus***. Hic denuntiat impetratam pacem, et circa hoc tria facit.
+**617**. ***Justitiam non fecimus***. Hic denuntiat impetratam pacem, et circa hoc tria facit.  
 
-Primo ostenditur ratio dilationis: ***justitiam non fecimus***, ut alludat ei quod dicitur Deut. XXVIII 7 *dabit Dominus inimicos tuos qui consurgunt adversus te, corruentes in conspectu tuo*.
+Primo ostenditur ratio dilationis: ***justitiam non fecimus***, ut alludat ei quod dicitur Deut. XXVIII 7 *dabit Dominus inimicos tuos qui consurgunt adversus te, corruentes in conspectu tuo*.  
 
-**618**. Secundo ponitur promissio restitutionis populi per resurrectionem, sive corporalem in die novissimo, sive a miseria captivitatis. Unde promittitur resurrectio: ***vivent mortui***, Ez. XXXVII, vox prophetae ad Dominum; indicitur resurgentibus gratiarum actio: ***expergiscimini***, Dan. XII 2 *multi ex his qui dormiunt in pulvere terrae evigilabunt*; et assignatur resurrectionis causa vel ratio: ***quia ros lucis***, scilicet divina benignitas, Oseae VI 3.
+**618**. Secundo ponitur promissio restitutionis populi per resurrectionem, sive corporalem in die novissimo, sive a miseria captivitatis. Unde promittitur resurrectio: ***vivent mortui***, Ez. XXXVII, vox prophetae ad Dominum; indicitur resurgentibus gratiarum actio: ***expergiscimini***, Dan. XII 2 *multi ex his qui dormiunt in pulvere terrae evigilabunt*; et assignatur resurrectionis causa vel ratio: ***quia ros lucis***, scilicet divina benignitas, Oseae VI 3.  
 
-**619**. Tertio ostenditur hostium destructio, <et primo ponit ipsam>: ***terram gigantium***, id est superborum et potentium, supra XVII 1 ***erit quasi acervus lapidum in ruina***.
+**619**. Tertio ostenditur hostium destructio, <et primo ponit ipsam>: ***terram gigantium***, id est superborum et potentium, supra XVII 1 ***erit quasi acervus lapidum in ruina***.  
 
-Secundo populi Dei immunitatem: ***vade populus meus**; **cubicula***, sepulcra, vel ad litteram munitionem, in quibus interdum se caute custodiunt, infra LIV 8 ***in momento indignationis abscondi faciem meam parumper a te, et misericordia sempiterna misertus sum tui***, Apoc. VII *dictum est illis ut quiescerent adhuc modicum, donec compleretur numerus fratrum suorum*.
+Secundo populi Dei immunitatem: ***vade populus meus**; **cubicula***, sepulcra, vel ad litteram munitionem, in quibus interdum se caute custodiunt, infra LIV 8 ***in momento indignationis abscondi faciem meam parumper a te, et misericordia sempiterna misertus sum tui***, Apoc. VII *dictum est illis ut quiescerent adhuc modicum, donec compleretur numerus fratrum suorum*.  
 
 Tertio ponit destructionis ordinem, quia per judicium; unde ponit judicis adventum: ***ecce enim Dominus***, Mich. I 3 *ecce Dominus egredietur*, et omnes angeli ejus cum eo; et manifestationem criminum: ***et revelabit***, Job XVI 19 *terra ne operias sanguinem meum, neque inveniat in te locum latendi clamor meus*.
-
-Caput 27

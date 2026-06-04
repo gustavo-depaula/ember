@@ -48,114 +48,114 @@
 
 > **1136**. ***Haec dicit Dominus***. Hic determinat modum executionis dictae sententiae.
 
-Et primo specialiter quantum ad Judaeos,
+Et primo specialiter quantum ad Judaeos,  
 
-secundo universaliter quantum ad omnes: ***ego autem opera eorum et cogitatione**s*.
+secundo universaliter quantum ad omnes: ***ego autem opera eorum et cogitatione**s*.  
 
-Prima dividitur in duas:
+Prima dividitur in duas:  
 
-in prima excludit falsam confidentiam;
+in prima excludit falsam confidentiam;  
 
-secundo proponit et determinat datam sententiam quantum ad modum executionis: ***audite verbum Domini***.
+secundo proponit et determinat datam sententiam quantum ad modum executionis: ***audite verbum Domini***.  
 
-**1137**. Circa primum duo.
+**1137**. Circa primum duo.  
 
-Primo excludit falsam fiduciam a templi sanctitate, ostendens templum non esse Dei locum:
+Primo excludit falsam fiduciam a templi sanctitate, ostendens templum non esse Dei locum:  
 
-tum ex Dei magnitudine qui omnia implet, cuius ***caelum sedes*** dicitur quia multum participat de bonitatibus ipsius, sicut sedes magnam partem sedentis habet, ***terra scabellum***, quia terra minimum participat de bonitatibus ipsius, sicut extrema pars ad scabellum pervenit; vel per ***caelum*** sanctos, per ***terram*** terrenos, III Reg. VIII 27 *si caelum et caeli caelorum non te capiunt*, Jer. XXIII 24 *caelum et terram ego impleo*, Act. XVII 24 *non in manufactis templi*.
+tum ex Dei magnitudine qui omnia implet, cuius ***caelum sedes*** dicitur quia multum participat de bonitatibus ipsius, sicut sedes magnam partem sedentis habet, ***terra scabellum***, quia terra minimum participat de bonitatibus ipsius, sicut extrema pars ad scabellum pervenit; vel per ***caelum*** sanctos, per ***terram*** terrenos, III Reg. VIII 27 *si caelum et caeli caelorum non te capiunt*, Jer. XXIII 24 *caelum et terram ego impleo*, Act. XVII 24 *non in manufactis templi*.  
 
-Tum ex quiete, quia in loco quiescit unumquodque cujus est locus; Deus autem non quiescit in aliquo sed omnia in ipso sicut ab ipso facta: ***et quis est locus?***, supra XL 26 ***levate in excelsum***. Et dat utile remedium: ***ad quem autem***; ***pauperculum***, id est humilem qui se parvum reputat quantum ad praesentia, ***contritum*** de peccatis praeteritis, ***trementem*** quantum ad propositum de futuris faciendis, Eccli. XV 20 *oculi ejus ad timentes eum*.
+Tum ex quiete, quia in loco quiescit unumquodque cujus est locus; Deus autem non quiescit in aliquo sed omnia in ipso sicut ab ipso facta: ***et quis est locus?***, supra XL 26 ***levate in excelsum***. Et dat utile remedium: ***ad quem autem***; ***pauperculum***, id est humilem qui se parvum reputat quantum ad praesentia, ***contritum*** de peccatis praeteritis, ***trementem*** quantum ad propositum de futuris faciendis, Eccli. XV 20 *oculi ejus ad timentes eum*.  
 
-**1138**. Secundo excludit confidentiam quam conceperant ex ritu sacrificiorum.
+**1138**. Secundo excludit confidentiam quam conceperant ex ritu sacrificiorum.  
 
-Et primo ponit ipsorum reprobationem: ***qui immolat bovem***, ac si diceret: ita sunt abominabilia ipsorum sacrificia, ac si aliquid contra legem facerent, quia eadem idolis offerebant; ***qui benedicat***, laudat et veneratur, supra I 13 ***ne offeratis ultra sacrificium***.
+Et primo ponit ipsorum reprobationem: ***qui immolat bovem***, ac si diceret: ita sunt abominabilia ipsorum sacrificia, ac si aliquid contra legem facerent, quia eadem idolis offerebant; ***qui benedicat***, laudat et veneratur, supra I 13 ***ne offeratis ultra sacrificium***.  
 
-Secundo ostendit reprobationis rationem,
+Secundo ostendit reprobationis rationem,  
 
-primo ponens culpam: ***haec omnia elegerunt***, scilicet sacrificia, ambulantes ***in viis suis*** malis, Prov. II 14 *laetantur cum male fecerint, et exultant in rebus pessimis*;
+primo ponens culpam: ***haec omnia elegerunt***, scilicet sacrificia, ambulantes ***in viis suis*** malis, Prov. II 14 *laetantur cum male fecerint, et exultant in rebus pessimis*;  
 
-secundo comminatur poenam: ***unde et ego***, Prov. III 34 *illusores ipse deludet*, Job III 25 *timor quem timebam evenit mihi, et quod verebar accidit*.
+secundo comminatur poenam: ***unde et ego***, Prov. III 34 *illusores ipse deludet*, Job III 25 *timor quem timebam evenit mihi, et quod verebar accidit*.  
 
-Tertio arguit peccantium duritiam: ***quia vocavi***, Prov. I 24 *vocavi et renuistis*.
+Tertio arguit peccantium duritiam: ***quia vocavi***, Prov. I 24 *vocavi et renuistis*.  
 
-**1139**. ***Audite verbum Domini***. Hic exequitur modum executionis dictae sententiae.
+**1139**. ***Audite verbum Domini***. Hic exequitur modum executionis dictae sententiae.  
 
-Et primo quantum ad praemia bonorum,
+Et primo quantum ad praemia bonorum,  
 
-secundo quantum ad supplicia malorum: ***et cognoscetur***.
+secundo quantum ad supplicia malorum: ***et cognoscetur***.  
 
-Prima in duas.
+Prima in duas.  
 
-Primo excitat attentionem: ***qui tremitis***, ex reverentia verborum ipsius, Eccli. II 8 *qui timetis Dominum, credite illi*;
+Primo excitat attentionem: ***qui tremitis***, ex reverentia verborum ipsius, Eccli. II 8 *qui timetis Dominum, credite illi*;  
 
-secundo prosequitur promissionem.
+secundo prosequitur promissionem.  
 
-Et primo quantum ad vindictam de irrisoribus, ponens eorum irrisionem: ***dixerunt fratres vestri**: **glorificetur***, quasi dicat: appareat gloria Domini quam expectatis, quasi dicat: nunquam apparebit, supra V 26 ***festinus velociter veniet, non est deficiens neque laborans in eo***; et praedicens eorum confusionem: ***ipsi autem confundentur***, hoc modo quia ***vox populi*** timentis, ***vox Domini***, quantum ad hostium tumultus, Soph. I 14 *vox diei Domini amara*.
+Et primo quantum ad vindictam de irrisoribus, ponens eorum irrisionem: ***dixerunt fratres vestri**: **glorificetur***, quasi dicat: appareat gloria Domini quam expectatis, quasi dicat: nunquam apparebit, supra V 26 ***festinus velociter veniet, non est deficiens neque laborans in eo***; et praedicens eorum confusionem: ***ipsi autem confundentur***, hoc modo quia ***vox populi*** timentis, ***vox Domini***, quantum ad hostium tumultus, Soph. I 14 *vox diei Domini amara*.  
 
-**1140**. Secundo exequitur promissionem quantum ad bonorum abundantiam.
+**1140**. Secundo exequitur promissionem quantum ad bonorum abundantiam.  
 
-Et primo ad populi readunationem, ponens promissionem: ***antequam parturiret***, id est subito et simul filii Jerusalem congregabuntur ad ipsam, sicut si mulier subito filium pareret non praecedente partu, supra XXXVII 3 ***venerunt filii usque ad partum***. Mystice exponitur de partu Beatae Virginis, et de partu Ecclesiae in conversione fidelium, et de parturitione aeternae generationis.
+Et primo ad populi readunationem, ponens promissionem: ***antequam parturiret***, id est subito et simul filii Jerusalem congregabuntur ad ipsam, sicut si mulier subito filium pareret non praecedente partu, supra XXXVII 3 ***venerunt filii usque ad partum***. Mystice exponitur de partu Beatae Virginis, et de partu Ecclesiae in conversione fidelium, et de parturitione aeternae generationis.  
 
-Et inducit admirativam quaestionem: ***quis audivit unquam talia?***, supra XLIX 21 ***quis genuit mihi?***; et ponit responsionem ex persona Domini: ***numquid ego, non pariam?***, congregans Judaeos, vel fideles convertens; vel Filium ab aeterno. Simile Ps. *qui plantavit aurem non audiet, aut qui finxit oculum non considerat?* Et haec argumenta tenent si illud quod est perfectionis in creaturis attribuatur, remoto omni eo quod imperfectionis est.
+Et inducit admirativam quaestionem: ***quis audivit unquam talia?***, supra XLIX 21 ***quis genuit mihi?***; et ponit responsionem ex persona Domini: ***numquid ego, non pariam?***, congregans Judaeos, vel fideles convertens; vel Filium ab aeterno. Simile Ps. *qui plantavit aurem non audiet, aut qui finxit oculum non considerat?* Et haec argumenta tenent si illud quod est perfectionis in creaturis attribuatur, remoto omni eo quod imperfectionis est.  
 
-**1141**. Secundo promittit congregatis immensam consolationem.
+**1141**. Secundo promittit congregatis immensam consolationem.  
 
-Et primo invitat alios ad congratulationem: ***laetamini cum Jerusalem, in ea*** sicut in objecto gaudii, ponens conditionem congratulantium quantum ad affectum: ***qui diligitis***, Cant. V 1 *comedite amici et bibite et inebriamini carissimi*; quantum ad affectus signum: ***qui lugetis***, Matth. V 5 *beati qui lugent, quoniam ipsi consolabuntur*; et congratulationis fructum quantum ad participationes laetitiae vel pacis: ***ut sugatis***, Cant. I 1 *meliora sunt ubera tua vino*; quantum ad participationem gloriae: ***ut mulgeatis***, quasi mulgentes lac, Job XXII 26 *tunc super Omnipotentem deliciis afflues*.
+Et primo invitat alios ad congratulationem: ***laetamini cum Jerusalem, in ea*** sicut in objecto gaudii, ponens conditionem congratulantium quantum ad affectum: ***qui diligitis***, Cant. V 1 *comedite amici et bibite et inebriamini carissimi*; quantum ad affectus signum: ***qui lugetis***, Matth. V 5 *beati qui lugent, quoniam ipsi consolabuntur*; et congratulationis fructum quantum ad participationes laetitiae vel pacis: ***ut sugatis***, Cant. I 1 *meliora sunt ubera tua vino*; quantum ad participationem gloriae: ***ut mulgeatis***, quasi mulgentes lac, Job XXII 26 *tunc super Omnipotentem deliciis afflues*.  
 
-**1142**. Secundo promittit copiosam collationem pacis: ***quia haec dicit Dominus: declinabo***, ut vocetur redundantia, sicut fluvius descendens cum magno impetu venit nec redundat; et gloriae: ***et quasi torrentem***, supra XLVIII 18 ***facta fuisset sicut flumen***.
+**1142**. Secundo promittit copiosam collationem pacis: ***quia haec dicit Dominus: declinabo***, ut vocetur redundantia, sicut fluvius descendens cum magno impetu venit nec redundat; et gloriae: ***et quasi torrentem***, supra XLVIII 18 ***facta fuisset sicut flumen***.  
 
-**1143**. Tertio promittit consolationis plenam perceptionem.
+**1143**. Tertio promittit consolationis plenam perceptionem.  
 
-Primo quantum ad gentium administrationem: ***quam sugetis***, id est ***gloriam gentium***, quia ipsi reges gentium consolabuntur et sustentabunt vos, unde sequitur: ***ad ubera***. Mystice: loquitur de apostolis, qui in gloriam gentium velociter conversarum delectati sunt et eas quasi ad ubera blandis admonitionibus portaverunt, supra LX 16 ***suges lac***.
+Primo quantum ad gentium administrationem: ***quam sugetis***, id est ***gloriam gentium***, quia ipsi reges gentium consolabuntur et sustentabunt vos, unde sequitur: ***ad ubera***. Mystice: loquitur de apostolis, qui in gloriam gentium velociter conversarum delectati sunt et eas quasi ad ubera blandis admonitionibus portaverunt, supra LX 16 ***suges lac***.  
 
-Secundo quantum ad divinam protectionem: ***quomodo si cui mater***, Hebr. XII 5 *obliti estis consolationis*.
+Secundo quantum ad divinam protectionem: ***quomodo si cui mater***, Hebr. XII 5 *obliti estis consolationis*.  
 
-Tertio quantum ad bonorum fruitionem: ***videbitis*** bona a Deo vobis data; ***ossa***, vos qui in adversitate sicut ossa arida eratis, Ez. XXXVII 4 *ossa arida, audite verbum Domini*. Vel ***videbitis*** divinam essentiam, Eccl. XI 7 *dulce lumen et delectabile oculis videre solem; **ossa***, in resurrectionem.
+Tertio quantum ad bonorum fruitionem: ***videbitis*** bona a Deo vobis data; ***ossa***, vos qui in adversitate sicut ossa arida eratis, Ez. XXXVII 4 *ossa arida, audite verbum Domini*. Vel ***videbitis*** divinam essentiam, Eccl. XI 7 *dulce lumen et delectabile oculis videre solem; **ossa***, in resurrectionem.  
 
-**1144**. ***Et cognoscetur***. Hic promittit malis supplicia.
+**1144**. ***Et cognoscetur***. Hic promittit malis supplicia.  
 
-Et primo comminatur poenam, ponens judicis indignationem: ***manus***, affligens impios, in ***servis***; vel ***manus*** consolationis in ***servis*** per effectum, supra XXVIII ***indignatio non est mihi***. Ponit etiam poenae magnitudinem: ***quia ecce Dominus in igne***, quo civitas comburenda erat, vel quo mundus purgandus; ***quadrigae***, exercitus Chaldaeorum in quo quasi venit Deus, vel angeli qui cum ipso ad judicium venient, Ps. *ignis ante ipsum praecedet*, Amos IX 10 *gladio Dei peribunt*. Ponit etiam punitorum multitudinem: ***multiplicabuntur***, supra XXXIV 6 ***victima enim Domini in Bosra et interfectio magna in terra Edom***.
+Et primo comminatur poenam, ponens judicis indignationem: ***manus***, affligens impios, in ***servis***; vel ***manus*** consolationis in ***servis*** per effectum, supra XXVIII ***indignatio non est mihi***. Ponit etiam poenae magnitudinem: ***quia ecce Dominus in igne***, quo civitas comburenda erat, vel quo mundus purgandus; ***quadrigae***, exercitus Chaldaeorum in quo quasi venit Deus, vel angeli qui cum ipso ad judicium venient, Ps. *ignis ante ipsum praecedet*, Amos IX 10 *gladio Dei peribunt*. Ponit etiam punitorum multitudinem: ***multiplicabuntur***, supra XXXIV 6 ***victima enim Domini in Bosra et interfectio magna in terra Edom***.  
 
-**1145**. Secundo improperat culpam: ***qui sanctificabantur***, putantes se mundare ab immunditiis aquis vel etiam sacrificiis idolorum ***in hortis***, in quibus idola colebant, vel voluptati se exercebant; ***post unam***, cum mulieribus more pecudum coeuntes, vel ***post januam***, alia littera; ***murem***, glirem, contra legem Levi. XI 29, supra LXV 4 ***comedunt carnem suillam et jus profanum***.
+**1145**. Secundo improperat culpam: ***qui sanctificabantur***, putantes se mundare ab immunditiis aquis vel etiam sacrificiis idolorum ***in hortis***, in quibus idola colebant, vel voluptati se exercebant; ***post unam***, cum mulieribus more pecudum coeuntes, vel ***post januam***, alia littera; ***murem***, glirem, contra legem Levi. XI 29, supra LXV 4 ***comedunt carnem suillam et jus profanum***.  
 
-**1146**. ***Ego autem***. Hic prosequitur modum discretionis quantum ad omnes communiter.
+**1146**. ***Ego autem***. Hic prosequitur modum discretionis quantum ad omnes communiter.  
 
-Et primo indicit universale judicium: ***opera et cogitationes***, quasi pro utrisque judicans; ***venio***, in die judicii, vel diversa regna hostium vestrorum et in vobis malos destruens; ***venient*** in Jerusalem post vestrum reditum, vel ad judicium, vel ad fidem, Joelis III 7 *ecce ego suscitabo eos de loco in quo vendidistis eos*.
+Et primo indicit universale judicium: ***opera et cogitationes***, quasi pro utrisque judicans; ***venio***, in die judicii, vel diversa regna hostium vestrorum et in vobis malos destruens; ***venient*** in Jerusalem post vestrum reditum, vel ad judicium, vel ad fidem, Joelis III 7 *ecce ego suscitabo eos de loco in quo vendidistis eos*.  
 
-**1147**. Secundo ponit citationem: ***et ponam in eis***, id est Judaeis qui erunt cum Zorobabel et aliis ducibus, ***signum***, edictum Cyri; ***ad gentes***, ad quas dispersi erant Judaei; ***Lydiam, tenentes sagittam***, quia sunt boni sagittarii; ***gloriam meam***, quae apparebit in vestra liberatione, supra XI 12 ***levabit signum in nationibus***. Vel ***signum*** crucis ponit in apostolis ut omnes ad Deum convertant, quasi ad judicium praeparatos.
+**1147**. Secundo ponit citationem: ***et ponam in eis***, id est Judaeis qui erunt cum Zorobabel et aliis ducibus, ***signum***, edictum Cyri; ***ad gentes***, ad quas dispersi erant Judaei; ***Lydiam, tenentes sagittam***, quia sunt boni sagittarii; ***gloriam meam***, quae apparebit in vestra liberatione, supra XI 12 ***levabit signum in nationibus***. Vel ***signum*** crucis ponit in apostolis ut omnes ad Deum convertant, quasi ad judicium praeparatos.  
 
-**1148**. Tertio ponit judicandorum praeparationem.
+**1148**. Tertio ponit judicandorum praeparationem.  
 
-Et primo quantum ad bonos,
+Et primo quantum ad bonos,  
 
-secundo quantum ad malos: ***et egredientur et videbunt***.
+secundo quantum ad malos: ***et egredientur et videbunt***.  
 
-Prima in duas.
+Prima in duas.  
 
-Primo quantum ad Judaeos, ponens honorificam reversionem: ***adducent in equis***, per quae significantur subsidia quae a gentibus reverentes habuerunt, Baruch V 6 *adducet hos Dominus ad te*; vel significantur diversae conditiones eorum qui convertuntur ad fidem, sicut exponit Glossa.
+Primo quantum ad Judaeos, ponens honorificam reversionem: ***adducent in equis***, per quae significantur subsidia quae a gentibus reverentes habuerunt, Baruch V 6 *adducet hos Dominus ad te*; vel significantur diversae conditiones eorum qui convertuntur ad fidem, sicut exponit Glossa.  
 
-Secundo reversionis exaltationem,
+Secundo reversionis exaltationem,  
 
-primo quantum ad dignitatem: ***et assumam***, quod ad litteram impletum est in Judaeis et etiam in apostolis, supra LXI 6 ***vos sacerdotes Domini vocabimini, ministri Dei nostri, dicetur vobis***;
+primo quantum ad dignitatem: ***et assumam***, quod ad litteram impletum est in Judaeis et etiam in apostolis, supra LXI 6 ***vos sacerdotes Domini vocabimini, ministri Dei nostri, dicetur vobis***;  
 
-secundo quantum ad seminis conservationem: ***quia sicut caeli novi***, ut supra LXV 17, ***sic stabit*** in perpetuum, Jer. XXXI 36 *si defecerint leges istae coram me, dicit Dominus, tunc et semen Israel deficiet*; vel sancti stabunt in aeternum innovati sicut caelum et terra; t
+secundo quantum ad seminis conservationem: ***quia sicut caeli novi***, ut supra LXV 17, ***sic stabit*** in perpetuum, Jer. XXXI 36 *si defecerint leges istae coram me, dicit Dominus, tunc et semen Israel deficiet*; vel sancti stabunt in aeternum innovati sicut caelum et terra; t  
 
-ertio quantum ad gloriae durationem: ***et erit mensis***, quasi mensis mensi et festum festo in vestra prosperitate succedet, supra XXIX 1 ***additus est annus ad annum et solemnitates evolutae sunt***.
+ertio quantum ad gloriae durationem: ***et erit mensis***, quasi mensis mensi et festum festo in vestra prosperitate succedet, supra XXIX 1 ***additus est annus ad annum et solemnitates evolutae sunt***.  
 
-Mystice: Ecclesia post finem, quies spiritualis post carnalem.
+Mystice: Ecclesia post finem, quies spiritualis post carnalem.  
 
-**1149**. Secundo quantum ad gentiles ***et veniet omnis***, quia de diversis nationibus veniebant Jerusalem ad Dominum adorandum, Ps. *omnes gentes venient et adorabunt coram te Domine*; vel in die judicii.
+**1149**. Secundo quantum ad gentiles ***et veniet omnis***, quia de diversis nationibus veniebant Jerusalem ad Dominum adorandum, Ps. *omnes gentes venient et adorabunt coram te Domine*; vel in die judicii.  
 
-**1150**. ***Et egredientur***. Hic ponit secundum judicium quantum ad malos.
+**1150**. ***Et egredientur***. Hic ponit secundum judicium quantum ad malos.  
 
-Et primo poenae manifestationem: ***et egredientur***, venientes Jerusalem, ***et videbunt***, in monumentis antiquis et in campis ossa mortuorum patrum, supra XXXIV 3 ***interfecti eorum projicientur et de cadaveribus eorum ascendet foetor***; vel sancti videbunt damnatos in damnationem cadentes.
+Et primo poenae manifestationem: ***et egredientur***, venientes Jerusalem, ***et videbunt***, in monumentis antiquis et in campis ossa mortuorum patrum, supra XXXIV 3 ***interfecti eorum projicientur et de cadaveribus eorum ascendet foetor***; vel sancti videbunt damnatos in damnationem cadentes.  
 
-Secundo ponit poenae durationem: ***vermis eorum***, conscientiae, qua etiam mortui torquebuntur, ***et ignis***, inferni, Judith XVI 21 *dabit ignes et vermes in carnes eorum*.
+Secundo ponit poenae durationem: ***vermis eorum***, conscientiae, qua etiam mortui torquebuntur, ***et ignis***, inferni, Judith XVI 21 *dabit ignes et vermes in carnes eorum*.  
 
-Tertio de poenis delectationem quantum ad videntes: ***et erunt usque ad satietatem omni carni***, id est sanctis, Ps. *laetabitur justus cum viderit vindictam*.
+Tertio de poenis delectationem quantum ad videntes: ***et erunt usque ad satietatem omni carni***, id est sanctis, Ps. *laetabitur justus cum viderit vindictam*.  
 
-Ab istis poenis nos liberet qui incipere et consummare dedit.
+Ab istis poenis nos liberet qui incipere et consummare dedit.  
 
-**1151**. Et sic terminatur sententia et expositio ad litteram super Isaiam secundum fratrem Thomam de Aquino quam transtulit ad litteram legibilem cum complemento auctoritatum frater Iacobinus Astensis de provincia Lombardiae tunc temporis studens in studio generali Neapolitano. Ordinavit etiam collationes certis locis super quaslibet lectiones, et hoc fecit ad utilitatem fratrum Ordinis nostri et ut de dictis scriptis copia haberetur. Laus ergo sit ei qui incipere dedit et consummare fecit. Amen.
+**1151**. Et sic terminatur sententia et expositio ad litteram super Isaiam secundum fratrem Thomam de Aquino quam transtulit ad litteram legibilem cum complemento auctoritatum frater Iacobinus Astensis de provincia Lombardiae tunc temporis studens in studio generali Neapolitano. Ordinavit etiam collationes certis locis super quaslibet lectiones, et hoc fecit ad utilitatem fratrum Ordinis nostri et ut de dictis scriptis copia haberetur. Laus ergo sit ei qui incipere dedit et consummare fecit. Amen.  
 
 **1152**. Explicit scriptum super Isaiam ad litteram fratris Thomae de Aquino ordinis fratrum praedicatorum cum complemento auctoritatum. Deo gratias.

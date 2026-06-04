@@ -1,12 +1,12 @@
 # None
 
-Glory be to the Father, and to the Son, * and to the Holy Spirit.
+Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
-As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]
+As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*. To the one who conquers I will give hidden manna and a new name, alleluia. [Cf. Rev 2:17]
+*Antiphon*. To the one who conquers I will give hidden manna and a new name, alleluia. [Cf. Rev 2:17]  
 
-Sung to *Ex quo omnia* from the feast of the Trinity.
+Sung to *Ex quo omnia* from the feast of the Trinity.  
 
 ***Psalm 118 (119):129–144, 145–160, 161–176***
 
@@ -126,24 +126,28 @@ Sung to *Ex quo omnia* from the feast of the Trinity.
 
 > Responsory
 
-℟. May you produce bread from the earth, alleluia, [alleluia].
+℟. May you produce bread from the earth, alleluia, [alleluia].  
 
-℣. And may wine gladden the heart of man. Glory be to the Father, and to the Son, and to the Holy Spirit. * May you produce bread from the earth, alleluia, [alleluia]. [Psalm 103 (104):14–15]
+℣. And may wine gladden the heart of man. Glory be to the Father, and to the Son, and to the Holy Spirit. * May you produce bread from the earth, alleluia, [alleluia]. [Psalm 103 (104):14–15]  
 
-Versicle
+Versicle  
 
 ***[Cf. Psalm 147:3 (14)]***
 
-℣. He has established peace in your borders, alleluia.
+℣. He has established peace in your borders, alleluia.  
 
-℟. And with the finest grain he has filled you, alleluia.
+℟. And with the finest grain he has filled you, alleluia.  
 
-Prayer
+Prayer  
 
-***[℣. O Lord, hear my prayer.℟. And let my cry come unto you.]***
+***[℣. O Lord, hear my prayer.***
+***℟. And let my cry come unto you.]***
 
-*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-[℣. O Lord, hear my prayer.℟. And let my cry come unto you.℣. Let us bless the Lord.℟. Thanks be to God.℣. May the souls of the faithful departed, through the mercy of God, rest in peace.℟. Amen.]
-
-Second Vespers
+[℣. O Lord, hear my prayer.  
+℟. And let my cry come unto you.  
+℣. Let us bless the Lord.  
+℟. Thanks be to God.  
+℣. May the souls of the faithful departed, through the mercy of God, rest in peace.  
+℟. Amen.]

@@ -4,276 +4,276 @@
 
 ***Omnis ars et omnis doctrina.***
 
-Dicamus autem resumentes.
+Dicamus autem resumentes.  
 
-Nos autem dicamus unde discessimus.
+Nos autem dicamus unde discessimus.  
 
-Rursus autem redeamus ad quesitum.
+Rursus autem redeamus ad quesitum.  
 
-Set forte felicitatem quidem.
+Set forte felicitatem quidem.  
 
-Scrutandum ergo de ipso non solum ex conclusione.
+Scrutandum ergo de ipso non solum ex conclusione.  
 
-Amplius autem forte minus, si huic pessimi filii.
+Amplius autem forte minus, si huic pessimi filii.  
 
-Multe autem transmutaciones.
+Multe autem transmutaciones.  
 
-Multis autem factis secundum fortunam et differentibus.
+Multis autem factis secundum fortunam et differentibus.  
 
-Determinatis autem hiis scrutemur de felicitate.
+Determinatis autem hiis scrutemur de felicitate.  
 
-Si autem felicitas operacio quedam secundum uirtutem.
+Si autem felicitas operacio quedam secundum uirtutem.  
 
-Initia capitulorum libri 2
+Initia capitulorum libri 2  
 
 ***Duplici autem uirtute existente.***
 
-Quoniam igitur presens negocium.
+Quoniam igitur presens negocium.  
 
-Queret autem utique aliquis.
+Queret autem utique aliquis.  
 
-Post hec autem quid est uirtus scrutandum.
+Post hec autem quid est uirtus scrutandum.  
 
-Adhuc autem et hoc erit manifestum.
+Adhuc autem et hoc erit manifestum.  
 
-Oportet autem non solum uniuersaliter dici.
+Oportet autem non solum uniuersaliter dici.  
 
-Tribus autem disposicionibus existentibus.
+Tribus autem disposicionibus existentibus.  
 
-Initia capitulorum libri 3
+Initia capitulorum libri 3  
 
 ***Uirtute itaque et circa passiones et operaciones.***
 
-Est autem difficile quandoque iudicare quale pro quali.
+Est autem difficile quandoque iudicare quale pro quali.  
 
-Quod autem propter ignoranciam non uoluntarium.
+Quod autem propter ignoranciam non uoluntarium.  
 
-Existente autem inuoluntario.
+Existente autem inuoluntario.  
 
-Determinatis autem uoluntario et inuoluntario.
+Determinatis autem uoluntario et inuoluntario.  
 
-Quid est igitur uel quale quid est.
+Quid est igitur uel quale quid est.  
 
-Consiliatores autem assumimus.
+Consiliatores autem assumimus.  
 
-Uoluntas autem quoniam quidem finis est.
+Uoluntas autem quoniam quidem finis est.  
 
-Existente igitur itaque uoluntabili.
+Existente igitur itaque uoluntabili.  
 
-Non solum autem anime malicie uoluntarie sunt.
+Non solum autem anime malicie uoluntarie sunt.  
 
-Quoniam quidem igitur medietas est circa timores.
+Quoniam quidem igitur medietas est circa timores.  
 
-Dicuntur autem et alie secundum quinque modos.
+Dicuntur autem et alie secundum quinque modos.  
 
-Circa audacias autem et timores.
+Circa audacias autem et timores.  
 
-Post hec de temperancia dicamus.
+Post hec de temperancia dicamus.  
 
-Uidentur utique et gustu in parum uel nichil uti.
+Uidentur utique et gustu in parum uel nichil uti.  
 
-Quecumque autem ad sanitatem sunt.
+Quecumque autem ad sanitatem sunt.  
 
-Initia capitulorum libri 4
+Initia capitulorum libri 4  
 
 ***Dicamus autem deinceps de liberalitate.***
 
-Prodigus autem et in hiis peccat.
+Prodigus autem et in hiis peccat.  
 
-Uidetur autem et utique consequens esse.
+Uidetur autem et utique consequens esse.  
 
-Magnanimitas autem circa magna.
+Magnanimitas autem circa magna.  
 
-Uidebitur quidem igitur magnanimitas.
+Uidebitur quidem igitur magnanimitas.  
 
-Non est autem mikrokindios.
+Non est autem mikrokindios.  
 
-Uidetur autem et circa hunc esse uirtus quedam.
+Uidetur autem et circa hunc esse uirtus quedam.  
 
-Mansuetudo autem est medietas quidem circa iras.
+Mansuetudo autem est medietas quidem circa iras.  
 
-In colloquiis autem et conuiuere.
+In colloquiis autem et conuiuere.  
 
-Circa eadem fere est et iactancie medietas.
+Circa eadem fere est et iactancie medietas.  
 
-Existente autem requie in uita.
+Existente autem requie in uita.  
 
-De uerecundia autem ut quadam uirtute non contingit dicere.
+De uerecundia autem ut quadam uirtute non contingit dicere.  
 
-Initia capitulorum libri 5
+Initia capitulorum libri 5  
 
 ***De iusticia autem et iniusticia intendendum est.***
 
-Uidetur autem et illegalis iniustus esse.
+Uidetur autem et illegalis iniustus esse.  
 
-Querimus autem eam que in parte uirtutis iusticiam.
+Querimus autem eam que in parte uirtutis iusticiam.  
 
-Eius autem que secundum partem iusticie.
+Eius autem que secundum partem iusticie.  
 
-Reliqua autem unum directiuum.
+Reliqua autem unum directiuum.  
 
-Uidebitur autem aliquibus et circa passum esse simpliciter iustum.
+Uidebitur autem aliquibus et circa passum esse simpliciter iustum.  
 
-Determinatis autem hiis manifestum quoniam iusta operacio.
+Determinatis autem hiis manifestum quoniam iusta operacio.  
 
-Dominatiuum autem iustum.
+Dominatiuum autem iustum.  
 
-Politici autem iusti.
+Politici autem iusti.  
 
-Existentibus autem iustis et iniustis.
+Existentibus autem iustis et iniustis.  
 
 > Dubitabit autem utique aliquis.
 
-Adhuc autem que preeligimus duo est dicere.
+Adhuc autem que preeligimus duo est dicere.  
 
-De epyeikia uero et epyeike.
+De epyeikia uero et epyeike.  
 
-Utrum autem contingit sibi ipsis iniustum facere.
+Utrum autem contingit sibi ipsis iniustum facere.  
 
-Initia capitulorum libri 6
+Initia capitulorum libri 6  
 
 ***Quia autem existimus.***
 
-Sunt utique quibus uerum dicit anima.
+Sunt utique quibus uerum dicit anima.  
 
-De prudencia autem sic utique assumamus.
+De prudencia autem sic utique assumamus.  
 
-Quia autem sciencia de uniuersalibus est.
+Quia autem sciencia de uniuersalibus est.  
 
-Sapienciam autem in artibus certissimis.
+Sapienciam autem in artibus certissimis.  
 
-Species quidem igitur quedam utique erit cognicionis.
+Species quidem igitur quedam utique erit cognicionis.  
 
-Oportet autem assumere.
+Oportet autem assumere.  
 
-Est autem et sinesis.
+Est autem et sinesis.  
 
-Dubitabit autem utique aliquis.
+Dubitabit autem utique aliquis.  
 
-Intendendum utique rursus.
+Intendendum utique rursus.  
 
 > Initia capitulorum libri 7
 
 ***Post hec autem dicendum aliud facientes principium.***
 
-Uidetur utique continencia.
+Uidetur utique continencia.  
 
-Primum quidem igitur intendendum.
+Primum quidem igitur intendendum.  
 
-Utrum autem est aliquis incontinens simpliciter.
+Utrum autem est aliquis incontinens simpliciter.  
 
-Quia autem concupiscenciarum.
+Quia autem concupiscenciarum.  
 
-Quoniam autem et minus turpis incontinencia.
+Quoniam autem et minus turpis incontinencia.  
 
-Ipsarum autem harum differencias assumendum.
+Ipsarum autem harum differencias assumendum.  
 
-Circa eas autem que per tactum et gustum.
+Circa eas autem que per tactum et gustum.  
 
-Uidetur autem et lusiuus intemperatus esse.
+Uidetur autem et lusiuus intemperatus esse.  
 
 > Est autem intemperatus quidem quemadmodum dictum est.
 
-Utrum autem continens est qui qualitercumque racioni.
+Utrum autem continens est qui qualitercumque racioni.  
 
-Quia autem aliquis est et talis qualis minus quam oportet.
+Quia autem aliquis est et talis qualis minus quam oportet.  
 
-De delectacione autem et tristicia.
+De delectacione autem et tristicia.  
 
-Quoniam autem non accidit propter hoc non esse bonum.
+Quoniam autem non accidit propter hoc non esse bonum.  
 
-De corporalibus autem delectacionibus.
+De corporalibus autem delectacionibus.  
 
-Initia capitulorum libri 8
+Initia capitulorum libri 8  
 
 ***Post hec autem et de amicicia sequitur.***
 
-Dubitantur autem de ipsa non pauca.
+Dubitantur autem de ipsa non pauca.  
 
-Differunt autem hec ad inuicem.
+Differunt autem hec ad inuicem.  
 
-Que autem propter delectabile similitudinem huius habet.
+Que autem propter delectabile similitudinem huius habet.  
 
-In has autem species amicicia distributa.
+In has autem species amicicia distributa.  
 
-Multis autem esse amicum secundum perfectam amiciciam non contingit.
+Multis autem esse amicum secundum perfectam amiciciam non contingit.  
 
-Altera autem est amicicie species.
+Altera autem est amicicie species.  
 
-Multi autem uidentur propter amorem honoris.
+Multi autem uidentur propter amorem honoris.  
 
-Uidetur autem quemadmodum in principiis dictum est.
+Uidetur autem quemadmodum in principiis dictum est.  
 
 > Politice autem species sunt tres.
 
-Secundum unamquamque autem urbanitatem.
+Secundum unamquamque autem urbanitatem.  
 
-In communicacione quidem omnis amicicia.
+In communicacione quidem omnis amicicia.  
 
-Trinis itaque existentibus amiciciis.
+Trinis itaque existentibus amiciciis.  
 
-Differunt autem in hiis que secundum superexcellenciam.
+Differunt autem in hiis que secundum superexcellenciam.  
 
-Initia capitulorum libri 9
+Initia capitulorum libri 9  
 
 ***In omnibus autem dissimilium.***
 
-Dubitacionem autem habent et talia.
+Dubitacionem autem habent et talia.  
 
-Habet autem dubitacionem.
+Habet autem dubitacionem.  
 
-Amicabilia autem que ad amicos.
+Amicabilia autem que ad amicos.  
 
-Uidentur autem et hec multis existere.
+Uidentur autem et hec multis existere.  
 
-Beniuolencia eciam quidem amicabili assimulatur.
+Beniuolencia eciam quidem amicabili assimulatur.  
 
-Amicabile autem et concordia uidetur.
+Amicabile autem et concordia uidetur.  
 
-Benefactores autem beneficiatos.
+Benefactores autem beneficiatos.  
 
-Dubitatur autem utrum oportet amare se ipsum.
+Dubitatur autem utrum oportet amare se ipsum.  
 
 > Dubitatur autem et circa felicem.
 
-Naturalius autem intendentibus.
+Naturalius autem intendentibus.  
 
-Utrum igitur quam plurimos amicos faciendum.
+Utrum igitur quam plurimos amicos faciendum.  
 
-Utrum autem in bonis fortunis amicis opus est magis.
+Utrum autem in bonis fortunis amicis opus est magis.  
 
-Uerum quidem quemadmodum in amantibus.
+Uerum quidem quemadmodum in amantibus.  
 
-Initia capitulorum libri 10
+Initia capitulorum libri 10  
 
 ***Post hec autem de delectacione forte sequitur.***
 
-Eudoxus igitur delectacionem per se bonum existimabat.
+Eudoxus igitur delectacionem per se bonum existimabat.  
 
-Non tamen si non qualitatum est delectacio.
+Non tamen si non qualitatum est delectacio.  
 
-Ad proferentes probrosas delectacionum.
+Ad proferentes probrosas delectacionum.  
 
-Quid autem est uel quale quid manifestius fiet.
+Quid autem est uel quale quid manifestius fiet.  
 
-Sensus autem omnis ad sensibile operantis.
+Sensus autem omnis ad sensibile operantis.  
 
-Appetere autem delectacionem.
+Appetere autem delectacionem.  
 
-Quia quidem igitur propria delectacio.
+Quia quidem igitur propria delectacio.  
 
-Dictis utique hiis que circa uirtutes.
+Dictis utique hiis que circa uirtutes.  
 
 > Si autem est felicitas secundum uirtutem.
 
-Talis utique erit melior uita.
+Talis utique erit melior uita.  
 
-Perfecta autem felicitas quoniam speculatiua.
+Perfecta autem felicitas quoniam speculatiua.  
 
-Opus autem erit et exteriori prosperitate.
+Opus autem erit et exteriori prosperitate.  
 
-Utrum igitur et si de hiis et de uirtutibus.
+Utrum igitur et si de hiis et de uirtutibus.  
 
-Si igitur quemadmodum et dictum est.
+Si igitur quemadmodum et dictum est.  
 
 Igitur post hoc intendendum unde uel qualiter legis.

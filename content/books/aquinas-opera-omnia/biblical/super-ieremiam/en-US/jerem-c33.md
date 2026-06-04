@@ -24,41 +24,41 @@
 
 > **177**. Here, he offers consolation particularly to the two tribes, and especially with regard to Jerusalem, where the seat of the kingdom and of the priesthood was; concerning this, there are two points.
 
-First, he gives the title of the prophecy, in which he speaks of the prison of the prophet: ***while he was still shut up in the court of the prison***, by Zedekiah.
+First, he gives the title of the prophecy, in which he speaks of the prison of the prophet: ***while he was still shut up in the court of the prison***, by Zedekiah.  
 
-Second, with regard to the preceding vision, which came second, he speaks of the authority of the one who promises: ***thus says the Lord, who will do it***, as a craftsman in preparing his material; ***he will form it***, by bringing them to their full form; ***and prepare it***, by ordering them to their end; ***the Lord is his name***, because he alone is the Lord of all. *For your name is the Lord, you alone are most high above the whole earth* (Ps 82:19).
+Second, with regard to the preceding vision, which came second, he speaks of the authority of the one who promises: ***thus says the Lord, who will do it***, as a craftsman in preparing his material; ***he will form it***, by bringing them to their full form; ***and prepare it***, by ordering them to their end; ***the Lord is his name***, because he alone is the Lord of all. *For your name is the Lord, you alone are most high above the whole earth* (Ps 82:19).  
 
-The firmness of the promise and its greatness: ***call to me***, praying for the people, ***and I shall hear you***, not that I should not bring evils upon you, but that after the evils have been brought, I should free you. And thus, it is not contrary to what was said above: ***therefore, you shall not pray for this people, neither take up praise, or prayer for them and do not stand against me, because I will not hear you*** (Jer 7:16). ***For he knows not***, that is, he cannot apprehend this by human conjecture. *From that time, I have made you to hear new things, and things which are kept that you knew not* (Isa 48:6).
+The firmness of the promise and its greatness: ***call to me***, praying for the people, ***and I shall hear you***, not that I should not bring evils upon you, but that after the evils have been brought, I should free you. And thus, it is not contrary to what was said above: ***therefore, you shall not pray for this people, neither take up praise, or prayer for them and do not stand against me, because I will not hear you*** (Jer 7:16). ***For he knows not***, that is, he cannot apprehend this by human conjecture. *From that time, I have made you to hear new things, and things which are kept that you knew not* (Isa 48:6).  
 
-Next, he gives the word of the prophecy:
+Next, he gives the word of the prophecy:  
 
-first, the promise to the people is made;
+first, the promise to the people is made;  
 
-second, to the kingdom and the priesthood, at ***behold, the days are coming*** (Jer 33:14).
+second, to the kingdom and the priesthood, at ***behold, the days are coming*** (Jer 33:14).  
 
-Concerning the former, there are three points.
+Concerning the former, there are three points.  
 
-First, he promises the healing of the wound which has been inflicted;
+First, he promises the healing of the wound which has been inflicted;  
 
-second, joyfulness of heart, at ***thus says the Lord: there shall yet be heard in this place*** (Jer 33:10);
+second, joyfulness of heart, at ***thus says the Lord: there shall yet be heard in this place*** (Jer 33:10);  
 
-third, the tranquility of peace, at ***thus says the Lord of hosts*** (Jer 33:12).
+third, the tranquility of peace, at ***thus says the Lord of hosts*** (Jer 33:12).  
 
-Concerning the first of these, there are three points.
+Concerning the first of these, there are three points.  
 
-First, he touches on the wound which has been inflicted: ***for thus says the Lord***, as to the destruction of the buildings, ***to the houses***. *The Lord has cast down headlong, and has not spared what was fair in Jacob; he has destroyed in his fury the strongholds of the virgin of Judah, and cast them to the ground* (Lam 2:2).
+First, he touches on the wound which has been inflicted: ***for thus says the Lord***, as to the destruction of the buildings, ***to the houses***. *The Lord has cast down headlong, and has not spared what was fair in Jacob; he has destroyed in his fury the strongholds of the virgin of Judah, and cast them to the ground* (Lam 2:2).  
 
-And with regard to the slaughter of men: ***and to the sword of those that come*** to the aid of Jerusalem, either from the gentiles or from the kingdom of the two tribes; ***and to fill them***, as the occasion arises, because, drawing confidence from them, they resisted the enemy and were killed; ***when I hid my face***, that is, when I withdrew my protection. *The nations shall know that the house of Israel has been taken in her sins, and that she has abandoned me, and that I have hidden my face from them* (Ezek 39:23).
+And with regard to the slaughter of men: ***and to the sword of those that come*** to the aid of Jerusalem, either from the gentiles or from the kingdom of the two tribes; ***and to fill them***, as the occasion arises, because, drawing confidence from them, they resisted the enemy and were killed; ***when I hid my face***, that is, when I withdrew my protection. *The nations shall know that the house of Israel has been taken in her sins, and that she has abandoned me, and that I have hidden my face from them* (Ezek 39:23).  
 
-Second, he promises the benefit of healing in general: ***behold, I will close their wound***. Above: ***I will cover up your scar, and heal you of your wounds*** (Jer 30:17). And in particular with regard to the hearing of prayer: ***and I shall reveal***, by fulfilling what was intended, ***the prayer***, because they asked me for a mutual peace and the truth of religion. *Let there be peace and truth in my days* (Isa 39:8).
+Second, he promises the benefit of healing in general: ***behold, I will close their wound***. Above: ***I will cover up your scar, and heal you of your wounds*** (Jer 30:17). And in particular with regard to the hearing of prayer: ***and I shall reveal***, by fulfilling what was intended, ***the prayer***, because they asked me for a mutual peace and the truth of religion. *Let there be peace and truth in my days* (Isa 39:8).  
 
-With regard to their restoration to their native land: ***and I will bring back***. Above: ***I shall turn the turnings of the tents of Jacob, and shall have mercy on his houses*** (Jer 30:18).
+With regard to their restoration to their native land: ***and I will bring back***. Above: ***I shall turn the turnings of the tents of Jacob, and shall have mercy on his houses*** (Jer 30:18).  
 
-With regard to the remission of sin, according to the cleansing of their guilt: ***and I will cleanse***. *You shall be cleansed from all your iniquities, and I shall cleanse you from all your idols* (Ezek 36:25). And according to their absolution from punishment: ***and I will forgive all their iniquities***. *Who forgives all their iniquities, and heals all their infirmities* (Ps 102:3).
+With regard to the remission of sin, according to the cleansing of their guilt: ***and I will cleanse***. *You shall be cleansed from all your iniquities, and I shall cleanse you from all your idols* (Ezek 36:25). And according to their absolution from punishment: ***and I will forgive all their iniquities***. *Who forgives all their iniquities, and heals all their infirmities* (Ps 102:3).  
 
-Third, he speaks of the fruit of liberation with regard to the divine glory: ***and it shall be to me as a name***. Above: ***I shall rejoice over them, when I do them good*** (Jer 32:41). *I have formed this people for myself, they shall tell my praise* (Isa. 43:21). With regard to the joy of their friends: ***and a gladness before all the nations of the earth***. *Mount Zion is established with the exultation of the whole earth, on the side of the north, the city of the great king* (Ps 47:3). With regard to the hardship of those who envy them: ***and they shall fear***. *Let the envious peoples see, and be put to shame, and let fire devour your enemies* (Isa 26:11).
+Third, he speaks of the fruit of liberation with regard to the divine glory: ***and it shall be to me as a name***. Above: ***I shall rejoice over them, when I do them good*** (Jer 32:41). *I have formed this people for myself, they shall tell my praise* (Isa. 43:21). With regard to the joy of their friends: ***and a gladness before all the nations of the earth***. *Mount Zion is established with the exultation of the whole earth, on the side of the north, the city of the great king* (Ps 47:3). With regard to the hardship of those who envy them: ***and they shall fear***. *Let the envious peoples see, and be put to shame, and let fire devour your enemies* (Isa 26:11).  
 
-Lecture 2
+Lecture 2  
 
 ***The voice of joy will return***
 
@@ -68,13 +68,13 @@ Lecture 2
 
 > **178**. Here, he promises their happiness:
 
-first, temporal: ***the voice of joy***. Above: ***I shall destroy from out of them the voice of joy and the voice of gladness, the voice of the groom and the voice of the bride, the sound of the millstone and the light of the lamp*** (Jer 25:10).
+first, temporal: ***the voice of joy***. Above: ***I shall destroy from out of them the voice of joy and the voice of gladness, the voice of the groom and the voice of the bride, the sound of the millstone and the light of the lamp*** (Jer 25:10).  
 
-Second, spiritual joy expressed with divine praises: ***the voice of those that say: give thanks to the Lord***. *Joy and gladness shall be found in her, thanksgiving, and the voice of praise* (Isa 51:3). *Alleluia shall be sung throughout all her streets* (Tob 13:22). And with offerings; ***and of those that bring their vows into the house of the Lord***. *They shall worship him with victims and gifts, and they shall swear vows to the Lord, and fulfill them* (Isa 19:21).
+Second, spiritual joy expressed with divine praises: ***the voice of those that say: give thanks to the Lord***. *Joy and gladness shall be found in her, thanksgiving, and the voice of praise* (Isa 51:3). *Alleluia shall be sung throughout all her streets* (Tob 13:22). And with offerings; ***and of those that bring their vows into the house of the Lord***. *They shall worship him with victims and gifts, and they shall swear vows to the Lord, and fulfill them* (Isa 19:21).  
 
-Third, he gives the reason: ***for I will bring back the captivity of the land***. *Renew our days as from the beginning* (Lam 5:21).
+Third, he gives the reason: ***for I will bring back the captivity of the land***. *Renew our days as from the beginning* (Lam 5:21).  
 
-Lecture 3
+Lecture 3  
 
 ***Pastoral peace will return***
 
@@ -84,7 +84,7 @@ Lecture 3
 
 > **179**. Here, he promises them the tranquility of peace, which he signifies by their dwelling securely in their own land: ***the flocks pass under the hand of him that numbers them***; it is as though he were saying, “They shall have such great security that they will be able to freely number their sheep.” *In the most fertile meadows I shall feed them, and their pastures shall be on the highest mountains of Israel* (Ezek 34:14).
 
-Lecture 4
+Lecture 4  
 
 ***The shoot of justice***
 
@@ -98,27 +98,27 @@ Lecture 4
 
 > **180**. Here is provided the consolation with regard to the kingdom and the priesthood.
 
-First, the restoration of both is promised;
+First, the restoration of both is promised;  
 
-second is given the confirmation of the promise, at ***and the word of the Lord came to Jeremiah*** (Jer 33:19).
+second is given the confirmation of the promise, at ***and the word of the Lord came to Jeremiah*** (Jer 33:19).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, he promises the restoration of the kingdom;
+First, he promises the restoration of the kingdom;  
 
-second, of the priesthood, at ***and of the priests and Levites there shall not perish a man*** (Jer 33:18).
+second, of the priesthood, at ***and of the priests and Levites there shall not perish a man*** (Jer 33:18).  
 
-Concerning the former, there are three points.
+Concerning the former, there are three points.  
 
-First, he indicates the appropriateness of the time: ***behold, the days are coming***, of grace, ***that I shall stir up***—I shall fulfill—***the good word***, which I promised concerning the restoration of the kingdom. *And the children of Judah shall be gathered, and the children of Israel likewise, and they shall appoint for themselves one head, and he shall go up from the land* (Hos 1:11). Which was fulfilled in Christ.
+First, he indicates the appropriateness of the time: ***behold, the days are coming***, of grace, ***that I shall stir up***—I shall fulfill—***the good word***, which I promised concerning the restoration of the kingdom. *And the children of Judah shall be gathered, and the children of Israel likewise, and they shall appoint for themselves one head, and he shall go up from the land* (Hos 1:11). Which was fulfilled in Christ.  
 
-Second, the nature of the kingdom with regard to the nobility of its ruler: ***in those days, I will make to spring forth for David the shoot of justice***, Christ, who is justice itself. *A rod shall go forth from Jesse, and a flower shall come up from his root* (Isa 11:1). ***And he shall execute judgment***, in his first coming, on behalf of the world; in his second coming, to the world; ***justice***, teaching by word, and fulfilling in himself by deed, and in others by the gift of grace. *I have done judgment and justice* (Ps 118:121).
+Second, the nature of the kingdom with regard to the nobility of its ruler: ***in those days, I will make to spring forth for David the shoot of justice***, Christ, who is justice itself. *A rod shall go forth from Jesse, and a flower shall come up from his root* (Isa 11:1). ***And he shall execute judgment***, in his first coming, on behalf of the world; in his second coming, to the world; ***justice***, teaching by word, and fulfilling in himself by deed, and in others by the gift of grace. *I have done judgment and justice* (Ps 118:121).  
 
-And with regard to the usefulness of the ruler for the salvation of the people: ***in those days shall Judah be saved***, with regard to those who believed in his first coming and shall believe in his second. *I shall save them by the Lord their God* (Hos 1:7). In the security of peace: ***and Israel shall dwell confidently***. *My people shall dwell in the beauty of peace, and the tabernacles of confidence, and in abundant rest* (Isa 32:28). And in the confession of the true faith: ***and this is the name . . . the Lord our just one***. *Just are you, O Lord, and righteous is your judgment* (Ps 118:137).
+And with regard to the usefulness of the ruler for the salvation of the people: ***in those days shall Judah be saved***, with regard to those who believed in his first coming and shall believe in his second. *I shall save them by the Lord their God* (Hos 1:7). In the security of peace: ***and Israel shall dwell confidently***. *My people shall dwell in the beauty of peace, and the tabernacles of confidence, and in abundant rest* (Isa 32:28). And in the confession of the true faith: ***and this is the name . . . the Lord our just one***. *Just are you, O Lord, and righteous is your judgment* (Ps 118:137).  
 
-Third, he speaks of the duration of the kingdom: ***for thus says the Lord: there shall not perish from David a man***, Christ and his kingdom. *His power is an everlasting power, which shall not be taken away, and his a kingdom which shall not be destroyed* (Dan 7:14).
+Third, he speaks of the duration of the kingdom: ***for thus says the Lord: there shall not perish from David a man***, Christ and his kingdom. *His power is an everlasting power, which shall not be taken away, and his a kingdom which shall not be destroyed* (Dan 7:14).  
 
-Lecture 5
+Lecture 5  
 
 ***Restoration of the priesthood***
 
@@ -126,7 +126,7 @@ Lecture 5
 
 > **181**. Here, he speaks of the restoration of the priesthood. And as the kingdom is restored in Christ himself and in his members, so also the priesthood. For inasmuch as he is a king, he is also a priest. *You are priest forever according to the order of Melchizedek* (Ps 109:4). And he made his members kings and priests. *You have made us a kingdom and priests for our God* (Rev 5:10). *He offered himself as an offering to God, as a pleasing fragrance* (Eph 5:2). And he makes his members offer spiritual victims to God. *The priests and the Levites, the sons of Zadok, who kept the ceremonies of my sanctuary when the children of Israel wandered from me, they shall draw near to me to minister unto me, and they shall stand in my sight to offer me fat and blood, says the Lord God* (Ezek 44:15).
 
-Lecture 6
+Lecture 6  
 
 ***Covenant like the heavens***
 
@@ -140,11 +140,11 @@ Lecture 6
 
 > **182**. Here is given the confirmation of the promise:
 
-first, from the duration of created things: ***if my covenant with the day can be broken***; it is as though he were saying, “It cannot be broken until the end of the world.” *I shall establish his seed forever, and his throne as the days of heaven* (Ps 88:30).
+first, from the duration of created things: ***if my covenant with the day can be broken***; it is as though he were saying, “It cannot be broken until the end of the world.” *I shall establish his seed forever, and his throne as the days of heaven* (Ps 88:30).  
 
-Second, their multitude: ***as the stars of heaven cannot be numbered***, except by God alone; so is the number of the elect known only to God. *I shall multiply your seed like the stars of heaven, and like the sand which is on the shore of the sea* (Gen 22:17).
+Second, their multitude: ***as the stars of heaven cannot be numbered***, except by God alone; so is the number of the elect known only to God. *I shall multiply your seed like the stars of heaven, and like the sand which is on the shore of the sea* (Gen 22:17).  
 
-Lecture 7
+Lecture 7  
 
 ***The enemy contradicted***
 
@@ -158,8 +158,6 @@ Lecture 7
 
 > **183**. Here, he turns back the derision of the enemy.
 
-First, the insult is given: ***two families***, namely, the royal family and the priestly family, or the family of the ten tribes and of the two tribes. *Who kept my soul, took counsel together as one, saying: the Lord has abandoned him, follow after, and take him, for there is no one to rescue him* (Ps 70:10–11).
+First, the insult is given: ***two families***, namely, the royal family and the priestly family, or the family of the ten tribes and of the two tribes. *Who kept my soul, took counsel together as one, saying: the Lord has abandoned him, follow after, and take him, for there is no one to rescue him* (Ps 70:10–11).  
 
 Second, the objection is given: ***thus says the Lord***. *Has God cast off his people? God forbid* (Rom 11:1).
-
-Chapter 34

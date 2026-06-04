@@ -601,6 +601,12 @@ def html_to_md(html: str) -> str:
     html = SCRIPTURE_REF_RE.sub("", html)
     # Drop anchor wrappers; keep the inner text.
     html = LINK_RE.sub(r"\1", html)
+    # <br> becomes a markdown hard line break (two spaces + newline). Do this
+    # BEFORE the general tag-stripping below.
+    html = re.sub(r"<br\s*/?>", "  \n", html, flags=re.IGNORECASE)
+    # <p> tag boundaries become paragraph breaks.
+    html = re.sub(r"</p>", "\n\n", html, flags=re.IGNORECASE)
+    html = re.sub(r"<p\b[^>]*>", "", html, flags=re.IGNORECASE)
     # Inline formatting tags → markdown.
     def repl(m: re.Match) -> str:
         slash = m.group(1)
@@ -738,18 +744,27 @@ def render_chapter(
     end_position: int,
 ) -> str:
     """Render one chapter (between chap.position inclusive and end_position
-    exclusive) as Markdown in the chosen language."""
+    exclusive) as Markdown in the chosen language.
+
+    Notes on aquinas.cc indexing: outline.i is a position into the row stream.
+    For top-level chapters with multiple header rows (e.g. Romans C.8 has
+    'Chapter 8' + 'Redemption of the Flesh' + 'Lecture 1' + lecture-title
+    rows before scripture), the outline points at the FIRST descriptive row
+    rather than the numeric label. We therefore start at chap.position
+    directly (no off-by-one on start), but subtract 1 from end_position so
+    the next chapter's leading numeric label doesn't leak in."""
     rows = la_rows if lang == "la" else en_rows
     label = "*"  # bold-italic placeholder
 
     title = html_to_md(chap.title) or chap.ref
     lines: list[str] = [f"# {title}", ""]
 
-    # Walk positions [chap.position+1, end_position) — skip the chapter's own
-    # header row (its title is already the # heading from the outline).
+    start_idx = chap.position
+    end_idx = max(start_idx, end_position - 1)
+
     last_was_blank = True
     skip_first_header = True
-    for pos in range(chap.position, end_position):
+    for pos in range(start_idx, end_idx):
         if pos >= len(rows) or pos >= len(style_chars):
             break
         style = style_chars[pos]
@@ -765,12 +780,16 @@ def render_chapter(
         skip_first_header = False
         if style in STYLE_NUM_HDR or style in STYLE_HEADERS:
             # Inner structural marker (#Lecture, #Chapter, lecture body opener,
-            # etc.). The outline already drives the chapter heading; render as
-            # an italic-bold subtitle paragraph so it stands out without
-            # competing with the markdown header level.
+            # etc.). The outline already drives the chapter heading; render
+            # each meaningful line as its own bold-italic paragraph so multi-
+            # line headers don't collapse into a single emphasis span (which
+            # would lose the line breaks).
             if not last_was_blank:
                 lines.append("")
-            lines.append(f"***{text}***")
+            for ln in text.split("\n"):
+                clean = ln.strip()
+                if clean:
+                    lines.append(f"***{clean}***")
             lines.append("")
             last_was_blank = True
         elif style == STYLE_SCRIPTURE or style == STYLE_BLOCK:
@@ -780,11 +799,27 @@ def render_chapter(
             lines.append("")
             last_was_blank = True
         elif style == STYLE_LIST:
-            lines.append(f"- {text}")
+            # List items often span multiple verse lines (hymns). Preserve
+            # the line breaks within the list item using markdown hard breaks.
+            verse_lines = [ln.strip() for ln in text.split("\n") if ln.strip()]
+            if verse_lines:
+                if len(verse_lines) == 1:
+                    lines.append(f"- {verse_lines[0]}")
+                else:
+                    # Two-space-then-newline = markdown hard break inside a
+                    # list item.
+                    joined = "  \n  ".join(verse_lines)
+                    lines.append(f"- {joined}")
             last_was_blank = False
         else:
-            # Body text (u), text-A/B (y/z), etc.
-            lines.append(text)
+            # Body text (u), text-A/B (y/z), etc. Preserve <br>-derived line
+            # breaks as markdown hard breaks.
+            for ln in text.split("\n"):
+                clean = ln.rstrip()
+                if clean:
+                    lines.append(clean + "  ")
+                else:
+                    lines.append("")
             lines.append("")
             last_was_blank = True
 

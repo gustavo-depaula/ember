@@ -1,5 +1,15 @@
 # Prayer at the Moment of Death
 
-> Te praedicavi, te docui.Nihil unquam contra te dixi.Sed si quid dixi,ignorans dixinec sum pertinax in sensu meo.
+> Te praedicavi, te docui.
+> Nihil unquam contra te dixi.
+> Sed si quid dixi,
+> ignorans dixi
+> nec sum pertinax in sensu meo.
 
-> Sed si quid male dixide hoc sacramentum et aliis,totum relinquo correctionisanctae Romanae Ecclesiae,in cuius obedientianunc transeo ex hac vita.Amen.
+> Sed si quid male dixi
+> de hoc sacramentum et aliis,
+> totum relinquo correctioni
+> sanctae Romanae Ecclesiae,
+> in cuius obedientia
+> nunc transeo ex hac vita.
+> Amen.

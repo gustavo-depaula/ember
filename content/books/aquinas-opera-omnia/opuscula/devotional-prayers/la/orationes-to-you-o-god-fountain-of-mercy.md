@@ -1,33 +1,96 @@
 # To You, O God, Fountain of Mercy
 
-***Ad teFontem Misericordiae, Deus,accedo peccator:ergo digneris me lavareimmundum.***
+***Ad te***
+***Fontem Misericordiae, Deus,***
+***accedo peccator:***
+***ergo digneris me lavare***
+***immundum.***
 
-> O Sol Iustitiae,illumina caecum.O Aeterne Medice,cura vulneratum.O Rex Regum,indue spoliatum.O Mediator Dei et hominum,reconcilia reum.O Pastor Bone,reduc errantem.
+> O Sol Iustitiae,
+> illumina caecum.
+> O Aeterne Medice,
+> cura vulneratum.
+> O Rex Regum,
+> indue spoliatum.
+> O Mediator Dei et hominum,
+> reconcilia reum.
+> O Pastor Bone,
+> reduc errantem.
 
 > Da, Deus,
 
-> misericordiam misero,indulgentiam criminoso,vitam mortuo,iustificationem impio,unctionem gratiaeindurato.
+> misericordiam misero,
+> indulgentiam criminoso,
+> vitam mortuo,
+> iustificationem impio,
+> unctionem gratiae
+> indurato.
 
 > O Clementissime,
 
-> revoca fugientem,trahe resistentem,erige cadentem,tene stantem,conduc ambulantem.
+> revoca fugientem,
+> trahe resistentem,
+> erige cadentem,
+> tene stantem,
+> conduc ambulantem.
 
-> Ne obliviscaris te obliviscentem;ne deseras te deserentem;ne despicias peccantem.
+> Ne obliviscaris te obliviscentem;
+> ne deseras te deserentem;
+> ne despicias peccantem.
 
-> Ego enim peccando,te, Deum meum, offendi,proximum laesi,mihi non peperci.
+> Ego enim peccando,
+> te, Deum meum, offendi,
+> proximum laesi,
+> mihi non peperci.
 
-> Peccavi, Deus meus,fragilitatecontra te, Patrem omnipotentem,
+> Peccavi, Deus meus,
+> fragilitate
+> contra te, Patrem omnipotentem,
 
-> ignorantiacontra te,Filium Sapientem,
+> ignorantia
+> contra te,
+> Filium Sapientem,
 
-> malitiacontra te,Spiritum Sanctum clementem;
+> malitia
+> contra te,
+> Spiritum Sanctum clementem;
 
-> et his offendi teTrinitatem excellentem.Heu mihi misero,quot,et quanta commisi,qualiaperpetravi!Dereliqui te, Domine,
+> et his offendi te
+> Trinitatem excellentem.
+> Heu mihi misero,
+> quot,
+> et quanta commisi,
+> qualia
+> perpetravi!
+> Dereliqui te, Domine,
 
-> de bonitate tua conqueror,amore maloaccedente,timore malohumiliante,quibus potiuste amittere,quam amatis carere,potius te offendere,quamtimenda non incurrere volui.
+> de bonitate tua conqueror,
+> amore malo
+> accedente,
+> timore malo
+> humiliante,
+> quibus potius
+> te amittere,
+> quam amatis carere,
+> potius te offendere,
+> quam
+> timenda non incurrere volui.
 
-> O Deus meus,quantum nocuiverbo et opere,peccandolatenter, patenter, et contumaciter!
+> O Deus meus,
+> quantum nocui
+> verbo et opere,
+> peccando
+> latenter, patenter, et contumaciter!
 
-> Quarepro mea fragilitate supplico,ut non attendasmeam iniquitatem,sed tuam immensam bonitatem,et remittasclementer quae feci,donans dolorempro praeteritis,et cautelam efficacemde futuris.Amen.
-
-> Laudo, glorifico, benedico Te, Deus meus
+> Quare
+> pro mea fragilitate supplico,
+> ut non attendas
+> meam iniquitatem,
+> sed tuam immensam bonitatem,
+> et remittas
+> clementer quae feci,
+> donans dolorem
+> pro praeteritis,
+> et cautelam efficacem
+> de futuris.
+> Amen.

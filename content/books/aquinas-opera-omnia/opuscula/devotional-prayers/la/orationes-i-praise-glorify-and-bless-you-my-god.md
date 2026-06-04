@@ -1,49 +1,90 @@
 # I Praise, Glorify, and Bless You, My God
 
-***Laudo,glorifico, benedico te,Deus meus,propter immensaindignomihi praestita beneficia.***
+***Laudo,***
+***glorifico, benedico te,***
+***Deus meus,***
+***propter immensa***
+***indigno***
+***mihi praestita beneficia.***
 
-> Laudoclementiam tuamme diu expectantem,
+> Laudo
+> clementiam tuam
+> me diu expectantem,
 
-> dulcedinem tuamulciscisimulantem,
+> dulcedinem tuam
+> ulcisci
+> simulantem,
 
-> pietatem tuamvocantem,
+> pietatem tuam
+> vocantem,
 
-> benignitatemsuscipientem,
+> benignitatem
+> suscipientem,
 
-> misericordiampeccata remittentem,
+> misericordiam
+> peccata remittentem,
 
-> bonitatemsupra meritaimpendentem,patientiaminiuriaenon recordantem,
+> bonitatem
+> supra merita
+> impendentem,
+> patientiam
+> iniuriae
+> non recordantem,
 
-> humilitatemconsolantem,patientiamprotegentem,aeternitatemconservantem,veritatemremunerantem.
+> humilitatem
+> consolantem,
+> patientiam
+> protegentem,
+> aeternitatem
+> conservantem,
+> veritatem
+> remunerantem.
 
-> Quid dicam,Deus meus, de tua ineffabili largitate?
+> Quid dicam,
+> Deus meus, de tua ineffabili largitate?
 
-> Tu enim vocas fugientem,suscipis revertentem,
+> Tu enim vocas fugientem,
+> suscipis revertentem,
 
 > adiuvas titubantem,
 
-> laetificas desperantem,stimulas negligentem,
+> laetificas desperantem,
+> stimulas negligentem,
 
-> armas pugnantem,coronas triumphantem;
+> armas pugnantem,
+> coronas triumphantem;
 
-> peccatorem post poenitentiam non spernis,et iniuriae non memineris.
+> peccatorem post poenitentiam non spernis,
+> et iniuriae non memineris.
 
-> A multis liberas periculis,ad poenitentiam cor emollis;
+> A multis liberas periculis,
+> ad poenitentiam cor emollis;
 
-> terres suppliciis,allicis promissis;
+> terres suppliciis,
+> allicis promissis;
 
-> castigas flagellis,angelico ministerio custodis;
+> castigas flagellis,
+> angelico ministerio custodis;
 
-> ministrastemporalia, reservas nobisaeterna;
+> ministras
+> temporalia, reservas nobis
+> aeterna;
 
 > hortaris dignitate creationis.
 
-> invitasclementia redemptionis, promittispraemia remunerationis.
+> invitas
+> clementia redemptionis, promittis
+> praemia remunerationis.
 
-> Pro quibus omnibuslaudes referre non sufficio.
+> Pro quibus omnibus
+> laudes referre non sufficio.
 
-> Maiestati tuaegratias agopropter immensae bonitatis tuae abundantiam,ut semperin me gratiam multiplices,et multiplicatam conserves,et conservatam remuneres.
+> Maiestati tuae
+> gratias ago
+> propter immensae bonitatis tuae abundantiam,
+> ut semper
+> in me gratiam multiplices,
+> et multiplicatam conserves,
+> et conservatam remuneres.
 
 > Amen.
-
-> Praeco lucerna pugil Christi

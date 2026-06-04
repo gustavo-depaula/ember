@@ -1,35 +1,75 @@
 # O God of All Consolation
 
-***Te Deum totius consolationisinvoco, qui nihil in nobispraeter tua dona cernis,ut mihi post huius vitae terminumdonare digneriscognitionemPrimae Veritatis,fruitionem divinae maiestatis.***
+***Te Deum totius consolationis***
+***invoco, qui nihil in nobis***
+***praeter tua dona cernis,***
+***ut mihi post huius vitae terminum***
+***donare digneris***
+***cognitionem***
+***Primae Veritatis,***
+***fruitionem divinae maiestatis.***
 
-> Da etiam corpori meo,largissime Remunerator,claritatis pulchritudinem,agilitatispromptitudinem,subtilitatis aptitudinem,impassibilitatisfortitudinem.
+> Da etiam corpori meo,
+> largissime Remunerator,
+> claritatis pulchritudinem,
+> agilitatis
+> promptitudinem,
+> subtilitatis aptitudinem,
+> impassibilitatis
+> fortitudinem.
 
 > Apponas istis
 
-> affluentiam divitiarum,influentiam delitiarum,confluentiam bonorum:
+> affluentiam divitiarum,
+> influentiam delitiarum,
+> confluentiam bonorum:
 
 > ut gaudere possim
 
-> supra mede tua consolatione,infrade loci amoenitate,intrade corporis et animae glorificatione,iuxta de angelorum et hominum delectabili associatione.
+> supra me
+> de tua consolatione,
+> infra
+> de loci amoenitate,
+> intra
+> de corporis et animae glorificatione,
+> iuxta de angelorum et hominum delectabili associatione.
 
-> Consequatur apud te,clementissime Pater,mea rationalis potentiasapientiae illustrationem,concupiscibilisdesiderabilium adeptionem,irascibilistriumphi laudem:
+> Consequatur apud te,
+> clementissime Pater,
+> mea rationalis potentia
+> sapientiae illustrationem,
+> concupiscibilis
+> desiderabilium adeptionem,
+> irascibilis
+> triumphi laudem:
 
-> ubi est, apud te,evasio periculorum,distinctio mansionum,concordia voluntatum;
+> ubi est, apud te,
+> evasio periculorum,
+> distinctio mansionum,
+> concordia voluntatum;
 
-> ubi estamoenitas vernalis,luciditas aestivalis,ubertas autumnalis,et requies hiemalis.
+> ubi est
+> amoenitas vernalis,
+> luciditas aestivalis,
+> ubertas autumnalis,
+> et requies hiemalis.
 
 > Da, Domine Deus,
 
-> vitam sine morte,gaudium sine dolore:
+> vitam sine morte,
+> gaudium sine dolore:
 
 > ubi est
 
-> summa libertas,libera securitas,secura tranquillitas,
+> summa libertas,
+> libera securitas,
+> secura tranquillitas,
 
-> iucunda felicitas,felix aeternitas,aeterna beatitudo,
+> iucunda felicitas,
+> felix aeternitas,
+> aeterna beatitudo,
 
-> veritatis visio,atque laudatio, Deus.
+> veritatis visio,
+> atque laudatio, Deus.
 
 > Amen.
-
-> Ad te fontem

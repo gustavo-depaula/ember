@@ -12,11 +12,11 @@
 
 ***Fac nos, quaesumus, Domine, divinitatis tuae sempiterna fruitione repleri, quam pretiosi corporis et sanguinis tui temporalis perceptio praefigurat. Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti Deus per omnia saecula saeculorum. Amen.***
 
-In elevatione Corporis Christi
+In elevatione Corporis Christi  
 
 ***O salutaris Hostia, quae caeli pandis ostium, bella premunt hostilia, da robur, fer auxilium.***
 
-In elevatione Corporis christi, consueverat dicere cum magna devotione et lacrimis
+In elevatione Corporis christi, consueverat dicere cum magna devotione et lacrimis  
 
 ***Tu rex gloriae, * Christe.***
 
@@ -49,5 +49,3 @@ In elevatione Corporis christi, consueverat dicere cum magna devotione et lacrim
 > Fiat misericordia tua, Domine, super nos, * quemadmodum speravimus in te.
 
 > In te, Domine, speravi, * non confundar in aeternum.
-
-> Te devote laudo

@@ -1,24 +1,27 @@
 # Holy Mass
 
-℟. He fed them from the finest grain, alleluia. And he filled them with honey from a rock, alleluia, alleluia, alleluia. [Ps 80 (81):17]
+℟. He fed them from the finest grain, alleluia. And he filled them with honey from a rock, alleluia, alleluia, alleluia. [Ps 80 (81):17]  
 
-℣. Rejoice to God our helper: sing aloud to the God of Jacob [Ps 80 (81):2]. * Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen.
+℣. Rejoice to God our helper: sing aloud to the God of Jacob [Ps 80 (81):2]. * Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen.  
 
-Kyrie
+Kyrie  
 
 ***Mass II***
 
-*Kyrie*, font of goodness,Only the incipit for the music of the Kyrie is provided in the manuscript. Father unbegotten, from whom every good proceeds, *eleison*.
+*Kyrie*, font of goodness,Only the incipit for the music of the Kyrie is provided in the manuscript. Father unbegotten, from whom every good proceeds, *eleison*.  
 
 > *Kyrie*, you who sent the Son to suffer for the offense of the world, that he might save it, *eleison*.
 
 > *Kyrie*, you who give the sevenfold spiritual gifts from which heaven and earth are filled, *eleison*.
 
-> *Christe*, only-begotten of God the Father,whom the holy prophets foretold would be born from the Virgin, wonderful to the world, *eleison*.
+> *Christe*, only-begotten of God the Father,
+> whom the holy prophets foretold would be born from the Virgin, wonderful to the world, *eleison*.
 
-> *Christe*, holy one, ruler in the royal hall of heaven,before whom the host of angels always stand, singing the hymn of Gloria, *eleison*.
+> *Christe*, holy one, ruler in the royal hall of heaven,
+> before whom the host of angels always stand, singing the hymn of Gloria, *eleison*.
 
-> *Christe*, from heaven you attend to our prayers;we honor you on earth devoutly and with humble minds; to you, good Jesus, we cry out, *eleison*.
+> *Christe*, from heaven you attend to our prayers;
+> we honor you on earth devoutly and with humble minds; to you, good Jesus, we cry out, *eleison*.
 
 > *Kyrie*, kind Spirit, united with the Father and the Son in one substance, breathing forth from them both, *eleison*.
 
@@ -30,13 +33,13 @@ Kyrie
 
 ***Mass IV***
 
-Glory to God in the highest, and on earth peace to men of good will.While similar to the more modern Mass IV as found in the *Graduale Romanum*, there are a few differences; only the incipit of the music is found in the manuscript, however. We praise you. We bless you. We adore you. We glorify you. We give you thanks for your great glory. Lord God, heavenly king, God almighty Father. Lord Jesus Christ, only begotten Son. Lord God, lamb of God, Son of the Father. Who takes away the sins of the world, have mercy on us. Who takes away the sins of the world, receive our prayer. Who sits at the right hand of the Father, have mercy on us. For you alone are holy. You alone are Lord. You alone are most high, Jesus Christ. With the Holy Spirit in the glory of God the Father. Amen.
+Glory to God in the highest, and on earth peace to men of good will.While similar to the more modern Mass IV as found in the *Graduale Romanum*, there are a few differences; only the incipit of the music is found in the manuscript, however. We praise you. We bless you. We adore you. We glorify you. We give you thanks for your great glory. Lord God, heavenly king, God almighty Father. Lord Jesus Christ, only begotten Son. Lord God, lamb of God, Son of the Father. Who takes away the sins of the world, have mercy on us. Who takes away the sins of the world, receive our prayer. Who sits at the right hand of the Father, have mercy on us. For you alone are holy. You alone are Lord. You alone are most high, Jesus Christ. With the Holy Spirit in the glory of God the Father. Amen.  
 
 > Collect
 
 ****Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.***
 
-Epistle
+Epistle  
 
 ***A reading from the first letter of blessed Paul the Apostle to the Corinthians (1 Cor 11:23–29)***
 
@@ -44,23 +47,23 @@ Epistle
 
 > Gradual
 
-℟. The eyes of all hope in you Lord, and you give them food in the suitable time. [Ps 144 (145):15]
+℟. The eyes of all hope in you Lord, and you give them food in the suitable time. [Ps 144 (145):15]  
 
-℣. You open your hand and fill every creature with blessing. [Ps 144 (145):16]
+℣. You open your hand and fill every creature with blessing. [Ps 144 (145):16]  
 
-Alleluia
+Alleluia  
 
-℟. Alleluia. My Flesh is true food and my Blood is true drink. [John 6:55]
+℟. Alleluia. My Flesh is true food and my Blood is true drink. [John 6:55]  
 
-℣. Whoever eats my Flesh and drinks my Blood will remain in me and I in him. Alleluia. [John 6:56]
+℣. Whoever eats my Flesh and drinks my Blood will remain in me and I in him. Alleluia. [John 6:56]  
 
-Sung to *Nativitas gloriosa* from the feast of St. Mary.
+Sung to *Nativitas gloriosa* from the feast of St. Mary.  
 
 ***Sequence***
 
 ***Lauda Sion***
 
-Sung to *Laudes crucis attolamus* from the feast of the Holy Cross.
+Sung to *Laudes crucis attolamus* from the feast of the Holy Cross.  
 
 ***Zion, praise the savior, praise the leader and shepherd in hymns and songs.***
 
@@ -118,31 +121,31 @@ Sung to *Laudes crucis attolamus* from the feast of the Holy Cross.
 
 > Offertory
 
-The priests of the Lord offer incense and bread to God and they will be holy to their God and they will not profane his name, alleluia. [Lev 21:6]
+The priests of the Lord offer incense and bread to God and they will be holy to their God and they will not profane his name, alleluia. [Lev 21:6]  
 
-Sung to *Confirma hoc Deus* from the Mass of the Holy Spirit.
+Sung to *Confirma hoc Deus* from the Mass of the Holy Spirit.  
 
 ***Secret***
 
 ***We ask, Lord, that you mercifully grant to your Church the gifts of unity and peace, which are mystically signified beneath the gifts we offer. Through our Lord Jesus Christ your Son, who lives and reigns with you in the unity of the Holy Spirit, world without end. Amen.***
 
-Preface
+Preface  
 
 ***[of the Nativity of the Lord]***
 
 ***It is truly right and just, proper and salutary, always and everywhere to give you thanks. Holy Lord, omnipotent Father, eternal God. Because of the mystery of the Word incarnate, the light of your glory has shone anew on the eyes of our mind. That, while we acknowledge him to be God visible, we may be drawn by him to the love of invisible things. And therefore with the angels and archangels, thrones and dominations, and with all the heavenly hosts, we sing a hymn to your glory, saying without end.***
 
-Sanctus
+Sanctus  
 
 ***Mass IV***
 
-Holy,Only the incipits for the Sanctus and the Agnus are provided in the manuscripts: Mass IV, as found in the *Graduale Romanum*, differs slightly from these incipits. holy, holy Lord God of Sabaoth. The heavens and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest.
+Holy,Only the incipits for the Sanctus and the Agnus are provided in the manuscripts: Mass IV, as found in the *Graduale Romanum*, differs slightly from these incipits. holy, holy Lord God of Sabaoth. The heavens and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest.  
 
 > Agnus Dei
 
 ***Mass IV***
 
-Lamb of God, who takes away the sins of the world, have mercy on us.
+Lamb of God, who takes away the sins of the world, have mercy on us.  
 
 > Lamb of God, who takes away the sins of the world, have mercy on us.
 
@@ -150,9 +153,9 @@ Lamb of God, who takes away the sins of the world, have mercy on us.
 
 > Communion Verse
 
-For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until he comes. Whoever, therefore, eats the bread or drinks the cup of the Lord unworthily will be guilty of profaning the Body and Blood of the Lord, alleluia. [1 Cor 11:26–27]
+For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until he comes. Whoever, therefore, eats the bread or drinks the cup of the Lord unworthily will be guilty of profaning the Body and Blood of the Lord, alleluia. [1 Cor 11:26–27]  
 
-Sung to *Factus est repente* from the Mass of the Holy Spirit.
+Sung to *Factus est repente* from the Mass of the Holy Spirit.  
 
 ***Post-Communion Prayer***
 

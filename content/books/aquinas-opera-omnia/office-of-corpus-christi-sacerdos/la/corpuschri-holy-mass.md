@@ -2,17 +2,17 @@
 
 ***{image 075}***
 
-℟. Cibavit eos ex adipe frumenti, alleluia, et de petra melle saturavit eos, alleluia, alleluia, alleluia.
+℟. Cibavit eos ex adipe frumenti, alleluia, et de petra melle saturavit eos, alleluia, alleluia, alleluia.  
 
-℣. Exultate Deo adiutori nostro, iubilate Deo Iacob. * Gloria Patri et Filio et Spiritui Sancto, sicut erat in principio et nunc et semper, et in saecula saeculorum, amen.
+℣. Exultate Deo adiutori nostro, iubilate Deo Iacob. * Gloria Patri et Filio et Spiritui Sancto, sicut erat in principio et nunc et semper, et in saecula saeculorum, amen.  
 
-Kyrie
+Kyrie  
 
 ***Kyrie fons bonitatis***
 
 ***{image 076}***
 
-Kyrie, fons bonitatis, Pater ingenite, a quo bona cuncta procedunt, eleison.
+Kyrie, fons bonitatis, Pater ingenite, a quo bona cuncta procedunt, eleison.  
 
 > Kyrie, qui pati natum mundi pro crimine, ipsum ut salvaret, misisti, eleison.
 
@@ -36,13 +36,13 @@ Kyrie, fons bonitatis, Pater ingenite, a quo bona cuncta procedunt, eleison.
 
 ***{image 077}***
 
-Gloria in excelsis Deo.Corrigan has the musical notation for “Deo” shifted down a step lower than the manuscript has it; we have followed the manuscript here. Et in terra pax hominibus bonae voluntatis. Laudamus te. Benedicimus te. Adoramus te. Glorificamus te. Gratias agimus tibi propter magnam gloriam tuam. Domine Deus, rex caelestis, Deus Pater omnipotens. Domine Fili unigenite Iesu Christe. Domine Deus, agnus Dei, Filius Patris. Qui tollis peccata mundi, miserere nobis. Qui tollis peccata mundi, suscipe deprecationem nostram. Qui sedes ad dexteram Patris, miserere nobis. Quoniam tu solus sanctus. Tu solus Dominus. Tu solus altissimus, Iesu Christe. Cum Sancto Spiritu in gloria Dei Patris. Amen.
+Gloria in excelsis Deo.Corrigan has the musical notation for “Deo” shifted down a step lower than the manuscript has it; we have followed the manuscript here. Et in terra pax hominibus bonae voluntatis. Laudamus te. Benedicimus te. Adoramus te. Glorificamus te. Gratias agimus tibi propter magnam gloriam tuam. Domine Deus, rex caelestis, Deus Pater omnipotens. Domine Fili unigenite Iesu Christe. Domine Deus, agnus Dei, Filius Patris. Qui tollis peccata mundi, miserere nobis. Qui tollis peccata mundi, suscipe deprecationem nostram. Qui sedes ad dexteram Patris, miserere nobis. Quoniam tu solus sanctus. Tu solus Dominus. Tu solus altissimus, Iesu Christe. Cum Sancto Spiritu in gloria Dei Patris. Amen.  
 
 > Oratio
 
 ****Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.***
 
-Epistola
+Epistola  
 
 ***[Lectio epistolae beati Pauli apostoli] ad Corinthios [I,11:23–29]***
 
@@ -52,19 +52,19 @@ Epistola
 
 ***{image 080}***
 
-℟. Oculi omnium in te sperant, Domine, et tu das illis escam in tempore opportuno.
+℟. Oculi omnium in te sperant, Domine, et tu das illis escam in tempore opportuno.  
 
-℣. Aperis tu manumCorrigan has the notes for the second syllable of “manum” shifted down a step lower than the manuscript has them; we have followed the manuscript here. tuam et imples omne animal benedictione.
+℣. Aperis tu manumCorrigan has the notes for the second syllable of “manum” shifted down a step lower than the manuscript has them; we have followed the manuscript here. tuam et imples omne animal benedictione.  
 
-Alleluia
+Alleluia  
 
 ***{image 081}***
 
-℟. Alleluia. Caro mea vere est cibus et Sanguis meus vere est potus.
+℟. Alleluia. Caro mea vere est cibus et Sanguis meus vere est potus.  
 
-℣. Qui manducat meam Carnem et bibit meum Sanguinem in me manet et ego in eo. Alleluia.
+℣. Qui manducat meam Carnem et bibit meum Sanguinem in me manet et ego in eo. Alleluia.  
 
-Contra *Nativitas gloriosa* de sancta Maria.
+Contra *Nativitas gloriosa* de sancta Maria.  
 
 ***Prosa***
 
@@ -72,59 +72,115 @@ Contra *Nativitas gloriosa* de sancta Maria.
 
 ***{image 082-1}***
 
-{image 082-2}
+{image 082-2}  
 
-{image 082-3}
+{image 082-3}  
 
-Contra *Laudes crucis attolamus* de sancta Cruce.
+Contra *Laudes crucis attolamus* de sancta Cruce.  
 
-***Lauda Sion salvatoremlauda ducem et pastoremin hymnis et canticis.***
+***Lauda Sion salvatorem***
+***lauda ducem et pastorem***
+***in hymnis et canticis.***
 
-> Quantum potes tantum audequia maior omni laudenec laudare sufficis.
+> Quantum potes tantum aude
+> quia maior omni laude
+> nec laudare sufficis.
 
-> Laudis thema specialispanis vivus et vitalishodie proponitur.
+> Laudis thema specialis
+> panis vivus et vitalis
+> hodie proponitur.
 
-> Quem in sacrae mensa cenaeturbae fratrum duodenaedatum non ambigitur.
+> Quem in sacrae mensa cenae
+> turbae fratrum duodenae
+> datum non ambigitur.
 
-> Sit laus plena, sit sonorasit iucunda sit decoramentis iubilatio.
+> Sit laus plena, sit sonora
+> sit iucunda sit decora
+> mentis iubilatio.
 
-> Dies enim solemnis agiturin qua mensae prima recoliturhuius institutio.
+> Dies enim solemnis agitur
+> in qua mensae prima recolitur
+> huius institutio.
 
-> In hac mensa novi regisnovum Pascha novae legisphase vetus terminat.
+> In hac mensa novi regis
+> novum Pascha novae legis
+> phase vetus terminat.
 
-> Vetustatem novitasumbram fugat veritasnoctem lux eliminat.
+> Vetustatem novitas
+> umbram fugat veritas
+> noctem lux eliminat.
 
-> Quod in cena Christus gessitfaciendum hoc expressitin sui memoriam.
+> Quod in cena Christus gessit
+> faciendum hoc expressit
+> in sui memoriam.
 
-> Docti sacris institutispanem vinum in salutisconsecramus hostiam.
+> Docti sacris institutis
+> panem vinum in salutis
+> consecramus hostiam.
 
-> Dogma datur Christianisquod in Carnem transit paniset vinum in Sanguinem.
+> Dogma datur Christianis
+> quod in Carnem transit panis
+> et vinum in Sanguinem.
 
-> Quod non capis quod non videsanimosa firmat fidespraeter rerum ordinem.
+> Quod non capis quod non vides
+> animosa firmat fides
+> praeter rerum ordinem.
 
-> Sub diversisIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses. speciebussignis tantum et non rebuslatent res eximiae.
+> Sub diversisIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses. speciebus
+> signis tantum et non rebus
+> latent res eximiae.
 
-> Caro cibus Sanguis potusmanet tamen Christus totussub utraque specie.
+> Caro cibus Sanguis potus
+> manet tamen Christus totus
+> sub utraque specie.
 
-> A sumente non concisusnon confractus non divisusinteger accipitur.
+> A sumente non concisus
+> non confractus non divisus
+> integer accipitur.
 
-> Sumit unus, sumunt millequantum isti tantum illenec sumptus absumitur.
+> Sumit unus, sumunt mille
+> quantum isti tantum ille
+> nec sumptus absumitur.
 
-> Sumunt boni sumunt malisorte tamen inaequalivitae vel interitus.
+> Sumunt boni sumunt mali
+> sorte tamen inaequali
+> vitae vel interitus.
 
-> Mors est malis vita bonisvide, paris sumptionisquam sit dispar exitus.
+> Mors est malis vita bonis
+> vide, paris sumptionis
+> quam sit dispar exitus.
 
-> Fracto demum sacramentone vacilles sed mementotantumThe music found in the manuscript differs from the chant above slightly at this point, but it is likely a mistake. esse sub fragmentoIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.quantum toto tegitur.
+> Fracto demum sacramento
+> ne vacilles sed memento
+> tantumThe music found in the manuscript differs from the chant above slightly at this point, but it is likely a mistake. esse sub fragmentoIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.
+> quantum toto tegitur.
 
-> Nulla rei fit scissurasigni tantum fit fracturaqua nec status nec staturasignati minuitur.
+> Nulla rei fit scissura
+> signi tantum fit fractura
+> qua nec status nec statura
+> signati minuitur.
 
-> Ecce panis angelorumIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.factus cibus viatorumvere panis filiorumnon mittendus canibus.
+> Ecce panis angelorumIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.
+> factus cibus viatorum
+> vere panis filiorum
+> non mittendus canibus.
 
-> In figuris praesignaturcum Isaac immolaturagnus Paschae deputaturdatur manna patribus.
+> In figuris praesignatur
+> cum Isaac immolatur
+> agnus Paschae deputatur
+> datur manna patribus.
 
-> Bone pastor panis vereIesu nostri misereretu nos pasce nos tueretu nos bona fac viderein terra viventium.
+> Bone pastor panis vere
+> Iesu nostri miserere
+> tu nos pasce nos tuere
+> tu nos bona fac videre
+> in terra viventium.
 
-> Tu qui cuncta scis et vales,qui nos pascis hic mortales,tuos ibi commensales,coheredes, et sodalesfac sanctorum civium. Amen.
+> Tu qui cuncta scis et vales,
+> qui nos pascis hic mortales,
+> tuos ibi commensales,
+> coheredes, et sodales
+> fac sanctorum civium. Amen.
 
 > Evangelium
 
@@ -136,27 +192,27 @@ Contra *Laudes crucis attolamus* de sancta Cruce.
 
 ***{image 084}***
 
-Sacerdotes incensum Domini et panes offerunt Deo et ideo sancti erunt Deo suo et non polluent nomen eius, alleluia.
+Sacerdotes incensum Domini et panes offerunt Deo et ideo sancti erunt Deo suo et non polluent nomen eius, alleluia.  
 
-Contra *Confirma hoc Deus* de Sancto Spiritu.
+Contra *Confirma hoc Deus* de Sancto Spiritu.  
 
 ***Secreta***
 
 ***Ecclesiae tuae, quaesumus, Domine, unitatis et pacis propitius dona concede, quae sub oblatis muneribus mystice designantur. Per Dominum nostrum [Iesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus, per omnia saecula saeculorum. Amen.]***
 
-Praefatium
+Praefatium  
 
 ***[de Nativitate Domini]***
 
 ***[Vere dignum et iustum est, aequum et salutare, nos tibi semper et ubique gratias agere. Domine sancte, Pater] omnipotens, aeterne Deus. Quia per incarnati Verbi mysterium, nova mentis nostrae oculis lux tuae claritatis infulsit. Ut, dum visibiliter Deum cognoscimus, per hunc in invisibilium amorem rapiamur. Et ideo cum angelis et archangelis, cum thronis et dominationibus, cumque omni militia caelestis exercitus, hymnum gloriae tuae canimus, sine fine dicentes.***
 
-Sanctus
+Sanctus  
 
 ***[Kyriale] IV***
 
 ***{image 087}***
 
-Sanctus, sanctus, santus Dominus Deus Sabaoth. Pleni sunt caeli et terra gloria tua. Hosanna in excelsis. Benedictus qui venit in nomine Domini. Hosanna in excelsis.
+Sanctus, sanctus, santus Dominus Deus Sabaoth. Pleni sunt caeli et terra gloria tua. Hosanna in excelsis. Benedictus qui venit in nomine Domini. Hosanna in excelsis.  
 
 > Agnus Dei
 
@@ -164,7 +220,7 @@ Sanctus, sanctus, santus Dominus Deus Sabaoth. Pleni sunt caeli et terra gloria 
 
 ***{image 088}***
 
-Agnus Dei, qui tollis peccata mundi, miserere nobis.
+Agnus Dei, qui tollis peccata mundi, miserere nobis.  
 
 > Agnus Dei, qui tollis peccata mundi, miserere nobis.
 
@@ -174,9 +230,9 @@ Agnus Dei, qui tollis peccata mundi, miserere nobis.
 
 ***{image 089}***
 
-Quotienscumque manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis donec veniat. Itaque, quicumque manducaverit panem vel biberit calicem Domini indigne, reus erit Corporis et Sanguinem Domini, alleluia.
+Quotienscumque manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis donec veniat. Itaque, quicumque manducaverit panem vel biberit calicem Domini indigne, reus erit Corporis et Sanguinem Domini, alleluia.  
 
-Contra *Factus est repente* de Sancto Spiritu.
+Contra *Factus est repente* de Sancto Spiritu.  
 
 ***Postcommunio***
 

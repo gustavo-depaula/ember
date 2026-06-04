@@ -18,39 +18,39 @@
 
 > **206**. Having spoken of the destruction of the city and the captivity of the people, he speaks of the well-being of the remnant.
 
-First, the gathering of the people together is mentioned;
+First, the gathering of the people together is mentioned;  
 
-second, the disturbance of the congregation: ***and it came to pass in the seventh month*** (Jer 41:1).
+second, the disturbance of the congregation: ***and it came to pass in the seventh month*** (Jer 41:1).  
 
-Concerning the first, there are two points.
+Concerning the first, there are two points.  
 
-First, the congregation is spoken of;
+First, the congregation is spoken of;  
 
-second, the revelation of certain plots, which were disrupting the peace of the people, at ***but Johanan, the son of Kareah*** (Jer 40:13).
+second, the revelation of certain plots, which were disrupting the peace of the people, at ***but Johanan, the son of Kareah*** (Jer 40:13).  
 
-Concerning the former, there are three points.
+Concerning the former, there are three points.  
 
-First, the congregation of the people is spoken of with regard to the prophet;
+First, the congregation of the people is spoken of with regard to the prophet;  
 
-second, with regard to the princes, at ***and when all the captains of the army had heard . . . there came to Gedaliah*** (Jer 40:7);
+second, with regard to the princes, at ***and when all the captains of the army had heard . . . there came to Gedaliah*** (Jer 40:7);  
 
-third, with regard to the people, at ***moreover, when all the Jews*** (Jer 40:11).
+third, with regard to the people, at ***moreover, when all the Jews*** (Jer 40:11).  
 
-Concerning the first, there are four points.
+Concerning the first, there are four points.  
 
-First, the announcement of liberation is mentioned: ***the word which came to Jeremiah***. Since no message follows, it is understood that by this word is first revealed what later is related as being fulfilled by action. *He heard the poor, and did not despise his captives* (Ps 68:34).
+First, the announcement of liberation is mentioned: ***the word which came to Jeremiah***. Since no message follows, it is understood that by this word is first revealed what later is related as being fulfilled by action. *He heard the poor, and did not despise his captives* (Ps 68:34).  
 
-Second, the liberation of the prophet is spoken of: ***therefore, when the captain of the guard took Jeremiah***. And he gives the reason—namely, the truthfulness of the prophet: ***the Lord your God spoke***, by you. *Is there any evil in the city which the Lord has not done?* (Amos 3:6).
+Second, the liberation of the prophet is spoken of: ***therefore, when the captain of the guard took Jeremiah***. And he gives the reason—namely, the truthfulness of the prophet: ***the Lord your God spoke***, by you. *Is there any evil in the city which the Lord has not done?* (Amos 3:6).  
 
-And he speaks of the liberation: ***now, therefore, I release you from the chains***. *He led them out of darkness, and the shadow of death, and broke their chains asunder* (Ps 106:14).
+And he speaks of the liberation: ***now, therefore, I release you from the chains***. *He led them out of darkness, and the shadow of death, and broke their chains asunder* (Ps 106:14).  
 
-Third, the option is given to him of going to Babylon, or remaining with Gedaliah, or going wherever he pleases: ***if it pleases***. *Behold, the land is before you* (Gen 13:9). *I shall lead you by the paths of equity, which when you have entered, your steps shall not be straightened, and when you run you shall not meet a stumbling block* (Prov 4:11–12).
+Third, the option is given to him of going to Babylon, or remaining with Gedaliah, or going wherever he pleases: ***if it pleases***. *Behold, the land is before you* (Gen 13:9). *I shall lead you by the paths of equity, which when you have entered, your steps shall not be straightened, and when you run you shall not meet a stumbling block* (Prov 4:11–12).  
 
-And the provision made for him is mentioned: ***the captain of the guard gave him also food***. *From the eater went forth food, and from the strong sweetness* (Jud 14:14).
+And the provision made for him is mentioned: ***the captain of the guard gave him also food***. *From the eater went forth food, and from the strong sweetness* (Jud 14:14).  
 
-Fourth, the choice of the prophet is given: ***now, Jeremiah came to Gedaliah***. Therefore, he did not go to Chaldea, because they had Daniel and Ezekiel for their consolation. *He has sent me to bring good tidings to the humble, to heal the broken-hearted, and to preach release to the captives, and an opening to those who are shut up; that I should preach the year pleasing to the Lord, and the day of vengeance for our God; that I should console all those who mourn, and give consolation to all the mourners of Zion* (Isa 61:1–2).
+Fourth, the choice of the prophet is given: ***now, Jeremiah came to Gedaliah***. Therefore, he did not go to Chaldea, because they had Daniel and Ezekiel for their consolation. *He has sent me to bring good tidings to the humble, to heal the broken-hearted, and to preach release to the captives, and an opening to those who are shut up; that I should preach the year pleasing to the Lord, and the day of vengeance for our God; that I should console all those who mourn, and give consolation to all the mourners of Zion* (Isa 61:1–2).  
 
-Lecture 2
+Lecture 2  
 
 ***Assembly of the princes***
 
@@ -68,15 +68,15 @@ Lecture 2
 
 > **207**. Here, the assembly of the princes is spoken of.
 
-First, their coming together is mentioned: ***and when all the captains of the army, had heard . . . there came to Gedaliah***. *A foolish king shall destroy his people, but cities shall be inhabited through the good sense of the prudent* (Sir 10:3).
+First, their coming together is mentioned: ***and when all the captains of the army, had heard . . . there came to Gedaliah***. *A foolish king shall destroy his people, but cities shall be inhabited through the good sense of the prudent* (Sir 10:3).  
 
-Second, the assurance of those gathered is mentioned: ***and Gedaliah swore to them . . . do not fear***. *Servants, be submissive with all fear to your masters, not only to the good and modest, but also to the unreasonable* (1 Pet 2:18).
+Second, the assurance of those gathered is mentioned: ***and Gedaliah swore to them . . . do not fear***. *Servants, be submissive with all fear to your masters, not only to the good and modest, but also to the unreasonable* (1 Pet 2:18).  
 
-Third, he shows the manner of their security: ***behold, I***; it is as though he were saying, “I bear the entire burden, that you may be in peace.” *We are foolish because of Christ, but you are wise in Christ* (1 Cor 4:10). *Surely, he has borne our infirmities, and has himself carried our griefs* (Isa 53:4). *A good shepherd lays down his life for his sheep* (John 10:11).
+Third, he shows the manner of their security: ***behold, I***; it is as though he were saying, “I bear the entire burden, that you may be in peace.” *We are foolish because of Christ, but you are wise in Christ* (1 Cor 4:10). *Surely, he has borne our infirmities, and has himself carried our griefs* (Isa 53:4). *A good shepherd lays down his life for his sheep* (John 10:11).  
 
-***Moreover, when all the Jews which were in Moab***. Here, the gathering of the people is spoken of. *He has gathered the exiles of Israel* (Ps 146:2).
+***Moreover, when all the Jews which were in Moab***. Here, the gathering of the people is spoken of. *He has gathered the exiles of Israel* (Ps 146:2).  
 
-Lecture 3
+Lecture 3  
 
 ***Plots of the princes***
 
@@ -90,12 +90,10 @@ Lecture 3
 
 > **208**. Here, the contrivance of plots is spoken of:
 
-first, that made by the princes communally: ***know that Baalis***, who still resisted the Chaldeans; ***and Gedaliah did not believe***, because he believed the false words of Ishmael. *The innocent believes every word, but the prudent man considers his steps* (Prov 14:15).
+first, that made by the princes communally: ***know that Baalis***, who still resisted the Chaldeans; ***and Gedaliah did not believe***, because he believed the false words of Ishmael. *The innocent believes every word, but the prudent man considers his steps* (Prov 14:15).  
 
-Second, that made by a certain man in particular: ***Johanan***.
+Second, that made by a certain man in particular: ***Johanan***.  
 
-First, its contrivance: ***go***. *By the good of the just a city shall be exalted, and in the destruction of the wicked shall be its praise* (Prov 11:10).
+First, its contrivance: ***go***. *By the good of the just a city shall be exalted, and in the destruction of the wicked shall be its praise* (Prov 11:10).  
 
 Second, its rejection is spoken of: ***and Gedaliah said***. Above: ***and I did not know that they took counsel against me, saying: let us put wood in his bread, and let us cut him off from the land of the living*** (Jer 11:19).
-
-Chapter 41

@@ -18,33 +18,33 @@
 
 > **213**. Here, the instruction of the gathered people begins, and it is divided into two parts.
 
-First, the general instruction of the people is spoken of;
+First, the general instruction of the people is spoken of;  
 
-second, the particular instruction of Baruch, ***the word that Jeremiah spoke to Baruch*** (Jer 45:1).
+second, the particular instruction of Baruch, ***the word that Jeremiah spoke to Baruch*** (Jer 45:1).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, the prophet’s instruction is given;
+First, the prophet’s instruction is given;  
 
-second, the objection of the people, at ***it came to pass when Jeremiah finished speaking to the people*** (Jer 43:1).
+second, the objection of the people, at ***it came to pass when Jeremiah finished speaking to the people*** (Jer 43:1).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, the request for instruction is given;
+First, the request for instruction is given;  
 
-second, the instruction, at ***now, when ten days were accomplished*** (Jer 42:7).
+second, the instruction, at ***now, when ten days were accomplished*** (Jer 42:7).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, they seek the intercession of prayer when the petition is spoken of: ***let our supplication be accepted before you***, as though saying, “Let it have a place with you.” *The prayer of the one who humbles himself shall penetrate the clouds, and until it draws nigh he shall not be consoled, and he will not depart until the Most High behold* (Sir 35:21). By this they gain his benevolence. ***And pray for us***, when they seek kindness. *Raise a prayer, therefore, for the remnant which is left* (Isa 37:4). ***For we have been left a few***, by which they turn him towards mercy. *You shall be left few in number, who before were like the stars of heaven for number* (Deut 28:62).
+First, they seek the intercession of prayer when the petition is spoken of: ***let our supplication be accepted before you***, as though saying, “Let it have a place with you.” *The prayer of the one who humbles himself shall penetrate the clouds, and until it draws nigh he shall not be consoled, and he will not depart until the Most High behold* (Sir 35:21). By this they gain his benevolence. ***And pray for us***, when they seek kindness. *Raise a prayer, therefore, for the remnant which is left* (Isa 37:4). ***For we have been left a few***, by which they turn him towards mercy. *You shall be left few in number, who before were like the stars of heaven for number* (Deut 28:62).  
 
-***And tell***, by which they express their longing for the fruit of prayer. ***The Lord***. *Should not the people seek a vision of their God for the living and the dead?* (Isa 8:19). ***The way***, because they had decided not to go to Egypt. Above: ***a man’s way is not his own, nor does it pertain to a man to walk and direct his steps*** (Jer 10:23). *Since we know not what we should do, this only have we left, that we should direct our eyes to you* (2 Chr 20:12).
+***And tell***, by which they express their longing for the fruit of prayer. ***The Lord***. *Should not the people seek a vision of their God for the living and the dead?* (Isa 8:19). ***The way***, because they had decided not to go to Egypt. Above: ***a man’s way is not his own, nor does it pertain to a man to walk and direct his steps*** (Jer 10:23). *Since we know not what we should do, this only have we left, that we should direct our eyes to you* (2 Chr 20:12).  
 
-The promise of the prophet is also spoken of, at ***but Jeremiah said***. For he promises prayers: ***behold, I***. *Far be this sin against the Lord from me, that I should cease praying for you* (1 Sam 12:23). And the declaration: ***and shall tell you every word that he shall answer me***. *For I have not spared to declare to you the whole counsel of God* (Acts 20:27).
+The promise of the prophet is also spoken of, at ***but Jeremiah said***. For he promises prayers: ***behold, I***. *Far be this sin against the Lord from me, that I should cease praying for you* (1 Sam 12:23). And the declaration: ***and shall tell you every word that he shall answer me***. *For I have not spared to declare to you the whole counsel of God* (Acts 20:27).  
 
-Second, they make a promise of obedience, which they were not going to keep: ***and they said***. Likewise, Exodus 19:8, *all that the Lord has spoken to us we shall do*.
+Second, they make a promise of obedience, which they were not going to keep: ***and they said***. Likewise, Exodus 19:8, *all that the Lord has spoken to us we shall do*.  
 
-Lecture 2
+Lecture 2  
 
 ***God’s promises to the remnant***
 
@@ -82,14 +82,14 @@ Lecture 2
 
 > **214**. Here, the instruction is given; concerning this, there are three points.
 
-First, he speaks of the authority of the one revealing this: ***thus says the Lord***, as a mediator between you and God, bearing your prayers to God and his response to you. *I was a mediator, and stood between you and God at that time, that I might tell you his words* (Deut 5:5).
+First, he speaks of the authority of the one revealing this: ***thus says the Lord***, as a mediator between you and God, bearing your prayers to God and his response to you. *I was a mediator, and stood between you and God at that time, that I might tell you his words* (Deut 5:5).  
 
-Second, he exhorts them to a quiet life in two ways.
+Second, he exhorts them to a quiet life in two ways.  
 
-By excluding the evils of a divine punishment, when he speaks of the promise: ***I shall build you up***, by conferring good things: ***I shall plant***, by strengthening. And when he excludes any hindrance: ***for now I am appeased***. *And the Lord was appeased, that he should not do evil against his people* (Exod 32:14). *He shall not be angry forever, neither shall he always threaten* (Ps 102:9).
+By excluding the evils of a divine punishment, when he speaks of the promise: ***I shall build you up***, by conferring good things: ***I shall plant***, by strengthening. And when he excludes any hindrance: ***for now I am appeased***. *And the Lord was appeased, that he should not do evil against his people* (Exod 32:14). *He shall not be angry forever, neither shall he always threaten* (Ps 102:9).  
 
-And he excludes the fear of persecution by the enemy when he guarantees their security: ***do not fear***. *Who are you to fear a mortal man, and a son of man, who shall wither away as the grass?* (Isa 51:12).
+And he excludes the fear of persecution by the enemy when he guarantees their security: ***do not fear***. *Who are you to fear a mortal man, and a son of man, who shall wither away as the grass?* (Isa 51:12).  
 
-And he promises them help: ***for I am with you***. Above: ***the Lord is with me, as a mighty man of war; therefore, those who persecute me shall fall and be weak; they shall be greatly ashamed, for they have not understood the eternal reproach, which shall never be blotted out*** (Jer 20:11). *The Lord God is my helper, therefore, I shall not be put to shame* (Isa 50:7).
+And he promises them help: ***for I am with you***. Above: ***the Lord is with me, as a mighty man of war; therefore, those who persecute me shall fall and be weak; they shall be greatly ashamed, for they have not understood the eternal reproach, which shall never be blotted out*** (Jer 20:11). *The Lord God is my helper, therefore, I shall not be put to shame* (Isa 50:7).  
 
 *[St. Thomas was unable to complete his literal commentary on Jeremiah before his death.]*

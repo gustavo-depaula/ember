@@ -1,33 +1,105 @@
 # O God, You Who Are All-powerful
 
-***O Deusomnipotens,omnia sciens,principio et fine carens,qui es virtutum donator,et conservator,The Marietti edition here adds *et remunerator*, “and rewarder.”digneris me stabiliresolido fidei fundamento,et tueriinexpugnabili spei clypeo, atque decorarenuptiali caritatis vestimento.***
+***O Deus***
+***omnipotens,***
+***omnia sciens,***
+***principio et fine carens,***
+***qui es virtutum donator,***
+***et conservator,The Marietti edition here adds *et remunerator*, “and rewarder.”***
+***digneris me stabilire***
+***solido fidei fundamento,***
+***et tueri***
+***inexpugnabili spei clypeo, atque decorare***
+***nuptiali caritatis vestimento.***
 
 > Da mihi,
 
-> per iustitiamtibi subesse;per prudentiaminsidias Diaboli cavere;per temperantiammedium tenere;per fortitudinemadversa patienter tolerare.
+> per iustitiam
+> tibi subesse;
+> per prudentiam
+> insidias Diaboli cavere;
+> per temperantiam
+> medium tenere;
+> per fortitudinem
+> adversa patienter tolerare.
 
-> Da, bonumquod non habeo,ab habentibushumiliter quaerere.
+> Da, bonum
+> quod non habeo,
+> ab habentibus
+> humiliter quaerere.
 
-> Malum culpaequod feci,veraciter accusare;
+> Malum culpae
+> quod feci,
+> veraciter accusare;
 
-> malum poenaequod sustineo,aequanimiter ferre;
+> malum poenae
+> quod sustineo,
+> aequanimiter ferre;
 
-> bono proximinon invidere;de bonis tuissemper gratias agere;
+> bono proximi
+> non invidere;
+> de bonis tuis
+> semper gratias agere;
 
-> habitu,incessu,et motudisciplinam semper servare;
+> habitu,
+> incessu,
+> et motu
+> disciplinam semper servare;
 
-> linguama vaniloquio restringere;pedesa discursu cohibere;oculosa vago visu comprimere;auresa rumoribus separare;
+> linguam
+> a vaniloquio restringere;
+> pedes
+> a discursu cohibere;
+> oculos
+> a vago visu comprimere;
+> aures
+> a rumoribus separare;
 
-> vultum humiliter inclinare;mentemin caelestia levare;transitoria contemnere;te tantummododesiderare;
+> vultum humiliter inclinare;
+> mentem
+> in caelestia levare;
+> transitoria contemnere;
+> te tantummodo
+> desiderare;
 
-> carnemdomare;conscientiam expurgare;sanctos honorare;te digne laudare;in bono proficere;et bonos actusfine sancto terminare.
+> carnem
+> domare;
+> conscientiam expurgare;
+> sanctos honorare;
+> te digne laudare;
+> in bono proficere;
+> et bonos actus
+> fine sancto terminare.
 
-> Planta in me, Domine,virtutes:ut circadivina sim devotus,circa humana officia providus,circa usumproprii corporisnulli onerosus.
+> Planta in me, Domine,
+> virtutes:
+> ut circa
+> divina sim devotus,
+> circa humana officia providus,
+> circa usum
+> proprii corporis
+> nulli onerosus.
 
-> Da mihi, Domine,ferventem contritionem,puram confessionem,perfectam satisfactionem.
+> Da mihi, Domine,
+> ferventem contritionem,
+> puram confessionem,
+> perfectam satisfactionem.
 
-> Ordinare me dignerisinteriusper bonam vitam:ut faciam quod deceat,et quod mihiproficiat ad meritum,et reliquis proximis ad exemplum.
+> Ordinare me digneris
+> interius
+> per bonam vitam:
+> ut faciam quod deceat,
+> et quod mihi
+> proficiat ad meritum,
+> et reliquis proximis ad exemplum.
 
-> Da mihi, ut nunquamea quae fiunt insipienter,appetam,et quae fiunt accidiose,fastidiam:ne contingat inchoandaante tempus appetere,aut inchoataante consummationem deserere.Amen.
-
-> Te Deum totius consolationis invoco
+> Da mihi, ut nunquam
+> ea quae fiunt insipienter,
+> appetam,
+> et quae fiunt accidiose,
+> fastidiam:
+> ne contingat inchoanda
+> ante tempus appetere,
+> aut inchoata
+> ante consummationem deserere.
+> Amen.

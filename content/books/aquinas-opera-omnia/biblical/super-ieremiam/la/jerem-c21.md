@@ -14,21 +14,21 @@
 
 > **113**. Hic ponitur comminatio contra reges, qui obtinent summum gradum in potestate saeculari:
 
-et primo secundum quod reges puniuntur per poenam populi;
+et primo secundum quod reges puniuntur per poenam populi;  
 
-secundo secundum quod puniuntur in propria persona, 22 cap.: ***haec dicit Dominus*** etc.
+secundo secundum quod puniuntur in propria persona, 22 cap.: ***haec dicit Dominus*** etc.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur regis interrogatio vel petitio: ***interroga***; quasi dicat, quaere divinum responsum, ***et ora pro nobis***. Hic Phassur non est idem qui supra, qui ex alio patre natus. Isa. 37: *dies tribulationis et correctionis, et blasphemiae dies haec: quia venerunt filii usque ad partum, et virtus non est pariendi*. Et infra (ibid.): *leva ergo orationem pro reliquiis quae repertae sunt*.
+Primo ponitur regis interrogatio vel petitio: ***interroga***; quasi dicat, quaere divinum responsum, ***et ora pro nobis***. Hic Phassur non est idem qui supra, qui ex alio patre natus. Isa. 37: *dies tribulationis et correctionis, et blasphemiae dies haec: quia venerunt filii usque ad partum, et virtus non est pariendi*. Et infra (ibid.): *leva ergo orationem pro reliquiis quae repertae sunt*.  
 
-Secundo ponitur prophetae responsio: ***et dixit Jeremias***.
+Secundo ponitur prophetae responsio: ***et dixit Jeremias***.  
 
-Et primo comminatur poenam quantum ad tempus ante civitatis captionem, contra tria in quibus confidebant: scilicet in armorum munitione: ***ecce convertam***; quasi dicat: arma quae contra hostes assumpsistis, in vosipsos convertentur, quia contra vos invicem pugnabitis. Psalm. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*. Vel ***convertentur***, quasi sine fructu. Confidebant etiam in murorum fortitudine; contra quod dicit: ***et Chaldaeos, qui obsident in circuitu murorum***; quasi dicat, non impedientibus muris. Thren. 4: *non crediderunt reges terrae, et universi habitatores orbis, quoniam ingrederetur hostis, et inimicus per portas Jerusalem*.
+Et primo comminatur poenam quantum ad tempus ante civitatis captionem, contra tria in quibus confidebant: scilicet in armorum munitione: ***ecce convertam***; quasi dicat: arma quae contra hostes assumpsistis, in vosipsos convertentur, quia contra vos invicem pugnabitis. Psalm. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*. Vel ***convertentur***, quasi sine fructu. Confidebant etiam in murorum fortitudine; contra quod dicit: ***et Chaldaeos, qui obsident in circuitu murorum***; quasi dicat, non impedientibus muris. Thren. 4: *non crediderunt reges terrae, et universi habitatores orbis, quoniam ingrederetur hostis, et inimicus per portas Jerusalem*.  
 
-Confidebant etiam in divina protectione; contra quod dicit: ***et debellabo ego vos in manu extenta***, idest potentia mea ad vindictam parata, ***forti***, cui resisti non potest, ***furore***, quantum ad pessimos, ***indignatione***, quantum ad minus peccantes, ***in ira grandi***, contra mediocres.
+Confidebant etiam in divina protectione; contra quod dicit: ***et debellabo ego vos in manu extenta***, idest potentia mea ad vindictam parata, ***forti***, cui resisti non potest, ***furore***, quantum ad pessimos, ***indignatione***, quantum ad minus peccantes, ***in ira grandi***, contra mediocres.  
 
-Lectio 2
+Lectio 2  
 
 ***^21:6b^ Homines et bestiae pestilentia magna morientur.***
 
@@ -50,20 +50,18 @@ Lectio 2
 
 > **114**. Hic tangit modum impugnationis. Ezech. 20: *in manu valida, et in brachio extento, et in furore effuso regnabo super vos, et adducam vos in desertum populorum, et judicabor vobiscum ibi, facie ad faciem*.
 
-Et quantum ad tempus post urbis captionem: ***et post hoc***, comminans poenam, ***dabo Sedeciam***. Thren. 1: *dedit me Dominus in manu de qua non potero fugere*. Et excludit misericordiam: ***et non flectetur***, precibus, vel muneribus, ***neque parcet***, propter pristinam amicitiam, ***neque miserebitur***, ex compassione miseriae. Proverb. 6: *zelus et furor viri non parcet in die vindictae, nec acquiescet cujusque precibus, nec suscipiet pro redemptione dona plurima*. Et hoc quia pactum non servavit. Ezech. 17: *qui dissolvit pactum, numquid effugiet?*
+Et quantum ad tempus post urbis captionem: ***et post hoc***, comminans poenam, ***dabo Sedeciam***. Thren. 1: *dedit me Dominus in manu de qua non potero fugere*. Et excludit misericordiam: ***et non flectetur***, precibus, vel muneribus, ***neque parcet***, propter pristinam amicitiam, ***neque miserebitur***, ex compassione miseriae. Proverb. 6: *zelus et furor viri non parcet in die vindictae, nec acquiescet cujusque precibus, nec suscipiet pro redemptione dona plurima*. Et hoc quia pactum non servavit. Ezech. 17: *qui dissolvit pactum, numquid effugiet?*  
 
-Secundo proponit eis salutis viam quantum ad populum: ***et ad populum hunc dices***. Et primo dat eis eligendi libertatem: ***ecce ego do coram vobis viam vitae, et viam mortis***. Eccl. 15: *ante hominem vita et mors, bonum et malum: quod placuerit ei, dabitur illi*.
+Secundo proponit eis salutis viam quantum ad populum: ***et ad populum hunc dices***. Et primo dat eis eligendi libertatem: ***ecce ego do coram vobis viam vitae, et viam mortis***. Eccl. 15: *ante hominem vita et mors, bonum et malum: quod placuerit ei, dabitur illi*.  
 
-Ponit disjunctionem: ***qui habitaverit in urbe hac morietur** . . . **qui autem egressus fuerit** . . . **vivet***. Isa. 51: *egredimini de medio ejus, populus meus, ut salvet unusquisque animam suam ab ira furoris Domini*.
+Ponit disjunctionem: ***qui habitaverit in urbe hac morietur** . . . **qui autem egressus fuerit** . . . **vivet***. Isa. 51: *egredimini de medio ejus, populus meus, ut salvet unusquisque animam suam ab ira furoris Domini*.  
 
-Et assignat rationem: ***posui enim faciem meam super civitatem hanc***. Supra 1: ***ollam succensam ego video***.
+Et assignat rationem: ***posui enim faciem meam super civitatem hanc***. Supra 1: ***ollam succensam ego video***.  
 
-Et ad regem: ***et domui regis Juda***, scilicet dices, ponens consilium: ***judicate mane***. Psal. 81: *eripite pauperem, et egenum de manu peccatoris liberate*.
+Et ad regem: ***et domui regis Juda***, scilicet dices, ponens consilium: ***judicate mane***. Psal. 81: *eripite pauperem, et egenum de manu peccatoris liberate*.  
 
-Et ponit imminens periculum: ***ne forte egrediatur ut ignis indignatio mea***. Deut. 32: *ignis succensus est in furore meo, et ardebit usque ad inferni novissima*.
+Et ponit imminens periculum: ***ne forte egrediatur ut ignis indignatio mea***. Deut. 32: *ignis succensus est in furore meo, et ardebit usque ad inferni novissima*.  
 
-Tertio excludit falsam fiduciam, ponens confidentiae causam: ***ecce ego ad te***, idest arcem Jerusalem, ***habitatricem vallis solidae, atque campestris***: erat enim Jerusalem in latere montis versus vallem Arnon: ergo pars erat in valle. Vel dicitur despective, sicut Isa. 22: *onus vallis visionis* etc. Et etiam ex monte habebat soliditatem, fortitudinem et firmitatem; et ex fructiferis vallibus habebat fertilitatem. Et superbam audaciam: ***qui dicitis; quis percutiet nos?*** Abdias 2: *qui dicis in corde tuo: quis detrahet me in terram?*
+Tertio excludit falsam fiduciam, ponens confidentiae causam: ***ecce ego ad te***, idest arcem Jerusalem, ***habitatricem vallis solidae, atque campestris***: erat enim Jerusalem in latere montis versus vallem Arnon: ergo pars erat in valle. Vel dicitur despective, sicut Isa. 22: *onus vallis visionis* etc. Et etiam ex monte habebat soliditatem, fortitudinem et firmitatem; et ex fructiferis vallibus habebat fertilitatem. Et superbam audaciam: ***qui dicitis; quis percutiet nos?*** Abdias 2: *qui dicis in corde tuo: quis detrahet me in terram?*  
 
 Et comminatur poenam: ***et visitabo, et succendam ignem in saltu***, infructuosum populum, Joelis 1: *ignis comedit speciosa deserti, et flamma succendit omnia ligna regionis*.
-
-Caput 22

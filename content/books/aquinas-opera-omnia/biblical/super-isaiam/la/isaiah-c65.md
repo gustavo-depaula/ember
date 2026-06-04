@@ -50,102 +50,100 @@
 
 > **1122**. ***Quaesierunt***. Hic judex, scilicet Deus, dat sententiam de discretione malorum a bonis in perceptione salutis promissae. Et dividitur in partes duas:
 
-in prima pronuntiat sententiam discretionis,
+in prima pronuntiat sententiam discretionis,  
 
-in secunda determinat modum executionis, cap. LXVI ***haec dicit Dominus***.
+in secunda determinat modum executionis, cap. LXVI ***haec dicit Dominus***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo promittit responsionem, ostendens respondendi opportunitatem: ***quaesierunt***, quasi dicat: hactenus vos Judaei non quaerebatis a me sed ab idolis; ex quo quaeritis, respondebo. Mystice de conversione gentium, Ro. X 20 *inventus sum a non quaerentibus*. Et ponit promissionem: ***dixi: ecce ego ad gentem***, respondebo scilicet Judaeis; vel ***ad gentes*** conversas, convertar, Cant. VIII *ego dilecto meo et dilectus meus mihi*.
+Primo promittit responsionem, ostendens respondendi opportunitatem: ***quaesierunt***, quasi dicat: hactenus vos Judaei non quaerebatis a me sed ab idolis; ex quo quaeritis, respondebo. Mystice de conversione gentium, Ro. X 20 *inventus sum a non quaerentibus*. Et ponit promissionem: ***dixi: ecce ego ad gentem***, respondebo scilicet Judaeis; vel ***ad gentes*** conversas, convertar, Cant. VIII *ego dilecto meo et dilectus meus mihi*.  
 
-**1123**. Secundo sententiat discretionem: ***expandi manus***.
+**1123**. Secundo sententiat discretionem: ***expandi manus***.  
 
-Et primo sententiat discretionem malorum a bonis, propter peccata transgressionis,
+Et primo sententiat discretionem malorum a bonis, propter peccata transgressionis,  
 
-secundo propter peccata omissionis: ***et qui dereliquistis***.
+secundo propter peccata omissionis: ***et qui dereliquistis***.  
 
-Prima in duas:
+Prima in duas:  
 
-in prima comminatur malis supplicia,
+in prima comminatur malis supplicia,  
 
-in secunda promittit bonis praemia: ***haec dicit Dominus***.
+in secunda promittit bonis praemia: ***haec dicit Dominus***.  
 
-Circa primum duo:
+Circa primum duo:  
 
-primo arguit transgressionis culpam,
+primo arguit transgressionis culpam,  
 
-secundo comminatur poenam: ***isti fumus erunt***.
+secundo comminatur poenam: ***isti fumus erunt***.  
 
-**1124**. Culpam ipsorum arguit ex tribus.
+**1124**. Culpam ipsorum arguit ex tribus.  
 
-Primo ex beneficiorum ingratitudine: ***expandi***, dando multa beneficia, ***tota die***, toto tempore ex quo eos mihi assumpsi; mystice in cruce; Jer. XVI 12 *unusquisque ambulat* viam non bonam.
+Primo ex beneficiorum ingratitudine: ***expandi***, dando multa beneficia, ***tota die***, toto tempore ex quo eos mihi assumpsi; mystice in cruce; Jer. XVI 12 *unusquisque ambulat* viam non bonam.  
 
-Secundo ex peccandi continuitate: ***populus; ante faciem***, quia *omnia nuda et aperta sunt oculis ejus*, Hebr. IV 13, vel quia in templo idolum ponebant, Deut. XXXII 21 *ipsi me provocaverunt in eo qui non est Deus*.
+Secundo ex peccandi continuitate: ***populus; ante faciem***, quia *omnia nuda et aperta sunt oculis ejus*, Hebr. IV 13, vel quia in templo idolum ponebant, Deut. XXXII 21 *ipsi me provocaverunt in eo qui non est Deus*.  
 
-Tertio ex peccatorum diversitate vel gravitate, quantum ad quatuor.
+Tertio ex peccatorum diversitate vel gravitate, quantum ad quatuor.  
 
-**1125**. Primo quantum ad cultum idolorum: ***qui immolant*** idolis, ***in hortis***, quia in locis voluptuosis idola colebant, ***super lateres***, super altaria ex lateribus constructa, ut ignem sacrificii sustinere possent, supra I 29 ***confundentur ab idolis suis***.
+**1125**. Primo quantum ad cultum idolorum: ***qui immolant*** idolis, ***in hortis***, quia in locis voluptuosis idola colebant, ***super lateres***, super altaria ex lateribus constructa, ut ignem sacrificii sustinere possent, supra I 29 ***confundentur ab idolis suis***.  
 
-Secundo quantum ad studium divinationum: ***qui habitant in sepulcris***, ut habeant responsiones a mortuis, ***et delubris***, templis idolorum, a diluendo dictis quia ibi putabant omnia ablui, vel propter fontes qui ibi erant ad abluendas hostias et sacerdotes; ***dormiunt***, super pelles hostiarum ad divinandum, Ez. VI 6 *conterentur delubra vestra*.
+Secundo quantum ad studium divinationum: ***qui habitant in sepulcris***, ut habeant responsiones a mortuis, ***et delubris***, templis idolorum, a diluendo dictis quia ibi putabant omnia ablui, vel propter fontes qui ibi erant ad abluendas hostias et sacerdotes; ***dormiunt***, super pelles hostiarum ad divinandum, Ez. VI 6 *conterentur delubra vestra*.  
 
-Tertio quantum ad immunditiam ciborum: ***qui comedunt; et jus profanum***, porcinum, infra ult. ***qui comedebant carnem suillam et abominationem et murem simul consumentur***.
+Tertio quantum ad immunditiam ciborum: ***qui comedunt; et jus profanum***, porcinum, infra ult. ***qui comedebant carnem suillam et abominationem et murem simul consumentur***.  
 
-Quarto quantum ad contemptum justorum: ***qui dicunt***, scilicet non adorantibus idola, Sap. II 15 *gravis est nobis*; vel ***qui dicunt*** Deo, Job XXI 14 *qui dicunt Deo: recede a nobis, scientiam viarum tuarum nolumus*.
+Quarto quantum ad contemptum justorum: ***qui dicunt***, scilicet non adorantibus idola, Sap. II 15 *gravis est nobis*; vel ***qui dicunt*** Deo, Job XXI 14 *qui dicunt Deo: recede a nobis, scientiam viarum tuarum nolumus*.  
 
-**1126**. ***Isti fumus erunt***. Hic comminatur poenam.
+**1126**. ***Isti fumus erunt***. Hic comminatur poenam.  
 
-Et primo poenae diuturnitatem: ***fumus***, id est sicut fumus igne consumitur, et incendentur ira mea, Deut. XXXII 22 *ignis succensus est in furore meo et ardebit usque ad inferni novissima*.
+Et primo poenae diuturnitatem: ***fumus***, id est sicut fumus igne consumitur, et incendentur ira mea, Deut. XXXII 22 *ignis succensus est in furore meo et ardebit usque ad inferni novissima*.  
 
-Secundo punitionis certitudinem: ***ecce scriptum est***, quia firmiter in memoria peccatum et in praefinitione poena; ***non tacebo***, dissimulans, Jer. XVII 1 *peccatum Judae scriptum est*, supra XLII 14 ***tacui, semper silui***.
+Secundo punitionis certitudinem: ***ecce scriptum est***, quia firmiter in memoria peccatum et in praefinitione poena; ***non tacebo***, dissimulans, Jer. XVII 1 *peccatum Judae scriptum est*, supra XLII 14 ***tacui, semper silui***.  
 
-Tertio poenarum multitudinem, quia pro omnibus peccatis patrum: ***sed reddam***, Exo. XX 5 *ego sum Deus zelotes, visitans peccata patrum in filios*; ***exprobraverunt***, adorando idola in excelsis; et pro peccatis etiam juventutis ipsorum: ***et remetiar***, quasi commensurabo poenam culpae, supra XL 2 ***recepit de manu Domini duplicia***.
+Tertio poenarum multitudinem, quia pro omnibus peccatis patrum: ***sed reddam***, Exo. XX 5 *ego sum Deus zelotes, visitans peccata patrum in filios*; ***exprobraverunt***, adorando idola in excelsis; et pro peccatis etiam juventutis ipsorum: ***et remetiar***, quasi commensurabo poenam culpae, supra XL 2 ***recepit de manu Domini duplicia***.  
 
-**1127**. ***Haec dicit Dominus***. Hic promittit bonis praemia.
+**1127**. ***Haec dicit Dominus***. Hic promittit bonis praemia.  
 
-Et primo quantum ad conservationem a malis: ***granum*** uvae; ***benedictio***, id est placet Deo ut pro benedictione reservetur; ***propter servos***, patres nostros; ***totum***, genus Judaeorum, supra XVII 5 ***erit sicut congregans*** racemos in vindemia.
+Et primo quantum ad conservationem a malis: ***granum*** uvae; ***benedictio***, id est placet Deo ut pro benedictione reservetur; ***propter servos***, patres nostros; ***totum***, genus Judaeorum, supra XVII 5 ***erit sicut congregans*** racemos in vindemia.  
 
-Secundo quantum ad promotionem in bonis.
+Secundo quantum ad promotionem in bonis.  
 
-Et primo quantum ad seminis multiplicationem: ***et adducam de Jacob***, supra I 9 ***nisi Dominus exercituum reliquisset nobis semen, quasi Sodoma fuissemus***.
+Et primo quantum ad seminis multiplicationem: ***et adducam de Jacob***, supra I 9 ***nisi Dominus exercituum reliquisset nobis semen, quasi Sodoma fuissemus***.  
 
-Secundo quantum ad hereditatis paternae restitutionem: ***et hereditabunt***, Ez. XXXVI 12 *hereditate possidebunt te et eris hereditas eorum*.
+Secundo quantum ad hereditatis paternae restitutionem: ***et hereditabunt***, Ez. XXXVI 12 *hereditate possidebunt te et eris hereditas eorum*.  
 
-Tertio quantum ad pascuorum ubertatem: ***et erunt campestria et vallis Achor***, ab illo denominata qui ibi lapidatus, Josue VII 24–26, Oseae II 15 *dabo eis vallem Achor ad aperiendam spem*.
+Tertio quantum ad pascuorum ubertatem: ***et erunt campestria et vallis Achor***, ab illo denominata qui ibi lapidatus, Josue VII 24–26, Oseae II 15 *dabo eis vallem Achor ad aperiendam spem*.  
 
-**1128**. ***Et vos qui dereliquistis***. Hic discernit malos a consolatione bonorum propter peccata omissionis.
+**1128**. ***Et vos qui dereliquistis***. Hic discernit malos a consolatione bonorum propter peccata omissionis.  
 
-Et primo comminatur malis supplicia,
+Et primo comminatur malis supplicia,  
 
-secundo <promittit> bonis praemia: ***quia oblivioni***.
+secundo <promittit> bonis praemia: ***quia oblivioni***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo comminatur eis quia Deum dereliquerunt, ponens culpam: ***et vos***, Judaei; ***fortunae***, deo Aegyptiorum, ***mensam***: tangit ritum quo colebatur, quia in fine anni parabatur sibi mensa omnibus cibis referta, Deut. XXXII 15 *dereliquerunt Deum factorem suum et recesserunt a Deo salutari suo*; ponens etiam poenam: ***numerabo***, quasi dicat: ut nullus remaneat quin opprimatur, Jer. XLIV 12 *cadent in gladio et fame*.
+Primo comminatur eis quia Deum dereliquerunt, ponens culpam: ***et vos***, Judaei; ***fortunae***, deo Aegyptiorum, ***mensam***: tangit ritum quo colebatur, quia in fine anni parabatur sibi mensa omnibus cibis referta, Deut. XXXII 15 *dereliquerunt Deum factorem suum et recesserunt a Deo salutari suo*; ponens etiam poenam: ***numerabo***, quasi dicat: ut nullus remaneat quin opprimatur, Jer. XLIV 12 *cadent in gladio et fame*.  
 
-**1129**. Secundo quia revocanti non obedierunt, ponens culpam: ***pro eo quod vocavi***, Prov. I 24 *vocavi et renuistis*.
+**1129**. Secundo quia revocanti non obedierunt, ponens culpam: ***pro eo quod vocavi***, Prov. I 24 *vocavi et renuistis*.  
 
-Et comminatur discretionis poenam.
+Et comminatur discretionis poenam.  
 
-Primo in satietate corporis: ***propter hoc haec dicit Dominus***, Ps. *divites eguerunt et esurierunt, inquirentes autem Dominum non minuentur omni bono*.
+Primo in satietate corporis: ***propter hoc haec dicit Dominus***, Ps. *divites eguerunt et esurierunt, inquirentes autem Dominum non minuentur omni bono*.  
 
-Secundo in laetitia cordis: ***ecce servi mei laetabuntur***, Sap. V 3 *paenitentiam agentes*.
+Secundo in laetitia cordis: ***ecce servi mei laetabuntur***, Sap. V 3 *paenitentiam agentes*.  
 
-Tertio in diversitate nominis, et primo ponit quale futurum sit nomen impiorum: ***et dimittetis in juramentum***, ut confirment dicta sua sic: si non est ita, ita accidat mihi sicut illis, Jer. XLIV 12 *in gladio et fame morientur, et erunt in jusjurandum et in miraculum et in maledictionem et in opprobrium*. Et deinde ponit quale sit futurum nomen bonorum: ***et servos; in quo***, scilicet nomine, Jesus est nomen; ***amen***, fideliter, supra LXII 2 ***vocabitur tibi nomen novum quod os Domini nominavit***.
+Tertio in diversitate nominis, et primo ponit quale futurum sit nomen impiorum: ***et dimittetis in juramentum***, ut confirment dicta sua sic: si non est ita, ita accidat mihi sicut illis, Jer. XLIV 12 *in gladio et fame morientur, et erunt in jusjurandum et in miraculum et in maledictionem et in opprobrium*. Et deinde ponit quale sit futurum nomen bonorum: ***et servos; in quo***, scilicet nomine, Jesus est nomen; ***amen***, fideliter, supra LXII 2 ***vocabitur tibi nomen novum quod os Domini nominavit***.  
 
-**1130**. ***Quia oblivioni***. Hic promittit visa praemia.
+**1130**. ***Quia oblivioni***. Hic promittit visa praemia.  
 
-Et primo in generali quantum ad amotionem malorum: ***quia oblivioni***, non defectu cognitionis sed successione bonorum, supra LIV 4 ***confusionis adolescentiae tuae oblivisceris***; et quantum ad restaurationem bonorum: ***ecce enim ego creo caelos novos***, nova de caelo auxilia, ***terram novam***, nova de terra beneficia, vel ad diem judicii quando mundus ad gloriam sanctorum innovabitur, Apoc. XXI 4 ***prima abierunt***.
+Et primo in generali quantum ad amotionem malorum: ***quia oblivioni***, non defectu cognitionis sed successione bonorum, supra LIV 4 ***confusionis adolescentiae tuae oblivisceris***; et quantum ad restaurationem bonorum: ***ecce enim ego creo caelos novos***, nova de caelo auxilia, ***terram novam***, nova de terra beneficia, vel ad diem judicii quando mundus ad gloriam sanctorum innovabitur, Apoc. XXI 4 ***prima abierunt***.  
 
-**1131**. Secundo in speciali: ***quia ecce ego creo Jerusalem***.
+**1131**. Secundo in speciali: ***quia ecce ego creo Jerusalem***.  
 
-Et primo quantum ad cordium jucunditatem: ***Jerusalem***, terrestrem, sed magis caelestem; <***exultationem***, id est> exultantem, emphatice, ut tota gaudio sit absorpta, supra XXXV 10 ***gaudium et laetitiam obtinebunt, et fugiet ab eis dolor et gemitus***.
+Et primo quantum ad cordium jucunditatem: ***Jerusalem***, terrestrem, sed magis caelestem; <***exultationem***, id est> exultantem, emphatice, ut tota gaudio sit absorpta, supra XXXV 10 ***gaudium et laetitiam obtinebunt, et fugiet ab eis dolor et gemitus***.  
 
-**1132**. Secundo quantum ad vitae diuturnitatem: ***non erit amplius qui non impleat***, ante tempus moriens, sed ***puer morietur centum annorum***, id est quando pervenerit ad talem aetatem; ***et*** si sit ***peccator***, quamvis tantum vixerit, maledictioni subjacebit; Gen. XXV 8 *mortuus est Abraham in senectute bona*. Mystice, in caelesti Jerusalem omnes dies suos implebunt, quia nullus morietur; ***puer centum annorum***, id est qui usque ad aetatem senectutis pueriliter vixit ***morietur*** morte aeterna, Sap. IV 8 *senectus enim venerabilis est, non diuturna, neque numero annorum computata*.
+**1132**. Secundo quantum ad vitae diuturnitatem: ***non erit amplius qui non impleat***, ante tempus moriens, sed ***puer morietur centum annorum***, id est quando pervenerit ad talem aetatem; ***et*** si sit ***peccator***, quamvis tantum vixerit, maledictioni subjacebit; Gen. XXV 8 *mortuus est Abraham in senectute bona*. Mystice, in caelesti Jerusalem omnes dies suos implebunt, quia nullus morietur; ***puer centum annorum***, id est qui usque ad aetatem senectutis pueriliter vixit ***morietur*** morte aeterna, Sap. IV 8 *senectus enim venerabilis est, non diuturna, neque numero annorum computata*.  
 
-**1133**. Tertio quantum ad bonorum prosperitatem, tum quantum ad securitatem possessionum: ***et aedificabunt***, Ez. *et aedificaverunt domos*, Amos ult. *plantabunt vineas*; et assignat rationem: ***secundum enim dies***, id est quia diu vivens sicut diu durat lignum arboris, ***inveterabunt***, id est usque ad vetustatem in usum eorum remanebunt, Ps. *erit tamquam lignum quod plantatum est secus decursus aquarum*. Tum quantum ad pacem filiorum: ***neque generabunt in conturbatione***, quasi generantes filios in servitutem hostium, Eccli. XLIV 11 *cum semine ipsorum perseverant bona*.
+**1133**. Tertio quantum ad bonorum prosperitatem, tum quantum ad securitatem possessionum: ***et aedificabunt***, Ez. *et aedificaverunt domos*, Amos ult. *plantabunt vineas*; et assignat rationem: ***secundum enim dies***, id est quia diu vivens sicut diu durat lignum arboris, ***inveterabunt***, id est usque ad vetustatem in usum eorum remanebunt, Ps. *erit tamquam lignum quod plantatum est secus decursus aquarum*. Tum quantum ad pacem filiorum: ***neque generabunt in conturbatione***, quasi generantes filios in servitutem hostium, Eccli. XLIV 11 *cum semine ipsorum perseverant bona*.  
 
-**1134**. Quarto quantum ad precum exauditionem: ***eritque antequam clament***, ore, supra XXX 19 ***ad vocem clamoris tui statim ut audierit, respondebit tibi***.
+**1134**. Quarto quantum ad precum exauditionem: ***eritque antequam clament***, ore, supra XXX 19 ***ad vocem clamoris tui statim ut audierit, respondebit tibi***.  
 
 **1135**. Quinto quantum ad pacis tranquillitatem: ***lupus et agnus***, quia qui prius tyranni et malefactores, pacifice cum aliis morabuntur, supra XI 6 idem.
-
-Caput 66

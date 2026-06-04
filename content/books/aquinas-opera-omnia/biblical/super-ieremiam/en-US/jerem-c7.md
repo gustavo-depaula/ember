@@ -36,63 +36,63 @@
 
 > **51**. Here, he excludes the third means of assistance upon which they might have relied, namely, the practice of the divine religion:
 
-first, with regard to the sanctity of the temple;
+first, with regard to the sanctity of the temple;  
 
-and second, with regard to the devotion of prayer, at ***therefore, you shall not pray for this people*** (Jer 7:16);
+and second, with regard to the devotion of prayer, at ***therefore, you shall not pray for this people*** (Jer 7:16);  
 
-third, with regard to the offering of sacrifices, at ***thus says the Lord of hosts, the God of Israel*** (Jer 7:21).
+third, with regard to the offering of sacrifices, at ***thus says the Lord of hosts, the God of Israel*** (Jer 7:21).  
 
-Concerning the first, there are two points.
+Concerning the first, there are two points.  
 
-First, he speaks as though offering sound advice, showing true good-faith: ***stand in the gate***, that at least they may be forced to listen because of the sanctity of the place; it is as though he were saying, “They disdain to hear elsewhere.”
+First, he speaks as though offering sound advice, showing true good-faith: ***stand in the gate***, that at least they may be forced to listen because of the sanctity of the place; it is as though he were saying, “They disdain to hear elsewhere.”  
 
-***Make your ways***, that is, your actions, ***good, and your inclinations***, your thoughts, by which you take counsel concerning what is to be done. *Prepare the way, make straight the paths of our God in the wilderness* (Isa 40:3).
+***Make your ways***, that is, your actions, ***good, and your inclinations***, your thoughts, by which you take counsel concerning what is to be done. *Prepare the way, make straight the paths of our God in the wilderness* (Isa 40:3).  
 
-And he first speaks of the fruit: ***and I will dwell***. *Behold the dwelling place of God is with men, and he shall dwell with them* (Rev 21:3).
+And he first speaks of the fruit: ***and I will dwell***. *Behold the dwelling place of God is with men, and he shall dwell with them* (Rev 21:3).  
 
-And he excludes their vain hope: ***trust not in lying words***, inasmuch as they certainly said that, because of the sanctity of the temple, they would be able to avoid all punishment without an emendation of life. ***The temple of the Lord*** is holy; ***the temple of the Lord*** is precious; ***the temple of the Lord***, is revered by all. *God has not chosen a people because of the place, but a place because of the people* (2 Macc 5:19).
+And he excludes their vain hope: ***trust not in lying words***, inasmuch as they certainly said that, because of the sanctity of the temple, they would be able to avoid all punishment without an emendation of life. ***The temple of the Lord*** is holy; ***the temple of the Lord*** is precious; ***the temple of the Lord***, is revered by all. *God has not chosen a people because of the place, but a place because of the people* (2 Macc 5:19).  
 
-Second, he takes up his purpose once more, and explains it:
+Second, he takes up his purpose once more, and explains it:  
 
-first, with regard to the former part, he shows what is meant by making one’s ways good, and he arranges the steps in order for them according to action:
+first, with regard to the former part, he shows what is meant by making one’s ways good, and he arranges the steps in order for them according to action:  
 
-***for if you direct aright***, as though you were determining or directing in your mind and set straight in thought ***your inclinations***;
+***for if you direct aright***, as though you were determining or directing in your mind and set straight in thought ***your inclinations***;  
 
-and in the matter of doing good to your neighbor: ***if you carry out judgment***;
+and in the matter of doing good to your neighbor: ***if you carry out judgment***;  
 
-and in relation to God, ***nor walk after strange gods***;
+and in relation to God, ***nor walk after strange gods***;  
 
-he reminds them again of the fruit of his counsel: ***I will dwell with you***, if you will desire it and will listen. *Lord, who shall dwell in your tabernacle, or who shall rest on your holy mountain? He who walks without stain, and does justice* (Ps 14:1–2).
+he reminds them again of the fruit of his counsel: ***I will dwell with you***, if you will desire it and will listen. *Lord, who shall dwell in your tabernacle, or who shall rest on your holy mountain? He who walks without stain, and does justice* (Ps 14:1–2).  
 
-Second, he explains it with regard to the latter part.
+Second, he explains it with regard to the latter part.  
 
-First, he shows their false confidence, and ascribes the defect to their guilt: ***behold, you trust in lying words***, because you say that you are able to commit the following things with impunity:
+First, he shows their false confidence, and ascribes the defect to their guilt: ***behold, you trust in lying words***, because you say that you are able to commit the following things with impunity:  
 
-***to steal***, a sin against the property of your neighbor;
+***to steal***, a sin against the property of your neighbor;  
 
-***to kill***, a sin against his person;
+***to kill***, a sin against his person;  
 
-***to commit adultery***, a sin which is partially against his property and partially against his person;
+***to commit adultery***, a sin which is partially against his property and partially against his person;  
 
-***to swear falsely***. Here, he speaks of the sins against God. *We have set a lie as our hope, and by a lie are we protected* (Isa 28:15).
+***to swear falsely***. Here, he speaks of the sins against God. *We have set a lie as our hope, and by a lie are we protected* (Isa 28:15).  
 
-He also speaks of an external show which belies a sufficient emendation of life: ***you have come, and stood before me in this house***, as though believing that merely entering the temple would make satisfaction. Perhaps they were deceived by the prayer of Solomon which is recorded in 2 Chronicles 6 and 1 Kings 8. He, though, understands that one must enter the house of the Lord having made a complete emendation of one’s conduct. ***Because we have done all these abominations*** apart from him.
+He also speaks of an external show which belies a sufficient emendation of life: ***you have come, and stood before me in this house***, as though believing that merely entering the temple would make satisfaction. Perhaps they were deceived by the prayer of Solomon which is recorded in 2 Chronicles 6 and 1 Kings 8. He, though, understands that one must enter the house of the Lord having made a complete emendation of one’s conduct. ***Because we have done all these abominations*** apart from him.  
 
-Second, he excludes it:
+Second, he excludes it:  
 
-first, by an argument, showing that it is an insufficient emendation for their sins: ***has not, then, this house become a den of thieves?*** It is as though he were saying, “If you enter my house unpurified, you make it a den of thieves.” *My house shall be called a house of prayer, but you have made it a den of thieves* (Matt 21:13). And he shows their manifest guilt: ***I, even I***—particularly—***am***, and seeing all things everywhere, ***I have seen*** your sins. *All the ways of men lay open to his eyes; the Lord is a weigher of spirits* (Prov 16:2).
+first, by an argument, showing that it is an insufficient emendation for their sins: ***has not, then, this house become a den of thieves?*** It is as though he were saying, “If you enter my house unpurified, you make it a den of thieves.” *My house shall be called a house of prayer, but you have made it a den of thieves* (Matt 21:13). And he shows their manifest guilt: ***I, even I***—particularly—***am***, and seeing all things everywhere, ***I have seen*** your sins. *All the ways of men lay open to his eyes; the Lord is a weigher of spirits* (Prov 16:2).  
 
-Second, he excludes it by example.
+Second, he excludes it by example.  
 
-First, he speaks of the example of Shiloh, where the tabernacle had been set up before: ***go to my place in Shiloh***. *And he rejected the tabernacle of Shiloh, his tabernacle, where he dwelled among men* (Ps 77:60).
+First, he speaks of the example of Shiloh, where the tabernacle had been set up before: ***go to my place in Shiloh***. *And he rejected the tabernacle of Shiloh, his tabernacle, where he dwelled among men* (Ps 77:60).  
 
-Second, he adapts it to the proposition at hand assuming a similar fault: ***and now, because you have done all these things, says the Lord, though I have spoken to you rising early***, after the manner of a solicitous man, who rises very early to complete his work, or because that time is suitable for contemplation, and receiving words of wisdom, because the body is already quieted. ***I called***. *For I called and you refused, I implored and there was none who would look* (Prov 1:24).
+Second, he adapts it to the proposition at hand assuming a similar fault: ***and now, because you have done all these things, says the Lord, though I have spoken to you rising early***, after the manner of a solicitous man, who rises very early to complete his work, or because that time is suitable for contemplation, and receiving words of wisdom, because the body is already quieted. ***I called***. *For I called and you refused, I implored and there was none who would look* (Prov 1:24).  
 
-He infers a similar punishment, the destruction of the place: ***I shall do to this house***. As it says below: ***I shall make this house like Shiloh, and this city a curse to all the nations*** (Jer 26:6).
+He infers a similar punishment, the destruction of the place: ***I shall do to this house***. As it says below: ***I shall make this house like Shiloh, and this city a curse to all the nations*** (Jer 26:6).  
 
-And with regard to the captivity of the people: ***I shall drive you from before my face***. As it says below: ***you have scattered my flock and have driven them away, and have not visited them*** (Jer. 23:2).
+And with regard to the captivity of the people: ***I shall drive you from before my face***. As it says below: ***you have scattered my flock and have driven them away, and have not visited them*** (Jer. 23:2).  
 
-Lecture 2
+Lecture 2  
 
 ***Prayer forbidden***
 
@@ -108,25 +108,25 @@ Lecture 2
 
 > **52**. Here, he excludes the remedy of prayer.
 
-First, he sets forth the decree: ***neither take up***, even when asked by them, ***and do not stand against***, because the prayer of the saints in a certain sense delays and hinders the decree of God. *For a man without blame made haste to pray for the people, bringing forth the shield of his service*, *prayer, and by incense making supplication, withstood the wrath and put an end to the calamity, showing that he was your servant* (Wis 18:21).A reference to Aaron in Numbers 16:46, who stopped a plague by offering incense. *There is none who invokes your name, who may arise and take hold of you* (Isa 64:7).
+First, he sets forth the decree: ***neither take up***, even when asked by them, ***and do not stand against***, because the prayer of the saints in a certain sense delays and hinders the decree of God. *For a man without blame made haste to pray for the people, bringing forth the shield of his service*, *prayer, and by incense making supplication, withstood the wrath and put an end to the calamity, showing that he was your servant* (Wis 18:21).A reference to Aaron in Numbers 16:46, who stopped a plague by offering incense. *There is none who invokes your name, who may arise and take hold of you* (Isa 64:7).  
 
-But on the contrary: *God, whose wrath no one can oppose* (Job 9:13).
+But on the contrary: *God, whose wrath no one can oppose* (Job 9:13).  
 
-It will be answered that this is true with regard to the strength of virtue, but not the strength of prayer and humility.
+It will be answered that this is true with regard to the strength of virtue, but not the strength of prayer and humility.  
 
-***Because I will not hear***, in the manner of a lord of the court who does not wish the face of a supplicant servant to confuse him. *Pretend that you are in mourning; put on mourning clothes, and do not anoint yourself with oil* (2 Kgs 14:2).
+***Because I will not hear***, in the manner of a lord of the court who does not wish the face of a supplicant servant to confuse him. *Pretend that you are in mourning; put on mourning clothes, and do not anoint yourself with oil* (2 Kgs 14:2).  
 
-Second, he speaks of the case from the perspective of their guilt:
+Second, he speaks of the case from the perspective of their guilt:  
 
-first, noting their guilt and showing that it is manifest, because it was done publicly: ***do you not see?*** *Son of man, make Jerusalem to know her abominations* (Ezek 16:2).
+first, noting their guilt and showing that it is manifest, because it was done publicly: ***do you not see?*** *Son of man, make Jerusalem to know her abominations* (Ezek 16:2).  
 
-Further, it is common to both sexes and all ages: ***the sons gather wood, the fathers kindle the fire, and the women sprinkle the fat, to make cakes to the queen of heaven***, that is, to the moon;Astarte/Ashtoreth, a Canaanite deity venerated as the goddess of the moon. or to the host of heaven and all the stars. As it says below: ***what of it if we sacrifice to the queen of heaven, and pour out drink offerings to her; did we make cakes to worship her without our husbands?*** (Jer 44:19).
+Further, it is common to both sexes and all ages: ***the sons gather wood, the fathers kindle the fire, and the women sprinkle the fat, to make cakes to the queen of heaven***, that is, to the moon;Astarte/Ashtoreth, a Canaanite deity venerated as the goddess of the moon. or to the host of heaven and all the stars. As it says below: ***what of it if we sacrifice to the queen of heaven, and pour out drink offerings to her; did we make cakes to worship her without our husbands?*** (Jer 44:19).  
 
-Second, he shows the folly of those who sin, because they injured not God, but themselves: ***do they provoke me to anger?*** *If you sin will you do him harm?* (Job 35:6). *His sorrow shall be turned on his own head, and his iniquity shall descend upon his own crown* (Ps 7:17).
+Second, he shows the folly of those who sin, because they injured not God, but themselves: ***do they provoke me to anger?*** *If you sin will you do him harm?* (Job 35:6). *His sorrow shall be turned on his own head, and his iniquity shall descend upon his own crown* (Ps 7:17).  
 
-Third, he threatens punishment: ***therefore, thus says the Lord***. As it says above: ***lest perhaps my indignation should blaze forth like fire, and burn, and there be none to extinguish it, because of the wickedness of your thoughts*** (Jer 4:4).
+Third, he threatens punishment: ***therefore, thus says the Lord***. As it says above: ***lest perhaps my indignation should blaze forth like fire, and burn, and there be none to extinguish it, because of the wickedness of your thoughts*** (Jer 4:4).  
 
-Lecture 3
+Lecture 3  
 
 ***Futility of sacrifice***
 
@@ -148,29 +148,29 @@ Lecture 3
 
 > **53**. Here, he excludes their confidence in sacrifice.
 
-First, he precludes any care for sacrifices when he sets forth God’s sentiment: ***add burnt offerings to your sacrifices***; it is as though he were saying, “Just as the greater part of your sacrifices falls to your own use, so eat the entirety of the holocausts yourselves, for I am not pleased by the eating of flesh.” *Do I eat the flesh of bulls, or drink the blood of goats?* (Ps 49:13).
+First, he precludes any care for sacrifices when he sets forth God’s sentiment: ***add burnt offerings to your sacrifices***; it is as though he were saying, “Just as the greater part of your sacrifices falls to your own use, so eat the entirety of the holocausts yourselves, for I am not pleased by the eating of flesh.” *Do I eat the flesh of bulls, or drink the blood of goats?* (Ps 49:13).  
 
-And he gives the reason: ***for I did not speak***. For the Lord did not wish this for his own sake but that through this he might draw them away from idolatry. For this reason, before the worship of the calf (Exod 32:1–8), no commandments were given concerning sacrifices. *Sacrifice and oblation you have not desired, but ears have you made for me. Holocaust and sin offering you have not required. Then I said, ‘Behold, I come’* (Ps 39:6–7).
+And he gives the reason: ***for I did not speak***. For the Lord did not wish this for his own sake but that through this he might draw them away from idolatry. For this reason, before the worship of the calf (Exod 32:1–8), no commandments were given concerning sacrifices. *Sacrifice and oblation you have not desired, but ears have you made for me. Holocaust and sin offering you have not required. Then I said, ‘Behold, I come’* (Ps 39:6–7).  
 
-Second, he reproaches them for the disobedience of their conduct.
+Second, he reproaches them for the disobedience of their conduct.  
 
-First, he shows their guilt;
+First, he shows their guilt;  
 
-second, he threatens punishment, at ***cut off your hair*** (Jer 7:29).
+second, he threatens punishment, at ***cut off your hair*** (Jer 7:29).  
 
-Concerning the first, there are two points.
+Concerning the first, there are two points.  
 
-First, he proves their disobedience as though by induction, showing that they are disobedient to the Law by drawing their attention to the commandments of the Law: ***but this thing did I command***, from the beginning, as if it were primarily intended. ***Hear my voice***, concerning the moral precepts. *You shall be for me a people, and I will be a God for you* (Ezek 36:28).
+First, he proves their disobedience as though by induction, showing that they are disobedient to the Law by drawing their attention to the commandments of the Law: ***but this thing did I command***, from the beginning, as if it were primarily intended. ***Hear my voice***, concerning the moral precepts. *You shall be for me a people, and I will be a God for you* (Ezek 36:28).  
 
-And their contempt for the commandment: ***but they did not listen . . . they went backward***, always adding sin afterwards. *All have turned aside to their own way, each one to his greed, from the greatest to the least* (Isa 56:11).
+And their contempt for the commandment: ***but they did not listen . . . they went backward***, always adding sin afterwards. *All have turned aside to their own way, each one to his greed, from the greatest to the least* (Isa 56:11).  
 
-He also shows that they were disobedient to the prophets who came before: ***and I sent all my servants the prophets to you***. *The Lord has testified against Israel and against Judah by the hand of all his prophets and seers, saying: turn back from your evil ways, and keep my commandments and my sacred rites, according to the Law which I commanded your fathers, and as I have sent word to you by the hand of my servants the prophets. They did not listen, but stiffened their necks, like the necks of their fathers, who did not wish to obey the Lord their God* (2 Kgs 17:13–14).
+He also shows that they were disobedient to the prophets who came before: ***and I sent all my servants the prophets to you***. *The Lord has testified against Israel and against Judah by the hand of all his prophets and seers, saying: turn back from your evil ways, and keep my commandments and my sacred rites, according to the Law which I commanded your fathers, and as I have sent word to you by the hand of my servants the prophets. They did not listen, but stiffened their necks, like the necks of their fathers, who did not wish to obey the Lord their God* (2 Kgs 17:13–14).  
 
-He even predicts that they would not obey him. ***And you shall speak . . . but they will not listen***. *The house of Israel does not wish to hear you, because they do not wish to hear me; indeed, the whole house of Israel has a hard forehead and an obstinate heart* (Ezek 3:7). *I have called, but you have not answered; I have spoken, but you did not listen, but you have done evil in my sight, and have chosen what I did not want* (Isa 65:12).
+He even predicts that they would not obey him. ***And you shall speak . . . but they will not listen***. *The house of Israel does not wish to hear you, because they do not wish to hear me; indeed, the whole house of Israel has a hard forehead and an obstinate heart* (Ezek 3:7). *I have called, but you have not answered; I have spoken, but you did not listen, but you have done evil in my sight, and have chosen what I did not want* (Isa 65:12).  
 
-Second, he draws the conclusion: ***you will say to them***. As it says above: ***in vain have I struck your children; they have not received correction*** (Jer 2:30). ***Faithfulness*** of the Lord. *With the heart we believe unto justice, but with the mouth confession is made unto salvation* (Rom 10:10). Alternatively, fidelity to one’s neighbor. *A faithful man who shall find?* (Prov 20:6).
+Second, he draws the conclusion: ***you will say to them***. As it says above: ***in vain have I struck your children; they have not received correction*** (Jer 2:30). ***Faithfulness*** of the Lord. *With the heart we believe unto justice, but with the mouth confession is made unto salvation* (Rom 10:10). Alternatively, fidelity to one’s neighbor. *A faithful man who shall find?* (Prov 20:6).  
 
-Lecture 4
+Lecture 4  
 
 ***Devastation of idols’ altars***
 
@@ -188,36 +188,34 @@ Lecture 4
 
 > **54**. Here, he threatens them with punishment.
 
-First, he prefigures it with a sign: ***cut off your hair***. As in Ezekiel 5:2, *you shall burn the third part of your hair with fire in the midst of the city, according to the fulfillment of the days of the siege; and you shall take a third part, and strike it with a sword round about; and a third part you shall scatter to the wind. **The generation of his fury**. I shall send him to a false nation, and against the people of my fury shall I commission him* (Isa 10:6).
+First, he prefigures it with a sign: ***cut off your hair***. As in Ezekiel 5:2, *you shall burn the third part of your hair with fire in the midst of the city, according to the fulfillment of the days of the siege; and you shall take a third part, and strike it with a sword round about; and a third part you shall scatter to the wind. **The generation of his fury**. I shall send him to a false nation, and against the people of my fury shall I commission him* (Isa 10:6).  
 
-Second, he explains his words:
+Second, he explains his words:  
 
-first, resuming once more the sin of idolatry, haranguing them from the holy place because they made ***abominations***, idols, ***in the house***, namely, the temple, in a public and open place;
+first, resuming once more the sin of idolatry, haranguing them from the holy place because they made ***abominations***, idols, ***in the house***, namely, the temple, in a public and open place;  
 
-***and they have built . . . which I have not commanded***, as though he were saying, “I have not commanded them such heavy things.” From this it becomes plain that they have also turned back from me. *They have sacrificed their sons and their daughters to demons, the flesh of their sons and their daughters have they offered to the graven images of Canaan* (Ps 105:37).
+***and they have built . . . which I have not commanded***, as though he were saying, “I have not commanded them such heavy things.” From this it becomes plain that they have also turned back from me. *They have sacrificed their sons and their daughters to demons, the flesh of their sons and their daughters have they offered to the graven images of Canaan* (Ps 105:37).  
 
-Second, he threatens them with punishment:
+Second, he threatens them with punishment:  
 
-first, with the slaughter of their men;
+first, with the slaughter of their men;  
 
-second, with scattering of their bodies, when he says, ***in that time, says the Lord, they shall cast out the bones of the king of Judah*** (Jer 8:1).
+second, with scattering of their bodies, when he says, ***in that time, says the Lord, they shall cast out the bones of the king of Judah*** (Jer 8:1).  
 
-Third, with the driving out of the remnant, at ***and they shall choose death rather than life*** (Jer 8:3).
+Third, with the driving out of the remnant, at ***and they shall choose death rather than life*** (Jer 8:3).  
 
-Concerning the first, there are three points.
+Concerning the first, there are three points.  
 
-First, he gives the place of the slaughter: ***therefore, the days shall come***, when they will be punished in the same place where they sinned. ***Behold, the days are coming, says the Lord, when this place shall no longer be called Tophet, and the valley of the sons of Hinnom, but the valley of slaughter*** (Jer 19:6).
+First, he gives the place of the slaughter: ***therefore, the days shall come***, when they will be punished in the same place where they sinned. ***Behold, the days are coming, says the Lord, when this place shall no longer be called Tophet, and the valley of the sons of Hinnom, but the valley of slaughter*** (Jer 19:6).  
 
-Second, he excludes the duty of burial: ***and the dead of this people shall be as food for the birds of the air***. Yet, some of them will be buried, either by those who remain or by the enemy, who are unable to bear the stench. *They have given the bodies of your servants as food to the birds of the air, and the flesh of your saints to the beasts of the earth* (Ps 78:2).
+Second, he excludes the duty of burial: ***and the dead of this people shall be as food for the birds of the air***. Yet, some of them will be buried, either by those who remain or by the enemy, who are unable to bear the stench. *They have given the bodies of your servants as food to the birds of the air, and the flesh of your saints to the beasts of the earth* (Ps 78:2).  
 
-Third, he excludes all joy: ***and I shall make cease***. *The joy of our heart has ceased; our dance is turned into sorrow* (Lam 5:15). All of which attests to the magnitude of the slaughter.
+Third, he excludes all joy: ***and I shall make cease***. *The joy of our heart has ceased; our dance is turned into sorrow* (Lam 5:15). All of which attests to the magnitude of the slaughter.  
 
-Collations
+Collations  
 
 ***Note that God ***dwells*** (Jer 7:3) with us through the constancy of our faith. *That Christ may dwell in your hearts through faith* (Eph 3:17). Through the concord of brotherly love: *where two or three are gathered in my name, there am I in the midst of them* (Matt 18:20). Through obedience to the commandments: *if anyone love me, he will keep my word, and my Father will love him, and we will come to him and make a dwelling place with him* (John 14:23). Through the eminence of devout contemplation: *I stand at the door and knock; if anyone hears my voice and opens to me, I will come in unto him, and will sup with him, and he with me* (Rev 3:20).***
 
-Also note that he speaks of the ***temple*** (Jer 7:4) according to multiple senses. Historically: *I shall worship in your holy temple, and confess your name* (Ps 137:2). Allegorically, as the Church herself: *the temple of God is holy, which temple you are* (1 Cor 3:17). Typologically, as the just man himself: *do you not know that your bodies are the temple of the Holy Spirit?* (1 Cor 6:19). Anagogically, as God himself: *the Lord God almighty is its temple, and the lamb* (Rev 21:22).
+Also note that he speaks of the ***temple*** (Jer 7:4) according to multiple senses. Historically: *I shall worship in your holy temple, and confess your name* (Ps 137:2). Allegorically, as the Church herself: *the temple of God is holy, which temple you are* (1 Cor 3:17). Typologically, as the just man himself: *do you not know that your bodies are the temple of the Holy Spirit?* (1 Cor 6:19). Anagogically, as God himself: *the Lord God almighty is its temple, and the lamb* (Rev 21:22).  
 
 Also note that we ought to listen to ***the voice*** (Jer 7:23) of the Lord by loving him with the love of charity, because he is our good: *you shall love the Lord your God with all your heart, and with all your soul, and with all your strength* (Deut 6:5). By serving him with sacred worship, because he is the Lord: *you shall worship the Lord your God, and him alone shall you serve* (Deut 10:20). *Serve the Lord with fear* (Ps 2:11). By walking after him in the observance of his commandment, because he is our father: ***you will call me ‘father,’ and you will not cease to walk after me*** (Jer 3:19). By seeking him with right intention, because he is our end: *seek the Lord, all you meek of the earth, because you have done his judgment* (Zeph 2:3). By worshiping him with due honor, because he is our creator and our God: *you shall worship the Lord your God* (Matt 4:10).
-
-Chapter 8

@@ -14,34 +14,32 @@
 
 > **198**. Posita notificatione intelligentiae quantum ad eius substantiam, hic incipit manifestare cognitionem ipsius.
 
-Et primo declarat modum quomodo cognoscat alia a se,
+Et primo declarat modum quomodo cognoscat alia a se,  
 
-secundo quomodo cognoscat seipsam et hoc XIII propositione, ibi: ***omnis intelligentia intelligit essentiam suam*** et cetera.
+secundo quomodo cognoscat seipsam et hoc XIII propositione, ibi: ***omnis intelligentia intelligit essentiam suam*** et cetera.  
 
-**199**. Circa primum tria facit.
+**199**. Circa primum tria facit.  
 
-Primo declarat modum quomodo cognoscit intelligentia et superiora et inferiora;
+Primo declarat modum quomodo cognoscit intelligentia et superiora et inferiora;  
 
-secundo ostendit quid sit ea superius, IX propositione, ibi: ***omnis intelligentiae fixio*** etc.;
+secundo ostendit quid sit ea superius, IX propositione, ibi: ***omnis intelligentiae fixio*** etc.;  
 
-tertio ostendit quomodo se habeat in cognitionem inferiorum, ibi: ***omnis intelligentia est plena formis***, X propositione.
+tertio ostendit quomodo se habeat in cognitionem inferiorum, ibi: ***omnis intelligentia est plena formis***, X propositione.  
 
-**200**. Ad declarandum igitur modum quomodo intelligentia cognoscat et superiora et inferiora, ponit talem propositionem: ***omnis intelligentia scit quod est supra se et quod est sub se: verumtamen scit quod est sub se quoniam est causa ei, et scit quod est supra se quia acquirit bonitates ab eo*.**
+**200**. Ad declarandum igitur modum quomodo intelligentia cognoscat et superiora et inferiora, ponit talem propositionem: ***omnis intelligentia scit quod est supra se et quod est sub se: verumtamen scit quod est sub se quoniam est causa ei, et scit quod est supra se quia acquirit bonitates ab eo*.**  
 
-**201**. Cuius quidem propositionis intellectus quantum ad superficiem videtur esse quod causalitas sit intelligentiae ratio intelligendi. Et hoc quidem, si recte consideretur, non habet veritatem, neque quantum ad id a quo causatur intelligentia, neque quantum ad ea quae causat: non enim causatur a sua causa per suam scientiam, sed potius per scientiam causae causantis ipsam; ea vero quae sub se sunt, quamvis intelligentia causet per suam scientiam, non tamen ideo scit ea quia causat ea, sed potius ideo causat ea quia scit ea.
+**201**. Cuius quidem propositionis intellectus quantum ad superficiem videtur esse quod causalitas sit intelligentiae ratio intelligendi. Et hoc quidem, si recte consideretur, non habet veritatem, neque quantum ad id a quo causatur intelligentia, neque quantum ad ea quae causat: non enim causatur a sua causa per suam scientiam, sed potius per scientiam causae causantis ipsam; ea vero quae sub se sunt, quamvis intelligentia causet per suam scientiam, non tamen ideo scit ea quia causat ea, sed potius ideo causat ea quia scit ea.  
 
-**202**. Verus autem intellectus huius propositionis est sic accipiendus. Manifestum est enim quod in ordine rerum causa altiorem gradum obtinet quam causatum; si igitur aliquid sit et causa et causatum, medium gradum obtinet inter utrumque, et huiusmodi est intelligentia, nam ipsa causatur a causa prima et est infra eam, causat autem quodammodo ea quae sunt sub ipsa, ut in III propositione est expositum, et ita est supra ea. Vult ergo dicere quod, secundum gradum suum quo est causa et causatum, medio modo se habet in intelligendo, nam intelligit id quod est supra se inferiori modo quam illud sit in seipso, quae autem sunt infra se intelligit altiori modo quam sint in seipsis.
+**202**. Verus autem intellectus huius propositionis est sic accipiendus. Manifestum est enim quod in ordine rerum causa altiorem gradum obtinet quam causatum; si igitur aliquid sit et causa et causatum, medium gradum obtinet inter utrumque, et huiusmodi est intelligentia, nam ipsa causatur a causa prima et est infra eam, causat autem quodammodo ea quae sunt sub ipsa, ut in III propositione est expositum, et ita est supra ea. Vult ergo dicere quod, secundum gradum suum quo est causa et causatum, medio modo se habet in intelligendo, nam intelligit id quod est supra se inferiori modo quam illud sit in seipso, quae autem sunt infra se intelligit altiori modo quam sint in seipsis.  
 
-**203**. Et in hoc etiam sensu inducitur in libro Procli CLXXIII propositione, quae talis est: *omnis intellectus intellectualiter est et quae ante ipsum et quae post ipsum*; quia scilicet tam superiora quam inferiora sunt in intellectu secundum modum eius, id est intellectualiter.
+**203**. Et in hoc etiam sensu inducitur in libro Procli CLXXIII propositione, quae talis est: *omnis intellectus intellectualiter est et quae ante ipsum et quae post ipsum*; quia scilicet tam superiora quam inferiora sunt in intellectu secundum modum eius, id est intellectualiter.  
 
-**204**. Et ad hunc etiam sensum inducitur haec probatio. Dicit enim quod ***intelligentia quidem est substantia intelligibilis***, quia scilicet esse intelligibile convenit ei ratione suae essentiae; ***ergo secundum modum suae substantiae scit res quas acquirit desuper et res quibus est causa***. Et huius ratio est quia unaquaeque res operatur secundum modum formae suae quae est operationis principium, sicut calidum calefacit secundum modum sui caloris; unde oportet quod omne cognoscens cognoscat secundum formam quae est cognitionis principium, scilicet secundum similitudinem rei cognitae, quae quidem est in cognoscente ***secundum modum substantiae* **eius;
+**204**. Et ad hunc etiam sensum inducitur haec probatio. Dicit enim quod ***intelligentia quidem est substantia intelligibilis***, quia scilicet esse intelligibile convenit ei ratione suae essentiae; ***ergo secundum modum suae substantiae scit res quas acquirit desuper et res quibus est causa***. Et huius ratio est quia unaquaeque res operatur secundum modum formae suae quae est operationis principium, sicut calidum calefacit secundum modum sui caloris; unde oportet quod omne cognoscens cognoscat secundum formam quae est cognitionis principium, scilicet secundum similitudinem rei cognitae, quae quidem est in cognoscente ***secundum modum substantiae* **eius;  
 
-**205**. unde oportet quod omne cognoscens secundum modum suae substantiae cognoscat quidquid cognoscit. Cum ergo intelligentia secundum modum suae substantiae sit causa et causatum, erit ipsa quasi quidam terminus vel limes determinans sive distinguens superiora ab inferioribus, ita scilicet quod superiora cognoscit per modum suae substantiae inferiori modo quam res superior sit in seipsa, inferiora vero cognoscit altiori modo quam sint in seipsis.
+**205**. unde oportet quod omne cognoscens secundum modum suae substantiae cognoscat quidquid cognoscit. Cum ergo intelligentia secundum modum suae substantiae sit causa et causatum, erit ipsa quasi quidam terminus vel limes determinans sive distinguens superiora ab inferioribus, ita scilicet quod superiora cognoscit per modum suae substantiae inferiori modo quam res superior sit in seipsa, inferiora vero cognoscit altiori modo quam sint in seipsis.  
 
-**206**. Quod quidem est intelligendum ut modus cognitionis accipiatur ex parte cognoscentis, quia scilicet, quamvis causa prima sit superintellectualis, intelligentia non cognoscit eam superintellectualiter sed intellectualiter, et similiter, quamvis corpora sint materialia et sensibilia in seipsis, intelligentia tamen non cognoscit ea sensibiliter et materialiter sed intellectualiter.
+**206**. Quod quidem est intelligendum ut modus cognitionis accipiatur ex parte cognoscentis, quia scilicet, quamvis causa prima sit superintellectualis, intelligentia non cognoscit eam superintellectualiter sed intellectualiter, et similiter, quamvis corpora sint materialia et sensibilia in seipsis, intelligentia tamen non cognoscit ea sensibiliter et materialiter sed intellectualiter.  
 
-**207**. Si vero accipiatur modus cognitionis ex parte rei cognitae, sic cognoscit unumquodque prout est in seipso: cognoscit enim intelligentia quod causa prima est superintellectualiter in seipsa et quod res corporales habent in seipsis esse materiale et sensibile.
+**207**. Si vero accipiatur modus cognitionis ex parte rei cognitae, sic cognoscit unumquodque prout est in seipso: cognoscit enim intelligentia quod causa prima est superintellectualiter in seipsa et quod res corporales habent in seipsis esse materiale et sensibile.  
 
 **208**. Et ex his patet intellectus omnium eorum quae hic dicuntur.
-
-Lectio 9

@@ -24,64 +24,62 @@
 
 > **1086**. ***Propter Syon***. Hic promittit populo gloriae honorem.
 
-Et primo ponitur prophetae petitio;
+Et primo ponitur prophetae petitio;  
 
-secundo Domini promissio: ***juravit Dominus***.
+secundo Domini promissio: ***juravit Dominus***.  
 
-Circa primum duo:
+Circa primum duo:  
 
-primo ipse petit;
+primo ipse petit;  
 
-secundo alios ad petendum inducit: ***qui reminiscimini***.
+secundo alios ad petendum inducit: ***qui reminiscimini***.  
 
-**1087**. Circa primum duo.
+**1087**. Circa primum duo.  
 
-Primo ipse petit ad hoc salvatoris ortum: ***propter Sion***, scilicet utilitatem vel amorem, ***non tacebo*** a precibus apud Deum; ***salvator***, Cyrus; ***ut splendor***, in gloria regni. Mystice: ***non tacebo*** a praedicatione Christi propter contradictionem; ***Sion***, regis; ***Jerusalem***, sacerdotum; ***salvator***, Christus, Dan. X 6 *facies ejus ut species*.
+Primo ipse petit ad hoc salvatoris ortum: ***propter Sion***, scilicet utilitatem vel amorem, ***non tacebo*** a precibus apud Deum; ***salvator***, Cyrus; ***ut splendor***, in gloria regni. Mystice: ***non tacebo*** a praedicatione Christi propter contradictionem; ***Sion***, regis; ***Jerusalem***, sacerdotum; ***salvator***, Christus, Dan. X 6 *facies ejus ut species*.  
 
-**1088**. Secundo ostendit adventus fructum.
+**1088**. Secundo ostendit adventus fructum.  
 
-Primo quantum ad civitatis gloriam, promittens ipsam gloriam in tribus.
+Primo quantum ad civitatis gloriam, promittens ipsam gloriam in tribus.  
 
-In dignitate regis: ***et videbunt***, admirantes et venerantes, ***justum***, Christum vel Cyrum, Ps. *viderunt omnes termini terrae salutare Dei nostri*.
+In dignitate regis: ***et videbunt***, admirantes et venerantes, ***justum***, Christum vel Cyrum, Ps. *viderunt omnes termini terrae salutare Dei nostri*.  
 
-In novitate nominis: ***et vocabitur***, more antiquorum qui ex novis eventibus nova nomina imponebant, et hoc nomen postea exprimet. Mystice, Ecclesia, quae prius Synagoga, Apoc. II 17 *dabo illi calculum*.
+In novitate nominis: ***et vocabitur***, more antiquorum qui ex novis eventibus nova nomina imponebant, et hoc nomen postea exprimet. Mystice, Ecclesia, quae prius Synagoga, Apoc. II 17 *dabo illi calculum*.  
 
-In munimine divinae protectionis: ***et eris corona gloriae***, quia gloriabitur in te Deus tuus sicut rex in corona regni, ***in manu***, id est in protectione sua, Sap. V 17 *accipiens regnum speciei*. Mystice: Ecclesia, quasi corona Dei Filius a Patre coronatur.
+In munimine divinae protectionis: ***et eris corona gloriae***, quia gloriabitur in te Deus tuus sicut rex in corona regni, ***in manu***, id est in protectione sua, Sap. V 17 *accipiens regnum speciei*. Mystice: Ecclesia, quasi corona Dei Filius a Patre coronatur.  
 
-Et excludit ignominiam, in quo etiam nomen novum exprimit: ***non vocaberis***, Ez. XXXVI 13 *pro eo quod dicunt de vobis* etc.
+Et excludit ignominiam, in quo etiam nomen novum exprimit: ***non vocaberis***, Ez. XXXVI 13 *pro eo quod dicunt de vobis* etc.  
 
-**1089**. Secundo quantum ad habitantium laetitiam, et quantum ad pueros: ***habitabit juvenis***, et quantum ad viros perfectos: ***et habitabunt***, et quantum ad conjugatos: ***et gaudebit***, Ier. XXXIII 10 *adhuc audietur in loco* etc. Mystice: ***juvenis cum virgine***, caste sicut Maria cum Joseph; ***sponsus***, Christus; ***sponsam***, Ecclesiam.
+**1089**. Secundo quantum ad habitantium laetitiam, et quantum ad pueros: ***habitabit juvenis***, et quantum ad viros perfectos: ***et habitabunt***, et quantum ad conjugatos: ***et gaudebit***, Ier. XXXIII 10 *adhuc audietur in loco* etc. Mystice: ***juvenis cum virgine***, caste sicut Maria cum Joseph; ***sponsus***, Christus; ***sponsam***, Ecclesiam.  
 
-**1090**. Tertio quantum ad aedificiorum diligentem custodiam, quae exprimitur II Esdrae IV 17 *una manu* aedificabant et alia pugnabant: ***super muros non tacebunt***. Loquitur secundum similitudinem vigilum qui custodiunt civitatem; vel per metaphoram designat diligentiam principum qui populum gubernaverunt, vel praedicatores in Ecclesia, Apoc. IV 8 *requiem non habebant clamantia: sanctus, sanctus*.
+**1090**. Tertio quantum ad aedificiorum diligentem custodiam, quae exprimitur II Esdrae IV 17 *una manu* aedificabant et alia pugnabant: ***super muros non tacebunt***. Loquitur secundum similitudinem vigilum qui custodiunt civitatem; vel per metaphoram designat diligentiam principum qui populum gubernaverunt, vel praedicatores in Ecclesia, Apoc. IV 8 *requiem non habebant clamantia: sanctus, sanctus*.  
 
-**1091**. ***Qui reminiscimini***. Hic alios ad similem petitionem inducit: ***ne taceatis*** ab oratione; ***ei***, Deo, I Thess. VI *semper gaudete, sine intermissione orate*.
+**1091**. ***Qui reminiscimini***. Hic alios ad similem petitionem inducit: ***ne taceatis*** ab oratione; ***ei***, Deo, I Thess. VI *semper gaudete, sine intermissione orate*.  
 
-**1092**. ***Juravit***. Hic Dominus promittit implere petitionem.
+**1092**. ***Juravit***. Hic Dominus promittit implere petitionem.  
 
-Et primo quantum ad hostium propulsionem: ***si dedero***, supple *non credatis mihi*, Prov. XXVIII 19 *qui operatur terram* et non comedit fructum ex ea.
+Et primo quantum ad hostium propulsionem: ***si dedero***, supple *non credatis mihi*, Prov. XXVIII 19 *qui operatur terram* et non comedit fructum ex ea.  
 
-Secundo quantum ad captivorum liberationem, quantum ad praeparationem viae: ***transite***, vos nuntii Cyri et Darii; ***lapides***, impedimenta, Jer. L 26 *tollite de via lapides*; vel vos, custodes murorum: praedicatores. Quantum ad concessionem laetitiae: ***elevate signum***, edictum Cyri ut omnes redirent, vel ***signum*** crucis, supra XI 12 ***levabit signum in nationibus***. Et quantum ad retributionem justitiae: ***dicite filiae***, plebi Judaeorum; ***salvator***, Deus vel Cyrus; ***merces***, ut vobis bona et hostibus mala reddantur. Mystice de adventu Christi ad judicium, supra XL 9–10 idem.
+Secundo quantum ad captivorum liberationem, quantum ad praeparationem viae: ***transite***, vos nuntii Cyri et Darii; ***lapides***, impedimenta, Jer. L 26 *tollite de via lapides*; vel vos, custodes murorum: praedicatores. Quantum ad concessionem laetitiae: ***elevate signum***, edictum Cyri ut omnes redirent, vel ***signum*** crucis, supra XI 12 ***levabit signum in nationibus***. Et quantum ad retributionem justitiae: ***dicite filiae***, plebi Judaeorum; ***salvator***, Deus vel Cyrus; ***merces***, ut vobis bona et hostibus mala reddantur. Mystice de adventu Christi ad judicium, supra XL 9–10 idem.  
 
-Tertio, ibi ***et vocabunt***, ponit liberatorum honorem qui in magna fama sanctitatis habebantur, propter beneficia eis praestita, supra I 26 ***post hoc vocaberis***. Mystice, de Ecclesia et populo christiano.
+Tertio, ibi ***et vocabunt***, ponit liberatorum honorem qui in magna fama sanctitatis habebantur, propter beneficia eis praestita, supra I 26 ***post hoc vocaberis***. Mystice, de Ecclesia et populo christiano.  
 
-**1093**. Nota super illo verbo ***propter Sion non tacebo***, quod sancti non tacent
+**1093**. Nota super illo verbo ***propter Sion non tacebo***, quod sancti non tacent  
 
-primo propter accensum desiderium, Jer. XX 9 *et factum est in corde meo verbum Domini quasi ignis aestuans*;
+primo propter accensum desiderium, Jer. XX 9 *et factum est in corde meo verbum Domini quasi ignis aestuans*;  
 
-secundo propter evidens verum, Act. V *non enim possumus quae vidimus*;
+secundo propter evidens verum, Act. V *non enim possumus quae vidimus*;  
 
-tertio propter injunctum officium, I Cor. IX 16 *necessitas mihi incumbit, vae enim mihi est si non evangelizavero*;
+tertio propter injunctum officium, I Cor. IX 16 *necessitas mihi incumbit, vae enim mihi est si non evangelizavero*;  
 
-quarto propter expectatum praemium, Gal. ult. *bonum enim facientes non deficiamus: tempore enim suo metemus non deficientes*.
+quarto propter expectatum praemium, Gal. ult. *bonum enim facientes non deficiamus: tempore enim suo metemus non deficientes*.  
 
-**1094**. Item super illo verbo ***donec egrediatur ut splendor***, quod Christus splendet
+**1094**. Item super illo verbo ***donec egrediatur ut splendor***, quod Christus splendet  
 
-primo Patris imagine, Hebr. I 3 *cum sit splendor gloriae et figura substantiae ejus*;
+primo Patris imagine, Hebr. I 3 *cum sit splendor gloriae et figura substantiae ejus*;  
 
-secundo sanctorum lumine, Ps. *in splendoribus sanctorum ante luciferum genui te*;
+secundo sanctorum lumine, Ps. *in splendoribus sanctorum ante luciferum genui te*;  
 
-tertio gloriae plenitudine, Matth. XVII 2 *resplenduit facies ejus sicut sol*;
+tertio gloriae plenitudine, Matth. XVII 2 *resplenduit facies ejus sicut sol*;  
 
 quarto doctrinae rectitudine, supra LX 3 ***ambulabunt gentes in lumine tuo et reges in splendore ortus tui***.
-
-Caput 63

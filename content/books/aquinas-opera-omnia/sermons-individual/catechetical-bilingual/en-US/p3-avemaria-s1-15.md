@@ -1,3 +1,1 @@
 # AveMaria.S1.15
-
-Second, the blessed Virgin was full of grace in the overflowing effect of soul upon flesh. For while it is a great thing in the saints that the abundance of grace sanctified their souls, yet, moreover, the soul of the holy Virgin was so filled with grace that from her soul grace poured into her flesh from which was conceived the Son of God. Hugh of St. Victor says of this: *because the love of the Holy Spirit so inflamed her soul, he worked a wonder in her flesh, in that from it was born God made man*.Hugh of St. Victor, *On the Blessed Virgin Mary*, ch. 2 (PL 176:872). And according to Matthew 1:20: *that which is conceived in her, is of the Holy Spirit*.

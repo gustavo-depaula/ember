@@ -1,12 +1,12 @@
 # Lauds
 
-Glory be to the Father, and to the Son, * and to the Holy Spirit.
+Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
-As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]
+As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*. Wisdom has built herself a house, she has prepared her wine, she has laid her table, alleluia. [Prov 9:1–2]
+*Antiphon*. Wisdom has built herself a house, she has prepared her wine, she has laid her table, alleluia. [Prov 9:1–2]  
 
-Sung to *Adest dies* from the feast of St. Dominic.
+Sung to *Adest dies* from the feast of St. Dominic.  
 
 ***Psalm 92 (93)***
 
@@ -28,9 +28,9 @@ Sung to *Adest dies* from the feast of St. Dominic.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. You have nourished your people with the food of the angels, and you have provided them bread from heaven, alleluia. [Cf. Wis 16:20]
+*Antiphon*. You have nourished your people with the food of the angels, and you have provided them bread from heaven, alleluia. [Cf. Wis 16:20]  
 
-Sung to *Pauper esca* from the feast of St. Dominic.
+Sung to *Pauper esca* from the feast of St. Dominic.  
 
 ***Psalm 99 (100)***
 
@@ -48,9 +48,9 @@ Sung to *Pauper esca* from the feast of St. Dominic.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. Rich is the bread of Christ and he will offer delicacies to kings, alleluia. [Cf. Gen 49:20]
+*Antiphon*. Rich is the bread of Christ and he will offer delicacies to kings, alleluia. [Cf. Gen 49:20]  
 
-Sung to *Scala caelo* from the feast of St. Dominic.
+Sung to *Scala caelo* from the feast of St. Dominic.  
 
 ***Psalm 21 (22)***
 
@@ -130,9 +130,9 @@ Sung to *Scala caelo* from the feast of St. Dominic.
 
 ***Daniel 3:57–88***
 
-*Antiphon*. The holy priests offer incense and breads to God, alleluia. [Cf. Lev 21:6; Dan 3:38, 84]
+*Antiphon*. The holy priests offer incense and breads to God, alleluia. [Cf. Lev 21:6; Dan 3:38, 84]  
 
-Sung to *Ingressus Angelus* from the feast of the Annunciation.
+Sung to *Ingressus Angelus* from the feast of the Annunciation.  
 
 ***All you works of the Lord, bless the Lord: * praise and exalt him above all forever.***
 
@@ -174,9 +174,9 @@ Sung to *Ingressus Angelus* from the feast of the Annunciation.
 
 > Blessed are you, O Lord, in the firmament of heaven: * and worthy of praise, and glorious forever.
 
-*Antiphon*. To the one who conquers I will give hidden manna and a new name, alleluia. [Cf. Rev 2:17]
+*Antiphon*. To the one who conquers I will give hidden manna and a new name, alleluia. [Cf. Rev 2:17]  
 
-Sung to *Ex quo omnia* from the feast of the Trinity.
+Sung to *Ex quo omnia* from the feast of the Trinity.  
 
 ***Psalms 148–150***
 
@@ -248,34 +248,51 @@ Sung to *Ex quo omnia* from the feast of the Trinity.
 
 > [℟. Thanks be to God.]
 
-Hymn
+Hymn  
 
 ***Verbum supernum***
 
-The celestial Word coming forth,not leaving the right hand of the Father,going out to its work,comes to the evening of life.
+The celestial Word coming forth,  
+not leaving the right hand of the Father,  
+going out to its work,  
+comes to the evening of life.  
 
-- Handed over by a discipleto his enemies for his death,he first gave himself to his discipleson a plate of life.
-- He gave them his Flesh and Bloodunder two species,so that he might feed all menof twofold substance.
-- Being born he gave himself as a companion, dining he gave himself as nourishment,dying he gave himself as a ransom,reigning he gives himself as a reward.
-- O saving Victim,you who open the door of heaven,wars and enemies press us,give us strength, bring us help.
-- To the Lord, one and three,be eternal praise,may he give us eternal lifein the homeland. Amen.
+- Handed over by a disciple  
+  to his enemies for his death,  
+  he first gave himself to his disciples  
+  on a plate of life.
+- He gave them his Flesh and Blood  
+  under two species,  
+  so that he might feed all men  
+  of twofold substance.
+- Being born he gave himself as a companion, dining he gave himself as nourishment,  
+  dying he gave himself as a ransom,  
+  reigning he gives himself as a reward.
+- O saving Victim,  
+  you who open the door of heaven,  
+  wars and enemies press us,  
+  give us strength, bring us help.
+- To the Lord, one and three,  
+  be eternal praise,  
+  may he give us eternal life  
+  in the homeland. Amen.
 - Sung to *Aeterne rex altissime* from the feast of the Ascension.
 
 ***Versicle***
 
 ***[Cf. Psalm 147:3 (14)]***
 
-℣. He has established peace in your borders, alleluia.
+℣. He has established peace in your borders, alleluia.  
 
-℟. And with the finest grain he has filled you, alleluia.
+℟. And with the finest grain he has filled you, alleluia.  
 
-Benedictus
+Benedictus  
 
 ***Luke 1:68—79***
 
-*Antiphon for the Benedictus*. I am the living bread who descended from heaven. If anyone eats of this bread, he will live forever, [alleluia]. [John 6:51–52]
+*Antiphon for the Benedictus*. I am the living bread who descended from heaven. If anyone eats of this bread, he will live forever, [alleluia]. [John 6:51–52]  
 
-Sung to *Pax aeterna* from the feast of the Dedication.
+Sung to *Pax aeterna* from the feast of the Dedication.  
 
 ***Blessed be the Lord God of Israel; * because he has visited and wrought the redemption of his people:***
 
@@ -307,20 +324,38 @@ Sung to *Pax aeterna* from the feast of the Dedication.
 
 > Prayer
 
-***[℣. O Lord, hear my prayer.℟. And let my cry come unto you.]***
+***[℣. O Lord, hear my prayer.***
+***℟. And let my cry come unto you.]***
 
-*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-[℣. O Lord, hear my prayer.℟. And let my cry come unto you.℣. Let us bless the Lord.℟. Thanks be to God.℣. May the souls of the faithful departed, through the mercy of God, rest in peace.℟. Amen.Our Father, etc.℣. May the Lord grant us his peace.℟. And life everlasting. Amen.
+[℣. O Lord, hear my prayer.  
+℟. And let my cry come unto you.  
+℣. Let us bless the Lord.  
+℟. Thanks be to God.  
+℣. May the souls of the faithful departed, through the mercy of God, rest in peace.  
+℟. Amen.  
+Our Father, etc.  
+℣. May the Lord grant us his peace.  
+℟. And life everlasting. Amen.  
 
-Final Antiphon of the Blessed Virgin Mary
+Final Antiphon of the Blessed Virgin Mary  
 
-***Hail holy Queen, Mother of Mercy,our life, our sweetness, and our hope.To you do we cry, poor banished children of Eve.To you do we send up our sighs, mourning and weepingIn this valley of tears.Turn then, most gracious Advocate,thine eyes of mercy toward us.And after this our exile show unto usthe blessed fruit of your womb, Jesus.O clement, O loving, O sweet Virgin Mary.***
+***Hail holy Queen, Mother of Mercy,***
+***our life, our sweetness, and our hope.***
+***To you do we cry, poor banished children of Eve.***
+***To you do we send up our sighs, mourning and weeping***
+***In this valley of tears.***
+***Turn then, most gracious Advocate,***
+***thine eyes of mercy toward us.***
+***And after this our exile show unto us***
+***the blessed fruit of your womb, Jesus.***
+***O clement, O loving, O sweet Virgin Mary.***
 
-℣. Pray for us, O Holy Mother of God.℟. That we may be made worthy of the promises of Christ.
+℣. Pray for us, O Holy Mother of God.  
+℟. That we may be made worthy of the promises of Christ.  
 
-*Let us pray*. O almighty, everlasting God, who by the cooperation of the Holy Spirit, did prepare the body and soul of Mary, glorious Virgin and Mother, to become a worthy dwelling for your Son; grant that we who rejoice in her commemoration may, by her gracious intercession, be delivered from present evils and from everlasting death. Through the same Christ our Lord. Amen.
+*Let us pray*. O almighty, everlasting God, who by the cooperation of the Holy Spirit, did prepare the body and soul of Mary, glorious Virgin and Mother, to become a worthy dwelling for your Son; grant that we who rejoice in her commemoration may, by her gracious intercession, be delivered from present evils and from everlasting death. Through the same Christ our Lord. Amen.  
 
-℣. May the divine assistance remain with us always.℟. Amen.]
-
-Prime
+℣. May the divine assistance remain with us always.  
+℟. Amen.]

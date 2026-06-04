@@ -52,106 +52,104 @@
 
 > **896**. ***Audite insulae*** etc. In parte ista exequitur magis in speciali liberationis ordinem. Et circa hoc duo facit:
 
-primo populus confitetur accepta beneficia,
+primo populus confitetur accepta beneficia,  
 
-secundo accipit promissionem de futuris, ibi ***ego dixi: in vacuum*** etc.
+secundo accipit promissionem de futuris, ibi ***ego dixi: in vacuum*** etc.  
 
-Circa primum, quatuor beneficia confitentur.
+Circa primum, quatuor beneficia confitentur.  
 
-Primo privilegium divinae electionis; et continuatur cur indixerat supra propheta populo ut annuntiaret, unde statim subjungitur vox populi annuntiantis et dicentis: ***audite**; **ab utero***, eligens me in ipsis patribus, Ps. *de ventre matris meae Deus* etc.
+Primo privilegium divinae electionis; et continuatur cur indixerat supra propheta populo ut annuntiaret, unde statim subjungitur vox populi annuntiantis et dicentis: ***audite**; **ab utero***, eligens me in ipsis patribus, Ps. *de ventre matris meae Deus* etc.  
 
-Secundo efficaciam orationis: ***et posuit os***, orationem, ***quasi gladium*** penetrantem usque ad aures Dei et viscera misericordiae ipsius, Eph. ult. *gladium spiritus* etc.
+Secundo efficaciam orationis: ***et posuit os***, orationem, ***quasi gladium*** penetrantem usque ad aures Dei et viscera misericordiae ipsius, Eph. ult. *gladium spiritus* etc.  
 
-Tertio auxilium divinae protectionis: ***in umbra***, id est sub protectione potentiae suae, ***sicut sagittam electam*** sagittarius abscondit ad conservandum, Ps. *sub umbra alarum tuarum* etc., Ps. *abscondit me in tabernaculo suo* etc.
+Tertio auxilium divinae protectionis: ***in umbra***, id est sub protectione potentiae suae, ***sicut sagittam electam*** sagittarius abscondit ad conservandum, Ps. *sub umbra alarum tuarum* etc., Ps. *abscondit me in tabernaculo suo* etc.  
 
-Quarto gloriam divinae servitutis: ***et dixit mihi: in te gloriabor***, per magnalia in te ostensa gloriosus apparebo, supra xliii ***omnem qui invocat nomen meum*** etc.
+Quarto gloriam divinae servitutis: ***et dixit mihi: in te gloriabor***, per magnalia in te ostensa gloriosus apparebo, supra xliii ***omnem qui invocat nomen meum*** etc.  
 
-**897**. Secundum alios, haec est vox Cyri, cujus nomen praenuntiatum ab Isaia, supra xlv, antequam nasceretur, cujus verba comminatoria quasi gladius erant; et protectus est ne avus suus eum interficeret, et servatus quasi electa sagitta ad tempus statutum, cui annuntiatum est populum Israel Dei servum esse. Aliter exponitur de Christo, cujus nomen ab angelo praenuntiatum, verbum praedicationis gladius penetrans corda, protectus pro infirmitate carnis a potentia divinitatis, et electus inter omnes ad salutem generis humani implendam; et dicitur Israel quia ex populo Israel secundum carnem natus est.
+**897**. Secundum alios, haec est vox Cyri, cujus nomen praenuntiatum ab Isaia, supra xlv, antequam nasceretur, cujus verba comminatoria quasi gladius erant; et protectus est ne avus suus eum interficeret, et servatus quasi electa sagitta ad tempus statutum, cui annuntiatum est populum Israel Dei servum esse. Aliter exponitur de Christo, cujus nomen ab angelo praenuntiatum, verbum praedicationis gladius penetrans corda, protectus pro infirmitate carnis a potentia divinitatis, et electus inter omnes ad salutem generis humani implendam; et dicitur Israel quia ex populo Israel secundum carnem natus est.  
 
-**898**. ***Ego dixi***. Hic Dominus promittit futura beneficia.
+**898**. ***Ego dixi***. Hic Dominus promittit futura beneficia.  
 
-Et primo promittit prophetae Isaiae exaltationem,
+Et primo promittit prophetae Isaiae exaltationem,  
 
-secundo populo liberationem: ***haec dicit Dominus redemptor*** etc.
+secundo populo liberationem: ***haec dicit Dominus redemptor*** etc.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur prophetae allegatio proponentis laborem suum in praedicando, quamvis ex culpa audientium non sit fructus secutus, et concludit: ***ergo judicium meum***, pro me, ***cum Domino***, coram ipso, ***et opus meum*** quasi gratum ipsi, Jer. vi *frustra conflavit conflator* etc.
+Primo ponitur prophetae allegatio proponentis laborem suum in praedicando, quamvis ex culpa audientium non sit fructus secutus, et concludit: ***ergo judicium meum***, pro me, ***cum Domino***, coram ipso, ***et opus meum*** quasi gratum ipsi, Jer. vi *frustra conflavit conflator* etc.  
 
-Secundo ponit Dei responsionem: ***et nunc haec dicit Dominus***.
+Secundo ponit Dei responsionem: ***et nunc haec dicit Dominus***.  
 
-Et primo significatur allegationis acceptatio: ***ut reducam***, quasi dicat: ad hoc me ex ventre matris eligens ut revocem populum suum ad ipsum, ***et*** tamen ***Israel non*** usquequaque ***congregabitur*** ad ipsum per meam praedicationem, ***et*** tamen ***glorificatus sum*** etc., Habacuc iii *Deus Dominus fortitudo mea* etc.;
+Et primo significatur allegationis acceptatio: ***ut reducam***, quasi dicat: ad hoc me ex ventre matris eligens ut revocem populum suum ad ipsum, ***et*** tamen ***Israel non*** usquequaque ***congregabitur*** ad ipsum per meam praedicationem, ***et*** tamen ***glorificatus sum*** etc., Habacuc iii *Deus Dominus fortitudo mea* etc.;  
 
-secundo ponitur ipsa responsio: ***et dixit: parum est***, quasi dicat: in tantum ministerium tuum honorificabo, ut non solum in Judaeis sed in omnibus gentibus per te salus mea annuntietur, Ro. iii *an Judaeorum Deus tantum* etc.
+secundo ponitur ipsa responsio: ***et dixit: parum est***, quasi dicat: in tantum ministerium tuum honorificabo, ut non solum in Judaeis sed in omnibus gentibus per te salus mea annuntietur, Ro. iii *an Judaeorum Deus tantum* etc.  
 
-**899**. Hoc etiam plane de Christo exponitur, qui sua praedicatione et mortis consumptione parvum fructum in Judaeis fecit, sed gentes illuminavit et salvavit. Similiter etiam de Cyro, licet magis extorte, qui per beneficia secundum intentionem Domini populum ad Dei cultum revocavit, et tamen non profecit, cui a Deo datum est dominium super multas gentes.
+**899**. Hoc etiam plane de Christo exponitur, qui sua praedicatione et mortis consumptione parvum fructum in Judaeis fecit, sed gentes illuminavit et salvavit. Similiter etiam de Cyro, licet magis extorte, qui per beneficia secundum intentionem Domini populum ad Dei cultum revocavit, et tamen non profecit, cui a Deo datum est dominium super multas gentes.  
 
-**900**. ***Haec dicit Dominus redemptor*** etc. Hic promittit liberationem. Et circa hoc duo facit:
+**900**. ***Haec dicit Dominus redemptor*** etc. Hic promittit liberationem. Et circa hoc duo facit:  
 
-primo promittit liberationem,
+primo promittit liberationem,  
 
-secundo excludit eorum dubitationem: ***et dixit Sion*** etc.
+secundo excludit eorum dubitationem: ***et dixit Sion*** etc.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo liberationem praecedentia, scilicet Judaeorum veneratio quae fuit causa liberationis, commemorans pristinam despectionem: ***contemptibilem***, propter populi imbecillitatem, ***abominandam***, propter cultus singularitatem, ***servum***, propter subjectionem diversis gentibus, supra xviii ***ad gentem divulsam*** etc.; et ponit ipsam venerationem: ***reges videbunt*** magnalia mea quae pro te ostendam, ***et adorabunt***, sicut ad litteram Nabuchodonosor, Dan. ii, et Cyrus et alii principes ejus honoraverunt Esdram.
+Primo liberationem praecedentia, scilicet Judaeorum veneratio quae fuit causa liberationis, commemorans pristinam despectionem: ***contemptibilem***, propter populi imbecillitatem, ***abominandam***, propter cultus singularitatem, ***servum***, propter subjectionem diversis gentibus, supra xviii ***ad gentem divulsam*** etc.; et ponit ipsam venerationem: ***reges videbunt*** magnalia mea quae pro te ostendam, ***et adorabunt***, sicut ad litteram Nabuchodonosor, Dan. ii, et Cyrus et alii principes ejus honoraverunt Esdram.  
 
-**901**. Aliud praeambulum est regis liberantis exaltatio, scilicet Cyri: ***in tempore placito***, et non determinat exaltationis tempus: ***placito***, quando placuerit mihi salvare populum meum, ***exaudivi***, exaltans te in regnum secundum desiderium tuum; et exaltationis fructum: ***et servavi*** etc., ***in foedus*** implendum ***populi mei***; ***revelamini***, id est illuminamini. Vel de Christo, qui fuit in passione contemptus et quasi servus judicatus, infra liii ***vidimus eum despectum*** etc., sed postmodum a regibus ad litteram adoratus, Ps. *adorabunt eum omnes reges* etc*., **in tempore placito***, scilicet tempore gratiae, secunda Cor. vi *ecce nunc tempus* etc.
+**901**. Aliud praeambulum est regis liberantis exaltatio, scilicet Cyri: ***in tempore placito***, et non determinat exaltationis tempus: ***placito***, quando placuerit mihi salvare populum meum, ***exaudivi***, exaltans te in regnum secundum desiderium tuum; et exaltationis fructum: ***et servavi*** etc., ***in foedus*** implendum ***populi mei***; ***revelamini***, id est illuminamini. Vel de Christo, qui fuit in passione contemptus et quasi servus judicatus, infra liii ***vidimus eum despectum*** etc., sed postmodum a regibus ad litteram adoratus, Ps. *adorabunt eum omnes reges* etc*., **in tempore placito***, scilicet tempore gratiae, secunda Cor. vi *ecce nunc tempus* etc.  
 
-**902**. Secundo ponit liberationem consequentia, promittens liberatis bonorum copiam: ***super vias pascentur***, id est ita abundanter consolationibus perfruentur sicut oves pascuis, quando etiam in via praeter solitum invenirentur, Ez. xxxiv *requiescent in herbis* etc.; quantum ad malorum carentiam et defectus: ***non esuriet*** etc., et nocumenti illati: ***aestus*** tribulationis, ***et sol***, tyrannus faciens ipsam, Ps. *per diem sol non uret* etc.; et assignat utriusque causam: ***quia miserator*** etc.*, **aquarum***, consolationum, Ps. *Dominus regit me* etc.
+**902**. Secundo ponit liberationem consequentia, promittens liberatis bonorum copiam: ***super vias pascentur***, id est ita abundanter consolationibus perfruentur sicut oves pascuis, quando etiam in via praeter solitum invenirentur, Ez. xxxiv *requiescent in herbis* etc.; quantum ad malorum carentiam et defectus: ***non esuriet*** etc., et nocumenti illati: ***aestus*** tribulationis, ***et sol***, tyrannus faciens ipsam, Ps. *per diem sol non uret* etc.; et assignat utriusque causam: ***quia miserator*** etc.*, **aquarum***, consolationum, Ps. *Dominus regit me* etc.  
 
-**903**. Tertio promittit ipsam liberationem, ponens viarum praeparationem: ***et ponam omnes montes***, id est principes auxiliabuntur vobis ad revertendum, supra xl ***omnis vallis implebitur*** etc.; ponens etiam captivorum reversionem: ***ecce isti de longe***, ab oriente, ***mari***, occidente, Jer. xxxprimo *adducam eos ab aquilone* etc.; ponit etiam gratiarum actionem: ***laudate caeli*** etc., Ps. *laudent illum caeli* etc.
+**903**. Tertio promittit ipsam liberationem, ponens viarum praeparationem: ***et ponam omnes montes***, id est principes auxiliabuntur vobis ad revertendum, supra xl ***omnis vallis implebitur*** etc.; ponens etiam captivorum reversionem: ***ecce isti de longe***, ab oriente, ***mari***, occidente, Jer. xxxprimo *adducam eos ab aquilone* etc.; ponit etiam gratiarum actionem: ***laudate caeli*** etc., Ps. *laudent illum caeli* etc.  
 
-**904**. ***Et dixit Sion*** etc. Hic excludit eorum dubitationem.
+**904**. ***Et dixit Sion*** etc. Hic excludit eorum dubitationem.  
 
-Et primo illam quae oriebatur ex divina indignatione;
+Et primo illam quae oriebatur ex divina indignatione;  
 
-secundo illam quae ex eorum dejectione: ***et dices in corde*** etc.;
+secundo illam quae ex eorum dejectione: ***et dices in corde*** etc.;  
 
-tertio illam quae ex hostium potestate, ibi ***numquid tolletur*** etc.
+tertio illam quae ex hostium potestate, ibi ***numquid tolletur*** etc.  
 
-Circa primum tria:
+Circa primum tria:  
 
-primo ponit dubitationem: ***dereliquit*** sine auxilio, et ideo non possum sperare liberationem, Baruch iv *derelicta sum* etc.;
+primo ponit dubitationem: ***dereliquit*** sine auxilio, et ideo non possum sperare liberationem, Baruch iv *derelicta sum* etc.;  
 
-secundo excludit eam per similitudinem matris: ***numquid potest*** etc., Ier. xxxprimo *si filius honorabilis* etc.;
+secundo excludit eam per similitudinem matris: ***numquid potest*** etc., Ier. xxxprimo *si filius honorabilis* etc.;  
 
-tertio adhibet promissionem de civitatis restauratione.
+tertio adhibet promissionem de civitatis restauratione.  
 
-**905**. Et primo quantum <ad> reaedificationem murorum, ponens divinum propositum: ***ecce in manibus***, quasi: ita teneo te in memoria sicut qui scribit aut facit aliquod signum in manu sua, ut sit memor alicujus rei; ***muri tui***, quasi: jam video reaedificationem murorum tuorum, Iob xxxvii *in manibus abscondit* etc., Ps. *mille anni ante oculos* etc.; et expletionis modum: ***venerunt structores***, id est reaedificatores, scilicet Zorobabel et Jesus et alii jam in oculis meis, ***dissipantes***, Chaldaei, Zach. iv *manus Zorobabel* etc.
+**905**. Et primo quantum <ad> reaedificationem murorum, ponens divinum propositum: ***ecce in manibus***, quasi: ita teneo te in memoria sicut qui scribit aut facit aliquod signum in manu sua, ut sit memor alicujus rei; ***muri tui***, quasi: jam video reaedificationem murorum tuorum, Iob xxxvii *in manibus abscondit* etc., Ps. *mille anni ante oculos* etc.; et expletionis modum: ***venerunt structores***, id est reaedificatores, scilicet Zorobabel et Jesus et alii jam in oculis meis, ***dissipantes***, Chaldaei, Zach. iv *manus Zorobabel* etc.  
 
-**906**. Secundo quantum ad habitationem virorum, et circa hoc tria facit.
+**906**. Secundo quantum ad habitationem virorum, et circa hoc tria facit.  
 
-Primo civium adunationem: ***leva in circuitu*** etc., Baruch iv *circumspice Jerusalem* etc.
+Primo civium adunationem: ***leva in circuitu*** etc., Baruch iv *circumspice Jerusalem* etc.  
 
-Secundo civitatis rehabitationem, ostendens quod habitabitur: ***vivo*** ego, modus juramenti, ***velut ornamento***, sicut sponsa vestibus sic urbs ornatur civibus, infra lxprimo ***induit vestimento salutis*** etc.; ostendens quod habitatoribus implebitur: ***quia deserta***, quantum ad habitatores, ***solitudines***, quantum ad cultores, ***ruinae***, quantum ad muros destructos, Zach. ii *absque muro habitabitur* etc.; ostendit etiam quod hostibus vacuabitur: ***et longe*** etc.
+Secundo civitatis rehabitationem, ostendens quod habitabitur: ***vivo*** ego, modus juramenti, ***velut ornamento***, sicut sponsa vestibus sic urbs ornatur civibus, infra lxprimo ***induit vestimento salutis*** etc.; ostendens quod habitatoribus implebitur: ***quia deserta***, quantum ad habitatores, ***solitudines***, quantum ad cultores, ***ruinae***, quantum ad muros destructos, Zach. ii *absque muro habitabitur* etc.; ostendit etiam quod hostibus vacuabitur: ***et longe*** etc.  
 
-Tertio praedicit habitatorum multitudinem: ***adhuc dicent filii sterilitatis***, id est qui nati sunt quando te sterilem credebas, vacuata habitatoribus, infra liv ***dilata locum tentorii*** etc.
+Tertio praedicit habitatorum multitudinem: ***adhuc dicent filii sterilitatis***, id est qui nati sunt quando te sterilem credebas, vacuata habitatoribus, infra liv ***dilata locum tentorii*** etc.  
 
-**907**. ***Et dices in corde*** etc. Hic excludit secundam dubitationem.
+**907**. ***Et dices in corde*** etc. Hic excludit secundam dubitationem.  
 
-Et primo ponit admirationem: ***et dices***, prae admiratione, ***sterilis***, quia non erant in me viri qui filios generarent, ***destituta*** divino auxilio, infra lxvj ***quis audivit unquam tale*** etc.
+Et primo ponit admirationem: ***et dices***, prae admiratione, ***sterilis***, quia non erant in me viri qui filios generarent, ***destituta*** divino auxilio, infra lxvj ***quis audivit unquam tale*** etc.  
 
-Secundo excludit dubitationem, ponens modum multitudinis habitatorum: ***haec dicit Dominus***, quantum ad quatuor:
+Secundo excludit dubitationem, ponens modum multitudinis habitatorum: ***haec dicit Dominus***, quantum ad quatuor:  
 
-primo quantum ad divinam inspirationem: ***ecce levabo manum***, quasi innuens, supra xi ***levabit signum in nationibus*** etc.;
+primo quantum ad divinam inspirationem: ***ecce levabo manum***, quasi innuens, supra xi ***levabit signum in nationibus*** etc.;  
 
-secundo quantum ad honorificam reductionem: ***et afferent in ulnis***, in quo significatur auxilium quod a gentibus habuerunt, ***reges nutritii***, providentes tibi in necessariis, Baruch v *adducet Dominus illos ad te* etc.;
+secundo quantum ad honorificam reductionem: ***et afferent in ulnis***, in quo significatur auxilium quod a gentibus habuerunt, ***reges nutritii***, providentes tibi in necessariis, Baruch v *adducet Dominus illos ad te* etc.;  
 
-tertio quantum ad liberatorum exaltationem: ***vultu in terra***, hoc praecipue tempore Machabaeorum, infra lx ***venient ad te curvi*** etc.;
+tertio quantum ad liberatorum exaltationem: ***vultu in terra***, hoc praecipue tempore Machabaeorum, infra lx ***venient ad te curvi*** etc.;  
 
-quarto assignat huius rationem: ***et scies quia ego*** etc., Ps. *in te Domine speravi, non confundar* etc.
+quarto assignat huius rationem: ***et scies quia ego*** etc., Ps. *in te Domine speravi, non confundar* etc.  
 
-**908**. ***Numquid tolletur***. Hic excludit tertiam dubitationem.
+**908**. ***Numquid tolletur***. Hic excludit tertiam dubitationem.  
 
-Et primo ponit ipsam: ***a forti***, Nabuchodonosor, Mt. xii *aut quomodo potest quis intrare* etc.
+Et primo ponit ipsam: ***a forti***, Nabuchodonosor, Mt. xii *aut quomodo potest quis intrare* etc.  
 
-Secundo excludit eam: ***quia haec dicit***,
+Secundo excludit eam: ***quia haec dicit***,  
 
-primo ponens liberationis beneficium: ***captivitas***, scilicet Judaeorum, Job xxix *conterebam molas iniqui* etc.;
+primo ponens liberationis beneficium: ***captivitas***, scilicet Judaeorum, Job xxix *conterebam molas iniqui* etc.;  
 
-secundo liberationis modum, ponens hostium destructionem: ***eos vero***, scilicet Chaldaeos, ***judicaverunt*** injuste, Soph. iii *ego interficiam* etc.; et ponit poenae determinationem: ***et cibabo***, vel propter dissensionem, sicut supra ix ***unusquisque carnem brachii*** etc., vel propter mortuorum multitudinem, dum os unius cadebat super sanguinem alterius ac si vellet bibere, vel propter famem.
+secundo liberationis modum, ponens hostium destructionem: ***eos vero***, scilicet Chaldaeos, ***judicaverunt*** injuste, Soph. iii *ego interficiam* etc.; et ponit poenae determinationem: ***et cibabo***, vel propter dissensionem, sicut supra ix ***unusquisque carnem brachii*** etc., vel propter mortuorum multitudinem, dum os unius cadebat super sanguinem alterius ac si vellet bibere, vel propter famem.  
 
 Tertio ponit liberationis fructum: ***et sciet omnis caro*** etc., supra xl ***videbit omnis caro*** etc.
-
-Caput 50

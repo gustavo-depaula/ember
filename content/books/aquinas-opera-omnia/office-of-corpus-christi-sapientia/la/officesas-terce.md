@@ -1,8 +1,8 @@
 # Terce
 
-*Antiphona*. Memoria mea in generationes saeculorum. Qui edunt me adhuc esurient; et qui bibunt me adhuc sitient, alleluia.
+*Antiphona*. Memoria mea in generationes saeculorum. Qui edunt me adhuc esurient; et qui bibunt me adhuc sitient, alleluia.  
 
-Psalmus 118:33–80
+Psalmus 118:33–80  
 
 ***Legem pone mihi, Domine, viam iustificationum tuarum, * et exquiram eam semper, etc.***
 
@@ -16,14 +16,12 @@ Psalmus 118:33–80
 
 ***{image-238}***
 
-℟. Parasti in conspectu meo mensam, alleluia, alleluia.
+℟. Parasti in conspectu meo mensam, alleluia, alleluia.  
 
-℣. Adversos eos qui tribulant me, alleluia, alleluia. * Gloria Patri et Filio et Spiritui Sancto. * Parasti in conspectu meo mensam, alleluia, alleluia.
+℣. Adversos eos qui tribulant me, alleluia, alleluia. * Gloria Patri et Filio et Spiritui Sancto. * Parasti in conspectu meo mensam, alleluia, alleluia.  
 
-Versiculus
+Versiculus  
 
 ***℣. Oculi omnium in te sperant, Domine, alleluia.***
 
 ℟. Et tu das escam illorum in tempore oportuno, alleluia.
-
-Ad sextam

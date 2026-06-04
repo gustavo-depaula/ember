@@ -76,108 +76,106 @@
 
 > **755**. ***Et factum est cum audisset*** etc. In parte ista ostendit quomodo Ezechias contra blasphemias humilitate et orationibus pugnavit, et circa hoc tria facit.
 
-Primo recitat quomodo adiit orationis locum, assumens humilitatis habitum: ***obvolutus est*** etc.; Jonae iii *surrexit de solio suo* etc.
+Primo recitat quomodo adiit orationis locum, assumens humilitatis habitum: ***obvolutus est*** etc.; Jonae iii *surrexit de solio suo* etc.  
 
-Secundo, non praesumens per se orationem Deo effundere, petit orationis suffragium per nuntios a propheta, ubi recitat nuntiorum missionem: ***et misit Eliacim*** etc., supra viii ***numquid non populus a Deo suo*** etc.
+Secundo, non praesumens per se orationem Deo effundere, petit orationis suffragium per nuntios a propheta, ubi recitat nuntiorum missionem: ***et misit Eliacim*** etc., supra viii ***numquid non populus a Deo suo*** etc.  
 
-Exponunt nuntii tribulationem*—*et debet sic legi ***et venerunt*** etc., ***et dixerunt ad eum**—*: ***dies tribulationis***, quam patimur in exterioribus persecutionibus, ***angustiae***, quantum ad cordis dolores, ***correctionis*** divinae, ***blasphemiae*** hostium; ***venerunt filii***, id est conceptiones consiliorum; ***pariendi***, explendi; vel: ita dolemus sicut parturientes, Soph. primo *dies irae dies ista* etc.; porrigunt petitionem*—*ut sic ordinetur ***leva ergo orationem*** etc., ***si quo modo*** etc.*—*, Jer. xlii *ora pro nobis ad Dominum Deum* etc.
+Exponunt nuntii tribulationem*—*et debet sic legi ***et venerunt*** etc., ***et dixerunt ad eum**—*: ***dies tribulationis***, quam patimur in exterioribus persecutionibus, ***angustiae***, quantum ad cordis dolores, ***correctionis*** divinae, ***blasphemiae*** hostium; ***venerunt filii***, id est conceptiones consiliorum; ***pariendi***, explendi; vel: ita dolemus sicut parturientes, Soph. primo *dies irae dies ista* etc.; porrigunt petitionem*—*ut sic ordinetur ***leva ergo orationem*** etc., ***si quo modo*** etc.*—*, Jer. xlii *ora pro nobis ad Dominum Deum* etc.  
 
-Tertio ponit prophetae responsum: ***et dixit ad eos***; in quo excludit regis timorem: ***ne timeas***, Jer. primo *ne timeas a facie* etc., et praedicit regis Senacherib mortem: ***ecce ego*** etc., Apoc. xiii *qui in gladio occiderit, in gladio* etc.
+Tertio ponit prophetae responsum: ***et dixit ad eos***; in quo excludit regis timorem: ***ne timeas***, Jer. primo *ne timeas a facie* etc., et praedicit regis Senacherib mortem: ***ecce ego*** etc., Apoc. xiii *qui in gladio occiderit, in gladio* etc.  
 
-**756**. ***Reversus est*** etc. Hic ponit reditum Rapsacis ad Senacherib. Et planum est.
+**756**. ***Reversus est*** etc. Hic ponit reditum Rapsacis ad Senacherib. Et planum est.  
 
-**757**. ***Et audivit de Terancha***. Hic recitat quomodo offendit eos comminando per epistolas; et circa hoc tria facit.
+**757**. ***Et audivit de Terancha***. Hic recitat quomodo offendit eos comminando per epistolas; et circa hoc tria facit.  
 
-Primo ponit superbam illius comminationem: ***et audivit de Terancha***, qui egressus in auxilium Aegyptiorum; ***quod cum audisset***, occurrit ei obviam dimittens Judaeam, et antequam recederet scripsit verba haec. Postmodum vadens et obsidens Pelusium in Aegypto, veniente rege Aethiopiae, noluit cum eo pugnare, dicens eum esse sacerdotem Plutonis, derisorie propter nigredinem; vel quia mures cordas arcuum corrodentes exercitum ejus inermem dimiserunt, supra x ***quomodo invenit manus*** etc.
+Primo ponit superbam illius comminationem: ***et audivit de Terancha***, qui egressus in auxilium Aegyptiorum; ***quod cum audisset***, occurrit ei obviam dimittens Judaeam, et antequam recederet scripsit verba haec. Postmodum vadens et obsidens Pelusium in Aegypto, veniente rege Aethiopiae, noluit cum eo pugnare, dicens eum esse sacerdotem Plutonis, derisorie propter nigredinem; vel quia mures cordas arcuum corrodentes exercitum ejus inermem dimiserunt, supra x ***quomodo invenit manus*** etc.  
 
-**758**. Secundo ponit Ezechiae orationem, praemittens receptionem epistolae. In qua oratione confitetur Dei potentiam per subjectionem angelorum: ***Domine Deus exercituum***, Job xxv *numquid est numerus* etc.; per cultum Judaeorum: ***Deus Israel, qui sedes super cherubim***, quia propitiatorium, quod erat quasi sedes Dei et etiam dabat responsa, erat super alas cherubim, Ps. *qui sedes super cherubim* etc.
+**758**. Secundo ponit Ezechiae orationem, praemittens receptionem epistolae. In qua oratione confitetur Dei potentiam per subjectionem angelorum: ***Domine Deus exercituum***, Job xxv *numquid est numerus* etc.; per cultum Judaeorum: ***Deus Israel, qui sedes super cherubim***, quia propitiatorium, quod erat quasi sedes Dei et etiam dabat responsa, erat super alas cherubim, Ps. *qui sedes super cherubim* etc.  
 
-**759**. Sed cum tabernaculum sit dispositum secundum exemplar caelestis Ecclesiae, ut sumitur Exo. xxv, videtur quod male dicatur sedere super cherubim, sed magis super thronos.
+**759**. Sed cum tabernaculum sit dispositum secundum exemplar caelestis Ecclesiae, ut sumitur Exo. xxv, videtur quod male dicatur sedere super cherubim, sed magis super thronos.  
 
-Et ad hoc dicendum quod sedet super cherubim, id est trans, quia super seraphim qui sunt ultra eos. Vel secundum Gregorium et Dionysium, nihil possidetur ibi singulariter, sed quod est inferiorum attribuitur etiam superioribus eminenter: unde proprietatem thronorum etiam eminentius habent cherubim. Vel dicendum quod sedet super thronos sicut super sedem judicii, super cherubim sicut supra cathedram magistri, quia interpretantur fusio scientiae: et ideo congrue inde dicebantur dare responsa.
+Et ad hoc dicendum quod sedet super cherubim, id est trans, quia super seraphim qui sunt ultra eos. Vel secundum Gregorium et Dionysium, nihil possidetur ibi singulariter, sed quod est inferiorum attribuitur etiam superioribus eminenter: unde proprietatem thronorum etiam eminentius habent cherubim. Vel dicendum quod sedet super thronos sicut super sedem judicii, super cherubim sicut supra cathedram magistri, quia interpretantur fusio scientiae: et ideo congrue inde dicebantur dare responsa.  
 
-**760**. Etiam ostendit Dei potentiam per dispositionem regnorum: ***tu es Deus solus*** etc., Dan. v *donec cognosceret quod potestatem habet* etc.; probat etiam per productionem creaturarum: ***tu fecisti*** etc., Ps. *qui fecit caelum* etc.; accusat etiam Senacherib blasphemiam: ***inclina Domine*** etc., Judith vi *Domine Deus caeli* etc.; probans cum hoc blasphemiae stultitiam: ***vere enim Domine*** etc., Ps. *simulacra gentium* etc. Petit etiam tertio in hac oratione salutis misericordiam: ***et nunc Domine*** etc., Judith x *omnes gentes cognoscant* etc.
+**760**. Etiam ostendit Dei potentiam per dispositionem regnorum: ***tu es Deus solus*** etc., Dan. v *donec cognosceret quod potestatem habet* etc.; probat etiam per productionem creaturarum: ***tu fecisti*** etc., Ps. *qui fecit caelum* etc.; accusat etiam Senacherib blasphemiam: ***inclina Domine*** etc., Judith vi *Domine Deus caeli* etc.; probans cum hoc blasphemiae stultitiam: ***vere enim Domine*** etc., Ps. *simulacra gentium* etc. Petit etiam tertio in hac oratione salutis misericordiam: ***et nunc Domine*** etc., Judith x *omnes gentes cognoscant* etc.  
 
-**761**. Tertio propheta promittit orationis exauditionem per nuntios: ***et misit Isaias*** etc.; et circa hoc duo facit:
+**761**. Tertio propheta promittit orationis exauditionem per nuntios: ***et misit Isaias*** etc.; et circa hoc duo facit:  
 
-primo promittit hostium destructionem,
+primo promittit hostium destructionem,  
 
-secundo civitatis liberationem: ***propterea haec dicit*** etc.
+secundo civitatis liberationem: ***propterea haec dicit*** etc.  
 
-Circa primum tria:
+Circa primum tria:  
 
-primo comminatur ei destructionis interitum,
+primo comminatur ei destructionis interitum,  
 
-secundo ponit signum: ***tibi autem hoc erit*** etc.,
+secundo ponit signum: ***tibi autem hoc erit*** etc.,  
 
-tertio ostendit destructionis fructum: ***et emittet id quod salvatum*** etc.
+tertio ostendit destructionis fructum: ***et emittet id quod salvatum*** etc.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo comminatur poenam confusionis contra contemptum Judaeorum: ***despexit*** etc., quando tibi noluit respondere; ***movebit***, in futuro, quando aliis occisis cum paucis fugies, supra xxxii ***qui spernis alias*** etc., Job xxii *videbunt justi* etc.
+Primo comminatur poenam confusionis contra contemptum Judaeorum: ***despexit*** etc., quando tibi noluit respondere; ***movebit***, in futuro, quando aliis occisis cum paucis fugies, supra xxxii ***qui spernis alias*** etc., Job xxii *videbunt justi* etc.  
 
-Secundo comminatur poenam destructionis contra culpam quam in Deum commiserat; et circa hoc tria facit:
+Secundo comminatur poenam destructionis contra culpam quam in Deum commiserat; et circa hoc tria facit:  
 
-primo proponit culpam,
+primo proponit culpam,  
 
-secundo assumit divinam potentiam: ***numquid non audisti*** etc.,
+secundo assumit divinam potentiam: ***numquid non audisti*** etc.,  
 
-tertio concludit poenam: ***ponam ergo*** etc.
+tertio concludit poenam: ***ponam ergo*** etc.  
 
-**762**. Circa primum arguit ipsum de duobus peccatis.
+**762**. Circa primum arguit ipsum de duobus peccatis.  
 
-Primo de blasphemia: ***cui exprobrasti***, verba Ezechiae ad Senacherib, quasi: non mihi sed Deo, infra lvii ***super quem lusistis*** etc.
+Primo de blasphemia: ***cui exprobrasti***, verba Ezechiae ad Senacherib, quasi: non mihi sed Deo, infra lvii ***super quem lusistis*** etc.  
 
-Secundo arguit ipsum de superbia quam conceperat ex magnitudine rerum factarum: ***et dixisti**: **in multitudine***, quasi mea et non Dei virtute, ***juga Libani***, summitates montium, id est potentum, Deut. xxxii *manus nostra excelsa* etc.; ex magnitudine propositorum: ***et succidam excelsa***, potentes in Judaeis, ***altitudinem***, domum Domini, ***saltum***, populum, Zach. xi *aperi Libane portas* etc.; ex multitudine pugnatorum: ***ego fodi***, quasi: tantum habeo exercitum quod non sufficit mihi aqua quam invenio, nisi puteos fodiam; vel metaphorice: consolationes omnium gentium ego siccavi, Joelis secundo *quasi hortus voluptatis* etc.
+Secundo arguit ipsum de superbia quam conceperat ex magnitudine rerum factarum: ***et dixisti**: **in multitudine***, quasi mea et non Dei virtute, ***juga Libani***, summitates montium, id est potentum, Deut. xxxii *manus nostra excelsa* etc.; ex magnitudine propositorum: ***et succidam excelsa***, potentes in Judaeis, ***altitudinem***, domum Domini, ***saltum***, populum, Zach. xi *aperi Libane portas* etc.; ex multitudine pugnatorum: ***ego fodi***, quasi: tantum habeo exercitum quod non sufficit mihi aqua quam invenio, nisi puteos fodiam; vel metaphorice: consolationes omnium gentium ego siccavi, Joelis secundo *quasi hortus voluptatis* etc.  
 
-**763**. ***Numquid non audisti*** etc. Hic assumit divinam potentiam, loquens in persona ipsius Dei.
+**763**. ***Numquid non audisti*** etc. Hic assumit divinam potentiam, loquens in persona ipsius Dei.  
 
-Et primo quantum ad aeternam praeordinationem: ***quae olim***, ab aeterno, ***fecerim***, proposuerim facere et de exaltatione et de destructione, ***illud*** malum poenae quod per ipsum infertur praevidi et praeordinavi, Eccli. xxiii *Domino Deo nostro antequam* etc.
+Et primo quantum ad aeternam praeordinationem: ***quae olim***, ab aeterno, ***fecerim***, proposuerim facere et de exaltatione et de destructione, ***illud*** malum poenae quod per ipsum infertur praevidi et praeordinavi, Eccli. xxiii *Domino Deo nostro antequam* etc.  
 
-Secundo quantum ad aeterni propositi temporalem executionem: ***et nunc adduxi**; **collium***, principum, ***compugnantium*** ad invicem; ***breviata***, id est retracta, ***manu*** mea ab auxilio eorum, vel diminuta manu ipsorum a sui auxilio, Ps. *fiant sicut fenum tectorum* etc.
+Secundo quantum ad aeterni propositi temporalem executionem: ***et nunc adduxi**; **collium***, principum, ***compugnantium*** ad invicem; ***breviata***, id est retracta, ***manu*** mea ab auxilio eorum, vel diminuta manu ipsorum a sui auxilio, Ps. *fiant sicut fenum tectorum* etc.  
 
-Tertio quantum ad omnium factorum cognitionem: ***habitationem***, id est sedem regni, ***introitum*** in terram Judaeorum, Job xxxiv *oculi ejus super vias* etc.
+Tertio quantum ad omnium factorum cognitionem: ***habitationem***, id est sedem regni, ***introitum*** in terram Judaeorum, Job xxxiv *oculi ejus super vias* etc.  
 
-**764**. ***Ponam ergo***. Hic concludit poenam: ***circulum***, sicut bubalo, ***frenum***, sicut equo, id est potentia divinitatis meae refrenando, Job xxx *pharetram suam aperuit* etc.
+**764**. ***Ponam ergo***. Hic concludit poenam: ***circulum***, sicut bubalo, ***frenum***, sicut equo, id est potentia divinitatis meae refrenando, Job xxx *pharetram suam aperuit* etc.  
 
-**765**. ***Tibi autem***. Hic ponit signum. Venerat autem exercitus Assyriorum imminente messe, unde fructus non potuerunt tunc recolligere, et fuerunt in terra usque post tempus seminationis, unde nec seminare potuerunt. Sic ergo eis dicitur quod illa anni parte residua, eunte Senacherib in Aegyptum, comedant; comedant ***quae sponte nascuntur***, scilicet ex granis conculcatis ungulis equorum et quadrigis; vel quaecumque repereris, ut xx Regum quarti libri, in horreis prius ad obsidionem congregata; vel ***quae severas*** secundum LXX, id est quae remanserunt conculcata in agris. ***Et in secundo anno***, adhuc existente eo in Aegypto—quia per annum stetit—, quia nihil recolliges cum nihil seminaveris, ***pomis vescere***. Vel ***quae sponte nascuntur***, ut in libro Regum ibidem, et in illo secundo anno destruetur Assyrius; et sic in tertio anno habebis liberam potestatem seminandi et congregandi. Vel, secundum Andream, hoc est consilium, et ***hoc erit signum*** refertur ad praecedentia.
+**765**. ***Tibi autem***. Hic ponit signum. Venerat autem exercitus Assyriorum imminente messe, unde fructus non potuerunt tunc recolligere, et fuerunt in terra usque post tempus seminationis, unde nec seminare potuerunt. Sic ergo eis dicitur quod illa anni parte residua, eunte Senacherib in Aegyptum, comedant; comedant ***quae sponte nascuntur***, scilicet ex granis conculcatis ungulis equorum et quadrigis; vel quaecumque repereris, ut xx Regum quarti libri, in horreis prius ad obsidionem congregata; vel ***quae severas*** secundum LXX, id est quae remanserunt conculcata in agris. ***Et in secundo anno***, adhuc existente eo in Aegypto—quia per annum stetit—, quia nihil recolliges cum nihil seminaveris, ***pomis vescere***. Vel ***quae sponte nascuntur***, ut in libro Regum ibidem, et in illo secundo anno destruetur Assyrius; et sic in tertio anno habebis liberam potestatem seminandi et congregandi. Vel, secundum Andream, hoc est consilium, et ***hoc erit signum*** refertur ad praecedentia.  
 
-**766**. ***Et emittet***. Hic ponit destructionis fructum,
+**766**. ***Et emittet***. Hic ponit destructionis fructum,  
 
-primo ponens similitudinem arboris quae multos fructus affert, si in terra profundat radices, Jer. xvii *erit quasi lignum* etc.;
+primo ponens similitudinem arboris quae multos fructus affert, si in terra profundat radices, Jer. xvii *erit quasi lignum* etc.;  
 
-secundo ponit expositionem: ***quia de Jerusalem***, infra xlvj ***dabo in Sion*** etc.; tertio assignat rationem: ***zelus enim*** etc., supra ix idem.
+secundo ponit expositionem: ***quia de Jerusalem***, infra xlvj ***dabo in Sion*** etc.; tertio assignat rationem: ***zelus enim*** etc., supra ix idem.  
 
-**767**. ***Propterea haec dicit***. Hic promittit liberationem: ***non intrabit*** sicut proposuit, supra viii ***inite consilium*** etc.; et assignat rationem: ***et protegam**, **propter me***, infra xlviii ***propter me faciam*** etc., ***et propter David***, Ps. *propter David servum tuum* etc.
+**767**. ***Propterea haec dicit***. Hic promittit liberationem: ***non intrabit*** sicut proposuit, supra viii ***inite consilium*** etc.; et assignat rationem: ***et protegam**, **propter me***, infra xlviii ***propter me faciam*** etc., ***et propter David***, Ps. *propter David servum tuum* etc.  
 
-**768**. ***Egressus est autem*** etc. Hic ponit poenam quam a Deo sustinuit.
+**768**. ***Egressus est autem*** etc. Hic ponit poenam quam a Deo sustinuit.  
 
-Et primo quantum ad exercitus occisionem: ***et percussit***, supra xxxiii ***a voce angeli*** etc.;
+Et primo quantum ad exercitus occisionem: ***et percussit***, supra xxxiii ***a voce angeli*** etc.;  
 
-secundo quantum ad residuorum perturbationem et fugam: ***et surrexerunt***, supra xvii ***ecce turbatio*** etc.;
+secundo quantum ad residuorum perturbationem et fugam: ***et surrexerunt***, supra xvii ***ecce turbatio*** etc.;  
 
-tertio quantum ad ipsius occisionem: ***et factum est cum adoraret, Adramelech et Sarasar***, primogeniti invidentes fratri minori, quem substituere volebant ex alia matre natum. Et sic *justus de angustia* etc.
+tertio quantum ad ipsius occisionem: ***et factum est cum adoraret, Adramelech et Sarasar***, primogeniti invidentes fratri minori, quem substituere volebant ex alia matre natum. Et sic *justus de angustia* etc.  
 
-**769**. Levatur oratio
+**769**. Levatur oratio  
 
-per eminentiam contemplationis, Ps. *levavi oculos meos* etc.;
+per eminentiam contemplationis, Ps. *levavi oculos meos* etc.;  
 
-per fervorem affectionis, Thren. iii *levemus corda nostra* etc.;
+per fervorem affectionis, Thren. iii *levemus corda nostra* etc.;  
 
-per lacrimas compunctionis, Ps. *levabo per singulas noctes*, Ioelis primo *levate fletum* etc.;
+per lacrimas compunctionis, Ps. *levabo per singulas noctes*, Ioelis primo *levate fletum* etc.;  
 
-per studium bonae operationis, Ps. *elevatio manuum mearum* etc.
+per studium bonae operationis, Ps. *elevatio manuum mearum* etc.  
 
-**770**. Frenum
+**770**. Frenum  
 
-humanae discretionis, Iac. iii *si quis in verbo non offendit* etc.;
+humanae discretionis, Iac. iii *si quis in verbo non offendit* etc.;  
 
-divinae gubernationis, infra xlviii ***infrenabo te laude mea*** etc.;
+divinae gubernationis, infra xlviii ***infrenabo te laude mea*** etc.;  
 
-diabolicae deceptionis, supra xxx ***frenum erroris*** etc.;
+diabolicae deceptionis, supra xxx ***frenum erroris*** etc.;  
 
-temporalis afflictionis, Iob xxx *pharetram suam* etc.;
+temporalis afflictionis, Iob xxx *pharetram suam* etc.;  
 
 aeternae damnationis, Ps. *in freno et camo maxillas* etc.
-
-Caput 38

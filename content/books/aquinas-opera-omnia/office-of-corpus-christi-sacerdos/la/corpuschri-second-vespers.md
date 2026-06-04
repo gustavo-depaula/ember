@@ -1,16 +1,17 @@
 # Second Vespers
 
-[℣. Deus in adiutorium meum intende.℟. Domine, ad adiuvandum me festina.
+[℣. Deus in adiutorium meum intende.  
+℟. Domine, ad adiuvandum me festina.  
 
-Gloria Patri, et Filio, * et Spiritui Sancto.
+Gloria Patri, et Filio, * et Spiritui Sancto.  
 
-Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]
+Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]  
 
-{image 001}
+{image 001}  
 
-*Antiphona*. Sacerdos in aeternum Christus Dominus secundum ordinem Melchisedech panem et vinum obtulit.
+*Antiphona*. Sacerdos in aeternum Christus Dominus secundum ordinem Melchisedech panem et vinum obtulit.  
 
-Contra *Gloria tibi Trinitas* de Trinitate.
+Contra *Gloria tibi Trinitas* de Trinitate.  
 
 ***Psalmus 109***
 
@@ -36,9 +37,9 @@ Contra *Gloria tibi Trinitas* de Trinitate.
 
 > {image 002}
 
-*Antiphona*. Miserator Dominus escam dedit timentibus se in memoriam suorum mirabilium.
+*Antiphona*. Miserator Dominus escam dedit timentibus se in memoriam suorum mirabilium.  
 
-Contra *Totus orbis* de sancto Thoma.
+Contra *Totus orbis* de sancto Thoma.  
 
 ***Psalmus 110***
 
@@ -68,9 +69,9 @@ Contra *Totus orbis* de sancto Thoma.
 
 > {image 003}
 
-*Antiphona*. Calicem salutaris accipiam et sacrificabo hostiam laudis.
+*Antiphona*. Calicem salutaris accipiam et sacrificabo hostiam laudis.  
 
-Contra *Pudore bono* de sancto Nicholao.
+Contra *Pudore bono* de sancto Nicholao.  
 
 ***Psalmus 115***
 
@@ -96,9 +97,9 @@ Contra *Pudore bono* de sancto Nicholao.
 
 > {image 004}
 
-*Antiphona*. Sicut novellae olivarum Ecclesiae filii sint in circuitu mensae Domini.
+*Antiphona*. Sicut novellae olivarum Ecclesiae filii sint in circuitu mensae Domini.  
 
-Contra *Iuste et sancte vivendo* de sancto Nicholao.
+Contra *Iuste et sancte vivendo* de sancto Nicholao.  
 
 ***Psalmus 127***
 
@@ -122,9 +123,9 @@ Contra *Iuste et sancte vivendo* de sancto Nicholao.
 
 > {image 005}
 
-*Antiphona*. Qui pacem ponit fines Ecclesiae; frumenti adipe satiat nos Dominus.
+*Antiphona*. Qui pacem ponit fines Ecclesiae; frumenti adipe satiat nos Dominus.  
 
-Contra *Innocenter puerilia iura* de sancto Nicholao.
+Contra *Innocenter puerilia iura* de sancto Nicholao.  
 
 ***Psalmus 147***
 
@@ -160,42 +161,72 @@ Contra *Innocenter puerilia iura* de sancto Nicholao.
 
 ***{image 023}***
 
-℟. Respexit Elias ad caput suum subcinericium panem qui surgens comedit et bibit. * Et ambulavit in fortitudine cibi illius usque * ad montem Dei.
+℟. Respexit Elias ad caput suum subcinericium panem qui surgens comedit et bibit. * Et ambulavit in fortitudine cibi illius usque * ad montem Dei.  
 
-℣. Si quis manducaverit ex hoc pane vivet in aeternum. * Et ambulavit in fortitudine cibi illius usque. Gloria Patri et Filio et Spiritui Sancto. * Ad montem Dei.
+℣. Si quis manducaverit ex hoc pane vivet in aeternum. * Et ambulavit in fortitudine cibi illius usque. Gloria Patri et Filio et Spiritui Sancto. * Ad montem Dei.  
 
-Hymnus
+Hymnus  
 
 ***Pange lingua gloriosi corporis mysterium***
 
 ***{image 008}***
 
-Pange lingua gloriosiCorporis mysteriumSanguinisque pretiosi,quem in mundi pretiumfructus ventris generosiRex effudit gentium.
+Pange lingua gloriosi  
+Corporis mysterium  
+Sanguinisque pretiosi,  
+quem in mundi pretium  
+fructus ventris generosi  
+Rex effudit gentium.  
 
-- Nobis datus, nobis natusex intacta Virgine,et in mundo conversatus,sparso verbi semine,sui moras incolatusmiro clausit ordine.
-- In supremae nocte cenaerecumbens cum fratribus,observata lege plenecibis in legalibus,cibum turbae duodenaese dat suis manibus.
-- Verbum caro, panem verumverbo Carnem efficit,fitque Sanguis Christi merum,et si sensus deficit,ad firmandum cor sincerumsola fides sufficit.
-- Tantum ergo sacramentumveneremur cernui:et antiquum documentumnovo cedat ritui,praestet fides supplementumsensuum defectui.
-- Genitori, Genitoquelaus et iubilatio,salus, honor, virtus quoquesit et benedictio,procedentis ab utroquecompar sit laudatio. Amen.
+- Nobis datus, nobis natus  
+  ex intacta Virgine,  
+  et in mundo conversatus,  
+  sparso verbi semine,  
+  sui moras incolatus  
+  miro clausit ordine.
+- In supremae nocte cenae  
+  recumbens cum fratribus,  
+  observata lege plene  
+  cibis in legalibus,  
+  cibum turbae duodenae  
+  se dat suis manibus.
+- Verbum caro, panem verum  
+  verbo Carnem efficit,  
+  fitque Sanguis Christi merum,  
+  et si sensus deficit,  
+  ad firmandum cor sincerum  
+  sola fides sufficit.
+- Tantum ergo sacramentum  
+  veneremur cernui:  
+  et antiquum documentum  
+  novo cedat ritui,  
+  praestet fides supplementum  
+  sensuum defectui.
+- Genitori, Genitoque  
+  laus et iubilatio,  
+  salus, honor, virtus quoque  
+  sit et benedictio,  
+  procedentis ab utroque  
+  compar sit laudatio. Amen.
 - Versiculus
 
 ***[Sap 16:20; Ps 77 (78):25 ]***
 
 ***secondvespers-versiculus***
 
-℣. Panem de caelo praestitisti eis, alleluia.
+℣. Panem de caelo praestitisti eis, alleluia.  
 
-℟. Panem angelorum manducavit homo, alleluia.
+℟. Panem angelorum manducavit homo, alleluia.  
 
-Magnificat
+Magnificat  
 
 ***Luc 1:46–55***
 
 ***{image 074}***
 
-*Ad Magnificat antiphona*. O sacrum convivium in quo Christus sumitur, recolitur memoria Passionis eius, mens impletur gratia, et futurae gloriae nobis pignus datur, alleluia.
+*Ad Magnificat antiphona*. O sacrum convivium in quo Christus sumitur, recolitur memoria Passionis eius, mens impletur gratia, et futurae gloriae nobis pignus datur, alleluia.  
 
-Contra *Benedictus Dominus Deus Patris nostri* de sancto Bernardo.
+Contra *Benedictus Dominus Deus Patris nostri* de sancto Bernardo.  
 
 ***Magnificat * anima mea Dominum:***
 
@@ -223,10 +254,14 @@ Contra *Benedictus Dominus Deus Patris nostri* de sancto Bernardo.
 
 > Oratio
 
-***[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.]***
+***[℣. Domine, exaudi orationem meam.***
+***℟. Et clamor meus ad te veniat.]***
 
-*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.
+*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.  
 
-[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.℣. Benedicamus Domino.℟. Deo gratias.℣. Fidelium animae per misericordiam Dei requiescant in pace.℟. Amen.]
-
-Ad Completorium
+[℣. Domine, exaudi orationem meam.  
+℟. Et clamor meus ad te veniat.  
+℣. Benedicamus Domino.  
+℟. Deo gratias.  
+℣. Fidelium animae per misericordiam Dei requiescant in pace.  
+℟. Amen.]

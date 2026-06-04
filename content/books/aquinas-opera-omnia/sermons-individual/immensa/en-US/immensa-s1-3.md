@@ -1,3 +1,1 @@
 # Immensa.S1.3
-
-No one suffices to express the delicacy of this kind of sacrament, through which spiritual sweetness is tasted in its source, and the memory of the most excellent charity, which Christ showed in his Passion, is recalled. Whereby, so that the immensity of this kind of charity might be impressed more profoundly on the hearts of the faithful, at the Last Supper, when, having celebrated the Passover with his disciples, he was about to leave this world and return to the Father, he instituted this sacrament as an eternal remembrance of his Passion, the fulfillment of ancient precursors, the greatest of the miracles performed by him, and sole solace to those saddened by his absence.

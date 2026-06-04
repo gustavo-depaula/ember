@@ -20,43 +20,43 @@
 
 > **204**. Hic ponitur instructio reliquiarum populi, post ipsius populi captivitatem. Et dividitur in tres partes.
 
-In prima ponitur captivatio;
+In prima ponitur captivatio;  
 
-in secunda reliquiarum conservatio, cap. 40: ***sermo qui factus est ad Jeremiam a Domino***;
+in secunda reliquiarum conservatio, cap. 40: ***sermo qui factus est ad Jeremiam a Domino***;  
 
-tertio reliquiarum instructio, cap. 42: ***et accesserunt omnes principes bellatorum***.
+tertio reliquiarum instructio, cap. 42: ***et accesserunt omnes principes bellatorum***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur populi captivatio;
+Primo ponitur populi captivatio;  
 
-secundo quorumdam liberatio, ibi, ***et de plebe pauperum qui nihil penitus habebant***.
+secundo quorumdam liberatio, ibi, ***et de plebe pauperum qui nihil penitus habebant***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponit obsidionem, ***et obsidebant***. Isa. 29: *circumdabo quasi sphaeram in circuitu tuo, et jaciam contra te aggerem, et munimenta ponam in obsidionem tuam*.
+Primo ponit obsidionem, ***et obsidebant***. Isa. 29: *circumdabo quasi sphaeram in circuitu tuo, et jaciam contra te aggerem, et munimenta ponam in obsidionem tuam*.  
 
-Secundo ponit captionem urbis: ***undecimo anno, mense quarto***, scilicet Julio. Tamen combusta est mense quinto, septima die mensis: sicut habetur 2 Reg. ult.: *quinta mensis*. Contra 2 Reg. ult. dicitur, quod nona mensis. Et potuit esse quod quinta die coeperunt homines fugere prae fame; et nona, civitas aperta est, custodibus ablatis. Et quia primo ceperunt antemurale; et tunc habebant urbem quasi captam; et postea ceperunt urbem:
+Secundo ponit captionem urbis: ***undecimo anno, mense quarto***, scilicet Julio. Tamen combusta est mense quinto, septima die mensis: sicut habetur 2 Reg. ult.: *quinta mensis*. Contra 2 Reg. ult. dicitur, quod nona mensis. Et potuit esse quod quinta die coeperunt homines fugere prae fame; et nona, civitas aperta est, custodibus ablatis. Et quia primo ceperunt antemurale; et tunc habebant urbem quasi captam; et postea ceperunt urbem:  
 
-unde sequitur: ***sederunt in porta media***, idest in medio duorum murorum; vel quae erat inter duas portas ex eadem parte civitatis. Supra 1: ***ponet unusquisque solium suum in introitu portarum Jerusalem, et super muros ejus in circuitu, et super universas urbes Juda***.
+unde sequitur: ***sederunt in porta media***, idest in medio duorum murorum; vel quae erat inter duas portas ex eadem parte civitatis. Supra 1: ***ponet unusquisque solium suum in introitu portarum Jerusalem, et super muros ejus in circuitu, et super universas urbes Juda***.  
 
-Ponit etiam captionem regis designans fugam: ***cumque vidisset eos Sedecias rex Juda, et omnes viri bellatores, fugerunt, et egressi sunt nocte de civitate per viam horti regis, et per portam quae erat inter duos muros***, qui conjungebantur muro civitatis juxta domum regis, et cingebant hortum regium, inter quos erat et via, et porta secundum aequidistantiam ab utroque. Thren. 1: *facti sunt principes ejus velut arietes non invenientes pascua, abierunt absque fortitudine ante faciem subsequentis*.
+Ponit etiam captionem regis designans fugam: ***cumque vidisset eos Sedecias rex Juda, et omnes viri bellatores, fugerunt, et egressi sunt nocte de civitate per viam horti regis, et per portam quae erat inter duos muros***, qui conjungebantur muro civitatis juxta domum regis, et cingebant hortum regium, inter quos erat et via, et porta secundum aequidistantiam ab utroque. Thren. 1: *facti sunt principes ejus velut arietes non invenientes pascua, abierunt absque fortitudine ante faciem subsequentis*.  
 
-Et subjungit captionem: ***persecutus est autem eos exercitus Chaldaeorum***. Thren. 4: *velociores fuerunt persecutores nostri aquilis caeli*.
+Et subjungit captionem: ***persecutus est autem eos exercitus Chaldaeorum***. Thren. 4: *velociores fuerunt persecutores nostri aquilis caeli*.  
 
-Tertio ponit captorum condemnationem:
+Tertio ponit captorum condemnationem:  
 
-et primo regis, et principum, in occisionem, ***et captum***, regem, ***adduxerunt ad Nabuchodonosor***, scilicet in sententiae pronuntiationem: ***et locutus est ad eum judicia***. Ezech. 10: *judicabo te judiciis adulterarum, et effundentium sanguinem*.
+et primo regis, et principum, in occisionem, ***et captum***, regem, ***adduxerunt ad Nabuchodonosor***, scilicet in sententiae pronuntiationem: ***et locutus est ad eum judicia***. Ezech. 10: *judicabo te judiciis adulterarum, et effundentium sanguinem*.  
 
-Et executionem sententiae principum, ***et occidit***. Sap. 6: *potentes potenter tormenta patientur*.
+Et executionem sententiae principum, ***et occidit***. Sap. 6: *potentes potenter tormenta patientur*.  
 
-Et oculorum caecitatem: ***oculos quoque Sedeciae eruit . . . ut duceretur in Babylonem***. 4 Reg. 25, idem.
+Et oculorum caecitatem: ***oculos quoque Sedeciae eruit . . . ut duceretur in Babylonem***. 4 Reg. 25, idem.  
 
-Secundo condemnationem urbis in destructionem: ***domum quoque regis, et domum vulgi succenderunt Chaldaei igni***. Thren. 2: *praecipitavit omnia moenia ejus dissipavit munitiones ejus*.
+Secundo condemnationem urbis in destructionem: ***domum quoque regis, et domum vulgi succenderunt Chaldaei igni***. Thren. 2: *praecipitavit omnia moenia ejus dissipavit munitiones ejus*.  
 
-Tertio condemnationem plebis in transmigrationem: ***et reliquias populi transtulit Nabuzardan magister militum in Babylonem***. Baruch. 4: *delicati mei ambulaverunt vias asperas: ducti sunt enim ut grex directus ab inimicis*.
+Tertio condemnationem plebis in transmigrationem: ***et reliquias populi transtulit Nabuzardan magister militum in Babylonem***. Baruch. 4: *delicati mei ambulaverunt vias asperas: ducti sunt enim ut grex directus ab inimicis*.  
 
-Lectio 2
+Lectio 2  
 
 ***^39:10^ Et de plebe pauperum qui nihil penitus habebant dimisit Nabuzardan magister militae in terra Juda, et dedit eis vineas, et cisternas in die illa.***
 
@@ -78,16 +78,14 @@ Lectio 2
 
 > **205**. Hic ponit quorumdam liberationem.
 
-Primo ***pauperum qui nihil penitus habebant . . . et dedit eis vineas, et cisternas***, quia terra penuriam in aquis patitur. Supra 5: ***verumtamen in diebus illis, ait Dominus, non faciam vos in consummationem***.
+Primo ***pauperum qui nihil penitus habebant . . . et dedit eis vineas, et cisternas***, quia terra penuriam in aquis patitur. Supra 5: ***verumtamen in diebus illis, ait Dominus, non faciam vos in consummationem***.  
 
-Secundo liberationem justorum.
+Secundo liberationem justorum.  
 
-Primo prophetae, ponens jussionem: ***praeceperat***, et executionem: ***misit ergo in domum***, suam. Proverb. 11: *justus de angustia liberatus est et tradetur impius pro eo*. Ibid. 10: *quod timet impius, veniet super eum, desiderium suum justis dabitur*. Et cap. 16: *cum placuerint Domino viae hominis, etiam inimicos ejus convertet ad pacem*.
+Primo prophetae, ponens jussionem: ***praeceperat***, et executionem: ***misit ergo in domum***, suam. Proverb. 11: *justus de angustia liberatus est et tradetur impius pro eo*. Ibid. 10: *quod timet impius, veniet super eum, desiderium suum justis dabitur*. Et cap. 16: *cum placuerint Domino viae hominis, etiam inimicos ejus convertet ad pacem*.  
 
-Secundo liberationem eunuchi: ***ad Jeremiam autem factus fuerat sermo Domini***.
+Secundo liberationem eunuchi: ***ad Jeremiam autem factus fuerat sermo Domini***.  
 
-Et primo promittit liberationem ab hostium dominio: ***et non traderis***. Sap. 10: *custodivit illum ab inimicis, et a seductoribus tutavit illum*.
+Et primo promittit liberationem ab hostium dominio: ***et non traderis***. Sap. 10: *custodivit illum ab inimicis, et a seductoribus tutavit illum*.  
 
 Secundo ab occisionis gladio: ***et gladio non cades***. Psal. 90: *cadent a latere tuo mille, et decem millia a dextris tuis, ad te autem non appropinquabit*. Supra 17: ***benedictus vir qui confidit in Domino, et erit Dominus fiducia ejus***. Eccl. 2: *crede Deo, et recuperabit te, et dirige viam tuam, et spera in illum*.
-
-Caput 40

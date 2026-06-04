@@ -50,126 +50,124 @@
 
 > **817**. ***Ecce servus meus*** etc. Hic ostendit divinam dilectionem ex filio quem promisit, Jo. iii *sic Deus dilexit mundum* etc.
 
-Et primo ex tanto beneficio ostendit Dei dilectionem,
+Et primo ex tanto beneficio ostendit Dei dilectionem,  
 
-secundo Judaeorum perversitatem: ***haec verba feci eis*** etc.
+secundo Judaeorum perversitatem: ***haec verba feci eis*** etc.  
 
-Circa primum tria;
+Circa primum tria;  
 
-primo praedicit Filii Dei adventum,
+primo praedicit Filii Dei adventum,  
 
-secundo malorum casum: ***Dominus sicut fortis*** etc.,
+secundo malorum casum: ***Dominus sicut fortis*** etc.,  
 
-tertio resurrectionem bonorum: ***et educam caecos*** etc., Lucae ii *ecce hic positus est* etc.
+tertio resurrectionem bonorum: ***et educam caecos*** etc., Lucae ii *ecce hic positus est* etc.  
 
-Circa primum tria:
+Circa primum tria:  
 
-primo describit mittendi conditionem,
+primo describit mittendi conditionem,  
 
-secundo praedicit missionem: ***haec dicit Dominus*** etc.,
+secundo praedicit missionem: ***haec dicit Dominus*** etc.,  
 
-tertio invitat ad gratiarum actionem: ***cantate Domino*** etc.
+tertio invitat ad gratiarum actionem: ***cantate Domino*** etc.  
 
-**818**. Circa primum tria.
+**818**. Circa primum tria.  
 
-Primo ostendit gratiae plenitudinem quantum ad gratiam unionis: ***suscipiam eum**; **servus*** secundum humanam naturam, Lucae primo *suscepit Israel* etc.; quantum ad gratiam capitis: ***electus*** ut sit caput Ecclesiae, *ex millibus*, Cant. v, Ps. *beatus quem elegisti et assumpsisti* etc*.; **complacuit***, Mt. iii *hic est Filius meus* etc.; quantum ad gratiam habitualem quae fuit in ipso singularis: ***dedi spiritum meum***, supra xi ***requiescet super eum spiritus Domini*** etc.
+Primo ostendit gratiae plenitudinem quantum ad gratiam unionis: ***suscipiam eum**; **servus*** secundum humanam naturam, Lucae primo *suscepit Israel* etc.; quantum ad gratiam capitis: ***electus*** ut sit caput Ecclesiae, *ex millibus*, Cant. v, Ps. *beatus quem elegisti et assumpsisti* etc*.; **complacuit***, Mt. iii *hic est Filius meus* etc.; quantum ad gratiam habitualem quae fuit in ipso singularis: ***dedi spiritum meum***, supra xi ***requiescet super eum spiritus Domini*** etc.  
 
-**819**. Secundo ostendit judicii aequitatem quantum ad tria:
+**819**. Secundo ostendit judicii aequitatem quantum ad tria:  
 
-scilicet judicandi auctoritatem: ***judicium gentibus*** etc., Ps. *Deus, judicium tuum* etc., Jo. v *omne judicium dedit* etc.; cui adjungit mansuetudinem: ***non clamabit***, Eccles. ix *verba sapientis audiuntur* etc.
+scilicet judicandi auctoritatem: ***judicium gentibus*** etc., Ps. *Deus, judicium tuum* etc., Jo. v *omne judicium dedit* etc.; cui adjungit mansuetudinem: ***non clamabit***, Eccles. ix *verba sapientis audiuntur* etc.  
 
-Ostendit secundo judicis aequalitatem: ***neque accipiet personam***, Ac. x *non est personarum acceptor Deus*; cui adjungit pietatem in subveniendo: ***nec audietur foris***, Judaeam, ***vox*** praedicationis ejus, ut prius subveniret illis ad quos missus erat, *non sum missus* etc., Mt. xv, Ps. *hodie si vocem ejus* etc.; et in dissimulando: ***calamum***, scilicet regnum Judaeorum, ***linum***, sacerdotium, Ez. xxxiv *quod confractum fuerat* etc.
+Ostendit secundo judicis aequalitatem: ***neque accipiet personam***, Ac. x *non est personarum acceptor Deus*; cui adjungit pietatem in subveniendo: ***nec audietur foris***, Judaeam, ***vox*** praedicationis ejus, ut prius subveniret illis ad quos missus erat, *non sum missus* etc., Mt. xv, Ps. *hodie si vocem ejus* etc.; et in dissimulando: ***calamum***, scilicet regnum Judaeorum, ***linum***, sacerdotium, Ez. xxxiv *quod confractum fuerat* etc.  
 
-Ostendit etiam tertio judicii veritatem: ***in veritate*** etc., Ps. *judicabit orbem terrae* etc., cui adjungit jucunditatem: ***non erit tristis*** in corde, ***turbulentus*** in facie; semper hilaris jucundusque fuit, aequalitatem mentis servans, etsi quantum ad partem sensibilem fuerit propassio tristitiae, non quidem necessitatis sed voluntatis, unde Mt. xxvj *tristis anima mea* etc., Eccli. xxx *jucunditas cordis* etc.
+Ostendit etiam tertio judicii veritatem: ***in veritate*** etc., Ps. *judicabit orbem terrae* etc., cui adjungit jucunditatem: ***non erit tristis*** in corde, ***turbulentus*** in facie; semper hilaris jucundusque fuit, aequalitatem mentis servans, etsi quantum ad partem sensibilem fuerit propassio tristitiae, non quidem necessitatis sed voluntatis, unde Mt. xxvj *tristis anima mea* etc., Eccli. xxx *jucunditas cordis* etc.  
 
-**820**. Tertio ostendit dominii potestatem: ***donec ponat*** judicium ultimum, vel praeceptum suum praedicantibus apostolis, ***legem***, evangelium, Gen. ult. *ipse erit expectatio* etc., infra lx ***me enim insulae expectant*** etc. Alii exponunt hoc de Dario rege Persarum, qui mansuetus, justus et quietus fuit, quem Dominus elegit ad liberandum Judaeos.
+**820**. Tertio ostendit dominii potestatem: ***donec ponat*** judicium ultimum, vel praeceptum suum praedicantibus apostolis, ***legem***, evangelium, Gen. ult. *ipse erit expectatio* etc., infra lx ***me enim insulae expectant*** etc. Alii exponunt hoc de Dario rege Persarum, qui mansuetus, justus et quietus fuit, quem Dominus elegit ad liberandum Judaeos.  
 
-**821**. ***Haec dicit Dominus Deus*** etc. Hic praedicit missionem.
+**821**. ***Haec dicit Dominus Deus*** etc. Hic praedicit missionem.  
 
-Et primo ostendit mittentis potestatem quantum ad creationem caelestium: ***creans caelos***, quantum ad dispositionem terrestrium: ***firmans terram***, quantum ad animationem viventium: ***dans flatum***, naturalis vitae, ***spiritum***, gratuite, Zach. xii *Dominus extendens caelum* etc.
+Et primo ostendit mittentis potestatem quantum ad creationem caelestium: ***creans caelos***, quantum ad dispositionem terrestrium: ***firmans terram***, quantum ad animationem viventium: ***dans flatum***, naturalis vitae, ***spiritum***, gratuite, Zach. xii *Dominus extendens caelum* etc.  
 
-Secundo praedicit missionem, ponens missi exaltationem: ***ego Dominus vocavi te*** Filium meum, ab aeterno praedestinando ad unitatem divinae personae, ***in justitia***, id est ut justus sim implens promissa, Ro. primo *qui praedestinatus est* etc*; **apprehendi manum***, quantum ad operationem, Jo. xiv *Pater in me manens* etc., ***et servavi***, ne morte detinereris, Ps. *non dabis sanctum tuum* etc., infra xlix ***vocavi eum et adduxi*** etc.
+Secundo praedicit missionem, ponens missi exaltationem: ***ego Dominus vocavi te*** Filium meum, ab aeterno praedestinando ad unitatem divinae personae, ***in justitia***, id est ut justus sim implens promissa, Ro. primo *qui praedestinatus est* etc*; **apprehendi manum***, quantum ad operationem, Jo. xiv *Pater in me manens* etc., ***et servavi***, ne morte detinereris, Ps. *non dabis sanctum tuum* etc., infra xlix ***vocavi eum et adduxi*** etc.  
 
-Ponit etiam officii iniunctionem: ***dedi te in foedus***, quasi mediatorem, Gen. ix *arcum meum ponam* etc., ***in lucem*** etc., quasi illuminatorem, supra ix ***habitantibus in regione*** etc., Jo. primo *erat lux vera* etc.
+Ponit etiam officii iniunctionem: ***dedi te in foedus***, quasi mediatorem, Gen. ix *arcum meum ponam* etc., ***in lucem*** etc., quasi illuminatorem, supra ix ***habitantibus in regione*** etc., Jo. primo *erat lux vera* etc.  
 
-Ostendit etiam officii utilitatem contra infidelitatem: ***ut aperires*** etc., Jo. ix *in judicium veni* etc., contra peccati servitutem: ***ut educeres*** etc., Zach. ix *tu autem in sanguine testamenti* etc.
+Ostendit etiam officii utilitatem contra infidelitatem: ***ut aperires*** etc., Jo. ix *in judicium veni* etc., contra peccati servitutem: ***ut educeres*** etc., Zach. ix *tu autem in sanguine testamenti* etc.  
 
-Tertio ex missione concludit divinae majestatis singularitatem quantum ad potentiam: ***ego Dominus*** etc., Ps. *iter facite illi* etc., Exo. vi *nomen meum Adonai* etc., ***gloriam*** qua Dominus dicor, Lucae ii *gloria in excelsis* etc.; et quantum ad scientiam: ***quae prima fuerunt*** etc., infra xlix ***dixi tibi ex tunc*** etc. Hoc etiam referunt ad Darium.
+Tertio ex missione concludit divinae majestatis singularitatem quantum ad potentiam: ***ego Dominus*** etc., Ps. *iter facite illi* etc., Exo. vi *nomen meum Adonai* etc., ***gloriam*** qua Dominus dicor, Lucae ii *gloria in excelsis* etc.; et quantum ad scientiam: ***quae prima fuerunt*** etc., infra xlix ***dixi tibi ex tunc*** etc. Hoc etiam referunt ad Darium.  
 
-**822**. ***Cantate Domino*** etc. Hic invitat ad gratiarum actionem.
+**822**. ***Cantate Domino*** etc. Hic invitat ad gratiarum actionem.  
 
-Et primo indicit laudem et praecipue agrestibus, vel propter distantiam habitationis: ***ab extremis***, supra xxiv ***a finibus terrae laudes*** etc., vel propter inclusionem maris: ***qui descenditis***, scilicet nautae, ***plenitudo ejus***, scilicet maris, id est omne illud quo impletur laudet Deum, Ps. *qui descendunt in mare* etc.
+Et primo indicit laudem et praecipue agrestibus, vel propter distantiam habitationis: ***ab extremis***, supra xxiv ***a finibus terrae laudes*** etc., vel propter inclusionem maris: ***qui descenditis***, scilicet nautae, ***plenitudo ejus***, scilicet maris, id est omne illud quo impletur laudet Deum, Ps. *qui descendunt in mare* etc.  
 
-Vel propter conversationem in desertis: ***levet*** vocem suam in laudem Dei ***desertum***, id est habitatores ejus, maxime quantum ad Ismaelitas, ***in domibus***, more aliarum nationum, qui prius erant vagi per desertum, ***Cedar***, filius Ismaelis, supra xxxv ***laetabitur deserta*** etc.; vel propter habitationem in montanis: ***laudate habitatores Petrae***, illius civitatis in Palaestina quae in petris posita est; vel cujuslibet montis, infra lv ***montes et colles cantabunt*** etc., et invitat hos de quibus minus videtur quod ad laudandum Deum conversantur.
+Vel propter conversationem in desertis: ***levet*** vocem suam in laudem Dei ***desertum***, id est habitatores ejus, maxime quantum ad Ismaelitas, ***in domibus***, more aliarum nationum, qui prius erant vagi per desertum, ***Cedar***, filius Ismaelis, supra xxxv ***laetabitur deserta*** etc.; vel propter habitationem in montanis: ***laudate habitatores Petrae***, illius civitatis in Palaestina quae in petris posita est; vel cujuslibet montis, infra lv ***montes et colles cantabunt*** etc., et invitat hos de quibus minus videtur quod ad laudandum Deum conversantur.  
 
-Secundo praedicit divinae laudi divulgationem: ***ponent Domino gloriam*** in aliis, non solum in se ipsis, infra ult. ***mittam ex eis qui salvati*** etc. Mystice totum hoc de conversione gentium ad fidem.
+Secundo praedicit divinae laudi divulgationem: ***ponent Domino gloriam*** in aliis, non solum in se ipsis, infra ult. ***mittam ex eis qui salvati*** etc. Mystice totum hoc de conversione gentium ad fidem.  
 
-**823**. ***Dominus sicut fortis***. Hic praedicit per Christi adventum futurum casum; et circa hoc quatuor ponit.
+**823**. ***Dominus sicut fortis***. Hic praedicit per Christi adventum futurum casum; et circa hoc quatuor ponit.  
 
-Primo potentiam: ***Dominus sicut fortis***, ad impugnandum Judaeos per Romanos, Exo. xv *Dominus quasi vir pugnator* etc.; ***zelum*** ultionis, Prov. vi *zelus et furor viri* etc.
+Primo potentiam: ***Dominus sicut fortis***, ad impugnandum Judaeos per Romanos, Exo. xv *Dominus quasi vir pugnator* etc.; ***zelum*** ultionis, Prov. vi *zelus et furor viri* etc.  
 
-Secundo ponit iram: ***vociferabitur***, per tribulationes quas eis immittet, contra id quo supra dictum est ***non clamabit***; primo enim ostendit mansuetudinem veniens, sed contemnentibus indignationem ostendit, Job xxxvj *tonabit in voce sua* etc.
+Secundo ponit iram: ***vociferabitur***, per tribulationes quas eis immittet, contra id quo supra dictum est ***non clamabit***; primo enim ostendit mansuetudinem veniens, sed contemnentibus indignationem ostendit, Job xxxvj *tonabit in voce sua* etc.  
 
-Tertio ponit justitiam, quia justum <est> ut cum diu expectaverit impoenitentes omnes simul absorbeat: ***tacui semper*** etc., Job iii *nonne dissimulavi* etc*.; **patiens fui***, supra xxx ***propterea expectat Dominus*** etc.; ***sicut pariens*** proferam dissimulatum dolorem, sicut mulier conceptum infantem, vel quia sicut parturiens dolebo de tam gravi poena.
+Tertio ponit justitiam, quia justum <est> ut cum diu expectaverit impoenitentes omnes simul absorbeat: ***tacui semper*** etc., Job iii *nonne dissimulavi* etc*.; **patiens fui***, supra xxx ***propterea expectat Dominus*** etc.; ***sicut pariens*** proferam dissimulatum dolorem, sicut mulier conceptum infantem, vel quia sicut parturiens dolebo de tam gravi poena.  
 
-Quarto ponit poenam quantum ad homines: ***desertos faciam montes***, majores, ***colles***, mediocres, ***germen***, populares, Ez. xxxv *montem Seir desertum* etc.; et quantum ad subtractionem omnis doctrinae vel consolationis: ***ponam flumina*** etc., Ps. *posuit flumina in desertum* etc. Potest etiam hoc referri ad destructionem hostium Judaeorum per Darium.
+Quarto ponit poenam quantum ad homines: ***desertos faciam montes***, majores, ***colles***, mediocres, ***germen***, populares, Ez. xxxv *montem Seir desertum* etc.; et quantum ad subtractionem omnis doctrinae vel consolationis: ***ponam flumina*** etc., Ps. *posuit flumina in desertum* etc. Potest etiam hoc referri ad destructionem hostium Judaeorum per Darium.  
 
-**824**. ***Et educam***. Hic ponit resurrectionem bonorum quantum ad tria:
+**824**. ***Et educam***. Hic ponit resurrectionem bonorum quantum ad tria:  
 
-primo quantum ad reparationem actus: ***educam caecos***, scilicet gentiles, ***in viam***, Christum, vel legis praeceptum, vel etiam Judaeos secundum aliam expositionem, Prov. xi *ducam te per semitas* etc.; s
+primo quantum ad reparationem actus: ***educam caecos***, scilicet gentiles, ***in viam***, Christum, vel legis praeceptum, vel etiam Judaeos secundum aliam expositionem, Prov. xi *ducam te per semitas* etc.; s  
 
-ecundo quantum ad illuminationem intellectus: ***ponam tenebras*** etc., Lucae primo *illuminare his qui in tenebris* etc.;
+ecundo quantum ad illuminationem intellectus: ***ponam tenebras*** etc., Lucae primo *illuminare his qui in tenebris* etc.;  
 
-tertio quantum ad directionem affectus: ***prava***, scilicet corda, supra xl ***erunt prava in directa*** etc.
+tertio quantum ad directionem affectus: ***prava***, scilicet corda, supra xl ***erunt prava in directa*** etc.  
 
-**825**. ***Haec verba feci eis*** etc. Hic ostendit Judaeorum perversitatem.
+**825**. ***Haec verba feci eis*** etc. Hic ostendit Judaeorum perversitatem.  
 
-Et primo ostendit eos ingratos ad beneficia,
+Et primo ostendit eos ingratos ad beneficia,  
 
-secundo duros ad praecepta: ***surdi audite***,
+secundo duros ad praecepta: ***surdi audite***,  
 
-tertio obstinatos inter flagella: ***quis est in vobis*** etc.
+tertio obstinatos inter flagella: ***quis est in vobis*** etc.  
 
-Circa primum duo:
+Circa primum duo:  
 
-primo ostendit ingratitudinem: ***haec verba***, scilicet praedicta beneficia, ***conversi sunt retrorsum*** a me, Jer. xv *tu dereliquisti me* etc.;
+primo ostendit ingratitudinem: ***haec verba***, scilicet praedicta beneficia, ***conversi sunt retrorsum*** a me, Jer. xv *tu dereliquisti me* etc.;  
 
-secundo imprecatur eis confusionem: ***confundantur*** etc., Ps. *confundantur omnes* etc.
+secundo imprecatur eis confusionem: ***confundantur*** etc., Ps. *confundantur omnes* etc.  
 
-**826**. ***Surdi audite***. Hic ostendit eos duros vel inoboedientes ad praecepta.
+**826**. ***Surdi audite***. Hic ostendit eos duros vel inoboedientes ad praecepta.  
 
-Et primo ostendit eorum duritiam, vocans eos surdos et caecos unite: *excaecavit enim eos malitia eorum*, Sap. ii, quamvis habeant oculos et aures corporis, quod probat quia videntes custodiunt et habentes aures cordis apertas oboediunt; ***venundatus*** in servum peccati pro delectatione temporalis boni, III Reg. xxj *venundatus es ut faceres* etc.; ***qui apertas*** etc., Ier. v *audi popule stulte* etc., supra vi ***excaeca cor populi huius*** etc.
+Et primo ostendit eorum duritiam, vocans eos surdos et caecos unite: *excaecavit enim eos malitia eorum*, Sap. ii, quamvis habeant oculos et aures corporis, quod probat quia videntes custodiunt et habentes aures cordis apertas oboediunt; ***venundatus*** in servum peccati pro delectatione temporalis boni, III Reg. xxj *venundatus es ut faceres* etc.; ***qui apertas*** etc., Ier. v *audi popule stulte* etc., supra vi ***excaeca cor populi huius*** etc.  
 
-Secundo ostendit durorum stultitiam per hoc quod in praeceptis eorum utilitatem Dominus intendebat; unde ponit Domini intentionem: ***et Dominus voluit, eum***, populum, ***et*** ipse populus ***magnificaret legem*** Dei in corde suo, custodiendo ipsam, ***et ut*** Dominus ***extolleret***, id est exaltaret populum, prima Thess. iv *haec est voluntas Dei* etc.
+Secundo ostendit durorum stultitiam per hoc quod in praeceptis eorum utilitatem Dominus intendebat; unde ponit Domini intentionem: ***et Dominus voluit, eum***, populum, ***et*** ipse populus ***magnificaret legem*** Dei in corde suo, custodiendo ipsam, ***et ut*** Dominus ***extolleret***, id est exaltaret populum, prima Thess. iv *haec est voluntas Dei* etc.  
 
-Et ostendit etiam eorum contradictionem, quia in seipsis peccabant: ***ipse autem, direptus*** a daemonibus per diversa peccata, ***et*** ideo ***vastatus*** ab hostibus, supra xviii ***a populo divulso*** etc.; aliis etiam occasionem peccandi praestabant: ***laqueus***, id est occasio ad peccandum, ***juvenum***, insipientum, Oseae v *laqueus facti estis* etc.; et quia peccata occultabant ***in domibus carcerum***, id est in secreto cordis, ***in corde et corde*** etc.
+Et ostendit etiam eorum contradictionem, quia in seipsis peccabant: ***ipse autem, direptus*** a daemonibus per diversa peccata, ***et*** ideo ***vastatus*** ab hostibus, supra xviii ***a populo divulso*** etc.; aliis etiam occasionem peccandi praestabant: ***laqueus***, id est occasio ad peccandum, ***juvenum***, insipientum, Oseae v *laqueus facti estis* etc.; et quia peccata occultabant ***in domibus carcerum***, id est in secreto cordis, ***in corde et corde*** etc.  
 
-Tertio ponit poenam: ***facti sunt in rapinam*** etc., ***nec est qui eruat***, bellorum potentia, ***nec est qui dicat***, orationis instantia, Eccli. ult. *circumdederunt me undique* etc.; vel ibi incipit poena: ***in domibus carcerum***, ut exponatur ad litteram.
+Tertio ponit poenam: ***facti sunt in rapinam*** etc., ***nec est qui eruat***, bellorum potentia, ***nec est qui dicat***, orationis instantia, Eccli. ult. *circumdederunt me undique* etc.; vel ibi incipit poena: ***in domibus carcerum***, ut exponatur ad litteram.  
 
-**827**. ***Quis est in vobis***. Hic ostendit eos incorrigibiles per flagella, quia etiam causam flagellorum non recognoscunt; et circa hoc tria facit.
+**827**. ***Quis est in vobis***. Hic ostendit eos incorrigibiles per flagella, quia etiam causam flagellorum non recognoscunt; et circa hoc tria facit.  
 
-Primo inquirit recte sentientem, innuens paucitatem; ***futura***, quae praenuntio de vestris suppliciis, Oseae ult. *quis sapiens* etc.
+Primo inquirit recte sentientem, innuens paucitatem; ***futura***, quae praenuntio de vestris suppliciis, Oseae ult. *quis sapiens* etc.  
 
-Secundo determinat veritatem, quantum ad poenae auctorem: ***quis dedit*** etc., primo Reg. ii *Dominus mortificat* etc.; quantum ad culpam: ***ipse est cui*** etc.; Baruch iv *justitias ipsius nescierunt* etc.; et quantum ad poenam: ***et effudit*** etc., Ps. *effunde super eos iram tuam* etc., effusio abundantiam significat.
+Secundo determinat veritatem, quantum ad poenae auctorem: ***quis dedit*** etc., primo Reg. ii *Dominus mortificat* etc.; quantum ad culpam: ***ipse est cui*** etc.; Baruch iv *justitias ipsius nescierunt* etc.; et quantum ad poenam: ***et effudit*** etc., Ps. *effunde super eos iram tuam* etc., effusio abundantiam significat.  
 
-Tertio excludit veritatis cognitionem: ***et combussit eum***, scilicet materiali igne per hostium vastationem, ***non cognovit*** se a Deo pro peccatis suis punitum, Ps. *nescierunt neque intellexerunt* etc.
+Tertio excludit veritatis cognitionem: ***et combussit eum***, scilicet materiali igne per hostium vastationem, ***non cognovit*** se a Deo pro peccatis suis punitum, Ps. *nescierunt neque intellexerunt* etc.  
 
-**828**. Clamor
+**828**. Clamor  
 
-devotae orationis, Hebr. v *cum clamore valido* etc.;
+devotae orationis, Hebr. v *cum clamore valido* etc.;  
 
-attentae praedicationis, Jo. vii *ultimo festivitatis* etc.;
+attentae praedicationis, Jo. vii *ultimo festivitatis* etc.;  
 
-rixae et contentionis, supra v ***expectavit ut faceret*** etc.
+rixae et contentionis, supra v ***expectavit ut faceret*** etc.  
 
-**829**. Datur Christus in foedus
+**829**. Datur Christus in foedus  
 
-conservandae salutis, Gen. ix *arcum meum* etc.;
+conservandae salutis, Gen. ix *arcum meum* etc.;  
 
-explendae promissionis, secunda Cor. primo *quotquot promissiones* etc.;
+explendae promissionis, secunda Cor. primo *quotquot promissiones* etc.;  
 
-divinae dilectionis, Jo. iii *sic Deus dilexit* etc.;
+divinae dilectionis, Jo. iii *sic Deus dilexit* etc.;  
 
 cessaturae legis, Ps. *holocausta pro peccato* etc.
-
-Caput 43

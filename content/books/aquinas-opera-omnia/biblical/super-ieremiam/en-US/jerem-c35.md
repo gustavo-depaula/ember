@@ -28,31 +28,31 @@
 
 > **187**. Here, he convicts them of their transgression by the example of certain obedient men.
 
-First is given the trial of their obedience;
+First is given the trial of their obedience;  
 
-second is given the condemnation of disobedience, at ***and the word of the Lord came to Jeremiah*** (Jer 35:12).
+second is given the condemnation of disobedience, at ***and the word of the Lord came to Jeremiah*** (Jer 35:12).  
 
-Concerning the former, there are three points.
+Concerning the former, there are three points.  
 
-First, the command to test them is given by the Lord to the prophet: ***go to the house of the Rechabites***, who were given to the study of Scripture and therefore abstained from wine, concerning whom we read: *the family of scribes dwelling in Jabez, singing and making melody, who dwell in tents. These are the Kennites, who came of Calor, father of the house of Rechab* (1 Chron 2:55).A more literal translation of this verse from the Hebrew might be rendered as follows: *and the families of scribes that dwelled at Jabez: the Tirathites, the Shimeathites, the Sucathites. These are the Kennites who came from Hammath, the father of the house of Rechab*. ***Chamber***—something like a room outside the main building. ***You shall give***, proving their obedience. Above: ***I have set you as an assayer over my people; and you shall know, and prove their way*** (Jer 6:27).
+First, the command to test them is given by the Lord to the prophet: ***go to the house of the Rechabites***, who were given to the study of Scripture and therefore abstained from wine, concerning whom we read: *the family of scribes dwelling in Jabez, singing and making melody, who dwell in tents. These are the Kennites, who came of Calor, father of the house of Rechab* (1 Chron 2:55).A more literal translation of this verse from the Hebrew might be rendered as follows: *and the families of scribes that dwelled at Jabez: the Tirathites, the Shimeathites, the Sucathites. These are the Kennites who came from Hammath, the father of the house of Rechab*. ***Chamber***—something like a room outside the main building. ***You shall give***, proving their obedience. Above: ***I have set you as an assayer over my people; and you shall know, and prove their way*** (Jer 6:27).  
 
-***And I took and brought them into the house of the Lord to the treasury*** (*gazophylacium*), in which the riches of the temple were kept; in Greek, ***Gaza*** means “riches,” and ***phylaxa*** means “keeping.” ***Maaseiah***, who received this ministry in the time of David (1 Chron 24:3–18); ***of the vestibule***, the atrium. Because the house in front of the principle chamber, where clothing (*vestes*) is kept, is called the vestibule, it became the custom to call every atrium a vestibule.
+***And I took and brought them into the house of the Lord to the treasury*** (*gazophylacium*), in which the riches of the temple were kept; in Greek, ***Gaza*** means “riches,” and ***phylaxa*** means “keeping.” ***Maaseiah***, who received this ministry in the time of David (1 Chron 24:3–18); ***of the vestibule***, the atrium. Because the house in front of the principle chamber, where clothing (*vestes*) is kept, is called the vestibule, it became the custom to call every atrium a vestibule.  
 
-***Cups***, for water. ***Drink wine***, that he might make a trial of the mysteries.The private rites and practices of the Rechabites. *Eat my bread, and drink the wine which I have mixed for you* (Prov 9:5).
+***Cups***, for water. ***Drink wine***, that he might make a trial of the mysteries.The private rites and practices of the Rechabites. *Eat my bread, and drink the wine which I have mixed for you* (Prov 9:5).  
 
-Third, their declaration of obedience is given: ***but they responded***.
+Third, their declaration of obedience is given: ***but they responded***.  
 
-First is mentioned the paternal command of not drinking wine: ***you shall not drink***. *I thought to draw my flesh from wine, that I might turn my mind to wisdom* (Eccl 2:3).
+First is mentioned the paternal command of not drinking wine: ***you shall not drink***. *I thought to draw my flesh from wine, that I might turn my mind to wisdom* (Eccl 2:3).  
 
-And of poverty, lest by concern for temporal things, they should interrupt the study of wisdom. ***And you shall not build a house***. *As possessing nothing, and having all things* (2 Cor 6:10).
+And of poverty, lest by concern for temporal things, they should interrupt the study of wisdom. ***And you shall not build a house***. *As possessing nothing, and having all things* (2 Cor 6:10).  
 
-Second is mentioned their fulfilment: ***we have obeyed, therefore***. *My son do not forget my law, and let your heart keep my commandments* (Prov 3:1).
+Second is mentioned their fulfilment: ***we have obeyed, therefore***. *My son do not forget my law, and let your heart keep my commandments* (Prov 3:1).  
 
-***In tents***. *They pitched their tents in deserted places* (Wis 11:2).
+***In tents***. *They pitched their tents in deserted places* (Wis 11:2).  
 
-Third, the necessary transgression is excused: ***but when Nebuchadnezzar came up***.
+Third, the necessary transgression is excused: ***but when Nebuchadnezzar came up***.  
 
-Lecture 2
+Lecture 2  
 
 ***Comparison to Rechabites***
 
@@ -74,14 +74,12 @@ Lecture 2
 
 > **188**. Here, the condemnation of their disobedience is given.
 
-First, diverse merits are compared, when his astonishment at their disobedience is spoken of: ***will you not accept correction***, even by scourgings and examples? Above: ***in vain have I struck your children; they have not received correction*** (Jer 2:30).
+First, diverse merits are compared, when his astonishment at their disobedience is spoken of: ***will you not accept correction***, even by scourgings and examples? Above: ***in vain have I struck your children; they have not received correction*** (Jer 2:30).  
 
-The reason for his astonishment is also given: ***the words have prevailed***; it is as though he were saying, “The words of a carnal father have had greater efficacy than the words of a spiritual father.” *We indeed have had fathers of our flesh for instructors, and we reverenced them; shall we not much more obey the Father of spirits and live?* (Heb 12:9). And the proof of the comparison—for while the former obeyed, the latter did not obey: ***but I have spoken unto you***. Above: ***I have spoken to you rising early and speaking, but you did not listen; I called you, and you did not respond*** (Jer 7:13).
+The reason for his astonishment is also given: ***the words have prevailed***; it is as though he were saying, “The words of a carnal father have had greater efficacy than the words of a spiritual father.” *We indeed have had fathers of our flesh for instructors, and we reverenced them; shall we not much more obey the Father of spirits and live?* (Heb 12:9). And the proof of the comparison—for while the former obeyed, the latter did not obey: ***but I have spoken unto you***. Above: ***I have spoken to you rising early and speaking, but you did not listen; I called you, and you did not respond*** (Jer 7:13).  
 
-Second, various rewards are promised.
+Second, various rewards are promised.  
 
-First, he promises punishment to those who disobey: ***therefore, thus says the Lord***. *For I called and you refused; I stretched out my hand and no man regarded; you have despised all my counsel, and would have none of my reproofs; I also shall laugh at your destruction, and mock when what you fear comes* (Prov 1:24–26).
+First, he promises punishment to those who disobey: ***therefore, thus says the Lord***. *For I called and you refused; I stretched out my hand and no man regarded; you have despised all my counsel, and would have none of my reproofs; I also shall laugh at your destruction, and mock when what you fear comes* (Prov 1:24–26).  
 
 Second, mercy for those who obey: ***but to the house of the Rechabites Jeremiah said***. *Obedience is better than sacrifices, and to hearken is better than to offer the fat of rams* (1 Sam 15:22).
-
-Chapter 36

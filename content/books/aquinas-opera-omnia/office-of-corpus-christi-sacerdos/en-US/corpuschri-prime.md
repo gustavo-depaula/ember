@@ -1,14 +1,15 @@
 # Prime
 
-[℣. O God, come to my assistance;℟. O Lord, make haste to help me.
+[℣. O God, come to my assistance;  
+℟. O Lord, make haste to help me.  
 
-Glory be to the Father, and to the Son, * and to the Holy Spirit.
+Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
-As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]
+As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*. Wisdom has built herself a house, she has prepared her wine, she has laid her table, alleluia. [Prov 9:1–2]
+*Antiphon*. Wisdom has built herself a house, she has prepared her wine, she has laid her table, alleluia. [Prov 9:1–2]  
 
-Sung to *Adest dies* from the feast of St. Dominic.
+Sung to *Adest dies* from the feast of St. Dominic.  
 
 ***Psalms 53 (54); 22 (23); 118 (119):1–16, 17–32***
 
@@ -132,26 +133,30 @@ Sung to *Adest dies* from the feast of St. Dominic.
 
 > [℟. Thanks be to God.]
 
-Responsory
+Responsory  
 
-℟. Christ, Son of the living God, have mercy on us, alleluia, alleluia. [Cf. Matt 16:16; 9:27]
+℟. Christ, Son of the living God, have mercy on us, alleluia, alleluia. [Cf. Matt 16:16; 9:27]  
 
-℣. You sit at the right hand of the Father, alleluia, alleluia. [Cf. Rom 8:34; 1 Pet 3:21–22] Glory be to the Father, and to the Son, and to the Holy Spirit. * Christ, Son of the living God, have mercy on us, alleluia, alleluia.
+℣. You sit at the right hand of the Father, alleluia, alleluia. [Cf. Rom 8:34; 1 Pet 3:21–22] Glory be to the Father, and to the Son, and to the Holy Spirit. * Christ, Son of the living God, have mercy on us, alleluia, alleluia.  
 
-Versicle
+Versicle  
 
 ***[Psalm 43 (44):26]***
 
-℣. Arise, O Lord, and help us, alleluia.
+℣. Arise, O Lord, and help us, alleluia.  
 
-℟. And deliver us for your name’s sake, alleluia.
+℟. And deliver us for your name’s sake, alleluia.  
 
-Prayer
+Prayer  
 
-***[℣. O Lord, hear my prayer.℟. And let my cry come unto you.]***
+***[℣. O Lord, hear my prayer.***
+***℟. And let my cry come unto you.]***
 
-*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-[℣. O Lord, hear my prayer.℟. And let my cry come unto you.℣. Let us bless the Lord.℟. Thanks be to God.℣. May the souls of the faithful departed, through the mercy of God, rest in peace.℟. Amen.]
-
-Terce
+[℣. O Lord, hear my prayer.  
+℟. And let my cry come unto you.  
+℣. Let us bless the Lord.  
+℟. Thanks be to God.  
+℣. May the souls of the faithful departed, through the mercy of God, rest in peace.  
+℟. Amen.]

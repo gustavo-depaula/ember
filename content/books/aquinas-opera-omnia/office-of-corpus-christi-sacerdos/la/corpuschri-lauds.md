@@ -1,14 +1,14 @@
 # Lauds
 
-Gloria Patri, et Filio, * et Spiritui Sancto.
+Gloria Patri, et Filio, * et Spiritui Sancto.  
 
-Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]
+Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]  
 
-{image 046}
+{image 046}  
 
-*Antiphona*. Sapientia aedificavit sibi domum, miscuit vinum, et posuit mensam, alleluia.
+*Antiphona*. Sapientia aedificavit sibi domum, miscuit vinum, et posuit mensam, alleluia.  
 
-Contra *Adest dies* de sancto Dominico.
+Contra *Adest dies* de sancto Dominico.  
 
 ***Psalmus 92***
 
@@ -32,9 +32,9 @@ Contra *Adest dies* de sancto Dominico.
 
 > {image 047}
 
-*Antiphona*. Angelorum esca nutrivisti populum tuum, et panem de caelo praestitisti illis, alleluia.
+*Antiphona*. Angelorum esca nutrivisti populum tuum, et panem de caelo praestitisti illis, alleluia.  
 
-Contra *Pauper esca* de sancto Dominico.
+Contra *Pauper esca* de sancto Dominico.  
 
 ***Psalmus 99***
 
@@ -54,9 +54,9 @@ Contra *Pauper esca* de sancto Dominico.
 
 > {image 048}
 
-*Antiphona*. Pinguis est panis Christi et praebebit delicias regibus, alleluia.
+*Antiphona*. Pinguis est panis Christi et praebebit delicias regibus, alleluia.  
 
-Contra *Scala caelo* de sancto Dominico.
+Contra *Scala caelo* de sancto Dominico.  
 
 ***Psalmus 21***
 
@@ -138,9 +138,9 @@ Contra *Scala caelo* de sancto Dominico.
 
 ***{image 049}***
 
-*Antiphona*. Sacerdotes sancti incensum et panes offerunt Deo, alleluia.
+*Antiphona*. Sacerdotes sancti incensum et panes offerunt Deo, alleluia.  
 
-Contra *Ingressus Angelus* de Annuntiatione sanctae Mariae.
+Contra *Ingressus Angelus* de Annuntiatione sanctae Mariae.  
 
 ***Benedicite, omnia opera Domini, Domino: * laudate et superexaltate eum in saecula.***
 
@@ -184,9 +184,9 @@ Contra *Ingressus Angelus* de Annuntiatione sanctae Mariae.
 
 > {image 050}
 
-*Antiphona*. Vincenti dabo manna absconditum et nomen novum, alleluia.
+*Antiphona*. Vincenti dabo manna absconditum et nomen novum, alleluia.  
 
-Contra *Ex quo omnia* de Trinitate.
+Contra *Ex quo omnia* de Trinitate.  
 
 ***Psalmi 148–150***
 
@@ -258,19 +258,37 @@ Contra *Ex quo omnia* de Trinitate.
 
 > [℟. Deo gratias.]
 
-Hymnus
+Hymnus  
 
 ***Verbum supernum***
 
 ***{image-052}***
 
-Verbum supernum prodiensnec Patris linquens dexteramad opus suum exiensvenit ad vitae vesperam.
+Verbum supernum prodiens  
+nec Patris linquens dexteram  
+ad opus suum exiens  
+venit ad vitae vesperam.  
 
-- In mortem a discipulosuis tradendus aemulisprius in vitae ferculose tradidit discipulis.
-- Quibus sub bina specieCarnem dedit et Sanguinemut duplicis substantiaetotum cibaret hominem.
-- Se nascens dedit sociumconvescens in eduliumse moriens in pretiumse regnans dat in praemium.
-- O salutaris Hostiaquae caeli pandis hostiumThe manuscript indeed reads *hostium* rather than *ostium* here.bella premunt hostiliada robur, fer auxilium.
-- Uni trinoque Dominosit sempiterna gloriaqui vitam sine terminonobis donet in patria. Amen.Music for the “amen” is not found in the manuscript.
+- In mortem a discipulo  
+  suis tradendus aemulis  
+  prius in vitae ferculo  
+  se tradidit discipulis.
+- Quibus sub bina specie  
+  Carnem dedit et Sanguinem  
+  ut duplicis substantiae  
+  totum cibaret hominem.
+- Se nascens dedit socium  
+  convescens in edulium  
+  se moriens in pretium  
+  se regnans dat in praemium.
+- O salutaris Hostia  
+  quae caeli pandis hostiumThe manuscript indeed reads *hostium* rather than *ostium* here.  
+  bella premunt hostilia  
+  da robur, fer auxilium.
+- Uni trinoque Domino  
+  sit sempiterna gloria  
+  qui vitam sine termino  
+  nobis donet in patria. Amen.Music for the “amen” is not found in the manuscript.
 - Contra *Aeterne rex altissime* de Ascensione.
 
 ***Versiculus***
@@ -279,19 +297,19 @@ Verbum supernum prodiensnec Patris linquens dexteramad opus suum exiensvenit ad 
 
 ***lauds-versiculus***
 
-℣. Posuit fines tuos pacem, alleluia.
+℣. Posuit fines tuos pacem, alleluia.  
 
-℟. Et adipe frumenti satiat te, alleluia.
+℟. Et adipe frumenti satiat te, alleluia.  
 
-Benedictus
+Benedictus  
 
 ***Luc. 1:68–79***
 
 ***{image 054}***
 
-*Ad Benedictus antiphona*. Ego sum panis vivus qui de caelo descendi. Si quis manducaverit ex hoc pane vivet in aeternum, alleluia.
+*Ad Benedictus antiphona*. Ego sum panis vivus qui de caelo descendi. Si quis manducaverit ex hoc pane vivet in aeternum, alleluia.  
 
-Contra *Pax aeterna* de Dedicatione.
+Contra *Pax aeterna* de Dedicatione.  
 
 ***Benedictus Dominus Deus Israel, * quia visitavit, et fecit redemptionem plebis suae:***
 
@@ -323,20 +341,38 @@ Contra *Pax aeterna* de Dedicatione.
 
 > Oratio
 
-***[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.]***
+***[℣. Domine, exaudi orationem meam.***
+***℟. Et clamor meus ad te veniat.]***
 
-*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.
+*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.  
 
-[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.℣. Benedicamus Domino.℟. Deo gratias.℣. Fidelium animae per misericordiam Dei requiescant in pace.℟. Amen.Pater noster, etc.℣. Dominus det nobis suam pacem.℟. Et vitam aeternam. Amen.
+[℣. Domine, exaudi orationem meam.  
+℟. Et clamor meus ad te veniat.  
+℣. Benedicamus Domino.  
+℟. Deo gratias.  
+℣. Fidelium animae per misericordiam Dei requiescant in pace.  
+℟. Amen.  
+Pater noster, etc.  
+℣. Dominus det nobis suam pacem.  
+℟. Et vitam aeternam. Amen.  
 
-Antiphona finalis B.M.V.
+Antiphona finalis B.M.V.  
 
-***Salve, Regina, Mater Misericordiae;vita, dulcedo et spes nostra, salve.Ad te clamamus exsules filii Hevae.Ad te suspiramus gementes et flentesIn hac lacrimarum valle.Eia ergo, Advocata nostra,illos tuos misericordes oculos ad nos converte.Et Iesum, benedictum fructum ventris tui,nobis post hoc exsilium ostende.O clemens, O pia, O dulcis Virgo Maria.***
+***Salve, Regina, Mater Misericordiae;***
+***vita, dulcedo et spes nostra, salve.***
+***Ad te clamamus exsules filii Hevae.***
+***Ad te suspiramus gementes et flentes***
+***In hac lacrimarum valle.***
+***Eia ergo, Advocata nostra,***
+***illos tuos misericordes oculos ad nos converte.***
+***Et Iesum, benedictum fructum ventris tui,***
+***nobis post hoc exsilium ostende.***
+***O clemens, O pia, O dulcis Virgo Maria.***
 
-℣. Ora pro nobis, sancta Dei Genitrix.℟. Ut digni efficiamur promissionibus Christi.
+℣. Ora pro nobis, sancta Dei Genitrix.  
+℟. Ut digni efficiamur promissionibus Christi.  
 
-*Oremus*. Omnipotens sempiterne Deus, qui gloriosae Virginis Matris Mariae corpus et animam, ut dignum Filii tui habitaculum effici mereretur, Spiritu Sancto cooperante, praeparasti: da, ut, cuius commemoratione laetamur, eius pia intercessione, ab instantibus malis et a morte perpetua liberemur. Per eumdem Christum Dominum nostrum. Amen.
+*Oremus*. Omnipotens sempiterne Deus, qui gloriosae Virginis Matris Mariae corpus et animam, ut dignum Filii tui habitaculum effici mereretur, Spiritu Sancto cooperante, praeparasti: da, ut, cuius commemoratione laetamur, eius pia intercessione, ab instantibus malis et a morte perpetua liberemur. Per eumdem Christum Dominum nostrum. Amen.  
 
-℣. Divinum auxilium maneat semper nobiscum.℟. Amen.]
-
-Ad primam
+℣. Divinum auxilium maneat semper nobiscum.  
+℟. Amen.]

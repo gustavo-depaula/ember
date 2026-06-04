@@ -10,30 +10,28 @@
 
 > **421**. Postquam prosecutus est diversitatem substantiarum secundum generationem et corruptionem, hic prosequitur de diversitate substantiarum quae potest attendi secundum simplicitatem et compositionem. Et inducit ad hoc duas propositiones quarum secunda videtur esse conversa prioris.
 
-**422**. Prima ergo talis est: ***omnis substantia stans per essentiam suam est simplex et non dividitur***. Quae etiam propositio ponitur in libro Procli XLVII, sub his verbis: *omne authypostaton impartibile est et simplex*.
+**422**. Prima ergo talis est: ***omnis substantia stans per essentiam suam est simplex et non dividitur***. Quae etiam propositio ponitur in libro Procli XLVII, sub his verbis: *omne authypostaton impartibile est et simplex*.  
 
-**423**. Ubi primo considerandum videtur quod simplex et impartibile est idem subiecto, differunt autem ratione: nam impartibile dicitur aliquid per privationem divisionis, quia scilicet non est in multa divisibile; simplex autem dicitur aliquid per privationem compositionis, quia scilicet non est ex multis compositum.
+**423**. Ubi primo considerandum videtur quod simplex et impartibile est idem subiecto, differunt autem ratione: nam impartibile dicitur aliquid per privationem divisionis, quia scilicet non est in multa divisibile; simplex autem dicitur aliquid per privationem compositionis, quia scilicet non est ex multis compositum.  
 
-**424**. Primo ergo probatur quod substantia per se stans sit indivisibilis,
+**424**. Primo ergo probatur quod substantia per se stans sit indivisibilis,  
 
-secundo quod sit simplex.
+secundo quod sit simplex.  
 
-**425**. Primum autem melius probatur in libro Procli quam hic. Est enim haec eius probatio. *Si enim*, inquit, *partibile est, authypostaton ens*, id est per se subsistens, *instituet partibile seipsum, et totum ipsum vertetur ad seipsum, et omne in omni seipso erit. Hoc autem impossibile. Impartibile ergo authypostaton*.
+**425**. Primum autem melius probatur in libro Procli quam hic. Est enim haec eius probatio. *Si enim*, inquit, *partibile est, authypostaton ens*, id est per se subsistens, *instituet partibile seipsum, et totum ipsum vertetur ad seipsum, et omne in omni seipso erit. Hoc autem impossibile. Impartibile ergo authypostaton*.  
 
-**426**. Ad cuius evidentiam considerandum est quod hic accipitur esse aliquid stans per seipsum non ratione partis, ut scilicet una pars eius stet per aliam sicut accidit in substantiis materialibus, sed ratione totius, ut scilicet totum stet per se totum. Unumquodque autem convertitur ad id per quod stat sicut effectus ad causam, et oportet quod sit in eo sicut in suo fundamento. Si ergo aliquid partibile sit stans per seipsum, oportebit quod quaelibet pars eius stet per quamlibet et quaelibet fundetur in qualibet; quod est impossibile, quia sic sequeretur quod una et eadem pars eius esset causa et effectus simul respectu eiusdem, quod est impossibile.
+**426**. Ad cuius evidentiam considerandum est quod hic accipitur esse aliquid stans per seipsum non ratione partis, ut scilicet una pars eius stet per aliam sicut accidit in substantiis materialibus, sed ratione totius, ut scilicet totum stet per se totum. Unumquodque autem convertitur ad id per quod stat sicut effectus ad causam, et oportet quod sit in eo sicut in suo fundamento. Si ergo aliquid partibile sit stans per seipsum, oportebit quod quaelibet pars eius stet per quamlibet et quaelibet fundetur in qualibet; quod est impossibile, quia sic sequeretur quod una et eadem pars eius esset causa et effectus simul respectu eiusdem, quod est impossibile.  
 
-**427**. In hoc autem libro probatur sic. Illud quod convenit alicui per seipsum, convenit cuilibet parti eius, si sit partibile. Si igitur aliquid partibile sit stans per seipsum, oportebit quod quaelibet pars eius stet per seipsam, et ita non innitetur alteri ad constitutionem totius.
+**427**. In hoc autem libro probatur sic. Illud quod convenit alicui per seipsum, convenit cuilibet parti eius, si sit partibile. Si igitur aliquid partibile sit stans per seipsum, oportebit quod quaelibet pars eius stet per seipsam, et ita non innitetur alteri ad constitutionem totius.  
 
-**428**. Haec autem probatio non est adeo efficax, quia non est necessarium quod quidquid per se convenit alicui toti conveniat singulis partibus eius. Est enim quoddam totum similium partium ut aer et aqua, et quoddam dissimilium ut animal et domus.
+**428**. Haec autem probatio non est adeo efficax, quia non est necessarium quod quidquid per se convenit alicui toti conveniat singulis partibus eius. Est enim quoddam totum similium partium ut aer et aqua, et quoddam dissimilium ut animal et domus.  
 
-**429**. Quod autem id quod est stans per seipsum sit simplex, id est non compositum ex multis, probatur duplici ratione.
+**429**. Quod autem id quod est stans per seipsum sit simplex, id est non compositum ex multis, probatur duplici ratione.  
 
-In omni ***composito*** ex pluribus partibus necesse est ponere quemdam partium ordinem, ut scilicet una ***pars eius*** sit ***melior et*** alia ***vilior***. Multa enim ad unum constituendum ordine quodam perveniunt sicut et ab uno multitudo ordine quodam progreditur. Unde videmus quod in compositione corporis naturalis forma est praestantior materia et in compositione corporis mixti unum elementum dominatur et in compositione partium animalis unum membrum est principalius alio et in partibus alicuius continui una pars magis accedit ad punctum, quod est principium magnitudinis, quam alia. Si ergo aliquid compositum ex pluribus partibus sit stans per seipsum, oportebit quod quaelibet pars eius sit stans ex qualibet et ita pars ***melior*** dependebit ***ex*** parte ***viliori*** et e converso.
+In omni ***composito*** ex pluribus partibus necesse est ponere quemdam partium ordinem, ut scilicet una ***pars eius*** sit ***melior et*** alia ***vilior***. Multa enim ad unum constituendum ordine quodam perveniunt sicut et ab uno multitudo ordine quodam progreditur. Unde videmus quod in compositione corporis naturalis forma est praestantior materia et in compositione corporis mixti unum elementum dominatur et in compositione partium animalis unum membrum est principalius alio et in partibus alicuius continui una pars magis accedit ad punctum, quod est principium magnitudinis, quam alia. Si ergo aliquid compositum ex pluribus partibus sit stans per seipsum, oportebit quod quaelibet pars eius sit stans ex qualibet et ita pars ***melior*** dependebit ***ex*** parte ***viliori*** et e converso.  
 
-**430**. Secunda ratio est quia omne quod est stans per seipsum, est sibi sufficiens in suo esse, non indigens alio ad sui subsistentiam; per quod non excluditur dependentia a causa agente sed a causa formali et materiali subsistentiam praestante.
+**430**. Secunda ratio est quia omne quod est stans per seipsum, est sibi sufficiens in suo esse, non indigens alio ad sui subsistentiam; per quod non excluditur dependentia a causa agente sed a causa formali et materiali subsistentiam praestante.  
 
-**431**. Omne autem compositum ex partibus ***non est*** sibi ***sufficiens***, sed ***indiget*** ad sui subsistentiam ***partibus ex quibus componitur***, quae se habent in habitudine causae materialis ad totum. Ergo nullum compositum ex partibus est per se stans. ***Omnis*** igitur ***substantia*** per se ***stans est simplex***.
+**431**. Omne autem compositum ex partibus ***non est*** sibi ***sufficiens***, sed ***indiget*** ad sui subsistentiam ***partibus ex quibus componitur***, quae se habent in habitudine causae materialis ad totum. Ergo nullum compositum ex partibus est per se stans. ***Omnis*** igitur ***substantia*** per se ***stans est simplex***.  
 
 **432**. Sciendum tamen est quod haec secunda ratio distincte ponitur in libro Procli, sed in hoc libro inducitur per modum conclusionis.
-
-Lectio 29

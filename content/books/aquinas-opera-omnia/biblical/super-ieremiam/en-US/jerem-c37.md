@@ -14,41 +14,41 @@
 
 > **196**. Here is shown the counter-response, from the persecution of the prophet.
 
-First is given the persecution itself because of false suspicion;
+First is given the persecution itself because of false suspicion;  
 
-second, because of a true prediction, ***and Shephatiah, the son of Mathan, heard*** (Jer 38:1).
+second, because of a true prediction, ***and Shephatiah, the son of Mathan, heard*** (Jer 38:1).  
 
-Concerning the former, there are three points.
+Concerning the former, there are three points.  
 
-First, he gives the occasion for the suspicion;
+First, he gives the occasion for the suspicion;  
 
-second, he gives the suspicion, at ***and when he had arrived at the gate of Benjamin*** (Jer 37:12);
+second, he gives the suspicion, at ***and when he had arrived at the gate of Benjamin*** (Jer 37:12);  
 
-third, the persecution, at ***and they seized Jeremiah the prophet*** (Jer 37:12).
+third, the persecution, at ***and they seized Jeremiah the prophet*** (Jer 37:12).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First is given the occasion, arising from the word of the prophet;
+First is given the occasion, arising from the word of the prophet;  
 
-second, the occasion that arose from the deed itself, at ***and when he had arrived*** (Jer 37:12).
+second, the occasion that arose from the deed itself, at ***and when he had arrived*** (Jer 37:12).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, the consultation is given;
+First, the consultation is given;  
 
-second, the prophet’s displeasing response to them, at ***and the word of the Lord came to Jeremiah*** (Jer 37:5).
+second, the prophet’s displeasing response to them, at ***and the word of the Lord came to Jeremiah*** (Jer 37:5).  
 
-Concerning the former, there are three points.
+Concerning the former, there are three points.  
 
-First, he describes the character of those who were consulting: ***whom Nebuchadnezzar had established as king***, as we also read in 2 Kgs 24.*He appointed Mattaniah his uncle in his stead; and he changed his name to Zedekiah* (2 Kgs 24:17).
+First, he describes the character of those who were consulting: ***whom Nebuchadnezzar had established as king***, as we also read in 2 Kgs 24.*He appointed Mattaniah his uncle in his stead; and he changed his name to Zedekiah* (2 Kgs 24:17).  
 
-***And he did not obey***, that he should dissolve the tribute to the king of Babylon and cease from sinning. *Render unto Caesar the things that are Caesar’s, and to God the things that are God’s* (Matt 22:21). ***Servants***, domestic servants; ***the people***: *as the judge of the people, so his servant, and as the ruler of a city, so the inhabitants thereof* (Sir 10:2).
+***And he did not obey***, that he should dissolve the tribute to the king of Babylon and cease from sinning. *Render unto Caesar the things that are Caesar’s, and to God the things that are God’s* (Matt 22:21). ***Servants***, domestic servants; ***the people***: *as the judge of the people, so his servant, and as the ruler of a city, so the inhabitants thereof* (Sir 10:2).  
 
-Second, the consultation is given: ***and king Zedekiah sent . . . saying, ‘Pray for us,’*** that he may indicate to us what we should do to be freed from the enemy. *Raise up, therefore, a prayer for the remnant which is left* (Isa 37:4).
+Second, the consultation is given: ***and king Zedekiah sent . . . saying, ‘Pray for us,’*** that he may indicate to us what we should do to be freed from the enemy. *Raise up, therefore, a prayer for the remnant which is left* (Isa 37:4).  
 
-Third, the reason for the consultation, for they drew confidence from the prophet’s liberty, whom they had not yet afflicted: ***now Jeremiah was walking in the midst of the people***, and from the breaking of the siege: ***therefore, the army of pharaoh went forth from Egypt***, for the king of Egypt had gone forth to free the Jews. However, having been completely overwhelmed, the army returned. *Behold, you trust in this broken staff of reed: in Egypt* (Isa 36:6).
+Third, the reason for the consultation, for they drew confidence from the prophet’s liberty, whom they had not yet afflicted: ***now Jeremiah was walking in the midst of the people***, and from the breaking of the siege: ***therefore, the army of pharaoh went forth from Egypt***, for the king of Egypt had gone forth to free the Jews. However, having been completely overwhelmed, the army returned. *Behold, you trust in this broken staff of reed: in Egypt* (Isa 36:6).  
 
-Lecture 2
+Lecture 2  
 
 ***The Chaldeans’ imminent victory***
 
@@ -64,15 +64,15 @@ Lecture 2
 
 > **197**. Here, the response of the prophet is given.
 
-First, he excludes the help of Egypt: ***behold the army of pharaoh***. *For Egypt shall help in vain, and to no purpose* (Isa 30:7).
+First, he excludes the help of Egypt: ***behold the army of pharaoh***. *For Egypt shall help in vain, and to no purpose* (Isa 30:7).  
 
-Second, he predicts the return of the Chaldeans: ***and the Chaldeans shall come again***.
+Second, he predicts the return of the Chaldeans: ***and the Chaldeans shall come again***.  
 
-***Do not deceive***, with false hope. *I have called my friends, and they have deceived me* (Lam 1:19).
+***Do not deceive***, with false hope. *I have called my friends, and they have deceived me* (Lam 1:19).  
 
-Third, he excludes hindrance: ***even if you shall strike***. *How did one pursue a thousand, and two put ten thousand to flight? Was it not, therefore, because the Lord your God sold them, and the Lord shut them up?* (Deut 32:30).
+Third, he excludes hindrance: ***even if you shall strike***. *How did one pursue a thousand, and two put ten thousand to flight? Was it not, therefore, because the Lord your God sold them, and the Lord shut them up?* (Deut 32:30).  
 
-Lecture 3
+Lecture 3  
 
 ***Jeremiah goes to divide his property***
 
@@ -82,7 +82,7 @@ Lecture 3
 
 > **198**. Here, he speaks of the occasion arising from his action: ***and there divide his property***, which he had purchased—that is, to mark it out from the other fields, or to distribute it to others, that he might remain free of care. *As having nothing, and possessing all things* (2 Cor 6:10).
 
-Lecture 4
+Lecture 4  
 
 ***Guards await Jeremiah***
 
@@ -90,7 +90,7 @@ Lecture 4
 
 > **199**. Here, the false suspicion is given. *False witnesses have risen up against me, and iniquity has lied to itself* (Ps 26:12).
 
-Lecture 5
+Lecture 5  
 
 ***Jeremiah cast into prison***
 
@@ -114,22 +114,20 @@ Lecture 5
 
 > **200**. Here, the persecution is spoken of in three ways.
 
-In his capture. *They have chased and taken* (Lam 3:52).
+In his capture. *They have chased and taken* (Lam 3:52).  
 
-In his flagellation: ***the princes struck him*** (Jer 37:14). Likewise Acts 8. *They suffered mockeries, and stripes* (Heb 11:36).
+In his flagellation: ***the princes struck him*** (Jer 37:14). Likewise Acts 8. *They suffered mockeries, and stripes* (Heb 11:36).  
 
-And in his imprisonment: ***and so Jeremiah entered the house of the pit***. *I am reckoned with those that go down into the pit* (Ps 87:5). ***The workhouse***—this is also properly a prison in which someone is condemned to some type of labor.
+And in his imprisonment: ***and so Jeremiah entered the house of the pit***. *I am reckoned with those that go down into the pit* (Ps 87:5). ***The workhouse***—this is also properly a prison in which someone is condemned to some type of labor.  
 
-Second, his liberation is spoken of: ***sending***. Concerning this, there are three points.
+Second, his liberation is spoken of: ***sending***. Concerning this, there are three points.  
 
-First, the occasion of his liberation is given: ***do you think that there is a word from the Lord?***, which predicts the future, that has been revealed to you. *Should not the people seek a vision of their God for the living and the dead?* (Isa 8:19). And he gives the response: ***and Jeremiah said***. *But I have been sent to you as a bearer of hard news* (1 Kgs 14:6).
+First, the occasion of his liberation is given: ***do you think that there is a word from the Lord?***, which predicts the future, that has been revealed to you. *Should not the people seek a vision of their God for the living and the dead?* (Isa 8:19). And he gives the response: ***and Jeremiah said***. *But I have been sent to you as a bearer of hard news* (1 Kgs 14:6).  
 
-Second, the request for liberty is given: ***and Jeremiah said to the king***. Here, he shows his unjust punishment: ***how have I sinned?*** *You shall not find iniquity in my tongue, nor shall foolishness go forth from my mouth* (Job 6:30).
+Second, the request for liberty is given: ***and Jeremiah said to the king***. Here, he shows his unjust punishment: ***how have I sinned?*** *You shall not find iniquity in my tongue, nor shall foolishness go forth from my mouth* (Job 6:30).  
 
-He clears himself of the guilt with which he has been charged: ***where are your prophets?*** It is as though he were saying, “Their falsehood and my truthfulness are now made manifest.” For the army of the Chaldeans had already returned, which they had denied would come back. Above: ***the prophet who foretold peace, when his word came to pass, he was known as a prophet whom the Lord had sent in truth*** (Jer 28:9).
+He clears himself of the guilt with which he has been charged: ***where are your prophets?*** It is as though he were saying, “Their falsehood and my truthfulness are now made manifest.” For the army of the Chaldeans had already returned, which they had denied would come back. Above: ***the prophet who foretold peace, when his word came to pass, he was known as a prophet whom the Lord had sent in truth*** (Jer 28:9).  
 
-And he asks for mercy: ***now, therefore, hear, I beseech you***. *A soft answer breaks wrath, but a hard word stirs up fury* (Prov 15:1). *A sweet word multiplies friends, and softens enemies; and a gracious tongue shall abound in a good man* (Sir 6:5).
+And he asks for mercy: ***now, therefore, hear, I beseech you***. *A soft answer breaks wrath, but a hard word stirs up fury* (Prov 15:1). *A sweet word multiplies friends, and softens enemies; and a gracious tongue shall abound in a good man* (Sir 6:5).  
 
 Third, the obtaining of the request is mentioned: ***therefore, king Zedekiah commanded that Jeremiah should be handed over to the courtyard of the prison, and that he should be given loaves of bread every day, without condiment***, which he did not wish to be added; ***in the vestibule***, that is, in the courtyard.
-
-Chapter 38

@@ -1,5 +1,3 @@
 # Articulus 81
 
 Quod vero dicitur, quod in creatura potest esse potentia passiva infinita, non habet calumniam. Ut enim supra iam dictum est, potentia importat respectum ad possibile: unde potentia passiva creaturae dicitur infinita, secundum quod ad infinita se habet: sicut potentia materiae primae se habet ad infinitas formas et figuras, et continuum est divisibile in infinitum; et similiter intellectus possibilis se habet ad infinitas species intelligibiles. Nec propter hoc sequitur quod aliquid creatum sit infinitum simpliciter, sed infinitum in potentia tantum. Haec autem potentia passiva infinita in rebus naturalibus non reducitur in actum tota simul, sed successive; sed potentia passiva animae Christi ad intelligendum reducitur tota in actum, quia scit omnia scibilia ad quae intellectus humanus est in potentia naturali, quae sunt infinita; et hoc habet ex unione verbi quod est agens infinitum.
-
-Articulus 82

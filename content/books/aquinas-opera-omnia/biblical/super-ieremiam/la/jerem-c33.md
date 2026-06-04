@@ -20,41 +20,41 @@
 
 > **177**. Hic ponitur consolatio specialiter ad duas tribus, et praecipue quantum ad Jerusalem, ubi erat sedes regni, et sacerdotii: et circa hoc duo.
 
-Primo ponit prophetiae titulum, in quo ponit prophetae carcerem: ***cum adhuc clausus esset in atrio carceris***, a Sedecia.
+Primo ponit prophetiae titulum, in quo ponit prophetae carcerem: ***cum adhuc clausus esset in atrio carceris***, a Sedecia.  
 
-Secundo respectu praecedentis visionis secundo factae, promittentis auctoritatem: ***haec dicit Dominus, facturus***, sicut artifex praeparando materiam, ***formaturus***, ducendo ad complementum formae, ***paraturus***, ordinando ad finem: ***Dominus nomen ejus***: quia ipse singulariter Dominus omnium est. Psal. 82: *quoniam nomen tibi Dominus tu solus altissimus super omnem terram*.
+Secundo respectu praecedentis visionis secundo factae, promittentis auctoritatem: ***haec dicit Dominus, facturus***, sicut artifex praeparando materiam, ***formaturus***, ducendo ad complementum formae, ***paraturus***, ordinando ad finem: ***Dominus nomen ejus***: quia ipse singulariter Dominus omnium est. Psal. 82: *quoniam nomen tibi Dominus tu solus altissimus super omnem terram*.  
 
-Promissionis firmitatem, et magnitudinem: ***clama ad me***, pro populo orans, ***et exaudiam te***, non ut mala non inferam; sed ut post mala illata liberem. Et sic non est contrarium ei quod supra 7, dictum est: ***tu ergo noli orare pro populo hoc, et non assumas pro eis laudem, et orationem, et non obsistas mihi, quia non exaudiam te**. **Quia nescit***,The Sixto-Clementine Vulgate reads: *quae nescis*, “for you know not,” rather than *quae nescit*, “for he knows not.” idest non posset humana conjecturatione suspicari. Isa. 48: *audita tibi feci nova ex tunc, et conservata sunt quae nescis*.
+Promissionis firmitatem, et magnitudinem: ***clama ad me***, pro populo orans, ***et exaudiam te***, non ut mala non inferam; sed ut post mala illata liberem. Et sic non est contrarium ei quod supra 7, dictum est: ***tu ergo noli orare pro populo hoc, et non assumas pro eis laudem, et orationem, et non obsistas mihi, quia non exaudiam te**. **Quia nescit***,The Sixto-Clementine Vulgate reads: *quae nescis*, “for you know not,” rather than *quae nescit*, “for he knows not.” idest non posset humana conjecturatione suspicari. Isa. 48: *audita tibi feci nova ex tunc, et conservata sunt quae nescis*.  
 
-Secundo ponit prophetiae verbum:
+Secundo ponit prophetiae verbum:  
 
-et primo ponitur promissio quo ad populum;
+et primo ponitur promissio quo ad populum;  
 
-secundo quo ad regnum, et sacerdotium, ibi, ***ecce dies veniunt***.
+secundo quo ad regnum, et sacerdotium, ibi, ***ecce dies veniunt***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo promittit inflictae plagae curationem;
+Primo promittit inflictae plagae curationem;  
 
-secundo cordis jucunditatem, ibi, ***haec dicit Dominus: adhuc audietur in loco isto***;
+secundo cordis jucunditatem, ibi, ***haec dicit Dominus: adhuc audietur in loco isto***;  
 
-tertio pacis tranquillitatem, ibi, ***haec dicit Dominus exercituum***, etc.
+tertio pacis tranquillitatem, ibi, ***haec dicit Dominus exercituum***, etc.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo tangit vulnus inflictum: ***quia haec dicit Dominus***, ad destructionem aedificiorum, ***ad domos***. Thren. 2: *praecipitavit Dominus, nec pepercit, omnia speciosa Jacob, destruxit in furore suo munitiones virginis Juda, et dejecit in terram*.
+Primo tangit vulnus inflictum: ***quia haec dicit Dominus***, ad destructionem aedificiorum, ***ad domos***. Thren. 2: *praecipitavit Dominus, nec pepercit, omnia speciosa Jacob, destruxit in furore suo munitiones virginis Juda, et dejecit in terram*.  
 
-Et quantum ad occisionem hominum: ***et ad gladium venientium***, in auxilium in Jerusalem, vel de gentilibus, vel de regno duarum tribuum, ***et impleant***, occasionaliter, quia ex eis fiduciam assumentes, restiterunt hostibus, et interfecti sunt, ***abscondens faciem***, idest subtrahens protectionem. Ezech. 39: *scient gentes quoniam in iniquitatibus suis capta sit domus Israel, et quod dereliquerit me, et quod absconderim faciem meam ab eis*.
+Et quantum ad occisionem hominum: ***et ad gladium venientium***, in auxilium in Jerusalem, vel de gentilibus, vel de regno duarum tribuum, ***et impleant***, occasionaliter, quia ex eis fiduciam assumentes, restiterunt hostibus, et interfecti sunt, ***abscondens faciem***, idest subtrahens protectionem. Ezech. 39: *scient gentes quoniam in iniquitatibus suis capta sit domus Israel, et quod dereliquerit me, et quod absconderim faciem meam ab eis*.  
 
-Secundo promittit curationis beneficium in generali: ***ecce ego obducam eis cicatricem***. Supra 30: ***obducam cicatricem tibi; et a vulneribus tuis sanabo te***. Et in speciali quantum ad orationis exauditionem: ***et revelabo***, implendo intentum, ***deprecationem***, quia a me pacem adinvicem, et veritatem religionis petiverunt. Isa. 39: *fiat tantum pax et veritas in diebus meis*.
+Secundo promittit curationis beneficium in generali: ***ecce ego obducam eis cicatricem***. Supra 30: ***obducam cicatricem tibi; et a vulneribus tuis sanabo te***. Et in speciali quantum ad orationis exauditionem: ***et revelabo***, implendo intentum, ***deprecationem***, quia a me pacem adinvicem, et veritatem religionis petiverunt. Isa. 39: *fiat tantum pax et veritas in diebus meis*.  
 
-Quantum ad patriae restitutionem, ***et convertam***. Supra 30: ***convertam conversionem tabernaculorum Jacob, et tectis ejus miserebor***.
+Quantum ad patriae restitutionem, ***et convertam***. Supra 30: ***convertam conversionem tabernaculorum Jacob, et tectis ejus miserebor***.  
 
-Quantum ad peccati remissionem, secundum purgationem a culpa, ***et emundabor***. Ezech. 36: *mundabimini ab omnibus inquinamentis vestris, et ab universis idolis vestris mundabo vos*. Et secundum absolutionem a poena: ***et propitius ero cunctis iniquitatibus eorum***. Psal. 102: *qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas*.
+Quantum ad peccati remissionem, secundum purgationem a culpa, ***et emundabor***. Ezech. 36: *mundabimini ab omnibus inquinamentis vestris, et ab universis idolis vestris mundabo vos*. Et secundum absolutionem a poena: ***et propitius ero cunctis iniquitatibus eorum***. Psal. 102: *qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas*.  
 
-Tertio ponit liberationis fructum quantum ad divinam gloriam: ***et erit mihi in nomen***. Supra 32: ***laetabor super eis, cum bene eis fecero***. Isa. 43: *populum istum formavi mihi, laudem meam narrabit*. Quantum ad amicorum laetitiam: ***et in exultationem cunctis gentibus terrae***. Psalm. 47: *fundatur exultatione universae terrae, mons Sion, latera aquilonis, civitas regis magni*. Quantum ad invidorum angustiam, ***et pavebunt***, Isa. 26: *videant et confundantur zelantes populi, et ignis hostes tuos devoret*.
+Tertio ponit liberationis fructum quantum ad divinam gloriam: ***et erit mihi in nomen***. Supra 32: ***laetabor super eis, cum bene eis fecero***. Isa. 43: *populum istum formavi mihi, laudem meam narrabit*. Quantum ad amicorum laetitiam: ***et in exultationem cunctis gentibus terrae***. Psalm. 47: *fundatur exultatione universae terrae, mons Sion, latera aquilonis, civitas regis magni*. Quantum ad invidorum angustiam, ***et pavebunt***, Isa. 26: *videant et confundantur zelantes populi, et ignis hostes tuos devoret*.  
 
-Lectio 2
+Lectio 2  
 
 ***^33:10^ Haec dicit Dominus: adhuc audietur in loco isto (quem vos dicitis esse desertum, eo quod non sit homo, nec jumentum: in civitatibus Juda; et foris Jerusalem, quae desolatae sunt absque homine, absque habitatore, et absque pecore)***
 
@@ -62,13 +62,13 @@ Lectio 2
 
 > **178**. Hic promittit ejus jucunditatem:
 
-et primo temporalem, ***vox gaudii***. Supra 25: ***perdam ex eis vocem gaudii et vocem laetitiae, vocem sponsi et vocem sponsae, vocem molae, et lumen lucernae***.
+et primo temporalem, ***vox gaudii***. Supra 25: ***perdam ex eis vocem gaudii et vocem laetitiae, vocem sponsi et vocem sponsae, vocem molae, et lumen lucernae***.  
 
-Secundo spiritualem expressam divinis laudibus: ***vox dicentium: confitemini Domino***. Isa. 51: *gaudium, et laetitia invenietur in ea, gratiarum actio, et vox laudis*. Tob. 13: *per omnes vicos ejus, alleluja cantabitur*. Et in oblationibus; ***et portantium vota in domum Domini***, Isa. 19: *colent eum in hostiis, et in muneribus, et vota vovebunt Domino, et solvent*.
+Secundo spiritualem expressam divinis laudibus: ***vox dicentium: confitemini Domino***. Isa. 51: *gaudium, et laetitia invenietur in ea, gratiarum actio, et vox laudis*. Tob. 13: *per omnes vicos ejus, alleluja cantabitur*. Et in oblationibus; ***et portantium vota in domum Domini***, Isa. 19: *colent eum in hostiis, et in muneribus, et vota vovebunt Domino, et solvent*.  
 
-Tertio assignat rationem: ***reducam enim conversionem terrae***. Thr. ult.: *innova dies nostros sicut a principio*.
+Tertio assignat rationem: ***reducam enim conversionem terrae***. Thr. ult.: *innova dies nostros sicut a principio*.  
 
-Lectio 3
+Lectio 3  
 
 ***^33:12^ Haec dicit Dominus exercituum: adhuc erit in loco isto deserto absque homine, et absque jumento, et in cunctis civitatibus ejus habitaculum pastorum, et accubantium gregum***
 
@@ -76,7 +76,7 @@ Lectio 3
 
 > **179**. Hic promittit eis pacis tranquillitatem, quam significat per securam patriae habitationem: ***transibunt greges ad manum numerantis***; quasi dicat: tantam securitatem potientur quod oves suas libere numerare poterunt. Ezech. 34: *in pascuis uberrimus pascam eos, et in montibus excelsis Israel erunt pascua earum*.
 
-Lectio 4
+Lectio 4  
 
 ***^33:14^ Ecce dies veniunt, dicit Dominus, et suscitabo verbum bonum, quod locutus sum ad domum Israel, et ad domum Juda.***
 
@@ -88,33 +88,33 @@ Lectio 4
 
 > **180**. Hic ponitur consolatio quantum ad regnum, et sacerdotium:
 
-et primo promittitur utriusque restitutio;
+et primo promittitur utriusque restitutio;  
 
-secundo ponitur promissionis confirmatio, ibi, ***et factum est verbum Domini ad Jeremiam***.
+secundo ponitur promissionis confirmatio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo promittit restaurationem regni;
+Primo promittit restaurationem regni;  
 
-secundo sacerdotii, ibi, ***et de sacerdotibus, et de Levitis non interibit vir***.
+secundo sacerdotii, ibi, ***et de sacerdotibus, et de Levitis non interibit vir***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo designat temporis congruitatem: ***ecce dies veniunt***, scilicet gratiae, ***et suscitabo***, implebo, ***verbum bonum***, quod promisi de regni restauratione. Oseae 1: *et congregabuntur filii Juda, et filii Israel pariter, et ponent sibimet caput unum, et ascendet de terra*. Quod impletum est in Christo.
+Primo designat temporis congruitatem: ***ecce dies veniunt***, scilicet gratiae, ***et suscitabo***, implebo, ***verbum bonum***, quod promisi de regni restauratione. Oseae 1: *et congregabuntur filii Juda, et filii Israel pariter, et ponent sibimet caput unum, et ascendet de terra*. Quod impletum est in Christo.  
 
-Secundo regni conditionem quantum ad regiminis nobilitatem: ***in diebus illis germinare faciam David germen justitiae***, Christum, qui est ipsa justitia. Isa. 11: *egredietur virga de radice Jesse, et flos de radice ejus ascendet. **Et faciet judicium***: in primo adventu pro mundo, in secundo de mundo, ***justitiam***, docens verbo, implens in se facto, et in aliis gratiae dono. Psalm. 118: *feci judicium, et justitiam*.
+Secundo regni conditionem quantum ad regiminis nobilitatem: ***in diebus illis germinare faciam David germen justitiae***, Christum, qui est ipsa justitia. Isa. 11: *egredietur virga de radice Jesse, et flos de radice ejus ascendet. **Et faciet judicium***: in primo adventu pro mundo, in secundo de mundo, ***justitiam***, docens verbo, implens in se facto, et in aliis gratiae dono. Psalm. 118: *feci judicium, et justitiam*.  
 
-Et quantum ad regiminis utilitatem in populi salutem: ***in diebus illis salvabitur Juda***, quantum ad eos qui crediderunt in primo, et credent in secundo adventu. Oseae 1: *salvabo eos in Domino Deo suo*. In pacis securitate: ***et Israel habitabit confidenter***. Isa. 32: *sedebit populus meus in pulchritudine pacis, in tabernaculis fiduciae et in requie opulenta*. Et in verae fidei confessione: ***et hoc est nomen . . . Dominus justus noster***. Psalm. 118: *justus es, Domine, et rectum judicium tuum*.
+Et quantum ad regiminis utilitatem in populi salutem: ***in diebus illis salvabitur Juda***, quantum ad eos qui crediderunt in primo, et credent in secundo adventu. Oseae 1: *salvabo eos in Domino Deo suo*. In pacis securitate: ***et Israel habitabit confidenter***. Isa. 32: *sedebit populus meus in pulchritudine pacis, in tabernaculis fiduciae et in requie opulenta*. Et in verae fidei confessione: ***et hoc est nomen . . . Dominus justus noster***. Psalm. 118: *justus es, Domine, et rectum judicium tuum*.  
 
-Tertio ponit regni durationem: ***quia haec dicit Dominus, non interibit de David vir***, Christus et regnum ipsius. Dan. 7: *potestas ejus potestas aeterna, quae non auferetur, et regnum ejus quod non corrumpetur*.
+Tertio ponit regni durationem: ***quia haec dicit Dominus, non interibit de David vir***, Christus et regnum ipsius. Dan. 7: *potestas ejus potestas aeterna, quae non auferetur, et regnum ejus quod non corrumpetur*.  
 
-Lectio 5
+Lectio 5  
 
 ***^33:18^ Et de sacerdotibus, et de Levitis non interibit vir a facie mea, qui offerat holocautomata, et incendat sacrificum, et caedat victimas omnibus diebus.***
 
 > **181**. Hic ponit restaurationem sacerdotii. Et sicut regnum restauratur in ipso Christo, et in membris ejus, ita et sacerdotium. Ipse enim sicut rex, ita et sacerdos est. Psal. 109: *tu es sacerdos in aeternum secundum ordinem Melchisedech*. Et membra sua reges et sacerdotes fecit. Apoc. 5: *fecisti nos Deo nostro regnum et sacerdotes*. Eph. 5: *seipsum obtulit hostiam Deo in odorem suavitatis*. Et membra ipsius, spirituales hostias Deo offerre facit. Ezech. 44: *sacerdotes et levitate filii Sadoch, qui custodierunt caeremonias sanctuarii mei, cum errarent filii Israel a me: ipsi accedent ad me, ut ministrant mihi, et stabunt in conspectu meo, ut offerant mihi adipem et sanguinem: ait Dominus Deus*.
 
-Lectio 6
+Lectio 6  
 
 ***^33:19^ Et factum est verbum Domini ad Jeremiam, dicens:***
 
@@ -126,11 +126,11 @@ Lectio 6
 
 > **182**. Hic ponitur promissionis confirmatio:
 
-et primo ex creaturarum duratione: ***et irritum potest fieri pactum meum cum die***, quasi dicat: non potest esse irritum usque ad finem mundi. Psalm. 88: *ponam in saeculum saeculi semen ejus, et thronum ejus sicut dies caeli*.
+et primo ex creaturarum duratione: ***et irritum potest fieri pactum meum cum die***, quasi dicat: non potest esse irritum usque ad finem mundi. Psalm. 88: *ponam in saeculum saeculi semen ejus, et thronum ejus sicut dies caeli*.  
 
-Secundo earum multitudinem: ***sicut enumerari non possunt stellae caeli***, nisi a solo Deo, ita et numerus electorum soli Deo est cognitus. Gen. 22: *multiplicabo semen tuum sicut stellas caeli, et velut arenam quae est in littore maris*.
+Secundo earum multitudinem: ***sicut enumerari non possunt stellae caeli***, nisi a solo Deo, ita et numerus electorum soli Deo est cognitus. Gen. 22: *multiplicabo semen tuum sicut stellas caeli, et velut arenam quae est in littore maris*.  
 
-Lectio 7
+Lectio 7  
 
 ***^33:23^ Et factum est verbum Domini ad Jeremiam, dicens:***
 
@@ -142,8 +142,6 @@ Lectio 7
 
 > **183**. Hic repellit hostium irrisionem.
 
-Et primo ponitur insultatio: ***duae cognationes***, scilicet regalis, et sacerdotalis, vel decem et duarum tribuum. Psalm. 70: *qui custodiebant animam meam, consilium fecerunt in unum dicentes: Deus dereliquit eum, persequimini, et comprehendite eum, quia non est qui eripiat*.
+Et primo ponitur insultatio: ***duae cognationes***, scilicet regalis, et sacerdotalis, vel decem et duarum tribuum. Psalm. 70: *qui custodiebant animam meam, consilium fecerunt in unum dicentes: Deus dereliquit eum, persequimini, et comprehendite eum, quia non est qui eripiat*.  
 
 Secundo ponitur improbatio: ***haec dicit Dominus***. Rom. 11: *numquid repulit Deus populum suum? Absit*, etc.
-
-Caput 34

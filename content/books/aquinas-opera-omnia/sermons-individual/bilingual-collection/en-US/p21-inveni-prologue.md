@@ -1,3 +1,1 @@
 # Prologue
-
-Sermon

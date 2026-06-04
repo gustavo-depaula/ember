@@ -4,17 +4,17 @@
 
 > **135**. Hic ponitur conspiratio principum contra prophetam.
 
-Et dividitur in tria.
+Et dividitur in tria.  
 
-Primo ponit titulum;
+Primo ponit titulum;  
 
-secundo prophetiam, ibi, ***haec dicit Dominus***;
+secundo prophetiam, ibi, ***haec dicit Dominus***;  
 
-tertio epilogat, ibi (cap. 27): ***in principio regni Joakim***.Here, the Parma edition reads *Joachim*, in place of *Joakim*.
+tertio epilogat, ibi (cap. 27): ***in principio regni Joakim***.Here, the Parma edition reads *Joachim*, in place of *Joakim*.  
 
-Titulus per se patet.
+Titulus per se patet.  
 
-Lectio 2
+Lectio 2  
 
 ***^26:2^ Haec dicit Dominus: sta in atrio domus Domini, et loqueris ad omnes civitates Juda, de quibus veniunt ut adorent in domo Domini universos sermones quos ego mandavi tibi ut loquaris ad eos. Noli subtrahere verbum,***
 
@@ -28,21 +28,21 @@ Lectio 2
 
 > **136**. Hic ponitur prophetia: et dividitur in tres partes.
 
-In prima ponitur persecutionis occasio;
+In prima ponitur persecutionis occasio;  
 
-in secunda ponitur persecutio, ibi, ***et audierunt sacerdotes*** etc.;
+in secunda ponitur persecutio, ibi, ***et audierunt sacerdotes*** etc.;  
 
-in tertia ponitur liberatio, ibi, ***et audierunt principes*** etc.
+in tertia ponitur liberatio, ibi, ***et audierunt principes*** etc.  
 
-Occasio autem fuit ex praedicatione:
+Occasio autem fuit ex praedicatione:  
 
-unde primo designat praedicationis locum: ***sta in atrio***. Supra 7: ***sta in porta domus Domini, et praedica ibi universos sermones***.
+unde primo designat praedicationis locum: ***sta in atrio***. Supra 7: ***sta in porta domus Domini, et praedica ibi universos sermones***.  
 
-Secundo quantum ad emendationis fructum: ***noli subtrahere verbum***; quantum ad emendationem culpae, ***et convertatur***; et quantum ad remissionem poenae. ***Et poeniteat***. Supra 18: ***si poenitentiam egerit gens illa a malo suo propter quod locutus sum adversus eam, agam et ego poenitentiam super mala quod cogitavi ut facerem ei***.
+Secundo quantum ad emendationis fructum: ***noli subtrahere verbum***; quantum ad emendationem culpae, ***et convertatur***; et quantum ad remissionem poenae. ***Et poeniteat***. Supra 18: ***si poenitentiam egerit gens illa a malo suo propter quod locutus sum adversus eam, agam et ego poenitentiam super mala quod cogitavi ut facerem ei***.  
 
-Tertio ponit praedicationis verbum, ***et dices***. Supra 7: ***faciam domui huic in qua invocatum est nomen meum, et in qua vos habetis fiduciam, et loco quem dedi vobis, et patribus vestris, sicut feci Silo: et projiciam vos a facie mea, sicut projeci omnes fratres vestros, universum semen Ephraim***.
+Tertio ponit praedicationis verbum, ***et dices***. Supra 7: ***faciam domui huic in qua invocatum est nomen meum, et in qua vos habetis fiduciam, et loco quem dedi vobis, et patribus vestris, sicut feci Silo: et projiciam vos a facie mea, sicut projeci omnes fratres vestros, universum semen Ephraim***.  
 
-Lectio 3
+Lectio 3  
 
 ***^26:7^ Et audierunt sacerdotes et prophetae, et omnis populus Jeremiam loquentem verba haec in domo Domini.***
 
@@ -52,15 +52,15 @@ Lectio 3
 
 > **137**. Hic ponitur persecutio: et circa hoc quatuor ponit.
 
-Primo praedicationis auditum. ***Et audierunt***. Ezech. 33: *audiunt sermones tuos, et non faciunt eos, quia in canticum oris sui vertunt illos*.
+Primo praedicationis auditum. ***Et audierunt***. Ezech. 33: *audiunt sermones tuos, et non faciunt eos, quia in canticum oris sui vertunt illos*.  
 
-Secundo iniquum consilium: ***cumque complesset Jeremias . . . apprehenderunt eum sacerdotes***. Sap. 2: *morte turpissima condemnemus eum*. Amos 5: *odio habuerunt corripientem in porta, et loquentem perfecte, abominati sunt*.
+Secundo iniquum consilium: ***cumque complesset Jeremias . . . apprehenderunt eum sacerdotes***. Sap. 2: *morte turpissima condemnemus eum*. Amos 5: *odio habuerunt corripientem in porta, et loquentem perfecte, abominati sunt*.  
 
-Tertio suae nequitiae argumentum: ***quare***Here, the Parma edition reads *quia*, “because,” in place of *quare*, “why.” ***prophetavit***; quasi dicat: videtur falsum dicere, cum Dominus locum istum elegerit. 3 Reg. ult.: *ego odi eum, quia non prophetat mihi bonum, sed malum*.
+Tertio suae nequitiae argumentum: ***quare***Here, the Parma edition reads *quia*, “because,” in place of *quare*, “why.” ***prophetavit***; quasi dicat: videtur falsum dicere, cum Dominus locum istum elegerit. 3 Reg. ult.: *ego odi eum, quia non prophetat mihi bonum, sed malum*.  
 
-Quarto populi concursum: ***et congregatus est omnis populus***. Eccli. 10: *qualis rector est civitatis, tales et inhabitantes in ea*. Ibidem 7: *non te immittas in populum, neque alliges duplicia peccata*.
+Quarto populi concursum: ***et congregatus est omnis populus***. Eccli. 10: *qualis rector est civitatis, tales et inhabitantes in ea*. Ibidem 7: *non te immittas in populum, neque alliges duplicia peccata*.  
 
-Lectio 4
+Lectio 4  
 
 ***^26:10^ Et audierunt principes Juda verba haec, et ascenderunt de domo regis in domum Domini, et sederunt in introitu portae domus Domini novae.***
 
@@ -78,31 +78,31 @@ Lectio 4
 
 > **138**. Hic ponitur liberatio: et circa hoc duo.
 
-Primo ponitur principum judicium pro liberatione Jeremiae;
+Primo ponitur principum judicium pro liberatione Jeremiae;  
 
-secundo popularis furoris sedatio per verba seniorum, ibi, ***surrexerunt ergo viri de senioribus terrae***.
+secundo popularis furoris sedatio per verba seniorum, ibi, ***surrexerunt ergo viri de senioribus terrae***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponit principum provisionem; ***et ascenderunt in domum Domini***; seditionem comprimere, ***novae***, quia de novo facta erat ad tenendum judicia sacerdotum, et eorum quae ad cultum religionis pertinebant. Deut. 16: *judices et magistros constitues in omnibus portis tuis, quas Dominus Deus tuus dederit tibi per singulas tribus tuas, ut judicent populum justo judicio, nec in alteram partem declinant* etc.
+Primo ponit principum provisionem; ***et ascenderunt in domum Domini***; seditionem comprimere, ***novae***, quia de novo facta erat ad tenendum judicia sacerdotum, et eorum quae ad cultum religionis pertinebant. Deut. 16: *judices et magistros constitues in omnibus portis tuis, quas Dominus Deus tuus dederit tibi per singulas tribus tuas, ut judicent populum justo judicio, nec in alteram partem declinant* etc.  
 
-Secundo ponit partium disceptationem quantum ad accusationem; ***et locuti sunt sacerdotes***. Et nituntur imponere quasi crimen blasphemiae ut occidatur. Similiter Act. 6: *homo iste non cessat loqui verba adversus locum sanctum et legem*.
+Secundo ponit partium disceptationem quantum ad accusationem; ***et locuti sunt sacerdotes***. Et nituntur imponere quasi crimen blasphemiae ut occidatur. Similiter Act. 6: *homo iste non cessat loqui verba adversus locum sanctum et legem*.  
 
-Et quantum ad defensionem; ***et ait Jeremias***. Respondet autem prudenter, quia excusat culpam; ***Dominus misit me***; unde non sum culpandus de his quae dixi. Eccl. 4: *ne reverearis proximum tuum in casu suo, nec retineas verbum in tempore salutis*. Isa. 48: *et nunc misit me Dominus, et Spiritus ejus*.
+Et quantum ad defensionem; ***et ait Jeremias***. Respondet autem prudenter, quia excusat culpam; ***Dominus misit me***; unde non sum culpandus de his quae dixi. Eccl. 4: *ne reverearis proximum tuum in casu suo, nec retineas verbum in tempore salutis*. Isa. 48: *et nunc misit me Dominus, et Spiritus ejus*.  
 
-Et mitigat iram, ostendens remedium; ***nunc ergo bonas facite vias vestras***. Supra 18: ***revertatur unusquisque a via sua mala, et dirigite vias vestras, et studia vestra***.
+Et mitigat iram, ostendens remedium; ***nunc ergo bonas facite vias vestras***. Supra 18: ***revertatur unusquisque a via sua mala, et dirigite vias vestras, et studia vestra***.  
 
-Respondet humiliter, quia confitetur potentiam: ***ego autem ecce in manibus vestri sum***. Prov. 15: *responsio mollis frangit iram, sermo durus suscitat furorem*.
+Respondet humiliter, quia confitetur potentiam: ***ego autem ecce in manibus vestri sum***. Prov. 15: *responsio mollis frangit iram, sermo durus suscitat furorem*.  
 
-Respondet etiam constanter, quia prohibet injuriam: ***verumtamen scitote***. Gen. 4: *vox sanguinis fratris tui clamat ad me de terra*. Et quia confirmat sententiam: ***in veritate enim misit me Dominus***. Act. 4: *si justum est in conspectu Dei vos potius audire quam Deum, judicate*.
+Respondet etiam constanter, quia prohibet injuriam: ***verumtamen scitote***. Gen. 4: *vox sanguinis fratris tui clamat ad me de terra*. Et quia confirmat sententiam: ***in veritate enim misit me Dominus***. Act. 4: *si justum est in conspectu Dei vos potius audire quam Deum, judicate*.  
 
-Tertio ponitur sententiae promulgatio, ***et dixerunt***.
+Tertio ponitur sententiae promulgatio, ***et dixerunt***.  
 
-Et primo sententia promulgatur per principes; ***non est huic viro judicium mortis***. Luc. 23: *ecce nihil dignum morte actum est ei*.
+Et primo sententia promulgatur per principes; ***non est huic viro judicium mortis***. Luc. 23: *ecce nihil dignum morte actum est ei*.  
 
-Secundo sententia confirmatur per seniores, quorum est antiqua facta scire. Job 12: *in antiquis est sapientia, et in multo tempore prudentia*.
+Secundo sententia confirmatur per seniores, quorum est antiqua facta scire. Job 12: *in antiquis est sapientia, et in multo tempore prudentia*.  
 
-Lectio 5
+Lectio 5  
 
 ***^26:17^ Surrexerunt ergo viri de senioribus terrae, et dixerunt ad omnem coetum populi loquentes:***
 
@@ -122,20 +122,18 @@ Lectio 5
 
 > **139**. Hic ponitur repressio furoris populi contra Jeremiam, per verba seniorum.
 
-Et primo proponunt exemplum justi ad imitandum circa factum Michaeae, ponentes ipsius praedicationem; ***Michaeas***; unus de duodecim prophetis minoribus, ***de Morasthi***, ad differentiam Michaeae filii Yela, de quo 3 Reg. ult.: ***Sion*** Michaeae 3: *audite principes Jacob, et duces domus Israel*. Supra 9: ***et dabo Jerusalem in acervos arenae, et cubilia draconum, et civitates Juda dabo in desolationem, eo quod non sit habitator***.
+Et primo proponunt exemplum justi ad imitandum circa factum Michaeae, ponentes ipsius praedicationem; ***Michaeas***; unus de duodecim prophetis minoribus, ***de Morasthi***, ad differentiam Michaeae filii Yela, de quo 3 Reg. ult.: ***Sion*** Michaeae 3: *audite principes Jacob, et duces domus Israel*. Supra 9: ***et dabo Jerusalem in acervos arenae, et cubilia draconum, et civitates Juda dabo in desolationem, eo quod non sit habitator***.  
 
-Et populi conversionem: ***numquid morte condemnavit eum?*** quasi dicat, non. Supra 6: ***interrogate de semitis antiquis quae sit via bona, et ambulate in ea; et invenietis refrigerium animabus vestris***. Et inducunt conclusionem: ***itaque nos***Here, the Parma edition reads *non*, “not,” in place of *nos*, “we.” ***faciamus***. Psal. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*.
+Et populi conversionem: ***numquid morte condemnavit eum?*** quasi dicat, non. Supra 6: ***interrogate de semitis antiquis quae sit via bona, et ambulate in ea; et invenietis refrigerium animabus vestris***. Et inducunt conclusionem: ***itaque nos***Here, the Parma edition reads *non*, “not,” in place of *nos*, “we.” ***faciamus***. Psal. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*.  
 
-Secundo proponunt exemplum injustitiae ad cavendum, ne malis mala adjungant; ***fuit quoque vir prophetans***.
+Secundo proponunt exemplum injustitiae ad cavendum, ne malis mala adjungant; ***fuit quoque vir prophetans***.  
 
-Et primo ponitur ipsius praedicatio; ***et prophetavit***. 1 Cor. 14: *non enim est Deus dissensionis, sed pacis*. Et ideo omnes idem dicebant.
+Et primo ponitur ipsius praedicatio; ***et prophetavit***. 1 Cor. 14: *non enim est Deus dissensionis, sed pacis*. Et ideo omnes idem dicebant.  
 
-Secundo ponitur persecutio, et fuga; ***et audivit . . . fugitque***. Matth. 10: *si persecuti vos fuerint in una civitate, fugite in aliam*.
+Secundo ponitur persecutio, et fuga; ***et audivit . . . fugitque***. Matth. 10: *si persecuti vos fuerint in una civitate, fugite in aliam*.  
 
-Tertio ipsius interfectio; ***et misit rex***; quia Aegyptiis foederatus erat.
+Tertio ipsius interfectio; ***et misit rex***; quia Aegyptiis foederatus erat.  
 
-Ideo autem iste occisus est, et Jeremias liberatus, quia Deus aliquos permittit occidi de sanctis ad condemnationem malorum, et exemplum patientiae bonorum, Jacobi ult.: *exemplum accipite fratres exitus mali, et longanimitatis, et laboris, et patientiae, prophetas qui locuti sunt in nomine Domini*. Similiter Act. 12, Jacobus occiditur, Petrus liberatur.
+Ideo autem iste occisus est, et Jeremias liberatus, quia Deus aliquos permittit occidi de sanctis ad condemnationem malorum, et exemplum patientiae bonorum, Jacobi ult.: *exemplum accipite fratres exitus mali, et longanimitatis, et laboris, et patientiae, prophetas qui locuti sunt in nomine Domini*. Similiter Act. 12, Jacobus occiditur, Petrus liberatur.  
 
 Tertio ponitur sententiae executio de liberatione Jeremiae: ***igitur manus Ahicam filii Saphan fuit cum Jeremia***. Et planum est.
-
-Caput 27

@@ -1,3 +1,1 @@
 # AveMaria.S1.16
-
-Third, the fullness of grace in Mary was such that its effects overflow upon all men.Note that Aquinas here treats of the Blessed Virgin Mary as universal mediatrix. It is a great thing in a saint when he has grace to bring about his own salvation, and greater when there is so much grace to bring about the salvation of many. But it is exceedingly wonderful when grace is of such abundance as to be sufficient for the salvation of all men in the world, and this is true of Christ and of the blessed Virgin. For in every danger you can obtain safety from the glorious Virgin. Thus: *a thousand bucklers*, that is, remedies against dangers, *hang therefrom* (Song 4:4).

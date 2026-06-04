@@ -1,7 +1,5 @@
 # Articuli 24-25
 
-Vigesimus quintus articulus, an similiter corpora damnatorum.
+Vigesimus quintus articulus, an similiter corpora damnatorum.  
 
 Ad hoc videtur dicendum, quod cum dicitur aliquid incorruptibile esse per naturam significatur per naturam esse incorruptionis causam; cum praepositio per causam designet. Est autem duplex causa: scilicet per se, et per accidens. Per se quidem causa alicuius est quod directe est illius causa per suam virtutem, sicut aqua est causa infrigidandi; per accidens autem est causa alicuius, quod indirecte causat illud, puta removendo causam contrariam; sicut removens ignem de domo est causa infrigidationis eius. Cum ergo dicitur cessante motu caeli corpus hominis esse incorruptibile per naturam, si ly per dicit causam per se, falsum est: non enim ad hoc se extendit virtus naturae creatae, ut causare possit incorruptionem corporis ex contrariis compositi. Si autem dicit causam per accidens, sic aliquo modo verum est quod dicitur; quia subtracta causa universalis corruptionis naturalis, subtrahitur corruptio. In hoc etiam sensu melius diceretur negative quam privative; puta si sic diceretur: cessante motu caeli, corpus hominis, si divina virtute remaneat, non erit corruptibile per naturam. Verum, quia semper id quod est per se potius est eo quod est per accidens, potius videtur dicendum, quod erit corruptibile per naturam, sed incorruptibile per gratiam, vel iustitiam. Vel si contrarium dicatur, debet dici cum determinatione sanum sensum exprimente.
-
-Articulus 26

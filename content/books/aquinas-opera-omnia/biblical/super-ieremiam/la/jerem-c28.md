@@ -10,43 +10,43 @@
 
 > **143**. Hic descendit specialiter ad quosdam falsos prophetas:
 
-et primo ad quemdam qui praedicebat relictis in Jerusalem;
+et primo ad quemdam qui praedicebat relictis in Jerusalem;  
 
-secundo ad quosdam qui prophetabant captivis in Babylonia, cap. 29: ***et haec sunt verba libri quem misit Jeremias propheta***.
+secundo ad quosdam qui prophetabant captivis in Babylonia, cap. 29: ***et haec sunt verba libri quem misit Jeremias propheta***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur falsa consolatio falsi prophetae;
+Primo ponitur falsa consolatio falsi prophetae;  
 
-secundo falsitatis improbatio per Jeremiam, ibi, ***et factum est verbum Domini ad Jeremiam***.
+secundo falsitatis improbatio per Jeremiam, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur falsa consolatio, quam falsus propheta fecit verbo;
+Primo ponitur falsa consolatio, quam falsus propheta fecit verbo;  
 
-secundo quam fecit facto, ibi, ***et tulit Hananias propheta catenam de collo Jeremiae***.
+secundo quam fecit facto, ibi, ***et tulit Hananias propheta catenam de collo Jeremiae***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponitur falsa consolatio;
+Primo ponitur falsa consolatio;  
 
-secundo Jeremiae responsio, ibi, ***et dixit Jeremias*** etc.
+secundo Jeremiae responsio, ibi, ***et dixit Jeremias*** etc.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponit falsae prophetiae titulum, in quo designatur tempus: ***in anno quarto***, propheta, ***Hananias propheta***, opinione, locus, ***in domo Domini***. Supra 23: ***in domo mea inveni malum eorum, ait Dominus***.
+Primo ponit falsae prophetiae titulum, in quo designatur tempus: ***in anno quarto***, propheta, ***Hananias propheta***, opinione, locus, ***in domo Domini***. Supra 23: ***in domo mea inveni malum eorum, ait Dominus***.  
 
-Secundo ponit falsum consolationis verbum: ***haec dicit Dominus***:
+Secundo ponit falsum consolationis verbum: ***haec dicit Dominus***:  
 
-et primo promittit libertatem, ***contrivi***, destruxi: propter certitudinem dicitur in praeterito: ***jugum***,Here, the Parma edition reads *imperium*, “command,” in place of *iugum*, “yoke.” quod conterendum quidem erat, sed non tunc. Isa. 10: *computrescet jugum a facie olei*.
+et primo promittit libertatem, ***contrivi***, destruxi: propter certitudinem dicitur in praeterito: ***jugum***,Here, the Parma edition reads *imperium*, “command,” in place of *iugum*, “yoke.” quod conterendum quidem erat, sed non tunc. Isa. 10: *computrescet jugum a facie olei*.  
 
-Secundo praedicit impletionis propinquitatem: ***adhuc duo anni dierum***, ne credantur anni annorum, sicut illud Ezech. 4: *diem pro anno, diem, inquam, pro anno dedi tibi*.
+Secundo praedicit impletionis propinquitatem: ***adhuc duo anni dierum***, ne credantur anni annorum, sicut illud Ezech. 4: *diem pro anno, diem, inquam, pro anno dedi tibi*.  
 
-Et primo quantum ad reportationem vasorum: ***et ego referri faciam ad locum istum omnia vasa Domini***, de quorum captione Thren. 1: *manum suam misit hostis ad omnia desiderabilia ejus* etc.
+Et primo quantum ad reportationem vasorum: ***et ego referri faciam ad locum istum omnia vasa Domini***, de quorum captione Thren. 1: *manum suam misit hostis ad omnia desiderabilia ejus* etc.  
 
-Secundo quantum ad liberationem principum suorum, ***et Jechoniam***, contra id quod supra capite praecedenti dictum est. Supra 22: ***terra, terra, terra, audi sermonem Domini***.
+Secundo quantum ad liberationem principum suorum, ***et Jechoniam***, contra id quod supra capite praecedenti dictum est. Supra 22: ***terra, terra, terra, audi sermonem Domini***.  
 
-Lectio 2
+Lectio 2  
 
 ***^28:5^ Et dixit Jeremias propheta ad Hananiam prophetam, in oculis sacerdotum, et in oculis omnis populi, qui stabat in domo Domini.***
 
@@ -60,15 +60,15 @@ Lectio 2
 
 > **144**. Hic ponitur Jeremiae responsio,
 
-et primo demonstrat suum affectum, optans impleri quod ipse dicebat, ***amen***, idest fiat. Michaeae 2: *utinam non essem vir habens Spiritum, et mendacium potius loquerer*. Nec obstat quod sciebat Dominum contrarium velle, quia haec optatio sub conditione intelligenda est, scilicet si Deus vellet, et quia in hoc suam voluntatem divinae conformat quod vult quod Deus esse vult.
+et primo demonstrat suum affectum, optans impleri quod ipse dicebat, ***amen***, idest fiat. Michaeae 2: *utinam non essem vir habens Spiritum, et mendacium potius loquerer*. Nec obstat quod sciebat Dominum contrarium velle, quia haec optatio sub conditione intelligenda est, scilicet si Deus vellet, et quia in hoc suam voluntatem divinae conformat quod vult quod Deus esse vult.  
 
-Secundo ne videatur falsitati consentire, proponit veritatis signum: ***Verumtamen audi***. Et sumitur hoc signum Deut. 18: *quod in nomine Domini propheta ille praedixerit, et non evenerit, hoc Dominus non est locutus*.
+Secundo ne videatur falsitati consentire, proponit veritatis signum: ***Verumtamen audi***. Et sumitur hoc signum Deut. 18: *quod in nomine Domini propheta ille praedixerit, et non evenerit, hoc Dominus non est locutus*.  
 
-Sed ipse videtur a contrario sensu arguere: et videtur quod non valeat, quia est destructio antecedentis: et propterea contrarium habetur Deut. 13: *si surrexerit in medio tui prophetes, aut qui somnium vidisse se dicat, et praedixerit signum atque portentum, et evenerit quod locutus est, dixerit tibi: eamus, et sequamur deos alienos quos ignoras, et serviamus eis: non audies verba prophetae illius, aut somniatoris* etc.
+Sed ipse videtur a contrario sensu arguere: et videtur quod non valeat, quia est destructio antecedentis: et propterea contrarium habetur Deut. 13: *si surrexerit in medio tui prophetes, aut qui somnium vidisse se dicat, et praedixerit signum atque portentum, et evenerit quod locutus est, dixerit tibi: eamus, et sequamur deos alienos quos ignoras, et serviamus eis: non audies verba prophetae illius, aut somniatoris* etc.  
 
-Et dicendum, quod argumentum efficax est ad ostendendum ejus falsitatem; et hoc ipse intendit.
+Et dicendum, quod argumentum efficax est ad ostendendum ejus falsitatem; et hoc ipse intendit.  
 
-Lectio 3
+Lectio 3  
 
 ***^28:10^ Et tulit Hananias propheta catenam de collo Jeremiae prophetae, et confregit eam.***
 
@@ -78,13 +78,13 @@ Lectio 3
 
 > **145**. Hic confirmat prophetiam suam facto: et circa hoc tria.
 
-Primo ponit facti similitudinem: ***tulit et fregit***, in signum fractionis imperii Babyloniae;
+Primo ponit facti similitudinem: ***tulit et fregit***, in signum fractionis imperii Babyloniae;  
 
-secundo exponit similitudinem: ***et ait Hananias***. Hoc longe post futurum erat. Infra 30: ***conteram jugum illius de collo tuo, et vincula ejus disrumpam***.
+secundo exponit similitudinem: ***et ait Hananias***. Hoc longe post futurum erat. Infra 30: ***conteram jugum illius de collo tuo, et vincula ejus disrumpam***.  
 
-Tertio designatur Jeremiae humilitas, quia patienter, et libenter sustinuit ***et abiit***. Psalm. 37: *factus sum sicut homo non audiens, et non habens in ore suo redargutiones*.
+Tertio designatur Jeremiae humilitas, quia patienter, et libenter sustinuit ***et abiit***. Psalm. 37: *factus sum sicut homo non audiens, et non habens in ore suo redargutiones*.  
 
-Lectio 4
+Lectio 4  
 
 ***^28:12b^ Et factum est verbum Domini ad Jeremiam, postquam confregit Hananias propheta catenam de collo Jeremiae prophetae, dicens:***
 
@@ -100,16 +100,14 @@ Lectio 4
 
 > **146**. Hic ponitur falsitatis improbatio:
 
-et primo excludit falsam consolationem, facti similitudine, ***contrivisti***, tu Hananias; et tu Jeremias, ***facies***, in signum augmentationis poenae. Job 6: *qui timent pruinam, irruet super eos nix*.
+et primo excludit falsam consolationem, facti similitudine, ***contrivisti***, tu Hananias; et tu Jeremias, ***facies***, in signum augmentationis poenae. Job 6: *qui timent pruinam, irruet super eos nix*.  
 
-Et similitudinis expositionem: ***quia haec dicit Dominus***; ac si diceret: jugum servitutis durius erit quam praesignificatum sit. Eccl. 28: *jugum illius jugum ferreum est, et vinculum illius vinculum aereum est*.
+Et similitudinis expositionem: ***quia haec dicit Dominus***; ac si diceret: jugum servitutis durius erit quam praesignificatum sit. Eccl. 28: *jugum illius jugum ferreum est, et vinculum illius vinculum aereum est*.  
 
-Secundo ponitur comminatio contra ipsum prophetantem:
+Secundo ponitur comminatio contra ipsum prophetantem:  
 
-et primo ponitur culpae repressio: ***et dixit Jeremias . . . non te misit***. Isa. 24: *posuimus mendacium spem nostram, et mendacio protecti sumus*.
+et primo ponitur culpae repressio: ***et dixit Jeremias . . . non te misit***. Isa. 24: *posuimus mendacium spem nostram, et mendacio protecti sumus*.  
 
-Secundo ponitur poenae comminatio: ***idcirco emittam te***; idest, tollam per mortem. Psalm. 18: *non sic impii, non sic, sed tamquam pulvis quem projicit ventus a facie terrae*.
+Secundo ponitur poenae comminatio: ***idcirco emittam te***; idest, tollam per mortem. Psalm. 18: *non sic impii, non sic, sed tamquam pulvis quem projicit ventus a facie terrae*.  
 
 Tertio ponitur prophetiae impletio: ***et mortuus est mense septimo***: unde non supervixit nisi duobus mensibus. 1 Thess. 5: *cum dixerint, pax, et securitas; tunc repentinus eis superveniet interitus, sicut dolor in utero habentis, et non effugient*.
-
-Caput 29

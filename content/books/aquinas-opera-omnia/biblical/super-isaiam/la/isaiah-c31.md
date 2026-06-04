@@ -18,28 +18,26 @@
 
 > **693**. ***Vae qui descendunt***. In parte ista comminatur utrisque simul, scilicet Aegyptiis et Judaeis, et circa hoc duo facit:
 
-primo ponit comminationem,
+primo ponit comminationem,  
 
-secundo consolationem, ibi ***quia haec dicit Dominus***.
+secundo consolationem, ibi ***quia haec dicit Dominus***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Ponit primo culpam ex confidentia humani auxilii: ***in equis sperantes***, Ps. *fallax equus ad salutem, in abundantia virtutis suae non salvabitur*; et ex contemptu divini auxilii: ***et non sunt confisi***, contra in Psalmo *hi in curribus et hi in equis, nos autem in nomine Dei nostri speravimus*.
+Ponit primo culpam ex confidentia humani auxilii: ***in equis sperantes***, Ps. *fallax equus ad salutem, in abundantia virtutis suae non salvabitur*; et ex contemptu divini auxilii: ***et non sunt confisi***, contra in Psalmo *hi in curribus et hi in equis, nos autem in nomine Dei nostri speravimus*.  
 
-**694**. Secundo comminatur poenam: ***ipse autem***.
+**694**. Secundo comminatur poenam: ***ipse autem***.  
 
-Et primo contra contemptum divini auxilii ponit Dei sapientiam, et sententiae firmitatem: ***et verba non abstulit***, id est non irrita fecit quae per prophetas comminatus est, Num. XXIII 19 *non est Deus ut homo ut mentiatur, nec ut filius hominis ut mutetur*; et subjungit poenam: ***et consurget***.
+Et primo contra contemptum divini auxilii ponit Dei sapientiam, et sententiae firmitatem: ***et verba non abstulit***, id est non irrita fecit quae per prophetas comminatus est, Num. XXIII 19 *non est Deus ut homo ut mentiatur, nec ut filius hominis ut mutetur*; et subjungit poenam: ***et consurget***.  
 
-<Secundo> contra fiduciam humani auxilii ponit eorum debilitatem: ***Aegyptus homo***, Ez. XXVIII 9 *cum sis homo et non Deus, in manu odientium te*; et subjungit poenam: ***et corruet auxiliator***, Job IV 19 *qui habitant domos luteas, qui terrenum habent fundamentum*.
+<Secundo> contra fiduciam humani auxilii ponit eorum debilitatem: ***Aegyptus homo***, Ez. XXVIII 9 *cum sis homo et non Deus, in manu odientium te*; et subjungit poenam: ***et corruet auxiliator***, Job IV 19 *qui habitant domos luteas, qui terrenum habent fundamentum*.  
 
-**695**. ***Quia haec dicit Dominus***. Hic ponit consolationem, promittens per Deum liberationem ab hostibus a quibus per Aegyptios liberari non potuerunt. Et circa hoc tria facit.
+**695**. ***Quia haec dicit Dominus***. Hic ponit consolationem, promittens per Deum liberationem ab hostibus a quibus per Aegyptios liberari non potuerunt. Et circa hoc tria facit.  
 
-Primo ponit Judaeorum defensionem sub similitudine leonis defendentis, dicens: vos et Aegyptii peribitis in quibus confidebatis me contempto: ***quia haec dicit Dominus*** qui solus salvat; ***ut praelietur***, tamquam defensor contra illos qui impediebant aedificationem templi post reditum de captivitate; vel contra Assyrios, Oseae XIII 7 *ego ero eis quasi leaena, sicut pardus in via Assyriorum*. Et sub similitudine avis protegentis: ***sicut aves***, Matth. III *sicut gallina congregat pullos suos sub alis, et noluisti*, Deut. XXXII 11 *sicut aquila provocans ad volandum pullos suos, et super eos volitans*.
+Primo ponit Judaeorum defensionem sub similitudine leonis defendentis, dicens: vos et Aegyptii peribitis in quibus confidebatis me contempto: ***quia haec dicit Dominus*** qui solus salvat; ***ut praelietur***, tamquam defensor contra illos qui impediebant aedificationem templi post reditum de captivitate; vel contra Assyrios, Oseae XIII 7 *ego ero eis quasi leaena, sicut pardus in via Assyriorum*. Et sub similitudine avis protegentis: ***sicut aves***, Matth. III *sicut gallina congregat pullos suos sub alis, et noluisti*, Deut. XXXII 11 *sicut aquila provocans ad volandum pullos suos, et super eos volitans*.  
 
-**696**. Secundo ponit hostium destructionem, promittens consilium ad hoc merendum: ***convertimini***, ad me, Prov. XVIII 3 *impius cum in profundum venerit peccatorum contemnit*, Ro. VI 19 *sicut exhibuistis membra vestra servire iniquitati ad iniquitatem, ita nunc exhibete servire munditiae in sanctificationem*. Et ponit complementum: ***in die illa***, supra II 20 ***in die illa projiciet homo idola sua***. Et ponit fructum, scilicet ipsam destructionem quantum ad occisorum necem: ***in gladio***, Deut. XXXII 42 *gladius meus devorabit carnes*; et quantum ad residuorum deletionem in fuga, timorem et servitutem, quia ***vectigales*** postmodum Babyloniis.
+**696**. Secundo ponit hostium destructionem, promittens consilium ad hoc merendum: ***convertimini***, ad me, Prov. XVIII 3 *impius cum in profundum venerit peccatorum contemnit*, Ro. VI 19 *sicut exhibuistis membra vestra servire iniquitati ad iniquitatem, ita nunc exhibete servire munditiae in sanctificationem*. Et ponit complementum: ***in die illa***, supra II 20 ***in die illa projiciet homo idola sua***. Et ponit fructum, scilicet ipsam destructionem quantum ad occisorum necem: ***in gladio***, Deut. XXXII 42 *gladius meus devorabit carnes*; et quantum ad residuorum deletionem in fuga, timorem et servitutem, quia ***vectigales*** postmodum Babyloniis.  
 
-**697**. Tertio ponit utriusque confirmationem: ***dixit Dominus cujus ignis***, comburens Assyrios, supra X 17 ***erit lumen Israel in igne et Sanctus ejus in flamma***; vel ***ignis***, in altari thymiamatis, ***caminus***, in altari holocaustorum, Levit. VI 12 *ignis in altari meo semper ardebit*; vel ***ignis*** caritatis in Ecclesia militante imperfecte, sed ***caminus*** in Ecclesia triumphante perfecte.
+**697**. Tertio ponit utriusque confirmationem: ***dixit Dominus cujus ignis***, comburens Assyrios, supra X 17 ***erit lumen Israel in igne et Sanctus ejus in flamma***; vel ***ignis***, in altari thymiamatis, ***caminus***, in altari holocaustorum, Levit. VI 12 *ignis in altari meo semper ardebit*; vel ***ignis*** caritatis in Ecclesia militante imperfecte, sed ***caminus*** in Ecclesia triumphante perfecte.  
 
 **698**. Nota quod caritas dicitur ***ignis***: require in praecedenti collatione ante principium capituli.
-
-Caput 32

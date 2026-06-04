@@ -1,14 +1,14 @@
 # None
 
-Gloria Patri, et Filio, * et Spiritui Sancto.
+Gloria Patri, et Filio, * et Spiritui Sancto.  
 
-Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]
+Sicut erat in principio, et nunc, et semper, * et in saecula saeculorum. Amen. Alleluia]  
 
-{image 104}
+{image 104}  
 
-*Antiphona*. Vincenti dabo manna absconditum et nomen novum, alleluia.
+*Antiphona*. Vincenti dabo manna absconditum et nomen novum, alleluia.  
 
-Contra *Ex quo omnia* de Trinitate.
+Contra *Ex quo omnia* de Trinitate.  
 
 ***Psalmus 118:129–176***
 
@@ -130,26 +130,30 @@ Contra *Ex quo omnia* de Trinitate.
 
 ***{image 068}***
 
-℟. Educas panem de terra, alleluia, alleluia.
+℟. Educas panem de terra, alleluia, alleluia.  
 
-℣. Et vinum laetificet cor hominis. Gloria Patri et Filio et Spiritui Sancto. * Educas panem de terra, alleluia, alleluia.
+℣. Et vinum laetificet cor hominis. Gloria Patri et Filio et Spiritui Sancto. * Educas panem de terra, alleluia, alleluia.  
 
-Versiculus
+Versiculus  
 
 ***[Cf. Ps 147:3 (14)]***
 
 ***none-versiculus***
 
-℣. Posuit fines tuos pacem, alleluia.
+℣. Posuit fines tuos pacem, alleluia.  
 
-℟. Et adipe frumenti satiat te, alleluia.
+℟. Et adipe frumenti satiat te, alleluia.  
 
-Oratio
+Oratio  
 
-***[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.]***
+***[℣. Domine, exaudi orationem meam.***
+***℟. Et clamor meus ad te veniat.]***
 
-*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.
+*Oremus*. Deus qui nobis sub sacramento mirabili Passionis tuae memoriam reliquisti, tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas cum Deo Patre in unitate Spiritu Sancti, Deus, per omnia saecula saeculorum. Amen.  
 
-[℣. Domine, exaudi orationem meam.℟. Et clamor meus ad te veniat.℣. Benedicamus Domino.℟. Deo gratias.℣. Fidelium animae per misericordiam Dei requiescant in pace.℟. Amen.]
-
-In secundis vesperis
+[℣. Domine, exaudi orationem meam.  
+℟. Et clamor meus ad te veniat.  
+℣. Benedicamus Domino.  
+℟. Deo gratias.  
+℣. Fidelium animae per misericordiam Dei requiescant in pace.  
+℟. Amen.]

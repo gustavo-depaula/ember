@@ -1,3 +1,1 @@
 # Immensa.S1.6
-
-So that, on the aforesaid feria five and the following octave, remembrance of this same saving institution may be performed more honorably and its ceremony have greater participation, in place of the distributions of material goods that are bestowed in cathedral churches, during current established times, night as well as day, the aforesaid Roman Pope grants to those who, during its times, personally take part in this ceremony at church spiritual stipends through apostolic generosity, so that by them the faithful more eagerly and more numerously may come together for the celebration of so great a feast.

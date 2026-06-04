@@ -2,28 +2,70 @@
 
 ***Gratias tibi ago,***
 
-> Domine Sancte,Pater omnipotens,aeterne Deus,
+> Domine Sancte,
+> Pater omnipotens,
+> aeterne Deus,
 
-> qui mepeccatorem, indignum famulum tuum,nullis meis meritis,sed sola dignationemisericordiae tuae,satiaredignatus espretioso Corpore et SanguineFilii tuiDomini nostri Iesu Christi.
+> qui me
+> peccatorem, indignum famulum tuum,
+> nullis meis meritis,
+> sed sola dignatione
+> misericordiae tuae,
+> satiare
+> dignatus es
+> pretioso Corpore et Sanguine
+> Filii tui
+> Domini nostri Iesu Christi.
 
-> Et precor teut haec Sancta Communionon sit mihireatus ad poenam,sed intercessio salutaris ad veniam.
+> Et precor te
+> ut haec Sancta Communio
+> non sit mihi
+> reatus ad poenam,
+> sed intercessio salutaris ad veniam.
 
-> Sit mihiarmatura fidei,et scutum bonae voluntatis.
+> Sit mihi
+> armatura fidei,
+> et scutum bonae voluntatis.
 
-> Sitvitiorum meorum evacuatio;concupiscentiae et libidinisexterminatio;The Marietti edition omits *concupiscentiae et libidinis exterminatio*.caritatiset patientiae,humilitatiset obedientiae,omniumque virtutumaugmentatio;
+> Sit
+> vitiorum meorum evacuatio;
+> concupiscentiae et libidinis
+> exterminatio;The Marietti edition omits *concupiscentiae et libidinis exterminatio*.
+> caritatis
+> et patientiae,
+> humilitatis
+> et obedientiae,
+> omniumque virtutum
+> augmentatio;
 
-> contra insidias inimicorum omnium,tam visibilium quam invisibilium,firma defensio;
+> contra insidias inimicorum omnium,
+> tam visibilium quam invisibilium,
+> firma defensio;
 
-> motuum meorum,tam carnalium quam spiritualium, perfecta quietatio:
+> motuum meorum,
+> tam carnalium quam spiritualium, perfecta quietatio:
 
-> in te uno ac vero Deofirma adhaesio, atque meifinisfelix consummatio.
+> in te uno ac vero Deo
+> firma adhaesio, atque mei
+> finis
+> felix consummatio.
 
-> Et precor te,ut ad illud ineffabile convivium mepeccatoremperducere digneris,ubi tucum Filio tuoet Spiritu Sancto,
+> Et precor te,
+> ut ad illud ineffabile convivium me
+> peccatorem
+> perducere digneris,
+> ubi tu
+> cum Filio tuo
+> et Spiritu Sancto,
 
 > sanctis tuis es
 
-> lux vera,satietas plena,gaudium sempiternum,iucunditas consummata,et felicitas perfecta.
+> lux vera,
+> satietas plena,
+> gaudium sempiternum,
+> iucunditas consummata,
+> et felicitas perfecta.
 
-> Pereundem Christum Dominum nostrum.Amen.
-
-> Concede Mihi
+> Per
+> eundem Christum Dominum nostrum.
+> Amen.

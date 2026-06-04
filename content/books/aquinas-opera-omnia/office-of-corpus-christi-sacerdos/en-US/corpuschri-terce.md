@@ -1,12 +1,12 @@
 # Terce
 
-Glory be to the Father, and to the Son, * and to the Holy Spirit.
+Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
-As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]
+As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*. You have nourished your people with the food of the angels, and you have provided them bread from heaven, alleluia. [Cf. Wis 16:20]
+*Antiphon*. You have nourished your people with the food of the angels, and you have provided them bread from heaven, alleluia. [Cf. Wis 16:20]  
 
-Sung to *Pauper esca* from the feast of St. Dominic.
+Sung to *Pauper esca* from the feast of St. Dominic.  
 
 ***Psalm 118 (119):33–48, 49–64, 65–80***
 
@@ -126,26 +126,30 @@ Sung to *Pauper esca* from the feast of St. Dominic.
 
 > [℟. Thanks be to God.]
 
-Responsory
+Responsory  
 
-℟. He gave them the bread of heaven, alleluia, alleluia.
+℟. He gave them the bread of heaven, alleluia, alleluia.  
 
-℣. Mankind ate the bread of the angels, alleluia, alleluia. Glory be to the Father, and to the Son, and to the Holy Spirit. * He gave them the bread of heaven, alleluia, alleluia. [Ps 77 (78):24–25]
+℣. Mankind ate the bread of the angels, alleluia, alleluia. Glory be to the Father, and to the Son, and to the Holy Spirit. * He gave them the bread of heaven, alleluia, alleluia. [Ps 77 (78):24–25]  
 
-Versicle
+Versicle  
 
 ***[Psalm 80 (81):17]***
 
-℣. He fed them from the finest grain, alleluia.
+℣. He fed them from the finest grain, alleluia.  
 
-℟. And he filled them with honey from a rock, alleluia.
+℟. And he filled them with honey from a rock, alleluia.  
 
-Prayer
+Prayer  
 
-***[℣. O Lord, hear my prayer.℟. And let my cry come unto you.]***
+***[℣. O Lord, hear my prayer.***
+***℟. And let my cry come unto you.]***
 
-*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-[℣. O Lord, hear my prayer.℟. And let my cry come unto you.℣. Let us bless the Lord.℟. Thanks be to God.℣. May the souls of the faithful departed, through the mercy of God, rest in peace.℟. Amen.]
-
-Sext
+[℣. O Lord, hear my prayer.  
+℟. And let my cry come unto you.  
+℣. Let us bless the Lord.  
+℟. Thanks be to God.  
+℣. May the souls of the faithful departed, through the mercy of God, rest in peace.  
+℟. Amen.]

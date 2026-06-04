@@ -1,12 +1,12 @@
 # Sext
 
-Glory be to the Father, and to the Son, * and to the Holy Spirit.
+Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
-As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]
+As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*. Rich is the bread of Christ and he will offer delicacies to kings, alleluia. [Cf. Gen 49:20]
+*Antiphon*. Rich is the bread of Christ and he will offer delicacies to kings, alleluia. [Cf. Gen 49:20]  
 
-Sung to *Scala caelo* from the feast of St. Dominic.
+Sung to *Scala caelo* from the feast of St. Dominic.  
 
 ***Psalm 118 (119):81–96, 97–112, 113–128***
 
@@ -126,24 +126,28 @@ Sung to *Scala caelo* from the feast of St. Dominic.
 
 > Responsory
 
-℟. He fed them from the finest grain, alleluia, alleluia.
+℟. He fed them from the finest grain, alleluia, alleluia.  
 
-℣. And he filled them with honey from a rock, alleluia, alleluia. Glory be to the Father, and to the Son, and to the Holy Spirit. * He fed them from the finest grain, alleluia, alleluia. [Psalm 80 (81):17]
+℣. And he filled them with honey from a rock, alleluia, alleluia. Glory be to the Father, and to the Son, and to the Holy Spirit. * He fed them from the finest grain, alleluia, alleluia. [Psalm 80 (81):17]  
 
-Versicle
+Versicle  
 
 ***[Psalm 103 (104):14–15]***
 
-℣. May you produce bread from the earth, alleluia.
+℣. May you produce bread from the earth, alleluia.  
 
-℟. And may wine gladden the heart of man, alleluia.
+℟. And may wine gladden the heart of man, alleluia.  
 
-Prayer
+Prayer  
 
-***[℣. O Lord, hear my prayer.℟. And let my cry come unto you.]***
+***[℣. O Lord, hear my prayer.***
+***℟. And let my cry come unto you.]***
 
-*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-[℣. O Lord, hear my prayer.℟. And let my cry come unto you.℣. Let us bless the Lord.℟. Thanks be to God.℣. May the souls of the faithful departed, through the mercy of God, rest in peace.℟. Amen.]
-
-None
+[℣. O Lord, hear my prayer.  
+℟. And let my cry come unto you.  
+℣. Let us bless the Lord.  
+℟. Thanks be to God.  
+℣. May the souls of the faithful departed, through the mercy of God, rest in peace.  
+℟. Amen.]

@@ -24,31 +24,31 @@
 
 > **187**. Hic convincit eos de transgressione, exemplo quorumdam obedientium.
 
-Et primo ponitur obedientiae experimentum;
+Et primo ponitur obedientiae experimentum;  
 
-secundo ponitur inobedientium condemnatio, ibi, ***et factum est verbum Domini ad Jeremiam***.
+secundo ponitur inobedientium condemnatio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ponitur experiendi jussio a Domino ad prophetam: ***vade ad domum Rechabitarum***, qui dediti erant studio Scripturae, et ideo a vino abstinebant, de quibus 1 Paral. 2: *cognationes scribarum habitantium in Jabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinaei qui venerunt de Calore patris domus Rechab. **Exedram***, quasi cameram extra principalem aedem. ***Dabis***, probans eorum obedientiam. Supra 6: ***probatorem dedi te in populo meo robustum, et scies, et probabis vias eorum***.
+Primo ponitur experiendi jussio a Domino ad prophetam: ***vade ad domum Rechabitarum***, qui dediti erant studio Scripturae, et ideo a vino abstinebant, de quibus 1 Paral. 2: *cognationes scribarum habitantium in Jabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinaei qui venerunt de Calore patris domus Rechab. **Exedram***, quasi cameram extra principalem aedem. ***Dabis***, probans eorum obedientiam. Supra 6: ***probatorem dedi te in populo meo robustum, et scies, et probabis vias eorum***.  
 
-***Et assumpsi . . . et introduxi eos in domum Domini ad gazophylacium***, in quo divitiae templi conservabantur. ***Gaza***, divitiae, ***phylaxa***, conservatio in Graeco dicitur. ***Maasiae***, qui tempore David hoc ministerium acceperat: 1 Paralip. 24: ***vestibuli***, atrii. Quia enim domus ante cameram principum, ubi vestes custodiuntur, vestibulum dicitur, inolevit usus ut omne atrium, vestibulum dicatur.
+***Et assumpsi . . . et introduxi eos in domum Domini ad gazophylacium***, in quo divitiae templi conservabantur. ***Gaza***, divitiae, ***phylaxa***, conservatio in Graeco dicitur. ***Maasiae***, qui tempore David hoc ministerium acceperat: 1 Paralip. 24: ***vestibuli***, atrii. Quia enim domus ante cameram principum, ubi vestes custodiuntur, vestibulum dicitur, inolevit usus ut omne atrium, vestibulum dicatur.  
 
-***Calices***, ad aquam. ***Bibite vinum***, ut experimentum sumat mysteriorum. Proverb. 9: *comedite panem meum, et bibite vinum quod miscui vobis*.
+***Calices***, ad aquam. ***Bibite vinum***, ut experimentum sumat mysteriorum. Proverb. 9: *comedite panem meum, et bibite vinum quod miscui vobis*.  
 
-Tertio ponitur obedientiae protestatio, ***qui responderunt***.
+Tertio ponitur obedientiae protestatio, ***qui responderunt***.  
 
-Et primo inducitur paterna jussio de non bibendo vino, ***non bibetis***. Eccl. 2: *cogitavi a vino abstrahere carnem meam, ut animum meum transferrem ad sapientiam*.
+Et primo inducitur paterna jussio de non bibendo vino, ***non bibetis***. Eccl. 2: *cogitavi a vino abstrahere carnem meam, ut animum meum transferrem ad sapientiam*.  
 
-Et de paupertate, ne solicitudine temporalium, sapientiae studium intermitterent. ***Et domum non aedificabitis***. 2 Corinth. 6: *tamquam nihil habentes et omnia possidentes*.
+Et de paupertate, ne solicitudine temporalium, sapientiae studium intermitterent. ***Et domum non aedificabitis***. 2 Corinth. 6: *tamquam nihil habentes et omnia possidentes*.  
 
-Secundo ponitur adimpletio: ***obedivimus ergo***. Prov. 3: *fili mi ne obliviscaris legis meae, et praecepta mea cor tuum custodiat*.
+Secundo ponitur adimpletio: ***obedivimus ergo***. Prov. 3: *fili mi ne obliviscaris legis meae, et praecepta mea cor tuum custodiat*.  
 
-***In tabernaculis***. Sapient. 11: *in locis desertis fecerunt casas*.
+***In tabernaculis***. Sapient. 11: *in locis desertis fecerunt casas*.  
 
-Tertio excusatur necessaria transgressio: ***cum autem ascendisset Nabuchodonosor*** etc.
+Tertio excusatur necessaria transgressio: ***cum autem ascendisset Nabuchodonosor*** etc.  
 
-Lectio 2
+Lectio 2  
 
 ***^35:12^ Et factum est verbum Domini ad Jeremiam, dicens:***
 
@@ -68,14 +68,12 @@ Lectio 2
 
 > **188**. Hic ponitur inobedientium condemnatio.
 
-Et primo comparantur diversa merita; ubi ponitur inobedientiae admiratio: ***numquid non recipietis disciplinam?*** etiam flagellis, et exemplis. Supra 2: ***frustra percussi filios vestros; disciplinam non susceperunt***.
+Et primo comparantur diversa merita; ubi ponitur inobedientiae admiratio: ***numquid non recipietis disciplinam?*** etiam flagellis, et exemplis. Supra 2: ***frustra percussi filios vestros; disciplinam non susceperunt***.  
 
-Ponitur etiam admirationis ratio, ***praevaluerunt***; quasi dicat: majorem efficaciam habuerunt sermones patris carnalis quam patris spiritualis. Hebr. 12: *patres quidem carnis nostrae eruditores habuimus, et reverebamur eos; num multo magis obtemperabimus patri spirituum, et vivemus?* Et comparationis probatio: quia illis obedientibus hi non obedierunt: ***ego autem locutus sum ad vos***. Supra 7: ***locutus sum ad vos mane consurgens et loquens, et non audistis; vocavi vos, et non respondistis mihi***.
+Ponitur etiam admirationis ratio, ***praevaluerunt***; quasi dicat: majorem efficaciam habuerunt sermones patris carnalis quam patris spiritualis. Hebr. 12: *patres quidem carnis nostrae eruditores habuimus, et reverebamur eos; num multo magis obtemperabimus patri spirituum, et vivemus?* Et comparationis probatio: quia illis obedientibus hi non obedierunt: ***ego autem locutus sum ad vos***. Supra 7: ***locutus sum ad vos mane consurgens et loquens, et non audistis; vocavi vos, et non respondistis mihi***.  
 
-Secundo promittuntur diversa praemia.
+Secundo promittuntur diversa praemia.  
 
-Et primo promittit inobedientibus poenam: ***idcirco haec dicit Dominus***. Proverb. 1: *quia vocavi et renuistis; extendi manum meam, et non fuit qui aspiceret; despexistis omne consilium meum, et increpationes meas neglexistis; ego quoque in interitu vestro ridebo, et subsannabo, cum vobis id quod timebatis advenerit* etc.
+Et primo promittit inobedientibus poenam: ***idcirco haec dicit Dominus***. Proverb. 1: *quia vocavi et renuistis; extendi manum meam, et non fuit qui aspiceret; despexistis omne consilium meum, et increpationes meas neglexistis; ego quoque in interitu vestro ridebo, et subsannabo, cum vobis id quod timebatis advenerit* etc.  
 
 Secundo obedientibus misericordiam: ***domui autem Rechabitarum dixit Jeremias***. 1 Reg. 15: *melior est obedientia quam victimae, et auscultare quam offerre adipem arietum*.
-
-Caput 36

@@ -32,63 +32,63 @@
 
 > **51**. Hic excludit tertium remedium in quo poterant confidere, scilicet de cultu divinae religionis:
 
-et primo quantum ad templi sanctitatem;
+et primo quantum ad templi sanctitatem;  
 
-secundo quantum ad orationis devotionem, ibi, ***tu ergo noli orare pro populo hoc***;
+secundo quantum ad orationis devotionem, ibi, ***tu ergo noli orare pro populo hoc***;  
 
-tertio quantum ad sacrificiorum oblationem, ibi, ***haec dicit Dominus exercituum Deus Israel***.
+tertio quantum ad sacrificiorum oblationem, ibi, ***haec dicit Dominus exercituum Deus Israel***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo ponit quasi salubre consilium, ostendens veram fiduciam: ***sta in porta***, ut saltem religione loci cogantur audire: quasi dicat: alias audire contemnunt:
+Primo ponit quasi salubre consilium, ostendens veram fiduciam: ***sta in porta***, ut saltem religione loci cogantur audire: quasi dicat: alias audire contemnunt:  
 
-***bonas facite vias***, actiones, ***studia***, cogitationes, quibus deliberatis de agendis. Isa. 40: *dirigite viam, rectas facite in solitudine semitas Dei nostri*.
+***bonas facite vias***, actiones, ***studia***, cogitationes, quibus deliberatis de agendis. Isa. 40: *dirigite viam, rectas facite in solitudine semitas Dei nostri*.  
 
-Et primo ponit fructum: ***et inhabitabo***. Apoc. 21: *ecce tabernaculum Dei cum hominibus, et habitabit cum eis*.
+Et primo ponit fructum: ***et inhabitabo***. Apoc. 21: *ecce tabernaculum Dei cum hominibus, et habitabit cum eis*.  
 
-Et excludit spem vanam: ***nolite confidere in verbis mendacii***, inquantum scilicet dicebant se propter sanctitatem templi omnes poenas posse vitare sine emendatione vitae. ***Templum Domini***, sanctum, ***templum Domini***, pretiosum, ***templum Domini***, a cunctis veneratum. 2 Machab. 5: *non propter locum gentem, sed propter gentem locum Deus elegit*.
+Et excludit spem vanam: ***nolite confidere in verbis mendacii***, inquantum scilicet dicebant se propter sanctitatem templi omnes poenas posse vitare sine emendatione vitae. ***Templum Domini***, sanctum, ***templum Domini***, pretiosum, ***templum Domini***, a cunctis veneratum. 2 Machab. 5: *non propter locum gentem, sed propter gentem locum Deus elegit*.  
 
-Secundo exponit ipsum:
+Secundo exponit ipsum:  
 
-et primo quantum ad primam partem, ostendens quid sit bonas vias facere, resumens consilium, eos ordinando et ad seipsos in actione:
+et primo quantum ad primam partem, ostendens quid sit bonas vias facere, resumens consilium, eos ordinando et ad seipsos in actione:  
 
-***quoniam si benedirexeritis*** quasi in mente determinaveritis, vel direxeritis: et in cogitatione, ***studia vestra***:
+***quoniam si benedirexeritis*** quasi in mente determinaveritis, vel direxeritis: et in cogitatione, ***studia vestra***:  
 
-et ad proximum, quantum ad operationem boni, ***si feceritis***:
+et ad proximum, quantum ad operationem boni, ***si feceritis***:  
 
-et in comparatione ad Deum, ***et post deos alienos non ambulaveritis***:
+et in comparatione ad Deum, ***et post deos alienos non ambulaveritis***:  
 
-resumit consilii fructum: ***habitabo vobiscum***, si volueritis, et audieritis etc. Psal. 14: *Domine, quis habitabit in tabernaculo tuo, aut quis requiescet in monte sancto tuo? Qui ingreditur sine macula, et operatur justitiam* etc.
+resumit consilii fructum: ***habitabo vobiscum***, si volueritis, et audieritis etc. Psal. 14: *Domine, quis habitabit in tabernaculo tuo, aut quis requiescet in monte sancto tuo? Qui ingreditur sine macula, et operatur justitiam* etc.  
 
-Secundo exponit quantum ad secundam partem:
+Secundo exponit quantum ad secundam partem:  
 
-et primo ostendit falsam fiduciam, ponens defectum ex parte culpae: ***ecce vos confiditis vobis in sermonibus mendacii***, dum dicitis vos posse haec quae sequuntur impune committere:
+et primo ostendit falsam fiduciam, ponens defectum ex parte culpae: ***ecce vos confiditis vobis in sermonibus mendacii***, dum dicitis vos posse haec quae sequuntur impune committere:  
 
-***furari***, contra rem proximi,
+***furari***, contra rem proximi,  
 
-***occidere***, contra personam,
+***occidere***, contra personam,  
 
-***adulterari***, contra id quod est quasi res, et quasi persona,
+***adulterari***, contra id quod est quasi res, et quasi persona,  
 
-***jurare***. Hic ponit peccata contra Deum. Isa. 28: *posuimus mendacium spem nostram, et mendacio protecti sumus*.
+***jurare***. Hic ponit peccata contra Deum. Isa. 28: *posuimus mendacium spem nostram, et mendacio protecti sumus*.  
 
-Et ponit apparentiam ex parte insufficientis emendae: ***et venistis, et stetistis coram me in domo hac***, quasi per ingressum templi tantum, satisfacere credentes, decepti fortassis per orationem Salomonis quae habetur 2 Paralipom. 6, et 3 Reg. 8. Et ipse intelligit cum perfecta morum emendatione, domum Domini ingrediendam. ***Eo quod fecimus omnes abominationes istas***, idest ab eo.
+Et ponit apparentiam ex parte insufficientis emendae: ***et venistis, et stetistis coram me in domo hac***, quasi per ingressum templi tantum, satisfacere credentes, decepti fortassis per orationem Salomonis quae habetur 2 Paralipom. 6, et 3 Reg. 8. Et ipse intelligit cum perfecta morum emendatione, domum Domini ingrediendam. ***Eo quod fecimus omnes abominationes istas***, idest ab eo.  
 
-Secundo excludit eam,
+Secundo excludit eam,  
 
-primo argumento ostendens emendam insufficientem pro culpis: ***numquid ergo speluncam latronum facta est domus ista?*** quasi dicat: si non purgati domum meam intratis, speluncam latronum eam facitis. Matth. 21: *domus mea domus orationis vocabitur: vos autem fecistis illam speluncam latronum*. Et ostendit culpam patentem: ***ego ego***, singulariter, ***sum***, ubique omnia videns, ***vidi***, peccata vestra. Prov. 16: *omnes viae hominum patent oculis ejus, spirituum ponderator est Dominus*.
+primo argumento ostendens emendam insufficientem pro culpis: ***numquid ergo speluncam latronum facta est domus ista?*** quasi dicat: si non purgati domum meam intratis, speluncam latronum eam facitis. Matth. 21: *domus mea domus orationis vocabitur: vos autem fecistis illam speluncam latronum*. Et ostendit culpam patentem: ***ego ego***, singulariter, ***sum***, ubique omnia videns, ***vidi***, peccata vestra. Prov. 16: *omnes viae hominum patent oculis ejus, spirituum ponderator est Dominus*.  
 
-Secundo excludit exemplo:
+Secundo excludit exemplo:  
 
-et primo ponit exemplum de Silo, ubi prius tabernaculum positum fuit: ***ite ad locum meum in Silo***. Psalm. 77: *et repulit tabernaculum Silo, tabernaculum suum, ubi habitavit in hominibus*.
+et primo ponit exemplum de Silo, ubi prius tabernaculum positum fuit: ***ite ad locum meum in Silo***. Psalm. 77: *et repulit tabernaculum Silo, tabernaculum suum, ubi habitavit in hominibus*.  
 
-Secundo adaptat ad propositum, assumens similem culpam: ***et quia fecistis omnia opera haec, dicit Dominus, et locutus sum ad vos mane consurgens***, ad modum hominis soliciti, qui summo mane surgit ad explenda opera sua; vel quia tempus illud congruum est ad contemplandum, et suscipiendum verba sapientiae, pro corpore jam quietato. ***Vocavi***. Proverb. 1: *quia vocavi, et renuistis, invocavi, et non fuit qui aspiceret* etc.
+Secundo adaptat ad propositum, assumens similem culpam: ***et quia fecistis omnia opera haec, dicit Dominus, et locutus sum ad vos mane consurgens***, ad modum hominis soliciti, qui summo mane surgit ad explenda opera sua; vel quia tempus illud congruum est ad contemplandum, et suscipiendum verba sapientiae, pro corpore jam quietato. ***Vocavi***. Proverb. 1: *quia vocavi, et renuistis, invocavi, et non fuit qui aspiceret* etc.  
 
-Et concludit similem poenam, quantum ad destructionem loci: ***faciam domui huic***. Infra 26: ***dabo domum istam sicut Silo, et urbem hanc dabo in maledictionem cunctis gentibus terrae***.
+Et concludit similem poenam, quantum ad destructionem loci: ***faciam domui huic***. Infra 26: ***dabo domum istam sicut Silo, et urbem hanc dabo in maledictionem cunctis gentibus terrae***.  
 
-Et quantum ad captivationem populi, ***projiciam vos***. Infra 23: ***vos dispersistis gregem meum, et ejecistis eos, et non visitasti eos***.
+Et quantum ad captivationem populi, ***projiciam vos***. Infra 23: ***vos dispersistis gregem meum, et ejecistis eos, et non visitasti eos***.  
 
-Lectio 2
+Lectio 2  
 
 ***^7:16^ Tu ergo noli orare pro populo hoc, nec assumas pro eis laudem et orationem et non obsistas mihi quia non exaudiam te.***
 
@@ -102,25 +102,25 @@ Lectio 2
 
 > **52**. Hic excludit remedium orationis:
 
-et primo profertur sententia: ***nec assumas***, etiam ab eis rogatus, ***et non obsistas***, quia oratio sanctorum quodammodo detinet, et excludit Dei sententiam. Sapient. 18: *properans homo sine querela deprecari pro populis, proferens servitutis suae scutum, orationem, et per incensum deprecationem allegans resistit irae, et finem imposuit necessitati, ostendens quoniam tuus est famulus*: Isa. 64: *non est qui invocet nomen tuum, qui consurgat, et teneat te*.
+et primo profertur sententia: ***nec assumas***, etiam ab eis rogatus, ***et non obsistas***, quia oratio sanctorum quodammodo detinet, et excludit Dei sententiam. Sapient. 18: *properans homo sine querela deprecari pro populis, proferens servitutis suae scutum, orationem, et per incensum deprecationem allegans resistit irae, et finem imposuit necessitati, ostendens quoniam tuus est famulus*: Isa. 64: *non est qui invocet nomen tuum, qui consurgat, et teneat te*.  
 
-Sed contra. Job 9: *Deus cujus irae resistere nemo potest*.
+Sed contra. Job 9: *Deus cujus irae resistere nemo potest*.  
 
-Respondetur, quod verum est virtutis robore; sed oratione, et humilitate.
+Respondetur, quod verum est virtutis robore; sed oratione, et humilitate.  
 
-***Quia non exaudiam***, more curialis domini, qui non vult faciem servi rogantis confundere. 4 Reg. 14: *lugere te simula, et induere veste lugubri, et ne ungaris oleo* etc.
+***Quia non exaudiam***, more curialis domini, qui non vult faciem servi rogantis confundere. 4 Reg. 14: *lugere te simula, et induere veste lugubri, et ne ungaris oleo* etc.  
 
-Secundo ponit causam ex culpa,
+Secundo ponit causam ex culpa,  
 
-primo proponens culpam, ostendens eam patentem, quia publice factam: ***nonne vides?*** Ezech. 16: *fili hominis, notas fac Jerusalem abominationes suas*:
+primo proponens culpam, ostendens eam patentem, quia publice factam: ***nonne vides?*** Ezech. 16: *fili hominis, notas fac Jerusalem abominationes suas*:  
 
-et communem quantum ad omnem sexum, et aetatem: ***filii colligunt ligna, et patres succendunt ignem, et mulieres conspergunt adipem, ut faciant placentas reginae caeli***, idest lunae; vel militiae, et omnibus astris. Infra 44: ***quod si nos sacrificamus reginae caeli, et libamus ei libamina: numquid sine viris nostris fecimus ei placentas ad colendum eam?***
+et communem quantum ad omnem sexum, et aetatem: ***filii colligunt ligna, et patres succendunt ignem, et mulieres conspergunt adipem, ut faciant placentas reginae caeli***, idest lunae; vel militiae, et omnibus astris. Infra 44: ***quod si nos sacrificamus reginae caeli, et libamus ei libamina: numquid sine viris nostris fecimus ei placentas ad colendum eam?***  
 
-Secundo ostendit peccantium stultitiam, quia non Deum, sed seipsos offenderunt: ***numquid me ad iracundiam provocant?*** Job 35: *si peccaveris, quid nocebis ei?* Psalm. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*.
+Secundo ostendit peccantium stultitiam, quia non Deum, sed seipsos offenderunt: ***numquid me ad iracundiam provocant?*** Job 35: *si peccaveris, quid nocebis ei?* Psalm. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*.  
 
-Tertio comminatur poenam: ***ideo haec dicit Dominus***. Supra 4: ***ne forte egrediatur ut ignis indignatio mea, et succendatur, et non sit qui extinguat, propter malitiam cogitationum vestrarum***.
+Tertio comminatur poenam: ***ideo haec dicit Dominus***. Supra 4: ***ne forte egrediatur ut ignis indignatio mea, et succendatur, et non sit qui extinguat, propter malitiam cogitationum vestrarum***.  
 
-Lectio 3
+Lectio 3  
 
 ***^7:21^ Haec dicit Dominus exercituum, Deus Israel: holocautomata vestra addite victimis vestris, et comedite carnes:***
 
@@ -140,29 +140,29 @@ Lectio 3
 
 > **53**. Hic excludit sacrificiorum fiduciam:
 
-et primo excludit sacrificiorum curam, ponens sententiam: ***holocaustomata vestra addite victimis vestris***; quasi dicat: sicut victimarum major pars cedit in usus vestros, ita holocausta vobis ex toto comedite, quia carnium consumptione non delector. Psalm. 49: *numquid manducabo carnes taurorum, aut sanguinem hircorum potabo?*
+et primo excludit sacrificiorum curam, ponens sententiam: ***holocaustomata vestra addite victimis vestris***; quasi dicat: sicut victimarum major pars cedit in usus vestros, ita holocausta vobis ex toto comedite, quia carnium consumptione non delector. Psalm. 49: *numquid manducabo carnes taurorum, aut sanguinem hircorum potabo?*  
 
-Et ponit causam: ***quia non sum locutus***. Non enim Dominus hoc propter se volebat; sed ut per hoc ab idolatria revocaret. Unde ante adorationem vituli, de quo Exod. 33, nulla praecepta de sacrificiis data sunt. Psalm. 39: *sacrificium et oblationem noluisti; aures autem perfecisti mihi. Holocaustum et pro peccato non postulasti. Tunc dixi: ecce venio*.
+Et ponit causam: ***quia non sum locutus***. Non enim Dominus hoc propter se volebat; sed ut per hoc ab idolatria revocaret. Unde ante adorationem vituli, de quo Exod. 33, nulla praecepta de sacrificiis data sunt. Psalm. 39: *sacrificium et oblationem noluisti; aures autem perfecisti mihi. Holocaustum et pro peccato non postulasti. Tunc dixi: ecce venio*.  
 
-Secundo arguit moralium inobedientiam;
+Secundo arguit moralium inobedientiam;  
 
-et primo ostendit culpam;
+et primo ostendit culpam;  
 
-secundo, comminatur poenam, ibi, ***tonde capillum tuum***.
+secundo, comminatur poenam, ibi, ***tonde capillum tuum***.  
 
-Circa primum duo.
+Circa primum duo.  
 
-Primo probat inobedientiam quasi per inductionem, ostendens eos inobedientes legi, ponendo legis praecepta: ***sed hoc verbum praecepi***, a principio, quasi principaliter intentum. ***Audite vocem meam***, de praeceptis moralibus. Ezech. 36: *eritis mihi in populum, et ego ero vobis in Deum*.
+Primo probat inobedientiam quasi per inductionem, ostendens eos inobedientes legi, ponendo legis praecepta: ***sed hoc verbum praecepi***, a principio, quasi principaliter intentum. ***Audite vocem meam***, de praeceptis moralibus. Ezech. 36: *eritis mihi in populum, et ego ero vobis in Deum*.  
 
-Et praecepti contemptum: ***et non audierunt . . . factique sunt retrorsum***, semper peccata postea addentes. Isa. 56: *omnes in viam suam declinaverunt, unusquisque ad avaritiam suam, a summo usque ad novissimum*.
+Et praecepti contemptum: ***et non audierunt . . . factique sunt retrorsum***, semper peccata postea addentes. Isa. 56: *omnes in viam suam declinaverunt, unusquisque ad avaritiam suam, a summo usque ad novissimum*.  
 
-Ostendit etiam eos inobedientes praecedentibus prophetis: ***et misi ad vos omnes servos prophetas***. 4 Reg. 17: *testificatus est Dominus in Israel, et in Juda per manum omnium prophetarum, et videntium, dicens: revertimini a viis vestris pessimis, et custodite praecepta mea et caeremonias, juxta omnem legem quam praecepi patribus vestris, et sicut misi ad vos in manu servorum meorum prophetarum. Qui non audierunt, sed induraverunt cervicem suam, juxta cervicem patrum suorum, qui noluerunt obedire Domino Deo suo*.
+Ostendit etiam eos inobedientes praecedentibus prophetis: ***et misi ad vos omnes servos prophetas***. 4 Reg. 17: *testificatus est Dominus in Israel, et in Juda per manum omnium prophetarum, et videntium, dicens: revertimini a viis vestris pessimis, et custodite praecepta mea et caeremonias, juxta omnem legem quam praecepi patribus vestris, et sicut misi ad vos in manu servorum meorum prophetarum. Qui non audierunt, sed induraverunt cervicem suam, juxta cervicem patrum suorum, qui noluerunt obedire Domino Deo suo*.  
 
-Praedicit etiam, eos non obedituros sibi. ***Et loqueris . . . et non audient***. Ezech. 3: *domus Israel nolunt audire te, quia nolunt audire me: omnis quippe domus Israel attrita fronte est, et duro corde*. Isa. 65: *vocavi, et non respondistis; locutus sum, et non audistis, et faciebatis malum in oculis meis, et quae nolui, elegistis*.
+Praedicit etiam, eos non obedituros sibi. ***Et loqueris . . . et non audient***. Ezech. 3: *domus Israel nolunt audire te, quia nolunt audire me: omnis quippe domus Israel attrita fronte est, et duro corde*. Isa. 65: *vocavi, et non respondistis; locutus sum, et non audistis, et faciebatis malum in oculis meis, et quae nolui, elegistis*.  
 
-Secundo infert conclusionem: ***et dices ad eos***. Supra 2: ***frustra percussi filios vestros; disciplinam non receperunt***. ***Fides***, Domini. Roman. 10: *corde creditur ad justitiam, ore autem confessio fit ad salutem*. Vel fidelitas ad proximum. Prov. 20: *virum fidelem quis inveniet?*
+Secundo infert conclusionem: ***et dices ad eos***. Supra 2: ***frustra percussi filios vestros; disciplinam non receperunt***. ***Fides***, Domini. Roman. 10: *corde creditur ad justitiam, ore autem confessio fit ad salutem*. Vel fidelitas ad proximum. Prov. 20: *virum fidelem quis inveniet?*  
 
-Lectio 4
+Lectio 4  
 
 ***^7:29^ Tonde capillum tuum, et projice, et sume in directum planctum: quia projecit Dominus et reliquit generationem furoris sui:***
 
@@ -178,36 +178,34 @@ Lectio 4
 
 > **54**. Hic comminatur eis poenam:
 
-et primo praesignat eam facto: ***tonde capillum***. Simile Ezech. 5: *tertiam partem pilorum igni combures in medio civitatis, juxta completionem dierum obsidionis; et assumes tertiam partem, et concides gladio in circuitu ejus: tertiam vero aliam disperges in ventum. **Generationem furoris***. Isa. 10: *ad gentem fallacem mittam eum, et contra populum furoris mei mandabo illi*.
+et primo praesignat eam facto: ***tonde capillum***. Simile Ezech. 5: *tertiam partem pilorum igni combures in medio civitatis, juxta completionem dierum obsidionis; et assumes tertiam partem, et concides gladio in circuitu ejus: tertiam vero aliam disperges in ventum. **Generationem furoris***. Isa. 10: *ad gentem fallacem mittam eum, et contra populum furoris mei mandabo illi*.  
 
-Secundo determinat verba:
+Secundo determinat verba:  
 
-et primo resumit idolatriae culpam, aggravans eam ex loco sacro: quia fecerunt ***offendicula***, idola, ***in domo***, scilicet in templo, et loco publico et aperto,
+et primo resumit idolatriae culpam, aggravans eam ex loco sacro: quia fecerunt ***offendicula***, idola, ***in domo***, scilicet in templo, et loco publico et aperto,  
 
-***et aedificaverunt quae non praecepi***, quasi dicat: non tam gravia praecepi eis. Unde patet quod etiam a me recesserunt. Psal. 105: *immolaverunt filios suos, et filias suas daemoniis, carnes filiorum suorum, et filiarum suarum, quas sacrificaverunt sculptilibus Chanaan*.
+***et aedificaverunt quae non praecepi***, quasi dicat: non tam gravia praecepi eis. Unde patet quod etiam a me recesserunt. Psal. 105: *immolaverunt filios suos, et filias suas daemoniis, carnes filiorum suorum, et filiarum suarum, quas sacrificaverunt sculptilibus Chanaan*.  
 
-Secundo comminatur poenam:
+Secundo comminatur poenam:  
 
-et primo quantum ad interfectionem virorum;
+et primo quantum ad interfectionem virorum;  
 
-secundo quantum ad effusionem cadaverum, ibi (cap. 8): ***in tempore illo, ait Dominus, ejicient ossa regis Juda***.
+secundo quantum ad effusionem cadaverum, ibi (cap. 8): ***in tempore illo, ait Dominus, ejicient ossa regis Juda***.  
 
-Tertio quo ad ejectionem remanentium, ibi, ***et eligent magis mortem quam vitam***.
+Tertio quo ad ejectionem remanentium, ibi, ***et eligent magis mortem quam vitam***.  
 
-Circa primum tria.
+Circa primum tria.  
 
-Primo ostendit interfectionis locum: ***ideo ecce dies venient***, ut ubi peccaverunt, ibi puniantur. Infra 19: ***ecce dies venient, dicit Dominus, et non vocabitur amplius locus iste Tophet, et vallis filii Ennon, sed vallis occisionis***.
+Primo ostendit interfectionis locum: ***ideo ecce dies venient***, ut ubi peccaverunt, ibi puniantur. Infra 19: ***ecce dies venient, dicit Dominus, et non vocabitur amplius locus iste Tophet, et vallis filii Ennon, sed vallis occisionis***.  
 
-Secundo excludit sepulturae officium: ***et erit morticinum populi hujus in cibos volucribus caeli***. Sepelientur tamen aliqui vel a reliquiis, vel ab hostibus non valentibus sustinere foetorem. Psalm. 78: *posuerunt mortalia servorum tuorum escas volatilibus caeli, carnes sanctorum tuorum bestiis terrae*.
+Secundo excludit sepulturae officium: ***et erit morticinum populi hujus in cibos volucribus caeli***. Sepelientur tamen aliqui vel a reliquiis, vel ab hostibus non valentibus sustinere foetorem. Psalm. 78: *posuerunt mortalia servorum tuorum escas volatilibus caeli, carnes sanctorum tuorum bestiis terrae*.  
 
-Tertio excludit universale gaudium: ***et requiescere faciam***. Thren. ult.: *defecit gaudium cordis nostri, versus est in luctum chorus noster*: quae omnia attestantur magnitudinem occisionis.
+Tertio excludit universale gaudium: ***et requiescere faciam***. Thren. ult.: *defecit gaudium cordis nostri, versus est in luctum chorus noster*: quae omnia attestantur magnitudinem occisionis.  
 
-Collationes
+Collationes  
 
 ***Nota, quod Deus ***habitat*** nobiscum per fidei constantiam. Ephes. 3: *habitare Christum per fidem in cordibus vestris* etc. Per fraternae dilectionis concordiam. Matth. 18: *ubi fuerint duo, vel tres congregati in nomine meo, ibi sum in medio eorum*. Per praeceptorum obedientiam. Joan. 14: *si quis diligit me sermonem meum servabit, et pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus*. Per devotae contemplationis eminentiam. Apoc. 3: *ego sto ad ostium, et pulso: si quis audierit vocem meam, et aperuerit mihi, intrabo ad eum, et coenabo cum illo, et ipse mecum*.***
 
-Item nota, quod quoddam est ***templum*** historicum. Psalm. 137: *adorabo ad templum sanctum tuum, et confitebor nomini tuo*. Allegoricum, ipsa Ecclesia. 1 Cor. 3: *templum Dei sanctum est, quod estis vos*. Typicum, ipse justus. 1 Cor. 6: *nescitis quoniam membra vestra templum sunt Spiritus Sancti?* Anagogicum, ipse Deus. Apoc. 21: *Dominus Deus omnipotens templum illius est, et agnus*.
+Item nota, quod quoddam est ***templum*** historicum. Psalm. 137: *adorabo ad templum sanctum tuum, et confitebor nomini tuo*. Allegoricum, ipsa Ecclesia. 1 Cor. 3: *templum Dei sanctum est, quod estis vos*. Typicum, ipse justus. 1 Cor. 6: *nescitis quoniam membra vestra templum sunt Spiritus Sancti?* Anagogicum, ipse Deus. Apoc. 21: *Dominus Deus omnipotens templum illius est, et agnus*.  
 
 Item nota, quod ***vocem*** Domini debemus audire, illum diligendo caritatis amore, quia bonum nostrum. Deut. 6: *diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota fortitudine tua*. Ei serviendo cultus religione, quia Dominus. Deut. 10: *Dominum Deum tuum adorabis, et illi soli servies*. Psalm. 2: *servite Domino in timore*. Post eum eundo praecepti observatione, quia pater. Supra 3: ***patrem vocabis me, et post me ingredi non cessabis***. Illum quaerendo recta intentione, quia finis. Soph. 2: *quaerite Dominum omnes mansueti terrae, quia judicium ejus estis operati*. Eum adorando debito honore, quia factor noster est, et Deus. Matth. 4: *Dominum Deum tuum adorabis*.
-
-Caput 8

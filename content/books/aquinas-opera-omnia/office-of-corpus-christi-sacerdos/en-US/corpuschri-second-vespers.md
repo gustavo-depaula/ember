@@ -1,14 +1,15 @@
 # Second Vespers
 
-[℣. O God, come to my assistance;℟. O Lord, make haste to help me.
+[℣. O God, come to my assistance;  
+℟. O Lord, make haste to help me.  
 
-Glory be to the Father, and to the Son, * and to the Holy Spirit.
+Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
-As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]
+As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*. Christ the Lord, a priest forever after the order of Melchizedech, offered bread and wine. [Ps 109 (110):4b; Heb 5:6; Gen 14:18]
+*Antiphon*. Christ the Lord, a priest forever after the order of Melchizedech, offered bread and wine. [Ps 109 (110):4b; Heb 5:6; Gen 14:18]  
 
-Sung to *Gloria tibi Trinitas* from the feast of the Trinity.
+Sung to *Gloria tibi Trinitas* from the feast of the Trinity.  
 
 ***Psalm 109 (110)***
 
@@ -32,9 +33,9 @@ Sung to *Gloria tibi Trinitas* from the feast of the Trinity.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. The merciful Lord gave food to those who fear him in memory of his wonderful works. [Cf. Ps 110 (111):4]
+*Antiphon*. The merciful Lord gave food to those who fear him in memory of his wonderful works. [Cf. Ps 110 (111):4]  
 
-Sung to *Totus orbis* from the feast of St. Thomas [of Canterbury].
+Sung to *Totus orbis* from the feast of St. Thomas [of Canterbury].  
 
 ***Psalm 110 (111)***
 
@@ -62,9 +63,9 @@ Sung to *Totus orbis* from the feast of St. Thomas [of Canterbury].
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. I will take up the chalice of salvation and I will offer up a sacrifice of praise. [Cf. Ps 115:4, 7 (Ps 116:13, 17)]
+*Antiphon*. I will take up the chalice of salvation and I will offer up a sacrifice of praise. [Cf. Ps 115:4, 7 (Ps 116:13, 17)]  
 
-Sung to *Pudore bono* from the feast of St. Nicholas.
+Sung to *Pudore bono* from the feast of St. Nicholas.  
 
 ***Psalm 115 (116)***
 
@@ -88,9 +89,9 @@ Sung to *Pudore bono* from the feast of St. Nicholas.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. Let the sons of the Church be like olive shoots around the table of the Lord. [Cf. Ps 127 (128):3]
+*Antiphon*. Let the sons of the Church be like olive shoots around the table of the Lord. [Cf. Ps 127 (128):3]  
 
-Sung to *Iuste et sancte vivendo* from the feast of St. Nicholas.
+Sung to *Iuste et sancte vivendo* from the feast of St. Nicholas.  
 
 ***Psalm 127 (128)***
 
@@ -112,9 +113,9 @@ Sung to *Iuste et sancte vivendo* from the feast of St. Nicholas.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. He imposes peace in the territory of the Church; the Lord fills us with the finest grain. [Cf. Ps 147:3 (147:14)]
+*Antiphon*. He imposes peace in the territory of the Church; the Lord fills us with the finest grain. [Cf. Ps 147:3 (147:14)]  
 
-Sung to *Innocenter puerilia iura* from the feast of St. Nicholas.
+Sung to *Innocenter puerilia iura* from the feast of St. Nicholas.  
 
 ***Psalm 147 (147:12–20)***
 
@@ -148,15 +149,15 @@ Sung to *Innocenter puerilia iura* from the feast of St. Nicholas.
 
 > Responsory
 
-℟. Elias saw a hearth bread by his head and arising he ate and drank. * And he walked in the strength of this food * up to the mountain of God. [1 Kgs 19:6–8]
+℟. Elias saw a hearth bread by his head and arising he ate and drank. * And he walked in the strength of this food * up to the mountain of God. [1 Kgs 19:6–8]  
 
-℣. If anyone eats this bread, he will live forever. [John 6:53–58] * And he walked in the strength of this food. Glory be to the Father, and to the Son, and to the Holy Spirit. * Up to the mountain of God.
+℣. If anyone eats this bread, he will live forever. [John 6:53–58] * And he walked in the strength of this food. Glory be to the Father, and to the Son, and to the Holy Spirit. * Up to the mountain of God.  
 
-Hymn
+Hymn  
 
 ***Pange lingua gloriosi corporis mysterium***
 
-Praise, my tongue, the mystery of the glorious Body and of the precious Blood, which the King of nations, fruit of a noble womb, poured out in ransom of the world.
+Praise, my tongue, the mystery of the glorious Body and of the precious Blood, which the King of nations, fruit of a noble womb, poured out in ransom of the world.  
 
 - Given to us, born to us from a pure Virgin, and having lived in the world, the seed of his word having been scattered, he closed in a wondrous way his span of life.
 - At the night of the last supper, reclining with his brothers, the law of permitted foods having been fully observed, he gives himself as food with his own hands to the group of twelve.
@@ -167,17 +168,17 @@ Praise, my tongue, the mystery of the glorious Body and of the precious Blood, w
 
 ***[Wis 16:20; Psalm 77 (78):25]***
 
-℣. You have furnished them with the bread of heaven, alleluia.
+℣. You have furnished them with the bread of heaven, alleluia.  
 
-℟. Mankind ate of the bread of the angels, alleluia.
+℟. Mankind ate of the bread of the angels, alleluia.  
 
-Magnificat
+Magnificat  
 
 ***Luke 1:46–55***
 
-*Antiphon for the Magnificat*. O sacred banquet in which Christ is received, the memory of his Passion renewed, the soul is filled with grace, and a pledge of future glory is given to us, alleluia.
+*Antiphon for the Magnificat*. O sacred banquet in which Christ is received, the memory of his Passion renewed, the soul is filled with grace, and a pledge of future glory is given to us, alleluia.  
 
-Sung to *Benedictus Dominus Deus Patris nostri* from the feast of St. Bernard.
+Sung to *Benedictus Dominus Deus Patris nostri* from the feast of St. Bernard.  
 
 ***My soul * magnifies the Lord.***
 
@@ -205,10 +206,14 @@ Sung to *Benedictus Dominus Deus Patris nostri* from the feast of St. Bernard.
 
 > Prayer
 
-***[℣. O Lord, hear my prayer.℟. And let my cry come unto you.]***
+***[℣. O Lord, hear my prayer.***
+***℟. And let my cry come unto you.]***
 
-*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-[℣. O Lord, hear my prayer.℟. And let my cry come unto you.℣. Let us bless the Lord.℟. Thanks be to God.℣. May the souls of the faithful departed, through the mercy of God, rest in peace.℟. Amen.]
-
-Compline
+[℣. O Lord, hear my prayer.  
+℟. And let my cry come unto you.  
+℣. Let us bless the Lord.  
+℟. Thanks be to God.  
+℣. May the souls of the faithful departed, through the mercy of God, rest in peace.  
+℟. Amen.]

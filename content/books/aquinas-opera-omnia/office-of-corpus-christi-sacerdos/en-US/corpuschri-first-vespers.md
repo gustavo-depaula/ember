@@ -1,14 +1,14 @@
 # First Vespers
 
-℟. O Lord, make haste to help me.
+℟. O Lord, make haste to help me.  
 
-Glory be to the Father, and to the Son, * and to the Holy Spirit.
+Glory be to the Father, and to the Son, * and to the Holy Spirit.  
 
-As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]
+As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*.Although practice varied according to place and time, the antiphon in the medieval liturgy was often only sung in its entirety after the Psalm. Christ the Lord, a priest forever after the order of Melchizedech, offered bread and wine. [Ps 109 (110):4b; Heb 5:6; Gen 14:18]
+*Antiphon*.Although practice varied according to place and time, the antiphon in the medieval liturgy was often only sung in its entirety after the Psalm. Christ the Lord, a priest forever after the order of Melchizedech, offered bread and wine. [Ps 109 (110):4b; Heb 5:6; Gen 14:18]  
 
-Sung to *Gloria tibi Trinitas* from the feast of the Trinity.
+Sung to *Gloria tibi Trinitas* from the feast of the Trinity.  
 
 ***Psalm 109 (110)***
 
@@ -32,9 +32,9 @@ Sung to *Gloria tibi Trinitas* from the feast of the Trinity.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. The merciful Lord gave food to those who fear him in memory of his wonderful works. [Cf. Ps 110 (111):4]
+*Antiphon*. The merciful Lord gave food to those who fear him in memory of his wonderful works. [Cf. Ps 110 (111):4]  
 
-Sung to *Totus orbis* from the feast of St. Thomas [of Canterbury].
+Sung to *Totus orbis* from the feast of St. Thomas [of Canterbury].  
 
 ***Psalm 110 (111)***
 
@@ -62,9 +62,9 @@ Sung to *Totus orbis* from the feast of St. Thomas [of Canterbury].
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen.  * ℟. *Ant*.
 
-*Antiphon*. I will take up the chalice of salvation and I will offer up a sacrifice of praise. [Cf. Ps 115:4, 7 (Ps 116:13, 17)]
+*Antiphon*. I will take up the chalice of salvation and I will offer up a sacrifice of praise. [Cf. Ps 115:4, 7 (Ps 116:13, 17)]  
 
-Sung to *Pudore bono* from the feast of St. Nicholas.
+Sung to *Pudore bono* from the feast of St. Nicholas.  
 
 ***Psalm 115 (116:10–19)***
 
@@ -88,9 +88,9 @@ Sung to *Pudore bono* from the feast of St. Nicholas.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. Let the sons of the Church be like olive shoots around the table of the Lord. [Cf. Ps 127 (128):3]
+*Antiphon*. Let the sons of the Church be like olive shoots around the table of the Lord. [Cf. Ps 127 (128):3]  
 
-Sung to *Iuste et sancte vivendo* from the feast of St. Nicholas.
+Sung to *Iuste et sancte vivendo* from the feast of St. Nicholas.  
 
 ***Psalm 127 (128)***
 
@@ -112,9 +112,9 @@ Sung to *Iuste et sancte vivendo* from the feast of St. Nicholas.
 
 > as it was in the beginning, is now, * and ever shall be, world without end. Amen. * ℟. *Ant*.
 
-*Antiphon*. He imposes peace in the territory of the Church; the Lord fills us with the finest grain. [Cf. Ps 147:3 (147:14)]
+*Antiphon*. He imposes peace in the territory of the Church; the Lord fills us with the finest grain. [Cf. Ps 147:3 (147:14)]  
 
-Sung to *Innocenter puerilia iura* from the feast of St. Nicholas.
+Sung to *Innocenter puerilia iura* from the feast of St. Nicholas.  
 
 ***Psalm 147 (147:12–20)***
 
@@ -148,19 +148,19 @@ Sung to *Innocenter puerilia iura* from the feast of St. Nicholas.
 
 > [℟. Thanks be to God.]
 
-Responsory
+Responsory  
 
-℟. A man once gave a great feast and sent his servant at the hour of the feast to tell those invited to come, * because all was prepared. [Cf. Luke 14:16–17]
+℟. A man once gave a great feast and sent his servant at the hour of the feast to tell those invited to come, * because all was prepared. [Cf. Luke 14:16–17]  
 
-℣. Come eat my bread and drink the wine which I have mixed for you. [Prov 9:5] * Because all was prepared. Glory be to the Father, and to the Son, and to the Holy Spirit. * Because all was prepared.
+℣. Come eat my bread and drink the wine which I have mixed for you. [Prov 9:5] * Because all was prepared. Glory be to the Father, and to the Son, and to the Holy Spirit. * Because all was prepared.  
 
-Sung to *Virgo flagellatur* from the feast of St. Catherine.
+Sung to *Virgo flagellatur* from the feast of St. Catherine.  
 
 ***Hymn***
 
 ***Pange lingua gloriosi corporis mysterium***
 
-Praise, my tongue, the mystery of the glorious Body and of the precious Blood, which the King of nations, fruit of a noble womb, poured out in ransom of the world.
+Praise, my tongue, the mystery of the glorious Body and of the precious Blood, which the King of nations, fruit of a noble womb, poured out in ransom of the world.  
 
 - Given to us, born to us from a pure Virgin, and having lived in the world, the seed of his word having been scattered, he closed in a wondrous way his span of life.
 - At the night of the last supper, reclining with his brothers, the law of permitted foods having been fully observed, he gives himself as food with his own hands to the group of twelve.
@@ -173,17 +173,17 @@ Praise, my tongue, the mystery of the glorious Body and of the precious Blood, w
 
 ***[Wis 16:20–21]***
 
-℣. You have furnished them with the bread of heaven, alleluia.
+℣. You have furnished them with the bread of heaven, alleluia.  
 
-℟. Having in it every delight, alleluia.BNF 1143 has no indications for the music for this versicle or for any of the versicles that follow. Thus the music here has been adapted from Cambrai, Médiathèque d’agglomération, Ms. 38.
+℟. Having in it every delight, alleluia.BNF 1143 has no indications for the music for this versicle or for any of the versicles that follow. Thus the music here has been adapted from Cambrai, Médiathèque d’agglomération, Ms. 38.  
 
-Magnificat
+Magnificat  
 
 ***Luke 1:46–55***
 
-*Antiphon for the Magnificat*. O how kind is your Spirit Lord, who, to show your sweetness towards your children, provides the sweetest bread from heaven, filling the hungry with good things, sending the haughty rich away empty. [Cf. Wis 12:1; 16:21; Luke 1:53]
+*Antiphon for the Magnificat*. O how kind is your Spirit Lord, who, to show your sweetness towards your children, provides the sweetest bread from heaven, filling the hungry with good things, sending the haughty rich away empty. [Cf. Wis 12:1; 16:21; Luke 1:53]  
 
-Sung to *O Christi pietas* from the feast of St. Nicholas.
+Sung to *O Christi pietas* from the feast of St. Nicholas.  
 
 ***My soul * magnifies the Lord.***
 
@@ -211,10 +211,14 @@ Sung to *O Christi pietas* from the feast of St. Nicholas.
 
 > Prayer
 
-***[℣. O Lord, hear my prayer.℟. And let my cry come unto you.]***
+***[℣. O Lord, hear my prayer.***
+***℟. And let my cry come unto you.]***
 
-*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.
+*Let us pray*. God, who has left us in a wonderful sacrament a memorial of your Passion, grant, we ask, that we may venerate the sacred mystery of your Body and Blood, so that we may always feel in ourselves the fruit of your redemption. Who lives and reigns with God the Father in unity with the Holy Spirit, God, world without end. Amen.  
 
-[℣. O Lord, hear my prayer.℟. And let my cry come unto you.℣. Let us bless the Lord.℟. Thanks be to God.℣. May the souls of the faithful departed, through the mercy of God, rest in peace.℟. Amen.]
-
-Compline
+[℣. O Lord, hear my prayer.  
+℟. And let my cry come unto you.  
+℣. Let us bless the Lord.  
+℟. Thanks be to God.  
+℣. May the souls of the faithful departed, through the mercy of God, rest in peace.  
+℟. Amen.]

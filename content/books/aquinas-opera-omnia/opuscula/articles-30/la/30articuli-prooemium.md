@@ -1,8 +1,8 @@
 # Prooemium
 
-Lectis litteris vestris inveni quod vestra caritas postulabat ut verbis infrascriptis responderem, scilicet:
+Lectis litteris vestris inveni quod vestra caritas postulabat ut verbis infrascriptis responderem, scilicet:  
 
-1. An Angeli sint motores corporum caelestium.
+1. An Angeli sint motores corporum caelestium.  
 
 - 2. Item, an Angeli mediantibus motibus corporum caelestium sint causa omnium quae naturaliter generantur et corrumpuntur in hoc mundo.
 - 3. Item, an Deus aliquod corpus moveat immediate.
@@ -33,4 +33,3 @@ Lectis litteris vestris inveni quod vestra caritas postulabat ut verbis infrascr
 - 28. Item, an dampnati in suis passionibus patientur ab igne Inferni, quia recipiant speciem ignis Inferni per modum afflictivi vel laesivi.
 - 29. Item, an Deus moveat aliquod corpus immediate in miraculis.
 - 30. Item, an si Deus suo imperio moveret aliquod corpus immediate id est quod nulla creatura illud moveret, sed solus Deus tunc illud movere esset aequivocum vel analogum ad omnia movere creaturarum et esset ibi moveri sine movere quod sit actio creatoris vel creaturae mensurato tempore.
-- Solutio

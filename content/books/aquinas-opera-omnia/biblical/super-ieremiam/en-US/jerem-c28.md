@@ -14,43 +14,43 @@
 
 > **143**. Here, he descends particularly to certain false prophets:
 
-first, to one who was telling the future to the remnant of Jerusalem;
+first, to one who was telling the future to the remnant of Jerusalem;  
 
-second, to certain men who were prophesying to the captives in Babylonia: ***and these are the words of the book which Jeremiah the prophet sent*** (Jer 29:1).
+second, to certain men who were prophesying to the captives in Babylonia: ***and these are the words of the book which Jeremiah the prophet sent*** (Jer 29:1).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First is given the false consolation of the false prophet;
+First is given the false consolation of the false prophet;  
 
-second, the condemnation of the falsity through Jeremiah, at ***and the word of the Lord came to Jeremiah*** (Jer 28:12).
+second, the condemnation of the falsity through Jeremiah, at ***and the word of the Lord came to Jeremiah*** (Jer 28:12).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, the false consolation, which the false prophet had given by word;
+First, the false consolation, which the false prophet had given by word;  
 
-second, that which he had given by deed, at ***and Hananiah the prophet took the chain from the neck of Jeremiah*** (Jer 28:10).
+second, that which he had given by deed, at ***and Hananiah the prophet took the chain from the neck of Jeremiah*** (Jer 28:10).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, the false consolation;
+First, the false consolation;  
 
-second, the response of Jeremiah, at ***and Jeremiah spoke*** (Jer 28:5).
+second, the response of Jeremiah, at ***and Jeremiah spoke*** (Jer 28:5).  
 
-Concerning the former, there are two points.
+Concerning the former, there are two points.  
 
-First, he provides the title of the false prophecy, in which is described: the time, ***in the fourth year***; the prophet, ***Hananiah, a prophet***, in reputation; the place, ***in the house of the Lord***. As above: ***I find their evil in my house, says the Lord*** (Jer 23:11).
+First, he provides the title of the false prophecy, in which is described: the time, ***in the fourth year***; the prophet, ***Hananiah, a prophet***, in reputation; the place, ***in the house of the Lord***. As above: ***I find their evil in my house, says the Lord*** (Jer 23:11).  
 
-Second, the word of the false consolation: ***thus says the Lord***.
+Second, the word of the false consolation: ***thus says the Lord***.  
 
-And first, he promises liberty: ***I have broken***, I have destroyed—because of the certainty of the thing, it is spoken of in the past tense—***the yoke***, which was indeed to be broken, but not then. *The yoke shall spoil because of oil* (Isa 10:27).
+And first, he promises liberty: ***I have broken***, I have destroyed—because of the certainty of the thing, it is spoken of in the past tense—***the yoke***, which was indeed to be broken, but not then. *The yoke shall spoil because of oil* (Isa 10:27).  
 
-Second, he predicts the nearness of its fulfillment: ***yet two years***, lest they should be believed to be years of years, as it says in Ezekiel 4:6, *a day for a year, yea, a day for a year, have I appointed to you*.
+Second, he predicts the nearness of its fulfillment: ***yet two years***, lest they should be believed to be years of years, as it says in Ezekiel 4:6, *a day for a year, yea, a day for a year, have I appointed to you*.  
 
-And first, with regard to the return of the vessels: ***and I shall cause all the vessels of the house of the Lord to be brought back to this place***. Lamentations 1:10 speaks of their capture: *the enemy put out his hand to all her desirable things*.
+And first, with regard to the return of the vessels: ***and I shall cause all the vessels of the house of the Lord to be brought back to this place***. Lamentations 1:10 speaks of their capture: *the enemy put out his hand to all her desirable things*.  
 
-Second, with regard to the liberation of their princes: ***and Jehoiakim***, contrary to what was said above in the preceding chapter. As it says above: ***O earth, earth, earth, hear the word of the Lord*** (Jer 22:29).
+Second, with regard to the liberation of their princes: ***and Jehoiakim***, contrary to what was said above in the preceding chapter. As it says above: ***O earth, earth, earth, hear the word of the Lord*** (Jer 22:29).  
 
-Lecture 2
+Lecture 2  
 
 ***Jeremiah’s response***
 
@@ -66,15 +66,15 @@ Lecture 2
 
 > **144**. Here the response of Jeremiah is given.
 
-And first, he shows his emotion when he desires that what he had said should be fulfilled: ***amen***, that is, let it be. *If only I were not a man who has the Spirit, and that I was rather speaking a lie* (Mic 2:11). He does not oppose this because he knew that the Lord wills the contrary, because this choice must be understood under the condition, namely, if God wills it, and in this he conforms his will to the divine, because he wills what God wills to be.
+And first, he shows his emotion when he desires that what he had said should be fulfilled: ***amen***, that is, let it be. *If only I were not a man who has the Spirit, and that I was rather speaking a lie* (Mic 2:11). He does not oppose this because he knew that the Lord wills the contrary, because this choice must be understood under the condition, namely, if God wills it, and in this he conforms his will to the divine, because he wills what God wills to be.  
 
-Second, lest he should seem to consent to falsehood, he proposes a sign of truthfulness: ***but hear***. And this sign is taken from Deuteronomy 18:22: *whatever that prophet shall prophesy in the name of the Lord, and it does not come to pass, this the Lord has not spoken*.
+Second, lest he should seem to consent to falsehood, he proposes a sign of truthfulness: ***but hear***. And this sign is taken from Deuteronomy 18:22: *whatever that prophet shall prophesy in the name of the Lord, and it does not come to pass, this the Lord has not spoken*.  
 
-But he himself seems to argue from the contrary sense, and it seems that the argument would be invalid because it is the fallacy of denying the antecedent,In other words, it appears as if Jeremiah might be arguing as follows: if it does not come pass, then the Lord has not spoken; but it has come to pass (denying the antecedent); therefore, the Lord has spoken. The conclusion is formally invalid, as it does not demonstratively follow from the premises. and therefore, the contrary is held in Deuteronomy 13:1–3: *if there arise in your midst a prophet, or one who says that he has seen a dream, and he should predict a sign and a portent, and what he says should come to pass, and he say to you, ‘Come, let us follow strange gods whom you do not know, and let us serve them,’ you shall not listen to the words of that prophet or dreamer*.
+But he himself seems to argue from the contrary sense, and it seems that the argument would be invalid because it is the fallacy of denying the antecedent,In other words, it appears as if Jeremiah might be arguing as follows: if it does not come pass, then the Lord has not spoken; but it has come to pass (denying the antecedent); therefore, the Lord has spoken. The conclusion is formally invalid, as it does not demonstratively follow from the premises. and therefore, the contrary is held in Deuteronomy 13:1–3: *if there arise in your midst a prophet, or one who says that he has seen a dream, and he should predict a sign and a portent, and what he says should come to pass, and he say to you, ‘Come, let us follow strange gods whom you do not know, and let us serve them,’ you shall not listen to the words of that prophet or dreamer*.  
 
-But it must be said that the argument is effective for showing his falsity, and this is what he intends.
+But it must be said that the argument is effective for showing his falsity, and this is what he intends.  
 
-Lecture 3
+Lecture 3  
 
 ***Jeremiah’s chain broken***
 
@@ -86,13 +86,13 @@ Lecture 3
 
 > **145**. Here, he confirms his own prophecy by action; and concerning this, there are three points.
 
-First, he gives a similitude of the action: ***Hananiah took and broke***, as a sign of the breaking of the power of Babylonia.
+First, he gives a similitude of the action: ***Hananiah took and broke***, as a sign of the breaking of the power of Babylonia.  
 
-Second, he explains the similitude: ***and Hananiah spoke***. This was to happen long after in the future. As it says below: ***I shall break his yoke from your neck, and I shall burst his bonds*** (Jer 30:8).
+Second, he explains the similitude: ***and Hananiah spoke***. This was to happen long after in the future. As it says below: ***I shall break his yoke from your neck, and I shall burst his bonds*** (Jer 30:8).  
 
-Third, there is shown the humility of Jeremiah, because he patiently and willingly bore this ***and went his own way***. *I have become like a man who hears not, and has no reproofs in his mouth* (Ps 37:15).
+Third, there is shown the humility of Jeremiah, because he patiently and willingly bore this ***and went his own way***. *I have become like a man who hears not, and has no reproofs in his mouth* (Ps 37:15).  
 
-Lecture 4
+Lecture 4  
 
 ***Hananiah’s death***
 
@@ -110,16 +110,14 @@ Lecture 4
 
 > **146**. Here is given the condemnation of the falsehood.
 
-And first, he excludes the false consolation, by the similitude of the act: ***you***, you Hananiah, ***have broken***; and you Jeremiah, ***shall make***, as a sign of the increase of the punishment. *They who fear the hoarfrost, upon them shall fall the snow* (Job 6:16).
+And first, he excludes the false consolation, by the similitude of the act: ***you***, you Hananiah, ***have broken***; and you Jeremiah, ***shall make***, as a sign of the increase of the punishment. *They who fear the hoarfrost, upon them shall fall the snow* (Job 6:16).  
 
-And the exposition of the similitude: ***for thus says the Lord***; it is as if he were saying, “The yoke of bondage will be harsher than had been previously signified.” *His yoke is a yoke of iron, and his chain is a chain of bronze* (Sir 28:24).
+And the exposition of the similitude: ***for thus says the Lord***; it is as if he were saying, “The yoke of bondage will be harsher than had been previously signified.” *His yoke is a yoke of iron, and his chain is a chain of bronze* (Sir 28:24).  
 
-Second is given the threat against his prophesying:
+Second is given the threat against his prophesying:  
 
-and first, the restraining of his fault is given: ***and Jeremiah spoke . . . the Lord has not sent you***. *We have made a lie our hope, and by a lie are we protected* (Isa 28:15).
+and first, the restraining of his fault is given: ***and Jeremiah spoke . . . the Lord has not sent you***. *We have made a lie our hope, and by a lie are we protected* (Isa 28:15).  
 
-Second, the threat of punishment is given: ***therefore, I shall send you***; that is, I shall destroy you by death. *Not so the wicked, not so, but they are like the dust which the wind drives from the face of the earth* (Ps 1:4).
+Second, the threat of punishment is given: ***therefore, I shall send you***; that is, I shall destroy you by death. *Not so the wicked, not so, but they are like the dust which the wind drives from the face of the earth* (Ps 1:4).  
 
 Third, the fulfillment of the prophecy is given: ***and Hananiah died in the seventh month***—hence, he did not survive but by two months. *When they say, ‘peace and security,’ then shall destruction come upon them suddenly, as the pain of a woman in labor, and they shall not escape* (1 Thess 5:3).
-
-Chapter 29

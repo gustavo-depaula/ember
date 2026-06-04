@@ -50,102 +50,100 @@
 
 > **1122**. ***They have sought me***. Here the judge, namely, God, gives the sentence of the separation of the wicked from the good, in the reception of the promised salvation. And this is divided into two parts:
 
-in the first, he pronounces the sentence of separation;
+in the first, he pronounces the sentence of separation;  
 
-in the second, he determines the manner of execution: ***thus says the Lord*** (ch. 66).
+in the second, he determines the manner of execution: ***thus says the Lord*** (ch. 66).  
 
-Concerning the first, he does two things.
+Concerning the first, he does two things.  
 
-First, he promises a response, showing the opportunity of responding: ***they have sought me that before asked not for me***, as if to say: thus far, you Jews have not sought after me, but idols; because you ask, I will respond. Mystically, this concerns the conversion of the gentiles: *I was found by them that did not seek me* (Rom 10:20). And he sets out the promise: ***I said: behold me, behold me, to a nation***,*Gentem*. I will respond, namely, to the Jews, or I will be turned ***to the*** converted ***gentiles***,*Gentes*. *I to my beloved, and my beloved to me* (Song 6:2).
+First, he promises a response, showing the opportunity of responding: ***they have sought me that before asked not for me***, as if to say: thus far, you Jews have not sought after me, but idols; because you ask, I will respond. Mystically, this concerns the conversion of the gentiles: *I was found by them that did not seek me* (Rom 10:20). And he sets out the promise: ***I said: behold me, behold me, to a nation***,*Gentem*. I will respond, namely, to the Jews, or I will be turned ***to the*** converted ***gentiles***,*Gentes*. *I to my beloved, and my beloved to me* (Song 6:2).  
 
-**1123**. Second, he sentences separation: ***I have spread forth my hands***.
+**1123**. Second, he sentences separation: ***I have spread forth my hands***.  
 
-And first, he sentences the separation of the wicked from the good, because of sins of transgression;
+And first, he sentences the separation of the wicked from the good, because of sins of transgression;  
 
-second, because of sins of omission: ***and you, that have forsaken*** (Isa 65:11).
+second, because of sins of omission: ***and you, that have forsaken*** (Isa 65:11).  
 
-The first of these is divided into two:
+The first of these is divided into two:  
 
-in the first, he threatens punishment for the wicked;
+in the first, he threatens punishment for the wicked;  
 
-in the second, he promises rewards for the good: ***thus says the Lord*** (Isa 65:8).
+in the second, he promises rewards for the good: ***thus says the Lord*** (Isa 65:8).  
 
-Concerning the first, he does two things:
+Concerning the first, he does two things:  
 
-first, he denounces their fault of transgression;
+first, he denounces their fault of transgression;  
 
-second, he threatens punishment: ***these shall be smoke*** (Isa 65:5).
+second, he threatens punishment: ***these shall be smoke*** (Isa 65:5).  
 
-**1124**. He denounces their fault from three things.
+**1124**. He denounces their fault from three things.  
 
-First, from their ungratefulness for his benefits: ***I have spread forth my hands***, giving many benefits, ***all the day***, the whole time since I took them to myself; mystically, ***I have spread forth my hands***, on the cross: *every one walks* (Jer 16:12) in a way that is not good.
+First, from their ungratefulness for his benefits: ***I have spread forth my hands***, giving many benefits, ***all the day***, the whole time since I took them to myself; mystically, ***I have spread forth my hands***, on the cross: *every one walks* (Jer 16:12) in a way that is not good.  
 
-Second, from the continuity of their sinning: ***a people that continually provoke me to anger before my face***, for *all things are naked and open to his eyes* (Heb 4:13), or because they placed idols in the temple: *they have provoked me with that which was no god* (Deut 32:21).
+Second, from the continuity of their sinning: ***a people that continually provoke me to anger before my face***, for *all things are naked and open to his eyes* (Heb 4:13), or because they placed idols in the temple: *they have provoked me with that which was no god* (Deut 32:21).  
 
-Third, from the variety or seriousness of their sins, as to four things.
+Third, from the variety or seriousness of their sins, as to four things.  
 
-**1125**. First, as to the worship of idols: ***that immolate***, to idols, ***in gardens***, for they worshipped idols in places of pleasure, ***upon bricks***, upon altars constructed from bricks, so that they could sustain the fire of sacrifice, above: ***they shall be confounded for their idols*** (Isa 1:29).
+**1125**. First, as to the worship of idols: ***that immolate***, to idols, ***in gardens***, for they worshipped idols in places of pleasure, ***upon bricks***, upon altars constructed from bricks, so that they could sustain the fire of sacrifice, above: ***they shall be confounded for their idols*** (Isa 1:29).  
 
-Second, as to their enthusiasm for divinations: ***that dwell in sepulchers***, that they might have answers from the dead; ***in the temples*** (*delubris*), temples of idols so called from *diluendo* (“washing”), for they thought all things were washed away there; or because of the fonts, which were there for washing the victims and priests; ***and sleep***, upon the hides of the victims for the purpose of divination: *your temples**Delubra*. *shall be destroyed* (Ezek 6:6).
+Second, as to their enthusiasm for divinations: ***that dwell in sepulchers***, that they might have answers from the dead; ***in the temples*** (*delubris*), temples of idols so called from *diluendo* (“washing”), for they thought all things were washed away there; or because of the fonts, which were there for washing the victims and priests; ***and sleep***, upon the hides of the victims for the purpose of divination: *your temples**Delubra*. *shall be destroyed* (Ezek 6:6).  
 
-Third, as to the uncleanness of their food: ***that eat swine’s flesh, and profane broth***, from pork, below: ***they that did eat swine’s flesh, and the abomination, and the mouse*** (Isa 66:17).
+Third, as to the uncleanness of their food: ***that eat swine’s flesh, and profane broth***, from pork, below: ***they that did eat swine’s flesh, and the abomination, and the mouse*** (Isa 66:17).  
 
-Fourth, as to their contempt for the just: ***that say***, namely, to those who do not adore idols: *he is grievous unto us* (Wis 2:15); or ***that say***, to God: *who say**Dicunt*. Vg.: *dixerunt*. DR: “have said.” *to God: depart from us, we desire not the knowledge of your ways* (Job 21:14).
+Fourth, as to their contempt for the just: ***that say***, namely, to those who do not adore idols: *he is grievous unto us* (Wis 2:15); or ***that say***, to God: *who say**Dicunt*. Vg.: *dixerunt*. DR: “have said.” *to God: depart from us, we desire not the knowledge of your ways* (Job 21:14).  
 
-**1126**. ***These shall be smoke***. Here he threatens punishment.
+**1126**. ***These shall be smoke***. Here he threatens punishment.  
 
-And first, the length of the punishment: ***smoke***, that is, like smoke is consumed by fire, so shall they be burned by my anger: *a fire is kindled in my wrath, and shall burn even to the lowest hell* (Deut 32:22).
+And first, the length of the punishment: ***smoke***, that is, like smoke is consumed by fire, so shall they be burned by my anger: *a fire is kindled in my wrath, and shall burn even to the lowest hell* (Deut 32:22).  
 
-Second, the certainty of punishment: ***behold it is written***, for their sin is firmly in memory, and their punishment in preordination; ***I will not be silent***, overlooking their sins: *the sin of Judah is written* (Jer 17:1), above: ***I have held my peace, always I have kept silence*** (Isa 42:14).
+Second, the certainty of punishment: ***behold it is written***, for their sin is firmly in memory, and their punishment in preordination; ***I will not be silent***, overlooking their sins: *the sin of Judah is written* (Jer 17:1), above: ***I have held my peace, always I have kept silence*** (Isa 42:14).  
 
-Third, the multitude of the punishments, because they are for all the sins of their fathers: ***but I will render***: *I am a jealous God,*Ego sum Deus zelotes*. Vg.: *ego sum Dominus Deus tuus fortis, zelotes*. DR: “I am the Lord thy God, mighty, jealous.” visiting the iniquity of the fathers upon the children* (Exod 20:5). ***Who have reproached me***, by adoring idols in the high places; and also for the sins of their youth: ***and I will measure back their first work***, as if to say, I will make the punishment commensurate to the fault, above: ***she has received of the hand of the Lord double*** (Isa 40:2).
+Third, the multitude of the punishments, because they are for all the sins of their fathers: ***but I will render***: *I am a jealous God,*Ego sum Deus zelotes*. Vg.: *ego sum Dominus Deus tuus fortis, zelotes*. DR: “I am the Lord thy God, mighty, jealous.” visiting the iniquity of the fathers upon the children* (Exod 20:5). ***Who have reproached me***, by adoring idols in the high places; and also for the sins of their youth: ***and I will measure back their first work***, as if to say, I will make the punishment commensurate to the fault, above: ***she has received of the hand of the Lord double*** (Isa 40:2).  
 
-**1127**. ***Thus says the Lord***. Here he promises rewards to the good.
+**1127**. ***Thus says the Lord***. Here he promises rewards to the good.  
 
-And first, as to their preservation from evils: ***as if a grain***, of a grape; ***it is a blessing***, that is, it pleases God for it to be reserved for a blessing; ***for the sake of my servants***, your fathers; ***that I may not destroy the whole***, people of the Jews, above: ***it shall be as when one gathers*** (Isa 17:5) clusters in the vintage.
+And first, as to their preservation from evils: ***as if a grain***, of a grape; ***it is a blessing***, that is, it pleases God for it to be reserved for a blessing; ***for the sake of my servants***, your fathers; ***that I may not destroy the whole***, people of the Jews, above: ***it shall be as when one gathers*** (Isa 17:5) clusters in the vintage.  
 
-Second, as to their advancement in good things.
+Second, as to their advancement in good things.  
 
-And first, as to the multiplication of their seed: ***and I will bring forth a seed out of Jacob***, above: ***except the Lord of hosts had left us seed, we had been as Sodom*** (Isa 1:9).
+And first, as to the multiplication of their seed: ***and I will bring forth a seed out of Jacob***, above: ***except the Lord of hosts had left us seed, we had been as Sodom*** (Isa 1:9).  
 
-Second, as to the restoration of the inheritance of their fathers: ***and my elect shall inherit it***: *they shall possess you for their inheritance: and you shall be their inheritance* (Ezek 36:12).
+Second, as to the restoration of the inheritance of their fathers: ***and my elect shall inherit it***: *they shall possess you for their inheritance: and you shall be their inheritance* (Ezek 36:12).  
 
-Third, as to the fertility of their pastures: ***and the plains, and the valley of Achor***, so called, because they stoned Achan there (Josh 7:24–26); *I will give them the valley of Achor for an opening of hope* (Hos 2:15).*Dabo eis vallem Achor ad aperiendam spem*. Vg.: *dabo ei vinitores ejus ex eodem loco, et vallem Achor, ad aperiendam spem*. DR: “I will give her vinedressers out of the same place, and the valley of Achor for an opening of hope.”
+Third, as to the fertility of their pastures: ***and the plains, and the valley of Achor***, so called, because they stoned Achan there (Josh 7:24–26); *I will give them the valley of Achor for an opening of hope* (Hos 2:15).*Dabo eis vallem Achor ad aperiendam spem*. Vg.: *dabo ei vinitores ejus ex eodem loco, et vallem Achor, ad aperiendam spem*. DR: “I will give her vinedressers out of the same place, and the valley of Achor for an opening of hope.”  
 
-**1128**. ***And you, that have forsaken***. Here he separates the wicked from the consolation of the good, because of their sins of omission.
+**1128**. ***And you, that have forsaken***. Here he separates the wicked from the consolation of the good, because of their sins of omission.  
 
-And first, he threatens punishment for the wicked;
+And first, he threatens punishment for the wicked;  
 
-second, he promises rewards for the good: ***because the former distresses are forgotten*** (Isa 65:16).
+second, he promises rewards for the good: ***because the former distresses are forgotten*** (Isa 65:16).  
 
-Concerning the first, he does two things.
+Concerning the first, he does two things.  
 
-First, he threatens them because they have abandoned God, and he sets out their fault: ***and you***, Jews; ***that set for fortune***, a god of the Egyptians, ***a table***: he touches upon a ritual in which this god was worshipped, for, at the end of the year, a table was prepared for him, crammed with every food: *they forsook**Dereliquerunt*. Vg.: *dereliquit*. DR: “he forsook.” *God who made them, and departed from God their savior* (Deut 32:15). And he sets out the punishment: ***I will number you in the sword***, as if to say: so that none remain who will not be crushed: *they shall fall by the sword, and by the famine* (Jer 44:12).
+First, he threatens them because they have abandoned God, and he sets out their fault: ***and you***, Jews; ***that set for fortune***, a god of the Egyptians, ***a table***: he touches upon a ritual in which this god was worshipped, for, at the end of the year, a table was prepared for him, crammed with every food: *they forsook**Dereliquerunt*. Vg.: *dereliquit*. DR: “he forsook.” *God who made them, and departed from God their savior* (Deut 32:15). And he sets out the punishment: ***I will number you in the sword***, as if to say: so that none remain who will not be crushed: *they shall fall by the sword, and by the famine* (Jer 44:12).  
 
-**1129**. Second, because they did not obey when they were called back, and he sets out the fault: ***because I called and you did not answer***: *I called, and you refused* (Prov 1:24).
+**1129**. Second, because they did not obey when they were called back, and he sets out the fault: ***because I called and you did not answer***: *I called, and you refused* (Prov 1:24).  
 
-And he threatens the punishment of separation.
+And he threatens the punishment of separation.  
 
-First, in satisfaction of the body: ***therefore thus says the Lord God: behold my servants shall eat, and you shall be hungry***: *the rich have wanted, and have suffered hunger: but they that seek the Lord shall not be deprived of any good* (Ps 33:11[34:10]).
+First, in satisfaction of the body: ***therefore thus says the Lord God: behold my servants shall eat, and you shall be hungry***: *the rich have wanted, and have suffered hunger: but they that seek the Lord shall not be deprived of any good* (Ps 33:11[34:10]).  
 
-Second, in joy of heart: ***behold my servants shall rejoice, and you shall be confounded***: *repenting, and groaning for anguish of spirit* (Wis 5:3).
+Second, in joy of heart: ***behold my servants shall rejoice, and you shall be confounded***: *repenting, and groaning for anguish of spirit* (Wis 5:3).  
 
-Third, in difference of name, and first, he sets out the sort of name the impious shall have: ***and you shall leave your name for an oath to my elect***, that they might confirm their words thus: if it is not so, so shall it happen to me as happened to them: *by the sword, and by the famine shall they die: and they shall be for an oath*,*Iusiurandum*. DR: “execration.” *and for a wonder, and for a curse, and for a reproach* (Jer 44:12). And next he sets out the sort of name the good shall have: ***and call his servants; in which***, namely, in which name, the name is Jesus; ***amen***, faithfully, above: ***you shall be called by a new name, which the mouth of the Lord shall name*** (Isa 62:2).
+Third, in difference of name, and first, he sets out the sort of name the impious shall have: ***and you shall leave your name for an oath to my elect***, that they might confirm their words thus: if it is not so, so shall it happen to me as happened to them: *by the sword, and by the famine shall they die: and they shall be for an oath*,*Iusiurandum*. DR: “execration.” *and for a wonder, and for a curse, and for a reproach* (Jer 44:12). And next he sets out the sort of name the good shall have: ***and call his servants; in which***, namely, in which name, the name is Jesus; ***amen***, faithfully, above: ***you shall be called by a new name, which the mouth of the Lord shall name*** (Isa 62:2).  
 
-**1130**. ***Because the former distresses are forgotten***. Here he promises rewards seen.
+**1130**. ***Because the former distresses are forgotten***. Here he promises rewards seen.  
 
-And first, in general, as to the removal of evils: ***because the former distresses are forgotten***, not because of lack of knowledge, but because they have been succeeded by good things, above: ***you shall forget the shame of your youth*** (Isa 54:4). And as to the restoration of goods: ***for behold I create new heavens***, new help from heaven, ***and a new earth***, new benefits from the earth; or this refers to the day of judgment, when the world will be renewed to the glory of the saints: *the former things are passed away* (Rev 21:4).
+And first, in general, as to the removal of evils: ***because the former distresses are forgotten***, not because of lack of knowledge, but because they have been succeeded by good things, above: ***you shall forget the shame of your youth*** (Isa 54:4). And as to the restoration of goods: ***for behold I create new heavens***, new help from heaven, ***and a new earth***, new benefits from the earth; or this refers to the day of judgment, when the world will be renewed to the glory of the saints: *the former things are passed away* (Rev 21:4).  
 
-**1131**. Second, in particular: ***for behold I create Jerusalem***.
+**1131**. Second, in particular: ***for behold I create Jerusalem***.  
 
-And first, as to cheerfulness of heart: ***Jerusalem***, earthly Jerusalem, but more, the heavenly Jerusalem; *<**a rejoicing***, that is,> rejoicing,*<Exultationem, id est> exultantem*. emphatically, so that all things are absorbed in joy, above: ***they shall obtain joy and gladness, and sorrow and mourning shall flee away*** (Isa 35:10).
+And first, as to cheerfulness of heart: ***Jerusalem***, earthly Jerusalem, but more, the heavenly Jerusalem; *<**a rejoicing***, that is,> rejoicing,*<Exultationem, id est> exultantem*. emphatically, so that all things are absorbed in joy, above: ***they shall obtain joy and gladness, and sorrow and mourning shall flee away*** (Isa 35:10).  
 
-**1132**. Second, as to length of life: ***there shall no more be an infant of days there, nor an old man that shall not fill up his days***, dying before his time, but ***the child shall die a hundred years old***, that is, when he will have reached such an age; ***and***, if he be a ***sinner***, although he will have lived to such an age, he shall be subject to a curse: *Abraham died in a good old age* (Gen 25:8). Mystically, in the heavenly Jerusalem, all will fill up their days, for none will die; ***the child shall die a hundred years old***, that is, he who lived to old age childishly shall die, in eternal death: *for venerable old age is not that of long time, nor counted by the number of years* (Wis 4:8).
+**1132**. Second, as to length of life: ***there shall no more be an infant of days there, nor an old man that shall not fill up his days***, dying before his time, but ***the child shall die a hundred years old***, that is, when he will have reached such an age; ***and***, if he be a ***sinner***, although he will have lived to such an age, he shall be subject to a curse: *Abraham died in a good old age* (Gen 25:8). Mystically, in the heavenly Jerusalem, all will fill up their days, for none will die; ***the child shall die a hundred years old***, that is, he who lived to old age childishly shall die, in eternal death: *for venerable old age is not that of long time, nor counted by the number of years* (Wis 4:8).  
 
-**1133**. Third, as to prosperity of goods, both as to security of their possessions: ***and they shall build***: *and they shall build houses* (Ezek 28:26); *they shall plant vineyards* (Amos 9:14); and he assigns the reason: ***for as the days of a tree***, that is, because they will live a long time just as the wood of a tree lasts a long time, ***the works of their hands shall grow old***, that is, they shall remain in their use until old age: *he shall be like a tree which is planted near the running waters* (Ps 1:3). And as to the peace of their children: ***nor bring forth in trouble***, as though bringing forth children into servitude to their enemies: *good things continue*Perseverant*. Vg.: *permanent*. with their seed* (Sir 44:11).
+**1133**. Third, as to prosperity of goods, both as to security of their possessions: ***and they shall build***: *and they shall build houses* (Ezek 28:26); *they shall plant vineyards* (Amos 9:14); and he assigns the reason: ***for as the days of a tree***, that is, because they will live a long time just as the wood of a tree lasts a long time, ***the works of their hands shall grow old***, that is, they shall remain in their use until old age: *he shall be like a tree which is planted near the running waters* (Ps 1:3). And as to the peace of their children: ***nor bring forth in trouble***, as though bringing forth children into servitude to their enemies: *good things continue*Perseverant*. Vg.: *permanent*. with their seed* (Sir 44:11).  
 
-**1134**. Fourth, as to the hearing of their prayers: ***and it shall come to pass, that before they call***, with their mouth, above: ***at the voice of your cry, as soon as he shall hear, he will answer you*** (Isa 30:19).
+**1134**. Fourth, as to the hearing of their prayers: ***and it shall come to pass, that before they call***, with their mouth, above: ***at the voice of your cry, as soon as he shall hear, he will answer you*** (Isa 30:19).  
 
 **1135**. Fifth, as to the tranquility of peace: ***the wolf and the lamb***, for those who formerly were tyrants and evildoers will abide peacefully with others, above (Isa 11:6) has the same.
-
-Chapter 66
