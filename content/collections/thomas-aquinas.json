@@ -498,7 +498,19 @@
 				},
 				{
 					"kind": "item",
+					"ref": "book/aquinas-letter-108-articles"
+				},
+				{
+					"kind": "item",
 					"ref": "book/aquinas-de-secreto"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-decretalem"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-de-forma-absolutionis"
 				}
 			]
 		},
@@ -557,6 +569,10 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-sermon-immensa"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-office-corpus-christi-sacerdos"
 				}
 			]
 		},

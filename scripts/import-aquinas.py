@@ -906,7 +906,7 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
     chapters: list[LinearChapter] = []
 
     chapter_re = re.compile(
-        r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture)\s*([IVXLCDM\d]*)\b",
+        r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture|Lection|LESSON|Lesson)\s*([IVXLCDM\d]*)\b",
         re.IGNORECASE,
     )
 
@@ -952,7 +952,7 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
 
             def _strip_header(s: str) -> str:
                 inner = re.sub(
-                    r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture)\s*[IVXLCDM\d]*\b[\.,:]*\s*",
+                    r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture|Lection|LESSON|Lesson)\s*[IVXLCDM\d]*\b[\.,:]*\s*",
                     "", s.lstrip("*").lstrip(),
                     count=1, flags=re.IGNORECASE,
                 ).lstrip()
@@ -1452,6 +1452,37 @@ class DQWorkSpec:
     file_prefix: str           # e.g. "QDdeVer"
     question_count: int
     question_titles_en: dict[int, str] = field(default_factory=dict)
+    # For De Unione Verbi where one work has Q1 with N articles each in a
+    # separate file (QDdeUnione.htm = article 1, QDdeUnione2.htm = article 2,
+    # etc.). When True, the loop iterates files as articles of Q1 instead of
+    # as separate questions.
+    single_question_multi_file: bool = False
+
+
+def _parse_dq_article_whole_file(path: Path, anum: int) -> dict | None:
+    """For single_question_multi_file works: read the whole bilingual file as
+    one article. Drop the contents-table navigation rows. The article rows
+    are the bilingual <tr>/<td> pairs that follow."""
+    soup = load_html(path)
+    body = soup.find("body") or soup
+    rows: list[tuple[str, str]] = []
+    title_en = ""
+    for tr in body.find_all("tr"):
+        tds = tr.find_all("td", recursive=False)
+        if len(tds) == 1:
+            text = td_text(tds[0]).strip()
+            if text and not title_en and re.search(r"(?:Article|Articulus)\s+[IVXLCDM\d]+", text, re.IGNORECASE):
+                title_en = text
+            elif text:
+                rows.append(("__hdr__", text))
+        elif len(tds) >= 2:
+            la = td_text(tds[0])
+            en = td_text(tds[1])
+            if la or en:
+                rows.append((la, en))
+    if not rows:
+        return None
+    return {"num": anum, "rows": rows, "title_en": title_en, "title_la": ""}
 
 
 def build_dq_work(spec: DQWorkSpec) -> dict:
@@ -1463,47 +1494,84 @@ def build_dq_work(spec: DQWorkSpec) -> dict:
 
     toc: list[dict] = []
     total = 0
-    for qn in range(1, spec.question_count + 1):
-        src = CACHE / f"{spec.file_prefix}{qn}.htm"
-        if not src.is_file():
-            # Some DQ files use <prefix>.htm for Q1 and <prefix>N.htm for Q2+,
-            # while single-question works (de-anima, de-spiritualibus-creaturis)
-            # use <prefix>.htm alone.
-            alt = CACHE / f"{spec.file_prefix}.htm"
-            if alt.is_file() and qn == 1:
-                src = alt
-            else:
-                print(f"  skip {src.name}: not found")
-                continue
-        try:
-            title_en, articles = parse_dq_question_file(src)
-        except Exception as exc:
-            print(f"  warn: {src.name} parse failed: {exc}")
-            continue
-        if not articles:
-            continue
-        q_id = f"q{qn:02d}"
+
+    if spec.single_question_multi_file:
+        # Each file is one ARTICLE of a single Question (Q1).
         q_node = {
-            "id": q_id,
+            "id": "q01",
             "title": {
-                "en-US": f"Question {qn}" + (f" — {title_en}" if title_en else ""),
-                "la": f"Quaestio {qn}",
+                "en-US": "Question 1",
+                "la": "Quaestio 1",
             },
             "children": [],
         }
-        for art in articles:
-            aid = f"{q_id}-a{art['num']:02d}"
+        for an in range(1, spec.question_count + 1):
+            src = CACHE / f"{spec.file_prefix}{an}.htm"
+            if not src.is_file():
+                alt = CACHE / f"{spec.file_prefix}.htm"
+                if alt.is_file() and an == 1:
+                    src = alt
+                else:
+                    print(f"  skip {src.name}: not found")
+                    continue
+            art = _parse_dq_article_whole_file(src, an)
+            if art is None:
+                continue
+            aid = f"q01-a{an:02d}"
             _write_md(en_dir / f"{aid}.md", _dq_article_md(art, "en-US"))
             _write_md(la_dir / f"{aid}.md", _dq_article_md(art, "la"))
             total += 1
             q_node["children"].append({
                 "id": aid,
                 "title": {
-                    "en-US": f"Article {art['num']}",
-                    "la": f"Articulus {art['num']}",
+                    "en-US": f"Article {an}",
+                    "la": f"Articulus {an}",
                 },
             })
-        toc.append(q_node)
+        if q_node["children"]:
+            toc.append(q_node)
+    else:
+        for qn in range(1, spec.question_count + 1):
+            src = CACHE / f"{spec.file_prefix}{qn}.htm"
+            if not src.is_file():
+                # Some DQ files use <prefix>.htm for Q1 and <prefix>N.htm for Q2+,
+                # while single-question works (de-anima, de-spiritualibus-creaturis)
+                # use <prefix>.htm alone.
+                alt = CACHE / f"{spec.file_prefix}.htm"
+                if alt.is_file() and qn == 1:
+                    src = alt
+                else:
+                    print(f"  skip {src.name}: not found")
+                    continue
+            try:
+                title_en, articles = parse_dq_question_file(src)
+            except Exception as exc:
+                print(f"  warn: {src.name} parse failed: {exc}")
+                continue
+            if not articles:
+                continue
+            q_id = f"q{qn:02d}"
+            q_node = {
+                "id": q_id,
+                "title": {
+                    "en-US": f"Question {qn}" + (f" — {title_en}" if title_en else ""),
+                    "la": f"Quaestio {qn}",
+                },
+                "children": [],
+            }
+            for art in articles:
+                aid = f"{q_id}-a{art['num']:02d}"
+                _write_md(en_dir / f"{aid}.md", _dq_article_md(art, "en-US"))
+                _write_md(la_dir / f"{aid}.md", _dq_article_md(art, "la"))
+                total += 1
+                q_node["children"].append({
+                    "id": aid,
+                    "title": {
+                        "en-US": f"Article {art['num']}",
+                        "la": f"Articulus {art['num']}",
+                    },
+                })
+            toc.append(q_node)
 
     manifest = {
         "id": spec.book_id,
@@ -1723,6 +1791,7 @@ DQ_WORKS: dict[str, DQWorkSpec] = {
         translator_note_en="Translation drawn from the Geremia/AquinasOperaOmnia GitHub repository.",
         file_prefix="QDdeUnione",
         question_count=5,
+        single_question_multi_file=True,
     ),
     "de-virtutibus": DQWorkSpec(
         book_id="aquinas-de-virtutibus",

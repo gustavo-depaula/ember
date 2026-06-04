@@ -1,0 +1,784 @@
+{
+  "id": "aquinas-letter-108-articles",
+  "name": {
+    "en-US": "Letter to John of Vercelli on the 108 Articles",
+    "la": "Epistola ad Ioannem Vercellensem de 108 Articulis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's response to John of Vercelli, Master General of the Dominicans, on 108 propositions drawn from contemporary disputes — the longest of his Articles letters. Latin only on aquinas.cc.",
+    "la": "Responsum Thomae Ioanni Vercellensi, Magistro Generali Ordinis Praedicatorum, ad 108 propositiones ex disputationibus contemporaneis exceptas — epistolarum Articulorum longissima. Latinum tantum in aquinas.cc."
+  },
+  "composed": 1271,
+  "languages": [
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~108 Articuli",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "108articul-01",
+      "title": {
+        "en-US": "108Articul",
+        "la": "108Articul"
+      }
+    },
+    {
+      "id": "108articul-prooemium",
+      "title": {
+        "en-US": "Prooemium",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "108articul-a1",
+      "title": {
+        "en-US": "Articulus 1",
+        "la": "Articulus 1"
+      }
+    },
+    {
+      "id": "108articul-a2",
+      "title": {
+        "en-US": "Articulus 2",
+        "la": "Articulus 2"
+      }
+    },
+    {
+      "id": "108articul-a3",
+      "title": {
+        "en-US": "Articulus 3",
+        "la": "Articulus 3"
+      }
+    },
+    {
+      "id": "108articul-a4",
+      "title": {
+        "en-US": "Articulus 4",
+        "la": "Articulus 4"
+      }
+    },
+    {
+      "id": "108articul-a5",
+      "title": {
+        "en-US": "Articulus 5",
+        "la": "Articulus 5"
+      }
+    },
+    {
+      "id": "108articul-a6",
+      "title": {
+        "en-US": "Articulus 6",
+        "la": "Articulus 6"
+      }
+    },
+    {
+      "id": "108articul-a7",
+      "title": {
+        "en-US": "Articulus 7",
+        "la": "Articulus 7"
+      }
+    },
+    {
+      "id": "108articul-a8",
+      "title": {
+        "en-US": "Articulus 8",
+        "la": "Articulus 8"
+      }
+    },
+    {
+      "id": "108articul-a9",
+      "title": {
+        "en-US": "Articulus 9",
+        "la": "Articulus 9"
+      }
+    },
+    {
+      "id": "108articul-a10",
+      "title": {
+        "en-US": "Articulus 10",
+        "la": "Articulus 10"
+      }
+    },
+    {
+      "id": "108articul-a11",
+      "title": {
+        "en-US": "Articulus 11",
+        "la": "Articulus 11"
+      }
+    },
+    {
+      "id": "108articul-a12",
+      "title": {
+        "en-US": "Articulus 12",
+        "la": "Articulus 12"
+      }
+    },
+    {
+      "id": "108articul-a13",
+      "title": {
+        "en-US": "Articulus 13",
+        "la": "Articulus 13"
+      }
+    },
+    {
+      "id": "108articul-a14",
+      "title": {
+        "en-US": "Articulus 14",
+        "la": "Articulus 14"
+      }
+    },
+    {
+      "id": "108articul-a15",
+      "title": {
+        "en-US": "Articulus 15",
+        "la": "Articulus 15"
+      }
+    },
+    {
+      "id": "108articul-a16",
+      "title": {
+        "en-US": "Articulus 16",
+        "la": "Articulus 16"
+      }
+    },
+    {
+      "id": "108articul-a17",
+      "title": {
+        "en-US": "Articulus 17",
+        "la": "Articulus 17"
+      }
+    },
+    {
+      "id": "108articul-a18",
+      "title": {
+        "en-US": "Articulus 18",
+        "la": "Articulus 18"
+      }
+    },
+    {
+      "id": "108articul-a19",
+      "title": {
+        "en-US": "Articulus 19",
+        "la": "Articulus 19"
+      }
+    },
+    {
+      "id": "108articul-a20",
+      "title": {
+        "en-US": "Articulus 20",
+        "la": "Articulus 20"
+      }
+    },
+    {
+      "id": "108articul-a21",
+      "title": {
+        "en-US": "Articulus 21",
+        "la": "Articulus 21"
+      }
+    },
+    {
+      "id": "108articul-a22",
+      "title": {
+        "en-US": "Articulus 22",
+        "la": "Articulus 22"
+      }
+    },
+    {
+      "id": "108articul-a23",
+      "title": {
+        "en-US": "Articulus 23",
+        "la": "Articulus 23"
+      }
+    },
+    {
+      "id": "108articul-a24",
+      "title": {
+        "en-US": "Articulus 24",
+        "la": "Articulus 24"
+      }
+    },
+    {
+      "id": "108articul-a25",
+      "title": {
+        "en-US": "Articulus 25",
+        "la": "Articulus 25"
+      }
+    },
+    {
+      "id": "108articul-a26",
+      "title": {
+        "en-US": "Articulus 26",
+        "la": "Articulus 26"
+      }
+    },
+    {
+      "id": "108articul-a27",
+      "title": {
+        "en-US": "Articulus 27",
+        "la": "Articulus 27"
+      }
+    },
+    {
+      "id": "108articul-a28",
+      "title": {
+        "en-US": "Articulus 28",
+        "la": "Articulus 28"
+      }
+    },
+    {
+      "id": "108articul-a29",
+      "title": {
+        "en-US": "Articulus 29",
+        "la": "Articulus 29"
+      }
+    },
+    {
+      "id": "108articul-a30",
+      "title": {
+        "en-US": "Articulus 30",
+        "la": "Articulus 30"
+      }
+    },
+    {
+      "id": "108articul-a31",
+      "title": {
+        "en-US": "Articulus 31",
+        "la": "Articulus 31"
+      }
+    },
+    {
+      "id": "108articul-a32",
+      "title": {
+        "en-US": "Articulus 32",
+        "la": "Articulus 32"
+      }
+    },
+    {
+      "id": "108articul-a33",
+      "title": {
+        "en-US": "Articulus 33",
+        "la": "Articulus 33"
+      }
+    },
+    {
+      "id": "108articul-a34",
+      "title": {
+        "en-US": "Articulus 34",
+        "la": "Articulus 34"
+      }
+    },
+    {
+      "id": "108articul-a35",
+      "title": {
+        "en-US": "Articulus 35",
+        "la": "Articulus 35"
+      }
+    },
+    {
+      "id": "108articul-a36",
+      "title": {
+        "en-US": "Articulus 36",
+        "la": "Articulus 36"
+      }
+    },
+    {
+      "id": "108articul-a37",
+      "title": {
+        "en-US": "Articulus 37",
+        "la": "Articulus 37"
+      }
+    },
+    {
+      "id": "108articul-a38",
+      "title": {
+        "en-US": "Articulus 38",
+        "la": "Articulus 38"
+      }
+    },
+    {
+      "id": "108articul-a39",
+      "title": {
+        "en-US": "Articulus 39",
+        "la": "Articulus 39"
+      }
+    },
+    {
+      "id": "108articul-a40",
+      "title": {
+        "en-US": "Articulus 40",
+        "la": "Articulus 40"
+      }
+    },
+    {
+      "id": "108articul-a41",
+      "title": {
+        "en-US": "Articulus 41",
+        "la": "Articulus 41"
+      }
+    },
+    {
+      "id": "108articul-a42",
+      "title": {
+        "en-US": "Articulus 42",
+        "la": "Articulus 42"
+      }
+    },
+    {
+      "id": "108articul-a43",
+      "title": {
+        "en-US": "Articulus 43",
+        "la": "Articulus 43"
+      }
+    },
+    {
+      "id": "108articul-a44",
+      "title": {
+        "en-US": "Articulus 44",
+        "la": "Articulus 44"
+      }
+    },
+    {
+      "id": "108articul-a45",
+      "title": {
+        "en-US": "Articulus 45",
+        "la": "Articulus 45"
+      }
+    },
+    {
+      "id": "108articul-a46",
+      "title": {
+        "en-US": "Articulus 46",
+        "la": "Articulus 46"
+      }
+    },
+    {
+      "id": "108articul-a47",
+      "title": {
+        "en-US": "Articulus 47",
+        "la": "Articulus 47"
+      }
+    },
+    {
+      "id": "108articul-a48",
+      "title": {
+        "en-US": "Articulus 48",
+        "la": "Articulus 48"
+      }
+    },
+    {
+      "id": "108articul-a49",
+      "title": {
+        "en-US": "Articulus 49",
+        "la": "Articulus 49"
+      }
+    },
+    {
+      "id": "108articul-a50",
+      "title": {
+        "en-US": "Articulus 50",
+        "la": "Articulus 50"
+      }
+    },
+    {
+      "id": "108articul-a51",
+      "title": {
+        "en-US": "Articulus 51",
+        "la": "Articulus 51"
+      }
+    },
+    {
+      "id": "108articul-a52",
+      "title": {
+        "en-US": "Articulus 52",
+        "la": "Articulus 52"
+      }
+    },
+    {
+      "id": "108articul-a53",
+      "title": {
+        "en-US": "Articulus 53",
+        "la": "Articulus 53"
+      }
+    },
+    {
+      "id": "108articul-a54",
+      "title": {
+        "en-US": "Articulus 54",
+        "la": "Articulus 54"
+      }
+    },
+    {
+      "id": "108articul-a55",
+      "title": {
+        "en-US": "Articulus 55",
+        "la": "Articulus 55"
+      }
+    },
+    {
+      "id": "108articul-a56",
+      "title": {
+        "en-US": "Articulus 56",
+        "la": "Articulus 56"
+      }
+    },
+    {
+      "id": "108articul-a57",
+      "title": {
+        "en-US": "Articulus 57",
+        "la": "Articulus 57"
+      }
+    },
+    {
+      "id": "108articul-a58",
+      "title": {
+        "en-US": "Articulus 58",
+        "la": "Articulus 58"
+      }
+    },
+    {
+      "id": "108articul-a59",
+      "title": {
+        "en-US": "Articulus 59",
+        "la": "Articulus 59"
+      }
+    },
+    {
+      "id": "108articul-a60",
+      "title": {
+        "en-US": "Articulus 60",
+        "la": "Articulus 60"
+      }
+    },
+    {
+      "id": "108articul-a61",
+      "title": {
+        "en-US": "Articulus 61",
+        "la": "Articulus 61"
+      }
+    },
+    {
+      "id": "108articul-a62",
+      "title": {
+        "en-US": "Articulus 62",
+        "la": "Articulus 62"
+      }
+    },
+    {
+      "id": "108articul-a63",
+      "title": {
+        "en-US": "Articulus 63",
+        "la": "Articulus 63"
+      }
+    },
+    {
+      "id": "108articul-a64",
+      "title": {
+        "en-US": "Articulus 64",
+        "la": "Articulus 64"
+      }
+    },
+    {
+      "id": "108articul-a65",
+      "title": {
+        "en-US": "Articulus 65",
+        "la": "Articulus 65"
+      }
+    },
+    {
+      "id": "108articul-a66",
+      "title": {
+        "en-US": "Articulus 66",
+        "la": "Articulus 66"
+      }
+    },
+    {
+      "id": "108articul-a67",
+      "title": {
+        "en-US": "Articulus 67",
+        "la": "Articulus 67"
+      }
+    },
+    {
+      "id": "108articul-a68",
+      "title": {
+        "en-US": "Articulus 68",
+        "la": "Articulus 68"
+      }
+    },
+    {
+      "id": "108articul-a69",
+      "title": {
+        "en-US": "Articulus 69",
+        "la": "Articulus 69"
+      }
+    },
+    {
+      "id": "108articul-a70",
+      "title": {
+        "en-US": "Articulus 70",
+        "la": "Articulus 70"
+      }
+    },
+    {
+      "id": "108articul-a71",
+      "title": {
+        "en-US": "Articulus 71",
+        "la": "Articulus 71"
+      }
+    },
+    {
+      "id": "108articul-a72",
+      "title": {
+        "en-US": "Articulus 72",
+        "la": "Articulus 72"
+      }
+    },
+    {
+      "id": "108articul-a73",
+      "title": {
+        "en-US": "Articulus 73",
+        "la": "Articulus 73"
+      }
+    },
+    {
+      "id": "108articul-a74",
+      "title": {
+        "en-US": "Articulus 74",
+        "la": "Articulus 74"
+      }
+    },
+    {
+      "id": "108articul-a75",
+      "title": {
+        "en-US": "Articulus 75",
+        "la": "Articulus 75"
+      }
+    },
+    {
+      "id": "108articul-a76",
+      "title": {
+        "en-US": "Articulus 76",
+        "la": "Articulus 76"
+      }
+    },
+    {
+      "id": "108articul-a77",
+      "title": {
+        "en-US": "Articulus 77",
+        "la": "Articulus 77"
+      }
+    },
+    {
+      "id": "108articul-a78",
+      "title": {
+        "en-US": "Articulus 78",
+        "la": "Articulus 78"
+      }
+    },
+    {
+      "id": "108articul-a79",
+      "title": {
+        "en-US": "Articulus 79",
+        "la": "Articulus 79"
+      }
+    },
+    {
+      "id": "108articul-a80",
+      "title": {
+        "en-US": "Articulus 80",
+        "la": "Articulus 80"
+      }
+    },
+    {
+      "id": "108articul-a81",
+      "title": {
+        "en-US": "Articulus 81",
+        "la": "Articulus 81"
+      }
+    },
+    {
+      "id": "108articul-a82",
+      "title": {
+        "en-US": "Articulus 82",
+        "la": "Articulus 82"
+      }
+    },
+    {
+      "id": "108articul-a83",
+      "title": {
+        "en-US": "Articulus 83",
+        "la": "Articulus 83"
+      }
+    },
+    {
+      "id": "108articul-a84",
+      "title": {
+        "en-US": "Articulus 84",
+        "la": "Articulus 84"
+      }
+    },
+    {
+      "id": "108articul-a86",
+      "title": {
+        "en-US": "Articulus 86",
+        "la": "Articulus 86"
+      }
+    },
+    {
+      "id": "108articul-a87",
+      "title": {
+        "en-US": "Articulus 87",
+        "la": "Articulus 87"
+      }
+    },
+    {
+      "id": "108articul-aa8889",
+      "title": {
+        "en-US": "Articuli 88-89",
+        "la": "Articuli 88-89"
+      }
+    },
+    {
+      "id": "108articul-a90",
+      "title": {
+        "en-US": "Articulus 90",
+        "la": "Articulus 90"
+      }
+    },
+    {
+      "id": "108articul-a91",
+      "title": {
+        "en-US": "Articulus 91",
+        "la": "Articulus 91"
+      }
+    },
+    {
+      "id": "108articul-a92",
+      "title": {
+        "en-US": "Articulus 92",
+        "la": "Articulus 92"
+      }
+    },
+    {
+      "id": "108articul-a93",
+      "title": {
+        "en-US": "Articulus 93",
+        "la": "Articulus 93"
+      }
+    },
+    {
+      "id": "108articul-a94",
+      "title": {
+        "en-US": "Articulus 94",
+        "la": "Articulus 94"
+      }
+    },
+    {
+      "id": "108articul-a95",
+      "title": {
+        "en-US": "Articulus 95",
+        "la": "Articulus 95"
+      }
+    },
+    {
+      "id": "108articul-a96",
+      "title": {
+        "en-US": "Articulus 96",
+        "la": "Articulus 96"
+      }
+    },
+    {
+      "id": "108articul-a97",
+      "title": {
+        "en-US": "Articulus 97",
+        "la": "Articulus 97"
+      }
+    },
+    {
+      "id": "108articul-a98",
+      "title": {
+        "en-US": "Articulus 98",
+        "la": "Articulus 98"
+      }
+    },
+    {
+      "id": "108articul-a99",
+      "title": {
+        "en-US": "Articulus 99",
+        "la": "Articulus 99"
+      }
+    },
+    {
+      "id": "108articul-a100",
+      "title": {
+        "en-US": "Articulus 100",
+        "la": "Articulus 100"
+      }
+    },
+    {
+      "id": "108articul-a101",
+      "title": {
+        "en-US": "Articulus 101",
+        "la": "Articulus 101"
+      }
+    },
+    {
+      "id": "108articul-a102",
+      "title": {
+        "en-US": "Articulus 102",
+        "la": "Articulus 102"
+      }
+    },
+    {
+      "id": "108articul-a103",
+      "title": {
+        "en-US": "Articulus 103",
+        "la": "Articulus 103"
+      }
+    },
+    {
+      "id": "108articul-a104",
+      "title": {
+        "en-US": "Articulus 104",
+        "la": "Articulus 104"
+      }
+    },
+    {
+      "id": "108articul-a105",
+      "title": {
+        "en-US": "Articulus 105",
+        "la": "Articulus 105"
+      }
+    },
+    {
+      "id": "108articul-a106",
+      "title": {
+        "en-US": "Articulus 106",
+        "la": "Articulus 106"
+      }
+    },
+    {
+      "id": "108articul-a107",
+      "title": {
+        "en-US": "Articulus 107",
+        "la": "Articulus 107"
+      }
+    },
+    {
+      "id": "108articul-a108",
+      "title": {
+        "en-US": "Articulus 108",
+        "la": "Articulus 108"
+      }
+    }
+  ]
+}

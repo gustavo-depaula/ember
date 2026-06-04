@@ -1,0 +1,77 @@
+{
+  "id": "aquinas-de-forma-absolutionis",
+  "name": {
+    "en-US": "On the Form of Absolution",
+    "la": "De Forma Absolutionis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short consultation on the sacramental formula of absolution — whether it should be indicative (\"I absolve you\") or deprecative (\"May God absolve you\"). Latin only.",
+    "la": "Responsum breve de forma sacramentali absolutionis — utrum indicativa (\"Ego te absolvo\") an deprecativa (\"Deus te absolvat\") esse debeat."
+  },
+  "composed": "c. 1269",
+  "languages": [
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~De Forma Absolutionis",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "deforma",
+      "title": {
+        "en-US": "DeForma",
+        "la": "DeForma"
+      }
+    },
+    {
+      "id": "deforma-s1",
+      "title": {
+        "en-US": "DeForma.S1",
+        "la": "DeForma.S1"
+      }
+    },
+    {
+      "id": "deforma-c1",
+      "title": {
+        "en-US": "C. 1 - That it is unwise to say that '*I absolve you'* is not the form of absolution",
+        "la": "C. 1 - That it is unwise to say that '*I absolve you'* is not the form of absolution"
+      }
+    },
+    {
+      "id": "deforma-c2",
+      "title": {
+        "en-US": "C. 2 - The arguments of those who wish to prove that the given form of absolution should not be maintained, and their solutions",
+        "la": "C. 2 - The arguments of those who wish to prove that the given form of absolution should not be maintained, and their solutions"
+      }
+    },
+    {
+      "id": "deforma-c3",
+      "title": {
+        "en-US": "C. 3 - With what frivolous arguments he attacks another solution to the problem, if this solution happens to be held",
+        "la": "C. 3 - With what frivolous arguments he attacks another solution to the problem, if this solution happens to be held"
+      }
+    },
+    {
+      "id": "deforma-c4",
+      "title": {
+        "en-US": "C. 4 - That the imposition of the hand of the priest is not a necessary part of this sacrament",
+        "la": "C. 4 - That the imposition of the hand of the priest is not a necessary part of this sacrament"
+      }
+    },
+    {
+      "id": "deforma-c5",
+      "title": {
+        "en-US": "C. 5 - Some frivolous arguments on the same topic and their solutions",
+        "la": "C. 5 - Some frivolous arguments on the same topic and their solutions"
+      }
+    }
+  ]
+}

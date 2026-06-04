@@ -31,6 +31,13 @@
   ],
   "toc": [
     {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    },
+    {
       "id": "ch002",
       "title": {
         "en-US": "Lecture 2",
