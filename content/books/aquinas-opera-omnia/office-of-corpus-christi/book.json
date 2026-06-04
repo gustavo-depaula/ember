@@ -54,10 +54,10 @@
       },
       "children": [
         {
-          "id": "b2-ch001",
+          "id": "b2-ch-proem0",
           "title": {
-            "en-US": "Part 1",
-            "la": "Pars 1"
+            "en-US": "Prologue",
+            "la": "Prologus"
           }
         }
       ]

@@ -2,7 +2,7 @@
 
 **Prooemium**
 
-*Induam caelos tenebris, et saccum ponam operimentum eorum. Dominus dedit mihi linguam eruditam, ut sciam sustentare eum qui lapsus est verbo. Erigit mane, mane erigit mihi aurem, ut audiam quasi magistrum.* (Isaias 50:3-4)
+> *Induam caelos tenebris, et saccum ponam operimentum eorum. Dominus dedit mihi linguam eruditam, ut sciam sustentare eum qui lapsus est verbo. Erigit mane, mane erigit mihi aurem, ut audiam quasi magistrum.* (Isaias 50:3-4)
 
 **Glossa**: Inter cetera incarnationis Christi mysteria, quae Isaias propheta diligenter et aperte praenuntiat, dicit induam caelos tenebris etc., ex quibus verbis accipere possumus Evangelii secundum Lucam materiam, modum scribendi, finem et conditionem scriptoris.
 

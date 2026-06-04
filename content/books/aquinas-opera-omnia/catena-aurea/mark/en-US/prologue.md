@@ -16,7 +16,7 @@ Because it is fitting for offerings to be made to the priests from the fruit of 
 
 **Prologue**
 
-My God has been my strength. He says: It is too little for you to be my servant, to restore the tribes of Jacob and bring back the survivors of Israel; I shall make you a light to the nations, so that my salvation may reach the remotest parts of the earth. (Is 49:5-6)
+> My God has been my strength. He says: It is too little for you to be my servant, to restore the tribes of Jacob and bring back the survivors of Israel; I shall make you a light to the nations, so that my salvation may reach the remotest parts of the earth. (Is 49:5-6)
 
 Gloss: Isaiah foretold the calling of the gentiles and the cause of their salvation, saying: My God has been my strength etc.
 

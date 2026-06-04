@@ -1,0 +1,3 @@
+# AveMaria.S1.14
+
+She exercised the works of every one of the virtues, whereas the saints are conspicuous for the exercise of certain special virtues. Thus, one excelled in humility, another in chastity, another in mercy, to the extent that they are the special exemplars of these virtues, as, for example, Blessed Nicholas is an exemplar of mercy. But the blessed Virgin is the exemplar of all the virtues. In her is the fullness of the virtue of humility: *he has looked on the humility of his handmaid* (Luke 1:48). So she is also exemplar of the virtue of chastity: *because I know not man* (Luke 1:34). And thus it is with all the virtues, as is evident. Mary was full of grace not only in regard to purity, but also virtue.

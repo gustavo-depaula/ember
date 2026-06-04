@@ -1,7 +1,5 @@
 # Prooemium
 
-**
-
 In salutatione ista continentur tria. Unam partem fecit Angelus, scilicet *ave gratia plena, dominus tecum, benedicta tu in mulieribus*. Aliam partem fecit Elisabeth, mater Ioannis Baptistae, scilicet *benedictus fructus ventris tui*. Tertiam partem addidit Ecclesia, scilicet *Maria*: nam Angelus non dixit, ave Maria, sed ave, gratia plena. Et hoc nomen, scilicet Maria, secundum suam interpretationem convenit dictis Angeli, sicut patebit.
 
 **Articulus 1

@@ -434,6 +434,10 @@
 				},
 				{
 					"kind": "item",
+					"ref": "book/aquinas-de-judiciis-astrorum"
+				},
+				{
+					"kind": "item",
 					"ref": "book/aquinas-de-mixtione-elementorum"
 				},
 				{
@@ -514,6 +518,14 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-sermon-immensa"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-catechetical-sermons-cc"
+				},
+				{
+					"kind": "item",
+					"ref": "book/aquinas-sermons-bilingual"
 				}
 			]
 		},

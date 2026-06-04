@@ -31,14 +31,14 @@
   ],
   "toc": [
     {
-      "id": "libcaus",
+      "id": "libcaus-01",
       "title": {
         "en-US": "LibCaus",
         "la": "LibCaus"
       }
     },
     {
-      "id": "libcaus",
+      "id": "libcaus-prologue",
       "title": {
         "en-US": "Prologue",
         "la": "Prologue"
@@ -150,7 +150,7 @@
       }
     },
     {
-      "id": "libcaus",
+      "id": "libcaus-proposition-16",
       "title": {
         "en-US": "Proposition 16",
         "la": "Proposition 16"

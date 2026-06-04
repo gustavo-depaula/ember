@@ -1,0 +1,35 @@
+# A. 8 - I Believe in the Holy Spirit
+
+***As we have said, the Word of God is the Son of God just as the word of man is the concept of his intellect.Parallel texts: *ST* I.36.1–4; 37.1–2; 45.6; *In I Sent*. 10.1, ad 4; *In I Sent*. 10.4; *In I Sent*. 11.1; *In I Sent*. 27.2.2, qa. 2; *In I Sent*. 32.1; *SCG* IV.19, 24, 25; *Compendium theologiae*, cc. 46, 47, 49; *Disputed Questions on the Power of God*, q. 9, a. 9, ad 13. But sometimes man has a word which is dead. This is when, for instance, he conceives what he ought to do, but has not the will to do it; or when one believes but does not practice, and then his faith is said to be dead, as James 2:17 points out. The Word of God, however, is alive: *for the word of God is living* (Heb 4:12). It is necessary, therefore, that in God there be will and love. Thus, Augustine says: *the word of God which we intend to propose is knowledge with love*.Augustine, *On the Trinity*, bk. 9, ch. 10 (CCSL 50; PL 42:969). Now, as the Word of God is the Son of God, God’s love is the Holy Spirit. Hence it is that one possesses the Holy Spirit when he loves God, as the Apostle says: *the charity of God is poured forth in our hearts by the Holy Spirit who is given to us* (Rom 5:5).***
+
+There are some who held false opinions about the Holy Spirit. They said, for instance, that he was less than the Father and Son, that he was only the servant and minister of God. Hence, to remove these errors the holy fathers added in the other [Nicene] Creed five phrases concerning the Holy Spirit.
+
+The first phrase says that, although there are other spirits, such as the angels who are ministers of God according to the Apostle: *art they not all ministering spirits?* (Heb 1:14), nevertheless the Holy Spirit is the Lord: *God is a Spirit* (John 4:24); and: *now the Lord is a Spirit* (2 Cor 3:17); and also: *where the Spirit of the Lord is, there is liberty* (2 Cor 3:11). The reason for this is that he makes us love God and cease to love the world. Thus, the Creed says: ***in the Holy Spirit, the Lord***.
+
+The second phrase is there because the soul’s life is to be united to God inasmuch as God is the life of the soul, just as the soul is the life of the body. Now, the Holy Spirit unites the soul to God through love, because he is the love of God, and therefore he gives life. *It is the Spirit who gives life* (John 6:64). Therefore, it is said: ***and the giver of life***.
+
+The third phrase says that the Holy Spirit is one in substance with the Father and the Son. For as the Son is the Word of the Father, so the Holy Spirit is the love both of the Father and the Son, and, therefore, he proceeds from them both. Moreover, just as the Word of God is of the same substance as the Father, so also love is of the same substance as the Father and the Son. Hence, it is said: ***who proceeds from the Father and the Son***. From this we see that the Holy Spirit is not a creature.
+
+The fourth phrase says that the Holy Spirit as regards worship is equal to the Father and the Son: *the true adorers shall adore the Father in Spirit and truth* (John 4:23). *Teach all nations; baptizing them in the name of the Father and of the Son and of the Holy Spirit* (Matt 28:19). Hence, it is said: ***who together with the Father and the Son is adored***.
+
+The fifth phrase, wherein the Holy Spirit is declared equal to God, says that the holy prophets spoke on behalf of God. It is clear that, if the Holy Spirit were not God, then it would not be said that the prophets had spoken of God on his behalf. Thus, Peter says: *the holy men of God spoke, inspired by the Holy Spirit* (2 Pet 1:21). Also: *the Lord God sent me, and his Spirit* (Isa 48:16). And so it is said: ***who spoke through the prophets***.
+
+In all this two errors are condemned.
+
+The Manicheans said that the Old Testament was not from God. But this is false because the Holy Spirit spoke through the prophets.
+
+Likewise, the error of Priscillian and Montanus was that they believed that the prophets did not speak by the Holy Spirit but were somewhat beside themselves.
+
+Many benefits come to us from the Holy Spirit.
+
+First, he cleanses us from our sins. The reason is that one can repair what one has made. Now, the soul is created by the Holy Spirit, because God has made all things through him. For God, by loving his goodness, created everything: *you love all things that are, and hate none of the things which you made* (Wis 11:25). Thus, Dionysius says: *divine love did not permit him to be without offspring*.Dionysius, *On the Divine Names*, ch. 4, para. 20 (PG 3:717–22). It is necessary, therefore, that the hearts of men, destroyed by sin, be made anew by the Holy Spirit: *send forth your Spirit, and they shall be created; and you shall renew the face of the earth* (Ps 104 [103]:30). Nor is it any wonder that the Spirit cleanses, since all sins are taken away by love: *many sins are forgiven her, because she has loved much* (Luke 7:47). *Charity covers all sins* (Prov 10:12); and likewise: *charity covers a multitude of sins* (1 Pet 4:8).
+
+Second, the Holy Spirit enlightens the intellect, since all that we know, we know through the Holy Spirit: *but the Paraclete, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring all things to your mind, whatsoever I shall have said to you* (John 14:26); *his unction teaches you all things* (1 John 2:27).
+
+Third, he assists us and, to a certain extent, compels us to keep the commandments. No one can keep the commandments unless he loves God: *if any one love me, he will keep my word* (John 14:23). Thus, the Holy Spirit makes us love God: *and I give you a new heart and put a new Spirit within you; and I will take away the stony heart out of your flesh and will give you a heart of flesh. And I will put my Spirit in the midst of you; and I will cause you to walk in my commandments and to keep my judgments and do them* (Ezek 36:26–27).
+
+Fourth, he strengthens in us the hope of eternal life, because he is the pledge to us of this our destiny: *you were signed with the Holy Spirit of promise who is the pledge of our inheritance* (Eph 1:13–14). He is, as it were, the surety of our eternal life. The reason is that eternal life is due to man inasmuch as he is become the Son of God. This is brought about in that he is made like unto Christ; and this, in turn, follows from his having the Spirit of Christ, and this is the Holy Spirit: *for you have not received the spirit of bondage again in fear; but you have received the spirit of adoption of sons, whereby we cry: ‘Abba, Father.’ For the Spirit himself giveth testimony to our spirit that we are the sons of God* (Rom 8:15–16). And also: *because you are sons, God sent the Spirit of his Son into your hearts, crying: ‘Abba, Father’* (Gal 4:6).
+
+Fifth, he counsels us when we are in doubt, and teaches us the will of God: *he that has an ear let him hear what the Spirit says to the churches* (Rev 2:7). *I may hear him as a teacher* (Isa 50:4).
+
+Article 9

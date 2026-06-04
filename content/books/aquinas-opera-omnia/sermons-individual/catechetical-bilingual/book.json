@@ -1,0 +1,518 @@
+{
+  "id": "aquinas-catechetical-sermons-cc",
+  "name": {
+    "en-US": "Naples Catechetical Sermons (Bilingual)",
+    "la": "Sermones Catechetici Neapolitani (Bilinguis)"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "The four Naples 1273 catechetical sermon-cycles — on the Creed, the Lord's Prayer, the Hail Mary, and the Ten Commandments. Aquinas Institute bilingual edition. (The Collins 1939 English of the same sermons lives in `book/aquinas-catechetical-instructions`.)",
+    "la": "Quattuor cycli sermonum catecheticorum Neapolitanorum (1273) — super Symbolum Apostolorum, Pater Noster, Ave Maria, Decem Praecepta. Editio bilinguis Instituti Aquinatis."
+  },
+  "composed": 1273,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~In Symbolum Apostolorum",
+      "description": "Translation from aquinas.cc (Aquinas Institute), distinct from the Collins 1939 PD edition."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~In Symbolum Apostolorum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1",
+      "title": {
+        "en-US": "Sermons on the Apostles' Creed",
+        "la": "In Symbolum Apostolorum"
+      },
+      "children": [
+        {
+          "id": "p1-credo",
+          "title": {
+            "en-US": "Credo",
+            "la": "Credo"
+          }
+        },
+        {
+          "id": "p1-credo-s1",
+          "title": {
+            "en-US": "Credo.S1",
+            "la": "Credo.S1"
+          }
+        },
+        {
+          "id": "p1-credo-pr",
+          "title": {
+            "en-US": "Prologue",
+            "la": "Prologue"
+          }
+        },
+        {
+          "id": "p1-credo-a1",
+          "title": {
+            "en-US": "A. 1 - I Believe in One God, the Father Almighty, Maker of Heaven and Earth",
+            "la": "A. 1 - I Believe in One God, the Father Almighty, Maker of Heaven and Earth"
+          }
+        },
+        {
+          "id": "p1-credo-a2",
+          "title": {
+            "en-US": "A. 2 - And in Jesus Christ, His Only Son, Our Lord",
+            "la": "A. 2 - And in Jesus Christ, His Only Son, Our Lord"
+          }
+        },
+        {
+          "id": "p1-credo-a3",
+          "title": {
+            "en-US": "A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary",
+            "la": "A. 3 - Who Was Conceived by the Holy Spirit, Born of the Virgin Mary"
+          }
+        },
+        {
+          "id": "p1-credo-a4",
+          "title": {
+            "en-US": "A. 4 - Suffered under Pontius Pilate, Was Crucified, Died, and Was Buried",
+            "la": "A. 4 - Suffered under Pontius Pilate, Was Crucified, Died, and Was Buried"
+          }
+        },
+        {
+          "id": "p1-credo-a5",
+          "title": {
+            "en-US": "A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead",
+            "la": "A. 5 - He Descended into Hell; on the Third Day He Arose Again from the Dead"
+          }
+        },
+        {
+          "id": "p1-credo-a6",
+          "title": {
+            "en-US": "A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty",
+            "la": "A. 6 - He Ascended into Heaven, and Sits at the Right Hand of God, the Father Almighty"
+          }
+        },
+        {
+          "id": "p1-credo-a7",
+          "title": {
+            "en-US": "A. 7 - From Thence He Shall Come to Judge the Living and the Dead",
+            "la": "A. 7 - From Thence He Shall Come to Judge the Living and the Dead"
+          }
+        },
+        {
+          "id": "p1-credo-a8",
+          "title": {
+            "en-US": "A. 8 - I Believe in the Holy Spirit",
+            "la": "A. 8 - I Believe in the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-credo-a9",
+          "title": {
+            "en-US": "A. 9 - The Holy Catholic Church",
+            "la": "A. 9 - The Holy Catholic Church"
+          }
+        },
+        {
+          "id": "p1-credo-a10",
+          "title": {
+            "en-US": "A. 10 - The Communion of Saints, the Forgiveness of Sins",
+            "la": "A. 10 - The Communion of Saints, the Forgiveness of Sins"
+          }
+        },
+        {
+          "id": "p1-credo-a11",
+          "title": {
+            "en-US": "A. 11 - The Resurrection of the Body",
+            "la": "A. 11 - The Resurrection of the Body"
+          }
+        },
+        {
+          "id": "p1-credo-a12",
+          "title": {
+            "en-US": "A. 12 - Life Everlasting. Amen.",
+            "la": "A. 12 - Life Everlasting. Amen."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": {
+        "en-US": "Sermons on the Lord's Prayer",
+        "la": "In Pater Noster"
+      },
+      "children": [
+        {
+          "id": "p2-paternoste",
+          "title": {
+            "en-US": "PaterNoste",
+            "la": "PaterNoste"
+          }
+        },
+        {
+          "id": "p2-paternoste-s1",
+          "title": {
+            "en-US": "PaterNoste.S1",
+            "la": "PaterNoste.S1"
+          }
+        },
+        {
+          "id": "p2-paternoste-pr",
+          "title": {
+            "en-US": "Pr. - Our Father, Who Art in Heaven",
+            "la": "Pr. - Our Father, Who Art in Heaven"
+          }
+        },
+        {
+          "id": "p2-paternoste-a1",
+          "title": {
+            "en-US": "A. 1 - Hallowed Be Thy Name",
+            "la": "A. 1 - Hallowed Be Thy Name"
+          }
+        },
+        {
+          "id": "p2-paternoste-a2",
+          "title": {
+            "en-US": "A. 2 - Thy Kingdom Come",
+            "la": "A. 2 - Thy Kingdom Come"
+          }
+        },
+        {
+          "id": "p2-paternoste-a3",
+          "title": {
+            "en-US": "A. 3 - Thy Will Be Done on Earth as It Is in Heaven",
+            "la": "A. 3 - Thy Will Be Done on Earth as It Is in Heaven"
+          }
+        },
+        {
+          "id": "p2-paternoste-a4",
+          "title": {
+            "en-US": "A. 4 - Give Us This Day Our Daily Bread",
+            "la": "A. 4 - Give Us This Day Our Daily Bread"
+          }
+        },
+        {
+          "id": "p2-paternoste-a5",
+          "title": {
+            "en-US": "A. 5 - And Forgive Us Our Trespasses as We Forgive Those Who Trespass against Us",
+            "la": "A. 5 - And Forgive Us Our Trespasses as We Forgive Those Who Trespass against Us"
+          }
+        },
+        {
+          "id": "p2-paternoste-a6",
+          "title": {
+            "en-US": "A. 6 - And Lead Us Not into Temptation",
+            "la": "A. 6 - And Lead Us Not into Temptation"
+          }
+        },
+        {
+          "id": "p2-paternoste-a7",
+          "title": {
+            "en-US": "A. 7 - But Deliver Us from Evil. Amen.",
+            "la": "A. 7 - But Deliver Us from Evil. Amen."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": {
+        "en-US": "Sermons on the Hail Mary",
+        "la": "In Ave Maria"
+      },
+      "children": [
+        {
+          "id": "p3-avemaria",
+          "title": {
+            "en-US": "AveMaria",
+            "la": "AveMaria"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1",
+          "title": {
+            "en-US": "AveMaria.S1",
+            "la": "AveMaria.S1"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-2",
+          "title": {
+            "en-US": "AveMaria.S1.2",
+            "la": "AveMaria.S1.2"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-3",
+          "title": {
+            "en-US": "AveMaria.S1.3",
+            "la": "AveMaria.S1.3"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-4",
+          "title": {
+            "en-US": "AveMaria.S1.4",
+            "la": "AveMaria.S1.4"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-5",
+          "title": {
+            "en-US": "AveMaria.S1.5",
+            "la": "AveMaria.S1.5"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-6",
+          "title": {
+            "en-US": "AveMaria.S1.6",
+            "la": "AveMaria.S1.6"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-7",
+          "title": {
+            "en-US": "AveMaria.S1.7",
+            "la": "AveMaria.S1.7"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-8",
+          "title": {
+            "en-US": "AveMaria.S1.8",
+            "la": "AveMaria.S1.8"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-9",
+          "title": {
+            "en-US": "AveMaria.S1.9",
+            "la": "AveMaria.S1.9"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-10",
+          "title": {
+            "en-US": "AveMaria.S1.10",
+            "la": "AveMaria.S1.10"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-11",
+          "title": {
+            "en-US": "AveMaria.S1.11",
+            "la": "AveMaria.S1.11"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-12",
+          "title": {
+            "en-US": "AveMaria.S1.12",
+            "la": "AveMaria.S1.12"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-13",
+          "title": {
+            "en-US": "AveMaria.S1.13",
+            "la": "AveMaria.S1.13"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-14",
+          "title": {
+            "en-US": "AveMaria.S1.14",
+            "la": "AveMaria.S1.14"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-15",
+          "title": {
+            "en-US": "AveMaria.S1.15",
+            "la": "AveMaria.S1.15"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-16",
+          "title": {
+            "en-US": "AveMaria.S1.16",
+            "la": "AveMaria.S1.16"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-17",
+          "title": {
+            "en-US": "AveMaria.S1.17",
+            "la": "AveMaria.S1.17"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-18",
+          "title": {
+            "en-US": "AveMaria.S1.18",
+            "la": "AveMaria.S1.18"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-19",
+          "title": {
+            "en-US": "AveMaria.S1.19",
+            "la": "AveMaria.S1.19"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-20",
+          "title": {
+            "en-US": "AveMaria.S1.20",
+            "la": "AveMaria.S1.20"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-21",
+          "title": {
+            "en-US": "AveMaria.S1.21",
+            "la": "AveMaria.S1.21"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-22",
+          "title": {
+            "en-US": "AveMaria.S1.22",
+            "la": "AveMaria.S1.22"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-23",
+          "title": {
+            "en-US": "AveMaria.S1.23",
+            "la": "AveMaria.S1.23"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-24",
+          "title": {
+            "en-US": "AveMaria.S1.24",
+            "la": "AveMaria.S1.24"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-25",
+          "title": {
+            "en-US": "AveMaria.S1.25",
+            "la": "AveMaria.S1.25"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-26",
+          "title": {
+            "en-US": "AveMaria.S1.26",
+            "la": "AveMaria.S1.26"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-27",
+          "title": {
+            "en-US": "AveMaria.S1.27",
+            "la": "AveMaria.S1.27"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-28",
+          "title": {
+            "en-US": "AveMaria.S1.28",
+            "la": "AveMaria.S1.28"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-29",
+          "title": {
+            "en-US": "AveMaria.S1.29",
+            "la": "AveMaria.S1.29"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-30",
+          "title": {
+            "en-US": "AveMaria.S1.30",
+            "la": "AveMaria.S1.30"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-31",
+          "title": {
+            "en-US": "AveMaria.S1.31",
+            "la": "AveMaria.S1.31"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-32",
+          "title": {
+            "en-US": "AveMaria.S1.32",
+            "la": "AveMaria.S1.32"
+          }
+        },
+        {
+          "id": "p3-avemaria-s1-33",
+          "title": {
+            "en-US": "AveMaria.S1.33",
+            "la": "AveMaria.S1.33"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": {
+        "en-US": "Sermons on the Ten Commandments",
+        "la": "In Decem Praecepta"
+      },
+      "children": [
+        {
+          "id": "p4-decemprae",
+          "title": {
+            "en-US": "DecemPrae",
+            "la": "DecemPrae"
+          }
+        },
+        {
+          "id": "p4-decemprae-s1",
+          "title": {
+            "en-US": "DecemPrae.S1",
+            "la": "DecemPrae.S1"
+          }
+        },
+        {
+          "id": "p4-decemprae-pr",
+          "title": {
+            "en-US": "Pr. - I. Prologue",
+            "la": "Pr. - I. Prologue"
+          }
+        },
+        {
+          "id": "p4-decemprae-booki",
+          "title": {
+            "en-US": "Book I - The Law of Charity, Which Is the Law of Christ",
+            "la": "Book I - The Law of Charity, Which Is the Law of Christ"
+          }
+        },
+        {
+          "id": "p4-decemprae-bookii",
+          "title": {
+            "en-US": "Book II - On the Ten Commandments",
+            "la": "Book II - On the Ten Commandments"
+          }
+        }
+      ]
+    }
+  ]
+}

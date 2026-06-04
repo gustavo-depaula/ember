@@ -31,14 +31,14 @@
   ],
   "toc": [
     {
-      "id": "6articulis",
+      "id": "6articulis-01",
       "title": {
         "en-US": "6Articulis",
         "la": "6Articulis"
       }
     },
     {
-      "id": "6articulis",
+      "id": "6articulis-prologue",
       "title": {
         "en-US": "Prologue",
         "la": "Prologue"
@@ -73,7 +73,7 @@
       }
     },
     {
-      "id": "6articulis",
+      "id": "6articulis-epilogue",
       "title": {
         "en-US": "Epilogue",
         "la": "Epilogue"

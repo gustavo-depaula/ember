@@ -578,7 +578,17 @@ CATENA_GOSPELS = {
 
 
 def parse_catena_file(path: Path) -> list[dict]:
-    """Return a list of chapters: { num, rows: list[(la, en)], headers: list[(la, en)] }."""
+    """Return a list of chapters: { num, rows: list[tuple] }.
+
+    Each row is either:
+      - ("__header__", text) for colspan=2 section headers (Lectio N, etc.)
+      - ("__scripture__", la, en) for rows whose <td> wraps content in
+        <blockquote> — Bible verses commented on
+      - (la, en) for ordinary patristic gloss rows
+    The Catena Aurea's prologue/dedication isn't always anchored (CAJohn has
+    no <a name="0">); rows seen before the first anchor are collected under
+    chapter 0.
+    """
     soup = load_html(path)
     body = soup.find("body") or soup
 
@@ -590,8 +600,9 @@ def parse_catena_file(path: Path) -> list[dict]:
             chapter_anchors.append(a)
 
     chapter_ids = {id(a): int(a.get("name")) for a in chapter_anchors}
-    chapters: dict[int, dict] = {}
-    current: dict | None = None
+    chapters: dict[int, dict] = {0: {"num": 0, "rows": []}}
+    # Default: any content before the first anchor goes to chapter 0 (prologue).
+    current: dict | None = chapters[0]
 
     for el in body.find_all(True):
         if el.name == "a" and id(el) in chapter_ids:
@@ -608,12 +619,50 @@ def parse_catena_file(path: Path) -> list[dict]:
                 if text.strip():
                     current["rows"].append(("__header__", text.strip()))
             elif len(tds) >= 2:
-                la = td_text(tds[0])
-                en = td_text(tds[1])
-                if la or en:
+                # Skip the contents-table rows that list chapter links: each
+                # cell is just "*N*" or similar (typically inside a table with
+                # cellpadding=6 rather than 12). All cells very short, all
+                # primarily a single <a href="#N"> link.
+                if _is_catena_toc_row(tds):
+                    continue
+                la_td, en_td = tds[0], tds[1]
+                la_is_quote = la_td.find("blockquote") is not None
+                en_is_quote = en_td.find("blockquote") is not None
+                la = td_text(la_td)
+                en = td_text(en_td)
+                if la_is_quote or en_is_quote:
+                    if la or en:
+                        current["rows"].append(("__scripture__", la, en))
+                elif la or en:
                     current["rows"].append((la, en))
 
+    # Drop chapter 0 if it has no rows (most Catenas have an anchored prologue).
+    if not chapters[0]["rows"]:
+        del chapters[0]
+
     return [chapters[k] for k in sorted(chapters)]
+
+
+_TOC_LINK_RE = re.compile(r"^[\s\*]*\d+[\s\*]*$")
+
+
+def _is_catena_toc_row(tds) -> bool:
+    """Heuristic: TOC rows in the Catena Aurea contents tables have cells
+    containing just chapter numbers (often wrapped in asterisks like `*2*`)
+    and link to in-file anchors. Filter them out so they don't leak into the
+    prologue or chapter bodies."""
+    if len(tds) < 2:
+        return False
+    short_link_count = 0
+    for td in tds:
+        text = td_text(td).strip()
+        if not text:
+            continue
+        if len(text) > 10:
+            return False
+        if _TOC_LINK_RE.match(text):
+            short_link_count += 1
+    return short_link_count >= 2
 
 
 def _catena_chapter_md(chapter: dict, lang: str, gospel_en: str, gospel_la: str) -> str:
@@ -628,15 +677,25 @@ def _catena_chapter_md(chapter: dict, lang: str, gospel_en: str, gospel_la: str)
     lines.append(f"# {heading_en if lang == 'en-US' else heading_la}")
     lines.append("")
     for row in chapter["rows"]:
-        la, en = row
-        if la == "__header__":
-            # Sub-section header (Lectio N, Verse N, etc.). Strip any
-            # surrounding bold markers since we use the heading itself.
-            text = en.strip().strip("*").strip()
+        kind = row[0]
+        if kind == "__header__":
+            text = row[1].strip().strip("*").strip()
             if text:
                 lines.append(f"## {text}")
                 lines.append("")
             continue
+        if kind == "__scripture__":
+            la, en = row[1], row[2]
+            text = en if lang == "en-US" else la
+            if not text:
+                continue
+            for line in text.split("\n"):
+                line = line.strip()
+                if line:
+                    lines.append(f"> {line}")
+            lines.append("")
+            continue
+        la, en = row[0], row[1]
         text = en if lang == "en-US" else la
         if not text:
             continue
@@ -761,7 +820,11 @@ def parse_linear_file(path: Path, anchor_re: str) -> list[LinearChapter]:
             body_la=la,
         ))
 
-    title_hdr_re = re.compile(r"^(?:Caput|Capitulum|CHAPTER|Chapter)\s+[IVXLCDM\d]+", re.IGNORECASE)
+    # The regex needs to match even when the cell content opens with bold/
+    # italic markers (`**Caput 1...**`), so we drop the `^` anchor and use
+    # search() — but only on the lead-stripped version of the cell text.
+    title_hdr_re = re.compile(r"(?:Caput|Capitulum|CHAPTER|Chapter)\s+[IVXLCDM\d]+", re.IGNORECASE)
+    lectio_hdr_re = re.compile(r"^(?:Lectio|LECTURE|Lecture)\s+[IVXLCDM\d]+", re.IGNORECASE)
     for el in body.descendants:
         if not isinstance(el, Tag):
             continue
@@ -792,15 +855,39 @@ def parse_linear_file(path: Path, anchor_re: str) -> list[LinearChapter]:
         if el.name == "tr":
             tds = el.find_all("td", recursive=False)
             if len(tds) >= 2:
-                la = td_text(tds[0])
-                en = td_text(tds[1])
-                # Title rows: "Caput N — title" pattern in both columns.
-                if current.get("skip_next_title_row") and (title_hdr_re.search(la) or title_hdr_re.search(en)):
+                la_td, en_td = tds[0], tds[1]
+                la = td_text(la_td)
+                en = td_text(en_td)
+                # Title rows: "Caput N — title" pattern. Inspect cells with the
+                # bold/italic prefix stripped so "**Caput 1**" still matches.
+                la_for_match = la.lstrip("*").lstrip()
+                en_for_match = en.lstrip("*").lstrip()
+                if current.get("skip_next_title_row") and (
+                    title_hdr_re.match(la_for_match) or title_hdr_re.match(en_for_match)
+                ):
                     if not current["title_la"]:
                         current["title_la"] = la
                     current["skip_next_title_row"] = False
                     continue
                 current["skip_next_title_row"] = False
+                la_stripped = la.strip().strip("*").strip()
+                en_stripped = en.strip().strip("*").strip()
+                # Lectio/Lecture sub-headers (e.g. "Lectio 1" / "LECTURE 1"):
+                # short bilingual rows that match the lectio pattern.
+                if (lectio_hdr_re.match(la_stripped) or lectio_hdr_re.match(en_stripped)) and len(en) < 60:
+                    label = en_stripped if en_stripped else la_stripped
+                    current["la"].append(f"\n## {la_stripped}\n" if la_stripped else "")
+                    current["en"].append(f"\n## {label}\n" if label else "")
+                    continue
+                # Scripture rows: td wraps content in <blockquote>.
+                la_quote = la_td.find("blockquote") is not None
+                en_quote = en_td.find("blockquote") is not None
+                if la_quote or en_quote:
+                    if la:
+                        current["la"].append("\n".join(f"> {line.strip()}" for line in la.split("\n") if line.strip()))
+                    if en:
+                        current["en"].append("\n".join(f"> {line.strip()}" for line in en.split("\n") if line.strip()))
+                    continue
                 current["la"].append(la)
                 current["en"].append(en)
 
@@ -838,12 +925,14 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
         ))
 
     n_proem = 0
+    lectio_hdr_re = re.compile(r"^(?:Lectio|LECTURE|Lecture)\s+[IVXLCDM\d]+", re.IGNORECASE)
     for tr in body.find_all("tr"):
         tds = tr.find_all("td", recursive=False)
         if len(tds) < 2:
             continue
-        la = td_text(tds[0])
-        en = td_text(tds[1])
+        la_td, en_td = tds[0], tds[1]
+        la = td_text(la_td)
+        en = td_text(en_td)
         la_match = chapter_re.match(la.strip().lstrip("*").strip())
         en_match = chapter_re.match(en.strip().lstrip("*").strip())
         if la_match or en_match:
@@ -862,11 +951,19 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
                 num = _roman_or_int(num_text)
 
             def _strip_header(s: str) -> str:
-                return re.sub(
+                inner = re.sub(
                     r"^(?:Caput|Capitulum|CHAPTER|Chapter|Prooemium|Prologus|Lectio|LECTURE|Lecture)\s*[IVXLCDM\d]*\b[\.,:]*\s*",
                     "", s.lstrip("*").lstrip(),
                     count=1, flags=re.IGNORECASE,
                 ).lstrip()
+                # Strip any trailing or leading bold/italic markers left
+                # behind by header removal.
+                inner = inner.strip()
+                while inner.startswith("**"):
+                    inner = inner[2:].strip()
+                while inner.endswith("**"):
+                    inner = inner[:-2].strip()
+                return inner
 
             la_rest = _strip_header(la).strip()
             en_rest = _strip_header(en).strip()
@@ -879,6 +976,26 @@ def parse_linear_file_by_header_rows(path: Path) -> list[LinearChapter]:
             }
             continue
         if current is None:
+            continue
+        la_stripped = la.strip().strip("*").strip()
+        en_stripped = en.strip().strip("*").strip()
+        # Inner Lectio/Lecture header — short bilingual marker like
+        # "Lectio 1" / "LECTURE 1".
+        if (lectio_hdr_re.match(la_stripped) or lectio_hdr_re.match(en_stripped)) and len(en) < 60:
+            label = en_stripped or la_stripped
+            if la_stripped:
+                current["la"].append(f"\n## {la_stripped}\n")
+            if label:
+                current["en"].append(f"\n## {label}\n")
+            continue
+        # Scripture rows: td contains <blockquote>.
+        la_quote = la_td.find("blockquote") is not None
+        en_quote = en_td.find("blockquote") is not None
+        if la_quote or en_quote:
+            if la:
+                current["la"].append("\n".join(f"> {line.strip()}" for line in la.split("\n") if line.strip()))
+            if en:
+                current["en"].append("\n".join(f"> {line.strip()}" for line in en.split("\n") if line.strip()))
             continue
         current["la"].append(la)
         current["en"].append(en)
@@ -2245,8 +2362,8 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio Thomae in Ioannem — a multis fructus optimus expositionum Sacrae Scripturae aestimata, opus regentiae secundae Parisiensis. 21 capita cum appendice.",
             translator_note_en="English translation by Fabian R. Larcher, O.P., and James A. Weisheipl, O.P. (Magi Books, 1980; revised Aquinas Institute, 2010). Translation status: may be under copyright in the United States until 2075; mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=[f"John{n}.htm" for n in range(1, 22)] + ["JohnApp.htm"],
-            chapter_label_en="Chapter",
-            chapter_label_la="Caput",
+            chapter_label_en="Lecture",
+            chapter_label_la="Lectio",
             group_titles_en=[f"Chapter {n}" for n in range(1, 22)] + ["Appendix"],
             group_titles_la=[f"Caput {n}" for n in range(1, 22)] + ["Appendix"],
         ),

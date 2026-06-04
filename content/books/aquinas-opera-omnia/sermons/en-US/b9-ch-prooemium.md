@@ -1,6 +1,6 @@
 # Prooemium
 
-Introduction**
+Introduction
 
 This salutation has three parts. The Angel gave one part, namely: “Hail, full of grace, the Lord is with you, blessed art you among women” [Lk 1:28]. The other part was given by Elizabeth, the mother of John the Baptist, namely: “Blessed is the fruit of your womb” [Lk 1:42]. The Church adds the third part, that is, “Mary,” because the Angel did not say, “Hail, Mary,” but “Hail, full of grace.” But, as we shall see, this name, “Mary,” according to its meaning agrees with the words of the Angels.
 

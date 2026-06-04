@@ -2,7 +2,7 @@
 
 **Prooemium**
 
-אָנֹכִי תִכַּנְתִּי עַמּוּדֶיהָ
+> אָנֹכִי תִכַּנְתִּי עַמּוּדֶיהָ
 
 Sicut dicit sapiens: *non minor est virtus quam quaerere parta tueri*, ideo non immerito commendatur apostolus, quia etsi Ephesios in fide non fundavit, tamen fundatos in fide confirmavit, ut ipse loquens de Ecclesia Ephesiorum, vere possit dicere: *ego confirmavi columnas eius*; ego videlicet, Israelita natione, Christianus religione, apostolus dignitate.
 

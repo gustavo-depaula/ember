@@ -40,8 +40,113 @@
         {
           "id": "b1-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b1-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b1-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b1-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b1-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b1-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b1-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b1-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b1-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b1-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b1-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b1-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "b1-ch013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "b1-ch014",
+          "title": {
+            "en-US": "Lecture 14",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "b1-ch015",
+          "title": {
+            "en-US": "Lecture 15",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "b1-ch016",
+          "title": {
+            "en-US": "Lecture 16",
+            "la": "Lectio 16"
           }
         }
       ]
@@ -56,8 +161,22 @@
         {
           "id": "b2-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b2-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b2-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
           }
         }
       ]
@@ -72,8 +191,43 @@
         {
           "id": "b3-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b3-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b3-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b3-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b3-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b3-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
           }
         }
       ]
@@ -88,8 +242,50 @@
         {
           "id": "b4-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b4-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b4-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b4-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b4-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b4-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b4-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
           }
         }
       ]
@@ -104,8 +300,50 @@
         {
           "id": "b5-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b5-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b5-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b5-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b5-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b5-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b5-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
           }
         }
       ]
@@ -120,8 +358,57 @@
         {
           "id": "b6-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b6-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b6-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b6-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b6-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b6-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b6-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b6-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
           }
         }
       ]
@@ -136,8 +423,36 @@
         {
           "id": "b7-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b7-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b7-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b7-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b7-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
           }
         }
       ]
@@ -152,8 +467,57 @@
         {
           "id": "b8-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b8-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b8-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b8-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b8-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b8-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b8-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b8-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
           }
         }
       ]
@@ -168,8 +532,29 @@
         {
           "id": "b9-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b9-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b9-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b9-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
           }
         }
       ]
@@ -184,8 +569,43 @@
         {
           "id": "b10-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b10-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b10-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b10-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b10-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b10-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
           }
         }
       ]
@@ -200,8 +620,57 @@
         {
           "id": "b11-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b11-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b11-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b11-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b11-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b11-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b11-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b11-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
           }
         }
       ]
@@ -216,8 +685,57 @@
         {
           "id": "b12-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b12-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b12-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b12-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b12-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b12-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b12-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b12-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
           }
         }
       ]
@@ -232,8 +750,57 @@
         {
           "id": "b13-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b13-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b13-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b13-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b13-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b13-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b13-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b13-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
           }
         }
       ]
@@ -246,10 +813,59 @@
       },
       "children": [
         {
-          "id": "b14-ch001",
+          "id": "b14-ch-proem0",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Prologue",
+            "la": "Prologus"
+          }
+        },
+        {
+          "id": "b14-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b14-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b14-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b14-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b14-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b14-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b14-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
           }
         }
       ]
@@ -264,8 +880,36 @@
         {
           "id": "b15-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b15-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b15-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b15-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b15-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
           }
         }
       ]
@@ -278,10 +922,59 @@
       },
       "children": [
         {
-          "id": "b16-ch001",
+          "id": "b16-ch-proem0",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Prologue",
+            "la": "Prologus"
+          }
+        },
+        {
+          "id": "b16-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b16-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b16-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b16-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b16-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b16-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b16-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
           }
         }
       ]
@@ -296,8 +989,43 @@
         {
           "id": "b17-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b17-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b17-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b17-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b17-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b17-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
           }
         }
       ]
@@ -312,8 +1040,43 @@
         {
           "id": "b18-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b18-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b18-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b18-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b18-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b18-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
           }
         }
       ]
@@ -328,8 +1091,43 @@
         {
           "id": "b19-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b19-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b19-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b19-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b19-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b19-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
           }
         }
       ]
@@ -344,8 +1142,43 @@
         {
           "id": "b20-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b20-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b20-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b20-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b20-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b20-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
           }
         }
       ]
@@ -360,8 +1193,43 @@
         {
           "id": "b21-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b21-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b21-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b21-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b21-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b21-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
           }
         }
       ]
@@ -376,8 +1244,8 @@
         {
           "id": "b22-ch001",
           "title": {
-            "en-US": "Chapter 1",
-            "la": "Caput 1"
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
           }
         }
       ]

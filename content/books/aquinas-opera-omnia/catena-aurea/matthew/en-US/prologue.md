@@ -1,6 +1,30 @@
 # Prologue and Dedication
 
-Go up to the top of the mountain, thou that preachest glad tidings in Sion; lift up thy voice with might, thou that preachest in Jerusalem: cry aloud, fear not: say to the cities of Judah, Behold your God! Lo, the Lord God shall come with power, and His arm shall have dominion; Lo, His reward is with Him. [Isaiah xl. 9]
+## INTRODUCTION
+
+**The Golden Chain on the Four Gospels**
+
+**Dedication**
+
+To the most holy and reverend Father, Lord Urban IV, by divine providence Pope. I, brother Thomas of Aquino, of the Order of Friars Preachers, devoutly and reverently kiss your holy feet.
+
+The font of wisdom, the only-begotten Word of God, presiding in the highest, through whom the Father made everything wisely, and smoothly arranged it, at the end of time decided to take flesh, so that under the garment of a bodily nature our human gaze could view his splendor, which it could not reach when he was in the heights of divine majesty. Certainly, he spread his rays, the evidence of his wisdom, on all the works which hecreated. But he impressed his image in a more privileged way on human souls, and still more expressed this image in the hearts of those who love him, according to his great munificence. But what is the soul of man in such immense creation, that it could perfectly comprehend the traces of divine wisdom? Moreover, the light of wisdom that had been infused in men was obscured by the darkness of sin and the fog of temporal occupations. Moreover, the stupid heartsof som were so darkened that they turned the glory of God into useless idols, doing things that were improper, and falling into a damnable mentality.
+
+But divine wisdom, which had made man to enjoy himself, would not allow him to have no experience of himsel. So he entered human nature totally, assuming it to himself in a wonderful way, so that he could call wandering man back totally to himself. The first prince of apostles merited to see by faith the brightness of this wisdom, covered with the cloud of mortality, and he constantly, fully, and without error testified to it, saying, "You are the Christ, the Son of the living God." O blessed testimony, which flesh and blood did not reveal, but the heavenly Father. This testimony gives foundation to the Church on earth, opens the way to heaven, merits the power to forgive sins, and the gates of hell do not prevail against it. You, the rightful heir to this faith and testimony, most holy Father, and your mind is religiously watchful, to let the light of such great wisdom pervade the hearts of the faithful, and refute the madness of heretics, which are rightly called the "gates of hell".
+
+Certainly if, according to Plato's opinion, the nation is blessed whose rulers are occupied with wisdom, that wisdom which in fact the stupidity of the human intellect often mixes with errors, how much more blessed must the Christian people under your rule be reckoned, since you devote such great concern for that wisdom, which God's wisdom clothed in bodily limbs taught by words and demonstrated by works? Because of this zeal for wisdom, it pleased your Holiness to commission me to expound the Gospel of Matthew. I did so according to my ability, scouring different books of the Doctors, to make a continuous commentary. The words of some authors are few, where I usually added from the Glosses. In this case, I headed such quotations under the title of "Gloss".
+
+As for quotations from the holy Doctors, I mention the name of each, and the books from which the quotations come, except where this was unnecessary. For instance, in mentioning Jerome, with no reference to a book, you can infer that it is his Commentary on Matthew. The same holds for the others, except for the Commentary of Chrysostom on Matthew, where the Commentary had to be mentions to distinguish it from his sermons.
+
+In quoting the testimony of the saints, much had to be omitted, both to avoid being over-long, and to make the meaning clearer, or to change the order of the commentary to fit the Scriptural text. Sometimes I just summarized the meaning, not quoting verbatim, especially in the sermons of Chrysostom, because the translation was bad.
+
+My intention in this work was to present not merely the literal meaning, but also the mystical meaning, and sometimes also to refute errors and confirm the Catholic truth. This seemed necessary, because especially in the Gospel the form of Catholic faith is transmitted, as well as the whole rule of Christian life. I hope therefore that the present work does not seem too long for anybody. I could not pursue all the material without summarizing, nor explain the opinions of so many saints if I abbreviated too much.
+
+Therefore, may your Holiness receive this work, presented to your judgment for discussion and correction. It is the fruit of your sollicitude and my obedience. Since it originated from your precept and its final judgment is reserved to you, let the rivers return to their source.
+
+**INTRODUCTION**
+
+> Go up to the top of the mountain, thou that preachest glad tidings in Sion; lift up thy voice with might, thou that preachest in Jerusalem: cry aloud, fear not: say to the cities of Judah, Behold your God! Lo, the Lord God shall come with power, and His arm shall have dominion; Lo, His reward is with Him. [Isaiah xl. 9]
 
 The Prophet Isaiah, a manifest preacher of the Gospel, briefly expressing the loftiness, the name, and the substance of the Gospel doctrine, addresses the evangelic teacher in the person of the Lord, saying, "Go up to the top of the mountain, &c." But to make our beginning with the title, The Gospel.
 

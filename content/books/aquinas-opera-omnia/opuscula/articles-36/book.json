@@ -31,14 +31,14 @@
   ],
   "toc": [
     {
-      "id": "36articuli",
+      "id": "36articuli-01",
       "title": {
         "en-US": "36Articuli",
         "la": "36Articuli"
       }
     },
     {
-      "id": "36articuli",
+      "id": "36articuli-prologue",
       "title": {
         "en-US": "Prologue",
         "la": "Prologue"
@@ -290,7 +290,7 @@
       }
     },
     {
-      "id": "36articuli",
+      "id": "36articuli-epilogue",
       "title": {
         "en-US": "Epilogue",
         "la": "Epilogue"

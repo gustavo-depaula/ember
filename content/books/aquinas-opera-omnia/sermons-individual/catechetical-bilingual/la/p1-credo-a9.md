@@ -1,0 +1,41 @@
+# A. 9 - The Holy Catholic Church
+
+***Sicut videmus quod in uno homine est una anima et unum corpus, et tamen sunt diversa membra ipsius; ita Ecclesia Catholica est unum corpus, et habet diversa membra. Anima autem quae hoc corpus vivificat, est Spiritus Sanctus. Et ideo post fidem de Spiritu Sancto, iubemur credere sanctam Ecclesiam Catholicam. Unde additur in Symbolo: ***sanctam Ecclesiam Catholicam***.***
+
+Circa quod sciendum est, quod ***Ecclesia*** est idem quod congregatio. Unde Ecclesia sancta idem est quod congregatio fidelium; et quilibet Christianus est sicut membrum ipsius Ecclesiae, de qua dicitur Eccli. ult., 31: *appropiate ad me indocti, et congregate vos in domum disciplinae*.
+
+Haec autem Ecclesia sancta habet quatuor conditiones: quia est una, quia est sancta, quia est Catholica, idest universalis, et quia est fortis et firma.
+
+Quantum ad primum sciendum est, quod licet diversi haeretici diversas sectas adinvenerint, non tamen pertinent ad Ecclesiam, quia sunt divisi in partes: sed Ecclesia est ***una***. Cant. VI, 8: *una est columba mea, perfecta mea*. Causatur autem unitas Ecclesiae ex tribus.
+
+Primo ex unitate fidei. Omnes enim Christiani qui sunt de corpore Ecclesiae, idem credunt: I Cor. I, 10: *idipsum dicatis omnes, et non sint in vobis schismata*; et Ephes. IV, 5: *unus Deus, una fides, unum baptisma*.
+
+Secundo ex unitate spei, quia omnes firmati sunt in una spe perveniendi ad vitam aeternam: et ideo dicit Apostolus, Eph. IV, 4: *unum corpus et unus Spiritus, sicut vocati estis in una spe vocationis vestrae*.
+
+Tertio ex unitate caritatis, quia omnes connectuntur in amore Dei, et ad invicem in amore mutuo. Ioan. XVII, 22: *claritatem quam dedisti mihi, dedi eis, ut sint unum, sicut et nos unum sumus*. Manifestatur autem huiusmodi amor si verus est, quando membra pro se invicem sunt solicita, et quando invicem compatiuntur. Ephes. IV, 15–16: *in caritate crescamus in illo per omnia qui est caput Christus: ex quo totum corpus connexum et compactum per omnem iuncturam subministrationis secundum operationem in mensuram uniuscuiusque membri, augmentum corporis facit in aedificationem sui in caritate*; quia quilibet de gratia sibi collata a Deo, debet proximo servire. Unde nullus debet contemnere, nec pati ab ista Ecclesia abiici et expelli; quia non est nisi una Ecclesia in qua homines salventur, sicut extra arcam Noe nullus salvari potuit.
+
+Circa secundum sciendum, quod est etiam alia congregatio, sed malignantium. Ps. XXV, 5: *odivi Ecclesiam malignantium*. Sed haec est mala, Ecclesia vero Christi est sancta: Apostolus, I Cor. III, 17: *templum Dei sanctum est, quod estis vos*; unde dicitur, ***sanctam Ecclesiam***.
+
+Sanctificantur autem fideles huius congregationis ex tribus.
+
+Primo, quia sicut ecclesia cum consecratur, materialiter lavatur, ita et fideles loti sunt sanguine Christi. Apoc. I, 5: *dilexit nos, et lavit nos a peccatis nostris in sanguine suo*; Heb. XIII, 12: *Iesus, ut sanctificaret per suum sanguinem populum, extra portam passus est*.
+
+Secundo ex inunctione: quia sicut Ecclesia inungitur, sic et fideles spirituali inunctione unguntur, ut sanctificentur: alias non essent Christiani: Christus enim idem est quod unctus. Haec autem unctio est gratia Spiritus Sancti. II Cor. I, 21: *qui unxit nos, Deus*; et I Cor. VI, 11: *sanctificati estis in nomine Domini nostri Iesu Christi*.
+
+Tertio ex inhabitatione Trinitatis: nam ubicumque Deus inhabitat, locus ille sanctus est: unde Gen. XXVIII, 16: *vere locus iste sanctus est*; et Ps. XCII, 5: *domum tuam decet sanctitudo, Domine*.
+
+Quarto propter invocationem Dei. Ier. XIV, 9: *tu autem in nobis es, Domine, et nomen tuum invocatum est super nos*. Cavendum est ergo ne post talem sanctificationem polluamus animam nostram, quae templum Dei est, per peccatum. Apostolus, I Cor. III, 17: *si quis templum Dei violaverit, disperdet illum Deus*.
+
+Circa tertium sciendum est, quod Ecclesia est ***Catholica***, idest universalis:
+
+primo quantum ad locum, quia est per totum mundum, contra Donatistas. Rom. I, 8: *fides vestra annuntiatur in universo mundo*; Marc. ult., 15: *euntes in mundum universum, praedicate Evangelium omni creaturae*. Unde antiquitus Deus erat notus tantum in Iudaea, nunc autem per totum mundum. Habet autem haec Ecclesia tres partes. Una est in terra, alia est in caelo, tertia est in Purgatorio.
+
+Secundo est universalis quantum ad conditionem hominum, quia nullus abiicitur, nec dominus, nec servus, nec masculus, nec femina. Gal. III, 28: *non est masculus neque femina*.
+
+Tertio est universalis quantum ad tempus. Nam aliqui dixerunt, quod Ecclesia debet durare usque ad certum tempus. Sed hoc est falsum: quia haec Ecclesia incepit a tempore Abel, et durabit usque ad finem saeculi. Matt. ult., ult.: *ecce ego vobiscum sum omnibus diebus usque ad consummationem saeculi*. Sed post consummationem saeculi remanebit in caelo.
+
+Circa quartum sciendum est, quod Ecclesia est firma. Domus autem dicitur firma, primo si habet bona fundamenta. Fundamentum autem Ecclesiae principale est Christus. Apostolus, I Cor. III, 11: *fundamentum aliud nemo potest ponere praeter id quod positum est, quod est Christus Iesus*. Secundarium vero fundamentum sunt apostoli, et eorum doctrina; et ideo firma est: unde in Apoc. XXI, dicitur, quod civitas habebat *duodecim fundamenta*, et erant ibi scripta *nomina duodecim apostolorum*. Et inde est quod dicitur Ecclesia ***apostolica***. Exinde etiam est quod ad significandum firmitatem huius Ecclesiae, beatus Petrus dictus est vertex.
+
+Secundo apparet firmitas domus, si conquassata non potest destrui. Ecclesia autem nunquam potuit destrui: nec a persecutoribus; immo persecutionibus durantibus magis crevit, et qui eam persequebantur, et quos ipsa persequebatur, deficiebant: Matt. XXI, 44: *qui ceciderit super lapidem istum, confringetur; super quem vero ceciderit, conteret eum*; nec ab erroribus; immo quanto magis errores supervenerunt, tanto magis veritas manifestata est: II Tim. III, 8: *homines corrupti mente, reprobi circa fidem; sed ultra non proficient*; nec a tentationibus daemonum: Ecclesia enim est sicut turris, ad quam fugit quicumque pugnat contra diabolum: Prov. XVIII, 10: *turris fortissima nomen Domini*. Et ideo diabolus principaliter conatur ad destructionem eius; sed non praevalet, quia Dominus dixit Matth. XVI, 18: *et portae inferi non praevalebunt adversus eam*; quasi dicat: “bellabunt adversum te, sed non praevalebunt.” Et inde est quod sola Ecclesia Petri (in cuius partem venit tota Italia, dum discipuli mitterentur ad praedicandum) semper fuit firma in fide: et cum in aliis partibus vel nulla fides sit, vel sit commixta multis erroribus, Ecclesia tamen Petri et fide viget, et ab erroribus munda est. Nec mirum: quia Dominus dixit Petro, Luc. XXII, 32: *ego rogavi pro te, Petre, ut non deficiat fides tua*.
+
+Articulus 10

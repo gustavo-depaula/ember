@@ -1,7 +1,5 @@
 # Prologue
 
-**
-
 Quotiescumque manducabitis panem hunc et calicem bibetis, mortem domini annuntiabitis donec veniat.
 
 ℣. Educas panem de terra, alleluia.

@@ -1,7 +1,5 @@
 # Prologue
 
-**
-
 *Regi autem saeculorum* et cetera. [Regi saeculorum immortali et invisibili, soli Deo honor et gloria in saecula saeculorum. Amen.]
 
 ℣. *Christe filii* et cetera.

@@ -2,7 +2,7 @@
 
 Prooemium
 
-וְיָשָׁן מִפְּנֵי חָדָשׁ תּוֹצִיאוּ׃
+> וְיָשָׁן מִפְּנֵי חָדָשׁ תּוֹצִיאוּ׃
 
 Haec verba competunt praesenti epistolae, in qua apostolus redarguit Galatas, qui intantum seducti fuerant a pseudo, ut simul servarent legalia et Evangelium, quod apostolus improperat eis in verbis praemissis, dicens *vetera, novis supervenientibus, proiicietis*. In quibus verbis innuit dominus quadruplicem vetustatem.
 

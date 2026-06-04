@@ -16,7 +16,7 @@ Verum quia congruit ut de laborum fructibus oblationes sacerdotibus offerantur, 
 
 **Prooemium**
 
-Deus meus factus est fortitudo mea, et dixit: parum est ut sis mihi servus ad suscitandas tribus Iacob, et faeces Israel convertendas. Dedi te in lucem gentium, ut sis salus mea usque ad extremum terrae.
+> Deus meus factus est fortitudo mea, et dixit: parum est ut sis mihi servus ad suscitandas tribus Iacob, et faeces Israel convertendas. Dedi te in lucem gentium, ut sis salus mea usque ad extremum terrae.
 
 **Glossa**: Vocationem gentium et causam salutis earum Isaias propheta manifesto praenuntiat oraculo, dicens *Deus meus factus est fortitudo mea*, et cetera.
 

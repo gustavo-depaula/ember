@@ -1,0 +1,3 @@
+# AveMaria.S1.4
+
+The Church adds the third part, that is, ***Mary***,Thomas only briefly comments on this third part when, in explaining the words of the archangel, he says that the Blessed Virgin is fittingly called “Mary” because it is said to mean “in herself enlightened,” and she will illumine others; as he notes, the name is also said to mean “lady” or “star of the sea.” He explains the words of the archangel and Elizabeth, that is, the first and the second part, at much greater length.  because the angel did not say, “hail, Mary,” but ***hail, full of grace***. But, as we shall see, this name, “Mary,” according to its meaning agrees with the words of the angel.

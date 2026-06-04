@@ -2,7 +2,7 @@
 
 **Prologue**
 
-I will clothe the heavens with darkness, and place a sack as their covering. The Lord gave me an erudite tongue, so that I can sustain the fallen by my word. He awakens me in the morning; in the morning he awakens my ear, that I may hear him as my teacher.
+> I will clothe the heavens with darkness, and place a sack as their covering. The Lord gave me an erudite tongue, so that I can sustain the fallen by my word. He awakens me in the morning; in the morning he awakens my ear, that I may hear him as my teacher.
 
 **Gloss**: Among the mysteries of the incarnation of Christ, which Isaiah diligently and openly foretold, he says: "I will clothe the heavens" etc. From these words we can gather, for the Gospel according to Luke, the matter, the manner of writing, the purpose and the condition of the writer.
 

@@ -1,6 +1,6 @@
 # Lecture 0
 
-“I will not hide from you the secrets (sacraments) of God, but will trace out her course from the beginning of creation and make the knowledge of her clear and will not pass by the truth” (Wis 6:22).
+> “I will not hide from you the secrets (sacraments) of God, but will trace out her course from the beginning of creation and make the knowledge of her clear and will not pass by the truth” (Wis 6:22).
 
 1. – The word “sacrament” can be taken in two senses: sometimes it means something secret, particularly in regard to sacred things; and sometimes it means the sign of a sacred thing, in the sense of being its image and cause. It is in this second sense that we speak of the seven sacraments: baptism, confirmation, Eucharist, penance, extreme unction, orders and matrimony. Furthermore, the first sense is then included in this second sense, for a divine power is secretly at work in these sacraments of the Church, as Augustine says.
 

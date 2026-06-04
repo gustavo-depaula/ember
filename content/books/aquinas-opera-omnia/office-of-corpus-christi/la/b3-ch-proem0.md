@@ -1,7 +1,5 @@
 # Prologue
 
-**
-
 Dominus Iesus Christus in qua nocte tradebatur, accepit panem, et gratias agens fregit, et dixit: Accipite et manducate: hoc est corpus meum quod pro vobis tradetur; hoc facite in meam commemorationem.
 
 **Hymn**

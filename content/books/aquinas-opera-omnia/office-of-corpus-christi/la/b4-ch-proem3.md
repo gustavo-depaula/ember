@@ -1,7 +1,5 @@
 # Prologue
 
-**
-
 Quicumque manducaverit panem, et biberit calicem domini indigne reus erit corporis et sanguinis domini.
 
 ℣. Posuit fines tuos pacem, alleluia.

@@ -31,6 +31,13 @@
   ],
   "toc": [
     {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue and Dedication",
+        "la": "Prologus et Dedicatio"
+      }
+    },
+    {
       "id": "ch01",
       "title": {
         "en-US": "Chapter 1",
