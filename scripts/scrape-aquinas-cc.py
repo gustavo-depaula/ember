@@ -742,6 +742,7 @@ def render_chapter(
     en_rows: list[tuple[int, str]],
     lang: str,
     end_position: int,
+    fallback_title: str = "",
 ) -> str:
     """Render one chapter (between chap.position inclusive and end_position
     exclusive) as Markdown in the chosen language.
@@ -756,7 +757,12 @@ def render_chapter(
     rows = la_rows if lang == "la" else en_rows
     label = "*"  # bold-italic placeholder
 
-    title = html_to_md(chap.title) or chap.ref
+    title = html_to_md(chap.title)
+    if not title:
+        # If the outline didn't supply a descriptive title, prefer a caller-
+        # provided fallback (e.g. the part label) over the raw ref path,
+        # which usually looks like "Coelum.S1.2" and isn't reader-friendly.
+        title = fallback_title or chap.ref
     lines: list[str] = [f"# {title}", ""]
 
     start_idx = chap.position
@@ -861,22 +867,42 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
         if not all_children:
             chapters = [root]
         else:
+            # The "work_ref" is the bare reference for the work as a whole,
+            # taken from the first child (e.g. "Coelum").
             work_ref = all_children[0].ref if all_children else ""
             chapters = []
+            seen_real = False
             for child in all_children:
-                # Drop leading virtual nodes — those with empty title AND
-                # either the work's bare ref or a section-marker ref like
-                # `<work>.S1`. The first real chapter has a title or a
-                # ref distinct from this pattern.
-                empty_virtual = (
-                    not child.title.strip()
-                    and (child.ref == work_ref or re.fullmatch(rf"{re.escape(work_ref)}\.S\d+", child.ref or ""))
+                child_ref = child.ref or ""
+                is_empty = not child.title.strip()
+                # Leading virtual nodes have empty titles and a ref that is
+                # either the bare work ref or a sub-section path under it
+                # (Coelum.S1, Coelum.S1.2, Coelum.S1-1, etc.).
+                is_virtual_path = (
+                    child_ref == work_ref
+                    or child_ref.startswith(work_ref + ".S")
+                    or child_ref.startswith(work_ref + ".T")
                 )
-                if empty_virtual and not chapters:
+                if not seen_real and is_empty and is_virtual_path:
                     continue
+                seen_real = True
                 chapters.append(child)
             if not chapters:
                 chapters = all_children
+            # If every chapter has an empty title (short paragraph-only works
+            # like the Immensa sermon, or untitled sermons in the Bilingual
+            # Collection), collapse to a single virtual chapter that spans
+            # the whole part. The part-group label (set later) supplies the
+            # human-readable title.
+            if all(not c.title.strip() for c in chapters) and chapters:
+                first = chapters[0]
+                merged = OutlineNode(
+                    title="",
+                    ref=first.ref or work_ref,
+                    position=first.position,
+                    children=[],
+                )
+                chapters = [merged]
 
         la_rows = fetch_cells(did_la, rows)
         en_rows = fetch_cells(did_en, rows) if has_english else [(rid, "") for rid, _ in la_rows]
@@ -914,8 +940,10 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
                 cid = f"p{idx + 1}-{cid_base}"
             else:
                 cid = cid_base
-            md_en = render_chapter(chap, style_chars, la_rows, en_rows, "en-US", end)
-            md_la = render_chapter(chap, style_chars, la_rows, en_rows, "la", end)
+            fallback_en = label_en if part_group else spec.name_en
+            fallback_la = label_la if part_group else spec.name_la
+            md_en = render_chapter(chap, style_chars, la_rows, en_rows, "en-US", end, fallback_title=fallback_en)
+            md_la = render_chapter(chap, style_chars, la_rows, en_rows, "la", end, fallback_title=fallback_la)
             if not dry_run:
                 if has_english:
                     (en_dir / f"{cid}.md").write_text(md_en, encoding="utf-8")

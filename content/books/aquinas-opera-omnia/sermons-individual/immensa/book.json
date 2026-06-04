@@ -33,50 +33,8 @@
     {
       "id": "immensa-c01",
       "title": {
-        "en-US": "Immensa.S1.2",
-        "la": "Immensa.S1.2"
-      }
-    },
-    {
-      "id": "immensa-c02",
-      "title": {
-        "en-US": "Immensa.S1.3",
-        "la": "Immensa.S1.3"
-      }
-    },
-    {
-      "id": "immensa-c03",
-      "title": {
-        "en-US": "Immensa.S1.4",
-        "la": "Immensa.S1.4"
-      }
-    },
-    {
-      "id": "immensa-c04",
-      "title": {
-        "en-US": "Immensa.S1.5",
-        "la": "Immensa.S1.5"
-      }
-    },
-    {
-      "id": "immensa-c05",
-      "title": {
-        "en-US": "Immensa.S1.6",
-        "la": "Immensa.S1.6"
-      }
-    },
-    {
-      "id": "immensa-c06",
-      "title": {
-        "en-US": "Immensa.S1.7",
-        "la": "Immensa.S1.7"
-      }
-    },
-    {
-      "id": "immensa-c07",
-      "title": {
-        "en-US": "Immensa.S1.8",
-        "la": "Immensa.S1.8"
+        "en-US": "Immensa",
+        "la": "Immensa"
       }
     }
   ]
