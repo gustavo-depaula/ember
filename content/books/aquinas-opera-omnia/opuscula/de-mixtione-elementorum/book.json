@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-de-mixtione-elementorum",
+  "name": {
+    "en-US": "On the Mixture of the Elements",
+    "la": "De Mixtione Elementorum"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short physical treatise on how the four classical elements combine in a compound body — addressing whether the elements remain actually or only virtually present in the mixed body.",
+    "la": "Tractatus brevis physicus de modo quo quattuor elementa in corpore composito miscentur."
+  },
+  "composed": "c. 1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Peter Orlowski (1995, 1997). Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1 — DE MIXTIONE ELEMENTORUM",
+        "la": "Capitulum 1 — DE MIXTIONE ELEMENTORUM"
+      }
+    }
+  ]
+}

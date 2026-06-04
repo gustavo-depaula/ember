@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Modernize 1939-style Catholic Scripture citations into modern English format.
 
-Targets:  content/books/aquinas-catechetical-instructions/en-US/*.md
+Targets:  content/books/aquinas-opera-omnia/catechetical-instructions/en-US/*.md
 
 Examples:
     "Osee, ii. 20"      -> "Hosea 2:20"
@@ -41,7 +41,8 @@ EN_US_DIR = (
     Path(__file__).resolve().parent.parent
     / "content"
     / "books"
-    / "aquinas-catechetical-instructions"
+    / "aquinas-opera-omnia"
+    / "catechetical-instructions"
     / "en-US"
 )
 

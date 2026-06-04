@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-de-operationibus-occultis",
+  "name": {
+    "en-US": "On the Occult Works of Nature",
+    "la": "De Operationibus Occultis Naturae"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A letter to an unnamed knight on the causes of the \"hidden\" effects of natural bodies — magnetism, the influence of celestial bodies, and similar phenomena — and what can be known about them by reason.",
+    "la": "Epistola militi cuidam, de causis operationum occultarum corporum naturalium — magnetismo, influxu corporum caelestium — et quid de eis ratione cognosci possit."
+  },
+  "composed": "c. 1269–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Joseph B. McAllister. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Capitulum 1"
+      }
+    }
+  ]
+}

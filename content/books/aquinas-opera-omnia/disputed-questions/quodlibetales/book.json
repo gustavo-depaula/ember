@@ -1,0 +1,462 @@
+{
+  "id": "aquinas-quodlibetales",
+  "name": {
+    "en-US": "Quodlibetal Questions",
+    "la": "Quaestiones Quodlibetales"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Twelve sets of *quodlibeta* — open-topic disputations conducted by Aquinas at Paris (Advent and Lent, 1268–1272) in which the master answered any question put by the audience. Quodlibets I–II have a full English translation by Sandra Edwards (PIMS, 1983); Quodlibets III–XII are Latin only with scattered English fragments by Freddoso and West.",
+    "la": "Duodecim quodlibeta — disputationes Thomae Parisienses (Adventu et Quadragesima, 1268–1272) in quibus magister cuilibet ex auditoribus quaerenti respondebat."
+  },
+  "composed": "1268–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Quodlibets I–II: Sandra Edwards, *Quodlibetal Questions 1 and 2* (Mediaeval Sources in Translation 27, Pontifical Institute of Mediaeval Studies, Toronto, 1983) — may be under copyright until 2078. Quodlibets III–XII: partial English fragments by Alfred J. Freddoso and Jason Lewis Andrew West. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "en-US": "Quodlibet I",
+        "la": "Quodlibet I"
+      },
+      "children": [
+        {
+          "id": "q01-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "title": {
+        "en-US": "Quodlibet II",
+        "la": "Quodlibet II"
+      },
+      "children": [
+        {
+          "id": "q02-a01",
+          "title": {
+            "en-US": "Article 1 — There were two points of inquiry concerning the human nature in Christ:",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q02-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "title": {
+        "en-US": "Quodlibet III",
+        "la": "Quodlibet III"
+      },
+      "children": [
+        {
+          "id": "q03-a01",
+          "title": {
+            "en-US": "Article 1 — Two questions were asked concerning angels.",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q03-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "title": {
+        "en-US": "Quodlibet IV",
+        "la": "Quodlibet IV"
+      },
+      "children": [
+        {
+          "id": "q04-a01",
+          "title": {
+            "en-US": "Article 1 — Then it was asked concerning man: first as to the good in the order of nature...",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q04-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q04-a03",
+          "title": {
+            "en-US": "Article 3 — ",
+            "la": "Articulus 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "title": {
+        "en-US": "Quodlibet V",
+        "la": "Quodlibet V"
+      },
+      "children": [
+        {
+          "id": "q05-a01",
+          "title": {
+            "en-US": "Article 1 — [Then the question arises about things that pertain to the goodness of grace:",
+            "la": "Articulus 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "title": {
+        "en-US": "Quodlibet VI",
+        "la": "Quodlibet VI"
+      },
+      "children": [
+        {
+          "id": "q06-a01",
+          "title": {
+            "en-US": "Article 1 — Then three questions were asked about confession:",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q06-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q06-a03",
+          "title": {
+            "en-US": "Article 3 — ",
+            "la": "Articulus 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "title": {
+        "en-US": "Quodlibet VII",
+        "la": "Quodlibet VII"
+      },
+      "children": [
+        {
+          "id": "q07-a01",
+          "title": {
+            "en-US": "Article 1 — ",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q07-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "title": {
+        "en-US": "Quodlibet VIII",
+        "la": "Quodlibet VIII"
+      },
+      "children": [
+        {
+          "id": "q08-a01",
+          "title": {
+            "en-US": "Article 1 — ",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q08-a02",
+          "title": {
+            "en-US": "Article 2 — Whether a religious is bound to obey his prelate so as to reveal a fault of a...",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "title": {
+        "en-US": "Quodlibet IX",
+        "la": "Quodlibet IX"
+      },
+      "children": [
+        {
+          "id": "q09-a01",
+          "title": {
+            "en-US": "Article 1 — Then four questions pertaining to sin were asked:",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q09-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q09-a03",
+          "title": {
+            "en-US": "Article 3 — ",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q09-a04",
+          "title": {
+            "en-US": "Article 4 — ",
+            "la": "Articulus 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": {
+        "en-US": "Quodlibet X",
+        "la": "Quodlibet X"
+      },
+      "children": [
+        {
+          "id": "q10-a01",
+          "title": {
+            "en-US": "Article 1 — ",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q10-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "title": {
+        "en-US": "Quodlibet 21",
+        "la": "Quodlibet 21"
+      },
+      "children": [
+        {
+          "id": "q21-a01",
+          "title": {
+            "en-US": "Article 1 — QUODLIBET II: Questions were asked concerning Christ, angels, and men.",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q21-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "title": {
+        "en-US": "Quodlibet 22",
+        "la": "Quodlibet 22"
+      },
+      "children": [
+        {
+          "id": "q22-a01",
+          "title": {
+            "en-US": "Article 1 — ",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q22-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "title": {
+        "en-US": "Quodlibet 23",
+        "la": "Quodlibet 23"
+      },
+      "children": [
+        {
+          "id": "q23-a01",
+          "title": {
+            "en-US": "Article 1 — Then it was asked about the time through which God moves a spiritual creature...",
+            "la": "Articulus 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "title": {
+        "en-US": "Quodlibet 24",
+        "la": "Quodlibet 24"
+      },
+      "children": [
+        {
+          "id": "q24-a01",
+          "title": {
+            "en-US": "Article 1 — Then questions were asked concerning man: first as to the virtues, second as...",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q24-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q24-a03",
+          "title": {
+            "en-US": "Article 3 — ",
+            "la": "Articulus 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "title": {
+        "en-US": "Quodlibet 25",
+        "la": "Quodlibet 25"
+      },
+      "children": [
+        {
+          "id": "q25-a01",
+          "title": {
+            "en-US": "Article 1 — Then it was asked concerning these things which pertain to the virtues in rel...",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q25-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "title": {
+        "en-US": "Quodlibet 26",
+        "la": "Quodlibet 26"
+      },
+      "children": [
+        {
+          "id": "q26-a01",
+          "title": {
+            "en-US": "Article 1 — ",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q26-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "title": {
+        "en-US": "Quodlibet 27",
+        "la": "Quodlibet 27"
+      },
+      "children": [
+        {
+          "id": "q27-a01",
+          "title": {
+            "en-US": "Article 1 — ",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q27-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "title": {
+        "en-US": "Quodlibet 28",
+        "la": "Quodlibet 28"
+      },
+      "children": [
+        {
+          "id": "q28-a01",
+          "title": {
+            "en-US": "Article 1 — ",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q28-a02",
+          "title": {
+            "en-US": "Article 2 — ",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    }
+  ]
+}

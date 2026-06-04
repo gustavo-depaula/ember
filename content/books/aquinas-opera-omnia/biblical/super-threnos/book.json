@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-super-threnos",
+  "name": {
+    "en-US": "Commentary on Lamentations",
+    "la": "In Threnos Jeremiae Expositio"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "An early literal commentary on the Book of Lamentations, likely from Aquinas's Paris bachelor years.",
+    "la": "Expositio prima Thomae litteralis in librum Threnorum, fere ex annis baccalaureatus Parisiensis."
+  },
+  "composed": "c. 1252–1259",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Caput 1"
+      }
+    }
+  ]
+}

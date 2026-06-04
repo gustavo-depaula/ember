@@ -1,0 +1,83 @@
+{
+  "id": "aquinas-comm-politics",
+  "name": {
+    "en-US": "Commentary on the Politics",
+    "la": "Sententia Libri Politicorum"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on Aristotle's *Politics*. Unfinished — the Geremia mirror contains only Book I.",
+    "la": "Expositio Thomae *Politicae* Aristotelis. Opus inchoatum — speculum Geremiae solum Librum I continet."
+  },
+  "composed": "1269–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Richard J. Regan (Hackett, 2007) — copyrighted, Book I via Geremia/AquinasOperaOmnia. Latin is Leonine (public domain)."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Lecture 1",
+        "la": "Lectio 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Lecture 2",
+        "la": "Lectio 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Lecture 3",
+        "la": "Lectio 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Lecture 4",
+        "la": "Lectio 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Lecture 5",
+        "la": "Lectio 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Lecture 6",
+        "la": "Lectio 6"
+      }
+    }
+  ]
+}

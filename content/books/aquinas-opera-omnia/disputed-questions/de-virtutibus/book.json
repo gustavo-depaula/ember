@@ -1,0 +1,264 @@
+{
+  "id": "aquinas-de-virtutibus",
+  "name": {
+    "en-US": "Disputed Questions on the Virtues",
+    "la": "Quaestiones Disputatae de Virtutibus"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Five disputed questions on the virtues — on the virtues in general, on charity, on fraternal correction, on hope, and on the cardinal virtues — composed during Aquinas's second Paris regency.",
+    "la": "Quinque quaestiones disputatae de virtutibus — de virtutibus in communi, de caritate, de correctione fraterna, de spe, de virtutibus cardinalibus — in secunda regentia Parisiensi."
+  },
+  "composed": "1271–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by E. M. Atkins, ed. Atkins and Williams (Cambridge University Press, 2005) for some; Ralph McInerny (St. Augustine's Press, 1999) for others. Mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "en-US": "Question 1 — by\n\nThomas Aquinas",
+        "la": "Quaestio 1"
+      },
+      "children": [
+        {
+          "id": "q01-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q01-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q01-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q01-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q01-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q01-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q01-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q01-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q01-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q01-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q01-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q01-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q01-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "title": {
+        "en-US": "Question 2 — ON CHARITY",
+        "la": "Quaestio 2"
+      },
+      "children": [
+        {
+          "id": "q02-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q02-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q02-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q02-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q02-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q02-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q02-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q02-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q02-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q02-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q02-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q02-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "title": {
+        "en-US": "Question 5 — Disputed Question on the Cardinal Virtues",
+        "la": "Quaestio 5"
+      },
+      "children": [
+        {
+          "id": "q05-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q05-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q05-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q05-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        }
+      ]
+    }
+  ]
+}

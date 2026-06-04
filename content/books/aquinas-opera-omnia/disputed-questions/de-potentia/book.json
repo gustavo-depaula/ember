@@ -1,0 +1,705 @@
+{
+  "id": "aquinas-de-potentia",
+  "name": {
+    "en-US": "Disputed Questions on the Power of God",
+    "la": "Quaestiones Disputatae de Potentia"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Ten disputed questions, conducted at Rome — on the divine power, especially as it bears on creation, the Trinity, and the procession of the Holy Spirit.",
+    "la": "Decem quaestiones disputatae apud Romam — de potentia divina, praesertim in creatione, Trinitate et processione Spiritus Sancti."
+  },
+  "composed": "1265–1266",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by the English Dominican Fathers, *On the Power of God* (Newman Press, 1952; Burns Oates & Washbourne, London, 1932–34). Translation status: the 1932 edition is mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "en-US": "Question 1 — QUESTION I\n\nThe Power of God",
+        "la": "Quaestio 1"
+      },
+      "children": [
+        {
+          "id": "q01-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q01-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q01-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q01-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q01-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q01-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q01-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q02",
+      "title": {
+        "en-US": "Question 2 — **QUESTION II\n\nOf God’s Generating Power**",
+        "la": "Quaestio 2"
+      },
+      "children": [
+        {
+          "id": "q02-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q02-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q02-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q02-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q02-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q02-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q03",
+      "title": {
+        "en-US": "Question 3 — QUESTION III\n\nCREATION",
+        "la": "Quaestio 3"
+      },
+      "children": [
+        {
+          "id": "q03-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q03-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q03-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q03-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q03-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q03-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q03-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q03-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q03-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q03-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q03-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        },
+        {
+          "id": "q03-a12",
+          "title": {
+            "en-US": "Article 12",
+            "la": "Articulus 12"
+          }
+        },
+        {
+          "id": "q03-a13",
+          "title": {
+            "en-US": "Article 13",
+            "la": "Articulus 13"
+          }
+        },
+        {
+          "id": "q03-a14",
+          "title": {
+            "en-US": "Article 14",
+            "la": "Articulus 14"
+          }
+        },
+        {
+          "id": "q03-a15",
+          "title": {
+            "en-US": "Article 15",
+            "la": "Articulus 15"
+          }
+        },
+        {
+          "id": "q03-a16",
+          "title": {
+            "en-US": "Article 16",
+            "la": "Articulus 16"
+          }
+        },
+        {
+          "id": "q03-a17",
+          "title": {
+            "en-US": "Article 17",
+            "la": "Articulus 17"
+          }
+        },
+        {
+          "id": "q03-a18",
+          "title": {
+            "en-US": "Article 18",
+            "la": "Articulus 18"
+          }
+        },
+        {
+          "id": "q03-a19",
+          "title": {
+            "en-US": "Article 19",
+            "la": "Articulus 19"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q04",
+      "title": {
+        "en-US": "Question 4 — **QUESTION IV\n\nOF THE CREATION OF FORMLESS MATTER**",
+        "la": "Quaestio 4"
+      },
+      "children": [
+        {
+          "id": "q04-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q04-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q05",
+      "title": {
+        "en-US": "Question 5 — **QUESTION V\n\nOF THE PRESERVATION OF THINGS BY GOD**",
+        "la": "Quaestio 5"
+      },
+      "children": [
+        {
+          "id": "q05-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q05-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q05-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q05-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q05-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q05-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q05-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q05-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q05-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q05-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q06",
+      "title": {
+        "en-US": "Question 6 — QUESTION VI\n\nON MIRACLES",
+        "la": "Quaestio 6"
+      },
+      "children": [
+        {
+          "id": "q06-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q06-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q06-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q06-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q06-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q06-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q06-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q06-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q06-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q06-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q07",
+      "title": {
+        "en-US": "Question 7 — QUESTION VII\n\nTHE SIMPLICITY OF THE DIVINE ESSENCE",
+        "la": "Quaestio 7"
+      },
+      "children": [
+        {
+          "id": "q07-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q07-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q07-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q07-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q07-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q07-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q07-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q07-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q07-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q07-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q07-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q08",
+      "title": {
+        "en-US": "Question 8 — QUESTION VIII\n\nTHOSE THINGS THAT ARE PREDICATED OF GOD RELATIVELY FROM ETERNITY",
+        "la": "Quaestio 8"
+      },
+      "children": [
+        {
+          "id": "q08-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q08-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q08-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q08-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q09",
+      "title": {
+        "en-US": "Question 9 — QUESTION IX\n\nTHE DIVINE PERSONS",
+        "la": "Quaestio 9"
+      },
+      "children": [
+        {
+          "id": "q09-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q09-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q09-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q09-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q09-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q09-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q09-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q09-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q09-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": {
+        "en-US": "Question 10 — QUESTION X\n\nTHE PROCESSION OF THE DIVINE PERSONS",
+        "la": "Quaestio 10"
+      },
+      "children": [
+        {
+          "id": "q10-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q10-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q10-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q10-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q10-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "aquinas-de-regno",
+  "name": {
+    "en-US": "On Kingship (to the King of Cyprus)",
+    "la": "De Regno (ad Regem Cypri)"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A treatise on Christian political philosophy — the nature of kingship, the common good, and the duties of a Christian ruler — composed for Hugh II of Lusignan, King of Cyprus. Aquinas wrote Book I and the opening of Book II; the rest was completed by Ptolemy of Lucca.",
+    "la": "Tractatus de philosophia politica christiana — natura regni, bono communi, officiis regis Christiani — Hugoni II Lusignano regi Cypri compositus."
+  },
+  "composed": "c. 1267",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Gerald B. Phelan, revised by I. Th. Eschmann, O.P. (Pontifical Institute of Mediaeval Studies, Toronto, 1949). Translation status: may be under copyright in the United States until 2044; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch-0",
+      "title": {
+        "en-US": "Chapter 0 — Introduction",
+        "la": "Capitulum 0 — Introduction"
+      }
+    },
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Capitulum 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Chapter 2 — CHAPTER 2 DIFFERENT KINDS OF RULE",
+        "la": "Capitulum 2 — CHAPTER 2 DIFFERENT KINDS OF RULE"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Chapter 3 — WHETHER IT IS MORE EXPEDIENT FOR A CITY OR PROVINCE TO BE RULED BY ONE MAN OR BY MANY",
+        "la": "Capitulum 3 — WHETHER IT IS MORE EXPEDIENT FOR A CITY OR PROVINCE TO BE RULED BY ONE MAN OR BY MANY"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Chapter 4 — THAT THE DOMINION OF A TYRANT IS THE WORST",
+        "la": "Capitulum 4 — THAT THE DOMINION OF A TYRANT IS THE WORST"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Chapter 5 — WHY THE ROYAL DIGNITY IS RENDERED HATEFUL TO THE SUBJECTS",
+        "la": "Capitulum 5 — WHY THE ROYAL DIGNITY IS RENDERED HATEFUL TO THE SUBJECTS"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Chapter 6 — THAT IT IS A LESSER EVIL WHEN A MONARCHY TURNS INTO TYRANNY THAN WHEN AN ARISTOCRACY BECOMES CORRUPT",
+        "la": "Capitulum 6 — THAT IT IS A LESSER EVIL WHEN A MONARCHY TURNS INTO TYRANNY THAN WHEN AN ARISTOCRACY BECOMES CORRUPT"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Chapter 7 — HOW PROVISION MIGHT BE MADE THAT THE KING MAY NOT FALL INTO TYRANNY",
+        "la": "Capitulum 7 — HOW PROVISION MIGHT BE MADE THAT THE KING MAY NOT FALL INTO TYRANNY"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Chapter 8 — THAT MUNDANE HONOUR AND GLORY ARE NOT AN ADEQUATE REWARD FOR A KING",
+        "la": "Capitulum 8 — THAT MUNDANE HONOUR AND GLORY ARE NOT AN ADEQUATE REWARD FOR A KING"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Chapter 9 — THAT THE KING SHOULD LOOK TO GOD FOR ADEQUATE REWARD",
+        "la": "Capitulum 9 — THAT THE KING SHOULD LOOK TO GOD FOR ADEQUATE REWARD"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Chapter 10 — WHAT DEGREE OF HEAVENLY BEATITUDE THE KING MAY OBTAIN",
+        "la": "Capitulum 10 — WHAT DEGREE OF HEAVENLY BEATITUDE THE KING MAY OBTAIN"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Chapter 11 — WHAT ADVANTAGES WHICH ARE RENDERED TO KINGS ARE LOST BY THE TYRANT",
+        "la": "Capitulum 11 — WHAT ADVANTAGES WHICH ARE RENDERED TO KINGS ARE LOST BY THE TYRANT"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Chapter 12 — WHAT PUNISHMENTS ARE IN STORE FOR A TYRANT",
+        "la": "Capitulum 12 — WHAT PUNISHMENTS ARE IN STORE FOR A TYRANT"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Chapter 13 — ON THE DUTIES OF A KING",
+        "la": "Capitulum 13 — ON THE DUTIES OF A KING"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Chapter 14 — WHAT IT IS INCUMBENT UPON A KING TO DO AND HOW HE SHOULD GO ABOUT DOING IT",
+        "la": "Capitulum 14 — WHAT IT IS INCUMBENT UPON A KING TO DO AND HOW HE SHOULD GO ABOUT DOING IT"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Chapter 15 — THAT THE OFFICE OF GOVERNING THE KINGDOM SHOULD BE LEARNED FROM THE DIVINE GOVERNMENT",
+        "la": "Capitulum 15 — THAT THE OFFICE OF GOVERNING THE KINGDOM SHOULD BE LEARNED FROM THE DIVINE GOVERNMENT"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Chapter 16 — THAT REGAL GOVERNMENT SHOULD BE ORDAINED PRINCIPALLY TO ETERNAL BEATITUDE",
+        "la": "Capitulum 16 — THAT REGAL GOVERNMENT SHOULD BE ORDAINED PRINCIPALLY TO ETERNAL BEATITUDE"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Chapter 21 — THAT IT BELONGS TO THE OFFICE OF A KING TO FOUND THE CITY",
+        "la": "Capitulum 21 — THAT IT BELONGS TO THE OFFICE OF A KING TO FOUND THE CITY"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Chapter 22 — THAT THE CITY SHOULD HAVE WHOLESOME AIR",
+        "la": "Capitulum 22 — THAT THE CITY SHOULD HAVE WHOLESOME AIR"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Chapter 23 — THAT THE CITY SHOULD HAVE AN ABUNDANT SUPPLY OF FOOD",
+        "la": "Capitulum 23 — THAT THE CITY SHOULD HAVE AN ABUNDANT SUPPLY OF FOOD"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Chapter 24 — THAT THE CITY SHOULD HAVE A PLEASANT SITE",
+        "la": "Capitulum 24 — THAT THE CITY SHOULD HAVE A PLEASANT SITE"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Chapter 25 — APPENDIX — SELECTED PARALLEL TEXTS",
+        "la": "Capitulum 25 — APPENDIX — SELECTED PARALLEL TEXTS"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Chapter 25",
+        "la": "Capitulum 25"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Chapter 25 — 1.",
+        "la": "Capitulum 25 — 1."
+      }
+    }
+  ]
+}

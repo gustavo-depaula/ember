@@ -1,0 +1,41 @@
+{
+  "id": "aquinas-to-john-vercelli",
+  "name": {
+    "en-US": "Letter to John of Vercelli, Master General",
+    "la": "Epistola ad Ioannem Vercellensem"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's reply to forty-three articles submitted by John of Vercelli, Master General of the Dominicans, on theological questions disputed at Paris.",
+    "la": "Responsum Thomae ad quadraginta tres articulos a Ioanne Vercellensi, Magistro Generali Ordinis Praedicatorum, super quaestionibus theologicis Parisiensibus."
+  },
+  "composed": "1271",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Translation mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Article 1",
+        "la": "Articulus 1"
+      }
+    }
+  ]
+}

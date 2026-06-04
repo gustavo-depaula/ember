@@ -1,0 +1,120 @@
+{
+  "id": "aquinas-de-spiritualibus-creaturis",
+  "name": {
+    "en-US": "Disputed Question on Spiritual Creatures",
+    "la": "Quaestio Disputata de Spiritualibus Creaturis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A single disputed question of eleven articles on the metaphysics of immaterial substances — chiefly the angels and the human soul — held during Aquinas's stay at the papal *studium* of Viterbo or Rome.",
+    "la": "Quaestio disputata una undecim articulorum, de metaphysica substantiarum immaterialium — angelorum praecipue et animae humanae."
+  },
+  "composed": "1267–1268",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by Mary C. Fitzpatrick (Marquette University Press, 1949). Translation status: may be under copyright in the United States until 2044; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "en-US": "Question 1",
+        "la": "Quaestio 1"
+      },
+      "children": [
+        {
+          "id": "q01-a01",
+          "title": {
+            "en-US": "Article 1",
+            "la": "Articulus 1"
+          }
+        },
+        {
+          "id": "q01-a02",
+          "title": {
+            "en-US": "Article 2",
+            "la": "Articulus 2"
+          }
+        },
+        {
+          "id": "q01-a03",
+          "title": {
+            "en-US": "Article 3",
+            "la": "Articulus 3"
+          }
+        },
+        {
+          "id": "q01-a04",
+          "title": {
+            "en-US": "Article 4",
+            "la": "Articulus 4"
+          }
+        },
+        {
+          "id": "q01-a05",
+          "title": {
+            "en-US": "Article 5",
+            "la": "Articulus 5"
+          }
+        },
+        {
+          "id": "q01-a06",
+          "title": {
+            "en-US": "Article 6",
+            "la": "Articulus 6"
+          }
+        },
+        {
+          "id": "q01-a07",
+          "title": {
+            "en-US": "Article 7",
+            "la": "Articulus 7"
+          }
+        },
+        {
+          "id": "q01-a08",
+          "title": {
+            "en-US": "Article 8",
+            "la": "Articulus 8"
+          }
+        },
+        {
+          "id": "q01-a09",
+          "title": {
+            "en-US": "Article 9",
+            "la": "Articulus 9"
+          }
+        },
+        {
+          "id": "q01-a10",
+          "title": {
+            "en-US": "Article 10",
+            "la": "Articulus 10"
+          }
+        },
+        {
+          "id": "q01-a11",
+          "title": {
+            "en-US": "Article 11",
+            "la": "Articulus 11"
+          }
+        }
+      ]
+    }
+  ]
+}

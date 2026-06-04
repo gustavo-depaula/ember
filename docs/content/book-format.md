@@ -23,7 +23,27 @@ Books are one corpus kind among several (`practice`, `chapter`, `book`, `mass`, 
 
 ## Directory Structure
 
-Books live at `content/books/<id>/` in the v2 source tree (flat by kind — practices, chapters, books, masses, of-library, of-data, collections each at the corpus root). The directory shape inside each book is unchanged from v1:
+Books live under `content/books/` in the v2 source tree (flat by kind — practices, chapters, books, masses, of-library, of-data, collections each at the corpus root). The directory shape inside each book is unchanged from v1.
+
+**Nesting is permitted.** A book is identified by the presence of a `book.json` at the directory leaf; intermediate parent directories without a `book.json` are purely organizational. The corpus id comes from `book.json#id`, **not** from the directory path — so an author can group related works (e.g. an Opera Omnia) under a shared parent without affecting catalog ids or runtime resolution.
+
+```
+content/books/
+  kempis-imitation-of-christ/    ← flat: leaf book
+    book.json
+  aquinas-opera-omnia/           ← parent (no book.json)
+    catechetical-instructions/   ← leaf: book.json#id = "aquinas-catechetical-instructions"
+      book.json
+    summa-theologiae/            ← leaf: book.json#id = "aquinas-summa-theologiae"
+      book.json
+    catena-aurea/                ← parent (no book.json)
+      matthew/                   ← leaf
+        book.json
+      mark/                      ← leaf
+        book.json
+```
+
+The build pipeline (`scripts/build-corpus.py`) walks `content/books/**/book.json` recursively. Every `book.json` must declare its global id via `id`. Existing flat books (`kempis-*`, `montfort-*`, etc.) continue to work unchanged.
 
 ### Pure prose (montfort spirituality — books only)
 

@@ -1,0 +1,399 @@
+{
+  "id": "aquinas-sermons",
+  "name": {
+    "en-US": "Sermons",
+    "la": "Sermones"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's surviving university sermons — preached at Paris and Naples on the dominical and saints-day pericopes. Distinct from the Lenten *Catechetical Instructions* at Naples (1273), which are filed separately.",
+    "la": "Sermones Thomae superstites — apud Parisios et Neapolim de pericopis dominicis et sanctorum praedicati. Distincti a sermonibus Quadragesimalibus Neapolitanis (1273), qui *Instructiones Catecheticae* nominantur et separatim invenientur."
+  },
+  "composed": "1265–1273",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translations from the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "book-1",
+      "title": {
+        "en-US": "Index of Sermons",
+        "la": "Index Sermonum"
+      },
+      "children": [
+        {
+          "id": "b1-ch001",
+          "title": {
+            "en-US": "Sermon 1",
+            "la": "Sermo 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "en-US": "Puer Iesus (Sermon 8) — On the Boy Jesus",
+        "la": "Puer Iesus (Sermo 8)"
+      },
+      "children": [
+        {
+          "id": "b2-ch001",
+          "title": {
+            "en-US": "Sermon 1",
+            "la": "Sermo 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": {
+        "en-US": "Emitte (Sermon 11) — Pentecost",
+        "la": "Emitte (Sermo 11)"
+      },
+      "children": [
+        {
+          "id": "b3-ch001",
+          "title": {
+            "en-US": "Sermon 1",
+            "la": "Sermo 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-4",
+      "title": {
+        "en-US": "Attendite (Sermon 14) — On False Prophets",
+        "la": "Attendite (Sermo 14)"
+      },
+      "children": [
+        {
+          "id": "b4-ch001",
+          "title": {
+            "en-US": "Sermon 1",
+            "la": "Sermo 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-5",
+      "title": {
+        "en-US": "Inveni David (Sermon 16) — On David, the Servant",
+        "la": "Inveni David (Sermo 16)"
+      },
+      "children": [
+        {
+          "id": "b5-ch006",
+          "title": {
+            "en-US": "Sermon 6 — Sermon \"Inveni David\" — on the Feast of Saint Nicholas",
+            "la": "Sermo 6 — Sermon \"Inveni David\" — on the Feast of Saint Nicholas"
+          }
+        },
+        {
+          "id": "b5-ch006",
+          "title": {
+            "en-US": "Sermon 6 — by — St. Thomas Aquinas — Translated by Athanasius Sulavik — See *Angelicum* 82 (2005), 19-53, for full article with introduction and notes.",
+            "la": "Sermo 6 — by — St. Thomas Aquinas — Translated by Athanasius Sulavik — See *Angelicum* 82 (2005), 19-53, for full article with introduction and notes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-6",
+      "title": {
+        "en-US": "Beata Gens (Sermon 20) — On the Blessed Nation",
+        "la": "Beata Gens (Sermo 20)"
+      },
+      "children": [
+        {
+          "id": "b6-ch013",
+          "title": {
+            "en-US": "Sermon 13 — Sermon \"Beata gens\" — for the feast of All Saints",
+            "la": "Sermo 13 — Sermon \"Beata gens\" — for the feast of All Saints"
+          }
+        },
+        {
+          "id": "b6-ch013",
+          "title": {
+            "en-US": "Sermon 13",
+            "la": "Sermo 13"
+          }
+        },
+        {
+          "id": "b6-ch013",
+          "title": {
+            "en-US": "Sermon 13 — from",
+            "la": "Sermo 13 — from"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-7",
+      "title": {
+        "en-US": "Sermons on the Apostles' Creed (1273 Naples — Latin source)",
+        "la": "Sermones super Symbolum Apostolorum"
+      },
+      "children": [
+        {
+          "id": "b7-ch-0",
+          "title": {
+            "en-US": "Sermon 0",
+            "la": "Sermo 0"
+          }
+        },
+        {
+          "id": "b7-ch001",
+          "title": {
+            "en-US": "Sermon 1",
+            "la": "Sermo 1"
+          }
+        },
+        {
+          "id": "b7-ch002",
+          "title": {
+            "en-US": "Sermon 2",
+            "la": "Sermo 2"
+          }
+        },
+        {
+          "id": "b7-ch003",
+          "title": {
+            "en-US": "Sermon 3",
+            "la": "Sermo 3"
+          }
+        },
+        {
+          "id": "b7-ch004",
+          "title": {
+            "en-US": "Sermon 4",
+            "la": "Sermo 4"
+          }
+        },
+        {
+          "id": "b7-ch005",
+          "title": {
+            "en-US": "Sermon 5",
+            "la": "Sermo 5"
+          }
+        },
+        {
+          "id": "b7-ch006",
+          "title": {
+            "en-US": "Sermon 6",
+            "la": "Sermo 6"
+          }
+        },
+        {
+          "id": "b7-ch007",
+          "title": {
+            "en-US": "Sermon 7",
+            "la": "Sermo 7"
+          }
+        },
+        {
+          "id": "b7-ch008",
+          "title": {
+            "en-US": "Sermon 8",
+            "la": "Sermo 8"
+          }
+        },
+        {
+          "id": "b7-ch009",
+          "title": {
+            "en-US": "Sermon 9",
+            "la": "Sermo 9"
+          }
+        },
+        {
+          "id": "b7-ch010",
+          "title": {
+            "en-US": "Sermon 10",
+            "la": "Sermo 10"
+          }
+        },
+        {
+          "id": "b7-ch011",
+          "title": {
+            "en-US": "Sermon 11",
+            "la": "Sermo 11"
+          }
+        },
+        {
+          "id": "b7-ch012",
+          "title": {
+            "en-US": "Sermon 12",
+            "la": "Sermo 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-8",
+      "title": {
+        "en-US": "Sermons on the Lord's Prayer (1273 Naples — Latin source)",
+        "la": "Sermones super Pater Noster"
+      },
+      "children": [
+        {
+          "id": "b8-ch006",
+          "title": {
+            "en-US": "Sermon 6 — Petition 6",
+            "la": "Sermo 6 — Petition 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-9",
+      "title": {
+        "en-US": "Sermons on the Hail Mary (1273 Naples — Latin source)",
+        "la": "Sermones super Ave Maria"
+      },
+      "children": [
+        {
+          "id": "b9-ch-prooemium",
+          "title": {
+            "en-US": "Prooemium",
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-10",
+      "title": {
+        "en-US": "Sermons on the Ten Commandments (1273 Naples — Latin source)",
+        "la": "Sermones super Decem Praecepta"
+      },
+      "children": [
+        {
+          "id": "b10-ch-0",
+          "title": {
+            "en-US": "Sermon 0",
+            "la": "Sermo 0"
+          }
+        },
+        {
+          "id": "b10-ch001",
+          "title": {
+            "en-US": "Sermon 1",
+            "la": "Sermo 1"
+          }
+        },
+        {
+          "id": "b10-ch002",
+          "title": {
+            "en-US": "Sermon 2",
+            "la": "Sermo 2"
+          }
+        },
+        {
+          "id": "b10-ch003",
+          "title": {
+            "en-US": "Sermon 3",
+            "la": "Sermo 3"
+          }
+        },
+        {
+          "id": "b10-ch004",
+          "title": {
+            "en-US": "Sermon 4",
+            "la": "Sermo 4"
+          }
+        },
+        {
+          "id": "b10-ch005",
+          "title": {
+            "en-US": "Sermon 5",
+            "la": "Sermo 5"
+          }
+        },
+        {
+          "id": "b10-ch006",
+          "title": {
+            "en-US": "Sermon 6",
+            "la": "Sermo 6"
+          }
+        },
+        {
+          "id": "b10-ch007",
+          "title": {
+            "en-US": "Sermon 7",
+            "la": "Sermo 7"
+          }
+        },
+        {
+          "id": "b10-ch008",
+          "title": {
+            "en-US": "Sermon 8",
+            "la": "Sermo 8"
+          }
+        },
+        {
+          "id": "b10-ch009",
+          "title": {
+            "en-US": "Sermon 9",
+            "la": "Sermo 9"
+          }
+        },
+        {
+          "id": "b10-ch010",
+          "title": {
+            "en-US": "Sermon 10",
+            "la": "Sermo 10"
+          }
+        },
+        {
+          "id": "b10-ch011",
+          "title": {
+            "en-US": "Sermon 11",
+            "la": "Sermo 11"
+          }
+        },
+        {
+          "id": "b10-ch012",
+          "title": {
+            "en-US": "Sermon 12",
+            "la": "Sermo 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-11",
+      "title": {
+        "en-US": "De divinis moribus",
+        "la": "De divinis moribus"
+      },
+      "children": [
+        {
+          "id": "b11-ch001",
+          "title": {
+            "en-US": "Sermon 1",
+            "la": "Sermo 1"
+          }
+        }
+      ]
+    }
+  ]
+}

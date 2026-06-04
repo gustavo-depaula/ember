@@ -1,0 +1,1208 @@
+{
+  "id": "aquinas-comm-metaphysics",
+  "name": {
+    "en-US": "Commentary on the Metaphysics",
+    "la": "Sententia super Metaphysicam"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's lectio-by-lectio commentary on Aristotle's *Metaphysics*, books I–XII (XIII–XIV combined). The metaphysical complement to the Ethics commentary.",
+    "la": "Expositio Thomae secundum modum lectionis librorum I–XII *Metaphysicae* Aristotelis (XIII–XIV simul). Complementum metaphysicum commentarii in *Ethica*."
+  },
+  "composed": "1270–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "English translation by John P. Rowan (Henry Regnery, Chicago, 1961). Translation status: may be under copyright in the United States until 2056; mirrored via the Geremia/AquinasOperaOmnia GitHub repository."
+    },
+    {
+      "language": "la",
+      "url": "https://github.com/Geremia/AquinasOperaOmnia",
+      "description": "Latin Leonine / Marietti edition (public domain), mirrored from dhspriory.org via the Geremia/AquinasOperaOmnia GitHub repository."
+    }
+  ],
+  "toc": [
+    {
+      "id": "book-1",
+      "title": {
+        "en-US": "Book 1",
+        "la": "Liber 1"
+      },
+      "children": [
+        {
+          "id": "b1-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b1-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b1-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b1-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b1-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b1-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b1-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b1-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b1-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b1-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b1-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b1-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "b1-ch013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "b1-ch014",
+          "title": {
+            "en-US": "Lecture 14",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "b1-ch015",
+          "title": {
+            "en-US": "Lecture 15",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "b1-ch016",
+          "title": {
+            "en-US": "Lecture 16",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "b1-ch017",
+          "title": {
+            "en-US": "Lecture 17",
+            "la": "Lectio 17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "en-US": "Book 2",
+        "la": "Liber 2"
+      },
+      "children": [
+        {
+          "id": "b2-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b2-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b2-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b2-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b2-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": {
+        "en-US": "Book 3",
+        "la": "Liber 3"
+      },
+      "children": [
+        {
+          "id": "b3-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b3-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b3-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b3-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b3-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b3-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b3-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b3-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b3-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b3-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b3-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b3-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "b3-ch013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "b3-ch014",
+          "title": {
+            "en-US": "Lecture 14",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "b3-ch015",
+          "title": {
+            "en-US": "Lecture 15",
+            "la": "Lectio 15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-4",
+      "title": {
+        "en-US": "Book 4",
+        "la": "Liber 4"
+      },
+      "children": [
+        {
+          "id": "b4-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b4-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b4-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b4-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b4-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b4-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b4-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b4-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b4-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b4-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b4-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b4-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "b4-ch013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "b4-ch014",
+          "title": {
+            "en-US": "Lecture 14",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "b4-ch015",
+          "title": {
+            "en-US": "Lecture 15",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "b4-ch016",
+          "title": {
+            "en-US": "Lecture 16",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "b4-ch017",
+          "title": {
+            "en-US": "Lecture 17",
+            "la": "Lectio 17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-5",
+      "title": {
+        "en-US": "Book 5",
+        "la": "Liber 5"
+      },
+      "children": [
+        {
+          "id": "b5-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b5-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b5-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b5-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b5-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b5-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b5-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b5-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b5-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b5-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b5-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b5-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "b5-ch013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "b5-ch014",
+          "title": {
+            "en-US": "Lecture 14",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "b5-ch015",
+          "title": {
+            "en-US": "Lecture 15",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "b5-ch016",
+          "title": {
+            "en-US": "Lecture 16",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "b5-ch017",
+          "title": {
+            "en-US": "Lecture 17",
+            "la": "Lectio 17"
+          }
+        },
+        {
+          "id": "b5-ch018",
+          "title": {
+            "en-US": "Lecture 18",
+            "la": "Lectio 18"
+          }
+        },
+        {
+          "id": "b5-ch019",
+          "title": {
+            "en-US": "Lecture 19",
+            "la": "Lectio 19"
+          }
+        },
+        {
+          "id": "b5-ch020",
+          "title": {
+            "en-US": "Lecture 20",
+            "la": "Lectio 20"
+          }
+        },
+        {
+          "id": "b5-ch021",
+          "title": {
+            "en-US": "Lecture 21",
+            "la": "Lectio 21"
+          }
+        },
+        {
+          "id": "b5-ch022",
+          "title": {
+            "en-US": "Lecture 22",
+            "la": "Lectio 22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-6",
+      "title": {
+        "en-US": "Book 6",
+        "la": "Liber 6"
+      },
+      "children": [
+        {
+          "id": "b6-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b6-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b6-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b6-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-7",
+      "title": {
+        "en-US": "Book 7",
+        "la": "Liber 7"
+      },
+      "children": [
+        {
+          "id": "b7-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b7-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b7-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b7-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b7-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b7-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b7-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b7-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b7-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b7-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b7-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b7-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "b7-ch013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        },
+        {
+          "id": "b7-ch014",
+          "title": {
+            "en-US": "Lecture 14",
+            "la": "Lectio 14"
+          }
+        },
+        {
+          "id": "b7-ch015",
+          "title": {
+            "en-US": "Lecture 15",
+            "la": "Lectio 15"
+          }
+        },
+        {
+          "id": "b7-ch016",
+          "title": {
+            "en-US": "Lecture 16",
+            "la": "Lectio 16"
+          }
+        },
+        {
+          "id": "b7-ch017",
+          "title": {
+            "en-US": "Lecture 17",
+            "la": "Lectio 17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-8",
+      "title": {
+        "en-US": "Book 8",
+        "la": "Liber 8"
+      },
+      "children": [
+        {
+          "id": "b8-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b8-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b8-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b8-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b8-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-9",
+      "title": {
+        "en-US": "Book 9",
+        "la": "Liber 9"
+      },
+      "children": [
+        {
+          "id": "b9-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b9-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b9-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b9-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b9-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b9-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b9-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b9-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b9-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b9-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b9-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-10",
+      "title": {
+        "en-US": "Book 10",
+        "la": "Liber 10"
+      },
+      "children": [
+        {
+          "id": "b10-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b10-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b10-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b10-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b10-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b10-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b10-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b10-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b10-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b10-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b10-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b10-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-11",
+      "title": {
+        "en-US": "Book 11",
+        "la": "Liber 11"
+      },
+      "children": [
+        {
+          "id": "b11-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b11-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b11-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b11-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b11-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b11-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b11-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b11-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b11-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b11-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b11-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b11-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        },
+        {
+          "id": "b11-ch013",
+          "title": {
+            "en-US": "Lecture 13",
+            "la": "Lectio 13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-12",
+      "title": {
+        "en-US": "Book 12",
+        "la": "Liber 12"
+      },
+      "children": [
+        {
+          "id": "b12-ch001",
+          "title": {
+            "en-US": "Lecture 1",
+            "la": "Lectio 1"
+          }
+        },
+        {
+          "id": "b12-ch002",
+          "title": {
+            "en-US": "Lecture 2",
+            "la": "Lectio 2"
+          }
+        },
+        {
+          "id": "b12-ch003",
+          "title": {
+            "en-US": "Lecture 3",
+            "la": "Lectio 3"
+          }
+        },
+        {
+          "id": "b12-ch004",
+          "title": {
+            "en-US": "Lecture 4",
+            "la": "Lectio 4"
+          }
+        },
+        {
+          "id": "b12-ch005",
+          "title": {
+            "en-US": "Lecture 5",
+            "la": "Lectio 5"
+          }
+        },
+        {
+          "id": "b12-ch006",
+          "title": {
+            "en-US": "Lecture 6",
+            "la": "Lectio 6"
+          }
+        },
+        {
+          "id": "b12-ch007",
+          "title": {
+            "en-US": "Lecture 7",
+            "la": "Lectio 7"
+          }
+        },
+        {
+          "id": "b12-ch008",
+          "title": {
+            "en-US": "Lecture 8",
+            "la": "Lectio 8"
+          }
+        },
+        {
+          "id": "b12-ch009",
+          "title": {
+            "en-US": "Lecture 9",
+            "la": "Lectio 9"
+          }
+        },
+        {
+          "id": "b12-ch010",
+          "title": {
+            "en-US": "Lecture 10",
+            "la": "Lectio 10"
+          }
+        },
+        {
+          "id": "b12-ch011",
+          "title": {
+            "en-US": "Lecture 11",
+            "la": "Lectio 11"
+          }
+        },
+        {
+          "id": "b12-ch012",
+          "title": {
+            "en-US": "Lecture 12",
+            "la": "Lectio 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-13",
+      "title": {
+        "en-US": "Books 13–14",
+        "la": "Libri 13–14"
+      },
+      "children": [
+        {
+          "id": "b13-ch014",
+          "title": {
+            "en-US": "Lecture 14 — Ν",
+            "la": "Lectio 14 — Ν"
+          }
+        }
+      ]
+    }
+  ]
+}
