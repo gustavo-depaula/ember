@@ -528,13 +528,14 @@ WORKS_CC: dict[str, WorkSpec] = {
             {"wid": 43, "did_la": 873, "did_en": 855, "label_en": "Quodlibet XII", "label_la": "Quodlibet XII", "rows": 426},
         ],
     ),
-    # ------ Sentences (full bilingual on aquinas.cc; Geremia has fragments) ------
-    "super-sententias-cc": WorkSpec(
-        slug="super-sententias-cc",
-        sub_path="commentaries/super-sententias-full",
-        book_id="aquinas-super-sententias-cc",
-        name_en="Commentary on the Sentences (full)",
-        name_la="Scriptum super Libros Sententiarum (completum)",
+    # ------ Sentences (full bilingual on aquinas.cc — canonical; Geremia
+    # only had a handful of articles via index pages) ------
+    "super-sententias": WorkSpec(
+        slug="super-sententias",
+        sub_path="commentaries/super-sententias",
+        book_id="aquinas-super-sententias",
+        name_en="Commentary on the Sentences",
+        name_la="Scriptum super Libros Sententiarum",
         composed="1252–1256",
         description_en="The complete *Scriptum super Sententias* — Aquinas's *cursus baccalaureus* at Paris (1252–1256), a verse-by-verse commentary on Peter Lombard's *Sentences* in four books. Aquinas's first major theological work and the largest by sheer volume.",
         description_la="*Scriptum super Sententias* completum — *cursus baccalaureus* Thomae apud Parisios (1252–1256), expositio quattuor librorum *Sententiarum* Petri Lombardi. Primum opus theologicum maius Thomae et per molem maximum.",

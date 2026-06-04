@@ -2517,23 +2517,10 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
         ),
         "office-of-corpus-christi",
     ),
-    "sentences": (
-        LinearWorkSpec(
-            book_id="aquinas-super-sententias",
-            name_en="Commentary on the Sentences",
-            name_la="Scriptum super Libros Sententiarum",
-            composed="1252–1256",
-            description_en="Aquinas's first major theological work — the *bachelor of Sentences* cursus at Paris. Four books following the structure of Peter Lombard's *Sentences*. The Geremia mirror contains the available Latin/English fragments.",
-            description_la="Opus theologicum primum maius Thomae — *cursus baccalaurei Sententiarum* apud Parisios. Quattuor libri ad ordinem *Sententiarum* Petri Lombardi. Fragmenta latina-anglica disponibilia in speculo Geremiae.",
-            translator_note_en="Various translations, mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
-            source_files=["Sentences.htm", "Sentences1.htm", "Sentences2.htm", "Sentences3.htm", "Sentences4.htm"],
-            chapter_label_en="Section",
-            chapter_label_la="Sectio",
-            group_titles_en=["Index", "Book I (Distinctions)", "Book II (Distinctions)", "Book III (Distinctions)", "Book IV (Distinctions)"],
-            group_titles_la=["Index", "Liber I (Distinctiones)", "Liber II (Distinctiones)", "Liber III (Distinctiones)", "Liber IV (Distinctiones)"],
-        ),
-        "commentaries/super-sententias",
-    ),
+    # Super Sententias: the canonical full bilingual is sourced from
+    # aquinas.cc via scripts/scrape-aquinas-cc.py (slug "super-sententias").
+    # The Geremia mirror only has a handful of articles via index pages and
+    # rendered as one-line dumps, so we don't import it here.
     # ------ Biblical commentaries ------
     "super-matthaeum": (
         LinearWorkSpec(

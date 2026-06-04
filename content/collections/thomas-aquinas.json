@@ -364,10 +364,6 @@
 				{
 					"kind": "item",
 					"ref": "book/aquinas-super-sententias"
-				},
-				{
-					"kind": "item",
-					"ref": "book/aquinas-super-sententias-cc"
 				}
 			]
 		},
