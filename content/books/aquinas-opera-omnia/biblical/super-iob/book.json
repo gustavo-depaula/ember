@@ -33,281 +33,281 @@
     {
       "id": "ch-0",
       "title": {
-        "en-US": "Chapter 0",
-        "la": "Caput 0"
+        "en-US": "Lecture 0",
+        "la": "Lectio 0"
       }
     },
     {
-      "id": "ch011",
+      "id": "c01-l1",
       "title": {
-        "en-US": "Chapter 11",
-        "la": "Caput 11"
+        "en-US": "Chapter 1, Lecture 1",
+        "la": "Caput 1, Lectio 1"
       }
     },
     {
-      "id": "ch061",
+      "id": "c06-l1",
       "title": {
-        "en-US": "Chapter 61",
-        "la": "Caput 61"
+        "en-US": "Chapter 6, Lecture 1",
+        "la": "Caput 6, Lectio 1"
       }
     },
     {
-      "id": "ch071",
+      "id": "c07-l1",
       "title": {
-        "en-US": "Chapter 71",
-        "la": "Caput 71"
+        "en-US": "Chapter 7, Lecture 1",
+        "la": "Caput 7, Lectio 1"
       }
     },
     {
-      "id": "ch081",
+      "id": "c08-l1",
       "title": {
-        "en-US": "Chapter 81",
-        "la": "Caput 81"
+        "en-US": "Chapter 8, Lecture 1",
+        "la": "Caput 8, Lectio 1"
       }
     },
     {
-      "id": "ch091",
+      "id": "c09-l1",
       "title": {
-        "en-US": "Chapter 91",
-        "la": "Caput 91"
+        "en-US": "Chapter 9, Lecture 1",
+        "la": "Caput 9, Lectio 1"
       }
     },
     {
-      "id": "ch101",
+      "id": "c10-l1",
       "title": {
-        "en-US": "Chapter 101",
-        "la": "Caput 101"
+        "en-US": "Chapter 10, Lecture 1",
+        "la": "Caput 10, Lectio 1"
       }
     },
     {
-      "id": "ch111",
+      "id": "c11-l1",
       "title": {
-        "en-US": "Chapter 111",
-        "la": "Caput 111"
+        "en-US": "Chapter 11, Lecture 1",
+        "la": "Caput 11, Lectio 1"
       }
     },
     {
-      "id": "ch121",
+      "id": "c12-l1",
       "title": {
-        "en-US": "Chapter 121",
-        "la": "Caput 121"
+        "en-US": "Chapter 12, Lecture 1",
+        "la": "Caput 12, Lectio 1"
       }
     },
     {
-      "id": "ch131",
+      "id": "c13-l1",
       "title": {
-        "en-US": "Chapter 131",
-        "la": "Caput 131"
+        "en-US": "Chapter 13, Lecture 1",
+        "la": "Caput 13, Lectio 1"
       }
     },
     {
-      "id": "ch141",
+      "id": "c14-l1",
       "title": {
-        "en-US": "Chapter 141",
-        "la": "Caput 141"
+        "en-US": "Chapter 14, Lecture 1",
+        "la": "Caput 14, Lectio 1"
       }
     },
     {
-      "id": "ch151",
+      "id": "c15-l1",
       "title": {
-        "en-US": "Chapter 151",
-        "la": "Caput 151"
+        "en-US": "Chapter 15, Lecture 1",
+        "la": "Caput 15, Lectio 1"
       }
     },
     {
-      "id": "ch161",
+      "id": "c16-l1",
       "title": {
-        "en-US": "Chapter 161",
-        "la": "Caput 161"
+        "en-US": "Chapter 16, Lecture 1",
+        "la": "Caput 16, Lectio 1"
       }
     },
     {
-      "id": "ch171",
+      "id": "c17-l1",
       "title": {
-        "en-US": "Chapter 171",
-        "la": "Caput 171"
+        "en-US": "Chapter 17, Lecture 1",
+        "la": "Caput 17, Lectio 1"
       }
     },
     {
-      "id": "ch181",
+      "id": "c18-l1",
       "title": {
-        "en-US": "Chapter 181",
-        "la": "Caput 181"
+        "en-US": "Chapter 18, Lecture 1",
+        "la": "Caput 18, Lectio 1"
       }
     },
     {
-      "id": "ch191",
+      "id": "c19-l1",
       "title": {
-        "en-US": "Chapter 191",
-        "la": "Caput 191"
+        "en-US": "Chapter 19, Lecture 1",
+        "la": "Caput 19, Lectio 1"
       }
     },
     {
-      "id": "ch201",
+      "id": "c20-l1",
       "title": {
-        "en-US": "Chapter 201",
-        "la": "Caput 201"
+        "en-US": "Chapter 20, Lecture 1",
+        "la": "Caput 20, Lectio 1"
       }
     },
     {
-      "id": "ch211",
+      "id": "c21-l1",
       "title": {
-        "en-US": "Chapter 211",
-        "la": "Caput 211"
+        "en-US": "Chapter 21, Lecture 1",
+        "la": "Caput 21, Lectio 1"
       }
     },
     {
-      "id": "ch221",
+      "id": "c22-l1",
       "title": {
-        "en-US": "Chapter 221",
-        "la": "Caput 221"
+        "en-US": "Chapter 22, Lecture 1",
+        "la": "Caput 22, Lectio 1"
       }
     },
     {
-      "id": "ch023",
+      "id": "c02-l3",
       "title": {
-        "en-US": "Chapter 23",
-        "la": "Caput 23"
+        "en-US": "Chapter 2, Lecture 3",
+        "la": "Caput 2, Lectio 3"
       }
     },
     {
-      "id": "ch024",
+      "id": "c02-l4",
       "title": {
-        "en-US": "Chapter 24",
-        "la": "Caput 24"
+        "en-US": "Chapter 2, Lecture 4",
+        "la": "Caput 2, Lectio 4"
       }
     },
     {
-      "id": "ch025",
+      "id": "c02-l5",
       "title": {
-        "en-US": "Chapter 25",
-        "la": "Caput 25"
+        "en-US": "Chapter 2, Lecture 5",
+        "la": "Caput 2, Lectio 5"
       }
     },
     {
-      "id": "ch026",
+      "id": "c02-l6",
       "title": {
-        "en-US": "Chapter 26",
-        "la": "Caput 26"
+        "en-US": "Chapter 2, Lecture 6",
+        "la": "Caput 2, Lectio 6"
       }
     },
     {
-      "id": "ch027",
+      "id": "c02-l7",
       "title": {
-        "en-US": "Chapter 27",
-        "la": "Caput 27"
+        "en-US": "Chapter 2, Lecture 7",
+        "la": "Caput 2, Lectio 7"
       }
     },
     {
-      "id": "ch281",
+      "id": "c28-l1",
       "title": {
-        "en-US": "Chapter 281",
-        "la": "Caput 281"
+        "en-US": "Chapter 28, Lecture 1",
+        "la": "Caput 28, Lectio 1"
       }
     },
     {
-      "id": "ch029",
+      "id": "c02-l9",
       "title": {
-        "en-US": "Chapter 29",
-        "la": "Caput 29"
+        "en-US": "Chapter 2, Lecture 9",
+        "la": "Caput 2, Lectio 9"
       }
     },
     {
       "id": "ch030",
       "title": {
-        "en-US": "Chapter 30",
-        "la": "Caput 30"
+        "en-US": "Lecture 30",
+        "la": "Lectio 30"
       }
     },
     {
-      "id": "ch311",
+      "id": "c31-l1",
       "title": {
-        "en-US": "Chapter 311",
-        "la": "Caput 311"
+        "en-US": "Chapter 31, Lecture 1",
+        "la": "Caput 31, Lectio 1"
       }
     },
     {
-      "id": "ch032",
+      "id": "c03-l2",
       "title": {
-        "en-US": "Chapter 32",
-        "la": "Caput 32"
+        "en-US": "Chapter 3, Lecture 2",
+        "la": "Caput 3, Lectio 2"
       }
     },
     {
-      "id": "ch331",
+      "id": "c33-l1",
       "title": {
-        "en-US": "Chapter 331",
-        "la": "Caput 331"
+        "en-US": "Chapter 33, Lecture 1",
+        "la": "Caput 33, Lectio 1"
       }
     },
     {
-      "id": "ch341",
+      "id": "c34-l1",
       "title": {
-        "en-US": "Chapter 341",
-        "la": "Caput 341"
+        "en-US": "Chapter 34, Lecture 1",
+        "la": "Caput 34, Lectio 1"
       }
     },
     {
-      "id": "ch035",
+      "id": "c03-l5",
       "title": {
-        "en-US": "Chapter 35",
-        "la": "Caput 35"
+        "en-US": "Chapter 3, Lecture 5",
+        "la": "Caput 3, Lectio 5"
       }
     },
     {
-      "id": "ch361",
+      "id": "c36-l1",
       "title": {
-        "en-US": "Chapter 361",
-        "la": "Caput 361"
+        "en-US": "Chapter 36, Lecture 1",
+        "la": "Caput 36, Lectio 1"
       }
     },
     {
-      "id": "ch371",
+      "id": "c37-l1",
       "title": {
-        "en-US": "Chapter 371",
-        "la": "Caput 371"
+        "en-US": "Chapter 37, Lecture 1",
+        "la": "Caput 37, Lectio 1"
       }
     },
     {
-      "id": "ch381",
+      "id": "c38-l1",
       "title": {
-        "en-US": "Chapter 381",
-        "la": "Caput 381"
+        "en-US": "Chapter 38, Lecture 1",
+        "la": "Caput 38, Lectio 1"
       }
     },
     {
-      "id": "ch039",
+      "id": "c03-l9",
       "title": {
-        "en-US": "Chapter 39",
-        "la": "Caput 39"
+        "en-US": "Chapter 3, Lecture 9",
+        "la": "Caput 3, Lectio 9"
       }
     },
     {
-      "id": "ch401",
+      "id": "c40-l1",
       "title": {
-        "en-US": "Chapter 401",
-        "la": "Caput 401"
+        "en-US": "Chapter 40, Lecture 1",
+        "la": "Caput 40, Lectio 1"
       }
     },
     {
-      "id": "ch411",
+      "id": "c41-l1",
       "title": {
-        "en-US": "Chapter 411",
-        "la": "Caput 411"
+        "en-US": "Chapter 41, Lecture 1",
+        "la": "Caput 41, Lectio 1"
       }
     },
     {
-      "id": "ch042",
+      "id": "c04-l2",
       "title": {
-        "en-US": "Chapter 42",
-        "la": "Caput 42"
+        "en-US": "Chapter 4, Lecture 2",
+        "la": "Caput 4, Lectio 2"
       }
     },
     {
-      "id": "ch043",
+      "id": "c04-l3",
       "title": {
-        "en-US": "Chapter 43",
-        "la": "Caput 43"
+        "en-US": "Chapter 4, Lecture 3",
+        "la": "Caput 4, Lectio 3"
       }
     }
   ]
