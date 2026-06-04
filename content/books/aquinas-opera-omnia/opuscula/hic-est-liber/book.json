@@ -1,0 +1,48 @@
+{
+  "id": "aquinas-hic-est-liber",
+  "name": {
+    "en-US": "Hic est Liber (Inaugural Sermon II)",
+    "la": "Hic est Liber (Principium II)"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's second inaugural sermon as Master at Paris — *Hic est liber mandatorum Dei* — the *commendatio et divisio Sacrae Scripturae* every new master delivered.",
+    "la": "Sermo principalis secundus Thomae magistri Parisiensis — *Hic est liber mandatorum Dei* — *commendatio et divisio Sacrae Scripturae* a novo magistro faciendae."
+  },
+  "composed": 1256,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Hic est Liber",
+      "description": "English translation by Daniel Gilhooly. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Hic est Liber",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "hicest",
+      "title": {
+        "en-US": "HicEst",
+        "la": "HicEst"
+      }
+    },
+    {
+      "id": "hicest",
+      "title": {
+        "en-US": "This is the Book",
+        "la": "This is the Book"
+      }
+    }
+  ]
+}

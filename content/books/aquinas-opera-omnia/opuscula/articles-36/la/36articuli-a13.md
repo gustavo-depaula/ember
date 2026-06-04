@@ -1,0 +1,5 @@
+# Article 13
+
+Iste articulus implicite proponitur. Ex una parte dicitur quod Deus sua virtute potest omne corpus immediate movere; quod non video quin repugnet ei quod dicitur, quod non potest corpus movere immediate, referatur ad hoc quod subditur. Ita quod movere quod est divisibile et mensuratum tempore sit actio Dei, quae est ejus essentia simplicissima; hoc enim Deus nec facere nec vult quod ejus actio quae est sua essentia sit divisibilis et tempore mensurata. Sed cum dicitur Deus movet aliquod corpus, per hoc verbum movet non importatur actio divisibilis et tempore mensurata, sed actio simplex, quae est sua essentia: nam non solum Deus sed etiam quilibet intellectus movet per imperium, ut supra dictum est. Imperium autem intellectus nihil est aliud quam conceptio effectus ordinata ad implendum. Velle autem et intelligere Dei non est aliud quam ejus essentia: unde sicut actio qua Deus creavit res, ita et actio qua Deus potest immediate movere corpus, nihil est aliud quam ejus intelligere et ejus velle.
+
+Articulus 14

@@ -1,0 +1,83 @@
+{
+  "id": "aquinas-letter-6-articles",
+  "name": {
+    "en-US": "Letter to Brother Gerard of Besançon on the 6 Articles",
+    "la": "Epistola ad Fratrem Gerardum Bisuntinum de 6 Articulis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A short letter from Aquinas to a fellow Dominican answering six doctrinal questions.",
+    "la": "Epistola brevis Thomae fratri Dominicano ad sex quaestiones doctrinales respondens."
+  },
+  "composed": 1271,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~6 Articuli",
+      "description": "Translation from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~6 Articuli",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "6articulis",
+      "title": {
+        "en-US": "6Articulis",
+        "la": "6Articulis"
+      }
+    },
+    {
+      "id": "6articulis",
+      "title": {
+        "en-US": "Prologue",
+        "la": "Prologue"
+      }
+    },
+    {
+      "id": "6articulis-aa13",
+      "title": {
+        "en-US": "Articles 1-3",
+        "la": "Articles 1-3"
+      }
+    },
+    {
+      "id": "6articulis-a4",
+      "title": {
+        "en-US": "Article 4",
+        "la": "Article 4"
+      }
+    },
+    {
+      "id": "6articulis-a5",
+      "title": {
+        "en-US": "Article 5",
+        "la": "Article 5"
+      }
+    },
+    {
+      "id": "6articulis-a6",
+      "title": {
+        "en-US": "Article 6",
+        "la": "Article 6"
+      }
+    },
+    {
+      "id": "6articulis",
+      "title": {
+        "en-US": "Epilogue",
+        "la": "Epilogue"
+      }
+    }
+  ]
+}

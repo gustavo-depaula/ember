@@ -1,0 +1,146 @@
+{
+  "id": "aquinas-de-divinis-nominibus",
+  "name": {
+    "en-US": "Commentary on Dionysius's On the Divine Names",
+    "la": "Super Librum Dionysii De Divinis Nominibus"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the *Divine Names* of Pseudo-Dionysius the Areopagite — the central Neoplatonic-Christian treatise on the divine attributes that profoundly shaped Aquinas's own theology of God.",
+    "la": "Expositio Thomae in *De Divinis Nominibus* Pseudo-Dionysii Areopagitae — tractatum Neoplatonico-Christianum centralem de attributis divinis qui theologiam Thomae de Deo profunde formavit."
+  },
+  "composed": "1261–1268",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~De Divinis Nominibus",
+      "description": "English translation by Harry C. Hannon. Mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~De Divinis Nominibus",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedivnom",
+      "title": {
+        "en-US": "DeDivNom",
+        "la": "DeDivNom"
+      }
+    },
+    {
+      "id": "dedivnom-pr",
+      "title": {
+        "en-US": "Prooemium",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "dedivnom-c1",
+      "title": {
+        "en-US": "C. 1 - What Is the Intention of the Discussion and What Is the Tradition Concerning the Divine Names",
+        "la": "C. 1 - What Is the Intention of the Discussion and What Is the Tradition Concerning the Divine Names"
+      }
+    },
+    {
+      "id": "dedivnom-c2",
+      "title": {
+        "en-US": "C. 2 - On United and Discrete Theology and What Is Divine Unition and Discretion",
+        "la": "C. 2 - On United and Discrete Theology and What Is Divine Unition and Discretion"
+      }
+    },
+    {
+      "id": "dedivnom-c3",
+      "title": {
+        "en-US": "C. 3 - What Is the Virtue of Prayer, and On Blessed Hierotheus, and On Reverence, and On the Theological Treatise",
+        "la": "C. 3 - What Is the Virtue of Prayer, and On Blessed Hierotheus, and On Reverence, and On the Theological Treatise"
+      }
+    },
+    {
+      "id": "dedivnom-c4",
+      "title": {
+        "en-US": "C. 4 - On the Good, Light, the Beautiful, Love, Ecstasy, and Zeal; And that Evil Is Not Existing, Nor of an Existing Thing, Nor in Existing Things",
+        "la": "C. 4 - On the Good, Light, the Beautiful, Love, Ecstasy, and Zeal; And that Evil Is Not Existing, Nor of an Existing Thing, Nor in Existing Things"
+      }
+    },
+    {
+      "id": "dedivnom-c5",
+      "title": {
+        "en-US": "C. 5 - On Existing, In Which Also On Exemplars",
+        "la": "C. 5 - On Existing, In Which Also On Exemplars"
+      }
+    },
+    {
+      "id": "dedivnom-c6",
+      "title": {
+        "en-US": "C. 6 - On Life",
+        "la": "C. 6 - On Life"
+      }
+    },
+    {
+      "id": "dedivnom-c7",
+      "title": {
+        "en-US": "C. 7 - On Wisdom, Mind, Reason, Truth, and Faith",
+        "la": "C. 7 - On Wisdom, Mind, Reason, Truth, and Faith"
+      }
+    },
+    {
+      "id": "dedivnom-c8",
+      "title": {
+        "en-US": "C. 8 - On Virtue, Justice, Salvation, Liberation, In Which Also On Inequality",
+        "la": "C. 8 - On Virtue, Justice, Salvation, Liberation, In Which Also On Inequality"
+      }
+    },
+    {
+      "id": "dedivnom-c9",
+      "title": {
+        "en-US": "C. 9 - On Small, Great, Same, Other, Like, Unlike, Station, Session, Motion, Equality",
+        "la": "C. 9 - On Small, Great, Same, Other, Like, Unlike, Station, Session, Motion, Equality"
+      }
+    },
+    {
+      "id": "dedivnom-c10",
+      "title": {
+        "en-US": "C. 10 - On Omnipotent; Ancient of Days; In Which Also On Aevum and On Time",
+        "la": "C. 10 - On Omnipotent; Ancient of Days; In Which Also On Aevum and On Time"
+      }
+    },
+    {
+      "id": "dedivnom-c11",
+      "title": {
+        "en-US": "C. 11 - On Peace; And What Per Se Being Means; What Per Se Life; And What Per Se Virtue; And What Are Said Thus",
+        "la": "C. 11 - On Peace; And What Per Se Being Means; What Per Se Life; And What Per Se Virtue; And What Are Said Thus"
+      }
+    },
+    {
+      "id": "dedivnom-c12",
+      "title": {
+        "en-US": "C. 12 - On Holy of Holies; King of Kings; Lord of Lords; God of Gods",
+        "la": "C. 12 - On Holy of Holies; King of Kings; Lord of Lords; God of Gods"
+      }
+    },
+    {
+      "id": "dedivnom-c13",
+      "title": {
+        "en-US": "C. 13 - On Perfect and One",
+        "la": "C. 13 - On Perfect and One"
+      }
+    },
+    {
+      "id": "dedivnom",
+      "title": {
+        "en-US": "Conclusion of the Exposition",
+        "la": "Conclusion of the Exposition"
+      }
+    }
+  ]
+}

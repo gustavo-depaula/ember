@@ -1,0 +1,272 @@
+{
+  "id": "aquinas-liber-de-causis",
+  "name": {
+    "en-US": "Commentary on the Book of Causes",
+    "la": "Super Librum De Causis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's commentary on the *Liber de Causis* — the Neoplatonic compilation derived from Proclus's *Elements of Theology*. Aquinas was the first medieval to identify its source as Proclus rather than Aristotle.",
+    "la": "Expositio Thomae in *Librum de Causis* — compilationem Neoplatonicam ex *Elementatione Theologica* Procli derivatam. Thomas primus medii aevi fontem eius Proclum, non Aristotelem esse identificavit."
+  },
+  "composed": "1271–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Liber de Causis",
+      "description": "English translation mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Liber de Causis",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "libcaus",
+      "title": {
+        "en-US": "LibCaus",
+        "la": "LibCaus"
+      }
+    },
+    {
+      "id": "libcaus",
+      "title": {
+        "en-US": "Prologue",
+        "la": "Prologue"
+      }
+    },
+    {
+      "id": "libcaus-l1",
+      "title": {
+        "en-US": "Proposition 1",
+        "la": "Proposition 1"
+      }
+    },
+    {
+      "id": "libcaus-l2",
+      "title": {
+        "en-US": "Proposition 2",
+        "la": "Proposition 2"
+      }
+    },
+    {
+      "id": "libcaus-l3",
+      "title": {
+        "en-US": "Proposition 3",
+        "la": "Proposition 3"
+      }
+    },
+    {
+      "id": "libcaus-l4",
+      "title": {
+        "en-US": "Proposition 4",
+        "la": "Proposition 4"
+      }
+    },
+    {
+      "id": "libcaus-l5",
+      "title": {
+        "en-US": "Proposition 5",
+        "la": "Proposition 5"
+      }
+    },
+    {
+      "id": "libcaus-l6",
+      "title": {
+        "en-US": "Proposition 6",
+        "la": "Proposition 6"
+      }
+    },
+    {
+      "id": "libcaus-l7",
+      "title": {
+        "en-US": "Proposition 7",
+        "la": "Proposition 7"
+      }
+    },
+    {
+      "id": "libcaus-l8",
+      "title": {
+        "en-US": "Proposition 8",
+        "la": "Proposition 8"
+      }
+    },
+    {
+      "id": "libcaus-l9",
+      "title": {
+        "en-US": "Proposition 9",
+        "la": "Proposition 9"
+      }
+    },
+    {
+      "id": "libcaus-l10",
+      "title": {
+        "en-US": "Proposition 10",
+        "la": "Proposition 10"
+      }
+    },
+    {
+      "id": "libcaus-l11",
+      "title": {
+        "en-US": "Proposition 11",
+        "la": "Proposition 11"
+      }
+    },
+    {
+      "id": "libcaus-l12",
+      "title": {
+        "en-US": "Proposition 12",
+        "la": "Proposition 12"
+      }
+    },
+    {
+      "id": "libcaus-l13",
+      "title": {
+        "en-US": "Proposition 13",
+        "la": "Proposition 13"
+      }
+    },
+    {
+      "id": "libcaus-l14",
+      "title": {
+        "en-US": "Proposition 14",
+        "la": "Proposition 14"
+      }
+    },
+    {
+      "id": "libcaus-l15",
+      "title": {
+        "en-US": "Proposition 15",
+        "la": "Proposition 15"
+      }
+    },
+    {
+      "id": "libcaus",
+      "title": {
+        "en-US": "Proposition 16",
+        "la": "Proposition 16"
+      }
+    },
+    {
+      "id": "libcaus-l17",
+      "title": {
+        "en-US": "Proposition 17",
+        "la": "Proposition 17"
+      }
+    },
+    {
+      "id": "libcaus-l18",
+      "title": {
+        "en-US": "Proposition 18",
+        "la": "Proposition 18"
+      }
+    },
+    {
+      "id": "libcaus-l19",
+      "title": {
+        "en-US": "Proposition 19",
+        "la": "Proposition 19"
+      }
+    },
+    {
+      "id": "libcaus-l20",
+      "title": {
+        "en-US": "Proposition 20",
+        "la": "Proposition 20"
+      }
+    },
+    {
+      "id": "libcaus-l21",
+      "title": {
+        "en-US": "Proposition 21",
+        "la": "Proposition 21"
+      }
+    },
+    {
+      "id": "libcaus-l22",
+      "title": {
+        "en-US": "Proposition 22",
+        "la": "Proposition 22"
+      }
+    },
+    {
+      "id": "libcaus-l23",
+      "title": {
+        "en-US": "Proposition 23",
+        "la": "Proposition 23"
+      }
+    },
+    {
+      "id": "libcaus-l24",
+      "title": {
+        "en-US": "Proposition 24",
+        "la": "Proposition 24"
+      }
+    },
+    {
+      "id": "libcaus-l25",
+      "title": {
+        "en-US": "Proposition 25",
+        "la": "Proposition 25"
+      }
+    },
+    {
+      "id": "libcaus-l26",
+      "title": {
+        "en-US": "Proposition 26",
+        "la": "Proposition 26"
+      }
+    },
+    {
+      "id": "libcaus-l27",
+      "title": {
+        "en-US": "Proposition 27",
+        "la": "Proposition 27"
+      }
+    },
+    {
+      "id": "libcaus-l28",
+      "title": {
+        "en-US": "Proposition 28",
+        "la": "Proposition 28"
+      }
+    },
+    {
+      "id": "libcaus-l29",
+      "title": {
+        "en-US": "Proposition 29",
+        "la": "Proposition 29"
+      }
+    },
+    {
+      "id": "libcaus-l30",
+      "title": {
+        "en-US": "Proposition 30",
+        "la": "Proposition 30"
+      }
+    },
+    {
+      "id": "libcaus-l31",
+      "title": {
+        "en-US": "Proposition 31",
+        "la": "Proposition 31"
+      }
+    },
+    {
+      "id": "libcaus-l32",
+      "title": {
+        "en-US": "Proposition 32",
+        "la": "Proposition 32"
+      }
+    }
+  ]
+}

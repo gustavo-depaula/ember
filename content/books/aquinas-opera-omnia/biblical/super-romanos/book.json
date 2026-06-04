@@ -1,0 +1,160 @@
+{
+  "id": "aquinas-super-romanos",
+  "name": {
+    "en-US": "Commentary on Romans",
+    "la": "Super Epistolam ad Romanos Lectura"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Aquinas's most extensive and mature Pauline commentary, on the Epistle to the Romans. Composed during his second Paris regency. The summit of his Pauline exegesis.",
+    "la": "Expositio Pauline Thomae maxima et matura, in Epistolam ad Romanos. Composita in regentia secunda Parisiensi. Culmen exegeseos Paulinae apud Thomam."
+  },
+  "composed": "1265–1272",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Ad Romanos",
+      "description": "English translation by Fabian R. Larcher, O.P., revised by The Aquinas Institute (Lander, WY). Mirrored from aquinas.cc; the Aquinas Institute asserts copyright on their AI Text Engine — text is the Shapcote-derived Larcher revision."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Ad Romanos",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "rom",
+      "title": {
+        "en-US": "Rom",
+        "la": "Rom"
+      }
+    },
+    {
+      "id": "rom-pr",
+      "title": {
+        "en-US": "Pr. - Acts 9:15",
+        "la": "Pr. - Acts 9:15"
+      }
+    },
+    {
+      "id": "rom-c1",
+      "title": {
+        "en-US": "C. 1 - Salutation and Introduction",
+        "la": "C. 1 - Salutation and Introduction"
+      }
+    },
+    {
+      "id": "rom-c2",
+      "title": {
+        "en-US": "C. 2 - Divine Judgment and the Jewish Law",
+        "la": "C. 2 - Divine Judgment and the Jewish Law"
+      }
+    },
+    {
+      "id": "rom-c3",
+      "title": {
+        "en-US": "C. 3 - Faith and the Purpose of the Law",
+        "la": "C. 3 - Faith and the Purpose of the Law"
+      }
+    },
+    {
+      "id": "rom-c4",
+      "title": {
+        "en-US": "C. 4 - Abraham’s Justification",
+        "la": "C. 4 - Abraham’s Justification"
+      }
+    },
+    {
+      "id": "rom-c5",
+      "title": {
+        "en-US": "C. 5 - Redemption from Death by Christ",
+        "la": "C. 5 - Redemption from Death by Christ"
+      }
+    },
+    {
+      "id": "rom-c6",
+      "title": {
+        "en-US": "C. 6 - Dying and Rising with Christ",
+        "la": "C. 6 - Dying and Rising with Christ"
+      }
+    },
+    {
+      "id": "rom-c7",
+      "title": {
+        "en-US": "C. 7 - The Law and Sin",
+        "la": "C. 7 - The Law and Sin"
+      }
+    },
+    {
+      "id": "rom-c8",
+      "title": {
+        "en-US": "C. 8 - Redemption of the Flesh",
+        "la": "C. 8 - Redemption of the Flesh"
+      }
+    },
+    {
+      "id": "rom-c9",
+      "title": {
+        "en-US": "C. 9 - God’s Wrath and Mercy",
+        "la": "C. 9 - God’s Wrath and Mercy"
+      }
+    },
+    {
+      "id": "rom-c10",
+      "title": {
+        "en-US": "C. 10 - Faith and Confession for Salvation",
+        "la": "C. 10 - Faith and Confession for Salvation"
+      }
+    },
+    {
+      "id": "rom-c11",
+      "title": {
+        "en-US": "C. 11 - Salvation of Both Jews and Gentiles",
+        "la": "C. 11 - Salvation of Both Jews and Gentiles"
+      }
+    },
+    {
+      "id": "rom-c12",
+      "title": {
+        "en-US": "C. 12 - The New Life in Christ",
+        "la": "C. 12 - The New Life in Christ"
+      }
+    },
+    {
+      "id": "rom-c13",
+      "title": {
+        "en-US": "C. 13 - Obedience and Love",
+        "la": "C. 13 - Obedience and Love"
+      }
+    },
+    {
+      "id": "rom-c14",
+      "title": {
+        "en-US": "C. 14 - Avoidance of Scandal",
+        "la": "C. 14 - Avoidance of Scandal"
+      }
+    },
+    {
+      "id": "rom-c15",
+      "title": {
+        "en-US": "C. 15 - The Gospel for Both Jews and Gentiles",
+        "la": "C. 15 - The Gospel for Both Jews and Gentiles"
+      }
+    },
+    {
+      "id": "rom-c16",
+      "title": {
+        "en-US": "C. 16 - Personal Greetings and Doxology",
+        "la": "C. 16 - Personal Greetings and Doxology"
+      }
+    }
+  ]
+}

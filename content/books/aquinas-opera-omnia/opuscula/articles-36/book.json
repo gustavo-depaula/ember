@@ -1,0 +1,300 @@
+{
+  "id": "aquinas-letter-36-articles",
+  "name": {
+    "en-US": "Letter to Bassiano of Lodi on the 36 Articles",
+    "la": "Epistola ad Bassianum Laudensem de 36 Articulis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A second response Aquinas wrote to Bassiano, answering 36 further doctrinal questions.",
+    "la": "Secundum responsum Thomae Bassiano ad 36 quaestiones doctrinales ulteriores."
+  },
+  "composed": 1271,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~36 Articuli",
+      "description": "Translation from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~36 Articuli",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "36articuli",
+      "title": {
+        "en-US": "36Articuli",
+        "la": "36Articuli"
+      }
+    },
+    {
+      "id": "36articuli",
+      "title": {
+        "en-US": "Prologue",
+        "la": "Prologue"
+      }
+    },
+    {
+      "id": "36articuli-a1",
+      "title": {
+        "en-US": "Article 1",
+        "la": "Article 1"
+      }
+    },
+    {
+      "id": "36articuli-a2",
+      "title": {
+        "en-US": "Article 2",
+        "la": "Article 2"
+      }
+    },
+    {
+      "id": "36articuli-a3",
+      "title": {
+        "en-US": "Article 3",
+        "la": "Article 3"
+      }
+    },
+    {
+      "id": "36articuli-a4",
+      "title": {
+        "en-US": "Article 4",
+        "la": "Article 4"
+      }
+    },
+    {
+      "id": "36articuli-a5",
+      "title": {
+        "en-US": "Article 5",
+        "la": "Article 5"
+      }
+    },
+    {
+      "id": "36articuli-a6",
+      "title": {
+        "en-US": "Article 6",
+        "la": "Article 6"
+      }
+    },
+    {
+      "id": "36articuli-a7",
+      "title": {
+        "en-US": "Article 7",
+        "la": "Article 7"
+      }
+    },
+    {
+      "id": "36articuli-a8",
+      "title": {
+        "en-US": "Article 8",
+        "la": "Article 8"
+      }
+    },
+    {
+      "id": "36articuli-a9",
+      "title": {
+        "en-US": "Article 9",
+        "la": "Article 9"
+      }
+    },
+    {
+      "id": "36articuli-a10",
+      "title": {
+        "en-US": "Article 10",
+        "la": "Article 10"
+      }
+    },
+    {
+      "id": "36articuli-a11",
+      "title": {
+        "en-US": "Article 11",
+        "la": "Article 11"
+      }
+    },
+    {
+      "id": "36articuli-a12",
+      "title": {
+        "en-US": "Article 12",
+        "la": "Article 12"
+      }
+    },
+    {
+      "id": "36articuli-a13",
+      "title": {
+        "en-US": "Article 13",
+        "la": "Article 13"
+      }
+    },
+    {
+      "id": "36articuli-a14",
+      "title": {
+        "en-US": "Article 14",
+        "la": "Article 14"
+      }
+    },
+    {
+      "id": "36articuli-a15",
+      "title": {
+        "en-US": "Article 15",
+        "la": "Article 15"
+      }
+    },
+    {
+      "id": "36articuli-a16",
+      "title": {
+        "en-US": "Article 16",
+        "la": "Article 16"
+      }
+    },
+    {
+      "id": "36articuli-a17",
+      "title": {
+        "en-US": "Article 17",
+        "la": "Article 17"
+      }
+    },
+    {
+      "id": "36articuli-a18",
+      "title": {
+        "en-US": "Article 18",
+        "la": "Article 18"
+      }
+    },
+    {
+      "id": "36articuli-a19",
+      "title": {
+        "en-US": "Article 19",
+        "la": "Article 19"
+      }
+    },
+    {
+      "id": "36articuli-a20",
+      "title": {
+        "en-US": "Article 20",
+        "la": "Article 20"
+      }
+    },
+    {
+      "id": "36articuli-a21",
+      "title": {
+        "en-US": "Article 21",
+        "la": "Article 21"
+      }
+    },
+    {
+      "id": "36articuli-a22",
+      "title": {
+        "en-US": "Article 22",
+        "la": "Article 22"
+      }
+    },
+    {
+      "id": "36articuli-a23",
+      "title": {
+        "en-US": "Article 23",
+        "la": "Article 23"
+      }
+    },
+    {
+      "id": "36articuli-a24",
+      "title": {
+        "en-US": "Article 24",
+        "la": "Article 24"
+      }
+    },
+    {
+      "id": "36articuli-a25",
+      "title": {
+        "en-US": "Article 25",
+        "la": "Article 25"
+      }
+    },
+    {
+      "id": "36articuli-a26",
+      "title": {
+        "en-US": "Article 26",
+        "la": "Article 26"
+      }
+    },
+    {
+      "id": "36articuli-a27",
+      "title": {
+        "en-US": "Article 27",
+        "la": "Article 27"
+      }
+    },
+    {
+      "id": "36articuli-a28",
+      "title": {
+        "en-US": "Article 28",
+        "la": "Article 28"
+      }
+    },
+    {
+      "id": "36articuli-aa2930",
+      "title": {
+        "en-US": "Articles 29-30",
+        "la": "Articles 29-30"
+      }
+    },
+    {
+      "id": "36articuli-a31",
+      "title": {
+        "en-US": "Article 31",
+        "la": "Article 31"
+      }
+    },
+    {
+      "id": "36articuli-a32",
+      "title": {
+        "en-US": "Article 32",
+        "la": "Article 32"
+      }
+    },
+    {
+      "id": "36articuli-a33",
+      "title": {
+        "en-US": "Article 33",
+        "la": "Article 33"
+      }
+    },
+    {
+      "id": "36articuli-a34",
+      "title": {
+        "en-US": "Article 34",
+        "la": "Article 34"
+      }
+    },
+    {
+      "id": "36articuli-a35",
+      "title": {
+        "en-US": "Article 35",
+        "la": "Article 35"
+      }
+    },
+    {
+      "id": "36articuli-a36",
+      "title": {
+        "en-US": "Article 36",
+        "la": "Article 36"
+      }
+    },
+    {
+      "id": "36articuli",
+      "title": {
+        "en-US": "Epilogue",
+        "la": "Epilogue"
+      }
+    }
+  ]
+}

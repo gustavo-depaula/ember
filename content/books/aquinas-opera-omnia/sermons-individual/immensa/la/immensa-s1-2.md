@@ -1,0 +1,3 @@
+# Immensa.S1.2
+
+Manducatur utique a fidelibus, sed minime laceratur, quinimmo diviso sacramento integer sub qualibet divisionis particula perseverat. Accidentia etiam sine subiecto in eodem existunt, ut fides locum habeat dum visibile invisibiliter sumitur, aliena specie occultatum, et sensus a deceptione immunes reddantur qui de accidentibus iudicant sibi notis. Nullum etiam sacramentum est isto salubrius quo purgantur peccata, virtutes augentur, et mens omnium spiritualium charismatum abundantia inpinguatur. Offertur in Ecclesia pro vivis et mortuis, ut omnibus prosit quod est pro salute omnium institutum.

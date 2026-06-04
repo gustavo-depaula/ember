@@ -1,0 +1,174 @@
+{
+  "id": "aquinas-tabula-ethicorum",
+  "name": {
+    "en-US": "Table of the Ethics",
+    "la": "Tabula Libri Ethicorum"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A reference index Aquinas compiled of moral concepts in Aristotle's *Nicomachean Ethics*, organized alphabetically by Latin lemma. A scholarly companion to the *Sententia Libri Ethicorum*.",
+    "la": "Index alphabeticus conceptuum moralium ex *Ethicis Nicomacheis* Aristotelis a Thoma compositus. Comes scholaris *Sententiae Libri Ethicorum*."
+  },
+  "composed": "1270",
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~Tabula Libri Ethicorum",
+      "description": "English translation mirrored from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~Tabula Libri Ethicorum",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Tabula",
+        "la": "Tabula"
+      }
+    },
+    {
+      "id": "tabula-c1",
+      "title": {
+        "en-US": "Chapter 1",
+        "la": "Chapter 1"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 2",
+        "la": "Chapter 2"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 3",
+        "la": "Chapter 3"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 4",
+        "la": "Chapter 4"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 5",
+        "la": "Chapter 5"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 6",
+        "la": "Chapter 6"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 7",
+        "la": "Chapter 7"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 8",
+        "la": "Chapter 8"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 9",
+        "la": "Chapter 9"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 10",
+        "la": "Chapter 10"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 11",
+        "la": "Chapter 11"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 12",
+        "la": "Chapter 12"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 13",
+        "la": "Chapter 13"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 14",
+        "la": "Chapter 14"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 15",
+        "la": "Chapter 15"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 16",
+        "la": "Chapter 16"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 17",
+        "la": "Chapter 17"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 18",
+        "la": "Chapter 18"
+      }
+    },
+    {
+      "id": "tabula",
+      "title": {
+        "en-US": "Chapter 19",
+        "la": "Chapter 19"
+      }
+    }
+  ]
+}

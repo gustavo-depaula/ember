@@ -1,0 +1,147 @@
+{
+  "id": "aquinas-de-malo",
+  "name": {
+    "en-US": "Disputed Questions on Evil",
+    "la": "Quaestiones Disputatae de Malo"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "Sixteen disputed questions on the nature of evil, original sin, the capital vices, and the demonic. Available Latin only via aquinas.cc; the standard English (Regan/Davies, Oxford 2003) is still under copyright.",
+    "la": "Sedecim quaestiones disputatae de natura mali, peccato originali, vitiis capitalibus, et de daemonibus. Tantum latine disponibile in aquinas.cc; versio anglica standardica (Regan/Davies, Oxonii 2003) adhuc sub iure auctoris."
+  },
+  "composed": "1266–1272",
+  "languages": [
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~De Malo",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "qdemalo",
+      "title": {
+        "en-US": "QDeMalo",
+        "la": "QDeMalo"
+      }
+    },
+    {
+      "id": "qdemalo-q1",
+      "title": {
+        "en-US": "Q. 1 - On evil",
+        "la": "Q. 1 - On evil"
+      }
+    },
+    {
+      "id": "qdemalo-q2",
+      "title": {
+        "en-US": "Q. 2 - On sin",
+        "la": "Q. 2 - On sin"
+      }
+    },
+    {
+      "id": "qdemalo-q3",
+      "title": {
+        "en-US": "Q. 3 - On the cause of sin",
+        "la": "Q. 3 - On the cause of sin"
+      }
+    },
+    {
+      "id": "qdemalo-q4",
+      "title": {
+        "en-US": "Q. 4 - On original sin",
+        "la": "Q. 4 - On original sin"
+      }
+    },
+    {
+      "id": "qdemalo-q5",
+      "title": {
+        "en-US": "Q. 5 - On the punishment of original sin",
+        "la": "Q. 5 - On the punishment of original sin"
+      }
+    },
+    {
+      "id": "qdemalo-q6",
+      "title": {
+        "en-US": "Q. 6 - On human choice",
+        "la": "Q. 6 - On human choice"
+      }
+    },
+    {
+      "id": "qdemalo-q7",
+      "title": {
+        "en-US": "Q. 7 - On venial sin",
+        "la": "Q. 7 - On venial sin"
+      }
+    },
+    {
+      "id": "qdemalo-q8",
+      "title": {
+        "en-US": "Q. 8 - On the capital vices, and pride",
+        "la": "Q. 8 - On the capital vices, and pride"
+      }
+    },
+    {
+      "id": "qdemalo-q9",
+      "title": {
+        "en-US": "Q. 9 - On vainglory",
+        "la": "Q. 9 - On vainglory"
+      }
+    },
+    {
+      "id": "qdemalo-q10",
+      "title": {
+        "en-US": "Q. 10 - On envy",
+        "la": "Q. 10 - On envy"
+      }
+    },
+    {
+      "id": "qdemalo-q11",
+      "title": {
+        "en-US": "Q. 11 - On acedia",
+        "la": "Q. 11 - On acedia"
+      }
+    },
+    {
+      "id": "qdemalo-q12",
+      "title": {
+        "en-US": "Q. 12 - On wrath",
+        "la": "Q. 12 - On wrath"
+      }
+    },
+    {
+      "id": "qdemalo-q13",
+      "title": {
+        "en-US": "Q. 13 - On avarice",
+        "la": "Q. 13 - On avarice"
+      }
+    },
+    {
+      "id": "qdemalo-q14",
+      "title": {
+        "en-US": "Q. 14 - On gluttony",
+        "la": "Q. 14 - On gluttony"
+      }
+    },
+    {
+      "id": "qdemalo-q15",
+      "title": {
+        "en-US": "Q. 15 - On lust",
+        "la": "Q. 15 - On lust"
+      }
+    },
+    {
+      "id": "qdemalo-q16",
+      "title": {
+        "en-US": "Q. 16 - De daemonibus",
+        "la": "Q. 16 - De daemonibus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "aquinas-letter-30-articles",
+  "name": {
+    "en-US": "Letter to Bassiano of Lodi on the 30 Articles",
+    "la": "Epistola ad Bassianum Laudensem de 30 Articulis"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "la": "Sanctus Thomas Aquinas"
+  },
+  "description": {
+    "en-US": "A response Aquinas wrote to Bassiano, lector at Lodi, answering 30 doctrinal questions on the Trinity, Christology, sacraments, and demonology.",
+    "la": "Responsum Thomae Bassiano lectori Laudensi, ad 30 quaestiones doctrinales de Trinitate, Christologia, sacramentis, daemonologia."
+  },
+  "composed": 1271,
+  "languages": [
+    "en-US",
+    "la"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://aquinas.cc/la/en/~30 Articuli",
+      "description": "Translation from aquinas.cc."
+    },
+    {
+      "language": "la",
+      "url": "https://aquinas.cc/la/en/~30 Articuli",
+      "description": "Latin text from the Leonine / Marietti editions (public domain), mirrored from aquinas.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "30articuli",
+      "title": {
+        "en-US": "30Articuli",
+        "la": "30Articuli"
+      }
+    },
+    {
+      "id": "30articuli",
+      "title": {
+        "en-US": "Prooemium",
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "30articuli",
+      "title": {
+        "en-US": "Solutio",
+        "la": "Solutio"
+      }
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# Chapter 0 — Text — and — Commentary
+# Lecture 0 — Text — and — Commentary
 
 **PROLOGUE**
 

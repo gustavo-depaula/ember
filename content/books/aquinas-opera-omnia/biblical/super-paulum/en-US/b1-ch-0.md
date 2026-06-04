@@ -1,4 +1,4 @@
-# Chapter 0
+# Lecture 0
 
 “I will not hide from you the secrets (sacraments) of God, but will trace out her course from the beginning of creation and make the knowledge of her clear and will not pass by the truth” (Wis 6:22).
 

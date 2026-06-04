@@ -1,0 +1,3 @@
+# Immensa.S1.4
+
+Convenit itaque devotioni fidelium solemniter recolere institutionem tam salutiferi tamque mirabilis sacramenti, ut ineffabilem modum divinae praesentiae in sacramento visibili veneremur, et laudetur Dei potentia quae in sacramento eodem tot mirabilia operatur, nec non et de tam salubri tamque suavi beneficio exsolvantur Deo gratiarum debitae actiones. Verum et si in die Cenae quando sacramentum praedictum noscitur institutum, inter Missarum solemnia de institutione ipsius specialis mentio habeatur, totum tamen residuum eiusdem diei officium ad Christi Passionem pertinet, circa cuius venerationem Ecclesia illo tempore occupatur.
